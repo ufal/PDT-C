@@ -67,7 +67,10 @@
 <LM>w#w-lnd92259-032-p1s1w7</LM>
 </w.rf>
 <form>SNS</form>
-<tag lemma="SNS-1_:B_;K_;p_^(Slov._nár._strana)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="SNS-1_:B_;K_;p_^(Slov._nár._strana)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="SNS-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 </s>
 <s id="m-lnd92259-032-p2s1">
@@ -345,7 +348,10 @@
 <LM>w#w-lnd92259-032-p3s2w25</LM>
 </w.rf>
 <form>SNS</form>
-<tag lemma="SNS-1_:B_;K_;p_^(Slov._nár._strana)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="SNS-1_:B_;K_;p_^(Slov._nár._strana)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="SNS-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd92259-032-p3s2w26">
 <src.rf>manual</src.rf>
@@ -1049,7 +1055,10 @@
 <LM>w#w-lnd92259-032-p4s3w7</LM>
 </w.rf>
 <form>J</form>
-<tag lemma="J-0_:B_;Y" src="orig" selected="1">NNMXX-----A---8</tag>
+<tag>
+<AM lemma="J-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
+<AM lemma="J-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd92259-032-p4s3w8">
 <src.rf>manual</src.rf>
@@ -1325,7 +1334,10 @@
 <LM>w#w-lnd92259-032-p4s5w4</LM>
 </w.rf>
 <form>J</form>
-<tag lemma="J-0_:B_;Y" src="orig" selected="1">NNMXX-----A---8</tag>
+<tag>
+<AM lemma="J-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
+<AM lemma="J-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd92259-032-p4s5w5">
 <src.rf>manual</src.rf>
@@ -1392,6 +1404,8 @@
 <tag>
 <AM lemma="expertíza" src="orig">NNFS1-----A----</AM>
 <AM lemma="expertiza_,x" src="auto" recommended="1">NNFS1-----A----</AM>
+<AM lemma="expertíza_,s_^(^DD**expertiza)  " src="manual">NNFS1-----A----</AM>
+<AM lemma="expertíza_,s_^(^DD**expertiza)" src="manual" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92259-032-p4s5w13">
@@ -1517,7 +1531,7 @@
 <form>nikoli</form>
 <tag>
 <AM lemma="nikoliv" src="orig">Db------------1</AM>
-<AM lemma="nikoli" src="auto" recommended="1">TT-------------</AM>
+<AM lemma="nikoli" src="auto" recommended="1" selected="1">TT-------------</AM>
 </tag>
 </m>
 <m id="m-lnd92259-032-p4s6w13">

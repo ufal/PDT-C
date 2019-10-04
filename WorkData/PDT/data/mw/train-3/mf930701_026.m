@@ -109,7 +109,10 @@
 <LM>w#w-mf930701-026-p2s1w7</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-2" src="auto" selected="1">Dg-------2A----</tag>
+<tag>
+<AM lemma="hodně-2" src="auto">Dg-------2A----</AM>
+<AM lemma="hodně-3" src="manual" selected="1">Dg-------2A----</AM>
+</tag>
 </m>
 <m id="m-mf930701-026-p2s1w8">
 <src.rf>manual</src.rf>
@@ -134,7 +137,10 @@
 <LM>w#w-mf930701-026-p2s1w10</LM>
 </w.rf>
 <form>milionu</form>
-<tag lemma="milión`1000000" src="orig" selected="1">NNIS2-----A----</tag>
+<tag>
+<AM lemma="milión`1000000" src="orig">NNIS2-----A----</AM>
+<AM lemma="milion`1000000_,s_^(^DD**milión)" src="manual" selected="1">NNIS2-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930701-026-p2s1w11">
 <src.rf>manual</src.rf>
@@ -712,7 +718,10 @@
 <LM>w#w-mf930701-026-p2s6w8</LM>
 </w.rf>
 <form>RM</form>
-<tag lemma="RM_:B_;K_;b_^(RM-systém)" src="auto" selected="1">AAXXX----1A---8</tag>
+<tag>
+<AM lemma="RM_:B_;K_;b_^(RM-systém)" src="auto">AAXXX----1A---8</AM>
+<AM lemma="RM-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-mf930701-026-p2s6w9">
 <src.rf>manual</src.rf>

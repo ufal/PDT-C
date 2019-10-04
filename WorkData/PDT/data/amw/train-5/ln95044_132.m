@@ -95,7 +95,10 @@
 <LM>w#w-ln95044-132-p2s1Bw5</LM>
 </w.rf>
 <form>Deutsche</form>
-<tag lemma="Deutsche-1_;K_,t_^(souč._názvů,_např._D._Telekom)" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="Deutsche-1_;K_,t_^(souč._názvů,_např._D._Telekom)" src="orig">AAXXX----1A----</AM>
+<AM lemma="Deutsche-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln95044-132-p2s1Bw6">
 <src.rf>manual</src.rf>
@@ -103,7 +106,10 @@
 <LM>w#w-ln95044-132-p2s1Bw6</LM>
 </w.rf>
 <form>Bahn</form>
-<tag lemma="Bahn_;K_,t" src="orig" selected="1">NNFXX-----A----</tag>
+<tag>
+<AM lemma="Bahn_;K_,t" src="orig">NNFXX-----A----</AM>
+<AM lemma="Bahn-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln95044-132-p2s1Bw7">
 <src.rf>manual</src.rf>
@@ -111,7 +117,10 @@
 <LM>w#w-ln95044-132-p2s1Bw7</LM>
 </w.rf>
 <form>AG</form>
-<tag lemma="AG-1_:B_;b_,t_^(označ._něm._akciové_spol.)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="AG-1_:B_;b_,t_^(označ._něm._akciové_spol.)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="AG-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln95044-132-p2s1Bw8">
 <src.rf>manual</src.rf>
@@ -167,7 +176,10 @@
 <LM>w#w-ln95044-132-p2s1Bw14</LM>
 </w.rf>
 <form>Welt</form>
-<tag lemma="Welt_;R_,t" src="orig" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="Welt_;R_,t" src="orig">NNIS1-----A----</AM>
+<AM lemma="Welt-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln95044-132-p2s1Bw15">
 <src.rf>manual</src.rf>
@@ -178,6 +190,7 @@
 <tag>
 <AM lemma="am_,t" src="orig">RR--X----------</AM>
 <AM lemma="be_,t_^(angl._jsem,_v_názvech_apod.)" src="auto" recommended="1">VB-S---1P-AA---</AM>
+<AM lemma="am-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-ln95044-132-p2s1Bw16">
@@ -189,6 +202,7 @@
 <tag>
 <AM lemma="Sonntag_;R_,t" src="orig">NNIXX-----A----</AM>
 <AM lemma="Sonntag_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Sonntag-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-ln95044-132-p2s1Bw17">

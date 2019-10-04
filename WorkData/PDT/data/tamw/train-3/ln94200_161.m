@@ -78,6 +78,7 @@
 <AM lemma="mimo-1_:B" src="auto">RR--4---------8</AM>
 <AM lemma="minuta_:B" src="auto">NNFXX-----A---8</AM>
 <AM lemma="město_:B" src="auto">NNNXX-----A---8</AM>
+<AM lemma="metr" src="manual" selected="1">NNIXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-ln94200-161-p2s1Aw5">
@@ -128,6 +129,7 @@
 <AM lemma="mimo-1_:B" src="auto">RR--4---------8</AM>
 <AM lemma="minuta_:B" src="auto">NNFXX-----A---8</AM>
 <AM lemma="město_:B" src="auto">NNNXX-----A---8</AM>
+<AM lemma="metr" src="manual" selected="1">NNIXX-----A---8</AM>
 </tag>
 </m>
 </s>
@@ -139,7 +141,7 @@
 </w.rf>
 <form>Victoria</form>
 <tag>
-<AM lemma="Victoria_;G" src="orig">NNFS1-----A----</AM>
+<AM lemma="Victoria_;G" src="orig" selected="1">NNFS1-----A----</AM>
 <AM lemma="Victoria-1_;Y" src="auto" recommended="1">NNFS1-----A---1</AM>
 </tag>
 </m>
@@ -354,6 +356,7 @@
 <AM lemma="mimo-1_:B" src="auto">RR--4---------8</AM>
 <AM lemma="minuta_:B" src="auto">NNFXX-----A---8</AM>
 <AM lemma="město_:B" src="auto">NNNXX-----A---8</AM>
+<AM lemma="metr" src="manual" selected="1">NNIXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-ln94200-161-p2s2w9">
@@ -583,6 +586,7 @@
 <AM lemma="mimo-1_:B" src="auto">RR--4---------8</AM>
 <AM lemma="minuta_:B" src="auto">NNFXX-----A---8</AM>
 <AM lemma="město_:B" src="auto">NNNXX-----A---8</AM>
+<AM lemma="metr" src="manual" selected="1">NNIXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-ln94200-161-p2s3w9">
@@ -665,7 +669,10 @@
 <LM>w#w-ln94200-161-p2s3w18</LM>
 </w.rf>
 <form>s</form>
-<tag lemma="s-2`sekunda_:B" src="orig" selected="1">NNFXX-----A---1</tag>
+<tag>
+<AM lemma="s-2`sekunda_:B" src="orig">NNFXX-----A---1</AM>
+<AM lemma="sekunda" src="manual" selected="1">NNFXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln94200-161-p2s3w19">
 <src.rf>manual</src.rf>
@@ -1448,7 +1455,10 @@
 <LM>w#w-ln94200-161-p3s6w17</LM>
 </w.rf>
 <form>Sydney</form>
-<tag lemma="Sydney_;G" src="orig" selected="1">NNNSX-----A----</tag>
+<tag>
+<AM lemma="Sydney_;G" src="orig">NNNSX-----A----</AM>
+<AM lemma="Sydney_;G" src="manual" selected="1">NNNXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94200-161-p3s6w18">
 <src.rf>manual</src.rf>
@@ -1662,7 +1672,7 @@
 </w.rf>
 <form>Elanu</form>
 <tag>
-<AM lemma="Elana_;Y" src="orig">NNFS4-----A----</AM>
+<AM lemma="Elana_;Y" src="orig" selected="1">NNFS4-----A----</AM>
 <AM lemma="Elan_;G" src="auto" recommended="1">NNIS2-----A----</AM>
 <AM lemma="Elan_;G" src="auto">NNIS3-----A----</AM>
 <AM lemma="Elan_;G" src="auto">NNIS6-----A---1</AM>
@@ -1717,7 +1727,10 @@
 <LM>w#w-ln94200-161-p4s2w17</LM>
 </w.rf>
 <form>Yvonne</form>
-<tag lemma="Yvonne_;Y_,t" src="auto" selected="1">NNFXX-----A----</tag>
+<tag>
+<AM lemma="Yvonne_;Y_,t" src="auto">NNFXX-----A----</AM>
+<AM lemma="Yvonne_;Y" src="manual" selected="1">NNFXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94200-161-p4s2w18">
 <src.rf>manual</src.rf>
@@ -1986,6 +1999,7 @@
 <AM lemma="mimo-1_:B" src="auto">RR--4---------8</AM>
 <AM lemma="minuta_:B" src="auto">NNFXX-----A---8</AM>
 <AM lemma="město_:B" src="auto">NNNXX-----A---8</AM>
+<AM lemma="metr" src="manual" selected="1">NNIXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-ln94200-161-p4s4w12">
@@ -2167,6 +2181,7 @@
 <AM lemma="mimo-1_:B" src="auto">RR--4---------8</AM>
 <AM lemma="minuta_:B" src="auto">NNFXX-----A---8</AM>
 <AM lemma="město_:B" src="auto">NNNXX-----A---8</AM>
+<AM lemma="metr" src="manual" selected="1">NNIXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-ln94200-161-p5s1w7">
@@ -2183,6 +2198,7 @@
 <AM lemma="v-8_:B_^(ost._zkratka)" src="auto">XX------------8</AM>
 <AM lemma="versus_:B_,t_,x" src="auto">RR--1---------8</AM>
 <AM lemma="veřejný_:B_^(v.o.s.)" src="auto" recommended="1">AAXXX----1A---8</AM>
+<AM lemma="v-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94200-161-p5s1w8">
@@ -2199,7 +2215,10 @@
 <LM>w#w-ln94200-161-p5s1w9</LM>
 </w.rf>
 <form>zp</form>
-<tag lemma="zp-8_:B_^(ost._zkratka)" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="zp-8_:B_^(ost._zkratka)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="zp-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94200-161-p5s1w10">
 <src.rf>manual</src.rf>

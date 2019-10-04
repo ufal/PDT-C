@@ -291,7 +291,7 @@
 <AM lemma="m-1`metr_:B" src="orig">NNIXX-----A---8</AM>
 <AM lemma="m-3_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
 <AM lemma="m-8_:B_^(ost._zkratka)" src="auto">XX------------8</AM>
-<AM lemma="metr_:B" src="auto" recommended="1">NNIXX-----A---8</AM>
+<AM lemma="metr_:B" src="auto" recommended="1" selected="1">NNIXX-----A---8</AM>
 <AM lemma="mimo-1_:B" src="auto">RR--2---------8</AM>
 <AM lemma="mimo-1_:B" src="auto">RR--4---------8</AM>
 <AM lemma="minuta_:B" src="auto">NNFXX-----A---8</AM>
@@ -1655,7 +1655,10 @@
 <LM>w#w-lnd94101-098-p1s12Aw2</LM>
 </w.rf>
 <form>ČHMÚ</form>
-<tag lemma="ČHMÚ_:B_;K" src="auto" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="ČHMÚ_:B_;K" src="auto">NNXXX-----A---8</AM>
+<AM lemma="ČHMÚ-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd94101-098-p1s12Aw3">
 <src.rf>manual</src.rf>
@@ -1777,7 +1780,10 @@
 <LM>w#w-lnd94101-098-p1s12Bw2</LM>
 </w.rf>
 <form>UPIC</form>
-<tag lemma="UPIC_:B_;K" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="UPIC_:B_;K" src="orig">NNXXX-----A---8</AM>
+<AM lemma="UPIC-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd94101-098-p1s12Bw3">
 <src.rf>manual</src.rf>

@@ -367,7 +367,7 @@
 <form>začít</form>
 <tag>
 <AM lemma="začít-1" src="orig">Vf--------A----</AM>
-<AM lemma="začít-1_^(začnout)" src="auto" recommended="1">Vf--------A----</AM>
+<AM lemma="začít-1_^(začnout)" src="auto" recommended="1" selected="1">Vf--------A----</AM>
 <AM lemma="začít-2_^(pocítit)" src="auto">Vf--------A----</AM>
 </tag>
 </m>

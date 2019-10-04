@@ -19,7 +19,10 @@
 <LM>w#w-mf930703-001-p1s1w1</LM>
 </w.rf>
 <form>ODA</form>
-<tag lemma="ODA-2_:B_;K_;p_^(Občanská_demokratická_aliance)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ODA-2_:B_;K_;p_^(Občanská_demokratická_aliance)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ODA-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930703-001-p1s1w2">
 <src.rf>manual</src.rf>
@@ -35,7 +38,10 @@
 <LM>w#w-mf930703-001-p1s1w3</LM>
 </w.rf>
 <form>nechtěli</form>
-<tag lemma="chtít" src="orig" selected="1">VpMP---XR-NA---</tag>
+<tag>
+<AM lemma="chtít" src="orig">VpMP---XR-NA---</AM>
+<AM lemma="chtít_:T" src="manual" selected="1">VpMP---XR-NA---</AM>
+</tag>
 </m>
 <m id="m-mf930703-001-p1s1w4">
 <src.rf>manual</src.rf>
@@ -80,6 +86,7 @@
 <tag>
 <AM lemma="tk-99_:B_;S" src="orig">NNXXX-----A---8</AM>
 <AM lemma="tknout" src="auto" recommended="1">VpYS---XR-AA--6</AM>
+<AM lemma="tk-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930703-001-p2s1w4">
@@ -210,7 +217,10 @@
 <LM>w#w-mf930703-001-p2s2w1</LM>
 </w.rf>
 <form>Řekl</form>
-<tag lemma="říci" src="auto" selected="1">VpYS---XR-AA---</tag>
+<tag>
+<AM lemma="říci" src="auto">VpYS---XR-AA---</AM>
+<AM lemma="říci_:W" src="manual" selected="1">VpYS---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-mf930703-001-p2s2w2">
 <src.rf>manual</src.rf>
@@ -258,7 +268,10 @@
 <LM>w#w-mf930703-001-p2s2w7</LM>
 </w.rf>
 <form>ODA</form>
-<tag lemma="ODA-2_:B_;K_;p_^(Občanská_demokratická_aliance)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ODA-2_:B_;K_;p_^(Občanská_demokratická_aliance)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ODA-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930703-001-p2s2w8">
 <src.rf>manual</src.rf>
@@ -300,7 +313,10 @@
 <LM>w#w-mf930703-001-p2s3w2</LM>
 </w.rf>
 <form>má</form>
-<tag lemma="mít" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag>
+<AM lemma="mít" src="orig">VB-S---3P-AA---</AM>
+<AM lemma="mít_:T" src="manual" selected="1">VB-S---3P-AA---</AM>
+</tag>
 </m>
 <m id="m-mf930703-001-p2s3w3">
 <src.rf>manual</src.rf>
@@ -530,7 +546,7 @@
 <form>čehokoliv</form>
 <tag>
 <AM lemma="cokoliv" src="orig">PZ--2----------</AM>
-<AM lemma="cokoli" src="auto" recommended="1">PZ--2---------1</AM>
+<AM lemma="cokoli" src="auto" recommended="1" selected="1">PZ--2---------1</AM>
 </tag>
 </m>
 <m id="m-mf930703-001-p2s5w3">
@@ -643,7 +659,10 @@
 <LM>w#w-mf930703-001-p2s5w16</LM>
 </w.rf>
 <form>uvedl</form>
-<tag lemma="uvést" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag>
+<AM lemma="uvést" src="orig">VpYS---XR-AA---</AM>
+<AM lemma="uvést_:W" src="manual" selected="1">VpYS---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-mf930703-001-p2s5w17">
 <src.rf>manual</src.rf>

@@ -51,7 +51,10 @@
 <LM>w#w-ln95049-074-p1s1w5</LM>
 </w.rf>
 <form>extremismu</form>
-<tag lemma="extremismus" src="orig" selected="1">NNIS3-----A----</tag>
+<tag>
+<AM lemma="extremismus" src="orig">NNIS3-----A----</AM>
+<AM lemma="extremismus_,s_^(^DD**extremizmus)" src="manual" selected="1">NNIS3-----A----</AM>
+</tag>
 </m>
 </s>
 <s id="m-ln95049-074-p2s1A">
@@ -95,7 +98,10 @@
 <LM>w#w-ln95049-074-p2s1Bw3</LM>
 </w.rf>
 <form>Franjo</form>
-<tag lemma="Franjo_;Y_,t" src="orig" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Franjo_;Y_,t" src="orig">NNMS1-----A----</AM>
+<AM lemma="Franjo_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95049-074-p2s1Bw4">
 <src.rf>manual</src.rf>
@@ -313,7 +319,10 @@
 <LM>w#w-ln95049-074-p2s2w6</LM>
 </w.rf>
 <form>strany</form>
-<tag lemma="strana-2_^(politická)" src="orig" selected="1">NNFS2-----A----</tag>
+<tag>
+<AM lemma="strana-2_^(politická)" src="orig">NNFS2-----A----</AM>
+<AM lemma="strana" src="manual" selected="1">NNFS2-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95049-074-p2s2w7">
 <src.rf>manual</src.rf>
@@ -333,7 +342,7 @@
 <AM lemma="Záhřeb_;G" src="orig">NNIS6-----A----</AM>
 <AM lemma="Záhřeb_;G" src="auto">NNIS2-----A---1</AM>
 <AM lemma="Záhřeb_;G" src="auto">NNIS3-----A----</AM>
-<AM lemma="Záhřeb_;G" src="auto" recommended="1">NNIS6-----A---1</AM>
+<AM lemma="Záhřeb_;G" src="auto" recommended="1" selected="1">NNIS6-----A---1</AM>
 </tag>
 </m>
 <m id="m-ln95049-074-p2s2w9">
@@ -584,7 +593,10 @@
 <LM>w#w-ln95049-074-p2s3w6</LM>
 </w.rf>
 <form>Mladen</form>
-<tag lemma="Mladen_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Mladen_;S" src="orig">NNMS1-----A----</AM>
+<AM lemma="Mladen_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95049-074-p2s3w7">
 <src.rf>manual</src.rf>

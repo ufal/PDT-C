@@ -27,7 +27,10 @@
 <LM>w#w-lnd94103-050-p1s1Aw2</LM>
 </w.rf>
 <form>ANC</form>
-<tag lemma="ANC-1_:B_;K_^(Africký_národní_kongres)" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="ANC-1_:B_;K_^(Africký_národní_kongres)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="ANC-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd94103-050-p1s1Aw3">
 <src.rf>manual</src.rf>

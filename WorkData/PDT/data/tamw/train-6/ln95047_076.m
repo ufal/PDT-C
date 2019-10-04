@@ -443,6 +443,7 @@
 <AM lemma="Galus_;S" src="auto">NNMS4-----A----</AM>
 <AM lemma="gala-1" src="auto">NNNXX-----A----</AM>
 <AM lemma="gala-2" src="auto">AAXXX----1A----</AM>
+<AM lemma="Galo_;Y" src="manual" selected="1">NNMS2-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95047-076-p2s3w6">
@@ -631,7 +632,11 @@
 <LM>w#w-ln95047-076-p2s5w3</LM>
 </w.rf>
 <form>A</form>
-<tag lemma="A-0_:B_;Y" src="orig" selected="1">NNMXX-----A---8</tag>
+<tag>
+<AM lemma="A-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
+<AM lemma="A-88_:B" src="manual">NNXXX-----A---8</AM>
+<AM lemma="A-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95047-076-p2s5w4">
 <src.rf>manual</src.rf>

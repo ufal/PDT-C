@@ -181,7 +181,10 @@
 <LM>w#w-mf920902-035-p2s1w19</LM>
 </w.rf>
 <form>sice</form>
-<tag lemma="sice-2" src="auto" selected="1">Db-------------</tag>
+<tag>
+<AM lemma="sice-2" src="auto">Db-------------</AM>
+<AM lemma="sice-1_^(spojka;_připouští_se_určitá_fakta)" src="manual" selected="1">J^-------------</AM>
+</tag>
 </m>
 <m id="m-mf920902-035-p2s1w20">
 <src.rf>manual</src.rf>
@@ -819,7 +822,10 @@
 <LM>w#w-mf920902-035-p2s4w2</LM>
 </w.rf>
 <form>jen</form>
-<tag lemma="jen-1" src="auto" selected="1">TT-------------</tag>
+<tag>
+<AM lemma="jen-1" src="auto">TT-------------</AM>
+<AM lemma="jen-4_^(pouze)" src="manual" selected="1">Db-------------</AM>
+</tag>
 </m>
 <m id="m-mf920902-035-p2s4w3">
 <src.rf>manual</src.rf>
@@ -869,7 +875,7 @@
 <form>ovšem</form>
 <tag>
 <AM lemma="ovšem-1_^(avšak,_však;_odporovací_spojka)" src="orig">J^-------------</AM>
-<AM lemma="ovšem" src="auto" recommended="1">TT-------------</AM>
+<AM lemma="ovšem" src="auto" recommended="1" selected="1">TT-------------</AM>
 </tag>
 </m>
 <m id="m-mf920902-035-p2s4w9">
@@ -1104,7 +1110,7 @@
 <form>přece</form>
 <tag>
 <AM lemma="přece" src="orig">Db-------------</AM>
-<AM lemma="přece-1" src="auto" recommended="1">J^-------------</AM>
+<AM lemma="přece-1" src="auto" recommended="1" selected="1">J^-------------</AM>
 <AM lemma="přece-2" src="auto">TT-------------</AM>
 </tag>
 </m>
@@ -1252,7 +1258,10 @@
 <LM>w#w-mf920902-035-p2s5w9</LM>
 </w.rf>
 <form>spíše</form>
-<tag lemma="spíše" src="orig" selected="1">Dg-------2A---1</tag>
+<tag>
+<AM lemma="spíše" src="orig">Dg-------2A---1</AM>
+<AM lemma="spíš" src="manual" selected="1">TT------------1</AM>
+</tag>
 </m>
 <m id="m-mf920902-035-p2s5w10">
 <src.rf>manual</src.rf>
@@ -1350,7 +1359,10 @@
 <LM>w#w-mf920902-035-p2s6w2</LM>
 </w.rf>
 <form>sice</form>
-<tag lemma="sice-2" src="auto" selected="1">Db-------------</tag>
+<tag>
+<AM lemma="sice-2" src="auto">Db-------------</AM>
+<AM lemma="sice-1_^(spojka;_připouští_se_určitá_fakta)" src="manual" selected="1">J^-------------</AM>
+</tag>
 </m>
 <m id="m-mf920902-035-p2s6w3">
 <src.rf>manual</src.rf>

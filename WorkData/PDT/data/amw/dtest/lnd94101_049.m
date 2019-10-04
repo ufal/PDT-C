@@ -345,7 +345,10 @@
 <LM>w#w-lnd94101-049-p1s4w3</LM>
 </w.rf>
 <form>Martin</form>
-<tag lemma="Martin-1_;Y" src="orig" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Martin-1_;Y" src="orig">NNMS1-----A----</AM>
+<AM lemma="Martin_;Y_;G" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd94101-049-p1s4w4">
 <src.rf>manual</src.rf>
@@ -1007,7 +1010,7 @@
 <tag>
 <AM lemma="tady" src="orig">Db------------1</AM>
 <AM lemma="ten" src="auto" recommended="1">PDFS4----------</AM>
-<AM lemma="tu" src="auto">Db-------------</AM>
+<AM lemma="tu" src="auto" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m-lnd94101-049-p1s9w12">
@@ -1064,7 +1067,10 @@
 <LM>w#w-lnd94101-049-p1s9w18</LM>
 </w.rf>
 <form>M</form>
-<tag lemma="M-0_:B_;Y" src="orig" selected="1">NNMXX-----A---8</tag>
+<tag>
+<AM lemma="M-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
+<AM lemma="M-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd94101-049-p1s9w19">
 <src.rf>manual</src.rf>
@@ -1146,7 +1152,10 @@
 <LM>w#w-lnd94101-049-p1s10w7</LM>
 </w.rf>
 <form>nedávno</form>
-<tag lemma="nedávno-1" src="auto" selected="1">Db-------------</tag>
+<tag>
+<AM lemma="nedávno-1" src="auto">Db-------------</AM>
+<AM lemma="dávno-1" src="manual" selected="1">Dg-------1N----</AM>
+</tag>
 </m>
 <m id="m-lnd94101-049-p1s10w8">
 <src.rf>manual</src.rf>
@@ -1390,7 +1399,10 @@
 <LM>w#w-lnd94101-049-p1s12Aw5</LM>
 </w.rf>
 <form>Pavlu</form>
-<tag lemma="Pavel-1_;Y" src="orig" selected="1">NNMS3-----A---1</tag>
+<tag>
+<AM lemma="Pavel-1_;Y" src="orig">NNMS3-----A---1</AM>
+<AM lemma="Pavel_;Y_;S" src="manual" selected="1">NNMS3-----A---1</AM>
+</tag>
 </m>
 <m id="m-lnd94101-049-p1s12Aw6">
 <src.rf>manual</src.rf>
@@ -1636,7 +1648,10 @@
 <LM>w#w-lnd94101-049-p1s14w4</LM>
 </w.rf>
 <form>třeba</form>
-<tag lemma="třeba-2" src="auto" selected="1">Db-------------</tag>
+<tag>
+<AM lemma="třeba-2" src="auto">Db-------------</AM>
+<AM lemma="třeba-3" src="manual" selected="1">TT-------------</AM>
+</tag>
 </m>
 <m id="m-lnd94101-049-p1s14w5">
 <src.rf>manual</src.rf>
@@ -1820,7 +1835,10 @@
 <LM>w#w-lnd94101-049-p1s14w27</LM>
 </w.rf>
 <form>li</form>
-<tag lemma="li-1" src="auto" selected="1">TT-------------</tag>
+<tag>
+<AM lemma="li-1" src="auto">TT-------------</AM>
+<AM lemma="li-2" src="manual" selected="1">J,-------------</AM>
+</tag>
 </m>
 <m id="m-lnd94101-049-p1s14w28">
 <src.rf>manual</src.rf>

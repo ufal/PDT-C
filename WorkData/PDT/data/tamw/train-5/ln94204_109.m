@@ -271,7 +271,10 @@
 <LM>w#w-ln94204-109-p2s1Bw27</LM>
 </w.rf>
 <form>Silverstone</form>
-<tag lemma="Silverstone_;G" src="auto" selected="1">NNNSX-----A----</tag>
+<tag>
+<AM lemma="Silverstone_;G" src="auto">NNNSX-----A----</AM>
+<AM lemma="Silverstone-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94204-109-p2s1Bw28">
 <src.rf>manual</src.rf>
@@ -343,7 +346,10 @@
 <LM>w#w-ln94204-109-p2s1Bw36</LM>
 </w.rf>
 <form>Grand</form>
-<tag lemma="Grand-1_;K_,t_^(v_názvech)" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="Grand-1_;K_,t_^(v_názvech)" src="orig">AAXXX----1A----</AM>
+<AM lemma="Grand-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94204-109-p2s1Bw37">
 <src.rf>manual</src.rf>
@@ -351,7 +357,10 @@
 <LM>w#w-ln94204-109-p2s1Bw37</LM>
 </w.rf>
 <form>Prix</form>
-<tag lemma="Prix-2_;m_,t_^(cena)" src="orig" selected="1">NNFXX-----A----</tag>
+<tag>
+<AM lemma="Prix-2_;m_,t_^(cena)" src="orig">NNFXX-----A----</AM>
+<AM lemma="Prix-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94204-109-p2s1Bw38">
 <src.rf>manual</src.rf>
@@ -421,6 +430,7 @@
 <AM lemma="FIA_:B_;K_,t" src="orig">NNFXX-----A---8</AM>
 <AM lemma="FIA_:B" src="auto" recommended="1">NNXXX-----A---8</AM>
 <AM lemma="Fio_;K" src="auto">NNNS2-----A----</AM>
+<AM lemma="FIA-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94204-109-p2s2w8">
@@ -485,7 +495,10 @@
 <LM>w#w-ln94204-109-p2s2w15</LM>
 </w.rf>
 <form>rady</form>
-<tag lemma="rada-3_^(poradní_sbor;_př._Česká_národní_r.)" src="orig" selected="1">NNFS2-----A----</tag>
+<tag>
+<AM lemma="rada-3_^(poradní_sbor;_př._Česká_národní_r.)" src="orig">NNFS2-----A----</AM>
+<AM lemma="rada-1_^(př._dát_někomu_dobrou_radu;poradní_sbor)" src="manual" selected="1">NNFS2-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94204-109-p2s2w16">
 <src.rf>manual</src.rf>
@@ -497,6 +510,7 @@
 <AM lemma="FIA_:B_;K_,t" src="orig">NNFXX-----A---8</AM>
 <AM lemma="FIA_:B" src="auto" recommended="1">NNXXX-----A---8</AM>
 <AM lemma="Fio_;K" src="auto">NNNS2-----A----</AM>
+<AM lemma="FIA-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94204-109-p2s2w17">
@@ -657,7 +671,10 @@
 <LM>w#w-ln94204-109-p2s2w36</LM>
 </w.rf>
 <form>Silverstone</form>
-<tag lemma="Silverstone_;G" src="auto" selected="1">NNNSX-----A----</tag>
+<tag>
+<AM lemma="Silverstone_;G" src="auto">NNNSX-----A----</AM>
+<AM lemma="Silverstone-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94204-109-p2s2w37">
 <src.rf>manual</src.rf>

@@ -345,7 +345,10 @@
 <LM>w#w-ln95044-122-p2s2w8</LM>
 </w.rf>
 <form>C</form>
-<tag lemma="c-3_^(označení_pomocí_písmene)" src="orig" selected="1">NNNXX-----A----</tag>
+<tag>
+<AM lemma="c-3_^(označení_pomocí_písmene)" src="orig">NNNXX-----A----</AM>
+<AM lemma="C-33_^(označení_pomocí_písmene)" src="manual" selected="1">NNNXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95044-122-p2s2w9">
 <src.rf>manual</src.rf>
@@ -373,6 +376,7 @@
 <AM lemma="Herkules-2_;R" src="orig">NNIS1-----A----</AM>
 <AM lemma="Herkules-1_;S" src="auto">NNMS1-----A---1</AM>
 <AM lemma="Herkules-3_;G" src="auto" recommended="1">NNIS1-----A---1</AM>
+<AM lemma="Hercules-1_;G_;R" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95044-122-p2s2w12">
@@ -448,6 +452,7 @@
 <tag>
 <AM lemma="MI_:B_;R" src="orig">NNXXX-----A---8</AM>
 <AM lemma="já" src="auto" recommended="1">PH-S3--1-------</AM>
+<AM lemma="Mi-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-ln95044-122-p2s2w21">
@@ -579,7 +584,10 @@
 <LM>w#w-ln95044-122-p3s1w9</LM>
 </w.rf>
 <form>LN</form>
-<tag lemma="LN-1_:B_;R_^(Lidové_noviny,_deník)" src="orig" selected="1">NNFPX-----A---8</tag>
+<tag>
+<AM lemma="LN-1_:B_;R_^(Lidové_noviny,_deník)" src="orig">NNFPX-----A---8</AM>
+<AM lemma="LN-1_:B_;K_;R_^(Lidové_noviny)" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln95044-122-p3s1w10">
 <src.rf>manual</src.rf>
@@ -769,7 +777,7 @@
 <form>Nejraději</form>
 <tag>
 <AM lemma="raději" src="orig">Dg-------3A----</AM>
-<AM lemma="rád" src="auto" recommended="1">Dg-------3A----</AM>
+<AM lemma="rád" src="auto" recommended="1" selected="1">Dg-------3A----</AM>
 </tag>
 </m>
 <m id="m-ln95044-122-p3s3w2">
@@ -892,7 +900,10 @@
 <LM>w#w-ln95044-122-p3s4w10</LM>
 </w.rf>
 <form>jako</form>
-<tag lemma="jako-1" src="auto" selected="1">J,-------------</tag>
+<tag>
+<AM lemma="jako-1" src="auto">J,-------------</AM>
+<AM lemma="jako-2" src="manual" selected="1">Db-------------</AM>
+</tag>
 </m>
 <m id="m-ln95044-122-p3s4w11">
 <src.rf>manual</src.rf>
@@ -1154,7 +1165,10 @@
 <LM>w#w-ln95044-122-p3s7w2</LM>
 </w.rf>
 <form>jako</form>
-<tag lemma="jako-1" src="auto" selected="1">J,-------------</tag>
+<tag>
+<AM lemma="jako-1" src="auto">J,-------------</AM>
+<AM lemma="jako-2" src="manual" selected="1">Db-------------</AM>
+</tag>
 </m>
 <m id="m-ln95044-122-p3s7w3">
 <src.rf>manual</src.rf>

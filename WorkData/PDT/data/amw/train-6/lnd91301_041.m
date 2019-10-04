@@ -167,7 +167,10 @@
 <LM>w#w-lnd91301-041-p3s1Aw12</LM>
 </w.rf>
 <form>NOU</form>
-<tag lemma="nou-98_,t" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="nou-98_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="NOU-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-lnd91301-041-p3s1Aw13">
 <src.rf>manual</src.rf>
@@ -183,7 +186,10 @@
 <LM>w#w-lnd91301-041-p3s1Aw14</LM>
 </w.rf>
 <form>HAU</form>
-<tag lemma="hau-98" src="orig" selected="1">NNNXX-----A----</tag>
+<tag>
+<AM lemma="hau-98" src="orig">NNNXX-----A----</AM>
+<AM lemma="HAU-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-lnd91301-041-p3s1Aw15">
 <src.rf>manual</src.rf>
@@ -252,6 +258,7 @@
 <AM lemma="F-9_:B_;S" src="auto">NNXXX-----A---8</AM>
 <AM lemma="f-3_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
 <AM lemma="f-8_:B_^(ost._zkratka)" src="auto">XX------------8</AM>
+<AM lemma="F-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-lnd91301-041-p3s1Aw22">
@@ -1024,7 +1031,10 @@
 <LM>w#w-lnd91301-041-p3s4w22</LM>
 </w.rf>
 <form>Rhytmick</form>
-<tag lemma="Rhytmick_;R_,t" src="orig" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="Rhytmick_;R_,t" src="orig">NNIS1-----A----</AM>
+<AM lemma="Rhytmick_;R" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd91301-041-p3s4w23">
 <src.rf>manual</src.rf>

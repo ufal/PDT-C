@@ -43,7 +43,10 @@
 <LM>w#w-ln94205-80-p1s1w4</LM>
 </w.rf>
 <form>ČR</form>
-<tag lemma="ČR-1_:B_;G_^(Česká_republika)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94205-80-p1s1w5">
 <src.rf>manual</src.rf>
@@ -77,7 +80,10 @@
 <LM>w#w-ln94205-80-p2s1Aw3</LM>
 </w.rf>
 <form>miš</form>
-<tag lemma="miš-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="miš-99_:B_;S" src="orig">NNXXX-----A---8</AM>
+<AM lemma="miš-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94205-80-p2s1Aw4">
 <src.rf>manual</src.rf>
@@ -509,7 +515,10 @@
 <LM>w#w-ln94205-80-p2s5w1</LM>
 </w.rf>
 <form>Optimismus</form>
-<tag lemma="optimizmus" src="orig" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="optimizmus" src="orig">NNIS1-----A----</AM>
+<AM lemma="optimismus_,s_^(^DD**optimizmus)" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94205-80-p2s5w2">
 <src.rf>manual</src.rf>
@@ -850,7 +859,10 @@
 <LM>w#w-ln94205-80-p2s6w19</LM>
 </w.rf>
 <form>LN</form>
-<tag lemma="LN-1_:B_;R_^(Lidové_noviny,_deník)" src="orig" selected="1">NNFPX-----A---8</tag>
+<tag>
+<AM lemma="LN-1_:B_;R_^(Lidové_noviny,_deník)" src="orig">NNFPX-----A---8</AM>
+<AM lemma="LN-1_:B_;K_;R_^(Lidové_noviny)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94205-80-p2s6w20">
 <src.rf>manual</src.rf>

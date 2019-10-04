@@ -80,6 +80,7 @@
 <tag>
 <AM lemma="vánoce" src="orig">NNFP6-----A----</AM>
 <AM lemma="Vánoce_,x" src="auto" recommended="1">NNFP6-----A----</AM>
+<AM lemma="vánoce_,i_^(^DS**Vánoce)" src="manual" selected="1">NNFP6-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd91301-038-p2s1w8">
@@ -104,7 +105,10 @@
 <LM>w#w-lnd91301-038-p2s1w10</LM>
 </w.rf>
 <form>dr</form>
-<tag lemma="doktorka_:B_^(doktorka,_akad._titul)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="doktorka_:B_^(doktorka,_akad._titul)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="dr_:B_^(doktor)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd91301-038-p2s1w11">
 <src.rf>manual</src.rf>
@@ -128,7 +132,10 @@
 <LM>w#w-lnd91301-038-p2s1w13</LM>
 </w.rf>
 <form>Sekaninová</form>
-<tag lemma="sekaninový" src="orig" selected="1">AAFS1----1A----</tag>
+<tag>
+<AM lemma="sekaninový" src="orig">AAFS1----1A----</AM>
+<AM lemma="Sekaninová_;S" src="manual" selected="1">NNFS1-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd91301-038-p2s1w14">
 <src.rf>manual</src.rf>
@@ -407,7 +414,7 @@
 <form>táboře</form>
 <tag>
 <AM lemma="tábor" src="orig">NNIS6-----A----</AM>
-<AM lemma="tábor-1" src="auto" recommended="1">NNIS6-----A---1</AM>
+<AM lemma="tábor-1" src="auto" recommended="1" selected="1">NNIS6-----A---1</AM>
 <AM lemma="tábořit_:T" src="auto">VeYS------A----</AM>
 </tag>
 </m>
@@ -801,7 +808,10 @@
 <LM>w#w-lnd91301-038-p3s4w4</LM>
 </w.rf>
 <form>KSČ</form>
-<tag lemma="KSČ-1_:B_;K_^(Komunistická_strana_Československa)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="KSČ-1_:B_;K_^(Komunistická_strana_Československa)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="KSČ-1_:B_;K_^(Komunistická_strana_Československa)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd91301-038-p3s4w5">
 <src.rf>manual</src.rf>
@@ -880,6 +890,7 @@
 <AM lemma="VONS_:B_;K_^(Výbor_na_obranu_nespravedlivě_stíhaných)" src="auto" recommended="1">NNIS2-----A---8</AM>
 <AM lemma="VONS_:B_;K_^(Výbor_na_obranu_nespravedlivě_stíhaných)" src="auto">NNIS3-----A---8</AM>
 <AM lemma="VONS_:B_;K_^(Výbor_na_obranu_nespravedlivě_stíhaných)" src="auto">NNIS6-----A---8</AM>
+<AM lemma="VONS-2_;K_^(Výbor_na_obranu_nespravedlivě_stíhaných)" src="manual" selected="1">NNIS2-----A---8</AM>
 </tag>
 </m>
 <m id="m-lnd91301-038-p4s1w5">
@@ -1032,7 +1043,11 @@
 <LM>w#w-lnd91301-038-p4s1w23</LM>
 </w.rf>
 <form>StB</form>
-<tag lemma="StB_:B_;K" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="StB_:B_;K" src="orig">NNFXX-----A---8</AM>
+<AM lemma="StB-88_:B" src="manual">NNXXX-----A----</AM>
+<AM lemma="StB_:B_;K_^(Státní_bezpečnost)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd91301-038-p4s1w24">
 <src.rf>manual</src.rf>
@@ -1312,7 +1327,10 @@
 <LM>w#w-lnd91301-038-p5s1w2</LM>
 </w.rf>
 <form>ep</form>
-<tag lemma="ep-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="ep-99_:B_;S" src="orig">NNXXX-----A---8</AM>
+<AM lemma="ep-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd91301-038-p5s1w3">
 <src.rf>manual</src.rf>

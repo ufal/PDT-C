@@ -1373,7 +1373,10 @@
 <LM>w#w-mf930701-093-p2s10w20</LM>
 </w.rf>
 <form>jen</form>
-<tag lemma="jen-1" src="auto" selected="1">TT-------------</tag>
+<tag>
+<AM lemma="jen-1" src="auto">TT-------------</AM>
+<AM lemma="jen-4_^(pouze)" src="manual" selected="1">Db-------------</AM>
+</tag>
 </m>
 <m id="m-mf930701-093-p2s10w21">
 <src.rf>manual</src.rf>
@@ -1418,7 +1421,7 @@
 <tag>
 <AM lemma="přesto" src="orig">Dg-------1A----</AM>
 <AM lemma="přesto-1" src="auto">Db-------------</AM>
-<AM lemma="přesto-2" src="auto" recommended="1">J^-------------</AM>
+<AM lemma="přesto-2" src="auto" recommended="1" selected="1">J^-------------</AM>
 </tag>
 </m>
 <m id="m-mf930701-093-p2s11w4">
@@ -1941,7 +1944,10 @@
 <LM>w#w-mf930701-093-p2s16w4</LM>
 </w.rf>
 <form>Linhart</form>
-<tag lemma="Linhart_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Linhart_;S" src="orig">NNMS1-----A----</AM>
+<AM lemma="Linhart_;Y_;S" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930701-093-p2s16w5">
 <src.rf>manual</src.rf>

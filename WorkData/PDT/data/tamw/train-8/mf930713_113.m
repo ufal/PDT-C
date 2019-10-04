@@ -1169,7 +1169,11 @@
 <LM>w#w-mf930713-113-p2s10w20</LM>
 </w.rf>
 <form>rada</form>
-<tag lemma="rada-3_^(poradní_sbor;_př._Česká_národní_r.)" src="orig" selected="1">NNFS1-----A----</tag>
+<tag>
+<AM lemma="rada-3_^(poradní_sbor;_př._Česká_národní_r.)" src="orig">NNFS1-----A----</AM>
+<AM lemma="	rada-1_^(př._dát_někomu_dobrou_radu;poradní_sbor)" src="manual">NNFS1-----A----</AM>
+<AM lemma="rada-1_^(př._dát_někomu_dobrou_radu;poradní_sbor)" src="manual" selected="1">NNFS1-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930713-113-p2s10w21">
 <src.rf>manual</src.rf>
@@ -1243,7 +1247,7 @@
 <form>přesto</form>
 <tag>
 <AM lemma="přesto" src="orig">Dg-------1A----</AM>
-<AM lemma="přesto-1" src="auto" recommended="1">Db-------------</AM>
+<AM lemma="přesto-1" src="auto" recommended="1" selected="1">Db-------------</AM>
 <AM lemma="přesto-2" src="auto">J^-------------</AM>
 </tag>
 </m>
@@ -1659,7 +1663,7 @@
 <form>jakákoli</form>
 <tag>
 <AM lemma="jakýkoliv" src="orig">PZFS1---------1</AM>
-<AM lemma="jakýkoli" src="auto" recommended="1">PZFS1----------</AM>
+<AM lemma="jakýkoli" src="auto" recommended="1" selected="1">PZFS1----------</AM>
 <AM lemma="jakýkoli" src="auto">PZFS5----------</AM>
 <AM lemma="jakýkoli" src="auto">PZNP1----------</AM>
 <AM lemma="jakýkoli" src="auto">PZNP4----------</AM>
@@ -3133,7 +3137,10 @@
 <LM>w#w-mf930713-113-p2s24w27</LM>
 </w.rf>
 <form>li</form>
-<tag lemma="li-1" src="auto" selected="1">TT-------------</tag>
+<tag>
+<AM lemma="li-1" src="auto">TT-------------</AM>
+<AM lemma="li-2" src="manual" selected="1">J,-------------</AM>
+</tag>
 </m>
 <m id="m-mf930713-113-p2s24w28">
 <src.rf>manual</src.rf>
@@ -3189,7 +3196,10 @@
 <LM>w#w-mf930713-113-p2s24w34</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-2" src="auto" selected="1">Dg-------2A----</tag>
+<tag>
+<AM lemma="hodně-2" src="auto">Dg-------2A----</AM>
+<AM lemma="hodně-3" src="manual" selected="1">Dg-------2A----</AM>
+</tag>
 </m>
 <m id="m-mf930713-113-p2s24w35">
 <src.rf>manual</src.rf>
@@ -3601,7 +3611,10 @@
 <LM>w#w-mf930713-113-p2s28w23</LM>
 </w.rf>
 <form>mj</form>
-<tag lemma="mj-1_:B_^(mimo_jiné)" src="orig" selected="1">Db------------8</tag>
+<tag>
+<AM lemma="mj-1_:B_^(mimo_jiné)" src="orig">Db------------8</AM>
+<AM lemma="mj-1_:B_^(mimo_jiné)" src="manual" selected="1">Db-------------</AM>
+</tag>
 </m>
 <m id="m-mf930713-113-p2s28w24">
 <src.rf>manual</src.rf>
@@ -3673,7 +3686,10 @@
 <LM>w#w-mf930713-113-p2s28w32</LM>
 </w.rf>
 <form>MŽP</form>
-<tag lemma="MŽP_:B_;K_;b_;p_;z_^(min._živ._prostředí)" src="orig" selected="1">NNNXX-----A---8</tag>
+<tag>
+<AM lemma="MŽP_:B_;K_;b_;p_;z_^(min._živ._prostředí)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="MŽP-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930713-113-p2s28w33">
 <src.rf>manual</src.rf>
@@ -3763,7 +3779,10 @@
 <LM>w#w-mf930713-113-p2s29w1</LM>
 </w.rf>
 <form>MŽP</form>
-<tag lemma="MŽP_:B_;K_;b_;p_;z_^(min._živ._prostředí)" src="orig" selected="1">NNNXX-----A---8</tag>
+<tag>
+<AM lemma="MŽP_:B_;K_;b_;p_;z_^(min._živ._prostředí)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="MŽP-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930713-113-p2s29w2">
 <src.rf>manual</src.rf>
@@ -4522,7 +4541,7 @@
 <tag>
 <AM lemma="tedy" src="orig">Db-------------</AM>
 <AM lemma="tedy-1" src="auto">TT-------------</AM>
-<AM lemma="tedy-2" src="auto" recommended="1">J^-------------</AM>
+<AM lemma="tedy-2" src="auto" recommended="1" selected="1">J^-------------</AM>
 </tag>
 </m>
 <m id="m-mf930713-113-p2s32w13">
@@ -4565,7 +4584,7 @@
 <form>nejen</form>
 <tag>
 <AM lemma="nejen" src="orig">TT-------------</AM>
-<AM lemma="nejen" src="auto" recommended="1">Db-------------</AM>
+<AM lemma="nejen" src="auto" recommended="1" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m-mf930713-113-p2s32w18">
@@ -4840,7 +4859,7 @@
 <form>HNP</form>
 <tag>
 <AM lemma="HNP_:B_^(hrubý_národní_produkt)" src="orig">NNIXX-----A---8</AM>
-<AM lemma="HNP_:B" src="auto" recommended="1">NNXXX-----A---8</AM>
+<AM lemma="HNP_:B" src="auto" recommended="1" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-mf930713-113-p2s32w52">

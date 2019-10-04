@@ -1091,6 +1091,7 @@
 <AM lemma="v-8_:B_^(ost._zkratka)" src="auto">XX------------8</AM>
 <AM lemma="versus_:B_,t_,x" src="auto">RR--1---------8</AM>
 <AM lemma="veřejný_:B_^(v.o.s.)" src="auto">AAXXX----1A---8</AM>
+<AM lemma="Viktoria-2_;K_^(jméno_sport.klubu)" src="manual" selected="1">NNFXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-mf930703-099-p3s1w12">
@@ -1413,7 +1414,10 @@
 <LM>w#w-mf930703-099-p4s1w15</LM>
 </w.rf>
 <form>STES</form>
-<tag lemma="STES-1_:B_;K_,t_^(Studio_Television_Event_Sponsoring)" src="orig" selected="1">NNNXX-----A---8</tag>
+<tag>
+<AM lemma="STES-1_:B_;K_,t_^(Studio_Television_Event_Sponsoring)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="STES-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-mf930703-099-p4s1w16">
 <src.rf>manual</src.rf>
@@ -1570,6 +1574,7 @@
 <AM lemma="CET-2_:B_,t_^(central_european_time)" src="auto">NNIXX-----A---8</AM>
 <AM lemma="CET_:B" src="auto">NNXXX-----A---8</AM>
 <AM lemma="Cet-1_:B_;G_,t_^(Cetus,_souhvězdí_Velryba)" src="auto" recommended="1">NNFXX-----A---8</AM>
+<AM lemma="CET-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-mf930703-099-p4s1w35">
@@ -2102,7 +2107,10 @@
 <LM>w#w-mf930703-099-p4s3w18</LM>
 </w.rf>
 <form>STES</form>
-<tag lemma="STES-1_:B_;K_,t_^(Studio_Television_Event_Sponsoring)" src="orig" selected="1">NNNXX-----A---8</tag>
+<tag>
+<AM lemma="STES-1_:B_;K_,t_^(Studio_Television_Event_Sponsoring)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="STES-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-mf930703-099-p4s3w19">
 <src.rf>manual</src.rf>
@@ -2216,7 +2224,10 @@
 <LM>w#w-mf930703-099-p5s1w10</LM>
 </w.rf>
 <form>jen</form>
-<tag lemma="jen-1" src="auto" selected="1">TT-------------</tag>
+<tag>
+<AM lemma="jen-1" src="auto">TT-------------</AM>
+<AM lemma="jen-4_^(pouze)" src="manual" selected="1">Db-------------</AM>
+</tag>
 </m>
 <m id="m-mf930703-099-p5s1w11">
 <src.rf>manual</src.rf>
@@ -2354,7 +2365,10 @@
 <LM>w#w-mf930703-099-p6s1w2</LM>
 </w.rf>
 <form>ČMFS</form>
-<tag lemma="ČMFS-1_:B_;K_;w_^(Českomoravský_fotbalový_svaz)" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="ČMFS-1_:B_;K_;w_^(Českomoravský_fotbalový_svaz)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="ČMFS-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-mf930703-099-p6s1w3">
 <src.rf>manual</src.rf>
@@ -2386,7 +2400,10 @@
 <LM>w#w-mf930703-099-p6s1w6</LM>
 </w.rf>
 <form>ČMFS</form>
-<tag lemma="ČMFS-1_:B_;K_;w_^(Českomoravský_fotbalový_svaz)" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="ČMFS-1_:B_;K_;w_^(Českomoravský_fotbalový_svaz)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="ČMFS-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-mf930703-099-p6s1w7">
 <src.rf>manual</src.rf>
@@ -2668,7 +2685,10 @@
 <LM>w#w-mf930703-099-p6s2w18</LM>
 </w.rf>
 <form>Č</form>
-<tag lemma="Český_:B_;G" src="orig" selected="1">AAXXX----1A---8</tag>
+<tag>
+<AM lemma="Český_:B_;G" src="orig">AAXXX----1A---8</AM>
+<AM lemma="Český_;G" src="manual" selected="1">AAXXX----1A---8</AM>
+</tag>
 </m>
 <m id="m-mf930703-099-p6s2w19">
 <src.rf>manual</src.rf>
@@ -2687,6 +2707,7 @@
 <tag>
 <AM lemma="Budějovice_:B_;G" src="orig">NNFPX-----A---8</AM>
 <AM lemma="budit_:T" src="auto" recommended="1">VB-P---3P-AA--6</AM>
+<AM lemma="Budějovice_;G" src="manual" selected="1">NNFXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-mf930703-099-p6s2w21">

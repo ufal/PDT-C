@@ -238,7 +238,7 @@
 </w.rf>
 <form>Oto</form>
 <tag>
-<AM lemma="Oto_;Y" src="orig">NNMSX-----A----</AM>
+<AM lemma="Oto_;Y" src="orig" selected="1">NNMSX-----A----</AM>
 <AM lemma="Ota_;Y" src="auto">NNMS5-----A----</AM>
 <AM lemma="Oto_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Oto_;Y" src="auto">NNMS5-----A----</AM>
@@ -534,7 +534,10 @@
 <LM>w#w-lnd94103-091-p1s3w4</LM>
 </w.rf>
 <form>např</form>
-<tag lemma="například_:B" src="orig" selected="1">Db------------8</tag>
+<tag>
+<AM lemma="například_:B" src="orig">Db------------8</AM>
+<AM lemma="například" src="manual" selected="1">Db------------8</AM>
+</tag>
 </m>
 <m id="m-lnd94103-091-p1s3w5">
 <src.rf>manual</src.rf>
@@ -638,7 +641,10 @@
 <LM>w#w-lnd94103-091-p1s3w17</LM>
 </w.rf>
 <form>Joska</form>
-<tag lemma="Joska_;y" src="orig" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Joska_;y" src="orig">NNMS1-----A----</AM>
+<AM lemma="Joska_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd94103-091-p1s3w18">
 <src.rf>manual</src.rf>
@@ -646,7 +652,10 @@
 <LM>w#w-lnd94103-091-p1s3w18</LM>
 </w.rf>
 <form>Skalník</form>
-<tag lemma="skalník" src="orig" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="skalník" src="orig">NNMS1-----A----</AM>
+<AM lemma="Skalník_;S" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd94103-091-p1s3w19">
 <src.rf>manual</src.rf>
@@ -926,7 +935,10 @@
 <LM>w#w-lnd94103-091-p1s7w6</LM>
 </w.rf>
 <form>ex</form>
-<tag lemma="ex-2_;R_,t_^(lat.,_advokát_ex_offo)" src="orig" selected="1">RR--X----------</tag>
+<tag>
+<AM lemma="ex-2_;R_,t_^(lat.,_advokát_ex_offo)" src="orig">RR--X----------</AM>
+<AM lemma="ex-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-lnd94103-091-p1s7w7">
 <src.rf>manual</src.rf>
@@ -934,7 +946,10 @@
 <LM>w#w-lnd94103-091-p1s7w7</LM>
 </w.rf>
 <form>libris</form>
-<tag lemma="libris_^(pouze_ve_spojení_ex_libris)" src="auto" selected="1">NNNXX-----A----</tag>
+<tag>
+<AM lemma="libris_^(pouze_ve_spojení_ex_libris)" src="auto">NNNXX-----A----</AM>
+<AM lemma="libris-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-lnd94103-091-p1s7w8">
 <src.rf>manual</src.rf>

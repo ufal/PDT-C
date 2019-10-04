@@ -31,6 +31,8 @@
 <AM lemma="IPO_:B_;K" src="orig">NNFXX-----A---8</AM>
 <AM lemma="Ipo_;Y_,t" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Ipo_;Y_,t" src="auto">NNMS5-----A----</AM>
+<AM lemma="IPO_:B" src="manual">NNXXX-----A---8</AM>
+<AM lemma="IPO-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9415-028-p2s1w3">
@@ -269,7 +271,10 @@
 <LM>w#w-cmpr9415-028-p4s2w7</LM>
 </w.rf>
 <form>hodně</form>
-<tag lemma="hodně-2_^(nezlobivý)_(*3ý-2)" src="auto" selected="1">Dg-------1A----</tag>
+<tag>
+<AM lemma="hodně-2_^(nezlobivý)_(*3ý-2)" src="auto">Dg-------1A----</AM>
+<AM lemma="hodně-1_^(hodně_+_2._p.,_hodně_peněz)" src="manual" selected="1">Ca--1----------</AM>
+</tag>
 </m>
 <m id="m-cmpr9415-028-p4s2w8">
 <src.rf>manual</src.rf>
@@ -355,6 +360,8 @@
 <AM lemma="IPO_:B_;K" src="orig">NNFXX-----A---8</AM>
 <AM lemma="Ipo_;Y_,t" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Ipo_;Y_,t" src="auto">NNMS5-----A----</AM>
+<AM lemma="IPO_:B" src="manual">NNXXX-----A---8</AM>
+<AM lemma="IPO-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9415-028-p4s3w5">
@@ -454,7 +461,10 @@
 <LM>w#w-cmpr9415-028-p4s4w8</LM>
 </w.rf>
 <form>milionu</form>
-<tag lemma="milión`1000000" src="orig" selected="1">NNIS2-----A----</tag>
+<tag>
+<AM lemma="milión`1000000" src="orig">NNIS2-----A----</AM>
+<AM lemma="milion`1000000_,s_^(^DD**milión)" src="manual" selected="1">NNIS2-----A----</AM>
+</tag>
 </m>
 <m id="m-cmpr9415-028-p4s4w9">
 <src.rf>manual</src.rf>
@@ -620,6 +630,8 @@
 <AM lemma="IPO_:B_;K" src="orig">NNFXX-----A---8</AM>
 <AM lemma="Ipo_;Y_,t" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Ipo_;Y_,t" src="auto">NNMS5-----A----</AM>
+<AM lemma="IPO_:B" src="manual">NNXXX-----A---8</AM>
+<AM lemma="IPO-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9415-028-p5s1w7">
@@ -1306,6 +1318,8 @@
 <AM lemma="IPO_:B_;K" src="orig">NNFXX-----A---8</AM>
 <AM lemma="Ipo_;Y_,t" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Ipo_;Y_,t" src="auto">NNMS5-----A----</AM>
+<AM lemma="IPO_:B" src="manual">NNXXX-----A---8</AM>
+<AM lemma="IPO-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9415-028-p9s1w36">
@@ -1410,6 +1424,8 @@
 <AM lemma="IPO_:B_;K" src="orig">NNFXX-----A---8</AM>
 <AM lemma="Ipo_;Y_,t" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Ipo_;Y_,t" src="auto">NNMS5-----A----</AM>
+<AM lemma="IPO_:B" src="manual">NNXXX-----A---8</AM>
+<AM lemma="IPO-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9415-028-p10s1w3">
@@ -1706,7 +1722,7 @@
 <form>totiž</form>
 <tag>
 <AM lemma="totiž" src="orig">Db-------------</AM>
-<AM lemma="totiž-1" src="auto" recommended="1">J^-------------</AM>
+<AM lemma="totiž-1" src="auto" recommended="1" selected="1">J^-------------</AM>
 <AM lemma="totiž-2" src="auto">TT-------------</AM>
 </tag>
 </m>
@@ -2232,6 +2248,8 @@
 <AM lemma="IPO_:B_;K" src="orig">NNFXX-----A---8</AM>
 <AM lemma="Ipo_;Y_,t" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Ipo_;Y_,t" src="auto">NNMS5-----A----</AM>
+<AM lemma="IPO_:B" src="manual">NNXXX-----A---8</AM>
+<AM lemma="IPO-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9415-028-p11s1w2">
@@ -2739,6 +2757,8 @@
 <AM lemma="IPO_:B_;K" src="orig">NNFXX-----A---8</AM>
 <AM lemma="Ipo_;Y_,t" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Ipo_;Y_,t" src="auto">NNMS5-----A----</AM>
+<AM lemma="IPO_:B" src="manual">NNXXX-----A---8</AM>
+<AM lemma="IPO-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9415-028-p11s4w8">
@@ -3077,7 +3097,7 @@
 <form>starost</form>
 <tag>
 <AM lemma="starost" src="orig">NNFS1-----A----</AM>
-<AM lemma="starost-1" src="auto" recommended="1">NNFS1-----A----</AM>
+<AM lemma="starost-1" src="auto" recommended="1" selected="1">NNFS1-----A----</AM>
 <AM lemma="starost-1" src="auto">NNFS4-----A----</AM>
 <AM lemma="starost-2_^(člověk,_věc)_(*5ý-2)" src="auto">NNFS1-----A----</AM>
 <AM lemma="starost-2_^(člověk,_věc)_(*5ý-2)" src="auto">NNFS4-----A----</AM>
@@ -3131,7 +3151,7 @@
 <form>totiž</form>
 <tag>
 <AM lemma="totiž" src="orig">Db-------------</AM>
-<AM lemma="totiž-1" src="auto" recommended="1">J^-------------</AM>
+<AM lemma="totiž-1" src="auto" recommended="1" selected="1">J^-------------</AM>
 <AM lemma="totiž-2" src="auto">TT-------------</AM>
 </tag>
 </m>
@@ -3824,6 +3844,8 @@
 <AM lemma="IPO_:B_;K" src="orig">NNXXX-----A---8</AM>
 <AM lemma="Ipo_;Y_,t" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Ipo_;Y_,t" src="auto">NNMS5-----A----</AM>
+<AM lemma="IPO_:B" src="manual">NNXXX-----A---8</AM>
+<AM lemma="IPO-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9415-028-p15s1w6">
@@ -5042,6 +5064,8 @@
 <AM lemma="IPO_:B_;K" src="orig">NNXXX-----A---8</AM>
 <AM lemma="Ipo_;Y_,t" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Ipo_;Y_,t" src="auto">NNMS5-----A----</AM>
+<AM lemma="IPO_:B" src="manual">NNXXX-----A---8</AM>
+<AM lemma="IPO-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9415-028-p18s1w5">
@@ -5354,6 +5378,8 @@
 <AM lemma="IPO_:B_;K" src="orig">NNXXX-----A---8</AM>
 <AM lemma="Ipo_;Y_,t" src="auto">NNMS1-----A----</AM>
 <AM lemma="Ipo_;Y_,t" src="auto" recommended="1">NNMS5-----A----</AM>
+<AM lemma="IPO_:B" src="manual">NNXXX-----A---8</AM>
+<AM lemma="IPO-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9415-028-p19s1w3">
@@ -5887,6 +5913,8 @@
 <AM lemma="IPO_:B_;K" src="orig">NNXXX-----A---8</AM>
 <AM lemma="Ipo_;Y_,t" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Ipo_;Y_,t" src="auto">NNMS5-----A----</AM>
+<AM lemma="IPO_:B" src="manual">NNXXX-----A---8</AM>
+<AM lemma="IPO-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9415-028-p21s1w4">
@@ -6039,7 +6067,10 @@
 <LM>w#w-cmpr9415-028-p21s1w22</LM>
 </w.rf>
 <form>tel</form>
-<tag lemma="telefon_:B" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="telefon_:B" src="orig">NNIXX-----A---8</AM>
+<AM lemma="telefon" src="manual" selected="1">NNIXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-cmpr9415-028-p21s1w23">
 <src.rf>manual</src.rf>
@@ -6142,6 +6173,8 @@
 <AM lemma="IPO_:B_;K" src="orig">NNXXX-----A---8</AM>
 <AM lemma="Ipo_;Y_,t" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Ipo_;Y_,t" src="auto">NNMS5-----A----</AM>
+<AM lemma="IPO_:B" src="manual">NNXXX-----A---8</AM>
+<AM lemma="IPO-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9415-028-p23s1w2">

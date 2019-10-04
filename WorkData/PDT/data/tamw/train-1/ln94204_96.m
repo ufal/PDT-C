@@ -295,7 +295,10 @@
 <LM>w#w-ln94204-96-p2s2w18</LM>
 </w.rf>
 <form>Diviše</form>
-<tag lemma="Diviš_;Y" src="orig" selected="1">NNMS2-----A----</tag>
+<tag>
+<AM lemma="Diviš_;Y" src="orig">NNMS2-----A----</AM>
+<AM lemma="Diviš_;S_;Y" src="manual" selected="1">NNMS2-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94204-96-p2s2w19">
 <src.rf>manual</src.rf>
@@ -411,7 +414,7 @@
 <form>ovšem</form>
 <tag>
 <AM lemma="ovšem-1_^(avšak,_však;_odporovací_spojka)" src="orig">J^-------------</AM>
-<AM lemma="ovšem" src="auto" recommended="1">TT-------------</AM>
+<AM lemma="ovšem" src="auto" recommended="1" selected="1">TT-------------</AM>
 </tag>
 </m>
 <m id="m-ln94204-96-p2s3w3">
@@ -965,10 +968,15 @@
 </w.rf>
 <form>šek</form>
 <tag>
-<AM lemma="šek-99_:B_;S" src="orig">NNXXX-----A---8</AM>
+<AM lemma="šek-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</AM>
 <AM lemma="šek" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="šek" src="auto">NNIS4-----A----</AM>
 </tag>
+<comment>
+<LM type="Other">
+<text>ponechána původní "červená" analýza (autorská zkratka)</text>
+</LM>
+</comment>
 </m>
 <m id="m-ln94204-96-p2s7w3">
 <src.rf>manual</src.rf>

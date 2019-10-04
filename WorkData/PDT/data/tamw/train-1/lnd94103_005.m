@@ -43,7 +43,10 @@
 <LM>w#w-lnd94103-005-p1s1w4</LM>
 </w.rf>
 <form>V</form>
-<tag lemma="V-0_:B_;Y" src="orig" selected="1">NNMXX-----A---8</tag>
+<tag>
+<AM lemma="V-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
+<AM lemma="V-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd94103-005-p1s1w5">
 <src.rf>manual</src.rf>
@@ -91,7 +94,10 @@
 <LM>w#w-lnd94103-005-p1s1w10</LM>
 </w.rf>
 <form>V</form>
-<tag lemma="V-0_:B_;Y" src="orig" selected="1">NNMXX-----A---8</tag>
+<tag>
+<AM lemma="V-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
+<AM lemma="V-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd94103-005-p1s1w11">
 <src.rf>manual</src.rf>
@@ -211,7 +217,10 @@
 <LM>w#w-lnd94103-005-p1s1w25</LM>
 </w.rf>
 <form>KDS</form>
-<tag lemma="KDS_:B_;K_;p_^(Křesťansko-demokratická_strana)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="KDS_:B_;K_;p_^(Křesťansko-demokratická_strana)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="KDS-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd94103-005-p1s1w26">
 <src.rf>manual</src.rf>
@@ -269,7 +278,10 @@
 <LM>w#w-lnd94103-005-p1s2w5</LM>
 </w.rf>
 <form>LN</form>
-<tag lemma="LN-1_:B_;R_^(Lidové_noviny,_deník)" src="orig" selected="1">NNFPX-----A---8</tag>
+<tag>
+<AM lemma="LN-1_:B_;R_^(Lidové_noviny,_deník)" src="orig">NNFPX-----A---8</AM>
+<AM lemma="LN-1_:B_;K_;R_^(Lidové_noviny,_deník)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 </s>
 </mdata>

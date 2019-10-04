@@ -673,7 +673,7 @@
 <form>Norové</form>
 <tag>
 <AM lemma="Nor_;E" src="orig">NNMP1-----A----</AM>
-<AM lemma="Nor_;E" src="auto">NNMP1-----A---1</AM>
+<AM lemma="Nor_;E" src="auto" selected="1">NNMP1-----A---1</AM>
 <AM lemma="Nor_;E" src="auto">NNMP5-----A---1</AM>
 <AM lemma="Noro_;Y" src="auto" recommended="1">NNMP1-----A----</AM>
 <AM lemma="Noro_;Y" src="auto">NNMP5-----A----</AM>
@@ -941,7 +941,7 @@
 <form>Nejen</form>
 <tag>
 <AM lemma="nejen" src="orig">TT-------------</AM>
-<AM lemma="nejen" src="auto" recommended="1">Db-------------</AM>
+<AM lemma="nejen" src="auto" recommended="1" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m-lnd94104-133-p1s10w2">
@@ -2600,7 +2600,10 @@
 <LM>w#w-lnd94104-133-p1s26Bw19</LM>
 </w.rf>
 <form>UNPROFOR</form>
-<tag lemma="UNPROFOR_:B" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="UNPROFOR_:B" src="orig">NNFXX-----A---8</AM>
+<AM lemma="UNPROFOR-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd94104-133-p1s26Bw20">
 <src.rf>manual</src.rf>

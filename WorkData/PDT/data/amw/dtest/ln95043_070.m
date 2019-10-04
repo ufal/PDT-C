@@ -51,7 +51,10 @@
 <LM>w#w-ln95043-070-p1s1w5</LM>
 </w.rf>
 <form>ČEZ</form>
-<tag lemma="ČEZ-1_:B_;K_^(České_energetické_závody)" src="orig" selected="1">NNIPX-----A---8</tag>
+<tag>
+<AM lemma="ČEZ-1_:B_;K_^(České_energetické_závody)" src="orig">NNIPX-----A---8</AM>
+<AM lemma="ČEZ-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95043-070-p1s1w6">
 <src.rf>manual</src.rf>
@@ -59,7 +62,10 @@
 <LM>w#w-ln95043-070-p1s1w6</LM>
 </w.rf>
 <form>odvézt</form>
-<tag lemma="odvézt" src="orig" selected="1">Vf--------A----</tag>
+<tag>
+<AM lemma="odvézt" src="orig">Vf--------A----</AM>
+<AM lemma="odvézt_:W" src="manual" selected="1">Vf--------A----</AM>
+</tag>
 </m>
 <m id="m-ln95043-070-p1s1w7">
 <src.rf>manual</src.rf>
@@ -201,7 +207,10 @@
 <LM>w#w-ln95043-070-p3s1Bw8</LM>
 </w.rf>
 <form>nezačnou</form>
-<tag lemma="začít-1_^(začnout)" src="auto" selected="1">VB-P---3P-NA---</tag>
+<tag>
+<AM lemma="začít-1_^(začnout)" src="auto">VB-P---3P-NA---</AM>
+<AM lemma="začít-1_:W_^(začnout)" src="manual" selected="1">VB-P---3P-NA---</AM>
+</tag>
 </m>
 <m id="m-ln95043-070-p3s1Bw9">
 <src.rf>manual</src.rf>
@@ -1159,6 +1168,7 @@
 <AM lemma="Castor-2_;R_^(kontejner)" src="orig">NNIS1-----A----</AM>
 <AM lemma="Castor_;S" src="auto">NNMS1-----A----</AM>
 <AM lemma="Kastór_;S_,t_,x" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Castor-2_;R" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95043-070-p5s2w10">
@@ -1669,7 +1679,10 @@
 <LM>w#w-ln95043-070-p6s3w16</LM>
 </w.rf>
 <form>řekl</form>
-<tag lemma="říci" src="auto" selected="1">VpYS---XR-AA---</tag>
+<tag>
+<AM lemma="říci" src="auto">VpYS---XR-AA---</AM>
+<AM lemma="říci_:W" src="manual" selected="1">VpYS---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-ln95043-070-p6s3w17">
 <src.rf>manual</src.rf>
@@ -1787,6 +1800,7 @@
 <AM lemma="Castor-2_;R_^(kontejner)" src="orig">NNIS1-----A----</AM>
 <AM lemma="Castor_;S" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Kastór_;S_,t_,x" src="auto">NNMS1-----A----</AM>
+<AM lemma="Castor-2_;R" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95043-070-p7s1w12">

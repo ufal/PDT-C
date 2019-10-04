@@ -324,6 +324,7 @@
 <tag>
 <AM lemma="DAF-1_:B_;K" src="orig">NNIXX-----A---8</AM>
 <AM lemma="DAF_:B_;K_;R_^(vozidlo)" src="auto" recommended="1">NNIXX-----A----</AM>
+<AM lemma="DAF-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94211-12-p2s2w22">
@@ -381,7 +382,7 @@
 </w.rf>
 <form>Stayer</form>
 <tag>
-<AM lemma="Stayer_;K" src="orig">NNIS1-----A----</AM>
+<AM lemma="Stayer_;K" src="orig" selected="1">NNIS1-----A----</AM>
 <AM lemma="Stayer_;S" src="auto" recommended="1">NNMS1-----A----</AM>
 </tag>
 </m>
@@ -709,7 +710,10 @@
 <LM>w#w-ln94211-12-p3s3w9</LM>
 </w.rf>
 <form>milionů</form>
-<tag lemma="milión`1000000" src="orig" selected="1">NNIP2-----A----</tag>
+<tag>
+<AM lemma="milión`1000000" src="orig">NNIP2-----A----</AM>
+<AM lemma="milion`1000000_,s_^(^DD**milión)" src="manual" selected="1">NNIP2-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94211-12-p3s3w10">
 <src.rf>manual</src.rf>
@@ -749,7 +753,10 @@
 <LM>w#w-ln94211-12-p3s3w14</LM>
 </w.rf>
 <form>milionů</form>
-<tag lemma="milión`1000000" src="orig" selected="1">NNIP2-----A----</tag>
+<tag>
+<AM lemma="milión`1000000" src="orig">NNIP2-----A----</AM>
+<AM lemma="milion`1000000_,s_^(^DD**milión)" src="manual" selected="1">NNIP2-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94211-12-p3s3w15">
 <src.rf>manual</src.rf>
@@ -866,6 +873,7 @@
 <tag>
 <AM lemma="DAF-1_:B_;K" src="orig">NNIXX-----A---8</AM>
 <AM lemma="DAF_:B_;K_;R_^(vozidlo)" src="auto" recommended="1">NNIXX-----A----</AM>
+<AM lemma="DAF-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94211-12-p3s4w3">
@@ -883,7 +891,7 @@
 </w.rf>
 <form>Stayer</form>
 <tag>
-<AM lemma="Stayer_;K" src="orig">NNIS1-----A----</AM>
+<AM lemma="Stayer_;K" src="orig" selected="1">NNIS1-----A----</AM>
 <AM lemma="Stayer_;S" src="auto" recommended="1">NNMS1-----A----</AM>
 </tag>
 </m>

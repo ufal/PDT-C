@@ -45,7 +45,7 @@
 <form>snad</form>
 <tag>
 <AM lemma="snad" src="orig">Db-------------</AM>
-<AM lemma="snad" src="auto" recommended="1">TT-------------</AM>
+<AM lemma="snad" src="auto" recommended="1" selected="1">TT-------------</AM>
 </tag>
 </m>
 <m id="m-ln94204-32-p1s1w5">
@@ -80,7 +80,10 @@
 <LM>w#w-ln94204-32-p2s1Aw3</LM>
 </w.rf>
 <form>ir</form>
-<tag lemma="ir-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="ir-99_:B_;S" src="orig">NNXXX-----A---8</AM>
+<AM lemma="ir-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94204-32-p2s1Aw4">
 <src.rf>manual</src.rf>
@@ -338,7 +341,10 @@
 <LM>w#w-ln94204-32-p2s1Bw30</LM>
 </w.rf>
 <form>P</form>
-<tag lemma="P-0_:B_;Y" src="orig" selected="1">NNMXX-----A---8</tag>
+<tag>
+<AM lemma="P-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
+<AM lemma="P-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94204-32-p2s1Bw31">
 <src.rf>manual</src.rf>
@@ -423,6 +429,7 @@
 <AM lemma="Ĺ-9_:B_;S" src="auto">NNXXX-----A---8</AM>
 <AM lemma="ĺ-3_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
 <AM lemma="ĺ-8_:B_^(ost._zkratka)" src="auto">XX------------8</AM>
+<AM lemma="Ĺ-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94204-32-p2s1Bw40">
@@ -439,7 +446,11 @@
 <LM>w#w-ln94204-32-p2s1Bw41</LM>
 </w.rf>
 <form>Romanem</form>
-<tag lemma="Roman_;Y" src="orig" selected="1">NNMS7-----A----</tag>
+<tag>
+<AM lemma="Roman_;Y" src="orig">NNMS7-----A----</AM>
+<AM lemma="Roman_;S" src="manual">NNMS7-----A----</AM>
+<AM lemma="Roman_;S_;Y" src="manual" selected="1">NNMS7-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94204-32-p2s1Bw42">
 <src.rf>manual</src.rf>
@@ -819,7 +830,11 @@
 <LM>w#w-ln94204-32-p2s3w40</LM>
 </w.rf>
 <form>Roman</form>
-<tag lemma="Roman_;Y" src="orig" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Roman_;Y" src="orig">NNMS1-----A----</AM>
+<AM lemma="Roman_;S" src="manual">NNMS1-----A----</AM>
+<AM lemma="Roman_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94204-32-p2s3w41">
 <src.rf>manual</src.rf>
@@ -1145,7 +1160,10 @@
 <LM>w#w-ln94204-32-p2s6w7</LM>
 </w.rf>
 <form>V</form>
-<tag lemma="V-0_:B_;Y" src="orig" selected="1">NNMXX-----A---8</tag>
+<tag>
+<AM lemma="V-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
+<AM lemma="V-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94204-32-p2s6w8">
 <src.rf>manual</src.rf>
@@ -1297,7 +1315,11 @@
 <LM>w#w-ln94204-32-p2s6w26</LM>
 </w.rf>
 <form>Roman</form>
-<tag lemma="Roman_;Y" src="orig" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Roman_;Y" src="orig">NNMS1-----A----</AM>
+<AM lemma="Roman_;S" src="manual">NNMS1-----A----</AM>
+<AM lemma="Roman_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94204-32-p2s6w27">
 <src.rf>manual</src.rf>

@@ -327,7 +327,10 @@
 <LM>w#w-mf920923-103-p2s2w21</LM>
 </w.rf>
 <form>řekl</form>
-<tag lemma="říci" src="auto" selected="1">VpYS---XR-AA---</tag>
+<tag>
+<AM lemma="říci" src="auto">VpYS---XR-AA---</AM>
+<AM lemma="říci_:W" src="manual" selected="1">VpYS---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-mf920923-103-p2s2w22">
 <src.rf>manual</src.rf>
@@ -701,7 +704,7 @@
 <form>západo</form>
 <tag>
 <AM lemma="západní" src="orig">A2--------A----</AM>
-<AM lemma="západo" src="auto" recommended="1">A2--------A----</AM>
+<AM lemma="západo" src="auto" recommended="1" selected="1">A2--------A----</AM>
 </tag>
 </m>
 <m id="m-mf920923-103-p2s3Bw28">
@@ -1020,7 +1023,10 @@
 <LM>w#w-mf920923-103-p3s2w11</LM>
 </w.rf>
 <form>jen</form>
-<tag lemma="jen-1" src="auto" selected="1">TT-------------</tag>
+<tag>
+<AM lemma="jen-1" src="auto">TT-------------</AM>
+<AM lemma="jen-4_^(pouze)" src="manual" selected="1">Db-------------</AM>
+</tag>
 </m>
 <m id="m-mf920923-103-p3s2w12">
 <src.rf>manual</src.rf>
@@ -1302,7 +1308,10 @@
 <LM>w#w-mf920923-103-p3s3w15</LM>
 </w.rf>
 <form>uvedl</form>
-<tag lemma="uvést" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag>
+<AM lemma="uvést" src="orig">VpYS---XR-AA---</AM>
+<AM lemma="uvést_:W" src="manual" selected="1">VpYS---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-mf920923-103-p3s3w16">
 <src.rf>manual</src.rf>
@@ -1530,7 +1539,10 @@
 <LM>w#w-mf920923-103-p4s2w13</LM>
 </w.rf>
 <form>ani</form>
-<tag lemma="ani-1" src="auto" selected="1">J^-------------</tag>
+<tag>
+<AM lemma="ani-1" src="auto">J^-------------</AM>
+<AM lemma="ani-2" src="manual" selected="1">TT-------------</AM>
+</tag>
 </m>
 <m id="m-mf920923-103-p4s2w14">
 <src.rf>manual</src.rf>
@@ -1822,7 +1834,11 @@
 <LM>w#w-mf920923-103-p4s4w5</LM>
 </w.rf>
 <form>SSSR</form>
-<tag lemma="SSSR_:B_;G_^(Svaz_sov._socialist._republik)" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="SSSR_:B_;G_^(Svaz_sov._socialist._republik)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="SSSR-88_:B" src="manual">NNXXX-----A----</AM>
+<AM lemma="SSSR_:B_;G_^(Svaz_sov._socialist._republik)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920923-103-p4s4w6">
 <src.rf>manual</src.rf>

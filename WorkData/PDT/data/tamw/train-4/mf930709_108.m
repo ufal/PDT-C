@@ -85,7 +85,10 @@
 <LM>w#w-mf930709-108-p2s1Aw5</LM>
 </w.rf>
 <form>ria</form>
-<tag lemma="ria-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="ria-99_:B_;S" src="orig">NNXXX-----A---8</AM>
+<AM lemma="ria-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930709-108-p2s1Aw6">
 <src.rf>manual</src.rf>
@@ -154,7 +157,7 @@
 <tag>
 <AM lemma="Suchdol_;G" src="orig">NNIS6-----A----</AM>
 <AM lemma="Suchdol_;G" src="auto">NNIS5-----A----</AM>
-<AM lemma="Suchdol_;G" src="auto" recommended="1">NNIS6-----A---1</AM>
+<AM lemma="Suchdol_;G" src="auto" recommended="1" selected="1">NNIS6-----A---1</AM>
 </tag>
 </m>
 <m id="m-mf930709-108-p2s1Bw7">
@@ -238,7 +241,7 @@
 <tag>
 <AM lemma="Ves_;G" src="orig">NNFS1-----A----</AM>
 <AM lemma="Vesa_;K" src="auto">NNFP2-----A----</AM>
-<AM lemma="ves" src="auto" recommended="1">NNFS1-----A----</AM>
+<AM lemma="ves" src="auto" recommended="1" selected="1">NNFS1-----A----</AM>
 <AM lemma="ves" src="auto">NNFS4-----A----</AM>
 </tag>
 </m>
@@ -768,7 +771,7 @@
 <form>ryze</form>
 <tag>
 <AM lemma="ryzí" src="orig">Dg-------1A----</AM>
-<AM lemma="ryze" src="auto" recommended="1">Dg-------1A----</AM>
+<AM lemma="ryze" src="auto" recommended="1" selected="1">Dg-------1A----</AM>
 </tag>
 </m>
 <m id="m-mf930709-108-p2s4w4">

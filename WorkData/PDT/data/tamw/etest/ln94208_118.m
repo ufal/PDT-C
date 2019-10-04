@@ -509,7 +509,10 @@
 <LM>w#w-ln94208-118-p2s3w20</LM>
 </w.rf>
 <form>Kaiserslautern</form>
-<tag lemma="Kaiserslautern" src="auto" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="Kaiserslautern" src="auto">NNIS1-----A----</AM>
+<AM lemma="Kaiserslautern_;G" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94208-118-p2s3w21">
 <src.rf>manual</src.rf>

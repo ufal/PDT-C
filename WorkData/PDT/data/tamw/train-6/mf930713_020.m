@@ -269,7 +269,7 @@
 <form>ovšem</form>
 <tag>
 <AM lemma="ovšem-1_^(avšak,_však;_odporovací_spojka)" src="orig">J^-------------</AM>
-<AM lemma="ovšem" src="auto" recommended="1">TT-------------</AM>
+<AM lemma="ovšem" src="auto" recommended="1" selected="1">TT-------------</AM>
 </tag>
 </m>
 <m id="m-mf930713-020-p3s4w3">
@@ -474,7 +474,7 @@
 <form>nejen</form>
 <tag>
 <AM lemma="nejen" src="orig">TT-------------</AM>
-<AM lemma="nejen" src="auto" recommended="1">Db-------------</AM>
+<AM lemma="nejen" src="auto" recommended="1" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m-mf930713-020-p3s5w8">
@@ -583,7 +583,7 @@
 <form>fordů</form>
 <tag>
 <AM lemma="Ford-2_;R_^(vozidlo)" src="orig">NNIP2-----A----</AM>
-<AM lemma="ford_;R" src="auto" recommended="1">NNIP2-----A----</AM>
+<AM lemma="ford_;R" src="auto" recommended="1" selected="1">NNIP2-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930713-020-p3s6w3">
@@ -652,7 +652,7 @@
 <form>ovšem</form>
 <tag>
 <AM lemma="ovšem-1_^(avšak,_však;_odporovací_spojka)" src="orig">J^-------------</AM>
-<AM lemma="ovšem" src="auto" recommended="1">TT-------------</AM>
+<AM lemma="ovšem" src="auto" recommended="1" selected="1">TT-------------</AM>
 </tag>
 </m>
 <m id="m-mf930713-020-p3s7w3">
@@ -663,7 +663,7 @@
 <form>ford</form>
 <tag>
 <AM lemma="Ford-2_;R_^(vozidlo)" src="orig">NNIS1-----A----</AM>
-<AM lemma="ford_;R" src="auto" recommended="1">NNIS1-----A----</AM>
+<AM lemma="ford_;R" src="auto" recommended="1" selected="1">NNIS1-----A----</AM>
 <AM lemma="ford_;R" src="auto">NNIS4-----A----</AM>
 </tag>
 </m>
@@ -683,7 +683,7 @@
 <form>ford</form>
 <tag>
 <AM lemma="Ford-2_;R_^(vozidlo)" src="orig">NNIS1-----A----</AM>
-<AM lemma="ford_;R" src="auto" recommended="1">NNIS1-----A----</AM>
+<AM lemma="ford_;R" src="auto" recommended="1" selected="1">NNIS1-----A----</AM>
 <AM lemma="ford_;R" src="auto">NNIS4-----A----</AM>
 </tag>
 </m>
@@ -809,7 +809,7 @@
 <form>escortům</form>
 <tag>
 <AM lemma="Escort-2_;R_^(vozidlo)" src="orig">NNIP3-----A----</AM>
-<AM lemma="escort_^(vozidlo)" src="auto" recommended="1">NNIP3-----A----</AM>
+<AM lemma="escort_^(vozidlo)" src="auto" recommended="1" selected="1">NNIP3-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930713-020-p3s8w15">
@@ -878,7 +878,7 @@
 <form>sierra</form>
 <tag>
 <AM lemma="Sierra-2_;R_^(vozidlo)" src="orig">NNFS1-----A----</AM>
-<AM lemma="sierra_;R_^(vozidlo)" src="auto" recommended="1">NNFS1-----A----</AM>
+<AM lemma="sierra_;R_^(vozidlo)" src="auto" recommended="1" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930713-020-p3s9w5">
@@ -1601,7 +1601,10 @@
 <LM>w#w-mf930713-020-p3s14w4</LM>
 </w.rf>
 <form>vytáhl</form>
-<tag lemma="vytáhnout" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag>
+<AM lemma="vytáhnout" src="orig">VpYS---XR-AA---</AM>
+<AM lemma="vytáhnout_:W" src="manual" selected="1">VpYS---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-mf930713-020-p3s14w5">
 <src.rf>manual</src.rf>
@@ -1681,7 +1684,10 @@
 <LM>w#w-mf930713-020-p3s14w14</LM>
 </w.rf>
 <form>VW</form>
-<tag lemma="VW_:B_;K_;R_,t_^(název_firmy/auta_Volkswagen)" src="auto" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="VW_:B_;K_;R_,t_^(název_firmy/auta_Volkswagen)" src="auto">NNIXX-----A---8</AM>
+<AM lemma="VW_:B_;K_;R_^(název_firmy/auta_Volkswagen)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930713-020-p3s14w15">
 <src.rf>manual</src.rf>
@@ -1697,6 +1703,8 @@
 <AM lemma="LT-4_:B_^(stupeň_pilnosti_telegramu)" src="auto">NNIXX-----A---8</AM>
 <AM lemma="LT-5_:B_,t_^(low_tension)" src="auto">NNNXX-----A---8</AM>
 <AM lemma="Leutnant_:B_,t_^(poručík)" src="auto">NNMXX-----A---8</AM>
+<AM lemma="LT-6_:B" src="manual">NNXXX-----A---8</AM>
+<AM lemma="LT-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930713-020-p3s14w16">
@@ -2212,6 +2220,7 @@
 <tag>
 <AM lemma="VW-2_:B_;K_,t_^(název_firmy_Volkswagen)" src="orig">NNFXX-----A----</AM>
 <AM lemma="VW_:B_;K_;R_,t_^(název_firmy/auta_Volkswagen)" src="auto" recommended="1">NNIXX-----A---8</AM>
+<AM lemma="VW_:B_;K_;R_^(název_firmy/auta_Volkswagen)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930713-020-p3s18w20">
@@ -2733,7 +2742,7 @@
 <tag>
 <AM lemma="tedy" src="orig">Db-------------</AM>
 <AM lemma="tedy-1" src="auto">TT-------------</AM>
-<AM lemma="tedy-2" src="auto" recommended="1">J^-------------</AM>
+<AM lemma="tedy-2" src="auto" recommended="1" selected="1">J^-------------</AM>
 </tag>
 </m>
 <m id="m-mf930713-020-p3s21w17">

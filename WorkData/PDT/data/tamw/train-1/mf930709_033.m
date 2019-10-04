@@ -96,6 +96,7 @@
 <tag>
 <AM lemma="eko-99_:B_;S" src="orig">NNXXX-----A---8</AM>
 <AM lemma="eko" src="auto" recommended="1">A2--------A----</AM>
+<AM lemma="eko-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930709-033-p2s1Aw4">
@@ -369,6 +370,7 @@
 <tag>
 <AM lemma="IPF_:B" src="orig">NNIXX-----A---8</AM>
 <AM lemma="IPF_:B_;K" src="auto" recommended="1">NNXXX-----A---8</AM>
+<AM lemma="IPF-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-mf930709-033-p2s3w2">
@@ -621,7 +623,10 @@
 <LM>w#w-mf930709-033-p2s5w7</LM>
 </w.rf>
 <form>CKP</form>
-<tag lemma="CKP_:B_;K" src="orig" selected="1">NNNXX-----A---8</tag>
+<tag>
+<AM lemma="CKP_:B_;K" src="orig">NNNXX-----A---8</AM>
+<AM lemma="CKP-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930709-033-p2s5w8">
 <src.rf>manual</src.rf>
@@ -698,6 +703,7 @@
 <tag>
 <AM lemma="IPF_:B" src="orig">NNIXX-----A---8</AM>
 <AM lemma="IPF_:B_;K" src="auto" recommended="1">NNXXX-----A---8</AM>
+<AM lemma="IPF-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930709-033-p3s1w4">
@@ -762,7 +768,10 @@
 <LM>w#w-mf930709-033-p3s1w11</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-2" src="auto" selected="1">Dg-------2A----</tag>
+<tag>
+<AM lemma="hodně-2" src="auto">Dg-------2A----</AM>
+<AM lemma="hodně-3" src="manual" selected="1">Dg-------2A----</AM>
+</tag>
 </m>
 <m id="m-mf930709-033-p3s1w12">
 <src.rf>manual</src.rf>
@@ -778,7 +787,10 @@
 <LM>w#w-mf930709-033-p3s1w13</LM>
 </w.rf>
 <form>milion</form>
-<tag lemma="milión`1000000" src="orig" selected="1">NNIS4-----A----</tag>
+<tag>
+<AM lemma="milión`1000000" src="orig">NNIS4-----A----</AM>
+<AM lemma="milion`1000000_,s_^(^DD**milión)" src="manual" selected="1">NNIS4-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930709-033-p3s1w14">
 <src.rf>manual</src.rf>
@@ -884,7 +896,10 @@
 <LM>w#w-mf930709-033-p3s2w3</LM>
 </w.rf>
 <form>Creditanstalt</form>
-<tag lemma="Creditanstalt_;Y" src="auto" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="Creditanstalt_;Y" src="auto">NNIS1-----A----</AM>
+<AM lemma="Creditanstalt_;K" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930709-033-p3s2w4">
 <src.rf>manual</src.rf>
@@ -1180,7 +1195,7 @@
 <tag>
 <AM lemma="tedy" src="orig">Db-------------</AM>
 <AM lemma="tedy-1" src="auto" recommended="1">TT-------------</AM>
-<AM lemma="tedy-2" src="auto">J^-------------</AM>
+<AM lemma="tedy-2" src="auto" selected="1">J^-------------</AM>
 </tag>
 </m>
 <m id="m-mf930709-033-p4s1w8">
@@ -1383,7 +1398,10 @@
 <LM>w#w-mf930709-033-p4s2w3</LM>
 </w.rf>
 <form>CSPF</form>
-<tag lemma="CSPF_:B_;K" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="CSPF_:B_;K" src="orig">NNFXX-----A---8</AM>
+<AM lemma="CSPF-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930709-033-p4s2w4">
 <src.rf>manual</src.rf>
@@ -1439,7 +1457,10 @@
 <LM>w#w-mf930709-033-p4s2w10</LM>
 </w.rf>
 <form>Alfa</form>
-<tag lemma="Alfa_;K_;R_^(vozidlo)" src="auto" selected="1">NNFS1-----A----</tag>
+<tag>
+<AM lemma="Alfa_;K_;R_^(vozidlo)" src="auto">NNFS1-----A----</AM>
+<AM lemma="alfa" src="manual" selected="1">NNFS1-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930709-033-p4s2w11">
 <src.rf>manual</src.rf>
@@ -1665,7 +1686,10 @@
 <LM>w#w-mf930709-033-p4s3w8</LM>
 </w.rf>
 <form>datum</form>
-<tag lemma="datum_,h_,x" src="auto" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="datum_,h_,x" src="auto">NNIS1-----A----</AM>
+<AM lemma="datum_^(kalendářní)" src="manual" selected="1">NNNS1-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930709-033-p4s3w9">
 <src.rf>manual</src.rf>
@@ -1809,7 +1833,10 @@
 <LM>w#w-mf930709-033-p4s3w26</LM>
 </w.rf>
 <form>řekl</form>
-<tag lemma="říci" src="auto" selected="1">VpYS---XR-AA---</tag>
+<tag>
+<AM lemma="říci" src="auto">VpYS---XR-AA---</AM>
+<AM lemma="říci_:W" src="manual" selected="1">VpYS---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-mf930709-033-p4s3w27">
 <src.rf>manual</src.rf>
@@ -1833,7 +1860,10 @@
 <LM>w#w-mf930709-033-p4s3w29</LM>
 </w.rf>
 <form>PVT</form>
-<tag lemma="PVT-1_:B_;K_^(Podnik_výpočetní_techniky)" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="PVT-1_:B_;K_^(Podnik_výpočetní_techniky)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="PVT-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930709-033-p4s3w30">
 <src.rf>manual</src.rf>

@@ -157,7 +157,10 @@
 <LM>w#w-ln94203-130-p2s1Aw11</LM>
 </w.rf>
 <form>M</form>
-<tag lemma="M-0_:B_;Y" src="orig" selected="1">NNMXX-----A---8</tag>
+<tag>
+<AM lemma="M-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
+<AM lemma="M-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94203-130-p2s1Aw12">
 <src.rf>manual</src.rf>
@@ -199,7 +202,10 @@
 <LM>w#w-ln94203-130-p2s1Bw3</LM>
 </w.rf>
 <form>gag</form>
-<tag lemma="gag-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="gag-99_:B_;S" src="orig">NNXXX-----A---8</AM>
+<AM lemma="gag-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94203-130-p2s1Bw4">
 <src.rf>manual</src.rf>
@@ -385,7 +391,10 @@
 <LM>w#w-ln94203-130-p2s1Cw21</LM>
 </w.rf>
 <form>ČSSD</form>
-<tag lemma="ČSSD-1_:B_;K_;p_^(Česká_strana_sociálně-demokratická)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ČSSD-1_:B_;K_;p_^(Česká_strana_sociálně-demokratická)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČSSD-1_:B_;K_^(Česká_strana_sociálně-demokratická)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94203-130-p2s1Cw22">
 <src.rf>manual</src.rf>
@@ -483,7 +492,10 @@
 <LM>w#w-ln94203-130-p2s2w3</LM>
 </w.rf>
 <form>mj</form>
-<tag lemma="mj-1_:B_^(mimo_jiné)" src="orig" selected="1">Db------------8</tag>
+<tag>
+<AM lemma="mj-1_:B_^(mimo_jiné)" src="orig">Db------------8</AM>
+<AM lemma="mj-1_:B_^(mimo_jiné)" src="manual" selected="1">Db-------------</AM>
+</tag>
 </m>
 <m id="m-ln94203-130-p2s2w4">
 <src.rf>manual</src.rf>
@@ -1328,7 +1340,7 @@
 <form>ovšem</form>
 <tag>
 <AM lemma="ovšem-1_^(avšak,_však;_odporovací_spojka)" src="orig">J^-------------</AM>
-<AM lemma="ovšem" src="auto" recommended="1">TT-------------</AM>
+<AM lemma="ovšem" src="auto" recommended="1" selected="1">TT-------------</AM>
 </tag>
 </m>
 <m id="m-ln94203-130-p3s4w5">
@@ -1943,7 +1955,7 @@
 <AM lemma="poslancův_^(*3ec)" src="auto">AUIS6M---------</AM>
 <AM lemma="poslancův_^(*3ec)" src="auto">AUMS3M--------6</AM>
 <AM lemma="poslancův_^(*3ec)" src="auto">AUMS6M---------</AM>
-<AM lemma="poslancův_^(*3ec)" src="auto" recommended="1">AUNS3M--------6</AM>
+<AM lemma="poslancův_^(*3ec)" src="auto" recommended="1" selected="1">AUNS3M--------6</AM>
 <AM lemma="poslancův_^(*3ec)" src="auto">AUNS6M---------</AM>
 </tag>
 </m>

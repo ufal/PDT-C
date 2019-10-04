@@ -469,7 +469,10 @@
 <LM>w#w-mf930713-045-p2s5w4</LM>
 </w.rf>
 <form>FS</form>
-<tag lemma="FS_:B_;K_^(Federální_shromáždění)" src="orig" selected="1">NNNXX-----A---8</tag>
+<tag>
+<AM lemma="FS_:B_;K_^(Federální_shromáždění)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="FS-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-mf930713-045-p2s5w5">
 <src.rf>manual</src.rf>
@@ -541,7 +544,10 @@
 <LM>w#w-mf930713-045-p2s5w14</LM>
 </w.rf>
 <form>FS</form>
-<tag lemma="FS_:B_;K_^(Federální_shromáždění)" src="orig" selected="1">NNNXX-----A---8</tag>
+<tag>
+<AM lemma="FS_:B_;K_^(Federální_shromáždění)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="FS-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-mf930713-045-p2s5w15">
 <src.rf>manual</src.rf>
@@ -817,7 +823,10 @@
 <LM>w#w-mf930713-045-p2s7w8</LM>
 </w.rf>
 <form>FS</form>
-<tag lemma="FS_:B_;K_^(Federální_shromáždění)" src="orig" selected="1">NNNXX-----A---8</tag>
+<tag>
+<AM lemma="FS_:B_;K_^(Federální_shromáždění)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="FS-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-mf930713-045-p2s7w9">
 <src.rf>manual</src.rf>
@@ -889,7 +898,10 @@
 <LM>w#w-mf930713-045-p2s7w17</LM>
 </w.rf>
 <form>FS</form>
-<tag lemma="FS_:B_;K_^(Federální_shromáždění)" src="orig" selected="1">NNNXX-----A---8</tag>
+<tag>
+<AM lemma="FS_:B_;K_^(Federální_shromáždění)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="FS-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-mf930713-045-p2s7w18">
 <src.rf>manual</src.rf>
@@ -929,7 +941,10 @@
 <LM>w#w-mf930713-045-p2s7w22</LM>
 </w.rf>
 <form>FS</form>
-<tag lemma="FS_:B_;K_^(Federální_shromáždění)" src="orig" selected="1">NNNXX-----A---8</tag>
+<tag>
+<AM lemma="FS_:B_;K_^(Federální_shromáždění)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="FS-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-mf930713-045-p2s7w23">
 <src.rf>manual</src.rf>
@@ -1029,7 +1044,7 @@
 <AM lemma="předávací-2_^(se;_dát_něčeho_příliš)_(*4t-2)" src="auto">AAMS2----1A----</AM>
 <AM lemma="předávací-2_^(se;_dát_něčeho_příliš)_(*4t-2)" src="auto">AAMS4----1A----</AM>
 <AM lemma="předávací-2_^(se;_dát_něčeho_příliš)_(*4t-2)" src="auto">AANS2----1A----</AM>
-<AM lemma="předávací-3_^(někomu_něco)_(*4t-3)" src="auto" recommended="1">AAIS2----1A----</AM>
+<AM lemma="předávací-3_^(někomu_něco)_(*4t-3)" src="auto" recommended="1" selected="1">AAIS2----1A----</AM>
 <AM lemma="předávací-3_^(někomu_něco)_(*4t-3)" src="auto">AAMS2----1A----</AM>
 <AM lemma="předávací-3_^(někomu_něco)_(*4t-3)" src="auto">AAMS4----1A----</AM>
 <AM lemma="předávací-3_^(někomu_něco)_(*4t-3)" src="auto">AANS2----1A----</AM>
@@ -1195,7 +1210,10 @@
 <LM>w#w-mf930713-045-p2s9w8</LM>
 </w.rf>
 <form>FS</form>
-<tag lemma="FS_:B_;K_^(Federální_shromáždění)" src="orig" selected="1">NNNXX-----A---8</tag>
+<tag>
+<AM lemma="FS_:B_;K_^(Federální_shromáždění)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="FS-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-mf930713-045-p2s9w9">
 <src.rf>manual</src.rf>
@@ -1531,7 +1549,7 @@
 <form>dělo</form>
 <tag>
 <AM lemma="dít" src="orig">VpNS---XR-AA---</AM>
-<AM lemma="dít-1_^(dít_se)" src="auto" recommended="1">VpNS---XR-AA---</AM>
+<AM lemma="dít-1_^(dít_se)" src="auto" recommended="1" selected="1">VpNS---XR-AA---</AM>
 <AM lemma="dít-2_^(říkat)" src="auto">VpNS---XR-AA---</AM>
 <AM lemma="dělo" src="auto">NNNS1-----A----</AM>
 <AM lemma="dělo" src="auto">NNNS4-----A----</AM>
@@ -2218,7 +2236,10 @@
 <LM>w#w-mf930713-045-p2s18w8</LM>
 </w.rf>
 <form>FS</form>
-<tag lemma="FS_:B_;K_^(Federální_shromáždění)" src="orig" selected="1">NNNXX-----A---8</tag>
+<tag>
+<AM lemma="FS_:B_;K_^(Federální_shromáždění)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="FS-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-mf930713-045-p2s18w9">
 <src.rf>manual</src.rf>

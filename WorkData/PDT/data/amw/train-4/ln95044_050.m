@@ -281,7 +281,7 @@
 <form>Repete</form>
 <tag>
 <AM lemma="repete_,h" src="orig">NNNXX-----A----</AM>
-<AM lemma="repete_,s" src="auto" recommended="1">Db-------------</AM>
+<AM lemma="repete_,s" src="auto" recommended="1" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m-ln95044-050-p2s2w17">
@@ -436,7 +436,10 @@
 <LM>w#w-ln95044-050-p3s1w12</LM>
 </w.rf>
 <form>L</form>
-<tag lemma="L-10_^(př._L'Aqua,_stažený_tvar_fr._členu)" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="L-10_^(př._L'Aqua,_stažený_tvar_fr._členu)" src="orig">AAXXX----1A----</AM>
+<AM lemma="L-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln95044-050-p3s1w13">
 <src.rf>manual</src.rf>
@@ -452,7 +455,10 @@
 <LM>w#w-ln95044-050-p3s1w14</LM>
 </w.rf>
 <form>appat</form>
-<tag lemma="appat_,t" src="orig" selected="1">NNIXX-----A----</tag>
+<tag>
+<AM lemma="appat_,t" src="orig">NNIXX-----A----</AM>
+<AM lemma="appat-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln95044-050-p3s1w15">
 <src.rf>manual</src.rf>
@@ -721,6 +727,7 @@
 <tag>
 <AM lemma="FIPRESCI_;m_^(Cena)" src="orig">NNXXX-----A----</AM>
 <AM lemma="FIPRESCI_:B_;K_;u_,t_^(Fédér._Inter._de_Presse_Cinématog.)" src="auto" recommended="1">NNFXX-----A---8</AM>
+<AM lemma="FIPRESCI-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-ln95044-050-p3s2w12">
@@ -857,7 +864,10 @@
 <LM>w#w-ln95044-050-p3s2w28</LM>
 </w.rf>
 <form>Smoke</form>
-<tag lemma="smoke_,t" src="orig" selected="1">NNIXX-----A----</tag>
+<tag>
+<AM lemma="smoke_,t" src="orig">NNIXX-----A----</AM>
+<AM lemma="Smoke-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln95044-050-p3s2w29">
 <src.rf>manual</src.rf>
@@ -899,7 +909,7 @@
 <form>USA</form>
 <tag>
 <AM lemma="USA_;G" src="orig">NNIPX-----A----</AM>
-<AM lemma="USA_:B_;K_,t_^(United_States_of_America)" src="auto" recommended="1">NNIPX-----A---8</AM>
+<AM lemma="USA_:B_;K_,t_^(United_States_of_America)" src="auto" recommended="1" selected="1">NNIPX-----A---8</AM>
 </tag>
 </m>
 <m id="m-ln95044-050-p3s2w34">
@@ -1050,7 +1060,7 @@
 <AM lemma="leč-2_^(kniž.;_leč_by...)" src="orig">J,-------------</AM>
 <AM lemma="leč-1_^(lov;_poslední_leč...)" src="auto">NNFS1-----A----</AM>
 <AM lemma="leč-1_^(lov;_poslední_leč...)" src="auto">NNFS4-----A----</AM>
-<AM lemma="leč-3_^(ale)" src="auto" recommended="1">J^-------------</AM>
+<AM lemma="leč-3_^(ale)" src="auto" recommended="1" selected="1">J^-------------</AM>
 <AM lemma="lečo_^(jídlo)" src="auto">NNNP2-----A----</AM>
 <AM lemma="léčit" src="auto">Vi-S---2--A----</AM>
 <AM lemma="léčit" src="auto">Vi-S---3--A---4</AM>
@@ -1126,7 +1136,10 @@
 <LM>w#w-ln95044-050-p3s3w21</LM>
 </w.rf>
 <form>Before</form>
-<tag lemma="before_,t" src="orig" selected="1">RR--X----------</tag>
+<tag>
+<AM lemma="before_,t" src="orig">RR--X----------</AM>
+<AM lemma="Before-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln95044-050-p3s3w22">
 <src.rf>manual</src.rf>
@@ -1134,7 +1147,10 @@
 <LM>w#w-ln95044-050-p3s3w22</LM>
 </w.rf>
 <form>Sunrise</form>
-<tag lemma="sunrise_,t" src="orig" selected="1">NNIXX-----A----</tag>
+<tag>
+<AM lemma="sunrise_,t" src="orig">NNIXX-----A----</AM>
+<AM lemma="Sunrise-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln95044-050-p3s3w23">
 <src.rf>manual</src.rf>
@@ -1152,7 +1168,7 @@
 <form>USA</form>
 <tag>
 <AM lemma="USA_;G" src="orig">NNIPX-----A----</AM>
-<AM lemma="USA_:B_;K_,t_^(United_States_of_America)" src="auto" recommended="1">NNIPX-----A---8</AM>
+<AM lemma="USA_:B_;K_,t_^(United_States_of_America)" src="auto" recommended="1" selected="1">NNIPX-----A---8</AM>
 </tag>
 </m>
 <m id="m-ln95044-050-p3s3w25">
@@ -1561,6 +1577,7 @@
 <AM lemma="Li_;Y" src="orig">NNMXX-----A----</AM>
 <AM lemma="li-1" src="auto" recommended="1">TT-------------</AM>
 <AM lemma="li-2" src="auto">J,-------------</AM>
+<AM lemma="Li-2_;S" src="manual" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95044-050-p4s2w15">
@@ -1569,7 +1586,10 @@
 <LM>w#w-ln95044-050-p4s2w15</LM>
 </w.rf>
 <form>Shaohong</form>
-<tag lemma="Shaohong_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Shaohong_;S" src="orig">NNMS1-----A----</AM>
+<AM lemma="Shaohong_;Y" src="manual" selected="1">NNFS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95044-050-p4s2w16">
 <src.rf>manual</src.rf>
@@ -1739,7 +1759,10 @@
 <LM>w#w-ln95044-050-p4s5w8</LM>
 </w.rf>
 <form>van</form>
-<tag lemma="vana" src="orig" selected="1">NNFP2-----A----</tag>
+<tag>
+<AM lemma="vana" src="orig">NNFP2-----A----</AM>
+<AM lemma="van-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln95044-050-p4s5w9">
 <src.rf>manual</src.rf>

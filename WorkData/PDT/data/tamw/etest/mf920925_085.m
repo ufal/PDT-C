@@ -271,7 +271,10 @@
 <LM>w#w-mf920925-085-p2s2w14</LM>
 </w.rf>
 <form>hektarů</form>
-<tag lemma="ha-1`hektar" src="orig" selected="1">NNIP2-----A----</tag>
+<tag>
+<AM lemma="ha-1`hektar" src="orig">NNIP2-----A----</AM>
+<AM lemma="hektar" src="manual" selected="1">NNIP2-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920925-085-p2s2w15">
 <src.rf>manual</src.rf>
@@ -401,7 +404,10 @@
 <LM>w#w-mf920925-085-p2s3w15</LM>
 </w.rf>
 <form>kpt</form>
-<tag lemma="kapitán_:B" src="orig" selected="1">NNMXX-----A---8</tag>
+<tag>
+<AM lemma="kapitán_:B" src="orig">NNMXX-----A---8</AM>
+<AM lemma="kpt_:B_^(kapitán)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920925-085-p2s3w16">
 <src.rf>manual</src.rf>
@@ -548,6 +554,7 @@
 <tag>
 <AM lemma="cm-1`centimetr_:B" src="orig">NNIXX-----A---8</AM>
 <AM lemma="centimetr_:B" src="auto" recommended="1">NNIXX-----A---8</AM>
+<AM lemma="centimetr" src="manual" selected="1">NNIXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-mf920925-085-p2s3w34">
@@ -1073,7 +1080,7 @@
 <AM lemma="chemička-1_^(továrna)" src="auto" recommended="1">NNFP1-----A----</AM>
 <AM lemma="chemička-1_^(továrna)" src="auto">NNFP4-----A----</AM>
 <AM lemma="chemička-1_^(továrna)" src="auto">NNFP5-----A----</AM>
-<AM lemma="chemička-1_^(továrna)" src="auto">NNFS2-----A----</AM>
+<AM lemma="chemička-1_^(továrna)" src="auto" selected="1">NNFS2-----A----</AM>
 <AM lemma="chemička-2_^(^FM*5k)" src="auto">NNFP1-----A----</AM>
 <AM lemma="chemička-2_^(^FM*5k)" src="auto">NNFP4-----A----</AM>
 <AM lemma="chemička-2_^(^FM*5k)" src="auto">NNFP5-----A----</AM>
@@ -1322,7 +1329,7 @@
 <form>litrů</form>
 <tag>
 <AM lemma="l-1`litr" src="orig">NNIP2-----A----</AM>
-<AM lemma="litr" src="auto" recommended="1">NNIP2-----A----</AM>
+<AM lemma="litr" src="auto" recommended="1" selected="1">NNIP2-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920925-085-p2s9w17">
@@ -1473,7 +1480,7 @@
 <form>totiž</form>
 <tag>
 <AM lemma="totiž" src="orig">Db-------------</AM>
-<AM lemma="totiž-1" src="auto" recommended="1">J^-------------</AM>
+<AM lemma="totiž-1" src="auto" recommended="1" selected="1">J^-------------</AM>
 <AM lemma="totiž-2" src="auto">TT-------------</AM>
 </tag>
 </m>
@@ -1621,7 +1628,10 @@
 <LM>w#w-mf920925-085-p2s12w5</LM>
 </w.rf>
 <form>ČR</form>
-<tag lemma="ČR-1_:B_;G_^(Česká_republika)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920925-085-p2s12w6">
 <src.rf>manual</src.rf>

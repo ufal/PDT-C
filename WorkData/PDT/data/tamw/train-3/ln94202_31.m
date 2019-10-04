@@ -105,6 +105,7 @@
 <AM lemma="job-99_:B_;S" src="orig">NNXXX-----A---8</AM>
 <AM lemma="job" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="job" src="auto">NNIS4-----A----</AM>
+<AM lemma="job-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94202-31-p2s1Aw5">
@@ -267,7 +268,10 @@
 <LM>w#w-ln94202-31-p2s1Bw18</LM>
 </w.rf>
 <form>Unica</form>
-<tag lemma="Unica_;m_,t" src="orig" selected="1">NNFS1-----A----</tag>
+<tag>
+<AM lemma="Unica_;m_,t" src="orig">NNFS1-----A----</AM>
+<AM lemma="Unica_;m" src="manual" selected="1">NNFS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94202-31-p2s1Bw19">
 <src.rf>manual</src.rf>
@@ -567,7 +571,10 @@
 <LM>w#w-ln94202-31-p3s1w5</LM>
 </w.rf>
 <form>J</form>
-<tag lemma="J-0_:B_;Y" src="orig" selected="1">NNMXX-----A---8</tag>
+<tag>
+<AM lemma="J-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
+<AM lemma="J-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94202-31-p3s1w6">
 <src.rf>manual</src.rf>
@@ -905,7 +912,10 @@
 <LM>w#w-ln94202-31-p3s2w26</LM>
 </w.rf>
 <form>LN</form>
-<tag lemma="LN-1_:B_;R_^(Lidové_noviny,_deník)" src="orig" selected="1">NNFPX-----A---8</tag>
+<tag>
+<AM lemma="LN-1_:B_;R_^(Lidové_noviny,_deník)" src="orig">NNFPX-----A---8</AM>
+<AM lemma="LN-1_:B_;K_;R_^(Lidové_noviny)" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln94202-31-p3s2w27">
 <src.rf>manual</src.rf>
@@ -1027,7 +1037,10 @@
 <LM>w#w-ln94202-31-p3s3w11</LM>
 </w.rf>
 <form>Die</form>
-<tag lemma="die-1_;K_,t_^(souč._něm._názvů,_např._Die_Presse_[člen_f.])" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="die-1_;K_,t_^(souč._něm._názvů,_např._Die_Presse_[člen_f.])" src="orig">AAXXX----1A----</AM>
+<AM lemma="Die-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94202-31-p3s3w12">
 <src.rf>manual</src.rf>
@@ -1035,7 +1048,10 @@
 <LM>w#w-ln94202-31-p3s3w12</LM>
 </w.rf>
 <form>Falle</form>
-<tag lemma="Falle_;R_,t" src="orig" selected="1">NNFXX-----A----</tag>
+<tag>
+<AM lemma="Falle_;R_,t" src="orig">NNFXX-----A----</AM>
+<AM lemma="Falle-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94202-31-p3s3w13">
 <src.rf>manual</src.rf>

@@ -83,7 +83,10 @@
 <LM>w#w-ln95043-017-p1s1w9</LM>
 </w.rf>
 <form>Houston</form>
-<tag lemma="Houston-2_;S" src="auto" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Houston-2_;S" src="auto">NNMS1-----A----</AM>
+<AM lemma="Houston-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln95043-017-p1s1w10">
 <src.rf>manual</src.rf>
@@ -91,7 +94,10 @@
 <LM>w#w-ln95043-017-p1s1w10</LM>
 </w.rf>
 <form>Rockets</form>
-<tag lemma="Rocket_;K_,t" src="orig" selected="1">NNFPX-----A----</tag>
+<tag>
+<AM lemma="Rocket_;K_,t" src="orig">NNFPX-----A----</AM>
+<AM lemma="Rockets-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln95043-017-p1s1w11">
 <src.rf>manual</src.rf>
@@ -139,7 +145,10 @@
 <LM>w#w-ln95043-017-p1s1w16</LM>
 </w.rf>
 <form>NBA</form>
-<tag lemma="NBA_:B_;K" src="auto" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="NBA_:B_;K" src="auto">NNFXX-----A---8</AM>
+<AM lemma="NBA-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 </s>
 </mdata>

@@ -19,7 +19,10 @@
 <LM>w#w-lnd92259-037-p1s1w1</LM>
 </w.rf>
 <form>G</form>
-<tag lemma="G-0_:B_;Y" src="orig" selected="1">NNMXX-----A---8</tag>
+<tag>
+<AM lemma="G-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
+<AM lemma="G-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd92259-037-p1s1w2">
 <src.rf>manual</src.rf>
@@ -407,7 +410,7 @@
 <form>pásků</form>
 <tag>
 <AM lemma="páska_^(proužek;_do_stroje)" src="orig">NNIP2-----A----</AM>
-<AM lemma="pásek-1_^(opasek;;proužek;_do_stroje;_magnetofonový)" src="auto" recommended="1">NNIP2-----A----</AM>
+<AM lemma="pásek-1_^(opasek;;proužek;_do_stroje;_magnetofonový)" src="auto" recommended="1" selected="1">NNIP2-----A----</AM>
 <AM lemma="pásek-2_^(chuligán)" src="auto">NNMP2-----A----</AM>
 </tag>
 </m>
@@ -794,6 +797,7 @@
 <tag>
 <AM lemma="USA_;G" src="orig">NNIPX-----A----</AM>
 <AM lemma="USA_:B_;K_,t_^(United_States_of_America)" src="auto" recommended="1">NNIPX-----A---8</AM>
+<AM lemma="USA_:B_;K_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-lnd92259-037-p1s5w7">

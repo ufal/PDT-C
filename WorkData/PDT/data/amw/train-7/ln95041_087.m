@@ -403,7 +403,10 @@
 <LM>w#w-ln95041-087-p3s2w14</LM>
 </w.rf>
 <form>Alan</form>
-<tag lemma="Alan_;Y" src="orig" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Alan_;Y" src="orig">NNMS1-----A----</AM>
+<AM lemma="Alan_;Y_;S" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95041-087-p3s2w15">
 <src.rf>manual</src.rf>
@@ -480,7 +483,7 @@
 <tag>
 <AM lemma="tady" src="orig">Db------------1</AM>
 <AM lemma="ten" src="auto" recommended="1">PDFS4----------</AM>
-<AM lemma="tu" src="auto">Db-------------</AM>
+<AM lemma="tu" src="auto" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m-ln95041-087-p4s1w5">
@@ -1230,7 +1233,7 @@
 <AM lemma="předávání-3_^(někomu_něco)_(*5at-3)" src="auto">NNNP4-----A----</AM>
 <AM lemma="předávání-3_^(někomu_něco)_(*5at-3)" src="auto">NNNP5-----A----</AM>
 <AM lemma="předávání-3_^(někomu_něco)_(*5at-3)" src="auto">NNNS1-----A----</AM>
-<AM lemma="předávání-3_^(někomu_něco)_(*5at-3)" src="auto" recommended="1">NNNS2-----A----</AM>
+<AM lemma="předávání-3_^(někomu_něco)_(*5at-3)" src="auto" recommended="1" selected="1">NNNS2-----A----</AM>
 <AM lemma="předávání-3_^(někomu_něco)_(*5at-3)" src="auto">NNNS3-----A----</AM>
 <AM lemma="předávání-3_^(někomu_něco)_(*5at-3)" src="auto">NNNS4-----A----</AM>
 <AM lemma="předávání-3_^(někomu_něco)_(*5at-3)" src="auto">NNNS5-----A----</AM>
@@ -1659,7 +1662,7 @@
 <form>nejspíš</form>
 <tag>
 <AM lemma="spíše" src="orig">Dg-------3A----</AM>
-<AM lemma="nejspíš" src="auto">TT-------------</AM>
+<AM lemma="nejspíš" src="auto" selected="1">TT-------------</AM>
 <AM lemma="spíš" src="auto" recommended="1">Dg-------3A----</AM>
 </tag>
 </m>
@@ -1775,7 +1778,10 @@
 <LM>w#w-ln95041-087-p6s2w7</LM>
 </w.rf>
 <form>ani</form>
-<tag lemma="ani-1" src="auto" selected="1">J^-------------</tag>
+<tag>
+<AM lemma="ani-1" src="auto">J^-------------</AM>
+<AM lemma="ani-2" src="manual" selected="1">TT-------------</AM>
+</tag>
 </m>
 <m id="m-ln95041-087-p6s2w8">
 <src.rf>manual</src.rf>
@@ -2051,7 +2057,10 @@
 <LM>w#w-ln95041-087-p7s2w5</LM>
 </w.rf>
 <form>sice</form>
-<tag lemma="sice-2" src="auto" selected="1">Db-------------</tag>
+<tag>
+<AM lemma="sice-2" src="auto">Db-------------</AM>
+<AM lemma="sice-1_^(spojka;_připouští_se_určitá_fakta)" src="manual" selected="1">J^-------------</AM>
+</tag>
 </m>
 <m id="m-ln95041-087-p7s2w6">
 <src.rf>manual</src.rf>
@@ -2203,7 +2212,10 @@
 <LM>w#w-ln95041-087-p7s2w24</LM>
 </w.rf>
 <form>spíš</form>
-<tag lemma="spíše" src="orig" selected="1">Dg-------2A----</tag>
+<tag>
+<AM lemma="spíše" src="orig">Dg-------2A----</AM>
+<AM lemma="spíš" src="manual" selected="1">TT-------------</AM>
+</tag>
 </m>
 <m id="m-ln95041-087-p7s2w25">
 <src.rf>manual</src.rf>
@@ -2497,7 +2509,10 @@
 <LM>w#w-ln95041-087-p8s2w2</LM>
 </w.rf>
 <form>Kovařík</form>
-<tag lemma="kovařík" src="orig" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="kovařík" src="orig">NNMS1-----A----</AM>
+<AM lemma="Kovařík_;S" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95041-087-p8s2w3">
 <src.rf>manual</src.rf>

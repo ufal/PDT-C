@@ -30,6 +30,7 @@
 <tag>
 <AM lemma="USA_;G" src="orig">NNIPX-----A----</AM>
 <AM lemma="USA_:B_;K_,t_^(United_States_of_America)" src="auto" recommended="1">NNIPX-----A---8</AM>
+<AM lemma="USA_:B_;K_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930701-154-p1s1w3">
@@ -54,7 +55,10 @@
 <LM>w#w-mf930701-154-p1s1w5</LM>
 </w.rf>
 <form>ztížil</form>
-<tag lemma="ztížit" src="auto" selected="1">VpYS---XR-AA---</tag>
+<tag>
+<AM lemma="ztížit" src="auto">VpYS---XR-AA---</AM>
+<AM lemma="ztížit_:W" src="manual" selected="1">VpYS---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-mf930701-154-p1s1w6">
 <src.rf>manual</src.rf>
@@ -768,7 +772,10 @@
 <LM>w#w-mf930701-154-p1s6w12</LM>
 </w.rf>
 <form>uvedl</form>
-<tag lemma="uvést" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag>
+<AM lemma="uvést" src="orig">VpYS---XR-AA---</AM>
+<AM lemma="uvést_:W" src="manual" selected="1">VpYS---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-mf930701-154-p1s6w13">
 <src.rf>manual</src.rf>
@@ -898,7 +905,11 @@
 <LM>w#w-mf930701-154-p1s7w14</LM>
 </w.rf>
 <form>START</form>
-<tag lemma="start" src="orig" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="start" src="orig">NNIS1-----A----</AM>
+<AM lemma="START_:B" src="manual">NNXXX-----A---8</AM>
+<AM lemma="START-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930701-154-p1s7w15">
 <src.rf>manual</src.rf>
@@ -948,7 +959,10 @@
 <LM>w#w-mf930701-154-p1s8w2</LM>
 </w.rf>
 <form>připomněl</form>
-<tag lemma="připomenout" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag>
+<AM lemma="připomenout" src="orig">VpYS---XR-AA---</AM>
+<AM lemma="připomenout_:W" src="manual" selected="1">VpYS---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-mf930701-154-p1s8w3">
 <src.rf>manual</src.rf>
@@ -1384,7 +1398,10 @@
 <LM>w#w-mf930701-154-p1s10w6</LM>
 </w.rf>
 <form>vzdát</form>
-<tag lemma="vzdát" src="orig" selected="1">Vf--------A----</tag>
+<tag>
+<AM lemma="vzdát" src="orig">Vf--------A----</AM>
+<AM lemma="vzdát_:W" src="manual" selected="1">Vf--------A----</AM>
+</tag>
 </m>
 <m id="m-mf930701-154-p1s10w7">
 <src.rf>manual</src.rf>

@@ -156,6 +156,7 @@
 <AM lemma="doktor_:B_^(doktor,_akad._titul)" src="auto">NNMXX-----A---8</AM>
 <AM lemma="doktor_:B_^(doktor,_akad._titul)" src="auto" recommended="1">NNXXX-----A---8</AM>
 <AM lemma="doktorka_:B_^(doktorka,_akad._titul)" src="auto">NNFXX-----A---8</AM>
+<AM lemma="dr-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-ln94204-157-p2s1Bw4">
@@ -318,7 +319,10 @@
 <LM>w#w-ln94204-157-p2s1Cw18</LM>
 </w.rf>
 <form>JLV</form>
-<tag lemma="JLV-1_:B_^(jídelní_a_lůžkový_vůz)" src="auto" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="JLV-1_:B_^(jídelní_a_lůžkový_vůz)" src="auto">NNIXX-----A---8</AM>
+<AM lemma="JLV-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln94204-157-p2s1Cw19">
 <src.rf>manual</src.rf>
@@ -400,7 +404,10 @@
 <LM>w#w-ln94204-157-p3s1w8</LM>
 </w.rf>
 <form>JLV</form>
-<tag lemma="JLV-1_:B_^(jídelní_a_lůžkový_vůz)" src="auto" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="JLV-1_:B_^(jídelní_a_lůžkový_vůz)" src="auto">NNIXX-----A---8</AM>
+<AM lemma="JLV-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln94204-157-p3s1w9">
 <src.rf>manual</src.rf>
@@ -426,7 +433,7 @@
 <form>dřívějších</form>
 <tag>
 <AM lemma="brzký" src="orig">AAFP2----2A----</AM>
-<AM lemma="dřívější" src="auto" recommended="1">AAFP2----2A----</AM>
+<AM lemma="dřívější" src="auto" recommended="1" selected="1">AAFP2----2A----</AM>
 <AM lemma="dřívější" src="auto">AAFP6----2A----</AM>
 <AM lemma="dřívější" src="auto">AAIP2----2A----</AM>
 <AM lemma="dřívější" src="auto">AAIP6----2A----</AM>
@@ -442,7 +449,10 @@
 <LM>w#w-ln94204-157-p3s1w12</LM>
 </w.rf>
 <form>ČSD</form>
-<tag lemma="ČSD-1_:B_;K_^(Čs._státní_dráhy)" src="orig" selected="1">NNFPX-----A---8</tag>
+<tag>
+<AM lemma="ČSD-1_:B_;K_^(Čs._státní_dráhy)" src="orig">NNFPX-----A---8</AM>
+<AM lemma="ČSD-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln94204-157-p3s1w13">
 <src.rf>manual</src.rf>
@@ -498,7 +508,10 @@
 <LM>w#w-ln94204-157-p3s1w19</LM>
 </w.rf>
 <form>JLV</form>
-<tag lemma="JLV-1_:B_^(jídelní_a_lůžkový_vůz)" src="auto" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="JLV-1_:B_^(jídelní_a_lůžkový_vůz)" src="auto">NNIXX-----A---8</AM>
+<AM lemma="JLV-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln94204-157-p3s1w20">
 <src.rf>manual</src.rf>
@@ -514,7 +527,10 @@
 <LM>w#w-ln94204-157-p3s1w21</LM>
 </w.rf>
 <form>Paula</form>
-<tag lemma="Paul_;Y" src="auto" selected="1">NNMS2-----A----</tag>
+<tag>
+<AM lemma="Paul_;Y" src="auto">NNMS2-----A----</AM>
+<AM lemma="Paul_;S" src="manual" selected="1">NNMS2-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94204-157-p3s1w22">
 <src.rf>manual</src.rf>
@@ -902,7 +918,10 @@
 <LM>w#w-ln94204-157-p4s1w23</LM>
 </w.rf>
 <form>JLV</form>
-<tag lemma="JLV-1_:B_^(jídelní_a_lůžkový_vůz)" src="auto" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="JLV-1_:B_^(jídelní_a_lůžkový_vůz)" src="auto">NNIXX-----A---8</AM>
+<AM lemma="JLV-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln94204-157-p4s1w24">
 <src.rf>manual</src.rf>
@@ -1000,7 +1019,10 @@
 <LM>w#w-ln94204-157-p4s2w11</LM>
 </w.rf>
 <form>JLV</form>
-<tag lemma="JLV-1_:B_^(jídelní_a_lůžkový_vůz)" src="auto" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="JLV-1_:B_^(jídelní_a_lůžkový_vůz)" src="auto">NNIXX-----A---8</AM>
+<AM lemma="JLV-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln94204-157-p4s2w12">
 <src.rf>manual</src.rf>
@@ -1051,6 +1073,7 @@
 <tag>
 <AM lemma="Kč" src="orig">NNFXX-----A----</AM>
 <AM lemma="Kč_:B" src="auto" recommended="1">NNFXX-----A---8</AM>
+<AM lemma="Kč_:B" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94204-157-p4s2w18">
@@ -1144,6 +1167,7 @@
 <tag>
 <AM lemma="Kč" src="orig">NNFXX-----A----</AM>
 <AM lemma="Kč_:B" src="auto" recommended="1">NNFXX-----A---8</AM>
+<AM lemma="Kč_:B" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94204-157-p4s4w8">
@@ -1200,7 +1224,10 @@
 <LM>w#w-ln94204-157-p4s4w14</LM>
 </w.rf>
 <form>Paula</form>
-<tag lemma="Paul_;Y" src="auto" selected="1">NNMS2-----A----</tag>
+<tag>
+<AM lemma="Paul_;Y" src="auto">NNMS2-----A----</AM>
+<AM lemma="Paul_;S" src="manual" selected="1">NNMS2-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94204-157-p4s4w15">
 <src.rf>manual</src.rf>
@@ -1391,6 +1418,7 @@
 <tag>
 <AM lemma="Kč" src="orig">NNFXX-----A----</AM>
 <AM lemma="Kč_:B" src="auto" recommended="1">NNFXX-----A---8</AM>
+<AM lemma="Kč_:B" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94204-157-p5s2w13">
@@ -1532,6 +1560,7 @@
 <tag>
 <AM lemma="Kč" src="orig">NNFXX-----A----</AM>
 <AM lemma="Kč_:B" src="auto" recommended="1">NNFXX-----A---8</AM>
+<AM lemma="Kč_:B" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94204-157-p5s3w17">
@@ -1560,7 +1589,7 @@
 <form>ovšem</form>
 <tag>
 <AM lemma="ovšem-1_^(avšak,_však;_odporovací_spojka)" src="orig">J^-------------</AM>
-<AM lemma="ovšem" src="auto" recommended="1">TT-------------</AM>
+<AM lemma="ovšem" src="auto" recommended="1" selected="1">TT-------------</AM>
 </tag>
 </m>
 <m id="m-ln94204-157-p5s4w3">
@@ -1569,7 +1598,10 @@
 <LM>w#w-ln94204-157-p5s4w3</LM>
 </w.rf>
 <form>JLV</form>
-<tag lemma="JLV-1_:B_^(jídelní_a_lůžkový_vůz)" src="auto" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="JLV-1_:B_^(jídelní_a_lůžkový_vůz)" src="auto">NNIXX-----A---8</AM>
+<AM lemma="JLV-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln94204-157-p5s4w4">
 <src.rf>manual</src.rf>
@@ -1867,7 +1899,10 @@
 <LM>w#w-ln94204-157-p6s1w27</LM>
 </w.rf>
 <form>km</form>
-<tag lemma="km-1`kilometr_:B" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="km-1`kilometr_:B" src="orig">NNIXX-----A---8</AM>
+<AM lemma="kilometr_:B" src="manual" selected="1">NNIXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94204-157-p6s1w28">
 <src.rf>manual</src.rf>
@@ -1979,7 +2014,10 @@
 <LM>w#w-ln94204-157-p6s1w41</LM>
 </w.rf>
 <form>km</form>
-<tag lemma="km-1`kilometr_:B" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="km-1`kilometr_:B" src="orig">NNIXX-----A---8</AM>
+<AM lemma="kilometr_:B" src="manual" selected="1">NNIXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94204-157-p6s1w42">
 <src.rf>manual</src.rf>
@@ -2157,7 +2195,10 @@
 <LM>w#w-ln94204-157-p6s2w19</LM>
 </w.rf>
 <form>Paul</form>
-<tag lemma="Paul_;Y" src="auto" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Paul_;Y" src="auto">NNMS1-----A----</AM>
+<AM lemma="Paul_;S" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94204-157-p6s2w20">
 <src.rf>manual</src.rf>
@@ -2416,7 +2457,10 @@
 <LM>w#w-ln94204-157-p7s1w24</LM>
 </w.rf>
 <form>DEM</form>
-<tag lemma="DEM_:B_;b_^(německá_marka)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="DEM_:B_;b_^(německá_marka)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="DEM-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln94204-157-p7s1w25">
 <src.rf>manual</src.rf>
@@ -2475,6 +2519,7 @@
 <tag>
 <AM lemma="Kč" src="orig">NNFXX-----A----</AM>
 <AM lemma="Kč_:B" src="auto" recommended="1">NNFXX-----A---8</AM>
+<AM lemma="Kč_:B" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94204-157-p7s1w32">
@@ -2721,7 +2766,10 @@
 <LM>w#w-ln94204-157-p8s3w11</LM>
 </w.rf>
 <form>Paul</form>
-<tag lemma="Paul_;Y" src="auto" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Paul_;Y" src="auto">NNMS1-----A----</AM>
+<AM lemma="Paul_;S" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94204-157-p8s3w12">
 <src.rf>manual</src.rf>
@@ -3017,6 +3065,7 @@
 <AM lemma="SGP-3_:B_;K_,t_^(rakouská_firma)" src="orig">NNXXX-----A---8</AM>
 <AM lemma="SGP-1_:B_;K_,t_^(zvuková_karta_Sound_Galaxy_NX_Pro_16)" src="auto" recommended="1">NNFXX-----A---8</AM>
 <AM lemma="SGP-2_:B_;R_,t_^(Soukup_Graphic_Preprocessor)" src="auto">NNIXX-----A---8</AM>
+<AM lemma="SGP-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-ln94204-157-p8s5w15">
@@ -3101,7 +3150,7 @@
 <form>ovšem</form>
 <tag>
 <AM lemma="ovšem-1_^(avšak,_však;_odporovací_spojka)" src="orig">J^-------------</AM>
-<AM lemma="ovšem" src="auto" recommended="1">TT-------------</AM>
+<AM lemma="ovšem" src="auto" recommended="1" selected="1">TT-------------</AM>
 </tag>
 </m>
 <m id="m-ln94204-157-p8s6w10">
@@ -3192,7 +3241,10 @@
 <LM>w#w-ln94204-157-p9s1w1</LM>
 </w.rf>
 <form>JLV</form>
-<tag lemma="JLV-1_:B_^(jídelní_a_lůžkový_vůz)" src="auto" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="JLV-1_:B_^(jídelní_a_lůžkový_vůz)" src="auto">NNIXX-----A---8</AM>
+<AM lemma="JLV-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln94204-157-p9s1w2">
 <src.rf>manual</src.rf>
@@ -3532,7 +3584,10 @@
 <LM>w#w-ln94204-157-p10s1w18</LM>
 </w.rf>
 <form>Paul</form>
-<tag lemma="Paul_;Y" src="auto" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Paul_;Y" src="auto">NNMS1-----A----</AM>
+<AM lemma="Paul_;S" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94204-157-p10s1w19">
 <src.rf>manual</src.rf>
@@ -3646,7 +3701,10 @@
 <LM>w#w-ln94204-157-p10s2w2</LM>
 </w.rf>
 <form>JLV</form>
-<tag lemma="JLV-1_:B_^(jídelní_a_lůžkový_vůz)" src="auto" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="JLV-1_:B_^(jídelní_a_lůžkový_vůz)" src="auto">NNIXX-----A---8</AM>
+<AM lemma="JLV-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln94204-157-p10s2w3">
 <src.rf>manual</src.rf>
@@ -3912,7 +3970,10 @@
 <LM>w#w-ln94204-157-p10s3w20</LM>
 </w.rf>
 <form>JLV</form>
-<tag lemma="JLV-1_:B_^(jídelní_a_lůžkový_vůz)" src="auto" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="JLV-1_:B_^(jídelní_a_lůžkový_vůz)" src="auto">NNIXX-----A---8</AM>
+<AM lemma="JLV-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln94204-157-p10s3w21">
 <src.rf>manual</src.rf>

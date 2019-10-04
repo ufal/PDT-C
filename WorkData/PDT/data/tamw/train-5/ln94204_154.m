@@ -379,7 +379,10 @@
 <LM>w#w-ln94204-154-p3s1w18</LM>
 </w.rf>
 <form>milionů</form>
-<tag lemma="milión`1000000" src="orig" selected="1">NNIP2-----A----</tag>
+<tag>
+<AM lemma="milión`1000000" src="orig">NNIP2-----A----</AM>
+<AM lemma="milion`1000000_,s_^(^DD**milión)" src="manual" selected="1">NNIP2-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94204-154-p3s1w19">
 <src.rf>manual</src.rf>
@@ -405,7 +408,10 @@
 <LM>w#w-ln94204-154-p3s2w2</LM>
 </w.rf>
 <form>ČNB</form>
-<tag lemma="ČNB-1_:B_;K_;b_^(Česká_národní_banka)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ČNB-1_:B_;K_;b_^(Česká_národní_banka)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČNB-1_:B_;K_;b_^(Česká_národní_banka)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94204-154-p3s2w3">
 <src.rf>manual</src.rf>
@@ -821,7 +827,10 @@
 <LM>w#w-ln94204-154-p5s2w9</LM>
 </w.rf>
 <form>resp</form>
-<tag lemma="respektive_:B" src="auto" selected="1">Db------------8</tag>
+<tag>
+<AM lemma="respektive_:B" src="auto">Db------------8</AM>
+<AM lemma="respektive" src="manual" selected="1">Db------------8</AM>
+</tag>
 </m>
 <m id="m-ln94204-154-p5s2w10">
 <src.rf>manual</src.rf>
@@ -919,7 +928,10 @@
 <LM>w#w-ln94204-154-p5s2w21</LM>
 </w.rf>
 <form>resp</form>
-<tag lemma="respektive_:B" src="auto" selected="1">Db------------8</tag>
+<tag>
+<AM lemma="respektive_:B" src="auto">Db------------8</AM>
+<AM lemma="respektive" src="manual" selected="1">Db------------8</AM>
+</tag>
 </m>
 <m id="m-ln94204-154-p5s2w22">
 <src.rf>manual</src.rf>

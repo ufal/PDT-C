@@ -77,6 +77,7 @@
 <AM lemma="zlo" src="auto">NNNP4-----A----</AM>
 <AM lemma="zlo" src="auto">NNNP5-----A----</AM>
 <AM lemma="zlo" src="auto">NNNS2-----A----</AM>
+<AM lemma="zla-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92259-018-p3s1w4">
@@ -199,7 +200,10 @@
 <LM>w#w-lnd92259-018-p3s2w13</LM>
 </w.rf>
 <form>začne</form>
-<tag lemma="začít-1_^(začnout)" src="auto" selected="1">VB-S---3P-AA---</tag>
+<tag>
+<AM lemma="začít-1_^(začnout)" src="auto">VB-S---3P-AA---</AM>
+<AM lemma="začít-1_:W_^(začnout)" src="manual" selected="1">VB-S---3P-AA---</AM>
+</tag>
 </m>
 <m id="m-lnd92259-018-p3s2w14">
 <src.rf>manual</src.rf>
@@ -641,7 +645,10 @@
 <LM>w#w-lnd92259-018-p3s3w32</LM>
 </w.rf>
 <form>atd</form>
-<tag lemma="atd-1_:B_^(a_tak_dále)" src="orig" selected="1">Db------------8</tag>
+<tag>
+<AM lemma="atd-1_:B_^(a_tak_dále)" src="orig">Db------------8</AM>
+<AM lemma="atd-1_:B_^(a_tak_dále)" src="manual" selected="1">Db-------------</AM>
+</tag>
 </m>
 <m id="m-lnd92259-018-p3s3w33">
 <src.rf>manual</src.rf>
@@ -726,6 +733,7 @@
 <tag>
 <AM lemma="ÚKDŽ_:B_;K_^(Ústřední_kult._dům_železničářů)" src="orig">NNIXX-----A---8</AM>
 <AM lemma="ÚKDŽ_:B_;K" src="auto" recommended="1">NNXXX-----A---8</AM>
+<AM lemma="ÚKDŽ-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92259-018-p3s4w10">
@@ -790,7 +798,10 @@
 <LM>w#w-lnd92259-018-p3s4w17</LM>
 </w.rf>
 <form>ČR</form>
-<tag lemma="ČR-1_:B_;G_^(Česká_republika)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92259-018-p3s4w18">
 <src.rf>manual</src.rf>

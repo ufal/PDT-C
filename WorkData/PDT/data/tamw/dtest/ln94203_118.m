@@ -371,7 +371,10 @@
 <LM>w#w-ln94203-118-p2s2w5</LM>
 </w.rf>
 <form>Rudi</form>
-<tag lemma="Rudi_;Y_,t" src="auto" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Rudi_;Y_,t" src="auto">NNMS1-----A----</AM>
+<AM lemma="Rudi_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94203-118-p2s2w6">
 <src.rf>manual</src.rf>

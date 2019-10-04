@@ -343,7 +343,10 @@
 <LM>w#w-mf930708-031-p2s2w8</LM>
 </w.rf>
 <form>von</form>
-<tag lemma="von-2_,t" src="orig" selected="1">RR--X----------</tag>
+<tag>
+<AM lemma="von-2_,t" src="orig">RR--X----------</AM>
+<AM lemma="von-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-mf930708-031-p2s2w9">
 <src.rf>manual</src.rf>
@@ -513,7 +516,10 @@
 <LM>w#w-mf930708-031-p2s3w2</LM>
 </w.rf>
 <form>von</form>
-<tag lemma="von-2_,t" src="orig" selected="1">RR--X----------</tag>
+<tag>
+<AM lemma="von-2_,t" src="orig">RR--X----------</AM>
+<AM lemma="von-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-mf930708-031-p2s3w3">
 <src.rf>manual</src.rf>
@@ -1075,7 +1081,10 @@
 <LM>w#w-mf930708-031-p3s5w7</LM>
 </w.rf>
 <form>míněna</form>
-<tag lemma="mínit" src="orig" selected="1">VsQW---XX-AP---</tag>
+<tag>
+<AM lemma="mínit" src="orig">VsQW---XX-AP---</AM>
+<AM lemma="mínit_:T" src="manual" selected="1">VsQW---XX-AP---</AM>
+</tag>
 </m>
 <m id="m-mf930708-031-p3s5w8">
 <src.rf>manual</src.rf>
@@ -1473,7 +1482,10 @@
 <LM>w#w-mf930708-031-p4s1w13</LM>
 </w.rf>
 <form>vyloučena</form>
-<tag lemma="vyloučit" src="orig" selected="1">VsQW---XX-AP---</tag>
+<tag>
+<AM lemma="vyloučit" src="orig">VsQW---XX-AP---</AM>
+<AM lemma="vyloučit_:W" src="manual" selected="1">VsQW---XX-AP---</AM>
+</tag>
 </m>
 <m id="m-mf930708-031-p4s1w14">
 <src.rf>manual</src.rf>
@@ -1601,7 +1613,10 @@
 <LM>w#w-mf930708-031-p4s1w29</LM>
 </w.rf>
 <form>AEG</form>
-<tag lemma="AEG_:B_;K" src="auto" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="AEG_:B_;K" src="auto">NNXXX-----A---8</AM>
+<AM lemma="AEG-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930708-031-p4s1w30">
 <src.rf>manual</src.rf>
@@ -1617,7 +1632,10 @@
 <LM>w#w-mf930708-031-p4s1w31</LM>
 </w.rf>
 <form>ČKD</form>
-<tag lemma="ČKD-1_:B_;K_^(Českomoravská_Kolben-Daněk)" src="orig" selected="1">NNNXX-----A---8</tag>
+<tag>
+<AM lemma="ČKD-1_:B_;K_^(Českomoravská_Kolben-Daněk)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="ČKD-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930708-031-p4s1w32">
 <src.rf>manual</src.rf>
@@ -2013,6 +2031,7 @@
 <AM lemma="začít-1" src="orig">Vf--------A----</AM>
 <AM lemma="začít-1_^(začnout)" src="auto" recommended="1">Vf--------A----</AM>
 <AM lemma="začít-2_^(pocítit)" src="auto">Vf--------A----</AM>
+<AM lemma="začít-1_:W_^(začnout)" src="manual" selected="1">Vf--------A----</AM>
 </tag>
 </m>
 <m id="m-mf930708-031-p6s1w5">
@@ -2175,7 +2194,10 @@
 <LM>w#w-mf930708-031-p7s1w14</LM>
 </w.rf>
 <form>máme</form>
-<tag lemma="mít" src="orig" selected="1">VB-P---1P-AA---</tag>
+<tag>
+<AM lemma="mít" src="orig">VB-P---1P-AA---</AM>
+<AM lemma="mít_:T" src="manual" selected="1">VB-P---1P-AA---</AM>
+</tag>
 </m>
 <m id="m-mf930708-031-p7s1w15">
 <src.rf>manual</src.rf>
@@ -2203,7 +2225,7 @@
 <form>snad</form>
 <tag>
 <AM lemma="snad" src="orig">Db-------------</AM>
-<AM lemma="snad" src="auto" recommended="1">TT-------------</AM>
+<AM lemma="snad" src="auto" recommended="1" selected="1">TT-------------</AM>
 </tag>
 </m>
 <m id="m-mf930708-031-p7s2w3">
@@ -2220,7 +2242,10 @@
 <LM>w#w-mf930708-031-p7s2w4</LM>
 </w.rf>
 <form>ohrožena</form>
-<tag lemma="ohrozit" src="orig" selected="1">VsQW---XX-AP---</tag>
+<tag>
+<AM lemma="ohrozit" src="orig">VsQW---XX-AP---</AM>
+<AM lemma="ohrozit_:W" src="manual" selected="1">VsQW---XX-AP---</AM>
+</tag>
 </m>
 <m id="m-mf930708-031-p7s2w5">
 <src.rf>manual</src.rf>
@@ -2366,7 +2391,10 @@
 <LM>w#w-mf930708-031-p8s1w5</LM>
 </w.rf>
 <form>máte</form>
-<tag lemma="mít" src="orig" selected="1">VB-P---2P-AA---</tag>
+<tag>
+<AM lemma="mít" src="orig">VB-P---2P-AA---</AM>
+<AM lemma="mít_:T" src="manual" selected="1">VB-P---2P-AA---</AM>
+</tag>
 </m>
 <m id="m-mf930708-031-p8s1w6">
 <src.rf>manual</src.rf>
@@ -2414,7 +2442,10 @@
 <LM>w#w-mf930708-031-p8s1w11</LM>
 </w.rf>
 <form>ČKD</form>
-<tag lemma="ČKD-1_:B_;K_^(Českomoravská_Kolben-Daněk)" src="orig" selected="1">NNNXX-----A---8</tag>
+<tag>
+<AM lemma="ČKD-1_:B_;K_^(Českomoravská_Kolben-Daněk)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="ČKD-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930708-031-p8s1w12">
 <src.rf>manual</src.rf>
@@ -2480,7 +2511,10 @@
 <LM>w#w-mf930708-031-p9s1w6</LM>
 </w.rf>
 <form>nevedeme</form>
-<tag lemma="vést" src="auto" selected="1">VB-P---1P-NA---</tag>
+<tag>
+<AM lemma="vést" src="auto">VB-P---1P-NA---</AM>
+<AM lemma="vést_:T" src="manual" selected="1">VB-P---1P-NA---</AM>
+</tag>
 </m>
 <m id="m-mf930708-031-p9s1w7">
 <src.rf>manual</src.rf>
@@ -2506,7 +2540,10 @@
 <LM>w#w-mf930708-031-p9s2w2</LM>
 </w.rf>
 <form>ČKD</form>
-<tag lemma="ČKD-1_:B_;K_^(Českomoravská_Kolben-Daněk)" src="orig" selected="1">NNNXX-----A---8</tag>
+<tag>
+<AM lemma="ČKD-1_:B_;K_^(Českomoravská_Kolben-Daněk)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="ČKD-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930708-031-p9s2w3">
 <src.rf>manual</src.rf>
@@ -2818,7 +2855,10 @@
 <LM>w#w-mf930708-031-p11s3w1</LM>
 </w.rf>
 <form>Vím</form>
-<tag lemma="vědět" src="orig" selected="1">VB-S---1P-AA---</tag>
+<tag>
+<AM lemma="vědět" src="orig">VB-S---1P-AA---</AM>
+<AM lemma="vědět_:T" src="manual" selected="1">VB-S---1P-AA---</AM>
+</tag>
 </m>
 <m id="m-mf930708-031-p11s3w2">
 <src.rf>manual</src.rf>
@@ -2850,7 +2890,10 @@
 <LM>w#w-mf930708-031-p11s3w5</LM>
 </w.rf>
 <form>mají</form>
-<tag lemma="mít" src="orig" selected="1">VB-P---3P-AA---</tag>
+<tag>
+<AM lemma="mít" src="orig">VB-P---3P-AA---</AM>
+<AM lemma="mít_:T" src="manual" selected="1">VB-P---3P-AA---</AM>
+</tag>
 </m>
 <m id="m-mf930708-031-p11s3w6">
 <src.rf>manual</src.rf>

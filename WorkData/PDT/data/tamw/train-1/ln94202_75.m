@@ -51,7 +51,10 @@
 <LM>w#w-ln94202-75-p1s1w5</LM>
 </w.rf>
 <form>CDU</form>
-<tag lemma="CDU-1_:B_;K_;p_,t_^(Christianisch-Demokratische_Union)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="CDU-1_:B_;K_;p_,t_^(Christianisch-Demokratische_Union)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="CDU-1_:B_;K_^(Christianisch-Demokratische_Union)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 </s>
 <s id="m-ln94202-75-p2s1A">
@@ -143,7 +146,10 @@
 <LM>w#w-ln94202-75-p2s1Bw9</LM>
 </w.rf>
 <form>SDP</form>
-<tag lemma="SDP-1_:B_;K_,t_^(Social_Democratic_Party)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="SDP-1_:B_;K_,t_^(Social_Democratic_Party)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="SDP-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94202-75-p2s1Bw10">
 <src.rf>manual</src.rf>
@@ -215,7 +221,10 @@
 <LM>w#w-ln94202-75-p2s1Bw18</LM>
 </w.rf>
 <form>CDU</form>
-<tag lemma="CDU-1_:B_;K_;p_,t_^(Christianisch-Demokratische_Union)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="CDU-1_:B_;K_;p_,t_^(Christianisch-Demokratische_Union)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="CDU-1_:B_;K_^(Christianisch-Demokratische_Union)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94202-75-p2s1Bw19">
 <src.rf>manual</src.rf>
@@ -267,7 +276,7 @@
 <AM lemma="Dortmund_;G" src="orig">NNIS6-----A----</AM>
 <AM lemma="Dortmund_;G" src="auto">NNIS2-----A----</AM>
 <AM lemma="Dortmund_;G" src="auto">NNIS3-----A----</AM>
-<AM lemma="Dortmund_;G" src="auto" recommended="1">NNIS6-----A---1</AM>
+<AM lemma="Dortmund_;G" src="auto" recommended="1" selected="1">NNIS6-----A---1</AM>
 </tag>
 </m>
 <m id="m-ln94202-75-p2s1Bw25">
@@ -350,7 +359,10 @@
 <LM>w#w-ln94202-75-p2s2w5</LM>
 </w.rf>
 <form>CDU</form>
-<tag lemma="CDU-1_:B_;K_;p_,t_^(Christianisch-Demokratische_Union)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="CDU-1_:B_;K_;p_,t_^(Christianisch-Demokratische_Union)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="CDU-1_:B_;K_^(Christianisch-Demokratische_Union)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94202-75-p2s2w6">
 <src.rf>manual</src.rf>
@@ -465,7 +477,10 @@
 <LM>w#w-ln94202-75-p2s3w10</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-2" src="auto" selected="1">Dg-------2A----</tag>
+<tag>
+<AM lemma="hodně-2" src="auto">Dg-------2A----</AM>
+<AM lemma="hodně-3" src="manual" selected="1">Dg-------2A----</AM>
+</tag>
 </m>
 <m id="m-ln94202-75-p2s3w11">
 <src.rf>manual</src.rf>
@@ -540,7 +555,10 @@
 <LM>w#w-ln94202-75-p2s4w5</LM>
 </w.rf>
 <form>SPD</form>
-<tag lemma="SPD-1_:B_;K_,t_^(Sozial-Demokratische_Partei_v_SRN)" src="auto" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="SPD-1_:B_;K_,t_^(Sozial-Demokratische_Partei_v_SRN)" src="auto">NNFXX-----A---8</AM>
+<AM lemma="SPD-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94202-75-p2s4w6">
 <src.rf>manual</src.rf>
@@ -716,7 +734,10 @@
 <LM>w#w-ln94202-75-p2s4w27</LM>
 </w.rf>
 <form>socialismu</form>
-<tag lemma="socialismus" src="orig" selected="1">NNIS2-----A----</tag>
+<tag>
+<AM lemma="socialismus" src="orig">NNIS2-----A----</AM>
+<AM lemma="socialismus_,s_^(^DD**socializmus)" src="manual" selected="1">NNIS2-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94202-75-p2s4w28">
 <src.rf>manual</src.rf>
@@ -732,7 +753,10 @@
 <LM>w#w-ln94202-75-p2s4w29</LM>
 </w.rf>
 <form>PDS</form>
-<tag lemma="PDS_:B_;K_;p_,t" src="auto" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="PDS_:B_;K_;p_,t" src="auto">NNFXX-----A---8</AM>
+<AM lemma="PDS-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94202-75-p2s4w30">
 <src.rf>manual</src.rf>

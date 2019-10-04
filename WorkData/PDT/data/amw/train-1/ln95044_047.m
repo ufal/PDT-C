@@ -43,7 +43,10 @@
 <LM>w#w-ln95044-047-p1s1w4</LM>
 </w.rf>
 <form>show</form>
-<tag lemma="show" src="orig" selected="1">NNFXX-----A----</tag>
+<tag>
+<AM lemma="show" src="orig">NNFXX-----A----</AM>
+<AM lemma="show" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 </s>
 <s id="m-ln95044-047-p2s1">
@@ -69,7 +72,10 @@
 <LM>w#w-ln95044-047-p2s1w3</LM>
 </w.rf>
 <form>Roxette</form>
-<tag lemma="Roxette_;K" src="auto" selected="1">NNFSX-----A----</tag>
+<tag>
+<AM lemma="Roxette_;K" src="auto">NNFSX-----A----</AM>
+<AM lemma="Roxette_;K" src="manual" selected="1">NNFXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95044-047-p2s1w4">
 <src.rf>manual</src.rf>
@@ -165,7 +171,10 @@
 <LM>w#w-ln95044-047-p2s1w15</LM>
 </w.rf>
 <form>pop</form>
-<tag lemma="pop-3_,t_^(př._ve_spojení_pop_music)" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="pop-3_,t_^(př._ve_spojení_pop_music)" src="orig">AAXXX----1A----</AM>
+<AM lemma="pop-3_^(př._ve_spojení_pop_music)" src="manual" selected="1">AAXXX----1A----</AM>
+</tag>
 </m>
 <m id="m-ln95044-047-p2s1w16">
 <src.rf>manual</src.rf>
@@ -173,7 +182,10 @@
 <LM>w#w-ln95044-047-p2s1w16</LM>
 </w.rf>
 <form>music</form>
-<tag lemma="music_,t_^(př._pop_music)" src="orig" selected="1">NNFXX-----A----</tag>
+<tag>
+<AM lemma="music_,t_^(př._pop_music)" src="orig">NNFXX-----A----</AM>
+<AM lemma="music_^(př._pop_music)" src="manual" selected="1">NNFXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95044-047-p2s1w17">
 <src.rf>manual</src.rf>
@@ -247,7 +259,10 @@
 <LM>w#w-ln95044-047-p2s2w8</LM>
 </w.rf>
 <form>socialismus</form>
-<tag lemma="socialismus" src="orig" selected="1">NNIS4-----A----</tag>
+<tag>
+<AM lemma="socialismus" src="orig">NNIS4-----A----</AM>
+<AM lemma="socialismus_,s_^(^DD**socializmus)" src="manual" selected="1">NNIS4-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95044-047-p2s2w9">
 <src.rf>manual</src.rf>
@@ -449,7 +464,10 @@
 <LM>w#w-ln95044-047-p3s1w2</LM>
 </w.rf>
 <form>Roxette</form>
-<tag lemma="Roxette_;K" src="auto" selected="1">NNFSX-----A----</tag>
+<tag>
+<AM lemma="Roxette_;K" src="auto">NNFSX-----A----</AM>
+<AM lemma="Roxette_;K" src="manual" selected="1">NNFXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95044-047-p3s1w3">
 <src.rf>manual</src.rf>
@@ -481,7 +499,10 @@
 <LM>w#w-ln95044-047-p3s1w6</LM>
 </w.rf>
 <form>stalo</form>
-<tag lemma="stát-2_^(něco_se_přihodilo)" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag>
+<AM lemma="stát-2_^(něco_se_přihodilo)" src="orig">VpNS---XR-AA---</AM>
+<AM lemma="stát-2_^(stanu_staneš)" src="manual" selected="1">VpNS---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-ln95044-047-p3s1w7">
 <src.rf>manual</src.rf>
@@ -577,7 +598,10 @@
 <LM>w#w-ln95044-047-p3s1w18</LM>
 </w.rf>
 <form>hrála</form>
-<tag lemma="hrát" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag>
+<AM lemma="hrát" src="orig">VpQW---XR-AA---</AM>
+<AM lemma="hrát_:T" src="manual" selected="1">VpQW---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-ln95044-047-p3s1w19">
 <src.rf>manual</src.rf>
@@ -605,6 +629,7 @@
 <AM lemma="Wham_;K_,t" src="orig">NNXXX-----A----</AM>
 <AM lemma="Wham_;K" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Wham_;K" src="auto">NNIS4-----A----</AM>
+<AM lemma="Wham_;K" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95044-047-p3s1w22">
@@ -949,7 +974,7 @@
 <form>totiž</form>
 <tag>
 <AM lemma="totiž" src="orig">Db-------------</AM>
-<AM lemma="totiž-1" src="auto" recommended="1">J^-------------</AM>
+<AM lemma="totiž-1" src="auto" recommended="1" selected="1">J^-------------</AM>
 <AM lemma="totiž-2" src="auto">TT-------------</AM>
 </tag>
 </m>
@@ -999,7 +1024,10 @@
 <LM>w#w-ln95044-047-p4s2w9</LM>
 </w.rf>
 <form>pop</form>
-<tag lemma="pop-1_^(círk.)" src="orig" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="pop-1_^(círk.)" src="orig">NNMS1-----A----</AM>
+<AM lemma="pop-3_^(př._ve_spojení_pop_music)" src="manual" selected="1">AAXXX----1A----</AM>
+</tag>
 </m>
 <m id="m-ln95044-047-p4s2w10">
 <src.rf>manual</src.rf>
@@ -1007,7 +1035,10 @@
 <LM>w#w-ln95044-047-p4s2w10</LM>
 </w.rf>
 <form>music</form>
-<tag lemma="music_,t_^(př._pop_music)" src="orig" selected="1">NNFXX-----A----</tag>
+<tag>
+<AM lemma="music_,t_^(př._pop_music)" src="orig">NNFXX-----A----</AM>
+<AM lemma="music_^(př._pop_music)" src="manual" selected="1">NNFXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95044-047-p4s2w11">
 <src.rf>manual</src.rf>
@@ -1015,7 +1046,10 @@
 <LM>w#w-ln95044-047-p4s2w11</LM>
 </w.rf>
 <form>jen</form>
-<tag lemma="jen-1" src="auto" selected="1">TT-------------</tag>
+<tag>
+<AM lemma="jen-1" src="auto">TT-------------</AM>
+<AM lemma="jen-4_^(pouze)" src="manual" selected="1">Db-------------</AM>
+</tag>
 </m>
 <m id="m-ln95044-047-p4s2w12">
 <src.rf>manual</src.rf>

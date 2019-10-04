@@ -909,6 +909,8 @@
 <AM lemma="AG-1_:B_;b_,t_^(označ._něm._akciové_spol.)" src="auto">NNNXX-----A---8</AM>
 <AM lemma="Ag_:B_^(stříbro)" src="auto" recommended="1">NNXXX-----A---8</AM>
 <AM lemma="Aga_;Y" src="auto">NNFP2-----A----</AM>
+<AM lemma="AG-2_:B" src="manual">NNXXX-----A---8</AM>
+<AM lemma="AG-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-ln95043-035-p2s6w11">
@@ -1727,7 +1729,7 @@
 <form>trop</form>
 <tag>
 <AM lemma="trop_;K" src="orig">NNIS1-----A----</AM>
-<AM lemma="trop" src="auto" recommended="1">Db-------------</AM>
+<AM lemma="trop" src="auto" recommended="1" selected="1">Db-------------</AM>
 <AM lemma="tropit_:T" src="auto">Vi-S---2--A----</AM>
 <AM lemma="tropit_:T" src="auto">Vi-S---3--A---4</AM>
 </tag>

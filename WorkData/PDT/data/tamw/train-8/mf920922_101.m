@@ -68,6 +68,7 @@
 <AM lemma="filiálka_:B" src="auto">NNFXX-----A---8</AM>
 <AM lemma="filozofický_:B" src="auto">AAXXX----1A---8</AM>
 <AM lemma="filozofie_:B" src="auto" recommended="1">NNFXX-----A---8</AM>
+<AM lemma="fil-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920922-101-p2s1w4">
@@ -150,7 +151,10 @@
 <LM>w#w-mf920922-101-p2s2w8</LM>
 </w.rf>
 <form>Z</form>
-<tag lemma="z-3_^(označení_pomocí_písmene)" src="orig" selected="1">NNNXX-----A----</tag>
+<tag>
+<AM lemma="z-3_^(označení_pomocí_písmene)" src="orig">NNNXX-----A----</AM>
+<AM lemma="Z-33_^(označení_pomocí_písmene)" src="manual" selected="1">NNNXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920922-101-p2s2w9">
 <src.rf>manual</src.rf>
@@ -231,7 +235,10 @@
 <LM>w#w-mf920922-101-p2s2w18</LM>
 </w.rf>
 <form>Kčs</form>
-<tag lemma="Kčs-1_:B_^(Koruna_čs.)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="Kčs-1_:B_^(Koruna_čs.)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="Kčs-1_:B_^(Koruna_čs.)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920922-101-p2s2w19">
 <src.rf>manual</src.rf>
@@ -305,7 +312,10 @@
 <LM>w#w-mf920922-101-p2s3w8</LM>
 </w.rf>
 <form>SRN</form>
-<tag lemma="SRN_:B_;G" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="SRN_:B_;G" src="orig">NNFXX-----A---8</AM>
+<AM lemma="SRN-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-mf920922-101-p2s3w9">
 <src.rf>manual</src.rf>
@@ -436,7 +446,10 @@
 <LM>w#w-mf920922-101-p2s4w5</LM>
 </w.rf>
 <form>Kčs</form>
-<tag lemma="Kčs-1_:B_^(Koruna_čs.)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="Kčs-1_:B_^(Koruna_čs.)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="Kčs-1_:B_^(Koruna_čs.)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920922-101-p2s4w6">
 <src.rf>manual</src.rf>
@@ -486,7 +499,10 @@
 <LM>w#w-mf920922-101-p2s5w5</LM>
 </w.rf>
 <form>BVV</form>
-<tag lemma="BVV_:B_;K" src="orig" selected="1">NNIPX-----A---8</tag>
+<tag>
+<AM lemma="BVV_:B_;K" src="orig">NNIPX-----A---8</AM>
+<AM lemma="BVV-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-mf920922-101-p2s5w6">
 <src.rf>manual</src.rf>
@@ -822,7 +838,7 @@
 <form>fordy</form>
 <tag>
 <AM lemma="Ford-2_;R_^(vozidlo)" src="orig">NNIP1-----A----</AM>
-<AM lemma="ford_;R" src="auto" recommended="1">NNIP1-----A----</AM>
+<AM lemma="ford_;R" src="auto" recommended="1" selected="1">NNIP1-----A----</AM>
 <AM lemma="ford_;R" src="auto">NNIP4-----A----</AM>
 <AM lemma="ford_;R" src="auto">NNIP5-----A----</AM>
 <AM lemma="ford_;R" src="auto">NNIP7-----A----</AM>
@@ -844,7 +860,7 @@
 <form>mercedesy</form>
 <tag>
 <AM lemma="Mercedes-2_;R_^(vozidlo)" src="orig">NNIP1-----A----</AM>
-<AM lemma="mercedes_;R_^(vozidlo)" src="auto" recommended="1">NNIP1-----A----</AM>
+<AM lemma="mercedes_;R_^(vozidlo)" src="auto" recommended="1" selected="1">NNIP1-----A----</AM>
 <AM lemma="mercedes_;R_^(vozidlo)" src="auto">NNIP4-----A----</AM>
 <AM lemma="mercedes_;R_^(vozidlo)" src="auto">NNIP5-----A----</AM>
 <AM lemma="mercedes_;R_^(vozidlo)" src="auto">NNIP7-----A----</AM>

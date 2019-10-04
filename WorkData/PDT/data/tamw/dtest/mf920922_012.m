@@ -19,7 +19,10 @@
 <LM>w#w-mf920922-012-p1s1w1</LM>
 </w.rf>
 <form>GM</form>
-<tag lemma="GM_:B_;K_;R" src="auto" selected="1">NNFXX-----A----</tag>
+<tag>
+<AM lemma="GM_:B_;K_;R" src="auto">NNFXX-----A----</AM>
+<AM lemma="GM-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-mf920922-012-p1s1w2">
 <src.rf>manual</src.rf>
@@ -77,7 +80,10 @@
 <LM>w#w-mf920922-012-p2s1w4</LM>
 </w.rf>
 <form>General</form>
-<tag lemma="General-1_;K_,t_^(souč._názvů,_např._G._Electric)" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="General-1_;K_,t_^(souč._názvů,_např._G._Electric)" src="orig">AAXXX----1A----</AM>
+<AM lemma="General-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-mf920922-012-p2s1w5">
 <src.rf>manual</src.rf>
@@ -85,7 +91,10 @@
 <LM>w#w-mf920922-012-p2s1w5</LM>
 </w.rf>
 <form>Motors</form>
-<tag lemma="Motors-1_;K_,t_^(souč._názvů,_např._General_M.)" src="orig" selected="1">NNIPX-----A----</tag>
+<tag>
+<AM lemma="Motors-1_;K_,t_^(souč._názvů,_např._General_M.)" src="orig">NNIPX-----A----</AM>
+<AM lemma="Motors-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-mf920922-012-p2s1w6">
 <src.rf>manual</src.rf>
@@ -239,7 +248,10 @@
 <LM>w#w-mf920922-012-p2s2w12</LM>
 </w.rf>
 <form>FSO</form>
-<tag lemma="FSO_:B_;K" src="auto" selected="1">NNNXX-----A----</tag>
+<tag>
+<AM lemma="FSO_:B_;K" src="auto">NNNXX-----A----</AM>
+<AM lemma="FSO-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-mf920922-012-p2s2w13">
 <src.rf>manual</src.rf>
@@ -255,7 +267,10 @@
 <LM>w#w-mf920922-012-p2s2w14</LM>
 </w.rf>
 <form>GM</form>
-<tag lemma="GM_:B_;K_;R" src="auto" selected="1">NNFXX-----A----</tag>
+<tag>
+<AM lemma="GM_:B_;K_;R" src="auto">NNFXX-----A----</AM>
+<AM lemma="GM-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-mf920922-012-p2s2w15">
 <src.rf>manual</src.rf>
@@ -701,7 +716,10 @@
 <LM>w#w-mf920922-012-p2s5w8</LM>
 </w.rf>
 <form>General</form>
-<tag lemma="General-1_;K_,t_^(souč._názvů,_např._G._Electric)" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="General-1_;K_,t_^(souč._názvů,_např._G._Electric)" src="orig">AAXXX----1A----</AM>
+<AM lemma="General-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-mf920922-012-p2s5w9">
 <src.rf>manual</src.rf>
@@ -709,7 +727,10 @@
 <LM>w#w-mf920922-012-p2s5w9</LM>
 </w.rf>
 <form>Motors</form>
-<tag lemma="Motors-1_;K_,t_^(souč._názvů,_např._General_M.)" src="orig" selected="1">NNIPX-----A----</tag>
+<tag>
+<AM lemma="Motors-1_;K_,t_^(souč._názvů,_např._General_M.)" src="orig">NNIPX-----A----</AM>
+<AM lemma="Motors-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-mf920922-012-p2s5w10">
 <src.rf>manual</src.rf>

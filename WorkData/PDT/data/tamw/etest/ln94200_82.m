@@ -77,7 +77,10 @@
 <LM>w#w-ln94200-82-p2s1Aw3</LM>
 </w.rf>
 <form>mrk</form>
-<tag lemma="mrk-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="mrk-99_:B_;S" src="orig">NNXXX-----A---8</AM>
+<AM lemma="mrk-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94200-82-p2s1Aw4">
 <src.rf>manual</src.rf>
@@ -263,7 +266,10 @@
 <LM>w#w-ln94200-82-p2s1Bw21</LM>
 </w.rf>
 <form>KDS</form>
-<tag lemma="KDS_:B_;K_;p_^(Křesťansko-demokratická_strana)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="KDS_:B_;K_;p_^(Křesťansko-demokratická_strana)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="KDS-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln94200-82-p2s1Bw22">
 <src.rf>manual</src.rf>
@@ -353,7 +359,10 @@
 <LM>w#w-ln94200-82-p2s2w5</LM>
 </w.rf>
 <form>LN</form>
-<tag lemma="LN-1_:B_;R_^(Lidové_noviny,_deník)" src="orig" selected="1">NNFPX-----A---8</tag>
+<tag>
+<AM lemma="LN-1_:B_;R_^(Lidové_noviny,_deník)" src="orig">NNFPX-----A---8</AM>
+<AM lemma="LN-1_:B_;K_;R_^(Lidové_noviny)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94200-82-p2s2w6">
 <src.rf>manual</src.rf>
@@ -385,7 +394,10 @@
 <LM>w#w-ln94200-82-p2s2w9</LM>
 </w.rf>
 <form>KDS</form>
-<tag lemma="KDS_:B_;K_;p_^(Křesťansko-demokratická_strana)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="KDS_:B_;K_;p_^(Křesťansko-demokratická_strana)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="KDS-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln94200-82-p2s2w10">
 <src.rf>manual</src.rf>
@@ -491,7 +503,10 @@
 <LM>w#w-ln94200-82-p3s1w10</LM>
 </w.rf>
 <form>KDS</form>
-<tag lemma="KDS_:B_;K_;p_^(Křesťansko-demokratická_strana)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="KDS_:B_;K_;p_^(Křesťansko-demokratická_strana)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="KDS-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln94200-82-p3s1w11">
 <src.rf>manual</src.rf>
@@ -815,7 +830,10 @@
 <LM>w#w-ln94200-82-p3s3w5</LM>
 </w.rf>
 <form>KDS</form>
-<tag lemma="KDS_:B_;K_;p_^(Křesťansko-demokratická_strana)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="KDS_:B_;K_;p_^(Křesťansko-demokratická_strana)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="KDS-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln94200-82-p3s3w6">
 <src.rf>manual</src.rf>
@@ -1057,7 +1075,10 @@
 <LM>w#w-ln94200-82-p3s4w13</LM>
 </w.rf>
 <form>KDS</form>
-<tag lemma="KDS_:B_;K_;p_^(Křesťansko-demokratická_strana)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="KDS_:B_;K_;p_^(Křesťansko-demokratická_strana)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="KDS-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln94200-82-p3s4w14">
 <src.rf>manual</src.rf>
@@ -1145,7 +1166,10 @@
 <LM>w#w-ln94200-82-p3s4w24</LM>
 </w.rf>
 <form>jen</form>
-<tag lemma="jen-1" src="auto" selected="1">TT-------------</tag>
+<tag>
+<AM lemma="jen-1" src="auto">TT-------------</AM>
+<AM lemma="jen-4_^(pouze)" src="manual" selected="1">Db-------------</AM>
+</tag>
 </m>
 <m id="m-ln94200-82-p3s4w25">
 <src.rf>manual</src.rf>
@@ -1309,7 +1333,10 @@
 <LM>w#w-ln94200-82-p4s1w3</LM>
 </w.rf>
 <form>LN</form>
-<tag lemma="LN-1_:B_;R_^(Lidové_noviny,_deník)" src="orig" selected="1">NNFPX-----A---8</tag>
+<tag>
+<AM lemma="LN-1_:B_;R_^(Lidové_noviny,_deník)" src="orig">NNFPX-----A---8</AM>
+<AM lemma="LN-1_:B_;K_;R_^(Lidové_noviny)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94200-82-p4s1w4">
 <src.rf>manual</src.rf>
@@ -1349,7 +1376,10 @@
 <LM>w#w-ln94200-82-p4s1w8</LM>
 </w.rf>
 <form>KDS</form>
-<tag lemma="KDS_:B_;K_;p_^(Křesťansko-demokratická_strana)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="KDS_:B_;K_;p_^(Křesťansko-demokratická_strana)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="KDS-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln94200-82-p4s1w9">
 <src.rf>manual</src.rf>

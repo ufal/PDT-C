@@ -371,7 +371,10 @@
 <LM>w#w-lnd91303-941-p3s2w15</LM>
 </w.rf>
 <form>FIS</form>
-<tag lemma="FIS_:B_;K" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="FIS_:B_;K" src="orig">NNFXX-----A---8</AM>
+<AM lemma="FIS-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd91303-941-p3s2w16">
 <src.rf>manual</src.rf>

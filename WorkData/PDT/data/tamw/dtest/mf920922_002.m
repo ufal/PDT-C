@@ -69,7 +69,10 @@
 <LM>w#w-mf920922-002-p2s1w4</LM>
 </w.rf>
 <form>tnt</form>
-<tag lemma="tnt-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="tnt-99_:B_;S" src="orig">NNXXX-----A---8</AM>
+<AM lemma="tnt-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920922-002-p2s1w5">
 <src.rf>manual</src.rf>
@@ -605,7 +608,10 @@
 <LM>w#w-mf920922-002-p2s5w15</LM>
 </w.rf>
 <form>nedostatek</form>
-<tag lemma="nedostatek" src="orig" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="nedostatek" src="orig">NNIS1-----A----</AM>
+<AM lemma="dostatek" src="manual" selected="1">NNIS1-----N----</AM>
+</tag>
 </m>
 <m id="m-mf920922-002-p2s5w16">
 <src.rf>manual</src.rf>
@@ -695,7 +701,10 @@
 <LM>w#w-mf920922-002-p2s6w10</LM>
 </w.rf>
 <form>řekl</form>
-<tag lemma="říci" src="auto" selected="1">VpYS---XR-AA---</tag>
+<tag>
+<AM lemma="říci" src="auto">VpYS---XR-AA---</AM>
+<AM lemma="říci_:W" src="manual" selected="1">VpYS---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-mf920922-002-p2s6w11">
 <src.rf>manual</src.rf>

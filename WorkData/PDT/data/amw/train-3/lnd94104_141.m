@@ -49,6 +49,7 @@
 <AM lemma="Zea" src="auto">NNFS4-----A----</AM>
 <AM lemma="Zeo_;K" src="auto" recommended="1">NNNS3-----A----</AM>
 <AM lemma="Zeo_;K" src="auto">NNNS6-----A----</AM>
+<AM lemma="ZEU-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94104-141-p1s1w5">
@@ -125,7 +126,10 @@
 <LM>w#w-lnd94104-141-p1s3w6</LM>
 </w.rf>
 <form>ZEU</form>
-<tag lemma="Zea" src="orig" selected="1">NNFS4-----A----</tag>
+<tag>
+<AM lemma="Zea" src="orig">NNFS4-----A----</AM>
+<AM lemma="ZEU-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd94104-141-p1s3w7">
 <src.rf>manual</src.rf>
@@ -157,7 +161,10 @@
 <LM>w#w-lnd94104-141-p1s3w10</LM>
 </w.rf>
 <form>Radě</form>
-<tag lemma="rada-1_^(př._dát_někomu_dobrou_radu)" src="orig" selected="1">NNFS3-----A----</tag>
+<tag>
+<AM lemma="rada-1_^(př._dát_někomu_dobrou_radu)" src="orig">NNFS3-----A----</AM>
+<AM lemma="rada-1_^(př._dát_někomu_dobrou_radu;poradní_sbor)" src="manual" selected="1">NNFS3-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd94104-141-p1s3w11">
 <src.rf>manual</src.rf>
@@ -173,7 +180,10 @@
 <LM>w#w-lnd94104-141-p1s3w12</LM>
 </w.rf>
 <form>ZEU</form>
-<tag lemma="Zea" src="orig" selected="1">NNFS4-----A----</tag>
+<tag>
+<AM lemma="Zea" src="orig">NNFS4-----A----</AM>
+<AM lemma="ZEU-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd94104-141-p1s3w13">
 <src.rf>manual</src.rf>
@@ -295,7 +305,10 @@
 <LM>w#w-lnd94104-141-p1s4w1</LM>
 </w.rf>
 <form>Rada</form>
-<tag lemma="rada-1_^(př._dát_někomu_dobrou_radu)" src="orig" selected="1">NNFS1-----A----</tag>
+<tag>
+<AM lemma="rada-1_^(př._dát_někomu_dobrou_radu)" src="orig">NNFS1-----A----</AM>
+<AM lemma="rada-1_^(př._dát_někomu_dobrou_radu;poradní_sbor)" src="manual" selected="1">NNFS1-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd94104-141-p1s4w2">
 <src.rf>manual</src.rf>
@@ -505,7 +518,10 @@
 <LM>w#w-lnd94104-141-p1s5w1</LM>
 </w.rf>
 <form>ČR</form>
-<tag lemma="ČR-1_:B_;G_^(Česká_republika)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd94104-141-p1s5w2">
 <src.rf>manual</src.rf>
@@ -655,6 +671,7 @@
 <AM lemma="Zea" src="auto">NNFS4-----A----</AM>
 <AM lemma="Zeo_;K" src="auto">NNNS3-----A----</AM>
 <AM lemma="Zeo_;K" src="auto" recommended="1">NNNS6-----A----</AM>
+<AM lemma="ZEU-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94104-141-p1s5w20">
@@ -663,7 +680,10 @@
 <LM>w#w-lnd94104-141-p1s5w20</LM>
 </w.rf>
 <form>jen</form>
-<tag lemma="jen-1" src="auto" selected="1">TT-------------</tag>
+<tag>
+<AM lemma="jen-1" src="auto">TT-------------</AM>
+<AM lemma="jen-4_^(pouze)" src="manual" selected="1">Db-------------</AM>
+</tag>
 </m>
 <m id="m-lnd94104-141-p1s5w21">
 <src.rf>manual</src.rf>
@@ -767,6 +787,7 @@
 <AM lemma="Zea" src="auto">NNFS4-----A----</AM>
 <AM lemma="Zeo_;K" src="auto">NNNS3-----A----</AM>
 <AM lemma="Zeo_;K" src="auto">NNNS6-----A----</AM>
+<AM lemma="ZEU-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94104-141-p1s6w10">

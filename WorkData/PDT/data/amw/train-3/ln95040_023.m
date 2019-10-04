@@ -125,7 +125,10 @@
 <LM>w#w-ln95040-023-p2s1w11</LM>
 </w.rf>
 <form>United</form>
-<tag lemma="United_;K_,t_^(souč._angl._názvu)" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="United_;K_,t_^(souč._angl._názvu)" src="orig">AAXXX----1A----</AM>
+<AM lemma="United-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln95040-023-p2s1w12">
 <src.rf>manual</src.rf>
@@ -149,7 +152,10 @@
 <LM>w#w-ln95040-023-p2s1w14</LM>
 </w.rf>
 <form>Villa</form>
-<tag lemma="Villa-1_;S_^(např._Francisco_Villa,_mexic.revolucionář)" src="orig" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Villa-1_;S_^(např._Francisco_Villa,_mexic.revolucionář)" src="orig">NNMS1-----A----</AM>
+<AM lemma="Villa-3_;G_^(součást_gegraf._názvů_např._Villa_Adriana)" src="manual" selected="1">NNFS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95040-023-p2s1w15">
 <src.rf>manual</src.rf>
@@ -173,7 +179,10 @@
 <LM>w#w-ln95040-023-p2s1w17</LM>
 </w.rf>
 <form>stal</form>
-<tag lemma="stát-2_^(něco_se_přihodilo)" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag>
+<AM lemma="stát-2_^(něco_se_přihodilo)" src="orig">VpYS---XR-AA---</AM>
+<AM lemma="stát-2_^(stanu_staneš)" src="manual" selected="1">VpYS---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-ln95040-023-p2s1w18">
 <src.rf>manual</src.rf>
@@ -232,6 +241,7 @@
 <tag>
 <AM lemma="Coventry_;m_,t" src="orig">AAXXX----1A----</AM>
 <AM lemma="Coventry_;G" src="auto" recommended="1">NNNXX-----A----</AM>
+<AM lemma="Coventry-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-ln95040-023-p2s1w25">
@@ -254,6 +264,7 @@
 <AM lemma="cit" src="auto">NNIP4-----A----</AM>
 <AM lemma="cit" src="auto">NNIP5-----A----</AM>
 <AM lemma="cit" src="auto">NNIP7-----A----</AM>
+<AM lemma="City-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-ln95040-023-p2s1w26">
@@ -272,7 +283,10 @@
 <LM>w#w-ln95040-023-p2s2w1</LM>
 </w.rf>
 <form>Stalo</form>
-<tag lemma="stát-2_^(něco_se_přihodilo)" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag>
+<AM lemma="stát-2_^(něco_se_přihodilo)" src="orig">VpNS---XR-AA---</AM>
+<AM lemma="stát-2_^(stanu_staneš)" src="manual" selected="1">VpNS---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-ln95040-023-p2s2w2">
 <src.rf>manual</src.rf>

@@ -395,7 +395,7 @@
 </w.rf>
 <form>Veveří</form>
 <tag>
-<AM lemma="Veveří_;G" src="orig">NNNS1-----A----</AM>
+<AM lemma="Veveří_;G" src="orig" selected="1">NNNS1-----A----</AM>
 <AM lemma="veveří" src="auto">AAFP1----1A----</AM>
 <AM lemma="veveří" src="auto">AAFP4----1A----</AM>
 <AM lemma="veveří" src="auto">AAFP5----1A----</AM>
@@ -440,7 +440,7 @@
 </w.rf>
 <form>Šumavská</form>
 <tag>
-<AM lemma="Šumavská_;G" src="orig">NNFS1-----A----</AM>
+<AM lemma="Šumavská_;G" src="orig" selected="1">NNFS1-----A----</AM>
 <AM lemma="šumavský" src="auto" recommended="1">AAFS1----1A----</AM>
 <AM lemma="šumavský" src="auto">AAFS5----1A----</AM>
 <AM lemma="šumavský" src="auto">AANP1----1A----</AM>

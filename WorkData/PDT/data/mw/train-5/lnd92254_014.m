@@ -43,7 +43,10 @@
 <LM>w#w-lnd92254-014-p1s1w4</LM>
 </w.rf>
 <form>Akihito</form>
-<tag lemma="Akihito_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Akihito_;S" src="orig">NNMS1-----A----</AM>
+<AM lemma="Akihito_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92254-014-p1s1w5">
 <src.rf>manual</src.rf>
@@ -721,7 +724,10 @@
 <LM>w#w-lnd92254-014-p2s1w10</LM>
 </w.rf>
 <form>DFNS</form>
-<tag lemma="DFNS_:B_;K_^(Demokratická_fronta_národní_spásy)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="DFNS_:B_;K_^(Demokratická_fronta_národní_spásy)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="DFNS-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd92254-014-p2s1w11">
 <src.rf>manual</src.rf>
@@ -833,7 +839,10 @@
 <LM>w#w-lnd92254-014-p2s1w24</LM>
 </w.rf>
 <form>DFNS</form>
-<tag lemma="DFNS_:B_;K_^(Demokratická_fronta_národní_spásy)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="DFNS_:B_;K_^(Demokratická_fronta_národní_spásy)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="DFNS-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd92254-014-p2s1w25">
 <src.rf>manual</src.rf>
@@ -907,7 +916,10 @@
 <LM>w#w-lnd92254-014-p2s2w7</LM>
 </w.rf>
 <form>Iona</form>
-<tag lemma="Iona_;G" src="orig" selected="1">NNFS1-----A----</tag>
+<tag>
+<AM lemma="Iona_;G" src="orig">NNFS1-----A----</AM>
+<AM lemma="Ion_;Y" src="manual" selected="1">NNMS4-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92254-014-p2s2w8">
 <src.rf>manual</src.rf>
@@ -915,7 +927,10 @@
 <LM>w#w-lnd92254-014-p2s2w8</LM>
 </w.rf>
 <form>Ilieska</form>
-<tag lemma="Iliescu_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag>
+<AM lemma="Iliescu_;S" src="orig">NNMS2-----A----</AM>
+<AM lemma="Iliescu_;S" src="manual" selected="1">NNMS4-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92254-014-p2s2w9">
 <src.rf>manual</src.rf>
@@ -1287,7 +1302,10 @@
 <LM>w#w-lnd92254-014-p3s2w3</LM>
 </w.rf>
 <form>Schweriner</form>
-<tag lemma="Schweriner_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Schweriner_;S" src="orig">NNMS1-----A----</AM>
+<AM lemma="Schweriner-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-lnd92254-014-p3s2w4">
 <src.rf>manual</src.rf>
@@ -1295,7 +1313,10 @@
 <LM>w#w-lnd92254-014-p3s2w4</LM>
 </w.rf>
 <form>Volkszeitung</form>
-<tag lemma="Volkszeitung_;R_,t" src="orig" selected="1">NNFPX-----A----</tag>
+<tag>
+<AM lemma="Volkszeitung_;R_,t" src="orig">NNFPX-----A----</AM>
+<AM lemma="Volkszeitung-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-lnd92254-014-p3s2w5">
 <src.rf>manual</src.rf>

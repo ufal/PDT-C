@@ -254,7 +254,7 @@
 </w.rf>
 <form>Jankový</form>
 <tag>
-<AM lemma="Jankový_;S" src="orig">NNMS1-----A----</AM>
+<AM lemma="Jankový_;S" src="orig" selected="1">NNMS1-----A----</AM>
 <AM lemma="Janková_;S" src="auto">NNFP1-----A---6</AM>
 <AM lemma="Janková_;S" src="auto">NNFP4-----A---6</AM>
 <AM lemma="Janková_;S" src="auto">NNFP5-----A---6</AM>
@@ -350,7 +350,10 @@
 <LM>w#w-mf920924-102-p3s1w2</LM>
 </w.rf>
 <form>Kr</form>
-<tag lemma="Králové_:B_;G" src="orig" selected="1">NNFS2-----A---8</tag>
+<tag>
+<AM lemma="Králové_:B_;G" src="orig">NNFS2-----A---8</AM>
+<AM lemma="Kr-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-mf920924-102-p3s1w3">
 <src.rf>manual</src.rf>
@@ -376,7 +379,10 @@
 <LM>w#w-mf920924-102-p6s1w1</LM>
 </w.rf>
 <form>Zetor</form>
-<tag lemma="Zetor_;R" src="auto" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="Zetor_;R" src="auto">NNIS1-----A----</AM>
+<AM lemma="Zetor_;R_;K" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920924-102-p6s1w2">
 <src.rf>manual</src.rf>

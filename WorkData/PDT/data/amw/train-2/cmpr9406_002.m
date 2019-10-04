@@ -135,7 +135,10 @@
 <LM>w#w-cmpr9406-002-p3s1w10</LM>
 </w.rf>
 <form>konkurz</form>
-<tag lemma="konkurs_^(úpadek;;soutěž)" src="auto" selected="1">NNIS4-----A----</tag>
+<tag>
+<AM lemma="konkurs_^(úpadek;;soutěž)" src="auto">NNIS4-----A----</AM>
+<AM lemma="konkurz" src="manual" selected="1">NNIS4-----A----</AM>
+</tag>
 </m>
 </s>
 <s id="m-cmpr9406-002-p4s1">
@@ -259,7 +262,7 @@
 <form>nejen</form>
 <tag>
 <AM lemma="nejen" src="orig">TT-------------</AM>
-<AM lemma="nejen" src="auto" recommended="1">Db-------------</AM>
+<AM lemma="nejen" src="auto" recommended="1" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m-cmpr9406-002-p4s1w16">
@@ -518,7 +521,10 @@
 <LM>w#w-cmpr9406-002-p4s2w11</LM>
 </w.rf>
 <form>ani</form>
-<tag lemma="ani-1" src="auto" selected="1">J^-------------</tag>
+<tag>
+<AM lemma="ani-1" src="auto">J^-------------</AM>
+<AM lemma="ani-2" src="manual" selected="1">TT-------------</AM>
+</tag>
 </m>
 <m id="m-cmpr9406-002-p4s2w12">
 <src.rf>manual</src.rf>
@@ -580,7 +586,7 @@
 <form>totiž</form>
 <tag>
 <AM lemma="totiž" src="orig">Db-------------</AM>
-<AM lemma="totiž-1" src="auto">J^-------------</AM>
+<AM lemma="totiž-1" src="auto" selected="1">J^-------------</AM>
 <AM lemma="totiž-2" src="auto" recommended="1">TT-------------</AM>
 </tag>
 </m>
@@ -630,7 +636,10 @@
 <LM>w#w-cmpr9406-002-p8s1w9</LM>
 </w.rf>
 <form>ČR</form>
-<tag lemma="ČR-1_:B_;G_^(Česká_republika)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-cmpr9406-002-p8s1w10">
 <src.rf>manual</src.rf>
@@ -1092,7 +1101,10 @@
 <LM>w#w-cmpr9406-002-p8s4w3</LM>
 </w.rf>
 <form>zjednodušením</form>
-<tag lemma="zjednodušení_,s_^(*2t)" src="auto" selected="1">NNNS7-----A----</tag>
+<tag>
+<AM lemma="zjednodušení_,s_^(*2t)" src="auto">NNNS7-----A----</AM>
+<AM lemma="zjednodušení_^(*2t)" src="manual" selected="1">NNNS7-----A----</AM>
+</tag>
 </m>
 <m id="m-cmpr9406-002-p8s4w4">
 <src.rf>manual</src.rf>
@@ -1132,7 +1144,10 @@
 <LM>w#w-cmpr9406-002-p8s4w8</LM>
 </w.rf>
 <form>víc</form>
-<tag lemma="hodně-2" src="auto" selected="1">Dg-------2A---1</tag>
+<tag>
+<AM lemma="hodně-2" src="auto">Dg-------2A---1</AM>
+<AM lemma="více_^(více_+_2._p.,_více_peněz)" src="manual" selected="1">Ca--1---------1</AM>
+</tag>
 </m>
 <m id="m-cmpr9406-002-p8s4w9">
 <src.rf>manual</src.rf>
@@ -1564,7 +1579,10 @@
 <LM>w#w-cmpr9406-002-p10s1w17</LM>
 </w.rf>
 <form>konkurzní</form>
-<tag lemma="konkursní_^(týkající_se_úpadku,_soutěže)" src="auto" selected="1">AAFS4----1A----</tag>
+<tag>
+<AM lemma="konkursní_^(týkající_se_úpadku,_soutěže)" src="auto">AAFS4----1A----</AM>
+<AM lemma="konkurzní" src="manual" selected="1">AAFS4----1A----</AM>
+</tag>
 </m>
 <m id="m-cmpr9406-002-p10s1w18">
 <src.rf>manual</src.rf>
@@ -1588,7 +1606,10 @@
 <LM>w#w-cmpr9406-002-p10s1w20</LM>
 </w.rf>
 <form>prostřednictvím</form>
-<tag lemma="prostřednictví" src="orig" selected="1">NNNS7-----A----</tag>
+<tag>
+<AM lemma="prostřednictví" src="orig">NNNS7-----A----</AM>
+<AM lemma="prostřednictvím" src="manual" selected="1">RR--2----------</AM>
+</tag>
 </m>
 <m id="m-cmpr9406-002-p10s1w21">
 <src.rf>manual</src.rf>
@@ -1638,7 +1659,10 @@
 <LM>w#w-cmpr9406-002-p10s2w4</LM>
 </w.rf>
 <form>ČR</form>
-<tag lemma="ČR-1_:B_;G_^(Česká_republika)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-cmpr9406-002-p10s2w5">
 <src.rf>manual</src.rf>
@@ -1750,7 +1774,10 @@
 <LM>w#w-cmpr9406-002-p10s2w18</LM>
 </w.rf>
 <form>konkurz</form>
-<tag lemma="konkurs_^(úpadek;;soutěž)" src="auto" selected="1">NNIS4-----A----</tag>
+<tag>
+<AM lemma="konkurs_^(úpadek;;soutěž)" src="auto">NNIS4-----A----</AM>
+<AM lemma="konkurz" src="manual" selected="1">NNIS4-----A----</AM>
+</tag>
 </m>
 <m id="m-cmpr9406-002-p10s2w19">
 <src.rf>manual</src.rf>
@@ -2042,7 +2069,10 @@
 <LM>w#w-cmpr9406-002-p10s4w25</LM>
 </w.rf>
 <form>konkurz</form>
-<tag lemma="konkurs_^(úpadek;;soutěž)" src="auto" selected="1">NNIS4-----A----</tag>
+<tag>
+<AM lemma="konkurs_^(úpadek;;soutěž)" src="auto">NNIS4-----A----</AM>
+<AM lemma="konkurz" src="manual" selected="1">NNIS4-----A----</AM>
+</tag>
 </m>
 <m id="m-cmpr9406-002-p10s4w26">
 <src.rf>manual</src.rf>
@@ -2068,7 +2098,10 @@
 <LM>w#w-cmpr9406-002-p11s1w2</LM>
 </w.rf>
 <form>jen</form>
-<tag lemma="jen-1" src="auto" selected="1">TT-------------</tag>
+<tag>
+<AM lemma="jen-1" src="auto">TT-------------</AM>
+<AM lemma="jen-4_^(pouze)" src="manual" selected="1">Db-------------</AM>
+</tag>
 </m>
 <m id="m-cmpr9406-002-p11s1w3">
 <src.rf>manual</src.rf>
@@ -2343,7 +2376,10 @@
 <LM>w#w-cmpr9406-002-p12s1w4</LM>
 </w.rf>
 <form>MF</form>
-<tag lemma="MF-2_:B_;K_;b_;p_^(min._financí)" src="orig" selected="1">NNNXX-----A---8</tag>
+<tag>
+<AM lemma="MF-2_:B_;K_;b_;p_^(min._financí)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="MF-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 </s>
 <s id="m-cmpr9406-002-p13s1">
@@ -2553,7 +2589,10 @@
 <LM>w#w-cmpr9406-002-p13s1w26</LM>
 </w.rf>
 <form>konkurz</form>
-<tag lemma="konkurs_^(úpadek;;soutěž)" src="auto" selected="1">NNIS4-----A----</tag>
+<tag>
+<AM lemma="konkurs_^(úpadek;;soutěž)" src="auto">NNIS4-----A----</AM>
+<AM lemma="konkurz" src="manual" selected="1">NNIS4-----A----</AM>
+</tag>
 </m>
 <m id="m-cmpr9406-002-p13s1w27">
 <src.rf>manual</src.rf>
@@ -2765,7 +2804,10 @@
 <LM>w#w-cmpr9406-002-p14s2w10</LM>
 </w.rf>
 <form>ČR</form>
-<tag lemma="ČR-1_:B_;G_^(Česká_republika)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-cmpr9406-002-p14s2w11">
 <src.rf>manual</src.rf>
@@ -3075,7 +3117,7 @@
 <form>totiž</form>
 <tag>
 <AM lemma="totiž" src="orig">Db-------------</AM>
-<AM lemma="totiž-1" src="auto" recommended="1">J^-------------</AM>
+<AM lemma="totiž-1" src="auto" recommended="1" selected="1">J^-------------</AM>
 <AM lemma="totiž-2" src="auto">TT-------------</AM>
 </tag>
 </m>
@@ -3223,7 +3265,10 @@
 <LM>w#w-cmpr9406-002-p15s3w5</LM>
 </w.rf>
 <form>konkurzů</form>
-<tag lemma="konkurs_^(úpadek;;soutěž)" src="auto" selected="1">NNIP2-----A----</tag>
+<tag>
+<AM lemma="konkurs_^(úpadek;;soutěž)" src="auto">NNIP2-----A----</AM>
+<AM lemma="konkurz" src="manual" selected="1">NNIP2-----A----</AM>
+</tag>
 </m>
 <m id="m-cmpr9406-002-p15s3w6">
 <src.rf>manual</src.rf>
@@ -3378,7 +3423,10 @@
 <LM>w#w-cmpr9406-002-p15s4w14</LM>
 </w.rf>
 <form>začne</form>
-<tag lemma="začít-1_^(začnout)" src="auto" selected="1">VB-S---3P-AA---</tag>
+<tag>
+<AM lemma="začít-1_^(začnout)" src="auto">VB-S---3P-AA---</AM>
+<AM lemma="začít-1_:W_^(začnout)" src="manual" selected="1">VB-S---3P-AA---</AM>
+</tag>
 </m>
 <m id="m-cmpr9406-002-p15s4w15">
 <src.rf>manual</src.rf>
@@ -4038,7 +4086,7 @@
 <form>nikoliv</form>
 <tag>
 <AM lemma="nikoliv" src="orig">Db-------------</AM>
-<AM lemma="nikoli" src="auto" recommended="1">TT------------1</AM>
+<AM lemma="nikoli" src="auto" recommended="1" selected="1">TT------------1</AM>
 </tag>
 </m>
 <m id="m-cmpr9406-002-p18s1Aw8">
@@ -4065,7 +4113,7 @@
 <form>totiž</form>
 <tag>
 <AM lemma="totiž" src="orig">Db-------------</AM>
-<AM lemma="totiž-1" src="auto" recommended="1">J^-------------</AM>
+<AM lemma="totiž-1" src="auto" recommended="1" selected="1">J^-------------</AM>
 <AM lemma="totiž-2" src="auto">TT-------------</AM>
 </tag>
 </m>
@@ -4389,7 +4437,10 @@
 <LM>w#w-cmpr9406-002-p18s1Bw24</LM>
 </w.rf>
 <form>konkursu</form>
-<tag lemma="konkurs_^(úpadek;;soutěž)" src="auto" selected="1">NNIS2-----A----</tag>
+<tag>
+<AM lemma="konkurs_^(úpadek;;soutěž)" src="auto">NNIS2-----A----</AM>
+<AM lemma="konkurs_,s_^(^DD**konkurz)" src="manual" selected="1">NNIS2-----A----</AM>
+</tag>
 </m>
 <m id="m-cmpr9406-002-p18s1Bw25">
 <src.rf>manual</src.rf>
@@ -4631,7 +4682,10 @@
 <LM>w#w-cmpr9406-002-p19s1w29</LM>
 </w.rf>
 <form>konkurzu</form>
-<tag lemma="konkurs_^(úpadek;;soutěž)" src="auto" selected="1">NNIS2-----A----</tag>
+<tag>
+<AM lemma="konkurs_^(úpadek;;soutěž)" src="auto">NNIS2-----A----</AM>
+<AM lemma="konkurz" src="manual" selected="1">NNIS6-----A----</AM>
+</tag>
 </m>
 <m id="m-cmpr9406-002-p19s1w30">
 <src.rf>manual</src.rf>
@@ -4647,7 +4701,10 @@
 <LM>w#w-cmpr9406-002-p19s1w31</LM>
 </w.rf>
 <form>jen</form>
-<tag lemma="jen-1" src="auto" selected="1">TT-------------</tag>
+<tag>
+<AM lemma="jen-1" src="auto">TT-------------</AM>
+<AM lemma="jen-4_^(pouze)" src="manual" selected="1">Db-------------</AM>
+</tag>
 </m>
 <m id="m-cmpr9406-002-p19s1w32">
 <src.rf>manual</src.rf>
@@ -4735,7 +4792,10 @@
 <LM>w#w-cmpr9406-002-p19s1w42</LM>
 </w.rf>
 <form>konkurzu</form>
-<tag lemma="konkurs_^(úpadek;;soutěž)" src="auto" selected="1">NNIS6-----A---1</tag>
+<tag>
+<AM lemma="konkurs_^(úpadek;;soutěž)" src="auto">NNIS6-----A---1</AM>
+<AM lemma="konkurz" src="manual" selected="1">NNIS6-----A----</AM>
+</tag>
 </m>
 <m id="m-cmpr9406-002-p19s1w43">
 <src.rf>manual</src.rf>
@@ -4841,7 +4901,10 @@
 <LM>w#w-cmpr9406-002-p21s1w3</LM>
 </w.rf>
 <form>li</form>
-<tag lemma="li-1" src="auto" selected="1">TT-------------</tag>
+<tag>
+<AM lemma="li-1" src="auto">TT-------------</AM>
+<AM lemma="li-2" src="manual" selected="1">J,-------------</AM>
+</tag>
 </m>
 <m id="m-cmpr9406-002-p21s1w4">
 <src.rf>manual</src.rf>
@@ -5011,7 +5074,10 @@
 <LM>w#w-cmpr9406-002-p21s2w3</LM>
 </w.rf>
 <form>sice</form>
-<tag lemma="sice-2" src="auto" selected="1">Db-------------</tag>
+<tag>
+<AM lemma="sice-2" src="auto">Db-------------</AM>
+<AM lemma="sice-1_^(spojka;_připouští_se_určitá_fakta)" src="manual" selected="1">J^-------------</AM>
+</tag>
 </m>
 <m id="m-cmpr9406-002-p21s2w4">
 <src.rf>manual</src.rf>

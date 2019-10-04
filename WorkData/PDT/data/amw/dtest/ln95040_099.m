@@ -35,7 +35,10 @@
 <LM>w#w-ln95040-099-p1s1w3</LM>
 </w.rf>
 <form>stavět</form>
-<tag lemma="stavět" src="auto" selected="1">Vf--------A----</tag>
+<tag>
+<AM lemma="stavět" src="auto">Vf--------A----</AM>
+<AM lemma="stavět_:T" src="manual" selected="1">Vf--------A----</AM>
+</tag>
 </m>
 <m id="m-ln95040-099-p1s1w4">
 <src.rf>manual</src.rf>
@@ -612,9 +615,10 @@
 </w.rf>
 <form>Udo</form>
 <tag>
-<AM lemma="Udo_;Y" src="orig">NNMXX-----A----</AM>
+<AM lemma="Udo_;Y" src="orig" selected="1">NNMXX-----A----</AM>
 <AM lemma="Udo_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Udo_;Y" src="auto">NNMS5-----A----</AM>
+<AM lemma="Udo_;Y" src="manual">NNMSX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95040-099-p3s4w8">
@@ -833,7 +837,10 @@
 <LM>w#w-ln95040-099-p3s5w18</LM>
 </w.rf>
 <form>Uher</form>
-<tag lemma="uher" src="orig" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="uher" src="orig">NNIS1-----A----</AM>
+<AM lemma="Uher-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln95040-099-p3s5w19">
 <src.rf>manual</src.rf>
@@ -841,7 +848,10 @@
 <LM>w#w-ln95040-099-p3s5w19</LM>
 </w.rf>
 <form>AG</form>
-<tag lemma="AG-1_:B_;b_,t_^(označ._něm._akciové_spol.)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="AG-1_:B_;b_,t_^(označ._něm._akciové_spol.)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="AG-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln95040-099-p3s5w20">
 <src.rf>manual</src.rf>
@@ -1193,7 +1203,7 @@
 <form>začít</form>
 <tag>
 <AM lemma="začít-1" src="orig">Vf--------A----</AM>
-<AM lemma="začít-1_^(začnout)" src="auto" recommended="1">Vf--------A----</AM>
+<AM lemma="začít-1_^(začnout)" src="auto" recommended="1" selected="1">Vf--------A----</AM>
 <AM lemma="začít-2_^(pocítit)" src="auto">Vf--------A----</AM>
 </tag>
 </m>

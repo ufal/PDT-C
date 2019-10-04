@@ -240,7 +240,10 @@
 <LM>w#w-ln94203-15-p2s1Bw19</LM>
 </w.rf>
 <form>SPT</form>
-<tag lemma="SPT-1_:B_;K_;b_;c_^(v_býv._názvu_SPT_Telecom)" src="auto" selected="1">NNNXX-----A---8</tag>
+<tag>
+<AM lemma="SPT-1_:B_;K_;b_;c_^(v_býv._názvu_SPT_Telecom)" src="auto">NNNXX-----A---8</AM>
+<AM lemma="SPT-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln94203-15-p2s1Bw20">
 <src.rf>manual</src.rf>
@@ -280,7 +283,10 @@
 <LM>w#w-ln94203-15-p2s1Bw24</LM>
 </w.rf>
 <form>AG</form>
-<tag lemma="AG-1_:B_;b_,t_^(označ._něm._akciové_spol.)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="AG-1_:B_;b_,t_^(označ._něm._akciové_spol.)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="AG-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln94203-15-p2s1Bw25">
 <src.rf>manual</src.rf>
@@ -354,7 +360,10 @@
 <LM>w#w-ln94203-15-p2s2w7</LM>
 </w.rf>
 <form>DON</form>
-<tag lemma="don" src="orig" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="don" src="orig">NNMS1-----A----</AM>
+<AM lemma="DON-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln94203-15-p2s2w8">
 <src.rf>manual</src.rf>
@@ -468,7 +477,10 @@
 <LM>w#w-ln94203-15-p2s3w7</LM>
 </w.rf>
 <form>DON</form>
-<tag lemma="don" src="orig" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="don" src="orig">NNMS1-----A----</AM>
+<AM lemma="DON-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln94203-15-p2s3w8">
 <src.rf>manual</src.rf>
@@ -702,7 +714,10 @@
 <LM>w#w-ln94203-15-p3s1w19</LM>
 </w.rf>
 <form>HOST</form>
-<tag lemma="host" src="orig" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="host" src="orig">NNMS1-----A----</AM>
+<AM lemma="HOST-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln94203-15-p3s1w20">
 <src.rf>manual</src.rf>
@@ -758,7 +773,10 @@
 <LM>w#w-ln94203-15-p3s1w26</LM>
 </w.rf>
 <form>RSU</form>
-<tag lemma="RSU_:B" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="RSU_:B" src="orig">NNXXX-----A---8</AM>
+<AM lemma="RSU-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln94203-15-p3s1w27">
 <src.rf>manual</src.rf>

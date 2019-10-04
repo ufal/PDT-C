@@ -563,7 +563,10 @@
 <LM>w#w-ln95046-047-p2s3w10</LM>
 </w.rf>
 <form>Revolver</form>
-<tag lemma="revolver" src="orig" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="revolver" src="orig" selected="1">NNIS1-----A----</AM>
+<AM lemma="Revolver-77" src="manual">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln95046-047-p2s3w11">
 <src.rf>manual</src.rf>
@@ -579,6 +582,7 @@
 <AM lemma="revue" src="auto" recommended="1">NNFS1-----A----</AM>
 <AM lemma="revue" src="auto">NNFS2-----A----</AM>
 <AM lemma="revue" src="auto">NNFS5-----A----</AM>
+<AM lemma="revue" src="manual" selected="1">NNFS7-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95046-047-p2s3w12">
@@ -2061,7 +2065,7 @@
 <form>Snad</form>
 <tag>
 <AM lemma="snad" src="orig">Db-------------</AM>
-<AM lemma="snad" src="auto" recommended="1">TT-------------</AM>
+<AM lemma="snad" src="auto" recommended="1" selected="1">TT-------------</AM>
 </tag>
 </m>
 <m id="m-ln95046-047-p4s2w2">

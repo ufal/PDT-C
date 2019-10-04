@@ -39,7 +39,7 @@
 <form>Kladruby</form>
 <tag>
 <AM lemma="Kladruby_;G" src="orig">NNFP1-----A----</AM>
-<AM lemma="Kladruby_;G" src="auto" recommended="1">NNIP1-----A----</AM>
+<AM lemma="Kladruby_;G" src="auto" recommended="1" selected="1">NNIP1-----A----</AM>
 <AM lemma="Kladruby_;G" src="auto">NNIP4-----A----</AM>
 <AM lemma="Kladruby_;G" src="auto">NNIP5-----A----</AM>
 <AM lemma="Kladruby_;G" src="auto">NNIP7-----A----</AM>
@@ -59,7 +59,10 @@
 <LM>w#w-ln94204-67-p2s1Aw3</LM>
 </w.rf>
 <form>vet</form>
-<tag lemma="vet-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="vet-99_:B_;S" src="orig">NNXXX-----A---8</AM>
+<AM lemma="vet-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94204-67-p2s1Aw4">
 <src.rf>manual</src.rf>
@@ -128,6 +131,7 @@
 <tag>
 <AM lemma="naleznout" src="orig">VsYS---XX-AP---</AM>
 <AM lemma="nalézt-2" src="auto" recommended="1">VsYS---XX-AP---</AM>
+<AM lemma="nalézt-2_:W" src="manual" selected="1">VsYS---XX-AP---</AM>
 </tag>
 </m>
 <m id="m-ln94204-67-p2s1Bw7">
@@ -252,7 +256,10 @@
 <LM>w#w-ln94204-67-p2s3w2</LM>
 </w.rf>
 <form>prokázali</form>
-<tag lemma="prokázat" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag>
+<AM lemma="prokázat" src="orig">VpMP---XR-AA---</AM>
+<AM lemma="prokázat_:W" src="manual" selected="1">VpMP---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-ln94204-67-p2s3w3">
 <src.rf>manual</src.rf>

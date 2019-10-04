@@ -115,6 +115,7 @@
 <AM lemma="Siouxsie_;K" src="auto">NNFS1-----A----</AM>
 <AM lemma="Siouxsie_;K" src="auto" recommended="1">NNFS2-----A----</AM>
 <AM lemma="Siouxsie_;K" src="auto">NNFS5-----A----</AM>
+<AM lemma="Siouxsie-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-ln95047-057-p1s1w13">
@@ -123,7 +124,10 @@
 <LM>w#w-ln95047-057-p1s1w13</LM>
 </w.rf>
 <form>And</form>
-<tag lemma="and-1_,t_^(obv._souč._anglických_názvů,_&quot;a&quot;)" src="auto" selected="1">J^-------------</tag>
+<tag>
+<AM lemma="and-1_,t_^(obv._souč._anglických_názvů,_&quot;a&quot;)" src="auto">J^-------------</AM>
+<AM lemma="And-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln95047-057-p1s1w14">
 <src.rf>manual</src.rf>
@@ -131,7 +135,11 @@
 <LM>w#w-ln95047-057-p1s1w14</LM>
 </w.rf>
 <form>The</form>
-<tag lemma="the-1_,t_^(obv._souč._anglických_názvů,_urč._člen)" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="the-1_,t_^(obv._souč._anglických_názvů,_urč._člen)" src="orig">AAXXX----1A----</AM>
+<AM lemma="the-1_,t_^(angl._urč._člen)" src="manual">AAXXX----1A----</AM>
+<AM lemma="The-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln95047-057-p1s1w15">
 <src.rf>manual</src.rf>
@@ -139,7 +147,11 @@
 <LM>w#w-ln95047-057-p1s1w15</LM>
 </w.rf>
 <form>Banshees</form>
-<tag lemma="Banshee_;K_,t" src="orig" selected="1">NNFPX-----A----</tag>
+<tag>
+<AM lemma="Banshee_;K_,t" src="orig">NNFPX-----A----</AM>
+<AM lemma="banshees_,t" src="manual">NNXXX-----A----</AM>
+<AM lemma="Banshees-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 </s>
 </mdata>

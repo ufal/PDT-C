@@ -103,7 +103,11 @@
 <LM>w#w-mf930709-103-p3s1w1</LM>
 </w.rf>
 <form>str</form>
-<tag lemma="strana-4_:B" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="strana-4_:B" src="orig">NNFXX-----A---8</AM>
+<AM lemma="strana" src="manual">NNFXX-----A---9</AM>
+<AM lemma="strana" src="manual" selected="1">NNFXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-mf930709-103-p3s1w2">
 <src.rf>manual</src.rf>
@@ -171,7 +175,10 @@
 <LM>w#w-mf930709-103-p5s1w1</LM>
 </w.rf>
 <form>str</form>
-<tag lemma="strana-4_:B" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="strana-4_:B" src="orig">NNFXX-----A---8</AM>
+<AM lemma="strana" src="manual" selected="1">NNFXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-mf930709-103-p5s1w2">
 <src.rf>manual</src.rf>
@@ -256,7 +263,7 @@
 </w.rf>
 <form>Nemeckém</form>
 <tag>
-<AM lemma="Nemecké_;G" src="orig">NNNS6-----A----</AM>
+<AM lemma="Nemecké_;G" src="orig" selected="1">NNNS6-----A----</AM>
 <AM lemma="mecký" src="auto">AAIS6----1N----</AM>
 <AM lemma="mecký" src="auto">AAMS6----1N----</AM>
 <AM lemma="mecký" src="auto" recommended="1">AANS6----1N----</AM>
@@ -278,7 +285,10 @@
 <LM>w#w-mf930709-103-p8s1w1</LM>
 </w.rf>
 <form>str</form>
-<tag lemma="strana-4_:B" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="strana-4_:B" src="orig">NNFXX-----A---8</AM>
+<AM lemma="strana" src="manual" selected="1">NNFXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-mf930709-103-p8s1w2">
 <src.rf>manual</src.rf>
@@ -338,7 +348,11 @@
 <LM>w#w-mf930709-103-p10s1w3</LM>
 </w.rf>
 <form>MS</form>
-<tag lemma="MS-3_:B_;w_^(mistrovství_světa)" src="orig" selected="1">NNNXX-----A---8</tag>
+<tag>
+<AM lemma="MS-3_:B_;w_^(mistrovství_světa)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="MS-3_:B_;K_^(mistrovství_světa)" src="manual">NNXXX-----A----</AM>
+<AM lemma="MS-3_:B_^(mistrovství_světa)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930709-103-p10s1w4">
 <src.rf>manual</src.rf>
@@ -405,7 +419,10 @@
 <LM>w#w-mf930709-103-p11s1w1</LM>
 </w.rf>
 <form>str</form>
-<tag lemma="strana-4_:B" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="strana-4_:B" src="orig">NNFXX-----A---8</AM>
+<AM lemma="strana" src="manual" selected="1">NNFXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-mf930709-103-p11s1w2">
 <src.rf>manual</src.rf>

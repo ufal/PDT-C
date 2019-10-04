@@ -558,7 +558,11 @@
 <LM>w#w-mf930713-117-p2s4w3</LM>
 </w.rf>
 <form>neschopnost</form>
-<tag lemma="neschopnost_;U_;j_^(odb._termín:_pracovní_n.)" src="auto" selected="1">NNFS1-----A----</tag>
+<tag>
+<AM lemma="neschopnost_;U_;j_^(odb._termín:_pracovní_n.)" src="auto">NNFS1-----A----</AM>
+<AM lemma="	schopnost_^(*3ý)" src="manual">NNFS1-----A----</AM>
+<AM lemma="schopnost_^(*3ý)" src="manual" selected="1">NNFS1-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930713-117-p2s4w4">
 <src.rf>manual</src.rf>
@@ -582,7 +586,10 @@
 <LM>w#w-mf930713-117-p2s4w6</LM>
 </w.rf>
 <form>ČR</form>
-<tag lemma="ČR-1_:B_;G_^(Česká_republika)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930713-117-p2s4w7">
 <src.rf>manual</src.rf>
@@ -655,7 +662,10 @@
 <LM>w#w-mf930713-117-p2s4w15</LM>
 </w.rf>
 <form>SR</form>
-<tag lemma="SR-1_:B_;G_^(Slovenská_republika)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="SR-1_:B_;G_^(Slovenská_republika)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="SR-1_:B_;G_^(Slovenská_republika)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930713-117-p2s4w16">
 <src.rf>manual</src.rf>
@@ -793,7 +803,11 @@
 <LM>w#w-mf930713-117-p3s1w12</LM>
 </w.rf>
 <form>neschopnosti</form>
-<tag lemma="neschopnost_;U_;j_^(odb._termín:_pracovní_n.)" src="auto" selected="1">NNFS2-----A----</tag>
+<tag>
+<AM lemma="neschopnost_;U_;j_^(odb._termín:_pracovní_n.)" src="auto">NNFS2-----A----</AM>
+<AM lemma="	schopnost_^(*3ý)" src="manual">NNFS2-----A----</AM>
+<AM lemma="schopnost_^(*3ý)" src="manual" selected="1">NNFS2-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930713-117-p3s1w13">
 <src.rf>manual</src.rf>
@@ -889,7 +903,10 @@
 <LM>w#w-mf930713-117-p3s1w24</LM>
 </w.rf>
 <form>řekl</form>
-<tag lemma="říci" src="auto" selected="1">VpYS---XR-AA---</tag>
+<tag>
+<AM lemma="říci" src="auto">VpYS---XR-AA---</AM>
+<AM lemma="říci_:W" src="manual" selected="1">VpYS---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-mf930713-117-p3s1w25">
 <src.rf>manual</src.rf>
@@ -979,7 +996,11 @@
 <LM>w#w-mf930713-117-p3s2w8</LM>
 </w.rf>
 <form>neschopnosti</form>
-<tag lemma="neschopnost_;U_;j_^(odb._termín:_pracovní_n.)" src="auto" selected="1">NNFS2-----A----</tag>
+<tag>
+<AM lemma="neschopnost_;U_;j_^(odb._termín:_pracovní_n.)" src="auto">NNFS2-----A----</AM>
+<AM lemma="	schopnost_^(*3ý)" src="manual">NNFS2-----A----</AM>
+<AM lemma="schopnost_^(*3ý)" src="manual" selected="1">NNFS2-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930713-117-p3s2w9">
 <src.rf>manual</src.rf>
@@ -1191,7 +1212,10 @@
 <LM>w#w-mf930713-117-p3s3w2</LM>
 </w.rf>
 <form>SR</form>
-<tag lemma="SR-1_:B_;G_^(Slovenská_republika)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="SR-1_:B_;G_^(Slovenská_republika)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="SR-1_:B_;G_^(Slovenská_republika)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930713-117-p3s3w3">
 <src.rf>manual</src.rf>
@@ -1250,7 +1274,10 @@
 <LM>w#w-mf930713-117-p4s1w2</LM>
 </w.rf>
 <form>ČR</form>
-<tag lemma="ČR-1_:B_;G_^(Česká_republika)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930713-117-p4s1w3">
 <src.rf>manual</src.rf>
@@ -1630,7 +1657,10 @@
 <LM>w#w-mf930713-117-p4s3w19</LM>
 </w.rf>
 <form>milionů</form>
-<tag lemma="milión`1000000" src="orig" selected="1">NNIP2-----A----</tag>
+<tag>
+<AM lemma="milión`1000000" src="orig">NNIP2-----A----</AM>
+<AM lemma="milion`1000000_,s_^(^DD**milión)" src="manual" selected="1">NNIP2-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930713-117-p4s3w20">
 <src.rf>manual</src.rf>

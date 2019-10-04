@@ -170,6 +170,7 @@
 <tag>
 <AM lemma="BB_:B_;K" src="orig">NNFXX-----A---8</AM>
 <AM lemma="BB_:B" src="auto" recommended="1">NNXXX-----A---8</AM>
+<AM lemma="BB-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-lnd94105-006-p1s3w10">
@@ -234,7 +235,10 @@
 <LM>w#w-lnd94105-006-p1s3w17</LM>
 </w.rf>
 <form>ČSOB</form>
-<tag lemma="ČSOB_:B_;K_;b" src="auto" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ČSOB_:B_;K_;b" src="auto">NNFXX-----A---8</AM>
+<AM lemma="ČSOB-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd94105-006-p1s3w18">
 <src.rf>manual</src.rf>
@@ -316,7 +320,10 @@
 <LM>w#w-lnd94105-006-p1s4w6</LM>
 </w.rf>
 <form>ČSOB</form>
-<tag lemma="ČSOB_:B_;K_;b" src="auto" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ČSOB_:B_;K_;b" src="auto">NNFXX-----A---8</AM>
+<AM lemma="ČSOB-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd94105-006-p1s4w7">
 <src.rf>manual</src.rf>
@@ -358,7 +365,10 @@
 <LM>w#w-lnd94105-006-p1s5w2</LM>
 </w.rf>
 <form>ČSOB</form>
-<tag lemma="ČSOB_:B_;K_;b" src="auto" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ČSOB_:B_;K_;b" src="auto">NNFXX-----A---8</AM>
+<AM lemma="ČSOB-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd94105-006-p1s5w3">
 <src.rf>manual</src.rf>
@@ -587,6 +597,7 @@
 <tag>
 <AM lemma="BB_:B_;K" src="orig">NNFXX-----A---8</AM>
 <AM lemma="BB_:B" src="auto" recommended="1">NNXXX-----A---8</AM>
+<AM lemma="BB-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-lnd94105-006-p1s6w7">

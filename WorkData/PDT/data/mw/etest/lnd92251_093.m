@@ -30,7 +30,7 @@
 <form>extrémisté</form>
 <tag>
 <AM lemma="extremista" src="orig">NNMP1-----A----</AM>
-<AM lemma="extrémista" src="auto" recommended="1">NNMP1-----A----</AM>
+<AM lemma="extrémista" src="auto" recommended="1" selected="1">NNMP1-----A----</AM>
 <AM lemma="extrémista" src="auto">NNMP5-----A----</AM>
 </tag>
 </m>

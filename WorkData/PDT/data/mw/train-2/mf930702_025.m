@@ -27,7 +27,10 @@
 <LM>w#w-mf930702-025-p1s1w2</LM>
 </w.rf>
 <form>začne</form>
-<tag lemma="začít-1_^(začnout)" src="auto" selected="1">VB-S---3P-AA---</tag>
+<tag>
+<AM lemma="začít-1_^(začnout)" src="auto">VB-S---3P-AA---</AM>
+<AM lemma="začít-1_:W_^(začnout)" src="manual" selected="1">VB-S---3P-AA---</AM>
+</tag>
 </m>
 <m id="m-mf930702-025-p1s1w3">
 <src.rf>manual</src.rf>
@@ -77,7 +80,10 @@
 <LM>w#w-mf930702-025-p2s1w3</LM>
 </w.rf>
 <form>tma</form>
-<tag lemma="tma" src="orig" selected="1">NNFS1-----A----</tag>
+<tag>
+<AM lemma="tma" src="orig">NNFS1-----A----</AM>
+<AM lemma="tma-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930702-025-p2s1w4">
 <src.rf>manual</src.rf>
@@ -231,7 +237,10 @@
 <LM>w#w-mf930702-025-p2s2w1</LM>
 </w.rf>
 <form>Uvedl</form>
-<tag lemma="uvést" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag>
+<AM lemma="uvést" src="orig">VpYS---XR-AA---</AM>
+<AM lemma="uvést_:W" src="manual" selected="1">VpYS---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-mf930702-025-p2s2w2">
 <src.rf>manual</src.rf>
@@ -303,7 +312,10 @@
 <LM>w#w-mf930702-025-p2s2w10</LM>
 </w.rf>
 <form>nepřál</form>
-<tag lemma="přát" src="orig" selected="1">VpYS---XR-NA---</tag>
+<tag>
+<AM lemma="přát" src="orig">VpYS---XR-NA---</AM>
+<AM lemma="přát_:T" src="manual" selected="1">VpYS---XR-NA---</AM>
+</tag>
 </m>
 <m id="m-mf930702-025-p2s2w11">
 <src.rf>manual</src.rf>
@@ -469,6 +481,7 @@
 <AM lemma="začít-1" src="orig">Vf--------A----</AM>
 <AM lemma="začít-1_^(začnout)" src="auto" recommended="1">Vf--------A----</AM>
 <AM lemma="začít-2_^(pocítit)" src="auto">Vf--------A----</AM>
+<AM lemma="začít-1_:W_^(začnout)" src="manual" selected="1">Vf--------A----</AM>
 </tag>
 </m>
 <m id="m-mf930702-025-p2s3w18">
@@ -745,7 +758,10 @@
 <LM>w#w-mf930702-025-p2s5w5</LM>
 </w.rf>
 <form>začne</form>
-<tag lemma="začít-1_^(začnout)" src="auto" selected="1">VB-S---3P-AA---</tag>
+<tag>
+<AM lemma="začít-1_^(začnout)" src="auto">VB-S---3P-AA---</AM>
+<AM lemma="začít-1_:W_^(začnout)" src="manual" selected="1">VB-S---3P-AA---</AM>
+</tag>
 </m>
 <m id="m-mf930702-025-p2s5w6">
 <src.rf>manual</src.rf>
@@ -905,7 +921,10 @@
 <LM>w#w-mf930702-025-p2s5w25</LM>
 </w.rf>
 <form>řekla</form>
-<tag lemma="říci" src="auto" selected="1">VpQW---XR-AA---</tag>
+<tag>
+<AM lemma="říci" src="auto">VpQW---XR-AA---</AM>
+<AM lemma="říci_:W" src="manual" selected="1">VpQW---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-mf930702-025-p2s5w26">
 <src.rf>manual</src.rf>
@@ -1141,7 +1160,10 @@
 <LM>w#w-mf930702-025-p2s7w3</LM>
 </w.rf>
 <form>strany</form>
-<tag lemma="strana-3_^(u_soudu,_na_úřadě,_smluvní_strany;_na_něčí_straně)" src="orig" selected="1">NNFS2-----A----</tag>
+<tag>
+<AM lemma="strana-3_^(u_soudu,_na_úřadě,_smluvní_strany;_na_něčí_straně)" src="orig">NNFS2-----A----</AM>
+<AM lemma="strana" src="manual" selected="1">NNFS2-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930702-025-p2s7w4">
 <src.rf>manual</src.rf>
@@ -1152,7 +1174,7 @@
 <tag>
 <AM lemma="tedy" src="orig">Db-------------</AM>
 <AM lemma="tedy-1" src="auto">TT-------------</AM>
-<AM lemma="tedy-2" src="auto" recommended="1">J^-------------</AM>
+<AM lemma="tedy-2" src="auto" recommended="1" selected="1">J^-------------</AM>
 </tag>
 </m>
 <m id="m-mf930702-025-p2s7w5">
@@ -1245,6 +1267,7 @@
 <AM lemma="začít-1" src="orig">Vf--------A----</AM>
 <AM lemma="začít-1_^(začnout)" src="auto" recommended="1">Vf--------A----</AM>
 <AM lemma="začít-2_^(pocítit)" src="auto">Vf--------A----</AM>
+<AM lemma="začít-1_:W_^(začnout)" src="manual" selected="1">Vf--------A----</AM>
 </tag>
 </m>
 <m id="m-mf930702-025-p2s7w16">
@@ -1319,7 +1342,10 @@
 <LM>w#w-mf930702-025-p2s8w2</LM>
 </w.rf>
 <form>strana</form>
-<tag lemma="strana-3_^(u_soudu,_na_úřadě,_smluvní_strany;_na_něčí_straně)" src="orig" selected="1">NNFS1-----A----</tag>
+<tag>
+<AM lemma="strana-3_^(u_soudu,_na_úřadě,_smluvní_strany;_na_něčí_straně)" src="orig">NNFS1-----A----</AM>
+<AM lemma="strana" src="manual" selected="1">NNFS1-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930702-025-p2s8w3">
 <src.rf>manual</src.rf>

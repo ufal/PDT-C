@@ -213,7 +213,10 @@
 <LM>w#w-mf930701-046-p2s1w22</LM>
 </w.rf>
 <form>TV</form>
-<tag lemma="televize_:B" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="televize_:B" src="orig">NNFXX-----A---8</AM>
+<AM lemma="televize_:B" src="manual" selected="1">NNFXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930701-046-p2s1w23">
 <src.rf>manual</src.rf>
@@ -229,7 +232,10 @@
 <LM>w#w-mf930701-046-p2s1w24</LM>
 </w.rf>
 <form>Wiesbaden</form>
-<tag lemma="Wiesbaden_;G" src="orig" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="Wiesbaden_;G" src="orig">NNIS1-----A----</AM>
+<AM lemma="Wiesbaden-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-mf930701-046-p2s1w25">
 <src.rf>manual</src.rf>
@@ -639,7 +645,10 @@
 <LM>w#w-mf930701-046-p2s2w50</LM>
 </w.rf>
 <form>ani</form>
-<tag lemma="ani-1" src="auto" selected="1">J^-------------</tag>
+<tag>
+<AM lemma="ani-1" src="auto">J^-------------</AM>
+<AM lemma="ani-2" src="manual" selected="1">TT-------------</AM>
+</tag>
 </m>
 <m id="m-mf930701-046-p2s2w51">
 <src.rf>manual</src.rf>
@@ -693,6 +702,7 @@
 <AM lemma="císařský_:B" src="orig">AAXXX----1A---8</AM>
 <AM lemma="c-3_^(označení_pomocí_písmene)" src="auto" recommended="1">NNNXX-----A----</AM>
 <AM lemma="c-8_:B_^(ost._zkratka)" src="auto">XX------------8</AM>
+<AM lemma="c-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-mf930701-046-p2s3w5">
@@ -717,7 +727,10 @@
 <LM>w#w-mf930701-046-p2s3w7</LM>
 </w.rf>
 <form>k</form>
-<tag lemma="komanditní_:B_^(jen_komanditní_společnost)" src="orig" selected="1">AAXXX----1A---8</tag>
+<tag>
+<AM lemma="komanditní_:B_^(jen_komanditní_společnost)" src="orig">AAXXX----1A---8</AM>
+<AM lemma="k-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-mf930701-046-p2s3w8">
 <src.rf>manual</src.rf>
@@ -765,7 +778,10 @@
 <LM>w#w-mf930701-046-p2s3w13</LM>
 </w.rf>
 <form>fašismu</form>
-<tag lemma="fašismus" src="orig" selected="1">NNIS2-----A----</tag>
+<tag>
+<AM lemma="fašismus" src="orig">NNIS2-----A----</AM>
+<AM lemma="fašismus_,s_^(^DD**fašizmus)" src="manual" selected="1">NNIS2-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930701-046-p2s3w14">
 <src.rf>manual</src.rf>
@@ -869,7 +885,10 @@
 <LM>w#w-mf930701-046-p2s3w26</LM>
 </w.rf>
 <form>ml</form>
-<tag lemma="mladý_:B" src="orig" selected="1">AAXXX----2A---8</tag>
+<tag>
+<AM lemma="mladý_:B" src="orig">AAXXX----2A---8</AM>
+<AM lemma="mladý" src="manual" selected="1">AAXXX----2A---8</AM>
+</tag>
 </m>
 <m id="m-mf930701-046-p2s3w27">
 <src.rf>manual</src.rf>
@@ -1109,7 +1128,10 @@
 <LM>w#w-mf930701-046-p2s3w56</LM>
 </w.rf>
 <form>nejvíc</form>
-<tag lemma="hodně-2" src="auto" selected="1">Dg-------3A---1</tag>
+<tag>
+<AM lemma="hodně-2" src="auto">Dg-------3A---1</AM>
+<AM lemma="hodně-3" src="manual" selected="1">Dg-------3A---1</AM>
+</tag>
 </m>
 <m id="m-mf930701-046-p2s3w57">
 <src.rf>manual</src.rf>
@@ -1377,7 +1399,10 @@
 <LM>w#w-mf930701-046-p2s5w1</LM>
 </w.rf>
 <form>J</form>
-<tag lemma="J-0_:B_;Y" src="orig" selected="1">NNMXX-----A---8</tag>
+<tag>
+<AM lemma="J-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
+<AM lemma="J-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-mf930701-046-p2s5w2">
 <src.rf>manual</src.rf>
@@ -1457,7 +1482,11 @@
 <LM>w#w-mf930701-046-p2s5w11</LM>
 </w.rf>
 <form>sice</form>
-<tag lemma="sice-2" src="auto" selected="1">Db-------------</tag>
+<tag>
+<AM lemma="sice-2" src="auto">Db-------------</AM>
+<AM lemma="	sice-1_^(spojka;_připouští_se_určitá_fakta)" src="manual">J^-------------</AM>
+<AM lemma="sice-1_^(spojka;_připouští_se_určitá_fakta)" src="manual" selected="1">J^-------------</AM>
+</tag>
 </m>
 <m id="m-mf930701-046-p2s5w12">
 <src.rf>manual</src.rf>
@@ -1643,7 +1672,7 @@
 <form>ovšem</form>
 <tag>
 <AM lemma="ovšem-1_^(avšak,_však;_odporovací_spojka)" src="orig">J^-------------</AM>
-<AM lemma="ovšem" src="auto" recommended="1">TT-------------</AM>
+<AM lemma="ovšem" src="auto" recommended="1" selected="1">TT-------------</AM>
 </tag>
 </m>
 <m id="m-mf930701-046-p2s5w35">
@@ -1826,7 +1855,7 @@
 <AM lemma="leč-2_^(kniž.;_leč_by...)" src="orig">J,-------------</AM>
 <AM lemma="leč-1_^(lov;_poslední_leč...)" src="auto">NNFS1-----A----</AM>
 <AM lemma="leč-1_^(lov;_poslední_leč...)" src="auto">NNFS4-----A----</AM>
-<AM lemma="leč-3_^(ale)" src="auto" recommended="1">J^-------------</AM>
+<AM lemma="leč-3_^(ale)" src="auto" recommended="1" selected="1">J^-------------</AM>
 <AM lemma="lečo_^(jídlo)" src="auto">NNNP2-----A----</AM>
 <AM lemma="léčit" src="auto">Vi-S---2--A----</AM>
 <AM lemma="léčit" src="auto">Vi-S---3--A---4</AM>
@@ -1932,7 +1961,7 @@
 <form>Snad</form>
 <tag>
 <AM lemma="snad" src="orig">Db-------------</AM>
-<AM lemma="snad" src="auto" recommended="1">TT-------------</AM>
+<AM lemma="snad" src="auto" recommended="1" selected="1">TT-------------</AM>
 </tag>
 </m>
 <m id="m-mf930701-046-p2s8w2">

@@ -51,7 +51,10 @@
 <LM>w#w-ln95049-081-p1s1w5</LM>
 </w.rf>
 <form>IRA</form>
-<tag lemma="IRA-1_:B_;K_,t_^(Irská_republikánská_armáda)" src="auto" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="IRA-1_:B_;K_,t_^(Irská_republikánská_armáda)" src="auto">NNFXX-----A---8</AM>
+<AM lemma="IRA-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 </s>
 <s id="m-ln95049-081-p2s1A">
@@ -135,7 +138,10 @@
 <LM>w#w-ln95049-081-p2s1Bw8</LM>
 </w.rf>
 <form>strany</form>
-<tag lemma="strana-2_^(politická)" src="orig" selected="1">NNFS2-----A----</tag>
+<tag>
+<AM lemma="strana-2_^(politická)" src="orig">NNFS2-----A----</AM>
+<AM lemma="strana" src="manual" selected="1">NNFS2-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95049-081-p2s1Bw9">
 <src.rf>manual</src.rf>
@@ -146,6 +152,8 @@
 <tag>
 <AM lemma="SF-2`Sinn-1_;K_,t_^(Sinn_Fein)" src="orig">NNFXX-----A----</AM>
 <AM lemma="Sinn_;Y" src="auto" recommended="1">NNXXX-----A----</AM>
+<AM lemma="Sinn_;K_,t_^(Sinn_Fein)" src="manual">NNXXX-----A----</AM>
+<AM lemma="Sinn-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-ln95049-081-p2s1Bw10">
@@ -159,6 +167,8 @@
 <AM lemma="Fein" src="auto">NNIS1-----A----</AM>
 <AM lemma="Fein" src="auto">NNIS4-----A----</AM>
 <AM lemma="Fein_;Y" src="auto" recommended="1">NNXXX-----A----</AM>
+<AM lemma="Fein_;K_,t_^(Sinn_Fein)" src="manual">NNXXX-----A----</AM>
+<AM lemma="Fein-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-ln95049-081-p2s1Bw11">
@@ -199,7 +209,10 @@
 <LM>w#w-ln95049-081-p2s1Bw16</LM>
 </w.rf>
 <form>začala</form>
-<tag lemma="začít-1_^(začnout)" src="auto" selected="1">VpQW---XR-AA---</tag>
+<tag>
+<AM lemma="začít-1_^(začnout)" src="auto">VpQW---XR-AA---</AM>
+<AM lemma="začít-1_:W_^(začnout)" src="manual" selected="1">VpQW---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-ln95049-081-p2s1Bw17">
 <src.rf>manual</src.rf>
@@ -316,6 +329,8 @@
 <tag>
 <AM lemma="SF-2`Sinn-1_;K_,t_^(Sinn_Fein)" src="orig">NNFXX-----A----</AM>
 <AM lemma="Sinn_;Y" src="auto" recommended="1">NNXXX-----A----</AM>
+<AM lemma="Sinn_;K_,t_^(Sinn_Fein)" src="manual">NNXXX-----A----</AM>
+<AM lemma="Sinn-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-ln95049-081-p2s2w7">
@@ -329,6 +344,8 @@
 <AM lemma="Fein" src="auto">NNIS1-----A----</AM>
 <AM lemma="Fein" src="auto">NNIS4-----A----</AM>
 <AM lemma="Fein_;Y" src="auto" recommended="1">NNXXX-----A----</AM>
+<AM lemma="Fein_;K_,t_^(Sinn_Fein)" src="manual">NNXXX-----A----</AM>
+<AM lemma="Fein-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-ln95049-081-p2s2w8">
@@ -457,7 +474,10 @@
 <LM>w#w-ln95049-081-p2s2w23</LM>
 </w.rf>
 <form>IRA</form>
-<tag lemma="IRA-1_:B_;K_,t_^(Irská_republikánská_armáda)" src="auto" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="IRA-1_:B_;K_,t_^(Irská_republikánská_armáda)" src="auto">NNFXX-----A---8</AM>
+<AM lemma="IRA-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95049-081-p2s2w24">
 <src.rf>manual</src.rf>
@@ -611,7 +631,10 @@
 <LM>w#w-ln95049-081-p2s3w17</LM>
 </w.rf>
 <form>IRA</form>
-<tag lemma="IRA-1_:B_;K_,t_^(Irská_republikánská_armáda)" src="auto" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="IRA-1_:B_;K_,t_^(Irská_republikánská_armáda)" src="auto">NNFXX-----A---8</AM>
+<AM lemma="IRA-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95049-081-p2s3w18">
 <src.rf>manual</src.rf>

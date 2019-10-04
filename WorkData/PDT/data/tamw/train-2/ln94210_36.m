@@ -19,7 +19,11 @@
 <LM>w#w-ln94210-36-p1s1w1</LM>
 </w.rf>
 <form>Peer</form>
-<tag lemma="peer_,t" src="orig" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="peer_,t" src="orig">NNMS1-----A----</AM>
+<AM lemma="peer_" src="manual">NNMS1-----A----</AM>
+<AM lemma="peer" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94210-36-p1s1w2">
 <src.rf>manual</src.rf>
@@ -73,6 +77,7 @@
 <AM lemma="pech-99_:B_;S" src="orig">NNXXX-----A---8</AM>
 <AM lemma="pech" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="pech" src="auto">NNIS4-----A----</AM>
+<AM lemma="pech-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94210-36-p2s1Aw4">
@@ -195,7 +200,10 @@
 <LM>w#w-ln94210-36-p2s1Bw13</LM>
 </w.rf>
 <form>tzv</form>
-<tag lemma="takzvaný_:B" src="orig" selected="1">AAXXX----1A---8</tag>
+<tag>
+<AM lemma="takzvaný_:B" src="orig">AAXXX----1A---8</AM>
+<AM lemma="takzvaný" src="manual" selected="1">AAXXX----1A---8</AM>
+</tag>
 </m>
 <m id="m-ln94210-36-p2s1Bw14">
 <src.rf>manual</src.rf>
@@ -211,7 +219,10 @@
 <LM>w#w-ln94210-36-p2s1Bw15</LM>
 </w.rf>
 <form>peer</form>
-<tag lemma="peer_,t" src="orig" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="peer_,t" src="orig">NNMS1-----A----</AM>
+<AM lemma="peer" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94210-36-p2s1Bw16">
 <src.rf>manual</src.rf>
@@ -479,7 +490,10 @@
 <LM>w#w-ln94210-36-p2s3w3</LM>
 </w.rf>
 <form>řekl</form>
-<tag lemma="říci" src="auto" selected="1">VpYS---XR-AA---</tag>
+<tag>
+<AM lemma="říci" src="auto">VpYS---XR-AA---</AM>
+<AM lemma="říci_:W" src="manual" selected="1">VpYS---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-ln94210-36-p2s3w4">
 <src.rf>manual</src.rf>
@@ -609,7 +623,7 @@
 <form>nikoli</form>
 <tag>
 <AM lemma="nikoliv" src="orig">Db------------1</AM>
-<AM lemma="nikoli" src="auto" recommended="1">TT-------------</AM>
+<AM lemma="nikoli" src="auto" recommended="1" selected="1">TT-------------</AM>
 </tag>
 </m>
 <m id="m-ln94210-36-p2s3w20">
@@ -838,7 +852,10 @@
 <LM>w#w-ln94210-36-p2s5w16</LM>
 </w.rf>
 <form>peer</form>
-<tag lemma="peer_,t" src="orig" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="peer_,t" src="orig">NNMS1-----A----</AM>
+<AM lemma="peer" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94210-36-p2s5w17">
 <src.rf>manual</src.rf>

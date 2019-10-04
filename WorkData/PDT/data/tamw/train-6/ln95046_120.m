@@ -323,7 +323,10 @@
 <LM>w#w-ln95046-120-p2s2w19</LM>
 </w.rf>
 <form>kW</form>
-<tag lemma="kW-1`kilowatt_:B" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="kW-1`kilowatt_:B" src="orig">NNIXX-----A---8</AM>
+<AM lemma="kilowatt" src="manual" selected="1">NNIXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln95046-120-p2s2w20">
 <src.rf>manual</src.rf>
@@ -746,7 +749,10 @@
 <LM>w#w-ln95046-120-p4s1w22</LM>
 </w.rf>
 <form>kg</form>
-<tag lemma="kg-1`kilogram_:B" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="kg-1`kilogram_:B" src="orig">NNIXX-----A---8</AM>
+<AM lemma="kilogram" src="manual" selected="1">NNIXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln95046-120-p4s1w23">
 <src.rf>manual</src.rf>
@@ -921,6 +927,8 @@
 <tag>
 <AM lemma="GL-2_:B_;R" src="orig">NNXXX-----A---8</AM>
 <AM lemma="GL-1_:B_^(glejová_půda)" src="auto" recommended="1">NNFXX-----A---8</AM>
+<AM lemma="GL-2_;B" src="manual">NNXXX-----A---8</AM>
+<AM lemma="GL-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95046-120-p4s3w4">
@@ -1003,7 +1011,10 @@
 <LM>w#w-ln95046-120-p4s4w4</LM>
 </w.rf>
 <form>km</form>
-<tag lemma="km-1`kilometr_:B" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="km-1`kilometr_:B" src="orig">NNIXX-----A---8</AM>
+<AM lemma="kilometr" src="manual" selected="1">NNIXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln95046-120-p4s4w5">
 <src.rf>manual</src.rf>
@@ -1035,7 +1046,10 @@
 <LM>w#w-ln95046-120-p4s4w8</LM>
 </w.rf>
 <form>km</form>
-<tag lemma="km-1`kilometr_:B" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="km-1`kilometr_:B" src="orig">NNIXX-----A---8</AM>
+<AM lemma="kilometr" src="manual" selected="1">NNIXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln95046-120-p4s4w9">
 <src.rf>manual</src.rf>
@@ -1051,7 +1065,10 @@
 <LM>w#w-ln95046-120-p4s4w10</LM>
 </w.rf>
 <form>h</form>
-<tag lemma="hodina_:B" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="hodina_:B" src="orig">NNFXX-----A---8</AM>
+<AM lemma="hodina" src="manual" selected="1">NNFXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln95046-120-p4s4w11">
 <src.rf>manual</src.rf>
@@ -1116,7 +1133,10 @@
 <LM>w#w-ln95046-120-p4s4w18</LM>
 </w.rf>
 <form>super</form>
-<tag lemma="super_,h_,t" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="super_,h_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="Super-1_;R_^(druh_benzínu)" src="manual" selected="1">AAXXX----1A----</AM>
+</tag>
 </m>
 <m id="m-ln95046-120-p4s4w19">
 <src.rf>manual</src.rf>

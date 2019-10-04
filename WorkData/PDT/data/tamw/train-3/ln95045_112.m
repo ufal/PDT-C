@@ -101,7 +101,10 @@
 <LM>w#w-ln95045-112-p2s1Aw8</LM>
 </w.rf>
 <form>SSSR</form>
-<tag lemma="SSSR_:B_;G_^(Svaz_sov._socialist._republik)" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="SSSR_:B_;G_^(Svaz_sov._socialist._republik)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="SSSR_:B_;G_^(Svaz_sov._socialist._republik)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 </s>
 <s id="m-ln95045-112-p2s1B">
@@ -687,6 +690,7 @@
 <tag>
 <AM lemma="USA_;G" src="orig">NNIPX-----A----</AM>
 <AM lemma="USA_:B_;K_,t_^(United_States_of_America)" src="auto" recommended="1">NNIPX-----A---8</AM>
+<AM lemma="USA_:B_;K_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95045-112-p4s1w12">
@@ -826,7 +830,10 @@
 <LM>w#w-ln95045-112-p5s1w6</LM>
 </w.rf>
 <form>SSSR</form>
-<tag lemma="SSSR_:B_;G_^(Svaz_sov._socialist._republik)" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="SSSR_:B_;G_^(Svaz_sov._socialist._republik)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="SSSR_:B_;G_^(Svaz_sov._socialist._republik)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95045-112-p5s1w7">
 <src.rf>manual</src.rf>
@@ -932,7 +939,10 @@
 <LM>w#w-ln95045-112-p5s1w19</LM>
 </w.rf>
 <form>víc</form>
-<tag lemma="hodně-2" src="auto" selected="1">Dg-------2A---1</tag>
+<tag>
+<AM lemma="hodně-2" src="auto">Dg-------2A---1</AM>
+<AM lemma="více_^(více_+_2._p.,_více_peněz)" src="manual" selected="1">Ca--2---------1</AM>
+</tag>
 </m>
 <m id="m-ln95045-112-p5s1w20">
 <src.rf>manual</src.rf>
@@ -1020,7 +1030,10 @@
 <LM>w#w-ln95045-112-p5s1w30</LM>
 </w.rf>
 <form>SSSR</form>
-<tag lemma="SSSR_:B_;G_^(Svaz_sov._socialist._republik)" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="SSSR_:B_;G_^(Svaz_sov._socialist._republik)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="SSSR_:B_;G_^(Svaz_sov._socialist._republik)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95045-112-p5s1w31">
 <src.rf>manual</src.rf>

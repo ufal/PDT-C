@@ -563,7 +563,11 @@
 <LM>w#w-ln94204-5-p3s3w9</LM>
 </w.rf>
 <form>milionů</form>
-<tag lemma="milión`1000000" src="orig" selected="1">NNIP2-----A----</tag>
+<tag>
+<AM lemma="milión`1000000" src="orig">NNIP2-----A----</AM>
+<AM lemma="ion`1000000_,s_^(^DD**milión)" src="manual">NNIP2-----A----</AM>
+<AM lemma="milion`1000000_,s_^(^DD**milión)" src="manual" selected="1">NNIP2-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94204-5-p3s3w10">
 <src.rf>manual</src.rf>
@@ -653,7 +657,11 @@
 <LM>w#w-ln94204-5-p3s4w9</LM>
 </w.rf>
 <form>milionů</form>
-<tag lemma="milión`1000000" src="orig" selected="1">NNIP2-----A----</tag>
+<tag>
+<AM lemma="milión`1000000" src="orig">NNIP2-----A----</AM>
+<AM lemma="ion`1000000_,s_^(^DD**milión)" src="manual">NNIP2-----A----</AM>
+<AM lemma="milion`1000000_,s_^(^DD**milión)" src="manual" selected="1">NNIP2-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94204-5-p3s4w10">
 <src.rf>manual</src.rf>
@@ -768,7 +776,10 @@
 <LM>w#w-ln94204-5-p4s1w4</LM>
 </w.rf>
 <form>nedávno</form>
-<tag lemma="nedávno-1" src="auto" selected="1">Db-------------</tag>
+<tag>
+<AM lemma="nedávno-1" src="auto">Db-------------</AM>
+<AM lemma="dávno-1" src="manual" selected="1">Dg-------1N----</AM>
+</tag>
 </m>
 <m id="m-ln94204-5-p4s1w5">
 <src.rf>manual</src.rf>
@@ -864,7 +875,11 @@
 <LM>w#w-ln94204-5-p4s1w17</LM>
 </w.rf>
 <form>milionů</form>
-<tag lemma="milión`1000000" src="orig" selected="1">NNIP2-----A----</tag>
+<tag>
+<AM lemma="milión`1000000" src="orig">NNIP2-----A----</AM>
+<AM lemma="ion`1000000_,s_^(^DD**milión)" src="manual">NNIP2-----A----</AM>
+<AM lemma="milion`1000000_,s_^(^DD**milión)" src="manual" selected="1">NNIP2-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94204-5-p4s1w18">
 <src.rf>manual</src.rf>
@@ -1034,7 +1049,10 @@
 <LM>w#w-ln94204-5-p4s2Aw2</LM>
 </w.rf>
 <form>J</form>
-<tag lemma="J-0_:B_;Y" src="orig" selected="1">NNMXX-----A---8</tag>
+<tag>
+<AM lemma="J-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
+<AM lemma="J-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln94204-5-p4s2Aw3">
 <src.rf>manual</src.rf>
@@ -1164,7 +1182,10 @@
 <LM>w#w-ln94204-5-p4s2Bw2</LM>
 </w.rf>
 <form>av</form>
-<tag lemma="av-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="av-99_:B_;S" src="orig">NNXXX-----A---8</AM>
+<AM lemma="av-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94204-5-p4s2Bw3">
 <src.rf>manual</src.rf>

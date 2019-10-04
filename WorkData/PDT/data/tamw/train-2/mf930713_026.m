@@ -327,6 +327,7 @@
 <AM lemma="Niki_;Y" src="orig">NNMSX-----A----</AM>
 <AM lemma="Niki_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Niki_;Y" src="auto">NNMS5-----A----</AM>
+<AM lemma="Niki_;Y" src="manual" selected="1">NNMS3-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930713-026-p2s1Cw20">
@@ -839,7 +840,10 @@
 <LM>w#w-mf930713-026-p2s5w3</LM>
 </w.rf>
 <form>li</form>
-<tag lemma="li-1" src="auto" selected="1">TT-------------</tag>
+<tag>
+<AM lemma="li-1" src="auto">TT-------------</AM>
+<AM lemma="li-2" src="manual" selected="1">J,-------------</AM>
+</tag>
 </m>
 <m id="m-mf930713-026-p2s5w4">
 <src.rf>manual</src.rf>
@@ -1131,7 +1135,10 @@
 <LM>w#w-mf930713-026-p2s7w12</LM>
 </w.rf>
 <form>Uwe</form>
-<tag lemma="Uwe_;S" src="auto" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Uwe_;S" src="auto">NNMS1-----A----</AM>
+<AM lemma="Uwe_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930713-026-p2s7w13">
 <src.rf>manual</src.rf>
@@ -1269,7 +1276,10 @@
 <LM>w#w-mf930713-026-p2s8w3</LM>
 </w.rf>
 <form>ČR</form>
-<tag lemma="ČR-1_:B_;G_^(Česká_republika)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930713-026-p2s8w4">
 <src.rf>manual</src.rf>
@@ -1285,7 +1295,10 @@
 <LM>w#w-mf930713-026-p2s8w5</LM>
 </w.rf>
 <form>SR</form>
-<tag lemma="SR-1_:B_;G_^(Slovenská_republika)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="SR-1_:B_;G_^(Slovenská_republika)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="SR-1_:B_;G_^(Slovenská_republika)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930713-026-p2s8w6">
 <src.rf>manual</src.rf>
@@ -1577,7 +1590,10 @@
 <LM>w#w-mf930713-026-p2s10w5</LM>
 </w.rf>
 <form>ČR</form>
-<tag lemma="ČR-1_:B_;G_^(Česká_republika)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930713-026-p2s10w6">
 <src.rf>manual</src.rf>
@@ -1593,7 +1609,10 @@
 <LM>w#w-mf930713-026-p2s10w7</LM>
 </w.rf>
 <form>SR</form>
-<tag lemma="SR-1_:B_;G_^(Slovenská_republika)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="SR-1_:B_;G_^(Slovenská_republika)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="SR-1_:B_;G_^(Slovenská_republika)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930713-026-p2s10w8">
 <src.rf>manual</src.rf>
@@ -2039,7 +2058,7 @@
 <form>totiž</form>
 <tag>
 <AM lemma="totiž" src="orig">Db-------------</AM>
-<AM lemma="totiž-1" src="auto" recommended="1">J^-------------</AM>
+<AM lemma="totiž-1" src="auto" recommended="1" selected="1">J^-------------</AM>
 <AM lemma="totiž-2" src="auto">TT-------------</AM>
 </tag>
 </m>
@@ -2093,7 +2112,7 @@
 <AM lemma="loket" src="orig">NNIS2-----A----</AM>
 <AM lemma="loket" src="auto">NNIP1-----A---6</AM>
 <AM lemma="loket" src="auto">NNIP4-----A---1</AM>
-<AM lemma="loket" src="auto" recommended="1">NNIS2-----A---1</AM>
+<AM lemma="loket" src="auto" recommended="1" selected="1">NNIS2-----A---1</AM>
 <AM lemma="loket" src="auto">NNIS5-----A----</AM>
 </tag>
 </m>
@@ -2300,7 +2319,7 @@
 </w.rf>
 <form>Panatta</form>
 <tag>
-<AM lemma="Panatta_;S" src="orig">NNMS1-----A----</AM>
+<AM lemma="Panatta_;S" src="orig" selected="1">NNMS1-----A----</AM>
 <AM lemma="Panatt_;S" src="auto">NNMS2-----A----</AM>
 <AM lemma="Panatt_;S" src="auto" recommended="1">NNMS4-----A----</AM>
 </tag>
@@ -2498,7 +2517,7 @@
 </w.rf>
 <form>Panatta</form>
 <tag>
-<AM lemma="Panatta_;S" src="orig">NNMS1-----A----</AM>
+<AM lemma="Panatta_;S" src="orig" selected="1">NNMS1-----A----</AM>
 <AM lemma="Panatt_;S" src="auto" recommended="1">NNMS2-----A----</AM>
 <AM lemma="Panatt_;S" src="auto">NNMS4-----A----</AM>
 </tag>

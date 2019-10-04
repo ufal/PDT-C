@@ -255,7 +255,10 @@
 <LM>w#w-mf920923-047-p2s2w12</LM>
 </w.rf>
 <form>řekl</form>
-<tag lemma="říci" src="auto" selected="1">VpYS---XR-AA---</tag>
+<tag>
+<AM lemma="říci" src="auto">VpYS---XR-AA---</AM>
+<AM lemma="říci_:W" src="manual" selected="1">VpYS---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-mf920923-047-p2s2w13">
 <src.rf>manual</src.rf>
@@ -441,7 +444,10 @@
 <LM>w#w-mf920923-047-p2s3w15</LM>
 </w.rf>
 <form>ME</form>
-<tag lemma="ME-1_:B_;w_^(mistrovství_Evropy)" src="orig" selected="1">NNNXX-----A---8</tag>
+<tag>
+<AM lemma="ME-1_:B_;w_^(mistrovství_Evropy)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="ME-1_:B_^(mistrovství_Evropy)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920923-047-p2s3w16">
 <src.rf>manual</src.rf>
@@ -489,7 +495,10 @@
 <LM>w#w-mf920923-047-p2s3w21</LM>
 </w.rf>
 <form>OH</form>
-<tag lemma="OH-2_:B_;w_^(Olympijské_hry)" src="orig" selected="1">NNFPX-----A---8</tag>
+<tag>
+<AM lemma="OH-2_:B_;w_^(Olympijské_hry)" src="orig">NNFPX-----A---8</AM>
+<AM lemma="OH-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920923-047-p2s3w22">
 <src.rf>manual</src.rf>
@@ -603,7 +612,10 @@
 <LM>w#w-mf920923-047-p2s4w5</LM>
 </w.rf>
 <form>ČSFR</form>
-<tag lemma="ČSFR-1_:B_;G_^(Čs._federativní_republika)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ČSFR-1_:B_;G_^(Čs._federativní_republika)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČSFR-1_:B_;G_^(Čs._federativní_republika)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920923-047-p2s4w6">
 <src.rf>manual</src.rf>
@@ -643,7 +655,10 @@
 <LM>w#w-mf920923-047-p2s4w10</LM>
 </w.rf>
 <form>ME</form>
-<tag lemma="ME-1_:B_;w_^(mistrovství_Evropy)" src="orig" selected="1">NNNXX-----A---8</tag>
+<tag>
+<AM lemma="ME-1_:B_;w_^(mistrovství_Evropy)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="ME-1_:B_^(mistrovství_Evropy)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920923-047-p2s4w11">
 <src.rf>manual</src.rf>
@@ -1005,7 +1020,10 @@
 <LM>w#w-mf920923-047-p2s5w24</LM>
 </w.rf>
 <form>J</form>
-<tag lemma="J-0_:B_;Y" src="orig" selected="1">NNMXX-----A---8</tag>
+<tag>
+<AM lemma="J-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
+<AM lemma="J-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920923-047-p2s5w25">
 <src.rf>manual</src.rf>
@@ -1085,7 +1103,10 @@
 <LM>w#w-mf920923-047-p2s5w34</LM>
 </w.rf>
 <form>M</form>
-<tag lemma="M-0_:B_;Y" src="orig" selected="1">NNMXX-----A---8</tag>
+<tag>
+<AM lemma="M-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
+<AM lemma="M-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920923-047-p2s5w35">
 <src.rf>manual</src.rf>
@@ -1218,7 +1239,7 @@
 <AM lemma="Bobrovský_;S" src="auto">NNMP1-----A---6</AM>
 <AM lemma="Bobrovský_;S" src="auto">NNMP4-----A---6</AM>
 <AM lemma="Bobrovský_;S" src="auto">NNMP5-----A---6</AM>
-<AM lemma="Bobrovský_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Bobrovský_;S" src="auto" recommended="1" selected="1">NNMS1-----A----</AM>
 <AM lemma="Bobrovský_;S" src="auto">NNMS5-----A----</AM>
 <AM lemma="bobrovský" src="auto">AAFP1----1A---6</AM>
 <AM lemma="bobrovský" src="auto">AAFP4----1A---6</AM>

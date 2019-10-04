@@ -177,7 +177,7 @@
 <form>Richtera</form>
 <tag>
 <AM lemma="Richter_;S" src="orig">NNMS2-----A----</AM>
-<AM lemma="Richter_;S" src="auto" recommended="1">NNMS2-----A---2</AM>
+<AM lemma="Richter_;S" src="auto" recommended="1" selected="1">NNMS2-----A---2</AM>
 <AM lemma="Richter_;S" src="auto">NNMS4-----A---2</AM>
 </tag>
 </m>
@@ -448,6 +448,7 @@
 <tag>
 <AM lemma="off-2_,t" src="orig">AAXXX----1A----</AM>
 <AM lemma="off-1_,t_^(angl._&quot;vypnuto&quot;,_hlavně_souč._názvů)" src="auto" recommended="1">TT-------------</AM>
+<AM lemma="off-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-mf930701-043-p3s1w22">
@@ -490,7 +491,7 @@
 <AM lemma="jakýkoli" src="auto">PZFS6---------1</AM>
 <AM lemma="jakýkoli" src="auto">PZIP1---------1</AM>
 <AM lemma="jakýkoli" src="auto">PZIP5---------1</AM>
-<AM lemma="jakýkoli" src="auto" recommended="1">PZNS1---------1</AM>
+<AM lemma="jakýkoli" src="auto" recommended="1" selected="1">PZNS1---------1</AM>
 <AM lemma="jakýkoli" src="auto">PZNS4---------1</AM>
 <AM lemma="jakýkoli" src="auto">PZNS5---------1</AM>
 <AM lemma="jakýkoli" src="auto">PZYP4---------1</AM>
@@ -526,7 +527,10 @@
 <LM>w#w-mf930701-043-p3s1w29</LM>
 </w.rf>
 <form>přijede</form>
-<tag lemma="přijet" src="auto" selected="1">VB-S---3P-AA---</tag>
+<tag>
+<AM lemma="přijet" src="auto">VB-S---3P-AA---</AM>
+<AM lemma="přijet_:W" src="manual" selected="1">VB-S---3P-AA---</AM>
+</tag>
 </m>
 <m id="m-mf930701-043-p3s1w30">
 <src.rf>manual</src.rf>
@@ -1014,7 +1018,7 @@
 <AM lemma="leč-2_^(kniž.;_leč_by...)" src="orig">J,-------------</AM>
 <AM lemma="leč-1_^(lov;_poslední_leč...)" src="auto" recommended="1">NNFS1-----A----</AM>
 <AM lemma="leč-1_^(lov;_poslední_leč...)" src="auto">NNFS4-----A----</AM>
-<AM lemma="leč-3_^(ale)" src="auto">J^-------------</AM>
+<AM lemma="leč-3_^(ale)" src="auto" selected="1">J^-------------</AM>
 <AM lemma="lečo_^(jídlo)" src="auto">NNNP2-----A----</AM>
 <AM lemma="léčit" src="auto">Vi-S---2--A----</AM>
 <AM lemma="léčit" src="auto">Vi-S---3--A---4</AM>

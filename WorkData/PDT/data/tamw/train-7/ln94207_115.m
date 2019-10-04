@@ -173,7 +173,10 @@
 <LM>w#w-ln94207-115-p2s1w19</LM>
 </w.rf>
 <form>ul</form>
-<tag lemma="ulice_:B" src="auto" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ulice_:B" src="auto">NNFXX-----A---8</AM>
+<AM lemma="ulice" src="manual" selected="1">NNFXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln94207-115-p2s1w20">
 <src.rf>manual</src.rf>

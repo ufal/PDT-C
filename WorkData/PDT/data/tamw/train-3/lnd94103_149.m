@@ -401,7 +401,10 @@
 <LM>w#w-lnd94103-149-p1s4w14</LM>
 </w.rf>
 <form>Reuter</form>
-<tag lemma="Reuter_;K" src="orig" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Reuter_;K" src="orig">NNMS1-----A----</AM>
+<AM lemma="Reuter_;K" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd94103-149-p1s4w15">
 <src.rf>manual</src.rf>
@@ -1284,7 +1287,7 @@
 <tag>
 <AM lemma="Ruckoj_;S" src="orig">NNMS4-----A----</AM>
 <AM lemma="Rucký_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Rucký_;S" src="auto" recommended="1">NNMS4-----A----</AM>
+<AM lemma="Rucký_;S" src="auto" recommended="1" selected="1">NNMS4-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94103-149-p1s8w18">
@@ -1524,7 +1527,7 @@
 <tag>
 <AM lemma="Ruckoj_;S" src="orig">NNMS4-----A----</AM>
 <AM lemma="Rucký_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Rucký_;S" src="auto" recommended="1">NNMS4-----A----</AM>
+<AM lemma="Rucký_;S" src="auto" recommended="1" selected="1">NNMS4-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94103-149-p1s10w5">
@@ -1739,6 +1742,7 @@
 <AM lemma="Ruckoj_;S" src="orig">NNMS1-----A----</AM>
 <AM lemma="Rucký_;S" src="auto" recommended="1">NNMS1-----A---2</AM>
 <AM lemma="Rucký_;S" src="auto">NNMS5-----A---2</AM>
+<AM lemma="Ruckoj_;S_,s_^(^DD**Rucký)" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94103-149-p1s11Aw9">
@@ -1962,7 +1966,7 @@
 <AM lemma="Rucká_;S" src="auto">NNFP3-----A----</AM>
 <AM lemma="Rucký_;S" src="auto">NNMP3-----A----</AM>
 <AM lemma="Rucký_;S" src="auto">NNMS6-----A---7</AM>
-<AM lemma="Rucký_;S" src="auto" recommended="1">NNMS7-----A----</AM>
+<AM lemma="Rucký_;S" src="auto" recommended="1" selected="1">NNMS7-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94103-149-p1s11Bw21">
@@ -2505,7 +2509,10 @@
 <LM>w#w-lnd94103-149-p1s14w19</LM>
 </w.rf>
 <form>tzv</form>
-<tag lemma="takzvaný_:B" src="orig" selected="1">AAXXX----1A---8</tag>
+<tag>
+<AM lemma="takzvaný_:B" src="orig">AAXXX----1A---8</AM>
+<AM lemma="takzvaný" src="manual" selected="1">AAXXX----1A---8</AM>
+</tag>
 </m>
 <m id="m-lnd94103-149-p1s14w20">
 <src.rf>manual</src.rf>
@@ -2875,7 +2882,10 @@
 <LM>w#w-lnd94103-149-p1s15w27</LM>
 </w.rf>
 <form>Reuter</form>
-<tag lemma="Reuter_;K" src="orig" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Reuter_;K" src="orig">NNMS1-----A----</AM>
+<AM lemma="Reuter_;K" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd94103-149-p1s15w28">
 <src.rf>manual</src.rf>
@@ -3375,7 +3385,10 @@
 <LM>w#w-lnd94103-149-p1s17w27</LM>
 </w.rf>
 <form>fašizmu</form>
-<tag lemma="fašismus" src="orig" selected="1">NNIS3-----A----</tag>
+<tag>
+<AM lemma="fašismus" src="orig">NNIS3-----A----</AM>
+<AM lemma="fašizmus" src="manual" selected="1">NNIS3-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd94103-149-p1s17w28">
 <src.rf>manual</src.rf>
@@ -3571,7 +3584,10 @@
 <LM>w#w-lnd94103-149-p1s19w9</LM>
 </w.rf>
 <form>Jegor</form>
-<tag lemma="Jegor_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Jegor_;S" src="orig">NNMS1-----A----</AM>
+<AM lemma="Jegor_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd94103-149-p1s19w10">
 <src.rf>manual</src.rf>
@@ -3723,7 +3739,10 @@
 <LM>w#w-lnd94103-149-p1s19w28</LM>
 </w.rf>
 <form>Gennadiji</form>
-<tag lemma="Gennadij_;S" src="orig" selected="1">NNMS3-----A----</tag>
+<tag>
+<AM lemma="Gennadij_;S" src="orig">NNMS3-----A----</AM>
+<AM lemma="Gennadij_;S_;Y" src="manual" selected="1">NNMS3-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd94103-149-p1s19w29">
 <src.rf>manual</src.rf>

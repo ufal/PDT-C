@@ -22,6 +22,7 @@
 <tag>
 <AM lemma="TelSource_;K_^(konsorcium)" src="orig">NNIS1-----A----</AM>
 <AM lemma="TelSource_;K_,t_^(konsorcium)" src="auto" recommended="1">NNNXX-----A----</AM>
+<AM lemma="TelSource_;K_^(konsorcium)" src="manual" selected="1">NNNXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95047-003-p1s1w2">
@@ -54,7 +55,10 @@
 <LM>w#w-ln95047-003-p1s1w5</LM>
 </w.rf>
 <form>SPT</form>
-<tag lemma="SPT-1_:B_;K_;b_;c_^(v_býv._názvu_SPT_Telecom)" src="auto" selected="1">NNNXX-----A---8</tag>
+<tag>
+<AM lemma="SPT-1_:B_;K_;b_;c_^(v_býv._názvu_SPT_Telecom)" src="auto">NNNXX-----A---8</AM>
+<AM lemma="SPT-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95047-003-p1s1w6">
 <src.rf>manual</src.rf>
@@ -101,6 +105,7 @@
 <tag>
 <AM lemma="TelSource_;K_^(konsorcium)" src="orig">NNIS1-----A----</AM>
 <AM lemma="TelSource_;K_,t_^(konsorcium)" src="auto" recommended="1">NNNXX-----A----</AM>
+<AM lemma="TelSource_;K_^(konsorcium)" src="manual" selected="1">NNNXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95047-003-p2s1Bw3">
@@ -133,7 +138,11 @@
 <LM>w#w-ln95047-003-p2s1Bw6</LM>
 </w.rf>
 <form>PTT</form>
-<tag lemma="PTT_:B_,t_^(telekomunikace)" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="PTT_:B_,t_^(telekomunikace)" src="orig">NNXXX-----A---8</AM>
+<AM lemma="PPT_:B" src="manual">NNXXX-----A---8</AM>
+<AM lemma="PTT-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95047-003-p2s1Bw7">
 <src.rf>manual</src.rf>
@@ -141,7 +150,10 @@
 <LM>w#w-ln95047-003-p2s1Bw7</LM>
 </w.rf>
 <form>Telecom</form>
-<tag lemma="Telecom_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="Telecom_;K" src="orig" selected="1">NNIS1-----A----</AM>
+<AM lemma="Telecom-77" src="manual">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln95047-003-p2s1Bw8">
 <src.rf>manual</src.rf>
@@ -149,7 +161,10 @@
 <LM>w#w-ln95047-003-p2s1Bw8</LM>
 </w.rf>
 <form>Netherlands</form>
-<tag lemma="Netherlands_;K_,t" src="orig" selected="1">NNIPX-----A----</tag>
+<tag>
+<AM lemma="Netherlands_;K_,t" src="orig">NNIPX-----A----</AM>
+<AM lemma="Netherlands-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln95047-003-p2s1Bw9">
 <src.rf>manual</src.rf>
@@ -169,6 +184,8 @@
 <AM lemma="Swiss_;K_,t" src="orig">AAXXX----1A----</AM>
 <AM lemma="Swiss_;K" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Swiss_;K" src="auto">NNIS4-----A----</AM>
+<AM lemma="Swiss_,t" src="manual">AAXXX----1A----</AM>
+<AM lemma="Swiss-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-ln95047-003-p2s1Bw11">
@@ -177,7 +194,10 @@
 <LM>w#w-ln95047-003-p2s1Bw11</LM>
 </w.rf>
 <form>Telecom</form>
-<tag lemma="Telecom_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="Telecom_;K" src="orig" selected="1">NNIS1-----A----</AM>
+<AM lemma="Telecom-77" src="manual">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln95047-003-p2s1Bw12">
 <src.rf>manual</src.rf>
@@ -257,7 +277,10 @@
 <LM>w#w-ln95047-003-p2s1Bw21</LM>
 </w.rf>
 <form>SPT</form>
-<tag lemma="SPT-1_:B_;K_;b_;c_^(v_býv._názvu_SPT_Telecom)" src="auto" selected="1">NNNXX-----A---8</tag>
+<tag>
+<AM lemma="SPT-1_:B_;K_;b_;c_^(v_býv._názvu_SPT_Telecom)" src="auto">NNNXX-----A---8</AM>
+<AM lemma="SPT-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95047-003-p2s1Bw22">
 <src.rf>manual</src.rf>
@@ -315,7 +338,11 @@
 <LM>w#w-ln95047-003-p2s2w5</LM>
 </w.rf>
 <form>PPT</form>
-<tag lemma="PPT_:B_;K" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="PPT_:B_;K" src="orig">NNXXX-----A---8</AM>
+<AM lemma="PPT_:B" src="manual">NNXXX-----A---8</AM>
+<AM lemma="PPT-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95047-003-p2s2w6">
 <src.rf>manual</src.rf>
@@ -339,7 +366,11 @@
 <LM>w#w-ln95047-003-p2s2w8</LM>
 </w.rf>
 <form>Frans</form>
-<tag lemma="Frans_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Frans_;S" src="orig">NNMS1-----A----</AM>
+<AM lemma="Frans-77" src="manual">F%-------------</AM>
+<AM lemma="Frans_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95047-003-p2s2w9">
 <src.rf>manual</src.rf>
@@ -347,7 +378,10 @@
 <LM>w#w-ln95047-003-p2s2w9</LM>
 </w.rf>
 <form>Menting</form>
-<tag lemma="Menting_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Menting_;S" src="orig" selected="1">NNMS1-----A----</AM>
+<AM lemma="Menting-77" src="manual">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln95047-003-p2s2w10">
 <src.rf>manual</src.rf>
@@ -514,6 +548,7 @@
 <tag>
 <AM lemma="TelSource_;K_^(konsorcium)" src="orig">NNIS4-----A----</AM>
 <AM lemma="TelSource_;K_,t_^(konsorcium)" src="auto" recommended="1">NNNXX-----A----</AM>
+<AM lemma="TelSource_;K_^(konsorcium)" src="manual" selected="1">NNNXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95047-003-p3s2w2">
@@ -584,6 +619,7 @@
 <AM lemma="Ata_;G" src="auto">NNFP2-----A----</AM>
 <AM lemma="at_,t" src="auto">XX-------------</AM>
 <AM lemma="atmosféra_:B_;H_;g_^(fyzik._jednotka)" src="auto">NNFXX-----A---8</AM>
+<AM lemma="AT-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95047-003-p3s2w10">
@@ -617,6 +653,8 @@
 <AM lemma="telefonní_:B_,x" src="auto">AAXXX----1A---8</AM>
 <AM lemma="ten_:B" src="auto">PDNS1---------8</AM>
 <AM lemma="tento_:B_^(př._t._r.,_t._č.)" src="auto">PDXXX---------8</AM>
+<AM lemma="T-3_:B" src="manual">NNXXX-----A---8</AM>
+<AM lemma="T-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95047-003-p3s2w12">
@@ -779,7 +817,10 @@
 <LM>w#w-ln95047-003-p4s1w19</LM>
 </w.rf>
 <form>Unisource</form>
-<tag lemma="Unisource_;K_,t" src="orig" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="Unisource_;K_,t" src="orig">NNIS1-----A----</AM>
+<AM lemma="Unisource_;K" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95047-003-p4s1w20">
 <src.rf>manual</src.rf>
@@ -795,7 +836,10 @@
 <LM>w#w-ln95047-003-p4s1w21</LM>
 </w.rf>
 <form>Uniworld</form>
-<tag lemma="Uniworld_;K_,t" src="orig" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="Uniworld_;K_,t" src="orig">NNIS1-----A----</AM>
+<AM lemma="Uniworld_;K" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95047-003-p4s1w22">
 <src.rf>manual</src.rf>
@@ -813,7 +857,11 @@
 <LM>w#w-ln95047-003-p5s1w1</LM>
 </w.rf>
 <form>PTT</form>
-<tag lemma="PTT_:B_,t_^(telekomunikace)" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="PTT_:B_,t_^(telekomunikace)" src="orig">NNXXX-----A---8</AM>
+<AM lemma="PTT_:B" src="manual">NNXXX-----A---8</AM>
+<AM lemma="PTT-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95047-003-p5s1w2">
 <src.rf>manual</src.rf>
@@ -923,6 +971,8 @@
 <AM lemma="Swiss_;K_,t" src="orig">AAXXX----1A----</AM>
 <AM lemma="Swiss_;K" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Swiss_;K" src="auto">NNIS4-----A----</AM>
+<AM lemma="Swiss_,t" src="manual">AAXXX----1A----</AM>
+<AM lemma="Swiss-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-ln95047-003-p5s2w2">
@@ -931,7 +981,10 @@
 <LM>w#w-ln95047-003-p5s2w2</LM>
 </w.rf>
 <form>Telecom</form>
-<tag lemma="Telecom_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="Telecom_;K" src="orig" selected="1">NNIS1-----A----</AM>
+<AM lemma="Telecom-77" src="manual">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln95047-003-p5s2w3">
 <src.rf>manual</src.rf>
@@ -981,7 +1034,7 @@
 <form>přičemž</form>
 <tag>
 <AM lemma="přičemž" src="orig">J,-------------</AM>
-<AM lemma="přičemž" src="auto" recommended="1">Db-------------</AM>
+<AM lemma="přičemž" src="auto" recommended="1" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m-ln95047-003-p5s2w9">
@@ -1047,7 +1100,10 @@
 <LM>w#w-ln95047-003-p5s2w16</LM>
 </w.rf>
 <form>dolarů</form>
-<tag lemma="dolar_;b" src="orig" selected="1">NNIP2-----A----</tag>
+<tag>
+<AM lemma="dolar_;b" src="orig">NNIP2-----A----</AM>
+<AM lemma="dolar" src="manual" selected="1">NNIP2-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95047-003-p5s2w17">
 <src.rf>manual</src.rf>

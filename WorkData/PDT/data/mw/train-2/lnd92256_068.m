@@ -19,7 +19,10 @@
 <LM>w#w-lnd92256-068-p1s1w1</LM>
 </w.rf>
 <form>ČERNÁ</form>
-<tag lemma="černý" src="auto" selected="1">AAFS1----1A----</tag>
+<tag>
+<AM lemma="černý" src="auto">AAFS1----1A----</AM>
+<AM lemma="černý_;o" src="manual" selected="1">AAFS1----1A----</AM>
+</tag>
 </m>
 <m id="m-lnd92256-068-p1s1w2">
 <src.rf>manual</src.rf>
@@ -45,7 +48,7 @@
 <form>TOKIO</form>
 <tag>
 <AM lemma="Tokyo_;G" src="orig">NNNS1-----A----</AM>
-<AM lemma="Tokio_;G" src="auto" recommended="1">NNNS1-----A----</AM>
+<AM lemma="Tokio_;G" src="auto" recommended="1" selected="1">NNNS1-----A----</AM>
 <AM lemma="Tokio_;G" src="auto">NNNS4-----A----</AM>
 <AM lemma="Tokio_;G" src="auto">NNNS5-----A----</AM>
 </tag>
@@ -86,7 +89,7 @@
 <form>TOKIO</form>
 <tag>
 <AM lemma="Tokyo_;G" src="orig">NNNS1-----A----</AM>
-<AM lemma="Tokio_;G" src="auto" recommended="1">NNNS1-----A----</AM>
+<AM lemma="Tokio_;G" src="auto" recommended="1" selected="1">NNNS1-----A----</AM>
 <AM lemma="Tokio_;G" src="auto">NNNS4-----A----</AM>
 <AM lemma="Tokio_;G" src="auto">NNNS5-----A----</AM>
 </tag>
@@ -203,7 +206,10 @@
 <LM>w#w-lnd92256-068-p3s2w13</LM>
 </w.rf>
 <form>Černou</form>
-<tag lemma="černý" src="auto" selected="1">AAFS4----1A----</tag>
+<tag>
+<AM lemma="černý" src="auto">AAFS4----1A----</AM>
+<AM lemma="černý_:o" src="manual" selected="1">AAFS4----1A----</AM>
+</tag>
 </m>
 <m id="m-lnd92256-068-p3s2w14">
 <src.rf>manual</src.rf>
@@ -301,7 +307,10 @@
 <LM>w#w-lnd92256-068-p3s3w10</LM>
 </w.rf>
 <form>dosáhly</form>
-<tag lemma="dosáhnout" src="orig" selected="1">VpTP---XR-AA---</tag>
+<tag>
+<AM lemma="dosáhnout" src="orig">VpTP---XR-AA---</AM>
+<AM lemma="dosáhnout_:W" src="manual" selected="1">VpTP---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-lnd92256-068-p3s3w11">
 <src.rf>manual</src.rf>
@@ -533,7 +542,7 @@
 <tag>
 <AM lemma="Tokyo_;G" src="orig">NNNS4-----A----</AM>
 <AM lemma="Tokio_;G" src="auto">NNNS1-----A----</AM>
-<AM lemma="Tokio_;G" src="auto" recommended="1">NNNS4-----A----</AM>
+<AM lemma="Tokio_;G" src="auto" recommended="1" selected="1">NNNS4-----A----</AM>
 <AM lemma="Tokio_;G" src="auto">NNNS5-----A----</AM>
 </tag>
 </m>
@@ -625,7 +634,10 @@
 <LM>w#w-lnd92256-068-p3s6w4</LM>
 </w.rf>
 <form>měly</form>
-<tag lemma="mít" src="orig" selected="1">VpTP---XR-AA---</tag>
+<tag>
+<AM lemma="mít" src="orig">VpTP---XR-AA---</AM>
+<AM lemma="mít_:T" src="manual" selected="1">VpTP---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-lnd92256-068-p3s6w5">
 <src.rf>manual</src.rf>
@@ -732,7 +744,10 @@
 <LM>w#w-lnd92256-068-p3s7w6</LM>
 </w.rf>
 <form>hlášeny</form>
-<tag lemma="hlásit" src="orig" selected="1">VsTP---XX-AP---</tag>
+<tag>
+<AM lemma="hlásit" src="orig">VsTP---XX-AP---</AM>
+<AM lemma="hlásit_:W" src="manual" selected="1">VsTP---XX-AP---</AM>
+</tag>
 </m>
 <m id="m-lnd92256-068-p3s7w7">
 <src.rf>manual</src.rf>
@@ -900,7 +915,7 @@
 <AM lemma="Tokio_;G" src="auto">NNNP1-----A----</AM>
 <AM lemma="Tokio_;G" src="auto">NNNP4-----A----</AM>
 <AM lemma="Tokio_;G" src="auto">NNNP5-----A----</AM>
-<AM lemma="Tokio_;G" src="auto" recommended="1">NNNS2-----A----</AM>
+<AM lemma="Tokio_;G" src="auto" recommended="1" selected="1">NNNS2-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92256-068-p3s8w20">

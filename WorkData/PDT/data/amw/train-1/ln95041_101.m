@@ -127,7 +127,10 @@
 <LM>w#w-ln95041-101-p2s1Bw7</LM>
 </w.rf>
 <form>Sejmu</form>
-<tag lemma="sejm" src="orig" selected="1">NNIS2-----A----</tag>
+<tag>
+<AM lemma="sejm" src="orig">NNIS2-----A----</AM>
+<AM lemma="Sejm_;K" src="manual" selected="1">NNIS6-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95041-101-p2s1Bw8">
 <src.rf>manual</src.rf>
@@ -247,7 +250,10 @@
 <LM>w#w-ln95041-101-p2s1Bw22</LM>
 </w.rf>
 <form>L</form>
-<tag lemma="L-0_:B_;Y" src="orig" selected="1">NNMXX-----A---8</tag>
+<tag>
+<AM lemma="L-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
+<AM lemma="L-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95041-101-p2s1Bw23">
 <src.rf>manual</src.rf>
@@ -288,7 +294,10 @@
 <LM>w#w-ln95041-101-p2s1Bw27</LM>
 </w.rf>
 <form>tzv</form>
-<tag lemma="takzvaný_:B" src="orig" selected="1">AAXXX----1A---8</tag>
+<tag>
+<AM lemma="takzvaný_:B" src="orig">AAXXX----1A---8</AM>
+<AM lemma="takzvaný" src="manual" selected="1">AAXXX----1A---8</AM>
+</tag>
 </m>
 <m id="m-ln95041-101-p2s1Bw28">
 <src.rf>manual</src.rf>
@@ -312,7 +321,10 @@
 <LM>w#w-ln95041-101-p2s1Bw30</LM>
 </w.rf>
 <form>resortů</form>
-<tag lemma="resort" src="orig" selected="1">NNIP2-----A----</tag>
+<tag>
+<AM lemma="resort" src="orig">NNIP2-----A----</AM>
+<AM lemma="resort_,s_^(^DD**rezort)" src="manual" selected="1">NNIP2-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95041-101-p2s1Bw31">
 <src.rf>manual</src.rf>
@@ -740,7 +752,10 @@
 <LM>w#w-ln95041-101-p2s3w18</LM>
 </w.rf>
 <form>resortu</form>
-<tag lemma="resort" src="orig" selected="1">NNIS2-----A----</tag>
+<tag>
+<AM lemma="resort" src="orig">NNIS2-----A----</AM>
+<AM lemma="resort_,s_^(^DD**rezort)" src="manual" selected="1">NNIS2-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95041-101-p2s3w19">
 <src.rf>manual</src.rf>
@@ -758,7 +773,7 @@
 <form>Milczanowski</form>
 <tag>
 <AM lemma="Milczanowský_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Milczanowský_;S" src="auto" recommended="1">NNMS1-----A---1</AM>
+<AM lemma="Milczanowský_;S" src="auto" recommended="1" selected="1">NNMS1-----A---1</AM>
 <AM lemma="Milczanowský_;S" src="auto">NNMS5-----A---1</AM>
 </tag>
 </m>
@@ -906,7 +921,10 @@
 <LM>w#w-ln95041-101-p2s4w17</LM>
 </w.rf>
 <form>jen</form>
-<tag lemma="jen-1" src="auto" selected="1">TT-------------</tag>
+<tag>
+<AM lemma="jen-1" src="auto">TT-------------</AM>
+<AM lemma="jen-4_^(pouze)" src="manual" selected="1">Db-------------</AM>
+</tag>
 </m>
 <m id="m-ln95041-101-p2s4w18">
 <src.rf>manual</src.rf>
@@ -970,7 +988,10 @@
 <LM>w#w-ln95041-101-p2s4w25</LM>
 </w.rf>
 <form>řekl</form>
-<tag lemma="říci" src="auto" selected="1">VpYS---XR-AA---</tag>
+<tag>
+<AM lemma="říci" src="auto">VpYS---XR-AA---</AM>
+<AM lemma="říci_:W" src="manual" selected="1">VpYS---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-ln95041-101-p2s4w26">
 <src.rf>manual</src.rf>
@@ -997,7 +1018,7 @@
 <form>Kwašniewski</form>
 <tag>
 <AM lemma="Kwašniewski_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Kwašniewský_;S" src="auto" recommended="1">NNMS1-----A---1</AM>
+<AM lemma="Kwašniewský_;S" src="auto" recommended="1" selected="1">NNMS1-----A---1</AM>
 <AM lemma="Kwašniewský_;S" src="auto">NNMS5-----A---1</AM>
 </tag>
 </m>

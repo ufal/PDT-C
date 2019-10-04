@@ -31,6 +31,7 @@
 <AM lemma="Zazi_;Y" src="orig">NNFXX-----A----</AM>
 <AM lemma="Zazi_;S" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Zazi_;S" src="auto">NNMS5-----A----</AM>
+<AM lemma="Zazi-2_;Y" src="manual" selected="1">NNFXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94103-103-p1s1w3">
@@ -105,7 +106,10 @@
 <LM>w#w-lnd94103-103-p1s1w11</LM>
 </w.rf>
 <form>Králové</form>
-<tag lemma="Král_;S" src="orig" selected="1">NNMP1-----A----</tag>
+<tag>
+<AM lemma="Král_;S" src="orig">NNMP1-----A----</AM>
+<AM lemma="Králové_;G_^(Dvůr_Králové)" src="manual" selected="1">NNFS2-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd94103-103-p1s1w12">
 <src.rf>manual</src.rf>
@@ -149,6 +153,7 @@
 <AM lemma="Zazi_;Y" src="orig">NNFXX-----A----</AM>
 <AM lemma="Zazi_;S" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Zazi_;S" src="auto">NNMS5-----A----</AM>
+<AM lemma="Zazi-2_;Y" src="manual" selected="1">NNFXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94103-103-p1s1w17">
@@ -397,6 +402,7 @@
 <AM lemma="Zazi_;Y" src="orig">NNFXX-----A----</AM>
 <AM lemma="Zazi_;S" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Zazi_;S" src="auto">NNMS5-----A----</AM>
+<AM lemma="Zazi-2_;Y" src="manual" selected="1">NNFXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94103-103-p1s3w2">
@@ -517,7 +523,10 @@
 <LM>w#w-lnd94103-103-p1s3w16</LM>
 </w.rf>
 <form>Tracyho</form>
-<tag lemma="Tracy_;Y_,t" src="auto" selected="1">NNMS2-----A----</tag>
+<tag>
+<AM lemma="Tracy_;Y_,t" src="auto">NNMS2-----A----</AM>
+<AM lemma="Tracy_;Y" src="manual" selected="1">NNMS2-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd94103-103-p1s3w17">
 <src.rf>manual</src.rf>
@@ -923,7 +932,7 @@
 <form>lidiček</form>
 <tag>
 <AM lemma="lidičky" src="orig">NNFP2-----A----</AM>
-<AM lemma="lidičky_,e" src="auto" recommended="1">NNMP2-----A----</AM>
+<AM lemma="lidičky_,e" src="auto" recommended="1" selected="1">NNMP2-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94103-103-p1s5w21">
@@ -952,6 +961,7 @@
 <AM lemma="Zazi_;Y" src="orig">NNFXX-----A----</AM>
 <AM lemma="Zazi_;S" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Zazi_;S" src="auto">NNMS5-----A----</AM>
+<AM lemma="Zazi-2_;Y" src="manual" selected="1">NNFXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94103-103-p1s5w24">
@@ -1379,7 +1389,7 @@
 <AM lemma="jedoucí-1_^(pohybovat_se,_ne_však_chůzí)_(*7t-1)" src="auto">AGIP1-----A----</AM>
 <AM lemma="jedoucí-1_^(pohybovat_se,_ne_však_chůzí)_(*7t-1)" src="auto">AGIP4-----A----</AM>
 <AM lemma="jedoucí-1_^(pohybovat_se,_ne_však_chůzí)_(*7t-1)" src="auto">AGIP5-----A----</AM>
-<AM lemma="jedoucí-1_^(pohybovat_se,_ne_však_chůzí)_(*7t-1)" src="auto">AGIS1-----A----</AM>
+<AM lemma="jedoucí-1_^(pohybovat_se,_ne_však_chůzí)_(*7t-1)" src="auto" selected="1">AGIS1-----A----</AM>
 <AM lemma="jedoucí-1_^(pohybovat_se,_ne_však_chůzí)_(*7t-1)" src="auto">AGIS4-----A----</AM>
 <AM lemma="jedoucí-1_^(pohybovat_se,_ne_však_chůzí)_(*7t-1)" src="auto">AGIS5-----A----</AM>
 <AM lemma="jedoucí-1_^(pohybovat_se,_ne_však_chůzí)_(*7t-1)" src="auto">AGMP1-----A----</AM>
@@ -2130,6 +2140,7 @@
 <AM lemma="Zazi_;Y" src="orig">NNFXX-----A----</AM>
 <AM lemma="Zazi_;S" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Zazi_;S" src="auto">NNMS5-----A----</AM>
+<AM lemma="Zazi-2_;Y" src="manual" selected="1">NNFXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94103-103-p1s12w5">
@@ -2304,7 +2315,7 @@
 <AM lemma="řádek_^(textu)" src="auto">NNIS3-----A----</AM>
 <AM lemma="řádek_^(textu)" src="auto">NNIS5-----A----</AM>
 <AM lemma="řádek_^(textu)" src="auto">NNIS6-----A----</AM>
-<AM lemma="řádka_^(textu)" src="auto" recommended="1">NNFS4-----A----</AM>
+<AM lemma="řádka_^(textu)" src="auto" recommended="1" selected="1">NNFS4-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94103-103-p1s12w26">
@@ -2516,7 +2527,7 @@
 </w.rf>
 <form>Nožka</form>
 <tag>
-<AM lemma="Nožka_;S" src="orig">NNFS1-----A----</AM>
+<AM lemma="Nožka_;S" src="orig" selected="1">NNFS1-----A----</AM>
 <AM lemma="nožka" src="auto" recommended="1">NNFS1-----A----</AM>
 </tag>
 </m>
@@ -2553,7 +2564,7 @@
 <tag>
 <AM lemma="panenka" src="orig">NNFS4-----A----</AM>
 <AM lemma="panenka-1_^(např_v_oku)" src="auto" recommended="1">NNFS4-----A----</AM>
-<AM lemma="panenka-2_^(na_hraní)" src="auto">NNFS4-----A----</AM>
+<AM lemma="panenka-2_^(na_hraní)" src="auto" selected="1">NNFS4-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94103-103-p1s13w27">
@@ -2983,7 +2994,7 @@
 </w.rf>
 <form>Jelenské</form>
 <tag>
-<AM lemma="Jelenská_;S_^(*1ý)" src="orig">NNFS2-----A----</AM>
+<AM lemma="Jelenská_;S_^(*1ý)" src="orig" selected="1">NNFS2-----A----</AM>
 <AM lemma="jelenský" src="auto">AAFP1----1A----</AM>
 <AM lemma="jelenský" src="auto">AAFP4----1A----</AM>
 <AM lemma="jelenský" src="auto">AAFP5----1A----</AM>
@@ -3257,7 +3268,10 @@
 <LM>w#w-lnd94103-103-p1s17Aw4</LM>
 </w.rf>
 <form>jen</form>
-<tag lemma="jen-1" src="auto" selected="1">TT-------------</tag>
+<tag>
+<AM lemma="jen-1" src="auto">TT-------------</AM>
+<AM lemma="jen-4_^(pouze)" src="manual" selected="1">Db-------------</AM>
+</tag>
 </m>
 <m id="m-lnd94103-103-p1s17Aw5">
 <src.rf>manual</src.rf>
@@ -3461,7 +3475,10 @@
 <LM>w#w-lnd94103-103-p1s17Cw8</LM>
 </w.rf>
 <form>Pedro</form>
-<tag lemma="Pedro_;Y_,t" src="auto" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Pedro_;Y_,t" src="auto">NNMS1-----A----</AM>
+<AM lemma="Pedro_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd94103-103-p1s17Cw9">
 <src.rf>manual</src.rf>
@@ -3470,7 +3487,7 @@
 </w.rf>
 <form>Přebytek</form>
 <tag>
-<AM lemma="Přebytek_;S" src="orig">NNMS1-----A----</AM>
+<AM lemma="Přebytek_;S" src="orig" selected="1">NNMS1-----A----</AM>
 <AM lemma="přebytek" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="přebytek" src="auto">NNIS4-----A----</AM>
 </tag>
@@ -3581,6 +3598,7 @@
 <AM lemma="Zazi_;Y" src="orig">NNFS1-----A----</AM>
 <AM lemma="Zazi_;S" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Zazi_;S" src="auto">NNMS5-----A----</AM>
+<AM lemma="Zazi-2_;Y" src="manual" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94103-103-p1s17Cw23">
@@ -3617,6 +3635,7 @@
 <AM lemma="Zazi_;Y" src="orig">NNFS1-----A----</AM>
 <AM lemma="Zazi_;S" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Zazi_;S" src="auto">NNMS5-----A----</AM>
+<AM lemma="Zazi-2_;Y" src="manual" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94103-103-p1s17Cw27">

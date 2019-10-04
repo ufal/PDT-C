@@ -85,7 +85,10 @@
 <LM>w#w-mf930708-018-p2s1w3</LM>
 </w.rf>
 <form>li</form>
-<tag lemma="li-1" src="auto" selected="1">TT-------------</tag>
+<tag>
+<AM lemma="li-1" src="auto">TT-------------</AM>
+<AM lemma="li-99_:B_;S" src="manual" selected="1">J,-------------</AM>
+</tag>
 </m>
 <m id="m-mf930708-018-p2s1w4">
 <src.rf>manual</src.rf>

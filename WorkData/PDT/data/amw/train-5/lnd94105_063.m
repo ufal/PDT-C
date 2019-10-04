@@ -83,7 +83,10 @@
 <LM>w#w-lnd94105-063-p1s1w9</LM>
 </w.rf>
 <form>Le</form>
-<tag lemma="Le-1_,t_^(franc._člen_jako_souč._jmen_a_názvů)" src="orig" selected="1">AAISX----1A----</tag>
+<tag>
+<AM lemma="Le-1_,t_^(franc._člen_jako_souč._jmen_a_názvů)" src="orig">AAISX----1A----</AM>
+<AM lemma="Le-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-lnd94105-063-p1s1w10">
 <src.rf>manual</src.rf>
@@ -91,7 +94,10 @@
 <LM>w#w-lnd94105-063-p1s1w10</LM>
 </w.rf>
 <form>Monde</form>
-<tag lemma="Monde_;R_^(Le_Monde)" src="orig" selected="1">NNISX-----A----</tag>
+<tag>
+<AM lemma="Monde_;R_^(Le_Monde)" src="orig">NNISX-----A----</AM>
+<AM lemma="Monde-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 </s>
 </mdata>

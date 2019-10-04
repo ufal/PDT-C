@@ -59,7 +59,10 @@
 <LM>w#w-ln94203-94-p1s1w6</LM>
 </w.rf>
 <form>The</form>
-<tag lemma="the-1_,t_^(obv._souč._anglických_názvů,_urč._člen)" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="the-1_,t_^(obv._souč._anglických_názvů,_urč._člen)" src="orig">AAXXX----1A----</AM>
+<AM lemma="The-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94203-94-p1s1w7">
 <src.rf>manual</src.rf>
@@ -67,7 +70,10 @@
 <LM>w#w-ln94203-94-p1s1w7</LM>
 </w.rf>
 <form>Jungle</form>
-<tag lemma="jungle_,t" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="jungle_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="Jungle-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94203-94-p1s1w8">
 <src.rf>manual</src.rf>
@@ -80,6 +86,7 @@
 <AM lemma="book_,t_^(anglicky_kniha)" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="book_,t_^(anglicky_kniha)" src="auto">NNIS4-----A----</AM>
 <AM lemma="booknout_:W" src="auto">VpYS---XR-AA--6</AM>
+<AM lemma="Book-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-ln94203-94-p1s1w9">
@@ -176,7 +183,10 @@
 <LM>w#w-ln94203-94-p1s1w20</LM>
 </w.rf>
 <form>Walló</form>
-<tag lemma="Walló_;S" src="auto" selected="1">NNMXX-----A----</tag>
+<tag>
+<AM lemma="Walló_;S" src="auto">NNMXX-----A----</AM>
+<AM lemma="Walló_;S" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94203-94-p1s1w21">
 <src.rf>manual</src.rf>
@@ -338,7 +348,10 @@
 <LM>w#w-ln94203-94-p1s2w4</LM>
 </w.rf>
 <form>Mauglího</form>
-<tag lemma="Mauglí_;S" src="auto" selected="1">NNMS2-----A----</tag>
+<tag>
+<AM lemma="Mauglí_;S" src="auto">NNMS2-----A----</AM>
+<AM lemma="Mauglí_;Y" src="manual" selected="1">NNMS2-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94203-94-p1s2w5">
 <src.rf>manual</src.rf>
@@ -532,7 +545,10 @@
 <LM>w#w-ln94203-94-p1s3w4</LM>
 </w.rf>
 <form>Mauglího</form>
-<tag lemma="Mauglí_;S" src="auto" selected="1">NNMS2-----A----</tag>
+<tag>
+<AM lemma="Mauglí_;S" src="auto">NNMS2-----A----</AM>
+<AM lemma="Mauglí_;Y" src="manual" selected="1">NNMS2-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94203-94-p1s3w5">
 <src.rf>manual</src.rf>
@@ -976,7 +992,10 @@
 <LM>w#w-ln94203-94-p1s5w12</LM>
 </w.rf>
 <form>Balúem</form>
-<tag lemma="Balú_;S" src="auto" selected="1">NNMS7-----A----</tag>
+<tag>
+<AM lemma="Balú_;S" src="auto">NNMS7-----A----</AM>
+<AM lemma="Balú_;Y" src="manual" selected="1">NNMS7-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94203-94-p1s5w13">
 <src.rf>manual</src.rf>
@@ -1142,6 +1161,7 @@
 <AM lemma="bič-99_:B_;S" src="orig">NNXXX-----A---8</AM>
 <AM lemma="bič" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="bič" src="auto">NNIS4-----A----</AM>
+<AM lemma="bič-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-ln94203-94-p1s6w3">

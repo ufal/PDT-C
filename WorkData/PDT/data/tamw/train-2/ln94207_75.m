@@ -141,7 +141,10 @@
 <LM>w#w-ln94207-75-p2s1Aw13</LM>
 </w.rf>
 <form>The</form>
-<tag lemma="the-1_,t_^(obv._souč._anglických_názvů,_urč._člen)" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="the-1_,t_^(obv._souč._anglických_názvů,_urč._člen)" src="orig">AAXXX----1A----</AM>
+<AM lemma="The-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94207-75-p2s1Aw14">
 <src.rf>manual</src.rf>
@@ -149,7 +152,10 @@
 <LM>w#w-ln94207-75-p2s1Aw14</LM>
 </w.rf>
 <form>English</form>
-<tag lemma="English_;K_,t" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="English_;K_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="English-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94207-75-p2s1Aw15">
 <src.rf>manual</src.rf>
@@ -157,7 +163,10 @@
 <LM>w#w-ln94207-75-p2s1Aw15</LM>
 </w.rf>
 <form>College</form>
-<tag lemma="College_;K_,t" src="orig" selected="1">NNFXX-----A----</tag>
+<tag>
+<AM lemma="College_;K_,t" src="orig">NNFXX-----A----</AM>
+<AM lemma="College-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94207-75-p2s1Aw16">
 <src.rf>manual</src.rf>
@@ -165,7 +174,10 @@
 <LM>w#w-ln94207-75-p2s1Aw16</LM>
 </w.rf>
 <form>in</form>
-<tag lemma="in-1_,t_^(angl._v)" src="orig" selected="1">RR--X----------</tag>
+<tag>
+<AM lemma="in-1_,t_^(angl._v)" src="orig">RR--X----------</AM>
+<AM lemma="in-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94207-75-p2s1Aw17">
 <src.rf>manual</src.rf>
@@ -176,6 +188,7 @@
 <tag>
 <AM lemma="Prague_;G_;K_,t" src="orig">NNFXX-----A----</AM>
 <AM lemma="Prague_;G" src="auto" recommended="1">NNXXX-----A----</AM>
+<AM lemma="Prague-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 </s>
@@ -401,7 +414,10 @@
 <LM>w#w-ln94207-75-p2s3w2</LM>
 </w.rf>
 <form>socialismu</form>
-<tag lemma="socialismus" src="orig" selected="1">NNIS2-----A----</tag>
+<tag>
+<AM lemma="socialismus" src="orig">NNIS2-----A----</AM>
+<AM lemma="socialismus_,s_^(^DD**socializmus)" src="manual" selected="1">NNIS2-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94207-75-p2s3w3">
 <src.rf>manual</src.rf>
@@ -695,7 +711,7 @@
 <form>nikoliv</form>
 <tag>
 <AM lemma="nikoliv" src="orig">Db-------------</AM>
-<AM lemma="nikoli" src="auto" recommended="1">TT------------1</AM>
+<AM lemma="nikoli" src="auto" recommended="1" selected="1">TT------------1</AM>
 </tag>
 </m>
 <m id="m-ln94207-75-p2s5w9">
@@ -1116,7 +1132,7 @@
 <form>kterémukoli</form>
 <tag>
 <AM lemma="kterýkoliv" src="orig">PZZS3---------1</AM>
-<AM lemma="kterýkoli" src="auto" recommended="1">PZZS3----------</AM>
+<AM lemma="kterýkoli" src="auto" recommended="1" selected="1">PZZS3----------</AM>
 </tag>
 </m>
 <m id="m-ln94207-75-p4s1w4">
@@ -1157,7 +1173,10 @@
 <LM>w#w-ln94207-75-p4s1w8</LM>
 </w.rf>
 <form>tzv</form>
-<tag lemma="takzvaný_:B" src="orig" selected="1">AAXXX----1A---8</tag>
+<tag>
+<AM lemma="takzvaný_:B" src="orig">AAXXX----1A---8</AM>
+<AM lemma="takzvaný" src="manual" selected="1">AAXXX----1A---8</AM>
+</tag>
 </m>
 <m id="m-ln94207-75-p4s1w9">
 <src.rf>manual</src.rf>
@@ -1373,7 +1392,10 @@
 <LM>w#w-ln94207-75-p4s1w35</LM>
 </w.rf>
 <form>The</form>
-<tag lemma="the-1_,t_^(obv._souč._anglických_názvů,_urč._člen)" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="the-1_,t_^(obv._souč._anglických_názvů,_urč._člen)" src="orig">AAXXX----1A----</AM>
+<AM lemma="The-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94207-75-p4s1w36">
 <src.rf>manual</src.rf>
@@ -1381,7 +1403,10 @@
 <LM>w#w-ln94207-75-p4s1w36</LM>
 </w.rf>
 <form>English</form>
-<tag lemma="English_;K_,t" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="English_;K_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="English-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94207-75-p4s1w37">
 <src.rf>manual</src.rf>
@@ -1389,7 +1414,10 @@
 <LM>w#w-ln94207-75-p4s1w37</LM>
 </w.rf>
 <form>College</form>
-<tag lemma="College_;K_,t" src="orig" selected="1">NNFXX-----A----</tag>
+<tag>
+<AM lemma="College_;K_,t" src="orig">NNFXX-----A----</AM>
+<AM lemma="College-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94207-75-p4s1w38">
 <src.rf>manual</src.rf>
@@ -1397,7 +1425,10 @@
 <LM>w#w-ln94207-75-p4s1w38</LM>
 </w.rf>
 <form>in</form>
-<tag lemma="in-1_,t_^(angl._v)" src="orig" selected="1">RR--X----------</tag>
+<tag>
+<AM lemma="in-1_,t_^(angl._v)" src="orig">RR--X----------</AM>
+<AM lemma="in-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94207-75-p4s1w39">
 <src.rf>manual</src.rf>
@@ -1408,6 +1439,7 @@
 <tag>
 <AM lemma="Prague_;G_;K_,t" src="orig">NNFXX-----A----</AM>
 <AM lemma="Prague_;G" src="auto" recommended="1">NNXXX-----A----</AM>
+<AM lemma="Prague-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-ln94207-75-p4s1w40">
@@ -2316,7 +2348,7 @@
 <form>ovšem</form>
 <tag>
 <AM lemma="ovšem-1_^(avšak,_však;_odporovací_spojka)" src="orig">J^-------------</AM>
-<AM lemma="ovšem" src="auto" recommended="1">TT-------------</AM>
+<AM lemma="ovšem" src="auto" recommended="1" selected="1">TT-------------</AM>
 </tag>
 </m>
 <m id="m-ln94207-75-p7s3w17">
@@ -2495,7 +2527,10 @@
 <LM>w#w-ln94207-75-p7s4w3</LM>
 </w.rf>
 <form>English</form>
-<tag lemma="English_;K_,t" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="English_;K_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="English-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94207-75-p7s4w4">
 <src.rf>manual</src.rf>
@@ -2503,7 +2538,10 @@
 <LM>w#w-ln94207-75-p7s4w4</LM>
 </w.rf>
 <form>College</form>
-<tag lemma="College_;K_,t" src="orig" selected="1">NNFXX-----A----</tag>
+<tag>
+<AM lemma="College_;K_,t" src="orig">NNFXX-----A----</AM>
+<AM lemma="College-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94207-75-p7s4w5">
 <src.rf>manual</src.rf>
@@ -2660,7 +2698,7 @@
 <tag>
 <AM lemma="přesto" src="orig">Dg-------1A----</AM>
 <AM lemma="přesto-1" src="auto" recommended="1">Db-------------</AM>
-<AM lemma="přesto-2" src="auto">J^-------------</AM>
+<AM lemma="přesto-2" src="auto" selected="1">J^-------------</AM>
 </tag>
 </m>
 <m id="m-ln94207-75-p7s5w2">
@@ -3059,7 +3097,10 @@
 <LM>w#w-ln94207-75-p8s2w7</LM>
 </w.rf>
 <form>English</form>
-<tag lemma="English_;K_,t" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="English_;K_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="English-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94207-75-p8s2w8">
 <src.rf>manual</src.rf>
@@ -3067,7 +3108,10 @@
 <LM>w#w-ln94207-75-p8s2w8</LM>
 </w.rf>
 <form>College</form>
-<tag lemma="College_;K_,t" src="orig" selected="1">NNFXX-----A----</tag>
+<tag>
+<AM lemma="College_;K_,t" src="orig">NNFXX-----A----</AM>
+<AM lemma="College-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94207-75-p8s2w9">
 <src.rf>manual</src.rf>
@@ -3189,7 +3233,10 @@
 <LM>w#w-ln94207-75-p8s3w8</LM>
 </w.rf>
 <form>li</form>
-<tag lemma="li-1" src="auto" selected="1">TT-------------</tag>
+<tag>
+<AM lemma="li-1" src="auto">TT-------------</AM>
+<AM lemma="li-2" src="manual" selected="1">J,-------------</AM>
+</tag>
 </m>
 <m id="m-ln94207-75-p8s3w9">
 <src.rf>manual</src.rf>
@@ -4255,7 +4302,7 @@
 <form>ryze</form>
 <tag>
 <AM lemma="ryzí" src="orig">Dg-------1A----</AM>
-<AM lemma="ryze" src="auto" recommended="1">Dg-------1A----</AM>
+<AM lemma="ryze" src="auto" recommended="1" selected="1">Dg-------1A----</AM>
 </tag>
 </m>
 <m id="m-ln94207-75-p9s3Aw3">
@@ -5189,7 +5236,10 @@
 <LM>w#w-ln94207-75-p10s1w15</LM>
 </w.rf>
 <form>English</form>
-<tag lemma="English_;K_,t" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="English_;K_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="English-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94207-75-p10s1w16">
 <src.rf>manual</src.rf>
@@ -5197,7 +5247,10 @@
 <LM>w#w-ln94207-75-p10s1w16</LM>
 </w.rf>
 <form>College</form>
-<tag lemma="College_;K_,t" src="orig" selected="1">NNFXX-----A----</tag>
+<tag>
+<AM lemma="College_;K_,t" src="orig">NNFXX-----A----</AM>
+<AM lemma="College-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94207-75-p10s1w17">
 <src.rf>manual</src.rf>
@@ -5681,7 +5734,10 @@
 <LM>w#w-ln94207-75-p11s1w5</LM>
 </w.rf>
 <form>English</form>
-<tag lemma="English_;K_,t" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="English_;K_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="English-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94207-75-p11s1w6">
 <src.rf>manual</src.rf>
@@ -5689,7 +5745,10 @@
 <LM>w#w-ln94207-75-p11s1w6</LM>
 </w.rf>
 <form>College</form>
-<tag lemma="College_;K_,t" src="orig" selected="1">NNFXX-----A----</tag>
+<tag>
+<AM lemma="College_;K_,t" src="orig">NNFXX-----A----</AM>
+<AM lemma="College-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94207-75-p11s1w7">
 <src.rf>manual</src.rf>
@@ -6079,7 +6138,10 @@
 <LM>w#w-ln94207-75-p11s4w14</LM>
 </w.rf>
 <form>IGSCE</form>
-<tag lemma="IGSCE_:B_;m" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="IGSCE_:B_;m" src="orig">NNIXX-----A---8</AM>
+<AM lemma="IGSCE-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94207-75-p11s4w15">
 <src.rf>manual</src.rf>
@@ -6099,6 +6161,7 @@
 <AM lemma="International-2_;K_,t" src="orig">NNXXX-----A---1</AM>
 <AM lemma="International_,t" src="auto">NNISX-----A----</AM>
 <AM lemma="international_,t" src="auto" recommended="1">AAXXX----1A----</AM>
+<AM lemma="International-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-ln94207-75-p11s4w17">
@@ -6107,7 +6170,10 @@
 <LM>w#w-ln94207-75-p11s4w17</LM>
 </w.rf>
 <form>Certificate</form>
-<tag lemma="Certificate_;m_,t" src="orig" selected="1">NNIXX-----A----</tag>
+<tag>
+<AM lemma="Certificate_;m_,t" src="orig">NNIXX-----A----</AM>
+<AM lemma="Certificate-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94207-75-p11s4w18">
 <src.rf>manual</src.rf>
@@ -6115,7 +6181,10 @@
 <LM>w#w-ln94207-75-p11s4w18</LM>
 </w.rf>
 <form>of</form>
-<tag lemma="of-1_,t_^(obv._souč._anglických_názvů,_předl._2._p.)" src="orig" selected="1">RR--X----------</tag>
+<tag>
+<AM lemma="of-1_,t_^(obv._souč._anglických_názvů,_předl._2._p.)" src="orig">RR--X----------</AM>
+<AM lemma="of-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94207-75-p11s4w19">
 <src.rf>manual</src.rf>
@@ -6123,7 +6192,10 @@
 <LM>w#w-ln94207-75-p11s4w19</LM>
 </w.rf>
 <form>Secondary</form>
-<tag lemma="Secondary_;m_,t" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="Secondary_;m_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="Secondary-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94207-75-p11s4w20">
 <src.rf>manual</src.rf>
@@ -6131,7 +6203,10 @@
 <LM>w#w-ln94207-75-p11s4w20</LM>
 </w.rf>
 <form>Education</form>
-<tag lemma="Education_;m_,t" src="orig" selected="1">NNNXX-----A----</tag>
+<tag>
+<AM lemma="Education_;m_,t" src="orig">NNNXX-----A----</AM>
+<AM lemma="Education-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94207-75-p11s4w21">
 <src.rf>manual</src.rf>
@@ -6213,7 +6288,10 @@
 <LM>w#w-ln94207-75-p11s5w8</LM>
 </w.rf>
 <form>IB</form>
-<tag lemma="IB_:B" src="auto" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="IB_:B" src="auto">NNXXX-----A---8</AM>
+<AM lemma="IB-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94207-75-p11s5w9">
 <src.rf>manual</src.rf>
@@ -6233,6 +6311,7 @@
 <AM lemma="International-2_;K_,t" src="orig">NNXXX-----A---1</AM>
 <AM lemma="International_,t" src="auto">NNISX-----A----</AM>
 <AM lemma="international_,t" src="auto" recommended="1">AAXXX----1A----</AM>
+<AM lemma="International-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-ln94207-75-p11s5w11">
@@ -6241,7 +6320,10 @@
 <LM>w#w-ln94207-75-p11s5w11</LM>
 </w.rf>
 <form>Baccalaureate</form>
-<tag lemma="Baccalaureate_;m_,t" src="orig" selected="1">NNIXX-----A----</tag>
+<tag>
+<AM lemma="Baccalaureate_;m_,t" src="orig">NNIXX-----A----</AM>
+<AM lemma="Baccalaureate-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94207-75-p11s5w12">
 <src.rf>manual</src.rf>
@@ -6491,7 +6573,10 @@
 <LM>w#w-ln94207-75-p11s6w14</LM>
 </w.rf>
 <form>English</form>
-<tag lemma="English_;K_,t" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="English_;K_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="English-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94207-75-p11s6w15">
 <src.rf>manual</src.rf>
@@ -6499,7 +6584,10 @@
 <LM>w#w-ln94207-75-p11s6w15</LM>
 </w.rf>
 <form>College</form>
-<tag lemma="College_;K_,t" src="orig" selected="1">NNFXX-----A----</tag>
+<tag>
+<AM lemma="College_;K_,t" src="orig">NNFXX-----A----</AM>
+<AM lemma="College-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94207-75-p11s6w16">
 <src.rf>manual</src.rf>
@@ -6634,6 +6722,7 @@
 <AM lemma="IB_:B" src="auto" recommended="1">NNXXX-----A---8</AM>
 <AM lemma="Ibo-1_;G" src="auto">NNNP2-----A----</AM>
 <AM lemma="ibidem_:B" src="auto">Db------------8</AM>
+<AM lemma="IB-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94207-75-p12s1w14">
@@ -6780,7 +6869,10 @@
 <LM>w#w-ln94207-75-p12s2w7</LM>
 </w.rf>
 <form>kurz</form>
-<tag lemma="kurs" src="auto" selected="1">NNIS4-----A----</tag>
+<tag>
+<AM lemma="kurs" src="auto">NNIS4-----A----</AM>
+<AM lemma="kurs_,s_^(^DD**kurz)" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94207-75-p12s2w8">
 <src.rf>manual</src.rf>
@@ -6804,7 +6896,10 @@
 <LM>w#w-ln94207-75-p12s2w10</LM>
 </w.rf>
 <form>IGSCE</form>
-<tag lemma="IGSCE_:B_;m" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="IGSCE_:B_;m" src="orig">NNIXX-----A---8</AM>
+<AM lemma="IGSCE-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94207-75-p12s2w11">
 <src.rf>manual</src.rf>
@@ -7613,7 +7708,7 @@
 </w.rf>
 <form>Ely</form>
 <tag>
-<AM lemma="Ely_;G" src="orig">NNNXX-----A----</AM>
+<AM lemma="Ely_;G" src="orig" selected="1">NNNXX-----A----</AM>
 <AM lemma="Ela_;Y_,h" src="auto">NNFP1-----A----</AM>
 <AM lemma="Ela_;Y_,h" src="auto">NNFP4-----A----</AM>
 <AM lemma="Ela_;Y_,h" src="auto">NNFP5-----A----</AM>
@@ -7705,7 +7800,7 @@
 <tag>
 <AM lemma="starost" src="orig">NNFS6-----A----</AM>
 <AM lemma="starost-1" src="auto">NNFP1-----A----</AM>
-<AM lemma="starost-1" src="auto">NNFP4-----A----</AM>
+<AM lemma="starost-1" src="auto" selected="1">NNFP4-----A----</AM>
 <AM lemma="starost-1" src="auto">NNFP5-----A----</AM>
 <AM lemma="starost-1" src="auto">NNFS2-----A----</AM>
 <AM lemma="starost-1" src="auto">NNFS3-----A----</AM>
@@ -8530,7 +8625,10 @@
 <LM>w#w-ln94207-75-p13s14w20</LM>
 </w.rf>
 <form>Geelong</form>
-<tag lemma="Geelong_;K_,t" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="Geelong_;K_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="Geelong-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94207-75-p13s14w21">
 <src.rf>manual</src.rf>
@@ -8538,7 +8636,10 @@
 <LM>w#w-ln94207-75-p13s14w21</LM>
 </w.rf>
 <form>Grammar</form>
-<tag lemma="Grammar_;K_,t" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="Grammar_;K_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="Grammar-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94207-75-p13s14w22">
 <src.rf>manual</src.rf>
@@ -8546,7 +8647,10 @@
 <LM>w#w-ln94207-75-p13s14w22</LM>
 </w.rf>
 <form>School</form>
-<tag lemma="School_;K_,t" src="orig" selected="1">NNFXX-----A----</tag>
+<tag>
+<AM lemma="School_;K_,t" src="orig">NNFXX-----A----</AM>
+<AM lemma="School-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94207-75-p13s14w23">
 <src.rf>manual</src.rf>
@@ -8808,7 +8912,10 @@
 <LM>w#w-ln94207-75-p13s16Bw15</LM>
 </w.rf>
 <form>English</form>
-<tag lemma="English_;K_,t" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="English_;K_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="English-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94207-75-p13s16Bw16">
 <src.rf>manual</src.rf>
@@ -8816,7 +8923,10 @@
 <LM>w#w-ln94207-75-p13s16Bw16</LM>
 </w.rf>
 <form>College</form>
-<tag lemma="College_;K_,t" src="orig" selected="1">NNFXX-----A----</tag>
+<tag>
+<AM lemma="College_;K_,t" src="orig">NNFXX-----A----</AM>
+<AM lemma="College-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94207-75-p13s16Bw17">
 <src.rf>manual</src.rf>

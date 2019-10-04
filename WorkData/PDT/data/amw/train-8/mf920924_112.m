@@ -69,7 +69,10 @@
 <LM>w#w-mf920924-112-p2s1w4</LM>
 </w.rf>
 <form>ČSFR</form>
-<tag lemma="ČSFR-1_:B_;G_^(Čs._federativní_republika)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ČSFR-1_:B_;G_^(Čs._federativní_republika)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČSFR-1_:B_;G_^(Čs._federativní_republika)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920924-112-p2s1w5">
 <src.rf>manual</src.rf>
@@ -193,7 +196,10 @@
 <LM>w#w-mf920924-112-p3s2w4</LM>
 </w.rf>
 <form>vedou</form>
-<tag lemma="vést" src="auto" selected="1">VB-P---3P-AA---</tag>
+<tag>
+<AM lemma="vést" src="auto">VB-P---3P-AA---</AM>
+<AM lemma="vést_:T" src="manual" selected="1">VB-P---3P-AA---</AM>
+</tag>
 </m>
 <m id="m-mf920924-112-p3s2w5">
 <src.rf>manual</src.rf>
@@ -599,7 +605,10 @@
 <LM>w#w-mf920924-112-p3s5w11</LM>
 </w.rf>
 <form>prohrály</form>
-<tag lemma="prohrát" src="orig" selected="1">VpTP---XR-AA---</tag>
+<tag>
+<AM lemma="prohrát" src="orig">VpTP---XR-AA---</AM>
+<AM lemma="prohrát_:W" src="manual" selected="1">VpTP---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-mf920924-112-p3s5w12">
 <src.rf>manual</src.rf>
@@ -668,7 +677,7 @@
 <tag>
 <AM lemma="přesto" src="orig">Dg-------1A----</AM>
 <AM lemma="přesto-1" src="auto">Db-------------</AM>
-<AM lemma="přesto-2" src="auto" recommended="1">J^-------------</AM>
+<AM lemma="přesto-2" src="auto" recommended="1" selected="1">J^-------------</AM>
 </tag>
 </m>
 <m id="m-mf920924-112-p3s6w3">
@@ -991,7 +1000,10 @@
 <LM>w#w-mf920924-112-p3s7w15</LM>
 </w.rf>
 <form>nechali</form>
-<tag lemma="nechat_:T" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag>
+<AM lemma="nechat_:T" src="orig">VpMP---XR-AA---</AM>
+<AM lemma="nechat_:W" src="manual" selected="1">VpMP---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-mf920924-112-p3s7w16">
 <src.rf>manual</src.rf>

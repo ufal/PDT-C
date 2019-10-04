@@ -69,7 +69,10 @@
 <LM>w#w-ln94200-141-p1s2w2</LM>
 </w.rf>
 <form>LN</form>
-<tag lemma="LN-1_:B_;R_^(Lidové_noviny,_deník)" src="orig" selected="1">NNFPX-----A---8</tag>
+<tag>
+<AM lemma="LN-1_:B_;R_^(Lidové_noviny,_deník)" src="orig">NNFPX-----A---8</AM>
+<AM lemma="LN-1_:B_;K_;R_^(Lidové_noviny)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94200-141-p1s2w3">
 <src.rf>manual</src.rf>
@@ -143,7 +146,10 @@
 <LM>w#w-ln94200-141-p2s1w3</LM>
 </w.rf>
 <form>Hanák</form>
-<tag lemma="Hanák_;E" src="auto" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Hanák_;E" src="auto">NNMS1-----A----</AM>
+<AM lemma="Hanák_;E_;S" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94200-141-p2s1w4">
 <src.rf>manual</src.rf>
@@ -547,7 +553,10 @@
 <LM>w#w-ln94200-141-p3s2w3</LM>
 </w.rf>
 <form>socialismu</form>
-<tag lemma="socialismus" src="orig" selected="1">NNIS2-----A----</tag>
+<tag>
+<AM lemma="socialismus" src="orig">NNIS2-----A----</AM>
+<AM lemma="socialismus_,s_^(^DD**socializmus)" src="manual" selected="1">NNIS2-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94200-141-p3s2w4">
 <src.rf>manual</src.rf>
@@ -1263,7 +1272,10 @@
 <LM>w#w-ln94200-141-p4s2w9</LM>
 </w.rf>
 <form>jen</form>
-<tag lemma="jen-1" src="auto" selected="1">TT-------------</tag>
+<tag>
+<AM lemma="jen-1" src="auto">TT-------------</AM>
+<AM lemma="jen-4_^(pouze)" src="manual" selected="1">Db-------------</AM>
+</tag>
 </m>
 <m id="m-ln94200-141-p4s2w10">
 <src.rf>manual</src.rf>
@@ -1321,7 +1333,10 @@
 <LM>w#w-ln94200-141-p5s1w3</LM>
 </w.rf>
 <form>Odolena</form>
-<tag lemma="Odolen_;G" src="auto" selected="1">NNMS2-----A----</tag>
+<tag>
+<AM lemma="Odolen_;G" src="auto">NNMS2-----A----</AM>
+<AM lemma="Odolen_;Y" src="manual" selected="1">NNMS2-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94200-141-p5s1w4">
 <src.rf>manual</src.rf>
@@ -1330,10 +1345,15 @@
 </w.rf>
 <form>Klindery</form>
 <tag>
-<AM lemma="Klindera_;S" src="orig">NNMS2-----A----</AM>
+<AM lemma="Klindera_;S" src="orig" selected="1">NNMS2-----A----</AM>
 <AM lemma="Klinder_;S" src="auto">NNMP4-----A----</AM>
 <AM lemma="Klinder_;S" src="auto" recommended="1">NNMP7-----A----</AM>
 </tag>
+<comment>
+<LM type="Other">
+<text>ponechána původní analýza</text>
+</LM>
+</comment>
 </m>
 <m id="m-ln94200-141-p5s1w5">
 <src.rf>manual</src.rf>

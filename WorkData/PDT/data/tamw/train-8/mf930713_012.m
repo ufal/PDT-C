@@ -231,7 +231,10 @@
 <LM>w#w-mf930713-012-p2s1Bw21</LM>
 </w.rf>
 <form>vydal</form>
-<tag lemma="vydat-1_:W_^(emitovat:_cenné_papíry,_knihu,_zvuk,...)" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag>
+<AM lemma="vydat-1_:W_^(emitovat:_cenné_papíry,_knihu,_zvuk,...)" src="orig">VpYS---XR-AA---</AM>
+<AM lemma="vydat" src="manual" selected="1">VpYS---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-mf930713-012-p2s1Bw22">
 <src.rf>manual</src.rf>
@@ -925,7 +928,10 @@
 <LM>w#w-mf930713-012-p2s4w5</LM>
 </w.rf>
 <form>víc</form>
-<tag lemma="hodně-2" src="auto" selected="1">Dg-------2A---1</tag>
+<tag>
+<AM lemma="hodně-2" src="auto">Dg-------2A---1</AM>
+<AM lemma="hodně-3" src="manual" selected="1">Dg-------2A---1</AM>
+</tag>
 </m>
 <m id="m-mf930713-012-p2s4w6">
 <src.rf>manual</src.rf>
@@ -1281,7 +1287,7 @@
 <AM lemma="playboy" src="orig">NNMP7-----A----</AM>
 <AM lemma="plejboj" src="auto">NNMP1-----A----</AM>
 <AM lemma="plejboj" src="auto">NNMP5-----A----</AM>
-<AM lemma="plejboj" src="auto" recommended="1">NNMP7-----A----</AM>
+<AM lemma="plejboj" src="auto" recommended="1" selected="1">NNMP7-----A----</AM>
 <AM lemma="plejboj" src="auto">NNMS3-----A----</AM>
 <AM lemma="plejboj" src="auto">NNMS5-----A----</AM>
 <AM lemma="plejboj" src="auto">NNMS6-----A----</AM>

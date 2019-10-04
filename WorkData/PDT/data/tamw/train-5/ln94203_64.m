@@ -59,7 +59,10 @@
 <LM>w#w-ln94203-64-p1s1w6</LM>
 </w.rf>
 <form>vydání</form>
-<tag lemma="vydání-2_^(někomu_konkrétnímu:_př._zločince,_v._věc_zpět)_(*5at-2)" src="orig" selected="1">NNNS4-----A----</tag>
+<tag>
+<AM lemma="vydání-2_^(někomu_konkrétnímu:_př._zločince,_v._věc_zpět)_(*5at-2)" src="orig">NNNS4-----A----</AM>
+<AM lemma="vydání_^(*3at)" src="manual" selected="1">NNNS4-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94203-64-p1s1w7">
 <src.rf>manual</src.rf>
@@ -83,7 +86,10 @@
 <LM>w#w-ln94203-64-p1s1w9</LM>
 </w.rf>
 <form>Hamasu</form>
-<tag lemma="Hamas-2_;G_;K_;p" src="auto" selected="1">NNIS2-----A----</tag>
+<tag>
+<AM lemma="Hamas-2_;G_;K_;p" src="auto">NNIS2-----A----</AM>
+<AM lemma="Hamas-2_;G_;K" src="manual" selected="1">NNIS2-----A----</AM>
+</tag>
 </m>
 </s>
 <s id="m-ln94203-64-p2s1A">
@@ -127,7 +133,10 @@
 <LM>w#w-ln94203-64-p2s1Bw2</LM>
 </w.rf>
 <form>vydání</form>
-<tag lemma="vydání-2_^(někomu_konkrétnímu:_př._zločince,_v._věc_zpět)_(*5at-2)" src="orig" selected="1">NNNS4-----A----</tag>
+<tag>
+<AM lemma="vydání-2_^(někomu_konkrétnímu:_př._zločince,_v._věc_zpět)_(*5at-2)" src="orig">NNNS4-----A----</AM>
+<AM lemma="vydání_^(*3at)" src="manual" selected="1">NNNS4-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94203-64-p2s1Bw3">
 <src.rf>manual</src.rf>
@@ -272,6 +281,7 @@
 <AM lemma="telit_:T" src="auto">Vi-S---2--A----</AM>
 <AM lemma="telit_:T" src="auto">Vi-S---3--A---4</AM>
 <AM lemma="tlo_,n" src="auto">NNNP2-----A----</AM>
+<AM lemma="Tel-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-ln94203-64-p2s1Bw20">
@@ -620,7 +630,10 @@
 <LM>w#w-ln94203-64-p3s1w25</LM>
 </w.rf>
 <form>Zijádovi</form>
-<tag lemma="Zijád_;S" src="auto" selected="1">NNMS3-----A----</tag>
+<tag>
+<AM lemma="Zijád_;S" src="auto">NNMS3-----A----</AM>
+<AM lemma="Zijád_;S_;Y" src="manual" selected="1">NNMS3-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94203-64-p3s1w26">
 <src.rf>manual</src.rf>
@@ -702,7 +715,10 @@
 <LM>w#w-ln94203-64-p3s2w8</LM>
 </w.rf>
 <form>Hamas</form>
-<tag lemma="Hamas-2_;G_;K_;p" src="auto" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="Hamas-2_;G_;K_;p" src="auto">NNIS1-----A----</AM>
+<AM lemma="Hamas-2_;G_;K" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94203-64-p3s2w9">
 <src.rf>manual</src.rf>
@@ -1028,7 +1044,10 @@
 <LM>w#w-ln94203-64-p4s2w3</LM>
 </w.rf>
 <form>začaly</form>
-<tag lemma="začít-1_^(začnout)" src="auto" selected="1">VpTP---XR-AA---</tag>
+<tag>
+<AM lemma="začít-1_^(začnout)" src="auto">VpTP---XR-AA---</AM>
+<AM lemma="začít-1_:W_^(začnout)" src="manual" selected="1">VpTP---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-ln94203-64-p4s2w4">
 <src.rf>manual</src.rf>
@@ -1102,7 +1121,10 @@
 <LM>w#w-ln94203-64-p4s3w1</LM>
 </w.rf>
 <form>Více</form>
-<tag lemma="hodně-2" src="auto" selected="1">Dg-------2A----</tag>
+<tag>
+<AM lemma="hodně-2" src="auto">Dg-------2A----</AM>
+<AM lemma="hodně-3" src="manual" selected="1">Dg-------2A----</AM>
+</tag>
 </m>
 <m id="m-ln94203-64-p4s3w2">
 <src.rf>manual</src.rf>

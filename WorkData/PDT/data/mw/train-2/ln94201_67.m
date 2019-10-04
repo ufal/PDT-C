@@ -141,7 +141,10 @@
 <LM>w#w-ln94201-67-p2s1w14</LM>
 </w.rf>
 <form>Gianni</form>
-<tag lemma="Gianni_;Y_,t" src="auto" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Gianni_;Y_,t" src="auto">NNMS1-----A----</AM>
+<AM lemma="Gianni_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94201-67-p2s1w15">
 <src.rf>manual</src.rf>
@@ -295,7 +298,10 @@
 <LM>w#w-ln94201-67-p2s2w9</LM>
 </w.rf>
 <form>ANSA</form>
-<tag lemma="ANSA-1_:B_;K_,t_^(Agenzia_Nazionale_Stampa_Associata)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ANSA-1_:B_;K_,t_^(Agenzia_Nazionale_Stampa_Associata)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ANSA-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln94201-67-p2s2w10">
 <src.rf>manual</src.rf>
@@ -533,7 +539,10 @@
 <LM>w#w-ln94201-67-p2s5w5</LM>
 </w.rf>
 <form>MS</form>
-<tag lemma="MS-5_:B_;K_;p_^(ministerstvo_spravedlnosti)" src="orig" selected="1">NNNXX-----A---8</tag>
+<tag>
+<AM lemma="MS-5_:B_;K_;p_^(ministerstvo_spravedlnosti)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="MS-3_:B_^(mistrovství_světa)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94201-67-p2s5w6">
 <src.rf>manual</src.rf>

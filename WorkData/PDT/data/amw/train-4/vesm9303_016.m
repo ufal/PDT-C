@@ -713,7 +713,7 @@
 <form>KOLAKOWSKI</form>
 <tag>
 <AM lemma="Kolakowski_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Kolakowský_;S" src="auto" recommended="1">NNMS1-----A---1</AM>
+<AM lemma="Kolakowský_;S" src="auto" recommended="1" selected="1">NNMS1-----A---1</AM>
 <AM lemma="Kolakowský_;S" src="auto">NNMS5-----A---1</AM>
 </tag>
 </m>
@@ -803,7 +803,10 @@
 <LM>w#w-vesm9303-016-p2s1w13</LM>
 </w.rf>
 <form>ČSAV</form>
-<tag lemma="ČSAV-1_:B_;K_^(Čs._akademie_věd)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ČSAV-1_:B_;K_^(Čs._akademie_věd)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČSAV-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-vesm9303-016-p2s1w14">
 <src.rf>manual</src.rf>
@@ -843,7 +846,10 @@
 <LM>w#w-vesm9303-016-p2s1w18</LM>
 </w.rf>
 <form>str</form>
-<tag lemma="strana-4_:B" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="strana-4_:B" src="orig">NNFXX-----A---8</AM>
+<AM lemma="strana" src="manual" selected="1">NNFXX-----A---9</AM>
+</tag>
 </m>
 <m id="m-vesm9303-016-p2s1w19">
 <src.rf>manual</src.rf>

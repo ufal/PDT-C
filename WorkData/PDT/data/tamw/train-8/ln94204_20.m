@@ -543,7 +543,10 @@
 <LM>w#w-ln94204-20-p4s1w5</LM>
 </w.rf>
 <form>managementu</form>
-<tag lemma="management_,t_^(vedení,_manažment;_angl.)" src="orig" selected="1">NNIS2-----A----</tag>
+<tag>
+<AM lemma="management_,t_^(vedení,_manažment;_angl.)" src="orig">NNIS2-----A----</AM>
+<AM lemma="management_^(vedení,_manažment;_angl.)" src="manual" selected="1">NNIS2-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94204-20-p4s1w6">
 <src.rf>manual</src.rf>
@@ -699,7 +702,7 @@
 <form>snad</form>
 <tag>
 <AM lemma="snad" src="orig">Db-------------</AM>
-<AM lemma="snad" src="auto" recommended="1">TT-------------</AM>
+<AM lemma="snad" src="auto" recommended="1" selected="1">TT-------------</AM>
 </tag>
 </m>
 <m id="m-ln94204-20-p4s2w8">
@@ -904,7 +907,7 @@
 <form>bezesporu</form>
 <tag>
 <AM lemma="bezesporu" src="orig">Db-------------</AM>
-<AM lemma="bezesporu" src="auto" recommended="1">TT-------------</AM>
+<AM lemma="bezesporu" src="auto" recommended="1" selected="1">TT-------------</AM>
 </tag>
 </m>
 <m id="m-ln94204-20-p4s3w12">
@@ -1116,7 +1119,7 @@
 </w.rf>
 <form>Linden</form>
 <tag>
-<AM lemma="Linden-2_;K" src="orig">NNXXX-----A----</AM>
+<AM lemma="Linden-2_;K" src="orig" selected="1">NNXXX-----A----</AM>
 <AM lemma="Linden-1_;G" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Linden-1_;G" src="auto">NNIS4-----A----</AM>
 <AM lemma="Linden-2_;S" src="auto">NNMS1-----A----</AM>
@@ -1169,7 +1172,7 @@
 </w.rf>
 <form>odchodu</form>
 <tag>
-<AM lemma="odchod" src="orig">NNIS6-----A----</AM>
+<AM lemma="odchod" src="orig" selected="1">NNIS6-----A----</AM>
 <AM lemma="odchod" src="auto">NNIS2-----A----</AM>
 <AM lemma="odchod" src="auto">NNIS3-----A----</AM>
 <AM lemma="odchod" src="auto" recommended="1">NNIS6-----A---1</AM>
@@ -1668,7 +1671,7 @@
 </w.rf>
 <form>Roli</form>
 <tag>
-<AM lemma="Role_;G" src="orig">NNFS6-----A----</AM>
+<AM lemma="Role_;G" src="orig" selected="1">NNFS6-----A----</AM>
 <AM lemma="role-1_^(kotouč;_svitek)" src="auto">NNFS3-----A----</AM>
 <AM lemma="role-1_^(kotouč;_svitek)" src="auto">NNFS4-----A----</AM>
 <AM lemma="role-1_^(kotouč;_svitek)" src="auto">NNFS6-----A----</AM>
@@ -1798,7 +1801,7 @@
 <tag>
 <AM lemma="Loket_;G" src="orig">NNIS6-----A----</AM>
 <AM lemma="Loket_;G" src="auto">NNIS3-----A---1</AM>
-<AM lemma="Loket_;G" src="auto">NNIS6-----A---1</AM>
+<AM lemma="Loket_;G" src="auto" selected="1">NNIS6-----A---1</AM>
 <AM lemma="loket" src="auto">NNIS3-----A---1</AM>
 <AM lemma="loket" src="auto">NNIS5-----A---1</AM>
 <AM lemma="loket" src="auto" recommended="1">NNIS6-----A---1</AM>

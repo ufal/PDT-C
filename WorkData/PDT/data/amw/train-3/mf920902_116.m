@@ -69,7 +69,10 @@
 <LM>w#w-mf920902-116-p2s1w3</LM>
 </w.rf>
 <form>jh</form>
-<tag lemma="jh-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="jh-99_:B_;S" src="orig">NNXXX-----A---8</AM>
+<AM lemma="jh-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920902-116-p2s1w4">
 <src.rf>manual</src.rf>
@@ -685,7 +688,10 @@
 <LM>w#w-mf920902-116-p2s5w10</LM>
 </w.rf>
 <form>mm</form>
-<tag lemma="mm-1`milimetr_:B" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="mm-1`milimetr_:B" src="orig">NNIXX-----A---8</AM>
+<AM lemma="milimetr" src="manual" selected="1">NNIXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-mf920902-116-p2s5w11">
 <src.rf>manual</src.rf>
@@ -1090,7 +1096,10 @@
 <LM>w#w-mf920902-116-p2s7w15</LM>
 </w.rf>
 <form>Kčs</form>
-<tag lemma="Kčs-1_:B_^(Koruna_čs.)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="Kčs-1_:B_^(Koruna_čs.)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="Kčs-1_:B_^(Koruna_čs.)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920902-116-p2s7w16">
 <src.rf>manual</src.rf>

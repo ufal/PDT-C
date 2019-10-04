@@ -80,7 +80,10 @@
 <LM>w#w-lnd92254-043-p3s1w5</LM>
 </w.rf>
 <form>SBČS</form>
-<tag lemma="SBČS_:B_;K_^(býv._Státní_banka_československá)" src="auto" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="SBČS_:B_;K_^(býv._Státní_banka_československá)" src="auto">NNXXX-----A---8</AM>
+<AM lemma="SBČS-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd92254-043-p3s1w6">
 <src.rf>manual</src.rf>
@@ -260,7 +263,10 @@
 <LM>w#w-lnd92254-043-p3s2w12</LM>
 </w.rf>
 <form>HZDS</form>
-<tag lemma="HZDS-1_:B_;K_;p_,t_^(Hnutie_za_demokratické_Slovensko)" src="orig" selected="1">NNNXX-----A---8</tag>
+<tag>
+<AM lemma="HZDS-1_:B_;K_;p_,t_^(Hnutie_za_demokratické_Slovensko)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="HZDS-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd92254-043-p3s2w13">
 <src.rf>manual</src.rf>
@@ -414,7 +420,10 @@
 <LM>w#w-lnd92254-043-p3s3w14</LM>
 </w.rf>
 <form>SKDH</form>
-<tag lemma="SKDH_:B_;K" src="auto" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="SKDH_:B_;K" src="auto">NNXXX-----A---8</AM>
+<AM lemma="SKDH-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd92254-043-p3s3w15">
 <src.rf>manual</src.rf>
@@ -964,7 +973,10 @@
 <LM>w#w-lnd92254-043-p3s6w4</LM>
 </w.rf>
 <form>M</form>
-<tag lemma="M-0_:B_;Y" src="orig" selected="1">NNMXX-----A---8</tag>
+<tag>
+<AM lemma="M-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
+<AM lemma="M-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd92254-043-p3s6w5">
 <src.rf>manual</src.rf>
@@ -1321,7 +1333,7 @@
 <tag>
 <AM lemma="tedy" src="orig">Db-------------</AM>
 <AM lemma="tedy-1" src="auto">TT-------------</AM>
-<AM lemma="tedy-2" src="auto" recommended="1">J^-------------</AM>
+<AM lemma="tedy-2" src="auto" recommended="1" selected="1">J^-------------</AM>
 </tag>
 </m>
 <m id="m-lnd92254-043-p4s1w24">
@@ -1394,7 +1406,10 @@
 <LM>w#w-lnd92254-043-p4s1w32</LM>
 </w.rf>
 <form>spíše</form>
-<tag lemma="spíše" src="orig" selected="1">Dg-------2A---1</tag>
+<tag>
+<AM lemma="spíše" src="orig">Dg-------2A---1</AM>
+<AM lemma="spíš" src="manual" selected="1">TT------------1</AM>
+</tag>
 </m>
 <m id="m-lnd92254-043-p4s1w33">
 <src.rf>manual</src.rf>

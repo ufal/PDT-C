@@ -367,7 +367,10 @@
 <LM>w#w-ln94207-26-p2s1Bw37</LM>
 </w.rf>
 <form>li</form>
-<tag lemma="li-1" src="auto" selected="1">TT-------------</tag>
+<tag>
+<AM lemma="li-1" src="auto">TT-------------</AM>
+<AM lemma="li-2" src="manual" selected="1">J,-------------</AM>
+</tag>
 </m>
 <m id="m-ln94207-26-p2s1Bw38">
 <src.rf>manual</src.rf>
@@ -387,6 +390,7 @@
 <AM lemma="nacionalizmus" src="orig">NNIS1-----A---1</AM>
 <AM lemma="nacionalizmus" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="nacionalizmus" src="auto">NNIS4-----A----</AM>
+<AM lemma="nacionalismus_,s_^(^DD**nacionalizmus)" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94207-26-p2s1Bw40">
@@ -398,6 +402,7 @@
 <tag>
 <AM lemma="fašizmus" src="orig">NNIS7-----A---1</AM>
 <AM lemma="fašismus" src="auto" recommended="1">NNIS7-----A----</AM>
+<AM lemma="fašismus_,s_^(^DD**fašizmus)" src="manual" selected="1">NNIS7-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94207-26-p2s1Bw41">
@@ -618,6 +623,7 @@
 <AM lemma="nacionalizmus" src="orig">NNIS1-----A---1</AM>
 <AM lemma="nacionalizmus" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="nacionalizmus" src="auto">NNIS4-----A----</AM>
+<AM lemma="nacionalismus_,s_^(^DD**nacionalizmus)" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94207-26-p2s5w4">
@@ -714,7 +720,10 @@
 <LM>w#w-ln94207-26-p2s5w15</LM>
 </w.rf>
 <form>Moskovskije</form>
-<tag lemma="Moskovskije_;R_,t" src="orig" selected="1">AAFP1----1A----</tag>
+<tag>
+<AM lemma="Moskovskije_;R_,t" src="orig">AAFP1----1A----</AM>
+<AM lemma="Moskovskije-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94207-26-p2s5w16">
 <src.rf>manual</src.rf>
@@ -731,6 +740,7 @@
 <AM lemma="novost_^(*3ý)" src="auto">NNFS3-----A----</AM>
 <AM lemma="novost_^(*3ý)" src="auto">NNFS5-----A----</AM>
 <AM lemma="novost_^(*3ý)" src="auto">NNFS6-----A----</AM>
+<AM lemma="novosti-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-ln94207-26-p2s5w17">

@@ -517,7 +517,10 @@
 <LM>w#w-ln95041-017-p2s5Aw1</LM>
 </w.rf>
 <form>Jen</form>
-<tag lemma="jen-1" src="auto" selected="1">TT-------------</tag>
+<tag>
+<AM lemma="jen-1" src="auto">TT-------------</AM>
+<AM lemma="jen-4_^(pouze)" src="manual" selected="1">Db-------------</AM>
+</tag>
 </m>
 <m id="m-ln95041-017-p2s5Aw2">
 <src.rf>manual</src.rf>
@@ -1159,7 +1162,10 @@
 <LM>w#w-ln95041-017-p2s9w17</LM>
 </w.rf>
 <form>WC</form>
-<tag lemma="WC_:B" src="orig" selected="1">NNNXX-----A---8</tag>
+<tag>
+<AM lemma="WC_:B" src="orig">NNNXX-----A---8</AM>
+<AM lemma="WC-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln95041-017-p2s9w18">
 <src.rf>manual</src.rf>
@@ -1742,7 +1748,7 @@
 <tag>
 <AM lemma="matka" src="orig">NNFS7-----A----</AM>
 <AM lemma="matka-1_^(malá_součástka)" src="auto" recommended="1">NNFS7-----A----</AM>
-<AM lemma="matka-2_^(maminka)" src="auto">NNFS7-----A----</AM>
+<AM lemma="matka-2_^(maminka)" src="auto" selected="1">NNFS7-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95041-017-p3s1w20">
@@ -2485,6 +2491,7 @@
 <AM lemma="pesimismus" src="orig">NNIS4-----A----</AM>
 <AM lemma="pesimizmus" src="auto">NNIS1-----A----</AM>
 <AM lemma="pesimizmus" src="auto" recommended="1">NNIS4-----A----</AM>
+<AM lemma="pesimismus_,s_^(^DD**pesimizmus)" src="manual" selected="1">NNIS4-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95041-017-p4s1w3">

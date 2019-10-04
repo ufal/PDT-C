@@ -265,7 +265,7 @@
 <form>jedině</form>
 <tag>
 <AM lemma="jedině_^(*1ý)" src="orig">Dg-------1A----</AM>
-<AM lemma="jedině" src="auto" recommended="1">Db-------------</AM>
+<AM lemma="jedině" src="auto" recommended="1" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m-ln94208-51-p2s1Bw21">
@@ -517,6 +517,7 @@
 <AM lemma="mluvčí" src="auto">NNMP5-----A----</AM>
 <AM lemma="mluvčí" src="auto">NNMS1-----A----</AM>
 <AM lemma="mluvčí" src="auto">NNMS5-----A----</AM>
+<AM lemma="mluvčí-1" src="manual" selected="1">NNMS2-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94208-51-p3s1w15">
@@ -793,7 +794,10 @@
 <LM>w#w-ln94208-51-p3s3w2</LM>
 </w.rf>
 <form>V</form>
-<tag lemma="V-0_:B_;Y" src="orig" selected="1">NNMXX-----A---8</tag>
+<tag>
+<AM lemma="V-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
+<AM lemma="V-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94208-51-p3s3w3">
 <src.rf>manual</src.rf>
@@ -849,7 +853,10 @@
 <LM>w#w-ln94208-51-p3s3w9</LM>
 </w.rf>
 <form>sice</form>
-<tag lemma="sice-2" src="auto" selected="1">Db-------------</tag>
+<tag>
+<AM lemma="sice-2" src="auto">Db-------------</AM>
+<AM lemma="sice-1_^(spojka;_připouští_se_určitá_fakta)" src="manual" selected="1">J^-------------</AM>
+</tag>
 </m>
 <m id="m-ln94208-51-p3s3w10">
 <src.rf>manual</src.rf>
@@ -1263,7 +1270,10 @@
 <LM>w#w-ln94208-51-p3s6w1</LM>
 </w.rf>
 <form>Uvedl</form>
-<tag lemma="uvést" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag>
+<AM lemma="uvést" src="orig">VpYS---XR-AA---</AM>
+<AM lemma="uvést_:W" src="manual" selected="1">VpYS---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-ln94208-51-p3s6w2">
 <src.rf>manual</src.rf>

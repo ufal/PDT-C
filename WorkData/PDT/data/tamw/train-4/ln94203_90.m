@@ -237,7 +237,10 @@
 <LM>w#w-ln94203-90-p2s1w19</LM>
 </w.rf>
 <form>LN</form>
-<tag lemma="LN-1_:B_;R_^(Lidové_noviny,_deník)" src="orig" selected="1">NNFPX-----A---8</tag>
+<tag>
+<AM lemma="LN-1_:B_;R_^(Lidové_noviny,_deník)" src="orig">NNFPX-----A---8</AM>
+<AM lemma="LN-1_:B_;K_;R_^(Lidové_noviny)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94203-90-p2s1w20">
 <src.rf>manual</src.rf>
@@ -384,7 +387,7 @@
 </w.rf>
 <form>Arie</form>
 <tag>
-<AM lemma="Arie_;Y" src="orig">NNFXX-----A----</AM>
+<AM lemma="Arie_;Y" src="orig" selected="1">NNFXX-----A----</AM>
 <AM lemma="Arius_;S" src="auto">NNMS5-----A----</AM>
 <AM lemma="Arie_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Arie_;Y" src="auto">NNMS5-----A----</AM>
@@ -518,7 +521,10 @@
 <LM>w#w-ln94203-90-p2s3w1</LM>
 </w.rf>
 <form>LN</form>
-<tag lemma="LN-1_:B_;R_^(Lidové_noviny,_deník)" src="orig" selected="1">NNFPX-----A---8</tag>
+<tag>
+<AM lemma="LN-1_:B_;R_^(Lidové_noviny,_deník)" src="orig">NNFPX-----A---8</AM>
+<AM lemma="LN-1_:B_;K_;R_^(Lidové_noviny)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94203-90-p2s3w2">
 <src.rf>manual</src.rf>
@@ -534,7 +540,10 @@
 <LM>w#w-ln94203-90-p2s3w3</LM>
 </w.rf>
 <form>řekla</form>
-<tag lemma="říci" src="auto" selected="1">VpQW---XR-AA---</tag>
+<tag>
+<AM lemma="říci" src="auto">VpQW---XR-AA---</AM>
+<AM lemma="říci_:W" src="manual" selected="1">VpQW---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-ln94203-90-p2s3w4">
 <src.rf>manual</src.rf>
@@ -696,7 +705,10 @@
 <LM>w#w-ln94203-90-p2s4w13</LM>
 </w.rf>
 <form>popřel</form>
-<tag lemma="popřít" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag>
+<AM lemma="popřít" src="orig">VpYS---XR-AA---</AM>
+<AM lemma="popřít_:W" src="manual" selected="1">VpYS---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-ln94203-90-p2s4w14">
 <src.rf>manual</src.rf>
@@ -938,7 +950,10 @@
 <LM>w#w-ln94203-90-p2s5w29</LM>
 </w.rf>
 <form>řekl</form>
-<tag lemma="říci" src="auto" selected="1">VpYS---XR-AA---</tag>
+<tag>
+<AM lemma="říci" src="auto">VpYS---XR-AA---</AM>
+<AM lemma="říci_:W" src="manual" selected="1">VpYS---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-ln94203-90-p2s5w30">
 <src.rf>manual</src.rf>
@@ -964,7 +979,10 @@
 <LM>w#w-ln94203-90-p2s6w1</LM>
 </w.rf>
 <form>Konkurs</form>
-<tag lemma="konkurs_^(úpadek;;soutěž)" src="auto" selected="1">NNIS4-----A----</tag>
+<tag>
+<AM lemma="konkurs_^(úpadek;;soutěž)" src="auto">NNIS4-----A----</AM>
+<AM lemma="konkurs_,s_^(^DD**konkurz)" src="manual" selected="1">NNIS4-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94203-90-p2s6w2">
 <src.rf>manual</src.rf>
@@ -1176,7 +1194,10 @@
 <LM>w#w-ln94203-90-p2s8w5</LM>
 </w.rf>
 <form>předal</form>
-<tag lemma="předat-3_:W_^(někomu_něco)" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag>
+<AM lemma="předat-3_:W_^(někomu_něco)" src="orig">VpYS---XR-AA---</AM>
+<AM lemma="předat_:W" src="manual" selected="1">VpYS---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-ln94203-90-p2s8w6">
 <src.rf>manual</src.rf>
@@ -1403,7 +1424,10 @@
 <LM>w#w-ln94203-90-p2s9w23</LM>
 </w.rf>
 <form>kurzy</form>
-<tag lemma="kurs" src="auto" selected="1">NNIP4-----A----</tag>
+<tag>
+<AM lemma="kurs" src="auto">NNIP4-----A----</AM>
+<AM lemma="kurz" src="manual" selected="1">NNIP4-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94203-90-p2s9w24">
 <src.rf>manual</src.rf>
@@ -1467,7 +1491,10 @@
 <LM>w#w-ln94203-90-p2s9w31</LM>
 </w.rf>
 <form>tzv</form>
-<tag lemma="takzvaný_:B" src="orig" selected="1">AAXXX----1A---8</tag>
+<tag>
+<AM lemma="takzvaný_:B" src="orig">AAXXX----1A---8</AM>
+<AM lemma="takzvaný" src="manual" selected="1">AAXXX----1A---8</AM>
+</tag>
 </m>
 <m id="m-ln94203-90-p2s9w32">
 <src.rf>manual</src.rf>
@@ -1648,7 +1675,7 @@
 </w.rf>
 <form>Arie</form>
 <tag>
-<AM lemma="Arie_;Y" src="orig">NNFXX-----A----</AM>
+<AM lemma="Arie_;Y" src="orig" selected="1">NNFXX-----A----</AM>
 <AM lemma="Arius_;S" src="auto">NNMS5-----A----</AM>
 <AM lemma="Arie_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Arie_;Y" src="auto">NNMS5-----A----</AM>
@@ -1782,7 +1809,10 @@
 <LM>w#w-ln94203-90-p3s2w7</LM>
 </w.rf>
 <form>kurzů</form>
-<tag lemma="kurs" src="auto" selected="1">NNIP2-----A----</tag>
+<tag>
+<AM lemma="kurs" src="auto">NNIP2-----A----</AM>
+<AM lemma="kurz" src="manual" selected="1">NNIP2-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94203-90-p3s2w8">
 <src.rf>manual</src.rf>
@@ -1855,7 +1885,7 @@
 </w.rf>
 <form>Thalia</form>
 <tag>
-<AM lemma="Thalia_;m" src="orig">NNFS1-----A----</AM>
+<AM lemma="Thalia_;m" src="orig" selected="1">NNFS1-----A----</AM>
 <AM lemma="thalium" src="auto">NNNP1-----A----</AM>
 <AM lemma="thalium" src="auto">NNNP4-----A----</AM>
 <AM lemma="thalium" src="auto">NNNP5-----A----</AM>
@@ -2076,6 +2106,7 @@
 <AM lemma="pal-99_:B_;S" src="orig">NNXXX-----A---8</AM>
 <AM lemma="pálit" src="auto" recommended="1">Vi-S---2--A----</AM>
 <AM lemma="pálit" src="auto">Vi-S---3--A---4</AM>
+<AM lemma="pal-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94203-90-p3s4w3">

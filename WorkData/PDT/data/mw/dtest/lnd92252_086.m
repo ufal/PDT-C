@@ -199,7 +199,10 @@
 <LM>w#w-lnd92252-086-p3s1w11</LM>
 </w.rf>
 <form>A</form>
-<tag lemma="a-1" src="orig" selected="1">J^-------------</tag>
+<tag>
+<AM lemma="a-1" src="orig">J^-------------</AM>
+<AM lemma="A-33_^(označení_pomocí_písmene)" src="manual" selected="1">NNNXX-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92252-086-p3s1w12">
 <src.rf>manual</src.rf>
@@ -353,7 +356,10 @@
 <LM>w#w-lnd92252-086-p3s2w4</LM>
 </w.rf>
 <form>Rallye</form>
-<tag lemma="rallye" src="orig" selected="1">NNFXX-----A----</tag>
+<tag>
+<AM lemma="rallye" src="orig" selected="1">NNFXX-----A----</AM>
+<AM lemma="Rallye-77" src="manual">F%-------------</AM>
+</tag>
 </m>
 <m id="m-lnd92252-086-p3s2w5">
 <src.rf>manual</src.rf>
@@ -361,7 +367,10 @@
 <LM>w#w-lnd92252-086-p3s2w5</LM>
 </w.rf>
 <form>Congesta</form>
-<tag lemma="Congesta_;m" src="orig" selected="1">NNFS1-----A----</tag>
+<tag>
+<AM lemma="Congesta_;m" src="orig">NNFS1-----A----</AM>
+<AM lemma="Congesta-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-lnd92252-086-p3s2w6">
 <src.rf>manual</src.rf>
@@ -421,7 +430,7 @@
 <form>sierra</form>
 <tag>
 <AM lemma="Sierra-2_;R_^(vozidlo)" src="orig">NNFS1-----A----</AM>
-<AM lemma="sierra_;R_^(vozidlo)" src="auto" recommended="1">NNFS1-----A----</AM>
+<AM lemma="sierra_;R_^(vozidlo)" src="auto" recommended="1" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92252-086-p3s3w6">
@@ -2008,7 +2017,7 @@
 <form>kdekoliv</form>
 <tag>
 <AM lemma="kdekoliv" src="orig">Db-------------</AM>
-<AM lemma="kdekoli" src="auto" recommended="1">Db------------1</AM>
+<AM lemma="kdekoli" src="auto" recommended="1" selected="1">Db------------1</AM>
 </tag>
 </m>
 <m id="m-lnd92252-086-p4s11w5">
@@ -2033,7 +2042,10 @@
 <LM>w#w-lnd92252-086-p4s11w7</LM>
 </w.rf>
 <form>MS</form>
-<tag lemma="MS-5_:B_;K_;p_^(ministerstvo_spravedlnosti)" src="orig" selected="1">NNNXX-----A---8</tag>
+<tag>
+<AM lemma="MS-5_:B_;K_;p_^(ministerstvo_spravedlnosti)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="MS-3_:B_;w_^(mistrovství_světa)" src="manual" selected="1">NNNXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd92252-086-p4s11w8">
 <src.rf>manual</src.rf>

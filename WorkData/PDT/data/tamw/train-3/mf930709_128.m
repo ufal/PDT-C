@@ -53,7 +53,10 @@
 <LM>w#w-mf930709-128-p2s1w3</LM>
 </w.rf>
 <form>H</form>
-<tag lemma="H-0_:B_;Y" src="orig" selected="1">NNMXX-----A---8</tag>
+<tag>
+<AM lemma="H-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
+<AM lemma="H-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-mf930709-128-p2s1w4">
 <src.rf>manual</src.rf>
@@ -181,7 +184,10 @@
 <LM>w#w-mf930709-128-p2s1w19</LM>
 </w.rf>
 <form>Luke</form>
-<tag lemma="Luke_;Y_,t" src="auto" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Luke_;Y_,t" src="auto">NNMS1-----A----</AM>
+<AM lemma="Luke_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930709-128-p2s1w20">
 <src.rf>manual</src.rf>
@@ -335,7 +341,10 @@
 <LM>w#w-mf930709-128-p3s1w2</LM>
 </w.rf>
 <form>TV</form>
-<tag lemma="televize_:B" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="televize_:B" src="orig">NNFXX-----A---8</AM>
+<AM lemma="televize" src="manual" selected="1">NNFXX-----A---8</AM>
+</tag>
 </m>
 </s>
 <s id="m-mf930709-128-p4s1">
@@ -665,7 +674,10 @@
 <LM>w#w-mf930709-128-p4s1w41</LM>
 </w.rf>
 <form>New</form>
-<tag lemma="New-1_;G_,t_^(součást_míst._jmen)" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="New-1_;G_,t_^(součást_míst._jmen)" src="orig">AAXXX----1A----</AM>
+<AM lemma="New-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-mf930709-128-p4s1w42">
 <src.rf>manual</src.rf>

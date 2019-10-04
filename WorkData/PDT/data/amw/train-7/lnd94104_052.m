@@ -83,7 +83,10 @@
 <LM>w#w-lnd94104-052-p1s1w9</LM>
 </w.rf>
 <form>IRA</form>
-<tag lemma="IRA-1_:B_;K_,t_^(Irská_republikánská_armáda)" src="auto" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="IRA-1_:B_;K_,t_^(Irská_republikánská_armáda)" src="auto">NNFXX-----A---8</AM>
+<AM lemma="IRA-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 </s>
 <s id="m-lnd94104-052-p1s2">
@@ -329,7 +332,10 @@
 <LM>w#w-lnd94104-052-p1s4w4</LM>
 </w.rf>
 <form>The</form>
-<tag lemma="the-1_,t_^(obv._souč._anglických_názvů,_urč._člen)" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="the-1_,t_^(obv._souč._anglických_názvů,_urč._člen)" src="orig">AAXXX----1A----</AM>
+<AM lemma="The-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-lnd94104-052-p1s4w5">
 <src.rf>manual</src.rf>
@@ -337,7 +343,10 @@
 <LM>w#w-lnd94104-052-p1s4w5</LM>
 </w.rf>
 <form>Independent</form>
-<tag lemma="independent-1_^(stoupenec_independentizmu)" src="orig" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="independent-1_^(stoupenec_independentizmu)" src="orig">NNMS1-----A----</AM>
+<AM lemma="Independent-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-lnd94104-052-p1s4w6">
 <src.rf>manual</src.rf>
@@ -403,7 +412,10 @@
 <LM>w#w-lnd94104-052-p1s5w7</LM>
 </w.rf>
 <form>Bání</form>
-<tag lemma="báň" src="orig" selected="1">NNFP2-----A----</tag>
+<tag>
+<AM lemma="báň" src="orig">NNFP2-----A----</AM>
+<AM lemma="Bání_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd94104-052-p1s5w8">
 <src.rf>manual</src.rf>
@@ -477,7 +489,10 @@
 <LM>w#w-lnd94104-052-p1s6w2</LM>
 </w.rf>
 <form>IRA</form>
-<tag lemma="Ir_;E" src="orig" selected="1">NNMS2-----A----</tag>
+<tag>
+<AM lemma="Ir_;E" src="orig">NNMS2-----A----</AM>
+<AM lemma="IRA-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd94104-052-p1s6w3">
 <src.rf>manual</src.rf>
@@ -616,7 +631,7 @@
 </w.rf>
 <form>Stinger</form>
 <tag>
-<AM lemma="Stinger-2_;R" src="orig">NNIS1-----A----</AM>
+<AM lemma="Stinger-2_;R" src="orig" selected="1">NNIS1-----A----</AM>
 <AM lemma="Stinger_;S" src="auto" recommended="1">NNMS1-----A----</AM>
 </tag>
 </m>

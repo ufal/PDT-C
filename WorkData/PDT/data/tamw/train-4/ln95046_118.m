@@ -557,7 +557,10 @@
 <LM>w#w-ln95046-118-p3s1w13</LM>
 </w.rf>
 <form>dolaru</form>
-<tag lemma="dolar_;b" src="orig" selected="1">NNIS2-----A----</tag>
+<tag>
+<AM lemma="dolar_;b" src="orig">NNIS2-----A----</AM>
+<AM lemma="dolar" src="manual" selected="1">NNIS2-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95046-118-p3s1w14">
 <src.rf>manual</src.rf>
@@ -630,7 +633,10 @@
 <LM>w#w-ln95046-118-p3s1w22</LM>
 </w.rf>
 <form>dolaru</form>
-<tag lemma="dolar_;b" src="orig" selected="1">NNIS2-----A----</tag>
+<tag>
+<AM lemma="dolar_;b" src="orig">NNIS2-----A----</AM>
+<AM lemma="dolar" src="manual" selected="1">NNIS2-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95046-118-p3s1w23">
 <src.rf>manual</src.rf>
@@ -662,7 +668,10 @@
 <LM>w#w-ln95046-118-p3s1w26</LM>
 </w.rf>
 <form>rostou</form>
-<tag lemma="růst-2" src="orig" selected="1">VB-P---3P-AA---</tag>
+<tag>
+<AM lemma="růst-2" src="orig">VB-P---3P-AA---</AM>
+<AM lemma="růst-2_:T" src="manual" selected="1">VB-P---3P-AA---</AM>
+</tag>
 </m>
 <m id="m-ln95046-118-p3s1w27">
 <src.rf>manual</src.rf>
@@ -874,7 +883,10 @@
 <LM>w#w-ln95046-118-p4s2w12</LM>
 </w.rf>
 <form>dovézt</form>
-<tag lemma="dovézt" src="orig" selected="1">Vf--------A----</tag>
+<tag>
+<AM lemma="dovézt" src="orig">Vf--------A----</AM>
+<AM lemma="dovézt_:W" src="manual" selected="1">Vf--------A----</AM>
+</tag>
 </m>
 <m id="m-ln95046-118-p4s2w13">
 <src.rf>manual</src.rf>
@@ -911,7 +923,7 @@
 <tag>
 <AM lemma="tedy" src="orig">Db-------------</AM>
 <AM lemma="tedy-1" src="auto">TT-------------</AM>
-<AM lemma="tedy-2" src="auto" recommended="1">J^-------------</AM>
+<AM lemma="tedy-2" src="auto" recommended="1" selected="1">J^-------------</AM>
 </tag>
 </m>
 <m id="m-ln95046-118-p4s3w4">
@@ -978,7 +990,10 @@
 <LM>w#w-ln95046-118-p4s4w3</LM>
 </w.rf>
 <form>zavedlo</form>
-<tag lemma="zavést" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag>
+<AM lemma="zavést" src="orig">VpNS---XR-AA---</AM>
+<AM lemma="zavést_:W" src="manual" selected="1">VpNS---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-ln95046-118-p4s4w4">
 <src.rf>manual</src.rf>
@@ -1050,7 +1065,10 @@
 <LM>w#w-ln95046-118-p4s4w12</LM>
 </w.rf>
 <form>stala</form>
-<tag lemma="stát-2_^(něco_se_přihodilo)" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag>
+<AM lemma="stát-2_^(něco_se_přihodilo)" src="orig">VpQW---XR-AA---</AM>
+<AM lemma="stát-2_:W_^(něco_se_přihodilo)" src="manual" selected="1">VpQW---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-ln95046-118-p4s4w13">
 <src.rf>manual</src.rf>
@@ -1231,7 +1249,10 @@
 <LM>w#w-ln95046-118-p4s6w8</LM>
 </w.rf>
 <form>dolaru</form>
-<tag lemma="dolar_;b" src="orig" selected="1">NNIS2-----A----</tag>
+<tag>
+<AM lemma="dolar_;b" src="orig">NNIS2-----A----</AM>
+<AM lemma="dolar" src="manual" selected="1">NNIS2-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95046-118-p4s6w9">
 <src.rf>manual</src.rf>
@@ -1385,7 +1406,10 @@
 <LM>w#w-ln95046-118-p5s1w4</LM>
 </w.rf>
 <form>SSSR</form>
-<tag lemma="SSSR_:B_;G_^(Svaz_sov._socialist._republik)" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="SSSR_:B_;G_^(Svaz_sov._socialist._republik)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="SSSR-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95046-118-p5s1w5">
 <src.rf>manual</src.rf>
@@ -1629,7 +1653,10 @@
 <LM>w#w-ln95046-118-p5s3w1</LM>
 </w.rf>
 <form>Např</form>
-<tag lemma="například_:B" src="orig" selected="1">Db------------8</tag>
+<tag>
+<AM lemma="například_:B" src="orig">Db------------8</AM>
+<AM lemma="například" src="manual" selected="1">Db------------8</AM>
+</tag>
 </m>
 <m id="m-ln95046-118-p5s3w2">
 <src.rf>manual</src.rf>

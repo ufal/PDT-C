@@ -539,7 +539,11 @@
 <LM>w#w-ln94208-137-p3s1w3</LM>
 </w.rf>
 <form>jenom</form>
-<tag lemma="jenom-1" src="auto" selected="1">TT-------------</tag>
+<tag>
+<AM lemma="jenom-1" src="auto">TT-------------</AM>
+<AM lemma="	jenom-2_^(pouze)" src="manual">Db-------------</AM>
+<AM lemma="jenom-2_^(pouze)" src="manual" selected="1">Db-------------</AM>
+</tag>
 </m>
 <m id="m-ln94208-137-p3s1w4">
 <src.rf>manual</src.rf>
@@ -801,7 +805,10 @@
 <LM>w#w-ln94208-137-p3s4w1</LM>
 </w.rf>
 <form>Jen</form>
-<tag lemma="jen-1" src="auto" selected="1">TT-------------</tag>
+<tag>
+<AM lemma="jen-1" src="auto">TT-------------</AM>
+<AM lemma="jen-4_^(pouze)" src="manual" selected="1">Db-------------</AM>
+</tag>
 </m>
 <m id="m-ln94208-137-p3s4w2">
 <src.rf>manual</src.rf>
@@ -1559,7 +1566,10 @@
 <LM>w#w-ln94208-137-p3s7w33</LM>
 </w.rf>
 <form>E</form>
-<tag lemma="E-0_:B_;Y" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="E-0_:B_;Y" src="orig">NNFXX-----A---8</AM>
+<AM lemma="E-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln94208-137-p3s7w34">
 <src.rf>manual</src.rf>
@@ -1973,7 +1983,10 @@
 <LM>w#w-ln94208-137-p3s10w13</LM>
 </w.rf>
 <form>S</form>
-<tag lemma="S-0_:B_;Y" src="orig" selected="1">NNMXX-----A---8</tag>
+<tag>
+<AM lemma="S-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
+<AM lemma="S-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln94208-137-p3s10w14">
 <src.rf>manual</src.rf>

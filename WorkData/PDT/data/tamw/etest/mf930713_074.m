@@ -35,7 +35,10 @@
 <LM>w#w-mf930713-074-p1s1w3</LM>
 </w.rf>
 <form>komunismu</form>
-<tag lemma="komunismus" src="orig" selected="1">NNIS3-----A----</tag>
+<tag>
+<AM lemma="komunismus" src="orig">NNIS3-----A----</AM>
+<AM lemma="komunismus_,s_^(^DD**komunizmus)" src="manual" selected="1">NNIS3-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930713-074-p1s1w4">
 <src.rf>manual</src.rf>
@@ -89,6 +92,7 @@
 <AM lemma="li-99_:B_;S" src="orig">NNXXX-----A---8</AM>
 <AM lemma="li-1" src="auto" recommended="1">TT-------------</AM>
 <AM lemma="li-2" src="auto">J,-------------</AM>
+<AM lemma="li-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930713-074-p2s1Aw4">
@@ -703,7 +707,10 @@
 <LM>w#w-mf930713-074-p3s1w21</LM>
 </w.rf>
 <form>KSČ</form>
-<tag lemma="KSČ-1_:B_;K_^(Komunistická_strana_Československa)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="KSČ-1_:B_;K_^(Komunistická_strana_Československa)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="KSČ-1_:B_;K_^(Komunistická_strana_Československa)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930713-074-p3s1w22">
 <src.rf>manual</src.rf>
@@ -2039,7 +2046,10 @@
 <LM>w#w-mf930713-074-p5s3w3</LM>
 </w.rf>
 <form>str</form>
-<tag lemma="strana-4_:B" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="strana-4_:B" src="orig">NNFXX-----A---8</AM>
+<AM lemma="strana" src="manual" selected="1">NNFXX-----A---9</AM>
+</tag>
 </m>
 <m id="m-mf930713-074-p5s3w4">
 <src.rf>manual</src.rf>

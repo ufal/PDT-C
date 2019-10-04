@@ -80,6 +80,7 @@
 <tag>
 <AM lemma="USA_;G" src="orig">NNIPX-----A----</AM>
 <AM lemma="USA_:B_;K_,t_^(United_States_of_America)" src="auto" recommended="1">NNIPX-----A---8</AM>
+<AM lemma="USA_:B_;K_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94204-83-p2s1Aw4">
@@ -372,7 +373,10 @@
 <LM>w#w-ln94204-83-p2s1Cw27</LM>
 </w.rf>
 <form>prostřednictvím</form>
-<tag lemma="prostřednictví" src="orig" selected="1">NNNS7-----A----</tag>
+<tag>
+<AM lemma="prostřednictví" src="orig">NNNS7-----A----</AM>
+<AM lemma="prostřednictvím" src="manual" selected="1">RR--2----------</AM>
+</tag>
 </m>
 <m id="m-ln94204-83-p2s1Cw28">
 <src.rf>manual</src.rf>
@@ -582,7 +586,10 @@
 <LM>w#w-ln94204-83-p3s1w22</LM>
 </w.rf>
 <form>řekl</form>
-<tag lemma="říci" src="auto" selected="1">VpYS---XR-AA---</tag>
+<tag>
+<AM lemma="říci" src="auto">VpYS---XR-AA---</AM>
+<AM lemma="říci_:W" src="manual" selected="1">VpYS---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-ln94204-83-p3s1w23">
 <src.rf>manual</src.rf>
@@ -899,7 +906,7 @@
 <form>nejen</form>
 <tag>
 <AM lemma="nejen" src="orig">TT-------------</AM>
-<AM lemma="nejen" src="auto" recommended="1">Db-------------</AM>
+<AM lemma="nejen" src="auto" recommended="1" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m-ln94204-83-p3s2w24">
@@ -1329,7 +1336,10 @@
 <LM>w#w-ln94204-83-p3s4w20</LM>
 </w.rf>
 <form>Warren</form>
-<tag lemma="Warren_;S" src="auto" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Warren_;S" src="auto">NNMS1-----A----</AM>
+<AM lemma="Warren_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94204-83-p3s4w21">
 <src.rf>manual</src.rf>
@@ -1571,7 +1581,10 @@
 <LM>w#w-ln94204-83-p3s5w29</LM>
 </w.rf>
 <form>začalo</form>
-<tag lemma="začít-1_^(začnout)" src="auto" selected="1">VpNS---XR-AA---</tag>
+<tag>
+<AM lemma="začít-1_^(začnout)" src="auto">VpNS---XR-AA---</AM>
+<AM lemma="začít-1_:W_^(začnout)" src="manual" selected="1">VpNS---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-ln94204-83-p3s5w30">
 <src.rf>manual</src.rf>
@@ -2641,7 +2654,10 @@
 <LM>w#w-ln94204-83-p6s3w5</LM>
 </w.rf>
 <form>využil</form>
-<tag lemma="využít" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag>
+<AM lemma="využít" src="orig">VpYS---XR-AA---</AM>
+<AM lemma="využít_:W" src="manual" selected="1">VpYS---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-ln94204-83-p6s3w6">
 <src.rf>manual</src.rf>
@@ -2845,7 +2861,10 @@
 <LM>w#w-ln94204-83-p6s5w14</LM>
 </w.rf>
 <form>dolarů</form>
-<tag lemma="dolar_;b" src="orig" selected="1">NNIP2-----A----</tag>
+<tag>
+<AM lemma="dolar_;b" src="orig">NNIP2-----A----</AM>
+<AM lemma="dolar" src="manual" selected="1">NNIP2-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94204-83-p6s5w15">
 <src.rf>manual</src.rf>
@@ -3424,6 +3443,7 @@
 <AM lemma="Ce-1_:B_;H_^(cerium,_cer)" src="auto" recommended="1">NNNXX-----A---8</AM>
 <AM lemma="Ce-3_:B_,t_^(compagnie,_vojenská_rota,_obch._společnost)" src="auto">NNFXX-----A---8</AM>
 <AM lemma="ce-2_:B_,t_^(compass_error,_deklinač._a_deviační_odchylka)" src="auto">NNFXX-----A---8</AM>
+<AM lemma="Ce_;Y" src="manual" selected="1">NNMXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94204-83-p7s2w19">
@@ -3441,7 +3461,7 @@
 </w.rf>
 <form>minem</form>
 <tag>
-<AM lemma="min_;Y" src="orig">NNMS7-----A----</AM>
+<AM lemma="min_;Y" src="orig" selected="1">NNMS7-----A----</AM>
 <AM lemma="minout" src="auto" recommended="1">VB-P---1P-AA--6</AM>
 </tag>
 </m>
@@ -3498,7 +3518,7 @@
 <AM lemma="dvoustranný" src="auto">AAFP2----1A----</AM>
 <AM lemma="dvoustranný" src="auto">AAFP6----1A----</AM>
 <AM lemma="dvoustranný" src="auto">AAIP2----1A----</AM>
-<AM lemma="dvoustranný" src="auto" recommended="1">AAIP6----1A----</AM>
+<AM lemma="dvoustranný" src="auto" recommended="1" selected="1">AAIP6----1A----</AM>
 <AM lemma="dvoustranný" src="auto">AAMP2----1A----</AM>
 <AM lemma="dvoustranný" src="auto">AAMP6----1A----</AM>
 <AM lemma="dvoustranný" src="auto">AANP2----1A----</AM>
@@ -3745,7 +3765,10 @@
 <LM>w#w-ln94204-83-p8s1w6</LM>
 </w.rf>
 <form>optimismu</form>
-<tag lemma="optimismus" src="orig" selected="1">NNIS2-----A----</tag>
+<tag>
+<AM lemma="optimismus" src="orig">NNIS2-----A----</AM>
+<AM lemma="optimismus_,s_^(^DD**optimizmus)" src="manual" selected="1">NNIS2-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94204-83-p8s1w7">
 <src.rf>manual</src.rf>
@@ -4725,7 +4748,10 @@
 <LM>w#w-ln94204-83-p8s7w13</LM>
 </w.rf>
 <form>zejména</form>
-<tag lemma="zejména-1" src="auto" selected="1">Db-------------</tag>
+<tag>
+<AM lemma="zejména-1" src="auto">Db-------------</AM>
+<AM lemma="zejména-2" src="manual" selected="1">TT-------------</AM>
+</tag>
 </m>
 <m id="m-ln94204-83-p8s7w14">
 <src.rf>manual</src.rf>

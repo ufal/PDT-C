@@ -76,7 +76,10 @@
 <LM>w#w-mf920901-098-p1s1w8</LM>
 </w.rf>
 <form>extrémistů</form>
-<tag lemma="extrémista" src="orig" selected="1">NNMP2-----A----</tag>
+<tag>
+<AM lemma="extrémista" src="orig">NNMP2-----A----</AM>
+<AM lemma="extrémista_,s_^(^DD**extremista)" src="manual" selected="1">NNMP2-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920901-098-p1s1w9">
 <src.rf>manual</src.rf>

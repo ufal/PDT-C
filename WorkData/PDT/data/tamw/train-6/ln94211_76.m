@@ -19,7 +19,10 @@
 <LM>w#w-ln94211-76-p1s1w1</LM>
 </w.rf>
 <form>Jicchak</form>
-<tag lemma="Jicchak_;S" src="auto" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Jicchak_;S" src="auto">NNMS1-----A----</AM>
+<AM lemma="Jicchak_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94211-76-p1s1w2">
 <src.rf>manual</src.rf>
@@ -791,7 +794,10 @@
 <LM>w#w-ln94211-76-p3s3w5</LM>
 </w.rf>
 <form>nechtěl</form>
-<tag lemma="chtít" src="orig" selected="1">VpYS---XR-NA---</tag>
+<tag>
+<AM lemma="chtít" src="orig">VpYS---XR-NA---</AM>
+<AM lemma="chtít_:T" src="manual" selected="1">VpYS---XR-NA---</AM>
+</tag>
 </m>
 <m id="m-ln94211-76-p3s3w6">
 <src.rf>manual</src.rf>
@@ -799,7 +805,10 @@
 <LM>w#w-ln94211-76-p3s3w6</LM>
 </w.rf>
 <form>říci</form>
-<tag lemma="říci" src="auto" selected="1">Vf--------A---1</tag>
+<tag>
+<AM lemma="říci" src="auto">Vf--------A---1</AM>
+<AM lemma="říci_:W" src="manual" selected="1">Vf--------A---1</AM>
+</tag>
 </m>
 <m id="m-ln94211-76-p3s3w7">
 <src.rf>manual</src.rf>
@@ -1093,7 +1102,7 @@
 <form>vůbec</form>
 <tag>
 <AM lemma="vůbec" src="orig">Db-------------</AM>
-<AM lemma="vůbec" src="auto" recommended="1">TT-------------</AM>
+<AM lemma="vůbec" src="auto" recommended="1" selected="1">TT-------------</AM>
 </tag>
 </m>
 <m id="m-ln94211-76-p4s2w15">
@@ -1235,7 +1244,7 @@
 <AM lemma="jakýkoli" src="auto">PZIP1----------</AM>
 <AM lemma="jakýkoli" src="auto">PZIP5----------</AM>
 <AM lemma="jakýkoli" src="auto">PZNS1----------</AM>
-<AM lemma="jakýkoli" src="auto" recommended="1">PZNS4----------</AM>
+<AM lemma="jakýkoli" src="auto" recommended="1" selected="1">PZNS4----------</AM>
 <AM lemma="jakýkoli" src="auto">PZNS5----------</AM>
 <AM lemma="jakýkoli" src="auto">PZYP4----------</AM>
 </tag>
@@ -1738,7 +1747,10 @@
 <LM>w#w-ln94211-76-p6s1w32</LM>
 </w.rf>
 <form>OSN</form>
-<tag lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94211-76-p6s1w33">
 <src.rf>manual</src.rf>

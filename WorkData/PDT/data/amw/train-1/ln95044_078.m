@@ -27,7 +27,10 @@
 <LM>w#w-ln95044-078-p1s1w2</LM>
 </w.rf>
 <form>ČR</form>
-<tag lemma="ČR-1_:B_;G_^(Česká_republika)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95044-078-p1s1w3">
 <src.rf>manual</src.rf>
@@ -43,7 +46,10 @@
 <LM>w#w-ln95044-078-p1s1w4</LM>
 </w.rf>
 <form>SR</form>
-<tag lemma="SR-1_:B_;G_^(Slovenská_republika)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="SR-1_:B_;G_^(Slovenská_republika)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="SR-1_:B_;G_^(Slovenská_republika)" src="manual" selected="1">NNNXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95044-078-p1s1w5">
 <src.rf>manual</src.rf>
@@ -265,7 +271,10 @@
 <LM>w#w-ln95044-078-p2s2w7</LM>
 </w.rf>
 <form>ČR</form>
-<tag lemma="ČR-1_:B_;G_^(Česká_republika)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95044-078-p2s2w8">
 <src.rf>manual</src.rf>
@@ -337,7 +346,10 @@
 <LM>w#w-ln95044-078-p2s2w16</LM>
 </w.rf>
 <form>SR</form>
-<tag lemma="SR-1_:B_;G_^(Slovenská_republika)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="SR-1_:B_;G_^(Slovenská_republika)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="SR-1_:B_;G_^(Slovenská_republika)" src="manual" selected="1">NNNXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95044-078-p2s2w17">
 <src.rf>manual</src.rf>
@@ -393,7 +405,10 @@
 <LM>w#w-ln95044-078-p2s2w23</LM>
 </w.rf>
 <form>OSN</form>
-<tag lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95044-078-p2s2w24">
 <src.rf>manual</src.rf>
@@ -427,7 +442,7 @@
 <form>Petrovskij</form>
 <tag>
 <AM lemma="Petrovský_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Petrovský_;S" src="auto" recommended="1">NNMS1-----A---1</AM>
+<AM lemma="Petrovský_;S" src="auto" recommended="1" selected="1">NNMS1-----A---1</AM>
 <AM lemma="Petrovský_;S" src="auto">NNMS5-----A---1</AM>
 </tag>
 </m>
@@ -551,7 +566,10 @@
 <LM>w#w-ln95044-078-p2s3w6</LM>
 </w.rf>
 <form>ČR</form>
-<tag lemma="ČR-1_:B_;G_^(Česká_republika)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95044-078-p2s3w7">
 <src.rf>manual</src.rf>
@@ -567,7 +585,10 @@
 <LM>w#w-ln95044-078-p2s3w8</LM>
 </w.rf>
 <form>SR</form>
-<tag lemma="SR-1_:B_;G_^(Slovenská_republika)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="SR-1_:B_;G_^(Slovenská_republika)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="SR-1_:B_;G_^(Slovenská_republika)" src="manual" selected="1">NNNXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95044-078-p2s3w9">
 <src.rf>manual</src.rf>
@@ -615,7 +636,10 @@
 <LM>w#w-ln95044-078-p2s3w14</LM>
 </w.rf>
 <form>OSN</form>
-<tag lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95044-078-p2s3w15">
 <src.rf>manual</src.rf>
@@ -705,7 +729,10 @@
 <LM>w#w-ln95044-078-p2s4w10</LM>
 </w.rf>
 <form>OSN</form>
-<tag lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95044-078-p2s4w11">
 <src.rf>manual</src.rf>
@@ -857,7 +884,10 @@
 <LM>w#w-ln95044-078-p2s4w29</LM>
 </w.rf>
 <form>funkcionalismu</form>
-<tag lemma="funkcionalismus" src="orig" selected="1">NNIS2-----A----</tag>
+<tag>
+<AM lemma="funkcionalismus" src="orig">NNIS2-----A----</AM>
+<AM lemma="funkcionalismus_,s_^(^DD**funkcionalizmus)" src="manual" selected="1">NNIS2-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95044-078-p2s4w30">
 <src.rf>manual</src.rf>

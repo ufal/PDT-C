@@ -43,7 +43,10 @@
 <LM>w#w-ln95042-086-p1s1w4</LM>
 </w.rf>
 <form>UNPROFOR</form>
-<tag lemma="UNPROFOR_:B" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="UNPROFOR_:B" src="orig">NNFXX-----A---8</AM>
+<AM lemma="UNPROFOR-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 </s>
 <s id="m-ln95042-086-p2s1A">
@@ -111,7 +114,10 @@
 <LM>w#w-ln95042-086-p2s1Bw6</LM>
 </w.rf>
 <form>UNPROFOR</form>
-<tag lemma="UNPROFOR_:B" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="UNPROFOR_:B" src="orig">NNFXX-----A---8</AM>
+<AM lemma="UNPROFOR-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95042-086-p2s1Bw7">
 <src.rf>manual</src.rf>
@@ -471,7 +477,7 @@
 <AM lemma="Záhřeb_;G" src="orig">NNIS6-----A----</AM>
 <AM lemma="Záhřeb_;G" src="auto">NNIS2-----A---1</AM>
 <AM lemma="Záhřeb_;G" src="auto">NNIS3-----A----</AM>
-<AM lemma="Záhřeb_;G" src="auto" recommended="1">NNIS6-----A---1</AM>
+<AM lemma="Záhřeb_;G" src="auto" recommended="1" selected="1">NNIS6-----A---1</AM>
 </tag>
 </m>
 <m id="m-ln95042-086-p2s3w14">
@@ -488,7 +494,10 @@
 <LM>w#w-ln95042-086-p2s3w15</LM>
 </w.rf>
 <form>UNPROFOR</form>
-<tag lemma="UNPROFOR_:B" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="UNPROFOR_:B" src="orig">NNFXX-----A---8</AM>
+<AM lemma="UNPROFOR-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95042-086-p2s3w16">
 <src.rf>manual</src.rf>
@@ -568,7 +577,10 @@
 <LM>w#w-ln95042-086-p2s3w25</LM>
 </w.rf>
 <form>tzv</form>
-<tag lemma="takzvaný_:B" src="orig" selected="1">AAXXX----1A---8</tag>
+<tag>
+<AM lemma="takzvaný_:B" src="orig">AAXXX----1A---8</AM>
+<AM lemma="takzvaný" src="manual" selected="1">AAXXX----1A---8</AM>
+</tag>
 </m>
 <m id="m-ln95042-086-p2s3w26">
 <src.rf>manual</src.rf>
@@ -616,7 +628,10 @@
 <LM>w#w-ln95042-086-p2s3w31</LM>
 </w.rf>
 <form>RSK</form>
-<tag lemma="RSK_:B_;G_^(Republika_Srbská_Krajina)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="RSK_:B_;G_^(Republika_Srbská_Krajina)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="RSK-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95042-086-p2s3w32">
 <src.rf>manual</src.rf>
@@ -658,7 +673,10 @@
 <LM>w#w-ln95042-086-p2s4w3</LM>
 </w.rf>
 <form>má</form>
-<tag lemma="mít" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag>
+<AM lemma="mít" src="orig">VB-S---3P-AA---</AM>
+<AM lemma="mít_:T" src="manual" selected="1">VB-S---3P-AA---</AM>
+</tag>
 </m>
 <m id="m-ln95042-086-p2s4w4">
 <src.rf>manual</src.rf>
@@ -834,7 +852,10 @@
 <LM>w#w-ln95042-086-p2s4w25</LM>
 </w.rf>
 <form>RSK</form>
-<tag lemma="RSK_:B_;G_^(Republika_Srbská_Krajina)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="RSK_:B_;G_^(Republika_Srbská_Krajina)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="RSK-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95042-086-p2s4w26">
 <src.rf>manual</src.rf>

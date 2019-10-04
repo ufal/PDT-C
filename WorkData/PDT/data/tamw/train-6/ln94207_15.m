@@ -391,7 +391,10 @@
 <LM>w#w-ln94207-15-p2s4w16</LM>
 </w.rf>
 <form>milionů</form>
-<tag lemma="milión`1000000" src="orig" selected="1">NNIP2-----A----</tag>
+<tag>
+<AM lemma="milión`1000000" src="orig">NNIP2-----A----</AM>
+<AM lemma="milion`1000000_,s_^(^DD**milión)" src="manual" selected="1">NNIP2-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94207-15-p2s4w17">
 <src.rf>manual</src.rf>
@@ -550,7 +553,7 @@
 <tag>
 <AM lemma="tedy" src="orig">Db-------------</AM>
 <AM lemma="tedy-1" src="auto">TT-------------</AM>
-<AM lemma="tedy-2" src="auto" recommended="1">J^-------------</AM>
+<AM lemma="tedy-2" src="auto" recommended="1" selected="1">J^-------------</AM>
 </tag>
 </m>
 <m id="m-ln94207-15-p2s6w6">
@@ -1092,7 +1095,7 @@
 <tag>
 <AM lemma="přece" src="orig">Db-------------</AM>
 <AM lemma="přece-1" src="auto">J^-------------</AM>
-<AM lemma="přece-2" src="auto" recommended="1">TT-------------</AM>
+<AM lemma="přece-2" src="auto" recommended="1" selected="1">TT-------------</AM>
 </tag>
 </m>
 <m id="m-ln94207-15-p2s11w9">
@@ -1138,7 +1141,7 @@
 <tag>
 <AM lemma="přece" src="orig">Db-------------</AM>
 <AM lemma="přece-1" src="auto">J^-------------</AM>
-<AM lemma="přece-2" src="auto" recommended="1">TT-------------</AM>
+<AM lemma="přece-2" src="auto" recommended="1" selected="1">TT-------------</AM>
 </tag>
 </m>
 <m id="m-ln94207-15-p2s12w5">
@@ -1158,7 +1161,7 @@
 <tag>
 <AM lemma="tady" src="orig">Db------------1</AM>
 <AM lemma="ten" src="auto" recommended="1">PDFS4----------</AM>
-<AM lemma="tu" src="auto">Db-------------</AM>
+<AM lemma="tu" src="auto" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m-ln94207-15-p2s12w7">
@@ -1495,7 +1498,10 @@
 <LM>w#w-ln94207-15-p2s16w1</LM>
 </w.rf>
 <form>Diskuse</form>
-<tag lemma="diskuse" src="orig" selected="1">NNFP1-----A----</tag>
+<tag>
+<AM lemma="diskuse" src="orig">NNFP1-----A----</AM>
+<AM lemma="diskuse_,s_^(^DD**diskuze)" src="manual" selected="1">NNFS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94207-15-p2s16w2">
 <src.rf>manual</src.rf>

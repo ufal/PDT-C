@@ -267,7 +267,10 @@
 <LM>w#w-lnd91303-043-p4s2w10</LM>
 </w.rf>
 <form>stali</form>
-<tag lemma="stát-2_^(něco_se_přihodilo)" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag>
+<AM lemma="stát-2_^(něco_se_přihodilo)" src="orig">VpMP---XR-AA---</AM>
+<AM lemma="stát-2_^(stanu_staneš)" src="manual" selected="1">VpMP---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-lnd91303-043-p4s2w11">
 <src.rf>manual</src.rf>
@@ -442,7 +445,7 @@
 <AM lemma="sedmý" src="auto">CrFP1----------</AM>
 <AM lemma="sedmý" src="auto">CrFP4----------</AM>
 <AM lemma="sedmý" src="auto">CrFP5----------</AM>
-<AM lemma="sedmý" src="auto" recommended="1">CrFS2----------</AM>
+<AM lemma="sedmý" src="auto" recommended="1" selected="1">CrFS2----------</AM>
 <AM lemma="sedmý" src="auto">CrFS3----------</AM>
 <AM lemma="sedmý" src="auto">CrFS6----------</AM>
 <AM lemma="sedmý" src="auto">CrIP1----------</AM>
@@ -729,7 +732,10 @@
 <LM>w#w-lnd91303-043-p4s4w2</LM>
 </w.rf>
 <form>IFJ</form>
-<tag lemma="IFJ-1_:B_;K_,t_^(International_Federation_of_Journalists)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="IFJ-1_:B_;K_,t_^(International_Federation_of_Journalists)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="IFJ-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd91303-043-p4s4w3">
 <src.rf>manual</src.rf>
@@ -737,7 +743,10 @@
 <LM>w#w-lnd91303-043-p4s4w3</LM>
 </w.rf>
 <form>Mia</form>
-<tag lemma="Mia_;Y_,t" src="auto" selected="1">NNFS1-----A----</tag>
+<tag>
+<AM lemma="Mia_;Y_,t" src="auto">NNFS1-----A----</AM>
+<AM lemma="Mia_;Y" src="manual" selected="1">NNFS1-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd91303-043-p4s4w4">
 <src.rf>manual</src.rf>
@@ -1417,7 +1426,10 @@
 <LM>w#w-lnd91303-043-p4s8w12</LM>
 </w.rf>
 <form>IFJ</form>
-<tag lemma="IFJ-1_:B_;K_,t_^(International_Federation_of_Journalists)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="IFJ-1_:B_;K_,t_^(International_Federation_of_Journalists)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="IFJ-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd91303-043-p4s8w13">
 <src.rf>manual</src.rf>
@@ -1425,7 +1437,10 @@
 <LM>w#w-lnd91303-043-p4s8w13</LM>
 </w.rf>
 <form>Aidan</form>
-<tag lemma="Aidan_;S" src="auto" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Aidan_;S" src="auto">NNMS1-----A----</AM>
+<AM lemma="Aidan_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd91303-043-p4s8w14">
 <src.rf>manual</src.rf>

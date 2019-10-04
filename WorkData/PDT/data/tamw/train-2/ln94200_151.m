@@ -257,7 +257,10 @@
 <LM>w#w-ln94200-151-p4s1w5</LM>
 </w.rf>
 <form>jen</form>
-<tag lemma="jen-1" src="auto" selected="1">TT-------------</tag>
+<tag>
+<AM lemma="jen-1" src="auto">TT-------------</AM>
+<AM lemma="jen-4_^(pouze)" src="manual" selected="1">Db-------------</AM>
+</tag>
 </m>
 <m id="m-ln94200-151-p4s1w6">
 <src.rf>manual</src.rf>
@@ -692,7 +695,10 @@
 <LM>w#w-ln94200-151-p4s6w3</LM>
 </w.rf>
 <form>li</form>
-<tag lemma="li-1" src="auto" selected="1">TT-------------</tag>
+<tag>
+<AM lemma="li-1" src="auto">TT-------------</AM>
+<AM lemma="li-2" src="manual" selected="1">J,-------------</AM>
+</tag>
 </m>
 <m id="m-ln94200-151-p4s6w4">
 <src.rf>manual</src.rf>
@@ -1143,7 +1149,7 @@
 <tag>
 <AM lemma="přesto" src="orig">Dg-------1A----</AM>
 <AM lemma="přesto-1" src="auto" recommended="1">Db-------------</AM>
-<AM lemma="přesto-2" src="auto">J^-------------</AM>
+<AM lemma="přesto-2" src="auto" selected="1">J^-------------</AM>
 </tag>
 </m>
 <m id="m-ln94200-151-p5s1w13">
@@ -1632,7 +1638,10 @@
 <LM>w#w-ln94200-151-p5s5Aw13</LM>
 </w.rf>
 <form>sezonu</form>
-<tag lemma="sezona" src="orig" selected="1">NNFS4-----A----</tag>
+<tag>
+<AM lemma="sezona" src="orig">NNFS4-----A----</AM>
+<AM lemma="sezona_,s_^(^DD**sezóna)" src="manual" selected="1">NNFS4-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94200-151-p5s5Aw14">
 <src.rf>manual</src.rf>
@@ -1656,7 +1665,10 @@
 <LM>w#w-ln94200-151-p5s5Aw16</LM>
 </w.rf>
 <form>milionů</form>
-<tag lemma="milión`1000000" src="orig" selected="1">NNIP2-----A----</tag>
+<tag>
+<AM lemma="milión`1000000" src="orig">NNIP2-----A----</AM>
+<AM lemma="milion`1000000_,s_^(^DD**milión)" src="manual" selected="1">NNIP2-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94200-151-p5s5Aw17">
 <src.rf>manual</src.rf>
@@ -1704,7 +1716,10 @@
 <LM>w#w-ln94200-151-p5s5Aw22</LM>
 </w.rf>
 <form>milion</form>
-<tag lemma="milión`1000000" src="orig" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="milión`1000000" src="orig">NNIS1-----A----</AM>
+<AM lemma="milion`1000000_,s_^(^DD**milión)" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94200-151-p5s5Aw23">
 <src.rf>manual</src.rf>
@@ -2110,7 +2125,10 @@
 <LM>w#w-ln94200-151-p6s2w12</LM>
 </w.rf>
 <form>jen</form>
-<tag lemma="jen-1" src="auto" selected="1">TT-------------</tag>
+<tag>
+<AM lemma="jen-1" src="auto">TT-------------</AM>
+<AM lemma="jen-4_^(pouze)" src="manual" selected="1">Db-------------</AM>
+</tag>
 </m>
 <m id="m-ln94200-151-p6s2w13">
 <src.rf>manual</src.rf>
@@ -2445,10 +2463,15 @@
 </w.rf>
 <form>krb</form>
 <tag>
-<AM lemma="krb-99_:B_;S" src="orig">NNXXX-----A---8</AM>
+<AM lemma="krb-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</AM>
 <AM lemma="krb" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="krb" src="auto">NNIS4-----A----</AM>
 </tag>
+<comment>
+<LM type="Other">
+<text>ponechána původní "červená" analýza (autorská zkratka)</text>
+</LM>
+</comment>
 </m>
 <m id="m-ln94200-151-p6s5w3">
 <src.rf>manual</src.rf>

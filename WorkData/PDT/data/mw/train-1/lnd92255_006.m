@@ -533,7 +533,10 @@
 <LM>w#w-lnd92255-006-p3s4w7</LM>
 </w.rf>
 <form>otevřena</form>
-<tag lemma="otevřít" src="orig" selected="1">VsQW---XX-AP---</tag>
+<tag>
+<AM lemma="otevřít" src="orig">VsQW---XX-AP---</AM>
+<AM lemma="otevřít_:W" src="manual" selected="1">VsQW---XX-AP---</AM>
+</tag>
 </m>
 <m id="m-lnd92255-006-p3s4w8">
 <src.rf>manual</src.rf>
@@ -1028,7 +1031,10 @@
 <LM>w#w-lnd92255-006-p4s2w7</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-2" src="auto" selected="1">Dg-------2A----</tag>
+<tag>
+<AM lemma="hodně-2" src="auto">Dg-------2A----</AM>
+<AM lemma="hodně-3" src="manual" selected="1">Dg-------2A----</AM>
+</tag>
 </m>
 <m id="m-lnd92255-006-p4s2w8">
 <src.rf>manual</src.rf>
@@ -1208,7 +1214,7 @@
 <form>snad</form>
 <tag>
 <AM lemma="snad" src="orig">Db-------------</AM>
-<AM lemma="snad" src="auto" recommended="1">TT-------------</AM>
+<AM lemma="snad" src="auto" recommended="1" selected="1">TT-------------</AM>
 </tag>
 </m>
 <m id="m-lnd92255-006-p4s3w20">
@@ -1860,7 +1866,10 @@
 <LM>w#w-lnd92255-006-p4s8w2</LM>
 </w.rf>
 <form>Nemám</form>
-<tag lemma="mít" src="orig" selected="1">VB-S---1P-NA---</tag>
+<tag>
+<AM lemma="mít" src="orig">VB-S---1P-NA---</AM>
+<AM lemma="mít_:T" src="manual" selected="1">VB-S---1P-NA---</AM>
+</tag>
 </m>
 <m id="m-lnd92255-006-p4s8w3">
 <src.rf>manual</src.rf>
@@ -2224,7 +2233,10 @@
 <LM>w#w-lnd92255-006-p5s2w12</LM>
 </w.rf>
 <form>neprošlo</form>
-<tag lemma="projít_^(i_uplynout_[o_čase])" src="auto" selected="1">VpNS---XR-NA---</tag>
+<tag>
+<AM lemma="projít_^(i_uplynout_[o_čase])" src="auto">VpNS---XR-NA---</AM>
+<AM lemma="projít_:W_^(i_uplynout_[o_čase])" src="manual" selected="1">VpNS---XR-NA---</AM>
+</tag>
 </m>
 <m id="m-lnd92255-006-p5s2w13">
 <src.rf>manual</src.rf>
@@ -2493,7 +2505,7 @@
 <tag>
 <AM lemma="tady" src="orig">Db------------1</AM>
 <AM lemma="ten" src="auto">PDFS4----------</AM>
-<AM lemma="tu" src="auto" recommended="1">Db-------------</AM>
+<AM lemma="tu" src="auto" recommended="1" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m-lnd92255-006-p5s3w25">
@@ -2656,7 +2668,7 @@
 <AM lemma="neustálý" src="auto">AANP4----1A---6</AM>
 <AM lemma="neustálý" src="auto">AANP5----1A---6</AM>
 <AM lemma="neustálý" src="auto">AANS1----1A----</AM>
-<AM lemma="neustálý" src="auto" recommended="1">AANS4----1A----</AM>
+<AM lemma="neustálý" src="auto" recommended="1" selected="1">AANS4----1A----</AM>
 <AM lemma="neustálý" src="auto">AANS5----1A----</AM>
 </tag>
 </m>
@@ -3489,7 +3501,10 @@
 <LM>w#w-lnd92255-006-p7s1w2</LM>
 </w.rf>
 <form>ge</form>
-<tag lemma="ge-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="ge-99_:B_;S" src="orig">NNXXX-----A---8</AM>
+<AM lemma="ge-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92255-006-p7s1w3">
 <src.rf>manual</src.rf>

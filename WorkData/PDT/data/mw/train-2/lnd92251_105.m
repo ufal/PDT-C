@@ -260,6 +260,8 @@
 <AM lemma="Mir-1_;R_,t_^(ruská_kosmická_stanice)" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Mir-1_;R_,t_^(ruská_kosmická_stanice)" src="auto">NNIS4-----A----</AM>
 <AM lemma="Mira_;G_;Y" src="auto">NNFP2-----A----</AM>
+<AM lemma="Mir-77" src="manual">F%-------------</AM>
+<AM lemma="Mir-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-lnd92251-105-p2s6w2">
@@ -1241,7 +1243,7 @@
 </w.rf>
 <form>Karabin</form>
 <tag>
-<AM lemma="Karabin_;S" src="orig">NNMS1-----A----</AM>
+<AM lemma="Karabin_;S" src="orig" selected="1">NNMS1-----A----</AM>
 <AM lemma="karabina" src="auto" recommended="1">NNFP2-----A----</AM>
 </tag>
 </m>

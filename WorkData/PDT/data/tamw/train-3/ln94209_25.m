@@ -77,7 +77,10 @@
 <LM>w#w-ln94209-25-p2s1Aw3</LM>
 </w.rf>
 <form>če</form>
-<tag lemma="če-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="če-99_:B_;S" src="orig">NNXXX-----A---8</AM>
+<AM lemma="če-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94209-25-p2s1Aw4">
 <src.rf>manual</src.rf>
@@ -93,7 +96,10 @@
 <LM>w#w-ln94209-25-p2s1Aw5</LM>
 </w.rf>
 <form>haš</form>
-<tag lemma="haš-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="haš-99_:B_;S" src="orig">NNXXX-----A---8</AM>
+<AM lemma="haš-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94209-25-p2s1Aw6">
 <src.rf>manual</src.rf>
@@ -399,7 +405,10 @@
 <LM>w#w-ln94209-25-p2s1Bw36</LM>
 </w.rf>
 <form>ČR</form>
-<tag lemma="ČR-1_:B_;G_^(Česká_republika)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94209-25-p2s1Bw37">
 <src.rf>manual</src.rf>
@@ -819,7 +828,10 @@
 <LM>w#w-ln94209-25-p4s1w28</LM>
 </w.rf>
 <form>ODS</form>
-<tag lemma="ODS-1_:B_;K_;p_^(Občanská_demokratická_strana)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ODS-1_:B_;K_;p_^(Občanská_demokratická_strana)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ODS-1_:B_;K_^(Občanská_demokratická_strana)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94209-25-p4s1w29">
 <src.rf>manual</src.rf>
@@ -1040,7 +1052,7 @@
 </w.rf>
 <form>Payna</form>
 <tag>
-<AM lemma="Payne_;S" src="orig">NNMS2-----A----</AM>
+<AM lemma="Payne_;S" src="orig" selected="1">NNMS2-----A----</AM>
 <AM lemma="Payno_;S" src="auto" recommended="1">NNMS2-----A----</AM>
 <AM lemma="Payno_;S" src="auto">NNMS4-----A----</AM>
 </tag>

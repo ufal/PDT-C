@@ -111,7 +111,10 @@
 <LM>w#w-mf930713-100-p2s1Bw7</LM>
 </w.rf>
 <form>EHC</form>
-<tag lemma="EHC_:B_;K" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="EHC_:B_;K" src="orig">NNIXX-----A---8</AM>
+<AM lemma="EHC-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-mf930713-100-p2s1Bw8">
 <src.rf>manual</src.rf>
@@ -216,7 +219,10 @@
 <LM>w#w-mf930713-100-p2s1Bw20</LM>
 </w.rf>
 <form>JVP</form>
-<tag lemma="JVP_:B_;K" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="JVP_:B_;K" src="orig">NNXXX-----A---8</AM>
+<AM lemma="JVP-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-mf930713-100-p2s1Bw21">
 <src.rf>manual</src.rf>
@@ -371,7 +377,10 @@
 <LM>w#w-mf930713-100-p2s2w17</LM>
 </w.rf>
 <form>FC</form>
-<tag lemma="FC-1_:B_;K_;w_^(Football_Club,_př._FC_Sparta)" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="FC-1_:B_;K_;w_^(Football_Club,_př._FC_Sparta)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="FC-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-mf930713-100-p2s2w18">
 <src.rf>manual</src.rf>

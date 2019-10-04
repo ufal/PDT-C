@@ -224,7 +224,7 @@
 </w.rf>
 <form>Schenka</form>
 <tag>
-<AM lemma="Schenka_;S" src="orig">NNMS1-----A----</AM>
+<AM lemma="Schenka_;S" src="orig" selected="1">NNMS1-----A----</AM>
 <AM lemma="Schenk_;S" src="auto" recommended="1">NNMS2-----A----</AM>
 <AM lemma="Schenk_;S" src="auto">NNMS4-----A----</AM>
 </tag>
@@ -276,7 +276,7 @@
 </w.rf>
 <form>Mobile</form>
 <tag>
-<AM lemma="Mobile_;G" src="orig">NNNXX-----A----</AM>
+<AM lemma="Mobile_;G" src="orig" selected="1">NNNXX-----A----</AM>
 <AM lemma="mobil" src="auto">NNIS5-----A----</AM>
 <AM lemma="mobil" src="auto">NNIS6-----A----</AM>
 <AM lemma="mobile_,t" src="auto" recommended="1">XX-------------</AM>
@@ -710,7 +710,10 @@
 <LM>w#w-ln94205-104-p2s5w13</LM>
 </w.rf>
 <form>LN</form>
-<tag lemma="LN-1_:B_;R_^(Lidové_noviny,_deník)" src="orig" selected="1">NNFPX-----A---8</tag>
+<tag>
+<AM lemma="LN-1_:B_;R_^(Lidové_noviny,_deník)" src="orig">NNFPX-----A---8</AM>
+<AM lemma="LN-1_:B_;K_;R_^(Lidové_noviny)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94205-104-p2s5w14">
 <src.rf>manual</src.rf>
@@ -931,9 +934,14 @@
 </w.rf>
 <form>mag</form>
 <tag>
-<AM lemma="mag-99_:B_;S" src="orig">NNXXX-----A---8</AM>
+<AM lemma="mag-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</AM>
 <AM lemma="magnituda-8_:B" src="auto" recommended="1">NNFXX-----A----</AM>
 </tag>
+<comment>
+<LM type="Other">
+<text>ponechána původní "červená" analýza (autorská zkratka)</text>
+</LM>
+</comment>
 </m>
 <m id="m-ln94205-104-p2s7w3">
 <src.rf>manual</src.rf>

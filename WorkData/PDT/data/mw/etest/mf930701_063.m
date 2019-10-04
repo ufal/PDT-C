@@ -86,6 +86,7 @@
 <tag>
 <AM lemma="Jethro_;Y" src="orig">NNMXX-----A----</AM>
 <AM lemma="Jethro_;K_^(Jethro_Tull)" src="auto" recommended="1">AAXXX----1A----</AM>
+<AM lemma="Jethro-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-mf930701-063-p1s1w10">
@@ -94,7 +95,10 @@
 <LM>w#w-mf930701-063-p1s1w10</LM>
 </w.rf>
 <form>Tull</form>
-<tag lemma="Tull_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Tull_;S" src="orig">NNMS1-----A----</AM>
+<AM lemma="Tull-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 </s>
 <s id="m-mf930701-063-p2s1">
@@ -121,7 +125,7 @@
 </w.rf>
 <form>mas</form>
 <tag>
-<AM lemma="mas-99_:B_;S" src="orig">NNXXX-----A---8</AM>
+<AM lemma="mas-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</AM>
 <AM lemma="masa_^(velké_množství)" src="auto" recommended="1">NNFP2-----A----</AM>
 <AM lemma="maso_^(jídlo_apod.)" src="auto">NNNP2-----A----</AM>
 </tag>
@@ -359,6 +363,7 @@
 <tag>
 <AM lemma="Jethro_;Y" src="orig">NNMXX-----A----</AM>
 <AM lemma="Jethro_;K_^(Jethro_Tull)" src="auto" recommended="1">AAXXX----1A----</AM>
+<AM lemma="Jethro-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-mf930701-063-p2s1w33">
@@ -367,7 +372,10 @@
 <LM>w#w-mf930701-063-p2s1w33</LM>
 </w.rf>
 <form>Tull</form>
-<tag lemma="Tull_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Tull_;S" src="orig">NNMS1-----A----</AM>
+<AM lemma="Tull-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-mf930701-063-p2s1w34">
 <src.rf>manual</src.rf>
@@ -412,6 +420,7 @@
 <tag>
 <AM lemma="Jethro_;Y" src="orig">NNMXX-----A----</AM>
 <AM lemma="Jethro_;K_^(Jethro_Tull)" src="auto" recommended="1">AAXXX----1A----</AM>
+<AM lemma="Jethro-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-mf930701-063-p2s2w5">
@@ -420,7 +429,10 @@
 <LM>w#w-mf930701-063-p2s2w5</LM>
 </w.rf>
 <form>Tull</form>
-<tag lemma="Tull_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Tull_;S" src="orig">NNMS1-----A----</AM>
+<AM lemma="Tull-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-mf930701-063-p2s2w6">
 <src.rf>manual</src.rf>
@@ -430,7 +442,7 @@
 <form>totiž</form>
 <tag>
 <AM lemma="totiž" src="orig">Db-------------</AM>
-<AM lemma="totiž-1" src="auto" recommended="1">J^-------------</AM>
+<AM lemma="totiž-1" src="auto" recommended="1" selected="1">J^-------------</AM>
 <AM lemma="totiž-2" src="auto">TT-------------</AM>
 </tag>
 </m>
@@ -948,7 +960,7 @@
 <form>Přesto</form>
 <tag>
 <AM lemma="přesto" src="orig">Dg-------1A----</AM>
-<AM lemma="přesto-1" src="auto">Db-------------</AM>
+<AM lemma="přesto-1" src="auto" selected="1">Db-------------</AM>
 <AM lemma="přesto-2" src="auto" recommended="1">J^-------------</AM>
 </tag>
 </m>
@@ -1977,6 +1989,7 @@
 <tag>
 <AM lemma="Jethro_;Y" src="orig">NNMXX-----A----</AM>
 <AM lemma="Jethro_;K_^(Jethro_Tull)" src="auto" recommended="1">AAXXX----1A----</AM>
+<AM lemma="Jethro-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-mf930701-063-p4s5w7">
@@ -1985,7 +1998,10 @@
 <LM>w#w-mf930701-063-p4s5w7</LM>
 </w.rf>
 <form>Tull</form>
-<tag lemma="Tull_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Tull_;S" src="orig">NNMS1-----A----</AM>
+<AM lemma="Tull-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-mf930701-063-p4s5w8">
 <src.rf>manual</src.rf>

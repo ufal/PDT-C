@@ -141,7 +141,10 @@
 <LM>w#w-lnd92251-014-p1s2w2</LM>
 </w.rf>
 <form>přinesly</form>
-<tag lemma="přinést" src="orig" selected="1">VpTP---XR-AA---</tag>
+<tag>
+<AM lemma="přinést" src="orig">VpTP---XR-AA---</AM>
+<AM lemma="přinést_:W" src="manual" selected="1">VpTP---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-lnd92251-014-p1s2w3">
 <src.rf>manual</src.rf>
@@ -450,7 +453,10 @@
 <LM>w#w-lnd92251-014-p2s1w16</LM>
 </w.rf>
 <form>Čs</form>
-<tag lemma="československý_:B" src="orig" selected="1">AAXXX----1A---8</tag>
+<tag>
+<AM lemma="československý_:B" src="orig">AAXXX----1A---8</AM>
+<AM lemma="československý" src="manual" selected="1">AAXXX----1A---8</AM>
+</tag>
 </m>
 <m id="m-lnd92251-014-p2s1w17">
 <src.rf>manual</src.rf>
@@ -530,7 +536,10 @@
 <LM>w#w-lnd92251-014-p2s1w26</LM>
 </w.rf>
 <form>začal</form>
-<tag lemma="začít-1_^(začnout)" src="auto" selected="1">VpYS---XR-AA---</tag>
+<tag>
+<AM lemma="začít-1_^(začnout)" src="auto">VpYS---XR-AA---</AM>
+<AM lemma="začít-1_:W_^(začnout)" src="manual" selected="1">VpYS---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-lnd92251-014-p2s1w27">
 <src.rf>manual</src.rf>
@@ -671,6 +680,7 @@
 <AM lemma="a-8_:B_^(ost._zkratka)" src="auto">XX------------8</AM>
 <AM lemma="akciový_:B_^(jen_akciová_společnost)" src="auto">AAXXX----1A---8</AM>
 <AM lemma="á_,t" src="auto">RF------------1</AM>
+<AM lemma="A-33_^(označení_pomocí_písmene)" src="manual" selected="1">NNNXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92251-014-p3s1w13">
@@ -815,7 +825,10 @@
 <LM>w#w-lnd92251-014-p3s1w30</LM>
 </w.rf>
 <form>kV</form>
-<tag lemma="kV-1`kilovolt_:B" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="kV-1`kilovolt_:B" src="orig">NNIXX-----A---8</AM>
+<AM lemma="kilovolt" src="manual" selected="1">NNIXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd92251-014-p3s1w31">
 <src.rf>manual</src.rf>
@@ -970,7 +983,7 @@
 </w.rf>
 <form>Yehudi</form>
 <tag>
-<AM lemma="Yehudi_;Y" src="orig">NNMXX-----A----</AM>
+<AM lemma="Yehudi_;Y" src="orig" selected="1">NNMXX-----A----</AM>
 <AM lemma="Yehudi_;S" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Yehudi_;S" src="auto">NNMS5-----A----</AM>
 </tag>
@@ -1045,7 +1058,10 @@
 <LM>w#w-lnd92251-014-p4s1w15</LM>
 </w.rf>
 <form>h</form>
-<tag lemma="hodina_:B" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="hodina_:B" src="orig">NNFXX-----A---8</AM>
+<AM lemma="hodina" src="manual" selected="1">NNFXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd92251-014-p4s1w16">
 <src.rf>manual</src.rf>

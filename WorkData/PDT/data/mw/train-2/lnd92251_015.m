@@ -115,7 +115,10 @@
 <LM>w#w-lnd92251-015-p1s1w13</LM>
 </w.rf>
 <form>ČNR</form>
-<tag lemma="ČNR-1_:B_;K_^(Česká_národní_rada)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ČNR-1_:B_;K_^(Česká_národní_rada)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČNR-1_:B_;K_^(Česká_národní_rada)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92251-015-p1s1w14">
 <src.rf>manual</src.rf>
@@ -245,7 +248,10 @@
 <LM>w#w-lnd92251-015-p1s2w15</LM>
 </w.rf>
 <form>ČR</form>
-<tag lemma="ČR-1_:B_;G_^(Česká_republika)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92251-015-p1s2w16">
 <src.rf>manual</src.rf>
@@ -293,7 +299,10 @@
 <LM>w#w-lnd92251-015-p1s2w21</LM>
 </w.rf>
 <form>ES</form>
-<tag lemma="ES_:B_;K_^(Evropská_společenství)" src="orig" selected="1">NNNXX-----A---8</tag>
+<tag>
+<AM lemma="ES_:B_;K_^(Evropská_společenství)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="ES-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92251-015-p1s2w22">
 <src.rf>manual</src.rf>
@@ -609,7 +618,10 @@
 <LM>w#w-lnd92251-015-p3s1w3</LM>
 </w.rf>
 <form>ČSAV</form>
-<tag lemma="ČSAV-1_:B_;K_^(Čs._akademie_věd)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ČSAV-1_:B_;K_^(Čs._akademie_věd)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČSAV-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92251-015-p3s1w4">
 <src.rf>manual</src.rf>
@@ -1069,7 +1081,10 @@
 <LM>w#w-lnd92251-015-p4s1w26</LM>
 </w.rf>
 <form>ODS</form>
-<tag lemma="ODS-1_:B_;K_;p_^(Občanská_demokratická_strana)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ODS-1_:B_;K_;p_^(Občanská_demokratická_strana)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ODS-1_:B_;K_^(Občanská_demokratická_strana)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92251-015-p4s1w27">
 <src.rf>manual</src.rf>
@@ -1112,7 +1127,7 @@
 <tag>
 <AM lemma="tedy" src="orig">Db-------------</AM>
 <AM lemma="tedy-1" src="auto">TT-------------</AM>
-<AM lemma="tedy-2" src="auto" recommended="1">J^-------------</AM>
+<AM lemma="tedy-2" src="auto" recommended="1" selected="1">J^-------------</AM>
 </tag>
 </m>
 <m id="m-lnd92251-015-p4s1w32">

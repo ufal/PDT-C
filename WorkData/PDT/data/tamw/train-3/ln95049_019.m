@@ -81,7 +81,7 @@
 <form>Snad</form>
 <tag>
 <AM lemma="snad" src="orig">Db-------------</AM>
-<AM lemma="snad" src="auto" recommended="1">TT-------------</AM>
+<AM lemma="snad" src="auto" recommended="1" selected="1">TT-------------</AM>
 </tag>
 </m>
 <m id="m-ln95049-019-p2s1Bw2">
@@ -92,7 +92,7 @@
 <form>jedině</form>
 <tag>
 <AM lemma="jedině_^(*1ý)" src="orig">Dg-------1A----</AM>
-<AM lemma="jedině" src="auto" recommended="1">Db-------------</AM>
+<AM lemma="jedině" src="auto" recommended="1" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m-ln95049-019-p2s1Bw3">
@@ -165,7 +165,10 @@
 <LM>w#w-ln95049-019-p2s1Bw11</LM>
 </w.rf>
 <form>sv</form>
-<tag lemma="svatý-1_:B" src="auto" selected="1">AAXXX----1A---8</tag>
+<tag>
+<AM lemma="svatý-1_:B" src="auto">AAXXX----1A---8</AM>
+<AM lemma="svatý-1" src="manual" selected="1">AAXXX----1A---8</AM>
+</tag>
 </m>
 <m id="m-ln95049-019-p2s1Bw12">
 <src.rf>manual</src.rf>
@@ -479,7 +482,10 @@
 <LM>w#w-ln95049-019-p2s3w24</LM>
 </w.rf>
 <form>ČR</form>
-<tag lemma="ČR-1_:B_;G_^(Česká_republika)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95049-019-p2s3w25">
 <src.rf>manual</src.rf>
@@ -917,7 +923,10 @@
 <LM>w#w-ln95049-019-p3s3w3</LM>
 </w.rf>
 <form>straně</form>
-<tag lemma="strana-1_^(v_prostoru)" src="orig" selected="1">NNFS6-----A----</tag>
+<tag>
+<AM lemma="strana-1_^(v_prostoru)" src="orig">NNFS6-----A----</AM>
+<AM lemma="strana" src="manual" selected="1">NNFS6-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95049-019-p3s3w4">
 <src.rf>manual</src.rf>

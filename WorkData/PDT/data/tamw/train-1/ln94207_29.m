@@ -56,6 +56,7 @@
 <tag>
 <AM lemma="Buenos_;G_^(Buenos_Aires)" src="orig">AAXXX----1A----</AM>
 <AM lemma="Buenos_;G" src="auto" recommended="1">NNNSX-----A----</AM>
+<AM lemma="Buenos-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-ln94207-29-p2s1Aw2">
@@ -64,7 +65,10 @@
 <LM>w#w-ln94207-29-p2s1Aw2</LM>
 </w.rf>
 <form>Aires</form>
-<tag lemma="Aires_;G_^(Buenos_Aires)" src="orig" selected="1">NNNXX-----A----</tag>
+<tag>
+<AM lemma="Aires_;G_^(Buenos_Aires)" src="orig">NNNXX-----A----</AM>
+<AM lemma="Aires-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94207-29-p2s1Aw3">
 <src.rf>manual</src.rf>

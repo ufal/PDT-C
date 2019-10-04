@@ -197,7 +197,10 @@
 <LM>w#w-ln95044-058-p6s3w3</LM>
 </w.rf>
 <form>li</form>
-<tag lemma="li-1" src="auto" selected="1">TT-------------</tag>
+<tag>
+<AM lemma="li-1" src="auto">TT-------------</AM>
+<AM lemma="li-2" src="manual" selected="1">J,-------------</AM>
+</tag>
 </m>
 <m id="m-ln95044-058-p6s3w4">
 <src.rf>manual</src.rf>

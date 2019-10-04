@@ -122,7 +122,7 @@
 <AM lemma="sedmý" src="auto">CrMS7----------</AM>
 <AM lemma="sedmý" src="auto">CrNP3----------</AM>
 <AM lemma="sedmý" src="auto">CrNS6---------7</AM>
-<AM lemma="sedmý" src="auto" recommended="1">CrNS7----------</AM>
+<AM lemma="sedmý" src="auto" recommended="1" selected="1">CrNS7----------</AM>
 </tag>
 </m>
 <m id="m-ln95043-008-p2s1Bw3">
@@ -253,7 +253,10 @@
 <LM>w#w-ln95043-008-p2s2w2</LM>
 </w.rf>
 <form>Jen</form>
-<tag lemma="jen-1" src="auto" selected="1">TT-------------</tag>
+<tag>
+<AM lemma="jen-1" src="auto">TT-------------</AM>
+<AM lemma="jen-4_^(pouze)" src="manual" selected="1">Db-------------</AM>
+</tag>
 </m>
 <m id="m-ln95043-008-p2s2w3">
 <src.rf>manual</src.rf>
@@ -301,7 +304,10 @@
 <LM>w#w-ln95043-008-p2s2w8</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-2" src="auto" selected="1">Dg-------2A----</tag>
+<tag>
+<AM lemma="hodně-2" src="auto">Dg-------2A----</AM>
+<AM lemma="více_^(více_+_2._p.,_více_peněz)" src="manual" selected="1">Ca--2----------</AM>
+</tag>
 </m>
 <m id="m-ln95043-008-p2s2w9">
 <src.rf>manual</src.rf>
@@ -461,7 +467,10 @@
 <LM>w#w-ln95043-008-p2s2w28</LM>
 </w.rf>
 <form>lavičku</form>
-<tag lemma="lavička-2" src="auto" selected="1">NNFS4-----A----</tag>
+<tag>
+<AM lemma="lavička-2" src="auto">NNFS4-----A----</AM>
+<AM lemma="lavička" src="manual" selected="1">NNFS4-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95043-008-p2s2w29">
 <src.rf>manual</src.rf>
@@ -619,7 +628,7 @@
 <AM lemma="odchod" src="orig">NNIS6-----A----</AM>
 <AM lemma="odchod" src="auto">NNIS2-----A----</AM>
 <AM lemma="odchod" src="auto">NNIS3-----A----</AM>
-<AM lemma="odchod" src="auto" recommended="1">NNIS6-----A---1</AM>
+<AM lemma="odchod" src="auto" recommended="1" selected="1">NNIS6-----A---1</AM>
 </tag>
 </m>
 <m id="m-ln95043-008-p2s3w13">
@@ -692,7 +701,10 @@
 <LM>w#w-ln95043-008-p2s3w21</LM>
 </w.rf>
 <form>lavičku</form>
-<tag lemma="lavička-2" src="auto" selected="1">NNFS4-----A----</tag>
+<tag>
+<AM lemma="lavička-2" src="auto">NNFS4-----A----</AM>
+<AM lemma="lavička" src="manual" selected="1">NNFS4-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95043-008-p2s3w22">
 <src.rf>manual</src.rf>
@@ -811,6 +823,7 @@
 <tag>
 <AM lemma="VTJ_:B_;K_^(vojenská_tělovýchovná_jednota)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="VTJ_:B_^(vojenská_tělovýchovná_jednota)" src="auto" recommended="1">NNXXX-----A---8</AM>
+<AM lemma="VTJ-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-ln95043-008-p3s2w3">
@@ -911,7 +924,7 @@
 <form>Ačkoliv</form>
 <tag>
 <AM lemma="ačkoliv" src="orig">J,-------------</AM>
-<AM lemma="ačkoli" src="auto" recommended="1">J,------------1</AM>
+<AM lemma="ačkoli" src="auto" recommended="1" selected="1">J,------------1</AM>
 </tag>
 </m>
 <m id="m-ln95043-008-p3s3w2">
@@ -1834,7 +1847,7 @@
 <AM lemma="sedmý" src="orig">AANS6----1A----</AM>
 <AM lemma="sedmý" src="auto">CrIS6----------</AM>
 <AM lemma="sedmý" src="auto">CrMS6----------</AM>
-<AM lemma="sedmý" src="auto" recommended="1">CrNS6----------</AM>
+<AM lemma="sedmý" src="auto" recommended="1" selected="1">CrNS6----------</AM>
 </tag>
 </m>
 <m id="m-ln95043-008-p3s10w15">

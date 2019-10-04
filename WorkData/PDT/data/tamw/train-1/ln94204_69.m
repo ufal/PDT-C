@@ -111,7 +111,10 @@
 <LM>w#w-ln94204-69-p2s1Bw4</LM>
 </w.rf>
 <form>MUDr</form>
-<tag lemma="MUDr-1_:B_^(doktor_medicíny)" src="orig" selected="1">NNMXX-----A---8</tag>
+<tag>
+<AM lemma="MUDr-1_:B_^(doktor_medicíny)" src="orig">NNMXX-----A---8</AM>
+<AM lemma="MUDr-1_:B_^(doktor_medicíny)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94204-69-p2s1Bw5">
 <src.rf>manual</src.rf>
@@ -355,7 +358,10 @@
 <LM>w#w-ln94204-69-p2s3w9</LM>
 </w.rf>
 <form>kartonů</form>
-<tag lemma="karton" src="orig" selected="1">NNIP2-----A----</tag>
+<tag>
+<AM lemma="karton" src="orig">NNIP2-----A----</AM>
+<AM lemma="karton_,s_^(^DD**kartón)" src="manual" selected="1">NNIP2-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94204-69-p2s3w10">
 <src.rf>manual</src.rf>

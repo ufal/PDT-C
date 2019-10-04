@@ -207,7 +207,10 @@
 <LM>w#w-lnd92254-001-p2s2w13</LM>
 </w.rf>
 <form>řekla</form>
-<tag lemma="říci" src="auto" selected="1">VpQW---XR-AA---</tag>
+<tag>
+<AM lemma="říci" src="auto">VpQW---XR-AA---</AM>
+<AM lemma="říci_:W" src="manual" selected="1">VpQW---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-lnd92254-001-p2s2w14">
 <src.rf>manual</src.rf>
@@ -356,6 +359,7 @@
 <tag>
 <AM lemma="zabiť_,t" src="orig">VB-P---3P-AA---</AM>
 <AM lemma="zabít_,n_,x" src="auto" recommended="1">VB-P---3P-AA--6</AM>
+<AM lemma="zabijú-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-lnd92254-001-p2s3w5">
@@ -460,7 +464,10 @@
 <LM>w#w-lnd92254-001-p2s3w17</LM>
 </w.rf>
 <form>měla</form>
-<tag lemma="mít" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag>
+<AM lemma="mít" src="orig">VpQW---XR-AA---</AM>
+<AM lemma="mít_:T" src="manual" selected="1">VpQW---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-lnd92254-001-p2s3w18">
 <src.rf>manual</src.rf>
@@ -494,7 +501,7 @@
 <form>nejen</form>
 <tag>
 <AM lemma="nejen" src="orig">TT-------------</AM>
-<AM lemma="nejen" src="auto" recommended="1">Db-------------</AM>
+<AM lemma="nejen" src="auto" recommended="1" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m-lnd92254-001-p2s3w22">
@@ -521,7 +528,7 @@
 <form>nejen</form>
 <tag>
 <AM lemma="nejen" src="orig">TT-------------</AM>
-<AM lemma="nejen" src="auto" recommended="1">Db-------------</AM>
+<AM lemma="nejen" src="auto" recommended="1" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m-lnd92254-001-p2s3w25">
@@ -814,7 +821,10 @@
 <LM>w#w-lnd92254-001-p2s5w4</LM>
 </w.rf>
 <form>píše</form>
-<tag lemma="psát" src="auto" selected="1">VB-S---3P-AA---</tag>
+<tag>
+<AM lemma="psát" src="auto">VB-S---3P-AA---</AM>
+<AM lemma="psát_:T" src="manual" selected="1">VB-S---3P-AA---</AM>
+</tag>
 </m>
 <m id="m-lnd92254-001-p2s5w5">
 <src.rf>manual</src.rf>
@@ -918,7 +928,10 @@
 <LM>w#w-lnd92254-001-p2s5w17</LM>
 </w.rf>
 <form>US</form>
-<tag lemma="US-1_:B_;K_,t_^(letecká_společnost_Usair)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="US-1_:B_;K_,t_^(letecká_společnost_Usair)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="US-2_:B_^(americký)" src="manual" selected="1">AAXXX----1A----</AM>
+</tag>
 </m>
 <m id="m-lnd92254-001-p2s5w18">
 <src.rf>manual</src.rf>
@@ -926,7 +939,10 @@
 <LM>w#w-lnd92254-001-p2s5w18</LM>
 </w.rf>
 <form>Open</form>
-<tag lemma="Open-1_,t_^(v_názvu_např._sport._soutěží,_&quot;otevřený&quot;)" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="Open-1_,t_^(v_názvu_např._sport._soutěží,_&quot;otevřený&quot;)" src="orig">AAXXX----1A----</AM>
+<AM lemma="Open-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-lnd92254-001-p2s5w19">
 <src.rf>manual</src.rf>

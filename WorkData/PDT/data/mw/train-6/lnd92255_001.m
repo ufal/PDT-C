@@ -109,7 +109,10 @@
 <LM>w#w-lnd92255-001-p2s1w7</LM>
 </w.rf>
 <form>ČR</form>
-<tag lemma="ČR-1_:B_;G_^(Česká_republika)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92255-001-p2s1w8">
 <src.rf>manual</src.rf>
@@ -125,7 +128,10 @@
 <LM>w#w-lnd92255-001-p2s1w9</LM>
 </w.rf>
 <form>SR</form>
-<tag lemma="SR-1_:B_;G_^(Slovenská_republika)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="SR-1_:B_;G_^(Slovenská_republika)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="SR-1_:B_;G_^(Slovenská_republika)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92255-001-p2s1w10">
 <src.rf>manual</src.rf>
@@ -183,7 +189,10 @@
 <LM>w#w-lnd92255-001-p3s1w1</LM>
 </w.rf>
 <form>strana</form>
-<tag lemma="strana-4_^(v_knize,_rukopise,...)" src="orig" selected="1">NNFS1-----A----</tag>
+<tag>
+<AM lemma="strana-4_^(v_knize,_rukopise,...)" src="orig">NNFS1-----A----</AM>
+<AM lemma="strana" src="manual" selected="1">NNFS1-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92255-001-p3s1w2">
 <src.rf>manual</src.rf>
@@ -223,6 +232,7 @@
 <AM lemma="expertiza_,x" src="auto">NNFP4-----A----</AM>
 <AM lemma="expertiza_,x" src="auto">NNFP5-----A----</AM>
 <AM lemma="expertiza_,x" src="auto" recommended="1">NNFS2-----A----</AM>
+<AM lemma="expertíza_,s_^(^DD**expertiza)" src="manual" selected="1">NNFS2-----A----</AM>
 </tag>
 </m>
 </s>
@@ -292,7 +302,7 @@
 <tag>
 <AM lemma="jakýkoliv" src="orig">PZZS7---------1</AM>
 <AM lemma="jakýkoli" src="auto">PZXP3----------</AM>
-<AM lemma="jakýkoli" src="auto" recommended="1">PZZS7----------</AM>
+<AM lemma="jakýkoli" src="auto" recommended="1" selected="1">PZZS7----------</AM>
 </tag>
 </m>
 <m id="m-lnd92255-001-p5s1w9">
@@ -311,7 +321,10 @@
 <LM>w#w-lnd92255-001-p6s1w1</LM>
 </w.rf>
 <form>strana</form>
-<tag lemma="strana-4_^(v_knize,_rukopise,...)" src="orig" selected="1">NNFS1-----A----</tag>
+<tag>
+<AM lemma="strana-4_^(v_knize,_rukopise,...)" src="orig">NNFS1-----A----</AM>
+<AM lemma="strana" src="manual" selected="1">NNFS1-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92255-001-p6s1w2">
 <src.rf>manual</src.rf>

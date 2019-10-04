@@ -392,7 +392,10 @@
 <LM>w#w-lnd92252-065-p1s3w9</LM>
 </w.rf>
 <form>st</form>
-<tag lemma="stupeň_:B" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="stupeň_:B" src="orig">NNIXX-----A---8</AM>
+<AM lemma="stupeň" src="manual" selected="1">NNIXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd92252-065-p1s3w10">
 <src.rf>manual</src.rf>
@@ -410,7 +413,10 @@
 <LM>w#w-lnd92252-065-p1s4w1</LM>
 </w.rf>
 <form>C</form>
-<tag lemma="Celsius_:B" src="orig" selected="1">NNMXX-----A---8</tag>
+<tag>
+<AM lemma="Celsius_:B" src="orig">NNMXX-----A---8</AM>
+<AM lemma="Celsius" src="manual" selected="1">NNMXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd92252-065-p1s4w2">
 <src.rf>manual</src.rf>
@@ -522,7 +528,10 @@
 <LM>w#w-lnd92252-065-p1s4w15</LM>
 </w.rf>
 <form>st</form>
-<tag lemma="stupeň_:B" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="stupeň_:B" src="orig">NNIXX-----A---8</AM>
+<AM lemma="stupeň" src="manual" selected="1">NNIXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd92252-065-p1s4w16">
 <src.rf>manual</src.rf>
@@ -970,7 +979,10 @@
 <LM>w#w-lnd92252-065-p2s3w13</LM>
 </w.rf>
 <form>st</form>
-<tag lemma="stupeň_:B" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="stupeň_:B" src="orig">NNIXX-----A---8</AM>
+<AM lemma="stupeň" src="manual" selected="1">NNIXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd92252-065-p2s3w14">
 <src.rf>manual</src.rf>
@@ -988,7 +1000,10 @@
 <LM>w#w-lnd92252-065-p2s4w1</LM>
 </w.rf>
 <form>C</form>
-<tag lemma="Celsius_:B" src="orig" selected="1">NNMXX-----A---8</tag>
+<tag>
+<AM lemma="Celsius_:B" src="orig">NNMXX-----A---8</AM>
+<AM lemma="Celsius" src="manual" selected="1">NNMXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd92252-065-p2s4w2">
 <src.rf>manual</src.rf>
@@ -1084,7 +1099,10 @@
 <LM>w#w-lnd92252-065-p2s4w13</LM>
 </w.rf>
 <form>st</form>
-<tag lemma="stupeň_:B" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="stupeň_:B" src="orig">NNIXX-----A---8</AM>
+<AM lemma="stupeň" src="manual" selected="1">NNIXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd92252-065-p2s4w14">
 <src.rf>manual</src.rf>
@@ -1102,7 +1120,10 @@
 <LM>w#w-lnd92252-065-p2s5w1</LM>
 </w.rf>
 <form>C</form>
-<tag lemma="Celsius_:B" src="orig" selected="1">NNMXX-----A---8</tag>
+<tag>
+<AM lemma="Celsius_:B" src="orig">NNMXX-----A---8</AM>
+<AM lemma="Celsius" src="manual" selected="1">NNMXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd92252-065-p2s5w2">
 <src.rf>manual</src.rf>
@@ -1233,7 +1254,10 @@
 <LM>w#w-lnd92252-065-p3s1w7</LM>
 </w.rf>
 <form>h</form>
-<tag lemma="hodina_:B" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="hodina_:B" src="orig">NNFXX-----A---8</AM>
+<AM lemma="hodina" src="manual" selected="1">NNFXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd92252-065-p3s1w8">
 <src.rf>manual</src.rf>
@@ -1273,7 +1297,10 @@
 <LM>w#w-lnd92252-065-p3s1w12</LM>
 </w.rf>
 <form>h</form>
-<tag lemma="hodina_:B" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="hodina_:B" src="orig">NNFXX-----A---8</AM>
+<AM lemma="hodina" src="manual" selected="1">NNFXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd92252-065-p3s1w13">
 <src.rf>manual</src.rf>
@@ -1338,7 +1365,10 @@
 <LM>w#w-lnd92252-065-p3s1w20</LM>
 </w.rf>
 <form>h</form>
-<tag lemma="hodina_:B" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="hodina_:B" src="orig">NNFXX-----A---8</AM>
+<AM lemma="hodina" src="manual" selected="1">NNFXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd92252-065-p3s1w21">
 <src.rf>manual</src.rf>
@@ -1378,7 +1408,10 @@
 <LM>w#w-lnd92252-065-p3s1w25</LM>
 </w.rf>
 <form>h</form>
-<tag lemma="hodina_:B" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="hodina_:B" src="orig">NNFXX-----A---8</AM>
+<AM lemma="hodina" src="manual" selected="1">NNFXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd92252-065-p3s1w26">
 <src.rf>manual</src.rf>

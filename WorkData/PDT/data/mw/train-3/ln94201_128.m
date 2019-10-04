@@ -93,7 +93,10 @@
 <LM>w#w-ln94201-128-p2s1w9</LM>
 </w.rf>
 <form>konkurz</form>
-<tag lemma="konkurs_^(úpadek;;soutěž)" src="auto" selected="1">NNIS4-----A----</tag>
+<tag>
+<AM lemma="konkurs_^(úpadek;;soutěž)" src="auto">NNIS4-----A----</AM>
+<AM lemma="konkurz_^(úpadek;;soutěž)" src="manual" selected="1">NNIS4-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94201-128-p2s1w10">
 <src.rf>manual</src.rf>
@@ -165,7 +168,10 @@
 <LM>w#w-ln94201-128-p2s1w18</LM>
 </w.rf>
 <form>č</form>
-<tag lemma="číslo_:B" src="orig" selected="1">NNNXX-----A---8</tag>
+<tag>
+<AM lemma="číslo_:B" src="orig">NNNXX-----A---8</AM>
+<AM lemma="číslo" src="manual" selected="1">NNNXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln94201-128-p2s1w19">
 <src.rf>manual</src.rf>
@@ -205,7 +211,10 @@
 <LM>w#w-ln94201-128-p2s1w23</LM>
 </w.rf>
 <form>Sb</form>
-<tag lemma="Sb-1_:B_;j_^(Sbírka,_např._zákonů)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="Sb-1_:B_;j_^(Sbírka,_např._zákonů)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="sbírka" src="manual" selected="1">NNFXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln94201-128-p2s1w24">
 <src.rf>manual</src.rf>
@@ -343,7 +352,10 @@
 <LM>w#w-ln94201-128-p2s2w2</LM>
 </w.rf>
 <form>konkurzu</form>
-<tag lemma="konkurs_^(úpadek;;soutěž)" src="auto" selected="1">NNIS2-----A----</tag>
+<tag>
+<AM lemma="konkurs_^(úpadek;;soutěž)" src="auto">NNIS2-----A----</AM>
+<AM lemma="konkurz_^(úpadek;;soutěž)" src="manual" selected="1">NNIS2-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94201-128-p2s2w3">
 <src.rf>manual</src.rf>
@@ -529,7 +541,10 @@
 <LM>w#w-ln94201-128-p2s3w17</LM>
 </w.rf>
 <form>MK</form>
-<tag lemma="MK-1_:B_;K_;p_;u_^(min._kultury)" src="auto" selected="1">NNNXX-----A---8</tag>
+<tag>
+<AM lemma="MK-1_:B_;K_;p_;u_^(min._kultury)" src="auto">NNNXX-----A---8</AM>
+<AM lemma="MK-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln94201-128-p2s3w18">
 <src.rf>manual</src.rf>
@@ -537,7 +552,10 @@
 <LM>w#w-ln94201-128-p2s3w18</LM>
 </w.rf>
 <form>ČR</form>
-<tag lemma="ČR-1_:B_;G_^(Česká_republika)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94201-128-p2s3w19">
 <src.rf>manual</src.rf>
@@ -553,7 +571,10 @@
 <LM>w#w-ln94201-128-p2s3w20</LM>
 </w.rf>
 <form>Š</form>
-<tag lemma="Š-0_:B_;Y" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="Š-0_:B_;Y" src="orig">NNFXX-----A---8</AM>
+<AM lemma="Š-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln94201-128-p2s3w21">
 <src.rf>manual</src.rf>
@@ -601,7 +622,10 @@
 <LM>w#w-ln94201-128-p2s3w26</LM>
 </w.rf>
 <form>nám</form>
-<tag lemma="já" src="orig" selected="1">PP-P3--1-------</tag>
+<tag>
+<AM lemma="já" src="orig">PP-P3--1-------</AM>
+<AM lemma="náměstí" src="manual" selected="1">NNNXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln94201-128-p2s3w27">
 <src.rf>manual</src.rf>

@@ -69,7 +69,10 @@
 <LM>w#w-lnd91301-025-p2s1Aw5</LM>
 </w.rf>
 <form>mot</form>
-<tag lemma="mot-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="mot-99_:B_;S" src="orig">NNXXX-----A---8</AM>
+<AM lemma="mot-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd91301-025-p2s1Aw6">
 <src.rf>manual</src.rf>
@@ -119,7 +122,10 @@
 <LM>w#w-lnd91301-025-p2s1Bw4</LM>
 </w.rf>
 <form>má</form>
-<tag lemma="mít" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag>
+<AM lemma="mít" src="orig">VB-S---3P-AA---</AM>
+<AM lemma="mít_:T" src="manual" selected="1">VB-S---3P-AA---</AM>
+</tag>
 </m>
 <m id="m-lnd91301-025-p2s1Bw5">
 <src.rf>manual</src.rf>
@@ -278,6 +284,7 @@
 <AM lemma="F-9_:B_;S" src="auto">NNXXX-----A---8</AM>
 <AM lemma="f-3_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
 <AM lemma="f-8_:B_^(ost._zkratka)" src="auto">XX------------8</AM>
+<AM lemma="F-33_^(označení_pomocí_písmene)" src="manual" selected="1">NNNXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd91301-025-p2s2w11">
@@ -302,7 +309,10 @@
 <LM>w#w-lnd91301-025-p2s2w13</LM>
 </w.rf>
 <form>ČTV</form>
-<tag lemma="ČTV-1_:B_;K_^(Česká_televize)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ČTV-1_:B_;K_^(Česká_televize)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČTV-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd91301-025-p2s2w14">
 <src.rf>manual</src.rf>
@@ -382,7 +392,10 @@
 <LM>w#w-lnd91301-025-p2s2w23</LM>
 </w.rf>
 <form>VKV</form>
-<tag lemma="vkv_:B_^(velmi_krátké_vlny)" src="auto" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="vkv_:B_^(velmi_krátké_vlny)" src="auto">NNXXX-----A---8</AM>
+<AM lemma="VKV-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd91301-025-p2s2w24">
 <src.rf>manual</src.rf>
@@ -424,7 +437,10 @@
 <LM>w#w-lnd91301-025-p2s3w4</LM>
 </w.rf>
 <form>Kčs</form>
-<tag lemma="Kčs-1_:B_^(Koruna_čs.)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="Kčs-1_:B_^(Koruna_čs.)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="Kčs-1_:B_^(Koruna_čs.)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd91301-025-p2s3w5">
 <src.rf>manual</src.rf>
@@ -472,7 +488,10 @@
 <LM>w#w-lnd91301-025-p2s3w10</LM>
 </w.rf>
 <form>Cabel</form>
-<tag lemma="Cabel_;K_,t" src="orig" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="Cabel_;K_,t" src="orig">NNIS1-----A----</AM>
+<AM lemma="Cabel-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-lnd91301-025-p2s3w11">
 <src.rf>manual</src.rf>
@@ -480,7 +499,10 @@
 <LM>w#w-lnd91301-025-p2s3w11</LM>
 </w.rf>
 <form>plus</form>
-<tag lemma="plus-1_^(znaménko_plus;_vyjádření_kladné_vlastnosti)" src="orig" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="plus-1_^(znaménko_plus;_vyjádření_kladné_vlastnosti)" src="orig">NNIS1-----A----</AM>
+<AM lemma="plus-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-lnd91301-025-p2s3w12">
 <src.rf>manual</src.rf>
@@ -722,7 +744,10 @@
 <LM>w#w-lnd91301-025-p2s4w7</LM>
 </w.rf>
 <form>a</form>
-<tag lemma="akciový_:B_^(jen_akciová_společnost)" src="orig" selected="1">AAXXX----1A---8</tag>
+<tag>
+<AM lemma="akciový_:B_^(jen_akciová_společnost)" src="orig">AAXXX----1A---8</AM>
+<AM lemma="akciový_^(jen_akciová_společnost)" src="manual" selected="1">AAXXX----1A---8</AM>
+</tag>
 </m>
 <m id="m-lnd91301-025-p2s4w8">
 <src.rf>manual</src.rf>
@@ -738,7 +763,10 @@
 <LM>w#w-lnd91301-025-p2s4w9</LM>
 </w.rf>
 <form>s</form>
-<tag lemma="společnost_:B" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="společnost_:B" src="orig">NNFXX-----A---8</AM>
+<AM lemma="společnost" src="manual" selected="1">NNFXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd91301-025-p2s4w10">
 <src.rf>manual</src.rf>
@@ -870,7 +898,10 @@
 <LM>w#w-lnd91301-025-p2s5w9</LM>
 </w.rf>
 <form>začalo</form>
-<tag lemma="začít-1_^(začnout)" src="auto" selected="1">VpNS---XR-AA---</tag>
+<tag>
+<AM lemma="začít-1_^(začnout)" src="auto">VpNS---XR-AA---</AM>
+<AM lemma="začít-1_:W_^(začnout)" src="manual" selected="1">VpNS---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-lnd91301-025-p2s5w10">
 <src.rf>manual</src.rf>

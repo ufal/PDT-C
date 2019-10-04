@@ -35,7 +35,10 @@
 <LM>w#w-mf920924-046-p1s1Aw3</LM>
 </w.rf>
 <form>PETR</form>
-<tag lemma="Petr_;Y" src="orig" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Petr_;Y" src="orig">NNMS1-----A----</AM>
+<AM lemma="Petr_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920924-046-p1s1Aw4">
 <src.rf>manual</src.rf>
@@ -213,7 +216,10 @@
 <LM>w#w-mf920924-046-p1s1Bw6</LM>
 </w.rf>
 <form>shakespearomanie</form>
-<tag lemma="shakespearomanie" src="orig" selected="1">NNFS2-----A----</tag>
+<tag>
+<AM lemma="shakespearomanie" src="orig">NNFS2-----A----</AM>
+<AM lemma="shakespearomanie_,s_^(^DD**shakespearománie)" src="manual" selected="1">NNFS2-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920924-046-p1s1Bw7">
 <src.rf>manual</src.rf>
@@ -339,7 +345,7 @@
 <form>Tálská</form>
 <tag>
 <AM lemma="Tálský_;S" src="orig">NNFS1-----A----</AM>
-<AM lemma="Tálská_;S" src="auto" recommended="1">NNFS1-----A----</AM>
+<AM lemma="Tálská_;S" src="auto" recommended="1" selected="1">NNFS1-----A----</AM>
 <AM lemma="Tálská_;S" src="auto">NNFS5-----A----</AM>
 </tag>
 </m>
@@ -805,7 +811,7 @@
 <AM lemma="Javorský_;S" src="orig">AAMS2----1A----</AM>
 <AM lemma="Javorskij_;S" src="auto">NNMS2-----A----</AM>
 <AM lemma="Javorskij_;S" src="auto">NNMS4-----A----</AM>
-<AM lemma="Javorský_;S" src="auto" recommended="1">NNMS2-----A----</AM>
+<AM lemma="Javorský_;S" src="auto" recommended="1" selected="1">NNMS2-----A----</AM>
 <AM lemma="Javorský_;S" src="auto">NNMS4-----A----</AM>
 <AM lemma="javorský" src="auto">AAIS2----1A----</AM>
 <AM lemma="javorský" src="auto">AAMS2----1A----</AM>
@@ -1003,7 +1009,10 @@
 <LM>w#w-mf920924-046-p1s5w35</LM>
 </w.rf>
 <form>Kčs</form>
-<tag lemma="Kčs-1_:B_^(Koruna_čs.)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="Kčs-1_:B_^(Koruna_čs.)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="Kčs-1_:B_^(Koruna_čs.)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920924-046-p1s5w36">
 <src.rf>manual</src.rf>
@@ -1069,7 +1078,10 @@
 <LM>w#w-mf920924-046-p1s6w7</LM>
 </w.rf>
 <form>včetně</form>
-<tag lemma="včetně-1" src="orig" selected="1">Db-------------</tag>
+<tag>
+<AM lemma="včetně-1" src="orig">Db-------------</AM>
+<AM lemma="včetně-2" src="manual" selected="1">RR--2----------</AM>
+</tag>
 </m>
 <m id="m-mf920924-046-p1s6w8">
 <src.rf>manual</src.rf>

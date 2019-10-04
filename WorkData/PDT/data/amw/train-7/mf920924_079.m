@@ -147,7 +147,10 @@
 <LM>w#w-mf920924-079-p1s1w17</LM>
 </w.rf>
 <form>Challenger</form>
-<tag lemma="Challenger_;R" src="orig" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="Challenger_;R" src="orig">NNIS1-----A----</AM>
+<AM lemma="Challenger-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-mf920924-079-p1s1w18">
 <src.rf>manual</src.rf>
@@ -155,7 +158,10 @@
 <LM>w#w-mf920924-079-p1s1w18</LM>
 </w.rf>
 <form>CL</form>
-<tag lemma="CL_:B_^(Chile)" src="auto" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="CL_:B_^(Chile)" src="auto">NNXXX-----A---8</AM>
+<AM lemma="CL-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-mf920924-079-p1s1w19">
 <src.rf>manual</src.rf>
@@ -187,7 +193,10 @@
 <LM>w#w-mf920924-079-p1s1w22</LM>
 </w.rf>
 <form>A</form>
-<tag lemma="a-1" src="orig" selected="1">J^-------------</tag>
+<tag>
+<AM lemma="a-1" src="orig">J^-------------</AM>
+<AM lemma="A-33_^(označení_pomocí_písmene)" src="manual" selected="1">NNNXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920924-079-p1s1w23">
 <src.rf>manual</src.rf>
@@ -503,7 +512,10 @@
 <LM>w#w-mf920924-079-p1s3w11</LM>
 </w.rf>
 <form>Challenger</form>
-<tag lemma="Challenger_;R" src="orig" selected="1">NNIS4-----A----</tag>
+<tag>
+<AM lemma="Challenger_;R" src="orig">NNIS4-----A----</AM>
+<AM lemma="Challenger-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-mf920924-079-p1s3w12">
 <src.rf>manual</src.rf>

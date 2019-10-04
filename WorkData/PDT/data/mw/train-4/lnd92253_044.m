@@ -281,6 +281,7 @@
 <AM lemma="kalit_:T" src="auto">Vi-S---2--A----</AM>
 <AM lemma="kalit_:T" src="auto">Vi-S---3--A---4</AM>
 <AM lemma="kalo-1" src="auto">NNNP2-----A----</AM>
+<AM lemma="KAL-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-lnd92253-044-p3s2w26">
@@ -656,7 +657,7 @@
 <form>vůbec</form>
 <tag>
 <AM lemma="vůbec" src="orig">Db-------------</AM>
-<AM lemma="vůbec" src="auto" recommended="1">TT-------------</AM>
+<AM lemma="vůbec" src="auto" recommended="1" selected="1">TT-------------</AM>
 </tag>
 </m>
 <m id="m-lnd92253-044-p3s4w16">
@@ -779,6 +780,7 @@
 <AM lemma="kalit_:T" src="auto">Vi-S---2--A----</AM>
 <AM lemma="kalit_:T" src="auto">Vi-S---3--A---4</AM>
 <AM lemma="kalo-1" src="auto">NNNP2-----A----</AM>
+<AM lemma="KAL-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-lnd92253-044-p3s5w11">
@@ -908,7 +910,7 @@
 </w.rf>
 <form>Se</form>
 <tag>
-<AM lemma="Se_;Y" src="orig">NNMXX-----A----</AM>
+<AM lemma="Se_;Y" src="orig" selected="1">NNMXX-----A----</AM>
 <AM lemma="se_^(zvr._zájmeno/částice)" src="auto">P7-X4----------</AM>
 <AM lemma="s-1" src="auto">RV--2----------</AM>
 <AM lemma="s-1" src="auto" recommended="1">RV--7----------</AM>
@@ -929,7 +931,7 @@
 </w.rf>
 <form>il</form>
 <tag>
-<AM lemma="il_;Y" src="orig">NNMS1-----A----</AM>
+<AM lemma="il_;Y" src="orig" selected="1">NNMS1-----A----</AM>
 <AM lemma="il-2_,t_^(it._člen)" src="auto">AAXXX----1A----</AM>
 <AM lemma="il-99_:B_;S" src="auto" recommended="1">NNXXX-----A---8</AM>
 </tag>
@@ -1022,7 +1024,12 @@
 <LM>w#w-lnd92253-044-p3s6w10</LM>
 </w.rf>
 <form>CIA</form>
-<tag lemma="CIA-1_:B_;K_;p_,t_^(Central_Intelligence_Agency,_USA)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="CIA-1_:B_;K_;p_,t_^(Central_Intelligence_Agency,_USA)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="CIA-1_:B_;K_^(Central_Intelligence_Agency,_USA)" src="manual">NNXXX-----A----</AM>
+<AM lemma="CIA-88_:B" src="manual">NNXXX-----A---8</AM>
+<AM lemma="CIA-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92253-044-p3s6w11">
 <src.rf>manual</src.rf>

@@ -118,7 +118,10 @@
 <LM>w#w-ln95043-001-p2s1w7</LM>
 </w.rf>
 <form>stojí</form>
-<tag lemma="stát-4_^(něco_stojí_peníze)" src="orig" selected="1">VB-P---3P-AA---</tag>
+<tag>
+<AM lemma="stát-4_^(něco_stojí_peníze)" src="orig">VB-P---3P-AA---</AM>
+<AM lemma="stát-4_:T_^(něco_stojí_peníze)" src="manual" selected="1">VB-S---3P-AA---</AM>
+</tag>
 </m>
 <m id="m-ln95043-001-p2s1w8">
 <src.rf>manual</src.rf>
@@ -564,7 +567,7 @@
 <tag>
 <AM lemma="cokoliv" src="orig">PZ--4---------1</AM>
 <AM lemma="cokoli" src="auto">PZ--1----------</AM>
-<AM lemma="cokoli" src="auto" recommended="1">PZ--4----------</AM>
+<AM lemma="cokoli" src="auto" recommended="1" selected="1">PZ--4----------</AM>
 <AM lemma="cokoli" src="auto">PZ--5----------</AM>
 </tag>
 </m>
@@ -1302,7 +1305,10 @@
 <LM>w#w-ln95043-001-p2s6w14</LM>
 </w.rf>
 <form>viděl</form>
-<tag lemma="vidět" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag>
+<AM lemma="vidět" src="orig">VpYS---XR-AA---</AM>
+<AM lemma="vidět_:T" src="manual" selected="1">VpYS---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-ln95043-001-p2s6w15">
 <src.rf>manual</src.rf>
@@ -1846,7 +1852,10 @@
 <LM>w#w-ln95043-001-p3s3w11</LM>
 </w.rf>
 <form>UV</form>
-<tag lemma="UV-3_:B_,t_^(ultraviolet)" src="auto" selected="1">AAXXX----1A---8</tag>
+<tag>
+<AM lemma="UV-3_:B_,t_^(ultraviolet)" src="auto">AAXXX----1A---8</AM>
+<AM lemma="UV-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95043-001-p3s3w12">
 <src.rf>manual</src.rf>
@@ -2436,7 +2445,7 @@
 <form>bezesporu</form>
 <tag>
 <AM lemma="bezesporu" src="orig">Db-------------</AM>
-<AM lemma="bezesporu" src="auto" recommended="1">TT-------------</AM>
+<AM lemma="bezesporu" src="auto" recommended="1" selected="1">TT-------------</AM>
 </tag>
 </m>
 <m id="m-ln95043-001-p4s5w5">
@@ -2525,7 +2534,10 @@
 <LM>w#w-ln95043-001-p4s5w15</LM>
 </w.rf>
 <form>J</form>
-<tag lemma="J-0_:B_;Y" src="orig" selected="1">NNMXX-----A---8</tag>
+<tag>
+<AM lemma="J-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
+<AM lemma="J-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95043-001-p4s5w16">
 <src.rf>manual</src.rf>
@@ -2863,7 +2875,7 @@
 <tag>
 <AM lemma="tedy" src="orig">Db-------------</AM>
 <AM lemma="tedy-1" src="auto">TT-------------</AM>
-<AM lemma="tedy-2" src="auto" recommended="1">J^-------------</AM>
+<AM lemma="tedy-2" src="auto" recommended="1" selected="1">J^-------------</AM>
 </tag>
 </m>
 <m id="m-ln95043-001-p4s8w4">
@@ -2976,7 +2988,10 @@
 <LM>w#w-ln95043-001-p4s8w17</LM>
 </w.rf>
 <form>pomyslet</form>
-<tag lemma="pomyslet" src="orig" selected="1">Vf--------A----</tag>
+<tag>
+<AM lemma="pomyslet" src="orig">Vf--------A----</AM>
+<AM lemma="pomyslet_:W" src="manual" selected="1">Vf--------A----</AM>
+</tag>
 </m>
 <m id="m-ln95043-001-p4s8w18">
 <src.rf>manual</src.rf>

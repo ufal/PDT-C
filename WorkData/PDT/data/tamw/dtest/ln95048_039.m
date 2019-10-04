@@ -69,7 +69,10 @@
 <LM>w#w-ln95048-039-p2s1w3</LM>
 </w.rf>
 <form>nar</form>
-<tag lemma="narozený_:B" src="orig" selected="1">AAXXX----1A---8</tag>
+<tag>
+<AM lemma="narozený_:B" src="orig">AAXXX----1A---8</AM>
+<AM lemma="narozený" src="manual" selected="1">AAXXX----1A---8</AM>
+</tag>
 </m>
 <m id="m-ln95048-039-p2s1w4">
 <src.rf>manual</src.rf>
@@ -189,7 +192,10 @@
 <LM>w#w-ln95048-039-p2s1w18</LM>
 </w.rf>
 <form>PEN</form>
-<tag lemma="PEN_:B_;K_^(klub)" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="PEN_:B_;K_^(klub)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="PEN-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln95048-039-p2s1w19">
 <src.rf>manual</src.rf>

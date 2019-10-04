@@ -35,7 +35,10 @@
 <LM>w#w-ln95042-066-p1s1w3</LM>
 </w.rf>
 <form>BIS</form>
-<tag lemma="BIS_:B_^(Bezp._informační_služba)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="BIS_:B_^(Bezp._informační_služba)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="BIS-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln95042-066-p1s1w4">
 <src.rf>manual</src.rf>
@@ -175,7 +178,10 @@
 <LM>w#w-ln95042-066-p2s1Bw13</LM>
 </w.rf>
 <form>ODA</form>
-<tag lemma="ODA-2_:B_;K_;p_^(Občanská_demokratická_aliance)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ODA-2_:B_;K_;p_^(Občanská_demokratická_aliance)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ODA-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln95042-066-p2s1Bw14">
 <src.rf>manual</src.rf>
@@ -239,7 +245,10 @@
 <LM>w#w-ln95042-066-p2s1Bw21</LM>
 </w.rf>
 <form>BIS</form>
-<tag lemma="BIS_:B_^(Bezp._informační_služba)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="BIS_:B_^(Bezp._informační_služba)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="BIS-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln95042-066-p2s1Bw22">
 <src.rf>manual</src.rf>
@@ -337,7 +346,10 @@
 <LM>w#w-ln95042-066-p2s2w11</LM>
 </w.rf>
 <form>ODA</form>
-<tag lemma="ODA-2_:B_;K_;p_^(Občanská_demokratická_aliance)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ODA-2_:B_;K_;p_^(Občanská_demokratická_aliance)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ODA-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln95042-066-p2s2w12">
 <src.rf>manual</src.rf>
@@ -417,7 +429,10 @@
 <LM>w#w-ln95042-066-p2s2w21</LM>
 </w.rf>
 <form>LN</form>
-<tag lemma="LN-1_:B_;R_^(Lidové_noviny,_deník)" src="orig" selected="1">NNFPX-----A---8</tag>
+<tag>
+<AM lemma="LN-1_:B_;R_^(Lidové_noviny,_deník)" src="orig">NNFPX-----A---8</AM>
+<AM lemma="LN-1_:B_;K_;R_^(Lidové_noviny)" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln95042-066-p2s2w22">
 <src.rf>manual</src.rf>
@@ -457,7 +472,10 @@
 <LM>w#w-ln95042-066-p2s2w26</LM>
 </w.rf>
 <form>ODS</form>
-<tag lemma="ODS-1_:B_;K_;p_^(Občanská_demokratická_strana)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ODS-1_:B_;K_;p_^(Občanská_demokratická_strana)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ODS-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln95042-066-p2s2w27">
 <src.rf>manual</src.rf>
@@ -526,7 +544,7 @@
 <tag>
 <AM lemma="cokoliv" src="orig">PZ--4----------</AM>
 <AM lemma="cokoli" src="auto">PZ--1---------1</AM>
-<AM lemma="cokoli" src="auto" recommended="1">PZ--4---------1</AM>
+<AM lemma="cokoli" src="auto" recommended="1" selected="1">PZ--4---------1</AM>
 <AM lemma="cokoli" src="auto">PZ--5---------1</AM>
 </tag>
 </m>
@@ -778,7 +796,10 @@
 <LM>w#w-ln95042-066-p2s4w13</LM>
 </w.rf>
 <form>KDU</form>
-<tag lemma="KDU_:B_;K_;p_^(Křesťansko-demokratická_unie)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="KDU_:B_;K_;p_^(Křesťansko-demokratická_unie)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="KDU-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln95042-066-p2s4w14">
 <src.rf>manual</src.rf>
@@ -794,7 +815,10 @@
 <LM>w#w-ln95042-066-p2s4w15</LM>
 </w.rf>
 <form>ČSL</form>
-<tag lemma="ČSL-1_:B_;K_;p_^(Česká_[pův._Čsl.]_strana_lidová)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ČSL-1_:B_;K_;p_^(Česká_[pův._Čsl.]_strana_lidová)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČSL-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln95042-066-p2s4w16">
 <src.rf>manual</src.rf>
@@ -842,7 +866,10 @@
 <LM>w#w-ln95042-066-p2s4w21</LM>
 </w.rf>
 <form>ČMUS</form>
-<tag lemma="ČMUS_:B_;K_^(polit._strana_Českomoravská_unie_středu)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ČMUS_:B_;K_^(polit._strana_Českomoravská_unie_středu)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČMUS-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln95042-066-p2s4w22">
 <src.rf>manual</src.rf>
@@ -890,7 +917,10 @@
 <LM>w#w-ln95042-066-p2s4w27</LM>
 </w.rf>
 <form>KDS</form>
-<tag lemma="KDS_:B_;K_;p_^(Křesťansko-demokratická_strana)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="KDS_:B_;K_;p_^(Křesťansko-demokratická_strana)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="KDS-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln95042-066-p2s4w28">
 <src.rf>manual</src.rf>
@@ -1072,7 +1102,7 @@
 <form>dřívějších</form>
 <tag>
 <AM lemma="brzký" src="orig">AAFP2----2A----</AM>
-<AM lemma="dřívější" src="auto" recommended="1">AAFP2----2A----</AM>
+<AM lemma="dřívější" src="auto" recommended="1" selected="1">AAFP2----2A----</AM>
 <AM lemma="dřívější" src="auto">AAFP6----2A----</AM>
 <AM lemma="dřívější" src="auto">AAIP2----2A----</AM>
 <AM lemma="dřívější" src="auto">AAIP6----2A----</AM>
@@ -1208,7 +1238,10 @@
 <LM>w#w-ln95042-066-p2s6w18</LM>
 </w.rf>
 <form>ODA</form>
-<tag lemma="ODA-2_:B_;K_;p_^(Občanská_demokratická_aliance)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ODA-2_:B_;K_;p_^(Občanská_demokratická_aliance)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ODA-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln95042-066-p2s6w19">
 <src.rf>manual</src.rf>

@@ -105,6 +105,7 @@
 <AM lemma="Berti_;S_;Y" src="orig">NNMXX-----A----</AM>
 <AM lemma="Berti_;S" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Berti_;S" src="auto">NNMS5-----A----</AM>
+<AM lemma="Berti_;Y_;S" src="manual" selected="1">NNMXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95044-032-p2s1w9">
@@ -201,7 +202,10 @@
 <LM>w#w-ln95044-032-p2s1w20</LM>
 </w.rf>
 <form>Lothar</form>
-<tag lemma="Lothar_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Lothar_;S" src="orig">NNMS1-----A----</AM>
+<AM lemma="Lothar_;Y_;S" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95044-032-p2s1w21">
 <src.rf>manual</src.rf>

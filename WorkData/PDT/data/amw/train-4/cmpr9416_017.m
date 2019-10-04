@@ -229,6 +229,8 @@
 <AM lemma="AZ-2_;K" src="orig">NNXXX-----A---8</AM>
 <AM lemma="AZ-1_:B_;G_^(Azerbájdžán,_mez._zkr.)" src="auto" recommended="1">NNIXX-----A---8</AM>
 <AM lemma="Aza_;K" src="auto">NNFP2-----A----</AM>
+<AM lemma="AZ-2_:B" src="manual">NNXXX-----A---8</AM>
+<AM lemma="AZ-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-cmpr9416-017-p4s3w4">
@@ -1232,7 +1234,7 @@
 <form>IDET</form>
 <tag>
 <AM lemma="IDET_:B_;m" src="orig">NNXXX-----A---8</AM>
-<AM lemma="Idet_;K" src="auto" recommended="1">NNIS1-----A----</AM>
+<AM lemma="Idet_;K" src="auto" recommended="1" selected="1">NNIS1-----A----</AM>
 <AM lemma="Idet_;K" src="auto">NNIS4-----A----</AM>
 </tag>
 </m>
@@ -2084,7 +2086,10 @@
 <LM>w#w-cmpr9416-017-p8s3w2</LM>
 </w.rf>
 <form>EXPO</form>
-<tag lemma="Expo_;K" src="orig" selected="1">NNNS1-----A----</tag>
+<tag>
+<AM lemma="Expo_;K" src="orig">NNNS1-----A----</AM>
+<AM lemma="Expo-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-cmpr9416-017-p8s3w3">
 <src.rf>manual</src.rf>
@@ -2097,6 +2102,7 @@
 <AM lemma="Lin-1_;S" src="auto">NNMS5-----A----</AM>
 <AM lemma="linout" src="auto">VB-S---3P-AA---</AM>
 <AM lemma="line_,t_^(angl._čára)" src="auto" recommended="1">NNXXX-----A----</AM>
+<AM lemma="Line-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-cmpr9416-017-p8s3w4">
@@ -2773,6 +2779,7 @@
 <AM lemma="Habitat_;m" src="orig">NNIS1-----A----</AM>
 <AM lemma="habitat" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="habitat" src="auto">NNIS4-----A----</AM>
+<AM lemma="Habitat_;K_,m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9416-017-p10s1w2">

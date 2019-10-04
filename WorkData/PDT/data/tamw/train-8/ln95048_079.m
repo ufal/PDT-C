@@ -165,7 +165,10 @@
 <LM>w#w-ln95048-079-p2s1Aw14</LM>
 </w.rf>
 <form>V</form>
-<tag lemma="V-0_:B_;Y" src="orig" selected="1">NNMXX-----A---8</tag>
+<tag>
+<AM lemma="V-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
+<AM lemma="V-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln95048-079-p2s1Aw15">
 <src.rf>manual</src.rf>
@@ -265,7 +268,10 @@
 <LM>w#w-ln95048-079-p2s1Cw5</LM>
 </w.rf>
 <form>OSN</form>
-<tag lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95048-079-p2s1Cw6">
 <src.rf>manual</src.rf>
@@ -387,7 +393,10 @@
 <LM>w#w-ln95048-079-p3s1w1</LM>
 </w.rf>
 <form>LN</form>
-<tag lemma="LN-1_:B_;R_^(Lidové_noviny,_deník)" src="orig" selected="1">NNFPX-----A---8</tag>
+<tag>
+<AM lemma="LN-1_:B_;R_^(Lidové_noviny,_deník)" src="orig">NNFPX-----A---8</AM>
+<AM lemma="LN-1_:B_;K_;R_^(Lidové_noviny)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95048-079-p3s1w2">
 <src.rf>manual</src.rf>
@@ -573,7 +582,10 @@
 <LM>w#w-ln95048-079-p3s2w16</LM>
 </w.rf>
 <form>OSN</form>
-<tag lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95048-079-p3s2w17">
 <src.rf>manual</src.rf>
@@ -597,7 +609,10 @@
 <LM>w#w-ln95048-079-p3s2w19</LM>
 </w.rf>
 <form>UNPROFOR</form>
-<tag lemma="UNPROFOR_:B" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="UNPROFOR_:B" src="orig">NNFXX-----A---8</AM>
+<AM lemma="UNPROFOR-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln95048-079-p3s2w20">
 <src.rf>manual</src.rf>
@@ -995,7 +1010,10 @@
 <LM>w#w-ln95048-079-p4s1w3</LM>
 </w.rf>
 <form>UNPROFOR</form>
-<tag lemma="UNPROFOR_:B" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="UNPROFOR_:B" src="orig">NNFXX-----A---8</AM>
+<AM lemma="UNPROFOR-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln95048-079-p4s1w4">
 <src.rf>manual</src.rf>
@@ -1099,7 +1117,10 @@
 <LM>w#w-ln95048-079-p4s1w16</LM>
 </w.rf>
 <form>NATO</form>
-<tag lemma="NATO_:B_;K_^(North_Atlantic_Treaty_Organization)" src="auto" selected="1">NNNXX-----A---8</tag>
+<tag>
+<AM lemma="NATO_:B_;K_^(North_Atlantic_Treaty_Organization)" src="auto">NNNXX-----A---8</AM>
+<AM lemma="NATO_:B_;K_^(North_Atlantic_Treaty_Organization)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95048-079-p4s1w17">
 <src.rf>manual</src.rf>
@@ -1883,7 +1904,10 @@
 <LM>w#w-ln95048-079-p4s5w10</LM>
 </w.rf>
 <form>UNPROFOR</form>
-<tag lemma="UNPROFOR_:B" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="UNPROFOR_:B" src="orig">NNFXX-----A---8</AM>
+<AM lemma="UNPROFOR-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln95048-079-p4s5w11">
 <src.rf>manual</src.rf>
@@ -2069,7 +2093,10 @@
 <LM>w#w-ln95048-079-p5s1w14</LM>
 </w.rf>
 <form>LN</form>
-<tag lemma="LN-1_:B_;R_^(Lidové_noviny,_deník)" src="orig" selected="1">NNFPX-----A---8</tag>
+<tag>
+<AM lemma="LN-1_:B_;R_^(Lidové_noviny,_deník)" src="orig">NNFPX-----A---8</AM>
+<AM lemma="LN-1_:B_;K_;R_^(Lidové_noviny)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95048-079-p5s1w15">
 <src.rf>manual</src.rf>
@@ -2199,7 +2226,10 @@
 <LM>w#w-ln95048-079-p5s2w10</LM>
 </w.rf>
 <form>OSN</form>
-<tag lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95048-079-p5s2w11">
 <src.rf>manual</src.rf>
@@ -2573,7 +2603,10 @@
 <LM>w#w-ln95048-079-p5s5w5</LM>
 </w.rf>
 <form>jen</form>
-<tag lemma="jen-1" src="auto" selected="1">TT-------------</tag>
+<tag>
+<AM lemma="jen-1" src="auto">TT-------------</AM>
+<AM lemma="jen-4_^(pouze)" src="manual" selected="1">Db-------------</AM>
+</tag>
 </m>
 <m id="m-ln95048-079-p5s5w6">
 <src.rf>manual</src.rf>

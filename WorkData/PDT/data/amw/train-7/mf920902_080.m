@@ -618,7 +618,10 @@
 <LM>w#w-mf920902-080-p3s1w10</LM>
 </w.rf>
 <form>FC</form>
-<tag lemma="FC-1_:B_;K_;w_^(Football_Club,_př._FC_Sparta)" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="FC-1_:B_;K_;w_^(Football_Club,_př._FC_Sparta)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="FC-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-mf920902-080-p3s1w11">
 <src.rf>manual</src.rf>
@@ -830,7 +833,10 @@
 <LM>w#w-mf920902-080-p4s1w5</LM>
 </w.rf>
 <form>Crystal</form>
-<tag lemma="Crystal_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="Crystal_;K" src="orig">NNIS1-----A----</AM>
+<AM lemma="Crystal-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-mf920902-080-p4s1w6">
 <src.rf>manual</src.rf>
@@ -838,7 +844,10 @@
 <LM>w#w-mf920902-080-p4s1w6</LM>
 </w.rf>
 <form>Palace</form>
-<tag lemma="Palace-1_;K_^(př._hotel_Palace)" src="auto" selected="1">NNIXX-----A----</tag>
+<tag>
+<AM lemma="Palace-1_;K_^(př._hotel_Palace)" src="auto">NNIXX-----A----</AM>
+<AM lemma="Palace-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-mf920902-080-p4s1w7">
 <src.rf>manual</src.rf>
@@ -1390,7 +1399,10 @@
 <LM>w#w-mf920902-080-p6s1w8</LM>
 </w.rf>
 <form>ME</form>
-<tag lemma="ME-1_:B_;w_^(mistrovství_Evropy)" src="orig" selected="1">NNNXX-----A---8</tag>
+<tag>
+<AM lemma="ME-1_:B_;w_^(mistrovství_Evropy)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="ME-1_:B_^(mistrovství_Evropy)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920902-080-p6s1w9">
 <src.rf>manual</src.rf>

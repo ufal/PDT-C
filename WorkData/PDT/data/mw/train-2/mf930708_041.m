@@ -717,7 +717,10 @@
 <LM>w#w-mf930708-041-p3s3w3</LM>
 </w.rf>
 <form>Don</form>
-<tag lemma="don" src="orig" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="don" src="orig" selected="1">NNMS1-----A----</AM>
+<AM lemma="Don-77" src="manual">F%-------------</AM>
+</tag>
 </m>
 <m id="m-mf930708-041-p3s3w4">
 <src.rf>manual</src.rf>
@@ -863,7 +866,10 @@
 <LM>w#w-mf930708-041-p3s4w2</LM>
 </w.rf>
 <form>Requiem</form>
-<tag lemma="rekviem_,s_,x" src="auto" selected="1">NNNXX-----A----</tag>
+<tag>
+<AM lemma="rekviem_,s_,x" src="auto">NNNXX-----A----</AM>
+<AM lemma="Requiem-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-mf930708-041-p3s4w3">
 <src.rf>manual</src.rf>
@@ -1028,6 +1034,7 @@
 <tag>
 <AM lemma="carmen_,t" src="orig">NNNP1-----A----</AM>
 <AM lemma="Carmina_;K" src="auto" recommended="1">NNFS1-----A----</AM>
+<AM lemma="Carmina-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-mf930708-041-p3s5w3">
@@ -1040,6 +1047,7 @@
 <AM lemma="buranus_,t" src="orig">AANP1----1A----</AM>
 <AM lemma="buran-1_,h" src="auto" recommended="1">NNMS2-----A----</AM>
 <AM lemma="buran-1_,h" src="auto">NNMS4-----A----</AM>
+<AM lemma="burana-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-mf930708-041-p3s5w4">
@@ -1258,7 +1266,10 @@
 <LM>w#w-mf930708-041-p3s6w16</LM>
 </w.rf>
 <form>J</form>
-<tag lemma="J-0_:B_;Y" src="orig" selected="1">NNMXX-----A---8</tag>
+<tag>
+<AM lemma="J-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
+<AM lemma="J-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-mf930708-041-p3s6w17">
 <src.rf>manual</src.rf>
@@ -1274,7 +1285,10 @@
 <LM>w#w-mf930708-041-p3s6w18</LM>
 </w.rf>
 <form>N</form>
-<tag lemma="N-0_:B_;Y" src="orig" selected="1">NNMXX-----A---8</tag>
+<tag>
+<AM lemma="N-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
+<AM lemma="N-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-mf930708-041-p3s6w19">
 <src.rf>manual</src.rf>

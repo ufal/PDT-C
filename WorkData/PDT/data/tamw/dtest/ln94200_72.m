@@ -19,7 +19,10 @@
 <LM>w#w-ln94200-72-p1s1w1</LM>
 </w.rf>
 <form>F</form>
-<tag lemma="F-0_:B_;Y" src="orig" selected="1">NNMXX-----A---8</tag>
+<tag>
+<AM lemma="F-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
+<AM lemma="F-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94200-72-p1s1w2">
 <src.rf>manual</src.rf>
@@ -191,7 +194,10 @@
 <LM>w#w-ln94200-72-p2s1Bw14</LM>
 </w.rf>
 <form>J</form>
-<tag lemma="J-0_:B_;Y" src="orig" selected="1">NNMXX-----A---8</tag>
+<tag>
+<AM lemma="J-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
+<AM lemma="J-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94200-72-p2s1Bw15">
 <src.rf>manual</src.rf>
@@ -558,6 +564,11 @@
 <AM lemma="Schlée_;S" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Schlée_;S" src="auto">NNMS5-----A----</AM>
 </tag>
+<comment>
+<LM type="New Form">
+<text>Schléeho</text>
+</LM>
+</comment>
 </m>
 <m id="m-ln94200-72-p2s2w18">
 <src.rf>manual</src.rf>
@@ -711,7 +722,10 @@
 <LM>w#w-ln94200-72-p2s3w12</LM>
 </w.rf>
 <form>nemají</form>
-<tag lemma="mít" src="orig" selected="1">VB-P---3P-NA---</tag>
+<tag>
+<AM lemma="mít" src="orig">VB-P---3P-NA---</AM>
+<AM lemma="mít_:T" src="manual" selected="1">VB-P---3P-NA---</AM>
+</tag>
 </m>
 <m id="m-ln94200-72-p2s3w13">
 <src.rf>manual</src.rf>
@@ -949,7 +963,7 @@
 <form>nikoli</form>
 <tag>
 <AM lemma="nikoliv" src="orig">Db------------1</AM>
-<AM lemma="nikoli" src="auto" recommended="1">TT-------------</AM>
+<AM lemma="nikoli" src="auto" recommended="1" selected="1">TT-------------</AM>
 </tag>
 </m>
 <m id="m-ln94200-72-p2s5w14">

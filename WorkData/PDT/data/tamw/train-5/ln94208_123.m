@@ -53,7 +53,7 @@
 <AM lemma="Billa_;K" src="auto">NNFP4-----A----</AM>
 <AM lemma="Billa_;K" src="auto">NNFP5-----A----</AM>
 <AM lemma="Billa_;K" src="auto">NNFS2-----A----</AM>
-<AM lemma="Billy_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Billy_;Y" src="auto" recommended="1" selected="1">NNMS1-----A----</AM>
 <AM lemma="Billy_;Y" src="auto">NNMS5-----A----</AM>
 <AM lemma="bill_,t" src="auto">NNIP1-----A----</AM>
 <AM lemma="bill_,t" src="auto">NNIP4-----A----</AM>

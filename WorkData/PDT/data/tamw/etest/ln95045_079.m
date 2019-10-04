@@ -59,7 +59,10 @@
 <LM>w#w-ln95045-079-p1s1w6</LM>
 </w.rf>
 <form>ODS</form>
-<tag lemma="ODS-1_:B_;K_;p_^(Občanská_demokratická_strana)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ODS-1_:B_;K_;p_^(Občanská_demokratická_strana)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ODS-1_:B_;K_^(Občanská_demokratická_strana)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95045-079-p1s1w7">
 <src.rf>manual</src.rf>
@@ -133,7 +136,10 @@
 <LM>w#w-ln95045-079-p2s1w5</LM>
 </w.rf>
 <form>KSČ</form>
-<tag lemma="KSČ-1_:B_;K_^(Komunistická_strana_Československa)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="KSČ-1_:B_;K_^(Komunistická_strana_Československa)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="KSČ-1_:B_;K_^(Komunistická_strana_Československa)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95045-079-p2s1w6">
 <src.rf>manual</src.rf>
@@ -383,7 +389,10 @@
 <LM>w#w-ln95045-079-p2s2w13</LM>
 </w.rf>
 <form>SSM</form>
-<tag lemma="SSM-1_:B_;K_^(Socialistický_svaz_mládeže)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="SSM-1_:B_;K_^(Socialistický_svaz_mládeže)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="SSM-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln95045-079-p2s2w14">
 <src.rf>manual</src.rf>
@@ -489,7 +498,10 @@
 <LM>w#w-ln95045-079-p3s1w12</LM>
 </w.rf>
 <form>KSČ</form>
-<tag lemma="KSČ-1_:B_;K_^(Komunistická_strana_Československa)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="KSČ-1_:B_;K_^(Komunistická_strana_Československa)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="KSČ-1_:B_;K_^(Komunistická_strana_Československa)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95045-079-p3s1w13">
 <src.rf>manual</src.rf>
@@ -537,7 +549,10 @@
 <LM>w#w-ln95045-079-p3s1w18</LM>
 </w.rf>
 <form>SSM</form>
-<tag lemma="SSM-1_:B_;K_^(Socialistický_svaz_mládeže)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="SSM-1_:B_;K_^(Socialistický_svaz_mládeže)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="SSM-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln95045-079-p3s1w19">
 <src.rf>manual</src.rf>
@@ -789,7 +804,10 @@
 <LM>w#w-ln95045-079-p3s3w15</LM>
 </w.rf>
 <form>apod</form>
-<tag lemma="apod_:B_^(a_podobně)" src="auto" selected="1">Db------------8</tag>
+<tag>
+<AM lemma="apod_:B_^(a_podobně)" src="auto">Db------------8</AM>
+<AM lemma="apod_:B_^(a_podobně)" src="manual" selected="1">Db-------------</AM>
+</tag>
 </m>
 <m id="m-ln95045-079-p3s3w16">
 <src.rf>manual</src.rf>
@@ -1025,7 +1043,10 @@
 <LM>w#w-ln95045-079-p3s5w19</LM>
 </w.rf>
 <form>KSČ</form>
-<tag lemma="KSČ-1_:B_;K_^(Komunistická_strana_Československa)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="KSČ-1_:B_;K_^(Komunistická_strana_Československa)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="KSČ-1_:B_;K_^(Komunistická_strana_Československa)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95045-079-p3s5w20">
 <src.rf>manual</src.rf>
@@ -1213,7 +1234,10 @@
 <LM>w#w-ln95045-079-p3s7w2</LM>
 </w.rf>
 <form>SSM</form>
-<tag lemma="SSM-1_:B_;K_^(Socialistický_svaz_mládeže)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="SSM-1_:B_;K_^(Socialistický_svaz_mládeže)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="SSM-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln95045-079-p3s7w3">
 <src.rf>manual</src.rf>
@@ -1229,7 +1253,10 @@
 <LM>w#w-ln95045-079-p3s7w4</LM>
 </w.rf>
 <form>prošel</form>
-<tag lemma="projít_^(i_uplynout_[o_čase])" src="auto" selected="1">VpYS---XR-AA---</tag>
+<tag>
+<AM lemma="projít_^(i_uplynout_[o_čase])" src="auto">VpYS---XR-AA---</AM>
+<AM lemma="projít_:W_^(i_uplynout_[o_čase])" src="manual" selected="1">VpYS---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-ln95045-079-p3s7w5">
 <src.rf>manual</src.rf>
@@ -1569,7 +1596,10 @@
 <LM>w#w-ln95045-079-p3s9w10</LM>
 </w.rf>
 <form>SSM</form>
-<tag lemma="SSM-1_:B_;K_^(Socialistický_svaz_mládeže)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="SSM-1_:B_;K_^(Socialistický_svaz_mládeže)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="SSM-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln95045-079-p3s9w11">
 <src.rf>manual</src.rf>

@@ -65,6 +65,7 @@
 <AM lemma="mn-99_:B_;S" src="orig">NNXXX-----A---8</AM>
 <AM lemma="mn-3_:B_^(malé_napětí)" src="auto" recommended="1">NNNXX-----A----</AM>
 <AM lemma="mnoho-1_:B_,a" src="auto">Ca--X---------8</AM>
+<AM lemma="mn-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930708-110-p2s1w4">
@@ -283,7 +284,10 @@
 <LM>w#w-mf930708-110-p2s2w9</LM>
 </w.rf>
 <form>zatížen</form>
-<tag lemma="zatížit" src="orig" selected="1">VsYS---XX-AP---</tag>
+<tag>
+<AM lemma="zatížit" src="orig">VsYS---XX-AP---</AM>
+<AM lemma="zatížit_:W" src="manual" selected="1">VsYS---XX-AP---</AM>
+</tag>
 </m>
 <m id="m-mf930708-110-p2s2w10">
 <src.rf>manual</src.rf>
@@ -379,7 +383,10 @@
 <LM>w#w-mf930708-110-p2s2w21</LM>
 </w.rf>
 <form>stane</form>
-<tag lemma="stát-2_^(něco_se_přihodilo)" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag>
+<AM lemma="stát-2_^(něco_se_přihodilo)" src="orig">VB-S---3P-AA---</AM>
+<AM lemma="stát-2_:W_^(něco_se_přihodilo)" src="manual" selected="1">VB-S---3P-AA---</AM>
+</tag>
 </m>
 <m id="m-mf930708-110-p2s2w22">
 <src.rf>manual</src.rf>
@@ -395,7 +402,10 @@
 <LM>w#w-mf930708-110-p2s2w23</LM>
 </w.rf>
 <form>ČMFS</form>
-<tag lemma="ČMFS-1_:B_;K_;w_^(Českomoravský_fotbalový_svaz)" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="ČMFS-1_:B_;K_;w_^(Českomoravský_fotbalový_svaz)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="ČMFS-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930708-110-p2s2w24">
 <src.rf>manual</src.rf>
@@ -517,7 +527,10 @@
 <LM>w#w-mf930708-110-p2s3w11</LM>
 </w.rf>
 <form>uvedl</form>
-<tag lemma="uvést" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag>
+<AM lemma="uvést" src="orig">VpYS---XR-AA---</AM>
+<AM lemma="uvést_:W" src="manual" selected="1">VpYS---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-mf930708-110-p2s3w12">
 <src.rf>manual</src.rf>

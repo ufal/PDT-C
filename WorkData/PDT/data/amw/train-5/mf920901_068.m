@@ -101,7 +101,10 @@
 <LM>w#w-mf920901-068-p2s1w10</LM>
 </w.rf>
 <form>SNR</form>
-<tag lemma="SNR-1_:B_;K_^(Slovenská_národní_rada)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="SNR-1_:B_;K_^(Slovenská_národní_rada)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="SNR-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-mf920901-068-p2s1w11">
 <src.rf>manual</src.rf>
@@ -215,7 +218,10 @@
 <LM>w#w-mf920901-068-p2s2w11</LM>
 </w.rf>
 <form>ČSFR</form>
-<tag lemma="ČSFR-1_:B_;G_^(Čs._federativní_republika)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ČSFR-1_:B_;G_^(Čs._federativní_republika)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČSFR-1_:B_;G_^(Čs._federativní_republika)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920901-068-p2s2w12">
 <src.rf>manual</src.rf>
@@ -387,7 +393,10 @@
 <LM>w#w-mf920901-068-p2s4w8</LM>
 </w.rf>
 <form>čechoslovakismu</form>
-<tag lemma="čechoslovakismus" src="orig" selected="1">NNIS2-----A----</tag>
+<tag>
+<AM lemma="čechoslovakismus" src="orig">NNIS2-----A----</AM>
+<AM lemma="čechoslovakismus_,s_^(^DD**čechoslovakizmus)" src="manual" selected="1">NNIS2-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920901-068-p2s4w9">
 <src.rf>manual</src.rf>

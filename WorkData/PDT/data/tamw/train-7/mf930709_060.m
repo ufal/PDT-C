@@ -35,7 +35,10 @@
 <LM>w#w-mf930709-060-p2s1w3</LM>
 </w.rf>
 <form>začaly</form>
-<tag lemma="začít-1_^(začnout)" src="auto" selected="1">VpTP---XR-AA---</tag>
+<tag>
+<AM lemma="začít-1_^(začnout)" src="auto">VpTP---XR-AA---</AM>
+<AM lemma="začít-1_:W_^(začnout)" src="manual" selected="1">VpTP---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-mf930709-060-p2s1w4">
 <src.rf>manual</src.rf>
@@ -140,6 +143,7 @@
 <AM lemma="můj_^(přivlast.)" src="auto">PSNS5-S1------6</AM>
 <AM lemma="můj_^(přivlast.)" src="auto">PSXP4-S1------7</AM>
 <AM lemma="můj_^(přivlast.)" src="auto">PSYP4-S1------7</AM>
+<AM lemma="mý-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930709-060-p3s1Aw4">
@@ -312,7 +316,10 @@
 <LM>w#w-mf930709-060-p3s2w1</LM>
 </w.rf>
 <form>Cestující</form>
-<tag lemma="cestující_^(*5ovat)" src="orig" selected="1">AGMP1-----A----</tag>
+<tag>
+<AM lemma="cestující_^(*5ovat)" src="orig">AGMP1-----A----</AM>
+<AM lemma="cestující-2" src="manual" selected="1">NNMP1-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930709-060-p3s2w2">
 <src.rf>manual</src.rf>
@@ -1168,7 +1175,10 @@
 <LM>w#w-mf930709-060-p4s3w11</LM>
 </w.rf>
 <form>dolarů</form>
-<tag lemma="dolar_;b" src="orig" selected="1">NNIP2-----A----</tag>
+<tag>
+<AM lemma="dolar_;b" src="orig">NNIP2-----A----</AM>
+<AM lemma="dolar" src="manual" selected="1">NNIP2-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930709-060-p4s3w12">
 <src.rf>manual</src.rf>
@@ -1266,7 +1276,10 @@
 <LM>w#w-mf930709-060-p5s1w9</LM>
 </w.rf>
 <form>ČSA</form>
-<tag lemma="ČSA-1_:B_;K_^(Čs./České_aerolinie)" src="orig" selected="1">NNFPX-----A---8</tag>
+<tag>
+<AM lemma="ČSA-1_:B_;K_^(Čs./České_aerolinie)" src="orig">NNFPX-----A---8</AM>
+<AM lemma="ČSA-1_:B_;K_^(Čs./České_aerolinie)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930709-060-p5s1w10">
 <src.rf>manual</src.rf>
@@ -1428,7 +1441,10 @@
 <LM>w#w-mf930709-060-p5s2w10</LM>
 </w.rf>
 <form>ČSA</form>
-<tag lemma="ČSA-1_:B_;K_^(Čs./České_aerolinie)" src="orig" selected="1">NNFPX-----A---8</tag>
+<tag>
+<AM lemma="ČSA-1_:B_;K_^(Čs./České_aerolinie)" src="orig">NNFPX-----A---8</AM>
+<AM lemma="ČSA-1_:B_;K_^(Čs./České_aerolinie)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930709-060-p5s2w11">
 <src.rf>manual</src.rf>
@@ -1525,7 +1541,7 @@
 </w.rf>
 <form>AIR</form>
 <tag>
-<AM lemma="Air_;K" src="orig">NNIXX-----A----</AM>
+<AM lemma="Air_;K" src="orig" selected="1">NNIXX-----A----</AM>
 <AM lemma="Air_;K" src="auto">NNIS1-----A----</AM>
 <AM lemma="Air_;K" src="auto">NNIS4-----A----</AM>
 <AM lemma="air_,t" src="auto" recommended="1">NNIS1-----A----</AM>
@@ -1546,7 +1562,10 @@
 <LM>w#w-mf930709-060-p5s2w24</LM>
 </w.rf>
 <form>stojí</form>
-<tag lemma="stát-4_^(něco_stojí_peníze)" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag>
+<AM lemma="stát-4_^(něco_stojí_peníze)" src="orig">VB-S---3P-AA---</AM>
+<AM lemma="stát-3_^(stojím_stojíš)" src="manual" selected="1">VB-S---3P-AA---</AM>
+</tag>
 </m>
 <m id="m-mf930709-060-p5s2w25">
 <src.rf>manual</src.rf>

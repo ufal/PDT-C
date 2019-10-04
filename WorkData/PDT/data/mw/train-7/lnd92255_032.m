@@ -59,7 +59,10 @@
 <LM>w#w-lnd92255-032-p1s1w6</LM>
 </w.rf>
 <form>podepsal</form>
-<tag lemma="podepsat" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag>
+<AM lemma="podepsat" src="orig">VpYS---XR-AA---</AM>
+<AM lemma="podepsat_:W" src="manual" selected="1">VpYS---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-lnd92255-032-p1s1w7">
 <src.rf>manual</src.rf>
@@ -293,7 +296,10 @@
 <LM>w#w-lnd92255-032-p1s2w21</LM>
 </w.rf>
 <form>nemá</form>
-<tag lemma="mít" src="orig" selected="1">VB-S---3P-NA---</tag>
+<tag>
+<AM lemma="mít" src="orig">VB-S---3P-NA---</AM>
+<AM lemma="mít_:T" src="manual" selected="1">VB-S---3P-NA---</AM>
+</tag>
 </m>
 <m id="m-lnd92255-032-p1s2w22">
 <src.rf>manual</src.rf>
@@ -877,7 +883,10 @@
 <LM>w#w-lnd92255-032-p2s3w11</LM>
 </w.rf>
 <form>nezbytné</form>
-<tag lemma="zbytný" src="orig" selected="1">AAIP4----1N----</tag>
+<tag>
+<AM lemma="zbytný" src="orig">AAIP4----1N----</AM>
+<AM lemma="nezbytný" src="manual" selected="1">AAIP4----1A----</AM>
+</tag>
 </m>
 <m id="m-lnd92255-032-p2s3w12">
 <src.rf>manual</src.rf>
@@ -1050,6 +1059,7 @@
 <tag>
 <AM lemma="Catherine_;Y" src="orig">NNFS7-----A----</AM>
 <AM lemma="Catherine_;Y_,t" src="auto" recommended="1">NNFXX-----A----</AM>
+<AM lemma="Catherine_;Y" src="manual" selected="1">NNFXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92255-032-p2s4w16">
@@ -1545,6 +1555,7 @@
 <tag>
 <AM lemma="naleznout" src="orig">VsTP---XX-AP---</AM>
 <AM lemma="nalézt-2" src="auto" recommended="1">VsTP---XX-AP---</AM>
+<AM lemma="nalézt-2_:W" src="manual" selected="1">VsTP---XX-AP---</AM>
 </tag>
 </m>
 <m id="m-lnd92255-032-p3s2w19">
@@ -1585,7 +1596,10 @@
 <LM>w#w-lnd92255-032-p3s2w23</LM>
 </w.rf>
 <form>ÚV</form>
-<tag lemma="ÚV-1_:B_^(ústřední_výbor)" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="ÚV-1_:B_^(ústřední_výbor)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="ÚV-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92255-032-p3s2w24">
 <src.rf>manual</src.rf>
@@ -1593,7 +1607,10 @@
 <LM>w#w-lnd92255-032-p3s2w24</LM>
 </w.rf>
 <form>KSSS</form>
-<tag lemma="KSSS_:B_;K_;p" src="auto" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="KSSS_:B_;K_;p" src="auto">NNFXX-----A---8</AM>
+<AM lemma="KSSS-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92255-032-p3s2w25">
 <src.rf>manual</src.rf>

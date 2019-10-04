@@ -185,7 +185,7 @@
 <form>Týden</form>
 <tag>
 <AM lemma="Týden_;R" src="orig">NNIS1-----A----</AM>
-<AM lemma="týden_^(jednotka_času)" src="auto" recommended="1">NNIS1-----A----</AM>
+<AM lemma="týden_^(jednotka_času)" src="auto" recommended="1" selected="1">NNIS1-----A----</AM>
 <AM lemma="týden_^(jednotka_času)" src="auto">NNIS4-----A----</AM>
 </tag>
 </m>
@@ -221,7 +221,10 @@
 <LM>w#w-ln94211-91-p2s1Cw4</LM>
 </w.rf>
 <form>jednou</form>
-<tag lemma="jednou-1" src="auto" selected="1">Cv-------------</tag>
+<tag>
+<AM lemma="jednou-1" src="auto">Cv-------------</AM>
+<AM lemma="jednou-2" src="manual" selected="1">Db-------------</AM>
+</tag>
 </m>
 <m id="m-ln94211-91-p2s1Cw5">
 <src.rf>manual</src.rf>
@@ -337,7 +340,7 @@
 <form>Nedosti</form>
 <tag>
 <AM lemma="dost" src="orig">Dg-------1N---3</AM>
-<AM lemma="nedosti" src="auto" recommended="1">Db-------------</AM>
+<AM lemma="nedosti" src="auto" recommended="1" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m-ln94211-91-p2s2w2">
@@ -601,6 +604,7 @@
 <AM lemma="Ce-1_:B_;H_^(cerium,_cer)" src="auto" recommended="1">NNNXX-----A---8</AM>
 <AM lemma="Ce-3_:B_,t_^(compagnie,_vojenská_rota,_obch._společnost)" src="auto">NNFXX-----A---8</AM>
 <AM lemma="ce-2_:B_,t_^(compass_error,_deklinač._a_deviační_odchylka)" src="auto">NNFXX-----A---8</AM>
+<AM lemma="Ce-4_;Y" src="manual" selected="1">NNMXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94211-91-p2s3w12">
@@ -1013,7 +1017,10 @@
 <LM>w#w-ln94211-91-p3s2w1</LM>
 </w.rf>
 <form>Mao</form>
-<tag lemma="Mao_;Y" src="auto" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Mao_;Y" src="auto">NNMS1-----A----</AM>
+<AM lemma="Mao_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94211-91-p3s2w2">
 <src.rf>manual</src.rf>
@@ -1026,6 +1033,7 @@
 <AM lemma="Ce-1_:B_;H_^(cerium,_cer)" src="auto">NNNXX-----A---8</AM>
 <AM lemma="Ce-3_:B_,t_^(compagnie,_vojenská_rota,_obch._společnost)" src="auto">NNFXX-----A---8</AM>
 <AM lemma="ce-2_:B_,t_^(compass_error,_deklinač._a_deviační_odchylka)" src="auto" recommended="1">NNFXX-----A---8</AM>
+<AM lemma="Ce-4_;Y" src="manual" selected="1">NNMXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94211-91-p3s2w3">
@@ -1047,6 +1055,7 @@
 <AM lemma="tunga" src="auto">NNFP2-----A----</AM>
 <AM lemma="tung_;L_^(rostlina)" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="tung_;L_^(rostlina)" src="auto">NNIS4-----A----</AM>
+<AM lemma="tung_;Y_^(Mao_ce_tung)" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94211-91-p3s2w5">
@@ -1167,7 +1176,10 @@
 <LM>w#w-ln94211-91-p3s2w19</LM>
 </w.rf>
 <form>BBC</form>
-<tag lemma="BBC_:B_;K" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="BBC_:B_;K" src="orig">NNFXX-----A---8</AM>
+<AM lemma="BBC-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln94211-91-p3s2w20">
 <src.rf>manual</src.rf>
@@ -1328,7 +1340,7 @@
 </w.rf>
 <form>nejen</form>
 <tag>
-<AM lemma="nejen" src="orig">TT-------------</AM>
+<AM lemma="nejen" src="orig" selected="1">TT-------------</AM>
 <AM lemma="nejen" src="auto" recommended="1">Db-------------</AM>
 </tag>
 </m>
@@ -2311,7 +2323,7 @@
 <tag>
 <AM lemma="totiž" src="orig">Db-------------</AM>
 <AM lemma="totiž-1" src="auto">J^-------------</AM>
-<AM lemma="totiž-2" src="auto" recommended="1">TT-------------</AM>
+<AM lemma="totiž-2" src="auto" recommended="1" selected="1">TT-------------</AM>
 </tag>
 </m>
 <m id="m-ln94211-91-p5s2w16">
@@ -4338,7 +4350,7 @@
 <form>komukoli</form>
 <tag>
 <AM lemma="kdokoliv" src="orig">PZM-3---------1</AM>
-<AM lemma="kdokoli" src="auto" recommended="1">PZM-3----------</AM>
+<AM lemma="kdokoli" src="auto" recommended="1" selected="1">PZM-3----------</AM>
 </tag>
 </m>
 <m id="m-ln94211-91-p9s3w6">
@@ -5017,7 +5029,7 @@
 <form>vládcové</form>
 <tag>
 <AM lemma="vládce_,x" src="orig">NNMP1-----A---1</AM>
-<AM lemma="vládce" src="auto" recommended="1">NNMP1-----A---6</AM>
+<AM lemma="vládce" src="auto" recommended="1" selected="1">NNMP1-----A---6</AM>
 <AM lemma="vládce" src="auto">NNMP5-----A---6</AM>
 </tag>
 </m>

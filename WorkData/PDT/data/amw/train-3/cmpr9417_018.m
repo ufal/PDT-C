@@ -588,7 +588,10 @@
 <LM>w#w-cmpr9417-018-p5s3w2</LM>
 </w.rf>
 <form>jenom</form>
-<tag lemma="jenom-1" src="auto" selected="1">TT-------------</tag>
+<tag>
+<AM lemma="jenom-1" src="auto">TT-------------</AM>
+<AM lemma="jenom-2_^(pouze)" src="manual" selected="1">Db-------------</AM>
+</tag>
 </m>
 <m id="m-cmpr9417-018-p5s3w3">
 <src.rf>manual</src.rf>
@@ -1138,7 +1141,10 @@
 <LM>w#w-cmpr9417-018-p7s1w13</LM>
 </w.rf>
 <form>premií</form>
-<tag lemma="prémie_,x" src="orig" selected="1">NNFS7-----A----</tag>
+<tag>
+<AM lemma="prémie_,x" src="orig">NNFS7-----A----</AM>
+<AM lemma="premie_,s_^(^DD**prémie)" src="manual" selected="1">NNFS7-----A----</AM>
+</tag>
 </m>
 <m id="m-cmpr9417-018-p7s1w14">
 <src.rf>manual</src.rf>
@@ -1166,7 +1172,7 @@
 <form>nejen</form>
 <tag>
 <AM lemma="nejen" src="orig">TT-------------</AM>
-<AM lemma="nejen" src="auto" recommended="1">Db-------------</AM>
+<AM lemma="nejen" src="auto" recommended="1" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m-cmpr9417-018-p7s3w3">

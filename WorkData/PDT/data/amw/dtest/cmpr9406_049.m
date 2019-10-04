@@ -87,7 +87,7 @@
 <form>třeba</form>
 <tag>
 <AM lemma="třeba-1" src="orig">ACNS------A----</AM>
-<AM lemma="třeba-2" src="auto" recommended="1">Db-------------</AM>
+<AM lemma="třeba-2" src="auto" recommended="1" selected="1">Db-------------</AM>
 <AM lemma="třeba-3" src="auto">TT-------------</AM>
 </tag>
 </m>
@@ -578,7 +578,10 @@
 <LM>w#w-cmpr9406-049-p4s1w3</LM>
 </w.rf>
 <form>neměl</form>
-<tag lemma="mít" src="orig" selected="1">VpYS---XR-NA---</tag>
+<tag>
+<AM lemma="mít" src="orig">VpYS---XR-NA---</AM>
+<AM lemma="mít_:T" src="manual" selected="1">VpYS---XR-NA---</AM>
+</tag>
 </m>
 <m id="m-cmpr9406-049-p4s1w4">
 <src.rf>manual</src.rf>
@@ -626,7 +629,10 @@
 <LM>w#w-cmpr9406-049-p4s1w9</LM>
 </w.rf>
 <form>managementu</form>
-<tag lemma="management_,t_^(vedení,_manažment;_angl.)" src="orig" selected="1">NNIS2-----A----</tag>
+<tag>
+<AM lemma="management_,t_^(vedení,_manažment;_angl.)" src="orig">NNIS2-----A----</AM>
+<AM lemma="management_^(vedení,_manažment;_angl.)" src="manual" selected="1">NNIS2-----A----</AM>
+</tag>
 </m>
 <m id="m-cmpr9406-049-p4s1w10">
 <src.rf>manual</src.rf>
@@ -634,7 +640,10 @@
 <LM>w#w-cmpr9406-049-p4s1w10</LM>
 </w.rf>
 <form>přinese</form>
-<tag lemma="přinést" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag>
+<AM lemma="přinést" src="orig">VB-S---3P-AA---</AM>
+<AM lemma="přinést_:W" src="manual" selected="1">VB-S---3P-AA---</AM>
+</tag>
 </m>
 <m id="m-cmpr9406-049-p4s1w11">
 <src.rf>manual</src.rf>
@@ -774,7 +783,10 @@
 <LM>w#w-cmpr9406-049-p4s3w7</LM>
 </w.rf>
 <form>know</form>
-<tag lemma="know_,t_^(know_how)" src="orig" selected="1">NNNXX-----A----</tag>
+<tag>
+<AM lemma="know_,t_^(know_how)" src="orig">NNNXX-----A----</AM>
+<AM lemma="know-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-cmpr9406-049-p4s3w8">
 <src.rf>manual</src.rf>
@@ -790,7 +802,10 @@
 <LM>w#w-cmpr9406-049-p4s3w9</LM>
 </w.rf>
 <form>how</form>
-<tag lemma="how_,t_^(know_how)" src="orig" selected="1">NNNXX-----A----</tag>
+<tag>
+<AM lemma="how_,t_^(know_how)" src="orig">NNNXX-----A----</AM>
+<AM lemma="how-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-cmpr9406-049-p4s3w10">
 <src.rf>manual</src.rf>
@@ -1650,7 +1665,10 @@
 <LM>w#w-cmpr9406-049-p6s1w7</LM>
 </w.rf>
 <form>managementu</form>
-<tag lemma="management_,t_^(vedení,_manažment;_angl.)" src="orig" selected="1">NNIS2-----A----</tag>
+<tag>
+<AM lemma="management_,t_^(vedení,_manažment;_angl.)" src="orig">NNIS2-----A----</AM>
+<AM lemma="management_^(vedení,_manažment;_angl.)" src="manual" selected="1">NNIS2-----A----</AM>
+</tag>
 </m>
 <m id="m-cmpr9406-049-p6s1w8">
 <src.rf>manual</src.rf>
@@ -1893,7 +1911,7 @@
 </w.rf>
 <form>Kempe</form>
 <tag>
-<AM lemma="Kempe_;S" src="orig">NNMS1-----A----</AM>
+<AM lemma="Kempe_;S" src="orig" selected="1">NNMS1-----A----</AM>
 <AM lemma="Kemp_;S" src="auto" recommended="1">NNMS5-----A----</AM>
 <AM lemma="kemp" src="auto">NNIS5-----A----</AM>
 </tag>
@@ -1986,7 +2004,7 @@
 <form>Forda</form>
 <tag>
 <AM lemma="Ford-1_;K" src="orig">NNIS2-----A----</AM>
-<AM lemma="Ford-2_;K_;R" src="auto">NNIS2-----A---1</AM>
+<AM lemma="Ford-2_;K_;R" src="auto" selected="1">NNIS2-----A---1</AM>
 <AM lemma="Ford-2_;K_;R" src="auto">NNIS4-----A---6</AM>
 <AM lemma="Ford-3_;S" src="auto" recommended="1">NNMS2-----A----</AM>
 <AM lemma="Ford-3_;S" src="auto">NNMS4-----A----</AM>
@@ -2073,7 +2091,7 @@
 </w.rf>
 <form>Greenwald</form>
 <tag>
-<AM lemma="Greenwald-2_;S" src="orig">NNMS1-----A----</AM>
+<AM lemma="Greenwald-2_;S" src="orig" selected="1">NNMS1-----A----</AM>
 <AM lemma="Greenwald_;G" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Greenwald_;G" src="auto">NNIS4-----A----</AM>
 </tag>
@@ -2330,7 +2348,7 @@
 <form>neustálá</form>
 <tag>
 <AM lemma="ustálý" src="orig">AAFS1----1N----</AM>
-<AM lemma="neustálý" src="auto" recommended="1">AAFS1----1A----</AM>
+<AM lemma="neustálý" src="auto" recommended="1" selected="1">AAFS1----1A----</AM>
 <AM lemma="neustálý" src="auto">AAFS5----1A----</AM>
 <AM lemma="neustálý" src="auto">AANP1----1A----</AM>
 <AM lemma="neustálý" src="auto">AANP4----1A----</AM>
@@ -2430,7 +2448,7 @@
 <tag>
 <AM lemma="přesto" src="orig">Dg-------1A----</AM>
 <AM lemma="přesto-1" src="auto">Db-------------</AM>
-<AM lemma="přesto-2" src="auto" recommended="1">J^-------------</AM>
+<AM lemma="přesto-2" src="auto" recommended="1" selected="1">J^-------------</AM>
 </tag>
 </m>
 <m id="m-cmpr9406-049-p8s2w2">
@@ -2823,7 +2841,10 @@
 <LM>w#w-cmpr9406-049-p8s6w14</LM>
 </w.rf>
 <form>chápu</form>
-<tag lemma="chápat" src="orig" selected="1">VB-S---1P-AA---</tag>
+<tag>
+<AM lemma="chápat" src="orig">VB-S---1P-AA---</AM>
+<AM lemma="chápat_:T" src="manual" selected="1">VB-S---1P-AA---</AM>
+</tag>
 </m>
 <m id="m-cmpr9406-049-p8s6w15">
 <src.rf>manual</src.rf>

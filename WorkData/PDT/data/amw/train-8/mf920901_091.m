@@ -117,7 +117,10 @@
 <LM>w#w-mf920901-091-p2s1w9</LM>
 </w.rf>
 <form>Acker</form>
-<tag lemma="Acker_;S" src="auto" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Acker_;S" src="auto">NNMS1-----A----</AM>
+<AM lemma="Acker_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920901-091-p2s1w10">
 <src.rf>manual</src.rf>
@@ -213,7 +216,10 @@
 <LM>w#w-mf920901-091-p2s1w21</LM>
 </w.rf>
 <form>Jazz</form>
-<tag lemma="Jazz_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="Jazz_;K" src="orig">NNIS1-----A----</AM>
+<AM lemma="Jazz-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-mf920901-091-p2s1w22">
 <src.rf>manual</src.rf>
@@ -221,7 +227,10 @@
 <LM>w#w-mf920901-091-p2s1w22</LM>
 </w.rf>
 <form>And</form>
-<tag lemma="and-1_,t_^(obv._souč._anglických_názvů,_&quot;a&quot;)" src="auto" selected="1">J^-------------</tag>
+<tag>
+<AM lemma="and-1_,t_^(obv._souč._anglických_názvů,_&quot;a&quot;)" src="auto">J^-------------</AM>
+<AM lemma="And-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-mf920901-091-p2s1w23">
 <src.rf>manual</src.rf>
@@ -229,7 +238,10 @@
 <LM>w#w-mf920901-091-p2s1w23</LM>
 </w.rf>
 <form>Blues</form>
-<tag lemma="blues" src="orig" selected="1">NNNXX-----A----</tag>
+<tag>
+<AM lemma="blues" src="orig">NNNXX-----A----</AM>
+<AM lemma="Blues-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-mf920901-091-p2s1w24">
 <src.rf>manual</src.rf>

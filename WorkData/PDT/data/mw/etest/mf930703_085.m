@@ -53,7 +53,10 @@
 <LM>w#w-mf930703-085-p2s1w1</LM>
 </w.rf>
 <form>New</form>
-<tag lemma="New-1_;G_,t_^(součást_míst._jmen)" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="New-1_;G_,t_^(součást_míst._jmen)" src="orig">AAXXX----1A----</AM>
+<AM lemma="New-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-mf930703-085-p2s1w2">
 <src.rf>manual</src.rf>
@@ -61,7 +64,10 @@
 <LM>w#w-mf930703-085-p2s1w2</LM>
 </w.rf>
 <form>York</form>
-<tag lemma="York-2_;G" src="orig" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="York-2_;G" src="orig">NNIS1-----A----</AM>
+<AM lemma="York-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-mf930703-085-p2s1w3">
 <src.rf>manual</src.rf>
@@ -77,7 +83,10 @@
 <LM>w#w-mf930703-085-p2s1w4</LM>
 </w.rf>
 <form>čtk</form>
-<tag lemma="ČTK-1_:B_;K_^(Čs./Česká_tisková_kancelář)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ČTK-1_:B_;K_^(Čs./Česká_tisková_kancelář)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČTK-1_:B_;K_^(Čs./Česká_tisková_kancelář)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930703-085-p2s1w5">
 <src.rf>manual</src.rf>
@@ -96,6 +105,7 @@
 <tag>
 <AM lemma="rep-99_:B_;S" src="orig">NNXXX-----A---8</AM>
 <AM lemma="republika_:B" src="auto" recommended="1">NNFXX-----A---8</AM>
+<AM lemma="rep-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930703-085-p2s1w7">
@@ -463,6 +473,7 @@
 <tag>
 <AM lemma="USA_;G" src="orig">NNIPX-----A----</AM>
 <AM lemma="USA_:B_;K_,t_^(United_States_of_America)" src="auto" recommended="1">NNIPX-----A---8</AM>
+<AM lemma="USA_:B_;K_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930703-085-p2s3w20">
@@ -726,7 +737,7 @@
 <tag>
 <AM lemma="prs" src="orig">NNFP6-----A----</AM>
 <AM lemma="prsa" src="auto">NNNP2-----A---1</AM>
-<AM lemma="prsa" src="auto" recommended="1">NNNP6-----A---1</AM>
+<AM lemma="prsa" src="auto" recommended="1" selected="1">NNNP6-----A---1</AM>
 </tag>
 </m>
 <m id="m-mf930703-085-p3s2w4">
@@ -1061,7 +1072,10 @@
 <LM>w#w-mf930703-085-p5s2w7</LM>
 </w.rf>
 <form>řekl</form>
-<tag lemma="říci" src="auto" selected="1">VpYS---XR-AA---</tag>
+<tag>
+<AM lemma="říci" src="auto">VpYS---XR-AA---</AM>
+<AM lemma="říci_:W" src="manual" selected="1">VpYS---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-mf930703-085-p5s2w8">
 <src.rf>manual</src.rf>

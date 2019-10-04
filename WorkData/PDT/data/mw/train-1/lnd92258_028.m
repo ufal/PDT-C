@@ -58,6 +58,7 @@
 <AM lemma="hoj" src="auto" recommended="1">II-------------</AM>
 <AM lemma="hojit_:T" src="auto">Vi-S---2--A----</AM>
 <AM lemma="hojit_:T" src="auto">Vi-S---3--A---4</AM>
+<AM lemma="hoj-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92258-028-p2s1w4">
@@ -310,7 +311,10 @@
 <LM>w#w-lnd92258-028-p2s3w3</LM>
 </w.rf>
 <form>začal</form>
-<tag lemma="začít-1_^(začnout)" src="auto" selected="1">VpYS---XR-AA---</tag>
+<tag>
+<AM lemma="začít-1_^(začnout)" src="auto">VpYS---XR-AA---</AM>
+<AM lemma="začít-1_:W_^(začnout)" src="manual" selected="1">VpYS---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-lnd92258-028-p2s3w4">
 <src.rf>manual</src.rf>

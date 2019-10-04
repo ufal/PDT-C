@@ -67,7 +67,10 @@
 <LM>w#w-mf930709-135-p1s1w7</LM>
 </w.rf>
 <form>AIDS</form>
-<tag lemma="AIDS_:B_;U_,x_^(Syndrom_získaného_selhání_imunity)" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="AIDS_:B_;U_,x_^(Syndrom_získaného_selhání_imunity)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="AIDS-2_:B_;U_^(Syndrom_získaného_selhání_imunity)" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 </s>
 <s id="m-mf930709-135-p2s1">
@@ -295,7 +298,10 @@
 <LM>w#w-mf930709-135-p2s2w23</LM>
 </w.rf>
 <form>AIDS</form>
-<tag lemma="AIDS_:B_;U_,x_^(Syndrom_získaného_selhání_imunity)" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="AIDS_:B_;U_,x_^(Syndrom_získaného_selhání_imunity)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="AIDS-2_:B_;U_^(Syndrom_získaného_selhání_imunity)" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-mf930709-135-p2s2w24">
 <src.rf>manual</src.rf>
@@ -583,6 +589,7 @@
 <AM lemma="Kimberly_;Y" src="orig">NNFS1-----A----</AM>
 <AM lemma="Kimberly_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Kimberly_;Y" src="auto">NNMS5-----A----</AM>
+<AM lemma="Kimberly-2_;Y" src="manual" selected="1">NNFXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930709-135-p2s4w10">
@@ -631,6 +638,7 @@
 <AM lemma="Acer_;K" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Acer_;K" src="auto">NNIS4-----A----</AM>
 <AM lemma="acer_;L_,t" src="auto">AAXXX----1A----</AM>
+<AM lemma="Acer-2_;S" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930709-135-p2s5w4">
@@ -650,6 +658,7 @@
 <tag>
 <AM lemma="Jensen_;G" src="orig">AAXXX----1A----</AM>
 <AM lemma="Jensen_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Jensen-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-mf930709-135-p2s5w6">
@@ -663,6 +672,8 @@
 <AM lemma="beach-1_;w_,t_^(plážový_volejbal)" src="auto">NNIS1-----A----</AM>
 <AM lemma="beach-1_;w_,t_^(plážový_volejbal)" src="auto">NNIS4-----A----</AM>
 <AM lemma="beach-2_,t" src="auto" recommended="1">AAXXX----1A----</AM>
+<AM lemma="beach-3_,t" src="manual">NNXXX-----A----</AM>
+<AM lemma="Beach-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-mf930709-135-p2s5w7">
@@ -855,7 +866,10 @@
 <LM>w#w-mf930709-135-p2s5w30</LM>
 </w.rf>
 <form>AIDS</form>
-<tag lemma="AIDS_:B_;U_,x_^(Syndrom_získaného_selhání_imunity)" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="AIDS_:B_;U_,x_^(Syndrom_získaného_selhání_imunity)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="AIDS-2_:B_;U_^(Syndrom_získaného_selhání_imunity)" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-mf930709-135-p2s5w31">
 <src.rf>manual</src.rf>
@@ -876,7 +890,7 @@
 <tag>
 <AM lemma="přesto" src="orig">Dg-------1A----</AM>
 <AM lemma="přesto-1" src="auto">Db-------------</AM>
-<AM lemma="přesto-2" src="auto" recommended="1">J^-------------</AM>
+<AM lemma="přesto-2" src="auto" recommended="1" selected="1">J^-------------</AM>
 </tag>
 </m>
 <m id="m-mf930709-135-p2s6w2">

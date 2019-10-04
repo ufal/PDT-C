@@ -2037,7 +2037,10 @@
 <LM>w#w-mf920925-012-p5s3w9</LM>
 </w.rf>
 <form>jen</form>
-<tag lemma="jen-1" src="auto" selected="1">TT-------------</tag>
+<tag>
+<AM lemma="jen-1" src="auto">TT-------------</AM>
+<AM lemma="jen-4_^(pouze)" src="manual" selected="1">Db-------------</AM>
+</tag>
 </m>
 <m id="m-mf920925-012-p5s3w10">
 <src.rf>manual</src.rf>
@@ -2517,7 +2520,10 @@
 <LM>w#w-mf920925-012-p7s1w6</LM>
 </w.rf>
 <form>nejvíc</form>
-<tag lemma="hodně-2" src="auto" selected="1">Dg-------3A---1</tag>
+<tag>
+<AM lemma="hodně-2" src="auto">Dg-------3A---1</AM>
+<AM lemma="hodně-3" src="manual" selected="1">Dg-------3A---1</AM>
+</tag>
 </m>
 <m id="m-mf920925-012-p7s1w7">
 <src.rf>manual</src.rf>
@@ -2607,7 +2613,10 @@
 <LM>w#w-mf920925-012-p7s2w5</LM>
 </w.rf>
 <form>však</form>
-<tag lemma="však-1" src="auto" selected="1">J^-------------</tag>
+<tag>
+<AM lemma="však-1" src="auto">J^-------------</AM>
+<AM lemma="však-2" src="manual" selected="1">TT-------------</AM>
+</tag>
 </m>
 <m id="m-mf920925-012-p7s2w6">
 <src.rf>manual</src.rf>

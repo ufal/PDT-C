@@ -54,7 +54,7 @@
 </w.rf>
 <form>lb</form>
 <tag>
-<AM lemma="lb-99_:B_;S" src="orig">NNXXX-----A---8</AM>
+<AM lemma="lb-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</AM>
 <AM lemma="libra-2_:B_^(váhová_jednotka)" src="auto" recommended="1">NNXXX-----A---8</AM>
 </tag>
 </m>
@@ -560,7 +560,10 @@
 <LM>w#w-mf930701-048-p2s5w2</LM>
 </w.rf>
 <form>ani</form>
-<tag lemma="ani-1" src="auto" selected="1">J^-------------</tag>
+<tag>
+<AM lemma="ani-1" src="auto">J^-------------</AM>
+<AM lemma="ani-2" src="manual" selected="1">TT-------------</AM>
+</tag>
 </m>
 <m id="m-mf930701-048-p2s5w3">
 <src.rf>manual</src.rf>

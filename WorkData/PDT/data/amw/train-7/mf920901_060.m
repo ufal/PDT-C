@@ -85,7 +85,10 @@
 <LM>w#w-mf920901-060-p1s1Bw5</LM>
 </w.rf>
 <form>ČSFR</form>
-<tag lemma="ČSFR-1_:B_;G_^(Čs._federativní_republika)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ČSFR-1_:B_;G_^(Čs._federativní_republika)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČSFR-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-mf920901-060-p1s1Bw6">
 <src.rf>manual</src.rf>
@@ -104,6 +107,7 @@
 <tag>
 <AM lemma="USA_;G" src="orig">NNIPX-----A----</AM>
 <AM lemma="USA_:B_;K_,t_^(United_States_of_America)" src="auto" recommended="1">NNIPX-----A---8</AM>
+<AM lemma="USA_:B_;K_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-mf920901-060-p1s1Bw8">
@@ -309,6 +313,7 @@
 <AM lemma="turek_,h_^(turecká_káva)" src="auto">NNIS3-----A----</AM>
 <AM lemma="turek_,h_^(turecká_káva)" src="auto">NNIS5-----A----</AM>
 <AM lemma="turek_,h_^(turecká_káva)" src="auto">NNIS6-----A----</AM>
+<AM lemma="Turku_;G" src="manual" selected="1">NNNXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920901-060-p2s2w3">
@@ -712,7 +717,7 @@
 <AM lemma="Janecký_;S" src="auto">NNMP1-----A---6</AM>
 <AM lemma="Janecký_;S" src="auto">NNMP4-----A---6</AM>
 <AM lemma="Janecký_;S" src="auto">NNMP5-----A---6</AM>
-<AM lemma="Janecký_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Janecký_;S" src="auto" recommended="1" selected="1">NNMS1-----A----</AM>
 <AM lemma="Janecký_;S" src="auto">NNMS5-----A----</AM>
 </tag>
 </m>
@@ -1456,7 +1461,10 @@
 <LM>w#w-mf920901-060-p6s1w2</LM>
 </w.rf>
 <form>ČSFR</form>
-<tag lemma="ČSFR-1_:B_;G_^(Čs._federativní_republika)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ČSFR-1_:B_;G_^(Čs._federativní_republika)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČSFR-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-mf920901-060-p6s1w3">
 <src.rf>manual</src.rf>
@@ -1536,7 +1544,10 @@
 <LM>w#w-mf920901-060-p6s1w12</LM>
 </w.rf>
 <form>Adam</form>
-<tag lemma="Adam_;Y" src="orig" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Adam_;Y" src="orig">NNMS1-----A----</AM>
+<AM lemma="Adam_;Y_;S" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920901-060-p6s1w13">
 <src.rf>manual</src.rf>
@@ -1595,7 +1606,7 @@
 <AM lemma="Janecký_;S" src="auto">NNMP1-----A---6</AM>
 <AM lemma="Janecký_;S" src="auto">NNMP4-----A---6</AM>
 <AM lemma="Janecký_;S" src="auto">NNMP5-----A---6</AM>
-<AM lemma="Janecký_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Janecký_;S" src="auto" recommended="1" selected="1">NNMS1-----A----</AM>
 <AM lemma="Janecký_;S" src="auto">NNMS5-----A----</AM>
 </tag>
 </m>
@@ -1944,7 +1955,7 @@
 <AM lemma="Janecký_;S" src="auto">NNMP1-----A---6</AM>
 <AM lemma="Janecký_;S" src="auto">NNMP4-----A---6</AM>
 <AM lemma="Janecký_;S" src="auto">NNMP5-----A---6</AM>
-<AM lemma="Janecký_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Janecký_;S" src="auto" recommended="1" selected="1">NNMS1-----A----</AM>
 <AM lemma="Janecký_;S" src="auto">NNMS5-----A----</AM>
 </tag>
 </m>

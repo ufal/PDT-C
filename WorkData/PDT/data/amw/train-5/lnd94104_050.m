@@ -182,7 +182,7 @@
 <tag>
 <AM lemma="tady" src="orig">Db------------1</AM>
 <AM lemma="ten" src="auto">PDFS4----------</AM>
-<AM lemma="tu" src="auto" recommended="1">Db-------------</AM>
+<AM lemma="tu" src="auto" recommended="1" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m-lnd94104-050-p1s1w23">
@@ -331,7 +331,10 @@
 <LM>w#w-lnd94104-050-p1s3w2</LM>
 </w.rf>
 <form>ČTK</form>
-<tag lemma="ČTK-1_:B_;K_^(Čs./Česká_tisková_kancelář)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ČTK-1_:B_;K_^(Čs./Česká_tisková_kancelář)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČTK_:B_;K_^(Čs./Česká_tisková_kancelář)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd94104-050-p1s3w3">
 <src.rf>manual</src.rf>
@@ -347,7 +350,10 @@
 <LM>w#w-lnd94104-050-p1s3w4</LM>
 </w.rf>
 <form>EPA</form>
-<tag lemma="EPA_:B" src="auto" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="EPA_:B" src="auto">NNFXX-----A---8</AM>
+<AM lemma="EPA-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 </s>
 </mdata>

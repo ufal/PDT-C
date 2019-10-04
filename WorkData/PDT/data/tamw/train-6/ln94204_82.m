@@ -314,7 +314,10 @@
 <LM>w#w-ln94204-82-p2s2w20</LM>
 </w.rf>
 <form>řekl</form>
-<tag lemma="říci" src="auto" selected="1">VpYS---XR-AA---</tag>
+<tag>
+<AM lemma="říci" src="auto">VpYS---XR-AA---</AM>
+<AM lemma="říci_:W" src="manual" selected="1">VpYS---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-ln94204-82-p2s2w21">
 <src.rf>manual</src.rf>
@@ -371,7 +374,10 @@
 <LM>w#w-ln94204-82-p2s2w27</LM>
 </w.rf>
 <form>Oslobodjenje</form>
-<tag lemma="Oslobodjenje_;R_,t" src="orig" selected="1">NNNS1-----A----</tag>
+<tag>
+<AM lemma="Oslobodjenje_;R_,t" src="orig">NNNS1-----A----</AM>
+<AM lemma="Oslobodjenje-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94204-82-p2s2w28">
 <src.rf>manual</src.rf>
@@ -469,7 +475,10 @@
 <LM>w#w-ln94204-82-p2s4w11</LM>
 </w.rf>
 <form>řekl</form>
-<tag lemma="říci" src="auto" selected="1">VpYS---XR-AA---</tag>
+<tag>
+<AM lemma="říci" src="auto">VpYS---XR-AA---</AM>
+<AM lemma="říci_:W" src="manual" selected="1">VpYS---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-ln94204-82-p2s4w12">
 <src.rf>manual</src.rf>
@@ -953,7 +962,7 @@
 <tag>
 <AM lemma="Sarajevo_;G" src="orig">NNNS6-----A----</AM>
 <AM lemma="Sarajevo_;G" src="auto">NNNS3-----A----</AM>
-<AM lemma="Sarajevo_;G" src="auto" recommended="1">NNNS6-----A---1</AM>
+<AM lemma="Sarajevo_;G" src="auto" recommended="1" selected="1">NNNS6-----A---1</AM>
 </tag>
 </m>
 <m id="m-ln94204-82-p2s7w20">
@@ -1006,7 +1015,7 @@
 <form>totiž</form>
 <tag>
 <AM lemma="totiž" src="orig">Db-------------</AM>
-<AM lemma="totiž-1" src="auto" recommended="1">J^-------------</AM>
+<AM lemma="totiž-1" src="auto" recommended="1" selected="1">J^-------------</AM>
 <AM lemma="totiž-2" src="auto">TT-------------</AM>
 </tag>
 </m>
@@ -1500,7 +1509,10 @@
 <LM>w#w-ln94204-82-p3s2w13</LM>
 </w.rf>
 <form>UNPROFOR</form>
-<tag lemma="UNPROFOR_:B" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="UNPROFOR_:B" src="orig">NNFXX-----A---8</AM>
+<AM lemma="UNPROFOR-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln94204-82-p3s2w14">
 <src.rf>manual</src.rf>
@@ -1850,7 +1862,10 @@
 <LM>w#w-ln94204-82-p3s5w16</LM>
 </w.rf>
 <form>RSK</form>
-<tag lemma="RSK_:B_;G_^(Republika_Srbská_Krajina)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="RSK_:B_;G_^(Republika_Srbská_Krajina)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="RSK-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln94204-82-p3s5w17">
 <src.rf>manual</src.rf>
@@ -2054,7 +2069,10 @@
 <LM>w#w-ln94204-82-p4s2w5</LM>
 </w.rf>
 <form>Associated</form>
-<tag lemma="Associated_;K_,t" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="Associated_;K_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="Associated-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94204-82-p4s2w6">
 <src.rf>manual</src.rf>
@@ -2062,7 +2080,10 @@
 <LM>w#w-ln94204-82-p4s2w6</LM>
 </w.rf>
 <form>Press</form>
-<tag lemma="Press-1_;K_,t_^(souč._názvů,_např._tisk._agentur)" src="orig" selected="1">NNIXX-----A----</tag>
+<tag>
+<AM lemma="Press-1_;K_,t_^(souč._názvů,_např._tisk._agentur)" src="orig">NNIXX-----A----</AM>
+<AM lemma="Press-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94204-82-p4s2w7">
 <src.rf>manual</src.rf>
@@ -2391,7 +2412,7 @@
 <tag>
 <AM lemma="Sarajevo_;G" src="orig">NNNS6-----A----</AM>
 <AM lemma="Sarajevo_;G" src="auto">NNNS3-----A----</AM>
-<AM lemma="Sarajevo_;G" src="auto" recommended="1">NNNS6-----A---1</AM>
+<AM lemma="Sarajevo_;G" src="auto" recommended="1" selected="1">NNNS6-----A---1</AM>
 </tag>
 </m>
 <m id="m-ln94204-82-p4s4w14">

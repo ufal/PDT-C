@@ -334,7 +334,10 @@
 <LM>w#w-ln95047-008-p2s1Ew11</LM>
 </w.rf>
 <form>ČR</form>
-<tag lemma="ČR-1_:B_;G_^(Česká_republika)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95047-008-p2s1Ew12">
 <src.rf>manual</src.rf>
@@ -391,7 +394,10 @@
 <LM>w#w-ln95047-008-p2s1Ew18</LM>
 </w.rf>
 <form>dolarů</form>
-<tag lemma="dolar_;b" src="orig" selected="1">NNIP2-----A----</tag>
+<tag>
+<AM lemma="dolar_;b" src="orig">NNIP2-----A----</AM>
+<AM lemma="dolar" src="manual" selected="1">NNIP2-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95047-008-p2s1Ew19">
 <src.rf>manual</src.rf>
@@ -432,7 +438,10 @@
 <LM>w#w-ln95047-008-p2s1Ew23</LM>
 </w.rf>
 <form>mld</form>
-<tag lemma="miliarda`1000000000_:B" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="miliarda`1000000000_:B" src="orig">NNFXX-----A---8</AM>
+<AM lemma="miliarda`1000000000" src="manual" selected="1">NNFXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln95047-008-p2s1Ew24">
 <src.rf>manual</src.rf>
@@ -448,7 +457,10 @@
 <LM>w#w-ln95047-008-p2s1Ew25</LM>
 </w.rf>
 <form>dolarů</form>
-<tag lemma="dolar_;b" src="orig" selected="1">NNIP2-----A----</tag>
+<tag>
+<AM lemma="dolar_;b" src="orig">NNIP2-----A----</AM>
+<AM lemma="dolar" src="manual" selected="1">NNIP2-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95047-008-p2s1Ew26">
 <src.rf>manual</src.rf>
@@ -780,7 +792,10 @@
 <LM>w#w-ln95047-008-p2s3w3</LM>
 </w.rf>
 <form>ČR</form>
-<tag lemma="ČR-1_:B_;G_^(Česká_republika)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95047-008-p2s3w4">
 <src.rf>manual</src.rf>
@@ -854,7 +869,10 @@
 <LM>w#w-ln95047-008-p2s4w5</LM>
 </w.rf>
 <form>ČR</form>
-<tag lemma="ČR-1_:B_;G_^(Česká_republika)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95047-008-p2s4w6">
 <src.rf>manual</src.rf>
@@ -903,7 +921,10 @@
 <LM>w#w-ln95047-008-p2s4w11</LM>
 </w.rf>
 <form>mld</form>
-<tag lemma="miliarda`1000000000_:B" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="miliarda`1000000000_:B" src="orig">NNFXX-----A---8</AM>
+<AM lemma="miliarda`1000000000" src="manual" selected="1">NNFXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln95047-008-p2s4w12">
 <src.rf>manual</src.rf>
@@ -919,7 +940,10 @@
 <LM>w#w-ln95047-008-p2s4w13</LM>
 </w.rf>
 <form>dolarů</form>
-<tag lemma="dolar_;b" src="orig" selected="1">NNIP2-----A----</tag>
+<tag>
+<AM lemma="dolar_;b" src="orig">NNIP2-----A----</AM>
+<AM lemma="dolar" src="manual" selected="1">NNIP2-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95047-008-p2s4w14">
 <src.rf>manual</src.rf>
@@ -1048,7 +1072,10 @@
 <LM>w#w-ln95047-008-p2s4w29</LM>
 </w.rf>
 <form>mld</form>
-<tag lemma="miliarda`1000000000_:B" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="miliarda`1000000000_:B" src="orig">NNFXX-----A---8</AM>
+<AM lemma="miliarda`1000000000" src="manual" selected="1">NNFXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln95047-008-p2s4w30">
 <src.rf>manual</src.rf>
@@ -1064,7 +1091,10 @@
 <LM>w#w-ln95047-008-p2s4w31</LM>
 </w.rf>
 <form>dolarů</form>
-<tag lemma="dolar_;b" src="orig" selected="1">NNIP2-----A----</tag>
+<tag>
+<AM lemma="dolar_;b" src="orig">NNIP2-----A----</AM>
+<AM lemma="dolar" src="manual" selected="1">NNIP2-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95047-008-p2s4w32">
 <src.rf>manual</src.rf>
@@ -1128,7 +1158,10 @@
 <LM>w#w-ln95047-008-p2s4w39</LM>
 </w.rf>
 <form>ČSSR</form>
-<tag lemma="ČSSR-1_:B_;G_^(Čs._socialistická_republika)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ČSSR-1_:B_;G_^(Čs._socialistická_republika)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČSSR-1_:B_;G_^(Čs._socialistická_republika)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95047-008-p2s4w40">
 <src.rf>manual</src.rf>
@@ -1217,7 +1250,10 @@
 <LM>w#w-ln95047-008-p2s4w50</LM>
 </w.rf>
 <form>mld</form>
-<tag lemma="miliarda`1000000000_:B" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="miliarda`1000000000_:B" src="orig">NNFXX-----A---8</AM>
+<AM lemma="miliarda`1000000000" src="manual" selected="1">NNFXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln95047-008-p2s4w51">
 <src.rf>manual</src.rf>
@@ -1233,7 +1269,10 @@
 <LM>w#w-ln95047-008-p2s4w52</LM>
 </w.rf>
 <form>dolarů</form>
-<tag lemma="dolar_;b" src="orig" selected="1">NNIP2-----A----</tag>
+<tag>
+<AM lemma="dolar_;b" src="orig">NNIP2-----A----</AM>
+<AM lemma="dolar" src="manual" selected="1">NNIP2-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95047-008-p2s4w53">
 <src.rf>manual</src.rf>
@@ -1299,7 +1338,10 @@
 <LM>w#w-ln95047-008-p3s1w7</LM>
 </w.rf>
 <form>ČR</form>
-<tag lemma="ČR-1_:B_;G_^(Česká_republika)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95047-008-p3s1w8">
 <src.rf>manual</src.rf>
@@ -1475,7 +1517,10 @@
 <LM>w#w-ln95047-008-p3s1w29</LM>
 </w.rf>
 <form>mil</form>
-<tag lemma="milión`1000000_:B" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="milión`1000000_:B" src="orig">NNIXX-----A---8</AM>
+<AM lemma="milión`1000000" src="manual" selected="1">NNIXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln95047-008-p3s1w30">
 <src.rf>manual</src.rf>
@@ -1491,7 +1536,10 @@
 <LM>w#w-ln95047-008-p3s1w31</LM>
 </w.rf>
 <form>dolarů</form>
-<tag lemma="dolar_;b" src="orig" selected="1">NNIP2-----A----</tag>
+<tag>
+<AM lemma="dolar_;b" src="orig">NNIP2-----A----</AM>
+<AM lemma="dolar" src="manual" selected="1">NNIP2-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95047-008-p3s1w32">
 <src.rf>manual</src.rf>
@@ -1621,7 +1669,10 @@
 <LM>w#w-ln95047-008-p4s1w6</LM>
 </w.rf>
 <form>ČR</form>
-<tag lemma="ČR-1_:B_;G_^(Česká_republika)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95047-008-p4s1w7">
 <src.rf>manual</src.rf>
@@ -1653,7 +1704,10 @@
 <LM>w#w-ln95047-008-p4s1w10</LM>
 </w.rf>
 <form>dolarů</form>
-<tag lemma="dolar_;b" src="orig" selected="1">NNIP2-----A----</tag>
+<tag>
+<AM lemma="dolar_;b" src="orig">NNIP2-----A----</AM>
+<AM lemma="dolar" src="manual" selected="1">NNIP2-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95047-008-p4s1w11">
 <src.rf>manual</src.rf>
@@ -1669,7 +1723,10 @@
 <LM>w#w-ln95047-008-p4s1w12</LM>
 </w.rf>
 <form>tzv</form>
-<tag lemma="takzvaný_:B" src="orig" selected="1">AAXXX----1A---8</tag>
+<tag>
+<AM lemma="takzvaný_:B" src="orig">AAXXX----1A---8</AM>
+<AM lemma="takzvaný" src="manual" selected="1">AAXXX----1A---8</AM>
+</tag>
 </m>
 <m id="m-ln95047-008-p4s1w13">
 <src.rf>manual</src.rf>
@@ -1877,7 +1934,10 @@
 <LM>w#w-ln95047-008-p4s1w38</LM>
 </w.rf>
 <form>dolarů</form>
-<tag lemma="dolar_;b" src="orig" selected="1">NNIP2-----A----</tag>
+<tag>
+<AM lemma="dolar_;b" src="orig">NNIP2-----A----</AM>
+<AM lemma="dolar" src="manual" selected="1">NNIP2-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95047-008-p4s1w39">
 <src.rf>manual</src.rf>
@@ -2151,7 +2211,10 @@
 <LM>w#w-ln95047-008-p4s2w26</LM>
 </w.rf>
 <form>tzv</form>
-<tag lemma="takzvaný_:B" src="orig" selected="1">AAXXX----1A---8</tag>
+<tag>
+<AM lemma="takzvaný_:B" src="orig">AAXXX----1A---8</AM>
+<AM lemma="takzvaný" src="manual" selected="1">AAXXX----1A---8</AM>
+</tag>
 </m>
 <m id="m-ln95047-008-p4s2w27">
 <src.rf>manual</src.rf>
@@ -2603,7 +2666,10 @@
 <LM>w#w-ln95047-008-p5s2w8</LM>
 </w.rf>
 <form>ČNB</form>
-<tag lemma="ČNB-1_:B_;K_;b_^(Česká_národní_banka)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ČNB-1_:B_;K_;b_^(Česká_národní_banka)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČNB-1_:B_;K_;b_^(Česká_národní_banka)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95047-008-p5s2w9">
 <src.rf>manual</src.rf>
@@ -2667,7 +2733,10 @@
 <LM>w#w-ln95047-008-p5s2w16</LM>
 </w.rf>
 <form>dolarů</form>
-<tag lemma="dolar_;b" src="orig" selected="1">NNIP2-----A----</tag>
+<tag>
+<AM lemma="dolar_;b" src="orig">NNIP2-----A----</AM>
+<AM lemma="dolar" src="manual" selected="1">NNIP2-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95047-008-p5s2w17">
 <src.rf>manual</src.rf>
@@ -2829,7 +2898,10 @@
 <LM>w#w-ln95047-008-p6s1w8</LM>
 </w.rf>
 <form>ČNB</form>
-<tag lemma="ČNB-1_:B_;K_;b_^(Česká_národní_banka)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ČNB-1_:B_;K_;b_^(Česká_národní_banka)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČNB-1_:B_;K_;b_^(Česká_národní_banka)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95047-008-p6s1w9">
 <src.rf>manual</src.rf>
@@ -2944,7 +3016,7 @@
 <tag>
 <AM lemma="přesto" src="orig">Dg-------1A----</AM>
 <AM lemma="přesto-1" src="auto">Db-------------</AM>
-<AM lemma="přesto-2" src="auto" recommended="1">J^-------------</AM>
+<AM lemma="přesto-2" src="auto" recommended="1" selected="1">J^-------------</AM>
 </tag>
 </m>
 <m id="m-ln95047-008-p6s1w23">
@@ -3198,6 +3270,7 @@
 <tag>
 <AM lemma="RVHP-1_;K_;p_;b" src="orig">NNFXX-----A---8</AM>
 <AM lemma="RVHP-1_:B_;K_;b_;p" src="auto" recommended="1">NNNXX-----A---8</AM>
+<AM lemma="RVHP-1_:B_;K_;b_;p" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95047-008-p6s2w27">
@@ -3262,7 +3335,10 @@
 <LM>w#w-ln95047-008-p6s2w34</LM>
 </w.rf>
 <form>ČR</form>
-<tag lemma="ČR-1_:B_;G_^(Česká_republika)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95047-008-p6s2w35">
 <src.rf>manual</src.rf>
@@ -3312,7 +3388,10 @@
 <LM>w#w-ln95047-008-p7s1w3</LM>
 </w.rf>
 <form>LN</form>
-<tag lemma="LN-1_:B_;R_^(Lidové_noviny,_deník)" src="orig" selected="1">NNFPX-----A---8</tag>
+<tag>
+<AM lemma="LN-1_:B_;R_^(Lidové_noviny,_deník)" src="orig">NNFPX-----A---8</AM>
+<AM lemma="LN-1_:B_;K_;R_^(Lidové_noviny)" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln95047-008-p7s1w4">
 <src.rf>manual</src.rf>
@@ -3336,7 +3415,10 @@
 <LM>w#w-ln95047-008-p7s1w6</LM>
 </w.rf>
 <form>resp</form>
-<tag lemma="respektive_:B" src="auto" selected="1">Db------------8</tag>
+<tag>
+<AM lemma="respektive_:B" src="auto">Db------------8</AM>
+<AM lemma="respektive" src="manual" selected="1">Db------------8</AM>
+</tag>
 </m>
 <m id="m-ln95047-008-p7s1w7">
 <src.rf>manual</src.rf>
@@ -3620,7 +3702,10 @@
 <LM>w#w-ln95047-008-p7s3w8</LM>
 </w.rf>
 <form>ČR</form>
-<tag lemma="ČR-1_:B_;G_^(Česká_republika)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95047-008-p7s3w9">
 <src.rf>manual</src.rf>
@@ -3636,7 +3721,10 @@
 <LM>w#w-ln95047-008-p7s3w10</LM>
 </w.rf>
 <form>mil</form>
-<tag lemma="milión`1000000_:B" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="milión`1000000_:B" src="orig">NNIXX-----A---8</AM>
+<AM lemma="milión`1000000" src="manual" selected="1">NNIXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln95047-008-p7s3w11">
 <src.rf>manual</src.rf>
@@ -3840,7 +3928,10 @@
 <LM>w#w-ln95047-008-p8s1w6</LM>
 </w.rf>
 <form>LN</form>
-<tag lemma="LN-1_:B_;R_^(Lidové_noviny,_deník)" src="orig" selected="1">NNFPX-----A---8</tag>
+<tag>
+<AM lemma="LN-1_:B_;R_^(Lidové_noviny,_deník)" src="orig">NNFPX-----A---8</AM>
+<AM lemma="LN-1_:B_;K_;R_^(Lidové_noviny)" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln95047-008-p8s1w7">
 <src.rf>manual</src.rf>
@@ -3984,7 +4075,10 @@
 <LM>w#w-ln95047-008-p8s1w24</LM>
 </w.rf>
 <form>nejvíce</form>
-<tag lemma="hodně-2" src="auto" selected="1">Dg-------3A----</tag>
+<tag>
+<AM lemma="hodně-2" src="auto">Dg-------3A----</AM>
+<AM lemma="hodně-3" src="manual" selected="1">Dg-------3A----</AM>
+</tag>
 </m>
 <m id="m-ln95047-008-p8s1w25">
 <src.rf>manual</src.rf>
@@ -4082,7 +4176,10 @@
 <LM>w#w-ln95047-008-p8s2w8</LM>
 </w.rf>
 <form>mil</form>
-<tag lemma="milión`1000000_:B" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="milión`1000000_:B" src="orig">NNIXX-----A---8</AM>
+<AM lemma="milión`1000000" src="manual" selected="1">NNIXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln95047-008-p8s2w9">
 <src.rf>manual</src.rf>
@@ -4098,7 +4195,10 @@
 <LM>w#w-ln95047-008-p8s2w10</LM>
 </w.rf>
 <form>dolarů</form>
-<tag lemma="dolar_;b" src="orig" selected="1">NNIP2-----A----</tag>
+<tag>
+<AM lemma="dolar_;b" src="orig">NNIP2-----A----</AM>
+<AM lemma="dolar" src="manual" selected="1">NNIP2-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95047-008-p8s2w11">
 <src.rf>manual</src.rf>
@@ -4204,7 +4304,10 @@
 <LM>w#w-ln95047-008-p8s3w5</LM>
 </w.rf>
 <form>OSN</form>
-<tag lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95047-008-p8s3w6">
 <src.rf>manual</src.rf>
@@ -4246,7 +4349,7 @@
 <form>vůbec</form>
 <tag>
 <AM lemma="vůbec" src="orig">Db-------------</AM>
-<AM lemma="vůbec" src="auto" recommended="1">TT-------------</AM>
+<AM lemma="vůbec" src="auto" recommended="1" selected="1">TT-------------</AM>
 </tag>
 </m>
 <m id="m-ln95047-008-p8s3w11">
@@ -4305,7 +4408,10 @@
 <LM>w#w-ln95047-008-p9s1w2</LM>
 </w.rf>
 <form>LN</form>
-<tag lemma="LN-1_:B_;R_^(Lidové_noviny,_deník)" src="orig" selected="1">NNFPX-----A---8</tag>
+<tag>
+<AM lemma="LN-1_:B_;R_^(Lidové_noviny,_deník)" src="orig">NNFPX-----A---8</AM>
+<AM lemma="LN-1_:B_;K_;R_^(Lidové_noviny)" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln95047-008-p9s1w3">
 <src.rf>manual</src.rf>
@@ -4385,7 +4491,11 @@
 <LM>w#w-ln95047-008-p9s1w12</LM>
 </w.rf>
 <form>ČR</form>
-<tag lemma="ČR-1_:B_;G_^(Česká_republika)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="manual">NNFXX-----A----</AM>
+<AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95047-008-p9s1w13">
 <src.rf>manual</src.rf>
@@ -4595,7 +4705,10 @@
 <LM>w#w-ln95047-008-p9s2w3</LM>
 </w.rf>
 <form>LN</form>
-<tag lemma="LN-1_:B_;R_^(Lidové_noviny,_deník)" src="orig" selected="1">NNFPX-----A---8</tag>
+<tag>
+<AM lemma="LN-1_:B_;R_^(Lidové_noviny,_deník)" src="orig">NNFPX-----A---8</AM>
+<AM lemma="LN-1_:B_;K_;R_^(Lidové_noviny)" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln95047-008-p9s2w4">
 <src.rf>manual</src.rf>
@@ -4830,7 +4943,10 @@
 <LM>w#w-ln95047-008-p9s3w7</LM>
 </w.rf>
 <form>ČSSR</form>
-<tag lemma="ČSSR-1_:B_;G_^(Čs._socialistická_republika)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ČSSR-1_:B_;G_^(Čs._socialistická_republika)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČSSR-1_:B_;G_^(Čs._socialistická_republika)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95047-008-p9s3w8">
 <src.rf>manual</src.rf>

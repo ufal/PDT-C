@@ -35,7 +35,10 @@
 <LM>w#w-mf920922-115-p1s1w3</LM>
 </w.rf>
 <form>antisemitismus</form>
-<tag lemma="antisemitismus" src="orig" selected="1">NNIS4-----A----</tag>
+<tag>
+<AM lemma="antisemitismus" src="orig">NNIS4-----A----</AM>
+<AM lemma="antisemitismus_,s_^(^DD**antisemitizmus)" src="manual" selected="1">NNIS4-----A----</AM>
+</tag>
 </m>
 </s>
 <s id="m-mf920922-115-p2s1">
@@ -79,7 +82,10 @@
 <LM>w#w-mf920922-115-p3s1Aw3</LM>
 </w.rf>
 <form>antisemitismus</form>
-<tag lemma="antisemitismus" src="orig" selected="1">NNIS4-----A----</tag>
+<tag>
+<AM lemma="antisemitismus" src="orig">NNIS4-----A----</AM>
+<AM lemma="antisemitismus_,s_^(^DD**antisemitizmus)" src="manual" selected="1">NNIS4-----A----</AM>
+</tag>
 </m>
 </s>
 <s id="m-mf920922-115-p3s1C">
@@ -198,7 +204,7 @@
 <tag>
 <AM lemma="vpravo" src="orig">Db-------------</AM>
 <AM lemma="doprava-1" src="auto" recommended="1">NNFS1-----A----</AM>
-<AM lemma="doprava-2" src="auto">Db-------------</AM>
+<AM lemma="doprava-2" src="auto" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m-mf920922-115-p3s1Bw13">
@@ -255,7 +261,10 @@
 <LM>w#w-mf920922-115-p3s1Bw19</LM>
 </w.rf>
 <form>Antall</form>
-<tag lemma="Antall_;Y" src="orig" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Antall_;Y" src="orig">NNMS1-----A----</AM>
+<AM lemma="Antall_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920922-115-p3s1Bw20">
 <src.rf>manual</src.rf>
@@ -425,7 +434,10 @@
 <LM>w#w-mf920922-115-p3s2w20</LM>
 </w.rf>
 <form>antisemitismus</form>
-<tag lemma="antisemitismus" src="orig" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="antisemitismus" src="orig">NNIS1-----A----</AM>
+<AM lemma="antisemitismus_,s_^(^DD**antisemitizmus)" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920922-115-p3s2w21">
 <src.rf>manual</src.rf>
@@ -462,7 +474,7 @@
 <AM lemma="poslední" src="auto">AAFP2----1A----</AM>
 <AM lemma="poslední" src="auto">AAFP6----1A----</AM>
 <AM lemma="poslední" src="auto">AAIP2----1A----</AM>
-<AM lemma="poslední" src="auto" recommended="1">AAIP6----1A----</AM>
+<AM lemma="poslední" src="auto" recommended="1" selected="1">AAIP6----1A----</AM>
 <AM lemma="poslední" src="auto">AAMP2----1A----</AM>
 <AM lemma="poslední" src="auto">AAMP6----1A----</AM>
 <AM lemma="poslední" src="auto">AANP2----1A----</AM>

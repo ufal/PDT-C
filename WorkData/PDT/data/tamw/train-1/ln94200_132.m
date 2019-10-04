@@ -43,7 +43,10 @@
 <LM>w#w-ln94200-132-p1s1w4</LM>
 </w.rf>
 <form>kamionů</form>
-<tag lemma="kamión" src="orig" selected="1">NNIP2-----A----</tag>
+<tag>
+<AM lemma="kamión" src="orig">NNIP2-----A----</AM>
+<AM lemma="kamion_,s_^(^DD**kamión)" src="manual" selected="1">NNIP2-----A----</AM>
+</tag>
 </m>
 </s>
 <s id="m-ln94200-132-p2s1">
@@ -93,7 +96,10 @@
 <LM>w#w-ln94200-132-p2s1w6</LM>
 </w.rf>
 <form>stadionu</form>
-<tag lemma="stadión" src="orig" selected="1">NNIS6-----A---1</tag>
+<tag>
+<AM lemma="stadión" src="orig">NNIS6-----A---1</AM>
+<AM lemma="stadion_,s_^(^DD**stadión)" src="manual" selected="1">NNIS6-----A---1</AM>
+</tag>
 </m>
 <m id="m-ln94200-132-p2s1w7">
 <src.rf>manual</src.rf>
@@ -189,7 +195,10 @@
 <LM>w#w-ln94200-132-p2s1w18</LM>
 </w.rf>
 <form>Pink</form>
-<tag lemma="pink" src="orig" selected="1">II-------------</tag>
+<tag>
+<AM lemma="pink" src="orig">II-------------</AM>
+<AM lemma="Pink-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94200-132-p2s1w19">
 <src.rf>manual</src.rf>
@@ -197,7 +206,10 @@
 <LM>w#w-ln94200-132-p2s1w19</LM>
 </w.rf>
 <form>Floyd</form>
-<tag lemma="Floyd_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Floyd_;S" src="orig">NNMS1-----A----</AM>
+<AM lemma="Floyd-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94200-132-p2s1w20">
 <src.rf>manual</src.rf>
@@ -417,7 +429,10 @@
 <LM>w#w-ln94200-132-p2s3w4</LM>
 </w.rf>
 <form>Mediaworld</form>
-<tag lemma="Mediaworld_;K_,t" src="orig" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="Mediaworld_;K_,t" src="orig">NNIS1-----A----</AM>
+<AM lemma="Mediaworld_;K" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94200-132-p2s3w5">
 <src.rf>manual</src.rf>
@@ -545,7 +560,10 @@
 <LM>w#w-ln94200-132-p2s3w20</LM>
 </w.rf>
 <form>kamionů</form>
-<tag lemma="kamión" src="orig" selected="1">NNIP2-----A----</tag>
+<tag>
+<AM lemma="kamión" src="orig">NNIP2-----A----</AM>
+<AM lemma="kamion_,s_^(^DD**kamión)" src="manual" selected="1">NNIP2-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94200-132-p2s3w21">
 <src.rf>manual</src.rf>
@@ -829,7 +847,10 @@
 <LM>w#w-ln94200-132-p2s5w23</LM>
 </w.rf>
 <form>Nelsona</form>
-<tag lemma="Nelson_;S" src="orig" selected="1">NNMS4-----A----</tag>
+<tag>
+<AM lemma="Nelson_;S" src="orig">NNMS4-----A----</AM>
+<AM lemma="Nelson_;S_;Y" src="manual" selected="1">NNMS4-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94200-132-p2s5w24">
 <src.rf>manual</src.rf>

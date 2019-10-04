@@ -43,7 +43,10 @@
 <LM>w#w-ln94205-103-p1s1w4</LM>
 </w.rf>
 <form>Lindsay</form>
-<tag lemma="Lindsay_;S" src="auto" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Lindsay_;S" src="auto">NNMS1-----A----</AM>
+<AM lemma="Lindsay_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94205-103-p1s1w5">
 <src.rf>manual</src.rf>
@@ -109,7 +112,10 @@
 <LM>w#w-ln94205-103-p2s1w7</LM>
 </w.rf>
 <form>Lindsay</form>
-<tag lemma="Lindsay_;S" src="auto" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Lindsay_;S" src="auto">NNMS1-----A----</AM>
+<AM lemma="Lindsay_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94205-103-p2s1w8">
 <src.rf>manual</src.rf>
@@ -643,7 +649,10 @@
 <LM>w#w-ln94205-103-p3s1w29</LM>
 </w.rf>
 <form>Sight</form>
-<tag lemma="Sight_;R_,t" src="orig" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="Sight_;R_,t" src="orig">NNIS1-----A----</AM>
+<AM lemma="Sight-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94205-103-p3s1w30">
 <src.rf>manual</src.rf>
@@ -651,7 +660,10 @@
 <LM>w#w-ln94205-103-p3s1w30</LM>
 </w.rf>
 <form>and</form>
-<tag lemma="and-1_,t_^(obv._souč._anglických_názvů,_&quot;a&quot;)" src="auto" selected="1">J^-------------</tag>
+<tag>
+<AM lemma="and-1_,t_^(obv._souč._anglických_názvů,_&quot;a&quot;)" src="auto">J^-------------</AM>
+<AM lemma="and-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94205-103-p3s1w31">
 <src.rf>manual</src.rf>
@@ -659,7 +671,10 @@
 <LM>w#w-ln94205-103-p3s1w31</LM>
 </w.rf>
 <form>Sound</form>
-<tag lemma="Sound_;R_,t" src="orig" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="Sound_;R_,t" src="orig">NNIS1-----A----</AM>
+<AM lemma="Sound-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94205-103-p3s1w32">
 <src.rf>manual</src.rf>
@@ -917,7 +932,10 @@
 <LM>w#w-ln94205-103-p4s1w15</LM>
 </w.rf>
 <form>free</form>
-<tag lemma="free_,t" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="free_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="free-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94205-103-p4s1w16">
 <src.rf>manual</src.rf>
@@ -925,7 +943,10 @@
 <LM>w#w-ln94205-103-p4s1w16</LM>
 </w.rf>
 <form>cinema</form>
-<tag lemma="cinema_,t" src="orig" selected="1">NNNXX-----A----</tag>
+<tag>
+<AM lemma="cinema_,t" src="orig">NNNXX-----A----</AM>
+<AM lemma="cinema-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94205-103-p4s1w17">
 <src.rf>manual</src.rf>
@@ -1279,7 +1300,10 @@
 <LM>w#w-ln94205-103-p4s2w25</LM>
 </w.rf>
 <form>if</form>
-<tag lemma="if_;R_,t" src="orig" selected="1">NNNXX-----A----</tag>
+<tag>
+<AM lemma="if_;R_,t" src="orig">NNNXX-----A----</AM>
+<AM lemma="if-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94205-103-p4s2w26">
 <src.rf>manual</src.rf>
@@ -2319,7 +2343,10 @@
 <LM>w#w-ln94205-103-p5s2w13</LM>
 </w.rf>
 <form>O</form>
-<tag lemma="O-2_;S_^(v_irských_jménech,_př._O'Connor)" src="orig" selected="1">NNXXX-----A----</tag>
+<tag>
+<AM lemma="O-2_;S_^(v_irských_jménech,_př._O'Connor)" src="orig">NNXXX-----A----</AM>
+<AM lemma="O-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94205-103-p5s2w14">
 <src.rf>manual</src.rf>
@@ -2335,7 +2362,10 @@
 <LM>w#w-ln94205-103-p5s2w15</LM>
 </w.rf>
 <form>Mr</form>
-<tag lemma="Mister_:B_,t" src="auto" selected="1">NNMXX-----A---8</tag>
+<tag>
+<AM lemma="Mister_:B_,t" src="auto">NNMXX-----A---8</AM>
+<AM lemma="Mr-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94205-103-p5s2w16">
 <src.rf>manual</src.rf>
@@ -2609,7 +2639,10 @@
 <LM>w#w-ln94205-103-p6s1w1</LM>
 </w.rf>
 <form>Lindsay</form>
-<tag lemma="Lindsay_;S" src="auto" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Lindsay_;S" src="auto">NNMS1-----A----</AM>
+<AM lemma="Lindsay_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94205-103-p6s1w2">
 <src.rf>manual</src.rf>

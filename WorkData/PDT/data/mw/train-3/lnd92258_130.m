@@ -690,7 +690,7 @@
 <AM lemma="Kopecký_;S" src="auto">NNMP1-----A---6</AM>
 <AM lemma="Kopecký_;S" src="auto">NNMP4-----A---6</AM>
 <AM lemma="Kopecký_;S" src="auto">NNMP5-----A---6</AM>
-<AM lemma="Kopecký_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Kopecký_;S" src="auto" recommended="1" selected="1">NNMS1-----A----</AM>
 <AM lemma="Kopecký_;S" src="auto">NNMS5-----A----</AM>
 </tag>
 </m>
@@ -978,7 +978,7 @@
 <form>vůbec</form>
 <tag>
 <AM lemma="vůbec" src="orig">Db-------------</AM>
-<AM lemma="vůbec" src="auto" recommended="1">TT-------------</AM>
+<AM lemma="vůbec" src="auto" recommended="1" selected="1">TT-------------</AM>
 </tag>
 </m>
 <m id="m-lnd92258-130-p6s1w10">
@@ -1005,7 +1005,10 @@
 <LM>w#w-lnd92258-130-p6s2w1</LM>
 </w.rf>
 <form>Jen</form>
-<tag lemma="jen-1" src="auto" selected="1">TT-------------</tag>
+<tag>
+<AM lemma="jen-1" src="auto">TT-------------</AM>
+<AM lemma="jen-4^(pouze)" src="manual" selected="1">Db-------------</AM>
+</tag>
 </m>
 <m id="m-lnd92258-130-p6s2w2">
 <src.rf>manual</src.rf>
@@ -1239,7 +1242,10 @@
 <LM>w#w-lnd92258-130-p6s3w4</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-2" src="auto" selected="1">Dg-------2A----</tag>
+<tag>
+<AM lemma="hodně-2" src="auto">Dg-------2A----</AM>
+<AM lemma="hodně-3" src="manual" selected="1">Dg-------2A----</AM>
+</tag>
 </m>
 <m id="m-lnd92258-130-p6s3w5">
 <src.rf>manual</src.rf>
@@ -1427,7 +1433,10 @@
 <LM>w#w-lnd92258-130-p6s5w8</LM>
 </w.rf>
 <form>ani</form>
-<tag lemma="ani-1" src="auto" selected="1">J^-------------</tag>
+<tag>
+<AM lemma="ani-1" src="auto">J^-------------</AM>
+<AM lemma="ani-2" src="manual" selected="1">TT-------------</AM>
+</tag>
 </m>
 <m id="m-lnd92258-130-p6s5w9">
 <src.rf>manual</src.rf>
@@ -1673,7 +1682,10 @@
 <LM>w#w-lnd92258-130-p7s1w2</LM>
 </w.rf>
 <form>ber</form>
-<tag lemma="ber-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="ber-99_:B_;S" src="orig">NNXXX-----A---8</AM>
+<AM lemma="ber-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92258-130-p7s1w3">
 <src.rf>manual</src.rf>

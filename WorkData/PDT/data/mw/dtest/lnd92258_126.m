@@ -178,6 +178,7 @@
 <tag>
 <AM lemma="Asti_;K" src="orig">NNXXX-----A----</AM>
 <AM lemma="Asti_;G" src="auto" recommended="1">NNNSX-----A----</AM>
+<AM lemma="Asti_;G_;K" src="manual" selected="1">NNNXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92258-126-p2s2w13">
@@ -552,7 +553,10 @@
 <LM>w#w-lnd92258-126-p2s5w9</LM>
 </w.rf>
 <form>EVK</form>
-<tag lemma="EVK_:B_;K" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="EVK_:B_;K" src="orig">NNXXX-----A---8</AM>
+<AM lemma="EVK-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd92258-126-p2s5w10">
 <src.rf>manual</src.rf>

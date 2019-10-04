@@ -85,7 +85,10 @@
 <LM>w#w-mf920901-063-p1s2w5</LM>
 </w.rf>
 <form>ČSFR</form>
-<tag lemma="ČSFR-1_:B_;G_^(Čs._federativní_republika)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ČSFR-1_:B_;G_^(Čs._federativní_republika)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČSFR-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-mf920901-063-p1s2w6">
 <src.rf>manual</src.rf>
@@ -215,7 +218,10 @@
 <LM>w#w-mf920901-063-p2s1w11</LM>
 </w.rf>
 <form>ČSFR</form>
-<tag lemma="ČSFR-1_:B_;G_^(Čs._federativní_republika)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ČSFR-1_:B_;G_^(Čs._federativní_republika)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČSFR-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-mf920901-063-p2s1w12">
 <src.rf>manual</src.rf>
@@ -811,7 +817,10 @@
 <LM>w#w-mf920901-063-p3s2w34</LM>
 </w.rf>
 <form>A</form>
-<tag lemma="a-1" src="orig" selected="1">J^-------------</tag>
+<tag>
+<AM lemma="a-1" src="orig">J^-------------</AM>
+<AM lemma="A-33_^(označení_pomocí_písmene)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920901-063-p3s2w35">
 <src.rf>manual</src.rf>
@@ -848,7 +857,7 @@
 <AM lemma="Kopecký_;S" src="auto">NNMP1-----A---6</AM>
 <AM lemma="Kopecký_;S" src="auto">NNMP4-----A---6</AM>
 <AM lemma="Kopecký_;S" src="auto">NNMP5-----A---6</AM>
-<AM lemma="Kopecký_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Kopecký_;S" src="auto" recommended="1" selected="1">NNMS1-----A----</AM>
 <AM lemma="Kopecký_;S" src="auto">NNMS5-----A----</AM>
 </tag>
 </m>
@@ -882,7 +891,10 @@
 <LM>w#w-mf920901-063-p4s1w6</LM>
 </w.rf>
 <form>jen</form>
-<tag lemma="jen-1" src="auto" selected="1">TT-------------</tag>
+<tag>
+<AM lemma="jen-1" src="auto">TT-------------</AM>
+<AM lemma="jen-4_^(pouze)" src="manual" selected="1">Db-------------</AM>
+</tag>
 </m>
 <m id="m-mf920901-063-p4s1w7">
 <src.rf>manual</src.rf>
@@ -1318,7 +1330,10 @@
 <LM>w#w-mf920901-063-p5s1w11</LM>
 </w.rf>
 <form>Kovář</form>
-<tag lemma="kovář" src="orig" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="kovář" src="orig">NNMS1-----A----</AM>
+<AM lemma="Kovář_;S" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920901-063-p5s1w12">
 <src.rf>manual</src.rf>

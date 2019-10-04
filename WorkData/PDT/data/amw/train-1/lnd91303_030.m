@@ -291,7 +291,10 @@
 <LM>w#w-lnd91303-030-p4s2w11</LM>
 </w.rf>
 <form>mj</form>
-<tag lemma="mj-1_:B_^(mimo_jiné)" src="orig" selected="1">Db------------8</tag>
+<tag>
+<AM lemma="mj-1_:B_^(mimo_jiné)" src="orig">Db------------8</AM>
+<AM lemma="mj-1_:B_^(mimo_jiné)" src="manual" selected="1">Db-------------</AM>
+</tag>
 </m>
 <m id="m-lnd91303-030-p4s2w12">
 <src.rf>manual</src.rf>
@@ -735,7 +738,10 @@
 <LM>w#w-lnd91303-030-p4s4w9</LM>
 </w.rf>
 <form>např</form>
-<tag lemma="například_:B" src="orig" selected="1">Db------------8</tag>
+<tag>
+<AM lemma="například_:B" src="orig">Db------------8</AM>
+<AM lemma="například" src="manual" selected="1">Db------------8</AM>
+</tag>
 </m>
 <m id="m-lnd91303-030-p4s4w10">
 <src.rf>manual</src.rf>
@@ -833,7 +839,10 @@
 <LM>w#w-lnd91303-030-p4s5w8</LM>
 </w.rf>
 <form>FTVS</form>
-<tag lemma="FTVS-1_:B_^(fakulta_tělesné_výchovy_a_sportu)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="FTVS-1_:B_^(fakulta_tělesné_výchovy_a_sportu)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="FTVS-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd91303-030-p4s5w9">
 <src.rf>manual</src.rf>

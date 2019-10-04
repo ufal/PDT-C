@@ -171,6 +171,8 @@
 <AM lemma="Vik_;S" src="auto">NNMS4-----A----</AM>
 <AM lemma="Vika_;Y_,t" src="auto" recommended="1">NNFS1-----A----</AM>
 <AM lemma="vika" src="auto">NNFS1-----A----</AM>
+<AM lemma="Vika-2_;G" src="manual">NNXXX-----A----</AM>
+<AM lemma="VIKA-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920925-034-p1s1w20">
@@ -537,7 +539,10 @@
 <LM>w#w-mf920925-034-p2s1w2</LM>
 </w.rf>
 <form>nak</form>
-<tag lemma="nak-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="nak-99_:B_;S" src="orig">NNXXX-----A---8</AM>
+<AM lemma="nak-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920925-034-p2s1w3">
 <src.rf>manual</src.rf>

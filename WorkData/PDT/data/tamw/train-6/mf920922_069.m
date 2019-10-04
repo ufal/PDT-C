@@ -213,7 +213,10 @@
 <LM>w#w-mf920922-069-p2s1w21</LM>
 </w.rf>
 <form>Fr</form>
-<tag lemma="Francie_:B_;G" src="auto" selected="1">NNFSX-----A----</tag>
+<tag>
+<AM lemma="Francie_:B_;G" src="auto">NNFSX-----A----</AM>
+<AM lemma="Fr-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920922-069-p2s1w22">
 <src.rf>manual</src.rf>
@@ -277,7 +280,10 @@
 <LM>w#w-mf920922-069-p2s1w29</LM>
 </w.rf>
 <form>h</form>
-<tag lemma="hodina_:B" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="hodina_:B" src="orig">NNFXX-----A---8</AM>
+<AM lemma="hodina" src="manual" selected="1">NNFXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-mf920922-069-p2s1w30">
 <src.rf>manual</src.rf>
@@ -341,7 +347,10 @@
 <LM>w#w-mf920922-069-p2s1w37</LM>
 </w.rf>
 <form>Fin</form>
-<tag lemma="Finsko_:B_;G" src="orig" selected="1">NNNXX-----A---8</tag>
+<tag>
+<AM lemma="Finsko_:B_;G" src="orig">NNNXX-----A---8</AM>
+<AM lemma="Fin-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920922-069-p2s1w38">
 <src.rf>manual</src.rf>
@@ -375,7 +384,7 @@
 <form>Lancia</form>
 <tag>
 <AM lemma="Lancia-1_;K" src="orig">NNFXX-----A----</AM>
-<AM lemma="Lancia_;K_;R" src="auto" recommended="1">NNFS1-----A---1</AM>
+<AM lemma="Lancia_;K_;R" src="auto" recommended="1" selected="1">NNFS1-----A---1</AM>
 <AM lemma="lancia_;K_;R" src="auto">NNFS1-----A---1</AM>
 </tag>
 </m>
@@ -425,7 +434,10 @@
 <LM>w#w-mf920922-069-p2s1w47</LM>
 </w.rf>
 <form>min</form>
-<tag lemma="minuta_:B" src="auto" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="minuta_:B" src="auto">NNFXX-----A---8</AM>
+<AM lemma="minuta" src="manual" selected="1">NNFXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-mf920922-069-p2s1w48">
 <src.rf>manual</src.rf>
@@ -489,7 +501,10 @@
 <LM>w#w-mf920922-069-p2s1w55</LM>
 </w.rf>
 <form>Šp</form>
-<tag lemma="Španělsko_:B_;G" src="orig" selected="1">NNNXX-----A---8</tag>
+<tag>
+<AM lemma="Španělsko_:B_;G" src="orig">NNNXX-----A---8</AM>
+<AM lemma="Šp-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920922-069-p2s1w56">
 <src.rf>manual</src.rf>

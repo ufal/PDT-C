@@ -580,7 +580,7 @@
 <tag>
 <AM lemma="přece" src="orig">Db-------------</AM>
 <AM lemma="přece-1" src="auto" recommended="1">J^-------------</AM>
-<AM lemma="přece-2" src="auto">TT-------------</AM>
+<AM lemma="přece-2" src="auto" selected="1">TT-------------</AM>
 </tag>
 </m>
 <m id="m-lnd91303-006-p2s3w30">
@@ -881,7 +881,10 @@
 <LM>w#w-lnd91303-006-p2s5w21</LM>
 </w.rf>
 <form>páně</form>
-<tag lemma="Pán" src="auto" selected="1">NNMS2-----A---2</tag>
+<tag>
+<AM lemma="Pán" src="auto">NNMS2-----A---2</AM>
+<AM lemma="pán" src="manual" selected="1">NNMS2-----A---1</AM>
+</tag>
 </m>
 <m id="m-lnd91303-006-p2s5w22">
 <src.rf>manual</src.rf>
@@ -905,7 +908,10 @@
 <LM>w#w-lnd91303-006-p2s5w24</LM>
 </w.rf>
 <form>páně</form>
-<tag lemma="Pán" src="auto" selected="1">NNMS2-----A---2</tag>
+<tag>
+<AM lemma="Pán" src="auto">NNMS2-----A---2</AM>
+<AM lemma="pán" src="manual" selected="1">NNMS2-----A---1</AM>
+</tag>
 </m>
 <m id="m-lnd91303-006-p2s5w25">
 <src.rf>manual</src.rf>
@@ -1626,7 +1632,7 @@
 </w.rf>
 <form>Adrien</form>
 <tag>
-<AM lemma="Adrien_;Y" src="orig">NNMS1-----A----</AM>
+<AM lemma="Adrien_;Y" src="orig" selected="1">NNMS1-----A----</AM>
 <AM lemma="Adriena_;Y" src="auto" recommended="1">NNFP2-----A----</AM>
 </tag>
 </m>
@@ -2316,7 +2322,7 @@
 <form>nejspíš</form>
 <tag>
 <AM lemma="spíše" src="orig">Dg-------3A----</AM>
-<AM lemma="nejspíš" src="auto">TT-------------</AM>
+<AM lemma="nejspíš" src="auto" selected="1">TT-------------</AM>
 <AM lemma="spíš" src="auto" recommended="1">Dg-------3A----</AM>
 </tag>
 </m>
@@ -2424,7 +2430,7 @@
 <form>sedmého</form>
 <tag>
 <AM lemma="sedmý" src="orig">AAIS2----1A----</AM>
-<AM lemma="sedmý" src="auto" recommended="1">CrIS2----------</AM>
+<AM lemma="sedmý" src="auto" recommended="1" selected="1">CrIS2----------</AM>
 <AM lemma="sedmý" src="auto">CrMS2----------</AM>
 <AM lemma="sedmý" src="auto">CrMS4----------</AM>
 <AM lemma="sedmý" src="auto">CrNS2----------</AM>
@@ -2545,6 +2551,7 @@
 <tag>
 <AM lemma="Empedokles_;S" src="orig">NNMS1-----A----</AM>
 <AM lemma="Empedoklés_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Empedoklés_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd91303-006-p5s1w3">
@@ -2766,6 +2773,7 @@
 <tag>
 <AM lemma="Empedokles_;S" src="orig">NNMS1-----A----</AM>
 <AM lemma="Empedoklés_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Empedoklés_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd91303-006-p5s2w2">
@@ -3060,7 +3068,7 @@
 <form>jedině</form>
 <tag>
 <AM lemma="jedině_^(*1ý)" src="orig">Dg-------1A----</AM>
-<AM lemma="jedině" src="auto" recommended="1">Db-------------</AM>
+<AM lemma="jedině" src="auto" recommended="1" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m-lnd91303-006-p5s4w18">
@@ -3310,7 +3318,7 @@
 <AM lemma="Mikulandská_;G_^(ulice)" src="auto">NNFP1-----A----</AM>
 <AM lemma="Mikulandská_;G_^(ulice)" src="auto">NNFP4-----A----</AM>
 <AM lemma="Mikulandská_;G_^(ulice)" src="auto">NNFP5-----A----</AM>
-<AM lemma="Mikulandská_;G_^(ulice)" src="auto" recommended="1">NNFS2-----A----</AM>
+<AM lemma="Mikulandská_;G_^(ulice)" src="auto" recommended="1" selected="1">NNFS2-----A----</AM>
 <AM lemma="Mikulandská_;G_^(ulice)" src="auto">NNFS3-----A----</AM>
 <AM lemma="Mikulandská_;G_^(ulice)" src="auto">NNFS6-----A----</AM>
 </tag>
@@ -3441,7 +3449,10 @@
 <LM>w#w-lnd91303-006-p6s1w24</LM>
 </w.rf>
 <form>JEN</form>
-<tag lemma="jen-1" src="auto" selected="1">TT-------------</tag>
+<tag>
+<AM lemma="jen-1" src="auto">TT-------------</AM>
+<AM lemma="jen-4_^(pouze)" src="manual" selected="1">Db-------------</AM>
+</tag>
 </m>
 <m id="m-lnd91303-006-p6s1w25">
 <src.rf>manual</src.rf>

@@ -145,7 +145,10 @@
 <LM>w#w-lnd91303-017-p4s1w10</LM>
 </w.rf>
 <form>stal</form>
-<tag lemma="stát-2_^(něco_se_přihodilo)" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag>
+<AM lemma="stát-2_^(něco_se_přihodilo)" src="orig">VpYS---XR-AA---</AM>
+<AM lemma="stát-2_:W_^(něco_se_přihodilo)" src="manual" selected="1">VpYS---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-lnd91303-017-p4s1w11">
 <src.rf>manual</src.rf>
@@ -449,7 +452,7 @@
 </w.rf>
 <form>Norman</form>
 <tag>
-<AM lemma="Norman-4_;Y" src="orig">NNMS1-----A----</AM>
+<AM lemma="Norman-4_;Y" src="orig" selected="1">NNMS1-----A----</AM>
 <AM lemma="Norman-1_;E" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Norman-2_;S" src="auto">NNMS1-----A----</AM>
 <AM lemma="Norman-3_;G" src="auto">NNIS1-----A----</AM>
@@ -462,7 +465,11 @@
 <LM>w#w-lnd91303-017-p4s4w5</LM>
 </w.rf>
 <form>Schwarzkopf</form>
-<tag lemma="Schwarzkopf_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="Schwarzkopf_;K" src="orig">NNIS1-----A----</AM>
+<AM lemma="Schwarzkopf-2_;S" src="manual">NNIS1-----A----</AM>
+<AM lemma="Schwarzkopf-2_;S" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd91303-017-p4s4w6">
 <src.rf>manual</src.rf>

@@ -341,7 +341,10 @@
 <LM>w#w-mf920925-055-p2s1w39</LM>
 </w.rf>
 <form>U</form>
-<tag lemma="U-4_:B_;K" src="orig" selected="1">AAXXX----1A---8</tag>
+<tag>
+<AM lemma="U-4_:B_;K" src="orig">AAXXX----1A---8</AM>
+<AM lemma="U-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-mf920925-055-p2s1w40">
 <src.rf>manual</src.rf>
@@ -516,7 +519,10 @@
 <LM>w#w-mf920925-055-p5s1w4</LM>
 </w.rf>
 <form>Atletico</form>
-<tag lemma="Atletico_;K" src="orig" selected="1">NNNS1-----A----</tag>
+<tag>
+<AM lemma="Atletico_;K" src="orig">NNNS1-----A----</AM>
+<AM lemma="Atletico-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-mf920925-055-p5s1w5">
 <src.rf>manual</src.rf>
@@ -524,7 +530,10 @@
 <LM>w#w-mf920925-055-p5s1w5</LM>
 </w.rf>
 <form>Minero</form>
-<tag lemma="Minero_;K" src="orig" selected="1">NNNS1-----A----</tag>
+<tag>
+<AM lemma="Minero_;K" src="orig">NNNS1-----A----</AM>
+<AM lemma="Minero-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-mf920925-055-p5s1w6">
 <src.rf>manual</src.rf>
@@ -664,7 +673,10 @@
 <LM>w#w-mf920925-055-p7s1w2</LM>
 </w.rf>
 <form>ČSFA</form>
-<tag lemma="ČSFA_:B_;K" src="auto" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="ČSFA_:B_;K" src="auto">NNXXX-----A---8</AM>
+<AM lemma="ČSFA-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-mf920925-055-p7s1w3">
 <src.rf>manual</src.rf>
@@ -680,7 +692,10 @@
 <LM>w#w-mf920925-055-p7s1w4</LM>
 </w.rf>
 <form>SK</form>
-<tag lemma="SK-1_:B_;K_;w_^(sportovní_klub)" src="auto" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="SK-1_:B_;K_;w_^(sportovní_klub)" src="auto">NNIXX-----A---8</AM>
+<AM lemma="SK-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-mf920925-055-p7s1w5">
 <src.rf>manual</src.rf>
@@ -899,7 +914,7 @@
 </w.rf>
 <form>b</form>
 <tag>
-<AM lemma="bod_:B" src="orig">NNIXX-----A---8</AM>
+<AM lemma="bod_:B" src="orig" selected="1">NNIXX-----A---8</AM>
 <AM lemma="b-3_^(označení_pomocí_písmene)" src="auto" recommended="1">NNNXX-----A----</AM>
 <AM lemma="b-8_:B_^(ost._zkratka)" src="auto">XX------------8</AM>
 </tag>

@@ -37,7 +37,10 @@
 <LM>w#w-mf920925-001-p2s1w1</LM>
 </w.rf>
 <form>Manon</form>
-<tag lemma="Manon_;Y_,t" src="auto" selected="1">NNFXX-----A----</tag>
+<tag>
+<AM lemma="Manon_;Y_,t" src="auto">NNFXX-----A----</AM>
+<AM lemma="Manon_;Y" src="manual" selected="1">NNFXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920925-001-p2s1w2">
 <src.rf>manual</src.rf>

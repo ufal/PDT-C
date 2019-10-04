@@ -74,6 +74,7 @@
 <AM lemma="bod" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="bod" src="auto">NNIS4-----A----</AM>
 <AM lemma="bodnout_:W" src="auto">VpYS---XR-AA--6</AM>
+<AM lemma="bod-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920922-095-p1s1Bw6">

@@ -95,7 +95,10 @@
 <LM>w#w-ln95043-049-p2s1Bw3</LM>
 </w.rf>
 <form>Lech</form>
-<tag lemma="Lech_;Y_,t" src="auto" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Lech_;Y_,t" src="auto">NNMS1-----A----</AM>
+<AM lemma="Lech_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95043-049-p2s1Bw4">
 <src.rf>manual</src.rf>
@@ -290,7 +293,10 @@
 <LM>w#w-ln95043-049-p2s2w4</LM>
 </w.rf>
 <form>PAP</form>
-<tag lemma="PAP_:B" src="auto" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="PAP_:B" src="auto">NNXXX-----A---8</AM>
+<AM lemma="PAP-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln95043-049-p2s2w5">
 <src.rf>manual</src.rf>
@@ -306,7 +312,10 @@
 <LM>w#w-ln95043-049-p2s2w6</LM>
 </w.rf>
 <form>řekl</form>
-<tag lemma="říci" src="auto" selected="1">VpYS---XR-AA---</tag>
+<tag>
+<AM lemma="říci" src="auto">VpYS---XR-AA---</AM>
+<AM lemma="říci_:W" src="manual" selected="1">VpYS---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-ln95043-049-p2s2w7">
 <src.rf>manual</src.rf>
@@ -354,7 +363,10 @@
 <LM>w#w-ln95043-049-p2s2w12</LM>
 </w.rf>
 <form>li</form>
-<tag lemma="li-1" src="auto" selected="1">TT-------------</tag>
+<tag>
+<AM lemma="li-1" src="auto">TT-------------</AM>
+<AM lemma="li-2" src="manual" selected="1">J,-------------</AM>
+</tag>
 </m>
 <m id="m-ln95043-049-p2s2w13">
 <src.rf>manual</src.rf>

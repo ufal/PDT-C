@@ -69,7 +69,10 @@
 <LM>w#w-mf920925-042-p1s1Bw4</LM>
 </w.rf>
 <form>VÍCE</form>
-<tag lemma="hodně-2" src="auto" selected="1">Dg-------2A----</tag>
+<tag>
+<AM lemma="hodně-2" src="auto">Dg-------2A----</AM>
+<AM lemma="hodně-3" src="manual" selected="1">Dg-------2A----</AM>
+</tag>
 </m>
 <m id="m-mf920925-042-p1s1Bw5">
 <src.rf>manual</src.rf>
@@ -131,6 +134,8 @@
 <AM lemma="Felipe_;Y" src="orig">NNMXX-----A----</AM>
 <AM lemma="Felipe_;S_;Y_,t" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Felipe_;S_;Y_,t" src="auto">NNMS5-----A----</AM>
+<AM lemma="Felipe_;S_;Y_,t" src="manual">NNXXX-----A----</AM>
+<AM lemma="Felipe_;S_;Y" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920925-042-p2s1w7">
@@ -294,7 +299,10 @@
 <LM>w#w-mf920925-042-p2s2w1</LM>
 </w.rf>
 <form>Uvedl</form>
-<tag lemma="uvést" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag>
+<AM lemma="uvést" src="orig">VpYS---XR-AA---</AM>
+<AM lemma="uvést_:W" src="manual" selected="1">VpYS---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-mf920925-042-p2s2w2">
 <src.rf>manual</src.rf>
@@ -334,7 +342,10 @@
 <LM>w#w-mf920925-042-p2s2w6</LM>
 </w.rf>
 <form>Handelsblatt</form>
-<tag lemma="Handelsblatt_;R_^(časopis)" src="auto" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="Handelsblatt_;R_^(časopis)" src="auto">NNIS1-----A----</AM>
+<AM lemma="Handelsblatt-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-mf920925-042-p2s2w7">
 <src.rf>manual</src.rf>
@@ -515,7 +526,10 @@
 <LM>w#w-mf920925-042-p2s4w6</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-2" src="auto" selected="1">Dg-------2A----</tag>
+<tag>
+<AM lemma="hodně-2" src="auto">Dg-------2A----</AM>
+<AM lemma="hodně-3" src="manual" selected="1">Dg-------2A----</AM>
+</tag>
 </m>
 <m id="m-mf920925-042-p2s4w7">
 <src.rf>manual</src.rf>
@@ -957,7 +971,10 @@
 <LM>w#w-mf920925-042-p3s3w3</LM>
 </w.rf>
 <form>ohlášenou</form>
-<tag lemma="ohlášený_,a_^(*4sit)" src="auto" selected="1">AAFS7----1A----</tag>
+<tag>
+<AM lemma="ohlášený_,a_^(*4sit)" src="auto">AAFS7----1A----</AM>
+<AM lemma="ohlášený_^(*4sit)" src="manual" selected="1">AAFS7----1A----</AM>
+</tag>
 </m>
 <m id="m-mf920925-042-p3s3w4">
 <src.rf>manual</src.rf>
@@ -1274,7 +1291,10 @@
 <LM>w#w-mf920925-042-p4s1w25</LM>
 </w.rf>
 <form>mld</form>
-<tag lemma="miliarda`1000000000_:B" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="miliarda`1000000000_:B" src="orig">NNFXX-----A---8</AM>
+<AM lemma="miliarda`1000000000" src="manual" selected="1">NNFXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-mf920925-042-p4s1w26">
 <src.rf>manual</src.rf>
@@ -1290,7 +1310,10 @@
 <LM>w#w-mf920925-042-p4s1w27</LM>
 </w.rf>
 <form>DM</form>
-<tag lemma="DM-9_:B_,t_^(Deutsche_Mark)" src="orig" selected="1">NNFXX-----A----</tag>
+<tag>
+<AM lemma="DM-9_:B_,t_^(Deutsche_Mark)" src="orig">NNFXX-----A----</AM>
+<AM lemma="DM-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920925-042-p4s1w28">
 <src.rf>manual</src.rf>
@@ -1576,7 +1599,10 @@
 <LM>w#w-mf920925-042-p5s2w7</LM>
 </w.rf>
 <form>zejména</form>
-<tag lemma="zejména-1" src="auto" selected="1">Db-------------</tag>
+<tag>
+<AM lemma="zejména-1" src="auto">Db-------------</AM>
+<AM lemma="zejména-2" src="manual" selected="1">TT-------------</AM>
+</tag>
 </m>
 <m id="m-mf920925-042-p5s2w8">
 <src.rf>manual</src.rf>

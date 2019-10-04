@@ -20,7 +20,7 @@
 </w.rf>
 <form>Kamsky</form>
 <tag>
-<AM lemma="Kamsky_;S" src="orig">NNMS1-----A----</AM>
+<AM lemma="Kamsky_;S" src="orig" selected="1">NNMS1-----A----</AM>
 <AM lemma="kamsky_^(*1ý)" src="auto" recommended="1">Dg-------1A----</AM>
 </tag>
 </m>
@@ -48,7 +48,10 @@
 <LM>w#w-ln95041-032-p2s1Aw1</LM>
 </w.rf>
 <form>Šanghi</form>
-<tag lemma="Šanghi_;G" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="Šanghi_;G" src="orig">AAXXX----1A----</AM>
+<AM lemma="Šanghi-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln95041-032-p2s1Aw2">
 <src.rf>manual</src.rf>
@@ -56,7 +59,10 @@
 <LM>w#w-ln95041-032-p2s1Aw2</LM>
 </w.rf>
 <form>Nagar</form>
-<tag lemma="Nagar_;G" src="orig" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="Nagar_;G" src="orig">NNIS1-----A----</AM>
+<AM lemma="Nagar-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln95041-032-p2s1Aw3">
 <src.rf>manual</src.rf>
@@ -83,7 +89,7 @@
 </w.rf>
 <form>Kata</form>
 <tag>
-<AM lemma="Kata_;Y" src="orig">NNMS1-----A----</AM>
+<AM lemma="Kata_;Y" src="orig" selected="1">NNMS1-----A----</AM>
 <AM lemma="kat" src="auto">NNMS2-----A----</AM>
 <AM lemma="kat" src="auto">NNMS4-----A----</AM>
 <AM lemma="kata_;w_,t" src="auto" recommended="1">NNFS1-----A----</AM>
@@ -96,7 +102,7 @@
 </w.rf>
 <form>Kamsky</form>
 <tag>
-<AM lemma="Kamsky_;S" src="orig">NNMS1-----A----</AM>
+<AM lemma="Kamsky_;S" src="orig" selected="1">NNMS1-----A----</AM>
 <AM lemma="kamsky_^(*1ý)" src="auto" recommended="1">Dg-------1A----</AM>
 </tag>
 </m>
@@ -162,7 +168,10 @@
 <LM>w#w-ln95041-032-p2s1Bw11</LM>
 </w.rf>
 <form>FIDE</form>
-<tag lemma="FIDE_:B_;K_,t_^(šachová_federace)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="FIDE_:B_;K_,t_^(šachová_federace)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="FIDE-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95041-032-p2s1Bw12">
 <src.rf>manual</src.rf>
@@ -244,7 +253,7 @@
 <AM lemma="sedmý" src="auto">CrFP5----------</AM>
 <AM lemma="sedmý" src="auto">CrFS2----------</AM>
 <AM lemma="sedmý" src="auto">CrFS3----------</AM>
-<AM lemma="sedmý" src="auto" recommended="1">CrFS6----------</AM>
+<AM lemma="sedmý" src="auto" recommended="1" selected="1">CrFS6----------</AM>
 <AM lemma="sedmý" src="auto">CrIP1----------</AM>
 <AM lemma="sedmý" src="auto">CrIP4----------</AM>
 <AM lemma="sedmý" src="auto">CrIP5----------</AM>
@@ -287,7 +296,10 @@
 <LM>w#w-ln95041-032-p2s2w12</LM>
 </w.rf>
 <form>Šanghi</form>
-<tag lemma="Šanghi_;G" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="Šanghi_;G" src="orig">AAXXX----1A----</AM>
+<AM lemma="Šanghi-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln95041-032-p2s2w13">
 <src.rf>manual</src.rf>
@@ -435,7 +447,7 @@
 </w.rf>
 <form>Kamsky</form>
 <tag>
-<AM lemma="Kamsky_;S" src="orig">NNMS1-----A----</AM>
+<AM lemma="Kamsky_;S" src="orig" selected="1">NNMS1-----A----</AM>
 <AM lemma="kamsky_^(*1ý)" src="auto" recommended="1">Dg-------1A----</AM>
 </tag>
 </m>
@@ -514,7 +526,7 @@
 </w.rf>
 <form>Kamsky</form>
 <tag>
-<AM lemma="Kamsky_;S" src="orig">NNMS1-----A----</AM>
+<AM lemma="Kamsky_;S" src="orig" selected="1">NNMS1-----A----</AM>
 <AM lemma="kamsky_^(*1ý)" src="auto" recommended="1">Dg-------1A----</AM>
 </tag>
 </m>
@@ -556,7 +568,10 @@
 <LM>w#w-ln95041-032-p2s4w6</LM>
 </w.rf>
 <form>MS</form>
-<tag lemma="MS-3_:B_;w_^(mistrovství_světa)" src="orig" selected="1">NNNXX-----A---8</tag>
+<tag>
+<AM lemma="MS-3_:B_;w_^(mistrovství_světa)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="MS-3_:B_^(mistrovství_světa)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95041-032-p2s4w7">
 <src.rf>manual</src.rf>
@@ -648,7 +663,7 @@
 <form>Bělorusem</form>
 <tag>
 <AM lemma="bělorus" src="orig">NNMS7-----A----</AM>
-<AM lemma="Bělorus_;E" src="auto" recommended="1">NNMS7-----A----</AM>
+<AM lemma="Bělorus_;E" src="auto" recommended="1" selected="1">NNMS7-----A----</AM>
 <AM lemma="bělorus_^(zemní_stroj)" src="auto">NNIS7-----A----</AM>
 </tag>
 </m>
@@ -736,7 +751,7 @@
 <form>Sedmá</form>
 <tag>
 <AM lemma="sedmý" src="orig">AAFS1----1A----</AM>
-<AM lemma="sedmý" src="auto" recommended="1">CrFS1----------</AM>
+<AM lemma="sedmý" src="auto" recommended="1" selected="1">CrFS1----------</AM>
 <AM lemma="sedmý" src="auto">CrFS5----------</AM>
 <AM lemma="sedmý" src="auto">CrNP1----------</AM>
 <AM lemma="sedmý" src="auto">CrNP4----------</AM>

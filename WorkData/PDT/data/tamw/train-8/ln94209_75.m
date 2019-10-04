@@ -353,7 +353,10 @@
 <LM>w#w-ln94209-75-p2s2w9</LM>
 </w.rf>
 <form>Niederösterreichisches</form>
-<tag lemma="Niederösterreichisches_;K_,t" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="Niederösterreichisches_;K_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="Niederösterreichisches-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94209-75-p2s2w10">
 <src.rf>manual</src.rf>
@@ -361,7 +364,10 @@
 <LM>w#w-ln94209-75-p2s2w10</LM>
 </w.rf>
 <form>Tonkünstlerorchester</form>
-<tag lemma="Tonkünstlerorchester_;K_,t" src="orig" selected="1">NNIXX-----A----</tag>
+<tag>
+<AM lemma="Tonkünstlerorchester_;K_,t" src="orig">NNIXX-----A----</AM>
+<AM lemma="Tonkünstlerorchester-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94209-75-p2s2w11">
 <src.rf>manual</src.rf>
@@ -465,7 +471,10 @@
 <LM>w#w-ln94209-75-p2s2w23</LM>
 </w.rf>
 <form>Alfred</form>
-<tag lemma="Alfréd_;Y" src="orig" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Alfréd_;Y" src="orig">NNMS1-----A----</AM>
+<AM lemma="Alfred_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94209-75-p2s2w24">
 <src.rf>manual</src.rf>
@@ -563,7 +572,10 @@
 <LM>w#w-ln94209-75-p3s1w10</LM>
 </w.rf>
 <form>W</form>
-<tag lemma="W-0_:B_;Y" src="orig" selected="1">NNMXX-----A---8</tag>
+<tag>
+<AM lemma="W-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
+<AM lemma="W-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln94209-75-p3s1w11">
 <src.rf>manual</src.rf>
@@ -579,7 +591,10 @@
 <LM>w#w-ln94209-75-p3s1w12</LM>
 </w.rf>
 <form>A</form>
-<tag lemma="A-0_:B_;Y" src="orig" selected="1">NNMXX-----A---8</tag>
+<tag>
+<AM lemma="A-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
+<AM lemma="A-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln94209-75-p3s1w13">
 <src.rf>manual</src.rf>
@@ -1097,7 +1112,11 @@
 <LM>w#w-ln94209-75-p3s4w17</LM>
 </w.rf>
 <form>méně</form>
-<tag lemma="málo-3" src="orig" selected="1">Dg-------2A----</tag>
+<tag>
+<AM lemma="málo-3" src="orig">Dg-------2A----</AM>
+<AM lemma="méně_^(méně_+_2._p.,_méně_peněz)" src="manual">Dg-------2A----</AM>
+<AM lemma="méně_^(méně_+_2._p.,_méně_peněz)" src="manual" selected="1">Ca--1----------</AM>
+</tag>
 </m>
 <m id="m-ln94209-75-p3s4w18">
 <src.rf>manual</src.rf>
@@ -1121,7 +1140,10 @@
 <LM>w#w-ln94209-75-p3s4w20</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-2" src="auto" selected="1">Dg-------2A----</tag>
+<tag>
+<AM lemma="hodně-2" src="auto">Dg-------2A----</AM>
+<AM lemma="	více_^(více_+_2._p.,_více_peněz)" src="manual" selected="1">Ca--1----------</AM>
+</tag>
 </m>
 <m id="m-ln94209-75-p3s4w21">
 <src.rf>manual</src.rf>
@@ -1529,7 +1551,10 @@
 <LM>w#w-ln94209-75-p3s8w11</LM>
 </w.rf>
 <form>A</form>
-<tag lemma="a-3_^(označení_pomocí_písmene)" src="orig" selected="1">NNNXX-----A----</tag>
+<tag>
+<AM lemma="a-3_^(označení_pomocí_písmene)" src="orig">NNNXX-----A----</AM>
+<AM lemma="A-33_^(označení_pomocí_písmene)" src="manual" selected="1">NNNXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94209-75-p3s8w12">
 <src.rf>manual</src.rf>
@@ -1553,7 +1578,10 @@
 <LM>w#w-ln94209-75-p3s8w14</LM>
 </w.rf>
 <form>van</form>
-<tag lemma="van-2_,t_^(v_hol._jménech)" src="orig" selected="1">RR--X----------</tag>
+<tag>
+<AM lemma="van-2_,t_^(v_hol._jménech)" src="orig">RR--X----------</AM>
+<AM lemma="van-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94209-75-p3s8w15">
 <src.rf>manual</src.rf>
@@ -1757,7 +1785,10 @@
 <LM>w#w-ln94209-75-p3s10w3</LM>
 </w.rf>
 <form>forte</form>
-<tag lemma="forte-2_,t" src="auto" selected="1">NNNXX-----A----</tag>
+<tag>
+<AM lemma="forte-2_,t" src="auto">NNNXX-----A----</AM>
+<AM lemma="forte-2" src="manual" selected="1">NNNXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94209-75-p3s10w4">
 <src.rf>manual</src.rf>
@@ -2049,7 +2080,10 @@
 <LM>w#w-ln94209-75-p3s11Bw4</LM>
 </w.rf>
 <form>Niederösterreichisches</form>
-<tag lemma="Niederösterreichisches_;K_,t" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="Niederösterreichisches_;K_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="Niederösterreichisches-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94209-75-p3s11Bw5">
 <src.rf>manual</src.rf>
@@ -2057,7 +2091,10 @@
 <LM>w#w-ln94209-75-p3s11Bw5</LM>
 </w.rf>
 <form>Tonkünstlerorchester</form>
-<tag lemma="Tonkünstlerorchester_;K_,t" src="orig" selected="1">NNIXX-----A----</tag>
+<tag>
+<AM lemma="Tonkünstlerorchester_;K_,t" src="orig">NNIXX-----A----</AM>
+<AM lemma="Tonkünstlerorchester-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94209-75-p3s11Bw6">
 <src.rf>manual</src.rf>
@@ -2073,7 +2110,10 @@
 <LM>w#w-ln94209-75-p3s11Bw7</LM>
 </w.rf>
 <form>Alfred</form>
-<tag lemma="Alfréd_;Y" src="orig" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Alfréd_;Y" src="orig">NNMS1-----A----</AM>
+<AM lemma="Alfred_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94209-75-p3s11Bw8">
 <src.rf>manual</src.rf>

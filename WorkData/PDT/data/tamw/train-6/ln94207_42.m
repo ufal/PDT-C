@@ -79,7 +79,10 @@
 <LM>w#w-ln94207-42-p2s1Bw3</LM>
 </w.rf>
 <form>UEFA</form>
-<tag lemma="UEFA-1_:B_;K_;w_^(Evr._fotbalová_federace)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="UEFA-1_:B_;K_;w_^(Evr._fotbalová_federace)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="UEFA-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94207-42-p2s1Bw4">
 <src.rf>manual</src.rf>
@@ -145,7 +148,7 @@
 <form>Sofia</form>
 <tag>
 <AM lemma="Sofie-1_;K" src="orig">NNFS1-----A---1</AM>
-<AM lemma="Sofie-1_;G" src="auto" recommended="1">NNFS1-----A---1</AM>
+<AM lemma="Sofie-1_;G" src="auto" recommended="1" selected="1">NNFS1-----A---1</AM>
 <AM lemma="Sofie-2_;Y" src="auto">NNFS1-----A---1</AM>
 </tag>
 </m>
@@ -259,7 +262,10 @@
 <LM>w#w-ln94207-42-p2s1Bw25</LM>
 </w.rf>
 <form>UEFA</form>
-<tag lemma="UEFA-1_:B_;K_;w_^(Evr._fotbalová_federace)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="UEFA-1_:B_;K_;w_^(Evr._fotbalová_federace)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="UEFA-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94207-42-p2s1Bw26">
 <src.rf>manual</src.rf>

@@ -67,7 +67,12 @@
 <LM>w#w-cmpr9417-030-p2s1w7</LM>
 </w.rf>
 <form>hŕŕŕ</form>
-<tag lemma="hŕŕŕ" src="orig" selected="1">II-------------</tag>
+<tag lemma="hŕŕŕ" src="orig">II-------------</tag>
+<comment>
+<LM type="New Form">
+<text>hrrr</text>
+</LM>
+</comment>
 </m>
 <m id="m-cmpr9417-030-p2s1w8">
 <src.rf>manual</src.rf>
@@ -282,7 +287,7 @@
 <tag>
 <AM lemma="dvojstrana_^(dvě_stránky)" src="orig">NNFS6-----A----</AM>
 <AM lemma="dvoustrana_^(dvě_stránky)" src="auto">NNFS3-----A----</AM>
-<AM lemma="dvoustrana_^(dvě_stránky)" src="auto" recommended="1">NNFS6-----A----</AM>
+<AM lemma="dvoustrana_^(dvě_stránky)" src="auto" recommended="1" selected="1">NNFS6-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9417-030-p2s3w4">
@@ -1236,7 +1241,7 @@
 <tag>
 <AM lemma="tedy" src="orig">Db-------------</AM>
 <AM lemma="tedy-1" src="auto" recommended="1">TT-------------</AM>
-<AM lemma="tedy-2" src="auto">J^-------------</AM>
+<AM lemma="tedy-2" src="auto" selected="1">J^-------------</AM>
 </tag>
 </m>
 <m id="m-cmpr9417-030-p5s2w3">
@@ -1245,7 +1250,10 @@
 <LM>w#w-cmpr9417-030-p5s2w3</LM>
 </w.rf>
 <form>jen</form>
-<tag lemma="jen-1" src="auto" selected="1">TT-------------</tag>
+<tag>
+<AM lemma="jen-1" src="auto">TT-------------</AM>
+<AM lemma="jen-4_^(pouze)" src="manual" selected="1">Db-------------</AM>
+</tag>
 </m>
 <m id="m-cmpr9417-030-p5s2w4">
 <src.rf>manual</src.rf>
@@ -1493,7 +1501,7 @@
 <form>totiž</form>
 <tag>
 <AM lemma="totiž" src="orig">Db-------------</AM>
-<AM lemma="totiž-1" src="auto" recommended="1">J^-------------</AM>
+<AM lemma="totiž-1" src="auto" recommended="1" selected="1">J^-------------</AM>
 <AM lemma="totiž-2" src="auto">TT-------------</AM>
 </tag>
 </m>
@@ -1585,7 +1593,7 @@
 <form>přičemž</form>
 <tag>
 <AM lemma="přičemž" src="orig">J,-------------</AM>
-<AM lemma="přičemž" src="auto" recommended="1">Db-------------</AM>
+<AM lemma="přičemž" src="auto" recommended="1" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m-cmpr9417-030-p6s3w14">

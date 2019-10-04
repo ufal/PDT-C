@@ -119,7 +119,10 @@
 <LM>w#w-cmpr9410-023-p4s1Aw9</LM>
 </w.rf>
 <form>Management</form>
-<tag lemma="management_,t_^(vedení,_manažment;_angl.)" src="orig" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="management_,t_^(vedení,_manažment;_angl.)" src="orig">NNIS1-----A----</AM>
+<AM lemma="Management-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-cmpr9410-023-p4s1Aw10">
 <src.rf>manual</src.rf>
@@ -127,7 +130,10 @@
 <LM>w#w-cmpr9410-023-p4s1Aw10</LM>
 </w.rf>
 <form>Press</form>
-<tag lemma="Press-1_;K_,t_^(souč._názvů,_např._tisk._agentur)" src="orig" selected="1">NNIXX-----A----</tag>
+<tag>
+<AM lemma="Press-1_;K_,t_^(souč._názvů,_např._tisk._agentur)" src="orig">NNIXX-----A----</AM>
+<AM lemma="Press-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-cmpr9410-023-p4s1Aw11">
 <src.rf>manual</src.rf>
@@ -1238,7 +1244,10 @@
 <LM>w#w-cmpr9410-023-p5s2Bw3</LM>
 </w.rf>
 <form>řekne</form>
-<tag lemma="říci" src="auto" selected="1">VB-S---3P-AA---</tag>
+<tag>
+<AM lemma="říci" src="auto">VB-S---3P-AA---</AM>
+<AM lemma="říci_:W" src="manual" selected="1">VB-S---3P-AA---</AM>
+</tag>
 </m>
 <m id="m-cmpr9410-023-p5s2Bw4">
 <src.rf>manual</src.rf>
@@ -1360,7 +1369,10 @@
 <LM>w#w-cmpr9410-023-p5s2Cw3</LM>
 </w.rf>
 <form>řekne</form>
-<tag lemma="říci" src="auto" selected="1">VB-S---3P-AA---</tag>
+<tag>
+<AM lemma="říci" src="auto">VB-S---3P-AA---</AM>
+<AM lemma="říci_:W" src="manual" selected="1">VB-S---3P-AA---</AM>
+</tag>
 </m>
 <m id="m-cmpr9410-023-p5s2Cw4">
 <src.rf>manual</src.rf>
@@ -1644,7 +1656,10 @@
 <LM>w#w-cmpr9410-023-p6s1w3</LM>
 </w.rf>
 <form>Management</form>
-<tag lemma="management_,t_^(vedení,_manažment;_angl.)" src="orig" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="management_,t_^(vedení,_manažment;_angl.)" src="orig">NNIS1-----A----</AM>
+<AM lemma="Management-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-cmpr9410-023-p6s1w4">
 <src.rf>manual</src.rf>
@@ -1652,7 +1667,10 @@
 <LM>w#w-cmpr9410-023-p6s1w4</LM>
 </w.rf>
 <form>Press</form>
-<tag lemma="Press-1_;K_,t_^(souč._názvů,_např._tisk._agentur)" src="orig" selected="1">NNIXX-----A----</tag>
+<tag>
+<AM lemma="Press-1_;K_,t_^(souč._názvů,_např._tisk._agentur)" src="orig">NNIXX-----A----</AM>
+<AM lemma="Press-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-cmpr9410-023-p6s1w5">
 <src.rf>manual</src.rf>
@@ -1732,7 +1750,10 @@
 <LM>w#w-cmpr9410-023-p6s1w14</LM>
 </w.rf>
 <form>tel</form>
-<tag lemma="telefon_:B" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="telefon_:B" src="orig">NNIXX-----A---8</AM>
+<AM lemma="telefon" src="manual" selected="1">NNIXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-cmpr9410-023-p6s1w15">
 <src.rf>manual</src.rf>

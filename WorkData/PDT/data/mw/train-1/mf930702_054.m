@@ -75,7 +75,10 @@
 <LM>w#w-mf930702-054-p1s1w8</LM>
 </w.rf>
 <form>prokázána</form>
-<tag lemma="prokázat" src="orig" selected="1">VsQW---XX-AP---</tag>
+<tag>
+<AM lemma="prokázat" src="orig">VsQW---XX-AP---</AM>
+<AM lemma="prokázat_:W" src="manual" selected="1">VsQW---XX-AP---</AM>
+</tag>
 </m>
 </s>
 <s id="m-mf930702-054-p2s1">
@@ -101,7 +104,10 @@
 <LM>w#w-mf930702-054-p2s1w3</LM>
 </w.rf>
 <form>ina</form>
-<tag lemma="ina-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="ina-99_:B_;S" src="orig">NNXXX-----A---8</AM>
+<AM lemma="ina-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930702-054-p2s1w4">
 <src.rf>manual</src.rf>
@@ -349,7 +355,10 @@
 <LM>w#w-mf930702-054-p2s1w34</LM>
 </w.rf>
 <form>prokázat</form>
-<tag lemma="prokázat" src="orig" selected="1">Vf--------A----</tag>
+<tag>
+<AM lemma="prokázat" src="orig">Vf--------A----</AM>
+<AM lemma="prokázat_:W" src="manual" selected="1">Vf--------A----</AM>
+</tag>
 </m>
 <m id="m-mf930702-054-p2s1w35">
 <src.rf>manual</src.rf>
@@ -447,7 +456,10 @@
 <LM>w#w-mf930702-054-p2s2w11</LM>
 </w.rf>
 <form>provedla</form>
-<tag lemma="provést" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag>
+<AM lemma="provést" src="orig">VpQW---XR-AA---</AM>
+<AM lemma="provést_:W" src="manual" selected="1">VpQW---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-mf930702-054-p2s2w12">
 <src.rf>manual</src.rf>
@@ -747,7 +759,10 @@
 <LM>w#w-mf930702-054-p3s1w15</LM>
 </w.rf>
 <form>zahájeno</form>
-<tag lemma="zahájit" src="auto" selected="1">VsNS---XX-AP---</tag>
+<tag>
+<AM lemma="zahájit" src="auto">VsNS---XX-AP---</AM>
+<AM lemma="zahájit_:W" src="manual" selected="1">VsNS---XX-AP---</AM>
+</tag>
 </m>
 <m id="m-mf930702-054-p3s1w16">
 <src.rf>manual</src.rf>
@@ -861,7 +876,10 @@
 <LM>w#w-mf930702-054-p3s2w11</LM>
 </w.rf>
 <form>FMV</form>
-<tag lemma="FMV_:B_;K_^(Federální_ministerstvo_vnitra)" src="orig" selected="1">NNNXX-----A---8</tag>
+<tag>
+<AM lemma="FMV_:B_;K_^(Federální_ministerstvo_vnitra)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="FMV-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930702-054-p3s2w12">
 <src.rf>manual</src.rf>
@@ -925,7 +943,10 @@
 <LM>w#w-mf930702-054-p3s2w19</LM>
 </w.rf>
 <form>vzneseno</form>
-<tag lemma="vznést" src="orig" selected="1">VsNS---XX-AP---</tag>
+<tag>
+<AM lemma="vznést" src="orig">VsNS---XX-AP---</AM>
+<AM lemma="vznést_:W" src="manual" selected="1">VsNS---XX-AP---</AM>
+</tag>
 </m>
 <m id="m-mf930702-054-p3s2w20">
 <src.rf>manual</src.rf>
@@ -1113,7 +1134,10 @@
 <LM>w#w-mf930702-054-p4s1w2</LM>
 </w.rf>
 <form>mj</form>
-<tag lemma="mj-1_:B_^(mimo_jiné)" src="orig" selected="1">Db------------8</tag>
+<tag>
+<AM lemma="mj-1_:B_^(mimo_jiné)" src="orig">Db------------8</AM>
+<AM lemma="mj-1_:B_^(mimo_jiné)" src="manual" selected="1">Db-------------</AM>
+</tag>
 </m>
 <m id="m-mf930702-054-p4s1w3">
 <src.rf>manual</src.rf>
@@ -1307,7 +1331,10 @@
 <LM>w#w-mf930702-054-p4s2w8</LM>
 </w.rf>
 <form>SSSR</form>
-<tag lemma="SSSR_:B_;G_^(Svaz_sov._socialist._republik)" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="SSSR_:B_;G_^(Svaz_sov._socialist._republik)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="SSSR-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930702-054-p4s2w9">
 <src.rf>manual</src.rf>
@@ -1355,7 +1382,10 @@
 <LM>w#w-mf930702-054-p4s2w14</LM>
 </w.rf>
 <form>FC</form>
-<tag lemma="FC-1_:B_;K_;w_^(Football_Club,_př._FC_Sparta)" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="FC-1_:B_;K_;w_^(Football_Club,_př._FC_Sparta)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="FC-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930702-054-p4s2w15">
 <src.rf>manual</src.rf>
@@ -1579,7 +1609,7 @@
 <AM lemma="odchod" src="orig">NNIS6-----A----</AM>
 <AM lemma="odchod" src="auto">NNIS2-----A----</AM>
 <AM lemma="odchod" src="auto">NNIS3-----A----</AM>
-<AM lemma="odchod" src="auto" recommended="1">NNIS6-----A---1</AM>
+<AM lemma="odchod" src="auto" recommended="1" selected="1">NNIS6-----A---1</AM>
 </tag>
 </m>
 <m id="m-mf930702-054-p5s1w8">
@@ -1596,7 +1626,10 @@
 <LM>w#w-mf930702-054-p5s1w9</LM>
 </w.rf>
 <form>FMV</form>
-<tag lemma="FMV_:B_;K_^(Federální_ministerstvo_vnitra)" src="orig" selected="1">NNNXX-----A---8</tag>
+<tag>
+<AM lemma="FMV_:B_;K_^(Federální_ministerstvo_vnitra)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="FMV-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930702-054-p5s1w10">
 <src.rf>manual</src.rf>
@@ -1612,7 +1645,10 @@
 <LM>w#w-mf930702-054-p5s1w11</LM>
 </w.rf>
 <form>MV</form>
-<tag lemma="MV-2_:B_;K_;p_^(ministerstvo_vnitra)" src="orig" selected="1">NNNXX-----A---8</tag>
+<tag>
+<AM lemma="MV-2_:B_;K_;p_^(ministerstvo_vnitra)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="MV-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930702-054-p5s1w12">
 <src.rf>manual</src.rf>
@@ -1620,7 +1656,10 @@
 <LM>w#w-mf930702-054-p5s1w12</LM>
 </w.rf>
 <form>ČR</form>
-<tag lemma="ČR-1_:B_;G_^(Česká_republika)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930702-054-p5s1w13">
 <src.rf>manual</src.rf>
@@ -1740,7 +1779,7 @@
 <AM lemma="odchod" src="orig">NNIS6-----A----</AM>
 <AM lemma="odchod" src="auto">NNIS2-----A----</AM>
 <AM lemma="odchod" src="auto">NNIS3-----A----</AM>
-<AM lemma="odchod" src="auto" recommended="1">NNIS6-----A---1</AM>
+<AM lemma="odchod" src="auto" recommended="1" selected="1">NNIS6-----A---1</AM>
 </tag>
 </m>
 <m id="m-mf930702-054-p5s3w4">
@@ -1821,7 +1860,10 @@
 <LM>w#w-mf930702-054-p5s3w13</LM>
 </w.rf>
 <form>zůstaly</form>
-<tag lemma="zůstat" src="orig" selected="1">VpTP---XR-AA---</tag>
+<tag>
+<AM lemma="zůstat" src="orig">VpTP---XR-AA---</AM>
+<AM lemma="zůstat_:W" src="manual" selected="1">VpTP---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-mf930702-054-p5s3w14">
 <src.rf>manual</src.rf>

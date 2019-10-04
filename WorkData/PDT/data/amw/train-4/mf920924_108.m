@@ -585,7 +585,7 @@
 <AM lemma="Novotný_;S" src="auto">NNMP1-----A---6</AM>
 <AM lemma="Novotný_;S" src="auto">NNMP4-----A---6</AM>
 <AM lemma="Novotný_;S" src="auto">NNMP5-----A---6</AM>
-<AM lemma="Novotný_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Novotný_;S" src="auto" recommended="1" selected="1">NNMS1-----A----</AM>
 <AM lemma="Novotný_;S" src="auto">NNMS5-----A----</AM>
 <AM lemma="novotný_,a" src="auto">AAFP1----1A---6</AM>
 <AM lemma="novotný_,a" src="auto">AAFP4----1A---6</AM>
@@ -740,7 +740,10 @@
 <LM>w#w-mf920924-108-p2s6w6</LM>
 </w.rf>
 <form>min</form>
-<tag lemma="minuta_:B" src="auto" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="minuta_:B" src="auto">NNFXX-----A---8</AM>
+<AM lemma="minuta" src="manual" selected="1">NNFXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-mf920924-108-p2s6w7">
 <src.rf>manual</src.rf>
@@ -780,7 +783,10 @@
 <LM>w#w-mf920924-108-p2s6w11</LM>
 </w.rf>
 <form>min</form>
-<tag lemma="minuta_:B" src="auto" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="minuta_:B" src="auto">NNFXX-----A---8</AM>
+<AM lemma="minuta" src="manual" selected="1">NNFXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-mf920924-108-p2s6w12">
 <src.rf>manual</src.rf>
@@ -828,7 +834,10 @@
 <LM>w#w-mf920924-108-p2s6w17</LM>
 </w.rf>
 <form>min</form>
-<tag lemma="minuta_:B" src="auto" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="minuta_:B" src="auto">NNFXX-----A---8</AM>
+<AM lemma="minuta" src="manual" selected="1">NNFXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-mf920924-108-p2s6w18">
 <src.rf>manual</src.rf>

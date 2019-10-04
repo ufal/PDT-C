@@ -348,6 +348,7 @@
 <tag>
 <AM lemma="USA_;G" src="orig">NNIPX-----A----</AM>
 <AM lemma="USA_:B_;K_,t_^(United_States_of_America)" src="auto" recommended="1">NNIPX-----A---8</AM>
+<AM lemma="USA_:B_;K_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94210-115-p2s2w26">
@@ -422,7 +423,10 @@
 <LM>w#w-ln94210-115-p2s3w4</LM>
 </w.rf>
 <form>kg</form>
-<tag lemma="kg-1`kilogram_:B" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="kg-1`kilogram_:B" src="orig">NNIXX-----A---8</AM>
+<AM lemma="kilogram" src="manual" selected="1">NNIXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln94210-115-p2s3w5">
 <src.rf>manual</src.rf>

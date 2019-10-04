@@ -1161,6 +1161,8 @@
 <AM lemma="journal_,t" src="orig">NNIXX-----A----</AM>
 <AM lemma="journal" src="auto">NNIS1-----A----</AM>
 <AM lemma="journal" src="auto" recommended="1">NNIS4-----A----</AM>
+<AM lemma="journal_,t" src="manual">NNXXX-----A----</AM>
+<AM lemma="Journal-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-vesm9212-036-p2s5w5">
@@ -1169,7 +1171,10 @@
 <LM>w#w-vesm9212-036-p2s5w5</LM>
 </w.rf>
 <form>of</form>
-<tag lemma="of-1_,t_^(obv._souč._anglických_názvů,_předl._2._p.)" src="orig" selected="1">RR--X----------</tag>
+<tag>
+<AM lemma="of-1_,t_^(obv._souč._anglických_názvů,_předl._2._p.)" src="orig">RR--X----------</AM>
+<AM lemma="of-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-vesm9212-036-p2s5w6">
 <src.rf>manual</src.rf>
@@ -1177,7 +1182,11 @@
 <LM>w#w-vesm9212-036-p2s5w6</LM>
 </w.rf>
 <form>Neuropathology</form>
-<tag lemma="neuropathology_,t" src="orig" selected="1">NNFXX-----A----</tag>
+<tag>
+<AM lemma="neuropathology_,t" src="orig">NNFXX-----A----</AM>
+<AM lemma="neuropathology_,t" src="manual">NNXXX-----A----</AM>
+<AM lemma="Neuropathology-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-vesm9212-036-p2s5w7">
 <src.rf>manual</src.rf>
@@ -1185,7 +1194,10 @@
 <LM>w#w-vesm9212-036-p2s5w7</LM>
 </w.rf>
 <form>and</form>
-<tag lemma="and-1_,t_^(obv._souč._anglických_názvů,_&quot;a&quot;)" src="auto" selected="1">J^-------------</tag>
+<tag>
+<AM lemma="and-1_,t_^(obv._souč._anglických_názvů,_&quot;a&quot;)" src="auto">J^-------------</AM>
+<AM lemma="and-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-vesm9212-036-p2s5w8">
 <src.rf>manual</src.rf>
@@ -1196,6 +1208,7 @@
 <tag>
 <AM lemma="experimental_,t" src="orig">AAXXX----1A----</AM>
 <AM lemma="Experimental-1_;K_,t_^(Experimental_Theatre_Club)" src="auto" recommended="1">AAXXX----1A----</AM>
+<AM lemma="Experimental-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-vesm9212-036-p2s5w9">
@@ -1208,6 +1221,7 @@
 <AM lemma="neurology_,t" src="orig">NNFXX-----A----</AM>
 <AM lemma="neurolog" src="auto">NNMP4-----A----</AM>
 <AM lemma="neurolog" src="auto" recommended="1">NNMP7-----A----</AM>
+<AM lemma="Neurology-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-vesm9212-036-p2s5w10">
@@ -1224,7 +1238,10 @@
 <LM>w#w-vesm9212-036-p2s5w11</LM>
 </w.rf>
 <form>Vol</form>
-<tag lemma="volume_:B_,t_^(u_publikací)" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="volume_:B_,t_^(u_publikací)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="volume_:B_^(u_publikací)" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-vesm9212-036-p2s5w12">
 <src.rf>manual</src.rf>
@@ -1256,7 +1273,10 @@
 <LM>w#w-vesm9212-036-p2s5w15</LM>
 </w.rf>
 <form>No</form>
-<tag lemma="number_:B_,t_^(number,_číslo)" src="orig" selected="1">NNNXX-----A---8</tag>
+<tag>
+<AM lemma="number_:B_,t_^(number,_číslo)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="number_:B_^(number,_číslo)" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-vesm9212-036-p2s5w16">
 <src.rf>manual</src.rf>

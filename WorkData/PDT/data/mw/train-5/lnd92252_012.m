@@ -129,7 +129,10 @@
 <LM>w#w-lnd92252-012-p3s2w6</LM>
 </w.rf>
 <form>Haranta</form>
-<tag lemma="harant" src="orig" selected="1">NNMS2-----A----</tag>
+<tag>
+<AM lemma="harant" src="orig">NNMS2-----A----</AM>
+<AM lemma="Harant_;S" src="manual" selected="1">NNMS2-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92252-012-p3s2w7">
 <src.rf>manual</src.rf>
@@ -605,7 +608,10 @@
 <LM>w#w-lnd92252-012-p3s4w24</LM>
 </w.rf>
 <form>B</form>
-<tag lemma="B-0_:B_;Y" src="orig" selected="1">NNMXX-----A---8</tag>
+<tag>
+<AM lemma="B-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
+<AM lemma="B-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd92252-012-p3s4w25">
 <src.rf>manual</src.rf>

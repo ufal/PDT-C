@@ -27,7 +27,10 @@
 <LM>w#w-mf930709-142-p1s1w2</LM>
 </w.rf>
 <form>milionů</form>
-<tag lemma="milión`1000000" src="orig" selected="1">NNIP2-----A----</tag>
+<tag>
+<AM lemma="milión`1000000" src="orig">NNIP2-----A----</AM>
+<AM lemma="milion`1000000_,s_^(^DD**milión)" src="manual" selected="1">NNIP2-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930709-142-p1s1w3">
 <src.rf>manual</src.rf>
@@ -197,7 +200,10 @@
 <LM>w#w-mf930709-142-p2s1w16</LM>
 </w.rf>
 <form>spíše</form>
-<tag lemma="spíše" src="orig" selected="1">Dg-------2A---1</tag>
+<tag>
+<AM lemma="spíše" src="orig">Dg-------2A---1</AM>
+<AM lemma="spíš" src="manual" selected="1">TT------------1</AM>
+</tag>
 </m>
 <m id="m-mf930709-142-p2s1w17">
 <src.rf>manual</src.rf>
@@ -359,7 +365,10 @@
 <LM>w#w-mf930709-142-p2s2w15</LM>
 </w.rf>
 <form>černým</form>
-<tag lemma="černý" src="auto" selected="1">AAIS7----1A----</tag>
+<tag>
+<AM lemma="černý" src="auto">AAIS7----1A----</AM>
+<AM lemma="černý_;o" src="manual" selected="1">AAIS7----1A----</AM>
+</tag>
 </m>
 <m id="m-mf930709-142-p2s2w16">
 <src.rf>manual</src.rf>
@@ -460,6 +469,7 @@
 <tag>
 <AM lemma="Addis_;G" src="orig">NNFXX-----A----</AM>
 <AM lemma="Addis_;G_,t_^(Addis_Abeba)" src="auto" recommended="1">AAXXX----1A----</AM>
+<AM lemma="Addis_;G_^(Addis_Abeba)" src="manual" selected="1">AAXXX----1A----</AM>
 </tag>
 </m>
 <m id="m-mf930709-142-p3s1w11">
@@ -516,7 +526,10 @@
 <LM>w#w-mf930709-142-p3s1w17</LM>
 </w.rf>
 <form>OAJ</form>
-<tag lemma="OAJ-1_:B_;K_^(Organizace_africké_jednoty)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="OAJ-1_:B_;K_^(Organizace_africké_jednoty)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="OAJ-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930709-142-p3s1w18">
 <src.rf>manual</src.rf>
@@ -638,7 +651,10 @@
 <LM>w#w-mf930709-142-p3s2w3</LM>
 </w.rf>
 <form>OAJ</form>
-<tag lemma="OAJ-1_:B_;K_^(Organizace_africké_jednoty)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="OAJ-1_:B_;K_^(Organizace_africké_jednoty)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="OAJ-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930709-142-p3s2w4">
 <src.rf>manual</src.rf>
@@ -912,7 +928,10 @@
 <LM>w#w-mf930709-142-p3s3w10</LM>
 </w.rf>
 <form>milionů</form>
-<tag lemma="milión`1000000" src="orig" selected="1">NNIP2-----A----</tag>
+<tag>
+<AM lemma="milión`1000000" src="orig">NNIP2-----A----</AM>
+<AM lemma="milion`1000000_,s_^(^DD**milión)" src="manual" selected="1">NNIP2-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930709-142-p3s3w11">
 <src.rf>manual</src.rf>
@@ -1100,7 +1119,7 @@
 <form>nejen</form>
 <tag>
 <AM lemma="nejen" src="orig">TT-------------</AM>
-<AM lemma="nejen" src="auto" recommended="1">Db-------------</AM>
+<AM lemma="nejen" src="auto" recommended="1" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m-mf930709-142-p4s1w9">
@@ -2144,7 +2163,7 @@
 <form>ovšem</form>
 <tag>
 <AM lemma="ovšem-1_^(avšak,_však;_odporovací_spojka)" src="orig">J^-------------</AM>
-<AM lemma="ovšem" src="auto" recommended="1">TT-------------</AM>
+<AM lemma="ovšem" src="auto" recommended="1" selected="1">TT-------------</AM>
 </tag>
 </m>
 <m id="m-mf930709-142-p5s3w3">
@@ -2523,6 +2542,7 @@
 <AM lemma="neokolonializmus_,x" src="auto">NNIS2-----A----</AM>
 <AM lemma="neokolonializmus_,x" src="auto">NNIS3-----A----</AM>
 <AM lemma="neokolonializmus_,x" src="auto">NNIS6-----A----</AM>
+<AM lemma="neokolonialismus_,s_^(^DD**neokolonializmus)" src="manual" selected="1">NNIS2-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930709-142-p5s4w18">
@@ -2951,7 +2971,10 @@
 <LM>w#w-mf930709-142-p6s2w24</LM>
 </w.rf>
 <form>stát</form>
-<tag lemma="stát-2_^(něco_se_přihodilo)" src="orig" selected="1">Vf--------A----</tag>
+<tag>
+<AM lemma="stát-2_^(něco_se_přihodilo)" src="orig">Vf--------A----</AM>
+<AM lemma="stát-2_^(stanu_staneš)" src="manual" selected="1">Vf--------A----</AM>
+</tag>
 </m>
 <m id="m-mf930709-142-p6s2w25">
 <src.rf>manual</src.rf>
@@ -3709,7 +3732,10 @@
 <LM>w#w-mf930709-142-p7s3w16</LM>
 </w.rf>
 <form>spíše</form>
-<tag lemma="spíše" src="orig" selected="1">Dg-------2A---1</tag>
+<tag>
+<AM lemma="spíše" src="orig">Dg-------2A---1</AM>
+<AM lemma="spíš" src="manual" selected="1">TT------------1</AM>
+</tag>
 </m>
 <m id="m-mf930709-142-p7s3w17">
 <src.rf>manual</src.rf>
@@ -4212,7 +4238,7 @@
 <tag>
 <AM lemma="totiž" src="orig">Db-------------</AM>
 <AM lemma="totiž-1" src="auto" recommended="1">J^-------------</AM>
-<AM lemma="totiž-2" src="auto">TT-------------</AM>
+<AM lemma="totiž-2" src="auto" selected="1">TT-------------</AM>
 </tag>
 </m>
 <m id="m-mf930709-142-p8s1w5">
@@ -4527,7 +4553,10 @@
 <LM>w#w-mf930709-142-p9s1w13</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-2" src="auto" selected="1">Dg-------2A----</tag>
+<tag>
+<AM lemma="hodně-2" src="auto">Dg-------2A----</AM>
+<AM lemma="hodně-3" src="manual" selected="1">Dg-------2A----</AM>
+</tag>
 </m>
 <m id="m-mf930709-142-p9s1w14">
 <src.rf>manual</src.rf>

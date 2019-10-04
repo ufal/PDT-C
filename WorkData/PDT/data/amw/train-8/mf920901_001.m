@@ -77,7 +77,10 @@
 <LM>w#w-mf920901-001-p1s1Bw2</LM>
 </w.rf>
 <form>SNR</form>
-<tag lemma="SNR-1_:B_;K_^(Slovenská_národní_rada)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="SNR-1_:B_;K_^(Slovenská_národní_rada)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="SNR-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920901-001-p1s1Bw3">
 <src.rf>manual</src.rf>
@@ -167,7 +170,10 @@
 <LM>w#w-mf920901-001-p2s1w4</LM>
 </w.rf>
 <form>SR</form>
-<tag lemma="SR-1_:B_;G_^(Slovenská_republika)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="SR-1_:B_;G_^(Slovenská_republika)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="SR-1_:B_;G_^(Slovenská_republika)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920901-001-p2s1w5">
 <src.rf>manual</src.rf>
@@ -183,7 +189,10 @@
 <LM>w#w-mf920901-001-p2s1w6</LM>
 </w.rf>
 <form>uplatněn</form>
-<tag lemma="uplatnit" src="orig" selected="1">VsYS---XX-AP---</tag>
+<tag>
+<AM lemma="uplatnit" src="orig">VsYS---XX-AP---</AM>
+<AM lemma="uplatnit_:W" src="manual" selected="1">VsYS---XX-AP---</AM>
+</tag>
 </m>
 <m id="m-mf920901-001-p2s1w7">
 <src.rf>manual</src.rf>
@@ -443,7 +452,10 @@
 <LM>w#w-mf920901-001-p2s3w9</LM>
 </w.rf>
 <form>SNR</form>
-<tag lemma="SNR-1_:B_;K_^(Slovenská_národní_rada)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="SNR-1_:B_;K_^(Slovenská_národní_rada)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="SNR-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920901-001-p2s3w10">
 <src.rf>manual</src.rf>
@@ -581,7 +593,10 @@
 <LM>w#w-mf920901-001-p2s4w10</LM>
 </w.rf>
 <form>SR</form>
-<tag lemma="SR-1_:B_;G_^(Slovenská_republika)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="SR-1_:B_;G_^(Slovenská_republika)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="SR-1_:B_;G_^(Slovenská_republika)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920901-001-p2s4w11">
 <src.rf>manual</src.rf>
@@ -615,7 +630,10 @@
 <LM>w#w-mf920901-001-p3s1w3</LM>
 </w.rf>
 <form>uvedl</form>
-<tag lemma="uvést" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag>
+<AM lemma="uvést" src="orig">VpYS---XR-AA---</AM>
+<AM lemma="uvést_:W" src="manual" selected="1">VpYS---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-mf920901-001-p3s1w4">
 <src.rf>manual</src.rf>
@@ -816,7 +834,10 @@
 <LM>w#w-mf920901-001-p3s1w28</LM>
 </w.rf>
 <form>SNR</form>
-<tag lemma="SNR-1_:B_;K_^(Slovenská_národní_rada)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="SNR-1_:B_;K_^(Slovenská_národní_rada)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="SNR-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920901-001-p3s1w29">
 <src.rf>manual</src.rf>
@@ -946,7 +967,10 @@
 <LM>w#w-mf920901-001-p3s2Aw2</LM>
 </w.rf>
 <form>fašismus</form>
-<tag lemma="fašismus" src="orig" selected="1">NNIS4-----A----</tag>
+<tag>
+<AM lemma="fašismus" src="orig">NNIS4-----A----</AM>
+<AM lemma="fašismus_,s_^(^DD**fašizmus)" src="manual" selected="1">NNIS4-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920901-001-p3s2Aw3">
 <src.rf>manual</src.rf>
@@ -962,7 +986,10 @@
 <LM>w#w-mf920901-001-p3s2Aw4</LM>
 </w.rf>
 <form>antisemitismus</form>
-<tag lemma="antisemitismus" src="orig" selected="1">NNIS4-----A----</tag>
+<tag>
+<AM lemma="antisemitismus" src="orig">NNIS4-----A----</AM>
+<AM lemma="antisemitismus_,s_^(^DD**antisemitizmus)" src="manual" selected="1">NNIS4-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920901-001-p3s2Aw5">
 <src.rf>manual</src.rf>
@@ -982,6 +1009,7 @@
 <AM lemma="nacionalismus" src="orig">NNIS4-----A----</AM>
 <AM lemma="nacionalizmus" src="auto">NNIS1-----A----</AM>
 <AM lemma="nacionalizmus" src="auto" recommended="1">NNIS4-----A----</AM>
+<AM lemma="nacionalismus_,s_^(^DD**nacionalizmus)" src="manual" selected="1">NNIS4-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920901-001-p3s2Aw7">
@@ -1248,7 +1276,10 @@
 <LM>w#w-mf920901-001-p3s2Bw22</LM>
 </w.rf>
 <form>egoismus</form>
-<tag lemma="egoismus" src="orig" selected="1">NNIS4-----A----</tag>
+<tag>
+<AM lemma="egoismus" src="orig">NNIS4-----A----</AM>
+<AM lemma="egoismus_^(^DD**egoizmus)" src="manual" selected="1">NNIS4-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920901-001-p3s2Bw23">
 <src.rf>manual</src.rf>
@@ -1396,7 +1427,10 @@
 <LM>w#w-mf920901-001-p4s2w2</LM>
 </w.rf>
 <form>řekl</form>
-<tag lemma="říci" src="auto" selected="1">VpYS---XR-AA---</tag>
+<tag>
+<AM lemma="říci" src="auto">VpYS---XR-AA---</AM>
+<AM lemma="říci_:W" src="manual" selected="1">VpYS---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-mf920901-001-p4s2w3">
 <src.rf>manual</src.rf>
@@ -1648,7 +1682,7 @@
 <form>třeba</form>
 <tag>
 <AM lemma="třeba-1" src="orig">ACNS------A----</AM>
-<AM lemma="třeba-2" src="auto" recommended="1">Db-------------</AM>
+<AM lemma="třeba-2" src="auto" recommended="1" selected="1">Db-------------</AM>
 <AM lemma="třeba-3" src="auto">TT-------------</AM>
 </tag>
 </m>
@@ -1860,7 +1894,10 @@
 <LM>w#w-mf920901-001-p4s3Bw2</LM>
 </w.rf>
 <form>V</form>
-<tag lemma="V-0_:B_;Y" src="orig" selected="1">NNMXX-----A---8</tag>
+<tag>
+<AM lemma="V-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
+<AM lemma="V-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920901-001-p4s3Bw3">
 <src.rf>manual</src.rf>
@@ -2674,7 +2711,10 @@
 <LM>w#w-mf920901-001-p5s2w15</LM>
 </w.rf>
 <form>SNR</form>
-<tag lemma="SNR-1_:B_;K_^(Slovenská_národní_rada)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="SNR-1_:B_;K_^(Slovenská_národní_rada)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="SNR-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920901-001-p5s2w16">
 <src.rf>manual</src.rf>
@@ -3016,7 +3056,10 @@
 <LM>w#w-mf920901-001-p6s1w3</LM>
 </w.rf>
 <form>str</form>
-<tag lemma="strana-4_:B" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="strana-4_:B" src="orig">NNFXX-----A---8</AM>
+<AM lemma="strana" src="manual" selected="1">NNFXX-----A---9</AM>
+</tag>
 </m>
 <m id="m-mf920901-001-p6s1w4">
 <src.rf>manual</src.rf>

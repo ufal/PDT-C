@@ -174,7 +174,7 @@
 </w.rf>
 <form>Kon</form>
 <tag>
-<AM lemma="Kon_;Y" src="orig">NNMXX-----A----</AM>
+<AM lemma="Kon_;Y" src="orig" selected="1">NNMXX-----A----</AM>
 <AM lemma="Kon_;G" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Kon_;G" src="auto">NNIS4-----A----</AM>
 <AM lemma="Kona_;G" src="auto">NNFP2-----A----</AM>
@@ -333,7 +333,10 @@
 <LM>w#w-ln95045-043-p2s2w15</LM>
 </w.rf>
 <form>Finlandia</form>
-<tag lemma="Finlandia_;R_,t" src="orig" selected="1">NNFS1-----A----</tag>
+<tag>
+<AM lemma="Finlandia_;R_,t" src="orig">NNFS1-----A----</AM>
+<AM lemma="Finlandia_;R" src="manual" selected="1">NNFS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95045-043-p2s2w16">
 <src.rf>manual</src.rf>
@@ -702,6 +705,7 @@
 <AM lemma="Nippon_;G" src="auto">NNIS1-----A----</AM>
 <AM lemma="Nippon_;G" src="auto">NNIS4-----A----</AM>
 <AM lemma="nippon_;L_,t" src="auto" recommended="1">AAXXX----1A----</AM>
+<AM lemma="Nippon-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-ln95045-043-p3s2w9">
@@ -710,7 +714,10 @@
 <LM>w#w-ln95045-043-p3s2w9</LM>
 </w.rf>
 <form>Philharmonic</form>
-<tag lemma="Philharmonic_;K_,t" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="Philharmonic_;K_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="Philharmonic-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln95045-043-p3s2w10">
 <src.rf>manual</src.rf>
@@ -721,6 +728,7 @@
 <tag>
 <AM lemma="Orchestra_;K_,t" src="orig">NNXXX-----A----</AM>
 <AM lemma="orchestra" src="auto" recommended="1">NNFS1-----A----</AM>
+<AM lemma="Orchestra-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-ln95045-043-p3s2w11">
@@ -995,7 +1003,10 @@
 <LM>w#w-ln95045-043-p3s3w19</LM>
 </w.rf>
 <form>vedl</form>
-<tag lemma="vést" src="auto" selected="1">VpYS---XR-AA---</tag>
+<tag>
+<AM lemma="vést" src="auto">VpYS---XR-AA---</AM>
+<AM lemma="vést_:T" src="manual" selected="1">VpYS---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-ln95045-043-p3s3w20">
 <src.rf>manual</src.rf>

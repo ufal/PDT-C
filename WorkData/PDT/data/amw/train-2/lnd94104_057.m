@@ -43,7 +43,10 @@
 <LM>w#w-lnd94104-057-p1s1w4</LM>
 </w.rf>
 <form>J</form>
-<tag lemma="J-0_:B_;Y" src="orig" selected="1">NNMXX-----A---8</tag>
+<tag>
+<AM lemma="J-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
+<AM lemma="J-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd94104-057-p1s1w5">
 <src.rf>manual</src.rf>
@@ -151,7 +154,10 @@
 <LM>w#w-lnd94104-057-p1s3w9</LM>
 </w.rf>
 <form>FDP</form>
-<tag lemma="FDP_:B_;K_,t_^(něm._polit._strana)" src="auto" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="FDP_:B_;K_,t_^(něm._polit._strana)" src="auto">NNFXX-----A---8</AM>
+<AM lemma="FDP-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd94104-057-p1s3w10">
 <src.rf>manual</src.rf>
@@ -271,7 +277,10 @@
 <LM>w#w-lnd94104-057-p1s3w24</LM>
 </w.rf>
 <form>FDP</form>
-<tag lemma="FDP_:B_;K_,t_^(něm._polit._strana)" src="auto" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="FDP_:B_;K_,t_^(něm._polit._strana)" src="auto">NNFXX-----A---8</AM>
+<AM lemma="FDP-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd94104-057-p1s3w25">
 <src.rf>manual</src.rf>

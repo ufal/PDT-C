@@ -649,7 +649,10 @@
 <LM>w#w-ln94211-103-p2s3w11</LM>
 </w.rf>
 <form>ani</form>
-<tag lemma="ani-1" src="auto" selected="1">J^-------------</tag>
+<tag>
+<AM lemma="ani-1" src="auto">J^-------------</AM>
+<AM lemma="ani-2" src="manual" selected="1">TT-------------</AM>
+</tag>
 </m>
 <m id="m-ln94211-103-p2s3w12">
 <src.rf>manual</src.rf>
@@ -665,7 +668,10 @@
 <LM>w#w-ln94211-103-p2s3w13</LM>
 </w.rf>
 <form>Yamaha</form>
-<tag lemma="Yamaha-2_;K" src="orig" selected="1">NNFS1-----A----</tag>
+<tag>
+<AM lemma="Yamaha-2_;K" src="orig">NNFS1-----A----</AM>
+<AM lemma="Yamaha_;K_;R" src="manual" selected="1">NNFS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94211-103-p2s3w14">
 <src.rf>manual</src.rf>
@@ -1515,7 +1521,10 @@
 <LM>w#w-ln94211-103-p4s2w5</LM>
 </w.rf>
 <form>Ferko</form>
-<tag lemma="Ferko_;Y_,h" src="auto" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Ferko_;Y_,h" src="auto">NNMS1-----A----</AM>
+<AM lemma="Ferko_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94211-103-p4s2w6">
 <src.rf>manual</src.rf>

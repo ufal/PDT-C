@@ -35,7 +35,10 @@
 <LM>w#w-lnd94103-021-p1s1w3</LM>
 </w.rf>
 <form>ČSOP</form>
-<tag lemma="ČSOP_:B_;K" src="auto" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="ČSOP_:B_;K" src="auto">NNXXX-----A---8</AM>
+<AM lemma="ČSOP-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd94103-021-p1s1w4">
 <src.rf>manual</src.rf>
@@ -85,7 +88,10 @@
 <LM>w#w-lnd94103-021-p1s2w3</LM>
 </w.rf>
 <form>črk</form>
-<tag lemma="črk-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="črk-99_:B_;S" src="orig">NNXXX-----A---8</AM>
+<AM lemma="črk-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd94103-021-p1s2w4">
 <src.rf>manual</src.rf>
@@ -155,7 +161,7 @@
 <AM lemma="odchod" src="orig">NNIS6-----A----</AM>
 <AM lemma="odchod" src="auto" recommended="1">NNIS2-----A----</AM>
 <AM lemma="odchod" src="auto">NNIS3-----A----</AM>
-<AM lemma="odchod" src="auto">NNIS6-----A---1</AM>
+<AM lemma="odchod" src="auto" selected="1">NNIS6-----A---1</AM>
 </tag>
 </m>
 <m id="m-lnd94103-021-p1s3w7">
@@ -432,7 +438,10 @@
 <LM>w#w-lnd94103-021-p1s5w5</LM>
 </w.rf>
 <form>rady</form>
-<tag lemma="rada-3_^(poradní_sbor;_př._Česká_národní_r.)" src="orig" selected="1">NNFS2-----A----</tag>
+<tag>
+<AM lemma="rada-3_^(poradní_sbor;_př._Česká_národní_r.)" src="orig">NNFS2-----A----</AM>
+<AM lemma="rada-1_^(př._dát_někomu_dobrou_radu;poradní_sbor)" src="manual" selected="1">NNFS2-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd94103-021-p1s5w6">
 <src.rf>manual</src.rf>
@@ -440,7 +449,10 @@
 <LM>w#w-lnd94103-021-p1s5w6</LM>
 </w.rf>
 <form>M</form>
-<tag lemma="M-0_:B_;Y" src="orig" selected="1">NNMXX-----A---8</tag>
+<tag>
+<AM lemma="M-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
+<AM lemma="M-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd94103-021-p1s5w7">
 <src.rf>manual</src.rf>
@@ -480,7 +492,10 @@
 <LM>w#w-lnd94103-021-p1s5w11</LM>
 </w.rf>
 <form>ČSOP</form>
-<tag lemma="ČSOP_:B_;K" src="auto" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="ČSOP_:B_;K" src="auto">NNXXX-----A---8</AM>
+<AM lemma="ČSOP-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd94103-021-p1s5w12">
 <src.rf>manual</src.rf>
@@ -658,7 +673,10 @@
 <LM>w#w-lnd94103-021-p1s6w14</LM>
 </w.rf>
 <form>ČSOP</form>
-<tag lemma="ČSOP_:B_;K" src="auto" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="ČSOP_:B_;K" src="auto">NNXXX-----A---8</AM>
+<AM lemma="ČSOP-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd94103-021-p1s6w15">
 <src.rf>manual</src.rf>
@@ -748,7 +766,10 @@
 <LM>w#w-lnd94103-021-p1s7w4</LM>
 </w.rf>
 <form>ČSOP</form>
-<tag lemma="ČSOP_:B_;K" src="auto" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="ČSOP_:B_;K" src="auto">NNXXX-----A---8</AM>
+<AM lemma="ČSOP-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd94103-021-p1s7w5">
 <src.rf>manual</src.rf>
@@ -916,7 +937,10 @@
 <LM>w#w-lnd94103-021-p1s7w25</LM>
 </w.rf>
 <form>resortu</form>
-<tag lemma="resort" src="orig" selected="1">NNIS2-----A----</tag>
+<tag>
+<AM lemma="resort" src="orig">NNIS2-----A----</AM>
+<AM lemma="resort_,s_^(^DD**rezort)" src="manual" selected="1">NNIS2-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd94103-021-p1s7w26">
 <src.rf>manual</src.rf>
@@ -1121,7 +1145,10 @@
 <LM>w#w-lnd94103-021-p1s9w7</LM>
 </w.rf>
 <form>ČSOP</form>
-<tag lemma="ČSOP_:B_;K" src="auto" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="ČSOP_:B_;K" src="auto">NNXXX-----A---8</AM>
+<AM lemma="ČSOP-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd94103-021-p1s9w8">
 <src.rf>manual</src.rf>
@@ -1137,7 +1164,10 @@
 <LM>w#w-lnd94103-021-p1s9w9</LM>
 </w.rf>
 <form>B</form>
-<tag lemma="B-0_:B_;Y" src="orig" selected="1">NNMXX-----A---8</tag>
+<tag>
+<AM lemma="B-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
+<AM lemma="B-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd94103-021-p1s9w10">
 <src.rf>manual</src.rf>

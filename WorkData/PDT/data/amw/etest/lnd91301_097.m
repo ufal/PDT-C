@@ -45,7 +45,10 @@
 <LM>w#w-lnd91301-097-p2s1w1</LM>
 </w.rf>
 <form>MOOSE</form>
-<tag lemma="Moose_;G" src="orig" selected="1">NNNXX-----A----</tag>
+<tag>
+<AM lemma="Moose_;G" src="orig">NNNXX-----A----</AM>
+<AM lemma="MOOSE-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-lnd91301-097-p2s1w2">
 <src.rf>manual</src.rf>
@@ -56,6 +59,7 @@
 <tag>
 <AM lemma="Jawa-1_;K" src="orig">NNFP2-----A----</AM>
 <AM lemma="Jawa_;K_;R" src="auto" recommended="1">NNFP2-----A----</AM>
+<AM lemma="JAW-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-lnd91301-097-p2s1w3">
@@ -114,7 +118,10 @@
 <LM>w#w-lnd91301-097-p3s1w6</LM>
 </w.rf>
 <form>Bobby</form>
-<tag lemma="Bobby_;Y_,t" src="auto" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Bobby_;Y_,t" src="auto">NNMS1-----A----</AM>
+<AM lemma="Bobby_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd91301-097-p3s1w7">
 <src.rf>manual</src.rf>
@@ -330,7 +337,10 @@
 <LM>w#w-lnd91301-097-p3s1w33</LM>
 </w.rf>
 <form>ani</form>
-<tag lemma="ani-1" src="auto" selected="1">J^-------------</tag>
+<tag>
+<AM lemma="ani-1" src="auto">J^-------------</AM>
+<AM lemma="ani-2" src="manual" selected="1">TT-------------</AM>
+</tag>
 </m>
 <m id="m-lnd91301-097-p3s1w34">
 <src.rf>manual</src.rf>
@@ -650,7 +660,7 @@
 <form>totiž</form>
 <tag>
 <AM lemma="totiž" src="orig">Db-------------</AM>
-<AM lemma="totiž-1" src="auto" recommended="1">J^-------------</AM>
+<AM lemma="totiž-1" src="auto" recommended="1" selected="1">J^-------------</AM>
 <AM lemma="totiž-2" src="auto">TT-------------</AM>
 </tag>
 </m>
@@ -920,7 +930,10 @@
 <LM>w#w-lnd91301-097-p3s5Bw6</LM>
 </w.rf>
 <form>Bobby</form>
-<tag lemma="Bobby_;Y_,t" src="auto" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Bobby_;Y_,t" src="auto">NNMS1-----A----</AM>
+<AM lemma="Bobby_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd91301-097-p3s5Bw7">
 <src.rf>manual</src.rf>
@@ -960,7 +973,10 @@
 <LM>w#w-lnd91301-097-p3s5Bw11</LM>
 </w.rf>
 <form>Moose</form>
-<tag lemma="Moose_;G" src="orig" selected="1">NNNXX-----A----</tag>
+<tag>
+<AM lemma="Moose_;G" src="orig">NNNXX-----A----</AM>
+<AM lemma="Moose-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-lnd91301-097-p3s5Bw12">
 <src.rf>manual</src.rf>
@@ -971,6 +987,7 @@
 <tag>
 <AM lemma="Jaw_;G_,t" src="orig">NNNSX-----A----</AM>
 <AM lemma="Jawa_;K_;R" src="auto" recommended="1">NNFP2-----A----</AM>
+<AM lemma="Jaw-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-lnd91301-097-p3s5Bw13">
@@ -1437,7 +1454,7 @@
 </w.rf>
 <form>Bobby</form>
 <tag>
-<AM lemma="Bobby_;Y" src="orig">NNMXX-----A----</AM>
+<AM lemma="Bobby_;Y" src="orig" selected="1">NNMXX-----A----</AM>
 <AM lemma="Bobb_;S" src="auto" recommended="1">NNMP4-----A----</AM>
 <AM lemma="Bobb_;S" src="auto">NNMP7-----A----</AM>
 <AM lemma="Bobby_;Y_,t" src="auto">NNMS1-----A----</AM>

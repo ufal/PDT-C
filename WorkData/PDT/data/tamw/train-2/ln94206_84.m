@@ -232,6 +232,7 @@
 <AM lemma="telit_:T" src="auto">Vi-S---2--A----</AM>
 <AM lemma="telit_:T" src="auto">Vi-S---3--A---4</AM>
 <AM lemma="tlo_,n" src="auto">NNNP2-----A----</AM>
+<AM lemma="Tel-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-ln94206-84-p2s1Bw10">
@@ -240,7 +241,10 @@
 <LM>w#w-ln94206-84-p2s1Bw10</LM>
 </w.rf>
 <form>Aviv</form>
-<tag lemma="Aviv_;G" src="orig" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="Aviv_;G" src="orig">NNIS1-----A----</AM>
+<AM lemma="Aviv-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 </s>
 <s id="m-ln94206-84-p2s1C">
@@ -444,7 +448,7 @@
 <form>Bénazír</form>
 <tag>
 <AM lemma="Bénazír_;Y" src="orig">NNFSX-----A----</AM>
-<AM lemma="Bénazír_;Y_,t" src="auto" recommended="1">NNFXX-----A----</AM>
+<AM lemma="Bénazír_;Y_,t" src="auto" recommended="1" selected="1">NNFXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94206-84-p2s1Cw26">
@@ -641,7 +645,7 @@
 <form>snad</form>
 <tag>
 <AM lemma="snad" src="orig">Db-------------</AM>
-<AM lemma="snad" src="auto" recommended="1">TT-------------</AM>
+<AM lemma="snad" src="auto" recommended="1" selected="1">TT-------------</AM>
 </tag>
 </m>
 <m id="m-ln94206-84-p2s2w17">
@@ -926,7 +930,10 @@
 <LM>w#w-ln94206-84-p3s1w4</LM>
 </w.rf>
 <form>faux</form>
-<tag lemma="faux_,h_,t_^(faux_pas)" src="auto" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="faux_,h_,t_^(faux_pas)" src="auto">AAXXX----1A----</AM>
+<AM lemma="faux-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94206-84-p3s1w5">
 <src.rf>manual</src.rf>
@@ -945,6 +952,8 @@
 <AM lemma="paso_;u_,t_^(passo_doble)" src="auto">NNNP2-----A----</AM>
 <AM lemma="pást_^(se,např._koně,_husy)" src="auto">Vi-S---2--A----</AM>
 <AM lemma="pást_^(se,např._koně,_husy)" src="auto">Vi-S---3--A---4</AM>
+<AM lemma="pas-4_,t_^(faux_pas)" src="manual">NNNXX-----A----</AM>
+<AM lemma="pas-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-ln94206-84-p3s1w6">
@@ -1215,7 +1224,10 @@
 <LM>w#w-ln94206-84-p3s4w14</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-2" src="auto" selected="1">Dg-------2A----</tag>
+<tag>
+<AM lemma="hodně-2" src="auto">Dg-------2A----</AM>
+<AM lemma="hodně-3" src="manual" selected="1">Dg-------2A----</AM>
+</tag>
 </m>
 <m id="m-ln94206-84-p3s4w15">
 <src.rf>manual</src.rf>
@@ -1998,7 +2010,7 @@
 <tag>
 <AM lemma="totiž" src="orig">Db-------------</AM>
 <AM lemma="totiž-1" src="auto">J^-------------</AM>
-<AM lemma="totiž-2" src="auto" recommended="1">TT-------------</AM>
+<AM lemma="totiž-2" src="auto" recommended="1" selected="1">TT-------------</AM>
 </tag>
 </m>
 <m id="m-ln94206-84-p4s5w2">
@@ -2349,7 +2361,7 @@
 <form>Bénazír</form>
 <tag>
 <AM lemma="Bénazír_;Y" src="orig">NNFSX-----A----</AM>
-<AM lemma="Bénazír_;Y_,t" src="auto" recommended="1">NNFXX-----A----</AM>
+<AM lemma="Bénazír_;Y_,t" src="auto" recommended="1" selected="1">NNFXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94206-84-p4s7w5">
@@ -2660,7 +2672,7 @@
 <form>Koneckonců</form>
 <tag>
 <AM lemma="koneckonců" src="orig">Db-------------</AM>
-<AM lemma="koneckonců" src="auto" recommended="1">TT-------------</AM>
+<AM lemma="koneckonců" src="auto" recommended="1" selected="1">TT-------------</AM>
 </tag>
 </m>
 <m id="m-ln94206-84-p5s2w2">
@@ -3827,7 +3839,7 @@
 <form>snad</form>
 <tag>
 <AM lemma="snad" src="orig">Db-------------</AM>
-<AM lemma="snad" src="auto" recommended="1">TT-------------</AM>
+<AM lemma="snad" src="auto" recommended="1" selected="1">TT-------------</AM>
 </tag>
 </m>
 <m id="m-ln94206-84-p6s5w2">
@@ -4162,7 +4174,7 @@
 <form>Bénazír</form>
 <tag>
 <AM lemma="Bénazír_;Y" src="orig">NNFSX-----A----</AM>
-<AM lemma="Bénazír_;Y_,t" src="auto" recommended="1">NNFXX-----A----</AM>
+<AM lemma="Bénazír_;Y_,t" src="auto" recommended="1" selected="1">NNFXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94206-84-p7s1w28">

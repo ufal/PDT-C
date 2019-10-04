@@ -384,6 +384,7 @@
 <tag>
 <AM lemma="CHZ-2_:B_;K" src="orig">NNISX-----A----</AM>
 <AM lemma="CHZ-1_:B_^(chemická_zbraň)" src="auto" recommended="1">NNFXX-----A---8</AM>
+<AM lemma="CHZ-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-lnd91303-100-p2s1w43">
@@ -515,6 +516,7 @@
 <tag>
 <AM lemma="CHZ-2_:B_;K" src="orig">NNISX-----A----</AM>
 <AM lemma="CHZ-1_:B_^(chemická_zbraň)" src="auto" recommended="1">NNFXX-----A---8</AM>
+<AM lemma="CHZ-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-lnd91303-100-p2s1w59">

@@ -73,6 +73,8 @@
 <AM lemma="surrealismus" src="orig">NNIS1-----A----</AM>
 <AM lemma="surrealizmus" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="surrealizmus" src="auto">NNIS4-----A----</AM>
+<AM lemma="surrealismus_,s_^(^DD**surrealizmus " src="manual">NNIS1-----A----</AM>
+<AM lemma="surrealismus_,s_^(^DD**surrealizmus)" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930703-054-p1s2w3">
@@ -127,6 +129,7 @@
 <AM lemma="surrealismus" src="orig">NNIS1-----A----</AM>
 <AM lemma="surrealizmus" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="surrealizmus" src="auto">NNIS4-----A----</AM>
+<AM lemma="surrealismus_,s_^(^DD**surrealizmus)" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930703-054-p2s1w3">
@@ -340,6 +343,7 @@
 <tag>
 <AM lemma="surrealismus" src="orig">NNIS7-----A----</AM>
 <AM lemma="surrealizmus" src="auto" recommended="1">NNIS7-----A----</AM>
+<AM lemma="surrealismus_,s_^(^DD**surrealizmus)" src="manual" selected="1">NNIS7-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930703-054-p2s2w19">
@@ -579,6 +583,7 @@
 <AM lemma="surrealizmus" src="auto">NNIS2-----A----</AM>
 <AM lemma="surrealizmus" src="auto">NNIS3-----A----</AM>
 <AM lemma="surrealizmus" src="auto" recommended="1">NNIS6-----A----</AM>
+<AM lemma="surrealismus_,s_^(^DD**surrealizmus)" src="manual" selected="1">NNIS6-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930703-054-p2s3w21">
@@ -2169,7 +2174,10 @@
 <LM>w#w-mf930703-054-p3s5w10</LM>
 </w.rf>
 <form>nevede</form>
-<tag lemma="vést" src="auto" selected="1">VB-S---3P-NA---</tag>
+<tag>
+<AM lemma="vést" src="auto">VB-S---3P-NA---</AM>
+<AM lemma="vést_:T" src="manual" selected="1">VB-S---3P-NA---</AM>
+</tag>
 </m>
 <m id="m-mf930703-054-p3s5w11">
 <src.rf>manual</src.rf>
@@ -2193,7 +2201,10 @@
 <LM>w#w-mf930703-054-p3s5w13</LM>
 </w.rf>
 <form>vést</form>
-<tag lemma="vést" src="auto" selected="1">Vf--------A----</tag>
+<tag>
+<AM lemma="vést" src="auto">Vf--------A----</AM>
+<AM lemma="vést_:T" src="manual" selected="1">Vf--------A----</AM>
+</tag>
 </m>
 <m id="m-mf930703-054-p3s5w14">
 <src.rf>manual</src.rf>
@@ -2979,6 +2990,7 @@
 <AM lemma="surrealismus" src="orig">NNIS1-----A----</AM>
 <AM lemma="surrealizmus" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="surrealizmus" src="auto">NNIS4-----A----</AM>
+<AM lemma="surrealismus_,s_^(^DD**surrealizmus)" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930703-054-p3s8w2">
@@ -3239,7 +3251,10 @@
 <LM>w#w-mf930703-054-p3s10w11</LM>
 </w.rf>
 <form>konformismus</form>
-<tag lemma="konformismus" src="orig" selected="1">NNIS4-----A----</tag>
+<tag>
+<AM lemma="konformismus" src="orig">NNIS4-----A----</AM>
+<AM lemma="konformismus_,s_^(^DD**konformizmus)" src="manual" selected="1">NNIS4-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930703-054-p3s10w12">
 <src.rf>manual</src.rf>
@@ -3592,6 +3607,7 @@
 <AM lemma="surrealizmus" src="auto" recommended="1">NNIS2-----A----</AM>
 <AM lemma="surrealizmus" src="auto">NNIS3-----A----</AM>
 <AM lemma="surrealizmus" src="auto">NNIS6-----A----</AM>
+<AM lemma="surrealismus_,s_^(^DD**surrealizmus)" src="manual" selected="1">NNIS2-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930703-054-p3s12w6">

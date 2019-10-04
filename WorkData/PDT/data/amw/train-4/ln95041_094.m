@@ -43,7 +43,10 @@
 <LM>w#w-ln95041-094-p1s1w4</LM>
 </w.rf>
 <form>ČR</form>
-<tag lemma="ČR-1_:B_;G_^(Česká_republika)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95041-094-p1s1w5">
 <src.rf>manual</src.rf>
@@ -413,7 +416,10 @@
 <LM>w#w-ln95041-094-p2s4w7</LM>
 </w.rf>
 <form>nedávno</form>
-<tag lemma="nedávno-1" src="auto" selected="1">Db-------------</tag>
+<tag>
+<AM lemma="nedávno-1" src="auto">Db-------------</AM>
+<AM lemma="dávno-1" src="manual" selected="1">Dg-------1N----</AM>
+</tag>
 </m>
 <m id="m-ln95041-094-p2s4w8">
 <src.rf>manual</src.rf>
@@ -421,7 +427,10 @@
 <LM>w#w-ln95041-094-p2s4w8</LM>
 </w.rf>
 <form>LN</form>
-<tag lemma="LN-1_:B_;R_^(Lidové_noviny,_deník)" src="orig" selected="1">NNFPX-----A---8</tag>
+<tag>
+<AM lemma="LN-1_:B_;R_^(Lidové_noviny,_deník)" src="orig">NNFPX-----A---8</AM>
+<AM lemma="LN-1_:B_;K_;R_^(Lidové_noviny)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95041-094-p2s4w9">
 <src.rf>manual</src.rf>
@@ -1078,7 +1087,10 @@
 <LM>w#w-ln95041-094-p2s8w2</LM>
 </w.rf>
 <form>Vytlačila</form>
-<tag lemma="vytlačit_:W" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag>
+<AM lemma="vytlačit_:W" src="orig">VpQW---XR-AA---</AM>
+<AM lemma="Vytlačil_;S" src="manual" selected="1">NNMS2-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95041-094-p2s8w3">
 <src.rf>manual</src.rf>
@@ -1102,7 +1114,10 @@
 <LM>w#w-ln95041-094-p2s8w5</LM>
 </w.rf>
 <form>Slovinci</form>
-<tag lemma="slovinec" src="orig" selected="1">NNMP1-----A----</tag>
+<tag>
+<AM lemma="slovinec" src="orig">NNMP1-----A----</AM>
+<AM lemma="Slovinec_;E" src="manual" selected="1">NNMP1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95041-094-p2s8w6">
 <src.rf>manual</src.rf>

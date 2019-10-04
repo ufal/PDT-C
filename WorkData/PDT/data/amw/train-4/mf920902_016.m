@@ -504,6 +504,7 @@
 <AM lemma="Marlboro_;K" src="auto" recommended="1">NNNS1-----A----</AM>
 <AM lemma="Marlboro_;K" src="auto">NNNS4-----A----</AM>
 <AM lemma="Marlboro_;K" src="auto">NNNS5-----A----</AM>
+<AM lemma="Marlboro_;K_;R" src="manual" selected="1">NNNS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920902-016-p2s2w6">
@@ -588,7 +589,7 @@
 <tag>
 <AM lemma="brzký" src="orig">AAFP6----2A----</AM>
 <AM lemma="dřívější" src="auto">AAFP2----2A----</AM>
-<AM lemma="dřívější" src="auto" recommended="1">AAFP6----2A----</AM>
+<AM lemma="dřívější" src="auto" recommended="1" selected="1">AAFP6----2A----</AM>
 <AM lemma="dřívější" src="auto">AAIP2----2A----</AM>
 <AM lemma="dřívější" src="auto">AAIP6----2A----</AM>
 <AM lemma="dřívější" src="auto">AAMP2----2A----</AM>
@@ -895,7 +896,10 @@
 <LM>w#w-mf920902-016-p2s4w15</LM>
 </w.rf>
 <form>Mars</form>
-<tag lemma="mars" src="orig" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="mars" src="orig">NNIS1-----A----</AM>
+<AM lemma="Mars-2_;R_^(planeta;;kosmická_sonda)" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920902-016-p2s4w16">
 <src.rf>manual</src.rf>
@@ -980,7 +984,7 @@
 <AM lemma="dřívější" src="auto">AAFP1----2A----</AM>
 <AM lemma="dřívější" src="auto">AAFP4----2A----</AM>
 <AM lemma="dřívější" src="auto">AAFP5----2A----</AM>
-<AM lemma="dřívější" src="auto" recommended="1">AAFS1----2A----</AM>
+<AM lemma="dřívější" src="auto" recommended="1" selected="1">AAFS1----2A----</AM>
 <AM lemma="dřívější" src="auto">AAFS2----2A----</AM>
 <AM lemma="dřívější" src="auto">AAFS3----2A----</AM>
 <AM lemma="dřívější" src="auto">AAFS4----2A----</AM>
@@ -1185,7 +1189,10 @@
 <LM>w#w-mf920902-016-p2s6w3</LM>
 </w.rf>
 <form>Start</form>
-<tag lemma="start" src="orig" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="start" src="orig">NNIS1-----A----</AM>
+<AM lemma="Start_;K_;R" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920902-016-p2s6w4">
 <src.rf>manual</src.rf>
@@ -1414,7 +1421,10 @@
 <LM>w#w-mf920902-016-p2s7w7</LM>
 </w.rf>
 <form>Start</form>
-<tag lemma="start" src="orig" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="start" src="orig">NNIS1-----A----</AM>
+<AM lemma="Start_;K_;R" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920902-016-p2s7w8">
 <src.rf>manual</src.rf>

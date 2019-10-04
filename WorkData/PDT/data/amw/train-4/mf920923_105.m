@@ -19,7 +19,10 @@
 <LM>w#w-mf920923-105-p1s1w1</LM>
 </w.rf>
 <form>Katechismus</form>
-<tag lemma="katechismus" src="orig" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="katechismus" src="orig">NNIS1-----A----</AM>
+<AM lemma="katechismus_,s_^(^DD**katechizmus)" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920923-105-p1s1w2">
 <src.rf>manual</src.rf>
@@ -349,7 +352,10 @@
 <LM>w#w-mf920923-105-p2s5w15</LM>
 </w.rf>
 <form>katechismu</form>
-<tag lemma="katechismus" src="orig" selected="1">NNIS2-----A----</tag>
+<tag>
+<AM lemma="katechismus" src="orig">NNIS2-----A----</AM>
+<AM lemma="katechismus_,s_^(^DD**katechizmus)" src="manual" selected="1">NNIS2-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920923-105-p2s5w16">
 <src.rf>manual</src.rf>
@@ -805,7 +811,10 @@
 <LM>w#w-mf920923-105-p3s2w5</LM>
 </w.rf>
 <form>katechismu</form>
-<tag lemma="katechismus" src="orig" selected="1">NNIS2-----A----</tag>
+<tag>
+<AM lemma="katechismus" src="orig">NNIS2-----A----</AM>
+<AM lemma="katechismus_,s_^(^DD**katechizmus)" src="manual" selected="1">NNIS2-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920923-105-p3s2w6">
 <src.rf>manual</src.rf>

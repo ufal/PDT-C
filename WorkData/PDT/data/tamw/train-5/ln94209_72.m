@@ -21,7 +21,7 @@
 <form>Talichovci</form>
 <tag>
 <AM lemma="Talichovec_;m" src="orig">NNMP1-----A----</AM>
-<AM lemma="Talichovci_;K_^(hudební_skupina)" src="auto" recommended="1">NNMP1-----A----</AM>
+<AM lemma="Talichovci_;K_^(hudební_skupina)" src="auto" recommended="1" selected="1">NNMP1-----A----</AM>
 <AM lemma="Talichovci_;K_^(hudební_skupina)" src="auto">NNMP5-----A----</AM>
 <AM lemma="Talichovci_;K_^(hudební_skupina)" src="auto">NNMP7-----A----</AM>
 </tag>
@@ -230,7 +230,10 @@
 <LM>w#w-ln94209-72-p2s2w10</LM>
 </w.rf>
 <form>Arturo</form>
-<tag lemma="Arturo_;Y_,t" src="auto" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Arturo_;Y_,t" src="auto">NNMS1-----A----</AM>
+<AM lemma="Arturo_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94209-72-p2s2w11">
 <src.rf>manual</src.rf>
@@ -589,6 +592,7 @@
 <AM lemma="renezanční" src="auto">AANS1----1A----</AM>
 <AM lemma="renezanční" src="auto">AANS4----1A----</AM>
 <AM lemma="renezanční" src="auto">AANS5----1A----</AM>
+<AM lemma="renesanční_,s_^(^DD**renezanční)" src="manual" selected="1">AAFS2----1A----</AM>
 </tag>
 </m>
 <m id="m-ln94209-72-p3s1w10">
@@ -631,7 +635,7 @@
 <form>Talichovce</form>
 <tag>
 <AM lemma="Talichovec_;m" src="orig">NNMP4-----A----</AM>
-<AM lemma="Talichovci_;K_^(hudební_skupina)" src="auto" recommended="1">NNMP4-----A----</AM>
+<AM lemma="Talichovci_;K_^(hudební_skupina)" src="auto" recommended="1" selected="1">NNMP4-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94209-72-p3s1w15">
@@ -722,7 +726,10 @@
 <LM>w#w-ln94209-72-p3s2w5</LM>
 </w.rf>
 <form>G</form>
-<tag lemma="g-3_^(označení_pomocí_písmene)" src="orig" selected="1">NNNXX-----A----</tag>
+<tag>
+<AM lemma="g-3_^(označení_pomocí_písmene)" src="orig">NNNXX-----A----</AM>
+<AM lemma="G-33_^(označení_pomocí_písmene)" src="manual" selected="1">NNNXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94209-72-p3s2w6">
 <src.rf>manual</src.rf>
@@ -869,7 +876,10 @@
 <LM>w#w-ln94209-72-p3s3w10</LM>
 </w.rf>
 <form>spíše</form>
-<tag lemma="spíše" src="orig" selected="1">Dg-------2A---1</tag>
+<tag>
+<AM lemma="spíše" src="orig">Dg-------2A---1</AM>
+<AM lemma="spíš" src="manual" selected="1">TT------------1</AM>
+</tag>
 </m>
 <m id="m-ln94209-72-p3s3w11">
 <src.rf>manual</src.rf>
@@ -1047,7 +1057,11 @@
 <LM>w#w-ln94209-72-p3s4w17</LM>
 </w.rf>
 <form>forte</form>
-<tag lemma="forte-2_,t" src="auto" selected="1">NNNXX-----A----</tag>
+<tag>
+<AM lemma="forte-2_,t" src="auto">NNNXX-----A----</AM>
+<AM lemma="forte-77" src="manual">F%-------------</AM>
+<AM lemma="forte-2" src="manual" selected="1">NNNXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94209-72-p3s4w18">
 <src.rf>manual</src.rf>
@@ -1146,7 +1160,7 @@
 </w.rf>
 <form>Es</form>
 <tag>
-<AM lemma="es_^(nota)" src="orig">NNNXX-----A----</AM>
+<AM lemma="es_^(nota)" src="orig" selected="1">NNNXX-----A----</AM>
 <AM lemma="eso" src="auto" recommended="1">NNNP2-----A----</AM>
 </tag>
 </m>
@@ -1350,7 +1364,10 @@
 <LM>w#w-ln94209-72-p3s6w3</LM>
 </w.rf>
 <form>st</form>
-<tag lemma="starší_:B" src="orig" selected="1">AAXXX----1A---8</tag>
+<tag>
+<AM lemma="starší_:B" src="orig">AAXXX----1A---8</AM>
+<AM lemma="starší" src="manual" selected="1">AAXXX----1A---8</AM>
+</tag>
 </m>
 <m id="m-ln94209-72-p3s6w4">
 <src.rf>manual</src.rf>
@@ -1374,7 +1391,10 @@
 <LM>w#w-ln94209-72-p3s6w6</LM>
 </w.rf>
 <form>ml</form>
-<tag lemma="mladý_:B" src="orig" selected="1">AAXXX----2A---8</tag>
+<tag>
+<AM lemma="mladý_:B" src="orig">AAXXX----2A---8</AM>
+<AM lemma="mladý" src="manual" selected="1">AAXXX----2A---8</AM>
+</tag>
 </m>
 <m id="m-ln94209-72-p3s6w7">
 <src.rf>manual</src.rf>
@@ -1762,7 +1782,10 @@
 <LM>w#w-ln94209-72-p3s8w7</LM>
 </w.rf>
 <form>E</form>
-<tag lemma="e-3_^(označení_pomocí_písmene)" src="orig" selected="1">NNNXX-----A----</tag>
+<tag>
+<AM lemma="e-3_^(označení_pomocí_písmene)" src="orig">NNNXX-----A----</AM>
+<AM lemma="E-33_^(označení_pomocí_písmene)" src="manual" selected="1">NNNXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94209-72-p3s8w8">
 <src.rf>manual</src.rf>

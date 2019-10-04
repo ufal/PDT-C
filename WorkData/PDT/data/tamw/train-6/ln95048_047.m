@@ -541,7 +541,7 @@
 <form>nacismu</form>
 <tag>
 <AM lemma="nacismus" src="orig">NNIS2-----A----</AM>
-<AM lemma="nacizmus" src="auto" recommended="1">NNIS2-----A----</AM>
+<AM lemma="nacizmus" src="auto" recommended="1" selected="1">NNIS2-----A----</AM>
 <AM lemma="nacizmus" src="auto">NNIS3-----A----</AM>
 <AM lemma="nacizmus" src="auto">NNIS6-----A----</AM>
 </tag>
@@ -876,6 +876,11 @@
 <AM lemma="vyznívající_^(*4t)" src="auto">AGNS4-----A----</AM>
 <AM lemma="vyznívající_^(*4t)" src="auto">AGNS5-----A----</AM>
 </tag>
+<comment>
+<LM type="New Form">
+<text>vyznívajících</text>
+</LM>
+</comment>
 </m>
 <m id="m-ln95048-047-p2s4w14">
 <src.rf>manual</src.rf>
@@ -1172,7 +1177,11 @@
 <LM>w#w-ln95048-047-p2s5w21</LM>
 </w.rf>
 <form>konjunkturalismu</form>
-<tag lemma="konjunkturalismus" src="orig" selected="1">NNIS2-----A----</tag>
+<tag>
+<AM lemma="konjunkturalismus" src="orig">NNIS2-----A----</AM>
+<AM lemma="konjunkturalismus_,s_^(^DD** konjunkturalizmus(" src="manual">NNIS2-----A----</AM>
+<AM lemma="konjunkturalismus_,s_^(^DD**konjunkturalizmus)" src="manual" selected="1">NNIS2-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95048-047-p2s5w22">
 <src.rf>manual</src.rf>

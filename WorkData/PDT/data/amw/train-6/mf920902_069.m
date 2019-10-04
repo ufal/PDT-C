@@ -61,7 +61,10 @@
 <LM>w#w-mf920902-069-p2s1w3</LM>
 </w.rf>
 <form>Diego</form>
-<tag lemma="Diego_;S_;Y_,t" src="auto" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Diego_;S_;Y_,t" src="auto">NNMS1-----A----</AM>
+<AM lemma="Diego_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920902-069-p2s1w4">
 <src.rf>manual</src.rf>
@@ -337,7 +340,10 @@
 <LM>w#w-mf920902-069-p2s3w4</LM>
 </w.rf>
 <form>SSC</form>
-<tag lemma="SSC_:B" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="SSC_:B" src="orig">NNXXX-----A---8</AM>
+<AM lemma="SSC-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-mf920902-069-p2s3w5">
 <src.rf>manual</src.rf>

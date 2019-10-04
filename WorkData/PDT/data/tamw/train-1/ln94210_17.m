@@ -694,9 +694,14 @@
 </w.rf>
 <form>Breguet</form>
 <tag>
-<AM lemma="Breguet_;K" src="orig">NNIS1-----A----</AM>
+<AM lemma="Breguet_;K" src="orig" selected="1">NNIS1-----A----</AM>
 <AM lemma="Breguet_;S" src="auto" recommended="1">NNMS1-----A----</AM>
 </tag>
+<comment>
+<LM type="Other">
+<text>ponechána původní "červená" analýza</text>
+</LM>
+</comment>
 </m>
 <m id="m-ln94210-17-p3s2w20">
 <src.rf>manual</src.rf>
@@ -736,7 +741,10 @@
 <LM>w#w-ln94210-17-p3s2w24</LM>
 </w.rf>
 <form>VMV</form>
-<tag lemma="VMV_:B_;K" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="VMV_:B_;K" src="orig">NNFXX-----A---8</AM>
+<AM lemma="VMV-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94210-17-p3s2w25">
 <src.rf>manual</src.rf>
@@ -827,9 +835,14 @@
 </w.rf>
 <form>Breguet</form>
 <tag>
-<AM lemma="Breguet_;K" src="orig">NNIS1-----A----</AM>
+<AM lemma="Breguet_;K" src="orig" selected="1">NNIS1-----A----</AM>
 <AM lemma="Breguet_;S" src="auto" recommended="1">NNMS1-----A----</AM>
 </tag>
+<comment>
+<LM type="Other">
+<text>ponechána původní "červená" analýza</text>
+</LM>
+</comment>
 </m>
 <m id="m-ln94210-17-p4s1w5">
 <src.rf>manual</src.rf>
@@ -1290,7 +1303,10 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>milionů</form>
-<tag lemma="milión`1000000" src="orig" selected="1">NNIP2-----A----</tag>
+<tag>
+<AM lemma="milión`1000000" src="orig">NNIP2-----A----</AM>
+<AM lemma="milion`1000000_,s_^(^DD**milión)" src="manual" selected="1">NNIP2-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94210-17-p4s3w7">
 <src.rf>manual</src.rf>
@@ -1322,7 +1338,10 @@
 <LM>w#w-ln94210-17-p4s3w10</LM>
 </w.rf>
 <form>milionu</form>
-<tag lemma="milión`1000000" src="orig" selected="1">NNIS2-----A----</tag>
+<tag>
+<AM lemma="milión`1000000" src="orig">NNIS2-----A----</AM>
+<AM lemma="milion`1000000_,s_^(^DD**milión)" src="manual" selected="1">NNIS2-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94210-17-p4s3w11">
 <src.rf>manual</src.rf>
@@ -1333,6 +1352,7 @@
 <tag>
 <AM lemma="Kč" src="orig">NNFXX-----A----</AM>
 <AM lemma="Kč_:B" src="auto" recommended="1">NNFXX-----A---8</AM>
+<AM lemma="Kč_:B" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94210-17-p4s3w12">
@@ -1635,7 +1655,7 @@
 <form>Letu</form>
 <tag>
 <AM lemma="Let_;K" src="orig">NNIS2-----A----</AM>
-<AM lemma="let" src="auto" recommended="1">NNIS2-----A----</AM>
+<AM lemma="let" src="auto" recommended="1" selected="1">NNIS2-----A----</AM>
 <AM lemma="let" src="auto">NNIS3-----A----</AM>
 <AM lemma="let" src="auto">NNIS6-----A----</AM>
 </tag>
@@ -1712,7 +1732,10 @@
 <LM>w#w-ln94210-17-p5s3w7</LM>
 </w.rf>
 <form>Zetor</form>
-<tag lemma="Zetor_;R" src="auto" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="Zetor_;R" src="auto">NNIS1-----A----</AM>
+<AM lemma="Zetor_;K_;R" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94210-17-p5s3w8">
 <src.rf>manual</src.rf>

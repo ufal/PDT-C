@@ -255,7 +255,10 @@
 <LM>w#w-ln94201-103-p2s2w13</LM>
 </w.rf>
 <form>SSSR</form>
-<tag lemma="SSSR_:B_;G_^(Svaz_sov._socialist._republik)" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="SSSR_:B_;G_^(Svaz_sov._socialist._republik)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="SSSR-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln94201-103-p2s2w14">
 <src.rf>manual</src.rf>
@@ -459,7 +462,10 @@
 <LM>w#w-ln94201-103-p3s1w5</LM>
 </w.rf>
 <form>SSSR</form>
-<tag lemma="SSSR_:B_;G_^(Svaz_sov._socialist._republik)" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="SSSR_:B_;G_^(Svaz_sov._socialist._republik)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="SSSR-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln94201-103-p3s1w6">
 <src.rf>manual</src.rf>
@@ -708,6 +714,7 @@
 <AM lemma="AB_:B_;K_;b_^(společnost,_v_sev._zemích)" src="auto" recommended="1">NNFXX-----A---8</AM>
 <AM lemma="Aba_;Y" src="auto">NNFP2-----A----</AM>
 <AM lemma="aba_,t_^(arabský_plášť)" src="auto">NNFP2-----A----</AM>
+<AM lemma="AB-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-ln94201-103-p3s3w7">
@@ -719,6 +726,8 @@
 <tag>
 <AM lemma="obměn_,t" src="orig">NNIS1-----A----</AM>
 <AM lemma="obměna" src="auto" recommended="1">NNFP2-----A----</AM>
+<AM lemma="Obměn-88_:B" src="manual">NNXXX-----A---8</AM>
+<AM lemma="Obměn-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-ln94201-103-p3s3w8">
@@ -740,6 +749,8 @@
 <AM lemma="AB_:B_;K_;b_^(společnost,_v_sev._zemích)" src="auto" recommended="1">NNFXX-----A---8</AM>
 <AM lemma="Aba_;Y" src="auto">NNFP2-----A----</AM>
 <AM lemma="aba_,t_^(arabský_plášť)" src="auto">NNFP2-----A----</AM>
+<AM lemma="AB-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="AB-77" src="manual">F%-------------</AM>
 </tag>
 </m>
 <m id="m-ln94201-103-p3s3w10">
@@ -748,7 +759,11 @@
 <LM>w#w-ln94201-103-p3s3w10</LM>
 </w.rf>
 <form>Služobnaja</form>
-<tag lemma="služobnyj_,t" src="orig" selected="1">AAFS1----1A----</tag>
+<tag>
+<AM lemma="služobnyj_,t" src="orig">AAFS1----1A----</AM>
+<AM lemma="Služobnaja-88_:B" src="manual">NNXXX-----A---8</AM>
+<AM lemma="Služobnaja-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94201-103-p3s3w11">
 <src.rf>manual</src.rf>
@@ -1429,6 +1444,11 @@
 <AM lemma="německý" src="auto">AAMS6----1A----</AM>
 <AM lemma="německý" src="auto" recommended="1">AANS6----1A----</AM>
 </tag>
+<comment>
+<LM type="New Form">
+<text>Nemeckém</text>
+</LM>
+</comment>
 </m>
 <m id="m-ln94201-103-p5s1w20">
 <src.rf>manual</src.rf>

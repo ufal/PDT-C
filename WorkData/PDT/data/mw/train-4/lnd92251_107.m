@@ -202,7 +202,7 @@
 <tag>
 <AM lemma="tedy" src="orig">Db-------------</AM>
 <AM lemma="tedy-1" src="auto">TT-------------</AM>
-<AM lemma="tedy-2" src="auto" recommended="1">J^-------------</AM>
+<AM lemma="tedy-2" src="auto" recommended="1" selected="1">J^-------------</AM>
 </tag>
 </m>
 <m id="m-lnd92251-107-p2s2w19">
@@ -1031,7 +1031,10 @@
 <LM>w#w-lnd92251-107-p2s8w18</LM>
 </w.rf>
 <form>power</form>
-<tag lemma="power_,t_^(angl._adj.)" src="auto" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="power_,t_^(angl._adj.)" src="auto">AAXXX----1A----</AM>
+<AM lemma="power-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-lnd92251-107-p2s8w19">
 <src.rf>manual</src.rf>
@@ -1039,7 +1042,10 @@
 <LM>w#w-lnd92251-107-p2s8w19</LM>
 </w.rf>
 <form>play</form>
-<tag lemma="play-1_,t" src="orig" selected="1">NNFXX-----A----</tag>
+<tag>
+<AM lemma="play-1_,t" src="orig">NNFXX-----A----</AM>
+<AM lemma="play-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-lnd92251-107-p2s8w20">
 <src.rf>manual</src.rf>
@@ -1369,7 +1375,10 @@
 <LM>w#w-lnd92251-107-p4s7w1</LM>
 </w.rf>
 <form>Pavéza</form>
-<tag lemma="pavéza" src="orig" selected="1">NNFS1-----A----</tag>
+<tag>
+<AM lemma="pavéza" src="orig">NNFS1-----A----</AM>
+<AM lemma="Pavéza_;S" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92251-107-p4s7w2">
 <src.rf>manual</src.rf>
@@ -2385,7 +2394,10 @@
 <LM>w#w-lnd92251-107-p9s2w1</LM>
 </w.rf>
 <form>Prachař</form>
-<tag lemma="prachař" src="orig" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="prachař" src="orig">NNMS1-----A----</AM>
+<AM lemma="Prachař_;S" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92251-107-p9s2w2">
 <src.rf>manual</src.rf>
@@ -2646,7 +2658,7 @@
 </w.rf>
 <form>Český</form>
 <tag>
-<AM lemma="Český_;S" src="orig">NNMS1-----A----</AM>
+<AM lemma="Český_;S" src="orig" selected="1">NNMS1-----A----</AM>
 <AM lemma="Český-1_;G_^(používá_se_i_pro_jména_org.,_výrobků_atd.)" src="auto">AAFP1----1A---6</AM>
 <AM lemma="Český-1_;G_^(používá_se_i_pro_jména_org.,_výrobků_atd.)" src="auto">AAFP4----1A---6</AM>
 <AM lemma="Český-1_;G_^(používá_se_i_pro_jména_org.,_výrobků_atd.)" src="auto">AAFP5----1A---6</AM>
@@ -2709,7 +2721,10 @@
 <LM>w#w-lnd92251-107-p9s8w6</LM>
 </w.rf>
 <form>Fraňo</form>
-<tag lemma="Fraňo_;Y_,t" src="orig" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Fraňo_;Y_,t" src="orig">NNMS1-----A----</AM>
+<AM lemma="Fraňo_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92251-107-p9s8w7">
 <src.rf>manual</src.rf>
@@ -2965,7 +2980,10 @@
 <LM>w#w-lnd92251-107-p10s2w1</LM>
 </w.rf>
 <form>Č</form>
-<tag lemma="český_:B" src="orig" selected="1">AAXXX----1A---8</tag>
+<tag>
+<AM lemma="český_:B" src="orig">AAXXX----1A---8</AM>
+<AM lemma="český" src="manual" selected="1">AAXXX----1A---8</AM>
+</tag>
 </m>
 <m id="m-lnd92251-107-p10s2w2">
 <src.rf>manual</src.rf>
@@ -3190,6 +3208,8 @@
 <AM lemma="Mir-1_;R_,t_^(ruská_kosmická_stanice)" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Mir-1_;R_,t_^(ruská_kosmická_stanice)" src="auto">NNIS4-----A----</AM>
 <AM lemma="Mira_;G_;Y" src="auto">NNFP2-----A----</AM>
+<AM lemma="Mir-88_:B" src="manual">NNXXX-----A---8</AM>
+<AM lemma="Mir-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92251-107-p11s6w2">
@@ -3600,7 +3620,10 @@
 <LM>w#w-lnd92251-107-p13s2w1</LM>
 </w.rf>
 <form>Č</form>
-<tag lemma="český_:B" src="orig" selected="1">AAXXX----1A---8</tag>
+<tag>
+<AM lemma="český_:B" src="orig">AAXXX----1A---8</AM>
+<AM lemma="český" src="manual" selected="1">AAXXX----1A---8</AM>
+</tag>
 </m>
 <m id="m-lnd92251-107-p13s2w2">
 <src.rf>manual</src.rf>

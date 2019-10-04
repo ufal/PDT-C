@@ -58,6 +58,7 @@
 <AM lemma="hoj" src="auto" recommended="1">II-------------</AM>
 <AM lemma="hojit_:T" src="auto">Vi-S---2--A----</AM>
 <AM lemma="hojit_:T" src="auto">Vi-S---3--A---4</AM>
+<AM lemma="hoj-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92255-027-p2s1w4">
@@ -116,7 +117,10 @@
 <LM>w#w-lnd92255-027-p2s2w5</LM>
 </w.rf>
 <form>genpor</form>
-<tag lemma="generálporučík_:B" src="orig" selected="1">NNMXX-----A---8</tag>
+<tag>
+<AM lemma="generálporučík_:B" src="orig">NNMXX-----A---8</AM>
+<AM lemma="genpor-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92255-027-p2s2w6">
 <src.rf>manual</src.rf>
@@ -222,7 +226,10 @@
 <LM>w#w-lnd92255-027-p2s3w12</LM>
 </w.rf>
 <form>ČSFR</form>
-<tag lemma="ČSFR-1_:B_;G_^(Čs._federativní_republika)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ČSFR-1_:B_;G_^(Čs._federativní_republika)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČSFR-1_:B_;G_^(Čs._federativní_republika)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92255-027-p2s3w13">
 <src.rf>manual</src.rf>
@@ -230,7 +237,10 @@
 <LM>w#w-lnd92255-027-p2s3w13</LM>
 </w.rf>
 <form>genmjr</form>
-<tag lemma="generálmajor_:B" src="orig" selected="1">NNMXX-----A---8</tag>
+<tag>
+<AM lemma="generálmajor_:B" src="orig">NNMXX-----A---8</AM>
+<AM lemma="genmjr-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92255-027-p2s3w14">
 <src.rf>manual</src.rf>
@@ -779,6 +789,7 @@
 <AM lemma="terorizmus" src="auto">NNIS2-----A----</AM>
 <AM lemma="terorizmus" src="auto" recommended="1">NNIS3-----A----</AM>
 <AM lemma="terorizmus" src="auto">NNIS6-----A----</AM>
+<AM lemma="terorismus_,s_^(^DD**terorizmus)" src="manual" selected="1">NNIS3-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92255-027-p2s7w25">

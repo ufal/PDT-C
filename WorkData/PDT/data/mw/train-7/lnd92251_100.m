@@ -477,7 +477,10 @@
 <LM>w#w-lnd92251-100-p3s4w18</LM>
 </w.rf>
 <form>power</form>
-<tag lemma="power_,t_^(angl._adj.)" src="auto" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="power_,t_^(angl._adj.)" src="auto">AAXXX----1A----</AM>
+<AM lemma="power-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-lnd92251-100-p3s4w19">
 <src.rf>manual</src.rf>
@@ -485,7 +488,10 @@
 <LM>w#w-lnd92251-100-p3s4w19</LM>
 </w.rf>
 <form>play</form>
-<tag lemma="play-1_,t" src="orig" selected="1">NNFXX-----A----</tag>
+<tag>
+<AM lemma="play-1_,t" src="orig">NNFXX-----A----</AM>
+<AM lemma="play-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-lnd92251-100-p3s4w20">
 <src.rf>manual</src.rf>
@@ -939,7 +945,10 @@
 <LM>w#w-lnd92251-100-p5s7w1</LM>
 </w.rf>
 <form>Vyloučení</form>
-<tag lemma="vyloučení_^(*3it)" src="orig" selected="1">NNNS1-----A----</tag>
+<tag>
+<AM lemma="vyloučení_^(*3it)" src="orig">NNNS1-----A----</AM>
+<AM lemma="vyloučení_^(*3it)" src="manual" selected="1">NNNP1-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92251-100-p5s7w2">
 <src.rf>manual</src.rf>
@@ -979,7 +988,10 @@
 <LM>w#w-lnd92251-100-p5s7w6</LM>
 </w.rf>
 <form>oslabení</form>
-<tag lemma="oslabení_^(*3it)" src="orig" selected="1">NNNS1-----A----</tag>
+<tag>
+<AM lemma="oslabení_^(*3it)" src="orig">NNNS1-----A----</AM>
+<AM lemma="oslabení_^(*3it)" src="manual" selected="1">NNNP1-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92251-100-p5s7w7">
 <src.rf>manual</src.rf>

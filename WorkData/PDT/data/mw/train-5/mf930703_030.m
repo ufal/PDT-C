@@ -77,7 +77,10 @@
 <LM>w#w-mf930703-030-p2s1w3</LM>
 </w.rf>
 <form>jh</form>
-<tag lemma="jh-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="jh-99_:B_;S" src="orig">NNXXX-----A---8</AM>
+<AM lemma="jh-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930703-030-p2s1w4">
 <src.rf>manual</src.rf>
@@ -611,7 +614,10 @@
 <LM>w#w-mf930703-030-p2s4w24</LM>
 </w.rf>
 <form>jen</form>
-<tag lemma="jen-1" src="auto" selected="1">TT-------------</tag>
+<tag>
+<AM lemma="jen-1" src="auto">TT-------------</AM>
+<AM lemma="jen-4_^(pouze)" src="manual" selected="1">Db-------------</AM>
+</tag>
 </m>
 <m id="m-mf930703-030-p2s4w25">
 <src.rf>manual</src.rf>

@@ -19,7 +19,10 @@
 <LM>w#w-mf920901-070-p1s1Aw1</LM>
 </w.rf>
 <form>FBIS</form>
-<tag lemma="FBIS_:B_^(Feder._bezp._informační_služba)" src="auto" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="FBIS_:B_^(Feder._bezp._informační_služba)" src="auto">NNFXX-----A---8</AM>
+<AM lemma="FBIS-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-mf920901-070-p1s1Aw2">
 <src.rf>manual</src.rf>
@@ -289,7 +292,10 @@
 <LM>w#w-mf920901-070-p2s2w22</LM>
 </w.rf>
 <form>FBIS</form>
-<tag lemma="FBIS_:B_^(Feder._bezp._informační_služba)" src="auto" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="FBIS_:B_^(Feder._bezp._informační_služba)" src="auto">NNFXX-----A---8</AM>
+<AM lemma="FBIS-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-mf920901-070-p2s2w23">
 <src.rf>manual</src.rf>
@@ -441,7 +447,10 @@
 <LM>w#w-mf920901-070-p2s2w42</LM>
 </w.rf>
 <form>Slovák</form>
-<tag lemma="Slovák_;E" src="orig" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Slovák_;E" src="orig">NNMS1-----A----</AM>
+<AM lemma="Slovák_;S_;E" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920901-070-p2s2w43">
 <src.rf>manual</src.rf>
@@ -529,7 +538,10 @@
 <LM>w#w-mf920901-070-p2s2w53</LM>
 </w.rf>
 <form>FBIS</form>
-<tag lemma="FBIS_:B_^(Feder._bezp._informační_služba)" src="auto" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="FBIS_:B_^(Feder._bezp._informační_služba)" src="auto">NNFXX-----A---8</AM>
+<AM lemma="FBIS-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-mf920901-070-p2s2w54">
 <src.rf>manual</src.rf>
@@ -576,6 +588,7 @@
 <AM lemma="TK_:B" src="auto">NNXXX-----A---8</AM>
 <AM lemma="Tk_:B_;K" src="auto" recommended="1">NNISX-----A---8</AM>
 <AM lemma="tknout" src="auto">VpYS---XR-AA--6</AM>
+<AM lemma="TK-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-mf920901-070-p2s3w5">
@@ -648,7 +661,10 @@
 <LM>w#w-mf920901-070-p2s3w13</LM>
 </w.rf>
 <form>FBIS</form>
-<tag lemma="FBIS_:B_^(Feder._bezp._informační_služba)" src="auto" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="FBIS_:B_^(Feder._bezp._informační_služba)" src="auto">NNFXX-----A---8</AM>
+<AM lemma="FBIS-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-mf920901-070-p2s3w14">
 <src.rf>manual</src.rf>
@@ -896,6 +912,7 @@
 <AM lemma="terorismus" src="orig">NNIS1-----A----</AM>
 <AM lemma="terorizmus" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="terorizmus" src="auto">NNIS4-----A----</AM>
+<AM lemma="terorismus_,s_^(^DD**terorizmus)" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920901-070-p2s5w4">
@@ -1024,7 +1041,10 @@
 <LM>w#w-mf920901-070-p2s5w19</LM>
 </w.rf>
 <form>P</form>
-<tag lemma="P-0_:B_;Y" src="orig" selected="1">NNMXX-----A---8</tag>
+<tag>
+<AM lemma="P-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
+<AM lemma="P-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-mf920901-070-p2s5w20">
 <src.rf>manual</src.rf>
@@ -1040,7 +1060,10 @@
 <LM>w#w-mf920901-070-p2s5w21</LM>
 </w.rf>
 <form>Slovák</form>
-<tag lemma="Slovák_;E" src="auto" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Slovák_;E" src="auto">NNMS1-----A----</AM>
+<AM lemma="Slovák_;S_;E" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920901-070-p2s5w22">
 <src.rf>manual</src.rf>
@@ -1228,7 +1251,10 @@
 <LM>w#w-mf920901-070-p2s7w9</LM>
 </w.rf>
 <form>FBIS</form>
-<tag lemma="FBIS_:B_^(Feder._bezp._informační_služba)" src="auto" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="FBIS_:B_^(Feder._bezp._informační_služba)" src="auto">NNFXX-----A---8</AM>
+<AM lemma="FBIS-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-mf920901-070-p2s7w10">
 <src.rf>manual</src.rf>
@@ -1276,7 +1302,10 @@
 <LM>w#w-mf920901-070-p2s7w15</LM>
 </w.rf>
 <form>FBIS</form>
-<tag lemma="FBIS_:B_^(Feder._bezp._informační_služba)" src="auto" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="FBIS_:B_^(Feder._bezp._informační_služba)" src="auto">NNFXX-----A---8</AM>
+<AM lemma="FBIS-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-mf920901-070-p2s7w16">
 <src.rf>manual</src.rf>
@@ -1414,7 +1443,10 @@
 <LM>w#w-mf920901-070-p2s8w14</LM>
 </w.rf>
 <form>FBIS</form>
-<tag lemma="FBIS_:B_^(Feder._bezp._informační_služba)" src="auto" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="FBIS_:B_^(Feder._bezp._informační_služba)" src="auto">NNFXX-----A---8</AM>
+<AM lemma="FBIS-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-mf920901-070-p2s8w15">
 <src.rf>manual</src.rf>
@@ -1488,7 +1520,10 @@
 <LM>w#w-mf920901-070-p3s1w5</LM>
 </w.rf>
 <form>FBIS</form>
-<tag lemma="FBIS_:B_^(Feder._bezp._informační_služba)" src="auto" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="FBIS_:B_^(Feder._bezp._informační_služba)" src="auto">NNFXX-----A---8</AM>
+<AM lemma="FBIS-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-mf920901-070-p3s1w6">
 <src.rf>manual</src.rf>
@@ -1884,7 +1919,10 @@
 <LM>w#w-mf920901-070-p4s1w3</LM>
 </w.rf>
 <form>FBIS</form>
-<tag lemma="FBIS_:B_^(Feder._bezp._informační_služba)" src="auto" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="FBIS_:B_^(Feder._bezp._informační_služba)" src="auto">NNFXX-----A---8</AM>
+<AM lemma="FBIS-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-mf920901-070-p4s1w4">
 <src.rf>manual</src.rf>
@@ -1940,7 +1978,10 @@
 <LM>w#w-mf920901-070-p4s1w10</LM>
 </w.rf>
 <form>ČSFR</form>
-<tag lemma="ČSFR-1_:B_;G_^(Čs._federativní_republika)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ČSFR-1_:B_;G_^(Čs._federativní_republika)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČSFR-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-mf920901-070-p4s1w11">
 <src.rf>manual</src.rf>
@@ -1972,7 +2013,10 @@
 <LM>w#w-mf920901-070-p4s1w14</LM>
 </w.rf>
 <form>HZDS</form>
-<tag lemma="HZDS-1_:B_;K_;p_,t_^(Hnutie_za_demokratické_Slovensko)" src="orig" selected="1">NNNXX-----A---8</tag>
+<tag>
+<AM lemma="HZDS-1_:B_;K_;p_,t_^(Hnutie_za_demokratické_Slovensko)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="HZDS-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-mf920901-070-p4s1w15">
 <src.rf>manual</src.rf>
@@ -2240,7 +2284,10 @@
 <LM>w#w-mf920901-070-p5s1w3</LM>
 </w.rf>
 <form>M</form>
-<tag lemma="M-0_:B_;Y" src="orig" selected="1">NNMXX-----A---8</tag>
+<tag>
+<AM lemma="M-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
+<AM lemma="M-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-mf920901-070-p5s1w4">
 <src.rf>manual</src.rf>
@@ -2360,7 +2407,10 @@
 <LM>w#w-mf920901-070-p5s1w18</LM>
 </w.rf>
 <form>ČSFR</form>
-<tag lemma="ČSFR-1_:B_;G_^(Čs._federativní_republika)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ČSFR-1_:B_;G_^(Čs._federativní_republika)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČSFR-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-mf920901-070-p5s1w19">
 <src.rf>manual</src.rf>
@@ -2522,7 +2572,10 @@
 <LM>w#w-mf920901-070-p5s2w10</LM>
 </w.rf>
 <form>ČSFR</form>
-<tag lemma="ČSFR-1_:B_;G_^(Čs._federativní_republika)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ČSFR-1_:B_;G_^(Čs._federativní_republika)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČSFR-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-mf920901-070-p5s2w11">
 <src.rf>manual</src.rf>
@@ -2588,7 +2641,10 @@
 <LM>w#w-mf920901-070-p6s1w1</LM>
 </w.rf>
 <form>M</form>
-<tag lemma="M-0_:B_;Y" src="orig" selected="1">NNMXX-----A---8</tag>
+<tag>
+<AM lemma="M-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
+<AM lemma="M-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-mf920901-070-p6s1w2">
 <src.rf>manual</src.rf>
@@ -2724,7 +2780,10 @@
 <LM>w#w-mf920901-070-p6s1w18</LM>
 </w.rf>
 <form>ČSFR</form>
-<tag lemma="ČSFR-1_:B_;G_^(Čs._federativní_republika)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ČSFR-1_:B_;G_^(Čs._federativní_republika)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČSFR-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-mf920901-070-p6s1w19">
 <src.rf>manual</src.rf>
@@ -2848,7 +2907,10 @@
 <LM>w#w-mf920901-070-p7s1w1</LM>
 </w.rf>
 <form>M</form>
-<tag lemma="M-0_:B_;Y" src="orig" selected="1">NNMXX-----A---8</tag>
+<tag>
+<AM lemma="M-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
+<AM lemma="M-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-mf920901-070-p7s1w2">
 <src.rf>manual</src.rf>

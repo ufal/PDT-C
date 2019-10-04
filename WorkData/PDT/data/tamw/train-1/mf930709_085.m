@@ -124,6 +124,7 @@
 <AM lemma="mn-99_:B_;S" src="orig">NNXXX-----A---8</AM>
 <AM lemma="mn-3_:B_^(malé_napětí)" src="auto" recommended="1">NNNXX-----A----</AM>
 <AM lemma="mnoho-1_:B_,a" src="auto">Ca--X---------8</AM>
+<AM lemma="mn-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930709-085-p1s1Cw4">
@@ -438,7 +439,10 @@
 <LM>w#w-mf930709-085-p1s1Dw37</LM>
 </w.rf>
 <form>D</form>
-<tag lemma="D-5_:B_;G" src="orig" selected="1">AAXXX----1A---8</tag>
+<tag>
+<AM lemma="D-5_:B_;G" src="orig">AAXXX----1A---8</AM>
+<AM lemma="D-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930709-085-p1s1Dw38">
 <src.rf>manual</src.rf>
@@ -874,7 +878,10 @@
 <LM>w#w-mf930709-085-p1s3w24</LM>
 </w.rf>
 <form>Samec</form>
-<tag lemma="samec" src="orig" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="samec" src="orig">NNMS1-----A----</AM>
+<AM lemma="Samec_;S" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930709-085-p1s3w25">
 <src.rf>manual</src.rf>
@@ -1553,7 +1560,7 @@
 <tag>
 <AM lemma="Lázně_;G" src="orig">NNFP6-----A----</AM>
 <AM lemma="lázeň" src="auto">NNFP6-----A----</AM>
-<AM lemma="lázně" src="auto" recommended="1">NNFP6-----A----</AM>
+<AM lemma="lázně" src="auto" recommended="1" selected="1">NNFP6-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930709-085-p1s5w41">

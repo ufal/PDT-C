@@ -263,7 +263,10 @@
 <LM>w#w-ln94203-41-p2s1Bw22</LM>
 </w.rf>
 <form>popř</form>
-<tag lemma="popřípadě_:B" src="orig" selected="1">Db------------8</tag>
+<tag>
+<AM lemma="popřípadě_:B" src="orig">Db------------8</AM>
+<AM lemma="popřípadě" src="manual" selected="1">Db------------8</AM>
+</tag>
 </m>
 <m id="m-ln94203-41-p2s1Bw23">
 <src.rf>manual</src.rf>
@@ -1057,7 +1060,10 @@
 <LM>w#w-ln94203-41-p4s2w8</LM>
 </w.rf>
 <form>ČR</form>
-<tag lemma="ČR-1_:B_;G_^(Česká_republika)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="manual" selected="1">NNFXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94203-41-p4s2w9">
 <src.rf>manual</src.rf>
@@ -1153,7 +1159,10 @@
 <LM>w#w-ln94203-41-p4s2w20</LM>
 </w.rf>
 <form>ČR</form>
-<tag lemma="ČR-1_:B_;G_^(Česká_republika)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="manual" selected="1">NNFXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94203-41-p4s2w21">
 <src.rf>manual</src.rf>

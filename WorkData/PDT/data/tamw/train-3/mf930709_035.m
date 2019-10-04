@@ -281,7 +281,10 @@
 <LM>w#w-mf930709-035-p2s2w5</LM>
 </w.rf>
 <form>mj</form>
-<tag lemma="mj-1_:B_^(mimo_jiné)" src="orig" selected="1">Db------------8</tag>
+<tag>
+<AM lemma="mj-1_:B_^(mimo_jiné)" src="orig">Db------------8</AM>
+<AM lemma="mj-1_:B_^(mimo_jiné)" src="manual" selected="1">Db-------------</AM>
+</tag>
 </m>
 <m id="m-mf930709-035-p2s2w6">
 <src.rf>manual</src.rf>
@@ -305,7 +308,10 @@
 <LM>w#w-mf930709-035-p2s2w8</LM>
 </w.rf>
 <form>BIS</form>
-<tag lemma="BIS_:B_^(Bezp._informační_služba)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="BIS_:B_^(Bezp._informační_služba)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="BIS-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930709-035-p2s2w9">
 <src.rf>manual</src.rf>
@@ -483,7 +489,10 @@
 <LM>w#w-mf930709-035-p2s3w12</LM>
 </w.rf>
 <form>BIS</form>
-<tag lemma="BIS_:B_^(Bezp._informační_služba)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="BIS_:B_^(Bezp._informační_služba)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="BIS-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930709-035-p2s3w13">
 <src.rf>manual</src.rf>
@@ -579,6 +588,7 @@
 <AM lemma="li-99_:B_;S" src="orig">NNXXX-----A---8</AM>
 <AM lemma="li-1" src="auto" recommended="1">TT-------------</AM>
 <AM lemma="li-2" src="auto">J,-------------</AM>
+<AM lemma="li-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930709-035-p4s1Aw4">

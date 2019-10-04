@@ -59,7 +59,10 @@
 <LM>w#w-lnd92255-002-p1s1w6</LM>
 </w.rf>
 <form>tzv</form>
-<tag lemma="takzvaný_:B" src="orig" selected="1">AAXXX----1A---8</tag>
+<tag>
+<AM lemma="takzvaný_:B" src="orig">AAXXX----1A---8</AM>
+<AM lemma="takzvaný" src="manual" selected="1">AAXXX----1A---8</AM>
+</tag>
 </m>
 <m id="m-lnd92255-002-p1s1w7">
 <src.rf>manual</src.rf>
@@ -127,6 +130,7 @@
 <AM lemma="embólie" src="orig">NNFP2-----A----</AM>
 <AM lemma="embolie" src="auto" recommended="1">NNFP2-----A----</AM>
 <AM lemma="embolie" src="auto">NNFS7-----A----</AM>
+<AM lemma="embólie_,s_^(^DD**embolie)" src="manual" selected="1">NNFP2-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92255-002-p1s1w15">
@@ -531,7 +535,10 @@
 <LM>w#w-lnd92255-002-p2s1w8</LM>
 </w.rf>
 <form>a</form>
-<tag lemma="akciový_:B_^(jen_akciová_společnost)" src="orig" selected="1">AAXXX----1A---8</tag>
+<tag>
+<AM lemma="akciový_:B_^(jen_akciová_společnost)" src="orig">AAXXX----1A---8</AM>
+<AM lemma="akciový_^(jen_akciová_společnost)" src="manual" selected="1">AAXXX----1A---8</AM>
+</tag>
 </m>
 <m id="m-lnd92255-002-p2s1w9">
 <src.rf>manual</src.rf>
@@ -547,7 +554,10 @@
 <LM>w#w-lnd92255-002-p2s1w10</LM>
 </w.rf>
 <form>s</form>
-<tag lemma="společnost_:B" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="společnost_:B" src="orig">NNFXX-----A---8</AM>
+<AM lemma="společnost" src="manual" selected="1">NNFXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd92255-002-p2s1w11">
 <src.rf>manual</src.rf>
@@ -605,7 +615,10 @@
 <LM>w#w-lnd92255-002-p2s2w6</LM>
 </w.rf>
 <form>ČEZ</form>
-<tag lemma="ČEZ-1_:B_;K_^(České_energetické_závody)" src="orig" selected="1">NNIPX-----A---8</tag>
+<tag>
+<AM lemma="ČEZ-1_:B_;K_^(České_energetické_závody)" src="orig">NNIPX-----A---8</AM>
+<AM lemma="ČEZ-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92255-002-p2s2w7">
 <src.rf>manual</src.rf>
@@ -630,7 +643,10 @@
 <LM>w#w-lnd92255-002-p2s2w9</LM>
 </w.rf>
 <form>Kčs</form>
-<tag lemma="Kčs-1_:B_^(Koruna_čs.)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="Kčs-1_:B_^(Koruna_čs.)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="Kčs-1_:B_^(Koruna_čs.)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92255-002-p2s2w10">
 <src.rf>manual</src.rf>
@@ -1182,7 +1198,10 @@
 <LM>w#w-lnd92255-002-p3s2w26</LM>
 </w.rf>
 <form>přinést</form>
-<tag lemma="přinést" src="orig" selected="1">Vf--------A----</tag>
+<tag>
+<AM lemma="přinést" src="orig">Vf--------A----</AM>
+<AM lemma="přinést_:W" src="manual" selected="1">Vf--------A----</AM>
+</tag>
 </m>
 <m id="m-lnd92255-002-p3s2w27">
 <src.rf>manual</src.rf>

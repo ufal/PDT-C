@@ -247,6 +247,7 @@
 <AM lemma="der_,t" src="auto">XX-------------</AM>
 <AM lemma="drát-2" src="auto">Vi-S---2--A----</AM>
 <AM lemma="drát-2" src="auto">Vi-S---3--A---4</AM>
+<AM lemma="der-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-lnd92258-155-p3s2w21">
@@ -255,7 +256,10 @@
 <LM>w#w-lnd92258-155-p3s2w21</LM>
 </w.rf>
 <form>Spiegel</form>
-<tag lemma="Spiegel-1_;K_,t_^(souč._názvu_Der_S.)" src="orig" selected="1">NNIXX-----A----</tag>
+<tag>
+<AM lemma="Spiegel-1_;K_,t_^(souč._názvu_Der_S.)" src="orig">NNIXX-----A----</AM>
+<AM lemma="Spiegel-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-lnd92258-155-p3s2w22">
 <src.rf>manual</src.rf>
@@ -467,7 +471,10 @@
 <LM>w#w-lnd92258-155-p3s4w1</LM>
 </w.rf>
 <form>Spiegel</form>
-<tag lemma="Spiegel-1_;K_,t_^(souč._názvu_Der_S.)" src="orig" selected="1">NNIXX-----A----</tag>
+<tag>
+<AM lemma="Spiegel-1_;K_,t_^(souč._názvu_Der_S.)" src="orig">NNIXX-----A----</AM>
+<AM lemma="Spiegel-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-lnd92258-155-p3s4w2">
 <src.rf>manual</src.rf>

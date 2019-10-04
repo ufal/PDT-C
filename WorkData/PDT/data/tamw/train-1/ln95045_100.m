@@ -637,7 +637,10 @@
 <LM>w#w-ln95045-100-p3s2w4</LM>
 </w.rf>
 <form>kursy</form>
-<tag lemma="kurs" src="auto" selected="1">NNIP1-----A----</tag>
+<tag>
+<AM lemma="kurs" src="auto">NNIP1-----A----</AM>
+<AM lemma="kurs_,s_^(^DD**kurz)" src="manual" selected="1">NNIP1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95045-100-p3s2w5">
 <src.rf>manual</src.rf>
@@ -807,7 +810,11 @@
 <LM>w#w-ln95045-100-p3s3w7</LM>
 </w.rf>
 <form>tzv</form>
-<tag lemma="takzvaný_:B" src="orig" selected="1">AAXXX----1A---8</tag>
+<tag>
+<AM lemma="takzvaný_:B" src="orig">AAXXX----1A---8</AM>
+<AM lemma="tzv_:B_^(tak_zvaný)" src="manual">AAXXX----1A----</AM>
+<AM lemma="takzvaný" src="manual" selected="1">AAXXX----1A---8</AM>
+</tag>
 </m>
 <m id="m-ln95045-100-p3s3w8">
 <src.rf>manual</src.rf>
@@ -863,7 +870,10 @@
 <LM>w#w-ln95045-100-p3s3w14</LM>
 </w.rf>
 <form>kursu</form>
-<tag lemma="kurs" src="auto" selected="1">NNIS2-----A----</tag>
+<tag>
+<AM lemma="kurs" src="auto">NNIS2-----A----</AM>
+<AM lemma="kurs_,s_^(^DD**kurz)" src="manual" selected="1">NNIS2-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95045-100-p3s3w15">
 <src.rf>manual</src.rf>
@@ -956,7 +966,7 @@
 <tag>
 <AM lemma="tedy" src="orig">Db-------------</AM>
 <AM lemma="tedy-1" src="auto" recommended="1">TT-------------</AM>
-<AM lemma="tedy-2" src="auto">J^-------------</AM>
+<AM lemma="tedy-2" src="auto" selected="1">J^-------------</AM>
 </tag>
 </m>
 <m id="m-ln95045-100-p3s4w3">
@@ -1663,7 +1673,7 @@
 <form>totiž</form>
 <tag>
 <AM lemma="totiž" src="orig">Db-------------</AM>
-<AM lemma="totiž-1" src="auto">J^-------------</AM>
+<AM lemma="totiž-1" src="auto" selected="1">J^-------------</AM>
 <AM lemma="totiž-2" src="auto" recommended="1">TT-------------</AM>
 </tag>
 </m>
@@ -1798,7 +1808,7 @@
 <tag>
 <AM lemma="tedy" src="orig">Db-------------</AM>
 <AM lemma="tedy-1" src="auto">TT-------------</AM>
-<AM lemma="tedy-2" src="auto" recommended="1">J^-------------</AM>
+<AM lemma="tedy-2" src="auto" recommended="1" selected="1">J^-------------</AM>
 </tag>
 </m>
 <m id="m-ln95045-100-p4s5w6">
@@ -2171,7 +2181,10 @@
 <LM>w#w-ln95045-100-p5s1w11</LM>
 </w.rf>
 <form>RM</form>
-<tag lemma="RM_:B_;K_;b_^(RM-systém)" src="auto" selected="1">AAXXX----1A---8</tag>
+<tag>
+<AM lemma="RM_:B_;K_;b_^(RM-systém)" src="auto">AAXXX----1A---8</AM>
+<AM lemma="RM-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95045-100-p5s1w12">
 <src.rf>manual</src.rf>
@@ -2320,7 +2333,7 @@
 <tag>
 <AM lemma="tedy" src="orig">Db-------------</AM>
 <AM lemma="tedy-1" src="auto">TT-------------</AM>
-<AM lemma="tedy-2" src="auto" recommended="1">J^-------------</AM>
+<AM lemma="tedy-2" src="auto" recommended="1" selected="1">J^-------------</AM>
 </tag>
 </m>
 <m id="m-ln95045-100-p5s2w12">
@@ -2419,7 +2432,10 @@
 <LM>w#w-ln95045-100-p5s3w3</LM>
 </w.rf>
 <form>RM</form>
-<tag lemma="RM_:B_;K_;b_^(RM-systém)" src="auto" selected="1">AAXXX----1A---8</tag>
+<tag>
+<AM lemma="RM_:B_;K_;b_^(RM-systém)" src="auto">AAXXX----1A---8</AM>
+<AM lemma="RM-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95045-100-p5s3w4">
 <src.rf>manual</src.rf>
@@ -2598,7 +2614,7 @@
 <tag>
 <AM lemma="tedy" src="orig">Db-------------</AM>
 <AM lemma="tedy-1" src="auto">TT-------------</AM>
-<AM lemma="tedy-2" src="auto" recommended="1">J^-------------</AM>
+<AM lemma="tedy-2" src="auto" recommended="1" selected="1">J^-------------</AM>
 </tag>
 </m>
 <m id="m-ln95045-100-p5s3w26">
@@ -2713,7 +2729,10 @@
 <LM>w#w-ln95045-100-p6s1w10</LM>
 </w.rf>
 <form>RM</form>
-<tag lemma="RM_:B_;K_;b_^(RM-systém)" src="auto" selected="1">AAXXX----1A---8</tag>
+<tag>
+<AM lemma="RM_:B_;K_;b_^(RM-systém)" src="auto">AAXXX----1A---8</AM>
+<AM lemma="RM-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95045-100-p6s1w11">
 <src.rf>manual</src.rf>

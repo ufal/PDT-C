@@ -1025,7 +1025,10 @@
 <LM>w#w-ln95046-095-p3s4w2</LM>
 </w.rf>
 <form>ČR</form>
-<tag lemma="ČR-1_:B_;G_^(Česká_republika)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95046-095-p3s4w3">
 <src.rf>manual</src.rf>
@@ -1409,7 +1412,10 @@
 <LM>w#w-ln95046-095-p3s8w4</LM>
 </w.rf>
 <form>jen</form>
-<tag lemma="jen-1" src="auto" selected="1">TT-------------</tag>
+<tag>
+<AM lemma="jen-1" src="auto">TT-------------</AM>
+<AM lemma="jen-4_^(pouze)" src="manual" selected="1">Db-------------</AM>
+</tag>
 </m>
 <m id="m-ln95046-095-p3s8w5">
 <src.rf>manual</src.rf>
@@ -1791,7 +1797,10 @@
 <LM>w#w-ln95046-095-p3s11w2</LM>
 </w.rf>
 <form>ani</form>
-<tag lemma="ani-1" src="auto" selected="1">J^-------------</tag>
+<tag>
+<AM lemma="ani-1" src="auto">J^-------------</AM>
+<AM lemma="ani-2" src="manual" selected="1">TT-------------</AM>
+</tag>
 </m>
 <m id="m-ln95046-095-p3s11w3">
 <src.rf>manual</src.rf>
@@ -2246,7 +2255,7 @@
 </w.rf>
 <form>Nálevková</form>
 <tag>
-<AM lemma="Nálevková_;S" src="orig">NNFS1-----A----</AM>
+<AM lemma="Nálevková_;S" src="orig" selected="1">NNFS1-----A----</AM>
 <AM lemma="nálevkový" src="auto" recommended="1">AAFS1----1A----</AM>
 <AM lemma="nálevkový" src="auto">AAFS5----1A----</AM>
 <AM lemma="nálevkový" src="auto">AANP1----1A----</AM>
@@ -2870,7 +2879,10 @@
 <LM>w#w-ln95046-095-p4s7w5</LM>
 </w.rf>
 <form>jen</form>
-<tag lemma="jen-1" src="auto" selected="1">TT-------------</tag>
+<tag>
+<AM lemma="jen-1" src="auto">TT-------------</AM>
+<AM lemma="jen-4_^(pouze)" src="manual" selected="1">Db-------------</AM>
+</tag>
 </m>
 <m id="m-ln95046-095-p4s7w6">
 <src.rf>manual</src.rf>

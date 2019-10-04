@@ -69,7 +69,10 @@
 <LM>w#w-lnd92252-090-p2s1w4</LM>
 </w.rf>
 <form>SSSR</form>
-<tag lemma="SSSR_:B_;G_^(Svaz_sov._socialist._republik)" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="SSSR_:B_;G_^(Svaz_sov._socialist._republik)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="SSSR_:B_;G_^(Svaz_sov._socialist._republik)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92252-090-p2s1w5">
 <src.rf>manual</src.rf>
@@ -181,7 +184,10 @@
 <LM>w#w-lnd92252-090-p2s1w18</LM>
 </w.rf>
 <form>MS</form>
-<tag lemma="MS-5_:B_;K_;p_^(ministerstvo_spravedlnosti)" src="orig" selected="1">NNNXX-----A---8</tag>
+<tag>
+<AM lemma="MS-5_:B_;K_;p_^(ministerstvo_spravedlnosti)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="MS-3_:B_;K_^(mistrovství_světa)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92252-090-p2s1w19">
 <src.rf>manual</src.rf>
@@ -499,7 +505,10 @@
 <LM>w#w-lnd92252-090-p2s4w8</LM>
 </w.rf>
 <form>CSKA</form>
-<tag lemma="CSKA-1_:B_;K_;w_,t_^(sov._sport._klub)" src="orig" selected="1">NNNXX-----A---8</tag>
+<tag>
+<AM lemma="CSKA-1_:B_;K_;w_,t_^(sov._sport._klub)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="CSKA-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd92252-090-p2s4w9">
 <src.rf>manual</src.rf>

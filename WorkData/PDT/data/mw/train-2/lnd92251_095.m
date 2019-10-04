@@ -19,7 +19,10 @@
 <LM>w#w-lnd92251-095-p1s1w1</LM>
 </w.rf>
 <form>US</form>
-<tag lemma="US-1_:B_;K_,t_^(letecká_společnost_Usair)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="US-1_:B_;K_,t_^(letecká_společnost_Usair)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="US-2_:B_^(americký)" src="manual" selected="1">AAXXX----1A----</AM>
+</tag>
 </m>
 <m id="m-lnd92251-095-p1s1w2">
 <src.rf>manual</src.rf>
@@ -27,7 +30,10 @@
 <LM>w#w-lnd92251-095-p1s1w2</LM>
 </w.rf>
 <form>OPEN</form>
-<tag lemma="Open-1_,t_^(v_názvu_např._sport._soutěží,_&quot;otevřený&quot;)" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="Open-1_,t_^(v_názvu_např._sport._soutěží,_&quot;otevřený&quot;)" src="orig">AAXXX----1A----</AM>
+<AM lemma="OPEN-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-lnd92251-095-p1s1w3">
 <src.rf>manual</src.rf>

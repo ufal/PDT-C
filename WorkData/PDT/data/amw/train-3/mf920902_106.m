@@ -65,6 +65,7 @@
 <AM lemma="kar-99_:B_;S" src="orig">NNXXX-----A---8</AM>
 <AM lemma="kar" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="kar" src="auto">NNIS4-----A----</AM>
+<AM lemma="kar-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920902-106-p2s1w4">
@@ -188,7 +189,10 @@
 <LM>w#w-mf920902-106-p2s2w13</LM>
 </w.rf>
 <form>Kčs</form>
-<tag lemma="Kčs-1_:B_^(Koruna_čs.)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="Kčs-1_:B_^(Koruna_čs.)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="Kčs-1_:B_^(Koruna_čs.)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920902-106-p2s2w14">
 <src.rf>manual</src.rf>
@@ -382,7 +386,10 @@
 <LM>w#w-mf920902-106-p2s3w11</LM>
 </w.rf>
 <form>Sunnytech</form>
-<tag lemma="Sunnytech_;K_,t" src="orig" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="Sunnytech_;K_,t" src="orig">NNIS1-----A----</AM>
+<AM lemma="Sunnytech_;K" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920902-106-p2s3w12">
 <src.rf>manual</src.rf>
@@ -661,6 +668,8 @@
 <tag>
 <AM lemma="Master_;K_,t" src="orig">AAXXX----1A----</AM>
 <AM lemma="Master_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="master_,t" src="manual">NNXXX-----A----</AM>
+<AM lemma="Master-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-mf920902-106-p2s5w11">
@@ -669,7 +678,11 @@
 <LM>w#w-mf920902-106-p2s5w11</LM>
 </w.rf>
 <form>foods</form>
-<tag lemma="food_;K_,t" src="orig" selected="1">NNNPX-----A----</tag>
+<tag>
+<AM lemma="food_;K_,t" src="orig">NNNPX-----A----</AM>
+<AM lemma="foods_,t" src="manual">NNXXX-----A----</AM>
+<AM lemma="foods-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-mf920902-106-p2s5w12">
 <src.rf>manual</src.rf>
@@ -758,7 +771,10 @@
 <LM>w#w-mf920902-106-p2s5w22</LM>
 </w.rf>
 <form>Kčs</form>
-<tag lemma="Kčs-1_:B_^(Koruna_čs.)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="Kčs-1_:B_^(Koruna_čs.)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="Kčs-1_:B_^(Koruna_čs.)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920902-106-p2s5w23">
 <src.rf>manual</src.rf>

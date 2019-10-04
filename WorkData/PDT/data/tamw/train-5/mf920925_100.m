@@ -80,7 +80,7 @@
 </w.rf>
 <form>ALDANA</form>
 <tag>
-<AM lemma="Aldana_;S" src="orig">NNMS1-----A----</AM>
+<AM lemma="Aldana_;S" src="orig" selected="1">NNMS1-----A----</AM>
 <AM lemma="Aldan_;Y" src="auto" recommended="1">NNMS2-----A----</AM>
 <AM lemma="Aldan_;Y" src="auto">NNMS4-----A----</AM>
 </tag>
@@ -161,7 +161,10 @@
 <LM>w#w-mf920925-100-p4s2w1</LM>
 </w.rf>
 <form>Jako</form>
-<tag lemma="jako-1" src="auto" selected="1">J,-------------</tag>
+<tag>
+<AM lemma="jako-1" src="auto" selected="1">J,-------------</AM>
+<AM lemma="jako-2" src="manual">Db-------------</AM>
+</tag>
 </m>
 <m id="m-mf920925-100-p4s2w2">
 <src.rf>manual</src.rf>
@@ -225,7 +228,10 @@
 <LM>w#w-mf920925-100-p4s2w9</LM>
 </w.rf>
 <form>jako</form>
-<tag lemma="jako-1" src="auto" selected="1">J,-------------</tag>
+<tag>
+<AM lemma="jako-1" src="auto" selected="1">J,-------------</AM>
+<AM lemma="jako-2" src="manual">Db-------------</AM>
+</tag>
 </m>
 <m id="m-mf920925-100-p4s2w10">
 <src.rf>manual</src.rf>
@@ -329,7 +335,10 @@
 <LM>w#w-mf920925-100-p4s2w22</LM>
 </w.rf>
 <form>strany</form>
-<tag lemma="strana-2_^(politická)" src="orig" selected="1">NNFS2-----A----</tag>
+<tag>
+<AM lemma="strana-2_^(politická)" src="orig">NNFS2-----A----</AM>
+<AM lemma="strana" src="manual" selected="1">NNFS2-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920925-100-p4s2w23">
 <src.rf>manual</src.rf>
@@ -385,7 +394,10 @@
 <LM>w#w-mf920925-100-p4s2w29</LM>
 </w.rf>
 <form>C</form>
-<tag lemma="C-0_:B_;Y" src="orig" selected="1">NNMXX-----A---8</tag>
+<tag>
+<AM lemma="C-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
+<AM lemma="C-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920925-100-p4s2w30">
 <src.rf>manual</src.rf>
@@ -402,7 +414,7 @@
 </w.rf>
 <form>Aldany</form>
 <tag>
-<AM lemma="Aldana_;S" src="orig">NNMS2-----A----</AM>
+<AM lemma="Aldana_;S" src="orig" selected="1">NNMS2-----A----</AM>
 <AM lemma="Aldan_;Y" src="auto">NNMP4-----A----</AM>
 <AM lemma="Aldan_;Y" src="auto" recommended="1">NNMP7-----A----</AM>
 </tag>
@@ -472,7 +484,7 @@
 </w.rf>
 <form>Aldana</form>
 <tag>
-<AM lemma="Aldana_;S" src="orig">NNMS1-----A----</AM>
+<AM lemma="Aldana_;S" src="orig" selected="1">NNMS1-----A----</AM>
 <AM lemma="Aldan_;Y" src="auto">NNMS2-----A----</AM>
 <AM lemma="Aldan_;Y" src="auto" recommended="1">NNMS4-----A----</AM>
 </tag>
@@ -543,6 +555,7 @@
 <AM lemma="ÚV_:B_;K" src="orig">NNIXX-----A---8</AM>
 <AM lemma="ÚV-1_:B_^(ústřední_výbor)" src="auto" recommended="1">NNIXX-----A---8</AM>
 <AM lemma="ÚV-2_:B_^(účet_volaného)" src="auto">NNIXX-----A---8</AM>
+<AM lemma="ÚV-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920925-100-p4s3w10">
@@ -551,7 +564,10 @@
 <LM>w#w-mf920925-100-p4s3w10</LM>
 </w.rf>
 <form>KS</form>
-<tag lemma="KS_:B_^(komunistická_strana)" src="auto" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="KS_:B_^(komunistická_strana)" src="auto">NNFXX-----A---8</AM>
+<AM lemma="KS-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920925-100-p4s3w11">
 <src.rf>manual</src.rf>
@@ -666,7 +682,7 @@
 </w.rf>
 <form>Aldana</form>
 <tag>
-<AM lemma="Aldana_;S" src="orig">NNMS1-----A----</AM>
+<AM lemma="Aldana_;S" src="orig" selected="1">NNMS1-----A----</AM>
 <AM lemma="Aldan_;Y" src="auto">NNMS2-----A----</AM>
 <AM lemma="Aldan_;Y" src="auto" recommended="1">NNMS4-----A----</AM>
 </tag>

@@ -61,7 +61,10 @@
 <LM>w#w-lnd92258-016-p2s1w3</LM>
 </w.rf>
 <form>mot</form>
-<tag lemma="motto_,x" src="orig" selected="1">NNNP2-----A----</tag>
+<tag>
+<AM lemma="motto_,x" src="orig">NNNP2-----A----</AM>
+<AM lemma="mot-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92258-016-p2s1w4">
 <src.rf>manual</src.rf>
@@ -660,7 +663,10 @@
 <LM>w#w-lnd92258-016-p2s4w9</LM>
 </w.rf>
 <form>sv</form>
-<tag lemma="svazek_:B" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="svazek_:B" src="orig">NNIXX-----A---8</AM>
+<AM lemma="svatý-1" src="manual" selected="1">NNIXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd92258-016-p2s4w10">
 <src.rf>manual</src.rf>

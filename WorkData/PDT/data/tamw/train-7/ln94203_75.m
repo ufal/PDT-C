@@ -27,7 +27,10 @@
 <LM>w#w-ln94203-75-p1s1w2</LM>
 </w.rf>
 <form>M</form>
-<tag lemma="M-0_:B_;Y" src="orig" selected="1">NNMXX-----A---8</tag>
+<tag>
+<AM lemma="M-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
+<AM lemma="M-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94203-75-p1s1w3">
 <src.rf>manual</src.rf>
@@ -229,7 +232,10 @@
 <LM>w#w-ln94203-75-p2s1Aw23</LM>
 </w.rf>
 <form>Idríse</form>
-<tag lemma="Idrís_;S" src="orig" selected="1">NNMS4-----A----</tag>
+<tag>
+<AM lemma="Idrís_;S" src="orig">NNMS4-----A----</AM>
+<AM lemma="Idrís_;S_;Y" src="manual" selected="1">NNMS4-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94203-75-p2s1Aw24">
 <src.rf>manual</src.rf>
@@ -295,7 +301,10 @@
 <LM>w#w-ln94203-75-p2s1Bw6</LM>
 </w.rf>
 <form>Rada</form>
-<tag lemma="rada-3_^(poradní_sbor;_př._Česká_národní_r.)" src="orig" selected="1">NNFS1-----A----</tag>
+<tag>
+<AM lemma="rada-3_^(poradní_sbor;_př._Česká_národní_r.)" src="orig">NNFS1-----A----</AM>
+<AM lemma="rada-1_^(př._dát_někomu_dobrou_radu;poradní_sbor)" src="manual" selected="1">NNFS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94203-75-p2s1Bw7">
 <src.rf>manual</src.rf>
@@ -441,7 +450,11 @@
 <LM>w#w-ln94203-75-p2s2w10</LM>
 </w.rf>
 <form>SSSR</form>
-<tag lemma="SSSR_:B_;G_^(Svaz_sov._socialist._republik)" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="SSSR_:B_;G_^(Svaz_sov._socialist._republik)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="SSSR-88_:B" src="manual">NNXXX-----A----</AM>
+<AM lemma="SSSR_:B_;G_^(Svaz_sov._socialist._republik)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94203-75-p2s2w11">
 <src.rf>manual</src.rf>
@@ -555,7 +568,10 @@
 <LM>w#w-ln94203-75-p3s1w13</LM>
 </w.rf>
 <form>Radě</form>
-<tag lemma="rada-3_^(poradní_sbor;_př._Česká_národní_r.)" src="orig" selected="1">NNFS3-----A----</tag>
+<tag>
+<AM lemma="rada-3_^(poradní_sbor;_př._Česká_národní_r.)" src="orig">NNFS3-----A----</AM>
+<AM lemma="rada-1_^(př._dát_někomu_dobrou_radu;poradní_sbor)" src="manual" selected="1">NNFS3-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94203-75-p3s1w14">
 <src.rf>manual</src.rf>
@@ -701,7 +717,10 @@
 <LM>w#w-ln94203-75-p3s2w17</LM>
 </w.rf>
 <form>stran</form>
-<tag lemma="strana-2_^(politická)" src="orig" selected="1">NNFP2-----A----</tag>
+<tag>
+<AM lemma="strana-2_^(politická)" src="orig">NNFP2-----A----</AM>
+<AM lemma="strana" src="manual" selected="1">NNFP2-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94203-75-p3s2w18">
 <src.rf>manual</src.rf>
@@ -865,7 +884,10 @@
 <LM>w#w-ln94203-75-p4s1w13</LM>
 </w.rf>
 <form>strana</form>
-<tag lemma="strana-2_^(politická)" src="orig" selected="1">NNFS1-----A----</tag>
+<tag>
+<AM lemma="strana-2_^(politická)" src="orig">NNFS1-----A----</AM>
+<AM lemma="strana" src="manual" selected="1">NNFS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94203-75-p4s1w14">
 <src.rf>manual</src.rf>
@@ -1211,7 +1233,10 @@
 <LM>w#w-ln94203-75-p4s2w20</LM>
 </w.rf>
 <form>tzv</form>
-<tag lemma="takzvaný_:B" src="orig" selected="1">AAXXX----1A---8</tag>
+<tag>
+<AM lemma="takzvaný_:B" src="orig">AAXXX----1A---8</AM>
+<AM lemma="takzvaný" src="manual" selected="1">AAXXX----1A---8</AM>
+</tag>
 </m>
 <m id="m-ln94203-75-p4s2w21">
 <src.rf>manual</src.rf>
@@ -1357,7 +1382,10 @@
 <LM>w#w-ln94203-75-p4s3w7</LM>
 </w.rf>
 <form>kapitalismus</form>
-<tag lemma="kapitalismus" src="orig" selected="1">NNIS4-----A----</tag>
+<tag>
+<AM lemma="kapitalismus" src="orig">NNIS4-----A----</AM>
+<AM lemma="kapitalismus_,s_^(^DD**kapitalizmus)" src="manual" selected="1">NNIS4-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94203-75-p4s3w8">
 <src.rf>manual</src.rf>
@@ -1381,7 +1409,10 @@
 <LM>w#w-ln94203-75-p4s3w10</LM>
 </w.rf>
 <form>socialismus</form>
-<tag lemma="socialismus" src="orig" selected="1">NNIS4-----A----</tag>
+<tag>
+<AM lemma="socialismus" src="orig">NNIS4-----A----</AM>
+<AM lemma="socialismus_,s_^(^DD**socializmus)" src="manual" selected="1">NNIS4-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94203-75-p4s3w11">
 <src.rf>manual</src.rf>
@@ -1469,7 +1500,10 @@
 <LM>w#w-ln94203-75-p4s3w21</LM>
 </w.rf>
 <form>Zelené</form>
-<tag lemma="zelený" src="orig" selected="1">AAFS6----1A----</tag>
+<tag>
+<AM lemma="zelený" src="orig">AAFS6----1A----</AM>
+<AM lemma="zelený_;o" src="manual" selected="1">AAFS6----1A----</AM>
+</tag>
 </m>
 <m id="m-ln94203-75-p4s3w22">
 <src.rf>manual</src.rf>
@@ -1591,7 +1625,10 @@
 <LM>w#w-ln94203-75-p4s4w13</LM>
 </w.rf>
 <form>stal</form>
-<tag lemma="stát-2_^(něco_se_přihodilo)" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag>
+<AM lemma="stát-2_^(něco_se_přihodilo)" src="orig">VpYS---XR-AA---</AM>
+<AM lemma="stát-2_^(stanu_staneš)" src="manual" selected="1">VpYS---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-ln94203-75-p4s4w14">
 <src.rf>manual</src.rf>
@@ -1741,6 +1778,8 @@
 <AM lemma="džamáhíríje" src="orig">NNFS4-----A----</AM>
 <AM lemma="džamáhíríja_;p" src="auto" recommended="1">NNFS3-----A----</AM>
 <AM lemma="džamáhíríja_;p" src="auto">NNFS6-----A----</AM>
+<AM lemma="džamáhíríja_;p" src="manual">NNFS4-----A----</AM>
+<AM lemma="džamáhíríja" src="manual" selected="1">NNFS4-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94203-75-p4s5w11">
@@ -2279,7 +2318,10 @@
 <LM>w#w-ln94203-75-p5s1w6</LM>
 </w.rf>
 <form>stala</form>
-<tag lemma="stát-2_^(něco_se_přihodilo)" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag>
+<AM lemma="stát-2_^(něco_se_přihodilo)" src="orig">VpQW---XR-AA---</AM>
+<AM lemma="stát-2_^(stanu_staneš)" src="manual" selected="1">VpQW---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-ln94203-75-p5s1w7">
 <src.rf>manual</src.rf>
@@ -2333,6 +2375,7 @@
 <AM lemma="terorizmus" src="auto" recommended="1">NNIS2-----A----</AM>
 <AM lemma="terorizmus" src="auto">NNIS3-----A----</AM>
 <AM lemma="terorizmus" src="auto">NNIS6-----A----</AM>
+<AM lemma="terorismus_,s_^(^DD**terorizmus)" src="manual" selected="1">NNIS2-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94203-75-p5s1w13">
@@ -2407,7 +2450,10 @@
 <LM>w#w-ln94203-75-p5s2w8</LM>
 </w.rf>
 <form>vydat</form>
-<tag lemma="vydat-2_:W_^(někomu_konkrétnímu:_př._zločince,_v._věc_zpět)" src="orig" selected="1">Vf--------A----</tag>
+<tag>
+<AM lemma="vydat-2_:W_^(někomu_konkrétnímu:_př._zločince,_v._věc_zpět)" src="orig">Vf--------A----</AM>
+<AM lemma="vydat_:W" src="manual" selected="1">Vf--------A----</AM>
+</tag>
 </m>
 <m id="m-ln94203-75-p5s2w9">
 <src.rf>manual</src.rf>
@@ -2491,6 +2537,8 @@
 <AM lemma="PanAm_;K_,t" src="orig">NNFXX-----A----</AM>
 <AM lemma="Panama_;G" src="auto" recommended="1">NNFP2-----A----</AM>
 <AM lemma="panama" src="auto">NNFP2-----A----</AM>
+<AM lemma="PanAm_;K_,t" src="manual">NNXXX-----A----</AM>
+<AM lemma="PanAm_;K" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94203-75-p5s2w19">
@@ -2557,7 +2605,10 @@
 <LM>w#w-ln94203-75-p5s3w1</LM>
 </w.rf>
 <form>Rada</form>
-<tag lemma="rada-3_^(poradní_sbor;_př._Česká_národní_r.)" src="orig" selected="1">NNFS1-----A----</tag>
+<tag>
+<AM lemma="rada-3_^(poradní_sbor;_př._Česká_národní_r.)" src="orig">NNFS1-----A----</AM>
+<AM lemma="rada-1_^(př._dát_někomu_dobrou_radu;poradní_sbor)" src="manual" selected="1">NNFS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94203-75-p5s3w2">
 <src.rf>manual</src.rf>
@@ -2573,7 +2624,10 @@
 <LM>w#w-ln94203-75-p5s3w3</LM>
 </w.rf>
 <form>OSN</form>
-<tag lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94203-75-p5s3w4">
 <src.rf>manual</src.rf>
@@ -2794,6 +2848,7 @@
 <tag>
 <AM lemma="USA_;G" src="orig">NNIPX-----A----</AM>
 <AM lemma="USA_:B_;K_,t_^(United_States_of_America)" src="auto" recommended="1">NNIPX-----A---8</AM>
+<AM lemma="USA_:B_;K_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94203-75-p6s1w4">
@@ -2810,7 +2865,10 @@
 <LM>w#w-ln94203-75-p6s1w5</LM>
 </w.rf>
 <form>staly</form>
-<tag lemma="stát-2_^(něco_se_přihodilo)" src="orig" selected="1">VpTP---XR-AA---</tag>
+<tag>
+<AM lemma="stát-2_^(něco_se_přihodilo)" src="orig">VpTP---XR-AA---</AM>
+<AM lemma="stát-2_^(stanu_staneš)" src="manual" selected="1">VpTP---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-ln94203-75-p6s1w6">
 <src.rf>manual</src.rf>
@@ -2863,6 +2921,7 @@
 <tag>
 <AM lemma="USA_;G" src="orig">NNIPX-----A----</AM>
 <AM lemma="USA_:B_;K_,t_^(United_States_of_America)" src="auto" recommended="1">NNIPX-----A---8</AM>
+<AM lemma="USA_:B_;K_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94203-75-p6s2w2">
@@ -3132,6 +3191,7 @@
 <AM lemma="terorizmus" src="auto" recommended="1">NNIS2-----A----</AM>
 <AM lemma="terorizmus" src="auto">NNIS3-----A----</AM>
 <AM lemma="terorizmus" src="auto">NNIS6-----A----</AM>
+<AM lemma="terorismus_,s_^(^DD**terorizmus)" src="manual" selected="1">NNIS2-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94203-75-p6s2w35">
@@ -3212,7 +3272,10 @@
 <LM>w#w-ln94203-75-p6s2w45</LM>
 </w.rf>
 <form>nestali</form>
-<tag lemma="stát-2_^(něco_se_přihodilo)" src="orig" selected="1">VpMP---XR-NA---</tag>
+<tag>
+<AM lemma="stát-2_^(něco_se_přihodilo)" src="orig">VpMP---XR-NA---</AM>
+<AM lemma="stát-2_^(stanu_staneš)" src="manual" selected="1">VpMP---XR-NA---</AM>
+</tag>
 </m>
 <m id="m-ln94203-75-p6s2w46">
 <src.rf>manual</src.rf>
@@ -3604,7 +3667,10 @@
 <LM>w#w-ln94203-75-p7s4w11</LM>
 </w.rf>
 <form>vydal</form>
-<tag lemma="vydat-1_:W_^(emitovat:_cenné_papíry,_knihu,_zvuk,...)" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag>
+<AM lemma="vydat-1_:W_^(emitovat:_cenné_papíry,_knihu,_zvuk,...)" src="orig">VpYS---XR-AA---</AM>
+<AM lemma="vydat_:W" src="manual" selected="1">VpYS---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-ln94203-75-p7s4w12">
 <src.rf>manual</src.rf>
@@ -3664,6 +3730,8 @@
 <AM lemma="šaría" src="orig">NNFS2-----A----</AM>
 <AM lemma="šaría_,t" src="auto" recommended="1">NNFS3-----A----</AM>
 <AM lemma="šaría_,t" src="auto">NNFS6-----A----</AM>
+<AM lemma="šaría_,t" src="manual">NNFS2-----A----</AM>
+<AM lemma="šaría" src="manual" selected="1">NNFS2-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94203-75-p7s4w19">

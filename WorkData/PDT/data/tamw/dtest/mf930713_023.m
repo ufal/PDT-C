@@ -149,7 +149,10 @@
 <LM>w#w-mf930713-023-p2s1w15</LM>
 </w.rf>
 <form>km</form>
-<tag lemma="km-1`kilometr_:B" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="km-1`kilometr_:B" src="orig">NNIXX-----A---8</AM>
+<AM lemma="kilometr" src="manual" selected="1">NNIXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-mf930713-023-p2s1w16">
 <src.rf>manual</src.rf>
@@ -206,7 +209,10 @@
 <LM>w#w-mf930713-023-p2s1w22</LM>
 </w.rf>
 <form>min</form>
-<tag lemma="minuta_:B" src="auto" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="minuta_:B" src="auto">NNFXX-----A---8</AM>
+<AM lemma="minuta" src="manual" selected="1">NNFXX-----A---9</AM>
+</tag>
 </m>
 <m id="m-mf930713-023-p2s1w23">
 <src.rf>manual</src.rf>
@@ -407,6 +413,7 @@
 <tag>
 <AM lemma="USA_;G" src="orig">NNIPX-----A----</AM>
 <AM lemma="USA_:B_;K_,t_^(United_States_of_America)" src="auto" recommended="1">NNIPX-----A---8</AM>
+<AM lemma="USA_:B_;K_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930713-023-p4s1w4">
@@ -609,7 +616,10 @@
 <LM>w#w-mf930713-023-p5s1w8</LM>
 </w.rf>
 <form>MS</form>
-<tag lemma="MS-3_:B_;w_^(mistrovství_světa)" src="orig" selected="1">NNNXX-----A---8</tag>
+<tag>
+<AM lemma="MS-3_:B_;w_^(mistrovství_světa)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="MS-3_:B_^(mistrovství_světa)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930713-023-p5s1w9">
 <src.rf>manual</src.rf>
@@ -649,7 +659,10 @@
 <LM>w#w-mf930713-023-p5s1w13</LM>
 </w.rf>
 <form>ccm</form>
-<tag lemma="ccm_:B_^(centimetr_krychlový)" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="ccm_:B_^(centimetr_krychlový)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="ccm_:B_^(centimetr_krychlový)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930713-023-p5s1w14">
 <src.rf>manual</src.rf>
@@ -854,6 +867,7 @@
 <tag>
 <AM lemma="Prague_;m_,t" src="orig">AAXXX----1A----</AM>
 <AM lemma="Prague_;G" src="auto" recommended="1">NNXXX-----A----</AM>
+<AM lemma="Prague-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-mf930713-023-p6s1w9">
@@ -862,7 +876,10 @@
 <LM>w#w-mf930713-023-p6s1w9</LM>
 </w.rf>
 <form>Open</form>
-<tag lemma="Open-1_,t_^(v_názvu_např._sport._soutěží,_&quot;otevřený&quot;)" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="Open-1_,t_^(v_názvu_např._sport._soutěží,_&quot;otevřený&quot;)" src="orig">AAXXX----1A----</AM>
+<AM lemma="Open-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-mf930713-023-p6s1w10">
 <src.rf>manual</src.rf>
@@ -958,7 +975,10 @@
 <LM>w#w-mf930713-023-p6s1w21</LM>
 </w.rf>
 <form>ČR</form>
-<tag lemma="ČR-1_:B_;G_^(Česká_republika)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930713-023-p6s1w22">
 <src.rf>manual</src.rf>
@@ -999,7 +1019,7 @@
 <AM lemma="osmý" src="auto">CrNP1---------6</AM>
 <AM lemma="osmý" src="auto">CrNP4---------6</AM>
 <AM lemma="osmý" src="auto">CrNP5---------6</AM>
-<AM lemma="osmý" src="auto">CrNS1----------</AM>
+<AM lemma="osmý" src="auto" selected="1">CrNS1----------</AM>
 <AM lemma="osmý" src="auto" recommended="1">CrNS4----------</AM>
 <AM lemma="osmý" src="auto">CrNS5----------</AM>
 </tag>
@@ -1284,7 +1304,10 @@
 <LM>w#w-mf930713-023-p8s1w9</LM>
 </w.rf>
 <form>VOKD</form>
-<tag lemma="VOKD_:B_;K" src="orig" selected="1">NNNXX-----A---8</tag>
+<tag>
+<AM lemma="VOKD_:B_;K" src="orig">NNNXX-----A---8</AM>
+<AM lemma="VOKD-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930713-023-p8s1w10">
 <src.rf>manual</src.rf>
@@ -1337,7 +1360,7 @@
 <AM lemma="chemie" src="auto">NNFP1-----A----</AM>
 <AM lemma="chemie" src="auto">NNFP4-----A----</AM>
 <AM lemma="chemie" src="auto">NNFP5-----A----</AM>
-<AM lemma="chemie" src="auto" recommended="1">NNFS1-----A----</AM>
+<AM lemma="chemie" src="auto" recommended="1" selected="1">NNFS1-----A----</AM>
 <AM lemma="chemie" src="auto">NNFS2-----A----</AM>
 <AM lemma="chemie" src="auto">NNFS5-----A----</AM>
 </tag>

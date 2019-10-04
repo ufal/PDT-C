@@ -57,6 +57,8 @@
 <AM lemma="Lauderdale_;G" src="orig">NNNS1-----A----</AM>
 <AM lemma="Lauderdale_;S" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Lauderdale_;S" src="auto">NNMS5-----A----</AM>
+<AM lemma="Lauderdale_;G_,t" src="manual">NNXXX-----A----</AM>
+<AM lemma="Lauderdale_;G" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95049-047-p2s1Aw3">
@@ -83,7 +85,10 @@
 <LM>w#w-ln95049-047-p2s1Bw2</LM>
 </w.rf>
 <form>O</form>
-<tag lemma="O-2_;S_^(v_irských_jménech,_př._O'Connor)" src="orig" selected="1">NNXXX-----A----</tag>
+<tag>
+<AM lemma="O-2_;S_^(v_irských_jménech,_př._O'Connor)" src="orig">NNXXX-----A----</AM>
+<AM lemma="O-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln95049-047-p2s1Bw3">
 <src.rf>manual</src.rf>
@@ -222,6 +227,7 @@
 <tag>
 <AM lemma="USA_;G" src="orig">NNIPX-----A----</AM>
 <AM lemma="USA_:B_;K_,t_^(United_States_of_America)" src="auto" recommended="1">NNIPX-----A---8</AM>
+<AM lemma="USA_:B_;K^(United_States_of_America)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95049-047-p2s1Bw20">
@@ -238,7 +244,10 @@
 <LM>w#w-ln95049-047-p2s1Bw21</LM>
 </w.rf>
 <form>OH</form>
-<tag lemma="OH-2_:B_;w_^(Olympijské_hry)" src="orig" selected="1">NNFPX-----A---8</tag>
+<tag>
+<AM lemma="OH-2_:B_;w_^(Olympijské_hry)" src="orig">NNFPX-----A---8</AM>
+<AM lemma="OH-2_:B_^(Olympijské_hry)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95049-047-p2s1Bw22">
 <src.rf>manual</src.rf>
@@ -472,7 +481,11 @@
 <LM>w#w-ln95049-047-p2s2w15</LM>
 </w.rf>
 <form>HIV</form>
-<tag lemma="HIV_:B_;L_;U_^(lidský_virus_způsobující_AIDS)" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="HIV_:B_;L_;U_^(lidský_virus_způsobující_AIDS)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="HIV-88_:B" src="manual">NNXXX-----A---8</AM>
+<AM lemma="HIV_:B_;L_;U_^(lidský_virus_způsobující_AIDS)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95049-047-p2s2w16">
 <src.rf>manual</src.rf>
@@ -520,7 +533,10 @@
 <LM>w#w-ln95049-047-p2s2w21</LM>
 </w.rf>
 <form>OH</form>
-<tag lemma="OH-2_:B_;w_^(Olympijské_hry)" src="orig" selected="1">NNFPX-----A---8</tag>
+<tag>
+<AM lemma="OH-2_:B_;w_^(Olympijské_hry)" src="orig">NNFPX-----A---8</AM>
+<AM lemma="OH-2_:B_^(Olympijské_hry)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95049-047-p2s2w22">
 <src.rf>manual</src.rf>
@@ -660,7 +676,10 @@
 <LM>w#w-ln95049-047-p3s1w1</LM>
 </w.rf>
 <form>O</form>
-<tag lemma="O-2_;S_^(v_irských_jménech,_př._O'Connor)" src="orig" selected="1">NNXXX-----A----</tag>
+<tag>
+<AM lemma="O-2_;S_^(v_irských_jménech,_př._O'Connor)" src="orig">NNXXX-----A----</AM>
+<AM lemma="O-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln95049-047-p3s1w2">
 <src.rf>manual</src.rf>

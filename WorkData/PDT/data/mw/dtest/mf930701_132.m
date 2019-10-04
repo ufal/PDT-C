@@ -117,7 +117,10 @@
 <LM>w#w-mf930701-132-p2s1w8</LM>
 </w.rf>
 <form>KRNAP</form>
-<tag lemma="KRNAP_:B_;K" src="auto" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="KRNAP_:B_;K" src="auto">NNXXX-----A---8</AM>
+<AM lemma="KRNAP-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-mf930701-132-p2s1w9">
 <src.rf>manual</src.rf>
@@ -411,7 +414,7 @@
 <form>totiž</form>
 <tag>
 <AM lemma="totiž" src="orig">Db-------------</AM>
-<AM lemma="totiž-1" src="auto" recommended="1">J^-------------</AM>
+<AM lemma="totiž-1" src="auto" recommended="1" selected="1">J^-------------</AM>
 <AM lemma="totiž-2" src="auto">TT-------------</AM>
 </tag>
 </m>
@@ -511,7 +514,10 @@
 <LM>w#w-mf930701-132-p2s4w2</LM>
 </w.rf>
 <form>KRNAP</form>
-<tag lemma="KRNAP_:B_;K" src="auto" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="KRNAP_:B_;K" src="auto">NNXXX-----A---8</AM>
+<AM lemma="KRNAP-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-mf930701-132-p2s4w3">
 <src.rf>manual</src.rf>
@@ -603,7 +609,7 @@
 <form>totiž</form>
 <tag>
 <AM lemma="totiž" src="orig">Db-------------</AM>
-<AM lemma="totiž-1" src="auto" recommended="1">J^-------------</AM>
+<AM lemma="totiž-1" src="auto" recommended="1" selected="1">J^-------------</AM>
 <AM lemma="totiž-2" src="auto">TT-------------</AM>
 </tag>
 </m>
@@ -1075,7 +1081,10 @@
 <LM>w#w-mf930701-132-p2s8w9</LM>
 </w.rf>
 <form>KRNAP</form>
-<tag lemma="KRNAP_:B_;K" src="auto" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="KRNAP_:B_;K" src="auto">NNXXX-----A---8</AM>
+<AM lemma="KRNAP-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-mf930701-132-p2s8w10">
 <src.rf>manual</src.rf>
@@ -1269,7 +1278,10 @@
 <LM>w#w-mf930701-132-p2s9w13</LM>
 </w.rf>
 <form>jen</form>
-<tag lemma="jen-1" src="auto" selected="1">TT-------------</tag>
+<tag>
+<AM lemma="jen-1" src="auto">TT-------------</AM>
+<AM lemma="jen-4_^(pouze)" src="manual" selected="1">Db-------------</AM>
+</tag>
 </m>
 <m id="m-mf930701-132-p2s9w14">
 <src.rf>manual</src.rf>
@@ -1351,7 +1363,10 @@
 <LM>w#w-mf930701-132-p2s10w2</LM>
 </w.rf>
 <form>KRNAP</form>
-<tag lemma="KRNAP_:B_;K" src="auto" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="KRNAP_:B_;K" src="auto">NNXXX-----A---8</AM>
+<AM lemma="KRNAP-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-mf930701-132-p2s10w3">
 <src.rf>manual</src.rf>
@@ -2055,7 +2070,10 @@
 <LM>w#w-mf930701-132-p2s14w16</LM>
 </w.rf>
 <form>milionu</form>
-<tag lemma="milión`1000000" src="orig" selected="1">NNIS2-----A----</tag>
+<tag>
+<AM lemma="milión`1000000" src="orig">NNIS2-----A----</AM>
+<AM lemma="milion`1000000_,s_^(^DD**milión)" src="manual" selected="1">NNIS2-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930701-132-p2s14w17">
 <src.rf>manual</src.rf>

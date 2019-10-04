@@ -78,7 +78,7 @@
 </w.rf>
 <form>mý</form>
 <tag>
-<AM lemma="mý-99_:B_;S" src="orig">NNXXX-----A---8</AM>
+<AM lemma="mý-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</AM>
 <AM lemma="můj_^(přivlast.)" src="auto">PSFS2-S1------6</AM>
 <AM lemma="můj_^(přivlast.)" src="auto">PSFS3-S1------6</AM>
 <AM lemma="můj_^(přivlast.)" src="auto">PSFS6-S1------6</AM>
@@ -384,7 +384,7 @@
 <form>jakoukoliv</form>
 <tag>
 <AM lemma="jakýkoliv" src="orig">PZFS4----------</AM>
-<AM lemma="jakýkoli" src="auto" recommended="1">PZFS4---------1</AM>
+<AM lemma="jakýkoli" src="auto" recommended="1" selected="1">PZFS4---------1</AM>
 <AM lemma="jakýkoli" src="auto">PZFS7---------1</AM>
 </tag>
 </m>

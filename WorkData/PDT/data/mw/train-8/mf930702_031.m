@@ -197,7 +197,10 @@
 <LM>w#w-mf930702-031-p2s1w16</LM>
 </w.rf>
 <form>M</form>
-<tag lemma="M-4_:B_;K" src="orig" selected="1">AAXXX----1A---8</tag>
+<tag>
+<AM lemma="M-4_:B_;K" src="orig">AAXXX----1A---8</AM>
+<AM lemma="M-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-mf930702-031-p2s1w17">
 <src.rf>manual</src.rf>
@@ -205,7 +208,11 @@
 <LM>w#w-mf930702-031-p2s1w17</LM>
 </w.rf>
 <form>Invest</form>
-<tag lemma="Investa_;K" src="orig" selected="1">NNFP2-----A----</tag>
+<tag>
+<AM lemma="Investa_;K" src="orig">NNFP2-----A----</AM>
+<AM lemma="Invest-77" src="manual">F%-------------</AM>
+<AM lemma="Invest_;K" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930702-031-p2s1w18">
 <src.rf>manual</src.rf>
@@ -364,7 +371,7 @@
 <tag>
 <AM lemma="tedy" src="orig">Db-------------</AM>
 <AM lemma="tedy-1" src="auto">TT-------------</AM>
-<AM lemma="tedy-2" src="auto" recommended="1">J^-------------</AM>
+<AM lemma="tedy-2" src="auto" recommended="1" selected="1">J^-------------</AM>
 </tag>
 </m>
 <m id="m-mf930702-031-p2s3w3">
@@ -1089,7 +1096,10 @@
 <LM>w#w-mf930702-031-p4s1w4</LM>
 </w.rf>
 <form>M</form>
-<tag lemma="M-4_:B_;K" src="orig" selected="1">AAXXX----1A---8</tag>
+<tag>
+<AM lemma="M-4_:B_;K" src="orig">AAXXX----1A---8</AM>
+<AM lemma="M-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-mf930702-031-p4s1w5">
 <src.rf>manual</src.rf>
@@ -1097,7 +1107,10 @@
 <LM>w#w-mf930702-031-p4s1w5</LM>
 </w.rf>
 <form>Investu</form>
-<tag lemma="Investa_;K" src="orig" selected="1">NNFS4-----A----</tag>
+<tag>
+<AM lemma="Investa_;K" src="orig">NNFS4-----A----</AM>
+<AM lemma="Invest_;K" src="manual" selected="1">NNIS2-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930702-031-p4s1w6">
 <src.rf>manual</src.rf>
@@ -1269,7 +1282,10 @@
 <LM>w#w-mf930702-031-p4s3w2</LM>
 </w.rf>
 <form>M</form>
-<tag lemma="M-4_:B_;K" src="orig" selected="1">AAXXX----1A---8</tag>
+<tag>
+<AM lemma="M-4_:B_;K" src="orig">AAXXX----1A---8</AM>
+<AM lemma="M-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-mf930702-031-p4s3w3">
 <src.rf>manual</src.rf>
@@ -1277,7 +1293,10 @@
 <LM>w#w-mf930702-031-p4s3w3</LM>
 </w.rf>
 <form>Invest</form>
-<tag lemma="Investa_;K" src="orig" selected="1">NNFP2-----A----</tag>
+<tag>
+<AM lemma="Investa_;K" src="orig">NNFP2-----A----</AM>
+<AM lemma="Invest_;K" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930702-031-p4s3w4">
 <src.rf>manual</src.rf>
@@ -1447,7 +1466,10 @@
 <LM>w#w-mf930702-031-p4s4w15</LM>
 </w.rf>
 <form>Škorpil</form>
-<tag lemma="škorpil" src="orig" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="škorpil" src="orig">NNMS1-----A----</AM>
+<AM lemma="Škorpil_;S" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930702-031-p4s4w16">
 <src.rf>manual</src.rf>
@@ -1611,7 +1633,10 @@
 <LM>w#w-mf930702-031-p5s1w12</LM>
 </w.rf>
 <form>M</form>
-<tag lemma="M-4_:B_;K" src="orig" selected="1">AAXXX----1A---8</tag>
+<tag>
+<AM lemma="M-4_:B_;K" src="orig">AAXXX----1A---8</AM>
+<AM lemma="M-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-mf930702-031-p5s1w13">
 <src.rf>manual</src.rf>
@@ -1619,7 +1644,10 @@
 <LM>w#w-mf930702-031-p5s1w13</LM>
 </w.rf>
 <form>Invest</form>
-<tag lemma="Investa_;K" src="orig" selected="1">NNFP2-----A----</tag>
+<tag>
+<AM lemma="Investa_;K" src="orig">NNFP2-----A----</AM>
+<AM lemma="Invest_;K" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930702-031-p5s1w14">
 <src.rf>manual</src.rf>
@@ -1961,7 +1989,10 @@
 <LM>w#w-mf930702-031-p6s1w4</LM>
 </w.rf>
 <form>MF</form>
-<tag lemma="MF-1_:B_;R_;b_^(Mladá_Fronta,_deník)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="MF-1_:B_;R_;b_^(Mladá_Fronta,_deník)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="MF-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-mf930702-031-p6s1w5">
 <src.rf>manual</src.rf>
@@ -1977,7 +2008,10 @@
 <LM>w#w-mf930702-031-p6s1w6</LM>
 </w.rf>
 <form>JUDr</form>
-<tag lemma="JUDr-1_:B_^(doktor_práv)" src="orig" selected="1">NNMXX-----A---8</tag>
+<tag>
+<AM lemma="JUDr-1_:B_^(doktor_práv)" src="orig">NNMXX-----A---8</AM>
+<AM lemma="JUDr_:B_^(doktor_práv)" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-mf930702-031-p6s1w7">
 <src.rf>manual</src.rf>

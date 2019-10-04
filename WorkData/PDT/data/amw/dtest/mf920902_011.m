@@ -69,7 +69,10 @@
 <LM>w#w-mf920902-011-p1s1Bw3</LM>
 </w.rf>
 <form>wil</form>
-<tag lemma="wil-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="wil-99_:B_;S" src="orig">NNXXX-----A---8</AM>
+<AM lemma="wil-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920902-011-p1s1Bw4">
 <src.rf>manual</src.rf>
@@ -257,7 +260,10 @@
 <LM>w#w-mf920902-011-p1s2w4</LM>
 </w.rf>
 <form>plk</form>
-<tag lemma="plukovník_:B" src="orig" selected="1">NNMXX-----A---8</tag>
+<tag>
+<AM lemma="plukovník_:B" src="orig">NNMXX-----A---8</AM>
+<AM lemma="plk_:B_^(plukovník)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920902-011-p1s2w5">
 <src.rf>manual</src.rf>

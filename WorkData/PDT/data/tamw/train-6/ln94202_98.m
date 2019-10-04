@@ -88,6 +88,7 @@
 <tag>
 <AM lemma="tom-99_:B_;S" src="orig">NNXXX-----A---8</AM>
 <AM lemma="ten" src="auto" recommended="1">PDZS6----------</AM>
+<AM lemma="tom-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94202-98-p2s1Aw6">
@@ -317,8 +318,9 @@
 </w.rf>
 <form>Mac</form>
 <tag>
-<AM lemma="Mac_;S" src="orig">NNXXX-----A----</AM>
+<AM lemma="Mac_;S" src="orig" selected="1">NNXXX-----A----</AM>
 <AM lemma="Mac_;S_^(MacIntosh)" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Mac-77" src="manual">F%-------------</AM>
 </tag>
 </m>
 <m id="m-ln94202-98-p2s2w5">
@@ -895,7 +897,10 @@
 <LM>w#w-ln94202-98-p3s2w8</LM>
 </w.rf>
 <form>přibyly</form>
-<tag lemma="přibýt" src="orig" selected="1">VpTP---XR-AA---</tag>
+<tag>
+<AM lemma="přibýt" src="orig">VpTP---XR-AA---</AM>
+<AM lemma="přibýt_:W" src="manual" selected="1">VpTP---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-ln94202-98-p3s2w9">
 <src.rf>manual</src.rf>

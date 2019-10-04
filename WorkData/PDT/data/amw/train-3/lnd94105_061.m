@@ -572,7 +572,10 @@
 <LM>w#w-lnd94105-061-p1s37w5</LM>
 </w.rf>
 <form>jen</form>
-<tag lemma="jen-1" src="auto" selected="1">TT-------------</tag>
+<tag>
+<AM lemma="jen-1" src="auto">TT-------------</AM>
+<AM lemma="jen-4_^(pouze)" src="manual" selected="1">Db-------------</AM>
+</tag>
 </m>
 <m id="m-lnd94105-061-p1s37w6">
 <src.rf>manual</src.rf>

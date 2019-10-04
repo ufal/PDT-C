@@ -420,7 +420,10 @@
 <LM>w#w-ln95044-028-p2s3w14</LM>
 </w.rf>
 <form>lavičky</form>
-<tag lemma="lavička-2" src="auto" selected="1">NNFS2-----A----</tag>
+<tag>
+<AM lemma="lavička-2" src="auto">NNFS2-----A----</AM>
+<AM lemma="lavička" src="manual" selected="1">NNFS2-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95044-028-p2s3w15">
 <src.rf>manual</src.rf>

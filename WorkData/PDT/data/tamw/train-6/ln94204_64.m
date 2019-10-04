@@ -159,7 +159,10 @@
 <LM>w#w-ln94204-64-p2s1Bw7</LM>
 </w.rf>
 <form>ZD</form>
-<tag lemma="ZD_:B_;K_^(zemědělské_družstvo)" src="auto" selected="1">NNNXX-----A---8</tag>
+<tag>
+<AM lemma="ZD_:B_;K_^(zemědělské_družstvo)" src="auto">NNNXX-----A---8</AM>
+<AM lemma="ZD-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94204-64-p2s1Bw8">
 <src.rf>manual</src.rf>
@@ -177,7 +180,7 @@
 <form>Jeseníku</form>
 <tag>
 <AM lemma="Jeseník_;G" src="orig">NNIS2-----A----</AM>
-<AM lemma="Jeseník_;G" src="auto" recommended="1">NNIS2-----A---1</AM>
+<AM lemma="Jeseník_;G" src="auto" recommended="1" selected="1">NNIS2-----A---1</AM>
 <AM lemma="Jeseník_;G" src="auto">NNIS3-----A----</AM>
 <AM lemma="Jeseník_;G" src="auto">NNIS5-----A----</AM>
 <AM lemma="Jeseník_;G" src="auto">NNIS6-----A----</AM>
@@ -722,7 +725,10 @@
 <LM>w#w-ln94204-64-p2s3w16</LM>
 </w.rf>
 <form>milionu</form>
-<tag lemma="milión`1000000" src="orig" selected="1">NNIS2-----A----</tag>
+<tag>
+<AM lemma="milión`1000000" src="orig">NNIS2-----A----</AM>
+<AM lemma="milion`1000000_,s_^(^DD**milión)" src="manual" selected="1">NNIS2-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94204-64-p2s3w17">
 <src.rf>manual</src.rf>
@@ -822,7 +828,7 @@
 <form>přesto</form>
 <tag>
 <AM lemma="přesto" src="orig">Dg-------1A----</AM>
-<AM lemma="přesto-1" src="auto" recommended="1">Db-------------</AM>
+<AM lemma="přesto-1" src="auto" recommended="1" selected="1">Db-------------</AM>
 <AM lemma="přesto-2" src="auto">J^-------------</AM>
 </tag>
 </m>
@@ -1236,7 +1242,10 @@
 <LM>w#w-ln94204-64-p2s6w5</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-2" src="auto" selected="1">Dg-------2A----</tag>
+<tag>
+<AM lemma="hodně-2" src="auto">Dg-------2A----</AM>
+<AM lemma="více_^(více_+_2._p.,_více_peněz)" src="manual" selected="1">Ca--1----------</AM>
+</tag>
 </m>
 <m id="m-ln94204-64-p2s6w6">
 <src.rf>manual</src.rf>

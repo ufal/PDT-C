@@ -167,7 +167,10 @@
 <LM>w#w-mf930702-030-p2s2w2</LM>
 </w.rf>
 <form>vede</form>
-<tag lemma="vést" src="auto" selected="1">VB-S---3P-AA---</tag>
+<tag>
+<AM lemma="vést" src="auto">VB-S---3P-AA---</AM>
+<AM lemma="vést_:T" src="manual" selected="1">VB-S---3P-AA---</AM>
+</tag>
 </m>
 <m id="m-mf930702-030-p2s2w3">
 <src.rf>manual</src.rf>
@@ -489,7 +492,10 @@
 <LM>w#w-mf930702-030-p2s3w13</LM>
 </w.rf>
 <form>OECD</form>
-<tag lemma="OECD-1_:B_;K_;b_;p_^(Ev._org._hosp._spolupr._a_roz.)" src="auto" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="OECD-1_:B_;K_;b_;p_^(Ev._org._hosp._spolupr._a_roz.)" src="auto">NNFXX-----A---8</AM>
+<AM lemma="OECD-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-mf930702-030-p2s3w14">
 <src.rf>manual</src.rf>
@@ -627,7 +633,10 @@
 <LM>w#w-mf930702-030-p2s4w15</LM>
 </w.rf>
 <form>ČR</form>
-<tag lemma="ČR-1_:B_;G_^(Česká_republika)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930702-030-p2s4w16">
 <src.rf>manual</src.rf>
@@ -709,7 +718,10 @@
 <LM>w#w-mf930702-030-p2s5w4</LM>
 </w.rf>
 <form>ČR</form>
-<tag lemma="ČR-1_:B_;G_^(Česká_republika)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930702-030-p2s5w5">
 <src.rf>manual</src.rf>
@@ -807,7 +819,10 @@
 <LM>w#w-mf930702-030-p2s6w7</LM>
 </w.rf>
 <form>OECD</form>
-<tag lemma="OECD-1_:B_;K_;b_;p_^(Ev._org._hosp._spolupr._a_roz.)" src="auto" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="OECD-1_:B_;K_;b_;p_^(Ev._org._hosp._spolupr._a_roz.)" src="auto">NNFXX-----A---8</AM>
+<AM lemma="OECD-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-mf930702-030-p2s6w8">
 <src.rf>manual</src.rf>

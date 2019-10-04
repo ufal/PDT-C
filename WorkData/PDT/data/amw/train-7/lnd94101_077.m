@@ -173,7 +173,10 @@
 <LM>w#w-lnd94101-077-p1s2w7</LM>
 </w.rf>
 <form>sv</form>
-<tag lemma="svatý-1_:B" src="auto" selected="1">AAXXX----1A---8</tag>
+<tag>
+<AM lemma="svatý-1_:B" src="auto">AAXXX----1A---8</AM>
+<AM lemma="svatý-1" src="manual" selected="1">AAXXX----1A---8</AM>
+</tag>
 </m>
 <m id="m-lnd94101-077-p1s2w8">
 <src.rf>manual</src.rf>
@@ -391,7 +394,10 @@
 <LM>w#w-lnd94101-077-p1s4w10</LM>
 </w.rf>
 <form>Michelangela</form>
-<tag lemma="Michelangelo_;S" src="auto" selected="1">NNMS2-----A----</tag>
+<tag>
+<AM lemma="Michelangelo_;S" src="auto">NNMS2-----A----</AM>
+<AM lemma="Michelangelo_;S_;Y" src="manual" selected="1">NNMS2-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd94101-077-p1s4w11">
 <src.rf>manual</src.rf>
@@ -415,7 +421,10 @@
 <LM>w#w-lnd94101-077-p1s4w13</LM>
 </w.rf>
 <form>Heima</form>
-<tag lemma="Heim_;S" src="auto" selected="1">NNMS2-----A----</tag>
+<tag>
+<AM lemma="Heim_;S" src="auto">NNMS2-----A----</AM>
+<AM lemma="Heim_;S_;Y" src="manual" selected="1">NNMS2-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd94101-077-p1s4w14">
 <src.rf>manual</src.rf>
@@ -646,7 +655,10 @@
 <LM>w#w-lnd94101-077-p1s5Bw5</LM>
 </w.rf>
 <form>LN</form>
-<tag lemma="LN-1_:B_;R_^(Lidové_noviny,_deník)" src="orig" selected="1">NNFPX-----A---8</tag>
+<tag>
+<AM lemma="LN-1_:B_;R_^(Lidové_noviny,_deník)" src="orig">NNFPX-----A---8</AM>
+<AM lemma="LN-1_:B_;K_;R_^(Lidové_noviny,_deník)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 </s>
 </mdata>

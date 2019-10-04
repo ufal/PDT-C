@@ -35,7 +35,10 @@
 <LM>w#w-ln95049-116-p1s1w3</LM>
 </w.rf>
 <form>SRN</form>
-<tag lemma="SRN_:B_;G" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="SRN_:B_;G" src="orig">NNFXX-----A---8</AM>
+<AM lemma="SRN-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln95049-116-p1s1w4">
 <src.rf>manual</src.rf>
@@ -119,7 +122,10 @@
 <LM>w#w-ln95049-116-p2s1Bw5</LM>
 </w.rf>
 <form>IG</form>
-<tag lemma="IG_:B_;K_,t" src="orig" selected="1">AAXXX----1A---8</tag>
+<tag>
+<AM lemma="IG_:B_;K_,t" src="orig">AAXXX----1A---8</AM>
+<AM lemma="IG-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln95049-116-p2s1Bw6">
 <src.rf>manual</src.rf>
@@ -127,7 +133,10 @@
 <LM>w#w-ln95049-116-p2s1Bw6</LM>
 </w.rf>
 <form>Metall</form>
-<tag lemma="Metall_;K" src="auto" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="Metall_;K" src="auto">NNIS1-----A----</AM>
+<AM lemma="Metall-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln95049-116-p2s1Bw7">
 <src.rf>manual</src.rf>
@@ -842,7 +851,10 @@
 <LM>w#w-ln95049-116-p2s6w9</LM>
 </w.rf>
 <form>Gesamtmetall</form>
-<tag lemma="Gesamtmetall_;K_,t" src="orig" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="Gesamtmetall_;K_,t" src="orig">NNIS1-----A----</AM>
+<AM lemma="Gesamtmetall-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln95049-116-p2s6w10">
 <src.rf>manual</src.rf>
@@ -978,7 +990,10 @@
 <LM>w#w-ln95049-116-p2s6w26</LM>
 </w.rf>
 <form>IG</form>
-<tag lemma="IG_:B_;K_,t" src="orig" selected="1">AAXXX----1A---8</tag>
+<tag>
+<AM lemma="IG_:B_;K_,t" src="orig">AAXXX----1A---8</AM>
+<AM lemma="IG-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln95049-116-p2s6w27">
 <src.rf>manual</src.rf>
@@ -986,7 +1001,10 @@
 <LM>w#w-ln95049-116-p2s6w27</LM>
 </w.rf>
 <form>Metall</form>
-<tag lemma="Metall_;K" src="auto" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="Metall_;K" src="auto">NNIS1-----A----</AM>
+<AM lemma="Metall-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln95049-116-p2s6w28">
 <src.rf>manual</src.rf>

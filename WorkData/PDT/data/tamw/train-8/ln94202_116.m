@@ -53,7 +53,10 @@
 <LM>w#w-ln94202-116-p2s1w2</LM>
 </w.rf>
 <form>FC</form>
-<tag lemma="FC-1_:B_;K_;w_^(Football_Club,_př._FC_Sparta)" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="FC-1_:B_;K_;w_^(Football_Club,_př._FC_Sparta)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="FC-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln94202-116-p2s1w3">
 <src.rf>manual</src.rf>
@@ -199,7 +202,10 @@
 <LM>w#w-ln94202-116-p2s2w7</LM>
 </w.rf>
 <form>miliony</form>
-<tag lemma="milión`1000000" src="orig" selected="1">NNIP4-----A----</tag>
+<tag>
+<AM lemma="milión`1000000" src="orig">NNIP4-----A----</AM>
+<AM lemma="milion`1000000_,s_^(^DD**milión)" src="manual" selected="1">NNIP4-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94202-116-p2s2w8">
 <src.rf>manual</src.rf>

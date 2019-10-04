@@ -59,7 +59,10 @@
 <LM>w#w-ln95043-045-p1s1w6</LM>
 </w.rf>
 <form>AIDS</form>
-<tag lemma="AIDS_:B_;U_,x_^(Syndrom_získaného_selhání_imunity)" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="AIDS_:B_;U_,x_^(Syndrom_získaného_selhání_imunity)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="AIDS-2_:B_;U_^(Syndrom_získaného_selhání_imunity)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 </s>
 <s id="m-ln95043-045-p2s1A">
@@ -121,7 +124,7 @@
 <form>začít</form>
 <tag>
 <AM lemma="začít-1" src="orig">Vf--------A----</AM>
-<AM lemma="začít-1_^(začnout)" src="auto" recommended="1">Vf--------A----</AM>
+<AM lemma="začít-1_^(začnout)" src="auto" recommended="1" selected="1">Vf--------A----</AM>
 <AM lemma="začít-2_^(pocítit)" src="auto">Vf--------A----</AM>
 </tag>
 </m>
@@ -203,7 +206,10 @@
 <LM>w#w-ln95043-045-p2s1Bw15</LM>
 </w.rf>
 <form>HIV</form>
-<tag lemma="HIV_:B_;L_;U_^(lidský_virus_způsobující_AIDS)" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="HIV_:B_;L_;U_^(lidský_virus_způsobující_AIDS)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="HIV_:B_;L_;U_^(lidský_virus_způsobující_AIDS)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95043-045-p2s1Bw16">
 <src.rf>manual</src.rf>
@@ -243,7 +249,10 @@
 <LM>w#w-ln95043-045-p2s1Bw20</LM>
 </w.rf>
 <form>AIDS</form>
-<tag lemma="AIDS_:B_;U_,x_^(Syndrom_získaného_selhání_imunity)" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="AIDS_:B_;U_,x_^(Syndrom_získaného_selhání_imunity)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="AIDS-2_:B_;U_^(Syndrom_získaného_selhání_imunity)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95043-045-p2s1Bw21">
 <src.rf>manual</src.rf>
@@ -413,7 +422,10 @@
 <LM>w#w-ln95043-045-p2s2w20</LM>
 </w.rf>
 <form>právě</form>
-<tag lemma="právě-1" src="auto" selected="1">Db-------------</tag>
+<tag>
+<AM lemma="právě-1" src="auto">Db-------------</AM>
+<AM lemma="právě-2" src="manual" selected="1">TT-------------</AM>
+</tag>
 </m>
 <m id="m-ln95043-045-p2s2w21">
 <src.rf>manual</src.rf>
@@ -537,7 +549,10 @@
 <LM>w#w-ln95043-045-p2s3w12</LM>
 </w.rf>
 <form>dolarů</form>
-<tag lemma="dolar_;b" src="orig" selected="1">NNIP2-----A----</tag>
+<tag>
+<AM lemma="dolar_;b" src="orig">NNIP2-----A----</AM>
+<AM lemma="dolar" src="manual" selected="1">NNIP2-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95043-045-p2s3w13">
 <src.rf>manual</src.rf>
@@ -723,7 +738,11 @@
 <LM>w#w-ln95043-045-p2s4w4</LM>
 </w.rf>
 <form>AIDS</form>
-<tag lemma="AIDS_:B_;U_,x_^(Syndrom_získaného_selhání_imunity)" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="AIDS_:B_;U_,x_^(Syndrom_získaného_selhání_imunity)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="AIDS-2_:B_;U_^(Syndrom_získaného_selhání_imunity)" src="manual">NNXXX-----A---8</AM>
+<AM lemma="AIDS-2_:B_;U_^(Syndrom_získaného_selhání_imunity)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95043-045-p2s4w5">
 <src.rf>manual</src.rf>

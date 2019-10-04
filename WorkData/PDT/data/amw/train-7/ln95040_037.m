@@ -262,7 +262,10 @@
 <LM>w#w-ln95040-037-p2s1w26</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-2" src="auto" selected="1">Dg-------2A----</tag>
+<tag>
+<AM lemma="hodně-2" src="auto">Dg-------2A----</AM>
+<AM lemma="hodně-3" src="manual" selected="1">Dg-------2A----</AM>
+</tag>
 </m>
 <m id="m-ln95040-037-p2s1w27">
 <src.rf>manual</src.rf>
@@ -310,7 +313,10 @@
 <LM>w#w-ln95040-037-p2s1w32</LM>
 </w.rf>
 <form>AEG</form>
-<tag lemma="AEG_:B_;K" src="auto" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="AEG_:B_;K" src="auto">NNXXX-----A---8</AM>
+<AM lemma="AEG-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln95040-037-p2s1w33">
 <src.rf>manual</src.rf>
@@ -318,7 +324,10 @@
 <LM>w#w-ln95040-037-p2s1w33</LM>
 </w.rf>
 <form>Bahnsysteme</form>
-<tag lemma="Bahnsystem_;K_,t" src="orig" selected="1">NNIPX-----A----</tag>
+<tag>
+<AM lemma="Bahnsystem_;K_,t" src="orig">NNIPX-----A----</AM>
+<AM lemma="Bahnsysteme-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln95040-037-p2s1w34">
 <src.rf>manual</src.rf>
@@ -732,7 +741,10 @@
 <LM>w#w-ln95040-037-p2s4w2</LM>
 </w.rf>
 <form>AEG</form>
-<tag lemma="AEG_:B_;K" src="auto" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="AEG_:B_;K" src="auto">NNXXX-----A---8</AM>
+<AM lemma="AEG-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln95040-037-p2s4w3">
 <src.rf>manual</src.rf>
@@ -870,7 +882,10 @@
 <LM>w#w-ln95040-037-p2s5w3</LM>
 </w.rf>
 <form>Belinda</form>
-<tag lemma="Belinda_;Y" src="orig" selected="1">NNFS1-----A----</tag>
+<tag>
+<AM lemma="Belinda_;Y" src="orig">NNFS1-----A----</AM>
+<AM lemma="Belinda_;Y_;K" src="manual" selected="1">NNFS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95040-037-p2s5w4">
 <src.rf>manual</src.rf>
@@ -926,7 +941,10 @@
 <LM>w#w-ln95040-037-p2s5w10</LM>
 </w.rf>
 <form>Belinda</form>
-<tag lemma="Belinda_;Y" src="orig" selected="1">NNFS1-----A----</tag>
+<tag>
+<AM lemma="Belinda_;Y" src="orig">NNFS1-----A----</AM>
+<AM lemma="Belinda_;Y_;K" src="manual" selected="1">NNFS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95040-037-p2s5w11">
 <src.rf>manual</src.rf>
@@ -966,7 +984,10 @@
 <LM>w#w-ln95040-037-p2s5w15</LM>
 </w.rf>
 <form>Belinda</form>
-<tag lemma="Belinda_;Y" src="orig" selected="1">NNFS1-----A----</tag>
+<tag>
+<AM lemma="Belinda_;Y" src="orig">NNFS1-----A----</AM>
+<AM lemma="Belinda_;Y_;K" src="manual" selected="1">NNFS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95040-037-p2s5w16">
 <src.rf>manual</src.rf>
@@ -974,7 +995,10 @@
 <LM>w#w-ln95040-037-p2s5w16</LM>
 </w.rf>
 <form>macht</form>
-<tag lemma="machen_,t" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag>
+<AM lemma="machen_,t" src="orig">VB-S---3P-AA---</AM>
+<AM lemma="macht-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln95040-037-p2s5w17">
 <src.rf>manual</src.rf>
@@ -982,7 +1006,10 @@
 <LM>w#w-ln95040-037-p2s5w17</LM>
 </w.rf>
 <form>Beine</form>
-<tag lemma="Bein_,t" src="orig" selected="1">NNFPX-----A----</tag>
+<tag>
+<AM lemma="Bein_,t" src="orig">NNFPX-----A----</AM>
+<AM lemma="Beine-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln95040-037-p2s5w18">
 <src.rf>manual</src.rf>
@@ -1034,7 +1061,7 @@
 <form>ovšem</form>
 <tag>
 <AM lemma="ovšem-1_^(avšak,_však;_odporovací_spojka)" src="orig">J^-------------</AM>
-<AM lemma="ovšem" src="auto" recommended="1">TT-------------</AM>
+<AM lemma="ovšem" src="auto" recommended="1" selected="1">TT-------------</AM>
 </tag>
 </m>
 <m id="m-ln95040-037-p2s6Aw6">
@@ -1157,7 +1184,10 @@
 <LM>w#w-ln95040-037-p2s6Bw5</LM>
 </w.rf>
 <form>ČD</form>
-<tag lemma="ČD_:B_;K_^(České_dráhy)" src="auto" selected="1">NNFPX-----A---8</tag>
+<tag>
+<AM lemma="ČD_:B_;K_^(České_dráhy)" src="auto">NNFPX-----A---8</AM>
+<AM lemma="ČD-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln95040-037-p2s6Bw6">
 <src.rf>manual</src.rf>

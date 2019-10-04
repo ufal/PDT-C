@@ -419,7 +419,7 @@
 <form>Jeseníku</form>
 <tag>
 <AM lemma="Jeseník_;G" src="orig">NNIS2-----A----</AM>
-<AM lemma="Jeseník_;G" src="auto" recommended="1">NNIS2-----A---1</AM>
+<AM lemma="Jeseník_;G" src="auto" recommended="1" selected="1">NNIS2-----A---1</AM>
 <AM lemma="Jeseník_;G" src="auto">NNIS3-----A----</AM>
 <AM lemma="Jeseník_;G" src="auto">NNIS5-----A----</AM>
 <AM lemma="Jeseník_;G" src="auto">NNIS6-----A----</AM>
@@ -457,7 +457,7 @@
 <form>nejen</form>
 <tag>
 <AM lemma="nejen" src="orig">TT-------------</AM>
-<AM lemma="nejen" src="auto" recommended="1">Db-------------</AM>
+<AM lemma="nejen" src="auto" recommended="1" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m-lnd92254-019-p3s2w15">
@@ -844,7 +844,10 @@
 <LM>w#w-lnd92254-019-p4s1w31</LM>
 </w.rf>
 <form>ČNR</form>
-<tag lemma="ČNR-1_:B_;K_^(Česká_národní_rada)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ČNR-1_:B_;K_^(Česká_národní_rada)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČNR-1_:B_;K_^(Česká_národní_rada)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92254-019-p4s1w32">
 <src.rf>manual</src.rf>
@@ -1942,7 +1945,10 @@
 <LM>w#w-lnd92254-019-p5s4w19</LM>
 </w.rf>
 <form>nestavějí</form>
-<tag lemma="stavět" src="auto" selected="1">VB-P---3P-NA---</tag>
+<tag>
+<AM lemma="stavět" src="auto">VB-P---3P-NA---</AM>
+<AM lemma="stavět_:T" src="manual" selected="1">VB-P---3P-NA---</AM>
+</tag>
 </m>
 <m id="m-lnd92254-019-p5s4w20">
 <src.rf>manual</src.rf>
@@ -2581,7 +2587,7 @@
 <tag>
 <AM lemma="tady" src="orig">Db------------1</AM>
 <AM lemma="ten" src="auto" recommended="1">PDFS4----------</AM>
-<AM lemma="tu" src="auto">Db-------------</AM>
+<AM lemma="tu" src="auto" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m-lnd92254-019-p6s5w7">
@@ -3018,7 +3024,10 @@
 <LM>w#w-lnd92254-019-p6s7w22</LM>
 </w.rf>
 <form>región</form>
-<tag lemma="región" src="orig" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="región" src="orig">NNIS1-----A----</AM>
+<AM lemma="región_,h_^(^GC**region) " src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92254-019-p6s7w23">
 <src.rf>manual</src.rf>
@@ -3086,7 +3095,7 @@
 <form>Jeseníku</form>
 <tag>
 <AM lemma="Jeseník_;G" src="orig">NNIS2-----A----</AM>
-<AM lemma="Jeseník_;G" src="auto" recommended="1">NNIS2-----A---1</AM>
+<AM lemma="Jeseník_;G" src="auto" recommended="1" selected="1">NNIS2-----A---1</AM>
 <AM lemma="Jeseník_;G" src="auto">NNIS3-----A----</AM>
 <AM lemma="Jeseník_;G" src="auto">NNIS5-----A----</AM>
 <AM lemma="Jeseník_;G" src="auto">NNIS6-----A----</AM>
@@ -3114,7 +3123,10 @@
 <LM>w#w-lnd92254-019-p6s8w9</LM>
 </w.rf>
 <form>tzv</form>
-<tag lemma="takzvaný_:B" src="orig" selected="1">AAXXX----1A---8</tag>
+<tag>
+<AM lemma="takzvaný_:B" src="orig">AAXXX----1A---8</AM>
+<AM lemma="takzvaný" src="manual" selected="1">AAXXX----1A---8</AM>
+</tag>
 </m>
 <m id="m-lnd92254-019-p6s8w10">
 <src.rf>manual</src.rf>
@@ -3146,7 +3158,11 @@
 <LM>w#w-lnd92254-019-p6s8w13</LM>
 </w.rf>
 <form>región</form>
-<tag lemma="región" src="orig" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="región" src="orig">NNIS1-----A----</AM>
+<AM lemma="región_,h_^(^GC**region) " src="manual">NNIS1-----A----</AM>
+<AM lemma="región_,h_^(^GC**region)" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92254-019-p6s8w14">
 <src.rf>manual</src.rf>
@@ -3252,7 +3268,10 @@
 <LM>w#w-lnd92254-019-p6s9w3</LM>
 </w.rf>
 <form>přijalo</form>
-<tag lemma="přijmout" src="auto" selected="1">VpNS---XR-AA---</tag>
+<tag>
+<AM lemma="přijmout" src="auto">VpNS---XR-AA---</AM>
+<AM lemma="přijmout_:W" src="manual" selected="1">VpNS---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-lnd92254-019-p6s9w4">
 <src.rf>manual</src.rf>
@@ -3698,7 +3717,10 @@
 <LM>w#w-lnd92254-019-p6s12w10</LM>
 </w.rf>
 <form>km</form>
-<tag lemma="km-1`kilometr_:B" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="km-1`kilometr_:B" src="orig">NNIXX-----A---8</AM>
+<AM lemma="km-1`kilometr" src="manual" selected="1">NNIXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd92254-019-p6s12w11">
 <src.rf>manual</src.rf>
@@ -4280,7 +4302,10 @@
 <LM>w#w-lnd92254-019-p8s1w2</LM>
 </w.rf>
 <form>mot</form>
-<tag lemma="motto_,x" src="orig" selected="1">NNNP2-----A----</tag>
+<tag>
+<AM lemma="motto_,x" src="orig">NNNP2-----A----</AM>
+<AM lemma="mot-99_:B_;S" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd92254-019-p8s1w3">
 <src.rf>manual</src.rf>

@@ -191,7 +191,10 @@
 <LM>w#w-mf930713-010-p2s1Bw17</LM>
 </w.rf>
 <form>Bad</form>
-<tag lemma="Bad_;G" src="orig" selected="1">NNIXX-----A----</tag>
+<tag>
+<AM lemma="Bad_;G" src="orig">NNIXX-----A----</AM>
+<AM lemma="Bad-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-mf930713-010-p2s1Bw18">
 <src.rf>manual</src.rf>
@@ -357,7 +360,7 @@
 </w.rf>
 <form>účinkujícími</form>
 <tag>
-<AM lemma="účinkující-2" src="orig">NNMP7-----A----</AM>
+<AM lemma="účinkující-2" src="orig" selected="1">NNMP7-----A----</AM>
 <AM lemma="účinkující_^(*5ovat)" src="auto">AGFP7-----A----</AM>
 <AM lemma="účinkující_^(*5ovat)" src="auto">AGIP7-----A----</AM>
 <AM lemma="účinkující_^(*5ovat)" src="auto" recommended="1">AGMP7-----A----</AM>
@@ -509,7 +512,7 @@
 <tag>
 <AM lemma="tady" src="orig">Db------------1</AM>
 <AM lemma="ten" src="auto">PDFS4----------</AM>
-<AM lemma="tu" src="auto" recommended="1">Db-------------</AM>
+<AM lemma="tu" src="auto" recommended="1" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m-mf930713-010-p2s3w24">
@@ -544,7 +547,10 @@
 <LM>w#w-mf930713-010-p2s4w1</LM>
 </w.rf>
 <form>Role</form>
-<tag lemma="role-2_^(herecká_úloha;_poslání)" src="orig" selected="1">NNFS2-----A----</tag>
+<tag>
+<AM lemma="role-2_^(herecká_úloha;_poslání)" src="orig">NNFS2-----A----</AM>
+<AM lemma="role-1_^(svitek_poslání_pozemek)" src="manual" selected="1">NNFS2-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930713-010-p2s4w2">
 <src.rf>manual</src.rf>
@@ -568,7 +574,10 @@
 <LM>w#w-mf930713-010-p2s4w4</LM>
 </w.rf>
 <form>ujal</form>
-<tag lemma="ujmout_,x" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag>
+<AM lemma="ujmout_,x" src="orig">VpYS---XR-AA---</AM>
+<AM lemma="ujmout_:W" src="manual" selected="1">VpYS---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-mf930713-010-p2s4w5">
 <src.rf>manual</src.rf>
@@ -600,7 +609,10 @@
 <LM>w#w-mf930713-010-p2s4w8</LM>
 </w.rf>
 <form>Old</form>
-<tag lemma="Old_;Y" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="Old_;Y" src="orig">AAXXX----1A----</AM>
+<AM lemma="Old-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-mf930713-010-p2s4w9">
 <src.rf>manual</src.rf>

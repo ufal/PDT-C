@@ -1977,7 +1977,10 @@
 <LM>w#w-mf930701-122-p4s7w20</LM>
 </w.rf>
 <form>vedl</form>
-<tag lemma="vést" src="auto" selected="1">VpYS---XR-AA---</tag>
+<tag>
+<AM lemma="vést" src="auto">VpYS---XR-AA---</AM>
+<AM lemma="vést_:T" src="manual" selected="1">VpYS---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-mf930701-122-p4s7w21">
 <src.rf>manual</src.rf>
@@ -3935,7 +3938,7 @@
 <form>znervózněl</form>
 <tag>
 <AM lemma="znervóznit" src="orig">VpYS---XR-AA---</AM>
-<AM lemma="znervóznět" src="auto" recommended="1">VpYS---XR-AA---</AM>
+<AM lemma="znervóznět" src="auto" recommended="1" selected="1">VpYS---XR-AA---</AM>
 </tag>
 </m>
 <m id="m-mf930701-122-p7s2w11">
@@ -4701,7 +4704,7 @@
 </w.rf>
 <form>Connell</form>
 <tag>
-<AM lemma="Connell-2_;S" src="orig">NNMS1-----A----</AM>
+<AM lemma="Connell-2_;S" src="orig" selected="1">NNMS1-----A----</AM>
 <AM lemma="Connell_;G" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Connell_;G" src="auto">NNIS4-----A----</AM>
 </tag>
@@ -4763,6 +4766,7 @@
 <tag>
 <AM lemma="USA_;G" src="orig">NNIPX-----A----</AM>
 <AM lemma="USA_:B_;K_,t_^(United_States_of_America)" src="auto" recommended="1">NNIPX-----A---8</AM>
+<AM lemma="USA_:B_;K_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-mf930701-122-p9s1w19">
@@ -4836,7 +4840,7 @@
 </w.rf>
 <form>Lot</form>
 <tag>
-<AM lemma="Lotyšsko_:B_;G" src="orig">NNNXX-----A---8</AM>
+<AM lemma="Lotyšsko_:B_;G" src="orig" selected="1">NNNXX-----A---8</AM>
 <AM lemma="Lot_;S" src="auto">NNMS1-----A----</AM>
 <AM lemma="Lota_;G" src="auto">NNFP2-----A----</AM>
 <AM lemma="lot" src="auto" recommended="1">NNIS1-----A----</AM>
@@ -5278,6 +5282,7 @@
 <AM lemma="nad-1_:B" src="auto">RR--7---------8</AM>
 <AM lemma="nádraží_:B" src="auto">NNNXX-----A---9</AM>
 <AM lemma="národní_:B" src="auto">AAXXX----1A---8</AM>
+<AM lemma="N-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-mf930701-122-p10s1w11">
@@ -5442,7 +5447,10 @@
 <LM>w#w-mf930701-122-p10s3w3</LM>
 </w.rf>
 <form>Ting</form>
-<tag lemma="Ting_;S" src="auto" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Ting_;S" src="auto">NNMS1-----A----</AM>
+<AM lemma="Ting_;S_;Y" src="manual" selected="1">NNMXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930701-122-p10s3w4">
 <src.rf>manual</src.rf>
@@ -5475,7 +5483,7 @@
 </w.rf>
 <form>Tchaj</form>
 <tag>
-<AM lemma="Tchajwan_:B_;G" src="orig">NNIXX-----A---8</AM>
+<AM lemma="Tchajwan_:B_;G" src="orig" selected="1">NNIXX-----A---8</AM>
 <AM lemma="Tchaj-1_;S_,t" src="auto">NNMSX-----A----</AM>
 <AM lemma="Tchaj-2_;G_,t" src="auto" recommended="1">NNISX-----A----</AM>
 <AM lemma="Tchaj_;G" src="auto">AAXXX----1A----</AM>

@@ -19,7 +19,10 @@
 <LM>w#w-mf920923-005-p1s1w1</LM>
 </w.rf>
 <form>ČNR</form>
-<tag lemma="ČNR-1_:B_;K_^(Česká_národní_rada)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ČNR-1_:B_;K_^(Česká_národní_rada)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČNR-1_:B_;K_^(Česká_národní_rada)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920923-005-p1s1w2">
 <src.rf>manual</src.rf>
@@ -165,7 +168,10 @@
 <LM>w#w-mf920923-005-p2s1w14</LM>
 </w.rf>
 <form>SFTR</form>
-<tag lemma="SFTR_:B_;K_^(Státní_fond_tržní_regulace)" src="auto" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="SFTR_:B_;K_^(Státní_fond_tržní_regulace)" src="auto">NNXXX-----A---8</AM>
+<AM lemma="SFTR-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920923-005-p2s1w15">
 <src.rf>manual</src.rf>
@@ -571,7 +577,10 @@
 <LM>w#w-mf920923-005-p3s1w11</LM>
 </w.rf>
 <form>ČSFR</form>
-<tag lemma="ČSFR-1_:B_;G_^(Čs._federativní_republika)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ČSFR-1_:B_;G_^(Čs._federativní_republika)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČSFR-1_:B_;G_^(Čs._federativní_republika)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920923-005-p3s1w12">
 <src.rf>manual</src.rf>
@@ -619,7 +628,10 @@
 <LM>w#w-mf920923-005-p3s1w17</LM>
 </w.rf>
 <form>FFTR</form>
-<tag lemma="FFTR_:B_;K" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="FFTR_:B_;K" src="orig">NNIXX-----A---8</AM>
+<AM lemma="FFTR-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920923-005-p3s1w18">
 <src.rf>manual</src.rf>
@@ -813,7 +825,10 @@
 <LM>w#w-mf920923-005-p3s2w22</LM>
 </w.rf>
 <form>FFTR</form>
-<tag lemma="FFTR_:B_;K" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="FFTR_:B_;K" src="orig">NNIXX-----A---8</AM>
+<AM lemma="FFTR-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920923-005-p3s2w23">
 <src.rf>manual</src.rf>
@@ -839,7 +854,7 @@
 <form>třeba</form>
 <tag>
 <AM lemma="třeba-1" src="orig">ACNS------A----</AM>
-<AM lemma="třeba-2" src="auto" recommended="1">Db-------------</AM>
+<AM lemma="třeba-2" src="auto" recommended="1" selected="1">Db-------------</AM>
 <AM lemma="třeba-3" src="auto">TT-------------</AM>
 </tag>
 </m>
@@ -891,7 +906,10 @@
 <LM>w#w-mf920923-005-p3s3w1</LM>
 </w.rf>
 <form>SFTR</form>
-<tag lemma="SFTR_:B_;K_^(Státní_fond_tržní_regulace)" src="auto" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="SFTR_:B_;K_^(Státní_fond_tržní_regulace)" src="auto">NNXXX-----A---8</AM>
+<AM lemma="SFTR-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920923-005-p3s3w2">
 <src.rf>manual</src.rf>
@@ -907,7 +925,10 @@
 <LM>w#w-mf920923-005-p3s3w3</LM>
 </w.rf>
 <form>mít</form>
-<tag lemma="mít" src="orig" selected="1">Vf--------A----</tag>
+<tag>
+<AM lemma="mít" src="orig">Vf--------A----</AM>
+<AM lemma="mít_:T" src="manual" selected="1">Vf--------A----</AM>
+</tag>
 </m>
 <m id="m-mf920923-005-p3s3w4">
 <src.rf>manual</src.rf>
@@ -955,7 +976,10 @@
 <LM>w#w-mf920923-005-p3s3w9</LM>
 </w.rf>
 <form>nezbytná</form>
-<tag lemma="zbytný" src="orig" selected="1">AANP4----1N----</tag>
+<tag>
+<AM lemma="zbytný" src="orig">AANP4----1N----</AM>
+<AM lemma="nezbytný" src="manual" selected="1">AANP4----1A----</AM>
+</tag>
 </m>
 <m id="m-mf920923-005-p3s3w10">
 <src.rf>manual</src.rf>
@@ -1069,7 +1093,7 @@
 <form>třeba</form>
 <tag>
 <AM lemma="třeba-1" src="orig">ACNS------A----</AM>
-<AM lemma="třeba-2" src="auto" recommended="1">Db-------------</AM>
+<AM lemma="třeba-2" src="auto" recommended="1" selected="1">Db-------------</AM>
 <AM lemma="třeba-3" src="auto">TT-------------</AM>
 </tag>
 </m>
@@ -1337,7 +1361,10 @@
 <LM>w#w-mf920923-005-p3s4w10</LM>
 </w.rf>
 <form>ČR</form>
-<tag lemma="ČR-1_:B_;G_^(Česká_republika)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920923-005-p3s4w11">
 <src.rf>manual</src.rf>

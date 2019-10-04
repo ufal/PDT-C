@@ -615,7 +615,10 @@
 <LM>w#w-lnd92259-014-p3s5w9</LM>
 </w.rf>
 <form>ing</form>
-<tag lemma="Ing-1_:B_^(inženýr)" src="orig" selected="1">NNMXX-----A---8</tag>
+<tag>
+<AM lemma="Ing-1_:B_^(inženýr)" src="orig">NNMXX-----A---8</AM>
+<AM lemma="ing_:B_^(inženýr)" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd92259-014-p3s5w10">
 <src.rf>manual</src.rf>
@@ -632,7 +635,7 @@
 </w.rf>
 <form>Jiljí</form>
 <tag>
-<AM lemma="Jiljí_;Y" src="orig">NNMXX-----A----</AM>
+<AM lemma="Jiljí_;Y" src="orig" selected="1">NNMXX-----A----</AM>
 <AM lemma="Jiljí_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Jiljí_;Y" src="auto">NNMS5-----A----</AM>
 </tag>
@@ -825,7 +828,7 @@
 <form>ovšem</form>
 <tag>
 <AM lemma="ovšem-1_^(avšak,_však;_odporovací_spojka)" src="orig">J^-------------</AM>
-<AM lemma="ovšem" src="auto" recommended="1">TT-------------</AM>
+<AM lemma="ovšem" src="auto" recommended="1" selected="1">TT-------------</AM>
 </tag>
 </m>
 <m id="m-lnd92259-014-p4s2w6">
@@ -1688,7 +1691,7 @@
 <form>ovšem</form>
 <tag>
 <AM lemma="ovšem-1_^(avšak,_však;_odporovací_spojka)" src="orig">J^-------------</AM>
-<AM lemma="ovšem" src="auto" recommended="1">TT-------------</AM>
+<AM lemma="ovšem" src="auto" recommended="1" selected="1">TT-------------</AM>
 </tag>
 </m>
 <m id="m-lnd92259-014-p6s3w3">
@@ -2366,7 +2369,7 @@
 <tag>
 <AM lemma="tedy" src="orig">Db-------------</AM>
 <AM lemma="tedy-1" src="auto">TT-------------</AM>
-<AM lemma="tedy-2" src="auto" recommended="1">J^-------------</AM>
+<AM lemma="tedy-2" src="auto" recommended="1" selected="1">J^-------------</AM>
 </tag>
 </m>
 <m id="m-lnd92259-014-p7s1w3">

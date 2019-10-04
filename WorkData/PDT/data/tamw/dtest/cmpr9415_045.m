@@ -370,7 +370,10 @@
 <LM>w#w-cmpr9415-045-p3s3w11</LM>
 </w.rf>
 <form>mohou</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VB-P---3P-AA--1</tag>
+<tag>
+<AM lemma="moci_^(mít_možnost_[něco_dělat])" src="orig">VB-P---3P-AA--1</AM>
+<AM lemma="moci_:T_^(mít_možnost_[něco_dělat])" src="manual" selected="1">VB-P---3P-AA--1</AM>
+</tag>
 </m>
 <m id="m-cmpr9415-045-p3s3w12">
 <src.rf>manual</src.rf>
@@ -378,7 +381,10 @@
 <LM>w#w-cmpr9415-045-p3s3w12</LM>
 </w.rf>
 <form>pomoci</form>
-<tag lemma="pomoci" src="orig" selected="1">Vf--------A---1</tag>
+<tag>
+<AM lemma="pomoci" src="orig">Vf--------A---1</AM>
+<AM lemma="pomoci_:W" src="manual" selected="1">Vf--------A---1</AM>
+</tag>
 </m>
 <m id="m-cmpr9415-045-p3s3w13">
 <src.rf>manual</src.rf>
@@ -471,7 +477,7 @@
 <tag>
 <AM lemma="dvojstrana_^(dvě_stránky)" src="orig">NNFS6-----A----</AM>
 <AM lemma="dvoustrana_^(dvě_stránky)" src="auto">NNFS3-----A----</AM>
-<AM lemma="dvoustrana_^(dvě_stránky)" src="auto" recommended="1">NNFS6-----A----</AM>
+<AM lemma="dvoustrana_^(dvě_stránky)" src="auto" recommended="1" selected="1">NNFS6-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9415-045-p3s4w9">
@@ -1202,7 +1208,7 @@
 <form>nejen</form>
 <tag>
 <AM lemma="nejen" src="orig">TT-------------</AM>
-<AM lemma="nejen" src="auto" recommended="1">Db-------------</AM>
+<AM lemma="nejen" src="auto" recommended="1" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m-cmpr9415-045-p6s3w3">
@@ -1327,7 +1333,7 @@
 <form>totiž</form>
 <tag>
 <AM lemma="totiž" src="orig">Db-------------</AM>
-<AM lemma="totiž-1" src="auto" recommended="1">J^-------------</AM>
+<AM lemma="totiž-1" src="auto" recommended="1" selected="1">J^-------------</AM>
 <AM lemma="totiž-2" src="auto">TT-------------</AM>
 </tag>
 </m>
@@ -1337,7 +1343,10 @@
 <LM>w#w-cmpr9415-045-p6s4w6</LM>
 </w.rf>
 <form>může</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag>
+<AM lemma="moci_^(mít_možnost_[něco_dělat])" src="orig">VB-S---3P-AA---</AM>
+<AM lemma="moci_:T_^(mít_možnost_[něco_dělat])" src="manual" selected="1">VB-S---3P-AA---</AM>
+</tag>
 </m>
 <m id="m-cmpr9415-045-p6s4w7">
 <src.rf>manual</src.rf>
@@ -1353,7 +1362,10 @@
 <LM>w#w-cmpr9415-045-p6s4w8</LM>
 </w.rf>
 <form>přijít</form>
-<tag lemma="přijít" src="orig" selected="1">Vf--------A----</tag>
+<tag>
+<AM lemma="přijít" src="orig">Vf--------A----</AM>
+<AM lemma="přijít_:W" src="manual" selected="1">Vf--------A----</AM>
+</tag>
 </m>
 <m id="m-cmpr9415-045-p6s4w9">
 <src.rf>manual</src.rf>
@@ -1421,7 +1433,10 @@
 <LM>w#w-cmpr9415-045-p6s6w1</LM>
 </w.rf>
 <form>Otevřte</form>
-<tag lemma="otevřít" src="orig" selected="1">Vi-P---2--A---1</tag>
+<tag>
+<AM lemma="otevřít" src="orig">Vi-P---2--A---1</AM>
+<AM lemma="otevřít_:W" src="manual" selected="1">Vi-P---2--A---1</AM>
+</tag>
 </m>
 <m id="m-cmpr9415-045-p6s6w2">
 <src.rf>manual</src.rf>

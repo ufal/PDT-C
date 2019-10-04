@@ -569,7 +569,7 @@
 <AM lemma="odchod" src="orig">NNIS6-----A----</AM>
 <AM lemma="odchod" src="auto">NNIS2-----A----</AM>
 <AM lemma="odchod" src="auto">NNIS3-----A----</AM>
-<AM lemma="odchod" src="auto" recommended="1">NNIS6-----A---1</AM>
+<AM lemma="odchod" src="auto" recommended="1" selected="1">NNIS6-----A---1</AM>
 </tag>
 </m>
 <m id="m-ln95047-025-p2s3w13">
@@ -658,7 +658,10 @@
 <LM>w#w-ln95047-025-p2s3w23</LM>
 </w.rf>
 <form>B</form>
-<tag lemma="b-3_^(označení_pomocí_písmene)" src="orig" selected="1">NNNXX-----A----</tag>
+<tag>
+<AM lemma="b-3_^(označení_pomocí_písmene)" src="orig">NNNXX-----A----</AM>
+<AM lemma="B-33_^(označení_pomocí_písmene)" src="manual" selected="1">NNNXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95047-025-p2s3w24">
 <src.rf>manual</src.rf>
@@ -1260,7 +1263,10 @@
 <LM>w#w-ln95047-025-p3s5w13</LM>
 </w.rf>
 <form>jen</form>
-<tag lemma="jen-1" src="auto" selected="1">TT-------------</tag>
+<tag>
+<AM lemma="jen-1" src="auto">TT-------------</AM>
+<AM lemma="jen-4_^(pouze)" src="manual" selected="1">Db-------------</AM>
+</tag>
 </m>
 <m id="m-ln95047-025-p3s5w14">
 <src.rf>manual</src.rf>
@@ -1552,7 +1558,10 @@
 <LM>w#w-ln95047-025-p3s7w16</LM>
 </w.rf>
 <form>jen</form>
-<tag lemma="jen-1" src="auto" selected="1">TT-------------</tag>
+<tag>
+<AM lemma="jen-1" src="auto">TT-------------</AM>
+<AM lemma="jen-4_^(pouze)" src="manual" selected="1">Db-------------</AM>
+</tag>
 </m>
 <m id="m-ln95047-025-p3s7w17">
 <src.rf>manual</src.rf>
@@ -1666,7 +1675,10 @@
 <LM>w#w-ln95047-025-p3s8w7</LM>
 </w.rf>
 <form>jako</form>
-<tag lemma="jako-1" src="auto" selected="1">J,-------------</tag>
+<tag>
+<AM lemma="jako-1" src="auto" selected="1">J,-------------</AM>
+<AM lemma="jako-2" src="manual">Db-------------</AM>
+</tag>
 </m>
 <m id="m-ln95047-025-p3s8w8">
 <src.rf>manual</src.rf>
@@ -2428,7 +2440,11 @@
 <LM>w#w-ln95047-025-p4s1w8</LM>
 </w.rf>
 <form>Č</form>
-<tag lemma="Český_:B_;G" src="orig" selected="1">AAXXX----1A---8</tag>
+<tag>
+<AM lemma="Český_:B_;G" src="orig">AAXXX----1A---8</AM>
+<AM lemma="český" src="manual">AAXXX----1A---8</AM>
+<AM lemma="Č-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95047-025-p4s1w9">
 <src.rf>manual</src.rf>
@@ -2572,7 +2588,10 @@
 <LM>w#w-ln95047-025-p4s1w26</LM>
 </w.rf>
 <form>B</form>
-<tag lemma="b-3_^(označení_pomocí_písmene)" src="orig" selected="1">NNNXX-----A----</tag>
+<tag>
+<AM lemma="b-3_^(označení_pomocí_písmene)" src="orig">NNNXX-----A----</AM>
+<AM lemma="B-33_^(označení_pomocí_písmene)" src="manual" selected="1">NNNXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95047-025-p4s1w27">
 <src.rf>manual</src.rf>

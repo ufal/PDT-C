@@ -19,7 +19,10 @@
 <LM>w#w-ln95042-034-p1s1w1</LM>
 </w.rf>
 <form>Emmerson</form>
-<tag lemma="Emmerson_;S" src="auto" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Emmerson_;S" src="auto">NNMS1-----A----</AM>
+<AM lemma="Emmerson_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95042-034-p1s1w2">
 <src.rf>manual</src.rf>
@@ -115,7 +118,10 @@
 <LM>w#w-ln95042-034-p1s1w13</LM>
 </w.rf>
 <form>Copersucar</form>
-<tag lemma="Copersucar_;R_,t" src="orig" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="Copersucar_;R_,t" src="orig">NNIS1-----A----</AM>
+<AM lemma="Copersucar_;R" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95042-034-p1s1w14">
 <src.rf>manual</src.rf>

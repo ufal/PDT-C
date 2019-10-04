@@ -231,7 +231,10 @@
 <LM>w#w-lnd94105-123-p1s3w15</LM>
 </w.rf>
 <form>kamionů</form>
-<tag lemma="kamión" src="orig" selected="1">NNIP2-----A----</tag>
+<tag>
+<AM lemma="kamión" src="orig">NNIP2-----A----</AM>
+<AM lemma="kamion_,s_^(^DD**kamión)" src="manual" selected="1">NNIP2-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd94105-123-p1s3w16">
 <src.rf>manual</src.rf>
@@ -565,7 +568,10 @@
 <LM>w#w-lnd94105-123-p1s6w2</LM>
 </w.rf>
 <form>kamionů</form>
-<tag lemma="kamión" src="orig" selected="1">NNIP2-----A----</tag>
+<tag>
+<AM lemma="kamión" src="orig">NNIP2-----A----</AM>
+<AM lemma="kamion_,s_^(^DD**kamión)" src="manual" selected="1">NNIP2-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd94105-123-p1s6w3">
 <src.rf>manual</src.rf>
@@ -685,7 +691,11 @@
 <LM>w#w-lnd94105-123-p1s6w17</LM>
 </w.rf>
 <form>dovážené</form>
-<tag lemma="dovážený_^(dokončit_vážení)_(*2t)" src="auto" selected="1">AAIP1----1A----</tag>
+<tag>
+<AM lemma="dovážený_^(dokončit_vážení)_(*2t)" src="auto">AAIP1----1A----</AM>
+<AM lemma="dovážený_^(z_ciziny)_(*2t)" src="manual">AAIP1----1A----</AM>
+<AM lemma="dovážený-2_^(z_ciziny)_(*4t)" src="manual" selected="1">AAIP1----1A----</AM>
+</tag>
 </m>
 <m id="m-lnd94105-123-p1s6w18">
 <src.rf>manual</src.rf>
@@ -927,7 +937,10 @@
 <LM>w#w-lnd94105-123-p1s7w18</LM>
 </w.rf>
 <form>kamion</form>
-<tag lemma="kamión" src="orig" selected="1">NNIS4-----A----</tag>
+<tag>
+<AM lemma="kamión" src="orig">NNIS4-----A----</AM>
+<AM lemma="kamion_,s_^(^DD**kamión)" src="manual" selected="1">NNIS4-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd94105-123-p1s7w19">
 <src.rf>manual</src.rf>
@@ -1219,7 +1232,10 @@
 <LM>w#w-lnd94105-123-p1s9w15</LM>
 </w.rf>
 <form>Transit</form>
-<tag lemma="transit" src="orig" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="transit" src="orig">NNIS1-----A----</AM>
+<AM lemma="Transit-1_;R" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd94105-123-p1s9w16">
 <src.rf>manual</src.rf>
@@ -1429,7 +1445,10 @@
 <LM>w#w-lnd94105-123-p1s10w19</LM>
 </w.rf>
 <form>Z</form>
-<tag lemma="Z-0_:B_;Y" src="orig" selected="1">NNMXX-----A---8</tag>
+<tag>
+<AM lemma="Z-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
+<AM lemma="Z-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd94105-123-p1s10w20">
 <src.rf>manual</src.rf>

@@ -161,7 +161,10 @@
 <LM>w#w-mf920923-132-p2s2w8</LM>
 </w.rf>
 <form>Rady</form>
-<tag lemma="rada-3_^(poradní_sbor;_př._Česká_národní_r.)" src="orig" selected="1">NNFS2-----A----</tag>
+<tag>
+<AM lemma="rada-3_^(poradní_sbor;_př._Česká_národní_r.)" src="orig">NNFS2-----A----</AM>
+<AM lemma="rada-1_^(př._dát_někomu_dobrou_radu_poradní_sbor)" src="manual" selected="1">NNFS2-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920923-132-p2s2w9">
 <src.rf>manual</src.rf>
@@ -177,7 +180,10 @@
 <LM>w#w-mf920923-132-p2s2w10</LM>
 </w.rf>
 <form>OSN</form>
-<tag lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920923-132-p2s2w11">
 <src.rf>manual</src.rf>
@@ -185,7 +191,10 @@
 <LM>w#w-mf920923-132-p2s2w11</LM>
 </w.rf>
 <form>č</form>
-<tag lemma="číslo_:B" src="orig" selected="1">NNNXX-----A---8</tag>
+<tag>
+<AM lemma="číslo_:B" src="orig">NNNXX-----A---8</AM>
+<AM lemma="číslo" src="manual" selected="1">NNNXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-mf920923-132-p2s2w12">
 <src.rf>manual</src.rf>
@@ -565,7 +574,10 @@
 <LM>w#w-mf920923-132-p3s1w25</LM>
 </w.rf>
 <form>strany</form>
-<tag lemma="strana-3_^(u_soudu,_na_úřadě,_smluvní_strany;_na_něčí_straně)" src="orig" selected="1">NNFS2-----A----</tag>
+<tag>
+<AM lemma="strana-3_^(u_soudu,_na_úřadě,_smluvní_strany;_na_něčí_straně)" src="orig">NNFS2-----A----</AM>
+<AM lemma="strana" src="manual" selected="1">NNFS2-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920923-132-p3s1w26">
 <src.rf>manual</src.rf>
@@ -1017,7 +1029,10 @@
 <LM>w#w-mf920923-132-p4s2w27</LM>
 </w.rf>
 <form>řekl</form>
-<tag lemma="říci" src="auto" selected="1">VpYS---XR-AA---</tag>
+<tag>
+<AM lemma="říci" src="auto">VpYS---XR-AA---</AM>
+<AM lemma="říci_:W" src="manual" selected="1">VpYS---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-mf920923-132-p4s2w28">
 <src.rf>manual</src.rf>
@@ -1151,6 +1166,7 @@
 <AM lemma="Alaf_;S" src="orig">NNMS1-----A----</AM>
 <AM lemma="Alaf_;K" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Alaf_;K" src="auto">NNIS4-----A----</AM>
+<AM lemma="Alaf-2_;S" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920923-132-p5s1w6">
@@ -1225,7 +1241,7 @@
 <form>jakémkoli</form>
 <tag>
 <AM lemma="jakýkoliv" src="orig">PZZS6---------1</AM>
-<AM lemma="jakýkoli" src="auto" recommended="1">PZZS6----------</AM>
+<AM lemma="jakýkoli" src="auto" recommended="1" selected="1">PZZS6----------</AM>
 </tag>
 </m>
 <m id="m-mf920923-132-p5s1w15">

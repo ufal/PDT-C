@@ -104,7 +104,10 @@
 <LM>w#w-ln95048-003-p2s1Bw3</LM>
 </w.rf>
 <form>ČR</form>
-<tag lemma="ČR-1_:B_;G_^(Česká_republika)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95048-003-p2s1Bw4">
 <src.rf>manual</src.rf>
@@ -630,7 +633,10 @@
 <LM>w#w-ln95048-003-p3s2w6</LM>
 </w.rf>
 <form>ČZ</form>
-<tag lemma="ČZ_:B_;K_;R_^(vozidlo)" src="auto" selected="1">NNFXX-----A----</tag>
+<tag>
+<AM lemma="ČZ_:B_;K_;R_^(vozidlo)" src="auto">NNFXX-----A----</AM>
+<AM lemma="ČZ-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln95048-003-p3s2w7">
 <src.rf>manual</src.rf>

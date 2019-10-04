@@ -347,7 +347,10 @@
 <LM>w#w-ln95046-067-p2s3w7</LM>
 </w.rf>
 <form>Le</form>
-<tag lemma="Le-1_,t_^(franc._člen_jako_souč._jmen_a_názvů)" src="orig" selected="1">AAISX----1A----</tag>
+<tag>
+<AM lemma="Le-1_,t_^(franc._člen_jako_souč._jmen_a_názvů)" src="orig">AAISX----1A----</AM>
+<AM lemma="Le-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln95046-067-p2s3w8">
 <src.rf>manual</src.rf>
@@ -355,7 +358,10 @@
 <LM>w#w-ln95046-067-p2s3w8</LM>
 </w.rf>
 <form>Canard</form>
-<tag lemma="Canard_;R_,t" src="orig" selected="1">NNIXX-----A----</tag>
+<tag>
+<AM lemma="Canard_;R_,t" src="orig">NNIXX-----A----</AM>
+<AM lemma="Canard-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln95046-067-p2s3w9">
 <src.rf>manual</src.rf>
@@ -363,7 +369,10 @@
 <LM>w#w-ln95046-067-p2s3w9</LM>
 </w.rf>
 <form>enchainé</form>
-<tag lemma="enchainé_;R_,t" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="enchainé_;R_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="enchainé-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln95046-067-p2s3w10">
 <src.rf>manual</src.rf>
@@ -649,7 +658,7 @@
 <form>totiž</form>
 <tag>
 <AM lemma="totiž" src="orig">Db-------------</AM>
-<AM lemma="totiž-1" src="auto" recommended="1">J^-------------</AM>
+<AM lemma="totiž-1" src="auto" recommended="1" selected="1">J^-------------</AM>
 <AM lemma="totiž-2" src="auto">TT-------------</AM>
 </tag>
 </m>

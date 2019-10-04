@@ -19,7 +19,10 @@
 <LM>w#w-lnd94103-054-p1s1w1</LM>
 </w.rf>
 <form>OSN</form>
-<tag lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd94103-054-p1s1w2">
 <src.rf>manual</src.rf>
@@ -191,7 +194,10 @@
 <LM>w#w-lnd94103-054-p1s3w11</LM>
 </w.rf>
 <form>stran</form>
-<tag lemma="strana-3_^(u_soudu,_na_úřadě,_smluvní_strany;_na_něčí_straně)" src="orig" selected="1">NNFP2-----A----</tag>
+<tag>
+<AM lemma="strana-3_^(u_soudu,_na_úřadě,_smluvní_strany;_na_něčí_straně)" src="orig">NNFP2-----A----</AM>
+<AM lemma="strana" src="manual" selected="1">NNFP2-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd94103-054-p1s3w12">
 <src.rf>manual</src.rf>
@@ -345,7 +351,10 @@
 <LM>w#w-lnd94103-054-p1s4w8</LM>
 </w.rf>
 <form>strany</form>
-<tag lemma="strana-3_^(u_soudu,_na_úřadě,_smluvní_strany;_na_něčí_straně)" src="orig" selected="1">NNFP1-----A----</tag>
+<tag>
+<AM lemma="strana-3_^(u_soudu,_na_úřadě,_smluvní_strany;_na_něčí_straně)" src="orig">NNFP1-----A----</AM>
+<AM lemma="strana" src="manual" selected="1">NNFP1-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd94103-054-p1s4w9">
 <src.rf>manual</src.rf>
@@ -547,7 +556,10 @@
 <LM>w#w-lnd94103-054-p1s5w19</LM>
 </w.rf>
 <form>OSN</form>
-<tag lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd94103-054-p1s5w20">
 <src.rf>manual</src.rf>
@@ -1053,7 +1065,7 @@
 <form>ačkoli</form>
 <tag>
 <AM lemma="ačkoliv" src="orig">J,------------1</AM>
-<AM lemma="ačkoli" src="auto" recommended="1">J,-------------</AM>
+<AM lemma="ačkoli" src="auto" recommended="1" selected="1">J,-------------</AM>
 </tag>
 </m>
 <m id="m-lnd94103-054-p1s9w6">
@@ -1118,7 +1130,10 @@
 <LM>w#w-lnd94103-054-p1s9w13</LM>
 </w.rf>
 <form>strany</form>
-<tag lemma="strana-3_^(u_soudu,_na_úřadě,_smluvní_strany;_na_něčí_straně)" src="orig" selected="1">NNFP1-----A----</tag>
+<tag>
+<AM lemma="strana-3_^(u_soudu,_na_úřadě,_smluvní_strany;_na_něčí_straně)" src="orig">NNFP1-----A----</AM>
+<AM lemma="strana" src="manual" selected="1">NNFP1-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd94103-054-p1s9w14">
 <src.rf>manual</src.rf>
@@ -1466,7 +1481,10 @@
 <LM>w#w-lnd94103-054-p1s11w13</LM>
 </w.rf>
 <form>CNN</form>
-<tag lemma="CNN-1_:B_;K_;b_;y_,t_^(Cable_News_Network,_USA_TV)" src="auto" selected="1">NNNXX-----A---8</tag>
+<tag>
+<AM lemma="CNN-1_:B_;K_;b_;y_,t_^(Cable_News_Network,_USA_TV)" src="auto">NNNXX-----A---8</AM>
+<AM lemma="CNN-1_:B_;K_^(Cable_News_Network,_USA_TV)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd94103-054-p1s11w14">
 <src.rf>manual</src.rf>
@@ -1530,7 +1548,10 @@
 <LM>w#w-lnd94103-054-p1s11w21</LM>
 </w.rf>
 <form>OSN</form>
-<tag lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd94103-054-p1s11w22">
 <src.rf>manual</src.rf>
@@ -1538,7 +1559,10 @@
 <LM>w#w-lnd94103-054-p1s11w22</LM>
 </w.rf>
 <form>Madeleine</form>
-<tag lemma="Madeleine_;Y_,t" src="auto" selected="1">NNFXX-----A----</tag>
+<tag>
+<AM lemma="Madeleine_;Y_,t" src="auto">NNFXX-----A----</AM>
+<AM lemma="Madeleine_;Y" src="manual" selected="1">NNFXX-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd94103-054-p1s11w23">
 <src.rf>manual</src.rf>

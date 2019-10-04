@@ -287,7 +287,7 @@
 <form>Abraham</form>
 <tag>
 <AM lemma="Abrahám_;Y" src="orig">NNMS1-----A----</AM>
-<AM lemma="Abraham_;S_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Abraham_;S_;Y" src="auto" recommended="1" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930702-042-p2s1w33">
@@ -372,7 +372,7 @@
 <form>expertiza</form>
 <tag>
 <AM lemma="expertíza" src="orig">NNFS1-----A----</AM>
-<AM lemma="expertiza" src="auto" recommended="1">NNFS1-----A----</AM>
+<AM lemma="expertiza" src="auto" recommended="1" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930702-042-p2s2w9">
@@ -593,7 +593,10 @@
 <LM>w#w-mf930702-042-p2s4w11</LM>
 </w.rf>
 <form>Odysseus</form>
-<tag lemma="Odysseus_;S" src="auto" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Odysseus_;S" src="auto">NNMS1-----A----</AM>
+<AM lemma="Odysseus_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930702-042-p2s4w12">
 <src.rf>manual</src.rf>

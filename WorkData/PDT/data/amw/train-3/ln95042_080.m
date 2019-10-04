@@ -167,7 +167,10 @@
 <LM>w#w-ln95042-080-p2s1Bw9</LM>
 </w.rf>
 <form>B</form>
-<tag lemma="b-3_^(označení_pomocí_písmene)" src="orig" selected="1">NNNXX-----A----</tag>
+<tag>
+<AM lemma="b-3_^(označení_pomocí_písmene)" src="orig">NNNXX-----A----</AM>
+<AM lemma="B-33_^(označení_pomocí_písmene)" src="manual" selected="1">NNNXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95042-080-p2s1Bw10">
 <src.rf>manual</src.rf>
@@ -757,7 +760,10 @@
 <LM>w#w-ln95042-080-p2s4w4</LM>
 </w.rf>
 <form>B</form>
-<tag lemma="b-3_^(označení_pomocí_písmene)" src="orig" selected="1">NNNXX-----A----</tag>
+<tag>
+<AM lemma="b-3_^(označení_pomocí_písmene)" src="orig">NNNXX-----A----</AM>
+<AM lemma="B-33_^(označení_pomocí_písmene)" src="manual" selected="1">NNNXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95042-080-p2s4w5">
 <src.rf>manual</src.rf>
@@ -1340,7 +1346,10 @@
 <LM>w#w-ln95042-080-p2s7w21</LM>
 </w.rf>
 <form>B</form>
-<tag lemma="b-3_^(označení_pomocí_písmene)" src="orig" selected="1">NNNXX-----A----</tag>
+<tag>
+<AM lemma="b-3_^(označení_pomocí_písmene)" src="orig">NNNXX-----A----</AM>
+<AM lemma="B-33_^(označení_pomocí_písmene)" src="manual" selected="1">NNNXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95042-080-p2s7w22">
 <src.rf>manual</src.rf>

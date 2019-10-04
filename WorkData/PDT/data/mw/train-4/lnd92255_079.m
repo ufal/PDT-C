@@ -187,7 +187,10 @@
 <LM>w#w-lnd92255-079-p2s2w3</LM>
 </w.rf>
 <form>DEM</form>
-<tag lemma="DEM_:B_;b_^(německá_marka)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="DEM_:B_;b_^(německá_marka)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="DEM-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd92255-079-p2s2w4">
 <src.rf>manual</src.rf>
@@ -297,7 +300,10 @@
 <LM>w#w-lnd92255-079-p4s1w1</LM>
 </w.rf>
 <form>tzv</form>
-<tag lemma="takzvaný_:B" src="orig" selected="1">AAXXX----1A---8</tag>
+<tag>
+<AM lemma="takzvaný_:B" src="orig">AAXXX----1A---8</AM>
+<AM lemma="takzvaný" src="manual" selected="1">AAXXX----1A---8</AM>
+</tag>
 </m>
 <m id="m-lnd92255-079-p4s1w2">
 <src.rf>manual</src.rf>
@@ -531,7 +537,12 @@
 <LM>w#w-lnd92255-079-p7s1w2</LM>
 </w.rf>
 <form>areá</form>
-<tag lemma="areál" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="areál" src="orig">NNIS1-----A----</tag>
+<comment>
+<LM type="New Form">
+<text>areál</text>
+</LM>
+</comment>
 </m>
 <m id="m-lnd92255-079-p7s1w3">
 <src.rf>manual</src.rf>
@@ -634,7 +645,7 @@
 <tag>
 <AM lemma="Ves_;G" src="orig">NNFS1-----A----</AM>
 <AM lemma="Vesa_;K" src="auto">NNFP2-----A----</AM>
-<AM lemma="ves" src="auto" recommended="1">NNFS1-----A----</AM>
+<AM lemma="ves" src="auto" recommended="1" selected="1">NNFS1-----A----</AM>
 <AM lemma="ves" src="auto">NNFS4-----A----</AM>
 </tag>
 </m>
@@ -702,7 +713,12 @@
 <LM>w#w-lnd92255-079-p9s1w2</LM>
 </w.rf>
 <form>areá</form>
-<tag lemma="areál" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="areál" src="orig">NNIS1-----A----</tag>
+<comment>
+<LM type="New Form">
+<text>areál</text>
+</LM>
+</comment>
 </m>
 <m id="m-lnd92255-079-p9s1w3">
 <src.rf>manual</src.rf>
@@ -1173,7 +1189,7 @@
 </w.rf>
 <form>Polubný</form>
 <tag>
-<AM lemma="Polubný_;G" src="orig">NNIS1-----A----</AM>
+<AM lemma="Polubný_;G" src="orig" selected="1">NNIS1-----A----</AM>
 <AM lemma="Polubná_;G_^(*1ý)" src="auto">NNFP1-----A---6</AM>
 <AM lemma="Polubná_;G_^(*1ý)" src="auto">NNFP4-----A---6</AM>
 <AM lemma="Polubná_;G_^(*1ý)" src="auto">NNFP5-----A---6</AM>
@@ -1335,7 +1351,7 @@
 <form>Vejprty</form>
 <tag>
 <AM lemma="Vejprty_;G" src="orig">NNFP1-----A----</AM>
-<AM lemma="Vejprty_;G" src="auto" recommended="1">NNIP1-----A----</AM>
+<AM lemma="Vejprty_;G" src="auto" recommended="1" selected="1">NNIP1-----A----</AM>
 <AM lemma="Vejprty_;G" src="auto">NNIP4-----A----</AM>
 <AM lemma="Vejprty_;G" src="auto">NNIP5-----A----</AM>
 <AM lemma="Vejprty_;G" src="auto">NNIP7-----A----</AM>
@@ -1439,7 +1455,10 @@
 <LM>w#w-lnd92255-079-p18s1w7</LM>
 </w.rf>
 <form>DEM</form>
-<tag lemma="DEM_:B_;b_^(německá_marka)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="DEM_:B_;b_^(německá_marka)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="DEM-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd92255-079-p18s1w8">
 <src.rf>manual</src.rf>

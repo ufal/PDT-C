@@ -61,7 +61,10 @@
 <LM>w#w-lnd92256-042-p2s1w3</LM>
 </w.rf>
 <form>jku</form>
-<tag lemma="jku-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="jku-99_:B_;S" src="orig">NNXXX-----A---8</AM>
+<AM lemma="jku-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92256-042-p2s1w4">
 <src.rf>manual</src.rf>
@@ -395,7 +398,10 @@
 <LM>w#w-lnd92256-042-p2s4w7</LM>
 </w.rf>
 <form>intenzivní</form>
-<tag lemma="intenzívní" src="orig" selected="1">AANP1----1A----</tag>
+<tag>
+<AM lemma="intenzívní" src="orig">AANP1----1A----</AM>
+<AM lemma="intenzivní_,s_^(^DD**intenzívní)" src="manual" selected="1">AANP1----1A----</AM>
+</tag>
 </m>
 <m id="m-lnd92256-042-p2s4w8">
 <src.rf>manual</src.rf>
@@ -435,7 +441,10 @@
 <LM>w#w-lnd92256-042-p2s4w12</LM>
 </w.rf>
 <form>JAMU</form>
-<tag lemma="JAMU_:B_;K_^(Janáčkova_akademie_múzických_umění)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="JAMU_:B_;K_^(Janáčkova_akademie_múzických_umění)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="JAMU_:B_;K_^(Janáčkova_akademie_múzických_umění)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92256-042-p2s4w13">
 <src.rf>manual</src.rf>

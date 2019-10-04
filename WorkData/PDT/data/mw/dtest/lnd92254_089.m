@@ -37,7 +37,10 @@
 <LM>w#w-lnd92254-089-p2s1w1</LM>
 </w.rf>
 <form>MEXIKO</form>
-<tag lemma="Mexiko_;G" src="orig" selected="1">NNNS1-----A----</tag>
+<tag>
+<AM lemma="Mexiko_;G" src="orig">NNNS1-----A----</AM>
+<AM lemma="Mexiko_;G_,s_^(^DD**Mexico)" src="manual" selected="1">NNNS1-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92254-089-p2s1w2">
 <src.rf>manual</src.rf>
@@ -59,6 +62,8 @@
 <AM lemma="cit" src="auto">NNIP4-----A----</AM>
 <AM lemma="cit" src="auto">NNIP5-----A----</AM>
 <AM lemma="cit" src="auto">NNIP7-----A----</AM>
+<AM lemma="CITY-77" src="manual">F%-------------</AM>
+<AM lemma="City-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-lnd92254-089-p2s1w3">
@@ -257,7 +262,10 @@
 <LM>w#w-lnd92254-089-p2s4w1</LM>
 </w.rf>
 <form>Argentinec</form>
-<tag lemma="argentinec" src="orig" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="argentinec" src="orig">NNMS1-----A----</AM>
+<AM lemma="Argentinec_;E" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92254-089-p2s4w2">
 <src.rf>manual</src.rf>

@@ -135,7 +135,10 @@
 <LM>w#w-ln94207-45-p2s1Bw10</LM>
 </w.rf>
 <form>hodinovce</form>
-<tag lemma="hodinovka_,h" src="orig" selected="1">NNFS6-----A----</tag>
+<tag>
+<AM lemma="hodinovka_,h" src="orig">NNFS6-----A----</AM>
+<AM lemma="hodinovka" src="manual" selected="1">NNFS6-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94207-45-p2s1Bw11">
 <src.rf>manual</src.rf>
@@ -169,7 +172,10 @@
 <LM>w#w-ln94207-45-p2s2w3</LM>
 </w.rf>
 <form>Tour</form>
-<tag lemma="Tour_;m_,t" src="orig" selected="1">NNFXX-----A----</tag>
+<tag>
+<AM lemma="Tour_;m_,t" src="orig">NNFXX-----A----</AM>
+<AM lemma="Tour-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94207-45-p2s2w4">
 <src.rf>manual</src.rf>
@@ -177,7 +183,10 @@
 <LM>w#w-ln94207-45-p2s2w4</LM>
 </w.rf>
 <form>de</form>
-<tag lemma="de_,t_^(z_franc._de,_zejm._ve_jménech)" src="orig" selected="1">RR--1----------</tag>
+<tag>
+<AM lemma="de_,t_^(z_franc._de,_zejm._ve_jménech)" src="orig">RR--1----------</AM>
+<AM lemma="de-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94207-45-p2s2w5">
 <src.rf>manual</src.rf>
@@ -201,6 +210,7 @@
 <AM lemma="France-1_;S" src="auto">NNMS4-----A---1</AM>
 <AM lemma="France-1_;S" src="auto">NNMS5-----A----</AM>
 <AM lemma="France-2_;G_;K" src="auto" recommended="1">NNXXX-----A----</AM>
+<AM lemma="France-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-ln94207-45-p2s2w6">
@@ -275,6 +285,7 @@
 <AM lemma="mimo-1_:B" src="auto">RR--4---------8</AM>
 <AM lemma="minuta_:B" src="auto">NNFXX-----A---8</AM>
 <AM lemma="město_:B" src="auto">NNNXX-----A---8</AM>
+<AM lemma="metr" src="manual" selected="1">NNIXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94207-45-p2s2w14">

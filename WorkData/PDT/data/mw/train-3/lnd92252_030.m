@@ -203,7 +203,10 @@
 <LM>w#w-lnd92252-030-p1s1w24</LM>
 </w.rf>
 <form>DFNS</form>
-<tag lemma="DFNS_:B_;K_^(Demokratická_fronta_národní_spásy)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="DFNS_:B_;K_^(Demokratická_fronta_národní_spásy)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="DFNS-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd92252-030-p1s1w25">
 <src.rf>manual</src.rf>
@@ -357,7 +360,10 @@
 <LM>w#w-lnd92252-030-p2s1w12</LM>
 </w.rf>
 <form>Port</form>
-<tag lemma="port" src="orig" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="port" src="orig">NNIS1-----A----</AM>
+<AM lemma="Port-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-lnd92252-030-p2s1w13">
 <src.rf>manual</src.rf>
@@ -365,7 +371,10 @@
 <LM>w#w-lnd92252-030-p2s1w13</LM>
 </w.rf>
 <form>Said</form>
-<tag lemma="Said_;G" src="orig" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="Said_;G" src="orig">NNIS1-----A----</AM>
+<AM lemma="Said-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-lnd92252-030-p2s1w14">
 <src.rf>manual</src.rf>

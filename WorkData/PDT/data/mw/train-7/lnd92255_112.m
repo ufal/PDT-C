@@ -51,7 +51,10 @@
 <LM>w#w-lnd92255-112-p1s1w5</LM>
 </w.rf>
 <form>níže</form>
-<tag lemma="níže" src="auto" selected="1">NNFS2-----A----</tag>
+<tag>
+<AM lemma="níže" src="auto">NNFS2-----A----</AM>
+<AM lemma="níž_^(co_je_nízko;[tlaková,...])" src="manual" selected="1">NNFS2-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92255-112-p1s1w6">
 <src.rf>manual</src.rf>

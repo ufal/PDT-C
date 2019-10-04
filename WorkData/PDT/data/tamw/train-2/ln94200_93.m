@@ -61,7 +61,10 @@
 <LM>w#w-ln94200-93-p2s1Aw3</LM>
 </w.rf>
 <form>jop</form>
-<tag lemma="jop-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="jop-99_:B_;S" src="orig">NNXXX-----A---8</AM>
+<AM lemma="jop-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94200-93-p2s1Aw4">
 <src.rf>manual</src.rf>
@@ -102,6 +105,8 @@
 <AM lemma="Famila_;K" src="auto">NNFP5-----A----</AM>
 <AM lemma="Famila_;K" src="auto">NNFS2-----A----</AM>
 <AM lemma="family_,t" src="auto" recommended="1">XX-------------</AM>
+<AM lemma="family_,t" src="manual">AAXXX----1A----</AM>
+<AM lemma="Family-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-ln94200-93-p2s1Bw3">
@@ -176,7 +181,10 @@
 <LM>w#w-ln94200-93-p2s2w1</LM>
 </w.rf>
 <form>V</form>
-<tag lemma="V-0_:B_;Y" src="orig" selected="1">NNMXX-----A---8</tag>
+<tag>
+<AM lemma="V-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
+<AM lemma="V-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94200-93-p2s2w2">
 <src.rf>manual</src.rf>
@@ -192,7 +200,10 @@
 <LM>w#w-ln94200-93-p2s2w3</LM>
 </w.rf>
 <form>A</form>
-<tag lemma="A-9_:B_;S" src="orig" selected="1">NNMXX-----A---8</tag>
+<tag>
+<AM lemma="A-9_:B_;S" src="orig">NNMXX-----A---8</AM>
+<AM lemma="A-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94200-93-p2s2w4">
 <src.rf>manual</src.rf>
@@ -309,7 +320,10 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>K</form>
-<tag lemma="K-0_:B_;Y" src="orig" selected="1">NNMXX-----A---8</tag>
+<tag>
+<AM lemma="K-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
+<AM lemma="K-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94200-93-p2s2w18">
 <src.rf>manual</src.rf>
@@ -325,7 +339,10 @@
 <LM>w#w-ln94200-93-p2s2w19</LM>
 </w.rf>
 <form>M</form>
-<tag lemma="M-9_:B_;S" src="orig" selected="1">NNMXX-----A---8</tag>
+<tag>
+<AM lemma="M-9_:B_;S" src="orig">NNMXX-----A---8</AM>
+<AM lemma="M-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94200-93-p2s2w20">
 <src.rf>manual</src.rf>
@@ -404,6 +421,7 @@
 <tag>
 <AM lemma="cm-1`centimetr_:B" src="orig">NNIXX-----A---8</AM>
 <AM lemma="centimetr_:B" src="auto" recommended="1">NNIXX-----A---8</AM>
+<AM lemma="centimetr" src="manual" selected="1">NNIXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-ln94200-93-p2s5w6">

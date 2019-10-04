@@ -331,7 +331,10 @@
 <LM>w#w-ln95045-015-p2s2w1</LM>
 </w.rf>
 <form>LN</form>
-<tag lemma="LN-1_:B_;R_^(Lidové_noviny,_deník)" src="orig" selected="1">NNFPX-----A---8</tag>
+<tag>
+<AM lemma="LN-1_:B_;R_^(Lidové_noviny,_deník)" src="orig">NNFPX-----A---8</AM>
+<AM lemma="LN-1_:B_;K_;R_^(Lidové_noviny)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95045-015-p2s2w2">
 <src.rf>manual</src.rf>
@@ -460,7 +463,7 @@
 </w.rf>
 <form>Rosse</form>
 <tag>
-<AM lemma="Rosse_;S" src="orig">NNMS1-----A----</AM>
+<AM lemma="Rosse_;S" src="orig" selected="1">NNMS1-----A----</AM>
 <AM lemma="Ross_;S" src="auto">NNMP4-----A----</AM>
 <AM lemma="Ross_;S" src="auto" recommended="1">NNMS2-----A----</AM>
 <AM lemma="Ross_;S" src="auto">NNMS4-----A----</AM>
@@ -1339,7 +1342,7 @@
 </w.rf>
 <form>Rosse</form>
 <tag>
-<AM lemma="Rosse_;S" src="orig">NNMS1-----A----</AM>
+<AM lemma="Rosse_;S" src="orig" selected="1">NNMS1-----A----</AM>
 <AM lemma="Ross_;S" src="auto">NNMP4-----A----</AM>
 <AM lemma="Ross_;S" src="auto" recommended="1">NNMS2-----A----</AM>
 <AM lemma="Ross_;S" src="auto">NNMS4-----A----</AM>
@@ -2046,7 +2049,7 @@
 <form>totiž</form>
 <tag>
 <AM lemma="totiž" src="orig">Db-------------</AM>
-<AM lemma="totiž-1" src="auto" recommended="1">J^-------------</AM>
+<AM lemma="totiž-1" src="auto" recommended="1" selected="1">J^-------------</AM>
 <AM lemma="totiž-2" src="auto">TT-------------</AM>
 </tag>
 </m>
@@ -2260,7 +2263,7 @@
 <form>ovšem</form>
 <tag>
 <AM lemma="ovšem-1_^(avšak,_však;_odporovací_spojka)" src="orig">J^-------------</AM>
-<AM lemma="ovšem" src="auto" recommended="1">TT-------------</AM>
+<AM lemma="ovšem" src="auto" recommended="1" selected="1">TT-------------</AM>
 </tag>
 </m>
 <m id="m-ln95045-015-p3s12w16">
@@ -2474,7 +2477,7 @@
 <tag>
 <AM lemma="posuněk" src="orig">NNIS4-----A----</AM>
 <AM lemma="posunek" src="auto">NNIS1-----A----</AM>
-<AM lemma="posunek" src="auto" recommended="1">NNIS4-----A----</AM>
+<AM lemma="posunek" src="auto" recommended="1" selected="1">NNIS4-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95045-015-p3s13w23">
@@ -2737,7 +2740,10 @@
 <LM>w#w-ln95045-015-p5s1w3</LM>
 </w.rf>
 <form>straně</form>
-<tag lemma="strana-4_^(v_knize,_rukopise,...)" src="orig" selected="1">NNFS6-----A----</tag>
+<tag>
+<AM lemma="strana-4_^(v_knize,_rukopise,...)" src="orig">NNFS6-----A----</AM>
+<AM lemma="strana" src="manual" selected="1">NNFS6-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95045-015-p5s1w4">
 <src.rf>manual</src.rf>

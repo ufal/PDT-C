@@ -43,7 +43,10 @@
 <LM>w#w-ln94208-23-p1s1w4</LM>
 </w.rf>
 <form>zabít</form>
-<tag lemma="zabít" src="orig" selected="1">Vf--------A----</tag>
+<tag>
+<AM lemma="zabít" src="orig">Vf--------A----</AM>
+<AM lemma="zabít_:W" src="manual" selected="1">Vf--------A----</AM>
+</tag>
 </m>
 <m id="m-ln94208-23-p1s1w5">
 <src.rf>manual</src.rf>
@@ -427,7 +430,10 @@
 <LM>w#w-ln94208-23-p2s2w16</LM>
 </w.rf>
 <form>ČR</form>
-<tag lemma="ČR-1_:B_;G_^(Česká_republika)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94208-23-p2s2w17">
 <src.rf>manual</src.rf>
@@ -557,7 +563,10 @@
 <LM>w#w-ln94208-23-p2s3w7</LM>
 </w.rf>
 <form>LN</form>
-<tag lemma="LN-1_:B_;R_^(Lidové_noviny,_deník)" src="orig" selected="1">NNFPX-----A---8</tag>
+<tag>
+<AM lemma="LN-1_:B_;R_^(Lidové_noviny,_deník)" src="orig">NNFPX-----A---8</AM>
+<AM lemma="LN-1_:B_;K_;R_^(Lidové_noviny)" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln94208-23-p2s3w8">
 <src.rf>manual</src.rf>
@@ -1187,7 +1196,7 @@
 <form>nejen</form>
 <tag>
 <AM lemma="nejen" src="orig">TT-------------</AM>
-<AM lemma="nejen" src="auto" recommended="1">Db-------------</AM>
+<AM lemma="nejen" src="auto" recommended="1" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m-ln94208-23-p6s2w5">
@@ -1310,7 +1319,10 @@
 <LM>w#w-ln94208-23-p7s1w5</LM>
 </w.rf>
 <form>prošel</form>
-<tag lemma="projít_^(i_uplynout_[o_čase])" src="auto" selected="1">VpYS---XR-AA---</tag>
+<tag>
+<AM lemma="projít_^(i_uplynout_[o_čase])" src="auto">VpYS---XR-AA---</AM>
+<AM lemma="projít_:W_^(i_uplynout_[o_čase])" src="manual" selected="1">VpYS---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-ln94208-23-p7s1w6">
 <src.rf>manual</src.rf>
@@ -1798,7 +1810,10 @@
 <LM>w#w-ln94208-23-p8s2w24</LM>
 </w.rf>
 <form>OOP</form>
-<tag lemma="OOP-1_:B_;K_;p_^(Org._pro_osvobození_Palestiny)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="OOP-1_:B_;K_;p_^(Org._pro_osvobození_Palestiny)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="OOP-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94208-23-p8s2w25">
 <src.rf>manual</src.rf>
@@ -1978,7 +1993,10 @@
 <LM>w#w-ln94208-23-p8s4w1</LM>
 </w.rf>
 <form>Více</form>
-<tag lemma="hodně-2" src="auto" selected="1">Dg-------2A----</tag>
+<tag>
+<AM lemma="hodně-2" src="auto">Dg-------2A----</AM>
+<AM lemma="hodně-3" src="manual" selected="1">Dg-------2A----</AM>
+</tag>
 </m>
 <m id="m-ln94208-23-p8s4w2">
 <src.rf>manual</src.rf>
@@ -2189,7 +2207,7 @@
 <tag>
 <AM lemma="tedy" src="orig">Db-------------</AM>
 <AM lemma="tedy-1" src="auto" recommended="1">TT-------------</AM>
-<AM lemma="tedy-2" src="auto">J^-------------</AM>
+<AM lemma="tedy-2" src="auto" selected="1">J^-------------</AM>
 </tag>
 </m>
 <m id="m-ln94208-23-p8s8w3">
@@ -2488,7 +2506,7 @@
 <form>třeba</form>
 <tag>
 <AM lemma="třeba-1" src="orig">ACNS------A----</AM>
-<AM lemma="třeba-2" src="auto" recommended="1">Db-------------</AM>
+<AM lemma="třeba-2" src="auto" recommended="1" selected="1">Db-------------</AM>
 <AM lemma="třeba-3" src="auto">TT-------------</AM>
 </tag>
 </m>
@@ -2602,7 +2620,10 @@
 <LM>w#w-ln94208-23-p10s2w17</LM>
 </w.rf>
 <form>fundamentalismem</form>
-<tag lemma="fundamentalizmus" src="auto" selected="1">NNIS7-----A----</tag>
+<tag>
+<AM lemma="fundamentalizmus" src="auto">NNIS7-----A----</AM>
+<AM lemma="fundamentalismus_,s_^(^DD**fundamentalizmus)" src="manual" selected="1">NNIS7-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94208-23-p10s2w18">
 <src.rf>manual</src.rf>
@@ -2704,7 +2725,7 @@
 <form>třeba</form>
 <tag>
 <AM lemma="třeba-1" src="orig">ACNS------A----</AM>
-<AM lemma="třeba-2" src="auto" recommended="1">Db-------------</AM>
+<AM lemma="třeba-2" src="auto" recommended="1" selected="1">Db-------------</AM>
 <AM lemma="třeba-3" src="auto">TT-------------</AM>
 </tag>
 </m>

@@ -159,6 +159,7 @@
 <AM lemma="rezortní_,s_,x" src="auto">AAMP6----1A----</AM>
 <AM lemma="rezortní_,s_,x" src="auto">AANP2----1A----</AM>
 <AM lemma="rezortní_,s_,x" src="auto">AANP6----1A----</AM>
+<AM lemma="resortní_,s_^(^DD**rezortní)" src="manual" selected="1">AAIP2----1A----</AM>
 </tag>
 </m>
 <m id="m-lnd92257-060-p2s1w15">
@@ -1403,7 +1404,10 @@
 <LM>w#w-lnd92257-060-p4s2w12</LM>
 </w.rf>
 <form>má</form>
-<tag lemma="mít" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag>
+<AM lemma="mít" src="orig">VB-S---3P-AA---</AM>
+<AM lemma="mít_:T" src="manual" selected="1">VB-S---3P-AA---</AM>
+</tag>
 </m>
 <m id="m-lnd92257-060-p4s2w13">
 <src.rf>manual</src.rf>
@@ -1733,7 +1737,10 @@
 <LM>w#w-lnd92257-060-p5s1w17</LM>
 </w.rf>
 <form>vybrat</form>
-<tag lemma="vybrat" src="orig" selected="1">Vf--------A----</tag>
+<tag>
+<AM lemma="vybrat" src="orig">Vf--------A----</AM>
+<AM lemma="vybrat_:W" src="manual" selected="1">Vf--------A----</AM>
+</tag>
 </m>
 <m id="m-lnd92257-060-p5s1w18">
 <src.rf>manual</src.rf>
@@ -2113,7 +2120,10 @@
 <LM>w#w-lnd92257-060-p5s3w14</LM>
 </w.rf>
 <form>dali</form>
-<tag lemma="dát" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag>
+<AM lemma="dát" src="orig">VpMP---XR-AA---</AM>
+<AM lemma="dát_:W" src="manual" selected="1">VpMP---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-lnd92257-060-p5s3w15">
 <src.rf>manual</src.rf>
@@ -2319,7 +2329,10 @@
 <LM>w#w-lnd92257-060-p7s1w1</LM>
 </w.rf>
 <form>MUDr</form>
-<tag lemma="MUDr-1_:B_^(doktor_medicíny)" src="orig" selected="1">NNMXX-----A---8</tag>
+<tag>
+<AM lemma="MUDr-1_:B_^(doktor_medicíny)" src="orig">NNMXX-----A---8</AM>
+<AM lemma="MUDr_:B_^(doktor_medicíny)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92257-060-p7s1w2">
 <src.rf>manual</src.rf>

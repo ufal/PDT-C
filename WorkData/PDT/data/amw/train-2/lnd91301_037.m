@@ -87,7 +87,7 @@
 <form>BROLNu</form>
 <tag>
 <AM lemma="BROLN_:B_;K" src="orig">NNIS2-----A----</AM>
-<AM lemma="Broln_:B_;K_^(Brněnský_rozhlasový_orchestr_lidových_nástrojů)" src="auto" recommended="1">NNIS2-----A----</AM>
+<AM lemma="Broln_:B_;K_^(Brněnský_rozhlasový_orchestr_lidových_nástrojů)" src="auto" recommended="1" selected="1">NNIS2-----A----</AM>
 <AM lemma="Broln_:B_;K_^(Brněnský_rozhlasový_orchestr_lidových_nástrojů)" src="auto">NNIS3-----A----</AM>
 <AM lemma="Broln_:B_;K_^(Brněnský_rozhlasový_orchestr_lidových_nástrojů)" src="auto">NNIS6-----A----</AM>
 </tag>
@@ -422,7 +422,10 @@
 <LM>w#w-lnd91301-037-p2s3w14</LM>
 </w.rf>
 <form>WC</form>
-<tag lemma="WC_:B" src="orig" selected="1">NNNXX-----A---8</tag>
+<tag>
+<AM lemma="WC_:B" src="orig">NNNXX-----A---8</AM>
+<AM lemma="WC-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd91301-037-p2s3w15">
 <src.rf>manual</src.rf>
@@ -653,7 +656,10 @@
 <LM>w#w-lnd91301-037-p2s6w4</LM>
 </w.rf>
 <form>utekli</form>
-<tag lemma="utéci" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag>
+<AM lemma="utéci" src="orig">VpMP---XR-AA---</AM>
+<AM lemma="utéci_:W" src="manual" selected="1">VpMP---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-lnd91301-037-p2s6w5">
 <src.rf>manual</src.rf>
@@ -741,7 +747,11 @@
 <LM>w#w-lnd91301-037-p2s6w15</LM>
 </w.rf>
 <form>VÚM</form>
-<tag lemma="VÚM-1_:B_;K_^(Výzkumný_ústav_metalurgický)" src="auto" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="VÚM-1_:B_;K_^(Výzkumný_ústav_metalurgický)" src="auto">NNIXX-----A---8</AM>
+<AM lemma="VÚM-2_:B" src="manual">NNXXX-----A---8</AM>
+<AM lemma="VÚM-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd91301-037-p2s6w16">
 <src.rf>manual</src.rf>
@@ -887,7 +897,11 @@
 <LM>w#w-lnd91301-037-p2s7w11</LM>
 </w.rf>
 <form>VÚM</form>
-<tag lemma="VÚM-1_:B_;K_^(Výzkumný_ústav_metalurgický)" src="auto" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="VÚM-1_:B_;K_^(Výzkumný_ústav_metalurgický)" src="auto">NNIXX-----A---8</AM>
+<AM lemma="VÚM-2_:B" src="manual">NNXXX-----A---8</AM>
+<AM lemma="VÚM-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd91301-037-p2s7w12">
 <src.rf>manual</src.rf>

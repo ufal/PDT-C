@@ -241,7 +241,10 @@
 <LM>w#w-ln94209-1-p2s2w13</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-2" src="auto" selected="1">Dg-------2A----</tag>
+<tag>
+<AM lemma="hodně-2" src="auto">Dg-------2A----</AM>
+<AM lemma="hodně-3" src="manual" selected="1">Dg-------2A----</AM>
+</tag>
 </m>
 <m id="m-ln94209-1-p2s2w14">
 <src.rf>manual</src.rf>
@@ -347,7 +350,10 @@
 <LM>w#w-ln94209-1-p2s3w1</LM>
 </w.rf>
 <form>Uvedl</form>
-<tag lemma="uvést" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag>
+<AM lemma="uvést" src="orig">VpYS---XR-AA---</AM>
+<AM lemma="uvést_:W" src="manual" selected="1">VpYS---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-ln94209-1-p2s3w2">
 <src.rf>manual</src.rf>
@@ -612,7 +618,7 @@
 <AM lemma="šíř_^(jeden_z_rozměrů)" src="auto">NNFP1-----A----</AM>
 <AM lemma="šíř_^(jeden_z_rozměrů)" src="auto">NNFP4-----A----</AM>
 <AM lemma="šíř_^(jeden_z_rozměrů)" src="auto">NNFP5-----A----</AM>
-<AM lemma="šíř_^(jeden_z_rozměrů)" src="auto" recommended="1">NNFS2-----A----</AM>
+<AM lemma="šíř_^(jeden_z_rozměrů)" src="auto" recommended="1" selected="1">NNFS2-----A----</AM>
 <AM lemma="šíře_^(jeden_z_rozměrů)" src="auto">NNFP1-----A----</AM>
 <AM lemma="šíře_^(jeden_z_rozměrů)" src="auto">NNFP4-----A----</AM>
 <AM lemma="šíře_^(jeden_z_rozměrů)" src="auto">NNFP5-----A----</AM>
@@ -816,7 +822,10 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>milionů</form>
-<tag lemma="milión`1000000" src="orig" selected="1">NNIP2-----A----</tag>
+<tag>
+<AM lemma="milión`1000000" src="orig">NNIP2-----A----</AM>
+<AM lemma="milion`1000000_,s_^(^DD**milión)" src="manual" selected="1">NNIP2-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94209-1-p4s1w11">
 <src.rf>manual</src.rf>
@@ -1328,7 +1337,7 @@
 <form>tedy</form>
 <tag>
 <AM lemma="tedy" src="orig">Db-------------</AM>
-<AM lemma="tedy-1" src="auto">TT-------------</AM>
+<AM lemma="tedy-1" src="auto" selected="1">TT-------------</AM>
 <AM lemma="tedy-2" src="auto" recommended="1">J^-------------</AM>
 </tag>
 </m>
@@ -1354,7 +1363,10 @@
 <LM>w#w-ln94209-1-p5s3w13</LM>
 </w.rf>
 <form>řekl</form>
-<tag lemma="říci" src="auto" selected="1">VpYS---XR-AA---</tag>
+<tag>
+<AM lemma="říci" src="auto">VpYS---XR-AA---</AM>
+<AM lemma="říci_:W" src="manual" selected="1">VpYS---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-ln94209-1-p5s3w14">
 <src.rf>manual</src.rf>
@@ -1678,7 +1690,10 @@
 <LM>w#w-ln94209-1-p6s2w18</LM>
 </w.rf>
 <form>zejména</form>
-<tag lemma="zejména-1" src="auto" selected="1">Db-------------</tag>
+<tag>
+<AM lemma="zejména-1" src="auto">Db-------------</AM>
+<AM lemma="zejména-2" src="manual" selected="1">TT-------------</AM>
+</tag>
 </m>
 <m id="m-ln94209-1-p6s2w19">
 <src.rf>manual</src.rf>

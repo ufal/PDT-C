@@ -94,7 +94,7 @@
 </w.rf>
 <form>Maurice</form>
 <tag>
-<AM lemma="Maurice_;Y" src="orig">NNMS2-----A----</AM>
+<AM lemma="Maurice_;Y" src="orig" selected="1">NNMS2-----A----</AM>
 <AM lemma="Mauric_;S" src="auto">NNMP4-----A----</AM>
 <AM lemma="Mauric_;S" src="auto" recommended="1">NNMS2-----A----</AM>
 <AM lemma="Mauric_;S" src="auto">NNMS4-----A----</AM>
@@ -299,6 +299,7 @@
 <tag>
 <AM lemma="Joan_;Y" src="orig">NNFSX-----A----</AM>
 <AM lemma="Joana_;Y" src="auto" recommended="1">NNFP2-----A----</AM>
+<AM lemma="Joan_;Y" src="manual" selected="1">NNFXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930713-007-p1s3w3">

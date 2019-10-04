@@ -305,7 +305,10 @@
 <LM>w#w-mf930709-043-p2s2w13</LM>
 </w.rf>
 <form>vydává</form>
-<tag lemma="vydávat-1_:T_^(emitovat:_cenné_papíry,_knihu,_zvuk,...)_(*6at-1)" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag>
+<AM lemma="vydávat-1_:T_^(emitovat:_cenné_papíry,_knihu,_zvuk,...)_(*6at-1)" src="orig">VB-S---3P-AA---</AM>
+<AM lemma="vydávat_:T_^(*4at)" src="manual" selected="1">VB-S---3P-AA---</AM>
+</tag>
 </m>
 <m id="m-mf930709-043-p2s2w14">
 <src.rf>manual</src.rf>
@@ -905,7 +908,10 @@
 <LM>w#w-mf930709-043-p2s6w10</LM>
 </w.rf>
 <form>tzv</form>
-<tag lemma="takzvaný_:B" src="orig" selected="1">AAXXX----1A---8</tag>
+<tag>
+<AM lemma="takzvaný_:B" src="orig">AAXXX----1A---8</AM>
+<AM lemma="takzvaný" src="manual" selected="1">AAXXX----1A---8</AM>
+</tag>
 </m>
 <m id="m-mf930709-043-p2s6w11">
 <src.rf>manual</src.rf>
@@ -1059,7 +1065,7 @@
 <form>vůbec</form>
 <tag>
 <AM lemma="vůbec" src="orig">Db-------------</AM>
-<AM lemma="vůbec" src="auto" recommended="1">TT-------------</AM>
+<AM lemma="vůbec" src="auto" recommended="1" selected="1">TT-------------</AM>
 </tag>
 </m>
 <m id="m-mf930709-043-p2s6w30">
@@ -1198,7 +1204,10 @@
 <LM>w#w-mf930709-043-p2s7w15</LM>
 </w.rf>
 <form>ČEZ</form>
-<tag lemma="ČEZ-1_:B_;K_^(České_energetické_závody)" src="orig" selected="1">NNIPX-----A---8</tag>
+<tag>
+<AM lemma="ČEZ-1_:B_;K_^(České_energetické_závody)" src="orig">NNIPX-----A---8</AM>
+<AM lemma="ČEZ-1_:B_;K_^(České_energetické_závody)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930709-043-p2s7w16">
 <src.rf>manual</src.rf>
@@ -1743,7 +1752,10 @@
 <LM>w#w-mf930709-043-p3s1w4</LM>
 </w.rf>
 <form>vydala</form>
-<tag lemma="vydat-1_:W_^(emitovat:_cenné_papíry,_knihu,_zvuk,...)" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag>
+<AM lemma="vydat-1_:W_^(emitovat:_cenné_papíry,_knihu,_zvuk,...)" src="orig">VpQW---XR-AA---</AM>
+<AM lemma="vydat_:W" src="manual" selected="1">VpQW---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-mf930709-043-p3s1w5">
 <src.rf>manual</src.rf>
@@ -2144,7 +2156,7 @@
 <tag>
 <AM lemma="tedy" src="orig">Db-------------</AM>
 <AM lemma="tedy-1" src="auto">TT-------------</AM>
-<AM lemma="tedy-2" src="auto" recommended="1">J^-------------</AM>
+<AM lemma="tedy-2" src="auto" recommended="1" selected="1">J^-------------</AM>
 </tag>
 </m>
 <m id="m-mf930709-043-p3s4w5">
@@ -2663,7 +2675,10 @@
 <LM>w#w-mf930709-043-p4s1w25</LM>
 </w.rf>
 <form>TOS</form>
-<tag lemma="TOS_:B_;K" src="auto" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="TOS_:B_;K" src="auto">NNXXX-----A---8</AM>
+<AM lemma="TOS-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930709-043-p4s1w26">
 <src.rf>manual</src.rf>

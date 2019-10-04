@@ -45,7 +45,7 @@
 <form>Šumperku</form>
 <tag>
 <AM lemma="Šumperk_;G" src="orig">NNIS2-----A----</AM>
-<AM lemma="Šumperk_;G" src="auto" recommended="1">NNIS2-----A---1</AM>
+<AM lemma="Šumperk_;G" src="auto" recommended="1" selected="1">NNIS2-----A---1</AM>
 <AM lemma="Šumperk_;G" src="auto">NNIS3-----A----</AM>
 <AM lemma="Šumperk_;G" src="auto">NNIS5-----A----</AM>
 <AM lemma="Šumperk_;G" src="auto">NNIS6-----A----</AM>
@@ -97,7 +97,10 @@
 <LM>w#w-cmpr9410-039-p1s1w10</LM>
 </w.rf>
 <form>kurzy</form>
-<tag lemma="kurs" src="auto" selected="1">NNIP4-----A----</tag>
+<tag>
+<AM lemma="kurs" src="auto">NNIP4-----A----</AM>
+<AM lemma="kurz" src="manual" selected="1">NNIP4-----A----</AM>
+</tag>
 </m>
 <m id="m-cmpr9410-039-p1s1w11">
 <src.rf>manual</src.rf>
@@ -397,7 +400,11 @@
 <LM>w#w-cmpr9410-039-p1s3w15</LM>
 </w.rf>
 <form>kurzy</form>
-<tag lemma="kurs" src="auto" selected="1">NNIP1-----A----</tag>
+<tag>
+<AM lemma="kurs" src="auto">NNIP1-----A----</AM>
+<AM lemma="kurz" src="manual">NNIP4-----A----</AM>
+<AM lemma="kurz" src="manual" selected="1">NNIP1-----A----</AM>
+</tag>
 </m>
 <m id="m-cmpr9410-039-p1s3w16">
 <src.rf>manual</src.rf>
@@ -753,7 +760,10 @@
 <LM>w#w-cmpr9410-039-p2s1w11</LM>
 </w.rf>
 <form>tel</form>
-<tag lemma="telefon_:B" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="telefon_:B" src="orig">NNIXX-----A---8</AM>
+<AM lemma="telefon" src="manual" selected="1">NNIXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-cmpr9410-039-p2s1w12">
 <src.rf>manual</src.rf>

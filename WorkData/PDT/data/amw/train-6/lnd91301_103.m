@@ -24,6 +24,7 @@
 <AM lemma="Pele_;S" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Pele_;S" src="auto">NNMS5-----A----</AM>
 <AM lemma="pel" src="auto">NNIS5-----A----</AM>
+<AM lemma="pele" src="manual" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m-lnd91301-103-p1s1w2">
@@ -45,6 +46,7 @@
 <AM lemma="mela" src="auto">NNFS3-----A----</AM>
 <AM lemma="mela" src="auto">NNFS6-----A----</AM>
 <AM lemma="mlít" src="auto" recommended="1">VB-S---3P-AA---</AM>
+<AM lemma="mele" src="manual" selected="1">Db-------------</AM>
 </tag>
 </m>
 </s>
@@ -79,7 +81,10 @@
 <LM>w#w-lnd91301-103-p2s1w4</LM>
 </w.rf>
 <form>D</form>
-<tag lemma="D-3`500" src="orig" selected="1">C}-------------</tag>
+<tag>
+<AM lemma="D-3`500" src="orig">C}-------------</AM>
+<AM lemma="D-33_^(označení_pomocí_písmene)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd91301-103-p2s1w5">
 <src.rf>manual</src.rf>

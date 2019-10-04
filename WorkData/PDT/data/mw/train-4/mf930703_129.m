@@ -596,7 +596,7 @@
 </w.rf>
 <form>Agdere</form>
 <tag>
-<AM lemma="Agdere_;G" src="orig">NNXXX-----A----</AM>
+<AM lemma="Agdere_;G" src="orig" selected="1">NNXXX-----A----</AM>
 <AM lemma="Agder_;G" src="auto" recommended="1">NNIS5-----A----</AM>
 </tag>
 </m>

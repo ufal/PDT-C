@@ -19,7 +19,10 @@
 <LM>w#w-ln95046-083-p1s1w1</LM>
 </w.rf>
 <form>ČMUS</form>
-<tag lemma="ČMUS_:B_;K_^(polit._strana_Českomoravská_unie_středu)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ČMUS_:B_;K_^(polit._strana_Českomoravská_unie_středu)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČMUS-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95046-083-p1s1w2">
 <src.rf>manual</src.rf>
@@ -27,7 +30,10 @@
 <LM>w#w-ln95046-083-p1s1w2</LM>
 </w.rf>
 <form>má</form>
-<tag lemma="mít" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag>
+<AM lemma="mít" src="orig">VB-S---3P-AA---</AM>
+<AM lemma="mít_:T" src="manual" selected="1">VB-S---3P-AA---</AM>
+</tag>
 </m>
 <m id="m-ln95046-083-p1s1w3">
 <src.rf>manual</src.rf>
@@ -137,7 +143,10 @@
 <LM>w#w-ln95046-083-p2s1Cw4</LM>
 </w.rf>
 <form>má</form>
-<tag lemma="mít" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag>
+<AM lemma="mít" src="orig">VB-S---3P-AA---</AM>
+<AM lemma="mít_:T" src="manual" selected="1">VB-S---3P-AA---</AM>
+</tag>
 </m>
 <m id="m-ln95046-083-p2s1Cw5">
 <src.rf>manual</src.rf>
@@ -421,7 +430,10 @@
 <LM>w#w-ln95046-083-p2s3w1</LM>
 </w.rf>
 <form>Řekl</form>
-<tag lemma="říci" src="auto" selected="1">VpYS---XR-AA---</tag>
+<tag>
+<AM lemma="říci" src="auto">VpYS---XR-AA---</AM>
+<AM lemma="říci_:W" src="manual" selected="1">VpYS---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-ln95046-083-p2s3w2">
 <src.rf>manual</src.rf>
@@ -462,7 +474,7 @@
 </w.rf>
 <form>Kačenka</form>
 <tag>
-<AM lemma="Kačenka_;S" src="orig">NNMS1-----A----</AM>
+<AM lemma="Kačenka_;S" src="orig" selected="1">NNMS1-----A----</AM>
 <AM lemma="kačenka" src="auto" recommended="1">NNFS1-----A----</AM>
 </tag>
 </m>
@@ -980,7 +992,10 @@
 <LM>w#w-ln95046-083-p3s2w36</LM>
 </w.rf>
 <form>Kačenka</form>
-<tag lemma="kačenka" src="orig" selected="1">NNFS1-----A----</tag>
+<tag>
+<AM lemma="kačenka" src="orig">NNFS1-----A----</AM>
+<AM lemma="Kačenka_;S" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95046-083-p3s2w37">
 <src.rf>manual</src.rf>

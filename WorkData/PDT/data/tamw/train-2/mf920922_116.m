@@ -511,7 +511,10 @@
 <LM>w#w-mf920922-116-p4s3w1</LM>
 </w.rf>
 <form>Sice</form>
-<tag lemma="sice-2" src="auto" selected="1">Db-------------</tag>
+<tag>
+<AM lemma="sice-2" src="auto">Db-------------</AM>
+<AM lemma="sice-1_^(spojka;_připouští_se_určitá_fakta)" src="manual" selected="1">J^-------------</AM>
+</tag>
 </m>
 <m id="m-mf920922-116-p4s3w2">
 <src.rf>manual</src.rf>
@@ -1249,7 +1252,10 @@
 <LM>w#w-mf920922-116-p4s8w2</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-2" src="auto" selected="1">Dg-------2A----</tag>
+<tag>
+<AM lemma="hodně-2" src="auto">Dg-------2A----</AM>
+<AM lemma="hodně-3" src="manual" selected="1">Dg-------2A----</AM>
+</tag>
 </m>
 <m id="m-mf920922-116-p4s8w3">
 <src.rf>manual</src.rf>
@@ -1427,7 +1433,10 @@
 <LM>w#w-mf920922-116-p4s9w7</LM>
 </w.rf>
 <form>KBSE</form>
-<tag lemma="KBSE_:B_;K_;p" src="auto" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="KBSE_:B_;K_;p" src="auto">NNFXX-----A---8</AM>
+<AM lemma="KBSE-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920922-116-p4s9w8">
 <src.rf>manual</src.rf>
@@ -1591,7 +1600,7 @@
 <form>bezesporu</form>
 <tag>
 <AM lemma="bezesporu" src="orig">Db-------------</AM>
-<AM lemma="bezesporu" src="auto" recommended="1">TT-------------</AM>
+<AM lemma="bezesporu" src="auto" recommended="1" selected="1">TT-------------</AM>
 </tag>
 </m>
 <m id="m-mf920922-116-p4s10w10">
@@ -1600,7 +1609,10 @@
 <LM>w#w-mf920922-116-p4s10w10</LM>
 </w.rf>
 <form>NATO</form>
-<tag lemma="NATO_:B_;K_^(North_Atlantic_Treaty_Organization)" src="auto" selected="1">NNNXX-----A---8</tag>
+<tag>
+<AM lemma="NATO_:B_;K_^(North_Atlantic_Treaty_Organization)" src="auto">NNNXX-----A---8</AM>
+<AM lemma="NATO_:B_;K_^(North_Atlantic_Treaty_Organization)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920922-116-p4s10w11">
 <src.rf>manual</src.rf>
@@ -1624,7 +1636,10 @@
 <LM>w#w-mf920922-116-p4s10w13</LM>
 </w.rf>
 <form>mechanismy</form>
-<tag lemma="mechanismus" src="orig" selected="1">NNIP4-----A----</tag>
+<tag>
+<AM lemma="mechanismus" src="orig">NNIP4-----A----</AM>
+<AM lemma="mechanismus_,s_^(^DD**mechanizmus)" src="manual" selected="1">NNIP4-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920922-116-p4s10w14">
 <src.rf>manual</src.rf>
@@ -1756,7 +1771,7 @@
 <form>nejen</form>
 <tag>
 <AM lemma="nejen" src="orig">TT-------------</AM>
-<AM lemma="nejen" src="auto" recommended="1">Db-------------</AM>
+<AM lemma="nejen" src="auto" recommended="1" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m-mf920922-116-p4s11w7">
@@ -2246,7 +2261,7 @@
 <tag>
 <AM lemma="tedy" src="orig">Db-------------</AM>
 <AM lemma="tedy-1" src="auto">TT-------------</AM>
-<AM lemma="tedy-2" src="auto" recommended="1">J^-------------</AM>
+<AM lemma="tedy-2" src="auto" recommended="1" selected="1">J^-------------</AM>
 </tag>
 </m>
 <m id="m-mf920922-116-p4s14w5">

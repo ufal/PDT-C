@@ -35,7 +35,10 @@
 <LM>w#w-mf930709-046-p1s1w3</LM>
 </w.rf>
 <form>ČSÚ</form>
-<tag lemma="ČSÚ_:B_;K_^(Český_statistický_úřad)" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="ČSÚ_:B_;K_^(Český_statistický_úřad)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="ČSÚ-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930709-046-p1s1w4">
 <src.rf>manual</src.rf>
@@ -183,7 +186,10 @@
 <LM>w#w-mf930709-046-p2s1Bw12</LM>
 </w.rf>
 <form>ČSÚ</form>
-<tag lemma="ČSÚ_:B_;K_^(Český_statistický_úřad)" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="ČSÚ_:B_;K_^(Český_statistický_úřad)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="ČSÚ-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930709-046-p2s1Bw13">
 <src.rf>manual</src.rf>
@@ -534,7 +540,7 @@
 <tag>
 <AM lemma="tedy" src="orig">Db-------------</AM>
 <AM lemma="tedy-1" src="auto">TT-------------</AM>
-<AM lemma="tedy-2" src="auto" recommended="1">J^-------------</AM>
+<AM lemma="tedy-2" src="auto" recommended="1" selected="1">J^-------------</AM>
 </tag>
 </m>
 <m id="m-mf930709-046-p2s3w17">
@@ -543,7 +549,10 @@
 <LM>w#w-mf930709-046-p2s3w17</LM>
 </w.rf>
 <form>mj</form>
-<tag lemma="mj-1_:B_^(mimo_jiné)" src="orig" selected="1">Db------------8</tag>
+<tag>
+<AM lemma="mj-1_:B_^(mimo_jiné)" src="orig">Db------------8</AM>
+<AM lemma="mj-1_:B_^(mimo_jiné)" src="manual" selected="1">Db-------------</AM>
+</tag>
 </m>
 <m id="m-mf930709-046-p2s3w18">
 <src.rf>manual</src.rf>
@@ -633,7 +642,10 @@
 <LM>w#w-mf930709-046-p2s4w3</LM>
 </w.rf>
 <form>E</form>
-<tag lemma="E-0_:B_;Y" src="orig" selected="1">NNMXX-----A---8</tag>
+<tag>
+<AM lemma="E-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
+<AM lemma="E-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930709-046-p2s4w4">
 <src.rf>manual</src.rf>
@@ -723,7 +735,7 @@
 <form>ovšem</form>
 <tag>
 <AM lemma="ovšem-1_^(avšak,_však;_odporovací_spojka)" src="orig">J^-------------</AM>
-<AM lemma="ovšem" src="auto" recommended="1">TT-------------</AM>
+<AM lemma="ovšem" src="auto" recommended="1" selected="1">TT-------------</AM>
 </tag>
 </m>
 <m id="m-mf930709-046-p2s4w15">
@@ -774,7 +786,10 @@
 <LM>w#w-mf930709-046-p2s5w2</LM>
 </w.rf>
 <form>ČSÚ</form>
-<tag lemma="ČSÚ_:B_;K_^(Český_statistický_úřad)" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="ČSÚ_:B_;K_^(Český_statistický_úřad)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="ČSÚ-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930709-046-p2s5w3">
 <src.rf>manual</src.rf>
@@ -894,7 +909,10 @@
 <LM>w#w-mf930709-046-p2s5w18</LM>
 </w.rf>
 <form>ČSÚ</form>
-<tag lemma="ČSÚ_:B_;K_^(Český_statistický_úřad)" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="ČSÚ_:B_;K_^(Český_statistický_úřad)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="ČSÚ-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930709-046-p2s5w19">
 <src.rf>manual</src.rf>

@@ -19,7 +19,11 @@
 <LM>w#w-ln94200-42-p1s1w1</LM>
 </w.rf>
 <form>Nepořádek</form>
-<tag lemma="nepořádek" src="orig" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="nepořádek" src="orig">NNIS1-----A----</AM>
+<AM lemma="pořádek" src="manual">NNIS1-----N----</AM>
+<AM lemma="pořádek" src="manual" selected="1">NNIS1-----N----</AM>
+</tag>
 </m>
 <m id="m-ln94200-42-p1s1w2">
 <src.rf>manual</src.rf>
@@ -551,7 +555,7 @@
 <form>§</form>
 <tag>
 <AM lemma="§_^(paragraf)" src="orig">NNIXX-----A---1</AM>
-<AM lemma="paragraf" src="auto" recommended="1">NNIXX-----A---1</AM>
+<AM lemma="paragraf" src="auto" recommended="1" selected="1">NNIXX-----A---1</AM>
 </tag>
 </m>
 <m id="m-ln94200-42-p3s1w15">
@@ -754,7 +758,10 @@
 <LM>w#w-ln94200-42-p3s2w20</LM>
 </w.rf>
 <form>např</form>
-<tag lemma="například_:B" src="orig" selected="1">Db------------8</tag>
+<tag>
+<AM lemma="například_:B" src="orig">Db------------8</AM>
+<AM lemma="například" src="manual" selected="1">Db------------8</AM>
+</tag>
 </m>
 <m id="m-ln94200-42-p3s2w21">
 <src.rf>manual</src.rf>
@@ -942,7 +949,7 @@
 <form>§</form>
 <tag>
 <AM lemma="§_^(paragraf)" src="orig">NNIXX-----A---1</AM>
-<AM lemma="paragraf" src="auto" recommended="1">NNIXX-----A---1</AM>
+<AM lemma="paragraf" src="auto" recommended="1" selected="1">NNIXX-----A---1</AM>
 </tag>
 </m>
 <m id="m-ln94200-42-p4s1w3">
@@ -1323,7 +1330,10 @@
 <LM>w#w-ln94200-42-p5s2w6</LM>
 </w.rf>
 <form>tj</form>
-<tag lemma="tj-1_:B_^(to_je/jest)" src="orig" selected="1">J^------------8</tag>
+<tag>
+<AM lemma="tj-1_:B_^(to_je/jest)" src="orig">J^------------8</AM>
+<AM lemma="tj-1_:B_^(to_je/jest)" src="manual" selected="1">J^-------------</AM>
+</tag>
 </m>
 <m id="m-ln94200-42-p5s2w7">
 <src.rf>manual</src.rf>
@@ -2263,7 +2273,7 @@
 <form>§</form>
 <tag>
 <AM lemma="§_^(paragraf)" src="orig">NNIXX-----A---1</AM>
-<AM lemma="paragraf" src="auto" recommended="1">NNIXX-----A---1</AM>
+<AM lemma="paragraf" src="auto" recommended="1" selected="1">NNIXX-----A---1</AM>
 </tag>
 </m>
 <m id="m-ln94200-42-p7s3w16">
@@ -2312,7 +2322,10 @@
 <LM>w#w-ln94200-42-p7s3w21</LM>
 </w.rf>
 <form>Sb</form>
-<tag lemma="Sb-1_:B_;j_^(Sbírka,_např._zákonů)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="Sb-1_:B_;j_^(Sbírka,_např._zákonů)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="sbírka" src="manual" selected="1">NNFXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln94200-42-p7s3w22">
 <src.rf>manual</src.rf>
@@ -2718,7 +2731,7 @@
 <form>třeba</form>
 <tag>
 <AM lemma="třeba-1" src="orig">ACNS------A----</AM>
-<AM lemma="třeba-2" src="auto" recommended="1">Db-------------</AM>
+<AM lemma="třeba-2" src="auto" recommended="1" selected="1">Db-------------</AM>
 <AM lemma="třeba-3" src="auto">TT-------------</AM>
 </tag>
 </m>
@@ -3094,7 +3107,7 @@
 <form>třeba</form>
 <tag>
 <AM lemma="třeba-1" src="orig">ACNS------A----</AM>
-<AM lemma="třeba-2" src="auto" recommended="1">Db-------------</AM>
+<AM lemma="třeba-2" src="auto" recommended="1" selected="1">Db-------------</AM>
 <AM lemma="třeba-3" src="auto">TT-------------</AM>
 </tag>
 </m>
@@ -3228,7 +3241,7 @@
 <form>totiž</form>
 <tag>
 <AM lemma="totiž" src="orig">Db-------------</AM>
-<AM lemma="totiž-1" src="auto" recommended="1">J^-------------</AM>
+<AM lemma="totiž-1" src="auto" recommended="1" selected="1">J^-------------</AM>
 <AM lemma="totiž-2" src="auto">TT-------------</AM>
 </tag>
 </m>
@@ -3426,7 +3439,7 @@
 <form>nikoli</form>
 <tag>
 <AM lemma="nikoliv" src="orig">Db------------1</AM>
-<AM lemma="nikoli" src="auto" recommended="1">TT-------------</AM>
+<AM lemma="nikoli" src="auto" recommended="1" selected="1">TT-------------</AM>
 </tag>
 </m>
 <m id="m-ln94200-42-p8s4w11">
@@ -3443,7 +3456,10 @@
 <LM>w#w-ln94200-42-p8s4w12</LM>
 </w.rf>
 <form>tzv</form>
-<tag lemma="takzvaný_:B" src="orig" selected="1">AAXXX----1A---8</tag>
+<tag>
+<AM lemma="takzvaný_:B" src="orig">AAXXX----1A---8</AM>
+<AM lemma="takzvaný" src="manual" selected="1">AAXXX----1A---8</AM>
+</tag>
 </m>
 <m id="m-ln94200-42-p8s4w13">
 <src.rf>manual</src.rf>
@@ -3519,7 +3535,7 @@
 <form>§</form>
 <tag>
 <AM lemma="§_^(paragraf)" src="orig">NNIXX-----A---1</AM>
-<AM lemma="paragraf" src="auto" recommended="1">NNIXX-----A---1</AM>
+<AM lemma="paragraf" src="auto" recommended="1" selected="1">NNIXX-----A---1</AM>
 </tag>
 </m>
 <m id="m-ln94200-42-p8s5w5">

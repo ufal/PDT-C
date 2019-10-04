@@ -298,7 +298,10 @@
 <LM>w#w-lnd92253-074-p3s2w1</LM>
 </w.rf>
 <form>Č</form>
-<tag lemma="český_:B" src="orig" selected="1">AAXXX----1A---8</tag>
+<tag>
+<AM lemma="český_:B" src="orig">AAXXX----1A---8</AM>
+<AM lemma="český" src="manual" selected="1">AAXXX----1A---8</AM>
+</tag>
 </m>
 <m id="m-lnd92253-074-p3s2w2">
 <src.rf>manual</src.rf>
@@ -459,7 +462,10 @@
 <LM>w#w-lnd92253-074-p5s3w1</LM>
 </w.rf>
 <form>R</form>
-<tag lemma="R-0_:B_;Y" src="orig" selected="1">NNMXX-----A---8</tag>
+<tag>
+<AM lemma="R-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
+<AM lemma="R-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd92253-074-p5s3w2">
 <src.rf>manual</src.rf>
@@ -683,7 +689,10 @@
 <LM>w#w-lnd92253-074-p5s7w9</LM>
 </w.rf>
 <form>Č</form>
-<tag lemma="český_:B" src="orig" selected="1">AAXXX----1A---8</tag>
+<tag>
+<AM lemma="český_:B" src="orig">AAXXX----1A---8</AM>
+<AM lemma="český" src="manual" selected="1">AAXXX----1A---8</AM>
+</tag>
 </m>
 <m id="m-lnd92253-074-p5s7w10">
 <src.rf>manual</src.rf>
@@ -712,6 +721,7 @@
 <AM lemma="B-9_:B_;S" src="auto">NNXXX-----A---8</AM>
 <AM lemma="b-3_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
 <AM lemma="b-8_:B_^(ost._zkratka)" src="auto">XX------------8</AM>
+<AM lemma="B-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-lnd92253-074-p5s7w12">
@@ -752,7 +762,10 @@
 <LM>w#w-lnd92253-074-p5s7w16</LM>
 </w.rf>
 <form>min</form>
-<tag lemma="minuta_:B" src="auto" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="minuta_:B" src="auto">NNFXX-----A---8</AM>
+<AM lemma="minuta" src="manual" selected="1">NNFXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd92253-074-p5s7w17">
 <src.rf>manual</src.rf>
@@ -1002,7 +1015,10 @@
 <LM>w#w-lnd92253-074-p7s2w1</LM>
 </w.rf>
 <form>Č</form>
-<tag lemma="český_:B" src="orig" selected="1">AAXXX----1A---8</tag>
+<tag>
+<AM lemma="český_:B" src="orig">AAXXX----1A---8</AM>
+<AM lemma="český" src="manual" selected="1">AAXXX----1A---8</AM>
+</tag>
 </m>
 <m id="m-lnd92253-074-p7s2w2">
 <src.rf>manual</src.rf>

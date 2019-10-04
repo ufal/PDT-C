@@ -175,7 +175,10 @@
 <LM>w#w-ln95042-055-p2s1Bw16</LM>
 </w.rf>
 <form>tzv</form>
-<tag lemma="takzvaný_:B" src="orig" selected="1">AAXXX----1A---8</tag>
+<tag>
+<AM lemma="takzvaný_:B" src="orig">AAXXX----1A---8</AM>
+<AM lemma="takzvaný" src="manual" selected="1">AAXXX----1A---8</AM>
+</tag>
 </m>
 <m id="m-ln95042-055-p2s1Bw17">
 <src.rf>manual</src.rf>
@@ -263,7 +266,10 @@
 <LM>w#w-ln95042-055-p2s1Bw27</LM>
 </w.rf>
 <form>Lech</form>
-<tag lemma="Lech_;Y_,t" src="auto" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Lech_;Y_,t" src="auto">NNMS1-----A----</AM>
+<AM lemma="Lech_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95042-055-p2s1Bw28">
 <src.rf>manual</src.rf>
@@ -436,7 +442,10 @@
 <LM>w#w-ln95042-055-p2s3w11</LM>
 </w.rf>
 <form>řekl</form>
-<tag lemma="říci" src="auto" selected="1">VpYS---XR-AA---</tag>
+<tag>
+<AM lemma="říci" src="auto">VpYS---XR-AA---</AM>
+<AM lemma="říci_:W" src="manual" selected="1">VpYS---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-ln95042-055-p2s3w12">
 <src.rf>manual</src.rf>

@@ -66,6 +66,7 @@
 <AM lemma="Čo_;S" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Čo_;S" src="auto">NNMS5-----A----</AM>
 <AM lemma="ča_^(ča-ča)" src="auto">NNFS5-----A----</AM>
+<AM lemma="čo-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-ln95048-071-p1s1Bw2">
@@ -98,7 +99,10 @@
 <LM>w#w-ln95048-071-p1s1Bw5</LM>
 </w.rf>
 <form>neviete</form>
-<tag lemma="vedieť_,t_^(sl._vědět)" src="orig" selected="1">VB-P---2P-NA---</tag>
+<tag>
+<AM lemma="vedieť_,t_^(sl._vědět)" src="orig">VB-P---2P-NA---</AM>
+<AM lemma="neviete-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 </s>
 <s id="m-ln95048-071-p2s1">
@@ -788,7 +792,7 @@
 <form>jakákoliv</form>
 <tag>
 <AM lemma="jakýkoliv" src="orig">PZFS1----------</AM>
-<AM lemma="jakýkoli" src="auto" recommended="1">PZFS1---------1</AM>
+<AM lemma="jakýkoli" src="auto" recommended="1" selected="1">PZFS1---------1</AM>
 <AM lemma="jakýkoli" src="auto">PZFS5---------1</AM>
 <AM lemma="jakýkoli" src="auto">PZNP1---------1</AM>
 <AM lemma="jakýkoli" src="auto">PZNP4---------1</AM>
@@ -893,7 +897,7 @@
 <form>totiž</form>
 <tag>
 <AM lemma="totiž" src="orig">Db-------------</AM>
-<AM lemma="totiž-1" src="auto" recommended="1">J^-------------</AM>
+<AM lemma="totiž-1" src="auto" recommended="1" selected="1">J^-------------</AM>
 <AM lemma="totiž-2" src="auto">TT-------------</AM>
 </tag>
 </m>
@@ -1787,7 +1791,7 @@
 <form>raději</form>
 <tag>
 <AM lemma="raději" src="orig">Dg-------2A----</AM>
-<AM lemma="rád" src="auto" recommended="1">Dg-------2A----</AM>
+<AM lemma="rád" src="auto" recommended="1" selected="1">Dg-------2A----</AM>
 </tag>
 </m>
 <m id="m-ln95048-071-p2s9w20">
@@ -2035,7 +2039,7 @@
 <tag>
 <AM lemma="tedy" src="orig">Db-------------</AM>
 <AM lemma="tedy-1" src="auto">TT-------------</AM>
-<AM lemma="tedy-2" src="auto" recommended="1">J^-------------</AM>
+<AM lemma="tedy-2" src="auto" recommended="1" selected="1">J^-------------</AM>
 </tag>
 </m>
 <m id="m-ln95048-071-p2s11w11">
@@ -2274,7 +2278,7 @@
 <form>totiž</form>
 <tag>
 <AM lemma="totiž" src="orig">Db-------------</AM>
-<AM lemma="totiž-1" src="auto">J^-------------</AM>
+<AM lemma="totiž-1" src="auto" selected="1">J^-------------</AM>
 <AM lemma="totiž-2" src="auto" recommended="1">TT-------------</AM>
 </tag>
 </m>
@@ -3214,7 +3218,10 @@
 <LM>w#w-ln95048-071-p2s17w12</LM>
 </w.rf>
 <form>HZDS</form>
-<tag lemma="HZDS-1_:B_;K_;p_,t_^(Hnutie_za_demokratické_Slovensko)" src="orig" selected="1">NNNXX-----A---8</tag>
+<tag>
+<AM lemma="HZDS-1_:B_;K_;p_,t_^(Hnutie_za_demokratické_Slovensko)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="HZDS-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln95048-071-p2s17w13">
 <src.rf>manual</src.rf>
@@ -3440,7 +3447,10 @@
 <LM>w#w-ln95048-071-p2s18w8</LM>
 </w.rf>
 <form>CDU</form>
-<tag lemma="CDU-1_:B_;K_;p_,t_^(Christianisch-Demokratische_Union)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="CDU-1_:B_;K_;p_,t_^(Christianisch-Demokratische_Union)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="CDU-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln95048-071-p2s18w9">
 <src.rf>manual</src.rf>
@@ -3652,7 +3662,7 @@
 <form>totiž</form>
 <tag>
 <AM lemma="totiž" src="orig">Db-------------</AM>
-<AM lemma="totiž-1" src="auto" recommended="1">J^-------------</AM>
+<AM lemma="totiž-1" src="auto" recommended="1" selected="1">J^-------------</AM>
 <AM lemma="totiž-2" src="auto">TT-------------</AM>
 </tag>
 </m>
@@ -4394,7 +4404,10 @@
 <LM>w#w-ln95048-071-p4s2w7</LM>
 </w.rf>
 <form>HZDS</form>
-<tag lemma="HZDS-1_:B_;K_;p_,t_^(Hnutie_za_demokratické_Slovensko)" src="orig" selected="1">NNNXX-----A---8</tag>
+<tag>
+<AM lemma="HZDS-1_:B_;K_;p_,t_^(Hnutie_za_demokratické_Slovensko)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="HZDS-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln95048-071-p4s2w8">
 <src.rf>manual</src.rf>
@@ -5205,7 +5218,7 @@
 <tag>
 <AM lemma="jakýkoliv" src="orig">PZYS1---------1</AM>
 <AM lemma="jakýkoli" src="auto">PZIS4----------</AM>
-<AM lemma="jakýkoli" src="auto" recommended="1">PZYS1----------</AM>
+<AM lemma="jakýkoli" src="auto" recommended="1" selected="1">PZYS1----------</AM>
 <AM lemma="jakýkoli" src="auto">PZYS5----------</AM>
 </tag>
 </m>
@@ -5390,7 +5403,7 @@
 <tag>
 <AM lemma="tedy" src="orig">Db-------------</AM>
 <AM lemma="tedy-1" src="auto">TT-------------</AM>
-<AM lemma="tedy-2" src="auto" recommended="1">J^-------------</AM>
+<AM lemma="tedy-2" src="auto" recommended="1" selected="1">J^-------------</AM>
 </tag>
 </m>
 <m id="m-ln95048-071-p5s3w7">
@@ -5401,7 +5414,7 @@
 <form>snad</form>
 <tag>
 <AM lemma="snad" src="orig">Db-------------</AM>
-<AM lemma="snad" src="auto" recommended="1">TT-------------</AM>
+<AM lemma="snad" src="auto" recommended="1" selected="1">TT-------------</AM>
 </tag>
 </m>
 <m id="m-ln95048-071-p5s3w8">
@@ -5824,7 +5837,7 @@
 <form>totiž</form>
 <tag>
 <AM lemma="totiž" src="orig">Db-------------</AM>
-<AM lemma="totiž-1" src="auto" recommended="1">J^-------------</AM>
+<AM lemma="totiž-1" src="auto" recommended="1" selected="1">J^-------------</AM>
 <AM lemma="totiž-2" src="auto">TT-------------</AM>
 </tag>
 </m>
@@ -5836,7 +5849,7 @@
 <form>vůbec</form>
 <tag>
 <AM lemma="vůbec" src="orig">Db-------------</AM>
-<AM lemma="vůbec" src="auto" recommended="1">TT-------------</AM>
+<AM lemma="vůbec" src="auto" recommended="1" selected="1">TT-------------</AM>
 </tag>
 </m>
 <m id="m-ln95048-071-p5s5w6">
@@ -6432,7 +6445,7 @@
 <tag>
 <AM lemma="přesto" src="orig">Dg-------1A----</AM>
 <AM lemma="přesto-1" src="auto" recommended="1">Db-------------</AM>
-<AM lemma="přesto-2" src="auto">J^-------------</AM>
+<AM lemma="přesto-2" src="auto" selected="1">J^-------------</AM>
 </tag>
 </m>
 <m id="m-ln95048-071-p5s8Bw3">
@@ -6965,7 +6978,11 @@
 <LM>w#w-ln95048-071-p5s10w5</LM>
 </w.rf>
 <form>LN</form>
-<tag lemma="LN-1_:B_;R_^(Lidové_noviny,_deník)" src="orig" selected="1">NNFPX-----A---8</tag>
+<tag>
+<AM lemma="LN-1_:B_;R_^(Lidové_noviny,_deník)" src="orig">NNFPX-----A---8</AM>
+<AM lemma="LN-1_:B_;K_;R_^(Lidové_noviny,_deník)" src="manual">NNXXX-----A---8</AM>
+<AM lemma="LN-1_:B_;K_;R_^(Lidové_noviny)" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 </s>
 </mdata>

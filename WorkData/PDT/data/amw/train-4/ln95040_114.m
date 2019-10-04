@@ -43,7 +43,10 @@
 <LM>w#w-ln95040-114-p1s1w4</LM>
 </w.rf>
 <form>ČMKOS</form>
-<tag lemma="ČMKOS_:B_;K_^(českomor._komora_odb._svazů)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ČMKOS_:B_;K_^(českomor._komora_odb._svazů)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČMKOS-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 </s>
 <s id="m-ln95040-114-p2s1A">
@@ -146,7 +149,7 @@
 <tag>
 <AM lemma="kterýkoliv" src="orig">PZYS1---------1</AM>
 <AM lemma="kterýkoli" src="auto">PZIS4----------</AM>
-<AM lemma="kterýkoli" src="auto" recommended="1">PZYS1----------</AM>
+<AM lemma="kterýkoli" src="auto" recommended="1" selected="1">PZYS1----------</AM>
 <AM lemma="kterýkoli" src="auto">PZYS5----------</AM>
 </tag>
 </m>
@@ -342,7 +345,10 @@
 <LM>w#w-ln95040-114-p3s1w15</LM>
 </w.rf>
 <form>ČMKOS</form>
-<tag lemma="ČMKOS_:B_;K_^(českomor._komora_odb._svazů)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ČMKOS_:B_;K_^(českomor._komora_odb._svazů)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČMKOS-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95040-114-p3s1w16">
 <src.rf>manual</src.rf>

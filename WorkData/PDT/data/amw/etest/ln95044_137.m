@@ -27,7 +27,10 @@
 <LM>w#w-ln95044-137-p1s1w2</LM>
 </w.rf>
 <form>Ilva</form>
-<tag lemma="Ilva_;K_,t" src="orig" selected="1">NNFS1-----A----</tag>
+<tag>
+<AM lemma="Ilva_;K_,t" src="orig">NNFS1-----A----</AM>
+<AM lemma="Ilva_;K" src="manual" selected="1">NNFS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95044-137-p1s1w3">
 <src.rf>manual</src.rf>
@@ -111,7 +114,10 @@
 <LM>w#w-ln95044-137-p2s1Bw4</LM>
 </w.rf>
 <form>Ilva</form>
-<tag lemma="Ilva_;K_,t" src="orig" selected="1">NNFS1-----A----</tag>
+<tag>
+<AM lemma="Ilva_;K_,t" src="orig">NNFS1-----A----</AM>
+<AM lemma="Ilva_;K" src="manual" selected="1">NNFS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95044-137-p2s1Bw5">
 <src.rf>manual</src.rf>
@@ -119,7 +125,10 @@
 <LM>w#w-ln95044-137-p2s1Bw5</LM>
 </w.rf>
 <form>Laminati</form>
-<tag lemma="Laminati_;K_,t" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="Laminati_;K_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="Laminati-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln95044-137-p2s1Bw6">
 <src.rf>manual</src.rf>
@@ -127,7 +136,10 @@
 <LM>w#w-ln95044-137-p2s1Bw6</LM>
 </w.rf>
 <form>Piani</form>
-<tag lemma="Piani_;K_,t" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="Piani_;K_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="Piani-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln95044-137-p2s1Bw7">
 <src.rf>manual</src.rf>
@@ -179,6 +191,7 @@
 <AM lemma="IRI_:B_;K_,t" src="orig">NNXXX-----A---8</AM>
 <AM lemma="IRI_:B_;K_,t_^(Ústav_pro_průmyslovou_rekonstrukci)" src="auto">NNIXX-----A---8</AM>
 <AM lemma="Iri_;L_,t" src="auto" recommended="1">NNNXX-----A----</AM>
+<AM lemma="IRI-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-ln95044-137-p2s1Bw13">
@@ -267,7 +280,10 @@
 <LM>w#w-ln95044-137-p2s1Bw23</LM>
 </w.rf>
 <form>ITL</form>
-<tag lemma="ITL_:B_;b_^(italská_lira)" src="auto" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ITL_:B_;b_^(italská_lira)" src="auto">NNFXX-----A---8</AM>
+<AM lemma="ITL-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln95044-137-p2s1Bw24">
 <src.rf>manual</src.rf>
@@ -382,7 +398,10 @@
 <LM>w#w-ln95044-137-p2s2w8</LM>
 </w.rf>
 <form>ITL</form>
-<tag lemma="ITL_:B_;b_^(italská_lira)" src="auto" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ITL_:B_;b_^(italská_lira)" src="auto">NNFXX-----A---8</AM>
+<AM lemma="ITL-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln95044-137-p2s2w9">
 <src.rf>manual</src.rf>
@@ -588,6 +607,7 @@
 <AM lemma="IRI_:B_;K_,t" src="orig">NNXXX-----A---8</AM>
 <AM lemma="IRI_:B_;K_,t_^(Ústav_pro_průmyslovou_rekonstrukci)" src="auto" recommended="1">NNIXX-----A---8</AM>
 <AM lemma="Iri_;L_,t" src="auto">NNNXX-----A----</AM>
+<AM lemma="IRI-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-ln95044-137-p2s3w20">
@@ -686,7 +706,10 @@
 <LM>w#w-ln95044-137-p3s1w7</LM>
 </w.rf>
 <form>Ilvy</form>
-<tag lemma="Ilva_;K_,t" src="orig" selected="1">NNFS2-----A----</tag>
+<tag>
+<AM lemma="Ilva_;K_,t" src="orig">NNFS2-----A----</AM>
+<AM lemma="Ilva_;K" src="manual" selected="1">NNFS2-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95044-137-p3s1w8">
 <src.rf>manual</src.rf>
@@ -719,7 +742,10 @@
 <LM>w#w-ln95044-137-p3s1w11</LM>
 </w.rf>
 <form>ITL</form>
-<tag lemma="ITL_:B_;b_^(italská_lira)" src="auto" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ITL_:B_;b_^(italská_lira)" src="auto">NNFXX-----A---8</AM>
+<AM lemma="ITL-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln95044-137-p3s1w12">
 <src.rf>manual</src.rf>
@@ -830,6 +856,7 @@
 <AM lemma="IRI_:B_;K_,t" src="orig">NNXXX-----A---8</AM>
 <AM lemma="IRI_:B_;K_,t_^(Ústav_pro_průmyslovou_rekonstrukci)" src="auto" recommended="1">NNIXX-----A---8</AM>
 <AM lemma="Iri_;L_,t" src="auto">NNNXX-----A----</AM>
+<AM lemma="IRI-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-ln95044-137-p3s2w5">
@@ -944,7 +971,10 @@
 <LM>w#w-ln95044-137-p3s3w7</LM>
 </w.rf>
 <form>Gruppo</form>
-<tag lemma="Gruppo_;K_,t" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="Gruppo_;K_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="Gruppo-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln95044-137-p3s3w8">
 <src.rf>manual</src.rf>
@@ -955,6 +985,7 @@
 <tag>
 <AM lemma="Riva_;K_^(Gruppo_Riva)" src="orig">NNXXX-----A----</AM>
 <AM lemma="Riva_;G" src="auto" recommended="1">NNFS1-----A----</AM>
+<AM lemma="Riva-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-ln95044-137-p3s3w9">
@@ -1037,7 +1068,10 @@
 <LM>w#w-ln95044-137-p3s4w3</LM>
 </w.rf>
 <form>Ilvy</form>
-<tag lemma="Ilva_;K_,t" src="orig" selected="1">NNFS2-----A----</tag>
+<tag>
+<AM lemma="Ilva_;K_,t" src="orig">NNFS2-----A----</AM>
+<AM lemma="Ilva_;K" src="manual" selected="1">NNFS2-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95044-137-p3s4w4">
 <src.rf>manual</src.rf>

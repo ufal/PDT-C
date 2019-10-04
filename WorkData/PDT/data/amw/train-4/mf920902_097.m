@@ -780,6 +780,7 @@
 <tag>
 <AM lemma="Anker_;K" src="orig">NNIS1-----A----</AM>
 <AM lemma="Anker_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Anker-2_;K" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920902-097-p1s3w27">

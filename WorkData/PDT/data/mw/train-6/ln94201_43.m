@@ -61,7 +61,10 @@
 <LM>w#w-ln94201-43-p2s1w1</LM>
 </w.rf>
 <form>New</form>
-<tag lemma="New-1_;G_,t_^(součást_míst._jmen)" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="New-1_;G_,t_^(součást_míst._jmen)" src="orig">AAXXX----1A----</AM>
+<AM lemma="New-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94201-43-p2s1w2">
 <src.rf>manual</src.rf>
@@ -69,7 +72,10 @@
 <LM>w#w-ln94201-43-p2s1w2</LM>
 </w.rf>
 <form>York</form>
-<tag lemma="York-2_;G" src="orig" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="York-2_;G" src="orig">NNIS1-----A----</AM>
+<AM lemma="York-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94201-43-p2s1w3">
 <src.rf>manual</src.rf>
@@ -221,7 +227,10 @@
 <LM>w#w-ln94201-43-p2s1w21</LM>
 </w.rf>
 <form>OSN</form>
-<tag lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94201-43-p2s1w22">
 <src.rf>manual</src.rf>
@@ -311,7 +320,10 @@
 <LM>w#w-ln94201-43-p2s2w10</LM>
 </w.rf>
 <form>UNOSOM</form>
-<tag lemma="UNOSOM_:B_;m" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="UNOSOM_:B_;m" src="orig">NNFXX-----A---8</AM>
+<AM lemma="UNOSOM-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94201-43-p2s2w11">
 <src.rf>manual</src.rf>
@@ -351,7 +363,10 @@
 <LM>w#w-ln94201-43-p2s2w15</LM>
 </w.rf>
 <form>zahynulo</form>
-<tag lemma="zahynout" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag>
+<AM lemma="zahynout" src="orig">VpNS---XR-AA---</AM>
+<AM lemma="zahynout_:W" src="manual" selected="1">VpNS---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-ln94201-43-p2s2w16">
 <src.rf>manual</src.rf>
@@ -608,7 +623,7 @@
 <AM lemma="Somálsko_;G" src="auto">NNNP1-----A----</AM>
 <AM lemma="Somálsko_;G" src="auto">NNNP4-----A----</AM>
 <AM lemma="Somálsko_;G" src="auto">NNNP5-----A----</AM>
-<AM lemma="Somálsko_;G" src="auto" recommended="1">NNNS2-----A----</AM>
+<AM lemma="Somálsko_;G" src="auto" recommended="1" selected="1">NNNS2-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94201-43-p2s4w11">
@@ -798,6 +813,7 @@
 <tag>
 <AM lemma="USA_;G" src="orig">NNIPX-----A----</AM>
 <AM lemma="USA_:B_;K_,t_^(United_States_of_America)" src="auto" recommended="1">NNIPX-----A---8</AM>
+<AM lemma="USA_:B_;K_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94201-43-p2s5w15">

@@ -53,7 +53,10 @@
 <LM>w#w-ln95040-051-p2s1w3</LM>
 </w.rf>
 <form>Garriqua</form>
-<tag lemma="Garrique_;Y" src="orig" selected="1">NNMS2-----A----</tag>
+<tag>
+<AM lemma="Garrique_;Y" src="orig">NNMS2-----A----</AM>
+<AM lemma="Garrique_;S_;Y" src="manual" selected="1">NNMS2-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95040-051-p2s1w4">
 <src.rf>manual</src.rf>
@@ -133,7 +136,10 @@
 <LM>w#w-ln95040-051-p2s1w13</LM>
 </w.rf>
 <form>archívních</form>
-<tag lemma="archívní" src="orig" selected="1">AAIP2----1A----</tag>
+<tag>
+<AM lemma="archívní" src="orig">AAIP2----1A----</AM>
+<AM lemma="archívní_,s_^(^DD**archivní)" src="manual" selected="1">AAIP2----1A----</AM>
+</tag>
 </m>
 <m id="m-ln95040-051-p2s1w14">
 <src.rf>manual</src.rf>
@@ -165,7 +171,10 @@
 <LM>w#w-ln95040-051-p2s1w17</LM>
 </w.rf>
 <form>T</form>
-<tag lemma="T-0_:B_;Y" src="orig" selected="1">NNMXX-----A---8</tag>
+<tag>
+<AM lemma="T-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
+<AM lemma="T-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95040-051-p2s1w18">
 <src.rf>manual</src.rf>
@@ -181,7 +190,10 @@
 <LM>w#w-ln95040-051-p2s1w19</LM>
 </w.rf>
 <form>G</form>
-<tag lemma="G-0_:B_;Y" src="orig" selected="1">NNMXX-----A---8</tag>
+<tag>
+<AM lemma="G-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
+<AM lemma="G-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95040-051-p2s1w20">
 <src.rf>manual</src.rf>
@@ -346,6 +358,7 @@
 <tag>
 <AM lemma="ÚLUV_:B_;K" src="orig">NNXXX-----A---8</AM>
 <AM lemma="ÚLUV_:B_;K_^(Ústředí_lidové_umělecké_výroby)" src="auto" recommended="1">NNNXX-----A----</AM>
+<AM lemma="ÚLUV-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95040-051-p2s2w14">

@@ -61,7 +61,10 @@
 <LM>w#w-mf920924-016-p2s1w3</LM>
 </w.rf>
 <form>MŽ</form>
-<tag lemma="MŽ_:B_;K" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="MŽ_:B_;K" src="orig">NNXXX-----A---8</AM>
+<AM lemma="MŽ-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-mf920924-016-p2s1w4">
 <src.rf>manual</src.rf>
@@ -133,7 +136,10 @@
 <LM>w#w-mf920924-016-p2s1w12</LM>
 </w.rf>
 <form>UEFA</form>
-<tag lemma="UEFA-1_:B_;K_;w_^(Evr._fotbalová_federace)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="UEFA-1_:B_;K_;w_^(Evr._fotbalová_federace)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="UEFA-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-mf920924-016-p2s1w13">
 <src.rf>manual</src.rf>
@@ -223,7 +229,10 @@
 <LM>w#w-mf920924-016-p2s2w7</LM>
 </w.rf>
 <form>airu</form>
-<tag lemma="air_,t" src="auto" selected="1">NNIS2-----A----</tag>
+<tag>
+<AM lemma="air_,t" src="auto">NNIS2-----A----</AM>
+<AM lemma="air" src="manual" selected="1">NNIS2-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920924-016-p2s2w8">
 <src.rf>manual</src.rf>
@@ -791,7 +800,10 @@
 <LM>w#w-mf920924-016-p2s6w7</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-2" src="auto" selected="1">Dg-------2A----</tag>
+<tag>
+<AM lemma="hodně-2" src="auto">Dg-------2A----</AM>
+<AM lemma="hodně-3" src="manual" selected="1">Dg-------2A----</AM>
+</tag>
 </m>
 <m id="m-mf920924-016-p2s6w8">
 <src.rf>manual</src.rf>
@@ -873,7 +885,10 @@
 <LM>w#w-mf920924-016-p2s7w6</LM>
 </w.rf>
 <form>jen</form>
-<tag lemma="jen-1" src="auto" selected="1">TT-------------</tag>
+<tag>
+<AM lemma="jen-1" src="auto">TT-------------</AM>
+<AM lemma="jen-4_^(pouze)	" src="manual" selected="1">Db-------------</AM>
+</tag>
 </m>
 <m id="m-mf920924-016-p2s7w7">
 <src.rf>manual</src.rf>

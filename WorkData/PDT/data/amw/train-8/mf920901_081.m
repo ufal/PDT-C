@@ -69,7 +69,10 @@
 <LM>w#w-mf920901-081-p2s1w3</LM>
 </w.rf>
 <form>ria</form>
-<tag lemma="ria-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="ria-99_:B_;S" src="orig">NNXXX-----A---8</AM>
+<AM lemma="ria-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920901-081-p2s1w4">
 <src.rf>manual</src.rf>
@@ -159,7 +162,10 @@
 <LM>w#w-mf920901-081-p2s2w9</LM>
 </w.rf>
 <form>ČR</form>
-<tag lemma="ČR-1_:B_;G_^(Česká_republika)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920901-081-p2s2w10">
 <src.rf>manual</src.rf>
@@ -191,7 +197,10 @@
 <LM>w#w-mf920901-081-p2s2w13</LM>
 </w.rf>
 <form>kpt</form>
-<tag lemma="kapitán_:B" src="orig" selected="1">NNMXX-----A---8</tag>
+<tag>
+<AM lemma="kapitán_:B" src="orig">NNMXX-----A---8</AM>
+<AM lemma="kpt_:B_^(kapitán)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920901-081-p2s2w14">
 <src.rf>manual</src.rf>

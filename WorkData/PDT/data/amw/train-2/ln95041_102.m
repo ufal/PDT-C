@@ -143,7 +143,10 @@
 <LM>w#w-ln95041-102-p2s1Bw11</LM>
 </w.rf>
 <form>NATO</form>
-<tag lemma="NATO_:B_;K_^(North_Atlantic_Treaty_Organization)" src="auto" selected="1">NNNXX-----A---8</tag>
+<tag>
+<AM lemma="NATO_:B_;K_^(North_Atlantic_Treaty_Organization)" src="auto">NNNXX-----A---8</AM>
+<AM lemma="NATO_:B_;K_^(North_Atlantic_Treaty_Organization)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95041-102-p2s1Bw12">
 <src.rf>manual</src.rf>
@@ -151,7 +154,10 @@
 <LM>w#w-ln95041-102-p2s1Bw12</LM>
 </w.rf>
 <form>Willy</form>
-<tag lemma="Willy_;Y_,t" src="auto" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Willy_;Y_,t" src="auto">NNMS1-----A----</AM>
+<AM lemma="Willy_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95041-102-p2s1Bw13">
 <src.rf>manual</src.rf>
@@ -249,7 +255,10 @@
 <LM>w#w-ln95041-102-p2s2w10</LM>
 </w.rf>
 <form>jen</form>
-<tag lemma="jen-1" src="auto" selected="1">TT-------------</tag>
+<tag>
+<AM lemma="jen-1" src="auto">TT-------------</AM>
+<AM lemma="jen-4_^(pouze)" src="manual" selected="1">Db-------------</AM>
+</tag>
 </m>
 <m id="m-ln95041-102-p2s2w11">
 <src.rf>manual</src.rf>

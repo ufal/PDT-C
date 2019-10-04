@@ -68,7 +68,7 @@
 </w.rf>
 <form>Mimi</form>
 <tag>
-<AM lemma="Mimi_;R" src="orig">NNNXX-----A----</AM>
+<AM lemma="Mimi_;R" src="orig" selected="1">NNNXX-----A----</AM>
 <AM lemma="Mimi_;Y" src="auto" recommended="1">NNFSX-----A----</AM>
 </tag>
 </m>
@@ -170,7 +170,10 @@
 <LM>w#w-ln94209-6-p2s1Bw10</LM>
 </w.rf>
 <form>jen</form>
-<tag lemma="jen-1" src="auto" selected="1">TT-------------</tag>
+<tag>
+<AM lemma="jen-1" src="auto">TT-------------</AM>
+<AM lemma="jen-4_^(pouze)" src="manual" selected="1">Db-------------</AM>
+</tag>
 </m>
 <m id="m-ln94209-6-p2s1Bw11">
 <src.rf>manual</src.rf>
@@ -228,7 +231,7 @@
 <form>litrů</form>
 <tag>
 <AM lemma="l-1`litr" src="orig">NNIP2-----A----</AM>
-<AM lemma="litr" src="auto" recommended="1">NNIP2-----A----</AM>
+<AM lemma="litr" src="auto" recommended="1" selected="1">NNIP2-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94209-6-p2s1Bw18">
@@ -278,7 +281,7 @@
 </w.rf>
 <form>Mimi</form>
 <tag>
-<AM lemma="Mimi_;R" src="orig">NNNXX-----A----</AM>
+<AM lemma="Mimi_;R" src="orig" selected="1">NNNXX-----A----</AM>
 <AM lemma="Mimi_;Y" src="auto" recommended="1">NNFSX-----A----</AM>
 </tag>
 </m>
@@ -644,7 +647,10 @@
 <LM>w#w-ln94209-6-p3s1w14</LM>
 </w.rf>
 <form>milion</form>
-<tag lemma="milión`1000000" src="orig" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="milión`1000000" src="orig">NNIS1-----A----</AM>
+<AM lemma="milion`1000000_,s_^(^DD**milión)" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94209-6-p3s1w15">
 <src.rf>manual</src.rf>
@@ -654,7 +660,7 @@
 <form>litrů</form>
 <tag>
 <AM lemma="l-1`litr" src="orig">NNIP2-----A----</AM>
-<AM lemma="litr" src="auto" recommended="1">NNIP2-----A----</AM>
+<AM lemma="litr" src="auto" recommended="1" selected="1">NNIP2-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94209-6-p3s1w16">
@@ -1117,7 +1123,10 @@
 <LM>w#w-ln94209-6-p4s2w5</LM>
 </w.rf>
 <form>ČR</form>
-<tag lemma="ČR-1_:B_;G_^(Česká_republika)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94209-6-p4s2w6">
 <src.rf>manual</src.rf>
@@ -1319,7 +1328,10 @@
 <LM>w#w-ln94209-6-p4s3w7</LM>
 </w.rf>
 <form>J</form>
-<tag lemma="J-0_:B_;Y" src="orig" selected="1">NNMXX-----A---8</tag>
+<tag>
+<AM lemma="J-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
+<AM lemma="J-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94209-6-p4s3w8">
 <src.rf>manual</src.rf>
@@ -1647,7 +1659,7 @@
 <form>litrů</form>
 <tag>
 <AM lemma="l-1`litr" src="orig">NNIP2-----A----</AM>
-<AM lemma="litr" src="auto" recommended="1">NNIP2-----A----</AM>
+<AM lemma="litr" src="auto" recommended="1" selected="1">NNIP2-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94209-6-p5s3w7">
@@ -1762,7 +1774,7 @@
 <form>litrů</form>
 <tag>
 <AM lemma="l-1`litr" src="orig">NNIP2-----A----</AM>
-<AM lemma="litr" src="auto" recommended="1">NNIP2-----A----</AM>
+<AM lemma="litr" src="auto" recommended="1" selected="1">NNIP2-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94209-6-p5s3w21">
@@ -1813,7 +1825,10 @@
 <LM>w#w-ln94209-6-p5s4w3</LM>
 </w.rf>
 <form>J</form>
-<tag lemma="J-0_:B_;Y" src="orig" selected="1">NNMXX-----A---8</tag>
+<tag>
+<AM lemma="J-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
+<AM lemma="J-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94209-6-p5s4w4">
 <src.rf>manual</src.rf>
@@ -1933,7 +1948,10 @@
 <LM>w#w-ln94209-6-p5s4w18</LM>
 </w.rf>
 <form>milionů</form>
-<tag lemma="milión`1000000" src="orig" selected="1">NNIP2-----A----</tag>
+<tag>
+<AM lemma="milión`1000000" src="orig">NNIP2-----A----</AM>
+<AM lemma="milion`1000000_,s_^(^DD**milión)" src="manual" selected="1">NNIP2-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94209-6-p5s4w19">
 <src.rf>manual</src.rf>
@@ -1943,7 +1961,7 @@
 <form>litrů</form>
 <tag>
 <AM lemma="l-1`litr" src="orig">NNIP2-----A----</AM>
-<AM lemma="litr" src="auto" recommended="1">NNIP2-----A----</AM>
+<AM lemma="litr" src="auto" recommended="1" selected="1">NNIP2-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94209-6-p5s4w20">
@@ -2090,7 +2108,10 @@
 <LM>w#w-ln94209-6-p6s1w16</LM>
 </w.rf>
 <form>Mega</form>
-<tag lemma="Mega_;G" src="orig" selected="1">NNFS1-----A----</tag>
+<tag>
+<AM lemma="Mega_;G" src="orig">NNFS1-----A----</AM>
+<AM lemma="mega" src="manual" selected="1">AAXXX----1A----</AM>
+</tag>
 </m>
 <m id="m-ln94209-6-p6s1w17">
 <src.rf>manual</src.rf>
@@ -2156,7 +2177,10 @@
 <LM>w#w-ln94209-6-p6s2w6</LM>
 </w.rf>
 <form>milion</form>
-<tag lemma="milión`1000000" src="orig" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="milión`1000000" src="orig">NNIS1-----A----</AM>
+<AM lemma="milion`1000000_,s_^(^DD**milión)" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94209-6-p6s2w7">
 <src.rf>manual</src.rf>
@@ -2188,7 +2212,10 @@
 <LM>w#w-ln94209-6-p6s2w10</LM>
 </w.rf>
 <form>J</form>
-<tag lemma="J-0_:B_;Y" src="orig" selected="1">NNMXX-----A---8</tag>
+<tag>
+<AM lemma="J-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
+<AM lemma="J-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94209-6-p6s2w11">
 <src.rf>manual</src.rf>
@@ -2464,7 +2491,10 @@
 <LM>w#w-ln94209-6-p6s4w13</LM>
 </w.rf>
 <form>milionu</form>
-<tag lemma="milión`1000000" src="orig" selected="1">NNIS2-----A----</tag>
+<tag>
+<AM lemma="milión`1000000" src="orig">NNIS2-----A----</AM>
+<AM lemma="milion`1000000_,s_^(^DD**milión)" src="manual" selected="1">NNIS2-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94209-6-p6s4w14">
 <src.rf>manual</src.rf>

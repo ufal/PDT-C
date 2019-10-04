@@ -313,7 +313,10 @@
 <LM>w#w-mf930713-160-p2s2w5</LM>
 </w.rf>
 <form>AFP</form>
-<tag lemma="AFP_:B_;K" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="AFP_:B_;K" src="orig">NNIXX-----A---8</AM>
+<AM lemma="AFP-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-mf930713-160-p2s2w6">
 <src.rf>manual</src.rf>

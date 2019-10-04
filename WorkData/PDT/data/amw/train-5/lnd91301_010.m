@@ -221,7 +221,10 @@
 <LM>w#w-lnd91301-010-p1s2w8</LM>
 </w.rf>
 <form>str</form>
-<tag lemma="strana-4_:B" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="strana-4_:B" src="orig">NNFXX-----A---8</AM>
+<AM lemma="strana" src="manual" selected="1">NNFXX-----A---9</AM>
+</tag>
 </m>
 <m id="m-lnd91301-010-p1s2w9">
 <src.rf>manual</src.rf>
@@ -255,7 +258,10 @@
 <LM>w#w-lnd91301-010-p2s1w2</LM>
 </w.rf>
 <form>ČSTK</form>
-<tag lemma="ČSTK-1_:B_;K_^(Československá_tisková_kancelář)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ČSTK-1_:B_;K_^(Československá_tisková_kancelář)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČSTK-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd91301-010-p2s1w3">
 <src.rf>manual</src.rf>
@@ -271,7 +277,10 @@
 <LM>w#w-lnd91301-010-p2s1w4</LM>
 </w.rf>
 <form>AP</form>
-<tag lemma="AP-3_:B_;K_,t_^(Associated_Press,_tisková_agentura)" src="auto" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="AP-3_:B_;K_,t_^(Associated_Press,_tisková_agentura)" src="auto">NNFXX-----A---8</AM>
+<AM lemma="AP-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 </s>
 </mdata>

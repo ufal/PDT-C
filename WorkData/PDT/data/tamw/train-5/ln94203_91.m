@@ -29,7 +29,10 @@
 <LM>w#w-ln94203-91-p2s1w1</LM>
 </w.rf>
 <form>Stabat</form>
-<tag lemma="Stabat_;R_,t" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="Stabat_;R_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="Stabat-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94203-91-p2s1w2">
 <src.rf>manual</src.rf>
@@ -42,6 +45,8 @@
 <AM lemma="Mater_;S" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="mater_,t_^(alma_mater)" src="auto">AAXXX----1A----</AM>
 <AM lemma="materiál_:B" src="auto">NNIXX-----A---8</AM>
+<AM lemma="mater-2_,t" src="manual">NNXXX-----A----</AM>
+<AM lemma="Mater-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-ln94203-91-p2s1w3">
@@ -124,7 +129,7 @@
 <form>Moureaua</form>
 <tag>
 <AM lemma="Moureaua_;S" src="orig">NNMS2-----A----</AM>
-<AM lemma="Moureau_;S" src="auto" recommended="1">NNMS2-----A----</AM>
+<AM lemma="Moureau_;S" src="auto" recommended="1" selected="1">NNMS2-----A----</AM>
 <AM lemma="Moureau_;S" src="auto">NNMS4-----A----</AM>
 </tag>
 </m>
@@ -158,7 +163,10 @@
 <LM>w#w-ln94203-91-p2s1w16</LM>
 </w.rf>
 <form>sv</form>
-<tag lemma="svatý-1_:B" src="auto" selected="1">AAXXX----1A---8</tag>
+<tag>
+<AM lemma="svatý-1_:B" src="auto">AAXXX----1A---8</AM>
+<AM lemma="svatý-1" src="manual" selected="1">AAXXX----1A---8</AM>
+</tag>
 </m>
 <m id="m-ln94203-91-p2s1w17">
 <src.rf>manual</src.rf>
@@ -175,7 +183,7 @@
 </w.rf>
 <form>Jiljí</form>
 <tag>
-<AM lemma="Jiljí_;Y" src="orig">NNMXX-----A----</AM>
+<AM lemma="Jiljí_;Y" src="orig" selected="1">NNMXX-----A----</AM>
 <AM lemma="Jiljí_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Jiljí_;Y" src="auto">NNMS5-----A----</AM>
 </tag>
@@ -266,7 +274,10 @@
 <LM>w#w-ln94203-91-p2s1w29</LM>
 </w.rf>
 <form>B</form>
-<tag lemma="B-0_:B_;Y" src="orig" selected="1">NNMXX-----A---8</tag>
+<tag>
+<AM lemma="B-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
+<AM lemma="B-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94203-91-p2s1w30">
 <src.rf>manual</src.rf>
@@ -282,7 +293,10 @@
 <LM>w#w-ln94203-91-p2s1w31</LM>
 </w.rf>
 <form>M</form>
-<tag lemma="M-0_:B_;Y" src="orig" selected="1">NNMXX-----A---8</tag>
+<tag>
+<AM lemma="M-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
+<AM lemma="M-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94203-91-p2s1w32">
 <src.rf>manual</src.rf>

@@ -19,7 +19,10 @@
 <LM>w#w-ln95041-055-p1s1w1</LM>
 </w.rf>
 <form>DU</form>
-<tag lemma="DU-1_:B_,t_^(Dobson_unit)" src="auto" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="DU-1_:B_,t_^(Dobson_unit)" src="auto">NNFXX-----A---8</AM>
+<AM lemma="DU-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln95041-055-p1s1w2">
 <src.rf>manual</src.rf>
@@ -95,7 +98,10 @@
 <LM>w#w-ln95041-055-p2s1Bw4</LM>
 </w.rf>
 <form>DU</form>
-<tag lemma="DU-1_:B_,t_^(Dobson_unit)" src="auto" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="DU-1_:B_,t_^(Dobson_unit)" src="auto">NNFXX-----A---8</AM>
+<AM lemma="DU-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln95041-055-p2s1Bw5">
 <src.rf>manual</src.rf>
@@ -289,7 +295,10 @@
 <LM>w#w-ln95041-055-p2s2w4</LM>
 </w.rf>
 <form>DU</form>
-<tag lemma="DU-1_:B_,t_^(Dobson_unit)" src="auto" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="DU-1_:B_,t_^(Dobson_unit)" src="auto">NNFXX-----A---8</AM>
+<AM lemma="DU-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln95041-055-p2s2w5">
 <src.rf>manual</src.rf>
@@ -465,7 +474,10 @@
 <LM>w#w-ln95041-055-p2s2w26</LM>
 </w.rf>
 <form>DU</form>
-<tag lemma="DU-1_:B_,t_^(Dobson_unit)" src="auto" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="DU-1_:B_,t_^(Dobson_unit)" src="auto">NNFXX-----A---8</AM>
+<AM lemma="DU-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln95041-055-p2s2w27">
 <src.rf>manual</src.rf>
@@ -555,7 +567,10 @@
 <LM>w#w-ln95041-055-p2s3w1</LM>
 </w.rf>
 <form>DU</form>
-<tag lemma="DU-1_:B_,t_^(Dobson_unit)" src="auto" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="DU-1_:B_,t_^(Dobson_unit)" src="auto">NNFXX-----A---8</AM>
+<AM lemma="DU-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln95041-055-p2s3w2">
 <src.rf>manual</src.rf>
@@ -651,7 +666,10 @@
 <LM>w#w-ln95041-055-p2s3w13</LM>
 </w.rf>
 <form>HZDS</form>
-<tag lemma="HZDS-1_:B_;K_;p_,t_^(Hnutie_za_demokratické_Slovensko)" src="orig" selected="1">NNNXX-----A---8</tag>
+<tag>
+<AM lemma="HZDS-1_:B_;K_;p_,t_^(Hnutie_za_demokratické_Slovensko)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="HZDS-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln95041-055-p2s3w14">
 <src.rf>manual</src.rf>

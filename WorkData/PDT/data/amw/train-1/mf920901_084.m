@@ -101,7 +101,10 @@
 <LM>w#w-mf920901-084-p2s1w8</LM>
 </w.rf>
 <form>podal</form>
-<tag lemma="podat_:W_^(něco_[někomu]_[někam])" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag>
+<AM lemma="podat_:W_^(něco_[někomu]_[někam])" src="orig">VpYS---XR-AA---</AM>
+<AM lemma="podat_:W" src="manual" selected="1">VpYS---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-mf920901-084-p2s1w9">
 <src.rf>manual</src.rf>
@@ -345,7 +348,10 @@
 <LM>w#w-mf920901-084-p3s1w5</LM>
 </w.rf>
 <form>uvedli</form>
-<tag lemma="uvést" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag>
+<AM lemma="uvést" src="orig">VpMP---XR-AA---</AM>
+<AM lemma="uvést_:W" src="manual" selected="1">VpMP---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-mf920901-084-p3s1w6">
 <src.rf>manual</src.rf>
@@ -497,7 +503,10 @@
 <LM>w#w-mf920901-084-p3s1w24</LM>
 </w.rf>
 <form>pozvali</form>
-<tag lemma="pozvat" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag>
+<AM lemma="pozvat" src="orig">VpMP---XR-AA---</AM>
+<AM lemma="pozvat_:W" src="manual" selected="1">VpMP---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-mf920901-084-p3s1w25">
 <src.rf>manual</src.rf>
@@ -627,7 +636,7 @@
 <form>civilu</form>
 <tag>
 <AM lemma="civil-2_^(civilní_stav,_doba_mimo_voj._služby)" src="orig">NNIS2-----A---2</AM>
-<AM lemma="civil_^(civilní_stav,_doba_mimo_voj._služby)" src="auto" recommended="1">NNIS2-----A----</AM>
+<AM lemma="civil_^(civilní_stav,_doba_mimo_voj._služby)" src="auto" recommended="1" selected="1">NNIS2-----A----</AM>
 <AM lemma="civil_^(civilní_stav,_doba_mimo_voj._služby)" src="auto">NNIS3-----A----</AM>
 <AM lemma="civil_^(civilní_stav,_doba_mimo_voj._služby)" src="auto">NNIS6-----A----</AM>
 <AM lemma="civil_^(nevoják)" src="auto">NNMS3-----A---1</AM>
@@ -974,7 +983,10 @@
 <LM>w#w-mf920901-084-p3s4w9</LM>
 </w.rf>
 <form>ucho</form>
-<tag lemma="ucho" src="orig" selected="1">NNNS4-----A----</tag>
+<tag>
+<AM lemma="ucho" src="orig">NNNS4-----A----</AM>
+<AM lemma="ucho-2" src="manual" selected="1">NNNS4-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920901-084-p3s4w10">
 <src.rf>manual</src.rf>
@@ -1030,7 +1042,10 @@
 <LM>w#w-mf920901-084-p3s4w16</LM>
 </w.rf>
 <form>oku</form>
-<tag lemma="oko" src="orig" selected="1">NNNS6-----A----</tag>
+<tag>
+<AM lemma="oko" src="orig">NNNS6-----A----</AM>
+<AM lemma="oko-2" src="manual" selected="1">NNNS6-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920901-084-p3s4w17">
 <src.rf>manual</src.rf>
@@ -1352,7 +1367,7 @@
 <form>totiž</form>
 <tag>
 <AM lemma="totiž" src="orig">Db-------------</AM>
-<AM lemma="totiž-1" src="auto" recommended="1">J^-------------</AM>
+<AM lemma="totiž-1" src="auto" recommended="1" selected="1">J^-------------</AM>
 <AM lemma="totiž-2" src="auto">TT-------------</AM>
 </tag>
 </m>
@@ -1768,7 +1783,10 @@
 <LM>w#w-mf920901-084-p4s4w15</LM>
 </w.rf>
 <form>řekl</form>
-<tag lemma="říci" src="auto" selected="1">VpYS---XR-AA---</tag>
+<tag>
+<AM lemma="říci" src="auto">VpYS---XR-AA---</AM>
+<AM lemma="říci_:W" src="manual" selected="1">VpYS---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-mf920901-084-p4s4w16">
 <src.rf>manual</src.rf>
@@ -2044,7 +2062,11 @@
 <LM>w#w-mf920901-084-p5s2w6</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-2" src="auto" selected="1">Dg-------2A----</tag>
+<tag>
+<AM lemma="hodně-2" src="auto">Dg-------2A----</AM>
+<AM lemma="více_^(více_+_2._p.,_více_peněz)" src="manual">Ca--4----------</AM>
+<AM lemma="více" src="manual" selected="1">Ca--X----------</AM>
+</tag>
 </m>
 <m id="m-mf920901-084-p5s2w7">
 <src.rf>manual</src.rf>
@@ -2142,7 +2164,11 @@
 <LM>w#w-mf920901-084-p5s3w3</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-2" src="auto" selected="1">Dg-------2A----</tag>
+<tag>
+<AM lemma="hodně-2" src="auto">Dg-------2A----</AM>
+<AM lemma="více_^(více_+_2._p.,_více_peněz)" src="manual">Ca--1----------</AM>
+<AM lemma="hodně-3" src="manual" selected="1">Dg-------2A----</AM>
+</tag>
 </m>
 <m id="m-mf920901-084-p5s3w4">
 <src.rf>manual</src.rf>
@@ -2150,7 +2176,10 @@
 <LM>w#w-mf920901-084-p5s3w4</LM>
 </w.rf>
 <form>individualismus</form>
-<tag lemma="individualismus" src="orig" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="individualismus" src="orig">NNIS1-----A----</AM>
+<AM lemma="individualismus_,s_^(^DD**individualizmus)" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920901-084-p5s3w5">
 <src.rf>manual</src.rf>

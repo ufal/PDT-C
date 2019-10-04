@@ -35,7 +35,10 @@
 <LM>w#w-mf930703-132-p1s1w3</LM>
 </w.rf>
 <form>JAR</form>
-<tag lemma="jaro" src="orig" selected="1">NNNP2-----A----</tag>
+<tag>
+<AM lemma="jaro" src="orig">NNNP2-----A----</AM>
+<AM lemma="JAR-1_:B_;G_^(Jihoafrická_republika)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930703-132-p1s1w4">
 <src.rf>manual</src.rf>
@@ -165,7 +168,10 @@
 <LM>w#w-mf930703-132-p2s1w13</LM>
 </w.rf>
 <form>JAR</form>
-<tag lemma="jaro" src="orig" selected="1">NNNP2-----A----</tag>
+<tag>
+<AM lemma="jaro" src="orig">NNNP2-----A----</AM>
+<AM lemma="JAR-1_:B_;G_^(Jihoafrická_republika)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930703-132-p2s1w14">
 <src.rf>manual</src.rf>
@@ -635,7 +641,10 @@
 <LM>w#w-mf930703-132-p4s1w1</LM>
 </w.rf>
 <form>Tzv</form>
-<tag lemma="takzvaný_:B" src="orig" selected="1">AAXXX----1A---8</tag>
+<tag>
+<AM lemma="takzvaný_:B" src="orig">AAXXX----1A---8</AM>
+<AM lemma="takzvaný" src="manual" selected="1">AAXXX----1A---8</AM>
+</tag>
 </m>
 <m id="m-mf930703-132-p4s1w2">
 <src.rf>manual</src.rf>

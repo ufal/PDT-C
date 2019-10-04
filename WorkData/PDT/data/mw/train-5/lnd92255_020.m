@@ -36,7 +36,7 @@
 </w.rf>
 <form>pátečníku</form>
 <tag>
-<AM lemma="pátečník" src="orig">NNIS2-----A----</AM>
+<AM lemma="pátečník" src="orig" selected="1">NNIS2-----A----</AM>
 <AM lemma="pátečník" src="auto">NNMS3-----A---1</AM>
 <AM lemma="pátečník" src="auto" recommended="1">NNMS5-----A----</AM>
 <AM lemma="pátečník" src="auto">NNMS6-----A---1</AM>
@@ -290,7 +290,10 @@
 <LM>w#w-lnd92255-020-p2s1w31</LM>
 </w.rf>
 <form>Libri</form>
-<tag lemma="Libri_;m_,t" src="orig" selected="1">NNFPX-----A----</tag>
+<tag>
+<AM lemma="Libri_;m_,t" src="orig">NNFPX-----A----</AM>
+<AM lemma="Libri-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-lnd92255-020-p2s1w32">
 <src.rf>manual</src.rf>
@@ -453,7 +456,10 @@
 <LM>w#w-lnd92255-020-p2s2w17</LM>
 </w.rf>
 <form>kW</form>
-<tag lemma="kW-1`kilowatt_:B" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="kW-1`kilowatt_:B" src="orig">NNIXX-----A---8</AM>
+<AM lemma="kilowatt" src="manual" selected="1">NNIXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd92255-020-p2s2w18">
 <src.rf>manual</src.rf>
@@ -473,6 +479,7 @@
 <AM lemma="rádius" src="orig">NNIS7-----A----</AM>
 <AM lemma="rádio_,a" src="auto">NNNS7-----A----</AM>
 <AM lemma="rádium" src="auto" recommended="1">NNNS7-----A----</AM>
+<AM lemma="radius_,s_^(^DD**rádius)" src="manual" selected="1">NNIS7-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92255-020-p2s2w20">
@@ -545,7 +552,10 @@
 <LM>w#w-lnd92255-020-p2s2w28</LM>
 </w.rf>
 <form>a</form>
-<tag lemma="akciový_:B_^(jen_akciová_společnost)" src="orig" selected="1">AAXXX----1A---8</tag>
+<tag>
+<AM lemma="akciový_:B_^(jen_akciová_společnost)" src="orig">AAXXX----1A---8</AM>
+<AM lemma="akciový" src="manual" selected="1">AAXXX----1A----</AM>
+</tag>
 </m>
 <m id="m-lnd92255-020-p2s2w29">
 <src.rf>manual</src.rf>
@@ -561,7 +571,10 @@
 <LM>w#w-lnd92255-020-p2s2w30</LM>
 </w.rf>
 <form>s</form>
-<tag lemma="společnost_:B" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="společnost_:B" src="orig">NNFXX-----A---8</AM>
+<AM lemma="společnost" src="manual" selected="1">NNFXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd92255-020-p2s2w31">
 <src.rf>manual</src.rf>
@@ -638,6 +651,7 @@
 <tag>
 <AM lemma="TT_:B_;K_,t" src="orig">AAXXX----1A---8</AM>
 <AM lemma="TT_:B" src="auto" recommended="1">NNXXX-----A---8</AM>
+<AM lemma="TT-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-lnd92255-020-p2s3w9">

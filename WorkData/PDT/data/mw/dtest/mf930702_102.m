@@ -59,7 +59,10 @@
 <LM>w#w-mf930702-102-p1s1w6</LM>
 </w.rf>
 <form>milionů</form>
-<tag lemma="milión`1000000" src="orig" selected="1">NNIP2-----A----</tag>
+<tag>
+<AM lemma="milión`1000000" src="orig">NNIP2-----A----</AM>
+<AM lemma="milion`1000000_,s_^(^DD**milión)" src="manual" selected="1">NNIP2-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930702-102-p1s1w7">
 <src.rf>manual</src.rf>
@@ -363,7 +366,10 @@
 <LM>w#w-mf930702-102-p2s4w9</LM>
 </w.rf>
 <form>milionů</form>
-<tag lemma="milión`1000000" src="orig" selected="1">NNIP2-----A----</tag>
+<tag>
+<AM lemma="milión`1000000" src="orig">NNIP2-----A----</AM>
+<AM lemma="milion`1000000_,s_^(^DD**milión)" src="manual" selected="1">NNIP2-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930702-102-p2s4w10">
 <src.rf>manual</src.rf>
@@ -466,6 +472,7 @@
 <AM lemma="cestovné" src="auto">NNNP1-----A----</AM>
 <AM lemma="cestovné" src="auto" recommended="1">NNNP4-----A----</AM>
 <AM lemma="cestovné" src="auto">NNNP5-----A----</AM>
+<AM lemma="cestovná-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-mf930702-102-p2s5w10">
@@ -474,7 +481,10 @@
 <LM>w#w-mf930702-102-p2s5w10</LM>
 </w.rf>
 <form>kancelária</form>
-<tag lemma="kancelária_;K_,t" src="orig" selected="1">NNFS1-----A----</tag>
+<tag>
+<AM lemma="kancelária_;K_,t" src="orig">NNFS1-----A----</AM>
+<AM lemma="kancelária-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-mf930702-102-p2s5w11">
 <src.rf>manual</src.rf>
@@ -490,7 +500,10 @@
 <LM>w#w-mf930702-102-p2s5w12</LM>
 </w.rf>
 <form>SCK</form>
-<tag lemma="SCK_:B_;K" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="SCK_:B_;K" src="orig">NNFXX-----A---8</AM>
+<AM lemma="SCK-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-mf930702-102-p2s5w13">
 <src.rf>manual</src.rf>
@@ -1404,7 +1417,7 @@
 <form>ovšem</form>
 <tag>
 <AM lemma="ovšem-1_^(avšak,_však;_odporovací_spojka)" src="orig">J^-------------</AM>
-<AM lemma="ovšem" src="auto" recommended="1">TT-------------</AM>
+<AM lemma="ovšem" src="auto" recommended="1" selected="1">TT-------------</AM>
 </tag>
 </m>
 <m id="m-mf930702-102-p4s5w4">

@@ -85,7 +85,10 @@
 <LM>w#w-ln94202-130-p2s1Aw5</LM>
 </w.rf>
 <form>Z</form>
-<tag lemma="Z-0_:B_;Y" src="orig" selected="1">NNMXX-----A---8</tag>
+<tag>
+<AM lemma="Z-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
+<AM lemma="Z-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln94202-130-p2s1Aw6">
 <src.rf>manual</src.rf>
@@ -257,7 +260,10 @@
 <LM>w#w-ln94202-130-p2s1Cw17</LM>
 </w.rf>
 <form>TANAS</form>
-<tag lemma="TANAS_:B_;K_^(Tanvaldský_anarchistický_svaz)" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="TANAS_:B_;K_^(Tanvaldský_anarchistický_svaz)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="TANAS-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln94202-130-p2s1Cw18">
 <src.rf>manual</src.rf>
@@ -331,7 +337,10 @@
 <LM>w#w-ln94202-130-p2s2w1</LM>
 </w.rf>
 <form>Více</form>
-<tag lemma="hodně-2" src="auto" selected="1">Dg-------2A----</tag>
+<tag>
+<AM lemma="hodně-2" src="auto">Dg-------2A----</AM>
+<AM lemma="hodně-3" src="manual" selected="1">Dg-------2A----</AM>
+</tag>
 </m>
 <m id="m-ln94202-130-p2s2w2">
 <src.rf>manual</src.rf>
@@ -571,7 +580,10 @@
 <LM>w#w-ln94202-130-p2s2w31</LM>
 </w.rf>
 <form>fašismu</form>
-<tag lemma="fašismus" src="orig" selected="1">NNIS3-----A----</tag>
+<tag>
+<AM lemma="fašismus" src="orig">NNIS3-----A----</AM>
+<AM lemma="fašismus_,s_^(^DD**fašizmus)" src="manual" selected="1">NNIS3-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94202-130-p2s2w32">
 <src.rf>manual</src.rf>
@@ -587,7 +599,10 @@
 <LM>w#w-ln94202-130-p2s2w33</LM>
 </w.rf>
 <form>rasismu</form>
-<tag lemma="rasismus" src="orig" selected="1">NNIS3-----A----</tag>
+<tag>
+<AM lemma="rasismus" src="orig">NNIS3-----A----</AM>
+<AM lemma="rasismus_,s_^(^DD*rasizmus)" src="manual" selected="1">NNIS3-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94202-130-p2s2w34">
 <src.rf>manual</src.rf>
@@ -979,7 +994,10 @@
 <LM>w#w-ln94202-130-p4s1w4</LM>
 </w.rf>
 <form>R</form>
-<tag lemma="R-0_:B_;Y" src="orig" selected="1">NNMXX-----A---8</tag>
+<tag>
+<AM lemma="R-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
+<AM lemma="R-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln94202-130-p4s1w5">
 <src.rf>manual</src.rf>
@@ -1505,7 +1523,10 @@
 <LM>w#w-ln94202-130-p5s1w2</LM>
 </w.rf>
 <form>řekl</form>
-<tag lemma="říci" src="auto" selected="1">VpYS---XR-AA---</tag>
+<tag>
+<AM lemma="říci" src="auto">VpYS---XR-AA---</AM>
+<AM lemma="říci_:W" src="manual" selected="1">VpYS---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-ln94202-130-p5s1w3">
 <src.rf>manual</src.rf>
@@ -1537,7 +1558,10 @@
 <LM>w#w-ln94202-130-p5s1w6</LM>
 </w.rf>
 <form>L</form>
-<tag lemma="L-0_:B_;Y" src="orig" selected="1">NNMXX-----A---8</tag>
+<tag>
+<AM lemma="L-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
+<AM lemma="L-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln94202-130-p5s1w7">
 <src.rf>manual</src.rf>
@@ -1845,7 +1869,10 @@
 <LM>w#w-ln94202-130-p5s3w16</LM>
 </w.rf>
 <form>fašismu</form>
-<tag lemma="fašismus" src="orig" selected="1">NNIS2-----A----</tag>
+<tag>
+<AM lemma="fašismus" src="orig">NNIS2-----A----</AM>
+<AM lemma="fašismus_,s_^(^DD**fašizmus)" src="manual" selected="1">NNIS2-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94202-130-p5s3w17">
 <src.rf>manual</src.rf>
@@ -1861,7 +1888,10 @@
 <LM>w#w-ln94202-130-p5s3w18</LM>
 </w.rf>
 <form>rasismu</form>
-<tag lemma="rasismus" src="orig" selected="1">NNIS2-----A----</tag>
+<tag>
+<AM lemma="rasismus" src="orig">NNIS2-----A----</AM>
+<AM lemma="rasismus_,s_^(^DD**rasizmus)" src="manual" selected="1">NNIS2-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94202-130-p5s3w19">
 <src.rf>manual</src.rf>

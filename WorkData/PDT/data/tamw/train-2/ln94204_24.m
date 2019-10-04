@@ -19,7 +19,10 @@
 <LM>w#w-ln94204-24-p1s1w1</LM>
 </w.rf>
 <form>OKD</form>
-<tag lemma="OKD-1_:B_;K_^(Ostravsko-karvinské_doly)" src="orig" selected="1">NNIPX-----A---8</tag>
+<tag>
+<AM lemma="OKD-1_:B_;K_^(Ostravsko-karvinské_doly)" src="orig">NNIPX-----A---8</AM>
+<AM lemma="OKD-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln94204-24-p1s1w2">
 <src.rf>manual</src.rf>
@@ -127,7 +130,10 @@
 <LM>w#w-ln94204-24-p2s1Bw5</LM>
 </w.rf>
 <form>OKD</form>
-<tag lemma="OKD-1_:B_;K_^(Ostravsko-karvinské_doly)" src="orig" selected="1">NNIPX-----A---8</tag>
+<tag>
+<AM lemma="OKD-1_:B_;K_^(Ostravsko-karvinské_doly)" src="orig">NNIPX-----A---8</AM>
+<AM lemma="OKD-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln94204-24-p2s1Bw6">
 <src.rf>manual</src.rf>
@@ -445,7 +451,10 @@
 <LM>w#w-ln94204-24-p4s1w1</LM>
 </w.rf>
 <form>OKD</form>
-<tag lemma="OKD-1_:B_;K_^(Ostravsko-karvinské_doly)" src="orig" selected="1">NNIPX-----A---8</tag>
+<tag>
+<AM lemma="OKD-1_:B_;K_^(Ostravsko-karvinské_doly)" src="orig">NNIPX-----A---8</AM>
+<AM lemma="OKD-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln94204-24-p4s1w2">
 <src.rf>manual</src.rf>
@@ -810,6 +819,7 @@
 <tag>
 <AM lemma="Chalupky_;G" src="orig">NNFP2-----A----</AM>
 <AM lemma="Chalupek_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Chalupki_;G" src="manual" selected="1">NNFP2-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94204-24-p4s2w16">
@@ -1057,7 +1067,7 @@
 <form>Lokte</form>
 <tag>
 <AM lemma="loket" src="orig">NNIS2-----A----</AM>
-<AM lemma="Loket_;G" src="auto">NNIS2-----A---1</AM>
+<AM lemma="Loket_;G" src="auto" selected="1">NNIS2-----A---1</AM>
 <AM lemma="Loket_;G" src="auto">NNIS5-----A----</AM>
 <AM lemma="loket" src="auto">NNIP1-----A---6</AM>
 <AM lemma="loket" src="auto">NNIP4-----A---1</AM>
@@ -1291,7 +1301,7 @@
 <form>Lokte</form>
 <tag>
 <AM lemma="loket" src="orig">NNIS2-----A----</AM>
-<AM lemma="Loket_;G" src="auto">NNIS2-----A---1</AM>
+<AM lemma="Loket_;G" src="auto" selected="1">NNIS2-----A---1</AM>
 <AM lemma="Loket_;G" src="auto">NNIS5-----A----</AM>
 <AM lemma="loket" src="auto">NNIP1-----A---6</AM>
 <AM lemma="loket" src="auto">NNIP4-----A---1</AM>

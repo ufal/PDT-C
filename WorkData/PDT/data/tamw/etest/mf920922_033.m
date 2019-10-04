@@ -201,7 +201,10 @@
 <LM>w#w-mf920922-033-p4s1w4</LM>
 </w.rf>
 <form>ZD</form>
-<tag lemma="ZD_:B_;K_^(zemědělské_družstvo)" src="orig" selected="1">NNNXX-----A---8</tag>
+<tag>
+<AM lemma="ZD_:B_;K_^(zemědělské_družstvo)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="ZD-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-mf920922-033-p4s1w5">
 <src.rf>manual</src.rf>
@@ -251,7 +254,10 @@
 <LM>w#w-mf920922-033-p6s1w1</LM>
 </w.rf>
 <form>tel</form>
-<tag lemma="telefon_:B" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="telefon_:B" src="orig">NNIXX-----A---8</AM>
+<AM lemma="telefon" src="manual" selected="1">NNIXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-mf920922-033-p6s1w2">
 <src.rf>manual</src.rf>
@@ -385,7 +391,10 @@
 <LM>w#w-mf920922-033-p11s1w1</LM>
 </w.rf>
 <form>Monet</form>
-<tag lemma="Monet_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Monet_;S" src="orig">NNMS1-----A----</AM>
+<AM lemma="Monet-2_;K" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920922-033-p11s1w2">
 <src.rf>manual</src.rf>
@@ -401,7 +410,10 @@
 <LM>w#w-mf920922-033-p11s1w3</LM>
 </w.rf>
 <form>spol</form>
-<tag lemma="společnost_:B" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="společnost_:B" src="orig">NNFXX-----A---8</AM>
+<AM lemma="společnost" src="manual" selected="1">NNFXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-mf920922-033-p11s1w4">
 <src.rf>manual</src.rf>
@@ -425,7 +437,10 @@
 <LM>w#w-mf920922-033-p11s1w6</LM>
 </w.rf>
 <form>r</form>
-<tag lemma="ručení_:B" src="orig" selected="1">NNNS7-----A---8</tag>
+<tag>
+<AM lemma="ručení_:B" src="orig">NNNS7-----A---8</AM>
+<AM lemma="ručení" src="manual" selected="1">NNNS7-----A---8</AM>
+</tag>
 </m>
 <m id="m-mf920922-033-p11s1w7">
 <src.rf>manual</src.rf>
@@ -441,7 +456,10 @@
 <LM>w#w-mf920922-033-p11s1w8</LM>
 </w.rf>
 <form>o</form>
-<tag lemma="omezený_:B" src="orig" selected="1">AANS7----1A---8</tag>
+<tag>
+<AM lemma="omezený_:B" src="orig">AANS7----1A---8</AM>
+<AM lemma="omezený" src="manual" selected="1">AANS7----1A---8</AM>
+</tag>
 </m>
 <m id="m-mf920922-033-p11s1w9">
 <src.rf>manual</src.rf>

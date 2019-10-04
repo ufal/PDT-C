@@ -128,7 +128,10 @@
 <LM>w#w-ln94206-74-p2s1Bw6</LM>
 </w.rf>
 <form>milionu</form>
-<tag lemma="milión`1000000" src="orig" selected="1">NNIS2-----A----</tag>
+<tag>
+<AM lemma="milión`1000000" src="orig">NNIS2-----A----</AM>
+<AM lemma="milion`1000000_,s_^(^DD**milión)" src="manual" selected="1">NNIS2-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94206-74-p2s1Bw7">
 <src.rf>manual</src.rf>
@@ -288,7 +291,10 @@
 <LM>w#w-ln94206-74-p2s1Bw26</LM>
 </w.rf>
 <form>Kamanda</form>
-<tag lemma="Kamanda_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Kamanda_;S" src="orig">NNMS1-----A----</AM>
+<AM lemma="Kamanda_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94206-74-p2s1Bw27">
 <src.rf>manual</src.rf>
@@ -297,7 +303,7 @@
 </w.rf>
 <form>Wa</form>
 <tag>
-<AM lemma="Wa_;S" src="orig">NNMSX-----A----</AM>
+<AM lemma="Wa_;S" src="orig" selected="1">NNMSX-----A----</AM>
 <AM lemma="Wa_;G" src="auto" recommended="1">NNNXX-----A----</AM>
 </tag>
 </m>

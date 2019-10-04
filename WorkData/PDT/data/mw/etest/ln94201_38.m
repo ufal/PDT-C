@@ -193,7 +193,10 @@
 <LM>w#w-ln94201-38-p2s1w19</LM>
 </w.rf>
 <form>Poldi</form>
-<tag lemma="Poldi_;K_;Y" src="auto" selected="1">NNFXX-----A----</tag>
+<tag>
+<AM lemma="Poldi_;K_;Y" src="auto" selected="1">NNFXX-----A----</AM>
+<AM lemma="Poldi_;K" src="manual">NNNXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94201-38-p2s1w20">
 <src.rf>manual</src.rf>
@@ -225,7 +228,10 @@
 <LM>w#w-ln94201-38-p2s1w23</LM>
 </w.rf>
 <form>milionů</form>
-<tag lemma="milión`1000000" src="orig" selected="1">NNIP2-----A----</tag>
+<tag>
+<AM lemma="milión`1000000" src="orig">NNIP2-----A----</AM>
+<AM lemma="milion`1000000_,s_^(^DD**milión)" src="manual" selected="1">NNIP2-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94201-38-p2s1w24">
 <src.rf>manual</src.rf>
@@ -743,7 +749,10 @@
 <LM>w#w-ln94201-38-p3s1w5</LM>
 </w.rf>
 <form>Poldi</form>
-<tag lemma="Poldi_;K_;Y" src="auto" selected="1">NNFXX-----A----</tag>
+<tag>
+<AM lemma="Poldi_;K_;Y" src="auto" selected="1">NNFXX-----A----</AM>
+<AM lemma="Poldi_;K" src="manual">NNNXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94201-38-p3s1w6">
 <src.rf>manual</src.rf>
@@ -815,7 +824,10 @@
 <LM>w#w-ln94201-38-p3s1w14</LM>
 </w.rf>
 <form>Poldi</form>
-<tag lemma="Poldi_;K_;Y" src="auto" selected="1">NNFXX-----A----</tag>
+<tag>
+<AM lemma="Poldi_;K_;Y" src="auto" selected="1">NNFXX-----A----</AM>
+<AM lemma="Poldi_;K" src="manual">NNNXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94201-38-p3s1w15">
 <src.rf>manual</src.rf>
@@ -851,7 +863,7 @@
 <form>ovšem</form>
 <tag>
 <AM lemma="ovšem-1_^(avšak,_však;_odporovací_spojka)" src="orig">J^-------------</AM>
-<AM lemma="ovšem" src="auto" recommended="1">TT-------------</AM>
+<AM lemma="ovšem" src="auto" recommended="1" selected="1">TT-------------</AM>
 </tag>
 </m>
 <m id="m-ln94201-38-p3s2w4">
@@ -892,7 +904,10 @@
 <LM>w#w-ln94201-38-p3s2w8</LM>
 </w.rf>
 <form>Poldi</form>
-<tag lemma="Poldi_;K_;Y" src="auto" selected="1">NNFXX-----A----</tag>
+<tag>
+<AM lemma="Poldi_;K_;Y" src="auto">NNFXX-----A----</AM>
+<AM lemma="Poldi_;K" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94201-38-p3s2w9">
 <src.rf>manual</src.rf>
@@ -918,7 +933,7 @@
 <form>přičemž</form>
 <tag>
 <AM lemma="přičemž" src="orig">J,-------------</AM>
-<AM lemma="přičemž" src="auto" recommended="1">Db-------------</AM>
+<AM lemma="přičemž" src="auto" recommended="1" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m-ln94201-38-p3s2w12">
@@ -1015,7 +1030,10 @@
 <LM>w#w-ln94201-38-p3s2w23</LM>
 </w.rf>
 <form>Poldi</form>
-<tag lemma="Poldi_;K_;Y" src="auto" selected="1">NNFXX-----A----</tag>
+<tag>
+<AM lemma="Poldi_;K_;Y" src="auto" selected="1">NNFXX-----A----</AM>
+<AM lemma="Poldi_;K" src="manual">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94201-38-p3s2w24">
 <src.rf>manual</src.rf>
@@ -1245,7 +1263,7 @@
 <form>totiž</form>
 <tag>
 <AM lemma="totiž" src="orig">Db-------------</AM>
-<AM lemma="totiž-1" src="auto" recommended="1">J^-------------</AM>
+<AM lemma="totiž-1" src="auto" recommended="1" selected="1">J^-------------</AM>
 <AM lemma="totiž-2" src="auto">TT-------------</AM>
 </tag>
 </m>
@@ -1279,7 +1297,10 @@
 <LM>w#w-ln94201-38-p3s4w7</LM>
 </w.rf>
 <form>Poldi</form>
-<tag lemma="Poldi_;K_;Y" src="auto" selected="1">NNFXX-----A----</tag>
+<tag>
+<AM lemma="Poldi_;K_;Y" src="auto" selected="1">NNFXX-----A----</AM>
+<AM lemma="Poldi_;K" src="manual">NNNXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94201-38-p3s4w8">
 <src.rf>manual</src.rf>
@@ -1689,7 +1710,10 @@
 <LM>w#w-ln94201-38-p4s2w1</LM>
 </w.rf>
 <form>Poldi</form>
-<tag lemma="Poldi_;K_;Y" src="auto" selected="1">NNFXX-----A----</tag>
+<tag>
+<AM lemma="Poldi_;K_;Y" src="auto" selected="1">NNFXX-----A----</AM>
+<AM lemma="Poldi_;K" src="manual">NNNXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94201-38-p4s2w2">
 <src.rf>manual</src.rf>
@@ -2178,7 +2202,7 @@
 <tag>
 <AM lemma="tedy" src="orig">Db-------------</AM>
 <AM lemma="tedy-1" src="auto" recommended="1">TT-------------</AM>
-<AM lemma="tedy-2" src="auto">J^-------------</AM>
+<AM lemma="tedy-2" src="auto" selected="1">J^-------------</AM>
 </tag>
 </m>
 <m id="m-ln94201-38-p5s1w3">
@@ -2399,7 +2423,10 @@
 <LM>w#w-ln94201-38-p5s3w12</LM>
 </w.rf>
 <form>Art</form>
-<tag lemma="Art-3_;K_,t" src="orig" selected="1">NNIXX-----A----</tag>
+<tag>
+<AM lemma="Art-3_;K_,t" src="orig">NNIXX-----A----</AM>
+<AM lemma="art" src="manual" selected="1">NNIXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94201-38-p5s3w13">
 <src.rf>manual</src.rf>
@@ -2455,7 +2482,10 @@
 <LM>w#w-ln94201-38-p5s3w19</LM>
 </w.rf>
 <form>Poldi</form>
-<tag lemma="Poldi_;K_;Y" src="auto" selected="1">NNFXX-----A----</tag>
+<tag>
+<AM lemma="Poldi_;K_;Y" src="auto" selected="1">NNFXX-----A----</AM>
+<AM lemma="Poldi_;K" src="manual">NNNXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94201-38-p5s3w20">
 <src.rf>manual</src.rf>
@@ -2741,7 +2771,7 @@
 <form>ovšem</form>
 <tag>
 <AM lemma="ovšem-1_^(avšak,_však;_odporovací_spojka)" src="orig">J^-------------</AM>
-<AM lemma="ovšem" src="auto" recommended="1">TT-------------</AM>
+<AM lemma="ovšem" src="auto" recommended="1" selected="1">TT-------------</AM>
 </tag>
 </m>
 <m id="m-ln94201-38-p5s5w4">
@@ -2790,7 +2820,10 @@
 <LM>w#w-ln94201-38-p5s5w9</LM>
 </w.rf>
 <form>Poldi</form>
-<tag lemma="Poldi_;K_;Y" src="auto" selected="1">NNFXX-----A----</tag>
+<tag>
+<AM lemma="Poldi_;K_;Y" src="auto" selected="1">NNFXX-----A----</AM>
+<AM lemma="Poldi_;K" src="manual">NNNXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94201-38-p5s5w10">
 <src.rf>manual</src.rf>
@@ -3082,7 +3115,10 @@
 <LM>w#w-ln94201-38-p5s7w6</LM>
 </w.rf>
 <form>Art</form>
-<tag lemma="Art-3_;K_,t" src="orig" selected="1">NNIXX-----A----</tag>
+<tag>
+<AM lemma="Art-3_;K_,t" src="orig">NNIXX-----A----</AM>
+<AM lemma="art" src="manual" selected="1">NNIXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94201-38-p5s7w7">
 <src.rf>manual</src.rf>
@@ -3616,7 +3652,10 @@
 <LM>w#w-ln94201-38-p6s3w3</LM>
 </w.rf>
 <form>li</form>
-<tag lemma="li-1" src="auto" selected="1">TT-------------</tag>
+<tag>
+<AM lemma="li-1" src="auto">TT-------------</AM>
+<AM lemma="li-2" src="manual" selected="1">J,-------------</AM>
+</tag>
 </m>
 <m id="m-ln94201-38-p6s3w4">
 <src.rf>manual</src.rf>

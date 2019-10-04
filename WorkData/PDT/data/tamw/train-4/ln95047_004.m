@@ -27,7 +27,10 @@
 <LM>w#w-ln95047-004-p1s1w2</LM>
 </w.rf>
 <form>Robinsonů</form>
-<tag lemma="robinson-1" src="orig" selected="1">NNMP2-----A----</tag>
+<tag>
+<AM lemma="robinson-1" src="orig">NNMP2-----A----</AM>
+<AM lemma="Robinson-1_;S" src="manual" selected="1">NNMP2-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95047-004-p1s1w3">
 <src.rf>manual</src.rf>
@@ -127,7 +130,10 @@
 <LM>w#w-ln95047-004-p2s1Bw7</LM>
 </w.rf>
 <form>Robinsonů</form>
-<tag lemma="robinson-1" src="orig" selected="1">NNMP2-----A----</tag>
+<tag>
+<AM lemma="robinson-1" src="orig">NNMP2-----A----</AM>
+<AM lemma="Robinson-1_;S" src="manual" selected="1">NNMP2-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95047-004-p2s1Bw8">
 <src.rf>manual</src.rf>
@@ -193,7 +199,10 @@
 <LM>w#w-ln95047-004-p2s2w1</LM>
 </w.rf>
 <form>Uvedl</form>
-<tag lemma="uvést" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag>
+<AM lemma="uvést" src="orig">VpYS---XR-AA---</AM>
+<AM lemma="uvést_:W" src="manual" selected="1">VpYS---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-ln95047-004-p2s2w2">
 <src.rf>manual</src.rf>
@@ -307,7 +316,10 @@
 <LM>w#w-ln95047-004-p3s1w6</LM>
 </w.rf>
 <form>zapsán</form>
-<tag lemma="zapsat" src="orig" selected="1">VsYS---XX-AP---</tag>
+<tag>
+<AM lemma="zapsat" src="orig">VsYS---XX-AP---</AM>
+<AM lemma="zapsat_:W" src="manual" selected="1">VsYS---XX-AP---</AM>
+</tag>
 </m>
 <m id="m-ln95047-004-p3s1w7">
 <src.rf>manual</src.rf>
@@ -347,7 +359,10 @@
 <LM>w#w-ln95047-004-p3s1w11</LM>
 </w.rf>
 <form>nepřeje</form>
-<tag lemma="přát" src="auto" selected="1">VB-S---3P-NA---</tag>
+<tag>
+<AM lemma="přát" src="auto">VB-S---3P-NA---</AM>
+<AM lemma="přát_:T" src="manual" selected="1">VB-S---3P-NA---</AM>
+</tag>
 </m>
 <m id="m-ln95047-004-p3s1w12">
 <src.rf>manual</src.rf>
@@ -486,7 +501,7 @@
 <tag>
 <AM lemma="jakýkoliv" src="orig">PZFP4---------1</AM>
 <AM lemma="jakýkoli" src="auto">PZFP1----------</AM>
-<AM lemma="jakýkoli" src="auto">PZFP4----------</AM>
+<AM lemma="jakýkoli" src="auto" selected="1">PZFP4----------</AM>
 <AM lemma="jakýkoli" src="auto">PZFP5----------</AM>
 <AM lemma="jakýkoli" src="auto">PZFS2----------</AM>
 <AM lemma="jakýkoli" src="auto">PZFS3----------</AM>
@@ -595,7 +610,10 @@
 <LM>w#w-ln95047-004-p3s2w9</LM>
 </w.rf>
 <form>nečlenům</form>
-<tag lemma="nečlen" src="orig" selected="1">NNMP3-----A----</tag>
+<tag>
+<AM lemma="nečlen" src="orig">NNMP3-----A----</AM>
+<AM lemma="člen" src="manual" selected="1">NNMP3-----N----</AM>
+</tag>
 </m>
 <m id="m-ln95047-004-p3s2w10">
 <src.rf>manual</src.rf>
@@ -829,7 +847,10 @@
 <LM>w#w-ln95047-004-p3s3w21</LM>
 </w.rf>
 <form>nemají</form>
-<tag lemma="mít" src="orig" selected="1">VB-P---3P-NA---</tag>
+<tag>
+<AM lemma="mít" src="orig">VB-P---3P-NA---</AM>
+<AM lemma="mít_:T" src="manual" selected="1">VB-P---3P-NA---</AM>
+</tag>
 </m>
 <m id="m-ln95047-004-p3s3w22">
 <src.rf>manual</src.rf>
@@ -935,7 +956,10 @@
 <LM>w#w-ln95047-004-p3s4w6</LM>
 </w.rf>
 <form>Robinsonů</form>
-<tag lemma="robinson-1" src="orig" selected="1">NNMP2-----A----</tag>
+<tag>
+<AM lemma="robinson-1" src="orig">NNMP2-----A----</AM>
+<AM lemma="Robinson-1_;S" src="manual" selected="1">NNMP2-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95047-004-p3s4w7">
 <src.rf>manual</src.rf>
@@ -1015,7 +1039,10 @@
 <LM>w#w-ln95047-004-p3s4w16</LM>
 </w.rf>
 <form>přečte</form>
-<tag lemma="přečíst" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag>
+<AM lemma="přečíst" src="orig">VB-S---3P-AA---</AM>
+<AM lemma="přečíst_:W" src="manual" selected="1">VB-S---3P-AA---</AM>
+</tag>
 </m>
 <m id="m-ln95047-004-p3s4w17">
 <src.rf>manual</src.rf>
@@ -1341,7 +1368,10 @@
 <LM>w#w-ln95047-004-p4s3w2</LM>
 </w.rf>
 <form>LN</form>
-<tag lemma="LN-1_:B_;R_^(Lidové_noviny,_deník)" src="orig" selected="1">NNFPX-----A---8</tag>
+<tag>
+<AM lemma="LN-1_:B_;R_^(Lidové_noviny,_deník)" src="orig">NNFPX-----A---8</AM>
+<AM lemma="LN-1_:B_;K_;R_^(Lidové_noviny)" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln95047-004-p4s3w3">
 <src.rf>manual</src.rf>

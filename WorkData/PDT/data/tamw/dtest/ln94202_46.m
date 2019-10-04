@@ -307,7 +307,10 @@
 <LM>w#w-ln94202-46-p2s2w4</LM>
 </w.rf>
 <form>LSNS</form>
-<tag lemma="LSNS_:B_;K" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="LSNS_:B_;K" src="orig">NNFXX-----A---8</AM>
+<AM lemma="LSNS-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln94202-46-p2s2w5">
 <src.rf>manual</src.rf>
@@ -517,7 +520,10 @@
 <LM>w#w-ln94202-46-p2s3w1</LM>
 </w.rf>
 <form>LSNS</form>
-<tag lemma="LSNS_:B_;K" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="LSNS_:B_;K" src="orig">NNFXX-----A---8</AM>
+<AM lemma="LSNS-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln94202-46-p2s3w2">
 <src.rf>manual</src.rf>
@@ -717,7 +723,10 @@
 <LM>w#w-ln94202-46-p2s3w26</LM>
 </w.rf>
 <form>vedl</form>
-<tag lemma="vést" src="auto" selected="1">VpYS---XR-AA---</tag>
+<tag>
+<AM lemma="vést" src="auto">VpYS---XR-AA---</AM>
+<AM lemma="vést_:T" src="manual" selected="1">VpYS---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-ln94202-46-p2s3w27">
 <src.rf>manual</src.rf>
@@ -789,7 +798,10 @@
 <LM>w#w-ln94202-46-p2s3w35</LM>
 </w.rf>
 <form>vést</form>
-<tag lemma="vést" src="auto" selected="1">Vf--------A----</tag>
+<tag>
+<AM lemma="vést" src="auto">Vf--------A----</AM>
+<AM lemma="vést_:T" src="manual" selected="1">Vf--------A----</AM>
+</tag>
 </m>
 <m id="m-ln94202-46-p2s3w36">
 <src.rf>manual</src.rf>

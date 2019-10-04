@@ -40,7 +40,7 @@
 <tag>
 <AM lemma="jakýkoliv" src="orig">PZZS7---------1</AM>
 <AM lemma="jakýkoli" src="auto">PZXP3----------</AM>
-<AM lemma="jakýkoli" src="auto" recommended="1">PZZS7----------</AM>
+<AM lemma="jakýkoli" src="auto" recommended="1" selected="1">PZZS7----------</AM>
 </tag>
 </m>
 <m id="m-lnd92257-009-p2s1w3">
@@ -419,7 +419,10 @@
 <LM>w#w-lnd92257-009-p2s2w24</LM>
 </w.rf>
 <form>OSN</form>
-<tag lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92257-009-p2s2w25">
 <src.rf>manual</src.rf>
@@ -439,7 +442,7 @@
 <form>Nejen</form>
 <tag>
 <AM lemma="nejen" src="orig">TT-------------</AM>
-<AM lemma="nejen" src="auto" recommended="1">Db-------------</AM>
+<AM lemma="nejen" src="auto" recommended="1" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m-lnd92257-009-p2s3w2">
@@ -554,7 +557,10 @@
 <LM>w#w-lnd92257-009-p2s4w12</LM>
 </w.rf>
 <form>mají</form>
-<tag lemma="mít" src="orig" selected="1">VB-P---3P-AA---</tag>
+<tag>
+<AM lemma="mít" src="orig">VB-P---3P-AA---</AM>
+<AM lemma="mít_:T" src="manual" selected="1">VB-P---3P-AA---</AM>
+</tag>
 </m>
 <m id="m-lnd92257-009-p2s4w13">
 <src.rf>manual</src.rf>
@@ -652,7 +658,10 @@
 <LM>w#w-lnd92257-009-p2s5w3</LM>
 </w.rf>
 <form>ES</form>
-<tag lemma="ES_:B_;K_^(Evropská_společenství)" src="orig" selected="1">NNNXX-----A---8</tag>
+<tag>
+<AM lemma="ES_:B_;K_^(Evropská_společenství)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="ES-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92257-009-p2s5w4">
 <src.rf>manual</src.rf>
@@ -876,7 +885,10 @@
 <LM>w#w-lnd92257-009-p2s5w31</LM>
 </w.rf>
 <form>zmoci</form>
-<tag lemma="zmoci" src="orig" selected="1">Vf--------A----</tag>
+<tag>
+<AM lemma="zmoci" src="orig">Vf--------A----</AM>
+<AM lemma="zmoci_:W" src="manual" selected="1">Vf--------A----</AM>
+</tag>
 </m>
 <m id="m-lnd92257-009-p2s5w32">
 <src.rf>manual</src.rf>
@@ -1146,7 +1158,7 @@
 <form>Jajce</form>
 <tag>
 <AM lemma="Jajce_;G" src="orig">NNNS1-----A----</AM>
-<AM lemma="Jajce_;G" src="auto" recommended="1">NNIP1-----A----</AM>
+<AM lemma="Jajce_;G" src="auto" recommended="1" selected="1">NNIP1-----A----</AM>
 <AM lemma="Jajce_;G" src="auto">NNIP4-----A----</AM>
 <AM lemma="Jajce_;G" src="auto">NNIP5-----A----</AM>
 </tag>
@@ -1319,7 +1331,10 @@
 <LM>w#w-lnd92257-009-p3s3w9</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-2" src="auto" selected="1">Dg-------2A----</tag>
+<tag>
+<AM lemma="hodně-2" src="auto">Dg-------2A----</AM>
+<AM lemma="hodně-3" src="manual" selected="1">Dg-------2A----</AM>
+</tag>
 </m>
 <m id="m-lnd92257-009-p3s3w10">
 <src.rf>manual</src.rf>
@@ -1423,7 +1438,10 @@
 <LM>w#w-lnd92257-009-p3s3w23</LM>
 </w.rf>
 <form>dá</form>
-<tag lemma="dát" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag>
+<AM lemma="dát" src="orig" selected="1">VB-S---3P-AA---</AM>
+<AM lemma="dát_:W" src="manual">VB-S---3P-AA---</AM>
+</tag>
 </m>
 <m id="m-lnd92257-009-p3s3w24">
 <src.rf>manual</src.rf>
@@ -1457,7 +1475,10 @@
 <LM>w#w-lnd92257-009-p3s4w3</LM>
 </w.rf>
 <form>Owen</form>
-<tag lemma="Owen_;Y" src="orig" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Owen_;Y" src="orig">NNMS1-----A----</AM>
+<AM lemma="Owen_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92257-009-p3s4w4">
 <src.rf>manual</src.rf>
@@ -1529,7 +1550,10 @@
 <LM>w#w-lnd92257-009-p3s4w12</LM>
 </w.rf>
 <form>tj</form>
-<tag lemma="tj-1_:B_^(to_je/jest)" src="orig" selected="1">J^------------8</tag>
+<tag>
+<AM lemma="tj-1_:B_^(to_je/jest)" src="orig">J^------------8</AM>
+<AM lemma="tj-1_:B_^(to_je/jest)" src="manual" selected="1">J^-------------</AM>
+</tag>
 </m>
 <m id="m-lnd92257-009-p3s4w13">
 <src.rf>manual</src.rf>
@@ -1611,7 +1635,10 @@
 <LM>w#w-lnd92257-009-p3s5w1</LM>
 </w.rf>
 <form>ES</form>
-<tag lemma="ES_:B_;K_^(Evropská_společenství)" src="orig" selected="1">NNNXX-----A---8</tag>
+<tag>
+<AM lemma="ES_:B_;K_^(Evropská_společenství)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="ES-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92257-009-p3s5w2">
 <src.rf>manual</src.rf>
@@ -1763,7 +1790,10 @@
 <LM>w#w-lnd92257-009-p3s5w20</LM>
 </w.rf>
 <form>vzít</form>
-<tag lemma="vzít_^(př._sebrat_něco;_brát_ohled,_zřetel,...)" src="orig" selected="1">Vf--------A----</tag>
+<tag>
+<AM lemma="vzít_^(př._sebrat_něco;_brát_ohled,_zřetel,...)" src="orig">Vf--------A----</AM>
+<AM lemma="vzít_:W_^(př._sebrat_něco;_brát_ohled,_zřetel,...)" src="manual" selected="1">Vf--------A----</AM>
+</tag>
 </m>
 <m id="m-lnd92257-009-p3s5w21">
 <src.rf>manual</src.rf>
@@ -2125,7 +2155,10 @@
 <LM>w#w-lnd92257-009-p3s6w25</LM>
 </w.rf>
 <form>nemá</form>
-<tag lemma="mít" src="orig" selected="1">VB-S---3P-NA---</tag>
+<tag>
+<AM lemma="mít" src="orig">VB-S---3P-NA---</AM>
+<AM lemma="mít_:T" src="manual" selected="1">VB-S---3P-NA---</AM>
+</tag>
 </m>
 <m id="m-lnd92257-009-p3s6w26">
 <src.rf>manual</src.rf>
@@ -2729,7 +2762,10 @@
 <LM>w#w-lnd92257-009-p4s2w8</LM>
 </w.rf>
 <form>našla</form>
-<tag lemma="najít" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag>
+<AM lemma="najít" src="orig">VpQW---XR-AA---</AM>
+<AM lemma="najít_:W" src="manual" selected="1">VpQW---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-lnd92257-009-p4s2w9">
 <src.rf>manual</src.rf>
@@ -2771,7 +2807,10 @@
 <LM>w#w-lnd92257-009-p4s3w3</LM>
 </w.rf>
 <form>li</form>
-<tag lemma="li-1" src="auto" selected="1">TT-------------</tag>
+<tag>
+<AM lemma="li-1" src="auto">TT-------------</AM>
+<AM lemma="li-2" src="manual" selected="1">J,-------------</AM>
+</tag>
 </m>
 <m id="m-lnd92257-009-p4s3w4">
 <src.rf>manual</src.rf>
@@ -2838,7 +2877,7 @@
 <tag>
 <AM lemma="kterýkoliv" src="orig">PZYS1---------1</AM>
 <AM lemma="kterýkoli" src="auto">PZIS4----------</AM>
-<AM lemma="kterýkoli" src="auto" recommended="1">PZYS1----------</AM>
+<AM lemma="kterýkoli" src="auto" recommended="1" selected="1">PZYS1----------</AM>
 <AM lemma="kterýkoli" src="auto">PZYS5----------</AM>
 </tag>
 </m>

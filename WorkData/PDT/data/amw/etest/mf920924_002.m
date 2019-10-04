@@ -165,7 +165,10 @@
 <LM>w#w-mf920924-002-p2s1w16</LM>
 </w.rf>
 <form>Biesse</form>
-<tag lemma="Biesse_;K_,t" src="orig" selected="1">NNXXX-----A----</tag>
+<tag>
+<AM lemma="Biesse_;K_,t" src="orig">NNXXX-----A----</AM>
+<AM lemma="Biesse_;K" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920924-002-p2s1w17">
 <src.rf>manual</src.rf>
@@ -279,7 +282,10 @@
 <LM>w#w-mf920924-002-p2s2w9</LM>
 </w.rf>
 <form>nedokážeme</form>
-<tag lemma="dokázat" src="orig" selected="1">VB-P---1P-NA---</tag>
+<tag>
+<AM lemma="dokázat" src="orig">VB-P---1P-NA---</AM>
+<AM lemma="dokázat_:W" src="manual" selected="1">VB-P---1P-NA---</AM>
+</tag>
 </m>
 <m id="m-mf920924-002-p2s2w10">
 <src.rf>manual</src.rf>
@@ -287,7 +293,10 @@
 <LM>w#w-mf920924-002-p2s2w10</LM>
 </w.rf>
 <form>hrát</form>
-<tag lemma="hrát" src="orig" selected="1">Vf--------A----</tag>
+<tag>
+<AM lemma="hrát" src="orig">Vf--------A----</AM>
+<AM lemma="hrát_:T" src="manual" selected="1">Vf--------A----</AM>
+</tag>
 </m>
 <m id="m-mf920924-002-p2s2w11">
 <src.rf>manual</src.rf>
@@ -499,7 +508,10 @@
 <LM>w#w-mf920924-002-p2s4w13</LM>
 </w.rf>
 <form>SRN</form>
-<tag lemma="SRN_:B_;G" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="SRN_:B_;G" src="orig">NNFXX-----A---8</AM>
+<AM lemma="SRN-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920924-002-p2s4w14">
 <src.rf>manual</src.rf>
@@ -759,7 +771,10 @@
 <LM>w#w-mf920924-002-p2s5Bw4</LM>
 </w.rf>
 <form>stala</form>
-<tag lemma="stát-2_^(něco_se_přihodilo)" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag>
+<AM lemma="stát-2_^(něco_se_přihodilo)" src="orig">VpQW---XR-AA---</AM>
+<AM lemma="stát-2_:W_^(něco_se_přihodilo)" src="manual" selected="1">VpQW---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-mf920924-002-p2s5Bw5">
 <src.rf>manual</src.rf>
@@ -783,7 +798,10 @@
 <LM>w#w-mf920924-002-p2s5Bw7</LM>
 </w.rf>
 <form>Biesse</form>
-<tag lemma="Biesse_;K_,t" src="orig" selected="1">NNXXX-----A----</tag>
+<tag>
+<AM lemma="Biesse_;K_,t" src="orig">NNXXX-----A----</AM>
+<AM lemma="Biesse_;K" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920924-002-p2s5Bw8">
 <src.rf>manual</src.rf>
@@ -949,7 +967,7 @@
 <form>třeba</form>
 <tag>
 <AM lemma="třeba-1" src="orig">ACNS------A----</AM>
-<AM lemma="třeba-2" src="auto" recommended="1">Db-------------</AM>
+<AM lemma="třeba-2" src="auto" recommended="1" selected="1">Db-------------</AM>
 <AM lemma="třeba-3" src="auto">TT-------------</AM>
 </tag>
 </m>

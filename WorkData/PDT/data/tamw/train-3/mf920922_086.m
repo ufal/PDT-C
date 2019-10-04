@@ -68,6 +68,7 @@
 <AM lemma="filiálka_:B" src="auto">NNFXX-----A---8</AM>
 <AM lemma="filozofický_:B" src="auto">AAXXX----1A---8</AM>
 <AM lemma="filozofie_:B" src="auto" recommended="1">NNFXX-----A---8</AM>
+<AM lemma="fil-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920922-086-p2s1w4">
@@ -450,7 +451,10 @@
 <LM>w#w-mf920922-086-p2s4w14</LM>
 </w.rf>
 <form>České</form>
-<tag lemma="Český-1_;G_^(používá_se_i_pro_jména_org.,_výrobků_atd.)" src="auto" selected="1">AAFS6----1A----</tag>
+<tag>
+<AM lemma="Český-1_;G_^(používá_se_i_pro_jména_org.,_výrobků_atd.)" src="auto">AAFS6----1A----</AM>
+<AM lemma="český" src="manual" selected="1">AAFS6----1A----</AM>
+</tag>
 </m>
 <m id="m-mf920922-086-p2s4w15">
 <src.rf>manual</src.rf>
@@ -468,7 +472,7 @@
 <form>vůbec</form>
 <tag>
 <AM lemma="vůbec" src="orig">Db-------------</AM>
-<AM lemma="vůbec" src="auto" recommended="1">TT-------------</AM>
+<AM lemma="vůbec" src="auto" recommended="1" selected="1">TT-------------</AM>
 </tag>
 </m>
 <m id="m-mf920922-086-p2s4w17">

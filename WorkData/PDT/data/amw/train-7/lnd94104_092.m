@@ -109,7 +109,10 @@
 <LM>w#w-lnd94104-092-p1s1Cw9</LM>
 </w.rf>
 <form>STRETNUTIE</form>
-<tag lemma="Stretnutie_;m_,t" src="orig" selected="1">NNNS1-----A----</tag>
+<tag>
+<AM lemma="Stretnutie_;m_,t" src="orig">NNNS1-----A----</AM>
+<AM lemma="STRETNUTIE-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-lnd94104-092-p1s1Cw10">
 <src.rf>manual</src.rf>
@@ -659,7 +662,7 @@
 <AM lemma="starost-1" src="auto">NNFS2-----A----</AM>
 <AM lemma="starost-1" src="auto">NNFS3-----A----</AM>
 <AM lemma="starost-1" src="auto">NNFS5-----A----</AM>
-<AM lemma="starost-1" src="auto" recommended="1">NNFS6-----A----</AM>
+<AM lemma="starost-1" src="auto" recommended="1" selected="1">NNFS6-----A----</AM>
 <AM lemma="starost-2_^(člověk,_věc)_(*5ý-2)" src="auto">NNFP1-----A----</AM>
 <AM lemma="starost-2_^(člověk,_věc)_(*5ý-2)" src="auto">NNFP4-----A----</AM>
 <AM lemma="starost-2_^(člověk,_věc)_(*5ý-2)" src="auto">NNFP5-----A----</AM>
@@ -1036,7 +1039,7 @@
 <tag>
 <AM lemma="tedy" src="orig">Db-------------</AM>
 <AM lemma="tedy-1" src="auto">TT-------------</AM>
-<AM lemma="tedy-2" src="auto" recommended="1">J^-------------</AM>
+<AM lemma="tedy-2" src="auto" recommended="1" selected="1">J^-------------</AM>
 </tag>
 </m>
 <m id="m-lnd94104-092-p1s6w8">
@@ -1852,7 +1855,7 @@
 <tag>
 <AM lemma="tady" src="orig">Db------------1</AM>
 <AM lemma="ten" src="auto">PDFS4----------</AM>
-<AM lemma="tu" src="auto" recommended="1">Db-------------</AM>
+<AM lemma="tu" src="auto" recommended="1" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m-lnd94104-092-p1s11w11">
@@ -1909,7 +1912,10 @@
 <LM>w#w-lnd94104-092-p1s11w17</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-2" src="auto" selected="1">Dg-------2A----</tag>
+<tag>
+<AM lemma="hodně-2" src="auto">Dg-------2A----</AM>
+<AM lemma="hodně-3" src="manual" selected="1">Dg-------2A----</AM>
+</tag>
 </m>
 <m id="m-lnd94104-092-p1s11w18">
 <src.rf>manual</src.rf>
@@ -2569,7 +2575,10 @@
 <LM>w#w-lnd94104-092-p1s16w12</LM>
 </w.rf>
 <form>Stretnutie</form>
-<tag lemma="Stretnutie_;m_,t" src="orig" selected="1">NNNS1-----A----</tag>
+<tag>
+<AM lemma="Stretnutie_;m_,t" src="orig">NNNS1-----A----</AM>
+<AM lemma="Stretnutie-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-lnd94104-092-p1s16w13">
 <src.rf>manual</src.rf>

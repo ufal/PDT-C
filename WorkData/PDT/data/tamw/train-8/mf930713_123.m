@@ -265,7 +265,10 @@
 <LM>w#w-mf930713-123-p2s2w6</LM>
 </w.rf>
 <form>milionů</form>
-<tag lemma="milión`1000000" src="orig" selected="1">NNIP2-----A----</tag>
+<tag>
+<AM lemma="milión`1000000" src="orig">NNIP2-----A----</AM>
+<AM lemma="milion`1000000_,s_^(^DD**milión)" src="manual" selected="1">NNIP2-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930713-123-p2s2w7">
 <src.rf>manual</src.rf>
@@ -273,7 +276,10 @@
 <LM>w#w-mf930713-123-p2s2w7</LM>
 </w.rf>
 <form>USD</form>
-<tag lemma="USD_:B_;b_^(U.S._dolar)" src="auto" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="USD_:B_;b_^(U.S._dolar)" src="auto">NNIXX-----A---8</AM>
+<AM lemma="USD_:B_^(U.S._dolar)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930713-123-p2s2w8">
 <src.rf>manual</src.rf>
@@ -427,7 +433,10 @@
 <LM>w#w-mf930713-123-p2s3w8</LM>
 </w.rf>
 <form>Vněšekonombank</form>
-<tag lemma="Vněšekonombank_;K_,t" src="orig" selected="1">NNFXX-----A----</tag>
+<tag>
+<AM lemma="Vněšekonombank_;K_,t" src="orig">NNFXX-----A----</AM>
+<AM lemma="Vněšekonombank-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-mf930713-123-p2s3w9">
 <src.rf>manual</src.rf>

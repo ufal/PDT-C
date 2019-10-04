@@ -363,7 +363,10 @@
 <LM>w#w-ln95040-046-p3s2w6</LM>
 </w.rf>
 <form>Essercizi</form>
-<tag lemma="Essercizi" src="orig" selected="1">NNXXX-----A----</tag>
+<tag>
+<AM lemma="Essercizi" src="orig">NNXXX-----A----</AM>
+<AM lemma="Essercizi-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln95040-046-p3s2w7">
 <src.rf>manual</src.rf>
@@ -383,6 +386,7 @@
 <AM lemma="Domeniko_;Y" src="orig">NNMS2-----A----</AM>
 <AM lemma="Domenico_;Y_,t" src="auto" recommended="1">NNMS2-----A----</AM>
 <AM lemma="Domenico_;Y_,t" src="auto">NNMS4-----A----</AM>
+<AM lemma="Domeniko_;Y_,s_^(^DD**Domenico)" src="manual" selected="1">NNMS2-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95040-046-p3s2w9">
@@ -562,7 +566,7 @@
 </w.rf>
 <form>Es</form>
 <tag>
-<AM lemma="es_^(nota)" src="orig">NNNXX-----A----</AM>
+<AM lemma="es_^(nota)" src="orig" selected="1">NNNXX-----A----</AM>
 <AM lemma="eso" src="auto" recommended="1">NNNP2-----A----</AM>
 </tag>
 </m>
@@ -708,7 +712,10 @@
 <LM>w#w-ln95040-046-p3s3w28</LM>
 </w.rf>
 <form>klasicismu</form>
-<tag lemma="klasicismus" src="orig" selected="1">NNIS2-----A----</tag>
+<tag>
+<AM lemma="klasicismus" src="orig">NNIS2-----A----</AM>
+<AM lemma="klasicismus_,s_^(^DD**klasicizmus)" src="manual" selected="1">NNIS2-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95040-046-p3s3w29">
 <src.rf>manual</src.rf>
@@ -740,6 +747,7 @@
 <AM lemma="Joseph_;Y_,t" src="auto">NNMS6-----A---1</AM>
 <AM lemma="Josephus_;Y_,t" src="auto">NNMS3-----A----</AM>
 <AM lemma="Josephus_;Y_,t" src="auto" recommended="1">NNMS6-----A----</AM>
+<AM lemma="Joseph_;Y" src="manual" selected="1">NNMS6-----A---1</AM>
 </tag>
 </m>
 <m id="m-ln95040-046-p3s4w3">
@@ -772,7 +780,10 @@
 <LM>w#w-ln95040-046-p3s4w6</LM>
 </w.rf>
 <form>e</form>
-<tag lemma="e-3_^(označení_pomocí_písmene)" src="orig" selected="1">NNNXX-----A----</tag>
+<tag>
+<AM lemma="e-3_^(označení_pomocí_písmene)" src="orig">NNNXX-----A----</AM>
+<AM lemma="E-33_^(označení_pomocí_písmene)" src="manual" selected="1">NNNXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95040-046-p3s4w7">
 <src.rf>manual</src.rf>
@@ -969,6 +980,7 @@
 <AM lemma="romantizmus" src="auto" recommended="1">NNIS2-----A----</AM>
 <AM lemma="romantizmus" src="auto">NNIS3-----A----</AM>
 <AM lemma="romantizmus" src="auto">NNIS6-----A----</AM>
+<AM lemma="romantismus_,s_^(^DD**romantizmus)" src="manual" selected="1">NNIS2-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95040-046-p3s4w31">
@@ -1027,7 +1039,10 @@
 <LM>w#w-ln95040-046-p3s6w6</LM>
 </w.rf>
 <form>G</form>
-<tag lemma="g-3_^(označení_pomocí_písmene)" src="orig" selected="1">NNNXX-----A----</tag>
+<tag>
+<AM lemma="g-3_^(označení_pomocí_písmene)" src="orig">NNNXX-----A----</AM>
+<AM lemma="G-33_^(označení_pomocí_písmene)" src="manual" selected="1">NNNXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95040-046-p3s6w7">
 <src.rf>manual</src.rf>
@@ -1051,7 +1066,10 @@
 <LM>w#w-ln95040-046-p3s6w9</LM>
 </w.rf>
 <form>KV</form>
-<tag lemma="KV_:B" src="auto" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="KV_:B" src="auto">NNXXX-----A---8</AM>
+<AM lemma="KV-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln95040-046-p3s6w10">
 <src.rf>manual</src.rf>
@@ -1437,7 +1455,7 @@
 <form>třeba</form>
 <tag>
 <AM lemma="třeba-1" src="orig">ACNS------A----</AM>
-<AM lemma="třeba-2" src="auto" recommended="1">Db-------------</AM>
+<AM lemma="třeba-2" src="auto" recommended="1" selected="1">Db-------------</AM>
 <AM lemma="třeba-3" src="auto">TT-------------</AM>
 </tag>
 </m>
@@ -1609,7 +1627,7 @@
 <form>ovšem</form>
 <tag>
 <AM lemma="ovšem-1_^(avšak,_však;_odporovací_spojka)" src="orig">J^-------------</AM>
-<AM lemma="ovšem" src="auto" recommended="1">TT-------------</AM>
+<AM lemma="ovšem" src="auto" recommended="1" selected="1">TT-------------</AM>
 </tag>
 </m>
 <m id="m-ln95040-046-p4s3w26">
@@ -1646,7 +1664,7 @@
 <form>třeba</form>
 <tag>
 <AM lemma="třeba-1" src="orig">ACNS------A----</AM>
-<AM lemma="třeba-2" src="auto" recommended="1">Db-------------</AM>
+<AM lemma="třeba-2" src="auto" recommended="1" selected="1">Db-------------</AM>
 <AM lemma="třeba-3" src="auto">TT-------------</AM>
 </tag>
 </m>
@@ -2324,7 +2342,10 @@
 <LM>w#w-ln95040-046-p5s4w5</LM>
 </w.rf>
 <form>historismu</form>
-<tag lemma="historismus" src="orig" selected="1">NNIS2-----A----</tag>
+<tag>
+<AM lemma="historismus" src="orig">NNIS2-----A----</AM>
+<AM lemma="historismus_,s_^(^DD**historizmus)" src="manual" selected="1">NNIS2-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95040-046-p5s4w6">
 <src.rf>manual</src.rf>

@@ -27,7 +27,10 @@
 <LM>w#w-ln94201-23-p1s1w2</LM>
 </w.rf>
 <form>Konstruktiva</form>
-<tag lemma="Konstruktiva_;K_;Y" src="orig" selected="1">NNFS1-----A----</tag>
+<tag>
+<AM lemma="Konstruktiva_;K_;Y" src="orig">NNFS1-----A----</AM>
+<AM lemma="Konstruktiva-1_;K" src="manual" selected="1">NNFS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94201-23-p1s1w3">
 <src.rf>manual</src.rf>
@@ -77,7 +80,10 @@
 <LM>w#w-ln94201-23-p2s1w3</LM>
 </w.rf>
 <form>ir</form>
-<tag lemma="ir-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="ir-99_:B_;S" src="orig">NNXXX-----A---8</AM>
+<AM lemma="ir-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94201-23-p2s1w4">
 <src.rf>manual</src.rf>
@@ -109,7 +115,10 @@
 <LM>w#w-ln94201-23-p2s1w7</LM>
 </w.rf>
 <form>Konstruktiva</form>
-<tag lemma="Konstruktiva_;K_;Y" src="orig" selected="1">NNFS1-----A----</tag>
+<tag>
+<AM lemma="Konstruktiva_;K_;Y" src="orig">NNFS1-----A----</AM>
+<AM lemma="Konstruktiva-1_;K" src="manual" selected="1">NNFS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94201-23-p2s1w8">
 <src.rf>manual</src.rf>
@@ -200,7 +209,7 @@
 <AM lemma="matka-2_^(maminka)" src="auto">NNFP1-----A----</AM>
 <AM lemma="matka-2_^(maminka)" src="auto">NNFP4-----A----</AM>
 <AM lemma="matka-2_^(maminka)" src="auto">NNFP5-----A----</AM>
-<AM lemma="matka-2_^(maminka)" src="auto">NNFS2-----A----</AM>
+<AM lemma="matka-2_^(maminka)" src="auto" selected="1">NNFS2-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94201-23-p2s1w18">
@@ -275,7 +284,10 @@
 <LM>w#w-ln94201-23-p2s2w3</LM>
 </w.rf>
 <form>Konstruktivy</form>
-<tag lemma="Konstruktiva_;K_;Y" src="orig" selected="1">NNFS2-----A----</tag>
+<tag>
+<AM lemma="Konstruktiva_;K_;Y" src="orig">NNFS2-----A----</AM>
+<AM lemma="Konstruktiva-1_;K" src="manual" selected="1">NNFS2-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94201-23-p2s2w4">
 <src.rf>manual</src.rf>
@@ -685,7 +697,10 @@
 <LM>w#w-ln94201-23-p2s3w25</LM>
 </w.rf>
 <form>a</form>
-<tag lemma="akciový_:B_^(jen_akciová_společnost)" src="orig" selected="1">AAXXX----1A---8</tag>
+<tag>
+<AM lemma="akciový_:B_^(jen_akciová_společnost)" src="orig">AAXXX----1A---8</AM>
+<AM lemma="akciový" src="manual" selected="1">AAXXX----1A---8</AM>
+</tag>
 </m>
 <m id="m-ln94201-23-p2s3w26">
 <src.rf>manual</src.rf>
@@ -701,7 +716,10 @@
 <LM>w#w-ln94201-23-p2s3w27</LM>
 </w.rf>
 <form>s</form>
-<tag lemma="společnost_:B" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="společnost_:B" src="orig">NNFXX-----A---8</AM>
+<AM lemma="společnost" src="manual" selected="1">NNFXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln94201-23-p2s3w28">
 <src.rf>manual</src.rf>
@@ -719,7 +737,10 @@
 <LM>w#w-ln94201-23-p2s4w1</LM>
 </w.rf>
 <form>Konstruktiva</form>
-<tag lemma="Konstruktiva_;K_;Y" src="orig" selected="1">NNFS1-----A----</tag>
+<tag>
+<AM lemma="Konstruktiva_;K_;Y" src="orig">NNFS1-----A----</AM>
+<AM lemma="Konstruktiva-1_;K" src="manual" selected="1">NNFS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94201-23-p2s4w2">
 <src.rf>manual</src.rf>
@@ -804,7 +825,7 @@
 <AM lemma="matka-2_^(maminka)" src="auto">NNFP1-----A----</AM>
 <AM lemma="matka-2_^(maminka)" src="auto">NNFP4-----A----</AM>
 <AM lemma="matka-2_^(maminka)" src="auto">NNFP5-----A----</AM>
-<AM lemma="matka-2_^(maminka)" src="auto">NNFS2-----A----</AM>
+<AM lemma="matka-2_^(maminka)" src="auto" selected="1">NNFS2-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94201-23-p2s5w9">
@@ -869,7 +890,10 @@
 <LM>w#w-ln94201-23-p2s5w16</LM>
 </w.rf>
 <form>Signum</form>
-<tag lemma="signum" src="orig" selected="1">NNNS1-----A----</tag>
+<tag>
+<AM lemma="signum" src="orig">NNNS1-----A----</AM>
+<AM lemma="Signum-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94201-23-p2s5w17">
 <src.rf>manual</src.rf>
@@ -877,7 +901,10 @@
 <LM>w#w-ln94201-23-p2s5w17</LM>
 </w.rf>
 <form>Artis</form>
-<tag lemma="artis" src="orig" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="artis" src="orig">NNIS1-----A----</AM>
+<AM lemma="Artis-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94201-23-p2s5w18">
 <src.rf>manual</src.rf>
@@ -925,7 +952,10 @@
 <LM>w#w-ln94201-23-p2s5w23</LM>
 </w.rf>
 <form>Konstruktiva</form>
-<tag lemma="Konstruktiva_;K_;Y" src="orig" selected="1">NNFS1-----A----</tag>
+<tag>
+<AM lemma="Konstruktiva_;K_;Y" src="orig">NNFS1-----A----</AM>
+<AM lemma="Konstruktiva-1_;K" src="manual" selected="1">NNFS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94201-23-p2s5w24">
 <src.rf>manual</src.rf>
@@ -1242,7 +1272,7 @@
 <AM lemma="matka-2_^(maminka)" src="auto">NNFP1-----A----</AM>
 <AM lemma="matka-2_^(maminka)" src="auto">NNFP4-----A----</AM>
 <AM lemma="matka-2_^(maminka)" src="auto">NNFP5-----A----</AM>
-<AM lemma="matka-2_^(maminka)" src="auto">NNFS2-----A----</AM>
+<AM lemma="matka-2_^(maminka)" src="auto" selected="1">NNFS2-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94201-23-p2s6w7">
@@ -1291,7 +1321,10 @@
 <LM>w#w-ln94201-23-p2s6w12</LM>
 </w.rf>
 <form>milionů</form>
-<tag lemma="milión`1000000" src="orig" selected="1">NNIP2-----A----</tag>
+<tag>
+<AM lemma="milión`1000000" src="orig">NNIP2-----A----</AM>
+<AM lemma="milion`1000000_,s_^(^DD**milión)" src="manual" selected="1">NNIP2-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94201-23-p2s6w13">
 <src.rf>manual</src.rf>
@@ -1419,7 +1452,10 @@
 <LM>w#w-ln94201-23-p2s6w28</LM>
 </w.rf>
 <form>milionů</form>
-<tag lemma="milión`1000000" src="orig" selected="1">NNIP2-----A----</tag>
+<tag>
+<AM lemma="milión`1000000" src="orig">NNIP2-----A----</AM>
+<AM lemma="milion`1000000_,s_^(^DD**milión)" src="manual" selected="1">NNIP2-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94201-23-p2s6w29">
 <src.rf>manual</src.rf>

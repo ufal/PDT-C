@@ -231,7 +231,7 @@
 <AM lemma="zkušený" src="auto">AANP4----1A---6</AM>
 <AM lemma="zkušený" src="auto">AANP5----1A---6</AM>
 <AM lemma="zkušený" src="auto">AANS1----1A----</AM>
-<AM lemma="zkušený" src="auto" recommended="1">AANS4----1A----</AM>
+<AM lemma="zkušený" src="auto" recommended="1" selected="1">AANS4----1A----</AM>
 <AM lemma="zkušený" src="auto">AANS5----1A----</AM>
 </tag>
 </m>
@@ -387,7 +387,10 @@
 <LM>w#w-ln95048-097-p3s1w2</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-2" src="auto" selected="1">Dg-------2A----</tag>
+<tag>
+<AM lemma="hodně-2" src="auto">Dg-------2A----</AM>
+<AM lemma="hodně-3" src="manual" selected="1">Dg-------2A----</AM>
+</tag>
 </m>
 <m id="m-ln95048-097-p3s1w3">
 <src.rf>manual</src.rf>
@@ -575,7 +578,7 @@
 <form>ovšem</form>
 <tag>
 <AM lemma="ovšem-1_^(avšak,_však;_odporovací_spojka)" src="orig">J^-------------</AM>
-<AM lemma="ovšem" src="auto" recommended="1">TT-------------</AM>
+<AM lemma="ovšem" src="auto" recommended="1" selected="1">TT-------------</AM>
 </tag>
 </m>
 <m id="m-ln95048-097-p3s2w3">
@@ -1535,7 +1538,7 @@
 <form>zasáhla</form>
 <tag>
 <AM lemma="zasáhnout" src="orig">VpQW---XR-AA---</AM>
-<AM lemma="zasáhnout_:W" src="auto" recommended="1">VpQW---XR-AA--1</AM>
+<AM lemma="zasáhnout_:W" src="auto" recommended="1" selected="1">VpQW---XR-AA--1</AM>
 </tag>
 </m>
 <m id="m-ln95048-097-p4s4w5">
@@ -1568,7 +1571,10 @@
 <LM>w#w-ln95048-097-p4s4w8</LM>
 </w.rf>
 <form>TV</form>
-<tag lemma="televize_:B" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="televize_:B" src="orig">NNFXX-----A---8</AM>
+<AM lemma="TV_:B_^(televize)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95048-097-p4s4w9">
 <src.rf>manual</src.rf>
@@ -2112,7 +2118,7 @@
 <form>snad</form>
 <tag>
 <AM lemma="snad" src="orig">Db-------------</AM>
-<AM lemma="snad" src="auto" recommended="1">TT-------------</AM>
+<AM lemma="snad" src="auto" recommended="1" selected="1">TT-------------</AM>
 </tag>
 </m>
 <m id="m-ln95048-097-p5s3w16">

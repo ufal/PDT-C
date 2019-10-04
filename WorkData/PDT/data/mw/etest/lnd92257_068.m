@@ -69,7 +69,10 @@
 <LM>w#w-lnd92257-068-p2s1w2</LM>
 </w.rf>
 <form>Requiem</form>
-<tag lemma="rekviem_,s_,x" src="auto" selected="1">NNNXX-----A----</tag>
+<tag>
+<AM lemma="rekviem_,s_,x" src="auto">NNNXX-----A----</AM>
+<AM lemma="Requiem_,m" src="manual" selected="1">NNNXX-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92257-068-p2s1w3">
 <src.rf>manual</src.rf>
@@ -109,7 +112,10 @@
 <LM>w#w-lnd92257-068-p2s1w7</LM>
 </w.rf>
 <form>hod</form>
-<tag lemma="hodina_:B" src="auto" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="hodina_:B" src="auto">NNFXX-----A---8</AM>
+<AM lemma="hodina" src="manual" selected="1">NNFXX-----A---9</AM>
+</tag>
 </m>
 <m id="m-lnd92257-068-p2s1w8">
 <src.rf>manual</src.rf>
@@ -311,7 +317,10 @@
 <LM>w#w-lnd92257-068-p2s2w15</LM>
 </w.rf>
 <form>M</form>
-<tag lemma="M-0_:B_;Y" src="orig" selected="1">NNMXX-----A---8</tag>
+<tag>
+<AM lemma="M-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
+<AM lemma="M-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd92257-068-p2s2w16">
 <src.rf>manual</src.rf>
@@ -677,7 +686,10 @@
 <LM>w#w-lnd92257-068-p4s1w4</LM>
 </w.rf>
 <form>M</form>
-<tag lemma="M-0_:B_;Y" src="orig" selected="1">NNMXX-----A---8</tag>
+<tag>
+<AM lemma="M-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
+<AM lemma="M-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd92257-068-p4s1w5">
 <src.rf>manual</src.rf>
@@ -733,7 +745,10 @@
 <LM>w#w-lnd92257-068-p4s1w11</LM>
 </w.rf>
 <form>hod</form>
-<tag lemma="hodina_:B" src="auto" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="hodina_:B" src="auto">NNFXX-----A---8</AM>
+<AM lemma="hodina" src="manual" selected="1">NNFXX-----A---9</AM>
+</tag>
 </m>
 <m id="m-lnd92257-068-p4s1w12">
 <src.rf>manual</src.rf>
@@ -757,7 +772,10 @@
 <LM>w#w-lnd92257-068-p4s1w14</LM>
 </w.rf>
 <form>Euroclub</form>
-<tag lemma="Euroclub" src="orig" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="Euroclub" src="orig">NNIS1-----A----</AM>
+<AM lemma="Euroclub_;K" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92257-068-p4s1w15">
 <src.rf>manual</src.rf>
@@ -791,7 +809,10 @@
 <LM>w#w-lnd92257-068-p5s1w3</LM>
 </w.rf>
 <form>Gerta</form>
-<tag lemma="Gert_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag>
+<AM lemma="Gert_;S" src="orig">NNMS2-----A----</AM>
+<AM lemma="Gert_;S_;Y" src="manual" selected="1">NNMS2-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92257-068-p5s1w4">
 <src.rf>manual</src.rf>
@@ -871,7 +892,10 @@
 <LM>w#w-lnd92257-068-p5s1w13</LM>
 </w.rf>
 <form>hod</form>
-<tag lemma="hodina_:B" src="auto" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="hodina_:B" src="auto">NNFXX-----A---8</AM>
+<AM lemma="hodina" src="manual" selected="1">NNFXX-----A---9</AM>
+</tag>
 </m>
 <m id="m-lnd92257-068-p5s1w14">
 <src.rf>manual</src.rf>
@@ -919,7 +943,10 @@
 <LM>w#w-lnd92257-068-p5s1w19</LM>
 </w.rf>
 <form>UK</form>
-<tag lemma="UK-1_:B_;K_^(Univerzita_Karlova_Praha)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="UK-1_:B_;K_^(Univerzita_Karlova_Praha)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="UK-1_:B_;K_^(Univerzita_Karlova_Praha)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92257-068-p5s1w20">
 <src.rf>manual</src.rf>
@@ -935,7 +962,10 @@
 <LM>w#w-lnd92257-068-p5s1w21</LM>
 </w.rf>
 <form>nám</form>
-<tag lemma="já" src="orig" selected="1">PP-P3--1-------</tag>
+<tag>
+<AM lemma="já" src="orig">PP-P3--1-------</AM>
+<AM lemma="náměstí" src="manual" selected="1">NNNXX-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92257-068-p5s1w22">
 <src.rf>manual</src.rf>
@@ -951,7 +981,10 @@
 <LM>w#w-lnd92257-068-p5s1w23</LM>
 </w.rf>
 <form>J</form>
-<tag lemma="J-0_:B_;Y" src="orig" selected="1">NNMXX-----A---8</tag>
+<tag>
+<AM lemma="J-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
+<AM lemma="J-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd92257-068-p5s1w24">
 <src.rf>manual</src.rf>
@@ -1023,7 +1056,10 @@
 <LM>w#w-lnd92257-068-p5s1w32</LM>
 </w.rf>
 <form>č</form>
-<tag lemma="číslo_:B" src="orig" selected="1">NNNXX-----A---8</tag>
+<tag>
+<AM lemma="číslo_:B" src="orig">NNNXX-----A---8</AM>
+<AM lemma="číslo" src="manual" selected="1">NNNXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd92257-068-p5s1w33">
 <src.rf>manual</src.rf>

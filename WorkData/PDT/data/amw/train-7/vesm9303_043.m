@@ -783,7 +783,10 @@
 <LM>w#w-vesm9303-043-p2s4w30</LM>
 </w.rf>
 <form>J</form>
-<tag lemma="J-0_:B_;Y" src="orig" selected="1">NNMXX-----A---8</tag>
+<tag>
+<AM lemma="J-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
+<AM lemma="J-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-vesm9303-043-p2s4w31">
 <src.rf>manual</src.rf>
@@ -810,7 +813,7 @@
 <tag>
 <AM lemma="nalézt" src="orig">VpYS---XR-AA---</AM>
 <AM lemma="nalézt-1_^(někam)" src="auto" recommended="1">VpYS---XR-AA---</AM>
-<AM lemma="nalézt-2" src="auto">VpYS---XR-AA---</AM>
+<AM lemma="nalézt-2" src="auto" selected="1">VpYS---XR-AA---</AM>
 </tag>
 </m>
 <m id="m-vesm9303-043-p2s4w34">
@@ -910,7 +913,7 @@
 <tag>
 <AM lemma="tedy" src="orig">Db-------------</AM>
 <AM lemma="tedy-1" src="auto">TT-------------</AM>
-<AM lemma="tedy-2" src="auto" recommended="1">J^-------------</AM>
+<AM lemma="tedy-2" src="auto" recommended="1" selected="1">J^-------------</AM>
 </tag>
 </m>
 <m id="m-vesm9303-043-p2s4w46">
@@ -962,7 +965,10 @@
 <LM>w#w-vesm9303-043-p3s1w1</LM>
 </w.rf>
 <form>R</form>
-<tag lemma="R-0_:B_;Y" src="orig" selected="1">NNMXX-----A---8</tag>
+<tag>
+<AM lemma="R-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
+<AM lemma="R-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-vesm9303-043-p3s1w2">
 <src.rf>manual</src.rf>
@@ -978,7 +984,10 @@
 <LM>w#w-vesm9303-043-p3s1w3</LM>
 </w.rf>
 <form>W</form>
-<tag lemma="W-0_:B_;Y" src="orig" selected="1">NNMXX-----A---8</tag>
+<tag>
+<AM lemma="W-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
+<AM lemma="W-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-vesm9303-043-p3s1w4">
 <src.rf>manual</src.rf>
@@ -1098,7 +1107,10 @@
 <LM>w#w-vesm9303-043-p3s1w18</LM>
 </w.rf>
 <form>jv</form>
-<tag lemma="jihovýchod_:B_,x" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="jihovýchod_:B_,x" src="orig">NNIXX-----A---8</AM>
+<AM lemma="jihovýchodně_^(*1í)" src="manual" selected="1">Dg-------1A---8</AM>
+</tag>
 </m>
 <m id="m-vesm9303-043-p3s1w19">
 <src.rf>manual</src.rf>
@@ -1125,6 +1137,7 @@
 <tag>
 <AM lemma="Rawalpindi_;G_,t" src="orig">NNNSX-----A----</AM>
 <AM lemma="Rávalpindí_;G_,x" src="auto" recommended="1">NNNXX-----A----</AM>
+<AM lemma="Rawalpindi_;G_,s_^(^DD**Rávalpindí)" src="manual" selected="1">NNNXX-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9303-043-p3s1w22">
@@ -1423,7 +1436,10 @@
 <LM>w#w-vesm9303-043-p3s2w14</LM>
 </w.rf>
 <form>Current</form>
-<tag lemma="Current_;R_,t" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="Current_;R_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="Current-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-vesm9303-043-p3s2w15">
 <src.rf>manual</src.rf>
@@ -1431,7 +1447,10 @@
 <LM>w#w-vesm9303-043-p3s2w15</LM>
 </w.rf>
 <form>Anthropology</form>
-<tag lemma="Anthropology_;R_,t" src="orig" selected="1">NNFSX-----A----</tag>
+<tag>
+<AM lemma="Anthropology_;R_,t" src="orig">NNFSX-----A----</AM>
+<AM lemma="Anthropology-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-vesm9303-043-p3s2w16">
 <src.rf>manual</src.rf>

@@ -465,7 +465,10 @@
 <LM>w#w-lnd92255-133-p2s3w33</LM>
 </w.rf>
 <form>začal</form>
-<tag lemma="začít-1_^(začnout)" src="auto" selected="1">VpYS---XR-AA---</tag>
+<tag>
+<AM lemma="začít-1_^(začnout)" src="auto">VpYS---XR-AA---</AM>
+<AM lemma="začít-1_:W_^(začnout)" src="manual" selected="1">VpYS---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-lnd92255-133-p2s3w34">
 <src.rf>manual</src.rf>
@@ -587,7 +590,10 @@
 <LM>w#w-lnd92255-133-p2s4w12</LM>
 </w.rf>
 <form>MS</form>
-<tag lemma="MS-5_:B_;K_;p_^(ministerstvo_spravedlnosti)" src="orig" selected="1">NNNXX-----A---8</tag>
+<tag>
+<AM lemma="MS-5_:B_;K_;p_^(ministerstvo_spravedlnosti)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="MS-3_:B_^(mistrovství_světa)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92255-133-p2s4w13">
 <src.rf>manual</src.rf>
@@ -635,7 +641,10 @@
 <LM>w#w-lnd92255-133-p2s4w18</LM>
 </w.rf>
 <form>ZOH</form>
-<tag lemma="ZOH-1_:B_;w_^(Zimní_olympijské_hry)" src="orig" selected="1">NNFPX-----A---8</tag>
+<tag>
+<AM lemma="ZOH-1_:B_;w_^(Zimní_olympijské_hry)" src="orig">NNFPX-----A---8</AM>
+<AM lemma="ZOH-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd92255-133-p2s4w19">
 <src.rf>manual</src.rf>

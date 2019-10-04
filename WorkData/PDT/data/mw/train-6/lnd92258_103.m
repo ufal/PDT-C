@@ -45,7 +45,10 @@
 <LM>w#w-lnd92258-103-p2s1w2</LM>
 </w.rf>
 <form>LN</form>
-<tag lemma="LN-1_:B_;R_^(Lidové_noviny,_deník)" src="orig" selected="1">NNFPX-----A---8</tag>
+<tag>
+<AM lemma="LN-1_:B_;R_^(Lidové_noviny,_deník)" src="orig">NNFPX-----A---8</AM>
+<AM lemma="LN-1_:B_;K_;R_^(Lidové_noviny)" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd92258-103-p2s1w3">
 <src.rf>manual</src.rf>
@@ -167,7 +170,10 @@
 <LM>w#w-lnd92258-103-p3s1w11</LM>
 </w.rf>
 <form>nedali</form>
-<tag lemma="dát" src="orig" selected="1">VpMP---XR-NA---</tag>
+<tag>
+<AM lemma="dát" src="orig">VpMP---XR-NA---</AM>
+<AM lemma="dát_:W" src="manual" selected="1">VpMP---XR-NA---</AM>
+</tag>
 </m>
 <m id="m-lnd92258-103-p3s1w12">
 <src.rf>manual</src.rf>
@@ -265,7 +271,10 @@
 <LM>w#w-lnd92258-103-p3s2w4</LM>
 </w.rf>
 <form>obdržela</form>
-<tag lemma="obdržet" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag>
+<AM lemma="obdržet" src="orig">VpQW---XR-AA---</AM>
+<AM lemma="obdržet_:W" src="manual" selected="1">VpQW---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-lnd92258-103-p3s2w5">
 <src.rf>manual</src.rf>
@@ -339,7 +348,10 @@
 <LM>w#w-lnd92258-103-p3s3w6</LM>
 </w.rf>
 <form>LN</form>
-<tag lemma="LN-1_:B_;R_^(Lidové_noviny,_deník)" src="orig" selected="1">NNFPX-----A---8</tag>
+<tag>
+<AM lemma="LN-1_:B_;R_^(Lidové_noviny,_deník)" src="orig">NNFPX-----A---8</AM>
+<AM lemma="LN-1_:B_;K_;R_^(Lidové_noviny)" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd92258-103-p3s3w7">
 <src.rf>manual</src.rf>
@@ -367,7 +379,7 @@
 <form>SÁDOVSKÁ</form>
 <tag>
 <AM lemma="Sádovský_;S" src="orig">NNFS1-----A----</AM>
-<AM lemma="Sádovská_;S" src="auto" recommended="1">NNFS1-----A----</AM>
+<AM lemma="Sádovská_;S" src="auto" recommended="1" selected="1">NNFS1-----A----</AM>
 <AM lemma="Sádovská_;S" src="auto">NNFS5-----A----</AM>
 <AM lemma="sádovský" src="auto">AAFS1----1A----</AM>
 <AM lemma="sádovský" src="auto">AAFS5----1A----</AM>

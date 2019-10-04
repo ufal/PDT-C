@@ -191,7 +191,7 @@
 <form>děly</form>
 <tag>
 <AM lemma="dít" src="orig">VpTP---XR-AA---</AM>
-<AM lemma="dít-1_^(dít_se)" src="auto" recommended="1">VpTP---XR-AA---</AM>
+<AM lemma="dít-1_^(dít_se)" src="auto" recommended="1" selected="1">VpTP---XR-AA---</AM>
 <AM lemma="dít-2_^(říkat)" src="auto">VpTP---XR-AA---</AM>
 <AM lemma="dělo" src="auto">NNNP7-----A----</AM>
 </tag>
@@ -318,7 +318,10 @@
 <LM>w#w-mf920923-124-p3s2w6</LM>
 </w.rf>
 <form>stává</form>
-<tag lemma="stávat-3_:T_^(někdo/něco_stojí,_např._na_nohou)_(*5t-3)" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag>
+<AM lemma="stávat-3_:T_^(někdo/něco_stojí,_např._na_nohou)_(*5t-3)" src="orig">VB-S---3P-AA---</AM>
+<AM lemma="stávat-2_:T_^(stanu_staneš)_(*5t-2)" src="manual" selected="1">VB-S---3P-AA---</AM>
+</tag>
 </m>
 <m id="m-mf920923-124-p3s2w7">
 <src.rf>manual</src.rf>
@@ -519,6 +522,7 @@
 <AM lemma="nacionalizmus" src="auto" recommended="1">NNIS2-----A----</AM>
 <AM lemma="nacionalizmus" src="auto">NNIS3-----A----</AM>
 <AM lemma="nacionalizmus" src="auto">NNIS6-----A----</AM>
+<AM lemma="nacionalismus_,s_^(^DD**nacionalizmus)" src="manual" selected="1">NNIS2-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920923-124-p3s4w4">
@@ -562,7 +566,7 @@
 <tag>
 <AM lemma="starost" src="orig">NNFS7-----A----</AM>
 <AM lemma="starost-1" src="auto">NNFP2-----A----</AM>
-<AM lemma="starost-1" src="auto" recommended="1">NNFS7-----A----</AM>
+<AM lemma="starost-1" src="auto" recommended="1" selected="1">NNFS7-----A----</AM>
 <AM lemma="starost-2_^(člověk,_věc)_(*5ý-2)" src="auto">NNFP2-----A----</AM>
 <AM lemma="starost-2_^(člověk,_věc)_(*5ý-2)" src="auto">NNFS7-----A----</AM>
 </tag>
@@ -672,7 +676,7 @@
 <tag>
 <AM lemma="starost" src="orig">NNFS4-----A----</AM>
 <AM lemma="starost-1" src="auto">NNFS1-----A----</AM>
-<AM lemma="starost-1" src="auto" recommended="1">NNFS4-----A----</AM>
+<AM lemma="starost-1" src="auto" recommended="1" selected="1">NNFS4-----A----</AM>
 <AM lemma="starost-2_^(člověk,_věc)_(*5ý-2)" src="auto">NNFS1-----A----</AM>
 <AM lemma="starost-2_^(člověk,_věc)_(*5ý-2)" src="auto">NNFS4-----A----</AM>
 </tag>
@@ -1533,7 +1537,7 @@
 <AM lemma="zkušená_^(jít_na_z._do_světa)" src="auto">NNFP6-----A----</AM>
 <AM lemma="zkušený" src="auto">AAFP2----1A----</AM>
 <AM lemma="zkušený" src="auto">AAFP6----1A----</AM>
-<AM lemma="zkušený" src="auto" recommended="1">AAIP2----1A----</AM>
+<AM lemma="zkušený" src="auto" recommended="1" selected="1">AAIP2----1A----</AM>
 <AM lemma="zkušený" src="auto">AAIP6----1A----</AM>
 <AM lemma="zkušený" src="auto">AAMP2----1A----</AM>
 <AM lemma="zkušený" src="auto">AAMP6----1A----</AM>
@@ -1845,7 +1849,10 @@
 <LM>w#w-mf920923-124-p6s2w35</LM>
 </w.rf>
 <form>MMF</form>
-<tag lemma="MMF-1_:B_;K_;b_^(Mezinárodní_měnový_fond)" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="MMF-1_:B_;K_;b_^(Mezinárodní_měnový_fond)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="MMF-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920923-124-p6s2w36">
 <src.rf>manual</src.rf>
@@ -1871,7 +1878,10 @@
 <LM>w#w-mf920923-124-p7s1w1</LM>
 </w.rf>
 <form>Počátkem</form>
-<tag lemma="počátek" src="orig" selected="1">NNIS7-----A----</tag>
+<tag>
+<AM lemma="počátek" src="orig">NNIS7-----A----</AM>
+<AM lemma="počátkem" src="manual" selected="1">RR--2----------</AM>
+</tag>
 </m>
 <m id="m-mf920923-124-p7s1w2">
 <src.rf>manual</src.rf>
@@ -1903,7 +1913,10 @@
 <LM>w#w-mf920923-124-p7s1w5</LM>
 </w.rf>
 <form>MMF</form>
-<tag lemma="MMF-1_:B_;K_;b_^(Mezinárodní_měnový_fond)" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="MMF-1_:B_;K_;b_^(Mezinárodní_měnový_fond)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="MMF-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920923-124-p7s1w6">
 <src.rf>manual</src.rf>

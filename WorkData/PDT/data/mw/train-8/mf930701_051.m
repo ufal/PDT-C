@@ -143,6 +143,7 @@
 <AM lemma="Cigi_;m" src="orig">II-------------</AM>
 <AM lemma="Cigi_;S" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Cigi_;S" src="auto">NNMS5-----A----</AM>
+<AM lemma="Cigi-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-mf930701-051-p1s1w17">
@@ -151,7 +152,10 @@
 <LM>w#w-mf930701-051-p1s1w17</LM>
 </w.rf>
 <form>Caga</form>
-<tag lemma="Caga_;G" src="orig" selected="1">NNFS1-----A----</tag>
+<tag>
+<AM lemma="Caga_;G" src="orig">NNFS1-----A----</AM>
+<AM lemma="Caga-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-mf930701-051-p1s1w18">
 <src.rf>manual</src.rf>
@@ -159,7 +163,10 @@
 <LM>w#w-mf930701-051-p1s1w18</LM>
 </w.rf>
 <form>cupu</form>
-<tag lemma="cup_,t_^(pohár)" src="auto" selected="1">NNIS2-----A----</tag>
+<tag>
+<AM lemma="cup_,t_^(pohár)" src="auto">NNIS2-----A----</AM>
+<AM lemma="cup-1_;m_^(pohár,_soutěž;_v_názvech)" src="manual" selected="1">NNIS2-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930701-051-p1s1w19">
 <src.rf>manual</src.rf>
@@ -237,6 +244,7 @@
 <AM lemma="Cigi_;m" src="orig">II-------------</AM>
 <AM lemma="Cigi_;S" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Cigi_;S" src="auto">NNMS5-----A----</AM>
+<AM lemma="Cigi-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-mf930701-051-p1s2w5">
@@ -245,7 +253,10 @@
 <LM>w#w-mf930701-051-p1s2w5</LM>
 </w.rf>
 <form>Caga</form>
-<tag lemma="Caga_;G" src="orig" selected="1">NNFS1-----A----</tag>
+<tag>
+<AM lemma="Caga_;G" src="orig">NNFS1-----A----</AM>
+<AM lemma="Caga-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-mf930701-051-p1s2w6">
 <src.rf>manual</src.rf>
@@ -621,6 +632,7 @@
 <AM lemma="Racing_;K_^(př._Racing_Club)" src="orig">NNIXX-----A----</AM>
 <AM lemma="Racing_;K_^(př._Racing_Club)" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Racing_;K_^(př._Racing_Club)" src="auto">NNIS4-----A----</AM>
+<AM lemma="Racing-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-mf930701-051-p1s4w8">
@@ -987,7 +999,10 @@
 <LM>w#w-mf930701-051-p1s7w12</LM>
 </w.rf>
 <form>WTS</form>
-<tag lemma="WTS_:B_;K" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="WTS_:B_;K" src="orig">NNXXX-----A---8</AM>
+<AM lemma="WTS-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-mf930701-051-p1s7w13">
 <src.rf>manual</src.rf>

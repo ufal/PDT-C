@@ -185,7 +185,10 @@
 <LM>w#w-mf930708-055-p4s1w12</LM>
 </w.rf>
 <form>přivedly</form>
-<tag lemma="přivést" src="orig" selected="1">VpTP---XR-AA---</tag>
+<tag>
+<AM lemma="přivést" src="orig">VpTP---XR-AA---</AM>
+<AM lemma="přivést_:W" src="manual" selected="1">VpTP---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-mf930708-055-p4s1w13">
 <src.rf>manual</src.rf>
@@ -1721,7 +1724,10 @@
 <LM>w#w-mf930708-055-p5s6w6</LM>
 </w.rf>
 <form>nedávno</form>
-<tag lemma="nedávno-1" src="auto" selected="1">Db-------------</tag>
+<tag>
+<AM lemma="nedávno-1" src="auto">Db-------------</AM>
+<AM lemma="dávno-1" src="manual" selected="1">Dg-------1N----</AM>
+</tag>
 </m>
 <m id="m-mf930708-055-p5s6w7">
 <src.rf>manual</src.rf>
@@ -1795,7 +1801,10 @@
 <LM>w#w-mf930708-055-p6s1w1</LM>
 </w.rf>
 <form>Nechápu</form>
-<tag lemma="chápat" src="orig" selected="1">VB-S---1P-NA---</tag>
+<tag>
+<AM lemma="chápat" src="orig">VB-S---1P-NA---</AM>
+<AM lemma="chápat_:T" src="manual" selected="1">VB-S---1P-NA---</AM>
+</tag>
 </m>
 <m id="m-mf930708-055-p6s1w2">
 <src.rf>manual</src.rf>
@@ -1806,7 +1815,7 @@
 <tag>
 <AM lemma="tedy" src="orig">Db-------------</AM>
 <AM lemma="tedy-1" src="auto" recommended="1">TT-------------</AM>
-<AM lemma="tedy-2" src="auto">J^-------------</AM>
+<AM lemma="tedy-2" src="auto" selected="1">J^-------------</AM>
 </tag>
 </m>
 <m id="m-mf930708-055-p6s1w3">
@@ -1993,7 +2002,10 @@
 <LM>w#w-mf930708-055-p6s2w1</LM>
 </w.rf>
 <form>Nevím</form>
-<tag lemma="vědět" src="orig" selected="1">VB-S---1P-NA---</tag>
+<tag>
+<AM lemma="vědět" src="orig">VB-S---1P-NA---</AM>
+<AM lemma="vědět_:T" src="manual" selected="1">VB-S---1P-NA---</AM>
+</tag>
 </m>
 <m id="m-mf930708-055-p6s2w2">
 <src.rf>manual</src.rf>

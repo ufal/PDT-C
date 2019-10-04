@@ -86,6 +86,7 @@
 <tag>
 <AM lemma="USA_;G" src="orig">NNIPX-----A----</AM>
 <AM lemma="USA_:B_;K_,t_^(United_States_of_America)" src="auto" recommended="1">NNIPX-----A---8</AM>
+<AM lemma="USA_:B_;K_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-lnd92258-017-p1s1w10">
@@ -134,7 +135,10 @@
 <LM>w#w-lnd92258-017-p1s1w15</LM>
 </w.rf>
 <form>Karintischer</form>
-<tag lemma="Karintischer_;m_,t" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="Karintischer_;m_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="Karintischer-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-lnd92258-017-p1s1w16">
 <src.rf>manual</src.rf>
@@ -142,7 +146,10 @@
 <LM>w#w-lnd92258-017-p1s1w16</LM>
 </w.rf>
 <form>Herbst</form>
-<tag lemma="Herbst_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Herbst_;S" src="orig">NNMS1-----A----</AM>
+<AM lemma="Herbst-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-lnd92258-017-p1s1w17">
 <src.rf>manual</src.rf>
@@ -270,7 +277,10 @@
 <LM>w#w-lnd92258-017-p1s1w32</LM>
 </w.rf>
 <form>Hommage</form>
-<tag lemma="hommage_,t" src="orig" selected="1">NNFXX-----A----</tag>
+<tag>
+<AM lemma="hommage_,t" src="orig">NNFXX-----A----</AM>
+<AM lemma="Hommage-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-lnd92258-017-p1s1w33">
 <src.rf>manual</src.rf>
@@ -278,7 +288,10 @@
 <LM>w#w-lnd92258-017-p1s1w33</LM>
 </w.rf>
 <form>á</form>
-<tag lemma="á-1" src="orig" selected="1">II-------------</tag>
+<tag>
+<AM lemma="á-1" src="orig">II-------------</AM>
+<AM lemma="á-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-lnd92258-017-p1s1w34">
 <src.rf>manual</src.rf>
@@ -379,6 +392,7 @@
 <tag>
 <AM lemma="USA_;G" src="orig">NNIPX-----A----</AM>
 <AM lemma="USA_:B_;K_,t_^(United_States_of_America)" src="auto" recommended="1">NNIPX-----A---8</AM>
+<AM lemma="USA_:B_;K_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-lnd92258-017-p1s2w9">
@@ -852,6 +866,7 @@
 <tag>
 <AM lemma="MI_:B_;R" src="orig">NNXXX-----A---8</AM>
 <AM lemma="já" src="auto" recommended="1">PH-S3--1-------</AM>
+<AM lemma="MI-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-lnd92258-017-p3s1w18">
@@ -868,7 +883,10 @@
 <LM>w#w-lnd92258-017-p3s1w19</LM>
 </w.rf>
 <form>D</form>
-<tag lemma="d-3_^(označení_pomocí_písmene)" src="orig" selected="1">NNNXX-----A----</tag>
+<tag>
+<AM lemma="d-3_^(označení_pomocí_písmene)" src="orig">NNNXX-----A----</AM>
+<AM lemma="D-33_^(označení_pomocí_písmene)" src="manual" selected="1">NNNXX-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92258-017-p3s1w20">
 <src.rf>manual</src.rf>

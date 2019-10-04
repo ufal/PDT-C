@@ -72,6 +72,7 @@
 <tag>
 <AM lemma="sch-99_:B_;S" src="orig">NNXXX-----A---8</AM>
 <AM lemma="schnout" src="auto" recommended="1">VpYS---XR-AA--6</AM>
+<AM lemma="sch-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920925-080-p2s1w5">
@@ -170,7 +171,10 @@
 <LM>w#w-mf920925-080-p2s2w10</LM>
 </w.rf>
 <form>stal</form>
-<tag lemma="stát-2_^(něco_se_přihodilo)" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag>
+<AM lemma="stát-2_^(něco_se_přihodilo)" src="orig">VpYS---XR-AA---</AM>
+<AM lemma="stát-2_^(stanu_staneš)" src="manual" selected="1">VpYS---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-mf920925-080-p2s2w11">
 <src.rf>manual</src.rf>
@@ -236,7 +240,10 @@
 <LM>w#w-mf920925-080-p2s3w3</LM>
 </w.rf>
 <form>začne</form>
-<tag lemma="začít-1_^(začnout)" src="auto" selected="1">VB-S---3P-AA---</tag>
+<tag>
+<AM lemma="začít-1_^(začnout)" src="auto">VB-S---3P-AA---</AM>
+<AM lemma="začít-1_:W_^(začnout)" src="manual" selected="1">VB-S---3P-AA---</AM>
+</tag>
 </m>
 <m id="m-mf920925-080-p2s3w4">
 <src.rf>manual</src.rf>
@@ -252,7 +259,10 @@
 <LM>w#w-mf920925-080-p2s3w5</LM>
 </w.rf>
 <form>Tusakko</form>
-<tag lemma="Tusakko_;K_,t" src="orig" selected="1">NNNS1-----A----</tag>
+<tag>
+<AM lemma="Tusakko_;K_,t" src="orig">NNNS1-----A----</AM>
+<AM lemma="Tusakko_;K" src="manual" selected="1">NNNS1-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920925-080-p2s3w6">
 <src.rf>manual</src.rf>
@@ -610,7 +620,10 @@
 <LM>w#w-mf920925-080-p2s6w9</LM>
 </w.rf>
 <form>Tusakko</form>
-<tag lemma="Tusakko_;K_,t" src="orig" selected="1">NNNS1-----A----</tag>
+<tag>
+<AM lemma="Tusakko_;K_,t" src="orig">NNNS1-----A----</AM>
+<AM lemma="Tusakko_;K" src="manual" selected="1">NNNS1-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920925-080-p2s6w10">
 <src.rf>manual</src.rf>
@@ -740,7 +753,10 @@
 <LM>w#w-mf920925-080-p3s1Aw12</LM>
 </w.rf>
 <form>řekl</form>
-<tag lemma="říci" src="auto" selected="1">VpYS---XR-AA---</tag>
+<tag>
+<AM lemma="říci" src="auto">VpYS---XR-AA---</AM>
+<AM lemma="říci_:W" src="manual" selected="1">VpYS---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-mf920925-080-p3s1Aw13">
 <src.rf>manual</src.rf>
@@ -1138,7 +1154,10 @@
 <LM>w#w-mf920925-080-p3s3w5</LM>
 </w.rf>
 <form>bílé</form>
-<tag lemma="bílý" src="orig" selected="1">AAIP1----1A----</tag>
+<tag>
+<AM lemma="bílý" src="orig">AAIP1----1A----</AM>
+<AM lemma="bílý_;o" src="manual" selected="1">AAIP1----1A----</AM>
+</tag>
 </m>
 <m id="m-mf920925-080-p3s3w6">
 <src.rf>manual</src.rf>

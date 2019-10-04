@@ -141,7 +141,10 @@
 <LM>w#w-mf920901-056-p1s2w9</LM>
 </w.rf>
 <form>van</form>
-<tag lemma="vana" src="orig" selected="1">NNFP2-----A----</tag>
+<tag>
+<AM lemma="vana" src="orig">NNFP2-----A----</AM>
+<AM lemma="van-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-mf920901-056-p1s2w10">
 <src.rf>manual</src.rf>

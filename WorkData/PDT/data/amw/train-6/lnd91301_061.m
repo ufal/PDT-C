@@ -60,7 +60,7 @@
 </w.rf>
 <form>Marlene</form>
 <tag>
-<AM lemma="Marlene_;Y" src="orig">NNFS1-----A----</AM>
+<AM lemma="Marlene_;Y" src="orig" selected="1">NNFS1-----A----</AM>
 <AM lemma="Marlene_;Y_,t" src="auto" recommended="1">NNFXX-----A----</AM>
 </tag>
 </m>
@@ -394,7 +394,10 @@
 <LM>w#w-lnd91301-061-p2s1w3</LM>
 </w.rf>
 <form>SAS</form>
-<tag lemma="SAS_:B" src="auto" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="SAS_:B" src="auto">NNXXX-----A---8</AM>
+<AM lemma="SAS-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd91301-061-p2s1w4">
 <src.rf>manual</src.rf>
@@ -530,7 +533,10 @@
 <LM>w#w-lnd91301-061-p2s1w20</LM>
 </w.rf>
 <form>Arlanda</form>
-<tag lemma="Arland_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag>
+<AM lemma="Arland_;S" src="orig">NNMS2-----A----</AM>
+<AM lemma="Arlanda_;G" src="manual" selected="1">NNFS1-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd91301-061-p2s1w21">
 <src.rf>manual</src.rf>
@@ -548,7 +554,10 @@
 <LM>w#w-lnd91301-061-p2s2w1</LM>
 </w.rf>
 <form>Více</form>
-<tag lemma="hodně-2" src="auto" selected="1">Dg-------2A----</tag>
+<tag>
+<AM lemma="hodně-2" src="auto">Dg-------2A----</AM>
+<AM lemma="hodně-3" src="manual" selected="1">Dg-------2A----</AM>
+</tag>
 </m>
 <m id="m-lnd91301-061-p2s2w2">
 <src.rf>manual</src.rf>

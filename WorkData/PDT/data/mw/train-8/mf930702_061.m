@@ -768,6 +768,7 @@
 <tag>
 <AM lemma="USA_;G" src="orig">NNIPX-----A----</AM>
 <AM lemma="USA_:B_;K_,t_^(United_States_of_America)" src="auto" recommended="1">NNIPX-----A---8</AM>
+<AM lemma="USA_:B_;K_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-mf930702-061-p4s1w17">
@@ -1346,6 +1347,7 @@
 <tag>
 <AM lemma="Mutvana_;G" src="orig">NNFS6-----A----</AM>
 <AM lemma="Muta_;S" src="auto" recommended="1">NNFP2-----A----</AM>
+<AM lemma="Mut-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-mf930702-061-p5s2w42">
@@ -1632,7 +1634,7 @@
 <form>nejen</form>
 <tag>
 <AM lemma="nejen" src="orig">TT-------------</AM>
-<AM lemma="nejen" src="auto" recommended="1">Db-------------</AM>
+<AM lemma="nejen" src="auto" recommended="1" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m-mf930702-061-p6s1w22">
@@ -1757,7 +1759,7 @@
 <AM lemma="studna" src="orig">NNFP2-----A----</AM>
 <AM lemma="studeň_,a" src="auto">NNFP2-----A----</AM>
 <AM lemma="studeň_,a" src="auto">NNFS7-----A----</AM>
-<AM lemma="studně" src="auto" recommended="1">NNFP2-----A----</AM>
+<AM lemma="studně" src="auto" recommended="1" selected="1">NNFP2-----A----</AM>
 <AM lemma="studně" src="auto">NNFS7-----A----</AM>
 </tag>
 </m>

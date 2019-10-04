@@ -199,7 +199,10 @@
 <LM>w#w-ln95042-085-p2s1Bw15</LM>
 </w.rf>
 <form>přednesl</form>
-<tag lemma="přednést" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag>
+<AM lemma="přednést" src="orig">VpYS---XR-AA---</AM>
+<AM lemma="přednést_:W" src="manual" selected="1">VpYS---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-ln95042-085-p2s1Bw16">
 <src.rf>manual</src.rf>
@@ -273,7 +276,10 @@
 <LM>w#w-ln95042-085-p2s2w5</LM>
 </w.rf>
 <form>mít</form>
-<tag lemma="mít" src="orig" selected="1">Vf--------A----</tag>
+<tag>
+<AM lemma="mít" src="orig">Vf--------A----</AM>
+<AM lemma="mít_:T" src="manual" selected="1">Vf--------A----</AM>
+</tag>
 </m>
 <m id="m-ln95042-085-p2s2w6">
 <src.rf>manual</src.rf>
@@ -581,7 +587,10 @@
 <LM>w#w-ln95042-085-p2s4w4</LM>
 </w.rf>
 <form>měl</form>
-<tag lemma="mít" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag>
+<AM lemma="mít" src="orig">VpYS---XR-AA---</AM>
+<AM lemma="mít_:T" src="manual" selected="1">VpYS---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-ln95042-085-p2s4w5">
 <src.rf>manual</src.rf>
@@ -1071,6 +1080,7 @@
 <AM lemma="Biedenkopf_;S" src="orig">NNMS1-----A----</AM>
 <AM lemma="Biedenkopf_;G" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Biedenkopf_;G" src="auto">NNIS4-----A----</AM>
+<AM lemma="Biedenkopf-2_;S" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95042-085-p2s7w17">

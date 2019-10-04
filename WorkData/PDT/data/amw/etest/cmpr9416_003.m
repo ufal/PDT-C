@@ -315,7 +315,10 @@
 <LM>w#w-cmpr9416-003-p4s2w4</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-2" src="auto" selected="1">Dg-------2A----</tag>
+<tag>
+<AM lemma="hodně-2" src="auto">Dg-------2A----</AM>
+<AM lemma="hodně-3" src="manual" selected="1">Dg-------2A----</AM>
+</tag>
 </m>
 <m id="m-cmpr9416-003-p4s2w5">
 <src.rf>manual</src.rf>
@@ -1356,7 +1359,10 @@
 <LM>w#w-cmpr9416-003-p10s2w8</LM>
 </w.rf>
 <form>miliony</form>
-<tag lemma="milión`1000000" src="orig" selected="1">NNIP1-----A----</tag>
+<tag>
+<AM lemma="milión`1000000" src="orig">NNIP1-----A----</AM>
+<AM lemma="milion`1000000_,s_^(^DD**milión) " src="manual" selected="1">NNIP1-----A----</AM>
+</tag>
 </m>
 <m id="m-cmpr9416-003-p10s2w9">
 <src.rf>manual</src.rf>
@@ -3418,7 +3424,10 @@
 <LM>w#w-cmpr9416-003-p14s1Aw7</LM>
 </w.rf>
 <form>E</form>
-<tag lemma="e-3_^(označení_pomocí_písmene)" src="orig" selected="1">NNNXX-----A----</tag>
+<tag>
+<AM lemma="e-3_^(označení_pomocí_písmene)" src="orig">NNNXX-----A----</AM>
+<AM lemma="E-33_^(označení_pomocí_písmene)" src="manual" selected="1">NNNXX-----A----</AM>
+</tag>
 </m>
 <m id="m-cmpr9416-003-p14s1Aw8">
 <src.rf>manual</src.rf>
@@ -3516,7 +3525,10 @@
 <LM>w#w-cmpr9416-003-p14s1Bw11</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-2" src="auto" selected="1">Dg-------2A----</tag>
+<tag>
+<AM lemma="hodně-2" src="auto">Dg-------2A----</AM>
+<AM lemma="hodně-3" src="manual" selected="1">Dg-------2A----</AM>
+</tag>
 </m>
 <m id="m-cmpr9416-003-p14s1Bw12">
 <src.rf>manual</src.rf>
@@ -3745,7 +3757,7 @@
 <form>Toyota</form>
 <tag>
 <AM lemma="Toyota-1_;K" src="orig">NNFXX-----A----</AM>
-<AM lemma="Toyota-1_;K_;R" src="auto">NNFS1-----A----</AM>
+<AM lemma="Toyota-1_;K_;R" src="auto" selected="1">NNFS1-----A----</AM>
 <AM lemma="Toyota-3_;S" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="toyota_;R_^(vozidlo)" src="auto">NNFS1-----A----</AM>
 </tag>

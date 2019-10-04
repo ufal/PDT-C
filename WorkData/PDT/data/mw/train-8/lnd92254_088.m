@@ -139,6 +139,7 @@
 <AM lemma="ad_:B" src="orig">NNMS1-----A---8</AM>
 <AM lemma="ad_,t" src="auto">RR--1----------</AM>
 <AM lemma="adalší_:B" src="auto" recommended="1">AAXXX----1A---8</AM>
+<AM lemma="ad-99_:B_;S" src="manual" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-lnd92254-088-p3s1w4">
@@ -192,7 +193,7 @@
 <tag>
 <AM lemma="kačka" src="orig">NNFP2-----A----</AM>
 <AM lemma="kačka-1_,e_^(^SY*4ena)" src="auto" recommended="1">NNFP2-----A----</AM>
-<AM lemma="kačka-2_^(^DI*6oruna)" src="auto">NNFP2-----A----</AM>
+<AM lemma="kačka-2_^(^DI*6oruna)" src="auto" selected="1">NNFP2-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92254-088-p3s2w5">
@@ -241,7 +242,10 @@
 <LM>w#w-lnd92254-088-p3s2w10</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-2" src="auto" selected="1">Dg-------2A----</tag>
+<tag>
+<AM lemma="hodně-2" src="auto">Dg-------2A----</AM>
+<AM lemma="hodně-3" src="manual" selected="1">Dg-------2A----</AM>
+</tag>
 </m>
 <m id="m-lnd92254-088-p3s2w11">
 <src.rf>manual</src.rf>
@@ -676,6 +680,7 @@
 <AM lemma="MSP-3_:B_,t_^(Microsoft_Paint)" src="auto">NNIXX-----A---8</AM>
 <AM lemma="MSP-4_:B_;K_,t_^(Microsoft_Solution_Provider)" src="auto">NNMXX-----A---8</AM>
 <AM lemma="MSP-5_:B_,t_^(multitech_supervisory_protocol)" src="auto">NNIXX-----A---8</AM>
+<AM lemma="MSP-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-lnd92254-088-p4s1w8">
@@ -1178,7 +1183,7 @@
 <form>totiž</form>
 <tag>
 <AM lemma="totiž" src="orig">Db-------------</AM>
-<AM lemma="totiž-1" src="auto" recommended="1">J^-------------</AM>
+<AM lemma="totiž-1" src="auto" recommended="1" selected="1">J^-------------</AM>
 <AM lemma="totiž-2" src="auto">TT-------------</AM>
 </tag>
 </m>
@@ -1459,6 +1464,7 @@
 <AM lemma="MSP-3_:B_,t_^(Microsoft_Paint)" src="auto">NNIXX-----A---8</AM>
 <AM lemma="MSP-4_:B_;K_,t_^(Microsoft_Solution_Provider)" src="auto">NNMXX-----A---8</AM>
 <AM lemma="MSP-5_:B_,t_^(multitech_supervisory_protocol)" src="auto">NNIXX-----A---8</AM>
+<AM lemma="MSP-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-lnd92254-088-p4s3w38">
@@ -1824,7 +1830,7 @@
 <tag>
 <AM lemma="tedy" src="orig">Db-------------</AM>
 <AM lemma="tedy-1" src="auto">TT-------------</AM>
-<AM lemma="tedy-2" src="auto" recommended="1">J^-------------</AM>
+<AM lemma="tedy-2" src="auto" recommended="1" selected="1">J^-------------</AM>
 </tag>
 </m>
 <m id="m-lnd92254-088-p5s1w40">
@@ -2188,6 +2194,7 @@
 <AM lemma="MSP-3_:B_,t_^(Microsoft_Paint)" src="auto">NNIXX-----A---8</AM>
 <AM lemma="MSP-4_:B_;K_,t_^(Microsoft_Solution_Provider)" src="auto">NNMXX-----A---8</AM>
 <AM lemma="MSP-5_:B_,t_^(multitech_supervisory_protocol)" src="auto">NNIXX-----A---8</AM>
+<AM lemma="MSP-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-lnd92254-088-p5s3w4">
@@ -2527,7 +2534,7 @@
 </w.rf>
 <form>Peta</form>
 <tag>
-<AM lemma="Pete_;Y" src="orig">NNMS4-----A----</AM>
+<AM lemma="Pete_;Y" src="orig" selected="1">NNMS4-----A----</AM>
 <AM lemma="Peto_;G" src="auto">NNNP1-----A----</AM>
 <AM lemma="Peto_;G" src="auto" recommended="1">NNNP4-----A----</AM>
 <AM lemma="Peto_;G" src="auto">NNNP5-----A----</AM>
@@ -2573,6 +2580,7 @@
 <AM lemma="MSP-3_:B_,t_^(Microsoft_Paint)" src="auto">NNIXX-----A---8</AM>
 <AM lemma="MSP-4_:B_;K_,t_^(Microsoft_Solution_Provider)" src="auto">NNMXX-----A---8</AM>
 <AM lemma="MSP-5_:B_,t_^(multitech_supervisory_protocol)" src="auto">NNIXX-----A---8</AM>
+<AM lemma="MSP-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-lnd92254-088-p5s5w3">
@@ -2963,7 +2971,7 @@
 <form>radši</form>
 <tag>
 <AM lemma="raději" src="orig">Dg-------2A---1</AM>
-<AM lemma="rád" src="auto" recommended="1">Dg-------2A---1</AM>
+<AM lemma="rád" src="auto" recommended="1" selected="1">Dg-------2A---1</AM>
 </tag>
 </m>
 <m id="m-lnd92254-088-p5s7w10">
@@ -3059,6 +3067,7 @@
 <AM lemma="MSP-3_:B_,t_^(Microsoft_Paint)" src="auto">NNIXX-----A---8</AM>
 <AM lemma="MSP-4_:B_;K_,t_^(Microsoft_Solution_Provider)" src="auto">NNMXX-----A---8</AM>
 <AM lemma="MSP-5_:B_,t_^(multitech_supervisory_protocol)" src="auto">NNIXX-----A---8</AM>
+<AM lemma="MSP-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-lnd92254-088-p5s7w21">
@@ -3070,6 +3079,7 @@
 <tag>
 <AM lemma="Vratislav_:B_;Y" src="orig">NNMXX-----A---8</AM>
 <AM lemma="vr" src="auto" recommended="1">II-------------</AM>
+<AM lemma="Vr-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-lnd92254-088-p5s7w22">

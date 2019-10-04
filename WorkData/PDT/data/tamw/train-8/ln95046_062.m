@@ -135,7 +135,10 @@
 <LM>w#w-ln95046-062-p2s1Bw8</LM>
 </w.rf>
 <form>L</form>
-<tag lemma="L-10_^(př._L'Aqua,_stažený_tvar_fr._členu)" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="L-10_^(př._L'Aqua,_stažený_tvar_fr._členu)" src="orig">AAXXX----1A----</AM>
+<AM lemma="L-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln95046-062-p2s1Bw9">
 <src.rf>manual</src.rf>
@@ -151,7 +154,10 @@
 <LM>w#w-ln95046-062-p2s1Bw10</LM>
 </w.rf>
 <form>Osservatore</form>
-<tag lemma="Osservatore_;R_,t" src="orig" selected="1">NNNXX-----A----</tag>
+<tag>
+<AM lemma="Osservatore_;R_,t" src="orig">NNNXX-----A----</AM>
+<AM lemma="Osservatore-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln95046-062-p2s1Bw11">
 <src.rf>manual</src.rf>
@@ -165,6 +171,7 @@
 <AM lemma="Romano_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Romano_;Y" src="auto">NNMS5-----A----</AM>
 <AM lemma="romana-1_,s_^(antikva)" src="auto">NNFS5-----A----</AM>
+<AM lemma="Romano-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-ln95046-062-p2s1Bw12">
@@ -197,7 +204,10 @@
 <LM>w#w-ln95046-062-p2s1Bw15</LM>
 </w.rf>
 <form>Monsignora</form>
-<tag lemma="monsignore_,t" src="auto" selected="1">NNMS2-----A----</tag>
+<tag>
+<AM lemma="monsignore_,t" src="auto">NNMS2-----A----</AM>
+<AM lemma="monsignore" src="manual" selected="1">NNMS2-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95046-062-p2s1Bw16">
 <src.rf>manual</src.rf>
@@ -253,7 +263,10 @@
 <LM>w#w-ln95046-062-p2s1Bw22</LM>
 </w.rf>
 <form>San</form>
-<tag lemma="San-2_;G" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="San-2_;G" src="orig">AAXXX----1A----</AM>
+<AM lemma="San-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln95046-062-p2s1Bw23">
 <src.rf>manual</src.rf>
@@ -261,7 +274,10 @@
 <LM>w#w-ln95046-062-p2s1Bw23</LM>
 </w.rf>
 <form>Cristóbal</form>
-<tag lemma="Cristóbal_;G" src="orig" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="Cristóbal_;G" src="orig">NNIS1-----A----</AM>
+<AM lemma="Cristóbal-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln95046-062-p2s1Bw24">
 <src.rf>manual</src.rf>
@@ -269,7 +285,10 @@
 <LM>w#w-ln95046-062-p2s1Bw24</LM>
 </w.rf>
 <form>de</form>
-<tag lemma="de_,t_^(z_franc._de,_zejm._ve_jménech)" src="orig" selected="1">RR--1----------</tag>
+<tag>
+<AM lemma="de_,t_^(z_franc._de,_zejm._ve_jménech)" src="orig">RR--1----------</AM>
+<AM lemma="de-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln95046-062-p2s1Bw25">
 <src.rf>manual</src.rf>
@@ -282,6 +301,7 @@
 <AM lemma="Las_:B_;G" src="auto">NNISX-----A---8</AM>
 <AM lemma="las_,t" src="auto">XX-------------</AM>
 <AM lemma="laso" src="auto" recommended="1">NNNP2-----A----</AM>
+<AM lemma="Las-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-ln95046-062-p2s1Bw26">
@@ -293,6 +313,7 @@
 <tag>
 <AM lemma="Casas-2_;G_,t" src="orig">NNXXX-----A----</AM>
 <AM lemma="Casas_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Casas-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-ln95046-062-p2s1Bw27">
@@ -505,7 +526,10 @@
 <LM>w#w-ln95046-062-p2s3w7</LM>
 </w.rf>
 <form>San</form>
-<tag lemma="San-2_;G" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="San-2_;G" src="orig">AAXXX----1A----</AM>
+<AM lemma="San-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln95046-062-p2s3w8">
 <src.rf>manual</src.rf>
@@ -805,7 +829,10 @@
 <LM>w#w-ln95046-062-p2s5w4</LM>
 </w.rf>
 <form>San</form>
-<tag lemma="San-2_;G" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="San-2_;G" src="orig">AAXXX----1A----</AM>
+<AM lemma="San-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln95046-062-p2s5w5">
 <src.rf>manual</src.rf>
@@ -1079,7 +1106,10 @@
 <LM>w#w-ln95046-062-p2s6w20</LM>
 </w.rf>
 <form>EZLN</form>
-<tag lemma="EZLN_:B_;K_,t_^(Zapatovská_fronta_pro_nár._osv.)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="EZLN_:B_;K_,t_^(Zapatovská_fronta_pro_nár._osv.)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="EZLN-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95046-062-p2s6w21">
 <src.rf>manual</src.rf>

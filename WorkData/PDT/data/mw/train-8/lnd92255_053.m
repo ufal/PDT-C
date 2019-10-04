@@ -19,7 +19,10 @@
 <LM>w#w-lnd92255-053-p1s1w1</LM>
 </w.rf>
 <form>SNS</form>
-<tag lemma="SNS-1_:B_;K_;p_^(Slov._nár._strana)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="SNS-1_:B_;K_;p_^(Slov._nár._strana)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="SNS-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd92255-053-p1s1w2">
 <src.rf>manual</src.rf>
@@ -151,7 +154,10 @@
 <LM>w#w-lnd92255-053-p2s2w9</LM>
 </w.rf>
 <form>SNS</form>
-<tag lemma="SNS-1_:B_;K_;p_^(Slov._nár._strana)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="SNS-1_:B_;K_;p_^(Slov._nár._strana)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="SNS-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd92255-053-p2s2w10">
 <src.rf>manual</src.rf>
@@ -547,7 +553,10 @@
 <LM>w#w-lnd92255-053-p2s4w1</LM>
 </w.rf>
 <form>A</form>
-<tag lemma="A-0_:B_;Y" src="orig" selected="1">NNMXX-----A---8</tag>
+<tag>
+<AM lemma="A-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
+<AM lemma="A-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd92255-053-p2s4w2">
 <src.rf>manual</src.rf>
@@ -703,7 +712,7 @@
 <form>třeba</form>
 <tag>
 <AM lemma="třeba-1" src="orig">ACNS------A----</AM>
-<AM lemma="třeba-2" src="auto" recommended="1">Db-------------</AM>
+<AM lemma="třeba-2" src="auto" recommended="1" selected="1">Db-------------</AM>
 <AM lemma="třeba-3" src="auto">TT-------------</AM>
 </tag>
 </m>
@@ -803,7 +812,10 @@
 <LM>w#w-lnd92255-053-p2s6w1</LM>
 </w.rf>
 <form>SNS</form>
-<tag lemma="SNS-1_:B_;K_;p_^(Slov._nár._strana)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="SNS-1_:B_;K_;p_^(Slov._nár._strana)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="SNS-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd92255-053-p2s6w2">
 <src.rf>manual</src.rf>
@@ -934,6 +946,7 @@
 <tag>
 <AM lemma="USA_;G" src="orig">NNIPX-----A----</AM>
 <AM lemma="USA_:B_;K_,t_^(United_States_of_America)" src="auto" recommended="1">NNIPX-----A---8</AM>
+<AM lemma="USA_:B_;K_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-lnd92255-053-p2s6w18">

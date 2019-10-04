@@ -95,7 +95,10 @@
 <LM>w#w-ln95041-106-p2s1Bw2</LM>
 </w.rf>
 <form>sci</form>
-<tag lemma="science-2_:B_,t_^(angl._vědecký)" src="orig" selected="1">AAXXX----1A---8</tag>
+<tag>
+<AM lemma="science-2_:B_,t_^(angl._vědecký)" src="orig">AAXXX----1A---8</AM>
+<AM lemma="sci-1_^(jen_ve_spojení_sci-fi)" src="manual" selected="1">A2--------A----</AM>
+</tag>
 </m>
 <m id="m-ln95041-106-p2s1Bw3">
 <src.rf>manual</src.rf>
@@ -115,6 +118,7 @@
 <AM lemma="fiction-1_:B_,t_^(angl._fantastický,_sci-fi)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="fi-1" src="auto">II-------------</AM>
 <AM lemma="fi-2_:B_,t_^(fiction,_angl._fantastický,_sci-fi)" src="auto" recommended="1">NNFXX-----A---8</AM>
+<AM lemma="fi-2_^(jen_ve_spojení_sci-fi)" src="manual" selected="1">NNFXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95041-106-p2s1Bw5">
@@ -357,7 +361,10 @@
 <LM>w#w-ln95041-106-p2s2w10</LM>
 </w.rf>
 <form>Art</form>
-<tag lemma="art" src="orig" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="art" src="orig">NNIS1-----A----</AM>
+<AM lemma="Art-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln95041-106-p2s2w11">
 <src.rf>manual</src.rf>
@@ -365,7 +372,10 @@
 <LM>w#w-ln95041-106-p2s2w11</LM>
 </w.rf>
 <form>Company</form>
-<tag lemma="Company_;K_,t_^(přev._v_názvech_cizích_firem)" src="orig" selected="1">NNFXX-----A----</tag>
+<tag>
+<AM lemma="Company_;K_,t_^(přev._v_názvech_cizích_firem)" src="orig">NNFXX-----A----</AM>
+<AM lemma="Company-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln95041-106-p2s2w12">
 <src.rf>manual</src.rf>
@@ -909,7 +919,10 @@
 <LM>w#w-ln95041-106-p2s6w1</LM>
 </w.rf>
 <form>Více</form>
-<tag lemma="hodně-2" src="auto" selected="1">Dg-------2A----</tag>
+<tag>
+<AM lemma="hodně-2" src="auto">Dg-------2A----</AM>
+<AM lemma="hodně-3" src="manual" selected="1">Dg-------2A----</AM>
+</tag>
 </m>
 <m id="m-ln95041-106-p2s6w2">
 <src.rf>manual</src.rf>

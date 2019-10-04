@@ -97,7 +97,7 @@
 <form>Repete</form>
 <tag>
 <AM lemma="repete_,h" src="orig">NNNXX-----A----</AM>
-<AM lemma="repete_,s" src="auto" recommended="1">Db-------------</AM>
+<AM lemma="repete_,s" src="auto" recommended="1" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m-ln95044-124-p2s1Bw5">
@@ -702,7 +702,10 @@
 <LM>w#w-ln95044-124-p2s3w31</LM>
 </w.rf>
 <form>Josephine</form>
-<tag lemma="Josephine_;Y" src="auto" selected="1">NNFSX-----A----</tag>
+<tag>
+<AM lemma="Josephine_;Y" src="auto">NNFSX-----A----</AM>
+<AM lemma="Josephine_;Y" src="manual" selected="1">NNFS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95044-124-p2s3w32">
 <src.rf>manual</src.rf>
@@ -728,7 +731,10 @@
 <LM>w#w-ln95044-124-p2s5w1</LM>
 </w.rf>
 <form>Více</form>
-<tag lemma="hodně-2" src="auto" selected="1">Dg-------2A----</tag>
+<tag>
+<AM lemma="hodně-2" src="auto">Dg-------2A----</AM>
+<AM lemma="hodně-3" src="manual" selected="1">Dg-------2A----</AM>
+</tag>
 </m>
 <m id="m-ln95044-124-p2s5w2">
 <src.rf>manual</src.rf>

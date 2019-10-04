@@ -53,7 +53,10 @@
 <LM>w#w-mf920924-058-p2s1w3</LM>
 </w.rf>
 <form>peo</form>
-<tag lemma="peo-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="peo-99_:B_;S" src="orig">NNXXX-----A---8</AM>
+<AM lemma="peo-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920924-058-p2s1w4">
 <src.rf>manual</src.rf>
@@ -143,7 +146,10 @@
 <LM>w#w-mf920924-058-p2s2w9</LM>
 </w.rf>
 <form>čs</form>
-<tag lemma="československý_:B" src="orig" selected="1">AAXXX----1A---8</tag>
+<tag>
+<AM lemma="československý_:B" src="orig">AAXXX----1A---8</AM>
+<AM lemma="československý" src="manual" selected="1">AAXXX----1A---8</AM>
+</tag>
 </m>
 <m id="m-mf920924-058-p2s2w10">
 <src.rf>manual</src.rf>
@@ -477,7 +483,7 @@
 <form>Záhřebu</form>
 <tag>
 <AM lemma="Záhřeb_;G" src="orig">NNIS2-----A----</AM>
-<AM lemma="Záhřeb_;G" src="auto" recommended="1">NNIS2-----A---1</AM>
+<AM lemma="Záhřeb_;G" src="auto" recommended="1" selected="1">NNIS2-----A---1</AM>
 <AM lemma="Záhřeb_;G" src="auto">NNIS3-----A----</AM>
 <AM lemma="Záhřeb_;G" src="auto">NNIS6-----A---1</AM>
 </tag>

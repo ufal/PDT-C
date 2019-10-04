@@ -27,7 +27,10 @@
 <LM>w#w-mf930702-033-p1s1w2</LM>
 </w.rf>
 <form>RMS</form>
-<tag lemma="RMS-1_:B_;K_;b_^(RM-Systém)" src="auto" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="RMS-1_:B_;K_;b_^(RM-Systém)" src="auto">NNIXX-----A---8</AM>
+<AM lemma="RMS-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-mf930702-033-p1s1w3">
 <src.rf>manual</src.rf>
@@ -59,7 +62,10 @@
 <LM>w#w-mf930702-033-p1s1w6</LM>
 </w.rf>
 <form>milionů</form>
-<tag lemma="milión`1000000" src="orig" selected="1">NNIP2-----A----</tag>
+<tag>
+<AM lemma="milión`1000000" src="orig">NNIP2-----A----</AM>
+<AM lemma="milion`1000000_,s_^(^DD**milión)" src="manual" selected="1">NNIP2-----A----</AM>
+</tag>
 </m>
 </s>
 <s id="m-mf930702-033-p2s1">
@@ -85,7 +91,10 @@
 <LM>w#w-mf930702-033-p2s1w3</LM>
 </w.rf>
 <form>šim</form>
-<tag lemma="šim-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="šim-99_:B_;S" src="orig">NNXXX-----A---8</AM>
+<AM lemma="šim-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930702-033-p2s1w4">
 <src.rf>manual</src.rf>
@@ -173,7 +182,10 @@
 <LM>w#w-mf930702-033-p2s1w14</LM>
 </w.rf>
 <form>milionů</form>
-<tag lemma="milión`1000000" src="orig" selected="1">NNIP2-----A----</tag>
+<tag>
+<AM lemma="milión`1000000" src="orig">NNIP2-----A----</AM>
+<AM lemma="milion`1000000_,s_^(^DD**milión)" src="manual" selected="1">NNIP2-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930702-033-p2s1w15">
 <src.rf>manual</src.rf>
@@ -261,7 +273,10 @@
 <LM>w#w-mf930702-033-p2s1w25</LM>
 </w.rf>
 <form>RM</form>
-<tag lemma="RM_:B_;K_;b_^(RM-systém)" src="auto" selected="1">AAXXX----1A---8</tag>
+<tag>
+<AM lemma="RM_:B_;K_;b_^(RM-systém)" src="auto">AAXXX----1A---8</AM>
+<AM lemma="RM-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-mf930702-033-p2s1w26">
 <src.rf>manual</src.rf>
@@ -523,7 +538,10 @@
 <LM>w#w-mf930702-033-p3s2w5</LM>
 </w.rf>
 <form>RMS</form>
-<tag lemma="RMS-1_:B_;K_;b_^(RM-Systém)" src="auto" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="RMS-1_:B_;K_;b_^(RM-Systém)" src="auto">NNIXX-----A---8</AM>
+<AM lemma="RMS-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-mf930702-033-p3s2w6">
 <src.rf>manual</src.rf>

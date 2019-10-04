@@ -23,6 +23,7 @@
 <AM lemma="nacionalismus" src="orig">NNIS1-----A----</AM>
 <AM lemma="nacionalizmus" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="nacionalizmus" src="auto">NNIS4-----A----</AM>
+<AM lemma="nacionalismus_,s_^(^DD**nacionalizmus)" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920902-135-p1s1w2">
@@ -105,7 +106,10 @@
 <LM>w#w-mf920902-135-p2s1Aw4</LM>
 </w.rf>
 <form>začne</form>
-<tag lemma="začít-1_^(začnout)" src="auto" selected="1">VB-S---3P-AA---</tag>
+<tag>
+<AM lemma="začít-1_^(začnout)" src="auto">VB-S---3P-AA---</AM>
+<AM lemma="začít-1_:W_^(začnout)" src="manual" selected="1">VB-S---3P-AA---</AM>
+</tag>
 </m>
 <m id="m-mf920902-135-p2s1Aw5">
 <src.rf>manual</src.rf>
@@ -235,7 +239,10 @@
 <LM>w#w-mf920902-135-p2s1Bw6</LM>
 </w.rf>
 <form>ČSTK</form>
-<tag lemma="ČSTK-1_:B_;K_^(Československá_tisková_kancelář)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ČSTK-1_:B_;K_^(Československá_tisková_kancelář)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČSTK-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-mf920902-135-p2s1Bw7">
 <src.rf>manual</src.rf>
@@ -336,6 +343,7 @@
 <AM lemma="separatizmus" src="auto" recommended="1">NNIS2-----A----</AM>
 <AM lemma="separatizmus" src="auto">NNIS3-----A----</AM>
 <AM lemma="separatizmus" src="auto">NNIS6-----A----</AM>
+<AM lemma="separatismus_,s_^(^DD**separatizmus)" src="manual" selected="1">NNIS2-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920902-135-p2s1Bw19">
@@ -1014,7 +1022,10 @@
 <LM>w#w-mf920902-135-p2s4w20</LM>
 </w.rf>
 <form>nejvíce</form>
-<tag lemma="hodně-2" src="auto" selected="1">Dg-------3A----</tag>
+<tag>
+<AM lemma="hodně-2" src="auto">Dg-------3A----</AM>
+<AM lemma="hodně-3" src="manual" selected="1">Dg-------3A----</AM>
+</tag>
 </m>
 <m id="m-mf920902-135-p2s4w21">
 <src.rf>manual</src.rf>
@@ -1114,7 +1125,7 @@
 <form>snad</form>
 <tag>
 <AM lemma="snad" src="orig">Db-------------</AM>
-<AM lemma="snad" src="auto" recommended="1">TT-------------</AM>
+<AM lemma="snad" src="auto" recommended="1" selected="1">TT-------------</AM>
 </tag>
 </m>
 <m id="m-mf920902-135-p2s5w5">
@@ -1441,7 +1452,7 @@
 <form>totiž</form>
 <tag>
 <AM lemma="totiž" src="orig">Db-------------</AM>
-<AM lemma="totiž-1" src="auto" recommended="1">J^-------------</AM>
+<AM lemma="totiž-1" src="auto" recommended="1" selected="1">J^-------------</AM>
 <AM lemma="totiž-2" src="auto">TT-------------</AM>
 </tag>
 </m>
@@ -1517,7 +1528,7 @@
 <form>nikoli</form>
 <tag>
 <AM lemma="nikoliv" src="orig">Db------------1</AM>
-<AM lemma="nikoli" src="auto" recommended="1">TT-------------</AM>
+<AM lemma="nikoli" src="auto" recommended="1" selected="1">TT-------------</AM>
 </tag>
 </m>
 <m id="m-mf920902-135-p2s7w13">
@@ -1980,7 +1991,7 @@
 <form>nejen</form>
 <tag>
 <AM lemma="nejen" src="orig">TT-------------</AM>
-<AM lemma="nejen" src="auto" recommended="1">Db-------------</AM>
+<AM lemma="nejen" src="auto" recommended="1" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m-mf920902-135-p2s9w5">
@@ -3779,7 +3790,10 @@
 <LM>w#w-mf920902-135-p2s20w19</LM>
 </w.rf>
 <form>tj</form>
-<tag lemma="tj-1_:B_^(to_je/jest)" src="orig" selected="1">J^------------8</tag>
+<tag>
+<AM lemma="tj-1_:B_^(to_je/jest)" src="orig">J^------------8</AM>
+<AM lemma="tj-1_:B_^(to_je/jest)" src="manual" selected="1">J^-------------</AM>
+</tag>
 </m>
 <m id="m-mf920902-135-p2s20w20">
 <src.rf>manual</src.rf>
@@ -4047,7 +4061,10 @@
 <LM>w#w-mf920902-135-p2s22w5</LM>
 </w.rf>
 <form>navzdory</form>
-<tag lemma="navzdory-2" src="auto" selected="1">Db-------------</tag>
+<tag>
+<AM lemma="navzdory-2" src="auto">Db-------------</AM>
+<AM lemma="navzdory-1" src="manual" selected="1">RR--3----------</AM>
+</tag>
 </m>
 <m id="m-mf920902-135-p2s22w6">
 <src.rf>manual</src.rf>
@@ -4319,7 +4336,7 @@
 <form>Nikoli</form>
 <tag>
 <AM lemma="nikoliv" src="orig">Db------------1</AM>
-<AM lemma="nikoli" src="auto" recommended="1">TT-------------</AM>
+<AM lemma="nikoli" src="auto" recommended="1" selected="1">TT-------------</AM>
 </tag>
 </m>
 <m id="m-mf920902-135-p2s25w2">
@@ -4374,6 +4391,7 @@
 <AM lemma="nacionalismus" src="orig">NNIS1-----A----</AM>
 <AM lemma="nacionalizmus" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="nacionalizmus" src="auto">NNIS4-----A----</AM>
+<AM lemma="nacionalismus_,s_^(^DD**nacionalizmus)" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920902-135-p2s26w2">
@@ -4440,7 +4458,10 @@
 <LM>w#w-mf920902-135-p2s27w1</LM>
 </w.rf>
 <form>Sotva</form>
-<tag lemma="sotva-1" src="auto" selected="1">Db-------------</tag>
+<tag>
+<AM lemma="sotva-1" src="auto">Db-------------</AM>
+<AM lemma="sotva-3" src="manual" selected="1">TT-------------</AM>
+</tag>
 </m>
 <m id="m-mf920902-135-p2s27w2">
 <src.rf>manual</src.rf>

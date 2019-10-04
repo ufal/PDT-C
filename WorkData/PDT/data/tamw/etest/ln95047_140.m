@@ -879,7 +879,10 @@
 <LM>w#w-ln95047-140-p3s2w6</LM>
 </w.rf>
 <form>roli</form>
-<tag lemma="role-2_^(herecká_úloha;_poslání)" src="orig" selected="1">NNFS4-----A----</tag>
+<tag>
+<AM lemma="role-2_^(herecká_úloha;_poslání)" src="orig">NNFS4-----A----</AM>
+<AM lemma="role-1_^(svitek_poslání_pozemek)" src="manual" selected="1">NNFS4-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95047-140-p3s2w7">
 <src.rf>manual</src.rf>
@@ -1503,7 +1506,10 @@
 <LM>w#w-ln95047-140-p5s2w11</LM>
 </w.rf>
 <form>ČSÚ</form>
-<tag lemma="ČSÚ_:B_;K_^(Český_statistický_úřad)" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="ČSÚ_:B_;K_^(Český_statistický_úřad)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="ČSÚ_:B_;K_^(Český_statistický_úřad)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95047-140-p5s2w12">
 <src.rf>manual</src.rf>
@@ -1713,7 +1719,10 @@
 <LM>w#w-ln95047-140-p6s1w16</LM>
 </w.rf>
 <form>nedávno</form>
-<tag lemma="nedávno-1" src="auto" selected="1">Db-------------</tag>
+<tag>
+<AM lemma="nedávno-1" src="auto">Db-------------</AM>
+<AM lemma="dávno-1" src="manual" selected="1">Dg-------1N----</AM>
+</tag>
 </m>
 <m id="m-ln95047-140-p6s1w17">
 <src.rf>manual</src.rf>
@@ -1851,7 +1860,10 @@
 <LM>w#w-ln95047-140-p7s1w5</LM>
 </w.rf>
 <form>VŠE</form>
-<tag lemma="VŠE_:B_;K_^(Vysoká_škola_ekonomická)" src="auto" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="VŠE_:B_;K_^(Vysoká_škola_ekonomická)" src="auto">NNFXX-----A---8</AM>
+<AM lemma="VŠE_:B_;K_^(Vysoká_škola_ekonomická)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95047-140-p7s1w6">
 <src.rf>manual</src.rf>
@@ -2151,7 +2163,11 @@
 <LM>w#w-ln95047-140-p7s3w21</LM>
 </w.rf>
 <form>managementu</form>
-<tag lemma="management_,t_^(vedení,_manažment;_angl.)" src="orig" selected="1">NNIS2-----A----</tag>
+<tag>
+<AM lemma="management_,t_^(vedení,_manažment;_angl.)" src="orig">NNIS2-----A----</AM>
+<AM lemma="management" src="manual">NNIS2-----A----</AM>
+<AM lemma="management_,s_^(^DD**manažment)" src="manual" selected="1">NNIS2-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95047-140-p7s3w22">
 <src.rf>manual</src.rf>
@@ -2528,6 +2544,7 @@
 <tag>
 <AM lemma="USA_;G" src="orig">NNIPX-----A----</AM>
 <AM lemma="USA_:B_;K_,t_^(United_States_of_America)" src="auto" recommended="1">NNIPX-----A---8</AM>
+<AM lemma="USA_:B_;K_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95047-140-p7s6w22">

@@ -202,7 +202,7 @@
 <AM lemma="šťastný" src="auto">AAIP4----1N---6</AM>
 <AM lemma="šťastný" src="auto">AAIP5----1N---6</AM>
 <AM lemma="šťastný" src="auto">AAIS1----1N----</AM>
-<AM lemma="šťastný" src="auto" recommended="1">AAIS4----1N----</AM>
+<AM lemma="šťastný" src="auto" recommended="1" selected="1">AAIS4----1N----</AM>
 <AM lemma="šťastný" src="auto">AAIS5----1N----</AM>
 <AM lemma="šťastný" src="auto">AAMP1----1N---6</AM>
 <AM lemma="šťastný" src="auto">AAMP4----1N---6</AM>
@@ -305,7 +305,10 @@
 <LM>w#w-lnd92252-093-p2s2w9</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-2" src="auto" selected="1">Dg-------2A----</tag>
+<tag>
+<AM lemma="hodně-2" src="auto">Dg-------2A----</AM>
+<AM lemma="hodně-3" src="manual" selected="1">Dg-------2A----</AM>
+</tag>
 </m>
 <m id="m-lnd92252-093-p2s2w10">
 <src.rf>manual</src.rf>
@@ -557,7 +560,10 @@
 <LM>w#w-lnd92252-093-p2s4w7</LM>
 </w.rf>
 <form>B</form>
-<tag lemma="b-3_^(označení_pomocí_písmene)" src="orig" selected="1">NNNXX-----A----</tag>
+<tag>
+<AM lemma="b-3_^(označení_pomocí_písmene)" src="orig">NNNXX-----A----</AM>
+<AM lemma="B-33_^(označení_pomocí_písmene)" src="manual" selected="1">NNNXX-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92252-093-p2s4w8">
 <src.rf>manual</src.rf>
@@ -1144,7 +1150,10 @@
 <LM>w#w-lnd92252-093-p3s4w5</LM>
 </w.rf>
 <form>ŽK</form>
-<tag lemma="ŽK-1_:B_^(sport.:_žlutá_karta)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ŽK-1_:B_^(sport.:_žlutá_karta)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ŽK-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd92252-093-p3s4w6">
 <src.rf>manual</src.rf>
@@ -1489,7 +1498,7 @@
 </w.rf>
 <form>Bedlivý</form>
 <tag>
-<AM lemma="Bedlivý_;S" src="orig">NNMS1-----A----</AM>
+<AM lemma="Bedlivý_;S" src="orig" selected="1">NNMS1-----A----</AM>
 <AM lemma="bedlivý" src="auto">AAFP1----1A---6</AM>
 <AM lemma="bedlivý" src="auto">AAFP4----1A---6</AM>
 <AM lemma="bedlivý" src="auto">AAFP5----1A---6</AM>

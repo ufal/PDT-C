@@ -311,7 +311,10 @@
 <LM>w#w-cmpr9407-038-p3s2w1</LM>
 </w.rf>
 <form>Nejvíce</form>
-<tag lemma="hodně-2" src="auto" selected="1">Dg-------3A----</tag>
+<tag>
+<AM lemma="hodně-2" src="auto">Dg-------3A----</AM>
+<AM lemma="hodně-3" src="manual" selected="1">Dg-------3A----</AM>
+</tag>
 </m>
 <m id="m-cmpr9407-038-p3s2w2">
 <src.rf>manual</src.rf>
@@ -501,7 +504,7 @@
 <form>Ačkoliv</form>
 <tag>
 <AM lemma="ačkoliv" src="orig">J,-------------</AM>
-<AM lemma="ačkoli" src="auto" recommended="1">J,------------1</AM>
+<AM lemma="ačkoli" src="auto" recommended="1" selected="1">J,------------1</AM>
 </tag>
 </m>
 <m id="m-cmpr9407-038-p4s1w2">
@@ -632,7 +635,7 @@
 <form>přesto</form>
 <tag>
 <AM lemma="přesto" src="orig">Dg-------1A----</AM>
-<AM lemma="přesto-1" src="auto" recommended="1">Db-------------</AM>
+<AM lemma="přesto-1" src="auto" recommended="1" selected="1">Db-------------</AM>
 <AM lemma="přesto-2" src="auto">J^-------------</AM>
 </tag>
 </m>
@@ -1681,7 +1684,10 @@
 <LM>w#w-cmpr9407-038-p8s2w2</LM>
 </w.rf>
 <form>causy</form>
-<tag lemma="kauza_,x" src="orig" selected="1">NNFP1-----A----</tag>
+<tag>
+<AM lemma="kauza_,x" src="orig">NNFP1-----A----</AM>
+<AM lemma="causa_,s_^(^DD**kauza)" src="manual" selected="1">NNFP1-----A----</AM>
+</tag>
 </m>
 <m id="m-cmpr9407-038-p8s2w3">
 <src.rf>manual</src.rf>
@@ -1835,7 +1841,10 @@
 <LM>w#w-cmpr9407-038-p9s1w6</LM>
 </w.rf>
 <form>ať</form>
-<tag lemma="ať-2" src="auto" selected="1">TT-------------</tag>
+<tag>
+<AM lemma="ať-2" src="auto">TT-------------</AM>
+<AM lemma="ať-1" src="manual" selected="1">J,-------------</AM>
+</tag>
 </m>
 <m id="m-cmpr9407-038-p9s1w7">
 <src.rf>manual</src.rf>
@@ -2005,7 +2014,10 @@
 <LM>w#w-cmpr9407-038-p9s2w5</LM>
 </w.rf>
 <form>zkrácení</form>
-<tag lemma="zkrácení_,a_^(*2t)" src="auto" selected="1">NNNS4-----A----</tag>
+<tag>
+<AM lemma="zkrácení_,a_^(*2t)" src="auto">NNNS4-----A----</AM>
+<AM lemma="zkrácení_^(*4tit)" src="manual" selected="1">NNNS4-----A----</AM>
+</tag>
 </m>
 <m id="m-cmpr9407-038-p9s2w6">
 <src.rf>manual</src.rf>
@@ -2736,7 +2748,10 @@
 <LM>w#w-cmpr9407-038-p11s3w5</LM>
 </w.rf>
 <form>zkrácení</form>
-<tag lemma="zkrácení_,a_^(*2t)" src="auto" selected="1">NNNS2-----A----</tag>
+<tag>
+<AM lemma="zkrácení_,a_^(*2t)" src="auto">NNNS2-----A----</AM>
+<AM lemma="zkrácení_^(*4tit)" src="manual" selected="1">NNNS2-----A----</AM>
+</tag>
 </m>
 <m id="m-cmpr9407-038-p11s3w6">
 <src.rf>manual</src.rf>

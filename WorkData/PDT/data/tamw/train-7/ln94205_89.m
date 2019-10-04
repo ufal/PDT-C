@@ -83,7 +83,10 @@
 <LM>w#w-ln94205-89-p1s1w9</LM>
 </w.rf>
 <form>Schleswig</form>
-<tag lemma="Schleswig_;G" src="orig" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="Schleswig_;G" src="orig">NNIS1-----A----</AM>
+<AM lemma="Schleswig-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94205-89-p1s1w10">
 <src.rf>manual</src.rf>
@@ -99,7 +102,10 @@
 <LM>w#w-ln94205-89-p1s1w11</LM>
 </w.rf>
 <form>Holstein</form>
-<tag lemma="Holstein_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Holstein_;S" src="orig">NNMS1-----A----</AM>
+<AM lemma="Holstein-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94205-89-p1s1w12">
 <src.rf>manual</src.rf>
@@ -123,7 +129,10 @@
 <LM>w#w-ln94205-89-p1s1w14</LM>
 </w.rf>
 <form>Westerplatte</form>
-<tag lemma="Westerplatte_;m" src="orig" selected="1">NNXXX-----A----</tag>
+<tag>
+<AM lemma="Westerplatte_;m" src="orig">NNXXX-----A----</AM>
+<AM lemma="Westerplatte-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94205-89-p1s1w15">
 <src.rf>manual</src.rf>

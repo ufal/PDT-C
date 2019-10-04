@@ -27,7 +27,10 @@
 <LM>w#w-ln94200-138-p1s1w2</LM>
 </w.rf>
 <form>anachronismus</form>
-<tag lemma="anachronismus" src="orig" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="anachronismus" src="orig">NNIS1-----A----</AM>
+<AM lemma="anachronismus_,s_^(^DD**anachronizmus)" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94200-138-p1s1w3">
 <src.rf>manual</src.rf>
@@ -43,7 +46,10 @@
 <LM>w#w-ln94200-138-p1s1w4</LM>
 </w.rf>
 <form>LN</form>
-<tag lemma="LN-1_:B_;R_^(Lidové_noviny,_deník)" src="orig" selected="1">NNFPX-----A---8</tag>
+<tag>
+<AM lemma="LN-1_:B_;R_^(Lidové_noviny,_deník)" src="orig">NNFPX-----A---8</AM>
+<AM lemma="LN-1_:B_;K_;R_^(Lidové_noviny)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94200-138-p1s1w5">
 <src.rf>manual</src.rf>
@@ -126,7 +132,7 @@
 </w.rf>
 <form>Poledne</form>
 <tag>
-<AM lemma="Poledne_;S" src="orig">NNMS1-----A----</AM>
+<AM lemma="Poledne_;S" src="orig" selected="1">NNMS1-----A----</AM>
 <AM lemma="poledne" src="auto">NNNP1-----A----</AM>
 <AM lemma="poledne" src="auto">NNNP4-----A----</AM>
 <AM lemma="poledne" src="auto">NNNP5-----A----</AM>
@@ -416,7 +422,10 @@
 <LM>w#w-ln94200-138-p2s2w3</LM>
 </w.rf>
 <form>li</form>
-<tag lemma="li-1" src="auto" selected="1">TT-------------</tag>
+<tag>
+<AM lemma="li-1" src="auto">TT-------------</AM>
+<AM lemma="li-2" src="manual" selected="1">J,-------------</AM>
+</tag>
 </m>
 <m id="m-ln94200-138-p2s2w4">
 <src.rf>manual</src.rf>

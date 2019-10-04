@@ -87,7 +87,10 @@
 <LM>w#w-mf930701-102-p3s1w1</LM>
 </w.rf>
 <form>str</form>
-<tag lemma="strana-4_:B" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="strana-4_:B" src="orig">NNFXX-----A---8</AM>
+<AM lemma="strana" src="manual" selected="1">NNFXX-----A---9</AM>
+</tag>
 </m>
 <m id="m-mf930701-102-p3s1w2">
 <src.rf>manual</src.rf>
@@ -155,7 +158,10 @@
 <LM>w#w-mf930701-102-p5s1w1</LM>
 </w.rf>
 <form>str</form>
-<tag lemma="strana-4_:B" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="strana-4_:B" src="orig">NNFXX-----A---8</AM>
+<AM lemma="strana" src="manual" selected="1">NNFXX-----A---9</AM>
+</tag>
 </m>
 <m id="m-mf930701-102-p5s1w2">
 <src.rf>manual</src.rf>
@@ -265,7 +271,10 @@
 <LM>w#w-mf930701-102-p8s1w1</LM>
 </w.rf>
 <form>str</form>
-<tag lemma="strana-4_:B" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="strana-4_:B" src="orig">NNFXX-----A---8</AM>
+<AM lemma="strana" src="manual" selected="1">NNFXX-----A---9</AM>
+</tag>
 </m>
 <m id="m-mf930701-102-p8s1w2">
 <src.rf>manual</src.rf>
@@ -351,7 +360,10 @@
 <LM>w#w-mf930701-102-p11s1w1</LM>
 </w.rf>
 <form>str</form>
-<tag lemma="strana-4_:B" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="strana-4_:B" src="orig">NNFXX-----A---8</AM>
+<AM lemma="strana" src="manual" selected="1">NNFXX-----A---9</AM>
+</tag>
 </m>
 <m id="m-mf930701-102-p11s1w2">
 <src.rf>manual</src.rf>

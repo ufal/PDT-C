@@ -61,7 +61,10 @@
 <LM>w#w-ln94206-104-p1s2w2</LM>
 </w.rf>
 <form>LN</form>
-<tag lemma="LN-1_:B_;R_^(Lidové_noviny,_deník)" src="orig" selected="1">NNFPX-----A---8</tag>
+<tag>
+<AM lemma="LN-1_:B_;R_^(Lidové_noviny,_deník)" src="orig">NNFPX-----A---8</AM>
+<AM lemma="LN-1_:B_;K_;R_^(Lidové_noviny)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94206-104-p1s2w3">
 <src.rf>manual</src.rf>
@@ -135,7 +138,10 @@
 <LM>w#w-ln94206-104-p2s1w3</LM>
 </w.rf>
 <form>r</form>
-<tag lemma="rok_:B" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="rok_:B" src="orig">NNIXX-----A---8</AM>
+<AM lemma="rok" src="manual" selected="1">NNIXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln94206-104-p2s1w4">
 <src.rf>manual</src.rf>
@@ -929,7 +935,10 @@
 <LM>w#w-ln94206-104-p3s1w9</LM>
 </w.rf>
 <form>stává</form>
-<tag lemma="stávat-2_:T_^(něco_se_přihodilo)_(*5t-2)" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag>
+<AM lemma="stávat-2_:T_^(něco_se_přihodilo)_(*5t-2)" src="orig">VB-S---3P-AA---</AM>
+<AM lemma="stávat-2_:T_^(stanu_staneš)_(*5t-2)" src="manual" selected="1">VB-S---3P-AA---</AM>
+</tag>
 </m>
 <m id="m-ln94206-104-p3s1w10">
 <src.rf>manual</src.rf>
@@ -1335,6 +1344,7 @@
 <AM lemma="kapitalismus" src="auto">NNIS2-----A----</AM>
 <AM lemma="kapitalismus" src="auto">NNIS3-----A----</AM>
 <AM lemma="kapitalismus" src="auto">NNIS6-----A----</AM>
+<AM lemma="kapitalismus_,s_^(^DD**kapitalizmus)" src="manual" selected="1">NNIS3-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94206-104-p3s4w22">

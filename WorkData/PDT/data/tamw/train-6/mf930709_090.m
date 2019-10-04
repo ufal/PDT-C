@@ -37,7 +37,10 @@
 <LM>w#w-mf930709-090-p2s1w2</LM>
 </w.rf>
 <form>Juniors</form>
-<tag lemma="Juniors_;K" src="orig" selected="1">NNMPX-----A----</tag>
+<tag>
+<AM lemma="Juniors_;K" src="orig">NNMPX-----A----</AM>
+<AM lemma="Juniors-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-mf930709-090-p2s1w3">
 <src.rf>manual</src.rf>
@@ -56,6 +59,7 @@
 <tag>
 <AM lemma="Sao_;G" src="orig">AAXXX----1A----</AM>
 <AM lemma="Sao_;G_^(Sao_Paulo)" src="auto" recommended="1">NNNSX-----A----</AM>
+<AM lemma="Sao-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-mf930709-090-p2s1w5">
@@ -64,7 +68,10 @@
 <LM>w#w-mf930709-090-p2s1w5</LM>
 </w.rf>
 <form>Paulo</form>
-<tag lemma="Paulo_;G" src="orig" selected="1">NNNS1-----A----</tag>
+<tag>
+<AM lemma="Paulo_;G" src="orig">NNNS1-----A----</AM>
+<AM lemma="Paulo-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-mf930709-090-p2s1w6">
 <src.rf>manual</src.rf>
@@ -157,6 +164,7 @@
 <tag>
 <AM lemma="Buenos_;G_^(Buenos_Aires)" src="orig">AAXXX----1A----</AM>
 <AM lemma="Buenos_;G" src="auto" recommended="1">NNNSX-----A----</AM>
+<AM lemma="Buenos-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-mf930709-090-p2s2w8">
@@ -165,7 +173,10 @@
 <LM>w#w-mf930709-090-p2s2w8</LM>
 </w.rf>
 <form>Aires</form>
-<tag lemma="Aires_;G_^(Buenos_Aires)" src="orig" selected="1">NNNXX-----A----</tag>
+<tag>
+<AM lemma="Aires_;G_^(Buenos_Aires)" src="orig">NNNXX-----A----</AM>
+<AM lemma="Aires-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-mf930709-090-p2s2w9">
 <src.rf>manual</src.rf>
@@ -226,6 +237,7 @@
 <tag>
 <AM lemma="Sao_;G" src="orig">AAXXX----1A----</AM>
 <AM lemma="Sao_;G_^(Sao_Paulo)" src="auto" recommended="1">NNNSX-----A----</AM>
+<AM lemma="Sao-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-mf930709-090-p2s3w7">
@@ -494,7 +506,10 @@
 <LM>w#w-mf930709-090-p2s5w16</LM>
 </w.rf>
 <form>Masters</form>
-<tag lemma="Masters_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Masters_;S" src="orig">NNMS1-----A----</AM>
+<AM lemma="Masters-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-mf930709-090-p2s5w17">
 <src.rf>manual</src.rf>
@@ -518,7 +533,11 @@
 <LM>w#w-mf930709-090-p2s5w19</LM>
 </w.rf>
 <form>CONMEBOL</form>
-<tag lemma="CONMEBOL-1_:B_;K_,t_^(Confederatión_Sudamericana_de_Fútbol)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="CONMEBOL-1_:B_;K_,t_^(Confederatión_Sudamericana_de_Fútbol)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="CONMEBOL-77" src="manual">F%-------------</AM>
+<AM lemma="CONMEBOL-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930709-090-p2s5w20">
 <src.rf>manual</src.rf>

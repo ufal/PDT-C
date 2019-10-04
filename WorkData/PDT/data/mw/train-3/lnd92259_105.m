@@ -291,7 +291,10 @@
 <LM>w#w-lnd92259-105-p3s3w10</LM>
 </w.rf>
 <form>Vytautasovi</form>
-<tag lemma="Vytautas_;S" src="orig" selected="1">NNMS3-----A---1</tag>
+<tag>
+<AM lemma="Vytautas_;S" src="orig">NNMS3-----A---1</AM>
+<AM lemma="Vytautas_;S_;Y" src="manual" selected="1">NNMS3-----A---1</AM>
+</tag>
 </m>
 <m id="m-lnd92259-105-p3s3w11">
 <src.rf>manual</src.rf>

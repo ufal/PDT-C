@@ -127,7 +127,7 @@
 <form>Mlýně</form>
 <tag>
 <AM lemma="Mlýn_;G" src="orig">NNIS6-----A----</AM>
-<AM lemma="mlýn" src="auto" recommended="1">NNIS6-----A----</AM>
+<AM lemma="mlýn" src="auto" recommended="1" selected="1">NNIS6-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94209-41-p2s1w14">
@@ -152,7 +152,10 @@
 <LM>w#w-ln94209-41-p2s1w16</LM>
 </w.rf>
 <form>M</form>
-<tag lemma="M-0_:B_;Y" src="orig" selected="1">NNMXX-----A---8</tag>
+<tag>
+<AM lemma="M-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
+<AM lemma="M-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94209-41-p2s1w17">
 <src.rf>manual</src.rf>
@@ -168,7 +171,10 @@
 <LM>w#w-ln94209-41-p2s1w18</LM>
 </w.rf>
 <form>K</form>
-<tag lemma="K-9_:B_;S" src="orig" selected="1">NNMXX-----A---8</tag>
+<tag>
+<AM lemma="K-9_:B_;S" src="orig">NNMXX-----A---8</AM>
+<AM lemma="K-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94209-41-p2s1w19">
 <src.rf>manual</src.rf>
@@ -656,7 +662,10 @@
 <LM>w#w-ln94209-41-p3s2w6</LM>
 </w.rf>
 <form>K</form>
-<tag lemma="K-0_:B_;Y" src="orig" selected="1">NNMXX-----A---8</tag>
+<tag>
+<AM lemma="K-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
+<AM lemma="K-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94209-41-p3s2w7">
 <src.rf>manual</src.rf>
@@ -699,6 +708,8 @@
 <tag>
 <AM lemma="Kč" src="orig">NNFXX-----A----</AM>
 <AM lemma="Kč_:B" src="auto" recommended="1">NNFXX-----A---8</AM>
+<AM lemma="Kč-88_:B" src="manual">NNXXX-----A----</AM>
+<AM lemma="Kč_:B" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94209-41-p3s2w12">
@@ -808,7 +819,7 @@
 </w.rf>
 <form>Trubský</form>
 <tag>
-<AM lemma="Trubský_;G" src="orig">NNIS1-----A----</AM>
+<AM lemma="Trubský_;G" src="orig" selected="1">NNIS1-----A----</AM>
 <AM lemma="Trubská_;G_^(obec)" src="auto" recommended="1">NNFP1-----A---6</AM>
 <AM lemma="Trubská_;G_^(obec)" src="auto">NNFP4-----A---6</AM>
 <AM lemma="Trubská_;G_^(obec)" src="auto">NNFP5-----A---6</AM>
@@ -816,6 +827,11 @@
 <AM lemma="Trubská_;G_^(obec)" src="auto">NNFS3-----A---6</AM>
 <AM lemma="Trubská_;G_^(obec)" src="auto">NNFS6-----A---6</AM>
 </tag>
+<comment>
+<LM type="Other">
+<text>ponechána původní "červená" analýza</text>
+</LM>
+</comment>
 </m>
 <m id="m-ln94209-41-p3s3Bw10">
 <src.rf>manual</src.rf>
@@ -841,7 +857,7 @@
 <form>Klášter</form>
 <tag>
 <AM lemma="Klášter_;G" src="orig">NNIS1-----A----</AM>
-<AM lemma="klášter" src="auto" recommended="1">NNIS1-----A----</AM>
+<AM lemma="klášter" src="auto" recommended="1" selected="1">NNIS1-----A----</AM>
 <AM lemma="klášter" src="auto">NNIS4-----A----</AM>
 </tag>
 </m>
@@ -895,7 +911,7 @@
 <form>zasáhla</form>
 <tag>
 <AM lemma="zasáhnout" src="orig">VpQW---XR-AA---</AM>
-<AM lemma="zasáhnout_:W" src="auto" recommended="1">VpQW---XR-AA--1</AM>
+<AM lemma="zasáhnout_:W" src="auto" recommended="1" selected="1">VpQW---XR-AA--1</AM>
 </tag>
 </m>
 <m id="m-ln94209-41-p3s4w4">

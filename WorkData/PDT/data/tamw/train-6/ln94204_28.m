@@ -69,7 +69,10 @@
 <LM>w#w-ln94204-28-p2s1Aw3</LM>
 </w.rf>
 <form>De</form>
-<tag lemma="de_,t_^(z_franc._de,_zejm._ve_jménech)" src="orig" selected="1">RR--1----------</tag>
+<tag>
+<AM lemma="de_,t_^(z_franc._de,_zejm._ve_jménech)" src="orig">RR--1----------</AM>
+<AM lemma="De-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94204-28-p2s1Aw4">
 <src.rf>manual</src.rf>
@@ -77,7 +80,10 @@
 <LM>w#w-ln94204-28-p2s1Aw4</LM>
 </w.rf>
 <form>Beers</form>
-<tag lemma="Beers_;K_,t" src="orig" selected="1">NNIXX-----A----</tag>
+<tag>
+<AM lemma="Beers_;K_,t" src="orig">NNIXX-----A----</AM>
+<AM lemma="Beers-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94204-28-p2s1Aw5">
 <src.rf>manual</src.rf>
@@ -101,7 +107,10 @@
 <LM>w#w-ln94204-28-p2s1Aw7</LM>
 </w.rf>
 <form>milionů</form>
-<tag lemma="milión`1000000" src="orig" selected="1">NNIP2-----A----</tag>
+<tag>
+<AM lemma="milión`1000000" src="orig">NNIP2-----A----</AM>
+<AM lemma="milion`1000000_,s_^(^DD**milión)" src="manual" selected="1">NNIP2-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94204-28-p2s1Aw8">
 <src.rf>manual</src.rf>
@@ -109,7 +118,10 @@
 <LM>w#w-ln94204-28-p2s1Aw8</LM>
 </w.rf>
 <form>USD</form>
-<tag lemma="USD_:B_;b_^(U.S._dolar)" src="auto" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="USD_:B_;b_^(U.S._dolar)" src="auto">NNIXX-----A---8</AM>
+<AM lemma="USD_:B_^(U.S._dolar)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94204-28-p2s1Aw9">
 <src.rf>manual</src.rf>
@@ -209,7 +221,10 @@
 <LM>w#w-ln94204-28-p2s1Cw6</LM>
 </w.rf>
 <form>tj</form>
-<tag lemma="tj-1_:B_^(to_je/jest)" src="orig" selected="1">J^------------8</tag>
+<tag>
+<AM lemma="tj-1_:B_^(to_je/jest)" src="orig">J^------------8</AM>
+<AM lemma="tj-1_:B_^(to_je/jest)" src="manual" selected="1">J^-------------</AM>
+</tag>
 </m>
 <m id="m-ln94204-28-p2s1Cw7">
 <src.rf>manual</src.rf>
@@ -298,7 +313,10 @@
 <LM>w#w-ln94204-28-p2s1Cw17</LM>
 </w.rf>
 <form>De</form>
-<tag lemma="de_,t_^(z_franc._de,_zejm._ve_jménech)" src="orig" selected="1">RR--1----------</tag>
+<tag>
+<AM lemma="de_,t_^(z_franc._de,_zejm._ve_jménech)" src="orig">RR--1----------</AM>
+<AM lemma="De-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94204-28-p2s1Cw18">
 <src.rf>manual</src.rf>
@@ -306,7 +324,10 @@
 <LM>w#w-ln94204-28-p2s1Cw18</LM>
 </w.rf>
 <form>Beers</form>
-<tag lemma="Beers_;K_,t" src="orig" selected="1">NNIXX-----A----</tag>
+<tag>
+<AM lemma="Beers_;K_,t" src="orig">NNIXX-----A----</AM>
+<AM lemma="Beers-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94204-28-p2s1Cw19">
 <src.rf>manual</src.rf>
@@ -646,7 +667,10 @@
 <LM>w#w-ln94204-28-p3s1w1</LM>
 </w.rf>
 <form>Debmar</form>
-<tag lemma="Debmar_;m_,t" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="Debmar_;m_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="Debmar-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94204-28-p3s1w2">
 <src.rf>manual</src.rf>
@@ -658,6 +682,7 @@
 <AM lemma="Atlantic_;m_,t" src="orig">NNIS1-----A----</AM>
 <AM lemma="Atlantik_;G_,t_,x" src="auto" recommended="1">NNIS1-----A---1</AM>
 <AM lemma="Atlantik_;G_,t_,x" src="auto">NNIS4-----A---1</AM>
+<AM lemma="Atlantic-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-ln94204-28-p3s1w3">
@@ -1096,7 +1121,10 @@
 <LM>w#w-ln94204-28-p4s1w1</LM>
 </w.rf>
 <form>De</form>
-<tag lemma="de_,t_^(z_franc._de,_zejm._ve_jménech)" src="orig" selected="1">RR--1----------</tag>
+<tag>
+<AM lemma="de_,t_^(z_franc._de,_zejm._ve_jménech)" src="orig">RR--1----------</AM>
+<AM lemma="De-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94204-28-p4s1w2">
 <src.rf>manual</src.rf>
@@ -1104,7 +1132,10 @@
 <LM>w#w-ln94204-28-p4s1w2</LM>
 </w.rf>
 <form>Beers</form>
-<tag lemma="Beers_;K_,t" src="orig" selected="1">NNIXX-----A----</tag>
+<tag>
+<AM lemma="Beers_;K_,t" src="orig">NNIXX-----A----</AM>
+<AM lemma="Beers-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94204-28-p4s1w3">
 <src.rf>manual</src.rf>
@@ -1118,6 +1149,7 @@
 <AM lemma="Marinos_;G" src="auto">NNMS5-----A----</AM>
 <AM lemma="Marine-1_;K_,t" src="auto">NNISX-----A----</AM>
 <AM lemma="Marine-2_;Y" src="auto" recommended="1">NNFSX-----A----</AM>
+<AM lemma="Marine-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-ln94204-28-p4s1w4">
@@ -1304,7 +1336,10 @@
 <LM>w#w-ln94204-28-p4s2w8</LM>
 </w.rf>
 <form>milionů</form>
-<tag lemma="milión`1000000" src="orig" selected="1">NNIP2-----A----</tag>
+<tag>
+<AM lemma="milión`1000000" src="orig">NNIP2-----A----</AM>
+<AM lemma="milion`1000000_,s_^(^DD**milión)" src="manual" selected="1">NNIP2-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94204-28-p4s2w9">
 <src.rf>manual</src.rf>
@@ -1538,7 +1573,10 @@
 <LM>w#w-ln94204-28-p5s1w5</LM>
 </w.rf>
 <form>De</form>
-<tag lemma="de_,t_^(z_franc._de,_zejm._ve_jménech)" src="orig" selected="1">RR--1----------</tag>
+<tag>
+<AM lemma="de_,t_^(z_franc._de,_zejm._ve_jménech)" src="orig">RR--1----------</AM>
+<AM lemma="De-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94204-28-p5s1w6">
 <src.rf>manual</src.rf>
@@ -1546,7 +1584,10 @@
 <LM>w#w-ln94204-28-p5s1w6</LM>
 </w.rf>
 <form>Beers</form>
-<tag lemma="Beers_;K_,t" src="orig" selected="1">NNIXX-----A----</tag>
+<tag>
+<AM lemma="Beers_;K_,t" src="orig">NNIXX-----A----</AM>
+<AM lemma="Beers-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94204-28-p5s1w7">
 <src.rf>manual</src.rf>
@@ -1856,7 +1897,10 @@
 <LM>w#w-ln94204-28-p5s4w1</LM>
 </w.rf>
 <form>De</form>
-<tag lemma="de_,t_^(z_franc._de,_zejm._ve_jménech)" src="orig" selected="1">RR--1----------</tag>
+<tag>
+<AM lemma="de_,t_^(z_franc._de,_zejm._ve_jménech)" src="orig">RR--1----------</AM>
+<AM lemma="De-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94204-28-p5s4w2">
 <src.rf>manual</src.rf>
@@ -1864,7 +1908,10 @@
 <LM>w#w-ln94204-28-p5s4w2</LM>
 </w.rf>
 <form>Beers</form>
-<tag lemma="Beers_;K_,t" src="orig" selected="1">NNIXX-----A----</tag>
+<tag>
+<AM lemma="Beers_;K_,t" src="orig">NNIXX-----A----</AM>
+<AM lemma="Beers-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94204-28-p5s4w3">
 <src.rf>manual</src.rf>
@@ -1878,6 +1925,7 @@
 <AM lemma="Marinos_;G" src="auto">NNMS5-----A----</AM>
 <AM lemma="Marine-1_;K_,t" src="auto">NNISX-----A----</AM>
 <AM lemma="Marine-2_;Y" src="auto" recommended="1">NNFSX-----A----</AM>
+<AM lemma="Marine-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-ln94204-28-p5s4w4">
@@ -1897,6 +1945,8 @@
 <tag>
 <AM lemma="DBM-2_:B_;K_,t_^(De_Beers_Marine)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="DBM-1_:B_;K_^(Divadlo_bratří_Mrštíků)" src="auto" recommended="1">NNNXX-----A---8</AM>
+<AM lemma="DBM-2_:B" src="manual">NNXXX-----A---8</AM>
+<AM lemma="DBM-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94204-28-p5s4w6">
@@ -1929,7 +1979,10 @@
 <LM>w#w-ln94204-28-p5s4w9</LM>
 </w.rf>
 <form>mil</form>
-<tag lemma="milión`1000000_:B" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="milión`1000000_:B" src="orig">NNIXX-----A---8</AM>
+<AM lemma="milión`1000000" src="manual" selected="1">NNIXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln94204-28-p5s4w10">
 <src.rf>manual</src.rf>
@@ -1945,7 +1998,10 @@
 <LM>w#w-ln94204-28-p5s4w11</LM>
 </w.rf>
 <form>USD</form>
-<tag lemma="USD_:B_;b_^(U.S._dolar)" src="auto" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="USD_:B_;b_^(U.S._dolar)" src="auto">NNIXX-----A---8</AM>
+<AM lemma="USD_:B_;^(U.S._dolar)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94204-28-p5s4w12">
 <src.rf>manual</src.rf>
@@ -2019,7 +2075,10 @@
 <LM>w#w-ln94204-28-p5s6w1</LM>
 </w.rf>
 <form>Více</form>
-<tag lemma="hodně-2" src="auto" selected="1">Dg-------2A----</tag>
+<tag>
+<AM lemma="hodně-2" src="auto">Dg-------2A----</AM>
+<AM lemma="hodně-3" src="manual" selected="1">Dg-------2A----</AM>
+</tag>
 </m>
 <m id="m-ln94204-28-p5s6w2">
 <src.rf>manual</src.rf>
@@ -2043,7 +2102,10 @@
 <LM>w#w-ln94204-28-p5s6w4</LM>
 </w.rf>
 <form>milionů</form>
-<tag lemma="milión`1000000" src="orig" selected="1">NNIP2-----A----</tag>
+<tag>
+<AM lemma="milión`1000000" src="orig">NNIP2-----A----</AM>
+<AM lemma="milion`1000000_,s_^(^DD**milión)" src="manual" selected="1">NNIP2-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94204-28-p5s6w5">
 <src.rf>manual</src.rf>
@@ -2051,7 +2113,10 @@
 <LM>w#w-ln94204-28-p5s6w5</LM>
 </w.rf>
 <form>USD</form>
-<tag lemma="USD_:B_;b_^(U.S._dolar)" src="auto" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="USD_:B_;b_^(U.S._dolar)" src="auto">NNIXX-----A---8</AM>
+<AM lemma="USD_:B_^(U.S._dolar)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94204-28-p5s6w6">
 <src.rf>manual</src.rf>
@@ -2181,7 +2246,10 @@
 <LM>w#w-ln94204-28-p5s7w8</LM>
 </w.rf>
 <form>milionů</form>
-<tag lemma="milión`1000000" src="orig" selected="1">NNIP2-----A----</tag>
+<tag>
+<AM lemma="milión`1000000" src="orig">NNIP2-----A----</AM>
+<AM lemma="milion`1000000_,s_^(^DD**milión)" src="manual" selected="1">NNIP2-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94204-28-p5s7w9">
 <src.rf>manual</src.rf>
@@ -2189,7 +2257,10 @@
 <LM>w#w-ln94204-28-p5s7w9</LM>
 </w.rf>
 <form>USD</form>
-<tag lemma="USD_:B_;b_^(U.S._dolar)" src="auto" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="USD_:B_;b_^(U.S._dolar)" src="auto">NNIXX-----A---8</AM>
+<AM lemma="USD_:B_^(U.S._dolar)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94204-28-p5s7w10">
 <src.rf>manual</src.rf>
@@ -2295,7 +2366,10 @@
 <LM>w#w-ln94204-28-p5s8w12</LM>
 </w.rf>
 <form>milionů</form>
-<tag lemma="milión`1000000" src="orig" selected="1">NNIP2-----A----</tag>
+<tag>
+<AM lemma="milión`1000000" src="orig">NNIP2-----A----</AM>
+<AM lemma="milion`1000000_,s_^(^DD**milión)" src="manual" selected="1">NNIP2-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94204-28-p5s8w13">
 <src.rf>manual</src.rf>
@@ -2303,7 +2377,10 @@
 <LM>w#w-ln94204-28-p5s8w13</LM>
 </w.rf>
 <form>USD</form>
-<tag lemma="USD_:B_;b_^(U.S._dolar)" src="auto" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="USD_:B_;b_^(U.S._dolar)" src="auto">NNIXX-----A---8</AM>
+<AM lemma="USD_:B_^(U.S._dolar)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94204-28-p5s8w14">
 <src.rf>manual</src.rf>
@@ -2404,6 +2481,8 @@
 <tag>
 <AM lemma="DBM-2_:B_;K_,t_^(De_Beers_Marine)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="DBM-1_:B_;K_^(Divadlo_bratří_Mrštíků)" src="auto" recommended="1">NNNXX-----A---8</AM>
+<AM lemma="DBM-2_:B" src="manual">NNXXX-----A---8</AM>
+<AM lemma="DBM-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94204-28-p6s1w3">
@@ -2517,7 +2596,10 @@
 <LM>w#w-ln94204-28-p6s1w16</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-2" src="auto" selected="1">Dg-------2A----</tag>
+<tag>
+<AM lemma="hodně-2" src="auto">Dg-------2A----</AM>
+<AM lemma="hodně-3" src="manual" selected="1">Dg-------2A----</AM>
+</tag>
 </m>
 <m id="m-ln94204-28-p6s1w17">
 <src.rf>manual</src.rf>
@@ -2631,7 +2713,10 @@
 <LM>w#w-ln94204-28-p6s2w9</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-2" src="auto" selected="1">Dg-------2A----</tag>
+<tag>
+<AM lemma="hodně-2" src="auto">Dg-------2A----</AM>
+<AM lemma="více_^(více_+_2._p.,_více_peněz)" src="manual" selected="1">Ca--4----------</AM>
+</tag>
 </m>
 <m id="m-ln94204-28-p6s2w10">
 <src.rf>manual</src.rf>
@@ -2700,6 +2785,8 @@
 <tag>
 <AM lemma="DBM-2_:B_;K_,t_^(De_Beers_Marine)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="DBM-1_:B_;K_^(Divadlo_bratří_Mrštíků)" src="auto" recommended="1">NNNXX-----A---8</AM>
+<AM lemma="DBM-2_:B" src="manual">NNXXX-----A---8</AM>
+<AM lemma="DBM-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94204-28-p6s3w7">
@@ -2788,7 +2875,10 @@
 <LM>w#w-ln94204-28-p6s3w17</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-2" src="auto" selected="1">Dg-------2A----</tag>
+<tag>
+<AM lemma="hodně-2" src="auto">Dg-------2A----</AM>
+<AM lemma="hodně-3" src="manual" selected="1">Dg-------2A----</AM>
+</tag>
 </m>
 <m id="m-ln94204-28-p6s3w18">
 <src.rf>manual</src.rf>

@@ -115,6 +115,7 @@
 <AM lemma="kar-99_:B_;S" src="orig">NNXXX-----A---8</AM>
 <AM lemma="kar" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="kar" src="auto">NNIS4-----A----</AM>
+<AM lemma="kar-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920902-105-p2s1w4">
@@ -522,6 +523,8 @@
 <tag>
 <AM lemma="ÚSP_:B" src="orig">NNIXX-----A---8</AM>
 <AM lemma="ÚSP_:B_;K_^(Ústav_státu_a_práva)" src="auto" recommended="1">NNISX-----A---8</AM>
+<AM lemma="ÚSP-2_:B" src="manual">NNXXX-----A---8</AM>
+<AM lemma="ÚSP-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920902-105-p2s3w15">
@@ -812,7 +815,10 @@
 <LM>w#w-mf920902-105-p2s4w17</LM>
 </w.rf>
 <form>řekl</form>
-<tag lemma="říci" src="auto" selected="1">VpYS---XR-AA---</tag>
+<tag>
+<AM lemma="říci" src="auto">VpYS---XR-AA---</AM>
+<AM lemma="říci_:W" src="manual" selected="1">VpYS---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-mf920902-105-p2s4w18">
 <src.rf>manual</src.rf>
@@ -1154,7 +1160,7 @@
 <form>přesto</form>
 <tag>
 <AM lemma="přesto" src="orig">Dg-------1A----</AM>
-<AM lemma="přesto-1" src="auto" recommended="1">Db-------------</AM>
+<AM lemma="přesto-1" src="auto" recommended="1" selected="1">Db-------------</AM>
 <AM lemma="přesto-2" src="auto">J^-------------</AM>
 </tag>
 </m>
@@ -1388,7 +1394,7 @@
 <AM lemma="matka-1_^(malá_součástka)" src="auto">NNFP4-----A----</AM>
 <AM lemma="matka-1_^(malá_součástka)" src="auto">NNFP5-----A----</AM>
 <AM lemma="matka-1_^(malá_součástka)" src="auto">NNFS2-----A----</AM>
-<AM lemma="matka-2_^(maminka)" src="auto">NNFP1-----A----</AM>
+<AM lemma="matka-2_^(maminka)" src="auto" selected="1">NNFP1-----A----</AM>
 <AM lemma="matka-2_^(maminka)" src="auto">NNFP4-----A----</AM>
 <AM lemma="matka-2_^(maminka)" src="auto">NNFP5-----A----</AM>
 <AM lemma="matka-2_^(maminka)" src="auto">NNFS2-----A----</AM>
@@ -1557,6 +1563,8 @@
 <tag>
 <AM lemma="ÚSP_:B" src="orig">NNIXX-----A---8</AM>
 <AM lemma="ÚSP_:B_;K_^(Ústav_státu_a_práva)" src="auto" recommended="1">NNISX-----A---8</AM>
+<AM lemma="ÚSP-2_:B" src="manual">NNXXX-----A---8</AM>
+<AM lemma="ÚSP-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920902-105-p2s7w18">

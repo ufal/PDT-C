@@ -219,6 +219,8 @@
 <AM lemma="PRIBOR_:B_,t_^(mezibankovní_úrok)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="Pribor_;G" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Pribor_;G" src="auto">NNIS4-----A----</AM>
+<AM lemma="PRIBOR_:B" src="manual">NNXXX-----A---8</AM>
+<AM lemma="PRIBOR-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94103-072-p1s3w19">
@@ -558,6 +560,8 @@
 <AM lemma="PRIBOR_:B_,t_^(mezibankovní_úrok)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="Pribor_;G" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Pribor_;G" src="auto">NNIS4-----A----</AM>
+<AM lemma="PRIBOR_:B" src="manual">NNXXX-----A---8</AM>
+<AM lemma="PRIBOR-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94103-072-p1s6w4">
@@ -965,7 +969,10 @@
 <LM>w#w-lnd94103-072-p1s8w15</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-2" src="auto" selected="1">Dg-------2A----</tag>
+<tag>
+<AM lemma="hodně-2" src="auto">Dg-------2A----</AM>
+<AM lemma="více_^(více_+_2._p.,_více_peněz)" src="manual" selected="1">Ca--1----------</AM>
+</tag>
 </m>
 <m id="m-lnd94103-072-p1s8w16">
 <src.rf>manual</src.rf>
@@ -1055,7 +1062,10 @@
 <LM>w#w-lnd94103-072-p1s9w7</LM>
 </w.rf>
 <form>Raiffeisenbank</form>
-<tag lemma="Raiffeisenbank_;K_;b_,t" src="auto" selected="1">NNFXX-----A----</tag>
+<tag>
+<AM lemma="Raiffeisenbank_;K_;b_,t" src="auto">NNFXX-----A----</AM>
+<AM lemma="Raiffeisenbank_;K" src="manual" selected="1">NNFXX-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd94103-072-p1s9w8">
 <src.rf>manual</src.rf>
@@ -1103,7 +1113,10 @@
 <LM>w#w-lnd94103-072-p1s9w13</LM>
 </w.rf>
 <form>hodně</form>
-<tag lemma="hodně-2_^(nezlobivý)_(*3ý-2)" src="auto" selected="1">Dg-------1A----</tag>
+<tag>
+<AM lemma="hodně-2_^(nezlobivý)_(*3ý-2)" src="auto">Dg-------1A----</AM>
+<AM lemma="hodně-1_^(hodně_+_2._p.,_hodně_peněz)" src="manual" selected="1">Ca--1----------</AM>
+</tag>
 </m>
 <m id="m-lnd94103-072-p1s9w14">
 <src.rf>manual</src.rf>
@@ -1241,7 +1254,10 @@
 <LM>w#w-lnd94103-072-p1s10w5</LM>
 </w.rf>
 <form>ČR</form>
-<tag lemma="ČR-1_:B_;G_^(Česká_republika)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd94103-072-p1s10w6">
 <src.rf>manual</src.rf>

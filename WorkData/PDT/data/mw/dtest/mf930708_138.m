@@ -19,7 +19,12 @@
 <LM>w#w-mf930708-138-p1s1w1</LM>
 </w.rf>
 <form>tem</form>
-<tag lemma="tma" src="orig" selected="1">NNFP2-----A----</tag>
+<tag lemma="tma" src="orig">NNFP2-----A----</tag>
+<comment>
+<LM type="New Form">
+<text>světem</text>
+</LM>
+</comment>
 </m>
 <m id="m-mf930708-138-p1s1w2">
 <src.rf>manual</src.rf>

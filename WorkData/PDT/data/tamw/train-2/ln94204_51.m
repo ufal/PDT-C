@@ -297,7 +297,10 @@
 <LM>w#w-ln94204-51-p2s2w2</LM>
 </w.rf>
 <form>LN</form>
-<tag lemma="LN-1_:B_;R_^(Lidové_noviny,_deník)" src="orig" selected="1">NNFPX-----A---8</tag>
+<tag>
+<AM lemma="LN-1_:B_;R_^(Lidové_noviny,_deník)" src="orig">NNFPX-----A---8</AM>
+<AM lemma="LN-1_:B_;K_;R_^(Lidové_noviny)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94204-51-p2s2w3">
 <src.rf>manual</src.rf>
@@ -369,7 +372,10 @@
 <LM>w#w-ln94204-51-p2s2w11</LM>
 </w.rf>
 <form>ODS</form>
-<tag lemma="ODS-1_:B_;K_;p_^(Občanská_demokratická_strana)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ODS-1_:B_;K_;p_^(Občanská_demokratická_strana)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ODS-1_:B_;K_^(Občanská_demokratická_strana)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94204-51-p2s2w12">
 <src.rf>manual</src.rf>
@@ -704,6 +710,7 @@
 <AM lemma="nacizmus" src="auto" recommended="1">NNIS2-----A----</AM>
 <AM lemma="nacizmus" src="auto">NNIS3-----A----</AM>
 <AM lemma="nacizmus" src="auto">NNIS6-----A----</AM>
+<AM lemma="nacismus_,s_^(^DD**nacizmus)" src="manual" selected="1">NNIS2-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94204-51-p2s3w19">
@@ -1296,7 +1303,10 @@
 <LM>w#w-ln94204-51-p3s1w10</LM>
 </w.rf>
 <form>V</form>
-<tag lemma="V-0_:B_;Y" src="orig" selected="1">NNMXX-----A---8</tag>
+<tag>
+<AM lemma="V-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
+<AM lemma="V-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94204-51-p3s1w11">
 <src.rf>manual</src.rf>
@@ -1590,7 +1600,7 @@
 <form>nejen</form>
 <tag>
 <AM lemma="nejen" src="orig">TT-------------</AM>
-<AM lemma="nejen" src="auto" recommended="1">Db-------------</AM>
+<AM lemma="nejen" src="auto" recommended="1" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m-ln94204-51-p3s3w10">

@@ -62,7 +62,10 @@
 <LM>w#w-ln95044-040-p2s1Aw1</LM>
 </w.rf>
 <form>Rio</form>
-<tag lemma="Rio_;G" src="orig" selected="1">NNNS1-----A----</tag>
+<tag>
+<AM lemma="Rio_;G" src="orig">NNNS1-----A----</AM>
+<AM lemma="Rio-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln95044-040-p2s1Aw2">
 <src.rf>manual</src.rf>
@@ -70,7 +73,10 @@
 <LM>w#w-ln95044-040-p2s1Aw2</LM>
 </w.rf>
 <form>de</form>
-<tag lemma="de_,t_^(z_franc._de,_zejm._ve_jménech)" src="orig" selected="1">RR--1----------</tag>
+<tag>
+<AM lemma="de_,t_^(z_franc._de,_zejm._ve_jménech)" src="orig">RR--1----------</AM>
+<AM lemma="de-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln95044-040-p2s1Aw3">
 <src.rf>manual</src.rf>
@@ -78,7 +84,10 @@
 <LM>w#w-ln95044-040-p2s1Aw3</LM>
 </w.rf>
 <form>Janeiro</form>
-<tag lemma="Janeiro_;G" src="orig" selected="1">NNNS1-----A----</tag>
+<tag>
+<AM lemma="Janeiro_;G" src="orig">NNNS1-----A----</AM>
+<AM lemma="Janeiro-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln95044-040-p2s1Aw4">
 <src.rf>manual</src.rf>
@@ -200,7 +209,10 @@
 <LM>w#w-ln95044-040-p2s1Bw14</LM>
 </w.rf>
 <form>Rio</form>
-<tag lemma="Rio_;G" src="orig" selected="1">NNNS1-----A----</tag>
+<tag>
+<AM lemma="Rio_;G" src="orig">NNNS1-----A----</AM>
+<AM lemma="Rio-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln95044-040-p2s1Bw15">
 <src.rf>manual</src.rf>
@@ -208,7 +220,10 @@
 <LM>w#w-ln95044-040-p2s1Bw15</LM>
 </w.rf>
 <form>de</form>
-<tag lemma="de_,t_^(z_franc._de,_zejm._ve_jménech)" src="orig" selected="1">RR--1----------</tag>
+<tag>
+<AM lemma="de_,t_^(z_franc._de,_zejm._ve_jménech)" src="orig">RR--1----------</AM>
+<AM lemma="de-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln95044-040-p2s1Bw16">
 <src.rf>manual</src.rf>
@@ -484,7 +499,11 @@
 <LM>w#w-ln95044-040-p2s3w26</LM>
 </w.rf>
 <form>Maracana</form>
-<tag lemma="Maracana_;m_,t" src="orig" selected="1">NNFS1-----A----</tag>
+<tag>
+<AM lemma="Maracana_;m_,t" src="orig">NNFS1-----A----</AM>
+<AM lemma="Maracana_;m_,t" src="manual">NNFS1-----A----</AM>
+<AM lemma="Maracana_;m" src="manual" selected="1">NNFS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95044-040-p2s3w27">
 <src.rf>manual</src.rf>
@@ -834,7 +853,10 @@
 <LM>w#w-ln95044-040-p2s6w7</LM>
 </w.rf>
 <form>Vasco</form>
-<tag lemma="Vasco_;Y_,t" src="auto" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Vasco_;Y_,t" src="auto">NNMS1-----A----</AM>
+<AM lemma="Vasco_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95044-040-p2s6w8">
 <src.rf>manual</src.rf>
@@ -842,7 +864,10 @@
 <LM>w#w-ln95044-040-p2s6w8</LM>
 </w.rf>
 <form>da</form>
-<tag lemma="da_,t_^(šp.)" src="orig" selected="1">RR--X----------</tag>
+<tag>
+<AM lemma="da_,t_^(šp.)" src="orig">RR--X----------</AM>
+<AM lemma="da-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln95044-040-p2s6w9">
 <src.rf>manual</src.rf>
@@ -868,7 +893,7 @@
 <form>Botafogo</form>
 <tag>
 <AM lemma="Botafogo_;K_,t" src="orig">NNNXX-----A----</AM>
-<AM lemma="Botafogo_;G_;K_;w_^(hud._skupina;;fotbalový_klub&amp;&amp;čtvrť_v_Riu)" src="auto" recommended="1">NNNS1-----A----</AM>
+<AM lemma="Botafogo_;G_;K_;w_^(hud._skupina;;fotbalový_klub&amp;&amp;čtvrť_v_Riu)" src="auto" recommended="1" selected="1">NNNS1-----A----</AM>
 <AM lemma="Botafogo_;G_;K_;w_^(hud._skupina;;fotbalový_klub&amp;&amp;čtvrť_v_Riu)" src="auto">NNNS4-----A----</AM>
 <AM lemma="Botafogo_;G_;K_;w_^(hud._skupina;;fotbalový_klub&amp;&amp;čtvrť_v_Riu)" src="auto">NNNS5-----A----</AM>
 </tag>
@@ -895,7 +920,10 @@
 <LM>w#w-ln95044-040-p2s6w14</LM>
 </w.rf>
 <form>Rio</form>
-<tag lemma="Rio_;G" src="orig" selected="1">NNNS1-----A----</tag>
+<tag>
+<AM lemma="Rio_;G" src="orig">NNNS1-----A----</AM>
+<AM lemma="Rio-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln95044-040-p2s6w15">
 <src.rf>manual</src.rf>
@@ -903,7 +931,10 @@
 <LM>w#w-ln95044-040-p2s6w15</LM>
 </w.rf>
 <form>de</form>
-<tag lemma="de_,t_^(z_franc._de,_zejm._ve_jménech)" src="orig" selected="1">RR--1----------</tag>
+<tag>
+<AM lemma="de_,t_^(z_franc._de,_zejm._ve_jménech)" src="orig">RR--1----------</AM>
+<AM lemma="de-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln95044-040-p2s6w16">
 <src.rf>manual</src.rf>
@@ -985,7 +1016,10 @@
 <LM>w#w-ln95044-040-p2s7w8</LM>
 </w.rf>
 <form>Vasco</form>
-<tag lemma="Vasco_;Y_,t" src="auto" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Vasco_;Y_,t" src="auto">NNMS1-----A----</AM>
+<AM lemma="Vasco_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95044-040-p2s7w9">
 <src.rf>manual</src.rf>
@@ -993,7 +1027,10 @@
 <LM>w#w-ln95044-040-p2s7w9</LM>
 </w.rf>
 <form>da</form>
-<tag lemma="da_,t_^(šp.)" src="orig" selected="1">RR--X----------</tag>
+<tag>
+<AM lemma="da_,t_^(šp.)" src="orig">RR--X----------</AM>
+<AM lemma="da-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln95044-040-p2s7w10">
 <src.rf>manual</src.rf>

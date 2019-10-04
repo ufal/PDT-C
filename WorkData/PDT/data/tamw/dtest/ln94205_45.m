@@ -69,7 +69,10 @@
 <LM>w#w-ln94205-45-p2s1Aw3</LM>
 </w.rf>
 <form>teb</form>
-<tag lemma="teb-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="teb-99_:B_;S" src="orig">NNXXX-----A---8</AM>
+<AM lemma="teb-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94205-45-p2s1Aw4">
 <src.rf>manual</src.rf>
@@ -411,7 +414,10 @@
 <LM>w#w-ln94205-45-p2s3w5</LM>
 </w.rf>
 <form>hl</form>
-<tag lemma="hlavní_:B" src="orig" selected="1">AAXXX----1A---8</tag>
+<tag>
+<AM lemma="hlavní_:B" src="orig">AAXXX----1A---8</AM>
+<AM lemma="hlavní" src="manual" selected="1">AAXXX----1A---8</AM>
+</tag>
 </m>
 <m id="m-ln94205-45-p2s3w6">
 <src.rf>manual</src.rf>
@@ -427,7 +433,10 @@
 <LM>w#w-ln94205-45-p2s3w7</LM>
 </w.rf>
 <form>m</form>
-<tag lemma="město_:B" src="orig" selected="1">NNNXX-----A---8</tag>
+<tag>
+<AM lemma="město_:B" src="orig">NNNXX-----A---8</AM>
+<AM lemma="město" src="manual" selected="1">NNNXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln94205-45-p2s3w8">
 <src.rf>manual</src.rf>

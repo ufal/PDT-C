@@ -35,7 +35,10 @@
 <LM>w#w-ln95044-037-p1s1w3</LM>
 </w.rf>
 <form>Davis</form>
-<tag lemma="Davis-2_;S" src="auto" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Davis-2_;S" src="auto">NNMS1-----A----</AM>
+<AM lemma="Davis-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln95044-037-p1s1w4">
 <src.rf>manual</src.rf>
@@ -43,7 +46,10 @@
 <LM>w#w-ln95044-037-p1s1w4</LM>
 </w.rf>
 <form>Cup</form>
-<tag lemma="Cup-1_;m_;w_,t_^(pohár,_soutěž;_v_názvech)" src="auto" selected="1">NNIS4-----A----</tag>
+<tag>
+<AM lemma="Cup-1_;m_;w_,t_^(pohár,_soutěž;_v_názvech)" src="auto">NNIS4-----A----</AM>
+<AM lemma="Cup-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 </s>
 <s id="m-ln95044-037-p2s1A">
@@ -119,7 +125,10 @@
 <LM>w#w-ln95044-037-p2s1Bw1</LM>
 </w.rf>
 <form>New</form>
-<tag lemma="New-1_;G_,t_^(součást_míst._jmen)" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="New-1_;G_,t_^(součást_míst._jmen)" src="orig">AAXXX----1A----</AM>
+<AM lemma="New-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln95044-037-p2s1Bw2">
 <src.rf>manual</src.rf>
@@ -127,7 +136,10 @@
 <LM>w#w-ln95044-037-p2s1Bw2</LM>
 </w.rf>
 <form>York</form>
-<tag lemma="York-2_;G" src="orig" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="York-2_;G" src="orig">NNIS1-----A----</AM>
+<AM lemma="York-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln95044-037-p2s1Bw3">
 <src.rf>manual</src.rf>
@@ -177,7 +189,10 @@
 <LM>w#w-ln95044-037-p2s1Cw5</LM>
 </w.rf>
 <form>Pete</form>
-<tag lemma="Pete_;Y_,t" src="orig" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Pete_;Y_,t" src="orig">NNMS1-----A----</AM>
+<AM lemma="Pete_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95044-037-p2s1Cw6">
 <src.rf>manual</src.rf>
@@ -591,7 +606,10 @@
 <LM>w#w-ln95044-037-p3s2w15</LM>
 </w.rf>
 <form>French</form>
-<tag lemma="French_;m_,t" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="French_;m_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="French-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln95044-037-p3s2w16">
 <src.rf>manual</src.rf>
@@ -599,7 +617,10 @@
 <LM>w#w-ln95044-037-p3s2w16</LM>
 </w.rf>
 <form>Open</form>
-<tag lemma="Open-1_,t_^(v_názvu_např._sport._soutěží,_&quot;otevřený&quot;)" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="Open-1_,t_^(v_názvu_např._sport._soutěží,_&quot;otevřený&quot;)" src="orig">AAXXX----1A----</AM>
+<AM lemma="Open-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln95044-037-p3s2w17">
 <src.rf>manual</src.rf>
@@ -671,7 +692,10 @@
 <LM>w#w-ln95044-037-p3s2w25</LM>
 </w.rf>
 <form>Cupu</form>
-<tag lemma="Cup-1_;m_;w_,t_^(pohár,_soutěž;_v_názvech)" src="auto" selected="1">NNIS6-----A----</tag>
+<tag>
+<AM lemma="Cup-1_;m_;w_,t_^(pohár,_soutěž;_v_názvech)" src="auto">NNIS6-----A----</AM>
+<AM lemma="Cup-1_;m_^(pohár,_soutěž;_v_názvech)" src="manual" selected="1">NNIS6-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95044-037-p3s2w26">
 <src.rf>manual</src.rf>
@@ -900,7 +924,10 @@
 <LM>w#w-ln95044-037-p4s2w4</LM>
 </w.rf>
 <form>Australian</form>
-<tag lemma="Australian_;m_,t" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="Australian_;m_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="Australian-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln95044-037-p4s2w5">
 <src.rf>manual</src.rf>
@@ -908,7 +935,10 @@
 <LM>w#w-ln95044-037-p4s2w5</LM>
 </w.rf>
 <form>Open</form>
-<tag lemma="Open-1_,t_^(v_názvu_např._sport._soutěží,_&quot;otevřený&quot;)" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="Open-1_,t_^(v_názvu_např._sport._soutěží,_&quot;otevřený&quot;)" src="orig">AAXXX----1A----</AM>
+<AM lemma="Open-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln95044-037-p4s2w6">
 <src.rf>manual</src.rf>
@@ -1232,7 +1262,10 @@
 <LM>w#w-ln95044-037-p4s4w2</LM>
 </w.rf>
 <form>Pete</form>
-<tag lemma="Pete_;Y_,t" src="orig" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Pete_;Y_,t" src="orig">NNMS1-----A----</AM>
+<AM lemma="Pete_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95044-037-p4s4w3">
 <src.rf>manual</src.rf>

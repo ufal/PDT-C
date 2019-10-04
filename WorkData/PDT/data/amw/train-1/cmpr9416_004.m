@@ -27,7 +27,10 @@
 <LM>w#w-cmpr9416-004-p3s1w2</LM>
 </w.rf>
 <form>Rady</form>
-<tag lemma="rada-1_^(př._dát_někomu_dobrou_radu)" src="orig" selected="1">NNFP1-----A----</tag>
+<tag>
+<AM lemma="rada-1_^(př._dát_někomu_dobrou_radu)" src="orig">NNFP1-----A----</AM>
+<AM lemma="rada-1_^(př._dát_někomu_dobrou_radu;poradní_sbor)" src="manual" selected="1">NNFP1-----A----</AM>
+</tag>
 </m>
 <m id="m-cmpr9416-004-p3s1w3">
 <src.rf>manual</src.rf>
@@ -63,7 +66,7 @@
 <form>Nekázeň</form>
 <tag>
 <AM lemma="kázeň" src="orig">NNFS1-----A----</AM>
-<AM lemma="nekázeň" src="auto" recommended="1">NNFS1-----A----</AM>
+<AM lemma="nekázeň" src="auto" recommended="1" selected="1">NNFS1-----A----</AM>
 <AM lemma="nekázeň" src="auto">NNFS4-----A----</AM>
 </tag>
 </m>
@@ -117,7 +120,7 @@
 <form>nekázni</form>
 <tag>
 <AM lemma="kázeň" src="orig">NNFS3-----A----</AM>
-<AM lemma="nekázeň" src="auto" recommended="1">NNFS3-----A----</AM>
+<AM lemma="nekázeň" src="auto" recommended="1" selected="1">NNFS3-----A----</AM>
 <AM lemma="nekázeň" src="auto">NNFS5-----A----</AM>
 <AM lemma="nekázeň" src="auto">NNFS6-----A----</AM>
 </tag>
@@ -282,7 +285,7 @@
 <form>vůbec</form>
 <tag>
 <AM lemma="vůbec" src="orig">Db-------------</AM>
-<AM lemma="vůbec" src="auto" recommended="1">TT-------------</AM>
+<AM lemma="vůbec" src="auto" recommended="1" selected="1">TT-------------</AM>
 </tag>
 </m>
 <m id="m-cmpr9416-004-p7s1w26">
@@ -455,7 +458,10 @@
 <LM>w#w-cmpr9416-004-p8s1w1</LM>
 </w.rf>
 <form>P</form>
-<tag lemma="P-0_:B_;Y" src="orig" selected="1">NNMXX-----A---8</tag>
+<tag>
+<AM lemma="P-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
+<AM lemma="P-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-cmpr9416-004-p8s1w2">
 <src.rf>manual</src.rf>
@@ -471,7 +477,10 @@
 <LM>w#w-cmpr9416-004-p8s1w3</LM>
 </w.rf>
 <form>H</form>
-<tag lemma="H-9_:B_;S" src="orig" selected="1">NNMXX-----A---8</tag>
+<tag>
+<AM lemma="H-9_:B_;S" src="orig">NNMXX-----A---8</AM>
+<AM lemma="H-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-cmpr9416-004-p8s1w4">
 <src.rf>manual</src.rf>
@@ -603,7 +612,7 @@
 <form>tedy</form>
 <tag>
 <AM lemma="tedy" src="orig">Db-------------</AM>
-<AM lemma="tedy-1" src="auto">TT-------------</AM>
+<AM lemma="tedy-1" src="auto" selected="1">TT-------------</AM>
 <AM lemma="tedy-2" src="auto" recommended="1">J^-------------</AM>
 </tag>
 </m>
@@ -945,7 +954,10 @@
 <LM>w#w-cmpr9416-004-p10s1w1</LM>
 </w.rf>
 <form>JUDr</form>
-<tag lemma="JUDr-1_:B_^(doktor_práv)" src="orig" selected="1">NNMXX-----A---8</tag>
+<tag>
+<AM lemma="JUDr-1_:B_^(doktor_práv)" src="orig">NNMXX-----A---8</AM>
+<AM lemma="JUDr_:B_^(doktor_práv)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-cmpr9416-004-p10s1w2">
 <src.rf>manual</src.rf>
@@ -961,7 +973,10 @@
 <LM>w#w-cmpr9416-004-p10s1w3</LM>
 </w.rf>
 <form>PhDr</form>
-<tag lemma="PhDr-1_:B_,t_^(philosophiae_doctor)" src="auto" selected="1">NNMXX-----A---8</tag>
+<tag>
+<AM lemma="PhDr-1_:B_,t_^(philosophiae_doctor)" src="auto">NNMXX-----A---8</AM>
+<AM lemma="PhDr_:B_^(philosophiae_doctor)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-cmpr9416-004-p10s1w4">
 <src.rf>manual</src.rf>
@@ -1107,7 +1122,10 @@
 <LM>w#w-cmpr9416-004-p11s1w15</LM>
 </w.rf>
 <form>tel</form>
-<tag lemma="telefon_:B" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="telefon_:B" src="orig">NNIXX-----A---8</AM>
+<AM lemma="telefon" src="manual" selected="1">NNIXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-cmpr9416-004-p11s1w16">
 <src.rf>manual</src.rf>

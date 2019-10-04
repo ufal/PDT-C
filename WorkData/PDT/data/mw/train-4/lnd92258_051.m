@@ -375,7 +375,10 @@
 <LM>w#w-lnd92258-051-p4s3w7</LM>
 </w.rf>
 <form>HSDSMS</form>
-<tag lemma="HSDSMS_:B_;K" src="orig" selected="1">NNNXX-----A---8</tag>
+<tag>
+<AM lemma="HSDSMS_:B_;K" src="orig">NNNXX-----A---8</AM>
+<AM lemma="HSDSMS-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd92258-051-p4s3w8">
 <src.rf>manual</src.rf>
@@ -449,7 +452,10 @@
 <LM>w#w-lnd92258-051-p4s4w6</LM>
 </w.rf>
 <form>LN</form>
-<tag lemma="LN-1_:B_;R_^(Lidové_noviny,_deník)" src="orig" selected="1">NNFPX-----A---8</tag>
+<tag>
+<AM lemma="LN-1_:B_;R_^(Lidové_noviny,_deník)" src="orig">NNFPX-----A---8</AM>
+<AM lemma="LN-1_:B_;K_;R_^(Lidové_noviny,_deník)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92258-051-p4s4w7">
 <src.rf>manual</src.rf>
@@ -609,7 +615,10 @@
 <LM>w#w-lnd92258-051-p4s4w26</LM>
 </w.rf>
 <form>J</form>
-<tag lemma="J-0_:B_;Y" src="orig" selected="1">NNMXX-----A---8</tag>
+<tag>
+<AM lemma="J-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
+<AM lemma="J-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd92258-051-p4s4w27">
 <src.rf>manual</src.rf>
@@ -721,7 +730,10 @@
 <LM>w#w-lnd92258-051-p4s4w40</LM>
 </w.rf>
 <form>ES</form>
-<tag lemma="ES_:B_;K_^(Evropská_společenství)" src="orig" selected="1">NNNXX-----A---8</tag>
+<tag>
+<AM lemma="ES_:B_;K_^(Evropská_společenství)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="ES-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd92258-051-p4s4w41">
 <src.rf>manual</src.rf>
@@ -785,7 +797,10 @@
 <LM>w#w-lnd92258-051-p4s4w48</LM>
 </w.rf>
 <form>konzervativismu</form>
-<tag lemma="konzervativismus" src="orig" selected="1">NNIS2-----A----</tag>
+<tag>
+<AM lemma="konzervativismus" src="orig">NNIS2-----A----</AM>
+<AM lemma="konzervativismus_,s_^(^DD**konzervativizmus)" src="manual" selected="1">NNIS2-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92258-051-p4s4w49">
 <src.rf>manual</src.rf>
@@ -881,7 +896,10 @@
 <LM>w#w-lnd92258-051-p4s4w60</LM>
 </w.rf>
 <form>V</form>
-<tag lemma="V-0_:B_;Y" src="orig" selected="1">NNMXX-----A---8</tag>
+<tag>
+<AM lemma="V-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
+<AM lemma="V-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd92258-051-p4s4w61">
 <src.rf>manual</src.rf>
@@ -913,7 +931,10 @@
 <LM>w#w-lnd92258-051-p4s4w64</LM>
 </w.rf>
 <form>V</form>
-<tag lemma="V-0_:B_;Y" src="orig" selected="1">NNMXX-----A---8</tag>
+<tag>
+<AM lemma="V-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
+<AM lemma="V-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd92258-051-p4s4w65">
 <src.rf>manual</src.rf>
@@ -953,7 +974,10 @@
 <LM>w#w-lnd92258-051-p4s4w69</LM>
 </w.rf>
 <form>ES</form>
-<tag lemma="ES_:B_;K_^(Evropská_společenství)" src="orig" selected="1">NNNXX-----A---8</tag>
+<tag>
+<AM lemma="ES_:B_;K_^(Evropská_společenství)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="ES-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd92258-051-p4s4w70">
 <src.rf>manual</src.rf>
@@ -1019,7 +1043,10 @@
 <LM>w#w-lnd92258-051-p4s5w5</LM>
 </w.rf>
 <form>J</form>
-<tag lemma="J-0_:B_;Y" src="orig" selected="1">NNMXX-----A---8</tag>
+<tag>
+<AM lemma="J-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
+<AM lemma="J-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd92258-051-p4s5w6">
 <src.rf>manual</src.rf>
@@ -1091,7 +1118,10 @@
 <LM>w#w-lnd92258-051-p4s5w14</LM>
 </w.rf>
 <form>li</form>
-<tag lemma="li-1" src="auto" selected="1">TT-------------</tag>
+<tag>
+<AM lemma="li-1" src="auto">TT-------------</AM>
+<AM lemma="li-2" src="manual" selected="1">J,-------------</AM>
+</tag>
 </m>
 <m id="m-lnd92258-051-p4s5w15">
 <src.rf>manual</src.rf>
@@ -1179,7 +1209,10 @@
 <LM>w#w-lnd92258-051-p4s5w25</LM>
 </w.rf>
 <form>ES</form>
-<tag lemma="ES_:B_;K_^(Evropská_společenství)" src="orig" selected="1">NNNXX-----A---8</tag>
+<tag>
+<AM lemma="ES_:B_;K_^(Evropská_společenství)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="ES-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd92258-051-p4s5w26">
 <src.rf>manual</src.rf>
@@ -1227,7 +1260,10 @@
 <LM>w#w-lnd92258-051-p4s5w31</LM>
 </w.rf>
 <form>konzervativismus</form>
-<tag lemma="konzervativismus" src="orig" selected="1">NNIS4-----A----</tag>
+<tag>
+<AM lemma="konzervativismus" src="orig">NNIS4-----A----</AM>
+<AM lemma="konzervativismus_,s_^(^DD**konzervativizmus)" src="manual" selected="1">NNIS4-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92258-051-p4s5w32">
 <src.rf>manual</src.rf>
@@ -1429,7 +1465,10 @@
 <LM>w#w-lnd92258-051-p4s6w20</LM>
 </w.rf>
 <form>ES</form>
-<tag lemma="ES_:B_;K_^(Evropská_společenství)" src="orig" selected="1">NNNXX-----A---8</tag>
+<tag>
+<AM lemma="ES_:B_;K_^(Evropská_společenství)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="ES-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd92258-051-p4s6w21">
 <src.rf>manual</src.rf>

@@ -101,7 +101,10 @@
 <LM>w#w-mf920923-099-p1s1Bw8</LM>
 </w.rf>
 <form>ČNR</form>
-<tag lemma="ČNR-1_:B_;K_^(Česká_národní_rada)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ČNR-1_:B_;K_^(Česká_národní_rada)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČNR-1_:B_;K_^(Česká_národní_rada)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920923-099-p1s1Bw9">
 <src.rf>manual</src.rf>
@@ -981,7 +984,10 @@
 <LM>w#w-mf920923-099-p1s9w11</LM>
 </w.rf>
 <form>ČNR</form>
-<tag lemma="ČNR-1_:B_;K_^(Česká_národní_rada)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ČNR-1_:B_;K_^(Česká_národní_rada)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČNR-1_:B_;K_^(Česká_národní_rada)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920923-099-p1s9w12">
 <src.rf>manual</src.rf>
@@ -1223,7 +1229,10 @@
 <LM>w#w-mf920923-099-p1s10w27</LM>
 </w.rf>
 <form>prostě</form>
-<tag lemma="prostě-1" src="auto" selected="1">Dg-------1A----</tag>
+<tag>
+<AM lemma="prostě-1" src="auto">Dg-------1A----</AM>
+<AM lemma="prostě-2" src="manual" selected="1">TT-------------</AM>
+</tag>
 </m>
 <m id="m-mf920923-099-p1s10w28">
 <src.rf>manual</src.rf>

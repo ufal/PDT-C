@@ -159,7 +159,10 @@
 <LM>w#w-mf920902-149-p2s2w5</LM>
 </w.rf>
 <form>Rachmana</form>
-<tag lemma="Rachman_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag>
+<AM lemma="Rachman_;S" src="orig">NNMS2-----A----</AM>
+<AM lemma="Rachman_;S_;Y" src="manual" selected="1">NNMS2-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920902-149-p2s2w6">
 <src.rf>manual</src.rf>
@@ -1371,7 +1374,10 @@
 <LM>w#w-mf920902-149-p5s2w5</LM>
 </w.rf>
 <form>Šodmon</form>
-<tag lemma="Šodmon_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Šodmon_;S" src="orig">NNMS1-----A----</AM>
+<AM lemma="Šodmon_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920902-149-p5s2w6">
 <src.rf>manual</src.rf>
@@ -1759,7 +1765,10 @@
 <LM>w#w-mf920902-149-p6s2w10</LM>
 </w.rf>
 <form>Rachmana</form>
-<tag lemma="Rachman_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag>
+<AM lemma="Rachman_;S" src="orig">NNMS2-----A----</AM>
+<AM lemma="Rachman_;S_;Y" src="manual" selected="1">NNMS2-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920902-149-p6s2w11">
 <src.rf>manual</src.rf>
@@ -1925,7 +1934,7 @@
 <form>totiž</form>
 <tag>
 <AM lemma="totiž" src="orig">Db-------------</AM>
-<AM lemma="totiž-1" src="auto" recommended="1">J^-------------</AM>
+<AM lemma="totiž-1" src="auto" recommended="1" selected="1">J^-------------</AM>
 <AM lemma="totiž-2" src="auto">TT-------------</AM>
 </tag>
 </m>

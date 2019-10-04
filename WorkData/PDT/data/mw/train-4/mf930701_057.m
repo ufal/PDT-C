@@ -70,7 +70,7 @@
 </w.rf>
 <form>mas</form>
 <tag>
-<AM lemma="mas-99_:B_;S" src="orig">NNXXX-----A---8</AM>
+<AM lemma="mas-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</AM>
 <AM lemma="masa_^(velké_množství)" src="auto" recommended="1">NNFP2-----A----</AM>
 <AM lemma="maso_^(jídlo_apod.)" src="auto">NNNP2-----A----</AM>
 </tag>
@@ -139,7 +139,7 @@
 <form>Marlboro</form>
 <tag>
 <AM lemma="Marlbora_;G" src="orig">NNNS1-----A----</AM>
-<AM lemma="Marlboro_;K" src="auto" recommended="1">NNNS1-----A----</AM>
+<AM lemma="Marlboro_;K" src="auto" recommended="1" selected="1">NNNS1-----A----</AM>
 <AM lemma="Marlboro_;K" src="auto">NNNS4-----A----</AM>
 <AM lemma="Marlboro_;K" src="auto">NNNS5-----A----</AM>
 </tag>
@@ -158,7 +158,10 @@
 <LM>w#w-mf930701-057-p2s1w13</LM>
 </w.rf>
 <form>Rock</form>
-<tag lemma="rock-1" src="orig" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="rock-1" src="orig">NNIS1-----A----</AM>
+<AM lemma="Rock-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-mf930701-057-p2s1w14">
 <src.rf>manual</src.rf>
@@ -166,7 +169,10 @@
 <LM>w#w-mf930701-057-p2s1w14</LM>
 </w.rf>
 <form>In</form>
-<tag lemma="in-1_,t_^(angl._v)" src="orig" selected="1">RR--X----------</tag>
+<tag>
+<AM lemma="in-1_,t_^(angl._v)" src="orig">RR--X----------</AM>
+<AM lemma="In-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-mf930701-057-p2s1w15">
 <src.rf>manual</src.rf>
@@ -550,7 +556,7 @@
 <form>totiž</form>
 <tag>
 <AM lemma="totiž" src="orig">Db-------------</AM>
-<AM lemma="totiž-1" src="auto" recommended="1">J^-------------</AM>
+<AM lemma="totiž-1" src="auto" recommended="1" selected="1">J^-------------</AM>
 <AM lemma="totiž-2" src="auto">TT-------------</AM>
 </tag>
 </m>
@@ -608,7 +614,10 @@
 <LM>w#w-mf930701-057-p2s4w10</LM>
 </w.rf>
 <form>ani</form>
-<tag lemma="ani-1" src="auto" selected="1">J^-------------</tag>
+<tag>
+<AM lemma="ani-1" src="auto">J^-------------</AM>
+<AM lemma="ani-2" src="manual" selected="1">TT-------------</AM>
+</tag>
 </m>
 <m id="m-mf930701-057-p2s4w11">
 <src.rf>manual</src.rf>

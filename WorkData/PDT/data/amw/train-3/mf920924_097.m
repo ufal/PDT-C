@@ -91,7 +91,10 @@
 <LM>w#w-mf920924-097-p1s1w10</LM>
 </w.rf>
 <form>Faerských</form>
-<tag lemma="faerský_;G" src="orig" selected="1">AAIP2----1A----</tag>
+<tag>
+<AM lemma="faerský_;G" src="orig">AAIP2----1A----</AM>
+<AM lemma="faerský" src="manual" selected="1">AAIP2----1A----</AM>
+</tag>
 </m>
 <m id="m-mf920924-097-p1s1w11">
 <src.rf>manual</src.rf>

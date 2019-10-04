@@ -93,7 +93,10 @@
 <LM>w#w-cmpr9406-050-p3s1w7</LM>
 </w.rf>
 <form>jen</form>
-<tag lemma="jen-1" src="auto" selected="1">TT-------------</tag>
+<tag>
+<AM lemma="jen-1" src="auto">TT-------------</AM>
+<AM lemma="jen-4_^(pouze)" src="manual" selected="1">Db-------------</AM>
+</tag>
 </m>
 <m id="m-cmpr9406-050-p3s1w8">
 <src.rf>manual</src.rf>
@@ -554,7 +557,7 @@
 <tag>
 <AM lemma="dvojstrana_^(dvě_stránky)" src="orig">NNFS6-----A----</AM>
 <AM lemma="dvoustrana_^(dvě_stránky)" src="auto">NNFS3-----A----</AM>
-<AM lemma="dvoustrana_^(dvě_stránky)" src="auto" recommended="1">NNFS6-----A----</AM>
+<AM lemma="dvoustrana_^(dvě_stránky)" src="auto" recommended="1" selected="1">NNFS6-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9406-050-p3s6w14">
@@ -639,7 +642,7 @@
 <form>snad</form>
 <tag>
 <AM lemma="snad" src="orig">Db-------------</AM>
-<AM lemma="snad" src="auto" recommended="1">TT-------------</AM>
+<AM lemma="snad" src="auto" recommended="1" selected="1">TT-------------</AM>
 </tag>
 </m>
 <m id="m-cmpr9406-050-p4s1w8">
@@ -1536,7 +1539,7 @@
 <AM lemma="sedmý" src="auto">CrFP5----------</AM>
 <AM lemma="sedmý" src="auto">CrFS2----------</AM>
 <AM lemma="sedmý" src="auto">CrFS3----------</AM>
-<AM lemma="sedmý" src="auto" recommended="1">CrFS6----------</AM>
+<AM lemma="sedmý" src="auto" recommended="1" selected="1">CrFS6----------</AM>
 <AM lemma="sedmý" src="auto">CrIP1----------</AM>
 <AM lemma="sedmý" src="auto">CrIP4----------</AM>
 <AM lemma="sedmý" src="auto">CrIP5----------</AM>

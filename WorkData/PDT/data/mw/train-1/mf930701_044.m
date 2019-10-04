@@ -189,7 +189,10 @@
 <LM>w#w-mf930701-044-p1s2w3</LM>
 </w.rf>
 <form>Gargantua</form>
-<tag lemma="Gargantua_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag>
+<AM lemma="Gargantua_;S" src="orig">NNFS1-----A----</AM>
+<AM lemma="Gargantua-2_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930701-044-p1s2w4">
 <src.rf>manual</src.rf>

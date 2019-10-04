@@ -379,7 +379,10 @@
 <LM>w#w-ln94206-24-p2s2w6</LM>
 </w.rf>
 <form>milionů</form>
-<tag lemma="milión`1000000" src="orig" selected="1">NNIP2-----A----</tag>
+<tag>
+<AM lemma="milión`1000000" src="orig">NNIP2-----A----</AM>
+<AM lemma="milion`1000000_,s_^(^DD**milión)" src="manual" selected="1">NNIP2-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94206-24-p2s2w7">
 <src.rf>manual</src.rf>
@@ -893,7 +896,10 @@
 <LM>w#w-ln94206-24-p4s1w11</LM>
 </w.rf>
 <form>milionů</form>
-<tag lemma="milión`1000000" src="orig" selected="1">NNIP2-----A----</tag>
+<tag>
+<AM lemma="milión`1000000" src="orig">NNIP2-----A----</AM>
+<AM lemma="milion`1000000_,s_^(^DD**milión)" src="manual" selected="1">NNIP2-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94206-24-p4s1w12">
 <src.rf>manual</src.rf>
@@ -943,7 +949,10 @@
 <LM>w#w-ln94206-24-p4s2w4</LM>
 </w.rf>
 <form>P</form>
-<tag lemma="P-0_:B_;Y" src="orig" selected="1">NNMXX-----A---8</tag>
+<tag>
+<AM lemma="P-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
+<AM lemma="P-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94206-24-p4s2w5">
 <src.rf>manual</src.rf>
@@ -991,7 +1000,10 @@
 <LM>w#w-ln94206-24-p4s2w10</LM>
 </w.rf>
 <form>milionů</form>
-<tag lemma="milión`1000000" src="orig" selected="1">NNIP2-----A----</tag>
+<tag>
+<AM lemma="milión`1000000" src="orig">NNIP2-----A----</AM>
+<AM lemma="milion`1000000_,s_^(^DD**milión)" src="manual" selected="1">NNIP2-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94206-24-p4s2w11">
 <src.rf>manual</src.rf>
@@ -1244,7 +1256,10 @@
 <LM>w#w-ln94206-24-p5s1w5</LM>
 </w.rf>
 <form>kuponové</form>
-<tag lemma="kuponový" src="orig" selected="1">AAFS2----1A----</tag>
+<tag>
+<AM lemma="kuponový" src="orig">AAFS2----1A----</AM>
+<AM lemma="kuponový_,s_^(^DD**kupónový)" src="manual" selected="1">AAFS2----1A----</AM>
+</tag>
 </m>
 <m id="m-ln94206-24-p5s1w6">
 <src.rf>manual</src.rf>
@@ -1316,7 +1331,10 @@
 <LM>w#w-ln94206-24-p5s1w14</LM>
 </w.rf>
 <form>milionů</form>
-<tag lemma="milión`1000000" src="orig" selected="1">NNIP2-----A----</tag>
+<tag>
+<AM lemma="milión`1000000" src="orig">NNIP2-----A----</AM>
+<AM lemma="milion`1000000_,s_^(^DD**milión)" src="manual" selected="1">NNIP2-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94206-24-p5s1w15">
 <src.rf>manual</src.rf>
@@ -1526,7 +1544,10 @@
 <LM>w#w-ln94206-24-p5s2w22</LM>
 </w.rf>
 <form>management</form>
-<tag lemma="management_,t_^(vedení,_manažment;_angl.)" src="orig" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="management_,t_^(vedení,_manažment;_angl.)" src="orig">NNIS1-----A----</AM>
+<AM lemma="management_^(vedení,_manažment;_angl.)" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94206-24-p5s2w23">
 <src.rf>manual</src.rf>
@@ -1596,6 +1617,7 @@
 <AM lemma="RIF_;K" src="auto">NNIS4-----A----</AM>
 <AM lemma="rif" src="auto">NNIS1-----A----</AM>
 <AM lemma="rif" src="auto">NNIS4-----A----</AM>
+<AM lemma="RIF-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94206-24-p5s2w31">
@@ -1612,7 +1634,10 @@
 <LM>w#w-ln94206-24-p5s2w32</LM>
 </w.rf>
 <form>NIF</form>
-<tag lemma="NIF-1_:B_;K_^(Nadační_investiční_fond)" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="NIF-1_:B_;K_^(Nadační_investiční_fond)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="NIF-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94206-24-p5s2w33">
 <src.rf>manual</src.rf>
@@ -1848,7 +1873,10 @@
 <LM>w#w-ln94206-24-p5s4w15</LM>
 </w.rf>
 <form>P</form>
-<tag lemma="P-0_:B_;Y" src="orig" selected="1">NNMXX-----A---8</tag>
+<tag>
+<AM lemma="P-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
+<AM lemma="P-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94206-24-p5s4w16">
 <src.rf>manual</src.rf>
@@ -2018,7 +2046,10 @@
 <LM>w#w-ln94206-24-p5s5w11</LM>
 </w.rf>
 <form>milionů</form>
-<tag lemma="milión`1000000" src="orig" selected="1">NNIP2-----A----</tag>
+<tag>
+<AM lemma="milión`1000000" src="orig">NNIP2-----A----</AM>
+<AM lemma="milion`1000000_,s_^(^DD**milión)" src="manual" selected="1">NNIP2-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94206-24-p5s5w12">
 <src.rf>manual</src.rf>
@@ -2066,7 +2097,10 @@
 <LM>w#w-ln94206-24-p5s5w17</LM>
 </w.rf>
 <form>milionů</form>
-<tag lemma="milión`1000000" src="orig" selected="1">NNIP2-----A----</tag>
+<tag>
+<AM lemma="milión`1000000" src="orig">NNIP2-----A----</AM>
+<AM lemma="milion`1000000_,s_^(^DD**milión)" src="manual" selected="1">NNIP2-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94206-24-p5s5w18">
 <src.rf>manual</src.rf>
@@ -2390,7 +2424,10 @@
 <LM>w#w-ln94206-24-p6s2w2</LM>
 </w.rf>
 <form>P</form>
-<tag lemma="P-0_:B_;Y" src="orig" selected="1">NNMXX-----A---8</tag>
+<tag>
+<AM lemma="P-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
+<AM lemma="P-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94206-24-p6s2w3">
 <src.rf>manual</src.rf>
@@ -2448,7 +2485,7 @@
 <form>vůbec</form>
 <tag>
 <AM lemma="vůbec" src="orig">Db-------------</AM>
-<AM lemma="vůbec" src="auto" recommended="1">TT-------------</AM>
+<AM lemma="vůbec" src="auto" recommended="1" selected="1">TT-------------</AM>
 </tag>
 </m>
 <m id="m-ln94206-24-p6s2w10">

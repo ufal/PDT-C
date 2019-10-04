@@ -189,7 +189,10 @@
 <LM>w#w-mf920923-051-p2s1w19</LM>
 </w.rf>
 <form>Bohemians</form>
-<tag lemma="Bohemians_;Y" src="orig" selected="1">NNFSX-----A----</tag>
+<tag>
+<AM lemma="Bohemians_;Y" src="orig">NNFSX-----A----</AM>
+<AM lemma="Bohemians_;K" src="manual" selected="1">NNIXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920923-051-p2s1w20">
 <src.rf>manual</src.rf>
@@ -361,7 +364,10 @@
 <LM>w#w-mf920923-051-p2s3w8</LM>
 </w.rf>
 <form>Bohemians</form>
-<tag lemma="Bohemians_;Y" src="orig" selected="1">NNFSX-----A----</tag>
+<tag>
+<AM lemma="Bohemians_;Y" src="orig">NNFSX-----A----</AM>
+<AM lemma="Bohemians_;K" src="manual" selected="1">NNIXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920923-051-p2s3w9">
 <src.rf>manual</src.rf>

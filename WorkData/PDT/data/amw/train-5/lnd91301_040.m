@@ -67,6 +67,7 @@
 <AM lemma="Vánoce_,x" src="auto">NNFP4-----A----</AM>
 <AM lemma="Vánoce_,x" src="auto">NNFP5-----A----</AM>
 <AM lemma="Vánoce_,x" src="auto">NNFP6-----A---6</AM>
+<AM lemma="vánoce_,i_^(^DS**Vánoce)" src="manual" selected="1">NNFP1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd91301-040-p2s1Aw3">
@@ -91,7 +92,10 @@
 <LM>w#w-lnd91301-040-p2s1Aw5</LM>
 </w.rf>
 <form>mlp</form>
-<tag lemma="mlp-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="mlp-99_:B_;S" src="orig">NNXXX-----A---8</AM>
+<AM lemma="mlp-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd91301-040-p2s1Aw6">
 <src.rf>manual</src.rf>
@@ -131,6 +135,7 @@
 <AM lemma="Vánoce_,x" src="auto" recommended="1">NNFP4-----A----</AM>
 <AM lemma="Vánoce_,x" src="auto">NNFP5-----A----</AM>
 <AM lemma="Vánoce_,x" src="auto">NNFP6-----A---6</AM>
+<AM lemma="vánoce_,i_^(^DS**Vánoce)" src="manual" selected="1">NNFP4-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd91301-040-p2s1Bw3">
@@ -261,7 +266,10 @@
 <LM>w#w-lnd91301-040-p2s2w5</LM>
 </w.rf>
 <form>sice</form>
-<tag lemma="sice-2" src="auto" selected="1">Db-------------</tag>
+<tag>
+<AM lemma="sice-2" src="auto">Db-------------</AM>
+<AM lemma="sice-1_^(spojka;_připouští_se_určitá_fakta)" src="manual" selected="1">J^-------------</AM>
+</tag>
 </m>
 <m id="m-lnd91301-040-p2s2w6">
 <src.rf>manual</src.rf>
@@ -755,7 +763,7 @@
 <form>kteroukoli</form>
 <tag>
 <AM lemma="kterýkoliv" src="orig">PZFS4---------1</AM>
-<AM lemma="kterýkoli" src="auto" recommended="1">PZFS4----------</AM>
+<AM lemma="kterýkoli" src="auto" recommended="1" selected="1">PZFS4----------</AM>
 <AM lemma="kterýkoli" src="auto">PZFS7----------</AM>
 </tag>
 </m>

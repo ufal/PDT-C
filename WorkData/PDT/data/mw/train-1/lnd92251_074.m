@@ -159,7 +159,10 @@
 <LM>w#w-lnd92251-074-p3s1w10</LM>
 </w.rf>
 <form>FITESU</form>
-<tag lemma="FITES_:B_;K" src="orig" selected="1">NNIS2-----A----</tag>
+<tag>
+<AM lemma="FITES_:B_;K" src="orig">NNIS2-----A----</AM>
+<AM lemma="FITESU-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd92251-074-p3s1w11">
 <src.rf>manual</src.rf>
@@ -167,7 +170,10 @@
 <LM>w#w-lnd92251-074-p3s1w11</LM>
 </w.rf>
 <form>začal</form>
-<tag lemma="začít-1_^(začnout)" src="auto" selected="1">VpYS---XR-AA---</tag>
+<tag>
+<AM lemma="začít-1_^(začnout)" src="auto">VpYS---XR-AA---</AM>
+<AM lemma="začít-1_^(začnout)_:W" src="manual" selected="1">VpYS---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-lnd92251-074-p3s1w12">
 <src.rf>manual</src.rf>
@@ -720,7 +726,7 @@
 <form>ovšem</form>
 <tag>
 <AM lemma="ovšem-1_^(avšak,_však;_odporovací_spojka)" src="orig">J^-------------</AM>
-<AM lemma="ovšem" src="auto" recommended="1">TT-------------</AM>
+<AM lemma="ovšem" src="auto" recommended="1" selected="1">TT-------------</AM>
 </tag>
 </m>
 <m id="m-lnd92251-074-p4s2w9">
@@ -745,7 +751,10 @@
 <LM>w#w-lnd92251-074-p4s2w11</LM>
 </w.rf>
 <form>zaznělo</form>
-<tag lemma="zaznít" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag>
+<AM lemma="zaznít" src="orig">VpNS---XR-AA---</AM>
+<AM lemma="zaznít_:W" src="manual" selected="1">VpNS---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-lnd92251-074-p4s2w12">
 <src.rf>manual</src.rf>
@@ -963,7 +972,10 @@
 <LM>w#w-lnd92251-074-p4s3w11</LM>
 </w.rf>
 <form>mít</form>
-<tag lemma="mít" src="orig" selected="1">Vf--------A----</tag>
+<tag>
+<AM lemma="mít" src="orig">Vf--------A----</AM>
+<AM lemma="mít_:T" src="manual" selected="1">Vf--------A----</AM>
+</tag>
 </m>
 <m id="m-lnd92251-074-p4s3w12">
 <src.rf>manual</src.rf>
@@ -1147,6 +1159,7 @@
 <AM lemma="potenciální_,x" src="auto">AAIP7----1A----</AM>
 <AM lemma="potenciální_,x" src="auto" recommended="1">AAMP7----1A----</AM>
 <AM lemma="potenciální_,x" src="auto">AANP7----1A----</AM>
+<AM lemma="potencionální_,s_^(^DD**potenciální)" src="manual" selected="1">AAMP7----1A----</AM>
 </tag>
 </m>
 <m id="m-lnd92251-074-p4s4w12">
@@ -1303,7 +1316,7 @@
 <form>ovšem</form>
 <tag>
 <AM lemma="ovšem-1_^(avšak,_však;_odporovací_spojka)" src="orig">J^-------------</AM>
-<AM lemma="ovšem" src="auto" recommended="1">TT-------------</AM>
+<AM lemma="ovšem" src="auto" recommended="1" selected="1">TT-------------</AM>
 </tag>
 </m>
 <m id="m-lnd92251-074-p4s5w4">
@@ -1618,6 +1631,7 @@
 <AM lemma="luk" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="luk" src="auto">NNIS4-----A----</AM>
 <AM lemma="luka" src="auto">NNNP2-----A----</AM>
+<AM lemma="luk-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92251-074-p5s1w3">

@@ -505,7 +505,10 @@
 <LM>w#w-ln95045-087-p2s2w6</LM>
 </w.rf>
 <form>LB</form>
-<tag lemma="LB-1_:B_;K_;p_^(Levý_Blok)" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="LB-1_:B_;K_;p_^(Levý_Blok)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="LB-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln95045-087-p2s2w7">
 <src.rf>manual</src.rf>
@@ -813,7 +816,10 @@
 <LM>w#w-ln95045-087-p4s1w15</LM>
 </w.rf>
 <form>ODA</form>
-<tag lemma="ODA-2_:B_;K_;p_^(Občanská_demokratická_aliance)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ODA-2_:B_;K_;p_^(Občanská_demokratická_aliance)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ODA-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln95045-087-p4s1w16">
 <src.rf>manual</src.rf>
@@ -877,7 +883,10 @@
 <LM>w#w-ln95045-087-p4s1w23</LM>
 </w.rf>
 <form>ODS</form>
-<tag lemma="ODS-1_:B_;K_;p_^(Občanská_demokratická_strana)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ODS-1_:B_;K_;p_^(Občanská_demokratická_strana)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ODS-1_:B_;K_^(Občanská_demokratická_strana)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95045-087-p4s1w24">
 <src.rf>manual</src.rf>
@@ -941,7 +950,10 @@
 <LM>w#w-ln95045-087-p4s1w31</LM>
 </w.rf>
 <form>ODS</form>
-<tag lemma="ODS-1_:B_;K_;p_^(Občanská_demokratická_strana)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ODS-1_:B_;K_;p_^(Občanská_demokratická_strana)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ODS-1_:B_;K_^(Občanská_demokratická_strana)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95045-087-p4s1w32">
 <src.rf>manual</src.rf>

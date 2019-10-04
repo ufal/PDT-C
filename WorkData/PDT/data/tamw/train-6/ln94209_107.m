@@ -151,7 +151,10 @@
 <LM>w#w-ln94209-107-p2s1Bw3</LM>
 </w.rf>
 <form>konkurzní</form>
-<tag lemma="konkursní_^(týkající_se_úpadku,_soutěže)" src="auto" selected="1">AANS1----1A----</tag>
+<tag>
+<AM lemma="konkursní_^(týkající_se_úpadku,_soutěže)" src="auto">AANS1----1A----</AM>
+<AM lemma="konkurzní_^(týkající_se_úpadku,_soutěže)" src="manual" selected="1">AANS1----1A----</AM>
+</tag>
 </m>
 <m id="m-ln94209-107-p2s1Bw4">
 <src.rf>manual</src.rf>
@@ -403,7 +406,11 @@
 <LM>w#w-ln94209-107-p3s1w9</LM>
 </w.rf>
 <form>konkurzu</form>
-<tag lemma="konkurs_^(úpadek;;soutěž)" src="auto" selected="1">NNIS2-----A----</tag>
+<tag>
+<AM lemma="konkurs_^(úpadek;;soutěž)" src="auto">NNIS2-----A----</AM>
+<AM lemma="konkur_^(úpadek;;soutěž)" src="manual">NNIS2-----A----</AM>
+<AM lemma="konkurz_^(úpadek;;soutěž)" src="manual" selected="1">NNIS2-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94209-107-p3s1w10">
 <src.rf>manual</src.rf>
@@ -501,7 +508,10 @@
 <LM>w#w-ln94209-107-p4s1w6</LM>
 </w.rf>
 <form>začal</form>
-<tag lemma="začít-1_^(začnout)" src="auto" selected="1">VpYS---XR-AA---</tag>
+<tag>
+<AM lemma="začít-1_^(začnout)" src="auto">VpYS---XR-AA---</AM>
+<AM lemma="začít-1_:W_^(začnout)" src="manual" selected="1">VpYS---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-ln94209-107-p4s1w7">
 <src.rf>manual</src.rf>
@@ -597,7 +607,10 @@
 <LM>w#w-ln94209-107-p4s1w18</LM>
 </w.rf>
 <form>konkurzu</form>
-<tag lemma="konkurs_^(úpadek;;soutěž)" src="auto" selected="1">NNIS2-----A----</tag>
+<tag>
+<AM lemma="konkurs_^(úpadek;;soutěž)" src="auto">NNIS2-----A----</AM>
+<AM lemma="konkurz_^(úpadek;;soutěž)" src="manual" selected="1">NNIS2-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94209-107-p4s1w19">
 <src.rf>manual</src.rf>
@@ -703,7 +716,10 @@
 <LM>w#w-ln94209-107-p4s2w12</LM>
 </w.rf>
 <form>konkurzních</form>
-<tag lemma="konkursní_^(týkající_se_úpadku,_soutěže)" src="auto" selected="1">AANP2----1A----</tag>
+<tag>
+<AM lemma="konkursní_^(týkající_se_úpadku,_soutěže)" src="auto">AANP2----1A----</AM>
+<AM lemma="konkurzní_^(týkající_se_úpadku,_soutěže)" src="manual" selected="1">AANP2----1A----</AM>
+</tag>
 </m>
 <m id="m-ln94209-107-p4s2w13">
 <src.rf>manual</src.rf>
@@ -1045,7 +1061,10 @@
 <LM>w#w-ln94209-107-p6s1w10</LM>
 </w.rf>
 <form>řekl</form>
-<tag lemma="říci" src="auto" selected="1">VpYS---XR-AA---</tag>
+<tag>
+<AM lemma="říci" src="auto">VpYS---XR-AA---</AM>
+<AM lemma="říci_:W" src="manual" selected="1">VpYS---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-ln94209-107-p6s1w11">
 <src.rf>manual</src.rf>
@@ -1109,7 +1128,11 @@
 <LM>w#w-ln94209-107-p6s1w18</LM>
 </w.rf>
 <form>nezkušenost</form>
-<tag lemma="nezkušenost" src="auto" selected="1">NNFS1-----A----</tag>
+<tag>
+<AM lemma="nezkušenost" src="auto">NNFS1-----A----</AM>
+<AM lemma="	zkušenost_^(*3ý)" src="manual">NNFS1-----N----</AM>
+<AM lemma="zkušenost_^(*3ý)" src="manual" selected="1">NNFS1-----N----</AM>
+</tag>
 </m>
 <m id="m-ln94209-107-p6s1w19">
 <src.rf>manual</src.rf>
@@ -1305,7 +1328,10 @@
 <LM>w#w-ln94209-107-p7s1w9</LM>
 </w.rf>
 <form>konkurzu</form>
-<tag lemma="konkurs_^(úpadek;;soutěž)" src="auto" selected="1">NNIS6-----A---1</tag>
+<tag>
+<AM lemma="konkurs_^(úpadek;;soutěž)" src="auto">NNIS6-----A---1</AM>
+<AM lemma="konkurz_^(úpadek;;soutěž)" src="manual" selected="1">NNIS6-----A---1</AM>
+</tag>
 </m>
 <m id="m-ln94209-107-p7s1w10">
 <src.rf>manual</src.rf>
@@ -1411,7 +1437,10 @@
 <LM>w#w-ln94209-107-p7s2w2</LM>
 </w.rf>
 <form>konkurzním</form>
-<tag lemma="konkursní_^(týkající_se_úpadku,_soutěže)" src="auto" selected="1">AANS6----1A----</tag>
+<tag>
+<AM lemma="konkursní_^(týkající_se_úpadku,_soutěže)" src="auto">AANS6----1A----</AM>
+<AM lemma="konkurzní_^(týkající_se_úpadku,_soutěže)" src="manual" selected="1">AANS6----1A----</AM>
+</tag>
 </m>
 <m id="m-ln94209-107-p7s2w3">
 <src.rf>manual</src.rf>
@@ -1429,7 +1458,7 @@
 <form>totiž</form>
 <tag>
 <AM lemma="totiž" src="orig">Db-------------</AM>
-<AM lemma="totiž-1" src="auto" recommended="1">J^-------------</AM>
+<AM lemma="totiž-1" src="auto" recommended="1" selected="1">J^-------------</AM>
 <AM lemma="totiž-2" src="auto">TT-------------</AM>
 </tag>
 </m>
@@ -1535,7 +1564,10 @@
 <LM>w#w-ln94209-107-p7s2w17</LM>
 </w.rf>
 <form>konkurzu</form>
-<tag lemma="konkurs_^(úpadek;;soutěž)" src="auto" selected="1">NNIS6-----A---1</tag>
+<tag>
+<AM lemma="konkurs_^(úpadek;;soutěž)" src="auto">NNIS6-----A---1</AM>
+<AM lemma="konkurz_^(úpadek;;soutěž)" src="manual" selected="1">NNIS6-----A---1</AM>
+</tag>
 </m>
 <m id="m-ln94209-107-p7s2w18">
 <src.rf>manual</src.rf>
@@ -1883,7 +1915,10 @@
 <LM>w#w-ln94209-107-p9s1w21</LM>
 </w.rf>
 <form>konkurzu</form>
-<tag lemma="konkurs_^(úpadek;;soutěž)" src="auto" selected="1">NNIS6-----A---1</tag>
+<tag>
+<AM lemma="konkurs_^(úpadek;;soutěž)" src="auto">NNIS6-----A---1</AM>
+<AM lemma="konkurz_^(úpadek;;soutěž)" src="manual" selected="1">NNIS6-----A---1</AM>
+</tag>
 </m>
 <m id="m-ln94209-107-p9s1w22">
 <src.rf>manual</src.rf>

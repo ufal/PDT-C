@@ -173,7 +173,10 @@
 <LM>w#w-ln95049-031-p2s1w14</LM>
 </w.rf>
 <form>ani</form>
-<tag lemma="ani-1" src="auto" selected="1">J^-------------</tag>
+<tag>
+<AM lemma="ani-1" src="auto">J^-------------</AM>
+<AM lemma="ani-2" src="manual" selected="1">TT-------------</AM>
+</tag>
 </m>
 <m id="m-ln95049-031-p2s1w15">
 <src.rf>manual</src.rf>
@@ -725,7 +728,10 @@
 <LM>w#w-ln95049-031-p2s5w15</LM>
 </w.rf>
 <form>PVP</form>
-<tag lemma="PVP-2_:B_;m_^(Pohár_výherců_pohárů)" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="PVP-2_:B_;m_^(Pohár_výherců_pohárů)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="PVP-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln95049-031-p2s5w16">
 <src.rf>manual</src.rf>
@@ -1308,7 +1314,10 @@
 <LM>w#w-ln95049-031-p2s8w7</LM>
 </w.rf>
 <form>jen</form>
-<tag lemma="jen-1" src="auto" selected="1">TT-------------</tag>
+<tag>
+<AM lemma="jen-1" src="auto">TT-------------</AM>
+<AM lemma="jen-4_^(pouze)" src="manual" selected="1">Db-------------</AM>
+</tag>
 </m>
 <m id="m-ln95049-031-p2s8w8">
 <src.rf>manual</src.rf>
@@ -1821,7 +1830,10 @@
 <LM>w#w-ln95049-031-p3s1w4</LM>
 </w.rf>
 <form>hodně</form>
-<tag lemma="hodně-2_^(nezlobivý)_(*3ý-2)" src="auto" selected="1">Dg-------1A----</tag>
+<tag>
+<AM lemma="hodně-2_^(nezlobivý)_(*3ý-2)" src="auto">Dg-------1A----</AM>
+<AM lemma="hodně-3" src="manual" selected="1">Dg-------1A----</AM>
+</tag>
 </m>
 <m id="m-ln95049-031-p3s1w5">
 <src.rf>manual</src.rf>
@@ -1943,7 +1955,10 @@
 <LM>w#w-ln95049-031-p3s2w11</LM>
 </w.rf>
 <form>jen</form>
-<tag lemma="jen-1" src="auto" selected="1">TT-------------</tag>
+<tag>
+<AM lemma="jen-1" src="auto">TT-------------</AM>
+<AM lemma="jen-4_^(pouze)" src="manual" selected="1">Db-------------</AM>
+</tag>
 </m>
 <m id="m-ln95049-031-p3s2w12">
 <src.rf>manual</src.rf>
@@ -2147,7 +2162,10 @@
 <LM>w#w-ln95049-031-p3s4w14</LM>
 </w.rf>
 <form>play</form>
-<tag lemma="play-1_,t" src="orig" selected="1">NNFXX-----A----</tag>
+<tag>
+<AM lemma="play-1_,t" src="orig">NNFXX-----A----</AM>
+<AM lemma="play-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln95049-031-p3s4w15">
 <src.rf>manual</src.rf>
@@ -2155,7 +2173,10 @@
 <LM>w#w-ln95049-031-p3s4w15</LM>
 </w.rf>
 <form>off</form>
-<tag lemma="off-1_,t_^(angl._&quot;vypnuto&quot;,_hlavně_souč._názvů)" src="orig" selected="1">TT-------------</tag>
+<tag>
+<AM lemma="off-1_,t_^(angl._&quot;vypnuto&quot;,_hlavně_souč._názvů)" src="orig">TT-------------</AM>
+<AM lemma="off-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln95049-031-p3s4w16">
 <src.rf>manual</src.rf>
@@ -2203,7 +2224,10 @@
 <LM>w#w-ln95049-031-p3s4w21</LM>
 </w.rf>
 <form>ČR</form>
-<tag lemma="ČR-1_:B_;G_^(Česká_republika)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95049-031-p3s4w22">
 <src.rf>manual</src.rf>
@@ -2473,7 +2497,10 @@
 <LM>w#w-ln95049-031-p3s7w10</LM>
 </w.rf>
 <form>PVP</form>
-<tag lemma="PVP-2_:B_;m_^(Pohár_výherců_pohárů)" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="PVP-2_:B_;m_^(Pohár_výherců_pohárů)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="PVP-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln95049-031-p3s7w11">
 <src.rf>manual</src.rf>

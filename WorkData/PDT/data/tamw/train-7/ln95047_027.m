@@ -43,7 +43,10 @@
 <LM>w#w-ln95047-027-p1s1w4</LM>
 </w.rf>
 <form>Sportprague</form>
-<tag lemma="Sportprague_;m_,t" src="orig" selected="1">NNFXX-----A----</tag>
+<tag>
+<AM lemma="Sportprague_;m_,t" src="orig">NNFXX-----A----</AM>
+<AM lemma="Sportprague_;m" src="manual" selected="1">NNFXX-----A----</AM>
+</tag>
 </m>
 </s>
 <s id="m-ln95047-027-p2s1A">
@@ -159,7 +162,10 @@
 <LM>w#w-ln95047-027-p2s1Bw12</LM>
 </w.rf>
 <form>Sportprague</form>
-<tag lemma="Sportprague_;m_,t" src="orig" selected="1">NNFXX-----A----</tag>
+<tag>
+<AM lemma="Sportprague_;m_,t" src="orig">NNFXX-----A----</AM>
+<AM lemma="Sportprague_;m" src="manual" selected="1">NNFXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95047-027-p2s1Bw13">
 <src.rf>manual</src.rf>
@@ -275,6 +281,7 @@
 <AM lemma="mimo-1_:B" src="auto">RR--4---------8</AM>
 <AM lemma="minuta_:B" src="auto">NNFXX-----A---8</AM>
 <AM lemma="město_:B" src="auto">NNNXX-----A---8</AM>
+<AM lemma="metr" src="manual" selected="1">NNIXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-ln95047-027-p2s2w13">
@@ -291,7 +298,10 @@
 <LM>w#w-ln95047-027-p2s2w14</LM>
 </w.rf>
 <form>stal</form>
-<tag lemma="stát-2_^(něco_se_přihodilo)" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag>
+<AM lemma="stát-2_^(něco_se_přihodilo)" src="orig">VpYS---XR-AA---</AM>
+<AM lemma="stát-2_^(stanu_staneš)" src="manual" selected="1">VpYS---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-ln95047-027-p2s2w15">
 <src.rf>manual</src.rf>
@@ -811,7 +821,7 @@
 <form>totiž</form>
 <tag>
 <AM lemma="totiž" src="orig">Db-------------</AM>
-<AM lemma="totiž-1" src="auto" recommended="1">J^-------------</AM>
+<AM lemma="totiž-1" src="auto" recommended="1" selected="1">J^-------------</AM>
 <AM lemma="totiž-2" src="auto">TT-------------</AM>
 </tag>
 </m>
@@ -933,7 +943,10 @@
 <LM>w#w-ln95047-027-p3s3w18</LM>
 </w.rf>
 <form>dostal</form>
-<tag lemma="dostat" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag>
+<AM lemma="dostat" src="orig">VpYS---XR-AA---</AM>
+<AM lemma="dostat_:W" src="manual" selected="1">VpYS---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-ln95047-027-p3s3w19">
 <src.rf>manual</src.rf>
@@ -943,7 +956,7 @@
 <form>kdokoliv</form>
 <tag>
 <AM lemma="kdokoliv" src="orig">PZM-1----------</AM>
-<AM lemma="kdokoli" src="auto">PZM-1---------1</AM>
+<AM lemma="kdokoli" src="auto" selected="1">PZM-1---------1</AM>
 <AM lemma="kdokoli" src="auto" recommended="1">PZM-5---------1</AM>
 </tag>
 </m>

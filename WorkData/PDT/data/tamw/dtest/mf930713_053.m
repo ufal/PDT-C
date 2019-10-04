@@ -59,7 +59,10 @@
 <LM>w#w-mf930713-053-p1s1Aw6</LM>
 </w.rf>
 <form>miliony</form>
-<tag lemma="milión`1000000" src="orig" selected="1">NNIP4-----A----</tag>
+<tag>
+<AM lemma="milión`1000000" src="orig">NNIP4-----A----</AM>
+<AM lemma="milion`1000000_,s_^(^DD**milión)" src="manual" selected="1">NNIP4-----A----</AM>
+</tag>
 </m>
 </s>
 <s id="m-mf930713-053-p1s1D">
@@ -152,7 +155,10 @@
 <LM>w#w-mf930713-053-p1s1Bw11</LM>
 </w.rf>
 <form>Artforum</form>
-<tag lemma="Artforum_;Y" src="orig" selected="1">NNNS1-----A----</tag>
+<tag>
+<AM lemma="Artforum_;Y" src="orig">NNNS1-----A----</AM>
+<AM lemma="Artforum_;K" src="manual" selected="1">NNNS1-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930713-053-p1s1Bw12">
 <src.rf>manual</src.rf>
@@ -426,7 +432,10 @@
 <LM>w#w-mf930713-053-p1s2w10</LM>
 </w.rf>
 <form>milionů</form>
-<tag lemma="milión`1000000" src="orig" selected="1">NNIP2-----A----</tag>
+<tag>
+<AM lemma="milión`1000000" src="orig">NNIP2-----A----</AM>
+<AM lemma="milion`1000000_,s_^(^DD**milión)" src="manual" selected="1">NNIP2-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930713-053-p1s2w11">
 <src.rf>manual</src.rf>
@@ -614,7 +623,10 @@
 <LM>w#w-mf930713-053-p2s1w1</LM>
 </w.rf>
 <form>Přijede</form>
-<tag lemma="přijet" src="auto" selected="1">VB-S---3P-AA---</tag>
+<tag>
+<AM lemma="přijet" src="auto">VB-S---3P-AA---</AM>
+<AM lemma="přijet_:W" src="manual" selected="1">VB-S---3P-AA---</AM>
+</tag>
 </m>
 <m id="m-mf930713-053-p2s1w2">
 <src.rf>manual</src.rf>
@@ -1015,7 +1027,10 @@
 <LM>w#w-mf930713-053-p2s4w8</LM>
 </w.rf>
 <form>řekl</form>
-<tag lemma="říci" src="auto" selected="1">VpYS---XR-AA---</tag>
+<tag>
+<AM lemma="říci" src="auto">VpYS---XR-AA---</AM>
+<AM lemma="říci_:W" src="manual" selected="1">VpYS---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-mf930713-053-p2s4w9">
 <src.rf>manual</src.rf>
@@ -1143,7 +1158,10 @@
 <LM>w#w-mf930713-053-p2s4w24</LM>
 </w.rf>
 <form>přijede</form>
-<tag lemma="přijet" src="auto" selected="1">VB-S---3P-AA---</tag>
+<tag>
+<AM lemma="přijet" src="auto">VB-S---3P-AA---</AM>
+<AM lemma="přijet_:W" src="manual" selected="1">VB-S---3P-AA---</AM>
+</tag>
 </m>
 <m id="m-mf930713-053-p2s4w25">
 <src.rf>manual</src.rf>

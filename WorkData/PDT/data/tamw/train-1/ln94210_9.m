@@ -127,7 +127,10 @@
 <LM>w#w-ln94210-9-p2s1Bw8</LM>
 </w.rf>
 <form>ČD</form>
-<tag lemma="ČD_:B_;K_^(České_dráhy)" src="orig" selected="1">NNFPX-----A---8</tag>
+<tag>
+<AM lemma="ČD_:B_;K_^(České_dráhy)" src="orig">NNFPX-----A---8</AM>
+<AM lemma="ČD_:B_;K_^(České_dráhy)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94210-9-p2s1Bw9">
 <src.rf>manual</src.rf>
@@ -337,7 +340,10 @@
 <LM>w#w-ln94210-9-p2s2w7</LM>
 </w.rf>
 <form>ČD</form>
-<tag lemma="ČD_:B_;K_^(České_dráhy)" src="orig" selected="1">NNFPX-----A---8</tag>
+<tag>
+<AM lemma="ČD_:B_;K_^(České_dráhy)" src="orig">NNFPX-----A---8</AM>
+<AM lemma="ČD_:B_;K_^(České_dráhy)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94210-9-p2s2w8">
 <src.rf>manual</src.rf>
@@ -573,7 +579,10 @@
 <LM>w#w-ln94210-9-p3s1w4</LM>
 </w.rf>
 <form>např</form>
-<tag lemma="například_:B" src="orig" selected="1">Db------------8</tag>
+<tag>
+<AM lemma="například_:B" src="orig">Db------------8</AM>
+<AM lemma="například" src="manual" selected="1">Db------------8</AM>
+</tag>
 </m>
 <m id="m-ln94210-9-p3s1w5">
 <src.rf>manual</src.rf>
@@ -1303,7 +1312,7 @@
 <form>ovšem</form>
 <tag>
 <AM lemma="ovšem-1_^(avšak,_však;_odporovací_spojka)" src="orig">J^-------------</AM>
-<AM lemma="ovšem" src="auto" recommended="1">TT-------------</AM>
+<AM lemma="ovšem" src="auto" recommended="1" selected="1">TT-------------</AM>
 </tag>
 </m>
 <m id="m-ln94210-9-p5s3w4">
@@ -1662,7 +1671,10 @@
 <LM>w#w-ln94210-9-p6s3w1</LM>
 </w.rf>
 <form>ČD</form>
-<tag lemma="ČD_:B_;K_^(České_dráhy)" src="orig" selected="1">NNFPX-----A---8</tag>
+<tag>
+<AM lemma="ČD_:B_;K_^(České_dráhy)" src="orig">NNFPX-----A---8</AM>
+<AM lemma="ČD_:B_;K_^(České_dráhy)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94210-9-p6s3w2">
 <src.rf>manual</src.rf>
@@ -1872,7 +1884,10 @@
 <LM>w#w-ln94210-9-p6s4w6</LM>
 </w.rf>
 <form>J</form>
-<tag lemma="J-0_:B_;Y" src="orig" selected="1">NNMXX-----A---8</tag>
+<tag>
+<AM lemma="J-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
+<AM lemma="J-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94210-9-p6s4w7">
 <src.rf>manual</src.rf>
@@ -1962,7 +1977,10 @@
 <LM>w#w-ln94210-9-p7s1w4</LM>
 </w.rf>
 <form>ČD</form>
-<tag lemma="ČD_:B_;K_^(České_dráhy)" src="orig" selected="1">NNFPX-----A---8</tag>
+<tag>
+<AM lemma="ČD_:B_;K_^(České_dráhy)" src="orig">NNFPX-----A---8</AM>
+<AM lemma="ČD_:B_;K_^(České_dráhy)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94210-9-p7s1w5">
 <src.rf>manual</src.rf>

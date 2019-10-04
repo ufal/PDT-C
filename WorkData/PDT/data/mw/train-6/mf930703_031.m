@@ -72,6 +72,7 @@
 <tag>
 <AM lemma="vl-99_:B_;S" src="orig">NNXXX-----A---8</AM>
 <AM lemma="vládní_:B" src="auto" recommended="1">AAXXX----1A---8</AM>
+<AM lemma="vl-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930703-031-p2s1w4">
@@ -462,7 +463,10 @@
 <LM>w#w-mf930703-031-p2s4w1</LM>
 </w.rf>
 <form>Více</form>
-<tag lemma="hodně-2" src="auto" selected="1">Dg-------2A----</tag>
+<tag>
+<AM lemma="hodně-2" src="auto">Dg-------2A----</AM>
+<AM lemma="hodně-3" src="manual" selected="1">Dg-------2A----</AM>
+</tag>
 </m>
 <m id="m-mf930703-031-p2s4w2">
 <src.rf>manual</src.rf>

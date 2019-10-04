@@ -189,7 +189,10 @@
 <LM>w#w-ln95041-046-p2s1w13</LM>
 </w.rf>
 <form>sci</form>
-<tag lemma="science-2_:B_,t_^(angl._vědecký)" src="orig" selected="1">AAXXX----1A---8</tag>
+<tag>
+<AM lemma="science-2_:B_,t_^(angl._vědecký)" src="orig">AAXXX----1A---8</AM>
+<AM lemma="sci-1_^(jen_ve_spojení_sci-fi)" src="manual" selected="1">A2--------A----</AM>
+</tag>
 </m>
 <m id="m-ln95041-046-p2s1w14">
 <src.rf>manual</src.rf>
@@ -209,6 +212,7 @@
 <AM lemma="fiction-1_:B_,t_^(angl._fantastický,_sci-fi)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="fi-1" src="auto">II-------------</AM>
 <AM lemma="fi-2_:B_,t_^(fiction,_angl._fantastický,_sci-fi)" src="auto" recommended="1">NNFXX-----A---8</AM>
+<AM lemma="fi-2_^(jen_ve_spojení_sci-fi)" src="manual" selected="1">NNFXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95041-046-p2s1w16">
@@ -269,7 +273,7 @@
 <form>Ačkoli</form>
 <tag>
 <AM lemma="ačkoliv" src="orig">J,------------1</AM>
-<AM lemma="ačkoli" src="auto" recommended="1">J,-------------</AM>
+<AM lemma="ačkoli" src="auto" recommended="1" selected="1">J,-------------</AM>
 </tag>
 </m>
 <m id="m-ln95041-046-p2s2w2">
@@ -811,6 +815,7 @@
 <tag>
 <AM lemma="VAC_:B_;K" src="orig">NNXXX-----A---8</AM>
 <AM lemma="VAC-1_:B_,t_^(volts_alternating_current)" src="auto" recommended="1">NNFXX-----A---8</AM>
+<AM lemma="VAC-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-ln95041-046-p2s3w6">
@@ -1239,7 +1244,10 @@
 <LM>w#w-ln95041-046-p3s2w29</LM>
 </w.rf>
 <form>road</form>
-<tag lemma="road_,t" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="road_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="road-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln95041-046-p3s2w30">
 <src.rf>manual</src.rf>
@@ -1255,7 +1263,10 @@
 <LM>w#w-ln95041-046-p3s2w31</LM>
 </w.rf>
 <form>movie</form>
-<tag lemma="movie_,t" src="orig" selected="1">NNNXX-----A----</tag>
+<tag>
+<AM lemma="movie_,t" src="orig">NNNXX-----A----</AM>
+<AM lemma="movie-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln95041-046-p3s2w32">
 <src.rf>manual</src.rf>
@@ -1693,7 +1704,10 @@
 <LM>w#w-ln95041-046-p5s1w1</LM>
 </w.rf>
 <form>Ani</form>
-<tag lemma="ani-1" src="auto" selected="1">J^-------------</tag>
+<tag>
+<AM lemma="ani-1" src="auto">J^-------------</AM>
+<AM lemma="ani-2" src="manual" selected="1">TT-------------</AM>
+</tag>
 </m>
 <m id="m-ln95041-046-p5s1w2">
 <src.rf>manual</src.rf>
@@ -2009,6 +2023,7 @@
 <AM lemma="ZOO_:B" src="orig">NNNXX-----A---8</AM>
 <AM lemma="ZOO_:B" src="auto">NNFXX-----A----</AM>
 <AM lemma="ZOO_:B" src="auto" recommended="1">NNNXX-----A----</AM>
+<AM lemma="zoo-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-ln95041-046-p5s1w41">

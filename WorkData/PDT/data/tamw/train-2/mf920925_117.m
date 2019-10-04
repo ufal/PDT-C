@@ -101,6 +101,8 @@
 <AM lemma="rosa" src="auto">NNFP2-----A----</AM>
 <AM lemma="rosit" src="auto">Vi-S---2--A----</AM>
 <AM lemma="rosit" src="auto">Vi-S---3--A---4</AM>
+<AM lemma="ROS_:B" src="manual">NNXXX-----A---8</AM>
+<AM lemma="ROS-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920925-117-p3s1w8">
@@ -327,7 +329,10 @@
 <LM>w#w-mf920925-117-p3s2w5</LM>
 </w.rf>
 <form>ODS</form>
-<tag lemma="ODS-1_:B_;K_;p_^(Občanská_demokratická_strana)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ODS-1_:B_;K_;p_^(Občanská_demokratická_strana)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ODS-1_:B_;K_^(Občanská_demokratická_strana)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920925-117-p3s2w6">
 <src.rf>manual</src.rf>
@@ -343,7 +348,10 @@
 <LM>w#w-mf920925-117-p3s2w7</LM>
 </w.rf>
 <form>HZDS</form>
-<tag lemma="HZDS-1_:B_;K_;p_,t_^(Hnutie_za_demokratické_Slovensko)" src="orig" selected="1">NNNXX-----A---8</tag>
+<tag>
+<AM lemma="HZDS-1_:B_;K_;p_,t_^(Hnutie_za_demokratické_Slovensko)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="HZDS-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920925-117-p3s2w8">
 <src.rf>manual</src.rf>
@@ -497,6 +505,7 @@
 <AM lemma="dvůr_^(u_domu)" src="orig">NNIS2-----A----</AM>
 <AM lemma="dvůr_^(u_domu)" src="auto">NNIS3-----A----</AM>
 <AM lemma="dvůr_^(u_domu)" src="auto" recommended="1">NNIS6-----A---1</AM>
+<AM lemma="dvůr_^(u_domu)" src="manual" selected="1">NNIS2-----A---1</AM>
 </tag>
 </m>
 <m id="m-mf920925-117-p5s1w9">
@@ -569,7 +578,10 @@
 <LM>w#w-mf920925-117-p5s1w17</LM>
 </w.rf>
 <form>Antall</form>
-<tag lemma="Antall_;Y" src="orig" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Antall_;Y" src="orig">NNMS1-----A----</AM>
+<AM lemma="Antall_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920925-117-p5s1w18">
 <src.rf>manual</src.rf>
@@ -593,7 +605,10 @@
 <LM>w#w-mf920925-117-p5s1w20</LM>
 </w.rf>
 <form>čs</form>
-<tag lemma="československý_:B" src="orig" selected="1">AAXXX----1A---8</tag>
+<tag>
+<AM lemma="československý_:B" src="orig">AAXXX----1A---8</AM>
+<AM lemma="československý" src="manual" selected="1">AAXXX----1A---8</AM>
+</tag>
 </m>
 <m id="m-mf920925-117-p5s1w21">
 <src.rf>manual</src.rf>
@@ -691,7 +706,10 @@
 <LM>w#w-mf920925-117-p5s2w5</LM>
 </w.rf>
 <form>Voloďovi</form>
-<tag lemma="Voloďa_;Y_,t" src="auto" selected="1">NNMS3-----A----</tag>
+<tag>
+<AM lemma="Voloďa_;Y_,t" src="auto">NNMS3-----A----</AM>
+<AM lemma="Voloďa_;S_;Y" src="manual" selected="1">NNMS3-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920925-117-p5s2w6">
 <src.rf>manual</src.rf>
@@ -791,7 +809,10 @@
 <LM>w#w-mf920925-117-p7s1w9</LM>
 </w.rf>
 <form>Lúč</form>
-<tag lemma="Lúč_;R_,t" src="orig" selected="1">NNFS1-----A----</tag>
+<tag>
+<AM lemma="Lúč_;R_,t" src="orig">NNFS1-----A----</AM>
+<AM lemma="Lúč-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-mf920925-117-p7s1w10">
 <src.rf>manual</src.rf>
@@ -953,7 +974,10 @@
 <LM>w#w-mf920925-117-p7s2w15</LM>
 </w.rf>
 <form>V</form>
-<tag lemma="V-0_:B_;Y" src="orig" selected="1">NNMXX-----A---8</tag>
+<tag>
+<AM lemma="V-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
+<AM lemma="V-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920925-117-p7s2w16">
 <src.rf>manual</src.rf>
@@ -1013,7 +1037,10 @@
 <LM>w#w-mf920925-117-p9s1w1</LM>
 </w.rf>
 <form>V</form>
-<tag lemma="V-0_:B_;Y" src="orig" selected="1">NNMXX-----A---8</tag>
+<tag>
+<AM lemma="V-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
+<AM lemma="V-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920925-117-p9s1w2">
 <src.rf>manual</src.rf>
@@ -1125,7 +1152,10 @@
 <LM>w#w-mf920925-117-p9s1w15</LM>
 </w.rf>
 <form>V</form>
-<tag lemma="V-0_:B_;Y" src="orig" selected="1">NNMXX-----A---8</tag>
+<tag>
+<AM lemma="V-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
+<AM lemma="V-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920925-117-p9s1w16">
 <src.rf>manual</src.rf>
@@ -1189,7 +1219,10 @@
 <LM>w#w-mf920925-117-p9s1w23</LM>
 </w.rf>
 <form>ČNR</form>
-<tag lemma="ČNR-1_:B_;K_^(Česká_národní_rada)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ČNR-1_:B_;K_^(Česká_národní_rada)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČNR-1_:B_;K_^(Česká_národní_rada)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920925-117-p9s1w24">
 <src.rf>manual</src.rf>
@@ -1213,7 +1246,10 @@
 <LM>w#w-mf920925-117-p9s1w26</LM>
 </w.rf>
 <form>SPR</form>
-<tag lemma="SPR-1_:B_;K_;p_^(Sdružení_pro_republiku)" src="orig" selected="1">NNNXX-----A---8</tag>
+<tag>
+<AM lemma="SPR-1_:B_;K_;p_^(Sdružení_pro_republiku)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="SPR-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920925-117-p9s1w27">
 <src.rf>manual</src.rf>
@@ -1229,7 +1265,10 @@
 <LM>w#w-mf920925-117-p9s1w28</LM>
 </w.rf>
 <form>RSČ</form>
-<tag lemma="RSČ-1_:B_;K_;p_^(Republikánská_strana_Československa)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="RSČ-1_:B_;K_;p_^(Republikánská_strana_Československa)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="RSČ-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920925-117-p9s1w29">
 <src.rf>manual</src.rf>
@@ -1312,7 +1351,7 @@
 <tag>
 <AM lemma="Želiv_;G" src="orig">NNIS6-----A----</AM>
 <AM lemma="Želiv_;G" src="auto">NNIS3-----A----</AM>
-<AM lemma="Želiv_;G" src="auto" recommended="1">NNIS6-----A---1</AM>
+<AM lemma="Želiv_;G" src="auto" recommended="1" selected="1">NNIS6-----A---1</AM>
 </tag>
 </m>
 <m id="m-mf920925-117-p9s1w39">
@@ -1331,7 +1370,10 @@
 <LM>w#w-mf920925-117-p10s1w1</LM>
 </w.rf>
 <form>FBIS</form>
-<tag lemma="FBIS_:B_^(Feder._bezp._informační_služba)" src="auto" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="FBIS_:B_^(Feder._bezp._informační_služba)" src="auto">NNFXX-----A---8</AM>
+<AM lemma="FBIS-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920925-117-p10s1w2">
 <src.rf>manual</src.rf>
@@ -1381,7 +1423,10 @@
 <LM>w#w-mf920925-117-p11s1w3</LM>
 </w.rf>
 <form>FBIS</form>
-<tag lemma="FBIS_:B_^(Feder._bezp._informační_služba)" src="auto" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="FBIS_:B_^(Feder._bezp._informační_služba)" src="auto">NNFXX-----A---8</AM>
+<AM lemma="FBIS-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920925-117-p11s1w4">
 <src.rf>manual</src.rf>
@@ -1389,7 +1434,10 @@
 <LM>w#w-mf920925-117-p11s1w4</LM>
 </w.rf>
 <form>S</form>
-<tag lemma="S-0_:B_;Y" src="orig" selected="1">NNMXX-----A---8</tag>
+<tag>
+<AM lemma="S-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
+<AM lemma="S-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920925-117-p11s1w5">
 <src.rf>manual</src.rf>
@@ -1492,6 +1540,8 @@
 <AM lemma="AA-10_:B_;K_,t_^(Anadolu_Ajansi_ANATOLIA)" src="auto" recommended="1">NNFXX-----A---8</AM>
 <AM lemma="AA-10_:B_;K_,t_^(Athens_News_Agency)" src="auto">NNFXX-----A----</AM>
 <AM lemma="Aa_;G_^(řeka)" src="auto">NNFXX-----A----</AM>
+<AM lemma="AA-11_:B" src="manual">NNXXX-----A---8</AM>
+<AM lemma="AA-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920925-117-p11s1w16">
@@ -1508,7 +1558,10 @@
 <LM>w#w-mf920925-117-p11s1w17</LM>
 </w.rf>
 <form>FBIS</form>
-<tag lemma="FBIS_:B_^(Feder._bezp._informační_služba)" src="auto" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="FBIS_:B_^(Feder._bezp._informační_služba)" src="auto">NNFXX-----A---8</AM>
+<AM lemma="FBIS-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920925-117-p11s1w18">
 <src.rf>manual</src.rf>
@@ -1621,7 +1674,10 @@
 <LM>w#w-mf920925-117-p11s1w31</LM>
 </w.rf>
 <form>FBIS</form>
-<tag lemma="FBIS_:B_^(Feder._bezp._informační_služba)" src="auto" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="FBIS_:B_^(Feder._bezp._informační_služba)" src="auto">NNFXX-----A---8</AM>
+<AM lemma="FBIS-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920925-117-p11s1w32">
 <src.rf>manual</src.rf>

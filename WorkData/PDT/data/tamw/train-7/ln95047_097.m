@@ -111,7 +111,10 @@
 <LM>w#w-ln95047-097-p2s1Bw3</LM>
 </w.rf>
 <form>zejména</form>
-<tag lemma="zejména-1" src="auto" selected="1">Db-------------</tag>
+<tag>
+<AM lemma="zejména-1" src="auto">Db-------------</AM>
+<AM lemma="zejména-2" src="manual" selected="1">TT-------------</AM>
+</tag>
 </m>
 <m id="m-ln95047-097-p2s1Bw4">
 <src.rf>manual</src.rf>
@@ -241,7 +244,10 @@
 <LM>w#w-ln95047-097-p2s2w3</LM>
 </w.rf>
 <form>uvedl</form>
-<tag lemma="uvést" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag>
+<AM lemma="uvést" src="orig">VpYS---XR-AA---</AM>
+<AM lemma="uvést_:W" src="manual" selected="1">VpYS---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-ln95047-097-p2s2w4">
 <src.rf>manual</src.rf>
@@ -571,7 +577,10 @@
 <LM>w#w-ln95047-097-p3s1w19</LM>
 </w.rf>
 <form>ČR</form>
-<tag lemma="ČR-1_:B_;G_^(Česká_republika)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95047-097-p3s1w20">
 <src.rf>manual</src.rf>
@@ -709,7 +718,10 @@
 <LM>w#w-ln95047-097-p3s2w13</LM>
 </w.rf>
 <form>resortem</form>
-<tag lemma="resort" src="orig" selected="1">NNIS7-----A----</tag>
+<tag>
+<AM lemma="resort" src="orig">NNIS7-----A----</AM>
+<AM lemma="resort_,s_^(^DD**rezort)" src="manual" selected="1">NNIS7-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95047-097-p3s2w14">
 <src.rf>manual</src.rf>
@@ -919,7 +931,10 @@
 <LM>w#w-ln95047-097-p4s1w12</LM>
 </w.rf>
 <form>řekl</form>
-<tag lemma="říci" src="auto" selected="1">VpYS---XR-AA---</tag>
+<tag>
+<AM lemma="říci" src="auto">VpYS---XR-AA---</AM>
+<AM lemma="říci_:W" src="manual" selected="1">VpYS---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-ln95047-097-p4s1w13">
 <src.rf>manual</src.rf>
@@ -1343,7 +1358,7 @@
 <form>jakákoli</form>
 <tag>
 <AM lemma="jakýkoliv" src="orig">PZFS1---------1</AM>
-<AM lemma="jakýkoli" src="auto" recommended="1">PZFS1----------</AM>
+<AM lemma="jakýkoli" src="auto" recommended="1" selected="1">PZFS1----------</AM>
 <AM lemma="jakýkoli" src="auto">PZFS5----------</AM>
 <AM lemma="jakýkoli" src="auto">PZNP1----------</AM>
 <AM lemma="jakýkoli" src="auto">PZNP4----------</AM>

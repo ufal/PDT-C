@@ -27,7 +27,10 @@
 <LM>w#w-ln94202-66-p1s1w2</LM>
 </w.rf>
 <form>NATO</form>
-<tag lemma="NATO_:B_;K_^(North_Atlantic_Treaty_Organization)" src="auto" selected="1">NNNXX-----A---8</tag>
+<tag>
+<AM lemma="NATO_:B_;K_^(North_Atlantic_Treaty_Organization)" src="auto">NNNXX-----A---8</AM>
+<AM lemma="NATO_:B_;K_^(North_Atlantic_Treaty_Organization)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94202-66-p1s1w3">
 <src.rf>manual</src.rf>
@@ -51,7 +54,10 @@
 <LM>w#w-ln94202-66-p1s1w5</LM>
 </w.rf>
 <form>EU</form>
-<tag lemma="EU-1_:B_;K_;p_^(Evropská_Unie)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="EU-1_:B_;K_;p_^(Evropská_Unie)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="EU-1_:B_;K_^(Evropská_Unie)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94202-66-p1s1w6">
 <src.rf>manual</src.rf>
@@ -143,7 +149,10 @@
 <LM>w#w-ln94202-66-p2s1Bw5</LM>
 </w.rf>
 <form>Volkera</form>
-<tag lemma="Volker_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag>
+<AM lemma="Volker_;S" src="orig">NNMS2-----A----</AM>
+<AM lemma="Volker_;S_;Y" src="manual" selected="1">NNMS2-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94202-66-p2s1Bw6">
 <src.rf>manual</src.rf>
@@ -321,7 +330,10 @@
 <LM>w#w-ln94202-66-p2s2w5</LM>
 </w.rf>
 <form>Handelsblatt</form>
-<tag lemma="Handelsblatt_;R_^(časopis)" src="auto" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="Handelsblatt_;R_^(časopis)" src="auto">NNIS1-----A----</AM>
+<AM lemma="Handelsblatt-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94202-66-p2s2w6">
 <src.rf>manual</src.rf>
@@ -489,7 +501,10 @@
 <LM>w#w-ln94202-66-p2s2w26</LM>
 </w.rf>
 <form>NATO</form>
-<tag lemma="NATO_:B_;K_^(North_Atlantic_Treaty_Organization)" src="auto" selected="1">NNNXX-----A---8</tag>
+<tag>
+<AM lemma="NATO_:B_;K_^(North_Atlantic_Treaty_Organization)" src="auto">NNNXX-----A---8</AM>
+<AM lemma="NATO_:B_;K_^(North_Atlantic_Treaty_Organization)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94202-66-p2s2w27">
 <src.rf>manual</src.rf>
@@ -749,7 +764,7 @@
 <form>třeba</form>
 <tag>
 <AM lemma="třeba-1" src="orig">ACNS------A----</AM>
-<AM lemma="třeba-2" src="auto" recommended="1">Db-------------</AM>
+<AM lemma="třeba-2" src="auto" recommended="1" selected="1">Db-------------</AM>
 <AM lemma="třeba-3" src="auto">TT-------------</AM>
 </tag>
 </m>

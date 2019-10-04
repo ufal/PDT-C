@@ -45,7 +45,10 @@
 <LM>w#w-lnd92251-025-p2s1w2</LM>
 </w.rf>
 <form>zadrženi</form>
-<tag lemma="zadržet" src="orig" selected="1">VsMP---XX-AP---</tag>
+<tag>
+<AM lemma="zadržet" src="orig">VsMP---XX-AP---</AM>
+<AM lemma="zadržet_:W" src="manual" selected="1">VsMP---XX-AP---</AM>
+</tag>
 </m>
 </s>
 <s id="m-lnd92251-025-p3s1">
@@ -71,7 +74,10 @@
 <LM>w#w-lnd92251-025-p3s1w3</LM>
 </w.rf>
 <form>ivh</form>
-<tag lemma="ivh-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="ivh-99_:B_;S" src="orig">NNXXX-----A---8</AM>
+<AM lemma="ivh-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92251-025-p3s1w4">
 <src.rf>manual</src.rf>
@@ -113,7 +119,10 @@
 <LM>w#w-lnd92251-025-p3s2w3</LM>
 </w.rf>
 <form>zadrželi</form>
-<tag lemma="zadržet" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag>
+<AM lemma="zadržet" src="orig">VpMP---XR-AA---</AM>
+<AM lemma="zadržet_:W" src="manual" selected="1">VpMP---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-lnd92251-025-p3s2w4">
 <src.rf>manual</src.rf>
@@ -169,7 +178,11 @@
 <LM>w#w-lnd92251-025-p3s2w10</LM>
 </w.rf>
 <form>odehrála</form>
-<tag lemma="odehrát" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag>
+<AM lemma="odehrát" src="orig">VpQW---XR-AA---</AM>
+<AM lemma="odehrát_:Q" src="manual">VpQW---XR-AA---</AM>
+<AM lemma="odehrát_:W" src="manual" selected="1">VpQW---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-lnd92251-025-p3s2w11">
 <src.rf>manual</src.rf>
@@ -251,7 +264,10 @@
 <LM>w#w-lnd92251-025-p3s3w2</LM>
 </w.rf>
 <form>S</form>
-<tag lemma="S-9_:B_;S" src="orig" selected="1">NNMXX-----A---8</tag>
+<tag>
+<AM lemma="S-9_:B_;S" src="orig">NNMXX-----A---8</AM>
+<AM lemma="S-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92251-025-p3s3w3">
 <src.rf>manual</src.rf>
@@ -307,7 +323,10 @@
 <LM>w#w-lnd92251-025-p3s3w9</LM>
 </w.rf>
 <form>M</form>
-<tag lemma="M-9_:B_;S" src="orig" selected="1">NNMXX-----A---8</tag>
+<tag>
+<AM lemma="M-9_:B_;S" src="orig">NNMXX-----A---8</AM>
+<AM lemma="M-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92251-025-p3s3w10">
 <src.rf>manual</src.rf>
@@ -365,7 +384,10 @@
 <LM>w#w-lnd92251-025-p3s4w6</LM>
 </w.rf>
 <form>K</form>
-<tag lemma="K-9_:B_;S" src="orig" selected="1">NNMXX-----A---8</tag>
+<tag>
+<AM lemma="K-9_:B_;S" src="orig">NNMXX-----A---8</AM>
+<AM lemma="K-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92251-025-p3s4w7">
 <src.rf>manual</src.rf>
@@ -529,7 +551,10 @@
 <LM>w#w-lnd92251-025-p3s6w4</LM>
 </w.rf>
 <form>vypila</form>
-<tag lemma="vypít" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag>
+<AM lemma="vypít" src="orig">VpQW---XR-AA---</AM>
+<AM lemma="vypít_:W" src="manual" selected="1">VpQW---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-lnd92251-025-p3s6w5">
 <src.rf>manual</src.rf>
@@ -628,7 +653,7 @@
 <form>přičemž</form>
 <tag>
 <AM lemma="přičemž" src="orig">J,-------------</AM>
-<AM lemma="přičemž" src="auto" recommended="1">Db-------------</AM>
+<AM lemma="přičemž" src="auto" recommended="1" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m-lnd92251-025-p3s6w17">
@@ -645,7 +670,10 @@
 <LM>w#w-lnd92251-025-p3s6w18</LM>
 </w.rf>
 <form>S</form>
-<tag lemma="S-9_:B_;S" src="orig" selected="1">NNMXX-----A---8</tag>
+<tag>
+<AM lemma="S-9_:B_;S" src="orig">NNMXX-----A---8</AM>
+<AM lemma="S-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92251-025-p3s6w19">
 <src.rf>manual</src.rf>
@@ -701,7 +729,10 @@
 <LM>w#w-lnd92251-025-p3s6w25</LM>
 </w.rf>
 <form>L</form>
-<tag lemma="L-9_:B_;S" src="orig" selected="1">NNMXX-----A---8</tag>
+<tag>
+<AM lemma="L-9_:B_;S" src="orig">NNMXX-----A---8</AM>
+<AM lemma="L-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92251-025-p3s6w26">
 <src.rf>manual</src.rf>
@@ -873,7 +904,7 @@
 <form>ovšem</form>
 <tag>
 <AM lemma="ovšem-1_^(avšak,_však;_odporovací_spojka)" src="orig">J^-------------</AM>
-<AM lemma="ovšem" src="auto" recommended="1">TT-------------</AM>
+<AM lemma="ovšem" src="auto" recommended="1" selected="1">TT-------------</AM>
 </tag>
 </m>
 <m id="m-lnd92251-025-p3s7w13">
@@ -943,7 +974,7 @@
 <tag>
 <AM lemma="tedy" src="orig">Db-------------</AM>
 <AM lemma="tedy-1" src="auto">TT-------------</AM>
-<AM lemma="tedy-2" src="auto" recommended="1">J^-------------</AM>
+<AM lemma="tedy-2" src="auto" recommended="1" selected="1">J^-------------</AM>
 </tag>
 </m>
 <m id="m-lnd92251-025-p3s8w3">
@@ -1040,7 +1071,10 @@
 <LM>w#w-lnd92251-025-p3s8w14</LM>
 </w.rf>
 <form>S</form>
-<tag lemma="S-9_:B_;S" src="orig" selected="1">NNMXX-----A---8</tag>
+<tag>
+<AM lemma="S-9_:B_;S" src="orig">NNMXX-----A---8</AM>
+<AM lemma="S-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92251-025-p3s8w15">
 <src.rf>manual</src.rf>
@@ -1212,7 +1246,10 @@
 <LM>w#w-lnd92251-025-p3s10w4</LM>
 </w.rf>
 <form>L</form>
-<tag lemma="L-9_:B_;S" src="orig" selected="1">NNMXX-----A---8</tag>
+<tag>
+<AM lemma="L-9_:B_;S" src="orig">NNMXX-----A---8</AM>
+<AM lemma="L-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92251-025-p3s10w5">
 <src.rf>manual</src.rf>
@@ -1236,7 +1273,10 @@
 <LM>w#w-lnd92251-025-p3s10w7</LM>
 </w.rf>
 <form>ztloukli</form>
-<tag lemma="ztlouci" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag>
+<AM lemma="ztlouci" src="orig">VpMP---XR-AA---</AM>
+<AM lemma="ztlouci_:W" src="manual" selected="1">VpMP---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-lnd92251-025-p3s10w8">
 <src.rf>manual</src.rf>
@@ -1260,7 +1300,10 @@
 <LM>w#w-lnd92251-025-p3s10w10</LM>
 </w.rf>
 <form>sebrali</form>
-<tag lemma="sebrat" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag>
+<AM lemma="sebrat" src="orig">VpMP---XR-AA---</AM>
+<AM lemma="sebrat_:W" src="manual" selected="1">VpMP---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-lnd92251-025-p3s10w11">
 <src.rf>manual</src.rf>
@@ -1316,7 +1359,10 @@
 <LM>w#w-lnd92251-025-p3s10w17</LM>
 </w.rf>
 <form>dostali</form>
-<tag lemma="dostat" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag>
+<AM lemma="dostat" src="orig">VpMP---XR-AA---</AM>
+<AM lemma="dostat_:W" src="manual" selected="1">VpMP---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-lnd92251-025-p3s10w18">
 <src.rf>manual</src.rf>

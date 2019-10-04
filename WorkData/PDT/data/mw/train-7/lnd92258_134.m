@@ -377,7 +377,7 @@
 <form>ovšem</form>
 <tag>
 <AM lemma="ovšem-1_^(avšak,_však;_odporovací_spojka)" src="orig">J^-------------</AM>
-<AM lemma="ovšem" src="auto" recommended="1">TT-------------</AM>
+<AM lemma="ovšem" src="auto" recommended="1" selected="1">TT-------------</AM>
 </tag>
 </m>
 <m id="m-lnd92258-134-p2s2w22">
@@ -418,7 +418,10 @@
 <LM>w#w-lnd92258-134-p2s2w26</LM>
 </w.rf>
 <form>vyloučen</form>
-<tag lemma="vyloučit" src="orig" selected="1">VsYS---XX-AP---</tag>
+<tag>
+<AM lemma="vyloučit" src="orig">VsYS---XX-AP---</AM>
+<AM lemma="vyloučit_:W" src="manual" selected="1">VsYS---XX-AP---</AM>
+</tag>
 </m>
 <m id="m-lnd92258-134-p2s2w27">
 <src.rf>manual</src.rf>
@@ -463,7 +466,7 @@
 <tag>
 <AM lemma="tedy" src="orig">Db-------------</AM>
 <AM lemma="tedy-1" src="auto">TT-------------</AM>
-<AM lemma="tedy-2" src="auto" recommended="1">J^-------------</AM>
+<AM lemma="tedy-2" src="auto" recommended="1" selected="1">J^-------------</AM>
 </tag>
 </m>
 <m id="m-lnd92258-134-p2s3w5">
@@ -632,7 +635,10 @@
 <LM>w#w-lnd92258-134-p2s3w25</LM>
 </w.rf>
 <form>vyhrál</form>
-<tag lemma="vyhrát" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag>
+<AM lemma="vyhrát" src="orig">VpYS---XR-AA---</AM>
+<AM lemma="vyhrát_:W" src="manual" selected="1">VpYS---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-lnd92258-134-p2s3w26">
 <src.rf>manual</src.rf>
@@ -713,7 +719,10 @@
 <LM>w#w-lnd92258-134-p2s3w35</LM>
 </w.rf>
 <form>Kčs</form>
-<tag lemma="Kčs-1_:B_^(Koruna_čs.)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="Kčs-1_:B_^(Koruna_čs.)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="Kčs-1_:B_^(Koruna_čs.)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92258-134-p2s3w36">
 <src.rf>manual</src.rf>
@@ -853,7 +862,7 @@
 <form>ovšem</form>
 <tag>
 <AM lemma="ovšem-1_^(avšak,_však;_odporovací_spojka)" src="orig">J^-------------</AM>
-<AM lemma="ovšem" src="auto" recommended="1">TT-------------</AM>
+<AM lemma="ovšem" src="auto" recommended="1" selected="1">TT-------------</AM>
 </tag>
 </m>
 <m id="m-lnd92258-134-p2s4w17">
@@ -904,7 +913,10 @@
 <LM>w#w-lnd92258-134-p3s1w2</LM>
 </w.rf>
 <form>MMZ</form>
-<tag lemma="MMZ-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="MMZ-99_:B_;S" src="orig">NNXXX-----A---8</AM>
+<AM lemma="MMZ-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92258-134-p3s1w3">
 <src.rf>manual</src.rf>

@@ -165,7 +165,10 @@
 <LM>w#w-ln94211-7-p6s4w1</LM>
 </w.rf>
 <form>Prime</form>
-<tag lemma="Prime-1_,t_^(fin.:_souč._term._Prime_Rate)" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="Prime-1_,t_^(fin.:_souč._term._Prime_Rate)" src="orig">AAXXX----1A----</AM>
+<AM lemma="Prime-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94211-7-p6s4w2">
 <src.rf>manual</src.rf>
@@ -173,7 +176,10 @@
 <LM>w#w-ln94211-7-p6s4w2</LM>
 </w.rf>
 <form>Rate</form>
-<tag lemma="Rate-1_,t_^(fin.:_souč._term._Prime_Rate)" src="orig" selected="1">NNFXX-----A----</tag>
+<tag>
+<AM lemma="Rate-1_,t_^(fin.:_souč._term._Prime_Rate)" src="orig">NNFXX-----A----</AM>
+<AM lemma="Rate-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94211-7-p6s4w3">
 <src.rf>manual</src.rf>

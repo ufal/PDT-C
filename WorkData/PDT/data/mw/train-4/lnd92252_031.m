@@ -119,7 +119,10 @@
 <LM>w#w-lnd92252-031-p2s2w8</LM>
 </w.rf>
 <form>A</form>
-<tag lemma="A-0_:B_;Y" src="orig" selected="1">NNMXX-----A---8</tag>
+<tag>
+<AM lemma="A-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
+<AM lemma="A-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd92252-031-p2s2w9">
 <src.rf>manual</src.rf>
@@ -232,7 +235,10 @@
 <LM>w#w-lnd92252-031-p2s2w22</LM>
 </w.rf>
 <form>SNS</form>
-<tag lemma="SNS-2_:B_;G_^(Sdr._nezávislých_států)" src="orig" selected="1">NNNXX-----A---8</tag>
+<tag>
+<AM lemma="SNS-2_:B_;G_^(Sdr._nezávislých_států)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="SNS-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd92252-031-p2s2w23">
 <src.rf>manual</src.rf>

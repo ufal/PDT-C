@@ -27,7 +27,10 @@
 <LM>w#w-lnd91303-038-p4s1w2</LM>
 </w.rf>
 <form>Teheran</form>
-<tag lemma="Teheran_;R_,t" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="Teheran_;R_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="Teheran-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-lnd91303-038-p4s1w3">
 <src.rf>manual</src.rf>
@@ -35,7 +38,10 @@
 <LM>w#w-lnd91303-038-p4s1w3</LM>
 </w.rf>
 <form>Times</form>
-<tag lemma="Times-1_;K_,t_^(souč._názvů,_např._The_Times)" src="orig" selected="1">NNIPX-----A----</tag>
+<tag>
+<AM lemma="Times-1_;K_,t_^(souč._názvů,_např._The_Times)" src="orig">NNIPX-----A----</AM>
+<AM lemma="Times-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-lnd91303-038-p4s1w4">
 <src.rf>manual</src.rf>
@@ -43,7 +49,10 @@
 <LM>w#w-lnd91303-038-p4s1w4</LM>
 </w.rf>
 <form>zase</form>
-<tag lemma="zase-1" src="auto" selected="1">Db-------------</tag>
+<tag>
+<AM lemma="zase-1" src="auto">Db-------------</AM>
+<AM lemma="zase-2" src="manual" selected="1">TT-------------</AM>
+</tag>
 </m>
 <m id="m-lnd91303-038-p4s1w5">
 <src.rf>manual</src.rf>
@@ -83,7 +92,10 @@
 <LM>w#w-lnd91303-038-p4s1w9</LM>
 </w.rf>
 <form>FIS</form>
-<tag lemma="FIS_:B_;K" src="auto" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="FIS_:B_;K" src="auto">NNFXX-----A---8</AM>
+<AM lemma="FIS-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd91303-038-p4s1w10">
 <src.rf>manual</src.rf>
@@ -546,7 +558,7 @@
 <tag>
 <AM lemma="nalézt" src="orig">VpMP---XR-AA---</AM>
 <AM lemma="nalézt-1_^(někam)" src="auto" recommended="1">VpMP---XR-AA---</AM>
-<AM lemma="nalézt-2" src="auto">VpMP---XR-AA---</AM>
+<AM lemma="nalézt-2" src="auto" selected="1">VpMP---XR-AA---</AM>
 </tag>
 </m>
 <m id="m-lnd91303-038-p4s3w32">
@@ -775,7 +787,10 @@
 <LM>w#w-lnd91303-038-p4s5w8</LM>
 </w.rf>
 <form>FIS</form>
-<tag lemma="FIS_:B_;K" src="auto" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="FIS_:B_;K" src="auto">NNFXX-----A---8</AM>
+<AM lemma="FIS-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd91303-038-p4s5w9">
 <src.rf>manual</src.rf>
@@ -847,7 +862,10 @@
 <LM>w#w-lnd91303-038-p4s5w17</LM>
 </w.rf>
 <form>strany</form>
-<tag lemma="strana-2_^(politická)" src="orig" selected="1">NNFP1-----A----</tag>
+<tag>
+<AM lemma="strana-2_^(politická)" src="orig">NNFP1-----A----</AM>
+<AM lemma="strana" src="manual" selected="1">NNFP1-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd91303-038-p4s5w18">
 <src.rf>manual</src.rf>
@@ -961,7 +979,14 @@
 <AM lemma="as-1_:B_,t_^(assymetric)" src="auto" recommended="1">AAXXX----1A---8</AM>
 <AM lemma="as_;b_,t_^(měnová/váhová_jednotka)" src="auto">NNIS1-----A----</AM>
 <AM lemma="as_;b_,t_^(měnová/váhová_jednotka)" src="auto">NNIS4-----A----</AM>
+<AM lemma="as-2_,t_^(člen)" src="manual">AAXXX----1A----</AM>
+<AM lemma="As-77" src="manual" selected="1">F%-------------</AM>
 </tag>
+<comment>
+<LM type="Other">
+<text>nová analýza: cizí člen</text>
+</LM>
+</comment>
 </m>
 <m id="m-lnd91303-038-p4s6w4">
 <src.rf>manual</src.rf>
@@ -980,7 +1005,14 @@
 <tag>
 <AM lemma="Safir_;R_,t" src="orig">NNIS1-----A----</AM>
 <AM lemma="Safira_;Y" src="auto" recommended="1">NNFP2-----A----</AM>
+<AM lemma="safir_,t" src="manual">NNXXX-----A----</AM>
+<AM lemma="Safir-77" src="manual" selected="1">F%-------------</AM>
 </tag>
+<comment>
+<LM type="Other">
+<text>nová analýza: cizí slovo</text>
+</LM>
+</comment>
 </m>
 <m id="m-lnd91303-038-p4s6w6">
 <src.rf>manual</src.rf>
@@ -1020,7 +1052,10 @@
 <LM>w#w-lnd91303-038-p4s6w10</LM>
 </w.rf>
 <form>FIS</form>
-<tag lemma="FIS_:B_;K" src="auto" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="FIS_:B_;K" src="auto">NNFXX-----A---8</AM>
+<AM lemma="FIS-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd91303-038-p4s6w11">
 <src.rf>manual</src.rf>
@@ -1514,7 +1549,7 @@
 <form>Libération</form>
 <tag>
 <AM lemma="Libération_;R_,t" src="orig">NNFXX-----A----</AM>
-<AM lemma="Libération_;K" src="auto" recommended="1">NNIS1-----A----</AM>
+<AM lemma="Libération_;K" src="auto" recommended="1" selected="1">NNIS1-----A----</AM>
 <AM lemma="Libération_;K" src="auto">NNIS4-----A----</AM>
 </tag>
 </m>
@@ -1566,7 +1601,10 @@
 <LM>w#w-lnd91303-038-p5s3w5</LM>
 </w.rf>
 <form>Elysejského</form>
-<tag lemma="Elysejský" src="orig" selected="1">AAIS2----1A----</tag>
+<tag>
+<AM lemma="Elysejský" src="orig">AAIS2----1A----</AM>
+<AM lemma="elysejský" src="manual" selected="1">AAIS2----1A----</AM>
+</tag>
 </m>
 <m id="m-lnd91303-038-p5s3w6">
 <src.rf>manual</src.rf>
@@ -1744,7 +1782,10 @@
 <LM>w#w-lnd91303-038-p5s4Aw3</LM>
 </w.rf>
 <form>Le</form>
-<tag lemma="Le-1_,t_^(franc._člen_jako_souč._jmen_a_názvů)" src="orig" selected="1">AAISX----1A----</tag>
+<tag>
+<AM lemma="Le-1_,t_^(franc._člen_jako_souč._jmen_a_názvů)" src="orig">AAISX----1A----</AM>
+<AM lemma="Le-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-lnd91303-038-p5s4Aw4">
 <src.rf>manual</src.rf>
@@ -1752,7 +1793,10 @@
 <LM>w#w-lnd91303-038-p5s4Aw4</LM>
 </w.rf>
 <form>Quotidien</form>
-<tag lemma="Quotidien_;R_,t" src="orig" selected="1">NNIXX-----A----</tag>
+<tag>
+<AM lemma="Quotidien_;R_,t" src="orig">NNIXX-----A----</AM>
+<AM lemma="Quotidien-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-lnd91303-038-p5s4Aw5">
 <src.rf>manual</src.rf>
@@ -1760,7 +1804,10 @@
 <LM>w#w-lnd91303-038-p5s4Aw5</LM>
 </w.rf>
 <form>de</form>
-<tag lemma="de_,t_^(z_franc._de,_zejm._ve_jménech)" src="orig" selected="1">RR--1----------</tag>
+<tag>
+<AM lemma="de_,t_^(z_franc._de,_zejm._ve_jménech)" src="orig">RR--1----------</AM>
+<AM lemma="de-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-lnd91303-038-p5s4Aw6">
 <src.rf>manual</src.rf>
@@ -1774,6 +1821,7 @@
 <AM lemma="Paris-2_;G" src="auto">NNFSX-----A----</AM>
 <AM lemma="Paris-3_;Y" src="auto" recommended="1">NNFSX-----A----</AM>
 <AM lemma="Paris_;S" src="auto">NNMS1-----A----</AM>
+<AM lemma="Paris-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-lnd91303-038-p5s4Aw7">

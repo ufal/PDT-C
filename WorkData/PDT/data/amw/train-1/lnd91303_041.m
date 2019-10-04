@@ -115,7 +115,10 @@
 <LM>w#w-lnd91303-041-p1s1Aw13</LM>
 </w.rf>
 <form>archívů</form>
-<tag lemma="archív" src="orig" selected="1">NNIP2-----A----</tag>
+<tag>
+<AM lemma="archív" src="orig">NNIP2-----A----</AM>
+<AM lemma="archív_,s_^(^DD**archiv)" src="manual" selected="1">NNIP2-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd91303-041-p1s1Aw14">
 <src.rf>manual</src.rf>
@@ -155,7 +158,10 @@
 <LM>w#w-lnd91303-041-p1s1Aw18</LM>
 </w.rf>
 <form>NDR</form>
-<tag lemma="NDR_:B_;G_;K" src="auto" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="NDR_:B_;G_;K" src="auto">NNFXX-----A---8</AM>
+<AM lemma="NDR-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd91303-041-p1s1Aw19">
 <src.rf>manual</src.rf>
@@ -175,6 +181,7 @@
 <AM lemma="Stasi_:B_;K" src="orig">NNFXX-----A---8</AM>
 <AM lemma="Stasi_:B_;K" src="auto" recommended="1">NNFXX-----A----</AM>
 <AM lemma="Stasi_:B_;K" src="auto">NNXXX-----A---8</AM>
+<AM lemma="Stasi_;K" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd91303-041-p1s1Aw21">
@@ -267,6 +274,7 @@
 <AM lemma="Stasi_:B_;K" src="orig">NNFXX-----A---8</AM>
 <AM lemma="Stasi_:B_;K" src="auto" recommended="1">NNFXX-----A----</AM>
 <AM lemma="Stasi_:B_;K" src="auto">NNXXX-----A---8</AM>
+<AM lemma="Stasi_;K" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd91303-041-p1s1Aw32">
@@ -569,7 +577,10 @@
 <LM>w#w-lnd91303-041-p2s2w1</LM>
 </w.rf>
 <form>Nejvíce</form>
-<tag lemma="hodně-2" src="auto" selected="1">Dg-------3A----</tag>
+<tag>
+<AM lemma="hodně-2" src="auto">Dg-------3A----</AM>
+<AM lemma="nejvíce_^(nejvíce_+_2._p.,_nejvíce_peněz)" src="manual" selected="1">Ca--1----------</AM>
+</tag>
 </m>
 <m id="m-lnd91303-041-p2s2w2">
 <src.rf>manual</src.rf>

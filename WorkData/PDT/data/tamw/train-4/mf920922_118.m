@@ -27,7 +27,10 @@
 <LM>w#w-mf920922-118-p1s1w2</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-2" src="auto" selected="1">Dg-------2A----</tag>
+<tag>
+<AM lemma="hodně-2" src="auto">Dg-------2A----</AM>
+<AM lemma="více_^(více_+_2._p.,_více_peněz)" src="manual" selected="1">Ca--1----------</AM>
+</tag>
 </m>
 <m id="m-mf920922-118-p1s1w3">
 <src.rf>manual</src.rf>
@@ -79,7 +82,10 @@
 <LM>w#w-mf920922-118-p3s1w2</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-2" src="auto" selected="1">Dg-------2A----</tag>
+<tag>
+<AM lemma="hodně-2" src="auto">Dg-------2A----</AM>
+<AM lemma="více_^(více_+_2._p.,_více_peněz)" src="manual" selected="1">Ca--1----------</AM>
+</tag>
 </m>
 <m id="m-mf920922-118-p3s1w3">
 <src.rf>manual</src.rf>
@@ -131,7 +137,10 @@
 <LM>w#w-mf920922-118-p4s2w2</LM>
 </w.rf>
 <form>rublů</form>
-<tag lemma="rubl" src="orig" selected="1">NNIP2-----A----</tag>
+<tag>
+<AM lemma="rubl" src="orig">NNIP2-----A----</AM>
+<AM lemma="rubl_;b" src="manual" selected="1">NNIP2-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920922-118-p4s2w3">
 <src.rf>manual</src.rf>
@@ -139,7 +148,10 @@
 <LM>w#w-mf920922-118-p4s2w3</LM>
 </w.rf>
 <form>stojí</form>
-<tag lemma="stát-4_^(něco_stojí_peníze)" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag>
+<AM lemma="stát-4_^(něco_stojí_peníze)" src="orig">VB-S---3P-AA---</AM>
+<AM lemma="stát-3_^(stojím_stojíš)" src="manual" selected="1">VB-S---3P-AA---</AM>
+</tag>
 </m>
 <m id="m-mf920922-118-p4s2w4">
 <src.rf>manual</src.rf>
@@ -181,7 +193,7 @@
 <form>litr</form>
 <tag>
 <AM lemma="l-1`litr" src="orig">NNIS1-----A----</AM>
-<AM lemma="litr" src="auto" recommended="1">NNIS1-----A----</AM>
+<AM lemma="litr" src="auto" recommended="1" selected="1">NNIS1-----A----</AM>
 <AM lemma="litr" src="auto">NNIS4-----A----</AM>
 </tag>
 </m>
@@ -215,7 +227,10 @@
 <LM>w#w-mf920922-118-p4s2w12</LM>
 </w.rf>
 <form>super</form>
-<tag lemma="super_,h_,t" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="super_,h_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="super-1_;R" src="manual" selected="1">NNIS4-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920922-118-p4s2w13">
 <src.rf>manual</src.rf>
@@ -255,7 +270,10 @@
 <LM>w#w-mf920922-118-p4s2w17</LM>
 </w.rf>
 <form>rublů</form>
-<tag lemma="rubl" src="orig" selected="1">NNIP2-----A----</tag>
+<tag>
+<AM lemma="rubl" src="orig">NNIP2-----A----</AM>
+<AM lemma="rubl_;b" src="manual" selected="1">NNIP2-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920922-118-p4s2w18">
 <src.rf>manual</src.rf>
@@ -421,7 +439,7 @@
 <form>Přesto</form>
 <tag>
 <AM lemma="přesto" src="orig">Dg-------1A----</AM>
-<AM lemma="přesto-1" src="auto" recommended="1">Db-------------</AM>
+<AM lemma="přesto-1" src="auto" recommended="1" selected="1">Db-------------</AM>
 <AM lemma="přesto-2" src="auto">J^-------------</AM>
 </tag>
 </m>
@@ -463,7 +481,10 @@
 <LM>w#w-mf920922-118-p4s4w6</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-2" src="auto" selected="1">Dg-------2A----</tag>
+<tag>
+<AM lemma="hodně-2" src="auto">Dg-------2A----</AM>
+<AM lemma="více_^(více_+_2._p.,_více_peněz)" src="manual" selected="1">Ca--1----------</AM>
+</tag>
 </m>
 <m id="m-mf920922-118-p4s4w7">
 <src.rf>manual</src.rf>
@@ -741,7 +762,7 @@
 <form>Ačkoli</form>
 <tag>
 <AM lemma="ačkoliv" src="orig">J,------------1</AM>
-<AM lemma="ačkoli" src="auto" recommended="1">J,-------------</AM>
+<AM lemma="ačkoli" src="auto" recommended="1" selected="1">J,-------------</AM>
 </tag>
 </m>
 <m id="m-mf920922-118-p4s6w2">
@@ -782,7 +803,10 @@
 <LM>w#w-mf920922-118-p4s6w6</LM>
 </w.rf>
 <form>stojí</form>
-<tag lemma="stát-3_^(někdo/něco_stojí,_např._na_nohou)" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag>
+<AM lemma="stát-3_^(někdo/něco_stojí,_např._na_nohou)" src="orig">VB-S---3P-AA---</AM>
+<AM lemma="stát-3_^(stojím_stojíš)" src="manual" selected="1">VB-S---3P-AA---</AM>
+</tag>
 </m>
 <m id="m-mf920922-118-p4s6w7">
 <src.rf>manual</src.rf>
@@ -830,7 +854,10 @@
 <LM>w#w-mf920922-118-p4s6w12</LM>
 </w.rf>
 <form>rublů</form>
-<tag lemma="rubl" src="orig" selected="1">NNIP2-----A----</tag>
+<tag>
+<AM lemma="rubl" src="orig">NNIP2-----A----</AM>
+<AM lemma="rubl_;b" src="manual" selected="1">NNIP2-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920922-118-p4s6w13">
 <src.rf>manual</src.rf>
@@ -974,7 +1001,10 @@
 <LM>w#w-mf920922-118-p4s6w30</LM>
 </w.rf>
 <form>stojí</form>
-<tag lemma="stát-3_^(někdo/něco_stojí,_např._na_nohou)" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag>
+<AM lemma="stát-3_^(někdo/něco_stojí,_např._na_nohou)" src="orig">VB-S---3P-AA---</AM>
+<AM lemma="stát-3_^(stojím_stojíš)" src="manual" selected="1">VB-S---3P-AA---</AM>
+</tag>
 </m>
 <m id="m-mf920922-118-p4s6w31">
 <src.rf>manual</src.rf>

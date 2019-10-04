@@ -767,7 +767,10 @@
 <LM>w#w-ln95044-089-p3s2w7</LM>
 </w.rf>
 <form>a</form>
-<tag lemma="akciový_:B_^(jen_akciová_společnost)" src="orig" selected="1">AAXXX----1A---8</tag>
+<tag>
+<AM lemma="akciový_:B_^(jen_akciová_společnost)" src="orig">AAXXX----1A---8</AM>
+<AM lemma="akciový" src="manual" selected="1">AAXXX----1A---8</AM>
+</tag>
 </m>
 <m id="m-ln95044-089-p3s2w8">
 <src.rf>manual</src.rf>
@@ -783,7 +786,10 @@
 <LM>w#w-ln95044-089-p3s2w9</LM>
 </w.rf>
 <form>s</form>
-<tag lemma="společnost_:B" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="společnost_:B" src="orig">NNFXX-----A---8</AM>
+<AM lemma="společnost" src="manual" selected="1">NNFXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln95044-089-p3s2w10">
 <src.rf>manual</src.rf>
@@ -1008,7 +1014,7 @@
 <AM lemma="jedoucí_^(pohybovat_se,_ne_však_chůzí)_(*5t)" src="orig">AGIS6-----A----</AM>
 <AM lemma="jedoucí-1_^(pohybovat_se,_ne_však_chůzí)_(*7t-1)" src="auto">AGFP3-----A----</AM>
 <AM lemma="jedoucí-1_^(pohybovat_se,_ne_však_chůzí)_(*7t-1)" src="auto">AGIP3-----A----</AM>
-<AM lemma="jedoucí-1_^(pohybovat_se,_ne_však_chůzí)_(*7t-1)" src="auto">AGIS6-----A----</AM>
+<AM lemma="jedoucí-1_^(pohybovat_se,_ne_však_chůzí)_(*7t-1)" src="auto" selected="1">AGIS6-----A----</AM>
 <AM lemma="jedoucí-1_^(pohybovat_se,_ne_však_chůzí)_(*7t-1)" src="auto">AGIS7-----A----</AM>
 <AM lemma="jedoucí-1_^(pohybovat_se,_ne_však_chůzí)_(*7t-1)" src="auto">AGMP3-----A----</AM>
 <AM lemma="jedoucí-1_^(pohybovat_se,_ne_však_chůzí)_(*7t-1)" src="auto">AGMS6-----A----</AM>
@@ -1344,7 +1350,7 @@
 <form>Ukradli</form>
 <tag>
 <AM lemma="ukradnout" src="orig">VpMP---XR-AA---</AM>
-<AM lemma="ukrást_:W" src="auto" recommended="1">VpMP---XR-AA--1</AM>
+<AM lemma="ukrást_:W" src="auto" recommended="1" selected="1">VpMP---XR-AA--1</AM>
 </tag>
 </m>
 <m id="m-ln95044-089-p4s3w2">
@@ -1401,7 +1407,10 @@
 <LM>w#w-ln95044-089-p4s3w8</LM>
 </w.rf>
 <form>zmizeli</form>
-<tag lemma="zmizet" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag>
+<AM lemma="zmizet" src="orig">VpMP---XR-AA---</AM>
+<AM lemma="zmizet_:W" src="manual" selected="1">VpMP---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-ln95044-089-p4s3w9">
 <src.rf>manual</src.rf>

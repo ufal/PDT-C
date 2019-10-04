@@ -35,7 +35,10 @@
 <LM>w#w-ln94208-108-p1s1w3</LM>
 </w.rf>
 <form>SP</form>
-<tag lemma="SP-3_:B_^(Světový_pohár)" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="SP-3_:B_^(Světový_pohár)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="SP-3_:B_^(Světový_pohár)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 </s>
 <s id="m-ln94208-108-p2s1A">
@@ -67,6 +70,7 @@
 <AM lemma="nov_^(pozice_Měsíce)" src="auto">NNIS4-----A----</AM>
 <AM lemma="nova" src="auto">NNFP2-----A----</AM>
 <AM lemma="novum" src="auto">NNNP2-----A----</AM>
+<AM lemma="nov-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94208-108-p2s1Aw4">
@@ -117,7 +121,10 @@
 <LM>w#w-ln94208-108-p2s1Bw4</LM>
 </w.rf>
 <form>ME</form>
-<tag lemma="ME-1_:B_;w_^(mistrovství_Evropy)" src="orig" selected="1">NNNXX-----A---8</tag>
+<tag>
+<AM lemma="ME-1_:B_;w_^(mistrovství_Evropy)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="ME-1_:B_^(mistrovství_Evropy)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94208-108-p2s1Bw5">
 <src.rf>manual</src.rf>
@@ -264,6 +271,7 @@
 <tag>
 <AM lemma="cm-1`centimetr_:B" src="orig">NNIXX-----A---8</AM>
 <AM lemma="centimetr_:B" src="auto" recommended="1">NNIXX-----A---8</AM>
+<AM lemma="centimetr" src="manual" selected="1">NNIXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-ln94208-108-p2s1Bw23">
@@ -296,7 +304,10 @@
 <LM>w#w-ln94208-108-p2s1Bw26</LM>
 </w.rf>
 <form>Mikuláše</form>
-<tag lemma="Mikuláš-1_;Y" src="auto" selected="1">NNMS4-----A----</tag>
+<tag>
+<AM lemma="Mikuláš-1_;Y" src="auto">NNMS4-----A----</AM>
+<AM lemma="Mikuláš-1_;S_;Y" src="manual" selected="1">NNMS4-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94208-108-p2s1Bw27">
 <src.rf>manual</src.rf>
@@ -368,7 +379,10 @@
 <LM>w#w-ln94208-108-p2s1Bw35</LM>
 </w.rf>
 <form>stal</form>
-<tag lemma="stát-2_^(něco_se_přihodilo)" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag>
+<AM lemma="stát-2_^(něco_se_přihodilo)" src="orig">VpYS---XR-AA---</AM>
+<AM lemma="stát-2_:W_^(něco_se_přihodilo)" src="manual" selected="1">VpYS---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-ln94208-108-p2s1Bw36">
 <src.rf>manual</src.rf>
@@ -862,7 +876,7 @@
 <form>Dukla</form>
 <tag>
 <AM lemma="Dukla-1_;K_^(sport._klub)" src="orig">AAXXX----1A----</AM>
-<AM lemma="Dukla_;G_;K_^(sport._klub;;průsmyk)" src="auto" recommended="1">NNFS1-----A----</AM>
+<AM lemma="Dukla_;G_;K_^(sport._klub;;průsmyk)" src="auto" recommended="1" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94208-108-p2s3w46">
@@ -940,6 +954,7 @@
 <tag>
 <AM lemma="cm-1`centimetr_:B" src="orig">NNIXX-----A---8</AM>
 <AM lemma="centimetr_:B" src="auto" recommended="1">NNIXX-----A---8</AM>
+<AM lemma="centimetr" src="manual" selected="1">NNIXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-ln94208-108-p2s4w8">
@@ -1015,6 +1030,7 @@
 <tag>
 <AM lemma="cm-1`centimetr_:B" src="orig">NNIXX-----A---8</AM>
 <AM lemma="centimetr_:B" src="auto" recommended="1">NNIXX-----A---8</AM>
+<AM lemma="centimetr" src="manual" selected="1">NNIXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-ln94208-108-p2s4w17">

@@ -125,7 +125,10 @@
 <LM>w#w-mf930708-168-p2s1w8</LM>
 </w.rf>
 <form>Vuka</form>
-<tag lemma="Vuka_;G" src="orig" selected="1">NNFS1-----A----</tag>
+<tag>
+<AM lemma="Vuka_;G" src="orig">NNFS1-----A----</AM>
+<AM lemma="Vuk_;Y" src="manual" selected="1">NNMS2-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930708-168-p2s1w9">
 <src.rf>manual</src.rf>
@@ -522,6 +525,7 @@
 <tag>
 <AM lemma="SPO-2_:B_;K_,t_^(Srbské_hnutí_obnovy)" src="orig">NNNXX-----A---8</AM>
 <AM lemma="SPO-1_:B_;K_^(Sbor_požární_ochrany)" src="auto" recommended="1">NNIXX-----A---8</AM>
+<AM lemma="SPO-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-mf930708-168-p3s1w20">
@@ -590,7 +594,7 @@
 <form>totiž</form>
 <tag>
 <AM lemma="totiž" src="orig">Db-------------</AM>
-<AM lemma="totiž-1" src="auto" recommended="1">J^-------------</AM>
+<AM lemma="totiž-1" src="auto" recommended="1" selected="1">J^-------------</AM>
 <AM lemma="totiž-2" src="auto">TT-------------</AM>
 </tag>
 </m>
@@ -656,7 +660,10 @@
 <LM>w#w-mf930708-168-p3s2w12</LM>
 </w.rf>
 <form>Danielle</form>
-<tag lemma="Danielle_;Y_,t" src="orig" selected="1">NNFXX-----A----</tag>
+<tag>
+<AM lemma="Danielle_;Y_,t" src="orig">NNFXX-----A----</AM>
+<AM lemma="Danielle_;Y" src="manual" selected="1">NNFXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930708-168-p3s2w13">
 <src.rf>manual</src.rf>

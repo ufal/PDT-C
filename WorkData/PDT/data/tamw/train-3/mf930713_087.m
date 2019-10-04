@@ -101,7 +101,10 @@
 <LM>w#w-mf930713-087-p2s1Aw3</LM>
 </w.rf>
 <form>ouš</form>
-<tag lemma="ouš-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="ouš-99_:B_;S" src="orig">NNXXX-----A---8</AM>
+<AM lemma="ouš-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930713-087-p2s1Aw4">
 <src.rf>manual</src.rf>
@@ -274,7 +277,7 @@
 <tag>
 <AM lemma="tady" src="orig">Db------------1</AM>
 <AM lemma="ten" src="auto">PDFS4----------</AM>
-<AM lemma="tu" src="auto" recommended="1">Db-------------</AM>
+<AM lemma="tu" src="auto" recommended="1" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m-mf930713-087-p2s1Bw20">
@@ -825,7 +828,10 @@
 <LM>w#w-mf930713-087-p3s6w5</LM>
 </w.rf>
 <form>milion</form>
-<tag lemma="milión`1000000" src="orig" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="milión`1000000" src="orig">NNIS1-----A----</AM>
+<AM lemma="milion`1000000_,s" src="manual" selected="1">_^(^DD**milión)</AM>
+</tag>
 </m>
 <m id="m-mf930713-087-p3s6w6">
 <src.rf>manual</src.rf>
@@ -998,7 +1004,7 @@
 </w.rf>
 <form>Přiklopila</form>
 <tag>
-<AM lemma="Přiklopil_;S" src="orig">NNMS2-----A----</AM>
+<AM lemma="Přiklopil_;S" src="orig" selected="1">NNMS2-----A----</AM>
 <AM lemma="přiklopit_:W" src="auto" recommended="1">VpQW---XR-AA---</AM>
 </tag>
 </m>
@@ -1612,7 +1618,10 @@
 <LM>w#w-mf930713-087-p5s1w9</LM>
 </w.rf>
 <form>milionů</form>
-<tag lemma="milión`1000000" src="orig" selected="1">NNIP2-----A----</tag>
+<tag>
+<AM lemma="milión`1000000" src="orig">NNIP2-----A----</AM>
+<AM lemma="milion`1000000_,s_^(^DD**milión)" src="manual" selected="1">NNIP2-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930713-087-p5s1w10">
 <src.rf>manual</src.rf>
@@ -1692,7 +1701,10 @@
 <LM>w#w-mf930713-087-p5s1w19</LM>
 </w.rf>
 <form>milionů</form>
-<tag lemma="milión`1000000" src="orig" selected="1">NNIP2-----A----</tag>
+<tag>
+<AM lemma="milión`1000000" src="orig">NNIP2-----A----</AM>
+<AM lemma="milion`1000000_,s_^(^DD**milión)" src="manual" selected="1">NNIP2-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930713-087-p5s1w20">
 <src.rf>manual</src.rf>
@@ -1727,7 +1739,7 @@
 </w.rf>
 <form>Přiklopil</form>
 <tag>
-<AM lemma="Přiklopil_;S" src="orig">NNMS1-----A----</AM>
+<AM lemma="Přiklopil_;S" src="orig" selected="1">NNMS1-----A----</AM>
 <AM lemma="přiklopit_:W" src="auto" recommended="1">VpYS---XR-AA---</AM>
 </tag>
 </m>
@@ -2151,7 +2163,10 @@
 <LM>w#w-mf930713-087-p6s4w14</LM>
 </w.rf>
 <form>ani</form>
-<tag lemma="ani-1" src="auto" selected="1">J^-------------</tag>
+<tag>
+<AM lemma="ani-1" src="auto">J^-------------</AM>
+<AM lemma="ani-2" src="manual" selected="1">TT-------------</AM>
+</tag>
 </m>
 <m id="m-mf930713-087-p6s4w15">
 <src.rf>manual</src.rf>

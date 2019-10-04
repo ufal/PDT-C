@@ -19,7 +19,10 @@
 <LM>w#w-ln95041-079-p1s1w1</LM>
 </w.rf>
 <form>KDU</form>
-<tag lemma="KDU_:B_;K_;p_^(Křesťansko-demokratická_unie)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="KDU_:B_;K_;p_^(Křesťansko-demokratická_unie)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="KDU_:B_;K_^(Křesťansko-demokratická_unie)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95041-079-p1s1w2">
 <src.rf>manual</src.rf>
@@ -35,7 +38,10 @@
 <LM>w#w-ln95041-079-p1s1w3</LM>
 </w.rf>
 <form>ČSL</form>
-<tag lemma="ČSL-1_:B_;K_;p_^(Česká_[pův._Čsl.]_strana_lidová)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ČSL-1_:B_;K_;p_^(Česká_[pův._Čsl.]_strana_lidová)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČSL-1_:B_;K_^(Česká_[pův._Čsl.]_strana_lidová)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95041-079-p1s1w4">
 <src.rf>manual</src.rf>
@@ -75,7 +81,10 @@
 <LM>w#w-ln95041-079-p1s1w8</LM>
 </w.rf>
 <form>pozvat</form>
-<tag lemma="pozvat" src="orig" selected="1">Vf--------A----</tag>
+<tag>
+<AM lemma="pozvat" src="orig">Vf--------A----</AM>
+<AM lemma="pozvat_:W" src="manual" selected="1">Vf--------A----</AM>
+</tag>
 </m>
 </s>
 <s id="m-ln95041-079-p2s1A">
@@ -321,7 +330,10 @@
 <LM>w#w-ln95041-079-p2s2w1</LM>
 </w.rf>
 <form>Chce</form>
-<tag lemma="chtít" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag>
+<AM lemma="chtít" src="orig">VB-S---3P-AA---</AM>
+<AM lemma="chtít_:T" src="manual" selected="1">VB-S---3P-AA---</AM>
+</tag>
 </m>
 <m id="m-ln95041-079-p2s2w2">
 <src.rf>manual</src.rf>
@@ -337,7 +349,10 @@
 <LM>w#w-ln95041-079-p2s2w3</LM>
 </w.rf>
 <form>li</form>
-<tag lemma="li-1" src="auto" selected="1">TT-------------</tag>
+<tag>
+<AM lemma="li-1" src="auto">TT-------------</AM>
+<AM lemma="li-2" src="manual" selected="1">J,-------------</AM>
+</tag>
 </m>
 <m id="m-ln95041-079-p2s2w4">
 <src.rf>manual</src.rf>
@@ -377,7 +392,10 @@
 <LM>w#w-ln95041-079-p2s2w8</LM>
 </w.rf>
 <form>EU</form>
-<tag lemma="EU-1_:B_;K_;p_^(Evropská_Unie)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="EU-1_:B_;K_;p_^(Evropská_Unie)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="EU-1_:B_;K_;^(Evropská_Unie)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95041-079-p2s2w9">
 <src.rf>manual</src.rf>
@@ -401,7 +419,10 @@
 <LM>w#w-ln95041-079-p2s2w11</LM>
 </w.rf>
 <form>NATO</form>
-<tag lemma="NATO_:B_;K_^(North_Atlantic_Treaty_Organization)" src="auto" selected="1">NNNXX-----A---8</tag>
+<tag>
+<AM lemma="NATO_:B_;K_^(North_Atlantic_Treaty_Organization)" src="auto">NNNXX-----A---8</AM>
+<AM lemma="NATO_:B_;K_^(North_Atlantic_Treaty_Organization)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95041-079-p2s2w12">
 <src.rf>manual</src.rf>
@@ -545,7 +566,10 @@
 <LM>w#w-ln95041-079-p2s2w29</LM>
 </w.rf>
 <form>uvedl</form>
-<tag lemma="uvést" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag>
+<AM lemma="uvést" src="orig">VpYS---XR-AA---</AM>
+<AM lemma="uvést_:W" src="manual" selected="1">VpYS---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-ln95041-079-p2s2w30">
 <src.rf>manual</src.rf>
@@ -569,7 +593,10 @@
 <LM>w#w-ln95041-079-p2s2w32</LM>
 </w.rf>
 <form>KDU</form>
-<tag lemma="KDU_:B_;K_;p_^(Křesťansko-demokratická_unie)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="KDU_:B_;K_;p_^(Křesťansko-demokratická_unie)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="KDU_:B_;K_^(Křesťansko-demokratická_unie)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95041-079-p2s2w33">
 <src.rf>manual</src.rf>
@@ -585,7 +612,10 @@
 <LM>w#w-ln95041-079-p2s2w34</LM>
 </w.rf>
 <form>ČSL</form>
-<tag lemma="ČSL-1_:B_;K_;p_^(Česká_[pův._Čsl.]_strana_lidová)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ČSL-1_:B_;K_;p_^(Česká_[pův._Čsl.]_strana_lidová)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČSL-1_:B_;K_^(Česká_[pův._Čsl.]_strana_lidová)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95041-079-p2s2w35">
 <src.rf>manual</src.rf>
@@ -853,7 +883,7 @@
 <form>totiž</form>
 <tag>
 <AM lemma="totiž" src="orig">Db-------------</AM>
-<AM lemma="totiž-1" src="auto" recommended="1">J^-------------</AM>
+<AM lemma="totiž-1" src="auto" recommended="1" selected="1">J^-------------</AM>
 <AM lemma="totiž-2" src="auto">TT-------------</AM>
 </tag>
 </m>
@@ -1063,7 +1093,10 @@
 <LM>w#w-ln95041-079-p2s3w56</LM>
 </w.rf>
 <form>nevzejde</form>
-<tag lemma="vzejít" src="orig" selected="1">VB-S---3P-NA---</tag>
+<tag>
+<AM lemma="vzejít" src="orig">VB-S---3P-NA---</AM>
+<AM lemma="vzejít_:W" src="manual" selected="1">VB-S---3P-NA---</AM>
+</tag>
 </m>
 <m id="m-ln95041-079-p2s3w57">
 <src.rf>manual</src.rf>

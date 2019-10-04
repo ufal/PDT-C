@@ -214,7 +214,7 @@
 </w.rf>
 <form>Artama</form>
 <tag>
-<AM lemma="Artama_;K" src="orig">NNFS1-----A----</AM>
+<AM lemma="Artama_;K" src="orig" selected="1">NNFS1-----A----</AM>
 <AM lemma="Art-1_;Y" src="auto" recommended="1">NNMP7-----A---6</AM>
 <AM lemma="Arto_;Y" src="auto">NNMP7-----A---6</AM>
 <AM lemma="art" src="auto">NNIP7-----A---6</AM>
@@ -352,7 +352,7 @@
 <form>Alarm</form>
 <tag>
 <AM lemma="Alarm_;m_,t" src="orig">AAXXX----1A----</AM>
-<AM lemma="alarm" src="auto" recommended="1">NNIS1-----A----</AM>
+<AM lemma="alarm" src="auto" recommended="1" selected="1">NNIS1-----A----</AM>
 <AM lemma="alarm" src="auto">NNIS4-----A----</AM>
 </tag>
 </m>
@@ -532,7 +532,10 @@
 <LM>w#w-ln94210-47-p3s2w5</LM>
 </w.rf>
 <form>využít</form>
-<tag lemma="využít" src="orig" selected="1">Vf--------A----</tag>
+<tag>
+<AM lemma="využít" src="orig">Vf--------A----</AM>
+<AM lemma="využít_:W" src="manual" selected="1">Vf--------A----</AM>
+</tag>
 </m>
 <m id="m-ln94210-47-p3s2w6">
 <src.rf>manual</src.rf>
@@ -647,7 +650,7 @@
 </w.rf>
 <form>jedoucích</form>
 <tag>
-<AM lemma="jedoucí_^(pohybovat_se,_ne_však_chůzí)_(*5t)" src="orig">AGIP2-----A----</AM>
+<AM lemma="jedoucí_^(pohybovat_se,_ne_však_chůzí)_(*5t)" src="orig" selected="1">AGIP2-----A----</AM>
 <AM lemma="jedoucí-1_^(pohybovat_se,_ne_však_chůzí)_(*7t-1)" src="auto">AGFP2-----A----</AM>
 <AM lemma="jedoucí-1_^(pohybovat_se,_ne_však_chůzí)_(*7t-1)" src="auto">AGFP6-----A----</AM>
 <AM lemma="jedoucí-1_^(pohybovat_se,_ne_však_chůzí)_(*7t-1)" src="auto">AGIP2-----A----</AM>
@@ -740,6 +743,7 @@
 <AM lemma="nalézt" src="orig">VpQW---XR-AA---</AM>
 <AM lemma="nalézt-1_^(někam)" src="auto" recommended="1">VpQW---XR-AA---</AM>
 <AM lemma="nalézt-2" src="auto">VpQW---XR-AA---</AM>
+<AM lemma="nalézt-2_:W" src="manual" selected="1">VpQW---XR-AA---</AM>
 </tag>
 </m>
 <m id="m-ln94210-47-p4s1w17">
@@ -814,7 +818,10 @@
 <LM>w#w-ln94210-47-p4s2w3</LM>
 </w.rf>
 <form>zakázán</form>
-<tag lemma="zakázat" src="orig" selected="1">VsYS---XX-AP---</tag>
+<tag>
+<AM lemma="zakázat" src="orig">VsYS---XX-AP---</AM>
+<AM lemma="zakázat_:W" src="manual" selected="1">VsYS---XX-AP---</AM>
+</tag>
 </m>
 <m id="m-ln94210-47-p4s2w4">
 <src.rf>manual</src.rf>
@@ -838,7 +845,10 @@
 <LM>w#w-ln94210-47-p4s2w6</LM>
 </w.rf>
 <form>ČR</form>
-<tag lemma="ČR-1_:B_;G_^(Česká_republika)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94210-47-p4s2w7">
 <src.rf>manual</src.rf>

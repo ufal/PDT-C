@@ -499,7 +499,10 @@
 <LM>w#w-ln95048-137-p3s1w7</LM>
 </w.rf>
 <form>ŠÚ</form>
-<tag lemma="ŠÚ-1_:B_^(školský_úřad)" src="auto" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="ŠÚ-1_:B_^(školský_úřad)" src="auto">NNIXX-----A---8</AM>
+<AM lemma="ŠÚ-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95048-137-p3s1w8">
 <src.rf>manual</src.rf>
@@ -647,7 +650,10 @@
 <LM>w#w-ln95048-137-p3s3w2</LM>
 </w.rf>
 <form>ŠÚ</form>
-<tag lemma="ŠÚ-1_:B_^(školský_úřad)" src="auto" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="ŠÚ-1_:B_^(školský_úřad)" src="auto">NNIXX-----A---8</AM>
+<AM lemma="ŠÚ-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95048-137-p3s3w3">
 <src.rf>manual</src.rf>
@@ -679,7 +685,10 @@
 <LM>w#w-ln95048-137-p3s3w6</LM>
 </w.rf>
 <form>M</form>
-<tag lemma="M-0_:B_;Y" src="orig" selected="1">NNMXX-----A---8</tag>
+<tag>
+<AM lemma="M-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
+<AM lemma="M-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95048-137-p3s3w7">
 <src.rf>manual</src.rf>
@@ -2195,7 +2204,7 @@
 <form>nade</form>
 <tag>
 <AM lemma="nad-1" src="orig">RR--4----------</AM>
-<AM lemma="nad-1" src="auto">RV--4----------</AM>
+<AM lemma="nad-1" src="auto" selected="1">RV--4----------</AM>
 <AM lemma="nad-1" src="auto" recommended="1">RV--7----------</AM>
 </tag>
 </m>
@@ -2375,7 +2384,10 @@
 <LM>w#w-ln95048-137-p4s3w9</LM>
 </w.rf>
 <form>jen</form>
-<tag lemma="jen-1" src="auto" selected="1">TT-------------</tag>
+<tag>
+<AM lemma="jen-1" src="auto">TT-------------</AM>
+<AM lemma="jen-4_^(pouze)" src="manual" selected="1">Db-------------</AM>
+</tag>
 </m>
 <m id="m-ln95048-137-p4s3w10">
 <src.rf>manual</src.rf>
@@ -2641,7 +2653,7 @@
 <form>totiž</form>
 <tag>
 <AM lemma="totiž" src="orig">Db-------------</AM>
-<AM lemma="totiž-1" src="auto" recommended="1">J^-------------</AM>
+<AM lemma="totiž-1" src="auto" recommended="1" selected="1">J^-------------</AM>
 <AM lemma="totiž-2" src="auto">TT-------------</AM>
 </tag>
 </m>
@@ -2831,7 +2843,7 @@
 <form>přesto</form>
 <tag>
 <AM lemma="přesto" src="orig">Dg-------1A----</AM>
-<AM lemma="přesto-1" src="auto" recommended="1">Db-------------</AM>
+<AM lemma="přesto-1" src="auto" recommended="1" selected="1">Db-------------</AM>
 <AM lemma="přesto-2" src="auto">J^-------------</AM>
 </tag>
 </m>

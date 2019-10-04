@@ -725,7 +725,7 @@
 <form>třeba</form>
 <tag>
 <AM lemma="třeba-1" src="orig">ACNS------A----</AM>
-<AM lemma="třeba-2" src="auto" recommended="1">Db-------------</AM>
+<AM lemma="třeba-2" src="auto" recommended="1" selected="1">Db-------------</AM>
 <AM lemma="třeba-3" src="auto">TT-------------</AM>
 </tag>
 </m>
@@ -1041,7 +1041,10 @@
 <LM>w#w-mf930703-020-p3s1w28</LM>
 </w.rf>
 <form>Pilka</form>
-<tag lemma="pilka" src="orig" selected="1">NNFS1-----A----</tag>
+<tag>
+<AM lemma="pilka" src="orig">NNFS1-----A----</AM>
+<AM lemma="Pilka_;S" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930703-020-p3s1w29">
 <src.rf>manual</src.rf>
@@ -2870,7 +2873,7 @@
 <tag>
 <AM lemma="matka" src="orig">NNFS4-----A----</AM>
 <AM lemma="matka-1_^(malá_součástka)" src="auto" recommended="1">NNFS4-----A----</AM>
-<AM lemma="matka-2_^(maminka)" src="auto">NNFS4-----A----</AM>
+<AM lemma="matka-2_^(maminka)" src="auto" selected="1">NNFS4-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930703-020-p4s5w24">
@@ -3351,7 +3354,10 @@
 <LM>w#w-mf930703-020-p5s1w14</LM>
 </w.rf>
 <form>ani</form>
-<tag lemma="ani-1" src="auto" selected="1">J^-------------</tag>
+<tag>
+<AM lemma="ani-1" src="auto">J^-------------</AM>
+<AM lemma="ani-2" src="manual" selected="1">TT-------------</AM>
+</tag>
 </m>
 <m id="m-mf930703-020-p5s1w15">
 <src.rf>manual</src.rf>
@@ -3465,7 +3471,10 @@
 <LM>w#w-mf930703-020-p5s2w10</LM>
 </w.rf>
 <form>jen</form>
-<tag lemma="jen-1" src="auto" selected="1">TT-------------</tag>
+<tag>
+<AM lemma="jen-1" src="auto">TT-------------</AM>
+<AM lemma="jen-4_^(pouze)" src="manual" selected="1">Db-------------</AM>
+</tag>
 </m>
 <m id="m-mf930703-020-p5s2w11">
 <src.rf>manual</src.rf>
@@ -4052,7 +4061,10 @@
 <LM>w#w-mf930703-020-p6s2w2</LM>
 </w.rf>
 <form>MUDr</form>
-<tag lemma="MUDr-2_:B_^(doktorka_medicíny)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="MUDr-2_:B_^(doktorka_medicíny)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="MUDr_:B_^(doktor_medicíny)" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-mf930703-020-p6s2w3">
 <src.rf>manual</src.rf>
@@ -4212,7 +4224,7 @@
 <AM lemma="matka-1_^(malá_součástka)" src="auto">NNFP4-----A----</AM>
 <AM lemma="matka-1_^(malá_součástka)" src="auto">NNFP5-----A----</AM>
 <AM lemma="matka-1_^(malá_součástka)" src="auto">NNFS2-----A----</AM>
-<AM lemma="matka-2_^(maminka)" src="auto">NNFP1-----A----</AM>
+<AM lemma="matka-2_^(maminka)" src="auto" selected="1">NNFP1-----A----</AM>
 <AM lemma="matka-2_^(maminka)" src="auto">NNFP4-----A----</AM>
 <AM lemma="matka-2_^(maminka)" src="auto">NNFP5-----A----</AM>
 <AM lemma="matka-2_^(maminka)" src="auto">NNFS2-----A----</AM>
@@ -5108,7 +5120,7 @@
 <form>Apgar</form>
 <tag>
 <AM lemma="Apgar_;S" src="orig">AAXXX----1A----</AM>
-<AM lemma="Apgar_;R_;U_^(Apgar_skóre-orient.hodnocení_stavu_novorozence)" src="auto" recommended="1">NNIS1-----A----</AM>
+<AM lemma="Apgar_;R_;U_^(Apgar_skóre-orient.hodnocení_stavu_novorozence)" src="auto" recommended="1" selected="1">NNIS1-----A----</AM>
 <AM lemma="Apgar_;R_;U_^(Apgar_skóre-orient.hodnocení_stavu_novorozence)" src="auto">NNIS4-----A----</AM>
 <AM lemma="Apgar_;S" src="auto">NNMS1-----A----</AM>
 </tag>
@@ -5427,7 +5439,10 @@
 <LM>w#w-mf930703-020-p8s3w14</LM>
 </w.rf>
 <form>jen</form>
-<tag lemma="jen-1" src="auto" selected="1">TT-------------</tag>
+<tag>
+<AM lemma="jen-1" src="auto">TT-------------</AM>
+<AM lemma="jen-4_^(pouze)" src="manual" selected="1">Db-------------</AM>
+</tag>
 </m>
 <m id="m-mf930703-020-p8s3w15">
 <src.rf>manual</src.rf>
@@ -5637,7 +5652,7 @@
 <AM lemma="hustý" src="auto">AAFS1----2A----</AM>
 <AM lemma="hustý" src="auto">AAFS2----2A----</AM>
 <AM lemma="hustý" src="auto">AAFS3----2A----</AM>
-<AM lemma="hustý" src="auto" recommended="1">AAFS4----2A----</AM>
+<AM lemma="hustý" src="auto" recommended="1" selected="1">AAFS4----2A----</AM>
 <AM lemma="hustý" src="auto">AAFS5----2A----</AM>
 <AM lemma="hustý" src="auto">AAFS6----2A----</AM>
 <AM lemma="hustý" src="auto">AAFS7----2A----</AM>
@@ -5738,7 +5753,10 @@
 <LM>w#w-mf930703-020-p9s1w24</LM>
 </w.rf>
 <form>Pilka</form>
-<tag lemma="pilka" src="orig" selected="1">NNFS1-----A----</tag>
+<tag>
+<AM lemma="pilka" src="orig">NNFS1-----A----</AM>
+<AM lemma="Pilka_;S" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930703-020-p9s1w25">
 <src.rf>manual</src.rf>
@@ -6171,7 +6189,7 @@
 <AM lemma="matka-2_^(maminka)" src="auto">NNFP1-----A----</AM>
 <AM lemma="matka-2_^(maminka)" src="auto">NNFP4-----A----</AM>
 <AM lemma="matka-2_^(maminka)" src="auto">NNFP5-----A----</AM>
-<AM lemma="matka-2_^(maminka)" src="auto">NNFS2-----A----</AM>
+<AM lemma="matka-2_^(maminka)" src="auto" selected="1">NNFS2-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930703-020-p9s5w11">

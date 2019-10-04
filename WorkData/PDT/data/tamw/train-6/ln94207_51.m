@@ -413,7 +413,7 @@
 <AM lemma="m-1`metr_:B" src="orig">NNIXX-----A---8</AM>
 <AM lemma="m-3_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
 <AM lemma="m-8_:B_^(ost._zkratka)" src="auto">XX------------8</AM>
-<AM lemma="metr_:B" src="auto" recommended="1">NNIXX-----A---8</AM>
+<AM lemma="metr_:B" src="auto" recommended="1" selected="1">NNIXX-----A---8</AM>
 <AM lemma="mimo-1_:B" src="auto">RR--2---------8</AM>
 <AM lemma="mimo-1_:B" src="auto">RR--4---------8</AM>
 <AM lemma="minuta_:B" src="auto">NNFXX-----A---8</AM>
@@ -570,6 +570,7 @@
 <AM lemma="Sorbit" src="auto">NNIS4-----A----</AM>
 <AM lemma="sorbit" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="sorbit" src="auto">NNIS4-----A----</AM>
+<AM lemma="Sorbit-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-ln94207-51-p3s1w18">
@@ -579,8 +580,9 @@
 </w.rf>
 <form>Skala</form>
 <tag>
-<AM lemma="Skal_;Y" src="orig">NNMS2-----A----</AM>
+<AM lemma="Skal_;Y" src="orig" selected="1">NNMS2-----A----</AM>
 <AM lemma="Skala_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Skala-77" src="manual">F%-------------</AM>
 </tag>
 </m>
 <m id="m-ln94207-51-p3s1w19">
@@ -655,7 +657,10 @@
 <LM>w#w-ln94207-51-p3s2w8</LM>
 </w.rf>
 <form>nedávno</form>
-<tag lemma="nedávno-1" src="auto" selected="1">Db-------------</tag>
+<tag>
+<AM lemma="nedávno-1" src="auto">Db-------------</AM>
+<AM lemma="dávno-1" src="manual" selected="1">Dg-------1N----</AM>
+</tag>
 </m>
 <m id="m-ln94207-51-p3s2w9">
 <src.rf>manual</src.rf>

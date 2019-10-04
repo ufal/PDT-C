@@ -387,7 +387,10 @@
 <LM>w#w-mf920902-141-p2s3w11</LM>
 </w.rf>
 <form>Alipašino</form>
-<tag lemma="Alipašin_;G_,t" src="orig" selected="1">AANS1----1A----</tag>
+<tag>
+<AM lemma="Alipašin_;G_,t" src="orig">AANS1----1A----</AM>
+<AM lemma="Alipašino-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-mf920902-141-p2s3w12">
 <src.rf>manual</src.rf>
@@ -406,6 +409,7 @@
 <AM lemma="polje_;L_^(krasová_sníženina)" src="auto">NNNS2-----A----</AM>
 <AM lemma="polje_;L_^(krasová_sníženina)" src="auto">NNNS4-----A----</AM>
 <AM lemma="polje_;L_^(krasová_sníženina)" src="auto">NNNS5-----A----</AM>
+<AM lemma="Polje-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-mf920902-141-p2s3w13">
@@ -527,7 +531,7 @@
 </w.rf>
 <form>Igman</form>
 <tag>
-<AM lemma="Igman-2_;G" src="orig">NNIS1-----A----</AM>
+<AM lemma="Igman-2_;G" src="orig" selected="1">NNIS1-----A----</AM>
 <AM lemma="Igman_;S" src="auto" recommended="1">NNMS1-----A----</AM>
 </tag>
 </m>
@@ -547,7 +551,10 @@
 <LM>w#w-mf920902-141-p2s4w1</LM>
 </w.rf>
 <form>Jen</form>
-<tag lemma="jen-1" src="auto" selected="1">TT-------------</tag>
+<tag>
+<AM lemma="jen-1" src="auto">TT-------------</AM>
+<AM lemma="jen-4_^(pouze)" src="manual" selected="1">Db-------------</AM>
+</tag>
 </m>
 <m id="m-mf920902-141-p2s4w2">
 <src.rf>manual</src.rf>
@@ -601,7 +608,7 @@
 <AM lemma="raněný_^(poranit)_(*3it)" src="auto">AAFP6----1A----</AM>
 <AM lemma="raněný_^(poranit)_(*3it)" src="auto">AAIP2----1A----</AM>
 <AM lemma="raněný_^(poranit)_(*3it)" src="auto">AAIP6----1A----</AM>
-<AM lemma="raněný_^(poranit)_(*3it)" src="auto" recommended="1">AAMP2----1A----</AM>
+<AM lemma="raněný_^(poranit)_(*3it)" src="auto" recommended="1" selected="1">AAMP2----1A----</AM>
 <AM lemma="raněný_^(poranit)_(*3it)" src="auto">AAMP6----1A----</AM>
 <AM lemma="raněný_^(poranit)_(*3it)" src="auto">AANP2----1A----</AM>
 <AM lemma="raněný_^(poranit)_(*3it)" src="auto">AANP6----1A----</AM>
@@ -751,7 +758,10 @@
 <LM>w#w-mf920902-141-p2s5w14</LM>
 </w.rf>
 <form>Alipašin</form>
-<tag lemma="Alipašin_;G_,t" src="orig" selected="1">AAIS1----1A----</tag>
+<tag>
+<AM lemma="Alipašin_;G_,t" src="orig">AAIS1----1A----</AM>
+<AM lemma="Alipašin_;G" src="manual" selected="1">AAIS1----1A----</AM>
+</tag>
 </m>
 <m id="m-mf920902-141-p2s5w15">
 <src.rf>manual</src.rf>
@@ -1097,7 +1107,7 @@
 <form>zasáhl</form>
 <tag>
 <AM lemma="zasáhnout" src="orig">VpYS---XR-AA---</AM>
-<AM lemma="zasáhnout_:W" src="auto" recommended="1">VpYS---XR-AA--1</AM>
+<AM lemma="zasáhnout_:W" src="auto" recommended="1" selected="1">VpYS---XR-AA--1</AM>
 </tag>
 </m>
 <m id="m-mf920902-141-p2s9w4">
@@ -1109,7 +1119,7 @@
 <tag>
 <AM lemma="kasárna" src="orig">NNNP4-----A----</AM>
 <AM lemma="kasárna" src="auto">NNNP1-----A---1</AM>
-<AM lemma="kasárna" src="auto" recommended="1">NNNP4-----A---1</AM>
+<AM lemma="kasárna" src="auto" recommended="1" selected="1">NNNP4-----A---1</AM>
 <AM lemma="kasárna" src="auto">NNNP5-----A---1</AM>
 </tag>
 </m>
@@ -1207,7 +1217,10 @@
 <LM>w#w-mf920902-141-p2s9w16</LM>
 </w.rf>
 <form>UNPROFOR</form>
-<tag lemma="UNPROFOR_:B" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="UNPROFOR_:B" src="orig">NNFXX-----A---8</AM>
+<AM lemma="UNPROFOR-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-mf920902-141-p2s9w17">
 <src.rf>manual</src.rf>
@@ -1639,7 +1652,10 @@
 <LM>w#w-mf920902-141-p2s13w12</LM>
 </w.rf>
 <form>Hadžiči</form>
-<tag lemma="Hadžič_;S" src="orig" selected="1">NNMS3-----A----</tag>
+<tag>
+<AM lemma="Hadžič_;S" src="orig">NNMS3-----A----</AM>
+<AM lemma="Hadžič-2_;G" src="manual" selected="1">NNFS3-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920902-141-p2s13w13">
 <src.rf>manual</src.rf>
@@ -1661,7 +1677,7 @@
 <AM lemma="Ilidža_;G" src="auto">NNFP4-----A----</AM>
 <AM lemma="Ilidža_;G" src="auto">NNFP5-----A----</AM>
 <AM lemma="Ilidža_;G" src="auto">NNFS2-----A----</AM>
-<AM lemma="Ilidža_;G" src="auto" recommended="1">NNFS3-----A---1</AM>
+<AM lemma="Ilidža_;G" src="auto" recommended="1" selected="1">NNFS3-----A---1</AM>
 <AM lemma="Ilidža_;G" src="auto">NNFS6-----A---1</AM>
 </tag>
 </m>
@@ -1722,7 +1738,7 @@
 </w.rf>
 <form>Ilidže</form>
 <tag>
-<AM lemma="Ilidža_;G" src="orig">NNFS2-----A----</AM>
+<AM lemma="Ilidža_;G" src="orig" selected="1">NNFS2-----A----</AM>
 <AM lemma="Ilidža_;G" src="auto">NNFP1-----A---1</AM>
 <AM lemma="Ilidža_;G" src="auto">NNFP4-----A---1</AM>
 <AM lemma="Ilidža_;G" src="auto" recommended="1">NNFP5-----A---1</AM>
@@ -1922,7 +1938,10 @@
 <LM>w#w-mf920902-141-p2s15w8</LM>
 </w.rf>
 <form>BBC</form>
-<tag lemma="BBC_:B_;K" src="orig" selected="1">NNNXX-----A---8</tag>
+<tag>
+<AM lemma="BBC_:B_;K" src="orig">NNNXX-----A---8</AM>
+<AM lemma="BBC-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-mf920902-141-p2s15w9">
 <src.rf>manual</src.rf>
@@ -2368,7 +2387,7 @@
 <form>Záhřebu</form>
 <tag>
 <AM lemma="Záhřeb_;G" src="orig">NNIS2-----A----</AM>
-<AM lemma="Záhřeb_;G" src="auto" recommended="1">NNIS2-----A---1</AM>
+<AM lemma="Záhřeb_;G" src="auto" recommended="1" selected="1">NNIS2-----A---1</AM>
 <AM lemma="Záhřeb_;G" src="auto">NNIS3-----A----</AM>
 <AM lemma="Záhřeb_;G" src="auto">NNIS6-----A---1</AM>
 </tag>
@@ -2443,7 +2462,10 @@
 <LM>w#w-mf920902-141-p2s17w11</LM>
 </w.rf>
 <form>Marrack</form>
-<tag lemma="Marrack_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Marrack_;S" src="orig">NNMS1-----A----</AM>
+<AM lemma="Marrack_;Y_;S" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920902-141-p2s17w12">
 <src.rf>manual</src.rf>

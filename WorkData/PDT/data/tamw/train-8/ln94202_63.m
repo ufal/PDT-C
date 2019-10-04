@@ -281,7 +281,7 @@
 <AM lemma="Bihač_;G" src="auto">NNIP1-----A----</AM>
 <AM lemma="Bihač_;G" src="auto">NNIP4-----A----</AM>
 <AM lemma="Bihač_;G" src="auto">NNIP5-----A----</AM>
-<AM lemma="Bihač_;G" src="auto" recommended="1">NNIS2-----A----</AM>
+<AM lemma="Bihač_;G" src="auto" recommended="1" selected="1">NNIS2-----A----</AM>
 <AM lemma="Bihač_;S" src="auto">NNMP4-----A----</AM>
 <AM lemma="Bihač_;S" src="auto">NNMS2-----A----</AM>
 <AM lemma="Bihač_;S" src="auto">NNMS4-----A----</AM>
@@ -658,7 +658,10 @@
 <LM>w#w-ln94202-63-p4s1w14</LM>
 </w.rf>
 <form>Fikreta</form>
-<tag lemma="Fikret_;S" src="auto" selected="1">NNMS2-----A----</tag>
+<tag>
+<AM lemma="Fikret_;S" src="auto">NNMS2-----A----</AM>
+<AM lemma="Fikret_;Y" src="manual" selected="1">NNMS2-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94202-63-p4s1w15">
 <src.rf>manual</src.rf>
@@ -885,7 +888,10 @@
 <LM>w#w-ln94202-63-p4s2w15</LM>
 </w.rf>
 <form>OSN</form>
-<tag lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94202-63-p4s2w16">
 <src.rf>manual</src.rf>
@@ -1519,7 +1525,10 @@
 <LM>w#w-ln94202-63-p6s1w10</LM>
 </w.rf>
 <form>von</form>
-<tag lemma="von-2_,t" src="orig" selected="1">RR--X----------</tag>
+<tag>
+<AM lemma="von-2_,t" src="orig">RR--X----------</AM>
+<AM lemma="von-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94202-63-p6s1w11">
 <src.rf>manual</src.rf>
@@ -1583,7 +1592,10 @@
 <LM>w#w-ln94202-63-p6s1w18</LM>
 </w.rf>
 <form>Fikretem</form>
-<tag lemma="Fikret_;S" src="auto" selected="1">NNMS7-----A----</tag>
+<tag>
+<AM lemma="Fikret_;S" src="auto">NNMS7-----A----</AM>
+<AM lemma="Fikret_;Y" src="manual" selected="1">NNMS7-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94202-63-p6s1w19">
 <src.rf>manual</src.rf>
@@ -1656,7 +1668,10 @@
 <LM>w#w-ln94202-63-p6s1w27</LM>
 </w.rf>
 <form>RSK</form>
-<tag lemma="RSK_:B_;G_^(Republika_Srbská_Krajina)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="RSK_:B_;G_^(Republika_Srbská_Krajina)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="RSK-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln94202-63-p6s1w28">
 <src.rf>manual</src.rf>
@@ -1934,7 +1949,7 @@
 </w.rf>
 <form>Záhřebu</form>
 <tag>
-<AM lemma="Záhřeb_;G" src="orig">NNIS2-----A----</AM>
+<AM lemma="Záhřeb_;G" src="orig" selected="1">NNIS2-----A----</AM>
 <AM lemma="Záhřeb_;G" src="auto" recommended="1">NNIS2-----A---1</AM>
 <AM lemma="Záhřeb_;G" src="auto">NNIS3-----A----</AM>
 <AM lemma="Záhřeb_;G" src="auto">NNIS6-----A---1</AM>
@@ -2651,7 +2666,10 @@
 <LM>w#w-ln94202-63-p7s1w33</LM>
 </w.rf>
 <form>UNPROFOR</form>
-<tag lemma="UNPROFOR_:B" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="UNPROFOR_:B" src="orig">NNFXX-----A---8</AM>
+<AM lemma="UNPROFOR-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln94202-63-p7s1w34">
 <src.rf>manual</src.rf>

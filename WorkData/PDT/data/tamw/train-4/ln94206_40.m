@@ -393,7 +393,10 @@
 <LM>w#w-ln94206-40-p2s2w9</LM>
 </w.rf>
 <form>přijata</form>
-<tag lemma="přijmout" src="auto" selected="1">VsQW---XX-AP---</tag>
+<tag>
+<AM lemma="přijmout" src="auto">VsQW---XX-AP---</AM>
+<AM lemma="přijmout_:W" src="manual" selected="1">VsQW---XX-AP---</AM>
+</tag>
 </m>
 <m id="m-ln94206-40-p2s2w10">
 <src.rf>manual</src.rf>
@@ -595,7 +598,10 @@
 <LM>w#w-ln94206-40-p2s3w7</LM>
 </w.rf>
 <form>řekl</form>
-<tag lemma="říci" src="auto" selected="1">VpYS---XR-AA---</tag>
+<tag>
+<AM lemma="říci" src="auto">VpYS---XR-AA---</AM>
+<AM lemma="říci_:W" src="manual" selected="1">VpYS---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-ln94206-40-p2s3w8">
 <src.rf>manual</src.rf>

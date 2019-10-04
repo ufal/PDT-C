@@ -177,7 +177,10 @@
 <LM>w#w-ln95041-027-p2s2w2</LM>
 </w.rf>
 <form>Mora</form>
-<tag lemma="mora" src="orig" selected="1">NNFS1-----A----</tag>
+<tag>
+<AM lemma="mora" src="orig">NNFS1-----A----</AM>
+<AM lemma="Mora_;K" src="manual" selected="1">NNFS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95041-027-p2s2w3">
 <src.rf>manual</src.rf>
@@ -225,7 +228,10 @@
 <LM>w#w-ln95041-027-p2s2w8</LM>
 </w.rf>
 <form>PMEZ</form>
-<tag lemma="PMEZ_:B_;K_^(Pohár_mistrů_evropských_zemí)" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="PMEZ_:B_;K_^(Pohár_mistrů_evropských_zemí)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="PMEZ-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln95041-027-p2s2w9">
 <src.rf>manual</src.rf>
@@ -299,7 +305,7 @@
 <form>ovšem</form>
 <tag>
 <AM lemma="ovšem-1_^(avšak,_však;_odporovací_spojka)" src="orig">J^-------------</AM>
-<AM lemma="ovšem" src="auto" recommended="1">TT-------------</AM>
+<AM lemma="ovšem" src="auto" recommended="1" selected="1">TT-------------</AM>
 </tag>
 </m>
 <m id="m-ln95041-027-p2s2w18">
@@ -414,7 +420,10 @@
 <LM>w#w-ln95041-027-p2s3w2</LM>
 </w.rf>
 <form>PSK</form>
-<tag lemma="PSK-1_:B_^(policejní_sportovní_klub)" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="PSK-1_:B_^(policejní_sportovní_klub)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="PSK-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln95041-027-p2s3w3">
 <src.rf>manual</src.rf>
@@ -422,7 +431,10 @@
 <LM>w#w-ln95041-027-p2s3w3</LM>
 </w.rf>
 <form>Olymp</form>
-<tag lemma="Olymp_;G" src="auto" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="Olymp_;G" src="auto">NNIS1-----A----</AM>
+<AM lemma="Olymp_;G_;K" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95041-027-p2s3w4">
 <src.rf>manual</src.rf>
@@ -473,6 +485,7 @@
 <tag>
 <AM lemma="CEV_:B_;m_,t" src="orig">NNXXX-----A---8</AM>
 <AM lemma="Ceva_;K" src="auto" recommended="1">NNFP2-----A----</AM>
+<AM lemma="CEV-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-ln95041-027-p2s3w10">
@@ -537,7 +550,10 @@
 <LM>w#w-ln95041-027-p2s3w17</LM>
 </w.rf>
 <form>RCF</form>
-<tag lemma="RCF_:B_;K" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="RCF_:B_;K" src="orig">NNXXX-----A---8</AM>
+<AM lemma="RCF-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln95041-027-p2s3w18">
 <src.rf>manual</src.rf>

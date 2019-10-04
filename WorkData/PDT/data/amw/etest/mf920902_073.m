@@ -30,7 +30,7 @@
 <AM lemma="Kopecký_;S" src="auto">NNMP1-----A---6</AM>
 <AM lemma="Kopecký_;S" src="auto">NNMP4-----A---6</AM>
 <AM lemma="Kopecký_;S" src="auto">NNMP5-----A---6</AM>
-<AM lemma="Kopecký_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Kopecký_;S" src="auto" recommended="1" selected="1">NNMS1-----A----</AM>
 <AM lemma="Kopecký_;S" src="auto">NNMS5-----A----</AM>
 </tag>
 </m>
@@ -48,7 +48,11 @@
 <LM>w#w-mf920902-073-p2s1w3</LM>
 </w.rf>
 <form>ČSFR</form>
-<tag lemma="ČSFR-1_:B_;G_^(Čs._federativní_republika)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ČSFR-1_:B_;G_^(Čs._federativní_republika)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČSFR-2_:B" src="manual">NNXXX-----A---8</AM>
+<AM lemma="ČSFR-1_:B_;G_^(Čs._federativní_republika)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920902-073-p2s1w4">
 <src.rf>manual</src.rf>
@@ -176,7 +180,10 @@
 <LM>w#w-mf920902-073-p2s1w19</LM>
 </w.rf>
 <form>vyhrát</form>
-<tag lemma="vyhrát" src="orig" selected="1">Vf--------A----</tag>
+<tag>
+<AM lemma="vyhrát" src="orig">Vf--------A----</AM>
+<AM lemma="vyhrát_:W" src="manual" selected="1">Vf--------A----</AM>
+</tag>
 </m>
 <m id="m-mf920902-073-p2s1w20">
 <src.rf>manual</src.rf>
@@ -194,7 +201,10 @@
 <LM>w#w-mf920902-073-p2s2w1</LM>
 </w.rf>
 <form>Zklamala</form>
-<tag lemma="zklamat" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag>
+<AM lemma="zklamat" src="orig">VpQW---XR-AA---</AM>
+<AM lemma="zklamat_:W" src="manual" selected="1">VpQW---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-mf920902-073-p2s2w2">
 <src.rf>manual</src.rf>
@@ -266,7 +276,10 @@
 <LM>w#w-mf920902-073-p2s2w10</LM>
 </w.rf>
 <form>pomohly</form>
-<tag lemma="pomoci" src="orig" selected="1">VpTP---XR-AA---</tag>
+<tag>
+<AM lemma="pomoci" src="orig">VpTP---XR-AA---</AM>
+<AM lemma="pomoci_:W" src="manual" selected="1">VpTP---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-mf920902-073-p2s2w11">
 <src.rf>manual</src.rf>
@@ -520,7 +533,10 @@
 <LM>w#w-mf920902-073-p3s1w6</LM>
 </w.rf>
 <form>Měli</form>
-<tag lemma="mít" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag>
+<AM lemma="mít" src="orig">VpMP---XR-AA---</AM>
+<AM lemma="mít_:T" src="manual" selected="1">VpMP---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-mf920902-073-p3s1w7">
 <src.rf>manual</src.rf>
@@ -722,7 +738,10 @@
 <LM>w#w-mf920902-073-p3s2w1</LM>
 </w.rf>
 <form>Měli</form>
-<tag lemma="mít" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag>
+<AM lemma="mít" src="orig">VpMP---XR-AA---</AM>
+<AM lemma="mít_:T" src="manual" selected="1">VpMP---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-mf920902-073-p3s2w2">
 <src.rf>manual</src.rf>

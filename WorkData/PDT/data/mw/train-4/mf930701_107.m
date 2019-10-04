@@ -56,7 +56,7 @@
 <tag>
 <AM lemma="Andre_;Y" src="orig">NNMXX-----A----</AM>
 <AM lemma="Andr_;S" src="auto">NNMS5-----A----</AM>
-<AM lemma="Andre_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Andre_;Y" src="auto" recommended="1" selected="1">NNMS1-----A----</AM>
 <AM lemma="Andre_;Y" src="auto">NNMS5-----A----</AM>
 </tag>
 </m>
@@ -155,7 +155,10 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>nejvíce</form>
-<tag lemma="hodně-2" src="auto" selected="1">Dg-------3A----</tag>
+<tag>
+<AM lemma="hodně-2" src="auto">Dg-------3A----</AM>
+<AM lemma="hodně-3" src="manual" selected="1">Dg-------3A----</AM>
+</tag>
 </m>
 <m id="m-mf930701-107-p2s1w14">
 <src.rf>manual</src.rf>
@@ -171,7 +174,7 @@
 <AM lemma="vzrušující_^(*5ovat)" src="auto">AGIS7-----A----</AM>
 <AM lemma="vzrušující_^(*5ovat)" src="auto">AGMP3-----A----</AM>
 <AM lemma="vzrušující_^(*5ovat)" src="auto">AGMS6-----A----</AM>
-<AM lemma="vzrušující_^(*5ovat)" src="auto" recommended="1">AGMS7-----A----</AM>
+<AM lemma="vzrušující_^(*5ovat)" src="auto" recommended="1" selected="1">AGMS7-----A----</AM>
 <AM lemma="vzrušující_^(*5ovat)" src="auto">AGNP3-----A----</AM>
 <AM lemma="vzrušující_^(*5ovat)" src="auto">AGNS6-----A----</AM>
 <AM lemma="vzrušující_^(*5ovat)" src="auto">AGNS7-----A----</AM>
@@ -315,7 +318,10 @@
 <LM>w#w-mf930701-107-p2s3w8</LM>
 </w.rf>
 <form>Nigela</form>
-<tag lemma="Nigel_;S" src="auto" selected="1">NNMS4-----A----</tag>
+<tag>
+<AM lemma="Nigel_;S" src="auto">NNMS4-----A----</AM>
+<AM lemma="Nigel_;Y_;S" src="manual" selected="1">NNMS4-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930701-107-p2s3w9">
 <src.rf>manual</src.rf>
@@ -355,7 +361,10 @@
 <LM>w#w-mf930701-107-p2s3w13</LM>
 </w.rf>
 <form>Bruna</form>
-<tag lemma="Bruno_;Y" src="auto" selected="1">NNMS4-----A----</tag>
+<tag>
+<AM lemma="Bruno_;Y" src="auto">NNMS4-----A----</AM>
+<AM lemma="Bruno_;Y_;S" src="manual" selected="1">NNMS4-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930701-107-p2s3w14">
 <src.rf>manual</src.rf>
@@ -601,7 +610,7 @@
 <form>ovšem</form>
 <tag>
 <AM lemma="ovšem-1_^(avšak,_však;_odporovací_spojka)" src="orig">J^-------------</AM>
-<AM lemma="ovšem" src="auto" recommended="1">TT-------------</AM>
+<AM lemma="ovšem" src="auto" recommended="1" selected="1">TT-------------</AM>
 </tag>
 </m>
 <m id="m-mf930701-107-p2s5w4">
@@ -644,7 +653,7 @@
 <form>totiž</form>
 <tag>
 <AM lemma="totiž" src="orig">Db-------------</AM>
-<AM lemma="totiž-1" src="auto" recommended="1">J^-------------</AM>
+<AM lemma="totiž-1" src="auto" recommended="1" selected="1">J^-------------</AM>
 <AM lemma="totiž-2" src="auto">TT-------------</AM>
 </tag>
 </m>

@@ -165,7 +165,10 @@
 <LM>w#w-mf930702-043-p2s1w11</LM>
 </w.rf>
 <form>British</form>
-<tag lemma="British_;K_,t_^(souč._názvů,_např._B._Airways)" src="auto" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="British_;K_,t_^(souč._názvů,_např._B._Airways)" src="auto">AAXXX----1A----</AM>
+<AM lemma="British-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-mf930702-043-p2s1w12">
 <src.rf>manual</src.rf>
@@ -173,7 +176,10 @@
 <LM>w#w-mf930702-043-p2s1w12</LM>
 </w.rf>
 <form>Festival</form>
-<tag lemma="festival" src="orig" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="festival" src="orig">NNIS1-----A----</AM>
+<AM lemma="Festival-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-mf930702-043-p2s1w13">
 <src.rf>manual</src.rf>
@@ -181,7 +187,10 @@
 <LM>w#w-mf930702-043-p2s1w13</LM>
 </w.rf>
 <form>Theatre</form>
-<tag lemma="Theatre_;K_,t" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="Theatre_;K_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="Theatre-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-mf930702-043-p2s1w14">
 <src.rf>manual</src.rf>
@@ -189,7 +198,10 @@
 <LM>w#w-mf930702-043-p2s1w14</LM>
 </w.rf>
 <form>Company</form>
-<tag lemma="Company_;K_,t_^(přev._v_názvech_cizích_firem)" src="orig" selected="1">NNFXX-----A----</tag>
+<tag>
+<AM lemma="Company_;K_,t_^(přev._v_názvech_cizích_firem)" src="orig">NNFXX-----A----</AM>
+<AM lemma="Company-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-mf930702-043-p2s1w15">
 <src.rf>manual</src.rf>
@@ -205,7 +217,10 @@
 <LM>w#w-mf930702-043-p2s1w16</LM>
 </w.rf>
 <form>BFTC</form>
-<tag lemma="BFTC_:B_;K" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="BFTC_:B_;K" src="orig">NNFXX-----A---8</AM>
+<AM lemma="BFTC-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-mf930702-043-p2s1w17">
 <src.rf>manual</src.rf>
@@ -383,7 +398,10 @@
 <LM>w#w-mf930702-043-p2s2w11</LM>
 </w.rf>
 <form>právě</form>
-<tag lemma="právě-1" src="auto" selected="1">Db-------------</tag>
+<tag>
+<AM lemma="právě-1" src="auto">Db-------------</AM>
+<AM lemma="právě-2" src="manual" selected="1">TT-------------</AM>
+</tag>
 </m>
 <m id="m-mf930702-043-p2s2w12">
 <src.rf>manual</src.rf>
@@ -1593,7 +1611,10 @@
 <LM>w#w-mf930702-043-p7s2w26</LM>
 </w.rf>
 <form>Kiss</form>
-<tag lemma="Kiss_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Kiss_;S" src="orig">NNMS1-----A----</AM>
+<AM lemma="Kiss-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-mf930702-043-p7s2w27">
 <src.rf>manual</src.rf>

@@ -107,6 +107,7 @@
 <AM lemma="terorizmus" src="orig">NNIS1-----A---1</AM>
 <AM lemma="terorizmus" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="terorizmus" src="auto">NNIS4-----A----</AM>
+<AM lemma="terorismus_,s_^(^DD**terorizmus)" src="manual" selected="1">NNIS1-----A---1</AM>
 </tag>
 </m>
 <m id="m-ln94206-73-p2s1Bw4">
@@ -312,7 +313,7 @@
 <tag>
 <AM lemma="tedy" src="orig">Db-------------</AM>
 <AM lemma="tedy-1" src="auto">TT-------------</AM>
-<AM lemma="tedy-2" src="auto" recommended="1">J^-------------</AM>
+<AM lemma="tedy-2" src="auto" recommended="1" selected="1">J^-------------</AM>
 </tag>
 </m>
 <m id="m-ln94206-73-p2s2w9">
@@ -1302,7 +1303,7 @@
 <AM lemma="extremizmus" src="orig">NNIS1-----A---1</AM>
 <AM lemma="extremizmus" src="auto">NNIS1-----A----</AM>
 <AM lemma="extremizmus" src="auto">NNIS4-----A----</AM>
-<AM lemma="extremismus" src="auto" recommended="1">NNIS1-----A----</AM>
+<AM lemma="extremismus" src="auto" recommended="1" selected="1">NNIS1-----A----</AM>
 <AM lemma="extremismus" src="auto">NNIS4-----A----</AM>
 </tag>
 </m>
@@ -1431,7 +1432,7 @@
 <AM lemma="fundamentalizmus" src="auto">NNIS2-----A----</AM>
 <AM lemma="fundamentalizmus" src="auto">NNIS3-----A----</AM>
 <AM lemma="fundamentalizmus" src="auto">NNIS6-----A----</AM>
-<AM lemma="fundamentalismus" src="auto" recommended="1">NNIS2-----A----</AM>
+<AM lemma="fundamentalismus" src="auto" recommended="1" selected="1">NNIS2-----A----</AM>
 <AM lemma="fundamentalismus" src="auto">NNIS3-----A----</AM>
 <AM lemma="fundamentalismus" src="auto">NNIS6-----A----</AM>
 </tag>
@@ -1761,7 +1762,7 @@
 <tag>
 <AM lemma="tedy" src="orig">Db-------------</AM>
 <AM lemma="tedy-1" src="auto">TT-------------</AM>
-<AM lemma="tedy-2" src="auto" recommended="1">J^-------------</AM>
+<AM lemma="tedy-2" src="auto" recommended="1" selected="1">J^-------------</AM>
 </tag>
 </m>
 <m id="m-ln94206-73-p4s6w22">
@@ -1813,7 +1814,7 @@
 </w.rf>
 <form>Rabatu</form>
 <tag>
-<AM lemma="Rabat_;G" src="orig">NNIS2-----A----</AM>
+<AM lemma="Rabat_;G" src="orig" selected="1">NNIS2-----A----</AM>
 <AM lemma="rabat" src="auto" recommended="1">NNIS2-----A----</AM>
 <AM lemma="rabat" src="auto">NNIS3-----A----</AM>
 <AM lemma="rabat" src="auto">NNIS6-----A----</AM>
@@ -2093,7 +2094,7 @@
 <form>nejen</form>
 <tag>
 <AM lemma="nejen" src="orig">TT-------------</AM>
-<AM lemma="nejen" src="auto" recommended="1">Db-------------</AM>
+<AM lemma="nejen" src="auto" recommended="1" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m-ln94206-73-p5s2w22">
@@ -2320,7 +2321,10 @@
 <LM>w#w-ln94206-73-p5s3w16</LM>
 </w.rf>
 <form>FIS</form>
-<tag lemma="FIS_:B_;K" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="FIS_:B_;K" src="orig">NNFXX-----A---8</AM>
+<AM lemma="FIS-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln94206-73-p5s3w17">
 <src.rf>manual</src.rf>
@@ -2466,7 +2470,10 @@
 <LM>w#w-ln94206-73-p5s4w16</LM>
 </w.rf>
 <form>li</form>
-<tag lemma="li-1" src="auto" selected="1">TT-------------</tag>
+<tag>
+<AM lemma="li-1" src="auto">TT-------------</AM>
+<AM lemma="li-2" src="manual" selected="1">J,-------------</AM>
+</tag>
 </m>
 <m id="m-ln94206-73-p5s4w17">
 <src.rf>manual</src.rf>
@@ -2728,7 +2735,7 @@
 <form>POLISARIO</form>
 <tag>
 <AM lemma="POLISARIO_:B_;K" src="orig">NNNXX-----A---8</AM>
-<AM lemma="Polisario_;K" src="auto" recommended="1">NNNS1-----A----</AM>
+<AM lemma="Polisario_;K" src="auto" recommended="1" selected="1">NNNS1-----A----</AM>
 <AM lemma="Polisario_;K" src="auto">NNNS4-----A----</AM>
 <AM lemma="Polisario_;K" src="auto">NNNS5-----A----</AM>
 </tag>
@@ -2824,7 +2831,7 @@
 <AM lemma="sahara" src="auto">NNFP1-----A----</AM>
 <AM lemma="sahara" src="auto">NNFP4-----A----</AM>
 <AM lemma="sahara" src="auto">NNFP5-----A----</AM>
-<AM lemma="sahara" src="auto" recommended="1">NNFS2-----A----</AM>
+<AM lemma="sahara" src="auto" recommended="1" selected="1">NNFS2-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94206-73-p6s2w22">
@@ -3374,6 +3381,8 @@
 <tag>
 <AM lemma="Bin_;S_,t" src="orig">NNMSX-----A----</AM>
 <AM lemma="bin-2_,t_^(angl._koš,_válec)" src="auto" recommended="1">NNIXX-----A----</AM>
+<AM lemma="Bin_;S" src="manual">NNMS1-----A----</AM>
+<AM lemma="Bin_;S" src="manual" selected="1">NNMXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94206-73-p7s3w5">
@@ -3434,6 +3443,8 @@
 <AM lemma="al_,t" src="orig">TT-------------</AM>
 <AM lemma="al_;G_^(al-Aiún)" src="auto" recommended="1">A2--------A----</AM>
 <AM lemma="ala-1_,t_^(místnost_v_starořím._obydlí;;vojenská_jednotka_ve_st._Římě;;boční_loď_v_bazilice)" src="auto">NNFP2-----A----</AM>
+<AM lemma="al-2_,t_^(člen)" src="manual">AAXXX----1A----</AM>
+<AM lemma="al-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-ln94206-73-p7s3w12">
@@ -3673,6 +3684,7 @@
 <tag>
 <AM lemma="Amnesty_;K_,t" src="orig">NNFSX-----A----</AM>
 <AM lemma="Amnesty_^(Amnesty_International)" src="auto" recommended="1">NNXXX-----A----</AM>
+<AM lemma="Amnesty-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-ln94206-73-p7s5w10">
@@ -3685,6 +3697,7 @@
 <AM lemma="International-2_;K_,t" src="orig">NNXXX-----A---1</AM>
 <AM lemma="International_,t" src="auto">NNISX-----A----</AM>
 <AM lemma="international_,t" src="auto" recommended="1">AAXXX----1A----</AM>
+<AM lemma="International-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-ln94206-73-p7s5w11">
@@ -3705,6 +3718,7 @@
 <AM lemma="AI_:B_;K" src="orig">NNFXX-----A---8</AM>
 <AM lemma="AI_:B" src="auto" recommended="1">NNXXX-----A---8</AM>
 <AM lemma="Ai_;Y" src="auto">NNFSX-----A----</AM>
+<AM lemma="AI-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-ln94206-73-p7s5w13">
@@ -3789,6 +3803,7 @@
 <AM lemma="AI_:B_;K" src="orig">NNFXX-----A---8</AM>
 <AM lemma="AI_:B" src="auto" recommended="1">NNXXX-----A---8</AM>
 <AM lemma="Ai_;Y" src="auto">NNFSX-----A----</AM>
+<AM lemma="AI-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-ln94206-73-p7s5w23">

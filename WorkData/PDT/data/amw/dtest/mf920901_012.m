@@ -95,7 +95,10 @@
 <LM>w#w-mf920901-012-p2s1Bw3</LM>
 </w.rf>
 <form>Jegor</form>
-<tag lemma="Jegor_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Jegor_;S" src="orig">NNMS1-----A----</AM>
+<AM lemma="Jegor_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920901-012-p2s1Bw4">
 <src.rf>manual</src.rf>
@@ -207,7 +210,10 @@
 <LM>w#w-mf920901-012-p2s1Bw17</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-2" src="auto" selected="1">Dg-------2A----</tag>
+<tag>
+<AM lemma="hodně-2" src="auto">Dg-------2A----</AM>
+<AM lemma="hodně-3" src="manual" selected="1">Dg-------2A----</AM>
+</tag>
 </m>
 <m id="m-mf920901-012-p2s1Bw18">
 <src.rf>manual</src.rf>
@@ -355,7 +361,10 @@
 <LM>w#w-mf920901-012-p2s3w2</LM>
 </w.rf>
 <form>SSSR</form>
-<tag lemma="SSSR_:B_;G_^(Svaz_sov._socialist._republik)" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="SSSR_:B_;G_^(Svaz_sov._socialist._republik)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="SSSR_:B_;G_^(Svaz_sov._socialist._republik)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920901-012-p2s3w3">
 <src.rf>manual</src.rf>

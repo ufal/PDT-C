@@ -51,7 +51,10 @@
 <LM>w#w-lnd92254-048-p1s1w5</LM>
 </w.rf>
 <form>s</form>
-<tag lemma="státní_:B" src="orig" selected="1">AAXXX----1A---8</tag>
+<tag>
+<AM lemma="státní_:B" src="orig">AAXXX----1A---8</AM>
+<AM lemma="státní" src="manual" selected="1">AAXXX----1A---8</AM>
+</tag>
 </m>
 <m id="m-lnd92254-048-p1s1w6">
 <src.rf>manual</src.rf>
@@ -67,7 +70,10 @@
 <LM>w#w-lnd92254-048-p1s1w7</LM>
 </w.rf>
 <form>p</form>
-<tag lemma="podnik_:B" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="podnik_:B" src="orig">NNIXX-----A---8</AM>
+<AM lemma="podnik" src="manual" selected="1">NNIXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd92254-048-p1s1w8">
 <src.rf>manual</src.rf>
@@ -247,7 +253,10 @@
 <LM>w#w-lnd92254-048-p1s3w8</LM>
 </w.rf>
 <form>I</form>
-<tag lemma="I-0_:B_;Y" src="orig" selected="1">NNMXX-----A---8</tag>
+<tag>
+<AM lemma="I-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
+<AM lemma="I-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd92254-048-p1s3w9">
 <src.rf>manual</src.rf>
@@ -287,7 +296,10 @@
 <LM>w#w-lnd92254-048-p1s3w13</LM>
 </w.rf>
 <form>ČNR</form>
-<tag lemma="ČNR-1_:B_;K_^(Česká_národní_rada)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ČNR-1_:B_;K_^(Česká_národní_rada)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČNR-1_:B_;K_^(Česká_národní_rada)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92254-048-p1s3w14">
 <src.rf>manual</src.rf>
@@ -295,7 +307,10 @@
 <LM>w#w-lnd92254-048-p1s3w14</LM>
 </w.rf>
 <form>M</form>
-<tag lemma="M-0_:B_;Y" src="orig" selected="1">NNMXX-----A---8</tag>
+<tag>
+<AM lemma="M-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
+<AM lemma="M-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd92254-048-p1s3w15">
 <src.rf>manual</src.rf>
@@ -327,7 +342,10 @@
 <LM>w#w-lnd92254-048-p1s3w18</LM>
 </w.rf>
 <form>ČSSD</form>
-<tag lemma="ČSSD-1_:B_;K_;p_^(Česká_strana_sociálně-demokratická)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ČSSD-1_:B_;K_;p_^(Česká_strana_sociálně-demokratická)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČSSD-1_:B_;K_^(Česká_strana_sociálně-demokratická)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92254-048-p1s3w19">
 <src.rf>manual</src.rf>

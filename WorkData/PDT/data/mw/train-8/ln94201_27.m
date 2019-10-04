@@ -256,7 +256,7 @@
 <tag>
 <AM lemma="jakýkoliv" src="orig">PZXP6---------1</AM>
 <AM lemma="jakýkoli" src="auto">PZXP2----------</AM>
-<AM lemma="jakýkoli" src="auto" recommended="1">PZXP6----------</AM>
+<AM lemma="jakýkoli" src="auto" recommended="1" selected="1">PZXP6----------</AM>
 </tag>
 </m>
 <m id="m-ln94201-27-p2s1w25">
@@ -1041,7 +1041,7 @@
 <form>nikoli</form>
 <tag>
 <AM lemma="nikoliv" src="orig">Db------------1</AM>
-<AM lemma="nikoli" src="auto" recommended="1">TT-------------</AM>
+<AM lemma="nikoli" src="auto" recommended="1" selected="1">TT-------------</AM>
 </tag>
 </m>
 <m id="m-ln94201-27-p2s4w22">
@@ -1264,6 +1264,7 @@
 <tag>
 <AM lemma="Kč" src="orig">NNFXX-----A----</AM>
 <AM lemma="Kč_:B" src="auto" recommended="1">NNFXX-----A---8</AM>
+<AM lemma="Kč_:B" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94201-27-p2s5w20">

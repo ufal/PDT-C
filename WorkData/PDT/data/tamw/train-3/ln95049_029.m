@@ -207,7 +207,10 @@
 <LM>w#w-ln95049-029-p2s1Bw19</LM>
 </w.rf>
 <form>FC</form>
-<tag lemma="FC-1_:B_;K_;w_^(Football_Club,_př._FC_Sparta)" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="FC-1_:B_;K_;w_^(Football_Club,_př._FC_Sparta)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="FC-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln95049-029-p2s1Bw20">
 <src.rf>manual</src.rf>
@@ -409,7 +412,10 @@
 <LM>w#w-ln95049-029-p2s2w21</LM>
 </w.rf>
 <form>UEFA</form>
-<tag lemma="UEFA-1_:B_;K_;w_^(Evr._fotbalová_federace)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="UEFA-1_:B_;K_;w_^(Evr._fotbalová_federace)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="UEFA-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln95049-029-p2s2w22">
 <src.rf>manual</src.rf>
@@ -735,7 +741,10 @@
 <LM>w#w-ln95049-029-p2s5w8</LM>
 </w.rf>
 <form>Dominique</form>
-<tag lemma="Dominique_;Y_,t" src="auto" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Dominique_;Y_,t" src="auto">NNMS1-----A----</AM>
+<AM lemma="Dominique_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95049-029-p2s5w9">
 <src.rf>manual</src.rf>

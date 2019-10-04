@@ -128,7 +128,7 @@
 <tag>
 <AM lemma="dví" src="orig">NNNS4-----A----</AM>
 <AM lemma="dvé" src="auto">Cn-S1---------1</AM>
-<AM lemma="dvé" src="auto" recommended="1">Cn-S4---------1</AM>
+<AM lemma="dvé" src="auto" recommended="1" selected="1">Cn-S4---------1</AM>
 </tag>
 </m>
 <m id="m-ln95040-061-p1s2w5">

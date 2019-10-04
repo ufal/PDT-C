@@ -130,6 +130,7 @@
 <AM lemma="telit_:T" src="auto">Vi-S---2--A----</AM>
 <AM lemma="telit_:T" src="auto">Vi-S---3--A---4</AM>
 <AM lemma="tlo_,n" src="auto">NNNP2-----A----</AM>
+<AM lemma="Tel-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-mf920902-148-p4s1w2">
@@ -423,7 +424,10 @@
 <LM>w#w-mf920902-148-p4s3w23</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-2" src="auto" selected="1">Dg-------2A----</tag>
+<tag>
+<AM lemma="hodně-2" src="auto">Dg-------2A----</AM>
+<AM lemma="více_^(více_+_2._p.,_více_peněz)" src="manual" selected="1">Ca--4----------</AM>
+</tag>
 </m>
 <m id="m-mf920902-148-p4s3w24">
 <src.rf>manual</src.rf>
@@ -925,7 +929,10 @@
 <LM>w#w-mf920902-148-p4s6w23</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-2" src="auto" selected="1">Dg-------2A----</tag>
+<tag>
+<AM lemma="hodně-2" src="auto">Dg-------2A----</AM>
+<AM lemma="hodně-3" src="manual" selected="1">Dg-------2A----</AM>
+</tag>
 </m>
 <m id="m-mf920902-148-p4s6w24">
 <src.rf>manual</src.rf>

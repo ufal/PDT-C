@@ -105,7 +105,7 @@
 <form>kotovaná</form>
 <tag>
 <AM lemma="kótovaný_^(*2t)" src="orig">AAFS1----1A----</AM>
-<AM lemma="kotovaný_^(*2t)" src="auto" recommended="1">AAFS1----1A----</AM>
+<AM lemma="kotovaný_^(*2t)" src="auto" recommended="1" selected="1">AAFS1----1A----</AM>
 <AM lemma="kotovaný_^(*2t)" src="auto">AAFS5----1A----</AM>
 <AM lemma="kotovaný_^(*2t)" src="auto">AANP1----1A----</AM>
 <AM lemma="kotovaný_^(*2t)" src="auto">AANP4----1A----</AM>
@@ -198,7 +198,10 @@
 <LM>w#w-ln95041-116-p2s1Bw16</LM>
 </w.rf>
 <form>konkursu</form>
-<tag lemma="konkurs_^(úpadek;;soutěž)" src="auto" selected="1">NNIS6-----A---1</tag>
+<tag>
+<AM lemma="konkurs_^(úpadek;;soutěž)" src="auto">NNIS6-----A---1</AM>
+<AM lemma="konkurs_,s_^(^DD**konkurz)" src="manual" selected="1">NNIS6-----A---1</AM>
+</tag>
 </m>
 <m id="m-ln95041-116-p2s1Bw17">
 <src.rf>manual</src.rf>
@@ -294,7 +297,10 @@
 <LM>w#w-ln95041-116-p2s1Bw28</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-2" src="auto" selected="1">Dg-------2A----</tag>
+<tag>
+<AM lemma="hodně-2" src="auto">Dg-------2A----</AM>
+<AM lemma="hodně-3" src="manual" selected="1">Dg-------2A----</AM>
+</tag>
 </m>
 <m id="m-ln95041-116-p2s1Bw29">
 <src.rf>manual</src.rf>
@@ -374,7 +380,10 @@
 <LM>w#w-ln95041-116-p2s1Bw38</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-2" src="auto" selected="1">Dg-------2A----</tag>
+<tag>
+<AM lemma="hodně-2" src="auto">Dg-------2A----</AM>
+<AM lemma="hodně-3" src="manual" selected="1">Dg-------2A----</AM>
+</tag>
 </m>
 <m id="m-ln95041-116-p2s1Bw39">
 <src.rf>manual</src.rf>
@@ -902,7 +911,10 @@
 <LM>w#w-ln95041-116-p4s1w15</LM>
 </w.rf>
 <form>kurs</form>
-<tag lemma="kurs" src="auto" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="kurs" src="auto">NNIS1-----A----</AM>
+<AM lemma="kurs_,s_^(^DD**kurz)" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95041-116-p4s1w16">
 <src.rf>manual</src.rf>

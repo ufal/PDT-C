@@ -24,6 +24,7 @@
 <AM lemma="COOP_:B_;K_^(banka)" src="auto" recommended="1">NNXXX-----A---8</AM>
 <AM lemma="Coop_;K" src="auto">NNIS1-----A----</AM>
 <AM lemma="Coop_;K" src="auto">NNIS4-----A----</AM>
+<AM lemma="COOP-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95045-125-p1s1w2">
@@ -89,6 +90,7 @@
 <AM lemma="COOP_:B_;K_^(banka)" src="auto" recommended="1">NNXXX-----A---8</AM>
 <AM lemma="Coop_;K" src="auto">NNIS1-----A----</AM>
 <AM lemma="Coop_;K" src="auto">NNIS4-----A----</AM>
+<AM lemma="COOP-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95045-125-p2s1Bw2">
@@ -169,7 +171,10 @@
 <LM>w#w-ln95045-125-p2s1Bw11</LM>
 </w.rf>
 <form>sice</form>
-<tag lemma="sice-2" src="auto" selected="1">Db-------------</tag>
+<tag>
+<AM lemma="sice-2" src="auto">Db-------------</AM>
+<AM lemma="sice-1_^(spojka;_připouští_se_určitá_fakta)" src="manual" selected="1">J^-------------</AM>
+</tag>
 </m>
 <m id="m-ln95045-125-p2s1Bw12">
 <src.rf>manual</src.rf>
@@ -220,6 +225,7 @@
 <tag>
 <AM lemma="Kč" src="orig">NNFXX-----A----</AM>
 <AM lemma="Kč_:B" src="auto" recommended="1">NNFXX-----A---8</AM>
+<AM lemma="Kč_:B" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95045-125-p2s1Bw18">
@@ -368,7 +374,7 @@
 <form>nejen</form>
 <tag>
 <AM lemma="nejen" src="orig">TT-------------</AM>
-<AM lemma="nejen" src="auto" recommended="1">Db-------------</AM>
+<AM lemma="nejen" src="auto" recommended="1" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m-ln95045-125-p2s2w6">
@@ -624,6 +630,7 @@
 <tag>
 <AM lemma="Kč" src="orig">NNFXX-----A----</AM>
 <AM lemma="Kč_:B" src="auto" recommended="1">NNFXX-----A---8</AM>
+<AM lemma="Kč_:B" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95045-125-p2s3w13">
@@ -717,6 +724,7 @@
 <tag>
 <AM lemma="Kč" src="orig">NNFXX-----A----</AM>
 <AM lemma="Kč_:B" src="auto" recommended="1">NNFXX-----A---8</AM>
+<AM lemma="Kč_:B" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95045-125-p2s3w24">
@@ -823,7 +831,10 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>Kč</form>
-<tag lemma="Kč_:B" src="auto" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="Kč_:B" src="auto">NNFXX-----A---8</AM>
+<AM lemma="Kč_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95045-125-p2s3w37">
 <src.rf>manual</src.rf>

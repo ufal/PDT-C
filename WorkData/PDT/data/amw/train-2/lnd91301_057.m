@@ -239,7 +239,10 @@
 <LM>w#w-lnd91301-057-p4s1Bw22</LM>
 </w.rf>
 <form>Zviad</form>
-<tag lemma="Zviad_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Zviad_;S" src="orig">NNMS1-----A----</AM>
+<AM lemma="Zviad_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd91301-057-p4s1Bw23">
 <src.rf>manual</src.rf>
@@ -297,7 +300,10 @@
 <LM>w#w-lnd91301-057-p4s2Bw5</LM>
 </w.rf>
 <form>AFP</form>
-<tag lemma="AFP_:B_;K" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="AFP_:B_;K" src="orig">NNFXX-----A---8</AM>
+<AM lemma="AFP-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd91301-057-p4s2Bw6">
 <src.rf>manual</src.rf>
@@ -1014,7 +1020,10 @@
 <LM>w#w-lnd91301-057-p6s1Bw16</LM>
 </w.rf>
 <form>KGB</form>
-<tag lemma="KGB_:B_;K_;p_^(Sov._státní_tajná_bezpečnost)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="KGB_:B_;K_;p_^(Sov._státní_tajná_bezpečnost)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="KGB_:B_;K_^(Sov._státní_tajná_bezpečnost)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd91301-057-p6s1Bw17">
 <src.rf>manual</src.rf>
@@ -1232,7 +1241,10 @@
 <LM>w#w-lnd91301-057-p6s2Bw26</LM>
 </w.rf>
 <form>Zviada</form>
-<tag lemma="Zviada_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Zviada_;S" src="orig">NNMS1-----A----</AM>
+<AM lemma="Zviad_;S_;Y" src="manual" selected="1">NNMS2-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd91301-057-p6s2Bw27">
 <src.rf>manual</src.rf>

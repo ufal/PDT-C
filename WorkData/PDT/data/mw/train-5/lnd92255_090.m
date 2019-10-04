@@ -19,7 +19,10 @@
 <LM>w#w-lnd92255-090-p1s1w1</LM>
 </w.rf>
 <form>Jen</form>
-<tag lemma="jen-1" src="auto" selected="1">TT-------------</tag>
+<tag>
+<AM lemma="jen-1" src="auto">TT-------------</AM>
+<AM lemma="jen-4_^(pouze)" src="manual" selected="1">Db-------------</AM>
+</tag>
 </m>
 <m id="m-lnd92255-090-p1s1w2">
 <src.rf>manual</src.rf>
@@ -623,7 +626,7 @@
 <form>čsl</form>
 <tag>
 <AM lemma="čsl_:B" src="orig">AAXXX----1A---8</AM>
-<AM lemma="československý_:B_,x" src="auto" recommended="1">AAXXX----1A---8</AM>
+<AM lemma="československý_:B_,x" src="auto" recommended="1" selected="1">AAXXX----1A---8</AM>
 </tag>
 </m>
 <m id="m-lnd92255-090-p2s5w7">
@@ -704,7 +707,10 @@
 <LM>w#w-lnd92255-090-p2s5w16</LM>
 </w.rf>
 <form>jen</form>
-<tag lemma="jen-1" src="auto" selected="1">TT-------------</tag>
+<tag>
+<AM lemma="jen-1" src="auto">TT-------------</AM>
+<AM lemma="jen-4_^(pouze)" src="manual" selected="1">Db-------------</AM>
+</tag>
 </m>
 <m id="m-lnd92255-090-p2s5w17">
 <src.rf>manual</src.rf>
@@ -1210,7 +1216,10 @@
 <LM>w#w-lnd92255-090-p3s3w2</LM>
 </w.rf>
 <form>jen</form>
-<tag lemma="jen-1" src="auto" selected="1">TT-------------</tag>
+<tag>
+<AM lemma="jen-1" src="auto">TT-------------</AM>
+<AM lemma="jen-4_^(pouze)" src="manual" selected="1">Db-------------</AM>
+</tag>
 </m>
 <m id="m-lnd92255-090-p3s3w3">
 <src.rf>manual</src.rf>

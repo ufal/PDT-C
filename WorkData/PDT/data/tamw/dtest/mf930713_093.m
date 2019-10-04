@@ -101,7 +101,10 @@
 <LM>w#w-mf930713-093-p2s1Aw3</LM>
 </w.rf>
 <form>bar</form>
-<tag lemma="bar-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="bar-99_:B_;S" src="orig">NNXXX-----A---8</AM>
+<AM lemma="bar-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930713-093-p2s1Aw4">
 <src.rf>manual</src.rf>
@@ -183,7 +186,10 @@
 <LM>w#w-mf930713-093-p2s1Bw8</LM>
 </w.rf>
 <form>vypsat</form>
-<tag lemma="vypsat" src="orig" selected="1">Vf--------A----</tag>
+<tag>
+<AM lemma="vypsat" src="orig">Vf--------A----</AM>
+<AM lemma="vypsat_:W" src="manual" selected="1">Vf--------A----</AM>
+</tag>
 </m>
 <m id="m-mf930713-093-p2s1Bw9">
 <src.rf>manual</src.rf>
@@ -235,7 +241,7 @@
 <form>totiž</form>
 <tag>
 <AM lemma="totiž" src="orig">Db-------------</AM>
-<AM lemma="totiž-1" src="auto" recommended="1">J^-------------</AM>
+<AM lemma="totiž-1" src="auto" recommended="1" selected="1">J^-------------</AM>
 <AM lemma="totiž-2" src="auto">TT-------------</AM>
 </tag>
 </m>

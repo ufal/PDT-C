@@ -19,7 +19,10 @@
 <LM>w#w-cmpr9406-059-p2s1w1</LM>
 </w.rf>
 <form>OECD</form>
-<tag lemma="OECD-1_:B_;K_;b_;p_^(Ev._org._hosp._spolupr._a_roz.)" src="auto" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="OECD-1_:B_;K_;b_;p_^(Ev._org._hosp._spolupr._a_roz.)" src="auto">NNFXX-----A---8</AM>
+<AM lemma="OECD-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-cmpr9406-059-p2s1w2">
 <src.rf>manual</src.rf>
@@ -43,7 +46,10 @@
 <LM>w#w-cmpr9406-059-p2s1w4</LM>
 </w.rf>
 <form>HDP</form>
-<tag lemma="HDP_:B_^(hrubý_domácí_produkt)" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="HDP_:B_^(hrubý_domácí_produkt)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="HDP_:B_^(hrubý_domácí_produkt)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-cmpr9406-059-p2s1w5">
 <src.rf>manual</src.rf>
@@ -101,7 +107,10 @@
 <LM>w#w-cmpr9406-059-p4s1w1</LM>
 </w.rf>
 <form>HDP</form>
-<tag lemma="HDP_:B_^(hrubý_domácí_produkt)" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="HDP_:B_^(hrubý_domácí_produkt)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="HDP_:B_^(hrubý_domácí_produkt)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-cmpr9406-059-p4s1w2">
 <src.rf>manual</src.rf>

@@ -54,6 +54,8 @@
 <tag>
 <AM lemma="SF-2`Sinn-1_;K_,t_^(Sinn_Fein)" src="orig">NNFXX-----A----</AM>
 <AM lemma="Sinn_;Y" src="auto" recommended="1">NNXXX-----A----</AM>
+<AM lemma="Sinn_;K_,t_^(Sinn_Fein)" src="manual">NNXXX-----A----</AM>
+<AM lemma="Sinn-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-ln94207-121-p1s1w6">
@@ -68,6 +70,8 @@
 <AM lemma="Fein" src="auto">NNIS1-----A----</AM>
 <AM lemma="Fein" src="auto">NNIS4-----A----</AM>
 <AM lemma="Fein_;Y" src="auto" recommended="1">NNXXX-----A----</AM>
+<AM lemma="Fein_;K_,t_^(Sinn_Fein)" src="manual">NNXXX-----A----</AM>
+<AM lemma="Fein-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-ln94207-121-p1s1w7">
@@ -190,7 +194,10 @@
 <LM>w#w-ln94207-121-p1s2w8</LM>
 </w.rf>
 <form>zavražděn</form>
-<tag lemma="zavraždit" src="orig" selected="1">VsYS---XX-AP---</tag>
+<tag>
+<AM lemma="zavraždit" src="orig">VsYS---XX-AP---</AM>
+<AM lemma="zavraždit_:W" src="manual" selected="1">VsYS---XX-AP---</AM>
+</tag>
 </m>
 <m id="m-ln94207-121-p1s2w9">
 <src.rf>manual</src.rf>
@@ -230,7 +237,10 @@
 <LM>w#w-ln94207-121-p1s2w13</LM>
 </w.rf>
 <form>vyzval</form>
-<tag lemma="vyzvat_^(někoho_vyzvat_k_něčemu)" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag>
+<AM lemma="vyzvat_^(někoho_vyzvat_k_něčemu)" src="orig">VpYS---XR-AA---</AM>
+<AM lemma="vyzvat_:W_^(někoho_vyzvat_k_něčemu)" src="manual" selected="1">VpYS---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-ln94207-121-p1s2w14">
 <src.rf>manual</src.rf>
@@ -302,7 +312,10 @@
 <LM>w#w-ln94207-121-p1s2w23</LM>
 </w.rf>
 <form>IRA</form>
-<tag lemma="IRA-1_:B_;K_,t_^(Irská_republikánská_armáda)" src="auto" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="IRA-1_:B_;K_,t_^(Irská_republikánská_armáda)" src="auto">NNFXX-----A---8</AM>
+<AM lemma="IRA-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94207-121-p1s2w24">
 <src.rf>manual</src.rf>

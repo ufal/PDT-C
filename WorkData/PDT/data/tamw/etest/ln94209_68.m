@@ -1381,7 +1381,7 @@
 <form>táboře</form>
 <tag>
 <AM lemma="tábor" src="orig">NNIS6-----A----</AM>
-<AM lemma="tábor-1" src="auto" recommended="1">NNIS6-----A---1</AM>
+<AM lemma="tábor-1" src="auto" recommended="1" selected="1">NNIS6-----A---1</AM>
 <AM lemma="tábořit_:T" src="auto">VeYS------A----</AM>
 </tag>
 </m>
@@ -1663,7 +1663,10 @@
 <LM>w#w-ln94209-68-p4s2w53</LM>
 </w.rf>
 <form>Brundibár</form>
-<tag lemma="Brundibár_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Brundibár_;S" src="orig">NNMS1-----A----</AM>
+<AM lemma="brundibár" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94209-68-p4s2w54">
 <src.rf>manual</src.rf>

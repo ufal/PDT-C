@@ -93,7 +93,10 @@
 <LM>w#w-lnd92255-086-p2s1w2</LM>
 </w.rf>
 <form>LN</form>
-<tag lemma="LN-1_:B_;R_^(Lidové_noviny,_deník)" src="orig" selected="1">NNFPX-----A---8</tag>
+<tag>
+<AM lemma="LN-1_:B_;R_^(Lidové_noviny,_deník)" src="orig">NNFPX-----A---8</AM>
+<AM lemma="LN-1_:B_;K_;R_^(Lidové_noviny)" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd92255-086-p2s1w3">
 <src.rf>manual</src.rf>
@@ -369,7 +372,10 @@
 <LM>w#w-lnd92255-086-p3s2w1</LM>
 </w.rf>
 <form>Važme</form>
-<tag lemma="vážit" src="auto" selected="1">Vi-P---1--A----</tag>
+<tag>
+<AM lemma="vážit" src="auto">Vi-P---1--A----</AM>
+<AM lemma="vážit_:T" src="manual" selected="1">Vi-P---1--A----</AM>
+</tag>
 </m>
 <m id="m-lnd92255-086-p3s2w2">
 <src.rf>manual</src.rf>
@@ -609,7 +615,10 @@
 <LM>w#w-lnd92255-086-p3s2w31</LM>
 </w.rf>
 <form>číst</form>
-<tag lemma="číst" src="orig" selected="1">Vf--------A----</tag>
+<tag>
+<AM lemma="číst" src="orig">Vf--------A----</AM>
+<AM lemma="číst_:T" src="manual" selected="1">Vf--------A----</AM>
+</tag>
 </m>
 <m id="m-lnd92255-086-p3s2w32">
 <src.rf>manual</src.rf>
@@ -667,7 +676,10 @@
 <LM>w#w-lnd92255-086-p3s3w2</LM>
 </w.rf>
 <form>chraňme</form>
-<tag lemma="chránit" src="orig" selected="1">Vi-P---1--A----</tag>
+<tag>
+<AM lemma="chránit" src="orig">Vi-P---1--A----</AM>
+<AM lemma="chránit_:T" src="manual" selected="1">Vi-P---1--A----</AM>
+</tag>
 </m>
 <m id="m-lnd92255-086-p3s3w3">
 <src.rf>manual</src.rf>
@@ -795,7 +807,10 @@
 <LM>w#w-lnd92255-086-p3s3w19</LM>
 </w.rf>
 <form>chraňme</form>
-<tag lemma="chránit" src="orig" selected="1">Vi-P---1--A----</tag>
+<tag>
+<AM lemma="chránit" src="orig">Vi-P---1--A----</AM>
+<AM lemma="chránit_:T" src="manual" selected="1">Vi-P---1--A----</AM>
+</tag>
 </m>
 <m id="m-lnd92255-086-p3s3w20">
 <src.rf>manual</src.rf>
@@ -1268,6 +1283,7 @@
 <AM lemma="nacionalizmus" src="auto">NNIS2-----A----</AM>
 <AM lemma="nacionalizmus" src="auto" recommended="1">NNIS3-----A----</AM>
 <AM lemma="nacionalizmus" src="auto">NNIS6-----A----</AM>
+<AM lemma="nacionalismus_,s_^(^DD**nacionalizmus)" src="manual" selected="1">NNIS3-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92255-086-p3s5w15">
@@ -1324,7 +1340,10 @@
 <LM>w#w-lnd92255-086-p3s5w21</LM>
 </w.rf>
 <form>vidíme</form>
-<tag lemma="vidět" src="orig" selected="1">VB-P---1P-AA---</tag>
+<tag>
+<AM lemma="vidět" src="orig">VB-P---1P-AA---</AM>
+<AM lemma="vidět_:T" src="manual" selected="1">VB-P---1P-AA---</AM>
+</tag>
 </m>
 <m id="m-lnd92255-086-p3s5w22">
 <src.rf>manual</src.rf>

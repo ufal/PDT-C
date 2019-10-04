@@ -86,7 +86,7 @@
 <form>Sikorski</form>
 <tag>
 <AM lemma="Sikorski_;S" src="orig">NNMS1-----A---1</AM>
-<AM lemma="Sikorský_;S" src="auto" recommended="1">NNMS1-----A---1</AM>
+<AM lemma="Sikorský_;S" src="auto" recommended="1" selected="1">NNMS1-----A---1</AM>
 <AM lemma="Sikorský_;S" src="auto">NNMS5-----A---1</AM>
 </tag>
 </m>
@@ -144,7 +144,10 @@
 <LM>w#w-ln94206-111-p1s1w16</LM>
 </w.rf>
 <form>LUX</form>
-<tag lemma="Lux_;S" src="auto" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Lux_;S" src="auto">NNMS1-----A----</AM>
+<AM lemma="Lux-2_;R" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94206-111-p1s1w17">
 <src.rf>manual</src.rf>
@@ -194,7 +197,10 @@
 <LM>w#w-ln94206-111-p1s2w5</LM>
 </w.rf>
 <form>LN</form>
-<tag lemma="LN-1_:B_;R_^(Lidové_noviny,_deník)" src="orig" selected="1">NNFPX-----A---8</tag>
+<tag>
+<AM lemma="LN-1_:B_;R_^(Lidové_noviny,_deník)" src="orig">NNFPX-----A---8</AM>
+<AM lemma="LN-1_:B_;K_;R_^(Lidové_noviny)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 </s>
 </mdata>

@@ -35,7 +35,10 @@
 <LM>w#w-lnd94103-109-p1s1w3</LM>
 </w.rf>
 <form>MS</form>
-<tag lemma="MS-3_:B_;w_^(mistrovství_světa)" src="orig" selected="1">NNNXX-----A---8</tag>
+<tag>
+<AM lemma="MS-3_:B_;w_^(mistrovství_světa)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="MS-3_:B_^(mistrovství_světa)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 </s>
 <s id="m-lnd94103-109-p1s2">
@@ -53,7 +56,10 @@
 <LM>w#w-lnd94103-109-p1s2w2</LM>
 </w.rf>
 <form>A</form>
-<tag lemma="a-3_^(označení_pomocí_písmene)" src="orig" selected="1">NNNXX-----A----</tag>
+<tag>
+<AM lemma="a-3_^(označení_pomocí_písmene)" src="orig">NNNXX-----A----</AM>
+<AM lemma="A-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd94103-109-p1s2w3">
 <src.rf>manual</src.rf>
@@ -95,7 +101,10 @@
 <LM>w#w-lnd94103-109-p1s3w2</LM>
 </w.rf>
 <form>hod</form>
-<tag lemma="hodina_:B" src="auto" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="hodina_:B" src="auto">NNFXX-----A---8</AM>
+<AM lemma="hodina" src="manual" selected="1">NNFXX-----A---9</AM>
+</tag>
 </m>
 <m id="m-lnd94103-109-p1s3w3">
 <src.rf>manual</src.rf>

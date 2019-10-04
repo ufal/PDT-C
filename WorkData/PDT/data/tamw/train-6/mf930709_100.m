@@ -78,7 +78,7 @@
 </w.rf>
 <form>vit</form>
 <tag>
-<AM lemma="vit-99_:B_;S" src="orig">NNXXX-----A---8</AM>
+<AM lemma="vit-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</AM>
 <AM lemma="vít" src="auto" recommended="1">VsYS---XX-AP---</AM>
 </tag>
 </m>
@@ -114,7 +114,10 @@
 <LM>w#w-mf930709-100-p2s1Bw2</LM>
 </w.rf>
 <form>MS</form>
-<tag lemma="MS-3_:B_;w_^(mistrovství_světa)" src="orig" selected="1">NNNXX-----A---8</tag>
+<tag>
+<AM lemma="MS-3_:B_;w_^(mistrovství_světa)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="MS-3_:B_^(mistrovství_světa)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930709-100-p2s1Bw3">
 <src.rf>manual</src.rf>
@@ -358,7 +361,10 @@
 <LM>w#w-mf930709-100-p2s2w5</LM>
 </w.rf>
 <form>TJ</form>
-<tag lemma="TJ-1_:B_;K_;w_^(tělovýchovná_jednota)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="TJ-1_:B_;K_;w_^(tělovýchovná_jednota)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="TJ-2_:B_;K_^(tělovýchovná_jednota)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930709-100-p2s2w6">
 <src.rf>manual</src.rf>
@@ -708,7 +714,10 @@
 <LM>w#w-mf930709-100-p2s5w8</LM>
 </w.rf>
 <form>Dolních</form>
-<tag lemma="Dolní_;G" src="orig" selected="1">AAFP2----1A----</tag>
+<tag>
+<AM lemma="Dolní_;G" src="orig">AAFP2----1A----</AM>
+<AM lemma="dolní" src="manual" selected="1">AAFP2----1A----</AM>
+</tag>
 </m>
 <m id="m-mf930709-100-p2s5w9">
 <src.rf>manual</src.rf>
@@ -850,6 +859,7 @@
 <tag>
 <AM lemma="Kč" src="orig">NNFXX-----A----</AM>
 <AM lemma="Kč_:B" src="auto" recommended="1">NNFXX-----A---8</AM>
+<AM lemma="Kč_:B" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930709-100-p2s6w7">
@@ -957,6 +967,7 @@
 <tag>
 <AM lemma="Kč" src="orig">NNFXX-----A----</AM>
 <AM lemma="Kč_:B" src="auto" recommended="1">NNFXX-----A---8</AM>
+<AM lemma="Kč_:B" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930709-100-p2s6w20">
@@ -1098,7 +1109,7 @@
 <tag>
 <AM lemma="tedy" src="orig">Db-------------</AM>
 <AM lemma="tedy-1" src="auto">TT-------------</AM>
-<AM lemma="tedy-2" src="auto" recommended="1">J^-------------</AM>
+<AM lemma="tedy-2" src="auto" recommended="1" selected="1">J^-------------</AM>
 </tag>
 </m>
 <m id="m-mf930709-100-p2s7w13">
@@ -1147,7 +1158,10 @@
 <LM>w#w-mf930709-100-p2s7w18</LM>
 </w.rf>
 <form>milionu</form>
-<tag lemma="milión`1000000" src="orig" selected="1">NNIS2-----A----</tag>
+<tag>
+<AM lemma="milión`1000000" src="orig">NNIS2-----A----</AM>
+<AM lemma="milion`1000000_,s_^(^DD**milión)" src="manual" selected="1">NNIS2-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930709-100-p2s7w19">
 <src.rf>manual</src.rf>

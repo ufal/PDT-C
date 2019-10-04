@@ -231,7 +231,10 @@
 <LM>w#w-lnd91301-051-p2s2w3</LM>
 </w.rf>
 <form>diskusi</form>
-<tag lemma="diskuse" src="orig" selected="1">NNFS6-----A----</tag>
+<tag>
+<AM lemma="diskuse" src="orig">NNFS6-----A----</AM>
+<AM lemma="diskuse_,s_^(^DD**diskuze)" src="manual" selected="1">NNFS6-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd91301-051-p2s2w4">
 <src.rf>manual</src.rf>
@@ -505,7 +508,10 @@
 <LM>w#w-lnd91301-051-p2s3w13</LM>
 </w.rf>
 <form>Grand</form>
-<tag lemma="grand" src="orig" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="grand" src="orig">NNMS1-----A----</AM>
+<AM lemma="Grand-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-lnd91301-051-p2s3w14">
 <src.rf>manual</src.rf>
@@ -513,7 +519,10 @@
 <LM>w#w-lnd91301-051-p2s3w14</LM>
 </w.rf>
 <form>Prix</form>
-<tag lemma="Prix-2_;m_,t_^(cena)" src="orig" selected="1">NNFXX-----A----</tag>
+<tag>
+<AM lemma="Prix-2_;m_,t_^(cena)" src="orig">NNFXX-----A----</AM>
+<AM lemma="Prix-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-lnd91301-051-p2s3w15">
 <src.rf>manual</src.rf>
@@ -595,7 +604,10 @@
 <LM>w#w-lnd91301-051-p3s1w9</LM>
 </w.rf>
 <form>NVmB</form>
-<tag lemma="NVmB-98_:B_;K" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="NVmB-98_:B_;K" src="orig">NNIXX-----A---8</AM>
+<AM lemma="NVmB-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd91301-051-p3s1w10">
 <src.rf>manual</src.rf>
@@ -699,7 +711,10 @@
 <LM>w#w-lnd91301-051-p3s1w22</LM>
 </w.rf>
 <form>AMK</form>
-<tag lemma="Automotoklub_:B_;K" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="Automotoklub_:B_;K" src="orig">NNIXX-----A---8</AM>
+<AM lemma="AMK-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd91301-051-p3s1w23">
 <src.rf>manual</src.rf>

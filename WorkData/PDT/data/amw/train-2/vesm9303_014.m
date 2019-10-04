@@ -523,7 +523,7 @@
 <form>vůbec</form>
 <tag>
 <AM lemma="vůbec" src="orig">Db-------------</AM>
-<AM lemma="vůbec" src="auto" recommended="1">TT-------------</AM>
+<AM lemma="vůbec" src="auto" recommended="1" selected="1">TT-------------</AM>
 </tag>
 </m>
 <m id="m-vesm9303-014-p1s4w12">
@@ -738,7 +738,7 @@
 <form>vůbec</form>
 <tag>
 <AM lemma="vůbec" src="orig">Db-------------</AM>
-<AM lemma="vůbec" src="auto" recommended="1">TT-------------</AM>
+<AM lemma="vůbec" src="auto" recommended="1" selected="1">TT-------------</AM>
 </tag>
 </m>
 <m id="m-vesm9303-014-p1s6w9">
@@ -882,7 +882,7 @@
 <AM lemma="kterýkoli" src="auto">PZFP5----------</AM>
 <AM lemma="kterýkoli" src="auto">PZFS2----------</AM>
 <AM lemma="kterýkoli" src="auto">PZFS3----------</AM>
-<AM lemma="kterýkoli" src="auto" recommended="1">PZFS6----------</AM>
+<AM lemma="kterýkoli" src="auto" recommended="1" selected="1">PZFS6----------</AM>
 <AM lemma="kterýkoli" src="auto">PZIP1----------</AM>
 <AM lemma="kterýkoli" src="auto">PZIP5----------</AM>
 <AM lemma="kterýkoli" src="auto">PZNS1----------</AM>
@@ -1107,7 +1107,10 @@
 <LM>w#w-vesm9303-014-p1s7w2</LM>
 </w.rf>
 <form>jen</form>
-<tag lemma="jen-1" src="auto" selected="1">TT-------------</tag>
+<tag>
+<AM lemma="jen-1" src="auto">TT-------------</AM>
+<AM lemma="jen-4_^(pouze)" src="manual" selected="1">Db-------------</AM>
+</tag>
 </m>
 <m id="m-vesm9303-014-p1s7w3">
 <src.rf>manual</src.rf>
@@ -1251,7 +1254,10 @@
 <LM>w#w-vesm9303-014-p1s7w20</LM>
 </w.rf>
 <form>vede</form>
-<tag lemma="vést" src="auto" selected="1">VB-S---3P-AA---</tag>
+<tag>
+<AM lemma="vést" src="auto">VB-S---3P-AA---</AM>
+<AM lemma="vést_:T" src="manual" selected="1">VB-S---3P-AA---</AM>
+</tag>
 </m>
 <m id="m-vesm9303-014-p1s7w21">
 <src.rf>manual</src.rf>
@@ -1323,7 +1329,10 @@
 <LM>w#w-vesm9303-014-p1s7w29</LM>
 </w.rf>
 <form>jen</form>
-<tag lemma="jen-1" src="auto" selected="1">TT-------------</tag>
+<tag>
+<AM lemma="jen-1" src="auto">TT-------------</AM>
+<AM lemma="jen-4_^(pouze)" src="manual" selected="1">Db-------------</AM>
+</tag>
 </m>
 <m id="m-vesm9303-014-p1s7w30">
 <src.rf>manual</src.rf>
@@ -1411,7 +1420,10 @@
 <LM>w#w-vesm9303-014-p1s7w40</LM>
 </w.rf>
 <form>vedou</form>
-<tag lemma="vést" src="auto" selected="1">VB-P---3P-AA---</tag>
+<tag>
+<AM lemma="vést" src="auto">VB-P---3P-AA---</AM>
+<AM lemma="vést_:T" src="manual" selected="1">VB-P---3P-AA---</AM>
+</tag>
 </m>
 <m id="m-vesm9303-014-p1s7w41">
 <src.rf>manual</src.rf>
@@ -1953,7 +1965,7 @@
 <form>KOLAKOWSKI</form>
 <tag>
 <AM lemma="Kolakowski_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Kolakowský_;S" src="auto" recommended="1">NNMS1-----A---1</AM>
+<AM lemma="Kolakowský_;S" src="auto" recommended="1" selected="1">NNMS1-----A---1</AM>
 <AM lemma="Kolakowský_;S" src="auto">NNMS5-----A---1</AM>
 </tag>
 </m>
@@ -2043,7 +2055,10 @@
 <LM>w#w-vesm9303-014-p3s1w13</LM>
 </w.rf>
 <form>ČSAV</form>
-<tag lemma="ČSAV-1_:B_;K_^(Čs._akademie_věd)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ČSAV-1_:B_;K_^(Čs._akademie_věd)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČSAV-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-vesm9303-014-p3s1w14">
 <src.rf>manual</src.rf>
@@ -2083,7 +2098,10 @@
 <LM>w#w-vesm9303-014-p3s1w18</LM>
 </w.rf>
 <form>str</form>
-<tag lemma="strana-4_:B" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="strana-4_:B" src="orig">NNFXX-----A---8</AM>
+<AM lemma="strana" src="manual" selected="1">NNFXX-----A---9</AM>
+</tag>
 </m>
 <m id="m-vesm9303-014-p3s1w19">
 <src.rf>manual</src.rf>

@@ -63,6 +63,7 @@
 <AM lemma="automobilizmus" src="orig">NNIS1-----A---1</AM>
 <AM lemma="automobilismus" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="automobilismus" src="auto">NNIS4-----A----</AM>
+<AM lemma="automobilismus_,s_^(^DD**automobilizmus)" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94208-1-p1s1w7">
@@ -193,7 +194,10 @@
 <LM>w#w-ln94208-1-p1s2w12</LM>
 </w.rf>
 <form>i</form>
-<tag lemma="i-3_^(označení_pomocí_písmene)" src="orig" selected="1">NNNXX-----A----</tag>
+<tag>
+<AM lemma="i-3_^(označení_pomocí_písmene)" src="orig">NNNXX-----A----</AM>
+<AM lemma="i-33_^(označení_pomocí_písmene)" src="manual" selected="1">NNNXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94208-1-p1s2w13">
 <src.rf>manual</src.rf>
@@ -413,7 +417,10 @@
 <LM>w#w-ln94208-1-p1s4w5</LM>
 </w.rf>
 <form>LN</form>
-<tag lemma="LN-1_:B_;R_^(Lidové_noviny,_deník)" src="orig" selected="1">NNFPX-----A---8</tag>
+<tag>
+<AM lemma="LN-1_:B_;R_^(Lidové_noviny,_deník)" src="orig">NNFPX-----A---8</AM>
+<AM lemma="LN-1_:B_;K_;R_^(Lidové_noviny)" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 </s>
 </mdata>

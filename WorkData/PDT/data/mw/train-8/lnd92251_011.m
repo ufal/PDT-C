@@ -72,7 +72,7 @@
 </w.rf>
 <form>gap</form>
 <tag>
-<AM lemma="gap-99_:B_;S" src="orig">NNXXX-----A---8</AM>
+<AM lemma="gap-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</AM>
 <AM lemma="gap" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="gap" src="auto">NNIS4-----A----</AM>
 </tag>
@@ -546,6 +546,7 @@
 <AM lemma="být" src="auto" recommended="1">VB-S---3P-AA---</AM>
 <AM lemma="on-1_^(oni/ono)" src="auto">PPNS4--3-------</AM>
 <AM lemma="on-1_^(oni/ono)" src="auto">PPXP4--3-------</AM>
+<AM lemma="JE-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-lnd92251-011-p3s2w57">
@@ -708,7 +709,7 @@
 <form>jakékoli</form>
 <tag>
 <AM lemma="jakýkoliv" src="orig">PZFP1---------1</AM>
-<AM lemma="jakýkoli" src="auto" recommended="1">PZFP1----------</AM>
+<AM lemma="jakýkoli" src="auto" recommended="1" selected="1">PZFP1----------</AM>
 <AM lemma="jakýkoli" src="auto">PZFP4----------</AM>
 <AM lemma="jakýkoli" src="auto">PZFP5----------</AM>
 <AM lemma="jakýkoli" src="auto">PZFS2----------</AM>

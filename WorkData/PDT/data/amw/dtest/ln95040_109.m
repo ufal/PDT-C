@@ -229,6 +229,7 @@
 <AM lemma="nacizmus" src="auto" recommended="1">NNIS2-----A----</AM>
 <AM lemma="nacizmus" src="auto">NNIS3-----A----</AM>
 <AM lemma="nacizmus" src="auto">NNIS6-----A----</AM>
+<AM lemma="nacismus_,s_^(^DD**nacizmus)" src="manual" selected="1">NNIS2-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95040-109-p2s1Bw20">
@@ -247,7 +248,10 @@
 <LM>w#w-ln95040-109-p2s2w1</LM>
 </w.rf>
 <form>Uvedl</form>
-<tag lemma="uvést" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag>
+<AM lemma="uvést" src="orig">VpYS---XR-AA---</AM>
+<AM lemma="uvést_:W" src="manual" selected="1">VpYS---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-ln95040-109-p2s2w2">
 <src.rf>manual</src.rf>
@@ -329,7 +333,10 @@
 <LM>w#w-ln95040-109-p2s3w1</LM>
 </w.rf>
 <form>Popřel</form>
-<tag lemma="popřít" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag>
+<AM lemma="popřít" src="orig">VpYS---XR-AA---</AM>
+<AM lemma="popřít_:W" src="manual" selected="1">VpYS---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-ln95040-109-p2s3w2">
 <src.rf>manual</src.rf>
@@ -465,7 +472,10 @@
 <LM>w#w-ln95040-109-p2s3w18</LM>
 </w.rf>
 <form>napsal</form>
-<tag lemma="napsat" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag>
+<AM lemma="napsat" src="orig">VpYS---XR-AA---</AM>
+<AM lemma="napsat_:W" src="manual" selected="1">VpYS---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-ln95040-109-p2s3w19">
 <src.rf>manual</src.rf>

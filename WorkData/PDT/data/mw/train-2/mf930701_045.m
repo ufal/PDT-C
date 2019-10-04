@@ -35,7 +35,10 @@
 <LM>w#w-mf930701-045-p1s1w3</LM>
 </w.rf>
 <form>ČF</form>
-<tag lemma="ČF_:B_;K_^(Česká_filharmonie)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ČF_:B_;K_^(Česká_filharmonie)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČF-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-mf930701-045-p1s1w4">
 <src.rf>manual</src.rf>
@@ -149,7 +152,10 @@
 <LM>w#w-mf930701-045-p2s1w13</LM>
 </w.rf>
 <form>milionů</form>
-<tag lemma="milión`1000000" src="orig" selected="1">NNIP2-----A----</tag>
+<tag>
+<AM lemma="milión`1000000" src="orig">NNIP2-----A----</AM>
+<AM lemma="milion`1000000_,s_^(^DD**milión)" src="manual" selected="1">NNIP2-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930701-045-p2s1w14">
 <src.rf>manual</src.rf>
@@ -229,7 +235,10 @@
 <LM>w#w-mf930701-045-p2s1w23</LM>
 </w.rf>
 <form>milionů</form>
-<tag lemma="milión`1000000" src="orig" selected="1">NNIP2-----A----</tag>
+<tag>
+<AM lemma="milión`1000000" src="orig">NNIP2-----A----</AM>
+<AM lemma="milion`1000000_,s_^(^DD**milión)" src="manual" selected="1">NNIP2-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930701-045-p2s1w24">
 <src.rf>manual</src.rf>
@@ -295,7 +304,10 @@
 <LM>w#w-mf930701-045-p2s2w7</LM>
 </w.rf>
 <form>ČF</form>
-<tag lemma="ČF_:B_;K_^(Česká_filharmonie)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ČF_:B_;K_^(Česká_filharmonie)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČF-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-mf930701-045-p2s2w8">
 <src.rf>manual</src.rf>
@@ -311,7 +323,10 @@
 <LM>w#w-mf930701-045-p2s2w9</LM>
 </w.rf>
 <form>Kantor</form>
-<tag lemma="kantor" src="orig" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="kantor" src="orig">NNMS1-----A----</AM>
+<AM lemma="Kantor_;S" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930701-045-p2s2w10">
 <src.rf>manual</src.rf>
@@ -417,7 +432,10 @@
 <LM>w#w-mf930701-045-p2s3w12</LM>
 </w.rf>
 <form>miliony</form>
-<tag lemma="milión`1000000" src="orig" selected="1">NNIP1-----A----</tag>
+<tag>
+<AM lemma="milión`1000000" src="orig">NNIP1-----A----</AM>
+<AM lemma="milion`1000000_,s_^(^DD**milión)" src="manual" selected="1">NNIP1-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930701-045-p2s3w13">
 <src.rf>manual</src.rf>
@@ -489,7 +507,10 @@
 <LM>w#w-mf930701-045-p2s3w21</LM>
 </w.rf>
 <form>ČF</form>
-<tag lemma="ČF_:B_;K_^(Česká_filharmonie)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ČF_:B_;K_^(Česká_filharmonie)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČF-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-mf930701-045-p2s3w22">
 <src.rf>manual</src.rf>
@@ -733,7 +754,10 @@
 <LM>w#w-mf930701-045-p2s5w9</LM>
 </w.rf>
 <form>L</form>
-<tag lemma="L-0_:B_;Y" src="orig" selected="1">NNMXX-----A---8</tag>
+<tag>
+<AM lemma="L-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
+<AM lemma="L-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-mf930701-045-p2s5w10">
 <src.rf>manual</src.rf>

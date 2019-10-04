@@ -46,6 +46,7 @@
 <tag>
 <AM lemma="USA_;G" src="orig">NNIPX-----A----</AM>
 <AM lemma="USA_:B_;K_,t_^(United_States_of_America)" src="auto" recommended="1">NNIPX-----A---8</AM>
+<AM lemma="USA_:B_;K_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930708-179-p1s1w5">
@@ -74,7 +75,7 @@
 <form>Tokio</form>
 <tag>
 <AM lemma="Tokyo_;G" src="orig">NNNS1-----A----</AM>
-<AM lemma="Tokio_;G" src="auto" recommended="1">NNNS1-----A----</AM>
+<AM lemma="Tokio_;G" src="auto" recommended="1" selected="1">NNNS1-----A----</AM>
 <AM lemma="Tokio_;G" src="auto">NNNS4-----A----</AM>
 <AM lemma="Tokio_;G" src="auto">NNNS5-----A----</AM>
 </tag>
@@ -226,7 +227,7 @@
 <AM lemma="Tokio_;G" src="auto">NNNP1-----A----</AM>
 <AM lemma="Tokio_;G" src="auto">NNNP4-----A----</AM>
 <AM lemma="Tokio_;G" src="auto">NNNP5-----A----</AM>
-<AM lemma="Tokio_;G" src="auto" recommended="1">NNNS2-----A----</AM>
+<AM lemma="Tokio_;G" src="auto" recommended="1" selected="1">NNNS2-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930708-179-p2s1w20">
@@ -373,6 +374,7 @@
 <AM lemma="g-1`gram_:B" src="auto">NNIXX-----A---8</AM>
 <AM lemma="g-3_^(označení_pomocí_písmene)" src="auto" recommended="1">NNNXX-----A----</AM>
 <AM lemma="g-8_:B_^(ost._zkratka)" src="auto">XX------------8</AM>
+<AM lemma="G-33_^(označení_pomocí_písmene)" src="manual" selected="1">NNNXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930708-179-p2s3w10">
@@ -424,7 +426,7 @@
 <tag>
 <AM lemma="Tokyo_;G" src="orig">NNNS6-----A----</AM>
 <AM lemma="Tokio_;G" src="auto">NNNS3-----A----</AM>
-<AM lemma="Tokio_;G" src="auto" recommended="1">NNNS6-----A----</AM>
+<AM lemma="Tokio_;G" src="auto" recommended="1" selected="1">NNNS6-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930708-179-p2s3w16">
@@ -1068,6 +1070,7 @@
 <tag>
 <AM lemma="USA_;G" src="orig">NNIPX-----A----</AM>
 <AM lemma="USA_:B_;K_,t_^(United_States_of_America)" src="auto" recommended="1">NNIPX-----A---8</AM>
+<AM lemma="USA_:B_;K_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930708-179-p6s1w32">
@@ -1132,7 +1135,10 @@
 <LM>w#w-mf930708-179-p6s1w39</LM>
 </w.rf>
 <form>začaly</form>
-<tag lemma="začít-1_^(začnout)" src="auto" selected="1">VpTP---XR-AA---</tag>
+<tag>
+<AM lemma="začít-1_^(začnout)" src="auto">VpTP---XR-AA---</AM>
+<AM lemma="začít-1_:W_^(začnout)" src="manual" selected="1">VpTP---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-mf930708-179-p6s1w40">
 <src.rf>manual</src.rf>
@@ -1166,7 +1172,10 @@
 <LM>w#w-mf930708-179-p7s1w2</LM>
 </w.rf>
 <form>Calvin</form>
-<tag lemma="Calvin_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Calvin_;S" src="orig">NNMS1-----A----</AM>
+<AM lemma="Calvin_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930708-179-p7s1w3">
 <src.rf>manual</src.rf>
@@ -1240,7 +1249,10 @@
 <LM>w#w-mf930708-179-p8s1w4</LM>
 </w.rf>
 <form>Calvin</form>
-<tag lemma="Calvin_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Calvin_;S" src="orig">NNMS1-----A----</AM>
+<AM lemma="Calvin_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930708-179-p8s1w5">
 <src.rf>manual</src.rf>
@@ -1314,7 +1326,7 @@
 <form>zasáhl</form>
 <tag>
 <AM lemma="zasáhnout" src="orig">VpYS---XR-AA---</AM>
-<AM lemma="zasáhnout_:W" src="auto" recommended="1">VpYS---XR-AA--1</AM>
+<AM lemma="zasáhnout_:W" src="auto" recommended="1" selected="1">VpYS---XR-AA--1</AM>
 </tag>
 </m>
 <m id="m-mf930708-179-p8s1w14">
@@ -1510,7 +1522,10 @@
 <LM>w#w-mf930708-179-p9s1w2</LM>
 </w.rf>
 <form>SR</form>
-<tag lemma="SR-1_:B_;G_^(Slovenská_republika)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="SR-1_:B_;G_^(Slovenská_republika)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="SR-1_:B_;G_^(Slovenská_republika)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930708-179-p9s1w3">
 <src.rf>manual</src.rf>
@@ -1576,7 +1591,10 @@
 <LM>w#w-mf930708-179-p10s1w4</LM>
 </w.rf>
 <form>Levice</form>
-<tag lemma="levice" src="orig" selected="1">NNFP1-----A----</tag>
+<tag>
+<AM lemma="levice" src="orig">NNFP1-----A----</AM>
+<AM lemma="Levice_;G" src="manual" selected="1">NNFP1-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930708-179-p10s1w5">
 <src.rf>manual</src.rf>

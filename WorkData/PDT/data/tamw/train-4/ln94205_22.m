@@ -109,7 +109,10 @@
 <LM>w#w-ln94205-22-p2s1Aw8</LM>
 </w.rf>
 <form>osmdesátimilionový</form>
-<tag lemma="osmdesátimilionový" src="orig" selected="1">AAIS4----1A----</tag>
+<tag>
+<AM lemma="osmdesátimilionový" src="orig">AAIS4----1A----</AM>
+<AM lemma="osmdesátimilionový_,s_^(^DD**osmdesátimilónový)" src="manual" selected="1">AAIS4----1A----</AM>
+</tag>
 </m>
 <m id="m-ln94205-22-p2s1Aw9">
 <src.rf>manual</src.rf>
@@ -331,7 +334,10 @@
 <LM>w#w-ln94205-22-p2s2w2</LM>
 </w.rf>
 <form>řekl</form>
-<tag lemma="říci" src="auto" selected="1">VpYS---XR-AA---</tag>
+<tag>
+<AM lemma="říci" src="auto">VpYS---XR-AA---</AM>
+<AM lemma="říci_:W" src="manual" selected="1">VpYS---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-ln94205-22-p2s2w3">
 <src.rf>manual</src.rf>
@@ -731,6 +737,7 @@
 <tag>
 <AM lemma="Kč" src="orig">NNFXX-----A----</AM>
 <AM lemma="Kč_:B" src="auto" recommended="1">NNFXX-----A---8</AM>
+<AM lemma="Kč_:B" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94205-22-p3s2w11">
@@ -951,7 +958,10 @@
 <LM>w#w-ln94205-22-p4s1w3</LM>
 </w.rf>
 <form>má</form>
-<tag lemma="mít" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag>
+<AM lemma="mít" src="orig">VB-S---3P-AA---</AM>
+<AM lemma="mít_:T" src="manual" selected="1">VB-S---3P-AA---</AM>
+</tag>
 </m>
 <m id="m-ln94205-22-p4s1w4">
 <src.rf>manual</src.rf>
@@ -1291,7 +1301,10 @@
 <LM>w#w-ln94205-22-p4s3w21</LM>
 </w.rf>
 <form>tzv</form>
-<tag lemma="takzvaný_:B" src="orig" selected="1">AAXXX----1A---8</tag>
+<tag>
+<AM lemma="takzvaný_:B" src="orig">AAXXX----1A---8</AM>
+<AM lemma="takzvaný" src="manual" selected="1">AAXXX----1A---8</AM>
+</tag>
 </m>
 <m id="m-ln94205-22-p4s3w22">
 <src.rf>manual</src.rf>
@@ -1811,7 +1824,10 @@
 <LM>w#w-ln94205-22-p6s2w5</LM>
 </w.rf>
 <form>H</form>
-<tag lemma="H-0_:B_;Y" src="orig" selected="1">NNMXX-----A---8</tag>
+<tag>
+<AM lemma="H-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
+<AM lemma="H-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94205-22-p6s2w6">
 <src.rf>manual</src.rf>
@@ -2232,7 +2248,7 @@
 </w.rf>
 <form>Aroma</form>
 <tag>
-<AM lemma="Aroma_;K" src="orig">NNXXX-----A----</AM>
+<AM lemma="Aroma_;K" src="orig" selected="1">NNXXX-----A----</AM>
 <AM lemma="aróma" src="auto" recommended="1">NNNS1-----A----</AM>
 <AM lemma="aróma" src="auto">NNNS4-----A----</AM>
 <AM lemma="aróma" src="auto">NNNS5-----A----</AM>

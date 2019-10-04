@@ -53,7 +53,10 @@
 <LM>w#w-lnd92253-055-p2s1w3</LM>
 </w.rf>
 <form>MMF</form>
-<tag lemma="MMF-1_:B_;K_;b_^(Mezinárodní_měnový_fond)" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="MMF-1_:B_;K_;b_^(Mezinárodní_měnový_fond)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="MMF-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 </s>
 <s id="m-lnd92253-055-p3s1">
@@ -129,7 +132,10 @@
 <LM>w#w-lnd92253-055-p3s2w7</LM>
 </w.rf>
 <form>MMF</form>
-<tag lemma="MMF-1_:B_;K_;b_^(Mezinárodní_měnový_fond)" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="MMF-1_:B_;K_;b_^(Mezinárodní_měnový_fond)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="MMF-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd92253-055-p3s2w8">
 <src.rf>manual</src.rf>
@@ -444,7 +450,7 @@
 </w.rf>
 <form>Togliatti</form>
 <tag>
-<AM lemma="Togliatti_;G_;S" src="orig">NNNXX-----A----</AM>
+<AM lemma="Togliatti_;G_;S" src="orig" selected="1">NNNXX-----A----</AM>
 <AM lemma="Togliatti_;G_;S" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Togliatti_;G_;S" src="auto">NNMS5-----A----</AM>
 </tag>
@@ -481,7 +487,10 @@
 <LM>w#w-lnd92253-055-p3s4w3</LM>
 </w.rf>
 <form>MMF</form>
-<tag lemma="MMF-1_:B_;K_;b_^(Mezinárodní_měnový_fond)" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="MMF-1_:B_;K_;b_^(Mezinárodní_měnový_fond)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="MMF-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd92253-055-p3s4w4">
 <src.rf>manual</src.rf>
@@ -881,7 +890,10 @@
 <LM>w#w-lnd92253-055-p3s4w53</LM>
 </w.rf>
 <form>MMF</form>
-<tag lemma="MMF-1_:B_;K_;b_^(Mezinárodní_měnový_fond)" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="MMF-1_:B_;K_;b_^(Mezinárodní_měnový_fond)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="MMF-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd92253-055-p3s4w54">
 <src.rf>manual</src.rf>
@@ -1141,7 +1153,10 @@
 <LM>w#w-lnd92253-055-p3s6w1</LM>
 </w.rf>
 <form>MMF</form>
-<tag lemma="MMF-1_:B_;K_;b_^(Mezinárodní_měnový_fond)" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="MMF-1_:B_;K_;b_^(Mezinárodní_měnový_fond)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="MMF-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd92253-055-p3s6w2">
 <src.rf>manual</src.rf>
@@ -1333,7 +1348,10 @@
 <LM>w#w-lnd92253-055-p3s6w25</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-2" src="auto" selected="1">Dg-------2A----</tag>
+<tag>
+<AM lemma="hodně-2" src="auto">Dg-------2A----</AM>
+<AM lemma="hodně-3" src="manual" selected="1">Dg-------2A----</AM>
+</tag>
 </m>
 <m id="m-lnd92253-055-p3s6w26">
 <src.rf>manual</src.rf>
@@ -1471,7 +1489,10 @@
 <LM>w#w-lnd92253-055-p3s7w12</LM>
 </w.rf>
 <form>ani</form>
-<tag lemma="ani-1" src="auto" selected="1">J^-------------</tag>
+<tag>
+<AM lemma="ani-1" src="auto">J^-------------</AM>
+<AM lemma="ani-2" src="manual" selected="1">TT-------------</AM>
+</tag>
 </m>
 <m id="m-lnd92253-055-p3s7w13">
 <src.rf>manual</src.rf>

@@ -38,6 +38,7 @@
 <tag>
 <AM lemma="USA_;G" src="orig">NNIPX-----A----</AM>
 <AM lemma="USA_:B_;K_,t_^(United_States_of_America)" src="auto" recommended="1">NNIPX-----A---8</AM>
+<AM lemma="USA_:B_;K_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 </s>
@@ -117,6 +118,7 @@
 <tag>
 <AM lemma="USA_;G" src="orig">NNIPX-----A----</AM>
 <AM lemma="USA_:B_;K_,t_^(United_States_of_America)" src="auto" recommended="1">NNIPX-----A---8</AM>
+<AM lemma="USA_:B_;K_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94203-105-p2s1Bw8">
@@ -159,7 +161,10 @@
 <LM>w#w-ln94203-105-p2s1Bw12</LM>
 </w.rf>
 <form>dolarů</form>
-<tag lemma="dolar_;b" src="orig" selected="1">NNIP2-----A----</tag>
+<tag>
+<AM lemma="dolar_;b" src="orig">NNIP2-----A----</AM>
+<AM lemma="dolar" src="manual" selected="1">NNIP2-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94203-105-p2s1Bw13">
 <src.rf>manual</src.rf>
@@ -476,7 +481,7 @@
 </w.rf>
 <form>Alexi</form>
 <tag>
-<AM lemma="Alexi_;Y" src="orig">NNMS1-----A----</AM>
+<AM lemma="Alexi_;Y" src="orig" selected="1">NNMS1-----A----</AM>
 <AM lemma="Alex-1_;Y" src="auto" recommended="1">NNMP1-----A----</AM>
 <AM lemma="Alex-1_;Y" src="auto">NNMP5-----A----</AM>
 <AM lemma="Alex-1_;Y" src="auto">NNMP7-----A----</AM>
@@ -579,7 +584,10 @@
 <LM>w#w-ln94203-105-p2s3w15</LM>
 </w.rf>
 <form>Padovy</form>
-<tag lemma="padova" src="orig" selected="1">NNFS2-----A----</tag>
+<tag>
+<AM lemma="padova" src="orig">NNFS2-----A----</AM>
+<AM lemma="Padova_;G" src="manual" selected="1">NNFS2-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94203-105-p2s3w16">
 <src.rf>manual</src.rf>
@@ -808,6 +816,7 @@
 <tag>
 <AM lemma="USA_;G" src="orig">NNIPX-----A----</AM>
 <AM lemma="USA_:B_;K_,t_^(United_States_of_America)" src="auto" recommended="1">NNIPX-----A---8</AM>
+<AM lemma="USA_:B_;K_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94203-105-p2s4w3">

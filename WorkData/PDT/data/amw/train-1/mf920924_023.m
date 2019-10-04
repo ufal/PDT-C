@@ -125,7 +125,10 @@
 <LM>w#w-mf920924-023-p2s1w10</LM>
 </w.rf>
 <form>SNS</form>
-<tag lemma="SNS-2_:B_;G_^(Sdr._nezávislých_států)" src="auto" selected="1">NNNXX-----A---8</tag>
+<tag>
+<AM lemma="SNS-2_:B_;G_^(Sdr._nezávislých_států)" src="auto">NNNXX-----A---8</AM>
+<AM lemma="SNS-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920924-023-p2s1w11">
 <src.rf>manual</src.rf>
@@ -152,6 +155,7 @@
 <tag>
 <AM lemma="cash_,t" src="orig">Db-------------</AM>
 <AM lemma="cash_;b_,t" src="auto" recommended="1">NNFXX-----A----</AM>
+<AM lemma="cash-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-mf920924-023-p2s1w14">
@@ -790,7 +794,10 @@
 <LM>w#w-mf920924-023-p2s4w5</LM>
 </w.rf>
 <form>SNS</form>
-<tag lemma="SNS-2_:B_;G_^(Sdr._nezávislých_států)" src="orig" selected="1">NNNXX-----A---8</tag>
+<tag>
+<AM lemma="SNS-2_:B_;G_^(Sdr._nezávislých_států)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="SNS-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920924-023-p2s4w6">
 <src.rf>manual</src.rf>
@@ -808,7 +815,7 @@
 <form>nejen</form>
 <tag>
 <AM lemma="nejen" src="orig">TT-------------</AM>
-<AM lemma="nejen" src="auto" recommended="1">Db-------------</AM>
+<AM lemma="nejen" src="auto" recommended="1" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m-mf920924-023-p2s4w8">
@@ -1011,7 +1018,10 @@
 <LM>w#w-mf920924-023-p2s5w8</LM>
 </w.rf>
 <form>SNS</form>
-<tag lemma="SNS-2_:B_;G_^(Sdr._nezávislých_států)" src="orig" selected="1">NNNXX-----A---8</tag>
+<tag>
+<AM lemma="SNS-2_:B_;G_^(Sdr._nezávislých_států)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="SNS-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920924-023-p2s5w9">
 <src.rf>manual</src.rf>

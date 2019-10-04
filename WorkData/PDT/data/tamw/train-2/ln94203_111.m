@@ -23,6 +23,7 @@
 <AM lemma="olympismus" src="orig">NNIS1-----A----</AM>
 <AM lemma="olympizmus" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="olympizmus" src="auto">NNIS4-----A----</AM>
+<AM lemma="olympismus_,s_^(^DD**olympizmus)" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94203-111-p1s1w2">
@@ -666,7 +667,10 @@
 <LM>w#w-ln94203-111-p2s4w9</LM>
 </w.rf>
 <form>gigantismu</form>
-<tag lemma="gigantismus" src="orig" selected="1">NNIS3-----A----</tag>
+<tag>
+<AM lemma="gigantismus" src="orig">NNIS3-----A----</AM>
+<AM lemma="gigantismus_,s_^(^DD**gigantizmus)" src="manual" selected="1">NNIS3-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94203-111-p2s4w10">
 <src.rf>manual</src.rf>

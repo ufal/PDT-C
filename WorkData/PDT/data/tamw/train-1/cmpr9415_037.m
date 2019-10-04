@@ -63,7 +63,10 @@
 <LM>w#w-cmpr9415-037-p4s1w2</LM>
 </w.rf>
 <form>DBV</form>
-<tag lemma="DBV-1_:B_;K_,t_^(Deutscher_Bäderverband)" src="auto" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="DBV-1_:B_;K_,t_^(Deutscher_Bäderverband)" src="auto">NNIXX-----A---8</AM>
+<AM lemma="DBV-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-cmpr9415-037-p4s1w3">
 <src.rf>manual</src.rf>
@@ -71,7 +74,10 @@
 <LM>w#w-cmpr9415-037-p4s1w3</LM>
 </w.rf>
 <form>Cycles</form>
-<tag lemma="Cycle_;K_,t" src="orig" selected="1">NNIPX-----A----</tag>
+<tag>
+<AM lemma="Cycle_;K_,t" src="orig">NNIPX-----A----</AM>
+<AM lemma="Cycles-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-cmpr9415-037-p4s1w4">
 <src.rf>manual</src.rf>
@@ -363,7 +369,10 @@
 <LM>w#w-cmpr9415-037-p5s1w3</LM>
 </w.rf>
 <form>DBV</form>
-<tag lemma="DBV-1_:B_;K_,t_^(Deutscher_Bäderverband)" src="auto" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="DBV-1_:B_;K_,t_^(Deutscher_Bäderverband)" src="auto">NNIXX-----A---8</AM>
+<AM lemma="DBV-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-cmpr9415-037-p5s1w4">
 <src.rf>manual</src.rf>
@@ -371,7 +380,10 @@
 <LM>w#w-cmpr9415-037-p5s1w4</LM>
 </w.rf>
 <form>Cycles</form>
-<tag lemma="Cycle_;K_,t" src="orig" selected="1">NNIPX-----A----</tag>
+<tag>
+<AM lemma="Cycle_;K_,t" src="orig">NNIPX-----A----</AM>
+<AM lemma="Cycles-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-cmpr9415-037-p5s1w5">
 <src.rf>manual</src.rf>
@@ -387,7 +399,10 @@
 <LM>w#w-cmpr9415-037-p5s1w6</LM>
 </w.rf>
 <form>s</form>
-<tag lemma="společnost_:B" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="společnost_:B" src="orig">NNFXX-----A---8</AM>
+<AM lemma="společnost" src="manual" selected="1">NNFXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-cmpr9415-037-p5s1w7">
 <src.rf>manual</src.rf>
@@ -403,7 +418,10 @@
 <LM>w#w-cmpr9415-037-p5s1w8</LM>
 </w.rf>
 <form>r</form>
-<tag lemma="ručení_:B" src="orig" selected="1">NNNS7-----A---8</tag>
+<tag>
+<AM lemma="ručení_:B" src="orig">NNNS7-----A---8</AM>
+<AM lemma="ručení" src="manual" selected="1">NNNS7-----A---8</AM>
+</tag>
 </m>
 <m id="m-cmpr9415-037-p5s1w9">
 <src.rf>manual</src.rf>
@@ -419,7 +437,10 @@
 <LM>w#w-cmpr9415-037-p5s1w10</LM>
 </w.rf>
 <form>o</form>
-<tag lemma="omezený_:B" src="orig" selected="1">AANS7----1A---8</tag>
+<tag>
+<AM lemma="omezený_:B" src="orig">AANS7----1A---8</AM>
+<AM lemma="omezený" src="manual" selected="1">AANS7----1A---8</AM>
+</tag>
 </m>
 <m id="m-cmpr9415-037-p5s1w11">
 <src.rf>manual</src.rf>
@@ -499,7 +520,10 @@
 <LM>w#w-cmpr9415-037-p5s1w20</LM>
 </w.rf>
 <form>tel</form>
-<tag lemma="telefon_:B" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="telefon_:B" src="orig">NNIXX-----A---8</AM>
+<AM lemma="telefon" src="manual" selected="1">NNIXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-cmpr9415-037-p5s1w21">
 <src.rf>manual</src.rf>

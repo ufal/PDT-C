@@ -595,7 +595,10 @@
 <LM>w#w-ln94202-65-p2s3w12</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-2" src="auto" selected="1">Dg-------2A----</tag>
+<tag>
+<AM lemma="hodně-2" src="auto">Dg-------2A----</AM>
+<AM lemma="hodně-3" src="manual" selected="1">Dg-------2A----</AM>
+</tag>
 </m>
 <m id="m-ln94202-65-p2s3w13">
 <src.rf>manual</src.rf>
@@ -644,7 +647,10 @@
 <LM>w#w-ln94202-65-p2s3w18</LM>
 </w.rf>
 <form>milionu</form>
-<tag lemma="milión`1000000" src="orig" selected="1">NNIS2-----A----</tag>
+<tag>
+<AM lemma="milión`1000000" src="orig">NNIS2-----A----</AM>
+<AM lemma="milion`1000000_,s_^(^DD**milión)" src="manual" selected="1">NNIS2-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94202-65-p2s3w19">
 <src.rf>manual</src.rf>
@@ -742,7 +748,10 @@
 <LM>w#w-ln94202-65-p2s4w10</LM>
 </w.rf>
 <form>Vytautasem</form>
-<tag lemma="Vytautas_;S" src="orig" selected="1">NNMS7-----A----</tag>
+<tag>
+<AM lemma="Vytautas_;S" src="orig">NNMS7-----A----</AM>
+<AM lemma="Vytautas_;S_;Y" src="manual" selected="1">NNMS7-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94202-65-p2s4w11">
 <src.rf>manual</src.rf>

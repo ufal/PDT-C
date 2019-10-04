@@ -839,6 +839,7 @@
 <AM lemma="u-1" src="auto">RR--2----------</AM>
 <AM lemma="u-3_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
 <AM lemma="u-8_:B_^(ost._zkratka)" src="auto">XX------------8</AM>
+<AM lemma="U-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92257-089-p3s8w5">
@@ -880,6 +881,7 @@
 <AM lemma="společnost_:B" src="auto">NNFXX-----A---8</AM>
 <AM lemma="strana-4_:B_^(v_knize,_rukopise,...)" src="auto">NNFXX-----A---8</AM>
 <AM lemma="státní_:B" src="auto">AAXXX----1A---8</AM>
+<AM lemma="S-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92257-089-p3s8w7">
@@ -896,7 +898,10 @@
 <LM>w#w-lnd92257-089-p3s8w8</LM>
 </w.rf>
 <form>News</form>
-<tag lemma="News-1_;K_,t_^(souč._názvů,_např._Daily_N.)" src="orig" selected="1">NNFPX-----A----</tag>
+<tag>
+<AM lemma="News-1_;K_,t_^(souč._názvů,_např._Daily_N.)" src="orig">NNFPX-----A----</AM>
+<AM lemma="News-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-lnd92257-089-p3s8w9">
 <src.rf>manual</src.rf>
@@ -904,7 +909,10 @@
 <LM>w#w-lnd92257-089-p3s8w9</LM>
 </w.rf>
 <form>and</form>
-<tag lemma="and-1_,t_^(obv._souč._anglických_názvů,_&quot;a&quot;)" src="auto" selected="1">J^-------------</tag>
+<tag>
+<AM lemma="and-1_,t_^(obv._souč._anglických_názvů,_&quot;a&quot;)" src="auto">J^-------------</AM>
+<AM lemma="and-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-lnd92257-089-p3s8w10">
 <src.rf>manual</src.rf>
@@ -912,7 +920,10 @@
 <LM>w#w-lnd92257-089-p3s8w10</LM>
 </w.rf>
 <form>World</form>
-<tag lemma="World_;R_,t" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="World_;R_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="World-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-lnd92257-089-p3s8w11">
 <src.rf>manual</src.rf>
@@ -920,7 +931,10 @@
 <LM>w#w-lnd92257-089-p3s8w11</LM>
 </w.rf>
 <form>Report</form>
-<tag lemma="Report_;K_;u_,t_^(umělecký_soubor_Wheather_Report)" src="auto" selected="1">NNIXX-----A----</tag>
+<tag>
+<AM lemma="Report_;K_;u_,t_^(umělecký_soubor_Wheather_Report)" src="auto">NNIXX-----A----</AM>
+<AM lemma="Report-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-lnd92257-089-p3s8w12">
 <src.rf>manual</src.rf>
@@ -1164,7 +1178,10 @@
 <LM>w#w-lnd92257-089-p3s10w4</LM>
 </w.rf>
 <form>KLDR</form>
-<tag lemma="KLDR_:B_;G_^(Korejská_lidově-demokratická_republika)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="KLDR_:B_;G_^(Korejská_lidově-demokratická_republika)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="KLDR_:B_;G_^(Korejská_lidově-demokratická_republika)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92257-089-p3s10w5">
 <src.rf>manual</src.rf>

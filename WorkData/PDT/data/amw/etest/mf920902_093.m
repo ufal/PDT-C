@@ -19,7 +19,10 @@
 <LM>w#w-mf920902-093-p1s1w1</LM>
 </w.rf>
 <form>Smena</form>
-<tag lemma="Smena_;R" src="orig" selected="1">NNFS1-----A----</tag>
+<tag>
+<AM lemma="Smena_;R" src="orig">NNFS1-----A----</AM>
+<AM lemma="Smena_;K_;R" src="manual" selected="1">NNFS1-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920902-093-p1s1w2">
 <src.rf>manual</src.rf>
@@ -35,7 +38,10 @@
 <LM>w#w-mf920902-093-p1s1w3</LM>
 </w.rf>
 <form>a</form>
-<tag lemma="akciový_:B_^(jen_akciová_společnost)" src="orig" selected="1">AAXXX----1A---8</tag>
+<tag>
+<AM lemma="akciový_:B_^(jen_akciová_společnost)" src="orig">AAXXX----1A---8</AM>
+<AM lemma="akciový" src="manual" selected="1">AAXXX----1A---8</AM>
+</tag>
 </m>
 <m id="m-mf920902-093-p1s1w4">
 <src.rf>manual</src.rf>
@@ -51,7 +57,10 @@
 <LM>w#w-mf920902-093-p1s1w5</LM>
 </w.rf>
 <form>s</form>
-<tag lemma="společnost_:B" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="společnost_:B" src="orig">NNFXX-----A---8</AM>
+<AM lemma="společnost" src="manual" selected="1">NNFXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-mf920902-093-p1s1w6">
 <src.rf>manual</src.rf>
@@ -175,7 +184,10 @@
 <LM>w#w-mf920902-093-p2s2w9</LM>
 </w.rf>
 <form>Smena</form>
-<tag lemma="Smena_;R" src="orig" selected="1">NNFS1-----A----</tag>
+<tag>
+<AM lemma="Smena_;R" src="orig">NNFS1-----A----</AM>
+<AM lemma="Smena_;K_;R" src="manual" selected="1">NNFS1-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920902-093-p2s2w10">
 <src.rf>manual</src.rf>
@@ -281,7 +293,10 @@
 <LM>w#w-mf920902-093-p2s3w6</LM>
 </w.rf>
 <form>a</form>
-<tag lemma="akciový_:B_^(jen_akciová_společnost)" src="orig" selected="1">AAXXX----1A---8</tag>
+<tag>
+<AM lemma="akciový_:B_^(jen_akciová_společnost)" src="orig">AAXXX----1A---8</AM>
+<AM lemma="akciový" src="manual" selected="1">AAXXX----1A---8</AM>
+</tag>
 </m>
 <m id="m-mf920902-093-p2s3w7">
 <src.rf>manual</src.rf>
@@ -297,7 +312,10 @@
 <LM>w#w-mf920902-093-p2s3w8</LM>
 </w.rf>
 <form>s</form>
-<tag lemma="společnost_:B" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="společnost_:B" src="orig">NNFXX-----A---8</AM>
+<AM lemma="společnost" src="manual" selected="1">NNFXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-mf920902-093-p2s3w9">
 <src.rf>manual</src.rf>
@@ -353,7 +371,10 @@
 <LM>w#w-mf920902-093-p2s3w15</LM>
 </w.rf>
 <form>Smena</form>
-<tag lemma="Smena_;R" src="orig" selected="1">NNFS1-----A----</tag>
+<tag>
+<AM lemma="Smena_;R" src="orig">NNFS1-----A----</AM>
+<AM lemma="Smena_;K_;R" src="manual" selected="1">NNFS1-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920902-093-p2s3w16">
 <src.rf>manual</src.rf>
@@ -465,7 +486,10 @@
 <LM>w#w-mf920902-093-p2s3w29</LM>
 </w.rf>
 <form>SR</form>
-<tag lemma="SR-1_:B_;G_^(Slovenská_republika)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="SR-1_:B_;G_^(Slovenská_republika)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="SR-1_:B_;G_^(Slovenská_republika)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920902-093-p2s3w30">
 <src.rf>manual</src.rf>
@@ -513,7 +537,10 @@
 <LM>w#w-mf920902-093-p2s3w35</LM>
 </w.rf>
 <form>SR</form>
-<tag lemma="SR-1_:B_;G_^(Slovenská_republika)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="SR-1_:B_;G_^(Slovenská_republika)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="SR-1_:B_;G_^(Slovenská_republika)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920902-093-p2s3w36">
 <src.rf>manual</src.rf>
@@ -635,7 +662,10 @@
 <LM>w#w-mf920902-093-p2s4w6</LM>
 </w.rf>
 <form>SR</form>
-<tag lemma="SR-1_:B_;G_^(Slovenská_republika)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="SR-1_:B_;G_^(Slovenská_republika)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="SR-1_:B_;G_^(Slovenská_republika)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920902-093-p2s4w7">
 <src.rf>manual</src.rf>
@@ -683,7 +713,10 @@
 <LM>w#w-mf920902-093-p2s4w12</LM>
 </w.rf>
 <form>MŠMŠ</form>
-<tag lemma="MŠMŠ_:B_;K_,t" src="orig" selected="1">NNNXX-----A---8</tag>
+<tag>
+<AM lemma="MŠMŠ_:B_;K_,t" src="orig">NNNXX-----A---8</AM>
+<AM lemma="MŠMŠ-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-mf920902-093-p2s4w13">
 <src.rf>manual</src.rf>
@@ -691,7 +724,10 @@
 <LM>w#w-mf920902-093-p2s4w13</LM>
 </w.rf>
 <form>SR</form>
-<tag lemma="SR-1_:B_;G_^(Slovenská_republika)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="SR-1_:B_;G_^(Slovenská_republika)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="SR-1_:B_;G_^(Slovenská_republika)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920902-093-p2s4w14">
 <src.rf>manual</src.rf>
@@ -867,7 +903,10 @@
 <LM>w#w-mf920902-093-p2s4w36</LM>
 </w.rf>
 <form>SR</form>
-<tag lemma="SR-1_:B_;G_^(Slovenská_republika)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="SR-1_:B_;G_^(Slovenská_republika)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="SR-1_:B_;G_^(Slovenská_republika)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920902-093-p2s4w37">
 <src.rf>manual</src.rf>

@@ -53,7 +53,10 @@
 <LM>w#w-lnd92256-017-p2s1w3</LM>
 </w.rf>
 <form>ria</form>
-<tag lemma="ria_,t_^(záliv_podobný_fjordu)" src="orig" selected="1">NNFS1-----A----</tag>
+<tag>
+<AM lemma="ria_,t_^(záliv_podobný_fjordu)" src="orig">NNFS1-----A----</AM>
+<AM lemma="ria-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92256-017-p2s1w4">
 <src.rf>manual</src.rf>
@@ -167,7 +170,10 @@
 <LM>w#w-lnd92256-017-p2s2w12</LM>
 </w.rf>
 <form>mají</form>
-<tag lemma="mít" src="orig" selected="1">VB-P---3P-AA---</tag>
+<tag>
+<AM lemma="mít" src="orig">VB-P---3P-AA---</AM>
+<AM lemma="mít_:T" src="manual" selected="1">VB-P---3P-AA---</AM>
+</tag>
 </m>
 <m id="m-lnd92256-017-p2s2w13">
 <src.rf>manual</src.rf>
@@ -541,7 +547,7 @@
 <form>jakýchkoli</form>
 <tag>
 <AM lemma="jakýkoliv" src="orig">PZXP2---------1</AM>
-<AM lemma="jakýkoli" src="auto" recommended="1">PZXP2----------</AM>
+<AM lemma="jakýkoli" src="auto" recommended="1" selected="1">PZXP2----------</AM>
 <AM lemma="jakýkoli" src="auto">PZXP6----------</AM>
 </tag>
 </m>
@@ -625,7 +631,10 @@
 <LM>w#w-lnd92256-017-p2s5w3</LM>
 </w.rf>
 <form>stojí</form>
-<tag lemma="stát-3_^(někdo/něco_stojí,_např._na_nohou)" src="orig" selected="1">VB-P---3P-AA---</tag>
+<tag>
+<AM lemma="stát-3_^(někdo/něco_stojí,_např._na_nohou)" src="orig">VB-P---3P-AA---</AM>
+<AM lemma="stát-3_:T_^(někdo/něco_stojí,_např._na_nohou)" src="manual" selected="1">VB-S---3P-AA---</AM>
+</tag>
 </m>
 <m id="m-lnd92256-017-p2s5w4">
 <src.rf>manual</src.rf>
@@ -673,7 +682,10 @@
 <LM>w#w-lnd92256-017-p2s5w9</LM>
 </w.rf>
 <form>zaslala</form>
-<tag lemma="zaslat" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag>
+<AM lemma="zaslat" src="orig">VpQW---XR-AA---</AM>
+<AM lemma="zaslat_:W" src="manual" selected="1">VpQW---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-lnd92256-017-p2s5w10">
 <src.rf>manual</src.rf>

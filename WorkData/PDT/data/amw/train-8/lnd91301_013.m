@@ -209,7 +209,10 @@
 <LM>w#w-lnd91301-013-p4s2w7</LM>
 </w.rf>
 <form>Hakím</form>
-<tag lemma="Hakím_;Y_,t" src="auto" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Hakím_;Y_,t" src="auto">NNMS1-----A----</AM>
+<AM lemma="Hakím_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd91301-013-p4s2w8">
 <src.rf>manual</src.rf>
@@ -257,7 +260,10 @@
 <LM>w#w-lnd91301-013-p4s2w13</LM>
 </w.rf>
 <form>Al</form>
-<tag lemma="Al-5_;m_,t_^(arab._člen,_i_ve_jm.)" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="Al-5_;m_,t_^(arab._člen,_i_ve_jm.)" src="orig">AAXXX----1A----</AM>
+<AM lemma="Al-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-lnd91301-013-p4s2w14">
 <src.rf>manual</src.rf>
@@ -273,7 +279,10 @@
 <LM>w#w-lnd91301-013-p4s2w15</LM>
 </w.rf>
 <form>Achbár</form>
-<tag lemma="Achbár_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Achbár_;S" src="orig">NNMS1-----A----</AM>
+<AM lemma="Achbár-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-lnd91301-013-p4s2w16">
 <src.rf>manual</src.rf>
@@ -363,7 +372,10 @@
 <LM>w#w-lnd91301-013-p4s3w1</LM>
 </w.rf>
 <form>Hakím</form>
-<tag lemma="Hakím_;Y_,t" src="auto" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Hakím_;Y_,t" src="auto">NNMS1-----A----</AM>
+<AM lemma="Hakím_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd91301-013-p4s3w2">
 <src.rf>manual</src.rf>
@@ -379,7 +391,10 @@
 <LM>w#w-lnd91301-013-p4s3w3</LM>
 </w.rf>
 <form>řekl</form>
-<tag lemma="říci" src="auto" selected="1">VpYS---XR-AA---</tag>
+<tag>
+<AM lemma="říci" src="auto">VpYS---XR-AA---</AM>
+<AM lemma="říci_:W" src="manual" selected="1">VpYS---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-lnd91301-013-p4s3w4">
 <src.rf>manual</src.rf>

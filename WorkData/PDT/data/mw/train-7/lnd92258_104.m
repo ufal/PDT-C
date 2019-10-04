@@ -265,7 +265,10 @@
 <LM>w#w-lnd92258-104-p3s2w3</LM>
 </w.rf>
 <form>li</form>
-<tag lemma="li-1" src="auto" selected="1">TT-------------</tag>
+<tag>
+<AM lemma="li-1" src="auto">TT-------------</AM>
+<AM lemma="li-2" src="manual" selected="1">J,-------------</AM>
+</tag>
 </m>
 <m id="m-lnd92258-104-p3s2w4">
 <src.rf>manual</src.rf>
@@ -449,7 +452,10 @@
 <LM>w#w-lnd92258-104-p3s2w26</LM>
 </w.rf>
 <form>VZP</form>
-<tag lemma="VZP-1_:B_;K_;U_^(Všeobecná_zdravotní_pojišťovna)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="VZP-1_:B_;K_;U_^(Všeobecná_zdravotní_pojišťovna)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="VZP-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd92258-104-p3s2w27">
 <src.rf>manual</src.rf>
@@ -579,7 +585,10 @@
 <LM>w#w-lnd92258-104-p3s3w9</LM>
 </w.rf>
 <form>VZP</form>
-<tag lemma="VZP-1_:B_;K_;U_^(Všeobecná_zdravotní_pojišťovna)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="VZP-1_:B_;K_;U_^(Všeobecná_zdravotní_pojišťovna)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="VZP-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd92258-104-p3s3w10">
 <src.rf>manual</src.rf>
@@ -700,7 +709,10 @@
 <LM>w#w-lnd92258-104-p3s3w24</LM>
 </w.rf>
 <form>VZP</form>
-<tag lemma="VZP-1_:B_;K_;U_^(Všeobecná_zdravotní_pojišťovna)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="VZP-1_:B_;K_;U_^(Všeobecná_zdravotní_pojišťovna)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="VZP-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd92258-104-p3s3w25">
 <src.rf>manual</src.rf>
@@ -871,7 +883,10 @@
 <LM>w#w-lnd92258-104-p3s4w19</LM>
 </w.rf>
 <form>VZP</form>
-<tag lemma="VZP-1_:B_;K_;U_^(Všeobecná_zdravotní_pojišťovna)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="VZP-1_:B_;K_;U_^(Všeobecná_zdravotní_pojišťovna)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="VZP-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd92258-104-p3s4w20">
 <src.rf>manual</src.rf>
@@ -952,7 +967,10 @@
 <LM>w#w-lnd92258-104-p3s4w29</LM>
 </w.rf>
 <form>VZP</form>
-<tag lemma="VZP-1_:B_;K_;U_^(Všeobecná_zdravotní_pojišťovna)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="VZP-1_:B_;K_;U_^(Všeobecná_zdravotní_pojišťovna)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="VZP-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd92258-104-p3s4w30">
 <src.rf>manual</src.rf>
@@ -1107,7 +1125,10 @@
 <LM>w#w-lnd92258-104-p3s5w17</LM>
 </w.rf>
 <form>VZP</form>
-<tag lemma="VZP-1_:B_;K_;U_^(Všeobecná_zdravotní_pojišťovna)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="VZP-1_:B_;K_;U_^(Všeobecná_zdravotní_pojišťovna)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="VZP-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd92258-104-p3s5w18">
 <src.rf>manual</src.rf>
@@ -1253,7 +1274,10 @@
 <LM>w#w-lnd92258-104-p3s5w35</LM>
 </w.rf>
 <form>VZP</form>
-<tag lemma="VZP-1_:B_;K_;U_^(Všeobecná_zdravotní_pojišťovna)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="VZP-1_:B_;K_;U_^(Všeobecná_zdravotní_pojišťovna)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="VZP-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd92258-104-p3s5w36">
 <src.rf>manual</src.rf>
@@ -1431,7 +1455,10 @@
 <LM>w#w-lnd92258-104-p3s5w57</LM>
 </w.rf>
 <form>VZP</form>
-<tag lemma="VZP-1_:B_;K_;U_^(Všeobecná_zdravotní_pojišťovna)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="VZP-1_:B_;K_;U_^(Všeobecná_zdravotní_pojišťovna)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="VZP-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd92258-104-p3s5w58">
 <src.rf>manual</src.rf>
@@ -1544,7 +1571,10 @@
 <LM>w#w-lnd92258-104-p3s5w71</LM>
 </w.rf>
 <form>VZP</form>
-<tag lemma="VZP-1_:B_;K_;U_^(Všeobecná_zdravotní_pojišťovna)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="VZP-1_:B_;K_;U_^(Všeobecná_zdravotní_pojišťovna)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="VZP-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd92258-104-p3s5w72">
 <src.rf>manual</src.rf>
@@ -1600,7 +1630,10 @@
 <LM>w#w-lnd92258-104-p3s5w78</LM>
 </w.rf>
 <form>VZP</form>
-<tag lemma="VZP-1_:B_;K_;U_^(Všeobecná_zdravotní_pojišťovna)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="VZP-1_:B_;K_;U_^(Všeobecná_zdravotní_pojišťovna)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="VZP-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd92258-104-p3s5w79">
 <src.rf>manual</src.rf>
@@ -1755,7 +1788,10 @@
 <LM>w#w-lnd92258-104-p3s6w14</LM>
 </w.rf>
 <form>VZP</form>
-<tag lemma="VZP-1_:B_;K_;U_^(Všeobecná_zdravotní_pojišťovna)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="VZP-1_:B_;K_;U_^(Všeobecná_zdravotní_pojišťovna)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="VZP-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd92258-104-p3s6w15">
 <src.rf>manual</src.rf>
@@ -1852,7 +1888,10 @@
 <LM>w#w-lnd92258-104-p3s6w26</LM>
 </w.rf>
 <form>VZP</form>
-<tag lemma="VZP-1_:B_;K_;U_^(Všeobecná_zdravotní_pojišťovna)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="VZP-1_:B_;K_;U_^(Všeobecná_zdravotní_pojišťovna)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="VZP-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd92258-104-p3s6w27">
 <src.rf>manual</src.rf>
@@ -1949,7 +1988,10 @@
 <LM>w#w-lnd92258-104-p3s6w38</LM>
 </w.rf>
 <form>VZP</form>
-<tag lemma="VZP-1_:B_;K_;U_^(Všeobecná_zdravotní_pojišťovna)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="VZP-1_:B_;K_;U_^(Všeobecná_zdravotní_pojišťovna)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="VZP-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd92258-104-p3s6w39">
 <src.rf>manual</src.rf>
@@ -2232,7 +2274,10 @@
 <LM>w#w-lnd92258-104-p3s7w30</LM>
 </w.rf>
 <form>VZP</form>
-<tag lemma="VZP-1_:B_;K_;U_^(Všeobecná_zdravotní_pojišťovna)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="VZP-1_:B_;K_;U_^(Všeobecná_zdravotní_pojišťovna)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="VZP-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd92258-104-p3s7w31">
 <src.rf>manual</src.rf>
@@ -2321,7 +2366,10 @@
 <LM>w#w-lnd92258-104-p3s7w41</LM>
 </w.rf>
 <form>VZP</form>
-<tag lemma="VZP-1_:B_;K_;U_^(Všeobecná_zdravotní_pojišťovna)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="VZP-1_:B_;K_;U_^(Všeobecná_zdravotní_pojišťovna)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="VZP-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd92258-104-p3s7w42">
 <src.rf>manual</src.rf>
@@ -2449,7 +2497,10 @@
 <LM>w#w-lnd92258-104-p3s7w57</LM>
 </w.rf>
 <form>VZP</form>
-<tag lemma="VZP-1_:B_;K_;U_^(Všeobecná_zdravotní_pojišťovna)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="VZP-1_:B_;K_;U_^(Všeobecná_zdravotní_pojišťovna)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="VZP-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd92258-104-p3s7w58">
 <src.rf>manual</src.rf>
@@ -2563,7 +2614,10 @@
 <LM>w#w-lnd92258-104-p3s8w12</LM>
 </w.rf>
 <form>EAC</form>
-<tag lemma="EAC_:B" src="orig" selected="1">AAXXX----1A---8</tag>
+<tag>
+<AM lemma="EAC_:B" src="orig">AAXXX----1A---8</AM>
+<AM lemma="EAC-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd92258-104-p3s8w13">
 <src.rf>manual</src.rf>
@@ -2611,7 +2665,10 @@
 <LM>w#w-lnd92258-104-p3s8w18</LM>
 </w.rf>
 <form>VZP</form>
-<tag lemma="VZP-1_:B_;K_;U_^(Všeobecná_zdravotní_pojišťovna)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="VZP-1_:B_;K_;U_^(Všeobecná_zdravotní_pojišťovna)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="VZP-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd92258-104-p3s8w19">
 <src.rf>manual</src.rf>
@@ -2741,7 +2798,10 @@
 <LM>w#w-lnd92258-104-p3s8w34</LM>
 </w.rf>
 <form>VZP</form>
-<tag lemma="VZP-1_:B_;K_;U_^(Všeobecná_zdravotní_pojišťovna)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="VZP-1_:B_;K_;U_^(Všeobecná_zdravotní_pojišťovna)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="VZP-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd92258-104-p3s8w35">
 <src.rf>manual</src.rf>
@@ -2757,7 +2817,10 @@
 <LM>w#w-lnd92258-104-p3s8w36</LM>
 </w.rf>
 <form>jen</form>
-<tag lemma="jen-1" src="auto" selected="1">TT-------------</tag>
+<tag>
+<AM lemma="jen-1" src="auto">TT-------------</AM>
+<AM lemma="jen-4_^(pouze)" src="manual" selected="1">Db-------------</AM>
+</tag>
 </m>
 <m id="m-lnd92258-104-p3s8w37">
 <src.rf>manual</src.rf>
@@ -2912,7 +2975,10 @@
 <LM>w#w-lnd92258-104-p3s9w15</LM>
 </w.rf>
 <form>VZP</form>
-<tag lemma="VZP-1_:B_;K_;U_^(Všeobecná_zdravotní_pojišťovna)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="VZP-1_:B_;K_;U_^(Všeobecná_zdravotní_pojišťovna)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="VZP-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd92258-104-p3s9w16">
 <src.rf>manual</src.rf>
@@ -3090,7 +3156,10 @@
 <LM>w#w-lnd92258-104-p3s9w37</LM>
 </w.rf>
 <form>VZP</form>
-<tag lemma="VZP-1_:B_;K_;U_^(Všeobecná_zdravotní_pojišťovna)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="VZP-1_:B_;K_;U_^(Všeobecná_zdravotní_pojišťovna)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="VZP-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd92258-104-p3s9w38">
 <src.rf>manual</src.rf>
@@ -3421,7 +3490,10 @@
 <LM>w#w-lnd92258-104-p3s10w31</LM>
 </w.rf>
 <form>VZP</form>
-<tag lemma="VZP-1_:B_;K_;U_^(Všeobecná_zdravotní_pojišťovna)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="VZP-1_:B_;K_;U_^(Všeobecná_zdravotní_pojišťovna)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="VZP-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd92258-104-p3s10w32">
 <src.rf>manual</src.rf>
@@ -3550,7 +3622,10 @@
 <LM>w#w-lnd92258-104-p3s10w47</LM>
 </w.rf>
 <form>VZP</form>
-<tag lemma="VZP-1_:B_;K_;U_^(Všeobecná_zdravotní_pojišťovna)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="VZP-1_:B_;K_;U_^(Všeobecná_zdravotní_pojišťovna)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="VZP-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd92258-104-p3s10w48">
 <src.rf>manual</src.rf>
@@ -3616,7 +3691,10 @@
 <LM>w#w-lnd92258-104-p3s11w3</LM>
 </w.rf>
 <form>li</form>
-<tag lemma="li-1" src="auto" selected="1">TT-------------</tag>
+<tag>
+<AM lemma="li-1" src="auto">TT-------------</AM>
+<AM lemma="li-2" src="manual" selected="1">J,-------------</AM>
+</tag>
 </m>
 <m id="m-lnd92258-104-p3s11w4">
 <src.rf>manual</src.rf>
@@ -3898,7 +3976,10 @@
 <LM>w#w-lnd92258-104-p3s11w38</LM>
 </w.rf>
 <form>VZP</form>
-<tag lemma="VZP-1_:B_;K_;U_^(Všeobecná_zdravotní_pojišťovna)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="VZP-1_:B_;K_;U_^(Všeobecná_zdravotní_pojišťovna)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="VZP-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd92258-104-p3s11w39">
 <src.rf>manual</src.rf>
@@ -4085,7 +4166,10 @@
 <LM>w#w-lnd92258-104-p3s12w22</LM>
 </w.rf>
 <form>VZP</form>
-<tag lemma="VZP-1_:B_;K_;U_^(Všeobecná_zdravotní_pojišťovna)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="VZP-1_:B_;K_;U_^(Všeobecná_zdravotní_pojišťovna)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="VZP-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd92258-104-p3s12w23">
 <src.rf>manual</src.rf>
@@ -4427,7 +4511,10 @@
 <LM>w#w-lnd92258-104-p4s3w3</LM>
 </w.rf>
 <form>li</form>
-<tag lemma="li-1" src="auto" selected="1">TT-------------</tag>
+<tag>
+<AM lemma="li-1" src="auto">TT-------------</AM>
+<AM lemma="li-2" src="manual" selected="1">J,-------------</AM>
+</tag>
 </m>
 <m id="m-lnd92258-104-p4s3w4">
 <src.rf>manual</src.rf>
@@ -4711,7 +4798,7 @@
 </w.rf>
 <form>bal</form>
 <tag>
-<AM lemma="balení_:B" src="orig">NNNXX-----A---8</AM>
+<AM lemma="balení_:B" src="orig" selected="1">NNNXX-----A---8</AM>
 <AM lemma="bal" src="auto">NNIS1-----A----</AM>
 <AM lemma="bal" src="auto" recommended="1">NNIS4-----A----</AM>
 <AM lemma="balit_:T" src="auto">Vi-S---2--A----</AM>
@@ -4790,7 +4877,7 @@
 </w.rf>
 <form>bal</form>
 <tag>
-<AM lemma="balení_:B" src="orig">NNNXX-----A---8</AM>
+<AM lemma="balení_:B" src="orig" selected="1">NNNXX-----A---8</AM>
 <AM lemma="bal" src="auto">NNIS1-----A----</AM>
 <AM lemma="bal" src="auto" recommended="1">NNIS4-----A----</AM>
 <AM lemma="balit_:T" src="auto">Vi-S---2--A----</AM>
@@ -4869,7 +4956,7 @@
 </w.rf>
 <form>bal</form>
 <tag>
-<AM lemma="balení_:B" src="orig">NNNXX-----A---8</AM>
+<AM lemma="balení_:B" src="orig" selected="1">NNNXX-----A---8</AM>
 <AM lemma="bal" src="auto">NNIS1-----A----</AM>
 <AM lemma="bal" src="auto" recommended="1">NNIS4-----A----</AM>
 <AM lemma="balit_:T" src="auto">Vi-S---2--A----</AM>
@@ -4956,7 +5043,7 @@
 </w.rf>
 <form>bal</form>
 <tag>
-<AM lemma="balení_:B" src="orig">NNNXX-----A---8</AM>
+<AM lemma="balení_:B" src="orig" selected="1">NNNXX-----A---8</AM>
 <AM lemma="bal" src="auto">NNIS1-----A----</AM>
 <AM lemma="bal" src="auto" recommended="1">NNIS4-----A----</AM>
 <AM lemma="balit_:T" src="auto">Vi-S---2--A----</AM>
@@ -5035,7 +5122,7 @@
 </w.rf>
 <form>bal</form>
 <tag>
-<AM lemma="balení_:B" src="orig">NNNXX-----A---8</AM>
+<AM lemma="balení_:B" src="orig" selected="1">NNNXX-----A---8</AM>
 <AM lemma="bal" src="auto">NNIS1-----A----</AM>
 <AM lemma="bal" src="auto" recommended="1">NNIS4-----A----</AM>
 <AM lemma="balit_:T" src="auto">Vi-S---2--A----</AM>
@@ -5114,7 +5201,7 @@
 </w.rf>
 <form>bal</form>
 <tag>
-<AM lemma="balení_:B" src="orig">NNNXX-----A---8</AM>
+<AM lemma="balení_:B" src="orig" selected="1">NNNXX-----A---8</AM>
 <AM lemma="bal" src="auto">NNIS1-----A----</AM>
 <AM lemma="bal" src="auto" recommended="1">NNIS4-----A----</AM>
 <AM lemma="balit_:T" src="auto">Vi-S---2--A----</AM>
@@ -5171,6 +5258,7 @@
 <tag>
 <AM lemma="Diane_;R" src="orig">NNFS1-----A----</AM>
 <AM lemma="Diane_;Y" src="auto" recommended="1">NNFXX-----A----</AM>
+<AM lemma="Diane_;Y_;R" src="manual" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92258-104-p4s4w72">
@@ -5204,7 +5292,7 @@
 </w.rf>
 <form>bal</form>
 <tag>
-<AM lemma="balení_:B" src="orig">NNNXX-----A---8</AM>
+<AM lemma="balení_:B" src="orig" selected="1">NNNXX-----A---8</AM>
 <AM lemma="bal" src="auto">NNIS1-----A----</AM>
 <AM lemma="bal" src="auto" recommended="1">NNIS4-----A----</AM>
 <AM lemma="balit_:T" src="auto">Vi-S---2--A----</AM>

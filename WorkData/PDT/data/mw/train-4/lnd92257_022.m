@@ -231,7 +231,10 @@
 <LM>w#w-lnd92257-022-p2s1w4</LM>
 </w.rf>
 <form>dr</form>
-<tag lemma="doktor_:B_^(doktor,_akad._titul)" src="orig" selected="1">NNMXX-----A---8</tag>
+<tag>
+<AM lemma="doktor_:B_^(doktor,_akad._titul)" src="orig">NNMXX-----A---8</AM>
+<AM lemma="dr_:B_^(doktor)" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd92257-022-p2s1w5">
 <src.rf>manual</src.rf>
@@ -429,7 +432,7 @@
 <form>Ačkoli</form>
 <tag>
 <AM lemma="ačkoliv" src="orig">J,------------1</AM>
-<AM lemma="ačkoli" src="auto" recommended="1">J,-------------</AM>
+<AM lemma="ačkoli" src="auto" recommended="1" selected="1">J,-------------</AM>
 </tag>
 </m>
 <m id="m-lnd92257-022-p2s3w2">
@@ -716,7 +719,7 @@
 <AM lemma="Borovský_;S" src="orig">AAMS2----1A----</AM>
 <AM lemma="Borovski_;S" src="auto">NNMS2-----A----</AM>
 <AM lemma="Borovski_;S" src="auto">NNMS4-----A----</AM>
-<AM lemma="Borovský_;S" src="auto">NNMS2-----A----</AM>
+<AM lemma="Borovský_;S" src="auto" selected="1">NNMS2-----A----</AM>
 <AM lemma="Borovský_;S" src="auto">NNMS4-----A----</AM>
 <AM lemma="borovský" src="auto">AAIS2----1A----</AM>
 <AM lemma="borovský" src="auto" recommended="1">AAMS2----1A----</AM>
@@ -912,7 +915,7 @@
 <form>Ačkoli</form>
 <tag>
 <AM lemma="ačkoliv" src="orig">J,------------1</AM>
-<AM lemma="ačkoli" src="auto" recommended="1">J,-------------</AM>
+<AM lemma="ačkoli" src="auto" recommended="1" selected="1">J,-------------</AM>
 </tag>
 </m>
 <m id="m-lnd92257-022-p4s1w3">
@@ -1049,7 +1052,10 @@
 <LM>w#w-lnd92257-022-p4s1w19</LM>
 </w.rf>
 <form>jen</form>
-<tag lemma="jen-1" src="auto" selected="1">TT-------------</tag>
+<tag>
+<AM lemma="jen-1" src="auto">TT-------------</AM>
+<AM lemma="jen-4_^(pouze)" src="manual" selected="1">Db-------------</AM>
+</tag>
 </m>
 <m id="m-lnd92257-022-p4s1w20">
 <src.rf>manual</src.rf>
@@ -1670,7 +1676,7 @@
 <form>Ačkoli</form>
 <tag>
 <AM lemma="ačkoliv" src="orig">J,------------1</AM>
-<AM lemma="ačkoli" src="auto" recommended="1">J,-------------</AM>
+<AM lemma="ačkoli" src="auto" recommended="1" selected="1">J,-------------</AM>
 </tag>
 </m>
 <m id="m-lnd92257-022-p6s2w2">
@@ -1687,7 +1693,10 @@
 <LM>w#w-lnd92257-022-p6s2w3</LM>
 </w.rf>
 <form>SaKO</form>
-<tag lemma="sako" src="orig" selected="1">NNNS1-----A----</tag>
+<tag>
+<AM lemma="sako" src="orig">NNNS1-----A----</AM>
+<AM lemma="SaKO-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd92257-022-p6s2w4">
 <src.rf>manual</src.rf>

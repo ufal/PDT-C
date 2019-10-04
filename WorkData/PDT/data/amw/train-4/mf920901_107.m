@@ -91,6 +91,7 @@
 <AM lemma="nacionalismus" src="orig">NNIS1-----A----</AM>
 <AM lemma="nacionalizmus" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="nacionalizmus" src="auto">NNIS4-----A----</AM>
+<AM lemma="nacionalismus_,s_^(^DD**nacionalizmus)" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920901-107-p2s2w3">
@@ -111,6 +112,7 @@
 <AM lemma="separatismus" src="orig">NNIS1-----A----</AM>
 <AM lemma="separatizmus" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="separatizmus" src="auto">NNIS4-----A----</AM>
+<AM lemma="separatismus_,s_^(^DD**separatizmus)" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920901-107-p2s2w5">
@@ -659,7 +661,10 @@
 <LM>w#w-mf920901-107-p2s4w21</LM>
 </w.rf>
 <form>Le</form>
-<tag lemma="Le-1_,t_^(franc._člen_jako_souč._jmen_a_názvů)" src="orig" selected="1">AAISX----1A----</tag>
+<tag>
+<AM lemma="Le-1_,t_^(franc._člen_jako_souč._jmen_a_názvů)" src="orig">AAISX----1A----</AM>
+<AM lemma="Le-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-mf920901-107-p2s4w22">
 <src.rf>manual</src.rf>
@@ -670,6 +675,7 @@
 <tag>
 <AM lemma="Soir_;R_,t" src="orig">NNIXX-----A----</AM>
 <AM lemma="Soira_;G" src="auto" recommended="1">NNFP2-----A----</AM>
+<AM lemma="Soir-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-mf920901-107-p2s4w23">

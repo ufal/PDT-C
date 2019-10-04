@@ -123,7 +123,10 @@
 <LM>w#w-lnd92257-030-p1s1w14</LM>
 </w.rf>
 <form>LN</form>
-<tag lemma="LN-1_:B_;R_^(Lidové_noviny,_deník)" src="orig" selected="1">NNFPX-----A---8</tag>
+<tag>
+<AM lemma="LN-1_:B_;R_^(Lidové_noviny,_deník)" src="orig">NNFPX-----A---8</AM>
+<AM lemma="LN-1_:B_;K_;R_^(Lidové_noviny)" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd92257-030-p1s1w15">
 <src.rf>manual</src.rf>
@@ -285,7 +288,10 @@
 <LM>w#w-lnd92257-030-p1s2w14</LM>
 </w.rf>
 <form>s</form>
-<tag lemma="společnost_:B" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="společnost_:B" src="orig">NNFXX-----A---8</AM>
+<AM lemma="společnost" src="manual" selected="1">NNFXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd92257-030-p1s2w15">
 <src.rf>manual</src.rf>
@@ -301,7 +307,10 @@
 <LM>w#w-lnd92257-030-p1s2w16</LM>
 </w.rf>
 <form>r</form>
-<tag lemma="ručení_:B" src="orig" selected="1">NNNS7-----A---8</tag>
+<tag>
+<AM lemma="ručení_:B" src="orig">NNNS7-----A---8</AM>
+<AM lemma="ručení" src="manual" selected="1">NNNS7-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd92257-030-p1s2w17">
 <src.rf>manual</src.rf>
@@ -317,7 +326,10 @@
 <LM>w#w-lnd92257-030-p1s2w18</LM>
 </w.rf>
 <form>o</form>
-<tag lemma="omezený_:B" src="orig" selected="1">AANS7----1A---8</tag>
+<tag>
+<AM lemma="omezený_:B" src="orig">AANS7----1A---8</AM>
+<AM lemma="omezený" src="manual" selected="1">AANS7----1A---8</AM>
+</tag>
 </m>
 <m id="m-lnd92257-030-p1s2w19">
 <src.rf>manual</src.rf>
@@ -343,7 +355,7 @@
 <form>nikoliv</form>
 <tag>
 <AM lemma="nikoliv" src="orig">Db-------------</AM>
-<AM lemma="nikoli" src="auto" recommended="1">TT------------1</AM>
+<AM lemma="nikoli" src="auto" recommended="1" selected="1">TT------------1</AM>
 </tag>
 </m>
 <m id="m-lnd92257-030-p1s2w22">
@@ -424,7 +436,10 @@
 <LM>w#w-lnd92257-030-p1s2w31</LM>
 </w.rf>
 <form>Rudé</form>
-<tag lemma="rudý" src="orig" selected="1">AANS1----1A----</tag>
+<tag>
+<AM lemma="rudý" src="orig">AANS1----1A----</AM>
+<AM lemma="rudý_;o" src="manual" selected="1">AANS1----1A----</AM>
+</tag>
 </m>
 <m id="m-lnd92257-030-p1s2w32">
 <src.rf>manual</src.rf>

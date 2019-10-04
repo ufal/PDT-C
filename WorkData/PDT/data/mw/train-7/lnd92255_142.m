@@ -719,7 +719,10 @@
 <LM>w#w-lnd92255-142-p4s3w20</LM>
 </w.rf>
 <form>ES</form>
-<tag lemma="ES_:B_;K_^(Evropská_společenství)" src="orig" selected="1">NNNXX-----A---8</tag>
+<tag>
+<AM lemma="ES_:B_;K_^(Evropská_společenství)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="ES-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd92255-142-p4s3w21">
 <src.rf>manual</src.rf>
@@ -1330,7 +1333,7 @@
 </w.rf>
 <form>Colombo</form>
 <tag>
-<AM lemma="Colombo-2_;S" src="orig">NNMS1-----A----</AM>
+<AM lemma="Colombo-2_;S" src="orig" selected="1">NNMS1-----A----</AM>
 <AM lemma="Colomba-1_;Y" src="auto">NNFS5-----A----</AM>
 <AM lemma="Colombo_;G" src="auto" recommended="1">NNNS1-----A----</AM>
 <AM lemma="Colombo_;G" src="auto">NNNS4-----A----</AM>

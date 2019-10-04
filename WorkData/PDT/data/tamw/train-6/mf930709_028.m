@@ -19,7 +19,10 @@
 <LM>w#w-mf930709-028-p1s1w1</LM>
 </w.rf>
 <form>kursovní</form>
-<tag lemma="kursovní" src="orig" selected="1">AAIS1----1A----</tag>
+<tag>
+<AM lemma="kursovní" src="orig">AAIS1----1A----</AM>
+<AM lemma="kursovní_,s_^(^DD**kurzovní)" src="manual" selected="1">AAIS1----1A----</AM>
+</tag>
 </m>
 <m id="m-mf930709-028-p1s1w2">
 <src.rf>manual</src.rf>
@@ -177,7 +180,10 @@
 <LM>w#w-mf930709-028-p20s1w1</LM>
 </w.rf>
 <form>ČR</form>
-<tag lemma="ČR-1_:B_;G_^(Česká_republika)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930709-028-p20s1w2">
 <src.rf>manual</src.rf>
@@ -185,7 +191,10 @@
 <LM>w#w-mf930709-028-p20s1w2</LM>
 </w.rf>
 <form>XCU</form>
-<tag lemma="XCU_:B" src="orig" selected="1">NNNXX-----A---8</tag>
+<tag>
+<AM lemma="XCU_:B" src="orig">NNNXX-----A---8</AM>
+<AM lemma="XCU-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-mf930709-028-p20s1w3">
 <src.rf>manual</src.rf>
@@ -218,7 +227,10 @@
 <LM>w#w-mf930709-028-p20s1w6</LM>
 </w.rf>
 <form>Sk</form>
-<tag lemma="Sk_:B_;K" src="auto" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="Sk_:B_;K" src="auto">NNFXX-----A---8</AM>
+<AM lemma="Sk-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-mf930709-028-p20s1w7">
 <src.rf>manual</src.rf>
@@ -246,6 +258,7 @@
 <AM lemma="kursovní_:B" src="orig">AAXXX----1A---8</AM>
 <AM lemma="kurs" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="kurs" src="auto">NNIS4-----A----</AM>
+<AM lemma="kursovní_,s_^(^DD**kurzovní)" src="manual" selected="1">AAXXX----1A---8</AM>
 </tag>
 </m>
 <m id="m-mf930709-028-p20s1w10">
@@ -270,7 +283,10 @@
 <LM>w#w-mf930709-028-p20s1w12</LM>
 </w.rf>
 <form>NBS</form>
-<tag lemma="NBS_:B_;K_^(Národní_banka_Slovenska)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="NBS_:B_;K_^(Národní_banka_Slovenska)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="NBS-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-mf930709-028-p20s1w13">
 <src.rf>manual</src.rf>

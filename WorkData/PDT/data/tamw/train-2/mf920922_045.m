@@ -80,6 +80,7 @@
 <tag>
 <AM lemma="sob-99_:B_;S" src="orig">NNXXX-----A---8</AM>
 <AM lemma="sob" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="sob-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920922-045-p2s1w4">
@@ -162,7 +163,10 @@
 <LM>w#w-mf920922-045-p2s2w8</LM>
 </w.rf>
 <form>DP</form>
-<tag lemma="DP-1_:B_;K_;b_;y_^(dopr._podnik)" src="auto" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="DP-1_:B_;K_;b_;y_^(dopr._podnik)" src="auto">NNIXX-----A---8</AM>
+<AM lemma="DP-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920922-045-p2s2w9">
 <src.rf>manual</src.rf>
@@ -308,7 +312,10 @@
 <LM>w#w-mf920922-045-p2s3w6</LM>
 </w.rf>
 <form>DP</form>
-<tag lemma="DP-1_:B_;K_;b_;y_^(dopr._podnik)" src="auto" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="DP-1_:B_;K_;b_;y_^(dopr._podnik)" src="auto">NNIXX-----A---8</AM>
+<AM lemma="DP-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920922-045-p2s3w7">
 <src.rf>manual</src.rf>

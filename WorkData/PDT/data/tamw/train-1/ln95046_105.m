@@ -111,7 +111,10 @@
 <LM>w#w-ln95046-105-p2s1Bw5</LM>
 </w.rf>
 <form>Thinking</form>
-<tag lemma="thinking_,t" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="thinking_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="Thinking-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln95046-105-p2s1Bw6">
 <src.rf>manual</src.rf>
@@ -124,6 +127,8 @@
 <AM lemma="Dao_;Y" src="auto">NNMP4-----A----</AM>
 <AM lemma="Dao_;Y" src="auto">NNMP7-----A----</AM>
 <AM lemma="Day_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="day_,t" src="manual">NNXXX-----A----</AM>
+<AM lemma="Day-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-ln95046-105-p2s1Bw7">
@@ -259,6 +264,7 @@
 <AM lemma="Baden_;S" src="auto">NNMS1-----A----</AM>
 <AM lemma="baden_;L_^(geologické_období)" src="auto">NNIS1-----A----</AM>
 <AM lemma="baden_;L_^(geologické_období)" src="auto">NNIS4-----A----</AM>
+<AM lemma="Baden_;S" src="manual" selected="1">A2--------A----</AM>
 </tag>
 </m>
 <m id="m-ln95046-105-p2s1Bw23">
@@ -421,7 +427,10 @@
 <LM>w#w-ln95046-105-p2s2w17</LM>
 </w.rf>
 <form>Klamovku</form>
-<tag lemma="Klamovka_;R_;g_^(jméno_huti)" src="auto" selected="1">NNFS4-----A----</tag>
+<tag>
+<AM lemma="Klamovka_;R_;g_^(jméno_huti)" src="auto">NNFS4-----A----</AM>
+<AM lemma="Klamovka_;G_;K" src="manual" selected="1">NNFS4-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95046-105-p2s2w18">
 <src.rf>manual</src.rf>

@@ -53,7 +53,10 @@
 <LM>w#w-mf920901-030-p2s1w1</LM>
 </w.rf>
 <form>J</form>
-<tag lemma="J-0_:B_;Y" src="orig" selected="1">NNMXX-----A---8</tag>
+<tag>
+<AM lemma="J-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
+<AM lemma="J-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-mf920901-030-p2s1w2">
 <src.rf>manual</src.rf>
@@ -69,7 +72,10 @@
 <LM>w#w-mf920901-030-p2s1w3</LM>
 </w.rf>
 <form>A</form>
-<tag lemma="A-0_:B_;Y" src="orig" selected="1">NNMXX-----A---8</tag>
+<tag>
+<AM lemma="A-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
+<AM lemma="A-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-mf920901-030-p2s1w4">
 <src.rf>manual</src.rf>
@@ -183,7 +189,7 @@
 <form>rodačkou</form>
 <tag>
 <AM lemma="rodák" src="orig">NNFS7-----A----</AM>
-<AM lemma="rodačka" src="auto" recommended="1">NNFS7-----A----</AM>
+<AM lemma="rodačka" src="auto" recommended="1" selected="1">NNFS7-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920901-030-p2s1w18">
@@ -192,7 +198,10 @@
 <LM>w#w-mf920901-030-p2s1w18</LM>
 </w.rf>
 <form>Dorotou</form>
-<tag lemma="dorota" src="orig" selected="1">NNFS7-----A----</tag>
+<tag>
+<AM lemma="dorota" src="orig">NNFS7-----A----</AM>
+<AM lemma="Dorota_;Y" src="manual" selected="1">NNFS7-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920901-030-p2s1w19">
 <src.rf>manual</src.rf>
@@ -200,7 +209,10 @@
 <LM>w#w-mf920901-030-p2s1w19</LM>
 </w.rf>
 <form>Cyrilovou</form>
-<tag lemma="Cyrilův_;Y_^(*2)" src="orig" selected="1">AUFS7M---------</tag>
+<tag>
+<AM lemma="Cyrilův_;Y_^(*2)" src="orig">AUFS7M---------</AM>
+<AM lemma="Cyrilová_;S" src="manual" selected="1">NNFS7-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920901-030-p2s1w20">
 <src.rf>manual</src.rf>
@@ -227,7 +239,7 @@
 <tag>
 <AM lemma="tady" src="orig">Db------------1</AM>
 <AM lemma="ten" src="auto" recommended="1">PDFS4----------</AM>
-<AM lemma="tu" src="auto">Db-------------</AM>
+<AM lemma="tu" src="auto" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m-mf920901-030-p2s1w23">
@@ -696,7 +708,10 @@
 <LM>w#w-mf920901-030-p3s1Aw23</LM>
 </w.rf>
 <form>Jumping</form>
-<tag lemma="jumping_,h" src="orig" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="jumping_,h" src="orig">NNIS1-----A----</AM>
+<AM lemma="Jumping-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-mf920901-030-p3s1Aw24">
 <src.rf>manual</src.rf>
@@ -929,6 +944,7 @@
 <AM lemma="Luže_;G" src="auto">NNFP1-----A----</AM>
 <AM lemma="Luže_;G" src="auto">NNFP4-----A----</AM>
 <AM lemma="Luže_;G" src="auto" recommended="1">NNFP5-----A----</AM>
+<AM lemma="Luže_;G" src="manual" selected="1">NNFS2-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920901-030-p3s2w6">
@@ -1232,7 +1248,7 @@
 <AM lemma="Tálská_;S" src="auto">NNFP1-----A----</AM>
 <AM lemma="Tálská_;S" src="auto">NNFP4-----A----</AM>
 <AM lemma="Tálská_;S" src="auto">NNFP5-----A----</AM>
-<AM lemma="Tálská_;S" src="auto" recommended="1">NNFS2-----A----</AM>
+<AM lemma="Tálská_;S" src="auto" recommended="1" selected="1">NNFS2-----A----</AM>
 <AM lemma="Tálská_;S" src="auto">NNFS3-----A----</AM>
 <AM lemma="Tálská_;S" src="auto">NNFS6-----A----</AM>
 </tag>
@@ -1937,7 +1953,10 @@
 <LM>w#w-mf920901-030-p3s6w22</LM>
 </w.rf>
 <form>Lux</form>
-<tag lemma="lux" src="auto" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="lux" src="auto">NNIS1-----A----</AM>
+<AM lemma="Lux-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-mf920901-030-p3s6w23">
 <src.rf>manual</src.rf>
@@ -1945,7 +1964,10 @@
 <LM>w#w-mf920901-030-p3s6w23</LM>
 </w.rf>
 <form>lucet</form>
-<tag lemma="lucere_,t_^(svítit)" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag>
+<AM lemma="lucere_,t_^(svítit)" src="orig">VB-S---3P-AA---</AM>
+<AM lemma="lucet-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-mf920901-030-p3s6w24">
 <src.rf>manual</src.rf>
@@ -1953,7 +1975,10 @@
 <LM>w#w-mf920901-030-p3s6w24</LM>
 </w.rf>
 <form>in</form>
-<tag lemma="in-1_,t_^(angl._v)" src="auto" selected="1">RR--X----------</tag>
+<tag>
+<AM lemma="in-1_,t_^(angl._v)" src="auto">RR--X----------</AM>
+<AM lemma="in-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-mf920901-030-p3s6w25">
 <src.rf>manual</src.rf>
@@ -1961,7 +1986,10 @@
 <LM>w#w-mf920901-030-p3s6w25</LM>
 </w.rf>
 <form>tenebris</form>
-<tag lemma="tenebrae_,t_^(temnota)" src="orig" selected="1">NNFP6-----A----</tag>
+<tag>
+<AM lemma="tenebrae_,t_^(temnota)" src="orig">NNFP6-----A----</AM>
+<AM lemma="tenebris-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-mf920901-030-p3s6w26">
 <src.rf>manual</src.rf>

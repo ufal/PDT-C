@@ -157,7 +157,10 @@
 <LM>w#w-ln95044-042-p1s2w3</LM>
 </w.rf>
 <form>Jupp</form>
-<tag lemma="Jupp_;S" src="auto" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Jupp_;S" src="auto">NNMS1-----A----</AM>
+<AM lemma="Jupp_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95044-042-p1s2w4">
 <src.rf>manual</src.rf>
@@ -237,7 +240,10 @@
 <LM>w#w-ln95044-042-p1s2w13</LM>
 </w.rf>
 <form>jen</form>
-<tag lemma="jen-1" src="auto" selected="1">TT-------------</tag>
+<tag>
+<AM lemma="jen-1" src="auto">TT-------------</AM>
+<AM lemma="jen-4_^(pouze)" src="manual" selected="1">Db-------------</AM>
+</tag>
 </m>
 <m id="m-ln95044-042-p1s2w14">
 <src.rf>manual</src.rf>

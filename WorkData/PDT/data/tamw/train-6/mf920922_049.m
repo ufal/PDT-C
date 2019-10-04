@@ -181,7 +181,10 @@
 <LM>w#w-mf920922-049-p2s1w17</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-2" src="auto" selected="1">Dg-------2A----</tag>
+<tag>
+<AM lemma="hodně-2" src="auto">Dg-------2A----</AM>
+<AM lemma="více_^(více_+_2._p.,_více_peněz)" src="manual" selected="1">Ca--4----------</AM>
+</tag>
 </m>
 <m id="m-mf920922-049-p2s1w18">
 <src.rf>manual</src.rf>
@@ -679,7 +682,10 @@
 <LM>w#w-mf920922-049-p2s2w38</LM>
 </w.rf>
 <form>NÉPSZABADSÁG</form>
-<tag lemma="Népszabadság_;R_,t" src="orig" selected="1">NNXXX-----A----</tag>
+<tag>
+<AM lemma="Népszabadság_;R_,t" src="orig">NNXXX-----A----</AM>
+<AM lemma="NÉPSZABADSÁG-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-mf920922-049-p2s2w39">
 <src.rf>manual</src.rf>

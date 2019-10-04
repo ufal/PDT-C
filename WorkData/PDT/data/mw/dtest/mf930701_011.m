@@ -269,7 +269,10 @@
 <LM>w#w-mf930701-011-p2s1w22</LM>
 </w.rf>
 <form>L</form>
-<tag lemma="L-6_:B_;R" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="L-6_:B_;R" src="orig">NNXXX-----A---8</AM>
+<AM lemma="L-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-mf930701-011-p2s1w23">
 <src.rf>manual</src.rf>

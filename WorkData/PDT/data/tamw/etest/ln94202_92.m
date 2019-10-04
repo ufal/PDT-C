@@ -457,7 +457,10 @@
 <LM>w#w-ln94202-92-p3s2w2</LM>
 </w.rf>
 <form>ABC</form>
-<tag lemma="ABC-2_:B_;K_^(divadlo)" src="orig" selected="1">NNNXX-----A---8</tag>
+<tag>
+<AM lemma="ABC-2_:B_;K_^(divadlo)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="ABC-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln94202-92-p3s2w3">
 <src.rf>manual</src.rf>
@@ -773,7 +776,7 @@
 <form>Ká</form>
 <tag>
 <AM lemma="Ká_;K_^(divadlo)" src="orig">NNNXX-----A----</AM>
-<AM lemma="ká_^(název_hlásky_k)" src="auto" recommended="1">NNNXX-----A----</AM>
+<AM lemma="ká_^(název_hlásky_k)" src="auto" recommended="1" selected="1">NNNXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94202-92-p3s3w4">
@@ -990,7 +993,10 @@
 <LM>w#w-ln94202-92-p3s3w30</LM>
 </w.rf>
 <form>Doňa</form>
-<tag lemma="doňa" src="orig" selected="1">NNFS1-----A----</tag>
+<tag>
+<AM lemma="doňa" src="orig">NNFS1-----A----</AM>
+<AM lemma="Doňa_;Y" src="manual" selected="1">NNFS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94202-92-p3s3w31">
 <src.rf>manual</src.rf>
@@ -999,7 +1005,7 @@
 </w.rf>
 <form>Juana</form>
 <tag>
-<AM lemma="Juana_;Y" src="orig">NNFS1-----A----</AM>
+<AM lemma="Juana_;Y" src="orig" selected="1">NNFS1-----A----</AM>
 <AM lemma="Juano_;G" src="auto">NNNP1-----A----</AM>
 <AM lemma="Juano_;G" src="auto">NNNP4-----A----</AM>
 <AM lemma="Juano_;G" src="auto">NNNP5-----A----</AM>
@@ -1256,6 +1262,8 @@
 <AM lemma="Roxa_;G" src="auto">NNFS2-----A----</AM>
 <AM lemma="Roxy_;Y_,t" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Roxy_;Y_,t" src="auto">NNMS5-----A----</AM>
+<AM lemma="Roxy-2_;K" src="manual">NNMS1-----A----</AM>
+<AM lemma="Roxy-2_;K" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94202-92-p3s4w27">
@@ -1473,6 +1481,8 @@
 <AM lemma="e-1" src="auto">II-------------</AM>
 <AM lemma="e-3_^(označení_pomocí_písmene)" src="auto" recommended="1">NNNXX-----A----</AM>
 <AM lemma="e-8_:B_^(ost._zkratka)" src="auto">XX------------8</AM>
+<AM lemma="E-33_^(označení_pomocí_písmene)" src="manual">NNNXX-----A---8</AM>
+<AM lemma="E-33_^(označení_pomocí_písmene)" src="manual" selected="1">NNNXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94202-92-p3s5w24">
@@ -2218,7 +2228,7 @@
 </w.rf>
 <form>Mílová</form>
 <tag>
-<AM lemma="Mílová_;S" src="orig">NNFS1-----A----</AM>
+<AM lemma="Mílová_;S" src="orig" selected="1">NNFS1-----A----</AM>
 <AM lemma="mílový" src="auto" recommended="1">AAFS1----1A----</AM>
 <AM lemma="mílový" src="auto">AAFS5----1A----</AM>
 <AM lemma="mílový" src="auto">AANP1----1A----</AM>
@@ -2600,6 +2610,7 @@
 <AM lemma="Kolovrat_;S_,x" src="auto" recommended="1">NNMS6-----A---1</AM>
 <AM lemma="Kolowrat_;S" src="auto">NNMS3-----A---1</AM>
 <AM lemma="Kolowrat_;S" src="auto">NNMS6-----A---1</AM>
+<AM lemma="Kolowrat-2_;K_;R" src="manual" selected="1">NNIS6-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94202-92-p5s2w43">
@@ -3232,7 +3243,10 @@
 <LM>w#w-ln94202-92-p6s4w5</LM>
 </w.rf>
 <form>F</form>
-<tag lemma="F-0_:B_;Y" src="orig" selected="1">NNMXX-----A---8</tag>
+<tag>
+<AM lemma="F-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
+<AM lemma="F-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln94202-92-p6s4w6">
 <src.rf>manual</src.rf>
@@ -3248,7 +3262,10 @@
 <LM>w#w-ln94202-92-p6s4w7</LM>
 </w.rf>
 <form>X</form>
-<tag lemma="X-0_:B_;Y" src="orig" selected="1">NNMXX-----A---8</tag>
+<tag>
+<AM lemma="X-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
+<AM lemma="X-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln94202-92-p6s4w8">
 <src.rf>manual</src.rf>
@@ -3427,7 +3444,7 @@
 </w.rf>
 <form>Pivovar</form>
 <tag>
-<AM lemma="Pivovar_;S" src="orig">NNMS1-----A----</AM>
+<AM lemma="Pivovar_;S" src="orig" selected="1">NNMS1-----A----</AM>
 <AM lemma="pivovar" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="pivovar" src="auto">NNIS4-----A----</AM>
 </tag>
@@ -3576,7 +3593,7 @@
 <form>Spa</form>
 <tag>
 <AM lemma="Spa_;G" src="orig">NNXXX-----A----</AM>
-<AM lemma="Spa_;G_,t" src="auto" recommended="1">NNNXX-----A----</AM>
+<AM lemma="Spa_;G_,t" src="auto" recommended="1" selected="1">NNNXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94202-92-p6s5w23">

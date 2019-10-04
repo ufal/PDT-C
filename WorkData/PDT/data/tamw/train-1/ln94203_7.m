@@ -43,7 +43,10 @@
 <LM>w#w-ln94203-7-p1s1Aw4</LM>
 </w.rf>
 <form>Mc</form>
-<tag lemma="Mc_;S_,t" src="orig" selected="1">NNMXX-----A----</tag>
+<tag>
+<AM lemma="Mc_;S_,t" src="orig">NNMXX-----A----</AM>
+<AM lemma="Mc-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94203-7-p1s1Aw5">
 <src.rf>manual</src.rf>
@@ -99,7 +102,10 @@
 <LM>w#w-ln94203-7-p1s1Aw11</LM>
 </w.rf>
 <form>show</form>
-<tag lemma="show" src="orig" selected="1">NNFXX-----A----</tag>
+<tag>
+<AM lemma="show" src="orig">NNFXX-----A----</AM>
+<AM lemma="show-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94203-7-p1s1Aw12">
 <src.rf>manual</src.rf>
@@ -127,7 +133,10 @@
 <LM>w#w-ln94203-7-p1s1Bw2</LM>
 </w.rf>
 <form>Handelsblatt</form>
-<tag lemma="Handelsblatt_;R_^(časopis)" src="auto" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="Handelsblatt_;R_^(časopis)" src="auto">NNIS1-----A----</AM>
+<AM lemma="Handelsblatt-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 </s>
 </mdata>

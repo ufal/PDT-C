@@ -35,7 +35,10 @@
 <LM>w#w-mf930701-125-p1s1w3</LM>
 </w.rf>
 <form>dolary</form>
-<tag lemma="dolar_;b" src="orig" selected="1">NNIP4-----A----</tag>
+<tag>
+<AM lemma="dolar_;b" src="orig">NNIP4-----A----</AM>
+<AM lemma="dolar" src="manual" selected="1">NNIP4-----A----</AM>
+</tag>
 </m>
 </s>
 <s id="m-mf930701-125-p1s2">
@@ -45,7 +48,10 @@
 <LM>w#w-mf930701-125-p1s2w1</LM>
 </w.rf>
 <form>GRAND</form>
-<tag lemma="Grand-1_;K_,t_^(v_názvech)" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="Grand-1_;K_,t_^(v_názvech)" src="orig">AAXXX----1A----</AM>
+<AM lemma="GRAND-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-mf930701-125-p1s2w2">
 <src.rf>manual</src.rf>
@@ -53,7 +59,10 @@
 <LM>w#w-mf930701-125-p1s2w2</LM>
 </w.rf>
 <form>PRIX</form>
-<tag lemma="Prix-1_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Prix-1_;S" src="orig">NNMS1-----A----</AM>
+<AM lemma="PRIX-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-mf930701-125-p1s2w3">
 <src.rf>manual</src.rf>
@@ -78,7 +87,10 @@
 <LM>w#w-mf930701-125-p1s2w5</LM>
 </w.rf>
 <form>MILIONU</form>
-<tag lemma="milión`1000000" src="orig" selected="1">NNIS2-----A----</tag>
+<tag>
+<AM lemma="milión`1000000" src="orig">NNIS2-----A----</AM>
+<AM lemma="milion`1000000_,s_^(^DD**milión)" src="manual" selected="1">NNIS2-----A----</AM>
+</tag>
 </m>
 </s>
 <s id="m-mf930701-125-p2s1">
@@ -107,6 +119,7 @@
 <tag>
 <AM lemma="vit-99_:B_;S" src="orig">NNXXX-----A---8</AM>
 <AM lemma="vít" src="auto" recommended="1">VsYS---XX-AP---</AM>
+<AM lemma="vit-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930701-125-p2s1w4">
@@ -147,7 +160,10 @@
 <LM>w#w-mf930701-125-p2s1w8</LM>
 </w.rf>
 <form>Grand</form>
-<tag lemma="Grand-1_;K_,t_^(v_názvech)" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="Grand-1_;K_,t_^(v_názvech)" src="orig">AAXXX----1A----</AM>
+<AM lemma="Grand-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-mf930701-125-p2s1w9">
 <src.rf>manual</src.rf>
@@ -155,7 +171,10 @@
 <LM>w#w-mf930701-125-p2s1w9</LM>
 </w.rf>
 <form>Prix</form>
-<tag lemma="Prix-1_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Prix-1_;S" src="orig">NNMS1-----A----</AM>
+<AM lemma="Prix-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-mf930701-125-p2s1w10">
 <src.rf>manual</src.rf>
@@ -236,7 +255,11 @@
 <LM>w#w-mf930701-125-p2s1w19</LM>
 </w.rf>
 <form>milionu</form>
-<tag lemma="milión`1000000" src="orig" selected="1">NNIS2-----A----</tag>
+<tag>
+<AM lemma="milión`1000000" src="orig">NNIS2-----A----</AM>
+<AM lemma="milión`1000000_,s_^(^DD**milión)" src="manual">NNIS2-----A----</AM>
+<AM lemma="milion`1000000_,s_^(^DD**milión)" src="manual" selected="1">NNIS2-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930701-125-p2s1w20">
 <src.rf>manual</src.rf>
@@ -244,7 +267,10 @@
 <LM>w#w-mf930701-125-p2s1w20</LM>
 </w.rf>
 <form>dolarů</form>
-<tag lemma="dolar_;b" src="orig" selected="1">NNIP2-----A----</tag>
+<tag>
+<AM lemma="dolar_;b" src="orig">NNIP2-----A----</AM>
+<AM lemma="dolar" src="manual" selected="1">NNIP2-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930701-125-p2s1w21">
 <src.rf>manual</src.rf>
@@ -606,7 +632,7 @@
 <AM lemma="Oslo_;G" src="auto">NNNS1-----A----</AM>
 <AM lemma="Oslo_;G" src="auto">NNNS4-----A----</AM>
 <AM lemma="Oslo_;G" src="auto">NNNS5-----A----</AM>
-<AM lemma="Oslo_;G" src="auto" recommended="1">NNNSX-----A---1</AM>
+<AM lemma="Oslo_;G" src="auto" recommended="1" selected="1">NNNSX-----A---1</AM>
 </tag>
 </m>
 <m id="m-mf930701-125-p2s3w34">
@@ -955,7 +981,10 @@
 <LM>w#w-mf930701-125-p2s5w10</LM>
 </w.rf>
 <form>resp</form>
-<tag lemma="respektive_:B" src="auto" selected="1">Db------------8</tag>
+<tag>
+<AM lemma="respektive_:B" src="auto">Db------------8</AM>
+<AM lemma="respektive" src="manual" selected="1">Db------------8</AM>
+</tag>
 </m>
 <m id="m-mf930701-125-p2s5w11">
 <src.rf>manual</src.rf>
@@ -1141,7 +1170,10 @@
 <LM>w#w-mf930701-125-p2s6w14</LM>
 </w.rf>
 <form>dolarů</form>
-<tag lemma="dolar_;b" src="orig" selected="1">NNIP2-----A----</tag>
+<tag>
+<AM lemma="dolar_;b" src="orig">NNIP2-----A----</AM>
+<AM lemma="dolar" src="manual" selected="1">NNIP2-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930701-125-p2s6w15">
 <src.rf>manual</src.rf>
@@ -1182,7 +1214,7 @@
 <AM lemma="osmý" src="auto">CrMP1---------6</AM>
 <AM lemma="osmý" src="auto">CrMP4---------6</AM>
 <AM lemma="osmý" src="auto">CrMP5---------6</AM>
-<AM lemma="osmý" src="auto" recommended="1">CrMS1----------</AM>
+<AM lemma="osmý" src="auto" recommended="1" selected="1">CrMS1----------</AM>
 <AM lemma="osmý" src="auto">CrMS5----------</AM>
 <AM lemma="osmý" src="auto">CrNP1---------6</AM>
 <AM lemma="osmý" src="auto">CrNP4---------6</AM>
@@ -1246,7 +1278,10 @@
 <LM>w#w-mf930701-125-p2s6w24</LM>
 </w.rf>
 <form>Grand</form>
-<tag lemma="Grand-1_;K_,t_^(v_názvech)" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="Grand-1_;K_,t_^(v_názvech)" src="orig">AAXXX----1A----</AM>
+<AM lemma="Grand-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-mf930701-125-p2s6w25">
 <src.rf>manual</src.rf>
@@ -1254,7 +1289,10 @@
 <LM>w#w-mf930701-125-p2s6w25</LM>
 </w.rf>
 <form>Prix</form>
-<tag lemma="Prix-1_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Prix-1_;S" src="orig">NNMS1-----A----</AM>
+<AM lemma="Prix-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-mf930701-125-p2s6w26">
 <src.rf>manual</src.rf>
@@ -1342,7 +1380,10 @@
 <LM>w#w-mf930701-125-p2s6w36</LM>
 </w.rf>
 <form>dolarů</form>
-<tag lemma="dolar_;b" src="orig" selected="1">NNIP2-----A----</tag>
+<tag>
+<AM lemma="dolar_;b" src="orig">NNIP2-----A----</AM>
+<AM lemma="dolar" src="manual" selected="1">NNIP2-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930701-125-p2s6w37">
 <src.rf>manual</src.rf>
@@ -1375,7 +1416,7 @@
 <AM lemma="osmý" src="auto">CrMP1---------6</AM>
 <AM lemma="osmý" src="auto">CrMP4---------6</AM>
 <AM lemma="osmý" src="auto">CrMP5---------6</AM>
-<AM lemma="osmý" src="auto" recommended="1">CrMS1----------</AM>
+<AM lemma="osmý" src="auto" recommended="1" selected="1">CrMS1----------</AM>
 <AM lemma="osmý" src="auto">CrMS5----------</AM>
 <AM lemma="osmý" src="auto">CrNP1---------6</AM>
 <AM lemma="osmý" src="auto">CrNP4---------6</AM>

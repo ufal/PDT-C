@@ -1438,7 +1438,10 @@
 <LM>w#w-lnd92258-076-p18s1w3</LM>
 </w.rf>
 <form>začnu</form>
-<tag lemma="začít-1_^(začnout)" src="auto" selected="1">VB-S---1P-AA---</tag>
+<tag>
+<AM lemma="začít-1_^(začnout)" src="auto">VB-S---1P-AA---</AM>
+<AM lemma="začít-1_:W_^(začnout)" src="manual" selected="1">VB-S---1P-AA---</AM>
+</tag>
 </m>
 <m id="m-lnd92258-076-p18s1w4">
 <src.rf>manual</src.rf>
@@ -3089,7 +3092,12 @@
 <LM>w#w-lnd92258-076-p47s1w49</LM>
 </w.rf>
 <form>víceS</form>
-<tag lemma="hodně" src="orig" selected="1">Dg-------2A----</tag>
+<tag lemma="hodně" src="orig">Dg-------2A----</tag>
+<comment>
+<LM type="New Form">
+<text>více</text>
+</LM>
+</comment>
 </m>
 <m id="m-lnd92258-076-p47s1w50">
 <src.rf>manual</src.rf>
@@ -3582,7 +3590,10 @@
 <LM>w#w-lnd92258-076-p50s1w35</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-2" src="auto" selected="1">Dg-------2A----</tag>
+<tag>
+<AM lemma="hodně-2" src="auto">Dg-------2A----</AM>
+<AM lemma="hodně-3" src="manual" selected="1">Dg-------2A----</AM>
+</tag>
 </m>
 <m id="m-lnd92258-076-p50s1w36">
 <src.rf>manual</src.rf>
@@ -3687,7 +3698,10 @@
 <LM>w#w-lnd92258-076-p54s1w3</LM>
 </w.rf>
 <form>small</form>
-<tag lemma="small_,t" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="small_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="small-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-lnd92258-076-p54s1w4">
 <src.rf>manual</src.rf>
@@ -3699,7 +3713,7 @@
 <AM lemma="byznys" src="orig">NNIS6-----A----</AM>
 <AM lemma="business_,t" src="auto" recommended="1">NNIS2-----A----</AM>
 <AM lemma="business_,t" src="auto">NNIS3-----A----</AM>
-<AM lemma="business_,t" src="auto">NNIS6-----A----</AM>
+<AM lemma="business_,t" src="auto" selected="1">NNIS6-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92258-076-p54s1w5">
@@ -4972,6 +4986,7 @@
 <tag>
 <AM lemma="USA_;G" src="orig">NNIPX-----A----</AM>
 <AM lemma="USA_:B_;K_,t_^(United_States_of_America)" src="auto" recommended="1">NNIPX-----A---8</AM>
+<AM lemma="USA_:B_;K_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-lnd92258-076-p74s1w2">
@@ -4991,6 +5006,7 @@
 <tag>
 <AM lemma="SBA-2_:B_,t_^(Small_Busines_Administration)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="SBA-1_:B_,t_^(serial_bus_analyzer)" src="auto" recommended="1">NNIXX-----A---8</AM>
+<AM lemma="SBA-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-lnd92258-076-p74s1w4">
@@ -5007,7 +5023,10 @@
 <LM>w#w-lnd92258-076-p74s1w5</LM>
 </w.rf>
 <form>Small</form>
-<tag lemma="Small_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Small_;S" src="orig">NNMS1-----A----</AM>
+<AM lemma="Small-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-lnd92258-076-p74s1w6">
 <src.rf>manual</src.rf>
@@ -5020,6 +5039,7 @@
 <AM lemma="business_,t" src="orig">AAXXX----1A----</AM>
 <AM lemma="business_,t" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="business_,t" src="auto">NNIS4-----A----</AM>
+<AM lemma="Business-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-lnd92258-076-p74s1w7">
@@ -5028,7 +5048,10 @@
 <LM>w#w-lnd92258-076-p74s1w7</LM>
 </w.rf>
 <form>Administration</form>
-<tag lemma="administration_,t" src="orig" selected="1">NNFXX-----A----</tag>
+<tag>
+<AM lemma="administration_,t" src="orig">NNFXX-----A----</AM>
+<AM lemma="Administration-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-lnd92258-076-p74s1w8">
 <src.rf>manual</src.rf>

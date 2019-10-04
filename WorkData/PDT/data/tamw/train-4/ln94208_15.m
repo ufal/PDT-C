@@ -72,6 +72,7 @@
 <tag>
 <AM lemma="am-99_:B_;S" src="orig">NNXXX-----A---8</AM>
 <AM lemma="be_,t_^(angl._jsem,_v_názvech_apod.)" src="auto" recommended="1">VB-S---1P-AA---</AM>
+<AM lemma="am-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94208-15-p2s1Aw4">
@@ -500,7 +501,10 @@
 <LM>w#w-ln94208-15-p3s1w21</LM>
 </w.rf>
 <form>má</form>
-<tag lemma="mít" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag>
+<AM lemma="mít" src="orig">VB-S---3P-AA---</AM>
+<AM lemma="mít_:T" src="manual" selected="1">VB-S---3P-AA---</AM>
+</tag>
 </m>
 <m id="m-ln94208-15-p3s1w22">
 <src.rf>manual</src.rf>
@@ -648,7 +652,7 @@
 <form>kargo</form>
 <tag>
 <AM lemma="kargo_,t" src="orig">AAXXX----1A----</AM>
-<AM lemma="kargo" src="auto" recommended="1">NNNS1-----A----</AM>
+<AM lemma="kargo" src="auto" recommended="1" selected="1">NNNS1-----A----</AM>
 <AM lemma="kargo" src="auto">NNNS4-----A----</AM>
 <AM lemma="kargo" src="auto">NNNS5-----A----</AM>
 </tag>
@@ -1382,7 +1386,7 @@
 <form>totiž</form>
 <tag>
 <AM lemma="totiž" src="orig">Db-------------</AM>
-<AM lemma="totiž-1" src="auto" recommended="1">J^-------------</AM>
+<AM lemma="totiž-1" src="auto" recommended="1" selected="1">J^-------------</AM>
 <AM lemma="totiž-2" src="auto">TT-------------</AM>
 </tag>
 </m>
@@ -1541,6 +1545,7 @@
 <tag>
 <AM lemma="USA_;G" src="orig">NNIPX-----A----</AM>
 <AM lemma="USA_:B_;K_,t_^(United_States_of_America)" src="auto" recommended="1">NNIPX-----A---8</AM>
+<AM lemma="USA_:B_;K_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94208-15-p5s4w8">

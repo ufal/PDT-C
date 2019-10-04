@@ -85,7 +85,10 @@
 <LM>w#w-mf930702-044-p2s1w8</LM>
 </w.rf>
 <form>Huga</form>
-<tag lemma="Hugo-2_;G" src="auto" selected="1">NNNS2-----A----</tag>
+<tag>
+<AM lemma="Hugo-2_;G" src="auto">NNNS2-----A----</AM>
+<AM lemma="Hugo-1_;S_;Y" src="manual" selected="1">NNMS2-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930702-044-p2s1w9">
 <src.rf>manual</src.rf>
@@ -171,6 +174,7 @@
 <AM lemma="cosi-2_,t_^(it._tak)" src="orig">Db-------------</AM>
 <AM lemma="cosi" src="auto" recommended="1">PZ--1----------</AM>
 <AM lemma="cosi" src="auto">PZ--4----------</AM>
+<AM lemma="Cosi-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-mf930702-044-p3s1w4">
@@ -184,6 +188,7 @@
 <AM lemma="fan_,l" src="auto">NNIS1-----A----</AM>
 <AM lemma="fan_,l" src="auto">NNIS4-----A----</AM>
 <AM lemma="fana_,l_^(pánev)" src="auto" recommended="1">NNFP2-----A----</AM>
+<AM lemma="fan-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-mf930702-044-p3s1w5">
@@ -192,7 +197,10 @@
 <LM>w#w-mf930702-044-p3s1w5</LM>
 </w.rf>
 <form>tutte</form>
-<tag lemma="tutte_,t_^(jen_Cosi_fan_tutte,_it.)" src="auto" selected="1">PLFP1----------</tag>
+<tag>
+<AM lemma="tutte_,t_^(jen_Cosi_fan_tutte,_it.)" src="auto">PLFP1----------</AM>
+<AM lemma="tutte-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-mf930702-044-p3s1w6">
 <src.rf>manual</src.rf>
@@ -369,6 +377,7 @@
 <tag>
 <AM lemma="nostrum_;K_,t" src="orig">AAFS1----1A----</AM>
 <AM lemma="nostra_,t_^(pouze_ve_spojení_&quot;cosa_nostra&quot;)" src="auto" recommended="1">NNFS1-----A----</AM>
+<AM lemma="Nostra-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-mf930702-044-p4s1w3">

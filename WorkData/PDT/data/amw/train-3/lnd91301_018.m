@@ -53,7 +53,10 @@
 <LM>w#w-lnd91301-018-p2s1w3</LM>
 </w.rf>
 <form>mlp</form>
-<tag lemma="mlp-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="mlp-99_:B_;S" src="orig">NNXXX-----A---8</AM>
+<AM lemma="mlp-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd91301-018-p2s1w4">
 <src.rf>manual</src.rf>
@@ -279,7 +282,10 @@
 <LM>w#w-lnd91301-018-p3s1w26</LM>
 </w.rf>
 <form>npor</form>
-<tag lemma="nadporučík_:B" src="orig" selected="1">NNMXX-----A---8</tag>
+<tag>
+<AM lemma="nadporučík_:B" src="orig">NNMXX-----A---8</AM>
+<AM lemma="nadporučík" src="manual" selected="1">NNMXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd91301-018-p3s1w27">
 <src.rf>manual</src.rf>
@@ -303,7 +309,10 @@
 <LM>w#w-lnd91301-018-p3s1w29</LM>
 </w.rf>
 <form>Krejčí</form>
-<tag lemma="krejčí" src="orig" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="krejčí" src="orig">NNMS1-----A----</AM>
+<AM lemma="Krejčí_;S" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd91301-018-p3s1w30">
 <src.rf>manual</src.rf>
@@ -1017,7 +1026,10 @@
 <LM>w#w-lnd91301-018-p3s7w21</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-2" src="auto" selected="1">Dg-------2A----</tag>
+<tag>
+<AM lemma="hodně-2" src="auto">Dg-------2A----</AM>
+<AM lemma="více_^(více_+_2._p.,_více_peněz)" src="manual" selected="1">Ca--4----------</AM>
+</tag>
 </m>
 <m id="m-lnd91301-018-p3s7w22">
 <src.rf>manual</src.rf>

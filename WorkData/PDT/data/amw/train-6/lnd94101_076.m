@@ -197,7 +197,10 @@
 <LM>w#w-lnd94101-076-p1s1Bw20</LM>
 </w.rf>
 <form>komunismu</form>
-<tag lemma="komunismus" src="orig" selected="1">NNIS2-----A----</tag>
+<tag>
+<AM lemma="komunismus" src="orig">NNIS2-----A----</AM>
+<AM lemma="komunismus_,s_^(^DD**komunizmus)" src="manual" selected="1">NNIS2-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd94101-076-p1s1Bw21">
 <src.rf>manual</src.rf>
@@ -247,7 +250,10 @@
 <LM>w#w-lnd94101-076-p1s2w2</LM>
 </w.rf>
 <form>Postkomunismus</form>
-<tag lemma="postkomunizmus" src="orig" selected="1">NNIS4-----A----</tag>
+<tag>
+<AM lemma="postkomunizmus" src="orig">NNIS4-----A----</AM>
+<AM lemma="postkomunismus_,s_^(^DD**postkomunizmus)" src="manual" selected="1">NNIS4-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd94101-076-p1s2w3">
 <src.rf>manual</src.rf>
@@ -695,7 +701,7 @@
 </w.rf>
 <form>pal</form>
 <tag>
-<AM lemma="pal-99_:B_;S" src="orig">NNXXX-----A---8</AM>
+<AM lemma="pal-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</AM>
 <AM lemma="pálit" src="auto" recommended="1">Vi-S---2--A----</AM>
 <AM lemma="pálit" src="auto">Vi-S---3--A---4</AM>
 </tag>

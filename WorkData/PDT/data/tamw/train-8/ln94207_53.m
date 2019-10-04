@@ -135,7 +135,10 @@
 <LM>w#w-ln94207-53-p2s1Bw9</LM>
 </w.rf>
 <form>marketinkových</form>
-<tag lemma="marketinkový" src="orig" selected="1">AANP2----1A----</tag>
+<tag>
+<AM lemma="marketinkový" src="orig">AANP2----1A----</AM>
+<AM lemma="marketinkový_,s_^(^DD**marketingový)" src="manual" selected="1">AANP2----1A----</AM>
+</tag>
 </m>
 <m id="m-ln94207-53-p2s1Bw10">
 <src.rf>manual</src.rf>
@@ -240,7 +243,7 @@
 </w.rf>
 <form>Holding</form>
 <tag>
-<AM lemma="Holding_;K" src="orig">NNIS1-----A----</AM>
+<AM lemma="Holding_;K" src="orig" selected="1">NNIS1-----A----</AM>
 <AM lemma="holding" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="holding" src="auto">NNIS4-----A----</AM>
 </tag>
@@ -341,7 +344,10 @@
 <LM>w#w-ln94207-53-p2s2w10</LM>
 </w.rf>
 <form>JUDr</form>
-<tag lemma="JUDr-1_:B_^(doktor_práv)" src="orig" selected="1">NNMXX-----A---8</tag>
+<tag>
+<AM lemma="JUDr-1_:B_^(doktor_práv)" src="orig">NNMXX-----A---8</AM>
+<AM lemma="JUDr_:B_^(doktor_práv)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94207-53-p2s2w11">
 <src.rf>manual</src.rf>
@@ -484,6 +490,7 @@
 <tag>
 <AM lemma="ČTS_:B_;K_^(Český_tenisový_svaz)" src="orig">NNIXX-----A---8</AM>
 <AM lemma="ČTS_:B" src="auto" recommended="1">NNXXX-----A---8</AM>
+<AM lemma="ČTS-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-ln94207-53-p2s4w3">
@@ -548,7 +555,10 @@
 <LM>w#w-ln94207-53-p2s4w10</LM>
 </w.rf>
 <form>Czech</form>
-<tag lemma="Czech-2_,t" src="auto" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="Czech-2_,t" src="auto">AAXXX----1A----</AM>
+<AM lemma="Czech-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94207-53-p2s4w11">
 <src.rf>manual</src.rf>
@@ -556,7 +566,10 @@
 <LM>w#w-ln94207-53-p2s4w11</LM>
 </w.rf>
 <form>Open</form>
-<tag lemma="Open-1_,t_^(v_názvu_např._sport._soutěží,_&quot;otevřený&quot;)" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="Open-1_,t_^(v_názvu_např._sport._soutěží,_&quot;otevřený&quot;)" src="orig">AAXXX----1A----</AM>
+<AM lemma="Open-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94207-53-p2s4w12">
 <src.rf>manual</src.rf>
@@ -870,7 +883,10 @@
 <LM>w#w-ln94207-53-p2s5w23</LM>
 </w.rf>
 <form>dolarů</form>
-<tag lemma="dolar_;b" src="orig" selected="1">NNIP2-----A----</tag>
+<tag>
+<AM lemma="dolar_;b" src="orig">NNIP2-----A----</AM>
+<AM lemma="dolar" src="manual" selected="1">NNIP2-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94207-53-p2s5w24">
 <src.rf>manual</src.rf>

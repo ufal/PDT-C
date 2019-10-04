@@ -93,7 +93,10 @@
 <LM>w#w-mf920925-026-p2s1w3</LM>
 </w.rf>
 <form>ina</form>
-<tag lemma="ina-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="ina-99_:B_;S" src="orig">NNXXX-----A---8</AM>
+<AM lemma="ina-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920925-026-p2s1w4">
 <src.rf>manual</src.rf>
@@ -109,7 +112,10 @@
 <LM>w#w-mf920925-026-p2s1w5</LM>
 </w.rf>
 <form>peo</form>
-<tag lemma="peo-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="peo-99_:B_;S" src="orig">NNXXX-----A---8</AM>
+<AM lemma="peo-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920925-026-p2s1w6">
 <src.rf>manual</src.rf>
@@ -250,7 +256,7 @@
 </w.rf>
 <form>Jasem</form>
 <tag>
-<AM lemma="Jasem_;Y" src="orig">NNMS1-----A----</AM>
+<AM lemma="Jasem_;Y" src="orig" selected="1">NNMS1-----A----</AM>
 <AM lemma="jas" src="auto" recommended="1">NNIS7-----A----</AM>
 </tag>
 </m>
@@ -260,7 +266,10 @@
 <LM>w#w-mf920925-026-p2s3w4</LM>
 </w.rf>
 <form>Al</form>
-<tag lemma="Al-5_;m_,t_^(arab._člen,_i_ve_jm.)" src="auto" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="Al-5_;m_,t_^(arab._člen,_i_ve_jm.)" src="auto">AAXXX----1A----</AM>
+<AM lemma="Al-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-mf920925-026-p2s3w5">
 <src.rf>manual</src.rf>
@@ -701,7 +710,7 @@
 <tag>
 <AM lemma="nalézt" src="orig">VpMP---XR-AA---</AM>
 <AM lemma="nalézt-1_^(někam)" src="auto" recommended="1">VpMP---XR-AA---</AM>
-<AM lemma="nalézt-2" src="auto">VpMP---XR-AA---</AM>
+<AM lemma="nalézt-2" src="auto" selected="1">VpMP---XR-AA---</AM>
 </tag>
 </m>
 <m id="m-mf920925-026-p3s1w4">
@@ -953,7 +962,10 @@
 <LM>w#w-mf920925-026-p3s2w15</LM>
 </w.rf>
 <form>StB</form>
-<tag lemma="StB_:B_;K" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="StB_:B_;K" src="orig">NNFXX-----A---8</AM>
+<AM lemma="StB_:B_;K" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920925-026-p3s2w16">
 <src.rf>manual</src.rf>
@@ -1197,7 +1209,10 @@
 <LM>w#w-mf920925-026-p4s2w13</LM>
 </w.rf>
 <form>strany</form>
-<tag lemma="strana-3_^(u_soudu,_na_úřadě,_smluvní_strany;_na_něčí_straně)" src="orig" selected="1">NNFS2-----A----</tag>
+<tag>
+<AM lemma="strana-3_^(u_soudu,_na_úřadě,_smluvní_strany;_na_něčí_straně)" src="orig">NNFS2-----A----</AM>
+<AM lemma="strana" src="manual" selected="1">NNFP1-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920925-026-p4s2w14">
 <src.rf>manual</src.rf>

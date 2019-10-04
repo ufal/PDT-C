@@ -27,7 +27,10 @@
 <LM>w#w-mf920924-122-p1s1w2</LM>
 </w.rf>
 <form>přepadli</form>
-<tag lemma="přepadnout" src="auto" selected="1">VpMP---XR-AA---</tag>
+<tag>
+<AM lemma="přepadnout" src="auto">VpMP---XR-AA---</AM>
+<AM lemma="přepadnout_:W" src="manual" selected="1">VpMP---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-mf920924-122-p1s1w3">
 <src.rf>manual</src.rf>
@@ -51,7 +54,10 @@
 <LM>w#w-mf920924-122-p1s1w5</LM>
 </w.rf>
 <form>čs</form>
-<tag lemma="československý_:B" src="orig" selected="1">AAXXX----1A---8</tag>
+<tag>
+<AM lemma="československý_:B" src="orig">AAXXX----1A---8</AM>
+<AM lemma="československý" src="manual" selected="1">AAXXX----1A---8</AM>
+</tag>
 </m>
 <m id="m-mf920924-122-p1s1w6">
 <src.rf>manual</src.rf>
@@ -109,7 +115,10 @@
 <LM>w#w-mf920924-122-p2s1w3</LM>
 </w.rf>
 <form>hv</form>
-<tag lemma="hv-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="hv-99_:B_;S" src="orig">NNXXX-----A---8</AM>
+<AM lemma="hv-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920924-122-p2s1w4">
 <src.rf>manual</src.rf>
@@ -298,7 +307,10 @@
 <LM>w#w-mf920924-122-p2s3w10</LM>
 </w.rf>
 <form>pplk</form>
-<tag lemma="podplukovník_:B" src="orig" selected="1">NNMXX-----A---8</tag>
+<tag>
+<AM lemma="podplukovník_:B" src="orig">NNMXX-----A---8</AM>
+<AM lemma="pplk_:B_^(podplukovník)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920924-122-p2s3w11">
 <src.rf>manual</src.rf>
@@ -1134,7 +1146,10 @@
 <LM>w#w-mf920924-122-p2s10w11</LM>
 </w.rf>
 <form>skinhead</form>
-<tag lemma="skinhead" src="orig" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="skinhead" src="orig">NNMS1-----A----</AM>
+<AM lemma="skinhead-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-mf920924-122-p2s10w12">
 <src.rf>manual</src.rf>

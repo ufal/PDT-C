@@ -262,7 +262,7 @@
 </w.rf>
 <form>Frederica</form>
 <tag>
-<AM lemma="Frederico_;Y" src="orig">NNMS2-----A----</AM>
+<AM lemma="Frederico_;Y" src="orig" selected="1">NNMS2-----A----</AM>
 <AM lemma="Frederic_;Y" src="auto" recommended="1">NNMS2-----A----</AM>
 <AM lemma="Frederic_;Y" src="auto">NNMS4-----A----</AM>
 </tag>
@@ -551,7 +551,10 @@
 <LM>w#w-lnd94104-114-p1s4w3</LM>
 </w.rf>
 <form>sice</form>
-<tag lemma="sice-2" src="auto" selected="1">Db-------------</tag>
+<tag>
+<AM lemma="sice-2" src="auto">Db-------------</AM>
+<AM lemma="sice-1_^(spojka;_připouští_se_určitá_fakta)" src="manual" selected="1">J^-------------</AM>
+</tag>
 </m>
 <m id="m-lnd94104-114-p1s4w4">
 <src.rf>manual</src.rf>

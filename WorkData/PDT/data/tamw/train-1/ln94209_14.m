@@ -35,7 +35,10 @@
 <LM>w#w-ln94209-14-p1s1w3</LM>
 </w.rf>
 <form>MiG</form>
-<tag lemma="MiG_:B_;R" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="MiG_:B_;R" src="orig">NNIXX-----A---8</AM>
+<AM lemma="MiG-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln94209-14-p1s1w4">
 <src.rf>manual</src.rf>
@@ -109,7 +112,10 @@
 <LM>w#w-ln94209-14-p2s1Aw5</LM>
 </w.rf>
 <form>čtk</form>
-<tag lemma="ČTK-1_:B_;K_^(Čs./Česká_tisková_kancelář)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ČTK-1_:B_;K_^(Čs./Česká_tisková_kancelář)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČTK_:B_;K_^(Čs./Česká_tisková_kancelář)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94209-14-p2s1Aw6">
 <src.rf>manual</src.rf>
@@ -167,7 +173,10 @@
 <LM>w#w-ln94209-14-p2s1Bw5</LM>
 </w.rf>
 <form>MiG</form>
-<tag lemma="MiG_:B_;R" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="MiG_:B_;R" src="orig">NNIXX-----A---8</AM>
+<AM lemma="MiG-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln94209-14-p2s1Bw6">
 <src.rf>manual</src.rf>
@@ -311,7 +320,10 @@
 <LM>w#w-ln94209-14-p2s1Bw23</LM>
 </w.rf>
 <form>NATO</form>
-<tag lemma="NATO_:B_;K_^(North_Atlantic_Treaty_Organization)" src="auto" selected="1">NNNXX-----A---8</tag>
+<tag>
+<AM lemma="NATO_:B_;K_^(North_Atlantic_Treaty_Organization)" src="auto">NNNXX-----A---8</AM>
+<AM lemma="NATO_:B_;K_^(North_Atlantic_Treaty_Organization)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94209-14-p2s1Bw24">
 <src.rf>manual</src.rf>
@@ -457,7 +469,10 @@
 <LM>w#w-ln94209-14-p2s2w17</LM>
 </w.rf>
 <form>MiG</form>
-<tag lemma="MiG_:B_;R" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="MiG_:B_;R" src="orig">NNIXX-----A---8</AM>
+<AM lemma="MiG-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln94209-14-p2s2w18">
 <src.rf>manual</src.rf>
@@ -537,7 +552,10 @@
 <LM>w#w-ln94209-14-p2s2w27</LM>
 </w.rf>
 <form>MiG</form>
-<tag lemma="MiG_:B_;R" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="MiG_:B_;R" src="orig">NNIXX-----A---8</AM>
+<AM lemma="MiG-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln94209-14-p2s2w28">
 <src.rf>manual</src.rf>
@@ -675,7 +693,10 @@
 <LM>w#w-ln94209-14-p2s3w14</LM>
 </w.rf>
 <form>MiG</form>
-<tag lemma="MiG_:B_;R" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="MiG_:B_;R" src="orig">NNIXX-----A---8</AM>
+<AM lemma="MiG-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln94209-14-p2s3w15">
 <src.rf>manual</src.rf>
@@ -803,7 +824,10 @@
 <LM>w#w-ln94209-14-p2s3w30</LM>
 </w.rf>
 <form>MiG</form>
-<tag lemma="MiG_:B_;R" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="MiG_:B_;R" src="orig">NNIXX-----A---8</AM>
+<AM lemma="MiG-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln94209-14-p2s3w31">
 <src.rf>manual</src.rf>
@@ -997,7 +1021,10 @@
 <LM>w#w-ln94209-14-p2s4w15</LM>
 </w.rf>
 <form>MiG</form>
-<tag lemma="MiG_:B_;R" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="MiG_:B_;R" src="orig">NNIXX-----A---8</AM>
+<AM lemma="MiG-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln94209-14-p2s4w16">
 <src.rf>manual</src.rf>
@@ -1039,7 +1066,10 @@
 <LM>w#w-ln94209-14-p2s5w1</LM>
 </w.rf>
 <form>MiG</form>
-<tag lemma="MiG_:B_;R" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="MiG_:B_;R" src="orig">NNIXX-----A---8</AM>
+<AM lemma="MiG-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln94209-14-p2s5w2">
 <src.rf>manual</src.rf>
@@ -1135,7 +1165,10 @@
 <LM>w#w-ln94209-14-p2s5w13</LM>
 </w.rf>
 <form>MiG</form>
-<tag lemma="MiG_:B_;R" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="MiG_:B_;R" src="orig">NNIXX-----A---8</AM>
+<AM lemma="MiG-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln94209-14-p2s5w14">
 <src.rf>manual</src.rf>
@@ -1223,7 +1256,10 @@
 <LM>w#w-ln94209-14-p2s5w24</LM>
 </w.rf>
 <form>MiG</form>
-<tag lemma="MiG_:B_;R" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="MiG_:B_;R" src="orig">NNIXX-----A---8</AM>
+<AM lemma="MiG-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln94209-14-p2s5w25">
 <src.rf>manual</src.rf>

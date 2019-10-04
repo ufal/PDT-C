@@ -520,7 +520,10 @@
 <LM>w#w-lnd92258-059-p3s3w15</LM>
 </w.rf>
 <form>ES</form>
-<tag lemma="ES_:B_;K_^(Evropská_společenství)" src="orig" selected="1">NNNXX-----A---8</tag>
+<tag>
+<AM lemma="ES_:B_;K_^(Evropská_společenství)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="ES-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92258-059-p3s3w16">
 <src.rf>manual</src.rf>
@@ -539,6 +542,7 @@
 <tag>
 <AM lemma="USA_;G" src="orig">NNIPX-----A----</AM>
 <AM lemma="USA_:B_;K_,t_^(United_States_of_America)" src="auto" recommended="1">NNIPX-----A---8</AM>
+<AM lemma="USA_:B_;K_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92258-059-p3s3w18">
@@ -619,7 +623,10 @@
 <LM>w#w-lnd92258-059-p3s3w28</LM>
 </w.rf>
 <form>nedošlo</form>
-<tag lemma="dojít" src="orig" selected="1">VpNS---XR-NA---</tag>
+<tag>
+<AM lemma="dojít" src="orig">VpNS---XR-NA---</AM>
+<AM lemma="dojít_:W" src="manual" selected="1">VpNS---XR-NA---</AM>
+</tag>
 </m>
 <m id="m-lnd92258-059-p3s3w29">
 <src.rf>manual</src.rf>
@@ -747,7 +754,11 @@
 <LM>w#w-lnd92258-059-p3s3w44</LM>
 </w.rf>
 <form>GATT</form>
-<tag lemma="GATT_:B" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="GATT_:B" src="orig">NNFXX-----A---8</AM>
+<AM lemma="GATT_:B" src="manual">NNXXX-----A---8</AM>
+<AM lemma="GATT-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92258-059-p3s3w45">
 <src.rf>manual</src.rf>

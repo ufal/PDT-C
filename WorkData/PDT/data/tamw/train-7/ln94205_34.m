@@ -27,7 +27,10 @@
 <LM>w#w-ln94205-34-p1s1w2</LM>
 </w.rf>
 <form>jako</form>
-<tag lemma="jako-1" src="auto" selected="1">J,-------------</tag>
+<tag>
+<AM lemma="jako-1" src="auto" selected="1">J,-------------</AM>
+<AM lemma="jako-2" src="manual">Db-------------</AM>
+</tag>
 </m>
 <m id="m-ln94205-34-p1s1w3">
 <src.rf>manual</src.rf>
@@ -323,7 +326,10 @@
 <LM>w#w-ln94205-34-p2s3w14</LM>
 </w.rf>
 <form>stojí</form>
-<tag lemma="stát-3_^(někdo/něco_stojí,_např._na_nohou)" src="orig" selected="1">VB-P---3P-AA---</tag>
+<tag>
+<AM lemma="stát-3_^(někdo/něco_stojí,_např._na_nohou)" src="orig">VB-P---3P-AA---</AM>
+<AM lemma="stát-3_^(stojím_stojíš)" src="manual" selected="1">VB-S---3P-AA---</AM>
+</tag>
 </m>
 <m id="m-ln94205-34-p2s3w15">
 <src.rf>manual</src.rf>
@@ -397,7 +403,10 @@
 <LM>w#w-ln94205-34-p3s1w6</LM>
 </w.rf>
 <form>vstříc</form>
-<tag lemma="vstříc-1" src="auto" selected="1">RR--3----------</tag>
+<tag>
+<AM lemma="vstříc-1" src="auto">RR--3----------</AM>
+<AM lemma="vstříc-2" src="manual" selected="1">Db-------------</AM>
+</tag>
 </m>
 <m id="m-ln94205-34-p3s1w7">
 <src.rf>manual</src.rf>
@@ -474,6 +483,7 @@
 <AM lemma="začít-1" src="orig">Vf--------A----</AM>
 <AM lemma="začít-1_^(začnout)" src="auto" recommended="1">Vf--------A----</AM>
 <AM lemma="začít-2_^(pocítit)" src="auto">Vf--------A----</AM>
+<AM lemma="začít-1_:W_^(začnout)" src="manual" selected="1">Vf--------A----</AM>
 </tag>
 </m>
 <m id="m-ln94205-34-p3s1w16">
@@ -530,7 +540,10 @@
 <LM>w#w-ln94205-34-p3s1w23</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-2" src="auto" selected="1">Dg-------2A----</tag>
+<tag>
+<AM lemma="hodně-2" src="auto">Dg-------2A----</AM>
+<AM lemma="hodně-3" src="manual" selected="1">Dg-------2A----</AM>
+</tag>
 </m>
 <m id="m-ln94205-34-p3s1w24">
 <src.rf>manual</src.rf>
@@ -878,7 +891,10 @@
 <LM>w#w-ln94205-34-p3s3w19</LM>
 </w.rf>
 <form>OSN</form>
-<tag lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94205-34-p3s3w20">
 <src.rf>manual</src.rf>
@@ -1160,7 +1176,10 @@
 <LM>w#w-ln94205-34-p4s1w26</LM>
 </w.rf>
 <form>Muslimům</form>
-<tag lemma="muslim" src="orig" selected="1">NNMP3-----A----</tag>
+<tag>
+<AM lemma="muslim" src="orig">NNMP3-----A----</AM>
+<AM lemma="Muslim_;E" src="manual" selected="1">NNMP3-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94205-34-p4s1w27">
 <src.rf>manual</src.rf>
@@ -1402,7 +1421,10 @@
 <LM>w#w-ln94205-34-p4s2w29</LM>
 </w.rf>
 <form>nejspíše</form>
-<tag lemma="spíše" src="auto" selected="1">Dg-------3A----</tag>
+<tag>
+<AM lemma="spíše" src="auto">Dg-------3A----</AM>
+<AM lemma="nejspíš" src="manual" selected="1">TT------------1</AM>
+</tag>
 </m>
 <m id="m-ln94205-34-p4s2w30">
 <src.rf>manual</src.rf>
@@ -1565,7 +1587,10 @@
 <LM>w#w-ln94205-34-p4s3w8</LM>
 </w.rf>
 <form>Muslimům</form>
-<tag lemma="muslim" src="orig" selected="1">NNMP3-----A----</tag>
+<tag>
+<AM lemma="muslim" src="orig">NNMP3-----A----</AM>
+<AM lemma="Muslim_;E" src="manual" selected="1">NNMP3-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94205-34-p4s3w9">
 <src.rf>manual</src.rf>
@@ -1891,7 +1916,10 @@
 <LM>w#w-ln94205-34-p4s6w16</LM>
 </w.rf>
 <form>Muslimů</form>
-<tag lemma="muslim" src="orig" selected="1">NNMP2-----A----</tag>
+<tag>
+<AM lemma="muslim" src="orig">NNMP2-----A----</AM>
+<AM lemma="Muslim_;E" src="manual" selected="1">NNMP2-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94205-34-p4s6w17">
 <src.rf>manual</src.rf>
@@ -2149,7 +2177,10 @@
 <LM>w#w-ln94205-34-p4s7w27</LM>
 </w.rf>
 <form>nedávno</form>
-<tag lemma="nedávno-1" src="auto" selected="1">Db-------------</tag>
+<tag>
+<AM lemma="nedávno-1" src="auto">Db-------------</AM>
+<AM lemma="dávno-1" src="manual" selected="1">Dg-------1N----</AM>
+</tag>
 </m>
 <m id="m-ln94205-34-p4s7w28">
 <src.rf>manual</src.rf>
@@ -2940,7 +2971,10 @@
 <LM>w#w-ln94205-34-p5s7w2</LM>
 </w.rf>
 <form>spíše</form>
-<tag lemma="spíše" src="orig" selected="1">Dg-------2A---1</tag>
+<tag>
+<AM lemma="spíše" src="orig">Dg-------2A---1</AM>
+<AM lemma="spíš" src="manual" selected="1">TT------------1</AM>
+</tag>
 </m>
 <m id="m-ln94205-34-p5s7w3">
 <src.rf>manual</src.rf>

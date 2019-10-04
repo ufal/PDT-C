@@ -37,7 +37,10 @@
 <LM>w#w-ln95040-029-p2s1Aw1</LM>
 </w.rf>
 <form>Rio</form>
-<tag lemma="Rio_;G" src="orig" selected="1">NNNS1-----A----</tag>
+<tag>
+<AM lemma="Rio_;G" src="orig">NNNS1-----A----</AM>
+<AM lemma="Rio-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln95040-029-p2s1Aw2">
 <src.rf>manual</src.rf>
@@ -45,7 +48,10 @@
 <LM>w#w-ln95040-029-p2s1Aw2</LM>
 </w.rf>
 <form>de</form>
-<tag lemma="de_,t_^(z_franc._de,_zejm._ve_jménech)" src="orig" selected="1">RR--1----------</tag>
+<tag>
+<AM lemma="de_,t_^(z_franc._de,_zejm._ve_jménech)" src="orig">RR--1----------</AM>
+<AM lemma="de-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln95040-029-p2s1Aw3">
 <src.rf>manual</src.rf>
@@ -53,7 +59,10 @@
 <LM>w#w-ln95040-029-p2s1Aw3</LM>
 </w.rf>
 <form>Janeiro</form>
-<tag lemma="Janeiro_;G" src="orig" selected="1">NNNS1-----A----</tag>
+<tag>
+<AM lemma="Janeiro_;G" src="orig">NNNS1-----A----</AM>
+<AM lemma="Janeiro-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln95040-029-p2s1Aw4">
 <src.rf>manual</src.rf>
@@ -95,7 +104,10 @@
 <LM>w#w-ln95040-029-p2s1Bw4</LM>
 </w.rf>
 <form>přijal</form>
-<tag lemma="přijmout" src="auto" selected="1">VpYS---XR-AA---</tag>
+<tag>
+<AM lemma="přijmout" src="auto">VpYS---XR-AA---</AM>
+<AM lemma="přijmout_:W" src="manual" selected="1">VpYS---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-ln95040-029-p2s1Bw5">
 <src.rf>manual</src.rf>
@@ -419,7 +431,10 @@
 <LM>w#w-ln95040-029-p2s3w18</LM>
 </w.rf>
 <form>přijal</form>
-<tag lemma="přijmout" src="auto" selected="1">VpYS---XR-AA---</tag>
+<tag>
+<AM lemma="přijmout" src="auto">VpYS---XR-AA---</AM>
+<AM lemma="přijmout_:W" src="manual" selected="1">VpYS---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-ln95040-029-p2s3w19">
 <src.rf>manual</src.rf>

@@ -19,7 +19,10 @@
 <LM>w#w-ln94206-57-p1s1w1</LM>
 </w.rf>
 <form>KSČM</form>
-<tag lemma="KSČM_:B_;K_;p_^(Komunistická_strana_Čech_a_Moravy)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="KSČM_:B_;K_;p_^(Komunistická_strana_Čech_a_Moravy)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="KSČM_:B_;K_^(Komunistická_strana_Čech_a_Moravy)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94206-57-p1s1w2">
 <src.rf>manual</src.rf>
@@ -113,7 +116,10 @@
 <LM>w#w-ln94206-57-p2s1Cw2</LM>
 </w.rf>
 <form>KSČM</form>
-<tag lemma="KSČM_:B_;K_;p_^(Komunistická_strana_Čech_a_Moravy)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="KSČM_:B_;K_;p_^(Komunistická_strana_Čech_a_Moravy)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="KSČM_:B_;K_^(Komunistická_strana_Čech_a_Moravy)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94206-57-p2s1Cw3">
 <src.rf>manual</src.rf>
@@ -339,7 +345,10 @@
 <LM>w#w-ln94206-57-p2s2w5</LM>
 </w.rf>
 <form>KSČM</form>
-<tag lemma="KSČM_:B_;K_;p_^(Komunistická_strana_Čech_a_Moravy)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="KSČM_:B_;K_;p_^(Komunistická_strana_Čech_a_Moravy)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="KSČM_:B_;K_^(Komunistická_strana_Čech_a_Moravy)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94206-57-p2s2w6">
 <src.rf>manual</src.rf>
@@ -355,7 +364,10 @@
 <LM>w#w-ln94206-57-p2s2w7</LM>
 </w.rf>
 <form>řekl</form>
-<tag lemma="říci" src="auto" selected="1">VpYS---XR-AA---</tag>
+<tag>
+<AM lemma="říci" src="auto">VpYS---XR-AA---</AM>
+<AM lemma="říci_:W" src="manual" selected="1">VpYS---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-ln94206-57-p2s2w8">
 <src.rf>manual</src.rf>
@@ -421,7 +433,10 @@
 <LM>w#w-ln94206-57-p3s1w3</LM>
 </w.rf>
 <form>KSČM</form>
-<tag lemma="KSČM_:B_;K_;p_^(Komunistická_strana_Čech_a_Moravy)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="KSČM_:B_;K_;p_^(Komunistická_strana_Čech_a_Moravy)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="KSČM_:B_;K_^(Komunistická_strana_Čech_a_Moravy)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94206-57-p3s1w4">
 <src.rf>manual</src.rf>
@@ -706,7 +721,7 @@
 <tag>
 <AM lemma="spadeno_^(^NO*3nout)_(mít_spadeno)" src="orig">Db-------------</AM>
 <AM lemma="spadený" src="auto" recommended="1">ACNS------A----</AM>
-<AM lemma="spadnout" src="auto">VsNS---XX-AP---</AM>
+<AM lemma="spadnout" src="auto" selected="1">VsNS---XX-AP---</AM>
 </tag>
 </m>
 <m id="m-ln94206-57-p3s2w6">
@@ -981,7 +996,10 @@
 <LM>w#w-ln94206-57-p4s1w27</LM>
 </w.rf>
 <form>řekla</form>
-<tag lemma="říci" src="auto" selected="1">VpQW---XR-AA---</tag>
+<tag>
+<AM lemma="říci" src="auto">VpQW---XR-AA---</AM>
+<AM lemma="říci_:W" src="manual" selected="1">VpQW---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-ln94206-57-p4s1w28">
 <src.rf>manual</src.rf>

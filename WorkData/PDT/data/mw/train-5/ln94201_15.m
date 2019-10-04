@@ -311,7 +311,10 @@
 <LM>w#w-ln94201-15-p2s2w11</LM>
 </w.rf>
 <form>Papoušek</form>
-<tag lemma="papoušek" src="orig" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="papoušek" src="orig">NNMS1-----A----</AM>
+<AM lemma="Papoušek_;S" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94201-15-p2s2w12">
 <src.rf>manual</src.rf>
@@ -542,6 +545,7 @@
 <tag>
 <AM lemma="USA_;G" src="orig">NNIPX-----A----</AM>
 <AM lemma="USA_:B_;K_,t_^(United_States_of_America)" src="auto" recommended="1">NNIPX-----A---8</AM>
+<AM lemma="USA_:B_;K_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-ln94201-15-p2s4w16">
@@ -784,7 +788,10 @@
 <LM>w#w-ln94201-15-p2s5w14</LM>
 </w.rf>
 <form>IAHR</form>
-<tag lemma="IAHR_:B_;K_,t_^(Mezinárodní_asociace_pro_dějiny_náboženství)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="IAHR_:B_;K_,t_^(Mezinárodní_asociace_pro_dějiny_náboženství)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="IAHR-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln94201-15-p2s5w15">
 <src.rf>manual</src.rf>

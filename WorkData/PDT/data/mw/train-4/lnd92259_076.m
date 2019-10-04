@@ -67,7 +67,10 @@
 <LM>w#w-lnd92259-076-p1s1w7</LM>
 </w.rf>
 <form>pop</form>
-<tag lemma="pop-3_,t_^(př._ve_spojení_pop_music)" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="pop-3_,t_^(př._ve_spojení_pop_music)" src="orig">AAXXX----1A----</AM>
+<AM lemma="pop-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-lnd92259-076-p1s1w8">
 <src.rf>manual</src.rf>
@@ -75,7 +78,10 @@
 <LM>w#w-lnd92259-076-p1s1w8</LM>
 </w.rf>
 <form>music</form>
-<tag lemma="music_,t_^(př._pop_music)" src="orig" selected="1">NNFXX-----A----</tag>
+<tag>
+<AM lemma="music_,t_^(př._pop_music)" src="orig">NNFXX-----A----</AM>
+<AM lemma="music-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-lnd92259-076-p1s1w9">
 <src.rf>manual</src.rf>
@@ -109,7 +115,10 @@
 <LM>w#w-lnd92259-076-p1s2w3</LM>
 </w.rf>
 <form>Missariel</form>
-<tag lemma="Missariel_;m" src="orig" selected="1">NNFS1-----A----</tag>
+<tag>
+<AM lemma="Missariel_;m" src="orig">NNFS1-----A----</AM>
+<AM lemma="Missariel_;R" src="manual" selected="1">NNFS1-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92259-076-p1s2w4">
 <src.rf>manual</src.rf>
@@ -131,6 +140,7 @@
 <AM lemma="Monitor-1_;K_,t_^(souč._názvů,_např._Christian_Monitor)" src="auto">NNIS4-----A----</AM>
 <AM lemma="monitor" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="monitor" src="auto">NNIS4-----A----</AM>
+<AM lemma="Monitor-1_;K" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92259-076-p1s2w6">
@@ -628,7 +638,7 @@
 <AM lemma="pas-1_^(př._cestovní)" src="auto">NNIS5-----A----</AM>
 <AM lemma="pas-1_^(př._cestovní)" src="auto">NNIS6-----A----</AM>
 <AM lemma="pas-2_^(na_lidském_těle)" src="auto">NNIS5-----A----</AM>
-<AM lemma="pas-2_^(na_lidském_těle)" src="auto" recommended="1">NNIS6-----A----</AM>
+<AM lemma="pas-2_^(na_lidském_těle)" src="auto" recommended="1" selected="1">NNIS6-----A----</AM>
 <AM lemma="pas-3_^(přihrávka,_př._v_kopané)" src="auto">NNIS5-----A----</AM>
 <AM lemma="pasus" src="auto">NNIS5-----A----</AM>
 <AM lemma="pást_^(se,např._koně,_husy)" src="auto">VB-S---3P-AA---</AM>
@@ -708,7 +718,7 @@
 <form>zpěvačka</form>
 <tag>
 <AM lemma="zpěvák" src="orig">NNFS1-----A----</AM>
-<AM lemma="zpěvačka" src="auto" recommended="1">NNFS1-----A----</AM>
+<AM lemma="zpěvačka" src="auto" recommended="1" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92259-076-p1s4w5">
@@ -817,7 +827,10 @@
 <LM>w#w-lnd92259-076-p2s2w1</LM>
 </w.rf>
 <form>LN</form>
-<tag lemma="LN-1_:B_;R_^(Lidové_noviny,_deník)" src="orig" selected="1">NNFPX-----A---8</tag>
+<tag>
+<AM lemma="LN-1_:B_;R_^(Lidové_noviny,_deník)" src="orig">NNFPX-----A---8</AM>
+<AM lemma="LN-1_:B_;K_;R_^(Lidové_noviny)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 </s>
 </mdata>

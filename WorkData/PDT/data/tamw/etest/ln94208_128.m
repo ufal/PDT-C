@@ -2457,7 +2457,7 @@
 </w.rf>
 <form>Floriany</form>
 <tag>
-<AM lemma="Floriana_;K" src="orig">NNFS2-----A----</AM>
+<AM lemma="Floriana_;K" src="orig" selected="1">NNFS2-----A----</AM>
 <AM lemma="Florian_;Y" src="auto">NNMP4-----A----</AM>
 <AM lemma="Florian_;Y" src="auto">NNMP7-----A----</AM>
 <AM lemma="Floriano_;G" src="auto" recommended="1">NNNP7-----A----</AM>
@@ -2469,7 +2469,11 @@
 <LM>w#w-ln94208-128-p4s7w13</LM>
 </w.rf>
 <form>La</form>
-<tag lemma="Le-1_,t_^(franc._člen_jako_souč._jmen_a_názvů)" src="orig" selected="1">AAFSX----1A----</tag>
+<tag>
+<AM lemma="Le-1_,t_^(franc._člen_jako_souč._jmen_a_názvů)" src="orig">AAFSX----1A----</AM>
+<AM lemma="la-4_,t_^(člen)" src="manual">AAXXX----1A----</AM>
+<AM lemma="La-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94208-128-p4s7w14">
 <src.rf>manual</src.rf>
@@ -2477,7 +2481,10 @@
 <LM>w#w-ln94208-128-p4s7w14</LM>
 </w.rf>
 <form>Valletta</form>
-<tag lemma="Valletta_;G" src="orig" selected="1">NNFS1-----A----</tag>
+<tag>
+<AM lemma="Valletta_;G" src="orig">NNFS1-----A----</AM>
+<AM lemma="Valletta-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94208-128-p4s7w15">
 <src.rf>manual</src.rf>

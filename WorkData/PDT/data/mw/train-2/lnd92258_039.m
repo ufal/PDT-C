@@ -37,7 +37,10 @@
 <LM>w#w-lnd92258-039-p2s1w2</LM>
 </w.rf>
 <form>ohrožena</form>
-<tag lemma="ohrozit" src="orig" selected="1">VsQW---XX-AP---</tag>
+<tag>
+<AM lemma="ohrozit" src="orig">VsQW---XX-AP---</AM>
+<AM lemma="ohrozit_:W" src="manual" selected="1">VsQW---XX-AP---</AM>
+</tag>
 </m>
 </s>
 <s id="m-lnd92258-039-p3s1">
@@ -161,7 +164,10 @@
 <LM>w#w-lnd92258-039-p3s2w13</LM>
 </w.rf>
 <form>sešli</form>
-<tag lemma="sejít" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag>
+<AM lemma="sejít" src="orig">VpMP---XR-AA---</AM>
+<AM lemma="sejít_:W" src="manual" selected="1">VpMP---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-lnd92258-039-p3s2w14">
 <src.rf>manual</src.rf>
@@ -273,7 +279,10 @@
 <LM>w#w-lnd92258-039-p3s2w28</LM>
 </w.rf>
 <form>obdrželi</form>
-<tag lemma="obdržet" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag>
+<AM lemma="obdržet" src="orig">VpMP---XR-AA---</AM>
+<AM lemma="obdržet_:W" src="manual" selected="1">VpMP---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-lnd92258-039-p3s2w29">
 <src.rf>manual</src.rf>
@@ -313,7 +322,10 @@
 <LM>w#w-lnd92258-039-p3s2w33</LM>
 </w.rf>
 <form>OSN</form>
-<tag lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92258-039-p3s2w34">
 <src.rf>manual</src.rf>
@@ -443,7 +455,10 @@
 <LM>w#w-lnd92258-039-p3s3w6</LM>
 </w.rf>
 <form>OSN</form>
-<tag lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92258-039-p3s3w7">
 <src.rf>manual</src.rf>
@@ -557,7 +572,7 @@
 <form>přičemž</form>
 <tag>
 <AM lemma="přičemž" src="orig">J,-------------</AM>
-<AM lemma="přičemž" src="auto" recommended="1">Db-------------</AM>
+<AM lemma="přičemž" src="auto" recommended="1" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m-lnd92258-039-p3s3w21">
@@ -622,7 +637,11 @@
 <LM>w#w-lnd92258-039-p3s3w28</LM>
 </w.rf>
 <form>stát</form>
-<tag lemma="stát-2_^(něco_se_přihodilo)" src="orig" selected="1">Vf--------A----</tag>
+<tag>
+<AM lemma="stát-2_^(něco_se_přihodilo)" src="orig">Vf--------A----</AM>
+<AM lemma="stát-4_:T_^(něco_stojí_peníze)" src="manual">Vf--------A----</AM>
+<AM lemma="stát-2_:W_^(něco_se_přihodilo)" src="manual" selected="1">Vf--------A----</AM>
+</tag>
 </m>
 <m id="m-lnd92258-039-p3s3w29">
 <src.rf>manual</src.rf>

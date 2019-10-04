@@ -645,7 +645,10 @@
 <LM>w#w-mf930701-010-p3s1w5</LM>
 </w.rf>
 <form>Fischer</form>
-<tag lemma="Fischer_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Fischer_;S" src="orig">NNMS1-----A----</AM>
+<AM lemma="Fischer-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-mf930701-010-p3s1w6">
 <src.rf>manual</src.rf>
@@ -653,7 +656,10 @@
 <LM>w#w-mf930701-010-p3s1w6</LM>
 </w.rf>
 <form>Reisen</form>
-<tag lemma="Reisen_;G" src="orig" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="Reisen_;G" src="orig">NNIS1-----A----</AM>
+<AM lemma="Reisen-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-mf930701-010-p3s1w7">
 <src.rf>manual</src.rf>
@@ -802,6 +808,7 @@
 <AM lemma="l-8_:B_^(ost._zkratka)" src="auto">XX------------8</AM>
 <AM lemma="letopočet_:B_^(jen_př._n._l.,_před_naším_letopočtem)" src="auto">NNIS7-----A---8</AM>
 <AM lemma="litr_:B" src="auto">NNIXX-----A---8</AM>
+<AM lemma="L-33_^(označení_pomocí_písmene)" src="manual" selected="1">NNNXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930701-010-p3s2w6">

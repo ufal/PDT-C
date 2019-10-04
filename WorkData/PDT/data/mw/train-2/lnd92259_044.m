@@ -84,7 +84,10 @@
 <LM>w#w-lnd92259-044-p1s1w9</LM>
 </w.rf>
 <form>čtou</form>
-<tag lemma="číst" src="orig" selected="1">VB-P---3P-AA---</tag>
+<tag>
+<AM lemma="číst" src="orig">VB-P---3P-AA---</AM>
+<AM lemma="číst_:W" src="manual" selected="1">VB-P---3P-AA---</AM>
+</tag>
 </m>
 <m id="m-lnd92259-044-p1s1w10">
 <src.rf>manual</src.rf>
@@ -477,7 +480,7 @@
 <AM lemma="důchod" src="orig">NNIS6-----A----</AM>
 <AM lemma="důchod" src="auto">NNIS2-----A----</AM>
 <AM lemma="důchod" src="auto">NNIS3-----A----</AM>
-<AM lemma="důchod" src="auto" recommended="1">NNIS6-----A---1</AM>
+<AM lemma="důchod" src="auto" recommended="1" selected="1">NNIS6-----A---1</AM>
 </tag>
 </m>
 <m id="m-lnd92259-044-p2s1w33">
@@ -526,7 +529,10 @@
 <LM>w#w-lnd92259-044-p2s1w38</LM>
 </w.rf>
 <form>ČR</form>
-<tag lemma="ČR-1_:B_;G_^(Česká_republika)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92259-044-p2s1w39">
 <src.rf>manual</src.rf>
@@ -550,7 +556,10 @@
 <LM>w#w-lnd92259-044-p2s1w41</LM>
 </w.rf>
 <form>č</form>
-<tag lemma="číslo_:B" src="orig" selected="1">NNNXX-----A---8</tag>
+<tag>
+<AM lemma="číslo_:B" src="orig">NNNXX-----A---8</AM>
+<AM lemma="číslo" src="manual" selected="1">NNNXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd92259-044-p2s1w42">
 <src.rf>manual</src.rf>
@@ -590,7 +599,10 @@
 <LM>w#w-lnd92259-044-p2s1w46</LM>
 </w.rf>
 <form>Sb</form>
-<tag lemma="Sb-1_:B_;j_^(Sbírka,_např._zákonů)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="Sb-1_:B_;j_^(Sbírka,_např._zákonů)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="sbírka" src="manual" selected="1">NNFXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd92259-044-p2s1w47">
 <src.rf>manual</src.rf>
@@ -630,7 +642,10 @@
 <LM>w#w-lnd92259-044-p2s1w51</LM>
 </w.rf>
 <form>bere</form>
-<tag lemma="brát" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag>
+<AM lemma="brát" src="orig">VB-S---3P-AA---</AM>
+<AM lemma="brát_:T" src="manual" selected="1">VB-S---3P-AA---</AM>
+</tag>
 </m>
 <m id="m-lnd92259-044-p2s1w52">
 <src.rf>manual</src.rf>

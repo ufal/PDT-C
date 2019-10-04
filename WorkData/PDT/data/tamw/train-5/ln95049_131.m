@@ -29,7 +29,7 @@
 <form>nejen</form>
 <tag>
 <AM lemma="nejen" src="orig">TT-------------</AM>
-<AM lemma="nejen" src="auto" recommended="1">Db-------------</AM>
+<AM lemma="nejen" src="auto" recommended="1" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m-ln95049-131-p1s1w3">
@@ -128,7 +128,10 @@
 <LM>w#w-ln95049-131-p2s1w7</LM>
 </w.rf>
 <form>Toyota</form>
-<tag lemma="Toyota-1_;K_;R" src="auto" selected="1">NNFS1-----A----</tag>
+<tag>
+<AM lemma="Toyota-1_;K_;R" src="auto">NNFS1-----A----</AM>
+<AM lemma="Toyota-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln95049-131-p2s1w8">
 <src.rf>manual</src.rf>
@@ -136,7 +139,10 @@
 <LM>w#w-ln95049-131-p2s1w8</LM>
 </w.rf>
 <form>Motor</form>
-<tag lemma="motor" src="orig" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="motor" src="orig">NNIS1-----A----</AM>
+<AM lemma="Motor-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln95049-131-p2s1w9">
 <src.rf>manual</src.rf>
@@ -144,7 +150,10 @@
 <LM>w#w-ln95049-131-p2s1w9</LM>
 </w.rf>
 <form>Czech</form>
-<tag lemma="Czech-2_,t" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="Czech-2_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="Czech-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln95049-131-p2s1w10">
 <src.rf>manual</src.rf>
@@ -180,6 +189,7 @@
 <AM lemma="RAV_:B_;R" src="orig">NNIXX-----A---8</AM>
 <AM lemma="RAV_:B_;K" src="auto" recommended="1">NNISX-----A---8</AM>
 <AM lemma="rav_,t" src="auto">NNMS1-----A----</AM>
+<AM lemma="RAV-2_;R" src="manual" selected="1">NNIXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-ln95049-131-p2s1w14">
@@ -212,7 +222,10 @@
 <LM>w#w-ln95049-131-p2s1w17</LM>
 </w.rf>
 <form>off</form>
-<tag lemma="off-1_,t_^(angl._&quot;vypnuto&quot;,_hlavně_souč._názvů)" src="orig" selected="1">TT-------------</tag>
+<tag>
+<AM lemma="off-1_,t_^(angl._&quot;vypnuto&quot;,_hlavně_souč._názvů)" src="orig">TT-------------</AM>
+<AM lemma="off-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln95049-131-p2s1w18">
 <src.rf>manual</src.rf>
@@ -220,7 +233,10 @@
 <LM>w#w-ln95049-131-p2s1w18</LM>
 </w.rf>
 <form>road</form>
-<tag lemma="road_,t" src="orig" selected="1">NNFXX-----A----</tag>
+<tag>
+<AM lemma="road_,t" src="orig">NNFXX-----A----</AM>
+<AM lemma="road-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln95049-131-p2s1w19">
 <src.rf>manual</src.rf>
@@ -352,7 +368,7 @@
 <form>bezesporu</form>
 <tag>
 <AM lemma="bezesporu" src="orig">Db-------------</AM>
-<AM lemma="bezesporu" src="auto" recommended="1">TT-------------</AM>
+<AM lemma="bezesporu" src="auto" recommended="1" selected="1">TT-------------</AM>
 </tag>
 </m>
 <m id="m-ln95049-131-p2s2w16">
@@ -415,6 +431,7 @@
 <AM lemma="RAV_:B_;R_,t" src="orig">NNIXX-----A---8</AM>
 <AM lemma="RAV_:B_;K" src="auto" recommended="1">NNISX-----A---8</AM>
 <AM lemma="rav_,t" src="auto">NNMS1-----A----</AM>
+<AM lemma="RAV-2_;R" src="manual" selected="1">NNIXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-ln95049-131-p2s3w5">
@@ -455,7 +472,10 @@
 <LM>w#w-ln95049-131-p2s3w9</LM>
 </w.rf>
 <form>Recreation</form>
-<tag lemma="recreation_,t" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="recreation_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="Recreation-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln95049-131-p2s3w10">
 <src.rf>manual</src.rf>
@@ -467,6 +487,7 @@
 <AM lemma="active_,t" src="orig">AAXXX----1A----</AM>
 <AM lemma="Activ_;K" src="auto">NNIS5-----A----</AM>
 <AM lemma="Active_;K" src="auto" recommended="1">NNNSX-----A----</AM>
+<AM lemma="Active-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-ln95049-131-p2s3w11">
@@ -475,7 +496,10 @@
 <LM>w#w-ln95049-131-p2s3w11</LM>
 </w.rf>
 <form>Vehicle</form>
-<tag lemma="vehicle_,t" src="orig" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="vehicle_,t" src="orig">NNIS1-----A----</AM>
+<AM lemma="Vehicle-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln95049-131-p2s3w12">
 <src.rf>manual</src.rf>
@@ -645,7 +669,10 @@
 <LM>w#w-ln95049-131-p2s4w3</LM>
 </w.rf>
 <form>Toyota</form>
-<tag lemma="Toyota-1_;K_;R" src="auto" selected="1">NNFS1-----A----</tag>
+<tag>
+<AM lemma="Toyota-1_;K_;R" src="auto">NNFS1-----A----</AM>
+<AM lemma="Toyota-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln95049-131-p2s4w4">
 <src.rf>manual</src.rf>
@@ -653,7 +680,10 @@
 <LM>w#w-ln95049-131-p2s4w4</LM>
 </w.rf>
 <form>Motor</form>
-<tag lemma="motor" src="orig" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="motor" src="orig">NNIS1-----A----</AM>
+<AM lemma="Motor-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln95049-131-p2s4w5">
 <src.rf>manual</src.rf>
@@ -661,7 +691,10 @@
 <LM>w#w-ln95049-131-p2s4w5</LM>
 </w.rf>
 <form>Czech</form>
-<tag lemma="Czech-2_,t" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="Czech-2_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="Czech-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln95049-131-p2s4w6">
 <src.rf>manual</src.rf>
@@ -1051,7 +1084,7 @@
 <form>ovšem</form>
 <tag>
 <AM lemma="ovšem-1_^(avšak,_však;_odporovací_spojka)" src="orig">J^-------------</AM>
-<AM lemma="ovšem" src="auto" recommended="1">TT-------------</AM>
+<AM lemma="ovšem" src="auto" recommended="1" selected="1">TT-------------</AM>
 </tag>
 </m>
 <m id="m-ln95049-131-p2s6w18">
@@ -1224,7 +1257,10 @@
 <LM>w#w-ln95049-131-p2s8w4</LM>
 </w.rf>
 <form>víc</form>
-<tag lemma="hodně-2" src="auto" selected="1">Dg-------2A---1</tag>
+<tag>
+<AM lemma="hodně-2" src="auto">Dg-------2A---1</AM>
+<AM lemma="hodně-3" src="manual" selected="1">Dg-------2A---1</AM>
+</tag>
 </m>
 <m id="m-ln95049-131-p2s8w5">
 <src.rf>manual</src.rf>
@@ -1316,6 +1352,7 @@
 <AM lemma="RAV_:B_;R_,t" src="orig">NNIXX-----A---8</AM>
 <AM lemma="RAV_:B_;K" src="auto" recommended="1">NNISX-----A---8</AM>
 <AM lemma="rav_,t" src="auto">NNMS1-----A----</AM>
+<AM lemma="RAV-2_;R" src="manual" selected="1">NNIXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-ln95049-131-p2s8w16">
@@ -1863,7 +1900,10 @@
 <LM>w#w-ln95049-131-p3s1w11</LM>
 </w.rf>
 <form>E</form>
-<tag lemma="e-3_^(označení_pomocí_písmene)" src="orig" selected="1">NNNXX-----A----</tag>
+<tag>
+<AM lemma="e-3_^(označení_pomocí_písmene)" src="orig">NNNXX-----A----</AM>
+<AM lemma="E-33_^(označení_pomocí_písmene)" src="manual" selected="1">NNNXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95049-131-p3s1w12">
 <src.rf>manual</src.rf>
@@ -1895,7 +1935,10 @@
 <LM>w#w-ln95049-131-p3s1w15</LM>
 </w.rf>
 <form>kW</form>
-<tag lemma="kW-1`kilowatt_:B" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="kW-1`kilowatt_:B" src="orig">NNIXX-----A---8</AM>
+<AM lemma="kilowatt" src="manual" selected="1">NNIXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln95049-131-p3s1w16">
 <src.rf>manual</src.rf>
@@ -1919,7 +1962,10 @@
 <LM>w#w-ln95049-131-p3s1w18</LM>
 </w.rf>
 <form>k</form>
-<tag lemma="k-4`kůň_:B_^(jednotka_výkonu)" src="orig" selected="1">NNMXX-----A---8</tag>
+<tag>
+<AM lemma="k-4`kůň_:B_^(jednotka_výkonu)" src="orig">NNMXX-----A---8</AM>
+<AM lemma="kůň" src="manual" selected="1">NNMXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln95049-131-p3s1w19">
 <src.rf>manual</src.rf>
@@ -1949,6 +1995,7 @@
 <AM lemma="RAV_:B_;R_,t" src="orig">NNIXX-----A---8</AM>
 <AM lemma="RAV_:B_;K" src="auto" recommended="1">NNISX-----A---8</AM>
 <AM lemma="rav_,t" src="auto">NNMS1-----A----</AM>
+<AM lemma="RAV-2_;R" src="manual" selected="1">NNIXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-ln95049-131-p3s2w2">
@@ -2077,7 +2124,10 @@
 <LM>w#w-ln95049-131-p3s2w17</LM>
 </w.rf>
 <form>km</form>
-<tag lemma="km-1`kilometr_:B" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="km-1`kilometr_:B" src="orig">NNIXX-----A---8</AM>
+<AM lemma="kilometr" src="manual" selected="1">NNIXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln95049-131-p3s2w18">
 <src.rf>manual</src.rf>
@@ -2101,7 +2151,10 @@
 <LM>w#w-ln95049-131-p3s2w20</LM>
 </w.rf>
 <form>s</form>
-<tag lemma="s-2`sekunda_:B" src="orig" selected="1">NNFXX-----A---1</tag>
+<tag>
+<AM lemma="s-2`sekunda_:B" src="orig">NNFXX-----A---1</AM>
+<AM lemma="sekunda" src="manual" selected="1">NNFXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln95049-131-p3s2w21">
 <src.rf>manual</src.rf>
@@ -2135,7 +2188,10 @@
 <LM>w#w-ln95049-131-p3s3w3</LM>
 </w.rf>
 <form>ABS</form>
-<tag lemma="ABS-2_:B_;g_^(umělá_hmota)" src="auto" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="ABS-2_:B_;g_^(umělá_hmota)" src="auto">NNIXX-----A---8</AM>
+<AM lemma="ABS-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95049-131-p3s3w4">
 <src.rf>manual</src.rf>
@@ -2179,6 +2235,7 @@
 <tag>
 <AM lemma="Kč" src="orig">NNFXX-----A----</AM>
 <AM lemma="Kč_:B" src="auto" recommended="1">NNFXX-----A---8</AM>
+<AM lemma="Kč_:B" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95049-131-p3s3w9">
@@ -2660,6 +2717,7 @@
 <tag>
 <AM lemma="cm-1`centimetr_:B" src="orig">NNIXX-----A---8</AM>
 <AM lemma="centimetr_:B" src="auto" recommended="1">NNIXX-----A---8</AM>
+<AM lemma="centimetr" src="manual" selected="1">NNIXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-ln95049-131-p3s6w20">
@@ -2812,6 +2870,7 @@
 <AM lemma="RAV_:B_;R_,t" src="orig">NNIXX-----A---8</AM>
 <AM lemma="RAV_:B_;K" src="auto">NNISX-----A---8</AM>
 <AM lemma="rav_,t" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="RAV-2_;R" src="manual" selected="1">NNIXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-ln95049-131-p4s2w2">
@@ -2987,6 +3046,7 @@
 <tag>
 <AM lemma="Kč" src="orig">NNFXX-----A----</AM>
 <AM lemma="Kč_:B" src="auto" recommended="1">NNFXX-----A---8</AM>
+<AM lemma="Kč_:B" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95049-131-p4s3w13">

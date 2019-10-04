@@ -151,7 +151,10 @@
 <LM>w#w-ln94206-31-p2s1Bw9</LM>
 </w.rf>
 <form>IRA</form>
-<tag lemma="IRA-1_:B_;K_,t_^(Irská_republikánská_armáda)" src="auto" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="IRA-1_:B_;K_,t_^(Irská_republikánská_armáda)" src="auto">NNFXX-----A---8</AM>
+<AM lemma="IRA-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94206-31-p2s1Bw10">
 <src.rf>manual</src.rf>
@@ -313,7 +316,10 @@
 <LM>w#w-ln94206-31-p2s2w8</LM>
 </w.rf>
 <form>vyšli</form>
-<tag lemma="vyjít" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag>
+<AM lemma="vyjít" src="orig">VpMP---XR-AA---</AM>
+<AM lemma="vyjít_:W" src="manual" selected="1">VpMP---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-ln94206-31-p2s2w9">
 <src.rf>manual</src.rf>
@@ -353,7 +359,10 @@
 <LM>w#w-ln94206-31-p2s2w13</LM>
 </w.rf>
 <form>dostaly</form>
-<tag lemma="dostat" src="orig" selected="1">VpTP---XR-AA---</tag>
+<tag>
+<AM lemma="dostat" src="orig">VpTP---XR-AA---</AM>
+<AM lemma="dostat_:W" src="manual" selected="1">VpTP---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-ln94206-31-p2s2w14">
 <src.rf>manual</src.rf>
@@ -369,7 +378,10 @@
 <LM>w#w-ln94206-31-p2s2w15</LM>
 </w.rf>
 <form>IRA</form>
-<tag lemma="IRA-1_:B_;K_,t_^(Irská_republikánská_armáda)" src="auto" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="IRA-1_:B_;K_,t_^(Irská_republikánská_armáda)" src="auto">NNFXX-----A---8</AM>
+<AM lemma="IRA-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94206-31-p2s2w16">
 <src.rf>manual</src.rf>
@@ -467,7 +479,10 @@
 <LM>w#w-ln94206-31-p2s3w4</LM>
 </w.rf>
 <form>vyjely</form>
-<tag lemma="vyjet" src="orig" selected="1">VpTP---XR-AA---</tag>
+<tag>
+<AM lemma="vyjet" src="orig">VpTP---XR-AA---</AM>
+<AM lemma="vyjet_:W" src="manual" selected="1">VpTP---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-ln94206-31-p2s3w5">
 <src.rf>manual</src.rf>
@@ -609,6 +624,8 @@
 <AM lemma="Springfield_;G_,t" src="orig">AAXXX----1A----</AM>
 <AM lemma="Springfield_;G" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Springfield_;G" src="auto">NNIS4-----A----</AM>
+<AM lemma="Springfield_;G" src="manual">NNIXX-----A----</AM>
+<AM lemma="Springfield-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-ln94206-31-p2s4w9">
@@ -617,7 +634,11 @@
 <LM>w#w-ln94206-31-p2s4w9</LM>
 </w.rf>
 <form>Road</form>
-<tag lemma="Road_;G_,t" src="orig" selected="1">NNFXX-----A----</tag>
+<tag>
+<AM lemma="Road_;G_,t" src="orig">NNFXX-----A----</AM>
+<AM lemma="road_,t" src="manual">NNXXX-----A----</AM>
+<AM lemma="Road-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94206-31-p2s4w10">
 <src.rf>manual</src.rf>
@@ -673,7 +694,10 @@
 <LM>w#w-ln94206-31-p2s4w16</LM>
 </w.rf>
 <form>trikolorou</form>
-<tag lemma="trikolóra" src="orig" selected="1">NNFS7-----A----</tag>
+<tag>
+<AM lemma="trikolóra" src="orig">NNFS7-----A----</AM>
+<AM lemma="trikolora_,s_^(^DD**trikolóra)" src="manual" selected="1">NNFS7-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94206-31-p2s4w17">
 <src.rf>manual</src.rf>
@@ -691,7 +715,10 @@
 <LM>w#w-ln94206-31-p3s1w1</LM>
 </w.rf>
 <form>Více</form>
-<tag lemma="hodně-2" src="auto" selected="1">Dg-------2A----</tag>
+<tag>
+<AM lemma="hodně-2" src="auto">Dg-------2A----</AM>
+<AM lemma="hodně-3" src="manual" selected="1">Dg-------2A----</AM>
+</tag>
 </m>
 <m id="m-ln94206-31-p3s1w2">
 <src.rf>manual</src.rf>
@@ -707,7 +734,10 @@
 <LM>w#w-ln94206-31-p3s1w3</LM>
 </w.rf>
 <form>straně</form>
-<tag lemma="strana-4_^(v_knize,_rukopise,...)" src="orig" selected="1">NNFS6-----A----</tag>
+<tag>
+<AM lemma="strana-4_^(v_knize,_rukopise,...)" src="orig">NNFS6-----A----</AM>
+<AM lemma="strana" src="manual" selected="1">NNFS6-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94206-31-p3s1w4">
 <src.rf>manual</src.rf>

@@ -45,7 +45,10 @@
 <LM>w#w-ln95049-010-p2s1Aw1</LM>
 </w.rf>
 <form>Řež</form>
-<tag lemma="řež" src="orig" selected="1">NNFS1-----A----</tag>
+<tag>
+<AM lemma="řež" src="orig">NNFS1-----A----</AM>
+<AM lemma="Řež_;G" src="manual" selected="1">NNFS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95049-010-p2s1Aw2">
 <src.rf>manual</src.rf>
@@ -143,7 +146,10 @@
 <LM>w#w-ln95049-010-p2s1Bw9</LM>
 </w.rf>
 <form>dostat</form>
-<tag lemma="dostat" src="orig" selected="1">Vf--------A----</tag>
+<tag>
+<AM lemma="dostat" src="orig">Vf--------A----</AM>
+<AM lemma="dostat_:W" src="manual" selected="1">Vf--------A----</AM>
+</tag>
 </m>
 <m id="m-ln95049-010-p2s1Bw10">
 <src.rf>manual</src.rf>
@@ -207,7 +213,10 @@
 <LM>w#w-ln95049-010-p2s1Bw17</LM>
 </w.rf>
 <form>nezbytné</form>
-<tag lemma="zbytný" src="orig" selected="1">AANS1----1N----</tag>
+<tag>
+<AM lemma="zbytný" src="orig">AANS1----1N----</AM>
+<AM lemma="nezbytný" src="manual" selected="1">AANS1----1A----</AM>
+</tag>
 </m>
 <m id="m-ln95049-010-p2s1Bw18">
 <src.rf>manual</src.rf>
@@ -329,7 +338,10 @@
 <LM>w#w-ln95049-010-p3s1w3</LM>
 </w.rf>
 <form>zaznělo</form>
-<tag lemma="zaznít" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag>
+<AM lemma="zaznít" src="orig">VpNS---XR-AA---</AM>
+<AM lemma="zaznít_:W" src="manual" selected="1">VpNS---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-ln95049-010-p3s1w4">
 <src.rf>manual</src.rf>
@@ -653,7 +665,7 @@
 <form>jakýmkoliv</form>
 <tag>
 <AM lemma="jakýkoliv" src="orig">PZZS7----------</AM>
-<AM lemma="jakýkoli" src="auto" recommended="1">PZXP3---------1</AM>
+<AM lemma="jakýkoli" src="auto" recommended="1" selected="1">PZXP3---------1</AM>
 <AM lemma="jakýkoli" src="auto">PZZS7---------1</AM>
 </tag>
 </m>
@@ -769,7 +781,10 @@
 <LM>w#w-ln95049-010-p4s1w7</LM>
 </w.rf>
 <form>např</form>
-<tag lemma="například_:B" src="orig" selected="1">Db------------8</tag>
+<tag>
+<AM lemma="například_:B" src="orig">Db------------8</AM>
+<AM lemma="například" src="manual" selected="1">Db------------8</AM>
+</tag>
 </m>
 <m id="m-ln95049-010-p4s1w8">
 <src.rf>manual</src.rf>

@@ -563,7 +563,10 @@
 <LM>w#w-lnd92255-132-p2s4w8</LM>
 </w.rf>
 <form>hod</form>
-<tag lemma="hodina_:B" src="auto" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="hodina_:B" src="auto">NNFXX-----A---8</AM>
+<AM lemma="hodina" src="manual" selected="1">NNFXX-----A---9</AM>
+</tag>
 </m>
 <m id="m-lnd92255-132-p2s4w9">
 <src.rf>manual</src.rf>
@@ -683,7 +686,10 @@
 <LM>w#w-lnd92255-132-p2s4w23</LM>
 </w.rf>
 <form>Č</form>
-<tag lemma="český_:B" src="orig" selected="1">AAXXX----1A---8</tag>
+<tag>
+<AM lemma="český_:B" src="orig">AAXXX----1A---8</AM>
+<AM lemma="český" src="manual" selected="1">AAXXX----1A---8</AM>
+</tag>
 </m>
 <m id="m-lnd92255-132-p2s4w24">
 <src.rf>manual</src.rf>
@@ -1062,7 +1068,10 @@
 <LM>w#w-lnd92255-132-p3s1w30</LM>
 </w.rf>
 <form>PMEZ</form>
-<tag lemma="PMEZ_:B_;K_^(Pohár_mistrů_evropských_zemí)" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="PMEZ_:B_;K_^(Pohár_mistrů_evropských_zemí)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="PMEZ-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd92255-132-p3s1w31">
 <src.rf>manual</src.rf>

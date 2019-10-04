@@ -75,7 +75,12 @@
 <LM>w#w-mf930713-073-p1s1w8</LM>
 </w.rf>
 <form>str</form>
-<tag lemma="strana-4_:B" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="strana-4_:B" src="orig">NNFXX-----A---8</AM>
+<AM lemma="strana-4" src="manual">NNFXX-----A---8</AM>
+<AM lemma="	strana-4_^(v_knize,_rukopise,...)" src="manual">NNFXX-----A---8</AM>
+<AM lemma="strana-4_^(v_knize,_rukopise,...)" src="manual" selected="1">NNFXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-mf930713-073-p1s1w9">
 <src.rf>manual</src.rf>

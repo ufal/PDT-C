@@ -231,7 +231,10 @@
 <LM>w#w-lnd94101-044-p1s3w20</LM>
 </w.rf>
 <form>SDA</form>
-<tag lemma="SDA-1_:B_;K_,t_^(Seventh_Day_Adventist)" src="auto" selected="1">NNNXX-----A---8</tag>
+<tag>
+<AM lemma="SDA-1_:B_;K_,t_^(Seventh_Day_Adventist)" src="auto">NNNXX-----A---8</AM>
+<AM lemma="SDA-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd94101-044-p1s3w21">
 <src.rf>manual</src.rf>
@@ -283,7 +286,7 @@
 <form>přesto</form>
 <tag>
 <AM lemma="přesto" src="orig">Dg-------1A----</AM>
-<AM lemma="přesto-1" src="auto" recommended="1">Db-------------</AM>
+<AM lemma="přesto-1" src="auto" recommended="1" selected="1">Db-------------</AM>
 <AM lemma="přesto-2" src="auto">J^-------------</AM>
 </tag>
 </m>
@@ -463,7 +466,10 @@
 <LM>w#w-lnd94101-044-p1s5w2</LM>
 </w.rf>
 <form>SDA</form>
-<tag lemma="SDA-1_:B_;K_,t_^(Seventh_Day_Adventist)" src="auto" selected="1">NNNXX-----A---8</tag>
+<tag>
+<AM lemma="SDA-1_:B_;K_,t_^(Seventh_Day_Adventist)" src="auto">NNNXX-----A---8</AM>
+<AM lemma="SDA-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd94101-044-p1s5w3">
 <src.rf>manual</src.rf>
@@ -689,7 +695,10 @@
 <LM>w#w-lnd94101-044-p1s6w21</LM>
 </w.rf>
 <form>řekl</form>
-<tag lemma="říci" src="auto" selected="1">VpYS---XR-AA---</tag>
+<tag>
+<AM lemma="říci" src="auto">VpYS---XR-AA---</AM>
+<AM lemma="říci_:W" src="manual" selected="1">VpYS---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-lnd94101-044-p1s6w22">
 <src.rf>manual</src.rf>
@@ -705,7 +714,10 @@
 <LM>w#w-lnd94101-044-p1s6w23</LM>
 </w.rf>
 <form>SDA</form>
-<tag lemma="SDA-1_:B_;K_,t_^(Seventh_Day_Adventist)" src="auto" selected="1">NNNXX-----A---8</tag>
+<tag>
+<AM lemma="SDA-1_:B_;K_,t_^(Seventh_Day_Adventist)" src="auto">NNNXX-----A---8</AM>
+<AM lemma="SDA-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd94101-044-p1s6w24">
 <src.rf>manual</src.rf>
@@ -1139,6 +1151,7 @@
 <tag>
 <AM lemma="Kč" src="orig">NNFXX-----A----</AM>
 <AM lemma="Kč_:B" src="auto" recommended="1">NNFXX-----A---8</AM>
+<AM lemma="Kč_:B" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94101-044-p1s8Bw20">
@@ -1195,7 +1208,10 @@
 <LM>w#w-lnd94101-044-p1s8Bw26</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-2" src="auto" selected="1">Dg-------2A----</tag>
+<tag>
+<AM lemma="hodně-2" src="auto">Dg-------2A----</AM>
+<AM lemma="hodně-3" src="manual" selected="1">Dg-------2A----</AM>
+</tag>
 </m>
 <m id="m-lnd94101-044-p1s8Bw27">
 <src.rf>manual</src.rf>

@@ -19,7 +19,10 @@
 <LM>w#w-ln95043-084-p1s1w1</LM>
 </w.rf>
 <form>SDL</form>
-<tag lemma="SDL-1_:B_;K_;p_^(Slov._Strana_demokratickej_ĺavice)" src="auto" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="SDL-1_:B_;K_;p_^(Slov._Strana_demokratickej_ĺavice)" src="auto">NNFXX-----A---8</AM>
+<AM lemma="SDL-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln95043-084-p1s1w2">
 <src.rf>manual</src.rf>
@@ -539,7 +542,10 @@
 <LM>w#w-ln95043-084-p3s2w13</LM>
 </w.rf>
 <form>HZDS</form>
-<tag lemma="HZDS-1_:B_;K_;p_,t_^(Hnutie_za_demokratické_Slovensko)" src="orig" selected="1">NNNXX-----A---8</tag>
+<tag>
+<AM lemma="HZDS-1_:B_;K_;p_,t_^(Hnutie_za_demokratické_Slovensko)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="HZDS-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln95043-084-p3s2w14">
 <src.rf>manual</src.rf>
@@ -579,7 +585,10 @@
 <LM>w#w-ln95043-084-p3s2w18</LM>
 </w.rf>
 <form>Brigitu</form>
-<tag lemma="brigita" src="orig" selected="1">NNFS4-----A----</tag>
+<tag>
+<AM lemma="brigita" src="orig">NNFS4-----A----</AM>
+<AM lemma="Brigita_;Y" src="manual" selected="1">NNFS4-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95043-084-p3s2w19">
 <src.rf>manual</src.rf>
@@ -669,7 +678,10 @@
 <LM>w#w-ln95043-084-p3s3w3</LM>
 </w.rf>
 <form>SDL</form>
-<tag lemma="SDL-1_:B_;K_;p_^(Slov._Strana_demokratickej_ĺavice)" src="auto" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="SDL-1_:B_;K_;p_^(Slov._Strana_demokratickej_ĺavice)" src="auto">NNFXX-----A---8</AM>
+<AM lemma="SDL-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln95043-084-p3s3w4">
 <src.rf>manual</src.rf>
@@ -975,7 +987,10 @@
 <LM>w#w-ln95043-084-p3s4w24</LM>
 </w.rf>
 <form>SDL</form>
-<tag lemma="SDL-1_:B_;K_;p_^(Slov._Strana_demokratickej_ĺavice)" src="auto" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="SDL-1_:B_;K_;p_^(Slov._Strana_demokratickej_ĺavice)" src="auto">NNFXX-----A---8</AM>
+<AM lemma="SDL-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln95043-084-p3s4w25">
 <src.rf>manual</src.rf>
@@ -1171,7 +1186,10 @@
 <LM>w#w-ln95043-084-p3s6w9</LM>
 </w.rf>
 <form>SDL</form>
-<tag lemma="SDL-1_:B_;K_;p_^(Slov._Strana_demokratickej_ĺavice)" src="auto" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="SDL-1_:B_;K_;p_^(Slov._Strana_demokratickej_ĺavice)" src="auto">NNFXX-----A---8</AM>
+<AM lemma="SDL-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln95043-084-p3s6w10">
 <src.rf>manual</src.rf>

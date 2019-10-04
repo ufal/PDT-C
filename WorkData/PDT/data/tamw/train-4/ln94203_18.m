@@ -27,7 +27,10 @@
 <LM>w#w-ln94203-18-p1s1w2</LM>
 </w.rf>
 <form>ČT</form>
-<tag lemma="ČT_:B_;K_^(Česká_televize)" src="auto" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="ČT_:B_;K_^(Česká_televize)" src="auto">NNXXX-----A---8</AM>
+<AM lemma="ČT_:B_;K_^(Česká_televize)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94203-18-p1s1w3">
 <src.rf>manual</src.rf>
@@ -143,7 +146,10 @@
 <LM>w#w-ln94203-18-p2s1Bw8</LM>
 </w.rf>
 <form>ODA</form>
-<tag lemma="ODA-2_:B_;K_;p_^(Občanská_demokratická_aliance)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ODA-2_:B_;K_;p_^(Občanská_demokratická_aliance)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ODA-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln94203-18-p2s1Bw9">
 <src.rf>manual</src.rf>
@@ -255,7 +261,10 @@
 <LM>w#w-ln94203-18-p2s1Bw22</LM>
 </w.rf>
 <form>ČT</form>
-<tag lemma="ČT_:B_;K_^(Česká_televize)" src="auto" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="ČT_:B_;K_^(Česká_televize)" src="auto">NNXXX-----A---8</AM>
+<AM lemma="ČT_:B_;K_^(Česká_televize)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94203-18-p2s1Bw23">
 <src.rf>manual</src.rf>
@@ -327,7 +336,10 @@
 <LM>w#w-ln94203-18-p2s1Bw31</LM>
 </w.rf>
 <form>ČT</form>
-<tag lemma="ČT_:B_;K_^(Česká_televize)" src="auto" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="ČT_:B_;K_^(Česká_televize)" src="auto">NNXXX-----A---8</AM>
+<AM lemma="ČT_:B_;K_^(Česká_televize)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94203-18-p2s1Bw32">
 <src.rf>manual</src.rf>
@@ -393,7 +405,10 @@
 <LM>w#w-ln94203-18-p2s2w2</LM>
 </w.rf>
 <form>ČT</form>
-<tag lemma="ČT_:B_;K_^(Česká_televize)" src="auto" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="ČT_:B_;K_^(Česká_televize)" src="auto">NNXXX-----A---8</AM>
+<AM lemma="ČT_:B_;K_^(Česká_televize)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94203-18-p2s2w3">
 <src.rf>manual</src.rf>
@@ -457,7 +472,10 @@
 <LM>w#w-ln94203-18-p2s2w11</LM>
 </w.rf>
 <form>neprodleně</form>
-<tag lemma="neprodleně_^(*1ý)" src="auto" selected="1">Dg-------1A----</tag>
+<tag>
+<AM lemma="neprodleně_^(*1ý)" src="auto">Dg-------1A----</AM>
+<AM lemma="prodleně_^(*1ý)" src="manual" selected="1">Dg-------1N----</AM>
+</tag>
 </m>
 <m id="m-ln94203-18-p2s2w12">
 <src.rf>manual</src.rf>

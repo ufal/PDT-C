@@ -119,7 +119,10 @@
 <LM>w#w-ln94208-146-p2s1Bw3</LM>
 </w.rf>
 <form>prostředcích</form>
-<tag lemma="prostředek-2_^(způsob,_nástroj)" src="orig" selected="1">NNIP6-----A----</tag>
+<tag>
+<AM lemma="prostředek-2_^(způsob,_nástroj)" src="orig">NNIP6-----A----</AM>
+<AM lemma="prostředek_^(střed,způsob,_nástroj)" src="manual" selected="1">NNIP6-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94208-146-p2s1Bw4">
 <src.rf>manual</src.rf>
@@ -473,7 +476,10 @@
 <LM>w#w-ln94208-146-p2s2w25</LM>
 </w.rf>
 <form>PSJ</form>
-<tag lemma="PSJ_:B_;K" src="auto" selected="1">NNFSX-----A---8</tag>
+<tag>
+<AM lemma="PSJ_:B_;K" src="auto">NNFSX-----A---8</AM>
+<AM lemma="PSJ-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94208-146-p2s2w26">
 <src.rf>manual</src.rf>
@@ -981,7 +987,11 @@
 <LM>w#w-ln94208-146-p3s1w50</LM>
 </w.rf>
 <form>managementu</form>
-<tag lemma="management_,t_^(vedení,_manažment;_angl.)" src="orig" selected="1">NNIS2-----A----</tag>
+<tag>
+<AM lemma="management_,t_^(vedení,_manažment;_angl.)" src="orig">NNIS2-----A----</AM>
+<AM lemma="management" src="manual">NNIS2-----A----</AM>
+<AM lemma="management_,s_^(^DD**manažment)" src="manual" selected="1">NNIS2-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94208-146-p3s1w51">
 <src.rf>manual</src.rf>
@@ -1010,7 +1020,7 @@
 <tag>
 <AM lemma="tedy" src="orig">Db-------------</AM>
 <AM lemma="tedy-1" src="auto">TT-------------</AM>
-<AM lemma="tedy-2" src="auto" recommended="1">J^-------------</AM>
+<AM lemma="tedy-2" src="auto" recommended="1" selected="1">J^-------------</AM>
 </tag>
 </m>
 <m id="m-ln94208-146-p3s2w3">
@@ -1519,7 +1529,10 @@
 <LM>w#w-ln94208-146-p4s2w5</LM>
 </w.rf>
 <form>např</form>
-<tag lemma="například_:B" src="orig" selected="1">Db------------8</tag>
+<tag>
+<AM lemma="například_:B" src="orig">Db------------8</AM>
+<AM lemma="například" src="manual" selected="1">Db------------8</AM>
+</tag>
 </m>
 <m id="m-ln94208-146-p4s2w6">
 <src.rf>manual</src.rf>
@@ -2657,7 +2670,10 @@
 <LM>w#w-ln94208-146-p7s1w18</LM>
 </w.rf>
 <form>apod</form>
-<tag lemma="apod_:B_^(a_podobně)" src="auto" selected="1">Db------------8</tag>
+<tag>
+<AM lemma="apod_:B_^(a_podobně)" src="auto">Db------------8</AM>
+<AM lemma="apod_:B_^(a_podobně)" src="manual" selected="1">Db-------------</AM>
+</tag>
 </m>
 <m id="m-ln94208-146-p7s1w19">
 <src.rf>manual</src.rf>
@@ -2691,7 +2707,7 @@
 <form>třeba</form>
 <tag>
 <AM lemma="třeba-1" src="orig">ACNS------A----</AM>
-<AM lemma="třeba-2" src="auto" recommended="1">Db-------------</AM>
+<AM lemma="třeba-2" src="auto" recommended="1" selected="1">Db-------------</AM>
 <AM lemma="třeba-3" src="auto">TT-------------</AM>
 </tag>
 </m>
@@ -2995,7 +3011,7 @@
 <form>Koneckonců</form>
 <tag>
 <AM lemma="koneckonců" src="orig">Db-------------</AM>
-<AM lemma="koneckonců" src="auto" recommended="1">TT-------------</AM>
+<AM lemma="koneckonců" src="auto" recommended="1" selected="1">TT-------------</AM>
 </tag>
 </m>
 <m id="m-ln94208-146-p7s3w2">

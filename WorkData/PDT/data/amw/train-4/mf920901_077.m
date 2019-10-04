@@ -53,7 +53,10 @@
 <LM>w#w-mf920901-077-p2s1w3</LM>
 </w.rf>
 <form>bar</form>
-<tag lemma="bar-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="bar-99_:B_;S" src="orig">NNXXX-----A---8</AM>
+<AM lemma="bar-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920901-077-p2s1w4">
 <src.rf>manual</src.rf>
@@ -390,7 +393,7 @@
 <tag>
 <AM lemma="tady" src="orig">Db------------1</AM>
 <AM lemma="ten" src="auto" recommended="1">PDFS4----------</AM>
-<AM lemma="tu" src="auto">Db-------------</AM>
+<AM lemma="tu" src="auto" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m-mf920901-077-p2s4w10">

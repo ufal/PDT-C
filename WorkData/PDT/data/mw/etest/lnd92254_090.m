@@ -27,7 +27,10 @@
 <LM>w#w-lnd92254-090-p1s1w2</LM>
 </w.rf>
 <form>ME</form>
-<tag lemma="ME-1_:B_;w_^(mistrovství_Evropy)" src="orig" selected="1">NNNXX-----A---8</tag>
+<tag>
+<AM lemma="ME-1_:B_;w_^(mistrovství_Evropy)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="ME-1_:B_^(mistrovství_Evropy)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92254-090-p1s1w3">
 <src.rf>manual</src.rf>
@@ -123,6 +126,8 @@
 <AM lemma="EHF-1_:B_;K_^(Evropská_házenkářská_federace)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="EHF-1_:B_;K_^(Evropská_hokejová_federace)" src="auto" recommended="1">NNFXX-----A---8</AM>
 <AM lemma="EHF-2_:B_,t_^(extremly_high_frequency)" src="auto">NNFXX-----A---8</AM>
+<AM lemma="EHF-88_:B" src="manual">NNXXX-----A---8</AM>
+<AM lemma="EHF-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92254-090-p2s2w8">
@@ -221,7 +226,10 @@
 <LM>w#w-lnd92254-090-p2s3w2</LM>
 </w.rf>
 <form>ME</form>
-<tag lemma="ME-1_:B_;w_^(mistrovství_Evropy)" src="orig" selected="1">NNNXX-----A---8</tag>
+<tag>
+<AM lemma="ME-1_:B_;w_^(mistrovství_Evropy)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="ME-1_:B_^(mistrovství_Evropy)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92254-090-p2s3w3">
 <src.rf>manual</src.rf>
@@ -503,7 +511,10 @@
 <LM>w#w-lnd92254-090-p2s4w3</LM>
 </w.rf>
 <form>MS</form>
-<tag lemma="MS-5_:B_;K_;p_^(ministerstvo_spravedlnosti)" src="orig" selected="1">NNNXX-----A---8</tag>
+<tag>
+<AM lemma="MS-5_:B_;K_;p_^(ministerstvo_spravedlnosti)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="MS-3_:B_^(mistrovství_světa)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92254-090-p2s4w4">
 <src.rf>manual</src.rf>
@@ -543,7 +554,10 @@
 <LM>w#w-lnd92254-090-p2s4w8</LM>
 </w.rf>
 <form>ČSFR</form>
-<tag lemma="ČSFR-1_:B_;G_^(Čs._federativní_republika)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ČSFR-1_:B_;G_^(Čs._federativní_republika)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČSFR-1_:B_;G_^(Čs._federativní_republika)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92254-090-p2s4w9">
 <src.rf>manual</src.rf>
@@ -616,7 +630,10 @@
 <LM>w#w-lnd92254-090-p2s4w17</LM>
 </w.rf>
 <form>ME</form>
-<tag lemma="ME-1_:B_;w_^(mistrovství_Evropy)" src="orig" selected="1">NNNXX-----A---8</tag>
+<tag>
+<AM lemma="ME-1_:B_;w_^(mistrovství_Evropy)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="ME-1_:B_^(mistrovství_Evropy)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92254-090-p2s4w18">
 <src.rf>manual</src.rf>
@@ -736,7 +753,10 @@
 <LM>w#w-lnd92254-090-p2s4w32</LM>
 </w.rf>
 <form>Tschechei</form>
-<tag lemma="Tschechei_;G_,t" src="orig" selected="1">NNFXX-----A----</tag>
+<tag>
+<AM lemma="Tschechei_;G_,t" src="orig">NNFXX-----A----</AM>
+<AM lemma="Tschechei-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-lnd92254-090-p2s4w33">
 <src.rf>manual</src.rf>
@@ -776,7 +796,10 @@
 <LM>w#w-lnd92254-090-p2s4w37</LM>
 </w.rf>
 <form>Slowakei</form>
-<tag lemma="Slowakei_;G_,t" src="orig" selected="1">NNFXX-----A----</tag>
+<tag>
+<AM lemma="Slowakei_;G_,t" src="orig">NNFXX-----A----</AM>
+<AM lemma="Slowakei-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-lnd92254-090-p2s4w38">
 <src.rf>manual</src.rf>
@@ -964,7 +987,10 @@
 <LM>w#w-lnd92254-090-p2s6w2</LM>
 </w.rf>
 <form>ČR</form>
-<tag lemma="ČR-1_:B_;G_^(Česká_republika)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92254-090-p2s6w3">
 <src.rf>manual</src.rf>
@@ -1052,7 +1078,10 @@
 <LM>w#w-lnd92254-090-p2s6w13</LM>
 </w.rf>
 <form>SR</form>
-<tag lemma="SR-1_:B_;G_^(Slovenská_republika)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="SR-1_:B_;G_^(Slovenská_republika)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="SR-1_:B_;G_^(Slovenská_republika)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92254-090-p2s6w14">
 <src.rf>manual</src.rf>

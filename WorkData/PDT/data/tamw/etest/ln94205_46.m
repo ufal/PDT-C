@@ -85,7 +85,10 @@
 <LM>w#w-ln94205-46-p2s1Aw3</LM>
 </w.rf>
 <form>ma</form>
-<tag lemma="ma-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="ma-99_:B_;S" src="orig">NNXXX-----A---8</AM>
+<AM lemma="ma-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94205-46-p2s1Aw4">
 <src.rf>manual</src.rf>
@@ -207,7 +210,10 @@
 <LM>w#w-ln94205-46-p2s1Bw13</LM>
 </w.rf>
 <form>SCP</form>
-<tag lemma="SCP-1_:B_;K_;b_^(Středisko_cenných_papírů)" src="orig" selected="1">NNNXX-----A---8</tag>
+<tag>
+<AM lemma="SCP-1_:B_;K_;b_^(Středisko_cenných_papírů)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="SCP-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94205-46-p2s1Bw14">
 <src.rf>manual</src.rf>
@@ -319,7 +325,10 @@
 <LM>w#w-ln94205-46-p2s1Bw27</LM>
 </w.rf>
 <form>SCP</form>
-<tag lemma="SCP-1_:B_;K_;b_^(Středisko_cenných_papírů)" src="orig" selected="1">NNNXX-----A---8</tag>
+<tag>
+<AM lemma="SCP-1_:B_;K_;b_^(Středisko_cenných_papírů)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="SCP-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94205-46-p2s1Bw28">
 <src.rf>manual</src.rf>
@@ -367,7 +376,10 @@
 <LM>w#w-ln94205-46-p2s1Bw33</LM>
 </w.rf>
 <form>RM</form>
-<tag lemma="RM_:B_;K_;b_^(RM-systém)" src="auto" selected="1">AAXXX----1A---8</tag>
+<tag>
+<AM lemma="RM_:B_;K_;b_^(RM-systém)" src="auto">AAXXX----1A---8</AM>
+<AM lemma="RM-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94205-46-p2s1Bw34">
 <src.rf>manual</src.rf>
@@ -481,7 +493,10 @@
 <LM>w#w-ln94205-46-p2s2w8</LM>
 </w.rf>
 <form>RM</form>
-<tag lemma="RM_:B_;K_;b_^(RM-systém)" src="auto" selected="1">AAXXX----1A---8</tag>
+<tag>
+<AM lemma="RM_:B_;K_;b_^(RM-systém)" src="auto">AAXXX----1A---8</AM>
+<AM lemma="RM-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94205-46-p2s2w9">
 <src.rf>manual</src.rf>
@@ -603,7 +618,10 @@
 <LM>w#w-ln94205-46-p3s1w10</LM>
 </w.rf>
 <form>tzv</form>
-<tag lemma="takzvaný_:B" src="orig" selected="1">AAXXX----1A---8</tag>
+<tag>
+<AM lemma="takzvaný_:B" src="orig">AAXXX----1A---8</AM>
+<AM lemma="takzvaný" src="manual" selected="1">AAXXX----1A---8</AM>
+</tag>
 </m>
 <m id="m-ln94205-46-p3s1w11">
 <src.rf>manual</src.rf>
@@ -839,7 +857,10 @@
 <LM>w#w-ln94205-46-p4s1w1</LM>
 </w.rf>
 <form>SCP</form>
-<tag lemma="SCP-1_:B_;K_;b_^(Středisko_cenných_papírů)" src="orig" selected="1">NNNXX-----A---8</tag>
+<tag>
+<AM lemma="SCP-1_:B_;K_;b_^(Středisko_cenných_papírů)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="SCP-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94205-46-p4s1w2">
 <src.rf>manual</src.rf>
@@ -923,7 +944,7 @@
 <form>totiž</form>
 <tag>
 <AM lemma="totiž" src="orig">Db-------------</AM>
-<AM lemma="totiž-1" src="auto" recommended="1">J^-------------</AM>
+<AM lemma="totiž-1" src="auto" recommended="1" selected="1">J^-------------</AM>
 <AM lemma="totiž-2" src="auto">TT-------------</AM>
 </tag>
 </m>
@@ -1103,7 +1124,10 @@
 <LM>w#w-ln94205-46-p4s3w4</LM>
 </w.rf>
 <form>mj</form>
-<tag lemma="mj-1_:B_^(mimo_jiné)" src="orig" selected="1">Db------------8</tag>
+<tag>
+<AM lemma="mj-1_:B_^(mimo_jiné)" src="orig">Db------------8</AM>
+<AM lemma="mj-1_:B_^(mimo_jiné)" src="manual" selected="1">Db-------------</AM>
+</tag>
 </m>
 <m id="m-ln94205-46-p4s3w5">
 <src.rf>manual</src.rf>
@@ -1159,7 +1183,10 @@
 <LM>w#w-ln94205-46-p4s3w11</LM>
 </w.rf>
 <form>kuponové</form>
-<tag lemma="kupónový" src="orig" selected="1">AAFS2----1A----</tag>
+<tag>
+<AM lemma="kupónový" src="orig">AAFS2----1A----</AM>
+<AM lemma="kuponový_,s_^(^DD**kupónový)" src="manual" selected="1">AAFS2----1A----</AM>
+</tag>
 </m>
 <m id="m-ln94205-46-p4s3w12">
 <src.rf>manual</src.rf>

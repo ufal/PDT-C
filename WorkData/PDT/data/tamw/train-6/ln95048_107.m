@@ -475,7 +475,10 @@
 <LM>w#w-ln95048-107-p3s1w11</LM>
 </w.rf>
 <form>Arabové</form>
-<tag lemma="arab" src="orig" selected="1">NNMP1-----A----</tag>
+<tag>
+<AM lemma="arab" src="orig">NNMP1-----A----</AM>
+<AM lemma="Arab_;E" src="manual" selected="1">NNMP1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95048-107-p3s1w12">
 <src.rf>manual</src.rf>
@@ -677,7 +680,11 @@
 <LM>w#w-ln95048-107-p3s2w10</LM>
 </w.rf>
 <form>civilu</form>
-<tag lemma="civil_^(nevoják)" src="auto" selected="1">NNMS6-----A---1</tag>
+<tag>
+<AM lemma="civil_^(nevoják)" src="auto">NNMS6-----A---1</AM>
+<AM lemma="civil_^(civilní_stav,_doba_mimo_voj._služby)" src="manual">NNIS6-----A----</AM>
+<AM lemma="civil-1_^(civilní_stav,_doba_mimo_voj._služby)" src="manual" selected="1">NNIS6-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95048-107-p3s2w11">
 <src.rf>manual</src.rf>
@@ -911,7 +918,10 @@
 <LM>w#w-ln95048-107-p3s3w25</LM>
 </w.rf>
 <form>Araba</form>
-<tag lemma="arab" src="orig" selected="1">NNMS4-----A----</tag>
+<tag>
+<AM lemma="arab" src="orig">NNMS4-----A----</AM>
+<AM lemma="Arab_;E" src="manual" selected="1">NNMS4-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95048-107-p3s3w26">
 <src.rf>manual</src.rf>
@@ -2005,7 +2015,10 @@
 <LM>w#w-ln95048-107-p5s2w8</LM>
 </w.rf>
 <form>Hasan</form>
-<tag lemma="Hasan_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Hasan_;S" src="orig">NNMS1-----A----</AM>
+<AM lemma="Hasan_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95048-107-p5s2w9">
 <src.rf>manual</src.rf>
@@ -2229,7 +2242,10 @@
 <LM>w#w-ln95048-107-p5s2w36</LM>
 </w.rf>
 <form>li</form>
-<tag lemma="li-1" src="auto" selected="1">TT-------------</tag>
+<tag>
+<AM lemma="li-1" src="auto">TT-------------</AM>
+<AM lemma="li-2" src="manual" selected="1">J,-------------</AM>
+</tag>
 </m>
 <m id="m-ln95048-107-p5s2w37">
 <src.rf>manual</src.rf>
@@ -2301,7 +2317,10 @@
 <LM>w#w-ln95048-107-p5s2w45</LM>
 </w.rf>
 <form>li</form>
-<tag lemma="li-1" src="auto" selected="1">TT-------------</tag>
+<tag>
+<AM lemma="li-1" src="auto">TT-------------</AM>
+<AM lemma="li-2" src="manual" selected="1">J,-------------</AM>
+</tag>
 </m>
 <m id="m-ln95048-107-p5s2w46">
 <src.rf>manual</src.rf>
@@ -2383,7 +2402,11 @@
 <LM>w#w-ln95048-107-p6s1w5</LM>
 </w.rf>
 <form>Reuter</form>
-<tag lemma="Reuter_;K" src="orig" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Reuter_;K" src="orig">NNMS1-----A----</AM>
+<AM lemma="Reuter_;K" src="manual">NNXXX-----A----</AM>
+<AM lemma="Reuter-2_;K_^(^DS**Reuters)" src="manual" selected="1">NNIXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95048-107-p6s1w6">
 <src.rf>manual</src.rf>
@@ -2636,6 +2659,7 @@
 <tag>
 <AM lemma="Uri_;Y" src="orig">NNMS1-----A----</AM>
 <AM lemma="Uri_;G" src="auto" recommended="1">NNNXX-----A----</AM>
+<AM lemma="Uri-2_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95048-107-p6s2w9">
@@ -2660,7 +2684,10 @@
 <LM>w#w-ln95048-107-p6s2w11</LM>
 </w.rf>
 <form>nedávno</form>
-<tag lemma="nedávno-1" src="auto" selected="1">Db-------------</tag>
+<tag>
+<AM lemma="nedávno-1" src="auto">Db-------------</AM>
+<AM lemma="dávno-1" src="manual" selected="1">Dg-------1N----</AM>
+</tag>
 </m>
 <m id="m-ln95048-107-p6s2w12">
 <src.rf>manual</src.rf>

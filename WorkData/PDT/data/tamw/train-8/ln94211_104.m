@@ -93,7 +93,10 @@
 <LM>w#w-ln94211-104-p2s1w4</LM>
 </w.rf>
 <form>Philippe</form>
-<tag lemma="Philippe_;Y_,t" src="auto" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Philippe_;Y_,t" src="auto">NNMS1-----A----</AM>
+<AM lemma="Philippe_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94211-104-p2s1w5">
 <src.rf>manual</src.rf>
@@ -197,7 +200,10 @@
 <LM>w#w-ln94211-104-p2s1w17</LM>
 </w.rf>
 <form>d</form>
-<tag lemma="d-4_^(př._d'Artagnan,_stažený_tvar_fr._předl.)" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="d-4_^(př._d'Artagnan,_stažený_tvar_fr._předl.)" src="orig">AAXXX----1A----</AM>
+<AM lemma="d-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94211-104-p2s1w18">
 <src.rf>manual</src.rf>
@@ -455,7 +461,10 @@
 <LM>w#w-ln94211-104-p2s2w17</LM>
 </w.rf>
 <form>ČR</form>
-<tag lemma="ČR-1_:B_;G_^(Česká_republika)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94211-104-p2s2w18">
 <src.rf>manual</src.rf>
@@ -1058,6 +1067,7 @@
 <tag>
 <AM lemma="Kč" src="orig">NNFXX-----A----</AM>
 <AM lemma="Kč_:B" src="auto" recommended="1">NNFXX-----A---8</AM>
+<AM lemma="Kč_:B" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94211-104-p2s6w18">

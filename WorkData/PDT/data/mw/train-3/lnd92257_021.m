@@ -19,7 +19,10 @@
 <LM>w#w-lnd92257-021-p1s1w1</LM>
 </w.rf>
 <form>Ohlášená</form>
-<tag lemma="ohlášený_,a_^(*4sit)" src="auto" selected="1">AAFS1----1A----</tag>
+<tag>
+<AM lemma="ohlášený_,a_^(*4sit)" src="auto">AAFS1----1A----</AM>
+<AM lemma="ohlášený_^(*4sit)" src="manual" selected="1">AAFS1----1A----</AM>
+</tag>
 </m>
 <m id="m-lnd92257-021-p1s1w2">
 <src.rf>manual</src.rf>
@@ -43,7 +46,10 @@
 <LM>w#w-lnd92257-021-p1s1w4</LM>
 </w.rf>
 <form>Animal</form>
-<tag lemma="Animal_;K_,t" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="Animal_;K_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="Animal-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-lnd92257-021-p1s1w5">
 <src.rf>manual</src.rf>
@@ -56,6 +62,7 @@
 <AM lemma="SOS_:B" src="auto">TT------------8</AM>
 <AM lemma="sos-1" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="sos-1" src="auto">NNIS4-----A----</AM>
+<AM lemma="SOS-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-lnd92257-021-p1s1w6">
@@ -104,7 +111,10 @@
 <LM>w#w-lnd92257-021-p1s1w11</LM>
 </w.rf>
 <form>jen</form>
-<tag lemma="jen-1" src="auto" selected="1">TT-------------</tag>
+<tag>
+<AM lemma="jen-1" src="auto">TT-------------</AM>
+<AM lemma="jen-4_^(pouze)" src="manual" selected="1">Db-------------</AM>
+</tag>
 </m>
 <m id="m-lnd92257-021-p1s1w12">
 <src.rf>manual</src.rf>
@@ -170,7 +180,10 @@
 <LM>w#w-lnd92257-021-p1s2w1</LM>
 </w.rf>
 <form>Animal</form>
-<tag lemma="Animal_;K_,t" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="Animal_;K_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="Animal-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-lnd92257-021-p1s2w2">
 <src.rf>manual</src.rf>
@@ -183,6 +196,7 @@
 <AM lemma="SOS_:B" src="auto">TT------------8</AM>
 <AM lemma="sos-1" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="sos-1" src="auto">NNIS4-----A----</AM>
+<AM lemma="SOS-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-lnd92257-021-p1s2w3">

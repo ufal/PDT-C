@@ -77,7 +77,10 @@
 <LM>w#w-mf920922-130-p1s1Bw4</LM>
 </w.rf>
 <form>KANIBALISMU</form>
-<tag lemma="kanibalismus" src="orig" selected="1">NNIS6-----A----</tag>
+<tag>
+<AM lemma="kanibalismus" src="orig">NNIS6-----A----</AM>
+<AM lemma="kanibalismus_,s_^(^DD**kanibalizmus)" src="manual" selected="1">NNIS6-----A----</AM>
+</tag>
 </m>
 </s>
 <s id="m-mf920922-130-p2s1">
@@ -154,7 +157,7 @@
 </w.rf>
 <form>Alejandro</form>
 <tag>
-<AM lemma="Alejandro-2_;Y" src="orig">NNMS1-----A----</AM>
+<AM lemma="Alejandro-2_;Y" src="orig" selected="1">NNMS1-----A----</AM>
 <AM lemma="Alejandro_;G" src="auto" recommended="1">NNNS1-----A----</AM>
 <AM lemma="Alejandro_;G" src="auto">NNNS4-----A----</AM>
 <AM lemma="Alejandro_;G" src="auto">NNNS5-----A----</AM>
@@ -167,7 +170,7 @@
 </w.rf>
 <form>Sale</form>
 <tag>
-<AM lemma="Sale-2_;S" src="orig">NNMS1-----A----</AM>
+<AM lemma="Sale-2_;S" src="orig" selected="1">NNMS1-----A----</AM>
 <AM lemma="Sal-1_;Y" src="auto">NNMS5-----A----</AM>
 <AM lemma="Sala_;G" src="auto">NNFS3-----A----</AM>
 <AM lemma="Sala_;G" src="auto">NNFS6-----A----</AM>
@@ -212,7 +215,10 @@
 <LM>w#w-mf920922-130-p2s2w13</LM>
 </w.rf>
 <form>Philippine</form>
-<tag lemma="Philippine_;R_,t" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="Philippine_;R_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="Philippine-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-mf920922-130-p2s2w14">
 <src.rf>manual</src.rf>
@@ -225,6 +231,7 @@
 <AM lemma="star" src="auto" recommended="1">NNFXX-----A----</AM>
 <AM lemma="star" src="auto">NNIS1-----A----</AM>
 <AM lemma="star" src="auto">NNIS4-----A----</AM>
+<AM lemma="Star-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-mf920922-130-p2s2w15">
@@ -364,7 +371,7 @@
 <tag>
 <AM lemma="nalézt" src="orig">VpYS---XR-AA---</AM>
 <AM lemma="nalézt-1_^(někam)" src="auto" recommended="1">VpYS---XR-AA---</AM>
-<AM lemma="nalézt-2" src="auto">VpYS---XR-AA---</AM>
+<AM lemma="nalézt-2" src="auto" selected="1">VpYS---XR-AA---</AM>
 </tag>
 </m>
 <m id="m-mf920922-130-p2s2w32">
@@ -413,7 +420,10 @@
 <LM>w#w-mf920922-130-p2s2w37</LM>
 </w.rf>
 <form>kanibalismu</form>
-<tag lemma="kanibalismus" src="orig" selected="1">NNIS6-----A----</tag>
+<tag>
+<AM lemma="kanibalismus" src="orig">NNIS6-----A----</AM>
+<AM lemma="kanibalismus_,s_^(^DD**kanibalizmus)" src="manual" selected="1">NNIS6-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920922-130-p2s2w38">
 <src.rf>manual</src.rf>
@@ -553,7 +563,7 @@
 <form>táboře</form>
 <tag>
 <AM lemma="tábor" src="orig">NNIS6-----A----</AM>
-<AM lemma="tábor-1" src="auto" recommended="1">NNIS6-----A---1</AM>
+<AM lemma="tábor-1" src="auto" recommended="1" selected="1">NNIS6-----A---1</AM>
 <AM lemma="tábořit_:T" src="auto">VeYS------A----</AM>
 </tag>
 </m>
@@ -583,6 +593,7 @@
 <AM lemma="Mount_;G_,t" src="orig">NNIXX-----A----</AM>
 <AM lemma="Mount_;G_,t_^(hora,_v_názvech_hor)" src="auto">NNFXX-----A----</AM>
 <AM lemma="mount_,t" src="auto" recommended="1">NNIXX-----A----</AM>
+<AM lemma="Mount-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-mf920922-130-p2s3w18">
@@ -591,7 +602,10 @@
 <LM>w#w-mf920922-130-p2s3w18</LM>
 </w.rf>
 <form>Kitanland</form>
-<tag lemma="Kitanland_;G" src="orig" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="Kitanland_;G" src="orig">NNIS1-----A----</AM>
+<AM lemma="Kitanland-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-mf920922-130-p2s3w19">
 <src.rf>manual</src.rf>
@@ -1055,7 +1069,7 @@
 <form>Tokio</form>
 <tag>
 <AM lemma="Tokyo_;G" src="orig">NNNS1-----A----</AM>
-<AM lemma="Tokio_;G" src="auto" recommended="1">NNNS1-----A----</AM>
+<AM lemma="Tokio_;G" src="auto" recommended="1" selected="1">NNNS1-----A----</AM>
 <AM lemma="Tokio_;G" src="auto">NNNS4-----A----</AM>
 <AM lemma="Tokio_;G" src="auto">NNNS5-----A----</AM>
 </tag>

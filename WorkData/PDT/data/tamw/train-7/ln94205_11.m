@@ -313,7 +313,10 @@
 <LM>w#w-ln94205-11-p2s2w10</LM>
 </w.rf>
 <form>ČOI</form>
-<tag lemma="ČOI_:B_;K" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ČOI_:B_;K" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČOI-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94205-11-p2s2w11">
 <src.rf>manual</src.rf>
@@ -637,7 +640,10 @@
 <LM>w#w-ln94205-11-p3s2w21</LM>
 </w.rf>
 <form>zejména</form>
-<tag lemma="zejména-1" src="auto" selected="1">Db-------------</tag>
+<tag>
+<AM lemma="zejména-1" src="auto">Db-------------</AM>
+<AM lemma="zejména-2" src="manual" selected="1">TT-------------</AM>
+</tag>
 </m>
 <m id="m-ln94205-11-p3s2w22">
 <src.rf>manual</src.rf>
@@ -1433,7 +1439,10 @@
 <LM>w#w-ln94205-11-p5s3w10</LM>
 </w.rf>
 <form>jako</form>
-<tag lemma="jako-1" src="auto" selected="1">J,-------------</tag>
+<tag>
+<AM lemma="jako-1" src="auto" selected="1">J,-------------</AM>
+<AM lemma="jako-2" src="manual">Db-------------</AM>
+</tag>
 </m>
 <m id="m-ln94205-11-p5s3w11">
 <src.rf>manual</src.rf>
@@ -1611,7 +1620,10 @@
 <LM>w#w-ln94205-11-p6s1w17</LM>
 </w.rf>
 <form>SRN</form>
-<tag lemma="SRN_:B_;G" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="SRN_:B_;G" src="orig">NNFXX-----A---8</AM>
+<AM lemma="SRN-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94205-11-p6s1w18">
 <src.rf>manual</src.rf>
@@ -2490,6 +2502,7 @@
 <AM lemma="doktor_:B_^(doktor,_akad._titul)" src="auto">NNMXX-----A---8</AM>
 <AM lemma="doktor_:B_^(doktor,_akad._titul)" src="auto" recommended="1">NNXXX-----A---8</AM>
 <AM lemma="doktorka_:B_^(doktorka,_akad._titul)" src="auto">NNFXX-----A---8</AM>
+<AM lemma="dr-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94205-11-p7s2w3">

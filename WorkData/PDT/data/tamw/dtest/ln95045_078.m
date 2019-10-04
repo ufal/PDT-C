@@ -27,7 +27,10 @@
 <LM>w#w-ln95045-078-p1s1w2</LM>
 </w.rf>
 <form>LUNSZ</form>
-<tag lemma="LUNSZ_:B_;K" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="LUNSZ_:B_;K" src="orig">NNFXX-----A---8</AM>
+<AM lemma="LUNSZ-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95045-078-p1s1w3">
 <src.rf>manual</src.rf>
@@ -210,7 +213,10 @@
 <LM>w#w-ln95045-078-p2s1Cw14</LM>
 </w.rf>
 <form>LUNSZ</form>
-<tag lemma="LUNSZ_:B_;K" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="LUNSZ_:B_;K" src="orig">NNFXX-----A---8</AM>
+<AM lemma="LUNSZ-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95045-078-p2s1Cw15">
 <src.rf>manual</src.rf>
@@ -278,6 +284,7 @@
 <AM lemma="ÚV_:B_;K" src="orig">NNIXX-----A---8</AM>
 <AM lemma="ÚV-1_:B_^(ústřední_výbor)" src="auto" recommended="1">NNIXX-----A---8</AM>
 <AM lemma="ÚV-2_:B_^(účet_volaného)" src="auto">NNIXX-----A---8</AM>
+<AM lemma="ÚV-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95045-078-p2s1Cw23">
@@ -286,7 +293,10 @@
 <LM>w#w-ln95045-078-p2s1Cw23</LM>
 </w.rf>
 <form>KSČ</form>
-<tag lemma="KSČ-1_:B_;K_^(Komunistická_strana_Československa)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="KSČ-1_:B_;K_^(Komunistická_strana_Československa)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="KSČ-1_:B_;K_^(Komunistická_strana_Československa)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95045-078-p2s1Cw24">
 <src.rf>manual</src.rf>
@@ -302,7 +312,10 @@
 <LM>w#w-ln95045-078-p2s1Cw25</LM>
 </w.rf>
 <form>Štěpán</form>
-<tag lemma="Štěpán_;Y" src="orig" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Štěpán_;Y" src="orig">NNMS1-----A----</AM>
+<AM lemma="Štěpán_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95045-078-p2s1Cw26">
 <src.rf>manual</src.rf>
@@ -680,7 +693,10 @@
 <LM>w#w-ln95045-078-p2s2w36</LM>
 </w.rf>
 <form>ČR</form>
-<tag lemma="ČR-1_:B_;G_^(Česká_republika)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95045-078-p2s2w37">
 <src.rf>manual</src.rf>

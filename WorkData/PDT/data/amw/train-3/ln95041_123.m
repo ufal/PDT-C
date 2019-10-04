@@ -70,7 +70,7 @@
 <form>Stamiliónovým</form>
 <tag>
 <AM lemma="stamiliónový" src="orig">NNMP3-----A----</AM>
-<AM lemma="stamiliónový" src="auto" recommended="1">AAFP3----1A----</AM>
+<AM lemma="stamiliónový" src="auto" recommended="1" selected="1">AAFP3----1A----</AM>
 <AM lemma="stamiliónový" src="auto">AAIP3----1A----</AM>
 <AM lemma="stamiliónový" src="auto">AAIS6----1A---7</AM>
 <AM lemma="stamiliónový" src="auto">AAIS7----1A----</AM>
@@ -364,7 +364,10 @@
 <LM>w#w-ln95041-123-p3s2w5</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-2" src="auto" selected="1">Dg-------2A----</tag>
+<tag>
+<AM lemma="hodně-2" src="auto">Dg-------2A----</AM>
+<AM lemma="hodně-3" src="manual" selected="1">Dg-------2A----</AM>
+</tag>
 </m>
 <m id="m-ln95041-123-p3s2w6">
 <src.rf>manual</src.rf>
@@ -768,7 +771,10 @@
 <LM>w#w-ln95041-123-p4s1w23</LM>
 </w.rf>
 <form>radě</form>
-<tag lemma="rada-3_^(poradní_sbor;_př._Česká_národní_r.)" src="orig" selected="1">NNFS3-----A----</tag>
+<tag>
+<AM lemma="rada-3_^(poradní_sbor;_př._Česká_národní_r.)" src="orig">NNFS3-----A----</AM>
+<AM lemma="rada-1_^(př._dát_někomu_dobrou_radu;poradní_sbor)" src="manual" selected="1">NNFS3-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95041-123-p4s1w24">
 <src.rf>manual</src.rf>
@@ -1575,7 +1581,10 @@
 <LM>w#w-ln95041-123-p5s4w15</LM>
 </w.rf>
 <form>ČR</form>
-<tag lemma="ČR-1_:B_;G_^(Česká_republika)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95041-123-p5s4w16">
 <src.rf>manual</src.rf>
@@ -2385,7 +2394,10 @@
 <LM>w#w-ln95041-123-p6s5w17</LM>
 </w.rf>
 <form>začala</form>
-<tag lemma="začít-1_^(začnout)" src="auto" selected="1">VpQW---XR-AA---</tag>
+<tag>
+<AM lemma="začít-1_^(začnout)" src="auto">VpQW---XR-AA---</AM>
+<AM lemma="začít-1_:W_^(začnout)" src="manual" selected="1">VpQW---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-ln95041-123-p6s5w18">
 <src.rf>manual</src.rf>
@@ -2571,7 +2583,10 @@
 <LM>w#w-ln95041-123-p6s6w15</LM>
 </w.rf>
 <form>neschopností</form>
-<tag lemma="neschopnost_;U_;j_^(odb._termín:_pracovní_n.)" src="auto" selected="1">NNFS7-----A----</tag>
+<tag>
+<AM lemma="neschopnost_;U_;j_^(odb._termín:_pracovní_n.)" src="auto">NNFS7-----A----</AM>
+<AM lemma="neschopnost_;U_^(odb._termín:_pracovní_n.)" src="manual" selected="1">NNFS7-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95041-123-p6s6w16">
 <src.rf>manual</src.rf>

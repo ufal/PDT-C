@@ -85,7 +85,10 @@
 <LM>w#w-mf930713-079-p2s1w7</LM>
 </w.rf>
 <form>civilu</form>
-<tag lemma="civil_^(nevoják)" src="auto" selected="1">NNMS6-----A---1</tag>
+<tag>
+<AM lemma="civil_^(nevoják)" src="auto">NNMS6-----A---1</AM>
+<AM lemma="civil_^(civilní_stav,_doba_mimo_voj._služby)" src="manual" selected="1">NNIS6-----A---1</AM>
+</tag>
 </m>
 </s>
 <s id="m-mf930713-079-p3s1">
@@ -95,7 +98,10 @@
 <LM>w#w-mf930713-079-p3s1w1</LM>
 </w.rf>
 <form>str</form>
-<tag lemma="strana-4_:B" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="strana-4_:B" src="orig">NNFXX-----A---8</AM>
+<AM lemma="strana" src="manual" selected="1">NNFXX-----A---9</AM>
+</tag>
 </m>
 <m id="m-mf930713-079-p3s1w2">
 <src.rf>manual</src.rf>
@@ -195,7 +201,10 @@
 <LM>w#w-mf930713-079-p5s1w1</LM>
 </w.rf>
 <form>str</form>
-<tag lemma="strana-4_:B" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="strana-4_:B" src="orig">NNFXX-----A---8</AM>
+<AM lemma="strana" src="manual" selected="1">NNFXX-----A---9</AM>
+</tag>
 </m>
 <m id="m-mf930713-079-p5s1w2">
 <src.rf>manual</src.rf>
@@ -297,7 +306,10 @@
 <LM>w#w-mf930713-079-p8s1w1</LM>
 </w.rf>
 <form>str</form>
-<tag lemma="strana-4_:B" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="strana-4_:B" src="orig">NNFXX-----A---8</AM>
+<AM lemma="strana" src="manual" selected="1">NNFXX-----A---9</AM>
+</tag>
 </m>
 <m id="m-mf930713-079-p8s1w2">
 <src.rf>manual</src.rf>
@@ -349,7 +361,10 @@
 <LM>w#w-mf930713-079-p10s1w3</LM>
 </w.rf>
 <form>Czech</form>
-<tag lemma="Czech-2_,t" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="Czech-2_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="Czech-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-mf930713-079-p10s1w4">
 <src.rf>manual</src.rf>
@@ -362,6 +377,8 @@
 <AM lemma="Mad_;G" src="auto">NNIS5-----A----</AM>
 <AM lemma="Mad_;G" src="auto" recommended="1">NNIS6-----A----</AM>
 <AM lemma="made_,t" src="auto">XX-------------</AM>
+<AM lemma="made_,t" src="manual">NNXXX-----A----</AM>
+<AM lemma="Made-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-mf930713-079-p10s1w5">
@@ -412,7 +429,10 @@
 <LM>w#w-mf930713-079-p11s1w1</LM>
 </w.rf>
 <form>str</form>
-<tag lemma="strana-4_:B" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="strana-4_:B" src="orig">NNFXX-----A---8</AM>
+<AM lemma="strana" src="manual" selected="1">NNFXX-----A---9</AM>
+</tag>
 </m>
 <m id="m-mf930713-079-p11s1w2">
 <src.rf>manual</src.rf>

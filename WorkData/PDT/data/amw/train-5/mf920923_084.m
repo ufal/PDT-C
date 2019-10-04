@@ -62,7 +62,7 @@
 </w.rf>
 <form>sch</form>
 <tag>
-<AM lemma="sch-99_:B_;S" src="orig">NNXXX-----A---8</AM>
+<AM lemma="sch-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</AM>
 <AM lemma="schnout" src="auto" recommended="1">VpYS---XR-AA--6</AM>
 </tag>
 </m>
@@ -486,7 +486,10 @@
 <LM>w#w-mf920923-084-p2s4w21</LM>
 </w.rf>
 <form>OHS</form>
-<tag lemma="OHS-1_:B_^(okresní_hygienická_stanice)" src="auto" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="OHS-1_:B_^(okresní_hygienická_stanice)" src="auto">NNFXX-----A---8</AM>
+<AM lemma="OHS-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-mf920923-084-p2s4w22">
 <src.rf>manual</src.rf>
@@ -1009,7 +1012,7 @@
 <tag>
 <AM lemma="tady" src="orig">Db------------1</AM>
 <AM lemma="ten" src="auto" recommended="1">PDFS4----------</AM>
-<AM lemma="tu" src="auto">Db-------------</AM>
+<AM lemma="tu" src="auto" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m-mf920923-084-p2s7w5">

@@ -369,7 +369,10 @@
 <LM>w#w-mf930709-147-p2s2w6</LM>
 </w.rf>
 <form>ITAR</form>
-<tag lemma="ITAR_:B_;K" src="auto" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="ITAR_:B_;K" src="auto">NNIXX-----A---8</AM>
+<AM lemma="ITAR-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-mf930709-147-p2s2w7">
 <src.rf>manual</src.rf>
@@ -385,7 +388,10 @@
 <LM>w#w-mf930709-147-p2s2w8</LM>
 </w.rf>
 <form>TASS</form>
-<tag lemma="TASS_:B_;K" src="auto" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="TASS_:B_;K" src="auto">NNXXX-----A---8</AM>
+<AM lemma="TASS-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-mf930709-147-p2s2w9">
 <src.rf>manual</src.rf>
@@ -723,7 +729,10 @@
 <LM>w#w-mf930709-147-p2s3w35</LM>
 </w.rf>
 <form>Sin</form>
-<tag lemma="Sina_;G" src="orig" selected="1">NNFP2-----A----</tag>
+<tag>
+<AM lemma="Sina_;G" src="orig">NNFP2-----A----</AM>
+<AM lemma="Sin-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-mf930709-147-p2s3w36">
 <src.rf>manual</src.rf>
@@ -739,7 +748,10 @@
 <LM>w#w-mf930709-147-p2s3w37</LM>
 </w.rf>
 <form>kan</form>
-<tag lemma="kana" src="orig" selected="1">NNFP2-----A----</tag>
+<tag>
+<AM lemma="kana" src="orig">NNFP2-----A----</AM>
+<AM lemma="kan-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-mf930709-147-p2s3w38">
 <src.rf>manual</src.rf>
@@ -781,7 +793,10 @@
 <LM>w#w-mf930709-147-p2s4w4</LM>
 </w.rf>
 <form>ITAR</form>
-<tag lemma="ITAR_:B_;K" src="auto" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="ITAR_:B_;K" src="auto">NNIXX-----A---8</AM>
+<AM lemma="ITAR-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-mf930709-147-p2s4w5">
 <src.rf>manual</src.rf>
@@ -797,7 +812,10 @@
 <LM>w#w-mf930709-147-p2s4w6</LM>
 </w.rf>
 <form>TASS</form>
-<tag lemma="TASS_:B_;K" src="auto" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="TASS_:B_;K" src="auto">NNXXX-----A---8</AM>
+<AM lemma="TASS-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-mf930709-147-p2s4w7">
 <src.rf>manual</src.rf>
@@ -1007,7 +1025,10 @@
 <LM>w#w-mf930709-147-p2s5w18</LM>
 </w.rf>
 <form>neprodleně</form>
-<tag lemma="neprodleně_^(*1ý)" src="auto" selected="1">Dg-------1A----</tag>
+<tag>
+<AM lemma="neprodleně_^(*1ý)" src="auto">Dg-------1A----</AM>
+<AM lemma="prodleně_^(*1ý)" src="manual" selected="1">Dg-------1N----</AM>
+</tag>
 </m>
 <m id="m-mf930709-147-p2s5w19">
 <src.rf>manual</src.rf>
@@ -1225,7 +1246,10 @@
 <LM>w#w-mf930709-147-p2s6w7</LM>
 </w.rf>
 <form>ITAR</form>
-<tag lemma="ITAR_:B_;K" src="auto" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="ITAR_:B_;K" src="auto">NNIXX-----A---8</AM>
+<AM lemma="ITAR-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-mf930709-147-p2s6w8">
 <src.rf>manual</src.rf>
@@ -1241,7 +1265,10 @@
 <LM>w#w-mf930709-147-p2s6w9</LM>
 </w.rf>
 <form>TASS</form>
-<tag lemma="TASS_:B_;K" src="auto" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="TASS_:B_;K" src="auto">NNXXX-----A---8</AM>
+<AM lemma="TASS-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-mf930709-147-p2s6w10">
 <src.rf>manual</src.rf>

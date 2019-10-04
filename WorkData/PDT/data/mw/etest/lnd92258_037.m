@@ -335,7 +335,10 @@
 <LM>w#w-lnd92258-037-p2s2w34</LM>
 </w.rf>
 <form>FOS</form>
-<tag lemma="fosa_;L_^(živočich,_cibetkovitá_šelma)" src="orig" selected="1">NNFP2-----A----</tag>
+<tag>
+<AM lemma="fosa_;L_^(živočich,_cibetkovitá_šelma)" src="orig">NNFP2-----A----</AM>
+<AM lemma="FOS-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd92258-037-p2s2w35">
 <src.rf>manual</src.rf>
@@ -343,7 +346,10 @@
 <LM>w#w-lnd92258-037-p2s2w35</LM>
 </w.rf>
 <form>PHGN</form>
-<tag lemma="PHGN_:B_;K_^(Prac._horn.,_geol._a_naft._prům.,ve_FOS_PHGN)" src="orig" selected="1">NNIP2-----A---8</tag>
+<tag>
+<AM lemma="PHGN_:B_;K_^(Prac._horn.,_geol._a_naft._prům.,ve_FOS_PHGN)" src="orig">NNIP2-----A---8</AM>
+<AM lemma="PHGN-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd92258-037-p2s2w36">
 <src.rf>manual</src.rf>
@@ -553,7 +559,7 @@
 <AM lemma="dřívější" src="auto">AAIP6----2A----</AM>
 <AM lemma="dřívější" src="auto">AAMP2----2A----</AM>
 <AM lemma="dřívější" src="auto">AAMP6----2A----</AM>
-<AM lemma="dřívější" src="auto" recommended="1">AANP2----2A----</AM>
+<AM lemma="dřívější" src="auto" recommended="1" selected="1">AANP2----2A----</AM>
 <AM lemma="dřívější" src="auto">AANP6----2A----</AM>
 </tag>
 </m>

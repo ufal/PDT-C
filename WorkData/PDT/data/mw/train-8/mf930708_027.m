@@ -187,6 +187,7 @@
 <AM lemma="PKO-3_:B_;K_^(PKO_Košice)" src="orig">NNXXX-----A---8</AM>
 <AM lemma="PKO-1_:B_;K_^(Park_kultury_a_oddechu)" src="auto">NNIXX-----A---8</AM>
 <AM lemma="PKO-2_:B_;K_^(Pražský_komorní_orchestr)" src="auto" recommended="1">NNIXX-----A---8</AM>
+<AM lemma="PKO-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-mf930708-027-p2s2w9">
@@ -373,7 +374,10 @@
 <LM>w#w-mf930708-027-p2s3w21</LM>
 </w.rf>
 <form>Sk</form>
-<tag lemma="Sk_:B_;K" src="auto" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="Sk_:B_;K" src="auto">NNFXX-----A---8</AM>
+<AM lemma="Sk-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-mf930708-027-p2s3w22">
 <src.rf>manual</src.rf>
@@ -495,7 +499,10 @@
 <LM>w#w-mf930708-027-p2s4w14</LM>
 </w.rf>
 <form>Sk</form>
-<tag lemma="Sk_:B_;K" src="auto" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="Sk_:B_;K" src="auto">NNFXX-----A---8</AM>
+<AM lemma="Sk-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-mf930708-027-p2s4w15">
 <src.rf>manual</src.rf>
@@ -624,7 +631,10 @@
 <LM>w#w-mf930708-027-p2s4w30</LM>
 </w.rf>
 <form>Sk</form>
-<tag lemma="Sk_:B_;K" src="auto" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="Sk_:B_;K" src="auto">NNFXX-----A---8</AM>
+<AM lemma="Sk-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-mf930708-027-p2s4w31">
 <src.rf>manual</src.rf>

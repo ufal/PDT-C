@@ -111,7 +111,10 @@
 <LM>w#w-ln95040-132-p2s1Bw6</LM>
 </w.rf>
 <form>ČR</form>
-<tag lemma="ČR-1_:B_;G_^(Česká_republika)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95040-132-p2s1Bw7">
 <src.rf>manual</src.rf>
@@ -409,7 +412,10 @@
 <LM>w#w-ln95040-132-p2s2w22</LM>
 </w.rf>
 <form>Body</form>
-<tag lemma="Body_;Y_,t" src="auto" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Body_;Y_,t" src="auto">NNMS1-----A----</AM>
+<AM lemma="Body_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95040-132-p2s2w23">
 <src.rf>manual</src.rf>
@@ -547,7 +553,10 @@
 <LM>w#w-ln95040-132-p2s3w17</LM>
 </w.rf>
 <form>WD</form>
-<tag lemma="WD_:B_;K_,t" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="WD_:B_;K_,t" src="orig">NNXXX-----A---8</AM>
+<AM lemma="WD-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln95040-132-p2s3w18">
 <src.rf>manual</src.rf>

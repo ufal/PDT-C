@@ -28,7 +28,7 @@
 </w.rf>
 <form>Jimenez</form>
 <tag>
-<AM lemma="Jimenez_;S" src="orig">NNMS1-----A----</AM>
+<AM lemma="Jimenez_;S" src="orig" selected="1">NNMS1-----A----</AM>
 <AM lemma="Jiménes_;S" src="auto" recommended="1">NNMS1-----A----</AM>
 </tag>
 </m>
@@ -62,7 +62,10 @@
 <LM>w#w-mf920901-058-p2s1w6</LM>
 </w.rf>
 <form>San</form>
-<tag lemma="San-2_;G" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="San-2_;G" src="orig">AAXXX----1A----</AM>
+<AM lemma="San-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-mf920901-058-p2s1w7">
 <src.rf>manual</src.rf>
@@ -70,7 +73,10 @@
 <LM>w#w-mf920901-058-p2s1w7</LM>
 </w.rf>
 <form>Francisku</form>
-<tag lemma="Francisko_;G" src="orig" selected="1">NNNS6-----A----</tag>
+<tag>
+<AM lemma="Francisko_;G" src="orig">NNNS6-----A----</AM>
+<AM lemma="Francisko-2_;G_,s_^(^DD**Francisco)" src="manual" selected="1">NNNS6-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920901-058-p2s1w8">
 <src.rf>manual</src.rf>
@@ -293,6 +299,7 @@
 <tag>
 <AM lemma="PM_:B_;m" src="orig">NNIXX-----A---8</AM>
 <AM lemma="Pm_:B_^(promethium)" src="auto" recommended="1">NNXXX-----A---8</AM>
+<AM lemma="PM-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-mf920901-058-p3s1w4">
@@ -301,7 +308,10 @@
 <LM>w#w-mf920901-058-p3s1w4</LM>
 </w.rf>
 <form>Eurotrade</form>
-<tag lemma="Eurotrade_;m" src="orig" selected="1">NNIXX-----A----</tag>
+<tag>
+<AM lemma="Eurotrade_;m" src="orig">NNIXX-----A----</AM>
+<AM lemma="Eurotrade-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-mf920901-058-p3s1w5">
 <src.rf>manual</src.rf>
@@ -423,7 +433,10 @@
 <LM>w#w-mf920901-058-p3s2w3</LM>
 </w.rf>
 <form>SKP</form>
-<tag lemma="SKP_:B_;K" src="auto" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="SKP_:B_;K" src="auto">NNXXX-----A---8</AM>
+<AM lemma="SKP-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-mf920901-058-p3s2w4">
 <src.rf>manual</src.rf>
@@ -603,7 +616,10 @@
 <LM>w#w-mf920901-058-p3s4w1</LM>
 </w.rf>
 <form>T</form>
-<tag lemma="T-0_:B_;Y" src="orig" selected="1">NNMXX-----A---8</tag>
+<tag>
+<AM lemma="T-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
+<AM lemma="T-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-mf920901-058-p3s4w2">
 <src.rf>manual</src.rf>
@@ -811,7 +827,10 @@
 <LM>w#w-mf920901-058-p3s8w1</LM>
 </w.rf>
 <form>SKP</form>
-<tag lemma="SKP_:B_;K" src="auto" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="SKP_:B_;K" src="auto">NNXXX-----A---8</AM>
+<AM lemma="SKP-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-mf920901-058-p3s8w2">
 <src.rf>manual</src.rf>
@@ -919,7 +938,10 @@
 <LM>w#w-mf920901-058-p4s1w5</LM>
 </w.rf>
 <form>NH</form>
-<tag lemma="NH_:B_;K" src="auto" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="NH_:B_;K" src="auto">NNXXX-----A---8</AM>
+<AM lemma="NH-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-mf920901-058-p4s1w6">
 <src.rf>manual</src.rf>
@@ -1071,7 +1093,10 @@
 <LM>w#w-mf920901-058-p4s1w24</LM>
 </w.rf>
 <form>St</form>
-<tag lemma="St-6_:B_,t_^(saint,_svatý)" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="St-6_:B_,t_^(saint,_svatý)" src="orig">AAXXX----1A----</AM>
+<AM lemma="St-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-mf920901-058-p4s1w25">
 <src.rf>manual</src.rf>
@@ -1087,7 +1112,10 @@
 <LM>w#w-mf920901-058-p4s1w26</LM>
 </w.rf>
 <form>Jean</form>
-<tag lemma="Jean_;Y" src="orig" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Jean_;Y" src="orig">NNMS1-----A----</AM>
+<AM lemma="Jean-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-mf920901-058-p4s1w27">
 <src.rf>manual</src.rf>
@@ -1099,6 +1127,7 @@
 <AM lemma="Orleans_;G_,t" src="orig">NNISX-----A----</AM>
 <AM lemma="Orleans_;G" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Orleans_;G" src="auto">NNIS4-----A----</AM>
+<AM lemma="Orleans-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-mf920901-058-p4s1w28">
@@ -1115,7 +1144,10 @@
 <LM>w#w-mf920901-058-p4s1w29</LM>
 </w.rf>
 <form>Fr</form>
-<tag lemma="Francie_:B_;G" src="auto" selected="1">NNFSX-----A----</tag>
+<tag>
+<AM lemma="Francie_:B_;G" src="auto">NNFSX-----A----</AM>
+<AM lemma="Francie_:B_;G" src="manual" selected="1">NNFXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920901-058-p4s1w30">
 <src.rf>manual</src.rf>

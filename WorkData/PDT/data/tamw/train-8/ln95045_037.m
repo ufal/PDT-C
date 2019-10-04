@@ -273,7 +273,10 @@
 <LM>w#w-ln95045-037-p2s2w3</LM>
 </w.rf>
 <form>li</form>
-<tag lemma="li-1" src="auto" selected="1">TT-------------</tag>
+<tag>
+<AM lemma="li-1" src="auto">TT-------------</AM>
+<AM lemma="li-2" src="manual" selected="1">J,-------------</AM>
+</tag>
 </m>
 <m id="m-ln95045-037-p2s2w4">
 <src.rf>manual</src.rf>
@@ -628,7 +631,7 @@
 </w.rf>
 <form>Folk</form>
 <tag>
-<AM lemma="folk-2" src="orig">A2--------A----</AM>
+<AM lemma="folk-2" src="orig" selected="1">A2--------A----</AM>
 <AM lemma="Folk_;S" src="auto">NNMS1-----A----</AM>
 <AM lemma="folk" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="folk" src="auto">NNIS4-----A----</AM>
@@ -801,7 +804,7 @@
 </w.rf>
 <form>Jánského</form>
 <tag>
-<AM lemma="Jánský_;S" src="orig">NNMS2-----A----</AM>
+<AM lemma="Jánský_;S" src="orig" selected="1">NNMS2-----A----</AM>
 <AM lemma="Jánský_;G" src="auto">AAIS2----1A----</AM>
 <AM lemma="Jánský_;G" src="auto" recommended="1">AAMS2----1A----</AM>
 <AM lemma="Jánský_;G" src="auto">AAMS4----1A----</AM>
@@ -836,7 +839,10 @@
 <LM>w#w-ln95045-037-p2s4w2</LM>
 </w.rf>
 <form>jako</form>
-<tag lemma="jako-1" src="auto" selected="1">J,-------------</tag>
+<tag>
+<AM lemma="jako-1" src="auto">J,-------------</AM>
+<AM lemma="jako-4" src="manual" selected="1">J^-------------</AM>
+</tag>
 </m>
 <m id="m-ln95045-037-p2s4w3">
 <src.rf>manual</src.rf>
@@ -1490,7 +1496,10 @@
 <LM>w#w-ln95045-037-p3s2w16</LM>
 </w.rf>
 <form>kurz</form>
-<tag lemma="kurs" src="auto" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="kurs" src="auto">NNIS1-----A----</AM>
+<AM lemma="kurz" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95045-037-p3s2w17">
 <src.rf>manual</src.rf>
@@ -1546,7 +1555,10 @@
 <LM>w#w-ln95045-037-p3s2w23</LM>
 </w.rf>
 <form>Více</form>
-<tag lemma="hodně-2" src="auto" selected="1">Dg-------2A----</tag>
+<tag>
+<AM lemma="hodně-2" src="auto">Dg-------2A----</AM>
+<AM lemma="hodně-3" src="manual" selected="1">Dg-------2A----</AM>
+</tag>
 </m>
 <m id="m-ln95045-037-p3s2w24">
 <src.rf>manual</src.rf>
@@ -1615,7 +1627,7 @@
 <tag>
 <AM lemma="tedy" src="orig">Db-------------</AM>
 <AM lemma="tedy-1" src="auto">TT-------------</AM>
-<AM lemma="tedy-2" src="auto" recommended="1">J^-------------</AM>
+<AM lemma="tedy-2" src="auto" recommended="1" selected="1">J^-------------</AM>
 </tag>
 </m>
 <m id="m-ln95045-037-p3s3w3">
@@ -2004,7 +2016,7 @@
 <form>Beatles</form>
 <tag>
 <AM lemma="Beatles_;Y" src="orig">NNIS1-----A----</AM>
-<AM lemma="Beatles_;K_;u" src="auto">NNMP1-----A----</AM>
+<AM lemma="Beatles_;K_;u" src="auto" selected="1">NNMP1-----A----</AM>
 <AM lemma="Beatles_;K_;u" src="auto" recommended="1">NNMP2-----A----</AM>
 <AM lemma="Beatles_;K_;u" src="auto">NNMP3-----A----</AM>
 <AM lemma="Beatles_;K_;u" src="auto">NNMP4-----A----</AM>
@@ -2571,7 +2583,10 @@
 <LM>w#w-ln95045-037-p3s8w15</LM>
 </w.rf>
 <form>Marko</form>
-<tag lemma="Marko_;Y" src="auto" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Marko_;Y" src="auto">NNMS1-----A----</AM>
+<AM lemma="Marko_;Y_;S" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95045-037-p3s8w16">
 <src.rf>manual</src.rf>
@@ -2595,7 +2610,10 @@
 <LM>w#w-ln95045-037-p3s8w18</LM>
 </w.rf>
 <form>gitarová</form>
-<tag lemma="gitarový_,t" src="orig" selected="1">AAFS1----1A----</tag>
+<tag>
+<AM lemma="gitarový_,t" src="orig">AAFS1----1A----</AM>
+<AM lemma="gitarová-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln95045-037-p3s8w19">
 <src.rf>manual</src.rf>

@@ -109,7 +109,10 @@
 <LM>w#w-lnd92254-092-p2s1w9</LM>
 </w.rf>
 <form>uhrál</form>
-<tag lemma="uhrát" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag>
+<AM lemma="uhrát" src="orig">VpYS---XR-AA---</AM>
+<AM lemma="uhrát_:W" src="manual" selected="1">VpYS---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-lnd92254-092-p2s1w10">
 <src.rf>manual</src.rf>
@@ -130,7 +133,7 @@
 <AM lemma="zrak" src="auto">NNIP1-----A----</AM>
 <AM lemma="zrak" src="auto">NNIP4-----A----</AM>
 <AM lemma="zrak" src="auto">NNIP5-----A----</AM>
-<AM lemma="zrak" src="auto" recommended="1">NNIP7-----A----</AM>
+<AM lemma="zrak" src="auto" recommended="1" selected="1">NNIP7-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92254-092-p2s1w12">
@@ -340,7 +343,10 @@
 <LM>w#w-lnd92254-092-p2s1w37</LM>
 </w.rf>
 <form>právě</form>
-<tag lemma="právě-1" src="auto" selected="1">Db-------------</tag>
+<tag>
+<AM lemma="právě-1" src="auto">Db-------------</AM>
+<AM lemma="právě-2" src="manual" selected="1">TT-------------</AM>
+</tag>
 </m>
 <m id="m-lnd92254-092-p2s1w38">
 <src.rf>manual</src.rf>
@@ -589,6 +595,7 @@
 <AM lemma="mela" src="auto" recommended="1">NNFP2-----A----</AM>
 <AM lemma="mlít" src="auto">Vi-S---2--A----</AM>
 <AM lemma="mlít" src="auto">Vi-S---3--A---4</AM>
+<AM lemma="mel-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92254-092-p3s1w3">

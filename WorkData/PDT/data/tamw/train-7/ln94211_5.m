@@ -67,7 +67,10 @@
 <LM>w#w-ln94211-5-p1s1w7</LM>
 </w.rf>
 <form>Wall</form>
-<tag lemma="Wall-1_;G_,t" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="Wall-1_;G_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="Wall-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94211-5-p1s1w8">
 <src.rf>manual</src.rf>
@@ -80,6 +83,7 @@
 <AM lemma="Street_;G_,t" src="auto">NNIS1-----A----</AM>
 <AM lemma="Street_;G_,t" src="auto" recommended="1">NNIS4-----A----</AM>
 <AM lemma="Street_;G_,t" src="auto">NNXXX-----A----</AM>
+<AM lemma="Street-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 </s>
@@ -190,7 +194,10 @@
 <LM>w#w-ln94211-5-p2s1Cw4</LM>
 </w.rf>
 <form>začal</form>
-<tag lemma="začít-1_^(začnout)" src="auto" selected="1">VpYS---XR-AA---</tag>
+<tag>
+<AM lemma="začít-1_^(začnout)" src="auto">VpYS---XR-AA---</AM>
+<AM lemma="začít-1_:W_^(začnout)" src="manual" selected="1">VpYS---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-ln94211-5-p2s1Cw5">
 <src.rf>manual</src.rf>
@@ -580,7 +587,10 @@
 <LM>w#w-ln94211-5-p2s4w5</LM>
 </w.rf>
 <form>jako</form>
-<tag lemma="jako-1" src="auto" selected="1">J,-------------</tag>
+<tag>
+<AM lemma="jako-1" src="auto" selected="1">J,-------------</AM>
+<AM lemma="jako-2" src="manual">Db-------------</AM>
+</tag>
 </m>
 <m id="m-ln94211-5-p2s4w6">
 <src.rf>manual</src.rf>
@@ -676,7 +686,10 @@
 <LM>w#w-ln94211-5-p2s4w17</LM>
 </w.rf>
 <form>tzv</form>
-<tag lemma="takzvaný_:B" src="orig" selected="1">AAXXX----1A---8</tag>
+<tag>
+<AM lemma="takzvaný_:B" src="orig">AAXXX----1A---8</AM>
+<AM lemma="takzvaný" src="manual" selected="1">AAXXX----1A---8</AM>
+</tag>
 </m>
 <m id="m-ln94211-5-p2s4w18">
 <src.rf>manual</src.rf>
@@ -710,7 +723,7 @@
 <form>tedy</form>
 <tag>
 <AM lemma="tedy" src="orig">Db-------------</AM>
-<AM lemma="tedy-1" src="auto">TT-------------</AM>
+<AM lemma="tedy-1" src="auto" selected="1">TT-------------</AM>
 <AM lemma="tedy-2" src="auto" recommended="1">J^-------------</AM>
 </tag>
 </m>
@@ -762,7 +775,10 @@
 <LM>w#w-ln94211-5-p2s5w1</LM>
 </w.rf>
 <form>Stalo</form>
-<tag lemma="stát-2_^(něco_se_přihodilo)" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag>
+<AM lemma="stát-2_^(něco_se_přihodilo)" src="orig">VpNS---XR-AA---</AM>
+<AM lemma="stát-2_^(stanu_staneš)" src="manual" selected="1">VpNS---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-ln94211-5-p2s5w2">
 <src.rf>manual</src.rf>
@@ -828,7 +844,10 @@
 <LM>w#w-ln94211-5-p3s1w3</LM>
 </w.rf>
 <form>Cupertino</form>
-<tag lemma="Cupertino" src="auto" selected="1">NNNS1-----A----</tag>
+<tag>
+<AM lemma="Cupertino" src="auto">NNNS1-----A----</AM>
+<AM lemma="Cupertino_;G" src="manual" selected="1">NNNS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94211-5-p3s1w4">
 <src.rf>manual</src.rf>
@@ -852,7 +871,10 @@
 <LM>w#w-ln94211-5-p3s1w6</LM>
 </w.rf>
 <form>uprostřed</form>
-<tag lemma="uprostřed-1" src="auto" selected="1">Db-------------</tag>
+<tag>
+<AM lemma="uprostřed-1" src="auto">Db-------------</AM>
+<AM lemma="uprostřed-2" src="manual" selected="1">RR--2----------</AM>
+</tag>
 </m>
 <m id="m-ln94211-5-p3s1w7">
 <src.rf>manual</src.rf>
@@ -956,7 +978,10 @@
 <LM>w#w-ln94211-5-p3s1w19</LM>
 </w.rf>
 <form>začalo</form>
-<tag lemma="začít-1_^(začnout)" src="auto" selected="1">VpNS---XR-AA---</tag>
+<tag>
+<AM lemma="začít-1_^(začnout)" src="auto">VpNS---XR-AA---</AM>
+<AM lemma="začít-1_:W_^(začnout)" src="manual" selected="1">VpNS---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-ln94211-5-p3s1w20">
 <src.rf>manual</src.rf>
@@ -996,7 +1021,11 @@
 <LM>w#w-ln94211-5-p3s1w24</LM>
 </w.rf>
 <form>Silicon</form>
-<tag lemma="Silicon_;G_,t_^(Silicon_Valley)" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="Silicon_;G_,t_^(Silicon_Valley)" src="orig">AAXXX----1A----</AM>
+<AM lemma="Silicon_;G_^(Silicon_Valley)" src="manual">AAXXX----1A----</AM>
+<AM lemma="Silicon-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94211-5-p3s1w25">
 <src.rf>manual</src.rf>
@@ -1004,7 +1033,11 @@
 <LM>w#w-ln94211-5-p3s1w25</LM>
 </w.rf>
 <form>Valley</form>
-<tag lemma="Valley_;G_,t_^(např.Silicon_Valley)" src="auto" selected="1">NNNXX-----A----</tag>
+<tag>
+<AM lemma="Valley_;G_,t_^(např.Silicon_Valley)" src="auto">NNNXX-----A----</AM>
+<AM lemma="Valley_;G_^(např.Silicon_Valley)" src="manual">NNNXX-----A----</AM>
+<AM lemma="Valley-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94211-5-p3s1w26">
 <src.rf>manual</src.rf>
@@ -1078,7 +1111,10 @@
 <LM>w#w-ln94211-5-p3s2w5</LM>
 </w.rf>
 <form>Cupertinu</form>
-<tag lemma="Cupertino" src="auto" selected="1">NNNS6-----A----</tag>
+<tag>
+<AM lemma="Cupertino" src="auto">NNNS6-----A----</AM>
+<AM lemma="Cupertino_;G" src="manual" selected="1">NNNS6-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94211-5-p3s2w6">
 <src.rf>manual</src.rf>
@@ -1086,7 +1122,10 @@
 <LM>w#w-ln94211-5-p3s2w6</LM>
 </w.rf>
 <form>sešli</form>
-<tag lemma="sejít" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag>
+<AM lemma="sejít" src="orig">VpMP---XR-AA---</AM>
+<AM lemma="sejít_:W" src="manual" selected="1">VpMP---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-ln94211-5-p3s2w7">
 <src.rf>manual</src.rf>
@@ -1150,7 +1189,10 @@
 <LM>w#w-ln94211-5-p3s2w14</LM>
 </w.rf>
 <form>Steve</form>
-<tag lemma="Steve_;Y_,t" src="auto" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Steve_;Y_,t" src="auto">NNMS1-----A----</AM>
+<AM lemma="Steve_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94211-5-p3s2w15">
 <src.rf>manual</src.rf>
@@ -1206,7 +1248,10 @@
 <LM>w#w-ln94211-5-p3s2w21</LM>
 </w.rf>
 <form>Steve</form>
-<tag lemma="Steve_;Y_,t" src="auto" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Steve_;Y_,t" src="auto">NNMS1-----A----</AM>
+<AM lemma="Steve_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94211-5-p3s2w22">
 <src.rf>manual</src.rf>
@@ -1402,7 +1447,10 @@
 <LM>w#w-ln94211-5-p4s1w5</LM>
 </w.rf>
 <form>dolarů</form>
-<tag lemma="dolar_;b" src="orig" selected="1">NNIP2-----A----</tag>
+<tag>
+<AM lemma="dolar_;b" src="orig">NNIP2-----A----</AM>
+<AM lemma="dolar" src="manual" selected="1">NNIP2-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94211-5-p4s1w6">
 <src.rf>manual</src.rf>
@@ -2294,6 +2342,8 @@
 <AM lemma="Apple_;K" src="auto">NNIS4-----A----</AM>
 <AM lemma="Apple_;K" src="auto">NNIS5-----A----</AM>
 <AM lemma="Apple_;K" src="auto">NNISX-----A----</AM>
+<AM lemma="apple_,t" src="manual">NNXXX-----A----</AM>
+<AM lemma="Apple-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-ln94211-5-p5s5w3">
@@ -2306,6 +2356,8 @@
 <AM lemma="Computer_;K_,t" src="orig">NNIXX-----A----</AM>
 <AM lemma="computer" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="computer" src="auto">NNIS4-----A----</AM>
+<AM lemma="computer_,t" src="manual">NNXXX-----A----</AM>
+<AM lemma="Computer-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-ln94211-5-p5s5w4">
@@ -2380,7 +2432,10 @@
 <LM>w#w-ln94211-5-p5s6w3</LM>
 </w.rf>
 <form>Silicon</form>
-<tag lemma="Silicon_;G_,t_^(Silicon_Valley)" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="Silicon_;G_,t_^(Silicon_Valley)" src="orig">AAXXX----1A----</AM>
+<AM lemma="Silicon-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94211-5-p5s6w4">
 <src.rf>manual</src.rf>
@@ -2388,7 +2443,10 @@
 <LM>w#w-ln94211-5-p5s6w4</LM>
 </w.rf>
 <form>Valley</form>
-<tag lemma="Valley_;G_,t_^(např.Silicon_Valley)" src="auto" selected="1">NNNXX-----A----</tag>
+<tag>
+<AM lemma="Valley_;G_,t_^(např.Silicon_Valley)" src="auto">NNNXX-----A----</AM>
+<AM lemma="Valley-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94211-5-p5s6w5">
 <src.rf>manual</src.rf>
@@ -2694,7 +2752,10 @@
 <LM>w#w-ln94211-5-p5s7w21</LM>
 </w.rf>
 <form>T</form>
-<tag lemma="t-3_^(označení_pomocí_písmene)" src="orig" selected="1">NNNXX-----A----</tag>
+<tag>
+<AM lemma="t-3_^(označení_pomocí_písmene)" src="orig">NNNXX-----A----</AM>
+<AM lemma="T-33_^(označení_pomocí_písmene)" src="manual" selected="1">NNNXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94211-5-p5s7w22">
 <src.rf>manual</src.rf>
@@ -2956,7 +3017,10 @@
 <LM>w#w-ln94211-5-p6s1w7</LM>
 </w.rf>
 <form>zejména</form>
-<tag lemma="zejména-1" src="auto" selected="1">Db-------------</tag>
+<tag>
+<AM lemma="zejména-1" src="auto">Db-------------</AM>
+<AM lemma="zejména-2" src="manual" selected="1">TT-------------</AM>
+</tag>
 </m>
 <m id="m-ln94211-5-p6s1w8">
 <src.rf>manual</src.rf>
@@ -3176,7 +3240,10 @@
 <LM>w#w-ln94211-5-p6s3w6</LM>
 </w.rf>
 <form>straně</form>
-<tag lemma="strana-1_^(v_prostoru)" src="orig" selected="1">NNFS6-----A----</tag>
+<tag>
+<AM lemma="strana-1_^(v_prostoru)" src="orig">NNFS6-----A----</AM>
+<AM lemma="strana" src="manual" selected="1">NNFS6-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94211-5-p6s3w7">
 <src.rf>manual</src.rf>
@@ -3256,7 +3323,10 @@
 <LM>w#w-ln94211-5-p6s3w16</LM>
 </w.rf>
 <form>straně</form>
-<tag lemma="strana-1_^(v_prostoru)" src="orig" selected="1">NNFS6-----A----</tag>
+<tag>
+<AM lemma="strana-1_^(v_prostoru)" src="orig">NNFS6-----A----</AM>
+<AM lemma="strana" src="manual" selected="1">NNFS6-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94211-5-p6s3w17">
 <src.rf>manual</src.rf>
@@ -3280,7 +3350,10 @@
 <LM>w#w-ln94211-5-p6s3w19</LM>
 </w.rf>
 <form>staly</form>
-<tag lemma="stát-2_^(něco_se_přihodilo)" src="orig" selected="1">VpTP---XR-AA---</tag>
+<tag>
+<AM lemma="stát-2_^(něco_se_přihodilo)" src="orig">VpTP---XR-AA---</AM>
+<AM lemma="stát-2_^(stanu_staneš)" src="manual" selected="1">VpTP---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-ln94211-5-p6s3w20">
 <src.rf>manual</src.rf>
@@ -3296,7 +3369,10 @@
 <LM>w#w-ln94211-5-p6s3w21</LM>
 </w.rf>
 <form>impulsem</form>
-<tag lemma="impuls" src="orig" selected="1">NNIS7-----A----</tag>
+<tag>
+<AM lemma="impuls" src="orig">NNIS7-----A----</AM>
+<AM lemma="impuls_,s_^(^DD**impulz)" src="manual" selected="1">NNIS7-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94211-5-p6s3w22">
 <src.rf>manual</src.rf>
@@ -3338,7 +3414,7 @@
 <form>vůbec</form>
 <tag>
 <AM lemma="vůbec" src="orig">Db-------------</AM>
-<AM lemma="vůbec" src="auto" recommended="1">TT-------------</AM>
+<AM lemma="vůbec" src="auto" recommended="1" selected="1">TT-------------</AM>
 </tag>
 </m>
 <m id="m-ln94211-5-p6s3w27">
@@ -3363,7 +3439,10 @@
 <LM>w#w-ln94211-5-p6s3w29</LM>
 </w.rf>
 <form>IBM</form>
-<tag lemma="IBM-1_:B_;K_^(International_Business_Machines)" src="auto" selected="1">NNNXX-----A---8</tag>
+<tag>
+<AM lemma="IBM-1_:B_;K_^(International_Business_Machines)" src="auto">NNNXX-----A---8</AM>
+<AM lemma="IBM-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94211-5-p6s3w30">
 <src.rf>manual</src.rf>
@@ -3469,7 +3548,10 @@
 <LM>w#w-ln94211-5-p6s4w12</LM>
 </w.rf>
 <form>IBM</form>
-<tag lemma="IBM-1_:B_;K_^(International_Business_Machines)" src="auto" selected="1">NNNXX-----A---8</tag>
+<tag>
+<AM lemma="IBM-1_:B_;K_^(International_Business_Machines)" src="auto">NNNXX-----A---8</AM>
+<AM lemma="IBM-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94211-5-p6s4w13">
 <src.rf>manual</src.rf>
@@ -3477,7 +3559,10 @@
 <LM>w#w-ln94211-5-p6s4w13</LM>
 </w.rf>
 <form>PC</form>
-<tag lemma="PC-1_:B_;R_^(personal_computer,_osobní_počítač)" src="orig" selected="1">NNNXX-----A---8</tag>
+<tag>
+<AM lemma="PC-1_:B_;R_^(personal_computer,_osobní_počítač)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="PC-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94211-5-p6s4w14">
 <src.rf>manual</src.rf>
@@ -3493,7 +3578,11 @@
 <LM>w#w-ln94211-5-p6s4w15</LM>
 </w.rf>
 <form>Personal</form>
-<tag lemma="Personal_,t" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="Personal_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="personal_,t" src="manual">AAXXX----1A----</AM>
+<AM lemma="Personal-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94211-5-p6s4w16">
 <src.rf>manual</src.rf>
@@ -3505,6 +3594,8 @@
 <AM lemma="computer-2_,t_^(angl._neskl.)" src="orig">NNIXX-----A----</AM>
 <AM lemma="computer" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="computer" src="auto">NNIS4-----A----</AM>
+<AM lemma="computer_,t" src="manual">NNXXX-----A----</AM>
+<AM lemma="Computer-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-ln94211-5-p6s4w17">
@@ -3539,7 +3630,10 @@
 <LM>w#w-ln94211-5-p6s5w2</LM>
 </w.rf>
 <form>začala</form>
-<tag lemma="začít-1_^(začnout)" src="auto" selected="1">VpQW---XR-AA---</tag>
+<tag>
+<AM lemma="začít-1_^(začnout)" src="auto">VpQW---XR-AA---</AM>
+<AM lemma="začít-1_:W_^(začnout)" src="manual" selected="1">VpQW---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-ln94211-5-p6s5w3">
 <src.rf>manual</src.rf>
@@ -3573,7 +3667,10 @@
 <LM>w#w-ln94211-5-p7s1w1</LM>
 </w.rf>
 <form>IBM</form>
-<tag lemma="IBM-1_:B_;K_^(International_Business_Machines)" src="auto" selected="1">NNNXX-----A---8</tag>
+<tag>
+<AM lemma="IBM-1_:B_;K_^(International_Business_Machines)" src="auto">NNNXX-----A---8</AM>
+<AM lemma="IBM-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94211-5-p7s1w2">
 <src.rf>manual</src.rf>
@@ -3685,7 +3782,10 @@
 <LM>w#w-ln94211-5-p7s1w15</LM>
 </w.rf>
 <form>IBM</form>
-<tag lemma="IBM-1_:B_;K_^(International_Business_Machines)" src="auto" selected="1">NNNXX-----A---8</tag>
+<tag>
+<AM lemma="IBM-1_:B_;K_^(International_Business_Machines)" src="auto">NNNXX-----A---8</AM>
+<AM lemma="IBM-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94211-5-p7s1w16">
 <src.rf>manual</src.rf>
@@ -3693,7 +3793,10 @@
 <LM>w#w-ln94211-5-p7s1w16</LM>
 </w.rf>
 <form>PC</form>
-<tag lemma="PC-1_:B_;R_^(personal_computer,_osobní_počítač)" src="orig" selected="1">NNNXX-----A---8</tag>
+<tag>
+<AM lemma="PC-1_:B_;R_^(personal_computer,_osobní_počítač)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="PC-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94211-5-p7s1w17">
 <src.rf>manual</src.rf>
@@ -3908,7 +4011,7 @@
 <AM lemma="Apple_;K" src="auto">NNIS1-----A----</AM>
 <AM lemma="Apple_;K" src="auto">NNIS4-----A----</AM>
 <AM lemma="Apple_;K" src="auto">NNIS5-----A----</AM>
-<AM lemma="Apple_;K" src="auto" recommended="1">NNISX-----A----</AM>
+<AM lemma="Apple_;K" src="auto" recommended="1" selected="1">NNISX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94211-5-p7s2w21">
@@ -3927,7 +4030,10 @@
 <LM>w#w-ln94211-5-p7s3w1</LM>
 </w.rf>
 <form>IBM</form>
-<tag lemma="IBM-1_:B_;K_^(International_Business_Machines)" src="auto" selected="1">NNNXX-----A---8</tag>
+<tag>
+<AM lemma="IBM-1_:B_;K_^(International_Business_Machines)" src="auto">NNNXX-----A---8</AM>
+<AM lemma="IBM-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94211-5-p7s3w2">
 <src.rf>manual</src.rf>
@@ -3935,7 +4041,10 @@
 <LM>w#w-ln94211-5-p7s3w2</LM>
 </w.rf>
 <form>PC</form>
-<tag lemma="PC-1_:B_;R_^(personal_computer,_osobní_počítač)" src="orig" selected="1">NNNXX-----A---8</tag>
+<tag>
+<AM lemma="PC-1_:B_;R_^(personal_computer,_osobní_počítač)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="PC-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94211-5-p7s3w3">
 <src.rf>manual</src.rf>
@@ -4031,7 +4140,10 @@
 <LM>w#w-ln94211-5-p7s3w14</LM>
 </w.rf>
 <form>PC</form>
-<tag lemma="PC-1_:B_;R_^(personal_computer,_osobní_počítač)" src="orig" selected="1">NNNXX-----A---8</tag>
+<tag>
+<AM lemma="PC-1_:B_;R_^(personal_computer,_osobní_počítač)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="PC-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94211-5-p7s3w15">
 <src.rf>manual</src.rf>
@@ -4047,7 +4159,10 @@
 <LM>w#w-ln94211-5-p7s3w16</LM>
 </w.rf>
 <form>XT</form>
-<tag lemma="XT_:B_;R" src="orig" selected="1">NNNXX-----A---8</tag>
+<tag>
+<AM lemma="XT_:B_;R" src="orig">NNNXX-----A---8</AM>
+<AM lemma="XT-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94211-5-p7s3w17">
 <src.rf>manual</src.rf>
@@ -4087,7 +4202,10 @@
 <LM>w#w-ln94211-5-p7s3w21</LM>
 </w.rf>
 <form>PC</form>
-<tag lemma="PC-1_:B_;R_^(personal_computer,_osobní_počítač)" src="orig" selected="1">NNNXX-----A---8</tag>
+<tag>
+<AM lemma="PC-1_:B_;R_^(personal_computer,_osobní_počítač)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="PC-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94211-5-p7s3w22">
 <src.rf>manual</src.rf>
@@ -4109,6 +4227,7 @@
 <AM lemma="Ata_;G" src="auto">NNFP2-----A----</AM>
 <AM lemma="at_,t" src="auto">XX-------------</AM>
 <AM lemma="atmosféra_:B_;H_;g_^(fyzik._jednotka)" src="auto">NNFXX-----A---8</AM>
+<AM lemma="AT-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94211-5-p7s3w24">
@@ -4151,7 +4270,10 @@
 <LM>w#w-ln94211-5-p7s4w1</LM>
 </w.rf>
 <form>IBM</form>
-<tag lemma="IBM-1_:B_;K_^(International_Business_Machines)" src="auto" selected="1">NNNXX-----A---8</tag>
+<tag>
+<AM lemma="IBM-1_:B_;K_^(International_Business_Machines)" src="auto">NNNXX-----A---8</AM>
+<AM lemma="IBM-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94211-5-p7s4w2">
 <src.rf>manual</src.rf>
@@ -4159,7 +4281,10 @@
 <LM>w#w-ln94211-5-p7s4w2</LM>
 </w.rf>
 <form>PC</form>
-<tag lemma="PC-1_:B_;R_^(personal_computer,_osobní_počítač)" src="orig" selected="1">NNNXX-----A---8</tag>
+<tag>
+<AM lemma="PC-1_:B_;R_^(personal_computer,_osobní_počítač)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="PC-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94211-5-p7s4w3">
 <src.rf>manual</src.rf>
@@ -4181,6 +4306,7 @@
 <AM lemma="Ata_;G" src="auto">NNFP2-----A----</AM>
 <AM lemma="at_,t" src="auto">XX-------------</AM>
 <AM lemma="atmosféra_:B_;H_;g_^(fyzik._jednotka)" src="auto" recommended="1">NNFXX-----A---8</AM>
+<AM lemma="AT-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94211-5-p7s4w5">
@@ -4295,7 +4421,7 @@
 <AM lemma="rozeznání_^(*3at)" src="auto">NNNP5-----N----</AM>
 <AM lemma="rozeznání_^(*3at)" src="auto">NNNS1-----N----</AM>
 <AM lemma="rozeznání_^(*3at)" src="auto">NNNS2-----N----</AM>
-<AM lemma="rozeznání_^(*3at)" src="auto" recommended="1">NNNS3-----N----</AM>
+<AM lemma="rozeznání_^(*3at)" src="auto" recommended="1" selected="1">NNNS3-----N----</AM>
 <AM lemma="rozeznání_^(*3at)" src="auto">NNNS4-----N----</AM>
 <AM lemma="rozeznání_^(*3at)" src="auto">NNNS5-----N----</AM>
 <AM lemma="rozeznání_^(*3at)" src="auto">NNNS6-----N----</AM>
@@ -4421,7 +4547,10 @@
 <LM>w#w-ln94211-5-p8s1w9</LM>
 </w.rf>
 <form>hrála</form>
-<tag lemma="hrát" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag>
+<AM lemma="hrát" src="orig">VpQW---XR-AA---</AM>
+<AM lemma="hrát_:T" src="manual" selected="1">VpQW---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-ln94211-5-p8s1w10">
 <src.rf>manual</src.rf>
@@ -4461,7 +4590,10 @@
 <LM>w#w-ln94211-5-p8s1w14</LM>
 </w.rf>
 <form>IBM</form>
-<tag lemma="IBM-1_:B_;K_^(International_Business_Machines)" src="auto" selected="1">NNNXX-----A---8</tag>
+<tag>
+<AM lemma="IBM-1_:B_;K_^(International_Business_Machines)" src="auto">NNNXX-----A---8</AM>
+<AM lemma="IBM-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94211-5-p8s1w15">
 <src.rf>manual</src.rf>
@@ -4525,7 +4657,10 @@
 <LM>w#w-ln94211-5-p8s1w22</LM>
 </w.rf>
 <form>PC</form>
-<tag lemma="PC-1_:B_;R_^(personal_computer,_osobní_počítač)" src="orig" selected="1">NNNXX-----A---8</tag>
+<tag>
+<AM lemma="PC-1_:B_;R_^(personal_computer,_osobní_počítač)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="PC-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94211-5-p8s1w23">
 <src.rf>manual</src.rf>
@@ -4615,7 +4750,10 @@
 <LM>w#w-ln94211-5-p8s2w10</LM>
 </w.rf>
 <form>tzv</form>
-<tag lemma="takzvaný_:B" src="orig" selected="1">AAXXX----1A---8</tag>
+<tag>
+<AM lemma="takzvaný_:B" src="orig">AAXXX----1A---8</AM>
+<AM lemma="takzvaný" src="manual" selected="1">AAXXX----1A---8</AM>
+</tag>
 </m>
 <m id="m-ln94211-5-p8s2w11">
 <src.rf>manual</src.rf>
@@ -4731,7 +4869,10 @@
 <LM>w#w-ln94211-5-p8s4w4</LM>
 </w.rf>
 <form>IBM</form>
-<tag lemma="IBM-1_:B_;K_^(International_Business_Machines)" src="auto" selected="1">NNNXX-----A---8</tag>
+<tag>
+<AM lemma="IBM-1_:B_;K_^(International_Business_Machines)" src="auto">NNNXX-----A---8</AM>
+<AM lemma="IBM-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94211-5-p8s4w5">
 <src.rf>manual</src.rf>
@@ -4957,7 +5098,10 @@
 <LM>w#w-ln94211-5-p8s5w15</LM>
 </w.rf>
 <form>IBM</form>
-<tag lemma="IBM-1_:B_;K_^(International_Business_Machines)" src="auto" selected="1">NNNXX-----A---8</tag>
+<tag>
+<AM lemma="IBM-1_:B_;K_^(International_Business_Machines)" src="auto">NNNXX-----A---8</AM>
+<AM lemma="IBM-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94211-5-p8s5w16">
 <src.rf>manual</src.rf>
@@ -4965,7 +5109,10 @@
 <LM>w#w-ln94211-5-p8s5w16</LM>
 </w.rf>
 <form>PC</form>
-<tag lemma="PC-1_:B_;R_^(personal_computer,_osobní_počítač)" src="orig" selected="1">NNNXX-----A---8</tag>
+<tag>
+<AM lemma="PC-1_:B_;R_^(personal_computer,_osobní_počítač)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="PC-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94211-5-p8s5w17">
 <src.rf>manual</src.rf>
@@ -5021,7 +5168,10 @@
 <LM>w#w-ln94211-5-p8s5w23</LM>
 </w.rf>
 <form>PC</form>
-<tag lemma="PC-1_:B_;R_^(personal_computer,_osobní_počítač)" src="orig" selected="1">NNNXX-----A---8</tag>
+<tag>
+<AM lemma="PC-1_:B_;R_^(personal_computer,_osobní_počítač)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="PC-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94211-5-p8s5w24">
 <src.rf>manual</src.rf>
@@ -5073,7 +5223,7 @@
 <form>vůbec</form>
 <tag>
 <AM lemma="vůbec" src="orig">Db-------------</AM>
-<AM lemma="vůbec" src="auto" recommended="1">TT-------------</AM>
+<AM lemma="vůbec" src="auto" recommended="1" selected="1">TT-------------</AM>
 </tag>
 </m>
 <m id="m-ln94211-5-p9s1w4">
@@ -5270,7 +5420,7 @@
 <form>ovšem</form>
 <tag>
 <AM lemma="ovšem-1_^(avšak,_však;_odporovací_spojka)" src="orig">J^-------------</AM>
-<AM lemma="ovšem" src="auto" recommended="1">TT-------------</AM>
+<AM lemma="ovšem" src="auto" recommended="1" selected="1">TT-------------</AM>
 </tag>
 </m>
 <m id="m-ln94211-5-p9s2w5">
@@ -5351,7 +5501,10 @@
 <LM>w#w-ln94211-5-p9s2w14</LM>
 </w.rf>
 <form>PC</form>
-<tag lemma="PC-1_:B_;R_^(personal_computer,_osobní_počítač)" src="orig" selected="1">NNNXX-----A---8</tag>
+<tag>
+<AM lemma="PC-1_:B_;R_^(personal_computer,_osobní_počítač)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="PC-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94211-5-p9s2w15">
 <src.rf>manual</src.rf>
@@ -5409,7 +5562,10 @@
 <LM>w#w-ln94211-5-p10s1w3</LM>
 </w.rf>
 <form>PC</form>
-<tag lemma="PC-1_:B_;R_^(personal_computer,_osobní_počítač)" src="orig" selected="1">NNNXX-----A---8</tag>
+<tag>
+<AM lemma="PC-1_:B_;R_^(personal_computer,_osobní_počítač)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="PC-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94211-5-p10s1w4">
 <src.rf>manual</src.rf>
@@ -5479,6 +5635,8 @@
 <AM lemma="Apple_;K" src="auto">NNIS4-----A----</AM>
 <AM lemma="Apple_;K" src="auto">NNIS5-----A----</AM>
 <AM lemma="Apple_;K" src="auto">NNISX-----A----</AM>
+<AM lemma="apple_,t" src="manual">NNXXX-----A----</AM>
+<AM lemma="Apple-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-ln94211-5-p10s1w12">
@@ -5491,6 +5649,8 @@
 <AM lemma="Computer_;K_,t" src="orig">NNIXX-----A----</AM>
 <AM lemma="computer" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="computer" src="auto">NNIS4-----A----</AM>
+<AM lemma="computer_,t" src="manual">NNXXX-----A----</AM>
+<AM lemma="Computer-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-ln94211-5-p10s1w13">
@@ -5547,7 +5707,10 @@
 <LM>w#w-ln94211-5-p10s1w19</LM>
 </w.rf>
 <form>nestál</form>
-<tag lemma="stát-3_^(někdo/něco_stojí,_např._na_nohou)" src="orig" selected="1">VpYS---XR-NA---</tag>
+<tag>
+<AM lemma="stát-3_^(někdo/něco_stojí,_např._na_nohou)" src="orig">VpYS---XR-NA---</AM>
+<AM lemma="stát-3_^(stojím_stojíš)" src="manual" selected="1">VpYS---XR-NA---</AM>
+</tag>
 </m>
 <m id="m-ln94211-5-p10s1w20">
 <src.rf>manual</src.rf>
@@ -5563,7 +5726,10 @@
 <LM>w#w-ln94211-5-p10s1w21</LM>
 </w.rf>
 <form>nestojí</form>
-<tag lemma="stát-3_^(někdo/něco_stojí,_např._na_nohou)" src="orig" selected="1">VB-S---3P-NA---</tag>
+<tag>
+<AM lemma="stát-3_^(někdo/něco_stojí,_např._na_nohou)" src="orig">VB-S---3P-NA---</AM>
+<AM lemma="stát-3_^(stojím_stojíš)" src="manual" selected="1">VB-S---3P-NA---</AM>
+</tag>
 </m>
 <m id="m-ln94211-5-p10s1w22">
 <src.rf>manual</src.rf>
@@ -5653,7 +5819,10 @@
 <LM>w#w-ln94211-5-p10s2w7</LM>
 </w.rf>
 <form>li</form>
-<tag lemma="li-1" src="auto" selected="1">TT-------------</tag>
+<tag>
+<AM lemma="li-1" src="auto">TT-------------</AM>
+<AM lemma="li-2" src="manual" selected="1">J,-------------</AM>
+</tag>
 </m>
 <m id="m-ln94211-5-p10s2w8">
 <src.rf>manual</src.rf>
@@ -5725,7 +5894,10 @@
 <LM>w#w-ln94211-5-p10s2w16</LM>
 </w.rf>
 <form>PC</form>
-<tag lemma="PC-1_:B_;R_^(personal_computer,_osobní_počítač)" src="orig" selected="1">NNNXX-----A---8</tag>
+<tag>
+<AM lemma="PC-1_:B_;R_^(personal_computer,_osobní_počítač)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="PC-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94211-5-p10s2w17">
 <src.rf>manual</src.rf>
@@ -5744,6 +5916,7 @@
 <tag>
 <AM lemma="Macintosh_;R" src="orig">NNIS1-----A----</AM>
 <AM lemma="Macintosh_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Macintosh-2_;R" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94211-5-p10s2w19">
@@ -5800,7 +5973,10 @@
 <LM>w#w-ln94211-5-p10s2w25</LM>
 </w.rf>
 <form>PC</form>
-<tag lemma="PC-1_:B_;R_^(personal_computer,_osobní_počítač)" src="orig" selected="1">NNNXX-----A---8</tag>
+<tag>
+<AM lemma="PC-1_:B_;R_^(personal_computer,_osobní_počítač)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="PC-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94211-5-p10s2w26">
 <src.rf>manual</src.rf>
@@ -5843,6 +6019,7 @@
 <tag>
 <AM lemma="Macintosh_;R" src="orig">NNIS4-----A----</AM>
 <AM lemma="Macintosh_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Macintosh-2_;R" src="manual" selected="1">NNIS4-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94211-5-p10s2w31">
@@ -5861,7 +6038,10 @@
 <LM>w#w-ln94211-5-p10s3w1</LM>
 </w.rf>
 <form>PC</form>
-<tag lemma="PC-1_:B_;R_^(personal_computer,_osobní_počítač)" src="orig" selected="1">NNNXX-----A---8</tag>
+<tag>
+<AM lemma="PC-1_:B_;R_^(personal_computer,_osobní_počítač)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="PC-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94211-5-p10s3w2">
 <src.rf>manual</src.rf>
@@ -5880,7 +6060,7 @@
 <tag>
 <AM lemma="tedy" src="orig">Db-------------</AM>
 <AM lemma="tedy-1" src="auto">TT-------------</AM>
-<AM lemma="tedy-2" src="auto" recommended="1">J^-------------</AM>
+<AM lemma="tedy-2" src="auto" recommended="1" selected="1">J^-------------</AM>
 </tag>
 </m>
 <m id="m-ln94211-5-p10s3w4">
@@ -5899,7 +6079,7 @@
 <form>bezesporu</form>
 <tag>
 <AM lemma="bezesporu" src="orig">Db-------------</AM>
-<AM lemma="bezesporu" src="auto" recommended="1">TT-------------</AM>
+<AM lemma="bezesporu" src="auto" recommended="1" selected="1">TT-------------</AM>
 </tag>
 </m>
 <m id="m-ln94211-5-p10s3w6">
@@ -5962,6 +6142,8 @@
 <AM lemma="Apple_;K" src="auto">NNIS4-----A----</AM>
 <AM lemma="Apple_;K" src="auto">NNIS5-----A----</AM>
 <AM lemma="Apple_;K" src="auto">NNISX-----A----</AM>
+<AM lemma="apple_,t" src="manual">NNXXX-----A----</AM>
+<AM lemma="Apple-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-ln94211-5-p10s3w13">
@@ -5973,6 +6155,7 @@
 <tag>
 <AM lemma="Macintosh_;R" src="orig">NNIS1-----A----</AM>
 <AM lemma="Macintosh_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Macintosh-2_;R" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94211-5-p10s3w14">

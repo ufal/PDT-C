@@ -77,7 +77,10 @@
 <LM>w#w-mf930709-025-p2s1Aw3</LM>
 </w.rf>
 <form>jpk</form>
-<tag lemma="jpk-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="jpk-99_:B_;S" src="orig">NNXXX-----A---8</AM>
+<AM lemma="jpk-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930709-025-p2s1Aw4">
 <src.rf>manual</src.rf>
@@ -355,7 +358,7 @@
 <form>přičemž</form>
 <tag>
 <AM lemma="přičemž" src="orig">J,-------------</AM>
-<AM lemma="přičemž" src="auto" recommended="1">Db-------------</AM>
+<AM lemma="přičemž" src="auto" recommended="1" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m-mf930709-025-p2s3w8">
@@ -982,6 +985,7 @@
 <AM lemma="Vesna_;m" src="orig">NNFS6-----A----</AM>
 <AM lemma="vesna" src="auto">NNFS3-----A----</AM>
 <AM lemma="vesna" src="auto" recommended="1">NNFS6-----A----</AM>
+<AM lemma="Vesna_;K" src="manual" selected="1">NNFS6-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930709-025-p4s1w20">
@@ -1008,7 +1012,7 @@
 <AM lemma="údolní" src="auto">AAFS3----1A----</AM>
 <AM lemma="údolní" src="auto">AAFS4----1A----</AM>
 <AM lemma="údolní" src="auto">AAFS5----1A----</AM>
-<AM lemma="údolní" src="auto" recommended="1">AAFS6----1A----</AM>
+<AM lemma="údolní" src="auto" recommended="1" selected="1">AAFS6----1A----</AM>
 <AM lemma="údolní" src="auto">AAFS7----1A----</AM>
 <AM lemma="údolní" src="auto">AAIP1----1A----</AM>
 <AM lemma="údolní" src="auto">AAIP4----1A----</AM>

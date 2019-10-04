@@ -365,7 +365,10 @@
 <LM>w#w-lnd91303-039-p1s2w23</LM>
 </w.rf>
 <form>M</form>
-<tag lemma="M-0_:B_;Y" src="orig" selected="1">NNMXX-----A---8</tag>
+<tag>
+<AM lemma="M-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
+<AM lemma="M-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd91303-039-p1s2w24">
 <src.rf>manual</src.rf>
@@ -455,7 +458,10 @@
 <LM>w#w-lnd91303-039-p1s3w8</LM>
 </w.rf>
 <form>TASS</form>
-<tag lemma="TASS_:B_;K" src="auto" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="TASS_:B_;K" src="auto">NNXXX-----A---8</AM>
+<AM lemma="TASS-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd91303-039-p1s3w9">
 <src.rf>manual</src.rf>

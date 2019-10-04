@@ -54,6 +54,7 @@
 <tag>
 <AM lemma="IAAF_:B_;w_;K_^(Mez._atletická_federace)" src="orig">NNFXX-----A----</AM>
 <AM lemma="IAAF_:B_;K_;w_^(Mez._atletická_federace)" src="auto" recommended="1">NNFXX-----A---8</AM>
+<AM lemma="IAAF-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94101-091-p1s1w6">
@@ -62,7 +63,10 @@
 <LM>w#w-lnd94101-091-p1s1w6</LM>
 </w.rf>
 <form>Grand</form>
-<tag lemma="grand" src="orig" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="grand" src="orig">NNMS1-----A----</AM>
+<AM lemma="Grand-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-lnd94101-091-p1s1w7">
 <src.rf>manual</src.rf>
@@ -70,7 +74,10 @@
 <LM>w#w-lnd94101-091-p1s1w7</LM>
 </w.rf>
 <form>Prix</form>
-<tag lemma="Prix-2_;m_,t_^(cena)" src="orig" selected="1">NNFXX-----A----</tag>
+<tag>
+<AM lemma="Prix-2_;m_,t_^(cena)" src="orig">NNFXX-----A----</AM>
+<AM lemma="Prix-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-lnd94101-091-p1s1w8">
 <src.rf>manual</src.rf>
@@ -206,7 +213,10 @@
 <LM>w#w-lnd94101-091-p1s1w24</LM>
 </w.rf>
 <form>Sally</form>
-<tag lemma="Sally_;Y_,t" src="auto" selected="1">NNFXX-----A----</tag>
+<tag>
+<AM lemma="Sally_;Y_,t" src="auto">NNFXX-----A----</AM>
+<AM lemma="Sally_;Y" src="manual" selected="1">NNFXX-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd94101-091-p1s1w25">
 <src.rf>manual</src.rf>

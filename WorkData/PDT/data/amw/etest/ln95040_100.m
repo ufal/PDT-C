@@ -516,6 +516,7 @@
 <tag>
 <AM lemma="USA_;G" src="orig">NNIPX-----A----</AM>
 <AM lemma="USA_:B_;K_,t_^(United_States_of_America)" src="auto" recommended="1">NNIPX-----A---8</AM>
+<AM lemma="USA_:B_;K_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-ln95040-100-p3s1w27">
@@ -880,7 +881,10 @@
 <LM>w#w-ln95040-100-p4s2w20</LM>
 </w.rf>
 <form>Banque</form>
-<tag lemma="Banque_;K_,t" src="orig" selected="1">NNFXX-----A----</tag>
+<tag>
+<AM lemma="Banque_;K_,t" src="orig">NNFXX-----A----</AM>
+<AM lemma="Banque-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln95040-100-p4s2w21">
 <src.rf>manual</src.rf>
@@ -890,7 +894,7 @@
 <form>Paribas</form>
 <tag>
 <AM lemma="Paribas_;K_,t" src="orig">AAXXX----1A----</AM>
-<AM lemma="Paribas_;K" src="auto" recommended="1">NNIS1-----A----</AM>
+<AM lemma="Paribas_;K" src="auto" recommended="1" selected="1">NNIS1-----A----</AM>
 <AM lemma="Paribas_;K" src="auto">NNIS4-----A----</AM>
 </tag>
 </m>
@@ -900,7 +904,10 @@
 <LM>w#w-ln95040-100-p4s2w22</LM>
 </w.rf>
 <form>Joe</form>
-<tag lemma="Joe_;Y_,t" src="auto" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Joe_;Y_,t" src="auto">NNMS1-----A----</AM>
+<AM lemma="Joe_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95040-100-p4s2w23">
 <src.rf>manual</src.rf>
@@ -1047,7 +1054,10 @@
 <LM>w#w-ln95040-100-p4s3w16</LM>
 </w.rf>
 <form>DEM</form>
-<tag lemma="DEM_:B_;b_^(německá_marka)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="DEM_:B_;b_^(německá_marka)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="DEM-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln95040-100-p4s3w17">
 <src.rf>manual</src.rf>
@@ -1100,7 +1110,7 @@
 <form>1.5150</form>
 <tag>
 <AM lemma="15150" src="orig">C=-------------</AM>
-<AM lemma="1.5150" src="auto" recommended="1">C=-------------</AM>
+<AM lemma="1.5150" src="auto" recommended="1" selected="1">C=-------------</AM>
 </tag>
 </m>
 <m id="m-ln95040-100-p4s4w6">
@@ -1109,7 +1119,10 @@
 <LM>w#w-ln95040-100-p4s4w6</LM>
 </w.rf>
 <form>DEM</form>
-<tag lemma="DEM_:B_;b_^(německá_marka)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="DEM_:B_;b_^(německá_marka)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="DEM-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln95040-100-p4s4w7">
 <src.rf>manual</src.rf>

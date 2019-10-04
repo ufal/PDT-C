@@ -313,7 +313,10 @@
 <LM>w#w-lnd94104-043-p1s4w6</LM>
 </w.rf>
 <form>ODS</form>
-<tag lemma="ODS-1_:B_;K_;p_^(Občanská_demokratická_strana)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ODS-1_:B_;K_;p_^(Občanská_demokratická_strana)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ODS-1_:B_;K_^(Občanská_demokratická_strana)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd94104-043-p1s4w7">
 <src.rf>manual</src.rf>
@@ -393,7 +396,10 @@
 <LM>w#w-lnd94104-043-p1s4w16</LM>
 </w.rf>
 <form>strany</form>
-<tag lemma="strana-1_^(v_prostoru)" src="orig" selected="1">NNFP1-----A----</tag>
+<tag>
+<AM lemma="strana-1_^(v_prostoru)" src="orig">NNFP1-----A----</AM>
+<AM lemma="strana" src="manual" selected="1">NNFP1-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd94104-043-p1s4w17">
 <src.rf>manual</src.rf>
@@ -435,7 +441,10 @@
 <LM>w#w-lnd94104-043-p1s5w4</LM>
 </w.rf>
 <form>ČTK</form>
-<tag lemma="ČTK-1_:B_;K_^(Čs./Česká_tisková_kancelář)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ČTK-1_:B_;K_^(Čs./Česká_tisková_kancelář)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČTK_:B_;K_^(Čs./Česká_tisková_kancelář)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd94104-043-p1s5w5">
 <src.rf>manual</src.rf>
@@ -453,7 +462,7 @@
 <form>právničkou</form>
 <tag>
 <AM lemma="právník" src="orig">NNFS7-----A----</AM>
-<AM lemma="právnička" src="auto" recommended="1">NNFS7-----A----</AM>
+<AM lemma="právnička" src="auto" recommended="1" selected="1">NNFS7-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94104-043-p1s5w7">
@@ -536,7 +545,10 @@
 <LM>w#w-lnd94104-043-p1s6w5</LM>
 </w.rf>
 <form>strany</form>
-<tag lemma="strana-1_^(v_prostoru)" src="orig" selected="1">NNFS2-----A----</tag>
+<tag>
+<AM lemma="strana-1_^(v_prostoru)" src="orig">NNFS2-----A----</AM>
+<AM lemma="strana" src="manual" selected="1">NNFS2-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd94104-043-p1s6w6">
 <src.rf>manual</src.rf>

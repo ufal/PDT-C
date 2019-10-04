@@ -43,7 +43,10 @@
 <LM>w#w-mf920922-100-p1s1Aw4</LM>
 </w.rf>
 <form>OK</form>
-<tag lemma="OK-2_:B_;b_^(lety_ČSA)" src="auto" selected="1">NNNXX-----A---8</tag>
+<tag>
+<AM lemma="OK-2_:B_;b_^(lety_ČSA)" src="auto">NNNXX-----A---8</AM>
+<AM lemma="OK-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920922-100-p1s1Aw5">
 <src.rf>manual</src.rf>
@@ -82,6 +85,7 @@
 <AM lemma="bod" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="bod" src="auto">NNIS4-----A----</AM>
 <AM lemma="bodnout_:W" src="auto">VpYS---XR-AA--6</AM>
+<AM lemma="bod-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920922-100-p1s1Bw4">
@@ -456,7 +460,10 @@
 <LM>w#w-mf920922-100-p1s3w14</LM>
 </w.rf>
 <form>Tvs</form>
-<tag lemma="Tvs_:B_;K" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="Tvs_:B_;K" src="orig">NNXXX-----A---8</AM>
+<AM lemma="Tvs-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920922-100-p1s3w15">
 <src.rf>manual</src.rf>
@@ -828,7 +835,10 @@
 <LM>w#w-mf920922-100-p1s5w7</LM>
 </w.rf>
 <form>OK</form>
-<tag lemma="OK-2_:B_;b_^(lety_ČSA)" src="auto" selected="1">NNNXX-----A---8</tag>
+<tag>
+<AM lemma="OK-2_:B_;b_^(lety_ČSA)" src="auto">NNNXX-----A---8</AM>
+<AM lemma="OK-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920922-100-p1s5w8">
 <src.rf>manual</src.rf>

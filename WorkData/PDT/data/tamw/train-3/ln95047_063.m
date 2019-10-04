@@ -505,7 +505,10 @@
 <LM>w#w-ln95047-063-p2s3Aw16</LM>
 </w.rf>
 <form>LN</form>
-<tag lemma="LN-1_:B_;R_^(Lidové_noviny,_deník)" src="orig" selected="1">NNFPX-----A---8</tag>
+<tag>
+<AM lemma="LN-1_:B_;R_^(Lidové_noviny,_deník)" src="orig">NNFPX-----A---8</AM>
+<AM lemma="LN-1_:B_;K_;R_^(Lidové_noviny)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95047-063-p2s3Aw17">
 <src.rf>manual</src.rf>
@@ -832,7 +835,7 @@
 <tag>
 <AM lemma="tedy" src="orig">Db-------------</AM>
 <AM lemma="tedy-1" src="auto">TT-------------</AM>
-<AM lemma="tedy-2" src="auto" recommended="1">J^-------------</AM>
+<AM lemma="tedy-2" src="auto" recommended="1" selected="1">J^-------------</AM>
 </tag>
 </m>
 <m id="m-ln95047-063-p2s4w20">
@@ -1011,7 +1014,10 @@
 <LM>w#w-ln95047-063-p2s5w14</LM>
 </w.rf>
 <form>stranou</form>
-<tag lemma="strana-2_^(politická)" src="orig" selected="1">NNFS7-----A----</tag>
+<tag>
+<AM lemma="strana-2_^(politická)" src="orig">NNFS7-----A----</AM>
+<AM lemma="strana" src="manual" selected="1">NNFS7-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95047-063-p2s5w15">
 <src.rf>manual</src.rf>
@@ -1167,7 +1173,7 @@
 <form>jedině</form>
 <tag>
 <AM lemma="jedině_^(*1ý)" src="orig">Dg-------1A----</AM>
-<AM lemma="jedině" src="auto" recommended="1">Db-------------</AM>
+<AM lemma="jedině" src="auto" recommended="1" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m-ln95047-063-p3s1w6">
@@ -1184,7 +1190,10 @@
 <LM>w#w-ln95047-063-p3s1w7</LM>
 </w.rf>
 <form>straně</form>
-<tag lemma="strana-1_^(v_prostoru)" src="orig" selected="1">NNFS6-----A----</tag>
+<tag>
+<AM lemma="strana-1_^(v_prostoru)" src="orig">NNFS6-----A----</AM>
+<AM lemma="strana" src="manual" selected="1">NNFS6-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95047-063-p3s1w8">
 <src.rf>manual</src.rf>
@@ -1200,7 +1209,10 @@
 <LM>w#w-ln95047-063-p3s1w9</LM>
 </w.rf>
 <form>jen</form>
-<tag lemma="jen-1" src="auto" selected="1">TT-------------</tag>
+<tag>
+<AM lemma="jen-1" src="auto">TT-------------</AM>
+<AM lemma="jen-4_^(pouze)" src="manual" selected="1">Db-------------</AM>
+</tag>
 </m>
 <m id="m-ln95047-063-p3s1w10">
 <src.rf>manual</src.rf>
@@ -1240,7 +1252,10 @@
 <LM>w#w-ln95047-063-p3s1w14</LM>
 </w.rf>
 <form>li</form>
-<tag lemma="li-1" src="auto" selected="1">TT-------------</tag>
+<tag>
+<AM lemma="li-1" src="auto">TT-------------</AM>
+<AM lemma="li-2" src="manual" selected="1">J,-------------</AM>
+</tag>
 </m>
 <m id="m-ln95047-063-p3s1w15">
 <src.rf>manual</src.rf>
@@ -1640,7 +1655,7 @@
 <form>totiž</form>
 <tag>
 <AM lemma="totiž" src="orig">Db-------------</AM>
-<AM lemma="totiž-1" src="auto" recommended="1">J^-------------</AM>
+<AM lemma="totiž-1" src="auto" recommended="1" selected="1">J^-------------</AM>
 <AM lemma="totiž-2" src="auto">TT-------------</AM>
 </tag>
 </m>
@@ -2697,6 +2712,7 @@
 <AM lemma="nacionalizmus" src="auto" recommended="1">NNIS2-----A----</AM>
 <AM lemma="nacionalizmus" src="auto">NNIS3-----A----</AM>
 <AM lemma="nacionalizmus" src="auto">NNIS6-----A----</AM>
+<AM lemma="nacionalismus_,s_^(^DD**nacionalizmus)" src="manual" selected="1">NNIS2-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95047-063-p5s1w13">
@@ -3136,6 +3152,7 @@
 <tag>
 <AM lemma="nacionalismus" src="orig">NNIS7-----A----</AM>
 <AM lemma="nacionalizmus" src="auto" recommended="1">NNIS7-----A----</AM>
+<AM lemma="nacionalismus_,s_^(^DD**nacionalizmus)" src="manual" selected="1">NNIS7-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95047-063-p6s1w9">
@@ -4494,7 +4511,7 @@
 <form>nikoli</form>
 <tag>
 <AM lemma="nikoliv" src="orig">Db------------1</AM>
-<AM lemma="nikoli" src="auto" recommended="1">TT-------------</AM>
+<AM lemma="nikoli" src="auto" recommended="1" selected="1">TT-------------</AM>
 </tag>
 </m>
 <m id="m-ln95047-063-p6s7w12">
@@ -4819,7 +4836,10 @@
 <LM>w#w-ln95047-063-p7s1w15</LM>
 </w.rf>
 <form>jen</form>
-<tag lemma="jen-1" src="auto" selected="1">TT-------------</tag>
+<tag>
+<AM lemma="jen-1" src="auto">TT-------------</AM>
+<AM lemma="jen-4_^(pouze)" src="manual" selected="1">Db-------------</AM>
+</tag>
 </m>
 <m id="m-ln95047-063-p7s1w16">
 <src.rf>manual</src.rf>

@@ -35,7 +35,10 @@
 <LM>w#w-lnd91301-002-p1s1w3</LM>
 </w.rf>
 <form>LN</form>
-<tag lemma="LN-1_:B_;R_^(Lidové_noviny,_deník)" src="orig" selected="1">NNFPX-----A---8</tag>
+<tag>
+<AM lemma="LN-1_:B_;R_^(Lidové_noviny,_deník)" src="orig">NNFPX-----A---8</AM>
+<AM lemma="LN-1_:B_;K_;R_^(Lidové_noviny)" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 </s>
 <s id="m-lnd91301-002-p2s1">
@@ -350,7 +353,7 @@
 <form>Mihaličky</form>
 <tag>
 <AM lemma="Mihalička_;S" src="orig">NNMS2-----A----</AM>
-<AM lemma="Mihaliček_;S" src="auto">NNMP4-----A----</AM>
+<AM lemma="Mihaliček_;S" src="auto" selected="1">NNMP4-----A----</AM>
 <AM lemma="Mihaliček_;S" src="auto" recommended="1">NNMP7-----A----</AM>
 </tag>
 </m>

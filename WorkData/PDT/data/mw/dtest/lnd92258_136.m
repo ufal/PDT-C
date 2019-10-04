@@ -101,7 +101,10 @@
 <LM>w#w-lnd92258-136-p2s1w3</LM>
 </w.rf>
 <form>neprojde</form>
-<tag lemma="projít_^(i_uplynout_[o_čase])" src="auto" selected="1">VB-S---3P-NA---</tag>
+<tag>
+<AM lemma="projít_^(i_uplynout_[o_čase])" src="auto">VB-S---3P-NA---</AM>
+<AM lemma="projít_:W_^(i_uplynout_[o_čase])" src="manual" selected="1">VB-S---3P-NA---</AM>
+</tag>
 </m>
 </s>
 <s id="m-lnd92258-136-p3s1">
@@ -131,6 +134,7 @@
 <AM lemma="ad_:B" src="orig">NNMS1-----A---8</AM>
 <AM lemma="ad_,t" src="auto">RR--1----------</AM>
 <AM lemma="adalší_:B" src="auto" recommended="1">AAXXX----1A---8</AM>
+<AM lemma="ad-99_:B_;S" src="manual" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-lnd92258-136-p3s1w4">
@@ -384,6 +388,7 @@
 <tag>
 <AM lemma="ČBS_:B_;K_^(Český_basketbalový_svaz)" src="orig">NNIXX-----A---8</AM>
 <AM lemma="ČBS_:B" src="auto" recommended="1">NNXXX-----A---8</AM>
+<AM lemma="ČBS-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-lnd92258-136-p3s2w30">
@@ -410,7 +415,7 @@
 <form>ovšem</form>
 <tag>
 <AM lemma="ovšem-1_^(avšak,_však;_odporovací_spojka)" src="orig">J^-------------</AM>
-<AM lemma="ovšem" src="auto" recommended="1">TT-------------</AM>
+<AM lemma="ovšem" src="auto" recommended="1" selected="1">TT-------------</AM>
 </tag>
 </m>
 <m id="m-lnd92258-136-p3s2w33">
@@ -566,6 +571,7 @@
 <tag>
 <AM lemma="SBA-3_:B_;K_^(Slovenská_basketbalová_asociace)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="SBA-1_:B_,t_^(serial_bus_analyzer)" src="auto" recommended="1">NNIXX-----A---8</AM>
+<AM lemma="SBA-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-lnd92258-136-p3s2w52">
@@ -872,7 +878,10 @@
 <LM>w#w-lnd92258-136-p3s3w29</LM>
 </w.rf>
 <form>FIBA</form>
-<tag lemma="FIBA_:B_;K" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="FIBA_:B_;K" src="orig">NNFXX-----A---8</AM>
+<AM lemma="FIBA-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd92258-136-p3s3w30">
 <src.rf>manual</src.rf>
@@ -1068,7 +1077,10 @@
 <LM>w#w-lnd92258-136-p5s1w17</LM>
 </w.rf>
 <form>neprojde</form>
-<tag lemma="projít_^(i_uplynout_[o_čase])" src="auto" selected="1">VB-S---3P-NA---</tag>
+<tag>
+<AM lemma="projít_^(i_uplynout_[o_čase])" src="auto">VB-S---3P-NA---</AM>
+<AM lemma="projít_:W_^(i_uplynout_[o_čase])" src="manual" selected="1">VB-S---3P-NA---</AM>
+</tag>
 </m>
 <m id="m-lnd92258-136-p5s1w18">
 <src.rf>manual</src.rf>
@@ -1234,7 +1246,10 @@
 <LM>w#w-lnd92258-136-p7s2w3</LM>
 </w.rf>
 <form>FIBA</form>
-<tag lemma="FIBA_:B_;K" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="FIBA_:B_;K" src="orig">NNFXX-----A---8</AM>
+<AM lemma="FIBA-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd92258-136-p7s2w4">
 <src.rf>manual</src.rf>
@@ -1442,7 +1457,10 @@
 <LM>w#w-lnd92258-136-p7s2w29</LM>
 </w.rf>
 <form>FIBA</form>
-<tag lemma="FIBA_:B_;K" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="FIBA_:B_;K" src="orig">NNFXX-----A---8</AM>
+<AM lemma="FIBA-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd92258-136-p7s2w30">
 <src.rf>manual</src.rf>
@@ -1846,7 +1864,10 @@
 <LM>w#w-lnd92258-136-p7s4w32</LM>
 </w.rf>
 <form>C</form>
-<tag lemma="c-3_^(označení_pomocí_písmene)" src="orig" selected="1">NNNXX-----A----</tag>
+<tag>
+<AM lemma="c-3_^(označení_pomocí_písmene)" src="orig">NNNXX-----A----</AM>
+<AM lemma="C-33_^(označení_pomocí_písmene)" src="manual" selected="1">NNNXX-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92258-136-p7s4w33">
 <src.rf>manual</src.rf>
@@ -2852,7 +2873,7 @@
 <form>ovšem</form>
 <tag>
 <AM lemma="ovšem-1_^(avšak,_však;_odporovací_spojka)" src="orig">J^-------------</AM>
-<AM lemma="ovšem" src="auto" recommended="1">TT-------------</AM>
+<AM lemma="ovšem" src="auto" recommended="1" selected="1">TT-------------</AM>
 </tag>
 </m>
 <m id="m-lnd92258-136-p10s1w4">
@@ -2925,7 +2946,10 @@
 <LM>w#w-lnd92258-136-p10s1w12</LM>
 </w.rf>
 <form>MS</form>
-<tag lemma="MS-5_:B_;K_;p_^(ministerstvo_spravedlnosti)" src="orig" selected="1">NNNXX-----A---8</tag>
+<tag>
+<AM lemma="MS-5_:B_;K_;p_^(ministerstvo_spravedlnosti)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="MS-3_:B_;w_^(mistrovství_světa)" src="manual" selected="1">NNNXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd92258-136-p10s1w13">
 <src.rf>manual</src.rf>
@@ -3079,7 +3103,10 @@
 <LM>w#w-lnd92258-136-p11s1w6</LM>
 </w.rf>
 <form>přijmeme</form>
-<tag lemma="přijmout" src="auto" selected="1">VB-P---1P-AA---</tag>
+<tag>
+<AM lemma="přijmout" src="auto">VB-P---1P-AA---</AM>
+<AM lemma="přijmout_:W" src="manual" selected="1">VB-P---1P-AA---</AM>
+</tag>
 </m>
 <m id="m-lnd92258-136-p11s1w7">
 <src.rf>manual</src.rf>

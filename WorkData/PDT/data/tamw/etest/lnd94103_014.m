@@ -85,7 +85,10 @@
 <LM>w#w-lnd94103-014-p1s2w4</LM>
 </w.rf>
 <form>dan</form>
-<tag lemma="dan-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="dan-99_:B_;S" src="orig">NNXXX-----A---8</AM>
+<AM lemma="dan-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd94103-014-p1s2w5">
 <src.rf>manual</src.rf>
@@ -175,7 +178,10 @@
 <LM>w#w-lnd94103-014-p1s3w9</LM>
 </w.rf>
 <form>Č</form>
-<tag lemma="Český_:B_;G" src="orig" selected="1">AAXXX----1A---8</tag>
+<tag>
+<AM lemma="Český_:B_;G" src="orig">AAXXX----1A---8</AM>
+<AM lemma="český" src="manual" selected="1">AAXXX----1A---8</AM>
+</tag>
 </m>
 <m id="m-lnd94103-014-p1s3w10">
 <src.rf>manual</src.rf>
@@ -409,7 +415,10 @@
 <LM>w#w-lnd94103-014-p1s4w5</LM>
 </w.rf>
 <form>mjr</form>
-<tag lemma="major_:B" src="orig" selected="1">NNMXX-----A---8</tag>
+<tag>
+<AM lemma="major_:B" src="orig">NNMXX-----A---8</AM>
+<AM lemma="major" src="manual" selected="1">NNMXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd94103-014-p1s4w6">
 <src.rf>manual</src.rf>
@@ -434,7 +443,7 @@
 </w.rf>
 <form>Melky</form>
 <tag>
-<AM lemma="Melka_;S" src="orig">NNMS2-----A----</AM>
+<AM lemma="Melka_;S" src="orig" selected="1">NNMS2-----A----</AM>
 <AM lemma="Melek_;S" src="auto" recommended="1">NNMP4-----A----</AM>
 <AM lemma="Melek_;S" src="auto">NNMP7-----A----</AM>
 <AM lemma="Melk_;G" src="auto">NNIP1-----A----</AM>
@@ -475,7 +484,10 @@
 <LM>w#w-lnd94103-014-p1s4w12</LM>
 </w.rf>
 <form>ČR</form>
-<tag lemma="ČR-1_:B_;G_^(Česká_republika)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd94103-014-p1s4w13">
 <src.rf>manual</src.rf>
@@ -1048,7 +1060,7 @@
 <tag>
 <AM lemma="Suchdol_;G" src="orig">NNIS6-----A----</AM>
 <AM lemma="Suchdol_;G" src="auto">NNIS5-----A----</AM>
-<AM lemma="Suchdol_;G" src="auto" recommended="1">NNIS6-----A---1</AM>
+<AM lemma="Suchdol_;G" src="auto" recommended="1" selected="1">NNIS6-----A---1</AM>
 </tag>
 </m>
 <m id="m-lnd94103-014-p1s7w12">
@@ -1187,7 +1199,10 @@
 <LM>w#w-lnd94103-014-p1s8w14</LM>
 </w.rf>
 <form>mjr</form>
-<tag lemma="major_:B" src="orig" selected="1">NNMXX-----A---8</tag>
+<tag>
+<AM lemma="major_:B" src="orig">NNMXX-----A---8</AM>
+<AM lemma="major" src="manual" selected="1">NNMXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd94103-014-p1s8w15">
 <src.rf>manual</src.rf>

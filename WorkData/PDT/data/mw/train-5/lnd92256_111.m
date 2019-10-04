@@ -89,7 +89,10 @@
 <LM>w#w-lnd92256-111-p2s2w1</LM>
 </w.rf>
 <form>Č</form>
-<tag lemma="český_:B" src="orig" selected="1">AAXXX----1A---8</tag>
+<tag>
+<AM lemma="český_:B" src="orig">AAXXX----1A---8</AM>
+<AM lemma="český" src="manual" selected="1">AAXXX----1A---8</AM>
+</tag>
 </m>
 <m id="m-lnd92256-111-p2s2w2">
 <src.rf>manual</src.rf>
@@ -627,7 +630,7 @@
 <form>Kladno</form>
 <tag>
 <AM lemma="Kladno_;G" src="orig">NNFS1-----A----</AM>
-<AM lemma="Kladno_;G" src="auto" recommended="1">NNNS1-----A----</AM>
+<AM lemma="Kladno_;G" src="auto" recommended="1" selected="1">NNNS1-----A----</AM>
 <AM lemma="Kladno_;G" src="auto">NNNS4-----A----</AM>
 <AM lemma="Kladno_;G" src="auto">NNNS5-----A----</AM>
 </tag>

@@ -37,7 +37,10 @@
 <LM>w#w-lnd92259-089-p2s1w1</LM>
 </w.rf>
 <form>NEW</form>
-<tag lemma="New-1_;G_,t_^(součást_míst._jmen)" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="New-1_;G_,t_^(součást_míst._jmen)" src="orig">AAXXX----1A----</AM>
+<AM lemma="NEW-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-lnd92259-089-p2s1w2">
 <src.rf>manual</src.rf>
@@ -45,7 +48,10 @@
 <LM>w#w-lnd92259-089-p2s1w2</LM>
 </w.rf>
 <form>YORK</form>
-<tag lemma="York-2_;G" src="orig" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="York-2_;G" src="orig">NNIS1-----A----</AM>
+<AM lemma="YORK-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-lnd92259-089-p2s1w3">
 <src.rf>manual</src.rf>
@@ -185,7 +191,10 @@
 <LM>w#w-lnd92259-089-p2s3w3</LM>
 </w.rf>
 <form>vedli</form>
-<tag lemma="vést" src="auto" selected="1">VpMP---XR-AA---</tag>
+<tag>
+<AM lemma="vést" src="auto">VpMP---XR-AA---</AM>
+<AM lemma="vést_:T" src="manual" selected="1">VpMP---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-lnd92259-089-p2s3w4">
 <src.rf>manual</src.rf>
@@ -1403,7 +1412,10 @@
 <LM>w#w-lnd92259-089-p2s12w3</LM>
 </w.rf>
 <form>N</form>
-<tag lemma="N-4_:B_;K" src="orig" selected="1">AAXXX----1A---8</tag>
+<tag>
+<AM lemma="N-4_:B_;K" src="orig">AAXXX----1A---8</AM>
+<AM lemma="N-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd92259-089-p2s12w4">
 <src.rf>manual</src.rf>
@@ -1419,7 +1431,10 @@
 <LM>w#w-lnd92259-089-p2s12w5</LM>
 </w.rf>
 <form>Y</form>
-<tag lemma="Y-4_:B_;K" src="orig" selected="1">AAXXX----1A---8</tag>
+<tag>
+<AM lemma="Y-4_:B_;K" src="orig">AAXXX----1A---8</AM>
+<AM lemma="Y-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd92259-089-p2s12w6">
 <src.rf>manual</src.rf>
@@ -1491,7 +1506,10 @@
 <LM>w#w-lnd92259-089-p2s12w14</LM>
 </w.rf>
 <form>prodl</form>
-<tag lemma="prodloužení_:B" src="orig" selected="1">NNNXX-----A---8</tag>
+<tag>
+<AM lemma="prodloužení_:B" src="orig">NNNXX-----A---8</AM>
+<AM lemma="prodloužení" src="manual" selected="1">NNNXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd92259-089-p2s12w15">
 <src.rf>manual</src.rf>

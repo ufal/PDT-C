@@ -71,7 +71,10 @@
 <LM>w#w-ln95044-077-p2s1Bw1</LM>
 </w.rf>
 <form>Více</form>
-<tag lemma="hodně-2" src="auto" selected="1">Dg-------2A----</tag>
+<tag>
+<AM lemma="hodně-2" src="auto">Dg-------2A----</AM>
+<AM lemma="hodně-3" src="manual" selected="1">Dg-------2A----</AM>
+</tag>
 </m>
 <m id="m-ln95044-077-p2s1Bw2">
 <src.rf>manual</src.rf>
@@ -215,7 +218,10 @@
 <LM>w#w-ln95044-077-p2s1Bw19</LM>
 </w.rf>
 <form>HZDS</form>
-<tag lemma="HZDS-1_:B_;K_;p_,t_^(Hnutie_za_demokratické_Slovensko)" src="orig" selected="1">NNNXX-----A---8</tag>
+<tag>
+<AM lemma="HZDS-1_:B_;K_;p_,t_^(Hnutie_za_demokratické_Slovensko)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="HZDS-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln95044-077-p2s1Bw20">
 <src.rf>manual</src.rf>
@@ -311,7 +317,10 @@
 <LM>w#w-ln95044-077-p2s1Bw31</LM>
 </w.rf>
 <form>SRo</form>
-<tag lemma="SRo_:B_;K" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="SRo_:B_;K" src="orig">NNIXX-----A---8</AM>
+<AM lemma="SRo-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln95044-077-p2s1Bw32">
 <src.rf>manual</src.rf>
@@ -330,7 +339,7 @@
 <tag>
 <AM lemma="Susek_;S" src="orig">NNMS4-----A----</AM>
 <AM lemma="Susko_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Susko_;S" src="auto" recommended="1">NNMS4-----A----</AM>
+<AM lemma="Susko_;S" src="auto" recommended="1" selected="1">NNMS4-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95044-077-p2s1Bw34">

@@ -91,7 +91,10 @@
 <LM>w#w-ln94202-105-p1s1Aw10</LM>
 </w.rf>
 <form>AIK</form>
-<tag lemma="AIK_:B_;K_;w" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="AIK_:B_;K_;w" src="orig">NNIXX-----A---8</AM>
+<AM lemma="AIK-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln94202-105-p1s1Aw11">
 <src.rf>manual</src.rf>
@@ -182,7 +185,10 @@
 <LM>w#w-ln94202-105-p1s1Bw3</LM>
 </w.rf>
 <form>LN</form>
-<tag lemma="LN-1_:B_;R_^(Lidové_noviny,_deník)" src="orig" selected="1">NNFPX-----A---8</tag>
+<tag>
+<AM lemma="LN-1_:B_;R_^(Lidové_noviny,_deník)" src="orig">NNFPX-----A---8</AM>
+<AM lemma="LN-1_:B_;K_;R_^(Lidové_noviny,_deník)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 </s>
 </mdata>

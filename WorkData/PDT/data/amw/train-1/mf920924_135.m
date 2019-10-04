@@ -83,7 +83,10 @@
 <LM>w#w-mf920924-135-p1s1w9</LM>
 </w.rf>
 <form>Longview</form>
-<tag lemma="Longview_;G" src="orig" selected="1">NNNXX-----A----</tag>
+<tag>
+<AM lemma="Longview_;G" src="orig">NNNXX-----A----</AM>
+<AM lemma="Longview-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-mf920924-135-p1s1w10">
 <src.rf>manual</src.rf>
@@ -123,7 +126,10 @@
 <LM>w#w-mf920924-135-p1s1w14</LM>
 </w.rf>
 <form>George</form>
-<tag lemma="George_;Y_,t" src="orig" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="George_;Y_,t" src="orig">NNMS1-----A----</AM>
+<AM lemma="George_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920924-135-p1s1w15">
 <src.rf>manual</src.rf>

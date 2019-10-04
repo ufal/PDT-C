@@ -45,7 +45,10 @@
 <LM>w#w-ln94207-57-p2s1Aw1</LM>
 </w.rf>
 <form>Rio</form>
-<tag lemma="Rio_;G" src="orig" selected="1">NNNS1-----A----</tag>
+<tag>
+<AM lemma="Rio_;G" src="orig">NNNS1-----A----</AM>
+<AM lemma="Rio-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94207-57-p2s1Aw2">
 <src.rf>manual</src.rf>
@@ -53,7 +56,10 @@
 <LM>w#w-ln94207-57-p2s1Aw2</LM>
 </w.rf>
 <form>de</form>
-<tag lemma="de_,t_^(z_franc._de,_zejm._ve_jménech)" src="orig" selected="1">RR--1----------</tag>
+<tag>
+<AM lemma="de_,t_^(z_franc._de,_zejm._ve_jménech)" src="orig">RR--1----------</AM>
+<AM lemma="de-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94207-57-p2s1Aw3">
 <src.rf>manual</src.rf>
@@ -61,7 +67,10 @@
 <LM>w#w-ln94207-57-p2s1Aw3</LM>
 </w.rf>
 <form>Janeiro</form>
-<tag lemma="Janeiro_;G" src="orig" selected="1">NNNS1-----A----</tag>
+<tag>
+<AM lemma="Janeiro_;G" src="orig">NNNS1-----A----</AM>
+<AM lemma="Janeiro-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94207-57-p2s1Aw4">
 <src.rf>manual</src.rf>
@@ -111,7 +120,10 @@
 <LM>w#w-ln94207-57-p2s1Bw5</LM>
 </w.rf>
 <form>FC</form>
-<tag lemma="FC-1_:B_;K_;w_^(Football_Club,_př._FC_Sparta)" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="FC-1_:B_;K_;w_^(Football_Club,_př._FC_Sparta)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="FC-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94207-57-p2s1Bw6">
 <src.rf>manual</src.rf>
@@ -300,6 +312,8 @@
 <tag>
 <AM lemma="Guarani_;G" src="orig">NNNXX-----A----</AM>
 <AM lemma="guaraní_,t_,x_^(měnová_jednotka_v_Paraguayi)" src="auto" recommended="1">NNNXX-----A----</AM>
+<AM lemma="Guarani_;K_t" src="manual">NNXXX-----A----</AM>
+<AM lemma="Guarani_;K" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94207-57-p2s2w14">
@@ -422,7 +436,10 @@
 <LM>w#w-ln94207-57-p3s1w9</LM>
 </w.rf>
 <form>MS</form>
-<tag lemma="MS-3_:B_;w_^(mistrovství_světa)" src="orig" selected="1">NNNXX-----A---8</tag>
+<tag>
+<AM lemma="MS-3_:B_;w_^(mistrovství_světa)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="MS-3_:B_^(mistrovství_světa)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94207-57-p3s1w10">
 <src.rf>manual</src.rf>
@@ -545,6 +562,8 @@
 <tag>
 <AM lemma="Guarani_;G" src="orig">NNNXX-----A----</AM>
 <AM lemma="guaraní_,t_,x_^(měnová_jednotka_v_Paraguayi)" src="auto" recommended="1">NNNXX-----A----</AM>
+<AM lemma="Guarani_;K_,t" src="manual">NNXXX-----A----</AM>
+<AM lemma="Guarani_;K" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94207-57-p3s1w25">
@@ -744,6 +763,7 @@
 <tag>
 <AM lemma="Sao_;G" src="orig">AAXXX----1A----</AM>
 <AM lemma="Sao_;G_^(Sao_Paulo)" src="auto" recommended="1">NNNSX-----A----</AM>
+<AM lemma="Sao-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-ln94207-57-p3s3w14">

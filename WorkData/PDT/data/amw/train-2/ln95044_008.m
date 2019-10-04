@@ -297,7 +297,10 @@
 <LM>w#w-ln95044-008-p2s2w10</LM>
 </w.rf>
 <form>The</form>
-<tag lemma="the-1_,t_^(obv._souč._anglických_názvů,_urč._člen)" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="the-1_,t_^(obv._souč._anglických_názvů,_urč._člen)" src="orig">AAXXX----1A----</AM>
+<AM lemma="The-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln95044-008-p2s2w11">
 <src.rf>manual</src.rf>
@@ -309,6 +312,8 @@
 <AM lemma="Economist_;K_,t" src="orig">AAXXX----1A----</AM>
 <AM lemma="Economist_;K" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Economist_;K" src="auto">NNIS4-----A----</AM>
+<AM lemma="economist_,t" src="manual">NNXXX-----A----</AM>
+<AM lemma="Economist-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-ln95044-008-p2s2w12">
@@ -317,7 +322,11 @@
 <LM>w#w-ln95044-008-p2s2w12</LM>
 </w.rf>
 <form>Conferences</form>
-<tag lemma="Conference_;K_,t" src="orig" selected="1">NNFPX-----A----</tag>
+<tag>
+<AM lemma="Conference_;K_,t" src="orig">NNFPX-----A----</AM>
+<AM lemma="conferences_,t" src="manual">NNXXX-----A----</AM>
+<AM lemma="Conferences-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln95044-008-p2s2w13">
 <src.rf>manual</src.rf>

@@ -145,6 +145,7 @@
 <AM lemma="Cigi_;m" src="orig">II-------------</AM>
 <AM lemma="Cigi_;S" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Cigi_;S" src="auto">NNMS5-----A----</AM>
+<AM lemma="Cigi-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-mf930701-072-p2s1w16">
@@ -153,7 +154,10 @@
 <LM>w#w-mf930701-072-p2s1w16</LM>
 </w.rf>
 <form>Caga</form>
-<tag lemma="Caga_;G" src="orig" selected="1">NNFS1-----A----</tag>
+<tag>
+<AM lemma="Caga_;G" src="orig">NNFS1-----A----</AM>
+<AM lemma="Caga-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-mf930701-072-p2s1w17">
 <src.rf>manual</src.rf>
@@ -239,6 +243,7 @@
 <AM lemma="Cigi_;m" src="orig">II-------------</AM>
 <AM lemma="Cigi_;S" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Cigi_;S" src="auto">NNMS5-----A----</AM>
+<AM lemma="Cigi-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-mf930701-072-p2s2w5">
@@ -247,7 +252,10 @@
 <LM>w#w-mf930701-072-p2s2w5</LM>
 </w.rf>
 <form>Caga</form>
-<tag lemma="Caga_;G" src="orig" selected="1">NNFS1-----A----</tag>
+<tag>
+<AM lemma="Caga_;G" src="orig">NNFS1-----A----</AM>
+<AM lemma="Caga-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-mf930701-072-p2s2w6">
 <src.rf>manual</src.rf>
@@ -613,7 +621,10 @@
 <LM>w#w-mf930701-072-p3s2w6</LM>
 </w.rf>
 <form>Indet</form>
-<tag lemma="Indet_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="Indet_;K" src="orig">NNIS1-----A----</AM>
+<AM lemma="Indet-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-mf930701-072-p3s2w7">
 <src.rf>manual</src.rf>
@@ -625,6 +636,7 @@
 <AM lemma="Racing_;K_^(př._Racing_Club)" src="orig">NNIXX-----A----</AM>
 <AM lemma="Racing_;K_^(př._Racing_Club)" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Racing_;K_^(př._Racing_Club)" src="auto">NNIS4-----A----</AM>
+<AM lemma="Racing-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-mf930701-072-p3s2w8">
@@ -991,7 +1003,10 @@
 <LM>w#w-mf930701-072-p3s5w12</LM>
 </w.rf>
 <form>WTS</form>
-<tag lemma="WTS_;K" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="WTS_;K" src="orig">NNXXX-----A---8</AM>
+<AM lemma="WTS-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-mf930701-072-p3s5w13">
 <src.rf>manual</src.rf>

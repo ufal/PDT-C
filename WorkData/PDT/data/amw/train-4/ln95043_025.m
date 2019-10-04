@@ -152,7 +152,10 @@
 <LM>w#w-ln95043-025-p2s1Bw1</LM>
 </w.rf>
 <form>Furano</form>
-<tag lemma="Furano_;S" src="orig" selected="1">NNNS1-----A----</tag>
+<tag>
+<AM lemma="Furano_;S" src="orig">NNNS1-----A----</AM>
+<AM lemma="Furano_;G" src="manual" selected="1">NNNS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95043-025-p2s1Bw2">
 <src.rf>manual</src.rf>
@@ -274,7 +277,10 @@
 <LM>w#w-ln95043-025-p2s1Cw14</LM>
 </w.rf>
 <form>Furanu</form>
-<tag lemma="Furano_;S" src="orig" selected="1">NNNS6-----A----</tag>
+<tag>
+<AM lemma="Furano_;S" src="orig">NNNS6-----A----</AM>
+<AM lemma="Furano_;G" src="manual" selected="1">NNNS6-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95043-025-p2s1Cw15">
 <src.rf>manual</src.rf>
@@ -1240,7 +1246,7 @@
 </w.rf>
 <form>Are</form>
 <tag>
-<AM lemma="Are_;G" src="orig">NNNXX-----A----</AM>
+<AM lemma="Are_;G" src="orig" selected="1">NNNXX-----A----</AM>
 <AM lemma="ar" src="auto">NNIS5-----A----</AM>
 <AM lemma="be_,t_^(angl._jsi,jsme,jste,jsou,_v_názvech_apod.)" src="auto" recommended="1">VB-X---XP-AA---</AM>
 </tag>
@@ -1382,7 +1388,7 @@
 </w.rf>
 <form>Are</form>
 <tag>
-<AM lemma="Are_;G" src="orig">NNNXX-----A----</AM>
+<AM lemma="Are_;G" src="orig" selected="1">NNNXX-----A----</AM>
 <AM lemma="ar" src="auto">NNIS5-----A----</AM>
 <AM lemma="be_,t_^(angl._jsi,jsme,jste,jsou,_v_názvech_apod.)" src="auto" recommended="1">VB-X---XP-AA---</AM>
 </tag>

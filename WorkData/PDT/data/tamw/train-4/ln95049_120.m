@@ -239,7 +239,10 @@
 <LM>w#w-ln95049-120-p2s1Bw18</LM>
 </w.rf>
 <form>OSN</form>
-<tag lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95049-120-p2s1Bw19">
 <src.rf>manual</src.rf>
@@ -279,7 +282,11 @@
 <LM>w#w-ln95049-120-p2s1Bw23</LM>
 </w.rf>
 <form>UNPROFOR</form>
-<tag lemma="UNPROFOR_:B" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="UNPROFOR_:B" src="orig">NNFXX-----A---8</AM>
+<AM lemma="UNPROFOR-77" src="manual">F%-------------</AM>
+<AM lemma="UNPROFOR-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln95049-120-p2s1Bw24">
 <src.rf>manual</src.rf>
@@ -635,7 +642,10 @@
 <LM>w#w-ln95049-120-p2s3w25</LM>
 </w.rf>
 <form>Franja</form>
-<tag lemma="Franjo_;Y_,t" src="orig" selected="1">NNMS4-----A----</tag>
+<tag>
+<AM lemma="Franjo_;Y_,t" src="orig">NNMS4-----A----</AM>
+<AM lemma="Franjo_;Y" src="manual" selected="1">NNMS4-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95049-120-p2s3w26">
 <src.rf>manual</src.rf>
@@ -732,7 +742,10 @@
 <LM>w#w-ln95049-120-p2s3w38</LM>
 </w.rf>
 <form>UNPROFOR</form>
-<tag lemma="UNPROFOR_:B" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="UNPROFOR_:B" src="orig">NNFXX-----A---8</AM>
+<AM lemma="UNPROFOR-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln95049-120-p2s3w39">
 <src.rf>manual</src.rf>
@@ -822,7 +835,10 @@
 <LM>w#w-ln95049-120-p3s1w1</LM>
 </w.rf>
 <form>Více</form>
-<tag lemma="hodně-2" src="auto" selected="1">Dg-------2A----</tag>
+<tag>
+<AM lemma="hodně-2" src="auto">Dg-------2A----</AM>
+<AM lemma="hodně-3" src="manual" selected="1">Dg-------2A----</AM>
+</tag>
 </m>
 <m id="m-ln95049-120-p3s1w2">
 <src.rf>manual</src.rf>

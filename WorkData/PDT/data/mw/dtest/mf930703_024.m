@@ -203,6 +203,7 @@
 <AM lemma="CCC-2_:B_;K_,t" src="orig">AAXXX----1A---8</AM>
 <AM lemma="CCC-1_:B_;K_,t_^(Central_Control_Commission)" src="auto" recommended="1">NNFXX-----A---8</AM>
 <AM lemma="chlorcholinchlorid_:B_;H" src="auto">NNIXX-----A---8</AM>
+<AM lemma="CCC-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-mf930703-024-p3s1w15">
@@ -211,7 +212,10 @@
 <LM>w#w-mf930703-024-p3s1w15</LM>
 </w.rf>
 <form>Heidelberger</form>
-<tag lemma="Heidelberger_;K_,t" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="Heidelberger_;K_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="Heidelberger-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-mf930703-024-p3s1w16">
 <src.rf>manual</src.rf>
@@ -219,7 +223,10 @@
 <LM>w#w-mf930703-024-p3s1w16</LM>
 </w.rf>
 <form>Milchkosmetik</form>
-<tag lemma="Milchkosmetik_;K_,t" src="orig" selected="1">NNFXX-----A----</tag>
+<tag>
+<AM lemma="Milchkosmetik_;K_,t" src="orig">NNFXX-----A----</AM>
+<AM lemma="Milchkosmetik-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-mf930703-024-p3s1w17">
 <src.rf>manual</src.rf>
@@ -227,7 +234,10 @@
 <LM>w#w-mf930703-024-p3s1w17</LM>
 </w.rf>
 <form>GmbH</form>
-<tag lemma="Gmbh_:B_,t_,x_^(Gesellschaft_mit_beschränke_Haftung)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="Gmbh_:B_,t_,x_^(Gesellschaft_mit_beschränke_Haftung)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="GmbH-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-mf930703-024-p3s1w18">
 <src.rf>manual</src.rf>
@@ -421,7 +431,10 @@
 <LM>w#w-mf930703-024-p3s2w3</LM>
 </w.rf>
 <form>Teplého</form>
-<tag lemma="teplý" src="orig" selected="1">AAMS2----1A----</tag>
+<tag>
+<AM lemma="teplý" src="orig">AAMS2----1A----</AM>
+<AM lemma="Teplý_;S" src="manual" selected="1">NNMS2-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930703-024-p3s2w4">
 <src.rf>manual</src.rf>
@@ -865,7 +878,10 @@
 <LM>w#w-mf930703-024-p3s4w26</LM>
 </w.rf>
 <form>jen</form>
-<tag lemma="jen-1" src="auto" selected="1">TT-------------</tag>
+<tag>
+<AM lemma="jen-1" src="auto">TT-------------</AM>
+<AM lemma="jen-4_^(pouze)" src="manual" selected="1">Db-------------</AM>
+</tag>
 </m>
 <m id="m-mf930703-024-p3s4w27">
 <src.rf>manual</src.rf>
@@ -1667,7 +1683,10 @@
 <LM>w#w-mf930703-024-p4s5w9</LM>
 </w.rf>
 <form>milionů</form>
-<tag lemma="milión`1000000" src="orig" selected="1">NNIP2-----A----</tag>
+<tag>
+<AM lemma="milión`1000000" src="orig">NNIP2-----A----</AM>
+<AM lemma="milion`1000000_,s_^(^DD**milión)" src="manual" selected="1">NNIP2-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930703-024-p4s5w10">
 <src.rf>manual</src.rf>
@@ -1715,7 +1734,11 @@
 <LM>w#w-mf930703-024-p4s5w15</LM>
 </w.rf>
 <form>jen</form>
-<tag lemma="jen-1" src="auto" selected="1">TT-------------</tag>
+<tag>
+<AM lemma="jen-1" src="auto">TT-------------</AM>
+<AM lemma="jen-1" src="manual">TT-------------</AM>
+<AM lemma="jen-4_^(pouze)" src="manual" selected="1">Db-------------</AM>
+</tag>
 </m>
 <m id="m-mf930703-024-p4s5w16">
 <src.rf>manual</src.rf>
@@ -1787,7 +1810,10 @@
 <LM>w#w-mf930703-024-p4s5w24</LM>
 </w.rf>
 <form>Teplý</form>
-<tag lemma="teplý" src="orig" selected="1">AAMS1----1A----</tag>
+<tag>
+<AM lemma="teplý" src="orig">AAMS1----1A----</AM>
+<AM lemma="Teplý_;S" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930703-024-p4s5w25">
 <src.rf>manual</src.rf>
@@ -1999,7 +2025,10 @@
 <LM>w#w-mf930703-024-p4s7w8</LM>
 </w.rf>
 <form>milionů</form>
-<tag lemma="milión`1000000" src="orig" selected="1">NNIP2-----A----</tag>
+<tag>
+<AM lemma="milión`1000000" src="orig">NNIP2-----A----</AM>
+<AM lemma="milion`1000000_,s_^(^DD**milión)" src="manual" selected="1">NNIP2-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930703-024-p4s7w9">
 <src.rf>manual</src.rf>
@@ -2309,7 +2338,10 @@
 <LM>w#w-mf930703-024-p4s10w16</LM>
 </w.rf>
 <form>Teplý</form>
-<tag lemma="teplý" src="orig" selected="1">AAMS1----1A----</tag>
+<tag>
+<AM lemma="teplý" src="orig">AAMS1----1A----</AM>
+<AM lemma="Teplý_;S" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930703-024-p4s10w17">
 <src.rf>manual</src.rf>
@@ -2375,7 +2407,10 @@
 <LM>w#w-mf930703-024-p5s1w7</LM>
 </w.rf>
 <form>konkursu</form>
-<tag lemma="konkurs_^(úpadek;;soutěž)" src="auto" selected="1">NNIS2-----A----</tag>
+<tag>
+<AM lemma="konkurs_^(úpadek;;soutěž)" src="auto">NNIS2-----A----</AM>
+<AM lemma="konkurs_,s_^(^DD**konkurz)" src="manual" selected="1">NNIS2-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930703-024-p5s1w8">
 <src.rf>manual</src.rf>

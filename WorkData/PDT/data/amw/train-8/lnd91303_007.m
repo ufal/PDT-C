@@ -105,7 +105,10 @@
 <LM>w#w-lnd91303-007-p4s1w3</LM>
 </w.rf>
 <form>socialismu</form>
-<tag lemma="socialismus" src="orig" selected="1">NNIS2-----A----</tag>
+<tag>
+<AM lemma="socialismus" src="orig">NNIS2-----A----</AM>
+<AM lemma="socialismus_,s_^(^DD**socializmus)" src="manual" selected="1">NNIS2-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd91303-007-p4s1w4">
 <src.rf>manual</src.rf>
@@ -137,7 +140,10 @@
 <LM>w#w-lnd91303-007-p4s1w7</LM>
 </w.rf>
 <form>hráli</form>
-<tag lemma="hrát" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag>
+<AM lemma="hrát" src="orig">VpMP---XR-AA---</AM>
+<AM lemma="hrát_:T" src="manual" selected="1">VpMP---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-lnd91303-007-p4s1w8">
 <src.rf>manual</src.rf>
@@ -229,7 +235,7 @@
 <form>třeba</form>
 <tag>
 <AM lemma="třeba-1" src="orig">ACNS------A----</AM>
-<AM lemma="třeba-2" src="auto" recommended="1">Db-------------</AM>
+<AM lemma="třeba-2" src="auto" recommended="1" selected="1">Db-------------</AM>
 <AM lemma="třeba-3" src="auto">TT-------------</AM>
 </tag>
 </m>
@@ -279,7 +285,10 @@
 <LM>w#w-lnd91303-007-p4s2w9</LM>
 </w.rf>
 <form>socialismu</form>
-<tag lemma="socialismus" src="orig" selected="1">NNIS2-----A----</tag>
+<tag>
+<AM lemma="socialismus" src="orig">NNIS2-----A----</AM>
+<AM lemma="socialismus_,s_^(^DD**socializmus)" src="manual" selected="1">NNIS2-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd91303-007-p4s2w10">
 <src.rf>manual</src.rf>
@@ -789,7 +798,10 @@
 <LM>w#w-lnd91303-007-p4s5w3</LM>
 </w.rf>
 <form>řekl</form>
-<tag lemma="říci" src="auto" selected="1">VpYS---XR-AA---</tag>
+<tag>
+<AM lemma="říci" src="auto">VpYS---XR-AA---</AM>
+<AM lemma="říci_:W" src="manual" selected="1">VpYS---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-lnd91303-007-p4s5w4">
 <src.rf>manual</src.rf>

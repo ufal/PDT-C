@@ -131,7 +131,10 @@
 <LM>w#w-ln95046-032-p1s1w15</LM>
 </w.rf>
 <form>Filadelfii</form>
-<tag lemma="Filadelfie" src="orig" selected="1">NNFS6-----A----</tag>
+<tag>
+<AM lemma="Filadelfie" src="orig">NNFS6-----A----</AM>
+<AM lemma="Filadelfie_;G" src="manual" selected="1">NNFS6-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95046-032-p1s1w16">
 <src.rf>manual</src.rf>

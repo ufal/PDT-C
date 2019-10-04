@@ -87,7 +87,10 @@
 <LM>w#w-lnd92255-047-p3s1w4</LM>
 </w.rf>
 <form>FF</form>
-<tag lemma="FF_:B_;K_;u_^(Fil._fakulta)" src="auto" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="FF_:B_;K_;u_^(Fil._fakulta)" src="auto">NNFXX-----A---8</AM>
+<AM lemma="FF_:B_;K_^(Fil._fakulta)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92255-047-p3s1w5">
 <src.rf>manual</src.rf>
@@ -137,7 +140,10 @@
 <LM>w#w-lnd92255-047-p4s1w2</LM>
 </w.rf>
 <form>UNESCO</form>
-<tag lemma="UNESCO_:B" src="auto" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="UNESCO_:B" src="auto">NNXXX-----A---8</AM>
+<AM lemma="UNESCO-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd92255-047-p4s1w3">
 <src.rf>manual</src.rf>
@@ -153,7 +159,10 @@
 <LM>w#w-lnd92255-047-p4s1w4</LM>
 </w.rf>
 <form>UK</form>
-<tag lemma="UK-3_:B_;K_^(Univerzita_Komenského_Bratislava)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="UK-3_:B_;K_^(Univerzita_Komenského_Bratislava)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="UK-3_:B_;K_^(Univerzita_Komenského_Bratislava)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92255-047-p4s1w5">
 <src.rf>manual</src.rf>
@@ -217,7 +226,10 @@
 <LM>w#w-lnd92255-047-p4s1w12</LM>
 </w.rf>
 <form>UNESCO</form>
-<tag lemma="UNESCO_:B" src="auto" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="UNESCO_:B" src="auto">NNXXX-----A---8</AM>
+<AM lemma="UNESCO-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd92255-047-p4s1w13">
 <src.rf>manual</src.rf>
@@ -405,7 +417,10 @@
 <LM>w#w-lnd92255-047-p5s1w12</LM>
 </w.rf>
 <form>UNESCO</form>
-<tag lemma="UNESCO_:B" src="auto" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="UNESCO_:B" src="auto">NNXXX-----A---8</AM>
+<AM lemma="UNESCO-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd92255-047-p5s1w13">
 <src.rf>manual</src.rf>
@@ -869,7 +884,10 @@
 <LM>w#w-lnd92255-047-p5s5w6</LM>
 </w.rf>
 <form>kursem</form>
-<tag lemma="kurs" src="auto" selected="1">NNIS7-----A----</tag>
+<tag>
+<AM lemma="kurs" src="auto">NNIS7-----A----</AM>
+<AM lemma="kurs_,s_^(^DD**kurz)" src="manual" selected="1">NNIS7-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92255-047-p5s5w7">
 <src.rf>manual</src.rf>
@@ -1096,7 +1114,10 @@
 <LM>w#w-lnd92255-047-p5s6w19</LM>
 </w.rf>
 <form>filosofům</form>
-<tag lemma="filozof" src="orig" selected="1">NNMP3-----A----</tag>
+<tag>
+<AM lemma="filozof" src="orig">NNMP3-----A----</AM>
+<AM lemma="filosof_,s_^(^DD**filozof)" src="manual" selected="1">NNMP3-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92255-047-p5s6w20">
 <src.rf>manual</src.rf>

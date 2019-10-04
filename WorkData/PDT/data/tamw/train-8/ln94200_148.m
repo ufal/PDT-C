@@ -95,7 +95,10 @@
 <LM>w#w-ln94200-148-p2s1Bw5</LM>
 </w.rf>
 <form>MS</form>
-<tag lemma="MS-3_:B_;w_^(mistrovství_světa)" src="orig" selected="1">NNNXX-----A---8</tag>
+<tag>
+<AM lemma="MS-3_:B_;w_^(mistrovství_světa)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="MS-3_:B_^(mistrovství_světa)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94200-148-p2s1Bw6">
 <src.rf>manual</src.rf>
@@ -103,7 +106,10 @@
 <LM>w#w-ln94200-148-p2s1Bw6</LM>
 </w.rf>
 <form>Roberto</form>
-<tag lemma="Roberto_;Y_,t" src="auto" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Roberto_;Y_,t" src="auto">NNMS1-----A----</AM>
+<AM lemma="Roberto_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94200-148-p2s1Bw7">
 <src.rf>manual</src.rf>
@@ -167,7 +173,10 @@
 <LM>w#w-ln94200-148-p2s1Bw14</LM>
 </w.rf>
 <form>Juventus</form>
-<tag lemma="Juventus" src="orig" selected="1">NNIS4-----A----</tag>
+<tag>
+<AM lemma="Juventus" src="orig">NNIS4-----A----</AM>
+<AM lemma="Juventus_;K" src="manual" selected="1">NNIS4-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94200-148-p2s1Bw15">
 <src.rf>manual</src.rf>
@@ -249,7 +258,10 @@
 <LM>w#w-ln94200-148-p2s2w8</LM>
 </w.rf>
 <form>Gianniho</form>
-<tag lemma="Gianni_;Y_,t" src="auto" selected="1">NNMS2-----A----</tag>
+<tag>
+<AM lemma="Gianni_;Y_,t" src="auto">NNMS2-----A----</AM>
+<AM lemma="Gianni_;Y" src="manual" selected="1">NNMS2-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94200-148-p2s2w9">
 <src.rf>manual</src.rf>

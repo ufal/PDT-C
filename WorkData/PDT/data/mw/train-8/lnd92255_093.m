@@ -53,7 +53,10 @@
 <LM>w#w-lnd92255-093-p2s1w2</LM>
 </w.rf>
 <form>LN</form>
-<tag lemma="LN-1_:B_;R_^(Lidové_noviny,_deník)" src="orig" selected="1">NNFPX-----A---8</tag>
+<tag>
+<AM lemma="LN-1_:B_;R_^(Lidové_noviny,_deník)" src="orig">NNFPX-----A---8</AM>
+<AM lemma="LN-1_:B_;K_;R_^(Lidové_noviny)" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd92255-093-p2s1w3">
 <src.rf>manual</src.rf>
@@ -403,7 +406,10 @@
 <LM>w#w-lnd92255-093-p4s1w11</LM>
 </w.rf>
 <form>ČSFR</form>
-<tag lemma="ČSFR-1_:B_;G_^(Čs._federativní_republika)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ČSFR-1_:B_;G_^(Čs._federativní_republika)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČSFR-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd92255-093-p4s1w12">
 <src.rf>manual</src.rf>
@@ -411,7 +417,10 @@
 <LM>w#w-lnd92255-093-p4s1w12</LM>
 </w.rf>
 <form>L</form>
-<tag lemma="L-0_:B_;Y" src="orig" selected="1">NNMXX-----A---8</tag>
+<tag>
+<AM lemma="L-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
+<AM lemma="L-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd92255-093-p4s1w13">
 <src.rf>manual</src.rf>
@@ -1033,7 +1042,10 @@
 <LM>w#w-lnd92255-093-p5s3w13</LM>
 </w.rf>
 <form>ČSFR</form>
-<tag lemma="ČSFR-1_:B_;G_^(Čs._federativní_republika)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ČSFR-1_:B_;G_^(Čs._federativní_republika)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČSFR-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd92255-093-p5s3w14">
 <src.rf>manual</src.rf>
@@ -1401,7 +1413,10 @@
 <LM>w#w-lnd92255-093-p5s3w59</LM>
 </w.rf>
 <form>li</form>
-<tag lemma="li-1" src="auto" selected="1">TT-------------</tag>
+<tag>
+<AM lemma="li-1" src="auto">TT-------------</AM>
+<AM lemma="li-2" src="manual" selected="1">J,-------------</AM>
+</tag>
 </m>
 <m id="m-lnd92255-093-p5s3w60">
 <src.rf>manual</src.rf>
@@ -1509,7 +1524,7 @@
 </w.rf>
 <form>LŽIČKA</form>
 <tag>
-<AM lemma="Lžička_;S" src="orig">NNMS1-----A----</AM>
+<AM lemma="Lžička_;S" src="orig" selected="1">NNMS1-----A----</AM>
 <AM lemma="lžička" src="auto" recommended="1">NNFS1-----A----</AM>
 </tag>
 </m>

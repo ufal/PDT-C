@@ -277,7 +277,10 @@
 <LM>w#w-cmpr9410-020-p3s1w32</LM>
 </w.rf>
 <form>Mepha</form>
-<tag lemma="Mepha_;K_,t" src="orig" selected="1">NNFS1-----A----</tag>
+<tag>
+<AM lemma="Mepha_;K_,t" src="orig">NNFS1-----A----</AM>
+<AM lemma="Mepha_;K" src="manual" selected="1">NNFS1-----A----</AM>
+</tag>
 </m>
 <m id="m-cmpr9410-020-p3s1w33">
 <src.rf>manual</src.rf>
@@ -285,7 +288,11 @@
 <LM>w#w-cmpr9410-020-p3s1w33</LM>
 </w.rf>
 <form>Ltd</form>
-<tag lemma="Ltd_:B_,t" src="orig" selected="1">AAXXX----1A---8</tag>
+<tag>
+<AM lemma="Ltd_:B_,t" src="orig">AAXXX----1A---8</AM>
+<AM lemma="Ltd-77" src="manual">F%-------------</AM>
+<AM lemma="Ltd-77_:B" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-cmpr9410-020-p3s1w34">
 <src.rf>manual</src.rf>
@@ -940,7 +947,10 @@
 <LM>w#w-cmpr9410-020-p3s4w33</LM>
 </w.rf>
 <form>třeba</form>
-<tag lemma="třeba-2" src="auto" selected="1">Db-------------</tag>
+<tag>
+<AM lemma="třeba-2" src="auto">Db-------------</AM>
+<AM lemma="třeba-3" src="manual" selected="1">TT-------------</AM>
+</tag>
 </m>
 <m id="m-cmpr9410-020-p3s4w34">
 <src.rf>manual</src.rf>

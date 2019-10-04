@@ -101,7 +101,10 @@
 <LM>w#w-mf920922-077-p2s1w6</LM>
 </w.rf>
 <form>RZ</form>
-<tag lemma="RZ_:B" src="auto" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="RZ_:B" src="auto">NNXXX-----A---8</AM>
+<AM lemma="RZ-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920922-077-p2s1w7">
 <src.rf>manual</src.rf>
@@ -125,7 +128,10 @@
 <LM>w#w-mf920922-077-p2s1w9</LM>
 </w.rf>
 <form>vede</form>
-<tag lemma="vést" src="auto" selected="1">VB-S---3P-AA---</tag>
+<tag>
+<AM lemma="vést" src="auto">VB-S---3P-AA---</AM>
+<AM lemma="vést_:T" src="manual" selected="1">VB-S---3P-AA---</AM>
+</tag>
 </m>
 <m id="m-mf920922-077-p2s1w10">
 <src.rf>manual</src.rf>
@@ -167,7 +173,7 @@
 <form>Lancia</form>
 <tag>
 <AM lemma="Lancia-2_;R_^(vozidlo)" src="orig">NNFXX-----A----</AM>
-<AM lemma="Lancia_;K_;R" src="auto" recommended="1">NNFS1-----A---1</AM>
+<AM lemma="Lancia_;K_;R" src="auto" recommended="1" selected="1">NNFS1-----A---1</AM>
 <AM lemma="lancia_;K_;R" src="auto">NNFS1-----A---1</AM>
 </tag>
 </m>
@@ -277,7 +283,7 @@
 <form>Lancia</form>
 <tag>
 <AM lemma="Lancia-2_;R_^(vozidlo)" src="orig">NNFXX-----A----</AM>
-<AM lemma="Lancia_;K_;R" src="auto" recommended="1">NNFS1-----A---1</AM>
+<AM lemma="Lancia_;K_;R" src="auto" recommended="1" selected="1">NNFS1-----A---1</AM>
 <AM lemma="lancia_;K_;R" src="auto">NNFS1-----A---1</AM>
 </tag>
 </m>
@@ -327,7 +333,10 @@
 <LM>w#w-mf920922-077-p2s2w16</LM>
 </w.rf>
 <form>min</form>
-<tag lemma="minuta_:B" src="auto" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="minuta_:B" src="auto">NNFXX-----A---8</AM>
+<AM lemma="minuta" src="manual" selected="1">NNFXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-mf920922-077-p2s2w17">
 <src.rf>manual</src.rf>
@@ -423,7 +432,10 @@
 <LM>w#w-mf920922-077-p2s2w28</LM>
 </w.rf>
 <form>min</form>
-<tag lemma="minuta_:B" src="auto" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="minuta_:B" src="auto">NNFXX-----A---8</AM>
+<AM lemma="minuta" src="manual" selected="1">NNFXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-mf920922-077-p2s2w29">
 <src.rf>manual</src.rf>

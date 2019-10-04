@@ -45,7 +45,10 @@
 <LM>w#w-lnd92252-033-p2s1w1</LM>
 </w.rf>
 <form>NEW</form>
-<tag lemma="New-1_;G_,t_^(součást_míst._jmen)" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="New-1_;G_,t_^(součást_míst._jmen)" src="orig">AAXXX----1A----</AM>
+<AM lemma="NEW-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-lnd92252-033-p2s1w2">
 <src.rf>manual</src.rf>
@@ -53,7 +56,10 @@
 <LM>w#w-lnd92252-033-p2s1w2</LM>
 </w.rf>
 <form>YORK</form>
-<tag lemma="York-2_;G" src="orig" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="York-2_;G" src="orig">NNIS1-----A----</AM>
+<AM lemma="YORK-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-lnd92252-033-p2s1w3">
 <src.rf>manual</src.rf>
@@ -183,7 +189,10 @@
 <LM>w#w-lnd92252-033-p2s2w15</LM>
 </w.rf>
 <form>Quebeku</form>
-<tag lemma="Quebek_;G" src="orig" selected="1">NNIS2-----A----</tag>
+<tag>
+<AM lemma="Quebek_;G" src="orig">NNIS2-----A----</AM>
+<AM lemma="Quebek_;G_,s_^(^DD**Quebec)" src="manual" selected="1">NNIS2-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92252-033-p2s2w16">
 <src.rf>manual</src.rf>

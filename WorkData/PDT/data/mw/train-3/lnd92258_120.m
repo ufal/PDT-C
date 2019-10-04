@@ -167,7 +167,10 @@
 <LM>w#w-lnd92258-120-p2s2w14</LM>
 </w.rf>
 <form>Matti</form>
-<tag lemma="Matti_;S" src="auto" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Matti_;S" src="auto">NNMS1-----A----</AM>
+<AM lemma="Matti_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92258-120-p2s2w15">
 <src.rf>manual</src.rf>
@@ -411,7 +414,10 @@
 <LM>w#w-lnd92258-120-p2s4w6</LM>
 </w.rf>
 <form>pop</form>
-<tag lemma="pop-1_^(círk.)" src="orig" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="pop-1_^(círk.)" src="orig">NNMS1-----A----</AM>
+<AM lemma="pop-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-lnd92258-120-p2s4w7">
 <src.rf>manual</src.rf>
@@ -419,7 +425,10 @@
 <LM>w#w-lnd92258-120-p2s4w7</LM>
 </w.rf>
 <form>music</form>
-<tag lemma="music_,t_^(př._pop_music)" src="orig" selected="1">NNFXX-----A----</tag>
+<tag>
+<AM lemma="music_,t_^(př._pop_music)" src="orig">NNFXX-----A----</AM>
+<AM lemma="music-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-lnd92258-120-p2s4w8">
 <src.rf>manual</src.rf>

@@ -243,7 +243,10 @@
 <LM>w#w-ln94207-135-p2s3w1</LM>
 </w.rf>
 <form>Vyplynulo</form>
-<tag lemma="vyplynout" src="auto" selected="1">VpNS---XR-AA---</tag>
+<tag>
+<AM lemma="vyplynout" src="auto">VpNS---XR-AA---</AM>
+<AM lemma="vyplynout_:W" src="manual" selected="1">VpNS---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-ln94207-135-p2s3w2">
 <src.rf>manual</src.rf>
@@ -323,7 +326,10 @@
 <LM>w#w-ln94207-135-p2s3w11</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-2" src="auto" selected="1">Dg-------2A----</tag>
+<tag>
+<AM lemma="hodně-2" src="auto">Dg-------2A----</AM>
+<AM lemma="hodně-3" src="manual" selected="1">Dg-------2A----</AM>
+</tag>
 </m>
 <m id="m-ln94207-135-p2s3w12">
 <src.rf>manual</src.rf>
@@ -411,7 +417,10 @@
 <LM>w#w-ln94207-135-p2s3w22</LM>
 </w.rf>
 <form>AISA</form>
-<tag lemma="AISA_:B_;K_,t_^(Assoc.for_Indepen.Social_Analysis)" src="auto" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="AISA_:B_;K_,t_^(Assoc.for_Indepen.Social_Analysis)" src="auto">NNFXX-----A---8</AM>
+<AM lemma="AISA-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln94207-135-p2s3w23">
 <src.rf>manual</src.rf>
@@ -429,7 +438,10 @@
 <LM>w#w-ln94207-135-p2s4w1</LM>
 </w.rf>
 <form>Nejvíce</form>
-<tag lemma="hodně-2" src="auto" selected="1">Dg-------3A----</tag>
+<tag>
+<AM lemma="hodně-2" src="auto">Dg-------3A----</AM>
+<AM lemma="hodně-3" src="manual" selected="1">Dg-------3A----</AM>
+</tag>
 </m>
 <m id="m-ln94207-135-p2s4w2">
 <src.rf>manual</src.rf>
@@ -931,7 +943,10 @@
 <LM>w#w-ln94207-135-p2s7w3</LM>
 </w.rf>
 <form>zase</form>
-<tag lemma="zase-1" src="auto" selected="1">Db-------------</tag>
+<tag>
+<AM lemma="zase-1" src="auto">Db-------------</AM>
+<AM lemma="zase-2" src="manual" selected="1">TT-------------</AM>
+</tag>
 </m>
 <m id="m-ln94207-135-p2s7w4">
 <src.rf>manual</src.rf>

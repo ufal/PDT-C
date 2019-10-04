@@ -35,7 +35,10 @@
 <LM>w#w-ln95042-078-p1s1w3</LM>
 </w.rf>
 <form>UK</form>
-<tag lemma="UK-1_:B_;K_^(Univerzita_Karlova_Praha)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="UK-1_:B_;K_^(Univerzita_Karlova_Praha)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="UK-1_:B_;K_^(Univerzita_Karlova_Praha)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95042-078-p1s1w4">
 <src.rf>manual</src.rf>
@@ -43,7 +46,10 @@
 <LM>w#w-ln95042-078-p1s1w4</LM>
 </w.rf>
 <form>G</form>
-<tag lemma="G-0_:B_;Y" src="orig" selected="1">NNMXX-----A---8</tag>
+<tag>
+<AM lemma="G-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
+<AM lemma="G-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95042-078-p1s1w5">
 <src.rf>manual</src.rf>
@@ -143,7 +149,10 @@
 <LM>w#w-ln95042-078-p2s1Bw8</LM>
 </w.rf>
 <form>rada</form>
-<tag lemma="rada-3_^(poradní_sbor;_př._Česká_národní_r.)" src="orig" selected="1">NNFS1-----A----</tag>
+<tag>
+<AM lemma="rada-3_^(poradní_sbor;_př._Česká_národní_r.)" src="orig">NNFS1-----A----</AM>
+<AM lemma="rada-1_^(př._dát_někomu_dobrou_radu_poradní_sbor)" src="manual" selected="1">NNFS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95042-078-p2s1Bw9">
 <src.rf>manual</src.rf>
@@ -168,11 +177,12 @@
 </w.rf>
 <form>George</form>
 <tag>
-<AM lemma="George_;Y" src="orig">NNMXX-----A----</AM>
+<AM lemma="George_;Y" src="orig" selected="1">NNMXX-----A----</AM>
 <AM lemma="George_;Y_,t" src="auto">NNMP4-----A----</AM>
 <AM lemma="George_;Y_,t" src="auto">NNMS1-----A----</AM>
 <AM lemma="George_;Y_,t" src="auto" recommended="1">NNMS2-----A----</AM>
 <AM lemma="George_;Y_,t" src="auto">NNMS4-----A----</AM>
+<AM lemma="George_;Y_,t" src="manual">NNMXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95042-078-p2s1Bw12">
@@ -460,7 +470,7 @@
 <tag>
 <AM lemma="matka" src="orig">NNFS7-----A----</AM>
 <AM lemma="matka-1_^(malá_součástka)" src="auto" recommended="1">NNFS7-----A----</AM>
-<AM lemma="matka-2_^(maminka)" src="auto">NNFS7-----A----</AM>
+<AM lemma="matka-2_^(maminka)" src="auto" selected="1">NNFS7-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95042-078-p2s3w6">
@@ -573,7 +583,10 @@
 <LM>w#w-ln95042-078-p2s3w19</LM>
 </w.rf>
 <form>začal</form>
-<tag lemma="začít-1_^(začnout)" src="auto" selected="1">VpYS---XR-AA---</tag>
+<tag>
+<AM lemma="začít-1_^(začnout)" src="auto">VpYS---XR-AA---</AM>
+<AM lemma="začít-1_:W_^(začnout)" src="manual" selected="1">VpYS---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-ln95042-078-p2s3w20">
 <src.rf>manual</src.rf>
@@ -663,7 +676,10 @@
 <LM>w#w-ln95042-078-p2s4w4</LM>
 </w.rf>
 <form>intenzívně</form>
-<tag lemma="intenzívně_^(*1í)" src="orig" selected="1">Dg-------1A----</tag>
+<tag>
+<AM lemma="intenzívně_^(*1í)" src="orig">Dg-------1A----</AM>
+<AM lemma="intenzívně_,s_^(^DD**intenzivně)_^(*4ívní)" src="manual" selected="1">Dg-------1A----</AM>
+</tag>
 </m>
 <m id="m-ln95042-078-p2s4w5">
 <src.rf>manual</src.rf>
@@ -737,7 +753,10 @@
 <LM>w#w-ln95042-078-p2s5w4</LM>
 </w.rf>
 <form>UK</form>
-<tag lemma="UK-1_:B_;K_^(Univerzita_Karlova_Praha)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="UK-1_:B_;K_^(Univerzita_Karlova_Praha)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="UK-1_:B_;K_^(Univerzita_Karlova_Praha)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95042-078-p2s5w5">
 <src.rf>manual</src.rf>

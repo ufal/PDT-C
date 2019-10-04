@@ -210,6 +210,8 @@
 <AM lemma="Grana_;K" src="auto">NNFP2-----A----</AM>
 <AM lemma="gran" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="gran" src="auto">NNIS4-----A----</AM>
+<AM lemma="gran_,t" src="manual">AAXXX----1A----</AM>
+<AM lemma="Gran-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-ln94200-109-p1s2w10">
@@ -218,7 +220,10 @@
 <LM>w#w-ln94200-109-p1s2w10</LM>
 </w.rf>
 <form>Paradiso</form>
-<tag lemma="Paradiso_;G" src="auto" selected="1">NNNS1-----A----</tag>
+<tag>
+<AM lemma="Paradiso_;G" src="auto">NNNS1-----A----</AM>
+<AM lemma="Paradiso-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94200-109-p1s2w11">
 <src.rf>manual</src.rf>

@@ -69,7 +69,10 @@
 <LM>w#w-mf930713-037-p2s1Aw3</LM>
 </w.rf>
 <form>bar</form>
-<tag lemma="bar-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="bar-99_:B_;S" src="orig">NNXXX-----A---8</AM>
+<AM lemma="bar-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930713-037-p2s1Aw4">
 <src.rf>manual</src.rf>
@@ -178,7 +181,7 @@
 <tag>
 <AM lemma="nalézt" src="orig">VpMP---XR-AA---</AM>
 <AM lemma="nalézt-1_^(někam)" src="auto" recommended="1">VpMP---XR-AA---</AM>
-<AM lemma="nalézt-2" src="auto">VpMP---XR-AA---</AM>
+<AM lemma="nalézt-2" src="auto" selected="1">VpMP---XR-AA---</AM>
 </tag>
 </m>
 <m id="m-mf930713-037-p2s1Bw12">

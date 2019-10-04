@@ -1485,7 +1485,10 @@
 <LM>w#w-lnd92256-039-p4s7w2</LM>
 </w.rf>
 <form>proto</form>
-<tag lemma="proto-2_^(dal_mu_co_proto,_tak_proto!)" src="orig" selected="1">Db-------------</tag>
+<tag>
+<AM lemma="proto-2_^(dal_mu_co_proto,_tak_proto!)" src="orig">Db-------------</AM>
+<AM lemma="proto-1_^(proto;_a_proto,_ale_proto,...)" src="manual" selected="1">J^-------------</AM>
+</tag>
 </m>
 <m id="m-lnd92256-039-p4s7w3">
 <src.rf>manual</src.rf>
@@ -1615,6 +1618,7 @@
 <AM lemma="mimo-1_:B" src="auto">RR--4---------8</AM>
 <AM lemma="minuta_:B" src="auto">NNFXX-----A---8</AM>
 <AM lemma="město_:B" src="auto">NNNXX-----A---8</AM>
+<AM lemma="metr" src="manual" selected="1">NNIXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-lnd92256-039-p4s7w18">
@@ -1957,7 +1961,10 @@
 <LM>w#w-lnd92256-039-p4s10w10</LM>
 </w.rf>
 <form>jen</form>
-<tag lemma="jen-1" src="auto" selected="1">TT-------------</tag>
+<tag>
+<AM lemma="jen-1" src="auto">TT-------------</AM>
+<AM lemma="jen-4_^(pouze)" src="manual" selected="1">Db-------------</AM>
+</tag>
 </m>
 <m id="m-lnd92256-039-p4s10w11">
 <src.rf>manual</src.rf>
@@ -1982,6 +1989,7 @@
 <AM lemma="mimo-1_:B" src="auto">RR--4---------8</AM>
 <AM lemma="minuta_:B" src="auto">NNFXX-----A---8</AM>
 <AM lemma="město_:B" src="auto">NNNXX-----A---8</AM>
+<AM lemma="metr" src="manual" selected="1">NNIXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-lnd92256-039-p4s10w13">
@@ -2340,7 +2348,10 @@
 <LM>w#w-lnd92256-039-p5s2w5</LM>
 </w.rf>
 <form>M</form>
-<tag lemma="M-0_:B_;Y" src="orig" selected="1">NNMXX-----A---8</tag>
+<tag>
+<AM lemma="M-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
+<AM lemma="M-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd92256-039-p5s2w6">
 <src.rf>manual</src.rf>
@@ -2486,7 +2497,10 @@
 <LM>w#w-lnd92256-039-p5s3w6</LM>
 </w.rf>
 <form>km</form>
-<tag lemma="km-1`kilometr_:B" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="km-1`kilometr_:B" src="orig">NNIXX-----A---8</AM>
+<AM lemma="kilometr" src="manual" selected="1">NNIXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd92256-039-p5s3w7">
 <src.rf>manual</src.rf>
@@ -2618,7 +2632,7 @@
 <form>litrů</form>
 <tag>
 <AM lemma="l-1`litr" src="orig">NNIP2-----A----</AM>
-<AM lemma="litr" src="auto" recommended="1">NNIP2-----A----</AM>
+<AM lemma="litr" src="auto" recommended="1" selected="1">NNIP2-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92256-039-p5s4w9">
@@ -2701,7 +2715,7 @@
 <form>litrů</form>
 <tag>
 <AM lemma="l-1`litr" src="orig">NNIP2-----A----</AM>
-<AM lemma="litr" src="auto" recommended="1">NNIP2-----A----</AM>
+<AM lemma="litr" src="auto" recommended="1" selected="1">NNIP2-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92256-039-p5s4w19">
@@ -2810,7 +2824,7 @@
 <form>Ačkoli</form>
 <tag>
 <AM lemma="ačkoliv" src="orig">J,------------1</AM>
-<AM lemma="ačkoli" src="auto" recommended="1">J,-------------</AM>
+<AM lemma="ačkoli" src="auto" recommended="1" selected="1">J,-------------</AM>
 </tag>
 </m>
 <m id="m-lnd92256-039-p5s5w3">
@@ -3093,7 +3107,10 @@
 <LM>w#w-lnd92256-039-p5s6w15</LM>
 </w.rf>
 <form>M</form>
-<tag lemma="M-0_:B_;Y" src="orig" selected="1">NNMXX-----A---8</tag>
+<tag>
+<AM lemma="M-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
+<AM lemma="M-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd92256-039-p5s6w16">
 <src.rf>manual</src.rf>
@@ -3176,6 +3193,11 @@
 </w.rf>
 <form>znečistěno</form>
 <tag lemma="znečistit" src="orig" selected="1">VsNS---XX-AP---</tag>
+<comment>
+<LM type="Other">
+<text>Na 15. pozici v tagu má být 1: znečištěno znečistit VsNS---XX-AP--- vs. znečistěno znečistit VsNS---XX-AP--1</text>
+</LM>
+</comment>
 </m>
 <m id="m-lnd92256-039-p5s7w8">
 <src.rf>manual</src.rf>
@@ -3297,7 +3319,10 @@
 <LM>w#w-lnd92256-039-p5s8w7</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-2" src="auto" selected="1">Dg-------2A----</tag>
+<tag>
+<AM lemma="hodně-2" src="auto">Dg-------2A----</AM>
+<AM lemma="více_^(více_+_2._p.,_více_peněz)" src="manual" selected="1">Ca--1----------</AM>
+</tag>
 </m>
 <m id="m-lnd92256-039-p5s8w8">
 <src.rf>manual</src.rf>

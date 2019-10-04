@@ -27,7 +27,10 @@
 <LM>w#w-ln94210-88-p1s1Aw2</LM>
 </w.rf>
 <form>OOP</form>
-<tag lemma="OOP-1_:B_;K_;p_^(Org._pro_osvobození_Palestiny)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="OOP-1_:B_;K_;p_^(Org._pro_osvobození_Palestiny)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="OOP-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94210-88-p1s1Aw3">
 <src.rf>manual</src.rf>
@@ -127,6 +130,7 @@
 <AM lemma="YMCA_:B_;K" src="orig">NNFXX-----A---8</AM>
 <AM lemma="YMCA_:B" src="auto" recommended="1">NNXXX-----A---8</AM>
 <AM lemma="YMCA_:B_;K_,t_^(Young_Men`s_Christian_Association)" src="auto">NNNXX-----A---8</AM>
+<AM lemma="YMCA-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94210-88-p1s1Aw15">

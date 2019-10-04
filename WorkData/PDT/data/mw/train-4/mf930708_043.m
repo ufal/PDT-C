@@ -143,7 +143,7 @@
 <form>zaplaťpánbůh</form>
 <tag>
 <AM lemma="zaplaťpánbůh" src="orig">NNIS1-----A----</AM>
-<AM lemma="zaplaťpánbůh" src="auto" recommended="1">TT-------------</AM>
+<AM lemma="zaplaťpánbůh" src="auto" recommended="1" selected="1">TT-------------</AM>
 </tag>
 </m>
 <m id="m-mf930708-043-p2s1w14">
@@ -422,7 +422,7 @@
 <form>Ačkoli</form>
 <tag>
 <AM lemma="ačkoliv" src="orig">J,------------1</AM>
-<AM lemma="ačkoli" src="auto" recommended="1">J,-------------</AM>
+<AM lemma="ačkoli" src="auto" recommended="1" selected="1">J,-------------</AM>
 </tag>
 </m>
 <m id="m-mf930708-043-p2s3w2">
@@ -1536,7 +1536,7 @@
 <tag>
 <AM lemma="tady" src="orig">Db------------1</AM>
 <AM lemma="ten" src="auto" recommended="1">PDFS4----------</AM>
-<AM lemma="tu" src="auto">Db-------------</AM>
+<AM lemma="tu" src="auto" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m-mf930708-043-p2s10w7">
@@ -1564,7 +1564,7 @@
 <tag>
 <AM lemma="tady" src="orig">Db------------1</AM>
 <AM lemma="ten" src="auto" recommended="1">PDFS4----------</AM>
-<AM lemma="tu" src="auto">Db-------------</AM>
+<AM lemma="tu" src="auto" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m-mf930708-043-p2s10w10">

@@ -656,6 +656,7 @@
 <AM lemma="renesance" src="orig">NNFS7-----A----</AM>
 <AM lemma="renezance" src="auto">NNFP2-----A----</AM>
 <AM lemma="renezance" src="auto" recommended="1">NNFS7-----A----</AM>
+<AM lemma="renesance_,s_^(^DD**renezance)" src="manual" selected="1">NNFS7-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9301-005-p5s3w10">
@@ -1063,7 +1064,7 @@
 <AM lemma="l-3_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
 <AM lemma="l-4_^(graf._oddělovač)" src="auto">Z:-------------</AM>
 <AM lemma="l-8_:B_^(ost._zkratka)" src="auto">XX------------8</AM>
-<AM lemma="letopočet_:B_^(jen_př._n._l.,_před_naším_letopočtem)" src="auto">NNIS7-----A---8</AM>
+<AM lemma="letopočet_:B_^(jen_př._n._l.,_před_naším_letopočtem)" src="auto" selected="1">NNIS7-----A---8</AM>
 <AM lemma="litr_:B" src="auto" recommended="1">NNIXX-----A---8</AM>
 </tag>
 </m>
@@ -1184,6 +1185,7 @@
 <AM lemma="renezance" src="auto">NNFS3-----A----</AM>
 <AM lemma="renezance" src="auto" recommended="1">NNFS4-----A----</AM>
 <AM lemma="renezance" src="auto">NNFS6-----A----</AM>
+<AM lemma="renesance_,s_^(^DD**renezance)" src="manual" selected="1">NNFS4-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9301-005-p5s5w9">
@@ -1810,6 +1812,7 @@
 <AM lemma="renezanční" src="auto">AAMP6----1A----</AM>
 <AM lemma="renezanční" src="auto">AANP2----1A----</AM>
 <AM lemma="renezanční" src="auto">AANP6----1A----</AM>
+<AM lemma="renesanční_,s_^(^DD**renezanční)" src="manual" selected="1">AAMP2----1A----</AM>
 </tag>
 </m>
 <m id="m-vesm9301-005-p6s4w19">
@@ -1924,7 +1927,10 @@
 <LM>w#w-vesm9301-005-p7s1w2</LM>
 </w.rf>
 <form>F</form>
-<tag lemma="F-0_:B_;Y" src="orig" selected="1">NNMXX-----A---8</tag>
+<tag>
+<AM lemma="F-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
+<AM lemma="F-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-vesm9301-005-p7s1w3">
 <src.rf>manual</src.rf>

@@ -69,7 +69,10 @@
 <LM>w#w-ln94201-24-p2s1w3</LM>
 </w.rf>
 <form>kva</form>
-<tag lemma="kva-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="kva-99_:B_;S" src="orig">NNXXX-----A---8</AM>
+<AM lemma="kva-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94201-24-p2s1w4">
 <src.rf>manual</src.rf>

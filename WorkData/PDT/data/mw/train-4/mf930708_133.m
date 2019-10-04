@@ -19,7 +19,11 @@
 <LM>w#w-mf930708-133-p1s1w1</LM>
 </w.rf>
 <form>Wimbledon</form>
-<tag lemma="Wimbledon-2_;w_^(tenis._turnaj)" src="orig" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="Wimbledon-2_;w_^(tenis._turnaj)" src="orig">NNIS1-----A----</AM>
+<AM lemma="Wimbledon-2_^(tenis._turnaj)" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Wimbledon-1_;G" src="manual">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930708-133-p1s1w2">
 <src.rf>manual</src.rf>
@@ -61,7 +65,10 @@
 <LM>w#w-mf930708-133-p2s1w3</LM>
 </w.rf>
 <form>čen</form>
-<tag lemma="čen-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="čen-99_:B_;S" src="orig">NNXXX-----A---8</AM>
+<AM lemma="čen-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930708-133-p2s1w4">
 <src.rf>manual</src.rf>
@@ -710,7 +717,10 @@
 <LM>w#w-mf930708-133-p2s5w3</LM>
 </w.rf>
 <form>All</form>
-<tag lemma="All_;K_,t" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="All_;K_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="All-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-mf930708-133-p2s5w4">
 <src.rf>manual</src.rf>
@@ -718,7 +728,10 @@
 <LM>w#w-mf930708-133-p2s5w4</LM>
 </w.rf>
 <form>England</form>
-<tag lemma="England_;K_,t" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="England_;K_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="England-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-mf930708-133-p2s5w5">
 <src.rf>manual</src.rf>
@@ -726,7 +739,10 @@
 <LM>w#w-mf930708-133-p2s5w5</LM>
 </w.rf>
 <form>Clubu</form>
-<tag lemma="klub" src="orig" selected="1">NNIS2-----A----</tag>
+<tag>
+<AM lemma="klub" src="orig">NNIS2-----A----</AM>
+<AM lemma="Club_;K" src="manual" selected="1">NNIS2-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930708-133-p2s5w6">
 <src.rf>manual</src.rf>
@@ -1019,7 +1035,10 @@
 <LM>w#w-mf930708-133-p2s7w3</LM>
 </w.rf>
 <form>Wimbledonu</form>
-<tag lemma="Wimbledon-2_;w_^(tenis._turnaj)" src="orig" selected="1">NNIS2-----A----</tag>
+<tag>
+<AM lemma="Wimbledon-2_;w_^(tenis._turnaj)" src="orig">NNIS2-----A----</AM>
+<AM lemma="Wimbledon-2_^(tenis._turnaj)" src="manual" selected="1">NNIS2-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930708-133-p2s7w4">
 <src.rf>manual</src.rf>
@@ -1077,7 +1096,7 @@
 <form>ovšem</form>
 <tag>
 <AM lemma="ovšem-1_^(avšak,_však;_odporovací_spojka)" src="orig">J^-------------</AM>
-<AM lemma="ovšem" src="auto" recommended="1">TT-------------</AM>
+<AM lemma="ovšem" src="auto" recommended="1" selected="1">TT-------------</AM>
 </tag>
 </m>
 <m id="m-mf930708-133-p2s7w11">

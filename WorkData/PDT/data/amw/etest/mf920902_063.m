@@ -61,7 +61,10 @@
 <LM>w#w-mf920902-063-p2s1w4</LM>
 </w.rf>
 <form>uzavřela</form>
-<tag lemma="uzavřít" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag>
+<AM lemma="uzavřít" src="orig">VpQW---XR-AA---</AM>
+<AM lemma="uzavřít_:W" src="manual" selected="1">VpQW---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-mf920902-063-p2s1w5">
 <src.rf>manual</src.rf>
@@ -109,7 +112,10 @@
 <LM>w#w-mf920902-063-p2s1w10</LM>
 </w.rf>
 <form>Snapple</form>
-<tag lemma="Snapple_;R_,t" src="orig" selected="1">NNXXX-----A----</tag>
+<tag>
+<AM lemma="Snapple_;R_,t" src="orig">NNXXX-----A----</AM>
+<AM lemma="Snapple_;R" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920902-063-p2s1w11">
 <src.rf>manual</src.rf>
@@ -141,7 +147,10 @@
 <LM>w#w-mf920902-063-p2s1w14</LM>
 </w.rf>
 <form>vynese</form>
-<tag lemma="vynést" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag>
+<AM lemma="vynést" src="orig">VB-S---3P-AA---</AM>
+<AM lemma="vynést_:W" src="manual" selected="1">VB-S---3P-AA---</AM>
+</tag>
 </m>
 <m id="m-mf920902-063-p2s1w15">
 <src.rf>manual</src.rf>
@@ -149,7 +158,10 @@
 <LM>w#w-mf920902-063-p2s1w15</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-2" src="auto" selected="1">Dg-------2A----</tag>
+<tag>
+<AM lemma="hodně-2" src="auto">Dg-------2A----</AM>
+<AM lemma="hodně-3" src="manual" selected="1">Dg-------2A----</AM>
+</tag>
 </m>
 <m id="m-mf920902-063-p2s1w16">
 <src.rf>manual</src.rf>
@@ -181,7 +193,10 @@
 <LM>w#w-mf920902-063-p2s1w19</LM>
 </w.rf>
 <form>dolarů</form>
-<tag lemma="dolar_;b" src="orig" selected="1">NNIP2-----A----</tag>
+<tag>
+<AM lemma="dolar_;b" src="orig">NNIP2-----A----</AM>
+<AM lemma="dolar" src="manual" selected="1">NNIP2-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920902-063-p2s1w20">
 <src.rf>manual</src.rf>
@@ -321,7 +336,10 @@
 <LM>w#w-mf920902-063-p2s3w6</LM>
 </w.rf>
 <form>přibude</form>
-<tag lemma="přibýt" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag>
+<AM lemma="přibýt" src="orig">VB-S---3P-AA---</AM>
+<AM lemma="přibýt_:W" src="manual" selected="1">VB-S---3P-AA---</AM>
+</tag>
 </m>
 <m id="m-mf920902-063-p2s3w7">
 <src.rf>manual</src.rf>
@@ -346,7 +364,10 @@
 <LM>w#w-mf920902-063-p2s3w9</LM>
 </w.rf>
 <form>dolarů</form>
-<tag lemma="dolar_;b" src="orig" selected="1">NNIP2-----A----</tag>
+<tag>
+<AM lemma="dolar_;b" src="orig">NNIP2-----A----</AM>
+<AM lemma="dolar" src="manual" selected="1">NNIP2-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920902-063-p2s3w10">
 <src.rf>manual</src.rf>
@@ -418,7 +439,10 @@
 <LM>w#w-mf920902-063-p2s3w18</LM>
 </w.rf>
 <form>U</form>
-<tag lemma="United-4_:B_;m_,t_^(United,_spojený)" src="orig" selected="1">AAXXX----1A---8</tag>
+<tag>
+<AM lemma="United-4_:B_;m_,t_^(United,_spojený)" src="orig">AAXXX----1A---8</AM>
+<AM lemma="U-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920902-063-p2s3w19">
 <src.rf>manual</src.rf>
@@ -459,6 +483,7 @@
 <AM lemma="společnost_:B" src="auto">NNFXX-----A---8</AM>
 <AM lemma="strana-4_:B_^(v_knize,_rukopise,...)" src="auto">NNFXX-----A---8</AM>
 <AM lemma="státní_:B" src="auto">AAXXX----1A---8</AM>
+<AM lemma="S-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920902-063-p2s3w21">
@@ -475,7 +500,11 @@
 <LM>w#w-mf920902-063-p2s3w22</LM>
 </w.rf>
 <form>Open</form>
-<tag lemma="Open-1_,t_^(v_názvu_např._sport._soutěží,_&quot;otevřený&quot;)" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="Open-1_,t_^(v_názvu_např._sport._soutěží,_&quot;otevřený&quot;)" src="orig">AAXXX----1A----</AM>
+<AM lemma="Open-88_:B" src="manual">NNXXX-----A----</AM>
+<AM lemma="Open-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-mf920902-063-p2s3w23">
 <src.rf>manual</src.rf>

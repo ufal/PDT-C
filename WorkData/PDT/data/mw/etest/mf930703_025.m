@@ -27,7 +27,10 @@
 <LM>w#w-mf930703-025-p1s1w2</LM>
 </w.rf>
 <form>Verlagsgruppe</form>
-<tag lemma="Verlagsgruppe_;K_,t" src="orig" selected="1">NNFXX-----A----</tag>
+<tag>
+<AM lemma="Verlagsgruppe_;K_,t" src="orig">NNFXX-----A----</AM>
+<AM lemma="Verlagsgruppe-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-mf930703-025-p1s1w3">
 <src.rf>manual</src.rf>
@@ -38,6 +41,7 @@
 <tag>
 <AM lemma="Passau_;K_,t" src="orig">NNNXX-----A----</AM>
 <AM lemma="Passau_;G" src="auto" recommended="1">NNNSX-----A----</AM>
+<AM lemma="Passau-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-mf930703-025-p1s1w4">
@@ -46,7 +50,10 @@
 <LM>w#w-mf930703-025-p1s1w4</LM>
 </w.rf>
 <form>F</form>
-<tag lemma="F-0_:B_;Y" src="orig" selected="1">NNMXX-----A---8</tag>
+<tag>
+<AM lemma="F-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
+<AM lemma="F-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-mf930703-025-p1s1w5">
 <src.rf>manual</src.rf>
@@ -62,7 +69,10 @@
 <LM>w#w-mf930703-025-p1s1w6</LM>
 </w.rf>
 <form>X</form>
-<tag lemma="X-0_:B_;Y" src="orig" selected="1">NNMXX-----A---8</tag>
+<tag>
+<AM lemma="X-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
+<AM lemma="X-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-mf930703-025-p1s1w7">
 <src.rf>manual</src.rf>

@@ -223,7 +223,10 @@
 <LM>w#w-mf930703-143-p2s2w5</LM>
 </w.rf>
 <form>Komsomolskaja</form>
-<tag lemma="Komsomolskaja_;K_^(šachta)" src="orig" selected="1">NNFXX-----A----</tag>
+<tag>
+<AM lemma="Komsomolskaja_;K_^(šachta)" src="orig">NNFXX-----A----</AM>
+<AM lemma="Komsomolskaja-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-mf930703-143-p2s2w6">
 <src.rf>manual</src.rf>
@@ -231,7 +234,10 @@
 <LM>w#w-mf930703-143-p2s2w6</LM>
 </w.rf>
 <form>Pravda</form>
-<tag lemma="pravda-1" src="auto" selected="1">NNFS1-----A----</tag>
+<tag>
+<AM lemma="pravda-1" src="auto">NNFS1-----A----</AM>
+<AM lemma="Pravda-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-mf930703-143-p2s2w7">
 <src.rf>manual</src.rf>
@@ -1089,7 +1095,10 @@
 <LM>w#w-mf930703-143-p2s7w12</LM>
 </w.rf>
 <form>miliony</form>
-<tag lemma="milión`1000000" src="orig" selected="1">NNIP4-----A----</tag>
+<tag>
+<AM lemma="milión`1000000" src="orig">NNIP4-----A----</AM>
+<AM lemma="milion`1000000_,s_^(^DD**milión)" src="manual" selected="1">NNIP4-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930703-143-p2s7w13">
 <src.rf>manual</src.rf>
@@ -1145,7 +1154,10 @@
 <LM>w#w-mf930703-143-p2s7w19</LM>
 </w.rf>
 <form>víc</form>
-<tag lemma="hodně-2" src="auto" selected="1">Dg-------2A---1</tag>
+<tag>
+<AM lemma="hodně-2" src="auto">Dg-------2A---1</AM>
+<AM lemma="hodně-3" src="manual" selected="1">Dg-------2A---1</AM>
+</tag>
 </m>
 <m id="m-mf930703-143-p2s7w20">
 <src.rf>manual</src.rf>
@@ -1440,7 +1452,7 @@
 <AM lemma="mercedes_;R_^(vozidlo)" src="auto">NNIP1-----A----</AM>
 <AM lemma="mercedes_;R_^(vozidlo)" src="auto">NNIP4-----A----</AM>
 <AM lemma="mercedes_;R_^(vozidlo)" src="auto">NNIP5-----A----</AM>
-<AM lemma="mercedes_;R_^(vozidlo)" src="auto" recommended="1">NNIP7-----A----</AM>
+<AM lemma="mercedes_;R_^(vozidlo)" src="auto" recommended="1" selected="1">NNIP7-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930703-143-p2s8w35">
@@ -1668,7 +1680,7 @@
 <AM lemma="kterýkoli" src="auto">PZFP5----------</AM>
 <AM lemma="kterýkoli" src="auto">PZFS2----------</AM>
 <AM lemma="kterýkoli" src="auto">PZFS3----------</AM>
-<AM lemma="kterýkoli" src="auto" recommended="1">PZFS6----------</AM>
+<AM lemma="kterýkoli" src="auto" recommended="1" selected="1">PZFS6----------</AM>
 <AM lemma="kterýkoli" src="auto">PZIP1----------</AM>
 <AM lemma="kterýkoli" src="auto">PZIP5----------</AM>
 <AM lemma="kterýkoli" src="auto">PZNS1----------</AM>
@@ -1823,7 +1835,7 @@
 <form>ačkoli</form>
 <tag>
 <AM lemma="ačkoliv" src="orig">J,------------1</AM>
-<AM lemma="ačkoli" src="auto" recommended="1">J,-------------</AM>
+<AM lemma="ačkoli" src="auto" recommended="1" selected="1">J,-------------</AM>
 </tag>
 </m>
 <m id="m-mf930703-143-p2s11w16">

@@ -297,7 +297,10 @@
 <LM>w#w-ln94200-70-p2s2w3</LM>
 </w.rf>
 <form>tzv</form>
-<tag lemma="takzvaný_:B" src="orig" selected="1">AAXXX----1A---8</tag>
+<tag>
+<AM lemma="takzvaný_:B" src="orig">AAXXX----1A---8</AM>
+<AM lemma="takzvaný" src="manual" selected="1">AAXXX----1A---8</AM>
+</tag>
 </m>
 <m id="m-ln94200-70-p2s2w4">
 <src.rf>manual</src.rf>
@@ -749,7 +752,10 @@
 <LM>w#w-ln94200-70-p2s4w31</LM>
 </w.rf>
 <form>NK</form>
-<tag lemma="NK-1_:B_;K_^(Národní_knihovna)" src="auto" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="NK-1_:B_;K_^(Národní_knihovna)" src="auto">NNFXX-----A---8</AM>
+<AM lemma="NK-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln94200-70-p2s4w32">
 <src.rf>manual</src.rf>

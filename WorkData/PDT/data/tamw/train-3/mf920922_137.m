@@ -900,7 +900,10 @@
 <LM>w#w-mf920922-137-p3s5w3</LM>
 </w.rf>
 <form>F</form>
-<tag lemma="F-0_:B_;Y" src="orig" selected="1">NNMXX-----A---8</tag>
+<tag>
+<AM lemma="F-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
+<AM lemma="F-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-mf920922-137-p3s5w4">
 <src.rf>manual</src.rf>
@@ -956,7 +959,10 @@
 <LM>w#w-mf920922-137-p3s5w10</LM>
 </w.rf>
 <form>KLDR</form>
-<tag lemma="KLDR_:B_;G_^(Korejská_lidově-demokratická_republika)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="KLDR_:B_;G_^(Korejská_lidově-demokratická_republika)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="KLDR_:B_;G_^(Korejská_lidově-demokratická_republika)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920922-137-p3s5w11">
 <src.rf>manual</src.rf>
@@ -1044,7 +1050,10 @@
 <LM>w#w-mf920922-137-p3s5w21</LM>
 </w.rf>
 <form>komunismu</form>
-<tag lemma="komunismus" src="orig" selected="1">NNIS2-----A----</tag>
+<tag>
+<AM lemma="komunismus" src="orig">NNIS2-----A----</AM>
+<AM lemma="komunismus_,s_^(^DD**komunizmus)" src="manual" selected="1">NNIS2-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920922-137-p3s5w22">
 <src.rf>manual</src.rf>

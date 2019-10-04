@@ -51,7 +51,11 @@
 <LM>w#w-lnd92253-086-p1s1w5</LM>
 </w.rf>
 <form>LE</form>
-<tag lemma="Le-1_,t_^(franc._člen_jako_souč._jmen_a_názvů)" src="orig" selected="1">AAMSX----1A----</tag>
+<tag>
+<AM lemma="Le-1_,t_^(franc._člen_jako_souč._jmen_a_názvů)" src="orig">AAMSX----1A----</AM>
+<AM lemma="le-1_,t_^(člen)" src="manual">AAXXX----1A----</AM>
+<AM lemma="LE-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-lnd92253-086-p1s1w6">
 <src.rf>manual</src.rf>
@@ -63,6 +67,7 @@
 <AM lemma="Figaro-2_;R_,t" src="orig">NNIS1-----A----</AM>
 <AM lemma="Figaro_;S_;Y_,t" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Figaro_;S_;Y_,t" src="auto">NNMS5-----A----</AM>
+<AM lemma="FIGARO-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-lnd92253-086-p1s1w7">
@@ -79,7 +84,10 @@
 <LM>w#w-lnd92253-086-p1s1w8</LM>
 </w.rf>
 <form>FINANCIAL</form>
-<tag lemma="Financial_;R_,t" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="Financial_;R_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="FINANCIAL-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-lnd92253-086-p1s1w9">
 <src.rf>manual</src.rf>
@@ -87,7 +95,10 @@
 <LM>w#w-lnd92253-086-p1s1w9</LM>
 </w.rf>
 <form>TIMES</form>
-<tag lemma="Times-1_;K_,t_^(souč._názvů,_např._The_Times)" src="orig" selected="1">NNIPX-----A----</tag>
+<tag>
+<AM lemma="Times-1_;K_,t_^(souč._názvů,_např._The_Times)" src="orig">NNIPX-----A----</AM>
+<AM lemma="TIMES-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 </s>
 <s id="m-lnd92253-086-p2s1">
@@ -237,7 +248,10 @@
 <LM>w#w-lnd92253-086-p3s2w14</LM>
 </w.rf>
 <form>komunismus</form>
-<tag lemma="komunismus" src="orig" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="komunismus" src="orig">NNIS1-----A----</AM>
+<AM lemma="komunismus_,s_^(^DD**komunizmus)" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92253-086-p3s2w15">
 <src.rf>manual</src.rf>
@@ -391,7 +405,10 @@
 <LM>w#w-lnd92253-086-p3s3w5</LM>
 </w.rf>
 <form>ČSFR</form>
-<tag lemma="ČSFR-1_:B_;G_^(Čs._federativní_republika)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ČSFR-1_:B_;G_^(Čs._federativní_republika)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČSFR-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd92253-086-p3s3w6">
 <src.rf>manual</src.rf>
@@ -479,7 +496,11 @@
 <LM>w#w-lnd92253-086-p3s3w16</LM>
 </w.rf>
 <form>Le</form>
-<tag lemma="Le-1_,t_^(franc._člen_jako_souč._jmen_a_názvů)" src="orig" selected="1">AAMSX----1A----</tag>
+<tag>
+<AM lemma="Le-1_,t_^(franc._člen_jako_souč._jmen_a_názvů)" src="orig">AAMSX----1A----</AM>
+<AM lemma="le-1_,t_^(člen)" src="manual">AAXXX----1A----</AM>
+<AM lemma="Le-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-lnd92253-086-p3s3w17">
 <src.rf>manual</src.rf>
@@ -491,6 +512,7 @@
 <AM lemma="Figaro-2_;R_,t" src="orig">NNIS1-----A----</AM>
 <AM lemma="Figaro_;S_;Y_,t" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Figaro_;S_;Y_,t" src="auto">NNMS5-----A----</AM>
+<AM lemma="Figaro-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-lnd92253-086-p3s3w18">
@@ -553,7 +575,7 @@
 <form>Nikoliv</form>
 <tag>
 <AM lemma="nikoliv" src="orig">Db-------------</AM>
-<AM lemma="nikoli" src="auto" recommended="1">TT------------1</AM>
+<AM lemma="nikoli" src="auto" recommended="1" selected="1">TT------------1</AM>
 </tag>
 </m>
 <m id="m-lnd92253-086-p4s2w2">
@@ -910,7 +932,10 @@
 <LM>w#w-lnd92253-086-p4s4w16</LM>
 </w.rf>
 <form>V</form>
-<tag lemma="V-0_:B_;Y" src="orig" selected="1">NNMXX-----A---8</tag>
+<tag>
+<AM lemma="V-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
+<AM lemma="V-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd92253-086-p4s4w17">
 <src.rf>manual</src.rf>
@@ -1404,7 +1429,10 @@
 <LM>w#w-lnd92253-086-p5s3w5</LM>
 </w.rf>
 <form>V</form>
-<tag lemma="V-0_:B_;Y" src="orig" selected="1">NNMXX-----A---8</tag>
+<tag>
+<AM lemma="V-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
+<AM lemma="V-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd92253-086-p5s3w6">
 <src.rf>manual</src.rf>
@@ -3852,7 +3880,7 @@
 <form>nezkušená</form>
 <tag>
 <AM lemma="nezkušený" src="orig">AAFS1----1A----</AM>
-<AM lemma="zkušený" src="auto" recommended="1">AAFS1----1N----</AM>
+<AM lemma="zkušený" src="auto" recommended="1" selected="1">AAFS1----1N----</AM>
 <AM lemma="zkušený" src="auto">AAFS5----1N----</AM>
 <AM lemma="zkušený" src="auto">AANP1----1N----</AM>
 <AM lemma="zkušený" src="auto">AANP4----1N----</AM>
@@ -3961,7 +3989,10 @@
 <LM>w#w-lnd92253-086-p7s3w26</LM>
 </w.rf>
 <form>Financial</form>
-<tag lemma="Financial_;R_,t" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="Financial_;R_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="Financial-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-lnd92253-086-p7s3w27">
 <src.rf>manual</src.rf>
@@ -3969,7 +4000,10 @@
 <LM>w#w-lnd92253-086-p7s3w27</LM>
 </w.rf>
 <form>Times</form>
-<tag lemma="Times-1_;K_,t_^(souč._názvů,_např._The_Times)" src="orig" selected="1">NNIPX-----A----</tag>
+<tag>
+<AM lemma="Times-1_;K_,t_^(souč._názvů,_např._The_Times)" src="orig">NNIPX-----A----</AM>
+<AM lemma="Times-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-lnd92253-086-p7s3w28">
 <src.rf>manual</src.rf>

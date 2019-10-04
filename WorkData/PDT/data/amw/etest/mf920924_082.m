@@ -313,7 +313,7 @@
 <form>ačkoli</form>
 <tag>
 <AM lemma="ačkoliv" src="orig">J,------------1</AM>
-<AM lemma="ačkoli" src="auto" recommended="1">J,-------------</AM>
+<AM lemma="ačkoli" src="auto" recommended="1" selected="1">J,-------------</AM>
 </tag>
 </m>
 <m id="m-mf920924-082-p2s2w13">
@@ -518,7 +518,10 @@
 <LM>w#w-mf920924-082-p2s4w11</LM>
 </w.rf>
 <form>HC</form>
-<tag lemma="HC-1_:B_^(hockey_club)" src="auto" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="HC-1_:B_^(hockey_club)" src="auto">NNIXX-----A---8</AM>
+<AM lemma="HC-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-mf920924-082-p2s4w12">
 <src.rf>manual</src.rf>
@@ -534,7 +537,10 @@
 <LM>w#w-mf920924-082-p2s4w13</LM>
 </w.rf>
 <form>ing</form>
-<tag lemma="Ing-1_:B_^(inženýr)" src="orig" selected="1">NNMXX-----A---8</tag>
+<tag>
+<AM lemma="Ing-1_:B_^(inženýr)" src="orig">NNMXX-----A---8</AM>
+<AM lemma="ing_:B_^(inženýr)" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-mf920924-082-p2s4w14">
 <src.rf>manual</src.rf>
@@ -1228,7 +1234,7 @@
 <tag>
 <AM lemma="přece" src="orig">Db-------------</AM>
 <AM lemma="přece-1" src="auto" recommended="1">J^-------------</AM>
-<AM lemma="přece-2" src="auto">TT-------------</AM>
+<AM lemma="přece-2" src="auto" selected="1">TT-------------</AM>
 </tag>
 </m>
 <m id="m-mf920924-082-p2s8w13">
@@ -1803,6 +1809,7 @@
 <tag>
 <AM lemma="USA_;G" src="orig">NNIPX-----A----</AM>
 <AM lemma="USA_:B_;K_,t_^(United_States_of_America)" src="auto" recommended="1">NNIPX-----A---8</AM>
+<AM lemma="USA_:B_;K_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-mf920924-082-p2s13w10">
@@ -1859,7 +1866,10 @@
 <LM>w#w-mf920924-082-p2s13w16</LM>
 </w.rf>
 <form>dr</form>
-<tag lemma="doktor_:B_^(doktor,_akad._titul)" src="orig" selected="1">NNMXX-----A---8</tag>
+<tag>
+<AM lemma="doktor_:B_^(doktor,_akad._titul)" src="orig">NNMXX-----A---8</AM>
+<AM lemma="dr_:B_^(doktor)" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-mf920924-082-p2s13w17">
 <src.rf>manual</src.rf>
@@ -1875,7 +1885,10 @@
 <LM>w#w-mf920924-082-p2s13w18</LM>
 </w.rf>
 <form>Voda</form>
-<tag lemma="voda" src="orig" selected="1">NNFS1-----A----</tag>
+<tag>
+<AM lemma="voda" src="orig">NNFS1-----A----</AM>
+<AM lemma="Voda_;S" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920924-082-p2s13w19">
 <src.rf>manual</src.rf>

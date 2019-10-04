@@ -961,7 +961,10 @@
 <LM>w#w-mf920901-113-p3s3w10</LM>
 </w.rf>
 <form>jen</form>
-<tag lemma="jen-1" src="auto" selected="1">TT-------------</tag>
+<tag>
+<AM lemma="jen-1" src="auto">TT-------------</AM>
+<AM lemma="jen-4_^(pouze)" src="manual" selected="1">Db-------------</AM>
+</tag>
 </m>
 <m id="m-mf920901-113-p3s3w11">
 <src.rf>manual</src.rf>
@@ -1686,6 +1689,7 @@
 <AM lemma="radikalizmus" src="auto">NNIS2-----A----</AM>
 <AM lemma="radikalizmus" src="auto" recommended="1">NNIS3-----A----</AM>
 <AM lemma="radikalizmus" src="auto">NNIS6-----A----</AM>
+<AM lemma="radikalismus_,s_^(^DD**radikalizmus)" src="manual" selected="1">NNIS3-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920901-113-p4s4w21">

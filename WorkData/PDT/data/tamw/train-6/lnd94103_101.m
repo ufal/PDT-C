@@ -1051,6 +1051,7 @@
 <AM lemma="romantizmus" src="auto" recommended="1">NNIS2-----A----</AM>
 <AM lemma="romantizmus" src="auto">NNIS3-----A----</AM>
 <AM lemma="romantizmus" src="auto">NNIS6-----A----</AM>
+<AM lemma="romantismus_,s_^(^DD**romantizmus)" src="manual" selected="1">NNIS2-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94103-101-p1s5w15">
@@ -1311,7 +1312,10 @@
 <LM>w#w-lnd94103-101-p1s7w6</LM>
 </w.rf>
 <form>klasicismu</form>
-<tag lemma="klasicismus" src="orig" selected="1">NNIS3-----A----</tag>
+<tag>
+<AM lemma="klasicismus" src="orig">NNIS3-----A----</AM>
+<AM lemma="klasicismus_,s_^(^DD**klasicizmus)" src="manual" selected="1">NNIS3-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd94103-101-p1s7w7">
 <src.rf>manual</src.rf>
@@ -1625,7 +1629,10 @@
 <LM>w#w-lnd94103-101-p1s8w26</LM>
 </w.rf>
 <form>Julietta</form>
-<tag lemma="Julietta_;Y_,t" src="auto" selected="1">NNFS1-----A----</tag>
+<tag>
+<AM lemma="Julietta_;Y_,t" src="auto">NNFS1-----A----</AM>
+<AM lemma="Julietta_;Y" src="manual" selected="1">NNFS1-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd94103-101-p1s8w27">
 <src.rf>manual</src.rf>
@@ -1852,7 +1859,10 @@
 <LM>w#w-lnd94103-101-p1s9w24</LM>
 </w.rf>
 <form>Neumann</form>
-<tag lemma="Neumann_;G" src="auto" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Neumann_;G" src="auto">NNMS1-----A----</AM>
+<AM lemma="Neumann_;G_;S" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd94103-101-p1s9w25">
 <src.rf>manual</src.rf>
@@ -2314,7 +2324,7 @@
 <form>ovšem</form>
 <tag>
 <AM lemma="ovšem-1_^(avšak,_však;_odporovací_spojka)" src="orig">J^-------------</AM>
-<AM lemma="ovšem" src="auto" recommended="1">TT-------------</AM>
+<AM lemma="ovšem" src="auto" recommended="1" selected="1">TT-------------</AM>
 </tag>
 </m>
 <m id="m-lnd94103-101-p1s11w33">
@@ -2374,7 +2384,7 @@
 <tag>
 <AM lemma="mnohovrstevný" src="orig">AAFS7----1A----</AM>
 <AM lemma="mnohavrstevný" src="auto">AAFS4----1A----</AM>
-<AM lemma="mnohavrstevný" src="auto" recommended="1">AAFS7----1A----</AM>
+<AM lemma="mnohavrstevný" src="auto" recommended="1" selected="1">AAFS7----1A----</AM>
 </tag>
 </m>
 <m id="m-lnd94103-101-p1s11w40">
@@ -2401,7 +2411,10 @@
 <LM>w#w-lnd94103-101-p1s12w1</LM>
 </w.rf>
 <form>Concertino</form>
-<tag lemma="concertino_,t_^(koncert_menšího_rozsahu;;malá_instrumentální_skupina)" src="auto" selected="1">NNNS1-----A----</tag>
+<tag>
+<AM lemma="concertino_,t_^(koncert_menšího_rozsahu;;malá_instrumentální_skupina)" src="auto">NNNS1-----A----</AM>
+<AM lemma="Concertino-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-lnd94103-101-p1s12w2">
 <src.rf>manual</src.rf>
@@ -2555,7 +2568,10 @@
 <LM>w#w-lnd94103-101-p1s13w1</LM>
 </w.rf>
 <form>Dvojkoncert</form>
-<tag lemma="dvojkoncert" src="orig" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="dvojkoncert" src="orig">NNIS1-----A----</AM>
+<AM lemma="dvojkoncert_,s_^(^DD**dvoukoncert)" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd94103-101-p1s13w2">
 <src.rf>manual</src.rf>
@@ -2797,7 +2813,10 @@
 <LM>w#w-lnd94103-101-p1s14w15</LM>
 </w.rf>
 <form>ať</form>
-<tag lemma="ať-2" src="auto" selected="1">TT-------------</tag>
+<tag>
+<AM lemma="ať-2" src="auto">TT-------------</AM>
+<AM lemma="ať" src="manual" selected="1">J^-------------</AM>
+</tag>
 </m>
 <m id="m-lnd94103-101-p1s14w16">
 <src.rf>manual</src.rf>
@@ -3478,7 +3497,7 @@
 <tag>
 <AM lemma="tady" src="orig">Db------------1</AM>
 <AM lemma="ten" src="auto" recommended="1">PDFS4----------</AM>
-<AM lemma="tu" src="auto">Db-------------</AM>
+<AM lemma="tu" src="auto" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m-lnd94103-101-p1s17Aw9">
@@ -3503,7 +3522,10 @@
 <LM>w#w-lnd94103-101-p1s17Aw11</LM>
 </w.rf>
 <form>Tema</form>
-<tag lemma="Tema_;G" src="auto" selected="1">NNFS1-----A----</tag>
+<tag>
+<AM lemma="Tema_;G" src="auto">NNFS1-----A----</AM>
+<AM lemma="Tema-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-lnd94103-101-p1s17Aw12">
 <src.rf>manual</src.rf>
@@ -3511,7 +3533,10 @@
 <LM>w#w-lnd94103-101-p1s17Aw12</LM>
 </w.rf>
 <form>con</form>
-<tag lemma="con_,t" src="orig" selected="1">RR--X----------</tag>
+<tag>
+<AM lemma="con_,t" src="orig">RR--X----------</AM>
+<AM lemma="con-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-lnd94103-101-p1s17Aw13">
 <src.rf>manual</src.rf>
@@ -3519,7 +3544,10 @@
 <LM>w#w-lnd94103-101-p1s17Aw13</LM>
 </w.rf>
 <form>variacioni</form>
-<tag lemma="variacioni_,t" src="orig" selected="1">NNFPX-----A----</tag>
+<tag>
+<AM lemma="variacioni_,t" src="orig">NNFPX-----A----</AM>
+<AM lemma="variacioni-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-lnd94103-101-p1s17Aw14">
 <src.rf>manual</src.rf>

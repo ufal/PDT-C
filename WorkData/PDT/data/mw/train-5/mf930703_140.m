@@ -129,6 +129,7 @@
 <AM lemma="Kommersant_;R_,t" src="orig">NNIXX-----A---8</AM>
 <AM lemma="Kommersant_;K" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Kommersant_;K" src="auto">NNIS4-----A----</AM>
+<AM lemma="Kommersant-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-mf930703-140-p2s1w7">
@@ -713,7 +714,10 @@
 <LM>w#w-mf930703-140-p3s1w11</LM>
 </w.rf>
 <form>ani</form>
-<tag lemma="ani-1" src="auto" selected="1">J^-------------</tag>
+<tag>
+<AM lemma="ani-1" src="auto">J^-------------</AM>
+<AM lemma="ani-2" src="manual" selected="1">TT-------------</AM>
+</tag>
 </m>
 <m id="m-mf930703-140-p3s1w12">
 <src.rf>manual</src.rf>

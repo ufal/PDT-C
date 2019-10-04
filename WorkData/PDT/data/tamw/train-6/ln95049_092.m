@@ -60,7 +60,10 @@
 <LM>w#w-ln95049-092-p1s1w6</LM>
 </w.rf>
 <form>LB</form>
-<tag lemma="LB-1_:B_;K_;p_^(Levý_Blok)" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="LB-1_:B_;K_;p_^(Levý_Blok)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="LB-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 </s>
 <s id="m-ln95049-092-p2s1A">
@@ -86,7 +89,10 @@
 <LM>w#w-ln95049-092-p2s1Aw3</LM>
 </w.rf>
 <form>mot</form>
-<tag lemma="mot-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="mot-99_:B_;S" src="orig">NNXXX-----A---8</AM>
+<AM lemma="mot-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95049-092-p2s1Aw4">
 <src.rf>manual</src.rf>
@@ -162,7 +168,7 @@
 <form>nikoli</form>
 <tag>
 <AM lemma="nikoliv" src="orig">Db------------1</AM>
-<AM lemma="nikoli" src="auto" recommended="1">TT-------------</AM>
+<AM lemma="nikoli" src="auto" recommended="1" selected="1">TT-------------</AM>
 </tag>
 </m>
 <m id="m-ln95049-092-p2s1Bw8">
@@ -171,7 +177,10 @@
 <LM>w#w-ln95049-092-p2s1Bw8</LM>
 </w.rf>
 <form>masové</form>
-<tag lemma="masový-2_^(velký)" src="orig" selected="1">AAFS2----1A----</tag>
+<tag>
+<AM lemma="masový-2_^(velký)" src="orig">AAFS2----1A----</AM>
+<AM lemma="masový" src="manual" selected="1">AAFS2----1A----</AM>
+</tag>
 </m>
 <m id="m-ln95049-092-p2s1Bw9">
 <src.rf>manual</src.rf>
@@ -187,7 +196,10 @@
 <LM>w#w-ln95049-092-p2s1Bw10</LM>
 </w.rf>
 <form>strany</form>
-<tag lemma="strana-2_^(politická)" src="orig" selected="1">NNFS2-----A----</tag>
+<tag>
+<AM lemma="strana-2_^(politická)" src="orig">NNFS2-----A----</AM>
+<AM lemma="strana" src="manual" selected="1">NNFS2-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95049-092-p2s1Bw11">
 <src.rf>manual</src.rf>
@@ -285,7 +297,10 @@
 <LM>w#w-ln95049-092-p2s2w6</LM>
 </w.rf>
 <form>strany</form>
-<tag lemma="strana-2_^(politická)" src="orig" selected="1">NNFS2-----A----</tag>
+<tag>
+<AM lemma="strana-2_^(politická)" src="orig">NNFS2-----A----</AM>
+<AM lemma="strana" src="manual" selected="1">NNFS2-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95049-092-p2s2w7">
 <src.rf>manual</src.rf>
@@ -367,7 +382,10 @@
 <LM>w#w-ln95049-092-p2s3w1</LM>
 </w.rf>
 <form>LB</form>
-<tag lemma="LB-1_:B_;K_;p_^(Levý_Blok)" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="LB-1_:B_;K_;p_^(Levý_Blok)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="LB-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95049-092-p2s3w2">
 <src.rf>manual</src.rf>
@@ -497,7 +515,10 @@
 <LM>w#w-ln95049-092-p3s1w6</LM>
 </w.rf>
 <form>LB</form>
-<tag lemma="LB-1_:B_;K_;p_^(Levý_Blok)" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="LB-1_:B_;K_;p_^(Levý_Blok)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="LB-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95049-092-p3s1w7">
 <src.rf>manual</src.rf>
@@ -651,7 +672,10 @@
 <LM>w#w-ln95049-092-p3s2w4</LM>
 </w.rf>
 <form>LB</form>
-<tag lemma="LB-1_:B_;K_;p_^(Levý_Blok)" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="LB-1_:B_;K_;p_^(Levý_Blok)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="LB-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95049-092-p3s2w5">
 <src.rf>manual</src.rf>
@@ -683,7 +707,10 @@
 <LM>w#w-ln95049-092-p3s2w8</LM>
 </w.rf>
 <form>Stranou</form>
-<tag lemma="strana-2_^(politická)" src="orig" selected="1">NNFS7-----A----</tag>
+<tag>
+<AM lemma="strana-2_^(politická)" src="orig">NNFS7-----A----</AM>
+<AM lemma="strana" src="manual" selected="1">NNFS7-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95049-092-p3s2w9">
 <src.rf>manual</src.rf>
@@ -839,7 +866,10 @@
 <LM>w#w-ln95049-092-p3s4w6</LM>
 </w.rf>
 <form>strana</form>
-<tag lemma="strana-2_^(politická)" src="orig" selected="1">NNFS1-----A----</tag>
+<tag>
+<AM lemma="strana-2_^(politická)" src="orig">NNFS1-----A----</AM>
+<AM lemma="strana" src="manual" selected="1">NNFS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95049-092-p3s4w7">
 <src.rf>manual</src.rf>
@@ -937,7 +967,10 @@
 <LM>w#w-ln95049-092-p3s5w3</LM>
 </w.rf>
 <form>strany</form>
-<tag lemma="strana-2_^(politická)" src="orig" selected="1">NNFS2-----A----</tag>
+<tag>
+<AM lemma="strana-2_^(politická)" src="orig">NNFS2-----A----</AM>
+<AM lemma="strana" src="manual" selected="1">NNFS2-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95049-092-p3s5w4">
 <src.rf>manual</src.rf>

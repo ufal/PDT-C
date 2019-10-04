@@ -313,7 +313,7 @@
 <form>Nejspíš</form>
 <tag>
 <AM lemma="spíše" src="orig">Dg-------3A----</AM>
-<AM lemma="nejspíš" src="auto">TT-------------</AM>
+<AM lemma="nejspíš" src="auto" selected="1">TT-------------</AM>
 <AM lemma="spíš" src="auto" recommended="1">Dg-------3A----</AM>
 </tag>
 </m>
@@ -2450,7 +2450,10 @@
 <LM>w#w-lnd94104-090-p1s18w22</LM>
 </w.rf>
 <form>Džbánu</form>
-<tag lemma="džbán" src="orig" selected="1">NNIS2-----A----</tag>
+<tag>
+<AM lemma="džbán" src="orig">NNIS2-----A----</AM>
+<AM lemma="Džbán-2_;G" src="manual" selected="1">NNIS2-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd94104-090-p1s18w23">
 <src.rf>manual</src.rf>
@@ -2849,7 +2852,10 @@
 <LM>w#w-lnd94104-090-p1s21w14</LM>
 </w.rf>
 <form>např</form>
-<tag lemma="například_:B" src="orig" selected="1">Db------------8</tag>
+<tag>
+<AM lemma="například_:B" src="orig">Db------------8</AM>
+<AM lemma="například" src="manual" selected="1">Db------------8</AM>
+</tag>
 </m>
 <m id="m-lnd94104-090-p1s21w15">
 <src.rf>manual</src.rf>
@@ -2884,7 +2890,7 @@
 <AM lemma="Borovský_;S" src="auto">NNMP1-----A---6</AM>
 <AM lemma="Borovský_;S" src="auto">NNMP4-----A---6</AM>
 <AM lemma="Borovský_;S" src="auto">NNMP5-----A---6</AM>
-<AM lemma="Borovský_;S" src="auto">NNMS1-----A----</AM>
+<AM lemma="Borovský_;S" src="auto" selected="1">NNMS1-----A----</AM>
 <AM lemma="Borovský_;S" src="auto">NNMS5-----A----</AM>
 <AM lemma="borovský" src="auto">AAFP1----1A---6</AM>
 <AM lemma="borovský" src="auto">AAFP4----1A---6</AM>

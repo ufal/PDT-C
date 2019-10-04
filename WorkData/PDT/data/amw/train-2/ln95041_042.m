@@ -77,7 +77,10 @@
 <LM>w#w-ln95041-042-p2s1Aw2</LM>
 </w.rf>
 <form>reggae</form>
-<tag lemma="reggae_;u_,t" src="auto" selected="1">NNNXX-----A----</tag>
+<tag>
+<AM lemma="reggae_;u_,t" src="auto">NNNXX-----A----</AM>
+<AM lemma="reggae" src="manual" selected="1">NNNXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95041-042-p2s1Aw3">
 <src.rf>manual</src.rf>
@@ -143,7 +146,10 @@
 <LM>w#w-ln95041-042-p2s1Bw1</LM>
 </w.rf>
 <form>Rastaman</form>
-<tag lemma="rastaman_,h_,t_^(vyznavač_reggae)" src="auto" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="rastaman_,h_,t_^(vyznavač_reggae)" src="auto">NNMS1-----A----</AM>
+<AM lemma="rastaman_,h_^(vyznavač_reggae)" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95041-042-p2s1Bw2">
 <src.rf>manual</src.rf>
@@ -167,7 +173,10 @@
 <LM>w#w-ln95041-042-p2s1Bw4</LM>
 </w.rf>
 <form>reggae</form>
-<tag lemma="reggae_;u_,t" src="auto" selected="1">NNNXX-----A----</tag>
+<tag>
+<AM lemma="reggae_;u_,t" src="auto">NNNXX-----A----</AM>
+<AM lemma="reggae" src="manual" selected="1">NNNXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95041-042-p2s1Bw5">
 <src.rf>manual</src.rf>
@@ -249,7 +258,10 @@
 <LM>w#w-ln95041-042-p2s2w1</LM>
 </w.rf>
 <form>Rastafan</form>
-<tag lemma="rastafan_,h_,t_^(rastaman_vyznavač_reggae)" src="auto" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="rastafan_,h_,t_^(rastaman_vyznavač_reggae)" src="auto">NNMS1-----A----</AM>
+<AM lemma="rastafan_,h_^(rastaman_vyznavač_reggae)" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95041-042-p2s2w2">
 <src.rf>manual</src.rf>
@@ -281,7 +293,10 @@
 <LM>w#w-ln95041-042-p2s2w5</LM>
 </w.rf>
 <form>rastamana</form>
-<tag lemma="rastaman_,h_,t_^(vyznavač_reggae)" src="auto" selected="1">NNMS2-----A----</tag>
+<tag>
+<AM lemma="rastaman_,h_,t_^(vyznavač_reggae)" src="auto">NNMS2-----A----</AM>
+<AM lemma="rastaman_,h_^(vyznavač_reggae)" src="manual" selected="1">NNMS2-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95041-042-p2s2w6">
 <src.rf>manual</src.rf>
@@ -339,7 +354,10 @@
 <LM>w#w-ln95041-042-p2s3w6</LM>
 </w.rf>
 <form>rastafanů</form>
-<tag lemma="rastafan_,h_,t_^(rastaman_vyznavač_reggae)" src="auto" selected="1">NNMP2-----A----</tag>
+<tag>
+<AM lemma="rastafan_,h_,t_^(rastaman_vyznavač_reggae)" src="auto">NNMP2-----A----</AM>
+<AM lemma="rastafan_,h_^(rastaman_vyznavač_reggae)" src="manual" selected="1">NNMP2-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95041-042-p2s3w7">
 <src.rf>manual</src.rf>
@@ -557,7 +575,10 @@
 <LM>w#w-ln95041-042-p2s4w26</LM>
 </w.rf>
 <form>reggae</form>
-<tag lemma="reggae_;u_,t" src="auto" selected="1">NNNXX-----A----</tag>
+<tag>
+<AM lemma="reggae_;u_,t" src="auto">NNNXX-----A----</AM>
+<AM lemma="reggae" src="manual" selected="1">NNNXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95041-042-p2s4w27">
 <src.rf>manual</src.rf>
@@ -687,7 +708,10 @@
 <LM>w#w-ln95041-042-p2s5w11</LM>
 </w.rf>
 <form>rastafan</form>
-<tag lemma="rastafan_,h_,t_^(rastaman_vyznavač_reggae)" src="auto" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="rastafan_,h_,t_^(rastaman_vyznavač_reggae)" src="auto">NNMS1-----A----</AM>
+<AM lemma="rastafan_,h_^(rastaman_vyznavač_reggae)" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95041-042-p2s5w12">
 <src.rf>manual</src.rf>
@@ -923,7 +947,10 @@
 <LM>w#w-ln95041-042-p2s7w4</LM>
 </w.rf>
 <form>sice</form>
-<tag lemma="sice-2" src="auto" selected="1">Db-------------</tag>
+<tag>
+<AM lemma="sice-2" src="auto">Db-------------</AM>
+<AM lemma="sice-1_^(spojka;_připouští_se_určitá_fakta)" src="manual" selected="1">J^-------------</AM>
+</tag>
 </m>
 <m id="m-ln95041-042-p2s7w5">
 <src.rf>manual</src.rf>
@@ -939,7 +966,10 @@
 <LM>w#w-ln95041-042-p2s7w6</LM>
 </w.rf>
 <form>vydala</form>
-<tag lemma="vydat-1_:W_^(emitovat:_cenné_papíry,_knihu,_zvuk,...)" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag>
+<AM lemma="vydat-1_:W_^(emitovat:_cenné_papíry,_knihu,_zvuk,...)" src="orig">VpQW---XR-AA---</AM>
+<AM lemma="vydat_:W" src="manual" selected="1">VpQW---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-ln95041-042-p2s7w7">
 <src.rf>manual</src.rf>
@@ -1019,7 +1049,10 @@
 <LM>w#w-ln95041-042-p2s7w16</LM>
 </w.rf>
 <form>archívními</form>
-<tag lemma="archívní" src="orig" selected="1">AAFP7----1A----</tag>
+<tag>
+<AM lemma="archívní" src="orig">AAFP7----1A----</AM>
+<AM lemma="archívní_,s_^(^DD**archivní)" src="manual" selected="1">AAFP7----1A----</AM>
+</tag>
 </m>
 <m id="m-ln95041-042-p2s7w17">
 <src.rf>manual</src.rf>
@@ -1311,7 +1344,10 @@
 <LM>w#w-ln95041-042-p3s1w4</LM>
 </w.rf>
 <form>reggae</form>
-<tag lemma="reggae_;u_,t" src="auto" selected="1">NNNXX-----A----</tag>
+<tag>
+<AM lemma="reggae_;u_,t" src="auto">NNNXX-----A----</AM>
+<AM lemma="reggae" src="manual" selected="1">NNNXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95041-042-p3s1w5">
 <src.rf>manual</src.rf>
@@ -1441,7 +1477,10 @@
 <LM>w#w-ln95041-042-p4s1w12</LM>
 </w.rf>
 <form>reggae</form>
-<tag lemma="reggae_;u_,t" src="auto" selected="1">NNNXX-----A----</tag>
+<tag>
+<AM lemma="reggae_;u_,t" src="auto">NNNXX-----A----</AM>
+<AM lemma="reggae" src="manual" selected="1">NNNXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95041-042-p4s1w13">
 <src.rf>manual</src.rf>
@@ -1565,7 +1604,10 @@
 <LM>w#w-ln95041-042-p4s3w7</LM>
 </w.rf>
 <form>reggae</form>
-<tag lemma="reggae_;u_,t" src="auto" selected="1">NNNXX-----A----</tag>
+<tag>
+<AM lemma="reggae_;u_,t" src="auto">NNNXX-----A----</AM>
+<AM lemma="reggae" src="manual" selected="1">NNNXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95041-042-p4s3w8">
 <src.rf>manual</src.rf>
@@ -1729,7 +1771,10 @@
 <LM>w#w-ln95041-042-p6s1w3</LM>
 </w.rf>
 <form>straně</form>
-<tag lemma="strana-1_^(v_prostoru)" src="orig" selected="1">NNFS6-----A----</tag>
+<tag>
+<AM lemma="strana-1_^(v_prostoru)" src="orig">NNFS6-----A----</AM>
+<AM lemma="strana" src="manual" selected="1">NNFS6-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95041-042-p6s1w4">
 <src.rf>manual</src.rf>
@@ -1795,7 +1840,10 @@
 <LM>w#w-ln95041-042-p6s2w2</LM>
 </w.rf>
 <form>straně</form>
-<tag lemma="strana-1_^(v_prostoru)" src="orig" selected="1">NNFS6-----A----</tag>
+<tag>
+<AM lemma="strana-1_^(v_prostoru)" src="orig">NNFS6-----A----</AM>
+<AM lemma="strana" src="manual" selected="1">NNFS6-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95041-042-p6s2w3">
 <src.rf>manual</src.rf>
@@ -2377,7 +2425,10 @@
 <LM>w#w-ln95041-042-p7s1w2</LM>
 </w.rf>
 <form>hodně</form>
-<tag lemma="hodně-2_^(nezlobivý)_(*3ý-2)" src="auto" selected="1">Dg-------1A----</tag>
+<tag>
+<AM lemma="hodně-2_^(nezlobivý)_(*3ý-2)" src="auto">Dg-------1A----</AM>
+<AM lemma="hodně-3" src="manual" selected="1">Dg-------1A----</AM>
+</tag>
 </m>
 <m id="m-ln95041-042-p7s1w3">
 <src.rf>manual</src.rf>
@@ -2575,7 +2626,7 @@
 <form>Ovšem</form>
 <tag>
 <AM lemma="ovšem-1_^(avšak,_však;_odporovací_spojka)" src="orig">J^-------------</AM>
-<AM lemma="ovšem" src="auto" recommended="1">TT-------------</AM>
+<AM lemma="ovšem" src="auto" recommended="1" selected="1">TT-------------</AM>
 </tag>
 </m>
 <m id="m-ln95041-042-p7s3w2">
@@ -2794,7 +2845,10 @@
 <LM>w#w-ln95041-042-p7s4w4</LM>
 </w.rf>
 <form>reggae</form>
-<tag lemma="reggae_;u_,t" src="auto" selected="1">NNNXX-----A----</tag>
+<tag>
+<AM lemma="reggae_;u_,t" src="auto">NNNXX-----A----</AM>
+<AM lemma="reggae" src="manual" selected="1">NNNXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95041-042-p7s4w5">
 <src.rf>manual</src.rf>
@@ -2844,7 +2898,10 @@
 <LM>w#w-ln95041-042-p7s5w1</LM>
 </w.rf>
 <form>Pravda</form>
-<tag lemma="pravda-1" src="auto" selected="1">NNFS1-----A----</tag>
+<tag>
+<AM lemma="pravda-1" src="auto">NNFS1-----A----</AM>
+<AM lemma="pravda-2" src="manual" selected="1">TT-------------</AM>
+</tag>
 </m>
 <m id="m-ln95041-042-p7s5w2">
 <src.rf>manual</src.rf>
@@ -3107,7 +3164,7 @@
 <tag>
 <AM lemma="tedy" src="orig">Db-------------</AM>
 <AM lemma="tedy-1" src="auto">TT-------------</AM>
-<AM lemma="tedy-2" src="auto" recommended="1">J^-------------</AM>
+<AM lemma="tedy-2" src="auto" recommended="1" selected="1">J^-------------</AM>
 </tag>
 </m>
 <m id="m-ln95041-042-p7s7w4">
@@ -3174,7 +3231,10 @@
 <LM>w#w-ln95041-042-p8s1w5</LM>
 </w.rf>
 <form>reggae</form>
-<tag lemma="reggae_;u_,t" src="auto" selected="1">NNNXX-----A----</tag>
+<tag>
+<AM lemma="reggae_;u_,t" src="auto">NNNXX-----A----</AM>
+<AM lemma="reggae" src="manual" selected="1">NNNXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95041-042-p8s1w6">
 <src.rf>manual</src.rf>
@@ -3214,7 +3274,10 @@
 <LM>w#w-ln95041-042-p8s1w10</LM>
 </w.rf>
 <form>Vomotá</form>
-<tag lemma="vomotat_:W_,h" src="auto" selected="1">VB-S---3P-AA---</tag>
+<tag>
+<AM lemma="vomotat_:W_,h" src="auto">VB-S---3P-AA---</AM>
+<AM lemma="vomotat_,h_^(^GC**omotat)" src="manual" selected="1">VB-S---3P-AA---</AM>
+</tag>
 </m>
 <m id="m-ln95041-042-p8s1w11">
 <src.rf>manual</src.rf>
@@ -3238,7 +3301,10 @@
 <LM>w#w-ln95041-042-p8s1w13</LM>
 </w.rf>
 <form>reggae</form>
-<tag lemma="reggae_;u_,t" src="auto" selected="1">NNNXX-----A----</tag>
+<tag>
+<AM lemma="reggae_;u_,t" src="auto">NNNXX-----A----</AM>
+<AM lemma="reggae" src="manual" selected="1">NNNXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95041-042-p8s1w14">
 <src.rf>manual</src.rf>
@@ -3322,7 +3388,7 @@
 <form>vůbec</form>
 <tag>
 <AM lemma="vůbec" src="orig">Db-------------</AM>
-<AM lemma="vůbec" src="auto" recommended="1">TT-------------</AM>
+<AM lemma="vůbec" src="auto" recommended="1" selected="1">TT-------------</AM>
 </tag>
 </m>
 <m id="m-ln95041-042-p8s2w4">
@@ -3371,7 +3437,11 @@
 <LM>w#w-ln95041-042-p8s2w9</LM>
 </w.rf>
 <form>pop</form>
-<tag lemma="pop-3_,t_^(př._ve_spojení_pop_music)" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="pop-3_,t_^(př._ve_spojení_pop_music)" src="orig">AAXXX----1A----</AM>
+<AM lemma="pop-77" src="manual">F%-------------</AM>
+<AM lemma="pop-3_^(př._ve_spojení_pop_music)" src="manual" selected="1">AAXXX----1A----</AM>
+</tag>
 </m>
 <m id="m-ln95041-042-p8s2w10">
 <src.rf>manual</src.rf>
@@ -3379,7 +3449,11 @@
 <LM>w#w-ln95041-042-p8s2w10</LM>
 </w.rf>
 <form>music</form>
-<tag lemma="music_,t_^(př._pop_music)" src="orig" selected="1">NNFXX-----A----</tag>
+<tag>
+<AM lemma="music_,t_^(př._pop_music)" src="orig">NNFXX-----A----</AM>
+<AM lemma="music-77" src="manual">F%-------------</AM>
+<AM lemma="music_^(př._pop_music)" src="manual" selected="1">NNFXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95041-042-p8s2w11">
 <src.rf>manual</src.rf>
@@ -4193,7 +4267,10 @@
 <LM>w#w-ln95041-042-p10s2w1</LM>
 </w.rf>
 <form>Hrál</form>
-<tag lemma="hrát" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag>
+<AM lemma="hrát" src="orig">VpYS---XR-AA---</AM>
+<AM lemma="hrát_:T" src="manual" selected="1">VpYS---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-ln95041-042-p10s2w2">
 <src.rf>manual</src.rf>
@@ -4273,7 +4350,10 @@
 <LM>w#w-ln95041-042-p10s2w11</LM>
 </w.rf>
 <form>Bubo</form>
-<tag lemma="bubo_;U" src="orig" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="bubo_;U" src="orig">NNIS1-----A----</AM>
+<AM lemma="Bubo_;Y" src="manual" selected="1">NNFS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95041-042-p10s2w12">
 <src.rf>manual</src.rf>
@@ -4407,7 +4487,10 @@
 <LM>w#w-ln95041-042-p11s2w3</LM>
 </w.rf>
 <form>sice</form>
-<tag lemma="sice-2" src="auto" selected="1">Db-------------</tag>
+<tag>
+<AM lemma="sice-2" src="auto">Db-------------</AM>
+<AM lemma="sice-1_^(spojka;_připouští_se_určitá_fakta)" src="manual" selected="1">J^-------------</AM>
+</tag>
 </m>
 <m id="m-ln95041-042-p11s2w4">
 <src.rf>manual</src.rf>
@@ -4659,7 +4742,7 @@
 <form>přesto</form>
 <tag>
 <AM lemma="přesto" src="orig">Dg-------1A----</AM>
-<AM lemma="přesto-1" src="auto" recommended="1">Db-------------</AM>
+<AM lemma="přesto-1" src="auto" recommended="1" selected="1">Db-------------</AM>
 <AM lemma="přesto-2" src="auto">J^-------------</AM>
 </tag>
 </m>

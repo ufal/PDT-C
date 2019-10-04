@@ -61,7 +61,10 @@
 <LM>w#w-ln95041-044-p2s1w4</LM>
 </w.rf>
 <form>právě</form>
-<tag lemma="právě-1" src="auto" selected="1">Db-------------</tag>
+<tag>
+<AM lemma="právě-1" src="auto">Db-------------</AM>
+<AM lemma="právě-2" src="manual" selected="1">TT-------------</AM>
+</tag>
 </m>
 <m id="m-ln95041-044-p2s1w5">
 <src.rf>manual</src.rf>
@@ -2091,7 +2094,10 @@
 <LM>w#w-ln95041-044-p3s10w2</LM>
 </w.rf>
 <form>ani</form>
-<tag lemma="ani-1" src="auto" selected="1">J^-------------</tag>
+<tag>
+<AM lemma="ani-1" src="auto">J^-------------</AM>
+<AM lemma="ani-2" src="manual" selected="1">TT-------------</AM>
+</tag>
 </m>
 <m id="m-ln95041-044-p3s10w3">
 <src.rf>manual</src.rf>
@@ -2535,7 +2541,10 @@
 <LM>w#w-ln95041-044-p4s2w10</LM>
 </w.rf>
 <form>ani</form>
-<tag lemma="ani-1" src="auto" selected="1">J^-------------</tag>
+<tag>
+<AM lemma="ani-1" src="auto">J^-------------</AM>
+<AM lemma="ani-2" src="manual" selected="1">TT-------------</AM>
+</tag>
 </m>
 <m id="m-ln95041-044-p4s2w11">
 <src.rf>manual</src.rf>

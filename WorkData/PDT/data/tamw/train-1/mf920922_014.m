@@ -27,7 +27,10 @@
 <LM>w#w-mf920922-014-p1s1w2</LM>
 </w.rf>
 <form>ČSOB</form>
-<tag lemma="ČSOB_:B_;K_;b" src="auto" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ČSOB_:B_;K_;b" src="auto">NNFXX-----A---8</AM>
+<AM lemma="ČSOB-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-mf920922-014-p1s1w3">
 <src.rf>manual</src.rf>
@@ -355,7 +358,10 @@
 <LM>w#w-mf920922-014-p2s4w5</LM>
 </w.rf>
 <form>ČSOB</form>
-<tag lemma="ČSOB_:B_;K_;b" src="auto" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ČSOB_:B_;K_;b" src="auto">NNFXX-----A---8</AM>
+<AM lemma="ČSOB-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-mf920922-014-p2s4w6">
 <src.rf>manual</src.rf>
@@ -773,7 +779,10 @@
 <LM>w#w-mf920922-014-p2s5w21</LM>
 </w.rf>
 <form>ČSOB</form>
-<tag lemma="ČSOB_:B_;K_;b" src="auto" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ČSOB_:B_;K_;b" src="auto">NNFXX-----A---8</AM>
+<AM lemma="ČSOB-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-mf920922-014-p2s5w22">
 <src.rf>manual</src.rf>

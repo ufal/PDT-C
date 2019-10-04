@@ -69,7 +69,10 @@
 <LM>w#w-ln94200-133-p2s1w6</LM>
 </w.rf>
 <form>CD</form>
-<tag lemma="CD-1_:B_;c_;u_;y_,t_^(Audio/Data,_Compact_Disc)" src="auto" selected="1">NNNXX-----A---8</tag>
+<tag>
+<AM lemma="CD-1_:B_;c_;u_;y_,t_^(Audio/Data,_Compact_Disc)" src="auto">NNNXX-----A---8</AM>
+<AM lemma="CD-1_:B_^(Audio/Data,_Compact_Disc)" src="manual" selected="1">NNNXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94200-133-p2s1w7">
 <src.rf>manual</src.rf>
@@ -417,7 +420,10 @@
 <LM>w#w-ln94200-133-p2s3w17</LM>
 </w.rf>
 <form>Petrem</form>
-<tag lemma="Petr_;Y" src="orig" selected="1">NNMS7-----A----</tag>
+<tag>
+<AM lemma="Petr_;Y" src="orig">NNMS7-----A----</AM>
+<AM lemma="Petr_;S_;Y" src="manual" selected="1">NNMS7-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94200-133-p2s3w18">
 <src.rf>manual</src.rf>

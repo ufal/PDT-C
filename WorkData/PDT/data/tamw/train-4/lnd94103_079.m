@@ -27,7 +27,10 @@
 <LM>w#w-lnd94103-079-p1s1Aw2</LM>
 </w.rf>
 <form>neunese</form>
-<tag lemma="unést" src="orig" selected="1">VB-S---3P-NA---</tag>
+<tag>
+<AM lemma="unést" src="orig">VB-S---3P-NA---</AM>
+<AM lemma="unést_:W" src="manual" selected="1">VB-S---3P-NA---</AM>
+</tag>
 </m>
 <m id="m-lnd94103-079-p1s1Aw3">
 <src.rf>manual</src.rf>
@@ -541,7 +544,7 @@
 <form>totiž</form>
 <tag>
 <AM lemma="totiž" src="orig">Db-------------</AM>
-<AM lemma="totiž-1" src="auto" recommended="1">J^-------------</AM>
+<AM lemma="totiž-1" src="auto" recommended="1" selected="1">J^-------------</AM>
 <AM lemma="totiž-2" src="auto">TT-------------</AM>
 </tag>
 </m>
@@ -665,7 +668,10 @@
 <LM>w#w-lnd94103-079-p1s5w8</LM>
 </w.rf>
 <form>komunismu</form>
-<tag lemma="komunismus" src="orig" selected="1">NNIS2-----A----</tag>
+<tag>
+<AM lemma="komunismus" src="orig">NNIS2-----A----</AM>
+<AM lemma="komunismus_,s_^(^DD**komunizmus)" src="manual" selected="1">NNIS2-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd94103-079-p1s5w9">
 <src.rf>manual</src.rf>
@@ -681,7 +687,10 @@
 <LM>w#w-lnd94103-079-p1s5w10</LM>
 </w.rf>
 <form>vzrostla</form>
-<tag lemma="vzrůst-1" src="auto" selected="1">VpQW---XR-AA---</tag>
+<tag>
+<AM lemma="vzrůst-1" src="auto">VpQW---XR-AA---</AM>
+<AM lemma="vzrůst-1_:W" src="manual" selected="1">VpQW---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-lnd94103-079-p1s5w11">
 <src.rf>manual</src.rf>
@@ -737,7 +746,10 @@
 <LM>w#w-lnd94103-079-p1s5w17</LM>
 </w.rf>
 <form>HDP</form>
-<tag lemma="HDP_:B_^(hrubý_domácí_produkt)" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="HDP_:B_^(hrubý_domácí_produkt)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="HDP_:B_^(hrubý_domácí_produkt)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd94103-079-p1s5w18">
 <src.rf>manual</src.rf>
@@ -867,7 +879,10 @@
 <LM>w#w-lnd94103-079-p1s6w11</LM>
 </w.rf>
 <form>HDP</form>
-<tag lemma="HDP_:B_^(hrubý_domácí_produkt)" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="HDP_:B_^(hrubý_domácí_produkt)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="HDP_:B_^(hrubý_domácí_produkt)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd94103-079-p1s6w12">
 <src.rf>manual</src.rf>
@@ -1037,7 +1052,10 @@
 <LM>w#w-lnd94103-079-p1s7w8</LM>
 </w.rf>
 <form>HDP</form>
-<tag lemma="HDP_:B_^(hrubý_domácí_produkt)" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="HDP_:B_^(hrubý_domácí_produkt)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="HDP_:B_^(hrubý_domácí_produkt)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd94103-079-p1s7w9">
 <src.rf>manual</src.rf>
@@ -1234,7 +1252,7 @@
 <tag>
 <AM lemma="přesto" src="orig">Dg-------1A----</AM>
 <AM lemma="přesto-1" src="auto">Db-------------</AM>
-<AM lemma="přesto-2" src="auto" recommended="1">J^-------------</AM>
+<AM lemma="přesto-2" src="auto" recommended="1" selected="1">J^-------------</AM>
 </tag>
 </m>
 <m id="m-lnd94103-079-p1s8w14">
@@ -2172,7 +2190,7 @@
 <tag>
 <AM lemma="tedy" src="orig">Db-------------</AM>
 <AM lemma="tedy-1" src="auto">TT-------------</AM>
-<AM lemma="tedy-2" src="auto" recommended="1">J^-------------</AM>
+<AM lemma="tedy-2" src="auto" recommended="1" selected="1">J^-------------</AM>
 </tag>
 </m>
 <m id="m-lnd94103-079-p1s15w4">
@@ -2468,6 +2486,7 @@
 <tag>
 <AM lemma="am-99_:B_;S" src="orig">NNXXX-----A---8</AM>
 <AM lemma="be_,t_^(angl._jsem,_v_názvech_apod.)" src="auto" recommended="1">VB-S---1P-AA---</AM>
+<AM lemma="am-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94103-079-p1s17w3">

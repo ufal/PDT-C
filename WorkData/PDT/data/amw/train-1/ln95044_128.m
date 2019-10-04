@@ -305,7 +305,10 @@
 <LM>w#w-ln95044-128-p3s1w8</LM>
 </w.rf>
 <form>DEM</form>
-<tag lemma="DEM_:B_;b_^(německá_marka)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="DEM_:B_;b_^(německá_marka)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="DEM-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln95044-128-p3s1w9">
 <src.rf>manual</src.rf>
@@ -409,7 +412,10 @@
 <LM>w#w-ln95044-128-p3s1w21</LM>
 </w.rf>
 <form>GmbH</form>
-<tag lemma="Gmbh_:B_,t_,x_^(Gesellschaft_mit_beschränke_Haftung)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="Gmbh_:B_,t_,x_^(Gesellschaft_mit_beschränke_Haftung)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="GmbH-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln95044-128-p3s1w22">
 <src.rf>manual</src.rf>

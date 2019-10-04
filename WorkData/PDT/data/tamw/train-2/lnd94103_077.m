@@ -125,7 +125,12 @@
 <LM>w#w-lnd94103-077-p1s1w14</LM>
 </w.rf>
 <form>milionů</form>
-<tag lemma="milión`1000000" src="orig" selected="1">NNIP2-----A----</tag>
+<tag>
+<AM lemma="milión`1000000" src="orig">NNIP2-----A----</AM>
+<AM lemma="milion`1000000_,s" src="manual">_^(^DD**milión)</AM>
+<AM lemma="milion`1000000_,s" src="manual">_^(^DD**milión)</AM>
+<AM lemma="milion`1000000_,s_^(^DD**milión)" src="manual" selected="1">NNIP2-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd94103-077-p1s1w15">
 <src.rf>manual</src.rf>
@@ -133,7 +138,10 @@
 <LM>w#w-lnd94103-077-p1s1w15</LM>
 </w.rf>
 <form>dolarů</form>
-<tag lemma="dolar_;b" src="orig" selected="1">NNIP2-----A----</tag>
+<tag>
+<AM lemma="dolar_;b" src="orig">NNIP2-----A----</AM>
+<AM lemma="dolar" src="manual" selected="1">NNIP2-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd94103-077-p1s1w16">
 <src.rf>manual</src.rf>
@@ -271,7 +279,10 @@
 <LM>w#w-lnd94103-077-p1s2w7</LM>
 </w.rf>
 <form>Refreshments</form>
-<tag lemma="Refreshment_;K_,t" src="orig" selected="1">NNNPX-----A----</tag>
+<tag>
+<AM lemma="Refreshment_;K_,t" src="orig">NNNPX-----A----</AM>
+<AM lemma="Refreshments-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-lnd94103-077-p1s2w8">
 <src.rf>manual</src.rf>
@@ -287,7 +298,10 @@
 <LM>w#w-lnd94103-077-p1s2w9</LM>
 </w.rf>
 <form>CCRM</form>
-<tag lemma="CCRM_:B_;K_,t" src="orig" selected="1">NNNXX-----A---8</tag>
+<tag>
+<AM lemma="CCRM_:B_;K_,t" src="orig">NNNXX-----A---8</AM>
+<AM lemma="CCRM-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd94103-077-p1s2w10">
 <src.rf>manual</src.rf>
@@ -343,7 +357,10 @@
 <LM>w#w-lnd94103-077-p1s2w16</LM>
 </w.rf>
 <form>Fantu</form>
-<tag lemma="Fanta_;S" src="orig" selected="1">NNMS4-----A----</tag>
+<tag>
+<AM lemma="Fanta_;S" src="orig">NNMS4-----A----</AM>
+<AM lemma="Fanta_;R" src="manual" selected="1">NNFS4-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd94103-077-p1s2w17">
 <src.rf>manual</src.rf>
@@ -363,6 +380,8 @@
 <AM lemma="Sprite_;R_,t" src="orig">NNIS4-----A----</AM>
 <AM lemma="sprite" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="sprite" src="auto">NNIS5-----A----</AM>
+<AM lemma="sprite" src="manual">NNIS4-----A----</AM>
+<AM lemma="Sprite_;R" src="manual" selected="1">NNIS4-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94103-077-p1s2w19">
@@ -544,7 +563,7 @@
 <tag>
 <AM lemma="tedy" src="orig">Db-------------</AM>
 <AM lemma="tedy-1" src="auto">TT-------------</AM>
-<AM lemma="tedy-2" src="auto" recommended="1">J^-------------</AM>
+<AM lemma="tedy-2" src="auto" recommended="1" selected="1">J^-------------</AM>
 </tag>
 </m>
 <m id="m-lnd94103-077-p1s3w10">
@@ -577,7 +596,10 @@
 <LM>w#w-lnd94103-077-p1s3w13</LM>
 </w.rf>
 <form>miliony</form>
-<tag lemma="milión`1000000" src="orig" selected="1">NNIP7-----A----</tag>
+<tag>
+<AM lemma="milión`1000000" src="orig">NNIP7-----A----</AM>
+<AM lemma="milion`1000000_,s_^(^DD**milión)" src="manual" selected="1">NNIP7-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd94103-077-p1s3w14">
 <src.rf>manual</src.rf>
@@ -651,7 +673,10 @@
 <LM>w#w-lnd94103-077-p1s4w7</LM>
 </w.rf>
 <form>CCRM</form>
-<tag lemma="CCRM_:B_;K_,t" src="orig" selected="1">NNNXX-----A---8</tag>
+<tag>
+<AM lemma="CCRM_:B_;K_,t" src="orig">NNNXX-----A---8</AM>
+<AM lemma="CCRM-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd94103-077-p1s4w8">
 <src.rf>manual</src.rf>
@@ -829,7 +854,10 @@
 <LM>w#w-lnd94103-077-p1s5w1</LM>
 </w.rf>
 <form>CCRM</form>
-<tag lemma="CCRM_:B_;K_,t" src="orig" selected="1">NNNXX-----A---8</tag>
+<tag>
+<AM lemma="CCRM_:B_;K_,t" src="orig">NNNXX-----A---8</AM>
+<AM lemma="CCRM-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd94103-077-p1s5w2">
 <src.rf>manual</src.rf>
@@ -972,6 +1000,7 @@
 <AM lemma="doktor_:B_^(doktor,_akad._titul)" src="auto">NNMXX-----A---8</AM>
 <AM lemma="doktor_:B_^(doktor,_akad._titul)" src="auto" recommended="1">NNXXX-----A---8</AM>
 <AM lemma="doktorka_:B_^(doktorka,_akad._titul)" src="auto">NNFXX-----A---8</AM>
+<AM lemma="dr-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94103-077-p1s6w3">

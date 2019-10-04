@@ -27,7 +27,10 @@
 <LM>w#w-lnd92258-004-p1s1w2</LM>
 </w.rf>
 <form>ČR</form>
-<tag lemma="ČR-1_:B_;G_^(Česká_republika)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92258-004-p1s1w3">
 <src.rf>manual</src.rf>
@@ -54,6 +57,8 @@
 <tag>
 <AM lemma="Magyar_;R_,t" src="orig">AAXXX----1A----</AM>
 <AM lemma="Magyar_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="magyar_,t" src="manual">AAXXX----1A----</AM>
+<AM lemma="Magyar-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-lnd92258-004-p1s1w6">
@@ -62,7 +67,11 @@
 <LM>w#w-lnd92258-004-p1s1w6</LM>
 </w.rf>
 <form>Hírlap</form>
-<tag lemma="Hírlap" src="auto" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="Hírlap" src="auto">NNIS1-----A----</AM>
+<AM lemma="hírlap_,t" src="manual">NNXXX-----A----</AM>
+<AM lemma="Hírlap-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-lnd92258-004-p1s1w7">
 <src.rf>manual</src.rf>
@@ -201,6 +210,7 @@
 <tag>
 <AM lemma="mizet_:T" src="orig">VB-P---3P-AA---</AM>
 <AM lemma="mizet" src="auto" recommended="1">VB-P---3P-AA--3</AM>
+<AM lemma="mizet_:T" src="manual" selected="1">VB-P---3P-AA--3</AM>
 </tag>
 </m>
 <m id="m-lnd92258-004-p1s1w24">

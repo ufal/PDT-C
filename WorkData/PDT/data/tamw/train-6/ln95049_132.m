@@ -124,6 +124,8 @@
 <AM lemma="fiat-1_;R" src="auto">NNIS6-----A---1</AM>
 <AM lemma="fiat_^(vozidlo)" src="auto">NNIS3-----A----</AM>
 <AM lemma="fiat_^(vozidlo)" src="auto">NNIS6-----A---1</AM>
+<AM lemma="Fiat_;K_;R" src="manual">NNIS2-----A----</AM>
+<AM lemma="Fiat_;K_;R" src="manual" selected="1">NNIS2-----A---1</AM>
 </tag>
 </m>
 <m id="m-ln95049-132-p1s1w14">
@@ -166,7 +168,10 @@
 <LM>w#w-ln95049-132-p1s2w3</LM>
 </w.rf>
 <form>spider</form>
-<tag lemma="spider_,t_^(typ_automobilu)" src="orig" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="spider_,t_^(typ_automobilu)" src="orig">NNIS1-----A----</AM>
+<AM lemma="spider_^(typ_automobilu)" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95049-132-p1s2w4">
 <src.rf>manual</src.rf>
@@ -328,7 +333,10 @@
 <LM>w#w-ln95049-132-p1s3w8</LM>
 </w.rf>
 <form>ccm</form>
-<tag lemma="ccm_:B_^(centimetr_krychlový)" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="ccm_:B_^(centimetr_krychlový)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="ccm_:B_^(centimetr_krychlový)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95049-132-p1s3w9">
 <src.rf>manual</src.rf>
@@ -360,7 +368,10 @@
 <LM>w#w-ln95049-132-p1s3w12</LM>
 </w.rf>
 <form>k</form>
-<tag lemma="k-4`kůň_:B_^(jednotka_výkonu)" src="orig" selected="1">NNMXX-----A---8</tag>
+<tag>
+<AM lemma="k-4`kůň_:B_^(jednotka_výkonu)" src="orig">NNMXX-----A---8</AM>
+<AM lemma="kůň" src="manual" selected="1">NNMXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln95049-132-p1s3w13">
 <src.rf>manual</src.rf>
@@ -410,7 +421,10 @@
 <LM>w#w-ln95049-132-p1s4w5</LM>
 </w.rf>
 <form>km</form>
-<tag lemma="km-1`kilometr_:B" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="km-1`kilometr_:B" src="orig">NNIXX-----A---8</AM>
+<AM lemma="kilometr" src="manual" selected="1">NNIXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln95049-132-p1s4w6">
 <src.rf>manual</src.rf>
@@ -426,7 +440,10 @@
 <LM>w#w-ln95049-132-p1s4w7</LM>
 </w.rf>
 <form>hod</form>
-<tag lemma="hodina_:B" src="auto" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="hodina_:B" src="auto">NNFXX-----A---8</AM>
+<AM lemma="hodina" src="manual" selected="1">NNFXX-----A---9</AM>
+</tag>
 </m>
 <m id="m-ln95049-132-p1s4w8">
 <src.rf>manual</src.rf>
@@ -499,7 +516,10 @@
 <LM>w#w-ln95049-132-p1s4w16</LM>
 </w.rf>
 <form>s</form>
-<tag lemma="s-2`sekunda_:B" src="orig" selected="1">NNFXX-----A---1</tag>
+<tag>
+<AM lemma="s-2`sekunda_:B" src="orig">NNFXX-----A---1</AM>
+<AM lemma="sekunda" src="manual" selected="1">NNFXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln95049-132-p1s4w17">
 <src.rf>manual</src.rf>

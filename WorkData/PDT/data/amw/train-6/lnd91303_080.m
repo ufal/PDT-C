@@ -179,7 +179,10 @@
 <LM>w#w-lnd91303-080-p1s1w21</LM>
 </w.rf>
 <form>jen</form>
-<tag lemma="jen-1" src="auto" selected="1">TT-------------</tag>
+<tag>
+<AM lemma="jen-1" src="auto">TT-------------</AM>
+<AM lemma="jen-4_^(pouze)" src="manual" selected="1">Db-------------</AM>
+</tag>
 </m>
 <m id="m-lnd91303-080-p1s1w22">
 <src.rf>manual</src.rf>
@@ -321,7 +324,7 @@
 <AM lemma="m-1`metr_:B" src="orig">NNIXX-----A---8</AM>
 <AM lemma="m-3_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
 <AM lemma="m-8_:B_^(ost._zkratka)" src="auto">XX------------8</AM>
-<AM lemma="metr_:B" src="auto" recommended="1">NNIXX-----A---8</AM>
+<AM lemma="metr_:B" src="auto" recommended="1" selected="1">NNIXX-----A---8</AM>
 <AM lemma="mimo-1_:B" src="auto">RR--2---------8</AM>
 <AM lemma="mimo-1_:B" src="auto">RR--4---------8</AM>
 <AM lemma="minuta_:B" src="auto">NNFXX-----A---8</AM>
@@ -426,7 +429,7 @@
 <AM lemma="m-1`metr_:B" src="orig">NNIXX-----A---8</AM>
 <AM lemma="m-3_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
 <AM lemma="m-8_:B_^(ost._zkratka)" src="auto">XX------------8</AM>
-<AM lemma="metr_:B" src="auto" recommended="1">NNIXX-----A---8</AM>
+<AM lemma="metr_:B" src="auto" recommended="1" selected="1">NNIXX-----A---8</AM>
 <AM lemma="mimo-1_:B" src="auto">RR--2---------8</AM>
 <AM lemma="mimo-1_:B" src="auto">RR--4---------8</AM>
 <AM lemma="minuta_:B" src="auto">NNFXX-----A---8</AM>
@@ -507,7 +510,7 @@
 <AM lemma="m-1`metr_:B" src="orig">NNIXX-----A---8</AM>
 <AM lemma="m-3_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
 <AM lemma="m-8_:B_^(ost._zkratka)" src="auto">XX------------8</AM>
-<AM lemma="metr_:B" src="auto" recommended="1">NNIXX-----A---8</AM>
+<AM lemma="metr_:B" src="auto" recommended="1" selected="1">NNIXX-----A---8</AM>
 <AM lemma="mimo-1_:B" src="auto">RR--2---------8</AM>
 <AM lemma="mimo-1_:B" src="auto">RR--4---------8</AM>
 <AM lemma="minuta_:B" src="auto">NNFXX-----A---8</AM>
@@ -1271,7 +1274,7 @@
 <form>-3</form>
 <tag>
 <AM lemma="3" src="orig">C=-------------</AM>
-<AM lemma="-3" src="auto" recommended="1">C=-------------</AM>
+<AM lemma="-3" src="auto" recommended="1" selected="1">C=-------------</AM>
 </tag>
 </m>
 <m id="m-lnd91303-080-p3s2w4">
@@ -1290,7 +1293,7 @@
 <form>-7</form>
 <tag>
 <AM lemma="7" src="orig">C=-------------</AM>
-<AM lemma="-7" src="auto" recommended="1">C=-------------</AM>
+<AM lemma="-7" src="auto" recommended="1" selected="1">C=-------------</AM>
 </tag>
 </m>
 <m id="m-lnd91303-080-p3s2w6">
@@ -1357,7 +1360,7 @@
 <form>-8</form>
 <tag>
 <AM lemma="8" src="orig">C=-------------</AM>
-<AM lemma="-8" src="auto" recommended="1">C=-------------</AM>
+<AM lemma="-8" src="auto" recommended="1" selected="1">C=-------------</AM>
 </tag>
 </m>
 <m id="m-lnd91303-080-p3s2w14">
@@ -1376,7 +1379,7 @@
 <form>-12</form>
 <tag>
 <AM lemma="12" src="orig">C=-------------</AM>
-<AM lemma="-12" src="auto" recommended="1">C=-------------</AM>
+<AM lemma="-12" src="auto" recommended="1" selected="1">C=-------------</AM>
 </tag>
 </m>
 <m id="m-lnd91303-080-p3s2w16">
@@ -1435,7 +1438,7 @@
 <form>-4</form>
 <tag>
 <AM lemma="4" src="orig">C=-------------</AM>
-<AM lemma="-4" src="auto" recommended="1">C=-------------</AM>
+<AM lemma="-4" src="auto" recommended="1" selected="1">C=-------------</AM>
 </tag>
 </m>
 <m id="m-lnd91303-080-p3s2w23">
@@ -1538,7 +1541,7 @@
 <AM lemma="m-1`metr_:B" src="orig">NNIXX-----A---8</AM>
 <AM lemma="m-3_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
 <AM lemma="m-8_:B_^(ost._zkratka)" src="auto">XX------------8</AM>
-<AM lemma="metr_:B" src="auto" recommended="1">NNIXX-----A---8</AM>
+<AM lemma="metr_:B" src="auto" recommended="1" selected="1">NNIXX-----A---8</AM>
 <AM lemma="mimo-1_:B" src="auto">RR--2---------8</AM>
 <AM lemma="mimo-1_:B" src="auto">RR--4---------8</AM>
 <AM lemma="minuta_:B" src="auto">NNFXX-----A---8</AM>
@@ -1619,7 +1622,7 @@
 <AM lemma="m-1`metr_:B" src="orig">NNIXX-----A---8</AM>
 <AM lemma="m-3_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
 <AM lemma="m-8_:B_^(ost._zkratka)" src="auto">XX------------8</AM>
-<AM lemma="metr_:B" src="auto" recommended="1">NNIXX-----A---8</AM>
+<AM lemma="metr_:B" src="auto" recommended="1" selected="1">NNIXX-----A---8</AM>
 <AM lemma="mimo-1_:B" src="auto">RR--2---------8</AM>
 <AM lemma="mimo-1_:B" src="auto">RR--4---------8</AM>
 <AM lemma="minuta_:B" src="auto">NNFXX-----A---8</AM>
@@ -1750,7 +1753,7 @@
 <AM lemma="m-1`metr_:B" src="orig">NNIXX-----A---8</AM>
 <AM lemma="m-3_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
 <AM lemma="m-8_:B_^(ost._zkratka)" src="auto">XX------------8</AM>
-<AM lemma="metr_:B" src="auto" recommended="1">NNIXX-----A---8</AM>
+<AM lemma="metr_:B" src="auto" recommended="1" selected="1">NNIXX-----A---8</AM>
 <AM lemma="mimo-1_:B" src="auto">RR--2---------8</AM>
 <AM lemma="mimo-1_:B" src="auto">RR--4---------8</AM>
 <AM lemma="minuta_:B" src="auto">NNFXX-----A---8</AM>
@@ -1765,7 +1768,7 @@
 <form>-7</form>
 <tag>
 <AM lemma="7" src="orig">C=-------------</AM>
-<AM lemma="-7" src="auto" recommended="1">C=-------------</AM>
+<AM lemma="-7" src="auto" recommended="1" selected="1">C=-------------</AM>
 </tag>
 </m>
 <m id="m-lnd91303-080-p3s6w8">
@@ -2060,7 +2063,7 @@
 <form>-7</form>
 <tag>
 <AM lemma="7" src="orig">C=-------------</AM>
-<AM lemma="-7" src="auto" recommended="1">C=-------------</AM>
+<AM lemma="-7" src="auto" recommended="1" selected="1">C=-------------</AM>
 </tag>
 </m>
 <m id="m-lnd91303-080-p4s2w4">
@@ -2079,7 +2082,7 @@
 <form>-11</form>
 <tag>
 <AM lemma="11" src="orig">C=-------------</AM>
-<AM lemma="-11" src="auto" recommended="1">C=-------------</AM>
+<AM lemma="-11" src="auto" recommended="1" selected="1">C=-------------</AM>
 </tag>
 </m>
 <m id="m-lnd91303-080-p4s2w6">
@@ -2154,7 +2157,7 @@
 <form>-15</form>
 <tag>
 <AM lemma="15" src="orig">C=-------------</AM>
-<AM lemma="-15" src="auto" recommended="1">C=-------------</AM>
+<AM lemma="-15" src="auto" recommended="1" selected="1">C=-------------</AM>
 </tag>
 </m>
 <m id="m-lnd91303-080-p4s2w15">
@@ -2213,7 +2216,7 @@
 <form>-5</form>
 <tag>
 <AM lemma="5" src="orig">C=-------------</AM>
-<AM lemma="-5" src="auto" recommended="1">C=-------------</AM>
+<AM lemma="-5" src="auto" recommended="1" selected="1">C=-------------</AM>
 </tag>
 </m>
 <m id="m-lnd91303-080-p4s2w22">
@@ -2232,7 +2235,7 @@
 <form>-1</form>
 <tag>
 <AM lemma="1" src="orig">C=-------------</AM>
-<AM lemma="-1" src="auto" recommended="1">C=-------------</AM>
+<AM lemma="-1" src="auto" recommended="1" selected="1">C=-------------</AM>
 </tag>
 </m>
 <m id="m-lnd91303-080-p4s2w24">

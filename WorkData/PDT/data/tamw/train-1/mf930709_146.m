@@ -21,7 +21,7 @@
 <form>Abchazové</form>
 <tag>
 <AM lemma="Abchaz_;E" src="orig">NNMP1-----A---1</AM>
-<AM lemma="Abchaz_;E" src="auto" recommended="1">NNMP1-----A----</AM>
+<AM lemma="Abchaz_;E" src="auto" recommended="1" selected="1">NNMP1-----A----</AM>
 <AM lemma="Abchaz_;E" src="auto">NNMP1-----A---6</AM>
 <AM lemma="Abchaz_;E" src="auto">NNMP5-----A----</AM>
 <AM lemma="Abchaz_;E" src="auto">NNMP5-----A---6</AM>
@@ -159,7 +159,7 @@
 <form>Abchazové</form>
 <tag>
 <AM lemma="Abchaz_;E" src="orig">NNMP1-----A---1</AM>
-<AM lemma="Abchaz_;E" src="auto" recommended="1">NNMP1-----A----</AM>
+<AM lemma="Abchaz_;E" src="auto" recommended="1" selected="1">NNMP1-----A----</AM>
 <AM lemma="Abchaz_;E" src="auto">NNMP1-----A---6</AM>
 <AM lemma="Abchaz_;E" src="auto">NNMP5-----A----</AM>
 <AM lemma="Abchaz_;E" src="auto">NNMP5-----A---6</AM>
@@ -547,7 +547,10 @@
 <LM>w#w-mf930709-146-p3s1w7</LM>
 </w.rf>
 <form>UNITA</form>
-<tag lemma="UNITA_:B_;K_;p_^(partyz._org._v_Angole)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="UNITA_:B_;K_;p_^(partyz._org._v_Angole)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="UNITA-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 </s>
 <s id="m-mf930709-146-p4s1A">
@@ -591,7 +594,10 @@
 <LM>w#w-mf930709-146-p4s1Bw3</LM>
 </w.rf>
 <form>OSN</form>
-<tag lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930709-146-p4s1Bw4">
 <src.rf>manual</src.rf>
@@ -624,7 +630,7 @@
 </w.rf>
 <form>Blondin</form>
 <tag>
-<AM lemma="Blondin_;Y" src="orig">NNMS1-----A----</AM>
+<AM lemma="Blondin_;Y" src="orig" selected="1">NNMS1-----A----</AM>
 <AM lemma="Blondin_;Y_^(*2a)" src="auto" recommended="1">AUIS1F---------</AM>
 <AM lemma="Blondin_;Y_^(*2a)" src="auto">AUIS4F---------</AM>
 <AM lemma="Blondin_;Y_^(*2a)" src="auto">AUIS5F---------</AM>
@@ -750,7 +756,10 @@
 <LM>w#w-mf930709-146-p4s1Bw23</LM>
 </w.rf>
 <form>UNITA</form>
-<tag lemma="UNITA_:B_;K_;p_^(partyz._org._v_Angole)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="UNITA_:B_;K_;p_^(partyz._org._v_Angole)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="UNITA-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930709-146-p4s1Bw24">
 <src.rf>manual</src.rf>
@@ -758,7 +767,10 @@
 <LM>w#w-mf930709-146-p4s1Bw24</LM>
 </w.rf>
 <form>Jonasem</form>
-<tag lemma="Jonas_;S" src="auto" selected="1">NNMS7-----A----</tag>
+<tag>
+<AM lemma="Jonas_;S" src="auto">NNMS7-----A----</AM>
+<AM lemma="Jonas_;S_;Y" src="manual" selected="1">NNMS7-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930709-146-p4s1Bw25">
 <src.rf>manual</src.rf>
@@ -1450,7 +1462,10 @@
 <LM>w#w-mf930709-146-p7s1w1</LM>
 </w.rf>
 <form>OSN</form>
-<tag lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930709-146-p7s1w2">
 <src.rf>manual</src.rf>
@@ -1492,7 +1507,10 @@
 <LM>w#w-mf930709-146-p8s1Aw1</LM>
 </w.rf>
 <form>New</form>
-<tag lemma="New-1_;G_,t_^(součást_míst._jmen)" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="New-1_;G_,t_^(součást_míst._jmen)" src="orig">AAXXX----1A----</AM>
+<AM lemma="New-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-mf930709-146-p8s1Aw2">
 <src.rf>manual</src.rf>
@@ -1526,7 +1544,10 @@
 <LM>w#w-mf930709-146-p8s1Bw2</LM>
 </w.rf>
 <form>OSN</form>
-<tag lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930709-146-p8s1Bw3">
 <src.rf>manual</src.rf>
@@ -1688,7 +1709,10 @@
 <LM>w#w-mf930709-146-p8s2w5</LM>
 </w.rf>
 <form>New</form>
-<tag lemma="New-1_;G_,t_^(součást_míst._jmen)" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="New-1_;G_,t_^(součást_míst._jmen)" src="orig">AAXXX----1A----</AM>
+<AM lemma="New-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-mf930709-146-p8s2w6">
 <src.rf>manual</src.rf>
@@ -1712,7 +1736,10 @@
 <LM>w#w-mf930709-146-p8s2w8</LM>
 </w.rf>
 <form>OSN</form>
-<tag lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930709-146-p8s2w9">
 <src.rf>manual</src.rf>

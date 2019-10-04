@@ -344,6 +344,7 @@
 <tag>
 <AM lemma="Lancet_;R_,t" src="orig">NNFSX-----A----</AM>
 <AM lemma="lanceta" src="auto" recommended="1">NNFP2-----A----</AM>
+<AM lemma="Lancet-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-vesm9303-022-p1s2w24">

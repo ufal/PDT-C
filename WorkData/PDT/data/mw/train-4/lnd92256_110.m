@@ -56,7 +56,7 @@
 <tag>
 <AM lemma="Tokyo_;G" src="orig">NNNS6-----A----</AM>
 <AM lemma="Tokio_;G" src="auto">NNNS3-----A----</AM>
-<AM lemma="Tokio_;G" src="auto" recommended="1">NNNS6-----A----</AM>
+<AM lemma="Tokio_;G" src="auto" recommended="1" selected="1">NNNS6-----A----</AM>
 </tag>
 </m>
 </s>
@@ -67,7 +67,10 @@
 <LM>w#w-lnd92256-110-p3s1w1</LM>
 </w.rf>
 <form>RABAT</form>
-<tag lemma="rabat" src="orig" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="rabat" src="orig">NNIS1-----A----</AM>
+<AM lemma="Rabat_;G" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92256-110-p3s1w2">
 <src.rf>manual</src.rf>
@@ -320,7 +323,10 @@
 <LM>w#w-lnd92256-110-p3s3w5</LM>
 </w.rf>
 <form>MAP</form>
-<tag lemma="mapa" src="orig" selected="1">NNFP2-----A----</tag>
+<tag>
+<AM lemma="mapa" src="orig">NNFP2-----A----</AM>
+<AM lemma="MAP-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd92256-110-p3s3w6">
 <src.rf>manual</src.rf>
@@ -364,7 +370,7 @@
 <form>zasáhlo</form>
 <tag>
 <AM lemma="zasáhnout" src="orig">VpNS---XR-AA---</AM>
-<AM lemma="zasáhnout_:W" src="auto" recommended="1">VpNS---XR-AA--1</AM>
+<AM lemma="zasáhnout_:W" src="auto" recommended="1" selected="1">VpNS---XR-AA--1</AM>
 </tag>
 </m>
 <m id="m-lnd92256-110-p3s4w5">
@@ -386,6 +392,7 @@
 <AM lemma="Ara_;K_^(obchod,_firma,_továrna)" src="auto">NNFP2-----A----</AM>
 <AM lemma="ar" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="ar" src="auto">NNIS4-----A----</AM>
+<AM lemma="Ar-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-lnd92256-110-p3s4w7">
@@ -896,7 +903,7 @@
 <tag>
 <AM lemma="Tokyo_;G" src="orig">NNNS6-----A----</AM>
 <AM lemma="Tokio_;G" src="auto">NNNS3-----A----</AM>
-<AM lemma="Tokio_;G" src="auto" recommended="1">NNNS6-----A----</AM>
+<AM lemma="Tokio_;G" src="auto" recommended="1" selected="1">NNNS6-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92256-110-p3s9w7">

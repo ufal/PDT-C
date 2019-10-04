@@ -19,7 +19,10 @@
 <LM>w#w-lnd92258-133-p1s1w1</LM>
 </w.rf>
 <form>Magic</form>
-<tag lemma="Magica_;K_^(Laterna_Magica)" src="orig" selected="1">NNFP2-----A----</tag>
+<tag>
+<AM lemma="Magica_;K_^(Laterna_Magica)" src="orig">NNFP2-----A----</AM>
+<AM lemma="Magic_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92258-133-p1s1w2">
 <src.rf>manual</src.rf>
@@ -103,7 +106,10 @@
 <LM>w#w-lnd92258-133-p2s2w7</LM>
 </w.rf>
 <form>NBA</form>
-<tag lemma="NBA_:B_;K" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="NBA_:B_;K" src="orig">NNFXX-----A---8</AM>
+<AM lemma="NBA-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd92258-133-p2s2w8">
 <src.rf>manual</src.rf>
@@ -135,7 +141,10 @@
 <LM>w#w-lnd92258-133-p2s2w11</LM>
 </w.rf>
 <form>Earvin</form>
-<tag lemma="Earvin_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Earvin_;S" src="orig">NNMS1-----A----</AM>
+<AM lemma="Earvin_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92258-133-p2s2w12">
 <src.rf>manual</src.rf>
@@ -151,7 +160,10 @@
 <LM>w#w-lnd92258-133-p2s2w13</LM>
 </w.rf>
 <form>Magic</form>
-<tag lemma="Magica_;K_^(Laterna_Magica)" src="orig" selected="1">NNFP2-----A----</tag>
+<tag>
+<AM lemma="Magica_;K_^(Laterna_Magica)" src="orig">NNFP2-----A----</AM>
+<AM lemma="Magic_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92258-133-p2s2w14">
 <src.rf>manual</src.rf>
@@ -345,7 +357,10 @@
 <LM>w#w-lnd92258-133-p2s3w16</LM>
 </w.rf>
 <form>HIV</form>
-<tag lemma="HIV_:B_;L_;U_^(lidský_virus_způsobující_AIDS)" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="HIV_:B_;L_;U_^(lidský_virus_způsobující_AIDS)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="HIV_:B_;L_;U_^(lidský_virus_způsobující_AIDS)" src="manual" selected="1">NNIXX-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92258-133-p2s3w17">
 <src.rf>manual</src.rf>
@@ -549,7 +564,10 @@
 <LM>w#w-lnd92258-133-p2s5w12</LM>
 </w.rf>
 <form>NBA</form>
-<tag lemma="NBA_:B_;K" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="NBA_:B_;K" src="orig">NNFXX-----A---8</AM>
+<AM lemma="NBA-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd92258-133-p2s5w13">
 <src.rf>manual</src.rf>
@@ -639,7 +657,10 @@
 <LM>w#w-lnd92258-133-p2s6w4</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-2" src="auto" selected="1">Dg-------2A----</tag>
+<tag>
+<AM lemma="hodně-2" src="auto">Dg-------2A----</AM>
+<AM lemma="více_^(více_+_2._p.,_více_peněz)" src="manual" selected="1">Ca--4----------</AM>
+</tag>
 </m>
 <m id="m-lnd92258-133-p2s6w5">
 <src.rf>manual</src.rf>
@@ -695,7 +716,10 @@
 <LM>w#w-lnd92258-133-p2s6w11</LM>
 </w.rf>
 <form>AIDS</form>
-<tag lemma="AIDS_:B_;U_,x_^(Syndrom_získaného_selhání_imunity)" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="AIDS_:B_;U_,x_^(Syndrom_získaného_selhání_imunity)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="AIDS-2_:B_;U_^(Syndrom_získaného_selhání_imunity)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92258-133-p2s6w12">
 <src.rf>manual</src.rf>

@@ -43,7 +43,10 @@
 <LM>w#w-ln94205-37-p1s1w4</LM>
 </w.rf>
 <form>ND</form>
-<tag lemma="ND_:B_;K_^(Nár._divadlo)" src="orig" selected="1">NNNXX-----A---8</tag>
+<tag>
+<AM lemma="ND_:B_;K_^(Nár._divadlo)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="ND-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94205-37-p1s1w5">
 <src.rf>manual</src.rf>
@@ -932,7 +935,7 @@
 <tag>
 <AM lemma="tedy" src="orig">Db-------------</AM>
 <AM lemma="tedy-1" src="auto">TT-------------</AM>
-<AM lemma="tedy-2" src="auto" recommended="1">J^-------------</AM>
+<AM lemma="tedy-2" src="auto" recommended="1" selected="1">J^-------------</AM>
 </tag>
 </m>
 <m id="m-ln94205-37-p2s6w3">

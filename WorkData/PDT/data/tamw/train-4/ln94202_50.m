@@ -27,7 +27,10 @@
 <LM>w#w-ln94202-50-p1s1w2</LM>
 </w.rf>
 <form>holocaustu</form>
-<tag lemma="holocaust" src="orig" selected="1">NNIS2-----A----</tag>
+<tag>
+<AM lemma="holocaust" src="orig">NNIS2-----A----</AM>
+<AM lemma="holocaust_,s_^(^DD**holokaust)" src="manual" selected="1">NNIS2-----A----</AM>
+</tag>
 </m>
 </s>
 <s id="m-ln94202-50-p2s1A">
@@ -175,7 +178,10 @@
 <LM>w#w-ln94202-50-p2s1Bw16</LM>
 </w.rf>
 <form>holocaustu</form>
-<tag lemma="holocaust" src="orig" selected="1">NNIS2-----A----</tag>
+<tag>
+<AM lemma="holocaust" src="orig">NNIS2-----A----</AM>
+<AM lemma="holocaust_,s_^(^DD**holokaust)" src="manual" selected="1">NNIS2-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94202-50-p2s1Bw17">
 <src.rf>manual</src.rf>
@@ -225,7 +231,10 @@
 <LM>w#w-ln94202-50-p2s2w5</LM>
 </w.rf>
 <form>ČR</form>
-<tag lemma="ČR-1_:B_;G_^(Česká_republika)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94202-50-p2s2w6">
 <src.rf>manual</src.rf>

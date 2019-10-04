@@ -303,7 +303,10 @@
 <LM>w#w-ln94204-99-p2s2w11</LM>
 </w.rf>
 <form>Vox</form>
-<tag lemma="Vox_;K_,t" src="orig" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="Vox_;K_,t" src="orig">NNIS1-----A----</AM>
+<AM lemma="Vox-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94204-99-p2s2w12">
 <src.rf>manual</src.rf>
@@ -311,7 +314,10 @@
 <LM>w#w-ln94204-99-p2s2w12</LM>
 </w.rf>
 <form>amabilis</form>
-<tag lemma="amabilis_;K_,t" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="amabilis_;K_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="amabilis-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94204-99-p2s2w13">
 <src.rf>manual</src.rf>
@@ -359,7 +365,10 @@
 <LM>w#w-ln94204-99-p2s2w18</LM>
 </w.rf>
 <form>Renatus</form>
-<tag lemma="Renatus_;K_,t" src="orig" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="Renatus_;K_,t" src="orig">NNIS1-----A----</AM>
+<AM lemma="Renatus-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94204-99-p2s2w19">
 <src.rf>manual</src.rf>
@@ -547,7 +556,10 @@
 <LM>w#w-ln94204-99-p3s1w15</LM>
 </w.rf>
 <form>LN</form>
-<tag lemma="LN-1_:B_;R_^(Lidové_noviny,_deník)" src="orig" selected="1">NNFPX-----A---8</tag>
+<tag>
+<AM lemma="LN-1_:B_;R_^(Lidové_noviny,_deník)" src="orig">NNFPX-----A---8</AM>
+<AM lemma="LN-1_:B_;K_;R_^(Lidové_noviny,_deník)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94204-99-p3s1w16">
 <src.rf>manual</src.rf>
@@ -953,7 +965,10 @@
 <LM>w#w-ln94204-99-p3s4w7</LM>
 </w.rf>
 <form>konkurz</form>
-<tag lemma="konkurs_^(úpadek;;soutěž)" src="auto" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="konkurs_^(úpadek;;soutěž)" src="auto">NNIS1-----A----</AM>
+<AM lemma="konkurz" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94204-99-p3s4w8">
 <src.rf>manual</src.rf>
@@ -979,7 +994,10 @@
 <LM>w#w-ln94204-99-p3s5w2</LM>
 </w.rf>
 <form>ir</form>
-<tag lemma="ir-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="ir-99_:B_;S" src="orig">NNXXX-----A---8</AM>
+<AM lemma="ir-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94204-99-p3s5w3">
 <src.rf>manual</src.rf>

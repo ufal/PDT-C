@@ -348,6 +348,7 @@
 <tag>
 <AM lemma="Olympique_:B_;K_,t_^(souč._názvu_franc._sport._klubů)" src="orig">NNIXX-----A---8</AM>
 <AM lemma="Ola_;G_;Y_^(i_Joškar-Ola)" src="auto" recommended="1">NNFP2-----A----</AM>
+<AM lemma="Ol-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-mf930703-095-p2s2w20">
@@ -384,7 +385,7 @@
 <form>Valenciennes</form>
 <tag>
 <AM lemma="Valenciennes_;K" src="orig">NNIXX-----A----</AM>
-<AM lemma="Valenciennes_;K" src="auto" recommended="1">NNIS1-----A----</AM>
+<AM lemma="Valenciennes_;K" src="auto" recommended="1" selected="1">NNIS1-----A----</AM>
 <AM lemma="Valenciennes_;K" src="auto">NNIS4-----A----</AM>
 </tag>
 </m>
@@ -528,7 +529,10 @@
 <LM>w#w-mf930703-095-p3s1w8</LM>
 </w.rf>
 <form>Legia</form>
-<tag lemma="Legia_;K" src="orig" selected="1">NNFS1-----A----</tag>
+<tag>
+<AM lemma="Legia_;K" src="orig">NNFS1-----A----</AM>
+<AM lemma="Legia-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-mf930703-095-p3s1w9">
 <src.rf>manual</src.rf>
@@ -552,7 +556,10 @@
 <LM>w#w-mf930703-095-p3s1w11</LM>
 </w.rf>
 <form>LKS</form>
-<tag lemma="LKS_:B_;K" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="LKS_:B_;K" src="orig">NNIXX-----A---8</AM>
+<AM lemma="LKS-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-mf930703-095-p3s1w12">
 <src.rf>manual</src.rf>
@@ -827,7 +834,7 @@
 </w.rf>
 <form>Gaucci</form>
 <tag>
-<AM lemma="Gaucci_;S" src="orig">NNMS1-----A----</AM>
+<AM lemma="Gaucci_;S" src="orig" selected="1">NNMS1-----A----</AM>
 <AM lemma="Gauck_;S" src="auto" recommended="1">NNMP1-----A----</AM>
 <AM lemma="Gauck_;S" src="auto">NNMP5-----A----</AM>
 </tag>
@@ -1557,6 +1564,8 @@
 <AM lemma="Tenerife_;G" src="orig">NNFS2-----A----</AM>
 <AM lemma="Tenerife_;S" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Tenerife_;S" src="auto">NNMS5-----A----</AM>
+<AM lemma="Tenerife-2_;G" src="manual">NNIS2-----A----</AM>
+<AM lemma="Tenerife-2_;G" src="manual" selected="1">NNIXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930703-095-p6s2w7">
@@ -1893,6 +1902,7 @@
 <AM lemma="Tenerife_;S" src="orig">NNFS6-----A----</AM>
 <AM lemma="Tenerife_;S" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Tenerife_;S" src="auto">NNMS5-----A----</AM>
+<AM lemma="Tenerife-2_;G" src="manual" selected="1">NNIXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930703-095-p6s4w30">
@@ -1951,7 +1961,10 @@
 <LM>w#w-mf930703-095-p7s1w5</LM>
 </w.rf>
 <form>FIFA</form>
-<tag lemma="FIFA_:B_;K" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="FIFA_:B_;K" src="orig">NNFXX-----A---8</AM>
+<AM lemma="FIFA-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-mf930703-095-p7s1w6">
 <src.rf>manual</src.rf>
@@ -1983,7 +1996,10 @@
 <LM>w#w-mf930703-095-p7s1w9</LM>
 </w.rf>
 <form>UEFA</form>
-<tag lemma="UEFA-1_:B_;K_;w_^(Evr._fotbalová_federace)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="UEFA-1_:B_;K_;w_^(Evr._fotbalová_federace)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="UEFA-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-mf930703-095-p7s1w10">
 <src.rf>manual</src.rf>

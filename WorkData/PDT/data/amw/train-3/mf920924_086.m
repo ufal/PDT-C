@@ -45,7 +45,10 @@
 <LM>w#w-mf920924-086-p2s1w2</LM>
 </w.rf>
 <form>hodně</form>
-<tag lemma="hodně-2_^(nezlobivý)_(*3ý-2)" src="auto" selected="1">Dg-------1A----</tag>
+<tag>
+<AM lemma="hodně-2_^(nezlobivý)_(*3ý-2)" src="auto">Dg-------1A----</AM>
+<AM lemma="hodně-3" src="manual" selected="1">Dg-------1A----</AM>
+</tag>
 </m>
 <m id="m-mf920924-086-p2s1w3">
 <src.rf>manual</src.rf>
@@ -73,7 +76,7 @@
 <AM lemma="zkušený" src="orig">NNMS4-----A----</AM>
 <AM lemma="zkušený" src="auto">AAIS2----1A----</AM>
 <AM lemma="zkušený" src="auto">AAMS2----1A----</AM>
-<AM lemma="zkušený" src="auto" recommended="1">AAMS4----1A----</AM>
+<AM lemma="zkušený" src="auto" recommended="1" selected="1">AAMS4----1A----</AM>
 <AM lemma="zkušený" src="auto">AANS2----1A----</AM>
 </tag>
 </m>

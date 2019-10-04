@@ -63,7 +63,10 @@
 <LM>w#w-cmpr9407-035-p4s1w2</LM>
 </w.rf>
 <form>ZAS</form>
-<tag lemma="zas-1" src="auto" selected="1">Db-------------</tag>
+<tag>
+<AM lemma="zas-1" src="auto">Db-------------</AM>
+<AM lemma="ZAS-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-cmpr9407-035-p4s1w3">
 <src.rf>manual</src.rf>
@@ -82,6 +85,7 @@
 <tag>
 <AM lemma="Internationale_;K" src="orig">AAXXX----1A----</AM>
 <AM lemma="internationale_,t" src="auto" recommended="1">NNISX-----A----</AM>
+<AM lemma="Internationale-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-cmpr9407-035-p4s1w5">
@@ -90,7 +94,10 @@
 <LM>w#w-cmpr9407-035-p4s1w5</LM>
 </w.rf>
 <form>Spedition</form>
-<tag lemma="Spedition_;K" src="orig" selected="1">NNFXX-----A----</tag>
+<tag>
+<AM lemma="Spedition_;K" src="orig">NNFXX-----A----</AM>
+<AM lemma="Spedition-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-cmpr9407-035-p4s1w6">
 <src.rf>manual</src.rf>
@@ -194,7 +201,10 @@
 <LM>w#w-cmpr9407-035-p4s1w18</LM>
 </w.rf>
 <form>ČR</form>
-<tag lemma="ČR-1_:B_;G_^(Česká_republika)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-cmpr9407-035-p4s1w19">
 <src.rf>manual</src.rf>
@@ -228,7 +238,10 @@
 <LM>w#w-cmpr9407-035-p4s2w1</LM>
 </w.rf>
 <form>Díky</form>
-<tag lemma="dík-1" src="auto" selected="1">NNIP7-----A----</tag>
+<tag>
+<AM lemma="dík-1" src="auto">NNIP7-----A----</AM>
+<AM lemma="díky" src="manual" selected="1">RR--3----------</AM>
+</tag>
 </m>
 <m id="m-cmpr9407-035-p4s2w2">
 <src.rf>manual</src.rf>
@@ -406,7 +419,10 @@
 <LM>w#w-cmpr9407-035-p4s3w2</LM>
 </w.rf>
 <form>ČR</form>
-<tag lemma="ČR-1_:B_;G_^(Česká_republika)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-cmpr9407-035-p4s3w3">
 <src.rf>manual</src.rf>
@@ -438,7 +454,10 @@
 <LM>w#w-cmpr9407-035-p4s3w6</LM>
 </w.rf>
 <form>zejména</form>
-<tag lemma="zejména-1" src="auto" selected="1">Db-------------</tag>
+<tag>
+<AM lemma="zejména-1" src="auto">Db-------------</AM>
+<AM lemma="zejména-2" src="manual" selected="1">TT-------------</AM>
+</tag>
 </m>
 <m id="m-cmpr9407-035-p4s3w7">
 <src.rf>manual</src.rf>
@@ -618,7 +637,10 @@
 <LM>w#w-cmpr9407-035-p5s1w3</LM>
 </w.rf>
 <form>ZAS</form>
-<tag lemma="zas-1" src="auto" selected="1">Db-------------</tag>
+<tag>
+<AM lemma="zas-1" src="auto">Db-------------</AM>
+<AM lemma="ZAS-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-cmpr9407-035-p5s1w4">
 <src.rf>manual</src.rf>
@@ -637,6 +659,7 @@
 <tag>
 <AM lemma="Internationale_;K" src="orig">AAXXX----1A----</AM>
 <AM lemma="internationale_,t" src="auto" recommended="1">NNISX-----A----</AM>
+<AM lemma="Internationale-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-cmpr9407-035-p5s1w6">
@@ -645,7 +668,10 @@
 <LM>w#w-cmpr9407-035-p5s1w6</LM>
 </w.rf>
 <form>Spedition</form>
-<tag lemma="Spedition_;K" src="orig" selected="1">NNFXX-----A----</tag>
+<tag>
+<AM lemma="Spedition_;K" src="orig">NNFXX-----A----</AM>
+<AM lemma="Spedition-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-cmpr9407-035-p5s1w7">
 <src.rf>manual</src.rf>
@@ -661,7 +687,10 @@
 <LM>w#w-cmpr9407-035-p5s1w8</LM>
 </w.rf>
 <form>Kpt</form>
-<tag lemma="kapitán_:B" src="orig" selected="1">NNMXX-----A---8</tag>
+<tag>
+<AM lemma="kapitán_:B" src="orig">NNMXX-----A---8</AM>
+<AM lemma="kapitán" src="manual" selected="1">NNMXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-cmpr9407-035-p5s1w9">
 <src.rf>manual</src.rf>
@@ -741,7 +770,10 @@
 <LM>w#w-cmpr9407-035-p5s1w18</LM>
 </w.rf>
 <form>tel</form>
-<tag lemma="telefon_:B" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="telefon_:B" src="orig">NNIXX-----A---8</AM>
+<AM lemma="telefon" src="manual" selected="1">NNIXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-cmpr9407-035-p5s1w19">
 <src.rf>manual</src.rf>

@@ -197,7 +197,10 @@
 <LM>w#w-vesm9211-055-p2s1w16</LM>
 </w.rf>
 <form>Johnse</form>
-<tag lemma="Johns_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag>
+<AM lemma="Johns_;S" src="orig">NNMS2-----A----</AM>
+<AM lemma="Johns_;S_;Y" src="manual" selected="1">NNMS2-----A----</AM>
+</tag>
 </m>
 <m id="m-vesm9211-055-p2s1w17">
 <src.rf>manual</src.rf>
@@ -373,7 +376,10 @@
 <LM>w#w-vesm9211-055-p2s1w39</LM>
 </w.rf>
 <form>sexismu</form>
-<tag lemma="sexizmus" src="orig" selected="1">NNIS3-----A----</tag>
+<tag>
+<AM lemma="sexizmus" src="orig">NNIS3-----A----</AM>
+<AM lemma="sexismus_,s_^(^DD**sexizmus)" src="manual" selected="1">NNIS3-----A----</AM>
+</tag>
 </m>
 <m id="m-vesm9211-055-p2s1w40">
 <src.rf>manual</src.rf>
@@ -423,7 +429,10 @@
 <LM>w#w-vesm9211-055-p2s2w2</LM>
 </w.rf>
 <form>sexual</form>
-<tag lemma="sexual_,t" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="sexual_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="sexual-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-vesm9211-055-p2s2w3">
 <src.rf>manual</src.rf>
@@ -435,6 +444,7 @@
 <AM lemma="harassment_,t" src="orig">NNIXX-----A----</AM>
 <AM lemma="harassment_,t_^(sexuální_obtěžování)" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="harassment_,t_^(sexuální_obtěžování)" src="auto">NNIS4-----A----</AM>
+<AM lemma="harassment-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-vesm9211-055-p2s2w4">
@@ -645,7 +655,10 @@
 <LM>w#w-vesm9211-055-p3s1w1</LM>
 </w.rf>
 <form>Dr</form>
-<tag lemma="doktorka_:B_^(doktorka,_akad._titul)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="doktorka_:B_^(doktorka,_akad._titul)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="Dr_:B_^(doktor)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-vesm9211-055-p3s1w2">
 <src.rf>manual</src.rf>

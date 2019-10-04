@@ -427,7 +427,7 @@
 <form>manžele</form>
 <tag>
 <AM lemma="manžel" src="orig">NNMP4-----A----</AM>
-<AM lemma="manžel" src="auto" recommended="1">NNMP4-----A---1</AM>
+<AM lemma="manžel" src="auto" recommended="1" selected="1">NNMP4-----A---1</AM>
 <AM lemma="manžel" src="auto">NNMS5-----A----</AM>
 </tag>
 </m>
@@ -965,7 +965,7 @@
 <tag>
 <AM lemma="tady" src="orig">Db------------1</AM>
 <AM lemma="ten" src="auto">PDFS4----------</AM>
-<AM lemma="tu" src="auto" recommended="1">Db-------------</AM>
+<AM lemma="tu" src="auto" recommended="1" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m-lnd91301-050-p3s4w8">
@@ -1801,7 +1801,7 @@
 <form>Kdykoli</form>
 <tag>
 <AM lemma="kdykoliv" src="orig">Db------------1</AM>
-<AM lemma="kdykoli" src="auto" recommended="1">Db-------------</AM>
+<AM lemma="kdykoli" src="auto" recommended="1" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m-lnd91301-050-p4s4Bw3">
@@ -2169,7 +2169,7 @@
 <tag>
 <AM lemma="tady" src="orig">Db------------1</AM>
 <AM lemma="ten" src="auto" recommended="1">PDFS4----------</AM>
-<AM lemma="tu" src="auto">Db-------------</AM>
+<AM lemma="tu" src="auto" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m-lnd91301-050-p4s6w5">
@@ -2610,7 +2610,7 @@
 <AM lemma="jakýkoli" src="auto">PZFS6----------</AM>
 <AM lemma="jakýkoli" src="auto">PZIP1----------</AM>
 <AM lemma="jakýkoli" src="auto">PZIP5----------</AM>
-<AM lemma="jakýkoli" src="auto" recommended="1">PZNS1----------</AM>
+<AM lemma="jakýkoli" src="auto" recommended="1" selected="1">PZNS1----------</AM>
 <AM lemma="jakýkoli" src="auto">PZNS4----------</AM>
 <AM lemma="jakýkoli" src="auto">PZNS5----------</AM>
 <AM lemma="jakýkoli" src="auto">PZYP4----------</AM>
@@ -3057,7 +3057,7 @@
 <form>ovšem</form>
 <tag>
 <AM lemma="ovšem-1_^(avšak,_však;_odporovací_spojka)" src="orig">J^-------------</AM>
-<AM lemma="ovšem" src="auto" recommended="1">TT-------------</AM>
+<AM lemma="ovšem" src="auto" recommended="1" selected="1">TT-------------</AM>
 </tag>
 </m>
 <m id="m-lnd91301-050-p4s13w5">
@@ -3148,7 +3148,10 @@
 <LM>w#w-lnd91301-050-p4s14w3</LM>
 </w.rf>
 <form>prostě</form>
-<tag lemma="prostě-1" src="auto" selected="1">Dg-------1A----</tag>
+<tag>
+<AM lemma="prostě-1" src="auto">Dg-------1A----</AM>
+<AM lemma="prostě-2" src="manual" selected="1">TT-------------</AM>
+</tag>
 </m>
 <m id="m-lnd91301-050-p4s14w4">
 <src.rf>manual</src.rf>
@@ -3235,7 +3238,7 @@
 <AM lemma="osmý" src="auto">CrFP1----------</AM>
 <AM lemma="osmý" src="auto">CrFP4----------</AM>
 <AM lemma="osmý" src="auto">CrFP5----------</AM>
-<AM lemma="osmý" src="auto" recommended="1">CrFS2----------</AM>
+<AM lemma="osmý" src="auto" recommended="1" selected="1">CrFS2----------</AM>
 <AM lemma="osmý" src="auto">CrFS3----------</AM>
 <AM lemma="osmý" src="auto">CrFS6----------</AM>
 <AM lemma="osmý" src="auto">CrIP1----------</AM>
@@ -4366,7 +4369,10 @@
 <LM>w#w-lnd91301-050-p5s6Bw13</LM>
 </w.rf>
 <form>nejvíce</form>
-<tag lemma="hodně-2" src="auto" selected="1">Dg-------3A----</tag>
+<tag>
+<AM lemma="hodně-2" src="auto">Dg-------3A----</AM>
+<AM lemma="hodně-3" src="manual" selected="1">Dg-------3A----</AM>
+</tag>
 </m>
 <m id="m-lnd91301-050-p5s6Bw14">
 <src.rf>manual</src.rf>
@@ -4663,7 +4669,7 @@
 <tag>
 <AM lemma="přece" src="orig">Db-------------</AM>
 <AM lemma="přece-1" src="auto" recommended="1">J^-------------</AM>
-<AM lemma="přece-2" src="auto">TT-------------</AM>
+<AM lemma="přece-2" src="auto" selected="1">TT-------------</AM>
 </tag>
 </m>
 <m id="m-lnd91301-050-p5s9w11">
@@ -4926,7 +4932,10 @@
 <LM>w#w-lnd91301-050-p6s1w1</LM>
 </w.rf>
 <form>Právě</form>
-<tag lemma="právě-1" src="auto" selected="1">Db-------------</tag>
+<tag>
+<AM lemma="právě-1" src="auto">Db-------------</AM>
+<AM lemma="právě-2" src="manual" selected="1">TT-------------</AM>
+</tag>
 </m>
 <m id="m-lnd91301-050-p6s1w2">
 <src.rf>manual</src.rf>
@@ -5123,7 +5132,7 @@
 <AM lemma="bližní" src="auto">NNFS6-----A----</AM>
 <AM lemma="bližní" src="auto">NNFS7-----A----</AM>
 <AM lemma="bližní" src="auto">NNMP1-----A----</AM>
-<AM lemma="bližní" src="auto" recommended="1">NNMP4-----A----</AM>
+<AM lemma="bližní" src="auto" recommended="1" selected="1">NNMP4-----A----</AM>
 <AM lemma="bližní" src="auto">NNMP5-----A----</AM>
 <AM lemma="bližní" src="auto">NNMS1-----A----</AM>
 <AM lemma="bližní" src="auto">NNMS5-----A----</AM>
@@ -5207,7 +5216,10 @@
 <LM>w#w-lnd91301-050-p6s1w34</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-2" src="auto" selected="1">Dg-------2A----</tag>
+<tag>
+<AM lemma="hodně-2" src="auto">Dg-------2A----</AM>
+<AM lemma="hodně-3" src="manual" selected="1">Dg-------2A----</AM>
+</tag>
 </m>
 <m id="m-lnd91301-050-p6s1w35">
 <src.rf>manual</src.rf>

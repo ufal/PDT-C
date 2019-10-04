@@ -531,7 +531,10 @@
 <LM>w#w-mf930701-152-p3s2w1</LM>
 </w.rf>
 <form>Více</form>
-<tag lemma="hodně-2" src="auto" selected="1">Dg-------2A----</tag>
+<tag>
+<AM lemma="hodně-2" src="auto">Dg-------2A----</AM>
+<AM lemma="hodně-3" src="manual" selected="1">Dg-------2A----</AM>
+</tag>
 </m>
 <m id="m-mf930701-152-p3s2w2">
 <src.rf>manual</src.rf>
@@ -776,6 +779,7 @@
 <tag>
 <AM lemma="Santan_;K" src="orig">AAXXX----1A----</AM>
 <AM lemma="Santana_;G" src="auto" recommended="1">NNFP2-----A----</AM>
+<AM lemma="Santan-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-mf930701-152-p3s3w5">
@@ -788,6 +792,7 @@
 <AM lemma="Dal_;K" src="orig">NNIS1-----A----</AM>
 <AM lemma="Dal_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="dát" src="auto">VpYS---XR-AA---</AM>
+<AM lemma="Dal-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-mf930701-152-p3s3w6">
@@ -1133,6 +1138,7 @@
 <AM lemma="Ratana_;K_^(název_sekty)" src="auto">NNFP2-----A----</AM>
 <AM lemma="ratan" src="auto">NNIS1-----A----</AM>
 <AM lemma="ratan" src="auto" recommended="1">NNIS4-----A----</AM>
+<AM lemma="Ratan-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-mf930701-152-p4s1w14">
@@ -1141,7 +1147,10 @@
 <LM>w#w-mf930701-152-p4s1w14</LM>
 </w.rf>
 <form>Bábu</form>
-<tag lemma="Báb_;G" src="orig" selected="1">NNIS6-----A----</tag>
+<tag>
+<AM lemma="Báb_;G" src="orig">NNIS6-----A----</AM>
+<AM lemma="Bábu-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-mf930701-152-p4s1w15">
 <src.rf>manual</src.rf>
@@ -1149,7 +1158,10 @@
 <LM>w#w-mf930701-152-p4s1w15</LM>
 </w.rf>
 <form>Ghát</form>
-<tag lemma="ghát" src="orig" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="ghát" src="orig">NNIS1-----A----</AM>
+<AM lemma="Ghát-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-mf930701-152-p4s1w16">
 <src.rf>manual</src.rf>
@@ -1279,7 +1291,7 @@
 <form>Indové</form>
 <tag>
 <AM lemma="ind" src="orig">NNMP1-----A----</AM>
-<AM lemma="Ind_;E" src="auto" recommended="1">NNMP1-----A----</AM>
+<AM lemma="Ind_;E" src="auto" recommended="1" selected="1">NNMP1-----A----</AM>
 <AM lemma="Ind_;E" src="auto">NNMP5-----A----</AM>
 </tag>
 </m>

@@ -95,7 +95,10 @@
 <LM>w#w-ln94207-31-p2s1Bw3</LM>
 </w.rf>
 <form>Sejmu</form>
-<tag lemma="Sejm_;K_,t" src="orig" selected="1">NNIS2-----A----</tag>
+<tag>
+<AM lemma="Sejm_;K_,t" src="orig">NNIS2-----A----</AM>
+<AM lemma="Sejm_;K" src="manual" selected="1">NNIS2-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94207-31-p2s1Bw4">
 <src.rf>manual</src.rf>
@@ -151,7 +154,10 @@
 <LM>w#w-ln94207-31-p2s1Bw10</LM>
 </w.rf>
 <form>Lecha</form>
-<tag lemma="Lech_;Y_,t" src="auto" selected="1">NNMS2-----A----</tag>
+<tag>
+<AM lemma="Lech_;Y_,t" src="auto">NNMS2-----A----</AM>
+<AM lemma="Lech_;Y" src="manual" selected="1">NNMS2-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94207-31-p2s1Bw11">
 <src.rf>manual</src.rf>

@@ -362,7 +362,7 @@
 <tag>
 <AM lemma="tedy" src="orig">Db-------------</AM>
 <AM lemma="tedy-1" src="auto">TT-------------</AM>
-<AM lemma="tedy-2" src="auto" recommended="1">J^-------------</AM>
+<AM lemma="tedy-2" src="auto" recommended="1" selected="1">J^-------------</AM>
 </tag>
 </m>
 <m id="m-cmpr9406-047-p3s2w21">
@@ -986,7 +986,10 @@
 <LM>w#w-cmpr9406-047-p4s2w6</LM>
 </w.rf>
 <form>causy</form>
-<tag lemma="kauza_,x" src="orig" selected="1">NNFP1-----A----</tag>
+<tag>
+<AM lemma="kauza_,x" src="orig">NNFP1-----A----</AM>
+<AM lemma="causa_,s_^(^DD**kauza)" src="manual" selected="1">NNFP1-----A----</AM>
+</tag>
 </m>
 <m id="m-cmpr9406-047-p4s2w7">
 <src.rf>manual</src.rf>
@@ -1678,7 +1681,7 @@
 <form>totiž</form>
 <tag>
 <AM lemma="totiž" src="orig">Db-------------</AM>
-<AM lemma="totiž-1" src="auto" recommended="1">J^-------------</AM>
+<AM lemma="totiž-1" src="auto" recommended="1" selected="1">J^-------------</AM>
 <AM lemma="totiž-2" src="auto">TT-------------</AM>
 </tag>
 </m>
@@ -2880,7 +2883,10 @@
 <LM>w#w-cmpr9406-047-p7s2w7</LM>
 </w.rf>
 <form>jako</form>
-<tag lemma="jako-1" src="auto" selected="1">J,-------------</tag>
+<tag>
+<AM lemma="jako-1" src="auto">J,-------------</AM>
+<AM lemma="jako-4" src="manual" selected="1">J^-------------</AM>
+</tag>
 </m>
 <m id="m-cmpr9406-047-p7s2w8">
 <src.rf>manual</src.rf>
@@ -2996,7 +3002,7 @@
 <form>nejen</form>
 <tag>
 <AM lemma="nejen" src="orig">TT-------------</AM>
-<AM lemma="nejen" src="auto" recommended="1">Db-------------</AM>
+<AM lemma="nejen" src="auto" recommended="1" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m-cmpr9406-047-p7s3w8">
@@ -3243,7 +3249,10 @@
 <LM>w#w-cmpr9406-047-p8s1w2</LM>
 </w.rf>
 <form>Lánský</form>
-<tag lemma="lánský" src="orig" selected="1">AAMS1----1A----</tag>
+<tag>
+<AM lemma="lánský" src="orig">AAMS1----1A----</AM>
+<AM lemma="Lánský_;S" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 </s>
 </mdata>

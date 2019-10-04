@@ -19,7 +19,10 @@
 <LM>w#w-ln95040-134-p1s1w1</LM>
 </w.rf>
 <form>Le</form>
-<tag lemma="Le-1_,t_^(franc._člen_jako_souč._jmen_a_názvů)" src="orig" selected="1">AAISX----1A----</tag>
+<tag>
+<AM lemma="Le-1_,t_^(franc._člen_jako_souč._jmen_a_názvů)" src="orig">AAISX----1A----</AM>
+<AM lemma="Le-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln95040-134-p1s1w2">
 <src.rf>manual</src.rf>
@@ -27,7 +30,10 @@
 <LM>w#w-ln95040-134-p1s1w2</LM>
 </w.rf>
 <form>Monde</form>
-<tag lemma="Monde_;R_^(Le_Monde)" src="orig" selected="1">NNISX-----A----</tag>
+<tag>
+<AM lemma="Monde_;R_^(Le_Monde)" src="orig">NNISX-----A----</AM>
+<AM lemma="Monde-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln95040-134-p1s1w3">
 <src.rf>manual</src.rf>
@@ -135,7 +141,10 @@
 <LM>w#w-ln95040-134-p3s1w3</LM>
 </w.rf>
 <form>Ernesto</form>
-<tag lemma="Ernesto_;Y_,t" src="auto" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Ernesto_;Y_,t" src="auto">NNMS1-----A----</AM>
+<AM lemma="Ernesto_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95040-134-p3s1w4">
 <src.rf>manual</src.rf>
@@ -152,7 +161,7 @@
 </w.rf>
 <form>Ponce</form>
 <tag>
-<AM lemma="Ponce_;S" src="orig">NNMS1-----A----</AM>
+<AM lemma="Ponce_;S" src="orig" selected="1">NNMS1-----A----</AM>
 <AM lemma="Ponec_;S" src="auto">NNMP4-----A----</AM>
 <AM lemma="Ponec_;S" src="auto" recommended="1">NNMS2-----A----</AM>
 <AM lemma="Ponec_;S" src="auto">NNMS4-----A----</AM>
@@ -390,7 +399,10 @@
 <LM>w#w-ln95040-134-p3s2w6</LM>
 </w.rf>
 <form>Le</form>
-<tag lemma="Le-1_,t_^(franc._člen_jako_souč._jmen_a_názvů)" src="orig" selected="1">AAISX----1A----</tag>
+<tag>
+<AM lemma="Le-1_,t_^(franc._člen_jako_souč._jmen_a_názvů)" src="orig">AAISX----1A----</AM>
+<AM lemma="Le-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln95040-134-p3s2w7">
 <src.rf>manual</src.rf>
@@ -398,7 +410,10 @@
 <LM>w#w-ln95040-134-p3s2w7</LM>
 </w.rf>
 <form>Monde</form>
-<tag lemma="Monde_;R_^(Le_Monde)" src="orig" selected="1">NNISX-----A----</tag>
+<tag>
+<AM lemma="Monde_;R_^(Le_Monde)" src="orig">NNISX-----A----</AM>
+<AM lemma="Monde-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln95040-134-p3s2w8">
 <src.rf>manual</src.rf>
@@ -841,7 +856,7 @@
 <tag>
 <AM lemma="tady" src="orig">Db------------1</AM>
 <AM lemma="ten" src="auto">PDFS4----------</AM>
-<AM lemma="tu" src="auto" recommended="1">Db-------------</AM>
+<AM lemma="tu" src="auto" recommended="1" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m-ln95040-134-p4s3w4">
@@ -1406,7 +1421,10 @@
 <LM>w#w-ln95040-134-p5s1w4</LM>
 </w.rf>
 <form>Ernesto</form>
-<tag lemma="Ernesto_;Y_,t" src="auto" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Ernesto_;Y_,t" src="auto">NNMS1-----A----</AM>
+<AM lemma="Ernesto_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95040-134-p5s1w5">
 <src.rf>manual</src.rf>
@@ -1879,7 +1897,7 @@
 <tag>
 <AM lemma="tedy" src="orig">Db-------------</AM>
 <AM lemma="tedy-1" src="auto">TT-------------</AM>
-<AM lemma="tedy-2" src="auto" recommended="1">J^-------------</AM>
+<AM lemma="tedy-2" src="auto" recommended="1" selected="1">J^-------------</AM>
 </tag>
 </m>
 <m id="m-ln95040-134-p6s1w9">
@@ -2164,7 +2182,10 @@
 <LM>w#w-ln95040-134-p7s1w2</LM>
 </w.rf>
 <form>Le</form>
-<tag lemma="Le-1_,t_^(franc._člen_jako_souč._jmen_a_názvů)" src="orig" selected="1">AAISX----1A----</tag>
+<tag>
+<AM lemma="Le-1_,t_^(franc._člen_jako_souč._jmen_a_názvů)" src="orig">AAISX----1A----</AM>
+<AM lemma="Le-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln95040-134-p7s1w3">
 <src.rf>manual</src.rf>
@@ -2172,7 +2193,10 @@
 <LM>w#w-ln95040-134-p7s1w3</LM>
 </w.rf>
 <form>Monde</form>
-<tag lemma="Monde_;R_^(Le_Monde)" src="orig" selected="1">NNISX-----A----</tag>
+<tag>
+<AM lemma="Monde_;R_^(Le_Monde)" src="orig">NNISX-----A----</AM>
+<AM lemma="Monde-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln95040-134-p7s1w4">
 <src.rf>manual</src.rf>
@@ -2542,7 +2566,10 @@
 <LM>w#w-ln95040-134-p7s2w12</LM>
 </w.rf>
 <form>PRI</form>
-<tag lemma="PRI-1_:B_;K_,t_^(Partito_Repubblicano_Italiano)" src="auto" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="PRI-1_:B_;K_,t_^(Partito_Repubblicano_Italiano)" src="auto">NNFXX-----A---8</AM>
+<AM lemma="PRI-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln95040-134-p7s2w13">
 <src.rf>manual</src.rf>
@@ -2691,7 +2718,7 @@
 <tag>
 <AM lemma="tedy" src="orig">Db-------------</AM>
 <AM lemma="tedy-1" src="auto" recommended="1">TT-------------</AM>
-<AM lemma="tedy-2" src="auto">J^-------------</AM>
+<AM lemma="tedy-2" src="auto" selected="1">J^-------------</AM>
 </tag>
 </m>
 <m id="m-ln95040-134-p7s3w4">

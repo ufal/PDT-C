@@ -43,7 +43,10 @@
 <LM>w#w-lnd94105-116-p1s1Aw4</LM>
 </w.rf>
 <form>USK</form>
-<tag lemma="USK-1_:B_^(univerzitní_sportovní_klub)" src="auto" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="USK-1_:B_^(univerzitní_sportovní_klub)" src="auto">NNIXX-----A---8</AM>
+<AM lemma="USK-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 </s>
 <s id="m-lnd94105-116-p1s1B">
@@ -70,7 +73,7 @@
 </w.rf>
 <form>ad</form>
 <tag>
-<AM lemma="ad-99_:B_;S" src="orig">NNXXX-----A---8</AM>
+<AM lemma="ad-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</AM>
 <AM lemma="ad_,t" src="auto">RR--1----------</AM>
 <AM lemma="adalší_:B" src="auto" recommended="1">AAXXX----1A---8</AM>
 </tag>
@@ -107,7 +110,10 @@
 <LM>w#w-lnd94105-116-p1s1Cw2</LM>
 </w.rf>
 <form>USK</form>
-<tag lemma="USK-1_:B_^(univerzitní_sportovní_klub)" src="auto" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="USK-1_:B_^(univerzitní_sportovní_klub)" src="auto">NNIXX-----A---8</AM>
+<AM lemma="USK-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd94105-116-p1s1Cw3">
 <src.rf>manual</src.rf>
@@ -197,7 +203,10 @@
 <LM>w#w-lnd94105-116-p1s2w2</LM>
 </w.rf>
 <form>F</form>
-<tag lemma="F-0_:B_;Y" src="orig" selected="1">NNMXX-----A---8</tag>
+<tag>
+<AM lemma="F-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
+<AM lemma="F-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd94105-116-p1s2w3">
 <src.rf>manual</src.rf>
@@ -293,7 +302,10 @@
 <LM>w#w-lnd94105-116-p1s2w14</LM>
 </w.rf>
 <form>J</form>
-<tag lemma="J-0_:B_;Y" src="orig" selected="1">NNMXX-----A---8</tag>
+<tag>
+<AM lemma="J-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
+<AM lemma="J-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd94105-116-p1s2w15">
 <src.rf>manual</src.rf>
@@ -455,7 +467,10 @@
 <LM>w#w-lnd94105-116-p1s3w11</LM>
 </w.rf>
 <form>USK</form>
-<tag lemma="USK-1_:B_^(univerzitní_sportovní_klub)" src="auto" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="USK-1_:B_^(univerzitní_sportovní_klub)" src="auto">NNIXX-----A---8</AM>
+<AM lemma="USK-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd94105-116-p1s3w12">
 <src.rf>manual</src.rf>
@@ -535,7 +550,10 @@
 <LM>w#w-lnd94105-116-p1s3w21</LM>
 </w.rf>
 <form>Vyšehrad</form>
-<tag lemma="Vyšehrad" src="orig" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="Vyšehrad" src="orig">NNIS1-----A----</AM>
+<AM lemma="Vyšehrad_;G" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd94105-116-p1s3w22">
 <src.rf>manual</src.rf>
@@ -761,7 +779,10 @@
 <LM>w#w-lnd94105-116-p1s4w11</LM>
 </w.rf>
 <form>Kameníka</form>
-<tag lemma="kameník" src="orig" selected="1">NNMS4-----A----</tag>
+<tag>
+<AM lemma="kameník" src="orig">NNMS4-----A----</AM>
+<AM lemma="Kameník_;S" src="manual" selected="1">NNMS4-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd94105-116-p1s4w12">
 <src.rf>manual</src.rf>
@@ -827,7 +848,10 @@
 <LM>w#w-lnd94105-116-p1s5w1</LM>
 </w.rf>
 <form>USK</form>
-<tag lemma="USK-1_:B_^(univerzitní_sportovní_klub)" src="auto" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="USK-1_:B_^(univerzitní_sportovní_klub)" src="auto">NNIXX-----A---8</AM>
+<AM lemma="USK-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd94105-116-p1s5w2">
 <src.rf>manual</src.rf>

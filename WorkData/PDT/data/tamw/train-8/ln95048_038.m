@@ -101,6 +101,7 @@
 <AM lemma="renezance" src="auto">NNFS1-----A----</AM>
 <AM lemma="renezance" src="auto" recommended="1">NNFS2-----A----</AM>
 <AM lemma="renezance" src="auto">NNFS5-----A----</AM>
+<AM lemma="renesance_,s_^(^DD**renezance)" src="manual" selected="1">NNFS2-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95048-038-p2s1w9">
@@ -263,7 +264,7 @@
 <form>nejen</form>
 <tag>
 <AM lemma="nejen" src="orig">TT-------------</AM>
-<AM lemma="nejen" src="auto" recommended="1">Db-------------</AM>
+<AM lemma="nejen" src="auto" recommended="1" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m-ln95048-038-p2s1w29">
@@ -1626,7 +1627,10 @@
 <LM>w#w-ln95048-038-p3s3w30</LM>
 </w.rf>
 <form>jen</form>
-<tag lemma="jen-1" src="auto" selected="1">TT-------------</tag>
+<tag>
+<AM lemma="jen-1" src="auto">TT-------------</AM>
+<AM lemma="jen-4_^(pouze)" src="manual" selected="1">Db-------------</AM>
+</tag>
 </m>
 <m id="m-ln95048-038-p3s3w31">
 <src.rf>manual</src.rf>
@@ -1758,7 +1762,7 @@
 <form>jedině</form>
 <tag>
 <AM lemma="jedině_^(*1ý)" src="orig">Dg-------1A----</AM>
-<AM lemma="jedině" src="auto" recommended="1">Db-------------</AM>
+<AM lemma="jedině" src="auto" recommended="1" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m-ln95048-038-p3s4w13">
@@ -1809,7 +1813,7 @@
 <form>jedině</form>
 <tag>
 <AM lemma="jedině_^(*1ý)" src="orig">Dg-------1A----</AM>
-<AM lemma="jedině" src="auto" recommended="1">Db-------------</AM>
+<AM lemma="jedině" src="auto" recommended="1" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m-ln95048-038-p3s4w19">
@@ -2530,7 +2534,10 @@
 <LM>w#w-ln95048-038-p4s1w15</LM>
 </w.rf>
 <form>víc</form>
-<tag lemma="hodně-2" src="auto" selected="1">Dg-------2A---1</tag>
+<tag>
+<AM lemma="hodně-2" src="auto">Dg-------2A---1</AM>
+<AM lemma="hodně-3" src="manual" selected="1">Dg-------2A---1</AM>
+</tag>
 </m>
 <m id="m-ln95048-038-p4s1w16">
 <src.rf>manual</src.rf>
@@ -2621,7 +2628,7 @@
 <tag>
 <AM lemma="přesto" src="orig">Dg-------1A----</AM>
 <AM lemma="přesto-1" src="auto">Db-------------</AM>
-<AM lemma="přesto-2" src="auto" recommended="1">J^-------------</AM>
+<AM lemma="přesto-2" src="auto" recommended="1" selected="1">J^-------------</AM>
 </tag>
 </m>
 <m id="m-ln95048-038-p4s1w27">
@@ -3815,6 +3822,7 @@
 <AM lemma="renezance" src="auto">NNFS3-----A----</AM>
 <AM lemma="renezance" src="auto">NNFS4-----A----</AM>
 <AM lemma="renezance" src="auto" recommended="1">NNFS6-----A----</AM>
+<AM lemma="renesance_,s_^(^DD**renezance)" src="manual" selected="1">NNFS6-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95048-038-p5s1w7">
@@ -4219,7 +4227,7 @@
 <form>čehokoli</form>
 <tag>
 <AM lemma="cokoliv" src="orig">PZ--2---------1</AM>
-<AM lemma="cokoli" src="auto" recommended="1">PZ--2----------</AM>
+<AM lemma="cokoli" src="auto" recommended="1" selected="1">PZ--2----------</AM>
 </tag>
 </m>
 <m id="m-ln95048-038-p5s6w15">
@@ -4506,7 +4514,7 @@
 <form>nejen</form>
 <tag>
 <AM lemma="nejen" src="orig">TT-------------</AM>
-<AM lemma="nejen" src="auto" recommended="1">Db-------------</AM>
+<AM lemma="nejen" src="auto" recommended="1" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m-ln95048-038-p5s8w15">

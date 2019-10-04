@@ -593,7 +593,10 @@
 <LM>w#w-cmpr9406-042-p3s3w12</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-2" src="auto" selected="1">Dg-------2A----</tag>
+<tag>
+<AM lemma="hodně-2" src="auto">Dg-------2A----</AM>
+<AM lemma="hodně-3" src="manual" selected="1">Dg-------2A----</AM>
+</tag>
 </m>
 <m id="m-cmpr9406-042-p3s3w13">
 <src.rf>manual</src.rf>
@@ -683,7 +686,10 @@
 <LM>w#w-cmpr9406-042-p4s1w1</LM>
 </w.rf>
 <form>Guido</form>
-<tag lemma="Guido_;Y_,t" src="auto" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Guido_;Y_,t" src="auto">NNMS1-----A----</AM>
+<AM lemma="Guido_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-cmpr9406-042-p4s1w2">
 <src.rf>manual</src.rf>
@@ -739,7 +745,10 @@
 <LM>w#w-cmpr9406-042-p4s1w8</LM>
 </w.rf>
 <form>Creditanstalt</form>
-<tag lemma="Creditanstalt_;Y" src="orig" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="Creditanstalt_;Y" src="orig">NNIS1-----A----</AM>
+<AM lemma="Creditanstalt_;K" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-cmpr9406-042-p4s1w9">
 <src.rf>manual</src.rf>

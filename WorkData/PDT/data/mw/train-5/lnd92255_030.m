@@ -86,7 +86,7 @@
 <tag>
 <AM lemma="Jajce_;G" src="orig">NNNS4-----A----</AM>
 <AM lemma="Jajce_;G" src="auto" recommended="1">NNIP1-----A----</AM>
-<AM lemma="Jajce_;G" src="auto">NNIP4-----A----</AM>
+<AM lemma="Jajce_;G" src="auto" selected="1">NNIP4-----A----</AM>
 <AM lemma="Jajce_;G" src="auto">NNIP5-----A----</AM>
 </tag>
 </m>
@@ -527,7 +527,10 @@
 <LM>w#w-lnd92255-030-p2s2w19</LM>
 </w.rf>
 <form>Owen</form>
-<tag lemma="Owen_;Y" src="orig" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Owen_;Y" src="orig">NNMS1-----A----</AM>
+<AM lemma="Owen_;Y_;S" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92255-030-p2s2w20">
 <src.rf>manual</src.rf>
@@ -585,7 +588,10 @@
 <LM>w#w-lnd92255-030-p2s3w6</LM>
 </w.rf>
 <form>Cyrus</form>
-<tag lemma="Cyrus_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Cyrus_;S" src="orig">NNMS1-----A----</AM>
+<AM lemma="Cyrus_;Y_;S" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92255-030-p2s3w7">
 <src.rf>manual</src.rf>
@@ -617,7 +623,10 @@
 <LM>w#w-lnd92255-030-p2s3w10</LM>
 </w.rf>
 <form>Owen</form>
-<tag lemma="Owen_;Y" src="orig" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Owen_;Y" src="orig">NNMS1-----A----</AM>
+<AM lemma="Owen_;Y_;S" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92255-030-p2s3w11">
 <src.rf>manual</src.rf>
@@ -861,7 +870,10 @@
 <LM>w#w-lnd92255-030-p3s2w14</LM>
 </w.rf>
 <form>Alija</form>
-<tag lemma="Alija_;Y_,t" src="auto" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Alija_;Y_,t" src="auto">NNMS1-----A----</AM>
+<AM lemma="Alija_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92255-030-p3s2w15">
 <src.rf>manual</src.rf>

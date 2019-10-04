@@ -87,7 +87,10 @@
 <LM>w#w-ln95048-109-p2s1Bw3</LM>
 </w.rf>
 <form>Bénazír</form>
-<tag lemma="Bénazír_;Y_,t" src="auto" selected="1">NNFXX-----A----</tag>
+<tag>
+<AM lemma="Bénazír_;Y_,t" src="auto">NNFXX-----A----</AM>
+<AM lemma="Bénazír_;Y" src="manual" selected="1">NNFXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95048-109-p2s1Bw4">
 <src.rf>manual</src.rf>
@@ -375,7 +378,10 @@
 <LM>w#w-ln95048-109-p2s1Bw39</LM>
 </w.rf>
 <form>Ratta</form>
-<tag lemma="Ratta_;G" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="Ratta_;G" src="orig">AAXXX----1A----</AM>
+<AM lemma="Ratta-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln95048-109-p2s1Bw40">
 <src.rf>manual</src.rf>
@@ -383,7 +389,10 @@
 <LM>w#w-ln95048-109-p2s1Bw40</LM>
 </w.rf>
 <form>Dhotran</form>
-<tag lemma="Dhotran_;G" src="orig" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="Dhotran_;G" src="orig">NNIS1-----A----</AM>
+<AM lemma="Dhotran-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln95048-109-p2s1Bw41">
 <src.rf>manual</src.rf>
@@ -404,6 +413,7 @@
 <AM lemma="Paňdžáb_;G" src="orig">NNIS6-----A----</AM>
 <AM lemma="Paňdžáb_;G" src="auto">NNMS3-----A---1</AM>
 <AM lemma="Paňdžáb_;G" src="auto" recommended="1">NNMS6-----A---1</AM>
+<AM lemma="Paňdžáb_,s_^(^DD**Pandžáb)" src="manual" selected="1">NNIS6-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95048-109-p2s1Bw43">
@@ -550,7 +560,10 @@
 <LM>w#w-ln95048-109-p2s2w11</LM>
 </w.rf>
 <form>Paňdžábu</form>
-<tag lemma="Paňdžáb_;G" src="orig" selected="1">NNMS6-----A---1</tag>
+<tag>
+<AM lemma="Paňdžáb_;G" src="orig">NNMS6-----A---1</AM>
+<AM lemma="Paňdžáb_,s_^(^DD**Pandžáb)" src="manual" selected="1">NNIS6-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95048-109-p2s2w12">
 <src.rf>manual</src.rf>
@@ -774,7 +787,10 @@
 <LM>w#w-ln95048-109-p2s2w39</LM>
 </w.rf>
 <form>Bénazír</form>
-<tag lemma="Bénazír_;Y_,t" src="auto" selected="1">NNFXX-----A----</tag>
+<tag>
+<AM lemma="Bénazír_;Y_,t" src="auto">NNFXX-----A----</AM>
+<AM lemma="Bénazír_;Y" src="manual" selected="1">NNFXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95048-109-p2s2w40">
 <src.rf>manual</src.rf>

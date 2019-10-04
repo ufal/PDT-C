@@ -36,7 +36,7 @@
 </w.rf>
 <form>Bernard</form>
 <tag>
-<AM lemma="Bernard-2_;K" src="orig">NNIS1-----A----</AM>
+<AM lemma="Bernard-2_;K" src="orig" selected="1">NNIS1-----A----</AM>
 <AM lemma="Bernard_;Y" src="auto">NNMS1-----A----</AM>
 <AM lemma="Bernarda_;Y" src="auto" recommended="1">NNFP2-----A----</AM>
 </tag>
@@ -75,6 +75,7 @@
 <AM lemma="KEG_:B" src="orig">AAXXX----1A---8</AM>
 <AM lemma="keg_,l_^(typ_sudu)" src="auto">NNIS1-----A----</AM>
 <AM lemma="keg_,l_^(typ_sudu)" src="auto" recommended="1">NNIS4-----A----</AM>
+<AM lemma="keg_,l_^(typ_sudu)" src="manual" selected="1">NNIXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94204-26-p1s1w8">

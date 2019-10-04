@@ -519,7 +519,10 @@
 <LM>w#w-ln94203-95-p3s1w13</LM>
 </w.rf>
 <form>Rút</form>
-<tag lemma="Rút_;Y_,t" src="auto" selected="1">NNFXX-----A----</tag>
+<tag>
+<AM lemma="Rút_;Y_,t" src="auto">NNFXX-----A----</AM>
+<AM lemma="Rút_;Y" src="manual" selected="1">NNFXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94203-95-p3s1w14">
 <src.rf>manual</src.rf>
@@ -772,7 +775,7 @@
 <tag>
 <AM lemma="tedy" src="orig">Db-------------</AM>
 <AM lemma="tedy-1" src="auto">TT-------------</AM>
-<AM lemma="tedy-2" src="auto" recommended="1">J^-------------</AM>
+<AM lemma="tedy-2" src="auto" recommended="1" selected="1">J^-------------</AM>
 </tag>
 </m>
 <m id="m-ln94203-95-p3s2w13">
@@ -901,7 +904,10 @@
 <LM>w#w-ln94203-95-p3s2w28</LM>
 </w.rf>
 <form>zemřel</form>
-<tag lemma="zemřít" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag>
+<AM lemma="zemřít" src="orig">VpYS---XR-AA---</AM>
+<AM lemma="zemřít_:W" src="manual" selected="1">VpYS---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-ln94203-95-p3s2w29">
 <src.rf>manual</src.rf>
@@ -1467,7 +1473,10 @@
 <LM>w#w-ln94203-95-p4s1w23</LM>
 </w.rf>
 <form>Pragensis</form>
-<tag lemma="Pragensis_,t" src="auto" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="Pragensis_,t" src="auto">AAXXX----1A----</AM>
+<AM lemma="Pragensis-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94203-95-p4s1w24">
 <src.rf>manual</src.rf>
@@ -1771,6 +1780,7 @@
 <AM lemma="šek-99_:B_;S" src="orig">NNXXX-----A---8</AM>
 <AM lemma="šek" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="šek" src="auto">NNIS4-----A----</AM>
+<AM lemma="šek-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94203-95-p4s3w3">

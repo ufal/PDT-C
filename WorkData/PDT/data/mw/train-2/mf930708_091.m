@@ -1053,7 +1053,7 @@
 <form>totiž</form>
 <tag>
 <AM lemma="totiž" src="orig">Db-------------</AM>
-<AM lemma="totiž-1" src="auto" recommended="1">J^-------------</AM>
+<AM lemma="totiž-1" src="auto" recommended="1" selected="1">J^-------------</AM>
 <AM lemma="totiž-2" src="auto">TT-------------</AM>
 </tag>
 </m>
@@ -1478,7 +1478,11 @@
 <LM>w#w-mf930708-091-p2s13w1</LM>
 </w.rf>
 <form>Hun</form>
-<tag lemma="Hun_;E" src="auto" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Hun_;E" src="auto">NNMS1-----A----</AM>
+<AM lemma="Hun-2_;S " src="manual">NNMS1-----A----</AM>
+<AM lemma="Hun-2_;S" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930708-091-p2s13w2">
 <src.rf>manual</src.rf>
@@ -1487,7 +1491,7 @@
 </w.rf>
 <form>Hong</form>
 <tag>
-<AM lemma="Hong-2_;Y" src="orig">NNMXX-----A----</AM>
+<AM lemma="Hong-2_;Y" src="orig" selected="1">NNMXX-----A----</AM>
 <AM lemma="Hong_;G" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Hong_;G" src="auto">NNIS4-----A----</AM>
 </tag>
@@ -1972,7 +1976,7 @@
 <form>ovšem</form>
 <tag>
 <AM lemma="ovšem-1_^(avšak,_však;_odporovací_spojka)" src="orig">J^-------------</AM>
-<AM lemma="ovšem" src="auto" recommended="1">TT-------------</AM>
+<AM lemma="ovšem" src="auto" recommended="1" selected="1">TT-------------</AM>
 </tag>
 </m>
 <m id="m-mf930708-091-p2s17w6">

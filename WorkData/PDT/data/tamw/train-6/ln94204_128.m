@@ -51,7 +51,10 @@
 <LM>w#w-ln94204-128-p1s1w5</LM>
 </w.rf>
 <form>MS</form>
-<tag lemma="MS-3_:B_;w_^(mistrovství_světa)" src="orig" selected="1">NNNXX-----A---8</tag>
+<tag>
+<AM lemma="MS-3_:B_;w_^(mistrovství_světa)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="MS-3_:B_^(mistrovství_světa)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 </s>
 <s id="m-ln94204-128-p2s1A">
@@ -130,6 +133,7 @@
 <tag>
 <AM lemma="tom-99_:B_;S" src="orig">NNXXX-----A---8</AM>
 <AM lemma="ten" src="auto" recommended="1">PDZS6----------</AM>
+<AM lemma="tom-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94204-128-p2s1Bw4">
@@ -367,6 +371,7 @@
 <AM lemma="mimo-1_:B" src="auto">RR--4---------8</AM>
 <AM lemma="minuta_:B" src="auto">NNFXX-----A---8</AM>
 <AM lemma="město_:B" src="auto">NNNXX-----A---8</AM>
+<AM lemma="metr" src="manual" selected="1">NNIXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-ln94204-128-p3s1w5">
@@ -447,7 +452,10 @@
 <LM>w#w-ln94204-128-p3s1w14</LM>
 </w.rf>
 <form>MS</form>
-<tag lemma="MS-3_:B_;w_^(mistrovství_světa)" src="orig" selected="1">NNNXX-----A---8</tag>
+<tag>
+<AM lemma="MS-3_:B_;w_^(mistrovství_světa)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="MS-3_:B_^(mistrovství_světa)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94204-128-p3s1w15">
 <src.rf>manual</src.rf>
@@ -837,7 +845,10 @@
 <LM>w#w-ln94204-128-p4s1w8</LM>
 </w.rf>
 <form>MS</form>
-<tag lemma="MS-3_:B_;w_^(mistrovství_světa)" src="orig" selected="1">NNNXX-----A---8</tag>
+<tag>
+<AM lemma="MS-3_:B_;w_^(mistrovství_světa)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="MS-3_:B_^(mistrovství_světa)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94204-128-p4s1w9">
 <src.rf>manual</src.rf>
@@ -1019,7 +1030,7 @@
 <form>Businského</form>
 <tag>
 <AM lemma="Businský_;S" src="orig">AAMS2----1A----</AM>
-<AM lemma="Businský_;S" src="auto" recommended="1">NNMS2-----A----</AM>
+<AM lemma="Businský_;S" src="auto" recommended="1" selected="1">NNMS2-----A----</AM>
 <AM lemma="Businský_;S" src="auto">NNMS4-----A----</AM>
 </tag>
 </m>
@@ -2089,7 +2100,7 @@
 <form>známo</form>
 <tag>
 <AM lemma="znát" src="orig">VpNS---XR-AA---</AM>
-<AM lemma="známý-2_^(co_známe)" src="auto" recommended="1">ACNS------A----</AM>
+<AM lemma="známý-2_^(co_známe)" src="auto" recommended="1" selected="1">ACNS------A----</AM>
 </tag>
 </m>
 <m id="m-ln94204-128-p5s6w3">
@@ -2318,7 +2329,7 @@
 <form>ovšem</form>
 <tag>
 <AM lemma="ovšem-1_^(avšak,_však;_odporovací_spojka)" src="orig">J^-------------</AM>
-<AM lemma="ovšem" src="auto" recommended="1">TT-------------</AM>
+<AM lemma="ovšem" src="auto" recommended="1" selected="1">TT-------------</AM>
 </tag>
 </m>
 <m id="m-ln94204-128-p5s7w16">
@@ -2822,7 +2833,7 @@
 <tag>
 <AM lemma="tedy" src="orig">Db-------------</AM>
 <AM lemma="tedy-1" src="auto">TT-------------</AM>
-<AM lemma="tedy-2" src="auto" recommended="1">J^-------------</AM>
+<AM lemma="tedy-2" src="auto" recommended="1" selected="1">J^-------------</AM>
 </tag>
 </m>
 <m id="m-ln94204-128-p5s13w4">

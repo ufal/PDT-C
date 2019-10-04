@@ -215,7 +215,10 @@
 <LM>w#w-ln94201-12-p3s1w3</LM>
 </w.rf>
 <form>Daiwa</form>
-<tag lemma="Daiwa_;K_,t" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="Daiwa_;K_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="Daiwa_;K" src="manual" selected="1">AAXXX----1A----</AM>
+</tag>
 </m>
 <m id="m-ln94201-12-p3s1w4">
 <src.rf>manual</src.rf>
@@ -223,7 +226,10 @@
 <LM>w#w-ln94201-12-p3s1w4</LM>
 </w.rf>
 <form>Securities</form>
-<tag lemma="Securities_;K_,t" src="orig" selected="1">NNXXX-----A----</tag>
+<tag>
+<AM lemma="Securities_;K_,t" src="orig">NNXXX-----A----</AM>
+<AM lemma="Securities-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94201-12-p3s1w5">
 <src.rf>manual</src.rf>
@@ -539,7 +545,10 @@
 <LM>w#w-ln94201-12-p5s1w8</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-2" src="auto" selected="1">Dg-------2A----</tag>
+<tag>
+<AM lemma="hodně-2" src="auto">Dg-------2A----</AM>
+<AM lemma="hodně-3" src="manual" selected="1">Dg-------2A----</AM>
+</tag>
 </m>
 <m id="m-ln94201-12-p5s1w9">
 <src.rf>manual</src.rf>

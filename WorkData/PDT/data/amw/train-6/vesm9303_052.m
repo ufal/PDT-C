@@ -53,7 +53,10 @@
 <LM>w#w-vesm9303-052-p2s1w1</LM>
 </w.rf>
 <form>Science</form>
-<tag lemma="Science-1_;K_,t_^(souč._názvů,_např._Science)" src="orig" selected="1">NNFSX-----A----</tag>
+<tag>
+<AM lemma="Science-1_;K_,t_^(souč._názvů,_např._Science)" src="orig">NNFSX-----A----</AM>
+<AM lemma="Science-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 </s>
 <s id="m-vesm9303-052-p3s1">
@@ -63,7 +66,10 @@
 <LM>w#w-vesm9303-052-p3s1w1</LM>
 </w.rf>
 <form>Nature</form>
-<tag lemma="Nature-1_;K_,t_^(časopis)" src="orig" selected="1">NNIXX-----A----</tag>
+<tag>
+<AM lemma="Nature-1_;K_,t_^(časopis)" src="orig">NNIXX-----A----</AM>
+<AM lemma="Nature-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 </s>
 <s id="m-vesm9303-052-p4s1">
@@ -771,7 +777,10 @@
 <LM>w#w-vesm9303-052-p8s7w2</LM>
 </w.rf>
 <form>ani</form>
-<tag lemma="ani-1" src="auto" selected="1">J^-------------</tag>
+<tag>
+<AM lemma="ani-1" src="auto">J^-------------</AM>
+<AM lemma="ani-2" src="manual" selected="1">TT-------------</AM>
+</tag>
 </m>
 <m id="m-vesm9303-052-p8s7w3">
 <src.rf>manual</src.rf>
@@ -1706,7 +1715,7 @@
 <form>ovšem</form>
 <tag>
 <AM lemma="ovšem-1_^(avšak,_však;_odporovací_spojka)" src="orig">J^-------------</AM>
-<AM lemma="ovšem" src="auto" recommended="1">TT-------------</AM>
+<AM lemma="ovšem" src="auto" recommended="1" selected="1">TT-------------</AM>
 </tag>
 </m>
 <m id="m-vesm9303-052-p14s1w5">
@@ -1837,7 +1846,7 @@
 <form>snad</form>
 <tag>
 <AM lemma="snad" src="orig">Db-------------</AM>
-<AM lemma="snad" src="auto" recommended="1">TT-------------</AM>
+<AM lemma="snad" src="auto" recommended="1" selected="1">TT-------------</AM>
 </tag>
 </m>
 <m id="m-vesm9303-052-p14s1w21">
@@ -2236,7 +2245,10 @@
 <LM>w#w-vesm9303-052-p16s1w4</LM>
 </w.rf>
 <form>Nature</form>
-<tag lemma="Nature-1_;K_,t_^(časopis)" src="orig" selected="1">NNIXX-----A----</tag>
+<tag>
+<AM lemma="Nature-1_;K_,t_^(časopis)" src="orig">NNIXX-----A----</AM>
+<AM lemma="Nature-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-vesm9303-052-p16s1w5">
 <src.rf>manual</src.rf>

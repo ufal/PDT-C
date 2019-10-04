@@ -247,7 +247,10 @@
 <LM>w#w-ln94202-81-p2s1Bw14</LM>
 </w.rf>
 <form>LN</form>
-<tag lemma="LN-1_:B_;R_^(Lidové_noviny,_deník)" src="orig" selected="1">NNFPX-----A---8</tag>
+<tag>
+<AM lemma="LN-1_:B_;R_^(Lidové_noviny,_deník)" src="orig">NNFPX-----A---8</AM>
+<AM lemma="LN-1_:B_;K_;R_^(Lidové_noviny,_deník)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94202-81-p2s1Bw15">
 <src.rf>manual</src.rf>
@@ -2256,7 +2259,7 @@
 </w.rf>
 <form>vůbec</form>
 <tag>
-<AM lemma="vůbec" src="orig">Db-------------</AM>
+<AM lemma="vůbec" src="orig" selected="1">Db-------------</AM>
 <AM lemma="vůbec" src="auto" recommended="1">TT-------------</AM>
 </tag>
 </m>
@@ -3374,7 +3377,10 @@
 <LM>w#w-ln94202-81-p6s5w22</LM>
 </w.rf>
 <form>kurz</form>
-<tag lemma="kurs" src="auto" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="kurs" src="auto">NNIS1-----A----</AM>
+<AM lemma="kurs_,s_^(^DD**kurz)" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94202-81-p6s5w23">
 <src.rf>manual</src.rf>

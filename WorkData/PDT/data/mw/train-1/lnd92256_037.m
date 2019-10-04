@@ -151,7 +151,10 @@
 <LM>w#w-lnd92256-037-p2s2w2</LM>
 </w.rf>
 <form>DAK</form>
-<tag lemma="DAK_:B_;K" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="DAK_:B_;K" src="orig">NNXXX-----A---8</AM>
+<AM lemma="DAK-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd92256-037-p2s2w3">
 <src.rf>manual</src.rf>
@@ -290,7 +293,10 @@
 <LM>w#w-lnd92256-037-p2s3w11</LM>
 </w.rf>
 <form>V</form>
-<tag lemma="V-0_:B_;Y" src="orig" selected="1">NNMXX-----A---8</tag>
+<tag>
+<AM lemma="V-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
+<AM lemma="V-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd92256-037-p2s3w12">
 <src.rf>manual</src.rf>
@@ -306,7 +312,10 @@
 <LM>w#w-lnd92256-037-p2s3w13</LM>
 </w.rf>
 <form>B</form>
-<tag lemma="B-9_:B_;S" src="orig" selected="1">NNMXX-----A---8</tag>
+<tag>
+<AM lemma="B-9_:B_;S" src="orig">NNMXX-----A---8</AM>
+<AM lemma="B-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd92256-037-p2s3w14">
 <src.rf>manual</src.rf>
@@ -826,7 +835,10 @@
 <LM>w#w-lnd92256-037-p2s6w17</LM>
 </w.rf>
 <form>sv</form>
-<tag lemma="svazek_:B" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="svazek_:B" src="orig">NNIXX-----A---8</AM>
+<AM lemma="svatý-1" src="manual" selected="1">AAXXX----1A---8</AM>
+</tag>
 </m>
 <m id="m-lnd92256-037-p2s6w18">
 <src.rf>manual</src.rf>

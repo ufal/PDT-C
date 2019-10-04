@@ -59,7 +59,10 @@
 <LM>w#w-ln95041-115-p1s1w6</LM>
 </w.rf>
 <form>konkurs</form>
-<tag lemma="konkurs_^(úpadek;;soutěž)" src="auto" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="konkurs_^(úpadek;;soutěž)" src="auto">NNIS1-----A----</AM>
+<AM lemma="konkurs_,s_^(^DD**konkurz)" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95041-115-p1s1w7">
 <src.rf>manual</src.rf>
@@ -465,7 +468,10 @@
 <LM>w#w-ln95041-115-p2s2w26</LM>
 </w.rf>
 <form>SSSR</form>
-<tag lemma="SSSR_:B_;G_^(Svaz_sov._socialist._republik)" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="SSSR_:B_;G_^(Svaz_sov._socialist._republik)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="SSSR-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln95041-115-p2s2w27">
 <src.rf>manual</src.rf>
@@ -563,6 +569,7 @@
 <AM lemma="Thermo_;K" src="auto">NNNS5-----A----</AM>
 <AM lemma="terma_,t_,x_^(lázně)" src="auto">NNFS5-----A----</AM>
 <AM lemma="thermo_,a" src="auto">A2--------A----</AM>
+<AM lemma="Thermo-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-ln95041-115-p3s1w6">
@@ -575,6 +582,7 @@
 <AM lemma="King_;K_,t" src="orig">NNIS1-----A----</AM>
 <AM lemma="King_;S" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="king_;L" src="auto">NNMS1-----A----</AM>
+<AM lemma="King-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-ln95041-115-p3s1w7">
@@ -799,7 +807,10 @@
 <LM>w#w-ln95041-115-p3s1w34</LM>
 </w.rf>
 <form>konkursu</form>
-<tag lemma="konkurs_^(úpadek;;soutěž)" src="auto" selected="1">NNIS2-----A----</tag>
+<tag>
+<AM lemma="konkurs_^(úpadek;;soutěž)" src="auto">NNIS2-----A----</AM>
+<AM lemma="konkurs_,s_^(^DD**konkurz)" src="manual" selected="1">NNIS2-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95041-115-p3s1w35">
 <src.rf>manual</src.rf>

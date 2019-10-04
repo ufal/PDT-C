@@ -359,7 +359,7 @@
 <form>naleznete</form>
 <tag>
 <AM lemma="naleznout" src="orig">VB-P---2P-AA---</AM>
-<AM lemma="nalézt-2" src="auto" recommended="1">VB-P---2P-AA---</AM>
+<AM lemma="nalézt-2" src="auto" recommended="1" selected="1">VB-P---2P-AA---</AM>
 </tag>
 </m>
 <m id="m-ln95043-093-p1s2w21">

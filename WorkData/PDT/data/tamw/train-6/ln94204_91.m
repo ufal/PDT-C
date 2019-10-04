@@ -29,7 +29,10 @@
 <LM>w#w-ln94204-91-p2s1w1</LM>
 </w.rf>
 <form>Ulsterší</form>
-<tag lemma="Ulsterský_;G" src="orig" selected="1">AAMP1----1A----</tag>
+<tag>
+<AM lemma="Ulsterský_;G" src="orig">AAMP1----1A----</AM>
+<AM lemma="ulsterský" src="manual" selected="1">AAMP1----1A----</AM>
+</tag>
 </m>
 <m id="m-ln94204-91-p2s1w2">
 <src.rf>manual</src.rf>
@@ -101,7 +104,10 @@
 <LM>w#w-ln94204-91-p2s1w10</LM>
 </w.rf>
 <form>UFF</form>
-<tag lemma="uff" src="orig" selected="1">II-------------</tag>
+<tag>
+<AM lemma="uff" src="orig">II-------------</AM>
+<AM lemma="UFF-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94204-91-p2s1w11">
 <src.rf>manual</src.rf>
@@ -261,7 +267,10 @@
 <LM>w#w-ln94204-91-p2s1w30</LM>
 </w.rf>
 <form>strany</form>
-<tag lemma="strana-3_^(u_soudu,_na_úřadě,_smluvní_strany;_na_něčí_straně)" src="orig" selected="1">NNFS2-----A----</tag>
+<tag>
+<AM lemma="strana-3_^(u_soudu,_na_úřadě,_smluvní_strany;_na_něčí_straně)" src="orig">NNFS2-----A----</AM>
+<AM lemma="strana" src="manual" selected="1">NNFS2-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94204-91-p2s1w31">
 <src.rf>manual</src.rf>
@@ -301,7 +310,10 @@
 <LM>w#w-ln94204-91-p2s1w35</LM>
 </w.rf>
 <form>IRA</form>
-<tag lemma="IRA-1_:B_;K_,t_^(Irská_republikánská_armáda)" src="auto" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="IRA-1_:B_;K_,t_^(Irská_republikánská_armáda)" src="auto">NNFXX-----A---8</AM>
+<AM lemma="IRA-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94204-91-p2s1w36">
 <src.rf>manual</src.rf>
@@ -1073,7 +1085,10 @@
 <LM>w#w-ln94204-91-p5s2w4</LM>
 </w.rf>
 <form>Rize</form>
-<tag lemma="riga" src="orig" selected="1">NNFS6-----A----</tag>
+<tag>
+<AM lemma="riga" src="orig">NNFS6-----A----</AM>
+<AM lemma="Riga_;G" src="manual" selected="1">NNFS6-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94204-91-p5s2w5">
 <src.rf>manual</src.rf>
@@ -1181,7 +1196,7 @@
 <AM lemma="odchod" src="orig">NNIS6-----A----</AM>
 <AM lemma="odchod" src="auto">NNIS2-----A----</AM>
 <AM lemma="odchod" src="auto">NNIS3-----A----</AM>
-<AM lemma="odchod" src="auto" recommended="1">NNIS6-----A---1</AM>
+<AM lemma="odchod" src="auto" recommended="1" selected="1">NNIS6-----A---1</AM>
 </tag>
 </m>
 <m id="m-ln94204-91-p5s2w18">
@@ -1554,7 +1569,10 @@
 <LM>w#w-ln94204-91-p6s2w5</LM>
 </w.rf>
 <form>OSN</form>
-<tag lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94204-91-p6s2w6">
 <src.rf>manual</src.rf>
@@ -1586,7 +1604,10 @@
 <LM>w#w-ln94204-91-p6s2w9</LM>
 </w.rf>
 <form>Muhammad</form>
-<tag lemma="Muhammad_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Muhammad_;S" src="orig">NNMS1-----A----</AM>
+<AM lemma="Muhammad_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94204-91-p6s2w10">
 <src.rf>manual</src.rf>
@@ -1595,7 +1616,7 @@
 </w.rf>
 <form>Chán</form>
 <tag>
-<AM lemma="Chán_;S" src="orig">NNMS1-----A----</AM>
+<AM lemma="Chán_;S" src="orig" selected="1">NNMS1-----A----</AM>
 <AM lemma="chán" src="auto" recommended="1">NNMS1-----A----</AM>
 </tag>
 </m>
@@ -1677,7 +1698,7 @@
 <AM lemma="Sibiř_;G" src="orig">NNIS6-----A----</AM>
 <AM lemma="Sibiř_;G" src="auto">NNFS3-----A----</AM>
 <AM lemma="Sibiř_;G" src="auto">NNFS5-----A----</AM>
-<AM lemma="Sibiř_;G" src="auto" recommended="1">NNFS6-----A----</AM>
+<AM lemma="Sibiř_;G" src="auto" recommended="1" selected="1">NNFS6-----A----</AM>
 <AM lemma="sibiř" src="auto">NNFS3-----A----</AM>
 <AM lemma="sibiř" src="auto">NNFS5-----A----</AM>
 <AM lemma="sibiř" src="auto">NNFS6-----A----</AM>

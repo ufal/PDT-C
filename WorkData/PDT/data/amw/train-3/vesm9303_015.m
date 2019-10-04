@@ -224,7 +224,7 @@
 <tag>
 <AM lemma="tedy" src="orig">Db-------------</AM>
 <AM lemma="tedy-1" src="auto">TT-------------</AM>
-<AM lemma="tedy-2" src="auto" recommended="1">J^-------------</AM>
+<AM lemma="tedy-2" src="auto" recommended="1" selected="1">J^-------------</AM>
 </tag>
 </m>
 <m id="m-vesm9303-015-p1s2w18">
@@ -697,7 +697,10 @@
 <LM>w#w-vesm9303-015-p2s2w3</LM>
 </w.rf>
 <form>nestála</form>
-<tag lemma="stát-3_^(někdo/něco_stojí,_např._na_nohou)" src="orig" selected="1">VpQW---XR-NA---</tag>
+<tag>
+<AM lemma="stát-3_^(někdo/něco_stojí,_např._na_nohou)" src="orig">VpQW---XR-NA---</AM>
+<AM lemma="stát-3_^(stojím_stojíš)" src="manual" selected="1">VpQW---XR-NA---</AM>
+</tag>
 </m>
 <m id="m-vesm9303-015-p2s2w4">
 <src.rf>manual</src.rf>
@@ -887,7 +890,7 @@
 <form>Ovšem</form>
 <tag>
 <AM lemma="ovšem-1_^(avšak,_však;_odporovací_spojka)" src="orig">J^-------------</AM>
-<AM lemma="ovšem" src="auto" recommended="1">TT-------------</AM>
+<AM lemma="ovšem" src="auto" recommended="1" selected="1">TT-------------</AM>
 </tag>
 </m>
 <m id="m-vesm9303-015-p2s4w2">
@@ -1489,7 +1492,7 @@
 <tag>
 <AM lemma="přesto" src="orig">Dg-------1A----</AM>
 <AM lemma="přesto-1" src="auto" recommended="1">Db-------------</AM>
-<AM lemma="přesto-2" src="auto">J^-------------</AM>
+<AM lemma="přesto-2" src="auto" selected="1">J^-------------</AM>
 </tag>
 </m>
 <m id="m-vesm9303-015-p3s1w10">
@@ -1906,7 +1909,7 @@
 <form>mizí</form>
 <tag>
 <AM lemma="mizet_:T" src="orig">VB-P---3P-AA--1</AM>
-<AM lemma="mizet" src="auto" recommended="1">VB-P---3P-AA---</AM>
+<AM lemma="mizet" src="auto" recommended="1" selected="1">VB-P---3P-AA---</AM>
 <AM lemma="mizet" src="auto">VB-S---3P-AA---</AM>
 </tag>
 </m>
@@ -2062,7 +2065,10 @@
 <LM>w#w-vesm9303-015-p4s1w1</LM>
 </w.rf>
 <form>KONRAD</form>
-<tag lemma="Konrád_;Y" src="orig" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Konrád_;Y" src="orig">NNMS1-----A----</AM>
+<AM lemma="Konrad_;Y_,s_^(^DD**Konrád)" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-vesm9303-015-p4s1w2">
 <src.rf>manual</src.rf>
@@ -2150,7 +2156,10 @@
 <LM>w#w-vesm9303-015-p4s1w12</LM>
 </w.rf>
 <form>Konradem</form>
-<tag lemma="Konrád_;Y" src="orig" selected="1">NNMS7-----A----</tag>
+<tag>
+<AM lemma="Konrád_;Y" src="orig">NNMS7-----A----</AM>
+<AM lemma="Konrad_;Y_,s_^(^DD**Konrád)" src="manual" selected="1">NNMS7-----A----</AM>
+</tag>
 </m>
 <m id="m-vesm9303-015-p4s1w13">
 <src.rf>manual</src.rf>
@@ -2222,7 +2231,10 @@
 <LM>w#w-vesm9303-015-p4s1w21</LM>
 </w.rf>
 <form>str</form>
-<tag lemma="strana-4_:B" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="strana-4_:B" src="orig">NNFXX-----A---8</AM>
+<AM lemma="strana" src="manual" selected="1">NNFXX-----A---9</AM>
+</tag>
 </m>
 <m id="m-vesm9303-015-p4s1w22">
 <src.rf>manual</src.rf>

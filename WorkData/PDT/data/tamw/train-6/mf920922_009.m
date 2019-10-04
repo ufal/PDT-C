@@ -99,7 +99,10 @@
 <LM>w#w-mf920922-009-p1s1w11</LM>
 </w.rf>
 <form>SBČS</form>
-<tag lemma="SBČS_:B_;K_^(býv._Státní_banka_československá)" src="auto" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="SBČS_:B_;K_^(býv._Státní_banka_československá)" src="auto">NNXXX-----A---8</AM>
+<AM lemma="SBČS-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 </s>
 <s id="m-mf920922-009-p2s1">
@@ -173,7 +176,10 @@
 <LM>w#w-mf920922-009-p2s1w9</LM>
 </w.rf>
 <form>a</form>
-<tag lemma="akciový_:B_^(jen_akciová_společnost)" src="orig" selected="1">AAXXX----1A---8</tag>
+<tag>
+<AM lemma="akciový_:B_^(jen_akciová_společnost)" src="orig">AAXXX----1A---8</AM>
+<AM lemma="akciový" src="manual" selected="1">AAXXX----1A---8</AM>
+</tag>
 </m>
 <m id="m-mf920922-009-p2s1w10">
 <src.rf>manual</src.rf>
@@ -189,7 +195,10 @@
 <LM>w#w-mf920922-009-p2s1w11</LM>
 </w.rf>
 <form>s</form>
-<tag lemma="společnost_:B" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="společnost_:B" src="orig">NNFXX-----A---8</AM>
+<AM lemma="společnost" src="manual" selected="1">NNFXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-mf920922-009-p2s1w12">
 <src.rf>manual</src.rf>
@@ -325,7 +334,10 @@
 <LM>w#w-mf920922-009-p2s1w28</LM>
 </w.rf>
 <form>SBČS</form>
-<tag lemma="SBČS_:B_;K_^(býv._Státní_banka_československá)" src="auto" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="SBČS_:B_;K_^(býv._Státní_banka_československá)" src="auto">NNXXX-----A---8</AM>
+<AM lemma="SBČS-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-mf920922-009-p2s1w29">
 <src.rf>manual</src.rf>
@@ -470,7 +482,7 @@
 <tag>
 <AM lemma="tedy" src="orig">Db-------------</AM>
 <AM lemma="tedy-1" src="auto">TT-------------</AM>
-<AM lemma="tedy-2" src="auto" recommended="1">J^-------------</AM>
+<AM lemma="tedy-2" src="auto" recommended="1" selected="1">J^-------------</AM>
 </tag>
 </m>
 <m id="m-mf920922-009-p2s4w5">

@@ -35,7 +35,10 @@
 <LM>w#w-ln95045-113-p1s1w3</LM>
 </w.rf>
 <form>uspěla</form>
-<tag lemma="uspět" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag>
+<AM lemma="uspět" src="orig">VpQW---XR-AA---</AM>
+<AM lemma="uspět_:W" src="manual" selected="1">VpQW---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-ln95045-113-p1s1w4">
 <src.rf>manual</src.rf>
@@ -725,7 +728,10 @@
 <LM>w#w-ln95045-113-p3s2w12</LM>
 </w.rf>
 <form>udrželi</form>
-<tag lemma="udržet" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag>
+<AM lemma="udržet" src="orig">VpMP---XR-AA---</AM>
+<AM lemma="udržet_:W" src="manual" selected="1">VpMP---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-ln95045-113-p3s2w13">
 <src.rf>manual</src.rf>
@@ -831,7 +837,10 @@
 <LM>w#w-ln95045-113-p4s1w7</LM>
 </w.rf>
 <form>SRN</form>
-<tag lemma="SRN_:B_;G" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="SRN_:B_;G" src="orig">NNFXX-----A---8</AM>
+<AM lemma="SRN-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95045-113-p4s1w8">
 <src.rf>manual</src.rf>
@@ -1198,7 +1207,7 @@
 <form>trabantů</form>
 <tag>
 <AM lemma="Trabant-2_;R_^(vozidlo)" src="orig">NNIP2-----A----</AM>
-<AM lemma="trabant_;R" src="auto" recommended="1">NNIP2-----A----</AM>
+<AM lemma="trabant_;R" src="auto" recommended="1" selected="1">NNIP2-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95045-113-p5s1w20">
@@ -1224,7 +1233,10 @@
 <LM>w#w-ln95045-113-p5s1w22</LM>
 </w.rf>
 <form>wartburgů</form>
-<tag lemma="wartburg_;R_^(vozidlo)" src="orig" selected="1">NNIP2-----A----</tag>
+<tag>
+<AM lemma="wartburg_;R_^(vozidlo)" src="orig">NNIP2-----A----</AM>
+<AM lemma="wartburg_;R" src="manual" selected="1">NNIP2-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95045-113-p5s1w23">
 <src.rf>manual</src.rf>

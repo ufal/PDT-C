@@ -151,7 +151,10 @@
 <LM>w#w-ln95045-061-p2s1Bw11</LM>
 </w.rf>
 <form>Edouard</form>
-<tag lemma="Edouard_;Y_,t" src="orig" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Edouard_;Y_,t" src="orig">NNMS1-----A----</AM>
+<AM lemma="Edouard_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95045-061-p2s1Bw12">
 <src.rf>manual</src.rf>
@@ -417,7 +420,10 @@
 <LM>w#w-ln95045-061-p2s2w12</LM>
 </w.rf>
 <form>BVA</form>
-<tag lemma="BVA_:B_;K" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="BVA_:B_;K" src="orig">NNXXX-----A---8</AM>
+<AM lemma="BVA-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95045-061-p2s2w13">
 <src.rf>manual</src.rf>
@@ -507,7 +513,10 @@
 <LM>w#w-ln95045-061-p2s3w10</LM>
 </w.rf>
 <form>Lionel</form>
-<tag lemma="Lionel_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Lionel_;S" src="orig">NNMS1-----A----</AM>
+<AM lemma="Lionel_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95045-061-p2s3w11">
 <src.rf>manual</src.rf>
@@ -598,7 +607,7 @@
 <tag>
 <AM lemma="tedy" src="orig">Db-------------</AM>
 <AM lemma="tedy-1" src="auto" recommended="1">TT-------------</AM>
-<AM lemma="tedy-2" src="auto">J^-------------</AM>
+<AM lemma="tedy-2" src="auto" selected="1">J^-------------</AM>
 </tag>
 </m>
 <m id="m-ln95045-061-p2s3w22">
@@ -631,7 +640,10 @@
 <LM>w#w-ln95045-061-p2s3w25</LM>
 </w.rf>
 <form>víc</form>
-<tag lemma="hodně-2" src="auto" selected="1">Dg-------2A---1</tag>
+<tag>
+<AM lemma="hodně-2" src="auto">Dg-------2A---1</AM>
+<AM lemma="hodně-3" src="manual" selected="1">Dg-------2A---1</AM>
+</tag>
 </m>
 <m id="m-ln95045-061-p2s3w26">
 <src.rf>manual</src.rf>
@@ -730,7 +742,10 @@
 <LM>w#w-ln95045-061-p2s4w7</LM>
 </w.rf>
 <form>RPR</form>
-<tag lemma="RPR-1_:B_;K_,t_^(Rassemblement_pour_la_République)" src="orig" selected="1">NNNXX-----A---8</tag>
+<tag>
+<AM lemma="RPR-1_:B_;K_,t_^(Rassemblement_pour_la_République)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="RPR-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95045-061-p2s4w8">
 <src.rf>manual</src.rf>

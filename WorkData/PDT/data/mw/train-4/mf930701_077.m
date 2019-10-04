@@ -27,7 +27,10 @@
 <LM>w#w-mf930701-077-p1s1w2</LM>
 </w.rf>
 <form>MŽ</form>
-<tag lemma="MŽ_:B_;K" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="MŽ_:B_;K" src="orig">NNXXX-----A---8</AM>
+<AM lemma="MŽ-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-mf930701-077-p1s1w3">
 <src.rf>manual</src.rf>
@@ -69,7 +72,10 @@
 <LM>w#w-mf930701-077-p2s1w3</LM>
 </w.rf>
 <form>jsl</form>
-<tag lemma="jsl-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="jsl-99_:B_;S" src="orig">NNXXX-----A---8</AM>
+<AM lemma="jsl-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930701-077-p2s1w4">
 <src.rf>manual</src.rf>
@@ -272,7 +278,7 @@
 </w.rf>
 <form>Galati</form>
 <tag>
-<AM lemma="Galati_;K" src="orig">NNNS1-----A----</AM>
+<AM lemma="Galati_;K" src="orig" selected="1">NNNS1-----A----</AM>
 <AM lemma="Galat_;E" src="auto" recommended="1">NNMP1-----A----</AM>
 <AM lemma="Galat_;E" src="auto">NNMP5-----A----</AM>
 </tag>
@@ -544,7 +550,10 @@
 <LM>w#w-mf930701-077-p2s4w5</LM>
 </w.rf>
 <form>pozn</form>
-<tag lemma="poznámka_:B" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="poznámka_:B" src="orig">NNFXX-----A---8</AM>
+<AM lemma="poznámka" src="manual" selected="1">NNFXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-mf930701-077-p2s4w6">
 <src.rf>manual</src.rf>
@@ -563,6 +572,7 @@
 <tag>
 <AM lemma="red_^(redakce)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="redakce_:B" src="auto" recommended="1">NNFXX-----A---8</AM>
+<AM lemma="redakce" src="manual" selected="1">NNFXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-mf930701-077-p2s4w8">
@@ -1261,7 +1271,7 @@
 <form>přičemž</form>
 <tag>
 <AM lemma="přičemž" src="orig">J,-------------</AM>
-<AM lemma="přičemž" src="auto" recommended="1">Db-------------</AM>
+<AM lemma="přičemž" src="auto" recommended="1" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m-mf930701-077-p2s8w18">

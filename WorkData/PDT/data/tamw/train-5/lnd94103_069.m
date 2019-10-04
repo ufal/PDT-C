@@ -72,6 +72,7 @@
 <tag>
 <AM lemma="tom-99_:B_;S" src="orig">NNXXX-----A---8</AM>
 <AM lemma="ten" src="auto" recommended="1">PDZS6----------</AM>
+<AM lemma="tom-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94103-069-p1s2w4">
@@ -154,7 +155,10 @@
 <LM>w#w-lnd94103-069-p1s3w8</LM>
 </w.rf>
 <form>General</form>
-<tag lemma="General-1_;K_,t_^(souč._názvů,_např._G._Electric)" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="General-1_;K_,t_^(souč._názvů,_např._G._Electric)" src="orig">AAXXX----1A----</AM>
+<AM lemma="General-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-lnd94103-069-p1s3w9">
 <src.rf>manual</src.rf>
@@ -162,7 +166,10 @@
 <LM>w#w-lnd94103-069-p1s3w9</LM>
 </w.rf>
 <form>Motors</form>
-<tag lemma="Motors-1_;K_,t_^(souč._názvů,_např._General_M.)" src="orig" selected="1">NNIPX-----A----</tag>
+<tag>
+<AM lemma="Motors-1_;K_,t_^(souč._názvů,_např._General_M.)" src="orig">NNIPX-----A----</AM>
+<AM lemma="Motors-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-lnd94103-069-p1s3w10">
 <src.rf>manual</src.rf>
@@ -170,7 +177,10 @@
 <LM>w#w-lnd94103-069-p1s3w10</LM>
 </w.rf>
 <form>Czechoslovakia</form>
-<tag lemma="Czechoslovakia_;K_,t" src="orig" selected="1">NNFXX-----A----</tag>
+<tag>
+<AM lemma="Czechoslovakia_;K_,t" src="orig">NNFXX-----A----</AM>
+<AM lemma="Czechoslovakia-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-lnd94103-069-p1s3w11">
 <src.rf>manual</src.rf>
@@ -234,7 +244,10 @@
 <LM>w#w-lnd94103-069-p1s3w18</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-2" src="auto" selected="1">Dg-------2A----</tag>
+<tag>
+<AM lemma="hodně-2" src="auto">Dg-------2A----</AM>
+<AM lemma="hodně-3" src="manual" selected="1">Dg-------2A----</AM>
+</tag>
 </m>
 <m id="m-lnd94103-069-p1s3w19">
 <src.rf>manual</src.rf>
@@ -276,7 +289,7 @@
 <form>tedy</form>
 <tag>
 <AM lemma="tedy" src="orig">Db-------------</AM>
-<AM lemma="tedy-1" src="auto">TT-------------</AM>
+<AM lemma="tedy-1" src="auto" selected="1">TT-------------</AM>
 <AM lemma="tedy-2" src="auto" recommended="1">J^-------------</AM>
 </tag>
 </m>
@@ -302,7 +315,10 @@
 <LM>w#w-lnd94103-069-p1s3w26</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-2" src="auto" selected="1">Dg-------2A----</tag>
+<tag>
+<AM lemma="hodně-2" src="auto">Dg-------2A----</AM>
+<AM lemma="hodně-3" src="manual" selected="1">Dg-------2A----</AM>
+</tag>
 </m>
 <m id="m-lnd94103-069-p1s3w27">
 <src.rf>manual</src.rf>
@@ -442,7 +458,7 @@
 <form>Audi</form>
 <tag>
 <AM lemma="Audi-2_;R_^(vozidlo)" src="orig">NNFXX-----A----</AM>
-<AM lemma="Audi_;K_;R_^(vozidlo)" src="auto" recommended="1">NNXXX-----A----</AM>
+<AM lemma="Audi_;K_;R_^(vozidlo)" src="auto" recommended="1" selected="1">NNXXX-----A----</AM>
 <AM lemma="audi_^(vozidlo)" src="auto">NNXXX-----A----</AM>
 </tag>
 </m>
@@ -562,6 +578,7 @@
 <tag>
 <AM lemma="Kč" src="orig">NNFXX-----A----</AM>
 <AM lemma="Kč_:B" src="auto" recommended="1">NNFXX-----A---8</AM>
+<AM lemma="Kč_:B" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94103-069-p1s5w10">
@@ -985,7 +1002,7 @@
 <tag>
 <AM lemma="tedy" src="orig">Db-------------</AM>
 <AM lemma="tedy-1" src="auto" recommended="1">TT-------------</AM>
-<AM lemma="tedy-2" src="auto">J^-------------</AM>
+<AM lemma="tedy-2" src="auto" selected="1">J^-------------</AM>
 </tag>
 </m>
 <m id="m-lnd94103-069-p1s7w16">
@@ -1028,7 +1045,10 @@
 <LM>w#w-lnd94103-069-p1s8w1</LM>
 </w.rf>
 <form>GM</form>
-<tag lemma="GM_:B_;K_;R" src="auto" selected="1">NNFXX-----A----</tag>
+<tag>
+<AM lemma="GM_:B_;K_;R" src="auto">NNFXX-----A----</AM>
+<AM lemma="GM-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd94103-069-p1s8w2">
 <src.rf>manual</src.rf>
@@ -1036,7 +1056,10 @@
 <LM>w#w-lnd94103-069-p1s8w2</LM>
 </w.rf>
 <form>Czechoslovakia</form>
-<tag lemma="Czechoslovakia_;K_,t" src="orig" selected="1">NNFXX-----A----</tag>
+<tag>
+<AM lemma="Czechoslovakia_;K_,t" src="orig">NNFXX-----A----</AM>
+<AM lemma="Czechoslovakia-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-lnd94103-069-p1s8w3">
 <src.rf>manual</src.rf>
@@ -1116,7 +1139,10 @@
 <LM>w#w-lnd94103-069-p1s8w12</LM>
 </w.rf>
 <form>ani</form>
-<tag lemma="ani-1" src="auto" selected="1">J^-------------</tag>
+<tag>
+<AM lemma="ani-1" src="auto">J^-------------</AM>
+<AM lemma="ani-2" src="manual" selected="1">TT-------------</AM>
+</tag>
 </m>
 <m id="m-lnd94103-069-p1s8w13">
 <src.rf>manual</src.rf>
@@ -1190,7 +1216,7 @@
 <form>tedy</form>
 <tag>
 <AM lemma="tedy" src="orig">Db-------------</AM>
-<AM lemma="tedy-1" src="auto">TT-------------</AM>
+<AM lemma="tedy-1" src="auto" selected="1">TT-------------</AM>
 <AM lemma="tedy-2" src="auto" recommended="1">J^-------------</AM>
 </tag>
 </m>

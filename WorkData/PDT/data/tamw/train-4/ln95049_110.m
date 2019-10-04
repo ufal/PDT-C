@@ -278,6 +278,8 @@
 <AM lemma="Uh_;G" src="auto">NNIS1-----A----</AM>
 <AM lemma="Uh_;G" src="auto">NNIS4-----A----</AM>
 <AM lemma="uherský_:B" src="auto" recommended="1">AAXXX----1A---8</AM>
+<AM lemma="uherský" src="manual">AAXXX----1A---8</AM>
+<AM lemma="Uh-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95049-110-p2s2w8">
@@ -326,7 +328,10 @@
 <LM>w#w-ln95049-110-p2s2w13</LM>
 </w.rf>
 <form>uvedl</form>
-<tag lemma="uvést" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag>
+<AM lemma="uvést" src="orig">VpYS---XR-AA---</AM>
+<AM lemma="uvést_:W" src="manual" selected="1">VpYS---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-ln95049-110-p2s2w14">
 <src.rf>manual</src.rf>
@@ -342,7 +347,10 @@
 <LM>w#w-ln95049-110-p2s2w15</LM>
 </w.rf>
 <form>SP</form>
-<tag lemma="SP-2_:B_;K_^(Svaz_podnikatelů)" src="auto" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="SP-2_:B_;K_^(Svaz_podnikatelů)" src="auto">NNIXX-----A---8</AM>
+<AM lemma="SP-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95049-110-p2s2w16">
 <src.rf>manual</src.rf>
@@ -448,7 +456,10 @@
 <LM>w#w-ln95049-110-p2s4w10</LM>
 </w.rf>
 <form>uvedl</form>
-<tag lemma="uvést" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag>
+<AM lemma="uvést" src="orig">VpYS---XR-AA---</AM>
+<AM lemma="uvést_:W" src="manual" selected="1">VpYS---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-ln95049-110-p2s4w11">
 <src.rf>manual</src.rf>
@@ -951,7 +962,10 @@
 <LM>w#w-ln95049-110-p2s7w7</LM>
 </w.rf>
 <form>strany</form>
-<tag lemma="strana-2_^(politická)" src="orig" selected="1">NNFP4-----A----</tag>
+<tag>
+<AM lemma="strana-2_^(politická)" src="orig">NNFP4-----A----</AM>
+<AM lemma="strana" src="manual" selected="1">NNFP4-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95049-110-p2s7w8">
 <src.rf>manual</src.rf>
@@ -978,7 +992,7 @@
 <tag>
 <AM lemma="vpravo" src="orig">Db-------------</AM>
 <AM lemma="doprava-1" src="auto" recommended="1">NNFS1-----A----</AM>
-<AM lemma="doprava-2" src="auto">Db-------------</AM>
+<AM lemma="doprava-2" src="auto" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m-ln95049-110-p2s7w11">
@@ -1305,7 +1319,7 @@
 <form>ovšem</form>
 <tag>
 <AM lemma="ovšem-1_^(avšak,_však;_odporovací_spojka)" src="orig">J^-------------</AM>
-<AM lemma="ovšem" src="auto" recommended="1">TT-------------</AM>
+<AM lemma="ovšem" src="auto" recommended="1" selected="1">TT-------------</AM>
 </tag>
 </m>
 <m id="m-ln95049-110-p2s9w14">

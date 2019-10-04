@@ -43,7 +43,10 @@
 <LM>w#w-mf930708-165-p1s1w4</LM>
 </w.rf>
 <form>Sk</form>
-<tag lemma="Sk_:B_;K" src="auto" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="Sk_:B_;K" src="auto">NNFXX-----A---8</AM>
+<AM lemma="Sk-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 </s>
 <s id="m-mf930708-165-p2s1">
@@ -193,7 +196,10 @@
 <LM>w#w-mf930708-165-p6s1w1</LM>
 </w.rf>
 <form>ČSOB</form>
-<tag lemma="ČSOB_:B_;K_;b" src="auto" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ČSOB_:B_;K_;b" src="auto">NNFXX-----A---8</AM>
+<AM lemma="ČSOB-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-mf930708-165-p6s1w2">
 <src.rf>manual</src.rf>
@@ -320,6 +326,7 @@
 <tag>
 <AM lemma="Kč" src="orig">NNFXX-----A----</AM>
 <AM lemma="Kč_:B" src="auto" recommended="1">NNFXX-----A---8</AM>
+<AM lemma="Kč-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 </s>
@@ -406,7 +413,10 @@
 <LM>w#w-mf930708-165-p12s1w1</LM>
 </w.rf>
 <form>ČSOB</form>
-<tag lemma="ČSOB_:B_;K_;b" src="auto" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ČSOB_:B_;K_;b" src="auto">NNFXX-----A---8</AM>
+<AM lemma="ČSOB-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-mf930708-165-p12s1w2">
 <src.rf>manual</src.rf>
@@ -450,7 +460,10 @@
 <LM>w#w-mf930708-165-p13s1w1</LM>
 </w.rf>
 <form>VÚB</form>
-<tag lemma="VÚB-1_:B_;K_^(Všeobecná_úvěrová_banka,_Slovensko)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="VÚB-1_:B_;K_^(Všeobecná_úvěrová_banka,_Slovensko)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="VÚB-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-mf930708-165-p13s1w2">
 <src.rf>manual</src.rf>
@@ -479,7 +492,7 @@
 </w.rf>
 <form>Slov</form>
 <tag>
-<AM lemma="slovenský_:B_;K" src="orig">AAXXX----1A---8</AM>
+<AM lemma="slovenský_:B_;K" src="orig" selected="1">AAXXX----1A---8</AM>
 <AM lemma="slovit_:W" src="auto">Vi-S---2--A----</AM>
 <AM lemma="slovit_:W" src="auto">Vi-S---3--A---4</AM>
 <AM lemma="slovo" src="auto" recommended="1">NNNP2-----A----</AM>
@@ -545,7 +558,7 @@
 <form>Ľudová</form>
 <tag>
 <AM lemma="Ľudová_;K_,t" src="orig">AAXXX----1A---8</AM>
-<AM lemma="ľudový_,t_^(slov.)" src="auto" recommended="1">AAFS1----1A----</AM>
+<AM lemma="ľudový_,t_^(slov.)" src="auto" recommended="1" selected="1">AAFS1----1A----</AM>
 <AM lemma="ľudový_,t_^(slov.)" src="auto">AAFS5----1A----</AM>
 <AM lemma="ľudový_,t_^(slov.)" src="auto">AANP1----1A----</AM>
 <AM lemma="ľudový_,t_^(slov.)" src="auto">AANP4----1A----</AM>
@@ -587,7 +600,7 @@
 </w.rf>
 <form>Slov</form>
 <tag>
-<AM lemma="slovenský_:B_;K_,t" src="orig">AAXXX----1A---8</AM>
+<AM lemma="slovenský_:B_;K_,t" src="orig" selected="1">AAXXX----1A---8</AM>
 <AM lemma="slovit_:W" src="auto">Vi-S---2--A----</AM>
 <AM lemma="slovit_:W" src="auto">Vi-S---3--A---4</AM>
 <AM lemma="slovo" src="auto" recommended="1">NNNP2-----A----</AM>

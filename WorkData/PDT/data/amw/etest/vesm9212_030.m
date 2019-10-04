@@ -157,7 +157,7 @@
 <AM lemma="osmý" src="auto">CrNP4---------6</AM>
 <AM lemma="osmý" src="auto">CrNP5---------6</AM>
 <AM lemma="osmý" src="auto" recommended="1">CrNS1----------</AM>
-<AM lemma="osmý" src="auto">CrNS4----------</AM>
+<AM lemma="osmý" src="auto" selected="1">CrNS4----------</AM>
 <AM lemma="osmý" src="auto">CrNS5----------</AM>
 </tag>
 </m>
@@ -185,7 +185,7 @@
 <form>totiž</form>
 <tag>
 <AM lemma="totiž" src="orig">Db-------------</AM>
-<AM lemma="totiž-1" src="auto">J^-------------</AM>
+<AM lemma="totiž-1" src="auto" selected="1">J^-------------</AM>
 <AM lemma="totiž-2" src="auto" recommended="1">TT-------------</AM>
 </tag>
 </m>

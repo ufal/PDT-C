@@ -80,7 +80,7 @@
 </w.rf>
 <form>Erica</form>
 <tag>
-<AM lemma="Eric_;Y" src="orig">NNMS4-----A----</AM>
+<AM lemma="Eric_;Y" src="orig" selected="1">NNMS4-----A----</AM>
 <AM lemma="Erika_;Y_,t" src="auto" recommended="1">NNFS1-----A---1</AM>
 </tag>
 </m>
@@ -154,7 +154,10 @@
 <LM>w#w-ln95044-039-p2s1Bw10</LM>
 </w.rf>
 <form>United</form>
-<tag lemma="United_;K_,t_^(souč._angl._názvu)" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="United_;K_,t_^(souč._angl._názvu)" src="orig">AAXXX----1A----</AM>
+<AM lemma="United-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln95044-039-p2s1Bw11">
 <src.rf>manual</src.rf>
@@ -522,6 +525,8 @@
 <AM lemma="Crystal_;K_,t" src="orig">AAXXX----1A----</AM>
 <AM lemma="Crystal_;K" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Crystal_;K" src="auto">NNIS4-----A----</AM>
+<AM lemma="Crystal_;K" src="manual">NNIXX-----A----</AM>
+<AM lemma="Crystal-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-ln95044-039-p2s3w10">
@@ -530,7 +535,10 @@
 <LM>w#w-ln95044-039-p2s3w10</LM>
 </w.rf>
 <form>Palace</form>
-<tag lemma="Palace-1_;K_^(př._hotel_Palace)" src="auto" selected="1">NNIXX-----A----</tag>
+<tag>
+<AM lemma="Palace-1_;K_^(př._hotel_Palace)" src="auto">NNIXX-----A----</AM>
+<AM lemma="Palace-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln95044-039-p2s3w11">
 <src.rf>manual</src.rf>
@@ -538,7 +546,10 @@
 <LM>w#w-ln95044-039-p2s3w11</LM>
 </w.rf>
 <form>koncem</form>
-<tag lemma="konec" src="orig" selected="1">NNIS7-----A----</tag>
+<tag>
+<AM lemma="konec" src="orig">NNIS7-----A----</AM>
+<AM lemma="koncem" src="manual" selected="1">RR--2----------</AM>
+</tag>
 </m>
 <m id="m-ln95044-039-p2s3w12">
 <src.rf>manual</src.rf>
@@ -690,7 +701,10 @@
 <LM>w#w-ln95044-039-p2s3w30</LM>
 </w.rf>
 <form>stal</form>
-<tag lemma="stát-2_^(něco_se_přihodilo)" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag>
+<AM lemma="stát-2_^(něco_se_přihodilo)" src="orig">VpYS---XR-AA---</AM>
+<AM lemma="stát-2_^(stanu_staneš)" src="manual" selected="1">VpYS---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-ln95044-039-p2s3w31">
 <src.rf>manual</src.rf>

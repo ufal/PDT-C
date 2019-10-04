@@ -197,7 +197,10 @@
 <LM>w#w-ln95040-052-p2s1w18</LM>
 </w.rf>
 <form>Adria</form>
-<tag lemma="Adrie_;Y" src="orig" selected="1">NNFS1-----A---1</tag>
+<tag>
+<AM lemma="Adrie_;Y" src="orig">NNFS1-----A---1</AM>
+<AM lemma="Adrie-2_;K" src="manual" selected="1">NNFS1-----A---1</AM>
+</tag>
 </m>
 <m id="m-ln95040-052-p2s1w19">
 <src.rf>manual</src.rf>
@@ -213,7 +216,10 @@
 <LM>w#w-ln95040-052-p2s1w20</LM>
 </w.rf>
 <form>Otomarem</form>
-<tag lemma="Otomar_;G" src="orig" selected="1">NNMS7-----A----</tag>
+<tag>
+<AM lemma="Otomar_;G" src="orig">NNMS7-----A----</AM>
+<AM lemma="Otomar_;Y" src="manual" selected="1">NNMS7-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95040-052-p2s1w21">
 <src.rf>manual</src.rf>
@@ -1364,7 +1370,10 @@
 <LM>w#w-ln95040-052-p4s1w16</LM>
 </w.rf>
 <form>Otomar</form>
-<tag lemma="Otomar_;G" src="orig" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Otomar_;G" src="orig">NNMS1-----A----</AM>
+<AM lemma="Otomar_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95040-052-p4s1w17">
 <src.rf>manual</src.rf>
@@ -1600,7 +1609,10 @@
 <LM>w#w-ln95040-052-p4s3w2</LM>
 </w.rf>
 <form>Otomar</form>
-<tag lemma="Otomar_;G" src="orig" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Otomar_;G" src="orig">NNMS1-----A----</AM>
+<AM lemma="Otomar_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95040-052-p4s3w3">
 <src.rf>manual</src.rf>
@@ -2108,7 +2120,10 @@
 <LM>w#w-ln95040-052-p5s2w9</LM>
 </w.rf>
 <form>ekonomismu</form>
-<tag lemma="ekonomizmus" src="orig" selected="1">NNIS2-----A----</tag>
+<tag>
+<AM lemma="ekonomizmus" src="orig">NNIS2-----A----</AM>
+<AM lemma="ekonomismus_,s_^(^DD**ekonomizmus)" src="manual" selected="1">NNIS2-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95040-052-p5s2w10">
 <src.rf>manual</src.rf>

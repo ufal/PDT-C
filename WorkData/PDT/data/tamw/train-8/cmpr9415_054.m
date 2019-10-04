@@ -91,7 +91,10 @@
 <LM>w#w-cmpr9415-054-p2s1w10</LM>
 </w.rf>
 <form>CHF</form>
-<tag lemma="CHF_:B_;b_^(Švýc._frank,_mez._zkr.)" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="CHF_:B_;b_^(Švýc._frank,_mez._zkr.)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="CHF-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-cmpr9415-054-p2s1w11">
 <src.rf>manual</src.rf>

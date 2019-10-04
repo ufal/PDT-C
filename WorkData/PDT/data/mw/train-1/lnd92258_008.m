@@ -22,6 +22,8 @@
 <tag>
 <AM lemma="Magyar_;R_,t" src="orig">AAXXX----1A----</AM>
 <AM lemma="Magyar_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="magyar_,t" src="manual">AAXXX----1A----</AM>
+<AM lemma="MAGYAR-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-lnd92258-008-p1s1w2">
@@ -30,7 +32,11 @@
 <LM>w#w-lnd92258-008-p1s1w2</LM>
 </w.rf>
 <form>HÍRLAP</form>
-<tag lemma="Hírlap" src="auto" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="Hírlap" src="auto">NNIS1-----A----</AM>
+<AM lemma="hírlap_,t" src="manual">NNXXX-----A----</AM>
+<AM lemma="HÍRLAP-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 </s>
 <s id="m-lnd92258-008-p2s1">
@@ -48,7 +54,10 @@
 <LM>w#w-lnd92258-008-p2s1w2</LM>
 </w.rf>
 <form>čs</form>
-<tag lemma="československý_:B" src="orig" selected="1">AAXXX----1A---8</tag>
+<tag>
+<AM lemma="československý_:B" src="orig">AAXXX----1A---8</AM>
+<AM lemma="československý" src="manual" selected="1">AAXXX----1A---8</AM>
+</tag>
 </m>
 <m id="m-lnd92258-008-p2s1w3">
 <src.rf>manual</src.rf>
@@ -392,6 +401,8 @@
 <tag>
 <AM lemma="Magyar_;R_,t" src="orig">AAXXX----1A----</AM>
 <AM lemma="Magyar_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="magyar_,t" src="manual">AAXXX----1A----</AM>
+<AM lemma="Magyar-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-lnd92258-008-p3s2w39">
@@ -400,7 +411,11 @@
 <LM>w#w-lnd92258-008-p3s2w39</LM>
 </w.rf>
 <form>Hírlap</form>
-<tag lemma="Hírlap" src="auto" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="Hírlap" src="auto">NNIS1-----A----</AM>
+<AM lemma="hírlap_,t" src="manual">NNXXX-----A----</AM>
+<AM lemma="Hírlap-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-lnd92258-008-p3s2w40">
 <src.rf>manual</src.rf>
@@ -1088,7 +1103,10 @@
 <LM>w#w-lnd92258-008-p3s6w2</LM>
 </w.rf>
 <form>uzavřel</form>
-<tag lemma="uzavřít" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag>
+<AM lemma="uzavřít" src="orig">VpYS---XR-AA---</AM>
+<AM lemma="uzavřít_:W" src="manual" selected="1">VpYS---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-lnd92258-008-p3s6w3">
 <src.rf>manual</src.rf>
@@ -1219,6 +1237,8 @@
 <tag>
 <AM lemma="Magyar_;R_,t" src="orig">AAXXX----1A----</AM>
 <AM lemma="Magyar_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="magyar_,t" src="manual">AAXXX----1A----</AM>
+<AM lemma="Magyar-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-lnd92258-008-p3s6w19">
@@ -1227,7 +1247,11 @@
 <LM>w#w-lnd92258-008-p3s6w19</LM>
 </w.rf>
 <form>Hírlap</form>
-<tag lemma="Hírlap" src="auto" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="Hírlap" src="auto">NNIS1-----A----</AM>
+<AM lemma="hírlap_,t" src="manual">NNXXX-----A----</AM>
+<AM lemma="Hírlap-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-lnd92258-008-p3s6w20">
 <src.rf>manual</src.rf>
@@ -1463,7 +1487,10 @@
 <LM>w#w-lnd92258-008-p4s2w3</LM>
 </w.rf>
 <form>sice</form>
-<tag lemma="sice-2" src="auto" selected="1">Db-------------</tag>
+<tag>
+<AM lemma="sice-2" src="auto">Db-------------</AM>
+<AM lemma="sice-1_^(spojka;_připouští_se_určitá_fakta)" src="manual" selected="1">J^-------------</AM>
+</tag>
 </m>
 <m id="m-lnd92258-008-p4s2w4">
 <src.rf>manual</src.rf>
@@ -1690,6 +1717,8 @@
 <tag>
 <AM lemma="Magyar_;R_,t" src="orig">AAXXX----1A----</AM>
 <AM lemma="Magyar_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="magyar_,t" src="manual">AAXXX----1A----</AM>
+<AM lemma="Magyar-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-lnd92258-008-p4s2w32">
@@ -1698,7 +1727,11 @@
 <LM>w#w-lnd92258-008-p4s2w32</LM>
 </w.rf>
 <form>Hírlap</form>
-<tag lemma="Hírlap" src="auto" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="Hírlap" src="auto">NNIS1-----A----</AM>
+<AM lemma="hírlap_,t" src="manual">NNXXX-----A----</AM>
+<AM lemma="Hírlap-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-lnd92258-008-p4s2w33">
 <src.rf>manual</src.rf>

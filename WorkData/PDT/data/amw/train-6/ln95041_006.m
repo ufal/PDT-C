@@ -51,7 +51,10 @@
 <LM>w#w-ln95041-006-p1s1w5</LM>
 </w.rf>
 <form>EU</form>
-<tag lemma="EU-1_:B_;K_;p_^(Evropská_Unie)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="EU-1_:B_;K_;p_^(Evropská_Unie)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="EU-1_:B_;K_^(Evropská_Unie)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95041-006-p1s1w6">
 <src.rf>manual</src.rf>
@@ -272,7 +275,10 @@
 <LM>w#w-ln95041-006-p2s1Bw24</LM>
 </w.rf>
 <form>ATS</form>
-<tag lemma="ATS_:B_;b_^(rakouský_šilink)" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="ATS_:B_;b_^(rakouský_šilink)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="ATS-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln95041-006-p2s1Bw25">
 <src.rf>manual</src.rf>
@@ -362,7 +368,10 @@
 <LM>w#w-ln95041-006-p2s2w10</LM>
 </w.rf>
 <form>AIZ</form>
-<tag lemma="AIZ_:B_;K_,t" src="orig" selected="1">NNNXX-----A---8</tag>
+<tag>
+<AM lemma="AIZ_:B_;K_,t" src="orig">NNNXX-----A---8</AM>
+<AM lemma="AIZ-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln95041-006-p2s2w11">
 <src.rf>manual</src.rf>
@@ -453,7 +462,10 @@
 <LM>w#w-ln95041-006-p2s3w9</LM>
 </w.rf>
 <form>ATS</form>
-<tag lemma="ATS_:B_;b_^(rakouský_šilink)" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="ATS_:B_;b_^(rakouský_šilink)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="ATS-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln95041-006-p2s3w10">
 <src.rf>manual</src.rf>
@@ -510,7 +522,10 @@
 <LM>w#w-ln95041-006-p2s3w16</LM>
 </w.rf>
 <form>ATS</form>
-<tag lemma="ATS_:B_;b_^(rakouský_šilink)" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="ATS_:B_;b_^(rakouský_šilink)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="ATS-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln95041-006-p2s3w17">
 <src.rf>manual</src.rf>
@@ -583,7 +598,10 @@
 <LM>w#w-ln95041-006-p2s3w25</LM>
 </w.rf>
 <form>ATS</form>
-<tag lemma="ATS_:B_;b_^(rakouský_šilink)" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="ATS_:B_;b_^(rakouský_šilink)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="ATS-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln95041-006-p2s3w26">
 <src.rf>manual</src.rf>
@@ -640,7 +658,10 @@
 <LM>w#w-ln95041-006-p2s3w32</LM>
 </w.rf>
 <form>ATS</form>
-<tag lemma="ATS_:B_;b_^(rakouský_šilink)" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="ATS_:B_;b_^(rakouský_šilink)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="ATS-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln95041-006-p2s3w33">
 <src.rf>manual</src.rf>

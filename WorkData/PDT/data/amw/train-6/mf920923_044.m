@@ -126,7 +126,10 @@
 <LM>w#w-mf920923-044-p2s1w12</LM>
 </w.rf>
 <form>km</form>
-<tag lemma="km-1`kilometr_:B" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="km-1`kilometr_:B" src="orig">NNIXX-----A---8</AM>
+<AM lemma="kilometr" src="manual" selected="1">NNIXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-mf920923-044-p2s1w13">
 <src.rf>manual</src.rf>
@@ -392,7 +395,10 @@
 <LM>w#w-mf920923-044-p2s2w17</LM>
 </w.rf>
 <form>ČSFR</form>
-<tag lemma="ČSFR-1_:B_;G_^(Čs._federativní_republika)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ČSFR-1_:B_;G_^(Čs._federativní_republika)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČSFR-1_:B_;G_^(Čs._federativní_republika)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920923-044-p2s2w18">
 <src.rf>manual</src.rf>
@@ -474,7 +480,10 @@
 <LM>w#w-mf920923-044-p2s3w6</LM>
 </w.rf>
 <form>km</form>
-<tag lemma="km-1`kilometr_:B" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="km-1`kilometr_:B" src="orig">NNIXX-----A---8</AM>
+<AM lemma="kilometr" src="manual" selected="1">NNIXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-mf920923-044-p2s3w7">
 <src.rf>manual</src.rf>
@@ -620,7 +629,11 @@
 <LM>w#w-mf920923-044-p2s4w10</LM>
 </w.rf>
 <form>hod</form>
-<tag lemma="hodina_:B" src="auto" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="hodina_:B" src="auto">NNFXX-----A---8</AM>
+<AM lemma="hodina" src="manual">NNFXX-----A---8</AM>
+<AM lemma="hodina" src="manual" selected="1">NNFXX-----A---9</AM>
+</tag>
 </m>
 <m id="m-mf920923-044-p2s4w11">
 <src.rf>manual</src.rf>
@@ -652,7 +665,10 @@
 <LM>w#w-mf920923-044-p2s4w14</LM>
 </w.rf>
 <form>YMCY</form>
-<tag lemma="YMCA_:B_;K_,t" src="orig" selected="1">NNFS2-----A----</tag>
+<tag>
+<AM lemma="YMCA_:B_;K_,t" src="orig">NNFS2-----A----</AM>
+<AM lemma="YMCY-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-mf920923-044-p2s4w15">
 <src.rf>manual</src.rf>
@@ -756,7 +772,10 @@
 <LM>w#w-mf920923-044-p2s4w27</LM>
 </w.rf>
 <form>h</form>
-<tag lemma="hodina_:B" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="hodina_:B" src="orig">NNFXX-----A---8</AM>
+<AM lemma="hodina" src="manual" selected="1">NNFXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-mf920923-044-p2s4w28">
 <src.rf>manual</src.rf>

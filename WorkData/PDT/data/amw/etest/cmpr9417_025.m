@@ -67,6 +67,7 @@
 <AM lemma="Talpa-2_;K" src="orig">NNFXX-----A----</AM>
 <AM lemma="Talpa_;G" src="auto" recommended="1">NNFS1-----A----</AM>
 <AM lemma="Talpa_;S" src="auto">NNMS1-----A----</AM>
+<AM lemma="Talpa-2_;G_;K" src="manual" selected="1">NNFXX-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9417-025-p4s1w3">
@@ -83,7 +84,10 @@
 <LM>w#w-cmpr9417-025-p4s1w4</LM>
 </w.rf>
 <form>PTV</form>
-<tag lemma="PTV_:B_;K" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="PTV_:B_;K" src="orig">NNXXX-----A---8</AM>
+<AM lemma="PTV-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-cmpr9417-025-p4s1w5">
 <src.rf>manual</src.rf>
@@ -179,7 +183,10 @@
 <LM>w#w-cmpr9417-025-p4s1w16</LM>
 </w.rf>
 <form>Flow</form>
-<tag lemma="flow" src="orig" selected="1">NNFXX-----A----</tag>
+<tag>
+<AM lemma="flow" src="orig">NNFXX-----A----</AM>
+<AM lemma="Flow-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-cmpr9417-025-p4s1w17">
 <src.rf>manual</src.rf>
@@ -194,6 +201,7 @@
 <AM lemma="mol-1_^(motýl)" src="auto">NNMS5-----A----</AM>
 <AM lemma="mol-2_^(grammolekula)" src="auto">NNIS5-----A----</AM>
 <AM lemma="molo" src="auto">NNNS6-----A----</AM>
+<AM lemma="Mole-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-cmpr9417-025-p4s1w18">
@@ -500,6 +508,7 @@
 <AM lemma="Talpa-2_;K" src="orig">NNFXX-----A----</AM>
 <AM lemma="Talpa_;G" src="auto" recommended="1">NNFS1-----A----</AM>
 <AM lemma="Talpa_;S" src="auto">NNMS1-----A----</AM>
+<AM lemma="Talpa-2_;G_;K" src="manual" selected="1">NNFXX-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9417-025-p5s1w4">
@@ -516,7 +525,10 @@
 <LM>w#w-cmpr9417-025-p5s1w5</LM>
 </w.rf>
 <form>PTV</form>
-<tag lemma="PTV_:B_;K" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="PTV_:B_;K" src="orig">NNXXX-----A---8</AM>
+<AM lemma="PTV-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-cmpr9417-025-p5s1w6">
 <src.rf>manual</src.rf>

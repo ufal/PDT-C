@@ -43,7 +43,10 @@
 <LM>w#w-mf930701-028-p1s1w4</LM>
 </w.rf>
 <form>Sk</form>
-<tag lemma="Sk_:B_;K" src="auto" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="Sk_:B_;K" src="auto">NNFXX-----A---8</AM>
+<AM lemma="Sk-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 </s>
 <s id="m-mf930701-028-p2s1">
@@ -193,7 +196,10 @@
 <LM>w#w-mf930701-028-p6s1w1</LM>
 </w.rf>
 <form>ČSOB</form>
-<tag lemma="ČSOB_:B_;K_;b" src="auto" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ČSOB_:B_;K_;b" src="auto">NNFXX-----A---8</AM>
+<AM lemma="ČSOB-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-mf930701-028-p6s1w2">
 <src.rf>manual</src.rf>

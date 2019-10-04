@@ -36,7 +36,7 @@
 </w.rf>
 <form>Bystroňovi</form>
 <tag>
-<AM lemma="Bystroň_;S" src="orig">NNMS3-----A----</AM>
+<AM lemma="Bystroň_;S" src="orig" selected="1">NNMS3-----A----</AM>
 <AM lemma="Bystroňův_;S_^(*2)" src="auto" recommended="1">AUMP1M---------</AM>
 <AM lemma="Bystroňův_;S_^(*2)" src="auto">AUMP5M---------</AM>
 </tag>
@@ -49,7 +49,8 @@
 <form>repete</form>
 <tag>
 <AM lemma="repete_,h" src="orig">NNNXX-----A----</AM>
-<AM lemma="repete_,s" src="auto" recommended="1">Db-------------</AM>
+<AM lemma="repete_,s" src="auto" recommended="1" selected="1">Db-------------</AM>
+<AM lemma="repete" src="manual">Db-------------</AM>
 </tag>
 </m>
 <m id="m-ln94200-158-p1s1w5">
@@ -174,7 +175,10 @@
 <LM>w#w-ln94200-158-p2s1Bw3</LM>
 </w.rf>
 <form>sn</form>
-<tag lemma="sn-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="sn-99_:B_;S" src="orig">NNXXX-----A---8</AM>
+<AM lemma="sn-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94200-158-p2s1Bw4">
 <src.rf>manual</src.rf>
@@ -394,7 +398,10 @@
 <LM>w#w-ln94200-158-p2s2w12</LM>
 </w.rf>
 <form>TV</form>
-<tag lemma="televize_:B" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="televize_:B" src="orig">NNFXX-----A---8</AM>
+<AM lemma="televize" src="manual" selected="1">NNFXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln94200-158-p2s2w13">
 <src.rf>manual</src.rf>
@@ -602,7 +609,7 @@
 <AM lemma="osmý" src="orig">AANS6----1A----</AM>
 <AM lemma="osmý" src="auto">CrIS6----------</AM>
 <AM lemma="osmý" src="auto">CrMS6----------</AM>
-<AM lemma="osmý" src="auto" recommended="1">CrNS6----------</AM>
+<AM lemma="osmý" src="auto" recommended="1" selected="1">CrNS6----------</AM>
 </tag>
 </m>
 <m id="m-ln94200-158-p3s2w4">
@@ -1581,7 +1588,10 @@
 <LM>w#w-ln94200-158-p4s2w4</LM>
 </w.rf>
 <form>ukázat</form>
-<tag lemma="ukázat" src="orig" selected="1">Vf--------A----</tag>
+<tag>
+<AM lemma="ukázat" src="orig">Vf--------A----</AM>
+<AM lemma="ukázat_:W" src="manual" selected="1">Vf--------A----</AM>
+</tag>
 </m>
 <m id="m-ln94200-158-p4s2w5">
 <src.rf>manual</src.rf>

@@ -19,7 +19,10 @@
 <LM>w#w-ln94202-73-p1s1w1</LM>
 </w.rf>
 <form>Carlos</form>
-<tag lemma="Carlos-1_;Y" src="auto" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Carlos-1_;Y" src="auto">NNMS1-----A----</AM>
+<AM lemma="Carlos-1_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94202-73-p1s1w2">
 <src.rf>manual</src.rf>
@@ -103,7 +106,11 @@
 <LM>w#w-ln94202-73-p2s1Bw4</LM>
 </w.rf>
 <form>Carlos</form>
-<tag lemma="Carlos-1_;Y" src="auto" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Carlos-1_;Y" src="auto">NNMS1-----A----</AM>
+<AM lemma="Carlos-1_;S;Y" src="manual">NNMS1-----A----</AM>
+<AM lemma="Carlos-1_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94202-73-p2s1Bw5">
 <src.rf>manual</src.rf>
@@ -199,7 +206,10 @@
 <LM>w#w-ln94202-73-p2s1Bw16</LM>
 </w.rf>
 <form>Klause</form>
-<tag lemma="Klaus_;S" src="orig" selected="1">NNMS4-----A----</tag>
+<tag>
+<AM lemma="Klaus_;S" src="orig">NNMS4-----A----</AM>
+<AM lemma="Klaus_;S_;Y" src="manual" selected="1">NNMS4-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94202-73-p2s1Bw17">
 <src.rf>manual</src.rf>
@@ -297,7 +307,10 @@
 <LM>w#w-ln94202-73-p2s2w4</LM>
 </w.rf>
 <form>Le</form>
-<tag lemma="Le-1_,t_^(franc._člen_jako_souč._jmen_a_názvů)" src="orig" selected="1">AAISX----1A----</tag>
+<tag>
+<AM lemma="Le-1_,t_^(franc._člen_jako_souč._jmen_a_názvů)" src="orig">AAISX----1A----</AM>
+<AM lemma="Le-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94202-73-p2s2w5">
 <src.rf>manual</src.rf>
@@ -305,7 +318,10 @@
 <LM>w#w-ln94202-73-p2s2w5</LM>
 </w.rf>
 <form>Parisien</form>
-<tag lemma="Parisien_;R_,t" src="orig" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="Parisien_;R_,t" src="orig">NNIS1-----A----</AM>
+<AM lemma="Parisien-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94202-73-p2s2w6">
 <src.rf>manual</src.rf>
@@ -449,7 +465,10 @@
 <LM>w#w-ln94202-73-p2s2w23</LM>
 </w.rf>
 <form>Carlose</form>
-<tag lemma="Carlos-1_;Y" src="auto" selected="1">NNMS4-----A----</tag>
+<tag>
+<AM lemma="Carlos-1_;Y" src="auto">NNMS4-----A----</AM>
+<AM lemma="Carlos-1_;S_;Y" src="manual" selected="1">NNMS4-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94202-73-p2s2w24">
 <src.rf>manual</src.rf>
@@ -813,7 +832,10 @@
 <LM>w#w-ln94202-73-p2s4w18</LM>
 </w.rf>
 <form>Le</form>
-<tag lemma="Le-1_,t_^(franc._člen_jako_souč._jmen_a_názvů)" src="orig" selected="1">AAISX----1A----</tag>
+<tag>
+<AM lemma="Le-1_,t_^(franc._člen_jako_souč._jmen_a_názvů)" src="orig">AAISX----1A----</AM>
+<AM lemma="Le-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94202-73-p2s4w19">
 <src.rf>manual</src.rf>
@@ -821,7 +843,10 @@
 <LM>w#w-ln94202-73-p2s4w19</LM>
 </w.rf>
 <form>Parisien</form>
-<tag lemma="Parisien_;R_,t" src="orig" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="Parisien_;R_,t" src="orig">NNIS1-----A----</AM>
+<AM lemma="Parisien-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94202-73-p2s4w20">
 <src.rf>manual</src.rf>

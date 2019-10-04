@@ -297,7 +297,10 @@
 <LM>w#w-ln95048-077-p2s2w13</LM>
 </w.rf>
 <form>Majora</form>
-<tag lemma="major" src="orig" selected="1">NNMS4-----A----</tag>
+<tag>
+<AM lemma="major" src="orig">NNMS4-----A----</AM>
+<AM lemma="Major_;S" src="manual" selected="1">NNMS4-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95048-077-p2s2w14">
 <src.rf>manual</src.rf>

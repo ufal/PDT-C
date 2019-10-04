@@ -109,7 +109,10 @@
 <LM>w#w-ln94205-36-p2s1w11</LM>
 </w.rf>
 <form>a</form>
-<tag lemma="akciový_:B_^(jen_akciová_společnost)" src="orig" selected="1">AAXXX----1A---8</tag>
+<tag>
+<AM lemma="akciový_:B_^(jen_akciová_společnost)" src="orig">AAXXX----1A---8</AM>
+<AM lemma="akciový_^(jen_akciová_společnost)" src="manual" selected="1">AAXXX----1A---8</AM>
+</tag>
 </m>
 <m id="m-ln94205-36-p2s1w12">
 <src.rf>manual</src.rf>
@@ -125,7 +128,10 @@
 <LM>w#w-ln94205-36-p2s1w13</LM>
 </w.rf>
 <form>s</form>
-<tag lemma="společnost_:B" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="společnost_:B" src="orig">NNFXX-----A---8</AM>
+<AM lemma="společnost" src="manual" selected="1">NNFXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln94205-36-p2s1w14">
 <src.rf>manual</src.rf>
@@ -213,7 +219,10 @@
 <LM>w#w-ln94205-36-p2s1w24</LM>
 </w.rf>
 <form>odeslán</form>
-<tag lemma="odeslat" src="orig" selected="1">VsYS---XX-AP---</tag>
+<tag>
+<AM lemma="odeslat" src="orig">VsYS---XX-AP---</AM>
+<AM lemma="odeslat_:W" src="manual" selected="1">VsYS---XX-AP---</AM>
+</tag>
 </m>
 <m id="m-ln94205-36-p2s1w25">
 <src.rf>manual</src.rf>
@@ -329,7 +338,7 @@
 <form>nikoliv</form>
 <tag>
 <AM lemma="nikoliv" src="orig">Db-------------</AM>
-<AM lemma="nikoli" src="auto" recommended="1">TT------------1</AM>
+<AM lemma="nikoli" src="auto" recommended="1" selected="1">TT------------1</AM>
 </tag>
 </m>
 <m id="m-ln94205-36-p2s2w10">
@@ -460,7 +469,10 @@
 <LM>w#w-ln94205-36-p2s3w9</LM>
 </w.rf>
 <form>přijedou</form>
-<tag lemma="přijet" src="auto" selected="1">VB-P---3P-AA---</tag>
+<tag>
+<AM lemma="přijet" src="auto">VB-P---3P-AA---</AM>
+<AM lemma="přijet_:W" src="manual" selected="1">VB-P---3P-AA---</AM>
+</tag>
 </m>
 <m id="m-ln94205-36-p2s3w10">
 <src.rf>manual</src.rf>
@@ -505,6 +517,7 @@
 <tag>
 <AM lemma="mag-99_:B_;S" src="orig">NNXXX-----A---8</AM>
 <AM lemma="magnituda-8_:B" src="auto" recommended="1">NNFXX-----A----</AM>
+<AM lemma="mag-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94205-36-p2s4w3">
@@ -585,7 +598,10 @@
 <LM>w#w-ln94205-36-p2s4w12</LM>
 </w.rf>
 <form>sejdou</form>
-<tag lemma="sejít" src="orig" selected="1">VB-P---3P-AA---</tag>
+<tag>
+<AM lemma="sejít" src="orig">VB-P---3P-AA---</AM>
+<AM lemma="sejít_:W" src="manual" selected="1">VB-P---3P-AA---</AM>
+</tag>
 </m>
 <m id="m-ln94205-36-p2s4w13">
 <src.rf>manual</src.rf>
@@ -1029,7 +1045,10 @@
 <LM>w#w-ln94205-36-p3s1w24</LM>
 </w.rf>
 <form>začal</form>
-<tag lemma="začít-1_^(začnout)" src="auto" selected="1">VpYS---XR-AA---</tag>
+<tag>
+<AM lemma="začít-1_^(začnout)" src="auto">VpYS---XR-AA---</AM>
+<AM lemma="začít-1_:W_^(začnout)" src="manual" selected="1">VpYS---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-ln94205-36-p3s1w25">
 <src.rf>manual</src.rf>
@@ -1054,7 +1073,7 @@
 </w.rf>
 <form>Sole</form>
 <tag>
-<AM lemma="Sole_;K" src="orig">NNXXX-----A----</AM>
+<AM lemma="Sole_;K" src="orig" selected="1">NNXXX-----A----</AM>
 <AM lemma="Solo-1_;K" src="auto">NNNS6-----A----</AM>
 <AM lemma="Solus_;S" src="auto">NNMS5-----A----</AM>
 <AM lemma="sol-2_^(solný_roztok)" src="auto">NNIS5-----A----</AM>

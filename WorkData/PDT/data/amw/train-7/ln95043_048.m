@@ -203,6 +203,7 @@
 <AM lemma="Time_;R_,t" src="orig">NNIS1-----A----</AM>
 <AM lemma="Tim_;Y" src="auto">NNMS5-----A----</AM>
 <AM lemma="time_,t" src="auto" recommended="1">NNISX-----A----</AM>
+<AM lemma="Time-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-ln95043-048-p2s1Bw15">
@@ -675,7 +676,7 @@
 <form>jedině</form>
 <tag>
 <AM lemma="jedině_^(*1ý)" src="orig">Dg-------1A----</AM>
-<AM lemma="jedině" src="auto" recommended="1">Db-------------</AM>
+<AM lemma="jedině" src="auto" recommended="1" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m-ln95043-048-p2s4w15">
@@ -758,7 +759,10 @@
 <LM>w#w-ln95043-048-p2s5w5</LM>
 </w.rf>
 <form>víc</form>
-<tag lemma="hodně-2" src="auto" selected="1">Dg-------2A---1</tag>
+<tag>
+<AM lemma="hodně-2" src="auto">Dg-------2A---1</AM>
+<AM lemma="hodně-3" src="manual" selected="1">Dg-------2A---1</AM>
+</tag>
 </m>
 <m id="m-ln95043-048-p2s5w6">
 <src.rf>manual</src.rf>
@@ -955,7 +959,7 @@
 <tag>
 <AM lemma="jakýkoliv" src="orig">PZYS1---------1</AM>
 <AM lemma="jakýkoli" src="auto">PZIS4----------</AM>
-<AM lemma="jakýkoli" src="auto" recommended="1">PZYS1----------</AM>
+<AM lemma="jakýkoli" src="auto" recommended="1" selected="1">PZYS1----------</AM>
 <AM lemma="jakýkoli" src="auto">PZYS5----------</AM>
 </tag>
 </m>
@@ -1195,7 +1199,7 @@
 <form>jedině</form>
 <tag>
 <AM lemma="jedině_^(*1ý)" src="orig">Dg-------1A----</AM>
-<AM lemma="jedině" src="auto" recommended="1">Db-------------</AM>
+<AM lemma="jedině" src="auto" recommended="1" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m-ln95043-048-p2s8w10">
@@ -1458,7 +1462,7 @@
 <form>Ačkoli</form>
 <tag>
 <AM lemma="ačkoliv" src="orig">J,------------1</AM>
-<AM lemma="ačkoli" src="auto" recommended="1">J,-------------</AM>
+<AM lemma="ačkoli" src="auto" recommended="1" selected="1">J,-------------</AM>
 </tag>
 </m>
 <m id="m-ln95043-048-p2s10w2">

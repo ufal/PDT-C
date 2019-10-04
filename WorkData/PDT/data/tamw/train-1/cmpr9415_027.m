@@ -218,7 +218,10 @@
 <LM>w#w-cmpr9415-027-p4s2w6</LM>
 </w.rf>
 <form>milionu</form>
-<tag lemma="milión`1000000" src="orig" selected="1">NNIS2-----A----</tag>
+<tag>
+<AM lemma="milión`1000000" src="orig">NNIS2-----A----</AM>
+<AM lemma="milion`1000000_,s_^(^DD**milión)" src="manual" selected="1">NNIS2-----A----</AM>
+</tag>
 </m>
 <m id="m-cmpr9415-027-p4s2w7">
 <src.rf>manual</src.rf>
@@ -888,7 +891,10 @@
 <LM>w#w-cmpr9415-027-p4s5w26</LM>
 </w.rf>
 <form>Groupe</form>
-<tag lemma="Groupe_;K_,t" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="Groupe_;K_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="Groupe-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-cmpr9415-027-p4s5w27">
 <src.rf>manual</src.rf>
@@ -896,7 +902,10 @@
 <LM>w#w-cmpr9415-027-p4s5w27</LM>
 </w.rf>
 <form>Charbonnages</form>
-<tag lemma="Charbonnage_;K_,t" src="orig" selected="1">NNFPX-----A----</tag>
+<tag>
+<AM lemma="Charbonnage_;K_,t" src="orig">NNFPX-----A----</AM>
+<AM lemma="Charbonnages-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-cmpr9415-027-p4s5w28">
 <src.rf>manual</src.rf>
@@ -904,7 +913,10 @@
 <LM>w#w-cmpr9415-027-p4s5w28</LM>
 </w.rf>
 <form>de</form>
-<tag lemma="de_,t_^(z_franc._de,_zejm._ve_jménech)" src="orig" selected="1">RR--1----------</tag>
+<tag>
+<AM lemma="de_,t_^(z_franc._de,_zejm._ve_jménech)" src="orig">RR--1----------</AM>
+<AM lemma="de-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-cmpr9415-027-p4s5w29">
 <src.rf>manual</src.rf>
@@ -928,6 +940,7 @@
 <AM lemma="France-1_;S" src="auto">NNMS4-----A---1</AM>
 <AM lemma="France-1_;S" src="auto">NNMS5-----A----</AM>
 <AM lemma="France-2_;G_;K" src="auto" recommended="1">NNXXX-----A----</AM>
+<AM lemma="France-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-cmpr9415-027-p4s5w30">
@@ -1022,7 +1035,7 @@
 <form>Koh</form>
 <tag>
 <AM lemma="Koh_;K_^(Koh-i-noor)" src="orig">NNXXX-----A----</AM>
-<AM lemma="Koh_;K_^(Koh-i-noor)" src="auto" recommended="1">A2--------A----</AM>
+<AM lemma="Koh_;K_^(Koh-i-noor)" src="auto" recommended="1" selected="1">A2--------A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9415-027-p6s1w8">
@@ -1040,7 +1053,7 @@
 </w.rf>
 <form>i</form>
 <tag>
-<AM lemma="i_;K_^(Koh-i-noor)" src="orig">NNXXX-----A----</AM>
+<AM lemma="i_;K_^(Koh-i-noor)" src="orig" selected="1">NNXXX-----A----</AM>
 <AM lemma="i-1" src="auto">J^-------------</AM>
 <AM lemma="i-2" src="auto">TT-------------</AM>
 <AM lemma="i-3_^(označení_pomocí_písmene)" src="auto" recommended="1">NNNXX-----A----</AM>
@@ -1168,7 +1181,10 @@
 <LM>w#w-cmpr9415-027-p6s2w9</LM>
 </w.rf>
 <form>milionů</form>
-<tag lemma="milión`1000000" src="orig" selected="1">NNIP2-----A----</tag>
+<tag>
+<AM lemma="milión`1000000" src="orig">NNIP2-----A----</AM>
+<AM lemma="milion`1000000_,s" src="manual" selected="1">_^(^DD**milión)</AM>
+</tag>
 </m>
 <m id="m-cmpr9415-027-p6s2w10">
 <src.rf>manual</src.rf>
@@ -1179,6 +1195,7 @@
 <tag>
 <AM lemma="Kč" src="orig">NNFXX-----A----</AM>
 <AM lemma="Kč_:B" src="auto" recommended="1">NNFXX-----A---8</AM>
+<AM lemma="Kč_:B" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9415-027-p6s2w11">
@@ -1219,7 +1236,10 @@
 <LM>w#w-cmpr9415-027-p6s2w15</LM>
 </w.rf>
 <form>milionů</form>
-<tag lemma="milión`1000000" src="orig" selected="1">NNIP2-----A----</tag>
+<tag>
+<AM lemma="milión`1000000" src="orig">NNIP2-----A----</AM>
+<AM lemma="milion`1000000_,s_^(^DD**milión)" src="manual" selected="1">NNIP2-----A----</AM>
+</tag>
 </m>
 <m id="m-cmpr9415-027-p6s2w16">
 <src.rf>manual</src.rf>
@@ -1400,7 +1420,10 @@
 <LM>w#w-cmpr9415-027-p6s4w5</LM>
 </w.rf>
 <form>víc</form>
-<tag lemma="hodně-2" src="auto" selected="1">Dg-------2A---1</tag>
+<tag>
+<AM lemma="hodně-2" src="auto">Dg-------2A---1</AM>
+<AM lemma="více_^(více_+_2._p.,_více_peněz)" src="manual" selected="1">Ca--4---------1</AM>
+</tag>
 </m>
 <m id="m-cmpr9415-027-p6s4w6">
 <src.rf>manual</src.rf>
@@ -1670,7 +1693,7 @@
 <form>Porsche</form>
 <tag>
 <AM lemma="Porsche-1_;K" src="orig">NNIXX-----A----</AM>
-<AM lemma="Porsche-1_;K_;R" src="auto">NNXXX-----A----</AM>
+<AM lemma="Porsche-1_;K_;R" src="auto" selected="1">NNXXX-----A----</AM>
 <AM lemma="Porsche-3_;S" src="auto">NNMS1-----A----</AM>
 <AM lemma="Porsche-3_;S" src="auto">NNMS5-----A----</AM>
 <AM lemma="porsche_;R" src="auto">NNNP1-----A----</AM>
@@ -1709,7 +1732,7 @@
 <form>Porsche</form>
 <tag>
 <AM lemma="Porsche-1_;K" src="orig">NNIXX-----A----</AM>
-<AM lemma="Porsche-1_;K_;R" src="auto">NNXXX-----A----</AM>
+<AM lemma="Porsche-1_;K_;R" src="auto" selected="1">NNXXX-----A----</AM>
 <AM lemma="Porsche-3_;S" src="auto">NNMS1-----A----</AM>
 <AM lemma="Porsche-3_;S" src="auto">NNMS5-----A----</AM>
 <AM lemma="porsche_;R" src="auto">NNNP1-----A----</AM>
@@ -1720,6 +1743,7 @@
 <AM lemma="porsche_;R" src="auto">NNNS4-----A----</AM>
 <AM lemma="porsche_;R" src="auto">NNNS5-----A----</AM>
 <AM lemma="porsche_;R" src="auto">NNXXX-----A----</AM>
+<AM lemma="Porsche-1_;K" src="manual">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9415-027-p8s1w4">
@@ -1898,7 +1922,10 @@
 <LM>w#w-cmpr9415-027-p8s2w10</LM>
 </w.rf>
 <form>Porsche</form>
-<tag lemma="porsche_;R" src="orig" selected="1">NNNS1-----A----</tag>
+<tag>
+<AM lemma="porsche_;R" src="orig">NNNS1-----A----</AM>
+<AM lemma="Porsche-1_;K_;R" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-cmpr9415-027-p8s2w11">
 <src.rf>manual</src.rf>
@@ -1914,7 +1941,10 @@
 <LM>w#w-cmpr9415-027-p8s2w12</LM>
 </w.rf>
 <form>JIPO</form>
-<tag lemma="JIPO_:B_;K" src="orig" selected="1">NNNXX-----A---8</tag>
+<tag>
+<AM lemma="JIPO_:B_;K" src="orig">NNNXX-----A---8</AM>
+<AM lemma="JIPO-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-cmpr9415-027-p8s2w13">
 <src.rf>manual</src.rf>
@@ -1962,7 +1992,10 @@
 <LM>w#w-cmpr9415-027-p8s2w18</LM>
 </w.rf>
 <form>milionů</form>
-<tag lemma="milión`1000000" src="orig" selected="1">NNIP2-----A----</tag>
+<tag>
+<AM lemma="milión`1000000" src="orig">NNIP2-----A----</AM>
+<AM lemma="milion`1000000_,s_^(^DD**milión)" src="manual" selected="1">NNIP2-----A----</AM>
+</tag>
 </m>
 <m id="m-cmpr9415-027-p8s2w19">
 <src.rf>manual</src.rf>
@@ -2044,7 +2077,10 @@
 <LM>w#w-cmpr9415-027-p8s3w8</LM>
 </w.rf>
 <form>JIPO</form>
-<tag lemma="JIPO_:B_;K" src="orig" selected="1">NNNXX-----A---8</tag>
+<tag>
+<AM lemma="JIPO_:B_;K" src="orig">NNNXX-----A---8</AM>
+<AM lemma="JIPO-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-cmpr9415-027-p8s3w9">
 <src.rf>manual</src.rf>
@@ -2052,7 +2088,10 @@
 <LM>w#w-cmpr9415-027-p8s3w9</LM>
 </w.rf>
 <form>Český</form>
-<tag lemma="Český-1_;G_^(používá_se_i_pro_jména_org.,_výrobků_atd.)" src="orig" selected="1">AAIS1----1A----</tag>
+<tag>
+<AM lemma="Český-1_;G_^(používá_se_i_pro_jména_org.,_výrobků_atd.)" src="orig">AAIS1----1A----</AM>
+<AM lemma="český" src="manual" selected="1">AAIS1----1A----</AM>
+</tag>
 </m>
 <m id="m-cmpr9415-027-p8s3w10">
 <src.rf>manual</src.rf>
@@ -2084,7 +2123,10 @@
 <LM>w#w-cmpr9415-027-p8s3w13</LM>
 </w.rf>
 <form>milionů</form>
-<tag lemma="milión`1000000" src="orig" selected="1">NNIP2-----A----</tag>
+<tag>
+<AM lemma="milión`1000000" src="orig">NNIP2-----A----</AM>
+<AM lemma="milion`1000000_,s_^(^DD**milión)" src="manual" selected="1">NNIP2-----A----</AM>
+</tag>
 </m>
 <m id="m-cmpr9415-027-p8s3w14">
 <src.rf>manual</src.rf>
@@ -2095,6 +2137,7 @@
 <tag>
 <AM lemma="Kč" src="orig">NNFXX-----A----</AM>
 <AM lemma="Kč_:B" src="auto" recommended="1">NNFXX-----A---8</AM>
+<AM lemma="Kč_:B" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9415-027-p8s3w15">
@@ -2219,7 +2262,7 @@
 <form>Porsche</form>
 <tag>
 <AM lemma="Porsche-2_;R_^(vozidlo)" src="orig">NNIXX-----A----</AM>
-<AM lemma="Porsche-1_;K_;R" src="auto">NNXXX-----A----</AM>
+<AM lemma="Porsche-1_;K_;R" src="auto" selected="1">NNXXX-----A----</AM>
 <AM lemma="Porsche-3_;S" src="auto">NNMS1-----A----</AM>
 <AM lemma="Porsche-3_;S" src="auto">NNMS5-----A----</AM>
 <AM lemma="porsche_;R" src="auto">NNNP1-----A----</AM>

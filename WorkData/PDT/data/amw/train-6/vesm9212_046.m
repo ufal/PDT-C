@@ -599,7 +599,10 @@
 <LM>w#w-vesm9212-046-p1s3w17</LM>
 </w.rf>
 <form>diskusím</form>
-<tag lemma="diskuse" src="orig" selected="1">NNFP3-----A----</tag>
+<tag>
+<AM lemma="diskuse" src="orig">NNFP3-----A----</AM>
+<AM lemma="diskuse_,s_^(^DD**diskuze)" src="manual" selected="1">NNFP3-----A----</AM>
+</tag>
 </m>
 <m id="m-vesm9212-046-p1s3w18">
 <src.rf>manual</src.rf>
@@ -1281,7 +1284,10 @@
 <LM>w#w-vesm9212-046-p1s8w1</LM>
 </w.rf>
 <form>Ani</form>
-<tag lemma="ani-1" src="auto" selected="1">J^-------------</tag>
+<tag>
+<AM lemma="ani-1" src="auto">J^-------------</AM>
+<AM lemma="ani-2" src="manual" selected="1">TT-------------</AM>
+</tag>
 </m>
 <m id="m-vesm9212-046-p1s8w2">
 <src.rf>manual</src.rf>
@@ -1315,7 +1321,7 @@
 <form>totiž</form>
 <tag>
 <AM lemma="totiž" src="orig">Db-------------</AM>
-<AM lemma="totiž-1" src="auto" recommended="1">J^-------------</AM>
+<AM lemma="totiž-1" src="auto" recommended="1" selected="1">J^-------------</AM>
 <AM lemma="totiž-2" src="auto">TT-------------</AM>
 </tag>
 </m>
@@ -1715,7 +1721,10 @@
 <LM>w#w-vesm9212-046-p2s3w4</LM>
 </w.rf>
 <form>jen</form>
-<tag lemma="jen-1" src="auto" selected="1">TT-------------</tag>
+<tag>
+<AM lemma="jen-1" src="auto">TT-------------</AM>
+<AM lemma="jen-4_^(pouze)" src="manual" selected="1">Db-------------</AM>
+</tag>
 </m>
 <m id="m-vesm9212-046-p2s3w5">
 <src.rf>manual</src.rf>
@@ -1949,7 +1958,10 @@
 <LM>w#w-vesm9212-046-p2s4w1</LM>
 </w.rf>
 <form>jenom</form>
-<tag lemma="jenom-1" src="auto" selected="1">TT-------------</tag>
+<tag>
+<AM lemma="jenom-1" src="auto">TT-------------</AM>
+<AM lemma="jenom-2_^(pouze)" src="manual" selected="1">Db-------------</AM>
+</tag>
 </m>
 <m id="m-vesm9212-046-p2s4w2">
 <src.rf>manual</src.rf>
@@ -2151,7 +2163,10 @@
 <LM>w#w-vesm9212-046-p3s1w2</LM>
 </w.rf>
 <form>B</form>
-<tag lemma="B-0_:B_;Y" src="orig" selected="1">NNMXX-----A---8</tag>
+<tag>
+<AM lemma="B-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
+<AM lemma="B-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-vesm9212-046-p3s1w3">
 <src.rf>manual</src.rf>
@@ -2249,7 +2264,10 @@
 <LM>w#w-vesm9212-046-p4s1w5</LM>
 </w.rf>
 <form>fyz</form>
-<tag lemma="fyzický_:B" src="orig" selected="1">AAXXX----1A---8</tag>
+<tag>
+<AM lemma="fyzický_:B" src="orig">AAXXX----1A---8</AM>
+<AM lemma="fyzika_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-vesm9212-046-p4s1w6">
 <src.rf>manual</src.rf>
@@ -2284,6 +2302,7 @@
 <AM lemma="a-8_:B_^(ost._zkratka)" src="auto">XX------------8</AM>
 <AM lemma="akciový_:B_^(jen_akciová_společnost)" src="auto">AAXXX----1A---8</AM>
 <AM lemma="á_,t" src="auto">RF------------1</AM>
+<AM lemma="A-33_^(označení_pomocí_písmene)" src="manual" selected="1">NNNXX-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9212-046-p4s1w8">

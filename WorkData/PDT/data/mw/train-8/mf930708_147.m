@@ -143,7 +143,7 @@
 <AM lemma="stání_^(vyhrazené_místo,_př._pro_koně,_auta,...)" src="auto">NNNP2-----A----</AM>
 <AM lemma="stání_^(vyhrazené_místo,_př._pro_koně,_auta,...)" src="auto">NNNP4-----A----</AM>
 <AM lemma="stání_^(vyhrazené_místo,_př._pro_koně,_auta,...)" src="auto">NNNP5-----A----</AM>
-<AM lemma="stání_^(vyhrazené_místo,_př._pro_koně,_auta,...)" src="auto">NNNS1-----A----</AM>
+<AM lemma="stání_^(vyhrazené_místo,_př._pro_koně,_auta,...)" src="auto" selected="1">NNNS1-----A----</AM>
 <AM lemma="stání_^(vyhrazené_místo,_př._pro_koně,_auta,...)" src="auto">NNNS2-----A----</AM>
 <AM lemma="stání_^(vyhrazené_místo,_př._pro_koně,_auta,...)" src="auto">NNNS3-----A----</AM>
 <AM lemma="stání_^(vyhrazené_místo,_př._pro_koně,_auta,...)" src="auto">NNNS4-----A----</AM>

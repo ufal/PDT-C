@@ -61,7 +61,10 @@
 <LM>w#w-ln94206-6-p2s1w2</LM>
 </w.rf>
 <form>F</form>
-<tag lemma="F-0_:B_;Y" src="orig" selected="1">NNMXX-----A---8</tag>
+<tag>
+<AM lemma="F-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
+<AM lemma="F-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94206-6-p2s1w3">
 <src.rf>manual</src.rf>
@@ -171,6 +174,9 @@
 <AM lemma="Management_;K_,t" src="orig">AAXXX----1A----</AM>
 <AM lemma="management_,t_^(vedení,_manažment;_angl.)" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="management_,t_^(vedení,_manažment;_angl.)" src="auto">NNIS4-----A----</AM>
+<AM lemma="management__,t" src="manual">NNXXX-----A----</AM>
+<AM lemma="management_,t" src="manual">AAXXX----1A----</AM>
+<AM lemma="Management-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-ln94206-6-p2s2w8">
@@ -179,7 +185,10 @@
 <LM>w#w-ln94206-6-p2s2w8</LM>
 </w.rf>
 <form>Press</form>
-<tag lemma="Press-1_;K_,t_^(souč._názvů,_např._tisk._agentur)" src="orig" selected="1">NNIXX-----A----</tag>
+<tag>
+<AM lemma="Press-1_;K_,t_^(souč._názvů,_např._tisk._agentur)" src="orig">NNIXX-----A----</AM>
+<AM lemma="Press-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94206-6-p2s2w9">
 <src.rf>manual</src.rf>
@@ -227,7 +236,10 @@
 <LM>w#w-ln94206-6-p2s2w14</LM>
 </w.rf>
 <form>str</form>
-<tag lemma="strana-4_:B" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="strana-4_:B" src="orig">NNFXX-----A---8</AM>
+<AM lemma="strana" src="manual" selected="1">NNFXX-----A---9</AM>
+</tag>
 </m>
 <m id="m-ln94206-6-p2s2w15">
 <src.rf>manual</src.rf>
@@ -374,7 +386,10 @@
 <LM>w#w-ln94206-6-p2s3w16</LM>
 </w.rf>
 <form>managementu</form>
-<tag lemma="management_,t_^(vedení,_manažment;_angl.)" src="orig" selected="1">NNIS6-----A----</tag>
+<tag>
+<AM lemma="management_,t_^(vedení,_manažment;_angl.)" src="orig">NNIS6-----A----</AM>
+<AM lemma="management_,s_^(^DD**manažment)" src="manual" selected="1">NNIS6-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94206-6-p2s3w17">
 <src.rf>manual</src.rf>
@@ -456,7 +471,7 @@
 <form>nejenže</form>
 <tag>
 <AM lemma="nejenže" src="orig">Db-------------</AM>
-<AM lemma="nejenže" src="auto" recommended="1">TT-------------</AM>
+<AM lemma="nejenže" src="auto" recommended="1" selected="1">TT-------------</AM>
 </tag>
 </m>
 <m id="m-ln94206-6-p2s3w27">
@@ -1182,6 +1197,7 @@
 <AM lemma="pluralizmus" src="auto" recommended="1">NNIS2-----A----</AM>
 <AM lemma="pluralizmus" src="auto">NNIS3-----A----</AM>
 <AM lemma="pluralizmus" src="auto">NNIS6-----A----</AM>
+<AM lemma="pluralismus_,s_^(^DD**pluralizmus)" src="manual" selected="1">NNIS2-----A---1</AM>
 </tag>
 </m>
 <m id="m-ln94206-6-p2s7w11">
@@ -1546,7 +1562,10 @@
 <LM>w#w-ln94206-6-p2s9w11</LM>
 </w.rf>
 <form>zejména</form>
-<tag lemma="zejména-1" src="auto" selected="1">Db-------------</tag>
+<tag>
+<AM lemma="zejména-1" src="auto">Db-------------</AM>
+<AM lemma="zejména-2" src="manual" selected="1">TT-------------</AM>
+</tag>
 </m>
 <m id="m-ln94206-6-p2s9w12">
 <src.rf>manual</src.rf>
@@ -1563,7 +1582,7 @@
 </w.rf>
 <form>nebývalých</form>
 <tag>
-<AM lemma="nebývalý" src="orig">AAFP2----1A----</AM>
+<AM lemma="nebývalý" src="orig" selected="1">AAFP2----1A----</AM>
 <AM lemma="bývalý_^(*2t)" src="auto" recommended="1">AAFP2----1N----</AM>
 <AM lemma="bývalý_^(*2t)" src="auto">AAFP6----1N----</AM>
 <AM lemma="bývalý_^(*2t)" src="auto">AAIP2----1N----</AM>
@@ -1607,7 +1626,7 @@
 </w.rf>
 <form>Casse</form>
 <tag>
-<AM lemma="Casse_;S" src="orig">NNMS1-----A----</AM>
+<AM lemma="Casse_;S" src="orig" selected="1">NNMS1-----A----</AM>
 <AM lemma="Cass_;S" src="auto">NNMP4-----A----</AM>
 <AM lemma="Cass_;S" src="auto" recommended="1">NNMS2-----A----</AM>
 <AM lemma="Cass_;S" src="auto">NNMS4-----A----</AM>
@@ -1737,6 +1756,8 @@
 <AM lemma="Management_;K_,t" src="orig">AAXXX----1A----</AM>
 <AM lemma="management_,t_^(vedení,_manažment;_angl.)" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="management_,t_^(vedení,_manažment;_angl.)" src="auto">NNIS4-----A----</AM>
+<AM lemma="management_,t" src="manual">AAXXX----1A----</AM>
+<AM lemma="Management-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-ln94206-6-p3s2w10">
@@ -1745,7 +1766,10 @@
 <LM>w#w-ln94206-6-p3s2w10</LM>
 </w.rf>
 <form>Press</form>
-<tag lemma="Press-1_;K_,t_^(souč._názvů,_např._tisk._agentur)" src="orig" selected="1">NNIXX-----A----</tag>
+<tag>
+<AM lemma="Press-1_;K_,t_^(souč._názvů,_např._tisk._agentur)" src="orig">NNIXX-----A----</AM>
+<AM lemma="Press-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94206-6-p3s2w11">
 <src.rf>manual</src.rf>
@@ -1793,7 +1817,10 @@
 <LM>w#w-ln94206-6-p3s2w16</LM>
 </w.rf>
 <form>str</form>
-<tag lemma="strana-4_:B" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="strana-4_:B" src="orig">NNFXX-----A---8</AM>
+<AM lemma="strana" src="manual" selected="1">NNFXX-----A---9</AM>
+</tag>
 </m>
 <m id="m-ln94206-6-p3s2w17">
 <src.rf>manual</src.rf>
@@ -2237,7 +2264,10 @@
 <LM>w#w-ln94206-6-p3s4w11</LM>
 </w.rf>
 <form>stát</form>
-<tag lemma="stát-2_^(něco_se_přihodilo)" src="orig" selected="1">Vf--------A----</tag>
+<tag>
+<AM lemma="stát-2_^(něco_se_přihodilo)" src="orig">Vf--------A----</AM>
+<AM lemma="stát-2_^(stanu_staneš)" src="manual" selected="1">Vf--------A----</AM>
+</tag>
 </m>
 <m id="m-ln94206-6-p3s4w12">
 <src.rf>manual</src.rf>
@@ -2463,7 +2493,10 @@
 <LM>w#w-ln94206-6-p3s5w10</LM>
 </w.rf>
 <form>jen</form>
-<tag lemma="jen-1" src="auto" selected="1">TT-------------</tag>
+<tag>
+<AM lemma="jen-1" src="auto">TT-------------</AM>
+<AM lemma="jen-4_(pouze)" src="manual" selected="1">Db-------------</AM>
+</tag>
 </m>
 <m id="m-ln94206-6-p3s5w11">
 <src.rf>manual</src.rf>
@@ -2600,7 +2633,7 @@
 <AM lemma="zkušený" src="auto">AAMP1----1A---6</AM>
 <AM lemma="zkušený" src="auto">AAMP4----1A---6</AM>
 <AM lemma="zkušený" src="auto">AAMP5----1A---6</AM>
-<AM lemma="zkušený" src="auto" recommended="1">AAMS1----1A----</AM>
+<AM lemma="zkušený" src="auto" recommended="1" selected="1">AAMS1----1A----</AM>
 <AM lemma="zkušený" src="auto">AAMS5----1A----</AM>
 <AM lemma="zkušený" src="auto">AANP1----1A---6</AM>
 <AM lemma="zkušený" src="auto">AANP4----1A---6</AM>
@@ -3080,7 +3113,7 @@
 <AM lemma="zkušený" src="auto">AAFP6----1A----</AM>
 <AM lemma="zkušený" src="auto">AAIP2----1A----</AM>
 <AM lemma="zkušený" src="auto">AAIP6----1A----</AM>
-<AM lemma="zkušený" src="auto">AAMP2----1A----</AM>
+<AM lemma="zkušený" src="auto" selected="1">AAMP2----1A----</AM>
 <AM lemma="zkušený" src="auto">AAMP6----1A----</AM>
 <AM lemma="zkušený" src="auto">AANP2----1A----</AM>
 <AM lemma="zkušený" src="auto">AANP6----1A----</AM>
@@ -3196,6 +3229,8 @@
 <AM lemma="Management_;K_,t" src="orig">AAXXX----1A----</AM>
 <AM lemma="management_,t_^(vedení,_manažment;_angl.)" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="management_,t_^(vedení,_manažment;_angl.)" src="auto">NNIS4-----A----</AM>
+<AM lemma="management_,t" src="manual">AAXXX----1A----</AM>
+<AM lemma="Management-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-ln94206-6-p4s2w6">
@@ -3204,7 +3239,10 @@
 <LM>w#w-ln94206-6-p4s2w6</LM>
 </w.rf>
 <form>Press</form>
-<tag lemma="Press-1_;K_,t_^(souč._názvů,_např._tisk._agentur)" src="orig" selected="1">NNIXX-----A----</tag>
+<tag>
+<AM lemma="Press-1_;K_,t_^(souč._názvů,_např._tisk._agentur)" src="orig">NNIXX-----A----</AM>
+<AM lemma="Press-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94206-6-p4s2w7">
 <src.rf>manual</src.rf>
@@ -3252,7 +3290,10 @@
 <LM>w#w-ln94206-6-p4s2w12</LM>
 </w.rf>
 <form>str</form>
-<tag lemma="strana-4_:B" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="strana-4_:B" src="orig">NNFXX-----A---8</AM>
+<AM lemma="strana" src="manual" selected="1">NNFXX-----A---9</AM>
+</tag>
 </m>
 <m id="m-ln94206-6-p4s2w13">
 <src.rf>manual</src.rf>
@@ -3576,7 +3617,10 @@
 <LM>w#w-ln94206-6-p4s4w17</LM>
 </w.rf>
 <form>stalo</form>
-<tag lemma="stát-2_^(něco_se_přihodilo)" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag>
+<AM lemma="stát-2_^(něco_se_přihodilo)" src="orig">VpNS---XR-AA---</AM>
+<AM lemma="stát-2_^(stanu_staneš)" src="manual" selected="1">VpNS---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-ln94206-6-p4s4w18">
 <src.rf>manual</src.rf>
@@ -3694,6 +3738,7 @@
 <AM lemma="Club_;K_,t" src="orig">NNIS1-----A----</AM>
 <AM lemma="klub" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="klub" src="auto">NNIS4-----A----</AM>
+<AM lemma="Club-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-ln94206-6-p4s5w10">
@@ -3702,7 +3747,10 @@
 <LM>w#w-ln94206-6-p4s5w10</LM>
 </w.rf>
 <form>Mediterranée</form>
-<tag lemma="Mediterranée_;K_,t" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="Mediterranée_;K_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="Mediterranée-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94206-6-p4s5w11">
 <src.rf>manual</src.rf>

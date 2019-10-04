@@ -338,6 +338,7 @@
 <tag>
 <AM lemma="Kč" src="orig">NNFXX-----A----</AM>
 <AM lemma="Kč_:B" src="auto" recommended="1">NNFXX-----A---8</AM>
+<AM lemma="Kč_:B" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930702-078-p2s2w20">
@@ -405,6 +406,7 @@
 <tag>
 <AM lemma="Kč" src="orig">NNFXX-----A----</AM>
 <AM lemma="Kč_:B" src="auto" recommended="1">NNFXX-----A---8</AM>
+<AM lemma="Kč" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930702-078-p2s2w28">
@@ -611,7 +613,10 @@
 <LM>w#w-mf930702-078-p3s3w1</LM>
 </w.rf>
 <form>Häcken</form>
-<tag lemma="Häcken_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Häcken_;S" src="orig">NNMS1-----A----</AM>
+<AM lemma="Häcken-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-mf930702-078-p3s3w2">
 <src.rf>manual</src.rf>
@@ -967,7 +972,10 @@
 <LM>w#w-mf930702-078-p3s9w3</LM>
 </w.rf>
 <form>Austria</form>
-<tag lemma="Austria_;K_,t_^(fotbalový_klub_Austria_Wien)" src="orig" selected="1">NNFS1-----A----</tag>
+<tag>
+<AM lemma="Austria_;K_,t_^(fotbalový_klub_Austria_Wien)" src="orig">NNFS1-----A----</AM>
+<AM lemma="Austria-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-mf930702-078-p3s9w4">
 <src.rf>manual</src.rf>
@@ -1011,7 +1019,7 @@
 <form>Odense</form>
 <tag>
 <AM lemma="Odense_;K_^(klub)" src="orig">NNNXX-----A----</AM>
-<AM lemma="Odense_;G" src="auto" recommended="1">NNNSX-----A----</AM>
+<AM lemma="Odense_;G" src="auto" recommended="1" selected="1">NNNSX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930702-078-p3s10w2">
@@ -1161,6 +1169,7 @@
 <AM lemma="telit_:T" src="auto">Vi-S---2--A----</AM>
 <AM lemma="telit_:T" src="auto">Vi-S---3--A---4</AM>
 <AM lemma="tlo_,n" src="auto">NNNP2-----A----</AM>
+<AM lemma="Tel-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-mf930702-078-p3s12w5">
@@ -1169,7 +1178,10 @@
 <LM>w#w-mf930702-078-p3s12w5</LM>
 </w.rf>
 <form>Aviv</form>
-<tag lemma="Aviv_;G" src="orig" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="Aviv_;G" src="orig">NNIS1-----A----</AM>
+<AM lemma="Aviv-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-mf930702-078-p3s12w6">
 <src.rf>manual</src.rf>
@@ -1222,7 +1234,7 @@
 <tag>
 <AM lemma="Bochum_;G" src="orig">NNXXX-----A----</AM>
 <AM lemma="Boch_;S" src="auto">NNMP3-----A---6</AM>
-<AM lemma="Bochum_;G" src="auto" recommended="1">NNFS1-----A----</AM>
+<AM lemma="Bochum_;G" src="auto" recommended="1" selected="1">NNFS1-----A----</AM>
 <AM lemma="Bochum_;G" src="auto">NNFS4-----A----</AM>
 <AM lemma="Bochum_;G" src="auto">NNIS1-----A----</AM>
 <AM lemma="Bochum_;G" src="auto">NNIS4-----A----</AM>
@@ -1276,7 +1288,10 @@
 <LM>w#w-mf930702-078-p3s14w3</LM>
 </w.rf>
 <form>Y</form>
-<tag lemma="Y-4_:B_;K" src="orig" selected="1">AAXXX----1A---8</tag>
+<tag>
+<AM lemma="Y-4_:B_;K" src="orig">AAXXX----1A---8</AM>
+<AM lemma="Y-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-mf930702-078-p3s14w4">
 <src.rf>manual</src.rf>
@@ -1305,6 +1320,7 @@
 <AM lemma="B-9_:B_;S" src="auto">NNXXX-----A---8</AM>
 <AM lemma="b-3_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
 <AM lemma="b-8_:B_^(ost._zkratka)" src="auto">XX------------8</AM>
+<AM lemma="B-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-mf930702-078-p3s14w6">
@@ -1371,7 +1387,10 @@
 <LM>w#w-mf930702-078-p3s15w3</LM>
 </w.rf>
 <form>Wiener</form>
-<tag lemma="Wiener_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Wiener_;S" src="orig">NNMS1-----A----</AM>
+<AM lemma="Wiener-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-mf930702-078-p3s15w4">
 <src.rf>manual</src.rf>
@@ -1379,7 +1398,10 @@
 <LM>w#w-mf930702-078-p3s15w4</LM>
 </w.rf>
 <form>SportClub</form>
-<tag lemma="sportclub" src="orig" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="sportclub" src="orig">NNIS1-----A----</AM>
+<AM lemma="SportClub-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-mf930702-078-p3s15w5">
 <src.rf>manual</src.rf>

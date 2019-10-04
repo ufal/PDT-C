@@ -61,7 +61,10 @@
 <LM>w#w-cmpr9406-029-p2s1Aw4</LM>
 </w.rf>
 <form>a</form>
-<tag lemma="akciový_:B_^(jen_akciová_společnost)" src="orig" selected="1">AAXXX----1A---8</tag>
+<tag>
+<AM lemma="akciový_:B_^(jen_akciová_společnost)" src="orig">AAXXX----1A---8</AM>
+<AM lemma="akciový_^(jen_akciová_společnost)" src="manual" selected="1">AAXXX----1A---8</AM>
+</tag>
 </m>
 <m id="m-cmpr9406-029-p2s1Aw5">
 <src.rf>manual</src.rf>
@@ -77,7 +80,10 @@
 <LM>w#w-cmpr9406-029-p2s1Aw6</LM>
 </w.rf>
 <form>s</form>
-<tag lemma="společnost_:B" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="společnost_:B" src="orig">NNFXX-----A---8</AM>
+<AM lemma="společnost" src="manual" selected="1">NNFXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-cmpr9406-029-p2s1Aw7">
 <src.rf>manual</src.rf>
@@ -165,7 +171,10 @@
 <LM>w#w-cmpr9406-029-p2s1Aw17</LM>
 </w.rf>
 <form>a</form>
-<tag lemma="akciový_:B_^(jen_akciová_společnost)" src="orig" selected="1">AAXXX----1A---8</tag>
+<tag>
+<AM lemma="akciový_:B_^(jen_akciová_společnost)" src="orig">AAXXX----1A---8</AM>
+<AM lemma="akciový_^(jen_akciová_společnost)" src="manual" selected="1">AAXXX----1A---8</AM>
+</tag>
 </m>
 <m id="m-cmpr9406-029-p2s1Aw18">
 <src.rf>manual</src.rf>
@@ -181,7 +190,10 @@
 <LM>w#w-cmpr9406-029-p2s1Aw19</LM>
 </w.rf>
 <form>s</form>
-<tag lemma="společnost_:B" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="společnost_:B" src="orig">NNFXX-----A---8</AM>
+<AM lemma="společnost" src="manual" selected="1">NNFXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-cmpr9406-029-p2s1Aw20">
 <src.rf>manual</src.rf>
@@ -297,7 +309,10 @@
 <LM>w#w-cmpr9406-029-p3s1w7</LM>
 </w.rf>
 <form>GSR</form>
-<tag lemma="GSR_:B_;K_^(am._manažeři_v_Tatře)" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="GSR_:B_;K_^(am._manažeři_v_Tatře)" src="orig">NNXXX-----A---8</AM>
+<AM lemma="GSR-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-cmpr9406-029-p3s1w8">
 <src.rf>manual</src.rf>
@@ -401,7 +416,10 @@
 <LM>w#w-cmpr9406-029-p3s1w20</LM>
 </w.rf>
 <form>GSR</form>
-<tag lemma="GSR_:B_;K_^(am._manažeři_v_Tatře)" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="GSR_:B_;K_^(am._manažeři_v_Tatře)" src="orig">NNXXX-----A---8</AM>
+<AM lemma="GSR-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-cmpr9406-029-p3s1w21">
 <src.rf>manual</src.rf>
@@ -453,7 +471,7 @@
 <form>snad</form>
 <tag>
 <AM lemma="snad" src="orig">Db-------------</AM>
-<AM lemma="snad" src="auto" recommended="1">TT-------------</AM>
+<AM lemma="snad" src="auto" recommended="1" selected="1">TT-------------</AM>
 </tag>
 </m>
 <m id="m-cmpr9406-029-p4s1w6">
@@ -519,7 +537,7 @@
 </w.rf>
 <form>Greenwald</form>
 <tag>
-<AM lemma="Greenwald-2_;S" src="orig">NNMS1-----A----</AM>
+<AM lemma="Greenwald-2_;S" src="orig" selected="1">NNMS1-----A----</AM>
 <AM lemma="Greenwald_;G" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Greenwald_;G" src="auto">NNIS4-----A----</AM>
 </tag>
@@ -748,7 +766,10 @@
 <LM>w#w-cmpr9406-029-p4s2w17</LM>
 </w.rf>
 <form>a</form>
-<tag lemma="akciový_:B_^(jen_akciová_společnost)" src="orig" selected="1">AAXXX----1A---8</tag>
+<tag>
+<AM lemma="akciový_:B_^(jen_akciová_společnost)" src="orig">AAXXX----1A---8</AM>
+<AM lemma="akciový_^(jen_akciová_společnost)" src="manual" selected="1">AAXXX----1A---8</AM>
+</tag>
 </m>
 <m id="m-cmpr9406-029-p4s2w18">
 <src.rf>manual</src.rf>
@@ -764,7 +785,10 @@
 <LM>w#w-cmpr9406-029-p4s2w19</LM>
 </w.rf>
 <form>s</form>
-<tag lemma="společnost_:B" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="společnost_:B" src="orig">NNFXX-----A---8</AM>
+<AM lemma="společnost" src="manual" selected="1">NNFXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-cmpr9406-029-p4s2w20">
 <src.rf>manual</src.rf>
@@ -1080,7 +1104,10 @@
 <LM>w#w-cmpr9406-029-p4s4w16</LM>
 </w.rf>
 <form>GSR</form>
-<tag lemma="GSR_:B_;K_^(am._manažeři_v_Tatře)" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="GSR_:B_;K_^(am._manažeři_v_Tatře)" src="orig">NNXXX-----A---8</AM>
+<AM lemma="GSR-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-cmpr9406-029-p4s4w17">
 <src.rf>manual</src.rf>
@@ -1128,7 +1155,10 @@
 <LM>w#w-cmpr9406-029-p4s4w22</LM>
 </w.rf>
 <form>č</form>
-<tag lemma="číslo_:B" src="orig" selected="1">NNNXX-----A---8</tag>
+<tag>
+<AM lemma="číslo_:B" src="orig">NNNXX-----A---8</AM>
+<AM lemma="číslo" src="manual" selected="1">NNNXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-cmpr9406-029-p4s4w23">
 <src.rf>manual</src.rf>
@@ -1208,7 +1238,10 @@
 <LM>w#w-cmpr9406-029-p4s4w32</LM>
 </w.rf>
 <form>a</form>
-<tag lemma="akciový_:B_^(jen_akciová_společnost)" src="orig" selected="1">AAXXX----1A---8</tag>
+<tag>
+<AM lemma="akciový_:B_^(jen_akciová_společnost)" src="orig">AAXXX----1A---8</AM>
+<AM lemma="akciový_^(jen_akciová_společnost)" src="manual" selected="1">AAXXX----1A---8</AM>
+</tag>
 </m>
 <m id="m-cmpr9406-029-p4s4w33">
 <src.rf>manual</src.rf>
@@ -1224,7 +1257,10 @@
 <LM>w#w-cmpr9406-029-p4s4w34</LM>
 </w.rf>
 <form>s</form>
-<tag lemma="společnost_:B" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="společnost_:B" src="orig">NNFXX-----A---8</AM>
+<AM lemma="společnost" src="manual" selected="1">NNFXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-cmpr9406-029-p4s4w35">
 <src.rf>manual</src.rf>
@@ -1240,7 +1276,10 @@
 <LM>w#w-cmpr9406-029-p4s4w36</LM>
 </w.rf>
 <form>Tatra</form>
-<tag lemma="Tatra_;K_;R_^(auto;;mléko)" src="auto" selected="1">NNFS1-----A----</tag>
+<tag>
+<AM lemma="Tatra_;K_;R_^(auto;;mléko)" src="auto">NNFS1-----A----</AM>
+<AM lemma="Tatra_;K_;R_^(auto;mléko)" src="manual" selected="1">NNFS1-----A----</AM>
+</tag>
 </m>
 <m id="m-cmpr9406-029-p4s4w37">
 <src.rf>manual</src.rf>

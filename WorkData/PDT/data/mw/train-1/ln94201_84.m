@@ -78,7 +78,7 @@
 </w.rf>
 <form>tom</form>
 <tag>
-<AM lemma="tom_:B" src="orig">NNMS1-----A---8</AM>
+<AM lemma="tom_:B" src="orig" selected="1">NNMS1-----A---8</AM>
 <AM lemma="ten" src="auto" recommended="1">PDZS6----------</AM>
 </tag>
 </m>
@@ -222,6 +222,7 @@
 <AM lemma="Carlsbad_;m" src="orig">AAXXX----1A----</AM>
 <AM lemma="Carlsbad_;G" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Carlsbad_;G" src="auto">NNIS4-----A----</AM>
+<AM lemma="Carlsbad-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-ln94201-84-p2s2w5">
@@ -230,7 +231,10 @@
 <LM>w#w-ln94201-84-p2s2w5</LM>
 </w.rf>
 <form>Ironcurtain</form>
-<tag lemma="Ironcurtain_;m_,t" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="Ironcurtain_;m_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="Ironcurtain-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94201-84-p2s2w6">
 <src.rf>manual</src.rf>
@@ -238,7 +242,10 @@
 <LM>w#w-ln94201-84-p2s2w6</LM>
 </w.rf>
 <form>Triathlon</form>
-<tag lemma="Triathlon_;m_,t" src="orig" selected="1">NNIXX-----A----</tag>
+<tag>
+<AM lemma="Triathlon_;m_,t" src="orig">NNIXX-----A----</AM>
+<AM lemma="Triathlon-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94201-84-p2s2w7">
 <src.rf>manual</src.rf>
@@ -368,7 +375,7 @@
 <form>ovšem</form>
 <tag>
 <AM lemma="ovšem-1_^(avšak,_však;_odporovací_spojka)" src="orig">J^-------------</AM>
-<AM lemma="ovšem" src="auto" recommended="1">TT-------------</AM>
+<AM lemma="ovšem" src="auto" recommended="1" selected="1">TT-------------</AM>
 </tag>
 </m>
 <m id="m-ln94201-84-p2s2w23">
@@ -615,7 +622,7 @@
 <form>totiž</form>
 <tag>
 <AM lemma="totiž" src="orig">Db-------------</AM>
-<AM lemma="totiž-1" src="auto" recommended="1">J^-------------</AM>
+<AM lemma="totiž-1" src="auto" recommended="1" selected="1">J^-------------</AM>
 <AM lemma="totiž-2" src="auto">TT-------------</AM>
 </tag>
 </m>
@@ -950,7 +957,7 @@
 </w.rf>
 <form>Plecitý</form>
 <tag>
-<AM lemma="Plecitý_;S" src="orig">NNMS1-----A----</AM>
+<AM lemma="Plecitý_;S" src="orig" selected="1">NNMS1-----A----</AM>
 <AM lemma="Plecitá_;S" src="auto">NNFP1-----A---6</AM>
 <AM lemma="Plecitá_;S" src="auto">NNFP4-----A---6</AM>
 <AM lemma="Plecitá_;S" src="auto">NNFP5-----A---6</AM>
@@ -1440,7 +1447,7 @@
 <form>totiž</form>
 <tag>
 <AM lemma="totiž" src="orig">Db-------------</AM>
-<AM lemma="totiž-1" src="auto" recommended="1">J^-------------</AM>
+<AM lemma="totiž-1" src="auto" recommended="1" selected="1">J^-------------</AM>
 <AM lemma="totiž-2" src="auto">TT-------------</AM>
 </tag>
 </m>
@@ -1749,7 +1756,7 @@
 </w.rf>
 <form>Plecitý</form>
 <tag>
-<AM lemma="Plecitý_;S" src="orig">NNMS1-----A----</AM>
+<AM lemma="Plecitý_;S" src="orig" selected="1">NNMS1-----A----</AM>
 <AM lemma="Plecitá_;S" src="auto">NNFP1-----A---6</AM>
 <AM lemma="Plecitá_;S" src="auto">NNFP4-----A---6</AM>
 <AM lemma="Plecitá_;S" src="auto">NNFP5-----A---6</AM>

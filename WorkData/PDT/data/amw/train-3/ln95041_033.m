@@ -95,7 +95,10 @@
 <LM>w#w-ln95041-033-p2s1Bw5</LM>
 </w.rf>
 <form>HC</form>
-<tag lemma="HC-1_:B_^(hockey_club)" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="HC-1_:B_^(hockey_club)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="HC-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95041-033-p2s1Bw6">
 <src.rf>manual</src.rf>
@@ -219,7 +222,7 @@
 <form>totiž</form>
 <tag>
 <AM lemma="totiž" src="orig">Db-------------</AM>
-<AM lemma="totiž-1" src="auto">J^-------------</AM>
+<AM lemma="totiž-1" src="auto" selected="1">J^-------------</AM>
 <AM lemma="totiž-2" src="auto" recommended="1">TT-------------</AM>
 </tag>
 </m>

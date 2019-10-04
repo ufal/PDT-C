@@ -147,7 +147,10 @@
 <LM>w#w-lnd92257-047-p1s1w17</LM>
 </w.rf>
 <form>OSN</form>
-<tag lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92257-047-p1s1w18">
 <src.rf>manual</src.rf>
@@ -469,7 +472,10 @@
 <LM>w#w-lnd92257-047-p2s1w16</LM>
 </w.rf>
 <form>C</form>
-<tag lemma="C-0_:B_;Y" src="orig" selected="1">NNMXX-----A---8</tag>
+<tag>
+<AM lemma="C-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
+<AM lemma="C-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd92257-047-p2s1w17">
 <src.rf>manual</src.rf>
@@ -544,7 +550,10 @@
 <LM>w#w-lnd92257-047-p2s2w6</LM>
 </w.rf>
 <form>M</form>
-<tag lemma="M-0_:B_;Y" src="orig" selected="1">NNMXX-----A---8</tag>
+<tag>
+<AM lemma="M-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
+<AM lemma="M-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd92257-047-p2s2w7">
 <src.rf>manual</src.rf>
@@ -560,7 +569,10 @@
 <LM>w#w-lnd92257-047-p2s2w8</LM>
 </w.rf>
 <form>Francis</form>
-<tag lemma="Francis_;Y" src="auto" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Francis_;Y" src="auto">NNMS1-----A----</AM>
+<AM lemma="Francis_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92257-047-p2s2w9">
 <src.rf>manual</src.rf>
@@ -1328,7 +1340,10 @@
 <LM>w#w-lnd92257-047-p4s1w33</LM>
 </w.rf>
 <form>T</form>
-<tag lemma="T-0_:B_;Y" src="orig" selected="1">NNMXX-----A---8</tag>
+<tag>
+<AM lemma="T-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
+<AM lemma="T-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd92257-047-p4s1w34">
 <src.rf>manual</src.rf>
@@ -2203,7 +2218,10 @@
 <LM>w#w-lnd92257-047-p6s2w4</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-2" src="auto" selected="1">Dg-------2A----</tag>
+<tag>
+<AM lemma="hodně-2" src="auto">Dg-------2A----</AM>
+<AM lemma="hodně-3" src="manual" selected="1">Dg-------2A----</AM>
+</tag>
 </m>
 <m id="m-lnd92257-047-p6s2w5">
 <src.rf>manual</src.rf>

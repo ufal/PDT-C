@@ -215,7 +215,10 @@
 <LM>w#w-cmpr9407-010-p4s1w13</LM>
 </w.rf>
 <form>CMC</form>
-<tag lemma="CMC-4_:B_;K_^(Československé_manažerské_centrum)" src="orig" selected="1">NNNXX-----A---8</tag>
+<tag>
+<AM lemma="CMC-4_:B_;K_^(Československé_manažerské_centrum)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="CMC-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-cmpr9407-010-p4s1w14">
 <src.rf>manual</src.rf>
@@ -1130,7 +1133,10 @@
 <LM>w#w-cmpr9407-010-p9s1w31</LM>
 </w.rf>
 <form>jen</form>
-<tag lemma="jen-1" src="auto" selected="1">TT-------------</tag>
+<tag>
+<AM lemma="jen-1" src="auto">TT-------------</AM>
+<AM lemma="jen-4_^(pouze)" src="manual" selected="1">Db-------------</AM>
+</tag>
 </m>
 <m id="m-cmpr9407-010-p9s1w32">
 <src.rf>manual</src.rf>
@@ -2225,7 +2231,10 @@
 <LM>w#w-cmpr9407-010-p10s4w11</LM>
 </w.rf>
 <form>byznys</form>
-<tag lemma="byznys" src="orig" selected="1">NNIS4-----A----</tag>
+<tag>
+<AM lemma="byznys" src="orig">NNIS4-----A----</AM>
+<AM lemma="byznys" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-cmpr9407-010-p10s4w12">
 <src.rf>manual</src.rf>
@@ -3053,7 +3062,10 @@
 <LM>w#w-cmpr9407-010-p11s5w16</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-2" src="auto" selected="1">Dg-------2A----</tag>
+<tag>
+<AM lemma="hodně-2" src="auto">Dg-------2A----</AM>
+<AM lemma="více_^(více_+_2._p.,_více_peněz)" src="manual" selected="1">Ca--2----------</AM>
+</tag>
 </m>
 <m id="m-cmpr9407-010-p11s5w17">
 <src.rf>manual</src.rf>
@@ -3558,7 +3570,7 @@
 <tag>
 <AM lemma="tedy" src="orig">Db-------------</AM>
 <AM lemma="tedy-1" src="auto">TT-------------</AM>
-<AM lemma="tedy-2" src="auto" recommended="1">J^-------------</AM>
+<AM lemma="tedy-2" src="auto" recommended="1" selected="1">J^-------------</AM>
 </tag>
 </m>
 <m id="m-cmpr9407-010-p12s3w4">
@@ -3697,7 +3709,10 @@
 <LM>w#w-cmpr9407-010-p12s4w5</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-2" src="auto" selected="1">Dg-------2A----</tag>
+<tag>
+<AM lemma="hodně-2" src="auto">Dg-------2A----</AM>
+<AM lemma="hodně-3" src="manual" selected="1">Dg-------2A----</AM>
+</tag>
 </m>
 <m id="m-cmpr9407-010-p12s4w6">
 <src.rf>manual</src.rf>

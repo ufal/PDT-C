@@ -248,6 +248,7 @@
 <tag>
 <AM lemma="Frölich_;K" src="orig">NNIS1-----A----</AM>
 <AM lemma="Frölich_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Frölich-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-mf930703-114-p2s1w26">

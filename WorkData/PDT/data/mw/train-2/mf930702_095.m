@@ -19,7 +19,10 @@
 <LM>w#w-mf930702-095-p1s1w1</LM>
 </w.rf>
 <form>Pozn</form>
-<tag lemma="poznámka_:B" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="poznámka_:B" src="orig">NNFXX-----A---8</AM>
+<AM lemma="poznámka" src="manual" selected="1">NNFXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-mf930702-095-p1s1w2">
 <src.rf>manual</src.rf>
@@ -208,7 +211,7 @@
 <tag>
 <AM lemma="Rašek_;S" src="orig">NNMS6-----A----</AM>
 <AM lemma="Raška_;S" src="auto">NNMS3-----A----</AM>
-<AM lemma="Raška_;S" src="auto" recommended="1">NNMS6-----A----</AM>
+<AM lemma="Raška_;S" src="auto" recommended="1" selected="1">NNMS6-----A----</AM>
 <AM lemma="Raškův_;S_^(*2a)" src="auto">AUMP1M---------</AM>
 <AM lemma="Raškův_;S_^(*2a)" src="auto">AUMP5M---------</AM>
 </tag>
@@ -317,7 +320,10 @@
 <LM>w#w-mf930702-095-p1s3w4</LM>
 </w.rf>
 <form>přestal</form>
-<tag lemma="přestat" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag>
+<AM lemma="přestat" src="orig">VpYS---XR-AA---</AM>
+<AM lemma="přestat_:W" src="manual" selected="1">VpYS---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-mf930702-095-p1s3w5">
 <src.rf>manual</src.rf>
@@ -480,7 +486,10 @@
 <LM>w#w-mf930702-095-p1s4w15</LM>
 </w.rf>
 <form>li</form>
-<tag lemma="li-1" src="auto" selected="1">TT-------------</tag>
+<tag>
+<AM lemma="li-1" src="auto">TT-------------</AM>
+<AM lemma="li-2" src="manual" selected="1">J,-------------</AM>
+</tag>
 </m>
 <m id="m-mf930702-095-p1s4w16">
 <src.rf>manual</src.rf>
@@ -488,7 +497,10 @@
 <LM>w#w-mf930702-095-p1s4w16</LM>
 </w.rf>
 <form>určeno</form>
-<tag lemma="určit" src="orig" selected="1">VsNS---XX-AP---</tag>
+<tag>
+<AM lemma="určit" src="orig">VsNS---XX-AP---</AM>
+<AM lemma="určit_:W" src="manual" selected="1">VsNS---XX-AP---</AM>
+</tag>
 </m>
 <m id="m-mf930702-095-p1s4w17">
 <src.rf>manual</src.rf>

@@ -165,7 +165,10 @@
 <LM>w#w-mf920924-015-p2s1w17</LM>
 </w.rf>
 <form>Sosna</form>
-<tag lemma="Sosna-1_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Sosna-1_;S" src="orig">NNMS1-----A----</AM>
+<AM lemma="sosna" src="manual" selected="1">NNFS1-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920924-015-p2s1w18">
 <src.rf>manual</src.rf>

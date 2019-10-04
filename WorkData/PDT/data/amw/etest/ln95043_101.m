@@ -191,7 +191,10 @@
 <LM>w#w-ln95043-101-p1s3w1</LM>
 </w.rf>
 <form>Alespoň</form>
-<tag lemma="alespoň-1" src="auto" selected="1">Db-------------</tag>
+<tag>
+<AM lemma="alespoň-1" src="auto">Db-------------</AM>
+<AM lemma="alespoň-2" src="manual" selected="1">TT-------------</AM>
+</tag>
 </m>
 <m id="m-ln95043-101-p1s3w2">
 <src.rf>manual</src.rf>

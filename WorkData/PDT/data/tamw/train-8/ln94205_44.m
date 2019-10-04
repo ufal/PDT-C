@@ -101,7 +101,10 @@
 <LM>w#w-ln94205-44-p2s1Aw3</LM>
 </w.rf>
 <form>dan</form>
-<tag lemma="dan-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="dan-99_:B_;S" src="orig">NNXXX-----A---8</AM>
+<AM lemma="dan-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94205-44-p2s1Aw4">
 <src.rf>manual</src.rf>
@@ -752,7 +755,7 @@
 <tag>
 <AM lemma="přesto" src="orig">Dg-------1A----</AM>
 <AM lemma="přesto-1" src="auto" recommended="1">Db-------------</AM>
-<AM lemma="přesto-2" src="auto">J^-------------</AM>
+<AM lemma="přesto-2" src="auto" selected="1">J^-------------</AM>
 </tag>
 </m>
 <m id="m-ln94205-44-p2s4w2">
@@ -1173,7 +1176,7 @@
 <form>jakákoliv</form>
 <tag>
 <AM lemma="jakýkoliv" src="orig">PZFS1----------</AM>
-<AM lemma="jakýkoli" src="auto" recommended="1">PZFS1---------1</AM>
+<AM lemma="jakýkoli" src="auto" recommended="1" selected="1">PZFS1---------1</AM>
 <AM lemma="jakýkoli" src="auto">PZFS5---------1</AM>
 <AM lemma="jakýkoli" src="auto">PZNP1---------1</AM>
 <AM lemma="jakýkoli" src="auto">PZNP4---------1</AM>
@@ -1290,7 +1293,10 @@
 <LM>w#w-ln94205-44-p2s5w26</LM>
 </w.rf>
 <form>V</form>
-<tag lemma="V-0_:B_;Y" src="orig" selected="1">NNMXX-----A---8</tag>
+<tag>
+<AM lemma="V-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
+<AM lemma="V-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln94205-44-p2s5w27">
 <src.rf>manual</src.rf>

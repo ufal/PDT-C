@@ -175,7 +175,10 @@
 <LM>w#w-lnd92252-089-p2s2w7</LM>
 </w.rf>
 <form>MS</form>
-<tag lemma="MS-5_:B_;K_;p_^(ministerstvo_spravedlnosti)" src="orig" selected="1">NNNXX-----A---8</tag>
+<tag>
+<AM lemma="MS-5_:B_;K_;p_^(ministerstvo_spravedlnosti)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="MS-3_:B_^(mistrovství_světa)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92252-089-p2s2w8">
 <src.rf>manual</src.rf>
@@ -191,7 +194,10 @@
 <LM>w#w-lnd92252-089-p2s2w9</LM>
 </w.rf>
 <form>Faerským</form>
-<tag lemma="faerský_;G" src="orig" selected="1">AAIP3----1A----</tag>
+<tag>
+<AM lemma="faerský_;G" src="orig">AAIP3----1A----</AM>
+<AM lemma="faerský" src="manual" selected="1">AAIP3----1A----</AM>
+</tag>
 </m>
 <m id="m-lnd92252-089-p2s2w10">
 <src.rf>manual</src.rf>
@@ -321,7 +327,10 @@
 <LM>w#w-lnd92252-089-p2s3w6</LM>
 </w.rf>
 <form>má</form>
-<tag lemma="mít" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag>
+<AM lemma="mít" src="orig">VB-S---3P-AA---</AM>
+<AM lemma="mít_:T" src="manual" selected="1">VB-S---3P-AA---</AM>
+</tag>
 </m>
 <m id="m-lnd92252-089-p2s3w7">
 <src.rf>manual</src.rf>
@@ -332,7 +341,7 @@
 <tag>
 <AM lemma="tedy" src="orig">Db-------------</AM>
 <AM lemma="tedy-1" src="auto">TT-------------</AM>
-<AM lemma="tedy-2" src="auto" recommended="1">J^-------------</AM>
+<AM lemma="tedy-2" src="auto" recommended="1" selected="1">J^-------------</AM>
 </tag>
 </m>
 <m id="m-lnd92252-089-p2s3w8">
@@ -519,7 +528,10 @@
 <LM>w#w-lnd92252-089-p2s4w15</LM>
 </w.rf>
 <form>PVP</form>
-<tag lemma="PVP-2_:B_;m_^(Pohár_výherců_pohárů)" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="PVP-2_:B_;m_^(Pohár_výherců_pohárů)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="PVP-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92252-089-p2s4w16">
 <src.rf>manual</src.rf>
@@ -543,7 +555,10 @@
 <LM>w#w-lnd92252-089-p2s4w18</LM>
 </w.rf>
 <form>Apollonu</form>
-<tag lemma="Apollon_;Y" src="orig" selected="1">NNMS3-----A---1</tag>
+<tag>
+<AM lemma="Apollon_;Y" src="orig">NNMS3-----A---1</AM>
+<AM lemma="Apollon-2_;K" src="manual" selected="1">NNIS3-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92252-089-p2s4w19">
 <src.rf>manual</src.rf>
@@ -851,7 +866,10 @@
 <LM>w#w-lnd92252-089-p2s6w3</LM>
 </w.rf>
 <form>dospěl</form>
-<tag lemma="dospět" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag>
+<AM lemma="dospět" src="orig">VpYS---XR-AA---</AM>
+<AM lemma="dospět_:W" src="manual" selected="1">VpYS---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-lnd92252-089-p2s6w4">
 <src.rf>manual</src.rf>
@@ -1133,7 +1151,10 @@
 <LM>w#w-lnd92252-089-p3s1w2</LM>
 </w.rf>
 <form>řej</form>
-<tag lemma="řej-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="řej-99_:B_;S" src="orig">NNXXX-----A---8</AM>
+<AM lemma="řej-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92252-089-p3s1w3">
 <src.rf>manual</src.rf>

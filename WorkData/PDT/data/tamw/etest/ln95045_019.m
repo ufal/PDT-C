@@ -1649,7 +1649,10 @@
 <LM>w#w-ln95045-019-p3s6w8</LM>
 </w.rf>
 <form>Hynka</form>
-<tag lemma="Hynek_;Y" src="orig" selected="1">NNMS4-----A----</tag>
+<tag>
+<AM lemma="Hynek_;Y" src="orig">NNMS4-----A----</AM>
+<AM lemma="Hynek_;S_;Y" src="manual" selected="1">NNMS4-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95045-019-p3s6w9">
 <src.rf>manual</src.rf>
@@ -1667,7 +1670,7 @@
 <form>vůbec</form>
 <tag>
 <AM lemma="vůbec" src="orig">Db-------------</AM>
-<AM lemma="vůbec" src="auto" recommended="1">TT-------------</AM>
+<AM lemma="vůbec" src="auto" recommended="1" selected="1">TT-------------</AM>
 </tag>
 </m>
 <m id="m-ln95045-019-p3s6w11">
@@ -1886,7 +1889,10 @@
 <LM>w#w-ln95045-019-p3s7w2</LM>
 </w.rf>
 <form>Diskuse</form>
-<tag lemma="diskuse" src="orig" selected="1">NNFP4-----A----</tag>
+<tag>
+<AM lemma="diskuse" src="orig">NNFP4-----A----</AM>
+<AM lemma="diskuse_,s_^(^DD**diskuze)" src="manual" selected="1">NNFP4-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95045-019-p3s7w3">
 <src.rf>manual</src.rf>
@@ -2864,7 +2870,10 @@
 <LM>w#w-ln95045-019-p6s1w8</LM>
 </w.rf>
 <form>Hynek</form>
-<tag lemma="Hynek_;Y" src="orig" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Hynek_;Y" src="orig">NNMS1-----A----</AM>
+<AM lemma="Hynek_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95045-019-p6s1w9">
 <src.rf>manual</src.rf>
@@ -2888,7 +2897,10 @@
 <LM>w#w-ln95045-019-p6s1w11</LM>
 </w.rf>
 <form>Kr</form>
-<tag lemma="Králové_:B_;G" src="orig" selected="1">NNFS2-----A---8</tag>
+<tag>
+<AM lemma="Králové_:B_;G" src="orig">NNFS2-----A---8</AM>
+<AM lemma="Králové_;G" src="manual" selected="1">NNFS2-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln95045-019-p6s1w12">
 <src.rf>manual</src.rf>
@@ -3115,6 +3127,7 @@
 <tag>
 <AM lemma="FK_:B_;K_^(Fotbalový_klub)" src="orig">NNIXX-----A---8</AM>
 <AM lemma="FK_:B" src="auto" recommended="1">NNXXX-----A---8</AM>
+<AM lemma="FK-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95045-019-p6s1w40">

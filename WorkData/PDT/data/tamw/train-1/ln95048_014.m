@@ -77,6 +77,8 @@
 <AM lemma="realita" src="auto">NNFP5-----A----</AM>
 <AM lemma="realita" src="auto">NNFS2-----A----</AM>
 <AM lemma="reality_,t" src="auto">XX-------------</AM>
+<AM lemma="reality_,t" src="manual">NNXXX-----A----</AM>
+<AM lemma="Reality-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-ln95048-014-p2s1w5">
@@ -85,7 +87,10 @@
 <LM>w#w-ln95048-014-p2s1w5</LM>
 </w.rf>
 <form>Bites</form>
-<tag lemma="bite_,t" src="orig" selected="1">NNIPX-----A----</tag>
+<tag>
+<AM lemma="bite_,t" src="orig">NNIPX-----A----</AM>
+<AM lemma="Bites-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln95048-014-p2s1w6">
 <src.rf>manual</src.rf>
@@ -104,6 +109,7 @@
 <tag>
 <AM lemma="USA_;G" src="orig">NNIPX-----A----</AM>
 <AM lemma="USA_:B_;K_,t_^(United_States_of_America)" src="auto" recommended="1">NNIPX-----A---8</AM>
+<AM lemma="USA_:B_;K_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95048-014-p2s1w8">
@@ -378,7 +384,10 @@
 <LM>w#w-ln95048-014-p2s2w25</LM>
 </w.rf>
 <form>X</form>
-<tag lemma="x-3_^(označení_pomocí_písmene)" src="orig" selected="1">NNNXX-----A----</tag>
+<tag>
+<AM lemma="x-3_^(označení_pomocí_písmene)" src="orig">NNNXX-----A----</AM>
+<AM lemma="X-33_^(označení_pomocí_písmene)" src="manual" selected="1">NNNXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95048-014-p2s2w26">
 <src.rf>manual</src.rf>
@@ -428,7 +437,10 @@
 <LM>w#w-ln95048-014-p2s3w4</LM>
 </w.rf>
 <form>Winona</form>
-<tag lemma="Winona_;G" src="orig" selected="1">NNFS1-----A----</tag>
+<tag>
+<AM lemma="Winona_;G" src="orig">NNFS1-----A----</AM>
+<AM lemma="Winona_;G_;Y" src="manual" selected="1">NNFS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95048-014-p2s3w5">
 <src.rf>manual</src.rf>
@@ -470,7 +482,10 @@
 <LM>w#w-ln95048-014-p2s4w3</LM>
 </w.rf>
 <form>ČR</form>
-<tag lemma="ČR-1_:B_;G_^(Česká_republika)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95048-014-p2s4w4">
 <src.rf>manual</src.rf>
@@ -494,7 +509,10 @@
 <LM>w#w-ln95048-014-p2s4w6</LM>
 </w.rf>
 <form>Classic</form>
-<tag lemma="Classic_;K_,t" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="Classic_;K_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="Classic-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln95048-014-p2s4w7">
 <src.rf>manual</src.rf>
@@ -502,7 +520,10 @@
 <LM>w#w-ln95048-014-p2s4w7</LM>
 </w.rf>
 <form>Entertainment</form>
-<tag lemma="Entertainment_;K_,t" src="orig" selected="1">NNIXX-----A----</tag>
+<tag>
+<AM lemma="Entertainment_;K_,t" src="orig">NNIXX-----A----</AM>
+<AM lemma="Entertainment-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln95048-014-p2s4w8">
 <src.rf>manual</src.rf>

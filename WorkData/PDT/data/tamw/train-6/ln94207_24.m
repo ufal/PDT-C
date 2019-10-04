@@ -59,7 +59,10 @@
 <LM>w#w-ln94207-24-p1s1Aw6</LM>
 </w.rf>
 <form>CSU</form>
-<tag lemma="CSU-1_:B_;K_;p_,t_^(Christianisch-Soziale_Union)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="CSU-1_:B_;K_;p_,t_^(Christianisch-Soziale_Union)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="CSU-1_:B_;K_^(Christianisch-Soziale_Union)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94207-24-p1s1Aw7">
 <src.rf>manual</src.rf>

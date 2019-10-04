@@ -184,6 +184,7 @@
 <tag>
 <AM lemma="USA_;G" src="orig">NNIPX-----A----</AM>
 <AM lemma="USA_:B_;K_,t_^(United_States_of_America)" src="auto" recommended="1">NNIPX-----A---8</AM>
+<AM lemma="USA_:B_;K_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920922-024-p2s1w17">
@@ -200,7 +201,10 @@
 <LM>w#w-mf920922-024-p2s1w18</LM>
 </w.rf>
 <form>resp</form>
-<tag lemma="respektive_:B" src="auto" selected="1">Db------------8</tag>
+<tag>
+<AM lemma="respektive_:B" src="auto">Db------------8</AM>
+<AM lemma="respektive" src="manual" selected="1">Db------------8</AM>
+</tag>
 </m>
 <m id="m-mf920922-024-p2s1w19">
 <src.rf>manual</src.rf>
@@ -580,7 +584,10 @@
 <LM>w#w-mf920922-024-p2s3w25</LM>
 </w.rf>
 <form>FS</form>
-<tag lemma="FS_:B_;K_^(Federální_shromáždění)" src="orig" selected="1">NNNXX-----A---8</tag>
+<tag>
+<AM lemma="FS_:B_;K_^(Federální_shromáždění)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="FS-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920922-024-p2s3w26">
 <src.rf>manual</src.rf>
@@ -784,7 +791,10 @@
 <LM>w#w-mf920922-024-p3s1w13</LM>
 </w.rf>
 <form>kuchyň</form>
-<tag lemma="kuchyně" src="orig" selected="1">NNFS1-----A----</tag>
+<tag>
+<AM lemma="kuchyně" src="orig" selected="1">NNFS1-----A----</AM>
+<AM lemma="kuchyň_,s_^(^DD**kuchyně)" src="manual">NNFS1-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920922-024-p3s1w14">
 <src.rf>manual</src.rf>
@@ -898,7 +908,7 @@
 <form>nejen</form>
 <tag>
 <AM lemma="nejen" src="orig">TT-------------</AM>
-<AM lemma="nejen" src="auto" recommended="1">Db-------------</AM>
+<AM lemma="nejen" src="auto" recommended="1" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m-mf920922-024-p3s1w28">
@@ -947,7 +957,10 @@
 <LM>w#w-mf920922-024-p3s1w33</LM>
 </w.rf>
 <form>FS</form>
-<tag lemma="FS_:B_;K_^(Federální_shromáždění)" src="orig" selected="1">NNNXX-----A---8</tag>
+<tag>
+<AM lemma="FS_:B_;K_^(Federální_shromáždění)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="FS-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920922-024-p3s1w34">
 <src.rf>manual</src.rf>
@@ -1175,7 +1188,10 @@
 <LM>w#w-mf920922-024-p3s3w14</LM>
 </w.rf>
 <form>FS</form>
-<tag lemma="FS_:B_;K_^(Federální_shromáždění)" src="orig" selected="1">NNNXX-----A---8</tag>
+<tag>
+<AM lemma="FS_:B_;K_^(Federální_shromáždění)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="FS-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920922-024-p3s3w15">
 <src.rf>manual</src.rf>
@@ -1260,7 +1276,7 @@
 <tag>
 <AM lemma="přesto" src="orig">Dg-------1A----</AM>
 <AM lemma="přesto-1" src="auto" recommended="1">Db-------------</AM>
-<AM lemma="přesto-2" src="auto">J^-------------</AM>
+<AM lemma="přesto-2" src="auto" selected="1">J^-------------</AM>
 </tag>
 </m>
 <m id="m-mf920922-024-p3s4w2">
@@ -1375,7 +1391,10 @@
 <LM>w#w-mf920922-024-p3s5w9</LM>
 </w.rf>
 <form>FS</form>
-<tag lemma="FS_:B_;K_^(Federální_shromáždění)" src="orig" selected="1">NNNXX-----A---8</tag>
+<tag>
+<AM lemma="FS_:B_;K_^(Federální_shromáždění)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="FS-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920922-024-p3s5w10">
 <src.rf>manual</src.rf>
@@ -1479,7 +1498,10 @@
 <LM>w#w-mf920922-024-p3s5w22</LM>
 </w.rf>
 <form>apod</form>
-<tag lemma="apod_:B_^(a_podobně)" src="auto" selected="1">Db------------8</tag>
+<tag>
+<AM lemma="apod_:B_^(a_podobně)" src="auto">Db------------8</AM>
+<AM lemma="apod_:B_^(a_podobně)" src="manual" selected="1">Db-------------</AM>
+</tag>
 </m>
 <m id="m-mf920922-024-p3s5w23">
 <src.rf>manual</src.rf>

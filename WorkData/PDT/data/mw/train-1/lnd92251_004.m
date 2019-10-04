@@ -121,7 +121,10 @@
 <LM>w#w-lnd92251-004-p3s2w6</LM>
 </w.rf>
 <form>přijal</form>
-<tag lemma="přijmout" src="auto" selected="1">VpYS---XR-AA---</tag>
+<tag>
+<AM lemma="přijmout" src="auto">VpYS---XR-AA---</AM>
+<AM lemma="přijmout_:W" src="manual" selected="1">VpYS---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-lnd92251-004-p3s2w7">
 <src.rf>manual</src.rf>
@@ -259,7 +262,10 @@
 <LM>w#w-lnd92251-004-p3s3w2</LM>
 </w.rf>
 <form>řekl</form>
-<tag lemma="říci" src="auto" selected="1">VpYS---XR-AA---</tag>
+<tag>
+<AM lemma="říci" src="auto">VpYS---XR-AA---</AM>
+<AM lemma="říci_:W" src="manual" selected="1">VpYS---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-lnd92251-004-p3s3w3">
 <src.rf>manual</src.rf>
@@ -493,7 +499,10 @@
 <LM>w#w-lnd92251-004-p3s4w6</LM>
 </w.rf>
 <form>přijmout</form>
-<tag lemma="přijmout" src="auto" selected="1">Vf--------A----</tag>
+<tag>
+<AM lemma="přijmout" src="auto">Vf--------A----</AM>
+<AM lemma="přijmout_:W" src="manual" selected="1">Vf--------A----</AM>
+</tag>
 </m>
 <m id="m-lnd92251-004-p3s4w7">
 <src.rf>manual</src.rf>
@@ -511,7 +520,7 @@
 <form>kdykoli</form>
 <tag>
 <AM lemma="kdykoliv" src="orig">Db------------1</AM>
-<AM lemma="kdykoli" src="auto" recommended="1">Db-------------</AM>
+<AM lemma="kdykoli" src="auto" recommended="1" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m-lnd92251-004-p3s4w9">
@@ -764,7 +773,11 @@
 <LM>w#w-lnd92251-004-p3s6w11</LM>
 </w.rf>
 <form>antisemitismu</form>
-<tag lemma="antisemitismus" src="orig" selected="1">NNIS3-----A----</tag>
+<tag>
+<AM lemma="antisemitismus" src="orig">NNIS3-----A----</AM>
+<AM lemma="antisemitismus_,s_^(^DD*antisemitizmus)" src="manual">NNIS2-----A----</AM>
+<AM lemma="antisemitismus_,s_^(^DD**antisemitizmus)" src="manual" selected="1">NNIS2-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92251-004-p3s6w12">
 <src.rf>manual</src.rf>
@@ -782,7 +795,10 @@
 <LM>w#w-lnd92251-004-p3s7w1</LM>
 </w.rf>
 <form>Řekl</form>
-<tag lemma="říci" src="auto" selected="1">VpYS---XR-AA---</tag>
+<tag>
+<AM lemma="říci" src="auto">VpYS---XR-AA---</AM>
+<AM lemma="říci_:W" src="manual" selected="1">VpYS---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-lnd92251-004-p3s7w2">
 <src.rf>manual</src.rf>
@@ -838,7 +854,10 @@
 <LM>w#w-lnd92251-004-p3s7w8</LM>
 </w.rf>
 <form>antisemitismus</form>
-<tag lemma="antisemitismus" src="orig" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="antisemitismus" src="orig">NNIS1-----A----</AM>
+<AM lemma="antisemitismus_,s_^(^DD**antisemitizmus)" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92251-004-p3s7w9">
 <src.rf>manual</src.rf>
@@ -878,7 +897,10 @@
 <LM>w#w-lnd92251-004-p3s7w13</LM>
 </w.rf>
 <form>přijmout</form>
-<tag lemma="přijmout" src="auto" selected="1">Vf--------A----</tag>
+<tag>
+<AM lemma="přijmout" src="auto">Vf--------A----</AM>
+<AM lemma="přijmout_:W" src="manual" selected="1">Vf--------A----</AM>
+</tag>
 </m>
 <m id="m-lnd92251-004-p3s7w14">
 <src.rf>manual</src.rf>

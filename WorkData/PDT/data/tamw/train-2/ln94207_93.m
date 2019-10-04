@@ -117,7 +117,10 @@
 <LM>w#w-ln94207-93-p4s1w1</LM>
 </w.rf>
 <form>Říci</form>
-<tag lemma="říci" src="auto" selected="1">Vf--------A---1</tag>
+<tag>
+<AM lemma="říci" src="auto">Vf--------A---1</AM>
+<AM lemma="říci_:W" src="manual" selected="1">Vf--------A---1</AM>
+</tag>
 </m>
 <m id="m-ln94207-93-p4s1w2">
 <src.rf>manual</src.rf>
@@ -463,7 +466,10 @@
 <LM>w#w-ln94207-93-p11s1w3</LM>
 </w.rf>
 <form>Bocca</form>
-<tag lemma="Bocca_;R_,t" src="orig" selected="1">NNFXX-----A----</tag>
+<tag>
+<AM lemma="Bocca_;R_,t" src="orig">NNFXX-----A----</AM>
+<AM lemma="Bocca-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94207-93-p11s1w4">
 <src.rf>manual</src.rf>
@@ -471,7 +477,10 @@
 <LM>w#w-ln94207-93-p11s1w4</LM>
 </w.rf>
 <form>della</form>
-<tag lemma="della_;R_,t_^(it.,_ve_jménech,_př._della_Rebia)" src="auto" selected="1">RR--X----------</tag>
+<tag>
+<AM lemma="della_;R_,t_^(it.,_ve_jménech,_př._della_Rebia)" src="auto">RR--X----------</AM>
+<AM lemma="della-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94207-93-p11s1w5">
 <src.rf>manual</src.rf>
@@ -479,7 +488,10 @@
 <LM>w#w-ln94207-93-p11s1w5</LM>
 </w.rf>
 <form>veritá</form>
-<tag lemma="veritá_;R_,t" src="orig" selected="1">NNFXX-----A----</tag>
+<tag>
+<AM lemma="veritá_;R_,t" src="orig">NNFXX-----A----</AM>
+<AM lemma="veritá-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94207-93-p11s1w6">
 <src.rf>manual</src.rf>
@@ -545,7 +557,10 @@
 <LM>w#w-ln94207-93-p11s2w4</LM>
 </w.rf>
 <form>str</form>
-<tag lemma="strana-4_:B" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="strana-4_:B" src="orig">NNFXX-----A---8</AM>
+<AM lemma="strana-4" src="manual" selected="1">NNFXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln94207-93-p11s2w5">
 <src.rf>manual</src.rf>

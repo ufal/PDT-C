@@ -240,7 +240,7 @@
 <AM lemma="mnohamiliardový" src="auto">AAIP1----1A---6</AM>
 <AM lemma="mnohamiliardový" src="auto">AAIP4----1A---6</AM>
 <AM lemma="mnohamiliardový" src="auto">AAIP5----1A---6</AM>
-<AM lemma="mnohamiliardový" src="auto" recommended="1">AAIS1----1A----</AM>
+<AM lemma="mnohamiliardový" src="auto" recommended="1" selected="1">AAIS1----1A----</AM>
 <AM lemma="mnohamiliardový" src="auto">AAIS4----1A----</AM>
 <AM lemma="mnohamiliardový" src="auto">AAIS5----1A----</AM>
 <AM lemma="mnohamiliardový" src="auto">AAMP1----1A---6</AM>
@@ -679,6 +679,7 @@
 <tag>
 <AM lemma="USA_;G" src="orig">NNIPX-----A----</AM>
 <AM lemma="USA_:B_;K_,t_^(United_States_of_America)" src="auto" recommended="1">NNIPX-----A---8</AM>
+<AM lemma="USA_:B_;K_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-mf930701-153-p2s4w3">

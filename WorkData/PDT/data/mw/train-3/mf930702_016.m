@@ -93,7 +93,10 @@
 <LM>w#w-mf930702-016-p2s1w3</LM>
 </w.rf>
 <form>vin</form>
-<tag lemma="vina" src="orig" selected="1">NNFP2-----A----</tag>
+<tag>
+<AM lemma="vina" src="orig">NNFP2-----A----</AM>
+<AM lemma="vin-99_:B_;S" src="manual" selected="1">NNNXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930702-016-p2s1w4">
 <src.rf>manual</src.rf>
@@ -245,7 +248,10 @@
 <LM>w#w-mf930702-016-p2s1w22</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-2" src="auto" selected="1">Dg-------2A----</tag>
+<tag>
+<AM lemma="hodně-2" src="auto">Dg-------2A----</AM>
+<AM lemma="hodně-3" src="manual" selected="1">Dg-------2A----</AM>
+</tag>
 </m>
 <m id="m-mf930702-016-p2s1w23">
 <src.rf>manual</src.rf>
@@ -264,7 +270,7 @@
 <tag>
 <AM lemma="tedy" src="orig">Db-------------</AM>
 <AM lemma="tedy-1" src="auto">TT-------------</AM>
-<AM lemma="tedy-2" src="auto" recommended="1">J^-------------</AM>
+<AM lemma="tedy-2" src="auto" recommended="1" selected="1">J^-------------</AM>
 </tag>
 </m>
 <m id="m-mf930702-016-p2s1w25">
@@ -566,6 +572,7 @@
 <AM lemma="LED_:B_;c_,t_^(light_emitting_diode)" src="auto" recommended="1">NNFXX-----A---8</AM>
 <AM lemma="led" src="auto">NNIS1-----A----</AM>
 <AM lemma="led" src="auto">NNIS4-----A----</AM>
+<AM lemma="LED-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-mf930702-016-p2s5w6">
@@ -757,6 +764,7 @@
 <AM lemma="LED_:B_;c_,t_^(light_emitting_diode)" src="auto">NNFXX-----A---8</AM>
 <AM lemma="led" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="led" src="auto">NNIS4-----A----</AM>
+<AM lemma="LED-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-mf930702-016-p2s6w3">
@@ -951,7 +959,10 @@
 <LM>w#w-mf930702-016-p2s7w7</LM>
 </w.rf>
 <form>ani</form>
-<tag lemma="ani-1" src="auto" selected="1">J^-------------</tag>
+<tag>
+<AM lemma="ani-1" src="auto">J^-------------</AM>
+<AM lemma="ani-2" src="manual" selected="1">TT-------------</AM>
+</tag>
 </m>
 <m id="m-mf930702-016-p2s7w8">
 <src.rf>manual</src.rf>

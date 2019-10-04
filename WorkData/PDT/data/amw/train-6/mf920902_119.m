@@ -212,6 +212,7 @@
 <AM lemma="Mitsubishi_;K" src="auto">NNXXX-----A----</AM>
 <AM lemma="mitsubishi_;R" src="auto" recommended="1">NNNXX-----A----</AM>
 <AM lemma="mitsubishi_;R_^(vozidlo)" src="auto">NNXXX-----A----</AM>
+<AM lemma="Mitsubishi_;K_;R" src="manual" selected="1">NNNXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920902-119-p2s2w17">
@@ -467,6 +468,7 @@
 <AM lemma="ARO_:B_;U_^(anesteziologicko-resuscitační_oddělení)" src="auto" recommended="1">NNNXX-----A---8</AM>
 <AM lemma="Ara_;K_^(obchod,_firma,_továrna)" src="auto">NNFS5-----A----</AM>
 <AM lemma="ara_,l" src="auto">NNMS5-----A----</AM>
+<AM lemma="ARO-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-mf920902-119-p2s3w14">
@@ -517,7 +519,10 @@
 <LM>w#w-mf920902-119-p2s4w2</LM>
 </w.rf>
 <form>sice</form>
-<tag lemma="sice-2" src="auto" selected="1">Db-------------</tag>
+<tag>
+<AM lemma="sice-2" src="auto">Db-------------</AM>
+<AM lemma="sice-1_^(spojka;_připouští_se_určitá_fakta)" src="manual" selected="1">J^-------------</AM>
+</tag>
 </m>
 <m id="m-mf920902-119-p2s4w3">
 <src.rf>manual</src.rf>

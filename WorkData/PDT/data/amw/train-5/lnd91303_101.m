@@ -595,6 +595,7 @@
 <AM lemma="Pele_;S" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Pele_;S" src="auto">NNMS5-----A----</AM>
 <AM lemma="pel" src="auto">NNIS5-----A----</AM>
+<AM lemma="pele" src="manual" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m-lnd91303-101-p5s1w2">
@@ -616,6 +617,7 @@
 <AM lemma="mela" src="auto">NNFS3-----A----</AM>
 <AM lemma="mela" src="auto">NNFS6-----A----</AM>
 <AM lemma="mlít" src="auto" recommended="1">VB-S---3P-AA---</AM>
+<AM lemma="mele" src="manual" selected="1">Db-------------</AM>
 </tag>
 </m>
 </s>
@@ -944,7 +946,10 @@
 <LM>w#w-lnd91303-101-p8s1w7</LM>
 </w.rf>
 <form>ANES</form>
-<tag lemma="ANES_:B_;m" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="ANES_:B_;m" src="orig">NNXXX-----A---8</AM>
+<AM lemma="ANES-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd91303-101-p8s1w8">
 <src.rf>manual</src.rf>
@@ -1207,6 +1212,7 @@
 <tag>
 <AM lemma="Garmish_:B_;G" src="orig">NNIXX-----A---8</AM>
 <AM lemma="galium_:B_;H" src="auto" recommended="1">NNNXX-----A---8</AM>
+<AM lemma="Ga-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-lnd91303-101-p10s1w29">
@@ -1226,6 +1232,7 @@
 <tag>
 <AM lemma="Partenkirchen_:B_;G" src="orig">NNNXX-----A---8</AM>
 <AM lemma="pa" src="auto" recommended="1">II-------------</AM>
+<AM lemma="Pa-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-lnd91303-101-p10s1w31">
@@ -1375,6 +1382,7 @@
 <tag>
 <AM lemma="Garmish_:B_;G" src="orig">NNIXX-----A---8</AM>
 <AM lemma="galium_:B_;H" src="auto" recommended="1">NNNXX-----A---8</AM>
+<AM lemma="Ga-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-lnd91303-101-p10s3w18">
@@ -1394,6 +1402,7 @@
 <tag>
 <AM lemma="Partenkirchen_:B_;G" src="orig">NNNXX-----A---8</AM>
 <AM lemma="pa" src="auto" recommended="1">II-------------</AM>
+<AM lemma="Pa-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-lnd91303-101-p10s3w20">

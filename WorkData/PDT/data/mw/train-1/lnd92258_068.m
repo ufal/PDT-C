@@ -19,7 +19,10 @@
 <LM>w#w-lnd92258-068-p1s1w1</LM>
 </w.rf>
 <form>B</form>
-<tag lemma="B-0_:B_;Y" src="orig" selected="1">NNMXX-----A---8</tag>
+<tag>
+<AM lemma="B-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
+<AM lemma="B-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd92258-068-p1s1w2">
 <src.rf>manual</src.rf>
@@ -925,7 +928,10 @@
 <LM>w#w-lnd92258-068-p4s5w12</LM>
 </w.rf>
 <form>OMON</form>
-<tag lemma="OMON_:B_;K" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="OMON_:B_;K" src="orig">NNXXX-----A---8</AM>
+<AM lemma="OMON-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd92258-068-p4s5w13">
 <src.rf>manual</src.rf>
@@ -1079,7 +1085,10 @@
 <LM>w#w-lnd92258-068-p4s6w3</LM>
 </w.rf>
 <form>jen</form>
-<tag lemma="jen-1" src="auto" selected="1">TT-------------</tag>
+<tag>
+<AM lemma="jen-1" src="auto">TT-------------</AM>
+<AM lemma="jen-4_^(pouze)" src="manual" selected="1">Db-------------</AM>
+</tag>
 </m>
 <m id="m-lnd92258-068-p4s6w4">
 <src.rf>manual</src.rf>

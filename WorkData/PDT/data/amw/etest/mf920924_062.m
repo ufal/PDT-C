@@ -240,6 +240,8 @@
 <tag>
 <AM lemma="Drop_;K_,t" src="orig">NNIS1-----A----</AM>
 <AM lemma="drop_;L" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="drop-2_,t" src="manual">NNXXX-----A----</AM>
+<AM lemma="Drop-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-mf920924-062-p1s2w12">
@@ -253,6 +255,7 @@
 <AM lemma="Ina_;G" src="auto">NNFP2-----A----</AM>
 <AM lemma="in-1_,t_^(angl._v)" src="auto" recommended="1">RR--X----------</AM>
 <AM lemma="in-2_,h_,t" src="auto">AAXXX----1A----</AM>
+<AM lemma="In-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-mf920924-062-p1s2w13">
@@ -333,7 +336,10 @@
 <LM>w#w-mf920924-062-p1s2w22</LM>
 </w.rf>
 <form>stavět</form>
-<tag lemma="stavět" src="auto" selected="1">Vf--------A----</tag>
+<tag>
+<AM lemma="stavět" src="auto">Vf--------A----</AM>
+<AM lemma="stavět_:T" src="manual" selected="1">Vf--------A----</AM>
+</tag>
 </m>
 <m id="m-mf920924-062-p1s2w23">
 <src.rf>manual</src.rf>

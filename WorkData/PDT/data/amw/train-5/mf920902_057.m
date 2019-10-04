@@ -19,7 +19,10 @@
 <LM>w#w-mf920902-057-p1s1w1</LM>
 </w.rf>
 <form>kursovní</form>
-<tag lemma="kursovní" src="orig" selected="1">AAIS1----1A----</tag>
+<tag>
+<AM lemma="kursovní" src="orig">AAIS1----1A----</AM>
+<AM lemma="kursovní_,s_^(^DD**kurzovní)" src="manual" selected="1">AAIS1----1A----</AM>
+</tag>
 </m>
 <m id="m-mf920902-057-p1s1w2">
 <src.rf>manual</src.rf>

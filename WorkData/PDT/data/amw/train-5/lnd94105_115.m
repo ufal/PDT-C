@@ -35,7 +35,10 @@
 <LM>w#w-lnd94105-115-p1s1w3</LM>
 </w.rf>
 <form>Královopolské</form>
-<tag lemma="královopolský" src="orig" selected="1">AAFS2----1A----</tag>
+<tag>
+<AM lemma="královopolský" src="orig">AAFS2----1A----</AM>
+<AM lemma="Královopolská_;G_;K" src="manual" selected="1">NNFS2-----A----</AM>
+</tag>
 </m>
 </s>
 <s id="m-lnd94105-115-p1s2">
@@ -87,7 +90,10 @@
 <LM>w#w-lnd94105-115-p1s3w4</LM>
 </w.rf>
 <form>Královopolské</form>
-<tag lemma="královopolský" src="orig" selected="1">AAFS2----1A----</tag>
+<tag>
+<AM lemma="královopolský" src="orig">AAFS2----1A----</AM>
+<AM lemma="Královopolská_;G_;K" src="manual" selected="1">NNFS2-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd94105-115-p1s3w5">
 <src.rf>manual</src.rf>
@@ -167,7 +173,10 @@
 <LM>w#w-lnd94105-115-p1s3w14</LM>
 </w.rf>
 <form>sezoně</form>
-<tag lemma="sezona" src="orig" selected="1">NNFS6-----A----</tag>
+<tag>
+<AM lemma="sezona" src="orig">NNFS6-----A----</AM>
+<AM lemma="sezona_,s_^(^DD**sezóna)" src="manual" selected="1">NNFS6-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd94105-115-p1s3w15">
 <src.rf>manual</src.rf>
@@ -346,7 +355,10 @@
 <LM>w#w-lnd94105-115-p1s4w5</LM>
 </w.rf>
 <form>sezoně</form>
-<tag lemma="sezona" src="orig" selected="1">NNFS6-----A----</tag>
+<tag>
+<AM lemma="sezona" src="orig">NNFS6-----A----</AM>
+<AM lemma="sezona_,s_^(^DD**sezóna)" src="manual" selected="1">NNFS6-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd94105-115-p1s4w6">
 <src.rf>manual</src.rf>
@@ -518,7 +530,10 @@
 <LM>w#w-lnd94105-115-p1s6w1</LM>
 </w.rf>
 <form>Královopolská</form>
-<tag lemma="královopolský" src="orig" selected="1">AAFS1----1A----</tag>
+<tag>
+<AM lemma="královopolský" src="orig">AAFS1----1A----</AM>
+<AM lemma="Královopolská_;G_;K" src="manual" selected="1">NNFS1-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd94105-115-p1s6w2">
 <src.rf>manual</src.rf>
@@ -569,6 +584,7 @@
 <tag>
 <AM lemma="RH_:B_;K" src="orig">NNXXX-----A---8</AM>
 <AM lemma="rhodium_:B_;H" src="auto" recommended="1">NNNXX-----A---8</AM>
+<AM lemma="RH-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-lnd94105-115-p1s6w8">

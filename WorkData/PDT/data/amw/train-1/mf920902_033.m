@@ -661,7 +661,10 @@
 <LM>w#w-mf920902-033-p2s5w10</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-2" src="auto" selected="1">Dg-------2A----</tag>
+<tag>
+<AM lemma="hodně-2" src="auto">Dg-------2A----</AM>
+<AM lemma="hodně-3" src="manual" selected="1">Dg-------2A----</AM>
+</tag>
 </m>
 <m id="m-mf920902-033-p2s5w11">
 <src.rf>manual</src.rf>
@@ -799,7 +802,10 @@
 <LM>w#w-mf920902-033-p2s6w13</LM>
 </w.rf>
 <form>vydané</form>
-<tag lemma="vydaný-1_^(emitovat:_cenné_papíry,_knihu,_zvuk,...)_(*4t-1)" src="orig" selected="1">AAFP4----1A----</tag>
+<tag>
+<AM lemma="vydaný-1_^(emitovat:_cenné_papíry,_knihu,_zvuk,...)_(*4t-1)" src="orig">AAFP4----1A----</AM>
+<AM lemma="vydaný_^(*2t)" src="manual" selected="1">AAFP4----1A----</AM>
+</tag>
 </m>
 <m id="m-mf920902-033-p2s6w14">
 <src.rf>manual</src.rf>
@@ -889,7 +895,7 @@
 <form>raději</form>
 <tag>
 <AM lemma="raději" src="orig">Dg-------2A----</AM>
-<AM lemma="rád" src="auto" recommended="1">Dg-------2A----</AM>
+<AM lemma="rád" src="auto" recommended="1" selected="1">Dg-------2A----</AM>
 </tag>
 </m>
 <m id="m-mf920902-033-p2s6w25">
@@ -898,7 +904,10 @@
 <LM>w#w-mf920902-033-p2s6w25</LM>
 </w.rf>
 <form>píše</form>
-<tag lemma="psát" src="auto" selected="1">VB-S---3P-AA---</tag>
+<tag>
+<AM lemma="psát" src="auto">VB-S---3P-AA---</AM>
+<AM lemma="psát_:T" src="manual" selected="1">VB-S---3P-AA---</AM>
+</tag>
 </m>
 <m id="m-mf920902-033-p2s6w26">
 <src.rf>manual</src.rf>
@@ -1336,7 +1345,10 @@
 <LM>w#w-mf920902-033-p2s9w6</LM>
 </w.rf>
 <form>vydalo</form>
-<tag lemma="vydat-1_:W_^(emitovat:_cenné_papíry,_knihu,_zvuk,...)" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag>
+<AM lemma="vydat-1_:W_^(emitovat:_cenné_papíry,_knihu,_zvuk,...)" src="orig">VpNS---XR-AA---</AM>
+<AM lemma="vydat_:W" src="manual" selected="1">VpNS---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-mf920902-033-p2s9w7">
 <src.rf>manual</src.rf>
@@ -1362,7 +1374,7 @@
 <form>Volvox</form>
 <tag>
 <AM lemma="Volvox_;K" src="orig">AAXXX----1A----</AM>
-<AM lemma="Volvox_;K_^(nakl_Volvox_Globator)" src="auto" recommended="1">NNIS1-----A----</AM>
+<AM lemma="Volvox_;K_^(nakl_Volvox_Globator)" src="auto" recommended="1" selected="1">NNIS1-----A----</AM>
 <AM lemma="Volvox_;K_^(nakl_Volvox_Globator)" src="auto">NNIS4-----A----</AM>
 </tag>
 </m>
@@ -1566,7 +1578,10 @@
 <LM>w#w-mf920902-033-p2s10w9</LM>
 </w.rf>
 <form>spíše</form>
-<tag lemma="spíše" src="orig" selected="1">Dg-------2A---1</tag>
+<tag>
+<AM lemma="spíše" src="orig">Dg-------2A---1</AM>
+<AM lemma="spíš" src="manual" selected="1">TT------------1</AM>
+</tag>
 </m>
 <m id="m-mf920902-033-p2s10w10">
 <src.rf>manual</src.rf>
@@ -1694,7 +1709,10 @@
 <LM>w#w-mf920902-033-p2s10w25</LM>
 </w.rf>
 <form>stát</form>
-<tag lemma="stát-2_^(něco_se_přihodilo)" src="orig" selected="1">Vf--------A----</tag>
+<tag>
+<AM lemma="stát-2_^(něco_se_přihodilo)" src="orig">Vf--------A----</AM>
+<AM lemma="stát-2_^(stanu_staneš)" src="manual" selected="1">Vf--------A----</AM>
+</tag>
 </m>
 <m id="m-mf920902-033-p2s10w26">
 <src.rf>manual</src.rf>
@@ -2278,7 +2296,7 @@
 <form>ovšem</form>
 <tag>
 <AM lemma="ovšem-1_^(avšak,_však;_odporovací_spojka)" src="orig">J^-------------</AM>
-<AM lemma="ovšem" src="auto" recommended="1">TT-------------</AM>
+<AM lemma="ovšem" src="auto" recommended="1" selected="1">TT-------------</AM>
 </tag>
 </m>
 <m id="m-mf920902-033-p2s13w9">
@@ -2433,7 +2451,10 @@
 <LM>w#w-mf920902-033-p2s14w2</LM>
 </w.rf>
 <form>píše</form>
-<tag lemma="psát" src="auto" selected="1">VB-S---3P-AA---</tag>
+<tag>
+<AM lemma="psát" src="auto">VB-S---3P-AA---</AM>
+<AM lemma="psát_:T" src="manual" selected="1">VB-S---3P-AA---</AM>
+</tag>
 </m>
 <m id="m-mf920902-033-p2s14w3">
 <src.rf>manual</src.rf>
@@ -2585,7 +2606,10 @@
 <LM>w#w-mf920902-033-p2s14w21</LM>
 </w.rf>
 <form>Holuba</form>
-<tag lemma="holub" src="orig" selected="1">NNMS2-----A----</tag>
+<tag>
+<AM lemma="holub" src="orig">NNMS2-----A----</AM>
+<AM lemma="Holub_;S" src="manual" selected="1">NNMS2-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920902-033-p2s14w22">
 <src.rf>manual</src.rf>
@@ -2947,7 +2971,10 @@
 <LM>w#w-mf920902-033-p2s15w29</LM>
 </w.rf>
 <form>spíš</form>
-<tag lemma="spíše" src="orig" selected="1">Dg-------2A----</tag>
+<tag>
+<AM lemma="spíše" src="orig">Dg-------2A----</AM>
+<AM lemma="spíš" src="manual" selected="1">TT-------------</AM>
+</tag>
 </m>
 <m id="m-mf920902-033-p2s15w30">
 <src.rf>manual</src.rf>
@@ -2987,7 +3014,10 @@
 <LM>w#w-mf920902-033-p2s15w34</LM>
 </w.rf>
 <form>hraje</form>
-<tag lemma="hrát" src="auto" selected="1">VB-S---3P-AA---</tag>
+<tag>
+<AM lemma="hrát" src="auto">VB-S---3P-AA---</AM>
+<AM lemma="hrát_:T" src="manual" selected="1">VB-S---3P-AA---</AM>
+</tag>
 </m>
 <m id="m-mf920902-033-p2s15w35">
 <src.rf>manual</src.rf>
@@ -3065,7 +3095,7 @@
 <form>Přesto</form>
 <tag>
 <AM lemma="přesto" src="orig">Dg-------1A----</AM>
-<AM lemma="přesto-1" src="auto" recommended="1">Db-------------</AM>
+<AM lemma="přesto-1" src="auto" recommended="1" selected="1">Db-------------</AM>
 <AM lemma="přesto-2" src="auto">J^-------------</AM>
 </tag>
 </m>

@@ -191,7 +191,10 @@
 <LM>w#w-ln94204-153-p2s2w4</LM>
 </w.rf>
 <form>The</form>
-<tag lemma="the-1_,t_^(obv._souč._anglických_názvů,_urč._člen)" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="the-1_,t_^(obv._souč._anglických_názvů,_urč._člen)" src="orig">AAXXX----1A----</AM>
+<AM lemma="The-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94204-153-p2s2w5">
 <src.rf>manual</src.rf>
@@ -199,7 +202,10 @@
 <LM>w#w-ln94204-153-p2s2w5</LM>
 </w.rf>
 <form>Czech</form>
-<tag lemma="Czech-2_,t" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="Czech-2_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="Czech-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94204-153-p2s2w6">
 <src.rf>manual</src.rf>
@@ -207,7 +213,10 @@
 <LM>w#w-ln94204-153-p2s2w6</LM>
 </w.rf>
 <form>Republic</form>
-<tag lemma="Republic_;K_,t" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="Republic_;K_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="Republic-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94204-153-p2s2w7">
 <src.rf>manual</src.rf>
@@ -215,7 +224,10 @@
 <LM>w#w-ln94204-153-p2s2w7</LM>
 </w.rf>
 <form>Fund</form>
-<tag lemma="Fund_;K_,t" src="orig" selected="1">NNIXX-----A----</tag>
+<tag>
+<AM lemma="Fund_;K_,t" src="orig">NNIXX-----A----</AM>
+<AM lemma="Fund-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94204-153-p2s2w8">
 <src.rf>manual</src.rf>
@@ -235,6 +247,7 @@
 <AM lemma="Inc_:B_;K_,t_^(Incorporated)" src="orig">AAXXX----1A---8</AM>
 <AM lemma="Incorporated_:B_,t" src="auto">TT------------8</AM>
 <AM lemma="incisit_:B" src="auto" recommended="1">NNIXX-----A---8</AM>
+<AM lemma="Inc-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-ln94204-153-p2s2w10">
@@ -407,7 +420,10 @@
 <LM>w#w-ln94204-153-p3s2w1</LM>
 </w.rf>
 <form>Uvedl</form>
-<tag lemma="uvést" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag>
+<AM lemma="uvést" src="orig">VpYS---XR-AA---</AM>
+<AM lemma="uvést_:W" src="manual" selected="1">VpYS---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-ln94204-153-p3s2w2">
 <src.rf>manual</src.rf>
@@ -521,7 +537,10 @@
 <LM>w#w-ln94204-153-p4s1w9</LM>
 </w.rf>
 <form>kuponové</form>
-<tag lemma="kuponový" src="orig" selected="1">AAFS2----1A----</tag>
+<tag>
+<AM lemma="kuponový" src="orig">AAFS2----1A----</AM>
+<AM lemma="kuponový_,s_^(^DD**kupónový)" src="manual" selected="1">AAFS2----1A----</AM>
+</tag>
 </m>
 <m id="m-ln94204-153-p4s1w10">
 <src.rf>manual</src.rf>
@@ -651,7 +670,10 @@
 <LM>w#w-ln94204-153-p4s2w9</LM>
 </w.rf>
 <form>kuponové</form>
-<tag lemma="kuponový" src="orig" selected="1">AAFS2----1A----</tag>
+<tag>
+<AM lemma="kuponový" src="orig">AAFS2----1A----</AM>
+<AM lemma="kuponový_,s_^(^DD**kupónový)" src="manual" selected="1">AAFS2----1A----</AM>
+</tag>
 </m>
 <m id="m-ln94204-153-p4s2w10">
 <src.rf>manual</src.rf>
@@ -797,7 +819,10 @@
 <LM>w#w-ln94204-153-p4s3w4</LM>
 </w.rf>
 <form>vzrostl</form>
-<tag lemma="vzrůst-1" src="auto" selected="1">VpYS---XR-AA---</tag>
+<tag>
+<AM lemma="vzrůst-1" src="auto">VpYS---XR-AA---</AM>
+<AM lemma="vzrůst-1_:W" src="manual" selected="1">VpYS---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-ln94204-153-p4s3w5">
 <src.rf>manual</src.rf>

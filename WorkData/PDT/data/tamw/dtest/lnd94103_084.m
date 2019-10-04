@@ -27,7 +27,10 @@
 <LM>w#w-lnd94103-084-p1s1w2</LM>
 </w.rf>
 <form>začne</form>
-<tag lemma="začít-1_^(začnout)" src="auto" selected="1">VB-S---3P-AA---</tag>
+<tag>
+<AM lemma="začít-1_^(začnout)" src="auto">VB-S---3P-AA---</AM>
+<AM lemma="začít-1_:W_^(začnout)" src="manual" selected="1">VB-S---3P-AA---</AM>
+</tag>
 </m>
 <m id="m-lnd94103-084-p1s1w3">
 <src.rf>manual</src.rf>
@@ -151,7 +154,10 @@
 <LM>w#w-lnd94103-084-p1s3w10</LM>
 </w.rf>
 <form>začne</form>
-<tag lemma="začít-1_^(začnout)" src="auto" selected="1">VB-S---3P-AA---</tag>
+<tag>
+<AM lemma="začít-1_^(začnout)" src="auto">VB-S---3P-AA---</AM>
+<AM lemma="začít-1_:W_^(začnout)" src="manual" selected="1">VB-S---3P-AA---</AM>
+</tag>
 </m>
 <m id="m-lnd94103-084-p1s3w11">
 <src.rf>manual</src.rf>
@@ -233,7 +239,10 @@
 <LM>w#w-lnd94103-084-p1s4w2</LM>
 </w.rf>
 <form>uvedl</form>
-<tag lemma="uvést" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag>
+<AM lemma="uvést" src="orig">VpYS---XR-AA---</AM>
+<AM lemma="uvést_:W" src="manual" selected="1">VpYS---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-lnd94103-084-p1s4w3">
 <src.rf>manual</src.rf>
@@ -436,7 +445,7 @@
 <form>hektolitrů</form>
 <tag>
 <AM lemma="hl-1`hektolitr" src="orig">NNIP2-----A----</AM>
-<AM lemma="hektolitr" src="auto" recommended="1">NNIP2-----A----</AM>
+<AM lemma="hektolitr" src="auto" recommended="1" selected="1">NNIP2-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94103-084-p1s4w28">
@@ -679,7 +688,10 @@
 <LM>w#w-lnd94103-084-p1s5w29</LM>
 </w.rf>
 <form>řekl</form>
-<tag lemma="říci" src="auto" selected="1">VpYS---XR-AA---</tag>
+<tag>
+<AM lemma="říci" src="auto">VpYS---XR-AA---</AM>
+<AM lemma="říci_:W" src="manual" selected="1">VpYS---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-lnd94103-084-p1s5w30">
 <src.rf>manual</src.rf>
@@ -687,7 +699,10 @@
 <LM>w#w-lnd94103-084-p1s5w30</LM>
 </w.rf>
 <form>T</form>
-<tag lemma="T-0_:B_;Y" src="orig" selected="1">NNMXX-----A---8</tag>
+<tag>
+<AM lemma="T-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
+<AM lemma="T-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd94103-084-p1s5w31">
 <src.rf>manual</src.rf>
@@ -974,7 +989,7 @@
 <form>litru</form>
 <tag>
 <AM lemma="l-1`litr" src="orig">NNIS2-----A----</AM>
-<AM lemma="litr" src="auto" recommended="1">NNIS2-----A----</AM>
+<AM lemma="litr" src="auto" recommended="1" selected="1">NNIS2-----A----</AM>
 <AM lemma="litr" src="auto">NNIS3-----A----</AM>
 <AM lemma="litr" src="auto">NNIS6-----A----</AM>
 </tag>

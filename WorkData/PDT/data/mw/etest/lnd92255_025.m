@@ -19,7 +19,10 @@
 <LM>w#w-lnd92255-025-p1s1w1</LM>
 </w.rf>
 <form>Optimismus</form>
-<tag lemma="optimismus" src="orig" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="optimismus" src="orig">NNIS1-----A----</AM>
+<AM lemma="optimismus_,s_^(^DD**optimizmus)" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92255-025-p1s1w2">
 <src.rf>manual</src.rf>
@@ -53,7 +56,10 @@
 <LM>w#w-lnd92255-025-p2s1w3</LM>
 </w.rf>
 <form>for</form>
-<tag lemma="fórum" src="orig" selected="1">NNNP2-----A----</tag>
+<tag>
+<AM lemma="fórum" src="orig">NNNP2-----A----</AM>
+<AM lemma="for-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92255-025-p2s1w4">
 <src.rf>manual</src.rf>
@@ -111,7 +117,10 @@
 <LM>w#w-lnd92255-025-p2s2w5</LM>
 </w.rf>
 <form>nedávno</form>
-<tag lemma="nedávno-1" src="auto" selected="1">Db-------------</tag>
+<tag>
+<AM lemma="nedávno-1" src="auto">Db-------------</AM>
+<AM lemma="dávno-1" src="manual" selected="1">Dg-------1N----</AM>
+</tag>
 </m>
 <m id="m-lnd92255-025-p2s2w6">
 <src.rf>manual</src.rf>

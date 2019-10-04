@@ -19,7 +19,10 @@
 <LM>w#w-ln94206-120-p1s1w1</LM>
 </w.rf>
 <form>Streetball</form>
-<tag lemma="streetball_;w_,t" src="auto" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="streetball_;w_,t" src="auto">NNIS1-----A----</AM>
+<AM lemma="streetball" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94206-120-p1s1w2">
 <src.rf>manual</src.rf>
@@ -61,7 +64,10 @@
 <LM>w#w-ln94206-120-p2s1Aw3</LM>
 </w.rf>
 <form>šc</form>
-<tag lemma="šc-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="šc-99_:B_;S" src="orig">NNXXX-----A---8</AM>
+<AM lemma="šc-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94206-120-p2s1Aw4">
 <src.rf>manual</src.rf>
@@ -318,6 +324,7 @@
 <AM lemma="streetball_;w_,t" src="auto">NNIS2-----A----</AM>
 <AM lemma="streetball_;w_,t" src="auto">NNIS3-----A----</AM>
 <AM lemma="streetball_;w_,t" src="auto" recommended="1">NNIS6-----A---1</AM>
+<AM lemma="streetball" src="manual" selected="1">NNIS6-----A---1</AM>
 </tag>
 </m>
 <m id="m-ln94206-120-p2s2w7">
@@ -505,6 +512,7 @@
 <tag>
 <AM lemma="USA_;G" src="orig">NNIPX-----A----</AM>
 <AM lemma="USA_:B_;K_,t_^(United_States_of_America)" src="auto" recommended="1">NNIPX-----A---8</AM>
+<AM lemma="USA_:B_;K_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94206-120-p2s2w30">
@@ -587,7 +595,10 @@
 <LM>w#w-ln94206-120-p2s3w9</LM>
 </w.rf>
 <form>C</form>
-<tag lemma="c-3_^(označení_pomocí_písmene)" src="orig" selected="1">NNNXX-----A----</tag>
+<tag>
+<AM lemma="c-3_^(označení_pomocí_písmene)" src="orig">NNNXX-----A----</AM>
+<AM lemma="C-33_^(označení_pomocí_písmene)" src="manual" selected="1">NNNXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94206-120-p2s3w10">
 <src.rf>manual</src.rf>

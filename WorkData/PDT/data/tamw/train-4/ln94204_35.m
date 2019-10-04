@@ -93,7 +93,10 @@
 <LM>w#w-ln94204-35-p2s1Aw6</LM>
 </w.rf>
 <form>ČR</form>
-<tag lemma="ČR-1_:B_;G_^(Česká_republika)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94204-35-p2s1Aw7">
 <src.rf>manual</src.rf>
@@ -117,7 +120,10 @@
 <LM>w#w-ln94204-35-p2s1Aw9</LM>
 </w.rf>
 <form>L</form>
-<tag lemma="l-3_^(označení_pomocí_písmene)" src="orig" selected="1">NNNXX-----A----</tag>
+<tag>
+<AM lemma="l-3_^(označení_pomocí_písmene)" src="orig">NNNXX-----A----</AM>
+<AM lemma="L-33_^(označení_pomocí_písmene)" src="manual" selected="1">NNNXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94204-35-p2s1Aw10">
 <src.rf>manual</src.rf>
@@ -183,7 +189,10 @@
 <LM>w#w-ln94204-35-p2s1Bw3</LM>
 </w.rf>
 <form>gag</form>
-<tag lemma="gag-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="gag-99_:B_;S" src="orig">NNXXX-----A---8</AM>
+<AM lemma="gag-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94204-35-p2s1Bw4">
 <src.rf>manual</src.rf>
@@ -313,7 +322,10 @@
 <LM>w#w-ln94204-35-p2s1Cw14</LM>
 </w.rf>
 <form>Eagle</form>
-<tag lemma="Eagle_;K_,t" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="Eagle_;K_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="Eagle-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94204-35-p2s1Cw15">
 <src.rf>manual</src.rf>
@@ -321,7 +333,10 @@
 <LM>w#w-ln94204-35-p2s1Cw15</LM>
 </w.rf>
 <form>Group</form>
-<tag lemma="Group-1_;K_,t_^(obv._souč._názvu_firem,_&quot;skupina&quot;)" src="orig" selected="1">NNFXX-----A----</tag>
+<tag>
+<AM lemma="Group-1_;K_,t_^(obv._souč._názvu_firem,_&quot;skupina&quot;)" src="orig">NNFXX-----A----</AM>
+<AM lemma="Group-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94204-35-p2s1Cw16">
 <src.rf>manual</src.rf>
@@ -395,7 +410,10 @@
 <LM>w#w-ln94204-35-p2s2w3</LM>
 </w.rf>
 <form>vybrat</form>
-<tag lemma="vybrat" src="orig" selected="1">Vf--------A----</tag>
+<tag>
+<AM lemma="vybrat" src="orig">Vf--------A----</AM>
+<AM lemma="vybrat_:W" src="manual" selected="1">Vf--------A----</AM>
+</tag>
 </m>
 <m id="m-ln94204-35-p2s2w4">
 <src.rf>manual</src.rf>
@@ -565,7 +583,10 @@
 <LM>w#w-ln94204-35-p3s1w13</LM>
 </w.rf>
 <form>Elbit</form>
-<tag lemma="Elbit_;K_,t" src="orig" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="Elbit_;K_,t" src="orig">NNIS1-----A----</AM>
+<AM lemma="Elbit_;K" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94204-35-p3s1w14">
 <src.rf>manual</src.rf>
@@ -597,7 +618,10 @@
 <LM>w#w-ln94204-35-p3s1w17</LM>
 </w.rf>
 <form>právě</form>
-<tag lemma="právě-1" src="auto" selected="1">Db-------------</tag>
+<tag>
+<AM lemma="právě-1" src="auto">Db-------------</AM>
+<AM lemma="právě-2" src="manual" selected="1">TT-------------</AM>
+</tag>
 </m>
 <m id="m-ln94204-35-p3s1w18">
 <src.rf>manual</src.rf>
@@ -637,7 +661,10 @@
 <LM>w#w-ln94204-35-p3s1w22</LM>
 </w.rf>
 <form>ČR</form>
-<tag lemma="ČR-1_:B_;G_^(Česká_republika)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94204-35-p3s1w23">
 <src.rf>manual</src.rf>
@@ -661,7 +688,10 @@
 <LM>w#w-ln94204-35-p3s1w25</LM>
 </w.rf>
 <form>Eagle</form>
-<tag lemma="Eagle_;K_,t" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="Eagle_;K_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="Eagle-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94204-35-p3s1w26">
 <src.rf>manual</src.rf>
@@ -669,7 +699,10 @@
 <LM>w#w-ln94204-35-p3s1w26</LM>
 </w.rf>
 <form>Group</form>
-<tag lemma="Group-1_;K_,t_^(obv._souč._názvu_firem,_&quot;skupina&quot;)" src="orig" selected="1">NNFXX-----A----</tag>
+<tag>
+<AM lemma="Group-1_;K_,t_^(obv._souč._názvu_firem,_&quot;skupina&quot;)" src="orig">NNFXX-----A----</AM>
+<AM lemma="Group-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94204-35-p3s1w27">
 <src.rf>manual</src.rf>
@@ -757,7 +790,10 @@
 <LM>w#w-ln94204-35-p3s1w37</LM>
 </w.rf>
 <form>L</form>
-<tag lemma="l-3_^(označení_pomocí_písmene)" src="orig" selected="1">NNNXX-----A----</tag>
+<tag>
+<AM lemma="l-3_^(označení_pomocí_písmene)" src="orig">NNNXX-----A----</AM>
+<AM lemma="L-33_^(označení_pomocí_písmene)" src="manual" selected="1">NNNXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94204-35-p3s1w38">
 <src.rf>manual</src.rf>
@@ -951,7 +987,10 @@
 <LM>w#w-ln94204-35-p3s2w13</LM>
 </w.rf>
 <form>L</form>
-<tag lemma="l-3_^(označení_pomocí_písmene)" src="orig" selected="1">NNNXX-----A----</tag>
+<tag>
+<AM lemma="l-3_^(označení_pomocí_písmene)" src="orig">NNNXX-----A----</AM>
+<AM lemma="L-33_^(označení_pomocí_písmene)" src="manual" selected="1">NNNXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94204-35-p3s2w14">
 <src.rf>manual</src.rf>
@@ -1011,7 +1050,7 @@
 <form>ovšem</form>
 <tag>
 <AM lemma="ovšem-1_^(avšak,_však;_odporovací_spojka)" src="orig">J^-------------</AM>
-<AM lemma="ovšem" src="auto" recommended="1">TT-------------</AM>
+<AM lemma="ovšem" src="auto" recommended="1" selected="1">TT-------------</AM>
 </tag>
 </m>
 <m id="m-ln94204-35-p3s3w3">
@@ -1068,7 +1107,10 @@
 <LM>w#w-ln94204-35-p3s3w9</LM>
 </w.rf>
 <form>Elbit</form>
-<tag lemma="Elbit_;K_,t" src="orig" selected="1">NNIS4-----A----</tag>
+<tag>
+<AM lemma="Elbit_;K_,t" src="orig">NNIS4-----A----</AM>
+<AM lemma="Elbit_;K" src="manual" selected="1">NNIS4-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94204-35-p3s3w10">
 <src.rf>manual</src.rf>
@@ -1198,7 +1240,10 @@
 <LM>w#w-ln94204-35-p4s1w14</LM>
 </w.rf>
 <form>přišel</form>
-<tag lemma="přijít" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag>
+<AM lemma="přijít" src="orig">VpYS---XR-AA---</AM>
+<AM lemma="přijít_:W" src="manual" selected="1">VpYS---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-ln94204-35-p4s1w15">
 <src.rf>manual</src.rf>
@@ -1288,7 +1333,10 @@
 <LM>w#w-ln94204-35-p4s2w1</LM>
 </w.rf>
 <form>Elbit</form>
-<tag lemma="Elbit_;K_,t" src="orig" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="Elbit_;K_,t" src="orig">NNIS1-----A----</AM>
+<AM lemma="Elbit_;K" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94204-35-p4s2w2">
 <src.rf>manual</src.rf>
@@ -1304,7 +1352,10 @@
 <LM>w#w-ln94204-35-p4s2w3</LM>
 </w.rf>
 <form>vypomohl</form>
-<tag lemma="vypomoci" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag>
+<AM lemma="vypomoci" src="orig">VpYS---XR-AA---</AM>
+<AM lemma="vypomoci_:W" src="manual" selected="1">VpYS---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-ln94204-35-p4s2w4">
 <src.rf>manual</src.rf>
@@ -1435,7 +1486,10 @@
 <LM>w#w-ln94204-35-p4s3w10</LM>
 </w.rf>
 <form>milionu</form>
-<tag lemma="milión`1000000" src="orig" selected="1">NNIS2-----A----</tag>
+<tag>
+<AM lemma="milión`1000000" src="orig">NNIS2-----A----</AM>
+<AM lemma="milion`1000000_,s_^(^DD**milión)" src="manual" selected="1">NNIS2-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94204-35-p4s3w11">
 <src.rf>manual</src.rf>
@@ -1443,7 +1497,10 @@
 <LM>w#w-ln94204-35-p4s3w11</LM>
 </w.rf>
 <form>dolarů</form>
-<tag lemma="dolar_;b" src="orig" selected="1">NNIP2-----A----</tag>
+<tag>
+<AM lemma="dolar_;b" src="orig">NNIP2-----A----</AM>
+<AM lemma="dolar" src="manual" selected="1">NNIP2-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94204-35-p4s3w12">
 <src.rf>manual</src.rf>
@@ -1539,7 +1596,11 @@
 <LM>w#w-ln94204-35-p4s3w23</LM>
 </w.rf>
 <form>milionů</form>
-<tag lemma="milión`1000000" src="orig" selected="1">NNIP2-----A----</tag>
+<tag>
+<AM lemma="milión`1000000" src="orig">NNIP2-----A----</AM>
+<AM lemma="milion`1000000_,s" src="manual">_^(^DD**milión)</AM>
+<AM lemma="milion`1000000_,s_^(^DD**milión)" src="manual" selected="1">NNIP2-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94204-35-p4s3w24">
 <src.rf>manual</src.rf>
@@ -1855,7 +1916,10 @@
 <LM>w#w-ln94204-35-p4s5w23</LM>
 </w.rf>
 <form>vybrán</form>
-<tag lemma="vybrat" src="orig" selected="1">VsYS---XX-AP---</tag>
+<tag>
+<AM lemma="vybrat" src="orig">VsYS---XX-AP---</AM>
+<AM lemma="vybrat_:W" src="manual" selected="1">VsYS---XX-AP---</AM>
+</tag>
 </m>
 <m id="m-ln94204-35-p4s5w24">
 <src.rf>manual</src.rf>
@@ -1911,7 +1975,10 @@
 <LM>w#w-ln94204-35-p4s5w30</LM>
 </w.rf>
 <form>L</form>
-<tag lemma="l-3_^(označení_pomocí_písmene)" src="orig" selected="1">NNNXX-----A----</tag>
+<tag>
+<AM lemma="l-3_^(označení_pomocí_písmene)" src="orig">NNNXX-----A----</AM>
+<AM lemma="L-33_^(označení_pomocí_písmene)" src="manual" selected="1">NNNXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94204-35-p4s5w31">
 <src.rf>manual</src.rf>
@@ -2089,7 +2156,10 @@
 <LM>w#w-ln94204-35-p4s6w19</LM>
 </w.rf>
 <form>Elbit</form>
-<tag lemma="Elbit_;K_,t" src="orig" selected="1">NNIS4-----A----</tag>
+<tag>
+<AM lemma="Elbit_;K_,t" src="orig">NNIS4-----A----</AM>
+<AM lemma="Elbit_;K" src="manual" selected="1">NNIS4-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94204-35-p4s6w20">
 <src.rf>manual</src.rf>
@@ -2187,7 +2257,10 @@
 <LM>w#w-ln94204-35-p4s7w11</LM>
 </w.rf>
 <form>Elbitu</form>
-<tag lemma="Elbit_;K_,t" src="orig" selected="1">NNIS2-----A----</tag>
+<tag>
+<AM lemma="Elbit_;K_,t" src="orig">NNIS2-----A----</AM>
+<AM lemma="Elbit_;K" src="manual" selected="1">NNIS2-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94204-35-p4s7w12">
 <src.rf>manual</src.rf>
@@ -2283,7 +2356,10 @@
 <LM>w#w-ln94204-35-p4s7w23</LM>
 </w.rf>
 <form>NATO</form>
-<tag lemma="NATO_:B_;K_^(North_Atlantic_Treaty_Organization)" src="auto" selected="1">NNNXX-----A---8</tag>
+<tag>
+<AM lemma="NATO_:B_;K_^(North_Atlantic_Treaty_Organization)" src="auto">NNNXX-----A---8</AM>
+<AM lemma="NATO_:B_;K_^(North_Atlantic_Treaty_Organization)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94204-35-p4s7w24">
 <src.rf>manual</src.rf>
@@ -2383,6 +2459,8 @@
 <AM lemma="North-2_;K_,t" src="orig">AAXXX----1A----</AM>
 <AM lemma="North-1_;S" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="north_,t" src="auto">XX-------------</AM>
+<AM lemma="North_,t" src="manual">AAXXX----1A----</AM>
+<AM lemma="North-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-ln94204-35-p4s7w36">
@@ -2391,7 +2469,10 @@
 <LM>w#w-ln94204-35-p4s7w36</LM>
 </w.rf>
 <form>American</form>
-<tag lemma="American-1_;K_,t_^(souč._názvů,_např._A._Airlines)" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="American-1_;K_,t_^(souč._názvů,_např._A._Airlines)" src="orig">AAXXX----1A----</AM>
+<AM lemma="American-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94204-35-p4s7w37">
 <src.rf>manual</src.rf>
@@ -2399,7 +2480,10 @@
 <LM>w#w-ln94204-35-p4s7w37</LM>
 </w.rf>
 <form>Rockwell</form>
-<tag lemma="Rockwell_;G" src="orig" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="Rockwell_;G" src="orig">NNIS1-----A----</AM>
+<AM lemma="Rockwell-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94204-35-p4s7w38">
 <src.rf>manual</src.rf>
@@ -2415,7 +2499,10 @@
 <LM>w#w-ln94204-35-p4s7w39</LM>
 </w.rf>
 <form>AlliedSignal</form>
-<tag lemma="AlliedSignal_;K_,t" src="orig" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="AlliedSignal_;K_,t" src="orig">NNIS1-----A----</AM>
+<AM lemma="AlliedSignal-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94204-35-p4s7w40">
 <src.rf>manual</src.rf>
@@ -2479,7 +2566,10 @@
 <LM>w#w-ln94204-35-p4s7w47</LM>
 </w.rf>
 <form>L</form>
-<tag lemma="l-3_^(označení_pomocí_písmene)" src="orig" selected="1">NNNXX-----A----</tag>
+<tag>
+<AM lemma="l-3_^(označení_pomocí_písmene)" src="orig">NNNXX-----A----</AM>
+<AM lemma="L-33_^(označení_pomocí_písmene)" src="manual" selected="1">NNNXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94204-35-p4s7w48">
 <src.rf>manual</src.rf>
@@ -2705,7 +2795,10 @@
 <LM>w#w-ln94204-35-p4s8w23</LM>
 </w.rf>
 <form>milionů</form>
-<tag lemma="milión`1000000" src="orig" selected="1">NNIP2-----A----</tag>
+<tag>
+<AM lemma="milión`1000000" src="orig">NNIP2-----A----</AM>
+<AM lemma="milion`1000000_,s_^(^DD**milión)" src="manual" selected="1">NNIP2-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94204-35-p4s8w24">
 <src.rf>manual</src.rf>
@@ -2721,7 +2814,10 @@
 <LM>w#w-ln94204-35-p4s8w25</LM>
 </w.rf>
 <form>nedošlo</form>
-<tag lemma="dojít" src="orig" selected="1">VpNS---XR-NA---</tag>
+<tag>
+<AM lemma="dojít" src="orig">VpNS---XR-NA---</AM>
+<AM lemma="dojít_:W" src="manual" selected="1">VpNS---XR-NA---</AM>
+</tag>
 </m>
 <m id="m-ln94204-35-p4s8w26">
 <src.rf>manual</src.rf>
@@ -2827,7 +2923,10 @@
 <LM>w#w-ln94204-35-p4s9w7</LM>
 </w.rf>
 <form>Elbit</form>
-<tag lemma="Elbit_;K_,t" src="orig" selected="1">NNIS4-----A----</tag>
+<tag>
+<AM lemma="Elbit_;K_,t" src="orig">NNIS4-----A----</AM>
+<AM lemma="Elbit_;K" src="manual" selected="1">NNIS4-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94204-35-p4s9w8">
 <src.rf>manual</src.rf>
@@ -2907,7 +3006,10 @@
 <LM>w#w-ln94204-35-p4s9w17</LM>
 </w.rf>
 <form>ČR</form>
-<tag lemma="ČR-1_:B_;G_^(Česká_republika)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94204-35-p4s9w18">
 <src.rf>manual</src.rf>
@@ -2947,7 +3049,10 @@
 <LM>w#w-ln94204-35-p4s9w22</LM>
 </w.rf>
 <form>L</form>
-<tag lemma="l-3_^(označení_pomocí_písmene)" src="orig" selected="1">NNNXX-----A----</tag>
+<tag>
+<AM lemma="l-3_^(označení_pomocí_písmene)" src="orig">NNNXX-----A----</AM>
+<AM lemma="L-33_^(označení_pomocí_písmene)" src="manual" selected="1">NNNXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94204-35-p4s9w23">
 <src.rf>manual</src.rf>
@@ -3151,7 +3256,10 @@
 <LM>w#w-ln94204-35-p5s1w13</LM>
 </w.rf>
 <form>M</form>
-<tag lemma="M-0_:B_;Y" src="orig" selected="1">NNMXX-----A---8</tag>
+<tag>
+<AM lemma="M-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
+<AM lemma="M-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94204-35-p5s1w14">
 <src.rf>manual</src.rf>

@@ -72,7 +72,7 @@
 </w.rf>
 <form>hoj</form>
 <tag>
-<AM lemma="hoj-99_:B_;S" src="orig">NNXXX-----A---8</AM>
+<AM lemma="hoj-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</AM>
 <AM lemma="hoj" src="auto" recommended="1">II-------------</AM>
 <AM lemma="hojit_:T" src="auto">Vi-S---2--A----</AM>
 <AM lemma="hojit_:T" src="auto">Vi-S---3--A---4</AM>
@@ -290,7 +290,10 @@
 <LM>w#w-lnd92251-021-p3s3w5</LM>
 </w.rf>
 <form>ČSD</form>
-<tag lemma="ČSD-1_:B_;K_^(Čs._státní_dráhy)" src="orig" selected="1">NNFPX-----A---8</tag>
+<tag>
+<AM lemma="ČSD-1_:B_;K_^(Čs._státní_dráhy)" src="orig">NNFPX-----A---8</AM>
+<AM lemma="ČSD-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd92251-021-p3s3w6">
 <src.rf>manual</src.rf>
@@ -574,7 +577,10 @@
 <LM>w#w-lnd92251-021-p3s5w6</LM>
 </w.rf>
 <form>ČSD</form>
-<tag lemma="ČSD-1_:B_;K_^(Čs._státní_dráhy)" src="orig" selected="1">NNFPX-----A---8</tag>
+<tag>
+<AM lemma="ČSD-1_:B_;K_^(Čs._státní_dráhy)" src="orig">NNFPX-----A---8</AM>
+<AM lemma="ČSD-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd92251-021-p3s5w7">
 <src.rf>manual</src.rf>
@@ -598,7 +604,10 @@
 <LM>w#w-lnd92251-021-p3s5w9</LM>
 </w.rf>
 <form>ing</form>
-<tag lemma="Ing-1_:B_^(inženýr)" src="orig" selected="1">NNMXX-----A---8</tag>
+<tag>
+<AM lemma="Ing-1_:B_^(inženýr)" src="orig">NNMXX-----A---8</AM>
+<AM lemma="ing_:B_^(inženýr)" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd92251-021-p3s5w10">
 <src.rf>manual</src.rf>
@@ -622,7 +631,10 @@
 <LM>w#w-lnd92251-021-p3s5w12</LM>
 </w.rf>
 <form>Ivana</form>
-<tag lemma="Ivan_;Y" src="orig" selected="1">NNMS2-----A----</tag>
+<tag>
+<AM lemma="Ivan_;Y" src="orig">NNMS2-----A----</AM>
+<AM lemma="Ivan_;S_;Y" src="manual" selected="1">NNMS2-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92251-021-p3s5w13">
 <src.rf>manual</src.rf>

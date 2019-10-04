@@ -19,7 +19,10 @@
 <LM>w#w-lnd91303-097-p1s1w1</LM>
 </w.rf>
 <form>Oscar</form>
-<tag lemma="Oscar_;Y" src="orig" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Oscar_;Y" src="orig">NNMS1-----A----</AM>
+<AM lemma="Oscar-2_;R" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd91303-097-p1s1w2">
 <src.rf>manual</src.rf>
@@ -101,7 +104,10 @@
 <LM>w#w-lnd91303-097-p2s1w8</LM>
 </w.rf>
 <form>Oscara</form>
-<tag lemma="Oscar_;Y" src="orig" selected="1">NNMS4-----A----</tag>
+<tag>
+<AM lemma="Oscar_;Y" src="orig">NNMS4-----A----</AM>
+<AM lemma="Oscar-2_;R" src="manual" selected="1">NNIS4-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd91303-097-p2s1w9">
 <src.rf>manual</src.rf>
@@ -237,7 +243,10 @@
 <LM>w#w-lnd91303-097-p2s1w25</LM>
 </w.rf>
 <form>Gazzetta</form>
-<tag lemma="Gazzetta_;R_,t" src="orig" selected="1">NNFS1-----A----</tag>
+<tag>
+<AM lemma="Gazzetta_;R_,t" src="orig">NNFS1-----A----</AM>
+<AM lemma="Gazzetta-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-lnd91303-097-p2s1w26">
 <src.rf>manual</src.rf>
@@ -245,7 +254,10 @@
 <LM>w#w-lnd91303-097-p2s1w26</LM>
 </w.rf>
 <form>dello</form>
-<tag lemma="dello_,t" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="dello_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="dello-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-lnd91303-097-p2s1w27">
 <src.rf>manual</src.rf>
@@ -253,7 +265,10 @@
 <LM>w#w-lnd91303-097-p2s1w27</LM>
 </w.rf>
 <form>Sport</form>
-<tag lemma="sport" src="orig" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="sport" src="orig">NNIS1-----A----</AM>
+<AM lemma="Sport-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-lnd91303-097-p2s1w28">
 <src.rf>manual</src.rf>

@@ -77,7 +77,10 @@
 <LM>w#w-mf930708-086-p2s1w3</LM>
 </w.rf>
 <form>jsl</form>
-<tag lemma="jsl-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="jsl-99_:B_;S" src="orig">NNXXX-----A---8</AM>
+<AM lemma="jsl-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930708-086-p2s1w4">
 <src.rf>manual</src.rf>
@@ -895,7 +898,10 @@
 <LM>w#w-mf930708-086-p2s6w33</LM>
 </w.rf>
 <form>řekl</form>
-<tag lemma="říci" src="auto" selected="1">VpYS---XR-AA---</tag>
+<tag>
+<AM lemma="říci" src="auto">VpYS---XR-AA---</AM>
+<AM lemma="říci_:W" src="manual" selected="1">VpYS---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-mf930708-086-p2s6w34">
 <src.rf>manual</src.rf>

@@ -43,7 +43,10 @@
 <LM>w#w-lnd92254-054-p1s1w4</LM>
 </w.rf>
 <form>Greenpeace</form>
-<tag lemma="greenpeace_;K_,t_^(ekologické_hnutí)" src="orig" selected="1">NNNXX-----A----</tag>
+<tag>
+<AM lemma="greenpeace_;K_,t_^(ekologické_hnutí)" src="orig">NNNXX-----A----</AM>
+<AM lemma="greenpeace_;K_^(ekologické_hnutí)" src="manual" selected="1">NNNXX-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92254-054-p1s1w5">
 <src.rf>manual</src.rf>
@@ -107,7 +110,10 @@
 <LM>w#w-lnd92254-054-p1s1w12</LM>
 </w.rf>
 <form>sice</form>
-<tag lemma="sice-2" src="auto" selected="1">Db-------------</tag>
+<tag>
+<AM lemma="sice-2" src="auto">Db-------------</AM>
+<AM lemma="sice-1_^(spojka;_připouští_se_určitá_fakta)" src="manual" selected="1">J^-------------</AM>
+</tag>
 </m>
 <m id="m-lnd92254-054-p1s1w13">
 <src.rf>manual</src.rf>
@@ -275,7 +281,10 @@
 <LM>w#w-lnd92254-054-p1s1w33</LM>
 </w.rf>
 <form>Greenpeace</form>
-<tag lemma="greenpeace_;K_,t_^(ekologické_hnutí)" src="orig" selected="1">NNNXX-----A----</tag>
+<tag>
+<AM lemma="greenpeace_;K_,t_^(ekologické_hnutí)" src="orig">NNNXX-----A----</AM>
+<AM lemma="greenpeace_;K_^(ekologické_hnutí)" src="manual" selected="1">NNNXX-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92254-054-p1s1w34">
 <src.rf>manual</src.rf>
@@ -365,7 +374,10 @@
 <LM>w#w-lnd92254-054-p1s2w8</LM>
 </w.rf>
 <form>Klaus</form>
-<tag lemma="Klaus_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Klaus_;S" src="orig">NNMS1-----A----</AM>
+<AM lemma="Klaus_;Y_;S" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92254-054-p1s2w9">
 <src.rf>manual</src.rf>
@@ -671,7 +683,10 @@
 <LM>w#w-lnd92254-054-p2s1w12</LM>
 </w.rf>
 <form>antisemitismu</form>
-<tag lemma="antisemitismus" src="orig" selected="1">NNIS2-----A----</tag>
+<tag>
+<AM lemma="antisemitismus" src="orig">NNIS2-----A----</AM>
+<AM lemma="antisemitismus_,s_^(^DD**antisemitizmus)" src="manual" selected="1">NNIS2-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92254-054-p2s1w13">
 <src.rf>manual</src.rf>
@@ -739,6 +754,7 @@
 <AM lemma="nacionalismus" src="orig">NNIS4-----A----</AM>
 <AM lemma="nacionalizmus" src="auto">NNIS1-----A----</AM>
 <AM lemma="nacionalizmus" src="auto" recommended="1">NNIS4-----A----</AM>
+<AM lemma="nacionalismus_,s_^(^DD**nacionalizmus)" src="manual" selected="1">NNIS4-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92254-054-p2s1w21">
@@ -1021,7 +1037,10 @@
 <LM>w#w-lnd92254-054-p2s2w32</LM>
 </w.rf>
 <form>antisemitismu</form>
-<tag lemma="antisemitismus" src="orig" selected="1">NNIS2-----A----</tag>
+<tag>
+<AM lemma="antisemitismus" src="orig">NNIS2-----A----</AM>
+<AM lemma="antisemitismus_,s_^(^DD*antisemitizmus)" src="manual" selected="1">NNIS2-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92254-054-p2s2w33">
 <src.rf>manual</src.rf>
@@ -1071,7 +1090,7 @@
 <form>kdekoli</form>
 <tag>
 <AM lemma="kdekoliv" src="orig">Db------------1</AM>
-<AM lemma="kdekoli" src="auto" recommended="1">Db-------------</AM>
+<AM lemma="kdekoli" src="auto" recommended="1" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m-lnd92254-054-p2s2w39">
@@ -1130,7 +1149,10 @@
 <LM>w#w-lnd92254-054-p3s1w6</LM>
 </w.rf>
 <form>G</form>
-<tag lemma="G-0_:B_;Y" src="orig" selected="1">NNMXX-----A---8</tag>
+<tag>
+<AM lemma="G-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
+<AM lemma="G-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd92254-054-p3s1w7">
 <src.rf>manual</src.rf>
@@ -1147,7 +1169,7 @@
 </w.rf>
 <form>Bulla</form>
 <tag>
-<AM lemma="Bull_;S" src="orig">NNMS2-----A----</AM>
+<AM lemma="Bull_;S" src="orig" selected="1">NNMS2-----A----</AM>
 <AM lemma="Bulla_;G" src="auto">NNFS1-----A----</AM>
 <AM lemma="Bulla_;S" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="bula_,a_,x" src="auto">NNFS1-----A----</AM>
@@ -1332,6 +1354,7 @@
 <tag>
 <AM lemma="USA_;G" src="orig">NNIPX-----A----</AM>
 <AM lemma="USA_:B_;K_,t_^(United_States_of_America)" src="auto" recommended="1">NNIPX-----A---8</AM>
+<AM lemma="USA_:B_;K_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-lnd92254-054-p3s2w7">
@@ -1340,7 +1363,10 @@
 <LM>w#w-lnd92254-054-p3s2w7</LM>
 </w.rf>
 <form>H</form>
-<tag lemma="H-0_:B_;Y" src="orig" selected="1">NNMXX-----A---8</tag>
+<tag>
+<AM lemma="H-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
+<AM lemma="H-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd92254-054-p3s2w8">
 <src.rf>manual</src.rf>
@@ -1356,7 +1382,10 @@
 <LM>w#w-lnd92254-054-p3s2w9</LM>
 </w.rf>
 <form>Gonzales</form>
-<tag lemma="Gonzales_;S_;Y" src="orig" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Gonzales_;S_;Y" src="orig">NNMS1-----A----</AM>
+<AM lemma="Gonzales_;Y_;S" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92254-054-p3s2w10">
 <src.rf>manual</src.rf>
@@ -1702,7 +1731,10 @@
 <LM>w#w-lnd92254-054-p4s1w10</LM>
 </w.rf>
 <form>OOP</form>
-<tag lemma="OOP-1_:B_;K_;p_^(Org._pro_osvobození_Palestiny)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="OOP-1_:B_;K_;p_^(Org._pro_osvobození_Palestiny)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="OOP-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd92254-054-p4s1w11">
 <src.rf>manual</src.rf>
@@ -1784,7 +1816,7 @@
 <form>zasáhly</form>
 <tag>
 <AM lemma="zasáhnout" src="orig">VpTP---XR-AA---</AM>
-<AM lemma="zasáhnout_:W" src="auto" recommended="1">VpTP---XR-AA--1</AM>
+<AM lemma="zasáhnout_:W" src="auto" recommended="1" selected="1">VpTP---XR-AA--1</AM>
 </tag>
 </m>
 <m id="m-lnd92254-054-p4s1w22">

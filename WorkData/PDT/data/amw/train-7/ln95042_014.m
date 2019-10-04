@@ -1115,7 +1115,7 @@
 <form>totiž</form>
 <tag>
 <AM lemma="totiž" src="orig">Db-------------</AM>
-<AM lemma="totiž-1" src="auto" recommended="1">J^-------------</AM>
+<AM lemma="totiž-1" src="auto" recommended="1" selected="1">J^-------------</AM>
 <AM lemma="totiž-2" src="auto">TT-------------</AM>
 </tag>
 </m>
@@ -1486,7 +1486,7 @@
 <AM lemma="Kristův-1_;S_^(*4-1)" src="auto">AUNS2M---------</AM>
 <AM lemma="Kristův-3_;Y_^(*4us-3)" src="auto">AUFS1M---------</AM>
 <AM lemma="Kristův-3_;Y_^(*4us-3)" src="auto">AUFS5M---------</AM>
-<AM lemma="Kristův-3_;Y_^(*4us-3)" src="auto" recommended="1">AUIS2M---------</AM>
+<AM lemma="Kristův-3_;Y_^(*4us-3)" src="auto" recommended="1" selected="1">AUIS2M---------</AM>
 <AM lemma="Kristův-3_;Y_^(*4us-3)" src="auto">AUMS2M---------</AM>
 <AM lemma="Kristův-3_;Y_^(*4us-3)" src="auto">AUMS4M---------</AM>
 <AM lemma="Kristův-3_;Y_^(*4us-3)" src="auto">AUNP1M---------</AM>
@@ -1673,7 +1673,7 @@
 <AM lemma="Kristův-1_;S_^(*4-1)" src="auto">AUIS5M---------</AM>
 <AM lemma="Kristův-1_;S_^(*4-1)" src="auto">AUMS1M---------</AM>
 <AM lemma="Kristův-1_;S_^(*4-1)" src="auto">AUMS5M---------</AM>
-<AM lemma="Kristův-3_;Y_^(*4us-3)" src="auto" recommended="1">AUIS1M---------</AM>
+<AM lemma="Kristův-3_;Y_^(*4us-3)" src="auto" recommended="1" selected="1">AUIS1M---------</AM>
 <AM lemma="Kristův-3_;Y_^(*4us-3)" src="auto">AUIS4M---------</AM>
 <AM lemma="Kristův-3_;Y_^(*4us-3)" src="auto">AUIS5M---------</AM>
 <AM lemma="Kristův-3_;Y_^(*4us-3)" src="auto">AUMS1M---------</AM>
@@ -1837,7 +1837,10 @@
 <LM>w#w-ln95042-014-p2s10w6</LM>
 </w.rf>
 <form>sakramentalismem</form>
-<tag lemma="sakramentalismus" src="orig" selected="1">NNIS7-----A----</tag>
+<tag>
+<AM lemma="sakramentalismus" src="orig">NNIS7-----A----</AM>
+<AM lemma="sakramentalismus_,s_^(^DD**sakramentalizmus)" src="manual" selected="1">NNIS7-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95042-014-p2s10w7">
 <src.rf>manual</src.rf>
@@ -1914,7 +1917,7 @@
 <AM lemma="Kristův-1_;S_^(*4-1)" src="auto">AUNS7M---------</AM>
 <AM lemma="Kristův-3_;Y_^(*4us-3)" src="auto">AUFP3M---------</AM>
 <AM lemma="Kristův-3_;Y_^(*4us-3)" src="auto">AUIP3M---------</AM>
-<AM lemma="Kristův-3_;Y_^(*4us-3)" src="auto" recommended="1">AUIS7M---------</AM>
+<AM lemma="Kristův-3_;Y_^(*4us-3)" src="auto" recommended="1" selected="1">AUIS7M---------</AM>
 <AM lemma="Kristův-3_;Y_^(*4us-3)" src="auto">AUMP3M---------</AM>
 <AM lemma="Kristův-3_;Y_^(*4us-3)" src="auto">AUMS7M---------</AM>
 <AM lemma="Kristův-3_;Y_^(*4us-3)" src="auto">AUNP3M---------</AM>
@@ -2651,7 +2654,7 @@
 <form>totiž</form>
 <tag>
 <AM lemma="totiž" src="orig">Db-------------</AM>
-<AM lemma="totiž-1" src="auto" recommended="1">J^-------------</AM>
+<AM lemma="totiž-1" src="auto" recommended="1" selected="1">J^-------------</AM>
 <AM lemma="totiž-2" src="auto">TT-------------</AM>
 </tag>
 </m>
@@ -2757,7 +2760,10 @@
 <LM>w#w-ln95042-014-p2s15w18</LM>
 </w.rf>
 <form>adventismus</form>
-<tag lemma="adventizmus_,x" src="orig" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="adventizmus_,x" src="orig">NNIS1-----A----</AM>
+<AM lemma="adventismus_,s_^(^DD**adventizmus)" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95042-014-p2s15w19">
 <src.rf>manual</src.rf>
@@ -2828,7 +2834,7 @@
 <AM lemma="Kristův-1_;S_^(*4-1)" src="auto">AUIS5M---------</AM>
 <AM lemma="Kristův-1_;S_^(*4-1)" src="auto">AUMS1M---------</AM>
 <AM lemma="Kristův-1_;S_^(*4-1)" src="auto">AUMS5M---------</AM>
-<AM lemma="Kristův-3_;Y_^(*4us-3)" src="auto" recommended="1">AUIS1M---------</AM>
+<AM lemma="Kristův-3_;Y_^(*4us-3)" src="auto" recommended="1" selected="1">AUIS1M---------</AM>
 <AM lemma="Kristův-3_;Y_^(*4us-3)" src="auto">AUIS4M---------</AM>
 <AM lemma="Kristův-3_;Y_^(*4us-3)" src="auto">AUIS5M---------</AM>
 <AM lemma="Kristův-3_;Y_^(*4us-3)" src="auto">AUMS1M---------</AM>
@@ -2950,7 +2956,10 @@
 <LM>w#w-ln95042-014-p2s15w40</LM>
 </w.rf>
 <form>chiliasmus</form>
-<tag lemma="chiliasmus" src="orig" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="chiliasmus" src="orig">NNIS1-----A----</AM>
+<AM lemma="chiliasmus_,s_^(^DD**chiliazmus)" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95042-014-p2s15w41">
 <src.rf>manual</src.rf>
@@ -3006,7 +3015,10 @@
 <LM>w#w-ln95042-014-p2s15w47</LM>
 </w.rf>
 <form>da</form>
-<tag lemma="da_,t_^(šp.)" src="orig" selected="1">RR--X----------</tag>
+<tag>
+<AM lemma="da_,t_^(šp.)" src="orig">RR--X----------</AM>
+<AM lemma="da-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln95042-014-p2s15w48">
 <src.rf>manual</src.rf>
@@ -3016,7 +3028,7 @@
 <form>Fiore</form>
 <tag>
 <AM lemma="Fiore_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Fiore_;G" src="auto" recommended="1">NNNXX-----A----</AM>
+<AM lemma="Fiore_;G" src="auto" recommended="1" selected="1">NNNXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95042-014-p2s15w49">
@@ -3352,7 +3364,7 @@
 <tag>
 <AM lemma="tedy" src="orig">Db-------------</AM>
 <AM lemma="tedy-1" src="auto">TT-------------</AM>
-<AM lemma="tedy-2" src="auto" recommended="1">J^-------------</AM>
+<AM lemma="tedy-2" src="auto" recommended="1" selected="1">J^-------------</AM>
 </tag>
 </m>
 <m id="m-ln95042-014-p2s17w14">
@@ -3687,6 +3699,7 @@
 <AM lemma="renezance" src="auto">NNFS1-----A----</AM>
 <AM lemma="renezance" src="auto" recommended="1">NNFS2-----A----</AM>
 <AM lemma="renezance" src="auto">NNFS5-----A----</AM>
+<AM lemma="renesance_,s_^(^DD**renezance)" src="manual" selected="1">NNFS2-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95042-014-p2s19w6">
@@ -3777,7 +3790,7 @@
 <form>přičemž</form>
 <tag>
 <AM lemma="přičemž" src="orig">J,-------------</AM>
-<AM lemma="přičemž" src="auto" recommended="1">Db-------------</AM>
+<AM lemma="přičemž" src="auto" recommended="1" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m-ln95042-014-p2s19w17">
@@ -3985,6 +3998,7 @@
 <AM lemma="marxizmus" src="auto" recommended="1">NNIS2-----A----</AM>
 <AM lemma="marxizmus" src="auto">NNIS3-----A----</AM>
 <AM lemma="marxizmus" src="auto">NNIS6-----A----</AM>
+<AM lemma="marxismus_,s_^(^DD**marxizmus)" src="manual" selected="1">NNIS2-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95042-014-p2s20w9">
@@ -4011,7 +4025,10 @@
 <LM>w#w-ln95042-014-p2s21w2</LM>
 </w.rf>
 <form>sice</form>
-<tag lemma="sice-2" src="auto" selected="1">Db-------------</tag>
+<tag>
+<AM lemma="sice-2" src="auto">Db-------------</AM>
+<AM lemma="sice-1_^(spojka;_připouští_se_určitá_fakta)" src="manual" selected="1">J^-------------</AM>
+</tag>
 </m>
 <m id="m-ln95042-014-p2s21w3">
 <src.rf>manual</src.rf>
@@ -4263,7 +4280,7 @@
 <form>ovšem</form>
 <tag>
 <AM lemma="ovšem-1_^(avšak,_však;_odporovací_spojka)" src="orig">J^-------------</AM>
-<AM lemma="ovšem" src="auto" recommended="1">TT-------------</AM>
+<AM lemma="ovšem" src="auto" recommended="1" selected="1">TT-------------</AM>
 </tag>
 </m>
 <m id="m-ln95042-014-p2s22Aw8">
@@ -4688,7 +4705,7 @@
 <form>nikoli</form>
 <tag>
 <AM lemma="nikoliv" src="orig">Db------------1</AM>
-<AM lemma="nikoli" src="auto" recommended="1">TT-------------</AM>
+<AM lemma="nikoli" src="auto" recommended="1" selected="1">TT-------------</AM>
 </tag>
 </m>
 <m id="m-ln95042-014-p2s24w20">
@@ -4919,7 +4936,7 @@
 <form>zasáhla</form>
 <tag>
 <AM lemma="zasáhnout" src="orig">VpQW---XR-AA---</AM>
-<AM lemma="zasáhnout_:W" src="auto" recommended="1">VpQW---XR-AA--1</AM>
+<AM lemma="zasáhnout_:W" src="auto" recommended="1" selected="1">VpQW---XR-AA--1</AM>
 </tag>
 </m>
 <m id="m-ln95042-014-p2s26w4">

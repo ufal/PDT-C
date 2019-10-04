@@ -94,7 +94,7 @@
 </w.rf>
 <form>Brioni</form>
 <tag>
-<AM lemma="Brioni_;G" src="orig">NNNXX-----A----</AM>
+<AM lemma="Brioni_;G" src="orig" selected="1">NNNXX-----A----</AM>
 <AM lemma="Brioni_;S" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Brioni_;S" src="auto">NNMS5-----A----</AM>
 </tag>
@@ -369,7 +369,7 @@
 <AM lemma="odchod" src="orig">NNIS6-----A----</AM>
 <AM lemma="odchod" src="auto">NNIS2-----A----</AM>
 <AM lemma="odchod" src="auto">NNIS3-----A----</AM>
-<AM lemma="odchod" src="auto" recommended="1">NNIS6-----A---1</AM>
+<AM lemma="odchod" src="auto" recommended="1" selected="1">NNIS6-----A---1</AM>
 </tag>
 </m>
 <m id="m-lnd92258-093-p2s3w10">

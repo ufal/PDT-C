@@ -565,7 +565,10 @@
 <LM>w#w-lnd92253-023-p4s2w9</LM>
 </w.rf>
 <form>jenom</form>
-<tag lemma="jenom-1" src="auto" selected="1">TT-------------</tag>
+<tag>
+<AM lemma="jenom-1" src="auto">TT-------------</AM>
+<AM lemma="jenom-2_^(pouze)" src="manual" selected="1">Db-------------</AM>
+</tag>
 </m>
 <m id="m-lnd92253-023-p4s2w10">
 <src.rf>manual</src.rf>
@@ -635,7 +638,7 @@
 <AM lemma="taka-1_;L" src="auto">NNFP4-----A----</AM>
 <AM lemma="taka-1_;L" src="auto">NNFP5-----A----</AM>
 <AM lemma="taka-1_;L" src="auto">NNFS2-----A----</AM>
-<AM lemma="taky" src="auto" recommended="1">Db-------------</AM>
+<AM lemma="taky" src="auto" recommended="1" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m-lnd92253-023-p4s2w18">
@@ -662,7 +665,7 @@
 <form>dřívějších</form>
 <tag>
 <AM lemma="brzký" src="orig">AAFP2----2A----</AM>
-<AM lemma="dřívější" src="auto" recommended="1">AAFP2----2A----</AM>
+<AM lemma="dřívější" src="auto" recommended="1" selected="1">AAFP2----2A----</AM>
 <AM lemma="dřívější" src="auto">AAFP6----2A----</AM>
 <AM lemma="dřívější" src="auto">AAIP2----2A----</AM>
 <AM lemma="dřívější" src="auto">AAIP6----2A----</AM>
@@ -715,7 +718,7 @@
 <tag>
 <AM lemma="přece" src="orig">Db-------------</AM>
 <AM lemma="přece-1" src="auto">J^-------------</AM>
-<AM lemma="přece-2" src="auto" recommended="1">TT-------------</AM>
+<AM lemma="přece-2" src="auto" recommended="1" selected="1">TT-------------</AM>
 </tag>
 </m>
 <m id="m-lnd92253-023-p4s3w5">
@@ -1168,7 +1171,7 @@
 <form>dřívější</form>
 <tag>
 <AM lemma="brzký" src="orig">AAFP1----2A----</AM>
-<AM lemma="dřívější" src="auto" recommended="1">AAFP1----2A----</AM>
+<AM lemma="dřívější" src="auto" recommended="1" selected="1">AAFP1----2A----</AM>
 <AM lemma="dřívější" src="auto">AAFP4----2A----</AM>
 <AM lemma="dřívější" src="auto">AAFP5----2A----</AM>
 <AM lemma="dřívější" src="auto">AAFS1----2A----</AM>
@@ -1237,7 +1240,7 @@
 <form>zárodek</form>
 <tag>
 <AM lemma="zárodek" src="orig">NNMS1-----A----</AM>
-<AM lemma="zárodek" src="auto" recommended="1">NNIS1-----A----</AM>
+<AM lemma="zárodek" src="auto" recommended="1" selected="1">NNIS1-----A----</AM>
 <AM lemma="zárodek" src="auto">NNIS4-----A----</AM>
 </tag>
 </m>
@@ -1912,7 +1915,7 @@
 <tag>
 <AM lemma="tady" src="orig">Db------------1</AM>
 <AM lemma="ten" src="auto">PDFS4----------</AM>
-<AM lemma="tu" src="auto" recommended="1">Db-------------</AM>
+<AM lemma="tu" src="auto" recommended="1" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m-lnd92253-023-p5s6w3">
@@ -1921,7 +1924,10 @@
 <LM>w#w-lnd92253-023-p5s6w3</LM>
 </w.rf>
 <form>fenomeny</form>
-<tag lemma="fenomén" src="orig" selected="1">NNIP1-----A----</tag>
+<tag>
+<AM lemma="fenomén" src="orig">NNIP1-----A----</AM>
+<AM lemma="fenomen_,s_^(^DD**fenomén)" src="manual" selected="1">NNIP1-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92253-023-p5s6w4">
 <src.rf>manual</src.rf>
@@ -2335,6 +2341,7 @@
 <AM lemma="ema" src="orig">NNFP2-----A----</AM>
 <AM lemma="em-99_:B_;S" src="auto" recommended="1">NNXXX-----A---8</AM>
 <AM lemma="emo-1_,h_,l_^(styl)" src="auto">NNNP2-----A----</AM>
+<AM lemma="em-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92253-023-p6s1w3">

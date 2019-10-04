@@ -86,7 +86,7 @@
 </w.rf>
 <form>man</form>
 <tag>
-<AM lemma="man-99_:B_;S" src="orig">NNXXX-----A---8</AM>
+<AM lemma="man-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</AM>
 <AM lemma="man" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="mana" src="auto">NNFP2-----A----</AM>
 </tag>

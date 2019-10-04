@@ -204,7 +204,10 @@
 <LM>w#w-vesm9303-037-p1s1w24</LM>
 </w.rf>
 <form>baktérie</form>
-<tag lemma="baktérie" src="orig" selected="1">NNFP4-----A----</tag>
+<tag>
+<AM lemma="baktérie" src="orig">NNFP4-----A----</AM>
+<AM lemma="baktérie_,s_^(^DD**bakterie)" src="manual" selected="1">NNFP4-----A----</AM>
+</tag>
 </m>
 <m id="m-vesm9303-037-p1s1w25">
 <src.rf>manual</src.rf>
@@ -252,7 +255,10 @@
 <LM>w#w-vesm9303-037-p1s1w30</LM>
 </w.rf>
 <form>např</form>
-<tag lemma="například_:B" src="orig" selected="1">Db------------8</tag>
+<tag>
+<AM lemma="například_:B" src="orig">Db------------8</AM>
+<AM lemma="například" src="manual" selected="1">Db------------8</AM>
+</tag>
 </m>
 <m id="m-vesm9303-037-p1s1w31">
 <src.rf>manual</src.rf>
@@ -470,7 +476,10 @@
 <LM>w#w-vesm9303-037-p1s2w16</LM>
 </w.rf>
 <form>baktérie</form>
-<tag lemma="baktérie" src="orig" selected="1">NNFP1-----A----</tag>
+<tag>
+<AM lemma="baktérie" src="orig">NNFP1-----A----</AM>
+<AM lemma="baktérie_,s_^(^DD**bakterie)" src="manual" selected="1">NNFP1-----A----</AM>
+</tag>
 </m>
 <m id="m-vesm9303-037-p1s2w17">
 <src.rf>manual</src.rf>
@@ -502,7 +511,10 @@
 <LM>w#w-vesm9303-037-p1s2w20</LM>
 </w.rf>
 <form>li</form>
-<tag lemma="li-1" src="auto" selected="1">TT-------------</tag>
+<tag>
+<AM lemma="li-1" src="auto">TT-------------</AM>
+<AM lemma="li-2" src="manual" selected="1">J,-------------</AM>
+</tag>
 </m>
 <m id="m-vesm9303-037-p1s2w21">
 <src.rf>manual</src.rf>
@@ -534,7 +546,10 @@
 <LM>w#w-vesm9303-037-p1s2w24</LM>
 </w.rf>
 <form>organismu</form>
-<tag lemma="organismus" src="orig" selected="1">NNIS2-----A----</tag>
+<tag>
+<AM lemma="organismus" src="orig">NNIS2-----A----</AM>
+<AM lemma="organismus_,s_^(^DD**organizmus)" src="manual" selected="1">NNIS2-----A----</AM>
+</tag>
 </m>
 <m id="m-vesm9303-037-p1s2w25">
 <src.rf>manual</src.rf>
@@ -624,7 +639,7 @@
 <form>raději</form>
 <tag>
 <AM lemma="raději" src="orig">Dg-------2A----</AM>
-<AM lemma="rád" src="auto" recommended="1">Dg-------2A----</AM>
+<AM lemma="rád" src="auto" recommended="1" selected="1">Dg-------2A----</AM>
 </tag>
 </m>
 <m id="m-vesm9303-037-p1s2w37">
@@ -805,7 +820,10 @@
 <LM>w#w-vesm9303-037-p1s4w9</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-2" src="auto" selected="1">Dg-------2A----</tag>
+<tag>
+<AM lemma="hodně-2" src="auto">Dg-------2A----</AM>
+<AM lemma="hodně-3" src="manual" selected="1">Dg-------2A----</AM>
+</tag>
 </m>
 <m id="m-vesm9303-037-p1s4w10">
 <src.rf>manual</src.rf>
@@ -960,7 +978,7 @@
 </w.rf>
 <form>Erbová</form>
 <tag>
-<AM lemma="Erbová_;S" src="orig">NNFS1-----A----</AM>
+<AM lemma="Erbová_;S" src="orig" selected="1">NNFS1-----A----</AM>
 <AM lemma="erbový" src="auto" recommended="1">AAFS1----1A----</AM>
 <AM lemma="erbový" src="auto">AAFS5----1A----</AM>
 <AM lemma="erbový" src="auto">AANP1----1A----</AM>
@@ -1040,7 +1058,10 @@
 <LM>w#w-vesm9303-037-p3s1w7</LM>
 </w.rf>
 <form>spíše</form>
-<tag lemma="spíše" src="orig" selected="1">Dg-------2A---1</tag>
+<tag>
+<AM lemma="spíše" src="orig">Dg-------2A---1</AM>
+<AM lemma="spíš" src="manual" selected="1">TT------------1</AM>
+</tag>
 </m>
 <m id="m-vesm9303-037-p3s1w8">
 <src.rf>manual</src.rf>
@@ -1156,7 +1177,10 @@
 <LM>w#w-vesm9303-037-p3s3w2</LM>
 </w.rf>
 <form>mikroorganismů</form>
-<tag lemma="mikroorganismus" src="orig" selected="1">NNIP2-----A----</tag>
+<tag>
+<AM lemma="mikroorganismus" src="orig">NNIP2-----A----</AM>
+<AM lemma="mikroorganismus_,s_^(^DD**mikroorganizmus)" src="manual" selected="1">NNIP2-----A----</AM>
+</tag>
 </m>
 <m id="m-vesm9303-037-p3s3w3">
 <src.rf>manual</src.rf>
@@ -1204,7 +1228,10 @@
 <LM>w#w-vesm9303-037-p3s3w8</LM>
 </w.rf>
 <form>provedl</form>
-<tag lemma="provést" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag>
+<AM lemma="provést" src="orig">VpYS---XR-AA---</AM>
+<AM lemma="provést_:W" src="manual" selected="1">VpYS---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-vesm9303-037-p3s3w9">
 <src.rf>manual</src.rf>
@@ -1220,7 +1247,10 @@
 <LM>w#w-vesm9303-037-p3s3w10</LM>
 </w.rf>
 <form>r</form>
-<tag lemma="rok_:B" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="rok_:B" src="orig">NNIXX-----A---8</AM>
+<AM lemma="rok" src="manual" selected="1">NNIXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-vesm9303-037-p3s3w11">
 <src.rf>manual</src.rf>
@@ -1262,7 +1292,10 @@
 <LM>w#w-vesm9303-037-p4s1w2</LM>
 </w.rf>
 <form>baktérie</form>
-<tag lemma="baktérie" src="orig" selected="1">NNFP1-----A----</tag>
+<tag>
+<AM lemma="baktérie" src="orig">NNFP1-----A----</AM>
+<AM lemma="baktérie_,s_^(^DD**bakterie)" src="manual" selected="1">NNFP1-----A----</AM>
+</tag>
 </m>
 <m id="m-vesm9303-037-p4s1w3">
 <src.rf>manual</src.rf>
@@ -1302,7 +1335,10 @@
 <LM>w#w-vesm9303-037-p4s1w7</LM>
 </w.rf>
 <form>mikroorganismů</form>
-<tag lemma="mikroorganismus" src="orig" selected="1">NNIP2-----A----</tag>
+<tag>
+<AM lemma="mikroorganismus" src="orig">NNIP2-----A----</AM>
+<AM lemma="mikroorganismus_,s_^(^DD**mikroorganizmus)" src="manual" selected="1">NNIP2-----A----</AM>
+</tag>
 </m>
 <m id="m-vesm9303-037-p4s1w8">
 <src.rf>manual</src.rf>
@@ -1482,7 +1518,10 @@
 <LM>w#w-vesm9303-037-p4s3w9</LM>
 </w.rf>
 <form>CO</form>
-<tag lemma="CO-1_:B_;H_^(kysličník_uhelnatý)" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="CO-1_:B_;H_^(kysličník_uhelnatý)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="CO-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-vesm9303-037-p4s3w10">
 <src.rf>manual</src.rf>
@@ -1660,7 +1699,10 @@
 <LM>w#w-vesm9303-037-p4s4w4</LM>
 </w.rf>
 <form>baktérií</form>
-<tag lemma="baktérie" src="orig" selected="1">NNFP2-----A----</tag>
+<tag>
+<AM lemma="baktérie" src="orig">NNFP2-----A----</AM>
+<AM lemma="baktérie_,s_^(^DD**bakterie)" src="manual" selected="1">NNFP2-----A----</AM>
+</tag>
 </m>
 <m id="m-vesm9303-037-p4s4w5">
 <src.rf>manual</src.rf>
@@ -1774,7 +1816,10 @@
 <LM>w#w-vesm9303-037-p5s1w2</LM>
 </w.rf>
 <form>baktérie</form>
-<tag lemma="baktérie" src="orig" selected="1">NNFP1-----A----</tag>
+<tag>
+<AM lemma="baktérie" src="orig">NNFP1-----A----</AM>
+<AM lemma="baktérie_,s_^(^DD**bakterie)" src="manual" selected="1">NNFP1-----A----</AM>
+</tag>
 </m>
 <m id="m-vesm9303-037-p5s1w3">
 <src.rf>manual</src.rf>
@@ -1790,7 +1835,10 @@
 <LM>w#w-vesm9303-037-p5s1w4</LM>
 </w.rf>
 <form>např</form>
-<tag lemma="například_:B" src="orig" selected="1">Db------------8</tag>
+<tag>
+<AM lemma="například_:B" src="orig">Db------------8</AM>
+<AM lemma="například" src="manual" selected="1">Db------------8</AM>
+</tag>
 </m>
 <m id="m-vesm9303-037-p5s1w5">
 <src.rf>manual</src.rf>
@@ -2162,7 +2210,7 @@
 <form>litrů</form>
 <tag>
 <AM lemma="l-1`litr" src="orig">NNIP2-----A----</AM>
-<AM lemma="litr" src="auto" recommended="1">NNIP2-----A----</AM>
+<AM lemma="litr" src="auto" recommended="1" selected="1">NNIP2-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9303-037-p5s2w7">
@@ -2437,7 +2485,10 @@
 <LM>w#w-vesm9303-037-p6s1w31</LM>
 </w.rf>
 <form>mikroorganismů</form>
-<tag lemma="mikroorganismus" src="orig" selected="1">NNIP2-----A----</tag>
+<tag>
+<AM lemma="mikroorganismus" src="orig">NNIP2-----A----</AM>
+<AM lemma="mikroorganismus_,s_^(^DD**mikroorganizmus)" src="manual" selected="1">NNIP2-----A----</AM>
+</tag>
 </m>
 <m id="m-vesm9303-037-p6s1w32">
 <src.rf>manual</src.rf>
@@ -2453,7 +2504,10 @@
 <LM>w#w-vesm9303-037-p6s1w33</LM>
 </w.rf>
 <form>tzv</form>
-<tag lemma="takzvaný_:B" src="orig" selected="1">AAXXX----1A---8</tag>
+<tag>
+<AM lemma="takzvaný_:B" src="orig">AAXXX----1A---8</AM>
+<AM lemma="takzvaný" src="manual" selected="1">AAXXX----1A---8</AM>
+</tag>
 </m>
 <m id="m-vesm9303-037-p6s1w34">
 <src.rf>manual</src.rf>
@@ -2477,7 +2531,10 @@
 <LM>w#w-vesm9303-037-p6s1w36</LM>
 </w.rf>
 <form>baktérií</form>
-<tag lemma="baktérie" src="orig" selected="1">NNFP2-----A----</tag>
+<tag>
+<AM lemma="baktérie" src="orig">NNFP2-----A----</AM>
+<AM lemma="baktérie_,s_^(^DD**bakterie)" src="manual" selected="1">NNFP2-----A----</AM>
+</tag>
 </m>
 <m id="m-vesm9303-037-p6s1w37">
 <src.rf>manual</src.rf>
@@ -2519,7 +2576,10 @@
 <LM>w#w-vesm9303-037-p6s2w4</LM>
 </w.rf>
 <form>baktérie</form>
-<tag lemma="baktérie" src="orig" selected="1">NNFP1-----A----</tag>
+<tag>
+<AM lemma="baktérie" src="orig">NNFP1-----A----</AM>
+<AM lemma="baktérie_,s_^(^DD**bakterie)" src="manual" selected="1">NNFP1-----A----</AM>
+</tag>
 </m>
 <m id="m-vesm9303-037-p6s2w5">
 <src.rf>manual</src.rf>
@@ -2585,7 +2645,10 @@
 <LM>w#w-vesm9303-037-p7s1w1</LM>
 </w.rf>
 <form>RNDr</form>
-<tag lemma="RNDr-1_:B_^(doktor_přír._věd)" src="orig" selected="1">NNMXX-----A---8</tag>
+<tag>
+<AM lemma="RNDr-1_:B_^(doktor_přír._věd)" src="orig">NNMXX-----A---8</AM>
+<AM lemma="RNDr_:B_^(doktor_přír._věd)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-vesm9303-037-p7s1w2">
 <src.rf>manual</src.rf>
@@ -2625,7 +2688,11 @@
 <LM>w#w-vesm9303-037-p7s1w6</LM>
 </w.rf>
 <form>DrSc</form>
-<tag lemma="DrSc-1_:B_,t_^(doctor_scientiarum)" src="auto" selected="1">NNMXX-----A---8</tag>
+<tag>
+<AM lemma="DrSc-1_:B_,t_^(doctor_scientiarum)" src="auto">NNMXX-----A---8</AM>
+<AM lemma="DrSc_:B_^(doctor_scientiarum)" src="manual">NNXXX-----A----</AM>
+<AM lemma="DrSc-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-vesm9303-037-p7s1w7">
 <src.rf>manual</src.rf>

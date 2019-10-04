@@ -133,7 +133,10 @@
 <LM>w#w-lnd92256-094-p1s2w5</LM>
 </w.rf>
 <form>SZ</form>
-<tag lemma="severozápad_:B" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="severozápad_:B" src="orig">NNIXX-----A---8</AM>
+<AM lemma="severozápad" src="manual" selected="1">NNIXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd92256-094-p1s2w6">
 <src.rf>manual</src.rf>

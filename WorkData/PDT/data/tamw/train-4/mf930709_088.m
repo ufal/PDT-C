@@ -148,6 +148,7 @@
 <AM lemma="mimo-1_:B" src="auto">RR--4---------8</AM>
 <AM lemma="minuta_:B" src="auto">NNFXX-----A---8</AM>
 <AM lemma="město_:B" src="auto">NNNXX-----A---8</AM>
+<AM lemma="metr" src="manual" selected="1">NNIXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-mf930709-088-p1s1w17">
@@ -160,6 +161,7 @@
 <AM lemma="překážka_:B" src="orig">NNFXX-----A---8</AM>
 <AM lemma="před-1_:B" src="auto">RR--7---------8</AM>
 <AM lemma="příklad_:B" src="auto" recommended="1">NNIXX-----A---8</AM>
+<AM lemma="př-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930709-088-p1s1w18">

@@ -176,6 +176,7 @@
 <tag>
 <AM lemma="vládní" src="orig">AAXXX----1A----</AM>
 <AM lemma="vládní_:B" src="auto" recommended="1">AAXXX----1A---8</AM>
+<AM lemma="Vl-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-lnd92251-057-p1s2w9">
@@ -324,7 +325,10 @@
 <LM>w#w-lnd92251-057-p2s1w2</LM>
 </w.rf>
 <form>LN</form>
-<tag lemma="LN-2_:B_;K_^(Lidové_noviny,_nakl.)" src="orig" selected="1">NNFPX-----A---8</tag>
+<tag>
+<AM lemma="LN-2_:B_;K_^(Lidové_noviny,_nakl.)" src="orig">NNFPX-----A---8</AM>
+<AM lemma="LN-1_:B_;K_;R_^(Lidové_noviny)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92251-057-p2s1w3">
 <src.rf>manual</src.rf>

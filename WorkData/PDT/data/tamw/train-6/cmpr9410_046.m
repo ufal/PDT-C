@@ -19,7 +19,10 @@
 <LM>w#w-cmpr9410-046-p2s1w1</LM>
 </w.rf>
 <form>Kuponová</form>
-<tag lemma="kuponový" src="orig" selected="1">AAFS1----1A----</tag>
+<tag>
+<AM lemma="kuponový" src="orig">AAFS1----1A----</AM>
+<AM lemma="kuponový_,s_^(^DD**kupónový)" src="manual" selected="1">AAFS1----1A----</AM>
+</tag>
 </m>
 <m id="m-cmpr9410-046-p2s1w2">
 <src.rf>manual</src.rf>
@@ -159,7 +162,10 @@
 <LM>w#w-cmpr9410-046-p4s1w3</LM>
 </w.rf>
 <form>SPT</form>
-<tag lemma="SPT-1_:B_;K_;b_;c_^(v_býv._názvu_SPT_Telecom)" src="auto" selected="1">NNNXX-----A---8</tag>
+<tag>
+<AM lemma="SPT-1_:B_;K_;b_;c_^(v_býv._názvu_SPT_Telecom)" src="auto">NNNXX-----A---8</AM>
+<AM lemma="SPT-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-cmpr9410-046-p4s1w4">
 <src.rf>manual</src.rf>
@@ -2295,7 +2301,7 @@
 <tag>
 <AM lemma="tedy" src="orig">Db-------------</AM>
 <AM lemma="tedy-1" src="auto">TT-------------</AM>
-<AM lemma="tedy-2" src="auto" recommended="1">J^-------------</AM>
+<AM lemma="tedy-2" src="auto" recommended="1" selected="1">J^-------------</AM>
 </tag>
 </m>
 <m id="m-cmpr9410-046-p13s1w3">
@@ -2682,7 +2688,10 @@
 <LM>w#w-cmpr9410-046-p15s4w3</LM>
 </w.rf>
 <form>ČR</form>
-<tag lemma="ČR-1_:B_;G_^(Česká_republika)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-cmpr9410-046-p15s4w4">
 <src.rf>manual</src.rf>
@@ -3062,7 +3071,10 @@
 <LM>w#w-cmpr9410-046-p16s1w4</LM>
 </w.rf>
 <form>tzv</form>
-<tag lemma="takzvaný_:B" src="orig" selected="1">AAXXX----1A---8</tag>
+<tag>
+<AM lemma="takzvaný_:B" src="orig">AAXXX----1A---8</AM>
+<AM lemma="takzvaný" src="manual" selected="1">AAXXX----1A---8</AM>
+</tag>
 </m>
 <m id="m-cmpr9410-046-p16s1w5">
 <src.rf>manual</src.rf>
@@ -3525,7 +3537,7 @@
 <tag>
 <AM lemma="tedy" src="orig">Db-------------</AM>
 <AM lemma="tedy-1" src="auto">TT-------------</AM>
-<AM lemma="tedy-2" src="auto" recommended="1">J^-------------</AM>
+<AM lemma="tedy-2" src="auto" recommended="1" selected="1">J^-------------</AM>
 </tag>
 </m>
 <m id="m-cmpr9410-046-p16s3w28">
@@ -3736,7 +3748,10 @@
 <LM>w#w-cmpr9410-046-p17s1w15</LM>
 </w.rf>
 <form>stamilionové</form>
-<tag lemma="stamilionový" src="orig" selected="1">AAFP4----1A----</tag>
+<tag>
+<AM lemma="stamilionový" src="orig">AAFP4----1A----</AM>
+<AM lemma="stamilionový_,s_^(^DD**stamiliónový)" src="manual" selected="1">AAFP4----1A----</AM>
+</tag>
 </m>
 <m id="m-cmpr9410-046-p17s1w16">
 <src.rf>manual</src.rf>
@@ -3834,7 +3849,10 @@
 <LM>w#w-cmpr9410-046-p17s2w5</LM>
 </w.rf>
 <form>jen</form>
-<tag lemma="jen-1" src="auto" selected="1">TT-------------</tag>
+<tag>
+<AM lemma="jen-1" src="auto">TT-------------</AM>
+<AM lemma="jen-4_^(pouze)" src="manual" selected="1">Db-------------</AM>
+</tag>
 </m>
 <m id="m-cmpr9410-046-p17s2w6">
 <src.rf>manual</src.rf>
@@ -3914,7 +3932,10 @@
 <LM>w#w-cmpr9410-046-p17s2w15</LM>
 </w.rf>
 <form>jen</form>
-<tag lemma="jen-1" src="auto" selected="1">TT-------------</tag>
+<tag>
+<AM lemma="jen-1" src="auto">TT-------------</AM>
+<AM lemma="jen-4_^(pouze)" src="manual" selected="1">Db-------------</AM>
+</tag>
 </m>
 <m id="m-cmpr9410-046-p17s2w16">
 <src.rf>manual</src.rf>
@@ -4078,7 +4099,11 @@
 <LM>w#w-cmpr9410-046-p17s4w11</LM>
 </w.rf>
 <form>nejvíce</form>
-<tag lemma="hodně-2" src="auto" selected="1">Dg-------3A----</tag>
+<tag>
+<AM lemma="hodně-2" src="auto">Dg-------3A----</AM>
+<AM lemma="	nejvíce_^(nejvíce_+_2._p.,_nejvíce_peněz)" src="manual">Ca--4----------</AM>
+<AM lemma="nejvíce_^(nejvíce_+_2._p.,_nejvíce_peněz)" src="manual" selected="1">Ca--4----------</AM>
+</tag>
 </m>
 <m id="m-cmpr9410-046-p17s4w12">
 <src.rf>manual</src.rf>

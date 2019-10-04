@@ -64,6 +64,7 @@
 <tag>
 <AM lemma="Buenos_;G_^(Buenos_Aires)" src="orig">AAXXX----1A----</AM>
 <AM lemma="Buenos_;G" src="auto" recommended="1">NNNSX-----A----</AM>
+<AM lemma="Buenos-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-ln94202-117-p2s1Aw2">
@@ -72,7 +73,10 @@
 <LM>w#w-ln94202-117-p2s1Aw2</LM>
 </w.rf>
 <form>Aires</form>
-<tag lemma="Aires_;G_^(Buenos_Aires)" src="orig" selected="1">NNNXX-----A----</tag>
+<tag>
+<AM lemma="Aires_;G_^(Buenos_Aires)" src="orig">NNNXX-----A----</AM>
+<AM lemma="Aires-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94202-117-p2s1Aw3">
 <src.rf>manual</src.rf>
@@ -294,7 +298,7 @@
 <form>čemkoli</form>
 <tag>
 <AM lemma="cokoliv" src="orig">PZ--6---------1</AM>
-<AM lemma="cokoli" src="auto" recommended="1">PZ--6----------</AM>
+<AM lemma="cokoli" src="auto" recommended="1" selected="1">PZ--6----------</AM>
 </tag>
 </m>
 <m id="m-ln94202-117-p2s2w3">
@@ -439,7 +443,10 @@
 <LM>w#w-ln94202-117-p2s2w20</LM>
 </w.rf>
 <form>odejít</form>
-<tag lemma="odejít" src="orig" selected="1">Vf--------A----</tag>
+<tag>
+<AM lemma="odejít" src="orig">Vf--------A----</AM>
+<AM lemma="odejít_:W" src="manual" selected="1">Vf--------A----</AM>
+</tag>
 </m>
 <m id="m-ln94202-117-p2s2w21">
 <src.rf>manual</src.rf>
@@ -637,7 +644,7 @@
 <form>Alfio</form>
 <tag>
 <AM lemma="Alfio_;Y" src="orig">NNMXX-----A----</AM>
-<AM lemma="Alfio_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Alfio_;Y" src="auto" recommended="1" selected="1">NNMS1-----A----</AM>
 <AM lemma="Alfio_;Y" src="auto">NNMS5-----A----</AM>
 </tag>
 </m>
@@ -695,7 +702,10 @@
 <LM>w#w-ln94202-117-p2s4w15</LM>
 </w.rf>
 <form>Diega</form>
-<tag lemma="Diego_;S_;Y_,t" src="auto" selected="1">NNMS4-----A----</tag>
+<tag>
+<AM lemma="Diego_;S_;Y_,t" src="auto">NNMS4-----A----</AM>
+<AM lemma="Diego_;S_;Y" src="manual" selected="1">NNMS4-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94202-117-p2s4w16">
 <src.rf>manual</src.rf>
@@ -753,7 +763,7 @@
 <form>kdykoliv</form>
 <tag>
 <AM lemma="kdykoliv" src="orig">Db-------------</AM>
-<AM lemma="kdykoli" src="auto" recommended="1">Db------------1</AM>
+<AM lemma="kdykoli" src="auto" recommended="1" selected="1">Db------------1</AM>
 </tag>
 </m>
 <m id="m-ln94202-117-p2s4w23">

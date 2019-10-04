@@ -69,7 +69,10 @@
 <LM>w#w-mf930708-061-p2s1w3</LM>
 </w.rf>
 <form>lík</form>
-<tag lemma="lík-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="lík-99_:B_;S" src="orig">NNXXX-----A---8</AM>
+<AM lemma="lík-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930708-061-p2s1w4">
 <src.rf>manual</src.rf>
@@ -149,7 +152,10 @@
 <LM>w#w-mf930708-061-p2s1w13</LM>
 </w.rf>
 <form>sjede</form>
-<tag lemma="sjet" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag>
+<AM lemma="sjet" src="orig">VB-S---3P-AA---</AM>
+<AM lemma="sjet_:W" src="manual" selected="1">VB-S---3P-AA---</AM>
+</tag>
 </m>
 <m id="m-mf930708-061-p2s1w14">
 <src.rf>manual</src.rf>
@@ -838,6 +844,7 @@
 <tag>
 <AM lemma="ASPM_:B_;K" src="orig">NNXXX-----A---8</AM>
 <AM lemma="ASPM_:B_;K_;u_^(hudební_skupina)" src="auto" recommended="1">NNNXX-----A---8</AM>
+<AM lemma="ASPM-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930708-061-p2s4w36">

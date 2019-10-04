@@ -101,7 +101,10 @@
 <LM>w#w-ln94202-125-p2s1Aw3</LM>
 </w.rf>
 <form>sn</form>
-<tag lemma="sn-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="sn-99_:B_;S" src="orig">NNXXX-----A---8</AM>
+<AM lemma="sn-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94202-125-p2s1Aw4">
 <src.rf>manual</src.rf>
@@ -1072,7 +1075,10 @@
 <LM>w#w-ln94202-125-p3s2w26</LM>
 </w.rf>
 <form>defenzivního</form>
-<tag lemma="defenzivní" src="orig" selected="1">AAMS2----1A----</tag>
+<tag>
+<AM lemma="defenzivní" src="orig">AAMS2----1A----</AM>
+<AM lemma="defenzivní_,s_^(^DD**defenzívní)" src="manual" selected="1">AAMS2----1A----</AM>
+</tag>
 </m>
 <m id="m-ln94202-125-p3s2w27">
 <src.rf>manual</src.rf>
@@ -1088,7 +1094,10 @@
 <LM>w#w-ln94202-125-p3s2w28</LM>
 </w.rf>
 <form>Čížkem</form>
-<tag lemma="čížek" src="orig" selected="1">NNMS7-----A----</tag>
+<tag>
+<AM lemma="čížek" src="orig">NNMS7-----A----</AM>
+<AM lemma="Čížek_;S" src="manual" selected="1">NNMS7-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94202-125-p3s2w29">
 <src.rf>manual</src.rf>
@@ -1276,7 +1285,7 @@
 <form>nejen</form>
 <tag>
 <AM lemma="nejen" src="orig">TT-------------</AM>
-<AM lemma="nejen" src="auto" recommended="1">Db-------------</AM>
+<AM lemma="nejen" src="auto" recommended="1" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m-ln94202-125-p3s3w12">
@@ -1869,7 +1878,10 @@
 <LM>w#w-ln94202-125-p4s2w15</LM>
 </w.rf>
 <form>sezon</form>
-<tag lemma="sezona" src="orig" selected="1">NNFP2-----A----</tag>
+<tag>
+<AM lemma="sezona" src="orig">NNFP2-----A----</AM>
+<AM lemma="sezona_,s_^(^DD**sezóna)" src="manual" selected="1">NNFP2-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94202-125-p4s2w16">
 <src.rf>manual</src.rf>

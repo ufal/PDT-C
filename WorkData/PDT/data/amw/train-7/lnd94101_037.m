@@ -19,7 +19,10 @@
 <LM>w#w-lnd94101-037-p1s1w1</LM>
 </w.rf>
 <form>N</form>
-<tag lemma="N-0_:B_;Y" src="orig" selected="1">NNMXX-----A---8</tag>
+<tag>
+<AM lemma="N-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
+<AM lemma="N-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd94101-037-p1s1w2">
 <src.rf>manual</src.rf>
@@ -75,7 +78,10 @@
 <LM>w#w-lnd94101-037-p1s1w8</LM>
 </w.rf>
 <form>JAR</form>
-<tag lemma="jaro" src="orig" selected="1">NNNP2-----A----</tag>
+<tag>
+<AM lemma="jaro" src="orig">NNNP2-----A----</AM>
+<AM lemma="JAR-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd94101-037-p1s1w9">
 <src.rf>manual</src.rf>
@@ -373,7 +379,10 @@
 <LM>w#w-lnd94101-037-p1s2w23</LM>
 </w.rf>
 <form>jen</form>
-<tag lemma="jen-1" src="auto" selected="1">TT-------------</tag>
+<tag>
+<AM lemma="jen-1" src="auto">TT-------------</AM>
+<AM lemma="jen-4_^(pouze)" src="manual" selected="1">Db-------------</AM>
+</tag>
 </m>
 <m id="m-lnd94101-037-p1s2w24">
 <src.rf>manual</src.rf>
@@ -522,7 +531,7 @@
 <tag>
 <AM lemma="nalézt" src="orig">VpQW---XR-AA---</AM>
 <AM lemma="nalézt-1_^(někam)" src="auto" recommended="1">VpQW---XR-AA---</AM>
-<AM lemma="nalézt-2" src="auto">VpQW---XR-AA---</AM>
+<AM lemma="nalézt-2" src="auto" selected="1">VpQW---XR-AA---</AM>
 </tag>
 </m>
 <m id="m-lnd94101-037-p1s3w12">
@@ -632,6 +641,7 @@
 <tag>
 <AM lemma="AWB-2_:B_;K_,t_^(Afrikánské_hnutí_odporu)" src="orig">NNXXX-----A---8</AM>
 <AM lemma="AWB-1_:B_,t_^(air_waybill)" src="auto" recommended="1">NNIXX-----A---8</AM>
+<AM lemma="AWB-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-lnd94101-037-p1s4w11">
@@ -773,6 +783,7 @@
 <tag>
 <AM lemma="AWB-2_:B_;K_,t_^(Afrikánské_hnutí_odporu)" src="orig">NNXXX-----A---8</AM>
 <AM lemma="AWB-1_:B_,t_^(air_waybill)" src="auto" recommended="1">NNIXX-----A---8</AM>
+<AM lemma="AWB-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-lnd94101-037-p1s5w16">
@@ -1134,6 +1145,7 @@
 <tag>
 <AM lemma="AWB-2_:B_;K_,t_^(Afrikánské_hnutí_odporu)" src="orig">NNXXX-----A---8</AM>
 <AM lemma="AWB-1_:B_,t_^(air_waybill)" src="auto" recommended="1">NNIXX-----A---8</AM>
+<AM lemma="AWB-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-lnd94101-037-p1s8w3">

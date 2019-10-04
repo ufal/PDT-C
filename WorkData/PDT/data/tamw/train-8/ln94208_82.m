@@ -199,7 +199,7 @@
 <form>vůbec</form>
 <tag>
 <AM lemma="vůbec" src="orig">Db-------------</AM>
-<AM lemma="vůbec" src="auto" recommended="1">TT-------------</AM>
+<AM lemma="vůbec" src="auto" recommended="1" selected="1">TT-------------</AM>
 </tag>
 </m>
 <m id="m-ln94208-82-p2s1w20">
@@ -317,7 +317,7 @@
 <form>Karadžić</form>
 <tag>
 <AM lemma="Karadžič_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Karadžić_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Karadžić_;S" src="auto" recommended="1" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94208-82-p3s1w3">
@@ -366,7 +366,10 @@
 <LM>w#w-ln94208-82-p3s1w8</LM>
 </w.rf>
 <form>Der</form>
-<tag lemma="der-1_;K_,t_^(souč._něm._názvů,_např._Der_Spiegel_[člen_m.])" src="auto" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="der-1_;K_,t_^(souč._něm._názvů,_např._Der_Spiegel_[člen_m.])" src="auto">AAXXX----1A----</AM>
+<AM lemma="Der-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94208-82-p3s1w9">
 <src.rf>manual</src.rf>
@@ -374,7 +377,10 @@
 <LM>w#w-ln94208-82-p3s1w9</LM>
 </w.rf>
 <form>Spiegel</form>
-<tag lemma="Spiegel-1_;K_,t_^(souč._názvu_Der_S.)" src="auto" selected="1">NNIXX-----A----</tag>
+<tag>
+<AM lemma="Spiegel-1_;K_,t_^(souč._názvu_Der_S.)" src="auto">NNIXX-----A----</AM>
+<AM lemma="Spiegel-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94208-82-p3s1w10">
 <src.rf>manual</src.rf>
@@ -543,7 +549,7 @@
 <form>Karadžić</form>
 <tag>
 <AM lemma="Karadžič_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Karadžić_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Karadžić_;S" src="auto" recommended="1" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94208-82-p4s1w3">
@@ -806,7 +812,10 @@
 <LM>w#w-ln94208-82-p5s1w3</LM>
 </w.rf>
 <form>Edouard</form>
-<tag lemma="Edouard_;Y_,t" src="orig" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Edouard_;Y_,t" src="orig">NNMS1-----A----</AM>
+<AM lemma="Edouard_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94208-82-p5s1w4">
 <src.rf>manual</src.rf>
@@ -838,7 +847,11 @@
 <LM>w#w-ln94208-82-p5s1w7</LM>
 </w.rf>
 <form>Le</form>
-<tag lemma="Le-1_,t_^(franc._člen_jako_souč._jmen_a_názvů)" src="orig" selected="1">AAISX----1A----</tag>
+<tag>
+<AM lemma="Le-1_,t_^(franc._člen_jako_souč._jmen_a_názvů)" src="orig">AAISX----1A----</AM>
+<AM lemma="le-1_,t_^(člen) " src="manual">AAXXX----1A----</AM>
+<AM lemma="Le-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94208-82-p5s1w8">
 <src.rf>manual</src.rf>
@@ -850,6 +863,8 @@
 <AM lemma="Figaro_;S_;Y_;R" src="orig">NNIXX-----A----</AM>
 <AM lemma="Figaro_;S_;Y_,t" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Figaro_;S_;Y_,t" src="auto">NNMS5-----A----</AM>
+<AM lemma="Figaro-2_;R_,t" src="manual">NNXXX-----A----</AM>
+<AM lemma="Figaro-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-ln94208-82-p5s1w9">
@@ -1710,6 +1725,7 @@
 <AM lemma="International-2_;K_,t" src="orig">NNXXX-----A---1</AM>
 <AM lemma="International_,t" src="auto">NNISX-----A----</AM>
 <AM lemma="international_,t" src="auto" recommended="1">AAXXX----1A----</AM>
+<AM lemma="International-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-ln94208-82-p7s1Aw15">
@@ -1721,6 +1737,8 @@
 <tag>
 <AM lemma="Herald_;R_,t" src="orig">AAXXX----1A----</AM>
 <AM lemma="Herald_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="herald_,t" src="manual">NNXXX-----A----</AM>
+<AM lemma="Herald-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-ln94208-82-p7s1Aw16">
@@ -1733,6 +1751,8 @@
 <AM lemma="Tribune_;R_,t" src="orig">NNFXX-----A----</AM>
 <AM lemma="Tribune_;K_,t" src="auto" recommended="1">NNFSX-----A----</AM>
 <AM lemma="tribun" src="auto">NNMS5-----A----</AM>
+<AM lemma="tribune_,t" src="manual">NNXXX-----A----</AM>
+<AM lemma="Tribune-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-ln94208-82-p7s1Aw17">
@@ -1927,6 +1947,7 @@
 <AM lemma="komunismus" src="auto">NNIS4-----A----</AM>
 <AM lemma="komunizmus_,x" src="auto">NNIS1-----A----</AM>
 <AM lemma="komunizmus_,x" src="auto">NNIS4-----A----</AM>
+<AM lemma="komunismus_,s_^(^DD**komunizmus)" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94208-82-p7s2w7">
@@ -2265,7 +2286,10 @@
 <LM>w#w-ln94208-82-p8s1w3</LM>
 </w.rf>
 <form>Claude</form>
-<tag lemma="Claude_;Y_,t" src="auto" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Claude_;Y_,t" src="auto">NNMS1-----A----</AM>
+<AM lemma="Claude_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94208-82-p8s1w4">
 <src.rf>manual</src.rf>
@@ -2332,6 +2356,8 @@
 <AM lemma="l-8_:B_^(ost._zkratka)" src="auto">XX------------8</AM>
 <AM lemma="letopočet_:B_^(jen_př._n._l.,_před_naším_letopočtem)" src="auto">NNIS7-----A---8</AM>
 <AM lemma="litr_:B" src="auto">NNIXX-----A---8</AM>
+<AM lemma="l-1_,t_^(člen)" src="manual">AAXXX----1A----</AM>
+<AM lemma="L-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-ln94208-82-p8s1w10">
@@ -2352,6 +2378,8 @@
 <AM lemma="Express_;R_,t" src="orig">NNIXX-----A----</AM>
 <AM lemma="Express" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Express" src="auto">NNIS4-----A----</AM>
+<AM lemma="express_,t" src="manual">NNXXX-----A----</AM>
+<AM lemma="Express-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 </s>

@@ -385,7 +385,10 @@
 <LM>w#w-lnd94104-051-p1s4w25</LM>
 </w.rf>
 <form>ZEU</form>
-<tag lemma="Zea" src="orig" selected="1">NNFS4-----A----</tag>
+<tag>
+<AM lemma="Zea" src="orig">NNFS4-----A----</AM>
+<AM lemma="ZEU-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd94104-051-p1s4w26">
 <src.rf>manual</src.rf>
@@ -571,7 +574,10 @@
 <LM>w#w-lnd94104-051-p1s5Aw5</LM>
 </w.rf>
 <form>Die</form>
-<tag lemma="die-1_;K_,t_^(souč._něm._názvů,_např._Die_Presse_[člen_f.])" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="die-1_;K_,t_^(souč._něm._názvů,_např._Die_Presse_[člen_f.])" src="orig">AAXXX----1A----</AM>
+<AM lemma="Die-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-lnd94104-051-p1s5Aw6">
 <src.rf>manual</src.rf>
@@ -579,7 +585,10 @@
 <LM>w#w-lnd94104-051-p1s5Aw6</LM>
 </w.rf>
 <form>Presse</form>
-<tag lemma="Presse-1_;K_,t_^(souč._názvu_Die_P.)" src="orig" selected="1">NNIXX-----A----</tag>
+<tag>
+<AM lemma="Presse-1_;K_,t_^(souč._názvu_Die_P.)" src="orig">NNIXX-----A----</AM>
+<AM lemma="Presse-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-lnd94104-051-p1s5Aw7">
 <src.rf>manual</src.rf>
@@ -757,7 +766,7 @@
 <form>nikoli</form>
 <tag>
 <AM lemma="nikoliv" src="orig">Db------------1</AM>
-<AM lemma="nikoli" src="auto" recommended="1">TT-------------</AM>
+<AM lemma="nikoli" src="auto" recommended="1" selected="1">TT-------------</AM>
 </tag>
 </m>
 <m id="m-lnd94104-051-p1s5Aw30">
@@ -826,7 +835,7 @@
 <form>třeba</form>
 <tag>
 <AM lemma="třeba-1" src="orig">ACNS------A----</AM>
-<AM lemma="třeba-2" src="auto" recommended="1">Db-------------</AM>
+<AM lemma="třeba-2" src="auto" recommended="1" selected="1">Db-------------</AM>
 <AM lemma="třeba-3" src="auto">TT-------------</AM>
 </tag>
 </m>
@@ -852,7 +861,10 @@
 <LM>w#w-lnd94104-051-p1s5Bw8</LM>
 </w.rf>
 <form>jen</form>
-<tag lemma="jen-1" src="auto" selected="1">TT-------------</tag>
+<tag>
+<AM lemma="jen-1" src="auto">TT-------------</AM>
+<AM lemma="jen-4_^(pouze)" src="manual" selected="1">Db-------------</AM>
+</tag>
 </m>
 <m id="m-lnd94104-051-p1s5Bw9">
 <src.rf>manual</src.rf>

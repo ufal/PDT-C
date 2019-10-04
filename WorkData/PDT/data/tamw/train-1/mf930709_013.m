@@ -409,7 +409,10 @@
 <LM>w#w-mf930709-013-p2s2w18</LM>
 </w.rf>
 <form>nadšen</form>
-<tag lemma="nadchnout" src="orig" selected="1">VsYS---XX-AP---</tag>
+<tag>
+<AM lemma="nadchnout" src="orig">VsYS---XX-AP---</AM>
+<AM lemma="nadchnout_:W" src="manual" selected="1">VsYS---XX-AP---</AM>
+</tag>
 </m>
 <m id="m-mf930709-013-p2s2w19">
 <src.rf>manual</src.rf>
@@ -531,7 +534,10 @@
 <LM>w#w-mf930709-013-p2s3w10</LM>
 </w.rf>
 <form>uvedl</form>
-<tag lemma="uvést" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag>
+<AM lemma="uvést" src="orig">VpYS---XR-AA---</AM>
+<AM lemma="uvést_:W" src="manual" selected="1">VpYS---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-mf930709-013-p2s3w11">
 <src.rf>manual</src.rf>
@@ -705,7 +711,7 @@
 <AM lemma="Buk-1_;G" src="auto">NNIP4-----A----</AM>
 <AM lemma="Buk-1_;G" src="auto">NNIP5-----A----</AM>
 <AM lemma="Buk-1_;G" src="auto">NNIP7-----A----</AM>
-<AM lemma="buk-1_^(strom)" src="auto" recommended="1">NNIP1-----A----</AM>
+<AM lemma="buk-1_^(strom)" src="auto" recommended="1" selected="1">NNIP1-----A----</AM>
 <AM lemma="buk-1_^(strom)" src="auto">NNIP4-----A----</AM>
 <AM lemma="buk-1_^(strom)" src="auto">NNIP5-----A----</AM>
 <AM lemma="buk-1_^(strom)" src="auto">NNIP7-----A----</AM>
@@ -879,7 +885,10 @@
 <LM>w#w-mf930709-013-p2s5w11</LM>
 </w.rf>
 <form>uvedl</form>
-<tag lemma="uvést" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag>
+<AM lemma="uvést" src="orig">VpYS---XR-AA---</AM>
+<AM lemma="uvést_:W" src="manual" selected="1">VpYS---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-mf930709-013-p2s5w12">
 <src.rf>manual</src.rf>
@@ -981,7 +990,7 @@
 <AM lemma="Buk-1_;G" src="auto">NNIP4-----A----</AM>
 <AM lemma="Buk-1_;G" src="auto">NNIP5-----A----</AM>
 <AM lemma="Buk-1_;G" src="auto">NNIP7-----A----</AM>
-<AM lemma="buk-1_^(strom)" src="auto" recommended="1">NNIP1-----A----</AM>
+<AM lemma="buk-1_^(strom)" src="auto" recommended="1" selected="1">NNIP1-----A----</AM>
 <AM lemma="buk-1_^(strom)" src="auto">NNIP4-----A----</AM>
 <AM lemma="buk-1_^(strom)" src="auto">NNIP5-----A----</AM>
 <AM lemma="buk-1_^(strom)" src="auto">NNIP7-----A----</AM>

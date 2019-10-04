@@ -412,7 +412,7 @@
 <tag>
 <AM lemma="tady" src="orig">Db------------1</AM>
 <AM lemma="ten" src="auto" recommended="1">PDFS4----------</AM>
-<AM lemma="tu" src="auto">Db-------------</AM>
+<AM lemma="tu" src="auto" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m-ln95040-127-p2s2w6">
@@ -1141,7 +1141,10 @@
 <LM>w#w-ln95040-127-p4s1w11</LM>
 </w.rf>
 <form>CHKO</form>
-<tag lemma="CHKO-1_:B_;y_;z_^(chráněná_krajinná_oblast)" src="auto" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="CHKO-1_:B_;y_;z_^(chráněná_krajinná_oblast)" src="auto">NNFXX-----A---8</AM>
+<AM lemma="CHKO-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln95040-127-p4s1w12">
 <src.rf>manual</src.rf>
@@ -1517,6 +1520,7 @@
 <AM lemma="UNESCO_:B_;K" src="orig">NNNXX-----A---8</AM>
 <AM lemma="UNESCO_:B" src="auto" recommended="1">NNXXX-----A---8</AM>
 <AM lemma="Unesco_:B_;K_,t" src="auto">NNNXX-----A----</AM>
+<AM lemma="UNESCO_:B_^(United_Nations_Educational_Scientific_and_Cultural_Organization)" src="manual" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-ln95040-127-p4s3w13">
@@ -1637,7 +1641,10 @@
 <LM>w#w-ln95040-127-p4s3w27</LM>
 </w.rf>
 <form>CHKO</form>
-<tag lemma="CHKO-1_:B_;y_;z_^(chráněná_krajinná_oblast)" src="auto" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="CHKO-1_:B_;y_;z_^(chráněná_krajinná_oblast)" src="auto">NNFXX-----A---8</AM>
+<AM lemma="CHKO-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln95040-127-p4s3w28">
 <src.rf>manual</src.rf>
@@ -1687,7 +1694,10 @@
 <LM>w#w-ln95040-127-p4s4w2</LM>
 </w.rf>
 <form>J</form>
-<tag lemma="J-0_:B_;Y" src="orig" selected="1">NNMXX-----A---8</tag>
+<tag>
+<AM lemma="J-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
+<AM lemma="J-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln95040-127-p4s4w3">
 <src.rf>manual</src.rf>
@@ -2479,7 +2489,10 @@
 <LM>w#w-ln95040-127-p4s8w14</LM>
 </w.rf>
 <form>jen</form>
-<tag lemma="jen-1" src="auto" selected="1">TT-------------</tag>
+<tag>
+<AM lemma="jen-1" src="auto">TT-------------</AM>
+<AM lemma="jen-4_^(pouze)" src="manual" selected="1">Db-------------</AM>
+</tag>
 </m>
 <m id="m-ln95040-127-p4s8w15">
 <src.rf>manual</src.rf>
@@ -2551,7 +2564,10 @@
 <LM>w#w-ln95040-127-p4s8w23</LM>
 </w.rf>
 <form>J</form>
-<tag lemma="J-0_:B_;Y" src="orig" selected="1">NNMXX-----A---8</tag>
+<tag>
+<AM lemma="J-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
+<AM lemma="J-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln95040-127-p4s8w24">
 <src.rf>manual</src.rf>

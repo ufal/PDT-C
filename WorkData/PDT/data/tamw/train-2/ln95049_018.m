@@ -51,7 +51,10 @@
 <LM>w#w-ln95049-018-p1s1w5</LM>
 </w.rf>
 <form>Romy</form>
-<tag lemma="Rom-4_;E" src="orig" selected="1">NNMP4-----A----</tag>
+<tag>
+<AM lemma="Rom-4_;E" src="orig">NNMP4-----A----</AM>
+<AM lemma="Rom_;E_;S" src="manual" selected="1">NNMP4-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95049-018-p1s1w6">
 <src.rf>manual</src.rf>
@@ -359,7 +362,10 @@
 <LM>w#w-ln95049-018-p1s3w4</LM>
 </w.rf>
 <form>Romů</form>
-<tag lemma="Rom-4_;E" src="orig" selected="1">NNMP2-----A----</tag>
+<tag>
+<AM lemma="Rom-4_;E" src="orig">NNMP2-----A----</AM>
+<AM lemma="Rom-_;E_;S" src="manual" selected="1">NNMP2-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95049-018-p1s3w5">
 <src.rf>manual</src.rf>
@@ -370,7 +376,7 @@
 <tag>
 <AM lemma="tady" src="orig">Db------------1</AM>
 <AM lemma="ten" src="auto" recommended="1">PDFS4----------</AM>
-<AM lemma="tu" src="auto">Db-------------</AM>
+<AM lemma="tu" src="auto" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m-ln95049-018-p1s3w6">
@@ -461,7 +467,10 @@
 <LM>w#w-ln95049-018-p1s4w2</LM>
 </w.rf>
 <form>LN</form>
-<tag lemma="LN-1_:B_;R_^(Lidové_noviny,_deník)" src="orig" selected="1">NNFPX-----A---8</tag>
+<tag>
+<AM lemma="LN-1_:B_;R_^(Lidové_noviny,_deník)" src="orig">NNFPX-----A---8</AM>
+<AM lemma="LN-1_:B_;K_;R_^(Lidové_noviny)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95049-018-p1s4w3">
 <src.rf>manual</src.rf>
@@ -525,7 +534,10 @@
 <LM>w#w-ln95049-018-p1s4w10</LM>
 </w.rf>
 <form>Romy</form>
-<tag lemma="Rom-4_;E" src="orig" selected="1">NNMP4-----A----</tag>
+<tag>
+<AM lemma="Rom-4_;E" src="orig">NNMP4-----A----</AM>
+<AM lemma="Rom_;E_;S" src="manual" selected="1">NNMP4-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95049-018-p1s4w11">
 <src.rf>manual</src.rf>

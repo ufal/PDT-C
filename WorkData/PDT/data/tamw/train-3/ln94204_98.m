@@ -43,7 +43,10 @@
 <LM>w#w-ln94204-98-p1s1w4</LM>
 </w.rf>
 <form>Inspiral</form>
-<tag lemma="Inspiral_;K_,t" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="Inspiral_;K_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="Inspiral-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94204-98-p1s1w5">
 <src.rf>manual</src.rf>
@@ -51,7 +54,10 @@
 <LM>w#w-ln94204-98-p1s1w5</LM>
 </w.rf>
 <form>Carpets</form>
-<tag lemma="Carpet_;K_,t" src="orig" selected="1">NNIPX-----A----</tag>
+<tag>
+<AM lemma="Carpet_;K_,t" src="orig">NNIPX-----A----</AM>
+<AM lemma="Carpets-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 </s>
 <s id="m-ln94204-98-p2s1">
@@ -77,7 +83,10 @@
 <LM>w#w-ln94204-98-p2s1w3</LM>
 </w.rf>
 <form>MUTE</form>
-<tag lemma="Mute_;m_,t" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="Mute_;m_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="MUTE-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94204-98-p2s1w4">
 <src.rf>manual</src.rf>
@@ -85,7 +94,10 @@
 <LM>w#w-ln94204-98-p2s1w4</LM>
 </w.rf>
 <form>PARTY</form>
-<tag lemma="party_,t_^(angl._sešlost,_oslava,_mejdan)" src="orig" selected="1">NNFXX-----A----</tag>
+<tag>
+<AM lemma="party_,t_^(angl._sešlost,_oslava,_mejdan)" src="orig">NNFXX-----A----</AM>
+<AM lemma="PARTY-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94204-98-p2s1w5">
 <src.rf>manual</src.rf>
@@ -181,7 +193,10 @@
 <LM>w#w-ln94204-98-p2s1w16</LM>
 </w.rf>
 <form>Inspiral</form>
-<tag lemma="Inspiral_;K_,t" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="Inspiral_;K_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="Inspiral-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94204-98-p2s1w17">
 <src.rf>manual</src.rf>
@@ -189,7 +204,10 @@
 <LM>w#w-ln94204-98-p2s1w17</LM>
 </w.rf>
 <form>Carpets</form>
-<tag lemma="Carpet_;K_,t" src="orig" selected="1">NNIPX-----A----</tag>
+<tag>
+<AM lemma="Carpet_;K_,t" src="orig">NNIPX-----A----</AM>
+<AM lemma="Carpets-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94204-98-p2s1w18">
 <src.rf>manual</src.rf>
@@ -271,7 +289,11 @@
 <LM>w#w-ln94204-98-p2s2w9</LM>
 </w.rf>
 <form>The</form>
-<tag lemma="the-1_,t_^(obv._souč._anglických_názvů,_urč._člen)" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="the-1_,t_^(obv._souč._anglických_názvů,_urč._člen)" src="orig">AAXXX----1A----</AM>
+<AM lemma="the-1_,t_^(angl._urč._člen)" src="manual">AAXXX----1A----</AM>
+<AM lemma="The-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94204-98-p2s2w10">
 <src.rf>manual</src.rf>
@@ -286,6 +308,8 @@
 <AM lemma="Stone_;S" src="auto">NNMS5-----A----</AM>
 <AM lemma="ston" src="auto">NNIS5-----A----</AM>
 <AM lemma="stone_,t" src="auto">XX-------------</AM>
+<AM lemma="stone_,t" src="manual">NNXXX-----A----</AM>
+<AM lemma="Stone-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-ln94204-98-p2s2w11">
@@ -294,7 +318,11 @@
 <LM>w#w-ln94204-98-p2s2w11</LM>
 </w.rf>
 <form>Roses</form>
-<tag lemma="Rose_;K_,t" src="orig" selected="1">NNFPX-----A----</tag>
+<tag>
+<AM lemma="Rose_;K_,t" src="orig">NNFPX-----A----</AM>
+<AM lemma="roses_,t" src="manual">NNXXX-----A----</AM>
+<AM lemma="Roses-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94204-98-p2s2w12">
 <src.rf>manual</src.rf>
@@ -310,7 +338,11 @@
 <LM>w#w-ln94204-98-p2s2w13</LM>
 </w.rf>
 <form>Happy</form>
-<tag lemma="Happy_;K_,t" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="Happy_;K_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="happy_,t" src="manual">AAXXX----1A----</AM>
+<AM lemma="Happy-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94204-98-p2s2w14">
 <src.rf>manual</src.rf>
@@ -318,7 +350,11 @@
 <LM>w#w-ln94204-98-p2s2w14</LM>
 </w.rf>
 <form>Mondays</form>
-<tag lemma="Monday_;K_,t" src="orig" selected="1">NNNPX-----A----</tag>
+<tag>
+<AM lemma="Monday_;K_,t" src="orig">NNNPX-----A----</AM>
+<AM lemma="Mondays_,t" src="manual">NNXXX-----A----</AM>
+<AM lemma="Mondays-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94204-98-p2s2w15">
 <src.rf>manual</src.rf>
@@ -454,7 +490,10 @@
 <LM>w#w-ln94204-98-p2s2w31</LM>
 </w.rf>
 <form>indie</form>
-<tag lemma="indie_,t" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="indie_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="indie" src="manual" selected="1">AAXXX----1A----</AM>
+</tag>
 </m>
 <m id="m-ln94204-98-p2s2w32">
 <src.rf>manual</src.rf>
@@ -504,7 +543,10 @@
 <LM>w#w-ln94204-98-p3s1w4</LM>
 </w.rf>
 <form>Life</form>
-<tag lemma="Life_;R_,t" src="orig" selected="1">NNIXX-----A----</tag>
+<tag>
+<AM lemma="Life_;R_,t" src="orig">NNIXX-----A----</AM>
+<AM lemma="Life-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94204-98-p3s1w5">
 <src.rf>manual</src.rf>
@@ -544,7 +586,10 @@
 <LM>w#w-ln94204-98-p3s1w9</LM>
 </w.rf>
 <form>Inspiral</form>
-<tag lemma="Inspiral_;K_,t" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="Inspiral_;K_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="Inspiral-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94204-98-p3s1w10">
 <src.rf>manual</src.rf>
@@ -552,7 +597,10 @@
 <LM>w#w-ln94204-98-p3s1w10</LM>
 </w.rf>
 <form>Carpets</form>
-<tag lemma="Carpet_;K_,t" src="orig" selected="1">NNIPX-----A----</tag>
+<tag>
+<AM lemma="Carpet_;K_,t" src="orig">NNIPX-----A----</AM>
+<AM lemma="Carpets-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94204-98-p3s1w11">
 <src.rf>manual</src.rf>
@@ -762,7 +810,10 @@
 <LM>w#w-ln94204-98-p3s2w19</LM>
 </w.rf>
 <form>Farfisa</form>
-<tag lemma="Farfisa_;R_,t" src="orig" selected="1">NNFS1-----A----</tag>
+<tag>
+<AM lemma="Farfisa_;R_,t" src="orig">NNFS1-----A----</AM>
+<AM lemma="Farfisa_;R" src="manual" selected="1">NNFS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94204-98-p3s2w20">
 <src.rf>manual</src.rf>
@@ -783,8 +834,9 @@
 <AM lemma="Hammond_;G" src="auto">NNIS1-----A----</AM>
 <AM lemma="Hammond_;G" src="auto">NNIS4-----A----</AM>
 <AM lemma="Hammond_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="hammond_^(varhany)" src="auto" recommended="1">NNIS1-----A----</AM>
+<AM lemma="hammond_^(varhany)" src="auto" recommended="1" selected="1">NNIS1-----A----</AM>
 <AM lemma="hammond_^(varhany)" src="auto">NNIS4-----A----</AM>
+<AM lemma="Hammond-2_;K_;R" src="manual">NNIXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94204-98-p3s2w22">
@@ -957,7 +1009,10 @@
 <LM>w#w-ln94204-98-p4s1w7</LM>
 </w.rf>
 <form>The</form>
-<tag lemma="the-1_,t_^(obv._souč._anglických_názvů,_urč._člen)" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="the-1_,t_^(obv._souč._anglických_názvů,_urč._člen)" src="orig">AAXXX----1A----</AM>
+<AM lemma="The-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94204-98-p4s1w8">
 <src.rf>manual</src.rf>
@@ -965,7 +1020,10 @@
 <LM>w#w-ln94204-98-p4s1w8</LM>
 </w.rf>
 <form>Beast</form>
-<tag lemma="Beast_;R_,t" src="orig" selected="1">NNFXX-----A----</tag>
+<tag>
+<AM lemma="Beast_;R_,t" src="orig">NNFXX-----A----</AM>
+<AM lemma="Beast-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94204-98-p4s1w9">
 <src.rf>manual</src.rf>
@@ -973,7 +1031,10 @@
 <LM>w#w-ln94204-98-p4s1w9</LM>
 </w.rf>
 <form>Inside</form>
-<tag lemma="Inside_;R_,t" src="orig" selected="1">Db-------------</tag>
+<tag>
+<AM lemma="Inside_;R_,t" src="orig">Db-------------</AM>
+<AM lemma="Inside-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94204-98-p4s1w10">
 <src.rf>manual</src.rf>
@@ -1013,7 +1074,10 @@
 <LM>w#w-ln94204-98-p4s1w14</LM>
 </w.rf>
 <form>Revenge</form>
-<tag lemma="Revenge_;R_,t" src="orig" selected="1">NNFXX-----A----</tag>
+<tag>
+<AM lemma="Revenge_;R_,t" src="orig">NNFXX-----A----</AM>
+<AM lemma="Revenge-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94204-98-p4s1w15">
 <src.rf>manual</src.rf>
@@ -1021,7 +1085,10 @@
 <LM>w#w-ln94204-98-p4s1w15</LM>
 </w.rf>
 <form>of</form>
-<tag lemma="of-1_,t_^(obv._souč._anglických_názvů,_předl._2._p.)" src="orig" selected="1">RR--X----------</tag>
+<tag>
+<AM lemma="of-1_,t_^(obv._souč._anglických_názvů,_předl._2._p.)" src="orig">RR--X----------</AM>
+<AM lemma="of-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94204-98-p4s1w16">
 <src.rf>manual</src.rf>
@@ -1029,7 +1096,10 @@
 <LM>w#w-ln94204-98-p4s1w16</LM>
 </w.rf>
 <form>The</form>
-<tag lemma="the-1_,t_^(obv._souč._anglických_názvů,_urč._člen)" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="the-1_,t_^(obv._souč._anglických_názvů,_urč._člen)" src="orig">AAXXX----1A----</AM>
+<AM lemma="The-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94204-98-p4s1w17">
 <src.rf>manual</src.rf>
@@ -1037,7 +1107,10 @@
 <LM>w#w-ln94204-98-p4s1w17</LM>
 </w.rf>
 <form>Goldfish</form>
-<tag lemma="Goldfish_;R_,t" src="orig" selected="1">NNFXX-----A----</tag>
+<tag>
+<AM lemma="Goldfish_;R_,t" src="orig">NNFXX-----A----</AM>
+<AM lemma="Goldfish-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94204-98-p4s1w18">
 <src.rf>manual</src.rf>
@@ -1095,7 +1168,7 @@
 <form>nespočet</form>
 <tag>
 <AM lemma="nespočet" src="orig">Ca--1----------</AM>
-<AM lemma="nespočet" src="auto" recommended="1">NNIS1-----A----</AM>
+<AM lemma="nespočet" src="auto" recommended="1" selected="1">NNIS1-----A----</AM>
 <AM lemma="nespočet" src="auto">NNIS4-----A----</AM>
 <AM lemma="spočíst" src="auto">VpYS---XR-NA--6</AM>
 <AM lemma="spočíst_:W" src="auto">VmYS------N----</AM>
@@ -1195,7 +1268,10 @@
 <LM>w#w-ln94204-98-p4s1w36</LM>
 </w.rf>
 <form>jen</form>
-<tag lemma="jen-1" src="auto" selected="1">TT-------------</tag>
+<tag>
+<AM lemma="jen-1" src="auto">TT-------------</AM>
+<AM lemma="jen-4_^(pouze)" src="manual" selected="1">Db-------------</AM>
+</tag>
 </m>
 <m id="m-ln94204-98-p4s1w37">
 <src.rf>manual</src.rf>
@@ -1279,7 +1355,7 @@
 <form>snad</form>
 <tag>
 <AM lemma="snad" src="orig">Db-------------</AM>
-<AM lemma="snad" src="auto" recommended="1">TT-------------</AM>
+<AM lemma="snad" src="auto" recommended="1" selected="1">TT-------------</AM>
 </tag>
 </m>
 <m id="m-ln94204-98-p4s2w9">
@@ -1386,7 +1462,10 @@
 <LM>w#w-ln94204-98-p5s1w4</LM>
 </w.rf>
 <form>Inspiral</form>
-<tag lemma="Inspiral_;K_,t" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="Inspiral_;K_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="Inspiral-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94204-98-p5s1w5">
 <src.rf>manual</src.rf>
@@ -1394,7 +1473,10 @@
 <LM>w#w-ln94204-98-p5s1w5</LM>
 </w.rf>
 <form>Carpets</form>
-<tag lemma="Carpet_;K_,t" src="orig" selected="1">NNIPX-----A----</tag>
+<tag>
+<AM lemma="Carpet_;K_,t" src="orig">NNIPX-----A----</AM>
+<AM lemma="Carpets-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94204-98-p5s1w6">
 <src.rf>manual</src.rf>
@@ -1426,7 +1508,10 @@
 <LM>w#w-ln94204-98-p5s1w9</LM>
 </w.rf>
 <form>Devil</form>
-<tag lemma="Devil_;R_,t" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="Devil_;R_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="Devil-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94204-98-p5s1w10">
 <src.rf>manual</src.rf>
@@ -1434,7 +1519,10 @@
 <LM>w#w-ln94204-98-p5s1w10</LM>
 </w.rf>
 <form>Hopping</form>
-<tag lemma="Hopping_;R_,t" src="orig" selected="1">NNNXX-----A----</tag>
+<tag>
+<AM lemma="Hopping_;R_,t" src="orig">NNNXX-----A----</AM>
+<AM lemma="Hopping-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94204-98-p5s1w11">
 <src.rf>manual</src.rf>
@@ -1620,7 +1708,10 @@
 <LM>w#w-ln94204-98-p5s2w4</LM>
 </w.rf>
 <form>Inspiral</form>
-<tag lemma="Inspiral_;K_,t" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="Inspiral_;K_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="Inspiral-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94204-98-p5s2w5">
 <src.rf>manual</src.rf>
@@ -1628,7 +1719,10 @@
 <LM>w#w-ln94204-98-p5s2w5</LM>
 </w.rf>
 <form>Carpets</form>
-<tag lemma="Carpet_;K_,t" src="orig" selected="1">NNIPX-----A----</tag>
+<tag>
+<AM lemma="Carpet_;K_,t" src="orig">NNIPX-----A----</AM>
+<AM lemma="Carpets-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94204-98-p5s2w6">
 <src.rf>manual</src.rf>
@@ -1660,7 +1754,10 @@
 <LM>w#w-ln94204-98-p5s2w9</LM>
 </w.rf>
 <form>Devil</form>
-<tag lemma="Devil_;R_,t" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="Devil_;R_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="Devil-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94204-98-p5s2w10">
 <src.rf>manual</src.rf>
@@ -1668,7 +1765,10 @@
 <LM>w#w-ln94204-98-p5s2w10</LM>
 </w.rf>
 <form>Hopping</form>
-<tag lemma="Hopping_;R_,t" src="orig" selected="1">NNNXX-----A----</tag>
+<tag>
+<AM lemma="Hopping_;R_,t" src="orig">NNNXX-----A----</AM>
+<AM lemma="Hopping-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94204-98-p5s2w11">
 <src.rf>manual</src.rf>
@@ -1798,7 +1898,10 @@
 <LM>w#w-ln94204-98-p5s3w2</LM>
 </w.rf>
 <form>tse</form>
-<tag lemma="tse-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="tse-99_:B_;S" src="orig">NNXXX-----A---8</AM>
+<AM lemma="tse-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94204-98-p5s3w3">
 <src.rf>manual</src.rf>

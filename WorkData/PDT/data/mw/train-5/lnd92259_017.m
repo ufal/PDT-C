@@ -123,7 +123,10 @@
 <LM>w#w-lnd92259-017-p1s1w14</LM>
 </w.rf>
 <form>Air</form>
-<tag lemma="Air_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="Air_;K" src="orig">NNIS1-----A----</AM>
+<AM lemma="Air-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-lnd92259-017-p1s1w15">
 <src.rf>manual</src.rf>
@@ -131,7 +134,10 @@
 <LM>w#w-lnd92259-017-p1s1w15</LM>
 </w.rf>
 <form>Lines</form>
-<tag lemma="Lines_;K_,t" src="orig" selected="1">NNFPX-----A----</tag>
+<tag>
+<AM lemma="Lines_;K_,t" src="orig">NNFPX-----A----</AM>
+<AM lemma="Lines-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-lnd92259-017-p1s1w16">
 <src.rf>manual</src.rf>
@@ -440,6 +446,7 @@
 <tag>
 <AM lemma="USA_;G" src="orig">NNIPX-----A----</AM>
 <AM lemma="USA_:B_;K_,t_^(United_States_of_America)" src="auto" recommended="1">NNIPX-----A---8</AM>
+<AM lemma="USA_:B_;K_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92259-017-p1s2w27">
@@ -492,7 +499,11 @@
 <LM>w#w-lnd92259-017-p2s2w1</LM>
 </w.rf>
 <form>LN</form>
-<tag lemma="LN-1_:B_;R_^(Lidové_noviny,_deník)" src="orig" selected="1">NNFPX-----A---8</tag>
+<tag>
+<AM lemma="LN-1_:B_;R_^(Lidové_noviny,_deník)" src="orig">NNFPX-----A---8</AM>
+<AM lemma="LN-1_:B_;K_;R_^(Lidové_noviny,_deník)" src="manual">NNXXX-----A----</AM>
+<AM lemma="LN-1_:B_;K_;R_^(Lidové_noviny)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 </s>
 </mdata>

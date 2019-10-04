@@ -53,7 +53,10 @@
 <LM>w#w-mf930702-117-p2s1w1</LM>
 </w.rf>
 <form>East</form>
-<tag lemma="East_;G_,t_^(součást_míst._jmen)" src="auto" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="East_;G_,t_^(součást_míst._jmen)" src="auto">AAXXX----1A----</AM>
+<AM lemma="East-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-mf930702-117-p2s1w2">
 <src.rf>manual</src.rf>
@@ -61,7 +64,10 @@
 <LM>w#w-mf930702-117-p2s1w2</LM>
 </w.rf>
 <form>Farmingdale</form>
-<tag lemma="Farmingdale_;G_,t" src="orig" selected="1">NNNXX-----A----</tag>
+<tag>
+<AM lemma="Farmingdale_;G_,t" src="orig">NNNXX-----A----</AM>
+<AM lemma="Farmingdale-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-mf930702-117-p2s1w3">
 <src.rf>manual</src.rf>
@@ -85,7 +91,10 @@
 <LM>w#w-mf930702-117-p2s1w5</LM>
 </w.rf>
 <form>New</form>
-<tag lemma="New-1_;G_,t_^(součást_míst._jmen)" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="New-1_;G_,t_^(součást_míst._jmen)" src="orig">AAXXX----1A----</AM>
+<AM lemma="New-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-mf930702-117-p2s1w6">
 <src.rf>manual</src.rf>
@@ -558,7 +567,7 @@
 <tag>
 <AM lemma="nalézt" src="orig">VpMP---XR-AA---</AM>
 <AM lemma="nalézt-1_^(někam)" src="auto" recommended="1">VpMP---XR-AA---</AM>
-<AM lemma="nalézt-2" src="auto">VpMP---XR-AA---</AM>
+<AM lemma="nalézt-2" src="auto" selected="1">VpMP---XR-AA---</AM>
 </tag>
 </m>
 <m id="m-mf930702-117-p4s1w11">
@@ -617,7 +626,7 @@
 <form>pick</form>
 <tag>
 <AM lemma="pick" src="orig">NNXXX-----A----</AM>
-<AM lemma="pick" src="auto" recommended="1">A2--------A----</AM>
+<AM lemma="pick" src="auto" recommended="1" selected="1">A2--------A----</AM>
 </tag>
 </m>
 <m id="m-mf930702-117-p4s1w18">
@@ -634,7 +643,10 @@
 <LM>w#w-mf930702-117-p4s1w19</LM>
 </w.rf>
 <form>upu</form>
-<tag lemma="up_,t_^(pick-up)" src="orig" selected="1">NNIS6-----A----</tag>
+<tag>
+<AM lemma="up_,t_^(pick-up)" src="orig">NNIS6-----A----</AM>
+<AM lemma="up_^(pick-up)" src="manual" selected="1">NNIS6-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930702-117-p4s1w20">
 <src.rf>manual</src.rf>
@@ -702,7 +714,7 @@
 <form>totiž</form>
 <tag>
 <AM lemma="totiž" src="orig">Db-------------</AM>
-<AM lemma="totiž-1" src="auto" recommended="1">J^-------------</AM>
+<AM lemma="totiž-1" src="auto" recommended="1" selected="1">J^-------------</AM>
 <AM lemma="totiž-2" src="auto">TT-------------</AM>
 </tag>
 </m>
@@ -1174,7 +1186,10 @@
 <LM>w#w-mf930702-117-p5s3w11</LM>
 </w.rf>
 <form>East</form>
-<tag lemma="East_;G_,t_^(součást_míst._jmen)" src="auto" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="East_;G_,t_^(součást_míst._jmen)" src="auto">AAXXX----1A----</AM>
+<AM lemma="East-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-mf930702-117-p5s3w12">
 <src.rf>manual</src.rf>
@@ -1184,7 +1199,10 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>Meadow</form>
-<tag lemma="Meadow_;G_,t" src="orig" selected="1">NNNXX-----A----</tag>
+<tag>
+<AM lemma="Meadow_;G_,t" src="orig">NNNXX-----A----</AM>
+<AM lemma="Meadow-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-mf930702-117-p5s3w13">
 <src.rf>manual</src.rf>
@@ -1208,7 +1226,10 @@
 <LM>w#w-mf930702-117-p5s3w15</LM>
 </w.rf>
 <form>New</form>
-<tag lemma="New-1_;G_,t_^(součást_míst._jmen)" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="New-1_;G_,t_^(součást_míst._jmen)" src="orig">AAXXX----1A----</AM>
+<AM lemma="New-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-mf930702-117-p5s3w16">
 <src.rf>manual</src.rf>
@@ -1299,7 +1320,7 @@
 <tag>
 <AM lemma="matka" src="orig">NNFS7-----A----</AM>
 <AM lemma="matka-1_^(malá_součástka)" src="auto" recommended="1">NNFS7-----A----</AM>
-<AM lemma="matka-2_^(maminka)" src="auto">NNFS7-----A----</AM>
+<AM lemma="matka-2_^(maminka)" src="auto" selected="1">NNFS7-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930702-117-p5s3w27">
@@ -1385,7 +1406,7 @@
 <tag>
 <AM lemma="nalézt" src="orig">VpMP---XR-AA---</AM>
 <AM lemma="nalézt-1_^(někam)" src="auto" recommended="1">VpMP---XR-AA---</AM>
-<AM lemma="nalézt-2" src="auto">VpMP---XR-AA---</AM>
+<AM lemma="nalézt-2" src="auto" selected="1">VpMP---XR-AA---</AM>
 </tag>
 </m>
 <m id="m-mf930702-117-p5s4w4">
@@ -1508,7 +1529,10 @@
 <LM>w#w-mf930702-117-p6s1w9</LM>
 </w.rf>
 <form>New</form>
-<tag lemma="New-1_;G_,t_^(součást_míst._jmen)" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="New-1_;G_,t_^(součást_míst._jmen)" src="orig">AAXXX----1A----</AM>
+<AM lemma="New-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-mf930702-117-p6s1w10">
 <src.rf>manual</src.rf>
@@ -1777,7 +1801,7 @@
 </w.rf>
 <form>Sale</form>
 <tag>
-<AM lemma="Sale-2_;S" src="orig">NNMS1-----A----</AM>
+<AM lemma="Sale-2_;S" src="orig" selected="1">NNMS1-----A----</AM>
 <AM lemma="Sal-1_;Y" src="auto">NNMS5-----A----</AM>
 <AM lemma="Sala_;G" src="auto">NNFS3-----A----</AM>
 <AM lemma="Sala_;G" src="auto">NNFS6-----A----</AM>
@@ -2019,7 +2043,7 @@
 <tag>
 <AM lemma="matka" src="orig">NNFS4-----A----</AM>
 <AM lemma="matka-1_^(malá_součástka)" src="auto" recommended="1">NNFS4-----A----</AM>
-<AM lemma="matka-2_^(maminka)" src="auto">NNFS4-----A----</AM>
+<AM lemma="matka-2_^(maminka)" src="auto" selected="1">NNFS4-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930702-117-p6s4w17">

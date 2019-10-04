@@ -45,7 +45,10 @@
 <LM>w#w-lnd92255-046-p2s1w2</LM>
 </w.rf>
 <form>jen</form>
-<tag lemma="jen-1" src="auto" selected="1">TT-------------</tag>
+<tag>
+<AM lemma="jen-1" src="auto">TT-------------</AM>
+<AM lemma="jen-4_^(pouze)" src="manual" selected="1">Db-------------</AM>
+</tag>
 </m>
 <m id="m-lnd92255-046-p2s1w3">
 <src.rf>manual</src.rf>
@@ -161,7 +164,10 @@
 <LM>w#w-lnd92255-046-p3s2w8</LM>
 </w.rf>
 <form>SR</form>
-<tag lemma="SR-1_:B_;G_^(Slovenská_republika)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="SR-1_:B_;G_^(Slovenská_republika)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="SR-1_:B_;G_^(Slovenská_republika)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92255-046-p3s2w9">
 <src.rf>manual</src.rf>
@@ -169,7 +175,10 @@
 <LM>w#w-lnd92255-046-p3s2w9</LM>
 </w.rf>
 <form>Ľ</form>
-<tag lemma="Ľ-0_:B_;Y" src="orig" selected="1">NNMXX-----A---8</tag>
+<tag>
+<AM lemma="Ľ-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
+<AM lemma="Ľ-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd92255-046-p3s2w10">
 <src.rf>manual</src.rf>
@@ -323,7 +332,10 @@
 <LM>w#w-lnd92255-046-p3s3w2</LM>
 </w.rf>
 <form>Ľ</form>
-<tag lemma="Ľ-0_:B_;Y" src="orig" selected="1">NNMXX-----A---8</tag>
+<tag>
+<AM lemma="Ľ-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
+<AM lemma="Ľ-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd92255-046-p3s3w3">
 <src.rf>manual</src.rf>
@@ -705,7 +717,10 @@
 <LM>w#w-lnd92255-046-p3s6w3</LM>
 </w.rf>
 <form>L</form>
-<tag lemma="L-0_:B_;Y" src="orig" selected="1">NNMXX-----A---8</tag>
+<tag>
+<AM lemma="L-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
+<AM lemma="L-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd92255-046-p3s6w4">
 <src.rf>manual</src.rf>
@@ -809,7 +824,10 @@
 <LM>w#w-lnd92255-046-p3s6w16</LM>
 </w.rf>
 <form>jenom</form>
-<tag lemma="jenom-1" src="auto" selected="1">TT-------------</tag>
+<tag>
+<AM lemma="jenom-1" src="auto">TT-------------</AM>
+<AM lemma="jenom-2_^(pouze)" src="manual" selected="1">Db-------------</AM>
+</tag>
 </m>
 <m id="m-lnd92255-046-p3s6w17">
 <src.rf>manual</src.rf>

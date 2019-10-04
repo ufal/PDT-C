@@ -35,7 +35,10 @@
 <LM>w#w-vesm9212-042-p1s1w3</LM>
 </w.rf>
 <form>RNDr</form>
-<tag lemma="RNDr-1_:B_^(doktor_přír._věd)" src="orig" selected="1">NNMXX-----A---8</tag>
+<tag>
+<AM lemma="RNDr-1_:B_^(doktor_přír._věd)" src="orig">NNMXX-----A---8</AM>
+<AM lemma="RNDr_:B_^(doktor_přír._věd)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-vesm9212-042-p1s1w4">
 <src.rf>manual</src.rf>
@@ -75,7 +78,10 @@
 <LM>w#w-vesm9212-042-p1s1w8</LM>
 </w.rf>
 <form>DrSc</form>
-<tag lemma="DrSc-1_:B_,t_^(doctor_scientiarum)" src="auto" selected="1">NNMXX-----A---8</tag>
+<tag>
+<AM lemma="DrSc-1_:B_,t_^(doctor_scientiarum)" src="auto">NNMXX-----A---8</AM>
+<AM lemma="DrSc_:B_^(doctor_scientiarum)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-vesm9212-042-p1s1w9">
 <src.rf>manual</src.rf>
@@ -225,7 +231,10 @@
 <LM>w#w-vesm9212-042-p5s1w13</LM>
 </w.rf>
 <form>rady</form>
-<tag lemma="rada-3_^(poradní_sbor;_př._Česká_národní_r.)" src="orig" selected="1">NNFS2-----A----</tag>
+<tag>
+<AM lemma="rada-3_^(poradní_sbor;_př._Česká_národní_r.)" src="orig">NNFS2-----A----</AM>
+<AM lemma="rada-1_^(př._dát_někomu_dobrou_radu;poradní_sbor)" src="manual" selected="1">NNFS2-----A----</AM>
+</tag>
 </m>
 <m id="m-vesm9212-042-p5s1w14">
 <src.rf>manual</src.rf>
@@ -421,7 +430,7 @@
 <form>vůbec</form>
 <tag>
 <AM lemma="vůbec" src="orig">Db-------------</AM>
-<AM lemma="vůbec" src="auto" recommended="1">TT-------------</AM>
+<AM lemma="vůbec" src="auto" recommended="1" selected="1">TT-------------</AM>
 </tag>
 </m>
 <m id="m-vesm9212-042-p7s1w16">
@@ -560,7 +569,10 @@
 <LM>w#w-vesm9212-042-p7s2w10</LM>
 </w.rf>
 <form>jen</form>
-<tag lemma="jen-1" src="auto" selected="1">TT-------------</tag>
+<tag>
+<AM lemma="jen-1" src="auto">TT-------------</AM>
+<AM lemma="jen-4_^(pouze)" src="manual" selected="1">Db-------------</AM>
+</tag>
 </m>
 <m id="m-vesm9212-042-p7s2w11">
 <src.rf>manual</src.rf>
@@ -1464,7 +1476,10 @@
 <LM>w#w-vesm9212-042-p10s1w2</LM>
 </w.rf>
 <form>M</form>
-<tag lemma="M-0_:B_;Y" src="orig" selected="1">NNMXX-----A---8</tag>
+<tag>
+<AM lemma="M-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
+<AM lemma="M-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-vesm9212-042-p10s1w3">
 <src.rf>manual</src.rf>

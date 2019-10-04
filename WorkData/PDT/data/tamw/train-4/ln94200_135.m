@@ -69,7 +69,10 @@
 <LM>w#w-ln94200-135-p2s1w2</LM>
 </w.rf>
 <form>Kakafonia</form>
-<tag lemma="Kakafonia_;K_,t" src="orig" selected="1">NNFS1-----A----</tag>
+<tag>
+<AM lemma="Kakafonia_;K_,t" src="orig">NNFS1-----A----</AM>
+<AM lemma="Kakafonia_;K" src="manual" selected="1">NNFS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94200-135-p2s1w3">
 <src.rf>manual</src.rf>
@@ -253,7 +256,10 @@
 <LM>w#w-ln94200-135-p2s1w25</LM>
 </w.rf>
 <form>sv</form>
-<tag lemma="svatý-1_:B" src="auto" selected="1">AAXXX----1A---8</tag>
+<tag>
+<AM lemma="svatý-1_:B" src="auto">AAXXX----1A---8</AM>
+<AM lemma="svatý-1" src="manual" selected="1">AAXXX----1A---8</AM>
+</tag>
 </m>
 <m id="m-ln94200-135-p2s1w26">
 <src.rf>manual</src.rf>

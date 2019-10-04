@@ -95,7 +95,10 @@
 <LM>w#w-ln94206-8-p2s2Aw1</LM>
 </w.rf>
 <form>Mgr</form>
-<tag lemma="Mgr-1_:B_^(magistr)" src="orig" selected="1">NNMXX-----A---8</tag>
+<tag>
+<AM lemma="Mgr-1_:B_^(magistr)" src="orig">NNMXX-----A---8</AM>
+<AM lemma="Mgr_:B_^(magistr)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94206-8-p2s2Aw2">
 <src.rf>manual</src.rf>
@@ -453,7 +456,7 @@
 <form>§</form>
 <tag>
 <AM lemma="§_^(paragraf)" src="orig">NNIXX-----A---1</AM>
-<AM lemma="paragraf" src="auto" recommended="1">NNIXX-----A---1</AM>
+<AM lemma="paragraf" src="auto" recommended="1" selected="1">NNIXX-----A---1</AM>
 </tag>
 </m>
 <m id="m-ln94206-8-p3s1w17">
@@ -590,7 +593,10 @@
 <LM>w#w-ln94206-8-p3s1w33</LM>
 </w.rf>
 <form>tj</form>
-<tag lemma="tj-1_:B_^(to_je/jest)" src="orig" selected="1">J^------------8</tag>
+<tag>
+<AM lemma="tj-1_:B_^(to_je/jest)" src="orig">J^------------8</AM>
+<AM lemma="tj-1_:B_^(to_je/jest)" src="manual" selected="1">J^-------------</AM>
+</tag>
 </m>
 <m id="m-ln94206-8-p3s1w34">
 <src.rf>manual</src.rf>
@@ -606,7 +612,10 @@
 <LM>w#w-ln94206-8-p3s1w35</LM>
 </w.rf>
 <form>zejména</form>
-<tag lemma="zejména-1" src="auto" selected="1">Db-------------</tag>
+<tag>
+<AM lemma="zejména-1" src="auto">Db-------------</AM>
+<AM lemma="zejména-2" src="manual" selected="1">TT-------------</AM>
+</tag>
 </m>
 <m id="m-ln94206-8-p3s1w36">
 <src.rf>manual</src.rf>
@@ -1284,7 +1293,10 @@
 <LM>w#w-ln94206-8-p4s3w10</LM>
 </w.rf>
 <form>tj</form>
-<tag lemma="tj-1_:B_^(to_je/jest)" src="orig" selected="1">J^------------8</tag>
+<tag>
+<AM lemma="tj-1_:B_^(to_je/jest)" src="orig">J^------------8</AM>
+<AM lemma="tj-1_:B_^(to_je/jest)" src="manual" selected="1">J^-------------</AM>
+</tag>
 </m>
 <m id="m-ln94206-8-p4s3w11">
 <src.rf>manual</src.rf>
@@ -1332,7 +1344,10 @@
 <LM>w#w-ln94206-8-p4s3w16</LM>
 </w.rf>
 <form>vydala</form>
-<tag lemma="vydat-1_:W_^(emitovat:_cenné_papíry,_knihu,_zvuk,...)" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag>
+<AM lemma="vydat-1_:W_^(emitovat:_cenné_papíry,_knihu,_zvuk,...)" src="orig">VpQW---XR-AA---</AM>
+<AM lemma="vydat_:W" src="manual" selected="1">VpQW---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-ln94206-8-p4s3w17">
 <src.rf>manual</src.rf>
@@ -1460,7 +1475,10 @@
 <LM>w#w-ln94206-8-p4s3w32</LM>
 </w.rf>
 <form>tzv</form>
-<tag lemma="takzvaný_:B" src="orig" selected="1">AAXXX----1A---8</tag>
+<tag>
+<AM lemma="takzvaný_:B" src="orig">AAXXX----1A---8</AM>
+<AM lemma="takzvaný" src="manual" selected="1">AAXXX----1A---8</AM>
+</tag>
 </m>
 <m id="m-ln94206-8-p4s3w33">
 <src.rf>manual</src.rf>
@@ -1518,7 +1536,10 @@
 <LM>w#w-ln94206-8-p5s1w3</LM>
 </w.rf>
 <form>li</form>
-<tag lemma="li-1" src="auto" selected="1">TT-------------</tag>
+<tag>
+<AM lemma="li-1" src="auto">TT-------------</AM>
+<AM lemma="li-2" src="manual" selected="1">J,-------------</AM>
+</tag>
 </m>
 <m id="m-ln94206-8-p5s1w4">
 <src.rf>manual</src.rf>
@@ -1922,7 +1943,10 @@
 <LM>w#w-ln94206-8-p6s1w3</LM>
 </w.rf>
 <form>č</form>
-<tag lemma="číslo_:B" src="orig" selected="1">NNNXX-----A---8</tag>
+<tag>
+<AM lemma="číslo_:B" src="orig">NNNXX-----A---8</AM>
+<AM lemma="číslo" src="manual" selected="1">NNNXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln94206-8-p6s1w4">
 <src.rf>manual</src.rf>
@@ -1962,7 +1986,10 @@
 <LM>w#w-ln94206-8-p6s1w8</LM>
 </w.rf>
 <form>Sb</form>
-<tag lemma="Sb-1_:B_;j_^(Sbírka,_např._zákonů)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="Sb-1_:B_;j_^(Sbírka,_např._zákonů)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="Sb-1_:B_^(Sbírka,_např._zákonů)" src="manual" selected="1">NNFXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94206-8-p6s1w9">
 <src.rf>manual</src.rf>
@@ -2042,7 +2069,10 @@
 <LM>w#w-ln94206-8-p6s1w18</LM>
 </w.rf>
 <form>vydávat</form>
-<tag lemma="vydávat-1_:T_^(emitovat:_cenné_papíry,_knihu,_zvuk,...)_(*6at-1)" src="orig" selected="1">Vf--------A----</tag>
+<tag>
+<AM lemma="vydávat-1_:T_^(emitovat:_cenné_papíry,_knihu,_zvuk,...)_(*6at-1)" src="orig">Vf--------A----</AM>
+<AM lemma="vydávat_:T_^(*4at)" src="manual" selected="1">Vf--------A----</AM>
+</tag>
 </m>
 <m id="m-ln94206-8-p6s1w19">
 <src.rf>manual</src.rf>
@@ -2138,7 +2168,10 @@
 <LM>w#w-ln94206-8-p6s1w30</LM>
 </w.rf>
 <form>ČR</form>
-<tag lemma="ČR-1_:B_;G_^(Česká_republika)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94206-8-p6s1w31">
 <src.rf>manual</src.rf>
@@ -2199,7 +2232,7 @@
 <tag>
 <AM lemma="tedy" src="orig">Db-------------</AM>
 <AM lemma="tedy-1" src="auto">TT-------------</AM>
-<AM lemma="tedy-2" src="auto" recommended="1">J^-------------</AM>
+<AM lemma="tedy-2" src="auto" recommended="1" selected="1">J^-------------</AM>
 </tag>
 </m>
 <m id="m-ln94206-8-p6s2w7">
@@ -2454,7 +2487,7 @@
 <form>§</form>
 <tag>
 <AM lemma="§_^(paragraf)" src="orig">NNIXX-----A---1</AM>
-<AM lemma="paragraf" src="auto" recommended="1">NNIXX-----A---1</AM>
+<AM lemma="paragraf" src="auto" recommended="1" selected="1">NNIXX-----A---1</AM>
 </tag>
 </m>
 <m id="m-ln94206-8-p7s1w5">
@@ -2514,7 +2547,7 @@
 <tag>
 <AM lemma="jakýkoliv" src="orig">PZZS2---------1</AM>
 <AM lemma="jakýkoli" src="auto">PZMS4----------</AM>
-<AM lemma="jakýkoli" src="auto" recommended="1">PZZS2----------</AM>
+<AM lemma="jakýkoli" src="auto" recommended="1" selected="1">PZZS2----------</AM>
 </tag>
 </m>
 <m id="m-ln94206-8-p7s1w12">
@@ -2621,7 +2654,10 @@
 <LM>w#w-ln94206-8-p7s2w3</LM>
 </w.rf>
 <form>mj</form>
-<tag lemma="mj-1_:B_^(mimo_jiné)" src="orig" selected="1">Db------------8</tag>
+<tag>
+<AM lemma="mj-1_:B_^(mimo_jiné)" src="orig">Db------------8</AM>
+<AM lemma="mj-1_:B_^(mimo_jiné)" src="manual" selected="1">Db-------------</AM>
+</tag>
 </m>
 <m id="m-ln94206-8-p7s2w4">
 <src.rf>manual</src.rf>
@@ -2967,7 +3003,10 @@
 <LM>w#w-ln94206-8-p7s3w10</LM>
 </w.rf>
 <form>tj</form>
-<tag lemma="tj-1_:B_^(to_je/jest)" src="orig" selected="1">J^------------8</tag>
+<tag>
+<AM lemma="tj-1_:B_^(to_je/jest)" src="orig">J^------------8</AM>
+<AM lemma="tj-1_:B_^(to_je/jest)" src="manual" selected="1">J^-------------</AM>
+</tag>
 </m>
 <m id="m-ln94206-8-p7s3w11">
 <src.rf>manual</src.rf>
@@ -3031,7 +3070,10 @@
 <LM>w#w-ln94206-8-p7s3w18</LM>
 </w.rf>
 <form>tj</form>
-<tag lemma="tj-1_:B_^(to_je/jest)" src="orig" selected="1">J^------------8</tag>
+<tag>
+<AM lemma="tj-1_:B_^(to_je/jest)" src="orig">J^------------8</AM>
+<AM lemma="tj-1_:B_^(to_je/jest)" src="manual" selected="1">J^-------------</AM>
+</tag>
 </m>
 <m id="m-ln94206-8-p7s3w19">
 <src.rf>manual</src.rf>
@@ -3145,7 +3187,10 @@
 <LM>w#w-ln94206-8-p7s4w3</LM>
 </w.rf>
 <form>li</form>
-<tag lemma="li-1" src="auto" selected="1">TT-------------</tag>
+<tag>
+<AM lemma="li-1" src="auto">TT-------------</AM>
+<AM lemma="li-2" src="manual" selected="1">J,-------------</AM>
+</tag>
 </m>
 <m id="m-ln94206-8-p7s4w4">
 <src.rf>manual</src.rf>
@@ -3945,7 +3990,7 @@
 <form>§</form>
 <tag>
 <AM lemma="§_^(paragraf)" src="orig">NNIXX-----A---1</AM>
-<AM lemma="paragraf" src="auto" recommended="1">NNIXX-----A---1</AM>
+<AM lemma="paragraf" src="auto" recommended="1" selected="1">NNIXX-----A---1</AM>
 </tag>
 </m>
 <m id="m-ln94206-8-p7s7w21">
@@ -4868,7 +4913,7 @@
 <form>totiž</form>
 <tag>
 <AM lemma="totiž" src="orig">Db-------------</AM>
-<AM lemma="totiž-1" src="auto" recommended="1">J^-------------</AM>
+<AM lemma="totiž-1" src="auto" recommended="1" selected="1">J^-------------</AM>
 <AM lemma="totiž-2" src="auto">TT-------------</AM>
 </tag>
 </m>

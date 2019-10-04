@@ -473,7 +473,10 @@
 <LM>w#w-ln95048-127-p2s2w27</LM>
 </w.rf>
 <form>řekl</form>
-<tag lemma="říci" src="auto" selected="1">VpYS---XR-AA---</tag>
+<tag>
+<AM lemma="říci" src="auto">VpYS---XR-AA---</AM>
+<AM lemma="říci_:W" src="manual" selected="1">VpYS---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-ln95048-127-p2s2w28">
 <src.rf>manual</src.rf>
@@ -497,7 +500,10 @@
 <LM>w#w-ln95048-127-p2s2w30</LM>
 </w.rf>
 <form>LN</form>
-<tag lemma="LN-1_:B_;R_^(Lidové_noviny,_deník)" src="orig" selected="1">NNFPX-----A---8</tag>
+<tag>
+<AM lemma="LN-1_:B_;R_^(Lidové_noviny,_deník)" src="orig">NNFPX-----A---8</AM>
+<AM lemma="LN-1_:B_;K_;R_^(Lidové_noviny)" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln95048-127-p2s2w31">
 <src.rf>manual</src.rf>
@@ -595,7 +601,10 @@
 <LM>w#w-ln95048-127-p3s1w11</LM>
 </w.rf>
 <form>ČSSD</form>
-<tag lemma="ČSSD-1_:B_;K_;p_^(Česká_strana_sociálně-demokratická)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ČSSD-1_:B_;K_;p_^(Česká_strana_sociálně-demokratická)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČSSD-1_:B_;K_^(Česká_strana_sociálně-demokratická)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95048-127-p3s1w12">
 <src.rf>manual</src.rf>
@@ -1431,7 +1440,7 @@
 <form>vůbec</form>
 <tag>
 <AM lemma="vůbec" src="orig">Db-------------</AM>
-<AM lemma="vůbec" src="auto" recommended="1">TT-------------</AM>
+<AM lemma="vůbec" src="auto" recommended="1" selected="1">TT-------------</AM>
 </tag>
 </m>
 <m id="m-ln95048-127-p4s3w5">
@@ -1610,7 +1619,10 @@
 <LM>w#w-ln95048-127-p4s4w16</LM>
 </w.rf>
 <form>ČSSD</form>
-<tag lemma="ČSSD-1_:B_;K_;p_^(Česká_strana_sociálně-demokratická)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ČSSD-1_:B_;K_;p_^(Česká_strana_sociálně-demokratická)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČSSD-1_:B_;K_^(Česká_strana_sociálně-demokratická)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95048-127-p4s4w17">
 <src.rf>manual</src.rf>
@@ -1634,7 +1646,10 @@
 <LM>w#w-ln95048-127-p4s4w19</LM>
 </w.rf>
 <form>SD</form>
-<tag lemma="SD_:B_;K" src="orig" selected="1">NNMPX-----A---8</tag>
+<tag>
+<AM lemma="SD_:B_;K" src="orig">NNMPX-----A---8</AM>
+<AM lemma="SD-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95048-127-p4s4w20">
 <src.rf>manual</src.rf>
@@ -1724,7 +1739,10 @@
 <LM>w#w-ln95048-127-p4s5w10</LM>
 </w.rf>
 <form>chápe</form>
-<tag lemma="chápat" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag>
+<AM lemma="chápat" src="orig">VB-S---3P-AA---</AM>
+<AM lemma="chápat_:T" src="manual" selected="1">VB-S---3P-AA---</AM>
+</tag>
 </m>
 <m id="m-ln95048-127-p4s5w11">
 <src.rf>manual</src.rf>
@@ -1830,7 +1848,10 @@
 <LM>w#w-ln95048-127-p5s1w6</LM>
 </w.rf>
 <form>řekl</form>
-<tag lemma="říci" src="auto" selected="1">VpYS---XR-AA---</tag>
+<tag>
+<AM lemma="říci" src="auto">VpYS---XR-AA---</AM>
+<AM lemma="říci_:W" src="manual" selected="1">VpYS---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-ln95048-127-p5s1w7">
 <src.rf>manual</src.rf>
@@ -1894,7 +1915,10 @@
 <LM>w#w-ln95048-127-p5s1w14</LM>
 </w.rf>
 <form>SD</form>
-<tag lemma="SD_:B_;K" src="orig" selected="1">NNMPX-----A---8</tag>
+<tag>
+<AM lemma="SD_:B_;K" src="orig">NNMPX-----A---8</AM>
+<AM lemma="SD-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95048-127-p5s1w15">
 <src.rf>manual</src.rf>
@@ -1998,7 +2022,10 @@
 <LM>w#w-ln95048-127-p5s1w27</LM>
 </w.rf>
 <form>začne</form>
-<tag lemma="začít-1_^(začnout)" src="auto" selected="1">VB-S---3P-AA---</tag>
+<tag>
+<AM lemma="začít-1_^(začnout)" src="auto">VB-S---3P-AA---</AM>
+<AM lemma="začít-1_:W_^(začnout)" src="manual" selected="1">VB-S---3P-AA---</AM>
+</tag>
 </m>
 <m id="m-ln95048-127-p5s1w28">
 <src.rf>manual</src.rf>
@@ -2160,7 +2187,10 @@
 <LM>w#w-ln95048-127-p5s2w19</LM>
 </w.rf>
 <form>ČSSD</form>
-<tag lemma="ČSSD-1_:B_;K_;p_^(Česká_strana_sociálně-demokratická)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ČSSD-1_:B_;K_;p_^(Česká_strana_sociálně-demokratická)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČSSD-1_:B_;K_^(Česká_strana_sociálně-demokratická)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95048-127-p5s2w20">
 <src.rf>manual</src.rf>

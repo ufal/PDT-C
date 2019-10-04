@@ -119,7 +119,10 @@
 <LM>w#w-ln94202-39-p2s1Bw5</LM>
 </w.rf>
 <form>skinheads</form>
-<tag lemma="skinheads_,t" src="auto" selected="1">NNNXX-----A----</tag>
+<tag>
+<AM lemma="skinheads_,t" src="auto">NNNXX-----A----</AM>
+<AM lemma="skinheads-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94202-39-p2s1Bw6">
 <src.rf>manual</src.rf>
@@ -223,7 +226,10 @@
 <LM>w#w-ln94202-39-p2s1Bw18</LM>
 </w.rf>
 <form>P</form>
-<tag lemma="P-0_:B_;Y" src="orig" selected="1">NNMXX-----A---8</tag>
+<tag>
+<AM lemma="P-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
+<AM lemma="P-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln94202-39-p2s1Bw19">
 <src.rf>manual</src.rf>

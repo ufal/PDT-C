@@ -143,7 +143,10 @@
 <LM>w#w-ln94210-110-p2s1Bw7</LM>
 </w.rf>
 <form>MDP</form>
-<tag lemma="MDP-2_:B_;K_,t_^(Movimento_Democrático_Portugués)" src="auto" selected="1">NNNXX-----A---8</tag>
+<tag>
+<AM lemma="MDP-2_:B_;K_,t_^(Movimento_Democrático_Portugués)" src="auto">NNNXX-----A---8</AM>
+<AM lemma="MDP-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln94210-110-p2s1Bw8">
 <src.rf>manual</src.rf>
@@ -364,7 +367,7 @@
 <tag>
 <AM lemma="Brak_;K" src="orig">NNIS1-----A----</AM>
 <AM lemma="braka_^(lovecký_pes)" src="auto">NNFP2-----A----</AM>
-<AM lemma="brak" src="auto" recommended="1">NNIS1-----A----</AM>
+<AM lemma="brak" src="auto" recommended="1" selected="1">NNIS1-----A----</AM>
 <AM lemma="brak" src="auto">NNIS4-----A----</AM>
 </tag>
 </m>
@@ -878,7 +881,10 @@
 <LM>w#w-ln94210-110-p4s3w25</LM>
 </w.rf>
 <form>MDP</form>
-<tag lemma="MDP-2_:B_;K_,t_^(Movimento_Democrático_Portugués)" src="auto" selected="1">NNNXX-----A---8</tag>
+<tag>
+<AM lemma="MDP-2_:B_;K_,t_^(Movimento_Democrático_Portugués)" src="auto">NNNXX-----A---8</AM>
+<AM lemma="MDP-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln94210-110-p4s3w26">
 <src.rf>manual</src.rf>
@@ -1049,7 +1055,7 @@
 <tag>
 <AM lemma="starost" src="orig">NNFS7-----A----</AM>
 <AM lemma="starost-1" src="auto">NNFP2-----A----</AM>
-<AM lemma="starost-1" src="auto" recommended="1">NNFS7-----A----</AM>
+<AM lemma="starost-1" src="auto" recommended="1" selected="1">NNFS7-----A----</AM>
 <AM lemma="starost-2_^(člověk,_věc)_(*5ý-2)" src="auto">NNFP2-----A----</AM>
 <AM lemma="starost-2_^(člověk,_věc)_(*5ý-2)" src="auto">NNFS7-----A----</AM>
 </tag>
@@ -1465,7 +1471,10 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>sezoně</form>
-<tag lemma="sezona" src="orig" selected="1">NNFS6-----A----</tag>
+<tag>
+<AM lemma="sezona" src="orig">NNFS6-----A----</AM>
+<AM lemma="sezona_,s_^(^DD**sezóna)" src="manual" selected="1">NNFS6-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94210-110-p6s4w25">
 <src.rf>manual</src.rf>
@@ -1693,7 +1702,10 @@
 <LM>w#w-ln94210-110-p7s1w4</LM>
 </w.rf>
 <form>MDP</form>
-<tag lemma="MDP-2_:B_;K_,t_^(Movimento_Democrático_Portugués)" src="auto" selected="1">NNNXX-----A---8</tag>
+<tag>
+<AM lemma="MDP-2_:B_;K_,t_^(Movimento_Democrático_Portugués)" src="auto">NNNXX-----A---8</AM>
+<AM lemma="MDP-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln94210-110-p7s1w5">
 <src.rf>manual</src.rf>
@@ -2559,7 +2571,10 @@
 <LM>w#w-ln94210-110-p8s5w8</LM>
 </w.rf>
 <form>diskuse</form>
-<tag lemma="diskuse" src="orig" selected="1">NNFP4-----A----</tag>
+<tag>
+<AM lemma="diskuse" src="orig">NNFP4-----A----</AM>
+<AM lemma="diskuse_,s_^(^DD**diskuze)" src="manual" selected="1">NNFP4-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94210-110-p8s5w9">
 <src.rf>manual</src.rf>
@@ -2657,7 +2672,10 @@
 <LM>w#w-ln94210-110-p8s6w11</LM>
 </w.rf>
 <form>MDP</form>
-<tag lemma="MDP-2_:B_;K_,t_^(Movimento_Democrático_Portugués)" src="auto" selected="1">NNNXX-----A---8</tag>
+<tag>
+<AM lemma="MDP-2_:B_;K_,t_^(Movimento_Democrático_Portugués)" src="auto">NNNXX-----A---8</AM>
+<AM lemma="MDP-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln94210-110-p8s6w12">
 <src.rf>manual</src.rf>
@@ -3419,7 +3437,7 @@
 <form>nejspíš</form>
 <tag>
 <AM lemma="spíše" src="orig">Dg-------3A----</AM>
-<AM lemma="nejspíš" src="auto">TT-------------</AM>
+<AM lemma="nejspíš" src="auto" selected="1">TT-------------</AM>
 <AM lemma="spíš" src="auto" recommended="1">Dg-------3A----</AM>
 </tag>
 </m>
@@ -3591,7 +3609,10 @@
 <LM>w#w-ln94210-110-p11s1w1</LM>
 </w.rf>
 <form>MDP</form>
-<tag lemma="MDP-2_:B_;K_,t_^(Movimento_Democrático_Portugués)" src="auto" selected="1">NNNXX-----A---8</tag>
+<tag>
+<AM lemma="MDP-2_:B_;K_,t_^(Movimento_Democrático_Portugués)" src="auto">NNNXX-----A---8</AM>
+<AM lemma="MDP-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln94210-110-p11s1w2">
 <src.rf>manual</src.rf>
@@ -3796,7 +3817,7 @@
 <tag>
 <AM lemma="tady" src="orig">Db------------1</AM>
 <AM lemma="ten" src="auto">PDFS4----------</AM>
-<AM lemma="tu" src="auto" recommended="1">Db-------------</AM>
+<AM lemma="tu" src="auto" recommended="1" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m-ln94210-110-p12s1w9">
@@ -4129,7 +4150,10 @@
 <LM>w#w-ln94210-110-p13s1w3</LM>
 </w.rf>
 <form>MDP</form>
-<tag lemma="MDP-2_:B_;K_,t_^(Movimento_Democrático_Portugués)" src="auto" selected="1">NNNXX-----A---8</tag>
+<tag>
+<AM lemma="MDP-2_:B_;K_,t_^(Movimento_Democrático_Portugués)" src="auto">NNNXX-----A---8</AM>
+<AM lemma="MDP-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln94210-110-p13s1w4">
 <src.rf>manual</src.rf>
@@ -4201,7 +4225,10 @@
 <LM>w#w-ln94210-110-p13s1w12</LM>
 </w.rf>
 <form>Otomara</form>
-<tag lemma="Otomar_;G" src="auto" selected="1">NNMS2-----A----</tag>
+<tag>
+<AM lemma="Otomar_;G" src="auto">NNMS2-----A----</AM>
+<AM lemma="Otomar_;Y" src="manual" selected="1">NNMS2-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94210-110-p13s1w13">
 <src.rf>manual</src.rf>
@@ -4429,7 +4456,10 @@
 <LM>w#w-ln94210-110-p14s2w2</LM>
 </w.rf>
 <form>Adrie</form>
-<tag lemma="Adrie_;Y" src="auto" selected="1">NNFS2-----A----</tag>
+<tag>
+<AM lemma="Adrie_;Y" src="auto">NNFS2-----A----</AM>
+<AM lemma="Adrie-2_;K" src="manual" selected="1">NNFS2-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94210-110-p14s2w3">
 <src.rf>manual</src.rf>

@@ -22,6 +22,7 @@
 <tag>
 <AM lemma="Čchi_;Y" src="orig">NNMS1-----A----</AM>
 <AM lemma="Čchi-1_;G_,t" src="auto" recommended="1">NNNXX-----A----</AM>
+<AM lemma="Čchi-2_;S" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94201-112-p1s1w2">
@@ -30,7 +31,10 @@
 <LM>w#w-ln94201-112-p1s1w2</LM>
 </w.rf>
 <form>Paj</form>
-<tag lemma="Paj_;E" src="auto" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Paj_;E" src="auto">NNMS1-----A----</AM>
+<AM lemma="Paj-2_;Y" src="manual" selected="1">NNMXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94201-112-p1s1w3">
 <src.rf>manual</src.rf>
@@ -50,6 +54,7 @@
 <AM lemma="š'_;Y" src="orig">NNMS1-----A----</AM>
 <AM lemma="š-3_^(označení_pomocí_písmene)" src="auto" recommended="1">NNNXX-----A----</AM>
 <AM lemma="š-8_:B_^(ost._zkratka)" src="auto">XX------------8</AM>
+<AM lemma="š-1_;Y" src="manual" selected="1">NNMXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94201-112-p1s1w5">
@@ -969,6 +974,8 @@
 <tag>
 <AM lemma="Čchi_;Y" src="orig">NNMXX-----A----</AM>
 <AM lemma="Čchi-1_;G_,t" src="auto" recommended="1">NNNXX-----A----</AM>
+<AM lemma="Čchi-2_;S " src="manual">NNMXX-----A----</AM>
+<AM lemma="Čchi-2_;S" src="manual" selected="1">NNMXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94201-112-p2s2w21">
@@ -980,6 +987,7 @@
 <tag>
 <AM lemma="Paj_;Y" src="orig">NNMXX-----A----</AM>
 <AM lemma="Paj_;E" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Paj-2_;Y" src="manual" selected="1">NNMXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94201-112-p2s2w22">
@@ -1000,6 +1008,7 @@
 <AM lemma="š'ův_;S_^(*2)" src="orig">AUNS2M---------</AM>
 <AM lemma="š-3_^(označení_pomocí_písmene)" src="auto" recommended="1">NNNXX-----A----</AM>
 <AM lemma="š-8_:B_^(ost._zkratka)" src="auto">XX------------8</AM>
+<AM lemma="š-1_;Y" src="manual" selected="1">NNMXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94201-112-p2s2w24">

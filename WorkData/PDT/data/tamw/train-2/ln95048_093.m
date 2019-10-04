@@ -35,7 +35,10 @@
 <LM>w#w-ln95048-093-p1s1w3</LM>
 </w.rf>
 <form>Navrátilovou</form>
-<tag lemma="Navrátilová_;S_;w" src="orig" selected="1">NNFS4-----A----</tag>
+<tag>
+<AM lemma="Navrátilová_;S_;w" src="orig">NNFS4-----A----</AM>
+<AM lemma="Navrátilová_;S" src="manual" selected="1">NNFS7-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95048-093-p1s1w4">
 <src.rf>manual</src.rf>
@@ -53,7 +56,10 @@
 <LM>w#w-ln95048-093-p2s1Aw1</LM>
 </w.rf>
 <form>New</form>
-<tag lemma="New-1_;G_,t_^(součást_míst._jmen)" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="New-1_;G_,t_^(součást_míst._jmen)" src="orig">AAXXX----1A----</AM>
+<AM lemma="New-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln95048-093-p2s1Aw2">
 <src.rf>manual</src.rf>
@@ -61,7 +67,10 @@
 <LM>w#w-ln95048-093-p2s1Aw2</LM>
 </w.rf>
 <form>York</form>
-<tag lemma="York-2_;G" src="orig" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="York-2_;G" src="orig">NNIS1-----A----</AM>
+<AM lemma="York-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln95048-093-p2s1Aw3">
 <src.rf>manual</src.rf>
@@ -120,7 +129,7 @@
 </w.rf>
 <form>Billie</form>
 <tag>
-<AM lemma="Billie_;Y" src="orig">NNFXX-----A----</AM>
+<AM lemma="Billie_;Y" src="orig" selected="1">NNFXX-----A----</AM>
 <AM lemma="Billie_;Y_,t" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Billie_;Y_,t" src="auto">NNMS5-----A----</AM>
 </tag>
@@ -517,7 +526,10 @@
 <LM>w#w-ln95048-093-p2s2w40</LM>
 </w.rf>
 <form>Navrátilovou</form>
-<tag lemma="Navrátilová_;S_;w" src="orig" selected="1">NNFS4-----A----</tag>
+<tag>
+<AM lemma="Navrátilová_;S_;w" src="orig">NNFS4-----A----</AM>
+<AM lemma="Navrátilová_;S" src="manual" selected="1">NNFS7-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95048-093-p2s2w41">
 <src.rf>manual</src.rf>

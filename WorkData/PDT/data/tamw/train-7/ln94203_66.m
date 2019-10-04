@@ -27,7 +27,10 @@
 <LM>w#w-ln94203-66-p1s1w2</LM>
 </w.rf>
 <form>Blackie</form>
-<tag lemma="Blackie_;Y" src="orig" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Blackie_;Y" src="orig">NNMS1-----A----</AM>
+<AM lemma="Blackie-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94203-66-p1s1w3">
 <src.rf>manual</src.rf>
@@ -131,7 +134,10 @@
 <LM>w#w-ln94203-66-p1s1w15</LM>
 </w.rf>
 <form>J</form>
-<tag lemma="J-0_:B_;Y" src="orig" selected="1">NNMXX-----A---8</tag>
+<tag>
+<AM lemma="J-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
+<AM lemma="J-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln94203-66-p1s1w16">
 <src.rf>manual</src.rf>
@@ -327,7 +333,10 @@
 <LM>w#w-ln94203-66-p1s3w3</LM>
 </w.rf>
 <form>ČTK</form>
-<tag lemma="ČTK-1_:B_;K_^(Čs./Česká_tisková_kancelář)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ČTK-1_:B_;K_^(Čs./Česká_tisková_kancelář)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČTK-1_:B_;K_^(Čs./Česká_tisková_kancelář)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94203-66-p1s3w4">
 <src.rf>manual</src.rf>
@@ -343,7 +352,10 @@
 <LM>w#w-ln94203-66-p1s3w5</LM>
 </w.rf>
 <form>AP</form>
-<tag lemma="AP-3_:B_;K_,t_^(Associated_Press,_tisková_agentura)" src="auto" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="AP-3_:B_;K_,t_^(Associated_Press,_tisková_agentura)" src="auto">NNFXX-----A---8</AM>
+<AM lemma="AP-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 </s>
 </mdata>

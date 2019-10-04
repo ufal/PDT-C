@@ -19,7 +19,10 @@
 <LM>w#w-ln94200-175-p1s1w1</LM>
 </w.rf>
 <form>Michael</form>
-<tag lemma="Michael_;S_;Y" src="auto" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Michael_;S_;Y" src="auto">NNMS1-----A----</AM>
+<AM lemma="Michael_;Y_;S" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94200-175-p1s1w2">
 <src.rf>manual</src.rf>
@@ -102,6 +105,7 @@
 <tag>
 <AM lemma="Hud_;R_,t" src="orig">NNXXX-----A----</AM>
 <AM lemma="Hud_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Hud-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-ln94200-175-p1s1w12">
@@ -250,7 +254,10 @@
 <LM>w#w-ln94200-175-p1s3w3</LM>
 </w.rf>
 <form>ČT</form>
-<tag lemma="ČT_:B_;K_^(Česká_televize)" src="auto" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="ČT_:B_;K_^(Česká_televize)" src="auto">NNXXX-----A---8</AM>
+<AM lemma="ČT_:B_;K_^(Česká_televize)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94200-175-p1s3w4">
 <src.rf>manual</src.rf>

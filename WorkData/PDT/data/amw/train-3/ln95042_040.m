@@ -41,6 +41,7 @@
 <AM lemma="Kuala_;G" src="orig">AAXXX----1A----</AM>
 <AM lemma="Kuala_;G" src="auto" recommended="1">NNFS1-----A----</AM>
 <AM lemma="Kuala_;G" src="auto">NNXXX-----A---1</AM>
+<AM lemma="Kuala-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-ln95042-040-p2s1Aw2">
@@ -49,7 +50,10 @@
 <LM>w#w-ln95042-040-p2s1Aw2</LM>
 </w.rf>
 <form>Lumpur</form>
-<tag lemma="Lumpur_;G" src="orig" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="Lumpur_;G" src="orig">NNIS1-----A----</AM>
+<AM lemma="Lumpur-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln95042-040-p2s1Aw3">
 <src.rf>manual</src.rf>
@@ -215,7 +219,7 @@
 <form>vůbec</form>
 <tag>
 <AM lemma="vůbec" src="orig">Db-------------</AM>
-<AM lemma="vůbec" src="auto" recommended="1">TT-------------</AM>
+<AM lemma="vůbec" src="auto" recommended="1" selected="1">TT-------------</AM>
 </tag>
 </m>
 <m id="m-ln95042-040-p2s2w5">
@@ -288,7 +292,10 @@
 <LM>w#w-ln95042-040-p2s2w13</LM>
 </w.rf>
 <form>začala</form>
-<tag lemma="začít-1_^(začnout)" src="auto" selected="1">VpQW---XR-AA---</tag>
+<tag>
+<AM lemma="začít-1_^(začnout)" src="auto">VpQW---XR-AA---</AM>
+<AM lemma="začít-1_:W_^(začnout)" src="manual" selected="1">VpQW---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-ln95042-040-p2s2w14">
 <src.rf>manual</src.rf>
@@ -402,7 +409,10 @@
 <LM>w#w-ln95042-040-p2s3w5</LM>
 </w.rf>
 <form>jen</form>
-<tag lemma="jen-1" src="auto" selected="1">TT-------------</tag>
+<tag>
+<AM lemma="jen-1" src="auto">TT-------------</AM>
+<AM lemma="jen-4_^(pouze)" src="manual" selected="1">Db-------------</AM>
+</tag>
 </m>
 <m id="m-ln95042-040-p2s3w6">
 <src.rf>manual</src.rf>

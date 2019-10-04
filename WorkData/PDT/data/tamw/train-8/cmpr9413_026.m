@@ -53,7 +53,10 @@
 <LM>w#w-cmpr9413-026-p3s1w4</LM>
 </w.rf>
 <form>ČR</form>
-<tag lemma="ČR-1_:B_;G_^(Česká_republika)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-cmpr9413-026-p3s1w5">
 <src.rf>manual</src.rf>
@@ -754,7 +757,10 @@
 <LM>w#w-cmpr9413-026-p4s1w2</LM>
 </w.rf>
 <form>U</form>
-<tag lemma="U-0_:B_;Y" src="orig" selected="1">NNMXX-----A---8</tag>
+<tag>
+<AM lemma="U-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
+<AM lemma="U-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-cmpr9413-026-p4s1w3">
 <src.rf>manual</src.rf>
@@ -834,7 +840,10 @@
 <LM>w#w-cmpr9413-026-p4s1w12</LM>
 </w.rf>
 <form>AG</form>
-<tag lemma="AG-1_:B_;b_,t_^(označ._něm._akciové_spol.)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="AG-1_:B_;b_,t_^(označ._něm._akciové_spol.)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="AG-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 </s>
 </mdata>

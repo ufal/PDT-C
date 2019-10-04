@@ -35,7 +35,10 @@
 <LM>w#w-mf930709-017-p1s1w3</LM>
 </w.rf>
 <form>stavět</form>
-<tag lemma="stavět" src="auto" selected="1">Vf--------A----</tag>
+<tag>
+<AM lemma="stavět" src="auto">Vf--------A----</AM>
+<AM lemma="stavět_:T" src="manual" selected="1">Vf--------A----</AM>
+</tag>
 </m>
 <m id="m-mf930709-017-p1s1w4">
 <src.rf>manual</src.rf>
@@ -69,7 +72,10 @@
 <LM>w#w-mf930709-017-p2s1Aw3</LM>
 </w.rf>
 <form>ouš</form>
-<tag lemma="ouš-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="ouš-99_:B_;S" src="orig">NNXXX-----A---8</AM>
+<AM lemma="ouš-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930709-017-p2s1Aw4">
 <src.rf>manual</src.rf>
@@ -119,7 +125,10 @@
 <LM>w#w-mf930709-017-p2s1Bw4</LM>
 </w.rf>
 <form>ani</form>
-<tag lemma="ani-1" src="auto" selected="1">J^-------------</tag>
+<tag>
+<AM lemma="ani-1" src="auto">J^-------------</AM>
+<AM lemma="ani-2" src="manual" selected="1">TT-------------</AM>
+</tag>
 </m>
 <m id="m-mf930709-017-p2s1Bw5">
 <src.rf>manual</src.rf>
@@ -293,7 +302,7 @@
 <form>totiž</form>
 <tag>
 <AM lemma="totiž" src="orig">Db-------------</AM>
-<AM lemma="totiž-1" src="auto" recommended="1">J^-------------</AM>
+<AM lemma="totiž-1" src="auto" recommended="1" selected="1">J^-------------</AM>
 <AM lemma="totiž-2" src="auto">TT-------------</AM>
 </tag>
 </m>
@@ -513,7 +522,10 @@
 <LM>w#w-mf930709-017-p2s4w13</LM>
 </w.rf>
 <form>stál</form>
-<tag lemma="stát-4_^(něco_stojí_peníze)" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag>
+<AM lemma="stát-4_^(něco_stojí_peníze)" src="orig">VpYS---XR-AA---</AM>
+<AM lemma="stát-3_^(stojím_stojíš)" src="manual" selected="1">VpYS---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-mf930709-017-p2s4w14">
 <src.rf>manual</src.rf>
@@ -594,7 +606,10 @@
 <LM>w#w-mf930709-017-p2s4w23</LM>
 </w.rf>
 <form>stálo</form>
-<tag lemma="stát-4_^(něco_stojí_peníze)" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag>
+<AM lemma="stát-4_^(něco_stojí_peníze)" src="orig">VpNS---XR-AA---</AM>
+<AM lemma="stát-3_^(stojím_stojíš)" src="manual" selected="1">VpNS---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-mf930709-017-p2s4w24">
 <src.rf>manual</src.rf>
@@ -652,7 +667,10 @@
 <LM>w#w-mf930709-017-p3s1w5</LM>
 </w.rf>
 <form>stavět</form>
-<tag lemma="stavět" src="auto" selected="1">Vf--------A----</tag>
+<tag>
+<AM lemma="stavět" src="auto">Vf--------A----</AM>
+<AM lemma="stavět_:T" src="manual" selected="1">Vf--------A----</AM>
+</tag>
 </m>
 <m id="m-mf930709-017-p3s1w6">
 <src.rf>manual</src.rf>

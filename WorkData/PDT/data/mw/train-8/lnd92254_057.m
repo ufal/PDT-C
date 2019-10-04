@@ -37,7 +37,7 @@
 <form>JAJCE</form>
 <tag>
 <AM lemma="Jajce_;G" src="orig">NNNS1-----A----</AM>
-<AM lemma="Jajce_;G" src="auto">NNIP1-----A----</AM>
+<AM lemma="Jajce_;G" src="auto" selected="1">NNIP1-----A----</AM>
 <AM lemma="Jajce_;G" src="auto" recommended="1">NNIP4-----A----</AM>
 <AM lemma="Jajce_;G" src="auto">NNIP5-----A----</AM>
 </tag>
@@ -764,7 +764,10 @@
 <LM>w#w-lnd92254-057-p4s2w7</LM>
 </w.rf>
 <form>Petar</form>
-<tag lemma="Petar_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Petar_;S" src="orig">NNMS1-----A----</AM>
+<AM lemma="Petar_;Y_;S" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92254-057-p4s2w8">
 <src.rf>manual</src.rf>
@@ -1019,7 +1022,7 @@
 <tag>
 <AM lemma="Sarajevo_;G" src="orig">NNNS6-----A----</AM>
 <AM lemma="Sarajevo_;G" src="auto">NNNS3-----A----</AM>
-<AM lemma="Sarajevo_;G" src="auto" recommended="1">NNNS6-----A---1</AM>
+<AM lemma="Sarajevo_;G" src="auto" recommended="1" selected="1">NNNS6-----A---1</AM>
 </tag>
 </m>
 <m id="m-lnd92254-057-p5s1w4">
@@ -1330,7 +1333,7 @@
 <form>Jajce</form>
 <tag>
 <AM lemma="Jajce_;G" src="orig">NNNS1-----A----</AM>
-<AM lemma="Jajce_;G" src="auto" recommended="1">NNIP1-----A----</AM>
+<AM lemma="Jajce_;G" src="auto" recommended="1" selected="1">NNIP1-----A----</AM>
 <AM lemma="Jajce_;G" src="auto">NNIP4-----A----</AM>
 <AM lemma="Jajce_;G" src="auto">NNIP5-----A----</AM>
 </tag>
@@ -1882,7 +1885,7 @@
 </w.rf>
 <form>Božidara</form>
 <tag>
-<AM lemma="Božidar_;Y" src="orig">NNMS4-----A----</AM>
+<AM lemma="Božidar_;Y" src="orig" selected="1">NNMS4-----A----</AM>
 <AM lemma="Božidara_;Y" src="auto" recommended="1">NNFS1-----A----</AM>
 </tag>
 </m>
@@ -2021,7 +2024,7 @@
 </w.rf>
 <form>Trebinjí</form>
 <tag>
-<AM lemma="Trebinja_;G" src="orig">NNFS7-----A----</AM>
+<AM lemma="Trebinja_;G" src="orig" selected="1">NNFS7-----A----</AM>
 <AM lemma="Trebinje_;G" src="auto" recommended="1">NNNP2-----A----</AM>
 </tag>
 </m>
@@ -2269,6 +2272,7 @@
 <AM lemma="Banja_;G" src="orig">AAXXX----1A----</AM>
 <AM lemma="Banja_;G" src="auto" recommended="1">NNFS1-----A----</AM>
 <AM lemma="bendžo" src="auto">NNNS2-----A----</AM>
+<AM lemma="Banja-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-lnd92254-057-p8s1w14">
@@ -2277,7 +2281,10 @@
 <LM>w#w-lnd92254-057-p8s1w14</LM>
 </w.rf>
 <form>Lukou</form>
-<tag lemma="louka" src="orig" selected="1">NNFS7-----A---3</tag>
+<tag>
+<AM lemma="louka" src="orig">NNFS7-----A---3</AM>
+<AM lemma="Luka_;G" src="manual" selected="1">NNFS7-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92254-057-p8s1w15">
 <src.rf>manual</src.rf>
@@ -2298,6 +2305,7 @@
 <AM lemma="Jajce_;G" src="auto">NNIP1-----A----</AM>
 <AM lemma="Jajce_;G" src="auto" recommended="1">NNIP4-----A----</AM>
 <AM lemma="Jajce_;G" src="auto">NNIP5-----A----</AM>
+<AM lemma="Jajce_;G" src="manual" selected="1">NNIXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92254-057-p8s1w17">
@@ -2518,7 +2526,10 @@
 <LM>w#w-lnd92254-057-p9s1w7</LM>
 </w.rf>
 <form>Cyrus</form>
-<tag lemma="Cyrus_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Cyrus_;S" src="orig">NNMS1-----A----</AM>
+<AM lemma="Cyrus_;Y_;S" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92254-057-p9s1w8">
 <src.rf>manual</src.rf>
@@ -2550,7 +2561,10 @@
 <LM>w#w-lnd92254-057-p9s1w11</LM>
 </w.rf>
 <form>Owen</form>
-<tag lemma="Owen_;Y" src="orig" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Owen_;Y" src="orig">NNMS1-----A----</AM>
+<AM lemma="Owen_;Y_;S" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92254-057-p9s1w12">
 <src.rf>manual</src.rf>
@@ -2705,7 +2719,7 @@
 </w.rf>
 <form>Skopje</form>
 <tag>
-<AM lemma="Skopje_;G" src="orig">NNFXX-----A----</AM>
+<AM lemma="Skopje_;G" src="orig" selected="1">NNFXX-----A----</AM>
 <AM lemma="Skopje_;G" src="auto">NNFP1-----A----</AM>
 <AM lemma="Skopje_;G" src="auto" recommended="1">NNFP4-----A----</AM>
 <AM lemma="Skopje_;G" src="auto">NNFP5-----A----</AM>
@@ -2737,7 +2751,7 @@
 </w.rf>
 <form>Podgorici</form>
 <tag>
-<AM lemma="Podgorica_;G" src="orig">NNFS4-----A----</AM>
+<AM lemma="Podgorica_;G" src="orig" selected="1">NNFS4-----A----</AM>
 <AM lemma="Podgorica_;G" src="auto" recommended="1">NNFS3-----A----</AM>
 <AM lemma="Podgorica_;G" src="auto">NNFS6-----A----</AM>
 </tag>

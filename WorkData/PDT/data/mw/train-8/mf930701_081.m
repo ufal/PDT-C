@@ -255,7 +255,10 @@
 <LM>w#w-mf930701-081-p2s1w16</LM>
 </w.rf>
 <form>FC</form>
-<tag lemma="FC-1_:B_;K_;w_^(Football_Club,_př._FC_Sparta)" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="FC-1_:B_;K_;w_^(Football_Club,_př._FC_Sparta)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="FC-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-mf930701-081-p2s1w17">
 <src.rf>manual</src.rf>
@@ -267,6 +270,7 @@
 <AM lemma="Dundee_;K" src="orig">NNIXX-----A----</AM>
 <AM lemma="Dundee_;S" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Dundee_;S" src="auto">NNMS5-----A----</AM>
+<AM lemma="Dundee-2_;K" src="manual" selected="1">NNIXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930701-081-p2s1w18">
@@ -571,7 +575,7 @@
 <form>raději</form>
 <tag>
 <AM lemma="raději" src="orig">Dg-------2A----</AM>
-<AM lemma="rád" src="auto" recommended="1">Dg-------2A----</AM>
+<AM lemma="rád" src="auto" recommended="1" selected="1">Dg-------2A----</AM>
 </tag>
 </m>
 <m id="m-mf930701-081-p2s4w6">
@@ -694,7 +698,10 @@
 <LM>w#w-mf930701-081-p2s5w6</LM>
 </w.rf>
 <form>jen</form>
-<tag lemma="jen-1" src="auto" selected="1">TT-------------</tag>
+<tag>
+<AM lemma="jen-1" src="auto">TT-------------</AM>
+<AM lemma="jen-4_^(pouze)" src="manual" selected="1">Db-------------</AM>
+</tag>
 </m>
 <m id="m-mf930701-081-p2s5w7">
 <src.rf>manual</src.rf>
@@ -811,7 +818,7 @@
 <tag>
 <AM lemma="tedy" src="orig">Db-------------</AM>
 <AM lemma="tedy-1" src="auto">TT-------------</AM>
-<AM lemma="tedy-2" src="auto" recommended="1">J^-------------</AM>
+<AM lemma="tedy-2" src="auto" recommended="1" selected="1">J^-------------</AM>
 </tag>
 </m>
 <m id="m-mf930701-081-p2s6w4">
@@ -828,7 +835,10 @@
 <LM>w#w-mf930701-081-p2s6w5</LM>
 </w.rf>
 <form>Celtik</form>
-<tag lemma="Celtik_;G" src="orig" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="Celtik_;G" src="orig">NNIS1-----A----</AM>
+<AM lemma="Celtik_;G_;K" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930701-081-p2s6w6">
 <src.rf>manual</src.rf>
@@ -860,7 +870,10 @@
 <LM>w#w-mf930701-081-p2s6w9</LM>
 </w.rf>
 <form>FC</form>
-<tag lemma="FC-1_:B_;K_;w_^(Football_Club,_př._FC_Sparta)" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="FC-1_:B_;K_;w_^(Football_Club,_př._FC_Sparta)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="FC-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-mf930701-081-p2s6w10">
 <src.rf>manual</src.rf>
@@ -888,6 +901,7 @@
 <AM lemma="Dundee_;K" src="orig">NNIXX-----A----</AM>
 <AM lemma="Dundee_;S" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Dundee_;S" src="auto">NNMS5-----A----</AM>
+<AM lemma="Dundee-2_;K" src="manual" selected="1">NNIXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930701-081-p2s6w13">
@@ -896,7 +910,10 @@
 <LM>w#w-mf930701-081-p2s6w13</LM>
 </w.rf>
 <form>United</form>
-<tag lemma="United_;K_,t_^(souč._angl._názvu)" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="United_;K_,t_^(souč._angl._názvu)" src="orig">AAXXX----1A----</AM>
+<AM lemma="United-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-mf930701-081-p2s6w14">
 <src.rf>manual</src.rf>
@@ -928,7 +945,10 @@
 <LM>w#w-mf930701-081-p2s6w17</LM>
 </w.rf>
 <form>jen</form>
-<tag lemma="jen-1" src="auto" selected="1">TT-------------</tag>
+<tag>
+<AM lemma="jen-1" src="auto">TT-------------</AM>
+<AM lemma="jen-4_^(pouze)" src="manual" selected="1">Db-------------</AM>
+</tag>
 </m>
 <m id="m-mf930701-081-p2s6w18">
 <src.rf>manual</src.rf>
@@ -1146,7 +1166,10 @@
 <LM>w#w-mf930701-081-p2s7w25</LM>
 </w.rf>
 <form>ani</form>
-<tag lemma="ani-1" src="auto" selected="1">J^-------------</tag>
+<tag>
+<AM lemma="ani-1" src="auto">J^-------------</AM>
+<AM lemma="ani-2" src="manual" selected="1">TT-------------</AM>
+</tag>
 </m>
 <m id="m-mf930701-081-p2s7w26">
 <src.rf>manual</src.rf>
@@ -1210,7 +1233,7 @@
 <AM lemma="taka-1_;L" src="auto">NNFP4-----A----</AM>
 <AM lemma="taka-1_;L" src="auto">NNFP5-----A----</AM>
 <AM lemma="taka-1_;L" src="auto">NNFS2-----A----</AM>
-<AM lemma="taky" src="auto" recommended="1">Db-------------</AM>
+<AM lemma="taky" src="auto" recommended="1" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m-mf930701-081-p2s8w5">
@@ -1267,7 +1290,10 @@
 <LM>w#w-mf930701-081-p2s8w11</LM>
 </w.rf>
 <form>jen</form>
-<tag lemma="jen-1" src="auto" selected="1">TT-------------</tag>
+<tag>
+<AM lemma="jen-1" src="auto">TT-------------</AM>
+<AM lemma="jen-4_^(pouze)" src="manual" selected="1">Db-------------</AM>
+</tag>
 </m>
 <m id="m-mf930701-081-p2s8w12">
 <src.rf>manual</src.rf>
@@ -1283,7 +1309,10 @@
 <LM>w#w-mf930701-081-p2s8w13</LM>
 </w.rf>
 <form>lavičce</form>
-<tag lemma="lavička-2" src="auto" selected="1">NNFS6-----A----</tag>
+<tag>
+<AM lemma="lavička-2" src="auto">NNFS6-----A----</AM>
+<AM lemma="lavička" src="manual" selected="1">NNFS6-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930701-081-p2s8w14">
 <src.rf>manual</src.rf>
@@ -1307,7 +1336,10 @@
 <LM>w#w-mf930701-081-p2s8w16</LM>
 </w.rf>
 <form>FC</form>
-<tag lemma="FC-1_:B_;K_;w_^(Football_Club,_př._FC_Sparta)" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="FC-1_:B_;K_;w_^(Football_Club,_př._FC_Sparta)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="FC-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-mf930701-081-p2s8w17">
 <src.rf>manual</src.rf>
@@ -1319,6 +1351,7 @@
 <AM lemma="Dundee_;K" src="orig">NNIXX-----A----</AM>
 <AM lemma="Dundee_;S" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Dundee_;S" src="auto">NNMS5-----A----</AM>
+<AM lemma="Dundee-2_;K" src="manual" selected="1">NNIXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930701-081-p2s8w18">
@@ -1521,7 +1554,10 @@
 <LM>w#w-mf930701-081-p2s9w23</LM>
 </w.rf>
 <form>FC</form>
-<tag lemma="FC-1_:B_;K_;w_^(Football_Club,_př._FC_Sparta)" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="FC-1_:B_;K_;w_^(Football_Club,_př._FC_Sparta)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="FC-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-mf930701-081-p2s9w24">
 <src.rf>manual</src.rf>
@@ -1533,6 +1569,7 @@
 <AM lemma="Dundee_;K" src="orig">NNIXX-----A----</AM>
 <AM lemma="Dundee_;S" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Dundee_;S" src="auto">NNMS5-----A----</AM>
+<AM lemma="Dundee-2_;K" src="manual" selected="1">NNIXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930701-081-p2s9w25">
@@ -2119,7 +2156,10 @@
 <LM>w#w-mf930701-081-p3s5w18</LM>
 </w.rf>
 <form>hodně</form>
-<tag lemma="hodně-2_^(nezlobivý)_(*3ý-2)" src="auto" selected="1">Dg-------1A----</tag>
+<tag>
+<AM lemma="hodně-2_^(nezlobivý)_(*3ý-2)" src="auto">Dg-------1A----</AM>
+<AM lemma="hodně-1_^(hodně_+_2._p.,_hodně_peněz)" src="manual" selected="1">Ca--4----------</AM>
+</tag>
 </m>
 <m id="m-mf930701-081-p3s5w19">
 <src.rf>manual</src.rf>
@@ -2201,7 +2241,10 @@
 <LM>w#w-mf930701-081-p3s6w8</LM>
 </w.rf>
 <form>sice</form>
-<tag lemma="sice-2" src="auto" selected="1">Db-------------</tag>
+<tag>
+<AM lemma="sice-2" src="auto">Db-------------</AM>
+<AM lemma="sice-1_^(spojka;_připouští_se_určitá_fakta)" src="manual" selected="1">J^-------------</AM>
+</tag>
 </m>
 <m id="m-mf930701-081-p3s6w9">
 <src.rf>manual</src.rf>
@@ -2215,7 +2258,7 @@
 <AM lemma="taka-1_;L" src="auto">NNFP4-----A----</AM>
 <AM lemma="taka-1_;L" src="auto">NNFP5-----A----</AM>
 <AM lemma="taka-1_;L" src="auto">NNFS2-----A----</AM>
-<AM lemma="taky" src="auto" recommended="1">Db-------------</AM>
+<AM lemma="taky" src="auto" recommended="1" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m-mf930701-081-p3s6w10">
@@ -2544,6 +2587,7 @@
 <AM lemma="Dundee_;K" src="orig">NNIXX-----A----</AM>
 <AM lemma="Dundee_;S" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Dundee_;S" src="auto">NNMS5-----A----</AM>
+<AM lemma="Dundee-2_;K" src="manual" selected="1">NNIXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930701-081-p4s1w10">
@@ -3604,7 +3648,10 @@
 <LM>w#w-mf930701-081-p9s3w5</LM>
 </w.rf>
 <form>víc</form>
-<tag lemma="hodně-2" src="auto" selected="1">Dg-------2A---1</tag>
+<tag>
+<AM lemma="hodně-2" src="auto">Dg-------2A---1</AM>
+<AM lemma="hodně-3" src="manual" selected="1">Dg-------2A---1</AM>
+</tag>
 </m>
 <m id="m-mf930701-081-p9s3w6">
 <src.rf>manual</src.rf>
@@ -4062,7 +4109,10 @@
 <LM>w#w-mf930701-081-p11s4w7</LM>
 </w.rf>
 <form>li</form>
-<tag lemma="li-1" src="auto" selected="1">TT-------------</tag>
+<tag>
+<AM lemma="li-1" src="auto">TT-------------</AM>
+<AM lemma="li-2" src="manual" selected="1">J,-------------</AM>
+</tag>
 </m>
 <m id="m-mf930701-081-p11s4w8">
 <src.rf>manual</src.rf>

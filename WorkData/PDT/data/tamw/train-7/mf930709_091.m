@@ -101,7 +101,10 @@
 <LM>w#w-mf930709-091-p2s1w7</LM>
 </w.rf>
 <form>Gilbert</form>
-<tag lemma="Gilbert_;Y" src="auto" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Gilbert_;Y" src="auto">NNMS1-----A----</AM>
+<AM lemma="Gilbert_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930709-091-p2s1w8">
 <src.rf>manual</src.rf>
@@ -117,7 +120,10 @@
 <LM>w#w-mf930709-091-p2s1w9</LM>
 </w.rf>
 <form>Fr</form>
-<tag lemma="Francie_:B_;G" src="auto" selected="1">NNFSX-----A----</tag>
+<tag>
+<AM lemma="Francie_:B_;G" src="auto">NNFSX-----A----</AM>
+<AM lemma="Francie_;G" src="manual" selected="1">NNFSX-----A---8</AM>
+</tag>
 </m>
 <m id="m-mf930709-091-p2s1w10">
 <src.rf>manual</src.rf>

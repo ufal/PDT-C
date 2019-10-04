@@ -37,7 +37,10 @@
 <LM>w#w-ln94206-114-p2s1Aw1</LM>
 </w.rf>
 <form>La</form>
-<tag lemma="Le-1_,t_^(franc._člen_jako_souč._jmen_a_názvů)" src="orig" selected="1">AAFSX----1A----</tag>
+<tag>
+<AM lemma="Le-1_,t_^(franc._člen_jako_souč._jmen_a_názvů)" src="orig">AAFSX----1A----</AM>
+<AM lemma="La-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94206-114-p2s1Aw2">
 <src.rf>manual</src.rf>
@@ -45,7 +48,10 @@
 <LM>w#w-ln94206-114-p2s1Aw2</LM>
 </w.rf>
 <form>Coruňa</form>
-<tag lemma="Coruňa_;G" src="orig" selected="1">NNFS1-----A----</tag>
+<tag>
+<AM lemma="Coruňa_;G" src="orig">NNFS1-----A----</AM>
+<AM lemma="Coruňa-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94206-114-p2s1Aw3">
 <src.rf>manual</src.rf>
@@ -135,7 +141,10 @@
 <LM>w#w-ln94206-114-p2s1Bw10</LM>
 </w.rf>
 <form>La</form>
-<tag lemma="Le-1_,t_^(franc._člen_jako_souč._jmen_a_názvů)" src="orig" selected="1">AAFSX----1A----</tag>
+<tag>
+<AM lemma="Le-1_,t_^(franc._člen_jako_souč._jmen_a_názvů)" src="orig">AAFSX----1A----</AM>
+<AM lemma="La-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94206-114-p2s1Bw11">
 <src.rf>manual</src.rf>
@@ -143,7 +152,10 @@
 <LM>w#w-ln94206-114-p2s1Bw11</LM>
 </w.rf>
 <form>Coruňa</form>
-<tag lemma="Coruňa_;G" src="orig" selected="1">NNFS1-----A----</tag>
+<tag>
+<AM lemma="Coruňa_;G" src="orig">NNFS1-----A----</AM>
+<AM lemma="Coruňa-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94206-114-p2s1Bw12">
 <src.rf>manual</src.rf>
@@ -321,7 +333,10 @@
 <LM>w#w-ln94206-114-p2s2w21</LM>
 </w.rf>
 <form>La</form>
-<tag lemma="Le-1_,t_^(franc._člen_jako_souč._jmen_a_názvů)" src="orig" selected="1">AAFSX----1A----</tag>
+<tag>
+<AM lemma="Le-1_,t_^(franc._člen_jako_souč._jmen_a_názvů)" src="orig">AAFSX----1A----</AM>
+<AM lemma="La-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94206-114-p2s2w22">
 <src.rf>manual</src.rf>
@@ -329,7 +344,10 @@
 <LM>w#w-ln94206-114-p2s2w22</LM>
 </w.rf>
 <form>Coruňa</form>
-<tag lemma="Coruňa_;G" src="orig" selected="1">NNFS1-----A----</tag>
+<tag>
+<AM lemma="Coruňa_;G" src="orig">NNFS1-----A----</AM>
+<AM lemma="Coruňa-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94206-114-p2s2w23">
 <src.rf>manual</src.rf>

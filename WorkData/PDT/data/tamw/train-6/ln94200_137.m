@@ -751,7 +751,10 @@
 <LM>w#w-ln94200-137-p3s3w28</LM>
 </w.rf>
 <form>New</form>
-<tag lemma="New-1_;G_,t_^(součást_míst._jmen)" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="New-1_;G_,t_^(součást_míst._jmen)" src="orig">AAXXX----1A----</AM>
+<AM lemma="New-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94200-137-p3s3w29">
 <src.rf>manual</src.rf>
@@ -879,7 +882,10 @@
 <LM>w#w-ln94200-137-p3s3w44</LM>
 </w.rf>
 <form>jen</form>
-<tag lemma="jen-1" src="auto" selected="1">TT-------------</tag>
+<tag>
+<AM lemma="jen-1" src="auto">TT-------------</AM>
+<AM lemma="jen-4_^(pouze)" src="manual" selected="1">Db-------------</AM>
+</tag>
 </m>
 <m id="m-ln94200-137-p3s3w45">
 <src.rf>manual</src.rf>
@@ -1009,7 +1015,10 @@
 <LM>w#w-ln94200-137-p3s4w14</LM>
 </w.rf>
 <form>folklorní</form>
-<tag lemma="folklórní" src="orig" selected="1">AAFS2----1A----</tag>
+<tag>
+<AM lemma="folklórní" src="orig">AAFS2----1A----</AM>
+<AM lemma="folklorní_,s_^(^DD**folklórní)" src="manual" selected="1">AAFS2----1A----</AM>
+</tag>
 </m>
 <m id="m-ln94200-137-p3s4w15">
 <src.rf>manual</src.rf>
@@ -2419,7 +2428,10 @@
 <LM>w#w-ln94200-137-p4s7w7</LM>
 </w.rf>
 <form>ani</form>
-<tag lemma="ani-1" src="auto" selected="1">J^-------------</tag>
+<tag>
+<AM lemma="ani-1" src="auto">J^-------------</AM>
+<AM lemma="ani-2" src="manual" selected="1">TT-------------</AM>
+</tag>
 </m>
 <m id="m-ln94200-137-p4s7w8">
 <src.rf>manual</src.rf>
@@ -2482,7 +2494,7 @@
 <AM lemma="Ted_;Y_,t" src="auto">NNMP4-----A----</AM>
 <AM lemma="Ted_;Y_,t" src="auto">NNMP7-----A----</AM>
 <AM lemma="tedy-1" src="auto">TT-------------</AM>
-<AM lemma="tedy-2" src="auto" recommended="1">J^-------------</AM>
+<AM lemma="tedy-2" src="auto" recommended="1" selected="1">J^-------------</AM>
 </tag>
 </m>
 <m id="m-ln94200-137-p4s8w2">
@@ -2710,6 +2722,8 @@
 <tag>
 <AM lemma="GM-3_:B_;Y_;S_^(G.Mahler)" src="orig">NNMS1-----A----</AM>
 <AM lemma="GM_:B_;K_;R" src="auto" recommended="1">NNFXX-----A----</AM>
+<AM lemma="GM-2_:B" src="manual">NNXXX-----A---8</AM>
+<AM lemma="GM-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94200-137-p4s8w30">

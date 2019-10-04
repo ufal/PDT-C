@@ -135,7 +135,10 @@
 <LM>w#w-ln95049-140-p2s1Bw9</LM>
 </w.rf>
 <form>Responsible</form>
-<tag lemma="Responsible_;m_,t" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="Responsible_;m_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="Responsible-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln95049-140-p2s1Bw10">
 <src.rf>manual</src.rf>
@@ -147,6 +150,8 @@
 <AM lemma="care-2_;m_,t" src="orig">NNFXX-----A----</AM>
 <AM lemma="Carus_;S" src="auto" recommended="1">NNMS5-----A----</AM>
 <AM lemma="care_,t" src="auto">XX-------------</AM>
+<AM lemma="care_,t" src="manual">NNXXX-----A----</AM>
+<AM lemma="Care-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-ln95049-140-p2s1Bw11">
@@ -168,6 +173,8 @@
 <AM lemma="RC-1_:B_;K_,t_^(Red_Cross)" src="auto">NNIXX-----A---8</AM>
 <AM lemma="RC-2_:B_;K_,t_^(Rotary_Club)" src="auto" recommended="1">NNIXX-----A---8</AM>
 <AM lemma="RC-3_:B_;K_,t_^(Radio_Collegium)" src="auto">NNNXX-----A---8</AM>
+<AM lemma="RC_:B" src="manual">NNXXX-----A---8</AM>
+<AM lemma="RC-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95049-140-p2s1Bw13">
@@ -184,7 +191,10 @@
 <LM>w#w-ln95049-140-p2s1Bw14</LM>
 </w.rf>
 <form>rozeslal</form>
-<tag lemma="rozeslat" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag>
+<AM lemma="rozeslat" src="orig">VpYS---XR-AA---</AM>
+<AM lemma="rozeslat_:W" src="manual" selected="1">VpYS---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-ln95049-140-p2s1Bw15">
 <src.rf>manual</src.rf>
@@ -269,6 +279,8 @@
 <AM lemma="RC-1_:B_;K_,t_^(Red_Cross)" src="auto">NNIXX-----A---8</AM>
 <AM lemma="RC-2_:B_;K_,t_^(Rotary_Club)" src="auto" recommended="1">NNIXX-----A---8</AM>
 <AM lemma="RC-3_:B_;K_,t_^(Radio_Collegium)" src="auto">NNNXX-----A---8</AM>
+<AM lemma="RC_:B" src="manual">NNXXX-----A---8</AM>
+<AM lemma="RC-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95049-140-p2s1Bw25">
@@ -550,6 +562,8 @@
 <AM lemma="RC-1_:B_;K_,t_^(Red_Cross)" src="auto">NNIXX-----A---8</AM>
 <AM lemma="RC-2_:B_;K_,t_^(Rotary_Club)" src="auto" recommended="1">NNIXX-----A---8</AM>
 <AM lemma="RC-3_:B_;K_,t_^(Radio_Collegium)" src="auto">NNNXX-----A---8</AM>
+<AM lemma="RC_:B" src="manual">NNXXX-----A---8</AM>
+<AM lemma="RC-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95049-140-p3s1w15">
@@ -598,7 +612,10 @@
 <LM>w#w-ln95049-140-p3s1w20</LM>
 </w.rf>
 <form>CEFIC</form>
-<tag lemma="CEFIC_:B_;K_,t_^(Mez._org._svazů_chemie)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="CEFIC_:B_;K_,t_^(Mez._org._svazů_chemie)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="CEFIC-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95049-140-p3s1w21">
 <src.rf>manual</src.rf>
@@ -744,7 +761,10 @@
 <LM>w#w-ln95049-140-p3s2w5</LM>
 </w.rf>
 <form>ISO</form>
-<tag lemma="ISO-1_:B_;K_^(Intl._Standards_Org.)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ISO-1_:B_;K_^(Intl._Standards_Org.)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ISO-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95049-140-p3s2w6">
 <src.rf>manual</src.rf>
@@ -932,7 +952,10 @@
 <LM>w#w-ln95049-140-p4s1w1</LM>
 </w.rf>
 <form>I</form>
-<tag lemma="I-0_:B_;Y" src="orig" selected="1">NNMXX-----A---8</tag>
+<tag>
+<AM lemma="I-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
+<AM lemma="I-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95049-140-p4s1w2">
 <src.rf>manual</src.rf>
@@ -1097,6 +1120,8 @@
 <AM lemma="RC-1_:B_;K_,t_^(Red_Cross)" src="auto">NNIXX-----A---8</AM>
 <AM lemma="RC-2_:B_;K_,t_^(Rotary_Club)" src="auto">NNIXX-----A---8</AM>
 <AM lemma="RC-3_:B_;K_,t_^(Radio_Collegium)" src="auto" recommended="1">NNNXX-----A---8</AM>
+<AM lemma="RC_:B" src="manual">NNXXX-----A---8</AM>
+<AM lemma="RC-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95049-140-p4s1w22">
@@ -1213,7 +1238,10 @@
 <LM>w#w-ln95049-140-p5s1w3</LM>
 </w.rf>
 <form>klade</form>
-<tag lemma="klást" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag>
+<AM lemma="klást" src="orig">VB-S---3P-AA---</AM>
+<AM lemma="klást_:T" src="manual" selected="1">VB-S---3P-AA---</AM>
+</tag>
 </m>
 <m id="m-ln95049-140-p5s1w4">
 <src.rf>manual</src.rf>
@@ -1353,7 +1381,7 @@
 <form>třeba</form>
 <tag>
 <AM lemma="třeba-1" src="orig">ACNS------A----</AM>
-<AM lemma="třeba-2" src="auto" recommended="1">Db-------------</AM>
+<AM lemma="třeba-2" src="auto" recommended="1" selected="1">Db-------------</AM>
 <AM lemma="třeba-3" src="auto">TT-------------</AM>
 </tag>
 </m>
@@ -1477,7 +1505,10 @@
 <LM>w#w-ln95049-140-p6s1w7</LM>
 </w.rf>
 <form>ČR</form>
-<tag lemma="ČR-1_:B_;G_^(Česká_republika)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95049-140-p6s1w8">
 <src.rf>manual</src.rf>
@@ -1557,7 +1588,10 @@
 <LM>w#w-ln95049-140-p6s1w17</LM>
 </w.rf>
 <form>TRINS</form>
-<tag lemma="TRINS_:B_;m" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="TRINS_:B_;m" src="orig">NNIXX-----A---8</AM>
+<AM lemma="TRINS-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95049-140-p6s1w18">
 <src.rf>manual</src.rf>

@@ -571,7 +571,10 @@
 <LM>w#w-ln95042-035-p3s1w22</LM>
 </w.rf>
 <form>MS</form>
-<tag lemma="MS-3_:B_;w_^(mistrovství_světa)" src="orig" selected="1">NNNXX-----A---8</tag>
+<tag>
+<AM lemma="MS-3_:B_;w_^(mistrovství_světa)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="MS-3_:B_^(mistrovství_světa)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95042-035-p3s1w23">
 <src.rf>manual</src.rf>
@@ -629,7 +632,10 @@
 <LM>w#w-ln95042-035-p3s2w4</LM>
 </w.rf>
 <form>neslo</form>
-<tag lemma="nést" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag>
+<AM lemma="nést" src="orig">VpNS---XR-AA---</AM>
+<AM lemma="nést_:W" src="manual" selected="1">VpNS---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-ln95042-035-p3s2w5">
 <src.rf>manual</src.rf>
@@ -672,6 +678,7 @@
 <tag>
 <AM lemma="Kieswetter_;K" src="orig">NNIS1-----A----</AM>
 <AM lemma="Kieswetter_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Kieswetter-2_;K" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95042-035-p3s2w10">
@@ -696,7 +703,10 @@
 <LM>w#w-ln95042-035-p3s2w12</LM>
 </w.rf>
 <form>vyhrálo</form>
-<tag lemma="vyhrát" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag>
+<AM lemma="vyhrát" src="orig">VpNS---XR-AA---</AM>
+<AM lemma="vyhrát_:W" src="manual" selected="1">VpNS---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-ln95042-035-p3s2w13">
 <src.rf>manual</src.rf>
@@ -736,7 +746,10 @@
 <LM>w#w-ln95042-035-p3s2w17</LM>
 </w.rf>
 <form>ČR</form>
-<tag lemma="ČR-1_:B_;G_^(Česká_republika)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95042-035-p3s2w18">
 <src.rf>manual</src.rf>
@@ -878,6 +891,7 @@
 <AM lemma="Team_;K_,t" src="orig">NNIS1-----A----</AM>
 <AM lemma="team_,t" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="team_,t" src="auto">NNIS4-----A----</AM>
+<AM lemma="Team-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-ln95042-035-p4s1w14">
@@ -1402,7 +1416,10 @@
 <LM>w#w-ln95042-035-p4s3w23</LM>
 </w.rf>
 <form>vyhrála</form>
-<tag lemma="vyhrát" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag>
+<AM lemma="vyhrát" src="orig">VpQW---XR-AA---</AM>
+<AM lemma="vyhrát_:W" src="manual" selected="1">VpQW---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-ln95042-035-p4s3w24">
 <src.rf>manual</src.rf>
@@ -1418,7 +1435,10 @@
 <LM>w#w-ln95042-035-p4s3w25</LM>
 </w.rf>
 <form>ČR</form>
-<tag lemma="ČR-1_:B_;G_^(Česká_republika)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95042-035-p4s3w26">
 <src.rf>manual</src.rf>
@@ -1590,7 +1610,10 @@
 <LM>w#w-ln95042-035-p5s2w7</LM>
 </w.rf>
 <form>chtěl</form>
-<tag lemma="chtít" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag>
+<AM lemma="chtít" src="orig">VpYS---XR-AA---</AM>
+<AM lemma="chtít_:T" src="manual" selected="1">VpYS---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-ln95042-035-p5s2w8">
 <src.rf>manual</src.rf>

@@ -557,7 +557,10 @@
 <LM>w#w-mf920901-102-p2s5w11</LM>
 </w.rf>
 <form>zůstal</form>
-<tag lemma="zůstat" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag>
+<AM lemma="zůstat" src="orig">VpYS---XR-AA---</AM>
+<AM lemma="zůstat_:W" src="manual" selected="1">VpYS---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-mf920901-102-p2s5w12">
 <src.rf>manual</src.rf>
@@ -618,7 +621,7 @@
 <tag>
 <AM lemma="tady" src="orig">Db------------1</AM>
 <AM lemma="ten" src="auto" recommended="1">PDFS4----------</AM>
-<AM lemma="tu" src="auto">Db-------------</AM>
+<AM lemma="tu" src="auto" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m-mf920901-102-p3s1w4">
@@ -1187,7 +1190,7 @@
 <form>nejen</form>
 <tag>
 <AM lemma="nejen" src="orig">TT-------------</AM>
-<AM lemma="nejen" src="auto" recommended="1">Db-------------</AM>
+<AM lemma="nejen" src="auto" recommended="1" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m-mf920901-102-p4s2w7">
@@ -1379,7 +1382,7 @@
 <tag>
 <AM lemma="přece" src="orig">Db-------------</AM>
 <AM lemma="přece-1" src="auto" recommended="1">J^-------------</AM>
-<AM lemma="přece-2" src="auto">TT-------------</AM>
+<AM lemma="přece-2" src="auto" selected="1">TT-------------</AM>
 </tag>
 </m>
 <m id="m-mf920901-102-p4s4w8">
@@ -1535,7 +1538,7 @@
 </w.rf>
 <form>Barré</form>
 <tag>
-<AM lemma="Barré_;S" src="orig">NNMXX-----A----</AM>
+<AM lemma="Barré_;S" src="orig" selected="1">NNMXX-----A----</AM>
 <AM lemma="Barré_;S" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Barré_;S" src="auto">NNMS5-----A----</AM>
 </tag>

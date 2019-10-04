@@ -77,7 +77,10 @@
 <LM>w#w-mf930701-032-p2s1w3</LM>
 </w.rf>
 <form>tma</form>
-<tag lemma="tma" src="orig" selected="1">NNFS1-----A----</tag>
+<tag>
+<AM lemma="tma" src="orig">NNFS1-----A----</AM>
+<AM lemma="tma-99_:B_;S" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-mf930701-032-p2s1w4">
 <src.rf>manual</src.rf>
@@ -920,7 +923,7 @@
 <tag>
 <AM lemma="tedy" src="orig">Db-------------</AM>
 <AM lemma="tedy-1" src="auto">TT-------------</AM>
-<AM lemma="tedy-2" src="auto" recommended="1">J^-------------</AM>
+<AM lemma="tedy-2" src="auto" recommended="1" selected="1">J^-------------</AM>
 </tag>
 </m>
 <m id="m-mf930701-032-p4s3w6">

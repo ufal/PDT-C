@@ -35,7 +35,10 @@
 <LM>w#w-ln94203-17-p1s1w3</LM>
 </w.rf>
 <form>OOP</form>
-<tag lemma="OOP-1_:B_;K_;p_^(Org._pro_osvobození_Palestiny)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="OOP-1_:B_;K_;p_^(Org._pro_osvobození_Palestiny)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="OOP-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln94203-17-p1s1w4">
 <src.rf>manual</src.rf>
@@ -263,7 +266,10 @@
 <LM>w#w-ln94203-17-p2s1Bw25</LM>
 </w.rf>
 <form>OOP</form>
-<tag lemma="OOP-1_:B_;K_;p_^(Org._pro_osvobození_Palestiny)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="OOP-1_:B_;K_;p_^(Org._pro_osvobození_Palestiny)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="OOP-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln94203-17-p2s1Bw26">
 <src.rf>manual</src.rf>
@@ -603,7 +609,10 @@
 <LM>w#w-ln94203-17-p2s3w18</LM>
 </w.rf>
 <form>žije</form>
-<tag lemma="žít" src="auto" selected="1">VB-S---3P-AA---</tag>
+<tag>
+<AM lemma="žít" src="auto">VB-S---3P-AA---</AM>
+<AM lemma="žít_:T" src="manual" selected="1">VB-S---3P-AA---</AM>
+</tag>
 </m>
 <m id="m-ln94203-17-p2s3w19">
 <src.rf>manual</src.rf>
@@ -619,7 +628,10 @@
 <LM>w#w-ln94203-17-p2s3w20</LM>
 </w.rf>
 <form>milion</form>
-<tag lemma="milión`1000000" src="orig" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="milión`1000000" src="orig">NNIS1-----A----</AM>
+<AM lemma="milion_,s_^(^DD**milión)" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94203-17-p2s3w21">
 <src.rf>manual</src.rf>
@@ -1131,7 +1143,10 @@
 <LM>w#w-ln94203-17-p3s1w1</LM>
 </w.rf>
 <form>Více</form>
-<tag lemma="hodně-2" src="auto" selected="1">Dg-------2A----</tag>
+<tag>
+<AM lemma="hodně-2" src="auto">Dg-------2A----</AM>
+<AM lemma="hodně-3" src="manual" selected="1">Dg-------2A----</AM>
+</tag>
 </m>
 <m id="m-ln94203-17-p3s1w2">
 <src.rf>manual</src.rf>

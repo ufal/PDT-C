@@ -195,7 +195,10 @@
 <LM>w#w-ln94211-44-p2s3w3</LM>
 </w.rf>
 <form>M</form>
-<tag lemma="M-0_:B_;Y" src="orig" selected="1">NNMXX-----A---8</tag>
+<tag>
+<AM lemma="M-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
+<AM lemma="M-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln94211-44-p2s3w4">
 <src.rf>manual</src.rf>
@@ -569,7 +572,10 @@
 <LM>w#w-ln94211-44-p2s6w13</LM>
 </w.rf>
 <form>žampiony</form>
-<tag lemma="žampion" src="orig" selected="1">NNIP7-----A----</tag>
+<tag>
+<AM lemma="žampion" src="orig">NNIP7-----A----</AM>
+<AM lemma="žampion_,s_^(^DD**žampión)" src="manual" selected="1">NNIP7-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94211-44-p2s6w14">
 <src.rf>manual</src.rf>

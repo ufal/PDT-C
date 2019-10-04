@@ -491,7 +491,10 @@
 <LM>w#w-lnd92258-070-p2s4w6</LM>
 </w.rf>
 <form>PTI</form>
-<tag lemma="PTI-1_:B_;K_,t_^(Press_Trust_of_India)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="PTI-1_:B_;K_,t_^(Press_Trust_of_India)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="PTI-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd92258-070-p2s4w7">
 <src.rf>manual</src.rf>

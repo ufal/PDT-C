@@ -72,6 +72,7 @@
 <tag>
 <AM lemma="mag-99_:B_;S" src="orig">NNXXX-----A---8</AM>
 <AM lemma="magnituda-8_:B" src="auto" recommended="1">NNFXX-----A----</AM>
+<AM lemma="mag-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94204-47-p2s1Aw4">
@@ -462,7 +463,10 @@
 <LM>w#w-ln94204-47-p3s1w6</LM>
 </w.rf>
 <form>stála</form>
-<tag lemma="stát-4_^(něco_stojí_peníze)" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag>
+<AM lemma="stát-4_^(něco_stojí_peníze)" src="orig">VpQW---XR-AA---</AM>
+<AM lemma="stát-3_^(stojím_stojíš)" src="manual" selected="1">VpQW---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-ln94204-47-p3s1w7">
 <src.rf>manual</src.rf>
@@ -478,7 +482,10 @@
 <LM>w#w-ln94204-47-p3s1w8</LM>
 </w.rf>
 <form>milionů</form>
-<tag lemma="milión`1000000" src="orig" selected="1">NNIP2-----A----</tag>
+<tag>
+<AM lemma="milión`1000000" src="orig">NNIP2-----A----</AM>
+<AM lemma="milion`1000000_,s_^(^DD**milión)" src="manual" selected="1">NNIP2-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94204-47-p3s1w9">
 <src.rf>manual</src.rf>
@@ -632,7 +639,10 @@
 <LM>w#w-ln94204-47-p3s2w4</LM>
 </w.rf>
 <form>sice</form>
-<tag lemma="sice-2" src="auto" selected="1">Db-------------</tag>
+<tag>
+<AM lemma="sice-2" src="auto">Db-------------</AM>
+<AM lemma="sice-1_^(spojka;_připouští_se_určitá_fakta)" src="manual" selected="1">J^-------------</AM>
+</tag>
 </m>
 <m id="m-ln94204-47-p3s2w5">
 <src.rf>manual</src.rf>
@@ -1030,7 +1040,10 @@
 <LM>w#w-ln94204-47-p4s2w3</LM>
 </w.rf>
 <form>LN</form>
-<tag lemma="LN-1_:B_;R_^(Lidové_noviny,_deník)" src="orig" selected="1">NNFPX-----A---8</tag>
+<tag>
+<AM lemma="LN-1_:B_;R_^(Lidové_noviny,_deník)" src="orig">NNFPX-----A---8</AM>
+<AM lemma="LN-1_:B_;K_;R_^(Lidové_noviny)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94204-47-p4s2w4">
 <src.rf>manual</src.rf>
@@ -1144,7 +1157,7 @@
 <form>Sověti</form>
 <tag>
 <AM lemma="sovět-2_^(občan_SSSR)" src="orig">NNMP1-----A----</AM>
-<AM lemma="Sovět_;E_^(občan_SSSR)" src="auto" recommended="1">NNMP1-----A----</AM>
+<AM lemma="Sovět_;E_^(občan_SSSR)" src="auto" recommended="1" selected="1">NNMP1-----A----</AM>
 <AM lemma="Sovět_;E_^(občan_SSSR)" src="auto">NNMP5-----A----</AM>
 </tag>
 </m>
@@ -1440,7 +1453,7 @@
 <form>snad</form>
 <tag>
 <AM lemma="snad" src="orig">Db-------------</AM>
-<AM lemma="snad" src="auto" recommended="1">TT-------------</AM>
+<AM lemma="snad" src="auto" recommended="1" selected="1">TT-------------</AM>
 </tag>
 </m>
 <m id="m-ln94204-47-p4s4w9">

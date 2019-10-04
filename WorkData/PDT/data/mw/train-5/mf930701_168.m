@@ -125,7 +125,10 @@
 <LM>w#w-mf930701-168-p2s1w9</LM>
 </w.rf>
 <form>RE</form>
-<tag lemma="RE_:B_;K_^(Rada_Evropy)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="RE_:B_;K_^(Rada_Evropy)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="RE-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-mf930701-168-p2s1w10">
 <src.rf>manual</src.rf>
@@ -245,7 +248,10 @@
 <LM>w#w-mf930701-168-p2s1w24</LM>
 </w.rf>
 <form>RE</form>
-<tag lemma="RE_:B_;K_^(Rada_Evropy)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="RE_:B_;K_^(Rada_Evropy)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="RE-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-mf930701-168-p2s1w25">
 <src.rf>manual</src.rf>
@@ -532,7 +538,7 @@
 <tag>
 <AM lemma="tedy" src="orig">Db-------------</AM>
 <AM lemma="tedy-1" src="auto" recommended="1">TT-------------</AM>
-<AM lemma="tedy-2" src="auto">J^-------------</AM>
+<AM lemma="tedy-2" src="auto" selected="1">J^-------------</AM>
 </tag>
 </m>
 <m id="m-mf930701-168-p3s2w7">
@@ -913,7 +919,10 @@
 <LM>w#w-mf930701-168-p3s4w17</LM>
 </w.rf>
 <form>RE</form>
-<tag lemma="RE_:B_;K_^(Rada_Evropy)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="RE_:B_;K_^(Rada_Evropy)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="RE-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-mf930701-168-p3s4w18">
 <src.rf>manual</src.rf>
@@ -1803,7 +1812,10 @@
 <LM>w#w-mf930701-168-p4s4w16</LM>
 </w.rf>
 <form>RE</form>
-<tag lemma="RE_:B_;K_^(Rada_Evropy)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="RE_:B_;K_^(Rada_Evropy)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="RE-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-mf930701-168-p4s4w17">
 <src.rf>manual</src.rf>
@@ -1901,7 +1913,10 @@
 <LM>w#w-mf930701-168-p4s5w8</LM>
 </w.rf>
 <form>RE</form>
-<tag lemma="RE_:B_;K_^(Rada_Evropy)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="RE_:B_;K_^(Rada_Evropy)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="RE-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-mf930701-168-p4s5w9">
 <src.rf>manual</src.rf>
@@ -2084,7 +2099,7 @@
 <tag>
 <AM lemma="tedy" src="orig">Db-------------</AM>
 <AM lemma="tedy-1" src="auto">TT-------------</AM>
-<AM lemma="tedy-2" src="auto" recommended="1">J^-------------</AM>
+<AM lemma="tedy-2" src="auto" recommended="1" selected="1">J^-------------</AM>
 </tag>
 </m>
 <m id="m-mf930701-168-p4s7w3">
@@ -2231,7 +2246,10 @@
 <LM>w#w-mf930701-168-p5s1w6</LM>
 </w.rf>
 <form>RE</form>
-<tag lemma="RE_:B_;K_^(Rada_Evropy)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="RE_:B_;K_^(Rada_Evropy)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="RE-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-mf930701-168-p5s1w7">
 <src.rf>manual</src.rf>
@@ -2691,7 +2709,10 @@
 <LM>w#w-mf930701-168-p5s3w9</LM>
 </w.rf>
 <form>RE</form>
-<tag lemma="RE_:B_;K_^(Rada_Evropy)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="RE_:B_;K_^(Rada_Evropy)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="RE-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-mf930701-168-p5s3w10">
 <src.rf>manual</src.rf>

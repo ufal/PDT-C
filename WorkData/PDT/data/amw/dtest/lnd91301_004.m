@@ -328,7 +328,10 @@
 <LM>w#w-lnd91301-004-p3s2w28</LM>
 </w.rf>
 <form>expansi</form>
-<tag lemma="expanze" src="orig" selected="1">NNFS4-----A----</tag>
+<tag>
+<AM lemma="expanze" src="orig">NNFS4-----A----</AM>
+<AM lemma="expanse_,s_^(^DD**expanze)" src="manual" selected="1">NNFS4-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd91301-004-p3s2w29">
 <src.rf>manual</src.rf>
@@ -880,7 +883,11 @@
 <LM>w#w-lnd91301-004-p3s6w33</LM>
 </w.rf>
 <form>civilisovaný</form>
-<tag lemma="civilizovaný_,x_^(*2t)" src="orig" selected="1">AAIS4----1A----</tag>
+<tag>
+<AM lemma="civilizovaný_,x_^(*2t)" src="orig">AAIS4----1A----</AM>
+<AM lemma="civilisovaný_,s_^(^DD**civilizovaný)" src="manual">AAIS4----1A----</AM>
+<AM lemma="civilisovaný_,s_^(^DD**civilizovaný)_^(*2t)" src="manual" selected="1">AAIS4----1A----</AM>
+</tag>
 </m>
 <m id="m-lnd91301-004-p3s6w34">
 <src.rf>manual</src.rf>
@@ -936,7 +943,10 @@
 <LM>w#w-lnd91301-004-p3s6w40</LM>
 </w.rf>
 <form>kapitalismu</form>
-<tag lemma="kapitalismus" src="orig" selected="1">NNIS2-----A----</tag>
+<tag>
+<AM lemma="kapitalismus" src="orig">NNIS2-----A----</AM>
+<AM lemma="kapitalismus_,s_^(^DD**kapitalizmus)" src="manual" selected="1">NNIS2-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd91301-004-p3s6w41">
 <src.rf>manual</src.rf>
@@ -952,7 +962,10 @@
 <LM>w#w-lnd91301-004-p3s6w42</LM>
 </w.rf>
 <form>imperialismu</form>
-<tag lemma="imperialismus" src="orig" selected="1">NNIS2-----A----</tag>
+<tag>
+<AM lemma="imperialismus" src="orig">NNIS2-----A----</AM>
+<AM lemma="kapitalismus_,s_^(^DD**kapitalizmus)" src="manual" selected="1">NNIS2-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd91301-004-p3s6w43">
 <src.rf>manual</src.rf>
@@ -1004,7 +1017,7 @@
 <form>nejen</form>
 <tag>
 <AM lemma="nejen" src="orig">TT-------------</AM>
-<AM lemma="nejen" src="auto" recommended="1">Db-------------</AM>
+<AM lemma="nejen" src="auto" recommended="1" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m-lnd91301-004-p3s7w6">
@@ -1205,6 +1218,7 @@
 <AM lemma="terorizmus" src="auto">NNIP4-----A----</AM>
 <AM lemma="terorizmus" src="auto">NNIP5-----A----</AM>
 <AM lemma="terorizmus" src="auto">NNIP7-----A----</AM>
+<AM lemma="terorismus_,s_^(^DD**terorizmus)" src="manual" selected="1">NNIP1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd91301-004-p3s8w6">
@@ -1297,7 +1311,7 @@
 <form>tedy</form>
 <tag>
 <AM lemma="tedy" src="orig">Db-------------</AM>
-<AM lemma="tedy-1" src="auto">TT-------------</AM>
+<AM lemma="tedy-1" src="auto" selected="1">TT-------------</AM>
 <AM lemma="tedy-2" src="auto" recommended="1">J^-------------</AM>
 </tag>
 </m>
@@ -1335,7 +1349,7 @@
 <form>ovšem</form>
 <tag>
 <AM lemma="ovšem-1_^(avšak,_však;_odporovací_spojka)" src="orig">J^-------------</AM>
-<AM lemma="ovšem" src="auto" recommended="1">TT-------------</AM>
+<AM lemma="ovšem" src="auto" recommended="1" selected="1">TT-------------</AM>
 </tag>
 </m>
 <m id="m-lnd91301-004-p3s10w3">
@@ -1907,7 +1921,10 @@
 <LM>w#w-lnd91301-004-p4s4w6</LM>
 </w.rf>
 <form>revisionisty</form>
-<tag lemma="revizionista_,x" src="orig" selected="1">NNMP7-----A----</tag>
+<tag>
+<AM lemma="revizionista_,x" src="orig">NNMP7-----A----</AM>
+<AM lemma="revisionista_,s_^(^DD**revizionista)" src="manual" selected="1">NNMP7-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd91301-004-p4s4w7">
 <src.rf>manual</src.rf>
@@ -2283,7 +2300,10 @@
 <LM>w#w-lnd91301-004-p4s4w53</LM>
 </w.rf>
 <form>jen</form>
-<tag lemma="jen-1" src="auto" selected="1">TT-------------</tag>
+<tag>
+<AM lemma="jen-1" src="auto">TT-------------</AM>
+<AM lemma="jen-4_^(pouze)" src="manual" selected="1">Db-------------</AM>
+</tag>
 </m>
 <m id="m-lnd91301-004-p4s4w54">
 <src.rf>manual</src.rf>
@@ -2357,7 +2377,10 @@
 <LM>w#w-lnd91301-004-p4s5w1</LM>
 </w.rf>
 <form>Revisionisté</form>
-<tag lemma="revizionista_,x" src="orig" selected="1">NNMP1-----A----</tag>
+<tag>
+<AM lemma="revizionista_,x" src="orig">NNMP1-----A----</AM>
+<AM lemma="revisionista_,s_^(^DD**revizionista)" src="manual" selected="1">NNMP1-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd91301-004-p4s5w2">
 <src.rf>manual</src.rf>
@@ -2450,7 +2473,7 @@
 <tag>
 <AM lemma="přece" src="orig">Db-------------</AM>
 <AM lemma="přece-1" src="auto" recommended="1">J^-------------</AM>
-<AM lemma="přece-2" src="auto">TT-------------</AM>
+<AM lemma="přece-2" src="auto" selected="1">TT-------------</AM>
 </tag>
 </m>
 <m id="m-lnd91301-004-p4s6w3">
@@ -2459,7 +2482,10 @@
 <LM>w#w-lnd91301-004-p4s6w3</LM>
 </w.rf>
 <form>vědí</form>
-<tag lemma="vědět" src="auto" selected="1">VB-P---3P-AA---</tag>
+<tag>
+<AM lemma="vědět" src="auto">VB-P---3P-AA---</AM>
+<AM lemma="vědět_:T" src="manual" selected="1">VB-P---3P-AA---</AM>
+</tag>
 </m>
 <m id="m-lnd91301-004-p4s6w4">
 <src.rf>manual</src.rf>
@@ -3997,6 +4023,7 @@
 <AM lemma="Magdaléna_;Y" src="auto">NNFP2-----A----</AM>
 <AM lemma="Magdalena-1_;G" src="auto">NNFP2-----A----</AM>
 <AM lemma="Magdalena_;Y" src="auto" recommended="1">NNFP2-----A----</AM>
+<AM lemma="Magdalen-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-lnd91301-004-p7s2w9">
@@ -4005,7 +4032,10 @@
 <LM>w#w-lnd91301-004-p7s2w9</LM>
 </w.rf>
 <form>College</form>
-<tag lemma="College_;K_,t" src="orig" selected="1">NNFXX-----A----</tag>
+<tag>
+<AM lemma="College_;K_,t" src="orig">NNFXX-----A----</AM>
+<AM lemma="College-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-lnd91301-004-p7s2w10">
 <src.rf>manual</src.rf>
@@ -4249,7 +4279,10 @@
 <LM>w#w-lnd91301-004-p7s4w8</LM>
 </w.rf>
 <form>universitě</form>
-<tag lemma="univerzita" src="orig" selected="1">NNFS3-----A----</tag>
+<tag>
+<AM lemma="univerzita" src="orig">NNFS3-----A----</AM>
+<AM lemma="universita_,s_^(^DD**univerzita)" src="manual" selected="1">NNFS3-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd91301-004-p7s4w9">
 <src.rf>manual</src.rf>
@@ -4428,7 +4461,7 @@
 <tag>
 <AM lemma="matka" src="orig">NNFS4-----A----</AM>
 <AM lemma="matka-1_^(malá_součástka)" src="auto" recommended="1">NNFS4-----A----</AM>
-<AM lemma="matka-2_^(maminka)" src="auto">NNFS4-----A----</AM>
+<AM lemma="matka-2_^(maminka)" src="auto" selected="1">NNFS4-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd91301-004-p7s4w31">
@@ -4871,7 +4904,10 @@
 <LM>w#w-lnd91301-004-p8s5w1</LM>
 </w.rf>
 <form>Filosoficky</form>
-<tag lemma="filosoficky_^(*1ý)" src="orig" selected="1">Dg-------1A----</tag>
+<tag>
+<AM lemma="filosoficky_^(*1ý)" src="orig">Dg-------1A----</AM>
+<AM lemma="filosoficky_,s_^(^DD**filozoficky)_^(*1ý)" src="manual" selected="1">Dg-------1A----</AM>
+</tag>
 </m>
 <m id="m-lnd91301-004-p8s5w2">
 <src.rf>manual</src.rf>
@@ -5173,7 +5209,10 @@
 <LM>w#w-lnd91301-004-p9s3w1</LM>
 </w.rf>
 <form>Filosofové</form>
-<tag lemma="filozof" src="orig" selected="1">NNMP1-----A----</tag>
+<tag>
+<AM lemma="filozof" src="orig">NNMP1-----A----</AM>
+<AM lemma="filosof_,s_^(^DD**filozof)" src="manual" selected="1">NNMP1-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd91301-004-p9s3w2">
 <src.rf>manual</src.rf>

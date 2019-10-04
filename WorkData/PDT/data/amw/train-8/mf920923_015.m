@@ -237,7 +237,10 @@
 <LM>w#w-mf920923-015-p2s1w20</LM>
 </w.rf>
 <form>a</form>
-<tag lemma="akciový_:B_^(jen_akciová_společnost)" src="orig" selected="1">AAXXX----1A---8</tag>
+<tag>
+<AM lemma="akciový_:B_^(jen_akciová_společnost)" src="orig">AAXXX----1A---8</AM>
+<AM lemma="akciový_^(jen_akciová_společnost)" src="manual" selected="1">AAXXX----1A---8</AM>
+</tag>
 </m>
 <m id="m-mf920923-015-p2s1w21">
 <src.rf>manual</src.rf>
@@ -253,7 +256,10 @@
 <LM>w#w-mf920923-015-p2s1w22</LM>
 </w.rf>
 <form>s</form>
-<tag lemma="společnost_:B" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="společnost_:B" src="orig">NNFXX-----A---8</AM>
+<AM lemma="společnost" src="manual" selected="1">NNFXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-mf920923-015-p2s1w23">
 <src.rf>manual</src.rf>
@@ -360,7 +366,13 @@
 <tag>
 <AM lemma="Thyssen_;K" src="orig">NNIS1-----A----</AM>
 <AM lemma="Thyssen_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Thyssen_;K" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
+<comment>
+<LM type="Other">
+<text>analýza z online slovníku pro pdt-c</text>
+</LM>
+</comment>
 </m>
 <m id="m-mf920923-015-p2s1w36">
 <src.rf>manual</src.rf>

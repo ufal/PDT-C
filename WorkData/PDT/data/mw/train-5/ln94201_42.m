@@ -67,7 +67,10 @@
 <LM>w#w-ln94201-42-p1s1w7</LM>
 </w.rf>
 <form>vagony</form>
-<tag lemma="vagón" src="orig" selected="1">NNIP4-----A----</tag>
+<tag>
+<AM lemma="vagón" src="orig">NNIP4-----A----</AM>
+<AM lemma="vagon_,s_^(^DD**vagón)" src="manual" selected="1">NNIP4-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94201-42-p1s1w8">
 <src.rf>manual</src.rf>
@@ -122,7 +125,7 @@
 <AM lemma="dvoustranný" src="auto">AAFP1----1A----</AM>
 <AM lemma="dvoustranný" src="auto">AAFP4----1A----</AM>
 <AM lemma="dvoustranný" src="auto">AAFP5----1A----</AM>
-<AM lemma="dvoustranný" src="auto" recommended="1">AAFS2----1A----</AM>
+<AM lemma="dvoustranný" src="auto" recommended="1" selected="1">AAFS2----1A----</AM>
 <AM lemma="dvoustranný" src="auto">AAFS3----1A----</AM>
 <AM lemma="dvoustranný" src="auto">AAFS6----1A----</AM>
 <AM lemma="dvoustranný" src="auto">AAIP1----1A----</AM>
@@ -265,7 +268,10 @@
 <LM>w#w-ln94201-42-p1s3w2</LM>
 </w.rf>
 <form>Reuter</form>
-<tag lemma="Reuter_;K" src="orig" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Reuter_;K" src="orig">NNMS1-----A----</AM>
+<AM lemma="Reuter-2_;K_,i_^(^DS**Reuters)" src="manual" selected="1">NNIXX-----A----</AM>
+</tag>
 </m>
 </s>
 </mdata>

@@ -45,7 +45,10 @@
 <LM>w#w-lnd92256-102-p2s1w1</LM>
 </w.rf>
 <form>NEW</form>
-<tag lemma="New-1_;G_,t_^(součást_míst._jmen)" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="New-1_;G_,t_^(součást_míst._jmen)" src="orig">AAXXX----1A----</AM>
+<AM lemma="NEW-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-lnd92256-102-p2s1w2">
 <src.rf>manual</src.rf>
@@ -53,7 +56,10 @@
 <LM>w#w-lnd92256-102-p2s1w2</LM>
 </w.rf>
 <form>YORK</form>
-<tag lemma="York-2_;G" src="orig" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="York-2_;G" src="orig">NNIS1-----A----</AM>
+<AM lemma="YORK-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-lnd92256-102-p2s1w3">
 <src.rf>manual</src.rf>
@@ -119,7 +125,10 @@
 <LM>w#w-lnd92256-102-p2s2w7</LM>
 </w.rf>
 <form>Mike</form>
-<tag lemma="Mike_;Y_,t" src="orig" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Mike_;Y_,t" src="orig">NNMS1-----A----</AM>
+<AM lemma="Mike_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92256-102-p2s2w8">
 <src.rf>manual</src.rf>
@@ -297,7 +306,10 @@
 <LM>w#w-lnd92256-102-p2s3w5</LM>
 </w.rf>
 <form>zemřel</form>
-<tag lemma="zemřít" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag>
+<AM lemma="zemřít" src="orig">VpYS---XR-AA---</AM>
+<AM lemma="zemřít_:W" src="manual" selected="1">VpYS---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-lnd92256-102-p2s3w6">
 <src.rf>manual</src.rf>
@@ -557,7 +569,11 @@
 <LM>w#w-lnd92256-102-p2s5w11</LM>
 </w.rf>
 <form>zneklidněn</form>
-<tag lemma="zneklidnět" src="orig" selected="1">VsYS---XX-AP---</tag>
+<tag>
+<AM lemma="zneklidnět" src="orig">VsYS---XX-AP---</AM>
+<AM lemma="zneklidnět_:W" src="manual">VsYS---XX-AP---</AM>
+<AM lemma="zneklidnit_:W" src="manual" selected="1">VsYS---XX-AP---</AM>
+</tag>
 </m>
 <m id="m-lnd92256-102-p2s5w12">
 <src.rf>manual</src.rf>
@@ -626,7 +642,7 @@
 <tag>
 <AM lemma="matka" src="orig">NNFS4-----A----</AM>
 <AM lemma="matka-1_^(malá_součástka)" src="auto" recommended="1">NNFS4-----A----</AM>
-<AM lemma="matka-2_^(maminka)" src="auto">NNFS4-----A----</AM>
+<AM lemma="matka-2_^(maminka)" src="auto" selected="1">NNFS4-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92256-102-p2s6w6">
@@ -887,7 +903,10 @@
 <LM>w#w-lnd92256-102-p2s8w5</LM>
 </w.rf>
 <form>viděl</form>
-<tag lemma="vidět" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag>
+<AM lemma="vidět" src="orig">VpYS---XR-AA---</AM>
+<AM lemma="vidět_:T" src="manual" selected="1">VpYS---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-lnd92256-102-p2s8w6">
 <src.rf>manual</src.rf>
@@ -968,7 +987,7 @@
 <AM lemma="matka-2_^(maminka)" src="auto">NNFP1-----A----</AM>
 <AM lemma="matka-2_^(maminka)" src="auto">NNFP4-----A----</AM>
 <AM lemma="matka-2_^(maminka)" src="auto">NNFP5-----A----</AM>
-<AM lemma="matka-2_^(maminka)" src="auto">NNFS2-----A----</AM>
+<AM lemma="matka-2_^(maminka)" src="auto" selected="1">NNFS2-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92256-102-p2s8w15">
@@ -1065,7 +1084,10 @@
 <LM>w#w-lnd92256-102-p2s8w26</LM>
 </w.rf>
 <form>zemřela</form>
-<tag lemma="zemřít" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag>
+<AM lemma="zemřít" src="orig">VpQW---XR-AA---</AM>
+<AM lemma="zemřít_:W" src="manual" selected="1">VpQW---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-lnd92256-102-p2s8w27">
 <src.rf>manual</src.rf>

@@ -23,6 +23,7 @@
 <AM lemma="Abel_;Y" src="orig">NNMS1-----A----</AM>
 <AM lemma="Abla_;G" src="auto">NNFP2-----A----</AM>
 <AM lemma="Ábel_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Abel_;Y_,s_^(^DD**Ábel)" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94207-86-p1s1w2">
@@ -385,7 +386,10 @@
 <LM>w#w-ln94207-86-p1s2Aw15</LM>
 </w.rf>
 <form>Iberoamericana</form>
-<tag lemma="Iberoamericana_;R_,t" src="orig" selected="1">NNFS1-----A----</tag>
+<tag>
+<AM lemma="Iberoamericana_;R_,t" src="orig">NNFS1-----A----</AM>
+<AM lemma="Iberoamericana-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94207-86-p1s2Aw16">
 <src.rf>manual</src.rf>
@@ -398,6 +402,7 @@
 <AM lemma="pragenzia_,x" src="auto">NNNP1-----A----</AM>
 <AM lemma="pragenzia_,x" src="auto" recommended="1">NNNP4-----A----</AM>
 <AM lemma="pragenzia_,x" src="auto">NNNP5-----A----</AM>
+<AM lemma="pragensia-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-ln94207-86-p1s2Aw17">
@@ -448,7 +453,7 @@
 <form>vůbec</form>
 <tag>
 <AM lemma="vůbec" src="orig">Db-------------</AM>
-<AM lemma="vůbec" src="auto" recommended="1">TT-------------</AM>
+<AM lemma="vůbec" src="auto" recommended="1" selected="1">TT-------------</AM>
 </tag>
 </m>
 <m id="m-ln94207-86-p1s2Aw23">

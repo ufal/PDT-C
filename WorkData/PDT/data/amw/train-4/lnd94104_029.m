@@ -369,7 +369,10 @@
 <LM>w#w-lnd94104-029-p1s4w17</LM>
 </w.rf>
 <form>Colombo</form>
-<tag lemma="Colombo_;G" src="orig" selected="1">NNNS1-----A----</tag>
+<tag>
+<AM lemma="Colombo_;G" src="orig">NNNS1-----A----</AM>
+<AM lemma="Colombo-2_;S" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd94104-029-p1s4w18">
 <src.rf>manual</src.rf>
@@ -451,7 +454,10 @@
 <LM>w#w-lnd94104-029-p1s5w9</LM>
 </w.rf>
 <form>čs</form>
-<tag lemma="československý_:B" src="orig" selected="1">AAXXX----1A---8</tag>
+<tag>
+<AM lemma="československý_:B" src="orig">AAXXX----1A---8</AM>
+<AM lemma="československý" src="manual" selected="1">AAXXX----1A---8</AM>
+</tag>
 </m>
 <m id="m-lnd94104-029-p1s5w10">
 <src.rf>manual</src.rf>
@@ -765,7 +771,10 @@
 <LM>w#w-lnd94104-029-p1s6w20</LM>
 </w.rf>
 <form>ČR</form>
-<tag lemma="ČR-1_:B_;G_^(Česká_republika)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd94104-029-p1s6w21">
 <src.rf>manual</src.rf>
@@ -789,7 +798,10 @@
 <LM>w#w-lnd94104-029-p1s6w23</LM>
 </w.rf>
 <form>Colombo</form>
-<tag lemma="Colombo_;G" src="orig" selected="1">NNNS1-----A----</tag>
+<tag>
+<AM lemma="Colombo_;G" src="orig">NNNS1-----A----</AM>
+<AM lemma="Colombo-2_;S" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd94104-029-p1s6w24">
 <src.rf>manual</src.rf>
@@ -905,7 +917,10 @@
 <LM>w#w-lnd94104-029-p1s8w1</LM>
 </w.rf>
 <form>NATO</form>
-<tag lemma="NATO_:B_;K_^(North_Atlantic_Treaty_Organization)" src="auto" selected="1">NNNXX-----A---8</tag>
+<tag>
+<AM lemma="NATO_:B_;K_^(North_Atlantic_Treaty_Organization)" src="auto">NNNXX-----A---8</AM>
+<AM lemma="NATO_:B_;K_^(North_Atlantic_Treaty_Organization)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd94104-029-p1s8w2">
 <src.rf>manual</src.rf>
@@ -1001,7 +1016,10 @@
 <LM>w#w-lnd94104-029-p1s8w13</LM>
 </w.rf>
 <form>SSSR</form>
-<tag lemma="SSSR_:B_;G_^(Svaz_sov._socialist._republik)" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="SSSR_:B_;G_^(Svaz_sov._socialist._republik)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="SSSR_:B_;G_^(Svaz_sov._socialist._republik)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd94104-029-p1s8w14">
 <src.rf>manual</src.rf>
@@ -1147,7 +1165,10 @@
 <LM>w#w-lnd94104-029-p1s9w3</LM>
 </w.rf>
 <form>NATO</form>
-<tag lemma="NATO_:B_;K_^(North_Atlantic_Treaty_Organization)" src="auto" selected="1">NNNXX-----A---8</tag>
+<tag>
+<AM lemma="NATO_:B_;K_^(North_Atlantic_Treaty_Organization)" src="auto">NNNXX-----A---8</AM>
+<AM lemma="NATO_:B_;K_^(North_Atlantic_Treaty_Organization)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd94104-029-p1s9w4">
 <src.rf>manual</src.rf>

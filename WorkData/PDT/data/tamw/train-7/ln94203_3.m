@@ -525,7 +525,7 @@
 <form>tlustšími</form>
 <tag>
 <AM lemma="tlustý" src="orig">AAFP7----1A----</AM>
-<AM lemma="tlustý" src="auto" recommended="1">AAFP7----2A----</AM>
+<AM lemma="tlustý" src="auto" recommended="1" selected="1">AAFP7----2A----</AM>
 <AM lemma="tlustý" src="auto">AAIP7----2A----</AM>
 <AM lemma="tlustý" src="auto">AAMP7----2A----</AM>
 <AM lemma="tlustý" src="auto">AANP7----2A----</AM>
@@ -1475,7 +1475,10 @@
 <LM>w#w-ln94203-3-p5s1w19</LM>
 </w.rf>
 <form>R</form>
-<tag lemma="R-0_:B_;Y" src="orig" selected="1">NNMXX-----A---8</tag>
+<tag>
+<AM lemma="R-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
+<AM lemma="R-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94203-3-p5s1w20">
 <src.rf>manual</src.rf>
@@ -1739,7 +1742,10 @@
 <LM>w#w-ln94203-3-p5s5w5</LM>
 </w.rf>
 <form>jako</form>
-<tag lemma="jako-1" src="auto" selected="1">J,-------------</tag>
+<tag>
+<AM lemma="jako-1" src="auto" selected="1">J,-------------</AM>
+<AM lemma="jako-2" src="manual">Db-------------</AM>
+</tag>
 </m>
 <m id="m-ln94203-3-p5s5w6">
 <src.rf>manual</src.rf>
@@ -2107,7 +2113,10 @@
 <LM>w#w-ln94203-3-p5s9w2</LM>
 </w.rf>
 <form>bo</form>
-<tag lemma="bo-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="bo-99_:B_;S" src="orig">NNXXX-----A---8</AM>
+<AM lemma="bo-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94203-3-p5s9w3">
 <src.rf>manual</src.rf>

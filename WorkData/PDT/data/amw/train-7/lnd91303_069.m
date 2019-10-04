@@ -83,7 +83,10 @@
 <LM>w#w-lnd91303-069-p1s1w10</LM>
 </w.rf>
 <form>JENOM</form>
-<tag lemma="jenom-1" src="auto" selected="1">TT-------------</tag>
+<tag>
+<AM lemma="jenom-1" src="auto">TT-------------</AM>
+<AM lemma="jenom-2_^(pouze)" src="manual" selected="1">Db-------------</AM>
+</tag>
 </m>
 <m id="m-lnd91303-069-p1s1w11">
 <src.rf>manual</src.rf>

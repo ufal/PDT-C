@@ -149,7 +149,10 @@
 <LM>w#w-cmpr9407-048-p3s1w9</LM>
 </w.rf>
 <form>SPT</form>
-<tag lemma="SPT-1_:B_;K_;b_;c_^(v_býv._názvu_SPT_Telecom)" src="auto" selected="1">NNNXX-----A---8</tag>
+<tag>
+<AM lemma="SPT-1_:B_;K_;b_;c_^(v_býv._názvu_SPT_Telecom)" src="auto">NNNXX-----A---8</AM>
+<AM lemma="SPT-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-cmpr9407-048-p3s1w10">
 <src.rf>manual</src.rf>
@@ -2777,7 +2780,7 @@
 <form>jakákoliv</form>
 <tag>
 <AM lemma="jakýkoliv" src="orig">PZFS1----------</AM>
-<AM lemma="jakýkoli" src="auto" recommended="1">PZFS1---------1</AM>
+<AM lemma="jakýkoli" src="auto" recommended="1" selected="1">PZFS1---------1</AM>
 <AM lemma="jakýkoli" src="auto">PZFS5---------1</AM>
 <AM lemma="jakýkoli" src="auto">PZNP1---------1</AM>
 <AM lemma="jakýkoli" src="auto">PZNP4---------1</AM>
@@ -3244,7 +3247,7 @@
 <form>ovšem</form>
 <tag>
 <AM lemma="ovšem-1_^(avšak,_však;_odporovací_spojka)" src="orig">J^-------------</AM>
-<AM lemma="ovšem" src="auto" recommended="1">TT-------------</AM>
+<AM lemma="ovšem" src="auto" recommended="1" selected="1">TT-------------</AM>
 </tag>
 </m>
 <m id="m-cmpr9407-048-p17s3w11">
@@ -5541,7 +5544,7 @@
 <form>vůbec</form>
 <tag>
 <AM lemma="vůbec" src="orig">Db-------------</AM>
-<AM lemma="vůbec" src="auto" recommended="1">TT-------------</AM>
+<AM lemma="vůbec" src="auto" recommended="1" selected="1">TT-------------</AM>
 </tag>
 </m>
 <m id="m-cmpr9407-048-p24s1w3">
@@ -6166,7 +6169,7 @@
 <form>jedině</form>
 <tag>
 <AM lemma="jedině_^(*1ý)" src="orig">Dg-------1A----</AM>
-<AM lemma="jedině" src="auto" recommended="1">Db-------------</AM>
+<AM lemma="jedině" src="auto" recommended="1" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m-cmpr9407-048-p25s3w31">

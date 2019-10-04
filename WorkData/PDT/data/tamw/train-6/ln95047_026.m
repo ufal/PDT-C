@@ -185,7 +185,10 @@
 <LM>w#w-ln95047-026-p2s1Cw9</LM>
 </w.rf>
 <form>MS</form>
-<tag lemma="MS-3_:B_;w_^(mistrovství_světa)" src="orig" selected="1">NNNXX-----A---8</tag>
+<tag>
+<AM lemma="MS-3_:B_;w_^(mistrovství_světa)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="MS-3_:B_^(mistrovství_světa)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95047-026-p2s1Cw10">
 <src.rf>manual</src.rf>
@@ -225,7 +228,10 @@
 <LM>w#w-ln95047-026-p2s1Cw14</LM>
 </w.rf>
 <form>Thunder</form>
-<tag lemma="Thunder_;G_,t" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="Thunder_;G_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="Thunder-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln95047-026-p2s1Cw15">
 <src.rf>manual</src.rf>
@@ -238,6 +244,8 @@
 <AM lemma="Bay-1_;S" src="auto">NNMS1-----A----</AM>
 <AM lemma="Bay-2_;G" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Bay-2_;G" src="auto">NNIS4-----A----</AM>
+<AM lemma="bay_,t" src="manual">NNXXX-----A----</AM>
+<AM lemma="Bay-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-ln95047-026-p2s1Cw16">
@@ -645,7 +653,7 @@
 <tag>
 <AM lemma="přece" src="orig">Db-------------</AM>
 <AM lemma="přece-1" src="auto" recommended="1">J^-------------</AM>
-<AM lemma="přece-2" src="auto">TT-------------</AM>
+<AM lemma="přece-2" src="auto" selected="1">TT-------------</AM>
 </tag>
 </m>
 <m id="m-ln95047-026-p3s1w20">
@@ -997,7 +1005,7 @@
 <tag>
 <AM lemma="tedy" src="orig">Db-------------</AM>
 <AM lemma="tedy-1" src="auto">TT-------------</AM>
-<AM lemma="tedy-2" src="auto" recommended="1">J^-------------</AM>
+<AM lemma="tedy-2" src="auto" recommended="1" selected="1">J^-------------</AM>
 </tag>
 </m>
 <m id="m-ln95047-026-p3s3w17">
@@ -1266,7 +1274,10 @@
 <LM>w#w-ln95047-026-p3s5w7</LM>
 </w.rf>
 <form>odjet</form>
-<tag lemma="odjet" src="orig" selected="1">Vf--------A----</tag>
+<tag>
+<AM lemma="odjet" src="orig">Vf--------A----</AM>
+<AM lemma="odjet_:W" src="manual" selected="1">Vf--------A----</AM>
+</tag>
 </m>
 <m id="m-ln95047-026-p3s5w8">
 <src.rf>manual</src.rf>
@@ -1324,7 +1335,10 @@
 <LM>w#w-ln95047-026-p3s6w5</LM>
 </w.rf>
 <form>MS</form>
-<tag lemma="MS-3_:B_;w_^(mistrovství_světa)" src="orig" selected="1">NNNXX-----A---8</tag>
+<tag>
+<AM lemma="MS-3_:B_;w_^(mistrovství_světa)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="MS-3_:B_^(mistrovství_světa)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95047-026-p3s6w6">
 <src.rf>manual</src.rf>
@@ -1438,7 +1452,10 @@
 <LM>w#w-ln95047-026-p3s7w10</LM>
 </w.rf>
 <form>MSJ</form>
-<tag lemma="MSJ-1_:B_^(mistrovství_světa_juniorů)" src="auto" selected="1">NNNXX-----A---8</tag>
+<tag>
+<AM lemma="MSJ-1_:B_^(mistrovství_světa_juniorů)" src="auto">NNNXX-----A---8</AM>
+<AM lemma="MSJ-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95047-026-p3s7w11">
 <src.rf>manual</src.rf>
@@ -1680,7 +1697,10 @@
 <LM>w#w-ln95047-026-p3s8w27</LM>
 </w.rf>
 <form>ZOH</form>
-<tag lemma="ZOH-1_:B_;w_^(Zimní_olympijské_hry)" src="orig" selected="1">NNFPX-----A---8</tag>
+<tag>
+<AM lemma="ZOH-1_:B_;w_^(Zimní_olympijské_hry)" src="orig">NNFPX-----A---8</AM>
+<AM lemma="ZOH-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95047-026-p3s8w28">
 <src.rf>manual</src.rf>
@@ -1794,7 +1814,10 @@
 <LM>w#w-ln95047-026-p3s9w10</LM>
 </w.rf>
 <form>přeje</form>
-<tag lemma="přát" src="auto" selected="1">VB-S---3P-AA---</tag>
+<tag>
+<AM lemma="přát" src="auto">VB-S---3P-AA---</AM>
+<AM lemma="přát_:T" src="manual" selected="1">VB-S---3P-AA---</AM>
+</tag>
 </m>
 <m id="m-ln95047-026-p3s9w11">
 <src.rf>manual</src.rf>
@@ -2846,7 +2869,7 @@
 <form>Norové</form>
 <tag>
 <AM lemma="Nor_;E" src="orig">NNMP1-----A----</AM>
-<AM lemma="Nor_;E" src="auto">NNMP1-----A---1</AM>
+<AM lemma="Nor_;E" src="auto" selected="1">NNMP1-----A---1</AM>
 <AM lemma="Nor_;E" src="auto">NNMP5-----A---1</AM>
 <AM lemma="Noro_;Y" src="auto" recommended="1">NNMP1-----A----</AM>
 <AM lemma="Noro_;Y" src="auto">NNMP5-----A----</AM>

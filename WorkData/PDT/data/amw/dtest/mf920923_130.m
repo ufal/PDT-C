@@ -541,7 +541,10 @@
 <LM>w#w-mf920923-130-p4s4w8</LM>
 </w.rf>
 <form>vedla</form>
-<tag lemma="vést" src="auto" selected="1">VpQW---XR-AA---</tag>
+<tag>
+<AM lemma="vést" src="auto">VpQW---XR-AA---</AM>
+<AM lemma="vést_:T" src="manual" selected="1">VpQW---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-mf920923-130-p4s4w9">
 <src.rf>manual</src.rf>

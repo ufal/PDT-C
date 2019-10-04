@@ -19,7 +19,10 @@
 <LM>w#w-lnd92253-091-p1s1w1</LM>
 </w.rf>
 <form>VANDALISMUS</form>
-<tag lemma="vandalismus" src="orig" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="vandalismus" src="orig">NNIS1-----A----</AM>
+<AM lemma="vandalismus_,s_^(^DD**vandalizmus)" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92253-091-p1s1w2">
 <src.rf>manual</src.rf>
@@ -345,7 +348,10 @@
 <LM>w#w-lnd92253-091-p3s2w11</LM>
 </w.rf>
 <form>ČSFR</form>
-<tag lemma="ČSFR-1_:B_;G_^(Čs._federativní_republika)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ČSFR-1_:B_;G_^(Čs._federativní_republika)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČSFR-1_:B_;G_^(Čs._federativní_republika)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92253-091-p3s2w12">
 <src.rf>manual</src.rf>
@@ -627,7 +633,10 @@
 <LM>w#w-lnd92253-091-p3s3w13</LM>
 </w.rf>
 <form>čs</form>
-<tag lemma="československý_:B" src="orig" selected="1">AAXXX----1A---8</tag>
+<tag>
+<AM lemma="československý_:B" src="orig">AAXXX----1A---8</AM>
+<AM lemma="československý" src="manual" selected="1">AAXXX----1A---8</AM>
+</tag>
 </m>
 <m id="m-lnd92253-091-p3s3w14">
 <src.rf>manual</src.rf>
@@ -715,7 +724,10 @@
 <LM>w#w-lnd92253-091-p3s3w24</LM>
 </w.rf>
 <form>čs</form>
-<tag lemma="československý_:B" src="orig" selected="1">AAXXX----1A---8</tag>
+<tag>
+<AM lemma="československý_:B" src="orig">AAXXX----1A---8</AM>
+<AM lemma="československý" src="manual" selected="1">AAXXX----1A---8</AM>
+</tag>
 </m>
 <m id="m-lnd92253-091-p3s3w25">
 <src.rf>manual</src.rf>
@@ -901,7 +913,10 @@
 <LM>w#w-lnd92253-091-p3s4w6</LM>
 </w.rf>
 <form>ČSTK</form>
-<tag lemma="ČSTK-1_:B_;K_^(Československá_tisková_kancelář)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ČSTK-1_:B_;K_^(Československá_tisková_kancelář)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČSTK-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd92253-091-p3s4w7">
 <src.rf>manual</src.rf>
@@ -957,7 +972,10 @@
 <LM>w#w-lnd92253-091-p3s4w13</LM>
 </w.rf>
 <form>FMZV</form>
-<tag lemma="FMZV_:B_;K_^(Federální_ministerstvo_zahr._věcí)" src="orig" selected="1">NNNXX-----A---8</tag>
+<tag>
+<AM lemma="FMZV_:B_;K_^(Federální_ministerstvo_zahr._věcí)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="FMZV-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd92253-091-p3s4w14">
 <src.rf>manual</src.rf>
@@ -973,7 +991,10 @@
 <LM>w#w-lnd92253-091-p3s4w15</LM>
 </w.rf>
 <form>Zikmund</form>
-<tag lemma="Zikmund_;Y" src="orig" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Zikmund_;Y" src="orig">NNMS1-----A----</AM>
+<AM lemma="Zikmund_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92253-091-p3s4w16">
 <src.rf>manual</src.rf>

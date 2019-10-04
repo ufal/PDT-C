@@ -197,7 +197,10 @@
 <LM>w#w-mf930703-086-p2s1w21</LM>
 </w.rf>
 <form>A</form>
-<tag lemma="a-3_^(označení_pomocí_písmene)" src="orig" selected="1">NNNXX-----A----</tag>
+<tag>
+<AM lemma="a-3_^(označení_pomocí_písmene)" src="orig">NNNXX-----A----</AM>
+<AM lemma="A-33_^(označení_pomocí_písmene)" src="manual" selected="1">NNNXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930703-086-p2s1w22">
 <src.rf>manual</src.rf>
@@ -465,7 +468,11 @@
 <LM>w#w-mf930703-086-p4s1w8</LM>
 </w.rf>
 <form>El</form>
-<tag lemma="El_;K" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="El_;K" src="orig">AAXXX----1A----</AM>
+<AM lemma="el-1_,t_^(člen)" src="manual">AAXXX----1A----</AM>
+<AM lemma="El-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-mf930703-086-p4s1w9">
 <src.rf>manual</src.rf>
@@ -490,7 +497,7 @@
 </w.rf>
 <form>Mar</form>
 <tag>
-<AM lemma="Maroko_:B_;G" src="orig">NNNXX-----A---8</AM>
+<AM lemma="Maroko_:B_;G" src="orig" selected="1">NNNXX-----A---8</AM>
 <AM lemma="Mar_:B" src="auto">Xx-------------</AM>
 <AM lemma="Mar_;G" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Mar_;G" src="auto">NNIS4-----A----</AM>

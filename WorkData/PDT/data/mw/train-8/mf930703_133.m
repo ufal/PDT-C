@@ -335,7 +335,10 @@
 <LM>w#w-mf930703-133-p2s2w13</LM>
 </w.rf>
 <form>Kommersant</form>
-<tag lemma="Kommersant_;K" src="auto" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="Kommersant_;K" src="auto">NNIS1-----A----</AM>
+<AM lemma="Kommersant-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-mf930703-133-p2s2w14">
 <src.rf>manual</src.rf>
@@ -497,7 +500,10 @@
 <LM>w#w-mf930703-133-p2s3w19</LM>
 </w.rf>
 <form>jen</form>
-<tag lemma="jen-1" src="auto" selected="1">TT-------------</tag>
+<tag>
+<AM lemma="jen-1" src="auto">TT-------------</AM>
+<AM lemma="jen-4_^(pouze)" src="manual" selected="1">Db-------------</AM>
+</tag>
 </m>
 <m id="m-mf930703-133-p2s3w20">
 <src.rf>manual</src.rf>
@@ -1189,7 +1195,7 @@
 <form>vůbec</form>
 <tag>
 <AM lemma="vůbec" src="orig">Db-------------</AM>
-<AM lemma="vůbec" src="auto" recommended="1">TT-------------</AM>
+<AM lemma="vůbec" src="auto" recommended="1" selected="1">TT-------------</AM>
 </tag>
 </m>
 <m id="m-mf930703-133-p3s5w8">

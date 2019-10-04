@@ -391,7 +391,10 @@
 <src.rf>manual</src.rf>
 <form_change>insert</form_change>
 <form>s</form>
-<tag lemma="s-1" src="auto" selected="1">RR--4----------</tag>
+<tag>
+<AM lemma="s-1" src="auto">RR--4----------</AM>
+<AM lemma="s-9_^(být_s_to)" src="manual" selected="1">TT-------------</AM>
+</tag>
 </m>
 <m id="m-lnd94103-055-p1s4w10">
 <src.rf>manual</src.rf>
@@ -591,7 +594,10 @@
 <LM>w#w-lnd94103-055-p1s4w34</LM>
 </w.rf>
 <form>AP</form>
-<tag lemma="AP-3_:B_;K_,t_^(Associated_Press,_tisková_agentura)" src="auto" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="AP-3_:B_;K_,t_^(Associated_Press,_tisková_agentura)" src="auto">NNFXX-----A---8</AM>
+<AM lemma="AP-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd94103-055-p1s4w35">
 <src.rf>manual</src.rf>

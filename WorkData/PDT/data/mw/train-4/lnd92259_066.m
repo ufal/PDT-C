@@ -91,7 +91,10 @@
 <LM>w#w-lnd92259-066-p1s1w10</LM>
 </w.rf>
 <form>Stana</form>
-<tag lemma="Stan_;Y_,t" src="auto" selected="1">NNMS4-----A----</tag>
+<tag>
+<AM lemma="Stan_;Y_,t" src="auto">NNMS4-----A----</AM>
+<AM lemma="Stan_;Y" src="manual" selected="1">NNMS4-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92259-066-p1s1w11">
 <src.rf>manual</src.rf>
@@ -148,7 +151,10 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>Lloyda</form>
-<tag lemma="Lloyd_;Y" src="auto" selected="1">NNMS4-----A----</tag>
+<tag>
+<AM lemma="Lloyd_;Y" src="auto">NNMS4-----A----</AM>
+<AM lemma="Lloyd_;S_;Y" src="manual" selected="1">NNMS4-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92259-066-p1s1w18">
 <src.rf>manual</src.rf>
@@ -230,7 +236,10 @@
 <LM>w#w-lnd92259-066-p1s2w4</LM>
 </w.rf>
 <form>Hal</form>
-<tag lemma="Hal_;S" src="auto" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Hal_;S" src="auto">NNMS1-----A----</AM>
+<AM lemma="Hal_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92259-066-p1s2w5">
 <src.rf>manual</src.rf>
@@ -281,6 +290,7 @@
 <tag>
 <AM lemma="Beverly_;G" src="orig">NNNXX-----A----</AM>
 <AM lemma="Beverly_;G" src="auto" recommended="1">AAXXX----1A----</AM>
+<AM lemma="Beverly-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-lnd92259-066-p1s2w11">
@@ -289,7 +299,10 @@
 <LM>w#w-lnd92259-066-p1s2w11</LM>
 </w.rf>
 <form>Hills</form>
-<tag lemma="Hills_;G_,t" src="auto" selected="1">NNIPX-----A----</tag>
+<tag>
+<AM lemma="Hills_;G_,t" src="auto">NNIPX-----A----</AM>
+<AM lemma="Hills-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-lnd92259-066-p1s2w12">
 <src.rf>manual</src.rf>
@@ -365,7 +378,10 @@
 <LM>w#w-lnd92259-066-p2s1w2</LM>
 </w.rf>
 <form>ČSTK</form>
-<tag lemma="ČSTK-1_:B_;K_^(Československá_tisková_kancelář)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ČSTK-1_:B_;K_^(Československá_tisková_kancelář)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČSTK-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd92259-066-p2s1w3">
 <src.rf>manual</src.rf>
@@ -381,7 +397,10 @@
 <LM>w#w-lnd92259-066-p2s1w4</LM>
 </w.rf>
 <form>AFP</form>
-<tag lemma="AFP_:B_;K" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="AFP_:B_;K" src="orig">NNIXX-----A---8</AM>
+<AM lemma="AFP-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 </s>
 </mdata>

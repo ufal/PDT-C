@@ -93,7 +93,10 @@
 <LM>w#w-ln95046-001-p2s1w9</LM>
 </w.rf>
 <form>stát</form>
-<tag lemma="stát-2_^(něco_se_přihodilo)" src="orig" selected="1">Vf--------A----</tag>
+<tag>
+<AM lemma="stát-2_^(něco_se_přihodilo)" src="orig">Vf--------A----</AM>
+<AM lemma="stát-2_^(stanu_staneš)" src="manual" selected="1">Vf--------A----</AM>
+</tag>
 </m>
 <m id="m-ln95046-001-p2s1w10">
 <src.rf>manual</src.rf>
@@ -170,6 +173,7 @@
 <tag>
 <AM lemma="ESVO_:B_;K_^(Evropské_sdružení_volného_obchodu)" src="orig">NNNXX-----A---8</AM>
 <AM lemma="ESVO_:B" src="auto" recommended="1">NNXXX-----A---8</AM>
+<AM lemma="ESVO-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95046-001-p2s2w4">
@@ -276,7 +280,10 @@
 <LM>w#w-ln95046-001-p3s1w4</LM>
 </w.rf>
 <form>ČR</form>
-<tag lemma="ČR-1_:B_;G_^(Česká_republika)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95046-001-p3s1w5">
 <src.rf>manual</src.rf>
@@ -380,7 +387,10 @@
 <LM>w#w-ln95046-001-p3s1w17</LM>
 </w.rf>
 <form>HDP</form>
-<tag lemma="HDP_:B_^(hrubý_domácí_produkt)" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="HDP_:B_^(hrubý_domácí_produkt)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="HDP_:B_^(hrubý_domácí_produkt)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95046-001-p3s1w18">
 <src.rf>manual</src.rf>
@@ -546,7 +556,10 @@
 <LM>w#w-ln95046-001-p4s1w4</LM>
 </w.rf>
 <form>vydá</form>
-<tag lemma="vydat-1_:W_^(emitovat:_cenné_papíry,_knihu,_zvuk,...)" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag>
+<AM lemma="vydat-1_:W_^(emitovat:_cenné_papíry,_knihu,_zvuk,...)" src="orig">VB-S---3P-AA---</AM>
+<AM lemma="vydat_:W" src="manual" selected="1">VB-S---3P-AA---</AM>
+</tag>
 </m>
 <m id="m-ln95046-001-p4s1w5">
 <src.rf>manual</src.rf>
@@ -897,7 +910,10 @@
 <LM>w#w-ln95046-001-p5s3w4</LM>
 </w.rf>
 <form>HDP</form>
-<tag lemma="HDP_:B_^(hrubý_domácí_produkt)" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="HDP_:B_^(hrubý_domácí_produkt)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="HDP_:B_^(hrubý_domácí_produkt)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95046-001-p5s3w5">
 <src.rf>manual</src.rf>
@@ -996,7 +1012,10 @@
 <LM>w#w-ln95046-001-p6s1w7</LM>
 </w.rf>
 <form>ECU</form>
-<tag lemma="ECU_:B_;b" src="auto" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ECU_:B_;b" src="auto">NNFXX-----A---8</AM>
+<AM lemma="ECU-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95046-001-p6s1w8">
 <src.rf>manual</src.rf>
@@ -1126,7 +1145,10 @@
 <LM>w#w-ln95046-001-p6s2w10</LM>
 </w.rf>
 <form>stand</form>
-<tag lemma="stand_,t" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="stand_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="stand-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln95046-001-p6s2w11">
 <src.rf>manual</src.rf>
@@ -1145,6 +1167,7 @@
 <tag>
 <AM lemma="by_,t_^(např._stand_by)" src="orig">TT-------------</AM>
 <AM lemma="být" src="auto" recommended="1">Vc-------------</AM>
+<AM lemma="by-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-ln95046-001-p6s2w13">

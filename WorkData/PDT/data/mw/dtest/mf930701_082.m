@@ -35,7 +35,10 @@
 <LM>w#w-mf930701-082-p1s1w3</LM>
 </w.rf>
 <form>ČSAD</form>
-<tag lemma="ČSAD-1_:B_;K_^(Čs._státní_automobilová_doprava)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ČSAD-1_:B_;K_^(Čs._státní_automobilová_doprava)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČSAD-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 </s>
 <s id="m-mf930701-082-p2s1">
@@ -65,6 +68,7 @@
 <AM lemma="mas-99_:B_;S" src="orig">NNXXX-----A---8</AM>
 <AM lemma="masa_^(velké_množství)" src="auto" recommended="1">NNFP2-----A----</AM>
 <AM lemma="maso_^(jídlo_apod.)" src="auto">NNNP2-----A----</AM>
+<AM lemma="mas-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930701-082-p2s1w4">
@@ -187,7 +191,7 @@
 <form>Osoblažská</form>
 <tag>
 <AM lemma="Osoblažská_;K" src="orig">AAFS1----1A----</AM>
-<AM lemma="osoblažský" src="auto" recommended="1">AAFS1----1A----</AM>
+<AM lemma="osoblažský" src="auto" recommended="1" selected="1">AAFS1----1A----</AM>
 <AM lemma="osoblažský" src="auto">AAFS5----1A----</AM>
 <AM lemma="osoblažský" src="auto">AANP1----1A----</AM>
 <AM lemma="osoblažský" src="auto">AANP4----1A----</AM>
@@ -224,7 +228,10 @@
 <LM>w#w-mf930701-082-p2s1w22</LM>
 </w.rf>
 <form>O</form>
-<tag lemma="O-4_:B_;K" src="orig" selected="1">AAXXX----1A---8</tag>
+<tag>
+<AM lemma="O-4_:B_;K" src="orig">AAXXX----1A---8</AM>
+<AM lemma="O-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-mf930701-082-p2s1w23">
 <src.rf>manual</src.rf>
@@ -240,7 +247,10 @@
 <LM>w#w-mf930701-082-p2s1w24</LM>
 </w.rf>
 <form>D</form>
-<tag lemma="D-4_:B_;K" src="orig" selected="1">AAXXX----1A---8</tag>
+<tag>
+<AM lemma="D-4_:B_;K" src="orig">AAXXX----1A---8</AM>
+<AM lemma="D-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-mf930701-082-p2s1w25">
 <src.rf>manual</src.rf>
@@ -281,6 +291,7 @@
 <AM lemma="společnost_:B" src="auto" recommended="1">NNFXX-----A---8</AM>
 <AM lemma="strana-4_:B_^(v_knize,_rukopise,...)" src="auto">NNFXX-----A---8</AM>
 <AM lemma="státní_:B" src="auto">AAXXX----1A---8</AM>
+<AM lemma="S-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-mf930701-082-p2s1w27">
@@ -451,7 +462,10 @@
 <LM>w#w-mf930701-082-p2s2w18</LM>
 </w.rf>
 <form>a</form>
-<tag lemma="akciový_:B_^(jen_akciová_společnost)" src="orig" selected="1">AAXXX----1A---8</tag>
+<tag>
+<AM lemma="akciový_:B_^(jen_akciová_společnost)" src="orig">AAXXX----1A---8</AM>
+<AM lemma="akciový_^(jen_akciová_společnost)" src="manual" selected="1">AAXXX----1A---8</AM>
+</tag>
 </m>
 <m id="m-mf930701-082-p2s2w19">
 <src.rf>manual</src.rf>
@@ -467,7 +481,10 @@
 <LM>w#w-mf930701-082-p2s2w20</LM>
 </w.rf>
 <form>s</form>
-<tag lemma="společnost_:B" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="společnost_:B" src="orig">NNFXX-----A---8</AM>
+<AM lemma="společnost" src="manual" selected="1">NNFXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-mf930701-082-p2s2w21">
 <src.rf>manual</src.rf>
@@ -485,7 +502,10 @@
 <LM>w#w-mf930701-082-p2s3w1</LM>
 </w.rf>
 <form>ČSAD</form>
-<tag lemma="ČSAD-1_:B_;K_^(Čs._státní_automobilová_doprava)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ČSAD-1_:B_;K_^(Čs._státní_automobilová_doprava)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČSAD-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-mf930701-082-p2s3w2">
 <src.rf>manual</src.rf>
@@ -527,7 +547,10 @@
 <LM>w#w-mf930701-082-p2s4w3</LM>
 </w.rf>
 <form>O</form>
-<tag lemma="O-4_:B_;K" src="orig" selected="1">AAXXX----1A---8</tag>
+<tag>
+<AM lemma="O-4_:B_;K" src="orig">AAXXX----1A---8</AM>
+<AM lemma="O-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-mf930701-082-p2s4w4">
 <src.rf>manual</src.rf>
@@ -543,7 +566,10 @@
 <LM>w#w-mf930701-082-p2s4w5</LM>
 </w.rf>
 <form>D</form>
-<tag lemma="D-4_:B_;K" src="orig" selected="1">AAXXX----1A---8</tag>
+<tag>
+<AM lemma="D-4_:B_;K" src="orig">AAXXX----1A---8</AM>
+<AM lemma="D-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-mf930701-082-p2s4w6">
 <src.rf>manual</src.rf>
@@ -584,6 +610,7 @@
 <AM lemma="společnost_:B" src="auto">NNFXX-----A---8</AM>
 <AM lemma="strana-4_:B_^(v_knize,_rukopise,...)" src="auto">NNFXX-----A---8</AM>
 <AM lemma="státní_:B" src="auto">AAXXX----1A---8</AM>
+<AM lemma="S-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-mf930701-082-p2s4w8">
@@ -714,7 +741,10 @@
 <LM>w#w-mf930701-082-p2s5w9</LM>
 </w.rf>
 <form>O</form>
-<tag lemma="O-4_:B_;K" src="orig" selected="1">AAXXX----1A---8</tag>
+<tag>
+<AM lemma="O-4_:B_;K" src="orig">AAXXX----1A---8</AM>
+<AM lemma="O-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-mf930701-082-p2s5w10">
 <src.rf>manual</src.rf>
@@ -730,7 +760,10 @@
 <LM>w#w-mf930701-082-p2s5w11</LM>
 </w.rf>
 <form>D</form>
-<tag lemma="D-4_:B_;K" src="orig" selected="1">AAXXX----1A---8</tag>
+<tag>
+<AM lemma="D-4_:B_;K" src="orig">AAXXX----1A---8</AM>
+<AM lemma="D-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-mf930701-082-p2s5w12">
 <src.rf>manual</src.rf>
@@ -771,6 +804,7 @@
 <AM lemma="společnost_:B" src="auto" recommended="1">NNFXX-----A---8</AM>
 <AM lemma="strana-4_:B_^(v_knize,_rukopise,...)" src="auto">NNFXX-----A---8</AM>
 <AM lemma="státní_:B" src="auto">AAXXX----1A---8</AM>
+<AM lemma="S-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-mf930701-082-p2s5w14">
@@ -803,7 +837,10 @@
 <LM>w#w-mf930701-082-p2s5w17</LM>
 </w.rf>
 <form>milionu</form>
-<tag lemma="milión`1000000" src="orig" selected="1">NNIS2-----A----</tag>
+<tag>
+<AM lemma="milión`1000000" src="orig">NNIS2-----A----</AM>
+<AM lemma="milion`1000000_,s_^(^DD**milión)" src="manual" selected="1">NNIS2-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930701-082-p2s5w18">
 <src.rf>manual</src.rf>
@@ -997,7 +1034,10 @@
 <LM>w#w-mf930701-082-p3s1w14</LM>
 </w.rf>
 <form>O</form>
-<tag lemma="O-4_:B_;K" src="orig" selected="1">AAXXX----1A---8</tag>
+<tag>
+<AM lemma="O-4_:B_;K" src="orig">AAXXX----1A---8</AM>
+<AM lemma="O-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-mf930701-082-p3s1w15">
 <src.rf>manual</src.rf>
@@ -1013,7 +1053,10 @@
 <LM>w#w-mf930701-082-p3s1w16</LM>
 </w.rf>
 <form>D</form>
-<tag lemma="D-4_:B_;K" src="orig" selected="1">AAXXX----1A---8</tag>
+<tag>
+<AM lemma="D-4_:B_;K" src="orig">AAXXX----1A---8</AM>
+<AM lemma="D-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-mf930701-082-p3s1w17">
 <src.rf>manual</src.rf>
@@ -1054,6 +1097,7 @@
 <AM lemma="společnost_:B" src="auto" recommended="1">NNFXX-----A---8</AM>
 <AM lemma="strana-4_:B_^(v_knize,_rukopise,...)" src="auto">NNFXX-----A---8</AM>
 <AM lemma="státní_:B" src="auto">AAXXX----1A---8</AM>
+<AM lemma="S-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-mf930701-082-p3s1w19">
@@ -1102,7 +1146,10 @@
 <LM>w#w-mf930701-082-p3s1w24</LM>
 </w.rf>
 <form>ČSAD</form>
-<tag lemma="ČSAD-1_:B_;K_^(Čs._státní_automobilová_doprava)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ČSAD-1_:B_;K_^(Čs._státní_automobilová_doprava)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČSAD-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-mf930701-082-p3s1w25">
 <src.rf>manual</src.rf>

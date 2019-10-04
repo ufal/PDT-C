@@ -201,7 +201,7 @@
 <form>raději</form>
 <tag>
 <AM lemma="raději" src="orig">Dg-------2A----</AM>
-<AM lemma="rád" src="auto" recommended="1">Dg-------2A----</AM>
+<AM lemma="rád" src="auto" recommended="1" selected="1">Dg-------2A----</AM>
 </tag>
 </m>
 <m id="m-lnd92258-140-p3s1w18">
@@ -460,7 +460,10 @@
 <LM>w#w-lnd92258-140-p3s2w27</LM>
 </w.rf>
 <form>LN</form>
-<tag lemma="LN-1_:B_;R_^(Lidové_noviny,_deník)" src="orig" selected="1">NNFPX-----A---8</tag>
+<tag>
+<AM lemma="LN-1_:B_;R_^(Lidové_noviny,_deník)" src="orig">NNFPX-----A---8</AM>
+<AM lemma="LN-1_:B_;K_;R_^(Lidové_noviny)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92258-140-p3s2w28">
 <src.rf>manual</src.rf>
@@ -917,7 +920,10 @@
 <LM>w#w-lnd92258-140-p4s3w11</LM>
 </w.rf>
 <form>Rayo</form>
-<tag lemma="Rayo_;G" src="orig" selected="1">NNNS1-----A----</tag>
+<tag>
+<AM lemma="Rayo_;G" src="orig">NNNS1-----A----</AM>
+<AM lemma="Rayo-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-lnd92258-140-p4s3w12">
 <src.rf>manual</src.rf>
@@ -925,7 +931,10 @@
 <LM>w#w-lnd92258-140-p4s3w12</LM>
 </w.rf>
 <form>Vallecana</form>
-<tag lemma="Vallecana_;K_,t" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="Vallecana_;K_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="Vallecana-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-lnd92258-140-p4s3w13">
 <src.rf>manual</src.rf>
@@ -1785,7 +1794,10 @@
 <LM>w#w-lnd92258-140-p6s3w1</LM>
 </w.rf>
 <form>Právě</form>
-<tag lemma="právě-1" src="auto" selected="1">Db-------------</tag>
+<tag>
+<AM lemma="právě-1" src="auto">Db-------------</AM>
+<AM lemma="právě-2" src="manual" selected="1">TT-------------</AM>
+</tag>
 </m>
 <m id="m-lnd92258-140-p6s3w2">
 <src.rf>manual</src.rf>
@@ -2027,7 +2039,10 @@
 <LM>w#w-lnd92258-140-p6s4w12</LM>
 </w.rf>
 <form>jen</form>
-<tag lemma="jen-1" src="auto" selected="1">TT-------------</tag>
+<tag>
+<AM lemma="jen-1" src="auto">TT-------------</AM>
+<AM lemma="jen-4_^(pouze)" src="manual" selected="1">Db-------------</AM>
+</tag>
 </m>
 <m id="m-lnd92258-140-p6s4w13">
 <src.rf>manual</src.rf>

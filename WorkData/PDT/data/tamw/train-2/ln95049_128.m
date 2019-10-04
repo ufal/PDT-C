@@ -443,7 +443,10 @@
 <LM>w#w-ln95049-128-p3s1w5</LM>
 </w.rf>
 <form>Financial</form>
-<tag lemma="Financial_;R_,t_^(např._F.Times)" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="Financial_;R_,t_^(např._F.Times)" src="orig">AAXXX----1A----</AM>
+<AM lemma="Financial-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln95049-128-p3s1w6">
 <src.rf>manual</src.rf>
@@ -451,7 +454,10 @@
 <LM>w#w-ln95049-128-p3s1w6</LM>
 </w.rf>
 <form>Times</form>
-<tag lemma="Times-1_;K_,t_^(souč._názvů,_např._The_Times)" src="orig" selected="1">NNIPX-----A----</tag>
+<tag>
+<AM lemma="Times-1_;K_,t_^(souč._názvů,_např._The_Times)" src="orig">NNIPX-----A----</AM>
+<AM lemma="Times-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln95049-128-p3s1w7">
 <src.rf>manual</src.rf>
@@ -986,7 +992,7 @@
 <tag>
 <AM lemma="Tokyo_;G" src="orig">NNNS6-----A----</AM>
 <AM lemma="Tokio_;G" src="auto">NNNS3-----A----</AM>
-<AM lemma="Tokio_;G" src="auto" recommended="1">NNNS6-----A----</AM>
+<AM lemma="Tokio_;G" src="auto" recommended="1" selected="1">NNNS6-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95049-128-p4s1w26">
@@ -1377,7 +1383,10 @@
 <LM>w#w-ln95049-128-p6s1w8</LM>
 </w.rf>
 <form>Financial</form>
-<tag lemma="Financial_;R_,t_^(např._F.Times)" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="Financial_;R_,t_^(např._F.Times)" src="orig">AAXXX----1A----</AM>
+<AM lemma="Financial-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln95049-128-p6s1w9">
 <src.rf>manual</src.rf>
@@ -1385,7 +1394,10 @@
 <LM>w#w-ln95049-128-p6s1w9</LM>
 </w.rf>
 <form>Times</form>
-<tag lemma="Times-1_;K_,t_^(souč._názvů,_např._The_Times)" src="orig" selected="1">NNIPX-----A----</tag>
+<tag>
+<AM lemma="Times-1_;K_,t_^(souč._názvů,_např._The_Times)" src="orig">NNIPX-----A----</AM>
+<AM lemma="Times-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln95049-128-p6s1w10">
 <src.rf>manual</src.rf>
@@ -1601,7 +1613,10 @@
 <LM>w#w-ln95049-128-p6s1w36</LM>
 </w.rf>
 <form>právě</form>
-<tag lemma="právě-1" src="auto" selected="1">Db-------------</tag>
+<tag>
+<AM lemma="právě-1" src="auto">Db-------------</AM>
+<AM lemma="právě-2" src="manual" selected="1">TT-------------</AM>
+</tag>
 </m>
 <m id="m-ln95049-128-p6s1w37">
 <src.rf>manual</src.rf>

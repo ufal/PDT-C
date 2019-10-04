@@ -64,6 +64,7 @@
 <tag>
 <AM lemma="is-99_:B_;S" src="orig">NNXXX-----A---8</AM>
 <AM lemma="be_,t_^(angl._je,_v_názvech_apod.)" src="auto" recommended="1">VB-S---3P-AA---</AM>
+<AM lemma="is-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930709-114-p2s1Aw4">
@@ -186,7 +187,10 @@
 <LM>w#w-mf930709-114-p2s1Bw13</LM>
 </w.rf>
 <form>ČR</form>
-<tag lemma="ČR-1_:B_;G_^(Česká_republika)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930709-114-p2s1Bw14">
 <src.rf>manual</src.rf>
@@ -446,7 +450,10 @@
 <LM>w#w-mf930709-114-p2s3w11</LM>
 </w.rf>
 <form>sice</form>
-<tag lemma="sice-2" src="auto" selected="1">Db-------------</tag>
+<tag>
+<AM lemma="sice-2" src="auto">Db-------------</AM>
+<AM lemma="sice-1_^(spojka;_připouští_se_určitá_fakta)" src="manual" selected="1">J^-------------</AM>
+</tag>
 </m>
 <m id="m-mf930709-114-p2s3w12">
 <src.rf>manual</src.rf>
@@ -712,7 +719,10 @@
 <LM>w#w-mf930709-114-p2s4w18</LM>
 </w.rf>
 <form>např</form>
-<tag lemma="například_:B" src="orig" selected="1">Db------------8</tag>
+<tag>
+<AM lemma="například_:B" src="orig">Db------------8</AM>
+<AM lemma="například" src="manual" selected="1">Db------------8</AM>
+</tag>
 </m>
 <m id="m-mf930709-114-p2s4w19">
 <src.rf>manual</src.rf>

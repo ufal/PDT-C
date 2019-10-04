@@ -69,7 +69,7 @@
 <form>nikoli</form>
 <tag>
 <AM lemma="nikoliv" src="orig">Db------------1</AM>
-<AM lemma="nikoli" src="auto" recommended="1">TT-------------</AM>
+<AM lemma="nikoli" src="auto" recommended="1" selected="1">TT-------------</AM>
 </tag>
 </m>
 <m id="m-ln94201-47-p1s1w8">
@@ -104,7 +104,10 @@
 <LM>w#w-ln94201-47-p2s1w3</LM>
 </w.rf>
 <form>New</form>
-<tag lemma="New-1_;G_,t_^(součást_míst._jmen)" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="New-1_;G_,t_^(součást_míst._jmen)" src="orig">AAXXX----1A----</AM>
+<AM lemma="New-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94201-47-p2s1w4">
 <src.rf>manual</src.rf>
@@ -112,7 +115,10 @@
 <LM>w#w-ln94201-47-p2s1w4</LM>
 </w.rf>
 <form>York</form>
-<tag lemma="York-2_;G" src="orig" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="York-2_;G" src="orig">NNIS1-----A----</AM>
+<AM lemma="York-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94201-47-p2s1w5">
 <src.rf>manual</src.rf>
@@ -144,7 +150,10 @@
 <LM>w#w-ln94201-47-p2s1w8</LM>
 </w.rf>
 <form>ČTK</form>
-<tag lemma="ČTK-1_:B_;K_^(Čs./Česká_tisková_kancelář)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ČTK-1_:B_;K_^(Čs./Česká_tisková_kancelář)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČTK_:B_;K_^(Čs./Česká_tisková_kancelář)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94201-47-p2s1w9">
 <src.rf>manual</src.rf>
@@ -764,7 +773,7 @@
 <form>kongresmani</form>
 <tag>
 <AM lemma="kongresman" src="orig">NNMP1-----A---1</AM>
-<AM lemma="kongresman" src="auto" recommended="1">NNMP1-----A----</AM>
+<AM lemma="kongresman" src="auto" recommended="1" selected="1">NNMP1-----A----</AM>
 <AM lemma="kongresman" src="auto">NNMP5-----A----</AM>
 </tag>
 </m>
@@ -994,7 +1003,10 @@
 <LM>w#w-ln94201-47-p4s2w2</LM>
 </w.rf>
 <form>řekl</form>
-<tag lemma="říci" src="auto" selected="1">VpYS---XR-AA---</tag>
+<tag>
+<AM lemma="říci" src="auto">VpYS---XR-AA---</AM>
+<AM lemma="říci_:W" src="manual" selected="1">VpYS---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-ln94201-47-p4s2w3">
 <src.rf>manual</src.rf>
@@ -1388,7 +1400,10 @@
 <LM>w#w-ln94201-47-p5s1w27</LM>
 </w.rf>
 <form>Santa</form>
-<tag lemma="Santa-3_;Y" src="auto" selected="1">NNFS1-----A----</tag>
+<tag>
+<AM lemma="Santa-3_;Y" src="auto">NNFS1-----A----</AM>
+<AM lemma="Santa-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94201-47-p5s1w28">
 <src.rf>manual</src.rf>
@@ -1542,7 +1557,10 @@
 <LM>w#w-ln94201-47-p6s1w17</LM>
 </w.rf>
 <form>milionů</form>
-<tag lemma="milión`1000000" src="orig" selected="1">NNIP2-----A----</tag>
+<tag>
+<AM lemma="milión`1000000" src="orig">NNIP2-----A----</AM>
+<AM lemma="milion`1000000_,s_^(^DD**milión)" src="manual" selected="1">NNIP2-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94201-47-p6s1w18">
 <src.rf>manual</src.rf>
@@ -1972,7 +1990,10 @@
 <LM>w#w-ln94201-47-p7s1w24</LM>
 </w.rf>
 <form>Corriere</form>
-<tag lemma="Corriere_;R_,t" src="orig" selected="1">NNIXX-----A----</tag>
+<tag>
+<AM lemma="Corriere_;R_,t" src="orig">NNIXX-----A----</AM>
+<AM lemma="Corriere-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94201-47-p7s1w25">
 <src.rf>manual</src.rf>
@@ -1983,6 +2004,7 @@
 <tag>
 <AM lemma="della_,t" src="orig">AAXXX----1A----</AM>
 <AM lemma="della_;R_,t_^(it.,_ve_jménech,_př._della_Rebia)" src="auto" recommended="1">RR--X----------</AM>
+<AM lemma="della-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-ln94201-47-p7s1w26">
@@ -2005,6 +2027,7 @@
 <AM lemma="sérum" src="auto">NNNP4-----A----</AM>
 <AM lemma="sérum" src="auto">NNNP5-----A----</AM>
 <AM lemma="sérum" src="auto">NNNS2-----A----</AM>
+<AM lemma="Sera-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-ln94201-47-p7s1w27">

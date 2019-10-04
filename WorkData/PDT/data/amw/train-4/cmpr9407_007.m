@@ -910,7 +910,10 @@
 <LM>w#w-cmpr9407-007-p7s1Bw18</LM>
 </w.rf>
 <form>organismu</form>
-<tag lemma="organismus" src="orig" selected="1">NNIS2-----A----</tag>
+<tag>
+<AM lemma="organismus" src="orig">NNIS2-----A----</AM>
+<AM lemma="organismus_,s_^(^DD**organizmus)" src="manual" selected="1">NNIS2-----A----</AM>
+</tag>
 </m>
 <m id="m-cmpr9407-007-p7s1Bw19">
 <src.rf>manual</src.rf>
@@ -1816,7 +1819,11 @@
 <LM>w#w-cmpr9407-007-p8s3w13</LM>
 </w.rf>
 <form>ČOI</form>
-<tag lemma="ČOI_:B_;K" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ČOI_:B_;K" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČOI_:B_;K^(Česká_obchodní_inspekce)" src="manual">NNXXX-----A----</AM>
+<AM lemma="ČOI_:B_;K_^(Česká_obchodní_inspekce)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-cmpr9407-007-p8s3w14">
 <src.rf>manual</src.rf>
@@ -1874,7 +1881,10 @@
 <LM>w#w-cmpr9407-007-p9s1w3</LM>
 </w.rf>
 <form>li</form>
-<tag lemma="li-1" src="auto" selected="1">TT-------------</tag>
+<tag>
+<AM lemma="li-1" src="auto">TT-------------</AM>
+<AM lemma="li-2" src="manual" selected="1">J,-------------</AM>
+</tag>
 </m>
 <m id="m-cmpr9407-007-p9s1w4">
 <src.rf>manual</src.rf>
@@ -2212,7 +2222,10 @@
 <LM>w#w-cmpr9407-007-p9s2w7</LM>
 </w.rf>
 <form>li</form>
-<tag lemma="li-1" src="auto" selected="1">TT-------------</tag>
+<tag>
+<AM lemma="li-1" src="auto">TT-------------</AM>
+<AM lemma="li-2" src="manual" selected="1">J,-------------</AM>
+</tag>
 </m>
 <m id="m-cmpr9407-007-p9s2w8">
 <src.rf>manual</src.rf>
@@ -2340,7 +2353,10 @@
 <LM>w#w-cmpr9407-007-p9s2w23</LM>
 </w.rf>
 <form>kartonu</form>
-<tag lemma="karton" src="orig" selected="1">NNIS6-----A----</tag>
+<tag>
+<AM lemma="karton" src="orig">NNIS6-----A----</AM>
+<AM lemma="karton_,s_^(^DD**kartón)" src="manual" selected="1">NNIS6-----A----</AM>
+</tag>
 </m>
 <m id="m-cmpr9407-007-p9s2w24">
 <src.rf>manual</src.rf>

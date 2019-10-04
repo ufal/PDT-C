@@ -22,6 +22,7 @@
 <tag>
 <AM lemma="DSP_:B_;K" src="orig">NNFXX-----A---8</AM>
 <AM lemma="DSP_:B" src="auto" recommended="1">NNXXX-----A---8</AM>
+<AM lemma="DSP-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-lnd91301-021-p1s1w2">

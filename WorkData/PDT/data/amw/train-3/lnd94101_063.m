@@ -71,7 +71,10 @@
 <LM>w#w-lnd94101-063-p1s3w2</LM>
 </w.rf>
 <form>CIA</form>
-<tag lemma="CIA-1_:B_;K_;p_,t_^(Central_Intelligence_Agency,_USA)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="CIA-1_:B_;K_;p_,t_^(Central_Intelligence_Agency,_USA)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="CIA-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd94101-063-p1s3w3">
 <src.rf>manual</src.rf>
@@ -300,6 +303,7 @@
 <tag>
 <AM lemma="USA_;G" src="orig">NNIPX-----A----</AM>
 <AM lemma="USA_:B_;K_,t_^(United_States_of_America)" src="auto" recommended="1">NNIPX-----A---8</AM>
+<AM lemma="USA_:B_;K_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94101-063-p1s4w18">
@@ -534,7 +538,10 @@
 <LM>w#w-lnd94101-063-p1s5w28</LM>
 </w.rf>
 <form>CIA</form>
-<tag lemma="CIA-1_:B_;K_;p_,t_^(Central_Intelligence_Agency,_USA)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="CIA-1_:B_;K_;p_,t_^(Central_Intelligence_Agency,_USA)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="CIA-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd94101-063-p1s5w29">
 <src.rf>manual</src.rf>
@@ -614,7 +621,10 @@
 <LM>w#w-lnd94101-063-p1s5w38</LM>
 </w.rf>
 <form>Bílého</form>
-<tag lemma="bílý" src="orig" selected="1">AAIS2----1A----</tag>
+<tag>
+<AM lemma="bílý" src="orig">AAIS2----1A----</AM>
+<AM lemma="bílý_;o" src="manual" selected="1">AAIS2----1A----</AM>
+</tag>
 </m>
 <m id="m-lnd94101-063-p1s5w39">
 <src.rf>manual</src.rf>
@@ -752,7 +762,10 @@
 <LM>w#w-lnd94101-063-p1s6w15</LM>
 </w.rf>
 <form>Rady</form>
-<tag lemma="rada-3_^(poradní_sbor;_př._Česká_národní_r.)" src="orig" selected="1">NNFS2-----A----</tag>
+<tag>
+<AM lemma="rada-3_^(poradní_sbor;_př._Česká_národní_r.)" src="orig">NNFS2-----A----</AM>
+<AM lemma="rada-1_^(př._dát_někomu_dobrou_radu;poradní_sbor)" src="manual" selected="1">NNFS2-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd94101-063-p1s6w16">
 <src.rf>manual</src.rf>
@@ -808,7 +821,10 @@
 <LM>w#w-lnd94101-063-p1s6w22</LM>
 </w.rf>
 <form>CIA</form>
-<tag lemma="CIA-1_:B_;K_;p_,t_^(Central_Intelligence_Agency,_USA)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="CIA-1_:B_;K_;p_,t_^(Central_Intelligence_Agency,_USA)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="CIA-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd94101-063-p1s6w23">
 <src.rf>manual</src.rf>

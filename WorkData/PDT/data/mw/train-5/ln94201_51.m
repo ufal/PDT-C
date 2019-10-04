@@ -410,7 +410,7 @@
 <tag>
 <AM lemma="matka" src="orig">NNFS4-----A----</AM>
 <AM lemma="matka-1_^(malá_součástka)" src="auto" recommended="1">NNFS4-----A----</AM>
-<AM lemma="matka-2_^(maminka)" src="auto">NNFS4-----A----</AM>
+<AM lemma="matka-2_^(maminka)" src="auto" selected="1">NNFS4-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94201-51-p2s2w24">
@@ -581,7 +581,10 @@
 <LM>w#w-ln94201-51-p2s3w17</LM>
 </w.rf>
 <form>Nág</form>
-<tag lemma="Nág_;G" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="Nág_;G" src="orig">AAXXX----1A----</AM>
+<AM lemma="Nág-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94201-51-p2s3w18">
 <src.rf>manual</src.rf>
@@ -593,6 +596,7 @@
 <AM lemma="Hammadí_;G" src="orig">NNNXX-----A----</AM>
 <AM lemma="Hammadí_;S" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Hammadí_;S" src="auto">NNMS5-----A----</AM>
+<AM lemma="Hammadí-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-ln94201-51-p2s3w19">
@@ -735,6 +739,7 @@
 <AM lemma="al-5_,t" src="orig">AAXXX----1A----</AM>
 <AM lemma="al_;G_^(al-Aiún)" src="auto">A2--------A----</AM>
 <AM lemma="ala-1_,t_^(místnost_v_starořím._obydlí;;vojenská_jednotka_ve_st._Římě;;boční_loď_v_bazilice)" src="auto" recommended="1">NNFP2-----A----</AM>
+<AM lemma="al-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-ln94201-51-p2s4w11">

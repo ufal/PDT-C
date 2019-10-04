@@ -59,7 +59,10 @@
 <LM>w#w-mf930713-071-p1s1w6</LM>
 </w.rf>
 <form>jen</form>
-<tag lemma="jen-1" src="auto" selected="1">TT-------------</tag>
+<tag>
+<AM lemma="jen-1" src="auto">TT-------------</AM>
+<AM lemma="jen-4_^(pouze)" src="manual" selected="1">Db-------------</AM>
+</tag>
 </m>
 <m id="m-mf930713-071-p1s1w7">
 <src.rf>manual</src.rf>
@@ -93,7 +96,10 @@
 <LM>w#w-mf930713-071-p2s1Aw3</LM>
 </w.rf>
 <form>vm</form>
-<tag lemma="vm-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="vm-99_:B_;S" src="orig">NNXXX-----A---8</AM>
+<AM lemma="vm-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930713-071-p2s1Aw4">
 <src.rf>manual</src.rf>
@@ -113,6 +119,7 @@
 <AM lemma="man-99_:B_;S" src="orig">NNXXX-----A---8</AM>
 <AM lemma="man" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="mana" src="auto">NNFP2-----A----</AM>
+<AM lemma="man-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930713-071-p2s1Aw6">
@@ -341,7 +348,10 @@
 <LM>w#w-mf930713-071-p2s2w1</LM>
 </w.rf>
 <form>Řekl</form>
-<tag lemma="říci" src="auto" selected="1">VpYS---XR-AA---</tag>
+<tag>
+<AM lemma="říci" src="auto">VpYS---XR-AA---</AM>
+<AM lemma="říci_:W" src="manual" selected="1">VpYS---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-mf930713-071-p2s2w2">
 <src.rf>manual</src.rf>
@@ -421,7 +431,10 @@
 <LM>w#w-mf930713-071-p2s2w11</LM>
 </w.rf>
 <form>ČNB</form>
-<tag lemma="ČNB-1_:B_;K_;b_^(Česká_národní_banka)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ČNB-1_:B_;K_;b_^(Česká_národní_banka)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČNB-1_:B_;K_^(Česká_národní_banka)" src="manual" selected="1">NNFXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-mf930713-071-p2s2w12">
 <src.rf>manual</src.rf>
@@ -471,7 +484,10 @@
 <LM>w#w-mf930713-071-p2s3w5</LM>
 </w.rf>
 <form>vydaných</form>
-<tag lemma="vydaný-1_^(emitovat:_cenné_papíry,_knihu,_zvuk,...)_(*4t-1)" src="orig" selected="1">AAFP2----1A----</tag>
+<tag>
+<AM lemma="vydaný-1_^(emitovat:_cenné_papíry,_knihu,_zvuk,...)_(*4t-1)" src="orig">AAFP2----1A----</AM>
+<AM lemma="vydaný_^(*2t)" src="manual" selected="1">AAFP2----1A----</AM>
+</tag>
 </m>
 <m id="m-mf930713-071-p2s3w6">
 <src.rf>manual</src.rf>
@@ -907,7 +923,10 @@
 <LM>w#w-mf930713-071-p2s5w14</LM>
 </w.rf>
 <form>ČNB</form>
-<tag lemma="ČNB-1_:B_;K_;b_^(Česká_národní_banka)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ČNB-1_:B_;K_;b_^(Česká_národní_banka)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČNB-1_:B_;K_^(Česká_národní_banka)" src="manual" selected="1">NNFXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-mf930713-071-p2s5w15">
 <src.rf>manual</src.rf>
@@ -1239,7 +1258,7 @@
 <form>tedy</form>
 <tag>
 <AM lemma="tedy" src="orig">Db-------------</AM>
-<AM lemma="tedy-1" src="auto">TT-------------</AM>
+<AM lemma="tedy-1" src="auto" selected="1">TT-------------</AM>
 <AM lemma="tedy-2" src="auto" recommended="1">J^-------------</AM>
 </tag>
 </m>
@@ -1407,7 +1426,7 @@
 <form>totiž</form>
 <tag>
 <AM lemma="totiž" src="orig">Db-------------</AM>
-<AM lemma="totiž-1" src="auto" recommended="1">J^-------------</AM>
+<AM lemma="totiž-1" src="auto" recommended="1" selected="1">J^-------------</AM>
 <AM lemma="totiž-2" src="auto">TT-------------</AM>
 </tag>
 </m>
@@ -1540,6 +1559,7 @@
 <AM lemma="sto-1`100_^(bez_sto_mužů,_sto_dětem,...)" src="auto">ClXP4----------</AM>
 <AM lemma="sto-1`100_^(bez_sto_mužů,_sto_dětem,...)" src="auto">ClXP6----------</AM>
 <AM lemma="sto-1`100_^(bez_sto_mužů,_sto_dětem,...)" src="auto">ClXP7----------</AM>
+<AM lemma="sto-3`100" src="manual" selected="1">A2--------A----</AM>
 </tag>
 </m>
 <m id="m-mf930713-071-p3s3w22">
@@ -1564,7 +1584,10 @@
 <LM>w#w-mf930713-071-p3s3w24</LM>
 </w.rf>
 <form>pětiset</form>
-<tag lemma="pětisetkoruna" src="orig" selected="1">NNFP4-----A----</tag>
+<tag>
+<AM lemma="pětisetkoruna" src="orig">NNFP4-----A----</AM>
+<AM lemma="pětiset" src="manual" selected="1">A2--------A----</AM>
+</tag>
 </m>
 <m id="m-mf930713-071-p3s3w25">
 <src.rf>manual</src.rf>
@@ -1968,7 +1991,10 @@
 <LM>w#w-mf930713-071-p3s5w5</LM>
 </w.rf>
 <form>ČNB</form>
-<tag lemma="ČNB-1_:B_;K_;b_^(Česká_národní_banka)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ČNB-1_:B_;K_;b_^(Česká_národní_banka)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČNB-1_:B_;K_^(Česká_národní_banka)" src="manual" selected="1">NNFXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-mf930713-071-p3s5w6">
 <src.rf>manual</src.rf>
@@ -2080,7 +2106,10 @@
 <LM>w#w-mf930713-071-p3s5w19</LM>
 </w.rf>
 <form>milionů</form>
-<tag lemma="milión`1000000" src="orig" selected="1">NNIP2-----A----</tag>
+<tag>
+<AM lemma="milión`1000000" src="orig">NNIP2-----A----</AM>
+<AM lemma="milion`1000000_,s_^(^DD**milión)" src="manual" selected="1">NNIP2-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930713-071-p3s5w20">
 <src.rf>manual</src.rf>

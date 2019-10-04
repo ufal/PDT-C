@@ -73,6 +73,7 @@
 <AM lemma="Canstar_;K" src="orig">NNFXX-----A----</AM>
 <AM lemma="Canstar_;K" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Canstar_;K" src="auto">NNIS4-----A----</AM>
+<AM lemma="Canstar-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 </s>
@@ -349,7 +350,10 @@
 <LM>w#w-cmpr9413-004-p4s2w18</LM>
 </w.rf>
 <form>Canstar</form>
-<tag lemma="Canstar_;K" src="auto" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="Canstar_;K" src="auto">NNIS1-----A----</AM>
+<AM lemma="Canstar-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-cmpr9413-004-p4s2w19">
 <src.rf>manual</src.rf>
@@ -423,7 +427,10 @@
 <LM>w#w-cmpr9413-004-p5s1w8</LM>
 </w.rf>
 <form>milionů</form>
-<tag lemma="milión`1000000" src="orig" selected="1">NNIP2-----A----</tag>
+<tag>
+<AM lemma="milión`1000000" src="orig">NNIP2-----A----</AM>
+<AM lemma="milion`1000000_,s_^(^DD**milión)" src="manual" selected="1">NNIP2-----A----</AM>
+</tag>
 </m>
 <m id="m-cmpr9413-004-p5s1w9">
 <src.rf>manual</src.rf>
@@ -593,7 +600,10 @@
 <LM>w#w-cmpr9413-004-p5s2w19</LM>
 </w.rf>
 <form>milionů</form>
-<tag lemma="milión`1000000" src="orig" selected="1">NNIP2-----A----</tag>
+<tag>
+<AM lemma="milión`1000000" src="orig">NNIP2-----A----</AM>
+<AM lemma="milion`1000000_,s_^(^DD**milión)" src="manual" selected="1">NNIP2-----A----</AM>
+</tag>
 </m>
 <m id="m-cmpr9413-004-p5s2w20">
 <src.rf>manual</src.rf>
@@ -651,7 +661,10 @@
 <LM>w#w-cmpr9413-004-p5s3w5</LM>
 </w.rf>
 <form>mj</form>
-<tag lemma="mj-1_:B_^(mimo_jiné)" src="orig" selected="1">Db------------8</tag>
+<tag>
+<AM lemma="mj-1_:B_^(mimo_jiné)" src="orig">Db------------8</AM>
+<AM lemma="mj-1_:B_^(mimo_jiné)" src="manual" selected="1">Db-------------</AM>
+</tag>
 </m>
 <m id="m-cmpr9413-004-p5s3w6">
 <src.rf>manual</src.rf>
@@ -1097,7 +1110,10 @@
 <LM>w#w-cmpr9413-004-p7s1w7</LM>
 </w.rf>
 <form>milionů</form>
-<tag lemma="milión`1000000" src="orig" selected="1">NNIP2-----A----</tag>
+<tag>
+<AM lemma="milión`1000000" src="orig">NNIP2-----A----</AM>
+<AM lemma="milion`1000000_,s_^(^DD**milión)" src="manual" selected="1">NNIP2-----A----</AM>
+</tag>
 </m>
 <m id="m-cmpr9413-004-p7s1w8">
 <src.rf>manual</src.rf>
@@ -1261,6 +1277,7 @@
 <AM lemma="Canstar_;K_,t" src="orig">NNIXX-----A----</AM>
 <AM lemma="Canstar_;K" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Canstar_;K" src="auto">NNIS4-----A----</AM>
+<AM lemma="Canstar-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-cmpr9413-004-p7s1w28">
@@ -1773,6 +1790,7 @@
 <AM lemma="Canstar_;K_,t" src="orig">AAXXX----1A----</AM>
 <AM lemma="Canstar_;K" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Canstar_;K" src="auto">NNIS4-----A----</AM>
+<AM lemma="Canstar-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-cmpr9413-004-p8s1w4">
@@ -1781,7 +1799,10 @@
 <LM>w#w-cmpr9413-004-p8s1w4</LM>
 </w.rf>
 <form>Sport</form>
-<tag lemma="sport" src="orig" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="sport" src="orig">NNIS1-----A----</AM>
+<AM lemma="Sport-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-cmpr9413-004-p8s1w5">
 <src.rf>manual</src.rf>
@@ -1793,6 +1814,8 @@
 <AM lemma="Incorporation_;K_,t" src="orig">NNFXX-----A----</AM>
 <AM lemma="Incorporated_:B_,t" src="auto">TT------------8</AM>
 <AM lemma="incisit_:B" src="auto" recommended="1">NNIXX-----A---8</AM>
+<AM lemma="Inc-77" src="manual">F%-------------</AM>
+<AM lemma="Inc-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-cmpr9413-004-p8s1w6">
@@ -1833,7 +1856,10 @@
 <LM>w#w-cmpr9413-004-p8s1w10</LM>
 </w.rf>
 <form>rue</form>
-<tag lemma="rue_,t" src="orig" selected="1">NNFXX-----A----</tag>
+<tag>
+<AM lemma="rue_,t" src="orig">NNFXX-----A----</AM>
+<AM lemma="rue-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-cmpr9413-004-p8s1w11">
 <src.rf>manual</src.rf>
@@ -1844,6 +1870,7 @@
 <tag>
 <AM lemma="Ferrier_;G" src="orig">NNXXX-----A----</AM>
 <AM lemma="Ferrier_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Ferrier-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-cmpr9413-004-p8s1w12">
@@ -1860,7 +1887,10 @@
 <LM>w#w-cmpr9413-004-p8s1w13</LM>
 </w.rf>
 <form>Suite</form>
-<tag lemma="suite_,t" src="orig" selected="1">NNIXX-----A----</tag>
+<tag>
+<AM lemma="suite_,t" src="orig">NNIXX-----A----</AM>
+<AM lemma="Suite-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-cmpr9413-004-p8s1w14">
 <src.rf>manual</src.rf>
@@ -1890,6 +1920,7 @@
 <AM lemma="Villa-3_;G_^(součást_gegraf._názvů_např._Villa_Adriana)" src="auto">NNFS6-----A----</AM>
 <AM lemma="Ville_;S" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Ville_;S" src="auto">NNMS5-----A----</AM>
+<AM lemma="Ville-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-cmpr9413-004-p8s1w17">
@@ -1898,7 +1929,10 @@
 <LM>w#w-cmpr9413-004-p8s1w17</LM>
 </w.rf>
 <form>Mont</form>
-<tag lemma="Mont_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="Mont_;K" src="orig">NNIS1-----A----</AM>
+<AM lemma="Mont-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-cmpr9413-004-p8s1w18">
 <src.rf>manual</src.rf>
@@ -1914,7 +1948,10 @@
 <LM>w#w-cmpr9413-004-p8s1w19</LM>
 </w.rf>
 <form>Royal</form>
-<tag lemma="Royal_,t" src="auto" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="Royal_,t" src="auto">AAXXX----1A----</AM>
+<AM lemma="Royal-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-cmpr9413-004-p8s1w20">
 <src.rf>manual</src.rf>
@@ -1946,7 +1983,10 @@
 <LM>w#w-cmpr9413-004-p8s1w23</LM>
 </w.rf>
 <form>Canada</form>
-<tag lemma="Kanada_;G" src="orig" selected="1">NNFS1-----A----</tag>
+<tag>
+<AM lemma="Kanada_;G" src="orig">NNFS1-----A----</AM>
+<AM lemma="Canada-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-cmpr9413-004-p8s1w24">
 <src.rf>manual</src.rf>
@@ -1969,6 +2009,7 @@
 <AM lemma="h-8_:B_^(ost._zkratka)" src="auto">XX------------8</AM>
 <AM lemma="hodina_:B" src="auto">NNFXX-----A---8</AM>
 <AM lemma="hodina_:B_,x" src="auto">NNFXX-----A---9</AM>
+<AM lemma="H-33_^(označení_pomocí_písmene)" src="manual" selected="1">NNNXX-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9413-004-p8s1w25">
@@ -2005,6 +2046,7 @@
 <AM lemma="podnik_:B" src="auto">NNIXX-----A---8</AM>
 <AM lemma="popisný_:B" src="auto">AAXXX----1A---8</AM>
 <AM lemma="post-2_:B_,t_^(lat.,_po,_např._P.S.)" src="auto">RR--X---------8</AM>
+<AM lemma="P-33_^(označení_pomocí_písmene)" src="manual" selected="1">NNNXX-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9413-004-p8s1w27">
@@ -2041,6 +2083,7 @@
 <AM lemma="nad-1_:B" src="auto">RR--7---------8</AM>
 <AM lemma="nádraží_:B" src="auto">NNNXX-----A---9</AM>
 <AM lemma="národní_:B" src="auto">AAXXX----1A---8</AM>
+<AM lemma="N-33_^(označení_pomocí_písmene)" src="manual" selected="1">NNNXX-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9413-004-p8s1w29">

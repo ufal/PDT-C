@@ -179,7 +179,10 @@
 <LM>w#w-ln94200-10-p2s4w3</LM>
 </w.rf>
 <form>falsifikátor</form>
-<tag lemma="falzifikátor" src="orig" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="falzifikátor" src="orig">NNMS1-----A----</AM>
+<AM lemma="falsifikátor_,s_^(^DD**falzifikátor)" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94200-10-p2s4w4">
 <src.rf>manual</src.rf>
@@ -531,7 +534,7 @@
 <form>snad</form>
 <tag>
 <AM lemma="snad" src="orig">Db-------------</AM>
-<AM lemma="snad" src="auto" recommended="1">TT-------------</AM>
+<AM lemma="snad" src="auto" recommended="1" selected="1">TT-------------</AM>
 </tag>
 </m>
 <m id="m-ln94200-10-p3s1w11">
@@ -540,7 +543,10 @@
 <LM>w#w-ln94200-10-p3s1w11</LM>
 </w.rf>
 <form>jen</form>
-<tag lemma="jen-1" src="auto" selected="1">TT-------------</tag>
+<tag>
+<AM lemma="jen-1" src="auto">TT-------------</AM>
+<AM lemma="jen-4_^(pouze)" src="manual" selected="1">Db-------------</AM>
+</tag>
 </m>
 <m id="m-ln94200-10-p3s1w12">
 <src.rf>manual</src.rf>
@@ -638,7 +644,10 @@
 <LM>w#w-ln94200-10-p3s2w6</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-2" src="auto" selected="1">Dg-------2A----</tag>
+<tag>
+<AM lemma="hodně-2" src="auto">Dg-------2A----</AM>
+<AM lemma="hodně-3" src="manual" selected="1">Dg-------2A----</AM>
+</tag>
 </m>
 <m id="m-ln94200-10-p3s2w7">
 <src.rf>manual</src.rf>
@@ -686,7 +695,10 @@
 <LM>w#w-ln94200-10-p3s2w12</LM>
 </w.rf>
 <form>PhDr</form>
-<tag lemma="PhDr-1_:B_,t_^(philosophiae_doctor)" src="auto" selected="1">NNMXX-----A---8</tag>
+<tag>
+<AM lemma="PhDr-1_:B_,t_^(philosophiae_doctor)" src="auto">NNMXX-----A---8</AM>
+<AM lemma="PhDr_:B_^(philosophiae_doctor)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94200-10-p3s2w13">
 <src.rf>manual</src.rf>
@@ -736,7 +748,10 @@
 <LM>w#w-ln94200-10-p3s3w2</LM>
 </w.rf>
 <form>mk</form>
-<tag lemma="mk-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="mk-99_:B_;S" src="orig">NNXXX-----A---8</AM>
+<AM lemma="mk-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94200-10-p3s3w3">
 <src.rf>manual</src.rf>
@@ -760,7 +775,10 @@
 <LM>w#w-ln94200-10-p3s3w5</LM>
 </w.rf>
 <form>ČT</form>
-<tag lemma="ČT_:B_;K_^(Česká_televize)" src="auto" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="ČT_:B_;K_^(Česká_televize)" src="auto">NNXXX-----A---8</AM>
+<AM lemma="ČT_:B_;K_^(Česká_televize)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94200-10-p3s3w6">
 <src.rf>manual</src.rf>

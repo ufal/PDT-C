@@ -127,7 +127,10 @@
 <LM>w#w-ln94203-61-p2s1Bw4</LM>
 </w.rf>
 <form>OSN</form>
-<tag lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94203-61-p2s1Bw5">
 <src.rf>manual</src.rf>
@@ -199,7 +202,10 @@
 <LM>w#w-ln94203-61-p2s1Bw13</LM>
 </w.rf>
 <form>Süleyman</form>
-<tag lemma="Süleyman_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Süleyman_;S" src="orig">NNMS1-----A----</AM>
+<AM lemma="Süleyman_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94203-61-p2s1Bw14">
 <src.rf>manual</src.rf>
@@ -563,7 +569,10 @@
 <LM>w#w-ln94203-61-p3s1w14</LM>
 </w.rf>
 <form>řekl</form>
-<tag lemma="říci" src="auto" selected="1">VpYS---XR-AA---</tag>
+<tag>
+<AM lemma="říci" src="auto">VpYS---XR-AA---</AM>
+<AM lemma="říci_:W" src="manual" selected="1">VpYS---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-ln94203-61-p3s1w15">
 <src.rf>manual</src.rf>

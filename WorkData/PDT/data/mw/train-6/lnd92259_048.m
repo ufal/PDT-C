@@ -19,7 +19,10 @@
 <LM>w#w-lnd92259-048-p1s1w1</LM>
 </w.rf>
 <form>ODS</form>
-<tag lemma="ODS-1_:B_;K_;p_^(Občanská_demokratická_strana)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ODS-1_:B_;K_;p_^(Občanská_demokratická_strana)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ODS-1_:B_;K_^(Občanská_demokratická_strana)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92259-048-p1s1w2">
 <src.rf>manual</src.rf>
@@ -79,7 +82,10 @@
 <LM>w#w-lnd92259-048-p3s1w2</LM>
 </w.rf>
 <form>ODS</form>
-<tag lemma="ODS-1_:B_;K_;p_^(Občanská_demokratická_strana)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ODS-1_:B_;K_;p_^(Občanská_demokratická_strana)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ODS-1_:B_;K_^(Občanská_demokratická_strana)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92259-048-p3s1w3">
 <src.rf>manual</src.rf>
@@ -183,7 +189,11 @@
 <LM>w#w-lnd92259-048-p3s1w15</LM>
 </w.rf>
 <form>ČR</form>
-<tag lemma="ČR-1_:B_;G_^(Česká_republika)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="manual">NNFXX-----A----</AM>
+<AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92259-048-p3s1w16">
 <src.rf>manual</src.rf>
@@ -231,7 +241,10 @@
 <LM>w#w-lnd92259-048-p3s1w21</LM>
 </w.rf>
 <form>ODS</form>
-<tag lemma="ODS-1_:B_;K_;p_^(Občanská_demokratická_strana)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ODS-1_:B_;K_;p_^(Občanská_demokratická_strana)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ODS-1_:B_;K_^(Občanská_demokratická_strana)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92259-048-p3s1w22">
 <src.rf>manual</src.rf>
@@ -271,7 +284,10 @@
 <LM>w#w-lnd92259-048-p3s1w26</LM>
 </w.rf>
 <form>obdržela</form>
-<tag lemma="obdržet" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag>
+<AM lemma="obdržet" src="orig">VpQW---XR-AA---</AM>
+<AM lemma="obdržet_:W" src="manual" selected="1">VpQW---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-lnd92259-048-p3s1w27">
 <src.rf>manual</src.rf>
@@ -287,7 +303,10 @@
 <LM>w#w-lnd92259-048-p3s1w28</LM>
 </w.rf>
 <form>LN</form>
-<tag lemma="LN-1_:B_;R_^(Lidové_noviny,_deník)" src="orig" selected="1">NNFPX-----A---8</tag>
+<tag>
+<AM lemma="LN-1_:B_;R_^(Lidové_noviny,_deník)" src="orig">NNFPX-----A---8</AM>
+<AM lemma="LN-1_:B_;K_;R_^(Lidové_noviny)" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd92259-048-p3s1w29">
 <src.rf>manual</src.rf>
@@ -475,7 +494,10 @@
 <LM>w#w-lnd92259-048-p3s3w6</LM>
 </w.rf>
 <form>měla</form>
-<tag lemma="mít" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag>
+<AM lemma="mít" src="orig">VpQW---XR-AA---</AM>
+<AM lemma="mít_:T" src="manual" selected="1">VpQW---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-lnd92259-048-p3s3w7">
 <src.rf>manual</src.rf>
@@ -775,7 +797,10 @@
 <LM>w#w-lnd92259-048-p3s5w17</LM>
 </w.rf>
 <form>stran</form>
-<tag lemma="strana-2_^(politická)" src="orig" selected="1">NNFP2-----A----</tag>
+<tag>
+<AM lemma="strana-2_^(politická)" src="orig">NNFP2-----A----</AM>
+<AM lemma="strana" src="manual" selected="1">NNFP2-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92259-048-p3s5w18">
 <src.rf>manual</src.rf>
@@ -794,7 +819,7 @@
 <tag>
 <AM lemma="tedy" src="orig">Db-------------</AM>
 <AM lemma="tedy-1" src="auto">TT-------------</AM>
-<AM lemma="tedy-2" src="auto" recommended="1">J^-------------</AM>
+<AM lemma="tedy-2" src="auto" recommended="1" selected="1">J^-------------</AM>
 </tag>
 </m>
 <m id="m-lnd92259-048-p3s5w20">
@@ -1103,7 +1128,10 @@
 <LM>w#w-lnd92259-048-p3s7w7</LM>
 </w.rf>
 <form>ČR</form>
-<tag lemma="ČR-1_:B_;G_^(Česká_republika)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92259-048-p3s7w8">
 <src.rf>manual</src.rf>

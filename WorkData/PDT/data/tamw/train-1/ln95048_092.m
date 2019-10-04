@@ -310,7 +310,7 @@
 <tag>
 <AM lemma="Aprilia_;R_^(motorka)" src="orig">NNFS1-----A----</AM>
 <AM lemma="Aprilia_;G" src="auto" recommended="1">NNFS1-----A----</AM>
-<AM lemma="Aprilia_;R_^(motocykl)" src="auto">NNFS1-----A----</AM>
+<AM lemma="Aprilia_;R_^(motocykl)" src="auto" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95048-092-p2s2w8">
@@ -596,7 +596,7 @@
 <tag>
 <AM lemma="Aprilia_;R_^(motorka)" src="orig">NNFS1-----A----</AM>
 <AM lemma="Aprilia_;G" src="auto" recommended="1">NNFS1-----A----</AM>
-<AM lemma="Aprilia_;R_^(motocykl)" src="auto">NNFS1-----A----</AM>
+<AM lemma="Aprilia_;R_^(motocykl)" src="auto" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95048-092-p2s3w13">
@@ -637,7 +637,10 @@
 <LM>w#w-ln95048-092-p2s3w17</LM>
 </w.rf>
 <form>ccm</form>
-<tag lemma="ccm_:B_^(centimetr_krychlový)" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="ccm_:B_^(centimetr_krychlový)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="ccm_:B_^(centimetr_krychlový)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95048-092-p2s3w18">
 <src.rf>manual</src.rf>
@@ -895,7 +898,10 @@
 <LM>w#w-ln95048-092-p2s4w16</LM>
 </w.rf>
 <form>ccm</form>
-<tag lemma="ccm_:B_^(centimetr_krychlový)" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="ccm_:B_^(centimetr_krychlový)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="ccm_:B_^(centimetr_krychlový)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95048-092-p2s4w17">
 <src.rf>manual</src.rf>
@@ -1001,7 +1007,10 @@
 <LM>w#w-ln95048-092-p2s5w2</LM>
 </w.rf>
 <form>MS</form>
-<tag lemma="MS-3_:B_;w_^(mistrovství_světa)" src="orig" selected="1">NNNXX-----A---8</tag>
+<tag>
+<AM lemma="MS-3_:B_;w_^(mistrovství_světa)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="MS-3_:B_^(mistrovství_světa)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95048-092-p2s5w3">
 <src.rf>manual</src.rf>
@@ -1084,6 +1093,7 @@
 <tag>
 <AM lemma="VC_:B_;m_^(Velká_cena)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="VC_:B" src="auto" recommended="1">NNNXX-----A---8</AM>
+<AM lemma="VC-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95048-092-p2s5w13">
@@ -1111,6 +1121,8 @@
 <tag>
 <AM lemma="Eastern_;G" src="orig">AAXXX----1A----</AM>
 <AM lemma="Eastern_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="eastern_,t" src="manual">AAXXX----1A----</AM>
+<AM lemma="Eastern-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-ln95048-092-p2s5w16">
@@ -1123,6 +1135,9 @@
 <AM lemma="Creek_;G_,t" src="orig">NNIXX-----A----</AM>
 <AM lemma="creek_,t_^(malý_záliv;;řeka_naplňující_se_jen_v_období_dešťů)" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="creek_,t_^(malý_záliv;;řeka_naplňující_se_jen_v_období_dešťů)" src="auto">NNIS4-----A----</AM>
+<AM lemma="creek_,t" src="manual">NNXXX-----A----</AM>
+<AM lemma="creek_,t_^(malý_záliv;;řeka_naplňující_se_jen_v_období_dešťů)" src="manual">NNXXX-----A----</AM>
+<AM lemma="Creek-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-ln95048-092-p2s5w17">

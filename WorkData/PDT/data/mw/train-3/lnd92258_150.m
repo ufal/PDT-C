@@ -143,7 +143,10 @@
 <LM>w#w-lnd92258-150-p2s2w12</LM>
 </w.rf>
 <form>SRN</form>
-<tag lemma="SRN_:B_;G" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="SRN_:B_;G" src="orig">NNFXX-----A---8</AM>
+<AM lemma="SRN-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd92258-150-p2s2w13">
 <src.rf>manual</src.rf>
@@ -191,7 +194,10 @@
 <LM>w#w-lnd92258-150-p2s2w18</LM>
 </w.rf>
 <form>CDU</form>
-<tag lemma="CDU-1_:B_;K_;p_,t_^(Christianisch-Demokratische_Union)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="CDU-1_:B_;K_;p_,t_^(Christianisch-Demokratische_Union)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="CDU-1_:B_;K_^(Christianisch-Demokratische_Union)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92258-150-p2s2w19">
 <src.rf>manual</src.rf>
@@ -207,7 +213,10 @@
 <LM>w#w-lnd92258-150-p2s2w20</LM>
 </w.rf>
 <form>CSU</form>
-<tag lemma="CSU-1_:B_;K_;p_,t_^(Christianisch-Soziale_Union)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="CSU-1_:B_;K_;p_,t_^(Christianisch-Soziale_Union)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="CSU-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd92258-150-p2s2w21">
 <src.rf>manual</src.rf>

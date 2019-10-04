@@ -26,6 +26,9 @@
 <AM lemma="Hypo_;K" src="auto">NNNS5-----A----</AM>
 <AM lemma="hypa_,h_,n_^(rána,_úder)" src="auto">NNFS5-----A----</AM>
 <AM lemma="hypo" src="auto" recommended="1">A2--------A----</AM>
+<AM lemma="HYPO-77" src="manual">F%-------------</AM>
+<AM lemma="Hypo-77" src="manual">F%-------------</AM>
+<AM lemma="HYPO-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-ln95043-040-p1s1w2">
@@ -182,6 +185,9 @@
 <AM lemma="Hypo_;K" src="auto">NNNS5-----A----</AM>
 <AM lemma="hypa_,h_,n_^(rána,_úder)" src="auto">NNFS5-----A----</AM>
 <AM lemma="hypo" src="auto">A2--------A----</AM>
+<AM lemma="HYPO-77" src="manual">F%-------------</AM>
+<AM lemma="Hypo-77" src="manual">F%-------------</AM>
+<AM lemma="HYPO-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-ln95043-040-p2s1Bw13">
@@ -421,7 +427,7 @@
 <tag>
 <AM lemma="tedy" src="orig">Db-------------</AM>
 <AM lemma="tedy-1" src="auto">TT-------------</AM>
-<AM lemma="tedy-2" src="auto" recommended="1">J^-------------</AM>
+<AM lemma="tedy-2" src="auto" recommended="1" selected="1">J^-------------</AM>
 </tag>
 </m>
 <m id="m-ln95043-040-p2s2w22">
@@ -608,7 +614,10 @@
 <LM>w#w-ln95043-040-p3s1w19</LM>
 </w.rf>
 <form>stavět</form>
-<tag lemma="stavět" src="auto" selected="1">Vf--------A----</tag>
+<tag>
+<AM lemma="stavět" src="auto">Vf--------A----</AM>
+<AM lemma="stavět_:T" src="manual" selected="1">Vf--------A----</AM>
+</tag>
 </m>
 <m id="m-ln95043-040-p3s1w20">
 <src.rf>manual</src.rf>
@@ -883,6 +892,9 @@
 <AM lemma="Hypo_;K" src="auto">NNNS5-----A----</AM>
 <AM lemma="hypa_,h_,n_^(rána,_úder)" src="auto">NNFS5-----A----</AM>
 <AM lemma="hypo" src="auto">A2--------A----</AM>
+<AM lemma="HYPO-77" src="manual">F%-------------</AM>
+<AM lemma="Hypo-77" src="manual">F%-------------</AM>
+<AM lemma="HYPO-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-ln95043-040-p4s1w2">

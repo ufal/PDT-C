@@ -321,7 +321,7 @@
 <form>totiž</form>
 <tag>
 <AM lemma="totiž" src="orig">Db-------------</AM>
-<AM lemma="totiž-1" src="auto" recommended="1">J^-------------</AM>
+<AM lemma="totiž-1" src="auto" recommended="1" selected="1">J^-------------</AM>
 <AM lemma="totiž-2" src="auto">TT-------------</AM>
 </tag>
 </m>
@@ -581,7 +581,10 @@
 <LM>w#w-ln95047-051-p2s3w15</LM>
 </w.rf>
 <form>Misa</form>
-<tag lemma="misa_,t" src="orig" selected="1">NNFS1-----A----</tag>
+<tag>
+<AM lemma="misa_,t" src="orig">NNFS1-----A----</AM>
+<AM lemma="Misa-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln95047-051-p2s3w16">
 <src.rf>manual</src.rf>
@@ -597,7 +600,10 @@
 <LM>w#w-ln95047-051-p2s3w17</LM>
 </w.rf>
 <form>Miserij</form>
-<tag lemma="miserij_,t" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="miserij_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="Miserij-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln95047-051-p2s3w18">
 <src.rf>manual</src.rf>
@@ -669,7 +675,10 @@
 <LM>w#w-ln95047-051-p2s3w26</LM>
 </w.rf>
 <form>Zlatka</form>
-<tag lemma="Zlatko_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag>
+<AM lemma="Zlatko_;S" src="orig">NNMS2-----A----</AM>
+<AM lemma="Zlatko_;S_;Y" src="manual" selected="1">NNMS2-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95047-051-p2s3w27">
 <src.rf>manual</src.rf>
@@ -1343,7 +1352,10 @@
 <LM>w#w-ln95047-051-p3s4w2</LM>
 </w.rf>
 <form>tradicionalismus</form>
-<tag lemma="tradicionalismus" src="orig" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="tradicionalismus" src="orig">NNIS1-----A----</AM>
+<AM lemma="tradicionalismus_,s_^(^DD**tradicionalizmus)" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95047-051-p3s4w3">
 <src.rf>manual</src.rf>
@@ -1394,7 +1406,7 @@
 <tag>
 <AM lemma="tedy" src="orig">Db-------------</AM>
 <AM lemma="tedy-1" src="auto">TT-------------</AM>
-<AM lemma="tedy-2" src="auto" recommended="1">J^-------------</AM>
+<AM lemma="tedy-2" src="auto" recommended="1" selected="1">J^-------------</AM>
 </tag>
 </m>
 <m id="m-ln95047-051-p3s4w9">
@@ -1670,11 +1682,16 @@
 </w.rf>
 <form>Kvity</form>
 <tag>
-<AM lemma="Kvita-2_;Y" src="orig">NNFS2-----A----</AM>
+<AM lemma="Kvita-2_;Y" src="orig" selected="1">NNFS2-----A----</AM>
 <AM lemma="Kvita_;S" src="auto">NNMP4-----A----</AM>
 <AM lemma="Kvita_;S" src="auto">NNMP7-----A----</AM>
 <AM lemma="Kvita_;S" src="auto" recommended="1">NNMS2-----A----</AM>
 </tag>
+<comment>
+<LM type="Other">
+<text>ponechána původní "červená" analýza</text>
+</LM>
+</comment>
 </m>
 <m id="m-ln95047-051-p4s1w13">
 <src.rf>manual</src.rf>
@@ -1948,7 +1965,10 @@
 <LM>w#w-ln95047-051-p4s2w8</LM>
 </w.rf>
 <form>op</form>
-<tag lemma="op" src="orig" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="op" src="orig">NNMS1-----A----</AM>
+<AM lemma="opus" src="manual" selected="1">NNIXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln95047-051-p4s2w9">
 <src.rf>manual</src.rf>
@@ -2251,6 +2271,8 @@
 <tag>
 <AM lemma="opus_:B" src="orig">NNIXX-----A----</AM>
 <AM lemma="op" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="opus_:B" src="manual">NNIXX-----A---8</AM>
+<AM lemma="opus" src="manual" selected="1">NNIXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-ln95047-051-p5s1w10">

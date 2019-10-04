@@ -364,7 +364,7 @@
 </w.rf>
 <form>Edwina</form>
 <tag>
-<AM lemma="Edwina_;Y" src="orig">NNFS1-----A----</AM>
+<AM lemma="Edwina_;Y" src="orig" selected="1">NNFS1-----A----</AM>
 <AM lemma="Edwin_;Y" src="auto" recommended="1">NNMS2-----A----</AM>
 <AM lemma="Edwin_;Y" src="auto">NNMS4-----A----</AM>
 </tag>
@@ -393,7 +393,10 @@
 <LM>w#w-lnd92254-062-p3s4w1</LM>
 </w.rf>
 <form>Uvedla</form>
-<tag lemma="uvést" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag>
+<AM lemma="uvést" src="orig">VpQW---XR-AA---</AM>
+<AM lemma="uvést_:W" src="manual" selected="1">VpQW---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-lnd92254-062-p3s4w2">
 <src.rf>manual</src.rf>
@@ -894,7 +897,10 @@
 <LM>w#w-lnd92254-062-p3s6w20</LM>
 </w.rf>
 <form>řekla</form>
-<tag lemma="říci" src="auto" selected="1">VpQW---XR-AA---</tag>
+<tag>
+<AM lemma="říci" src="auto">VpQW---XR-AA---</AM>
+<AM lemma="říci_:W" src="manual" selected="1">VpQW---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-lnd92254-062-p3s6w21">
 <src.rf>manual</src.rf>

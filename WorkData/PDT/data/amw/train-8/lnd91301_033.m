@@ -27,7 +27,10 @@
 <LM>w#w-lnd91301-033-p1s1w2</LM>
 </w.rf>
 <form>LN</form>
-<tag lemma="LN-2_:B_;K_^(Lidové_noviny,_nakl.)" src="orig" selected="1">NNFPX-----A---8</tag>
+<tag>
+<AM lemma="LN-2_:B_;K_^(Lidové_noviny,_nakl.)" src="orig">NNFPX-----A---8</AM>
+<AM lemma="LN-1_:B_;K_;R_^(Lidové_noviny)" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 </s>
 <s id="m-lnd91301-033-p2s1">
@@ -149,7 +152,10 @@
 <LM>w#w-lnd91301-033-p3s1w8</LM>
 </w.rf>
 <form>vyberete</form>
-<tag lemma="vybrat" src="orig" selected="1">VB-P---2P-AA---</tag>
+<tag>
+<AM lemma="vybrat" src="orig">VB-P---2P-AA---</AM>
+<AM lemma="vybrat_:W" src="manual" selected="1">VB-P---2P-AA---</AM>
+</tag>
 </m>
 <m id="m-lnd91301-033-p3s1w9">
 <src.rf>manual</src.rf>
@@ -221,7 +227,10 @@
 <LM>w#w-lnd91301-033-p3s1w17</LM>
 </w.rf>
 <form>LN</form>
-<tag lemma="LN-1_:B_;R_^(Lidové_noviny,_deník)" src="orig" selected="1">NNFPX-----A---8</tag>
+<tag>
+<AM lemma="LN-1_:B_;R_^(Lidové_noviny,_deník)" src="orig">NNFPX-----A---8</AM>
+<AM lemma="LN-1_:B_;K_;R_^(Lidové_noviny)" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd91301-033-p3s1w18">
 <src.rf>manual</src.rf>
@@ -446,7 +455,10 @@
 <LM>w#w-lnd91301-033-p3s1w45</LM>
 </w.rf>
 <form>stanou</form>
-<tag lemma="stát-2_^(něco_se_přihodilo)" src="orig" selected="1">VB-P---3P-AA---</tag>
+<tag>
+<AM lemma="stát-2_^(něco_se_přihodilo)" src="orig">VB-P---3P-AA---</AM>
+<AM lemma="stát-2_:W_^(něco_se_přihodilo)" src="manual" selected="1">VB-P---3P-AA---</AM>
+</tag>
 </m>
 <m id="m-lnd91301-033-p3s1w46">
 <src.rf>manual</src.rf>
@@ -654,7 +666,11 @@
 <LM>w#w-lnd91301-033-p3s1w71</LM>
 </w.rf>
 <form>Lettre</form>
-<tag lemma="Lettre_;R_,t" src="orig" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="Lettre_;R_,t" src="orig">NNIS1-----A----</AM>
+<AM lemma="lettre_,t" src="manual">NNXXX-----A----</AM>
+<AM lemma="Lettre-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-lnd91301-033-p3s1w72">
 <src.rf>manual</src.rf>
@@ -665,6 +681,9 @@
 <tag>
 <AM lemma="Internationale_;R_,t" src="orig">AAXXX----1A----</AM>
 <AM lemma="internationale_,t" src="auto" recommended="1">NNISX-----A----</AM>
+<AM lemma="internationale_,t" src="manual">NNXXX-----A----</AM>
+<AM lemma="internationale-2_,t" src="manual">AAXXX----1A----</AM>
+<AM lemma="Internationale-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-lnd91301-033-p3s1w73">
@@ -737,7 +756,10 @@
 <LM>w#w-lnd91301-033-p3s1w81</LM>
 </w.rf>
 <form>surrealismus</form>
-<tag lemma="surrealizmus" src="orig" selected="1">NNIS4-----A----</tag>
+<tag>
+<AM lemma="surrealizmus" src="orig">NNIS4-----A----</AM>
+<AM lemma="surrealismus_,s_^(^DD**surrealizmus)" src="manual" selected="1">NNIS4-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd91301-033-p3s1w82">
 <src.rf>manual</src.rf>
@@ -779,7 +801,10 @@
 <LM>w#w-lnd91301-033-p4s1w1</LM>
 </w.rf>
 <form>Přejeme</form>
-<tag lemma="přát" src="orig" selected="1">VB-P---1P-AA---</tag>
+<tag>
+<AM lemma="přát" src="orig">VB-P---1P-AA---</AM>
+<AM lemma="přát_:T" src="manual" selected="1">VB-P---1P-AA---</AM>
+</tag>
 </m>
 <m id="m-lnd91301-033-p4s1w2">
 <src.rf>manual</src.rf>
@@ -827,7 +852,10 @@
 <LM>w#w-lnd91301-033-p4s1w7</LM>
 </w.rf>
 <form>nejvíce</form>
-<tag lemma="hodně-2" src="auto" selected="1">Dg-------3A----</tag>
+<tag>
+<AM lemma="hodně-2" src="auto">Dg-------3A----</AM>
+<AM lemma="nejvíce_^(nejvíce_+_2._p.,_nejvíce_peněz)" src="manual" selected="1">Ca--4----------</AM>
+</tag>
 </m>
 <m id="m-lnd91301-033-p4s1w8">
 <src.rf>manual</src.rf>
@@ -909,7 +937,10 @@
 <LM>w#w-lnd91301-033-p5s1w1</LM>
 </w.rf>
 <form>Hodně</form>
-<tag lemma="hodně-2_^(nezlobivý)_(*3ý-2)" src="auto" selected="1">Dg-------1A----</tag>
+<tag>
+<AM lemma="hodně-2_^(nezlobivý)_(*3ý-2)" src="auto">Dg-------1A----</AM>
+<AM lemma="hodně-1_^(hodně_+_2._p.,_hodně_peněz)" src="manual" selected="1">Ca--4----------</AM>
+</tag>
 </m>
 <m id="m-lnd91301-033-p5s1w2">
 <src.rf>manual</src.rf>
@@ -949,7 +980,10 @@
 <LM>w#w-lnd91301-033-p5s1w6</LM>
 </w.rf>
 <form>optimismu</form>
-<tag lemma="optimizmus" src="orig" selected="1">NNIS2-----A----</tag>
+<tag>
+<AM lemma="optimizmus" src="orig">NNIS2-----A----</AM>
+<AM lemma="optimismus_,s_^(^DD**optimizmus]" src="manual" selected="1">NNIS2-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd91301-033-p5s1w7">
 <src.rf>manual</src.rf>
@@ -989,7 +1023,10 @@
 <LM>w#w-lnd91301-033-p5s1w11</LM>
 </w.rf>
 <form>přeje</form>
-<tag lemma="přát" src="auto" selected="1">VB-S---3P-AA---</tag>
+<tag>
+<AM lemma="přát" src="auto">VB-S---3P-AA---</AM>
+<AM lemma="přát_:T" src="manual" selected="1">VB-S---3P-AA---</AM>
+</tag>
 </m>
 <m id="m-lnd91301-033-p5s1w12">
 <src.rf>manual</src.rf>
@@ -1039,7 +1076,10 @@
 <LM>w#w-lnd91301-033-p6s1w2</LM>
 </w.rf>
 <form>LN</form>
-<tag lemma="LN-2_:B_;K_^(Lidové_noviny,_nakl.)" src="orig" selected="1">NNFPX-----A---8</tag>
+<tag>
+<AM lemma="LN-2_:B_;K_^(Lidové_noviny,_nakl.)" src="orig">NNFPX-----A---8</AM>
+<AM lemma="LN-1_:B_;K_;R_^(Lidové_noviny)" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd91301-033-p6s1w3">
 <src.rf>manual</src.rf>
@@ -1119,7 +1159,10 @@
 <LM>w#w-lnd91301-033-p6s1w12</LM>
 </w.rf>
 <form>PS</form>
-<tag lemma="PS-2_:B_;K_^(poštovní_schránka)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="PS-2_:B_;K_^(poštovní_schránka)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="PS-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd91301-033-p6s1w13">
 <src.rf>manual</src.rf>

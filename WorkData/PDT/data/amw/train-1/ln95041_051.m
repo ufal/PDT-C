@@ -451,7 +451,7 @@
 <form>tedy</form>
 <tag>
 <AM lemma="tedy" src="orig">Db-------------</AM>
-<AM lemma="tedy-1" src="auto">TT-------------</AM>
+<AM lemma="tedy-1" src="auto" selected="1">TT-------------</AM>
 <AM lemma="tedy-2" src="auto" recommended="1">J^-------------</AM>
 </tag>
 </m>
@@ -628,6 +628,7 @@
 <AM lemma="surrealizmus" src="auto" recommended="1">NNIS2-----A----</AM>
 <AM lemma="surrealizmus" src="auto">NNIS3-----A----</AM>
 <AM lemma="surrealizmus" src="auto">NNIS6-----A----</AM>
+<AM lemma="surrealismus_,s_^(^DD**surrealizmus)" src="manual" selected="1">NNIS2-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95041-051-p2s4w16">
@@ -695,7 +696,7 @@
 </w.rf>
 <form>Ra</form>
 <tag>
-<AM lemma="Ra_;K" src="orig">NNFXX-----A----</AM>
+<AM lemma="Ra_;K" src="orig" selected="1">NNFXX-----A----</AM>
 <AM lemma="Ra-2_:B_;H_^(radium)" src="auto" recommended="1">NNNXX-----A---8</AM>
 <AM lemma="Ra_:B" src="auto">NNXXX-----A---8</AM>
 <AM lemma="ra-1_:B_,t_^(radiatus,_druh_oblaku)" src="auto">NNIXX-----A---8</AM>
@@ -731,7 +732,10 @@
 <LM>w#w-ln95041-051-p2s5w11</LM>
 </w.rf>
 <form>stala</form>
-<tag lemma="stát-2_^(něco_se_přihodilo)" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag>
+<AM lemma="stát-2_^(něco_se_přihodilo)" src="orig">VpQW---XR-AA---</AM>
+<AM lemma="stát-2_^(stanu_staneš)" src="manual" selected="1">VpQW---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-ln95041-051-p2s5w12">
 <src.rf>manual</src.rf>
@@ -956,6 +960,7 @@
 <AM lemma="surrealizmus" src="auto" recommended="1">NNIS2-----A----</AM>
 <AM lemma="surrealizmus" src="auto">NNIS3-----A----</AM>
 <AM lemma="surrealizmus" src="auto">NNIS6-----A----</AM>
+<AM lemma="surrealismus_,s_^(^DD**surrealizmus)" src="manual" selected="1">NNIS4-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95041-051-p2s7w9">

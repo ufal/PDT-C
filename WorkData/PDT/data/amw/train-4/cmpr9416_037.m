@@ -189,7 +189,7 @@
 <form>nejen</form>
 <tag>
 <AM lemma="nejen" src="orig">TT-------------</AM>
-<AM lemma="nejen" src="auto" recommended="1">Db-------------</AM>
+<AM lemma="nejen" src="auto" recommended="1" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m-cmpr9416-037-p3s4w3">
@@ -206,7 +206,10 @@
 <LM>w#w-cmpr9416-037-p3s4w4</LM>
 </w.rf>
 <form>dospělé</form>
-<tag lemma="dospělý_^(*2t)" src="auto" selected="1">AAMP4----1A----</tag>
+<tag>
+<AM lemma="dospělý_^(*2t)" src="auto">AAMP4----1A----</AM>
+<AM lemma="dospělý-2" src="manual" selected="1">NNMP4-----A---6</AM>
+</tag>
 </m>
 <m id="m-cmpr9416-037-p3s4w5">
 <src.rf>manual</src.rf>
@@ -411,7 +414,7 @@
 <tag>
 <AM lemma="tedy" src="orig">Db-------------</AM>
 <AM lemma="tedy-1" src="auto">TT-------------</AM>
-<AM lemma="tedy-2" src="auto" recommended="1">J^-------------</AM>
+<AM lemma="tedy-2" src="auto" recommended="1" selected="1">J^-------------</AM>
 </tag>
 </m>
 <m id="m-cmpr9416-037-p3s5w5">
@@ -502,7 +505,10 @@
 <LM>w#w-cmpr9416-037-p3s6w6</LM>
 </w.rf>
 <form>straně</form>
-<tag lemma="strana-4_^(v_knize,_rukopise,...)" src="orig" selected="1">NNFS6-----A----</tag>
+<tag>
+<AM lemma="strana-4_^(v_knize,_rukopise,...)" src="orig">NNFS6-----A----</AM>
+<AM lemma="strana" src="manual" selected="1">NNFS6-----A----</AM>
+</tag>
 </m>
 <m id="m-cmpr9416-037-p3s6w7">
 <src.rf>manual</src.rf>
@@ -577,7 +583,7 @@
 <tag>
 <AM lemma="tedy" src="orig">Db-------------</AM>
 <AM lemma="tedy-1" src="auto">TT-------------</AM>
-<AM lemma="tedy-2" src="auto" recommended="1">J^-------------</AM>
+<AM lemma="tedy-2" src="auto" recommended="1" selected="1">J^-------------</AM>
 </tag>
 </m>
 <m id="m-cmpr9416-037-p3s6w16">
@@ -997,7 +1003,10 @@
 <LM>w#w-cmpr9416-037-p4s5w3</LM>
 </w.rf>
 <form>stranu</form>
-<tag lemma="strana-4_^(v_knize,_rukopise,...)" src="orig" selected="1">NNFS4-----A----</tag>
+<tag>
+<AM lemma="strana-4_^(v_knize,_rukopise,...)" src="orig">NNFS4-----A----</AM>
+<AM lemma="strana" src="manual" selected="1">NNFS4-----A----</AM>
+</tag>
 </m>
 <m id="m-cmpr9416-037-p4s5w4">
 <src.rf>manual</src.rf>
@@ -1286,7 +1295,10 @@
 <LM>w#w-cmpr9416-037-p5s4w2</LM>
 </w.rf>
 <form>vede</form>
-<tag lemma="vést" src="auto" selected="1">VB-S---3P-AA---</tag>
+<tag>
+<AM lemma="vést" src="auto">VB-S---3P-AA---</AM>
+<AM lemma="vést_:T" src="manual" selected="1">VB-S---3P-AA---</AM>
+</tag>
 </m>
 <m id="m-cmpr9416-037-p5s4w3">
 <src.rf>manual</src.rf>
@@ -1376,7 +1388,10 @@
 <LM>w#w-cmpr9416-037-p5s5w7</LM>
 </w.rf>
 <form>straně</form>
-<tag lemma="strana-4_^(v_knize,_rukopise,...)" src="orig" selected="1">NNFS6-----A----</tag>
+<tag>
+<AM lemma="strana-4_^(v_knize,_rukopise,...)" src="orig">NNFS6-----A----</AM>
+<AM lemma="strana" src="manual" selected="1">NNFS6-----A----</AM>
+</tag>
 </m>
 <m id="m-cmpr9416-037-p5s5w8">
 <src.rf>manual</src.rf>
@@ -1775,7 +1790,7 @@
 <AM lemma="osmý" src="auto">CrFP5----------</AM>
 <AM lemma="osmý" src="auto">CrFS2----------</AM>
 <AM lemma="osmý" src="auto">CrFS3----------</AM>
-<AM lemma="osmý" src="auto" recommended="1">CrFS6----------</AM>
+<AM lemma="osmý" src="auto" recommended="1" selected="1">CrFS6----------</AM>
 <AM lemma="osmý" src="auto">CrIP1----------</AM>
 <AM lemma="osmý" src="auto">CrIP4----------</AM>
 <AM lemma="osmý" src="auto">CrIP5----------</AM>
@@ -1810,7 +1825,10 @@
 <LM>w#w-cmpr9416-037-p6s4w22</LM>
 </w.rf>
 <form>straně</form>
-<tag lemma="strana-4_^(v_knize,_rukopise,...)" src="orig" selected="1">NNFS6-----A----</tag>
+<tag>
+<AM lemma="strana-4_^(v_knize,_rukopise,...)" src="orig">NNFS6-----A----</AM>
+<AM lemma="strana" src="manual" selected="1">NNFS6-----A----</AM>
+</tag>
 </m>
 <m id="m-cmpr9416-037-p6s4w23">
 <src.rf>manual</src.rf>

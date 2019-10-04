@@ -19,7 +19,10 @@
 <LM>w#w-lnd94103-071-p1s1w1</LM>
 </w.rf>
 <form>KB</form>
-<tag lemma="KB-1_:B_;K_^(Komerční_banka)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="KB-1_:B_;K_^(Komerční_banka)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="KB-1_:B_;K_^(Komerční_banka)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd94103-071-p1s1w2">
 <src.rf>manual</src.rf>
@@ -35,7 +38,10 @@
 <LM>w#w-lnd94103-071-p1s1w3</LM>
 </w.rf>
 <form>IPB</form>
-<tag lemma="IPB_:B_;K_;b_^(Investiční_a_poštovní_banka)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="IPB_:B_;K_;b_^(Investiční_a_poštovní_banka)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="IPB-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd94103-071-p1s1w4">
 <src.rf>manual</src.rf>
@@ -77,7 +83,10 @@
 <LM>w#w-lnd94103-071-p1s2w3</LM>
 </w.rf>
 <form>ip</form>
-<tag lemma="ip-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="ip-99_:B_;S" src="orig">NNXXX-----A---8</AM>
+<AM lemma="ip-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd94103-071-p1s2w4">
 <src.rf>manual</src.rf>
@@ -387,7 +396,10 @@
 <LM>w#w-lnd94103-071-p1s5w12</LM>
 </w.rf>
 <form>KB</form>
-<tag lemma="KB-1_:B_;K_^(Komerční_banka)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="KB-1_:B_;K_^(Komerční_banka)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="KB-1_:B_;K_^(Komerční_banka)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd94103-071-p1s5w13">
 <src.rf>manual</src.rf>
@@ -600,7 +612,10 @@
 <LM>w#w-lnd94103-071-p1s7w11</LM>
 </w.rf>
 <form>mld</form>
-<tag lemma="miliarda`1000000000_:B" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="miliarda`1000000000_:B" src="orig">NNFXX-----A---8</AM>
+<AM lemma="miliarda`1000000000" src="manual" selected="1">NNFXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd94103-071-p1s7w12">
 <src.rf>manual</src.rf>
@@ -649,7 +664,10 @@
 <LM>w#w-lnd94103-071-p1s7w17</LM>
 </w.rf>
 <form>mld</form>
-<tag lemma="miliarda`1000000000_:B" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="miliarda`1000000000_:B" src="orig">NNFXX-----A---8</AM>
+<AM lemma="miliarda`1000000000" src="manual" selected="1">NNFXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd94103-071-p1s7w18">
 <src.rf>manual</src.rf>
@@ -691,7 +709,10 @@
 <LM>w#w-lnd94103-071-p1s8w3</LM>
 </w.rf>
 <form>KB</form>
-<tag lemma="KB-1_:B_;K_^(Komerční_banka)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="KB-1_:B_;K_^(Komerční_banka)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="KB-1_:B_;K_^(Komerční_banka)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd94103-071-p1s8w4">
 <src.rf>manual</src.rf>
@@ -748,7 +769,10 @@
 <LM>w#w-lnd94103-071-p1s8w10</LM>
 </w.rf>
 <form>mld</form>
-<tag lemma="miliarda`1000000000_:B" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="miliarda`1000000000_:B" src="orig">NNFXX-----A---8</AM>
+<AM lemma="miliarda`1000000000" src="manual" selected="1">NNFXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd94103-071-p1s8w11">
 <src.rf>manual</src.rf>
@@ -856,7 +880,10 @@
 <LM>w#w-lnd94103-071-p1s9w10</LM>
 </w.rf>
 <form>mld</form>
-<tag lemma="miliarda`1000000000_:B" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="miliarda`1000000000_:B" src="orig">NNFXX-----A---8</AM>
+<AM lemma="miliarda`1000000000" src="manual" selected="1">NNFXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd94103-071-p1s9w11">
 <src.rf>manual</src.rf>
@@ -970,7 +997,10 @@
 <LM>w#w-lnd94103-071-p1s9w24</LM>
 </w.rf>
 <form>mld</form>
-<tag lemma="miliarda`1000000000_:B" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="miliarda`1000000000_:B" src="orig">NNFXX-----A---8</AM>
+<AM lemma="miliarda`1000000000" src="manual" selected="1">NNFXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd94103-071-p1s9w25">
 <src.rf>manual</src.rf>
@@ -1020,7 +1050,10 @@
 <LM>w#w-lnd94103-071-p1s10w3</LM>
 </w.rf>
 <form>KB</form>
-<tag lemma="KB-1_:B_;K_^(Komerční_banka)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="KB-1_:B_;K_^(Komerční_banka)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="KB-1_:B_;K_^(Komerční_banka)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd94103-071-p1s10w4">
 <src.rf>manual</src.rf>
@@ -1273,7 +1306,10 @@
 <LM>w#w-lnd94103-071-p1s12w3</LM>
 </w.rf>
 <form>KB</form>
-<tag lemma="KB-1_:B_;K_^(Komerční_banka)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="KB-1_:B_;K_^(Komerční_banka)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="KB-1_:B_;K_^(Komerční_banka)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd94103-071-p1s12w4">
 <src.rf>manual</src.rf>
@@ -1501,7 +1537,10 @@
 <LM>w#w-lnd94103-071-p1s14w1</LM>
 </w.rf>
 <form>IPB</form>
-<tag lemma="IPB_:B_;K_;b_^(Investiční_a_poštovní_banka)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="IPB_:B_;K_;b_^(Investiční_a_poštovní_banka)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="IPB-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd94103-071-p1s14w2">
 <src.rf>manual</src.rf>
@@ -1599,7 +1638,10 @@
 <LM>w#w-lnd94103-071-p1s15w5</LM>
 </w.rf>
 <form>IPB</form>
-<tag lemma="IPB_:B_;K_;b_^(Investiční_a_poštovní_banka)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="IPB_:B_;K_;b_^(Investiční_a_poštovní_banka)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="IPB-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd94103-071-p1s15w6">
 <src.rf>manual</src.rf>
@@ -1689,7 +1731,10 @@
 <LM>w#w-lnd94103-071-p1s16w5</LM>
 </w.rf>
 <form>LN</form>
-<tag lemma="LN-1_:B_;R_^(Lidové_noviny,_deník)" src="orig" selected="1">NNFPX-----A---8</tag>
+<tag>
+<AM lemma="LN-1_:B_;R_^(Lidové_noviny,_deník)" src="orig">NNFPX-----A---8</AM>
+<AM lemma="LN-1_:B_;K_;R_^(Lidové_noviny)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd94103-071-p1s16w6">
 <src.rf>manual</src.rf>
@@ -1801,7 +1846,10 @@
 <LM>w#w-lnd94103-071-p1s16w19</LM>
 </w.rf>
 <form>IPB</form>
-<tag lemma="IPB_:B_;K_;b_^(Investiční_a_poštovní_banka)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="IPB_:B_;K_;b_^(Investiční_a_poštovní_banka)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="IPB-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd94103-071-p1s16w20">
 <src.rf>manual</src.rf>
@@ -1968,7 +2016,10 @@
 <LM>w#w-lnd94103-071-p1s19w5</LM>
 </w.rf>
 <form>Coopers</form>
-<tag lemma="Coopers_;K_,t" src="orig" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="Coopers_;K_,t" src="orig">NNIS1-----A----</AM>
+<AM lemma="Coopers-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-lnd94103-071-p1s19w6">
 <src.rf>manual</src.rf>
@@ -1976,7 +2027,10 @@
 <LM>w#w-lnd94103-071-p1s19w6</LM>
 </w.rf>
 <form>and</form>
-<tag lemma="and-1_,t_^(obv._souč._anglických_názvů,_&quot;a&quot;)" src="auto" selected="1">J^-------------</tag>
+<tag>
+<AM lemma="and-1_,t_^(obv._souč._anglických_názvů,_&quot;a&quot;)" src="auto">J^-------------</AM>
+<AM lemma="and-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-lnd94103-071-p1s19w7">
 <src.rf>manual</src.rf>
@@ -1984,7 +2038,10 @@
 <LM>w#w-lnd94103-071-p1s19w7</LM>
 </w.rf>
 <form>Lybrand</form>
-<tag lemma="Lybrand_;K_,t" src="orig" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="Lybrand_;K_,t" src="orig">NNIS1-----A----</AM>
+<AM lemma="Lybrand-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-lnd94103-071-p1s19w8">
 <src.rf>manual</src.rf>
@@ -2013,6 +2070,7 @@
 <AM lemma="IB_:B" src="auto" recommended="1">NNXXX-----A---8</AM>
 <AM lemma="Ibo-1_;G" src="auto">NNNP2-----A----</AM>
 <AM lemma="ibidem_:B" src="auto">Db------------8</AM>
+<AM lemma="IB-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94103-071-p1s19w11">
@@ -2054,7 +2112,10 @@
 <LM>w#w-lnd94103-071-p1s19w15</LM>
 </w.rf>
 <form>milionů</form>
-<tag lemma="milión`1000000" src="orig" selected="1">NNIP2-----A----</tag>
+<tag>
+<AM lemma="milión`1000000" src="orig">NNIP2-----A----</AM>
+<AM lemma="milion`1000000_,s_^(^DD**milión)" src="manual" selected="1">NNIP2-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd94103-071-p1s19w16">
 <src.rf>manual</src.rf>
@@ -2162,7 +2223,10 @@
 <LM>w#w-lnd94103-071-p1s20w11</LM>
 </w.rf>
 <form>mld</form>
-<tag lemma="miliarda`1000000000_:B" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="miliarda`1000000000_:B" src="orig">NNFXX-----A---8</AM>
+<AM lemma="miliarda`1000000000" src="manual" selected="1">NNFXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd94103-071-p1s20w12">
 <src.rf>manual</src.rf>
@@ -2274,7 +2338,10 @@
 <LM>w#w-lnd94103-071-p1s20w25</LM>
 </w.rf>
 <form>mld</form>
-<tag lemma="miliarda`1000000000_:B" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="miliarda`1000000000_:B" src="orig">NNFXX-----A---8</AM>
+<AM lemma="miliarda`1000000000" src="manual" selected="1">NNFXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd94103-071-p1s20w26">
 <src.rf>manual</src.rf>
@@ -2316,7 +2383,10 @@
 <LM>w#w-lnd94103-071-p1s21w2</LM>
 </w.rf>
 <form>tzv</form>
-<tag lemma="takzvaný_:B" src="orig" selected="1">AAXXX----1A---8</tag>
+<tag>
+<AM lemma="takzvaný_:B" src="orig">AAXXX----1A---8</AM>
+<AM lemma="takzvaný" src="manual" selected="1">AAXXX----1A---8</AM>
+</tag>
 </m>
 <m id="m-lnd94103-071-p1s21w3">
 <src.rf>manual</src.rf>
@@ -2447,6 +2517,7 @@
 <AM lemma="IB_:B" src="auto" recommended="1">NNXXX-----A---8</AM>
 <AM lemma="Ibo-1_;G" src="auto">NNNP2-----A----</AM>
 <AM lemma="ibidem_:B" src="auto">Db------------8</AM>
+<AM lemma="IB-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94103-071-p1s23w4">
@@ -2528,7 +2599,10 @@
 <LM>w#w-lnd94103-071-p1s23w13</LM>
 </w.rf>
 <form>mld</form>
-<tag lemma="miliarda`1000000000_:B" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="miliarda`1000000000_:B" src="orig">NNFXX-----A---8</AM>
+<AM lemma="miliarda`1000000000" src="manual" selected="1">NNFXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd94103-071-p1s23w14">
 <src.rf>manual</src.rf>
@@ -2592,7 +2666,10 @@
 <LM>w#w-lnd94103-071-p1s23w21</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-2" src="auto" selected="1">Dg-------2A----</tag>
+<tag>
+<AM lemma="hodně-2" src="auto">Dg-------2A----</AM>
+<AM lemma="více_^(více_+_2._p.,_více_peněz)" src="manual" selected="1">Ca--1----------</AM>
+</tag>
 </m>
 <m id="m-lnd94103-071-p1s23w22">
 <src.rf>manual</src.rf>
@@ -2659,7 +2736,10 @@
 <LM>w#w-lnd94103-071-p1s24w3</LM>
 </w.rf>
 <form>IPB</form>
-<tag lemma="IPB_:B_;K_;b_^(Investiční_a_poštovní_banka)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="IPB_:B_;K_;b_^(Investiční_a_poštovní_banka)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="IPB-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd94103-071-p1s24w4">
 <src.rf>manual</src.rf>
@@ -2879,7 +2959,10 @@
 <LM>w#w-lnd94103-071-p1s25w9</LM>
 </w.rf>
 <form>IPB</form>
-<tag lemma="IPB_:B_;K_;b_^(Investiční_a_poštovní_banka)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="IPB_:B_;K_;b_^(Investiční_a_poštovní_banka)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="IPB-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd94103-071-p1s25w10">
 <src.rf>manual</src.rf>
@@ -2927,7 +3010,10 @@
 <LM>w#w-lnd94103-071-p1s25w15</LM>
 </w.rf>
 <form>mld</form>
-<tag lemma="miliarda`1000000000_:B" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="miliarda`1000000000_:B" src="orig">NNFXX-----A---8</AM>
+<AM lemma="miliarda`1000000000" src="manual" selected="1">NNFXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd94103-071-p1s25w16">
 <src.rf>manual</src.rf>
@@ -3129,7 +3215,10 @@
 <LM>w#w-lnd94103-071-p1s26w16</LM>
 </w.rf>
 <form>dolarů</form>
-<tag lemma="dolar_;b" src="orig" selected="1">NNIP2-----A----</tag>
+<tag>
+<AM lemma="dolar_;b" src="orig">NNIP2-----A----</AM>
+<AM lemma="dolar" src="manual" selected="1">NNIP2-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd94103-071-p1s26w17">
 <src.rf>manual</src.rf>

@@ -19,7 +19,10 @@
 <LM>w#w-ln94202-124-p1s1w1</LM>
 </w.rf>
 <form>Jarolím</form>
-<tag lemma="Jarolím_;Y" src="orig" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Jarolím_;Y" src="orig">NNMS1-----A----</AM>
+<AM lemma="Jarolím_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94202-124-p1s1w2">
 <src.rf>manual</src.rf>
@@ -69,7 +72,10 @@
 <LM>w#w-ln94202-124-p2s1Aw3</LM>
 </w.rf>
 <form>ber</form>
-<tag lemma="ber-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="ber-99_:B_;S" src="orig">NNXXX-----A---8</AM>
+<AM lemma="ber-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94202-124-p2s1Aw4">
 <src.rf>manual</src.rf>
@@ -167,7 +173,10 @@
 <LM>w#w-ln94202-124-p2s1Bw10</LM>
 </w.rf>
 <form>Bohemians</form>
-<tag lemma="Bohemians_;Y" src="orig" selected="1">NNFSX-----A----</tag>
+<tag>
+<AM lemma="Bohemians_;Y" src="orig">NNFSX-----A----</AM>
+<AM lemma="Bohemians_;K" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94202-124-p2s1Bw11">
 <src.rf>manual</src.rf>
@@ -281,7 +290,10 @@
 <LM>w#w-ln94202-124-p2s2w9</LM>
 </w.rf>
 <form>zelenobílý</form>
-<tag lemma="zelenobílý" src="orig" selected="1">AAIS4----1A----</tag>
+<tag>
+<AM lemma="zelenobílý" src="orig">AAIS4----1A----</AM>
+<AM lemma="zelenobílý_;o" src="manual" selected="1">AAIS4----1A----</AM>
+</tag>
 </m>
 <m id="m-ln94202-124-p2s2w10">
 <src.rf>manual</src.rf>
@@ -313,7 +325,10 @@
 <LM>w#w-ln94202-124-p2s2w13</LM>
 </w.rf>
 <form>Jarolím</form>
-<tag lemma="Jarolím_;Y" src="orig" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Jarolím_;Y" src="orig">NNMS1-----A----</AM>
+<AM lemma="Jarolím_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94202-124-p2s2w14">
 <src.rf>manual</src.rf>
@@ -467,7 +482,10 @@
 <LM>w#w-ln94202-124-p2s3w18</LM>
 </w.rf>
 <form>sezony</form>
-<tag lemma="sezona" src="orig" selected="1">NNFS2-----A----</tag>
+<tag>
+<AM lemma="sezona" src="orig">NNFS2-----A----</AM>
+<AM lemma="sezona_,s_^(^DD**sezóna)" src="manual" selected="1">NNFS2-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94202-124-p2s3w19">
 <src.rf>manual</src.rf>
@@ -633,7 +651,7 @@
 <AM lemma="zkušený" src="orig">NNMS4-----A----</AM>
 <AM lemma="zkušený" src="auto">AAIS2----1A----</AM>
 <AM lemma="zkušený" src="auto">AAMS2----1A----</AM>
-<AM lemma="zkušený" src="auto" recommended="1">AAMS4----1A----</AM>
+<AM lemma="zkušený" src="auto" recommended="1" selected="1">AAMS4----1A----</AM>
 <AM lemma="zkušený" src="auto">AANS2----1A----</AM>
 </tag>
 </m>
@@ -703,7 +721,7 @@
 <AM lemma="zkušený" src="auto">AAIP1----1N----</AM>
 <AM lemma="zkušený" src="auto">AAIP4----1N----</AM>
 <AM lemma="zkušený" src="auto">AAIP5----1N----</AM>
-<AM lemma="zkušený" src="auto" recommended="1">AAMP4----1N----</AM>
+<AM lemma="zkušený" src="auto" recommended="1" selected="1">AAMP4----1N----</AM>
 <AM lemma="zkušený" src="auto">AANP1----1N---6</AM>
 <AM lemma="zkušený" src="auto">AANP4----1N---6</AM>
 <AM lemma="zkušený" src="auto">AANP5----1N---6</AM>
@@ -736,7 +754,10 @@
 <LM>w#w-ln94202-124-p3s2w1</LM>
 </w.rf>
 <form>Jarolím</form>
-<tag lemma="Jarolím_;Y" src="orig" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Jarolím_;Y" src="orig">NNMS1-----A----</AM>
+<AM lemma="Jarolím_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94202-124-p3s2w2">
 <src.rf>manual</src.rf>
@@ -996,7 +1017,10 @@
 <LM>w#w-ln94202-124-p3s4w2</LM>
 </w.rf>
 <form>hraje</form>
-<tag lemma="hrát" src="auto" selected="1">VB-S---3P-AA---</tag>
+<tag>
+<AM lemma="hrát" src="auto">VB-S---3P-AA---</AM>
+<AM lemma="hrát_:T" src="manual" selected="1">VB-S---3P-AA---</AM>
+</tag>
 </m>
 <m id="m-ln94202-124-p3s4w3">
 <src.rf>manual</src.rf>
@@ -1084,7 +1108,10 @@
 <LM>w#w-ln94202-124-p3s4w13</LM>
 </w.rf>
 <form>řekl</form>
-<tag lemma="říci" src="auto" selected="1">VpYS---XR-AA---</tag>
+<tag>
+<AM lemma="říci" src="auto">VpYS---XR-AA---</AM>
+<AM lemma="říci_:W" src="manual" selected="1">VpYS---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-ln94202-124-p3s4w14">
 <src.rf>manual</src.rf>
@@ -1100,7 +1127,10 @@
 <LM>w#w-ln94202-124-p3s4w15</LM>
 </w.rf>
 <form>Bohemians</form>
-<tag lemma="Bohemians_;Y" src="orig" selected="1">NNMPX-----A----</tag>
+<tag>
+<AM lemma="Bohemians_;Y" src="orig">NNMPX-----A----</AM>
+<AM lemma="Bohemians_;K" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94202-124-p3s4w16">
 <src.rf>manual</src.rf>
@@ -1142,7 +1172,10 @@
 <LM>w#w-ln94202-124-p3s5w3</LM>
 </w.rf>
 <form>Jarolímem</form>
-<tag lemma="Jarolím_;Y" src="orig" selected="1">NNMS7-----A----</tag>
+<tag>
+<AM lemma="Jarolím_;Y" src="orig">NNMS7-----A----</AM>
+<AM lemma="Jarolím_;S_;Y" src="manual" selected="1">NNMS7-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94202-124-p3s5w4">
 <src.rf>manual</src.rf>

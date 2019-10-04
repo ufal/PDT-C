@@ -19,7 +19,10 @@
 <LM>w#w-lnd92251-065-p1s1w1</LM>
 </w.rf>
 <form>A</form>
-<tag lemma="A-0_:B_;Y" src="orig" selected="1">NNMXX-----A---8</tag>
+<tag>
+<AM lemma="A-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
+<AM lemma="A-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92251-065-p1s1w2">
 <src.rf>manual</src.rf>
@@ -39,7 +42,7 @@
 <form>RUCKOJ</form>
 <tag>
 <AM lemma="Ruckoj_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Rucký_;S" src="auto" recommended="1">NNMS1-----A---2</AM>
+<AM lemma="Rucký_;S" src="auto" recommended="1" selected="1">NNMS1-----A---2</AM>
 <AM lemma="Rucký_;S" src="auto">NNMS5-----A---2</AM>
 </tag>
 </m>
@@ -217,7 +220,7 @@
 <form>Ruckoj</form>
 <tag>
 <AM lemma="Ruckoj_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Rucký_;S" src="auto" recommended="1">NNMS1-----A---2</AM>
+<AM lemma="Rucký_;S" src="auto" recommended="1" selected="1">NNMS1-----A---2</AM>
 <AM lemma="Rucký_;S" src="auto">NNMS5-----A---2</AM>
 </tag>
 </m>
@@ -393,7 +396,7 @@
 <form>Ruckoj</form>
 <tag>
 <AM lemma="Ruckoj_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Rucký_;S" src="auto" recommended="1">NNMS1-----A---2</AM>
+<AM lemma="Rucký_;S" src="auto" recommended="1" selected="1">NNMS1-----A---2</AM>
 <AM lemma="Rucký_;S" src="auto">NNMS5-----A---2</AM>
 </tag>
 </m>
@@ -499,7 +502,10 @@
 <LM>w#w-lnd92251-065-p3s4w14</LM>
 </w.rf>
 <form>stranu</form>
-<tag lemma="strana-3_^(u_soudu,_na_úřadě,_smluvní_strany;_na_něčí_straně)" src="orig" selected="1">NNFS4-----A----</tag>
+<tag>
+<AM lemma="strana-3_^(u_soudu,_na_úřadě,_smluvní_strany;_na_něčí_straně)" src="orig">NNFS4-----A----</AM>
+<AM lemma="strana" src="manual" selected="1">NNFS4-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92251-065-p3s4w15">
 <src.rf>manual</src.rf>
@@ -707,7 +713,10 @@
 <LM>w#w-lnd92251-065-p3s4w40</LM>
 </w.rf>
 <form>řekl</form>
-<tag lemma="říci" src="auto" selected="1">VpYS---XR-AA---</tag>
+<tag>
+<AM lemma="říci" src="auto">VpYS---XR-AA---</AM>
+<AM lemma="říci_:W" src="manual" selected="1">VpYS---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-lnd92251-065-p3s4w41">
 <src.rf>manual</src.rf>
@@ -819,7 +828,10 @@
 <LM>w#w-lnd92251-065-p3s4w54</LM>
 </w.rf>
 <form>odejít</form>
-<tag lemma="odejít" src="orig" selected="1">Vf--------A----</tag>
+<tag>
+<AM lemma="odejít" src="orig">Vf--------A----</AM>
+<AM lemma="odejít_:W" src="manual" selected="1">Vf--------A----</AM>
+</tag>
 </m>
 <m id="m-lnd92251-065-p3s4w55">
 <src.rf>manual</src.rf>

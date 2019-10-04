@@ -111,7 +111,10 @@
 <LM>w#w-ln95040-144-p3s1Bw6</LM>
 </w.rf>
 <form>APES</form>
-<tag lemma="APES_:B_;K" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="APES_:B_;K" src="orig">NNFXX-----A---8</AM>
+<AM lemma="APES-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln95040-144-p3s1Bw7">
 <src.rf>manual</src.rf>
@@ -523,7 +526,10 @@
 <LM>w#w-ln95040-144-p3s3w11</LM>
 </w.rf>
 <form>Terra</form>
-<tag lemma="Terra_;K" src="auto" selected="1">NNFS1-----A----</tag>
+<tag>
+<AM lemma="Terra_;K" src="auto">NNFS1-----A----</AM>
+<AM lemma="Terra-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln95040-144-p3s3w12">
 <src.rf>manual</src.rf>
@@ -539,7 +545,12 @@
 <LM>w#w-ln95040-144-p3s3w13</LM>
 </w.rf>
 <form>Tec</form>
-<tag lemma="Tec_;m" src="orig" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="Tec_;m" src="orig">NNIS1-----A----</AM>
+<AM lemma="Tec_;K" src="manual">NNIS1-----A----</AM>
+<AM lemma="Tec_;R" src="manual">NNIS1-----A----</AM>
+<AM lemma="Tec-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln95040-144-p3s3w14">
 <src.rf>manual</src.rf>
@@ -741,7 +752,10 @@
 <LM>w#w-ln95040-144-p3s4w7</LM>
 </w.rf>
 <form>OSN</form>
-<tag lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95040-144-p3s4w8">
 <src.rf>manual</src.rf>
@@ -870,7 +884,10 @@
 <LM>w#w-ln95040-144-p3s4w23</LM>
 </w.rf>
 <form>APES</form>
-<tag lemma="APES_:B_;K" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="APES_:B_;K" src="orig">NNFXX-----A---8</AM>
+<AM lemma="APES-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln95040-144-p3s4w24">
 <src.rf>manual</src.rf>
@@ -886,7 +903,10 @@
 <LM>w#w-ln95040-144-p3s4w25</LM>
 </w.rf>
 <form>ČR</form>
-<tag lemma="ČR-1_:B_;G_^(Česká_republika)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95040-144-p3s4w26">
 <src.rf>manual</src.rf>

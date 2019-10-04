@@ -21,7 +21,7 @@
 <form>Žoska</form>
 <tag>
 <AM lemma="Žosky_;K" src="orig">NNFS1-----A----</AM>
-<AM lemma="Žoska_;K" src="auto" recommended="1">NNFS1-----A----</AM>
+<AM lemma="Žoska_;K" src="auto" recommended="1" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94205-23-p1s1w2">
@@ -207,7 +207,7 @@
 <form>Žoska</form>
 <tag>
 <AM lemma="Žosky_;K" src="orig">NNFS1-----A----</AM>
-<AM lemma="Žoska_;K" src="auto" recommended="1">NNFS1-----A----</AM>
+<AM lemma="Žoska_;K" src="auto" recommended="1" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94205-23-p2s1Bw16">
@@ -308,7 +308,10 @@
 <LM>w#w-ln94205-23-p3s1w1</LM>
 </w.rf>
 <form>A</form>
-<tag lemma="akciový_:B_^(jen_akciová_společnost)" src="orig" selected="1">AAXXX----1A---8</tag>
+<tag>
+<AM lemma="akciový_:B_^(jen_akciová_společnost)" src="orig">AAXXX----1A---8</AM>
+<AM lemma="akciový" src="manual" selected="1">AAXXX----1A---8</AM>
+</tag>
 </m>
 <m id="m-ln94205-23-p3s1w2">
 <src.rf>manual</src.rf>
@@ -324,7 +327,10 @@
 <LM>w#w-ln94205-23-p3s1w3</LM>
 </w.rf>
 <form>s</form>
-<tag lemma="společnost_:B" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="společnost_:B" src="orig">NNFXX-----A---8</AM>
+<AM lemma="společnost" src="manual" selected="1">NNFXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln94205-23-p3s1w4">
 <src.rf>manual</src.rf>
@@ -342,7 +348,7 @@
 <form>Žoska</form>
 <tag>
 <AM lemma="Žosky_;K" src="orig">NNFS1-----A----</AM>
-<AM lemma="Žoska_;K" src="auto" recommended="1">NNFS1-----A----</AM>
+<AM lemma="Žoska_;K" src="auto" recommended="1" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94205-23-p3s1w6">
@@ -383,7 +389,10 @@
 <LM>w#w-ln94205-23-p3s1w10</LM>
 </w.rf>
 <form>s</form>
-<tag lemma="státní_:B" src="orig" selected="1">AAXXX----1A---8</tag>
+<tag>
+<AM lemma="státní_:B" src="orig">AAXXX----1A---8</AM>
+<AM lemma="státní" src="manual" selected="1">AAXXX----1A---8</AM>
+</tag>
 </m>
 <m id="m-ln94205-23-p3s1w11">
 <src.rf>manual</src.rf>
@@ -399,7 +408,10 @@
 <LM>w#w-ln94205-23-p3s1w12</LM>
 </w.rf>
 <form>p</form>
-<tag lemma="podnik_:B" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="podnik_:B" src="orig">NNIXX-----A---8</AM>
+<AM lemma="podnik" src="manual" selected="1">NNIXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln94205-23-p3s1w13">
 <src.rf>manual</src.rf>
@@ -1126,7 +1138,7 @@
 <form>Žosku</form>
 <tag>
 <AM lemma="Žosky_;K" src="orig">NNFS4-----A----</AM>
-<AM lemma="Žoska_;K" src="auto" recommended="1">NNFS4-----A----</AM>
+<AM lemma="Žoska_;K" src="auto" recommended="1" selected="1">NNFS4-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94205-23-p4s3w6">
@@ -1211,7 +1223,7 @@
 <form>Žoska</form>
 <tag>
 <AM lemma="Žosky_;K" src="orig">NNFS1-----A----</AM>
-<AM lemma="Žoska_;K" src="auto" recommended="1">NNFS1-----A----</AM>
+<AM lemma="Žoska_;K" src="auto" recommended="1" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94205-23-p4s4w2">
@@ -1269,7 +1281,10 @@
 <LM>w#w-ln94205-23-p4s4w8</LM>
 </w.rf>
 <form>mil</form>
-<tag lemma="milión`1000000_:B" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="milión`1000000_:B" src="orig">NNIXX-----A---8</AM>
+<AM lemma="milión`1000000" src="manual" selected="1">NNIXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln94205-23-p4s4w9">
 <src.rf>manual</src.rf>
@@ -1375,7 +1390,10 @@
 <LM>w#w-ln94205-23-p4s5w1</LM>
 </w.rf>
 <form>IPF</form>
-<tag lemma="IPF_:B_;K" src="auto" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="IPF_:B_;K" src="auto">NNXXX-----A---8</AM>
+<AM lemma="IPF-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94205-23-p4s5w2">
 <src.rf>manual</src.rf>

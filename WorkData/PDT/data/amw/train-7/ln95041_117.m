@@ -22,7 +22,7 @@
 <tag>
 <AM lemma="Elektrický_;K" src="orig">AAXXX----1A----</AM>
 <AM lemma="Elektra_;Y" src="auto">NNFS5-----A----</AM>
-<AM lemma="Elektro_;K" src="auto">NNNS1-----A----</AM>
+<AM lemma="Elektro_;K" src="auto" selected="1">NNNS1-----A----</AM>
 <AM lemma="Elektro_;K" src="auto">NNNS4-----A----</AM>
 <AM lemma="Elektro_;K" src="auto">NNNS5-----A----</AM>
 <AM lemma="elektrický" src="auto">A2--------A----</AM>
@@ -94,6 +94,7 @@
 <AM lemma="Eta-2_;K" src="auto">NNFS1-----A----</AM>
 <AM lemma="Eto_;S" src="auto">NNMS2-----A----</AM>
 <AM lemma="Eto_;S" src="auto">NNMS4-----A----</AM>
+<AM lemma="ETA-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-ln95041-117-p2s1Aw4">
@@ -239,7 +240,7 @@
 <tag>
 <AM lemma="Elektrický_;K" src="orig">AAXXX----1A----</AM>
 <AM lemma="Elektra_;Y" src="auto">NNFS5-----A----</AM>
-<AM lemma="Elektro_;K" src="auto" recommended="1">NNNS1-----A----</AM>
+<AM lemma="Elektro_;K" src="auto" recommended="1" selected="1">NNNS1-----A----</AM>
 <AM lemma="Elektro_;K" src="auto">NNNS4-----A----</AM>
 <AM lemma="Elektro_;K" src="auto">NNNS5-----A----</AM>
 <AM lemma="elektrický" src="auto">A2--------A----</AM>
@@ -443,7 +444,7 @@
 <form>Přesto</form>
 <tag>
 <AM lemma="přesto" src="orig">Dg-------1A----</AM>
-<AM lemma="přesto-1" src="auto">Db-------------</AM>
+<AM lemma="přesto-1" src="auto" selected="1">Db-------------</AM>
 <AM lemma="přesto-2" src="auto" recommended="1">J^-------------</AM>
 </tag>
 </m>
@@ -1588,7 +1589,7 @@
 <tag>
 <AM lemma="Elektrický_;K" src="orig">AAXXX----1A----</AM>
 <AM lemma="Elektra_;Y" src="auto">NNFS5-----A----</AM>
-<AM lemma="Elektro_;K" src="auto">NNNS1-----A----</AM>
+<AM lemma="Elektro_;K" src="auto" selected="1">NNNS1-----A----</AM>
 <AM lemma="Elektro_;K" src="auto">NNNS4-----A----</AM>
 <AM lemma="Elektro_;K" src="auto">NNNS5-----A----</AM>
 <AM lemma="elektrický" src="auto">A2--------A----</AM>
@@ -1674,6 +1675,7 @@
 <AM lemma="Eta-2_;K" src="auto">NNFS1-----A----</AM>
 <AM lemma="Eto_;S" src="auto">NNMS2-----A----</AM>
 <AM lemma="Eto_;S" src="auto">NNMS4-----A----</AM>
+<AM lemma="ETA-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-ln95041-117-p5s1w11">
@@ -2000,7 +2002,7 @@
 <form>Litovel</form>
 <tag>
 <AM lemma="Litovel_;G" src="orig">NNFS1-----A----</AM>
-<AM lemma="Litovel_;G" src="auto" recommended="1">NNIS1-----A----</AM>
+<AM lemma="Litovel_;G" src="auto" recommended="1" selected="1">NNIS1-----A----</AM>
 <AM lemma="Litovel_;G" src="auto">NNIS4-----A----</AM>
 </tag>
 </m>
@@ -2426,7 +2428,7 @@
 <form>nejen</form>
 <tag>
 <AM lemma="nejen" src="orig">TT-------------</AM>
-<AM lemma="nejen" src="auto" recommended="1">Db-------------</AM>
+<AM lemma="nejen" src="auto" recommended="1" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m-ln95041-117-p5s6w12">
@@ -2986,7 +2988,7 @@
 <tag>
 <AM lemma="Elektrický_;K" src="orig">AAXXX----1A----</AM>
 <AM lemma="Elektra_;Y" src="auto">NNFS5-----A----</AM>
-<AM lemma="Elektro_;K" src="auto">NNNS1-----A----</AM>
+<AM lemma="Elektro_;K" src="auto" selected="1">NNNS1-----A----</AM>
 <AM lemma="Elektro_;K" src="auto">NNNS4-----A----</AM>
 <AM lemma="Elektro_;K" src="auto">NNNS5-----A----</AM>
 <AM lemma="elektrický" src="auto">A2--------A----</AM>
@@ -3143,7 +3145,7 @@
 <form>přičemž</form>
 <tag>
 <AM lemma="přičemž" src="orig">J,-------------</AM>
-<AM lemma="přičemž" src="auto" recommended="1">Db-------------</AM>
+<AM lemma="přičemž" src="auto" recommended="1" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m-ln95041-117-p7s2w9">
@@ -3248,7 +3250,10 @@
 <LM>w#w-ln95041-117-p7s2w21</LM>
 </w.rf>
 <form>IPF</form>
-<tag lemma="IPF_:B_;K" src="auto" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="IPF_:B_;K" src="auto">NNXXX-----A---8</AM>
+<AM lemma="IPF-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln95041-117-p7s2w22">
 <src.rf>manual</src.rf>
@@ -3449,7 +3454,7 @@
 <tag>
 <AM lemma="Elektrický_;K" src="orig">AAXXX----1A----</AM>
 <AM lemma="Elektra_;Y" src="auto">NNFS5-----A----</AM>
-<AM lemma="Elektro_;K" src="auto" recommended="1">NNNS1-----A----</AM>
+<AM lemma="Elektro_;K" src="auto" recommended="1" selected="1">NNNS1-----A----</AM>
 <AM lemma="Elektro_;K" src="auto">NNNS4-----A----</AM>
 <AM lemma="Elektro_;K" src="auto">NNNS5-----A----</AM>
 <AM lemma="elektrický" src="auto">A2--------A----</AM>
@@ -3557,7 +3562,7 @@
 <AM lemma="kotovaný_^(*2t)" src="auto">AAIP4----1A---6</AM>
 <AM lemma="kotovaný_^(*2t)" src="auto">AAIP5----1A---6</AM>
 <AM lemma="kotovaný_^(*2t)" src="auto">AAIS1----1A----</AM>
-<AM lemma="kotovaný_^(*2t)" src="auto" recommended="1">AAIS4----1A----</AM>
+<AM lemma="kotovaný_^(*2t)" src="auto" recommended="1" selected="1">AAIS4----1A----</AM>
 <AM lemma="kotovaný_^(*2t)" src="auto">AAIS5----1A----</AM>
 <AM lemma="kotovaný_^(*2t)" src="auto">AAMP1----1A---6</AM>
 <AM lemma="kotovaný_^(*2t)" src="auto">AAMP4----1A---6</AM>
@@ -3638,7 +3643,7 @@
 <form>Kč</form>
 <tag>
 <AM lemma="Kč" src="orig">NNFXX-----A----</AM>
-<AM lemma="Kč_:B" src="auto" recommended="1">NNFXX-----A---8</AM>
+<AM lemma="Kč_:B" src="auto" recommended="1" selected="1">NNFXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-ln95041-117-p8s2w7">

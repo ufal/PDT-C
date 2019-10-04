@@ -280,7 +280,7 @@
 </w.rf>
 <form>Oz</form>
 <tag>
-<AM lemma="Oz_;S" src="orig">NNMS1-----A----</AM>
+<AM lemma="Oz_;S" src="orig" selected="1">NNMS1-----A----</AM>
 <AM lemma="oz-1_:B_,t_^(jednotka_hmotnosti_&quot;unce&quot;)" src="auto" recommended="1">NNFXX-----A---8</AM>
 </tag>
 </m>
@@ -322,7 +322,10 @@
 <LM>w#w-ln94204-94-p3s1w9</LM>
 </w.rf>
 <form>hod</form>
-<tag lemma="hodina_:B" src="auto" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="hodina_:B" src="auto">NNFXX-----A---8</AM>
+<AM lemma="hodina" src="manual" selected="1">NNFXX-----A---9</AM>
+</tag>
 </m>
 <m id="m-ln94204-94-p3s1w10">
 <src.rf>manual</src.rf>
@@ -346,7 +349,11 @@
 <LM>w#w-ln94204-94-p3s1w12</LM>
 </w.rf>
 <form>Černá</form>
-<tag lemma="černý" src="auto" selected="1">AAFS1----1A----</tag>
+<tag>
+<AM lemma="černý" src="auto">AAFS1----1A----</AM>
+<AM lemma="Černá_;S" src="manual">NNFS1-----A----</AM>
+<AM lemma="černý_;o" src="manual" selected="1">AAFS1----1A----</AM>
+</tag>
 </m>
 <m id="m-ln94204-94-p3s1w13">
 <src.rf>manual</src.rf>
@@ -460,7 +467,10 @@
 <LM>w#w-ln94204-94-p3s2w6</LM>
 </w.rf>
 <form>hod</form>
-<tag lemma="hodina_:B" src="auto" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="hodina_:B" src="auto">NNFXX-----A---8</AM>
+<AM lemma="hodina" src="manual" selected="1">NNFXX-----A---9</AM>
+</tag>
 </m>
 <m id="m-ln94204-94-p3s2w7">
 <src.rf>manual</src.rf>
@@ -632,7 +642,10 @@
 <LM>w#w-ln94204-94-p4s1w5</LM>
 </w.rf>
 <form>hrají</form>
-<tag lemma="hrát" src="orig" selected="1">VB-P---3P-AA--1</tag>
+<tag>
+<AM lemma="hrát" src="orig">VB-P---3P-AA--1</AM>
+<AM lemma="hrát_:T" src="manual" selected="1">VB-P---3P-AA--1</AM>
+</tag>
 </m>
 <m id="m-ln94204-94-p4s1w6">
 <src.rf>manual</src.rf>

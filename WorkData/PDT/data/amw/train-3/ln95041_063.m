@@ -48,6 +48,8 @@
 <AM lemma="být" src="auto" recommended="1">VB-S---3P-AA---</AM>
 <AM lemma="on-1_^(oni/ono)" src="auto">PPNS4--3-------</AM>
 <AM lemma="on-1_^(oni/ono)" src="auto">PPXP4--3-------</AM>
+<AM lemma="JE_:B" src="manual">NNXXX-----A---8</AM>
+<AM lemma="JE-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95041-063-p1s1w5">
@@ -124,7 +126,10 @@
 <LM>w#w-ln95041-063-p2s1Bw6</LM>
 </w.rf>
 <form>vyzval</form>
-<tag lemma="vyzvat_^(někoho_vyzvat_k_něčemu)" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag>
+<AM lemma="vyzvat_^(někoho_vyzvat_k_něčemu)" src="orig">VpYS---XR-AA---</AM>
+<AM lemma="vyzvat_:W_^(někoho_vyzvat_k_něčemu)" src="manual" selected="1">VpYS---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-ln95041-063-p2s1Bw7">
 <src.rf>manual</src.rf>
@@ -188,7 +193,10 @@
 <LM>w#w-ln95041-063-p2s1Bw14</LM>
 </w.rf>
 <form>BERD</form>
-<tag lemma="BERD_:B_;K_^(Evropská_banka_pro_obnovu_a_rozvoj)" src="auto" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="BERD_:B_;K_^(Evropská_banka_pro_obnovu_a_rozvoj)" src="auto">NNXXX-----A---8</AM>
+<AM lemma="BERD-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95041-063-p2s1Bw15">
 <src.rf>manual</src.rf>
@@ -512,7 +520,10 @@
 <LM>w#w-ln95041-063-p2s3w4</LM>
 </w.rf>
 <form>vyzval</form>
-<tag lemma="vyzvat_^(někoho_vyzvat_k_něčemu)" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag>
+<AM lemma="vyzvat_^(někoho_vyzvat_k_něčemu)" src="orig">VpYS---XR-AA---</AM>
+<AM lemma="vyzvat_:W_^(někoho_vyzvat_k_něčemu)" src="manual" selected="1">VpYS---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-ln95041-063-p2s3w5">
 <src.rf>manual</src.rf>
@@ -544,7 +555,10 @@
 <LM>w#w-ln95041-063-p2s3w8</LM>
 </w.rf>
 <form>BERD</form>
-<tag lemma="BERD_:B_;K_^(Evropská_banka_pro_obnovu_a_rozvoj)" src="auto" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="BERD_:B_;K_^(Evropská_banka_pro_obnovu_a_rozvoj)" src="auto">NNXXX-----A---8</AM>
+<AM lemma="BERD-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95041-063-p2s3w9">
 <src.rf>manual</src.rf>

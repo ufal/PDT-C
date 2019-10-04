@@ -77,7 +77,10 @@
 <LM>w#w-ln95049-096-p2s1w7</LM>
 </w.rf>
 <form>SPR</form>
-<tag lemma="SPR-1_:B_;K_;p_^(Sdružení_pro_republiku)" src="orig" selected="1">NNNXX-----A---8</tag>
+<tag>
+<AM lemma="SPR-1_:B_;K_;p_^(Sdružení_pro_republiku)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="SPR-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95049-096-p2s1w8">
 <src.rf>manual</src.rf>
@@ -93,7 +96,10 @@
 <LM>w#w-ln95049-096-p2s1w9</LM>
 </w.rf>
 <form>RSČ</form>
-<tag lemma="RSČ-1_:B_;K_;p_^(Republikánská_strana_Československa)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="RSČ-1_:B_;K_;p_^(Republikánská_strana_Československa)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="RSČ-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95049-096-p2s1w10">
 <src.rf>manual</src.rf>
@@ -287,7 +293,10 @@
 <LM>w#w-ln95049-096-p2s2w23</LM>
 </w.rf>
 <form>stranou</form>
-<tag lemma="strana-2_^(politická)" src="orig" selected="1">NNFS7-----A----</tag>
+<tag>
+<AM lemma="strana-2_^(politická)" src="orig">NNFS7-----A----</AM>
+<AM lemma="strana" src="manual" selected="1">NNFS7-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95049-096-p2s2w24">
 <src.rf>manual</src.rf>
@@ -305,7 +314,10 @@
 <LM>w#w-ln95049-096-p2s3w1</LM>
 </w.rf>
 <form>SPR</form>
-<tag lemma="SPR-1_:B_;K_;p_^(Sdružení_pro_republiku)" src="orig" selected="1">NNNXX-----A---8</tag>
+<tag>
+<AM lemma="SPR-1_:B_;K_;p_^(Sdružení_pro_republiku)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="SPR-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95049-096-p2s3w2">
 <src.rf>manual</src.rf>
@@ -321,7 +333,10 @@
 <LM>w#w-ln95049-096-p2s3w3</LM>
 </w.rf>
 <form>RSČ</form>
-<tag lemma="RSČ-1_:B_;K_;p_^(Republikánská_strana_Československa)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="RSČ-1_:B_;K_;p_^(Republikánská_strana_Československa)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="RSČ-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95049-096-p2s3w4">
 <src.rf>manual</src.rf>
@@ -711,7 +726,7 @@
 <form>čímkoli</form>
 <tag>
 <AM lemma="cokoliv" src="orig">PZ--7---------1</AM>
-<AM lemma="cokoli" src="auto" recommended="1">PZ--7----------</AM>
+<AM lemma="cokoli" src="auto" recommended="1" selected="1">PZ--7----------</AM>
 </tag>
 </m>
 <m id="m-ln95049-096-p2s5w18">

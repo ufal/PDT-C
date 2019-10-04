@@ -205,7 +205,10 @@
 <LM>w#w-ln95040-077-p2s1w20</LM>
 </w.rf>
 <form>SLD</form>
-<tag lemma="SLD-1_:B_;K_,t_^(Sojuzs_Lewicy_Demokratycznej)" src="auto" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="SLD-1_:B_;K_,t_^(Sojuzs_Lewicy_Demokratycznej)" src="auto">NNIXX-----A---8</AM>
+<AM lemma="SLD-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln95040-077-p2s1w21">
 <src.rf>manual</src.rf>
@@ -231,7 +234,10 @@
 <LM>w#w-ln95040-077-p2s2w1</LM>
 </w.rf>
 <form>J</form>
-<tag lemma="J-0_:B_;Y" src="orig" selected="1">NNMXX-----A---8</tag>
+<tag>
+<AM lemma="J-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
+<AM lemma="J-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln95040-077-p2s2w2">
 <src.rf>manual</src.rf>
@@ -483,7 +489,10 @@
 <LM>w#w-ln95040-077-p2s4w12</LM>
 </w.rf>
 <form>PSDS</form>
-<tag lemma="PSDS-1_:B_;K_^(Polská_sjednocená_dělnická_strana)" src="auto" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="PSDS-1_:B_;K_^(Polská_sjednocená_dělnická_strana)" src="auto">NNFXX-----A---8</AM>
+<AM lemma="PSDS-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln95040-077-p2s4w13">
 <src.rf>manual</src.rf>
@@ -637,7 +646,10 @@
 <LM>w#w-ln95040-077-p3s1w8</LM>
 </w.rf>
 <form>PSDS</form>
-<tag lemma="PSDS-1_:B_;K_^(Polská_sjednocená_dělnická_strana)" src="auto" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="PSDS-1_:B_;K_^(Polská_sjednocená_dělnická_strana)" src="auto">NNFXX-----A---8</AM>
+<AM lemma="PSDS-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln95040-077-p3s1w9">
 <src.rf>manual</src.rf>
@@ -785,6 +797,7 @@
 <AM lemma="ÚV_:B" src="orig">NNIXX-----A---8</AM>
 <AM lemma="ÚV-1_:B_^(ústřední_výbor)" src="auto" recommended="1">NNIXX-----A---8</AM>
 <AM lemma="ÚV-2_:B_^(účet_volaného)" src="auto">NNIXX-----A---8</AM>
+<AM lemma="ÚV-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-ln95040-077-p3s1w27">
@@ -793,7 +806,10 @@
 <LM>w#w-ln95040-077-p3s1w27</LM>
 </w.rf>
 <form>PSDS</form>
-<tag lemma="PSDS-1_:B_;K_^(Polská_sjednocená_dělnická_strana)" src="auto" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="PSDS-1_:B_;K_^(Polská_sjednocená_dělnická_strana)" src="auto">NNFXX-----A---8</AM>
+<AM lemma="PSDS-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln95040-077-p3s1w28">
 <src.rf>manual</src.rf>
@@ -915,7 +931,10 @@
 <LM>w#w-ln95040-077-p3s2w11</LM>
 </w.rf>
 <form>PSDS</form>
-<tag lemma="PSDS-1_:B_;K_^(Polská_sjednocená_dělnická_strana)" src="auto" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="PSDS-1_:B_;K_^(Polská_sjednocená_dělnická_strana)" src="auto">NNFXX-----A---8</AM>
+<AM lemma="PSDS-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln95040-077-p3s2w12">
 <src.rf>manual</src.rf>
@@ -1125,7 +1144,10 @@
 <LM>w#w-ln95040-077-p4s1w8</LM>
 </w.rf>
 <form>PSDS</form>
-<tag lemma="PSDS-1_:B_;K_^(Polská_sjednocená_dělnická_strana)" src="auto" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="PSDS-1_:B_;K_^(Polská_sjednocená_dělnická_strana)" src="auto">NNFXX-----A---8</AM>
+<AM lemma="PSDS-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln95040-077-p4s1w9">
 <src.rf>manual</src.rf>
@@ -1233,7 +1255,7 @@
 <form>Mazowieckého</form>
 <tag>
 <AM lemma="Mazowiecki_;S" src="orig">NNMS2-----A----</AM>
-<AM lemma="Mazowiecký_;S" src="auto" recommended="1">NNMS2-----A----</AM>
+<AM lemma="Mazowiecký_;S" src="auto" recommended="1" selected="1">NNMS2-----A----</AM>
 <AM lemma="Mazowiecký_;S" src="auto">NNMS4-----A----</AM>
 </tag>
 </m>
@@ -1623,7 +1645,10 @@
 <LM>w#w-ln95040-077-p5s1w16</LM>
 </w.rf>
 <form>SLD</form>
-<tag lemma="SLD-1_:B_;K_,t_^(Sojuzs_Lewicy_Demokratycznej)" src="auto" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="SLD-1_:B_;K_,t_^(Sojuzs_Lewicy_Demokratycznej)" src="auto">NNIXX-----A---8</AM>
+<AM lemma="SLD-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln95040-077-p5s1w17">
 <src.rf>manual</src.rf>

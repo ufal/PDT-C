@@ -43,7 +43,11 @@
 <LM>w#w-ln95047-033-p1s1w4</LM>
 </w.rf>
 <form>vzdal</form>
-<tag lemma="vzdát" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag>
+<AM lemma="vzdát" src="orig">VpYS---XR-AA---</AM>
+<AM lemma="vzdát_.W" src="manual">VpYS---XR-AA---</AM>
+<AM lemma="vzdát_:W" src="manual" selected="1">VpYS---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-ln95047-033-p1s1w5">
 <src.rf>manual</src.rf>
@@ -191,7 +195,10 @@
 <LM>w#w-ln95047-033-p2s1Bw15</LM>
 </w.rf>
 <form>ČMFS</form>
-<tag lemma="ČMFS-1_:B_;K_;w_^(Českomoravský_fotbalový_svaz)" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="ČMFS-1_:B_;K_;w_^(Českomoravský_fotbalový_svaz)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="ČMFS-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95047-033-p2s1Bw16">
 <src.rf>manual</src.rf>
@@ -419,7 +426,7 @@
 <form>vůbec</form>
 <tag>
 <AM lemma="vůbec" src="orig">Db-------------</AM>
-<AM lemma="vůbec" src="auto" recommended="1">TT-------------</AM>
+<AM lemma="vůbec" src="auto" recommended="1" selected="1">TT-------------</AM>
 </tag>
 </m>
 <m id="m-ln95047-033-p2s2w28">
@@ -1207,7 +1214,7 @@
 <tag>
 <AM lemma="tedy" src="orig">Db-------------</AM>
 <AM lemma="tedy-1" src="auto">TT-------------</AM>
-<AM lemma="tedy-2" src="auto" recommended="1">J^-------------</AM>
+<AM lemma="tedy-2" src="auto" recommended="1" selected="1">J^-------------</AM>
 </tag>
 </m>
 <m id="m-ln95047-033-p2s6w3">

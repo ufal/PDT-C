@@ -43,7 +43,10 @@
 <LM>w#w-lnd94104-020-p1s1w4</LM>
 </w.rf>
 <form>UFO</form>
-<tag lemma="UFO-1_:B_,t_^(unidentified_flying_object)" src="auto" selected="1">NNNXX-----A---8</tag>
+<tag>
+<AM lemma="UFO-1_:B_,t_^(unidentified_flying_object)" src="auto">NNNXX-----A---8</AM>
+<AM lemma="UFO-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd94104-020-p1s1w5">
 <src.rf>manual</src.rf>
@@ -443,7 +446,10 @@
 <LM>w#w-lnd94104-020-p1s5w14</LM>
 </w.rf>
 <form>ANASIA</form>
-<tag lemma="ANASIA_;K_,t" src="orig" selected="1">NNFS1-----A----</tag>
+<tag>
+<AM lemma="ANASIA_;K_,t" src="orig">NNFS1-----A----</AM>
+<AM lemma="Anasia_;K" src="manual" selected="1">NNFS1-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd94104-020-p1s5w15">
 <src.rf>manual</src.rf>

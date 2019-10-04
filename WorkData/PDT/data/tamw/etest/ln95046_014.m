@@ -273,7 +273,10 @@
 <LM>w#w-ln95046-014-p2s2w9</LM>
 </w.rf>
 <form>vedou</form>
-<tag lemma="vést" src="auto" selected="1">VB-P---3P-AA---</tag>
+<tag>
+<AM lemma="vést" src="auto">VB-P---3P-AA---</AM>
+<AM lemma="vést_:T" src="manual" selected="1">VB-P---3P-AA---</AM>
+</tag>
 </m>
 <m id="m-ln95046-014-p2s2w10">
 <src.rf>manual</src.rf>
@@ -1587,7 +1590,10 @@
 <LM>w#w-ln95046-014-p4s3w35</LM>
 </w.rf>
 <form>přijal</form>
-<tag lemma="přijmout" src="auto" selected="1">VpYS---XR-AA---</tag>
+<tag>
+<AM lemma="přijmout" src="auto">VpYS---XR-AA---</AM>
+<AM lemma="přijmout_:W" src="manual" selected="1">VpYS---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-ln95046-014-p4s3w36">
 <src.rf>manual</src.rf>

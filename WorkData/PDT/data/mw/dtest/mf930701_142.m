@@ -606,6 +606,7 @@
 <tag>
 <AM lemma="naleznout" src="orig">VB-P---1P-NA---</AM>
 <AM lemma="nalézt-2" src="auto" recommended="1">VB-P---1P-NA---</AM>
+<AM lemma="nalézt-2_:W" src="manual" selected="1">VB-P---1P-NA---</AM>
 </tag>
 </m>
 <m id="m-mf930701-142-p2s4w3">
@@ -800,7 +801,10 @@
 <LM>w#w-mf930701-142-p2s5w15</LM>
 </w.rf>
 <form>vést</form>
-<tag lemma="vést" src="auto" selected="1">Vf--------A----</tag>
+<tag>
+<AM lemma="vést" src="auto">Vf--------A----</AM>
+<AM lemma="vést_:T" src="manual" selected="1">Vf--------A----</AM>
+</tag>
 </m>
 <m id="m-mf930701-142-p2s5w16">
 <src.rf>manual</src.rf>
@@ -2551,7 +2555,7 @@
 <tag>
 <AM lemma="tedy" src="orig">Db-------------</AM>
 <AM lemma="tedy-1" src="auto">TT-------------</AM>
-<AM lemma="tedy-2" src="auto" recommended="1">J^-------------</AM>
+<AM lemma="tedy-2" src="auto" recommended="1" selected="1">J^-------------</AM>
 </tag>
 </m>
 <m id="m-mf930701-142-p2s19w5">
@@ -2603,6 +2607,7 @@
 <tag>
 <AM lemma="USA_;G" src="orig">NNIPX-----A----</AM>
 <AM lemma="USA_:B_;K_,t_^(United_States_of_America)" src="auto" recommended="1">NNIPX-----A---8</AM>
+<AM lemma="USA_:B_;K_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-mf930701-142-p2s19w11">
@@ -4205,7 +4210,7 @@
 <form>ovšem</form>
 <tag>
 <AM lemma="ovšem-1_^(avšak,_však;_odporovací_spojka)" src="orig">J^-------------</AM>
-<AM lemma="ovšem" src="auto" recommended="1">TT-------------</AM>
+<AM lemma="ovšem" src="auto" recommended="1" selected="1">TT-------------</AM>
 </tag>
 </m>
 <m id="m-mf930701-142-p2s31w6">
@@ -4416,7 +4421,10 @@
 <LM>w#w-mf930701-142-p2s32w6</LM>
 </w.rf>
 <form>CSU</form>
-<tag lemma="CSU-1_:B_;K_;p_,t_^(Christianisch-Soziale_Union)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="CSU-1_:B_;K_;p_,t_^(Christianisch-Soziale_Union)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="CSU-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-mf930701-142-p2s32w7">
 <src.rf>manual</src.rf>
@@ -4894,7 +4902,10 @@
 <LM>w#w-mf930701-142-p2s35w3</LM>
 </w.rf>
 <form>li</form>
-<tag lemma="li-1" src="auto" selected="1">TT-------------</tag>
+<tag>
+<AM lemma="li-1" src="auto">TT-------------</AM>
+<AM lemma="li-2" src="manual" selected="1">J,-------------</AM>
+</tag>
 </m>
 <m id="m-mf930701-142-p2s35w4">
 <src.rf>manual</src.rf>
@@ -5112,7 +5123,10 @@
 <LM>w#w-mf930701-142-p2s36w2</LM>
 </w.rf>
 <form>ODA</form>
-<tag lemma="ODA-2_:B_;K_;p_^(Občanská_demokratická_aliance)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ODA-2_:B_;K_;p_^(Občanská_demokratická_aliance)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ODA-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-mf930701-142-p2s36w3">
 <src.rf>manual</src.rf>
@@ -5415,6 +5429,7 @@
 <AM lemma="populizmus" src="auto" recommended="1">NNIS2-----A----</AM>
 <AM lemma="populizmus" src="auto">NNIS3-----A----</AM>
 <AM lemma="populizmus" src="auto">NNIS6-----A----</AM>
+<AM lemma="populismus_,s_^(^DD**populizmus)" src="manual" selected="1">NNIS2-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930701-142-p2s37w18">
@@ -5451,7 +5466,7 @@
 <form>ovšem</form>
 <tag>
 <AM lemma="ovšem-1_^(avšak,_však;_odporovací_spojka)" src="orig">J^-------------</AM>
-<AM lemma="ovšem" src="auto" recommended="1">TT-------------</AM>
+<AM lemma="ovšem" src="auto" recommended="1" selected="1">TT-------------</AM>
 </tag>
 </m>
 <m id="m-mf930701-142-p2s38w4">
@@ -6299,7 +6314,7 @@
 <tag>
 <AM lemma="tedy" src="orig">Db-------------</AM>
 <AM lemma="tedy-1" src="auto">TT-------------</AM>
-<AM lemma="tedy-2" src="auto" recommended="1">J^-------------</AM>
+<AM lemma="tedy-2" src="auto" recommended="1" selected="1">J^-------------</AM>
 </tag>
 </m>
 <m id="m-mf930701-142-p2s44w15">

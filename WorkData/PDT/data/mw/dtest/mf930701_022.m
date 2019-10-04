@@ -263,7 +263,10 @@
 <LM>w#w-mf930701-022-p2s2w13</LM>
 </w.rf>
 <form>ÖMV</form>
-<tag lemma="ÖMV_:B_;K" src="auto" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="ÖMV_:B_;K" src="auto">NNXXX-----A---8</AM>
+<AM lemma="ÖMV-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-mf930701-022-p2s2w14">
 <src.rf>manual</src.rf>
@@ -295,7 +298,10 @@
 <LM>w#w-mf930701-022-p2s2w17</LM>
 </w.rf>
 <form>BP</form>
-<tag lemma="BP-1_:B_;K_,t_^(British_Petroleum_Company)" src="auto" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="BP-1_:B_;K_,t_^(British_Petroleum_Company)" src="auto">NNFXX-----A---8</AM>
+<AM lemma="BP-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-mf930701-022-p2s2w18">
 <src.rf>manual</src.rf>
@@ -693,7 +699,7 @@
 <form>ovšem</form>
 <tag>
 <AM lemma="ovšem-1_^(avšak,_však;_odporovací_spojka)" src="orig">J^-------------</AM>
-<AM lemma="ovšem" src="auto" recommended="1">TT-------------</AM>
+<AM lemma="ovšem" src="auto" recommended="1" selected="1">TT-------------</AM>
 </tag>
 </m>
 <m id="m-mf930701-022-p3s2w14">
@@ -882,7 +888,10 @@
 <LM>w#w-mf930701-022-p4s1w7</LM>
 </w.rf>
 <form>British</form>
-<tag lemma="British_;K_,t_^(souč._názvů,_např._B._Airways)" src="auto" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="British_;K_,t_^(souč._názvů,_např._B._Airways)" src="auto">AAXXX----1A----</AM>
+<AM lemma="British-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-mf930701-022-p4s1w8">
 <src.rf>manual</src.rf>
@@ -890,7 +899,10 @@
 <LM>w#w-mf930701-022-p4s1w8</LM>
 </w.rf>
 <form>Petroleum</form>
-<tag lemma="Petroleum_;K_,t" src="orig" selected="1">NNNSX-----A----</tag>
+<tag>
+<AM lemma="Petroleum_;K_,t" src="orig">NNNSX-----A----</AM>
+<AM lemma="Petroleum-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-mf930701-022-p4s1w9">
 <src.rf>manual</src.rf>
@@ -924,7 +936,7 @@
 <form>ovšem</form>
 <tag>
 <AM lemma="ovšem-1_^(avšak,_však;_odporovací_spojka)" src="orig">J^-------------</AM>
-<AM lemma="ovšem" src="auto" recommended="1">TT-------------</AM>
+<AM lemma="ovšem" src="auto" recommended="1" selected="1">TT-------------</AM>
 </tag>
 </m>
 <m id="m-mf930701-022-p4s1w13">
@@ -1329,7 +1341,10 @@
 <LM>w#w-mf930701-022-p4s3w16</LM>
 </w.rf>
 <form>stavějí</form>
-<tag lemma="stavět" src="auto" selected="1">VB-P---3P-AA---</tag>
+<tag>
+<AM lemma="stavět" src="auto">VB-P---3P-AA---</AM>
+<AM lemma="stavět_:T" src="manual" selected="1">VB-P---3P-AA---</AM>
+</tag>
 </m>
 <m id="m-mf930701-022-p4s3w17">
 <src.rf>manual</src.rf>
@@ -1565,7 +1580,10 @@
 <LM>w#w-mf930701-022-p5s1w6</LM>
 </w.rf>
 <form>ÖMV</form>
-<tag lemma="ÖMV_:B_;K" src="auto" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="ÖMV_:B_;K" src="auto">NNXXX-----A---8</AM>
+<AM lemma="ÖMV-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-mf930701-022-p5s1w7">
 <src.rf>manual</src.rf>
@@ -1751,7 +1769,10 @@
 <LM>w#w-mf930701-022-p5s2w1</LM>
 </w.rf>
 <form>ÖMV</form>
-<tag lemma="ÖMV_:B_;K" src="auto" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="ÖMV_:B_;K" src="auto">NNXXX-----A---8</AM>
+<AM lemma="ÖMV-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-mf930701-022-p5s2w2">
 <src.rf>manual</src.rf>
@@ -1834,7 +1855,7 @@
 <tag>
 <AM lemma="sedmý" src="orig">AAFS4----1A----</AM>
 <AM lemma="sedma" src="auto">NNFS7-----A----</AM>
-<AM lemma="sedmý" src="auto" recommended="1">CrFS4----------</AM>
+<AM lemma="sedmý" src="auto" recommended="1" selected="1">CrFS4----------</AM>
 <AM lemma="sedmý" src="auto">CrFS7----------</AM>
 </tag>
 </m>
@@ -2082,7 +2103,7 @@
 <form>ovšem</form>
 <tag>
 <AM lemma="ovšem-1_^(avšak,_však;_odporovací_spojka)" src="orig">J^-------------</AM>
-<AM lemma="ovšem" src="auto" recommended="1">TT-------------</AM>
+<AM lemma="ovšem" src="auto" recommended="1" selected="1">TT-------------</AM>
 </tag>
 </m>
 <m id="m-mf930701-022-p5s4w7">
@@ -2375,7 +2396,10 @@
 <LM>w#w-mf930701-022-p6s2w2</LM>
 </w.rf>
 <form>ÖMV</form>
-<tag lemma="ÖMV_:B_;K" src="auto" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="ÖMV_:B_;K" src="auto">NNXXX-----A---8</AM>
+<AM lemma="ÖMV-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-mf930701-022-p6s2w3">
 <src.rf>manual</src.rf>

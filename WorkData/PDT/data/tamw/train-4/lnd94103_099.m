@@ -43,6 +43,7 @@
 <AM lemma="Roxa_;G" src="auto">NNFS2-----A----</AM>
 <AM lemma="Roxy_;Y_,t" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Roxy_;Y_,t" src="auto">NNMS5-----A----</AM>
+<AM lemma="Roxy-2_;K" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94103-099-p1s1w4">
@@ -221,6 +222,7 @@
 <AM lemma="Roxa_;G" src="auto">NNFS2-----A----</AM>
 <AM lemma="Roxy_;Y_,t" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Roxy_;Y_,t" src="auto">NNMS5-----A----</AM>
+<AM lemma="Roxy-2_;K" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94103-099-p1s2w21">
@@ -587,7 +589,10 @@
 <LM>w#w-lnd94103-099-p1s5w13</LM>
 </w.rf>
 <form>nedostatek</form>
-<tag lemma="nedostatek" src="orig" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="nedostatek" src="orig">NNIS1-----A----</AM>
+<AM lemma="dostatek" src="manual" selected="1">NNIS1-----N----</AM>
+</tag>
 </m>
 <m id="m-lnd94103-099-p1s5w14">
 <src.rf>manual</src.rf>
@@ -762,7 +767,7 @@
 <tag>
 <AM lemma="totiž" src="orig">Db-------------</AM>
 <AM lemma="totiž-1" src="auto" recommended="1">J^-------------</AM>
-<AM lemma="totiž-2" src="auto">TT-------------</AM>
+<AM lemma="totiž-2" src="auto" selected="1">TT-------------</AM>
 </tag>
 </m>
 <m id="m-lnd94103-099-p1s7w3">
@@ -771,7 +776,11 @@
 <LM>w#w-lnd94103-099-p1s7w3</LM>
 </w.rf>
 <form>začal</form>
-<tag lemma="začít-1_^(začnout)" src="auto" selected="1">VpYS---XR-AA---</tag>
+<tag>
+<AM lemma="začít-1_^(začnout)" src="auto">VpYS---XR-AA---</AM>
+<AM lemma="začít-1_^(začnout)_:W" src="manual">VpYS---XR-AA---</AM>
+<AM lemma="začít-1_:W_^(začnout)" src="manual" selected="1">VpYS---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-lnd94103-099-p1s7w4">
 <src.rf>manual</src.rf>
@@ -893,7 +902,11 @@
 <LM>w#w-lnd94103-099-p1s8w2</LM>
 </w.rf>
 <form>ola</form>
-<tag lemma="ola-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="ola-99_:B_;S" src="orig">NNXXX-----A---8</AM>
+<AM lemma="ola-77" src="manual">F%-------------</AM>
+<AM lemma="ola-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd94103-099-p1s8w3">
 <src.rf>manual</src.rf>

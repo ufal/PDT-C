@@ -335,7 +335,10 @@
 <LM>w#w-ln94200-152-p3s1w19</LM>
 </w.rf>
 <form>h</form>
-<tag lemma="hodina_:B" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="hodina_:B" src="orig">NNFXX-----A---8</AM>
+<AM lemma="hodina" src="manual" selected="1">NNFXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln94200-152-p3s1w20">
 <src.rf>manual</src.rf>
@@ -547,7 +550,10 @@
 <LM>w#w-ln94200-152-p4s2w2</LM>
 </w.rf>
 <form>ber</form>
-<tag lemma="ber-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="ber-99_:B_;S" src="orig">NNXXX-----A---8</AM>
+<AM lemma="ber-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94200-152-p4s2w3">
 <src.rf>manual</src.rf>
@@ -563,7 +569,10 @@
 <LM>w#w-ln94200-152-p4s2w4</LM>
 </w.rf>
 <form>hk</form>
-<tag lemma="hk-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="hk-99_:B_;S" src="orig">NNXXX-----A---8</AM>
+<AM lemma="hk-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94200-152-p4s2w5">
 <src.rf>manual</src.rf>

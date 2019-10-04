@@ -61,7 +61,10 @@
 <LM>w#w-ln94201-90-p2s1w2</LM>
 </w.rf>
 <form>n</form>
-<tag lemma="nad-1_:B" src="orig" selected="1">RR--7---------8</tag>
+<tag>
+<AM lemma="nad-1_:B" src="orig">RR--7---------8</AM>
+<AM lemma="nad-1" src="manual" selected="1">RR--7---------8</AM>
+</tag>
 </m>
 <m id="m-ln94201-90-p2s1w3">
 <src.rf>manual</src.rf>
@@ -103,7 +106,10 @@
 <LM>w#w-ln94201-90-p2s2w4</LM>
 </w.rf>
 <form>Wild</form>
-<tag lemma="Wild_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Wild_;S" src="orig">NNMS1-----A----</AM>
+<AM lemma="Wild-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94201-90-p2s2w5">
 <src.rf>manual</src.rf>
@@ -111,7 +117,10 @@
 <LM>w#w-ln94201-90-p2s2w5</LM>
 </w.rf>
 <form>Duck</form>
-<tag lemma="Duck_;G" src="orig" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="Duck_;G" src="orig">NNIS1-----A----</AM>
+<AM lemma="Duck-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94201-90-p2s2w6">
 <src.rf>manual</src.rf>
@@ -143,7 +152,10 @@
 <LM>w#w-ln94201-90-p2s2w9</LM>
 </w.rf>
 <form>TV</form>
-<tag lemma="televizní_:B" src="orig" selected="1">AAXXX----1A---8</tag>
+<tag>
+<AM lemma="televizní_:B" src="orig">AAXXX----1A---8</AM>
+<AM lemma="televizní" src="manual" selected="1">AAXXX----1A---8</AM>
+</tag>
 </m>
 <m id="m-ln94201-90-p2s2w10">
 <src.rf>manual</src.rf>
@@ -223,7 +235,10 @@
 <LM>w#w-ln94201-90-p2s2w19</LM>
 </w.rf>
 <form>M</form>
-<tag lemma="M-0_:B_;Y" src="orig" selected="1">NNMXX-----A---8</tag>
+<tag>
+<AM lemma="M-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
+<AM lemma="M-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln94201-90-p2s2w20">
 <src.rf>manual</src.rf>
@@ -417,7 +432,10 @@
 <LM>w#w-ln94201-90-p2s3w21</LM>
 </w.rf>
 <form>KGB</form>
-<tag lemma="KGB_:B_;K_;p_^(Sov._státní_tajná_bezpečnost)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="KGB_:B_;K_;p_^(Sov._státní_tajná_bezpečnost)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="KGB_:B_;K_^(Sov._státní_tajná_bezpečnost)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94201-90-p2s3w22">
 <src.rf>manual</src.rf>
@@ -643,7 +661,10 @@
 <LM>w#w-ln94201-90-p2s4w17</LM>
 </w.rf>
 <form>Prochaska</form>
-<tag lemma="Prochaska_;G" src="orig" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Prochaska_;G" src="orig">NNMS1-----A----</AM>
+<AM lemma="Prochaska-2_;S" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94201-90-p2s4w18">
 <src.rf>manual</src.rf>
@@ -983,7 +1004,10 @@
 <LM>w#w-ln94201-90-p2s6w16</LM>
 </w.rf>
 <form>hraje</form>
-<tag lemma="hrát" src="auto" selected="1">VB-S---3P-AA---</tag>
+<tag>
+<AM lemma="hrát" src="auto">VB-S---3P-AA---</AM>
+<AM lemma="hrát_:T" src="manual" selected="1">VB-S---3P-AA---</AM>
+</tag>
 </m>
 <m id="m-ln94201-90-p2s6w17">
 <src.rf>manual</src.rf>

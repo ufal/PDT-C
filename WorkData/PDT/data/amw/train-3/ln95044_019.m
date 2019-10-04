@@ -467,7 +467,10 @@
 <LM>w#w-ln95044-019-p3s1w16</LM>
 </w.rf>
 <form>ani</form>
-<tag lemma="ani-1" src="auto" selected="1">J^-------------</tag>
+<tag>
+<AM lemma="ani-1" src="auto">J^-------------</AM>
+<AM lemma="ani-2" src="manual" selected="1">TT-------------</AM>
+</tag>
 </m>
 <m id="m-ln95044-019-p3s1w17">
 <src.rf>manual</src.rf>
@@ -1017,7 +1020,10 @@
 <LM>w#w-ln95044-019-p3s4w21</LM>
 </w.rf>
 <form>sice</form>
-<tag lemma="sice-2" src="auto" selected="1">Db-------------</tag>
+<tag>
+<AM lemma="sice-2" src="auto">Db-------------</AM>
+<AM lemma="sice-1_^(spojka;_připouští_se_určitá_fakta)" src="manual" selected="1">J^-------------</AM>
+</tag>
 </m>
 <m id="m-ln95044-019-p3s4w22">
 <src.rf>manual</src.rf>
@@ -1084,7 +1090,7 @@
 <form>ubyde</form>
 <tag>
 <AM lemma="ubýt_,h_,x" src="orig">VB-S---3P-AA---</AM>
-<AM lemma="ubýt" src="auto" recommended="1">VB-S---3P-AA--6</AM>
+<AM lemma="ubýt" src="auto" recommended="1" selected="1">VB-S---3P-AA--6</AM>
 </tag>
 </m>
 <m id="m-ln95044-019-p3s4w30">
@@ -2119,7 +2125,10 @@
 <LM>w#w-ln95044-019-p3s9w31</LM>
 </w.rf>
 <form>Cup</form>
-<tag lemma="Cup-1_;m_;w_,t_^(pohár,_soutěž;_v_názvech)" src="auto" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="Cup-1_;m_;w_,t_^(pohár,_soutěž;_v_názvech)" src="auto">NNIS1-----A----</AM>
+<AM lemma="Cup-1_;m_^(pohár,_soutěž;_v_názvech)" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95044-019-p3s9w32">
 <src.rf>manual</src.rf>

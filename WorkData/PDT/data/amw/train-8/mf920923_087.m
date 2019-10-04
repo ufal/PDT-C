@@ -77,7 +77,10 @@
 <LM>w#w-mf920923-087-p2s1w3</LM>
 </w.rf>
 <form>ria</form>
-<tag lemma="ria-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="ria-99_:B_;S" src="orig">NNXXX-----A---8</AM>
+<AM lemma="ria-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920923-087-p2s1w4">
 <src.rf>manual</src.rf>
@@ -337,7 +340,10 @@
 <LM>w#w-mf920923-087-p2s3w16</LM>
 </w.rf>
 <form>nevědělo</form>
-<tag lemma="vědět" src="orig" selected="1">VpNS---XR-NA---</tag>
+<tag>
+<AM lemma="vědět" src="orig">VpNS---XR-NA---</AM>
+<AM lemma="vědět_:T" src="manual" selected="1">VpNS---XR-NA---</AM>
+</tag>
 </m>
 <m id="m-mf920923-087-p2s3w17">
 <src.rf>manual</src.rf>
@@ -533,7 +539,10 @@
 <LM>w#w-mf920923-087-p2s5w5</LM>
 </w.rf>
 <form>prokázal</form>
-<tag lemma="prokázat" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag>
+<AM lemma="prokázat" src="orig">VpYS---XR-AA---</AM>
+<AM lemma="prokázat_:W" src="manual" selected="1">VpYS---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-mf920923-087-p2s5w6">
 <src.rf>manual</src.rf>
@@ -631,7 +640,7 @@
 <form>jakýchkoliv</form>
 <tag>
 <AM lemma="jakýkoliv" src="orig">PZXP2----------</AM>
-<AM lemma="jakýkoli" src="auto" recommended="1">PZXP2---------1</AM>
+<AM lemma="jakýkoli" src="auto" recommended="1" selected="1">PZXP2---------1</AM>
 <AM lemma="jakýkoli" src="auto">PZXP6---------1</AM>
 </tag>
 </m>
@@ -686,7 +695,7 @@
 <tag>
 <AM lemma="tedy" src="orig">Db-------------</AM>
 <AM lemma="tedy-1" src="auto">TT-------------</AM>
-<AM lemma="tedy-2" src="auto" recommended="1">J^-------------</AM>
+<AM lemma="tedy-2" src="auto" recommended="1" selected="1">J^-------------</AM>
 </tag>
 </m>
 <m id="m-mf920923-087-p2s6w4">
@@ -921,7 +930,10 @@
 <LM>w#w-mf920923-087-p2s7w8</LM>
 </w.rf>
 <form>spatřeni</form>
-<tag lemma="spatřit" src="orig" selected="1">VsMP---XX-AP---</tag>
+<tag>
+<AM lemma="spatřit" src="orig">VsMP---XX-AP---</AM>
+<AM lemma="spatřit_:W" src="manual" selected="1">VsMP---XX-AP---</AM>
+</tag>
 </m>
 <m id="m-mf920923-087-p2s7w9">
 <src.rf>manual</src.rf>

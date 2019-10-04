@@ -113,7 +113,10 @@
 <LM>w#w-lnd92258-148-p3s2w6</LM>
 </w.rf>
 <form>NDR</form>
-<tag lemma="NDR_:B_;G_;K" src="auto" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="NDR_:B_;G_;K" src="auto">NNFXX-----A---8</AM>
+<AM lemma="NDR-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92258-148-p3s2w7">
 <src.rf>manual</src.rf>
@@ -512,7 +515,7 @@
 <AM lemma="Moabitu_;G" src="orig">NNXXX-----A----</AM>
 <AM lemma="Moabit_;G" src="auto" recommended="1">NNIS2-----A----</AM>
 <AM lemma="Moabit_;G" src="auto">NNIS3-----A----</AM>
-<AM lemma="Moabit_;G" src="auto">NNIS6-----A----</AM>
+<AM lemma="Moabit_;G" src="auto" selected="1">NNIS6-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92258-148-p3s3w28">
@@ -627,7 +630,10 @@
 <LM>w#w-lnd92258-148-p3s4w11</LM>
 </w.rf>
 <form>trpí</form>
-<tag lemma="trpět" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag>
+<AM lemma="trpět" src="orig">VB-S---3P-AA---</AM>
+<AM lemma="trpět_:T" src="manual" selected="1">VB-P---3P-AA---</AM>
+</tag>
 </m>
 <m id="m-lnd92258-148-p3s4w12">
 <src.rf>manual</src.rf>

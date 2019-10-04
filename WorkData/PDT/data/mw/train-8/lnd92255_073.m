@@ -303,7 +303,10 @@
 <LM>w#w-lnd92255-073-p1s3w6</LM>
 </w.rf>
 <form>VOX</form>
-<tag lemma="Vox_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="Vox_;K" src="orig">NNIS1-----A----</AM>
+<AM lemma="VOX-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-lnd92255-073-p1s3w7">
 <src.rf>manual</src.rf>
@@ -311,7 +314,10 @@
 <LM>w#w-lnd92255-073-p1s3w7</LM>
 </w.rf>
 <form>POPULI</form>
-<tag lemma="Populi_;K_,t" src="orig" selected="1">NNMP2-----A----</tag>
+<tag>
+<AM lemma="Populi_;K_,t" src="orig">NNMP2-----A----</AM>
+<AM lemma="POPULI-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-lnd92255-073-p1s3w8">
 <src.rf>manual</src.rf>

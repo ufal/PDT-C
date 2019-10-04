@@ -532,7 +532,7 @@
 <tag>
 <AM lemma="vypovědět" src="orig">VB-P---3P-AA---</AM>
 <AM lemma="vypovědět" src="auto">VB-P---3P-AA--6</AM>
-<AM lemma="vypovědět" src="auto" recommended="1">VB-S---3P-AA---</AM>
+<AM lemma="vypovědět" src="auto" recommended="1" selected="1">VB-S---3P-AA---</AM>
 </tag>
 </m>
 <m id="m-mf930701-162-p3s1w8">
@@ -961,7 +961,10 @@
 <LM>w#w-mf930701-162-p4s1w6</LM>
 </w.rf>
 <form>R</form>
-<tag lemma="R-0_:B_;Y" src="orig" selected="1">NNMXX-----A---8</tag>
+<tag>
+<AM lemma="R-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
+<AM lemma="R-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-mf930701-162-p4s1w7">
 <src.rf>manual</src.rf>
@@ -1870,7 +1873,10 @@
 <LM>w#w-mf930701-162-p6s2w18</LM>
 </w.rf>
 <form>milionu</form>
-<tag lemma="milión`1000000" src="orig" selected="1">NNIS2-----A----</tag>
+<tag>
+<AM lemma="milión`1000000" src="orig">NNIS2-----A----</AM>
+<AM lemma="milion`1000000_,s_^(^DD**milión)" src="manual" selected="1">NNIS2-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930701-162-p6s2w19">
 <src.rf>manual</src.rf>
@@ -1928,7 +1934,10 @@
 <LM>w#w-mf930701-162-p6s3w4</LM>
 </w.rf>
 <form>MV</form>
-<tag lemma="MV-2_:B_;K_;p_^(ministerstvo_vnitra)" src="orig" selected="1">NNNXX-----A---8</tag>
+<tag>
+<AM lemma="MV-2_:B_;K_;p_^(ministerstvo_vnitra)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="MV-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-mf930701-162-p6s3w5">
 <src.rf>manual</src.rf>

@@ -93,7 +93,10 @@
 <LM>w#w-ln94210-142-p2s1Aw3</LM>
 </w.rf>
 <form>bo</form>
-<tag lemma="bo-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="bo-99_:B_;S" src="orig">NNXXX-----A---8</AM>
+<AM lemma="bo-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94210-142-p2s1Aw4">
 <src.rf>manual</src.rf>
@@ -159,7 +162,11 @@
 <LM>w#w-ln94210-142-p2s1Bw6</LM>
 </w.rf>
 <form>začala</form>
-<tag lemma="začít-1_^(začnout)" src="auto" selected="1">VpQW---XR-AA---</tag>
+<tag>
+<AM lemma="začít-1_^(začnout)" src="auto">VpQW---XR-AA---</AM>
+<AM lemma="začít-1__:W^(začnout)" src="manual">VpQW---XR-AA---</AM>
+<AM lemma="začít-1_:W_^(začnout)" src="manual" selected="1">VpQW---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-ln94210-142-p2s1Bw7">
 <src.rf>manual</src.rf>
@@ -247,7 +254,10 @@
 <LM>w#w-ln94210-142-p2s1Bw17</LM>
 </w.rf>
 <form>MAAE</form>
-<tag lemma="MAAE_:B_;K_;p_^(Mezinárodní_agentura_pro_atomovou_energii)" src="auto" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="MAAE_:B_;K_;p_^(Mezinárodní_agentura_pro_atomovou_energii)" src="auto">NNFXX-----A---8</AM>
+<AM lemma="MAAE-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln94210-142-p2s1Bw18">
 <src.rf>manual</src.rf>
@@ -687,7 +697,10 @@
 <LM>w#w-ln94210-142-p3s1w2</LM>
 </w.rf>
 <form>MAAE</form>
-<tag lemma="MAAE_:B_;K_;p_^(Mezinárodní_agentura_pro_atomovou_energii)" src="auto" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="MAAE_:B_;K_;p_^(Mezinárodní_agentura_pro_atomovou_energii)" src="auto">NNFXX-----A---8</AM>
+<AM lemma="MAAE-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln94210-142-p3s1w3">
 <src.rf>manual</src.rf>

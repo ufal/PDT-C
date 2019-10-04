@@ -61,7 +61,10 @@
 <LM>w#w-ln94208-111-p2s1Aw3</LM>
 </w.rf>
 <form>bra</form>
-<tag lemma="bra-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="bra-99_:B_;S" src="orig">NNXXX-----A---8</AM>
+<AM lemma="bra-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94208-111-p2s1Aw4">
 <src.rf>manual</src.rf>
@@ -451,7 +454,10 @@
 <LM>w#w-ln94208-111-p2s3w21</LM>
 </w.rf>
 <form>Cup</form>
-<tag lemma="Cup-1_;m_;w_,t_^(pohár,_soutěž;_v_názvech)" src="auto" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="Cup-1_;m_;w_,t_^(pohár,_soutěž;_v_názvech)" src="auto">NNIS1-----A----</AM>
+<AM lemma="Cup-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94208-111-p2s3w22">
 <src.rf>manual</src.rf>
@@ -871,7 +877,10 @@
 <LM>w#w-ln94208-111-p2s5w20</LM>
 </w.rf>
 <form>řekl</form>
-<tag lemma="říci" src="auto" selected="1">VpYS---XR-AA---</tag>
+<tag>
+<AM lemma="říci" src="auto">VpYS---XR-AA---</AM>
+<AM lemma="říci_:W" src="manual" selected="1">VpYS---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-ln94208-111-p2s5w21">
 <src.rf>manual</src.rf>

@@ -19,7 +19,10 @@
 <LM>w#w-lnd92254-071-p1s1w1</LM>
 </w.rf>
 <form>Čechoslovakismus</form>
-<tag lemma="čechoslovakismus" src="orig" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="čechoslovakismus" src="orig">NNIS1-----A----</AM>
+<AM lemma="čechoslovakismus_,s_^(^DD**čechoslovakizmus)" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92254-071-p1s1w2">
 <src.rf>manual</src.rf>
@@ -115,7 +118,10 @@
 <LM>w#w-lnd92254-071-p1s1w13</LM>
 </w.rf>
 <form>r</form>
-<tag lemma="rok_:B" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="rok_:B" src="orig">NNIXX-----A---8</AM>
+<AM lemma="rok" src="manual" selected="1">NNIXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd92254-071-p1s1w14">
 <src.rf>manual</src.rf>

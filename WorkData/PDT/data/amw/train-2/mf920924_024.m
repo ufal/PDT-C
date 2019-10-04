@@ -61,7 +61,10 @@
 <LM>w#w-mf920924-024-p2s1w3</LM>
 </w.rf>
 <form>hč</form>
-<tag lemma="hč-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="hč-99_:B_;S" src="orig">NNXXX-----A---8</AM>
+<AM lemma="hč-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920924-024-p2s1w4">
 <src.rf>manual</src.rf>
@@ -183,7 +186,10 @@
 <LM>w#w-mf920924-024-p2s2w13</LM>
 </w.rf>
 <form>Škodovky</form>
-<tag lemma="škodovka" src="orig" selected="1">NNFS2-----A----</tag>
+<tag>
+<AM lemma="škodovka" src="orig">NNFS2-----A----</AM>
+<AM lemma="Škodovka_;K" src="manual" selected="1">NNFS2-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920924-024-p2s2w14">
 <src.rf>manual</src.rf>
@@ -255,7 +261,10 @@
 <LM>w#w-mf920924-024-p2s2w22</LM>
 </w.rf>
 <form>joint</form>
-<tag lemma="joint_,t_^(j._venture;_společný_podnik)" src="auto" selected="1">AAIXX----1A----</tag>
+<tag>
+<AM lemma="joint_,t_^(j._venture;_společný_podnik)" src="auto">AAIXX----1A----</AM>
+<AM lemma="joint-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-mf920924-024-p2s2w23">
 <src.rf>manual</src.rf>
@@ -263,7 +272,10 @@
 <LM>w#w-mf920924-024-p2s2w23</LM>
 </w.rf>
 <form>venture</form>
-<tag lemma="venture_,t_^(joint_v.;_společný_podnik)" src="orig" selected="1">NNIXX-----A----</tag>
+<tag>
+<AM lemma="venture_,t_^(joint_v.;_společný_podnik)" src="orig">NNIXX-----A----</AM>
+<AM lemma="venture-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-mf920924-024-p2s2w24">
 <src.rf>manual</src.rf>
@@ -467,7 +479,10 @@
 <LM>w#w-mf920924-024-p2s4w6</LM>
 </w.rf>
 <form>a</form>
-<tag lemma="akciový_:B_^(jen_akciová_společnost)" src="orig" selected="1">AAXXX----1A---8</tag>
+<tag>
+<AM lemma="akciový_:B_^(jen_akciová_společnost)" src="orig">AAXXX----1A---8</AM>
+<AM lemma="akciový" src="manual" selected="1">AAXXX----1A---8</AM>
+</tag>
 </m>
 <m id="m-mf920924-024-p2s4w7">
 <src.rf>manual</src.rf>
@@ -483,7 +498,10 @@
 <LM>w#w-mf920924-024-p2s4w8</LM>
 </w.rf>
 <form>s</form>
-<tag lemma="společnost_:B" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="společnost_:B" src="orig">NNFXX-----A---8</AM>
+<AM lemma="společnost" src="manual" selected="1">NNFXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-mf920924-024-p2s4w9">
 <src.rf>manual</src.rf>
@@ -548,7 +566,7 @@
 </w.rf>
 <form>Trnek</form>
 <tag>
-<AM lemma="Trnek_;S" src="orig">NNMS1-----A----</AM>
+<AM lemma="Trnek_;S" src="orig" selected="1">NNMS1-----A----</AM>
 <AM lemma="trnka" src="auto" recommended="1">NNFP2-----A----</AM>
 </tag>
 </m>

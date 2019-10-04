@@ -919,7 +919,7 @@
 <form>táboře</form>
 <tag>
 <AM lemma="tábor" src="orig">NNIS6-----A----</AM>
-<AM lemma="tábor-1" src="auto" recommended="1">NNIS6-----A---1</AM>
+<AM lemma="tábor-1" src="auto" recommended="1" selected="1">NNIS6-----A---1</AM>
 <AM lemma="tábořit_:T" src="auto">VeYS------A----</AM>
 </tag>
 </m>
@@ -969,7 +969,10 @@
 <LM>w#w-mf920924-091-p3s7w17</LM>
 </w.rf>
 <form>Edmonton</form>
-<tag lemma="Edmonton_;G" src="orig" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="Edmonton_;G" src="orig">NNIS1-----A----</AM>
+<AM lemma="Edmonton-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-mf920924-091-p3s7w18">
 <src.rf>manual</src.rf>
@@ -977,7 +980,10 @@
 <LM>w#w-mf920924-091-p3s7w18</LM>
 </w.rf>
 <form>Oilers</form>
-<tag lemma="Oiler_;K_,t" src="orig" selected="1">NNMPX-----A----</tag>
+<tag>
+<AM lemma="Oiler_;K_,t" src="orig">NNMPX-----A----</AM>
+<AM lemma="Oilers-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-mf920924-091-p3s7w19">
 <src.rf>manual</src.rf>
@@ -985,7 +991,10 @@
 <LM>w#w-mf920924-091-p3s7w19</LM>
 </w.rf>
 <form>Ted</form>
-<tag lemma="Ted_;Y_,t" src="orig" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Ted_;Y_,t" src="orig">NNMS1-----A----</AM>
+<AM lemma="Ted_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920924-091-p3s7w20">
 <src.rf>manual</src.rf>
@@ -1567,7 +1576,10 @@
 <LM>w#w-mf920924-091-p3s13w8</LM>
 </w.rf>
 <form>Craiga</form>
-<tag lemma="Craig_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag>
+<AM lemma="Craig_;S" src="orig">NNMS2-----A----</AM>
+<AM lemma="Craig_;Y_;S" src="manual" selected="1">NNMS2-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920924-091-p3s13w9">
 <src.rf>manual</src.rf>
@@ -1575,7 +1587,10 @@
 <LM>w#w-mf920924-091-p3s13w9</LM>
 </w.rf>
 <form>Patricka</form>
-<tag lemma="Patrick_;Y" src="orig" selected="1">NNMS2-----A----</tag>
+<tag>
+<AM lemma="Patrick_;Y" src="orig">NNMS2-----A----</AM>
+<AM lemma="Patrick_;Y_;S" src="manual" selected="1">NNMS2-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920924-091-p3s13w10">
 <src.rf>manual</src.rf>
@@ -1739,7 +1754,10 @@
 <LM>w#w-mf920924-091-p3s15w4</LM>
 </w.rf>
 <form>Burns</form>
-<tag lemma="Burns_;G" src="orig" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="Burns_;G" src="orig">NNIS1-----A----</AM>
+<AM lemma="Burns_;S" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920924-091-p3s15w5">
 <src.rf>manual</src.rf>
@@ -2514,7 +2532,7 @@
 </w.rf>
 <form>Adirondacku</form>
 <tag>
-<AM lemma="Adirondack-2_;G" src="orig">NNIS2-----A----</AM>
+<AM lemma="Adirondack-2_;G" src="orig" selected="1">NNIS2-----A----</AM>
 <AM lemma="Adirondack_;S" src="auto">NNMS3-----A---1</AM>
 <AM lemma="Adirondack_;S" src="auto" recommended="1">NNMS5-----A----</AM>
 <AM lemma="Adirondack_;S" src="auto">NNMS6-----A---1</AM>
@@ -2626,7 +2644,10 @@
 <LM>w#w-mf920924-091-p3s22w2</LM>
 </w.rf>
 <form>Quebecku</form>
-<tag lemma="Quebeck_;G" src="orig" selected="1">NNIS2-----A----</tag>
+<tag>
+<AM lemma="Quebeck_;G" src="orig">NNIS2-----A----</AM>
+<AM lemma="Quebeck_;G_,s_^(^DD**Québec)" src="manual" selected="1">NNIS2-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920924-091-p3s22w3">
 <src.rf>manual</src.rf>
@@ -3048,7 +3069,7 @@
 <AM lemma="zkušený" src="auto">AAFP6----1A----</AM>
 <AM lemma="zkušený" src="auto">AAIP2----1A----</AM>
 <AM lemma="zkušený" src="auto">AAIP6----1A----</AM>
-<AM lemma="zkušený" src="auto" recommended="1">AAMP2----1A----</AM>
+<AM lemma="zkušený" src="auto" recommended="1" selected="1">AAMP2----1A----</AM>
 <AM lemma="zkušený" src="auto">AAMP6----1A----</AM>
 <AM lemma="zkušený" src="auto">AANP2----1A----</AM>
 <AM lemma="zkušený" src="auto">AANP6----1A----</AM>

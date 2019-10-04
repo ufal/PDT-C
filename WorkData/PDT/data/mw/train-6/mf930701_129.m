@@ -65,6 +65,8 @@
 <AM lemma="do_:B" src="orig">NNMS1-----A---8</AM>
 <AM lemma="do-1" src="auto" recommended="1">RR--2----------</AM>
 <AM lemma="do-7_^(předpona,_sam.)" src="auto">A2--------A----</AM>
+<AM lemma="do-99_:B_;S" src="manual">NNXXX-----A---8</AM>
+<AM lemma="do-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930701-129-p2s1w4">
@@ -251,7 +253,11 @@
 <LM>w#w-mf930701-129-p2s2w3</LM>
 </w.rf>
 <form>Marco</form>
-<tag lemma="Marco_;Y" src="orig" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Marco_;Y" src="orig">NNMS1-----A----</AM>
+<AM lemma="Marco_;Y" src="manual">NNMXX-----A----</AM>
+<AM lemma="Marco-2_;K" src="manual" selected="1">NNNS1-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930701-129-p2s2w4">
 <src.rf>manual</src.rf>
@@ -461,7 +467,10 @@
 <LM>w#w-mf930701-129-p2s3w25</LM>
 </w.rf>
 <form>Athos</form>
-<tag lemma="Athos_;Y" src="auto" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Athos_;Y" src="auto">NNMS1-----A----</AM>
+<AM lemma="Athos-2_;K" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930701-129-p2s3w26">
 <src.rf>manual</src.rf>
@@ -606,6 +615,7 @@
 <AM lemma="Marko_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Marko_;Y" src="auto">NNMS5-----A----</AM>
 <AM lemma="marka" src="auto">NNFS5-----A----</AM>
+<AM lemma="Marko-2_;K" src="manual" selected="1">NNNS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930701-129-p2s5w4">
@@ -622,7 +632,10 @@
 <LM>w#w-mf930701-129-p2s5w5</LM>
 </w.rf>
 <form>píše</form>
-<tag lemma="psát" src="auto" selected="1">VB-S---3P-AA---</tag>
+<tag>
+<AM lemma="psát" src="auto">VB-S---3P-AA---</AM>
+<AM lemma="psát_:T" src="manual" selected="1">VB-S---3P-AA---</AM>
+</tag>
 </m>
 <m id="m-mf930701-129-p2s5w6">
 <src.rf>manual</src.rf>
@@ -734,7 +747,10 @@
 <LM>w#w-mf930701-129-p2s5w19</LM>
 </w.rf>
 <form>a</form>
-<tag lemma="akciový_:B_^(jen_akciová_společnost)" src="orig" selected="1">AAXXX----1A---8</tag>
+<tag>
+<AM lemma="akciový_:B_^(jen_akciová_společnost)" src="orig">AAXXX----1A---8</AM>
+<AM lemma="akciový_^(jen_akciová_společnost)" src="manual" selected="1">AAXXX----1A---8</AM>
+</tag>
 </m>
 <m id="m-mf930701-129-p2s5w20">
 <src.rf>manual</src.rf>
@@ -750,7 +766,10 @@
 <LM>w#w-mf930701-129-p2s5w21</LM>
 </w.rf>
 <form>s</form>
-<tag lemma="společnost_:B" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="společnost_:B" src="orig">NNFXX-----A---8</AM>
+<AM lemma="společnost" src="manual" selected="1">NNFXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-mf930701-129-p2s5w22">
 <src.rf>manual</src.rf>
@@ -768,7 +787,10 @@
 <LM>w#w-mf930701-129-p2s6w1</LM>
 </w.rf>
 <form>ZPS</form>
-<tag lemma="ZPS-2_:B_^(Závody_přesného_strojírenství)" src="orig" selected="1">NNIPX-----A---8</tag>
+<tag>
+<AM lemma="ZPS-2_:B_^(Závody_přesného_strojírenství)" src="orig">NNIPX-----A---8</AM>
+<AM lemma="ZPS-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930701-129-p2s6w2">
 <src.rf>manual</src.rf>
@@ -834,7 +856,10 @@
 <LM>w#w-mf930701-129-p2s7w6</LM>
 </w.rf>
 <form>Marco</form>
-<tag lemma="Marco_;Y" src="orig" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Marco_;Y" src="orig">NNMS1-----A----</AM>
+<AM lemma="Marco-2_;K" src="manual" selected="1">NNNS1-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930701-129-p2s7w7">
 <src.rf>manual</src.rf>
@@ -842,7 +867,10 @@
 <LM>w#w-mf930701-129-p2s7w7</LM>
 </w.rf>
 <form>dostala</form>
-<tag lemma="dostat" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag>
+<AM lemma="dostat" src="orig">VpQW---XR-AA---</AM>
+<AM lemma="dostat_:W" src="manual" selected="1">VpQW---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-mf930701-129-p2s7w8">
 <src.rf>manual</src.rf>
@@ -890,7 +918,10 @@
 <LM>w#w-mf930701-129-p2s7w13</LM>
 </w.rf>
 <form>a</form>
-<tag lemma="akciový_:B_^(jen_akciová_společnost)" src="orig" selected="1">AAXXX----1A---8</tag>
+<tag>
+<AM lemma="akciový_:B_^(jen_akciová_společnost)" src="orig">AAXXX----1A---8</AM>
+<AM lemma="akciový_^(jen_akciová_společnost)" src="manual" selected="1">AAXXX----1A---8</AM>
+</tag>
 </m>
 <m id="m-mf930701-129-p2s7w14">
 <src.rf>manual</src.rf>
@@ -906,7 +937,10 @@
 <LM>w#w-mf930701-129-p2s7w15</LM>
 </w.rf>
 <form>s</form>
-<tag lemma="společnost_:B" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="společnost_:B" src="orig">NNFXX-----A---8</AM>
+<AM lemma="společnost" src="manual" selected="1">NNFXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-mf930701-129-p2s7w16">
 <src.rf>manual</src.rf>
@@ -924,7 +958,10 @@
 <LM>w#w-mf930701-129-p2s8w1</LM>
 </w.rf>
 <form>ZPS</form>
-<tag lemma="ZPS-2_:B_^(Závody_přesného_strojírenství)" src="orig" selected="1">NNIPX-----A---8</tag>
+<tag>
+<AM lemma="ZPS-2_:B_^(Závody_přesného_strojírenství)" src="orig">NNIPX-----A---8</AM>
+<AM lemma="ZPS-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930701-129-p2s8w2">
 <src.rf>manual</src.rf>
@@ -982,7 +1019,10 @@
 <LM>w#w-mf930701-129-p3s1w5</LM>
 </w.rf>
 <form>a</form>
-<tag lemma="akciový_:B_^(jen_akciová_společnost)" src="orig" selected="1">AAXXX----1A---8</tag>
+<tag>
+<AM lemma="akciový_:B_^(jen_akciová_společnost)" src="orig">AAXXX----1A---8</AM>
+<AM lemma="akciový_^(jen_akciová_společnost)" src="manual" selected="1">AAXXX----1A---8</AM>
+</tag>
 </m>
 <m id="m-mf930701-129-p3s1w6">
 <src.rf>manual</src.rf>
@@ -998,7 +1038,10 @@
 <LM>w#w-mf930701-129-p3s1w7</LM>
 </w.rf>
 <form>s</form>
-<tag lemma="společnost_:B" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="společnost_:B" src="orig">NNFXX-----A---8</AM>
+<AM lemma="společnost" src="manual" selected="1">NNFXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-mf930701-129-p3s1w8">
 <src.rf>manual</src.rf>
@@ -1016,7 +1059,10 @@
 <LM>w#w-mf930701-129-p3s2w1</LM>
 </w.rf>
 <form>ZPS</form>
-<tag lemma="ZPS-2_:B_^(Závody_přesného_strojírenství)" src="orig" selected="1">NNIPX-----A---8</tag>
+<tag>
+<AM lemma="ZPS-2_:B_^(Závody_přesného_strojírenství)" src="orig">NNIPX-----A---8</AM>
+<AM lemma="ZPS-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930701-129-p3s2w2">
 <src.rf>manual</src.rf>
@@ -1088,7 +1134,10 @@
 <LM>w#w-mf930701-129-p3s2w10</LM>
 </w.rf>
 <form>Marco</form>
-<tag lemma="Marco_;Y" src="orig" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Marco_;Y" src="orig">NNMS1-----A----</AM>
+<AM lemma="Marco-2_;K" src="manual" selected="1">NNNS1-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930701-129-p3s2w11">
 <src.rf>manual</src.rf>

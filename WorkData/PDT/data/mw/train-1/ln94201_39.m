@@ -61,7 +61,10 @@
 <LM>w#w-ln94201-39-p2s1w3</LM>
 </w.rf>
 <form>Hanák</form>
-<tag lemma="Hanák_;E" src="auto" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Hanák_;E" src="auto">NNMS1-----A----</AM>
+<AM lemma="Hanák_;E_;S" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94201-39-p2s1w4">
 <src.rf>manual</src.rf>
@@ -85,7 +88,10 @@
 <LM>w#w-ln94201-39-p2s1w6</LM>
 </w.rf>
 <form>D</form>
-<tag lemma="D-3`500" src="orig" selected="1">C}-------------</tag>
+<tag>
+<AM lemma="D-3`500" src="orig">C}-------------</AM>
+<AM lemma="D-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94201-39-p2s1w7">
 <src.rf>manual</src.rf>
@@ -777,7 +783,10 @@
 <LM>w#w-ln94201-39-p3s3w2</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-2" src="auto" selected="1">Dg-------2A----</tag>
+<tag>
+<AM lemma="hodně-2" src="auto">Dg-------2A----</AM>
+<AM lemma="hodně-3" src="manual" selected="1">Dg-------2A----</AM>
+</tag>
 </m>
 <m id="m-ln94201-39-p3s3w3">
 <src.rf>manual</src.rf>
@@ -971,7 +980,10 @@
 <LM>w#w-ln94201-39-p3s4w1</LM>
 </w.rf>
 <form>Jen</form>
-<tag lemma="jen-1" src="auto" selected="1">TT-------------</tag>
+<tag>
+<AM lemma="jen-1" src="auto">TT-------------</AM>
+<AM lemma="jen-4_^(pouze)" src="manual" selected="1">Db-------------</AM>
+</tag>
 </m>
 <m id="m-ln94201-39-p3s4w2">
 <src.rf>manual</src.rf>
@@ -1051,7 +1063,10 @@
 <LM>w#w-ln94201-39-p3s4w11</LM>
 </w.rf>
 <form>milionů</form>
-<tag lemma="milión`1000000" src="orig" selected="1">NNIP2-----A----</tag>
+<tag>
+<AM lemma="milión`1000000" src="orig">NNIP2-----A----</AM>
+<AM lemma="milion`1000000_,s_^(^DD**milión)" src="manual" selected="1">NNIP2-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94201-39-p3s4w12">
 <src.rf>manual</src.rf>
@@ -1615,7 +1630,10 @@
 <LM>w#w-ln94201-39-p3s10w1</LM>
 </w.rf>
 <form>Jen</form>
-<tag lemma="jen-1" src="auto" selected="1">TT-------------</tag>
+<tag>
+<AM lemma="jen-1" src="auto">TT-------------</AM>
+<AM lemma="jen-4_^(pouze)" src="manual" selected="1">Db-------------</AM>
+</tag>
 </m>
 <m id="m-ln94201-39-p3s10w2">
 <src.rf>manual</src.rf>
@@ -1963,7 +1981,10 @@
 <LM>w#w-ln94201-39-p4s1w17</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-2" src="auto" selected="1">Dg-------2A----</tag>
+<tag>
+<AM lemma="hodně-2" src="auto">Dg-------2A----</AM>
+<AM lemma="hodně-3" src="manual" selected="1">Dg-------2A----</AM>
+</tag>
 </m>
 <m id="m-ln94201-39-p4s1w18">
 <src.rf>manual</src.rf>

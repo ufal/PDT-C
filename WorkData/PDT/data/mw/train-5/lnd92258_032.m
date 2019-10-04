@@ -119,6 +119,7 @@
 <AM lemma="Kim_;S" src="orig">NNMXX-----A----</AM>
 <AM lemma="Kim-1_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Kim-2_;Y" src="auto">NNFSX-----A----</AM>
+<AM lemma="Kim-2_;S_^(korejske_prijmeni)" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92258-032-p1s1w14">
@@ -130,6 +131,7 @@
 <tag>
 <AM lemma="Ir_;Y" src="orig">NNMXX-----A----</AM>
 <AM lemma="Ir_;E" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Ir-2_;Y" src="manual" selected="1">NNMXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92258-032-p1s1w15">
@@ -152,6 +154,7 @@
 <AM lemma="seno" src="auto">NNNP4-----A----</AM>
 <AM lemma="seno" src="auto">NNNP5-----A----</AM>
 <AM lemma="seno" src="auto">NNNS2-----A----</AM>
+<AM lemma="sen-3_;Y" src="manual" selected="1">NNMS2-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92258-032-p1s1w17">
@@ -193,7 +196,10 @@
 <LM>w#w-lnd92258-032-p1s1w21</LM>
 </w.rf>
 <form>KLDR</form>
-<tag lemma="KLDR_:B_;G_^(Korejská_lidově-demokratická_republika)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="KLDR_:B_;G_^(Korejská_lidově-demokratická_republika)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="KLDR_:B_;G_^(Korejská_lidově-demokratická_republika)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92258-032-p1s1w22">
 <src.rf>manual</src.rf>
@@ -549,7 +555,10 @@
 <LM>w#w-lnd92258-032-p3s1w13</LM>
 </w.rf>
 <form>San</form>
-<tag lemma="San-2_;G" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="San-2_;G" src="orig">AAXXX----1A----</AM>
+<AM lemma="San-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-lnd92258-032-p3s1w14">
 <src.rf>manual</src.rf>
@@ -557,7 +566,10 @@
 <LM>w#w-lnd92258-032-p3s1w14</LM>
 </w.rf>
 <form>Carlo</form>
-<tag lemma="Carlo-2_;G" src="orig" selected="1">NNNS4-----A----</tag>
+<tag>
+<AM lemma="Carlo-2_;G" src="orig">NNNS4-----A----</AM>
+<AM lemma="Carlo-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-lnd92258-032-p3s1w15">
 <src.rf>manual</src.rf>
@@ -1333,7 +1345,10 @@
 <LM>w#w-lnd92258-032-p6s1w24</LM>
 </w.rf>
 <form>Merec</form>
-<tag lemma="Merec_;K_^(strana)" src="orig" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="Merec_;K_^(strana)" src="orig">NNIS1-----A----</AM>
+<AM lemma="Merec-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-lnd92258-032-p6s1w25">
 <src.rf>manual</src.rf>
@@ -1373,7 +1388,10 @@
 <LM>w#w-lnd92258-032-p6s1w29</LM>
 </w.rf>
 <form>Šas</form>
-<tag lemma="Šas_:B_;K" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="Šas_:B_;K" src="orig">NNIXX-----A---8</AM>
+<AM lemma="Šas-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-lnd92258-032-p6s1w30">
 <src.rf>manual</src.rf>
@@ -1495,7 +1513,10 @@
 <LM>w#w-lnd92258-032-p7s1w14</LM>
 </w.rf>
 <form>sadomasochismus</form>
-<tag lemma="sadomasochizmus" src="orig" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="sadomasochizmus" src="orig">NNIS1-----A----</AM>
+<AM lemma="sadomasochismus_,s_^(^DD**sadomasochizmus)" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92258-032-p7s1w15">
 <src.rf>manual</src.rf>
@@ -1844,7 +1865,10 @@
 <LM>w#w-lnd92258-032-p8s2w5</LM>
 </w.rf>
 <form>ITAR</form>
-<tag lemma="ITAR_:B_;K" src="auto" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="ITAR_:B_;K" src="auto">NNIXX-----A---8</AM>
+<AM lemma="ITAR-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd92258-032-p8s2w6">
 <src.rf>manual</src.rf>
@@ -1860,7 +1884,10 @@
 <LM>w#w-lnd92258-032-p8s2w7</LM>
 </w.rf>
 <form>TASS</form>
-<tag lemma="TASS_:B_;K" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="TASS_:B_;K" src="orig">NNXXX-----A---8</AM>
+<AM lemma="TASS-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd92258-032-p8s2w8">
 <src.rf>manual</src.rf>

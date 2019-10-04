@@ -87,7 +87,10 @@
 <LM>w#w-ln95049-050-p2s1Bw2</LM>
 </w.rf>
 <form>ME</form>
-<tag lemma="ME-1_:B_;w_^(mistrovství_Evropy)" src="orig" selected="1">NNNXX-----A---8</tag>
+<tag>
+<AM lemma="ME-1_:B_;w_^(mistrovství_Evropy)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="ME-1_:B_^(mistrovství_Evropy)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95049-050-p2s1Bw3">
 <src.rf>manual</src.rf>
@@ -175,7 +178,10 @@
 <LM>w#w-ln95049-050-p2s1Bw13</LM>
 </w.rf>
 <form>Torsten</form>
-<tag lemma="Torsten_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Torsten_;S" src="orig">NNMS1-----A----</AM>
+<AM lemma="Torsten_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95049-050-p2s1Bw14">
 <src.rf>manual</src.rf>
@@ -248,6 +254,7 @@
 <AM lemma="mimo-1_:B" src="auto">RR--4---------8</AM>
 <AM lemma="minuta_:B" src="auto">NNFXX-----A---8</AM>
 <AM lemma="město_:B" src="auto">NNNXX-----A---8</AM>
+<AM lemma="metr" src="manual" selected="1">NNIXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-ln95049-050-p2s1Bw22">
@@ -276,6 +283,7 @@
 <AM lemma="bod_:B" src="orig">NNIXX-----A---8</AM>
 <AM lemma="b-3_^(označení_pomocí_písmene)" src="auto" recommended="1">NNNXX-----A----</AM>
 <AM lemma="b-8_:B_^(ost._zkratka)" src="auto">XX------------8</AM>
+<AM lemma="bod" src="manual" selected="1">NNIXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-ln95049-050-p2s1Bw25">
@@ -530,7 +538,10 @@
 <LM>w#w-ln95049-050-p2s4w8</LM>
 </w.rf>
 <form>dotáhl</form>
-<tag lemma="dotáhnout" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag>
+<AM lemma="dotáhnout" src="orig">VpYS---XR-AA---</AM>
+<AM lemma="dotáhnout_:W" src="manual" selected="1">VpYS---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-ln95049-050-p2s4w9">
 <src.rf>manual</src.rf>

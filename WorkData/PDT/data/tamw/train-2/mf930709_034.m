@@ -35,7 +35,10 @@
 <LM>w#w-mf930709-034-p1s1w3</LM>
 </w.rf>
 <form>CKP</form>
-<tag lemma="CKP_:B_;K" src="orig" selected="1">NNNXX-----A---8</tag>
+<tag>
+<AM lemma="CKP_:B_;K" src="orig">NNNXX-----A---8</AM>
+<AM lemma="CKP-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-mf930709-034-p1s1w4">
 <src.rf>manual</src.rf>
@@ -93,7 +96,10 @@
 <LM>w#w-mf930709-034-p2s1Aw3</LM>
 </w.rf>
 <form>jd</form>
-<tag lemma="jd-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="jd-99_:B_;S" src="orig">NNXXX-----A---8</AM>
+<AM lemma="jd-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930709-034-p2s1Aw4">
 <src.rf>manual</src.rf>
@@ -241,7 +247,10 @@
 <LM>w#w-mf930709-034-p2s1Bw16</LM>
 </w.rf>
 <form>milionu</form>
-<tag lemma="milión`1000000" src="orig" selected="1">NNIS2-----A----</tag>
+<tag>
+<AM lemma="milión`1000000" src="orig">NNIS2-----A----</AM>
+<AM lemma="milion`1000000_,s_^(^DD**milión) " src="manual" selected="1">NNIS2-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930709-034-p2s1Bw17">
 <src.rf>manual</src.rf>
@@ -609,7 +618,10 @@
 <LM>w#w-mf930709-034-p2s5w13</LM>
 </w.rf>
 <form>CKP</form>
-<tag lemma="CKP_:B_;K" src="orig" selected="1">NNNXX-----A---8</tag>
+<tag>
+<AM lemma="CKP_:B_;K" src="orig">NNNXX-----A---8</AM>
+<AM lemma="CKP-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-mf930709-034-p2s5w14">
 <src.rf>manual</src.rf>
@@ -827,7 +839,10 @@
 <LM>w#w-mf930709-034-p2s6w18</LM>
 </w.rf>
 <form>CKP</form>
-<tag lemma="CKP_:B_;K" src="orig" selected="1">NNNXX-----A---8</tag>
+<tag>
+<AM lemma="CKP_:B_;K" src="orig">NNNXX-----A---8</AM>
+<AM lemma="CKP-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-mf930709-034-p2s6w19">
 <src.rf>manual</src.rf>

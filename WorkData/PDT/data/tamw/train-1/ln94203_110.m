@@ -125,7 +125,10 @@
 <LM>w#w-ln94203-110-p2s1w11</LM>
 </w.rf>
 <form>ME</form>
-<tag lemma="ME-1_:B_;w_^(mistrovství_Evropy)" src="orig" selected="1">NNNXX-----A---8</tag>
+<tag>
+<AM lemma="ME-1_:B_;w_^(mistrovství_Evropy)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="ME-1_:B_^(mistrovství_Evropy)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94203-110-p2s1w12">
 <src.rf>manual</src.rf>
@@ -293,7 +296,10 @@
 <LM>w#w-ln94203-110-p2s1w32</LM>
 </w.rf>
 <form>Kaiserslautern</form>
-<tag lemma="Kaiserslautern" src="orig" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="Kaiserslautern" src="orig">NNIS1-----A----</AM>
+<AM lemma="Kaiserslautern_;G" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94203-110-p2s1w33">
 <src.rf>manual</src.rf>
@@ -589,7 +595,10 @@
 <LM>w#w-ln94203-110-p2s1w69</LM>
 </w.rf>
 <form>Kaiserslautern</form>
-<tag lemma="Kaiserslautern" src="orig" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="Kaiserslautern" src="orig">NNIS1-----A----</AM>
+<AM lemma="Kaiserslautern_;G" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94203-110-p2s1w70">
 <src.rf>manual</src.rf>

@@ -173,7 +173,10 @@
 <LM>w#w-vesm9211-057-p1s2w15</LM>
 </w.rf>
 <form>stromův</form>
-<tag lemma="strom_,a" src="orig" selected="1">NNIP2-----A---3</tag>
+<tag>
+<AM lemma="strom_,a" src="orig">NNIP2-----A---3</AM>
+<AM lemma="strom" src="manual" selected="1">NNIP2-----A---3</AM>
+</tag>
 </m>
 <m id="m-vesm9211-057-p1s2w16">
 <src.rf>manual</src.rf>
@@ -305,7 +308,7 @@
 <form>kráte</form>
 <tag>
 <AM lemma="krát_^(mat._operace;_2_krát_3)" src="orig">J*-------------</AM>
-<AM lemma="krát-1_^(mat._operace;_2_krát_3)" src="auto" recommended="1">J*------------1</AM>
+<AM lemma="krát-1_^(mat._operace;_2_krát_3)" src="auto" recommended="1" selected="1">J*------------1</AM>
 </tag>
 </m>
 <m id="m-vesm9211-057-p1s3w16">
@@ -338,7 +341,10 @@
 <LM>w#w-vesm9211-057-p1s3w19</LM>
 </w.rf>
 <form>jen</form>
-<tag lemma="jen-1" src="auto" selected="1">TT-------------</tag>
+<tag>
+<AM lemma="jen-1" src="auto">TT-------------</AM>
+<AM lemma="jen-4_^(pouze)" src="manual" selected="1">Db-------------</AM>
+</tag>
 </m>
 <m id="m-vesm9211-057-p1s3w20">
 <src.rf>manual</src.rf>
@@ -391,7 +397,7 @@
 <tag>
 <AM lemma="tady" src="orig">Db------------1</AM>
 <AM lemma="ten" src="auto" recommended="1">PDFS4----------</AM>
-<AM lemma="tu" src="auto">Db-------------</AM>
+<AM lemma="tu" src="auto" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m-vesm9211-057-p1s4w2">

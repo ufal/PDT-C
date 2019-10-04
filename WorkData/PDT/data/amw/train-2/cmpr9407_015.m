@@ -19,7 +19,10 @@
 <LM>w#w-cmpr9407-015-p2s1w1</LM>
 </w.rf>
 <form>FOR</form>
-<tag lemma="fórum" src="orig" selected="1">NNNP2-----A----</tag>
+<tag>
+<AM lemma="fórum" src="orig">NNNP2-----A----</AM>
+<AM lemma="FOR-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-cmpr9407-015-p2s1w2">
 <src.rf>manual</src.rf>
@@ -32,6 +35,7 @@
 <AM lemma="ECO_:B" src="auto">NNNXX-----A---8</AM>
 <AM lemma="Eco_;S" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Eco_;S" src="auto">NNMS5-----A----</AM>
+<AM lemma="ECO-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9407-015-p2s1w3">
@@ -122,7 +126,10 @@
 <LM>w#w-cmpr9407-015-p3s1w10</LM>
 </w.rf>
 <form>FOR</form>
-<tag lemma="fórum" src="orig" selected="1">NNNP2-----A----</tag>
+<tag>
+<AM lemma="fórum" src="orig">NNNP2-----A----</AM>
+<AM lemma="FOR-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-cmpr9407-015-p3s1w11">
 <src.rf>manual</src.rf>
@@ -135,6 +142,7 @@
 <AM lemma="ECO_:B" src="auto" recommended="1">NNNXX-----A---8</AM>
 <AM lemma="Eco_;S" src="auto">NNMS1-----A----</AM>
 <AM lemma="Eco_;S" src="auto">NNMS5-----A----</AM>
+<AM lemma="ECO-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9407-015-p3s1w12">
@@ -311,7 +319,10 @@
 <LM>w#w-cmpr9407-015-p3s1w33</LM>
 </w.rf>
 <form>ABF</form>
-<tag lemma="ABF_:B_;K" src="auto" selected="1">NNFSX-----A---8</tag>
+<tag>
+<AM lemma="ABF_:B_;K" src="auto">NNFSX-----A---8</AM>
+<AM lemma="ABF-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-cmpr9407-015-p3s1w34">
 <src.rf>manual</src.rf>
@@ -720,7 +731,10 @@
 <LM>w#w-cmpr9407-015-p4s3w4</LM>
 </w.rf>
 <form>FOR</form>
-<tag lemma="fórum" src="orig" selected="1">NNNP2-----A----</tag>
+<tag>
+<AM lemma="fórum" src="orig">NNNP2-----A----</AM>
+<AM lemma="FOR-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-cmpr9407-015-p4s3w5">
 <src.rf>manual</src.rf>
@@ -733,6 +747,7 @@
 <AM lemma="ECO_:B" src="auto" recommended="1">NNNXX-----A---8</AM>
 <AM lemma="Eco_;S" src="auto">NNMS1-----A----</AM>
 <AM lemma="Eco_;S" src="auto">NNMS5-----A----</AM>
+<AM lemma="ECO-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9407-015-p4s3w6">
@@ -877,7 +892,10 @@
 <LM>w#w-cmpr9407-015-p4s3w23</LM>
 </w.rf>
 <form>převzalo</form>
-<tag lemma="převzít_^(př._od_někoho_věc,_zodpovědnost...)" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag>
+<AM lemma="převzít_^(př._od_někoho_věc,_zodpovědnost...)" src="orig">VpNS---XR-AA---</AM>
+<AM lemma="převzít_:W_^(př._od_někoho_věc,_zodpovědnost...)" src="manual" selected="1">VpNS---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-cmpr9407-015-p4s3w24">
 <src.rf>manual</src.rf>
@@ -917,7 +935,10 @@
 <LM>w#w-cmpr9407-015-p4s3w28</LM>
 </w.rf>
 <form>ČR</form>
-<tag lemma="ČR-1_:B_;G_^(Česká_republika)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-cmpr9407-015-p4s3w29">
 <src.rf>manual</src.rf>

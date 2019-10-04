@@ -313,7 +313,10 @@
 <LM>w#w-ln95046-068-p2s2w5</LM>
 </w.rf>
 <form>ITAR</form>
-<tag lemma="ITAR_:B_;K" src="auto" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="ITAR_:B_;K" src="auto">NNIXX-----A---8</AM>
+<AM lemma="ITAR-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln95046-068-p2s2w6">
 <src.rf>manual</src.rf>
@@ -329,7 +332,10 @@
 <LM>w#w-ln95046-068-p2s2w7</LM>
 </w.rf>
 <form>TASS</form>
-<tag lemma="TASS_:B_;K" src="auto" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="TASS_:B_;K" src="auto">NNXXX-----A---8</AM>
+<AM lemma="TASS-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln95046-068-p2s2w8">
 <src.rf>manual</src.rf>
@@ -635,7 +641,10 @@
 <LM>w#w-ln95046-068-p2s3w26</LM>
 </w.rf>
 <form>přijme</form>
-<tag lemma="přijmout" src="auto" selected="1">VB-S---3P-AA---</tag>
+<tag>
+<AM lemma="přijmout" src="auto">VB-S---3P-AA---</AM>
+<AM lemma="přijmout_:W" src="manual" selected="1">VB-S---3P-AA---</AM>
+</tag>
 </m>
 <m id="m-ln95046-068-p2s3w27">
 <src.rf>manual</src.rf>

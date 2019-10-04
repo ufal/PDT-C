@@ -266,6 +266,7 @@
 <tag>
 <AM lemma="Čchi_;Y" src="orig">NNMS1-----A----</AM>
 <AM lemma="Čchi-1_;G_,t" src="auto" recommended="1">NNNXX-----A----</AM>
+<AM lemma="Čchi_;Y" src="manual" selected="1">NNMXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94208-74-p2s1Bw25">
@@ -396,7 +397,10 @@
 <LM>w#w-ln94208-74-p2s2w13</LM>
 </w.rf>
 <form>namířeny</form>
-<tag lemma="namířit" src="orig" selected="1">VsTP---XX-AP---</tag>
+<tag>
+<AM lemma="namířit" src="orig">VsTP---XX-AP---</AM>
+<AM lemma="namířit_:W" src="manual" selected="1">VsTP---XX-AP---</AM>
+</tag>
 </m>
 <m id="m-ln94208-74-p2s2w14">
 <src.rf>manual</src.rf>
@@ -480,7 +484,7 @@
 <AM lemma="dvojstranný" src="orig">AAIP2----1A----</AM>
 <AM lemma="dvoustranný" src="auto">AAFP2----1A----</AM>
 <AM lemma="dvoustranný" src="auto">AAFP6----1A----</AM>
-<AM lemma="dvoustranný" src="auto" recommended="1">AAIP2----1A----</AM>
+<AM lemma="dvoustranný" src="auto" recommended="1" selected="1">AAIP2----1A----</AM>
 <AM lemma="dvoustranný" src="auto">AAIP6----1A----</AM>
 <AM lemma="dvoustranný" src="auto">AAMP2----1A----</AM>
 <AM lemma="dvoustranný" src="auto">AAMP6----1A----</AM>
@@ -627,6 +631,7 @@
 <AM lemma="Ce-1_:B_;H_^(cerium,_cer)" src="auto">NNNXX-----A---8</AM>
 <AM lemma="Ce-3_:B_,t_^(compagnie,_vojenská_rota,_obch._společnost)" src="auto">NNFXX-----A---8</AM>
 <AM lemma="ce-2_:B_,t_^(compass_error,_deklinač._a_deviační_odchylka)" src="auto" recommended="1">NNFXX-----A---8</AM>
+<AM lemma="Ce-4_;Y" src="manual" selected="1">NNMXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94208-74-p2s2w41">

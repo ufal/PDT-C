@@ -38,7 +38,7 @@
 <tag>
 <AM lemma="jakýkoliv" src="orig">PZFP4---------1</AM>
 <AM lemma="jakýkoli" src="auto">PZFP1----------</AM>
-<AM lemma="jakýkoli" src="auto" recommended="1">PZFP4----------</AM>
+<AM lemma="jakýkoli" src="auto" recommended="1" selected="1">PZFP4----------</AM>
 <AM lemma="jakýkoli" src="auto">PZFP5----------</AM>
 <AM lemma="jakýkoli" src="auto">PZFS2----------</AM>
 <AM lemma="jakýkoli" src="auto">PZFS3----------</AM>
@@ -139,7 +139,10 @@
 <LM>w#w-mf930702-109-p2s1w5</LM>
 </w.rf>
 <form>Jicchak</form>
-<tag lemma="Jicchak_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Jicchak_;S" src="orig">NNMS1-----A----</AM>
+<AM lemma="Jicchak_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930702-109-p2s1w6">
 <src.rf>manual</src.rf>
@@ -508,7 +511,7 @@
 <tag>
 <AM lemma="jakýkoliv" src="orig">PZFP4---------1</AM>
 <AM lemma="jakýkoli" src="auto">PZFP1----------</AM>
-<AM lemma="jakýkoli" src="auto" recommended="1">PZFP4----------</AM>
+<AM lemma="jakýkoli" src="auto" recommended="1" selected="1">PZFP4----------</AM>
 <AM lemma="jakýkoli" src="auto">PZFP5----------</AM>
 <AM lemma="jakýkoli" src="auto">PZFS2----------</AM>
 <AM lemma="jakýkoli" src="auto">PZFS3----------</AM>
@@ -583,7 +586,10 @@
 <LM>w#w-mf930702-109-p3s2w9</LM>
 </w.rf>
 <form>řekl</form>
-<tag lemma="říci" src="auto" selected="1">VpYS---XR-AA---</tag>
+<tag>
+<AM lemma="říci" src="auto">VpYS---XR-AA---</AM>
+<AM lemma="říci_:W" src="manual" selected="1">VpYS---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-mf930702-109-p3s2w10">
 <src.rf>manual</src.rf>
@@ -631,7 +637,10 @@
 <LM>w#w-mf930702-109-p3s2w15</LM>
 </w.rf>
 <form>přiletěl</form>
-<tag lemma="přiletět" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag>
+<AM lemma="přiletět" src="orig">VpYS---XR-AA---</AM>
+<AM lemma="přiletět_:W" src="manual" selected="1">VpYS---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-mf930702-109-p3s2w16">
 <src.rf>manual</src.rf>
@@ -987,7 +996,10 @@
 <LM>w#w-mf930702-109-p5s1w13</LM>
 </w.rf>
 <form>dosaženo</form>
-<tag lemma="dosáhnout" src="orig" selected="1">VsNS---XX-AP---</tag>
+<tag>
+<AM lemma="dosáhnout" src="orig">VsNS---XX-AP---</AM>
+<AM lemma="dosáhnout_:W" src="manual" selected="1">VsNS---XX-AP---</AM>
+</tag>
 </m>
 <m id="m-mf930702-109-p5s1w14">
 <src.rf>manual</src.rf>
@@ -1197,7 +1209,10 @@
 <LM>w#w-mf930702-109-p5s2w23</LM>
 </w.rf>
 <form>přispět</form>
-<tag lemma="přispět" src="orig" selected="1">Vf--------A----</tag>
+<tag>
+<AM lemma="přispět" src="orig">Vf--------A----</AM>
+<AM lemma="přispět_:W" src="manual" selected="1">Vf--------A----</AM>
+</tag>
 </m>
 <m id="m-mf930702-109-p5s2w24">
 <src.rf>manual</src.rf>

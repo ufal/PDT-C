@@ -143,7 +143,10 @@
 <LM>w#w-mf930701-112-p2s1w3</LM>
 </w.rf>
 <form>jfr</form>
-<tag lemma="jfr-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="jfr-99_:B_;S" src="orig">NNXXX-----A---8</AM>
+<AM lemma="jfr-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930701-112-p2s1w4">
 <src.rf>manual</src.rf>
@@ -1031,7 +1034,10 @@
 <LM>w#w-mf930701-112-p2s9w4</LM>
 </w.rf>
 <form>třeba</form>
-<tag lemma="třeba-2" src="auto" selected="1">Db-------------</tag>
+<tag>
+<AM lemma="třeba-2" src="auto">Db-------------</AM>
+<AM lemma="třeba-3" src="manual" selected="1">TT-------------</AM>
+</tag>
 </m>
 <m id="m-mf930701-112-p2s9w5">
 <src.rf>manual</src.rf>

@@ -62,7 +62,7 @@
 </w.rf>
 <form>jab</form>
 <tag>
-<AM lemma="jab-99_:B_;S" src="orig">NNXXX-----A---8</AM>
+<AM lemma="jab-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</AM>
 <AM lemma="jab_;w_,t" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="jab_;w_,t" src="auto">NNIS4-----A----</AM>
 </tag>
@@ -187,7 +187,10 @@
 <LM>w#w-lnd92253-017-p2s2w13</LM>
 </w.rf>
 <form>SPMP</form>
-<tag lemma="SPMP-1_:B_;K_^(Sdružení_pro_pomoc_mentálně_postiženým)" src="orig" selected="1">NNNXX-----A---8</tag>
+<tag>
+<AM lemma="SPMP-1_:B_;K_^(Sdružení_pro_pomoc_mentálně_postiženým)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="SPMP-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd92253-017-p2s2w14">
 <src.rf>manual</src.rf>
@@ -636,7 +639,7 @@
 <tag>
 <AM lemma="tady" src="orig">Db------------1</AM>
 <AM lemma="ten" src="auto" recommended="1">PDFS4----------</AM>
-<AM lemma="tu" src="auto">Db-------------</AM>
+<AM lemma="tu" src="auto" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m-lnd92253-017-p2s5w9">
@@ -969,7 +972,10 @@
 <LM>w#w-lnd92253-017-p2s7w16</LM>
 </w.rf>
 <form>ČNR</form>
-<tag lemma="ČNR-1_:B_;K_^(Česká_národní_rada)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ČNR-1_:B_;K_^(Česká_národní_rada)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČNR-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd92253-017-p2s7w17">
 <src.rf>manual</src.rf>
@@ -977,7 +983,10 @@
 <LM>w#w-lnd92253-017-p2s7w17</LM>
 </w.rf>
 <form>J</form>
-<tag lemma="J-0_:B_;Y" src="orig" selected="1">NNMXX-----A---8</tag>
+<tag>
+<AM lemma="J-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
+<AM lemma="J-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd92253-017-p2s7w18">
 <src.rf>manual</src.rf>

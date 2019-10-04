@@ -989,7 +989,7 @@
 <tag>
 <AM lemma="dvojstranný" src="orig">AAIP3----1A----</AM>
 <AM lemma="dvoustranný" src="auto">AAFP3----1A----</AM>
-<AM lemma="dvoustranný" src="auto" recommended="1">AAIP3----1A----</AM>
+<AM lemma="dvoustranný" src="auto" recommended="1" selected="1">AAIP3----1A----</AM>
 <AM lemma="dvoustranný" src="auto">AAIS6----1A---7</AM>
 <AM lemma="dvoustranný" src="auto">AAIS7----1A----</AM>
 <AM lemma="dvoustranný" src="auto">AAMP3----1A----</AM>
@@ -1070,7 +1070,10 @@
 <LM>w#w-lnd92252-014-p5s1w15</LM>
 </w.rf>
 <form>B</form>
-<tag lemma="B-0_:B_;Y" src="orig" selected="1">NNMXX-----A---8</tag>
+<tag>
+<AM lemma="B-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
+<AM lemma="B-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd92252-014-p5s1w16">
 <src.rf>manual</src.rf>
@@ -1135,7 +1138,7 @@
 </w.rf>
 <form>Ter</form>
 <tag>
-<AM lemma="Ter-2_;S" src="orig">NNMXX-----A----</AM>
+<AM lemma="Ter-2_;S" src="orig" selected="1">NNMXX-----A----</AM>
 <AM lemma="Ter_;G" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Ter_;G" src="auto">NNIS4-----A----</AM>
 <AM lemma="tera_^(budhistický_chrám)" src="auto">NNFP2-----A----</AM>
@@ -1538,7 +1541,10 @@
 <LM>w#w-lnd92252-014-p7s1w2</LM>
 </w.rf>
 <form>Více</form>
-<tag lemma="hodně-2" src="auto" selected="1">Dg-------2A----</tag>
+<tag>
+<AM lemma="hodně-2" src="auto">Dg-------2A----</AM>
+<AM lemma="hodně-3" src="manual" selected="1">Dg-------2A----</AM>
+</tag>
 </m>
 <m id="m-lnd92252-014-p7s1w3">
 <src.rf>manual</src.rf>

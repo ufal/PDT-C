@@ -44,7 +44,7 @@
 </w.rf>
 <form>Julia</form>
 <tag>
-<AM lemma="Julia_;Y" src="orig">NNFS1-----A----</AM>
+<AM lemma="Julia_;Y" src="orig" selected="1">NNFS1-----A----</AM>
 <AM lemma="Julio_;Y_,t" src="auto" recommended="1">NNMS2-----A----</AM>
 <AM lemma="Julio_;Y_,t" src="auto">NNMS4-----A----</AM>
 <AM lemma="Julius_;Y" src="auto">NNMS2-----A----</AM>
@@ -125,7 +125,10 @@
 <LM>w#w-ln94211-110-p1s1Bw2</LM>
 </w.rf>
 <form>Falcon</form>
-<tag lemma="Falcon_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Falcon_;S" src="orig">NNMS1-----A----</AM>
+<AM lemma="Falcon-2_;K" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 </s>
 </mdata>

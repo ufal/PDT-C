@@ -835,7 +835,10 @@
 <LM>w#w-ln94206-148-p3s4w5</LM>
 </w.rf>
 <form>vzrostly</form>
-<tag lemma="vzrůst-1" src="auto" selected="1">VpTP---XR-AA---</tag>
+<tag>
+<AM lemma="vzrůst-1" src="auto">VpTP---XR-AA---</AM>
+<AM lemma="vzrůst-1_:W" src="manual" selected="1">VpTP---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-ln94206-148-p3s4w6">
 <src.rf>manual</src.rf>
@@ -957,7 +960,10 @@
 <LM>w#w-ln94206-148-p4s1w9</LM>
 </w.rf>
 <form>ČR</form>
-<tag lemma="ČR-1_:B_;G_^(Česká_republika)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94206-148-p4s1w10">
 <src.rf>manual</src.rf>

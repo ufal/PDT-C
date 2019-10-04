@@ -197,7 +197,10 @@
 <LM>w#w-ln95047-098-p2s1w13</LM>
 </w.rf>
 <form>měla</form>
-<tag lemma="mít" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag>
+<AM lemma="mít" src="orig">VpQW---XR-AA---</AM>
+<AM lemma="mít_:T" src="manual" selected="1">VpQW---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-ln95047-098-p2s1w14">
 <src.rf>manual</src.rf>
@@ -205,7 +208,10 @@
 <LM>w#w-ln95047-098-p2s1w14</LM>
 </w.rf>
 <form>přenést</form>
-<tag lemma="přenést" src="orig" selected="1">Vf--------A----</tag>
+<tag>
+<AM lemma="přenést" src="orig">Vf--------A----</AM>
+<AM lemma="přenést_:W" src="manual" selected="1">Vf--------A----</AM>
+</tag>
 </m>
 <m id="m-ln95047-098-p2s1w15">
 <src.rf>manual</src.rf>
@@ -475,7 +481,10 @@
 <LM>w#w-ln95047-098-p3s2w1</LM>
 </w.rf>
 <form>Mohl</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag>
+<AM lemma="moci_^(mít_možnost_[něco_dělat])" src="orig">VpYS---XR-AA---</AM>
+<AM lemma="moci_:T_^(mít_možnost_[něco_dělat])" src="manual" selected="1">VpYS---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-ln95047-098-p3s2w2">
 <src.rf>manual</src.rf>
@@ -491,7 +500,10 @@
 <LM>w#w-ln95047-098-p3s2w3</LM>
 </w.rf>
 <form>li</form>
-<tag lemma="li-1" src="auto" selected="1">TT-------------</tag>
+<tag>
+<AM lemma="li-1" src="auto">TT-------------</AM>
+<AM lemma="li-2" src="manual" selected="1">J,-------------</AM>
+</tag>
 </m>
 <m id="m-ln95047-098-p3s2w4">
 <src.rf>manual</src.rf>
@@ -571,7 +583,10 @@
 <LM>w#w-ln95047-098-p3s2w13</LM>
 </w.rf>
 <form>nemůže</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VB-S---3P-NA---</tag>
+<tag>
+<AM lemma="moci_^(mít_možnost_[něco_dělat])" src="orig">VB-S---3P-NA---</AM>
+<AM lemma="moci_:T_^(mít_možnost_[něco_dělat])" src="manual" selected="1">VB-S---3P-NA---</AM>
+</tag>
 </m>
 <m id="m-ln95047-098-p3s2w14">
 <src.rf>manual</src.rf>
@@ -653,7 +668,10 @@
 <LM>w#w-ln95047-098-p3s3w4</LM>
 </w.rf>
 <form>musíme</form>
-<tag lemma="muset" src="orig" selected="1">VB-P---1P-AA---</tag>
+<tag>
+<AM lemma="muset" src="orig">VB-P---1P-AA---</AM>
+<AM lemma="muset_:T" src="manual" selected="1">VB-P---1P-AA---</AM>
+</tag>
 </m>
 <m id="m-ln95047-098-p3s3w5">
 <src.rf>manual</src.rf>
@@ -661,7 +679,10 @@
 <LM>w#w-ln95047-098-p3s3w5</LM>
 </w.rf>
 <form>přijmout</form>
-<tag lemma="přijmout" src="auto" selected="1">Vf--------A----</tag>
+<tag>
+<AM lemma="přijmout" src="auto">Vf--------A----</AM>
+<AM lemma="přijmout_:W" src="manual" selected="1">Vf--------A----</AM>
+</tag>
 </m>
 <m id="m-ln95047-098-p3s3w6">
 <src.rf>manual</src.rf>
@@ -677,7 +698,10 @@
 <LM>w#w-ln95047-098-p3s3w7</LM>
 </w.rf>
 <form>chceme</form>
-<tag lemma="chtít" src="orig" selected="1">VB-P---1P-AA---</tag>
+<tag>
+<AM lemma="chtít" src="orig">VB-P---1P-AA---</AM>
+<AM lemma="chtít_:T" src="manual" selected="1">VB-P---1P-AA---</AM>
+</tag>
 </m>
 <m id="m-ln95047-098-p3s3w8">
 <src.rf>manual</src.rf>
@@ -693,7 +717,10 @@
 <LM>w#w-ln95047-098-p3s3w9</LM>
 </w.rf>
 <form>li</form>
-<tag lemma="li-1" src="auto" selected="1">TT-------------</tag>
+<tag>
+<AM lemma="li-1" src="auto">TT-------------</AM>
+<AM lemma="li-2" src="manual" selected="1">J,-------------</AM>
+</tag>
 </m>
 <m id="m-ln95047-098-p3s3w10">
 <src.rf>manual</src.rf>
@@ -717,7 +744,10 @@
 <LM>w#w-ln95047-098-p3s3w12</LM>
 </w.rf>
 <form>EU</form>
-<tag lemma="EU-1_:B_;K_;p_^(Evropská_Unie)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="EU-1_:B_;K_;p_^(Evropská_Unie)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="EU-1_:B_;K_^(Evropská_Unie)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95047-098-p3s3w13">
 <src.rf>manual</src.rf>
@@ -735,7 +765,10 @@
 <LM>w#w-ln95047-098-p3s4w1</LM>
 </w.rf>
 <form>Již</form>
-<tag lemma="již-1" src="auto" selected="1">Db-------------</tag>
+<tag>
+<AM lemma="již-1" src="auto">Db-------------</AM>
+<AM lemma="již-2" src="manual" selected="1">TT-------------</AM>
+</tag>
 </m>
 <m id="m-ln95047-098-p3s4w2">
 <src.rf>manual</src.rf>
@@ -767,7 +800,10 @@
 <LM>w#w-ln95047-098-p3s4w5</LM>
 </w.rf>
 <form>pomůže</form>
-<tag lemma="pomoci" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag>
+<AM lemma="pomoci" src="orig">VB-S---3P-AA---</AM>
+<AM lemma="pomoci_:W" src="manual" selected="1">VB-S---3P-AA---</AM>
+</tag>
 </m>
 <m id="m-ln95047-098-p3s4w6">
 <src.rf>manual</src.rf>
@@ -831,7 +867,10 @@
 <LM>w#w-ln95047-098-p3s4w13</LM>
 </w.rf>
 <form>EU</form>
-<tag lemma="EU-1_:B_;K_;p_^(Evropská_Unie)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="EU-1_:B_;K_;p_^(Evropská_Unie)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="EU-1_:B_;K_^(Evropská_Unie)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95047-098-p3s4w14">
 <src.rf>manual</src.rf>
@@ -1019,7 +1058,10 @@
 <LM>w#w-ln95047-098-p3s6w4</LM>
 </w.rf>
 <form>sice</form>
-<tag lemma="sice-2" src="auto" selected="1">Db-------------</tag>
+<tag>
+<AM lemma="sice-2" src="auto">Db-------------</AM>
+<AM lemma="sice-1_^(spojka;_připouští_se_určitá_fakta)" src="manual" selected="1">J^-------------</AM>
+</tag>
 </m>
 <m id="m-ln95047-098-p3s6w5">
 <src.rf>manual</src.rf>
@@ -1100,7 +1142,10 @@
 <LM>w#w-ln95047-098-p3s6w14</LM>
 </w.rf>
 <form>ponese</form>
-<tag lemma="nést" src="orig" selected="1">VB-S---3F-AA---</tag>
+<tag>
+<AM lemma="nést" src="orig">VB-S---3F-AA---</AM>
+<AM lemma="nést_:T" src="manual" selected="1">VB-S---3F-AA---</AM>
+</tag>
 </m>
 <m id="m-ln95047-098-p3s6w15">
 <src.rf>manual</src.rf>
@@ -1280,7 +1325,10 @@
 <LM>w#w-ln95047-098-p3s8w8</LM>
 </w.rf>
 <form>měly</form>
-<tag lemma="mít" src="orig" selected="1">VpTP---XR-AA---</tag>
+<tag>
+<AM lemma="mít" src="orig">VpTP---XR-AA---</AM>
+<AM lemma="mít_:T" src="manual" selected="1">VpTP---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-ln95047-098-p3s8w9">
 <src.rf>manual</src.rf>
@@ -1476,7 +1524,7 @@
 <form>nikoli</form>
 <tag>
 <AM lemma="nikoliv" src="orig">Db------------1</AM>
-<AM lemma="nikoli" src="auto" recommended="1">TT-------------</AM>
+<AM lemma="nikoli" src="auto" recommended="1" selected="1">TT-------------</AM>
 </tag>
 </m>
 <m id="m-ln95047-098-p3s9w18">

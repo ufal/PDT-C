@@ -141,7 +141,10 @@
 <LM>w#w-mf920902-077-p1s1Bw14</LM>
 </w.rf>
 <form>PSV</form>
-<tag lemma="PSV_:B" src="auto" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="PSV_:B" src="auto">NNXXX-----A---8</AM>
+<AM lemma="PSV-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920902-077-p1s1Bw15">
 <src.rf>manual</src.rf>
@@ -205,7 +208,10 @@
 <LM>w#w-mf920902-077-p1s1Bw22</LM>
 </w.rf>
 <form>UEFA</form>
-<tag lemma="UEFA-1_:B_;K_;w_^(Evr._fotbalová_federace)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="UEFA-1_:B_;K_;w_^(Evr._fotbalová_federace)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="UEFA-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-mf920902-077-p1s1Bw23">
 <src.rf>manual</src.rf>
@@ -213,7 +219,10 @@
 <LM>w#w-mf920902-077-p1s1Bw23</LM>
 </w.rf>
 <form>FC</form>
-<tag lemma="FC-1_:B_;K_;w_^(Football_Club,_př._FC_Sparta)" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="FC-1_:B_;K_;w_^(Football_Club,_př._FC_Sparta)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="FC-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-mf920902-077-p1s1Bw24">
 <src.rf>manual</src.rf>
@@ -223,7 +232,7 @@
 <form>Valencia</form>
 <tag>
 <AM lemma="Valencia_;K" src="orig">NNFS1-----A----</AM>
-<AM lemma="Valencie_;G" src="auto" recommended="1">NNFS1-----A---1</AM>
+<AM lemma="Valencie_;G" src="auto" recommended="1" selected="1">NNFS1-----A---1</AM>
 <AM lemma="Valencio_;S" src="auto">NNMS2-----A----</AM>
 <AM lemma="Valencio_;S" src="auto">NNMS4-----A----</AM>
 </tag>
@@ -396,7 +405,10 @@
 <LM>w#w-mf920902-077-p1s2w20</LM>
 </w.rf>
 <form>PSV</form>
-<tag lemma="PSV_:B" src="auto" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="PSV_:B" src="auto">NNXXX-----A---8</AM>
+<AM lemma="PSV-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920902-077-p1s2w21">
 <src.rf>manual</src.rf>
@@ -601,7 +613,7 @@
 <tag>
 <AM lemma="přesto" src="orig">Dg-------1A----</AM>
 <AM lemma="přesto-1" src="auto">Db-------------</AM>
-<AM lemma="přesto-2" src="auto" recommended="1">J^-------------</AM>
+<AM lemma="přesto-2" src="auto" recommended="1" selected="1">J^-------------</AM>
 </tag>
 </m>
 <m id="m-mf920902-077-p1s3w24">
@@ -676,7 +688,10 @@
 <LM>w#w-mf920902-077-p1s4w4</LM>
 </w.rf>
 <form>PSV</form>
-<tag lemma="PSV_:B" src="auto" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="PSV_:B" src="auto">NNXXX-----A---8</AM>
+<AM lemma="PSV-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920902-077-p1s4w5">
 <src.rf>manual</src.rf>

@@ -95,7 +95,10 @@
 <LM>w#w-ln94211-14-p2s1Bw5</LM>
 </w.rf>
 <form>milionů</form>
-<tag lemma="milión`1000000" src="orig" selected="1">NNIP2-----A----</tag>
+<tag>
+<AM lemma="milión`1000000" src="orig">NNIP2-----A----</AM>
+<AM lemma="milion`1000000_,s_^(^DD**milión)" src="manual" selected="1">NNIP2-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94211-14-p2s1Bw6">
 <src.rf>manual</src.rf>
@@ -637,7 +640,7 @@
 </w.rf>
 <form>Začal</form>
 <tag>
-<AM lemma="Začal_;S" src="orig">NNMS1-----A----</AM>
+<AM lemma="Začal_;S" src="orig" selected="1">NNMS1-----A----</AM>
 <AM lemma="začít-1_^(začnout)" src="auto" recommended="1">VpYS---XR-AA---</AM>
 </tag>
 </m>
@@ -818,7 +821,7 @@
 </w.rf>
 <form>Začal</form>
 <tag>
-<AM lemma="Začal_;S" src="orig">NNMS1-----A----</AM>
+<AM lemma="Začal_;S" src="orig" selected="1">NNMS1-----A----</AM>
 <AM lemma="začít-1_^(začnout)" src="auto" recommended="1">VpYS---XR-AA---</AM>
 </tag>
 </m>
@@ -838,7 +841,10 @@
 <LM>w#w-ln94211-14-p4s1w1</LM>
 </w.rf>
 <form>Více</form>
-<tag lemma="hodně-2" src="auto" selected="1">Dg-------2A----</tag>
+<tag>
+<AM lemma="hodně-2" src="auto">Dg-------2A----</AM>
+<AM lemma="hodně-3" src="manual" selected="1">Dg-------2A----</AM>
+</tag>
 </m>
 <m id="m-ln94211-14-p4s1w2">
 <src.rf>manual</src.rf>
@@ -936,7 +942,7 @@
 <form>přičemž</form>
 <tag>
 <AM lemma="přičemž" src="orig">J,-------------</AM>
-<AM lemma="přičemž" src="auto" recommended="1">Db-------------</AM>
+<AM lemma="přičemž" src="auto" recommended="1" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m-ln94211-14-p4s1w14">
@@ -1269,7 +1275,7 @@
 <form>přičemž</form>
 <tag>
 <AM lemma="přičemž" src="orig">J,-------------</AM>
-<AM lemma="přičemž" src="auto" recommended="1">Db-------------</AM>
+<AM lemma="přičemž" src="auto" recommended="1" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m-ln94211-14-p4s2w18">

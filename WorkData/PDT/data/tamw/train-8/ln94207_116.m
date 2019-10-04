@@ -37,7 +37,7 @@
 <form>snad</form>
 <tag>
 <AM lemma="snad" src="orig">Db-------------</AM>
-<AM lemma="snad" src="auto" recommended="1">TT-------------</AM>
+<AM lemma="snad" src="auto" recommended="1" selected="1">TT-------------</AM>
 </tag>
 </m>
 <m id="m-ln94207-116-p1s1w4">
@@ -454,6 +454,7 @@
 <AM lemma="Pro_;K_,t" src="orig">RR--X----------</AM>
 <AM lemma="pro-1" src="auto" recommended="1">RR--4----------</AM>
 <AM lemma="pro-7_^(předpona,_sam.)" src="auto">A2--------A----</AM>
+<AM lemma="Pro-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-ln94207-116-p2s2w20">
@@ -468,6 +469,7 @@
 <AM lemma="thalium" src="auto" recommended="1">NNNP4-----A----</AM>
 <AM lemma="thalium" src="auto">NNNP5-----A----</AM>
 <AM lemma="thalium" src="auto">NNNS2-----A----</AM>
+<AM lemma="Thalia-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-ln94207-116-p2s2w21">
@@ -614,7 +616,10 @@
 <LM>w#w-ln94207-116-p2s3w17</LM>
 </w.rf>
 <form>milionů</form>
-<tag lemma="milión`1000000" src="orig" selected="1">NNIP2-----A----</tag>
+<tag>
+<AM lemma="milión`1000000" src="orig">NNIP2-----A----</AM>
+<AM lemma="milion`1000000_,s_^(^DD**milión)" src="manual" selected="1">NNIP2-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94207-116-p2s3w18">
 <src.rf>manual</src.rf>
@@ -756,6 +761,7 @@
 <AM lemma="Pro_;K_,t" src="orig">RR--X----------</AM>
 <AM lemma="pro-1" src="auto" recommended="1">RR--4----------</AM>
 <AM lemma="pro-7_^(předpona,_sam.)" src="auto">A2--------A----</AM>
+<AM lemma="Pro-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-ln94207-116-p2s4w16">
@@ -770,6 +776,7 @@
 <AM lemma="thalium" src="auto" recommended="1">NNNP4-----A----</AM>
 <AM lemma="thalium" src="auto">NNNP5-----A----</AM>
 <AM lemma="thalium" src="auto">NNNS2-----A----</AM>
+<AM lemma="Thalia-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-ln94207-116-p2s4w17">
@@ -1146,6 +1153,7 @@
 <AM lemma="Pro_;K_,t" src="orig">RR--X----------</AM>
 <AM lemma="pro-1" src="auto" recommended="1">RR--4----------</AM>
 <AM lemma="pro-7_^(předpona,_sam.)" src="auto">A2--------A----</AM>
+<AM lemma="Pro-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-ln94207-116-p2s6w6">
@@ -1160,6 +1168,7 @@
 <AM lemma="thalium" src="auto" recommended="1">NNNP4-----A----</AM>
 <AM lemma="thalium" src="auto">NNNP5-----A----</AM>
 <AM lemma="thalium" src="auto">NNNS2-----A----</AM>
+<AM lemma="Thalia-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-ln94207-116-p2s6w7">
@@ -1179,7 +1188,7 @@
 <tag>
 <AM lemma="tady" src="orig">Db------------1</AM>
 <AM lemma="ten" src="auto" recommended="1">PDFS4----------</AM>
-<AM lemma="tu" src="auto">Db-------------</AM>
+<AM lemma="tu" src="auto" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m-ln94207-116-p2s6w9">
@@ -1757,6 +1766,7 @@
 <tag>
 <AM lemma="Kammerspiele_;K_,t" src="orig">NNFXX-----A----</AM>
 <AM lemma="Kammerspiele_;G_;u_,t" src="auto" recommended="1">NNNXX-----A----</AM>
+<AM lemma="Kammerspiele-2_;K" src="manual" selected="1">NNFXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94207-116-p2s9w17">
@@ -1805,7 +1815,10 @@
 <LM>w#w-ln94207-116-p2s9w22</LM>
 </w.rf>
 <form>Gerta</form>
-<tag lemma="Gert_;S" src="auto" selected="1">NNMS2-----A----</tag>
+<tag>
+<AM lemma="Gert_;S" src="auto">NNMS2-----A----</AM>
+<AM lemma="Gert_;Y_;S" src="manual" selected="1">NNMS2-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94207-116-p2s9w23">
 <src.rf>manual</src.rf>

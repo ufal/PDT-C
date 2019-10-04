@@ -441,7 +441,10 @@
 <LM>w#w-mf930701-097-p2s3w3</LM>
 </w.rf>
 <form>li</form>
-<tag lemma="li-1" src="auto" selected="1">TT-------------</tag>
+<tag>
+<AM lemma="li-1" src="auto">TT-------------</AM>
+<AM lemma="li-2" src="manual" selected="1">J,-------------</AM>
+</tag>
 </m>
 <m id="m-mf930701-097-p2s3w4">
 <src.rf>manual</src.rf>
@@ -747,7 +750,10 @@
 <LM>w#w-mf930701-097-p2s4w18</LM>
 </w.rf>
 <form>SA</form>
-<tag lemma="SA_:B_;K" src="auto" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="SA_:B_;K" src="auto">NNXXX-----A---8</AM>
+<AM lemma="SA-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-mf930701-097-p2s4w19">
 <src.rf>manual</src.rf>
@@ -1037,7 +1043,10 @@
 <LM>w#w-mf930701-097-p2s5w33</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-2" src="auto" selected="1">Dg-------2A----</tag>
+<tag>
+<AM lemma="hodně-2" src="auto">Dg-------2A----</AM>
+<AM lemma="hodně-3" src="manual" selected="1">Dg-------2A----</AM>
+</tag>
 </m>
 <m id="m-mf930701-097-p2s5w34">
 <src.rf>manual</src.rf>

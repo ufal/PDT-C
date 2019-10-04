@@ -1279,7 +1279,10 @@
 <LM>w#w-mf930701-159-p5s3w17</LM>
 </w.rf>
 <form>UPI</form>
-<tag lemma="UPI-1_:B_;K_,t_^(United_Press_International)" src="auto" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="UPI-1_:B_;K_,t_^(United_Press_International)" src="auto">NNFXX-----A---8</AM>
+<AM lemma="UPI-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-mf930701-159-p5s3w18">
 <src.rf>manual</src.rf>

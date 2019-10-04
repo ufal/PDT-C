@@ -241,7 +241,11 @@
 <LM>w#w-ln94208-22-p2s2w3</LM>
 </w.rf>
 <form>Francesco</form>
-<tag lemma="Francesco_;S" src="auto" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Francesco_;S" src="auto">NNMS1-----A----</AM>
+<AM lemma="Francesco_;Y_;S" src="manual">NNMS1-----A----</AM>
+<AM lemma="Francesco_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94208-22-p2s2w4">
 <src.rf>manual</src.rf>
@@ -284,7 +288,7 @@
 <tag>
 <AM lemma="Sarajevo_;G" src="orig">NNNS6-----A----</AM>
 <AM lemma="Sarajevo_;G" src="auto">NNNS3-----A----</AM>
-<AM lemma="Sarajevo_;G" src="auto" recommended="1">NNNS6-----A---1</AM>
+<AM lemma="Sarajevo_;G" src="auto" recommended="1" selected="1">NNNS6-----A---1</AM>
 </tag>
 </m>
 <m id="m-ln94208-22-p2s2w9">
@@ -505,7 +509,7 @@
 <form>totiž</form>
 <tag>
 <AM lemma="totiž" src="orig">Db-------------</AM>
-<AM lemma="totiž-1" src="auto" recommended="1">J^-------------</AM>
+<AM lemma="totiž-1" src="auto" recommended="1" selected="1">J^-------------</AM>
 <AM lemma="totiž-2" src="auto">TT-------------</AM>
 </tag>
 </m>
@@ -709,7 +713,10 @@
 <LM>w#w-ln94208-22-p2s4w8</LM>
 </w.rf>
 <form>Muslimů</form>
-<tag lemma="muslim" src="orig" selected="1">NNMP2-----A----</tag>
+<tag>
+<AM lemma="muslim" src="orig">NNMP2-----A----</AM>
+<AM lemma="Muslim_;E" src="manual" selected="1">NNMP2-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94208-22-p2s4w9">
 <src.rf>manual</src.rf>
@@ -850,7 +857,7 @@
 <tag>
 <AM lemma="Sarajevo_;G" src="orig">NNNS6-----A----</AM>
 <AM lemma="Sarajevo_;G" src="auto">NNNS3-----A----</AM>
-<AM lemma="Sarajevo_;G" src="auto" recommended="1">NNNS6-----A---1</AM>
+<AM lemma="Sarajevo_;G" src="auto" recommended="1" selected="1">NNNS6-----A---1</AM>
 </tag>
 </m>
 <m id="m-ln94208-22-p2s5w6">
@@ -989,7 +996,10 @@
 <LM>w#w-ln94208-22-p2s6w4</LM>
 </w.rf>
 <form>UNPROFOR</form>
-<tag lemma="UNPROFOR_:B" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="UNPROFOR_:B" src="orig">NNFXX-----A---8</AM>
+<AM lemma="UNPROFOR-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94208-22-p2s6w5">
 <src.rf>manual</src.rf>
@@ -1008,7 +1018,7 @@
 <tag>
 <AM lemma="Sarajevo_;G" src="orig">NNNS6-----A----</AM>
 <AM lemma="Sarajevo_;G" src="auto">NNNS3-----A----</AM>
-<AM lemma="Sarajevo_;G" src="auto" recommended="1">NNNS6-----A---1</AM>
+<AM lemma="Sarajevo_;G" src="auto" recommended="1" selected="1">NNNS6-----A---1</AM>
 </tag>
 </m>
 <m id="m-ln94208-22-p2s6w7">
@@ -1017,7 +1027,10 @@
 <LM>w#w-ln94208-22-p2s6w7</LM>
 </w.rf>
 <form>S</form>
-<tag lemma="S-0_:B_;Y" src="orig" selected="1">NNMXX-----A---8</tag>
+<tag>
+<AM lemma="S-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
+<AM lemma="S-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94208-22-p2s6w8">
 <src.rf>manual</src.rf>
@@ -1187,7 +1200,10 @@
 <LM>w#w-ln94208-22-p2s7w18</LM>
 </w.rf>
 <form>mj</form>
-<tag lemma="mj-1_:B_^(mimo_jiné)" src="orig" selected="1">Db------------8</tag>
+<tag>
+<AM lemma="mj-1_:B_^(mimo_jiné)" src="orig">Db------------8</AM>
+<AM lemma="mj-1_:B_^(mimo_jiné)" src="manual" selected="1">Db-------------</AM>
+</tag>
 </m>
 <m id="m-ln94208-22-p2s7w19">
 <src.rf>manual</src.rf>

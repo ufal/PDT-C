@@ -205,7 +205,10 @@
 <LM>w#w-ln94206-17-p2s1w20</LM>
 </w.rf>
 <form>LN</form>
-<tag lemma="LN-1_:B_;R_^(Lidové_noviny,_deník)" src="orig" selected="1">NNFPX-----A---8</tag>
+<tag>
+<AM lemma="LN-1_:B_;R_^(Lidové_noviny,_deník)" src="orig">NNFPX-----A---8</AM>
+<AM lemma="LN-1_:B_;K_;R_^(Lidové_noviny)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94206-17-p2s1w21">
 <src.rf>manual</src.rf>
@@ -549,7 +552,7 @@
 <AM lemma="Sibiř_;G" src="orig">NNIS6-----A----</AM>
 <AM lemma="Sibiř_;G" src="auto">NNFS3-----A----</AM>
 <AM lemma="Sibiř_;G" src="auto">NNFS5-----A----</AM>
-<AM lemma="Sibiř_;G" src="auto" recommended="1">NNFS6-----A----</AM>
+<AM lemma="Sibiř_;G" src="auto" recommended="1" selected="1">NNFS6-----A----</AM>
 <AM lemma="sibiř" src="auto">NNFS3-----A----</AM>
 <AM lemma="sibiř" src="auto">NNFS5-----A----</AM>
 <AM lemma="sibiř" src="auto">NNFS6-----A----</AM>
@@ -993,7 +996,10 @@
 <LM>w#w-ln94206-17-p4s1w4</LM>
 </w.rf>
 <form>SSSR</form>
-<tag lemma="SSSR_:B_;G_^(Svaz_sov._socialist._republik)" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="SSSR_:B_;G_^(Svaz_sov._socialist._republik)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="SSSR_:B_;G_^(Svaz_sov._socialist._republik)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94206-17-p4s1w5">
 <src.rf>manual</src.rf>
@@ -2909,7 +2915,10 @@
 <LM>w#w-ln94206-17-p7s3w3</LM>
 </w.rf>
 <form>jen</form>
-<tag lemma="jen-1" src="auto" selected="1">TT-------------</tag>
+<tag>
+<AM lemma="jen-1" src="auto">TT-------------</AM>
+<AM lemma="jen-4_^(pouze)" src="manual" selected="1">Db-------------</AM>
+</tag>
 </m>
 <m id="m-ln94206-17-p7s3w4">
 <src.rf>manual</src.rf>
@@ -4460,7 +4469,7 @@
 </w.rf>
 <form>hm</form>
 <tag>
-<AM lemma="hm-99_:B_;S" src="orig">NNXXX-----A---8</AM>
+<AM lemma="hm-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</AM>
 <AM lemma="hm" src="auto" recommended="1">II-------------</AM>
 </tag>
 </m>

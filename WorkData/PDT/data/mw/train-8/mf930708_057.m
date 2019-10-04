@@ -311,7 +311,10 @@
 <LM>w#w-mf930708-057-p3s1w4</LM>
 </w.rf>
 <form>píše</form>
-<tag lemma="psát" src="auto" selected="1">VB-S---3P-AA---</tag>
+<tag>
+<AM lemma="psát" src="auto">VB-S---3P-AA---</AM>
+<AM lemma="psát_:T" src="manual" selected="1">VB-S---3P-AA---</AM>
+</tag>
 </m>
 <m id="m-mf930708-057-p3s1w5">
 <src.rf>manual</src.rf>
@@ -359,7 +362,10 @@
 <LM>w#w-mf930708-057-p3s1w10</LM>
 </w.rf>
 <form>life</form>
-<tag lemma="life_;K" src="orig" selected="1">NNIXX-----A----</tag>
+<tag>
+<AM lemma="life_;K" src="orig">NNIXX-----A----</AM>
+<AM lemma="life-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-mf930708-057-p3s1w11">
 <src.rf>manual</src.rf>
@@ -598,7 +604,7 @@
 <tag>
 <AM lemma="tedy" src="orig">Db-------------</AM>
 <AM lemma="tedy-1" src="auto">TT-------------</AM>
-<AM lemma="tedy-2" src="auto" recommended="1">J^-------------</AM>
+<AM lemma="tedy-2" src="auto" recommended="1" selected="1">J^-------------</AM>
 </tag>
 </m>
 <m id="m-mf930708-057-p4s2w8">
@@ -658,7 +664,7 @@
 <tag>
 <AM lemma="matka" src="orig">NNFS1-----A----</AM>
 <AM lemma="matka-1_^(malá_součástka)" src="auto" recommended="1">NNFS1-----A----</AM>
-<AM lemma="matka-2_^(maminka)" src="auto">NNFS1-----A----</AM>
+<AM lemma="matka-2_^(maminka)" src="auto" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930708-057-p4s2w15">
@@ -743,7 +749,7 @@
 <form>osmém</form>
 <tag>
 <AM lemma="osmý" src="orig">AAIS6----1A----</AM>
-<AM lemma="osmý" src="auto" recommended="1">CrIS6----------</AM>
+<AM lemma="osmý" src="auto" recommended="1" selected="1">CrIS6----------</AM>
 <AM lemma="osmý" src="auto">CrMS6----------</AM>
 <AM lemma="osmý" src="auto">CrNS6----------</AM>
 </tag>
@@ -1134,7 +1140,10 @@
 <LM>w#w-mf930708-057-p4s5w13</LM>
 </w.rf>
 <form>SSSR</form>
-<tag lemma="SSSR_:B_;G_^(Svaz_sov._socialist._republik)" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="SSSR_:B_;G_^(Svaz_sov._socialist._republik)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="SSSR-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-mf930708-057-p4s5w14">
 <src.rf>manual</src.rf>
@@ -1314,7 +1323,10 @@
 <LM>w#w-mf930708-057-p4s7w7</LM>
 </w.rf>
 <form>life</form>
-<tag lemma="life_;K" src="orig" selected="1">NNIXX-----A----</tag>
+<tag>
+<AM lemma="life_;K" src="orig">NNIXX-----A----</AM>
+<AM lemma="life-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-mf930708-057-p4s7w8">
 <src.rf>manual</src.rf>
@@ -1654,7 +1666,10 @@
 <LM>w#w-mf930708-057-p4s9w8</LM>
 </w.rf>
 <form>li</form>
-<tag lemma="li-1" src="auto" selected="1">TT-------------</tag>
+<tag>
+<AM lemma="li-1" src="auto">TT-------------</AM>
+<AM lemma="li-2" src="manual" selected="1">J,-------------</AM>
+</tag>
 </m>
 <m id="m-mf930708-057-p4s9w9">
 <src.rf>manual</src.rf>
@@ -1758,7 +1773,10 @@
 <LM>w#w-mf930708-057-p4s9w21</LM>
 </w.rf>
 <form>P</form>
-<tag lemma="Post-1_:B_,t_^(Post_Office,_pošta)" src="orig" selected="1">AAXXX----1A---8</tag>
+<tag>
+<AM lemma="Post-1_:B_,t_^(Post_Office,_pošta)" src="orig">AAXXX----1A---8</AM>
+<AM lemma="P-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-mf930708-057-p4s9w22">
 <src.rf>manual</src.rf>
@@ -1774,7 +1792,10 @@
 <LM>w#w-mf930708-057-p4s9w23</LM>
 </w.rf>
 <form>O</form>
-<tag lemma="Office-1_:B_,t_^(př._Post_Office,_pošt._úřad)" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="Office-1_:B_,t_^(př._Post_Office,_pošt._úřad)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="O-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-mf930708-057-p4s9w24">
 <src.rf>manual</src.rf>
@@ -2026,7 +2047,10 @@
 <LM>w#w-mf930708-057-p6s1w2</LM>
 </w.rf>
 <form>Více</form>
-<tag lemma="hodně-2" src="auto" selected="1">Dg-------2A----</tag>
+<tag>
+<AM lemma="hodně-2" src="auto">Dg-------2A----</AM>
+<AM lemma="hodně-3" src="manual" selected="1">Dg-------2A----</AM>
+</tag>
 </m>
 <m id="m-mf930708-057-p6s1w3">
 <src.rf>manual</src.rf>
@@ -2464,7 +2488,7 @@
 <form>snad</form>
 <tag>
 <AM lemma="snad" src="orig">Db-------------</AM>
-<AM lemma="snad" src="auto" recommended="1">TT-------------</AM>
+<AM lemma="snad" src="auto" recommended="1" selected="1">TT-------------</AM>
 </tag>
 </m>
 <m id="m-mf930708-057-p6s3w12">
@@ -2669,7 +2693,7 @@
 <form>snad</form>
 <tag>
 <AM lemma="snad" src="orig">Db-------------</AM>
-<AM lemma="snad" src="auto" recommended="1">TT-------------</AM>
+<AM lemma="snad" src="auto" recommended="1" selected="1">TT-------------</AM>
 </tag>
 </m>
 <m id="m-mf930708-057-p6s4w18">

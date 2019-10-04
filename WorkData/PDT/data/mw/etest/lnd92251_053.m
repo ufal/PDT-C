@@ -200,7 +200,7 @@
 </w.rf>
 <form>slabozrací</form>
 <tag>
-<AM lemma="slabozraký-2" src="orig">NNMP1-----A----</AM>
+<AM lemma="slabozraký-2" src="orig" selected="1">NNMP1-----A----</AM>
 <AM lemma="slabozraký" src="auto" recommended="1">AAMP1----1A----</AM>
 <AM lemma="slabozraký" src="auto">AAMP5----1A----</AM>
 </tag>
@@ -551,7 +551,10 @@
 <LM>w#w-lnd92251-053-p2s4w7</LM>
 </w.rf>
 <form>slabozrakých</form>
-<tag lemma="slabozraký" src="orig" selected="1">AAMP2----1A----</tag>
+<tag>
+<AM lemma="slabozraký" src="orig">AAMP2----1A----</AM>
+<AM lemma="slabozraký-2" src="manual" selected="1">NNMP2-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92251-053-p2s4w8">
 <src.rf>manual</src.rf>
@@ -568,7 +571,7 @@
 </w.rf>
 <form>Korečková</form>
 <tag>
-<AM lemma="Korečková_;S" src="orig">NNFS1-----A----</AM>
+<AM lemma="Korečková_;S" src="orig" selected="1">NNFS1-----A----</AM>
 <AM lemma="korečkový" src="auto" recommended="1">AAFS1----1A----</AM>
 <AM lemma="korečkový" src="auto">AAFS5----1A----</AM>
 <AM lemma="korečkový" src="auto">AANP1----1A----</AM>

@@ -67,7 +67,10 @@
 <LM>w#w-mf920901-074-p1s1Aw7</LM>
 </w.rf>
 <form>ria</form>
-<tag lemma="ria-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="ria-99_:B_;S" src="orig">NNXXX-----A---8</AM>
+<AM lemma="ria-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920901-074-p1s1Aw8">
 <src.rf>manual</src.rf>
@@ -723,7 +726,10 @@
 <LM>w#w-mf920901-074-p1s4w2</LM>
 </w.rf>
 <form>prostředky</form>
-<tag lemma="prostředek-2_^(způsob,_nástroj)" src="orig" selected="1">NNIP4-----A----</tag>
+<tag>
+<AM lemma="prostředek-2_^(způsob,_nástroj)" src="orig">NNIP4-----A----</AM>
+<AM lemma="prostředek_^(střed,způsob,_nástroj)" src="manual" selected="1">NNIP4-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920901-074-p1s4w3">
 <src.rf>manual</src.rf>
@@ -926,6 +932,8 @@
 <tag>
 <AM lemma="CCS_:B_;K" src="orig">AAXXX----1A---8</AM>
 <AM lemma="CCS_:B_^(karta)" src="auto" recommended="1">NNXXX-----A---8</AM>
+<AM lemma="CCS_:B" src="manual">NNXXX-----A---8</AM>
+<AM lemma="CCS-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920901-074-p1s4w28">
@@ -938,6 +946,7 @@
 <AM lemma="International-2_;K_,t" src="orig">NNXXX-----A---1</AM>
 <AM lemma="International_,t" src="auto" recommended="1">NNISX-----A----</AM>
 <AM lemma="international_,t" src="auto">AAXXX----1A----</AM>
+<AM lemma="International-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-mf920901-074-p1s4w29">
@@ -978,7 +987,10 @@
 <LM>w#w-mf920901-074-p1s4w33</LM>
 </w.rf>
 <form>Radio</form>
-<tag lemma="rádio_,a" src="orig" selected="1">NNNS1-----A----</tag>
+<tag>
+<AM lemma="rádio_,a" src="orig">NNNS1-----A----</AM>
+<AM lemma="radio_,s_^(^DD**rádio)" src="manual" selected="1">NNNS1-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920901-074-p1s4w34">
 <src.rf>manual</src.rf>
@@ -1028,7 +1040,10 @@
 <LM>w#w-mf920901-074-p1s5w4</LM>
 </w.rf>
 <form>Zahradníka</form>
-<tag lemma="zahradník" src="orig" selected="1">NNMS2-----A----</tag>
+<tag>
+<AM lemma="zahradník" src="orig">NNMS2-----A----</AM>
+<AM lemma="Zahradník_;S" src="manual" selected="1">NNMS2-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920901-074-p1s5w5">
 <src.rf>manual</src.rf>
@@ -1158,7 +1173,10 @@
 <LM>w#w-mf920901-074-p1s6w7</LM>
 </w.rf>
 <form>pronajalo</form>
-<tag lemma="pronajmout" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag>
+<AM lemma="pronajmout" src="orig">VpNS---XR-AA---</AM>
+<AM lemma="pronajmout_:W" src="manual" selected="1">VpNS---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-mf920901-074-p1s6w8">
 <src.rf>manual</src.rf>

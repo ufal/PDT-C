@@ -223,7 +223,10 @@
 <LM>w#w-ln95040-115-p2s1Bw19</LM>
 </w.rf>
 <form>Four</form>
-<tag lemma="Four_;K_,t" src="orig" selected="1">ClXPX----------</tag>
+<tag>
+<AM lemma="Four_;K_,t" src="orig">ClXPX----------</AM>
+<AM lemma="Four-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln95040-115-p2s1Bw20">
 <src.rf>manual</src.rf>
@@ -231,7 +234,10 @@
 <LM>w#w-ln95040-115-p2s1Bw20</LM>
 </w.rf>
 <form>Seasons</form>
-<tag lemma="Season_;K_,t" src="orig" selected="1">NNIPX-----A----</tag>
+<tag>
+<AM lemma="Season_;K_,t" src="orig">NNIPX-----A----</AM>
+<AM lemma="Seasons-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln95040-115-p2s1Bw21">
 <src.rf>manual</src.rf>
@@ -353,7 +359,10 @@
 <LM>w#w-ln95040-115-p2s2w8</LM>
 </w.rf>
 <form>SD</form>
-<tag lemma="SD_:B_;K" src="orig" selected="1">NNMPX-----A---8</tag>
+<tag>
+<AM lemma="SD_:B_;K" src="orig">NNMPX-----A---8</AM>
+<AM lemma="SD-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln95040-115-p2s2w9">
 <src.rf>manual</src.rf>
@@ -369,7 +378,10 @@
 <LM>w#w-ln95040-115-p2s2w10</LM>
 </w.rf>
 <form>OH</form>
-<tag lemma="OH-1_:B_;K_;p_^(Občanské_hnutí)" src="orig" selected="1">NNNXX-----A---8</tag>
+<tag>
+<AM lemma="OH-1_:B_;K_;p_^(Občanské_hnutí)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="OH-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln95040-115-p2s2w11">
 <src.rf>manual</src.rf>
@@ -401,7 +413,10 @@
 <LM>w#w-ln95040-115-p2s2w14</LM>
 </w.rf>
 <form>LN</form>
-<tag lemma="LN-1_:B_;R_^(Lidové_noviny,_deník)" src="orig" selected="1">NNFPX-----A---8</tag>
+<tag>
+<AM lemma="LN-1_:B_;R_^(Lidové_noviny,_deník)" src="orig">NNFPX-----A---8</AM>
+<AM lemma="LN-1_:B_;K_;R_^(Lidové_noviny)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95040-115-p2s2w15">
 <src.rf>manual</src.rf>
@@ -643,7 +658,10 @@
 <LM>w#w-ln95040-115-p2s3w5</LM>
 </w.rf>
 <form>SD</form>
-<tag lemma="SD_:B_;K" src="auto" selected="1">NNMPX-----A---8</tag>
+<tag>
+<AM lemma="SD_:B_;K" src="auto">NNMPX-----A---8</AM>
+<AM lemma="SD-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln95040-115-p2s3w6">
 <src.rf>manual</src.rf>

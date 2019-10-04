@@ -19,7 +19,10 @@
 <LM>w#w-mf930703-049-p1s1w1</LM>
 </w.rf>
 <form>Ch</form>
-<tag lemma="ch-3_^(označení_pomocí_písmene)" src="orig" selected="1">NNNXX-----A----</tag>
+<tag>
+<AM lemma="ch-3_^(označení_pomocí_písmene)" src="orig">NNNXX-----A----</AM>
+<AM lemma="Ch-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-mf930703-049-p1s1w2">
 <src.rf>manual</src.rf>
@@ -51,7 +54,10 @@
 <LM>w#w-mf930703-049-p1s1w5</LM>
 </w.rf>
 <form>L</form>
-<tag lemma="l-3_^(označení_pomocí_písmene)" src="orig" selected="1">NNNXX-----A----</tag>
+<tag>
+<AM lemma="l-3_^(označení_pomocí_písmene)" src="orig">NNNXX-----A----</AM>
+<AM lemma="L-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-mf930703-049-p1s1w6">
 <src.rf>manual</src.rf>
@@ -83,7 +89,10 @@
 <LM>w#w-mf930703-049-p1s1w9</LM>
 </w.rf>
 <form>b</form>
-<tag lemma="b-3_^(označení_pomocí_písmene)" src="orig" selected="1">NNNXX-----A----</tag>
+<tag>
+<AM lemma="b-3_^(označení_pomocí_písmene)" src="orig">NNNXX-----A----</AM>
+<AM lemma="b-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-mf930703-049-p1s1w10">
 <src.rf>manual</src.rf>
@@ -140,7 +149,10 @@
 <LM>w#w-mf930703-049-p1s1w16</LM>
 </w.rf>
 <form>kg</form>
-<tag lemma="kg-1`kilogram_:B" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="kg-1`kilogram_:B" src="orig">NNIXX-----A---8</AM>
+<AM lemma="kilogram" src="manual" selected="1">NNIXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-mf930703-049-p1s1w17">
 <src.rf>manual</src.rf>
@@ -181,7 +193,10 @@
 <LM>w#w-mf930703-049-p1s1w21</LM>
 </w.rf>
 <form>kg</form>
-<tag lemma="kg-1`kilogram_:B" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="kg-1`kilogram_:B" src="orig">NNIXX-----A---8</AM>
+<AM lemma="kilogram" src="manual" selected="1">NNIXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-mf930703-049-p1s1w22">
 <src.rf>manual</src.rf>

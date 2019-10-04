@@ -95,7 +95,10 @@
 <LM>w#w-lnd91301-093-p3s1w6</LM>
 </w.rf>
 <form>Werner</form>
-<tag lemma="Werner_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Werner_;S" src="orig">NNMS1-----A----</AM>
+<AM lemma="Werner_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd91301-093-p3s1w7">
 <src.rf>manual</src.rf>
@@ -103,7 +106,10 @@
 <LM>w#w-lnd91301-093-p3s1w7</LM>
 </w.rf>
 <form>Günthör</form>
-<tag lemma="Günthör_;Y" src="orig" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Günthör_;Y" src="orig">NNMS1-----A----</AM>
+<AM lemma="Günthör_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd91301-093-p3s1w8">
 <src.rf>manual</src.rf>

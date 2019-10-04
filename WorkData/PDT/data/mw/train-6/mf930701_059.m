@@ -89,6 +89,7 @@
 <AM lemma="mas-99_:B_;S" src="orig">NNXXX-----A---8</AM>
 <AM lemma="masa_^(velké_množství)" src="auto" recommended="1">NNFP2-----A----</AM>
 <AM lemma="maso_^(jídlo_apod.)" src="auto">NNNP2-----A----</AM>
+<AM lemma="mas-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930701-059-p2s1w4">
@@ -719,7 +720,10 @@
 <LM>w#w-mf930701-059-p2s4w35</LM>
 </w.rf>
 <form>nepříliš</form>
-<tag lemma="nepříliš" src="orig" selected="1">Db-------------</tag>
+<tag>
+<AM lemma="nepříliš" src="orig">Db-------------</AM>
+<AM lemma="nepříliš" src="manual" selected="1">Db-------------</AM>
+</tag>
 </m>
 <m id="m-mf930701-059-p2s4w36">
 <src.rf>manual</src.rf>

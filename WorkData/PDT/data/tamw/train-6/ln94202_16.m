@@ -127,7 +127,10 @@
 <LM>w#w-ln94202-16-p2s1Bw5</LM>
 </w.rf>
 <form>tzv</form>
-<tag lemma="takzvaný_:B" src="orig" selected="1">AAXXX----1A---8</tag>
+<tag>
+<AM lemma="takzvaný_:B" src="orig">AAXXX----1A---8</AM>
+<AM lemma="takzvaný" src="manual" selected="1">AAXXX----1A---8</AM>
+</tag>
 </m>
 <m id="m-ln94202-16-p2s1Bw6">
 <src.rf>manual</src.rf>
@@ -697,7 +700,10 @@
 <LM>w#w-ln94202-16-p4s1w6</LM>
 </w.rf>
 <form>ani</form>
-<tag lemma="ani-1" src="auto" selected="1">J^-------------</tag>
+<tag>
+<AM lemma="ani-1" src="auto">J^-------------</AM>
+<AM lemma="ani-2" src="manual" selected="1">TT-------------</AM>
+</tag>
 </m>
 <m id="m-ln94202-16-p4s1w7">
 <src.rf>manual</src.rf>
@@ -1745,7 +1751,10 @@
 <LM>w#w-ln94202-16-p7s1w31</LM>
 </w.rf>
 <form>GATT</form>
-<tag lemma="GATT_:B" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="GATT_:B" src="orig">NNFXX-----A---8</AM>
+<AM lemma="GATT-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln94202-16-p7s1w32">
 <src.rf>manual</src.rf>

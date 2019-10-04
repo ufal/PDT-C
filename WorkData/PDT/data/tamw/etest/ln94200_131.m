@@ -63,6 +63,8 @@
 <AM lemma="Coda_;K" src="auto" recommended="1">NNFS2-----A----</AM>
 <AM lemma="Cody_;S" src="auto">NNMS1-----A----</AM>
 <AM lemma="Cody_;S" src="auto">NNMS5-----A----</AM>
+<AM lemma="Cody-2_;Y" src="manual">NNFS1-----A----</AM>
+<AM lemma="Cody-2_;Y" src="manual" selected="1">NNFXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94200-131-p1s1Aw6">

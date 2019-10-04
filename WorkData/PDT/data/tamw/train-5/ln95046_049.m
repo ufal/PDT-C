@@ -295,7 +295,10 @@
 <LM>w#w-ln95046-049-p2s2w2</LM>
 </w.rf>
 <form>Editions</form>
-<tag lemma="Edition_;K_,t" src="orig" selected="1">NNFPX-----A----</tag>
+<tag>
+<AM lemma="Edition_;K_,t" src="orig">NNFPX-----A----</AM>
+<AM lemma="Editions-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln95046-049-p2s2w3">
 <src.rf>manual</src.rf>
@@ -303,7 +306,10 @@
 <LM>w#w-ln95046-049-p2s2w3</LM>
 </w.rf>
 <form>de</form>
-<tag lemma="de_,t_^(z_franc._de,_zejm._ve_jménech)" src="orig" selected="1">RR--1----------</tag>
+<tag>
+<AM lemma="de_,t_^(z_franc._de,_zejm._ve_jménech)" src="orig">RR--1----------</AM>
+<AM lemma="de-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln95046-049-p2s2w4">
 <src.rf>manual</src.rf>
@@ -311,7 +317,10 @@
 <LM>w#w-ln95046-049-p2s2w4</LM>
 </w.rf>
 <form>Minuit</form>
-<tag lemma="Minuit_;K_,t" src="orig" selected="1">NNFXX-----A----</tag>
+<tag>
+<AM lemma="Minuit_;K_,t" src="orig">NNFXX-----A----</AM>
+<AM lemma="Minuit-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln95046-049-p2s2w5">
 <src.rf>manual</src.rf>

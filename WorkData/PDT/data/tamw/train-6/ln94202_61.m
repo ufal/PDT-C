@@ -30,6 +30,7 @@
 <tag>
 <AM lemma="USA_;G" src="orig">NNIPX-----A----</AM>
 <AM lemma="USA_:B_;K_,t_^(United_States_of_America)" src="auto" recommended="1">NNIPX-----A---8</AM>
+<AM lemma="USA_:B_;K_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94202-61-p1s1Aw3">
@@ -177,6 +178,10 @@
 <tag>
 <AM lemma="Martha_;G_;Y_,t" src="orig">NNFXX-----A----</AM>
 <AM lemma="Martha_;Y_,t" src="auto" recommended="1">NNFS1-----A----</AM>
+<AM lemma="Martha_;Y_,t" src="manual">NNXXX-----A----</AM>
+<AM lemma="Martha_;Y_,t" src="manual">NNFSX-----A----</AM>
+<AM lemma="Martha_;Y_,t" src="manual">NNFXX-----A----</AM>
+<AM lemma="Martha-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-ln94202-61-p1s1Aw21">
@@ -193,7 +198,10 @@
 <LM>w#w-ln94202-61-p1s1Aw22</LM>
 </w.rf>
 <form>s</form>
-<tag lemma="s-4_,t_^(saský_genitiv)" src="orig" selected="1">NNXSX-----A----</tag>
+<tag>
+<AM lemma="s-4_,t_^(saský_genitiv)" src="orig">NNXSX-----A----</AM>
+<AM lemma="s-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94202-61-p1s1Aw23">
 <src.rf>manual</src.rf>
@@ -202,7 +210,11 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>Vineyard</form>
-<tag lemma="Vineyard_;G" src="orig" selected="1">NNIXX-----A----</tag>
+<tag>
+<AM lemma="Vineyard_;G" src="orig">NNIXX-----A----</AM>
+<AM lemma="vineyard_,t" src="manual">NNXXX-----A----</AM>
+<AM lemma="Vineyard-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 </s>
 <s id="m-ln94202-61-p1s1B">
@@ -221,7 +233,10 @@
 <LM>w#w-ln94202-61-p1s1Bw2</LM>
 </w.rf>
 <form>Reuter</form>
-<tag lemma="Reuter_;K" src="orig" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Reuter_;K" src="orig">NNMS1-----A----</AM>
+<AM lemma="Reuter_;K" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 </s>
 </mdata>

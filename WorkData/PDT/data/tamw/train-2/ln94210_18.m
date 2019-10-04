@@ -55,7 +55,7 @@
 <form>Tokio</form>
 <tag>
 <AM lemma="Tokyo_;G" src="orig">NNNS1-----A----</AM>
-<AM lemma="Tokio_;G" src="auto" recommended="1">NNNS1-----A----</AM>
+<AM lemma="Tokio_;G" src="auto" recommended="1" selected="1">NNNS1-----A----</AM>
 <AM lemma="Tokio_;G" src="auto">NNNS4-----A----</AM>
 <AM lemma="Tokio_;G" src="auto">NNNS5-----A----</AM>
 </tag>
@@ -367,6 +367,8 @@
 <tag>
 <AM lemma="Mori_;K" src="orig">AAXXX----1A----</AM>
 <AM lemma="Mori_;G" src="auto" recommended="1">NNNXX-----A----</AM>
+<AM lemma="Mori_;K_,t" src="manual">NNXXX-----A----</AM>
+<AM lemma="Mori-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-ln94210-18-p2s1Bw38">
@@ -375,7 +377,10 @@
 <LM>w#w-ln94210-18-p2s1Bw38</LM>
 </w.rf>
 <form>Building</form>
-<tag lemma="Building_;K_,t" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="Building_;K_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="Building-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94210-18-p2s1Bw39">
 <src.rf>manual</src.rf>
@@ -383,7 +388,10 @@
 <LM>w#w-ln94210-18-p2s1Bw39</LM>
 </w.rf>
 <form>Co</form>
-<tag lemma="Company_:B_;K_,t_^(přev._v_názvech_cizích_firem)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="Company_:B_;K_,t_^(přev._v_názvech_cizích_firem)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="Co-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94210-18-p2s1Bw40">
 <src.rf>manual</src.rf>
@@ -473,7 +481,10 @@
 <LM>w#w-ln94210-18-p2s2w10</LM>
 </w.rf>
 <form>AP</form>
-<tag lemma="AP-3_:B_;K_,t_^(Associated_Press,_tisková_agentura)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="AP-3_:B_;K_,t_^(Associated_Press,_tisková_agentura)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="AP-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94210-18-p2s2w11">
 <src.rf>manual</src.rf>
@@ -515,7 +526,10 @@
 <LM>w#w-ln94210-18-p3s1w4</LM>
 </w.rf>
 <form>milionů</form>
-<tag lemma="milión`1000000" src="orig" selected="1">NNIP2-----A----</tag>
+<tag>
+<AM lemma="milión`1000000" src="orig">NNIP2-----A----</AM>
+<AM lemma="milion`1000000_,s_^(^DD**milión)" src="manual" selected="1">NNIP2-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94210-18-p3s1w5">
 <src.rf>manual</src.rf>
@@ -777,7 +791,10 @@
 <LM>w#w-ln94210-18-p4s1w9</LM>
 </w.rf>
 <form>milionů</form>
-<tag lemma="milión`1000000" src="orig" selected="1">NNIP2-----A----</tag>
+<tag>
+<AM lemma="milión`1000000" src="orig">NNIP2-----A----</AM>
+<AM lemma="milion`1000000_,s_^(^DD**milión)" src="manual" selected="1">NNIP2-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94210-18-p4s1w10">
 <src.rf>manual</src.rf>
@@ -809,7 +826,10 @@
 <LM>w#w-ln94210-18-p4s1w13</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-2" src="auto" selected="1">Dg-------2A----</tag>
+<tag>
+<AM lemma="hodně-2" src="auto">Dg-------2A----</AM>
+<AM lemma="hodně-3" src="manual" selected="1">Dg-------2A----</AM>
+</tag>
 </m>
 <m id="m-ln94210-18-p4s1w14">
 <src.rf>manual</src.rf>
@@ -1111,7 +1131,11 @@
 <LM>w#w-ln94210-18-p5s2w2</LM>
 </w.rf>
 <form>Mori</form>
-<tag lemma="Mori_;G" src="auto" selected="1">NNNXX-----A----</tag>
+<tag>
+<AM lemma="Mori_;G" src="auto">NNNXX-----A----</AM>
+<AM lemma="Mori_;K_,t" src="manual">NNXXX-----A----</AM>
+<AM lemma="Mori_;K" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94210-18-p5s2w3">
 <src.rf>manual</src.rf>
@@ -1194,7 +1218,7 @@
 <tag>
 <AM lemma="Tokyo_;G" src="orig">NNNS6-----A----</AM>
 <AM lemma="Tokio_;G" src="auto">NNNS3-----A----</AM>
-<AM lemma="Tokio_;G" src="auto" recommended="1">NNNS6-----A----</AM>
+<AM lemma="Tokio_;G" src="auto" recommended="1" selected="1">NNNS6-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94210-18-p5s2w13">

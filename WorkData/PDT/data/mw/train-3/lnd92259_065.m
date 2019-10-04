@@ -253,7 +253,10 @@
 <LM>w#w-lnd92259-065-p1s2w12</LM>
 </w.rf>
 <form>J</form>
-<tag lemma="J-0_:B_;Y" src="orig" selected="1">NNMXX-----A---8</tag>
+<tag>
+<AM lemma="J-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
+<AM lemma="J-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd92259-065-p1s2w13">
 <src.rf>manual</src.rf>
@@ -556,6 +559,7 @@
 <tag>
 <AM lemma="USA_;G" src="orig">NNIPX-----A----</AM>
 <AM lemma="USA_:B_;K_,t_^(United_States_of_America)" src="auto" recommended="1">NNIPX-----A---8</AM>
+<AM lemma="USA_:B_;K_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92259-065-p2s1w13">
@@ -596,7 +600,10 @@
 <LM>w#w-lnd92259-065-p2s1w17</LM>
 </w.rf>
 <form>N</form>
-<tag lemma="N-0_:B_;Y" src="orig" selected="1">NNMXX-----A---8</tag>
+<tag>
+<AM lemma="N-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
+<AM lemma="N-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd92259-065-p2s1w18">
 <src.rf>manual</src.rf>
@@ -741,7 +748,10 @@
 <LM>w#w-lnd92259-065-p2s1w35</LM>
 </w.rf>
 <form>J</form>
-<tag lemma="J-0_:B_;Y" src="orig" selected="1">NNMXX-----A---8</tag>
+<tag>
+<AM lemma="J-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
+<AM lemma="J-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd92259-065-p2s1w36">
 <src.rf>manual</src.rf>
@@ -832,6 +842,7 @@
 <tag>
 <AM lemma="USA_;G" src="orig">NNIPX-----A----</AM>
 <AM lemma="USA_:B_;K_,t_^(United_States_of_America)" src="auto" recommended="1">NNIPX-----A---8</AM>
+<AM lemma="USA_:B_;K_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92259-065-p2s1w48">
@@ -970,7 +981,10 @@
 <LM>w#w-lnd92259-065-p3s1w5</LM>
 </w.rf>
 <form>F</form>
-<tag lemma="F-0_:B_;Y" src="orig" selected="1">NNMXX-----A---8</tag>
+<tag>
+<AM lemma="F-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
+<AM lemma="F-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd92259-065-p3s1w6">
 <src.rf>manual</src.rf>
@@ -1205,7 +1219,10 @@
 <LM>w#w-lnd92259-065-p3s2w8</LM>
 </w.rf>
 <form>F</form>
-<tag lemma="F-0_:B_;Y" src="orig" selected="1">NNMXX-----A---8</tag>
+<tag>
+<AM lemma="F-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
+<AM lemma="F-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd92259-065-p3s2w9">
 <src.rf>manual</src.rf>
@@ -1441,7 +1458,10 @@
 <LM>w#w-lnd92259-065-p4s2w15</LM>
 </w.rf>
 <form>NDP</form>
-<tag lemma="NDP-2_:B_;K_,t_^(National_Democratic_Party)" src="auto" selected="1">NNFXX-----A----</tag>
+<tag>
+<AM lemma="NDP-2_:B_;K_,t_^(National_Democratic_Party)" src="auto">NNFXX-----A----</AM>
+<AM lemma="NDP-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd92259-065-p4s2w16">
 <src.rf>manual</src.rf>
@@ -1619,7 +1639,10 @@
 <LM>w#w-lnd92259-065-p5s1w6</LM>
 </w.rf>
 <form>Srí</form>
-<tag lemma="Srí_;G" src="orig" selected="1">AAFXX----1A----</tag>
+<tag>
+<AM lemma="Srí_;G" src="orig">AAFXX----1A----</AM>
+<AM lemma="Srí-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-lnd92259-065-p5s1w7">
 <src.rf>manual</src.rf>
@@ -2035,6 +2058,7 @@
 <AM lemma="Team_;m_,t" src="orig">AAXXX----1A----</AM>
 <AM lemma="team_,t" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="team_,t" src="auto">NNIS4-----A----</AM>
+<AM lemma="Team-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-lnd92259-065-p6s1w7">
@@ -2043,7 +2067,10 @@
 <LM>w#w-lnd92259-065-p6s1w7</LM>
 </w.rf>
 <form>Spirit</form>
-<tag lemma="Spirit_;m_,t" src="orig" selected="1">NNISX-----A----</tag>
+<tag>
+<AM lemma="Spirit_;m_,t" src="orig">NNISX-----A----</AM>
+<AM lemma="Spirit-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-lnd92259-065-p6s1w8">
 <src.rf>manual</src.rf>
@@ -2067,7 +2094,10 @@
 <LM>w#w-lnd92259-065-p6s1w10</LM>
 </w.rf>
 <form>KLDR</form>
-<tag lemma="KLDR_:B_;G_^(Korejská_lidově-demokratická_republika)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="KLDR_:B_;G_^(Korejská_lidově-demokratická_republika)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="KLDR_:B_;G_^(Korejská_lidově-demokratická_republika)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92259-065-p6s1w11">
 <src.rf>manual</src.rf>
@@ -2181,7 +2211,10 @@
 <LM>w#w-lnd92259-065-p6s2w7</LM>
 </w.rf>
 <form>KLDR</form>
-<tag lemma="KLDR_:B_;G_^(Korejská_lidově-demokratická_republika)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="KLDR_:B_;G_^(Korejská_lidově-demokratická_republika)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="KLDR_:B_;G_^(Korejská_lidově-demokratická_republika)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92259-065-p6s2w8">
 <src.rf>manual</src.rf>
@@ -2303,7 +2336,10 @@
 <LM>w#w-lnd92259-065-p6s3w1</LM>
 </w.rf>
 <form>KLDR</form>
-<tag lemma="KLDR_:B_;G_^(Korejská_lidově-demokratická_republika)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="KLDR_:B_;G_^(Korejská_lidově-demokratická_republika)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="KLDR_:B_;G_^(Korejská_lidově-demokratická_republika)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92259-065-p6s3w2">
 <src.rf>manual</src.rf>
@@ -2383,7 +2419,10 @@
 <LM>w#w-lnd92259-065-p6s3w11</LM>
 </w.rf>
 <form>tzv</form>
-<tag lemma="takzvaný_:B" src="orig" selected="1">AAXXX----1A---8</tag>
+<tag>
+<AM lemma="takzvaný_:B" src="orig">AAXXX----1A---8</AM>
+<AM lemma="takzvaný" src="manual" selected="1">AAXXX----1A---8</AM>
+</tag>
 </m>
 <m id="m-lnd92259-065-p6s3w12">
 <src.rf>manual</src.rf>
@@ -2839,7 +2878,10 @@
 <LM>w#w-lnd92259-065-p7s4w9</LM>
 </w.rf>
 <form>UNICEF</form>
-<tag lemma="UNICEF_:B_;K" src="auto" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="UNICEF_:B_;K" src="auto">NNXXX-----A---8</AM>
+<AM lemma="UNICEF-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd92259-065-p7s4w10">
 <src.rf>manual</src.rf>
@@ -3177,7 +3219,10 @@
 <LM>w#w-lnd92259-065-p8s1w31</LM>
 </w.rf>
 <form>HIV</form>
-<tag lemma="HIV_:B_;L_;U_^(lidský_virus_způsobující_AIDS)" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="HIV_:B_;L_;U_^(lidský_virus_způsobující_AIDS)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="HIV_:B_;L_;U_^(lidský_virus_způsobující_AIDS)" src="manual" selected="1">NNIXX-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92259-065-p8s1w32">
 <src.rf>manual</src.rf>
@@ -3201,7 +3246,10 @@
 <LM>w#w-lnd92259-065-p8s1w34</LM>
 </w.rf>
 <form>AIDS</form>
-<tag lemma="AIDS_:B_;U_,x_^(Syndrom_získaného_selhání_imunity)" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="AIDS_:B_;U_,x_^(Syndrom_získaného_selhání_imunity)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="AIDS-2_:B_;U_^(Syndrom_získaného_selhání_imunity)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92259-065-p8s1w35">
 <src.rf>manual</src.rf>
@@ -3389,7 +3437,10 @@
 <LM>w#w-lnd92259-065-p9s1w4</LM>
 </w.rf>
 <form>Lucase</form>
-<tag lemma="Lucas_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag>
+<AM lemma="Lucas_;S" src="orig">NNMS2-----A----</AM>
+<AM lemma="Lucas_;S_;Y" src="manual" selected="1">NNMS2-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92259-065-p9s1w5">
 <src.rf>manual</src.rf>

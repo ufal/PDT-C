@@ -27,7 +27,10 @@
 <LM>w#w-ln94200-117-p1s1w2</LM>
 </w.rf>
 <form>Muslimů</form>
-<tag lemma="muslim" src="orig" selected="1">NNMP2-----A----</tag>
+<tag>
+<AM lemma="muslim" src="orig">NNMP2-----A----</AM>
+<AM lemma="Muslim_;E" src="manual" selected="1">NNMP2-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94200-117-p1s1w3">
 <src.rf>manual</src.rf>
@@ -146,7 +149,7 @@
 <tag>
 <AM lemma="tedy" src="orig">Db-------------</AM>
 <AM lemma="tedy-1" src="auto">TT-------------</AM>
-<AM lemma="tedy-2" src="auto" recommended="1">J^-------------</AM>
+<AM lemma="tedy-2" src="auto" recommended="1" selected="1">J^-------------</AM>
 </tag>
 </m>
 <m id="m-ln94200-117-p2s1Bw10">
@@ -463,7 +466,10 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>A</form>
-<tag lemma="A-0_:B_;Y" src="orig" selected="1">NNMXX-----A---8</tag>
+<tag>
+<AM lemma="A-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
+<AM lemma="A-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94200-117-p2s2w17">
 <src.rf>manual</src.rf>

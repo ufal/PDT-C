@@ -617,7 +617,10 @@
 <LM>w#w-mf920902-039-p2s2w55</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-2" src="auto" selected="1">Dg-------2A----</tag>
+<tag>
+<AM lemma="hodně-2" src="auto">Dg-------2A----</AM>
+<AM lemma="hodně-3" src="manual" selected="1">Dg-------2A----</AM>
+</tag>
 </m>
 <m id="m-mf920902-039-p2s2w56">
 <src.rf>manual</src.rf>
@@ -1773,7 +1776,7 @@
 <form>ovšem</form>
 <tag>
 <AM lemma="ovšem-1_^(avšak,_však;_odporovací_spojka)" src="orig">J^-------------</AM>
-<AM lemma="ovšem" src="auto" recommended="1">TT-------------</AM>
+<AM lemma="ovšem" src="auto" recommended="1" selected="1">TT-------------</AM>
 </tag>
 </m>
 <m id="m-mf920902-039-p2s9w5">
@@ -3521,6 +3524,7 @@
 <tag>
 <AM lemma="USA_;G" src="orig">NNIPX-----A----</AM>
 <AM lemma="USA_:B_;K_,t_^(United_States_of_America)" src="auto" recommended="1">NNIPX-----A---8</AM>
+<AM lemma="USA_:B_;K_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-mf920902-039-p2s20Aw20">
@@ -4563,7 +4567,7 @@
 <form>Ovšem</form>
 <tag>
 <AM lemma="ovšem-1_^(avšak,_však;_odporovací_spojka)" src="orig">J^-------------</AM>
-<AM lemma="ovšem" src="auto" recommended="1">TT-------------</AM>
+<AM lemma="ovšem" src="auto" recommended="1" selected="1">TT-------------</AM>
 </tag>
 </m>
 <m id="m-mf920902-039-p2s26w3">
@@ -4918,7 +4922,7 @@
 <form>totiž</form>
 <tag>
 <AM lemma="totiž" src="orig">Db-------------</AM>
-<AM lemma="totiž-1" src="auto" recommended="1">J^-------------</AM>
+<AM lemma="totiž-1" src="auto" recommended="1" selected="1">J^-------------</AM>
 <AM lemma="totiž-2" src="auto">TT-------------</AM>
 </tag>
 </m>
@@ -5111,7 +5115,10 @@
 <LM>w#w-mf920902-039-p2s33w3</LM>
 </w.rf>
 <form>kapitalismus</form>
-<tag lemma="kapitalismus" src="orig" selected="1">NNIS4-----A----</tag>
+<tag>
+<AM lemma="kapitalismus" src="orig">NNIS4-----A----</AM>
+<AM lemma="kapitalismus_,s_^(^DD**kapitalizmus)" src="manual" selected="1">NNIS4-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920902-039-p2s33w4">
 <src.rf>manual</src.rf>
@@ -5687,7 +5694,10 @@
 <LM>w#w-mf920902-039-p4s1w3</LM>
 </w.rf>
 <form>ARCHÍV</form>
-<tag lemma="archív" src="orig" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="archív" src="orig">NNIS1-----A----</AM>
+<AM lemma="archív_,s_^(^DD**archiv)" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 </s>
 </mdata>

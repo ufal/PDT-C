@@ -990,6 +990,7 @@
 <AM lemma="Lux_;S" src="auto">NNMS1-----A----</AM>
 <AM lemma="lux" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="lux" src="auto">NNIS4-----A----</AM>
+<AM lemma="Lux-2_;K" src="manual" selected="1">NNIXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95045-097-p2s6w5">
@@ -1503,7 +1504,7 @@
 <form>třeba</form>
 <tag>
 <AM lemma="třeba-1" src="orig">ACNS------A----</AM>
-<AM lemma="třeba-2" src="auto" recommended="1">Db-------------</AM>
+<AM lemma="třeba-2" src="auto" recommended="1" selected="1">Db-------------</AM>
 <AM lemma="třeba-3" src="auto">TT-------------</AM>
 </tag>
 </m>

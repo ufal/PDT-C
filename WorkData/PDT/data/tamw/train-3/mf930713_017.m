@@ -109,7 +109,10 @@
 <LM>w#w-mf930713-017-p2s1Aw3</LM>
 </w.rf>
 <form>čen</form>
-<tag lemma="čen-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="čen-99_:B_;S" src="orig">NNXXX-----A---8</AM>
+<AM lemma="čen-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930713-017-p2s1Aw4">
 <src.rf>manual</src.rf>
@@ -196,6 +199,7 @@
 <AM lemma="BVV_:B_;K" src="auto">NNIPX-----A---8</AM>
 <AM lemma="BVV_:B_;K" src="auto" recommended="1">NNIXX-----A---8</AM>
 <AM lemma="BVV_:B_;K" src="auto">NNNXX-----A---8</AM>
+<AM lemma="BVV-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930713-017-p2s1Bw9">
@@ -207,6 +211,7 @@
 <tag>
 <AM lemma="Prague_;K_,t" src="orig">AAXXX----1A----</AM>
 <AM lemma="Prague_;G" src="auto" recommended="1">NNXXX-----A----</AM>
+<AM lemma="Prague-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-mf930713-017-p2s1Bw10">
@@ -215,7 +220,10 @@
 <LM>w#w-mf930713-017-p2s1Bw10</LM>
 </w.rf>
 <form>Open</form>
-<tag lemma="Open-1_,t_^(v_názvu_např._sport._soutěží,_&quot;otevřený&quot;)" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="Open-1_,t_^(v_názvu_např._sport._soutěží,_&quot;otevřený&quot;)" src="orig">AAXXX----1A----</AM>
+<AM lemma="Open-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-mf930713-017-p2s1Bw11">
 <src.rf>manual</src.rf>
@@ -263,7 +271,10 @@
 <LM>w#w-mf930713-017-p2s1Bw16</LM>
 </w.rf>
 <form>dolarů</form>
-<tag lemma="dolar_;b" src="orig" selected="1">NNIP2-----A----</tag>
+<tag>
+<AM lemma="dolar_;b" src="orig">NNIP2-----A----</AM>
+<AM lemma="dolar" src="manual" selected="1">NNIP2-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930713-017-p2s1Bw17">
 <src.rf>manual</src.rf>
@@ -473,7 +484,7 @@
 <form>vymetat</form>
 <tag>
 <AM lemma="vymetat-1_:T_:W_^(obilí_vymetalo)" src="orig">Vf--------A----</AM>
-<AM lemma="vymetat-1_:T_^(smetí)" src="auto" recommended="1">Vf--------A----</AM>
+<AM lemma="vymetat-1_:T_^(smetí)" src="auto" recommended="1" selected="1">Vf--------A----</AM>
 <AM lemma="vymetat-2_:T_^(vymítat_ďábla)" src="auto">Vf--------A----</AM>
 </tag>
 </m>
@@ -719,7 +730,10 @@
 <LM>w#w-mf930713-017-p2s3w8</LM>
 </w.rf>
 <form>los</form>
-<tag lemma="los-1_^(zvíře)" src="orig" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="los-1_^(zvíře)" src="orig">NNMS1-----A----</AM>
+<AM lemma="los-2_^(výherní)" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930713-017-p2s3w9">
 <src.rf>manual</src.rf>
@@ -779,7 +793,7 @@
 <form>totiž</form>
 <tag>
 <AM lemma="totiž" src="orig">Db-------------</AM>
-<AM lemma="totiž-1" src="auto" recommended="1">J^-------------</AM>
+<AM lemma="totiž-1" src="auto" recommended="1" selected="1">J^-------------</AM>
 <AM lemma="totiž-2" src="auto">TT-------------</AM>
 </tag>
 </m>
@@ -927,7 +941,7 @@
 <form>zbude</form>
 <tag>
 <AM lemma="zbýt_,h_,x" src="orig">VB-S---3P-AA---</AM>
-<AM lemma="zbýt" src="auto" recommended="1">VB-S---3P-AA--1</AM>
+<AM lemma="zbýt" src="auto" recommended="1" selected="1">VB-S---3P-AA--1</AM>
 </tag>
 </m>
 <m id="m-mf930713-017-p2s4w25">
@@ -1318,7 +1332,10 @@
 <LM>w#w-mf930713-017-p2s8w17</LM>
 </w.rf>
 <form>dolarů</form>
-<tag lemma="dolar_;b" src="orig" selected="1">NNIP2-----A----</tag>
+<tag>
+<AM lemma="dolar_;b" src="orig">NNIP2-----A----</AM>
+<AM lemma="dolar" src="manual" selected="1">NNIP2-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930713-017-p2s8w18">
 <src.rf>manual</src.rf>
@@ -2119,6 +2136,7 @@
 <AM lemma="BVV_:B_;K" src="auto">NNIPX-----A---8</AM>
 <AM lemma="BVV_:B_;K" src="auto" recommended="1">NNIXX-----A---8</AM>
 <AM lemma="BVV_:B_;K" src="auto">NNNXX-----A---8</AM>
+<AM lemma="BVV-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930713-017-p2s14w4">
@@ -2130,6 +2148,7 @@
 <tag>
 <AM lemma="Prague_;K_,t" src="orig">AAXXX----1A----</AM>
 <AM lemma="Prague_;G" src="auto" recommended="1">NNXXX-----A----</AM>
+<AM lemma="Prague-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-mf930713-017-p2s14w5">
@@ -2138,7 +2157,10 @@
 <LM>w#w-mf930713-017-p2s14w5</LM>
 </w.rf>
 <form>Open</form>
-<tag lemma="Open-1_,t_^(v_názvu_např._sport._soutěží,_&quot;otevřený&quot;)" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="Open-1_,t_^(v_názvu_např._sport._soutěží,_&quot;otevřený&quot;)" src="orig">AAXXX----1A----</AM>
+<AM lemma="Open-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-mf930713-017-p2s14w6">
 <src.rf>manual</src.rf>
@@ -2194,7 +2216,10 @@
 <LM>w#w-mf930713-017-p2s14w12</LM>
 </w.rf>
 <form>h</form>
-<tag lemma="hodina_:B" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="hodina_:B" src="orig">NNFXX-----A---8</AM>
+<AM lemma="hodina" src="manual" selected="1">NNFXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-mf930713-017-p2s14w13">
 <src.rf>manual</src.rf>

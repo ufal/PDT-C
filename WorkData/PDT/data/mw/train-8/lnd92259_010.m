@@ -303,7 +303,10 @@
 <LM>w#w-lnd92259-010-p2s2w3</LM>
 </w.rf>
 <form>jen</form>
-<tag lemma="jen-1" src="auto" selected="1">TT-------------</tag>
+<tag>
+<AM lemma="jen-1" src="auto">TT-------------</AM>
+<AM lemma="jen-4_^(pouze)" src="manual" selected="1">Db-------------</AM>
+</tag>
 </m>
 <m id="m-lnd92259-010-p2s2w4">
 <src.rf>manual</src.rf>
@@ -472,7 +475,10 @@
 <LM>w#w-lnd92259-010-p2s2w24</LM>
 </w.rf>
 <form>ať</form>
-<tag lemma="ať-2" src="auto" selected="1">TT-------------</tag>
+<tag>
+<AM lemma="ať-2" src="auto">TT-------------</AM>
+<AM lemma="ať-1" src="manual" selected="1">J,-------------</AM>
+</tag>
 </m>
 <m id="m-lnd92259-010-p2s2w25">
 <src.rf>manual</src.rf>
@@ -522,7 +528,7 @@
 <form>cokoliv</form>
 <tag>
 <AM lemma="cokoliv" src="orig">PZ--1----------</AM>
-<AM lemma="cokoli" src="auto" recommended="1">PZ--1---------1</AM>
+<AM lemma="cokoli" src="auto" recommended="1" selected="1">PZ--1---------1</AM>
 <AM lemma="cokoli" src="auto">PZ--4---------1</AM>
 <AM lemma="cokoli" src="auto">PZ--5---------1</AM>
 </tag>
@@ -1311,7 +1317,10 @@
 <LM>w#w-lnd92259-010-p3s5w3</LM>
 </w.rf>
 <form>li</form>
-<tag lemma="li-1" src="auto" selected="1">TT-------------</tag>
+<tag>
+<AM lemma="li-1" src="auto">TT-------------</AM>
+<AM lemma="li-2" src="manual" selected="1">J,-------------</AM>
+</tag>
 </m>
 <m id="m-lnd92259-010-p3s5w4">
 <src.rf>manual</src.rf>
@@ -2045,7 +2054,7 @@
 <form>nejspíš</form>
 <tag>
 <AM lemma="spíše" src="orig">Dg-------3A----</AM>
-<AM lemma="nejspíš" src="auto">TT-------------</AM>
+<AM lemma="nejspíš" src="auto" selected="1">TT-------------</AM>
 <AM lemma="spíš" src="auto" recommended="1">Dg-------3A----</AM>
 </tag>
 </m>
@@ -2361,7 +2370,10 @@
 <LM>w#w-lnd92259-010-p4s5w4</LM>
 </w.rf>
 <form>jen</form>
-<tag lemma="jen-1" src="auto" selected="1">TT-------------</tag>
+<tag>
+<AM lemma="jen-1" src="auto">TT-------------</AM>
+<AM lemma="jen-4_^(pouze)" src="manual" selected="1">Db-------------</AM>
+</tag>
 </m>
 <m id="m-lnd92259-010-p4s5w5">
 <src.rf>manual</src.rf>
@@ -2709,7 +2721,10 @@
 <LM>w#w-lnd92259-010-p5s2w6</LM>
 </w.rf>
 <form>víc</form>
-<tag lemma="hodně-2" src="auto" selected="1">Dg-------2A---1</tag>
+<tag>
+<AM lemma="hodně-2" src="auto">Dg-------2A---1</AM>
+<AM lemma="hodně-3" src="manual" selected="1">Dg-------2A---1</AM>
+</tag>
 </m>
 <m id="m-lnd92259-010-p5s2w7">
 <src.rf>manual</src.rf>

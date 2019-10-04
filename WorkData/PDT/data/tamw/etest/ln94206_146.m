@@ -54,6 +54,9 @@
 <tag>
 <AM lemma="super_;R" src="orig">NNIS1-----A----</AM>
 <AM lemma="super_,h_,t" src="auto" recommended="1">AAXXX----1A----</AM>
+<AM lemma="super_,h" src="manual">AAXXX----1A----</AM>
+<AM lemma="super-1_;R" src="manual">NNXXX-----A----</AM>
+<AM lemma="super-1_;R" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 </s>
@@ -204,7 +207,7 @@
 <form>Kaučuk</form>
 <tag>
 <AM lemma="Kaučuk_;K" src="orig">NNIS1-----A----</AM>
-<AM lemma="kaučuk" src="auto" recommended="1">NNIS1-----A----</AM>
+<AM lemma="kaučuk" src="auto" recommended="1" selected="1">NNIS1-----A----</AM>
 <AM lemma="kaučuk" src="auto">NNIS4-----A----</AM>
 </tag>
 </m>
@@ -307,6 +310,7 @@
 <tag>
 <AM lemma="Kč" src="orig">NNFXX-----A----</AM>
 <AM lemma="Kč_:B" src="auto" recommended="1">NNFXX-----A---8</AM>
+<AM lemma="Kč_:B" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94206-146-p2s2w11">
@@ -323,7 +327,10 @@
 <LM>w#w-ln94206-146-p2s2w12</LM>
 </w.rf>
 <form>t</form>
-<tag lemma="t-1`tuna_:B" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="t-1`tuna_:B" src="orig">NNFXX-----A---8</AM>
+<AM lemma="tuna" src="manual" selected="1">NNFXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln94206-146-p2s2w13">
 <src.rf>manual</src.rf>
@@ -432,6 +439,9 @@
 <tag>
 <AM lemma="super_;R" src="orig">NNIS1-----A----</AM>
 <AM lemma="super_,h_,t" src="auto" recommended="1">AAXXX----1A----</AM>
+<AM lemma="super_,h" src="manual">AAXXX----1A----</AM>
+<AM lemma="super-1_;R" src="manual">NNXXX-----A----</AM>
+<AM lemma="super-1_;R" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94206-146-p2s3w13">
@@ -894,7 +904,10 @@
 <LM>w#w-ln94206-146-p4s2w15</LM>
 </w.rf>
 <form>V</form>
-<tag lemma="V-0_:B_;Y" src="orig" selected="1">NNMXX-----A---8</tag>
+<tag>
+<AM lemma="V-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
+<AM lemma="V-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94206-146-p4s2w16">
 <src.rf>manual</src.rf>

@@ -103,7 +103,10 @@
 <LM>w#w-ln95048-085-p2s1Bw6</LM>
 </w.rf>
 <form>neběžel</form>
-<tag lemma="běžet" src="orig" selected="1">VpYS---XR-NA---</tag>
+<tag>
+<AM lemma="běžet" src="orig">VpYS---XR-NA---</AM>
+<AM lemma="běžet_:T" src="manual" selected="1">VpYS---XR-NA---</AM>
+</tag>
 </m>
 <m id="m-ln95048-085-p2s1Bw7">
 <src.rf>manual</src.rf>
@@ -518,6 +521,7 @@
 <tag>
 <AM lemma="Prague_;m_,t" src="orig">AAXXX----1A----</AM>
 <AM lemma="Prague_;G" src="auto" recommended="1">NNXXX-----A----</AM>
+<AM lemma="Prague-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-ln95048-085-p2s3w11">
@@ -530,6 +534,7 @@
 <AM lemma="International-2_;K_,t" src="orig">NNXXX-----A---1</AM>
 <AM lemma="International_,t" src="auto">NNISX-----A----</AM>
 <AM lemma="international_,t" src="auto" recommended="1">AAXXX----1A----</AM>
+<AM lemma="International-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-ln95048-085-p2s3w12">
@@ -542,6 +547,7 @@
 <AM lemma="Maratón_;m" src="orig">NNIS1-----A----</AM>
 <AM lemma="maratón" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="maratón" src="auto">NNIS4-----A----</AM>
+<AM lemma="Maratón-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-ln95048-085-p2s3w13">
@@ -710,7 +716,10 @@
 <LM>w#w-ln95048-085-p2s3w33</LM>
 </w.rf>
 <form>European</form>
-<tag lemma="European_;K_,t" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="European_;K_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="European-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln95048-085-p2s3w34">
 <src.rf>manual</src.rf>
@@ -722,6 +731,7 @@
 <AM lemma="Business_;K_,t" src="orig">AAXXX----1A----</AM>
 <AM lemma="business_,t" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="business_,t" src="auto">NNIS4-----A----</AM>
+<AM lemma="Business-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-ln95048-085-p2s3w35">
@@ -730,7 +740,10 @@
 <LM>w#w-ln95048-085-p2s3w35</LM>
 </w.rf>
 <form>Solutions</form>
-<tag lemma="Solution_;K_,t" src="orig" selected="1">NNNPX-----A----</tag>
+<tag>
+<AM lemma="Solution_;K_,t" src="orig">NNNPX-----A----</AM>
+<AM lemma="Solutions-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln95048-085-p2s3w36">
 <src.rf>manual</src.rf>
@@ -820,7 +833,10 @@
 <LM>w#w-ln95048-085-p2s4w4</LM>
 </w.rf>
 <form>nesou</form>
-<tag lemma="nést" src="orig" selected="1">VB-P---3P-AA---</tag>
+<tag>
+<AM lemma="nést" src="orig">VB-P---3P-AA---</AM>
+<AM lemma="nést_:W" src="manual" selected="1">VB-P---3P-AA---</AM>
+</tag>
 </m>
 <m id="m-ln95048-085-p2s4w5">
 <src.rf>manual</src.rf>
@@ -996,7 +1012,10 @@
 <LM>w#w-ln95048-085-p2s4w26</LM>
 </w.rf>
 <form>prize</form>
-<tag lemma="prize_,t" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="prize_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="prize-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln95048-085-p2s4w27">
 <src.rf>manual</src.rf>
@@ -1004,7 +1023,10 @@
 <LM>w#w-ln95048-085-p2s4w27</LM>
 </w.rf>
 <form>money</form>
-<tag lemma="money_,t" src="orig" selected="1">NNIPX-----A----</tag>
+<tag>
+<AM lemma="money_,t" src="orig">NNIPX-----A----</AM>
+<AM lemma="money-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln95048-085-p2s4w28">
 <src.rf>manual</src.rf>
@@ -1184,7 +1206,7 @@
 <form>nekalou</form>
 <tag>
 <AM lemma="nekalý" src="orig">AAFS4----1A----</AM>
-<AM lemma="kalý" src="auto" recommended="1">AAFS4----1N----</AM>
+<AM lemma="kalý" src="auto" recommended="1" selected="1">AAFS4----1N----</AM>
 <AM lemma="kalý" src="auto">AAFS7----1N----</AM>
 </tag>
 </m>

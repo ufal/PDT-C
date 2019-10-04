@@ -93,7 +93,10 @@
 <LM>w#w-mf930708-048-p2s1w8</LM>
 </w.rf>
 <form>UNESCO</form>
-<tag lemma="Unesco_:B_;K_,t" src="orig" selected="1">NNNXX-----A----</tag>
+<tag>
+<AM lemma="Unesco_:B_;K_,t" src="orig">NNNXX-----A----</AM>
+<AM lemma="UNESCO_:B_^(United_Nations_Educational_Scientific_and_Cultural_Organization)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930708-048-p2s1w9">
 <src.rf>manual</src.rf>
@@ -351,7 +354,10 @@
 <LM>w#w-mf930708-048-p2s2w25</LM>
 </w.rf>
 <form>UNESCO</form>
-<tag lemma="UNESCO_:B" src="auto" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="UNESCO_:B" src="auto">NNXXX-----A---8</AM>
+<AM lemma="UNESCO_:B_^(United_Nations_Educational_Scientific_and_Cultural_Organization)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930708-048-p2s2w26">
 <src.rf>manual</src.rf>

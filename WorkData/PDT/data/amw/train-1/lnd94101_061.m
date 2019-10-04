@@ -291,6 +291,7 @@
 <AM lemma="Gemelli_;K" src="orig">NNNXX-----A----</AM>
 <AM lemma="Gemelli_;S" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Gemelli_;S" src="auto">NNMS5-----A----</AM>
+<AM lemma="Gemelli-2_;K" src="manual" selected="1">NNNXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94101-061-p1s3w25">
@@ -705,7 +706,10 @@
 <LM>w#w-lnd94101-061-p1s6w8</LM>
 </w.rf>
 <form>popřel</form>
-<tag lemma="popřít" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag>
+<AM lemma="popřít" src="orig">VpYS---XR-AA---</AM>
+<AM lemma="popřít_:W" src="manual" selected="1">VpYS---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-lnd94101-061-p1s6w9">
 <src.rf>manual</src.rf>

@@ -183,7 +183,7 @@
 <form>nit</form>
 <tag>
 <AM lemma="nit" src="orig">NNIS1-----A----</AM>
-<AM lemma="nit" src="auto" recommended="1">NNFS1-----A---1</AM>
+<AM lemma="nit" src="auto" recommended="1" selected="1">NNFS1-----A---1</AM>
 <AM lemma="nit" src="auto">NNFS4-----A---1</AM>
 </tag>
 </m>
@@ -349,7 +349,7 @@
 <form>vůbec</form>
 <tag>
 <AM lemma="vůbec" src="orig">Db-------------</AM>
-<AM lemma="vůbec" src="auto" recommended="1">TT-------------</AM>
+<AM lemma="vůbec" src="auto" recommended="1" selected="1">TT-------------</AM>
 </tag>
 </m>
 <m id="m-mf930702-113-p2s2w12">
@@ -520,7 +520,10 @@
 <LM>w#w-mf930702-113-p2s3w9</LM>
 </w.rf>
 <form>Aristide</form>
-<tag lemma="Aristide_;Y_,t" src="auto" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Aristide_;Y_,t" src="auto">NNMS1-----A----</AM>
+<AM lemma="Aristide_;S_;Y_,t" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930702-113-p2s3w10">
 <src.rf>manual</src.rf>
@@ -892,7 +895,10 @@
 <LM>w#w-mf930702-113-p3s2w26</LM>
 </w.rf>
 <form>OAS</form>
-<tag lemma="oáza" src="orig" selected="1">NNFP2-----A----</tag>
+<tag>
+<AM lemma="oáza" src="orig">NNFP2-----A----</AM>
+<AM lemma="OAS-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-mf930702-113-p3s2w27">
 <src.rf>manual</src.rf>
@@ -993,7 +999,7 @@
 <tag>
 <AM lemma="přece" src="orig">Db-------------</AM>
 <AM lemma="přece-1" src="auto" recommended="1">J^-------------</AM>
-<AM lemma="přece-2" src="auto">TT-------------</AM>
+<AM lemma="přece-2" src="auto" selected="1">TT-------------</AM>
 </tag>
 </m>
 <m id="m-mf930702-113-p4s1w11">
@@ -1052,7 +1058,10 @@
 <LM>w#w-mf930702-113-p4s2w3</LM>
 </w.rf>
 <form>New</form>
-<tag lemma="New-1_;G_,t_^(součást_míst._jmen)" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="New-1_;G_,t_^(součást_míst._jmen)" src="orig">AAXXX----1A----</AM>
+<AM lemma="New-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-mf930702-113-p4s2w4">
 <src.rf>manual</src.rf>
@@ -1068,7 +1077,10 @@
 <LM>w#w-mf930702-113-p4s2w5</LM>
 </w.rf>
 <form>přijel</form>
-<tag lemma="přijet" src="auto" selected="1">VpYS---XR-AA---</tag>
+<tag>
+<AM lemma="přijet" src="auto">VpYS---XR-AA---</AM>
+<AM lemma="přijet_:W" src="manual" selected="1">VpYS---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-mf930702-113-p4s2w6">
 <src.rf>manual</src.rf>
@@ -1100,7 +1112,10 @@
 <LM>w#w-mf930702-113-p4s2w9</LM>
 </w.rf>
 <form>Aristide</form>
-<tag lemma="Aristide_;Y_,t" src="auto" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Aristide_;Y_,t" src="auto">NNMS1-----A----</AM>
+<AM lemma="Aristide_;S_;Y_,t" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930702-113-p4s2w10">
 <src.rf>manual</src.rf>
@@ -1196,7 +1211,11 @@
 <LM>w#w-mf930702-113-p4s2w21</LM>
 </w.rf>
 <form>Aristide</form>
-<tag lemma="Aristide_;Y_,t" src="auto" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Aristide_;Y_,t" src="auto">NNMS1-----A----</AM>
+<AM lemma="Aristide_S_;Y_,t" src="manual">NNMS1-----A----</AM>
+<AM lemma="Aristide_;S_;Y_,t" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930702-113-p4s2w22">
 <src.rf>manual</src.rf>
@@ -1303,6 +1322,7 @@
 <AM lemma="port" src="auto" recommended="1">NNIS4-----A----</AM>
 <AM lemma="porta" src="auto">NNFP2-----A----</AM>
 <AM lemma="porto" src="auto">NNNP2-----A----</AM>
+<AM lemma="Port-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-mf930702-113-p4s4w6">
@@ -1322,6 +1342,7 @@
 <tag>
 <AM lemma="au-2_,t" src="orig">RR--X----------</AM>
 <AM lemma="au" src="auto" recommended="1">II-------------</AM>
+<AM lemma="au-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-mf930702-113-p4s4w8">
@@ -1348,6 +1369,7 @@
 <AM lemma="princ" src="auto">NNMP4-----A----</AM>
 <AM lemma="princ" src="auto">NNMS2-----A----</AM>
 <AM lemma="princ" src="auto">NNMS4-----A----</AM>
+<AM lemma="Prince-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-mf930702-113-p4s4w10">
@@ -1462,7 +1484,10 @@
 <LM>w#w-mf930702-113-p4s5w13</LM>
 </w.rf>
 <form>Aristidovi</form>
-<tag lemma="Aristid_;Y" src="orig" selected="1">NNMS3-----A----</tag>
+<tag>
+<AM lemma="Aristid_;Y" src="orig">NNMS3-----A----</AM>
+<AM lemma="Aristide_;S_;Y_,t" src="manual" selected="1">NNMS3-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930702-113-p4s5w14">
 <src.rf>manual</src.rf>
@@ -1880,7 +1905,10 @@
 <LM>w#w-mf930702-113-p4s7w18</LM>
 </w.rf>
 <form>Aristidem</form>
-<tag lemma="Aristid_;Y" src="orig" selected="1">NNMS7-----A----</tag>
+<tag>
+<AM lemma="Aristid_;Y" src="orig">NNMS7-----A----</AM>
+<AM lemma="Aristide_;S_;Y_,t" src="manual" selected="1">NNMS7-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930702-113-p4s7w19">
 <src.rf>manual</src.rf>
@@ -2284,7 +2312,10 @@
 <LM>w#w-mf930702-113-p5s2w34</LM>
 </w.rf>
 <form>Aristide</form>
-<tag lemma="Aristide_;Y_,t" src="auto" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Aristide_;Y_,t" src="auto">NNMS1-----A----</AM>
+<AM lemma="Aristide_;S_;Y_,t" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930702-113-p5s2w35">
 <src.rf>manual</src.rf>

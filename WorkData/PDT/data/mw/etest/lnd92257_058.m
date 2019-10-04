@@ -981,7 +981,10 @@
 <LM>w#w-lnd92257-058-p3s4w55</LM>
 </w.rf>
 <form>mj</form>
-<tag lemma="mj-1_:B_^(mimo_jiné)" src="orig" selected="1">Db------------8</tag>
+<tag>
+<AM lemma="mj-1_:B_^(mimo_jiné)" src="orig">Db------------8</AM>
+<AM lemma="mj-1_:B_^(mimo_jiné)" src="manual" selected="1">Db-------------</AM>
+</tag>
 </m>
 <m id="m-lnd92257-058-p3s4w56">
 <src.rf>manual</src.rf>
@@ -1587,7 +1590,10 @@
 <LM>w#w-lnd92257-058-p3s7w6</LM>
 </w.rf>
 <form>masívnímu</form>
-<tag lemma="masívní" src="orig" selected="1">AAIS3----1A----</tag>
+<tag>
+<AM lemma="masívní" src="orig">AAIS3----1A----</AM>
+<AM lemma="masívní_,s_^(^DD**masivní)" src="manual" selected="1">AAIS3----1A----</AM>
+</tag>
 </m>
 <m id="m-lnd92257-058-p3s7w7">
 <src.rf>manual</src.rf>

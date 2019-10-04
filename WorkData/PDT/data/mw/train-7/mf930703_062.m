@@ -197,7 +197,10 @@
 <LM>w#w-mf930703-062-p2s1w21</LM>
 </w.rf>
 <form>má</form>
-<tag lemma="mít" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag>
+<AM lemma="mít" src="orig">VB-S---3P-AA---</AM>
+<AM lemma="mít_:T" src="manual" selected="1">VB-S---3P-AA---</AM>
+</tag>
 </m>
 <m id="m-mf930703-062-p2s1w22">
 <src.rf>manual</src.rf>
@@ -351,7 +354,10 @@
 <LM>w#w-mf930703-062-p2s2w4</LM>
 </w.rf>
 <form>neznal</form>
-<tag lemma="znát" src="orig" selected="1">VpYS---XR-NA---</tag>
+<tag>
+<AM lemma="znát" src="orig">VpYS---XR-NA---</AM>
+<AM lemma="znát_:T" src="manual" selected="1">VpYS---XR-NA---</AM>
+</tag>
 </m>
 <m id="m-mf930703-062-p2s2w5">
 <src.rf>manual</src.rf>
@@ -705,7 +711,10 @@
 <LM>w#w-mf930703-062-p2s3w4</LM>
 </w.rf>
 <form>nazvat</form>
-<tag lemma="nazvat" src="orig" selected="1">Vf--------A----</tag>
+<tag>
+<AM lemma="nazvat" src="orig">Vf--------A----</AM>
+<AM lemma="nazvat_:W" src="manual" selected="1">Vf--------A----</AM>
+</tag>
 </m>
 <m id="m-mf930703-062-p2s3w5">
 <src.rf>manual</src.rf>
@@ -1039,7 +1048,7 @@
 <form>totiž</form>
 <tag>
 <AM lemma="totiž" src="orig">Db-------------</AM>
-<AM lemma="totiž-1" src="auto" recommended="1">J^-------------</AM>
+<AM lemma="totiž-1" src="auto" recommended="1" selected="1">J^-------------</AM>
 <AM lemma="totiž-2" src="auto">TT-------------</AM>
 </tag>
 </m>
@@ -1121,7 +1130,10 @@
 <LM>w#w-mf930703-062-p2s5w14</LM>
 </w.rf>
 <form>nestálo</form>
-<tag lemma="stát-3_^(někdo/něco_stojí,_např._na_nohou)" src="orig" selected="1">VpNS---XR-NA---</tag>
+<tag>
+<AM lemma="stát-3_^(někdo/něco_stojí,_např._na_nohou)" src="orig">VpNS---XR-NA---</AM>
+<AM lemma="stát-3_:T_^(někdo/něco_stojí,_např._na_nohou)" src="manual" selected="1">VpNS---XR-NA---</AM>
+</tag>
 </m>
 <m id="m-mf930703-062-p2s5w15">
 <src.rf>manual</src.rf>

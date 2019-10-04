@@ -435,7 +435,10 @@
 <LM>w#w-lnd92251-064-p3s3w9</LM>
 </w.rf>
 <form>právě</form>
-<tag lemma="právě-1" src="auto" selected="1">Db-------------</tag>
+<tag>
+<AM lemma="právě-1" src="auto">Db-------------</AM>
+<AM lemma="právě-2" src="manual" selected="1">TT-------------</AM>
+</tag>
 </m>
 <m id="m-lnd92251-064-p3s3w10">
 <src.rf>manual</src.rf>
@@ -485,7 +488,10 @@
 <LM>w#w-lnd92251-064-p3s4w1</LM>
 </w.rf>
 <form>Zdá</form>
-<tag lemma="zdát" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag>
+<AM lemma="zdát" src="orig">VB-S---3P-AA---</AM>
+<AM lemma="zdát_:T" src="manual" selected="1">VB-S---3P-AA---</AM>
+</tag>
 </m>
 <m id="m-lnd92251-064-p3s4w2">
 <src.rf>manual</src.rf>
@@ -875,7 +881,7 @@
 <AM lemma="brzký" src="orig">AAIS6----2A----</AM>
 <AM lemma="dřívější" src="auto">AAFP3----2A----</AM>
 <AM lemma="dřívější" src="auto">AAIP3----2A----</AM>
-<AM lemma="dřívější" src="auto" recommended="1">AAIS6----2A----</AM>
+<AM lemma="dřívější" src="auto" recommended="1" selected="1">AAIS6----2A----</AM>
 <AM lemma="dřívější" src="auto">AAIS7----2A----</AM>
 <AM lemma="dřívější" src="auto">AAMP3----2A----</AM>
 <AM lemma="dřívější" src="auto">AAMS6----2A----</AM>

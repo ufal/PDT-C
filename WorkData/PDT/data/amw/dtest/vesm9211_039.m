@@ -85,7 +85,10 @@
 <LM>w#w-vesm9211-039-p2s1w7</LM>
 </w.rf>
 <form>peče</form>
-<tag lemma="péci" src="auto" selected="1">VB-S---3P-AA---</tag>
+<tag>
+<AM lemma="péci" src="auto">VB-S---3P-AA---</AM>
+<AM lemma="péci_:T" src="manual" selected="1">VB-S---3P-AA---</AM>
+</tag>
 </m>
 <m id="m-vesm9211-039-p2s1w8">
 <src.rf>manual</src.rf>
@@ -319,7 +322,10 @@
 <LM>w#w-vesm9211-039-p2s2w19</LM>
 </w.rf>
 <form>New</form>
-<tag lemma="New-1_;G_,t_^(součást_míst._jmen)" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="New-1_;G_,t_^(součást_míst._jmen)" src="orig">AAXXX----1A----</AM>
+<AM lemma="New-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-vesm9211-039-p2s2w20">
 <src.rf>manual</src.rf>
@@ -330,6 +336,7 @@
 <tag>
 <AM lemma="English_:B_;R_,t" src="orig">AAXXX----1A---8</AM>
 <AM lemma="Engl_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Engl-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-vesm9211-039-p2s2w21">
@@ -346,7 +353,10 @@
 <LM>w#w-vesm9211-039-p2s2w22</LM>
 </w.rf>
 <form>J</form>
-<tag lemma="J-6_:B_;R" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="J-6_:B_;R" src="orig">NNXXX-----A---8</AM>
+<AM lemma="J-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-vesm9211-039-p2s2w23">
 <src.rf>manual</src.rf>
@@ -364,7 +374,7 @@
 <form>Med</form>
 <tag>
 <AM lemma="Medicine_:B_;R_,t" src="orig">NNFSX-----A---8</AM>
-<AM lemma="Med_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Med_;S" src="auto" recommended="1" selected="1">NNMS1-----A----</AM>
 <AM lemma="Meda_;G_;Y" src="auto">NNFP2-----A----</AM>
 <AM lemma="med" src="auto">NNIS1-----A----</AM>
 <AM lemma="med" src="auto">NNIS4-----A----</AM>

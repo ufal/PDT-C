@@ -35,7 +35,10 @@
 <LM>w#w-ln94205-113-p1s1w3</LM>
 </w.rf>
 <form>spol</form>
-<tag lemma="společnost_:B" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="společnost_:B" src="orig">NNFXX-----A---8</AM>
+<AM lemma="společnost" src="manual" selected="1">NNFXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln94205-113-p1s1w4">
 <src.rf>manual</src.rf>
@@ -127,7 +130,10 @@
 <LM>w#w-ln94205-113-p2s1Bw6</LM>
 </w.rf>
 <form>sezony</form>
-<tag lemma="sezona" src="orig" selected="1">NNFS2-----A----</tag>
+<tag>
+<AM lemma="sezona" src="orig">NNFS2-----A----</AM>
+<AM lemma="sezona_,s_^(^DD**sezóna)" src="manual" selected="1">NNFP4-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94205-113-p2s1Bw7">
 <src.rf>manual</src.rf>
@@ -284,6 +290,8 @@
 <tag>
 <AM lemma="United_;K_,t" src="orig">AAXXX----1A----</AM>
 <AM lemma="Unt_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="united_:B_,t" src="manual">AAXXX----1A---8</AM>
+<AM lemma="Unt-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-ln94205-113-p2s2w15">

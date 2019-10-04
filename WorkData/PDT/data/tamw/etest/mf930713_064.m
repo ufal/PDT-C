@@ -89,6 +89,7 @@
 <AM lemma="šil-99_:B_;S" src="orig">NNXXX-----A---8</AM>
 <AM lemma="šít" src="auto" recommended="1">VpYS---XR-AA---</AM>
 <AM lemma="šílet" src="auto">Vi-S---2--A---6</AM>
+<AM lemma="šil-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930713-064-p2s1Aw4">
@@ -665,7 +666,10 @@
 <LM>w#w-mf930713-064-p3s1w12</LM>
 </w.rf>
 <form>milionů</form>
-<tag lemma="milión`1000000" src="orig" selected="1">NNIP2-----A----</tag>
+<tag>
+<AM lemma="milión`1000000" src="orig">NNIP2-----A----</AM>
+<AM lemma="milion`1000000_,s_^(^DD**milión)" src="manual" selected="1">NNIP2-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930713-064-p3s1w13">
 <src.rf>manual</src.rf>
@@ -1228,7 +1232,10 @@
 <LM>w#w-mf930713-064-p3s6w11</LM>
 </w.rf>
 <form>konkurs</form>
-<tag lemma="konkurs_^(úpadek;;soutěž)" src="auto" selected="1">NNIS4-----A----</tag>
+<tag>
+<AM lemma="konkurs_^(úpadek;;soutěž)" src="auto">NNIS4-----A----</AM>
+<AM lemma="konkurs_,s_^(^DD**konkurz)" src="manual" selected="1">NNIS4-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930713-064-p3s6w12">
 <src.rf>manual</src.rf>
@@ -1439,7 +1446,10 @@
 <LM>w#w-mf930713-064-p3s7w22</LM>
 </w.rf>
 <form>milionu</form>
-<tag lemma="milión`1000000" src="orig" selected="1">NNIS2-----A----</tag>
+<tag>
+<AM lemma="milión`1000000" src="orig">NNIS2-----A----</AM>
+<AM lemma="milion`1000000_,s_^(^DD**milión)" src="manual" selected="1">NNIS2-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930713-064-p3s7w23">
 <src.rf>manual</src.rf>
@@ -1739,7 +1749,10 @@
 <LM>w#w-mf930713-064-p4s2w17</LM>
 </w.rf>
 <form>milion</form>
-<tag lemma="milión`1000000" src="orig" selected="1">NNIS4-----A----</tag>
+<tag>
+<AM lemma="milión`1000000" src="orig">NNIS4-----A----</AM>
+<AM lemma="milion`1000000_,s_^(^DD**milión)" src="manual" selected="1">NNIS4-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930713-064-p4s2w18">
 <src.rf>manual</src.rf>
@@ -2019,7 +2032,7 @@
 <form>nejen</form>
 <tag>
 <AM lemma="nejen" src="orig">TT-------------</AM>
-<AM lemma="nejen" src="auto" recommended="1">Db-------------</AM>
+<AM lemma="nejen" src="auto" recommended="1" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m-mf930713-064-p4s5w4">
@@ -2132,7 +2145,10 @@
 <LM>w#w-mf930713-064-p4s5w17</LM>
 </w.rf>
 <form>MNV</form>
-<tag lemma="MNV_:B_;K" src="auto" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="MNV_:B_;K" src="auto">NNXXX-----A---8</AM>
+<AM lemma="MNV_:B_;K" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930713-064-p4s5w18">
 <src.rf>manual</src.rf>
@@ -2190,7 +2206,10 @@
 <LM>w#w-mf930713-064-p4s6w6</LM>
 </w.rf>
 <form>Z</form>
-<tag lemma="z-3_^(označení_pomocí_písmene)" src="orig" selected="1">NNNXX-----A----</tag>
+<tag>
+<AM lemma="z-3_^(označení_pomocí_písmene)" src="orig">NNNXX-----A----</AM>
+<AM lemma="Z-33_^(označení_pomocí_písmene)" src="manual" selected="1">NNNXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930713-064-p4s6w7">
 <src.rf>manual</src.rf>
@@ -2214,7 +2233,10 @@
 <LM>w#w-mf930713-064-p4s6w9</LM>
 </w.rf>
 <form>milionů</form>
-<tag lemma="milión`1000000" src="orig" selected="1">NNIP2-----A----</tag>
+<tag>
+<AM lemma="milión`1000000" src="orig">NNIP2-----A----</AM>
+<AM lemma="milion`1000000_,s_^(^DD**milión)" src="manual" selected="1">NNIP2-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930713-064-p4s6w10">
 <src.rf>manual</src.rf>

@@ -91,7 +91,10 @@
 <LM>w#w-mf920922-034-p1s1w10</LM>
 </w.rf>
 <form>tequily</form>
-<tag lemma="tequila_,t" src="auto" selected="1">NNFS2-----A----</tag>
+<tag>
+<AM lemma="tequila_,t" src="auto">NNFS2-----A----</AM>
+<AM lemma="tequila" src="manual" selected="1">NNFS2-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920922-034-p1s1w11">
 <src.rf>manual</src.rf>

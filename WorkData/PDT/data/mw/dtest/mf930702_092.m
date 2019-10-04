@@ -1182,7 +1182,7 @@
 </w.rf>
 <form>deseti</form>
 <tag>
-<AM lemma="deset`10" src="orig">A2--------A----</AM>
+<AM lemma="deset`10" src="orig" selected="1">A2--------A----</AM>
 <AM lemma="deset`10" src="auto">Cn-P2----------</AM>
 <AM lemma="deset`10" src="auto">Cn-P3----------</AM>
 <AM lemma="deset`10" src="auto">Cn-P6----------</AM>
@@ -1212,7 +1212,7 @@
 </w.rf>
 <form>dvaceti</form>
 <tag>
-<AM lemma="dvacet`20" src="orig">A2--------A----</AM>
+<AM lemma="dvacet`20" src="orig" selected="1">A2--------A----</AM>
 <AM lemma="dvacet`20" src="auto">Cn-P2----------</AM>
 <AM lemma="dvacet`20" src="auto">Cn-P3----------</AM>
 <AM lemma="dvacet`20" src="auto">Cn-P6----------</AM>
@@ -1514,7 +1514,10 @@
 <LM>w#w-mf930702-092-p5s1w6</LM>
 </w.rf>
 <form>milionů</form>
-<tag lemma="milión`1000000" src="orig" selected="1">NNIP2-----A----</tag>
+<tag>
+<AM lemma="milión`1000000" src="orig">NNIP2-----A----</AM>
+<AM lemma="milion`1000000_,s_^(^DD**milión)" src="manual" selected="1">NNIP2-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930702-092-p5s1w7">
 <src.rf>manual</src.rf>
@@ -1610,7 +1613,10 @@
 <LM>w#w-mf930702-092-p5s1w18</LM>
 </w.rf>
 <form>milionů</form>
-<tag lemma="milión`1000000" src="orig" selected="1">NNIP2-----A----</tag>
+<tag>
+<AM lemma="milión`1000000" src="orig">NNIP2-----A----</AM>
+<AM lemma="milion`1000000_,s_^(^DD**milión)" src="manual" selected="1">NNIP2-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930702-092-p5s1w19">
 <src.rf>manual</src.rf>
@@ -1724,7 +1730,10 @@
 <LM>w#w-mf930702-092-p5s2w8</LM>
 </w.rf>
 <form>milionů</form>
-<tag lemma="milión`1000000" src="orig" selected="1">NNIP2-----A----</tag>
+<tag>
+<AM lemma="milión`1000000" src="orig">NNIP2-----A----</AM>
+<AM lemma="milion`1000000_,s_^(^DD**milión)" src="manual" selected="1">NNIP2-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930702-092-p5s2w9">
 <src.rf>manual</src.rf>
@@ -1946,7 +1955,10 @@
 <LM>w#w-mf930702-092-p6s3w6</LM>
 </w.rf>
 <form>milionů</form>
-<tag lemma="milión`1000000" src="orig" selected="1">NNIP2-----A----</tag>
+<tag>
+<AM lemma="milión`1000000" src="orig">NNIP2-----A----</AM>
+<AM lemma="milion`1000000_,s_^(^DD**milión)" src="manual" selected="1">NNIP2-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930702-092-p6s3w7">
 <src.rf>manual</src.rf>
@@ -2183,7 +2195,7 @@
 </w.rf>
 <form>dvaceti</form>
 <tag>
-<AM lemma="dvacet`20" src="orig">A2--------A----</AM>
+<AM lemma="dvacet`20" src="orig" selected="1">A2--------A----</AM>
 <AM lemma="dvacet`20" src="auto">Cn-P2----------</AM>
 <AM lemma="dvacet`20" src="auto">Cn-P3----------</AM>
 <AM lemma="dvacet`20" src="auto" recommended="1">Cn-P6----------</AM>
@@ -2786,7 +2798,10 @@
 <LM>w#w-mf930702-092-p7s5w22</LM>
 </w.rf>
 <form>miliony</form>
-<tag lemma="milión`1000000" src="orig" selected="1">NNIP1-----A----</tag>
+<tag>
+<AM lemma="milión`1000000" src="orig">NNIP1-----A----</AM>
+<AM lemma="milion`1000000_,s_^(^DD**milión)" src="manual" selected="1">NNIP1-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930702-092-p7s5w23">
 <src.rf>manual</src.rf>

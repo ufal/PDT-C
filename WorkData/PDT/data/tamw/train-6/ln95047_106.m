@@ -35,7 +35,10 @@
 <LM>w#w-ln95047-106-p1s1w3</LM>
 </w.rf>
 <form>dá</form>
-<tag lemma="dát" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag>
+<AM lemma="dát" src="orig">VB-S---3P-AA---</AM>
+<AM lemma="dát_:W" src="manual" selected="1">VB-S---3P-AA---</AM>
+</tag>
 </m>
 <m id="m-ln95047-106-p1s1w4">
 <src.rf>manual</src.rf>
@@ -629,7 +632,7 @@
 <form>Charvátce</form>
 <tag>
 <AM lemma="Charvátec_;S" src="orig">NNMS2-----A----</AM>
-<AM lemma="Charvátce_;G" src="auto">NNFP1-----A----</AM>
+<AM lemma="Charvátce_;G" src="auto" selected="1">NNFP1-----A----</AM>
 <AM lemma="Charvátce_;G" src="auto">NNFP4-----A----</AM>
 <AM lemma="Charvátce_;G" src="auto">NNFP5-----A----</AM>
 <AM lemma="charvátka" src="auto" recommended="1">NNFS3-----A----</AM>
@@ -704,7 +707,7 @@
 <AM lemma="Peruc_;G" src="auto">NNFP1-----A----</AM>
 <AM lemma="Peruc_;G" src="auto">NNFP4-----A----</AM>
 <AM lemma="Peruc_;G" src="auto">NNFP5-----A----</AM>
-<AM lemma="Peruc_;G" src="auto" recommended="1">NNFS2-----A----</AM>
+<AM lemma="Peruc_;G" src="auto" recommended="1" selected="1">NNFS2-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95047-106-p2s3w35">
@@ -925,7 +928,10 @@
 <LM>w#w-ln95047-106-p2s5w10</LM>
 </w.rf>
 <form>vázáni</form>
-<tag lemma="vázat_^(např._provazem;_se_k_čemu)" src="auto" selected="1">VsMP---XX-AP---</tag>
+<tag>
+<AM lemma="vázat_^(např._provazem;_se_k_čemu)" src="auto">VsMP---XX-AP---</AM>
+<AM lemma="vázat_:T_^(např._provazem;_se_k_čemu)" src="manual" selected="1">VsMP---XX-AP---</AM>
+</tag>
 </m>
 <m id="m-ln95047-106-p2s5w11">
 <src.rf>manual</src.rf>
@@ -965,7 +971,10 @@
 <LM>w#w-ln95047-106-p2s5w15</LM>
 </w.rf>
 <form>řekl</form>
-<tag lemma="říci" src="auto" selected="1">VpYS---XR-AA---</tag>
+<tag>
+<AM lemma="říci" src="auto">VpYS---XR-AA---</AM>
+<AM lemma="říci_:W" src="manual" selected="1">VpYS---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-ln95047-106-p2s5w16">
 <src.rf>manual</src.rf>

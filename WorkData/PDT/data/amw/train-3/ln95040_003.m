@@ -109,7 +109,10 @@
 <LM>w#w-ln95040-003-p2s1w11</LM>
 </w.rf>
 <form>ATS</form>
-<tag lemma="ATS_:B_;b_^(rakouský_šilink)" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="ATS_:B_;b_^(rakouský_šilink)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="ATS-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln95040-003-p2s1w12">
 <src.rf>manual</src.rf>

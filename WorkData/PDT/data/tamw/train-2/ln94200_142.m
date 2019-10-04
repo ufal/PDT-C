@@ -35,7 +35,10 @@
 <LM>w#w-ln94200-142-p1s1w3</LM>
 </w.rf>
 <form>jen</form>
-<tag lemma="jen-1" src="auto" selected="1">TT-------------</tag>
+<tag>
+<AM lemma="jen-1" src="auto">TT-------------</AM>
+<AM lemma="jen-4_^(pouze)" src="manual" selected="1">Db-------------</AM>
+</tag>
 </m>
 <m id="m-ln94200-142-p1s1w4">
 <src.rf>manual</src.rf>
@@ -95,7 +98,7 @@
 <form>vůbec</form>
 <tag>
 <AM lemma="vůbec" src="orig">Db-------------</AM>
-<AM lemma="vůbec" src="auto" recommended="1">TT-------------</AM>
+<AM lemma="vůbec" src="auto" recommended="1" selected="1">TT-------------</AM>
 </tag>
 </m>
 <m id="m-ln94200-142-p2s1w4">
@@ -372,7 +375,10 @@
 <LM>w#w-ln94200-142-p2s3w10</LM>
 </w.rf>
 <form>A</form>
-<tag lemma="A-0_:B_;Y" src="orig" selected="1">NNMXX-----A---8</tag>
+<tag>
+<AM lemma="A-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
+<AM lemma="A-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94200-142-p2s3w11">
 <src.rf>manual</src.rf>
@@ -1566,7 +1572,10 @@
 <LM>w#w-ln94200-142-p4s2w9</LM>
 </w.rf>
 <form>ČR</form>
-<tag lemma="ČR-1_:B_;G_^(Česká_republika)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94200-142-p4s2w10">
 <src.rf>manual</src.rf>
@@ -2044,7 +2053,7 @@
 <form>vůbec</form>
 <tag>
 <AM lemma="vůbec" src="orig">Db-------------</AM>
-<AM lemma="vůbec" src="auto" recommended="1">TT-------------</AM>
+<AM lemma="vůbec" src="auto" recommended="1" selected="1">TT-------------</AM>
 </tag>
 </m>
 <m id="m-ln94200-142-p4s4w18">
@@ -2340,7 +2349,7 @@
 <tag>
 <AM lemma="tedy" src="orig">Db-------------</AM>
 <AM lemma="tedy-1" src="auto" recommended="1">TT-------------</AM>
-<AM lemma="tedy-2" src="auto">J^-------------</AM>
+<AM lemma="tedy-2" src="auto" selected="1">J^-------------</AM>
 </tag>
 </m>
 <m id="m-ln94200-142-p4s6w10">
@@ -2661,6 +2670,11 @@
 <AM lemma="Bluch_;S" src="orig">NNMS2-----A----</AM>
 <AM lemma="Blucha_;S" src="auto" recommended="1">NNMS1-----A----</AM>
 </tag>
+<comment>
+<LM type="New Form">
+<text>Bluchy</text>
+</LM>
+</comment>
 </m>
 <m id="m-ln94200-142-p5s1w5">
 <src.rf>manual</src.rf>

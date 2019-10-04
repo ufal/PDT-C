@@ -77,7 +77,10 @@
 <LM>w#w-ln94210-64-p2s1Aw3</LM>
 </w.rf>
 <form>luč</form>
-<tag lemma="luč-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="luč-99_:B_;S" src="orig">NNXXX-----A---8</AM>
+<AM lemma="luč-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94210-64-p2s1Aw4">
 <src.rf>manual</src.rf>
@@ -279,7 +282,10 @@
 <LM>w#w-ln94210-64-p2s1Bw23</LM>
 </w.rf>
 <form>ČR</form>
-<tag lemma="ČR-1_:B_;G_^(Česká_republika)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94210-64-p2s1Bw24">
 <src.rf>manual</src.rf>
@@ -593,7 +599,10 @@
 <LM>w#w-ln94210-64-p2s2w23</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-2" src="auto" selected="1">Dg-------2A----</tag>
+<tag>
+<AM lemma="hodně-2" src="auto">Dg-------2A----</AM>
+<AM lemma="hodně-3" src="manual" selected="1">Dg-------2A----</AM>
+</tag>
 </m>
 <m id="m-ln94210-64-p2s2w24">
 <src.rf>manual</src.rf>
@@ -625,7 +634,10 @@
 <LM>w#w-ln94210-64-p2s2w27</LM>
 </w.rf>
 <form>DM</form>
-<tag lemma="DM-7_:B_;U_,t_^(diabetes_mellitus)" src="auto" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="DM-7_:B_;U_,t_^(diabetes_mellitus)" src="auto">NNFXX-----A---8</AM>
+<AM lemma="DM-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln94210-64-p2s2w28">
 <src.rf>manual</src.rf>
@@ -797,7 +809,10 @@
 <LM>w#w-ln94210-64-p2s4w9</LM>
 </w.rf>
 <form>ČR</form>
-<tag lemma="ČR-1_:B_;G_^(Česká_republika)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94210-64-p2s4w10">
 <src.rf>manual</src.rf>

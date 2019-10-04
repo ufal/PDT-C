@@ -31,6 +31,7 @@
 <AM lemma="konzervatismus" src="orig">NNIS1-----A----</AM>
 <AM lemma="konzervatizmus" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="konzervatizmus" src="auto">NNIS4-----A----</AM>
+<AM lemma="konzervatismus_,s_^(^DD**konzervatizmus)" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9211-032-p1s1w3">
@@ -185,7 +186,10 @@
 <LM>w#w-vesm9211-032-p2s1w14</LM>
 </w.rf>
 <form>mechanismy</form>
-<tag lemma="mechanismus" src="orig" selected="1">NNIP1-----A----</tag>
+<tag>
+<AM lemma="mechanismus" src="orig">NNIP1-----A----</AM>
+<AM lemma="mechanismus_,s_^(^DD**mechanizmus)" src="manual" selected="1">NNIP1-----A----</AM>
+</tag>
 </m>
 <m id="m-vesm9211-032-p2s1w15">
 <src.rf>manual</src.rf>
@@ -353,7 +357,10 @@
 <LM>w#w-vesm9211-032-p2s1w35</LM>
 </w.rf>
 <form>např</form>
-<tag lemma="například_:B" src="orig" selected="1">Db------------8</tag>
+<tag>
+<AM lemma="například_:B" src="orig">Db------------8</AM>
+<AM lemma="například" src="manual" selected="1">Db------------8</AM>
+</tag>
 </m>
 <m id="m-vesm9211-032-p2s1w36">
 <src.rf>manual</src.rf>
@@ -377,7 +384,10 @@
 <LM>w#w-vesm9211-032-p2s1w38</LM>
 </w.rf>
 <form>Caenorhabditis</form>
-<tag lemma="caenorhabditis_,t" src="orig" selected="1">NNFS1-----A----</tag>
+<tag>
+<AM lemma="caenorhabditis_,t" src="orig">NNFS1-----A----</AM>
+<AM lemma="Caenorhabditis-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-vesm9211-032-p2s1w39">
 <src.rf>manual</src.rf>
@@ -385,7 +395,10 @@
 <LM>w#w-vesm9211-032-p2s1w39</LM>
 </w.rf>
 <form>elegans</form>
-<tag lemma="elegans_;L_,t" src="auto" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="elegans_;L_,t" src="auto">AAXXX----1A----</AM>
+<AM lemma="elegans-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-vesm9211-032-p2s1w40">
 <src.rf>manual</src.rf>
@@ -539,7 +552,10 @@
 <LM>w#w-vesm9211-032-p2s2w11</LM>
 </w.rf>
 <form>DNA</form>
-<tag lemma="DNA_:B_;L_^(molekula_DNA)" src="auto" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="DNA_:B_;L_^(molekula_DNA)" src="auto">NNFXX-----A---8</AM>
+<AM lemma="DNA_:B_;L_^(molekula_DNA)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-vesm9211-032-p2s2w12">
 <src.rf>manual</src.rf>
@@ -678,7 +694,10 @@
 <LM>w#w-vesm9211-032-p2s3w6</LM>
 </w.rf>
 <form>např</form>
-<tag lemma="například_:B" src="orig" selected="1">Db------------8</tag>
+<tag>
+<AM lemma="například_:B" src="orig">Db------------8</AM>
+<AM lemma="například" src="manual" selected="1">Db------------8</AM>
+</tag>
 </m>
 <m id="m-vesm9211-032-p2s3w7">
 <src.rf>manual</src.rf>
@@ -718,7 +737,10 @@
 <LM>w#w-vesm9211-032-p2s3w11</LM>
 </w.rf>
 <form>tzv</form>
-<tag lemma="takzvaný_:B" src="orig" selected="1">AAXXX----1A---8</tag>
+<tag>
+<AM lemma="takzvaný_:B" src="orig">AAXXX----1A---8</AM>
+<AM lemma="takzvaný" src="manual" selected="1">AAXXX----1A---8</AM>
+</tag>
 </m>
 <m id="m-vesm9211-032-p2s3w12">
 <src.rf>manual</src.rf>
@@ -742,7 +764,10 @@
 <LM>w#w-vesm9211-032-p2s3w14</LM>
 </w.rf>
 <form>zinc</form>
-<tag lemma="zinc_,t" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="zinc_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="zinc-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-vesm9211-032-p2s3w15">
 <src.rf>manual</src.rf>
@@ -758,7 +783,10 @@
 <LM>w#w-vesm9211-032-p2s3w16</LM>
 </w.rf>
 <form>finger</form>
-<tag lemma="finger_,t" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="finger_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="finger-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-vesm9211-032-p2s3w17">
 <src.rf>manual</src.rf>
@@ -920,7 +948,10 @@
 <LM>w#w-vesm9211-032-p2s4w4</LM>
 </w.rf>
 <form>jen</form>
-<tag lemma="jen-1" src="auto" selected="1">TT-------------</tag>
+<tag>
+<AM lemma="jen-1" src="auto">TT-------------</AM>
+<AM lemma="jen-4_^(pouze)" src="manual" selected="1">Db-------------</AM>
+</tag>
 </m>
 <m id="m-vesm9211-032-p2s4w5">
 <src.rf>manual</src.rf>
@@ -1196,7 +1227,10 @@
 <LM>w#w-vesm9211-032-p2s6w1</LM>
 </w.rf>
 <form>P</form>
-<tag lemma="P-0_:B_;Y" src="orig" selected="1">NNMXX-----A---8</tag>
+<tag>
+<AM lemma="P-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
+<AM lemma="P-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-vesm9211-032-p2s6w2">
 <src.rf>manual</src.rf>
@@ -1244,7 +1278,10 @@
 <LM>w#w-vesm9211-032-p2s6w7</LM>
 </w.rf>
 <form>Genetica</form>
-<tag lemma="Genetica_;R_,t" src="orig" selected="1">NNFXX-----A----</tag>
+<tag>
+<AM lemma="Genetica_;R_,t" src="orig">NNFXX-----A----</AM>
+<AM lemma="Genetica_;R" src="manual" selected="1">NNFXX-----A----</AM>
+</tag>
 </m>
 <m id="m-vesm9211-032-p2s6w8">
 <src.rf>manual</src.rf>
@@ -1616,7 +1653,10 @@
 <LM>w#w-vesm9211-032-p2s8w8</LM>
 </w.rf>
 <form>jen</form>
-<tag lemma="jen-1" src="auto" selected="1">TT-------------</tag>
+<tag>
+<AM lemma="jen-1" src="auto">TT-------------</AM>
+<AM lemma="jen-4_^(pouze)" src="manual" selected="1">Db-------------</AM>
+</tag>
 </m>
 <m id="m-vesm9211-032-p2s8w9">
 <src.rf>manual</src.rf>
@@ -1720,7 +1760,10 @@
 <LM>w#w-vesm9211-032-p2s8w21</LM>
 </w.rf>
 <form>tj</form>
-<tag lemma="tj-1_:B_^(to_je/jest)" src="orig" selected="1">J^------------8</tag>
+<tag>
+<AM lemma="tj-1_:B_^(to_je/jest)" src="orig">J^------------8</AM>
+<AM lemma="tj-1_:B_^(to_je/jest)" src="manual" selected="1">J^-------------</AM>
+</tag>
 </m>
 <m id="m-vesm9211-032-p2s8w22">
 <src.rf>manual</src.rf>
@@ -1748,7 +1791,7 @@
 <AM lemma="poslední" src="orig">AANP2----2A----</AM>
 <AM lemma="poslední" src="auto">AAFP2----1A----</AM>
 <AM lemma="poslední" src="auto">AAFP6----1A----</AM>
-<AM lemma="poslední" src="auto" recommended="1">AAIP2----1A----</AM>
+<AM lemma="poslední" src="auto" recommended="1" selected="1">AAIP2----1A----</AM>
 <AM lemma="poslední" src="auto">AAIP6----1A----</AM>
 <AM lemma="poslední" src="auto">AAMP2----1A----</AM>
 <AM lemma="poslední" src="auto">AAMP6----1A----</AM>
@@ -1982,7 +2025,10 @@
 <LM>w#w-vesm9211-032-p2s10w5</LM>
 </w.rf>
 <form>resp</form>
-<tag lemma="respektive_:B" src="auto" selected="1">Db------------8</tag>
+<tag>
+<AM lemma="respektive_:B" src="auto">Db------------8</AM>
+<AM lemma="respektive" src="manual" selected="1">Db------------8</AM>
+</tag>
 </m>
 <m id="m-vesm9211-032-p2s10w6">
 <src.rf>manual</src.rf>

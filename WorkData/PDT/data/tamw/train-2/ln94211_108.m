@@ -810,7 +810,7 @@
 <tag>
 <AM lemma="tady" src="orig">Db------------1</AM>
 <AM lemma="ten" src="auto" recommended="1">PDFS4----------</AM>
-<AM lemma="tu" src="auto">Db-------------</AM>
+<AM lemma="tu" src="auto" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m-ln94211-108-p3s1w19">
@@ -941,7 +941,10 @@
 <LM>w#w-ln94211-108-p3s2w10</LM>
 </w.rf>
 <form>WUK</form>
-<tag lemma="WUK_:B_;K" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="WUK_:B_;K" src="orig">NNIXX-----A---8</AM>
+<AM lemma="WUK-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94211-108-p3s2w11">
 <src.rf>manual</src.rf>
@@ -957,7 +960,10 @@
 <LM>w#w-ln94211-108-p3s2w12</LM>
 </w.rf>
 <form>Werkstätten</form>
-<tag lemma="Werkstätten_;K_,t" src="orig" selected="1">NNXXX-----A----</tag>
+<tag>
+<AM lemma="Werkstätten_;K_,t" src="orig">NNXXX-----A----</AM>
+<AM lemma="Werkstätten-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94211-108-p3s2w13">
 <src.rf>manual</src.rf>
@@ -973,7 +979,10 @@
 <LM>w#w-ln94211-108-p3s2w14</LM>
 </w.rf>
 <form>und</form>
-<tag lemma="und_;K_,t" src="orig" selected="1">J^-------------</tag>
+<tag>
+<AM lemma="und_;K_,t" src="orig">J^-------------</AM>
+<AM lemma="und-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94211-108-p3s2w15">
 <src.rf>manual</src.rf>
@@ -981,7 +990,10 @@
 <LM>w#w-ln94211-108-p3s2w15</LM>
 </w.rf>
 <form>Kulturhaus</form>
-<tag lemma="Kulturhaus_;K_,t" src="orig" selected="1">NNIXX-----A----</tag>
+<tag>
+<AM lemma="Kulturhaus_;K_,t" src="orig">NNIXX-----A----</AM>
+<AM lemma="Kulturhaus-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94211-108-p3s2w16">
 <src.rf>manual</src.rf>
@@ -1278,7 +1290,7 @@
 <AM lemma="šíř_^(jeden_z_rozměrů)" src="auto" recommended="1">NNFS6-----A----</AM>
 <AM lemma="šíře_^(jeden_z_rozměrů)" src="auto">NNFS3-----A----</AM>
 <AM lemma="šíře_^(jeden_z_rozměrů)" src="auto">NNFS4-----A----</AM>
-<AM lemma="šíře_^(jeden_z_rozměrů)" src="auto">NNFS6-----A----</AM>
+<AM lemma="šíře_^(jeden_z_rozměrů)" src="auto" selected="1">NNFS6-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94211-108-p3s3w30">
@@ -1571,7 +1583,10 @@
 <LM>w#w-ln94211-108-p4s2w4</LM>
 </w.rf>
 <form>sice</form>
-<tag lemma="sice-2" src="auto" selected="1">Db-------------</tag>
+<tag>
+<AM lemma="sice-2" src="auto">Db-------------</AM>
+<AM lemma="sice-1_^(spojka;_připouští_se_určitá_fakta)" src="manual" selected="1">J^-------------</AM>
+</tag>
 </m>
 <m id="m-ln94211-108-p4s2w5">
 <src.rf>manual</src.rf>
@@ -2708,7 +2723,7 @@
 <tag>
 <AM lemma="dít" src="orig">Vf--------A----</AM>
 <AM lemma="dít-2_^(říkat)" src="auto" recommended="1">Vf--------A----</AM>
-<AM lemma="dít-1_^(dít_se)" src="auto">Vf--------A----</AM>
+<AM lemma="dít-1_^(dít_se)" src="auto" selected="1">Vf--------A----</AM>
 </tag>
 </m>
 <m id="m-ln94211-108-p6s1w13">
@@ -3023,7 +3038,10 @@
 <LM>w#w-ln94211-108-p6s2w25</LM>
 </w.rf>
 <form>jen</form>
-<tag lemma="jen-1" src="auto" selected="1">TT-------------</tag>
+<tag>
+<AM lemma="jen-1" src="auto">TT-------------</AM>
+<AM lemma="jen-4_^(pouze)" src="manual" selected="1">Db-------------</AM>
+</tag>
 </m>
 <m id="m-ln94211-108-p6s2w26">
 <src.rf>manual</src.rf>

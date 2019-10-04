@@ -73,6 +73,7 @@
 <AM lemma="Kuala_;G" src="orig">AAXXX----1A----</AM>
 <AM lemma="Kuala_;G" src="auto" recommended="1">NNFS1-----A----</AM>
 <AM lemma="Kuala_;G" src="auto">NNXXX-----A---1</AM>
+<AM lemma="Kuala-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-ln95042-047-p2s1Aw2">
@@ -81,7 +82,10 @@
 <LM>w#w-ln95042-047-p2s1Aw2</LM>
 </w.rf>
 <form>Lumpur</form>
-<tag lemma="Lumpur_;G" src="orig" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="Lumpur_;G" src="orig">NNIS1-----A----</AM>
+<AM lemma="Lumpur-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln95042-047-p2s1Aw3">
 <src.rf>manual</src.rf>
@@ -187,7 +191,10 @@
 <LM>w#w-ln95042-047-p2s1Bw13</LM>
 </w.rf>
 <form>přijala</form>
-<tag lemma="přijmout" src="auto" selected="1">VpQW---XR-AA---</tag>
+<tag>
+<AM lemma="přijmout" src="auto">VpQW---XR-AA---</AM>
+<AM lemma="přijmout_:W" src="manual" selected="1">VpQW---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-ln95042-047-p2s1Bw14">
 <src.rf>manual</src.rf>
@@ -333,7 +340,10 @@
 <LM>w#w-ln95042-047-p2s2w6</LM>
 </w.rf>
 <form>řekl</form>
-<tag lemma="říci" src="auto" selected="1">VpYS---XR-AA---</tag>
+<tag>
+<AM lemma="říci" src="auto">VpYS---XR-AA---</AM>
+<AM lemma="říci_:W" src="manual" selected="1">VpYS---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-ln95042-047-p2s2w7">
 <src.rf>manual</src.rf>
@@ -463,7 +473,10 @@
 <LM>w#w-ln95042-047-p2s3w6</LM>
 </w.rf>
 <form>zaveden</form>
-<tag lemma="zavést" src="orig" selected="1">VsYS---XX-AP---</tag>
+<tag>
+<AM lemma="zavést" src="orig">VsYS---XX-AP---</AM>
+<AM lemma="zavést_:W" src="manual" selected="1">VsYS---XX-AP---</AM>
+</tag>
 </m>
 <m id="m-ln95042-047-p2s3w7">
 <src.rf>manual</src.rf>
@@ -803,7 +816,10 @@
 <LM>w#w-ln95042-047-p2s5w11</LM>
 </w.rf>
 <form>tzv</form>
-<tag lemma="takzvaný_:B" src="orig" selected="1">AAXXX----1A---8</tag>
+<tag>
+<AM lemma="takzvaný_:B" src="orig">AAXXX----1A---8</AM>
+<AM lemma="takzvaný" src="manual" selected="1">AAXXX----1A---8</AM>
+</tag>
 </m>
 <m id="m-ln95042-047-p2s5w12">
 <src.rf>manual</src.rf>

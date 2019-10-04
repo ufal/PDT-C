@@ -103,7 +103,10 @@
 <LM>w#w-ln94211-26-p2s1Bw3</LM>
 </w.rf>
 <form>Albert</form>
-<tag lemma="Albert-1_;Y_,t" src="auto" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Albert-1_;Y_,t" src="auto">NNMS1-----A----</AM>
+<AM lemma="Albert-1_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94211-26-p2s1Bw4">
 <src.rf>manual</src.rf>
@@ -144,7 +147,7 @@
 </w.rf>
 <form>Shannonu</form>
 <tag>
-<AM lemma="Shannon_;G" src="orig">NNIS6-----A----</AM>
+<AM lemma="Shannon_;G" src="orig" selected="1">NNIS6-----A----</AM>
 <AM lemma="Shannon_;S" src="auto">NNMS3-----A---1</AM>
 <AM lemma="Shannon_;S" src="auto" recommended="1">NNMS6-----A---1</AM>
 </tag>
@@ -487,7 +490,10 @@
 <LM>w#w-ln94211-26-p2s3w10</LM>
 </w.rf>
 <form>milionů</form>
-<tag lemma="milión`1000000" src="orig" selected="1">NNIP2-----A----</tag>
+<tag>
+<AM lemma="milión`1000000" src="orig">NNIP2-----A----</AM>
+<AM lemma="milion`1000000_,s_^(^DD**milión)" src="manual" selected="1">NNIP2-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94211-26-p2s3w11">
 <src.rf>manual</src.rf>
@@ -854,6 +860,8 @@
 <tag>
 <AM lemma="SF-2`Sinn-1_;K_,t_^(Sinn_Fein)" src="orig">NNFXX-----A----</AM>
 <AM lemma="Sinn_;Y" src="auto" recommended="1">NNXXX-----A----</AM>
+<AM lemma="Sinn_;K_,t_^(Sinn_Fein)" src="manual">NNXXX-----A----</AM>
+<AM lemma="Sinn-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-ln94211-26-p2s5w10">
@@ -867,6 +875,8 @@
 <AM lemma="Fein" src="auto">NNIS1-----A----</AM>
 <AM lemma="Fein" src="auto">NNIS4-----A----</AM>
 <AM lemma="Fein_;Y" src="auto" recommended="1">NNXXX-----A----</AM>
+<AM lemma="Fein_;K_,t_^(Sinn_Fein)" src="manual">NNXXX-----A----</AM>
+<AM lemma="Fein-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-ln94211-26-p2s5w11">
@@ -1119,7 +1129,10 @@
 <LM>w#w-ln94211-26-p2s7w19</LM>
 </w.rf>
 <form>miliony</form>
-<tag lemma="milión`1000000" src="orig" selected="1">NNIP7-----A----</tag>
+<tag>
+<AM lemma="milión`1000000" src="orig">NNIP7-----A----</AM>
+<AM lemma="milion`1000000_,s_^(^DD**milión)" src="manual" selected="1">NNIP7-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94211-26-p2s7w20">
 <src.rf>manual</src.rf>

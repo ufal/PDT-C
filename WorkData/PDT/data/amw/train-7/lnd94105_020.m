@@ -587,7 +587,10 @@
 <LM>w#w-lnd94105-020-p1s5w16</LM>
 </w.rf>
 <form>organismus</form>
-<tag lemma="organismus" src="orig" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="organismus" src="orig">NNIS1-----A----</AM>
+<AM lemma="organismus_,s_^(^DD**organizmus)" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd94105-020-p1s5w17">
 <src.rf>manual</src.rf>
@@ -718,7 +721,7 @@
 <tag>
 <AM lemma="tedy" src="orig">Db-------------</AM>
 <AM lemma="tedy-1" src="auto">TT-------------</AM>
-<AM lemma="tedy-2" src="auto" recommended="1">J^-------------</AM>
+<AM lemma="tedy-2" src="auto" recommended="1" selected="1">J^-------------</AM>
 </tag>
 </m>
 <m id="m-lnd94105-020-p1s5w33">
@@ -997,7 +1000,10 @@
 <LM>w#w-lnd94105-020-p1s8w4</LM>
 </w.rf>
 <form>doc</form>
-<tag lemma="docent_:B" src="orig" selected="1">NNMXX-----A---8</tag>
+<tag>
+<AM lemma="docent_:B" src="orig">NNMXX-----A---8</AM>
+<AM lemma="doc_:B_^(docent)" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd94105-020-p1s8w5">
 <src.rf>manual</src.rf>
@@ -1276,6 +1282,7 @@
 <tag>
 <AM lemma="Schering_;K_,t" src="orig">NNIS1-----A----</AM>
 <AM lemma="Schering_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Schering-2_;K" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94105-020-p1s10w8">
@@ -1292,7 +1299,10 @@
 <LM>w#w-lnd94105-020-p1s10w9</LM>
 </w.rf>
 <form>Plough</form>
-<tag lemma="Plough_;K_,t" src="orig" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="Plough_;K_,t" src="orig">NNIS1-----A----</AM>
+<AM lemma="Plough_;K" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd94105-020-p1s10w10">
 <src.rf>manual</src.rf>

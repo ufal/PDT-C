@@ -51,7 +51,10 @@
 <LM>w#w-mf920923-008-p1s1Aw5</LM>
 </w.rf>
 <form>MMF</form>
-<tag lemma="MMF-1_:B_;K_;b_^(Mezinárodní_měnový_fond)" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="MMF-1_:B_;K_;b_^(Mezinárodní_měnový_fond)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="MMF-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 </s>
 <s id="m-mf920923-008-p1s1B">
@@ -118,7 +121,10 @@
 <LM>w#w-mf920923-008-p1s1Bw8</LM>
 </w.rf>
 <form>USD</form>
-<tag lemma="USD_:B_;b_^(U.S._dolar)" src="auto" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="USD_:B_;b_^(U.S._dolar)" src="auto">NNIXX-----A---8</AM>
+<AM lemma="USD_:B_^(U.S._dolar)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 </s>
 <s id="m-mf920923-008-p2s1">
@@ -224,7 +230,10 @@
 <LM>w#w-mf920923-008-p2s1w13</LM>
 </w.rf>
 <form>SDR</form>
-<tag lemma="SDR-1_:B_,t_^(special_drawing_rights)" src="auto" selected="1">NNNXX-----A---8</tag>
+<tag>
+<AM lemma="SDR-1_:B_,t_^(special_drawing_rights)" src="auto">NNNXX-----A---8</AM>
+<AM lemma="SDR-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920923-008-p2s1w14">
 <src.rf>manual</src.rf>
@@ -264,7 +273,10 @@
 <LM>w#w-mf920923-008-p2s1w18</LM>
 </w.rf>
 <form>dolarů</form>
-<tag lemma="dolar_;b" src="orig" selected="1">NNIP2-----A----</tag>
+<tag>
+<AM lemma="dolar_;b" src="orig">NNIP2-----A----</AM>
+<AM lemma="dolar" src="manual" selected="1">NNIP2-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920923-008-p2s1w19">
 <src.rf>manual</src.rf>
@@ -483,7 +495,10 @@
 <LM>w#w-mf920923-008-p2s2w25</LM>
 </w.rf>
 <form>USD</form>
-<tag lemma="USD_:B_;b_^(U.S._dolar)" src="auto" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="USD_:B_;b_^(U.S._dolar)" src="auto">NNIXX-----A---8</AM>
+<AM lemma="USD_:B_^(U.S._dolar)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920923-008-p2s2w26">
 <src.rf>manual</src.rf>
@@ -541,7 +556,10 @@
 <LM>w#w-mf920923-008-p2s3w1</LM>
 </w.rf>
 <form>ČSFR</form>
-<tag lemma="ČSFR-1_:B_;G_^(Čs._federativní_republika)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ČSFR-1_:B_;G_^(Čs._federativní_republika)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČSFR-1_:B_;G_^(Čs._federativní_republika)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920923-008-p2s3w2">
 <src.rf>manual</src.rf>
@@ -581,7 +599,10 @@
 <LM>w#w-mf920923-008-p2s3w6</LM>
 </w.rf>
 <form>MMF</form>
-<tag lemma="MMF-1_:B_;K_;b_^(Mezinárodní_měnový_fond)" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="MMF-1_:B_;K_;b_^(Mezinárodní_měnový_fond)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="MMF-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920923-008-p2s3w7">
 <src.rf>manual</src.rf>
@@ -645,7 +666,10 @@
 <LM>w#w-mf920923-008-p2s3w14</LM>
 </w.rf>
 <form>SDR</form>
-<tag lemma="SDR-1_:B_,t_^(special_drawing_rights)" src="auto" selected="1">NNNXX-----A---8</tag>
+<tag>
+<AM lemma="SDR-1_:B_,t_^(special_drawing_rights)" src="auto">NNNXX-----A---8</AM>
+<AM lemma="SDR-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920923-008-p2s3w15">
 <src.rf>manual</src.rf>
@@ -751,7 +775,10 @@
 <LM>w#w-mf920923-008-p2s4w5</LM>
 </w.rf>
 <form>MMF</form>
-<tag lemma="MMF-1_:B_;K_;b_^(Mezinárodní_měnový_fond)" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="MMF-1_:B_;K_;b_^(Mezinárodní_měnový_fond)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="MMF-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920923-008-p2s4w6">
 <src.rf>manual</src.rf>
@@ -792,7 +819,10 @@
 <LM>w#w-mf920923-008-p2s4w10</LM>
 </w.rf>
 <form>SDR</form>
-<tag lemma="SDR-1_:B_,t_^(special_drawing_rights)" src="auto" selected="1">NNNXX-----A---8</tag>
+<tag>
+<AM lemma="SDR-1_:B_,t_^(special_drawing_rights)" src="auto">NNNXX-----A---8</AM>
+<AM lemma="SDR-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920923-008-p2s4w11">
 <src.rf>manual</src.rf>
@@ -826,7 +856,10 @@
 <LM>w#w-mf920923-008-p2s4w14</LM>
 </w.rf>
 <form>mld</form>
-<tag lemma="miliarda`1000000000_:B" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="miliarda`1000000000_:B" src="orig">NNFXX-----A---8</AM>
+<AM lemma="miliarda`1000000000" src="manual" selected="1">NNFXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-mf920923-008-p2s4w15">
 <src.rf>manual</src.rf>
@@ -842,7 +875,10 @@
 <LM>w#w-mf920923-008-p2s4w16</LM>
 </w.rf>
 <form>USD</form>
-<tag lemma="USD_:B_;b_^(U.S._dolar)" src="auto" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="USD_:B_;b_^(U.S._dolar)" src="auto">NNIXX-----A---8</AM>
+<AM lemma="USD_:B_^(U.S._dolar)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920923-008-p2s4w17">
 <src.rf>manual</src.rf>
@@ -956,7 +992,10 @@
 <LM>w#w-mf920923-008-p3s1w12</LM>
 </w.rf>
 <form>ČR</form>
-<tag lemma="ČR-1_:B_;G_^(Česká_republika)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920923-008-p3s1w13">
 <src.rf>manual</src.rf>
@@ -972,7 +1011,10 @@
 <LM>w#w-mf920923-008-p3s1w14</LM>
 </w.rf>
 <form>SR</form>
-<tag lemma="SR-1_:B_;G_^(Slovenská_republika)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="SR-1_:B_;G_^(Slovenská_republika)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="SR-1_:B_;G_^(Slovenská_republika)" src="manual" selected="1">NNNXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920923-008-p3s1w15">
 <src.rf>manual</src.rf>
@@ -1044,7 +1086,10 @@
 <LM>w#w-mf920923-008-p3s1w23</LM>
 </w.rf>
 <form>MMF</form>
-<tag lemma="MMF-1_:B_;K_;b_^(Mezinárodní_měnový_fond)" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="MMF-1_:B_;K_;b_^(Mezinárodní_měnový_fond)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="MMF-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920923-008-p3s1w24">
 <src.rf>manual</src.rf>
@@ -1062,7 +1107,7 @@
 <form>ovšem</form>
 <tag>
 <AM lemma="ovšem-1_^(avšak,_však;_odporovací_spojka)" src="orig">J^-------------</AM>
-<AM lemma="ovšem" src="auto" recommended="1">TT-------------</AM>
+<AM lemma="ovšem" src="auto" recommended="1" selected="1">TT-------------</AM>
 </tag>
 </m>
 <m id="m-mf920923-008-p3s1w26">
@@ -1071,7 +1116,10 @@
 <LM>w#w-mf920923-008-p3s1w26</LM>
 </w.rf>
 <form>jenom</form>
-<tag lemma="jenom-1" src="auto" selected="1">TT-------------</tag>
+<tag>
+<AM lemma="jenom-1" src="auto">TT-------------</AM>
+<AM lemma="jenom-2_^(pouze)" src="manual" selected="1">Db-------------</AM>
+</tag>
 </m>
 <m id="m-mf920923-008-p3s1w27">
 <src.rf>manual</src.rf>
@@ -1151,7 +1199,10 @@
 <LM>w#w-mf920923-008-p3s1w36</LM>
 </w.rf>
 <form>MMF</form>
-<tag lemma="MMF-1_:B_;K_;b_^(Mezinárodní_měnový_fond)" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="MMF-1_:B_;K_;b_^(Mezinárodní_měnový_fond)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="MMF-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920923-008-p3s1w37">
 <src.rf>manual</src.rf>
@@ -1433,7 +1484,10 @@
 <LM>w#w-mf920923-008-p3s2w22</LM>
 </w.rf>
 <form>ČSFR</form>
-<tag lemma="ČSFR-1_:B_;G_^(Čs._federativní_republika)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ČSFR-1_:B_;G_^(Čs._federativní_republika)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČSFR-1_:B_;G_^(Čs._federativní_republika)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920923-008-p3s2w23">
 <src.rf>manual</src.rf>
@@ -1542,7 +1596,7 @@
 <tag>
 <AM lemma="tedy" src="orig">Db-------------</AM>
 <AM lemma="tedy-1" src="auto">TT-------------</AM>
-<AM lemma="tedy-2" src="auto" recommended="1">J^-------------</AM>
+<AM lemma="tedy-2" src="auto" recommended="1" selected="1">J^-------------</AM>
 </tag>
 </m>
 <m id="m-mf920923-008-p3s3w9">
@@ -1743,7 +1797,10 @@
 <LM>w#w-mf920923-008-p3s3w33</LM>
 </w.rf>
 <form>atd</form>
-<tag lemma="atd-1_:B_^(a_tak_dále)" src="orig" selected="1">Db------------8</tag>
+<tag>
+<AM lemma="atd-1_:B_^(a_tak_dále)" src="orig">Db------------8</AM>
+<AM lemma="atd-1_:B_^(a_tak_dále)" src="manual" selected="1">Db-------------</AM>
+</tag>
 </m>
 <m id="m-mf920923-008-p3s3w34">
 <src.rf>manual</src.rf>
@@ -1857,7 +1914,10 @@
 <LM>w#w-mf920923-008-p3s4w11</LM>
 </w.rf>
 <form>MMF</form>
-<tag lemma="MMF-1_:B_;K_;b_^(Mezinárodní_měnový_fond)" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="MMF-1_:B_;K_;b_^(Mezinárodní_měnový_fond)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="MMF-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920923-008-p3s4w12">
 <src.rf>manual</src.rf>

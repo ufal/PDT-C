@@ -96,6 +96,7 @@
 <tag>
 <AM lemma="mag-99_:B_;S" src="orig">NNXXX-----A---8</AM>
 <AM lemma="magnituda-8_:B" src="auto" recommended="1">NNFXX-----A----</AM>
+<AM lemma="mag-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94103-011-p1s2w4">
@@ -1158,7 +1159,10 @@
 <LM>w#w-lnd94103-011-p1s13w11</LM>
 </w.rf>
 <form>sice</form>
-<tag lemma="sice-2" src="auto" selected="1">Db-------------</tag>
+<tag>
+<AM lemma="sice-2" src="auto">Db-------------</AM>
+<AM lemma="sice-1_^(spojka;_připouští_se_určitá_fakta)" src="manual" selected="1">J^-------------</AM>
+</tag>
 </m>
 <m id="m-lnd94103-011-p1s13w12">
 <src.rf>manual</src.rf>
@@ -1230,7 +1234,10 @@
 <LM>w#w-lnd94103-011-p1s13w20</LM>
 </w.rf>
 <form>spíše</form>
-<tag lemma="spíše" src="orig" selected="1">Dg-------2A---1</tag>
+<tag>
+<AM lemma="spíše" src="orig">Dg-------2A---1</AM>
+<AM lemma="spíš" src="manual" selected="1">TT------------1</AM>
+</tag>
 </m>
 <m id="m-lnd94103-011-p1s13w21">
 <src.rf>manual</src.rf>
@@ -1376,7 +1383,10 @@
 <LM>w#w-lnd94103-011-p1s14w13</LM>
 </w.rf>
 <form>řekl</form>
-<tag lemma="říci" src="auto" selected="1">VpYS---XR-AA---</tag>
+<tag>
+<AM lemma="říci" src="auto">VpYS---XR-AA---</AM>
+<AM lemma="říci_:W" src="manual" selected="1">VpYS---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-lnd94103-011-p1s14w14">
 <src.rf>manual</src.rf>

@@ -760,6 +760,7 @@
 <AM lemma="Sach_;S" src="auto">NNMS2-----A----</AM>
 <AM lemma="Sach_;S" src="auto">NNMS4-----A----</AM>
 <AM lemma="Sacha_;G" src="auto" recommended="1">NNFS1-----A----</AM>
+<AM lemma="Sacha-2_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94207-109-p2s4w14">
@@ -962,7 +963,12 @@
 <LM>w#w-ln94207-109-p2s5w23</LM>
 </w.rf>
 <form>Les</form>
-<tag lemma="Le-1_,t_^(franc._člen_jako_souč._jmen_a_názvů)" src="orig" selected="1">AAXPX----1A----</tag>
+<tag>
+<AM lemma="Le-1_,t_^(franc._člen_jako_souč._jmen_a_názvů)" src="orig">AAXPX----1A----</AM>
+<AM lemma="le-1_,t_^(franc._člen_jako_souč._jmen_a_názvů)" src="manual">AAXPX----1A----</AM>
+<AM lemma="les-2_,t_^(člen)" src="manual">AAXXX----1A----</AM>
+<AM lemma="Les-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94207-109-p2s5w24">
 <src.rf>manual</src.rf>
@@ -970,7 +976,11 @@
 <LM>w#w-ln94207-109-p2s5w24</LM>
 </w.rf>
 <form>musiciens</form>
-<tag lemma="musiciens_;K" src="orig" selected="1">NNMPX-----A----</tag>
+<tag>
+<AM lemma="musiciens_;K" src="orig">NNMPX-----A----</AM>
+<AM lemma="musiciens_,t" src="manual">NNXXX-----A----</AM>
+<AM lemma="musiciens-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94207-109-p2s5w25">
 <src.rf>manual</src.rf>
@@ -982,6 +992,8 @@
 <AM lemma="de_,t_^(z_franc._de,_zejm._ve_jménech)" src="orig">RR--X----------</AM>
 <AM lemma="jít" src="auto">VB-S---1P-AA--6</AM>
 <AM lemma="du_,t" src="auto" recommended="1">XX-------------</AM>
+<AM lemma="du-1_t_^(člen)" src="manual">AAXXX----1A----</AM>
+<AM lemma="du-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-ln94207-109-p2s5w26">
@@ -993,6 +1005,7 @@
 <tag>
 <AM lemma="Louvre_;G_;K" src="orig">NNIXX-----A----</AM>
 <AM lemma="Louvre_;G" src="auto" recommended="1">NNISX-----A----</AM>
+<AM lemma="Louvre-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-ln94207-109-p2s5w27">
@@ -1167,8 +1180,9 @@
 <form>Goethe</form>
 <tag>
 <AM lemma="Goethe_;S_;K" src="orig">AAXXX----1A----</AM>
-<AM lemma="Goethe_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Goethe_;S" src="auto" recommended="1" selected="1">NNMS1-----A----</AM>
 <AM lemma="Goethe_;S" src="auto">NNMS5-----A----</AM>
+<AM lemma="Goethe_;S_t" src="manual">NNMXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94207-109-p2s7w5">

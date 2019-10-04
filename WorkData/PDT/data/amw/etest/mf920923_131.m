@@ -205,6 +205,7 @@
 <AM lemma="Alaf_;S" src="orig">NNMS1-----A----</AM>
 <AM lemma="Alaf_;K" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Alaf_;K" src="auto">NNIS4-----A----</AM>
+<AM lemma="Alaf-2_;S" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920923-131-p2s2w14">

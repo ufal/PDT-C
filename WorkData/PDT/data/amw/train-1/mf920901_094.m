@@ -421,7 +421,10 @@
 <LM>w#w-mf920901-094-p5s1w3</LM>
 </w.rf>
 <form>jen</form>
-<tag lemma="jen-1" src="auto" selected="1">TT-------------</tag>
+<tag>
+<AM lemma="jen-1" src="auto">TT-------------</AM>
+<AM lemma="jen-4_^(pouze)" src="manual" selected="1">Db-------------</AM>
+</tag>
 </m>
 <m id="m-mf920901-094-p5s1w4">
 <src.rf>manual</src.rf>
@@ -711,7 +714,10 @@
 <LM>w#w-mf920901-094-p5s2w28</LM>
 </w.rf>
 <form>Samí</form>
-<tag lemma="samý" src="orig" selected="1">PLMP1----------</tag>
+<tag>
+<AM lemma="samý" src="orig">PLMP1----------</AM>
+<AM lemma="Samí_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920901-094-p5s2w29">
 <src.rf>manual</src.rf>

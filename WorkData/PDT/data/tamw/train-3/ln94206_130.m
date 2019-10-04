@@ -69,7 +69,10 @@
 <LM>w#w-ln94206-130-p2s1Aw3</LM>
 </w.rf>
 <form>šv</form>
-<tag lemma="šv-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="šv-99_:B_;S" src="orig">NNXXX-----A---8</AM>
+<AM lemma="šv-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94206-130-p2s1Aw4">
 <src.rf>manual</src.rf>
@@ -661,7 +664,10 @@
 <LM>w#w-ln94206-130-p2s4w6</LM>
 </w.rf>
 <form>lavičky</form>
-<tag lemma="lavička-2" src="auto" selected="1">NNFS2-----A----</tag>
+<tag>
+<AM lemma="lavička-2" src="auto">NNFS2-----A----</AM>
+<AM lemma="lavička" src="manual" selected="1">NNFS2-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94206-130-p2s4w7">
 <src.rf>manual</src.rf>
@@ -781,7 +787,10 @@
 <LM>w#w-ln94206-130-p2s4w21</LM>
 </w.rf>
 <form>sezoně</form>
-<tag lemma="sezona" src="orig" selected="1">NNFS6-----A----</tag>
+<tag>
+<AM lemma="sezona" src="orig">NNFS6-----A----</AM>
+<AM lemma="sezona_,s_^(^DD**sezóna)" src="manual" selected="1">NNFS6-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94206-130-p2s4w22">
 <src.rf>manual</src.rf>
@@ -1837,7 +1846,7 @@
 <AM lemma="budit_:T" src="auto">Vi-S---3--A---2</AM>
 <AM lemma="budiž" src="auto">TT-------------</AM>
 <AM lemma="být" src="auto">Vi-S---2--A----</AM>
-<AM lemma="být" src="auto" recommended="1">Vi-S---3--A----</AM>
+<AM lemma="být" src="auto" recommended="1" selected="1">Vi-S---3--A----</AM>
 </tag>
 </m>
 <m id="m-ln94206-130-p2s13w6">
@@ -3098,7 +3107,7 @@
 <form>Snad</form>
 <tag>
 <AM lemma="snad" src="orig">Db-------------</AM>
-<AM lemma="snad" src="auto" recommended="1">TT-------------</AM>
+<AM lemma="snad" src="auto" recommended="1" selected="1">TT-------------</AM>
 </tag>
 </m>
 <m id="m-ln94206-130-p3s8w2">
@@ -3163,7 +3172,10 @@
 <LM>w#w-ln94206-130-p3s8w9</LM>
 </w.rf>
 <form>pozn</form>
-<tag lemma="poznámka_:B" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="poznámka_:B" src="orig">NNFXX-----A---8</AM>
+<AM lemma="poznámka" src="manual" selected="1">NNFXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln94206-130-p3s8w10">
 <src.rf>manual</src.rf>
@@ -3182,6 +3194,7 @@
 <tag>
 <AM lemma="red_:B_^(redakce)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="redakce_:B" src="auto" recommended="1">NNFXX-----A---8</AM>
+<AM lemma="redakce" src="manual" selected="1">NNFXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-ln94206-130-p3s8w12">
@@ -3618,7 +3631,10 @@
 <LM>w#w-ln94206-130-p4s1w20</LM>
 </w.rf>
 <form>ME</form>
-<tag lemma="ME-1_:B_;w_^(mistrovství_Evropy)" src="orig" selected="1">NNNXX-----A---8</tag>
+<tag>
+<AM lemma="ME-1_:B_;w_^(mistrovství_Evropy)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="ME-1_:B_^(mistrovství_Evropy)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94206-130-p4s1w21">
 <src.rf>manual</src.rf>
@@ -3658,7 +3674,10 @@
 <LM>w#w-ln94206-130-p4s1w25</LM>
 </w.rf>
 <form>hodně</form>
-<tag lemma="hodně-2_^(nezlobivý)_(*3ý-2)" src="auto" selected="1">Dg-------1A----</tag>
+<tag>
+<AM lemma="hodně-2_^(nezlobivý)_(*3ý-2)" src="auto">Dg-------1A----</AM>
+<AM lemma="hodně-3" src="manual" selected="1">Dg-------1A----</AM>
+</tag>
 </m>
 <m id="m-ln94206-130-p4s1w26">
 <src.rf>manual</src.rf>

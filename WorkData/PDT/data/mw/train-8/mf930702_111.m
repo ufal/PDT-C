@@ -43,7 +43,10 @@
 <LM>w#w-mf930702-111-p1s1w4</LM>
 </w.rf>
 <form>Černém</form>
-<tag lemma="černý" src="auto" selected="1">AANS6----1A----</tag>
+<tag>
+<AM lemma="černý" src="auto">AANS6----1A----</AM>
+<AM lemma="černý_;o" src="manual" selected="1">AANS6----1A----</AM>
+</tag>
 </m>
 <m id="m-mf930702-111-p1s1w5">
 <src.rf>manual</src.rf>

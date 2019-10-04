@@ -55,7 +55,10 @@
 <LM>w#w-vesm9211-004-p3s1w1</LM>
 </w.rf>
 <form>Fenomén</form>
-<tag lemma="fenomén" src="auto" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="fenomén" src="auto">NNMS1-----A----</AM>
+<AM lemma="fenomén-1" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-vesm9211-004-p3s1w2">
 <src.rf>manual</src.rf>
@@ -633,7 +636,10 @@
 <LM>w#w-vesm9211-004-p3s6w4</LM>
 </w.rf>
 <form>fenomén</form>
-<tag lemma="fenomén" src="auto" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="fenomén" src="auto">NNMS1-----A----</AM>
+<AM lemma="fenomén-1" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-vesm9211-004-p3s6w5">
 <src.rf>manual</src.rf>
@@ -1166,7 +1172,7 @@
 <tag>
 <AM lemma="přece" src="orig">Db-------------</AM>
 <AM lemma="přece-1" src="auto" recommended="1">J^-------------</AM>
-<AM lemma="přece-2" src="auto">TT-------------</AM>
+<AM lemma="přece-2" src="auto" selected="1">TT-------------</AM>
 </tag>
 </m>
 <m id="m-vesm9211-004-p5s2w3">
@@ -2117,7 +2123,10 @@
 <LM>w#w-vesm9211-004-p7s2w8</LM>
 </w.rf>
 <form>redukcionismem</form>
-<tag lemma="redukcionizmus" src="orig" selected="1">NNIS7-----A----</tag>
+<tag>
+<AM lemma="redukcionizmus" src="orig">NNIS7-----A----</AM>
+<AM lemma="redukcionismus_,s_^(^DD**redukcionizmus]" src="manual" selected="1">NNIS7-----A----</AM>
+</tag>
 </m>
 <m id="m-vesm9211-004-p7s2w9">
 <src.rf>manual</src.rf>
@@ -2263,7 +2272,10 @@
 <LM>w#w-vesm9211-004-p8s1w12</LM>
 </w.rf>
 <form>doktrinách</form>
-<tag lemma="doktrína" src="orig" selected="1">NNFP6-----A----</tag>
+<tag>
+<AM lemma="doktrína" src="orig">NNFP6-----A----</AM>
+<AM lemma="doktrina_,s_^(^DD**doktrína)" src="manual" selected="1">NNFP6-----A----</AM>
+</tag>
 </m>
 <m id="m-vesm9211-004-p8s1w13">
 <src.rf>manual</src.rf>
@@ -2279,7 +2291,10 @@
 <LM>w#w-vesm9211-004-p8s1w14</LM>
 </w.rf>
 <form>redukcionismu</form>
-<tag lemma="redukcionizmus" src="orig" selected="1">NNIS6-----A----</tag>
+<tag>
+<AM lemma="redukcionizmus" src="orig">NNIS6-----A----</AM>
+<AM lemma="redukcionismus_,s_^(^DD**redukcionizmus)" src="manual" selected="1">NNIS6-----A----</AM>
+</tag>
 </m>
 <m id="m-vesm9211-004-p8s1w15">
 <src.rf>manual</src.rf>
@@ -2295,7 +2310,10 @@
 <LM>w#w-vesm9211-004-p8s1w16</LM>
 </w.rf>
 <form>empirismu</form>
-<tag lemma="empirismus" src="orig" selected="1">NNIS6-----A----</tag>
+<tag>
+<AM lemma="empirismus" src="orig">NNIS6-----A----</AM>
+<AM lemma="empirismus_,s_^(^DD**empirizmus]" src="manual" selected="1">NNIS6-----A----</AM>
+</tag>
 </m>
 <m id="m-vesm9211-004-p8s1w17">
 <src.rf>manual</src.rf>
@@ -2483,7 +2501,10 @@
 <LM>w#w-vesm9211-004-p8s2w9</LM>
 </w.rf>
 <form>redukcionismem</form>
-<tag lemma="redukcionizmus" src="orig" selected="1">NNIS7-----A----</tag>
+<tag>
+<AM lemma="redukcionizmus" src="orig">NNIS7-----A----</AM>
+<AM lemma="redukcionismus_,s_^(^DD**redukcionizmus]" src="manual" selected="1">NNIS7-----A----</AM>
+</tag>
 </m>
 <m id="m-vesm9211-004-p8s2w10">
 <src.rf>manual</src.rf>
@@ -2875,6 +2896,7 @@
 <AM lemma="fenomén" src="orig">NNIP1-----A----</AM>
 <AM lemma="fenomén" src="auto">NNMP4-----A----</AM>
 <AM lemma="fenomén" src="auto" recommended="1">NNMP7-----A----</AM>
+<AM lemma="fenomén-1" src="manual" selected="1">NNIP1-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9211-004-p8s4w30">
@@ -3321,7 +3343,10 @@
 <LM>w#w-vesm9211-004-p10s1w7</LM>
 </w.rf>
 <form>de</form>
-<tag lemma="de_,t_^(z_franc._de,_zejm._ve_jménech)" src="orig" selected="1">RR--1----------</tag>
+<tag>
+<AM lemma="de_,t_^(z_franc._de,_zejm._ve_jménech)" src="orig">RR--1----------</AM>
+<AM lemma="de-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-vesm9211-004-p10s1w8">
 <src.rf>manual</src.rf>
@@ -3905,7 +3930,7 @@
 <AM lemma="řád-1_^(právní;_pořádek;_úroveň)" src="orig">NNIS6-----A----</AM>
 <AM lemma="řád" src="auto">NNIS2-----A----</AM>
 <AM lemma="řád" src="auto">NNIS3-----A----</AM>
-<AM lemma="řád" src="auto" recommended="1">NNIS6-----A---1</AM>
+<AM lemma="řád" src="auto" recommended="1" selected="1">NNIS6-----A---1</AM>
 </tag>
 </m>
 <m id="m-vesm9211-004-p10s3w14">
@@ -4200,7 +4225,10 @@
 <LM>w#w-vesm9211-004-p12s2w5</LM>
 </w.rf>
 <form>materialismu</form>
-<tag lemma="materialismus" src="orig" selected="1">NNIS2-----A----</tag>
+<tag>
+<AM lemma="materialismus" src="orig">NNIS2-----A----</AM>
+<AM lemma="materialismus_,s_^(^DD**materializmus]" src="manual" selected="1">NNIS2-----A----</AM>
+</tag>
 </m>
 <m id="m-vesm9211-004-p12s2w6">
 <src.rf>manual</src.rf>
@@ -4352,7 +4380,10 @@
 <LM>w#w-vesm9211-004-p12s2w24</LM>
 </w.rf>
 <form>S</form>
-<tag lemma="S-0_:B_;Y" src="orig" selected="1">NNMXX-----A---8</tag>
+<tag>
+<AM lemma="S-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
+<AM lemma="S-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-vesm9211-004-p12s2w25">
 <src.rf>manual</src.rf>

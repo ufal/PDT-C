@@ -78,7 +78,7 @@
 </w.rf>
 <form>bod</form>
 <tag>
-<AM lemma="bod-99_:B_;S" src="orig">NNXXX-----A---8</AM>
+<AM lemma="bod-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</AM>
 <AM lemma="bod" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="bod" src="auto">NNIS4-----A----</AM>
 <AM lemma="bodnout_:W" src="auto">VpYS---XR-AA--6</AM>
@@ -311,7 +311,7 @@
 <tag>
 <AM lemma="totiž" src="orig">Db-------------</AM>
 <AM lemma="totiž-1" src="auto">J^-------------</AM>
-<AM lemma="totiž-2" src="auto" recommended="1">TT-------------</AM>
+<AM lemma="totiž-2" src="auto" recommended="1" selected="1">TT-------------</AM>
 </tag>
 </m>
 <m id="m-mf930701-131-p2s2w5">
@@ -516,7 +516,10 @@
 <LM>w#w-mf930701-131-p2s4w4</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-2" src="auto" selected="1">Dg-------2A----</tag>
+<tag>
+<AM lemma="hodně-2" src="auto">Dg-------2A----</AM>
+<AM lemma="hodně-3" src="manual" selected="1">Dg-------2A----</AM>
+</tag>
 </m>
 <m id="m-mf930701-131-p2s4w5">
 <src.rf>manual</src.rf>
@@ -632,7 +635,7 @@
 <form>zbude</form>
 <tag>
 <AM lemma="zbýt_,h_,x" src="orig">VB-S---3P-AA---</AM>
-<AM lemma="zbýt" src="auto" recommended="1">VB-S---3P-AA--1</AM>
+<AM lemma="zbýt" src="auto" recommended="1" selected="1">VB-S---3P-AA--1</AM>
 </tag>
 </m>
 <m id="m-mf930701-131-p2s5w7">
@@ -713,7 +716,10 @@
 <LM>w#w-mf930701-131-p2s5w16</LM>
 </w.rf>
 <form>jen</form>
-<tag lemma="jen-1" src="auto" selected="1">TT-------------</tag>
+<tag>
+<AM lemma="jen-1" src="auto">TT-------------</AM>
+<AM lemma="jen-4_^(pouze)" src="manual" selected="1">Db-------------</AM>
+</tag>
 </m>
 <m id="m-mf930701-131-p2s5w17">
 <src.rf>manual</src.rf>
@@ -785,7 +791,10 @@
 <LM>w#w-mf930701-131-p2s5w25</LM>
 </w.rf>
 <form>Bernard</form>
-<tag lemma="Bernard_;Y" src="orig" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Bernard_;Y" src="orig">NNMS1-----A----</AM>
+<AM lemma="Bernard_;Y_;S" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930701-131-p2s5w26">
 <src.rf>manual</src.rf>
@@ -906,7 +915,7 @@
 <AM lemma="zaměstnanost-1_^(všeob._význam:_činnost,_zaměstnání)_(*5ý-1)" src="auto">NNFP2-----A----</AM>
 <AM lemma="zaměstnanost-1_^(všeob._význam:_činnost,_zaměstnání)_(*5ý-1)" src="auto" recommended="1">NNFS7-----A----</AM>
 <AM lemma="zaměstnanost-2_^(politika_z.;_přednost_před_odvoz.)" src="auto">NNFP2-----A----</AM>
-<AM lemma="zaměstnanost-2_^(politika_z.;_přednost_před_odvoz.)" src="auto">NNFS7-----A----</AM>
+<AM lemma="zaměstnanost-2_^(politika_z.;_přednost_před_odvoz.)" src="auto" selected="1">NNFS7-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930701-131-p2s7w6">
@@ -1093,7 +1102,10 @@
 <LM>w#w-mf930701-131-p2s8w13</LM>
 </w.rf>
 <form>SRN</form>
-<tag lemma="SRN_:B_;G" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="SRN_:B_;G" src="orig">NNFXX-----A---8</AM>
+<AM lemma="SRN-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-mf930701-131-p2s8w14">
 <src.rf>manual</src.rf>

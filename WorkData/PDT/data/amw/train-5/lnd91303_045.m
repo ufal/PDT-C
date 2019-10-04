@@ -47,7 +47,7 @@
 <form>Sovět</form>
 <tag>
 <AM lemma="sovět-2_^(občan_SSSR)" src="orig">NNMS1-----A----</AM>
-<AM lemma="Sovět_;E_^(občan_SSSR)" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Sovět_;E_^(občan_SSSR)" src="auto" recommended="1" selected="1">NNMS1-----A----</AM>
 <AM lemma="sovět-1_^(rada;_výbor)" src="auto">NNIS1-----A----</AM>
 <AM lemma="sovět-1_^(rada;_výbor)" src="auto">NNIS4-----A----</AM>
 </tag>
@@ -164,7 +164,10 @@
 <LM>w#w-lnd91303-045-p3s1w11</LM>
 </w.rf>
 <form>SSSR</form>
-<tag lemma="SSSR_:B_;G_^(Svaz_sov._socialist._republik)" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="SSSR_:B_;G_^(Svaz_sov._socialist._republik)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="SSSR_:B_;G_^(Svaz_sov._socialist._republik)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd91303-045-p3s1w12">
 <src.rf>manual</src.rf>
@@ -342,7 +345,7 @@
 <form>Sovětem</form>
 <tag>
 <AM lemma="sovět-2_^(občan_SSSR)" src="orig">NNMS7-----A----</AM>
-<AM lemma="Sovět_;E_^(občan_SSSR)" src="auto" recommended="1">NNMS7-----A----</AM>
+<AM lemma="Sovět_;E_^(občan_SSSR)" src="auto" recommended="1" selected="1">NNMS7-----A----</AM>
 <AM lemma="sovět-1_^(rada;_výbor)" src="auto">NNIS7-----A----</AM>
 </tag>
 </m>
@@ -777,7 +780,10 @@
 <LM>w#w-lnd91303-045-p3s4Bw1</LM>
 </w.rf>
 <form>Nejvíc</form>
-<tag lemma="hodně-2" src="auto" selected="1">Dg-------3A---1</tag>
+<tag>
+<AM lemma="hodně-2" src="auto">Dg-------3A---1</AM>
+<AM lemma="hodně-3" src="manual" selected="1">Dg-------3A---1</AM>
+</tag>
 </m>
 <m id="m-lnd91303-045-p3s4Bw2">
 <src.rf>manual</src.rf>
@@ -1147,7 +1153,11 @@
 <LM>w#w-lnd91303-045-p3s4Bw47</LM>
 </w.rf>
 <form>Corriere</form>
-<tag lemma="Corriere_;R_,t" src="orig" selected="1">NNIXX-----A----</tag>
+<tag>
+<AM lemma="Corriere_;R_,t" src="orig">NNIXX-----A----</AM>
+<AM lemma="corriere_,t" src="manual">NNXXX-----A----</AM>
+<AM lemma="Corriere-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-lnd91303-045-p3s4Bw48">
 <src.rf>manual</src.rf>
@@ -1158,6 +1168,7 @@
 <tag>
 <AM lemma="della_,t" src="orig">AAXXX----1A----</AM>
 <AM lemma="della_;R_,t_^(it.,_ve_jménech,_př._della_Rebia)" src="auto" recommended="1">RR--X----------</AM>
+<AM lemma="della-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-lnd91303-045-p3s4Bw49">
@@ -1180,6 +1191,8 @@
 <AM lemma="sérum" src="auto">NNNP4-----A----</AM>
 <AM lemma="sérum" src="auto">NNNP5-----A----</AM>
 <AM lemma="sérum" src="auto">NNNS2-----A----</AM>
+<AM lemma="sera_,t" src="manual">NNXXX-----A----</AM>
+<AM lemma="Sera-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-lnd91303-045-p3s4Bw50">

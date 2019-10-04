@@ -51,7 +51,10 @@
 <LM>w#w-ln94201-7-p1s1w5</LM>
 </w.rf>
 <form>OSN</form>
-<tag lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 </s>
 <s id="m-ln94201-7-p2s1">
@@ -125,7 +128,10 @@
 <LM>w#w-ln94201-7-p2s1w9</LM>
 </w.rf>
 <form>OSN</form>
-<tag lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94201-7-p2s1w10">
 <src.rf>manual</src.rf>
@@ -225,7 +231,7 @@
 <AM lemma="Záhřeb_;G" src="orig">NNIS6-----A----</AM>
 <AM lemma="Záhřeb_;G" src="auto">NNIS2-----A---1</AM>
 <AM lemma="Záhřeb_;G" src="auto">NNIS3-----A----</AM>
-<AM lemma="Záhřeb_;G" src="auto" recommended="1">NNIS6-----A---1</AM>
+<AM lemma="Záhřeb_;G" src="auto" recommended="1" selected="1">NNIS6-----A---1</AM>
 </tag>
 </m>
 <m id="m-ln94201-7-p2s1w22">
@@ -282,7 +288,10 @@
 <LM>w#w-ln94201-7-p2s1w28</LM>
 </w.rf>
 <form>Matem</form>
-<tag lemma="Mate-1_;S" src="auto" selected="1">NNMS7-----A----</tag>
+<tag>
+<AM lemma="Mate-1_;S" src="auto">NNMS7-----A----</AM>
+<AM lemma="Mate-1_;S_;Y" src="manual" selected="1">NNMS7-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94201-7-p2s1w29">
 <src.rf>manual</src.rf>
@@ -322,7 +331,10 @@
 <LM>w#w-ln94201-7-p2s1w33</LM>
 </w.rf>
 <form>Klaus</form>
-<tag lemma="Klaus_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Klaus_;S" src="orig">NNMS1-----A----</AM>
+<AM lemma="Klaus_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94201-7-p2s1w34">
 <src.rf>manual</src.rf>
@@ -492,7 +504,10 @@
 <LM>w#w-ln94201-7-p2s2w19</LM>
 </w.rf>
 <form>OSN</form>
-<tag lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94201-7-p2s2w20">
 <src.rf>manual</src.rf>
@@ -542,7 +557,10 @@
 <LM>w#w-ln94201-7-p3s1w1</LM>
 </w.rf>
 <form>Více</form>
-<tag lemma="hodně-2" src="auto" selected="1">Dg-------2A----</tag>
+<tag>
+<AM lemma="hodně-2" src="auto">Dg-------2A----</AM>
+<AM lemma="hodně-3" src="manual" selected="1">Dg-------2A----</AM>
+</tag>
 </m>
 <m id="m-ln94201-7-p3s1w2">
 <src.rf>manual</src.rf>

@@ -195,7 +195,12 @@
 <LM>w#w-mf920922-133-p4s2w12</LM>
 </w.rf>
 <form>nejvíce</form>
-<tag lemma="hodně-2" src="auto" selected="1">Dg-------3A----</tag>
+<tag>
+<AM lemma="hodně-2" src="auto">Dg-------3A----</AM>
+<AM lemma="hodně-3	nejvíce_^(nejvíce_+_2._p.,_nejvíce_peněz)" src="manual">Ca--4----------</AM>
+<AM lemma="ejvíce_^(nejvíce_+_2._p.,_nejvíce_peněz)" src="manual">Ca--4----------</AM>
+<AM lemma="nejvíce_^(nejvíce_+_2._p.,_nejvíce_peněz)" src="manual" selected="1">Ca--4----------</AM>
+</tag>
 </m>
 <m id="m-mf920922-133-p4s2w13">
 <src.rf>manual</src.rf>
@@ -267,7 +272,10 @@
 <LM>w#w-mf920922-133-p4s2w21</LM>
 </w.rf>
 <form>Lennart</form>
-<tag lemma="Lennart_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Lennart_;S" src="orig">NNMS1-----A----</AM>
+<AM lemma="Lennart_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920922-133-p4s2w22">
 <src.rf>manual</src.rf>

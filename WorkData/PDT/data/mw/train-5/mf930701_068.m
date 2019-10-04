@@ -1007,7 +1007,10 @@
 <LM>w#w-mf930701-068-p2s6w6</LM>
 </w.rf>
 <form>jen</form>
-<tag lemma="jen-1" src="auto" selected="1">TT-------------</tag>
+<tag>
+<AM lemma="jen-1" src="auto">TT-------------</AM>
+<AM lemma="jen-4_^(pouze)" src="manual" selected="1">Db-------------</AM>
+</tag>
 </m>
 <m id="m-mf930701-068-p2s6w7">
 <src.rf>manual</src.rf>
@@ -1815,7 +1818,10 @@
 <LM>w#w-mf930701-068-p2s10w36</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-2" src="auto" selected="1">Dg-------2A----</tag>
+<tag>
+<AM lemma="hodně-2" src="auto">Dg-------2A----</AM>
+<AM lemma="více_^(více_+_2._p.,_více_peněz)" src="manual" selected="1">Ca--4----------</AM>
+</tag>
 </m>
 <m id="m-mf930701-068-p2s10w37">
 <src.rf>manual</src.rf>
@@ -1881,7 +1887,10 @@
 <LM>w#w-mf930701-068-p2s11w2</LM>
 </w.rf>
 <form>Ani</form>
-<tag lemma="ani-1" src="auto" selected="1">J^-------------</tag>
+<tag>
+<AM lemma="ani-1" src="auto">J^-------------</AM>
+<AM lemma="ani-2" src="manual" selected="1">TT-------------</AM>
+</tag>
 </m>
 <m id="m-mf930701-068-p2s11w3">
 <src.rf>manual</src.rf>
@@ -2028,7 +2037,7 @@
 <AM lemma="taka-1_;L" src="auto">NNFP4-----A----</AM>
 <AM lemma="taka-1_;L" src="auto">NNFP5-----A----</AM>
 <AM lemma="taka-1_;L" src="auto">NNFS2-----A----</AM>
-<AM lemma="taky" src="auto" recommended="1">Db-------------</AM>
+<AM lemma="taky" src="auto" recommended="1" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m-mf930701-068-p2s12w2">
@@ -2464,7 +2473,7 @@
 <form>zaměstnáni</form>
 <tag>
 <AM lemma="zaměstnán-1_:W" src="orig">VsMP---XX-AP---</AM>
-<AM lemma="zaměstnat-1_:W_^(všeob._význam:_činnost,_zaměstnání)" src="auto" recommended="1">VsMP---XX-AP---</AM>
+<AM lemma="zaměstnat-1_:W_^(všeob._význam:_činnost,_zaměstnání)" src="auto" recommended="1" selected="1">VsMP---XX-AP---</AM>
 </tag>
 </m>
 <m id="m-mf930701-068-p2s16w4">
@@ -2830,7 +2839,7 @@
 <AM lemma="taka-1_;L" src="auto">NNFP4-----A----</AM>
 <AM lemma="taka-1_;L" src="auto">NNFP5-----A----</AM>
 <AM lemma="taka-1_;L" src="auto">NNFS2-----A----</AM>
-<AM lemma="taky" src="auto" recommended="1">Db-------------</AM>
+<AM lemma="taky" src="auto" recommended="1" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m-mf930701-068-p2s22w2">

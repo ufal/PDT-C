@@ -43,7 +43,10 @@
 <LM>w#w-lnd94101-072-p1s1w4</LM>
 </w.rf>
 <form>Twin</form>
-<tag lemma="Twin_;G" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="Twin_;G" src="orig">AAXXX----1A----</AM>
+<AM lemma="Twin-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-lnd94101-072-p1s1w5">
 <src.rf>manual</src.rf>
@@ -51,7 +54,10 @@
 <LM>w#w-lnd94101-072-p1s1w5</LM>
 </w.rf>
 <form>Peaks</form>
-<tag lemma="Peak_;G" src="orig" selected="1">NNIPX-----A----</tag>
+<tag>
+<AM lemma="Peak_;G" src="orig">NNIPX-----A----</AM>
+<AM lemma="Peaks-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-lnd94101-072-p1s1w6">
 <src.rf>manual</src.rf>
@@ -127,7 +133,10 @@
 <LM>w#w-lnd94101-072-p1s2Bw4</LM>
 </w.rf>
 <form>TWIN</form>
-<tag lemma="Twin_;G" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="Twin_;G" src="orig">AAXXX----1A----</AM>
+<AM lemma="TWIN-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-lnd94101-072-p1s2Bw5">
 <src.rf>manual</src.rf>
@@ -135,7 +144,10 @@
 <LM>w#w-lnd94101-072-p1s2Bw5</LM>
 </w.rf>
 <form>PEAKS</form>
-<tag lemma="Peak_;G" src="orig" selected="1">NNIPX-----A----</tag>
+<tag>
+<AM lemma="Peak_;G" src="orig">NNIPX-----A----</AM>
+<AM lemma="PEAKS-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-lnd94101-072-p1s2Bw6">
 <src.rf>manual</src.rf>
@@ -688,7 +700,10 @@
 <LM>w#w-lnd94101-072-p1s6w6</LM>
 </w.rf>
 <form>Jennifer</form>
-<tag lemma="Jennifer_;Y_,t" src="auto" selected="1">NNFXX-----A----</tag>
+<tag>
+<AM lemma="Jennifer_;Y_,t" src="auto">NNFXX-----A----</AM>
+<AM lemma="Jennifer_;Y" src="manual" selected="1">NNFXX-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd94101-072-p1s6w7">
 <src.rf>manual</src.rf>
@@ -696,7 +711,10 @@
 <LM>w#w-lnd94101-072-p1s6w7</LM>
 </w.rf>
 <form>Chambers</form>
-<tag lemma="Chambers_;S" src="auto" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Chambers_;S" src="auto">NNMS1-----A----</AM>
+<AM lemma="Chambers-2_;S" src="manual" selected="1">NNFXX-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd94101-072-p1s6w8">
 <src.rf>manual</src.rf>
@@ -1252,7 +1270,10 @@
 <LM>w#w-lnd94101-072-p1s8w7</LM>
 </w.rf>
 <form>Twin</form>
-<tag lemma="Twin_;G" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="Twin_;G" src="orig">AAXXX----1A----</AM>
+<AM lemma="Twin-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-lnd94101-072-p1s8w8">
 <src.rf>manual</src.rf>
@@ -1260,7 +1281,10 @@
 <LM>w#w-lnd94101-072-p1s8w8</LM>
 </w.rf>
 <form>Peaks</form>
-<tag lemma="Peak_;G" src="orig" selected="1">NNIPX-----A----</tag>
+<tag>
+<AM lemma="Peak_;G" src="orig">NNIPX-----A----</AM>
+<AM lemma="Peaks-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-lnd94101-072-p1s8w9">
 <src.rf>manual</src.rf>
@@ -1502,7 +1526,10 @@
 <LM>w#w-lnd94101-072-p1s9w12</LM>
 </w.rf>
 <form>Twin</form>
-<tag lemma="Twin_;G" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="Twin_;G" src="orig">AAXXX----1A----</AM>
+<AM lemma="Twin-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-lnd94101-072-p1s9w13">
 <src.rf>manual</src.rf>
@@ -1510,7 +1537,10 @@
 <LM>w#w-lnd94101-072-p1s9w13</LM>
 </w.rf>
 <form>Peaks</form>
-<tag lemma="Peak_;G" src="orig" selected="1">NNIPX-----A----</tag>
+<tag>
+<AM lemma="Peak_;G" src="orig">NNIPX-----A----</AM>
+<AM lemma="Peaks-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-lnd94101-072-p1s9w14">
 <src.rf>manual</src.rf>
@@ -1888,7 +1918,7 @@
 <form>totiž</form>
 <tag>
 <AM lemma="totiž" src="orig">Db-------------</AM>
-<AM lemma="totiž-1" src="auto" recommended="1">J^-------------</AM>
+<AM lemma="totiž-1" src="auto" recommended="1" selected="1">J^-------------</AM>
 <AM lemma="totiž-2" src="auto">TT-------------</AM>
 </tag>
 </m>
@@ -1898,7 +1928,10 @@
 <LM>w#w-lnd94101-072-p1s12w3</LM>
 </w.rf>
 <form>jenom</form>
-<tag lemma="jenom-1" src="auto" selected="1">TT-------------</tag>
+<tag>
+<AM lemma="jenom-1" src="auto">TT-------------</AM>
+<AM lemma="jenom-2_^(pouze)" src="manual" selected="1">Db-------------</AM>
+</tag>
 </m>
 <m id="m-lnd94101-072-p1s12w4">
 <src.rf>manual</src.rf>
@@ -1946,7 +1979,10 @@
 <LM>w#w-lnd94101-072-p1s12w9</LM>
 </w.rf>
 <form>pop</form>
-<tag lemma="pop-3_,t_^(př._ve_spojení_pop_music)" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="pop-3_,t_^(př._ve_spojení_pop_music)" src="orig">AAXXX----1A----</AM>
+<AM lemma="pop-3_^(př._ve_spojení_pop_music)" src="manual" selected="1">AAXXX----1A----</AM>
+</tag>
 </m>
 <m id="m-lnd94101-072-p1s12w10">
 <src.rf>manual</src.rf>
@@ -1962,7 +1998,10 @@
 <LM>w#w-lnd94101-072-p1s12w11</LM>
 </w.rf>
 <form>Twin</form>
-<tag lemma="Twin_;G" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="Twin_;G" src="orig">AAXXX----1A----</AM>
+<AM lemma="Twin-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-lnd94101-072-p1s12w12">
 <src.rf>manual</src.rf>
@@ -1970,7 +2009,10 @@
 <LM>w#w-lnd94101-072-p1s12w12</LM>
 </w.rf>
 <form>Peaks</form>
-<tag lemma="Peak_;G" src="orig" selected="1">NNIPX-----A----</tag>
+<tag>
+<AM lemma="Peak_;G" src="orig">NNIPX-----A----</AM>
+<AM lemma="Peaks-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-lnd94101-072-p1s12w13">
 <src.rf>manual</src.rf>
@@ -2046,7 +2088,7 @@
 <form>kdokoli</form>
 <tag>
 <AM lemma="kdokoliv" src="orig">PZM-1---------1</AM>
-<AM lemma="kdokoli" src="auto" recommended="1">PZM-1----------</AM>
+<AM lemma="kdokoli" src="auto" recommended="1" selected="1">PZM-1----------</AM>
 <AM lemma="kdokoli" src="auto">PZM-5----------</AM>
 </tag>
 </m>
@@ -2139,7 +2181,7 @@
 <tag>
 <AM lemma="cokoliv" src="orig">PZ--4---------1</AM>
 <AM lemma="cokoli" src="auto">PZ--1----------</AM>
-<AM lemma="cokoli" src="auto" recommended="1">PZ--4----------</AM>
+<AM lemma="cokoli" src="auto" recommended="1" selected="1">PZ--4----------</AM>
 <AM lemma="cokoli" src="auto">PZ--5----------</AM>
 </tag>
 </m>
@@ -2173,7 +2215,10 @@
 <LM>w#w-lnd94101-072-p1s13w23</LM>
 </w.rf>
 <form>Twin</form>
-<tag lemma="Twin_;G" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="Twin_;G" src="orig">AAXXX----1A----</AM>
+<AM lemma="Twin-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-lnd94101-072-p1s13w24">
 <src.rf>manual</src.rf>
@@ -2181,7 +2226,10 @@
 <LM>w#w-lnd94101-072-p1s13w24</LM>
 </w.rf>
 <form>Peaks</form>
-<tag lemma="Peak_;G" src="orig" selected="1">NNIPX-----A----</tag>
+<tag>
+<AM lemma="Peak_;G" src="orig">NNIPX-----A----</AM>
+<AM lemma="Peaks-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-lnd94101-072-p1s13w25">
 <src.rf>manual</src.rf>
@@ -2257,7 +2305,7 @@
 <form>nikoli</form>
 <tag>
 <AM lemma="nikoliv" src="orig">Db------------1</AM>
-<AM lemma="nikoli" src="auto" recommended="1">TT-------------</AM>
+<AM lemma="nikoli" src="auto" recommended="1" selected="1">TT-------------</AM>
 </tag>
 </m>
 <m id="m-lnd94101-072-p1s14w9">
@@ -2471,7 +2519,7 @@
 <tag>
 <AM lemma="přece" src="orig">Db-------------</AM>
 <AM lemma="přece-1" src="auto" recommended="1">J^-------------</AM>
-<AM lemma="přece-2" src="auto">TT-------------</AM>
+<AM lemma="přece-2" src="auto" selected="1">TT-------------</AM>
 </tag>
 </m>
 <m id="m-lnd94101-072-p1s15w10">
@@ -2666,7 +2714,10 @@
 <LM>w#w-lnd94101-072-p1s16w2</LM>
 </w.rf>
 <form>Twin</form>
-<tag lemma="Twin_;G" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="Twin_;G" src="orig">AAXXX----1A----</AM>
+<AM lemma="Twin-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-lnd94101-072-p1s16w3">
 <src.rf>manual</src.rf>
@@ -2674,7 +2725,10 @@
 <LM>w#w-lnd94101-072-p1s16w3</LM>
 </w.rf>
 <form>Peaks</form>
-<tag lemma="Peak_;G" src="orig" selected="1">NNIPX-----A----</tag>
+<tag>
+<AM lemma="Peak_;G" src="orig">NNIPX-----A----</AM>
+<AM lemma="Peaks-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-lnd94101-072-p1s16w4">
 <src.rf>manual</src.rf>
@@ -3362,7 +3416,10 @@
 <LM>w#w-lnd94101-072-p1s20w10</LM>
 </w.rf>
 <form>Twin</form>
-<tag lemma="Twin_;G" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="Twin_;G" src="orig">AAXXX----1A----</AM>
+<AM lemma="Twin-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-lnd94101-072-p1s20w11">
 <src.rf>manual</src.rf>
@@ -3370,7 +3427,10 @@
 <LM>w#w-lnd94101-072-p1s20w11</LM>
 </w.rf>
 <form>Peaks</form>
-<tag lemma="Peak_;G" src="orig" selected="1">NNIPX-----A----</tag>
+<tag>
+<AM lemma="Peak_;G" src="orig">NNIPX-----A----</AM>
+<AM lemma="Peaks-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-lnd94101-072-p1s20w12">
 <src.rf>manual</src.rf>
@@ -3619,6 +3679,7 @@
 <tag>
 <AM lemma="FBI_:B_;K" src="orig">NNIXX-----A---8</AM>
 <AM lemma="FBI_:B_;K_,t_^(Fed._Bureau_of_Investigation)" src="auto" recommended="1">NNFXX-----A---8</AM>
+<AM lemma="FBI-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94101-072-p1s23w10">
@@ -3627,7 +3688,10 @@
 <LM>w#w-lnd94101-072-p1s23w10</LM>
 </w.rf>
 <form>Dalea</form>
-<tag lemma="Dale-1_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag>
+<AM lemma="Dale-1_;S" src="orig">NNMS2-----A----</AM>
+<AM lemma="Dale-1_;S_;Y" src="manual" selected="1">NNMS2-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd94101-072-p1s23w11">
 <src.rf>manual</src.rf>

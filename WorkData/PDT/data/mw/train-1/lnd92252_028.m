@@ -19,7 +19,10 @@
 <LM>w#w-lnd92252-028-p1s1w1</LM>
 </w.rf>
 <form>M</form>
-<tag lemma="M-0_:B_;Y" src="orig" selected="1">NNMXX-----A---8</tag>
+<tag>
+<AM lemma="M-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
+<AM lemma="M-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd92252-028-p1s1w2">
 <src.rf>manual</src.rf>
@@ -71,7 +74,10 @@
 <LM>w#w-lnd92252-028-p2s1w1</LM>
 </w.rf>
 <form>Více</form>
-<tag lemma="hodně-2" src="auto" selected="1">Dg-------2A----</tag>
+<tag>
+<AM lemma="hodně-2" src="auto">Dg-------2A----</AM>
+<AM lemma="hodně-3" src="manual" selected="1">Dg-------2A----</AM>
+</tag>
 </m>
 <m id="m-lnd92252-028-p2s1w2">
 <src.rf>manual</src.rf>
@@ -139,7 +145,10 @@
 <LM>w#w-lnd92252-028-p3s2w5</LM>
 </w.rf>
 <form>ČSFR</form>
-<tag lemma="ČSFR-1_:B_;G_^(Čs._federativní_republika)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ČSFR-1_:B_;G_^(Čs._federativní_republika)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČSFR-1_:B_;G_^(Čs._federativní_republika)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92252-028-p3s2w6">
 <src.rf>manual</src.rf>
@@ -163,7 +172,10 @@
 <LM>w#w-lnd92252-028-p3s2w8</LM>
 </w.rf>
 <form>HZDS</form>
-<tag lemma="HZDS-1_:B_;K_;p_,t_^(Hnutie_za_demokratické_Slovensko)" src="orig" selected="1">NNNXX-----A---8</tag>
+<tag>
+<AM lemma="HZDS-1_:B_;K_;p_,t_^(Hnutie_za_demokratické_Slovensko)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="HZDS-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd92252-028-p3s2w9">
 <src.rf>manual</src.rf>
@@ -323,7 +335,10 @@
 <LM>w#w-lnd92252-028-p3s2w29</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-2" src="auto" selected="1">Dg-------2A----</tag>
+<tag>
+<AM lemma="hodně-2" src="auto">Dg-------2A----</AM>
+<AM lemma="hodně-3" src="manual" selected="1">Dg-------2A----</AM>
+</tag>
 </m>
 <m id="m-lnd92252-028-p3s2w30">
 <src.rf>manual</src.rf>
@@ -445,7 +460,10 @@
 <LM>w#w-lnd92252-028-p3s3w10</LM>
 </w.rf>
 <form>a</form>
-<tag lemma="akciový_:B_^(jen_akciová_společnost)" src="orig" selected="1">AAXXX----1A---8</tag>
+<tag>
+<AM lemma="akciový_:B_^(jen_akciová_společnost)" src="orig">AAXXX----1A---8</AM>
+<AM lemma="akciový_^(jen_akciová_společnost)" src="manual" selected="1">AAXXX----1A---8</AM>
+</tag>
 </m>
 <m id="m-lnd92252-028-p3s3w11">
 <src.rf>manual</src.rf>
@@ -461,7 +479,10 @@
 <LM>w#w-lnd92252-028-p3s3w12</LM>
 </w.rf>
 <form>s</form>
-<tag lemma="společnost_:B" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="společnost_:B" src="orig">NNFXX-----A---8</AM>
+<AM lemma="společnost" src="manual" selected="1">NNFXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd92252-028-p3s3w13">
 <src.rf>manual</src.rf>
@@ -477,7 +498,10 @@
 <LM>w#w-lnd92252-028-p3s3w14</LM>
 </w.rf>
 <form>Vihorlat</form>
-<tag lemma="Vihorlat_;G" src="orig" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="Vihorlat_;G" src="orig">NNIS1-----A----</AM>
+<AM lemma="Vihorlat_;G_;K" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92252-028-p3s3w15">
 <src.rf>manual</src.rf>
@@ -647,7 +671,10 @@
 <LM>w#w-lnd92252-028-p3s4w1</LM>
 </w.rf>
 <form>M</form>
-<tag lemma="M-0_:B_;Y" src="orig" selected="1">NNMXX-----A---8</tag>
+<tag>
+<AM lemma="M-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
+<AM lemma="M-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd92252-028-p3s4w2">
 <src.rf>manual</src.rf>

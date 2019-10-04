@@ -93,7 +93,10 @@
 <LM>w#w-ln94208-113-p2s1w9</LM>
 </w.rf>
 <form>Andoře</form>
-<tag lemma="Andorra_;G" src="orig" selected="1">NNFS6-----A----</tag>
+<tag>
+<AM lemma="Andorra_;G" src="orig">NNFS6-----A----</AM>
+<AM lemma="Andora_;G_,s_^(^DD**Andorra)" src="manual" selected="1">NNFS6-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94208-113-p2s1w10">
 <src.rf>manual</src.rf>
@@ -322,7 +325,7 @@
 </w.rf>
 <form>Oravainen</form>
 <tag>
-<AM lemma="Oravainen_;S" src="orig">NNMS1-----A----</AM>
+<AM lemma="Oravainen_;S" src="orig" selected="1">NNMS1-----A----</AM>
 <AM lemma="Oravainen_;G" src="auto">NNIS1-----A----</AM>
 <AM lemma="Oravainen_;G" src="auto" recommended="1">NNIS4-----A----</AM>
 </tag>

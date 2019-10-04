@@ -64,7 +64,7 @@
 <tag>
 <AM lemma="přerážet" src="orig">AGFP6-----A----</AM>
 <AM lemma="přerážecí_^(^IC*2t)" src="auto">AAFP2----1A----</AM>
-<AM lemma="přerážecí_^(^IC*2t)" src="auto" recommended="1">AAFP6----1A----</AM>
+<AM lemma="přerážecí_^(^IC*2t)" src="auto" recommended="1" selected="1">AAFP6----1A----</AM>
 <AM lemma="přerážecí_^(^IC*2t)" src="auto">AAIP2----1A----</AM>
 <AM lemma="přerážecí_^(^IC*2t)" src="auto">AAIP6----1A----</AM>
 <AM lemma="přerážecí_^(^IC*2t)" src="auto">AAMP2----1A----</AM>
@@ -95,7 +95,10 @@
 <LM>w#w-mf920923-057-p2s1w7</LM>
 </w.rf>
 <form>MS</form>
-<tag lemma="MS-3_:B_;w_^(mistrovství_světa)" src="orig" selected="1">NNNXX-----A---8</tag>
+<tag>
+<AM lemma="MS-3_:B_;w_^(mistrovství_světa)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="MS-3_:B_^(mistrovství_světa)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920923-057-p2s1w8">
 <src.rf>manual</src.rf>
@@ -112,7 +115,7 @@
 </w.rf>
 <form>taekwondo</form>
 <tag>
-<AM lemma="taekwondo" src="orig">NNNXX-----A----</AM>
+<AM lemma="taekwondo" src="orig" selected="1">NNNXX-----A----</AM>
 <AM lemma="taekwondo" src="auto">NNNS1-----A----</AM>
 <AM lemma="taekwondo" src="auto" recommended="1">NNNS4-----A----</AM>
 <AM lemma="taekwondo" src="auto">NNNS5-----A----</AM>
@@ -148,7 +151,10 @@
 <LM>w#w-mf920923-057-p2s1w13</LM>
 </w.rf>
 <form>čs</form>
-<tag lemma="československý_:B" src="orig" selected="1">AAXXX----1A---8</tag>
+<tag>
+<AM lemma="československý_:B" src="orig">AAXXX----1A---8</AM>
+<AM lemma="československý" src="manual" selected="1">AAXXX----1A---8</AM>
+</tag>
 </m>
 <m id="m-mf920923-057-p2s1w14">
 <src.rf>manual</src.rf>
@@ -225,6 +231,7 @@
 <tag>
 <AM lemma="matsogi" src="orig">NNNS1-----A----</AM>
 <AM lemma="matsogi_;w_,t" src="auto" recommended="1">NNNXX-----A----</AM>
+<AM lemma="matsogi_;w" src="manual" selected="1">NNNXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920923-057-p2s2w7">
@@ -379,7 +386,10 @@
 <LM>w#w-mf920923-057-p3s1w13</LM>
 </w.rf>
 <form>O</form>
-<tag lemma="O-2_;S_^(v_irských_jménech,_př._O'Connor)" src="orig" selected="1">NNXXX-----A----</tag>
+<tag>
+<AM lemma="O-2_;S_^(v_irských_jménech,_př._O'Connor)" src="orig">NNXXX-----A----</AM>
+<AM lemma="O-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-mf920923-057-p3s1w14">
 <src.rf>manual</src.rf>
@@ -567,7 +577,10 @@
 <LM>w#w-mf920923-057-p4s1w4</LM>
 </w.rf>
 <form>čs</form>
-<tag lemma="československý_:B" src="orig" selected="1">AAXXX----1A---8</tag>
+<tag>
+<AM lemma="československý_:B" src="orig">AAXXX----1A---8</AM>
+<AM lemma="československý" src="manual" selected="1">AAXXX----1A---8</AM>
+</tag>
 </m>
 <m id="m-mf920923-057-p4s1w5">
 <src.rf>manual</src.rf>
@@ -751,7 +764,10 @@
 <LM>w#w-mf920923-057-p4s1w27</LM>
 </w.rf>
 <form>kg</form>
-<tag lemma="kg-1`kilogram_:B" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="kg-1`kilogram_:B" src="orig">NNIXX-----A---8</AM>
+<AM lemma="kilogram" src="manual" selected="1">NNIXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-mf920923-057-p4s1w28">
 <src.rf>manual</src.rf>
@@ -809,7 +825,10 @@
 <LM>w#w-mf920923-057-p5s1w3</LM>
 </w.rf>
 <form>ČSFR</form>
-<tag lemma="ČSFR-1_:B_;G_^(Čs._federativní_republika)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ČSFR-1_:B_;G_^(Čs._federativní_republika)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČSFR-1_:B_;G_^(Čs._federativní_republika)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920923-057-p5s1w4">
 <src.rf>manual</src.rf>
@@ -1043,7 +1062,10 @@
 <LM>w#w-mf920923-057-p6s1w11</LM>
 </w.rf>
 <form>vyhrála</form>
-<tag lemma="vyhrát" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag>
+<AM lemma="vyhrát" src="orig">VpQW---XR-AA---</AM>
+<AM lemma="vyhrát_:W" src="manual" selected="1">VpQW---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-mf920923-057-p6s1w12">
 <src.rf>manual</src.rf>
@@ -1437,7 +1459,10 @@
 <LM>w#w-mf920923-057-p7s1w28</LM>
 </w.rf>
 <form>La</form>
-<tag lemma="Le-1_,t_^(franc._člen_jako_souč._jmen_a_názvů)" src="orig" selected="1">AAFSX----1A----</tag>
+<tag>
+<AM lemma="Le-1_,t_^(franc._člen_jako_souč._jmen_a_názvů)" src="orig">AAFSX----1A----</AM>
+<AM lemma="La-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-mf920923-057-p7s1w29">
 <src.rf>manual</src.rf>
@@ -1705,7 +1730,10 @@
 <LM>w#w-mf920923-057-p10s2w13</LM>
 </w.rf>
 <form>F</form>
-<tag lemma="f-3_^(označení_pomocí_písmene)" src="orig" selected="1">NNNXX-----A----</tag>
+<tag>
+<AM lemma="f-3_^(označení_pomocí_písmene)" src="orig">NNNXX-----A----</AM>
+<AM lemma="F-33_^(označení_pomocí_písmene)" src="manual" selected="1">NNNXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920923-057-p10s2w14">
 <src.rf>manual</src.rf>
@@ -1835,7 +1863,10 @@
 <LM>w#w-mf920923-057-p11s1w13</LM>
 </w.rf>
 <form>TJ</form>
-<tag lemma="TJ-1_:B_;K_;w_^(tělovýchovná_jednota)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="TJ-1_:B_;K_;w_^(tělovýchovná_jednota)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="TJ-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920923-057-p11s1w14">
 <src.rf>manual</src.rf>
@@ -2069,7 +2100,10 @@
 <LM>w#w-mf920923-057-p11s2w15</LM>
 </w.rf>
 <form>Ukrajinec</form>
-<tag lemma="ukrajinec" src="orig" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="ukrajinec" src="orig">NNMS1-----A----</AM>
+<AM lemma="Ukrajinec_;E" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920923-057-p11s2w16">
 <src.rf>manual</src.rf>

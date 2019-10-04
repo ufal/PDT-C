@@ -157,7 +157,10 @@
 <LM>w#w-ln95043-042-p2s1w17</LM>
 </w.rf>
 <form>OSN</form>
-<tag lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95043-042-p2s1w18">
 <src.rf>manual</src.rf>
@@ -328,7 +331,10 @@
 <LM>w#w-ln95043-042-p2s2w17</LM>
 </w.rf>
 <form>OSN</form>
-<tag lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95043-042-p2s2w18">
 <src.rf>manual</src.rf>
@@ -482,7 +488,10 @@
 <LM>w#w-ln95043-042-p3s1w18</LM>
 </w.rf>
 <form>Kurdů</form>
-<tag lemma="Kurd" src="orig" selected="1">NNMP2-----A----</tag>
+<tag>
+<AM lemma="Kurd" src="orig">NNMP2-----A----</AM>
+<AM lemma="Kurd_;E" src="manual" selected="1">NNMP2-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95043-042-p3s1w19">
 <src.rf>manual</src.rf>
@@ -795,6 +804,8 @@
 <AM lemma="Evra_;S" src="auto">NNMP4-----A----</AM>
 <AM lemma="Evra_;S" src="auto">NNMP7-----A----</AM>
 <AM lemma="Evra_;S" src="auto" recommended="1">NNMS2-----A----</AM>
+<AM lemma="Evry_;G_,t" src="manual">NNXXX-----A----</AM>
+<AM lemma="Evry_;G" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95043-042-p4s1w17">
@@ -890,7 +901,7 @@
 <AM lemma="jedoucí-1_^(pohybovat_se,_ne_však_chůzí)_(*7t-1)" src="auto">AGIP1-----A----</AM>
 <AM lemma="jedoucí-1_^(pohybovat_se,_ne_však_chůzí)_(*7t-1)" src="auto">AGIP4-----A----</AM>
 <AM lemma="jedoucí-1_^(pohybovat_se,_ne_však_chůzí)_(*7t-1)" src="auto">AGIP5-----A----</AM>
-<AM lemma="jedoucí-1_^(pohybovat_se,_ne_však_chůzí)_(*7t-1)" src="auto">AGIS1-----A----</AM>
+<AM lemma="jedoucí-1_^(pohybovat_se,_ne_však_chůzí)_(*7t-1)" src="auto" selected="1">AGIS1-----A----</AM>
 <AM lemma="jedoucí-1_^(pohybovat_se,_ne_však_chůzí)_(*7t-1)" src="auto">AGIS4-----A----</AM>
 <AM lemma="jedoucí-1_^(pohybovat_se,_ne_však_chůzí)_(*7t-1)" src="auto">AGIS5-----A----</AM>
 <AM lemma="jedoucí-1_^(pohybovat_se,_ne_však_chůzí)_(*7t-1)" src="auto">AGMP1-----A----</AM>
@@ -1103,7 +1114,10 @@
 <LM>w#w-ln95043-042-p4s3w6</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-2" src="auto" selected="1">Dg-------2A----</tag>
+<tag>
+<AM lemma="hodně-2" src="auto">Dg-------2A----</AM>
+<AM lemma="hodně-3" src="manual" selected="1">Dg-------2A----</AM>
+</tag>
 </m>
 <m id="m-ln95043-042-p4s3w7">
 <src.rf>manual</src.rf>
@@ -1471,6 +1485,8 @@
 <AM lemma="PLA-2_:B_;K_,t_^(Lidová_osvobozenecká_armáda)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="PLA-1_:B_,t_^(programmable_logic_array)" src="auto" recommended="1">NNNXX-----A----</AM>
 <AM lemma="Pla_;S" src="auto">NNMS1-----A----</AM>
+<AM lemma="PLA-2_:B" src="manual">NNXXX-----A---8</AM>
+<AM lemma="PLA-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95043-042-p5s2w11">
@@ -1628,6 +1644,7 @@
 <tag>
 <AM lemma="USA_;G" src="orig">NNIPX-----A----</AM>
 <AM lemma="USA_:B_;K_,t_^(United_States_of_America)" src="auto" recommended="1">NNIPX-----A---8</AM>
+<AM lemma="USA_:B_;K_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95043-042-p6s1w3">
@@ -1942,7 +1959,10 @@
 <LM>w#w-ln95043-042-p6s2w3</LM>
 </w.rf>
 <form>AP</form>
-<tag lemma="AP-3_:B_;K_,t_^(Associated_Press,_tisková_agentura)" src="auto" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="AP-3_:B_;K_,t_^(Associated_Press,_tisková_agentura)" src="auto">NNFXX-----A---8</AM>
+<AM lemma="AP-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln95043-042-p6s2w4">
 <src.rf>manual</src.rf>
@@ -2048,7 +2068,10 @@
 <LM>w#w-ln95043-042-p6s3w4</LM>
 </w.rf>
 <form>uvedl</form>
-<tag lemma="uvést" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag>
+<AM lemma="uvést" src="orig">VpYS---XR-AA---</AM>
+<AM lemma="uvést_:W" src="manual" selected="1">VpYS---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-ln95043-042-p6s3w5">
 <src.rf>manual</src.rf>

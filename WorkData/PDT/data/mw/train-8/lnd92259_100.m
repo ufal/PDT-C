@@ -183,7 +183,10 @@
 <LM>w#w-lnd92259-100-p3s1w2</LM>
 </w.rf>
 <form>UEFA</form>
-<tag lemma="UEFA-1_:B_;K_;w_^(Evr._fotbalová_federace)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="UEFA-1_:B_;K_;w_^(Evr._fotbalová_federace)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="UEFA-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 </s>
 <s id="m-lnd92259-100-p4s1">
@@ -193,7 +196,10 @@
 <LM>w#w-lnd92259-100-p4s1w1</LM>
 </w.rf>
 <form>KV</form>
-<tag lemma="KV_:B" src="auto" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="KV_:B" src="auto">NNXXX-----A---8</AM>
+<AM lemma="KV-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd92259-100-p4s1w2">
 <src.rf>manual</src.rf>
@@ -219,7 +225,10 @@
 <LM>w#w-lnd92259-100-p4s2w1</LM>
 </w.rf>
 <form>Vitesse</form>
-<tag lemma="Vitesse_;K" src="orig" selected="1">NNFXX-----A----</tag>
+<tag>
+<AM lemma="Vitesse_;K" src="orig">NNFXX-----A----</AM>
+<AM lemma="Vitesse-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-lnd92259-100-p4s2w2">
 <src.rf>manual</src.rf>
@@ -229,7 +238,7 @@
 <form>Arnheim</form>
 <tag>
 <AM lemma="Arnhem_;G" src="orig">NNIS1-----A----</AM>
-<AM lemma="Arnheim_;G" src="auto" recommended="1">NNIS1-----A----</AM>
+<AM lemma="Arnheim_;G" src="auto" recommended="1" selected="1">NNIS1-----A----</AM>
 <AM lemma="Arnheim_;G" src="auto">NNIS4-----A----</AM>
 </tag>
 </m>
@@ -425,7 +434,7 @@
 <form>Arnheim</form>
 <tag>
 <AM lemma="Arnhem_;G" src="orig">NNIS1-----A----</AM>
-<AM lemma="Arnheim_;G" src="auto" recommended="1">NNIS1-----A----</AM>
+<AM lemma="Arnheim_;G" src="auto" recommended="1" selected="1">NNIS1-----A----</AM>
 <AM lemma="Arnheim_;G" src="auto">NNIS4-----A----</AM>
 </tag>
 </m>
@@ -777,7 +786,10 @@
 <LM>w#w-lnd92259-100-p4s13w4</LM>
 </w.rf>
 <form>Frem</form>
-<tag lemma="Frem_;K" src="orig" selected="1">NNXXX-----A----</tag>
+<tag>
+<AM lemma="Frem_;K" src="orig">NNXXX-----A----</AM>
+<AM lemma="Frem-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-lnd92259-100-p4s13w5">
 <src.rf>manual</src.rf>
@@ -1014,6 +1026,7 @@
 <AM lemma="Sebum" src="auto">NNNP4-----A----</AM>
 <AM lemma="Sebum" src="auto">NNNP5-----A----</AM>
 <AM lemma="Sebum" src="auto">NNNS2-----A----</AM>
+<AM lemma="Seba-2_;S" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92259-100-p4s16w2">

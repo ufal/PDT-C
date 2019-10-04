@@ -1225,7 +1225,10 @@
 <LM>w#w-ln95046-052-p3s6w8</LM>
 </w.rf>
 <form>dramatismus</form>
-<tag lemma="dramatizmus" src="orig" selected="1">NNIS4-----A----</tag>
+<tag>
+<AM lemma="dramatizmus" src="orig">NNIS4-----A----</AM>
+<AM lemma="dramatismus_,s_^(^DD**dramatizmus)" src="manual" selected="1">NNIS4-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95046-052-p3s6w9">
 <src.rf>manual</src.rf>
@@ -1565,7 +1568,10 @@
 <LM>w#w-ln95046-052-p4s2w18</LM>
 </w.rf>
 <form>dramatismem</form>
-<tag lemma="dramatizmus" src="orig" selected="1">NNIS7-----A----</tag>
+<tag>
+<AM lemma="dramatizmus" src="orig">NNIS7-----A----</AM>
+<AM lemma="dramatismus_,s_^(^DD**dramatizmus)" src="manual" selected="1">NNIS7-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95046-052-p4s2w19">
 <src.rf>manual</src.rf>

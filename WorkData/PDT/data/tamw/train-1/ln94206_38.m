@@ -51,7 +51,10 @@
 <LM>w#w-ln94206-38-p1s1w5</LM>
 </w.rf>
 <form>ČR</form>
-<tag lemma="ČR-1_:B_;G_^(Česká_republika)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94206-38-p1s1w6">
 <src.rf>manual</src.rf>
@@ -377,7 +380,10 @@
 <LM>w#w-ln94206-38-p2s2w11</LM>
 </w.rf>
 <form>ČR</form>
-<tag lemma="ČR-1_:B_;G_^(Česká_republika)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94206-38-p2s2w12">
 <src.rf>manual</src.rf>
@@ -475,7 +481,10 @@
 <LM>w#w-ln94206-38-p2s3w9</LM>
 </w.rf>
 <form>odsouzených</form>
-<tag lemma="odsouzený_^(*4dit)" src="orig" selected="1">AAMP2----1A----</tag>
+<tag>
+<AM lemma="odsouzený_^(*4dit)" src="orig">AAMP2----1A----</AM>
+<AM lemma="odsouzený-2_^(osoba)" src="manual" selected="1">NNMP2-----A---6</AM>
+</tag>
 </m>
 <m id="m-ln94206-38-p2s3w10">
 <src.rf>manual</src.rf>
@@ -527,7 +536,7 @@
 <AM lemma="předávání-3_^(někomu_něco)_(*5at-3)" src="auto">NNNP2-----A----</AM>
 <AM lemma="předávání-3_^(někomu_něco)_(*5at-3)" src="auto">NNNP4-----A----</AM>
 <AM lemma="předávání-3_^(někomu_něco)_(*5at-3)" src="auto">NNNP5-----A----</AM>
-<AM lemma="předávání-3_^(někomu_něco)_(*5at-3)" src="auto" recommended="1">NNNS1-----A----</AM>
+<AM lemma="předávání-3_^(někomu_něco)_(*5at-3)" src="auto" recommended="1" selected="1">NNNS1-----A----</AM>
 <AM lemma="předávání-3_^(někomu_něco)_(*5at-3)" src="auto">NNNS2-----A----</AM>
 <AM lemma="předávání-3_^(někomu_něco)_(*5at-3)" src="auto">NNNS3-----A----</AM>
 <AM lemma="předávání-3_^(někomu_něco)_(*5at-3)" src="auto">NNNS4-----A----</AM>
@@ -629,7 +638,10 @@
 <LM>w#w-ln94206-38-p2s4w14</LM>
 </w.rf>
 <form>odsouzených</form>
-<tag lemma="odsouzený_^(*4dit)" src="orig" selected="1">AAMP2----1A----</tag>
+<tag>
+<AM lemma="odsouzený_^(*4dit)" src="orig">AAMP2----1A----</AM>
+<AM lemma="odsouzený-2_^(osoba)" src="manual" selected="1">NNMP2-----A---6</AM>
+</tag>
 </m>
 <m id="m-ln94206-38-p2s4w15">
 <src.rf>manual</src.rf>

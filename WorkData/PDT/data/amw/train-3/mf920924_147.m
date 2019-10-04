@@ -61,7 +61,10 @@
 <LM>w#w-mf920924-147-p1s1Bw2</LM>
 </w.rf>
 <form>JAR</form>
-<tag lemma="jaro" src="orig" selected="1">NNNP2-----A----</tag>
+<tag>
+<AM lemma="jaro" src="orig">NNNP2-----A----</AM>
+<AM lemma="JAR-1_:B_;G_^(Jihoafrická_republika)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920924-147-p1s1Bw3">
 <src.rf>manual</src.rf>
@@ -77,7 +80,10 @@
 <LM>w#w-mf920924-147-p1s1Bw4</LM>
 </w.rf>
 <form>ANC</form>
-<tag lemma="ANC-1_:B_;K_^(Africký_národní_kongres)" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="ANC-1_:B_;K_^(Africký_národní_kongres)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="ANC-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-mf920924-147-p1s1Bw5">
 <src.rf>manual</src.rf>
@@ -185,7 +191,10 @@
 <LM>w#w-mf920924-147-p2s2w8</LM>
 </w.rf>
 <form>ANC</form>
-<tag lemma="ANC-1_:B_;K_^(Africký_národní_kongres)" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="ANC-1_:B_;K_^(Africký_národní_kongres)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="ANC-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-mf920924-147-p2s2w9">
 <src.rf>manual</src.rf>
@@ -281,7 +290,10 @@
 <LM>w#w-mf920924-147-p2s2w20</LM>
 </w.rf>
 <form>de</form>
-<tag lemma="de_,t_^(z_franc._de,_zejm._ve_jménech)" src="orig" selected="1">RR--1----------</tag>
+<tag>
+<AM lemma="de_,t_^(z_franc._de,_zejm._ve_jménech)" src="orig">RR--1----------</AM>
+<AM lemma="de-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-mf920924-147-p2s2w21">
 <src.rf>manual</src.rf>
@@ -313,7 +325,10 @@
 <LM>w#w-mf920924-147-p2s2w24</LM>
 </w.rf>
 <form>ANC</form>
-<tag lemma="ANC-1_:B_;K_^(Africký_národní_kongres)" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="ANC-1_:B_;K_^(Africký_národní_kongres)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="ANC-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-mf920924-147-p2s2w25">
 <src.rf>manual</src.rf>
@@ -321,7 +336,10 @@
 <LM>w#w-mf920924-147-p2s2w25</LM>
 </w.rf>
 <form>Nelsonem</form>
-<tag lemma="Nelson_;S" src="orig" selected="1">NNMS7-----A----</tag>
+<tag>
+<AM lemma="Nelson_;S" src="orig">NNMS7-----A----</AM>
+<AM lemma="Nelson_;S_;Y" src="manual" selected="1">NNMS7-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920924-147-p2s2w26">
 <src.rf>manual</src.rf>
@@ -419,7 +437,10 @@
 <LM>w#w-mf920924-147-p2s3w10</LM>
 </w.rf>
 <form>ANC</form>
-<tag lemma="ANC-1_:B_;K_^(Africký_národní_kongres)" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="ANC-1_:B_;K_^(Africký_národní_kongres)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="ANC-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-mf920924-147-p2s3w11">
 <src.rf>manual</src.rf>
@@ -667,7 +688,10 @@
 <LM>w#w-mf920924-147-p2s3w42</LM>
 </w.rf>
 <form>ANC</form>
-<tag lemma="ANC-1_:B_;K_^(Africký_národní_kongres)" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="ANC-1_:B_;K_^(Africký_národní_kongres)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="ANC-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-mf920924-147-p2s3w43">
 <src.rf>manual</src.rf>

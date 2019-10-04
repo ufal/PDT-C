@@ -381,7 +381,10 @@
 <LM>w#w-mf930701-073-p1s2w13</LM>
 </w.rf>
 <form>K</form>
-<tag lemma="K-0_:B_;Y" src="orig" selected="1">NNMXX-----A---8</tag>
+<tag>
+<AM lemma="K-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
+<AM lemma="K-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-mf930701-073-p1s2w14">
 <src.rf>manual</src.rf>
@@ -398,7 +401,7 @@
 </w.rf>
 <form>Mužik</form>
 <tag>
-<AM lemma="Mužik_;S" src="orig">NNMS1-----A----</AM>
+<AM lemma="Mužik_;S" src="orig" selected="1">NNMS1-----A----</AM>
 <AM lemma="mužik" src="auto" recommended="1">NNMS1-----A----</AM>
 </tag>
 </m>
@@ -556,7 +559,7 @@
 <form>třeba</form>
 <tag>
 <AM lemma="třeba-1" src="orig">ACNS------A----</AM>
-<AM lemma="třeba-2" src="auto" recommended="1">Db-------------</AM>
+<AM lemma="třeba-2" src="auto" recommended="1" selected="1">Db-------------</AM>
 <AM lemma="třeba-3" src="auto">TT-------------</AM>
 </tag>
 </m>
@@ -820,7 +823,10 @@
 <LM>w#w-mf930701-073-p1s6w13</LM>
 </w.rf>
 <form>právě</form>
-<tag lemma="právě-1" src="auto" selected="1">Db-------------</tag>
+<tag>
+<AM lemma="právě-1" src="auto">Db-------------</AM>
+<AM lemma="právě-2" src="manual" selected="1">TT-------------</AM>
+</tag>
 </m>
 <m id="m-mf930701-073-p1s6w14">
 <src.rf>manual</src.rf>
@@ -1204,7 +1210,7 @@
 <form>zaplaťpánbůh</form>
 <tag>
 <AM lemma="zaplaťpánbůh" src="orig">NNIS1-----A----</AM>
-<AM lemma="zaplaťpánbůh" src="auto" recommended="1">TT-------------</AM>
+<AM lemma="zaplaťpánbůh" src="auto" recommended="1" selected="1">TT-------------</AM>
 </tag>
 </m>
 <m id="m-mf930701-073-p1s9w6">
@@ -1553,7 +1559,10 @@
 <LM>w#w-mf930701-073-p1s11w24</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-2" src="auto" selected="1">Dg-------2A----</tag>
+<tag>
+<AM lemma="hodně-2" src="auto">Dg-------2A----</AM>
+<AM lemma="více_^(více_+_2._p.,_více_peněz)" src="manual" selected="1">Ca--4----------</AM>
+</tag>
 </m>
 <m id="m-mf930701-073-p1s11w25">
 <src.rf>manual</src.rf>
@@ -1829,7 +1838,10 @@
 <LM>w#w-mf930701-073-p1s13w7</LM>
 </w.rf>
 <form>píše</form>
-<tag lemma="psát" src="auto" selected="1">VB-S---3P-AA---</tag>
+<tag>
+<AM lemma="psát" src="auto">VB-S---3P-AA---</AM>
+<AM lemma="psát_:T" src="manual" selected="1">VB-S---3P-AA---</AM>
+</tag>
 </m>
 <m id="m-mf930701-073-p1s13w8">
 <src.rf>manual</src.rf>
@@ -2596,7 +2608,7 @@
 <tag>
 <AM lemma="přesto" src="orig">Dg-------1A----</AM>
 <AM lemma="přesto-1" src="auto" recommended="1">Db-------------</AM>
-<AM lemma="přesto-2" src="auto">J^-------------</AM>
+<AM lemma="přesto-2" src="auto" selected="1">J^-------------</AM>
 </tag>
 </m>
 <m id="m-mf930701-073-p1s19w10">
@@ -3085,7 +3097,18 @@
 <LM>w#w-mf930701-073-p1s23w3</LM>
 </w.rf>
 <form>víc</form>
-<tag lemma="hodně-2" src="auto" selected="1">Dg-------2A---1</tag>
+<tag>
+<AM lemma="hodně-2" src="auto">Dg-------2A---1</AM>
+<AM lemma="více_^(více_+_2._p.,_více_peněz)" src="manual">Ca--1----------</AM>
+<AM lemma="více_^(více_+_2._p.,_více_peněz)" src="manual">Ca--1----------</AM>
+<AM lemma="více_^(více_+_2._p.,_více_peněz)" src="manual">Ca--1----------</AM>
+<AM lemma="více_^(více_+_2._p.,_více_peněz)" src="manual" selected="1">Ca--1---------1</AM>
+</tag>
+<comment>
+<LM type="Other">
+<text>Ve slovníku je v tagu na konci jednička (varianta více), nelze to ale udělat (hlásí invalid tag)</text>
+</LM>
+</comment>
 </m>
 <m id="m-mf930701-073-p1s23w4">
 <src.rf>manual</src.rf>
@@ -3170,7 +3193,7 @@
 <tag>
 <AM lemma="tady" src="orig">Db------------1</AM>
 <AM lemma="ten" src="auto">PDFS4----------</AM>
-<AM lemma="tu" src="auto" recommended="1">Db-------------</AM>
+<AM lemma="tu" src="auto" recommended="1" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m-mf930701-073-p1s24w9">

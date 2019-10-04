@@ -101,7 +101,10 @@
 <LM>w#w-mf930713-047-p2s1Aw3</LM>
 </w.rf>
 <form>ben</form>
-<tag lemma="ben-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="ben-99_:B_;S" src="orig">NNXXX-----A---8</AM>
+<AM lemma="ben-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930713-047-p2s1Aw4">
 <src.rf>manual</src.rf>
@@ -117,7 +120,10 @@
 <LM>w#w-mf930713-047-p2s1Aw5</LM>
 </w.rf>
 <form>čtk</form>
-<tag lemma="ČTK-1_:B_;K_^(Čs./Česká_tisková_kancelář)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ČTK-1_:B_;K_^(Čs./Česká_tisková_kancelář)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČTK-1_:B_;K_^(Čs./Česká_tisková_kancelář)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930713-047-p2s1Aw6">
 <src.rf>manual</src.rf>
@@ -199,7 +205,10 @@
 <LM>w#w-mf930713-047-p2s1Bw8</LM>
 </w.rf>
 <form>JUDr</form>
-<tag lemma="JUDr-1_:B_^(doktor_práv)" src="orig" selected="1">NNMXX-----A---8</tag>
+<tag>
+<AM lemma="JUDr-1_:B_^(doktor_práv)" src="orig">NNMXX-----A---8</AM>
+<AM lemma="JUDr-1_:B_^(doktor_práv)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930713-047-p2s1Bw9">
 <src.rf>manual</src.rf>
@@ -223,7 +232,10 @@
 <LM>w#w-mf930713-047-p2s1Bw11</LM>
 </w.rf>
 <form>Mates</form>
-<tag lemma="Mates_;K" src="auto" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="Mates_;K" src="auto">NNIS1-----A----</AM>
+<AM lemma="Mates-2_;S" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930713-047-p2s1Bw12">
 <src.rf>manual</src.rf>
@@ -321,7 +333,10 @@
 <LM>w#w-mf930713-047-p2s2w11</LM>
 </w.rf>
 <form>Mates</form>
-<tag lemma="Mates_;K" src="auto" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="Mates_;K" src="auto">NNIS1-----A----</AM>
+<AM lemma="Mates-2_;S" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930713-047-p2s2w12">
 <src.rf>manual</src.rf>
@@ -485,7 +500,10 @@
 <LM>w#w-mf930713-047-p2s4w2</LM>
 </w.rf>
 <form>Mates</form>
-<tag lemma="Mates_;K" src="auto" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="Mates_;K" src="auto">NNIS1-----A----</AM>
+<AM lemma="Mates-2_;S" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930713-047-p2s4w3">
 <src.rf>manual</src.rf>
@@ -727,7 +745,10 @@
 <LM>w#w-mf930713-047-p2s5w2</LM>
 </w.rf>
 <form>Mates</form>
-<tag lemma="Mates_;K" src="auto" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="Mates_;K" src="auto">NNIS1-----A----</AM>
+<AM lemma="Mates-2_;S" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930713-047-p2s5w3">
 <src.rf>manual</src.rf>
@@ -1305,7 +1326,10 @@
 <LM>w#w-mf930713-047-p2s10w21</LM>
 </w.rf>
 <form>Matesových</form>
-<tag lemma="matesův_^(*2)" src="orig" selected="1">AUFP2M---------</tag>
+<tag>
+<AM lemma="matesův_^(*2)" src="orig">AUFP2M---------</AM>
+<AM lemma="Matesův_;S_^(*2)" src="manual" selected="1">AUFP2M---------</AM>
+</tag>
 </m>
 <m id="m-mf930713-047-p2s10w22">
 <src.rf>manual</src.rf>

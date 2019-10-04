@@ -637,6 +637,7 @@
 <AM lemma="Le-1_,t_^(franc._člen_jako_souč._jmen_a_názvů)" src="auto">AAMSX----1A----</AM>
 <AM lemma="Le-1_,t_^(franc._člen_jako_souč._jmen_a_názvů)" src="auto">AANSX----1A----</AM>
 <AM lemma="le-1_,t_^(franc._člen,_ne_v_názvech)" src="auto">XX-------------</AM>
+<AM lemma="Le-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-lnd92251-073-p3s1w62">
@@ -645,7 +646,10 @@
 <LM>w#w-lnd92251-073-p3s1w62</LM>
 </w.rf>
 <form>mal</form>
-<tag lemma="mal_,t" src="orig" selected="1">NNISX-----A----</tag>
+<tag>
+<AM lemma="mal_,t" src="orig">NNISX-----A----</AM>
+<AM lemma="mal-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-lnd92251-073-p3s1w63">
 <src.rf>manual</src.rf>
@@ -657,6 +661,7 @@
 <AM lemma="courir_,t" src="orig">VB-S---3P-AA---</AM>
 <AM lemma="court_,t" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="court_,t" src="auto">NNIS4-----A----</AM>
+<AM lemma="court-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-lnd92251-073-p3s1w64">
@@ -939,7 +944,10 @@
 <LM>w#w-lnd92251-073-p3s2w26</LM>
 </w.rf>
 <form>M</form>
-<tag lemma="M-0_:B_;Y" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="M-0_:B_;Y" src="orig">NNFXX-----A---8</AM>
+<AM lemma="M-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd92251-073-p3s2w27">
 <src.rf>manual</src.rf>
@@ -963,7 +971,10 @@
 <LM>w#w-lnd92251-073-p3s2w29</LM>
 </w.rf>
 <form>J</form>
-<tag lemma="J-0_:B_;Y" src="orig" selected="1">NNMXX-----A---8</tag>
+<tag>
+<AM lemma="J-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
+<AM lemma="J-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd92251-073-p3s2w30">
 <src.rf>manual</src.rf>
@@ -2135,7 +2146,10 @@
 <LM>w#w-lnd92251-073-p4s5w2</LM>
 </w.rf>
 <form>Hraje</form>
-<tag lemma="hrát" src="auto" selected="1">VB-S---3P-AA---</tag>
+<tag>
+<AM lemma="hrát" src="auto">VB-S---3P-AA---</AM>
+<AM lemma="hrát_:T" src="manual" selected="1">VB-S---3P-AA---</AM>
+</tag>
 </m>
 <m id="m-lnd92251-073-p4s5w3">
 <src.rf>manual</src.rf>
@@ -2382,7 +2396,7 @@
 <AM lemma="dobro-1_^(prospěch)" src="auto">NNNP1-----A----</AM>
 <AM lemma="dobro-1_^(prospěch)" src="auto">NNNP4-----A----</AM>
 <AM lemma="dobro-1_^(prospěch)" src="auto">NNNP5-----A----</AM>
-<AM lemma="dobro-1_^(prospěch)" src="auto" recommended="1">NNNS2-----A----</AM>
+<AM lemma="dobro-1_^(prospěch)" src="auto" recommended="1" selected="1">NNNS2-----A----</AM>
 <AM lemma="dobro-2_^(hudební_nástroj)" src="auto">NNNP1-----A----</AM>
 <AM lemma="dobro-2_^(hudební_nástroj)" src="auto">NNNP4-----A----</AM>
 <AM lemma="dobro-2_^(hudební_nástroj)" src="auto">NNNP5-----A----</AM>
@@ -3787,7 +3801,10 @@
 <LM>w#w-lnd92251-073-p6s2w7</LM>
 </w.rf>
 <form>Marek</form>
-<tag lemma="Marek_;Y" src="auto" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Marek_;Y" src="auto">NNMS1-----A----</AM>
+<AM lemma="Marek_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92251-073-p6s2w8">
 <src.rf>manual</src.rf>
@@ -3852,7 +3869,7 @@
 </w.rf>
 <form>Julina</form>
 <tag>
-<AM lemma="Julina_;S" src="orig">NNMS1-----A----</AM>
+<AM lemma="Julina_;S" src="orig" selected="1">NNMS1-----A----</AM>
 <AM lemma="Julin_;S" src="auto" recommended="1">NNMS2-----A----</AM>
 <AM lemma="Julin_;S" src="auto">NNMS4-----A----</AM>
 </tag>
@@ -4385,7 +4402,10 @@
 <LM>w#w-lnd92251-073-p7s2w3</LM>
 </w.rf>
 <form>hraje</form>
-<tag lemma="hrát" src="auto" selected="1">VB-S---3P-AA---</tag>
+<tag>
+<AM lemma="hrát" src="auto">VB-S---3P-AA---</AM>
+<AM lemma="hrát_:T" src="manual" selected="1">VB-S---3P-AA---</AM>
+</tag>
 </m>
 <m id="m-lnd92251-073-p7s2w4">
 <src.rf>manual</src.rf>
@@ -4840,7 +4860,7 @@
 <tag>
 <AM lemma="dobro" src="orig">NNNS4-----A----</AM>
 <AM lemma="dobro-1_^(prospěch)" src="auto">NNNS1-----A----</AM>
-<AM lemma="dobro-1_^(prospěch)" src="auto" recommended="1">NNNS4-----A----</AM>
+<AM lemma="dobro-1_^(prospěch)" src="auto" recommended="1" selected="1">NNNS4-----A----</AM>
 <AM lemma="dobro-1_^(prospěch)" src="auto">NNNS5-----A----</AM>
 <AM lemma="dobro-2_^(hudební_nástroj)" src="auto">NNNS1-----A----</AM>
 <AM lemma="dobro-2_^(hudební_nástroj)" src="auto">NNNS4-----A----</AM>

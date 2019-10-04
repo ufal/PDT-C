@@ -69,7 +69,10 @@
 <LM>w#w-ln95040-055-p2s1w4</LM>
 </w.rf>
 <form>Pavel</form>
-<tag lemma="Pavel-1_;Y" src="orig" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Pavel-1_;Y" src="orig">NNMS1-----A----</AM>
+<AM lemma="Pavel_;Y_;S" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95040-055-p2s1w5">
 <src.rf>manual</src.rf>
@@ -77,7 +80,10 @@
 <LM>w#w-ln95040-055-p2s1w5</LM>
 </w.rf>
 <form>Pavel</form>
-<tag lemma="Pavel-2_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Pavel-2_;S" src="orig">NNMS1-----A----</AM>
+<AM lemma="Pavel_;Y_;S" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95040-055-p2s1w6">
 <src.rf>manual</src.rf>
@@ -353,7 +359,10 @@
 <LM>w#w-ln95040-055-p2s3w6</LM>
 </w.rf>
 <form>Svoboda</form>
-<tag lemma="Svoboda_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Svoboda_;S" src="orig">NNMS1-----A----</AM>
+<AM lemma="svoboda" src="manual" selected="1">NNFS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95040-055-p2s3w7">
 <src.rf>manual</src.rf>
@@ -581,7 +590,10 @@
 <LM>w#w-ln95040-055-p3s2w21</LM>
 </w.rf>
 <form>Chloé</form>
-<tag lemma="Chloé_;S" src="auto" selected="1">NNFXX-----A----</tag>
+<tag>
+<AM lemma="Chloé_;S" src="auto">NNFXX-----A----</AM>
+<AM lemma="Chloé_;S_;Y" src="manual" selected="1">NNFXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95040-055-p3s2w22">
 <src.rf>manual</src.rf>
@@ -665,6 +677,7 @@
 <AM lemma="du_,t" src="orig">RR--X----------</AM>
 <AM lemma="jít" src="auto">VB-S---1P-AA--6</AM>
 <AM lemma="du_,t" src="auto" recommended="1">XX-------------</AM>
+<AM lemma="du-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-ln95040-055-p3s2w32">
@@ -983,7 +996,10 @@
 <LM>w#w-ln95040-055-p4s2w3</LM>
 </w.rf>
 <form>Hrabětových</form>
-<tag lemma="hrabětův_^(*3)" src="orig" selected="1">AUFP2M---------</tag>
+<tag>
+<AM lemma="hrabětův_^(*3)" src="orig">AUFP2M---------</AM>
+<AM lemma="Hrabětův_;S_^(*2a)" src="manual" selected="1">AUFP2M---------</AM>
+</tag>
 </m>
 <m id="m-ln95040-055-p4s2w4">
 <src.rf>manual</src.rf>

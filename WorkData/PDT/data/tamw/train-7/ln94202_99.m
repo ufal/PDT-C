@@ -79,7 +79,11 @@
 <LM>w#w-ln94202-99-p2s1Bw3</LM>
 </w.rf>
 <form>Tour</form>
-<tag lemma="Tour_;m_,t" src="orig" selected="1">NNFXX-----A----</tag>
+<tag>
+<AM lemma="Tour_;m_,t" src="orig">NNFXX-----A----</AM>
+<AM lemma="tour_,t" src="manual">NNXXX-----A----</AM>
+<AM lemma="Tour-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94202-99-p2s1Bw4">
 <src.rf>manual</src.rf>
@@ -87,7 +91,10 @@
 <LM>w#w-ln94202-99-p2s1Bw4</LM>
 </w.rf>
 <form>de</form>
-<tag lemma="de_,t_^(z_franc._de,_zejm._ve_jménech)" src="orig" selected="1">RR--1----------</tag>
+<tag>
+<AM lemma="de_,t_^(z_franc._de,_zejm._ve_jménech)" src="orig">RR--1----------</AM>
+<AM lemma="de-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94202-99-p2s1Bw5">
 <src.rf>manual</src.rf>
@@ -111,6 +118,7 @@
 <AM lemma="France-1_;S" src="auto">NNMS4-----A---1</AM>
 <AM lemma="France-1_;S" src="auto">NNMS5-----A----</AM>
 <AM lemma="France-2_;G_;K" src="auto">NNXXX-----A----</AM>
+<AM lemma="France-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-ln94202-99-p2s1Bw6">
@@ -297,7 +305,11 @@
 <LM>w#w-ln94202-99-p2s2w12</LM>
 </w.rf>
 <form>Tour</form>
-<tag lemma="Tour_;m_,t" src="orig" selected="1">NNFXX-----A----</tag>
+<tag>
+<AM lemma="Tour_;m_,t" src="orig">NNFXX-----A----</AM>
+<AM lemma="tour_,t" src="manual">NNXXX-----A----</AM>
+<AM lemma="Tour-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94202-99-p2s2w13">
 <src.rf>manual</src.rf>
@@ -305,7 +317,10 @@
 <LM>w#w-ln94202-99-p2s2w13</LM>
 </w.rf>
 <form>de</form>
-<tag lemma="de_,t_^(z_franc._de,_zejm._ve_jménech)" src="orig" selected="1">RR--1----------</tag>
+<tag>
+<AM lemma="de_,t_^(z_franc._de,_zejm._ve_jménech)" src="orig">RR--1----------</AM>
+<AM lemma="de-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94202-99-p2s2w14">
 <src.rf>manual</src.rf>
@@ -313,7 +328,10 @@
 <LM>w#w-ln94202-99-p2s2w14</LM>
 </w.rf>
 <form>L</form>
-<tag lemma="L-10_^(př._L'Aqua,_stažený_tvar_fr._členu)" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="L-10_^(př._L'Aqua,_stažený_tvar_fr._členu)" src="orig">AAXXX----1A----</AM>
+<AM lemma="L-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94202-99-p2s2w15">
 <src.rf>manual</src.rf>
@@ -332,6 +350,7 @@
 <tag>
 <AM lemma="Oise_;m_,t" src="orig">NNXXX-----A----</AM>
 <AM lemma="Oise_;G" src="auto" recommended="1">NNNXX-----A----</AM>
+<AM lemma="Oise-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-ln94202-99-p2s2w17">
@@ -518,7 +537,10 @@
 <LM>w#w-ln94202-99-p2s3w7</LM>
 </w.rf>
 <form>UCI</form>
-<tag lemma="UCI-1_:B_;K_,t_^(Union_Cycliste_Internationale)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="UCI-1_:B_;K_,t_^(Union_Cycliste_Internationale)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="UCI-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94202-99-p2s3w8">
 <src.rf>manual</src.rf>
@@ -574,7 +596,10 @@
 <LM>w#w-ln94202-99-p2s3w14</LM>
 </w.rf>
 <form>UCI</form>
-<tag lemma="UCI-1_:B_;K_,t_^(Union_Cycliste_Internationale)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="UCI-1_:B_;K_,t_^(Union_Cycliste_Internationale)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="UCI-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94202-99-p2s3w15">
 <src.rf>manual</src.rf>
@@ -1021,9 +1046,10 @@
 </w.rf>
 <form>Gianni</form>
 <tag>
-<AM lemma="Gianni_;Y" src="orig">NNMXX-----A----</AM>
+<AM lemma="Gianni_;Y" src="orig" selected="1">NNMXX-----A----</AM>
 <AM lemma="Gianni_;Y_,t" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Gianni_;Y_,t" src="auto">NNMS5-----A----</AM>
+<AM lemma="Gianni_;Y_,t" src="manual">NNMXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94202-99-p3s2w20">
@@ -1243,7 +1269,10 @@
 <LM>w#w-ln94202-99-p3s3w8</LM>
 </w.rf>
 <form>A</form>
-<tag lemma="a-3_^(označení_pomocí_písmene)" src="orig" selected="1">NNNXX-----A----</tag>
+<tag>
+<AM lemma="a-3_^(označení_pomocí_písmene)" src="orig">NNNXX-----A----</AM>
+<AM lemma="A-33_^(označení_pomocí_písmene)" src="manual" selected="1">NNNXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94202-99-p3s3w9">
 <src.rf>manual</src.rf>
@@ -1283,7 +1312,10 @@
 <LM>w#w-ln94202-99-p3s3w13</LM>
 </w.rf>
 <form>Bugnova</form>
-<tag lemma="Bugnův_;S_^(*2a)" src="auto" selected="1">AUIS2M---------</tag>
+<tag>
+<AM lemma="Bugnův_;S_^(*2a)" src="auto">AUIS2M---------</AM>
+<AM lemma="Bugnův_;S_^(*2o)" src="manual" selected="1">AUIS2M---------</AM>
+</tag>
 </m>
 <m id="m-ln94202-99-p3s3w14">
 <src.rf>manual</src.rf>

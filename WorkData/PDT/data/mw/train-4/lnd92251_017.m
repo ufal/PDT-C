@@ -701,7 +701,10 @@
 <LM>w#w-lnd92251-017-p4s1w12</LM>
 </w.rf>
 <form>ČSR</form>
-<tag lemma="ČSR-2_:B_;G_^(Československá_republika_do_r._1960)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ČSR-2_:B_;G_^(Československá_republika_do_r._1960)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČSR-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd92251-017-p4s1w13">
 <src.rf>manual</src.rf>
@@ -921,7 +924,10 @@
 <LM>w#w-lnd92251-017-p4s3w3</LM>
 </w.rf>
 <form>Alexander</form>
-<tag lemma="Alexander_;S" src="auto" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Alexander_;S" src="auto">NNMS1-----A----</AM>
+<AM lemma="Alexander_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92251-017-p4s3w4">
 <src.rf>manual</src.rf>

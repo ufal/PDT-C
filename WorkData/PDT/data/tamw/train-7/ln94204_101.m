@@ -35,7 +35,10 @@
 <LM>w#w-ln94204-101-p1s1w3</LM>
 </w.rf>
 <form>sympoziem</form>
-<tag lemma="sympózium" src="orig" selected="1">NNNS7-----A----</tag>
+<tag>
+<AM lemma="sympózium" src="orig">NNNS7-----A----</AM>
+<AM lemma="sympozium_,s_^(^DD**sympózium)" src="manual" selected="1">NNNS7-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94204-101-p1s1w4">
 <src.rf>manual</src.rf>
@@ -67,7 +70,10 @@
 <LM>w#w-ln94204-101-p1s1w7</LM>
 </w.rf>
 <form>Feedback</form>
-<tag lemma="feedback_,t" src="orig" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="feedback_,t" src="orig">NNIS1-----A----</AM>
+<AM lemma="Feedback-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 </s>
 <s id="m-ln94204-101-p2s1">
@@ -167,7 +173,10 @@
 <LM>w#w-ln94204-101-p2s2w3</LM>
 </w.rf>
 <form>sympoziu</form>
-<tag lemma="sympózium" src="orig" selected="1">NNNS6-----A----</tag>
+<tag>
+<AM lemma="sympózium" src="orig">NNNS6-----A----</AM>
+<AM lemma="sympozium_,s_^(^DD**sympózium)" src="manual" selected="1">NNNS6-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94204-101-p2s2w4">
 <src.rf>manual</src.rf>
@@ -271,7 +280,10 @@
 <LM>w#w-ln94204-101-p2s2w16</LM>
 </w.rf>
 <form>Feedback</form>
-<tag lemma="feedback_,t" src="orig" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="feedback_,t" src="orig">NNIS1-----A----</AM>
+<AM lemma="Feedback-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94204-101-p2s2w17">
 <src.rf>manual</src.rf>
@@ -359,7 +371,10 @@
 <LM>w#w-ln94204-101-p2s2w27</LM>
 </w.rf>
 <form>Giannozzo</form>
-<tag lemma="Giannozzo_;K_,t" src="orig" selected="1">NNNS1-----A----</tag>
+<tag>
+<AM lemma="Giannozzo_;K_,t" src="orig">NNNS1-----A----</AM>
+<AM lemma="Giannozzo_;K" src="manual" selected="1">NNNS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94204-101-p2s2w28">
 <src.rf>manual</src.rf>
@@ -401,7 +416,10 @@
 <LM>w#w-ln94204-101-p2s3w2</LM>
 </w.rf>
 <form>sympozium</form>
-<tag lemma="sympózium" src="orig" selected="1">NNNS1-----A----</tag>
+<tag>
+<AM lemma="sympózium" src="orig">NNNS1-----A----</AM>
+<AM lemma="sympozium_,s_^(^DD**sympózium)" src="manual" selected="1">NNNS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94204-101-p2s3w3">
 <src.rf>manual</src.rf>
@@ -466,7 +484,10 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>Giannozzo</form>
-<tag lemma="Giannozzo_;K_,t" src="orig" selected="1">NNNS1-----A----</tag>
+<tag>
+<AM lemma="Giannozzo_;K_,t" src="orig">NNNS1-----A----</AM>
+<AM lemma="Giannozzo_;K" src="manual" selected="1">NNNS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94204-101-p2s3w11">
 <src.rf>manual</src.rf>
@@ -760,7 +781,10 @@
 <LM>w#w-ln94204-101-p2s6w5</LM>
 </w.rf>
 <form>Giannozzo</form>
-<tag lemma="Giannozzo_;K_,t" src="orig" selected="1">NNNS1-----A----</tag>
+<tag>
+<AM lemma="Giannozzo_;K_,t" src="orig">NNNS1-----A----</AM>
+<AM lemma="Giannozzo_;K" src="manual" selected="1">NNNS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94204-101-p2s6w6">
 <src.rf>manual</src.rf>
@@ -808,7 +832,10 @@
 <LM>w#w-ln94204-101-p2s6w11</LM>
 </w.rf>
 <form>Feedback</form>
-<tag lemma="feedback_,t" src="orig" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="feedback_,t" src="orig">NNIS1-----A----</AM>
+<AM lemma="Feedback-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94204-101-p2s6w12">
 <src.rf>manual</src.rf>
@@ -824,7 +851,10 @@
 <LM>w#w-ln94204-101-p2s6w13</LM>
 </w.rf>
 <form>stane</form>
-<tag lemma="stát-2_^(něco_se_přihodilo)" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag>
+<AM lemma="stát-2_^(něco_se_přihodilo)" src="orig">VB-S---3P-AA---</AM>
+<AM lemma="stát-2_^(stanu_staneš)" src="manual" selected="1">VB-S---3P-AA---</AM>
+</tag>
 </m>
 <m id="m-ln94204-101-p2s6w14">
 <src.rf>manual</src.rf>
@@ -938,7 +968,10 @@
 <LM>w#w-ln94204-101-p2s7w11</LM>
 </w.rf>
 <form>Benoit</form>
-<tag lemma="Benoit_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Benoit_;S" src="orig">NNMS1-----A----</AM>
+<AM lemma="Benoit_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94204-101-p2s7w12">
 <src.rf>manual</src.rf>
@@ -1106,6 +1139,7 @@
 <tag>
 <AM lemma="lin-99_:B_;S" src="orig">NNXXX-----A---8</AM>
 <AM lemma="lino" src="auto" recommended="1">NNNP2-----A----</AM>
+<AM lemma="lin-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94204-101-p2s9w3">

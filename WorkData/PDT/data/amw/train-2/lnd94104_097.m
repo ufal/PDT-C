@@ -51,7 +51,10 @@
 <LM>w#w-lnd94104-097-p1s1w5</LM>
 </w.rf>
 <form>DBV</form>
-<tag lemma="DBV-1_:B_;K_,t_^(Deutscher_Bäderverband)" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="DBV-1_:B_;K_,t_^(Deutscher_Bäderverband)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="DBV-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd94104-097-p1s1w6">
 <src.rf>manual</src.rf>
@@ -131,7 +134,10 @@
 <LM>w#w-lnd94104-097-p1s1w15</LM>
 </w.rf>
 <form>Internacional</form>
-<tag lemma="Internacional_;m_,t" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="Internacional_;m_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="Internacional-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-lnd94104-097-p1s1w16">
 <src.rf>manual</src.rf>
@@ -139,7 +145,10 @@
 <LM>w#w-lnd94104-097-p1s1w16</LM>
 </w.rf>
 <form>Duatlon</form>
-<tag lemma="duatlon" src="orig" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="duatlon" src="orig">NNIS1-----A----</AM>
+<AM lemma="Duatlon-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-lnd94104-097-p1s1w17">
 <src.rf>manual</src.rf>
@@ -147,7 +156,10 @@
 <LM>w#w-lnd94104-097-p1s1w17</LM>
 </w.rf>
 <form>Cup</form>
-<tag lemma="Cup-1_;m_;w_,t_^(pohár,_soutěž;_v_názvech)" src="auto" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="Cup-1_;m_;w_,t_^(pohár,_soutěž;_v_názvech)" src="auto">NNIS1-----A----</AM>
+<AM lemma="Cup-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-lnd94104-097-p1s1w18">
 <src.rf>manual</src.rf>
@@ -229,7 +241,10 @@
 <LM>w#w-lnd94104-097-p1s2w6</LM>
 </w.rf>
 <form>DBV</form>
-<tag lemma="DBV-1_:B_;K_,t_^(Deutscher_Bäderverband)" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="DBV-1_:B_;K_,t_^(Deutscher_Bäderverband)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="DBV-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd94104-097-p1s2w7">
 <src.rf>manual</src.rf>

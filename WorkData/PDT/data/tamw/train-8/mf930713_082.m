@@ -406,6 +406,7 @@
 <AM lemma="protekcionizmus" src="auto">NNIS2-----A----</AM>
 <AM lemma="protekcionizmus" src="auto" recommended="1">NNIS3-----A----</AM>
 <AM lemma="protekcionizmus" src="auto">NNIS6-----A----</AM>
+<AM lemma="protekcionismus_,s_^(^DD**protekcionizmus)" src="manual" selected="1">NNIS3-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930713-082-p2s2w14">
@@ -1142,7 +1143,10 @@
 <LM>w#w-mf930713-082-p3s4w35</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-2" src="auto" selected="1">Dg-------2A----</tag>
+<tag>
+<AM lemma="hodně-2" src="auto">Dg-------2A----</AM>
+<AM lemma="více_^(více_+_2._p.,_více_peněz)" src="manual" selected="1">Ca--4----------</AM>
+</tag>
 </m>
 <m id="m-mf930713-082-p3s4w36">
 <src.rf>manual</src.rf>

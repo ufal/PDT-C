@@ -619,7 +619,10 @@
 <LM>w#w-mf920925-118-p4s1w9</LM>
 </w.rf>
 <form>přijmout</form>
-<tag lemma="přijmout" src="auto" selected="1">Vf--------A----</tag>
+<tag>
+<AM lemma="přijmout" src="auto">Vf--------A----</AM>
+<AM lemma="přijmout_:W" src="manual" selected="1">Vf--------A----</AM>
+</tag>
 </m>
 <m id="m-mf920925-118-p4s1w10">
 <src.rf>manual</src.rf>
@@ -815,7 +818,10 @@
 <LM>w#w-mf920925-118-p4s3w4</LM>
 </w.rf>
 <form>BBC</form>
-<tag lemma="BBC_:B_;K" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="BBC_:B_;K" src="orig">NNFXX-----A---8</AM>
+<AM lemma="BBC-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920925-118-p4s3w5">
 <src.rf>manual</src.rf>
@@ -1146,7 +1152,7 @@
 </w.rf>
 <form>Antoniou</form>
 <tag>
-<AM lemma="Antonia_;Y" src="orig">NNFS7-----A----</AM>
+<AM lemma="Antonia_;Y" src="orig" selected="1">NNFS7-----A----</AM>
 <AM lemma="Antoniou_;S" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Antoniou_;S" src="auto">NNMS5-----A----</AM>
 </tag>
@@ -1157,7 +1163,11 @@
 <LM>w#w-mf920925-118-p5s1w20</LM>
 </w.rf>
 <form>de</form>
-<tag lemma="de_,t_^(z_franc._de,_zejm._ve_jménech)" src="orig" selected="1">RR--1----------</tag>
+<tag>
+<AM lemma="de_,t_^(z_franc._de,_zejm._ve_jménech)" src="orig">RR--1----------</AM>
+<AM lemma="de-88_:B" src="manual">NNXXX-----A----</AM>
+<AM lemma="de-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-mf920925-118-p5s1w21">
 <src.rf>manual</src.rf>
@@ -1166,7 +1176,7 @@
 </w.rf>
 <form>Sancha</form>
 <tag>
-<AM lemma="Sancha_;S" src="orig">NNFXX-----A----</AM>
+<AM lemma="Sancha_;S" src="orig" selected="1">NNFXX-----A----</AM>
 <AM lemma="Sancho_;Y" src="auto" recommended="1">NNMS2-----A----</AM>
 <AM lemma="Sancho_;Y" src="auto">NNMS4-----A----</AM>
 </tag>

@@ -272,7 +272,10 @@
 <LM>w#w-ln94205-105-p2s2w2</LM>
 </w.rf>
 <form>Lido</form>
-<tag lemma="Lido_;K" src="orig" selected="1">NNNS1-----A----</tag>
+<tag>
+<AM lemma="Lido_;K" src="orig">NNNS1-----A----</AM>
+<AM lemma="Lido-2_;G" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94205-105-p2s2w3">
 <src.rf>manual</src.rf>
@@ -958,7 +961,10 @@
 <LM>w#w-ln94205-105-p2s5w7</LM>
 </w.rf>
 <form>Forrest</form>
-<tag lemma="Forrest_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Forrest_;S" src="orig">NNMS1-----A----</AM>
+<AM lemma="Forrest_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94205-105-p2s5w8">
 <src.rf>manual</src.rf>
@@ -1184,7 +1190,11 @@
 <LM>w#w-ln94205-105-p2s6w8</LM>
 </w.rf>
 <form>Kingu</form>
-<tag lemma="King_;S" src="orig" selected="1">NNMS3-----A---1</tag>
+<tag>
+<AM lemma="King_;S" src="orig">NNMS3-----A---1</AM>
+<AM lemma="King_;S_;YY" src="manual">NNMS3-----A---1</AM>
+<AM lemma="King_;S_;Y" src="manual" selected="1">NNMS3-----A---1</AM>
+</tag>
 </m>
 <m id="m-ln94205-105-p2s6w9">
 <src.rf>manual</src.rf>
@@ -1338,7 +1348,10 @@
 <LM>w#w-ln94205-105-p2s7w2</LM>
 </w.rf>
 <form>jaf</form>
-<tag lemma="jaf-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="jaf-99_:B_;S" src="orig">NNXXX-----A---8</AM>
+<AM lemma="jaf-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94205-105-p2s7w3">
 <src.rf>manual</src.rf>

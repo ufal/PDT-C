@@ -59,7 +59,11 @@
 <LM>w#w-lnd94105-090-p1s1w6</LM>
 </w.rf>
 <form>NBA</form>
-<tag lemma="NBA_:B_;K" src="auto" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="NBA_:B_;K" src="auto">NNFXX-----A---8</AM>
+<AM lemma="NBA-88_:B" src="manual">NNXXX-----A----</AM>
+<AM lemma="NBA_:B_;K" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 </s>
 <s id="m-lnd94105-090-p1s2">
@@ -69,7 +73,10 @@
 <LM>w#w-lnd94105-090-p1s2w1</LM>
 </w.rf>
 <form>New</form>
-<tag lemma="New-1_;G_,t_^(součást_míst._jmen)" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="New-1_;G_,t_^(součást_míst._jmen)" src="orig">AAXXX----1A----</AM>
+<AM lemma="New-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-lnd94105-090-p1s2w2">
 <src.rf>manual</src.rf>
@@ -77,7 +84,10 @@
 <LM>w#w-lnd94105-090-p1s2w2</LM>
 </w.rf>
 <form>York</form>
-<tag lemma="York-2_;G" src="orig" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="York-2_;G" src="orig">NNIS1-----A----</AM>
+<AM lemma="York-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-lnd94105-090-p1s2w3">
 <src.rf>manual</src.rf>
@@ -127,7 +137,11 @@
 <LM>w#w-lnd94105-090-p1s3w5</LM>
 </w.rf>
 <form>Golden</form>
-<tag lemma="Golden_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Golden_;S" src="orig">NNMS1-----A----</AM>
+<AM lemma="golden_,t" src="manual">AAXXX----1A----</AM>
+<AM lemma="Golden-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-lnd94105-090-p1s3w6">
 <src.rf>manual</src.rf>
@@ -139,6 +153,7 @@
 <AM lemma="State_;K_,t" src="orig">AAXXX----1A----</AM>
 <AM lemma="State_;G_;K" src="auto" recommended="1">NNISX-----A----</AM>
 <AM lemma="status" src="auto">NNIS5-----A----</AM>
+<AM lemma="State-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-lnd94105-090-p1s3w7">
@@ -147,7 +162,11 @@
 <LM>w#w-lnd94105-090-p1s3w7</LM>
 </w.rf>
 <form>Warriors</form>
-<tag lemma="Warrior_;K_,t" src="orig" selected="1">NNMPX-----A----</tag>
+<tag>
+<AM lemma="Warrior_;K_,t" src="orig">NNMPX-----A----</AM>
+<AM lemma="warriors_,t" src="manual">NNXXX-----A----</AM>
+<AM lemma="Warriors-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-lnd94105-090-p1s3w8">
 <src.rf>manual</src.rf>
@@ -187,7 +206,11 @@
 <LM>w#w-lnd94105-090-p1s3w12</LM>
 </w.rf>
 <form>NBA</form>
-<tag lemma="NBA_:B_;K" src="auto" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="NBA_:B_;K" src="auto">NNFXX-----A---8</AM>
+<AM lemma="NBA-88_:B" src="manual">NNXXX-----A----</AM>
+<AM lemma="NBA_:B_;K" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd94105-090-p1s3w13">
 <src.rf>manual</src.rf>
@@ -195,7 +218,10 @@
 <LM>w#w-lnd94105-090-p1s3w13</LM>
 </w.rf>
 <form>sezony</form>
-<tag lemma="sezóna" src="orig" selected="1">NNFS2-----A----</tag>
+<tag>
+<AM lemma="sezóna" src="orig">NNFS2-----A----</AM>
+<AM lemma="sezona_,s_^(^DD**sezóna)" src="manual" selected="1">NNFS2-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd94105-090-p1s3w14">
 <src.rf>manual</src.rf>
@@ -357,7 +383,10 @@
 <LM>w#w-lnd94105-090-p1s4w16</LM>
 </w.rf>
 <form>Orlando</form>
-<tag lemma="Orlando_;G" src="orig" selected="1">NNNS1-----A----</tag>
+<tag>
+<AM lemma="Orlando_;G" src="orig">NNNS1-----A----</AM>
+<AM lemma="Orlando-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-lnd94105-090-p1s4w17">
 <src.rf>manual</src.rf>
@@ -365,7 +394,10 @@
 <LM>w#w-lnd94105-090-p1s4w17</LM>
 </w.rf>
 <form>Magic</form>
-<tag lemma="Magica_;K_^(Laterna_Magica)" src="orig" selected="1">NNFP2-----A----</tag>
+<tag>
+<AM lemma="Magica_;K_^(Laterna_Magica)" src="orig">NNFP2-----A----</AM>
+<AM lemma="Magic-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-lnd94105-090-p1s4w18">
 <src.rf>manual</src.rf>
@@ -439,7 +471,10 @@
 <LM>w#w-lnd94105-090-p1s5w5</LM>
 </w.rf>
 <form>Jamal</form>
-<tag lemma="Jamal_;S" src="auto" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Jamal_;S" src="auto">NNMS1-----A----</AM>
+<AM lemma="Jamal_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd94105-090-p1s5w6">
 <src.rf>manual</src.rf>
@@ -532,6 +567,7 @@
 <tag>
 <AM lemma="cm-1`centimetr_:B" src="orig">NNIXX-----A---8</AM>
 <AM lemma="centimetr_:B" src="auto" recommended="1">NNIXX-----A---8</AM>
+<AM lemma="centimetr" src="manual" selected="1">NNIXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-lnd94105-090-p1s6w8">
@@ -762,7 +798,11 @@
 <LM>w#w-lnd94105-090-p1s7w5</LM>
 </w.rf>
 <form>NBA</form>
-<tag lemma="NBA_:B_;K" src="auto" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="NBA_:B_;K" src="auto">NNFXX-----A---8</AM>
+<AM lemma="NBA-88_:B" src="manual">NNXXX-----A----</AM>
+<AM lemma="NBA_:B_;K" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd94105-090-p1s7w6">
 <src.rf>manual</src.rf>
@@ -810,7 +850,10 @@
 <LM>w#w-lnd94105-090-p1s7w11</LM>
 </w.rf>
 <form>sezony</form>
-<tag lemma="sezóna" src="orig" selected="1">NNFS2-----A----</tag>
+<tag>
+<AM lemma="sezóna" src="orig">NNFS2-----A----</AM>
+<AM lemma="sezona_,s_^(^DD**sezóna)" src="manual" selected="1">NNFS2-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd94105-090-p1s7w12">
 <src.rf>manual</src.rf>
@@ -1239,7 +1282,7 @@
 <form>Kareemu</form>
 <tag>
 <AM lemma="Karee_;Y" src="orig">NNMS3-----A----</AM>
-<AM lemma="Kareem_;Y" src="auto" recommended="1">NNMS3-----A---1</AM>
+<AM lemma="Kareem_;Y" src="auto" recommended="1" selected="1">NNMS3-----A---1</AM>
 <AM lemma="Kareem_;Y" src="auto">NNMS6-----A---1</AM>
 </tag>
 </m>
@@ -1249,7 +1292,10 @@
 <LM>w#w-lnd94105-090-p1s8w20</LM>
 </w.rf>
 <form>Abdul</form>
-<tag lemma="Abdul_;Y" src="orig" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Abdul_;Y" src="orig">NNMS1-----A----</AM>
+<AM lemma="Abdul_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd94105-090-p1s8w21">
 <src.rf>manual</src.rf>

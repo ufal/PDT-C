@@ -433,7 +433,10 @@
 <LM>w#w-mf930702-105-p2s3w17</LM>
 </w.rf>
 <form>UNITA</form>
-<tag lemma="UNITA_:B_;K_;p_^(partyz._org._v_Angole)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="UNITA_:B_;K_;p_^(partyz._org._v_Angole)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="UNITA-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-mf930702-105-p2s3w18">
 <src.rf>manual</src.rf>
@@ -449,7 +452,10 @@
 <LM>w#w-mf930702-105-p2s3w19</LM>
 </w.rf>
 <form>Jonase</form>
-<tag lemma="Jonas_;S" src="orig" selected="1">NNMS4-----A----</tag>
+<tag>
+<AM lemma="Jonas_;S" src="orig">NNMS4-----A----</AM>
+<AM lemma="Jonas_;S_;Y" src="manual" selected="1">NNMS4-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930702-105-p2s3w20">
 <src.rf>manual</src.rf>
@@ -589,7 +595,10 @@
 <LM>w#w-mf930702-105-p3s1w1</LM>
 </w.rf>
 <form>UNITA</form>
-<tag lemma="UNITA_:B_;K_;p_^(partyz._org._v_Angole)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="UNITA_:B_;K_;p_^(partyz._org._v_Angole)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="UNITA-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-mf930702-105-p3s1w2">
 <src.rf>manual</src.rf>
@@ -597,7 +606,10 @@
 <LM>w#w-mf930702-105-p3s1w2</LM>
 </w.rf>
 <form>sice</form>
-<tag lemma="sice-2" src="auto" selected="1">Db-------------</tag>
+<tag>
+<AM lemma="sice-2" src="auto">Db-------------</AM>
+<AM lemma="sice-1_^(spojka;_připouští_se_určitá_fakta)" src="manual" selected="1">J^-------------</AM>
+</tag>
 </m>
 <m id="m-mf930702-105-p3s1w3">
 <src.rf>manual</src.rf>
@@ -799,7 +811,10 @@
 <LM>w#w-mf930702-105-p3s2w8</LM>
 </w.rf>
 <form>OSN</form>
-<tag lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930702-105-p3s2w9">
 <src.rf>manual</src.rf>

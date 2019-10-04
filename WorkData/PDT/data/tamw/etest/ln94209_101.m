@@ -209,6 +209,8 @@
 <AM lemma="v-8_:B_^(ost._zkratka)" src="auto">XX------------8</AM>
 <AM lemma="versus_:B_,t_,x" src="auto">RR--1---------8</AM>
 <AM lemma="veřejný_:B_^(v.o.s.)" src="auto">AAXXX----1A---8</AM>
+<AM lemma="V-2_:B" src="manual">NNXXX-----A---8</AM>
+<AM lemma="V-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-ln94209-101-p2s1Aw17">
@@ -243,6 +245,8 @@
 <AM lemma="i-3_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
 <AM lemma="i-4_^(graf._oddělovač)" src="auto">Z:-------------</AM>
 <AM lemma="i-8_:B_^(ost._zkratka)" src="auto">XX------------8</AM>
+<AM lemma="I-1_:B" src="manual">NNXXX-----A---8</AM>
+<AM lemma="I-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-ln94209-101-p2s1Aw19">
@@ -279,6 +283,8 @@
 <AM lemma="podnik_:B" src="auto">NNIXX-----A---8</AM>
 <AM lemma="popisný_:B" src="auto">AAXXX----1A---8</AM>
 <AM lemma="post-2_:B_,t_^(lat.,_po,_např._P.S.)" src="auto">RR--X---------8</AM>
+<AM lemma="P-1_:B" src="manual">NNXXX-----A---8</AM>
+<AM lemma="P-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-ln94209-101-p2s1Aw21">
@@ -665,7 +671,7 @@
 <form>Pragobanka</form>
 <tag>
 <AM lemma="Pragobanka_;w" src="orig">AAXXX----1A----</AM>
-<AM lemma="Pragobanka" src="auto" recommended="1">NNFS1-----A----</AM>
+<AM lemma="Pragobanka" src="auto" recommended="1" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94209-101-p2s3w13">
@@ -674,7 +680,10 @@
 <LM>w#w-ln94209-101-p2s3w13</LM>
 </w.rf>
 <form>Cup</form>
-<tag lemma="Cup-1_;m_;w_,t_^(pohár,_soutěž;_v_názvech)" src="auto" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="Cup-1_;m_;w_,t_^(pohár,_soutěž;_v_názvech)" src="auto">NNIS1-----A----</AM>
+<AM lemma="Cup-1_;m_;w_^(pohár,_soutěž;_v_názvech)" src="manual" selected="1">NNIXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94209-101-p2s3w14">
 <src.rf>manual</src.rf>
@@ -972,7 +981,10 @@
 <LM>w#w-ln94209-101-p3s1w26</LM>
 </w.rf>
 <form>Slovakia</form>
-<tag lemma="Slovakia_;w_,t" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="Slovakia_;w_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="Slovakia-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94209-101-p3s1w27">
 <src.rf>manual</src.rf>
@@ -980,7 +992,10 @@
 <LM>w#w-ln94209-101-p3s1w27</LM>
 </w.rf>
 <form>Cup</form>
-<tag lemma="Cup-1_;m_;w_,t_^(pohár,_soutěž;_v_názvech)" src="auto" selected="1">NNIS4-----A----</tag>
+<tag>
+<AM lemma="Cup-1_;m_;w_,t_^(pohár,_soutěž;_v_názvech)" src="auto">NNIS4-----A----</AM>
+<AM lemma="Cup-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94209-101-p3s1w28">
 <src.rf>manual</src.rf>
@@ -1078,7 +1093,7 @@
 <form>Pragobanka</form>
 <tag>
 <AM lemma="Pragobanka_;w" src="orig">AAXXX----1A----</AM>
-<AM lemma="Pragobanka" src="auto" recommended="1">NNFS1-----A----</AM>
+<AM lemma="Pragobanka" src="auto" recommended="1" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94209-101-p3s1w40">
@@ -1087,7 +1102,10 @@
 <LM>w#w-ln94209-101-p3s1w40</LM>
 </w.rf>
 <form>Cup</form>
-<tag lemma="Cup-1_;m_;w_,t_^(pohár,_soutěž;_v_názvech)" src="auto" selected="1">NNIS4-----A----</tag>
+<tag>
+<AM lemma="Cup-1_;m_;w_,t_^(pohár,_soutěž;_v_názvech)" src="auto">NNIS4-----A----</AM>
+<AM lemma="Cup-1_;m_;w_^(pohár,_soutěž;_v_názvech)" src="manual" selected="1">NNIXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94209-101-p3s1w41">
 <src.rf>manual</src.rf>
@@ -1733,7 +1751,10 @@
 <LM>w#w-ln94209-101-p3s4w4</LM>
 </w.rf>
 <form>Tre</form>
-<tag lemma="Tre_;K_,t" src="orig" selected="1">ClXPX----------</tag>
+<tag>
+<AM lemma="Tre_;K_,t" src="orig">ClXPX----------</AM>
+<AM lemma="Tre-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94209-101-p3s4w5">
 <src.rf>manual</src.rf>
@@ -1741,7 +1762,10 @@
 <LM>w#w-ln94209-101-p3s4w5</LM>
 </w.rf>
 <form>kronor</form>
-<tag lemma="kronor_;K_,t" src="orig" selected="1">NNFPX-----A----</tag>
+<tag>
+<AM lemma="kronor_;K_,t" src="orig">NNFPX-----A----</AM>
+<AM lemma="kronor-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94209-101-p3s4w6">
 <src.rf>manual</src.rf>
@@ -3321,7 +3345,7 @@
 <form>ovšem</form>
 <tag>
 <AM lemma="ovšem-1_^(avšak,_však;_odporovací_spojka)" src="orig">J^-------------</AM>
-<AM lemma="ovšem" src="auto" recommended="1">TT-------------</AM>
+<AM lemma="ovšem" src="auto" recommended="1" selected="1">TT-------------</AM>
 </tag>
 </m>
 <m id="m-ln94209-101-p3s12w26">
@@ -4273,7 +4297,7 @@
 <form>gratis</form>
 <tag>
 <AM lemma="gratis" src="orig">AAXXX----1A----</AM>
-<AM lemma="gratis" src="auto" recommended="1">Db-------------</AM>
+<AM lemma="gratis" src="auto" recommended="1" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m-ln94209-101-p3s18w21">
@@ -4846,6 +4870,8 @@
 <AM lemma="v-8_:B_^(ost._zkratka)" src="auto">XX------------8</AM>
 <AM lemma="versus_:B_,t_,x" src="auto">RR--1---------8</AM>
 <AM lemma="veřejný_:B_^(v.o.s.)" src="auto">AAXXX----1A---8</AM>
+<AM lemma="V-2_:B" src="manual">NNXXX-----A---8</AM>
+<AM lemma="V-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-ln94209-101-p3s22w3">
@@ -4880,6 +4906,8 @@
 <AM lemma="i-3_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
 <AM lemma="i-4_^(graf._oddělovač)" src="auto">Z:-------------</AM>
 <AM lemma="i-8_:B_^(ost._zkratka)" src="auto">XX------------8</AM>
+<AM lemma="I-1_:B" src="manual">NNXXX-----A---8</AM>
+<AM lemma="I-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-ln94209-101-p3s22w5">
@@ -4916,6 +4944,8 @@
 <AM lemma="podnik_:B" src="auto">NNIXX-----A---8</AM>
 <AM lemma="popisný_:B" src="auto">AAXXX----1A---8</AM>
 <AM lemma="post-2_:B_,t_^(lat.,_po,_např._P.S.)" src="auto">RR--X---------8</AM>
+<AM lemma="P-1_:B" src="manual">NNXXX-----A---8</AM>
+<AM lemma="P-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-ln94209-101-p3s22w7">
@@ -5096,7 +5126,7 @@
 <form>Pragobanka</form>
 <tag>
 <AM lemma="Pragobanka_;w" src="orig">AAXXX----1A----</AM>
-<AM lemma="Pragobanka" src="auto" recommended="1">NNFS1-----A----</AM>
+<AM lemma="Pragobanka" src="auto" recommended="1" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94209-101-p4s1w11">
@@ -5105,7 +5135,10 @@
 <LM>w#w-ln94209-101-p4s1w11</LM>
 </w.rf>
 <form>Cup</form>
-<tag lemma="Cup-1_;m_;w_,t_^(pohár,_soutěž;_v_názvech)" src="auto" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="Cup-1_;m_;w_,t_^(pohár,_soutěž;_v_názvech)" src="auto">NNIS1-----A----</AM>
+<AM lemma="Cup-1_;m_;w_^(pohár,_soutěž;_v_názvech)" src="manual" selected="1">NNIXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94209-101-p4s1w12">
 <src.rf>manual</src.rf>
@@ -5415,7 +5448,7 @@
 <form>ovšem</form>
 <tag>
 <AM lemma="ovšem-1_^(avšak,_však;_odporovací_spojka)" src="orig">J^-------------</AM>
-<AM lemma="ovšem" src="auto" recommended="1">TT-------------</AM>
+<AM lemma="ovšem" src="auto" recommended="1" selected="1">TT-------------</AM>
 </tag>
 </m>
 <m id="m-ln94209-101-p4s3w5">
@@ -5964,7 +5997,10 @@
 <LM>w#w-ln94209-101-p4s5w13</LM>
 </w.rf>
 <form>IIHF</form>
-<tag lemma="IIHF-1_:B_;K_,t_^(International_Ice_Hockey_Federation)" src="auto" selected="1">NNFXX-----A----</tag>
+<tag>
+<AM lemma="IIHF-1_:B_;K_,t_^(International_Ice_Hockey_Federation)" src="auto">NNFXX-----A----</AM>
+<AM lemma="IIHF-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94209-101-p4s5w14">
 <src.rf>manual</src.rf>
@@ -6030,7 +6066,7 @@
 <form>Pragobanka</form>
 <tag>
 <AM lemma="Pragobanka_;w" src="orig">AAXXX----1A----</AM>
-<AM lemma="Pragobanka" src="auto" recommended="1">NNFS1-----A----</AM>
+<AM lemma="Pragobanka" src="auto" recommended="1" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94209-101-p4s5w22">
@@ -6039,7 +6075,10 @@
 <LM>w#w-ln94209-101-p4s5w22</LM>
 </w.rf>
 <form>Cup</form>
-<tag lemma="Cup-1_;m_;w_,t_^(pohár,_soutěž;_v_názvech)" src="auto" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="Cup-1_;m_;w_,t_^(pohár,_soutěž;_v_názvech)" src="auto">NNIS1-----A----</AM>
+<AM lemma="Cup-1_;m_;w_^(pohár,_soutěž;_v_názvech)" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94209-101-p4s5w23">
 <src.rf>manual</src.rf>

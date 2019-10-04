@@ -63,7 +63,10 @@
 <LM>w#w-lnd92255-065-p3s1w1</LM>
 </w.rf>
 <form>SAN</form>
-<tag lemma="San-2_;G" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="San-2_;G" src="orig">AAXXX----1A----</AM>
+<AM lemma="SAN-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-lnd92255-065-p3s1w2">
 <src.rf>manual</src.rf>
@@ -71,7 +74,10 @@
 <LM>w#w-lnd92255-065-p3s1w2</LM>
 </w.rf>
 <form>SALVADOR</form>
-<tag lemma="Salvador_;G" src="orig" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="Salvador_;G" src="orig">NNIS1-----A----</AM>
+<AM lemma="SALVADOR-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-lnd92255-065-p3s1w3">
 <src.rf>manual</src.rf>
@@ -105,7 +111,10 @@
 <LM>w#w-lnd92255-065-p3s2w3</LM>
 </w.rf>
 <form>Alfredo</form>
-<tag lemma="Alfredo_;Y_,t" src="auto" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Alfredo_;Y_,t" src="auto">NNMS1-----A----</AM>
+<AM lemma="Alfredo_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92255-065-p3s2w4">
 <src.rf>manual</src.rf>
@@ -114,7 +123,7 @@
 </w.rf>
 <form>Cristiani</form>
 <tag>
-<AM lemma="Cristiani_;S" src="orig">NNMS1-----A----</AM>
+<AM lemma="Cristiani_;S" src="orig" selected="1">NNMS1-----A----</AM>
 <AM lemma="Cristian_;Y" src="auto" recommended="1">NNMP1-----A---1</AM>
 <AM lemma="Cristian_;Y" src="auto">NNMP5-----A---1</AM>
 </tag>

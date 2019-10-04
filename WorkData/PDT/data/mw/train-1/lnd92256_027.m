@@ -367,7 +367,7 @@
 <form>Porsche</form>
 <tag>
 <AM lemma="Porsche-2_;R_^(vozidlo)" src="orig">NNIXX-----A----</AM>
-<AM lemma="Porsche-1_;K_;R" src="auto">NNXXX-----A----</AM>
+<AM lemma="Porsche-1_;K_;R" src="auto" selected="1">NNXXX-----A----</AM>
 <AM lemma="Porsche-3_;S" src="auto">NNMS1-----A----</AM>
 <AM lemma="Porsche-3_;S" src="auto">NNMS5-----A----</AM>
 <AM lemma="porsche_;R" src="auto">NNNP1-----A----</AM>
@@ -396,7 +396,7 @@
 <form>Lancia</form>
 <tag>
 <AM lemma="Lancia-2_;R_^(vozidlo)" src="orig">NNFXX-----A----</AM>
-<AM lemma="Lancia_;K_;R" src="auto" recommended="1">NNFS1-----A---1</AM>
+<AM lemma="Lancia_;K_;R" src="auto" recommended="1" selected="1">NNFS1-----A---1</AM>
 <AM lemma="lancia_;K_;R" src="auto">NNFS1-----A---1</AM>
 </tag>
 </m>
@@ -700,7 +700,7 @@
 <form>nejen</form>
 <tag>
 <AM lemma="nejen" src="orig">TT-------------</AM>
-<AM lemma="nejen" src="auto" recommended="1">Db-------------</AM>
+<AM lemma="nejen" src="auto" recommended="1" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m-lnd92256-027-p1s4w7">
@@ -765,7 +765,10 @@
 <LM>w#w-lnd92256-027-p1s4w14</LM>
 </w.rf>
 <form>Carrera</form>
-<tag lemma="Carrera_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Carrera_;S" src="orig">NNMS1-----A----</AM>
+<AM lemma="Carrera-2_;K" src="manual" selected="1">NNFS1-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92256-027-p1s4w15">
 <src.rf>manual</src.rf>
@@ -869,6 +872,7 @@
 <AM lemma="zlo" src="auto">NNNP4-----A----</AM>
 <AM lemma="zlo" src="auto">NNNP5-----A----</AM>
 <AM lemma="zlo" src="auto">NNNS2-----A----</AM>
+<AM lemma="zla-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92256-027-p2s1w3">
@@ -919,7 +923,10 @@
 <LM>w#w-lnd92256-027-p3s1w5</LM>
 </w.rf>
 <form>LN</form>
-<tag lemma="LN-1_:B_;R_^(Lidové_noviny,_deník)" src="orig" selected="1">NNFPX-----A---8</tag>
+<tag>
+<AM lemma="LN-1_:B_;R_^(Lidové_noviny,_deník)" src="orig">NNFPX-----A---8</AM>
+<AM lemma="LN-1_:B_;K_;R_^(Lidové_noviny)" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 </s>
 </mdata>

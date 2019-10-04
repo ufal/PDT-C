@@ -19,7 +19,10 @@
 <LM>w#w-mf920902-041-p1s1w1</LM>
 </w.rf>
 <form>a</form>
-<tag lemma="akciový_:B_^(jen_akciová_společnost)" src="orig" selected="1">AAXXX----1A---8</tag>
+<tag>
+<AM lemma="akciový_:B_^(jen_akciová_společnost)" src="orig">AAXXX----1A---8</AM>
+<AM lemma="akciový_^(jen_akciová_společnost)" src="manual" selected="1">AAXXX----1A---8</AM>
+</tag>
 </m>
 <m id="m-mf920902-041-p1s1w2">
 <src.rf>manual</src.rf>
@@ -35,7 +38,10 @@
 <LM>w#w-mf920902-041-p1s1w3</LM>
 </w.rf>
 <form>s</form>
-<tag lemma="společnost_:B" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="společnost_:B" src="orig">NNFXX-----A---8</AM>
+<AM lemma="společnost" src="manual" selected="1">NNFXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-mf920902-041-p1s1w4">
 <src.rf>manual</src.rf>
@@ -59,7 +65,10 @@
 <LM>w#w-mf920902-041-p1s1w6</LM>
 </w.rf>
 <form>nám</form>
-<tag lemma="já" src="orig" selected="1">PP-P3--1-------</tag>
+<tag>
+<AM lemma="já" src="orig">PP-P3--1-------</AM>
+<AM lemma="náměstí" src="manual" selected="1">NNNXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-mf920902-041-p1s1w7">
 <src.rf>manual</src.rf>
@@ -115,7 +124,10 @@
 <LM>w#w-mf920902-041-p1s1w13</LM>
 </w.rf>
 <form>Tel</form>
-<tag lemma="telefon_:B" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="telefon_:B" src="orig">NNIXX-----A---8</AM>
+<AM lemma="telefon" src="manual" selected="1">NNIXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-mf920902-041-p1s1w14">
 <src.rf>manual</src.rf>
@@ -327,7 +339,10 @@
 <LM>w#w-mf920902-041-p8s1w6</LM>
 </w.rf>
 <form>tel</form>
-<tag lemma="telefon_:B" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="telefon_:B" src="orig">NNIXX-----A---8</AM>
+<AM lemma="telefon" src="manual" selected="1">NNIXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-mf920902-041-p8s1w7">
 <src.rf>manual</src.rf>
@@ -383,7 +398,10 @@
 <LM>w#w-mf920902-041-p8s1w13</LM>
 </w.rf>
 <form>tel</form>
-<tag lemma="telefon_:B" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="telefon_:B" src="orig">NNIXX-----A---8</AM>
+<AM lemma="telefon" src="manual" selected="1">NNIXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-mf920902-041-p8s1w14">
 <src.rf>manual</src.rf>
@@ -553,7 +571,10 @@
 <LM>w#w-mf920902-041-p10s1w14</LM>
 </w.rf>
 <form>RAK</form>
-<tag lemma="rak" src="orig" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="rak" src="orig">NNMS1-----A----</AM>
+<AM lemma="RAK-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-mf920902-041-p10s1w15">
 <src.rf>manual</src.rf>

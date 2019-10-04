@@ -358,6 +358,7 @@
 <tag>
 <AM lemma="Wirtschaftswoche_;R_,t" src="orig">NNNXX-----A----</AM>
 <AM lemma="Wirtschaftswoche_;K" src="auto" recommended="1">NNNSX-----A----</AM>
+<AM lemma="Wirtschaftswoche-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-ln94202-18-p2s3w16">

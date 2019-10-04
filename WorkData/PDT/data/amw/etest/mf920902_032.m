@@ -53,7 +53,10 @@
 <LM>w#w-mf920902-032-p2s1w2</LM>
 </w.rf>
 <form>FS</form>
-<tag lemma="FS_:B_;K_^(Federální_shromáždění)" src="orig" selected="1">NNNXX-----A---8</tag>
+<tag>
+<AM lemma="FS_:B_;K_^(Federální_shromáždění)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="FS-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-mf920902-032-p2s1w3">
 <src.rf>manual</src.rf>
@@ -101,7 +104,10 @@
 <LM>w#w-mf920902-032-p2s1w8</LM>
 </w.rf>
 <form>HZDS</form>
-<tag lemma="HZDS-1_:B_;K_;p_,t_^(Hnutie_za_demokratické_Slovensko)" src="orig" selected="1">NNNXX-----A---8</tag>
+<tag>
+<AM lemma="HZDS-1_:B_;K_;p_,t_^(Hnutie_za_demokratické_Slovensko)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="HZDS-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-mf920902-032-p2s1w9">
 <src.rf>manual</src.rf>
@@ -205,7 +211,10 @@
 <LM>w#w-mf920902-032-p2s1w22</LM>
 </w.rf>
 <form>tzv</form>
-<tag lemma="takzvaný_:B" src="orig" selected="1">AAXXX----1A---8</tag>
+<tag>
+<AM lemma="takzvaný_:B" src="orig">AAXXX----1A---8</AM>
+<AM lemma="takzvaný" src="manual" selected="1">AAXXX----1A---8</AM>
+</tag>
 </m>
 <m id="m-mf920902-032-p2s1w23">
 <src.rf>manual</src.rf>
@@ -301,7 +310,10 @@
 <LM>w#w-mf920902-032-p2s1w34</LM>
 </w.rf>
 <form>FS</form>
-<tag lemma="FS_:B_;K_^(Federální_shromáždění)" src="orig" selected="1">NNNXX-----A---8</tag>
+<tag>
+<AM lemma="FS_:B_;K_^(Federální_shromáždění)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="FS-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-mf920902-032-p2s1w35">
 <src.rf>manual</src.rf>
@@ -333,7 +345,10 @@
 <LM>w#w-mf920902-032-p2s1w38</LM>
 </w.rf>
 <form>FMV</form>
-<tag lemma="FMV_:B_;K_^(Federální_ministerstvo_vnitra)" src="orig" selected="1">NNNXX-----A---8</tag>
+<tag>
+<AM lemma="FMV_:B_;K_^(Federální_ministerstvo_vnitra)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="FMV-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-mf920902-032-p2s1w39">
 <src.rf>manual</src.rf>
@@ -503,7 +518,10 @@
 <LM>w#w-mf920902-032-p2s2w20</LM>
 </w.rf>
 <form>odst</form>
-<tag lemma="odstavec_:B" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="odstavec_:B" src="orig">NNIXX-----A---8</AM>
+<AM lemma="odstavec" src="manual" selected="1">NNIXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-mf920902-032-p2s2w21">
 <src.rf>manual</src.rf>
@@ -535,7 +553,10 @@
 <LM>w#w-mf920902-032-p2s2w24</LM>
 </w.rf>
 <form>c</form>
-<tag lemma="c-3_^(označení_pomocí_písmene)" src="orig" selected="1">NNNXX-----A----</tag>
+<tag>
+<AM lemma="c-3_^(označení_pomocí_písmene)" src="orig">NNNXX-----A----</AM>
+<AM lemma="c-33_^(označení_pomocí_písmene)" src="manual" selected="1">NNNXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920902-032-p2s2w25">
 <src.rf>manual</src.rf>
@@ -607,7 +628,10 @@
 <LM>w#w-mf920902-032-p2s2w33</LM>
 </w.rf>
 <form>KTS</form>
-<tag lemma="KTS_:B_^(kanditát_tajné_spolupráce)" src="orig" selected="1">NNMXX-----A---8</tag>
+<tag>
+<AM lemma="KTS_:B_^(kanditát_tajné_spolupráce)" src="orig">NNMXX-----A---8</AM>
+<AM lemma="KTS-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-mf920902-032-p2s2w34">
 <src.rf>manual</src.rf>
@@ -793,7 +817,10 @@
 <LM>w#w-mf920902-032-p2s3w21</LM>
 </w.rf>
 <form>KTS</form>
-<tag lemma="KTS_:B_^(kanditát_tajné_spolupráce)" src="orig" selected="1">NNMXX-----A---8</tag>
+<tag>
+<AM lemma="KTS_:B_^(kanditát_tajné_spolupráce)" src="orig">NNMXX-----A---8</AM>
+<AM lemma="KTS-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-mf920902-032-p2s3w22">
 <src.rf>manual</src.rf>
@@ -835,7 +862,10 @@
 <LM>w#w-mf920902-032-p2s4w2</LM>
 </w.rf>
 <form>J</form>
-<tag lemma="J-0_:B_;Y" src="orig" selected="1">NNMXX-----A---8</tag>
+<tag>
+<AM lemma="J-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
+<AM lemma="J-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-mf920902-032-p2s4w3">
 <src.rf>manual</src.rf>
@@ -899,7 +929,10 @@
 <LM>w#w-mf920902-032-p2s4w10</LM>
 </w.rf>
 <form>KTS</form>
-<tag lemma="KTS_:B_^(kanditát_tajné_spolupráce)" src="orig" selected="1">NNMXX-----A---8</tag>
+<tag>
+<AM lemma="KTS_:B_^(kanditát_tajné_spolupráce)" src="orig">NNMXX-----A---8</AM>
+<AM lemma="KTS-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-mf920902-032-p2s4w11">
 <src.rf>manual</src.rf>

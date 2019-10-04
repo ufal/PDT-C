@@ -83,7 +83,10 @@
 <LM>w#w-vesm9212-027-p1s1w9</LM>
 </w.rf>
 <form>nejvíce</form>
-<tag lemma="hodně-2" src="auto" selected="1">Dg-------3A----</tag>
+<tag>
+<AM lemma="hodně-2" src="auto">Dg-------3A----</AM>
+<AM lemma="hodně-3" src="manual" selected="1">Dg-------3A----</AM>
+</tag>
 </m>
 <m id="m-vesm9212-027-p1s1w10">
 <src.rf>manual</src.rf>
@@ -511,7 +514,10 @@
 <LM>w#w-vesm9212-027-p2s2w6</LM>
 </w.rf>
 <form>jako</form>
-<tag lemma="jako-1" src="auto" selected="1">J,-------------</tag>
+<tag>
+<AM lemma="jako-1" src="auto">J,-------------</AM>
+<AM lemma="jako-4" src="manual" selected="1">J^-------------</AM>
+</tag>
 </m>
 <m id="m-vesm9212-027-p2s2w7">
 <src.rf>manual</src.rf>
@@ -603,7 +609,7 @@
 <form>Přesto</form>
 <tag>
 <AM lemma="přesto" src="orig">Dg-------1A----</AM>
-<AM lemma="přesto-1" src="auto">Db-------------</AM>
+<AM lemma="přesto-1" src="auto" selected="1">Db-------------</AM>
 <AM lemma="přesto-2" src="auto" recommended="1">J^-------------</AM>
 </tag>
 </m>
@@ -821,7 +827,10 @@
 <LM>w#w-vesm9212-027-p2s3w28</LM>
 </w.rf>
 <form>Publishers</form>
-<tag lemma="Publishers_;K_,t" src="orig" selected="1">NNMPX-----A----</tag>
+<tag>
+<AM lemma="Publishers_;K_,t" src="orig">NNMPX-----A----</AM>
+<AM lemma="Publishers_;K" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-vesm9212-027-p2s3w29">
 <src.rf>manual</src.rf>
@@ -839,7 +848,7 @@
 <form>Škvoreckých</form>
 <tag>
 <AM lemma="Škvorecký_;S" src="orig">AAMP2----1A----</AM>
-<AM lemma="Škvorecký_;S" src="auto" recommended="1">NNMP2-----A----</AM>
+<AM lemma="Škvorecký_;S" src="auto" recommended="1" selected="1">NNMP2-----A----</AM>
 <AM lemma="Škvorecký_;S" src="auto">NNMP6-----A----</AM>
 <AM lemma="Škvorecká_;S" src="auto">NNFP2-----A----</AM>
 <AM lemma="Škvorecká_;S" src="auto">NNFP6-----A----</AM>
@@ -1031,7 +1040,10 @@
 <LM>w#w-vesm9212-027-p2s5w12</LM>
 </w.rf>
 <form>sice</form>
-<tag lemma="sice-2" src="auto" selected="1">Db-------------</tag>
+<tag>
+<AM lemma="sice-2" src="auto">Db-------------</AM>
+<AM lemma="sice-1_^(spojka;_připouští_se_určitá_fakta)" src="manual" selected="1">J^-------------</AM>
+</tag>
 </m>
 <m id="m-vesm9212-027-p2s5w13">
 <src.rf>manual</src.rf>
@@ -1589,7 +1601,10 @@
 <LM>w#w-vesm9212-027-p4s1w1</LM>
 </w.rf>
 <form>F</form>
-<tag lemma="F-0_:B_;Y" src="orig" selected="1">NNMXX-----A---8</tag>
+<tag>
+<AM lemma="F-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
+<AM lemma="F-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-vesm9212-027-p4s1w2">
 <src.rf>manual</src.rf>
@@ -1605,7 +1620,10 @@
 <LM>w#w-vesm9212-027-p4s1w3</LM>
 </w.rf>
 <form>A</form>
-<tag lemma="A-0_:B_;Y" src="orig" selected="1">NNMXX-----A---8</tag>
+<tag>
+<AM lemma="A-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
+<AM lemma="A-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-vesm9212-027-p4s1w4">
 <src.rf>manual</src.rf>
@@ -1703,7 +1721,7 @@
 <form>Academia</form>
 <tag>
 <AM lemma="Academia-1_;K_^(české_akad._nakladatelství)" src="orig">NNFS1-----A----</AM>
-<AM lemma="Academia_;K_^(české_akad._nakladatelství)" src="auto" recommended="1">NNFS1-----A---1</AM>
+<AM lemma="Academia_;K_^(české_akad._nakladatelství)" src="auto" recommended="1" selected="1">NNFS1-----A---1</AM>
 </tag>
 </m>
 <m id="m-vesm9212-027-p4s1w16">
@@ -1978,7 +1996,10 @@
 <LM>w#w-vesm9212-027-p5s1w21</LM>
 </w.rf>
 <form>relativismu</form>
-<tag lemma="relativismus" src="orig" selected="1">NNIS2-----A----</tag>
+<tag>
+<AM lemma="relativismus" src="orig">NNIS2-----A----</AM>
+<AM lemma="relativismus_,s_^(^DD**relativizmus)" src="manual" selected="1">NNIS2-----A----</AM>
+</tag>
 </m>
 <m id="m-vesm9212-027-p5s1w22">
 <src.rf>manual</src.rf>

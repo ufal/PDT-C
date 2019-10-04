@@ -1275,7 +1275,10 @@
 <LM>w#w-ln95041-036-p2s3w11</LM>
 </w.rf>
 <form>li</form>
-<tag lemma="li-1" src="auto" selected="1">TT-------------</tag>
+<tag>
+<AM lemma="li-1" src="auto">TT-------------</AM>
+<AM lemma="li-2" src="manual" selected="1">J,-------------</AM>
+</tag>
 </m>
 <m id="m-ln95041-036-p2s3w12">
 <src.rf>manual</src.rf>
@@ -1469,7 +1472,10 @@
 <LM>w#w-ln95041-036-p2s4w3</LM>
 </w.rf>
 <form>li</form>
-<tag lemma="li-1" src="auto" selected="1">TT-------------</tag>
+<tag>
+<AM lemma="li-1" src="auto">TT-------------</AM>
+<AM lemma="li-2" src="manual" selected="1">J,-------------</AM>
+</tag>
 </m>
 <m id="m-ln95041-036-p2s4w4">
 <src.rf>manual</src.rf>
@@ -1557,7 +1563,10 @@
 <LM>w#w-ln95041-036-p2s4w14</LM>
 </w.rf>
 <form>li</form>
-<tag lemma="li-1" src="auto" selected="1">TT-------------</tag>
+<tag>
+<AM lemma="li-1" src="auto">TT-------------</AM>
+<AM lemma="li-2" src="manual" selected="1">J,-------------</AM>
+</tag>
 </m>
 <m id="m-ln95041-036-p2s4w15">
 <src.rf>manual</src.rf>
@@ -1999,7 +2008,10 @@
 <LM>w#w-ln95041-036-p3s1w10</LM>
 </w.rf>
 <form>ani</form>
-<tag lemma="ani-1" src="auto" selected="1">J^-------------</tag>
+<tag>
+<AM lemma="ani-1" src="auto">J^-------------</AM>
+<AM lemma="ani-2" src="manual" selected="1">TT-------------</AM>
+</tag>
 </m>
 <m id="m-ln95041-036-p3s1w11">
 <src.rf>manual</src.rf>
@@ -3050,7 +3062,10 @@
 <LM>w#w-ln95041-036-p4s1w21</LM>
 </w.rf>
 <form>mechanismus</form>
-<tag lemma="mechanismus" src="orig" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="mechanismus" src="orig">NNIS1-----A----</AM>
+<AM lemma="mechanismus_,s_^(^DD**mechanizmus)" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95041-036-p4s1w22">
 <src.rf>manual</src.rf>
@@ -3375,7 +3390,7 @@
 <tag>
 <AM lemma="jakýkoliv" src="orig">PZZS2----------</AM>
 <AM lemma="jakýkoli" src="auto">PZMS4---------1</AM>
-<AM lemma="jakýkoli" src="auto" recommended="1">PZZS2---------1</AM>
+<AM lemma="jakýkoli" src="auto" recommended="1" selected="1">PZZS2---------1</AM>
 </tag>
 </m>
 <m id="m-ln95041-036-p4s2w31">
@@ -4020,7 +4035,10 @@
 <LM>w#w-ln95041-036-p5s1w13</LM>
 </w.rf>
 <form>ČSFR</form>
-<tag lemma="ČSFR-1_:B_;G_^(Čs._federativní_republika)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ČSFR-1_:B_;G_^(Čs._federativní_republika)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČSFR-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln95041-036-p5s1w14">
 <src.rf>manual</src.rf>

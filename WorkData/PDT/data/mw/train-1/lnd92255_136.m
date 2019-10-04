@@ -53,7 +53,10 @@
 <LM>w#w-lnd92255-136-p2s1w3</LM>
 </w.rf>
 <form>šc</form>
-<tag lemma="šc-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="šc-99_:B_;S" src="orig">NNXXX-----A---8</AM>
+<AM lemma="šc-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92255-136-p2s1w4">
 <src.rf>manual</src.rf>
@@ -226,7 +229,10 @@
 <LM>w#w-lnd92255-136-p2s3w9</LM>
 </w.rf>
 <form>ccm</form>
-<tag lemma="ccm_:B_^(centimetr_krychlový)" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="ccm_:B_^(centimetr_krychlový)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="ccm_:B_^(centimetr_krychlový)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92255-136-p2s3w10">
 <src.rf>manual</src.rf>
@@ -282,7 +288,10 @@
 <LM>w#w-lnd92255-136-p2s3w16</LM>
 </w.rf>
 <form>ccm</form>
-<tag lemma="ccm_:B_^(centimetr_krychlový)" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="ccm_:B_^(centimetr_krychlový)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="ccm_:B_^(centimetr_krychlový)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92255-136-p2s3w17">
 <src.rf>manual</src.rf>
@@ -322,7 +331,10 @@
 <LM>w#w-lnd92255-136-p2s3w21</LM>
 </w.rf>
 <form>stali</form>
-<tag lemma="stát-2_^(něco_se_přihodilo)" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag>
+<AM lemma="stát-2_^(něco_se_přihodilo)" src="orig">VpMP---XR-AA---</AM>
+<AM lemma="stát-2_:W_^(něco_se_přihodilo)" src="manual" selected="1">VpMP---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-lnd92255-136-p2s3w22">
 <src.rf>manual</src.rf>
@@ -373,7 +385,7 @@
 </w.rf>
 <form>Vlasatým</form>
 <tag>
-<AM lemma="Vlasatý_;S" src="orig">NNMS7-----A----</AM>
+<AM lemma="Vlasatý_;S" src="orig" selected="1">NNMS7-----A----</AM>
 <AM lemma="vlasatý" src="auto">AAFP3----1A----</AM>
 <AM lemma="vlasatý" src="auto">AAIP3----1A----</AM>
 <AM lemma="vlasatý" src="auto">AAIS6----1A---7</AM>
@@ -608,7 +620,10 @@
 <LM>w#w-lnd92255-136-p2s4w31</LM>
 </w.rf>
 <form>ME</form>
-<tag lemma="ME-1_:B_;w_^(mistrovství_Evropy)" src="orig" selected="1">NNNXX-----A---8</tag>
+<tag>
+<AM lemma="ME-1_:B_;w_^(mistrovství_Evropy)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="ME-1_:B_^(mistrovství_Evropy)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92255-136-p2s4w32">
 <src.rf>manual</src.rf>

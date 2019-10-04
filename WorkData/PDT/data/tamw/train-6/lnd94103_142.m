@@ -35,7 +35,10 @@
 <LM>w#w-lnd94103-142-p1s1w3</LM>
 </w.rf>
 <form>LN</form>
-<tag lemma="LN-1_:B_;R_^(Lidové_noviny,_deník)" src="orig" selected="1">NNFPX-----A---8</tag>
+<tag>
+<AM lemma="LN-1_:B_;R_^(Lidové_noviny,_deník)" src="orig">NNFPX-----A---8</AM>
+<AM lemma="LN-1_:B_;K_;R_^(Lidové_noviny,_deník)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd94103-142-p1s1w4">
 <src.rf>manual</src.rf>
@@ -83,7 +86,10 @@
 <LM>w#w-lnd94103-142-p1s1w9</LM>
 </w.rf>
 <form>Karl</form>
-<tag lemma="Karl_;Y_,t" src="auto" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Karl_;Y_,t" src="auto">NNMS1-----A----</AM>
+<AM lemma="Karl_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd94103-142-p1s1w10">
 <src.rf>manual</src.rf>

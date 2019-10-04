@@ -152,7 +152,10 @@
 <LM>w#w-ln94203-108-p2s1Bw12</LM>
 </w.rf>
 <form>dopinku</form>
-<tag lemma="dopink" src="orig" selected="1">NNIS2-----A----</tag>
+<tag>
+<AM lemma="dopink" src="orig">NNIS2-----A----</AM>
+<AM lemma="dopink_,s_^(^DD**doping)" src="manual" selected="1">NNIS2-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94203-108-p2s1Bw13">
 <src.rf>manual</src.rf>
@@ -452,7 +455,10 @@
 <LM>w#w-ln94203-108-p3s1w6</LM>
 </w.rf>
 <form>Salbutomalu</form>
-<tag lemma="Salbutomal" src="orig" selected="1">NNIS2-----A----</tag>
+<tag>
+<AM lemma="Salbutomal" src="orig">NNIS2-----A----</AM>
+<AM lemma="Salbutomal_;U" src="manual" selected="1">NNIS2-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94203-108-p3s1w7">
 <src.rf>manual</src.rf>
@@ -581,7 +587,10 @@
 <LM>w#w-ln94203-108-p3s1w22</LM>
 </w.rf>
 <form>UCI</form>
-<tag lemma="UCI-1_:B_;K_,t_^(Union_Cycliste_Internationale)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="UCI-1_:B_;K_,t_^(Union_Cycliste_Internationale)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="UCI-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln94203-108-p3s1w23">
 <src.rf>manual</src.rf>
@@ -637,7 +646,10 @@
 <LM>w#w-ln94203-108-p3s1w29</LM>
 </w.rf>
 <form>MOV</form>
-<tag lemma="MOV_:B_;K_^(Mezinárodní_olympijský_výbor)" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="MOV_:B_;K_^(Mezinárodní_olympijský_výbor)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="MOV-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln94203-108-p3s1w30">
 <src.rf>manual</src.rf>

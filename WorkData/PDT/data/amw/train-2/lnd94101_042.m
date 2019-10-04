@@ -127,7 +127,10 @@
 <LM>w#w-lnd94101-042-p1s2w5</LM>
 </w.rf>
 <form>vet</form>
-<tag lemma="vet-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="vet-99_:B_;S" src="orig">NNXXX-----A---8</AM>
+<AM lemma="vet-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd94101-042-p1s2w6">
 <src.rf>manual</src.rf>
@@ -143,7 +146,10 @@
 <LM>w#w-lnd94101-042-p1s2w7</LM>
 </w.rf>
 <form>js</form>
-<tag lemma="js-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="js-99_:B_;S" src="orig">NNXXX-----A---8</AM>
+<AM lemma="js-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd94101-042-p1s2w8">
 <src.rf>manual</src.rf>
@@ -1143,7 +1149,10 @@
 <LM>w#w-lnd94101-042-p1s10w6</LM>
 </w.rf>
 <form>mj</form>
-<tag lemma="mj-1_:B_^(mimo_jiné)" src="orig" selected="1">Db------------8</tag>
+<tag>
+<AM lemma="mj-1_:B_^(mimo_jiné)" src="orig">Db------------8</AM>
+<AM lemma="mj-1_:B_^(mimo_jiné)" src="manual" selected="1">Db-------------</AM>
+</tag>
 </m>
 <m id="m-lnd94101-042-p1s10w7">
 <src.rf>manual</src.rf>
@@ -1239,7 +1248,10 @@
 <LM>w#w-lnd94101-042-p1s10w18</LM>
 </w.rf>
 <form>atd</form>
-<tag lemma="atd-1_:B_^(a_tak_dále)" src="orig" selected="1">Db------------8</tag>
+<tag>
+<AM lemma="atd-1_:B_^(a_tak_dále)" src="orig">Db------------8</AM>
+<AM lemma="atd-1_:B_^(a_tak_dále)" src="manual" selected="1">Db-------------</AM>
+</tag>
 </m>
 <m id="m-lnd94101-042-p1s10w19">
 <src.rf>manual</src.rf>
@@ -1651,7 +1663,10 @@
 <LM>w#w-lnd94101-042-p1s12w13</LM>
 </w.rf>
 <form>miliony</form>
-<tag lemma="milión`1000000" src="orig" selected="1">NNIP4-----A----</tag>
+<tag>
+<AM lemma="milión`1000000" src="orig">NNIP4-----A----</AM>
+<AM lemma="milion`1000000_,s_^(^DD**milión)" src="manual" selected="1">NNIP4-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd94101-042-p1s12w14">
 <src.rf>manual</src.rf>
@@ -1741,7 +1756,10 @@
 <LM>w#w-lnd94101-042-p1s13w5</LM>
 </w.rf>
 <form>intenzivně</form>
-<tag lemma="intenzivně_^(*4ívní)" src="orig" selected="1">Dg-------1A----</tag>
+<tag>
+<AM lemma="intenzivně_^(*4ívní)" src="orig">Dg-------1A----</AM>
+<AM lemma="intenzivně_,s_^(^DD**intenzívně)_^(*4ivní)" src="manual" selected="1">Dg-------1A----</AM>
+</tag>
 </m>
 <m id="m-lnd94101-042-p1s13w6">
 <src.rf>manual</src.rf>
@@ -1792,6 +1810,8 @@
 <tag>
 <AM lemma="Des_;S" src="orig">NNMXX-----A----</AM>
 <AM lemma="desátník_:B" src="auto" recommended="1">NNMXX-----A---8</AM>
+<AM lemma="des-2_,t" src="manual">RR--X----------</AM>
+<AM lemma="Des-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-lnd94101-042-p1s13w12">
@@ -1808,7 +1828,10 @@
 <LM>w#w-lnd94101-042-p1s13w13</LM>
 </w.rf>
 <form>Walderode</form>
-<tag lemma="Walderode_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Walderode_;S" src="orig">NNMS1-----A----</AM>
+<AM lemma="Walderode_;S" src="manual" selected="1">NNMSX-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd94101-042-p1s13w14">
 <src.rf>manual</src.rf>
@@ -1938,7 +1961,10 @@
 <LM>w#w-lnd94101-042-p1s14w3</LM>
 </w.rf>
 <form>ČR</form>
-<tag lemma="ČR-1_:B_;G_^(Česká_republika)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd94101-042-p1s14w4">
 <src.rf>manual</src.rf>
@@ -2188,7 +2214,10 @@
 <LM>w#w-lnd94101-042-p1s15w3</LM>
 </w.rf>
 <form>ČR</form>
-<tag lemma="ČR-1_:B_;G_^(Česká_republika)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd94101-042-p1s15w4">
 <src.rf>manual</src.rf>
@@ -2388,7 +2417,10 @@
 <LM>w#w-lnd94101-042-p1s15w28</LM>
 </w.rf>
 <form>wehrmachtu</form>
-<tag lemma="wehrmacht_,s" src="orig" selected="1">NNIS6-----A----</tag>
+<tag>
+<AM lemma="wehrmacht_,s" src="orig">NNIS6-----A----</AM>
+<AM lemma="wehrmacht" src="manual" selected="1">NNIS6-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd94101-042-p1s15w29">
 <src.rf>manual</src.rf>

@@ -2012,7 +2012,10 @@
 <LM>w#w-lnd92252-047-p4s8w21</LM>
 </w.rf>
 <form>StB</form>
-<tag lemma="StB_:B_;K" src="orig" selected="1">NNFSX-----A---8</tag>
+<tag>
+<AM lemma="StB_:B_;K" src="orig">NNFSX-----A---8</AM>
+<AM lemma="StB-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd92252-047-p4s8w22">
 <src.rf>manual</src.rf>
@@ -2166,7 +2169,10 @@
 <LM>w#w-lnd92252-047-p5s1w4</LM>
 </w.rf>
 <form>ČTV</form>
-<tag lemma="ČTV-1_:B_;K_^(Česká_televize)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ČTV-1_:B_;K_^(Česká_televize)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČTV-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd92252-047-p5s1w5">
 <src.rf>manual</src.rf>
@@ -2191,7 +2197,10 @@
 <LM>w#w-lnd92252-047-p5s1w7</LM>
 </w.rf>
 <form>hod</form>
-<tag lemma="hodina_:B" src="auto" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="hodina_:B" src="auto">NNFXX-----A---8</AM>
+<AM lemma="hodina" src="manual" selected="1">NNFXX-----A---9</AM>
+</tag>
 </m>
 <m id="m-lnd92252-047-p5s1w8">
 <src.rf>manual</src.rf>
@@ -2621,7 +2630,10 @@
 <LM>w#w-lnd92252-047-p6s1w2</LM>
 </w.rf>
 <form>hej</form>
-<tag lemma="hej" src="orig" selected="1">II-------------</tag>
+<tag>
+<AM lemma="hej" src="orig">II-------------</AM>
+<AM lemma="hej-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92252-047-p6s1w3">
 <src.rf>manual</src.rf>

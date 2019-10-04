@@ -61,7 +61,10 @@
 <LM>w#w-mf930702-090-p2s1w3</LM>
 </w.rf>
 <form>hd</form>
-<tag lemma="hd-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="hd-99_:B_;S" src="orig">NNXXX-----A---8</AM>
+<AM lemma="hd-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930702-090-p2s1w4">
 <src.rf>manual</src.rf>
@@ -229,7 +232,10 @@
 <LM>w#w-mf930702-090-p2s1w25</LM>
 </w.rf>
 <form>ME</form>
-<tag lemma="ME-1_:B_;w_^(mistrovství_Evropy)" src="orig" selected="1">NNNXX-----A---8</tag>
+<tag>
+<AM lemma="ME-1_:B_;w_^(mistrovství_Evropy)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="ME-1_:B_^(mistrovství_Evropy)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930702-090-p2s1w26">
 <src.rf>manual</src.rf>
@@ -633,7 +639,10 @@
 <LM>w#w-mf930702-090-p3s1w8</LM>
 </w.rf>
 <form>Subito</form>
-<tag lemma="subito_,t" src="auto" selected="1">Db-------------</tag>
+<tag>
+<AM lemma="subito_,t" src="auto">Db-------------</AM>
+<AM lemma="Subito_:K" src="manual" selected="1">NNNS1-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930702-090-p3s1w9">
 <src.rf>manual</src.rf>

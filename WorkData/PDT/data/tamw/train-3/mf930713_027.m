@@ -120,6 +120,9 @@
 <AM lemma="velkorážný_,s" src="auto">AANS1----1A---6</AM>
 <AM lemma="velkorážný_,s" src="auto">AANS4----1A---6</AM>
 <AM lemma="velkorážný_,s" src="auto">AANS5----1A---6</AM>
+<AM lemma="velkorážný_,s" src="manual">AAIS1----1A----</AM>
+<AM lemma="velkorážný" src="manual">AAIS1----1A----</AM>
+<AM lemma="velkorážný_,s_^(^DD**velkorážní)" src="manual" selected="1">AAIS1----1A----</AM>
 </tag>
 </m>
 <m id="m-mf930713-027-p2s1Bw6">
@@ -168,7 +171,10 @@
 <LM>w#w-mf930713-027-p2s1Bw11</LM>
 </w.rf>
 <form>MS</form>
-<tag lemma="MS-3_:B_;w_^(mistrovství_světa)" src="orig" selected="1">NNNXX-----A---8</tag>
+<tag>
+<AM lemma="MS-3_:B_;w_^(mistrovství_světa)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="MS-3_:B_^(mistrovství_světa)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930713-027-p2s1Bw12">
 <src.rf>manual</src.rf>
@@ -221,7 +227,7 @@
 <AM lemma="Oslo_;G" src="auto">NNNS1-----A----</AM>
 <AM lemma="Oslo_;G" src="auto">NNNS4-----A----</AM>
 <AM lemma="Oslo_;G" src="auto">NNNS5-----A----</AM>
-<AM lemma="Oslo_;G" src="auto" recommended="1">NNNSX-----A---1</AM>
+<AM lemma="Oslo_;G" src="auto" recommended="1" selected="1">NNNSX-----A---1</AM>
 </tag>
 </m>
 <m id="m-mf930713-027-p2s1Bw18">
@@ -238,7 +244,10 @@
 <LM>w#w-mf930713-027-p2s1Bw19</LM>
 </w.rf>
 <form>ČR</form>
-<tag lemma="ČR-1_:B_;G_^(Česká_republika)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930713-027-p2s1Bw20">
 <src.rf>manual</src.rf>
@@ -515,7 +524,7 @@
 <AM lemma="osmý" src="auto">CrMP1---------6</AM>
 <AM lemma="osmý" src="auto">CrMP4---------6</AM>
 <AM lemma="osmý" src="auto">CrMP5---------6</AM>
-<AM lemma="osmý" src="auto" recommended="1">CrMS1----------</AM>
+<AM lemma="osmý" src="auto" recommended="1" selected="1">CrMS1----------</AM>
 <AM lemma="osmý" src="auto">CrMS5----------</AM>
 <AM lemma="osmý" src="auto">CrNP1---------6</AM>
 <AM lemma="osmý" src="auto">CrNP4---------6</AM>

@@ -77,7 +77,10 @@
 <LM>w#w-ln95049-089-p2s1Aw3</LM>
 </w.rf>
 <form>luč</form>
-<tag lemma="luč-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="luč-99_:B_;S" src="orig">NNXXX-----A---8</AM>
+<AM lemma="luč-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95049-089-p2s1Aw4">
 <src.rf>manual</src.rf>
@@ -175,7 +178,10 @@
 <LM>w#w-ln95049-089-p2s1Bw10</LM>
 </w.rf>
 <form>J</form>
-<tag lemma="J-9_:B_;S" src="orig" selected="1">NNMXX-----A---8</tag>
+<tag>
+<AM lemma="J-9_:B_;S" src="orig">NNMXX-----A---8</AM>
+<AM lemma="J-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln95049-089-p2s1Bw11">
 <src.rf>manual</src.rf>

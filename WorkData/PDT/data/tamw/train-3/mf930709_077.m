@@ -257,7 +257,10 @@
 <LM>w#w-mf930709-077-p2s2w7</LM>
 </w.rf>
 <form>Nigelu</form>
-<tag lemma="Nigel_;S" src="auto" selected="1">NNMS3-----A---1</tag>
+<tag>
+<AM lemma="Nigel_;S" src="auto">NNMS3-----A---1</AM>
+<AM lemma="Nigel_;S_;Y" src="manual" selected="1">NNMS3-----A---1</AM>
+</tag>
 </m>
 <m id="m-mf930709-077-p2s2w8">
 <src.rf>manual</src.rf>
@@ -507,7 +510,10 @@
 <LM>w#w-mf930709-077-p2s3w16</LM>
 </w.rf>
 <form>FIDE</form>
-<tag lemma="FIDE_:B_;K_,t_^(šachová_federace)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="FIDE_:B_;K_,t_^(šachová_federace)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="FIDE-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930709-077-p2s3w17">
 <src.rf>manual</src.rf>
@@ -589,7 +595,10 @@
 <LM>w#w-mf930709-077-p2s4w8</LM>
 </w.rf>
 <form>Nigel</form>
-<tag lemma="Nigel_;S" src="auto" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Nigel_;S" src="auto">NNMS1-----A----</AM>
+<AM lemma="Nigel_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930709-077-p2s4w9">
 <src.rf>manual</src.rf>
@@ -613,7 +622,10 @@
 <LM>w#w-mf930709-077-p2s4w11</LM>
 </w.rf>
 <form>FIDE</form>
-<tag lemma="FIDE_:B_;K_,t_^(šachová_federace)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="FIDE_:B_;K_,t_^(šachová_federace)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="FIDE-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930709-077-p2s4w12">
 <src.rf>manual</src.rf>
@@ -897,7 +909,10 @@
 <LM>w#w-mf930709-077-p2s6w9</LM>
 </w.rf>
 <form>milionů</form>
-<tag lemma="milión`1000000" src="orig" selected="1">NNIP2-----A----</tag>
+<tag>
+<AM lemma="milión`1000000" src="orig">NNIP2-----A----</AM>
+<AM lemma="milion`1000000_,s_^(^DD**milión)" src="manual" selected="1">NNIP2-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930709-077-p2s6w10">
 <src.rf>manual</src.rf>
@@ -947,7 +962,10 @@
 <LM>w#w-mf930709-077-p2s7w3</LM>
 </w.rf>
 <form>šampiona</form>
-<tag lemma="šampion" src="orig" selected="1">NNMS4-----A----</tag>
+<tag>
+<AM lemma="šampion" src="orig">NNMS4-----A----</AM>
+<AM lemma="šampion_,s_^(^DD**šampión)" src="manual" selected="1">NNMS4-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930709-077-p2s7w4">
 <src.rf>manual</src.rf>
@@ -965,7 +983,7 @@
 <form>ovšem</form>
 <tag>
 <AM lemma="ovšem-1_^(avšak,_však;_odporovací_spojka)" src="orig">J^-------------</AM>
-<AM lemma="ovšem" src="auto" recommended="1">TT-------------</AM>
+<AM lemma="ovšem" src="auto" recommended="1" selected="1">TT-------------</AM>
 </tag>
 </m>
 <m id="m-mf930709-077-p2s7w6">

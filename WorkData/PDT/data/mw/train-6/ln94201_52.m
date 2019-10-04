@@ -31,7 +31,7 @@
 <AM lemma="Hutu_;E" src="orig">NNMP1-----A----</AM>
 <AM lemma="Hut_;S" src="auto" recommended="1">NNMP1-----A----</AM>
 <AM lemma="Hut_;S" src="auto">NNMP5-----A----</AM>
-<AM lemma="Hutu_;E" src="auto">NNMP1-----A---1</AM>
+<AM lemma="Hutu_;E" src="auto" selected="1">NNMP1-----A---1</AM>
 <AM lemma="Hutu_;E" src="auto">NNMP5-----A---1</AM>
 </tag>
 </m>
@@ -211,7 +211,10 @@
 <LM>w#w-ln94201-52-p2s1w20</LM>
 </w.rf>
 <form>má</form>
-<tag lemma="mít" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag>
+<AM lemma="mít" src="orig">VB-S---3P-AA---</AM>
+<AM lemma="mít_:T" src="manual" selected="1">VB-S---3P-AA---</AM>
+</tag>
 </m>
 <m id="m-ln94201-52-p2s1w21">
 <src.rf>manual</src.rf>
@@ -307,7 +310,10 @@
 <LM>w#w-ln94201-52-p2s1w32</LM>
 </w.rf>
 <form>Faustin</form>
-<tag lemma="Faustin_;S" src="auto" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Faustin_;S" src="auto">NNMS1-----A----</AM>
+<AM lemma="Faustin_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94201-52-p2s1w33">
 <src.rf>manual</src.rf>
@@ -408,7 +414,7 @@
 <form>táboře</form>
 <tag>
 <AM lemma="tábor" src="orig">NNIS6-----A----</AM>
-<AM lemma="tábor-1" src="auto" recommended="1">NNIS6-----A---1</AM>
+<AM lemma="tábor-1" src="auto" recommended="1" selected="1">NNIS6-----A---1</AM>
 <AM lemma="tábořit_:T" src="auto">VeYS------A----</AM>
 </tag>
 </m>
@@ -654,7 +660,10 @@
 <LM>w#w-ln94201-52-p2s4w2</LM>
 </w.rf>
 <form>OSN</form>
-<tag lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94201-52-p2s4w3">
 <src.rf>manual</src.rf>
@@ -710,7 +719,7 @@
 <AM lemma="Huta_;K" src="auto">NNFP4-----A----</AM>
 <AM lemma="Huta_;K" src="auto">NNFP5-----A----</AM>
 <AM lemma="Huta_;K" src="auto">NNFS2-----A----</AM>
-<AM lemma="Hutu_;E" src="auto">NNMP4-----A---1</AM>
+<AM lemma="Hutu_;E" src="auto" selected="1">NNMP4-----A---1</AM>
 <AM lemma="Hutu_;E" src="auto">NNMP7-----A---1</AM>
 </tag>
 </m>
@@ -816,7 +825,10 @@
 <LM>w#w-ln94201-52-p2s4w21</LM>
 </w.rf>
 <form>vyzval</form>
-<tag lemma="vyzvat_^(někoho_vyzvat_k_něčemu)" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag>
+<AM lemma="vyzvat_^(někoho_vyzvat_k_něčemu)" src="orig">VpYS---XR-AA---</AM>
+<AM lemma="vyzvat_:W_^(někoho_vyzvat_k_něčemu)" src="manual" selected="1">VpYS---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-ln94201-52-p2s4w22">
 <src.rf>manual</src.rf>
@@ -922,7 +934,10 @@
 <LM>w#w-ln94201-52-p3s1w3</LM>
 </w.rf>
 <form>OSN</form>
-<tag lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94201-52-p3s1w4">
 <src.rf>manual</src.rf>
@@ -1140,7 +1155,10 @@
 <LM>w#w-ln94201-52-p3s2w5</LM>
 </w.rf>
 <form>ujme</form>
-<tag lemma="ujmout" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag>
+<AM lemma="ujmout" src="orig">VB-S---3P-AA---</AM>
+<AM lemma="ujmout_:W" src="manual" selected="1">VB-S---3P-AA---</AM>
+</tag>
 </m>
 <m id="m-ln94201-52-p3s2w6">
 <src.rf>manual</src.rf>
@@ -1238,7 +1256,10 @@
 <LM>w#w-ln94201-52-p3s3w10</LM>
 </w.rf>
 <form>dojde</form>
-<tag lemma="dojít" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag>
+<AM lemma="dojít" src="orig">VB-S---3P-AA---</AM>
+<AM lemma="dojít_:W" src="manual" selected="1">VB-S---3P-AA---</AM>
+</tag>
 </m>
 <m id="m-ln94201-52-p3s3w11">
 <src.rf>manual</src.rf>

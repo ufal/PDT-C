@@ -27,7 +27,10 @@
 <LM>w#w-ln94202-49-p1s1w2</LM>
 </w.rf>
 <form>RFE</form>
-<tag lemma="RFE-1_:B_;K_,t_^(Radio_Free_Europe)" src="orig" selected="1">NNNXX-----A---8</tag>
+<tag>
+<AM lemma="RFE-1_:B_;K_,t_^(Radio_Free_Europe)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="RFE-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94202-49-p1s1w3">
 <src.rf>manual</src.rf>
@@ -167,7 +170,10 @@
 <LM>w#w-ln94202-49-p2s1Bw12</LM>
 </w.rf>
 <form>RFE</form>
-<tag lemma="RFE-1_:B_;K_,t_^(Radio_Free_Europe)" src="orig" selected="1">NNNXX-----A---8</tag>
+<tag>
+<AM lemma="RFE-1_:B_;K_,t_^(Radio_Free_Europe)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="RFE-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94202-49-p2s1Bw13">
 <src.rf>manual</src.rf>
@@ -263,7 +269,10 @@
 <LM>w#w-ln94202-49-p2s1Bw24</LM>
 </w.rf>
 <form>uvedl</form>
-<tag lemma="uvést" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag>
+<AM lemma="uvést" src="orig">VpYS---XR-AA---</AM>
+<AM lemma="uvést_:W" src="manual" selected="1">VpYS---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-ln94202-49-p2s1Bw25">
 <src.rf>manual</src.rf>
@@ -369,7 +378,10 @@
 <LM>w#w-ln94202-49-p2s2w3</LM>
 </w.rf>
 <form>sice</form>
-<tag lemma="sice-2" src="auto" selected="1">Db-------------</tag>
+<tag>
+<AM lemma="sice-2" src="auto">Db-------------</AM>
+<AM lemma="sice-1_^(spojka;_připouští_se_určitá_fakta)" src="manual" selected="1">J^-------------</AM>
+</tag>
 </m>
 <m id="m-ln94202-49-p2s2w4">
 <src.rf>manual</src.rf>
@@ -524,7 +536,7 @@
 <tag>
 <AM lemma="tedy" src="orig">Db-------------</AM>
 <AM lemma="tedy-1" src="auto">TT-------------</AM>
-<AM lemma="tedy-2" src="auto" recommended="1">J^-------------</AM>
+<AM lemma="tedy-2" src="auto" recommended="1" selected="1">J^-------------</AM>
 </tag>
 </m>
 <m id="m-ln94202-49-p2s2w23">
@@ -543,7 +555,7 @@
 <form>začít</form>
 <tag>
 <AM lemma="začít-1" src="orig">Vf--------A----</AM>
-<AM lemma="začít-1_^(začnout)" src="auto" recommended="1">Vf--------A----</AM>
+<AM lemma="začít-1_^(začnout)" src="auto" recommended="1" selected="1">Vf--------A----</AM>
 <AM lemma="začít-2_^(pocítit)" src="auto">Vf--------A----</AM>
 </tag>
 </m>
@@ -625,7 +637,10 @@
 <LM>w#w-ln94202-49-p2s2w34</LM>
 </w.rf>
 <form>řekl</form>
-<tag lemma="říci" src="auto" selected="1">VpYS---XR-AA---</tag>
+<tag>
+<AM lemma="říci" src="auto">VpYS---XR-AA---</AM>
+<AM lemma="říci_:W" src="manual" selected="1">VpYS---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-ln94202-49-p2s2w35">
 <src.rf>manual</src.rf>
@@ -869,7 +884,10 @@
 <LM>w#w-ln94202-49-p2s4w7</LM>
 </w.rf>
 <form>FS</form>
-<tag lemma="FS_:B_;K_^(Federální_shromáždění)" src="orig" selected="1">NNNXX-----A---8</tag>
+<tag>
+<AM lemma="FS_:B_;K_^(Federální_shromáždění)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="FS-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94202-49-p2s4w8">
 <src.rf>manual</src.rf>
@@ -991,7 +1009,10 @@
 <LM>w#w-ln94202-49-p2s5w7</LM>
 </w.rf>
 <form>milionů</form>
-<tag lemma="milión`1000000" src="orig" selected="1">NNIP2-----A----</tag>
+<tag>
+<AM lemma="milión`1000000" src="orig">NNIP2-----A----</AM>
+<AM lemma="milion`1000000_,s" src="manual" selected="1">_^(^DD**milión)</AM>
+</tag>
 </m>
 <m id="m-ln94202-49-p2s5w8">
 <src.rf>manual</src.rf>
@@ -999,7 +1020,10 @@
 <LM>w#w-ln94202-49-p2s5w8</LM>
 </w.rf>
 <form>dolarů</form>
-<tag lemma="dolar_;b" src="orig" selected="1">NNIP2-----A----</tag>
+<tag>
+<AM lemma="dolar_;b" src="orig">NNIP2-----A----</AM>
+<AM lemma="dolar" src="manual" selected="1">NNIP2-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94202-49-p2s5w9">
 <src.rf>manual</src.rf>
@@ -1023,7 +1047,10 @@
 <LM>w#w-ln94202-49-p2s5w11</LM>
 </w.rf>
 <form>milionům</form>
-<tag lemma="milión`1000000" src="orig" selected="1">NNIP3-----A----</tag>
+<tag>
+<AM lemma="milión`1000000" src="orig">NNIP3-----A----</AM>
+<AM lemma="milion`1000000_,s_^(^DD**milión)" src="manual" selected="1">NNIP3-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94202-49-p2s5w12">
 <src.rf>manual</src.rf>
@@ -1031,7 +1058,10 @@
 <LM>w#w-ln94202-49-p2s5w12</LM>
 </w.rf>
 <form>dolarů</form>
-<tag lemma="dolar_;b" src="orig" selected="1">NNIP2-----A----</tag>
+<tag>
+<AM lemma="dolar_;b" src="orig">NNIP2-----A----</AM>
+<AM lemma="dolar" src="manual" selected="1">NNIP2-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94202-49-p2s5w13">
 <src.rf>manual</src.rf>

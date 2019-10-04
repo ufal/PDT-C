@@ -29,7 +29,10 @@
 <LM>w#w-lnd92254-097-p2s1w1</LM>
 </w.rf>
 <form>ČNHL</form>
-<tag lemma="ČNHL_:B_;K" src="auto" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="ČNHL_:B_;K" src="auto">NNXXX-----A---8</AM>
+<AM lemma="ČNHL-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd92254-097-p2s1w2">
 <src.rf>manual</src.rf>
@@ -95,7 +98,10 @@
 <LM>w#w-lnd92254-097-p2s2w7</LM>
 </w.rf>
 <form>HC</form>
-<tag lemma="HC-1_:B_^(hockey_club)" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="HC-1_:B_^(hockey_club)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="HC-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd92254-097-p2s2w8">
 <src.rf>manual</src.rf>
@@ -247,7 +253,10 @@
 <LM>w#w-lnd92254-097-p2s2w26</LM>
 </w.rf>
 <form>VTJ</form>
-<tag lemma="VTJ_:B_^(vojenská_tělovýchovná_jednota)" src="auto" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="VTJ_:B_^(vojenská_tělovýchovná_jednota)" src="auto">NNXXX-----A---8</AM>
+<AM lemma="VTJ-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd92254-097-p2s2w27">
 <src.rf>manual</src.rf>
@@ -1089,7 +1098,7 @@
 <form>Hr</form>
 <tag>
 <AM lemma="Hradec-2_;G" src="orig">NNIXX-----A----</AM>
-<AM lemma="Hradec-2_:B_;G" src="auto" recommended="1">NNIXX-----A---8</AM>
+<AM lemma="Hradec-2_:B_;G" src="auto" recommended="1" selected="1">NNIXX-----A---8</AM>
 <AM lemma="hr-1" src="auto">Db-------------</AM>
 <AM lemma="hr-2" src="auto">II-------------</AM>
 </tag>

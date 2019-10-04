@@ -433,7 +433,10 @@
 <LM>w#w-ln95044-027-p2s2w24</LM>
 </w.rf>
 <form>ISU</form>
-<tag lemma="ISU_:B" src="auto" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="ISU_:B" src="auto">NNXXX-----A---8</AM>
+<AM lemma="ISU-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln95044-027-p2s2w25">
 <src.rf>manual</src.rf>

@@ -353,7 +353,10 @@
 <LM>w#w-ln94208-147-p2s3w18</LM>
 </w.rf>
 <form>mil</form>
-<tag lemma="milión`1000000_:B" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="milión`1000000_:B" src="orig">NNIXX-----A---8</AM>
+<AM lemma="milión`1000000" src="manual" selected="1">NNIXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln94208-147-p2s3w19">
 <src.rf>manual</src.rf>
@@ -769,7 +772,7 @@
 <form>obchodně</form>
 <tag>
 <AM lemma="obchodní" src="orig">Dg-------1A----</AM>
-<AM lemma="obchodně_^(*1í)" src="auto" recommended="1">Dg-------1A----</AM>
+<AM lemma="obchodně_^(*1í)" src="auto" recommended="1" selected="1">Dg-------1A----</AM>
 </tag>
 </m>
 <m id="m-ln94208-147-p3s2w5">

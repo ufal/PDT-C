@@ -43,7 +43,10 @@
 <LM>w#w-ln94205-35-p1s1w4</LM>
 </w.rf>
 <form>L</form>
-<tag lemma="l-3_^(označení_pomocí_písmene)" src="orig" selected="1">NNNXX-----A----</tag>
+<tag>
+<AM lemma="l-3_^(označení_pomocí_písmene)" src="orig">NNNXX-----A----</AM>
+<AM lemma="L-33_^(označení_pomocí_písmene)" src="manual" selected="1">NNNXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94205-35-p1s1w5">
 <src.rf>manual</src.rf>
@@ -251,7 +254,10 @@
 <LM>w#w-ln94205-35-p2s1Cw3</LM>
 </w.rf>
 <form>L</form>
-<tag lemma="l-3_^(označení_pomocí_písmene)" src="orig" selected="1">NNNXX-----A----</tag>
+<tag>
+<AM lemma="l-3_^(označení_pomocí_písmene)" src="orig">NNNXX-----A----</AM>
+<AM lemma="L-33_^(označení_pomocí_písmene)" src="manual" selected="1">NNNXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94205-35-p2s1Cw4">
 <src.rf>manual</src.rf>
@@ -669,7 +675,10 @@
 <LM>w#w-ln94205-35-p3s1w6</LM>
 </w.rf>
 <form>L</form>
-<tag lemma="l-3_^(označení_pomocí_písmene)" src="orig" selected="1">NNNXX-----A----</tag>
+<tag>
+<AM lemma="l-3_^(označení_pomocí_písmene)" src="orig">NNNXX-----A----</AM>
+<AM lemma="L-33_^(označení_pomocí_písmene)" src="manual" selected="1">NNNXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94205-35-p3s1w7">
 <src.rf>manual</src.rf>
@@ -837,7 +846,10 @@
 <LM>w#w-ln94205-35-p3s1w27</LM>
 </w.rf>
 <form>L</form>
-<tag lemma="l-3_^(označení_pomocí_písmene)" src="orig" selected="1">NNNXX-----A----</tag>
+<tag>
+<AM lemma="l-3_^(označení_pomocí_písmene)" src="orig">NNNXX-----A----</AM>
+<AM lemma="L-33_^(označení_pomocí_písmene)" src="manual" selected="1">NNNXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94205-35-p3s1w28">
 <src.rf>manual</src.rf>
@@ -1023,7 +1035,10 @@
 <LM>w#w-ln94205-35-p3s2w20</LM>
 </w.rf>
 <form>M</form>
-<tag lemma="M-0_:B_;Y" src="orig" selected="1">NNMXX-----A---8</tag>
+<tag>
+<AM lemma="M-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
+<AM lemma="M-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln94205-35-p3s2w21">
 <src.rf>manual</src.rf>
@@ -1063,7 +1078,10 @@
 <LM>w#w-ln94205-35-p3s2w25</LM>
 </w.rf>
 <form>Eagle</form>
-<tag lemma="Eagle_;K_,t" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="Eagle_;K_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="Eagle-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94205-35-p3s2w26">
 <src.rf>manual</src.rf>
@@ -1071,7 +1089,10 @@
 <LM>w#w-ln94205-35-p3s2w26</LM>
 </w.rf>
 <form>Group</form>
-<tag lemma="Group-1_;K_,t_^(obv._souč._názvu_firem,_&quot;skupina&quot;)" src="orig" selected="1">NNFXX-----A----</tag>
+<tag>
+<AM lemma="Group-1_;K_,t_^(obv._souč._názvu_firem,_&quot;skupina&quot;)" src="orig">NNFXX-----A----</AM>
+<AM lemma="Group-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94205-35-p3s2w27">
 <src.rf>manual</src.rf>
@@ -1079,7 +1100,10 @@
 <LM>w#w-ln94205-35-p3s2w27</LM>
 </w.rf>
 <form>V</form>
-<tag lemma="V-4_:B_;K" src="orig" selected="1">AAXXX----1A---8</tag>
+<tag>
+<AM lemma="V-4_:B_;K" src="orig">AAXXX----1A---8</AM>
+<AM lemma="V-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln94205-35-p3s2w28">
 <src.rf>manual</src.rf>
@@ -1114,6 +1138,7 @@
 <AM lemma="a-8_:B_^(ost._zkratka)" src="auto">XX------------8</AM>
 <AM lemma="akciový_:B_^(jen_akciová_společnost)" src="auto">AAXXX----1A---8</AM>
 <AM lemma="á_,t" src="auto">RF------------1</AM>
+<AM lemma="A-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-ln94205-35-p3s2w30">
@@ -1186,7 +1211,10 @@
 <LM>w#w-ln94205-35-p3s2w38</LM>
 </w.rf>
 <form>Elbit</form>
-<tag lemma="Elbit_;K_,t" src="orig" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="Elbit_;K_,t" src="orig">NNIS1-----A----</AM>
+<AM lemma="Elbit_;K" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94205-35-p3s2w39">
 <src.rf>manual</src.rf>
@@ -1228,7 +1256,10 @@
 <LM>w#w-ln94205-35-p3s3w4</LM>
 </w.rf>
 <form>Elbitu</form>
-<tag lemma="Elbit_;K_,t" src="orig" selected="1">NNIS2-----A----</tag>
+<tag>
+<AM lemma="Elbit_;K_,t" src="orig">NNIS2-----A----</AM>
+<AM lemma="Elbit_;K" src="manual" selected="1">NNIS2-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94205-35-p3s3w5">
 <src.rf>manual</src.rf>
@@ -1276,7 +1307,10 @@
 <LM>w#w-ln94205-35-p3s3w10</LM>
 </w.rf>
 <form>Rockwell</form>
-<tag lemma="Rockwell_;G" src="orig" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="Rockwell_;G" src="orig">NNIS1-----A----</AM>
+<AM lemma="Rockwell_;G_;K" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94205-35-p3s3w11">
 <src.rf>manual</src.rf>
@@ -1293,7 +1327,10 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>Allied</form>
-<tag lemma="Allied_;K_,t" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="Allied_;K_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="Allied-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94205-35-p3s3w13">
 <src.rf>manual</src.rf>
@@ -1302,7 +1339,10 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>Signal</form>
-<tag lemma="Signal_;R" src="orig" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="Signal_;R" src="orig">NNIS1-----A----</AM>
+<AM lemma="Signal-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94205-35-p3s3w14">
 <src.rf>manual</src.rf>
@@ -1336,7 +1376,10 @@
 <LM>w#w-ln94205-35-p3s4w3</LM>
 </w.rf>
 <form>Z</form>
-<tag lemma="Z-0_:B_;Y" src="orig" selected="1">NNMXX-----A---8</tag>
+<tag>
+<AM lemma="Z-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
+<AM lemma="Z-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln94205-35-p3s4w4">
 <src.rf>manual</src.rf>
@@ -1392,7 +1435,10 @@
 <LM>w#w-ln94205-35-p3s4w10</LM>
 </w.rf>
 <form>Elbit</form>
-<tag lemma="Elbit_;K_,t" src="orig" selected="1">NNIS4-----A----</tag>
+<tag>
+<AM lemma="Elbit_;K_,t" src="orig">NNIS4-----A----</AM>
+<AM lemma="Elbit_;K" src="manual" selected="1">NNIS4-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94205-35-p3s4w11">
 <src.rf>manual</src.rf>
@@ -1554,7 +1600,10 @@
 <LM>w#w-ln94205-35-p3s5w5</LM>
 </w.rf>
 <form>LN</form>
-<tag lemma="LN-1_:B_;R_^(Lidové_noviny,_deník)" src="orig" selected="1">NNFPX-----A---8</tag>
+<tag>
+<AM lemma="LN-1_:B_;R_^(Lidové_noviny,_deník)" src="orig">NNFPX-----A---8</AM>
+<AM lemma="LN-1_:B_;K_;R_^(Lidové_noviny)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94205-35-p3s5w6">
 <src.rf>manual</src.rf>
@@ -1602,7 +1651,10 @@
 <LM>w#w-ln94205-35-p3s5w11</LM>
 </w.rf>
 <form>Elbit</form>
-<tag lemma="Elbit_;K_,t" src="orig" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="Elbit_;K_,t" src="orig">NNIS1-----A----</AM>
+<AM lemma="Elbit_;K" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94205-35-p3s5w12">
 <src.rf>manual</src.rf>
@@ -1790,7 +1842,10 @@
 <LM>w#w-ln94205-35-p3s7w3</LM>
 </w.rf>
 <form>Elbitu</form>
-<tag lemma="Elbit_;K_,t" src="orig" selected="1">NNIS2-----A----</tag>
+<tag>
+<AM lemma="Elbit_;K_,t" src="orig">NNIS2-----A----</AM>
+<AM lemma="Elbit_;K" src="manual" selected="1">NNIS2-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94205-35-p3s7w4">
 <src.rf>manual</src.rf>
@@ -1902,7 +1957,10 @@
 <LM>w#w-ln94205-35-p3s7w17</LM>
 </w.rf>
 <form>NATO</form>
-<tag lemma="NATO_:B_;K_^(North_Atlantic_Treaty_Organization)" src="auto" selected="1">NNNXX-----A---8</tag>
+<tag>
+<AM lemma="NATO_:B_;K_^(North_Atlantic_Treaty_Organization)" src="auto">NNNXX-----A---8</AM>
+<AM lemma="NATO_:B_;K_^(North_Atlantic_Treaty_Organization)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94205-35-p3s7w18">
 <src.rf>manual</src.rf>
@@ -1952,7 +2010,10 @@
 <LM>w#w-ln94205-35-p3s8w3</LM>
 </w.rf>
 <form>Rockwellu</form>
-<tag lemma="Rockwell_;G" src="orig" selected="1">NNIS2-----A----</tag>
+<tag>
+<AM lemma="Rockwell_;G" src="orig">NNIS2-----A----</AM>
+<AM lemma="Rockwell_;G_;K" src="manual" selected="1">NNIS2-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94205-35-p3s8w4">
 <src.rf>manual</src.rf>
@@ -2250,7 +2311,10 @@
 <LM>w#w-ln94205-35-p3s9w8</LM>
 </w.rf>
 <form>L</form>
-<tag lemma="l-3_^(označení_pomocí_písmene)" src="orig" selected="1">NNNXX-----A----</tag>
+<tag>
+<AM lemma="l-3_^(označení_pomocí_písmene)" src="orig">NNNXX-----A----</AM>
+<AM lemma="L-33_^(označení_pomocí_písmene)" src="manual" selected="1">NNNXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94205-35-p3s9w9">
 <src.rf>manual</src.rf>
@@ -2314,7 +2378,10 @@
 <LM>w#w-ln94205-35-p3s9w16</LM>
 </w.rf>
 <form>Elbitem</form>
-<tag lemma="Elbit_;K_,t" src="orig" selected="1">NNIS7-----A----</tag>
+<tag>
+<AM lemma="Elbit_;K_,t" src="orig">NNIS7-----A----</AM>
+<AM lemma="Elbit_;K" src="manual" selected="1">NNIS7-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94205-35-p3s9w17">
 <src.rf>manual</src.rf>
@@ -2348,7 +2415,10 @@
 <LM>w#w-ln94205-35-p3s10w2</LM>
 </w.rf>
 <form>Rockwell</form>
-<tag lemma="Rockwell_;G" src="orig" selected="1">NNIS4-----A----</tag>
+<tag>
+<AM lemma="Rockwell_;G" src="orig">NNIS4-----A----</AM>
+<AM lemma="Rockwell_;G_;K" src="manual" selected="1">NNIS4-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94205-35-p3s10w3">
 <src.rf>manual</src.rf>
@@ -2428,7 +2498,10 @@
 <LM>w#w-ln94205-35-p3s10w12</LM>
 </w.rf>
 <form>NATO</form>
-<tag lemma="NATO_:B_;K_^(North_Atlantic_Treaty_Organization)" src="auto" selected="1">NNNXX-----A---8</tag>
+<tag>
+<AM lemma="NATO_:B_;K_^(North_Atlantic_Treaty_Organization)" src="auto">NNNXX-----A---8</AM>
+<AM lemma="NATO_:B_;K_^(North_Atlantic_Treaty_Organization)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94205-35-p3s10w13">
 <src.rf>manual</src.rf>
@@ -2540,7 +2613,10 @@
 <LM>w#w-ln94205-35-p3s10w26</LM>
 </w.rf>
 <form>L</form>
-<tag lemma="l-3_^(označení_pomocí_písmene)" src="orig" selected="1">NNNXX-----A----</tag>
+<tag>
+<AM lemma="l-3_^(označení_pomocí_písmene)" src="orig">NNNXX-----A----</AM>
+<AM lemma="L-33_^(označení_pomocí_písmene)" src="manual" selected="1">NNNXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94205-35-p3s10w27">
 <src.rf>manual</src.rf>
@@ -2702,7 +2778,10 @@
 <LM>w#w-ln94205-35-p3s11w9</LM>
 </w.rf>
 <form>L</form>
-<tag lemma="l-3_^(označení_pomocí_písmene)" src="orig" selected="1">NNNXX-----A----</tag>
+<tag>
+<AM lemma="l-3_^(označení_pomocí_písmene)" src="orig">NNNXX-----A----</AM>
+<AM lemma="L-33_^(označení_pomocí_písmene)" src="manual" selected="1">NNNXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94205-35-p3s11w10">
 <src.rf>manual</src.rf>

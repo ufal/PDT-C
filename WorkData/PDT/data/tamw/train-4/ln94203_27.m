@@ -232,7 +232,7 @@
 <tag>
 <AM lemma="Motol_;G" src="orig">NNIS6-----A----</AM>
 <AM lemma="Motol_;G" src="auto">NNIS5-----A----</AM>
-<AM lemma="Motol_;G" src="auto" recommended="1">NNIS6-----A---1</AM>
+<AM lemma="Motol_;G" src="auto" recommended="1" selected="1">NNIS6-----A---1</AM>
 </tag>
 </m>
 <m id="m-ln94203-27-p2s1w28">
@@ -530,6 +530,7 @@
 <tag>
 <AM lemma="Kinorevue_;R" src="orig">NNNXX-----A----</AM>
 <AM lemma="Kinorevue_;K_;R_;u" src="auto" recommended="1">NNFXX-----A----</AM>
+<AM lemma="Kinorevue_;K_;R" src="manual" selected="1">NNFXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94203-27-p4s1w3">

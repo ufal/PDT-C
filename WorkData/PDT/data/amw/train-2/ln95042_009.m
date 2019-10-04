@@ -558,7 +558,7 @@
 <tag>
 <AM lemma="tady" src="orig">Db------------1</AM>
 <AM lemma="ten" src="auto">PDFS4----------</AM>
-<AM lemma="tu" src="auto" recommended="1">Db-------------</AM>
+<AM lemma="tu" src="auto" recommended="1" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m-ln95042-009-p2s4w8">
@@ -683,7 +683,10 @@
 <LM>w#w-ln95042-009-p2s6w3</LM>
 </w.rf>
 <form>li</form>
-<tag lemma="li-1" src="auto" selected="1">TT-------------</tag>
+<tag>
+<AM lemma="li-1" src="auto">TT-------------</AM>
+<AM lemma="li-2" src="manual" selected="1">J,-------------</AM>
+</tag>
 </m>
 <m id="m-ln95042-009-p2s6w4">
 <src.rf>manual</src.rf>
@@ -977,7 +980,7 @@
 <form>vůbec</form>
 <tag>
 <AM lemma="vůbec" src="orig">Db-------------</AM>
-<AM lemma="vůbec" src="auto" recommended="1">TT-------------</AM>
+<AM lemma="vůbec" src="auto" recommended="1" selected="1">TT-------------</AM>
 </tag>
 </m>
 <m id="m-ln95042-009-p3s2w4">
@@ -1560,7 +1563,10 @@
 <LM>w#w-ln95042-009-p5s2w26</LM>
 </w.rf>
 <form>zejména</form>
-<tag lemma="zejména-1" src="auto" selected="1">Db-------------</tag>
+<tag>
+<AM lemma="zejména-1" src="auto">Db-------------</AM>
+<AM lemma="zejména-2" src="manual" selected="1">TT-------------</AM>
+</tag>
 </m>
 <m id="m-ln95042-009-p5s2w27">
 <src.rf>manual</src.rf>
@@ -3712,7 +3718,10 @@
 <LM>w#w-ln95042-009-p9s5w11</LM>
 </w.rf>
 <form>uvedli</form>
-<tag lemma="uvést" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag>
+<AM lemma="uvést" src="orig">VpMP---XR-AA---</AM>
+<AM lemma="uvést_:W" src="manual" selected="1">VpMP---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-ln95042-009-p9s5w12">
 <src.rf>manual</src.rf>
@@ -3736,7 +3745,10 @@
 <LM>w#w-ln95042-009-p9s5w14</LM>
 </w.rf>
 <form>jen</form>
-<tag lemma="jen-1" src="auto" selected="1">TT-------------</tag>
+<tag>
+<AM lemma="jen-1" src="auto">TT-------------</AM>
+<AM lemma="jen-4_^(pouze)" src="manual" selected="1">Db-------------</AM>
+</tag>
 </m>
 <m id="m-ln95042-009-p9s5w15">
 <src.rf>manual</src.rf>
@@ -4644,7 +4656,11 @@
 <LM>w#w-ln95042-009-p13s1w8</LM>
 </w.rf>
 <form>slovakismy</form>
-<tag lemma="slovakizmus" src="orig" selected="1">NNIP4-----A----</tag>
+<tag>
+<AM lemma="slovakizmus" src="orig">NNIP4-----A----</AM>
+<AM lemma="slovakizmus" src="manual">NNIP4-----A----</AM>
+<AM lemma="slovakismus_,s_^(^DD**slovakizmus)" src="manual" selected="1">NNIP4-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95042-009-p13s1w9">
 <src.rf>manual</src.rf>
@@ -4842,7 +4858,7 @@
 <form>Snad</form>
 <tag>
 <AM lemma="snad" src="orig">Db-------------</AM>
-<AM lemma="snad" src="auto" recommended="1">TT-------------</AM>
+<AM lemma="snad" src="auto" recommended="1" selected="1">TT-------------</AM>
 </tag>
 </m>
 <m id="m-ln95042-009-p13s3w2">
@@ -5079,7 +5095,10 @@
 <LM>w#w-ln95042-009-p13s5w1</LM>
 </w.rf>
 <form>Jen</form>
-<tag lemma="jen-1" src="auto" selected="1">TT-------------</tag>
+<tag>
+<AM lemma="jen-1" src="auto">TT-------------</AM>
+<AM lemma="jen-4_^(pouze)" src="manual" selected="1">Db-------------</AM>
+</tag>
 </m>
 <m id="m-ln95042-009-p13s5w2">
 <src.rf>manual</src.rf>
@@ -5243,7 +5262,7 @@
 <form>snad</form>
 <tag>
 <AM lemma="snad" src="orig">Db-------------</AM>
-<AM lemma="snad" src="auto" recommended="1">TT-------------</AM>
+<AM lemma="snad" src="auto" recommended="1" selected="1">TT-------------</AM>
 </tag>
 </m>
 <m id="m-ln95042-009-p14s1w12">

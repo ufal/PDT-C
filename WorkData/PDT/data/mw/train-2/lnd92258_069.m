@@ -21,7 +21,7 @@
 <form>Skoti</form>
 <tag>
 <AM lemma="Skot_;E" src="orig">NNMP1-----A----</AM>
-<AM lemma="Skot_;E" src="auto">NNMP1-----A---1</AM>
+<AM lemma="Skot_;E" src="auto" selected="1">NNMP1-----A---1</AM>
 <AM lemma="Skot_;E" src="auto">NNMP5-----A---1</AM>
 <AM lemma="skot" src="auto" recommended="1">NNMP1-----A----</AM>
 <AM lemma="skot" src="auto">NNMP5-----A----</AM>
@@ -205,7 +205,10 @@
 <LM>w#w-lnd92258-069-p2s2w16</LM>
 </w.rf>
 <form>ES</form>
-<tag lemma="ES_:B_;K_^(Evropská_společenství)" src="orig" selected="1">NNNXX-----A---8</tag>
+<tag>
+<AM lemma="ES_:B_;K_^(Evropská_společenství)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="ES-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92258-069-p2s2w17">
 <src.rf>manual</src.rf>
@@ -385,7 +388,10 @@
 <LM>w#w-lnd92258-069-p2s4w5</LM>
 </w.rf>
 <form>vyzvala</form>
-<tag lemma="vyzvat_^(někoho_vyzvat_k_něčemu)" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag>
+<AM lemma="vyzvat_^(někoho_vyzvat_k_něčemu)" src="orig">VpQW---XR-AA---</AM>
+<AM lemma="vyzvat_:W_^(někoho_vyzvat_k_něčemu)" src="manual" selected="1">VpQW---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-lnd92258-069-p2s4w6">
 <src.rf>manual</src.rf>

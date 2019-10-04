@@ -45,7 +45,10 @@
 <LM>w#w-ln94207-96-p2s1w1</LM>
 </w.rf>
 <form>Rainer</form>
-<tag lemma="Rainer_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Rainer_;S" src="orig">NNMS1-----A----</AM>
+<AM lemma="Rainer_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94207-96-p2s1w2">
 <src.rf>manual</src.rf>
@@ -339,7 +342,10 @@
 <LM>w#w-ln94207-96-p2s4w1</LM>
 </w.rf>
 <form>Vydává</form>
-<tag lemma="vydávat-1_:T_^(emitovat:_cenné_papíry,_knihu,_zvuk,...)_(*6at-1)" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag>
+<AM lemma="vydávat-1_:T_^(emitovat:_cenné_papíry,_knihu,_zvuk,...)_(*6at-1)" src="orig">VB-S---3P-AA---</AM>
+<AM lemma="vydávat_:T_^(*4at)" src="manual" selected="1">VB-S---3P-AA---</AM>
+</tag>
 </m>
 <m id="m-ln94207-96-p2s4w2">
 <src.rf>manual</src.rf>
@@ -365,7 +371,10 @@
 <LM>w#w-ln94207-96-p3s1w1</LM>
 </w.rf>
 <form>Salvador</form>
-<tag lemma="Salvador_;S" src="auto" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Salvador_;S" src="auto">NNMS1-----A----</AM>
+<AM lemma="Salvador_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94207-96-p3s1w2">
 <src.rf>manual</src.rf>
@@ -633,7 +642,10 @@
 <LM>w#w-ln94207-96-p3s3w1</LM>
 </w.rf>
 <form>Vydává</form>
-<tag lemma="vydávat-1_:T_^(emitovat:_cenné_papíry,_knihu,_zvuk,...)_(*6at-1)" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag>
+<AM lemma="vydávat-1_:T_^(emitovat:_cenné_papíry,_knihu,_zvuk,...)_(*6at-1)" src="orig">VB-S---3P-AA---</AM>
+<AM lemma="vydávat_:T_^(*4at)" src="manual" selected="1">VB-S---3P-AA---</AM>
+</tag>
 </m>
 <m id="m-ln94207-96-p3s3w2">
 <src.rf>manual</src.rf>
@@ -641,7 +653,10 @@
 <LM>w#w-ln94207-96-p3s3w2</LM>
 </w.rf>
 <form>Petrov</form>
-<tag lemma="Petrov_;G" src="auto" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="Petrov_;G" src="auto">NNIS1-----A----</AM>
+<AM lemma="Petrov_;G_;K" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94207-96-p3s3w3">
 <src.rf>manual</src.rf>
@@ -879,7 +894,10 @@
 <LM>w#w-ln94207-96-p4s3w1</LM>
 </w.rf>
 <form>Vydala</form>
-<tag lemma="vydat-1_:W_^(emitovat:_cenné_papíry,_knihu,_zvuk,...)" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag>
+<AM lemma="vydat-1_:W_^(emitovat:_cenné_papíry,_knihu,_zvuk,...)" src="orig">VpQW---XR-AA---</AM>
+<AM lemma="vydat_:W" src="manual" selected="1">VpQW---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-ln94207-96-p4s3w2">
 <src.rf>manual</src.rf>
@@ -954,7 +972,7 @@
 </w.rf>
 <form>Baptist</form>
 <tag>
-<AM lemma="Baptist_;Y" src="orig">NNMS1-----A----</AM>
+<AM lemma="Baptist_;Y" src="orig" selected="1">NNMS1-----A----</AM>
 <AM lemma="Baptist_;S_,t" src="auto" recommended="1">NNMSX-----A----</AM>
 </tag>
 </m>
@@ -1004,7 +1022,10 @@
 <LM>w#w-ln94207-96-p5s1w8</LM>
 </w.rf>
 <form>theologii</form>
-<tag lemma="teologie" src="orig" selected="1">NNFS6-----A----</tag>
+<tag>
+<AM lemma="teologie" src="orig">NNFS6-----A----</AM>
+<AM lemma="theologie_,s_^(^DD**teologie)" src="manual" selected="1">NNFS6-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94207-96-p5s1w9">
 <src.rf>manual</src.rf>
@@ -1094,7 +1115,10 @@
 <LM>w#w-ln94207-96-p5s2w10</LM>
 </w.rf>
 <form>OIKÚMENÉ</form>
-<tag lemma="OIKÚMENÉ_;K_,t" src="orig" selected="1">NNFS1-----A----</tag>
+<tag>
+<AM lemma="OIKÚMENÉ_;K_,t" src="orig">NNFS1-----A----</AM>
+<AM lemma="OIKÚMENÉ_;K" src="manual" selected="1">NNFS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94207-96-p5s2w11">
 <src.rf>manual</src.rf>
@@ -1404,7 +1428,10 @@
 <LM>w#w-ln94207-96-p6s6w4</LM>
 </w.rf>
 <form>vydání</form>
-<tag lemma="vydání-1_^(emitovat:_cenné_papíry,_knihu,_zvuk,...)_(*5at-1)" src="orig" selected="1">NNNS4-----A----</tag>
+<tag>
+<AM lemma="vydání-1_^(emitovat:_cenné_papíry,_knihu,_zvuk,...)_(*5at-1)" src="orig">NNNS4-----A----</AM>
+<AM lemma="vydání_^(*3at)" src="manual" selected="1">NNNS4-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94207-96-p6s6w5">
 <src.rf>manual</src.rf>
@@ -1524,7 +1551,10 @@
 <LM>w#w-ln94207-96-p6s6w19</LM>
 </w.rf>
 <form>vydává</form>
-<tag lemma="vydávat-1_:T_^(emitovat:_cenné_papíry,_knihu,_zvuk,...)_(*6at-1)" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag>
+<AM lemma="vydávat-1_:T_^(emitovat:_cenné_papíry,_knihu,_zvuk,...)_(*6at-1)" src="orig">VB-S---3P-AA---</AM>
+<AM lemma="vydávat_:T_^(*4at)" src="manual" selected="1">VB-S---3P-AA---</AM>
+</tag>
 </m>
 <m id="m-ln94207-96-p6s6w20">
 <src.rf>manual</src.rf>

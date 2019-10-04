@@ -193,7 +193,10 @@
 <LM>w#w-ln95046-030-p2s1Cw7</LM>
 </w.rf>
 <form>ČMFS</form>
-<tag lemma="ČMFS-1_:B_;K_;w_^(Českomoravský_fotbalový_svaz)" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="ČMFS-1_:B_;K_;w_^(Českomoravský_fotbalový_svaz)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="ČMFS-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95046-030-p2s1Cw8">
 <src.rf>manual</src.rf>
@@ -379,7 +382,10 @@
 <LM>w#w-ln95046-030-p2s2w12</LM>
 </w.rf>
 <form>UEFA</form>
-<tag lemma="UEFA-1_:B_;K_;w_^(Evr._fotbalová_federace)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="UEFA-1_:B_;K_;w_^(Evr._fotbalová_federace)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="UEFA-1_:B_;K_^(Evr._fotbalová_federace)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95046-030-p2s2w13">
 <src.rf>manual</src.rf>
@@ -485,7 +491,12 @@
 <LM>w#w-ln95046-030-p3s1w2</LM>
 </w.rf>
 <form>FIFA</form>
-<tag lemma="FIFA_:B_;K" src="auto" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="FIFA_:B_;K" src="auto">NNFXX-----A---8</AM>
+<AM lemma="FIFA-88_:B" src="manual">NNXXX-----A----</AM>
+<AM lemma="FIFA_:B_;K_^(Mezinárodní_federace_fotbalových_asociací )" src="manual">NNXXX-----A----</AM>
+<AM lemma="FIFA_:B_;K_^(Mezinárodní_federace_fotbalových_asociací)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95046-030-p3s1w3">
 <src.rf>manual</src.rf>
@@ -557,7 +568,10 @@
 <LM>w#w-ln95046-030-p3s1w11</LM>
 </w.rf>
 <form>stal</form>
-<tag lemma="stát-2_^(něco_se_přihodilo)" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag>
+<AM lemma="stát-2_^(něco_se_přihodilo)" src="orig">VpYS---XR-AA---</AM>
+<AM lemma="stát-2_^(stanu_staneš)" src="manual" selected="1">VpYS---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-ln95046-030-p3s1w12">
 <src.rf>manual</src.rf>
@@ -717,7 +731,10 @@
 <LM>w#w-ln95046-030-p3s1w31</LM>
 </w.rf>
 <form>ČMFS</form>
-<tag lemma="ČMFS-1_:B_;K_;w_^(Českomoravský_fotbalový_svaz)" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="ČMFS-1_:B_;K_;w_^(Českomoravský_fotbalový_svaz)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="ČMFS-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95046-030-p3s1w32">
 <src.rf>manual</src.rf>
@@ -744,7 +761,7 @@
 <AM lemma="Chvalovský_;S" src="auto">NNMP1-----A---6</AM>
 <AM lemma="Chvalovský_;S" src="auto">NNMP4-----A---6</AM>
 <AM lemma="Chvalovský_;S" src="auto">NNMP5-----A---6</AM>
-<AM lemma="Chvalovský_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Chvalovský_;S" src="auto" recommended="1" selected="1">NNMS1-----A----</AM>
 <AM lemma="Chvalovský_;S" src="auto">NNMS5-----A----</AM>
 </tag>
 </m>
@@ -1086,7 +1103,10 @@
 <LM>w#w-ln95046-030-p3s3w3</LM>
 </w.rf>
 <form>ČMFS</form>
-<tag lemma="ČMFS-1_:B_;K_;w_^(Českomoravský_fotbalový_svaz)" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="ČMFS-1_:B_;K_;w_^(Českomoravský_fotbalový_svaz)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="ČMFS-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95046-030-p3s3w4">
 <src.rf>manual</src.rf>
@@ -1115,7 +1135,7 @@
 <AM lemma="starost-1" src="auto">NNFS1-----A----</AM>
 <AM lemma="starost-1" src="auto" recommended="1">NNFS4-----A----</AM>
 <AM lemma="starost-2_^(člověk,_věc)_(*5ý-2)" src="auto">NNFS1-----A----</AM>
-<AM lemma="starost-2_^(člověk,_věc)_(*5ý-2)" src="auto">NNFS4-----A----</AM>
+<AM lemma="starost-2_^(člověk,_věc)_(*5ý-2)" src="auto" selected="1">NNFS4-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95046-030-p3s3w7">
@@ -1132,7 +1152,10 @@
 <LM>w#w-ln95046-030-p3s3w8</LM>
 </w.rf>
 <form>A</form>
-<tag lemma="A-4_:B_;K" src="orig" selected="1">AAXXX----1A---8</tag>
+<tag>
+<AM lemma="A-4_:B_;K" src="orig">AAXXX----1A---8</AM>
+<AM lemma="A-33_^(označení_pomocí_písmene)" src="manual" selected="1">NNNXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95046-030-p3s3w9">
 <src.rf>manual</src.rf>
@@ -1196,7 +1219,10 @@
 <LM>w#w-ln95046-030-p3s3w16</LM>
 </w.rf>
 <form>UEFA</form>
-<tag lemma="UEFA-1_:B_;K_;w_^(Evr._fotbalová_federace)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="UEFA-1_:B_;K_;w_^(Evr._fotbalová_federace)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="UEFA-1_:B_;K_^(Evr._fotbalová_federace)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95046-030-p3s3w17">
 <src.rf>manual</src.rf>
@@ -1212,7 +1238,13 @@
 <LM>w#w-ln95046-030-p3s3w18</LM>
 </w.rf>
 <form>FIFA</form>
-<tag lemma="FIFA_:B_;K" src="auto" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="FIFA_:B_;K" src="auto">NNFXX-----A---8</AM>
+<AM lemma="FIFA-88_:B" src="manual">NNXXX-----A----</AM>
+<AM lemma="FIFA_:B_;K_^(Mezinárodní_federace_fotbalových_asociací" src="manual">)</AM>
+<AM lemma="FIFA_:B_;K_^(Mezinárodní_federace_fotbalových_asociací" src="manual">)</AM>
+<AM lemma="FIFA_:B_;K_^(Mezinárodní_federace_fotbalových_asociací)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95046-030-p3s3w19">
 <src.rf>manual</src.rf>
@@ -1387,7 +1419,7 @@
 <AM lemma="starost-1" src="auto">NNFS1-----A----</AM>
 <AM lemma="starost-1" src="auto" recommended="1">NNFS4-----A----</AM>
 <AM lemma="starost-2_^(člověk,_věc)_(*5ý-2)" src="auto">NNFS1-----A----</AM>
-<AM lemma="starost-2_^(člověk,_věc)_(*5ý-2)" src="auto">NNFS4-----A----</AM>
+<AM lemma="starost-2_^(člověk,_věc)_(*5ý-2)" src="auto" selected="1">NNFS4-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95046-030-p3s4w17">
@@ -1608,7 +1640,10 @@
 <LM>w#w-ln95046-030-p3s6w5</LM>
 </w.rf>
 <form>č</form>
-<tag lemma="číslo_:B" src="orig" selected="1">NNNXX-----A---8</tag>
+<tag>
+<AM lemma="číslo_:B" src="orig">NNNXX-----A---8</AM>
+<AM lemma="číslo" src="manual" selected="1">NNNXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln95046-030-p3s6w6">
 <src.rf>manual</src.rf>
@@ -1961,7 +1996,7 @@
 <AM lemma="starost-1" src="auto">NNFS1-----A----</AM>
 <AM lemma="starost-1" src="auto" recommended="1">NNFS4-----A----</AM>
 <AM lemma="starost-2_^(člověk,_věc)_(*5ý-2)" src="auto">NNFS1-----A----</AM>
-<AM lemma="starost-2_^(člověk,_věc)_(*5ý-2)" src="auto">NNFS4-----A----</AM>
+<AM lemma="starost-2_^(člověk,_věc)_(*5ý-2)" src="auto" selected="1">NNFS4-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95046-030-p3s8w6">
@@ -2010,7 +2045,10 @@
 <LM>w#w-ln95046-030-p3s8w11</LM>
 </w.rf>
 <form>UEFA</form>
-<tag lemma="UEFA-1_:B_;K_;w_^(Evr._fotbalová_federace)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="UEFA-1_:B_;K_;w_^(Evr._fotbalová_federace)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="UEFA-1_:B_;K_^(Evr._fotbalová_federace)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95046-030-p3s8w12">
 <src.rf>manual</src.rf>
@@ -2084,7 +2122,10 @@
 <LM>w#w-ln95046-030-p3s9w5</LM>
 </w.rf>
 <form>public</form>
-<tag lemma="public_,t" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="public_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="public-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln95046-030-p3s9w6">
 <src.rf>manual</src.rf>
@@ -2092,7 +2133,10 @@
 <LM>w#w-ln95046-030-p3s9w6</LM>
 </w.rf>
 <form>relations</form>
-<tag lemma="relation_,t" src="orig" selected="1">NNFPX-----A----</tag>
+<tag>
+<AM lemma="relation_,t" src="orig">NNFPX-----A----</AM>
+<AM lemma="relations-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln95046-030-p3s9w7">
 <src.rf>manual</src.rf>
@@ -2336,7 +2380,10 @@
 <LM>w#w-ln95046-030-p4s1w3</LM>
 </w.rf>
 <form>ČMFS</form>
-<tag lemma="ČMFS-1_:B_;K_;w_^(Českomoravský_fotbalový_svaz)" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="ČMFS-1_:B_;K_;w_^(Českomoravský_fotbalový_svaz)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="ČMFS-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95046-030-p4s1w4">
 <src.rf>manual</src.rf>
@@ -2482,7 +2529,10 @@
 <LM>w#w-ln95046-030-p4s2w12</LM>
 </w.rf>
 <form>zachoval</form>
-<tag lemma="zachovat_:T" src="auto" selected="1">VpYS---XR-AA---</tag>
+<tag>
+<AM lemma="zachovat_:T" src="auto">VpYS---XR-AA---</AM>
+<AM lemma="zachovat_:W" src="manual" selected="1">VpYS---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-ln95046-030-p4s2w13">
 <src.rf>manual</src.rf>
@@ -2636,7 +2686,10 @@
 <LM>w#w-ln95046-030-p4s3w14</LM>
 </w.rf>
 <form>jen</form>
-<tag lemma="jen-1" src="auto" selected="1">TT-------------</tag>
+<tag>
+<AM lemma="jen-1" src="auto">TT-------------</AM>
+<AM lemma="jen-4_^(pouze)" src="manual" selected="1">Db-------------</AM>
+</tag>
 </m>
 <m id="m-ln95046-030-p4s3w15">
 <src.rf>manual</src.rf>
@@ -2878,7 +2931,10 @@
 <LM>w#w-ln95046-030-p4s4w10</LM>
 </w.rf>
 <form>stojí</form>
-<tag lemma="stát-3_^(někdo/něco_stojí,_např._na_nohou)" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag>
+<AM lemma="stát-3_^(někdo/něco_stojí,_např._na_nohou)" src="orig">VB-S---3P-AA---</AM>
+<AM lemma="stát-3_^(stojím_stojíš)" src="manual" selected="1">VB-S---3P-AA---</AM>
+</tag>
 </m>
 <m id="m-ln95046-030-p4s4w11">
 <src.rf>manual</src.rf>
@@ -2910,7 +2966,10 @@
 <LM>w#w-ln95046-030-p4s4w14</LM>
 </w.rf>
 <form>ČMFS</form>
-<tag lemma="ČMFS-1_:B_;K_;w_^(Českomoravský_fotbalový_svaz)" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="ČMFS-1_:B_;K_;w_^(Českomoravský_fotbalový_svaz)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="ČMFS-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95046-030-p4s4w15">
 <src.rf>manual</src.rf>
@@ -2937,7 +2996,7 @@
 <AM lemma="Kopecký_;S" src="auto">NNMP1-----A---6</AM>
 <AM lemma="Kopecký_;S" src="auto">NNMP4-----A---6</AM>
 <AM lemma="Kopecký_;S" src="auto">NNMP5-----A---6</AM>
-<AM lemma="Kopecký_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Kopecký_;S" src="auto" recommended="1" selected="1">NNMS1-----A----</AM>
 <AM lemma="Kopecký_;S" src="auto">NNMS5-----A----</AM>
 </tag>
 </m>
@@ -3045,7 +3104,10 @@
 <LM>w#w-ln95046-030-p5s1w3</LM>
 </w.rf>
 <form>ME</form>
-<tag lemma="ME-1_:B_;w_^(mistrovství_Evropy)" src="orig" selected="1">NNNXX-----A---8</tag>
+<tag>
+<AM lemma="ME-1_:B_;w_^(mistrovství_Evropy)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="ME-1_:B_^(mistrovství_Evropy)" src="manual" selected="1">NNNXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95046-030-p5s1w4">
 <src.rf>manual</src.rf>
@@ -3497,7 +3559,11 @@
 <LM>w#w-ln95046-030-p5s3w7</LM>
 </w.rf>
 <form>sympozium</form>
-<tag lemma="sympózium" src="orig" selected="1">NNNS4-----A----</tag>
+<tag>
+<AM lemma="sympózium" src="orig">NNNS4-----A----</AM>
+<AM lemma="sympozium_,s_^(^DD**sympózium)" src="manual">NNNS1-----A----</AM>
+<AM lemma="sympozium_,s_^(^DD**sympózium)" src="manual" selected="1">NNNS4-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95046-030-p5s3w8">
 <src.rf>manual</src.rf>
@@ -3505,7 +3571,13 @@
 <LM>w#w-ln95046-030-p5s3w8</LM>
 </w.rf>
 <form>FIFA</form>
-<tag lemma="FIFA_:B_;K" src="auto" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="FIFA_:B_;K" src="auto">NNFXX-----A---8</AM>
+<AM lemma="FIFA-88_:B" src="manual">NNXXX-----A----</AM>
+<AM lemma="FIFA_:B_;K_^(Mezinárodní_federace_fotbalových_asociací" src="manual">)</AM>
+<AM lemma="FIFA_:B_;K_^(Mezinárodní_federace_fotbalových_asociací" src="manual">)</AM>
+<AM lemma="FIFA_:B_;K_^(Mezinárodní_federace_fotbalových_asociací)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95046-030-p5s3w9">
 <src.rf>manual</src.rf>
@@ -4405,7 +4477,10 @@
 <LM>w#w-ln95046-030-p6s6w28</LM>
 </w.rf>
 <form>ČMFS</form>
-<tag lemma="ČMFS-1_:B_;K_;w_^(Českomoravský_fotbalový_svaz)" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="ČMFS-1_:B_;K_;w_^(Českomoravský_fotbalový_svaz)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="ČMFS-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95046-030-p6s6w29">
 <src.rf>manual</src.rf>

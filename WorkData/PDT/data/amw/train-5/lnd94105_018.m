@@ -215,7 +215,7 @@
 <AM lemma="Dudince_;G" src="orig">NNFP1-----A----</AM>
 <AM lemma="Dudinka_;G" src="auto">NNFS3-----A----</AM>
 <AM lemma="Dudinka_;G" src="auto">NNFS6-----A----</AM>
-<AM lemma="Dudince_;G" src="auto" recommended="1">NNIP1-----A----</AM>
+<AM lemma="Dudince_;G" src="auto" recommended="1" selected="1">NNIP1-----A----</AM>
 <AM lemma="Dudince_;G" src="auto">NNIP4-----A----</AM>
 <AM lemma="Dudince_;G" src="auto">NNIP5-----A----</AM>
 </tag>
@@ -356,7 +356,10 @@
 <LM>w#w-lnd94105-018-p1s9w16</LM>
 </w.rf>
 <form>VZP</form>
-<tag lemma="VZP-1_:B_;K_;U_^(Všeobecná_zdravotní_pojišťovna)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="VZP-1_:B_;K_;U_^(Všeobecná_zdravotní_pojišťovna)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="VZP-1_:B_;K_;U_^(Všeobecná_zdravotní_pojišťovna)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd94105-018-p1s9w17">
 <src.rf>manual</src.rf>

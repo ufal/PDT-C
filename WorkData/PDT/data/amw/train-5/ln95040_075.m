@@ -55,6 +55,7 @@
 <AM lemma="peloton" src="orig">NNIS4-----A----</AM>
 <AM lemma="peleton_,h" src="auto">NNIS1-----A----</AM>
 <AM lemma="peleton_,h" src="auto" recommended="1">NNIS4-----A----</AM>
+<AM lemma="peleton" src="manual" selected="1">NNIS4-----A----</AM>
 </tag>
 </m>
 </s>
@@ -421,7 +422,10 @@
 <LM>w#w-ln95040-075-p3s3w3</LM>
 </w.rf>
 <form>sice</form>
-<tag lemma="sice-2" src="auto" selected="1">Db-------------</tag>
+<tag>
+<AM lemma="sice-2" src="auto">Db-------------</AM>
+<AM lemma="sice-1_^(spojka;_připouští_se_určitá_fakta)" src="manual" selected="1">J^-------------</AM>
+</tag>
 </m>
 <m id="m-ln95040-075-p3s3w4">
 <src.rf>manual</src.rf>
@@ -1330,6 +1334,7 @@
 <tag>
 <AM lemma="USA_;G" src="orig">NNIPX-----A----</AM>
 <AM lemma="USA_:B_;K_,t_^(United_States_of_America)" src="auto" recommended="1">NNIPX-----A---8</AM>
+<AM lemma="USA_:B_;K_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-ln95040-075-p4s4w25">
@@ -2118,7 +2123,10 @@
 <LM>w#w-ln95040-075-p6s2w22</LM>
 </w.rf>
 <form>Georgem</form>
-<tag lemma="George_;Y_,t" src="orig" selected="1">NNMS7-----A----</tag>
+<tag>
+<AM lemma="George_;Y_,t" src="orig">NNMS7-----A----</AM>
+<AM lemma="George_;Y" src="manual" selected="1">NNMS7-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95040-075-p6s2w23">
 <src.rf>manual</src.rf>
@@ -2232,7 +2240,10 @@
 <LM>w#w-ln95040-075-p6s3w6</LM>
 </w.rf>
 <form>Dana</form>
-<tag lemma="Dan_;Y_,h" src="orig" selected="1">NNMS2-----A----</tag>
+<tag>
+<AM lemma="Dan_;Y_,h" src="orig">NNMS2-----A----</AM>
+<AM lemma="Dan_;Y" src="manual" selected="1">NNMS2-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95040-075-p6s3w7">
 <src.rf>manual</src.rf>
@@ -2298,7 +2309,10 @@
 <LM>w#w-ln95040-075-p6s4w2</LM>
 </w.rf>
 <form>sice</form>
-<tag lemma="sice-2" src="auto" selected="1">Db-------------</tag>
+<tag>
+<AM lemma="sice-2" src="auto">Db-------------</AM>
+<AM lemma="sice-1_^(spojka;_připouští_se_určitá_fakta)" src="manual" selected="1">J^-------------</AM>
+</tag>
 </m>
 <m id="m-ln95040-075-p6s4w3">
 <src.rf>manual</src.rf>
@@ -2405,7 +2419,7 @@
 <tag>
 <AM lemma="přece" src="orig">Db-------------</AM>
 <AM lemma="přece-1" src="auto" recommended="1">J^-------------</AM>
-<AM lemma="přece-2" src="auto">TT-------------</AM>
+<AM lemma="přece-2" src="auto" selected="1">TT-------------</AM>
 </tag>
 </m>
 <m id="m-ln95040-075-p6s4w16">
@@ -2456,7 +2470,10 @@
 <LM>w#w-ln95040-075-p7s1w1</LM>
 </w.rf>
 <form>Více</form>
-<tag lemma="hodně-2" src="auto" selected="1">Dg-------2A----</tag>
+<tag>
+<AM lemma="hodně-2" src="auto">Dg-------2A----</AM>
+<AM lemma="více_^(více_+_2._p.,_více_peněz)" src="manual" selected="1">Ca--4----------</AM>
+</tag>
 </m>
 <m id="m-ln95040-075-p7s1w2">
 <src.rf>manual</src.rf>
@@ -2560,7 +2577,10 @@
 <LM>w#w-ln95040-075-p7s1w14</LM>
 </w.rf>
 <form>resortu</form>
-<tag lemma="resort" src="orig" selected="1">NNIS2-----A----</tag>
+<tag>
+<AM lemma="resort" src="orig">NNIS2-----A----</AM>
+<AM lemma="resort_,s_^(^DD**rezort)" src="manual" selected="1">NNIS2-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95040-075-p7s1w15">
 <src.rf>manual</src.rf>
@@ -2584,7 +2604,10 @@
 <LM>w#w-ln95040-075-p7s1w17</LM>
 </w.rf>
 <form>Bennettovi</form>
-<tag lemma="Bennett" src="orig" selected="1">NNMS3-----A----</tag>
+<tag>
+<AM lemma="Bennett" src="orig">NNMS3-----A----</AM>
+<AM lemma="Bennett_;S" src="manual" selected="1">NNMS3-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95040-075-p7s1w18">
 <src.rf>manual</src.rf>
@@ -2913,7 +2936,7 @@
 <tag>
 <AM lemma="tady" src="orig">Db------------1</AM>
 <AM lemma="ten" src="auto" recommended="1">PDFS4----------</AM>
-<AM lemma="tu" src="auto">Db-------------</AM>
+<AM lemma="tu" src="auto" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m-ln95040-075-p8s2w14">
@@ -3188,7 +3211,11 @@
 <LM>w#w-ln95040-075-p8s3w8</LM>
 </w.rf>
 <form>Pete</form>
-<tag lemma="Pete_;Y_,t" src="orig" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Pete_;Y_,t" src="orig">NNMS1-----A----</AM>
+<AM lemma="Pete_;Y" src="manual">NNMSX-----A----</AM>
+<AM lemma="Pete_;Y" src="manual" selected="1">NNMXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95040-075-p8s3w9">
 <src.rf>manual</src.rf>
@@ -3288,6 +3315,8 @@
 <AM lemma="Tommy_;Y_,t" src="orig">NNMXX-----A----</AM>
 <AM lemma="Tommy_;Y_,t" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Tommy_;Y_,t" src="auto">NNMS5-----A----</AM>
+<AM lemma="Tommy_;Y" src="manual">NNMSX-----A----</AM>
+<AM lemma="Tommy_;Y" src="manual" selected="1">NNMXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95040-075-p8s3w21">
@@ -3390,6 +3419,7 @@
 <AM lemma="Dole_;S" src="orig">NNMS3-----A----</AM>
 <AM lemma="Doleův_;S_^(*2)" src="auto" recommended="1">AUMP1M---------</AM>
 <AM lemma="Doleův_;S_^(*2)" src="auto">AUMP5M---------</AM>
+<AM lemma="Dole_;S" src="manual" selected="1">NNMS3-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95040-075-p8s4w8">
@@ -3430,7 +3460,11 @@
 <LM>w#w-ln95040-075-p8s4w12</LM>
 </w.rf>
 <form>Arlen</form>
-<tag lemma="Arlen_;S" src="auto" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Arlen_;S" src="auto">NNMS1-----A----</AM>
+<AM lemma="Arlen_;S_;Y" src="manual">NNMS1-----A----</AM>
+<AM lemma="Arlen_;Y_;S" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95040-075-p8s4w13">
 <src.rf>manual</src.rf>
@@ -3472,7 +3506,10 @@
 <LM>w#w-ln95040-075-p8s5w3</LM>
 </w.rf>
 <form>ani</form>
-<tag lemma="ani-1" src="auto" selected="1">J^-------------</tag>
+<tag>
+<AM lemma="ani-1" src="auto">J^-------------</AM>
+<AM lemma="ani-2" src="manual" selected="1">TT-------------</AM>
+</tag>
 </m>
 <m id="m-ln95040-075-p8s5w4">
 <src.rf>manual</src.rf>
@@ -3528,7 +3565,10 @@
 <LM>w#w-ln95040-075-p8s5w10</LM>
 </w.rf>
 <form>ultrakonzervativců</form>
-<tag lemma="ultrakonzervativec_,e" src="orig" selected="1">NNMP2-----A----</tag>
+<tag>
+<AM lemma="ultrakonzervativec_,e" src="orig">NNMP2-----A----</AM>
+<AM lemma="ultrakonzervativec" src="manual" selected="1">NNMP2-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95040-075-p8s5w11">
 <src.rf>manual</src.rf>
@@ -3536,7 +3576,10 @@
 <LM>w#w-ln95040-075-p8s5w11</LM>
 </w.rf>
 <form>Pata</form>
-<tag lemma="pata" src="orig" selected="1">NNFS1-----A----</tag>
+<tag>
+<AM lemma="pata" src="orig">NNFS1-----A----</AM>
+<AM lemma="Pat_;S_;Y" src="manual" selected="1">NNMS4-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95040-075-p8s5w12">
 <src.rf>manual</src.rf>
@@ -3916,7 +3959,10 @@
 <LM>w#w-ln95040-075-p9s2w17</LM>
 </w.rf>
 <form>New</form>
-<tag lemma="New-1_;G_,t_^(součást_míst._jmen)" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="New-1_;G_,t_^(součást_míst._jmen)" src="orig">AAXXX----1A----</AM>
+<AM lemma="New-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln95040-075-p9s2w18">
 <src.rf>manual</src.rf>
@@ -3924,7 +3970,10 @@
 <LM>w#w-ln95040-075-p9s2w18</LM>
 </w.rf>
 <form>Jersey</form>
-<tag lemma="Jersey_;G" src="orig" selected="1">NNNXX-----A----</tag>
+<tag>
+<AM lemma="Jersey_;G" src="orig">NNNXX-----A----</AM>
+<AM lemma="Jersey-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln95040-075-p9s2w19">
 <src.rf>manual</src.rf>
@@ -3940,7 +3989,10 @@
 <LM>w#w-ln95040-075-p9s2w20</LM>
 </w.rf>
 <form>Todd</form>
-<tag lemma="Todd_;Y" src="auto" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Todd_;Y" src="auto">NNMS1-----A----</AM>
+<AM lemma="Todd-2_;S_;Y" src="manual" selected="1">NNFXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95040-075-p9s2w21">
 <src.rf>manual</src.rf>
@@ -4184,7 +4236,7 @@
 <form>kdokoliv</form>
 <tag>
 <AM lemma="kdokoliv" src="orig">PZM-1----------</AM>
-<AM lemma="kdokoli" src="auto" recommended="1">PZM-1---------1</AM>
+<AM lemma="kdokoli" src="auto" recommended="1" selected="1">PZM-1---------1</AM>
 <AM lemma="kdokoli" src="auto">PZM-5---------1</AM>
 </tag>
 </m>
@@ -4481,7 +4533,7 @@
 <tag>
 <AM lemma="tedy" src="orig">Db-------------</AM>
 <AM lemma="tedy-1" src="auto">TT-------------</AM>
-<AM lemma="tedy-2" src="auto" recommended="1">J^-------------</AM>
+<AM lemma="tedy-2" src="auto" recommended="1" selected="1">J^-------------</AM>
 </tag>
 </m>
 <m id="m-ln95040-075-p9s5w7">

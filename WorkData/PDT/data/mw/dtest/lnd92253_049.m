@@ -135,7 +135,11 @@
 <LM>w#w-lnd92253-049-p3s1w2</LM>
 </w.rf>
 <form>FINANCIAL</form>
-<tag lemma="Financial_;R_,t" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="Financial_;R_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="FINANCIAL-77" src="manual">F%-------------</AM>
+<AM lemma="Financial-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-lnd92253-049-p3s1w3">
 <src.rf>manual</src.rf>
@@ -143,7 +147,11 @@
 <LM>w#w-lnd92253-049-p3s1w3</LM>
 </w.rf>
 <form>TIMES</form>
-<tag lemma="Times-1_;K_,t_^(souč._názvů,_např._The_Times)" src="orig" selected="1">NNIPX-----A----</tag>
+<tag>
+<AM lemma="Times-1_;K_,t_^(souč._názvů,_např._The_Times)" src="orig">NNIPX-----A----</AM>
+<AM lemma="TIMES-77" src="manual">F%-------------</AM>
+<AM lemma="Times-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-lnd92253-049-p3s1w4">
 <src.rf>manual</src.rf>
@@ -159,7 +167,10 @@
 <LM>w#w-lnd92253-049-p3s1w5</LM>
 </w.rf>
 <form>LLOYD</form>
-<tag lemma="Lloyd_;Y" src="orig" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Lloyd_;Y" src="orig">NNMS1-----A----</AM>
+<AM lemma="Lloyd_;Y_;S" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92253-049-p3s1w6">
 <src.rf>manual</src.rf>
@@ -233,7 +244,10 @@
 <LM>w#w-lnd92253-049-p4s1w6</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-2" src="auto" selected="1">Dg-------2A----</tag>
+<tag>
+<AM lemma="hodně-2" src="auto">Dg-------2A----</AM>
+<AM lemma="více_^(více_+_2._p.,_více_peněz)" src="manual" selected="1">Ca--1----------</AM>
+</tag>
 </m>
 <m id="m-lnd92253-049-p4s1w7">
 <src.rf>manual</src.rf>
@@ -1156,7 +1170,7 @@
 <form>kterákoliv</form>
 <tag>
 <AM lemma="kterýkoliv" src="orig">PZFS1----------</AM>
-<AM lemma="kterýkoli" src="auto" recommended="1">PZFS1---------1</AM>
+<AM lemma="kterýkoli" src="auto" recommended="1" selected="1">PZFS1---------1</AM>
 <AM lemma="kterýkoli" src="auto">PZFS5---------1</AM>
 <AM lemma="kterýkoli" src="auto">PZNP1---------1</AM>
 <AM lemma="kterýkoli" src="auto">PZNP4---------1</AM>
@@ -4301,6 +4315,11 @@
 <AM lemma="žádný" src="auto">PWNS5----------</AM>
 <AM lemma="žádný" src="auto">PWYP4----------</AM>
 </tag>
+<comment>
+<LM type="New Form">
+<text>žádná</text>
+</LM>
+</comment>
 </m>
 <m id="m-lnd92253-049-p9s1w23">
 <src.rf>manual</src.rf>
@@ -4810,7 +4829,7 @@
 <form>bezesporu</form>
 <tag>
 <AM lemma="bezesporu" src="orig">Db-------------</AM>
-<AM lemma="bezesporu" src="auto" recommended="1">TT-------------</AM>
+<AM lemma="bezesporu" src="auto" recommended="1" selected="1">TT-------------</AM>
 </tag>
 </m>
 <m id="m-lnd92253-049-p9s3w25">
@@ -5479,7 +5498,10 @@
 <LM>w#w-lnd92253-049-p10s2w38</LM>
 </w.rf>
 <form>jen</form>
-<tag lemma="jen-1" src="auto" selected="1">TT-------------</tag>
+<tag>
+<AM lemma="jen-1" src="auto">TT-------------</AM>
+<AM lemma="jen-4_^(pouze)" src="manual" selected="1">Db-------------</AM>
+</tag>
 </m>
 <m id="m-lnd92253-049-p10s2w39">
 <src.rf>manual</src.rf>
@@ -5782,7 +5804,7 @@
 <tag>
 <AM lemma="přesto" src="orig">Dg-------1A----</AM>
 <AM lemma="přesto-1" src="auto" recommended="1">Db-------------</AM>
-<AM lemma="přesto-2" src="auto">J^-------------</AM>
+<AM lemma="přesto-2" src="auto" selected="1">J^-------------</AM>
 </tag>
 </m>
 <m id="m-lnd92253-049-p11s1w2">
@@ -6342,7 +6364,7 @@
 <tag>
 <AM lemma="tady" src="orig">Db------------1</AM>
 <AM lemma="ten" src="auto" recommended="1">PDFS4----------</AM>
-<AM lemma="tu" src="auto">Db-------------</AM>
+<AM lemma="tu" src="auto" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m-lnd92253-049-p11s3w5">
@@ -6531,7 +6553,10 @@
 <LM>w#w-lnd92253-049-p12s1w3</LM>
 </w.rf>
 <form>LLOYD</form>
-<tag lemma="Lloyd_;Y" src="orig" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Lloyd_;Y" src="orig">NNMS1-----A----</AM>
+<AM lemma="Lloyd_;Y_;S" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92253-049-p12s1w4">
 <src.rf>manual</src.rf>
@@ -6547,7 +6572,10 @@
 <LM>w#w-lnd92253-049-p12s1w5</LM>
 </w.rf>
 <form>Financial</form>
-<tag lemma="Financial_;R_,t" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="Financial_;R_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="Financial-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-lnd92253-049-p12s1w6">
 <src.rf>manual</src.rf>
@@ -6555,7 +6583,10 @@
 <LM>w#w-lnd92253-049-p12s1w6</LM>
 </w.rf>
 <form>Times</form>
-<tag lemma="Times-1_;K_,t_^(souč._názvů,_např._The_Times)" src="orig" selected="1">NNIPX-----A----</tag>
+<tag>
+<AM lemma="Times-1_;K_,t_^(souč._názvů,_např._The_Times)" src="orig">NNIPX-----A----</AM>
+<AM lemma="Times-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-lnd92253-049-p12s1w7">
 <src.rf>manual</src.rf>
@@ -6603,7 +6634,11 @@
 <LM>w#w-lnd92253-049-p12s1w12</LM>
 </w.rf>
 <form>LN</form>
-<tag lemma="LN-1_:B_;R_^(Lidové_noviny,_deník)" src="orig" selected="1">NNFPX-----A---8</tag>
+<tag>
+<AM lemma="LN-1_:B_;R_^(Lidové_noviny,_deník)" src="orig">NNFPX-----A---8</AM>
+<AM lemma="LN-1_:B_;K_;R_^(Lidové_noviny)" src="manual">NNFXX-----A---8</AM>
+<AM lemma="LN-1_:B_;K_;R_^(Lidové_noviny)" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 </s>
 </mdata>

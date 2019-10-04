@@ -199,7 +199,10 @@
 <LM>w#w-lnd94103-044-p1s3w17</LM>
 </w.rf>
 <form>CDA</form>
-<tag lemma="CDA-1_:B_;K_,t_^(Christlich-Demokratische_Appel)" src="auto" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="CDA-1_:B_;K_,t_^(Christlich-Demokratische_Appel)" src="auto">NNFXX-----A---8</AM>
+<AM lemma="CDA-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd94103-044-p1s3w18">
 <src.rf>manual</src.rf>
@@ -263,7 +266,10 @@
 <LM>w#w-lnd94103-044-p1s3w25</LM>
 </w.rf>
 <form>PvdA</form>
-<tag lemma="PvdA_:B_;K" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="PvdA_:B_;K" src="orig">NNFXX-----A---8</AM>
+<AM lemma="PvdA-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd94103-044-p1s3w26">
 <src.rf>manual</src.rf>
@@ -359,7 +365,10 @@
 <LM>w#w-lnd94103-044-p1s3w37</LM>
 </w.rf>
 <form>VVD</form>
-<tag lemma="VVD-1_:B_;K_,t_^(Volkspartij_voor_Vrijheid_en_Demokratie)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="VVD-1_:B_;K_,t_^(Volkspartij_voor_Vrijheid_en_Demokratie)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="VVD-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd94103-044-p1s3w38">
 <src.rf>manual</src.rf>
@@ -438,6 +447,8 @@
 <AM lemma="d-3_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
 <AM lemma="d-4_^(př._d'Artagnan,_stažený_tvar_fr._předl.)" src="auto">AAXXX----1A----</AM>
 <AM lemma="d-8_:B_^(ost._zkratka)" src="auto">XX------------8</AM>
+<AM lemma="D-1_:B" src="manual">NNXXX-----A---8</AM>
+<AM lemma="D-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-lnd94103-044-p1s3w46">
@@ -738,7 +749,10 @@
 <LM>w#w-lnd94103-044-p1s5w4</LM>
 </w.rf>
 <form>CDA</form>
-<tag lemma="CDA-1_:B_;K_,t_^(Christlich-Demokratische_Appel)" src="auto" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="CDA-1_:B_;K_,t_^(Christlich-Demokratische_Appel)" src="auto">NNFXX-----A---8</AM>
+<AM lemma="CDA-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd94103-044-p1s5w5">
 <src.rf>manual</src.rf>
@@ -754,7 +768,10 @@
 <LM>w#w-lnd94103-044-p1s5w6</LM>
 </w.rf>
 <form>PvdA</form>
-<tag lemma="PvdA_:B_;K" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="PvdA_:B_;K" src="orig">NNFXX-----A---8</AM>
+<AM lemma="PvdA-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd94103-044-p1s5w7">
 <src.rf>manual</src.rf>
@@ -1068,7 +1085,10 @@
 <LM>w#w-lnd94103-044-p1s6w9</LM>
 </w.rf>
 <form>PvdA</form>
-<tag lemma="PvdA_:B_;K" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="PvdA_:B_;K" src="orig">NNFXX-----A---8</AM>
+<AM lemma="PvdA-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd94103-044-p1s6w10">
 <src.rf>manual</src.rf>
@@ -1084,7 +1104,10 @@
 <LM>w#w-lnd94103-044-p1s6w11</LM>
 </w.rf>
 <form>VVD</form>
-<tag lemma="VVD-1_:B_;K_,t_^(Volkspartij_voor_Vrijheid_en_Demokratie)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="VVD-1_:B_;K_,t_^(Volkspartij_voor_Vrijheid_en_Demokratie)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="VVD-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd94103-044-p1s6w12">
 <src.rf>manual</src.rf>
@@ -1115,6 +1138,8 @@
 <AM lemma="d-3_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
 <AM lemma="d-4_^(př._d'Artagnan,_stažený_tvar_fr._předl.)" src="auto">AAXXX----1A----</AM>
 <AM lemma="d-8_:B_^(ost._zkratka)" src="auto">XX------------8</AM>
+<AM lemma="D-1_:B" src="manual">NNXXX-----A---8</AM>
+<AM lemma="D-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-lnd94103-044-p1s6w14">

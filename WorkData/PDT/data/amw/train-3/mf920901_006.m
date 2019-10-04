@@ -208,7 +208,10 @@
 <LM>w#w-mf920901-006-p3s1w12</LM>
 </w.rf>
 <form>J</form>
-<tag lemma="J-0_:B_;Y" src="orig" selected="1">NNMXX-----A---8</tag>
+<tag>
+<AM lemma="J-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
+<AM lemma="J-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-mf920901-006-p3s1w13">
 <src.rf>manual</src.rf>
@@ -224,7 +227,10 @@
 <LM>w#w-mf920901-006-p3s1w14</LM>
 </w.rf>
 <form>A</form>
-<tag lemma="A-0_:B_;Y" src="orig" selected="1">NNMXX-----A---8</tag>
+<tag>
+<AM lemma="A-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
+<AM lemma="A-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-mf920901-006-p3s1w15">
 <src.rf>manual</src.rf>
@@ -846,7 +852,10 @@
 <LM>w#w-mf920901-006-p3s4w19</LM>
 </w.rf>
 <form>Brusnici</form>
-<tag lemma="brusnice" src="orig" selected="1">NNFS6-----A----</tag>
+<tag>
+<AM lemma="brusnice" src="orig">NNFS6-----A----</AM>
+<AM lemma="Brusnice_;G" src="manual" selected="1">NNFS6-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920901-006-p3s4w20">
 <src.rf>manual</src.rf>
@@ -1074,7 +1083,10 @@
 <LM>w#w-mf920901-006-p3s6w3</LM>
 </w.rf>
 <form>Brusnice</form>
-<tag lemma="brusnice" src="orig" selected="1">NNFS2-----A----</tag>
+<tag>
+<AM lemma="brusnice" src="orig">NNFS2-----A----</AM>
+<AM lemma="Brusnice_;G" src="manual" selected="1">NNFS2-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920901-006-p3s6w4">
 <src.rf>manual</src.rf>
@@ -1268,7 +1280,10 @@
 <LM>w#w-mf920901-006-p3s7w19</LM>
 </w.rf>
 <form>J</form>
-<tag lemma="J-0_:B_;Y" src="orig" selected="1">NNMXX-----A---8</tag>
+<tag>
+<AM lemma="J-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
+<AM lemma="J-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-mf920901-006-p3s7w20">
 <src.rf>manual</src.rf>
@@ -1284,7 +1299,10 @@
 <LM>w#w-mf920901-006-p3s7w21</LM>
 </w.rf>
 <form>A</form>
-<tag lemma="A-0_:B_;Y" src="orig" selected="1">NNMXX-----A---8</tag>
+<tag>
+<AM lemma="A-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
+<AM lemma="A-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-mf920901-006-p3s7w22">
 <src.rf>manual</src.rf>
@@ -1670,7 +1688,10 @@
 <LM>w#w-mf920901-006-p3s8w33</LM>
 </w.rf>
 <form>ing</form>
-<tag lemma="Ing-1_:B_^(inženýr)" src="orig" selected="1">NNMXX-----A---8</tag>
+<tag>
+<AM lemma="Ing-1_:B_^(inženýr)" src="orig">NNMXX-----A---8</AM>
+<AM lemma="ing_:B_^(inženýr)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920901-006-p3s8w34">
 <src.rf>manual</src.rf>

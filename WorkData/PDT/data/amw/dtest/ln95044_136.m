@@ -19,7 +19,11 @@
 <LM>w#w-ln95044-136-p1s1w1</LM>
 </w.rf>
 <form>Ikarus</form>
-<tag lemma="Ikarus_;S" src="orig" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="Ikarus_;S" src="orig">NNIS1-----A----</AM>
+<AM lemma="	Ikarus_;K_;R_^(vozidlo)" src="manual">NNIS1-----A----</AM>
+<AM lemma="Ikarus_;K_;R_^(vozidlo)" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95044-136-p1s1w2">
 <src.rf>manual</src.rf>
@@ -115,7 +119,7 @@
 <AM lemma="Ikarus-2_;R_^(vozidlo)" src="orig">NNIS1-----A----</AM>
 <AM lemma="Ikarus_;S" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Ikarus_;S" src="auto">NNIS4-----A----</AM>
-<AM lemma="Ikarus_;K_;R_^(vozidlo)" src="auto">NNIS1-----A----</AM>
+<AM lemma="Ikarus_;K_;R_^(vozidlo)" src="auto" selected="1">NNIS1-----A----</AM>
 <AM lemma="Ikarus_;K_;R_^(vozidlo)" src="auto">NNIS4-----A----</AM>
 </tag>
 </m>
@@ -375,7 +379,10 @@
 <LM>w#w-ln95044-136-p2s2w17</LM>
 </w.rf>
 <form>dosáhla</form>
-<tag lemma="dosáhnout" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag>
+<AM lemma="dosáhnout" src="orig">VpQW---XR-AA---</AM>
+<AM lemma="dosáhnout_:W" src="manual" selected="1">VpQW---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-ln95044-136-p2s2w18">
 <src.rf>manual</src.rf>
@@ -408,7 +415,10 @@
 <LM>w#w-ln95044-136-p2s2w21</LM>
 </w.rf>
 <form>HUF</form>
-<tag lemma="HUF_:B_;b_^(maď._forint)" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="HUF_:B_;b_^(maď._forint)" src="orig">NNXXX-----A---8</AM>
+<AM lemma="HUF-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95044-136-p2s2w22">
 <src.rf>manual</src.rf>
@@ -441,7 +451,10 @@
 <LM>w#w-ln95044-136-p2s2w25</LM>
 </w.rf>
 <form>ATS</form>
-<tag lemma="ATS_:B_;b_^(rakouský_šilink)" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="ATS_:B_;b_^(rakouský_šilink)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="ATS-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95044-136-p2s2w26">
 <src.rf>manual</src.rf>
@@ -511,6 +524,7 @@
 <AM lemma="László_;Y" src="orig">NNMXX-----A----</AM>
 <AM lemma="László_;Y_,t" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="László_;Y_,t" src="auto">NNMS5-----A----</AM>
+<AM lemma="László_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95044-136-p2s3w7">
@@ -567,7 +581,10 @@
 <LM>w#w-ln95044-136-p2s3w13</LM>
 </w.rf>
 <form>Héti</form>
-<tag lemma="Héti_;R_,t" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="Héti_;R_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="Héti-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln95044-136-p2s3w14">
 <src.rf>manual</src.rf>
@@ -575,7 +592,10 @@
 <LM>w#w-ln95044-136-p2s3w14</LM>
 </w.rf>
 <form>Világgazdaság</form>
-<tag lemma="Világgazdaság_;R_,t" src="orig" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="Világgazdaság_;R_,t" src="orig">NNIS1-----A----</AM>
+<AM lemma="Világgazdaság-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln95044-136-p2s3w15">
 <src.rf>manual</src.rf>
@@ -629,7 +649,7 @@
 <AM lemma="Ikarus-2_;R_^(vozidlo)" src="orig">NNIS1-----A----</AM>
 <AM lemma="Ikarus_;S" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Ikarus_;S" src="auto">NNIS4-----A----</AM>
-<AM lemma="Ikarus_;K_;R_^(vozidlo)" src="auto">NNIS1-----A----</AM>
+<AM lemma="Ikarus_;K_;R_^(vozidlo)" src="auto" selected="1">NNIS1-----A----</AM>
 <AM lemma="Ikarus_;K_;R_^(vozidlo)" src="auto">NNIS4-----A----</AM>
 </tag>
 </m>
@@ -713,7 +733,10 @@
 <LM>w#w-ln95044-136-p2s4w14</LM>
 </w.rf>
 <form>HUF</form>
-<tag lemma="HUF_:B_;b_^(maď._forint)" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="HUF_:B_;b_^(maď._forint)" src="orig">NNXXX-----A---8</AM>
+<AM lemma="HUF-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95044-136-p2s4w15">
 <src.rf>manual</src.rf>
@@ -747,7 +770,10 @@
 <LM>w#w-ln95044-136-p2s5w3</LM>
 </w.rf>
 <form>dosáhl</form>
-<tag lemma="dosáhnout" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag>
+<AM lemma="dosáhnout" src="orig">VpYS---XR-AA---</AM>
+<AM lemma="dosáhnout_:W" src="manual" selected="1">VpYS---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-ln95044-136-p2s5w4">
 <src.rf>manual</src.rf>
@@ -788,7 +814,10 @@
 <LM>w#w-ln95044-136-p2s5w8</LM>
 </w.rf>
 <form>HUF</form>
-<tag lemma="HUF_:B_;b_^(maď._forint)" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="HUF_:B_;b_^(maď._forint)" src="orig">NNXXX-----A---8</AM>
+<AM lemma="HUF-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95044-136-p2s5w9">
 <src.rf>manual</src.rf>
@@ -898,6 +927,9 @@
 <AM lemma="AV-2_:B_;K_,t" src="orig">NNXXX-----A---8</AM>
 <AM lemma="AV_:B_;K_;u_^(Akademie_věd)" src="auto" recommended="1">NNFXX-----A---8</AM>
 <AM lemma="Ava_;G_;R" src="auto">NNFP2-----A----</AM>
+<AM lemma="AV-3_:B" src="manual">NNXXX-----A---8</AM>
+<AM lemma="AV-2_:B" src="manual">NNXXX-----A---8</AM>
+<AM lemma="AV-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95044-136-p2s6w13">
@@ -906,7 +938,10 @@
 <LM>w#w-ln95044-136-p2s6w13</LM>
 </w.rf>
 <form>Rt</form>
-<tag lemma="Rt_:B_;K_,t" src="orig" selected="1">AAXXX----1A---8</tag>
+<tag>
+<AM lemma="Rt_:B_;K_,t" src="orig">AAXXX----1A---8</AM>
+<AM lemma="Rt-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95044-136-p2s6w14">
 <src.rf>manual</src.rf>
@@ -982,7 +1017,7 @@
 <AM lemma="Ikarus-2_;R_^(vozidlo)" src="orig">NNIS4-----A----</AM>
 <AM lemma="Ikarus_;S" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Ikarus_;S" src="auto">NNIS4-----A----</AM>
-<AM lemma="Ikarus_;K_;R_^(vozidlo)" src="auto">NNIS1-----A----</AM>
+<AM lemma="Ikarus_;K_;R_^(vozidlo)" src="auto" selected="1">NNIS1-----A----</AM>
 <AM lemma="Ikarus_;K_;R_^(vozidlo)" src="auto">NNIS4-----A----</AM>
 </tag>
 </m>
@@ -1025,7 +1060,10 @@
 <LM>w#w-ln95044-136-p2s6w27</LM>
 </w.rf>
 <form>HUF</form>
-<tag lemma="HUF_:B_;b_^(maď._forint)" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="HUF_:B_;b_^(maď._forint)" src="orig">NNXXX-----A---8</AM>
+<AM lemma="HUF-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95044-136-p2s6w28">
 <src.rf>manual</src.rf>

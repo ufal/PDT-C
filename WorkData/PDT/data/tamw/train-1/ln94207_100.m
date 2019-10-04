@@ -47,6 +47,9 @@
 <AM lemma="Miranda_;m_,t" src="orig">AAXXX----1A----</AM>
 <AM lemma="Miranda-1_;S" src="auto">NNMS1-----A----</AM>
 <AM lemma="Miranda-2_;G" src="auto" recommended="1">NNFS1-----A----</AM>
+<AM lemma="Miranda-3_;Y" src="manual">NNFS1-----A----</AM>
+<AM lemma="Miranda_,t" src="manual">NNXXX-----A----</AM>
+<AM lemma="Miranda-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-ln94207-100-p1s1Aw5">
@@ -59,6 +62,9 @@
 <AM lemma="Sex_;m_,t" src="orig">AAXXX----1A----</AM>
 <AM lemma="sex" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="sex" src="auto">NNIS4-----A----</AM>
+<AM lemma="sex_,t" src="manual">AAXXX----1A----</AM>
+<AM lemma="sex_,t" src="manual">NNXXX-----A----</AM>
+<AM lemma="Sex-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-ln94207-100-p1s1Aw6">
@@ -74,6 +80,7 @@
 <AM lemma="Garden-2_;G_,t_^(součást_názvu_např._Garden_City)" src="auto">AAXXX----1A----</AM>
 <AM lemma="Gardena_;G" src="auto">NNFP2-----A----</AM>
 <AM lemma="garden_,t_^(angl._zahrada)" src="auto" recommended="1">NNFXX-----A----</AM>
+<AM lemma="Garden-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-ln94207-100-p1s1Aw7">
@@ -98,7 +105,10 @@
 <LM>w#w-ln94207-100-p1s1Aw9</LM>
 </w.rf>
 <form>Katharine</form>
-<tag lemma="Katharine_;Y" src="auto" selected="1">NNFSX-----A----</tag>
+<tag>
+<AM lemma="Katharine_;Y" src="auto">NNFSX-----A----</AM>
+<AM lemma="Katharine_;Y" src="manual" selected="1">NNFS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94207-100-p1s1Aw10">
 <src.rf>manual</src.rf>
@@ -166,7 +176,10 @@
 <LM>w#w-ln94207-100-p1s1Bw3</LM>
 </w.rf>
 <form>CS</form>
-<tag lemma="CS-1_:B_;G_^(mez._zkr._Československa)" src="orig" selected="1">NNNXX-----A---8</tag>
+<tag>
+<AM lemma="CS-1_:B_;G_^(mez._zkr._Československa)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="CS-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 </s>
 </mdata>

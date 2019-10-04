@@ -150,7 +150,10 @@
 <LM>w#w-lnd92259-021-p1s2w1</LM>
 </w.rf>
 <form>Radio</form>
-<tag lemma="rádio_,a" src="orig" selected="1">NNNS1-----A----</tag>
+<tag>
+<AM lemma="rádio_,a" src="orig">NNNS1-----A----</AM>
+<AM lemma="radio_,s_^(^DD**rádio)" src="manual" selected="1">NNNS1-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92259-021-p1s2w2">
 <src.rf>manual</src.rf>
@@ -616,7 +619,7 @@
 <AM lemma="Dominik_;Y" src="auto">NNMS2-----A----</AM>
 <AM lemma="Dominik_;Y" src="auto">NNMS4-----A----</AM>
 <AM lemma="Dominika-1_;G" src="auto" recommended="1">NNFS1-----A----</AM>
-<AM lemma="Dominika-2_;Y" src="auto">NNFS1-----A----</AM>
+<AM lemma="Dominika-2_;Y" src="auto" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92259-021-p1s4w11">
@@ -670,7 +673,7 @@
 <tag>
 <AM lemma="matka" src="orig">NNFP6-----A----</AM>
 <AM lemma="matka-1_^(malá_součástka)" src="auto" recommended="1">NNFP6-----A----</AM>
-<AM lemma="matka-2_^(maminka)" src="auto">NNFP6-----A----</AM>
+<AM lemma="matka-2_^(maminka)" src="auto" selected="1">NNFP6-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92259-021-p1s5w3">

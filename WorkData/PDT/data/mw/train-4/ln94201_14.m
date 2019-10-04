@@ -366,7 +366,7 @@
 </w.rf>
 <form>Jasoň</form>
 <tag>
-<AM lemma="Jasoň_;K" src="orig">NNIS1-----A----</AM>
+<AM lemma="Jasoň_;K" src="orig" selected="1">NNIS1-----A----</AM>
 <AM lemma="jasoň" src="auto" recommended="1">NNMS1-----A----</AM>
 </tag>
 </m>
@@ -456,7 +456,10 @@
 <LM>w#w-ln94201-14-p2s1w53</LM>
 </w.rf>
 <form>ODS</form>
-<tag lemma="ODS-1_:B_;K_;p_^(Občanská_demokratická_strana)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ODS-1_:B_;K_;p_^(Občanská_demokratická_strana)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ODS-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln94201-14-p2s1w54">
 <src.rf>manual</src.rf>
@@ -611,7 +614,7 @@
 </w.rf>
 <form>Jasoně</form>
 <tag>
-<AM lemma="Jasoň_;K" src="orig">NNIS2-----A----</AM>
+<AM lemma="Jasoň_;K" src="orig" selected="1">NNIS2-----A----</AM>
 <AM lemma="jasoň" src="auto">NNMP4-----A----</AM>
 <AM lemma="jasoň" src="auto" recommended="1">NNMS2-----A----</AM>
 <AM lemma="jasoň" src="auto">NNMS4-----A----</AM>

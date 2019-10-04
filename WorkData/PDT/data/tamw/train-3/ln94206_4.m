@@ -377,7 +377,10 @@
 <LM>w#w-ln94206-4-p2s2w10</LM>
 </w.rf>
 <form>CIS</form>
-<tag lemma="CIS-2_:B_;K_^(Cestovní_informační_služba)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="CIS-2_:B_;K_^(Cestovní_informační_služba)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="CIS-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94206-4-p2s2w11">
 <src.rf>manual</src.rf>
@@ -387,7 +390,7 @@
 <form>Plus</form>
 <tag>
 <AM lemma="Plus_;K" src="orig">NNIS1-----A----</AM>
-<AM lemma="plus-1_^(znaménko_plus;_vyjádření_kladné_vlastnosti)" src="auto" recommended="1">NNIS1-----A----</AM>
+<AM lemma="plus-1_^(znaménko_plus;_vyjádření_kladné_vlastnosti)" src="auto" recommended="1" selected="1">NNIS1-----A----</AM>
 <AM lemma="plus-1_^(znaménko_plus;_vyjádření_kladné_vlastnosti)" src="auto">NNIS4-----A----</AM>
 <AM lemma="plus-2_^(mat._operace;_1_plus_1,_též_plus_dva_stupně)" src="auto">J*-------------</AM>
 </tag>
@@ -472,7 +475,10 @@
 <LM>w#w-ln94206-4-p3s1w9</LM>
 </w.rf>
 <form>UNIDO</form>
-<tag lemma="UNIDO-1_:B_;K_,t_^(United_Nations_Idustr._Develop._Organ.)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="UNIDO-1_:B_;K_,t_^(United_Nations_Idustr._Develop._Organ.)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="UNIDO-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94206-4-p3s1w10">
 <src.rf>manual</src.rf>
@@ -940,7 +946,10 @@
 <LM>w#w-ln94206-4-p3s3w31</LM>
 </w.rf>
 <form>např</form>
-<tag lemma="například_:B" src="orig" selected="1">Db------------8</tag>
+<tag>
+<AM lemma="například_:B" src="orig">Db------------8</AM>
+<AM lemma="například" src="manual" selected="1">Db------------8</AM>
+</tag>
 </m>
 <m id="m-ln94206-4-p3s3w32">
 <src.rf>manual</src.rf>
@@ -1176,7 +1185,10 @@
 <LM>w#w-ln94206-4-p4s2w7</LM>
 </w.rf>
 <form>CIS</form>
-<tag lemma="CIS-2_:B_;K_^(Cestovní_informační_služba)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="CIS-2_:B_;K_^(Cestovní_informační_služba)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="CIS-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94206-4-p4s2w8">
 <src.rf>manual</src.rf>
@@ -1186,7 +1198,7 @@
 <form>Plus</form>
 <tag>
 <AM lemma="Plus_;K" src="orig">NNIS1-----A----</AM>
-<AM lemma="plus-1_^(znaménko_plus;_vyjádření_kladné_vlastnosti)" src="auto" recommended="1">NNIS1-----A----</AM>
+<AM lemma="plus-1_^(znaménko_plus;_vyjádření_kladné_vlastnosti)" src="auto" recommended="1" selected="1">NNIS1-----A----</AM>
 <AM lemma="plus-1_^(znaménko_plus;_vyjádření_kladné_vlastnosti)" src="auto">NNIS4-----A----</AM>
 <AM lemma="plus-2_^(mat._operace;_1_plus_1,_též_plus_dva_stupně)" src="auto">J*-------------</AM>
 </tag>

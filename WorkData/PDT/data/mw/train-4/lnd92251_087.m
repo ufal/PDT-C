@@ -36,7 +36,10 @@
 <LM>w#w-lnd92251-087-p1s1w3</LM>
 </w.rf>
 <form>Striker</form>
-<tag lemma="Striker_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Striker_;S" src="orig">NNMS1-----A----</AM>
+<AM lemma="Striker_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 </s>
 <s id="m-lnd92251-087-p2s1">
@@ -46,7 +49,11 @@
 <LM>w#w-lnd92251-087-p2s1w1</LM>
 </w.rf>
 <form>NEW</form>
-<tag lemma="New-1_;G_,t_^(součást_míst._jmen)" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="New-1_;G_,t_^(součást_míst._jmen)" src="orig">AAXXX----1A----</AM>
+<AM lemma="NEW-77" src="manual">F%-------------</AM>
+<AM lemma="New-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-lnd92251-087-p2s1w2">
 <src.rf>manual</src.rf>
@@ -171,6 +178,7 @@
 <tag>
 <AM lemma="USA_;G" src="orig">NNIPX-----A----</AM>
 <AM lemma="USA_:B_;K_,t_^(United_States_of_America)" src="auto" recommended="1">NNIPX-----A---8</AM>
+<AM lemma="USA_:B_;K_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92251-087-p2s2w14">
@@ -203,7 +211,10 @@
 <LM>w#w-lnd92251-087-p2s2w17</LM>
 </w.rf>
 <form>Striker</form>
-<tag lemma="Striker_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Striker_;S" src="orig">NNMS1-----A----</AM>
+<AM lemma="Striker_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92251-087-p2s2w18">
 <src.rf>manual</src.rf>
@@ -222,7 +233,7 @@
 <tag>
 <AM lemma="tedy" src="orig">Db-------------</AM>
 <AM lemma="tedy-1" src="auto">TT-------------</AM>
-<AM lemma="tedy-2" src="auto" recommended="1">J^-------------</AM>
+<AM lemma="tedy-2" src="auto" recommended="1" selected="1">J^-------------</AM>
 </tag>
 </m>
 <m id="m-lnd92251-087-p2s2w20">
@@ -313,7 +324,10 @@
 <LM>w#w-lnd92251-087-p2s3w9</LM>
 </w.rf>
 <form>červenomodrobílém</form>
-<tag lemma="červenomodrobílý" src="orig" selected="1">AANS6----1A----</tag>
+<tag>
+<AM lemma="červenomodrobílý" src="orig">AANS6----1A----</AM>
+<AM lemma="červenomodrobílý_;o" src="manual" selected="1">AANS6----1A----</AM>
+</tag>
 </m>
 <m id="m-lnd92251-087-p2s3w10">
 <src.rf>manual</src.rf>
@@ -418,7 +432,10 @@
 <LM>w#w-lnd92251-087-p2s3w22</LM>
 </w.rf>
 <form>MS</form>
-<tag lemma="MS-5_:B_;K_;p_^(ministerstvo_spravedlnosti)" src="orig" selected="1">NNNXX-----A---8</tag>
+<tag>
+<AM lemma="MS-5_:B_;K_;p_^(ministerstvo_spravedlnosti)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="MS-3_:B_^(mistrovství_světa)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92251-087-p2s3w23">
 <src.rf>manual</src.rf>
@@ -436,7 +453,10 @@
 <LM>w#w-lnd92251-087-p2s4w1</LM>
 </w.rf>
 <form>Striker</form>
-<tag lemma="Striker_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Striker_;S" src="orig">NNMS1-----A----</AM>
+<AM lemma="Striker_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92251-087-p2s4w2">
 <src.rf>manual</src.rf>
@@ -598,7 +618,10 @@
 <LM>w#w-lnd92251-087-p2s5w7</LM>
 </w.rf>
 <form>jen</form>
-<tag lemma="jen-1" src="auto" selected="1">TT-------------</tag>
+<tag>
+<AM lemma="jen-1" src="auto">TT-------------</AM>
+<AM lemma="jen-4_^(pouze)" src="manual" selected="1">Db-------------</AM>
+</tag>
 </m>
 <m id="m-lnd92251-087-p2s5w8">
 <src.rf>manual</src.rf>
@@ -662,7 +685,10 @@
 <LM>w#w-lnd92251-087-p2s5w15</LM>
 </w.rf>
 <form>Strikerova</form>
-<tag lemma="Strikerův_;S_^(*2)" src="orig" selected="1">AUMS4M---------</tag>
+<tag>
+<AM lemma="Strikerův_;S_^(*2)" src="orig">AUMS4M---------</AM>
+<AM lemma="Strikerův_;S_;Y_^(*2)" src="manual" selected="1">AUMS4M---------</AM>
+</tag>
 </m>
 <m id="m-lnd92251-087-p2s5w16">
 <src.rf>manual</src.rf>
@@ -819,6 +845,7 @@
 <tag>
 <AM lemma="USA_;G" src="orig">NNIPX-----A----</AM>
 <AM lemma="USA_:B_;K_,t_^(United_States_of_America)" src="auto" recommended="1">NNIPX-----A---8</AM>
+<AM lemma="USA_:B_;K_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92251-087-p2s6w12">
@@ -835,7 +862,10 @@
 <LM>w#w-lnd92251-087-p2s6w13</LM>
 </w.rf>
 <form>jen</form>
-<tag lemma="jen-1" src="auto" selected="1">TT-------------</tag>
+<tag>
+<AM lemma="jen-1" src="auto">TT-------------</AM>
+<AM lemma="jen-4_^(pouze)" src="manual" selected="1">Db-------------</AM>
+</tag>
 </m>
 <m id="m-lnd92251-087-p2s6w14">
 <src.rf>manual</src.rf>

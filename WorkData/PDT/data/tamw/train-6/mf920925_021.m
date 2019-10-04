@@ -213,7 +213,10 @@
 <LM>w#w-mf920925-021-p2s1w23</LM>
 </w.rf>
 <form>AIDS</form>
-<tag lemma="AIDS_:B_;U_,x_^(Syndrom_získaného_selhání_imunity)" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="AIDS_:B_;U_,x_^(Syndrom_získaného_selhání_imunity)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="AIDS-2_:B_;U_^(Syndrom_získaného_selhání_imunity)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920925-021-p2s1w24">
 <src.rf>manual</src.rf>
@@ -311,7 +314,10 @@
 <LM>w#w-mf920925-021-p2s2w11</LM>
 </w.rf>
 <form>ČTV</form>
-<tag lemma="ČTV-1_:B_;K_^(Česká_televize)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ČTV-1_:B_;K_^(Česká_televize)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČTV-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920925-021-p2s2w12">
 <src.rf>manual</src.rf>
@@ -657,7 +663,10 @@
 <LM>w#w-mf920925-021-p3s1w11</LM>
 </w.rf>
 <form>černoty</form>
-<tag lemma="černota_,h_,s_^(černost;;nelegální_činnost)" src="auto" selected="1">NNFS2-----A----</tag>
+<tag>
+<AM lemma="černota_,h_,s_^(černost;;nelegální_činnost)" src="auto">NNFS2-----A----</AM>
+<AM lemma="černota_,h_^(černost;;nelegální_činnost)" src="manual" selected="1">NNFS2-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920925-021-p3s1w12">
 <src.rf>manual</src.rf>
@@ -1019,7 +1028,10 @@
 <LM>w#w-mf920925-021-p3s2w4</LM>
 </w.rf>
 <form>třeba</form>
-<tag lemma="třeba-2" src="auto" selected="1">Db-------------</tag>
+<tag>
+<AM lemma="třeba-2" src="auto">Db-------------</AM>
+<AM lemma="třeba-3" src="manual" selected="1">TT-------------</AM>
+</tag>
 </m>
 <m id="m-mf920925-021-p3s2w5">
 <src.rf>manual</src.rf>
@@ -1343,7 +1355,7 @@
 <form>ovšem</form>
 <tag>
 <AM lemma="ovšem-1_^(avšak,_však;_odporovací_spojka)" src="orig">J^-------------</AM>
-<AM lemma="ovšem" src="auto" recommended="1">TT-------------</AM>
+<AM lemma="ovšem" src="auto" recommended="1" selected="1">TT-------------</AM>
 </tag>
 </m>
 <m id="m-mf920925-021-p3s3w4">

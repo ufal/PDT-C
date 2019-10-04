@@ -159,7 +159,10 @@
 <LM>w#w-ln95049-129-p2s1Bw3</LM>
 </w.rf>
 <form>Financial</form>
-<tag lemma="Financial_;R_,t_^(např._F.Times)" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="Financial_;R_,t_^(např._F.Times)" src="orig">AAXXX----1A----</AM>
+<AM lemma="Financial-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln95049-129-p2s1Bw4">
 <src.rf>manual</src.rf>
@@ -167,7 +170,10 @@
 <LM>w#w-ln95049-129-p2s1Bw4</LM>
 </w.rf>
 <form>Times</form>
-<tag lemma="Times-1_;K_,t_^(souč._názvů,_např._The_Times)" src="orig" selected="1">NNIPX-----A----</tag>
+<tag>
+<AM lemma="Times-1_;K_,t_^(souč._názvů,_např._The_Times)" src="orig">NNIPX-----A----</AM>
+<AM lemma="Times-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln95049-129-p2s1Bw5">
 <src.rf>manual</src.rf>
@@ -271,7 +277,10 @@
 <LM>w#w-ln95049-129-p2s1Bw17</LM>
 </w.rf>
 <form>tzv</form>
-<tag lemma="takzvaný_:B" src="orig" selected="1">AAXXX----1A---8</tag>
+<tag>
+<AM lemma="takzvaný_:B" src="orig">AAXXX----1A---8</AM>
+<AM lemma="takzvaný" src="manual" selected="1">AAXXX----1A---8</AM>
+</tag>
 </m>
 <m id="m-ln95049-129-p2s1Bw18">
 <src.rf>manual</src.rf>
@@ -287,7 +296,10 @@
 <LM>w#w-ln95049-129-p2s1Bw19</LM>
 </w.rf>
 <form>emerging</form>
-<tag lemma="emerging_,t" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="emerging_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="emerging-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln95049-129-p2s1Bw20">
 <src.rf>manual</src.rf>
@@ -295,7 +307,10 @@
 <LM>w#w-ln95049-129-p2s1Bw20</LM>
 </w.rf>
 <form>markets</form>
-<tag lemma="market_,t" src="orig" selected="1">NNIPX-----A----</tag>
+<tag>
+<AM lemma="market_,t" src="orig">NNIPX-----A----</AM>
+<AM lemma="markets-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln95049-129-p2s1Bw21">
 <src.rf>manual</src.rf>
@@ -1671,7 +1686,10 @@
 <LM>w#w-ln95049-129-p4s3w18</LM>
 </w.rf>
 <form>SSSR</form>
-<tag lemma="SSSR_:B_;G_^(Svaz_sov._socialist._republik)" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="SSSR_:B_;G_^(Svaz_sov._socialist._republik)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="SSSR-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln95049-129-p4s3w19">
 <src.rf>manual</src.rf>
@@ -1687,7 +1705,10 @@
 <LM>w#w-ln95049-129-p4s3w20</LM>
 </w.rf>
 <form>ČR</form>
-<tag lemma="ČR-1_:B_;G_^(Česká_republika)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95049-129-p4s3w21">
 <src.rf>manual</src.rf>
@@ -2939,7 +2960,10 @@
 <LM>w#w-ln95049-129-p6s2w21</LM>
 </w.rf>
 <form>Telefonos</form>
-<tag lemma="Telefono_;K_,t" src="orig" selected="1">NNIPX-----A----</tag>
+<tag>
+<AM lemma="Telefono_;K_,t" src="orig">NNIPX-----A----</AM>
+<AM lemma="Telefonos-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln95049-129-p6s2w22">
 <src.rf>manual</src.rf>
@@ -2947,7 +2971,10 @@
 <LM>w#w-ln95049-129-p6s2w22</LM>
 </w.rf>
 <form>de</form>
-<tag lemma="de_,t_^(z_franc._de,_zejm._ve_jménech)" src="orig" selected="1">RR--1----------</tag>
+<tag>
+<AM lemma="de_,t_^(z_franc._de,_zejm._ve_jménech)" src="orig">RR--1----------</AM>
+<AM lemma="de-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln95049-129-p6s2w23">
 <src.rf>manual</src.rf>
@@ -2955,7 +2982,10 @@
 <LM>w#w-ln95049-129-p6s2w23</LM>
 </w.rf>
 <form>Mexico</form>
-<tag lemma="Mexiko_;G_,t_,x" src="orig" selected="1">NNNXX-----A----</tag>
+<tag>
+<AM lemma="Mexiko_;G_,t_,x" src="orig">NNNXX-----A----</AM>
+<AM lemma="Mexico-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln95049-129-p6s2w24">
 <src.rf>manual</src.rf>

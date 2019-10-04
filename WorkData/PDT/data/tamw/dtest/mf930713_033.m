@@ -19,7 +19,10 @@
 <LM>w#w-mf930713-033-p1s1w1</LM>
 </w.rf>
 <form>Přibylo</form>
-<tag lemma="přibýt" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag>
+<AM lemma="přibýt" src="orig">VpNS---XR-AA---</AM>
+<AM lemma="přibýt_:W" src="manual" selected="1">VpNS---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-mf930713-033-p1s1w2">
 <src.rf>manual</src.rf>
@@ -74,6 +77,7 @@
 <AM lemma="le-1_,t_^(franc._člen,_ne_v_názvech)" src="auto">XX-------------</AM>
 <AM lemma="les" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="les" src="auto">NNIS4-----A----</AM>
+<AM lemma="les-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930713-033-p2s1Aw4">
@@ -294,7 +298,10 @@
 <LM>w#w-mf930713-033-p2s2w7</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-2" src="auto" selected="1">Dg-------2A----</tag>
+<tag>
+<AM lemma="hodně-2" src="auto">Dg-------2A----</AM>
+<AM lemma="hodně-3" src="manual" selected="1">Dg-------2A----</AM>
+</tag>
 </m>
 <m id="m-mf930713-033-p2s2w8">
 <src.rf>manual</src.rf>
@@ -456,7 +463,10 @@
 <LM>w#w-mf930713-033-p2s3w14</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-2" src="auto" selected="1">Dg-------2A----</tag>
+<tag>
+<AM lemma="hodně-2" src="auto">Dg-------2A----</AM>
+<AM lemma="hodně-3" src="manual" selected="1">Dg-------2A----</AM>
+</tag>
 </m>
 <m id="m-mf930713-033-p2s3w15">
 <src.rf>manual</src.rf>
@@ -832,7 +842,10 @@
 <LM>w#w-mf930713-033-p3s1w25</LM>
 </w.rf>
 <form>milionů</form>
-<tag lemma="milión`1000000" src="orig" selected="1">NNIP2-----A----</tag>
+<tag>
+<AM lemma="milión`1000000" src="orig">NNIP2-----A----</AM>
+<AM lemma="milion`1000000_,s_^(^DD**milión)" src="manual" selected="1">NNIP2-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930713-033-p3s1w26">
 <src.rf>manual</src.rf>

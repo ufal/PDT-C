@@ -35,7 +35,10 @@
 <LM>w#w-mf920924-030-p1s1w3</LM>
 </w.rf>
 <form>OPEC</form>
-<tag lemma="OPEC_:B_;K_^(Organizace_zemí_vyvážejících_ropu)" src="auto" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="OPEC_:B_;K_^(Organizace_zemí_vyvážejících_ropu)" src="auto">NNXXX-----A---8</AM>
+<AM lemma="OPEC_:B_;K_^(Organizace_zemí_vyvážejících_ropu)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 </s>
 <s id="m-mf920924-030-p2s1">
@@ -69,7 +72,10 @@
 <LM>w#w-mf920924-030-p2s1w4</LM>
 </w.rf>
 <form>OPEC</form>
-<tag lemma="OPEC_:B_;K_^(Organizace_zemí_vyvážejících_ropu)" src="auto" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="OPEC_:B_;K_^(Organizace_zemí_vyvážejících_ropu)" src="auto">NNXXX-----A---8</AM>
+<AM lemma="OPEC_:B_;K_^(Organizace_zemí_vyvážejících_ropu)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920924-030-p2s1w5">
 <src.rf>manual</src.rf>
@@ -369,7 +375,10 @@
 <LM>w#w-mf920924-030-p2s3w8</LM>
 </w.rf>
 <form>Andres</form>
-<tag lemma="Andres_,s" src="orig" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Andres_,s" src="orig">NNMS1-----A----</AM>
+<AM lemma="Andres_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920924-030-p2s3w9">
 <src.rf>manual</src.rf>
@@ -441,7 +450,10 @@
 <LM>w#w-mf920924-030-p2s3w17</LM>
 </w.rf>
 <form>OPEC</form>
-<tag lemma="OPEC_:B_;K_^(Organizace_zemí_vyvážejících_ropu)" src="auto" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="OPEC_:B_;K_^(Organizace_zemí_vyvážejících_ropu)" src="auto">NNXXX-----A---8</AM>
+<AM lemma="OPEC_:B_;K_^(Organizace_zemí_vyvážejících_ropu)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920924-030-p2s3w18">
 <src.rf>manual</src.rf>
@@ -581,7 +593,10 @@
 <LM>w#w-mf920924-030-p2s5w4</LM>
 </w.rf>
 <form>OPEC</form>
-<tag lemma="OPEC_:B_;K_^(Organizace_zemí_vyvážejících_ropu)" src="auto" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="OPEC_:B_;K_^(Organizace_zemí_vyvážejících_ropu)" src="auto">NNXXX-----A---8</AM>
+<AM lemma="OPEC_:B_;K_^(Organizace_zemí_vyvážejících_ropu)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920924-030-p2s5w5">
 <src.rf>manual</src.rf>
@@ -693,7 +708,10 @@
 <LM>w#w-mf920924-030-p2s5w18</LM>
 </w.rf>
 <form>mil</form>
-<tag lemma="milión`1000000_:B" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="milión`1000000_:B" src="orig">NNIXX-----A---8</AM>
+<AM lemma="milión`1000000" src="manual" selected="1">NNIXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-mf920924-030-p2s5w19">
 <src.rf>manual</src.rf>
@@ -757,7 +775,10 @@
 <LM>w#w-mf920924-030-p2s5w26</LM>
 </w.rf>
 <form>mil</form>
-<tag lemma="milión`1000000_:B" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="milión`1000000_:B" src="orig">NNIXX-----A---8</AM>
+<AM lemma="milión`1000000" src="manual" selected="1">NNIXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-mf920924-030-p2s5w27">
 <src.rf>manual</src.rf>

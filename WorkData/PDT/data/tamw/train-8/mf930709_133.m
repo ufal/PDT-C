@@ -51,7 +51,10 @@
 <LM>w#w-mf930709-133-p1s1w5</LM>
 </w.rf>
 <form>milionů</form>
-<tag lemma="milión`1000000" src="orig" selected="1">NNIP2-----A----</tag>
+<tag>
+<AM lemma="milión`1000000" src="orig">NNIP2-----A----</AM>
+<AM lemma="milion`1000000_,s_^(^DD**milión)" src="manual" selected="1">NNIP2-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930709-133-p1s1w6">
 <src.rf>manual</src.rf>
@@ -319,7 +322,10 @@
 <LM>w#w-mf930709-133-p2s1Bw30</LM>
 </w.rf>
 <form>milionů</form>
-<tag lemma="milión`1000000" src="orig" selected="1">NNIP2-----A----</tag>
+<tag>
+<AM lemma="milión`1000000" src="orig">NNIP2-----A----</AM>
+<AM lemma="milion`1000000_,s_^(^DD**milión)" src="manual" selected="1">NNIP2-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930709-133-p2s1Bw31">
 <src.rf>manual</src.rf>
@@ -497,7 +503,10 @@
 <LM>w#w-mf930709-133-p2s2w12</LM>
 </w.rf>
 <form>milionů</form>
-<tag lemma="milión`1000000" src="orig" selected="1">NNIP2-----A----</tag>
+<tag>
+<AM lemma="milión`1000000" src="orig">NNIP2-----A----</AM>
+<AM lemma="milion`1000000_,s_^(^DD**milión)" src="manual" selected="1">NNIP2-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930709-133-p2s2w13">
 <src.rf>manual</src.rf>
@@ -1247,7 +1256,10 @@
 <LM>w#w-mf930709-133-p2s8w3</LM>
 </w.rf>
 <form>milionu</form>
-<tag lemma="milión`1000000" src="orig" selected="1">NNIS2-----A----</tag>
+<tag>
+<AM lemma="milión`1000000" src="orig">NNIS2-----A----</AM>
+<AM lemma="milion`1000000_,s_^(^DD**milión)" src="manual" selected="1">NNIS2-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930709-133-p2s8w4">
 <src.rf>manual</src.rf>
@@ -1377,7 +1389,10 @@
 <LM>w#w-mf930709-133-p2s9w3</LM>
 </w.rf>
 <form>milionu</form>
-<tag lemma="milión`1000000" src="orig" selected="1">NNIS2-----A----</tag>
+<tag>
+<AM lemma="milión`1000000" src="orig">NNIS2-----A----</AM>
+<AM lemma="milion`1000000_,s_^(^DD**milión)" src="manual" selected="1">NNIS2-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930709-133-p2s9w4">
 <src.rf>manual</src.rf>
@@ -1461,6 +1476,7 @@
 <AM lemma="Althorp_;G" src="orig">AAXXX----1A----</AM>
 <AM lemma="Althorp_;G" src="auto">NNIS1-----A----</AM>
 <AM lemma="Althorp_;G" src="auto" recommended="1">NNIS4-----A----</AM>
+<AM lemma="Althorp-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-mf930709-133-p2s9w14">
@@ -1469,7 +1485,10 @@
 <LM>w#w-mf930709-133-p2s9w14</LM>
 </w.rf>
 <form>Estate</form>
-<tag lemma="Estate_;G" src="orig" selected="1">NNNXX-----A----</tag>
+<tag>
+<AM lemma="Estate_;G" src="orig">NNNXX-----A----</AM>
+<AM lemma="Estate-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-mf930709-133-p2s9w15">
 <src.rf>manual</src.rf>

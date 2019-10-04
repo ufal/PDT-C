@@ -497,7 +497,10 @@
 <LM>w#w-mf930708-167-p3s1w22</LM>
 </w.rf>
 <form>řekl</form>
-<tag lemma="říci" src="auto" selected="1">VpYS---XR-AA---</tag>
+<tag>
+<AM lemma="říci" src="auto">VpYS---XR-AA---</AM>
+<AM lemma="říci_:W" src="manual" selected="1">VpYS---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-mf930708-167-p3s1w23">
 <src.rf>manual</src.rf>
@@ -596,7 +599,10 @@
 <LM>w#w-mf930708-167-p3s2w4</LM>
 </w.rf>
 <form>říci</form>
-<tag lemma="říci" src="auto" selected="1">Vf--------A---1</tag>
+<tag>
+<AM lemma="říci" src="auto">Vf--------A---1</AM>
+<AM lemma="říci_:W" src="manual" selected="1">Vf--------A---1</AM>
+</tag>
 </m>
 <m id="m-mf930708-167-p3s2w5">
 <src.rf>manual</src.rf>
@@ -896,7 +902,10 @@
 <LM>w#w-mf930708-167-p4s1w2</LM>
 </w.rf>
 <form>ITAR</form>
-<tag lemma="ITAR_:B_;K" src="auto" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="ITAR_:B_;K" src="auto">NNIXX-----A---8</AM>
+<AM lemma="ITAR-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-mf930708-167-p4s1w3">
 <src.rf>manual</src.rf>
@@ -912,7 +921,10 @@
 <LM>w#w-mf930708-167-p4s1w4</LM>
 </w.rf>
 <form>TASS</form>
-<tag lemma="TASS_:B_;K" src="auto" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="TASS_:B_;K" src="auto">NNXXX-----A---8</AM>
+<AM lemma="TASS-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-mf930708-167-p4s1w5">
 <src.rf>manual</src.rf>

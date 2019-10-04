@@ -28,7 +28,7 @@
 </w.rf>
 <form>přetahovaná</form>
 <tag>
-<AM lemma="přetahovaná" src="orig">NNFS1-----A----</AM>
+<AM lemma="přetahovaná" src="orig" selected="1">NNFS1-----A----</AM>
 <AM lemma="přetahovaný_^(*2t)" src="auto" recommended="1">AAFS1----1A----</AM>
 <AM lemma="přetahovaný_^(*2t)" src="auto">AAFS5----1A----</AM>
 <AM lemma="přetahovaný_^(*2t)" src="auto">AANP1----1A----</AM>
@@ -217,7 +217,7 @@
 <tag>
 <AM lemma="tedy" src="orig">Db-------------</AM>
 <AM lemma="tedy-1" src="auto">TT-------------</AM>
-<AM lemma="tedy-2" src="auto" recommended="1">J^-------------</AM>
+<AM lemma="tedy-2" src="auto" recommended="1" selected="1">J^-------------</AM>
 </tag>
 </m>
 <m id="m-ln95045-031-p2s2w3">
@@ -925,7 +925,7 @@
 </w.rf>
 <form>přetahovanou</form>
 <tag>
-<AM lemma="přetahovaná" src="orig">NNFS4-----A----</AM>
+<AM lemma="přetahovaná" src="orig" selected="1">NNFS4-----A----</AM>
 <AM lemma="přetahovaný_^(*2t)" src="auto" recommended="1">AAFS4----1A----</AM>
 <AM lemma="přetahovaný_^(*2t)" src="auto">AAFS7----1A----</AM>
 </tag>

@@ -223,7 +223,7 @@
 <AM lemma="lípa" src="auto">NNFP1-----A----</AM>
 <AM lemma="lípa" src="auto">NNFP4-----A----</AM>
 <AM lemma="lípa" src="auto">NNFP5-----A----</AM>
-<AM lemma="lípa" src="auto" recommended="1">NNFS2-----A----</AM>
+<AM lemma="lípa" src="auto" recommended="1" selected="1">NNFS2-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94210-35-p2s1Bw19">
@@ -404,7 +404,7 @@
 <form>Hatích</form>
 <tag>
 <AM lemma="Hatě_;G" src="orig">NNFP6-----A----</AM>
-<AM lemma="Hať_;G" src="auto">NNFP6-----A----</AM>
+<AM lemma="Hať_;G" src="auto" selected="1">NNFP6-----A----</AM>
 <AM lemma="hať" src="auto" recommended="1">NNFP6-----A----</AM>
 </tag>
 </m>
@@ -594,7 +594,10 @@
 <LM>w#w-ln94210-35-p2s4w4</LM>
 </w.rf>
 <form>najal</form>
-<tag lemma="najmout" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag>
+<AM lemma="najmout" src="orig">VpYS---XR-AA---</AM>
+<AM lemma="najmout_:W" src="manual" selected="1">VpYS---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-ln94210-35-p2s4w5">
 <src.rf>manual</src.rf>
@@ -660,7 +663,10 @@
 <LM>w#w-ln94210-35-p2s5w4</LM>
 </w.rf>
 <form>myslel</form>
-<tag lemma="myslet" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag>
+<AM lemma="myslet" src="orig">VpYS---XR-AA---</AM>
+<AM lemma="myslet_:T" src="manual" selected="1">VpYS---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-ln94210-35-p2s5w5">
 <src.rf>manual</src.rf>

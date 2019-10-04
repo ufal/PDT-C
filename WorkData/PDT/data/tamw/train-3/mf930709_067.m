@@ -109,7 +109,10 @@
 <LM>w#w-mf930709-067-p2s1Aw3</LM>
 </w.rf>
 <form>nak</form>
-<tag lemma="nak-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="nak-99_:B_;S" src="orig">NNXXX-----A---8</AM>
+<AM lemma="nak-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930709-067-p2s1Aw4">
 <src.rf>manual</src.rf>
@@ -1191,7 +1194,7 @@
 <AM lemma="Táborská_;G" src="orig">AAFS1----1A----</AM>
 <AM lemma="Táborská_;S" src="auto">NNFS1-----A----</AM>
 <AM lemma="Táborská_;S" src="auto">NNFS5-----A----</AM>
-<AM lemma="táborský" src="auto" recommended="1">AAFS1----1A----</AM>
+<AM lemma="táborský" src="auto" recommended="1" selected="1">AAFS1----1A----</AM>
 <AM lemma="táborský" src="auto">AAFS5----1A----</AM>
 <AM lemma="táborský" src="auto">AANP1----1A----</AM>
 <AM lemma="táborský" src="auto">AANP4----1A----</AM>
@@ -1218,7 +1221,7 @@
 <AM lemma="lounský" src="auto">AAFP6----1A----</AM>
 <AM lemma="lounský" src="auto">AAIP2----1A----</AM>
 <AM lemma="lounský" src="auto">AAIP6----1A----</AM>
-<AM lemma="lounský" src="auto" recommended="1">AAMP2----1A----</AM>
+<AM lemma="lounský" src="auto" recommended="1" selected="1">AAMP2----1A----</AM>
 <AM lemma="lounský" src="auto">AAMP6----1A----</AM>
 <AM lemma="lounský" src="auto">AANP2----1A----</AM>
 <AM lemma="lounský" src="auto">AANP6----1A----</AM>
@@ -1240,7 +1243,7 @@
 <form>Bělehradská</form>
 <tag>
 <AM lemma="Bělehradská_;G" src="orig">AAFS1----1A----</AM>
-<AM lemma="bělehradský" src="auto" recommended="1">AAFS1----1A----</AM>
+<AM lemma="bělehradský" src="auto" recommended="1" selected="1">AAFS1----1A----</AM>
 <AM lemma="bělehradský" src="auto">AAFS5----1A----</AM>
 <AM lemma="bělehradský" src="auto">AANP1----1A----</AM>
 <AM lemma="bělehradský" src="auto">AANP4----1A----</AM>
@@ -1263,7 +1266,7 @@
 <form>Nuselská</form>
 <tag>
 <AM lemma="Nuselská_;G" src="orig">AAFS1----1A----</AM>
-<AM lemma="nuselský" src="auto" recommended="1">AAFS1----1A----</AM>
+<AM lemma="nuselský" src="auto" recommended="1" selected="1">AAFS1----1A----</AM>
 <AM lemma="nuselský" src="auto">AAFS5----1A----</AM>
 <AM lemma="nuselský" src="auto">AANP1----1A----</AM>
 <AM lemma="nuselský" src="auto">AANP4----1A----</AM>
@@ -1422,7 +1425,10 @@
 <LM>w#w-mf930709-067-p2s8w10</LM>
 </w.rf>
 <form>spíše</form>
-<tag lemma="spíše" src="orig" selected="1">Dg-------2A---1</tag>
+<tag>
+<AM lemma="spíše" src="orig">Dg-------2A---1</AM>
+<AM lemma="spíš" src="manual" selected="1">TT------------1</AM>
+</tag>
 </m>
 <m id="m-mf930709-067-p2s8w11">
 <src.rf>manual</src.rf>
@@ -1592,7 +1598,10 @@
 <LM>w#w-mf930709-067-p2s9w19</LM>
 </w.rf>
 <form>stojící</form>
-<tag lemma="stojící-3_^(někdo/něco_stojí,_např._na_nohou)_(*7át-3)" src="orig" selected="1">AGFS1-----A----</tag>
+<tag>
+<AM lemma="stojící-3_^(někdo/něco_stojí,_např._na_nohou)_(*7át-3)" src="orig">AGFS1-----A----</AM>
+<AM lemma="stojící-3_^(stojím_stojíš)_(*7át-3)" src="manual" selected="1">AGFS1-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930709-067-p2s9w20">
 <src.rf>manual</src.rf>

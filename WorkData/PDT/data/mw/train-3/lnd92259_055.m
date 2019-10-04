@@ -79,7 +79,10 @@
 <LM>w#w-lnd92259-055-p2s2w4</LM>
 </w.rf>
 <form>a</form>
-<tag lemma="a-1" src="orig" selected="1">J^-------------</tag>
+<tag>
+<AM lemma="a-1" src="orig">J^-------------</AM>
+<AM lemma="a-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-lnd92259-055-p2s2w5">
 <src.rf>manual</src.rf>
@@ -90,6 +93,7 @@
 <tag>
 <AM lemma="Együttélés_;K_,t" src="orig">NNNXX-----A---8</AM>
 <AM lemma="Együttélés_;K_;p_,t" src="auto" recommended="1">NNNXX-----A----</AM>
+<AM lemma="Együttélés-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-lnd92259-055-p2s2w6">

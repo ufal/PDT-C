@@ -53,7 +53,7 @@
 <form>raději</form>
 <tag>
 <AM lemma="raději" src="orig">Dg-------2A----</AM>
-<AM lemma="rád" src="auto" recommended="1">Dg-------2A----</AM>
+<AM lemma="rád" src="auto" recommended="1" selected="1">Dg-------2A----</AM>
 </tag>
 </m>
 <m id="m-lnd94104-058-p1s1w6">
@@ -186,7 +186,10 @@
 <LM>w#w-lnd94104-058-p1s3w13</LM>
 </w.rf>
 <form>dolarů</form>
-<tag lemma="dolar_;b" src="orig" selected="1">NNIP2-----A----</tag>
+<tag>
+<AM lemma="dolar_;b" src="orig">NNIP2-----A----</AM>
+<AM lemma="dolar" src="manual" selected="1">NNIP2-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd94104-058-p1s3w14">
 <src.rf>manual</src.rf>
@@ -236,7 +239,7 @@
 <form>vůbec</form>
 <tag>
 <AM lemma="vůbec" src="orig">Db-------------</AM>
-<AM lemma="vůbec" src="auto" recommended="1">TT-------------</AM>
+<AM lemma="vůbec" src="auto" recommended="1" selected="1">TT-------------</AM>
 </tag>
 </m>
 <m id="m-lnd94104-058-p1s3w20">
@@ -321,7 +324,7 @@
 <form>totiž</form>
 <tag>
 <AM lemma="totiž" src="orig">Db-------------</AM>
-<AM lemma="totiž-1" src="auto">J^-------------</AM>
+<AM lemma="totiž-1" src="auto" selected="1">J^-------------</AM>
 <AM lemma="totiž-2" src="auto" recommended="1">TT-------------</AM>
 </tag>
 </m>
@@ -413,7 +416,10 @@
 <LM>w#w-lnd94104-058-p1s5w1</LM>
 </w.rf>
 <form>Řekl</form>
-<tag lemma="říci" src="auto" selected="1">VpYS---XR-AA---</tag>
+<tag>
+<AM lemma="říci" src="auto">VpYS---XR-AA---</AM>
+<AM lemma="říci_:W" src="manual" selected="1">VpYS---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-lnd94104-058-p1s5w2">
 <src.rf>manual</src.rf>
@@ -461,7 +467,10 @@
 <LM>w#w-lnd94104-058-p1s5w7</LM>
 </w.rf>
 <form>Luigi</form>
-<tag lemma="Luigi_;S_;Y_,t" src="auto" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Luigi_;S_;Y_,t" src="auto">NNMS1-----A----</AM>
+<AM lemma="Luigi_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd94104-058-p1s5w8">
 <src.rf>manual</src.rf>
@@ -470,7 +479,7 @@
 </w.rf>
 <form>Federici</form>
 <tag>
-<AM lemma="Federici_;S" src="orig">NNMS1-----A----</AM>
+<AM lemma="Federici_;S" src="orig" selected="1">NNMS1-----A----</AM>
 <AM lemma="Federik_;Y_,t" src="auto">NNMP1-----A----</AM>
 <AM lemma="Federik_;Y_,t" src="auto">NNMP5-----A----</AM>
 <AM lemma="Federic_;Y" src="auto">NNMP1-----A----</AM>
@@ -511,7 +520,10 @@
 <LM>w#w-lnd94104-058-p1s5w12</LM>
 </w.rf>
 <form>sympozia</form>
-<tag lemma="sympózium" src="orig" selected="1">NNNS2-----A----</tag>
+<tag>
+<AM lemma="sympózium" src="orig">NNNS2-----A----</AM>
+<AM lemma="sympozium_,s_^(^DD**sympózium)" src="manual" selected="1">NNNS2-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd94104-058-p1s5w13">
 <src.rf>manual</src.rf>
@@ -690,7 +702,7 @@
 </w.rf>
 <form>Federici</form>
 <tag>
-<AM lemma="Federici_;S" src="orig">NNMS1-----A----</AM>
+<AM lemma="Federici_;S" src="orig" selected="1">NNMS1-----A----</AM>
 <AM lemma="Federik_;Y_,t" src="auto">NNMP1-----A----</AM>
 <AM lemma="Federik_;Y_,t" src="auto">NNMP5-----A----</AM>
 <AM lemma="Federic_;Y" src="auto" recommended="1">NNMP1-----A----</AM>
@@ -707,7 +719,10 @@
 <LM>w#w-lnd94104-058-p1s6w2</LM>
 </w.rf>
 <form>uvedl</form>
-<tag lemma="uvést" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag>
+<AM lemma="uvést" src="orig">VpYS---XR-AA---</AM>
+<AM lemma="uvést_:W" src="manual" selected="1">VpYS---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-lnd94104-058-p1s6w3">
 <src.rf>manual</src.rf>
@@ -771,7 +786,10 @@
 <LM>w#w-lnd94104-058-p1s6w10</LM>
 </w.rf>
 <form>prostřednictvím</form>
-<tag lemma="prostřednictví" src="orig" selected="1">NNNS7-----A----</tag>
+<tag>
+<AM lemma="prostřednictví" src="orig">NNNS7-----A----</AM>
+<AM lemma="prostřednictvím" src="manual" selected="1">RR--2----------</AM>
+</tag>
 </m>
 <m id="m-lnd94104-058-p1s6w11">
 <src.rf>manual</src.rf>
@@ -1191,7 +1209,10 @@
 <LM>w#w-lnd94104-058-p1s8w25</LM>
 </w.rf>
 <form>role</form>
-<tag lemma="role-1_^(kotouč;_svitek)" src="orig" selected="1">NNFS2-----A----</tag>
+<tag>
+<AM lemma="role-1_^(kotouč;_svitek)" src="orig">NNFS2-----A----</AM>
+<AM lemma="role-2_^(herecká_úloha;_poslání)" src="manual" selected="1">NNFS2-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd94104-058-p1s8w26">
 <src.rf>manual</src.rf>

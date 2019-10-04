@@ -329,7 +329,10 @@
 <LM>w#w-ln95046-013-p2s2w10</LM>
 </w.rf>
 <form>ČR</form>
-<tag lemma="ČR-1_:B_;G_^(Česká_republika)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95046-013-p2s2w11">
 <src.rf>manual</src.rf>
@@ -1296,7 +1299,7 @@
 <tag>
 <AM lemma="jakýkoliv" src="orig">PZZS2----------</AM>
 <AM lemma="jakýkoli" src="auto">PZMS4---------1</AM>
-<AM lemma="jakýkoli" src="auto" recommended="1">PZZS2---------1</AM>
+<AM lemma="jakýkoli" src="auto" recommended="1" selected="1">PZZS2---------1</AM>
 </tag>
 </m>
 <m id="m-ln95046-013-p4s1w12">
@@ -1791,7 +1794,10 @@
 <LM>w#w-ln95046-013-p5s3w3</LM>
 </w.rf>
 <form>ČNB</form>
-<tag lemma="ČNB-1_:B_;K_;b_^(Česká_národní_banka)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ČNB-1_:B_;K_;b_^(Česká_národní_banka)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČNB-1_:B_;K_;b_^(Česká_národní_banka)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95046-013-p5s3w4">
 <src.rf>manual</src.rf>
@@ -1847,7 +1853,10 @@
 <LM>w#w-ln95046-013-p5s3w10</LM>
 </w.rf>
 <form>LN</form>
-<tag lemma="LN-1_:B_;R_^(Lidové_noviny,_deník)" src="orig" selected="1">NNFPX-----A---8</tag>
+<tag>
+<AM lemma="LN-1_:B_;R_^(Lidové_noviny,_deník)" src="orig">NNFPX-----A---8</AM>
+<AM lemma="LN-1_:B_;K_;R_^(Lidové_noviny)" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln95046-013-p5s3w11">
 <src.rf>manual</src.rf>
@@ -1975,7 +1984,10 @@
 <LM>w#w-ln95046-013-p5s3w26</LM>
 </w.rf>
 <form>ČR</form>
-<tag lemma="ČR-1_:B_;G_^(Česká_republika)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95046-013-p5s3w27">
 <src.rf>manual</src.rf>

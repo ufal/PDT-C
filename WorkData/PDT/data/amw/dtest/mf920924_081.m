@@ -437,7 +437,7 @@
 <form>ovšem</form>
 <tag>
 <AM lemma="ovšem-1_^(avšak,_však;_odporovací_spojka)" src="orig">J^-------------</AM>
-<AM lemma="ovšem" src="auto" recommended="1">TT-------------</AM>
+<AM lemma="ovšem" src="auto" recommended="1" selected="1">TT-------------</AM>
 </tag>
 </m>
 <m id="m-mf920924-081-p3s3w5">
@@ -794,7 +794,10 @@
 <LM>w#w-mf920924-081-p3s5w16</LM>
 </w.rf>
 <form>Zajíc</form>
-<tag lemma="zajíc" src="orig" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="zajíc" src="orig">NNMS1-----A----</AM>
+<AM lemma="Zajíc_;S" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920924-081-p3s5w17">
 <src.rf>manual</src.rf>

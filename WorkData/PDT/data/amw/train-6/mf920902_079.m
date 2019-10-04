@@ -310,7 +310,10 @@
 <LM>w#w-mf920902-079-p1s2w13</LM>
 </w.rf>
 <form>Eichstädtu</form>
-<tag lemma="Eichstadt_;G" src="orig" selected="1">NNIS2-----A----</tag>
+<tag>
+<AM lemma="Eichstadt_;G" src="orig">NNIS2-----A----</AM>
+<AM lemma="Eichstädt_;G" src="manual" selected="1">NNIS2-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920902-079-p1s2w14">
 <src.rf>manual</src.rf>
@@ -392,7 +395,10 @@
 <LM>w#w-mf920902-079-p1s4w6</LM>
 </w.rf>
 <form>Rainer</form>
-<tag lemma="Rainer_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Rainer_;S" src="orig">NNMS1-----A----</AM>
+<AM lemma="Rainer_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920902-079-p1s4w7">
 <src.rf>manual</src.rf>
@@ -528,7 +534,10 @@
 <LM>w#w-mf920902-079-p1s4w23</LM>
 </w.rf>
 <form>OH</form>
-<tag lemma="OH-2_:B_;w_^(Olympijské_hry)" src="orig" selected="1">NNFPX-----A---8</tag>
+<tag>
+<AM lemma="OH-2_:B_;w_^(Olympijské_hry)" src="orig">NNFPX-----A---8</AM>
+<AM lemma="OH-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-mf920902-079-p1s4w24">
 <src.rf>manual</src.rf>
@@ -610,7 +619,10 @@
 <LM>w#w-mf920902-079-p1s5w3</LM>
 </w.rf>
 <form>Trittico</form>
-<tag lemma="Trittico_;K_,t" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="Trittico_;K_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="Trittico-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-mf920902-079-p1s5w4">
 <src.rf>manual</src.rf>
@@ -622,6 +634,7 @@
 <AM lemma="Veneto_;K_,t" src="orig">NNNS1-----A----</AM>
 <AM lemma="Veneta_;S" src="auto">NNMS5-----A----</AM>
 <AM lemma="Veneto_;G" src="auto" recommended="1">NNNSX-----A----</AM>
+<AM lemma="Veneto-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-mf920902-079-p1s5w5">

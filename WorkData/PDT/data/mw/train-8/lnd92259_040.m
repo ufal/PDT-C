@@ -411,7 +411,10 @@
 <LM>w#w-lnd92259-040-p3s3w9</LM>
 </w.rf>
 <form>R</form>
-<tag lemma="R-0_:B_;Y" src="orig" selected="1">NNMXX-----A---8</tag>
+<tag>
+<AM lemma="R-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
+<AM lemma="R-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd92259-040-p3s3w10">
 <src.rf>manual</src.rf>
@@ -1113,7 +1116,10 @@
 <LM>w#w-lnd92259-040-p4s2w17</LM>
 </w.rf>
 <form>ČSOPK</form>
-<tag lemma="ČSOPK-1_:B_;K_^(Českosloven._obchodní_a_průmyslová_komora)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ČSOPK-1_:B_;K_^(Českosloven._obchodní_a_průmyslová_komora)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČSOPK-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd92259-040-p4s2w18">
 <src.rf>manual</src.rf>
@@ -1237,7 +1243,7 @@
 <form>ovšem</form>
 <tag>
 <AM lemma="ovšem-1_^(avšak,_však;_odporovací_spojka)" src="orig">J^-------------</AM>
-<AM lemma="ovšem" src="auto" recommended="1">TT-------------</AM>
+<AM lemma="ovšem" src="auto" recommended="1" selected="1">TT-------------</AM>
 </tag>
 </m>
 <m id="m-lnd92259-040-p4s3w5">
@@ -1382,7 +1388,10 @@
 <LM>w#w-lnd92259-040-p4s3w22</LM>
 </w.rf>
 <form>R</form>
-<tag lemma="R-0_:B_;Y" src="orig" selected="1">NNMXX-----A---8</tag>
+<tag>
+<AM lemma="R-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
+<AM lemma="R-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd92259-040-p4s3w23">
 <src.rf>manual</src.rf>
@@ -1782,7 +1791,10 @@
 <LM>w#w-lnd92259-040-p4s7w10</LM>
 </w.rf>
 <form>F</form>
-<tag lemma="F-0_:B_;Y" src="orig" selected="1">NNMXX-----A---8</tag>
+<tag>
+<AM lemma="F-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
+<AM lemma="F-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd92259-040-p4s7w11">
 <src.rf>manual</src.rf>

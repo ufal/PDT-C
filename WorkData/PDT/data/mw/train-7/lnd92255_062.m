@@ -159,7 +159,10 @@
 <LM>w#w-lnd92255-062-p2s2w12</LM>
 </w.rf>
 <form>Loch</form>
-<tag lemma="Lochy_;G" src="orig" selected="1">NNFP2-----A----</tag>
+<tag>
+<AM lemma="Lochy_;G" src="orig">NNFP2-----A----</AM>
+<AM lemma="Loch-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-lnd92255-062-p2s2w13">
 <src.rf>manual</src.rf>
@@ -170,6 +173,7 @@
 <tag>
 <AM lemma="Ness_;G" src="orig">NNXXX-----A----</AM>
 <AM lemma="Ness_;G_^(jezero_Loch_Ness)" src="auto" recommended="1">NNNXX-----A----</AM>
+<AM lemma="Ness-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-lnd92255-062-p2s2w14">
@@ -316,7 +320,10 @@
 <LM>w#w-lnd92255-062-p2s3w9</LM>
 </w.rf>
 <form>tzv</form>
-<tag lemma="takzvaný_:B" src="orig" selected="1">AAXXX----1A---8</tag>
+<tag>
+<AM lemma="takzvaný_:B" src="orig">AAXXX----1A---8</AM>
+<AM lemma="takzvaný" src="manual" selected="1">AAXXX----1A---8</AM>
+</tag>
 </m>
 <m id="m-lnd92255-062-p2s3w10">
 <src.rf>manual</src.rf>
@@ -558,7 +565,10 @@
 <LM>w#w-lnd92255-062-p2s4w6</LM>
 </w.rf>
 <form>Loch</form>
-<tag lemma="Lochy_;G" src="orig" selected="1">NNFP2-----A----</tag>
+<tag>
+<AM lemma="Lochy_;G" src="orig">NNFP2-----A----</AM>
+<AM lemma="Loch-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-lnd92255-062-p2s4w7">
 <src.rf>manual</src.rf>
@@ -569,6 +579,7 @@
 <tag>
 <AM lemma="Ness_;G" src="orig">NNXXX-----A----</AM>
 <AM lemma="Ness_;G_^(jezero_Loch_Ness)" src="auto" recommended="1">NNNXX-----A----</AM>
+<AM lemma="Ness-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-lnd92255-062-p2s4w8">
@@ -585,7 +596,10 @@
 <LM>w#w-lnd92255-062-p2s4w9</LM>
 </w.rf>
 <form>opředeno</form>
-<tag lemma="opříst" src="orig" selected="1">VsNS---XX-AP---</tag>
+<tag>
+<AM lemma="opříst" src="orig">VsNS---XX-AP---</AM>
+<AM lemma="opříst_:W" src="manual" selected="1">VsNS---XX-AP---</AM>
+</tag>
 </m>
 <m id="m-lnd92255-062-p2s4w10">
 <src.rf>manual</src.rf>

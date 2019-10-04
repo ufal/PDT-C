@@ -481,7 +481,10 @@
 <LM>w#w-ln94207-107-p2s3w7</LM>
 </w.rf>
 <form>Duncan</form>
-<tag lemma="Duncan_;S" src="auto" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Duncan_;S" src="auto">NNMS1-----A----</AM>
+<AM lemma="Duncan_;Y_;S" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94207-107-p2s3w8">
 <src.rf>manual</src.rf>
@@ -513,7 +516,10 @@
 <LM>w#w-ln94207-107-p2s3w11</LM>
 </w.rf>
 <form>Passe</form>
-<tag lemma="Passe_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag>
+<AM lemma="Passe_;S" src="orig">NNFS1-----A----</AM>
+<AM lemma="Passe_;S" src="manual" selected="1">NNFXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94207-107-p2s3w12">
 <src.rf>manual</src.rf>
@@ -562,7 +568,10 @@
 <LM>w#w-ln94207-107-p2s3w17</LM>
 </w.rf>
 <form>Ruedi</form>
-<tag lemma="Ruedi_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag>
+<AM lemma="Ruedi_;S" src="orig">NNFS1-----A----</AM>
+<AM lemma="Ruedi_;S" src="manual" selected="1">NNFXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94207-107-p2s3w18">
 <src.rf>manual</src.rf>
@@ -881,7 +890,7 @@
 </w.rf>
 <form>lin</form>
 <tag>
-<AM lemma="lin-99_:B_;S" src="orig">NNXXX-----A---8</AM>
+<AM lemma="lin-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</AM>
 <AM lemma="lino" src="auto" recommended="1">NNNP2-----A----</AM>
 </tag>
 </m>

@@ -260,7 +260,7 @@
 <AM lemma="Tálská_;S" src="auto">NNFP1-----A----</AM>
 <AM lemma="Tálská_;S" src="auto">NNFP4-----A----</AM>
 <AM lemma="Tálská_;S" src="auto">NNFP5-----A----</AM>
-<AM lemma="Tálská_;S" src="auto" recommended="1">NNFS2-----A----</AM>
+<AM lemma="Tálská_;S" src="auto" recommended="1" selected="1">NNFS2-----A----</AM>
 <AM lemma="Tálská_;S" src="auto">NNFS3-----A----</AM>
 <AM lemma="Tálská_;S" src="auto">NNFS6-----A----</AM>
 </tag>
@@ -1111,7 +1111,10 @@
 <LM>w#w-ln95049-056-p4s1w22</LM>
 </w.rf>
 <form>Lewise</form>
-<tag lemma="Lewis_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag>
+<AM lemma="Lewis_;S" src="orig">NNMS2-----A----</AM>
+<AM lemma="Lewis_;S_;Y" src="manual" selected="1">NNMS2-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95049-056-p4s1w23">
 <src.rf>manual</src.rf>
@@ -1371,7 +1374,10 @@
 <LM>w#w-ln95049-056-p5s1w17</LM>
 </w.rf>
 <form>tzv</form>
-<tag lemma="takzvaný_:B" src="orig" selected="1">AAXXX----1A---8</tag>
+<tag>
+<AM lemma="takzvaný_:B" src="orig">AAXXX----1A---8</AM>
+<AM lemma="takzvaný" src="manual" selected="1">AAXXX----1A---8</AM>
+</tag>
 </m>
 <m id="m-ln95049-056-p5s1w18">
 <src.rf>manual</src.rf>
@@ -1387,7 +1393,10 @@
 <LM>w#w-ln95049-056-p5s1w19</LM>
 </w.rf>
 <form>limericků</form>
-<tag lemma="limerick_;u_,t" src="auto" selected="1">NNIP2-----A----</tag>
+<tag>
+<AM lemma="limerick_;u_,t" src="auto">NNIP2-----A----</AM>
+<AM lemma="limerick_;u" src="manual" selected="1">NNIP2-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95049-056-p5s1w20">
 <src.rf>manual</src.rf>
@@ -1541,7 +1550,10 @@
 <LM>w#w-ln95049-056-p5s2w15</LM>
 </w.rf>
 <form>Odeonu</form>
-<tag lemma="Odeon_;Y" src="orig" selected="1">NNIS6-----A----</tag>
+<tag>
+<AM lemma="Odeon_;Y" src="orig">NNIS6-----A----</AM>
+<AM lemma="Odeon-2_;K" src="manual" selected="1">NNIS6-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95049-056-p5s2w16">
 <src.rf>manual</src.rf>
@@ -1658,6 +1670,7 @@
 <tag>
 <AM lemma="mlk-99_:B_;S" src="orig">NNXXX-----A---8</AM>
 <AM lemma="mlknout_:T" src="auto" recommended="1">VpYS---XR-AA--6</AM>
+<AM lemma="mlk-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95049-056-p5s3w3">

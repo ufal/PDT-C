@@ -741,7 +741,10 @@
 <LM>w#w-ln94211-72-p3s2w2</LM>
 </w.rf>
 <form>sice</form>
-<tag lemma="sice-2" src="auto" selected="1">Db-------------</tag>
+<tag>
+<AM lemma="sice-2" src="auto">Db-------------</AM>
+<AM lemma="sice-1_^(spojka;_připouští_se_určitá_fakta)" src="manual" selected="1">J^-------------</AM>
+</tag>
 </m>
 <m id="m-ln94211-72-p3s2w3">
 <src.rf>manual</src.rf>
@@ -881,7 +884,7 @@
 <form>vůbec</form>
 <tag>
 <AM lemma="vůbec" src="orig">Db-------------</AM>
-<AM lemma="vůbec" src="auto" recommended="1">TT-------------</AM>
+<AM lemma="vůbec" src="auto" recommended="1" selected="1">TT-------------</AM>
 </tag>
 </m>
 <m id="m-ln94211-72-p3s3w11">
@@ -956,7 +959,10 @@
 <LM>w#w-ln94211-72-p3s4w3</LM>
 </w.rf>
 <form>li</form>
-<tag lemma="li-1" src="auto" selected="1">TT-------------</tag>
+<tag>
+<AM lemma="li-1" src="auto">TT-------------</AM>
+<AM lemma="li-2" src="manual" selected="1">J,-------------</AM>
+</tag>
 </m>
 <m id="m-ln94211-72-p3s4w4">
 <src.rf>manual</src.rf>
@@ -1230,7 +1236,7 @@
 <form>fenomén</form>
 <tag>
 <AM lemma="fenomén-2" src="orig">NNIS4-----A----</AM>
-<AM lemma="fenomén" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="fenomén" src="auto" recommended="1" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94211-72-p3s4w38">
@@ -1267,7 +1273,7 @@
 <form>totiž</form>
 <tag>
 <AM lemma="totiž" src="orig">Db-------------</AM>
-<AM lemma="totiž-1" src="auto" recommended="1">J^-------------</AM>
+<AM lemma="totiž-1" src="auto" recommended="1" selected="1">J^-------------</AM>
 <AM lemma="totiž-2" src="auto">TT-------------</AM>
 </tag>
 </m>
@@ -1359,7 +1365,10 @@
 <LM>w#w-ln94211-72-p4s1w1</LM>
 </w.rf>
 <form>Více</form>
-<tag lemma="hodně-2" src="auto" selected="1">Dg-------2A----</tag>
+<tag>
+<AM lemma="hodně-2" src="auto">Dg-------2A----</AM>
+<AM lemma="hodně-3" src="manual" selected="1">Dg-------2A----</AM>
+</tag>
 </m>
 <m id="m-ln94211-72-p4s1w2">
 <src.rf>manual</src.rf>
@@ -1377,7 +1386,7 @@
 <form>kdykoli</form>
 <tag>
 <AM lemma="kdykoliv" src="orig">Db------------1</AM>
-<AM lemma="kdykoli" src="auto" recommended="1">Db-------------</AM>
+<AM lemma="kdykoli" src="auto" recommended="1" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m-ln94211-72-p4s1w4">
@@ -2306,7 +2315,10 @@
 <LM>w#w-ln94211-72-p5s4w4</LM>
 </w.rf>
 <form>nedávno</form>
-<tag lemma="nedávno-1" src="auto" selected="1">Db-------------</tag>
+<tag>
+<AM lemma="nedávno-1" src="auto">Db-------------</AM>
+<AM lemma="dávno-1" src="manual" selected="1">Dg-------1N----</AM>
+</tag>
 </m>
 <m id="m-ln94211-72-p5s4w5">
 <src.rf>manual</src.rf>
@@ -2949,7 +2961,7 @@
 <form>nejen</form>
 <tag>
 <AM lemma="nejen" src="orig">TT-------------</AM>
-<AM lemma="nejen" src="auto" recommended="1">Db-------------</AM>
+<AM lemma="nejen" src="auto" recommended="1" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m-ln94211-72-p6s3w13">
@@ -3246,7 +3258,7 @@
 <form>Snad</form>
 <tag>
 <AM lemma="snad" src="orig">Db-------------</AM>
-<AM lemma="snad" src="auto" recommended="1">TT-------------</AM>
+<AM lemma="snad" src="auto" recommended="1" selected="1">TT-------------</AM>
 </tag>
 </m>
 <m id="m-ln94211-72-p7s3w2">

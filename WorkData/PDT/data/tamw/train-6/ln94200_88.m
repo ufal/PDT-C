@@ -53,7 +53,10 @@
 <LM>w#w-ln94200-88-p2s1Aw3</LM>
 </w.rf>
 <form>mot</form>
-<tag lemma="mot-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="mot-99_:B_;S" src="orig">NNXXX-----A---8</AM>
+<AM lemma="mot-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94200-88-p2s1Aw4">
 <src.rf>manual</src.rf>
@@ -103,7 +106,10 @@
 <LM>w#w-ln94200-88-p2s1Bw4</LM>
 </w.rf>
 <form>ZK</form>
-<tag lemma="ZK-1_:B_^(závodní_klub)" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="ZK-1_:B_^(závodní_klub)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="ZK-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94200-88-p2s1Bw5">
 <src.rf>manual</src.rf>
@@ -185,7 +191,7 @@
 <form>táboře</form>
 <tag>
 <AM lemma="tábor" src="orig">NNIS6-----A----</AM>
-<AM lemma="tábor-1" src="auto" recommended="1">NNIS6-----A---1</AM>
+<AM lemma="tábor-1" src="auto" recommended="1" selected="1">NNIS6-----A---1</AM>
 <AM lemma="tábořit_:T" src="auto">VeYS------A----</AM>
 </tag>
 </m>
@@ -491,7 +497,7 @@
 <form>táboře</form>
 <tag>
 <AM lemma="tábor" src="orig">NNIS6-----A----</AM>
-<AM lemma="tábor-1" src="auto" recommended="1">NNIS6-----A---1</AM>
+<AM lemma="tábor-1" src="auto" recommended="1" selected="1">NNIS6-----A---1</AM>
 <AM lemma="tábořit_:T" src="auto">VeYS------A----</AM>
 </tag>
 </m>

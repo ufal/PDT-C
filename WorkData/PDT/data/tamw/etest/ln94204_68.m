@@ -27,7 +27,10 @@
 <LM>w#w-ln94204-68-p1s1w2</LM>
 </w.rf>
 <form>přepadli</form>
-<tag lemma="přepadnout" src="auto" selected="1">VpMP---XR-AA---</tag>
+<tag>
+<AM lemma="přepadnout" src="auto">VpMP---XR-AA---</AM>
+<AM lemma="přepadnout_:W" src="manual" selected="1">VpMP---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-ln94204-68-p1s1w3">
 <src.rf>manual</src.rf>
@@ -69,7 +72,10 @@
 <LM>w#w-ln94204-68-p2s1Aw3</LM>
 </w.rf>
 <form>vet</form>
-<tag lemma="vet-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="vet-99_:B_;S" src="orig">NNXXX-----A---8</AM>
+<AM lemma="vet-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94204-68-p2s1Aw4">
 <src.rf>manual</src.rf>

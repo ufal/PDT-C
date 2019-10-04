@@ -319,7 +319,10 @@
 <LM>w#w-mf930701-021-p2s2w15</LM>
 </w.rf>
 <form>vzrůst</form>
-<tag lemma="vzrůst-1" src="auto" selected="1">Vf--------A----</tag>
+<tag>
+<AM lemma="vzrůst-1" src="auto">Vf--------A----</AM>
+<AM lemma="vzrůst-1_:W" src="manual" selected="1">Vf--------A----</AM>
+</tag>
 </m>
 <m id="m-mf930701-021-p2s2w16">
 <src.rf>manual</src.rf>
@@ -344,7 +347,11 @@
 <LM>w#w-mf930701-021-p2s2w18</LM>
 </w.rf>
 <form>milionu</form>
-<tag lemma="milión`1000000" src="orig" selected="1">NNIS2-----A----</tag>
+<tag>
+<AM lemma="milión`1000000" src="orig">NNIS2-----A----</AM>
+<AM lemma="milion`1000000_,s_^(^DD**milion)" src="manual">NNIS2-----A----</AM>
+<AM lemma="milion`1000000_,s_^(^DD**milión)" src="manual" selected="1">NNIS2-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930701-021-p2s2w19">
 <src.rf>manual</src.rf>
@@ -377,7 +384,10 @@
 <LM>w#w-mf930701-021-p2s2w22</LM>
 </w.rf>
 <form>milionu</form>
-<tag lemma="milión`1000000" src="orig" selected="1">NNIS2-----A----</tag>
+<tag>
+<AM lemma="milión`1000000" src="orig">NNIS2-----A----</AM>
+<AM lemma="milion`1000000_,s_^(^DD**milión)" src="manual" selected="1">NNIS2-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930701-021-p2s2w23">
 <src.rf>manual</src.rf>

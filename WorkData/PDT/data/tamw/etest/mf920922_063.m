@@ -55,7 +55,10 @@
 <LM>w#w-mf920922-063-p2s2w1</LM>
 </w.rf>
 <form>MS</form>
-<tag lemma="MS-3_:B_;w_^(mistrovství_světa)" src="orig" selected="1">NNNXX-----A---8</tag>
+<tag>
+<AM lemma="MS-3_:B_;w_^(mistrovství_světa)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="MS-3_:B_^(mistrovství_světa)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920922-063-p2s2w2">
 <src.rf>manual</src.rf>
@@ -119,7 +122,10 @@
 <LM>w#w-mf920922-063-p2s2w9</LM>
 </w.rf>
 <form>Brit</form>
-<tag lemma="Británie_:B_;m" src="orig" selected="1">NNFXX-----A---9</tag>
+<tag>
+<AM lemma="Británie_:B_;m" src="orig">NNFXX-----A---9</AM>
+<AM lemma="Británie_:B" src="manual" selected="1">NNFXX-----A---9</AM>
+</tag>
 </m>
 <m id="m-mf920922-063-p2s2w10">
 <src.rf>manual</src.rf>
@@ -341,7 +347,10 @@
 <LM>w#w-mf920922-063-p2s7w3</LM>
 </w.rf>
 <form>ČSFR</form>
-<tag lemma="ČSFR-1_:B_;G_^(Čs._federativní_republika)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ČSFR-1_:B_;G_^(Čs._federativní_republika)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČSFR-1_:B_;G_^(Čs._federativní_republika)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920922-063-p2s7w4">
 <src.rf>manual</src.rf>

@@ -29,7 +29,10 @@
 <LM>w#w-ln94205-4-p2s1w1</LM>
 </w.rf>
 <form>DPI</form>
-<tag lemma="DPI-1_:B_,t_^(dots_per_inch)" src="orig" selected="1">NNNXX-----A----</tag>
+<tag>
+<AM lemma="DPI-1_:B_,t_^(dots_per_inch)" src="orig">NNNXX-----A----</AM>
+<AM lemma="DPI-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94205-4-p2s1w2">
 <src.rf>manual</src.rf>
@@ -61,7 +64,10 @@
 <LM>w#w-ln94205-4-p2s1w5</LM>
 </w.rf>
 <form>dot</form>
-<tag lemma="dot_,t" src="orig" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="dot_,t" src="orig">NNIS1-----A----</AM>
+<AM lemma="dot-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94205-4-p2s1w6">
 <src.rf>manual</src.rf>
@@ -69,7 +75,10 @@
 <LM>w#w-ln94205-4-p2s1w6</LM>
 </w.rf>
 <form>per</form>
-<tag lemma="per_,t_^(z_latiny)" src="orig" selected="1">RR--X----------</tag>
+<tag>
+<AM lemma="per_,t_^(z_latiny)" src="orig">RR--X----------</AM>
+<AM lemma="per-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94205-4-p2s1w7">
 <src.rf>manual</src.rf>
@@ -77,7 +86,10 @@
 <LM>w#w-ln94205-4-p2s1w7</LM>
 </w.rf>
 <form>inch</form>
-<tag lemma="inch_,t" src="orig" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="inch_,t" src="orig">NNIS1-----A----</AM>
+<AM lemma="inch-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94205-4-p2s1w8">
 <src.rf>manual</src.rf>
@@ -684,7 +696,10 @@
 <LM>w#w-ln94205-4-p2s3w5</LM>
 </w.rf>
 <form>dpi</form>
-<tag lemma="dpi_:B_,t_^(dot_per_inch)" src="orig" selected="1">NNNXX-----A---8</tag>
+<tag>
+<AM lemma="dpi_:B_,t_^(dot_per_inch)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="dpi-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94205-4-p2s3w6">
 <src.rf>manual</src.rf>
@@ -1652,7 +1667,10 @@
 <LM>w#w-ln94205-4-p4s1w1</LM>
 </w.rf>
 <form>PCI</form>
-<tag lemma="PCI-1_:B_;K_,t_^(Partito_Comunista_Italiano)" src="auto" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="PCI-1_:B_;K_,t_^(Partito_Comunista_Italiano)" src="auto">NNFXX-----A---8</AM>
+<AM lemma="PCI-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94205-4-p4s1w2">
 <src.rf>manual</src.rf>
@@ -1668,7 +1686,10 @@
 <LM>w#w-ln94205-4-p4s1w3</LM>
 </w.rf>
 <form>Peripheral</form>
-<tag lemma="peripheral_,t" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="peripheral_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="Peripheral-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94205-4-p4s1w4">
 <src.rf>manual</src.rf>
@@ -1676,7 +1697,10 @@
 <LM>w#w-ln94205-4-p4s1w4</LM>
 </w.rf>
 <form>Component</form>
-<tag lemma="component_,t" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="component_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="Component-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94205-4-p4s1w5">
 <src.rf>manual</src.rf>
@@ -1684,7 +1708,10 @@
 <LM>w#w-ln94205-4-p4s1w5</LM>
 </w.rf>
 <form>Interconnect</form>
-<tag lemma="interconnect_,t" src="orig" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="interconnect_,t" src="orig">NNIS1-----A----</AM>
+<AM lemma="Interconnect-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94205-4-p4s1w6">
 <src.rf>manual</src.rf>
@@ -2188,7 +2215,10 @@
 <LM>w#w-ln94205-4-p4s5w3</LM>
 </w.rf>
 <form>ISA</form>
-<tag lemma="Isa_;G" src="orig" selected="1">NNFS1-----A----</tag>
+<tag>
+<AM lemma="Isa_;G" src="orig">NNFS1-----A----</AM>
+<AM lemma="ISA-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94205-4-p4s5w4">
 <src.rf>manual</src.rf>
@@ -2204,7 +2234,10 @@
 <LM>w#w-ln94205-4-p4s5w5</LM>
 </w.rf>
 <form>EISA</form>
-<tag lemma="EISA-1_:B_,t_^(Extended_Industry_Standard_Archiecture)" src="auto" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="EISA-1_:B_,t_^(Extended_Industry_Standard_Archiecture)" src="auto">NNFXX-----A---8</AM>
+<AM lemma="EISA-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94205-4-p4s5w6">
 <src.rf>manual</src.rf>
@@ -2220,7 +2253,10 @@
 <LM>w#w-ln94205-4-p4s5w7</LM>
 </w.rf>
 <form>MCA</form>
-<tag lemma="MCA-2_:B_,t_^(microchannel_architekture)" src="auto" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="MCA-2_:B_,t_^(microchannel_architekture)" src="auto">NNFXX-----A---8</AM>
+<AM lemma="MCA-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94205-4-p4s5w8">
 <src.rf>manual</src.rf>
@@ -2404,7 +2440,10 @@
 <LM>w#w-ln94205-4-p4s5w30</LM>
 </w.rf>
 <form>PCI</form>
-<tag lemma="PCI-1_:B_;K_,t_^(Partito_Comunista_Italiano)" src="auto" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="PCI-1_:B_;K_,t_^(Partito_Comunista_Italiano)" src="auto">NNFXX-----A---8</AM>
+<AM lemma="PCI-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94205-4-p4s5w31">
 <src.rf>manual</src.rf>
@@ -2440,6 +2479,7 @@
 <AM lemma="MB_:B_^(Mega_Byte)" src="orig">NNIXX-----A---8</AM>
 <AM lemma="MB_:B" src="auto">NNXXX-----A---8</AM>
 <AM lemma="megabit_:B" src="auto" recommended="1">NNIXX-----A---8</AM>
+<AM lemma="megabit" src="manual" selected="1">NNIXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-ln94205-4-p4s5w35">
@@ -2456,7 +2496,10 @@
 <LM>w#w-ln94205-4-p4s5w36</LM>
 </w.rf>
 <form>sec</form>
-<tag lemma="s-2`sekunda_:B" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="s-2`sekunda_:B" src="orig">NNFXX-----A---8</AM>
+<AM lemma="sec-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94205-4-p4s5w37">
 <src.rf>manual</src.rf>
@@ -2748,7 +2791,10 @@
 <LM>w#w-ln94205-4-p4s7w9</LM>
 </w.rf>
 <form>např</form>
-<tag lemma="například_:B" src="orig" selected="1">Db------------8</tag>
+<tag>
+<AM lemma="například_:B" src="orig">Db------------8</AM>
+<AM lemma="například" src="manual" selected="1">Db------------8</AM>
+</tag>
 </m>
 <m id="m-ln94205-4-p4s7w10">
 <src.rf>manual</src.rf>
@@ -2780,7 +2826,10 @@
 <LM>w#w-ln94205-4-p4s7w13</LM>
 </w.rf>
 <form>ISA</form>
-<tag lemma="Isa_;G" src="orig" selected="1">NNFS1-----A----</tag>
+<tag>
+<AM lemma="Isa_;G" src="orig">NNFS1-----A----</AM>
+<AM lemma="ISA-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94205-4-p4s7w14">
 <src.rf>manual</src.rf>
@@ -2838,7 +2887,10 @@
 <LM>w#w-ln94205-4-p4s8w6</LM>
 </w.rf>
 <form>PCI</form>
-<tag lemma="PCI-1_:B_;K_,t_^(Partito_Comunista_Italiano)" src="auto" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="PCI-1_:B_;K_,t_^(Partito_Comunista_Italiano)" src="auto">NNFXX-----A---8</AM>
+<AM lemma="PCI-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94205-4-p4s8w7">
 <src.rf>manual</src.rf>
@@ -2928,7 +2980,10 @@
 <LM>w#w-ln94205-4-p4s9w3</LM>
 </w.rf>
 <form>ios</form>
-<tag lemma="ios-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="ios-99_:B_;S" src="orig">NNXXX-----A---8</AM>
+<AM lemma="ios-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94205-4-p4s9w4">
 <src.rf>manual</src.rf>

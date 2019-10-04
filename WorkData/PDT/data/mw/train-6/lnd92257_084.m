@@ -19,7 +19,10 @@
 <LM>w#w-lnd92257-084-p1s1w1</LM>
 </w.rf>
 <form>KONKURS</form>
-<tag lemma="konkurs_^(úpadek;;soutěž)" src="auto" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="konkurs_^(úpadek;;soutěž)" src="auto">NNIS1-----A----</AM>
+<AM lemma="konkurs_,s_^(^DD**konkurz)" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92257-084-p1s1w2">
 <src.rf>manual</src.rf>
@@ -35,7 +38,10 @@
 <LM>w#w-lnd92257-084-p1s1w3</LM>
 </w.rf>
 <form>SŠ</form>
-<tag lemma="SŠ-1_:B_^(střední_škola)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="SŠ-1_:B_^(střední_škola)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="SŠ-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 </s>
 <s id="m-lnd92257-084-p2s1">
@@ -80,7 +86,7 @@
 </w.rf>
 <form>r</form>
 <tag>
-<AM lemma="r-99_:B_;S" src="orig">NNXXX-----A---8</AM>
+<AM lemma="r-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</AM>
 <AM lemma="r-3_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
 <AM lemma="r-8_:B_^(ost._zkratka)" src="auto">XX------------8</AM>
 <AM lemma="režie_:B" src="auto" recommended="1">NNFXX-----A---8</AM>
@@ -172,6 +178,7 @@
 <AM lemma="AMAVET_:B_;K_^(Asociace_pro_mládež,_vědu_a_techniku)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="Amavet_:B_;K_^(Asociace_pro_mládež_vědu_a_techniku)" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Amavet_:B_;K_^(Asociace_pro_mládež_vědu_a_techniku)" src="auto">NNIS4-----A----</AM>
+<AM lemma="AMAVET-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-lnd92257-084-p3s2w9">
@@ -244,7 +251,10 @@
 <LM>w#w-lnd92257-084-p3s2w17</LM>
 </w.rf>
 <form>konkurs</form>
-<tag lemma="konkurs_^(úpadek;;soutěž)" src="auto" selected="1">NNIS4-----A----</tag>
+<tag>
+<AM lemma="konkurs_^(úpadek;;soutěž)" src="auto">NNIS4-----A----</AM>
+<AM lemma="konkurs_,s_^(^DD**konkurz)" src="manual" selected="1">NNIS4-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92257-084-p3s2w18">
 <src.rf>manual</src.rf>
@@ -335,6 +345,7 @@
 <tag>
 <AM lemma="ESI_:B_;m" src="orig">NNXXX-----A---8</AM>
 <AM lemma="jestli_,h_,x" src="auto" recommended="1">J,------------7</AM>
+<AM lemma="ESI-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-lnd92257-084-p3s2w29">
@@ -451,6 +462,7 @@
 <tag>
 <AM lemma="USA_;G" src="orig">NNIPX-----A----</AM>
 <AM lemma="USA_:B_;K_,t_^(United_States_of_America)" src="auto" recommended="1">NNIPX-----A---8</AM>
+<AM lemma="USA_:B_;K_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-lnd92257-084-p3s2w43">
@@ -469,7 +481,10 @@
 <LM>w#w-lnd92257-084-p3s3w1</LM>
 </w.rf>
 <form>Konkursu</form>
-<tag lemma="konkurs_^(úpadek;;soutěž)" src="auto" selected="1">NNIS2-----A----</tag>
+<tag>
+<AM lemma="konkurs_^(úpadek;;soutěž)" src="auto">NNIS2-----A----</AM>
+<AM lemma="konkurs_,s_^(^DD**konkurz)" src="manual" selected="1">NNIS2-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92257-084-p3s3w2">
 <src.rf>manual</src.rf>
@@ -828,6 +843,7 @@
 <AM lemma="AMAVET_:B_;K_^(Asociace_pro_mládež,_vědu_a_techniku)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="Amavet_:B_;K_^(Asociace_pro_mládež_vědu_a_techniku)" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Amavet_:B_;K_^(Asociace_pro_mládež_vědu_a_techniku)" src="auto">NNIS4-----A----</AM>
+<AM lemma="AMAVET-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-lnd92257-084-p3s4w16">

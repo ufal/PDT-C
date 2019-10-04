@@ -243,7 +243,7 @@
 <form>totiž</form>
 <tag>
 <AM lemma="totiž" src="orig">Db-------------</AM>
-<AM lemma="totiž-1" src="auto" recommended="1">J^-------------</AM>
+<AM lemma="totiž-1" src="auto" recommended="1" selected="1">J^-------------</AM>
 <AM lemma="totiž-2" src="auto">TT-------------</AM>
 </tag>
 </m>
@@ -277,7 +277,10 @@
 <LM>w#w-ln95042-006-p2s2w6</LM>
 </w.rf>
 <form>World</form>
-<tag lemma="World_;R_,t" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="World_;R_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="World-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln95042-006-p2s2w7">
 <src.rf>manual</src.rf>
@@ -285,7 +288,10 @@
 <LM>w#w-ln95042-006-p2s2w7</LM>
 </w.rf>
 <form>Coin</form>
-<tag lemma="Coin_;R_,t" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="Coin_;R_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="Coin-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln95042-006-p2s2w8">
 <src.rf>manual</src.rf>
@@ -293,7 +299,10 @@
 <LM>w#w-ln95042-006-p2s2w8</LM>
 </w.rf>
 <form>News</form>
-<tag lemma="News-1_;K_,t_^(souč._názvů,_např._Daily_N.)" src="orig" selected="1">NNFPX-----A----</tag>
+<tag>
+<AM lemma="News-1_;K_,t_^(souč._názvů,_např._Daily_N.)" src="orig">NNFPX-----A----</AM>
+<AM lemma="News-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln95042-006-p2s2w9">
 <src.rf>manual</src.rf>
@@ -481,7 +490,10 @@
 <LM>w#w-ln95042-006-p3s1w4</LM>
 </w.rf>
 <form>zejména</form>
-<tag lemma="zejména-1" src="auto" selected="1">Db-------------</tag>
+<tag>
+<AM lemma="zejména-1" src="auto">Db-------------</AM>
+<AM lemma="zejména-2" src="manual" selected="1">TT-------------</AM>
+</tag>
 </m>
 <m id="m-ln95042-006-p3s1w5">
 <src.rf>manual</src.rf>
@@ -561,7 +573,10 @@
 <LM>w#w-ln95042-006-p3s1w14</LM>
 </w.rf>
 <form>ČNB</form>
-<tag lemma="ČNB-1_:B_;K_;b_^(Česká_národní_banka)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ČNB-1_:B_;K_;b_^(Česká_národní_banka)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČNB-1_:B_;K_^(Česká_národní_banka)" src="manual" selected="1">NNFXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln95042-006-p3s1w15">
 <src.rf>manual</src.rf>
@@ -973,7 +988,10 @@
 <LM>w#w-ln95042-006-p3s3w11</LM>
 </w.rf>
 <form>alespoň</form>
-<tag lemma="alespoň-1" src="auto" selected="1">Db-------------</tag>
+<tag>
+<AM lemma="alespoň-1" src="auto">Db-------------</AM>
+<AM lemma="alespoň-2" src="manual" selected="1">TT-------------</AM>
+</tag>
 </m>
 <m id="m-ln95042-006-p3s3w12">
 <src.rf>manual</src.rf>
@@ -1353,7 +1371,10 @@
 <LM>w#w-ln95042-006-p3s5w17</LM>
 </w.rf>
 <form>proof</form>
-<tag lemma="proof_,t" src="orig" selected="1">NNIXX-----A----</tag>
+<tag>
+<AM lemma="proof_,t" src="orig">NNIXX-----A----</AM>
+<AM lemma="proof-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln95042-006-p3s5w18">
 <src.rf>manual</src.rf>
@@ -1485,7 +1506,7 @@
 <form>Kč</form>
 <tag>
 <AM lemma="Kč" src="orig">NNFXX-----A----</AM>
-<AM lemma="Kč_:B" src="auto" recommended="1">NNFXX-----A---8</AM>
+<AM lemma="Kč_:B" src="auto" recommended="1" selected="1">NNFXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-ln95042-006-p3s6w9">
@@ -1566,7 +1587,10 @@
 <LM>w#w-ln95042-006-p3s6w18</LM>
 </w.rf>
 <form>krát</form>
-<tag lemma="krát-1_^(mat._operace;_2_krát_3)" src="auto" selected="1">J*-------------</tag>
+<tag>
+<AM lemma="krát-1_^(mat._operace;_2_krát_3)" src="auto">J*-------------</AM>
+<AM lemma="krát-2" src="manual" selected="1">Db-------------</AM>
+</tag>
 </m>
 <m id="m-ln95042-006-p3s6w19">
 <src.rf>manual</src.rf>

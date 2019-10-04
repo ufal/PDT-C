@@ -123,7 +123,10 @@
 <LM>w#w-mf920922-020-p1s1w14</LM>
 </w.rf>
 <form>standby</form>
-<tag lemma="standby_,t" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="standby_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="standby-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-mf920922-020-p1s1w15">
 <src.rf>manual</src.rf>
@@ -131,7 +134,10 @@
 <LM>w#w-mf920922-020-p1s1w15</LM>
 </w.rf>
 <form>arrangement</form>
-<tag lemma="arrangement_,t" src="orig" selected="1">NNIXX-----A----</tag>
+<tag>
+<AM lemma="arrangement_,t" src="orig">NNIXX-----A----</AM>
+<AM lemma="arrangement-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-mf920922-020-p1s1w16">
 <src.rf>manual</src.rf>

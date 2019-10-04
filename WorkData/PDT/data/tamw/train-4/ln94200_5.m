@@ -109,7 +109,10 @@
 <LM>w#w-ln94200-5-p2s1w10</LM>
 </w.rf>
 <form>uzavřela</form>
-<tag lemma="uzavřít" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag>
+<AM lemma="uzavřít" src="orig">VpQW---XR-AA---</AM>
+<AM lemma="uzavřít_:W" src="manual" selected="1">VpQW---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-ln94200-5-p2s1w11">
 <src.rf>manual</src.rf>
@@ -280,7 +283,7 @@
 <tag>
 <AM lemma="René_;Y" src="orig">NNMXX-----A----</AM>
 <AM lemma="René_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="René_;Y" src="auto">NNMS2-----A---1</AM>
+<AM lemma="René_;Y" src="auto" selected="1">NNMS2-----A---1</AM>
 <AM lemma="René_;Y" src="auto">NNMS3-----A---1</AM>
 <AM lemma="René_;Y" src="auto">NNMS4-----A---1</AM>
 <AM lemma="René_;Y" src="auto">NNMS5-----A----</AM>
@@ -544,7 +547,10 @@
 <LM>w#w-ln94200-5-p3s1w25</LM>
 </w.rf>
 <form>van</form>
-<tag lemma="van-2_,t_^(v_hol._jménech)" src="orig" selected="1">RR--X----------</tag>
+<tag>
+<AM lemma="van-2_,t_^(v_hol._jménech)" src="orig">RR--X----------</AM>
+<AM lemma="van-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94200-5-p3s1w26">
 <src.rf>manual</src.rf>
@@ -722,7 +728,10 @@
 <LM>w#w-ln94200-5-p3s2w2</LM>
 </w.rf>
 <form>dk</form>
-<tag lemma="dk-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="dk-99_:B_;S" src="orig">NNXXX-----A---8</AM>
+<AM lemma="dk-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94200-5-p3s2w3">
 <src.rf>manual</src.rf>

@@ -51,7 +51,10 @@
 <LM>w#w-mf930709-006-p2s2w5</LM>
 </w.rf>
 <form>KDS</form>
-<tag lemma="KDS_:B_;K_;p_^(Křesťansko-demokratická_strana)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="KDS_:B_;K_;p_^(Křesťansko-demokratická_strana)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="KDS-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930709-006-p2s2w6">
 <src.rf>manual</src.rf>
@@ -183,7 +186,10 @@
 <LM>w#w-mf930709-006-p6s3w7</LM>
 </w.rf>
 <form>KDS</form>
-<tag lemma="KDS_:B_;K_;p_^(Křesťansko-demokratická_strana)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="KDS_:B_;K_;p_^(Křesťansko-demokratická_strana)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="KDS-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930709-006-p6s3w8">
 <src.rf>manual</src.rf>
@@ -353,7 +359,10 @@
 <LM>w#w-mf930709-006-p7s1w13</LM>
 </w.rf>
 <form>řekl</form>
-<tag lemma="říci" src="auto" selected="1">VpYS---XR-AA---</tag>
+<tag>
+<AM lemma="říci" src="auto">VpYS---XR-AA---</AM>
+<AM lemma="říci_:W" src="manual" selected="1">VpYS---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-mf930709-006-p7s1w14">
 <src.rf>manual</src.rf>
@@ -499,7 +508,7 @@
 <form>kdokoli</form>
 <tag>
 <AM lemma="kdokoliv" src="orig">PZM-1---------1</AM>
-<AM lemma="kdokoli" src="auto" recommended="1">PZM-1----------</AM>
+<AM lemma="kdokoli" src="auto" recommended="1" selected="1">PZM-1----------</AM>
 <AM lemma="kdokoli" src="auto">PZM-5----------</AM>
 </tag>
 </m>
@@ -541,7 +550,10 @@
 <LM>w#w-mf930709-006-p7s1w36</LM>
 </w.rf>
 <form>prostředcích</form>
-<tag lemma="prostředek-2_^(způsob,_nástroj)" src="orig" selected="1">NNIP6-----A----</tag>
+<tag>
+<AM lemma="prostředek-2_^(způsob,_nástroj)" src="orig">NNIP6-----A----</AM>
+<AM lemma="prostředek_^(střed,způsob,_nástroj)" src="manual" selected="1">NNIP6-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930709-006-p7s1w37">
 <src.rf>manual</src.rf>

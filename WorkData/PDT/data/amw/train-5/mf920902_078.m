@@ -167,7 +167,10 @@
 <LM>w#w-mf920902-078-p2s4w15</LM>
 </w.rf>
 <form>Queens</form>
-<tag lemma="Queens_;G" src="orig" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="Queens_;G" src="orig">NNIS1-----A----</AM>
+<AM lemma="Queens-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-mf920902-078-p2s4w16">
 <src.rf>manual</src.rf>
@@ -175,7 +178,10 @@
 <LM>w#w-mf920902-078-p2s4w16</LM>
 </w.rf>
 <form>Park</form>
-<tag lemma="park" src="orig" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="park" src="orig">NNIS1-----A----</AM>
+<AM lemma="Park-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-mf920902-078-p2s4w17">
 <src.rf>manual</src.rf>

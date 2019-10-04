@@ -183,7 +183,10 @@
 <LM>w#w-ln94203-143-p2s1Bw15</LM>
 </w.rf>
 <form>OECD</form>
-<tag lemma="OECD-1_:B_;K_;b_;p_^(Ev._org._hosp._spolupr._a_roz.)" src="auto" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="OECD-1_:B_;K_;b_;p_^(Ev._org._hosp._spolupr._a_roz.)" src="auto">NNFXX-----A---8</AM>
+<AM lemma="OECD-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln94203-143-p2s1Bw16">
 <src.rf>manual</src.rf>
@@ -289,7 +292,10 @@
 <LM>w#w-ln94203-143-p2s2w7</LM>
 </w.rf>
 <form>OECD</form>
-<tag lemma="OECD-1_:B_;K_;b_;p_^(Ev._org._hosp._spolupr._a_roz.)" src="auto" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="OECD-1_:B_;K_;b_;p_^(Ev._org._hosp._spolupr._a_roz.)" src="auto">NNFXX-----A---8</AM>
+<AM lemma="OECD-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln94203-143-p2s2w8">
 <src.rf>manual</src.rf>
@@ -493,7 +499,10 @@
 <LM>w#w-ln94203-143-p3s1w5</LM>
 </w.rf>
 <form>SRN</form>
-<tag lemma="SRN_:B_;G" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="SRN_:B_;G" src="orig">NNFXX-----A---8</AM>
+<AM lemma="SRN-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln94203-143-p3s1w6">
 <src.rf>manual</src.rf>
@@ -713,7 +722,10 @@
 <LM>w#w-ln94203-143-p3s3w7</LM>
 </w.rf>
 <form>OECD</form>
-<tag lemma="OECD-1_:B_;K_;b_;p_^(Ev._org._hosp._spolupr._a_roz.)" src="auto" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="OECD-1_:B_;K_;b_;p_^(Ev._org._hosp._spolupr._a_roz.)" src="auto">NNFXX-----A---8</AM>
+<AM lemma="OECD-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln94203-143-p3s3w8">
 <src.rf>manual</src.rf>
@@ -1285,7 +1297,10 @@
 <LM>w#w-ln94203-143-p4s3w6</LM>
 </w.rf>
 <form>OECD</form>
-<tag lemma="OECD-1_:B_;K_;b_;p_^(Ev._org._hosp._spolupr._a_roz.)" src="auto" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="OECD-1_:B_;K_;b_;p_^(Ev._org._hosp._spolupr._a_roz.)" src="auto">NNFXX-----A---8</AM>
+<AM lemma="OECD-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln94203-143-p4s3w7">
 <src.rf>manual</src.rf>
@@ -1439,7 +1454,10 @@
 <LM>w#w-ln94203-143-p4s3w25</LM>
 </w.rf>
 <form>DPA</form>
-<tag lemma="DPA-1_:B_;K_^(něm._Deutsche_Presse_Agentur)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="DPA-1_:B_;K_^(něm._Deutsche_Presse_Agentur)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="DPA-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln94203-143-p4s3w26">
 <src.rf>manual</src.rf>

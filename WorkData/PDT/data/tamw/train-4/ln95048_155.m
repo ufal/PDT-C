@@ -85,7 +85,10 @@
 <LM>w#w-ln95048-155-p2s1w8</LM>
 </w.rf>
 <form>vedly</form>
-<tag lemma="vést" src="auto" selected="1">VpTP---XR-AA---</tag>
+<tag>
+<AM lemma="vést" src="auto">VpTP---XR-AA---</AM>
+<AM lemma="vést_:T" src="manual" selected="1">VpTP---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-ln95048-155-p2s1w9">
 <src.rf>manual</src.rf>
@@ -239,7 +242,10 @@
 <LM>w#w-ln95048-155-p2s2w7</LM>
 </w.rf>
 <form>např</form>
-<tag lemma="například_:B" src="orig" selected="1">Db------------8</tag>
+<tag>
+<AM lemma="například_:B" src="orig">Db------------8</AM>
+<AM lemma="například" src="manual" selected="1">Db------------8</AM>
+</tag>
 </m>
 <m id="m-ln95048-155-p2s2w8">
 <src.rf>manual</src.rf>
@@ -287,7 +293,10 @@
 <LM>w#w-ln95048-155-p2s2w13</LM>
 </w.rf>
 <form>uplatněna</form>
-<tag lemma="uplatnit" src="orig" selected="1">VsQW---XX-AP---</tag>
+<tag>
+<AM lemma="uplatnit" src="orig">VsQW---XX-AP---</AM>
+<AM lemma="uplatnit_:W" src="manual" selected="1">VsQW---XX-AP---</AM>
+</tag>
 </m>
 <m id="m-ln95048-155-p2s2w14">
 <src.rf>manual</src.rf>
@@ -321,7 +330,10 @@
 <LM>w#w-ln95048-155-p3s1w3</LM>
 </w.rf>
 <form>TV</form>
-<tag lemma="televizní_:B" src="orig" selected="1">AAXXX----1A---8</tag>
+<tag>
+<AM lemma="televizní_:B" src="orig">AAXXX----1A---8</AM>
+<AM lemma="televize" src="manual" selected="1">NNFXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln95048-155-p3s1w4">
 <src.rf>manual</src.rf>
@@ -529,7 +541,10 @@
 <LM>w#w-ln95048-155-p3s1w29</LM>
 </w.rf>
 <form>má</form>
-<tag lemma="mít" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag>
+<AM lemma="mít" src="orig">VB-S---3P-AA---</AM>
+<AM lemma="mít_:T" src="manual" selected="1">VB-S---3P-AA---</AM>
+</tag>
 </m>
 <m id="m-ln95048-155-p3s1w30">
 <src.rf>manual</src.rf>
@@ -561,7 +576,10 @@
 <LM>w#w-ln95048-155-p3s1w33</LM>
 </w.rf>
 <form>uzavřeny</form>
-<tag lemma="uzavřít" src="orig" selected="1">VsTP---XX-AP---</tag>
+<tag>
+<AM lemma="uzavřít" src="orig">VsTP---XX-AP---</AM>
+<AM lemma="uzavřít_:W" src="manual" selected="1">VsTP---XX-AP---</AM>
+</tag>
 </m>
 <m id="m-ln95048-155-p3s1w34">
 <src.rf>manual</src.rf>
@@ -628,6 +646,7 @@
 <tag>
 <AM lemma="Kč" src="orig">NNFXX-----A----</AM>
 <AM lemma="Kč_:B" src="auto" recommended="1">NNFXX-----A---8</AM>
+<AM lemma="Kč_:B" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95048-155-p3s1w42">

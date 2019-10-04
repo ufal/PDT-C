@@ -62,7 +62,7 @@
 </w.rf>
 <form>mas</form>
 <tag>
-<AM lemma="mas-99_:B_;S" src="orig">NNXXX-----A---8</AM>
+<AM lemma="mas-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</AM>
 <AM lemma="masa_^(velké_množství)" src="auto">NNFP2-----A----</AM>
 <AM lemma="maso_^(jídlo_apod.)" src="auto" recommended="1">NNNP2-----A----</AM>
 </tag>
@@ -677,7 +677,10 @@
 <LM>w#w-mf930708-081-p2s3w15</LM>
 </w.rf>
 <form>nejvíce</form>
-<tag lemma="hodně-2" src="auto" selected="1">Dg-------3A----</tag>
+<tag>
+<AM lemma="hodně-2" src="auto">Dg-------3A----</AM>
+<AM lemma="hodně-3" src="manual" selected="1">Dg-------3A----</AM>
+</tag>
 </m>
 <m id="m-mf930708-081-p2s3w16">
 <src.rf>manual</src.rf>
@@ -743,7 +746,10 @@
 <LM>w#w-mf930708-081-p3s1w6</LM>
 </w.rf>
 <form>Lindsay</form>
-<tag lemma="Lindsay_;S" src="auto" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Lindsay_;S" src="auto">NNMS1-----A----</AM>
+<AM lemma="Lindsay_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930708-081-p3s1w7">
 <src.rf>manual</src.rf>
@@ -777,7 +783,7 @@
 <form>zpěvačkou</form>
 <tag>
 <AM lemma="zpěvák" src="orig">NNFS7-----A----</AM>
-<AM lemma="zpěvačka" src="auto" recommended="1">NNFS7-----A----</AM>
+<AM lemma="zpěvačka" src="auto" recommended="1" selected="1">NNFS7-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930708-081-p3s1w11">
@@ -844,7 +850,10 @@
 <LM>w#w-mf930708-081-p3s2w2</LM>
 </w.rf>
 <form>Keatons</form>
-<tag lemma="Keatons_;K" src="orig" selected="1">NNMPX-----A----</tag>
+<tag>
+<AM lemma="Keatons_;K" src="orig">NNMPX-----A----</AM>
+<AM lemma="Keatons-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-mf930708-081-p3s2w3">
 <src.rf>manual</src.rf>
@@ -959,6 +968,7 @@
 <tag>
 <AM lemma="Žďorp_;K" src="orig">NNIS1-----A----</AM>
 <AM lemma="Žďorp" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Žďorp" src="manual" selected="1">NNMXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930708-081-p3s2w17">
@@ -1002,7 +1012,7 @@
 <tag>
 <AM lemma="Ciment_;K" src="orig">NNIXX-----A----</AM>
 <AM lemma="Ciment_;K" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="Ciment_;K" src="auto">NNIS4-----A----</AM>
+<AM lemma="Ciment_;K" src="auto" selected="1">NNIS4-----A----</AM>
 <AM lemma="cement_,n_,x" src="auto">NNIS1-----A----</AM>
 <AM lemma="cement_,n_,x" src="auto">NNIS4-----A----</AM>
 </tag>
@@ -1057,6 +1067,7 @@
 <AM lemma="Joe_;Y" src="orig">NNMXX-----A----</AM>
 <AM lemma="Joe_;Y_,t" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Joe_;Y_,t" src="auto">NNMS5-----A----</AM>
+<AM lemma="Joe_;Y_,t" src="manual" selected="1">NNMXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930708-081-p3s2w28">

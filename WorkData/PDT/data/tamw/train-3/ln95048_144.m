@@ -119,7 +119,10 @@
 <LM>w#w-ln95048-144-p2s1Bw6</LM>
 </w.rf>
 <form>TV</form>
-<tag lemma="televize_:B" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="televize_:B" src="orig">NNFXX-----A---8</AM>
+<AM lemma="televize" src="manual" selected="1">NNFXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln95048-144-p2s1Bw7">
 <src.rf>manual</src.rf>
@@ -627,7 +630,10 @@
 <LM>w#w-ln95048-144-p2s3w7</LM>
 </w.rf>
 <form>TV</form>
-<tag lemma="televize_:B" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="televize_:B" src="orig">NNFXX-----A---8</AM>
+<AM lemma="televize" src="manual" selected="1">NNFXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln95048-144-p2s3w8">
 <src.rf>manual</src.rf>

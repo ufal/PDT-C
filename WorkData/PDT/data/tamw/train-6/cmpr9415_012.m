@@ -153,7 +153,10 @@
 <LM>w#w-cmpr9415-012-p4s1w5</LM>
 </w.rf>
 <form>Kronos</form>
-<tag lemma="Kronos_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="Kronos_;K" src="orig">NNIS1-----A----</AM>
+<AM lemma="Kronos-2_;K" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-cmpr9415-012-p4s1w6">
 <src.rf>manual</src.rf>
@@ -214,6 +217,7 @@
 <tag>
 <AM lemma="Kč" src="orig">NNFXX-----A----</AM>
 <AM lemma="Kč_:B" src="auto" recommended="1">NNFXX-----A---8</AM>
+<AM lemma="Kč_:B_^(koruna_česká)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9415-012-p5s1w5">
@@ -252,6 +256,7 @@
 <tag>
 <AM lemma="Kč" src="orig">NNFXX-----A----</AM>
 <AM lemma="Kč_:B" src="auto" recommended="1">NNFXX-----A---8</AM>
+<AM lemma="Kč_:B_^(koruna_česká)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9415-012-p6s1w3">
@@ -309,7 +314,10 @@
 <LM>w#w-cmpr9415-012-p6s1w9</LM>
 </w.rf>
 <form>jen</form>
-<tag lemma="jen-1" src="auto" selected="1">TT-------------</tag>
+<tag>
+<AM lemma="jen-1" src="auto">TT-------------</AM>
+<AM lemma="jen-4_^(pouze)" src="manual" selected="1">Db-------------</AM>
+</tag>
 </m>
 <m id="m-cmpr9415-012-p6s1w10">
 <src.rf>manual</src.rf>
@@ -792,7 +800,10 @@
 <LM>w#w-cmpr9415-012-p9s3w10</LM>
 </w.rf>
 <form>Thessaloniki</form>
-<tag lemma="Thessaloniki_;u_,t_^(název_festivalu)" src="auto" selected="1">NNNXX-----A----</tag>
+<tag>
+<AM lemma="Thessaloniki_;u_,t_^(název_festivalu)" src="auto">NNNXX-----A----</AM>
+<AM lemma="Thessaloniki_;G_;K_,s_^(^DD** Tesalonika)" src="manual" selected="1">NNNS2-----A----</AM>
+</tag>
 </m>
 <m id="m-cmpr9415-012-p9s3w11">
 <src.rf>manual</src.rf>
@@ -848,7 +859,10 @@
 <LM>w#w-cmpr9415-012-p9s3w17</LM>
 </w.rf>
 <form>apod</form>
-<tag lemma="apod_:B_^(a_podobně)" src="auto" selected="1">Db------------8</tag>
+<tag>
+<AM lemma="apod_:B_^(a_podobně)" src="auto">Db------------8</AM>
+<AM lemma="apod_:B_^(a_podobně)" src="manual" selected="1">Db-------------</AM>
+</tag>
 </m>
 <m id="m-cmpr9415-012-p9s3w18">
 <src.rf>manual</src.rf>
@@ -915,6 +929,7 @@
 <AM lemma="mimo-1_:B" src="auto">RR--4---------8</AM>
 <AM lemma="minuta_:B" src="auto">NNFXX-----A---8</AM>
 <AM lemma="město_:B" src="auto">NNNXX-----A---8</AM>
+<AM lemma="metr" src="manual" selected="1">NNIXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-cmpr9415-012-p10s1w7">
@@ -1265,7 +1280,11 @@
 <LM>w#w-cmpr9415-012-p10s3Bw9</LM>
 </w.rf>
 <form>WC</form>
-<tag lemma="WC_:B" src="orig" selected="1">NNNXX-----A---8</tag>
+<tag>
+<AM lemma="WC_:B" src="orig">NNNXX-----A---8</AM>
+<AM lemma="WC-88_:B" src="manual">NNXXX-----A----</AM>
+<AM lemma="WC_:B_^(záchod)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-cmpr9415-012-p10s3Bw10">
 <src.rf>manual</src.rf>
@@ -1297,7 +1316,10 @@
 <LM>w#w-cmpr9415-012-p10s3Bw13</LM>
 </w.rf>
 <form>balkonem</form>
-<tag lemma="balkón_,x" src="orig" selected="1">NNIS7-----A----</tag>
+<tag>
+<AM lemma="balkón_,x" src="orig">NNIS7-----A----</AM>
+<AM lemma="balkon_,s_^(^DD**balkón)" src="manual" selected="1">NNIS7-----A----</AM>
+</tag>
 </m>
 <m id="m-cmpr9415-012-p10s3Bw14">
 <src.rf>manual</src.rf>

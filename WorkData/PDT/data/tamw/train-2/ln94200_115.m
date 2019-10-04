@@ -471,7 +471,10 @@
 <LM>w#w-ln94200-115-p2s2w34</LM>
 </w.rf>
 <form>milion</form>
-<tag lemma="milión`1000000" src="orig" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="milión`1000000" src="orig">NNIS1-----A----</AM>
+<AM lemma="milion`1000000_,s_^(^DD**milión)" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94200-115-p2s2w35">
 <src.rf>manual</src.rf>
@@ -659,7 +662,10 @@
 <LM>w#w-ln94200-115-p2s4w11</LM>
 </w.rf>
 <form>Curtis</form>
-<tag lemma="Curtis-2_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Curtis-2_;S" src="orig">NNMS1-----A----</AM>
+<AM lemma="Curtis-2_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94200-115-p2s4w12">
 <src.rf>manual</src.rf>
@@ -860,7 +866,7 @@
 </w.rf>
 <form>Louise</form>
 <tag>
-<AM lemma="Louise_;Y" src="orig">NNFXX-----A----</AM>
+<AM lemma="Louise_;Y" src="orig" selected="1">NNFXX-----A----</AM>
 <AM lemma="Louis-2_;G_^(př._St._Louis)" src="auto">NNIS5-----A----</AM>
 <AM lemma="Louis-3_;Y" src="auto">NNMP4-----A----</AM>
 <AM lemma="Louis-3_;Y" src="auto" recommended="1">NNMS2-----A----</AM>
@@ -920,6 +926,7 @@
 <AM lemma="Marion_;G" src="auto">NNIS1-----A----</AM>
 <AM lemma="Marion_;G" src="auto">NNIS4-----A----</AM>
 <AM lemma="Marion_;Y_,t" src="auto" recommended="1">NNFXX-----A----</AM>
+<AM lemma="Marion_;Y" src="manual" selected="1">NNFXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94200-115-p2s4w43">

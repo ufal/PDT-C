@@ -199,7 +199,10 @@
 <LM>w#w-lnd92257-029-p2s2w15</LM>
 </w.rf>
 <form>Overture</form>
-<tag lemma="Overture_;m" src="orig" selected="1">NNFXX-----A----</tag>
+<tag>
+<AM lemma="Overture_;m" src="orig">NNFXX-----A----</AM>
+<AM lemma="Overture-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-lnd92257-029-p2s2w16">
 <src.rf>manual</src.rf>
@@ -257,7 +260,10 @@
 <LM>w#w-lnd92257-029-p2s3w6</LM>
 </w.rf>
 <form>ES</form>
-<tag lemma="ES_:B_;K_^(Evropská_společenství)" src="orig" selected="1">NNNXX-----A---8</tag>
+<tag>
+<AM lemma="ES_:B_;K_^(Evropská_společenství)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="ES-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd92257-029-p2s3w7">
 <src.rf>manual</src.rf>
@@ -638,7 +644,10 @@
 <LM>w#w-lnd92257-029-p2s5w9</LM>
 </w.rf>
 <form>např</form>
-<tag lemma="například_:B" src="orig" selected="1">Db------------8</tag>
+<tag>
+<AM lemma="například_:B" src="orig">Db------------8</AM>
+<AM lemma="například" src="manual" selected="1">Db------------8</AM>
+</tag>
 </m>
 <m id="m-lnd92257-029-p2s5w10">
 <src.rf>manual</src.rf>
@@ -776,7 +785,10 @@
 <LM>w#w-lnd92257-029-p2s6w4</LM>
 </w.rf>
 <form>Overture</form>
-<tag lemma="Overture_;m" src="orig" selected="1">NNFXX-----A----</tag>
+<tag>
+<AM lemma="Overture_;m" src="orig">NNFXX-----A----</AM>
+<AM lemma="Overture-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-lnd92257-029-p2s6w5">
 <src.rf>manual</src.rf>

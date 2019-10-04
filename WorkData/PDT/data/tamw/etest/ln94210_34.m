@@ -111,7 +111,10 @@
 <LM>w#w-ln94210-34-p2s1w10</LM>
 </w.rf>
 <form>jen</form>
-<tag lemma="jen-1" src="auto" selected="1">TT-------------</tag>
+<tag>
+<AM lemma="jen-1" src="auto">TT-------------</AM>
+<AM lemma="jen-4_^(pouze)" src="manual" selected="1">Db-------------</AM>
+</tag>
 </m>
 <m id="m-ln94210-34-p2s1w11">
 <src.rf>manual</src.rf>
@@ -733,7 +736,10 @@
 <LM>w#w-ln94210-34-p2s4w20</LM>
 </w.rf>
 <form>imperialismem</form>
-<tag lemma="imperializmus" src="auto" selected="1">NNIS7-----A----</tag>
+<tag>
+<AM lemma="imperializmus" src="auto">NNIS7-----A----</AM>
+<AM lemma="imperialismus_,s_^(^DD**imperializmus)" src="manual" selected="1">NNIS7-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94210-34-p2s4w21">
 <src.rf>manual</src.rf>
@@ -1225,7 +1231,10 @@
 <LM>w#w-ln94210-34-p3s2w9</LM>
 </w.rf>
 <form>CDU</form>
-<tag lemma="CDU-1_:B_;K_;p_,t_^(Christianisch-Demokratische_Union)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="CDU-1_:B_;K_;p_,t_^(Christianisch-Demokratische_Union)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="CDU-1_:B_;K_^(Christianisch-Demokratische_Union)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94210-34-p3s2w10">
 <src.rf>manual</src.rf>
@@ -1467,7 +1476,10 @@
 <LM>w#w-ln94210-34-p4s1w29</LM>
 </w.rf>
 <form>jen</form>
-<tag lemma="jen-1" src="auto" selected="1">TT-------------</tag>
+<tag>
+<AM lemma="jen-1" src="auto">TT-------------</AM>
+<AM lemma="jen-4_^(pouze)" src="manual" selected="1">Db-------------</AM>
+</tag>
 </m>
 <m id="m-ln94210-34-p4s1w30">
 <src.rf>manual</src.rf>
@@ -2081,7 +2093,10 @@
 <LM>w#w-ln94210-34-p4s4w23</LM>
 </w.rf>
 <form>jen</form>
-<tag lemma="jen-1" src="auto" selected="1">TT-------------</tag>
+<tag>
+<AM lemma="jen-1" src="auto">TT-------------</AM>
+<AM lemma="jen-4_^(pouze)" src="manual" selected="1">Db-------------</AM>
+</tag>
 </m>
 <m id="m-ln94210-34-p4s4w24">
 <src.rf>manual</src.rf>
@@ -2437,7 +2452,10 @@
 <LM>w#w-ln94210-34-p4s6w3</LM>
 </w.rf>
 <form>jen</form>
-<tag lemma="jen-1" src="auto" selected="1">TT-------------</tag>
+<tag>
+<AM lemma="jen-1" src="auto">TT-------------</AM>
+<AM lemma="jen-4_^(pouze)" src="manual" selected="1">Db-------------</AM>
+</tag>
 </m>
 <m id="m-ln94210-34-p4s6w4">
 <src.rf>manual</src.rf>
@@ -2729,7 +2747,10 @@
 <LM>w#w-ln94210-34-p4s8w20</LM>
 </w.rf>
 <form>eurocards</form>
-<tag lemma="eurocard_,t" src="orig" selected="1">NNFPX-----A----</tag>
+<tag>
+<AM lemma="eurocard_,t" src="orig">NNFPX-----A----</AM>
+<AM lemma="eurocards-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94210-34-p4s8w21">
 <src.rf>manual</src.rf>
@@ -2817,7 +2838,10 @@
 <LM>w#w-ln94210-34-p4s8w31</LM>
 </w.rf>
 <form>jen</form>
-<tag lemma="jen-1" src="auto" selected="1">TT-------------</tag>
+<tag>
+<AM lemma="jen-1" src="auto">TT-------------</AM>
+<AM lemma="jen-4_^(pouze)" src="manual" selected="1">Db-------------</AM>
+</tag>
 </m>
 <m id="m-ln94210-34-p4s8w32">
 <src.rf>manual</src.rf>
@@ -3349,7 +3373,7 @@
 <form>ovšem</form>
 <tag>
 <AM lemma="ovšem-1_^(avšak,_však;_odporovací_spojka)" src="orig">J^-------------</AM>
-<AM lemma="ovšem" src="auto" recommended="1">TT-------------</AM>
+<AM lemma="ovšem" src="auto" recommended="1" selected="1">TT-------------</AM>
 </tag>
 </m>
 <m id="m-ln94210-34-p5s2w4">

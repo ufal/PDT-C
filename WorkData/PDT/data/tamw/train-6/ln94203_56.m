@@ -910,7 +910,10 @@
 <LM>w#w-ln94203-56-p3s3w25</LM>
 </w.rf>
 <form>kurz</form>
-<tag lemma="kurs" src="auto" selected="1">NNIS4-----A----</tag>
+<tag>
+<AM lemma="kurs" src="auto">NNIS4-----A----</AM>
+<AM lemma="kurz" src="manual" selected="1">NNIS4-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94203-56-p3s3w26">
 <src.rf>manual</src.rf>
@@ -942,7 +945,10 @@
 <LM>w#w-ln94203-56-p3s3w29</LM>
 </w.rf>
 <form>ECU</form>
-<tag lemma="ECU_:B_;b" src="auto" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ECU_:B_;b" src="auto">NNFXX-----A---8</AM>
+<AM lemma="ECU-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94203-56-p3s3w30">
 <src.rf>manual</src.rf>
@@ -1236,7 +1242,7 @@
 <form>totiž</form>
 <tag>
 <AM lemma="totiž" src="orig">Db-------------</AM>
-<AM lemma="totiž-1" src="auto" recommended="1">J^-------------</AM>
+<AM lemma="totiž-1" src="auto" recommended="1" selected="1">J^-------------</AM>
 <AM lemma="totiž-2" src="auto">TT-------------</AM>
 </tag>
 </m>
@@ -1416,7 +1422,10 @@
 <LM>w#w-ln94203-56-p4s1w16</LM>
 </w.rf>
 <form>CEFTA</form>
-<tag lemma="CEFTA_:B_;K" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="CEFTA_:B_;K" src="orig">NNFXX-----A---8</AM>
+<AM lemma="CEFTA-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94203-56-p4s1w17">
 <src.rf>manual</src.rf>
@@ -1984,7 +1993,10 @@
 <LM>w#w-ln94203-56-p5s3w12</LM>
 </w.rf>
 <form>CEFTA</form>
-<tag lemma="CEFTA_:B_;K" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="CEFTA_:B_;K" src="orig">NNFXX-----A---8</AM>
+<AM lemma="CEFTA-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94203-56-p5s3w13">
 <src.rf>manual</src.rf>

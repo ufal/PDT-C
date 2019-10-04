@@ -313,7 +313,10 @@
 <LM>w#w-lnd91303-105-p4s2w11</LM>
 </w.rf>
 <form>umístěna</form>
-<tag lemma="umístit" src="orig" selected="1">VsQW---XX-AP---</tag>
+<tag>
+<AM lemma="umístit" src="orig">VsQW---XX-AP---</AM>
+<AM lemma="umístit_:W" src="manual" selected="1">VsQW---XX-AP---</AM>
+</tag>
 </m>
 <m id="m-lnd91303-105-p4s2w12">
 <src.rf>manual</src.rf>
@@ -712,7 +715,7 @@
 </w.rf>
 <form>Basta</form>
 <tag>
-<AM lemma="Basta_;G" src="orig">NNFS1-----A----</AM>
+<AM lemma="Basta_;G" src="orig" selected="1">NNFS1-----A----</AM>
 <AM lemma="basta" src="auto" recommended="1">II-------------</AM>
 </tag>
 </m>

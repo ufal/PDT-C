@@ -19,7 +19,10 @@
 <LM>w#w-mf930708-021-p1s1w1</LM>
 </w.rf>
 <form>Provizórium</form>
-<tag lemma="provizórium" src="orig" selected="1">NNNS1-----A----</tag>
+<tag>
+<AM lemma="provizórium" src="orig">NNNS1-----A----</AM>
+<AM lemma="provizórium_,s_^(^DD**provizorium)" src="manual" selected="1">NNNS1-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930708-021-p1s1w2">
 <src.rf>manual</src.rf>
@@ -105,6 +108,7 @@
 <AM lemma="kar-99_:B_;S" src="orig">NNXXX-----A---8</AM>
 <AM lemma="kar" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="kar" src="auto">NNIS4-----A----</AM>
+<AM lemma="kar-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930708-021-p2s1w4">
@@ -504,7 +508,10 @@
 <LM>w#w-mf930708-021-p3s2w11</LM>
 </w.rf>
 <form>konkursu</form>
-<tag lemma="konkurs_^(úpadek;;soutěž)" src="auto" selected="1">NNIS2-----A----</tag>
+<tag>
+<AM lemma="konkurs_^(úpadek;;soutěž)" src="auto">NNIS2-----A----</AM>
+<AM lemma="konkurs_,s_^(^DD**konkurz)" src="manual" selected="1">NNIS2-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930708-021-p3s2w12">
 <src.rf>manual</src.rf>
@@ -530,7 +537,11 @@
 <LM>w#w-mf930708-021-p3s3w2</LM>
 </w.rf>
 <form>konkurs</form>
-<tag lemma="konkurs_^(úpadek;;soutěž)" src="auto" selected="1">NNIS4-----A----</tag>
+<tag>
+<AM lemma="konkurs_^(úpadek;;soutěž)" src="auto">NNIS4-----A----</AM>
+<AM lemma="konkurs_,s_^(^DD**konkurz)_^(úpadek;;soutěž)" src="manual">NNIS1-----A----</AM>
+<AM lemma="konkurs_,s_^(^DD**konkurz)" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930708-021-p3s3w3">
 <src.rf>manual</src.rf>
@@ -642,7 +653,10 @@
 <LM>w#w-mf930708-021-p3s3w16</LM>
 </w.rf>
 <form>konkursní</form>
-<tag lemma="konkursní_^(týkající_se_úpadku,_soutěže)" src="auto" selected="1">AAFS2----1A----</tag>
+<tag>
+<AM lemma="konkursní_^(týkající_se_úpadku,_soutěže)" src="auto">AAFS2----1A----</AM>
+<AM lemma="konkursní_,s_^(^DD**konkurzní)" src="manual" selected="1">AAFS2----1A----</AM>
+</tag>
 </m>
 <m id="m-mf930708-021-p3s3w17">
 <src.rf>manual</src.rf>
@@ -870,7 +884,10 @@
 <LM>w#w-mf930708-021-p4s1w10</LM>
 </w.rf>
 <form>vede</form>
-<tag lemma="vést" src="auto" selected="1">VB-S---3P-AA---</tag>
+<tag>
+<AM lemma="vést" src="auto">VB-S---3P-AA---</AM>
+<AM lemma="vést_:T" src="manual" selected="1">VB-S---3P-AA---</AM>
+</tag>
 </m>
 <m id="m-mf930708-021-p4s1w11">
 <src.rf>manual</src.rf>
@@ -894,7 +911,10 @@
 <LM>w#w-mf930708-021-p4s1w13</LM>
 </w.rf>
 <form>konkursu</form>
-<tag lemma="konkurs_^(úpadek;;soutěž)" src="auto" selected="1">NNIS2-----A----</tag>
+<tag>
+<AM lemma="konkurs_^(úpadek;;soutěž)" src="auto">NNIS2-----A----</AM>
+<AM lemma="konkurs_,s_^(^DD**konkurz)" src="manual" selected="1">NNIS2-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930708-021-p4s1w14">
 <src.rf>manual</src.rf>
@@ -982,7 +1002,10 @@
 <LM>w#w-mf930708-021-p4s1w24</LM>
 </w.rf>
 <form>konkursu</form>
-<tag lemma="konkurs_^(úpadek;;soutěž)" src="auto" selected="1">NNIS2-----A----</tag>
+<tag>
+<AM lemma="konkurs_^(úpadek;;soutěž)" src="auto">NNIS2-----A----</AM>
+<AM lemma="konkurs_,s_^(^DD**konkurz)" src="manual" selected="1">NNIS2-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930708-021-p4s1w25">
 <src.rf>manual</src.rf>
@@ -1088,7 +1111,10 @@
 <LM>w#w-mf930708-021-p4s2w12</LM>
 </w.rf>
 <form>uvedl</form>
-<tag lemma="uvést" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag>
+<AM lemma="uvést" src="orig">VpYS---XR-AA---</AM>
+<AM lemma="uvést_:W" src="manual" selected="1">VpYS---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-mf930708-021-p4s2w13">
 <src.rf>manual</src.rf>
@@ -1128,7 +1154,10 @@
 <LM>w#w-mf930708-021-p4s2w17</LM>
 </w.rf>
 <form>konkursního</form>
-<tag lemma="konkursní_^(týkající_se_úpadku,_soutěže)" src="auto" selected="1">AANS2----1A----</tag>
+<tag>
+<AM lemma="konkursní_^(týkající_se_úpadku,_soutěže)" src="auto">AANS2----1A----</AM>
+<AM lemma="konkursní_,s_^(^DD**konkurzní)" src="manual" selected="1">AANS2----1A----</AM>
+</tag>
 </m>
 <m id="m-mf930708-021-p4s2w18">
 <src.rf>manual</src.rf>
@@ -1510,7 +1539,10 @@
 <LM>w#w-mf930708-021-p5s3w3</LM>
 </w.rf>
 <form>posunul</form>
-<tag lemma="posunout" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag>
+<AM lemma="posunout" src="orig">VpYS---XR-AA---</AM>
+<AM lemma="posunout_:W" src="manual" selected="1">VpYS---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-mf930708-021-p5s3w4">
 <src.rf>manual</src.rf>

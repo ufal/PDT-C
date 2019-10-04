@@ -178,7 +178,7 @@
 <tag>
 <AM lemma="nalézt" src="orig">VpYS---XR-AA---</AM>
 <AM lemma="nalézt-1_^(někam)" src="auto" recommended="1">VpYS---XR-AA---</AM>
-<AM lemma="nalézt-2" src="auto">VpYS---XR-AA---</AM>
+<AM lemma="nalézt-2" src="auto" selected="1">VpYS---XR-AA---</AM>
 </tag>
 </m>
 <m id="m-ln95048-040-p2s2w5">
@@ -570,7 +570,10 @@
 <LM>w#w-ln95048-040-p2s5w17</LM>
 </w.rf>
 <form>zvláště</form>
-<tag lemma="zvláště-1" src="auto" selected="1">Db-------------</tag>
+<tag>
+<AM lemma="zvláště-1" src="auto">Db-------------</AM>
+<AM lemma="zvláště-2" src="manual" selected="1">TT-------------</AM>
+</tag>
 </m>
 <m id="m-ln95048-040-p2s5w18">
 <src.rf>manual</src.rf>

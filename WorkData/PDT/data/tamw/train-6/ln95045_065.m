@@ -94,7 +94,10 @@
 <LM>w#w-ln95045-065-p2s1Aw5</LM>
 </w.rf>
 <form>OSN</form>
-<tag lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95045-065-p2s1Aw6">
 <src.rf>manual</src.rf>
@@ -126,7 +129,10 @@
 <LM>w#w-ln95045-065-p2s1Aw9</LM>
 </w.rf>
 <form>cynismu</form>
-<tag lemma="cynismus" src="orig" selected="1">NNIS2-----A----</tag>
+<tag>
+<AM lemma="cynismus" src="orig">NNIS2-----A----</AM>
+<AM lemma="cynismus_,s_^(^DD**cynizmus)" src="manual" selected="1">NNIS2-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95045-065-p2s1Aw10">
 <src.rf>manual</src.rf>
@@ -468,7 +474,10 @@
 <LM>w#w-ln95045-065-p2s3w2</LM>
 </w.rf>
 <form>S</form>
-<tag lemma="S-0_:B_;Y" src="orig" selected="1">NNMXX-----A---8</tag>
+<tag>
+<AM lemma="S-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
+<AM lemma="S-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95045-065-p2s3w3">
 <src.rf>manual</src.rf>
@@ -1421,7 +1430,10 @@
 <LM>w#w-ln95045-065-p2s7w9</LM>
 </w.rf>
 <form>jen</form>
-<tag lemma="jen-1" src="auto" selected="1">TT-------------</tag>
+<tag>
+<AM lemma="jen-1" src="auto">TT-------------</AM>
+<AM lemma="jen-4_^(pouze)" src="manual" selected="1">Db-------------</AM>
+</tag>
 </m>
 <m id="m-ln95045-065-p2s7w10">
 <src.rf>manual</src.rf>
@@ -1681,7 +1693,10 @@
 <LM>w#w-ln95045-065-p3s1w12</LM>
 </w.rf>
 <form>OSN</form>
-<tag lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95045-065-p3s1w13">
 <src.rf>manual</src.rf>
@@ -1779,7 +1794,10 @@
 <LM>w#w-ln95045-065-p3s2w9</LM>
 </w.rf>
 <form>cynismu</form>
-<tag lemma="cynismus" src="orig" selected="1">NNIS2-----A----</tag>
+<tag>
+<AM lemma="cynismus" src="orig">NNIS2-----A----</AM>
+<AM lemma="cynismus_,s_^(^DD**cynizmus)" src="manual" selected="1">NNIS2-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95045-065-p3s2w10">
 <src.rf>manual</src.rf>
@@ -2119,7 +2137,10 @@
 <LM>w#w-ln95045-065-p3s4w5</LM>
 </w.rf>
 <form>OSN</form>
-<tag lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95045-065-p3s4w6">
 <src.rf>manual</src.rf>
@@ -2865,7 +2886,10 @@
 <LM>w#w-ln95045-065-p4s5w10</LM>
 </w.rf>
 <form>ani</form>
-<tag lemma="ani-1" src="auto" selected="1">J^-------------</tag>
+<tag>
+<AM lemma="ani-1" src="auto">J^-------------</AM>
+<AM lemma="ani-2" src="manual" selected="1">TT-------------</AM>
+</tag>
 </m>
 <m id="m-ln95045-065-p4s5w11">
 <src.rf>manual</src.rf>
@@ -3018,6 +3042,7 @@
 <AM lemma="mimo-1_:B" src="auto">RR--4---------8</AM>
 <AM lemma="minuta_:B" src="auto">NNFXX-----A---8</AM>
 <AM lemma="město_:B" src="auto">NNNXX-----A---8</AM>
+<AM lemma="metr" src="manual" selected="1">NNIXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-ln95045-065-p4s5w29">

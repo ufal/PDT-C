@@ -35,7 +35,10 @@
 <LM>w#w-ln94208-132-p1s1w3</LM>
 </w.rf>
 <form>jako</form>
-<tag lemma="jako-1" src="auto" selected="1">J,-------------</tag>
+<tag>
+<AM lemma="jako-1" src="auto" selected="1">J,-------------</AM>
+<AM lemma="jako-2" src="manual">Db-------------</AM>
+</tag>
 </m>
 <m id="m-ln94208-132-p1s1w4">
 <src.rf>manual</src.rf>
@@ -169,7 +172,10 @@
 <LM>w#w-ln94208-132-p2s1Cw3</LM>
 </w.rf>
 <form>sn</form>
-<tag lemma="sn-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="sn-99_:B_;S" src="orig">NNXXX-----A---8</AM>
+<AM lemma="sn-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94208-132-p2s1Cw4">
 <src.rf>manual</src.rf>
@@ -185,7 +191,10 @@
 <LM>w#w-ln94208-132-p2s1Cw5</LM>
 </w.rf>
 <form>šv</form>
-<tag lemma="šv-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="šv-99_:B_;S" src="orig">NNXXX-----A---8</AM>
+<AM lemma="šv-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94208-132-p2s1Cw6">
 <src.rf>manual</src.rf>
@@ -219,7 +228,10 @@
 <LM>w#w-ln94208-132-p2s1Dw2</LM>
 </w.rf>
 <form>jen</form>
-<tag lemma="jen-1" src="auto" selected="1">TT-------------</tag>
+<tag>
+<AM lemma="jen-1" src="auto">TT-------------</AM>
+<AM lemma="jen-4_^(pouze)" src="manual" selected="1">Db-------------</AM>
+</tag>
 </m>
 <m id="m-ln94208-132-p2s1Dw3">
 <src.rf>manual</src.rf>
@@ -315,7 +327,10 @@
 <LM>w#w-ln94208-132-p2s1Dw14</LM>
 </w.rf>
 <form>ME</form>
-<tag lemma="ME-1_:B_;w_^(mistrovství_Evropy)" src="orig" selected="1">NNNXX-----A---8</tag>
+<tag>
+<AM lemma="ME-1_:B_;w_^(mistrovství_Evropy)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="ME-1_:B_^(mistrovství_Evropy)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94208-132-p2s1Dw15">
 <src.rf>manual</src.rf>
@@ -1029,7 +1044,10 @@
 <LM>w#w-ln94208-132-p3s4w7</LM>
 </w.rf>
 <form>Samcem</form>
-<tag lemma="samec" src="orig" selected="1">NNMS7-----A----</tag>
+<tag>
+<AM lemma="samec" src="orig">NNMS7-----A----</AM>
+<AM lemma="Samec_;S" src="manual" selected="1">NNMS7-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94208-132-p3s4w8">
 <src.rf>manual</src.rf>
@@ -1913,7 +1931,10 @@
 <LM>w#w-ln94208-132-p5s2w12</LM>
 </w.rf>
 <form>stadionu</form>
-<tag lemma="stadión" src="orig" selected="1">NNIS6-----A---1</tag>
+<tag>
+<AM lemma="stadión" src="orig">NNIS6-----A---1</AM>
+<AM lemma="stadion_,s_^(^DD**stadión)" src="manual" selected="1">NNIS2-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94208-132-p5s2w13">
 <src.rf>manual</src.rf>
@@ -1945,7 +1966,10 @@
 <LM>w#w-ln94208-132-p5s2w16</LM>
 </w.rf>
 <form>A</form>
-<tag lemma="a-3_^(označení_pomocí_písmene)" src="orig" selected="1">NNNXX-----A----</tag>
+<tag>
+<AM lemma="a-3_^(označení_pomocí_písmene)" src="orig">NNNXX-----A----</AM>
+<AM lemma="A-33_^(označení_pomocí_písmene)" src="manual" selected="1">NNNXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94208-132-p5s2w17">
 <src.rf>manual</src.rf>
@@ -2661,7 +2685,10 @@
 <LM>w#w-ln94208-132-p6s2w18</LM>
 </w.rf>
 <form>jen</form>
-<tag lemma="jen-1" src="auto" selected="1">TT-------------</tag>
+<tag>
+<AM lemma="jen-1" src="auto">TT-------------</AM>
+<AM lemma="jen-4_^(pouze)" src="manual" selected="1">Db-------------</AM>
+</tag>
 </m>
 <m id="m-ln94208-132-p6s2w19">
 <src.rf>manual</src.rf>
@@ -3005,7 +3032,7 @@
 <form>totiž</form>
 <tag>
 <AM lemma="totiž" src="orig">Db-------------</AM>
-<AM lemma="totiž-1" src="auto" recommended="1">J^-------------</AM>
+<AM lemma="totiž-1" src="auto" recommended="1" selected="1">J^-------------</AM>
 <AM lemma="totiž-2" src="auto">TT-------------</AM>
 </tag>
 </m>
@@ -3175,7 +3202,10 @@
 <LM>w#w-ln94208-132-p7s2w24</LM>
 </w.rf>
 <form>jen</form>
-<tag lemma="jen-1" src="auto" selected="1">TT-------------</tag>
+<tag>
+<AM lemma="jen-1" src="auto">TT-------------</AM>
+<AM lemma="jen-4_^(pouze)" src="manual" selected="1">Db-------------</AM>
+</tag>
 </m>
 <m id="m-ln94208-132-p7s2w25">
 <src.rf>manual</src.rf>
@@ -3395,7 +3425,10 @@
 <LM>w#w-ln94208-132-p7s4w14</LM>
 </w.rf>
 <form>Imperial</form>
-<tag lemma="Imperial_;Y" src="auto" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="Imperial_;Y" src="auto">NNIS1-----A----</AM>
+<AM lemma="Imperial_;K" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94208-132-p7s4w15">
 <src.rf>manual</src.rf>

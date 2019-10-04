@@ -366,7 +366,7 @@
 <tag>
 <AM lemma="tady" src="orig">Db------------1</AM>
 <AM lemma="ten" src="auto" recommended="1">PDFS4----------</AM>
-<AM lemma="tu" src="auto">Db-------------</AM>
+<AM lemma="tu" src="auto" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m-vesm9212-014-p3s3w8">
@@ -394,7 +394,7 @@
 <tag>
 <AM lemma="tady" src="orig">Db------------1</AM>
 <AM lemma="ten" src="auto" recommended="1">PDFS4----------</AM>
-<AM lemma="tu" src="auto">Db-------------</AM>
+<AM lemma="tu" src="auto" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m-vesm9212-014-p3s3w11">
@@ -689,7 +689,7 @@
 <form>snad</form>
 <tag>
 <AM lemma="snad" src="orig">Db-------------</AM>
-<AM lemma="snad" src="auto" recommended="1">TT-------------</AM>
+<AM lemma="snad" src="auto" recommended="1" selected="1">TT-------------</AM>
 </tag>
 </m>
 <m id="m-vesm9212-014-p3s5w9">
@@ -928,7 +928,7 @@
 <AM lemma="bližní" src="orig">AAMP2----1A----</AM>
 <AM lemma="bližní" src="auto">NNFP2-----A----</AM>
 <AM lemma="bližní" src="auto">NNFP6-----A----</AM>
-<AM lemma="bližní" src="auto" recommended="1">NNMP2-----A----</AM>
+<AM lemma="bližní" src="auto" recommended="1" selected="1">NNMP2-----A----</AM>
 <AM lemma="bližní" src="auto">NNMP6-----A----</AM>
 </tag>
 </m>
@@ -1062,7 +1062,7 @@
 <form>vůbec</form>
 <tag>
 <AM lemma="vůbec" src="orig">Db-------------</AM>
-<AM lemma="vůbec" src="auto" recommended="1">TT-------------</AM>
+<AM lemma="vůbec" src="auto" recommended="1" selected="1">TT-------------</AM>
 </tag>
 </m>
 <m id="m-vesm9212-014-p3s7w3">
@@ -4631,7 +4631,7 @@
 <form>jakkoli</form>
 <tag>
 <AM lemma="jakkoliv" src="orig">Db------------1</AM>
-<AM lemma="jakkoli-1" src="auto">Db-------------</AM>
+<AM lemma="jakkoli-1" src="auto" selected="1">Db-------------</AM>
 <AM lemma="jakkoli-2" src="auto" recommended="1">J,-------------</AM>
 </tag>
 </m>
@@ -4731,7 +4731,10 @@
 <LM>w#w-vesm9212-014-p13s2w4</LM>
 </w.rf>
 <form>F</form>
-<tag lemma="F-0_:B_;Y" src="orig" selected="1">NNMXX-----A---8</tag>
+<tag>
+<AM lemma="F-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
+<AM lemma="F-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-vesm9212-014-p13s2w5">
 <src.rf>manual</src.rf>
@@ -4747,7 +4750,10 @@
 <LM>w#w-vesm9212-014-p13s2w6</LM>
 </w.rf>
 <form>D</form>
-<tag lemma="D-0_:B_;Y" src="orig" selected="1">NNMXX-----A---8</tag>
+<tag>
+<AM lemma="D-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
+<AM lemma="D-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-vesm9212-014-p13s2w7">
 <src.rf>manual</src.rf>
@@ -4811,7 +4817,10 @@
 <LM>w#w-vesm9212-014-p13s2w14</LM>
 </w.rf>
 <form>Readers</form>
-<tag lemma="Readers_;K_,t" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="Readers_;K_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="Readers-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-vesm9212-014-p13s2w15">
 <src.rf>manual</src.rf>
@@ -4823,6 +4832,7 @@
 <AM lemma="Digest_;K_,t" src="orig">NNISX-----A----</AM>
 <AM lemma="digest" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="digest" src="auto">NNIS4-----A----</AM>
+<AM lemma="Digest-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-vesm9212-014-p13s2w16">
@@ -4975,7 +4985,10 @@
 <LM>w#w-vesm9212-014-p13s2w34</LM>
 </w.rf>
 <form>New</form>
-<tag lemma="New-1_;G_,t_^(součást_míst._jmen)" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="New-1_;G_,t_^(součást_míst._jmen)" src="orig">AAXXX----1A----</AM>
+<AM lemma="New-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-vesm9212-014-p13s2w35">
 <src.rf>manual</src.rf>
@@ -5257,7 +5270,10 @@
 <LM>w#w-vesm9212-014-p13s3w15</LM>
 </w.rf>
 <form>G</form>
-<tag lemma="G-0_:B_;Y" src="orig" selected="1">NNMXX-----A---8</tag>
+<tag>
+<AM lemma="G-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
+<AM lemma="G-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-vesm9212-014-p13s3w16">
 <src.rf>manual</src.rf>
@@ -5273,7 +5289,10 @@
 <LM>w#w-vesm9212-014-p13s3w17</LM>
 </w.rf>
 <form>H</form>
-<tag lemma="H-0_:B_;Y" src="orig" selected="1">NNMXX-----A---8</tag>
+<tag>
+<AM lemma="H-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
+<AM lemma="H-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-vesm9212-014-p13s3w18">
 <src.rf>manual</src.rf>
@@ -6541,7 +6560,7 @@
 <form>USA</form>
 <tag>
 <AM lemma="USA_;G" src="orig">NNIPX-----A----</AM>
-<AM lemma="USA_:B_;K_,t_^(United_States_of_America)" src="auto" recommended="1">NNIPX-----A---8</AM>
+<AM lemma="USA_:B_;K_,t_^(United_States_of_America)" src="auto" recommended="1" selected="1">NNIPX-----A---8</AM>
 </tag>
 </m>
 <m id="m-vesm9212-014-p13s12w10">
@@ -6608,7 +6627,7 @@
 <form>USA</form>
 <tag>
 <AM lemma="USA_;G" src="orig">NNIPX-----A----</AM>
-<AM lemma="USA_:B_;K_,t_^(United_States_of_America)" src="auto" recommended="1">NNIPX-----A---8</AM>
+<AM lemma="USA_:B_;K_,t_^(United_States_of_America)" src="auto" recommended="1" selected="1">NNIPX-----A---8</AM>
 </tag>
 </m>
 <m id="m-vesm9212-014-p13s12w18">
@@ -7039,7 +7058,10 @@
 <LM>w#w-vesm9212-014-p14s2w2</LM>
 </w.rf>
 <form>Readers</form>
-<tag lemma="Readers_;K_,t" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="Readers_;K_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="Readers-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-vesm9212-014-p14s2w3">
 <src.rf>manual</src.rf>
@@ -7051,6 +7073,7 @@
 <AM lemma="Digest_;L_,t" src="orig">NNISX-----A----</AM>
 <AM lemma="digest" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="digest" src="auto">NNIS4-----A----</AM>
+<AM lemma="Digest-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-vesm9212-014-p14s2w4">
@@ -7808,7 +7831,7 @@
 <tag>
 <AM lemma="reprezentativnost" src="orig">NNFS4-----N----</AM>
 <AM lemma="reprezentativnost" src="auto">NNFP2-----N----</AM>
-<AM lemma="reprezentativnost" src="auto" recommended="1">NNFS7-----N----</AM>
+<AM lemma="reprezentativnost" src="auto" recommended="1" selected="1">NNFS7-----N----</AM>
 </tag>
 </m>
 <m id="m-vesm9212-014-p15s1w19">
@@ -9161,7 +9184,10 @@
 <LM>w#w-vesm9212-014-p16s7w5</LM>
 </w.rf>
 <form>optimismu</form>
-<tag lemma="optimismus" src="orig" selected="1">NNIS2-----A----</tag>
+<tag>
+<AM lemma="optimismus" src="orig">NNIS2-----A----</AM>
+<AM lemma="optimismus_,s_^(^DD**optimizmus]" src="manual" selected="1">NNIS2-----A----</AM>
+</tag>
 </m>
 <m id="m-vesm9212-014-p16s7w6">
 <src.rf>manual</src.rf>
@@ -9182,6 +9208,7 @@
 <AM lemma="pesimizmus" src="auto" recommended="1">NNIS2-----A----</AM>
 <AM lemma="pesimizmus" src="auto">NNIS3-----A----</AM>
 <AM lemma="pesimizmus" src="auto">NNIS6-----A----</AM>
+<AM lemma="pesimismus_,s_^(^DD**pesimizmus)" src="manual" selected="1">NNIS2-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9212-014-p16s7w8">
@@ -10342,7 +10369,10 @@
 <LM>w#w-vesm9212-014-p19s3w9</LM>
 </w.rf>
 <form>diletantismem</form>
-<tag lemma="diletantismus" src="orig" selected="1">NNIS7-----A----</tag>
+<tag>
+<AM lemma="diletantismus" src="orig">NNIS7-----A----</AM>
+<AM lemma="diletantismus_,s_^(^DD**diletantizmus)" src="manual" selected="1">NNIS7-----A----</AM>
+</tag>
 </m>
 <m id="m-vesm9212-014-p19s3w10">
 <src.rf>manual</src.rf>
@@ -12040,7 +12070,10 @@
 <LM>w#w-vesm9212-014-p21s4w3</LM>
 </w.rf>
 <form>li</form>
-<tag lemma="li-1" src="auto" selected="1">TT-------------</tag>
+<tag>
+<AM lemma="li-1" src="auto">TT-------------</AM>
+<AM lemma="li-2" src="manual" selected="1">J,-------------</AM>
+</tag>
 </m>
 <m id="m-vesm9212-014-p21s4w4">
 <src.rf>manual</src.rf>
@@ -12340,7 +12373,10 @@
 <LM>w#w-vesm9212-014-p21s6w3</LM>
 </w.rf>
 <form>li</form>
-<tag lemma="li-1" src="auto" selected="1">TT-------------</tag>
+<tag>
+<AM lemma="li-1" src="auto">TT-------------</AM>
+<AM lemma="li-2" src="manual" selected="1">J,-------------</AM>
+</tag>
 </m>
 <m id="m-vesm9212-014-p21s6w4">
 <src.rf>manual</src.rf>
@@ -12630,7 +12666,10 @@
 <LM>w#w-vesm9212-014-p21s7w3</LM>
 </w.rf>
 <form>li</form>
-<tag lemma="li-1" src="auto" selected="1">TT-------------</tag>
+<tag>
+<AM lemma="li-1" src="auto">TT-------------</AM>
+<AM lemma="li-2" src="manual" selected="1">J,-------------</AM>
+</tag>
 </m>
 <m id="m-vesm9212-014-p21s7w4">
 <src.rf>manual</src.rf>
@@ -17776,7 +17815,7 @@
 <AM lemma="bližní" src="auto">NNFS5-----A----</AM>
 <AM lemma="bližní" src="auto">NNFS6-----A----</AM>
 <AM lemma="bližní" src="auto">NNFS7-----A----</AM>
-<AM lemma="bližní" src="auto" recommended="1">NNMP1-----A----</AM>
+<AM lemma="bližní" src="auto" recommended="1" selected="1">NNMP1-----A----</AM>
 <AM lemma="bližní" src="auto">NNMP4-----A----</AM>
 <AM lemma="bližní" src="auto">NNMP5-----A----</AM>
 <AM lemma="bližní" src="auto">NNMS1-----A----</AM>
@@ -18231,7 +18270,7 @@
 <form>snad</form>
 <tag>
 <AM lemma="snad" src="orig">Db-------------</AM>
-<AM lemma="snad" src="auto" recommended="1">TT-------------</AM>
+<AM lemma="snad" src="auto" recommended="1" selected="1">TT-------------</AM>
 </tag>
 </m>
 <m id="m-vesm9212-014-p27s2w8">
@@ -18452,7 +18491,10 @@
 <LM>w#w-vesm9212-014-p28s2w4</LM>
 </w.rf>
 <form>li</form>
-<tag lemma="li-1" src="auto" selected="1">TT-------------</tag>
+<tag>
+<AM lemma="li-1" src="auto">TT-------------</AM>
+<AM lemma="li-2" src="manual" selected="1">J,-------------</AM>
+</tag>
 </m>
 <m id="m-vesm9212-014-p28s2w5">
 <src.rf>manual</src.rf>
@@ -20014,7 +20056,7 @@
 <form>nalezena</form>
 <tag>
 <AM lemma="naleznout" src="orig">VsQW---XX-AP---</AM>
-<AM lemma="nalézt-2" src="auto" recommended="1">VsQW---XX-AP---</AM>
+<AM lemma="nalézt-2" src="auto" recommended="1" selected="1">VsQW---XX-AP---</AM>
 </tag>
 </m>
 <m id="m-vesm9212-014-p31s1w6">
@@ -20584,6 +20626,7 @@
 <tag>
 <AM lemma="Des_;G_,t" src="orig">AAXXX----1A----</AM>
 <AM lemma="desátník_:B" src="auto" recommended="1">NNMXX-----A---8</AM>
+<AM lemma="Des-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-vesm9212-014-p33s2w14">
@@ -20592,7 +20635,10 @@
 <LM>w#w-vesm9212-014-p33s2w14</LM>
 </w.rf>
 <form>Moines</form>
-<tag lemma="Moines_;G_,t" src="orig" selected="1">NNFPX-----A----</tag>
+<tag>
+<AM lemma="Moines_;G_,t" src="orig">NNFPX-----A----</AM>
+<AM lemma="Moines-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-vesm9212-014-p33s2w15">
 <src.rf>manual</src.rf>
@@ -20796,7 +20842,10 @@
 <LM>w#w-vesm9212-014-p33s4w6</LM>
 </w.rf>
 <form>The</form>
-<tag lemma="the-1_,t_^(obv._souč._anglických_názvů,_urč._člen)" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="the-1_,t_^(obv._souč._anglických_názvů,_urč._člen)" src="orig">AAXXX----1A----</AM>
+<AM lemma="The-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-vesm9212-014-p33s4w7">
 <src.rf>manual</src.rf>
@@ -20809,6 +20858,7 @@
 <AM lemma="Pulse_;K_;R" src="auto" recommended="1">NNIXX-----A----</AM>
 <AM lemma="puls" src="auto">NNIS5-----A----</AM>
 <AM lemma="pulse_,t" src="auto">XX-------------</AM>
+<AM lemma="Pulse-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-vesm9212-014-p33s4w8">
@@ -20817,7 +20867,10 @@
 <LM>w#w-vesm9212-014-p33s4w8</LM>
 </w.rf>
 <form>of</form>
-<tag lemma="of-1_,t_^(obv._souč._anglických_názvů,_předl._2._p.)" src="orig" selected="1">RR--X----------</tag>
+<tag>
+<AM lemma="of-1_,t_^(obv._souč._anglických_názvů,_předl._2._p.)" src="orig">RR--X----------</AM>
+<AM lemma="of-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-vesm9212-014-p33s4w9">
 <src.rf>manual</src.rf>
@@ -20825,7 +20878,10 @@
 <LM>w#w-vesm9212-014-p33s4w9</LM>
 </w.rf>
 <form>Democracy</form>
-<tag lemma="democracy_,t" src="orig" selected="1">NNFXX-----A----</tag>
+<tag>
+<AM lemma="democracy_,t" src="orig">NNFXX-----A----</AM>
+<AM lemma="Democracy-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-vesm9212-014-p33s4w10">
 <src.rf>manual</src.rf>
@@ -20865,7 +20921,10 @@
 <LM>w#w-vesm9212-014-p33s4w14</LM>
 </w.rf>
 <form>The</form>
-<tag lemma="the-1_,t_^(obv._souč._anglických_názvů,_urč._člen)" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="the-1_,t_^(obv._souč._anglických_názvů,_urč._člen)" src="orig">AAXXX----1A----</AM>
+<AM lemma="The-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-vesm9212-014-p33s4w15">
 <src.rf>manual</src.rf>
@@ -20873,7 +20932,10 @@
 <LM>w#w-vesm9212-014-p33s4w15</LM>
 </w.rf>
 <form>Sophisticated</form>
-<tag lemma="sophisticated_,t" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="sophisticated_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="Sophisticated-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-vesm9212-014-p33s4w16">
 <src.rf>manual</src.rf>
@@ -20884,6 +20946,7 @@
 <tag>
 <AM lemma="poll_,t" src="orig">AAXXX----1A----</AM>
 <AM lemma="Polla_;G" src="auto" recommended="1">NNFP2-----A----</AM>
+<AM lemma="Poll-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-vesm9212-014-p33s4w17">
@@ -20892,7 +20955,10 @@
 <LM>w#w-vesm9212-014-p33s4w17</LM>
 </w.rf>
 <form>Watcher</form>
-<tag lemma="watcher_,t" src="orig" selected="1">NNMXX-----A----</tag>
+<tag>
+<AM lemma="watcher_,t" src="orig">NNMXX-----A----</AM>
+<AM lemma="Watcher-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-vesm9212-014-p33s4w18">
 <src.rf>manual</src.rf>
@@ -20908,7 +20974,10 @@
 <LM>w#w-vesm9212-014-p33s4w19</LM>
 </w.rf>
 <form>s</form>
-<tag lemma="s-4_,t_^(saský_genitiv)" src="orig" selected="1">NNXSX-----A----</tag>
+<tag>
+<AM lemma="s-4_,t_^(saský_genitiv)" src="orig">NNXSX-----A----</AM>
+<AM lemma="s-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-vesm9212-014-p33s4w20">
 <src.rf>manual</src.rf>
@@ -20920,6 +20989,7 @@
 <AM lemma="guide_,t" src="orig">NNXXX-----A----</AM>
 <AM lemma="guide" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="guide" src="auto">NNMS5-----A----</AM>
+<AM lemma="Guide-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-vesm9212-014-p33s4w21">

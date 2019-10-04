@@ -61,7 +61,10 @@
 <LM>w#w-mf920925-084-p2s1w3</LM>
 </w.rf>
 <form>ouš</form>
-<tag lemma="ouš-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="ouš-99_:B_;S" src="orig">NNXXX-----A---8</AM>
+<AM lemma="ouš-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920925-084-p2s1w4">
 <src.rf>manual</src.rf>
@@ -819,7 +822,7 @@
 <form>nejen</form>
 <tag>
 <AM lemma="nejen" src="orig">TT-------------</AM>
-<AM lemma="nejen" src="auto" recommended="1">Db-------------</AM>
+<AM lemma="nejen" src="auto" recommended="1" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m-mf920925-084-p2s7w4">

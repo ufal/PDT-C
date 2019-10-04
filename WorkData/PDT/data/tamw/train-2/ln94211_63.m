@@ -175,7 +175,10 @@
 <LM>w#w-ln94211-63-p2s1Bw12</LM>
 </w.rf>
 <form>MUDr</form>
-<tag lemma="MUDr-1_:B_^(doktor_medicíny)" src="orig" selected="1">NNMXX-----A---8</tag>
+<tag>
+<AM lemma="MUDr-1_:B_^(doktor_medicíny)" src="orig">NNMXX-----A---8</AM>
+<AM lemma="MUDr_:B_^(doktor_medicíny)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94211-63-p2s1Bw13">
 <src.rf>manual</src.rf>
@@ -199,7 +202,10 @@
 <LM>w#w-ln94211-63-p2s1Bw15</LM>
 </w.rf>
 <form>Š</form>
-<tag lemma="Š-9_:B_;S" src="orig" selected="1">NNMXX-----A---8</tag>
+<tag>
+<AM lemma="Š-9_:B_;S" src="orig">NNMXX-----A---8</AM>
+<AM lemma="Š-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln94211-63-p2s1Bw16">
 <src.rf>manual</src.rf>
@@ -457,7 +463,10 @@
 <LM>w#w-ln94211-63-p3s1w5</LM>
 </w.rf>
 <form>MUDr</form>
-<tag lemma="MUDr-1_:B_^(doktor_medicíny)" src="orig" selected="1">NNMXX-----A---8</tag>
+<tag>
+<AM lemma="MUDr-1_:B_^(doktor_medicíny)" src="orig">NNMXX-----A---8</AM>
+<AM lemma="MUDr_:B_^(doktor_medicíny)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94211-63-p3s1w6">
 <src.rf>manual</src.rf>
@@ -481,7 +490,10 @@
 <LM>w#w-ln94211-63-p3s1w8</LM>
 </w.rf>
 <form>Š</form>
-<tag lemma="Š-9_:B_;S" src="orig" selected="1">NNMXX-----A---8</tag>
+<tag>
+<AM lemma="Š-9_:B_;S" src="orig">NNMXX-----A---8</AM>
+<AM lemma="Š-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln94211-63-p3s1w9">
 <src.rf>manual</src.rf>
@@ -723,7 +735,10 @@
 <LM>w#w-ln94211-63-p3s2w13</LM>
 </w.rf>
 <form>přijely</form>
-<tag lemma="přijet" src="auto" selected="1">VpTP---XR-AA---</tag>
+<tag>
+<AM lemma="přijet" src="auto">VpTP---XR-AA---</AM>
+<AM lemma="přijet_:W" src="manual" selected="1">VpTP---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-ln94211-63-p3s2w14">
 <src.rf>manual</src.rf>
@@ -779,7 +794,10 @@
 <LM>w#w-ln94211-63-p3s2w20</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-2" src="auto" selected="1">Dg-------2A----</tag>
+<tag>
+<AM lemma="hodně-2" src="auto">Dg-------2A----</AM>
+<AM lemma="hodně-3" src="manual" selected="1">Dg-------2A----</AM>
+</tag>
 </m>
 <m id="m-ln94211-63-p3s2w21">
 <src.rf>manual</src.rf>
@@ -813,7 +831,10 @@
 <LM>w#w-ln94211-63-p4s1w3</LM>
 </w.rf>
 <form>MUDr</form>
-<tag lemma="MUDr-1_:B_^(doktor_medicíny)" src="orig" selected="1">NNMXX-----A---8</tag>
+<tag>
+<AM lemma="MUDr-1_:B_^(doktor_medicíny)" src="orig">NNMXX-----A---8</AM>
+<AM lemma="MUDr_:B_^(doktor_medicíny)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94211-63-p4s1w4">
 <src.rf>manual</src.rf>
@@ -837,7 +858,10 @@
 <LM>w#w-ln94211-63-p4s1w6</LM>
 </w.rf>
 <form>Š</form>
-<tag lemma="Š-9_:B_;S" src="orig" selected="1">NNMXX-----A---8</tag>
+<tag>
+<AM lemma="Š-9_:B_;S" src="orig">NNMXX-----A---8</AM>
+<AM lemma="Š-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln94211-63-p4s1w7">
 <src.rf>manual</src.rf>

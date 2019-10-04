@@ -191,7 +191,10 @@
 <LM>w#w-mf930713-081-p2s1Bw12</LM>
 </w.rf>
 <form>OSN</form>
-<tag lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930713-081-p2s1Bw13">
 <src.rf>manual</src.rf>
@@ -361,7 +364,10 @@
 <LM>w#w-mf930713-081-p3s1w9</LM>
 </w.rf>
 <form>OSN</form>
-<tag lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930713-081-p3s1w10">
 <src.rf>manual</src.rf>
@@ -1211,7 +1217,10 @@
 <LM>w#w-mf930713-081-p5s1w4</LM>
 </w.rf>
 <form>Warren</form>
-<tag lemma="Warren_;S" src="auto" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Warren_;S" src="auto">NNMS1-----A----</AM>
+<AM lemma="Warren_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930713-081-p5s1w5">
 <src.rf>manual</src.rf>

@@ -35,7 +35,10 @@
 <LM>w#w-lnd92259-022-p1s1w3</LM>
 </w.rf>
 <form>ES</form>
-<tag lemma="ES_:B_;K_^(Evropská_společenství)" src="orig" selected="1">NNNXX-----A---8</tag>
+<tag>
+<AM lemma="ES_:B_;K_^(Evropská_společenství)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="ES-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 </s>
 <s id="m-lnd92259-022-p2s1">
@@ -85,7 +88,11 @@
 <LM>w#w-lnd92259-022-p2s1w6</LM>
 </w.rf>
 <form>kac</form>
-<tag lemma="kac-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="kac-99_:B_;S" src="orig">NNXXX-----A---8</AM>
+<AM lemma="kac-99_:B_;S" src="manual">NNXXX-----A---8</AM>
+<AM lemma="kac-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92259-022-p2s1w7">
 <src.rf>manual</src.rf>
@@ -329,7 +336,10 @@
 <LM>w#w-lnd92259-022-p2s3w7</LM>
 </w.rf>
 <form>VŠZ</form>
-<tag lemma="VŠZ-1_:B_;K_^(Vysoká_škola_zemědělská)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="VŠZ-1_:B_;K_^(Vysoká_škola_zemědělská)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="VŠZ-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd92259-022-p2s3w8">
 <src.rf>manual</src.rf>
@@ -491,7 +501,10 @@
 <LM>w#w-lnd92259-022-p2s4w5</LM>
 </w.rf>
 <form>ing</form>
-<tag lemma="Ing-1_:B_^(inženýr)" src="orig" selected="1">NNMXX-----A---8</tag>
+<tag>
+<AM lemma="Ing-1_:B_^(inženýr)" src="orig">NNMXX-----A---8</AM>
+<AM lemma="ing_:B_^(inženýr)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92259-022-p2s4w6">
 <src.rf>manual</src.rf>
@@ -547,7 +560,10 @@
 <LM>w#w-lnd92259-022-p2s4w12</LM>
 </w.rf>
 <form>ČR</form>
-<tag lemma="ČR-1_:B_;G_^(Česká_republika)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92259-022-p2s4w13">
 <src.rf>manual</src.rf>
@@ -824,7 +840,10 @@
 <LM>w#w-lnd92259-022-p2s6w6</LM>
 </w.rf>
 <form>ing</form>
-<tag lemma="Ing-1_:B_^(inženýr)" src="orig" selected="1">NNMXX-----A---8</tag>
+<tag>
+<AM lemma="Ing-1_:B_^(inženýr)" src="orig">NNMXX-----A---8</AM>
+<AM lemma="ing_:B_^(inženýr)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92259-022-p2s6w7">
 <src.rf>manual</src.rf>
@@ -904,7 +923,10 @@
 <LM>w#w-lnd92259-022-p2s6w16</LM>
 </w.rf>
 <form>ES</form>
-<tag lemma="ES_:B_;K_^(Evropská_společenství)" src="orig" selected="1">NNNXX-----A---8</tag>
+<tag>
+<AM lemma="ES_:B_;K_^(Evropská_společenství)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="ES-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd92259-022-p2s6w17">
 <src.rf>manual</src.rf>

@@ -85,7 +85,10 @@
 <LM>w#w-mf930708-089-p2s1w3</LM>
 </w.rf>
 <form>jsl</form>
-<tag lemma="jsl-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="jsl-99_:B_;S" src="orig">NNXXX-----A---8</AM>
+<AM lemma="jsl-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930708-089-p2s1w4">
 <src.rf>manual</src.rf>
@@ -333,7 +336,10 @@
 <LM>w#w-mf930708-089-p2s1w35</LM>
 </w.rf>
 <form>A</form>
-<tag lemma="A-0_:B_;Y" src="orig" selected="1">NNMXX-----A---8</tag>
+<tag>
+<AM lemma="A-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
+<AM lemma="A-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-mf930708-089-p2s1w36">
 <src.rf>manual</src.rf>
@@ -503,7 +509,10 @@
 <LM>w#w-mf930708-089-p3s1w18</LM>
 </w.rf>
 <form>staví</form>
-<tag lemma="stavět" src="auto" selected="1">VB-S---3P-AA---</tag>
+<tag>
+<AM lemma="stavět" src="auto">VB-S---3P-AA---</AM>
+<AM lemma="stavět_:T" src="manual" selected="1">VB-S---3P-AA---</AM>
+</tag>
 </m>
 <m id="m-mf930708-089-p3s1w19">
 <src.rf>manual</src.rf>
@@ -529,7 +538,10 @@
 <LM>w#w-mf930708-089-p3s2w2</LM>
 </w.rf>
 <form>řekl</form>
-<tag lemma="říci" src="auto" selected="1">VpYS---XR-AA---</tag>
+<tag>
+<AM lemma="říci" src="auto">VpYS---XR-AA---</AM>
+<AM lemma="říci_:W" src="manual" selected="1">VpYS---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-mf930708-089-p3s2w3">
 <src.rf>manual</src.rf>

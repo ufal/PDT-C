@@ -218,7 +218,10 @@
 <LM>w#w-lnd91303-028-p4s1w18</LM>
 </w.rf>
 <form>L</form>
-<tag lemma="L-0_:B_;Y" src="orig" selected="1">NNMXX-----A---8</tag>
+<tag>
+<AM lemma="L-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
+<AM lemma="L-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd91303-028-p4s1w19">
 <src.rf>manual</src.rf>
@@ -522,6 +525,7 @@
 <AM lemma="nalézt" src="orig">VpTP---XR-AA---</AM>
 <AM lemma="nalézt-1_^(někam)" src="auto" recommended="1">VpTP---XR-AA---</AM>
 <AM lemma="nalézt-2" src="auto">VpTP---XR-AA---</AM>
+<AM lemma="nalézt-2_:W" src="manual" selected="1">VpTP---XR-AA---</AM>
 </tag>
 </m>
 <m id="m-lnd91303-028-p4s3w13">

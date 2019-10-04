@@ -912,7 +912,10 @@
 <LM>w#w-ln95044-081-p2s5w19</LM>
 </w.rf>
 <form>World</form>
-<tag lemma="World_;K_,t" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="World_;K_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="World-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln95044-081-p2s5w20">
 <src.rf>manual</src.rf>
@@ -920,7 +923,10 @@
 <LM>w#w-ln95044-081-p2s5w20</LM>
 </w.rf>
 <form>Watch</form>
-<tag lemma="Watch_;K_,t" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="Watch_;K_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="Watch-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln95044-081-p2s5w21">
 <src.rf>manual</src.rf>
@@ -932,6 +938,7 @@
 <AM lemma="Institute_;K_,t" src="orig">NNIXX-----A----</AM>
 <AM lemma="institut" src="auto">NNIS5-----A----</AM>
 <AM lemma="institute_,t" src="auto" recommended="1">NNISX-----A----</AM>
+<AM lemma="Institute-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-ln95044-081-p2s5w22">

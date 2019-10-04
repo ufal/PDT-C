@@ -169,7 +169,7 @@
 <form>Jeseníku</form>
 <tag>
 <AM lemma="Jeseník_;G" src="orig">NNIS2-----A----</AM>
-<AM lemma="Jeseník_;G" src="auto" recommended="1">NNIS2-----A---1</AM>
+<AM lemma="Jeseník_;G" src="auto" recommended="1" selected="1">NNIS2-----A---1</AM>
 <AM lemma="Jeseník_;G" src="auto">NNIS3-----A----</AM>
 <AM lemma="Jeseník_;G" src="auto">NNIS5-----A----</AM>
 <AM lemma="Jeseník_;G" src="auto">NNIS6-----A----</AM>
@@ -937,6 +937,7 @@
 <AM lemma="Salix_;L_,t" src="orig">NNFS1-----A----</AM>
 <AM lemma="Salix" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Salix" src="auto">NNIS4-----A----</AM>
+<AM lemma="Salix-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-vesm9212-024-p3s5w7">
@@ -945,7 +946,10 @@
 <LM>w#w-vesm9212-024-p3s5w7</LM>
 </w.rf>
 <form>oficinalis</form>
-<tag lemma="oficinalis_;L_,t" src="orig" selected="1">AAFS1----1A----</tag>
+<tag>
+<AM lemma="oficinalis_;L_,t" src="orig">AAFS1----1A----</AM>
+<AM lemma="oficinalis-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-vesm9212-024-p3s5w8">
 <src.rf>manual</src.rf>
@@ -993,7 +997,10 @@
 <LM>w#w-vesm9212-024-p3s5w13</LM>
 </w.rf>
 <form>Gaultheria</form>
-<tag lemma="Gaultheria_;L_,t" src="orig" selected="1">NNFS1-----A----</tag>
+<tag>
+<AM lemma="Gaultheria_;L_,t" src="orig">NNFS1-----A----</AM>
+<AM lemma="Gaultheria-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-vesm9212-024-p3s5w14">
 <src.rf>manual</src.rf>
@@ -1001,7 +1008,10 @@
 <LM>w#w-vesm9212-024-p3s5w14</LM>
 </w.rf>
 <form>procumbens</form>
-<tag lemma="procumbens_;L_,t" src="orig" selected="1">AAFS1----1A----</tag>
+<tag>
+<AM lemma="procumbens_;L_,t" src="orig">AAFS1----1A----</AM>
+<AM lemma="procumbens-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-vesm9212-024-p3s5w15">
 <src.rf>manual</src.rf>
@@ -1049,7 +1059,10 @@
 <LM>w#w-vesm9212-024-p3s5w20</LM>
 </w.rf>
 <form>Viola</form>
-<tag lemma="Viola_;Y" src="auto" selected="1">NNFS1-----A----</tag>
+<tag>
+<AM lemma="Viola_;Y" src="auto">NNFS1-----A----</AM>
+<AM lemma="Viola-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-vesm9212-024-p3s5w21">
 <src.rf>manual</src.rf>
@@ -1057,7 +1070,10 @@
 <LM>w#w-vesm9212-024-p3s5w21</LM>
 </w.rf>
 <form>tricolora</form>
-<tag lemma="tricolora_;L_,t" src="orig" selected="1">AAFS1----1A----</tag>
+<tag>
+<AM lemma="tricolora_;L_,t" src="orig">AAFS1----1A----</AM>
+<AM lemma="tricolora-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-vesm9212-024-p3s5w22">
 <src.rf>manual</src.rf>
@@ -2140,7 +2156,10 @@
 <LM>w#w-vesm9212-024-p5s3w1</LM>
 </w.rf>
 <form>Larry</form>
-<tag lemma="Larry_;Y_,t" src="auto" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Larry_;Y_,t" src="auto">NNMS1-----A----</AM>
+<AM lemma="Larry_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-vesm9212-024-p5s3w2">
 <src.rf>manual</src.rf>
@@ -2220,7 +2239,10 @@
 <LM>w#w-vesm9212-024-p5s3w11</LM>
 </w.rf>
 <form>Parasitology</form>
-<tag lemma="Parasitology_;R_,t" src="orig" selected="1">NNFSX-----A----</tag>
+<tag>
+<AM lemma="Parasitology_;R_,t" src="orig">NNFSX-----A----</AM>
+<AM lemma="Parasitology-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-vesm9212-024-p5s3w12">
 <src.rf>manual</src.rf>
@@ -2228,7 +2250,10 @@
 <LM>w#w-vesm9212-024-p5s3w12</LM>
 </w.rf>
 <form>Today</form>
-<tag lemma="Today_;R_,t" src="orig" selected="1">Db-------------</tag>
+<tag>
+<AM lemma="Today_;R_,t" src="orig">Db-------------</AM>
+<AM lemma="Today-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-vesm9212-024-p5s3w13">
 <src.rf>manual</src.rf>
@@ -4404,7 +4429,10 @@
 <LM>w#w-vesm9212-024-p7s6w17</LM>
 </w.rf>
 <form>Aspilia</form>
-<tag lemma="Aspilia_;L_,t" src="orig" selected="1">NNFS1-----A----</tag>
+<tag>
+<AM lemma="Aspilia_;L_,t" src="orig">NNFS1-----A----</AM>
+<AM lemma="Aspilia-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-vesm9212-024-p7s6w18">
 <src.rf>manual</src.rf>
@@ -4542,7 +4570,10 @@
 <LM>w#w-vesm9212-024-p7s7w9</LM>
 </w.rf>
 <form>Aspilia</form>
-<tag lemma="Aspilia_;L_,t" src="orig" selected="1">NNFS1-----A----</tag>
+<tag>
+<AM lemma="Aspilia_;L_,t" src="orig">NNFS1-----A----</AM>
+<AM lemma="Aspilia-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-vesm9212-024-p7s7w10">
 <src.rf>manual</src.rf>
@@ -4550,7 +4581,10 @@
 <LM>w#w-vesm9212-024-p7s7w10</LM>
 </w.rf>
 <form>pluriseta</form>
-<tag lemma="pluriseta_;L_,t" src="orig" selected="1">AAFS1----1A----</tag>
+<tag>
+<AM lemma="pluriseta_;L_,t" src="orig">AAFS1----1A----</AM>
+<AM lemma="pluriseta-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-vesm9212-024-p7s7w11">
 <src.rf>manual</src.rf>
@@ -4585,6 +4619,7 @@
 <AM lemma="a-8_:B_^(ost._zkratka)" src="auto">XX------------8</AM>
 <AM lemma="akciový_:B_^(jen_akciová_společnost)" src="auto">AAXXX----1A---8</AM>
 <AM lemma="á_,t" src="auto">RF------------1</AM>
+<AM lemma="A-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-vesm9212-024-p7s7w13">
@@ -4601,7 +4636,10 @@
 <LM>w#w-vesm9212-024-p7s7w14</LM>
 </w.rf>
 <form>rudis</form>
-<tag lemma="rudis_;L_,t" src="orig" selected="1">AAFS1----1A----</tag>
+<tag>
+<AM lemma="rudis_;L_,t" src="orig">AAFS1----1A----</AM>
+<AM lemma="rudis-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-vesm9212-024-p7s7w15">
 <src.rf>manual</src.rf>
@@ -4636,6 +4674,7 @@
 <AM lemma="a-8_:B_^(ost._zkratka)" src="auto">XX------------8</AM>
 <AM lemma="akciový_:B_^(jen_akciová_společnost)" src="auto">AAXXX----1A---8</AM>
 <AM lemma="á_,t" src="auto">RF------------1</AM>
+<AM lemma="A-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-vesm9212-024-p7s7w17">
@@ -4652,7 +4691,10 @@
 <LM>w#w-vesm9212-024-p7s7w18</LM>
 </w.rf>
 <form>mossambicensis</form>
-<tag lemma="mossambicensis_;L_,t" src="orig" selected="1">AAFS1----1A----</tag>
+<tag>
+<AM lemma="mossambicensis_;L_,t" src="orig">AAFS1----1A----</AM>
+<AM lemma="mossambicensis-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-vesm9212-024-p7s7w19">
 <src.rf>manual</src.rf>

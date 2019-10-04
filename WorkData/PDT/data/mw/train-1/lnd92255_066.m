@@ -557,7 +557,10 @@
 <LM>w#w-lnd92255-066-p3s4w19</LM>
 </w.rf>
 <form>PKK</form>
-<tag lemma="PKK-1_:B_;K_;p_^(Strana_kurdských_pracujících)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="PKK-1_:B_;K_;p_^(Strana_kurdských_pracujících)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="PKK-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd92255-066-p3s4w20">
 <src.rf>manual</src.rf>
@@ -671,7 +674,10 @@
 <LM>w#w-lnd92255-066-p3s5w3</LM>
 </w.rf>
 <form>OSN</form>
-<tag lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92255-066-p3s5w4">
 <src.rf>manual</src.rf>

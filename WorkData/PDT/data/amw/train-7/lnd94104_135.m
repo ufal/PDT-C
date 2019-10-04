@@ -83,7 +83,10 @@
 <LM>w#w-lnd94104-135-p1s1Aw9</LM>
 </w.rf>
 <form>Filip</form>
-<tag lemma="Filip_;Y" src="orig" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Filip_;Y" src="orig">NNMS1-----A----</AM>
+<AM lemma="Filip_;Y_;S" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 </s>
 <s id="m-lnd94104-135-p1s1B">
@@ -599,7 +602,10 @@
 <LM>w#w-lnd94104-135-p1s2w37</LM>
 </w.rf>
 <form>asyl</form>
-<tag lemma="azyl_,x" src="orig" selected="1">NNIS4-----A----</tag>
+<tag>
+<AM lemma="azyl_,x" src="orig">NNIS4-----A----</AM>
+<AM lemma="asyl_,s_^(^DD**azyl)" src="manual" selected="1">NNIS4-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd94104-135-p1s2w38">
 <src.rf>manual</src.rf>
@@ -676,6 +682,7 @@
 <tag>
 <AM lemma="NSR_;G" src="orig">NNFSX-----A----</AM>
 <AM lemma="NSR_:B_;G" src="auto" recommended="1">NNFSX-----A---8</AM>
+<AM lemma="NSR-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-lnd94104-135-p1s3w5">
@@ -830,7 +837,7 @@
 <form>kamkoliv</form>
 <tag>
 <AM lemma="kamkoliv" src="orig">Db-------------</AM>
-<AM lemma="kamkoli" src="auto" recommended="1">Db------------1</AM>
+<AM lemma="kamkoli" src="auto" recommended="1" selected="1">Db------------1</AM>
 </tag>
 </m>
 <m id="m-lnd94104-135-p1s3w24">
@@ -1117,7 +1124,7 @@
 <form>totiž</form>
 <tag>
 <AM lemma="totiž" src="orig">Db-------------</AM>
-<AM lemma="totiž-1" src="auto" recommended="1">J^-------------</AM>
+<AM lemma="totiž-1" src="auto" recommended="1" selected="1">J^-------------</AM>
 <AM lemma="totiž-2" src="auto">TT-------------</AM>
 </tag>
 </m>
@@ -1162,7 +1169,7 @@
 <tag>
 <AM lemma="tedy" src="orig">Db-------------</AM>
 <AM lemma="tedy-1" src="auto">TT-------------</AM>
-<AM lemma="tedy-2" src="auto" recommended="1">J^-------------</AM>
+<AM lemma="tedy-2" src="auto" recommended="1" selected="1">J^-------------</AM>
 </tag>
 </m>
 <m id="m-lnd94104-135-p1s5w9">
@@ -1264,7 +1271,7 @@
 <tag>
 <AM lemma="tedy" src="orig">Db-------------</AM>
 <AM lemma="tedy-1" src="auto">TT-------------</AM>
-<AM lemma="tedy-2" src="auto" recommended="1">J^-------------</AM>
+<AM lemma="tedy-2" src="auto" recommended="1" selected="1">J^-------------</AM>
 </tag>
 </m>
 <m id="m-lnd94104-135-p1s6w9">
@@ -1513,7 +1520,10 @@
 <LM>w#w-lnd94104-135-p1s6w42</LM>
 </w.rf>
 <form>Alláhem</form>
-<tag lemma="Alláh_;S" src="orig" selected="1">NNMS7-----A----</tag>
+<tag>
+<AM lemma="Alláh_;S" src="orig">NNMS7-----A----</AM>
+<AM lemma="Alláh_;Y_;S" src="manual" selected="1">NNMS7-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd94104-135-p1s6w43">
 <src.rf>manual</src.rf>
@@ -1633,7 +1643,10 @@
 <LM>w#w-lnd94104-135-p1s6w58</LM>
 </w.rf>
 <form>Alláh</form>
-<tag lemma="Alláh_;S_;Y" src="orig" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Alláh_;S_;Y" src="orig">NNMS1-----A----</AM>
+<AM lemma="Alláh_;Y_;S" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd94104-135-p1s6w59">
 <src.rf>manual</src.rf>
@@ -2723,7 +2736,10 @@
 <LM>w#w-lnd94104-135-p1s12w44</LM>
 </w.rf>
 <form>San</form>
-<tag lemma="San-2_;G" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="San-2_;G" src="orig">AAXXX----1A----</AM>
+<AM lemma="San-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-lnd94104-135-p1s12w45">
 <src.rf>manual</src.rf>
@@ -2731,7 +2747,10 @@
 <LM>w#w-lnd94104-135-p1s12w45</LM>
 </w.rf>
 <form>Giovanni</form>
-<tag lemma="Giovanni_;Y" src="orig" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Giovanni_;Y" src="orig">NNMS1-----A----</AM>
+<AM lemma="Giovanni-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-lnd94104-135-p1s12w46">
 <src.rf>manual</src.rf>
@@ -2739,7 +2758,10 @@
 <LM>w#w-lnd94104-135-p1s12w46</LM>
 </w.rf>
 <form>in</form>
-<tag lemma="in-1_,t_^(angl._v)" src="orig" selected="1">RR--X----------</tag>
+<tag>
+<AM lemma="in-1_,t_^(angl._v)" src="orig">RR--X----------</AM>
+<AM lemma="in-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-lnd94104-135-p1s12w47">
 <src.rf>manual</src.rf>
@@ -2747,7 +2769,10 @@
 <LM>w#w-lnd94104-135-p1s12w47</LM>
 </w.rf>
 <form>Laterano</form>
-<tag lemma="Laterano_;G" src="orig" selected="1">NNNXX-----A----</tag>
+<tag>
+<AM lemma="Laterano_;G" src="orig">NNNXX-----A----</AM>
+<AM lemma="Laterano-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-lnd94104-135-p1s12w48">
 <src.rf>manual</src.rf>
@@ -3171,7 +3196,10 @@
 <LM>w#w-lnd94104-135-p1s12w101</LM>
 </w.rf>
 <form>Hagia</form>
-<tag lemma="Hagia_,t" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="Hagia_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="Hagia-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-lnd94104-135-p1s12w102">
 <src.rf>manual</src.rf>
@@ -3179,7 +3207,10 @@
 <LM>w#w-lnd94104-135-p1s12w102</LM>
 </w.rf>
 <form>Sofia</form>
-<tag lemma="Sofie-2_;Y" src="orig" selected="1">NNFS1-----A---1</tag>
+<tag>
+<AM lemma="Sofie-2_;Y" src="orig">NNFS1-----A---1</AM>
+<AM lemma="Sofia-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-lnd94104-135-p1s12w103">
 <src.rf>manual</src.rf>
@@ -3278,6 +3309,7 @@
 <tag>
 <AM lemma="Notre_;m_,t" src="orig">PSFSX-P1-------</AM>
 <AM lemma="Notre_;G_,t" src="auto" recommended="1">AAXXX----1A----</AM>
+<AM lemma="Notre-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-lnd94104-135-p1s12w115">
@@ -3290,6 +3322,7 @@
 <AM lemma="Dame_;m" src="orig">NNFXX-----A----</AM>
 <AM lemma="Dam_;S" src="auto">NNMS5-----A----</AM>
 <AM lemma="Dame_;G_,t" src="auto" recommended="1">NNNXX-----A----</AM>
+<AM lemma="Dame-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-lnd94104-135-p1s12w116">
@@ -3514,7 +3547,10 @@
 <LM>w#w-lnd94104-135-p1s12w143</LM>
 </w.rf>
 <form>ateismu</form>
-<tag lemma="ateismus" src="orig" selected="1">NNIS2-----A----</tag>
+<tag>
+<AM lemma="ateismus" src="orig">NNIS2-----A----</AM>
+<AM lemma="ateismus_,s_^(^DD**ateizmus)" src="manual" selected="1">NNIS2-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd94104-135-p1s12w144">
 <src.rf>manual</src.rf>

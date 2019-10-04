@@ -600,6 +600,7 @@
 <AM lemma="Jajce_;G" src="auto" recommended="1">NNIP1-----A----</AM>
 <AM lemma="Jajce_;G" src="auto">NNIP4-----A----</AM>
 <AM lemma="Jajce_;G" src="auto">NNIP5-----A----</AM>
+<AM lemma="Jajce_;G" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920924-133-p2s5w13">
@@ -660,6 +661,8 @@
 <AM lemma="Banja_;G" src="orig">AAXXX----1A----</AM>
 <AM lemma="Banja_;G" src="auto">NNFS1-----A----</AM>
 <AM lemma="bendžo" src="auto" recommended="1">NNNS2-----A----</AM>
+<AM lemma="Banja_;G" src="manual">NNFXX-----A----</AM>
+<AM lemma="Banja-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-mf920924-133-p2s5w20">
@@ -827,7 +830,7 @@
 <tag>
 <AM lemma="Sarajevo_;G" src="orig">NNNS6-----A----</AM>
 <AM lemma="Sarajevo_;G" src="auto">NNNS3-----A----</AM>
-<AM lemma="Sarajevo_;G" src="auto" recommended="1">NNNS6-----A---1</AM>
+<AM lemma="Sarajevo_;G" src="auto" recommended="1" selected="1">NNNS6-----A---1</AM>
 </tag>
 </m>
 <m id="m-mf920924-133-p2s7w9">
@@ -838,7 +841,7 @@
 <form>zasáhla</form>
 <tag>
 <AM lemma="zasáhnout" src="orig">VpQW---XR-AA---</AM>
-<AM lemma="zasáhnout_:W" src="auto" recommended="1">VpQW---XR-AA--1</AM>
+<AM lemma="zasáhnout_:W" src="auto" recommended="1" selected="1">VpQW---XR-AA--1</AM>
 </tag>
 </m>
 <m id="m-mf920924-133-p2s7w10">
@@ -983,7 +986,10 @@
 <LM>w#w-mf920924-133-p2s7w27</LM>
 </w.rf>
 <form>hodně</form>
-<tag lemma="hodně-2_^(nezlobivý)_(*3ý-2)" src="auto" selected="1">Dg-------1A----</tag>
+<tag>
+<AM lemma="hodně-2_^(nezlobivý)_(*3ý-2)" src="auto">Dg-------1A----</AM>
+<AM lemma="hodně-1_^(hodně_+_2._p.,_hodně_peněz)" src="manual" selected="1">Ca--2----------</AM>
+</tag>
 </m>
 <m id="m-mf920924-133-p2s7w28">
 <src.rf>manual</src.rf>
@@ -1405,6 +1411,7 @@
 <AM lemma="Novo_;K" src="auto">NNNS5-----A----</AM>
 <AM lemma="nova" src="auto">NNFS5-----A----</AM>
 <AM lemma="novo-2_^(př._na_novo)" src="auto">NNNS4-----A----</AM>
+<AM lemma="Novo-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-mf920924-133-p2s10w22">
@@ -1664,7 +1671,7 @@
 </w.rf>
 <form>Teslic</form>
 <tag>
-<AM lemma="Teslic_;G" src="orig">NNIS1-----A----</AM>
+<AM lemma="Teslic_;G" src="orig" selected="1">NNIS1-----A----</AM>
 <AM lemma="teslice_^(sekera)" src="auto" recommended="1">NNFP2-----A----</AM>
 </tag>
 </m>

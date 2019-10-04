@@ -476,7 +476,7 @@
 <tag>
 <AM lemma="tedy" src="orig">Db-------------</AM>
 <AM lemma="tedy-1" src="auto">TT-------------</AM>
-<AM lemma="tedy-2" src="auto" recommended="1">J^-------------</AM>
+<AM lemma="tedy-2" src="auto" recommended="1" selected="1">J^-------------</AM>
 </tag>
 </m>
 <m id="m-ln95049-106-p2s1Cw13">
@@ -679,7 +679,10 @@
 <LM>w#w-ln95049-106-p2s2w6</LM>
 </w.rf>
 <form>rady</form>
-<tag lemma="rada-3_^(poradní_sbor;_př._Česká_národní_r.)" src="orig" selected="1">NNFS2-----A----</tag>
+<tag>
+<AM lemma="rada-3_^(poradní_sbor;_př._Česká_národní_r.)" src="orig">NNFS2-----A----</AM>
+<AM lemma="rada-1_^(př._dát_někomu_dobrou_radu;poradní_sbor)" src="manual" selected="1">NNFS2-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95049-106-p2s2w7">
 <src.rf>manual</src.rf>
@@ -1771,7 +1774,7 @@
 <tag>
 <AM lemma="Březno_;G" src="orig">NNNS6-----A----</AM>
 <AM lemma="Březno_;G" src="auto">NNNS3-----A----</AM>
-<AM lemma="Březno_;G" src="auto">NNNS6-----A---1</AM>
+<AM lemma="Březno_;G" src="auto" selected="1">NNNS6-----A---1</AM>
 <AM lemma="Března_;S" src="auto">NNMS4-----A----</AM>
 <AM lemma="březen" src="auto">NNIS3-----A----</AM>
 <AM lemma="březen" src="auto" recommended="1">NNIS6-----A----</AM>
@@ -1995,7 +1998,10 @@
 <LM>w#w-ln95049-106-p5s2w16</LM>
 </w.rf>
 <form>tzv</form>
-<tag lemma="takzvaný_:B" src="orig" selected="1">AAXXX----1A---8</tag>
+<tag>
+<AM lemma="takzvaný_:B" src="orig">AAXXX----1A---8</AM>
+<AM lemma="takzvaný" src="manual" selected="1">AAXXX----1A---8</AM>
+</tag>
 </m>
 <m id="m-ln95049-106-p5s2w17">
 <src.rf>manual</src.rf>

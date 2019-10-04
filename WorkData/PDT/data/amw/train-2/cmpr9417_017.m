@@ -93,7 +93,10 @@
 <LM>w#w-cmpr9417-017-p3s1w7</LM>
 </w.rf>
 <form>straně</form>
-<tag lemma="strana-4_^(v_knize,_rukopise,...)" src="orig" selected="1">NNFS6-----A----</tag>
+<tag>
+<AM lemma="strana-4_^(v_knize,_rukopise,...)" src="orig">NNFS6-----A----</AM>
+<AM lemma="strana" src="manual" selected="1">NNFS6-----A----</AM>
+</tag>
 </m>
 <m id="m-cmpr9417-017-p3s1w8">
 <src.rf>manual</src.rf>
@@ -603,7 +606,10 @@
 <LM>w#w-cmpr9417-017-p4s2w10</LM>
 </w.rf>
 <form>premií</form>
-<tag lemma="prémie_,x" src="orig" selected="1">NNFS7-----A----</tag>
+<tag>
+<AM lemma="prémie_,x" src="orig">NNFS7-----A----</AM>
+<AM lemma="premie_,s_^(^DD**prémie)" src="manual" selected="1">NNFS7-----A----</AM>
+</tag>
 </m>
 <m id="m-cmpr9417-017-p4s2w11">
 <src.rf>manual</src.rf>
@@ -752,6 +758,7 @@
 <tag>
 <AM lemma="Kč" src="orig">NNFXX-----A----</AM>
 <AM lemma="Kč_:B" src="auto" recommended="1">NNFXX-----A---8</AM>
+<AM lemma="Kč_:B" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9417-017-p4s3w18">

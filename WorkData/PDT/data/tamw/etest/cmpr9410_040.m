@@ -1191,7 +1191,10 @@
 <LM>w#w-cmpr9410-040-p8s4w8</LM>
 </w.rf>
 <form>kurzy</form>
-<tag lemma="kurs" src="auto" selected="1">NNIP4-----A----</tag>
+<tag>
+<AM lemma="kurs" src="auto">NNIP4-----A----</AM>
+<AM lemma="kurz" src="manual" selected="1">NNIP4-----A----</AM>
+</tag>
 </m>
 <m id="m-cmpr9410-040-p8s4w9">
 <src.rf>manual</src.rf>
@@ -1755,7 +1758,7 @@
 <form>nikoliv</form>
 <tag>
 <AM lemma="nikoliv" src="orig">Db-------------</AM>
-<AM lemma="nikoli" src="auto" recommended="1">TT------------1</AM>
+<AM lemma="nikoli" src="auto" recommended="1" selected="1">TT------------1</AM>
 </tag>
 </m>
 <m id="m-cmpr9410-040-p10s3w8">
@@ -1785,6 +1788,8 @@
 <AM lemma="fach_,h" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="fach_,h" src="auto">NNIS4-----A----</AM>
 <AM lemma="facha_,l_^(zaměstnání)" src="auto">NNFP2-----A----</AM>
+<AM lemma="fach_,t" src="manual">NNXXX-----A----</AM>
+<AM lemma="fach-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-cmpr9410-040-p10s3w11">
@@ -1793,7 +1798,11 @@
 <LM>w#w-cmpr9410-040-p10s3w11</LM>
 </w.rf>
 <form>hochschule</form>
-<tag lemma="hochschule_,t" src="orig" selected="1">NNFXX-----A----</tag>
+<tag>
+<AM lemma="hochschule_,t" src="orig">NNFXX-----A----</AM>
+<AM lemma="hochschule_,t" src="manual">NNXXX-----A----</AM>
+<AM lemma="hochschule-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-cmpr9410-040-p10s3w12">
 <src.rf>manual</src.rf>
@@ -1838,7 +1847,7 @@
 <tag>
 <AM lemma="tedy" src="orig">Db-------------</AM>
 <AM lemma="tedy-1" src="auto">TT-------------</AM>
-<AM lemma="tedy-2" src="auto" recommended="1">J^-------------</AM>
+<AM lemma="tedy-2" src="auto" recommended="1" selected="1">J^-------------</AM>
 </tag>
 </m>
 <m id="m-cmpr9410-040-p10s4w4">
@@ -3086,7 +3095,7 @@
 <form>jedině</form>
 <tag>
 <AM lemma="jedině_^(*1ý)" src="orig">Dg-------1A----</AM>
-<AM lemma="jedině" src="auto" recommended="1">Db-------------</AM>
+<AM lemma="jedině" src="auto" recommended="1" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m-cmpr9410-040-p12s4w8">

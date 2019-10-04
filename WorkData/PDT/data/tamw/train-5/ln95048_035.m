@@ -43,7 +43,10 @@
 <LM>w#w-ln95048-035-p1s1w4</LM>
 </w.rf>
 <form>nar</form>
-<tag lemma="narozený_:B" src="orig" selected="1">AAXXX----1A---8</tag>
+<tag>
+<AM lemma="narozený_:B" src="orig">AAXXX----1A---8</AM>
+<AM lemma="narozený" src="manual" selected="1">AAXXX----1A---8</AM>
+</tag>
 </m>
 <m id="m-ln95048-035-p1s1w5">
 <src.rf>manual</src.rf>
@@ -575,7 +578,10 @@
 <LM>w#w-ln95048-035-p1s4w18</LM>
 </w.rf>
 <form>konkursu</form>
-<tag lemma="konkurs_^(úpadek;;soutěž)" src="auto" selected="1">NNIS6-----A---1</tag>
+<tag>
+<AM lemma="konkurs_^(úpadek;;soutěž)" src="auto">NNIS6-----A---1</AM>
+<AM lemma="konkurs_,s_^(^DD**konkurz)" src="manual" selected="1">NNIS6-----A---1</AM>
+</tag>
 </m>
 <m id="m-ln95048-035-p1s4w19">
 <src.rf>manual</src.rf>

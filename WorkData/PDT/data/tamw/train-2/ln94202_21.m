@@ -62,6 +62,7 @@
 <tag>
 <AM lemma="USA_;G" src="orig">NNIPX-----A----</AM>
 <AM lemma="USA_:B_;K_,t_^(United_States_of_America)" src="auto" recommended="1">NNIPX-----A---8</AM>
+<AM lemma="USA_:B_;K_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 </s>
@@ -173,6 +174,7 @@
 <tag>
 <AM lemma="USA_;G" src="orig">NNIPX-----A----</AM>
 <AM lemma="USA_:B_;K_,t_^(United_States_of_America)" src="auto" recommended="1">NNIPX-----A---8</AM>
+<AM lemma="USA_:B_;K_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94202-21-p2s1Bw12">
@@ -407,7 +409,7 @@
 <AM lemma="jakýkoliv" src="orig">PZNP1---------1</AM>
 <AM lemma="jakýkoli" src="auto">PZFS1----------</AM>
 <AM lemma="jakýkoli" src="auto">PZFS5----------</AM>
-<AM lemma="jakýkoli" src="auto" recommended="1">PZNP1----------</AM>
+<AM lemma="jakýkoli" src="auto" recommended="1" selected="1">PZNP1----------</AM>
 <AM lemma="jakýkoli" src="auto">PZNP4----------</AM>
 <AM lemma="jakýkoli" src="auto">PZNP5----------</AM>
 </tag>

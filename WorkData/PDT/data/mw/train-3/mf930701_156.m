@@ -77,7 +77,10 @@
 <LM>w#w-mf930701-156-p2s1w1</LM>
 </w.rf>
 <form>Štrasburk</form>
-<tag lemma="Štrasburk_;G" src="orig" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="Štrasburk_;G" src="orig" selected="1">NNIS1-----A----</AM>
+<AM lemma="Štrasburk_;G_,s_^(^DD**Strasburg)" src="manual">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930701-156-p2s1w2">
 <src.rf>manual</src.rf>
@@ -1257,7 +1260,10 @@
 <LM>w#w-mf930701-156-p2s7w20</LM>
 </w.rf>
 <form>ES</form>
-<tag lemma="ES_:B_;K_^(Evropská_společenství)" src="orig" selected="1">NNNXX-----A---8</tag>
+<tag>
+<AM lemma="ES_:B_;K_^(Evropská_společenství)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="ES-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-mf930701-156-p2s7w21">
 <src.rf>manual</src.rf>
@@ -1273,7 +1279,10 @@
 <LM>w#w-mf930701-156-p2s7w22</LM>
 </w.rf>
 <form>NATO</form>
-<tag lemma="NATO_:B_;K_^(North_Atlantic_Treaty_Organization)" src="auto" selected="1">NNNXX-----A---8</tag>
+<tag>
+<AM lemma="NATO_:B_;K_^(North_Atlantic_Treaty_Organization)" src="auto">NNNXX-----A---8</AM>
+<AM lemma="NATO_:B_;K_^(North_Atlantic_Treaty_Organization)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930701-156-p2s7w23">
 <src.rf>manual</src.rf>
@@ -1355,7 +1364,10 @@
 <LM>w#w-mf930701-156-p2s8w3</LM>
 </w.rf>
 <form>jen</form>
-<tag lemma="jen-1" src="auto" selected="1">TT-------------</tag>
+<tag>
+<AM lemma="jen-1" src="auto">TT-------------</AM>
+<AM lemma="jen-4_^(pouze)" src="manual" selected="1">Db-------------</AM>
+</tag>
 </m>
 <m id="m-mf930701-156-p2s8w4">
 <src.rf>manual</src.rf>
@@ -1389,7 +1401,7 @@
 <form>ačkoli</form>
 <tag>
 <AM lemma="ačkoliv" src="orig">J,------------1</AM>
-<AM lemma="ačkoli" src="auto" recommended="1">J,-------------</AM>
+<AM lemma="ačkoli" src="auto" recommended="1" selected="1">J,-------------</AM>
 </tag>
 </m>
 <m id="m-mf930701-156-p2s8w8">
@@ -2228,7 +2240,7 @@
 <form>totiž</form>
 <tag>
 <AM lemma="totiž" src="orig">Db-------------</AM>
-<AM lemma="totiž-1" src="auto" recommended="1">J^-------------</AM>
+<AM lemma="totiž-1" src="auto" recommended="1" selected="1">J^-------------</AM>
 <AM lemma="totiž-2" src="auto">TT-------------</AM>
 </tag>
 </m>
@@ -2310,7 +2322,10 @@
 <LM>w#w-mf930701-156-p2s14w16</LM>
 </w.rf>
 <form>mechanismus</form>
-<tag lemma="mechanismus" src="orig" selected="1">NNIS4-----A----</tag>
+<tag>
+<AM lemma="mechanismus" src="orig">NNIS4-----A----</AM>
+<AM lemma="mechanismus_,s_^(^DD**mechanizmus)" src="manual" selected="1">NNIS4-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930701-156-p2s14w17">
 <src.rf>manual</src.rf>
@@ -2717,6 +2732,7 @@
 <AM lemma="terorizmus" src="auto">NNIS2-----A----</AM>
 <AM lemma="terorizmus" src="auto" recommended="1">NNIS3-----A----</AM>
 <AM lemma="terorizmus" src="auto">NNIS6-----A----</AM>
+<AM lemma="terorismus_,s_^(^DD**terorizmus)" src="manual" selected="1">NNIS3-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930701-156-p2s15w34">
@@ -3443,7 +3459,10 @@
 <LM>w#w-mf930701-156-p2s18w16</LM>
 </w.rf>
 <form>ES</form>
-<tag lemma="ES_:B_;K_^(Evropská_společenství)" src="orig" selected="1">NNNXX-----A---8</tag>
+<tag>
+<AM lemma="ES_:B_;K_^(Evropská_společenství)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="ES-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-mf930701-156-p2s18w17">
 <src.rf>manual</src.rf>
@@ -3718,7 +3737,10 @@
 <LM>w#w-mf930701-156-p2s19w14</LM>
 </w.rf>
 <form>tj</form>
-<tag lemma="tj-1_:B_^(to_je/jest)" src="orig" selected="1">J^------------8</tag>
+<tag>
+<AM lemma="tj-1_:B_^(to_je/jest)" src="orig">J^------------8</AM>
+<AM lemma="tj-1_:B_^(to_je/jest)" src="manual" selected="1">J^-------------</AM>
+</tag>
 </m>
 <m id="m-mf930701-156-p2s19w15">
 <src.rf>manual</src.rf>
@@ -3761,6 +3783,7 @@
 <tag>
 <AM lemma="Kč" src="orig">NNFXX-----A----</AM>
 <AM lemma="Kč_:B" src="auto" recommended="1">NNFXX-----A---8</AM>
+<AM lemma="Kč_:B" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930701-156-p2s19w20">

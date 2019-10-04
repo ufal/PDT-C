@@ -155,6 +155,7 @@
 <AM lemma="Natal_;S" src="orig">NNMS1-----A----</AM>
 <AM lemma="Natal_;G" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Natal_;G" src="auto">NNIS4-----A----</AM>
+<AM lemma="Natal-2_;K" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94205-18-p2s1Bw10">
@@ -189,7 +190,10 @@
 <LM>w#w-ln94205-18-p2s2w2</LM>
 </w.rf>
 <form>řekl</form>
-<tag lemma="říci" src="auto" selected="1">VpYS---XR-AA---</tag>
+<tag>
+<AM lemma="říci" src="auto">VpYS---XR-AA---</AM>
+<AM lemma="říci_:W" src="manual" selected="1">VpYS---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-ln94205-18-p2s2w3">
 <src.rf>manual</src.rf>
@@ -351,7 +355,10 @@
 <LM>w#w-ln94205-18-p3s1w3</LM>
 </w.rf>
 <form>vyvezou</form>
-<tag lemma="vyvézt" src="orig" selected="1">VB-P---3P-AA---</tag>
+<tag>
+<AM lemma="vyvézt" src="orig">VB-P---3P-AA---</AM>
+<AM lemma="vyvézt_:W" src="manual" selected="1">VB-P---3P-AA---</AM>
+</tag>
 </m>
 <m id="m-ln94205-18-p3s1w4">
 <src.rf>manual</src.rf>
@@ -917,7 +924,10 @@
 <LM>w#w-ln94205-18-p4s1w7</LM>
 </w.rf>
 <form>J</form>
-<tag lemma="J-0_:B_;Y" src="orig" selected="1">NNMXX-----A---8</tag>
+<tag>
+<AM lemma="J-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
+<AM lemma="J-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94205-18-p4s1w8">
 <src.rf>manual</src.rf>
@@ -1047,7 +1057,10 @@
 <LM>w#w-ln94205-18-p4s2w3</LM>
 </w.rf>
 <form>šije</form>
-<tag lemma="šít" src="auto" selected="1">VB-S---3P-AA---</tag>
+<tag>
+<AM lemma="šít" src="auto">VB-S---3P-AA---</AM>
+<AM lemma="šít_:T" src="manual" selected="1">VB-S---3P-AA---</AM>
+</tag>
 </m>
 <m id="m-ln94205-18-p4s2w4">
 <src.rf>manual</src.rf>
@@ -1233,7 +1246,10 @@
 <LM>w#w-ln94205-18-p4s3w9</LM>
 </w.rf>
 <form>tzv</form>
-<tag lemma="takzvaný_:B" src="orig" selected="1">AAXXX----1A---8</tag>
+<tag>
+<AM lemma="takzvaný_:B" src="orig">AAXXX----1A---8</AM>
+<AM lemma="takzvaný" src="manual" selected="1">AAXXX----1A---8</AM>
+</tag>
 </m>
 <m id="m-ln94205-18-p4s3w10">
 <src.rf>manual</src.rf>
@@ -1419,7 +1435,10 @@
 <LM>w#w-ln94205-18-p5s1w9</LM>
 </w.rf>
 <form>dosáhnout</form>
-<tag lemma="dosáhnout" src="orig" selected="1">Vf--------A----</tag>
+<tag>
+<AM lemma="dosáhnout" src="orig">Vf--------A----</AM>
+<AM lemma="dosáhnout_:W" src="manual" selected="1">Vf--------A----</AM>
+</tag>
 </m>
 <m id="m-ln94205-18-p5s1w10">
 <src.rf>manual</src.rf>

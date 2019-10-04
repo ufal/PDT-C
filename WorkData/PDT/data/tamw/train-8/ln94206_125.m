@@ -53,7 +53,10 @@
 <LM>w#w-ln94206-125-p2s1Aw1</LM>
 </w.rf>
 <form>New</form>
-<tag lemma="New-1_;G_,t_^(součást_míst._jmen)" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="New-1_;G_,t_^(součást_míst._jmen)" src="orig">AAXXX----1A----</AM>
+<AM lemma="New-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94206-125-p2s1Aw2">
 <src.rf>manual</src.rf>
@@ -78,7 +81,7 @@
 </w.rf>
 <form>ad</form>
 <tag>
-<AM lemma="ad-99_:B_;S" src="orig">NNXXX-----A---8</AM>
+<AM lemma="ad-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</AM>
 <AM lemma="ad_,t" src="auto">RR--1----------</AM>
 <AM lemma="adalší_:B" src="auto" recommended="1">AAXXX----1A---8</AM>
 </tag>
@@ -171,7 +174,10 @@
 <LM>w#w-ln94206-125-p2s1Bw9</LM>
 </w.rf>
 <form>US</form>
-<tag lemma="US-3_:B_;m_,t_^(americký)" src="orig" selected="1">AAXXX----1A---8</tag>
+<tag>
+<AM lemma="US-3_:B_;m_,t_^(americký)" src="orig">AAXXX----1A---8</AM>
+<AM lemma="US-2_:B_^(americký)" src="manual" selected="1">AAXXX----1A----</AM>
+</tag>
 </m>
 <m id="m-ln94206-125-p2s1Bw10">
 <src.rf>manual</src.rf>
@@ -179,7 +185,10 @@
 <LM>w#w-ln94206-125-p2s1Bw10</LM>
 </w.rf>
 <form>Open</form>
-<tag lemma="Open-1_,t_^(v_názvu_např._sport._soutěží,_&quot;otevřený&quot;)" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="Open-1_,t_^(v_názvu_např._sport._soutěží,_&quot;otevřený&quot;)" src="orig">AAXXX----1A----</AM>
+<AM lemma="Open-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94206-125-p2s1Bw11">
 <src.rf>manual</src.rf>
@@ -301,7 +310,10 @@
 <LM>w#w-ln94206-125-p2s2w9</LM>
 </w.rf>
 <form>Flushing</form>
-<tag lemma="Flushing_;G_,t_^(Flushing_Meadow)" src="auto" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="Flushing_;G_,t_^(Flushing_Meadow)" src="auto">AAXXX----1A----</AM>
+<AM lemma="Flushing-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94206-125-p2s2w10">
 <src.rf>manual</src.rf>
@@ -309,7 +321,10 @@
 <LM>w#w-ln94206-125-p2s2w10</LM>
 </w.rf>
 <form>Meadows</form>
-<tag lemma="Meadows_;G_,t" src="auto" selected="1">NNFPX-----A----</tag>
+<tag>
+<AM lemma="Meadows_;G_,t" src="auto">NNFPX-----A----</AM>
+<AM lemma="Meadows-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94206-125-p2s2w11">
 <src.rf>manual</src.rf>
@@ -965,7 +980,10 @@
 <LM>w#w-ln94206-125-p2s6w21</LM>
 </w.rf>
 <form>New</form>
-<tag lemma="New-1_;G_,t_^(součást_míst._jmen)" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="New-1_;G_,t_^(součást_míst._jmen)" src="orig">AAXXX----1A----</AM>
+<AM lemma="New-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94206-125-p2s6w22">
 <src.rf>manual</src.rf>

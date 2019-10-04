@@ -35,7 +35,10 @@
 <LM>w#w-ln94210-41-p1s1w3</LM>
 </w.rf>
 <form>Svatavě</form>
-<tag lemma="Svatava_;Y" src="orig" selected="1">NNFS6-----A----</tag>
+<tag>
+<AM lemma="Svatava_;Y" src="orig">NNFS6-----A----</AM>
+<AM lemma="Svatava-2_;G" src="manual" selected="1">NNFS6-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94210-41-p1s1w4">
 <src.rf>manual</src.rf>
@@ -151,7 +154,10 @@
 <LM>w#w-ln94210-41-p2s1Bw8</LM>
 </w.rf>
 <form>Kraslic</form>
-<tag lemma="kraslice" src="orig" selected="1">NNFP2-----A----</tag>
+<tag>
+<AM lemma="kraslice" src="orig">NNFP2-----A----</AM>
+<AM lemma="Kraslice_;G" src="manual" selected="1">NNFP2-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94210-41-p2s1Bw9">
 <src.rf>manual</src.rf>
@@ -170,7 +176,7 @@
 <tag>
 <AM lemma="sokolovsko_;G" src="orig">NNNS6-----A----</AM>
 <AM lemma="Sokolovsko_;G" src="auto">NNNS3-----A----</AM>
-<AM lemma="Sokolovsko_;G" src="auto" recommended="1">NNNS6-----A----</AM>
+<AM lemma="Sokolovsko_;G" src="auto" recommended="1" selected="1">NNNS6-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94210-41-p2s1Bw11">
@@ -195,7 +201,10 @@
 <LM>w#w-ln94210-41-p2s1Bw13</LM>
 </w.rf>
 <form>Svatavě</form>
-<tag lemma="Svatava_;Y" src="orig" selected="1">NNFS6-----A----</tag>
+<tag>
+<AM lemma="Svatava_;Y" src="orig">NNFS6-----A----</AM>
+<AM lemma="Svatava-2_;G" src="manual" selected="1">NNFS6-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94210-41-p2s1Bw14">
 <src.rf>manual</src.rf>
@@ -438,7 +447,10 @@
 <LM>w#w-ln94210-41-p2s2w19</LM>
 </w.rf>
 <form>SRN</form>
-<tag lemma="SRN_:B_;G" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="SRN_:B_;G" src="orig">NNFXX-----A---8</AM>
+<AM lemma="SRN-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94210-41-p2s2w20">
 <src.rf>manual</src.rf>
@@ -821,7 +833,7 @@
 <form>žaber</form>
 <tag>
 <AM lemma="žábry_,a" src="orig">NNFP2-----A----</AM>
-<AM lemma="žábra" src="auto" recommended="1">NNFP2-----A----</AM>
+<AM lemma="žábra" src="auto" recommended="1" selected="1">NNFP2-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94210-41-p2s4w20">
@@ -912,7 +924,10 @@
 <LM>w#w-ln94210-41-p2s5w10</LM>
 </w.rf>
 <form>Svatavy</form>
-<tag lemma="Svatava_;Y" src="orig" selected="1">NNFS2-----A----</tag>
+<tag>
+<AM lemma="Svatava_;Y" src="orig">NNFS2-----A----</AM>
+<AM lemma="Svatava-2_;G" src="manual" selected="1">NNFS2-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94210-41-p2s5w11">
 <src.rf>manual</src.rf>

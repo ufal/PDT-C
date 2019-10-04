@@ -217,7 +217,10 @@
 <LM>w#w-ln95046-038-p2s2w6</LM>
 </w.rf>
 <form>ČMFS</form>
-<tag lemma="ČMFS-1_:B_;K_;w_^(Českomoravský_fotbalový_svaz)" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="ČMFS-1_:B_;K_;w_^(Českomoravský_fotbalový_svaz)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="ČMFS-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95046-038-p2s2w7">
 <src.rf>manual</src.rf>
@@ -353,7 +356,10 @@
 <LM>w#w-ln95046-038-p2s2w23</LM>
 </w.rf>
 <form>ČR</form>
-<tag lemma="ČR-1_:B_;G_^(Česká_republika)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95046-038-p2s2w24">
 <src.rf>manual</src.rf>
@@ -365,6 +371,8 @@
 <AM lemma="Active_;K_,t" src="orig">AAXXX----1A----</AM>
 <AM lemma="Activ_;K" src="auto">NNIS5-----A----</AM>
 <AM lemma="Active_;K" src="auto" recommended="1">NNNSX-----A----</AM>
+<AM lemma="active_,t" src="manual">AAXXX----1A----</AM>
+<AM lemma="Active-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-ln95046-038-p2s2w25">
@@ -373,7 +381,12 @@
 <LM>w#w-ln95046-038-p2s2w25</LM>
 </w.rf>
 <form>Sports</form>
-<tag lemma="Sport_;K_,t" src="orig" selected="1">NNIPX-----A----</tag>
+<tag>
+<AM lemma="Sport_;K_,t" src="orig">NNIPX-----A----</AM>
+<AM lemma="sport_,t" src="manual">NNIPX-----A----</AM>
+<AM lemma="sports_,t" src="manual">NNXXX-----A----</AM>
+<AM lemma="Sports-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln95046-038-p2s2w26">
 <src.rf>manual</src.rf>
@@ -500,6 +513,8 @@
 <AM lemma="Street_;G_,t" src="auto">NNIS1-----A----</AM>
 <AM lemma="Street_;G_,t" src="auto" recommended="1">NNIS4-----A----</AM>
 <AM lemma="Street_;G_,t" src="auto">NNXXX-----A----</AM>
+<AM lemma="street_,t" src="manual">NNXXX-----A----</AM>
+<AM lemma="Street-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-ln95046-038-p2s3w15">
@@ -508,7 +523,11 @@
 <LM>w#w-ln95046-038-p2s3w15</LM>
 </w.rf>
 <form>Soccer</form>
-<tag lemma="Soccer_;m_,t_^(fotbal)" src="orig" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="Soccer_;m_,t_^(fotbal)" src="orig">NNIS1-----A----</AM>
+<AM lemma="soccer_,t" src="manual">NNXXX-----A----</AM>
+<AM lemma="Soccer-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln95046-038-p2s3w16">
 <src.rf>manual</src.rf>
@@ -572,7 +591,10 @@
 <LM>w#w-ln95046-038-p2s3w23</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-2" src="auto" selected="1">Dg-------2A----</tag>
+<tag>
+<AM lemma="hodně-2" src="auto">Dg-------2A----</AM>
+<AM lemma="hodně-3" src="manual" selected="1">Dg-------2A----</AM>
+</tag>
 </m>
 <m id="m-ln95046-038-p2s3w24">
 <src.rf>manual</src.rf>

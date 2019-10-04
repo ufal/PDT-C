@@ -155,6 +155,7 @@
 <AM lemma="Josef_:B_;Y" src="orig">NNMXX-----A---8</AM>
 <AM lemma="Jos_;G" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Jos_;G" src="auto">NNIS4-----A----</AM>
+<AM lemma="Josef_;Y" src="manual" selected="1">NNMXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-lnd92258-141-p2s2w10">
@@ -325,7 +326,10 @@
 <LM>w#w-lnd92258-141-p2s3w20</LM>
 </w.rf>
 <form>LN</form>
-<tag lemma="LN-1_:B_;R_^(Lidové_noviny,_deník)" src="orig" selected="1">NNFPX-----A---8</tag>
+<tag>
+<AM lemma="LN-1_:B_;R_^(Lidové_noviny,_deník)" src="orig">NNFPX-----A---8</AM>
+<AM lemma="LN-1_:B_;K_;R_^(Lidové_noviny)" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd92258-141-p2s3w21">
 <src.rf>manual</src.rf>
@@ -437,7 +441,10 @@
 <LM>w#w-lnd92258-141-p2s3w34</LM>
 </w.rf>
 <form>hodně</form>
-<tag lemma="hodně-2_^(nezlobivý)_(*3ý-2)" src="auto" selected="1">Dg-------1A----</tag>
+<tag>
+<AM lemma="hodně-2_^(nezlobivý)_(*3ý-2)" src="auto">Dg-------1A----</AM>
+<AM lemma="hodně-3" src="manual" selected="1">Dg-------1A----</AM>
+</tag>
 </m>
 <m id="m-lnd92258-141-p2s3w35">
 <src.rf>manual</src.rf>
@@ -823,7 +830,10 @@
 <LM>w#w-lnd92258-141-p2s4w46</LM>
 </w.rf>
 <form>spíše</form>
-<tag lemma="spíše" src="orig" selected="1">Dg-------2A---1</tag>
+<tag>
+<AM lemma="spíše" src="orig">Dg-------2A---1</AM>
+<AM lemma="spíše" src="manual" selected="1">TT------------1</AM>
+</tag>
 </m>
 <m id="m-lnd92258-141-p2s4w47">
 <src.rf>manual</src.rf>
@@ -1049,7 +1059,10 @@
 <LM>w#w-lnd92258-141-p2s5w25</LM>
 </w.rf>
 <form>jen</form>
-<tag lemma="jen-1" src="auto" selected="1">TT-------------</tag>
+<tag>
+<AM lemma="jen-1" src="auto">TT-------------</AM>
+<AM lemma="jen-4_^(pouze)" src="manual" selected="1">Db-------------</AM>
+</tag>
 </m>
 <m id="m-lnd92258-141-p2s5w26">
 <src.rf>manual</src.rf>

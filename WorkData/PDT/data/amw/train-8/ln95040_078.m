@@ -22,6 +22,7 @@
 <tag>
 <AM lemma="USA_;G" src="orig">NNIPX-----A----</AM>
 <AM lemma="USA_:B_;K_,t_^(United_States_of_America)" src="auto" recommended="1">NNIPX-----A---8</AM>
+<AM lemma="USA_:B_;K_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95040-078-p1s1w2">
@@ -96,7 +97,10 @@
 <LM>w#w-ln95040-078-p2s1w6</LM>
 </w.rf>
 <form>Strobe</form>
-<tag lemma="Strobe_;S" src="auto" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Strobe_;S" src="auto">NNMS1-----A----</AM>
+<AM lemma="Strobe_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95040-078-p2s1w7">
 <src.rf>manual</src.rf>
@@ -219,6 +223,7 @@
 <tag>
 <AM lemma="USA_;G" src="orig">NNIPX-----A----</AM>
 <AM lemma="USA_:B_;K_,t_^(United_States_of_America)" src="auto" recommended="1">NNIPX-----A---8</AM>
+<AM lemma="USA_:B_;K_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95040-078-p2s1w22">
@@ -355,7 +360,10 @@
 <LM>w#w-ln95040-078-p2s1w38</LM>
 </w.rf>
 <form>Khmerům</form>
-<tag lemma="Khmer" src="orig" selected="1">NNMP3-----A----</tag>
+<tag>
+<AM lemma="Khmer" src="orig">NNMP3-----A----</AM>
+<AM lemma="Khmer_;E" src="manual" selected="1">NNMP3-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95040-078-p2s1w39">
 <src.rf>manual</src.rf>
@@ -373,7 +381,10 @@
 <LM>w#w-ln95040-078-p2s2w1</LM>
 </w.rf>
 <form>Bereme</form>
-<tag lemma="brát" src="orig" selected="1">VB-P---1P-AA---</tag>
+<tag>
+<AM lemma="brát" src="orig">VB-P---1P-AA---</AM>
+<AM lemma="brát_:T" src="manual" selected="1">VB-P---1P-AA---</AM>
+</tag>
 </m>
 <m id="m-ln95040-078-p2s2w2">
 <src.rf>manual</src.rf>
@@ -389,7 +400,10 @@
 <LM>w#w-ln95040-078-p2s2w3</LM>
 </w.rf>
 <form>li</form>
-<tag lemma="li-1" src="auto" selected="1">TT-------------</tag>
+<tag>
+<AM lemma="li-1" src="auto">TT-------------</AM>
+<AM lemma="li-2" src="manual" selected="1">J,-------------</AM>
+</tag>
 </m>
 <m id="m-ln95040-078-p2s2w4">
 <src.rf>manual</src.rf>
@@ -597,7 +611,10 @@
 <LM>w#w-ln95040-078-p2s2w29</LM>
 </w.rf>
 <form>napsal</form>
-<tag lemma="napsat" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag>
+<AM lemma="napsat" src="orig">VpYS---XR-AA---</AM>
+<AM lemma="napsat_:W" src="manual" selected="1">VpYS---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-ln95040-078-p2s2w30">
 <src.rf>manual</src.rf>
@@ -621,7 +638,10 @@
 <LM>w#w-ln95040-078-p2s2w32</LM>
 </w.rf>
 <form>The</form>
-<tag lemma="the-1_,t_^(obv._souč._anglických_názvů,_urč._člen)" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="the-1_,t_^(obv._souč._anglických_názvů,_urč._člen)" src="orig">AAXXX----1A----</AM>
+<AM lemma="The-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln95040-078-p2s2w33">
 <src.rf>manual</src.rf>
@@ -629,7 +649,10 @@
 <LM>w#w-ln95040-078-p2s2w33</LM>
 </w.rf>
 <form>New</form>
-<tag lemma="New-1_;G_,t_^(součást_míst._jmen)" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="New-1_;G_,t_^(součást_míst._jmen)" src="orig">AAXXX----1A----</AM>
+<AM lemma="New-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln95040-078-p2s2w34">
 <src.rf>manual</src.rf>
@@ -637,7 +660,10 @@
 <LM>w#w-ln95040-078-p2s2w34</LM>
 </w.rf>
 <form>York</form>
-<tag lemma="York-2_;G" src="orig" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="York-2_;G" src="orig">NNIS1-----A----</AM>
+<AM lemma="York-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln95040-078-p2s2w35">
 <src.rf>manual</src.rf>
@@ -645,7 +671,10 @@
 <LM>w#w-ln95040-078-p2s2w35</LM>
 </w.rf>
 <form>Times</form>
-<tag lemma="Times-1_;K_,t_^(souč._názvů,_např._The_Times)" src="orig" selected="1">NNIPX-----A----</tag>
+<tag>
+<AM lemma="Times-1_;K_,t_^(souč._názvů,_např._The_Times)" src="orig">NNIPX-----A----</AM>
+<AM lemma="Times-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln95040-078-p2s2w36">
 <src.rf>manual</src.rf>
@@ -671,7 +700,10 @@
 <LM>w#w-ln95040-078-p3s1w2</LM>
 </w.rf>
 <form>Khmerové</form>
-<tag lemma="Khmer" src="orig" selected="1">NNMP1-----A----</tag>
+<tag>
+<AM lemma="Khmer" src="orig">NNMP1-----A----</AM>
+<AM lemma="Khmer_;E" src="manual" selected="1">NNMP1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95040-078-p3s1w3">
 <src.rf>manual</src.rf>
@@ -833,7 +865,10 @@
 <LM>w#w-ln95040-078-p3s2w1</LM>
 </w.rf>
 <form>Mají</form>
-<tag lemma="mít" src="orig" selected="1">VB-P---3P-AA---</tag>
+<tag>
+<AM lemma="mít" src="orig">VB-P---3P-AA---</AM>
+<AM lemma="mít_:T" src="manual" selected="1">VB-P---3P-AA---</AM>
+</tag>
 </m>
 <m id="m-ln95040-078-p3s2w2">
 <src.rf>manual</src.rf>
@@ -865,7 +900,10 @@
 <LM>w#w-ln95040-078-p3s2w5</LM>
 </w.rf>
 <form>dostat</form>
-<tag lemma="dostat" src="orig" selected="1">Vf--------A----</tag>
+<tag>
+<AM lemma="dostat" src="orig">Vf--------A----</AM>
+<AM lemma="dostat_:W" src="manual" selected="1">Vf--------A----</AM>
+</tag>
 </m>
 <m id="m-ln95040-078-p3s2w6">
 <src.rf>manual</src.rf>
@@ -1203,7 +1241,10 @@
 <LM>w#w-ln95040-078-p3s3w11</LM>
 </w.rf>
 <form>Khmerů</form>
-<tag lemma="Khmer" src="orig" selected="1">NNMP2-----A----</tag>
+<tag>
+<AM lemma="Khmer" src="orig">NNMP2-----A----</AM>
+<AM lemma="Khmer_;E_,s_^(^DD**Khmér)" src="manual" selected="1">NNMP2-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95040-078-p3s3w12">
 <src.rf>manual</src.rf>
@@ -1389,7 +1430,10 @@
 <LM>w#w-ln95040-078-p3s4w13</LM>
 </w.rf>
 <form>Sar</form>
-<tag lemma="Sara_;G" src="orig" selected="1">NNFP2-----A----</tag>
+<tag>
+<AM lemma="Sara_;G" src="orig">NNFP2-----A----</AM>
+<AM lemma="Sar-2_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95040-078-p3s4w14">
 <src.rf>manual</src.rf>

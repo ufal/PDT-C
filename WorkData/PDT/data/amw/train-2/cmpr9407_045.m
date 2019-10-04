@@ -734,7 +734,10 @@
 <LM>w#w-cmpr9407-045-p5s2w3</LM>
 </w.rf>
 <form>li</form>
-<tag lemma="li-1" src="auto" selected="1">TT-------------</tag>
+<tag>
+<AM lemma="li-1" src="auto">TT-------------</AM>
+<AM lemma="li-2" src="manual" selected="1">J,-------------</AM>
+</tag>
 </m>
 <m id="m-cmpr9407-045-p5s2w4">
 <src.rf>manual</src.rf>
@@ -806,7 +809,10 @@
 <LM>w#w-cmpr9407-045-p5s2w12</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-2" src="auto" selected="1">Dg-------2A----</tag>
+<tag>
+<AM lemma="hodně-2" src="auto">Dg-------2A----</AM>
+<AM lemma="hodně-3" src="manual" selected="1">Dg-------2A----</AM>
+</tag>
 </m>
 <m id="m-cmpr9407-045-p5s2w13">
 <src.rf>manual</src.rf>
@@ -920,7 +926,10 @@
 <LM>w#w-cmpr9407-045-p5s3w7</LM>
 </w.rf>
 <form>ČZ</form>
-<tag lemma="ČZ_:B_;K_;R_^(vozidlo)" src="auto" selected="1">NNFXX-----A----</tag>
+<tag>
+<AM lemma="ČZ_:B_;K_;R_^(vozidlo)" src="auto">NNFXX-----A----</AM>
+<AM lemma="ČZ-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-cmpr9407-045-p5s3w8">
 <src.rf>manual</src.rf>

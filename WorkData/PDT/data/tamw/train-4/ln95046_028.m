@@ -231,7 +231,10 @@
 <LM>w#w-ln95046-028-p2s1Bw20</LM>
 </w.rf>
 <form>ČR</form>
-<tag lemma="ČR-1_:B_;G_^(Česká_republika)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95046-028-p2s1Bw21">
 <src.rf>manual</src.rf>
@@ -273,7 +276,10 @@
 <LM>w#w-ln95046-028-p2s2w4</LM>
 </w.rf>
 <form>K</form>
-<tag lemma="k-3_^(označení_pomocí_písmene)" src="orig" selected="1">NNNXX-----A----</tag>
+<tag>
+<AM lemma="k-3_^(označení_pomocí_písmene)" src="orig">NNNXX-----A----</AM>
+<AM lemma="K-33_^(označení_pomocí_písmene)" src="manual" selected="1">NNNXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95046-028-p2s2w5">
 <src.rf>manual</src.rf>
@@ -619,7 +625,10 @@
 <LM>w#w-ln95046-028-p2s3w16</LM>
 </w.rf>
 <form>MS</form>
-<tag lemma="MS-3_:B_;w_^(mistrovství_světa)" src="orig" selected="1">NNNXX-----A---8</tag>
+<tag>
+<AM lemma="MS-3_:B_;w_^(mistrovství_světa)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="MS-3_:B_^(mistrovství_světa)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95046-028-p2s3w17">
 <src.rf>manual</src.rf>
@@ -789,7 +798,10 @@
 <LM>w#w-ln95046-028-p2s4w19</LM>
 </w.rf>
 <form>MS</form>
-<tag lemma="MS-3_:B_;w_^(mistrovství_světa)" src="orig" selected="1">NNNXX-----A---8</tag>
+<tag>
+<AM lemma="MS-3_:B_;w_^(mistrovství_světa)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="MS-3_:B_^(mistrovství_světa)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95046-028-p2s4w20">
 <src.rf>manual</src.rf>
@@ -805,7 +817,11 @@
 <LM>w#w-ln95046-028-p2s4w21</LM>
 </w.rf>
 <form>Thunder</form>
-<tag lemma="Thunder_;G" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="Thunder_;G" src="orig">AAXXX----1A----</AM>
+<AM lemma="thunder_,t" src="manual">NNXXX-----A----</AM>
+<AM lemma="Thunder-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln95046-028-p2s4w22">
 <src.rf>manual</src.rf>
@@ -818,6 +834,8 @@
 <AM lemma="Bay-1_;S" src="auto">NNMS1-----A----</AM>
 <AM lemma="Bay-2_;G" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Bay-2_;G" src="auto">NNIS4-----A----</AM>
+<AM lemma="Bay-2_;G" src="manual">NNIXX-----A----</AM>
+<AM lemma="Bay-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-ln95046-028-p2s4w23">
@@ -842,7 +860,10 @@
 <LM>w#w-ln95046-028-p2s4w25</LM>
 </w.rf>
 <form>řekl</form>
-<tag lemma="říci" src="auto" selected="1">VpYS---XR-AA---</tag>
+<tag>
+<AM lemma="říci" src="auto">VpYS---XR-AA---</AM>
+<AM lemma="říci_:W" src="manual" selected="1">VpYS---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-ln95046-028-p2s4w26">
 <src.rf>manual</src.rf>

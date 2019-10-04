@@ -920,7 +920,7 @@
 <AM lemma="dvoustranný" src="auto">AAFP1----1A----</AM>
 <AM lemma="dvoustranný" src="auto">AAFP4----1A----</AM>
 <AM lemma="dvoustranný" src="auto">AAFP5----1A----</AM>
-<AM lemma="dvoustranný" src="auto" recommended="1">AAFS2----1A----</AM>
+<AM lemma="dvoustranný" src="auto" recommended="1" selected="1">AAFS2----1A----</AM>
 <AM lemma="dvoustranný" src="auto">AAFS3----1A----</AM>
 <AM lemma="dvoustranný" src="auto">AAFS6----1A----</AM>
 <AM lemma="dvoustranný" src="auto">AAIP1----1A----</AM>
@@ -1881,7 +1881,10 @@
 <LM>w#w-lnd92255-074-p5s5w11</LM>
 </w.rf>
 <form>ad</form>
-<tag lemma="ad_,t" src="orig" selected="1">RR--1----------</tag>
+<tag>
+<AM lemma="ad_,t" src="orig">RR--1----------</AM>
+<AM lemma="ad-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-lnd92255-074-p5s5w12">
 <src.rf>manual</src.rf>
@@ -1889,7 +1892,10 @@
 <LM>w#w-lnd92255-074-p5s5w12</LM>
 </w.rf>
 <form>hoc</form>
-<tag lemma="hoc_,t" src="orig" selected="1">NNXXX-----A----</tag>
+<tag>
+<AM lemma="hoc_,t" src="orig">NNXXX-----A----</AM>
+<AM lemma="hoc-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-lnd92255-074-p5s5w13">
 <src.rf>manual</src.rf>
@@ -3609,7 +3615,7 @@
 <form>ovšem</form>
 <tag>
 <AM lemma="ovšem-1_^(avšak,_však;_odporovací_spojka)" src="orig">J^-------------</AM>
-<AM lemma="ovšem" src="auto" recommended="1">TT-------------</AM>
+<AM lemma="ovšem" src="auto" recommended="1" selected="1">TT-------------</AM>
 </tag>
 </m>
 <m id="m-lnd92255-074-p8s1w14">
@@ -3879,7 +3885,7 @@
 <tag>
 <AM lemma="tedy" src="orig">Db-------------</AM>
 <AM lemma="tedy-1" src="auto">TT-------------</AM>
-<AM lemma="tedy-2" src="auto" recommended="1">J^-------------</AM>
+<AM lemma="tedy-2" src="auto" recommended="1" selected="1">J^-------------</AM>
 </tag>
 </m>
 <m id="m-lnd92255-074-p8s2w6">
@@ -4443,7 +4449,7 @@
 <AM lemma="l-3_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
 <AM lemma="l-4_^(graf._oddělovač)" src="auto">Z:-------------</AM>
 <AM lemma="l-8_:B_^(ost._zkratka)" src="auto">XX------------8</AM>
-<AM lemma="letopočet_:B_^(jen_př._n._l.,_před_naším_letopočtem)" src="auto">NNIS7-----A---8</AM>
+<AM lemma="letopočet_:B_^(jen_př._n._l.,_před_naším_letopočtem)" src="auto" selected="1">NNIS7-----A---8</AM>
 <AM lemma="litr_:B" src="auto" recommended="1">NNIXX-----A---8</AM>
 </tag>
 </m>

@@ -351,7 +351,10 @@
 <LM>w#w-ln94200-13-p2s2w17</LM>
 </w.rf>
 <form>FAMU</form>
-<tag lemma="FAMU_:B_;K" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="FAMU_:B_;K" src="orig">NNFXX-----A---8</AM>
+<AM lemma="FAMU-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln94200-13-p2s2w18">
 <src.rf>manual</src.rf>
@@ -579,7 +582,10 @@
 <LM>w#w-ln94200-13-p2s4w2</LM>
 </w.rf>
 <form>ář</form>
-<tag lemma="ář-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="ář-99_:B_;S" src="orig">NNXXX-----A---8</AM>
+<AM lemma="ář-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94200-13-p2s4w3">
 <src.rf>manual</src.rf>

@@ -21,7 +21,7 @@
 <form>Felicia</form>
 <tag>
 <AM lemma="Felicia-2_;R_^(vozidlo)" src="orig">NNFS1-----A---1</AM>
-<AM lemma="felicia_;R_^(vozidlo)" src="auto" recommended="1">NNFS1-----A---1</AM>
+<AM lemma="felicia_;R_^(vozidlo)" src="auto" recommended="1" selected="1">NNFS1-----A---1</AM>
 </tag>
 </m>
 <m id="m-ln94205-144-p1s1w2">
@@ -93,6 +93,7 @@
 <AM lemma="pin-1_^(špendlík,_v_čes._větách,_skloň.)" src="auto">NNIS1-----A----</AM>
 <AM lemma="pin-1_^(špendlík,_v_čes._větách,_skloň.)" src="auto">NNIS4-----A----</AM>
 <AM lemma="pin-2_,t_^(špendlík,_angl._neskl.)" src="auto" recommended="1">NNIXX-----A----</AM>
+<AM lemma="pin-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94205-144-p2s1Aw4">
@@ -137,7 +138,7 @@
 <form>Felicia</form>
 <tag>
 <AM lemma="Felicia-2_;R_^(vozidlo)" src="orig">NNFS1-----A---1</AM>
-<AM lemma="felicia_;R_^(vozidlo)" src="auto" recommended="1">NNFS1-----A---1</AM>
+<AM lemma="felicia_;R_^(vozidlo)" src="auto" recommended="1" selected="1">NNFS1-----A---1</AM>
 </tag>
 </m>
 <m id="m-ln94205-144-p2s1Bw4">
@@ -181,6 +182,7 @@
 <tag>
 <AM lemma="VW-2_:B_;K_,t_^(název_firmy_Volkswagen)" src="orig">NNFXX-----A----</AM>
 <AM lemma="VW_:B_;K_;R_,t_^(název_firmy/auta_Volkswagen)" src="auto" recommended="1">NNIXX-----A---8</AM>
+<AM lemma="VW_:B_;K_;R_^(název_firmy/auta_Volkswagen)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94205-144-p2s1Bw9">
@@ -361,7 +363,7 @@
 <form>felicie</form>
 <tag>
 <AM lemma="Felicia-2_;R_^(vozidlo)" src="orig">NNFP1-----A----</AM>
-<AM lemma="felicia_;R_^(vozidlo)" src="auto" recommended="1">NNFP1-----A----</AM>
+<AM lemma="felicia_;R_^(vozidlo)" src="auto" recommended="1" selected="1">NNFP1-----A----</AM>
 <AM lemma="felicia_;R_^(vozidlo)" src="auto">NNFP4-----A----</AM>
 <AM lemma="felicia_;R_^(vozidlo)" src="auto">NNFP5-----A----</AM>
 <AM lemma="felicia_;R_^(vozidlo)" src="auto">NNFS1-----A----</AM>
@@ -503,7 +505,10 @@
 <LM>w#w-ln94205-144-p2s3w10</LM>
 </w.rf>
 <form>málo</form>
-<tag lemma="málo-3_^(málo_+_příd._jm.,_př._byl_málo_důsledný)" src="orig" selected="1">Dg-------1A----</tag>
+<tag>
+<AM lemma="málo-3_^(málo_+_příd._jm.,_př._byl_málo_důsledný)" src="orig">Dg-------1A----</AM>
+<AM lemma="málo-1_^(málo_+_2._p.,_málo_peněz)" src="manual" selected="1">Ca--1----------</AM>
+</tag>
 </m>
 <m id="m-ln94205-144-p2s3w11">
 <src.rf>manual</src.rf>
@@ -609,7 +614,10 @@
 <LM>w#w-ln94205-144-p3s1w4</LM>
 </w.rf>
 <form>LN</form>
-<tag lemma="LN-1_:B_;R_^(Lidové_noviny,_deník)" src="orig" selected="1">NNFPX-----A---8</tag>
+<tag>
+<AM lemma="LN-1_:B_;R_^(Lidové_noviny,_deník)" src="orig">NNFPX-----A---8</AM>
+<AM lemma="LN-1_:B_;K_;R_^(Lidové_noviny)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94205-144-p3s1w5">
 <src.rf>manual</src.rf>
@@ -625,7 +633,10 @@
 <LM>w#w-ln94205-144-p3s1w6</LM>
 </w.rf>
 <form>M</form>
-<tag lemma="M-0_:B_;Y" src="orig" selected="1">NNMXX-----A---8</tag>
+<tag>
+<AM lemma="M-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
+<AM lemma="M-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94205-144-p3s1w7">
 <src.rf>manual</src.rf>
@@ -827,7 +838,10 @@
 <LM>w#w-ln94205-144-p3s2w4</LM>
 </w.rf>
 <form>tzv</form>
-<tag lemma="takzvaný_:B" src="orig" selected="1">AAXXX----1A---8</tag>
+<tag>
+<AM lemma="takzvaný_:B" src="orig">AAXXX----1A---8</AM>
+<AM lemma="takzvaný" src="manual" selected="1">AAXXX----1A---8</AM>
+</tag>
 </m>
 <m id="m-ln94205-144-p3s2w5">
 <src.rf>manual</src.rf>
@@ -903,6 +917,7 @@
 <AM lemma="začít-1" src="orig">Vf--------A----</AM>
 <AM lemma="začít-1_^(začnout)" src="auto" recommended="1">Vf--------A----</AM>
 <AM lemma="začít-2_^(pocítit)" src="auto">Vf--------A----</AM>
+<AM lemma="začít-1_:W_^(začnout)" src="manual" selected="1">Vf--------A----</AM>
 </tag>
 </m>
 <m id="m-ln94205-144-p3s2w14">
@@ -1117,7 +1132,7 @@
 </w.rf>
 <form>formanů</form>
 <tag>
-<AM lemma="Forman-2_;R_^(vozidlo)" src="orig">NNIP2-----A----</AM>
+<AM lemma="Forman-2_;R_^(vozidlo)" src="orig" selected="1">NNIP2-----A----</AM>
 <AM lemma="forman" src="auto" recommended="1">NNMP2-----A----</AM>
 </tag>
 </m>
@@ -1137,7 +1152,7 @@
 <form>favoritů</form>
 <tag>
 <AM lemma="Favorit-2_;R_^(vozidlo)" src="orig">NNIP2-----A----</AM>
-<AM lemma="favorit-1_;R" src="auto">NNIP2-----A----</AM>
+<AM lemma="favorit-1_;R" src="auto" selected="1">NNIP2-----A----</AM>
 <AM lemma="favorit-2" src="auto" recommended="1">NNMP2-----A----</AM>
 </tag>
 </m>
@@ -1177,7 +1192,7 @@
 <AM lemma="felicia_;R_^(vozidlo)" src="auto">NNFP4-----A----</AM>
 <AM lemma="felicia_;R_^(vozidlo)" src="auto">NNFP5-----A----</AM>
 <AM lemma="felicia_;R_^(vozidlo)" src="auto">NNFS1-----A----</AM>
-<AM lemma="felicia_;R_^(vozidlo)" src="auto">NNFS2-----A----</AM>
+<AM lemma="felicia_;R_^(vozidlo)" src="auto" selected="1">NNFS2-----A----</AM>
 <AM lemma="felicia_;R_^(vozidlo)" src="auto">NNFS5-----A----</AM>
 <AM lemma="felicie" src="auto">NNFP1-----A----</AM>
 <AM lemma="felicie" src="auto">NNFP4-----A----</AM>
@@ -1220,6 +1235,7 @@
 <tag>
 <AM lemma="VW-2_:B_;K_,t_^(název_firmy_Volkswagen)" src="orig">NNFXX-----A----</AM>
 <AM lemma="VW_:B_;K_;R_,t_^(název_firmy/auta_Volkswagen)" src="auto" recommended="1">NNIXX-----A---8</AM>
+<AM lemma="VW_:B_;K_;R_^(název_firmy/auta_Volkswagen)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94205-144-p4s1w7">
@@ -1244,7 +1260,10 @@
 <LM>w#w-ln94205-144-p4s1w9</LM>
 </w.rf>
 <form>nejvíce</form>
-<tag lemma="hodně-2" src="auto" selected="1">Dg-------3A----</tag>
+<tag>
+<AM lemma="hodně-2" src="auto">Dg-------3A----</AM>
+<AM lemma="hodně-3" src="manual" selected="1">Dg-------3A----</AM>
+</tag>
 </m>
 <m id="m-ln94205-144-p4s1w10">
 <src.rf>manual</src.rf>
@@ -1397,6 +1416,7 @@
 <AM lemma="začít-1" src="orig">Vf--------A----</AM>
 <AM lemma="začít-1_^(začnout)" src="auto" recommended="1">Vf--------A----</AM>
 <AM lemma="začít-2_^(pocítit)" src="auto">Vf--------A----</AM>
+<AM lemma="začít-1_:W_^(začnout)" src="manual" selected="1">Vf--------A----</AM>
 </tag>
 </m>
 <m id="m-ln94205-144-p4s3w8">
@@ -1463,7 +1483,7 @@
 <form>pick</form>
 <tag>
 <AM lemma="pick_,t" src="orig">AAXXX----1A----</AM>
-<AM lemma="pick" src="auto" recommended="1">A2--------A----</AM>
+<AM lemma="pick" src="auto" recommended="1" selected="1">A2--------A----</AM>
 </tag>
 </m>
 <m id="m-ln94205-144-p4s3w16">

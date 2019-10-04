@@ -169,7 +169,10 @@
 <LM>w#w-lnd92255-096-p2s3w2</LM>
 </w.rf>
 <form>sice</form>
-<tag lemma="sice-2" src="auto" selected="1">Db-------------</tag>
+<tag>
+<AM lemma="sice-2" src="auto">Db-------------</AM>
+<AM lemma="sice-1_^(spojka;_připouští_se_určitá_fakta)" src="manual" selected="1">J^-------------</AM>
+</tag>
 </m>
 <m id="m-lnd92255-096-p2s3w3">
 <src.rf>manual</src.rf>
@@ -265,7 +268,10 @@
 <LM>w#w-lnd92255-096-p2s3w14</LM>
 </w.rf>
 <form>vidíme</form>
-<tag lemma="vidět" src="orig" selected="1">VB-P---1P-AA---</tag>
+<tag>
+<AM lemma="vidět" src="orig">VB-P---1P-AA---</AM>
+<AM lemma="vidět_:T" src="manual" selected="1">VB-P---1P-AA---</AM>
+</tag>
 </m>
 <m id="m-lnd92255-096-p2s3w15">
 <src.rf>manual</src.rf>
@@ -297,7 +303,10 @@
 <LM>w#w-lnd92255-096-p2s3w18</LM>
 </w.rf>
 <form>nemá</form>
-<tag lemma="mít" src="orig" selected="1">VB-S---3P-NA---</tag>
+<tag>
+<AM lemma="mít" src="orig">VB-S---3P-NA---</AM>
+<AM lemma="mít_:T" src="manual" selected="1">VB-S---3P-NA---</AM>
+</tag>
 </m>
 <m id="m-lnd92255-096-p2s3w19">
 <src.rf>manual</src.rf>
@@ -381,7 +390,7 @@
 <form>snad</form>
 <tag>
 <AM lemma="snad" src="orig">Db-------------</AM>
-<AM lemma="snad" src="auto" recommended="1">TT-------------</AM>
+<AM lemma="snad" src="auto" recommended="1" selected="1">TT-------------</AM>
 </tag>
 </m>
 <m id="m-lnd92255-096-p2s4w4">
@@ -738,7 +747,10 @@
 <LM>w#w-lnd92255-096-p3s2w5</LM>
 </w.rf>
 <form>vidět</form>
-<tag lemma="vidět" src="orig" selected="1">Vf--------A----</tag>
+<tag>
+<AM lemma="vidět" src="orig">Vf--------A----</AM>
+<AM lemma="vidět_:T" src="manual" selected="1">Vf--------A----</AM>
+</tag>
 </m>
 <m id="m-lnd92255-096-p3s2w6">
 <src.rf>manual</src.rf>
@@ -950,7 +962,10 @@
 <LM>w#w-lnd92255-096-p3s4w1</LM>
 </w.rf>
 <form>Hrají</form>
-<tag lemma="hrát" src="orig" selected="1">VB-P---3P-AA--1</tag>
+<tag>
+<AM lemma="hrát" src="orig">VB-P---3P-AA--1</AM>
+<AM lemma="hrát_:T" src="manual" selected="1">VB-P---3P-AA--1</AM>
+</tag>
 </m>
 <m id="m-lnd92255-096-p3s4w2">
 <src.rf>manual</src.rf>

@@ -430,6 +430,7 @@
 <AM lemma="Sali_;Y" src="auto">NNMP7-----A---6</AM>
 <AM lemma="Salima-1_;G" src="auto" recommended="1">NNFS1-----A----</AM>
 <AM lemma="Salima-2_;K" src="auto">NNFS1-----A----</AM>
+<AM lemma="Salim_;Y_;S" src="manual" selected="1">NNMS2-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95040-087-p2s2w21">
@@ -451,6 +452,7 @@
 <AM lemma="Sali_;Y" src="auto">NNMP7-----A---6</AM>
 <AM lemma="Salima-1_;G" src="auto">NNFS1-----A----</AM>
 <AM lemma="Salima-2_;K" src="auto" recommended="1">NNFS1-----A----</AM>
+<AM lemma="Salim_;Y_;S" src="manual" selected="1">NNMS2-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95040-087-p2s2w23">
@@ -525,7 +527,10 @@
 <LM>w#w-ln95040-087-p2s3w4</LM>
 </w.rf>
 <form>Butrus</form>
-<tag lemma="Butrus_;S" src="auto" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Butrus_;S" src="auto">NNMS1-----A----</AM>
+<AM lemma="Butrus_;Y_;S" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95040-087-p2s3w5">
 <src.rf>manual</src.rf>
@@ -533,7 +538,10 @@
 <LM>w#w-ln95040-087-p2s3w5</LM>
 </w.rf>
 <form>Butrus</form>
-<tag lemma="Butrus_;S" src="auto" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Butrus_;S" src="auto">NNMS1-----A----</AM>
+<AM lemma="Butrus_;Y_;S" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95040-087-p2s3w6">
 <src.rf>manual</src.rf>
@@ -759,7 +767,10 @@
 <LM>w#w-ln95040-087-p2s4w10</LM>
 </w.rf>
 <form>Butrus</form>
-<tag lemma="Butrus_;S" src="auto" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Butrus_;S" src="auto">NNMS1-----A----</AM>
+<AM lemma="Butrus_;Y_;S" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95040-087-p2s4w11">
 <src.rf>manual</src.rf>
@@ -1111,6 +1122,7 @@
 <AM lemma="Sali_;Y" src="auto" recommended="1">NNMS7-----A----</AM>
 <AM lemma="Salima-1_;G" src="auto">NNFP2-----A----</AM>
 <AM lemma="Salima-2_;K" src="auto">NNFP2-----A----</AM>
+<AM lemma="Salim_;Y_;S" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95040-087-p2s5w4">
@@ -1175,7 +1187,10 @@
 <LM>w#w-ln95040-087-p2s5w11</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-2" src="auto" selected="1">Dg-------2A----</tag>
+<tag>
+<AM lemma="hodně-2" src="auto">Dg-------2A----</AM>
+<AM lemma="hodně-3" src="manual" selected="1">Dg-------2A----</AM>
+</tag>
 </m>
 <m id="m-ln95040-087-p2s5w12">
 <src.rf>manual</src.rf>

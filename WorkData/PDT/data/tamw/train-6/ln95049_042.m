@@ -91,7 +91,10 @@
 <LM>w#w-ln95049-042-p1s1w10</LM>
 </w.rf>
 <form>SP</form>
-<tag lemma="SP-3_:B_^(Světový_pohár)" src="auto" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="SP-3_:B_^(Světový_pohár)" src="auto">NNIXX-----A---8</AM>
+<AM lemma="SP-3_:B_^(Světový_pohár)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95049-042-p1s1w11">
 <src.rf>manual</src.rf>

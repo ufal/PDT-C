@@ -45,7 +45,10 @@
 <LM>w#w-lnd94105-100-p1s2w1</LM>
 </w.rf>
 <form>New</form>
-<tag lemma="New-1_;G_,t_^(součást_míst._jmen)" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="New-1_;G_,t_^(součást_míst._jmen)" src="orig">AAXXX----1A----</AM>
+<AM lemma="New-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-lnd94105-100-p1s2w2">
 <src.rf>manual</src.rf>
@@ -53,7 +56,10 @@
 <LM>w#w-lnd94105-100-p1s2w2</LM>
 </w.rf>
 <form>York</form>
-<tag lemma="York-2_;G" src="orig" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="York-2_;G" src="orig">NNIS1-----A----</AM>
+<AM lemma="York-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-lnd94105-100-p1s2w3">
 <src.rf>manual</src.rf>
@@ -82,6 +88,7 @@
 <tag>
 <AM lemma="NY_:B_;K" src="orig">AAXXX----1A---8</AM>
 <AM lemma="NY_:B_;G_^(New_York)" src="auto" recommended="1">NNIXX-----A---8</AM>
+<AM lemma="NY-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-lnd94105-100-p1s3w3">
@@ -90,7 +97,10 @@
 <LM>w#w-lnd94105-100-p1s3w3</LM>
 </w.rf>
 <form>Rangers</form>
-<tag lemma="Rangers_;K" src="orig" selected="1">NNMPX-----A----</tag>
+<tag>
+<AM lemma="Rangers_;K" src="orig">NNMPX-----A----</AM>
+<AM lemma="Rangers-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-lnd94105-100-p1s3w4">
 <src.rf>manual</src.rf>
@@ -178,7 +188,10 @@
 <LM>w#w-lnd94105-100-p1s3w14</LM>
 </w.rf>
 <form>play</form>
-<tag lemma="play-1_,t" src="orig" selected="1">NNFXX-----A----</tag>
+<tag>
+<AM lemma="play-1_,t" src="orig">NNFXX-----A----</AM>
+<AM lemma="play-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-lnd94105-100-p1s3w15">
 <src.rf>manual</src.rf>
@@ -186,7 +199,10 @@
 <LM>w#w-lnd94105-100-p1s3w15</LM>
 </w.rf>
 <form>off</form>
-<tag lemma="off-1_,t_^(angl._&quot;vypnuto&quot;,_hlavně_souč._názvů)" src="orig" selected="1">TT-------------</tag>
+<tag>
+<AM lemma="off-1_,t_^(angl._&quot;vypnuto&quot;,_hlavně_souč._názvů)" src="orig">TT-------------</AM>
+<AM lemma="off-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-lnd94105-100-p1s3w16">
 <src.rf>manual</src.rf>
@@ -286,7 +302,10 @@
 <LM>w#w-lnd94105-100-p1s5w1</LM>
 </w.rf>
 <form>New</form>
-<tag lemma="New-1_;G_,t_^(součást_míst._jmen)" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="New-1_;G_,t_^(součást_míst._jmen)" src="orig">AAXXX----1A----</AM>
+<AM lemma="New-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-lnd94105-100-p1s5w2">
 <src.rf>manual</src.rf>
@@ -294,7 +313,10 @@
 <LM>w#w-lnd94105-100-p1s5w2</LM>
 </w.rf>
 <form>Jersey</form>
-<tag lemma="Jersey_;G" src="orig" selected="1">NNNXX-----A----</tag>
+<tag>
+<AM lemma="Jersey_;G" src="orig">NNNXX-----A----</AM>
+<AM lemma="Jersey-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-lnd94105-100-p1s5w3">
 <src.rf>manual</src.rf>
@@ -345,6 +367,7 @@
 <tag>
 <AM lemma="Bruin_;K_,t" src="orig">NNMPX-----A----</AM>
 <AM lemma="Bruins_;K" src="auto" recommended="1">NNISX-----A----</AM>
+<AM lemma="Bruins-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-lnd94105-100-p1s5w9">
@@ -427,7 +450,10 @@
 <LM>w#w-lnd94105-100-p1s6w2</LM>
 </w.rf>
 <form>sice</form>
-<tag lemma="sice-2" src="auto" selected="1">Db-------------</tag>
+<tag>
+<AM lemma="sice-2" src="auto">Db-------------</AM>
+<AM lemma="sice-1_^(spojka;_připouští_se_určitá_fakta)" src="manual" selected="1">J^-------------</AM>
+</tag>
 </m>
 <m id="m-lnd94105-100-p1s6w3">
 <src.rf>manual</src.rf>
@@ -621,7 +647,10 @@
 <LM>w#w-lnd94105-100-p1s7w3</LM>
 </w.rf>
 <form>sice</form>
-<tag lemma="sice-2" src="auto" selected="1">Db-------------</tag>
+<tag>
+<AM lemma="sice-2" src="auto">Db-------------</AM>
+<AM lemma="sice-1_^(spojka;_připouští_se_určitá_fakta)" src="manual" selected="1">J^-------------</AM>
+</tag>
 </m>
 <m id="m-lnd94105-100-p1s7w4">
 <src.rf>manual</src.rf>
@@ -670,7 +699,7 @@
 </w.rf>
 <form>Driver</form>
 <tag>
-<AM lemma="Driver_;S" src="orig">NNMS1-----A----</AM>
+<AM lemma="Driver_;S" src="orig" selected="1">NNMS1-----A----</AM>
 <AM lemma="driver" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="driver" src="auto">NNIS4-----A----</AM>
 </tag>

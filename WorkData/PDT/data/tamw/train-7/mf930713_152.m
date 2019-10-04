@@ -35,7 +35,10 @@
 <LM>w#w-mf930713-152-p1s1w3</LM>
 </w.rf>
 <form>OOP</form>
-<tag lemma="OOP-1_:B_;K_;p_^(Org._pro_osvobození_Palestiny)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="OOP-1_:B_;K_;p_^(Org._pro_osvobození_Palestiny)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="OOP-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-mf930713-152-p1s1w4">
 <src.rf>manual</src.rf>
@@ -369,7 +372,10 @@
 <LM>w#w-mf930713-152-p2s2w6</LM>
 </w.rf>
 <form>Haarec</form>
-<tag lemma="Haarec_;R" src="orig" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="Haarec_;R" src="orig">NNIS1-----A----</AM>
+<AM lemma="Haarec-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-mf930713-152-p2s2w7">
 <src.rf>manual</src.rf>
@@ -411,7 +417,10 @@
 <LM>w#w-mf930713-152-p3s1w4</LM>
 </w.rf>
 <form>Haarec</form>
-<tag lemma="Haarec_;R" src="orig" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="Haarec_;R" src="orig">NNIS1-----A----</AM>
+<AM lemma="Haarec-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-mf930713-152-p3s1w5">
 <src.rf>manual</src.rf>
@@ -861,7 +870,10 @@
 <LM>w#w-mf930713-152-p3s2w14</LM>
 </w.rf>
 <form>OOP</form>
-<tag lemma="OOP-1_:B_;K_;p_^(Org._pro_osvobození_Palestiny)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="OOP-1_:B_;K_;p_^(Org._pro_osvobození_Palestiny)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="OOP-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-mf930713-152-p3s2w15">
 <src.rf>manual</src.rf>

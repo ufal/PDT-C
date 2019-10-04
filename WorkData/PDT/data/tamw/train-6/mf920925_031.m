@@ -75,7 +75,10 @@
 <LM>w#w-mf920925-031-p1s1w8</LM>
 </w.rf>
 <form>BHT</form>
-<tag lemma="BHT_:B" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="BHT_:B" src="orig">NNIXX-----A---8</AM>
+<AM lemma="BHT-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-mf920925-031-p1s1w9">
 <src.rf>manual</src.rf>
@@ -139,7 +142,10 @@
 <LM>w#w-mf920925-031-p1s1w16</LM>
 </w.rf>
 <form>Stoličnaja</form>
-<tag lemma="Stoličnaja-1_,t_^(vodka)" src="orig" selected="1">NNFS1-----A----</tag>
+<tag>
+<AM lemma="Stoličnaja-1_,t_^(vodka)" src="orig">NNFS1-----A----</AM>
+<AM lemma="Stoličnaja-1_^(vodka)" src="manual" selected="1">NNFS1-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920925-031-p1s1w17">
 <src.rf>manual</src.rf>

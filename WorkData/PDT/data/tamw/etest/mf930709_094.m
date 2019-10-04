@@ -168,7 +168,7 @@
 </w.rf>
 <form>pa</form>
 <tag>
-<AM lemma="pa-99_:B_;S" src="orig">NNXXX-----A---8</AM>
+<AM lemma="pa-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</AM>
 <AM lemma="pa" src="auto" recommended="1">II-------------</AM>
 </tag>
 </m>
@@ -608,6 +608,8 @@
 <AM lemma="Fino_;K_^(aperitiv)" src="auto">NNNS2-----A----</AM>
 <AM lemma="Fino_;S" src="auto">NNMS2-----A----</AM>
 <AM lemma="Fino_;S" src="auto">NNMS4-----A----</AM>
+<AM lemma="FINA_:B" src="manual">NNXXX-----A---8</AM>
+<AM lemma="FINA-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-mf930709-094-p2s3w11">
@@ -2393,7 +2395,7 @@
 <tag>
 <AM lemma="přesto" src="orig">Dg-------1A----</AM>
 <AM lemma="přesto-1" src="auto" recommended="1">Db-------------</AM>
-<AM lemma="přesto-2" src="auto">J^-------------</AM>
+<AM lemma="přesto-2" src="auto" selected="1">J^-------------</AM>
 </tag>
 </m>
 <m id="m-mf930709-094-p2s15w3">
@@ -3242,7 +3244,7 @@
 <form>jakoukoli</form>
 <tag>
 <AM lemma="jakýkoliv" src="orig">PZFS4---------1</AM>
-<AM lemma="jakýkoli" src="auto" recommended="1">PZFS4----------</AM>
+<AM lemma="jakýkoli" src="auto" recommended="1" selected="1">PZFS4----------</AM>
 <AM lemma="jakýkoli" src="auto">PZFS7----------</AM>
 </tag>
 </m>

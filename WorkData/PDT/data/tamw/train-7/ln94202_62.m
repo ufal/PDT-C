@@ -40,6 +40,7 @@
 <tag>
 <AM lemma="USA_;G" src="orig">NNIPX-----A----</AM>
 <AM lemma="USA_:B_;K_,t_^(United_States_of_America)" src="auto" recommended="1">NNIPX-----A---8</AM>
+<AM lemma="USA_:B_;K_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94202-62-p2s1w3">
@@ -162,7 +163,10 @@
 <LM>w#w-ln94202-62-p2s2w7</LM>
 </w.rf>
 <form>W</form>
-<tag lemma="W-0_:B_;Y" src="orig" selected="1">NNMXX-----A---8</tag>
+<tag>
+<AM lemma="W-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
+<AM lemma="W-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94202-62-p2s2w8">
 <src.rf>manual</src.rf>
@@ -210,7 +214,10 @@
 <LM>w#w-ln94202-62-p2s2w13</LM>
 </w.rf>
 <form>řekl</form>
-<tag lemma="říci" src="auto" selected="1">VpYS---XR-AA---</tag>
+<tag>
+<AM lemma="říci" src="auto">VpYS---XR-AA---</AM>
+<AM lemma="říci_:W" src="manual" selected="1">VpYS---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-ln94202-62-p2s2w14">
 <src.rf>manual</src.rf>
@@ -252,7 +259,7 @@
 <form>jakýmkoli</form>
 <tag>
 <AM lemma="jakýkoliv" src="orig">PZXP3---------1</AM>
-<AM lemma="jakýkoli" src="auto" recommended="1">PZXP3----------</AM>
+<AM lemma="jakýkoli" src="auto" recommended="1" selected="1">PZXP3----------</AM>
 <AM lemma="jakýkoli" src="auto">PZZS7----------</AM>
 </tag>
 </m>
@@ -456,7 +463,10 @@
 <LM>w#w-ln94202-62-p3s1w3</LM>
 </w.rf>
 <form>F</form>
-<tag lemma="F-0_:B_;Y" src="orig" selected="1">NNMXX-----A---8</tag>
+<tag>
+<AM lemma="F-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
+<AM lemma="F-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94202-62-p3s1w4">
 <src.rf>manual</src.rf>
@@ -722,7 +732,10 @@
 <LM>w#w-ln94202-62-p3s2w6</LM>
 </w.rf>
 <form>Juventud</form>
-<tag lemma="Juventud_;R_,t" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="Juventud_;R_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="Juventud-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94202-62-p3s2w7">
 <src.rf>manual</src.rf>
@@ -730,7 +743,10 @@
 <LM>w#w-ln94202-62-p3s2w7</LM>
 </w.rf>
 <form>Rebelde</form>
-<tag lemma="Rebelde_;R_,t" src="orig" selected="1">NNXXX-----A----</tag>
+<tag>
+<AM lemma="Rebelde_;R_,t" src="orig">NNXXX-----A----</AM>
+<AM lemma="Rebelde-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94202-62-p3s2w8">
 <src.rf>manual</src.rf>
@@ -820,7 +836,10 @@
 <LM>w#w-ln94202-62-p4s1w10</LM>
 </w.rf>
 <form>G</form>
-<tag lemma="G-0_:B_;Y" src="orig" selected="1">NNMXX-----A---8</tag>
+<tag>
+<AM lemma="G-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
+<AM lemma="G-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94202-62-p4s1w11">
 <src.rf>manual</src.rf>
@@ -870,7 +889,10 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>B</form>
-<tag lemma="B-0_:B_;Y" src="orig" selected="1">NNMXX-----A---8</tag>
+<tag>
+<AM lemma="B-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
+<AM lemma="B-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94202-62-p4s1w17">
 <src.rf>manual</src.rf>
@@ -1124,7 +1146,10 @@
 <LM>w#w-ln94202-62-p5s2w1</LM>
 </w.rf>
 <form>L</form>
-<tag lemma="L-0_:B_;Y" src="orig" selected="1">NNMXX-----A---8</tag>
+<tag>
+<AM lemma="L-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
+<AM lemma="L-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94202-62-p5s2w2">
 <src.rf>manual</src.rf>
@@ -1278,7 +1303,10 @@
 <LM>w#w-ln94202-62-p5s3w11</LM>
 </w.rf>
 <form>P</form>
-<tag lemma="P-0_:B_;Y" src="orig" selected="1">NNMXX-----A---8</tag>
+<tag>
+<AM lemma="P-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
+<AM lemma="P-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94202-62-p5s3w12">
 <src.rf>manual</src.rf>
@@ -1387,6 +1415,7 @@
 <tag>
 <AM lemma="USA_;G" src="orig">NNIPX-----A----</AM>
 <AM lemma="USA_:B_;K_,t_^(United_States_of_America)" src="auto" recommended="1">NNIPX-----A---8</AM>
+<AM lemma="USA_:B_;K_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94202-62-p6s1w4">
@@ -1395,7 +1424,10 @@
 <LM>w#w-ln94202-62-p6s1w4</LM>
 </w.rf>
 <form>R</form>
-<tag lemma="R-0_:B_;Y" src="orig" selected="1">NNMXX-----A---8</tag>
+<tag>
+<AM lemma="R-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
+<AM lemma="R-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94202-62-p6s1w5">
 <src.rf>manual</src.rf>
@@ -1685,7 +1717,10 @@
 <LM>w#w-ln94202-62-p6s2w14</LM>
 </w.rf>
 <form>Wang</form>
-<tag lemma="Wang_;S" src="auto" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Wang_;S" src="auto">NNMS1-----A----</AM>
+<AM lemma="Wang_;S" src="manual" selected="1">NNMXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94202-62-p6s2w15">
 <src.rf>manual</src.rf>

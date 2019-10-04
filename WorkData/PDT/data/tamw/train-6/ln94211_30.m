@@ -53,7 +53,10 @@
 <LM>w#w-ln94211-30-p2s1Aw2</LM>
 </w.rf>
 <form>Hanák</form>
-<tag lemma="Hanák_;E" src="auto" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Hanák_;E" src="auto">NNMS1-----A----</AM>
+<AM lemma="Hanák_;E_;S" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 </s>
 <s id="m-ln94211-30-p2s1B">
@@ -79,7 +82,10 @@
 <LM>w#w-ln94211-30-p2s1Bw3</LM>
 </w.rf>
 <form>nezapomněli</form>
-<tag lemma="zapomenout" src="orig" selected="1">VpMP---XR-NA---</tag>
+<tag>
+<AM lemma="zapomenout" src="orig">VpMP---XR-NA---</AM>
+<AM lemma="zapomenout_:W" src="manual" selected="1">VpMP---XR-NA---</AM>
+</tag>
 </m>
 <m id="m-ln94211-30-p2s1Bw4">
 <src.rf>manual</src.rf>
@@ -224,6 +230,7 @@
 <AM lemma="dělo" src="auto">NNNS1-----A----</AM>
 <AM lemma="dělo" src="auto">NNNS4-----A----</AM>
 <AM lemma="dělo" src="auto">NNNS5-----A----</AM>
+<AM lemma="dít-1_:T_^(dít_se)" src="manual" selected="1">VpNS---XR-AA---</AM>
 </tag>
 </m>
 <m id="m-ln94211-30-p2s2w4">
@@ -860,7 +867,7 @@
 <form>nikoliv</form>
 <tag>
 <AM lemma="nikoliv" src="orig">Db-------------</AM>
-<AM lemma="nikoli" src="auto" recommended="1">TT------------1</AM>
+<AM lemma="nikoli" src="auto" recommended="1" selected="1">TT------------1</AM>
 </tag>
 </m>
 <m id="m-ln94211-30-p2s7w29">
@@ -1203,7 +1210,10 @@
 <LM>w#w-ln94211-30-p4s1w12</LM>
 </w.rf>
 <form>říci</form>
-<tag lemma="říci" src="auto" selected="1">Vf--------A---1</tag>
+<tag>
+<AM lemma="říci" src="auto">Vf--------A---1</AM>
+<AM lemma="říci_:W" src="manual" selected="1">Vf--------A---1</AM>
+</tag>
 </m>
 <m id="m-ln94211-30-p4s1w13">
 <src.rf>manual</src.rf>
@@ -1362,7 +1372,7 @@
 <tag>
 <AM lemma="totiž" src="orig">Db-------------</AM>
 <AM lemma="totiž-1" src="auto" recommended="1">J^-------------</AM>
-<AM lemma="totiž-2" src="auto">TT-------------</AM>
+<AM lemma="totiž-2" src="auto" selected="1">TT-------------</AM>
 </tag>
 </m>
 <m id="m-ln94211-30-p4s3w2">
@@ -1534,7 +1544,7 @@
 <tag>
 <AM lemma="cokoliv" src="orig">PZ--4----------</AM>
 <AM lemma="cokoli" src="auto">PZ--1---------1</AM>
-<AM lemma="cokoli" src="auto" recommended="1">PZ--4---------1</AM>
+<AM lemma="cokoli" src="auto" recommended="1" selected="1">PZ--4---------1</AM>
 <AM lemma="cokoli" src="auto">PZ--5---------1</AM>
 </tag>
 </m>
@@ -2216,7 +2226,10 @@
 <LM>w#w-ln94211-30-p5s4w5</LM>
 </w.rf>
 <form>žije</form>
-<tag lemma="žít" src="auto" selected="1">VB-S---3P-AA---</tag>
+<tag>
+<AM lemma="žít" src="auto">VB-S---3P-AA---</AM>
+<AM lemma="žít_:T" src="manual" selected="1">VB-S---3P-AA---</AM>
+</tag>
 </m>
 <m id="m-ln94211-30-p5s4w6">
 <src.rf>manual</src.rf>
@@ -2316,7 +2329,7 @@
 <form>nikoliv</form>
 <tag>
 <AM lemma="nikoliv" src="orig">Db-------------</AM>
-<AM lemma="nikoli" src="auto" recommended="1">TT------------1</AM>
+<AM lemma="nikoli" src="auto" recommended="1" selected="1">TT------------1</AM>
 </tag>
 </m>
 <m id="m-ln94211-30-p5s5w8">
@@ -2875,7 +2888,10 @@
 <LM>w#w-ln94211-30-p5s8w17</LM>
 </w.rf>
 <form>začal</form>
-<tag lemma="začít-1_^(začnout)" src="auto" selected="1">VpYS---XR-AA---</tag>
+<tag>
+<AM lemma="začít-1_^(začnout)" src="auto">VpYS---XR-AA---</AM>
+<AM lemma="začít-1_:W_^(začnout)" src="manual" selected="1">VpYS---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-ln94211-30-p5s8w18">
 <src.rf>manual</src.rf>
@@ -3191,7 +3207,10 @@
 <LM>w#w-ln94211-30-p6s1w6</LM>
 </w.rf>
 <form>vědí</form>
-<tag lemma="vědět" src="auto" selected="1">VB-P---3P-AA---</tag>
+<tag>
+<AM lemma="vědět" src="auto">VB-P---3P-AA---</AM>
+<AM lemma="vědět_:T" src="manual" selected="1">VB-P---3P-AA---</AM>
+</tag>
 </m>
 <m id="m-ln94211-30-p6s1w7">
 <src.rf>manual</src.rf>
@@ -3241,7 +3260,10 @@
 <LM>w#w-ln94211-30-p6s2w5</LM>
 </w.rf>
 <form>právě</form>
-<tag lemma="právě-1" src="auto" selected="1">Db-------------</tag>
+<tag>
+<AM lemma="právě-1" src="auto">Db-------------</AM>
+<AM lemma="právě-2" src="manual" selected="1">TT-------------</AM>
+</tag>
 </m>
 <m id="m-ln94211-30-p6s2w6">
 <src.rf>manual</src.rf>
@@ -3291,7 +3313,10 @@
 <LM>w#w-ln94211-30-p6s3w2</LM>
 </w.rf>
 <form>právě</form>
-<tag lemma="právě-1" src="auto" selected="1">Db-------------</tag>
+<tag>
+<AM lemma="právě-1" src="auto">Db-------------</AM>
+<AM lemma="právě-2" src="manual" selected="1">TT-------------</AM>
+</tag>
 </m>
 <m id="m-ln94211-30-p6s3w3">
 <src.rf>manual</src.rf>

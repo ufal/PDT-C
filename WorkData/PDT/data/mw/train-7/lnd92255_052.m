@@ -103,7 +103,10 @@
 <LM>w#w-lnd92255-052-p3s1w3</LM>
 </w.rf>
 <form>ph</form>
-<tag lemma="ph-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="ph-99_:B_;S" src="orig">NNXXX-----A---8</AM>
+<AM lemma="ph-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92255-052-p3s1w4">
 <src.rf>manual</src.rf>
@@ -583,7 +586,10 @@
 <LM>w#w-lnd92255-052-p3s5w7</LM>
 </w.rf>
 <form>know</form>
-<tag lemma="know_,t_^(know_how)" src="orig" selected="1">NNNXX-----A----</tag>
+<tag>
+<AM lemma="know_,t_^(know_how)" src="orig">NNNXX-----A----</AM>
+<AM lemma="know-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-lnd92255-052-p3s5w8">
 <src.rf>manual</src.rf>
@@ -599,7 +605,10 @@
 <LM>w#w-lnd92255-052-p3s5w9</LM>
 </w.rf>
 <form>how</form>
-<tag lemma="how_,t_^(know_how)" src="orig" selected="1">NNNXX-----A----</tag>
+<tag>
+<AM lemma="how_,t_^(know_how)" src="orig">NNNXX-----A----</AM>
+<AM lemma="how-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-lnd92255-052-p3s5w10">
 <src.rf>manual</src.rf>
@@ -1069,7 +1078,10 @@
 <LM>w#w-lnd92255-052-p3s8w3</LM>
 </w.rf>
 <form>vedl</form>
-<tag lemma="vést" src="auto" selected="1">VpYS---XR-AA---</tag>
+<tag>
+<AM lemma="vést" src="auto">VpYS---XR-AA---</AM>
+<AM lemma="vést_:T" src="manual" selected="1">VpYS---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-lnd92255-052-p3s8w4">
 <src.rf>manual</src.rf>
@@ -1093,7 +1105,10 @@
 <LM>w#w-lnd92255-052-p3s8w6</LM>
 </w.rf>
 <form>V</form>
-<tag lemma="V-0_:B_;Y" src="orig" selected="1">NNMXX-----A---8</tag>
+<tag>
+<AM lemma="V-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
+<AM lemma="V-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd92255-052-p3s8w7">
 <src.rf>manual</src.rf>

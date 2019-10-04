@@ -199,7 +199,10 @@
 <LM>w#w-lnd92251-115-p2s2w8</LM>
 </w.rf>
 <form>ČSFA</form>
-<tag lemma="ČSFA_:B_;K" src="auto" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="ČSFA_:B_;K" src="auto">NNXXX-----A---8</AM>
+<AM lemma="ČSFA-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92251-115-p2s2w9">
 <src.rf>manual</src.rf>
@@ -428,7 +431,7 @@
 <tag>
 <AM lemma="přece" src="orig">Db------------1</AM>
 <AM lemma="přece-1" src="auto" recommended="1">J^------------1</AM>
-<AM lemma="přece-2" src="auto">TT------------1</AM>
+<AM lemma="přece-2" src="auto" selected="1">TT------------1</AM>
 </tag>
 </m>
 <m id="m-lnd92251-115-p2s3w22">
@@ -775,7 +778,10 @@
 <LM>w#w-lnd92251-115-p2s4w29</LM>
 </w.rf>
 <form>omilostněn</form>
-<tag lemma="omilostnit" src="orig" selected="1">VsYS---XX-AP---</tag>
+<tag>
+<AM lemma="omilostnit" src="orig">VsYS---XX-AP---</AM>
+<AM lemma="omilostnit_:W" src="manual" selected="1">VsYS---XX-AP---</AM>
+</tag>
 </m>
 <m id="m-lnd92251-115-p2s4w30">
 <src.rf>manual</src.rf>
@@ -811,7 +817,7 @@
 <form>totiž</form>
 <tag>
 <AM lemma="totiž" src="orig">Db-------------</AM>
-<AM lemma="totiž-1" src="auto" recommended="1">J^-------------</AM>
+<AM lemma="totiž-1" src="auto" recommended="1" selected="1">J^-------------</AM>
 <AM lemma="totiž-2" src="auto">TT-------------</AM>
 </tag>
 </m>
@@ -1071,7 +1077,10 @@
 <LM>w#w-lnd92251-115-p2s6w4</LM>
 </w.rf>
 <form>mít</form>
-<tag lemma="mít" src="orig" selected="1">Vf--------A----</tag>
+<tag>
+<AM lemma="mít" src="orig">Vf--------A----</AM>
+<AM lemma="mít_:T" src="manual" selected="1">Vf--------A----</AM>
+</tag>
 </m>
 <m id="m-lnd92251-115-p2s6w5">
 <src.rf>manual</src.rf>
@@ -1185,7 +1194,10 @@
 <LM>w#w-lnd92251-115-p2s7w5</LM>
 </w.rf>
 <form>hodně</form>
-<tag lemma="hodně-2_^(nezlobivý)_(*3ý-2)" src="auto" selected="1">Dg-------1A----</tag>
+<tag>
+<AM lemma="hodně-2_^(nezlobivý)_(*3ý-2)" src="auto">Dg-------1A----</AM>
+<AM lemma="hodně-3" src="manual" selected="1">Dg-------1A----</AM>
+</tag>
 </m>
 <m id="m-lnd92251-115-p2s7w6">
 <src.rf>manual</src.rf>
@@ -1357,7 +1369,7 @@
 <form>ryze</form>
 <tag>
 <AM lemma="ryzí" src="orig">Dg-------1A----</AM>
-<AM lemma="ryze" src="auto" recommended="1">Dg-------1A----</AM>
+<AM lemma="ryze" src="auto" recommended="1" selected="1">Dg-------1A----</AM>
 </tag>
 </m>
 <m id="m-lnd92251-115-p2s8w5">
@@ -1454,7 +1466,10 @@
 <LM>w#w-lnd92251-115-p2s8w16</LM>
 </w.rf>
 <form>S</form>
-<tag lemma="s-3_^(označení_pomocí_písmene)" src="orig" selected="1">NNNXX-----A----</tag>
+<tag>
+<AM lemma="s-3_^(označení_pomocí_písmene)" src="orig">NNNXX-----A----</AM>
+<AM lemma="S-33_^(označení_pomocí_písmene)" src="manual" selected="1">NNNXX-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92251-115-p2s8w17">
 <src.rf>manual</src.rf>
@@ -1560,7 +1575,10 @@
 <LM>w#w-lnd92251-115-p2s9w11</LM>
 </w.rf>
 <form>vyjít</form>
-<tag lemma="vyjít" src="orig" selected="1">Vf--------A----</tag>
+<tag>
+<AM lemma="vyjít" src="orig">Vf--------A----</AM>
+<AM lemma="vyjít_:W" src="manual" selected="1">Vf--------A----</AM>
+</tag>
 </m>
 <m id="m-lnd92251-115-p2s9w12">
 <src.rf>manual</src.rf>
@@ -1714,7 +1732,10 @@
 <LM>w#w-lnd92251-115-p2s10w10</LM>
 </w.rf>
 <form>nedokáže</form>
-<tag lemma="dokázat" src="orig" selected="1">VB-S---3P-NA---</tag>
+<tag>
+<AM lemma="dokázat" src="orig">VB-S---3P-NA---</AM>
+<AM lemma="dokázat_:W" src="manual" selected="1">VB-S---3P-NA---</AM>
+</tag>
 </m>
 <m id="m-lnd92251-115-p2s10w11">
 <src.rf>manual</src.rf>
@@ -1748,7 +1769,10 @@
 <LM>w#w-lnd92251-115-p2s11w3</LM>
 </w.rf>
 <form>děje</form>
-<tag lemma="dít-1_^(dít_se)" src="auto" selected="1">VB-S---3P-AA---</tag>
+<tag>
+<AM lemma="dít-1_^(dít_se)" src="auto">VB-S---3P-AA---</AM>
+<AM lemma="dít-1_:T_^(dít_se)" src="manual" selected="1">VB-S---3P-AA---</AM>
+</tag>
 </m>
 <m id="m-lnd92251-115-p2s11w4">
 <src.rf>manual</src.rf>
@@ -1812,7 +1836,10 @@
 <LM>w#w-lnd92251-115-p2s11w11</LM>
 </w.rf>
 <form>neslyší</form>
-<tag lemma="slyšet" src="orig" selected="1">VB-S---3P-NA---</tag>
+<tag>
+<AM lemma="slyšet" src="orig">VB-S---3P-NA---</AM>
+<AM lemma="slyšet_:T" src="manual" selected="1">VB-S---3P-NA---</AM>
+</tag>
 </m>
 <m id="m-lnd92251-115-p2s11w12">
 <src.rf>manual</src.rf>
@@ -1841,7 +1868,7 @@
 <tag>
 <AM lemma="tedy" src="orig">Db-------------</AM>
 <AM lemma="tedy-1" src="auto">TT-------------</AM>
-<AM lemma="tedy-2" src="auto" recommended="1">J^-------------</AM>
+<AM lemma="tedy-2" src="auto" recommended="1" selected="1">J^-------------</AM>
 </tag>
 </m>
 <m id="m-lnd92251-115-p2s12w3">
@@ -1876,7 +1903,11 @@
 <LM>w#w-lnd92251-115-p3s1w2</LM>
 </w.rf>
 <form>ŠVÉD</form>
-<tag lemma="Švéd_;E" src="auto" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Švéd_;E" src="auto">NNMS1-----A----</AM>
+<AM lemma="Švéd-2_;S" src="manual">NNMS1-----A----</AM>
+<AM lemma="Švéd_;E_;S" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 </s>
 </mdata>

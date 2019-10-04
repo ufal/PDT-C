@@ -46,7 +46,7 @@
 </w.rf>
 <form>Navarov</form>
 <tag>
-<AM lemma="Navarov-2_;G" src="orig">NNIS1-----A----</AM>
+<AM lemma="Navarov-2_;G" src="orig" selected="1">NNIS1-----A----</AM>
 <AM lemma="Navarov_;S" src="auto" recommended="1">NNMS1-----A----</AM>
 </tag>
 </m>
@@ -227,7 +227,7 @@
 </w.rf>
 <form>Navarov</form>
 <tag>
-<AM lemma="Navarov-2_;G" src="orig">NNIS1-----A----</AM>
+<AM lemma="Navarov-2_;G" src="orig" selected="1">NNIS1-----A----</AM>
 <AM lemma="Navarov_;S" src="auto" recommended="1">NNMS1-----A----</AM>
 </tag>
 </m>
@@ -487,7 +487,7 @@
 <form>padesátimetrovém</form>
 <tag>
 <AM lemma="padesátimetrový" src="orig">NNMS6-----A----</AM>
-<AM lemma="padesátimetrový" src="auto" recommended="1">AAIS6----1A----</AM>
+<AM lemma="padesátimetrový" src="auto" recommended="1" selected="1">AAIS6----1A----</AM>
 <AM lemma="padesátimetrový" src="auto">AAMS6----1A----</AM>
 <AM lemma="padesátimetrový" src="auto">AANS6----1A----</AM>
 </tag>

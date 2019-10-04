@@ -52,6 +52,7 @@
 <AM lemma="Bilbao_;G_,x" src="auto">NNNS5-----A----</AM>
 <AM lemma="Bilbo_;S" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Bilbo_;S" src="auto">NNMS5-----A----</AM>
+<AM lemma="Bilbo-2_;Y" src="manual" selected="1">NNMSX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94207-106-p2s1w4">
@@ -125,7 +126,7 @@
 </w.rf>
 <form>Minor</form>
 <tag>
-<AM lemma="Minor_;K" src="orig">NNIS1-----A----</AM>
+<AM lemma="Minor_;K" src="orig" selected="1">NNIS1-----A----</AM>
 <AM lemma="Minore_;K" src="auto">NNNSX-----A----</AM>
 <AM lemma="minor" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="minor" src="auto">NNIS4-----A----</AM>
@@ -177,7 +178,10 @@
 <LM>w#w-ln94207-106-p2s1w18</LM>
 </w.rf>
 <form>MF</form>
-<tag lemma="MF-3_:B_;K_;b_^(Mladá_Fronta,_nakl.)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="MF-3_:B_;K_;b_^(Mladá_Fronta,_nakl.)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="MF-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94207-106-p2s1w19">
 <src.rf>manual</src.rf>
@@ -217,7 +221,10 @@
 <LM>w#w-ln94207-106-p2s1w23</LM>
 </w.rf>
 <form>J</form>
-<tag lemma="J-0_:B_;Y" src="orig" selected="1">NNMXX-----A---8</tag>
+<tag>
+<AM lemma="J-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
+<AM lemma="J-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94207-106-p2s1w24">
 <src.rf>manual</src.rf>
@@ -233,7 +240,10 @@
 <LM>w#w-ln94207-106-p2s1w25</LM>
 </w.rf>
 <form>R</form>
-<tag lemma="R-0_:B_;Y" src="orig" selected="1">NNMXX-----A---8</tag>
+<tag>
+<AM lemma="R-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
+<AM lemma="R-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94207-106-p2s1w26">
 <src.rf>manual</src.rf>
@@ -249,7 +259,10 @@
 <LM>w#w-ln94207-106-p2s1w27</LM>
 </w.rf>
 <form>R</form>
-<tag lemma="R-0_:B_;Y" src="orig" selected="1">NNMXX-----A---8</tag>
+<tag>
+<AM lemma="R-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
+<AM lemma="R-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94207-106-p2s1w28">
 <src.rf>manual</src.rf>
@@ -452,7 +465,7 @@
 </w.rf>
 <form>Minoru</form>
 <tag>
-<AM lemma="Minor_;K" src="orig">NNIS6-----A----</AM>
+<AM lemma="Minor_;K" src="orig" selected="1">NNIS6-----A----</AM>
 <AM lemma="minor" src="auto">NNIS2-----A----</AM>
 <AM lemma="minor" src="auto">NNIS3-----A----</AM>
 <AM lemma="minor" src="auto" recommended="1">NNIS6-----A----</AM>
@@ -496,7 +509,10 @@
 <LM>w#w-ln94207-106-p2s2w27</LM>
 </w.rf>
 <form>Bilbova</form>
-<tag lemma="Bilbův_;S_^(*2o)" src="auto" selected="1">AUIS2M---------</tag>
+<tag>
+<AM lemma="Bilbův_;S_^(*2o)" src="auto">AUIS2M---------</AM>
+<AM lemma="Bilbův_;Y_^(*2o)" src="manual" selected="1">AUIS2M---------</AM>
+</tag>
 </m>
 <m id="m-ln94207-106-p2s2w28">
 <src.rf>manual</src.rf>
@@ -667,7 +683,7 @@
 </w.rf>
 <form>Minor</form>
 <tag>
-<AM lemma="Minor_;K" src="orig">NNIS1-----A----</AM>
+<AM lemma="Minor_;K" src="orig" selected="1">NNIS1-----A----</AM>
 <AM lemma="Minore_;K" src="auto">NNNSX-----A----</AM>
 <AM lemma="minor" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="minor" src="auto">NNIS4-----A----</AM>
@@ -711,7 +727,10 @@
 <LM>w#w-ln94207-106-p2s3w24</LM>
 </w.rf>
 <form>MF</form>
-<tag lemma="MF-3_:B_;K_;b_^(Mladá_Fronta,_nakl.)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="MF-3_:B_;K_;b_^(Mladá_Fronta,_nakl.)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="MF-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94207-106-p2s3w25">
 <src.rf>manual</src.rf>

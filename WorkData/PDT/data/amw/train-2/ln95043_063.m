@@ -19,7 +19,10 @@
 <LM>w#w-ln95043-063-p1s1w1</LM>
 </w.rf>
 <form>ODS</form>
-<tag lemma="ODS-1_:B_;K_;p_^(Občanská_demokratická_strana)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ODS-1_:B_;K_;p_^(Občanská_demokratická_strana)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ODS-1_:B_;K_^(Občanská_demokratická_strana)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95043-063-p1s1w2">
 <src.rf>manual</src.rf>
@@ -96,7 +99,7 @@
 </w.rf>
 <form>Lomná</form>
 <tag>
-<AM lemma="Lomná_;G" src="orig">NNFS1-----A----</AM>
+<AM lemma="Lomná_;G" src="orig" selected="1">NNFS1-----A----</AM>
 <AM lemma="lomný" src="auto" recommended="1">AAFS1----1A----</AM>
 <AM lemma="lomný" src="auto">AAFS5----1A----</AM>
 <AM lemma="lomný" src="auto">AANP1----1A----</AM>
@@ -168,7 +171,10 @@
 <LM>w#w-ln95043-063-p2s1Cw7</LM>
 </w.rf>
 <form>strany</form>
-<tag lemma="strana-2_^(politická)" src="orig" selected="1">NNFS2-----A----</tag>
+<tag>
+<AM lemma="strana-2_^(politická)" src="orig">NNFS2-----A----</AM>
+<AM lemma="strana" src="manual" selected="1">NNFS2-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95043-063-p2s1Cw8">
 <src.rf>manual</src.rf>
@@ -272,7 +278,10 @@
 <LM>w#w-ln95043-063-p2s1Cw20</LM>
 </w.rf>
 <form>rada</form>
-<tag lemma="rada-3_^(poradní_sbor;_př._Česká_národní_r.)" src="orig" selected="1">NNFS1-----A----</tag>
+<tag>
+<AM lemma="rada-3_^(poradní_sbor;_př._Česká_národní_r.)" src="orig">NNFS1-----A----</AM>
+<AM lemma="rada-1_^(př._dát_někomu_dobrou_radu_poradní_sbor)" src="manual" selected="1">NNFS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95043-063-p2s1Cw21">
 <src.rf>manual</src.rf>
@@ -280,7 +289,10 @@
 <LM>w#w-ln95043-063-p2s1Cw21</LM>
 </w.rf>
 <form>ODS</form>
-<tag lemma="ODS-1_:B_;K_;p_^(Občanská_demokratická_strana)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ODS-1_:B_;K_;p_^(Občanská_demokratická_strana)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ODS-1_:B_;K_^(Občanská_demokratická_strana)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95043-063-p2s1Cw22">
 <src.rf>manual</src.rf>
@@ -321,7 +333,7 @@
 </w.rf>
 <form>Lomné</form>
 <tag>
-<AM lemma="Lomná_;G" src="orig">NNFS6-----A----</AM>
+<AM lemma="Lomná_;G" src="orig" selected="1">NNFS6-----A----</AM>
 <AM lemma="lomný" src="auto">AAFP1----1A----</AM>
 <AM lemma="lomný" src="auto">AAFP4----1A----</AM>
 <AM lemma="lomný" src="auto">AAFP5----1A----</AM>
@@ -412,7 +424,10 @@
 <LM>w#w-ln95043-063-p2s2w4</LM>
 </w.rf>
 <form>strany</form>
-<tag lemma="strana-2_^(politická)" src="orig" selected="1">NNFS2-----A----</tag>
+<tag>
+<AM lemma="strana-2_^(politická)" src="orig">NNFS2-----A----</AM>
+<AM lemma="strana" src="manual" selected="1">NNFS2-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95043-063-p2s2w5">
 <src.rf>manual</src.rf>
@@ -524,7 +539,10 @@
 <LM>w#w-ln95043-063-p2s2w18</LM>
 </w.rf>
 <form>ODS</form>
-<tag lemma="ODS-1_:B_;K_;p_^(Občanská_demokratická_strana)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ODS-1_:B_;K_;p_^(Občanská_demokratická_strana)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ODS-1_:B_;K_^(Občanská_demokratická_strana)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95043-063-p2s2w19">
 <src.rf>manual</src.rf>
@@ -580,7 +598,10 @@
 <LM>w#w-ln95043-063-p2s2w25</LM>
 </w.rf>
 <form>diskusí</form>
-<tag lemma="diskuse" src="orig" selected="1">NNFS7-----A----</tag>
+<tag>
+<AM lemma="diskuse" src="orig">NNFS7-----A----</AM>
+<AM lemma="diskuse_,s_^(^DD**diskuze)" src="manual" selected="1">NNFS7-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95043-063-p2s2w26">
 <src.rf>manual</src.rf>
@@ -604,7 +625,10 @@
 <LM>w#w-ln95043-063-p2s2w28</LM>
 </w.rf>
 <form>strany</form>
-<tag lemma="strana-2_^(politická)" src="orig" selected="1">NNFS2-----A----</tag>
+<tag>
+<AM lemma="strana-2_^(politická)" src="orig">NNFS2-----A----</AM>
+<AM lemma="strana" src="manual" selected="1">NNFS2-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95043-063-p2s2w29">
 <src.rf>manual</src.rf>
@@ -670,7 +694,10 @@
 <LM>w#w-ln95043-063-p2s3w7</LM>
 </w.rf>
 <form>rada</form>
-<tag lemma="rada-3_^(poradní_sbor;_př._Česká_národní_r.)" src="orig" selected="1">NNFS1-----A----</tag>
+<tag>
+<AM lemma="rada-3_^(poradní_sbor;_př._Česká_národní_r.)" src="orig">NNFS1-----A----</AM>
+<AM lemma="rada-1_^(př._dát_někomu_dobrou_radu_poradní_sbor)" src="manual" selected="1">NNFS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95043-063-p2s3w8">
 <src.rf>manual</src.rf>

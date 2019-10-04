@@ -27,7 +27,10 @@
 <LM>w#w-mf930701-130-p1s1w2</LM>
 </w.rf>
 <form>Pavel</form>
-<tag lemma="Pavel-1_;Y" src="orig" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Pavel-1_;Y" src="orig">NNMS1-----A----</AM>
+<AM lemma="Pavel_;Y_;S" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930701-130-p1s1w3">
 <src.rf>manual</src.rf>
@@ -35,7 +38,10 @@
 <LM>w#w-mf930701-130-p1s1w3</LM>
 </w.rf>
 <form>Pavel</form>
-<tag lemma="Pavel-2_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Pavel-2_;S" src="orig">NNMS1-----A----</AM>
+<AM lemma="Pavel_;Y_;S" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930701-130-p1s1w4">
 <src.rf>manual</src.rf>
@@ -93,7 +99,10 @@
 <LM>w#w-mf930701-130-p2s1w5</LM>
 </w.rf>
 <form>Pavel</form>
-<tag lemma="Pavel-1_;Y" src="orig" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Pavel-1_;Y" src="orig">NNMS1-----A----</AM>
+<AM lemma="Pavel_;Y_;S" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930701-130-p2s1w6">
 <src.rf>manual</src.rf>
@@ -101,7 +110,10 @@
 <LM>w#w-mf930701-130-p2s1w6</LM>
 </w.rf>
 <form>Pavel</form>
-<tag lemma="Pavel-2_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Pavel-2_;S" src="orig">NNMS1-----A----</AM>
+<AM lemma="Pavel_;Y_;S" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930701-130-p2s1w7">
 <src.rf>manual</src.rf>
@@ -818,7 +830,7 @@
 <AM lemma="Pavlův-1_;Y_^(*5el-1)" src="auto">AUMS6M--------1</AM>
 <AM lemma="Pavlův-1_;Y_^(*5el-1)" src="auto">AUNS3M---------</AM>
 <AM lemma="Pavlův-1_;Y_^(*5el-1)" src="auto">AUNS6M--------1</AM>
-<AM lemma="Pavlův-2_;S_^(*5el-2)" src="auto" recommended="1">AUFS4M---------</AM>
+<AM lemma="Pavlův-2_;S_^(*5el-2)" src="auto" recommended="1" selected="1">AUFS4M---------</AM>
 <AM lemma="Pavlův-2_;S_^(*5el-2)" src="auto">AUIS3M---------</AM>
 <AM lemma="Pavlův-2_;S_^(*5el-2)" src="auto">AUIS6M--------1</AM>
 <AM lemma="Pavlův-2_;S_^(*5el-2)" src="auto">AUMS3M---------</AM>
@@ -1130,7 +1142,10 @@
 <LM>w#w-mf930701-130-p4s2w4</LM>
 </w.rf>
 <form>jenom</form>
-<tag lemma="jenom-1" src="auto" selected="1">TT-------------</tag>
+<tag>
+<AM lemma="jenom-1" src="auto">TT-------------</AM>
+<AM lemma="jenom-2_^(pouze)" src="manual" selected="1">Db-------------</AM>
+</tag>
 </m>
 <m id="m-mf930701-130-p4s2w5">
 <src.rf>manual</src.rf>
@@ -1268,7 +1283,10 @@
 <LM>w#w-mf930701-130-p4s3w3</LM>
 </w.rf>
 <form>ani</form>
-<tag lemma="ani-1" src="auto" selected="1">J^-------------</tag>
+<tag>
+<AM lemma="ani-1" src="auto">J^-------------</AM>
+<AM lemma="ani-2" src="manual" selected="1">TT-------------</AM>
+</tag>
 </m>
 <m id="m-mf930701-130-p4s3w4">
 <src.rf>manual</src.rf>
@@ -2058,7 +2076,10 @@
 <LM>w#w-mf930701-130-p6s1w5</LM>
 </w.rf>
 <form>Pavel</form>
-<tag lemma="Pavel-2_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Pavel-2_;S" src="orig">NNMS1-----A----</AM>
+<AM lemma="Pavel_;Y_;S" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930701-130-p6s1w6">
 <src.rf>manual</src.rf>
@@ -2226,7 +2247,10 @@
 <LM>w#w-mf930701-130-p6s1w26</LM>
 </w.rf>
 <form>milionů</form>
-<tag lemma="milión`1000000" src="orig" selected="1">NNIP2-----A----</tag>
+<tag>
+<AM lemma="milión`1000000" src="orig">NNIP2-----A----</AM>
+<AM lemma="milion`1000000_,s_^(^DD**milión)" src="manual" selected="1">NNIP2-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930701-130-p6s1w27">
 <src.rf>manual</src.rf>
@@ -2424,7 +2448,7 @@
 <form>Ačkoliv</form>
 <tag>
 <AM lemma="ačkoliv" src="orig">J,-------------</AM>
-<AM lemma="ačkoli" src="auto" recommended="1">J,------------1</AM>
+<AM lemma="ačkoli" src="auto" recommended="1" selected="1">J,------------1</AM>
 </tag>
 </m>
 <m id="m-mf930701-130-p7s1w2">
@@ -2516,7 +2540,7 @@
 <tag>
 <AM lemma="přece" src="orig">Db-------------</AM>
 <AM lemma="přece-1" src="auto">J^-------------</AM>
-<AM lemma="přece-2" src="auto" recommended="1">TT-------------</AM>
+<AM lemma="přece-2" src="auto" recommended="1" selected="1">TT-------------</AM>
 </tag>
 </m>
 <m id="m-mf930701-130-p7s1w13">
@@ -2583,7 +2607,10 @@
 <LM>w#w-mf930701-130-p7s2w1</LM>
 </w.rf>
 <form>Pavel</form>
-<tag lemma="Pavel-1_;Y" src="orig" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Pavel-1_;Y" src="orig">NNMS1-----A----</AM>
+<AM lemma="Pavel_;Y_;S" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930701-130-p7s2w2">
 <src.rf>manual</src.rf>
@@ -2591,7 +2618,10 @@
 <LM>w#w-mf930701-130-p7s2w2</LM>
 </w.rf>
 <form>Pavel</form>
-<tag lemma="Pavel-2_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Pavel-2_;S" src="orig">NNMS1-----A----</AM>
+<AM lemma="Pavel_;Y_;S" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930701-130-p7s2w3">
 <src.rf>manual</src.rf>

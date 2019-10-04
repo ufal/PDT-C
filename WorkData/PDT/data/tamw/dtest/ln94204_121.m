@@ -315,7 +315,10 @@
 <LM>w#w-ln94204-121-p3s1w4</LM>
 </w.rf>
 <form>MOV</form>
-<tag lemma="MOV_:B_;K_^(Mezinárodní_olympijský_výbor)" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="MOV_:B_;K_^(Mezinárodní_olympijský_výbor)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="MOV-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94204-121-p3s1w5">
 <src.rf>manual</src.rf>
@@ -427,7 +430,10 @@
 <LM>w#w-ln94204-121-p3s1w18</LM>
 </w.rf>
 <form>OH</form>
-<tag lemma="OH-2_:B_;w_^(Olympijské_hry)" src="orig" selected="1">NNFPX-----A---8</tag>
+<tag>
+<AM lemma="OH-2_:B_;w_^(Olympijské_hry)" src="orig">NNFPX-----A---8</AM>
+<AM lemma="OH-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94204-121-p3s1w19">
 <src.rf>manual</src.rf>
@@ -451,7 +457,10 @@
 <LM>w#w-ln94204-121-p3s1w21</LM>
 </w.rf>
 <form>Los</form>
-<tag lemma="Los-1_;G_,t_^(součást_cizích_jmen)" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="Los-1_;G_,t_^(součást_cizích_jmen)" src="orig">AAXXX----1A----</AM>
+<AM lemma="Los-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94204-121-p3s1w22">
 <src.rf>manual</src.rf>
@@ -459,7 +468,10 @@
 <LM>w#w-ln94204-121-p3s1w22</LM>
 </w.rf>
 <form>Angeles</form>
-<tag lemma="Angeles_;G_,t" src="orig" selected="1">NNNXX-----A----</tag>
+<tag>
+<AM lemma="Angeles_;G_,t" src="orig">NNNXX-----A----</AM>
+<AM lemma="Angeles-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94204-121-p3s1w23">
 <src.rf>manual</src.rf>
@@ -565,7 +577,10 @@
 <LM>w#w-ln94204-121-p3s2w2</LM>
 </w.rf>
 <form>de</form>
-<tag lemma="de_,t_^(z_franc._de,_zejm._ve_jménech)" src="orig" selected="1">RR--1----------</tag>
+<tag>
+<AM lemma="de_,t_^(z_franc._de,_zejm._ve_jménech)" src="orig">RR--1----------</AM>
+<AM lemma="de-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94204-121-p3s2w3">
 <src.rf>manual</src.rf>
@@ -575,7 +590,7 @@
 <form>Merode</form>
 <tag>
 <AM lemma="Merode_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Merode_;G" src="auto" recommended="1">NNNXX-----A----</AM>
+<AM lemma="Merode_;G" src="auto" recommended="1" selected="1">NNNXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94204-121-p3s2w4">
@@ -776,7 +791,10 @@
 <LM>w#w-ln94204-121-p3s2w28</LM>
 </w.rf>
 <form>OH</form>
-<tag lemma="OH-2_:B_;w_^(Olympijské_hry)" src="orig" selected="1">NNFPX-----A---8</tag>
+<tag>
+<AM lemma="OH-2_:B_;w_^(Olympijské_hry)" src="orig">NNFPX-----A---8</AM>
+<AM lemma="OH-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94204-121-p3s2w29">
 <src.rf>manual</src.rf>
@@ -818,7 +836,10 @@
 <LM>w#w-ln94204-121-p3s3w4</LM>
 </w.rf>
 <form>BBC</form>
-<tag lemma="BBC_:B_;K" src="auto" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="BBC_:B_;K" src="auto">NNFXX-----A---8</AM>
+<AM lemma="BBC-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln94204-121-p3s3w5">
 <src.rf>manual</src.rf>
@@ -916,7 +937,10 @@
 <LM>w#w-ln94204-121-p3s4w2</LM>
 </w.rf>
 <form>de</form>
-<tag lemma="de_,t_^(z_franc._de,_zejm._ve_jménech)" src="orig" selected="1">RR--1----------</tag>
+<tag>
+<AM lemma="de_,t_^(z_franc._de,_zejm._ve_jménech)" src="orig">RR--1----------</AM>
+<AM lemma="de-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94204-121-p3s4w3">
 <src.rf>manual</src.rf>
@@ -926,7 +950,7 @@
 <form>Merode</form>
 <tag>
 <AM lemma="Merode_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Merode_;G" src="auto" recommended="1">NNNXX-----A----</AM>
+<AM lemma="Merode_;G" src="auto" recommended="1" selected="1">NNNXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94204-121-p3s4w4">
@@ -1616,6 +1640,8 @@
 <tag>
 <AM lemma="USA_;G" src="orig">NNIPX-----A----</AM>
 <AM lemma="USA_:B_;K_,t_^(United_States_of_America)" src="auto" recommended="1">NNIPX-----A---8</AM>
+<AM lemma="USA_:B_;K_^(United_States_of_America)" src="manual">NNIXX-----A---8</AM>
+<AM lemma="USA_:B_;K_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94204-121-p4s2w5">
@@ -1656,7 +1682,10 @@
 <LM>w#w-ln94204-121-p4s2w9</LM>
 </w.rf>
 <form>uvedl</form>
-<tag lemma="uvést" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag>
+<AM lemma="uvést" src="orig">VpYS---XR-AA---</AM>
+<AM lemma="uvést_:W" src="manual" selected="1">VpYS---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-ln94204-121-p4s2w10">
 <src.rf>manual</src.rf>
@@ -1664,7 +1693,10 @@
 <LM>w#w-ln94204-121-p4s2w10</LM>
 </w.rf>
 <form>de</form>
-<tag lemma="de_,t_^(z_franc._de,_zejm._ve_jménech)" src="orig" selected="1">RR--1----------</tag>
+<tag>
+<AM lemma="de_,t_^(z_franc._de,_zejm._ve_jménech)" src="orig">RR--1----------</AM>
+<AM lemma="de-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94204-121-p4s2w11">
 <src.rf>manual</src.rf>
@@ -1674,7 +1706,7 @@
 <form>Merode</form>
 <tag>
 <AM lemma="Merode_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Merode_;G" src="auto" recommended="1">NNNXX-----A----</AM>
+<AM lemma="Merode_;G" src="auto" recommended="1" selected="1">NNNXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94204-121-p4s2w12">
@@ -1887,7 +1919,10 @@
 <LM>w#w-ln94204-121-p4s4w7</LM>
 </w.rf>
 <form>Tony</form>
-<tag lemma="Tony_;Y_,t" src="auto" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Tony_;Y_,t" src="auto">NNMS1-----A----</AM>
+<AM lemma="Tony_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94204-121-p4s4w8">
 <src.rf>manual</src.rf>
@@ -1983,7 +2018,10 @@
 <LM>w#w-ln94204-121-p4s4w19</LM>
 </w.rf>
 <form>MOV</form>
-<tag lemma="MOV_:B_;K_^(Mezinárodní_olympijský_výbor)" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="MOV_:B_;K_^(Mezinárodní_olympijský_výbor)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="MOV-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94204-121-p4s4w20">
 <src.rf>manual</src.rf>
@@ -2025,7 +2063,10 @@
 <LM>w#w-ln94204-121-p4s5w2</LM>
 </w.rf>
 <form>de</form>
-<tag lemma="de_,t_^(z_franc._de,_zejm._ve_jménech)" src="orig" selected="1">RR--1----------</tag>
+<tag>
+<AM lemma="de_,t_^(z_franc._de,_zejm._ve_jménech)" src="orig">RR--1----------</AM>
+<AM lemma="de-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94204-121-p4s5w3">
 <src.rf>manual</src.rf>
@@ -2035,7 +2076,7 @@
 <form>Merode</form>
 <tag>
 <AM lemma="Merode_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Merode_;G" src="auto" recommended="1">NNNXX-----A----</AM>
+<AM lemma="Merode_;G" src="auto" recommended="1" selected="1">NNNXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94204-121-p4s5w4">
@@ -2206,7 +2247,10 @@
 <LM>w#w-ln94204-121-p4s6w3</LM>
 </w.rf>
 <form>říci</form>
-<tag lemma="říci" src="auto" selected="1">Vf--------A---1</tag>
+<tag>
+<AM lemma="říci" src="auto">Vf--------A---1</AM>
+<AM lemma="říci_:W" src="manual" selected="1">Vf--------A---1</AM>
+</tag>
 </m>
 <m id="m-ln94204-121-p4s6w4">
 <src.rf>manual</src.rf>
@@ -2368,7 +2412,10 @@
 <LM>w#w-ln94204-121-p4s7w9</LM>
 </w.rf>
 <form>nezbylo</form>
-<tag lemma="zbýt" src="orig" selected="1">VpNS---XR-NA---</tag>
+<tag>
+<AM lemma="zbýt" src="orig">VpNS---XR-NA---</AM>
+<AM lemma="zbýt_:W" src="manual" selected="1">VpNS---XR-NA---</AM>
+</tag>
 </m>
 <m id="m-ln94204-121-p4s7w10">
 <src.rf>manual</src.rf>
@@ -2466,7 +2513,10 @@
 <LM>w#w-ln94204-121-p4s8w11</LM>
 </w.rf>
 <form>řekl</form>
-<tag lemma="říci" src="auto" selected="1">VpYS---XR-AA---</tag>
+<tag>
+<AM lemma="říci" src="auto">VpYS---XR-AA---</AM>
+<AM lemma="říci_:W" src="manual" selected="1">VpYS---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-ln94204-121-p4s8w12">
 <src.rf>manual</src.rf>
@@ -2508,7 +2558,10 @@
 <LM>w#w-ln94204-121-p4s9w1</LM>
 </w.rf>
 <form>De</form>
-<tag lemma="de_,t_^(z_franc._de,_zejm._ve_jménech)" src="orig" selected="1">RR--1----------</tag>
+<tag>
+<AM lemma="de_,t_^(z_franc._de,_zejm._ve_jménech)" src="orig">RR--1----------</AM>
+<AM lemma="De-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94204-121-p4s9w2">
 <src.rf>manual</src.rf>
@@ -2518,7 +2571,7 @@
 <form>Merode</form>
 <tag>
 <AM lemma="Merode_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Merode_;G" src="auto" recommended="1">NNNXX-----A----</AM>
+<AM lemma="Merode_;G" src="auto" recommended="1" selected="1">NNNXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94204-121-p4s9w3">
@@ -2787,7 +2840,10 @@
 <LM>w#w-ln94204-121-p4s11w9</LM>
 </w.rf>
 <form>řekl</form>
-<tag lemma="říci" src="auto" selected="1">VpYS---XR-AA---</tag>
+<tag>
+<AM lemma="říci" src="auto">VpYS---XR-AA---</AM>
+<AM lemma="říci_:W" src="manual" selected="1">VpYS---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-ln94204-121-p4s11w10">
 <src.rf>manual</src.rf>
@@ -2803,7 +2859,10 @@
 <LM>w#w-ln94204-121-p4s11w11</LM>
 </w.rf>
 <form>de</form>
-<tag lemma="de_,t_^(z_franc._de,_zejm._ve_jménech)" src="orig" selected="1">RR--1----------</tag>
+<tag>
+<AM lemma="de_,t_^(z_franc._de,_zejm._ve_jménech)" src="orig">RR--1----------</AM>
+<AM lemma="de-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94204-121-p4s11w12">
 <src.rf>manual</src.rf>
@@ -2813,7 +2872,7 @@
 <form>Merode</form>
 <tag>
 <AM lemma="Merode_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Merode_;G" src="auto" recommended="1">NNNXX-----A----</AM>
+<AM lemma="Merode_;G" src="auto" recommended="1" selected="1">NNNXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94204-121-p4s11w13">

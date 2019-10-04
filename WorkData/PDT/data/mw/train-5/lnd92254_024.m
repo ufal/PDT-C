@@ -43,7 +43,10 @@
 <LM>w#w-lnd92254-024-p1s1w4</LM>
 </w.rf>
 <form>SR</form>
-<tag lemma="SR-1_:B_;G_^(Slovenská_republika)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="SR-1_:B_;G_^(Slovenská_republika)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="SR-1_:B_;G_^(Slovenská_republika)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 </s>
 <s id="m-lnd92254-024-p2s1">
@@ -233,7 +236,10 @@
 <LM>w#w-lnd92254-024-p3s2w17</LM>
 </w.rf>
 <form>s</form>
-<tag lemma="státní_:B" src="orig" selected="1">AAXXX----1A---8</tag>
+<tag>
+<AM lemma="státní_:B" src="orig">AAXXX----1A---8</AM>
+<AM lemma="státní" src="manual" selected="1">AAXXX----1A---8</AM>
+</tag>
 </m>
 <m id="m-lnd92254-024-p3s2w18">
 <src.rf>manual</src.rf>
@@ -249,7 +255,10 @@
 <LM>w#w-lnd92254-024-p3s2w19</LM>
 </w.rf>
 <form>p</form>
-<tag lemma="podnik_:B" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="podnik_:B" src="orig">NNIXX-----A---8</AM>
+<AM lemma="podnik" src="manual" selected="1">NNIXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd92254-024-p3s2w20">
 <src.rf>manual</src.rf>
@@ -299,7 +308,10 @@
 <LM>w#w-lnd92254-024-p3s3w5</LM>
 </w.rf>
 <form>SEP</form>
-<tag lemma="SEP_:B_^(standards_essential_patents)" src="auto" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="SEP_:B_^(standards_essential_patents)" src="auto">NNIXX-----A---8</AM>
+<AM lemma="SEP-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd92254-024-p3s3w6">
 <src.rf>manual</src.rf>
@@ -315,7 +327,10 @@
 <LM>w#w-lnd92254-024-p3s3w7</LM>
 </w.rf>
 <form>M</form>
-<tag lemma="M-0_:B_;Y" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="M-0_:B_;Y" src="orig">NNFXX-----A---8</AM>
+<AM lemma="M-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd92254-024-p3s3w8">
 <src.rf>manual</src.rf>
@@ -581,7 +596,10 @@
 <LM>w#w-lnd92254-024-p3s4w20</LM>
 </w.rf>
 <form>ČSFR</form>
-<tag lemma="ČSFR-1_:B_;G_^(Čs._federativní_republika)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ČSFR-1_:B_;G_^(Čs._federativní_republika)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČSFR-1_:B_;G_^(Čs._federativní_republika)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92254-024-p3s4w21">
 <src.rf>manual</src.rf>

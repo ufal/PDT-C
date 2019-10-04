@@ -135,7 +135,10 @@
 <LM>w#w-ln94208-129-p2s1Bw2</LM>
 </w.rf>
 <form>Švéd</form>
-<tag lemma="Švéd_;E" src="auto" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Švéd_;E" src="auto">NNMS1-----A----</AM>
+<AM lemma="Švéd_;E_;S" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94208-129-p2s1Bw3">
 <src.rf>manual</src.rf>
@@ -233,7 +236,10 @@
 <LM>w#w-ln94208-129-p2s1Cw10</LM>
 </w.rf>
 <form>Pavel</form>
-<tag lemma="Pavel-1_;Y" src="orig" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Pavel-1_;Y" src="orig">NNMS1-----A----</AM>
+<AM lemma="Pavel_;Y_;S" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94208-129-p2s1Cw11">
 <src.rf>manual</src.rf>
@@ -393,7 +399,10 @@
 <LM>w#w-ln94208-129-p2s1Cw31</LM>
 </w.rf>
 <form>aerotaxikem</form>
-<tag lemma="aerotaxik_,h" src="orig" selected="1">NNIS7-----A----</tag>
+<tag>
+<AM lemma="aerotaxik_,h" src="orig">NNIS7-----A----</AM>
+<AM lemma="aerotaxik_,h_^(^DD**aerotaxík)" src="manual" selected="1">NNIS7-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94208-129-p2s1Cw32">
 <src.rf>manual</src.rf>
@@ -651,7 +660,10 @@
 <LM>w#w-ln94208-129-p2s2w24</LM>
 </w.rf>
 <form>Kaiserslautern</form>
-<tag lemma="Kaiserslautern" src="auto" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="Kaiserslautern" src="auto">NNIS1-----A----</AM>
+<AM lemma="Kaiserslautern_;G_;K" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94208-129-p2s2w25">
 <src.rf>manual</src.rf>
@@ -699,7 +711,10 @@
 <LM>w#w-ln94208-129-p2s2w30</LM>
 </w.rf>
 <form>pozn</form>
-<tag lemma="poznámka_:B" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="poznámka_:B" src="orig">NNFXX-----A---8</AM>
+<AM lemma="poznámka" src="manual" selected="1">NNFXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln94208-129-p2s2w31">
 <src.rf>manual</src.rf>
@@ -718,6 +733,7 @@
 <tag>
 <AM lemma="red_:B_^(redakce)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="redakce_:B" src="auto" recommended="1">NNFXX-----A---8</AM>
+<AM lemma="redakce" src="manual" selected="1">NNFXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-ln94208-129-p2s2w33">
@@ -1679,6 +1695,11 @@
 <AM lemma="den_^(jednotka_času)" src="auto">NNIS5-----A---1</AM>
 <AM lemma="den_^(jednotka_času)" src="auto">NNIS6-----A---1</AM>
 </tag>
+<comment>
+<LM type="New Form">
+<text>dny</text>
+</LM>
+</comment>
 </m>
 <m id="m-ln94208-129-p4s2w14">
 <src.rf>manual</src.rf>
@@ -1936,7 +1957,10 @@
 <LM>w#w-ln94208-129-p4s3w12</LM>
 </w.rf>
 <form>sezony</form>
-<tag lemma="sezona" src="orig" selected="1">NNFS2-----A----</tag>
+<tag>
+<AM lemma="sezona" src="orig">NNFS2-----A----</AM>
+<AM lemma="sezona_,s_^(^DD**sezóna)" src="manual" selected="1">NNFS2-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94208-129-p4s3w13">
 <src.rf>manual</src.rf>

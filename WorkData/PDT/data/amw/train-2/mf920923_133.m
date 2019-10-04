@@ -302,7 +302,7 @@
 <AM lemma="Rucká_;S" src="auto">NNFP3-----A----</AM>
 <AM lemma="Rucký_;S" src="auto">NNMP3-----A----</AM>
 <AM lemma="Rucký_;S" src="auto">NNMS6-----A---7</AM>
-<AM lemma="Rucký_;S" src="auto" recommended="1">NNMS7-----A----</AM>
+<AM lemma="Rucký_;S" src="auto" recommended="1" selected="1">NNMS7-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920923-133-p2s2w25">
@@ -353,7 +353,10 @@
 <LM>w#w-mf920923-133-p2s3w3</LM>
 </w.rf>
 <form>stran</form>
-<tag lemma="strana-3_^(u_soudu,_na_úřadě,_smluvní_strany;_na_něčí_straně)" src="orig" selected="1">NNFP2-----A----</tag>
+<tag>
+<AM lemma="strana-3_^(u_soudu,_na_úřadě,_smluvní_strany;_na_něčí_straně)" src="orig">NNFP2-----A----</AM>
+<AM lemma="strana" src="manual" selected="1">NNFP2-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920923-133-p2s3w4">
 <src.rf>manual</src.rf>

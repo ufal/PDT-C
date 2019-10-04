@@ -104,7 +104,7 @@
 </w.rf>
 <form>Hata</form>
 <tag>
-<AM lemma="Hata_;S" src="orig">NNMS1-----A----</AM>
+<AM lemma="Hata_;S" src="orig" selected="1">NNMS1-----A----</AM>
 <AM lemma="Hato_;G" src="auto">NNNP1-----A----</AM>
 <AM lemma="Hato_;G" src="auto">NNNP4-----A----</AM>
 <AM lemma="Hato_;G" src="auto">NNNP5-----A----</AM>
@@ -451,7 +451,7 @@
 <AM lemma="G-9_:B_;S" src="auto">NNMXX-----A---8</AM>
 <AM lemma="G-9_:B_;S" src="auto">NNXXX-----A---8</AM>
 <AM lemma="g-1`gram_:B" src="auto">NNIXX-----A---8</AM>
-<AM lemma="g-3_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
+<AM lemma="g-3_^(označení_pomocí_písmene)" src="auto" selected="1">NNNXX-----A----</AM>
 <AM lemma="g-8_:B_^(ost._zkratka)" src="auto">XX------------8</AM>
 </tag>
 </m>
@@ -558,7 +558,7 @@
 </w.rf>
 <form>Hata</form>
 <tag>
-<AM lemma="Hata_;S" src="orig">NNMS1-----A----</AM>
+<AM lemma="Hata_;S" src="orig" selected="1">NNMS1-----A----</AM>
 <AM lemma="Hato_;G" src="auto">NNNP1-----A----</AM>
 <AM lemma="Hato_;G" src="auto" recommended="1">NNNP4-----A----</AM>
 <AM lemma="Hato_;G" src="auto">NNNP5-----A----</AM>
@@ -745,7 +745,7 @@
 <form>třeba</form>
 <tag>
 <AM lemma="třeba-1" src="orig">ACNS------A----</AM>
-<AM lemma="třeba-2" src="auto" recommended="1">Db-------------</AM>
+<AM lemma="třeba-2" src="auto" recommended="1" selected="1">Db-------------</AM>
 <AM lemma="třeba-3" src="auto">TT-------------</AM>
 </tag>
 </m>
@@ -868,7 +868,7 @@
 </w.rf>
 <form>Hata</form>
 <tag>
-<AM lemma="Hata_;S" src="orig">NNMS1-----A----</AM>
+<AM lemma="Hata_;S" src="orig" selected="1">NNMS1-----A----</AM>
 <AM lemma="Hato_;G" src="auto">NNNP1-----A----</AM>
 <AM lemma="Hato_;G" src="auto" recommended="1">NNNP4-----A----</AM>
 <AM lemma="Hato_;G" src="auto">NNNP5-----A----</AM>

@@ -163,7 +163,7 @@
 <tag>
 <AM lemma="starost" src="orig">NNFP4-----A----</AM>
 <AM lemma="starost-1" src="auto">NNFP1-----A----</AM>
-<AM lemma="starost-1" src="auto" recommended="1">NNFP4-----A----</AM>
+<AM lemma="starost-1" src="auto" recommended="1" selected="1">NNFP4-----A----</AM>
 <AM lemma="starost-1" src="auto">NNFP5-----A----</AM>
 <AM lemma="starost-1" src="auto">NNFS2-----A----</AM>
 <AM lemma="starost-1" src="auto">NNFS3-----A----</AM>
@@ -205,7 +205,7 @@
 <tag>
 <AM lemma="totiž" src="orig">Db-------------</AM>
 <AM lemma="totiž-1" src="auto" recommended="1">J^-------------</AM>
-<AM lemma="totiž-2" src="auto">TT-------------</AM>
+<AM lemma="totiž-2" src="auto" selected="1">TT-------------</AM>
 </tag>
 </m>
 <m id="m-ln94208-97-p2s2w3">
@@ -254,7 +254,10 @@
 <LM>w#w-ln94208-97-p2s2w8</LM>
 </w.rf>
 <form>vyhrát</form>
-<tag lemma="vyhrát" src="orig" selected="1">Vf--------A----</tag>
+<tag>
+<AM lemma="vyhrát" src="orig">Vf--------A----</AM>
+<AM lemma="vyhrát_:W" src="manual" selected="1">Vf--------A----</AM>
+</tag>
 </m>
 <m id="m-ln94208-97-p2s2w9">
 <src.rf>manual</src.rf>
@@ -512,7 +515,10 @@
 <LM>w#w-ln94208-97-p3s1w16</LM>
 </w.rf>
 <form>zahrát</form>
-<tag lemma="zahrát" src="orig" selected="1">Vf--------A----</tag>
+<tag>
+<AM lemma="zahrát" src="orig">Vf--------A----</AM>
+<AM lemma="zahrát_:W" src="manual" selected="1">Vf--------A----</AM>
+</tag>
 </m>
 <m id="m-ln94208-97-p3s1w17">
 <src.rf>manual</src.rf>
@@ -860,7 +866,10 @@
 <LM>w#w-ln94208-97-p4s1w26</LM>
 </w.rf>
 <form>nemá</form>
-<tag lemma="mít" src="orig" selected="1">VB-S---3P-NA---</tag>
+<tag>
+<AM lemma="mít" src="orig">VB-S---3P-NA---</AM>
+<AM lemma="mít_:T" src="manual" selected="1">VB-S---3P-NA---</AM>
+</tag>
 </m>
 <m id="m-ln94208-97-p4s1w27">
 <src.rf>manual</src.rf>
@@ -974,7 +983,10 @@
 <LM>w#w-ln94208-97-p4s2w12</LM>
 </w.rf>
 <form>prohrály</form>
-<tag lemma="prohrát" src="orig" selected="1">VpTP---XR-AA---</tag>
+<tag>
+<AM lemma="prohrát" src="orig">VpTP---XR-AA---</AM>
+<AM lemma="prohrát_:W" src="manual" selected="1">VpTP---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-ln94208-97-p4s2w13">
 <src.rf>manual</src.rf>
@@ -1134,7 +1146,10 @@
 <LM>w#w-ln94208-97-p4s2w32</LM>
 </w.rf>
 <form>hrát</form>
-<tag lemma="hrát" src="orig" selected="1">Vf--------A----</tag>
+<tag>
+<AM lemma="hrát" src="orig">Vf--------A----</AM>
+<AM lemma="hrát_:T" src="manual" selected="1">Vf--------A----</AM>
+</tag>
 </m>
 <m id="m-ln94208-97-p4s2w33">
 <src.rf>manual</src.rf>
@@ -1142,7 +1157,10 @@
 <LM>w#w-ln94208-97-p4s2w33</LM>
 </w.rf>
 <form>power</form>
-<tag lemma="power_,t_^(angl._adj.)" src="auto" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="power_,t_^(angl._adj.)" src="auto">AAXXX----1A----</AM>
+<AM lemma="power-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94208-97-p4s2w34">
 <src.rf>manual</src.rf>
@@ -1150,7 +1168,10 @@
 <LM>w#w-ln94208-97-p4s2w34</LM>
 </w.rf>
 <form>play</form>
-<tag lemma="play-1_,t" src="orig" selected="1">NNFXX-----A----</tag>
+<tag>
+<AM lemma="play-1_,t" src="orig">NNFXX-----A----</AM>
+<AM lemma="play-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94208-97-p4s2w35">
 <src.rf>manual</src.rf>

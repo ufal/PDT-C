@@ -1271,7 +1271,7 @@
 <form>podzemníků</form>
 <tag>
 <AM lemma="podzemník" src="orig">NNMP2-----A----</AM>
-<AM lemma="podzemník_^(houba)" src="auto" recommended="1">NNIP2-----A----</AM>
+<AM lemma="podzemník_^(houba)" src="auto" recommended="1" selected="1">NNIP2-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95047-059-p4s1w12">
@@ -1840,7 +1840,10 @@
 <LM>w#w-ln95047-059-p4s5w5</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-2" src="auto" selected="1">Dg-------2A----</tag>
+<tag>
+<AM lemma="hodně-2" src="auto">Dg-------2A----</AM>
+<AM lemma="hodně-3" src="manual" selected="1">Dg-------2A----</AM>
+</tag>
 </m>
 <m id="m-ln95047-059-p4s5w6">
 <src.rf>manual</src.rf>
@@ -2326,7 +2329,10 @@
 <LM>w#w-ln95047-059-p5s3w1</LM>
 </w.rf>
 <form>Zůstalo</form>
-<tag lemma="zůstat" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag>
+<AM lemma="zůstat" src="orig">VpNS---XR-AA---</AM>
+<AM lemma="zůstat_:W" src="manual" selected="1">VpNS---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-ln95047-059-p5s3w2">
 <src.rf>manual</src.rf>

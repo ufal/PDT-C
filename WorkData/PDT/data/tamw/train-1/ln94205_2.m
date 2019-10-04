@@ -47,6 +47,7 @@
 <AM lemma="OEM_:B_,t" src="orig">AAXXX----1A---8</AM>
 <AM lemma="OEM_:B_;R_^(Original_Equipment_Manufacturer)" src="auto" recommended="1">NNIXX-----A---8</AM>
 <AM lemma="Oma_;G" src="auto">NNFP2-----A----</AM>
+<AM lemma="OEM-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94205-2-p1s1w5">
@@ -105,7 +106,10 @@
 <LM>w#w-ln94205-2-p1s2w2</LM>
 </w.rf>
 <form>DECpc</form>
-<tag lemma="DECpc_;R_,t" src="orig" selected="1">NNNXX-----A----</tag>
+<tag>
+<AM lemma="DECpc_;R_,t" src="orig">NNNXX-----A----</AM>
+<AM lemma="DECpc-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94205-2-p1s2w3">
 <src.rf>manual</src.rf>
@@ -121,7 +125,10 @@
 <LM>w#w-ln94205-2-p1s2w4</LM>
 </w.rf>
 <form>SLC</form>
-<tag lemma="SLC_;R_,t" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="SLC_;R_,t" src="orig">NNXXX-----A---8</AM>
+<AM lemma="SLC-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94205-2-p1s2w5">
 <src.rf>manual</src.rf>
@@ -137,7 +144,10 @@
 <LM>w#w-ln94205-2-p1s2w6</LM>
 </w.rf>
 <form>e</form>
-<tag lemma="e-3_^(označení_pomocí_písmene)" src="orig" selected="1">NNNXX-----A----</tag>
+<tag>
+<AM lemma="e-3_^(označení_pomocí_písmene)" src="orig">NNNXX-----A----</AM>
+<AM lemma="e-33_^(označení_pomocí_písmene)" src="manual" selected="1">NNNXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94205-2-p1s2w7">
 <src.rf>manual</src.rf>
@@ -153,7 +163,10 @@
 <LM>w#w-ln94205-2-p1s2w8</LM>
 </w.rf>
 <form>sice</form>
-<tag lemma="sice-2" src="auto" selected="1">Db-------------</tag>
+<tag>
+<AM lemma="sice-2" src="auto">Db-------------</AM>
+<AM lemma="sice-1_^(spojka;_připouští_se_určitá_fakta)" src="manual" selected="1">J^-------------</AM>
+</tag>
 </m>
 <m id="m-ln94205-2-p1s2w9">
 <src.rf>manual</src.rf>
@@ -170,7 +183,7 @@
 </w.rf>
 <form>Olivetti</form>
 <tag>
-<AM lemma="Olivetti_;K" src="orig">NNNXX-----A----</AM>
+<AM lemma="Olivetti_;K" src="orig" selected="1">NNNXX-----A----</AM>
 <AM lemma="Olivetti_;S" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Olivetti_;S" src="auto">NNMS5-----A----</AM>
 </tag>
@@ -467,7 +480,10 @@
 <LM>w#w-ln94205-2-p1s5w9</LM>
 </w.rf>
 <form>hodně</form>
-<tag lemma="hodně-2_^(nezlobivý)_(*3ý-2)" src="auto" selected="1">Dg-------1A----</tag>
+<tag>
+<AM lemma="hodně-2_^(nezlobivý)_(*3ý-2)" src="auto">Dg-------1A----</AM>
+<AM lemma="hodně-3" src="manual" selected="1">Dg-------1A----</AM>
+</tag>
 </m>
 <m id="m-ln94205-2-p1s5w10">
 <src.rf>manual</src.rf>

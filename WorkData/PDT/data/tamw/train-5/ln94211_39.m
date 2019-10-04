@@ -77,7 +77,10 @@
 <LM>w#w-ln94211-39-p2s1Aw3</LM>
 </w.rf>
 <form>ed</form>
-<tag lemma="ed-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="ed-99_:B_;S" src="orig">NNXXX-----A---8</AM>
+<AM lemma="ed-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94211-39-p2s1Aw4">
 <src.rf>manual</src.rf>
@@ -421,6 +424,8 @@
 <AM lemma="King_;K" src="orig">NNIS1-----A----</AM>
 <AM lemma="King_;S" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="king_;L" src="auto">NNMS1-----A----</AM>
+<AM lemma="king_,t" src="manual">NNXXX-----A----</AM>
+<AM lemma="King-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-ln94211-39-p2s2w21">
@@ -601,7 +606,10 @@
 <LM>w#w-ln94211-39-p2s4w14</LM>
 </w.rf>
 <form>aj</form>
-<tag lemma="aj-1_:B_^(a_jiný/á/é)" src="orig" selected="1">AAXXX----1A---8</tag>
+<tag>
+<AM lemma="aj-1_:B_^(a_jiný/á/é)" src="orig">AAXXX----1A---8</AM>
+<AM lemma="aj-1_:B_^(a_jiný/á/é)" src="manual" selected="1">AAXXX----1A----</AM>
+</tag>
 </m>
 <m id="m-ln94211-39-p2s4w15">
 <src.rf>manual</src.rf>
@@ -874,6 +882,7 @@
 <tag>
 <AM lemma="Kč" src="orig">NNFXX-----A----</AM>
 <AM lemma="Kč_:B" src="auto" recommended="1">NNFXX-----A---8</AM>
+<AM lemma="Kč_:B" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94211-39-p2s7w7">

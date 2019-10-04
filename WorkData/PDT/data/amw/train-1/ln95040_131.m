@@ -1093,7 +1093,7 @@
 <form>Ačkoli</form>
 <tag>
 <AM lemma="ačkoliv" src="orig">J,------------1</AM>
-<AM lemma="ačkoli" src="auto" recommended="1">J,-------------</AM>
+<AM lemma="ačkoli" src="auto" recommended="1" selected="1">J,-------------</AM>
 </tag>
 </m>
 <m id="m-ln95040-131-p4s2w2">
@@ -1410,7 +1410,7 @@
 <form>třeba</form>
 <tag>
 <AM lemma="třeba-1" src="orig">ACNS------A----</AM>
-<AM lemma="třeba-2" src="auto" recommended="1">Db-------------</AM>
+<AM lemma="třeba-2" src="auto" recommended="1" selected="1">Db-------------</AM>
 <AM lemma="třeba-3" src="auto">TT-------------</AM>
 </tag>
 </m>
@@ -2660,7 +2660,10 @@
 <LM>w#w-ln95040-131-p6s4w21</LM>
 </w.rf>
 <form>stát</form>
-<tag lemma="stát-4_^(něco_stojí_peníze)" src="orig" selected="1">Vf--------A----</tag>
+<tag>
+<AM lemma="stát-4_^(něco_stojí_peníze)" src="orig">Vf--------A----</AM>
+<AM lemma="stát-3_^(stát_na_nohou_stát_peníze)" src="manual" selected="1">Vf--------A----</AM>
+</tag>
 </m>
 <m id="m-ln95040-131-p6s4w22">
 <src.rf>manual</src.rf>

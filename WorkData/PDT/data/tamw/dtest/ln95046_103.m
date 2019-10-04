@@ -397,7 +397,7 @@
 <AM lemma="Purkyně_;S" src="orig">NNMXX-----A----</AM>
 <AM lemma="Purkyně_;S" src="auto">NNMP4-----A----</AM>
 <AM lemma="Purkyně_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Purkyně_;S" src="auto">NNMS2-----A----</AM>
+<AM lemma="Purkyně_;S" src="auto" selected="1">NNMS2-----A----</AM>
 <AM lemma="Purkyně_;S" src="auto">NNMS4-----A----</AM>
 <AM lemma="Purkyně_;S" src="auto">NNMS5-----A----</AM>
 </tag>
@@ -698,7 +698,10 @@
 <LM>w#w-ln95046-103-p2s3w25</LM>
 </w.rf>
 <form>stali</form>
-<tag lemma="stát-2_^(něco_se_přihodilo)" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag>
+<AM lemma="stát-2_^(něco_se_přihodilo)" src="orig">VpMP---XR-AA---</AM>
+<AM lemma="stát-2_:W_^(něco_se_přihodilo)" src="manual" selected="1">VpMP---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-ln95046-103-p2s3w26">
 <src.rf>manual</src.rf>

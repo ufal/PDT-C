@@ -103,7 +103,11 @@
 <LM>w#w-mf920924-140-p1s3w7</LM>
 </w.rf>
 <form>Le</form>
-<tag lemma="Le-1_,t_^(franc._člen_jako_souč._jmen_a_názvů)" src="orig" selected="1">AAMSX----1A----</tag>
+<tag>
+<AM lemma="Le-1_,t_^(franc._člen_jako_souč._jmen_a_názvů)" src="orig">AAMSX----1A----</AM>
+<AM lemma="Le-2_;S" src="manual">NNMXX-----A----</AM>
+<AM lemma="Le_;S" src="manual" selected="1">NNMXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920924-140-p1s3w8">
 <src.rf>manual</src.rf>
@@ -116,6 +120,8 @@
 <AM lemma="Duc_;S" src="auto" recommended="1">NNMSX-----A----</AM>
 <AM lemma="duc" src="auto">II-------------</AM>
 <AM lemma="ducnout_:W" src="auto">VpYS---XR-AA--6</AM>
+<AM lemma="Duc-2_;Y" src="manual">NNMXX-----A----</AM>
+<AM lemma="Duc_;S_;Y" src="manual" selected="1">NNMXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920924-140-p1s3w9">
@@ -127,7 +133,7 @@
 <tag>
 <AM lemma="Anho_;S" src="orig">NNMS4-----A----</AM>
 <AM lemma="Anh_;Y" src="auto">NNMS2-----A----</AM>
-<AM lemma="Anh_;Y" src="auto" recommended="1">NNMS4-----A----</AM>
+<AM lemma="Anh_;Y" src="auto" recommended="1" selected="1">NNMS4-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920924-140-p1s3w10">
@@ -394,7 +400,10 @@
 <LM>w#w-mf920924-140-p2s4w7</LM>
 </w.rf>
 <form>Pchúmipchón</form>
-<tag lemma="Pchúmipchón_;S" src="auto" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Pchúmipchón_;S" src="auto">NNMS1-----A----</AM>
+<AM lemma="Pchúmipchón_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920924-140-p2s4w8">
 <src.rf>manual</src.rf>
@@ -576,7 +585,10 @@
 <LM>w#w-mf920924-140-p3s2w7</LM>
 </w.rf>
 <form>Antalla</form>
-<tag lemma="Antall_;Y" src="orig" selected="1">NNMS2-----A----</tag>
+<tag>
+<AM lemma="Antall_;Y" src="orig">NNMS2-----A----</AM>
+<AM lemma="Antall_;S_;Y" src="manual" selected="1">NNMS2-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920924-140-p3s2w8">
 <src.rf>manual</src.rf>
@@ -648,7 +660,10 @@
 <LM>w#w-mf920924-140-p3s2w16</LM>
 </w.rf>
 <form>Hanna</form>
-<tag lemma="Hanna_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Hanna_;S" src="orig">NNMS1-----A----</AM>
+<AM lemma="Hanna_;Y" src="manual" selected="1">NNFS1-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920924-140-p3s2w17">
 <src.rf>manual</src.rf>

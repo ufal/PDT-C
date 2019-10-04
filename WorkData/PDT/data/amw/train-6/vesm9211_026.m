@@ -436,7 +436,7 @@
 <form>jedině</form>
 <tag>
 <AM lemma="jedině_^(*1ý)" src="orig">Dg-------1A----</AM>
-<AM lemma="jedině" src="auto" recommended="1">Db-------------</AM>
+<AM lemma="jedině" src="auto" recommended="1" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m-vesm9211-026-p2s3w19">
@@ -933,7 +933,10 @@
 <LM>w#w-vesm9211-026-p2s6w3</LM>
 </w.rf>
 <form>jen</form>
-<tag lemma="jen-1" src="auto" selected="1">TT-------------</tag>
+<tag>
+<AM lemma="jen-1" src="auto">TT-------------</AM>
+<AM lemma="jen-4_^(pouze)" src="manual" selected="1">Db-------------</AM>
+</tag>
 </m>
 <m id="m-vesm9211-026-p2s6w4">
 <src.rf>manual</src.rf>
@@ -989,7 +992,7 @@
 <AM lemma="mizející_,h" src="auto">AAIP4----1A----</AM>
 <AM lemma="mizející_,h" src="auto">AAIP5----1A----</AM>
 <AM lemma="mizející_,h" src="auto">AAIS1----1A----</AM>
-<AM lemma="mizející_,h" src="auto">AAIS4----1A----</AM>
+<AM lemma="mizející_,h" src="auto" selected="1">AAIS4----1A----</AM>
 <AM lemma="mizející_,h" src="auto">AAIS5----1A----</AM>
 <AM lemma="mizející_,h" src="auto">AAMP1----1A----</AM>
 <AM lemma="mizející_,h" src="auto">AAMP4----1A----</AM>
@@ -1499,6 +1502,7 @@
 <AM lemma="patologický_,x" src="auto">AANP3----1A----</AM>
 <AM lemma="patologický_,x" src="auto">AANS6----1A---7</AM>
 <AM lemma="patologický_,x" src="auto">AANS7----1A----</AM>
+<AM lemma="pathologický_,s_^(^DD**patologický)" src="manual" selected="1">AAIS7----1A----</AM>
 </tag>
 </m>
 <m id="m-vesm9211-026-p2s7w21">
@@ -1806,7 +1810,10 @@
 <LM>w#w-vesm9211-026-p2s8w24</LM>
 </w.rf>
 <form>ani</form>
-<tag lemma="ani-1" src="auto" selected="1">J^-------------</tag>
+<tag>
+<AM lemma="ani-1" src="auto">J^-------------</AM>
+<AM lemma="ani-2" src="manual" selected="1">TT-------------</AM>
+</tag>
 </m>
 <m id="m-vesm9211-026-p2s8w25">
 <src.rf>manual</src.rf>
@@ -2110,7 +2117,10 @@
 <LM>w#w-vesm9211-026-p4s3w9</LM>
 </w.rf>
 <form>L</form>
-<tag lemma="L-10_^(př._L'Aqua,_stažený_tvar_fr._členu)" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="L-10_^(př._L'Aqua,_stažený_tvar_fr._členu)" src="orig">AAXXX----1A----</AM>
+<AM lemma="L-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-vesm9211-026-p4s3w10">
 <src.rf>manual</src.rf>
@@ -2132,6 +2142,7 @@
 <AM lemma="Union" src="auto">NNIS4-----A----</AM>
 <AM lemma="union" src="auto">NNIS1-----A----</AM>
 <AM lemma="union" src="auto">NNIS4-----A----</AM>
+<AM lemma="Union-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-vesm9211-026-p4s3w12">
@@ -2140,7 +2151,10 @@
 <LM>w#w-vesm9211-026-p4s3w12</LM>
 </w.rf>
 <form>Pharm</form>
-<tag lemma="Pharm_:B_;K_,t" src="orig" selected="1">AAXXX----1A---8</tag>
+<tag>
+<AM lemma="Pharm_:B_;K_,t" src="orig">AAXXX----1A---8</AM>
+<AM lemma="Pharm-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-vesm9211-026-p4s3w13">
 <src.rf>manual</src.rf>
@@ -2415,7 +2429,10 @@
 <LM>w#w-vesm9211-026-p4s4w27</LM>
 </w.rf>
 <form>nejvíce</form>
-<tag lemma="hodně-2" src="auto" selected="1">Dg-------3A----</tag>
+<tag>
+<AM lemma="hodně-2" src="auto">Dg-------3A----</AM>
+<AM lemma="hodně-3" src="manual" selected="1">Dg-------3A----</AM>
+</tag>
 </m>
 <m id="m-vesm9211-026-p4s4w28">
 <src.rf>manual</src.rf>
@@ -2481,7 +2498,10 @@
 <LM>w#w-vesm9211-026-p4s5w4</LM>
 </w.rf>
 <form>stigmata</form>
-<tag lemma="stigma" src="orig" selected="1">NNNP1-----A----</tag>
+<tag>
+<AM lemma="stigma" src="orig">NNNP1-----A----</AM>
+<AM lemma="stigmata-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-vesm9211-026-p4s5w5">
 <src.rf>manual</src.rf>
@@ -2489,7 +2509,10 @@
 <LM>w#w-vesm9211-026-p4s5w5</LM>
 </w.rf>
 <form>croci</form>
-<tag lemma="crocus_;L_,t" src="orig" selected="1">NNIS2-----A----</tag>
+<tag>
+<AM lemma="crocus_;L_,t" src="orig">NNIS2-----A----</AM>
+<AM lemma="croci-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-vesm9211-026-p4s5w6">
 <src.rf>manual</src.rf>
@@ -2763,7 +2786,10 @@
 <LM>w#w-vesm9211-026-p4s6w10</LM>
 </w.rf>
 <form>Carthamus</form>
-<tag lemma="Carthamus_;L_,t" src="auto" selected="1">NNIXX-----A----</tag>
+<tag>
+<AM lemma="Carthamus_;L_,t" src="auto">NNIXX-----A----</AM>
+<AM lemma="Carthamus-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-vesm9211-026-p4s6w11">
 <src.rf>manual</src.rf>
@@ -2771,7 +2797,10 @@
 <LM>w#w-vesm9211-026-p4s6w11</LM>
 </w.rf>
 <form>tinctorius</form>
-<tag lemma="tinctorius_;L_,t" src="auto" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="tinctorius_;L_,t" src="auto">AAXXX----1A----</AM>
+<AM lemma="tinctorius-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-vesm9211-026-p4s6w12">
 <src.rf>manual</src.rf>

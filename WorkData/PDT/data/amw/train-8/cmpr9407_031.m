@@ -49,6 +49,7 @@
 <AM lemma="konzervatismus" src="orig">NNIS4-----A----</AM>
 <AM lemma="konzervatizmus" src="auto">NNIS1-----A----</AM>
 <AM lemma="konzervatizmus" src="auto" recommended="1">NNIS4-----A----</AM>
+<AM lemma="konzervatismus_,s_^(^DD**konzervatizmus)" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9407-031-p3s1w2">
@@ -1397,7 +1398,7 @@
 <form>půli</form>
 <tag>
 <AM lemma="půle" src="orig">NNFS2-----A----</AM>
-<AM lemma="půl-2" src="auto" recommended="1">NNFS2-----A---1</AM>
+<AM lemma="půl-2" src="auto" recommended="1" selected="1">NNFS2-----A---1</AM>
 <AM lemma="půl-2" src="auto">NNFS3-----A----</AM>
 <AM lemma="půl-2" src="auto">NNFS5-----A----</AM>
 <AM lemma="půl-2" src="auto">NNFS6-----A----</AM>
@@ -1798,7 +1799,7 @@
 <form>začít</form>
 <tag>
 <AM lemma="začít-1" src="orig">Vf--------A----</AM>
-<AM lemma="začít-1_^(začnout)" src="auto" recommended="1">Vf--------A----</AM>
+<AM lemma="začít-1_^(začnout)" src="auto" recommended="1" selected="1">Vf--------A----</AM>
 <AM lemma="začít-2_^(pocítit)" src="auto">Vf--------A----</AM>
 </tag>
 </m>
@@ -1879,7 +1880,7 @@
 <tag>
 <AM lemma="přece" src="orig">Db-------------</AM>
 <AM lemma="přece-1" src="auto" recommended="1">J^-------------</AM>
-<AM lemma="přece-2" src="auto">TT-------------</AM>
+<AM lemma="přece-2" src="auto" selected="1">TT-------------</AM>
 </tag>
 </m>
 <m id="m-cmpr9407-031-p13s5w3">
@@ -2102,7 +2103,10 @@
 <LM>w#w-cmpr9407-031-p14s3w8</LM>
 </w.rf>
 <form>ČR</form>
-<tag lemma="ČR-1_:B_;G_^(Česká_republika)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-cmpr9407-031-p14s3w9">
 <src.rf>manual</src.rf>
@@ -3346,7 +3350,7 @@
 <form>totiž</form>
 <tag>
 <AM lemma="totiž" src="orig">Db-------------</AM>
-<AM lemma="totiž-1" src="auto" recommended="1">J^-------------</AM>
+<AM lemma="totiž-1" src="auto" recommended="1" selected="1">J^-------------</AM>
 <AM lemma="totiž-2" src="auto">TT-------------</AM>
 </tag>
 </m>
@@ -4358,7 +4362,10 @@
 <LM>w#w-cmpr9407-031-p20s3w6</LM>
 </w.rf>
 <form>TWOS</form>
-<tag lemma="Twos_;K_,t" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="Twos_;K_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="TWOS-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-cmpr9407-031-p20s3w7">
 <src.rf>manual</src.rf>
@@ -4366,7 +4373,10 @@
 <LM>w#w-cmpr9407-031-p20s3w7</LM>
 </w.rf>
 <form>COMPANY</form>
-<tag lemma="Company_;K_,t_^(přev._v_názvech_cizích_firem)" src="orig" selected="1">NNFXX-----A----</tag>
+<tag>
+<AM lemma="Company_;K_,t_^(přev._v_názvech_cizích_firem)" src="orig">NNFXX-----A----</AM>
+<AM lemma="COMPANY-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-cmpr9407-031-p20s3w8">
 <src.rf>manual</src.rf>
@@ -4627,7 +4637,7 @@
 <tag>
 <AM lemma="komponenta" src="orig">NNIP4-----A----</AM>
 <AM lemma="komponent" src="auto">NNIP1-----A----</AM>
-<AM lemma="komponent" src="auto" recommended="1">NNIP4-----A----</AM>
+<AM lemma="komponent" src="auto" recommended="1" selected="1">NNIP4-----A----</AM>
 <AM lemma="komponent" src="auto">NNIP5-----A----</AM>
 <AM lemma="komponent" src="auto">NNIP7-----A----</AM>
 <AM lemma="komponenta" src="auto">NNFP1-----A----</AM>
@@ -5817,7 +5827,10 @@
 <LM>w#w-cmpr9407-031-p23s1w16</LM>
 </w.rf>
 <form>milionu</form>
-<tag lemma="milión`1000000" src="orig" selected="1">NNIS2-----A----</tag>
+<tag>
+<AM lemma="milión`1000000" src="orig">NNIS2-----A----</AM>
+<AM lemma="milion`1000000_,s_^(^DD**milión)" src="manual" selected="1">NNIS2-----A----</AM>
+</tag>
 </m>
 <m id="m-cmpr9407-031-p23s1w17">
 <src.rf>manual</src.rf>
@@ -5867,7 +5880,10 @@
 <LM>w#w-cmpr9407-031-p23s2w4</LM>
 </w.rf>
 <form>milionů</form>
-<tag lemma="milión`1000000" src="orig" selected="1">NNIP2-----A----</tag>
+<tag>
+<AM lemma="milión`1000000" src="orig">NNIP2-----A----</AM>
+<AM lemma="milion`1000000_,s_^(^DD**milión)" src="manual" selected="1">NNIP2-----A----</AM>
+</tag>
 </m>
 <m id="m-cmpr9407-031-p23s2w5">
 <src.rf>manual</src.rf>
@@ -5995,7 +6011,10 @@
 <LM>w#w-cmpr9407-031-p23s2w20</LM>
 </w.rf>
 <form>milionů</form>
-<tag lemma="milión`1000000" src="orig" selected="1">NNIP2-----A----</tag>
+<tag>
+<AM lemma="milión`1000000" src="orig">NNIP2-----A----</AM>
+<AM lemma="milion`1000000_,s_^(^DD**milión)" src="manual" selected="1">NNIP2-----A----</AM>
+</tag>
 </m>
 <m id="m-cmpr9407-031-p23s2w21">
 <src.rf>manual</src.rf>
@@ -6119,7 +6138,10 @@
 <LM>w#w-cmpr9407-031-p23s4w6</LM>
 </w.rf>
 <form>milionů</form>
-<tag lemma="milión`1000000" src="orig" selected="1">NNIP2-----A----</tag>
+<tag>
+<AM lemma="milión`1000000" src="orig">NNIP2-----A----</AM>
+<AM lemma="milion`1000000_,s_^(^DD**milión)" src="manual" selected="1">NNIP2-----A----</AM>
+</tag>
 </m>
 <m id="m-cmpr9407-031-p23s4w7">
 <src.rf>manual</src.rf>
@@ -6130,6 +6152,7 @@
 <tag>
 <AM lemma="Kč" src="orig">NNFXX-----A----</AM>
 <AM lemma="Kč_:B" src="auto" recommended="1">NNFXX-----A---8</AM>
+<AM lemma="Kč_:B" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9407-031-p23s4w8">
@@ -6358,7 +6381,10 @@
 <LM>w#w-cmpr9407-031-p24s1w15</LM>
 </w.rf>
 <form>tel</form>
-<tag lemma="telefon_:B" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="telefon_:B" src="orig">NNIXX-----A---8</AM>
+<AM lemma="telefon" src="manual" selected="1">NNIXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-cmpr9407-031-p24s1w16">
 <src.rf>manual</src.rf>

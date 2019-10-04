@@ -45,7 +45,10 @@
 <LM>w#w-ln95048-042-p2s1w1</LM>
 </w.rf>
 <form>A</form>
-<tag lemma="A-0_:B_;Y" src="orig" selected="1">NNMXX-----A---8</tag>
+<tag>
+<AM lemma="A-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
+<AM lemma="A-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95048-042-p2s1w2">
 <src.rf>manual</src.rf>
@@ -61,7 +64,10 @@
 <LM>w#w-ln95048-042-p2s1w3</LM>
 </w.rf>
 <form>C</form>
-<tag lemma="C-0_:B_;Y" src="orig" selected="1">NNMXX-----A---8</tag>
+<tag>
+<AM lemma="C-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
+<AM lemma="C-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95048-042-p2s1w4">
 <src.rf>manual</src.rf>
@@ -77,7 +83,10 @@
 <LM>w#w-ln95048-042-p2s1w5</LM>
 </w.rf>
 <form>Nor</form>
-<tag lemma="Nor_;E" src="auto" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Nor_;E" src="auto">NNMS1-----A----</AM>
+<AM lemma="Nor_;E_;S" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95048-042-p2s1w6">
 <src.rf>manual</src.rf>
@@ -383,6 +392,7 @@
 <tag>
 <AM lemma="USA_;G" src="orig">NNIPX-----A----</AM>
 <AM lemma="USA_:B_;K_,t_^(United_States_of_America)" src="auto" recommended="1">NNIPX-----A---8</AM>
+<AM lemma="USA_:B_;K_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95048-042-p3s1w6">
@@ -931,7 +941,7 @@
 <AM lemma="Kunovská_;S" src="auto">NNFP1-----A----</AM>
 <AM lemma="Kunovská_;S" src="auto">NNFP4-----A----</AM>
 <AM lemma="Kunovská_;S" src="auto">NNFP5-----A----</AM>
-<AM lemma="Kunovská_;S" src="auto" recommended="1">NNFS2-----A----</AM>
+<AM lemma="Kunovská_;S" src="auto" recommended="1" selected="1">NNFS2-----A----</AM>
 <AM lemma="Kunovská_;S" src="auto">NNFS3-----A----</AM>
 <AM lemma="Kunovská_;S" src="auto">NNFS6-----A----</AM>
 <AM lemma="kunovský" src="auto">AAFP1----1A----</AM>
@@ -1250,6 +1260,7 @@
 <tag>
 <AM lemma="Arca_;K" src="orig">AAXXX----1A----</AM>
 <AM lemma="Arco_;K" src="auto" recommended="1">NNNS2-----A----</AM>
+<AM lemma="Arca_;K" src="manual" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95048-042-p5s2w16">
@@ -1258,7 +1269,10 @@
 <LM>w#w-ln95048-042-p5s2w16</LM>
 </w.rf>
 <form>JiMfa</form>
-<tag lemma="JiMfa_:B_;K" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="JiMfa_:B_;K" src="orig">NNXXX-----A---8</AM>
+<AM lemma="JiMfa-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95048-042-p5s2w17">
 <src.rf>manual</src.rf>

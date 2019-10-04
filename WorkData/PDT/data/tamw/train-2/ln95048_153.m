@@ -162,7 +162,10 @@
 <LM>w#w-ln95048-153-p2s2w5</LM>
 </w.rf>
 <form>mil</form>
-<tag lemma="milión`1000000_:B" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="milión`1000000_:B" src="orig">NNIXX-----A---8</AM>
+<AM lemma="milión`1000000" src="manual" selected="1">NNIXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln95048-153-p2s2w6">
 <src.rf>manual</src.rf>
@@ -181,6 +184,7 @@
 <tag>
 <AM lemma="Kč" src="orig">NNFXX-----A----</AM>
 <AM lemma="Kč_:B" src="auto" recommended="1">NNFXX-----A---8</AM>
+<AM lemma="Kč_:B" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95048-153-p2s2w8">
@@ -263,7 +267,10 @@
 <LM>w#w-ln95048-153-p2s4w3</LM>
 </w.rf>
 <form>PX</form>
-<tag lemma="PX_:B_^(index)" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="PX_:B_^(index)" src="orig">NNXXX-----A---8</AM>
+<AM lemma="PX-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95048-153-p2s4w4">
 <src.rf>manual</src.rf>
@@ -411,7 +418,10 @@
 <LM>w#w-ln95048-153-p2s5w3</LM>
 </w.rf>
 <form>RM</form>
-<tag lemma="RM_:B_;K_;b_^(RM-systém)" src="auto" selected="1">AAXXX----1A---8</tag>
+<tag>
+<AM lemma="RM_:B_;K_;b_^(RM-systém)" src="auto">AAXXX----1A---8</AM>
+<AM lemma="RM-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95048-153-p2s5w4">
 <src.rf>manual</src.rf>

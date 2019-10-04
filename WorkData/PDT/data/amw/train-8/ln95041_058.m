@@ -287,7 +287,10 @@
 <LM>w#w-ln95041-058-p2s1Bw21</LM>
 </w.rf>
 <form>NATO</form>
-<tag lemma="NATO_:B_;K_^(North_Atlantic_Treaty_Organization)" src="auto" selected="1">NNNXX-----A---8</tag>
+<tag>
+<AM lemma="NATO_:B_;K_^(North_Atlantic_Treaty_Organization)" src="auto">NNNXX-----A---8</AM>
+<AM lemma="NATO_:B_;K_^(North_Atlantic_Treaty_Organization)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95041-058-p2s1Bw22">
 <src.rf>manual</src.rf>
@@ -427,7 +430,7 @@
 <form>třeba</form>
 <tag>
 <AM lemma="třeba-1" src="orig">ACNS------A----</AM>
-<AM lemma="třeba-2" src="auto" recommended="1">Db-------------</AM>
+<AM lemma="třeba-2" src="auto" recommended="1" selected="1">Db-------------</AM>
 <AM lemma="třeba-3" src="auto">TT-------------</AM>
 </tag>
 </m>
@@ -1021,7 +1024,10 @@
 <LM>w#w-ln95041-058-p4s1w6</LM>
 </w.rf>
 <form>Jegor</form>
-<tag lemma="Jegor_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Jegor_;S" src="orig">NNMS1-----A----</AM>
+<AM lemma="Jegor_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95041-058-p4s1w7">
 <src.rf>manual</src.rf>
@@ -1582,7 +1588,7 @@
 <tag>
 <AM lemma="tady" src="orig">Db------------1</AM>
 <AM lemma="ten" src="auto" recommended="1">PDFS4----------</AM>
-<AM lemma="tu" src="auto">Db-------------</AM>
+<AM lemma="tu" src="auto" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m-ln95041-058-p5s1w29">
@@ -1833,7 +1839,10 @@
 <LM>w#w-ln95041-058-p5s2w19</LM>
 </w.rf>
 <form>G</form>
-<tag lemma="G-0_:B_;Y" src="orig" selected="1">NNMXX-----A---8</tag>
+<tag>
+<AM lemma="G-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
+<AM lemma="G-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95041-058-p5s2w20">
 <src.rf>manual</src.rf>
@@ -2079,7 +2088,10 @@
 <LM>w#w-ln95041-058-p6s3w1</LM>
 </w.rf>
 <form>B</form>
-<tag lemma="B-0_:B_;Y" src="orig" selected="1">NNMXX-----A---8</tag>
+<tag>
+<AM lemma="B-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
+<AM lemma="B-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95041-058-p6s3w2">
 <src.rf>manual</src.rf>

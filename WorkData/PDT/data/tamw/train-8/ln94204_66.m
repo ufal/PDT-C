@@ -144,7 +144,10 @@
 <LM>w#w-ln94204-66-p2s1Bw8</LM>
 </w.rf>
 <form>r</form>
-<tag lemma="rok_:B" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="rok_:B" src="orig">NNIXX-----A---8</AM>
+<AM lemma="rok" src="manual" selected="1">NNIXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln94204-66-p2s1Bw9">
 <src.rf>manual</src.rf>
@@ -192,7 +195,10 @@
 <LM>w#w-ln94204-66-p2s1Bw14</LM>
 </w.rf>
 <form>Kovo</form>
-<tag lemma="Kovo_;K_;Y" src="orig" selected="1">NNNS1-----A----</tag>
+<tag>
+<AM lemma="Kovo_;K_;Y" src="orig">NNNS1-----A----</AM>
+<AM lemma="Kovo_;K" src="manual" selected="1">NNNS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94204-66-p2s1Bw15">
 <src.rf>manual</src.rf>
@@ -341,7 +347,7 @@
 <form>Kč</form>
 <tag>
 <AM lemma="Kč" src="orig">NNFXX-----A----</AM>
-<AM lemma="Kč_:B" src="auto" recommended="1">NNFXX-----A---8</AM>
+<AM lemma="Kč_:B" src="auto" recommended="1" selected="1">NNFXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-ln94204-66-p2s2w9">

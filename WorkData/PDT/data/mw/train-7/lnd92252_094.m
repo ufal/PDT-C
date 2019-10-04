@@ -59,7 +59,10 @@
 <LM>w#w-lnd92252-094-p1s1w6</LM>
 </w.rf>
 <form>Manager</form>
-<tag lemma="manažer" src="orig" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="manažer" src="orig">NNMS1-----A----</AM>
+<AM lemma="Manager-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-lnd92252-094-p1s1w7">
 <src.rf>manual</src.rf>
@@ -67,7 +70,10 @@
 <LM>w#w-lnd92252-094-p1s1w7</LM>
 </w.rf>
 <form>Open</form>
-<tag lemma="Open-1_,t_^(v_názvu_např._sport._soutěží,_&quot;otevřený&quot;)" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="Open-1_,t_^(v_názvu_např._sport._soutěží,_&quot;otevřený&quot;)" src="orig">AAXXX----1A----</AM>
+<AM lemma="Open-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-lnd92252-094-p1s1w8">
 <src.rf>manual</src.rf>
@@ -117,7 +123,7 @@
 <form>Skuherská</form>
 <tag>
 <AM lemma="Skuherský_;S" src="orig">NNFS1-----A----</AM>
-<AM lemma="Skuherská_;S" src="auto" recommended="1">NNFS1-----A----</AM>
+<AM lemma="Skuherská_;S" src="auto" recommended="1" selected="1">NNFS1-----A----</AM>
 <AM lemma="Skuherská_;S" src="auto">NNFS5-----A----</AM>
 </tag>
 </m>
@@ -459,7 +465,10 @@
 <LM>w#w-lnd92252-094-p2s1w2</LM>
 </w.rf>
 <form>LN</form>
-<tag lemma="LN-1_:B_;R_^(Lidové_noviny,_deník)" src="orig" selected="1">NNFPX-----A---8</tag>
+<tag>
+<AM lemma="LN-1_:B_;R_^(Lidové_noviny,_deník)" src="orig">NNFPX-----A---8</AM>
+<AM lemma="LN-1_:B_;K_;R_^(Lidové_noviny)" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd92252-094-p2s1w3">
 <src.rf>manual</src.rf>

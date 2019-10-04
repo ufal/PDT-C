@@ -123,7 +123,10 @@
 <LM>w#w-lnd94103-097-p1s1w14</LM>
 </w.rf>
 <form>sv</form>
-<tag lemma="svatý-1_:B" src="auto" selected="1">AAXXX----1A---8</tag>
+<tag>
+<AM lemma="svatý-1_:B" src="auto">AAXXX----1A---8</AM>
+<AM lemma="svatý-1" src="manual" selected="1">AAXXX----1A---8</AM>
+</tag>
 </m>
 <m id="m-lnd94103-097-p1s1w15">
 <src.rf>manual</src.rf>
@@ -391,7 +394,10 @@
 <LM>w#w-lnd94103-097-p1s5w7</LM>
 </w.rf>
 <form>FOK</form>
-<tag lemma="FOK_:B_;K" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="FOK_:B_;K" src="orig">NNXXX-----A---8</AM>
+<AM lemma="FOK-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd94103-097-p1s5w8">
 <src.rf>manual</src.rf>

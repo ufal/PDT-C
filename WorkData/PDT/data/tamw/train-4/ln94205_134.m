@@ -119,7 +119,10 @@
 <LM>w#w-ln94205-134-p2s1Bw3</LM>
 </w.rf>
 <form>gag</form>
-<tag lemma="gag-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="gag-99_:B_;S" src="orig">NNXXX-----A---8</AM>
+<AM lemma="gag-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94205-134-p2s1Bw4">
 <src.rf>manual</src.rf>
@@ -233,7 +236,10 @@
 <LM>w#w-ln94205-134-p2s1Cw12</LM>
 </w.rf>
 <form>Eagle</form>
-<tag lemma="Eagle_;K_,t" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="Eagle_;K_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="Eagle-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94205-134-p2s1Cw13">
 <src.rf>manual</src.rf>
@@ -241,7 +247,10 @@
 <LM>w#w-ln94205-134-p2s1Cw13</LM>
 </w.rf>
 <form>Group</form>
-<tag lemma="Group-1_;K_,t_^(obv._souč._názvu_firem,_&quot;skupina&quot;)" src="orig" selected="1">NNFXX-----A----</tag>
+<tag>
+<AM lemma="Group-1_;K_,t_^(obv._souč._názvu_firem,_&quot;skupina&quot;)" src="orig">NNFXX-----A----</AM>
+<AM lemma="Group-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94205-134-p2s1Cw14">
 <src.rf>manual</src.rf>
@@ -257,7 +266,10 @@
 <LM>w#w-ln94205-134-p2s1Cw15</LM>
 </w.rf>
 <form>A</form>
-<tag lemma="A-9_:B_;S" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="A-9_:B_;S" src="orig">NNFXX-----A---8</AM>
+<AM lemma="A-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln94205-134-p2s1Cw16">
 <src.rf>manual</src.rf>
@@ -369,7 +381,10 @@
 <LM>w#w-ln94205-134-p2s1Cw29</LM>
 </w.rf>
 <form>Elbitu</form>
-<tag lemma="Elbit_;K_,t" src="orig" selected="1">NNIS2-----A----</tag>
+<tag>
+<AM lemma="Elbit_;K_,t" src="orig">NNIS2-----A----</AM>
+<AM lemma="Elbit_;K" src="manual" selected="1">NNIS2-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94205-134-p2s1Cw30">
 <src.rf>manual</src.rf>
@@ -499,7 +514,10 @@
 <LM>w#w-ln94205-134-p3s1w7</LM>
 </w.rf>
 <form>LN</form>
-<tag lemma="LN-1_:B_;R_^(Lidové_noviny,_deník)" src="orig" selected="1">NNFPX-----A---8</tag>
+<tag>
+<AM lemma="LN-1_:B_;R_^(Lidové_noviny,_deník)" src="orig">NNFPX-----A---8</AM>
+<AM lemma="LN-1_:B_;K_;R_^(Lidové_noviny,_deník)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94205-134-p3s1w8">
 <src.rf>manual</src.rf>
@@ -756,7 +774,10 @@
 <LM>w#w-ln94205-134-p3s1w39</LM>
 </w.rf>
 <form>Eagle</form>
-<tag lemma="Eagle_;K_,t" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="Eagle_;K_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="Eagle-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94205-134-p3s1w40">
 <src.rf>manual</src.rf>
@@ -764,7 +785,10 @@
 <LM>w#w-ln94205-134-p3s1w40</LM>
 </w.rf>
 <form>Group</form>
-<tag lemma="Group-1_;K_,t_^(obv._souč._názvu_firem,_&quot;skupina&quot;)" src="orig" selected="1">NNFXX-----A----</tag>
+<tag>
+<AM lemma="Group-1_;K_,t_^(obv._souč._názvu_firem,_&quot;skupina&quot;)" src="orig">NNFXX-----A----</AM>
+<AM lemma="Group-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94205-134-p3s1w41">
 <src.rf>manual</src.rf>
@@ -1178,7 +1202,10 @@
 <LM>w#w-ln94205-134-p4s1w27</LM>
 </w.rf>
 <form>Čs</form>
-<tag lemma="československý_:B" src="orig" selected="1">AAXXX----1A---8</tag>
+<tag>
+<AM lemma="československý_:B" src="orig">AAXXX----1A---8</AM>
+<AM lemma="československý" src="manual" selected="1">AAXXX----1A---8</AM>
+</tag>
 </m>
 <m id="m-ln94205-134-p4s1w28">
 <src.rf>manual</src.rf>
@@ -1801,7 +1828,10 @@
 <LM>w#w-ln94205-134-p5s1w13</LM>
 </w.rf>
 <form>LN</form>
-<tag lemma="LN-1_:B_;R_^(Lidové_noviny,_deník)" src="orig" selected="1">NNFPX-----A---8</tag>
+<tag>
+<AM lemma="LN-1_:B_;R_^(Lidové_noviny,_deník)" src="orig">NNFPX-----A---8</AM>
+<AM lemma="LN-1_:B_;K_;R_^(Lidové_noviny,_deník)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94205-134-p5s1w14">
 <src.rf>manual</src.rf>
@@ -1899,7 +1929,10 @@
 <LM>w#w-ln94205-134-p5s2w7</LM>
 </w.rf>
 <form>řekli</form>
-<tag lemma="říci" src="auto" selected="1">VpMP---XR-AA---</tag>
+<tag>
+<AM lemma="říci" src="auto">VpMP---XR-AA---</AM>
+<AM lemma="říci_:W" src="manual" selected="1">VpMP---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-ln94205-134-p5s2w8">
 <src.rf>manual</src.rf>

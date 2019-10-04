@@ -1147,7 +1147,10 @@
 <LM>w#w-mf920924-051-p5s3w6</LM>
 </w.rf>
 <form>Bell</form>
-<tag lemma="Bell_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Bell_;S" src="orig">NNMS1-----A----</AM>
+<AM lemma="Bell-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-mf920924-051-p5s3w7">
 <src.rf>manual</src.rf>
@@ -1163,7 +1166,10 @@
 <LM>w#w-mf920924-051-p5s3w8</LM>
 </w.rf>
 <form>L</form>
-<tag lemma="l-3_^(označení_pomocí_písmene)" src="orig" selected="1">NNNXX-----A----</tag>
+<tag>
+<AM lemma="l-3_^(označení_pomocí_písmene)" src="orig">NNNXX-----A----</AM>
+<AM lemma="L-33_^(označení_pomocí_písmene)" src="manual" selected="1">NNNXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920924-051-p5s3w9">
 <src.rf>manual</src.rf>
@@ -1555,7 +1561,7 @@
 <form>totiž</form>
 <tag>
 <AM lemma="totiž" src="orig">Db-------------</AM>
-<AM lemma="totiž-1" src="auto" recommended="1">J^-------------</AM>
+<AM lemma="totiž-1" src="auto" recommended="1" selected="1">J^-------------</AM>
 <AM lemma="totiž-2" src="auto">TT-------------</AM>
 </tag>
 </m>
@@ -2252,6 +2258,7 @@
 <AM lemma="ARO_:B_;U_^(anesteziologicko-resuscitační_oddělení)" src="auto" recommended="1">NNNXX-----A---8</AM>
 <AM lemma="Ara_;K_^(obchod,_firma,_továrna)" src="auto">NNFS5-----A----</AM>
 <AM lemma="ara_,l" src="auto">NNMS5-----A----</AM>
+<AM lemma="ARO-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-mf920924-051-p6s6w9">

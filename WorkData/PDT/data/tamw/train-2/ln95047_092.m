@@ -99,7 +99,7 @@
 <form>Ačkoli</form>
 <tag>
 <AM lemma="ačkoliv" src="orig">J,------------1</AM>
-<AM lemma="ačkoli" src="auto" recommended="1">J,-------------</AM>
+<AM lemma="ačkoli" src="auto" recommended="1" selected="1">J,-------------</AM>
 </tag>
 </m>
 <m id="m-ln95047-092-p2s1Cw2">
@@ -172,7 +172,10 @@
 <LM>w#w-ln95047-092-p2s1Cw10</LM>
 </w.rf>
 <form>KDU</form>
-<tag lemma="KDU_:B_;K_;p_^(Křesťansko-demokratická_unie)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="KDU_:B_;K_;p_^(Křesťansko-demokratická_unie)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="KDU-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln95047-092-p2s1Cw11">
 <src.rf>manual</src.rf>
@@ -188,7 +191,10 @@
 <LM>w#w-ln95047-092-p2s1Cw12</LM>
 </w.rf>
 <form>ČSL</form>
-<tag lemma="ČSL-1_:B_;K_;p_^(Česká_[pův._Čsl.]_strana_lidová)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ČSL-1_:B_;K_;p_^(Česká_[pův._Čsl.]_strana_lidová)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČSL-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln95047-092-p2s1Cw13">
 <src.rf>manual</src.rf>
@@ -695,7 +701,7 @@
 <form>násobku</form>
 <tag>
 <AM lemma="násobku" src="orig">NNIS2-----A----</AM>
-<AM lemma="násobek" src="auto" recommended="1">NNIS2-----A----</AM>
+<AM lemma="násobek" src="auto" recommended="1" selected="1">NNIS2-----A----</AM>
 <AM lemma="násobek" src="auto">NNIS3-----A----</AM>
 <AM lemma="násobek" src="auto">NNIS5-----A----</AM>
 <AM lemma="násobek" src="auto">NNIS6-----A----</AM>

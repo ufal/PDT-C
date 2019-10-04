@@ -61,7 +61,10 @@
 <LM>w#w-mf930703-104-p2s1w3</LM>
 </w.rf>
 <form>pa</form>
-<tag lemma="pa" src="orig" selected="1">II-------------</tag>
+<tag>
+<AM lemma="pa" src="orig">II-------------</AM>
+<AM lemma="pa-99_:B_;S" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-mf930703-104-p2s1w4">
 <src.rf>manual</src.rf>
@@ -426,6 +429,7 @@
 <tag>
 <AM lemma="BMW-2_:B_;R_^(vozidlo)" src="orig">NNNXX-----A---8</AM>
 <AM lemma="BMW_:B_;K_;R_^(vozidlo)" src="auto" recommended="1">NNNXX-----A----</AM>
+<AM lemma="BMW-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-mf930703-104-p2s2w14">

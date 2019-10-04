@@ -63,7 +63,10 @@
 <LM>w#w-lnd92256-035-p3s1w2</LM>
 </w.rf>
 <form>Polák</form>
-<tag lemma="Polák_;E" src="auto" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Polák_;E" src="auto">NNMS1-----A----</AM>
+<AM lemma="Polák_;E_;S" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92256-035-p3s1w3">
 <src.rf>manual</src.rf>
@@ -175,7 +178,10 @@
 <LM>w#w-lnd92256-035-p3s1w16</LM>
 </w.rf>
 <form>a</form>
-<tag lemma="akciový_:B_^(jen_akciová_společnost)" src="orig" selected="1">AAXXX----1A---8</tag>
+<tag>
+<AM lemma="akciový_:B_^(jen_akciová_společnost)" src="orig">AAXXX----1A---8</AM>
+<AM lemma="akciový" src="manual" selected="1">AAXXX----1A---8</AM>
+</tag>
 </m>
 <m id="m-lnd92256-035-p3s1w17">
 <src.rf>manual</src.rf>
@@ -191,7 +197,10 @@
 <LM>w#w-lnd92256-035-p3s1w18</LM>
 </w.rf>
 <form>s</form>
-<tag lemma="společnost_:B" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="společnost_:B" src="orig">NNFXX-----A---8</AM>
+<AM lemma="společnost" src="manual" selected="1">NNFXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd92256-035-p3s1w19">
 <src.rf>manual</src.rf>
@@ -223,7 +232,10 @@
 <LM>w#w-lnd92256-035-p3s1w22</LM>
 </w.rf>
 <form>konkursu</form>
-<tag lemma="konkurs_^(úpadek;;soutěž)" src="auto" selected="1">NNIS6-----A---1</tag>
+<tag>
+<AM lemma="konkurs_^(úpadek;;soutěž)" src="auto">NNIS6-----A---1</AM>
+<AM lemma="konkurs_,s_^(^DD**konkurz)" src="manual" selected="1">NNIS6-----A---1</AM>
+</tag>
 </m>
 <m id="m-lnd92256-035-p3s1w23">
 <src.rf>manual</src.rf>
@@ -393,7 +405,10 @@
 <LM>w#w-lnd92256-035-p3s2w10</LM>
 </w.rf>
 <form>a</form>
-<tag lemma="akciový_:B_^(jen_akciová_společnost)" src="orig" selected="1">AAXXX----1A---8</tag>
+<tag>
+<AM lemma="akciový_:B_^(jen_akciová_společnost)" src="orig">AAXXX----1A---8</AM>
+<AM lemma="akciový" src="manual" selected="1">AAXXX----1A---8</AM>
+</tag>
 </m>
 <m id="m-lnd92256-035-p3s2w11">
 <src.rf>manual</src.rf>
@@ -409,7 +424,10 @@
 <LM>w#w-lnd92256-035-p3s2w12</LM>
 </w.rf>
 <form>s</form>
-<tag lemma="společnost_:B" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="společnost_:B" src="orig">NNFXX-----A---8</AM>
+<AM lemma="společnost" src="manual" selected="1">NNFXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd92256-035-p3s2w13">
 <src.rf>manual</src.rf>
@@ -589,7 +607,10 @@
 <LM>w#w-lnd92256-035-p3s4w7</LM>
 </w.rf>
 <form>Polák</form>
-<tag lemma="Polák_;E" src="auto" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Polák_;E" src="auto">NNMS1-----A----</AM>
+<AM lemma="Polák_;E_;S" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92256-035-p3s4w8">
 <src.rf>manual</src.rf>

@@ -101,7 +101,10 @@
 <LM>w#w-ln95048-081-p2s1Aw6</LM>
 </w.rf>
 <form>R</form>
-<tag lemma="R-0_:B_;Y" src="orig" selected="1">NNMXX-----A---8</tag>
+<tag>
+<AM lemma="R-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
+<AM lemma="R-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95048-081-p2s1Aw7">
 <src.rf>manual</src.rf>
@@ -929,7 +932,10 @@
 <LM>w#w-ln95048-081-p3s4w9</LM>
 </w.rf>
 <form>jen</form>
-<tag lemma="jen-1" src="auto" selected="1">TT-------------</tag>
+<tag>
+<AM lemma="jen-1" src="auto">TT-------------</AM>
+<AM lemma="jen-4_^(pouze)" src="manual" selected="1">Db-------------</AM>
+</tag>
 </m>
 <m id="m-ln95048-081-p3s4w10">
 <src.rf>manual</src.rf>
@@ -1341,7 +1347,10 @@
 <LM>w#w-ln95048-081-p4s1w22</LM>
 </w.rf>
 <form>LN</form>
-<tag lemma="LN-1_:B_;R_^(Lidové_noviny,_deník)" src="orig" selected="1">NNFPX-----A---8</tag>
+<tag>
+<AM lemma="LN-1_:B_;R_^(Lidové_noviny,_deník)" src="orig">NNFPX-----A---8</AM>
+<AM lemma="LN-1_:B_;K_;R_^(Lidové_noviny)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95048-081-p4s1w23">
 <src.rf>manual</src.rf>
@@ -2059,7 +2068,10 @@
 <LM>w#w-ln95048-081-p6s1w8</LM>
 </w.rf>
 <form>Jindra</form>
-<tag lemma="Jindra-1_;Y_^(muž)" src="orig" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Jindra-1_;Y_^(muž)" src="orig">NNMS1-----A----</AM>
+<AM lemma="Jindra-1_;S_;Y_^(muž)" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95048-081-p6s1w9">
 <src.rf>manual</src.rf>
@@ -2309,7 +2321,10 @@
 <LM>w#w-ln95048-081-p7s1w13</LM>
 </w.rf>
 <form>Velkoborský</form>
-<tag lemma="velkoborský" src="orig" selected="1">AAMS1----1A----</tag>
+<tag>
+<AM lemma="velkoborský" src="orig">AAMS1----1A----</AM>
+<AM lemma="Velkoborský_;S" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95048-081-p7s1w14">
 <src.rf>manual</src.rf>
@@ -2367,7 +2382,7 @@
 <form>Šámal</form>
 <tag>
 <AM lemma="Šámala_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Šámal_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Šámal_;S" src="auto" recommended="1" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95048-081-p7s1w21">

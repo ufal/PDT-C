@@ -325,7 +325,10 @@
 <LM>w#w-ln94204-131-p1s2w21</LM>
 </w.rf>
 <form>Roman</form>
-<tag lemma="Roman_;Y" src="orig" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Roman_;Y" src="orig">NNMS1-----A----</AM>
+<AM lemma="Roman_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94204-131-p1s2w22">
 <src.rf>manual</src.rf>
@@ -593,7 +596,10 @@
 <LM>w#w-ln94204-131-p1s4w5</LM>
 </w.rf>
 <form>LN</form>
-<tag lemma="LN-1_:B_;R_^(Lidové_noviny,_deník)" src="orig" selected="1">NNFPX-----A---8</tag>
+<tag>
+<AM lemma="LN-1_:B_;R_^(Lidové_noviny,_deník)" src="orig">NNFPX-----A---8</AM>
+<AM lemma="LN-1_:B_;K_;R_^(Lidové_noviny,_deník)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 </s>
 </mdata>

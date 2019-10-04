@@ -223,7 +223,10 @@
 <LM>w#w-ln94209-33-p2s1Bw17</LM>
 </w.rf>
 <form>tis</form>
-<tag lemma="tisíc-2`1000_:B" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="tisíc-2`1000_:B" src="orig">NNIXX-----A---8</AM>
+<AM lemma="tisíc-2`1000" src="manual" selected="1">NNIXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln94209-33-p2s1Bw18">
 <src.rf>manual</src.rf>
@@ -242,6 +245,7 @@
 <tag>
 <AM lemma="Kč" src="orig">NNFXX-----A----</AM>
 <AM lemma="Kč_:B" src="auto" recommended="1">NNFXX-----A---8</AM>
+<AM lemma="Kč_:B" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94209-33-p2s1Bw20">

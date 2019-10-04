@@ -36,7 +36,7 @@
 </w.rf>
 <form>Oropesa</form>
 <tag>
-<AM lemma="Oropesa_;S" src="orig">NNMS1-----A----</AM>
+<AM lemma="Oropesa_;S" src="orig" selected="1">NNMS1-----A----</AM>
 <AM lemma="Oropesa_;G" src="auto" recommended="1">NNFS1-----A----</AM>
 </tag>
 </m>
@@ -81,6 +81,7 @@
 <tag>
 <AM lemma="USA_;G" src="orig">NNIPX-----A----</AM>
 <AM lemma="USA_:B_;K_,t_^(United_States_of_America)" src="auto" recommended="1">NNIPX-----A---8</AM>
+<AM lemma="USA_:B_;K_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930713-021-p1s1w9">
@@ -222,7 +223,7 @@
 </w.rf>
 <form>Oropesa</form>
 <tag>
-<AM lemma="Oropesa_;S" src="orig">NNMS1-----A----</AM>
+<AM lemma="Oropesa_;S" src="orig" selected="1">NNMS1-----A----</AM>
 <AM lemma="Oropesa_;G" src="auto" recommended="1">NNFS1-----A----</AM>
 </tag>
 </m>
@@ -283,6 +284,7 @@
 <tag>
 <AM lemma="USA_;G" src="orig">NNIPX-----A----</AM>
 <AM lemma="USA_:B_;K_,t_^(United_States_of_America)" src="auto" recommended="1">NNIPX-----A---8</AM>
+<AM lemma="USA_:B_;K_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930713-021-p2s1Bw22">
@@ -341,7 +343,10 @@
 <LM>w#w-mf930713-021-p2s2w6</LM>
 </w.rf>
 <form>Tchaj</form>
-<tag lemma="Tchaj_;G" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="Tchaj_;G" src="orig">AAXXX----1A----</AM>
+<AM lemma="Tchaj-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-mf930713-021-p2s2w7">
 <src.rf>manual</src.rf>
@@ -360,7 +365,7 @@
 <tag>
 <AM lemma="wan_;G" src="orig">NNIXX-----A----</AM>
 <AM lemma="wan_;G" src="auto" recommended="1">NNIS2-----A----</AM>
-<AM lemma="wan_;G" src="auto">NNIS3-----A----</AM>
+<AM lemma="wan_;G" src="auto" selected="1">NNIS3-----A----</AM>
 <AM lemma="wan_;G" src="auto">NNIS6-----A----</AM>
 </tag>
 </m>
@@ -371,7 +376,7 @@
 </w.rf>
 <form>Oropesa</form>
 <tag>
-<AM lemma="Oropesa_;S" src="orig">NNMS1-----A----</AM>
+<AM lemma="Oropesa_;S" src="orig" selected="1">NNMS1-----A----</AM>
 <AM lemma="Oropesa_;G" src="auto" recommended="1">NNFS1-----A----</AM>
 </tag>
 </m>
@@ -429,7 +434,10 @@
 <LM>w#w-mf930713-021-p2s2w16</LM>
 </w.rf>
 <form>stadionu</form>
-<tag lemma="stadión" src="orig" selected="1">NNIS6-----A---1</tag>
+<tag>
+<AM lemma="stadión" src="orig">NNIS6-----A---1</AM>
+<AM lemma="stadion_,s_^(^DD**stadión)" src="manual" selected="1">NNIS6-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930713-021-p2s2w17">
 <src.rf>manual</src.rf>
@@ -458,7 +466,7 @@
 <AM lemma="zrak" src="auto">NNIP1-----A----</AM>
 <AM lemma="zrak" src="auto">NNIP4-----A----</AM>
 <AM lemma="zrak" src="auto">NNIP5-----A----</AM>
-<AM lemma="zrak" src="auto" recommended="1">NNIP7-----A----</AM>
+<AM lemma="zrak" src="auto" recommended="1" selected="1">NNIP7-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930713-021-p2s2w20">
@@ -523,7 +531,10 @@
 <LM>w#w-mf930713-021-p2s2w27</LM>
 </w.rf>
 <form>modrého</form>
-<tag lemma="modrý" src="orig" selected="1">AAIS2----1A----</tag>
+<tag>
+<AM lemma="modrý" src="orig">AAIS2----1A----</AM>
+<AM lemma="modrý_;o" src="manual" selected="1">AAIS2----1A----</AM>
+</tag>
 </m>
 <m id="m-mf930713-021-p2s2w28">
 <src.rf>manual</src.rf>
@@ -670,7 +681,7 @@
 </w.rf>
 <form>Oropesa</form>
 <tag>
-<AM lemma="Oropesa_;S" src="orig">NNMS1-----A----</AM>
+<AM lemma="Oropesa_;S" src="orig" selected="1">NNMS1-----A----</AM>
 <AM lemma="Oropesa_;G" src="auto" recommended="1">NNFS1-----A----</AM>
 </tag>
 </m>
@@ -699,6 +710,7 @@
 <tag>
 <AM lemma="USA_;G" src="orig">NNIPX-----A----</AM>
 <AM lemma="USA_:B_;K_,t_^(United_States_of_America)" src="auto" recommended="1">NNIPX-----A---8</AM>
+<AM lemma="USA_:B_;K_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930713-021-p2s4w20">
@@ -1087,7 +1099,10 @@
 <LM>w#w-mf930713-021-p2s6w4</LM>
 </w.rf>
 <form>Morales</form>
-<tag lemma="Morales_;S" src="auto" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Morales_;S" src="auto">NNMS1-----A----</AM>
+<AM lemma="Morales_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930713-021-p2s6w5">
 <src.rf>manual</src.rf>
@@ -1096,7 +1111,7 @@
 </w.rf>
 <form>Quintana</form>
 <tag>
-<AM lemma="Quintana_;S" src="orig">NNMS1-----A----</AM>
+<AM lemma="Quintana_;S" src="orig" selected="1">NNMS1-----A----</AM>
 <AM lemma="Quintana_;G" src="auto" recommended="1">NNFS1-----A----</AM>
 <AM lemma="quintana_;L_,t" src="auto">AAXXX----1A----</AM>
 </tag>
@@ -1107,7 +1122,10 @@
 <LM>w#w-mf930713-021-p2s6w6</LM>
 </w.rf>
 <form>řekl</form>
-<tag lemma="říci" src="auto" selected="1">VpYS---XR-AA---</tag>
+<tag>
+<AM lemma="říci" src="auto">VpYS---XR-AA---</AM>
+<AM lemma="říci_:W" src="manual" selected="1">VpYS---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-mf930713-021-p2s6w7">
 <src.rf>manual</src.rf>
@@ -1254,7 +1272,7 @@
 </w.rf>
 <form>Oropesa</form>
 <tag>
-<AM lemma="Oropesa_;S" src="orig">NNMS1-----A----</AM>
+<AM lemma="Oropesa_;S" src="orig" selected="1">NNMS1-----A----</AM>
 <AM lemma="Oropesa_;G" src="auto" recommended="1">NNFS1-----A----</AM>
 </tag>
 </m>
@@ -1283,6 +1301,7 @@
 <tag>
 <AM lemma="USA_;G" src="orig">NNIPX-----A----</AM>
 <AM lemma="USA_:B_;K_,t_^(United_States_of_America)" src="auto" recommended="1">NNIPX-----A---8</AM>
+<AM lemma="USA_:B_;K_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930713-021-p2s8w7">

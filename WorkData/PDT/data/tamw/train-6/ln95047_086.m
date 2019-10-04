@@ -889,7 +889,10 @@
 <LM>w#w-ln95047-086-p3s3w9</LM>
 </w.rf>
 <form>formalismu</form>
-<tag lemma="formalismus" src="orig" selected="1">NNIS3-----A----</tag>
+<tag>
+<AM lemma="formalismus" src="orig">NNIS3-----A----</AM>
+<AM lemma="formalismus_,s_^(^DD**formalizmus)" src="manual" selected="1">NNIS3-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95047-086-p3s3w10">
 <src.rf>manual</src.rf>
@@ -1497,7 +1500,10 @@
 <LM>w#w-ln95047-086-p4s3w13</LM>
 </w.rf>
 <form>např</form>
-<tag lemma="například_:B" src="orig" selected="1">Db------------8</tag>
+<tag>
+<AM lemma="například_:B" src="orig">Db------------8</AM>
+<AM lemma="například" src="manual" selected="1">Db------------8</AM>
+</tag>
 </m>
 <m id="m-ln95047-086-p4s3w14">
 <src.rf>manual</src.rf>
@@ -1887,7 +1893,10 @@
 <LM>w#w-ln95047-086-p5s1w6</LM>
 </w.rf>
 <form>např</form>
-<tag lemma="například_:B" src="orig" selected="1">Db------------8</tag>
+<tag>
+<AM lemma="například_:B" src="orig">Db------------8</AM>
+<AM lemma="například" src="manual" selected="1">Db------------8</AM>
+</tag>
 </m>
 <m id="m-ln95047-086-p5s1w7">
 <src.rf>manual</src.rf>
@@ -2211,7 +2220,7 @@
 <form>nikoli</form>
 <tag>
 <AM lemma="nikoliv" src="orig">Db------------1</AM>
-<AM lemma="nikoli" src="auto" recommended="1">TT-------------</AM>
+<AM lemma="nikoli" src="auto" recommended="1" selected="1">TT-------------</AM>
 </tag>
 </m>
 <m id="m-ln95047-086-p5s2w33">
@@ -2310,7 +2319,10 @@
 <LM>w#w-ln95047-086-p5s3w11</LM>
 </w.rf>
 <form>li</form>
-<tag lemma="li-1" src="auto" selected="1">TT-------------</tag>
+<tag>
+<AM lemma="li-1" src="auto">TT-------------</AM>
+<AM lemma="li-2" src="manual" selected="1">J,-------------</AM>
+</tag>
 </m>
 <m id="m-ln95047-086-p5s3w12">
 <src.rf>manual</src.rf>

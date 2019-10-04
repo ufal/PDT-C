@@ -101,7 +101,10 @@
 <LM>w#w-ln94201-61-p2s1w6</LM>
 </w.rf>
 <form>diskuse</form>
-<tag lemma="diskuse" src="orig" selected="1">NNFS1-----A----</tag>
+<tag>
+<AM lemma="diskuse" src="orig">NNFS1-----A----</AM>
+<AM lemma="diskuse_,s_^(^DD**diskuze)" src="manual" selected="1">NNFS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94201-61-p2s1w7">
 <src.rf>manual</src.rf>
@@ -441,7 +444,10 @@
 <LM>w#w-ln94201-61-p2s3w1</LM>
 </w.rf>
 <form>Diskuse</form>
-<tag lemma="diskuse" src="orig" selected="1">NNFS1-----A----</tag>
+<tag>
+<AM lemma="diskuse" src="orig">NNFS1-----A----</AM>
+<AM lemma="diskuse_,s_^(^DD**diskuze)" src="manual" selected="1">NNFS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94201-61-p2s3w2">
 <src.rf>manual</src.rf>
@@ -800,7 +806,7 @@
 <tag>
 <AM lemma="tedy" src="orig">Db-------------</AM>
 <AM lemma="tedy-1" src="auto">TT-------------</AM>
-<AM lemma="tedy-2" src="auto" recommended="1">J^-------------</AM>
+<AM lemma="tedy-2" src="auto" recommended="1" selected="1">J^-------------</AM>
 </tag>
 </m>
 <m id="m-ln94201-61-p3s1w7">
@@ -1078,6 +1084,7 @@
 <AM lemma="eso" src="auto" recommended="1">NNNS1-----A----</AM>
 <AM lemma="eso" src="auto">NNNS4-----A----</AM>
 <AM lemma="eso" src="auto">NNNS5-----A----</AM>
+<AM lemma="ESO-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-ln94201-61-p3s1w41">
@@ -1139,6 +1146,7 @@
 <tag>
 <AM lemma="OMI_:B_;K" src="orig">NNIXX-----A---8</AM>
 <AM lemma="Omi_;G" src="auto" recommended="1">NNNXX-----A----</AM>
+<AM lemma="OMI-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-ln94201-61-p3s2w2">
@@ -1480,6 +1488,7 @@
 <AM lemma="eso" src="auto" recommended="1">NNNS1-----A----</AM>
 <AM lemma="eso" src="auto">NNNS4-----A----</AM>
 <AM lemma="eso" src="auto">NNNS5-----A----</AM>
+<AM lemma="ESO-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-ln94201-61-p3s2w44">
@@ -1559,6 +1568,7 @@
 <AM lemma="eso" src="auto" recommended="1">NNNS1-----A----</AM>
 <AM lemma="eso" src="auto">NNNS4-----A----</AM>
 <AM lemma="eso" src="auto">NNNS5-----A----</AM>
+<AM lemma="ESO-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-ln94201-61-p3s3w7">
@@ -1835,7 +1845,10 @@
 <LM>w#w-ln94201-61-p4s1w1</LM>
 </w.rf>
 <form>ing</form>
-<tag lemma="Ing-1_:B_^(inženýr)" src="orig" selected="1">NNMXX-----A---8</tag>
+<tag>
+<AM lemma="Ing-1_:B_^(inženýr)" src="orig">NNMXX-----A---8</AM>
+<AM lemma="ing_:B_^(inženýr)" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln94201-61-p4s1w2">
 <src.rf>manual</src.rf>

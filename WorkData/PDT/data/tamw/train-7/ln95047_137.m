@@ -19,7 +19,10 @@
 <LM>w#w-ln95047-137-p1s1w1</LM>
 </w.rf>
 <form>Sodexho</form>
-<tag lemma="Sodexho_;K_,t" src="orig" selected="1">NNNS1-----A----</tag>
+<tag>
+<AM lemma="Sodexho_;K_,t" src="orig">NNNS1-----A----</AM>
+<AM lemma="Sodexho_;K" src="manual" selected="1">NNNS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95047-137-p1s1w2">
 <src.rf>manual</src.rf>
@@ -109,7 +112,10 @@
 <LM>w#w-ln95047-137-p2s1Aw7</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-2" src="auto" selected="1">Dg-------2A----</tag>
+<tag>
+<AM lemma="hodně-2" src="auto">Dg-------2A----</AM>
+<AM lemma="hodně-3" src="manual" selected="1">Dg-------2A----</AM>
+</tag>
 </m>
 <m id="m-ln95047-137-p2s1Aw8">
 <src.rf>manual</src.rf>
@@ -149,7 +155,10 @@
 <LM>w#w-ln95047-137-p2s1Aw12</LM>
 </w.rf>
 <form>ČR</form>
-<tag lemma="ČR-1_:B_;G_^(Česká_republika)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 </s>
 <s id="m-ln95047-137-p2s1B">
@@ -193,7 +202,10 @@
 <LM>w#w-ln95047-137-p2s1Cw3</LM>
 </w.rf>
 <form>Sodexho</form>
-<tag lemma="Sodexho_;K_,t" src="orig" selected="1">NNNS1-----A----</tag>
+<tag>
+<AM lemma="Sodexho_;K_,t" src="orig">NNNS1-----A----</AM>
+<AM lemma="Sodexho_;K" src="manual" selected="1">NNNS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95047-137-p2s1Cw4">
 <src.rf>manual</src.rf>
@@ -281,7 +293,10 @@
 <LM>w#w-ln95047-137-p2s1Cw14</LM>
 </w.rf>
 <form>Garden</form>
-<tag lemma="Garden-2_;G_,t_^(součást_názvu_např._Garden_City)" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="Garden-2_;G_,t_^(součást_názvu_např._Garden_City)" src="orig">AAXXX----1A----</AM>
+<AM lemma="Garden-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln95047-137-p2s1Cw15">
 <src.rf>manual</src.rf>
@@ -289,7 +304,10 @@
 <LM>w#w-ln95047-137-p2s1Cw15</LM>
 </w.rf>
 <form>Merchant</form>
-<tag lemma="Merchant_;K_,t" src="orig" selected="1">NNMXX-----A----</tag>
+<tag>
+<AM lemma="Merchant_;K_,t" src="orig">NNMXX-----A----</AM>
+<AM lemma="Merchant-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln95047-137-p2s1Cw16">
 <src.rf>manual</src.rf>
@@ -380,7 +398,10 @@
 <LM>w#w-ln95047-137-p2s2w10</LM>
 </w.rf>
 <form>stala</form>
-<tag lemma="stát-2_^(něco_se_přihodilo)" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag>
+<AM lemma="stát-2_^(něco_se_přihodilo)" src="orig">VpQW---XR-AA---</AM>
+<AM lemma="stát-2_^(stanu_staneš)" src="manual" selected="1">VpQW---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-ln95047-137-p2s2w11">
 <src.rf>manual</src.rf>
@@ -486,7 +507,10 @@
 <LM>w#w-ln95047-137-p3s1w6</LM>
 </w.rf>
 <form>Sodexho</form>
-<tag lemma="Sodexho_;K_,t" src="orig" selected="1">NNNS1-----A----</tag>
+<tag>
+<AM lemma="Sodexho_;K_,t" src="orig">NNNS1-----A----</AM>
+<AM lemma="Sodexho_;K" src="manual" selected="1">NNNS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95047-137-p3s1w7">
 <src.rf>manual</src.rf>
@@ -558,7 +582,10 @@
 <LM>w#w-ln95047-137-p3s1w15</LM>
 </w.rf>
 <form>začal</form>
-<tag lemma="začít-1_^(začnout)" src="auto" selected="1">VpYS---XR-AA---</tag>
+<tag>
+<AM lemma="začít-1_^(začnout)" src="auto">VpYS---XR-AA---</AM>
+<AM lemma="začít-1_:W_^(začnout)" src="manual" selected="1">VpYS---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-ln95047-137-p3s1w16">
 <src.rf>manual</src.rf>
@@ -616,7 +643,7 @@
 <form>vůbec</form>
 <tag>
 <AM lemma="vůbec" src="orig">Db-------------</AM>
-<AM lemma="vůbec" src="auto" recommended="1">TT-------------</AM>
+<AM lemma="vůbec" src="auto" recommended="1" selected="1">TT-------------</AM>
 </tag>
 </m>
 <m id="m-ln95047-137-p3s1w23">
@@ -699,7 +726,10 @@
 <LM>w#w-ln95047-137-p4s1w8</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-2" src="auto" selected="1">Dg-------2A----</tag>
+<tag>
+<AM lemma="hodně-2" src="auto">Dg-------2A----</AM>
+<AM lemma="hodně-3" src="manual" selected="1">Dg-------2A----</AM>
+</tag>
 </m>
 <m id="m-ln95047-137-p4s1w9">
 <src.rf>manual</src.rf>
@@ -1174,7 +1204,10 @@
 <LM>w#w-ln95047-137-p5s1w2</LM>
 </w.rf>
 <form>Sodexha</form>
-<tag lemma="Sodexho_;K_,t" src="orig" selected="1">NNNS2-----A----</tag>
+<tag>
+<AM lemma="Sodexho_;K_,t" src="orig">NNNS2-----A----</AM>
+<AM lemma="Sodexho_;K" src="manual" selected="1">NNNS2-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95047-137-p5s1w3">
 <src.rf>manual</src.rf>
@@ -1451,7 +1484,7 @@
 <tag>
 <AM lemma="Suchdol_;G" src="orig">NNIS6-----A----</AM>
 <AM lemma="Suchdol_;G" src="auto">NNIS5-----A----</AM>
-<AM lemma="Suchdol_;G" src="auto" recommended="1">NNIS6-----A---1</AM>
+<AM lemma="Suchdol_;G" src="auto" recommended="1" selected="1">NNIS6-----A---1</AM>
 </tag>
 </m>
 <m id="m-ln95047-137-p5s2w19">
@@ -1558,7 +1591,7 @@
 <form>Kladruby</form>
 <tag>
 <AM lemma="Kladruby_;G" src="orig">NNFP1-----A----</AM>
-<AM lemma="Kladruby_;G" src="auto" recommended="1">NNIP1-----A----</AM>
+<AM lemma="Kladruby_;G" src="auto" recommended="1" selected="1">NNIP1-----A----</AM>
 <AM lemma="Kladruby_;G" src="auto">NNIP4-----A----</AM>
 <AM lemma="Kladruby_;G" src="auto">NNIP5-----A----</AM>
 <AM lemma="Kladruby_;G" src="auto">NNIP7-----A----</AM>
@@ -1612,7 +1645,10 @@
 <LM>w#w-ln95047-137-p6s1w2</LM>
 </w.rf>
 <form>Sodexho</form>
-<tag lemma="Sodexho_;K_,t" src="orig" selected="1">NNNS1-----A----</tag>
+<tag>
+<AM lemma="Sodexho_;K_,t" src="orig">NNNS1-----A----</AM>
+<AM lemma="Sodexho_;K" src="manual" selected="1">NNNS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95047-137-p6s1w3">
 <src.rf>manual</src.rf>
@@ -1856,7 +1892,10 @@
 <LM>w#w-ln95047-137-p6s3w3</LM>
 </w.rf>
 <form>Sodexha</form>
-<tag lemma="Sodexho_;K_,t" src="orig" selected="1">NNNS2-----A----</tag>
+<tag>
+<AM lemma="Sodexho_;K_,t" src="orig">NNNS2-----A----</AM>
+<AM lemma="Sodexho_;K" src="manual" selected="1">NNNS2-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95047-137-p6s3w4">
 <src.rf>manual</src.rf>
@@ -2092,7 +2131,10 @@
 <LM>w#w-ln95047-137-p7s1w5</LM>
 </w.rf>
 <form>Sodexho</form>
-<tag lemma="Sodexho_;K_,t" src="orig" selected="1">NNNS1-----A----</tag>
+<tag>
+<AM lemma="Sodexho_;K_,t" src="orig">NNNS1-----A----</AM>
+<AM lemma="Sodexho_;K" src="manual" selected="1">NNNS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95047-137-p7s1w6">
 <src.rf>manual</src.rf>
@@ -2282,7 +2324,7 @@
 <form>Kdekoliv</form>
 <tag>
 <AM lemma="kdekoliv" src="orig">Db-------------</AM>
-<AM lemma="kdekoli" src="auto" recommended="1">Db------------1</AM>
+<AM lemma="kdekoli" src="auto" recommended="1" selected="1">Db------------1</AM>
 </tag>
 </m>
 <m id="m-ln95047-137-p7s3w2">

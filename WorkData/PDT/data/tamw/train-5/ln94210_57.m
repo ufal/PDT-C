@@ -183,7 +183,10 @@
 <LM>w#w-ln94210-57-p2s1Bw16</LM>
 </w.rf>
 <form>Poláka</form>
-<tag lemma="Polák_;E" src="auto" selected="1">NNMS2-----A----</tag>
+<tag>
+<AM lemma="Polák_;E" src="auto">NNMS2-----A----</AM>
+<AM lemma="Polák_;E_;S" src="manual" selected="1">NNMS2-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94210-57-p2s1Bw17">
 <src.rf>manual</src.rf>
@@ -387,7 +390,10 @@
 <LM>w#w-ln94210-57-p2s3w1</LM>
 </w.rf>
 <form>Polák</form>
-<tag lemma="Polák_;E" src="auto" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Polák_;E" src="auto">NNMS1-----A----</AM>
+<AM lemma="Polák_;E_;S" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94210-57-p2s3w2">
 <src.rf>manual</src.rf>
@@ -403,7 +409,10 @@
 <LM>w#w-ln94210-57-p2s3w3</LM>
 </w.rf>
 <form>řekl</form>
-<tag lemma="říci" src="auto" selected="1">VpYS---XR-AA---</tag>
+<tag>
+<AM lemma="říci" src="auto">VpYS---XR-AA---</AM>
+<AM lemma="říci_:W" src="manual" selected="1">VpYS---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-ln94210-57-p2s3w4">
 <src.rf>manual</src.rf>
@@ -477,7 +486,10 @@
 <LM>w#w-ln94210-57-p2s4w2</LM>
 </w.rf>
 <form>Poláka</form>
-<tag lemma="Polák_;E" src="auto" selected="1">NNMS2-----A----</tag>
+<tag>
+<AM lemma="Polák_;E" src="auto">NNMS2-----A----</AM>
+<AM lemma="Polák_;E_;S" src="manual" selected="1">NNMS2-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94210-57-p2s4w3">
 <src.rf>manual</src.rf>
@@ -488,7 +500,7 @@
 <tag>
 <AM lemma="totiž" src="orig">Db-------------</AM>
 <AM lemma="totiž-1" src="auto" recommended="1">J^-------------</AM>
-<AM lemma="totiž-2" src="auto">TT-------------</AM>
+<AM lemma="totiž-2" src="auto" selected="1">TT-------------</AM>
 </tag>
 </m>
 <m id="m-ln94210-57-p2s4w4">

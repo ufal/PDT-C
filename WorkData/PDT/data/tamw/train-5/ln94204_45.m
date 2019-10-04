@@ -98,7 +98,7 @@
 <form>litrů</form>
 <tag>
 <AM lemma="l-1`litr" src="orig">NNIP2-----A----</AM>
-<AM lemma="litr" src="auto" recommended="1">NNIP2-----A----</AM>
+<AM lemma="litr" src="auto" recommended="1" selected="1">NNIP2-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94204-45-p2s1Bw4">
@@ -505,7 +505,10 @@
 <LM>w#w-ln94204-45-p2s4w5</LM>
 </w.rf>
 <form>s</form>
-<tag lemma="společnost_:B" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="společnost_:B" src="orig">NNFXX-----A---8</AM>
+<AM lemma="společnost" src="manual" selected="1">NNFXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln94204-45-p2s4w6">
 <src.rf>manual</src.rf>
@@ -521,7 +524,10 @@
 <LM>w#w-ln94204-45-p2s4w7</LM>
 </w.rf>
 <form>r</form>
-<tag lemma="ručení_:B" src="orig" selected="1">NNNS7-----A---8</tag>
+<tag>
+<AM lemma="ručení_:B" src="orig">NNNS7-----A---8</AM>
+<AM lemma="ručení" src="manual" selected="1">NNNXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln94204-45-p2s4w8">
 <src.rf>manual</src.rf>
@@ -537,7 +543,10 @@
 <LM>w#w-ln94204-45-p2s4w9</LM>
 </w.rf>
 <form>o</form>
-<tag lemma="omezený_:B" src="orig" selected="1">AANS7----1A---8</tag>
+<tag>
+<AM lemma="omezený_:B" src="orig">AANS7----1A---8</AM>
+<AM lemma="omezený" src="manual" selected="1">AANXX----1A---8</AM>
+</tag>
 </m>
 <m id="m-ln94204-45-p2s4w10">
 <src.rf>manual</src.rf>
@@ -557,6 +566,7 @@
 <AM lemma="Hekra_;K" src="orig">NNFS1-----A----</AM>
 <AM lemma="Hekr_;S" src="auto" recommended="1">NNMS2-----A----</AM>
 <AM lemma="Hekr_;S" src="auto">NNMS4-----A----</AM>
+<AM lemma="Hekra-2_;K" src="manual" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94204-45-p2s4w12">
@@ -1245,7 +1255,10 @@
 <LM>w#w-ln94204-45-p2s9w17</LM>
 </w.rf>
 <form>začne</form>
-<tag lemma="začít-1_^(začnout)" src="auto" selected="1">VB-S---3P-AA---</tag>
+<tag>
+<AM lemma="začít-1_^(začnout)" src="auto">VB-S---3P-AA---</AM>
+<AM lemma="začít-1_:W_^(začnout)" src="manual" selected="1">VB-S---3P-AA---</AM>
+</tag>
 </m>
 <m id="m-ln94204-45-p2s9w18">
 <src.rf>manual</src.rf>

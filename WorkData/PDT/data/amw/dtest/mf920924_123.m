@@ -35,7 +35,10 @@
 <LM>w#w-mf920924-123-p1s1w3</LM>
 </w.rf>
 <form>zadržen</form>
-<tag lemma="zadržet" src="orig" selected="1">VsYS---XX-AP---</tag>
+<tag>
+<AM lemma="zadržet" src="orig">VsYS---XX-AP---</AM>
+<AM lemma="zadržet_:W" src="manual" selected="1">VsYS---XX-AP---</AM>
+</tag>
 </m>
 </s>
 <s id="m-mf920924-123-p2s1">
@@ -248,7 +251,7 @@
 </w.rf>
 <form>Višňové</form>
 <tag>
-<AM lemma="Višňová_;G" src="orig">NNFS6-----A----</AM>
+<AM lemma="Višňová_;G" src="orig" selected="1">NNFS6-----A----</AM>
 <AM lemma="višňový" src="auto">AAFP1----1A----</AM>
 <AM lemma="višňový" src="auto">AAFP4----1A----</AM>
 <AM lemma="višňový" src="auto">AAFP5----1A----</AM>
@@ -411,7 +414,10 @@
 <LM>w#w-mf920924-123-p2s7w3</LM>
 </w.rf>
 <form>začal</form>
-<tag lemma="začít-1_^(začnout)" src="auto" selected="1">VpYS---XR-AA---</tag>
+<tag>
+<AM lemma="začít-1_^(začnout)" src="auto">VpYS---XR-AA---</AM>
+<AM lemma="začít-1_:W_^(začnout)" src="manual" selected="1">VpYS---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-mf920924-123-p2s7w4">
 <src.rf>manual</src.rf>
@@ -1996,7 +2002,7 @@
 </w.rf>
 <form>Višňové</form>
 <tag>
-<AM lemma="Višňová_;G" src="orig">NNFS6-----A----</AM>
+<AM lemma="Višňová_;G" src="orig" selected="1">NNFS6-----A----</AM>
 <AM lemma="višňový" src="auto">AAFP1----1A----</AM>
 <AM lemma="višňový" src="auto">AAFP4----1A----</AM>
 <AM lemma="višňový" src="auto">AAFP5----1A----</AM>

@@ -245,7 +245,10 @@
 <LM>w#w-ln94203-87-p1s2w5</LM>
 </w.rf>
 <form>Konečný</form>
-<tag lemma="konečný" src="orig" selected="1">AAMS1----1A----</tag>
+<tag>
+<AM lemma="konečný" src="orig">AAMS1----1A----</AM>
+<AM lemma="Konečný_;S" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94203-87-p1s2w6">
 <src.rf>manual</src.rf>
@@ -601,7 +604,10 @@
 <LM>w#w-ln94203-87-p1s4w16</LM>
 </w.rf>
 <form>právě</form>
-<tag lemma="právě-1" src="auto" selected="1">Db-------------</tag>
+<tag>
+<AM lemma="právě-1" src="auto">Db-------------</AM>
+<AM lemma="právě-2" src="manual" selected="1">TT-------------</AM>
+</tag>
 </m>
 <m id="m-ln94203-87-p1s4w17">
 <src.rf>manual</src.rf>
@@ -988,6 +994,7 @@
 <tag>
 <AM lemma="lin-99_:B_;S" src="orig">NNXXX-----A---8</AM>
 <AM lemma="lino" src="auto" recommended="1">NNNP2-----A----</AM>
+<AM lemma="lin-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94203-87-p1s8w3">

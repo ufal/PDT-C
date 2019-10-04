@@ -159,7 +159,10 @@
 <LM>w#w-mf930709-042-p2s1Bw10</LM>
 </w.rf>
 <form>mj</form>
-<tag lemma="mj-1_:B_^(mimo_jiné)" src="orig" selected="1">Db------------8</tag>
+<tag>
+<AM lemma="mj-1_:B_^(mimo_jiné)" src="orig">Db------------8</AM>
+<AM lemma="mj-1_:B_^(mimo_jiné)" src="manual" selected="1">Db-------------</AM>
+</tag>
 </m>
 <m id="m-mf930709-042-p2s1Bw11">
 <src.rf>manual</src.rf>
@@ -567,7 +570,7 @@
 <form>hektolitrů</form>
 <tag>
 <AM lemma="hl-1`hektolitr" src="orig">NNIP2-----A----</AM>
-<AM lemma="hektolitr" src="auto" recommended="1">NNIP2-----A----</AM>
+<AM lemma="hektolitr" src="auto" recommended="1" selected="1">NNIP2-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930709-042-p2s4w8">
@@ -592,7 +595,10 @@
 <LM>w#w-mf930709-042-p2s4w10</LM>
 </w.rf>
 <form>nejvíce</form>
-<tag lemma="hodně-2" src="auto" selected="1">Dg-------3A----</tag>
+<tag>
+<AM lemma="hodně-2" src="auto">Dg-------3A----</AM>
+<AM lemma="hodně-3" src="manual" selected="1">Dg-------3A----</AM>
+</tag>
 </m>
 <m id="m-mf930709-042-p2s4w11">
 <src.rf>manual</src.rf>
@@ -616,7 +622,10 @@
 <LM>w#w-mf930709-042-p2s4w13</LM>
 </w.rf>
 <form>ČR</form>
-<tag lemma="ČR-1_:B_;G_^(Česká_republika)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930709-042-p2s4w14">
 <src.rf>manual</src.rf>
@@ -674,7 +683,10 @@
 <LM>w#w-mf930709-042-p2s5w6</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-2" src="auto" selected="1">Dg-------2A----</tag>
+<tag>
+<AM lemma="hodně-2" src="auto">Dg-------2A----</AM>
+<AM lemma="hodně-3" src="manual" selected="1">Dg-------2A----</AM>
+</tag>
 </m>
 <m id="m-mf930709-042-p2s5w7">
 <src.rf>manual</src.rf>

@@ -147,7 +147,10 @@
 <LM>w#w-mf930701-061-p1s1w17</LM>
 </w.rf>
 <form>exlibris</form>
-<tag lemma="exlibris_;u_,t" src="auto" selected="1">NNNXX-----A----</tag>
+<tag>
+<AM lemma="exlibris_;u_,t" src="auto">NNNXX-----A----</AM>
+<AM lemma="exlibris-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 </s>
 </mdata>

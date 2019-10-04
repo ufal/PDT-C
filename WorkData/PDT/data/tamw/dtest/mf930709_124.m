@@ -77,7 +77,10 @@
 <LM>w#w-mf930709-124-p2s1Aw3</LM>
 </w.rf>
 <form>bar</form>
-<tag lemma="bar-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="bar-99_:B_;S" src="orig">NNXXX-----A---8</AM>
+<AM lemma="bar-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930709-124-p2s1Aw4">
 <src.rf>manual</src.rf>
@@ -487,7 +490,10 @@
 <LM>w#w-mf930709-124-p4s1Aw3</LM>
 </w.rf>
 <form>bar</form>
-<tag lemma="bar-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="bar-99_:B_;S" src="orig">NNXXX-----A---8</AM>
+<AM lemma="bar-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930709-124-p4s1Aw4">
 <src.rf>manual</src.rf>
@@ -675,7 +681,7 @@
 </w.rf>
 <form>Líních</form>
 <tag>
-<AM lemma="Líně_;G_^(obec_v_Čechách])" src="orig">NNFP6-----A----</AM>
+<AM lemma="Líně_;G_^(obec_v_Čechách])" src="orig" selected="1">NNFP6-----A----</AM>
 <AM lemma="Líní_;G" src="auto" recommended="1">NNNP6-----A----</AM>
 <AM lemma="líní_^(rybí)" src="auto">AAFP2----1A----</AM>
 <AM lemma="líní_^(rybí)" src="auto">AAFP6----1A----</AM>
@@ -762,7 +768,7 @@
 <tag>
 <AM lemma="Ford-2_;R_^(vozidlo)" src="orig">NNIS4-----A---6</AM>
 <AM lemma="ford_;R" src="auto">NNIS2-----A---1</AM>
-<AM lemma="ford_;R" src="auto" recommended="1">NNIS4-----A---6</AM>
+<AM lemma="ford_;R" src="auto" recommended="1" selected="1">NNIS4-----A---6</AM>
 </tag>
 </m>
 </s>
@@ -773,7 +779,10 @@
 <LM>w#w-mf930709-124-p6s2w1</LM>
 </w.rf>
 <form>Začal</form>
-<tag lemma="začít-1_^(začnout)" src="auto" selected="1">VpYS---XR-AA---</tag>
+<tag>
+<AM lemma="začít-1_^(začnout)" src="auto">VpYS---XR-AA---</AM>
+<AM lemma="začít-1_:W_^(začnout)" src="manual" selected="1">VpYS---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-mf930709-124-p6s2w2">
 <src.rf>manual</src.rf>

@@ -27,7 +27,11 @@
 <LM>w#w-ln95046-121-p1s1w2</LM>
 </w.rf>
 <form>uzavřel</form>
-<tag lemma="uzavřít" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag>
+<AM lemma="uzavřít" src="orig">VpYS---XR-AA---</AM>
+<AM lemma="uzavřít_:T" src="manual">VpYS---XR-AA---</AM>
+<AM lemma="uzavřít_:W" src="manual" selected="1">VpYS---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-ln95046-121-p1s1w3">
 <src.rf>manual</src.rf>
@@ -43,7 +47,10 @@
 <LM>w#w-ln95046-121-p1s1w4</LM>
 </w.rf>
 <form>dolarem</form>
-<tag lemma="dolar_;b" src="orig" selected="1">NNIS7-----A----</tag>
+<tag>
+<AM lemma="dolar_;b" src="orig">NNIS7-----A----</AM>
+<AM lemma="dolar" src="manual" selected="1">NNIS7-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95046-121-p1s1w5">
 <src.rf>manual</src.rf>
@@ -95,7 +102,10 @@
 <LM>w#w-ln95046-121-p2s1Bw3</LM>
 </w.rf>
 <form>dolar</form>
-<tag lemma="dolar_;b" src="orig" selected="1">NNIS4-----A----</tag>
+<tag>
+<AM lemma="dolar_;b" src="orig">NNIS4-----A----</AM>
+<AM lemma="dolar" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95046-121-p2s1Bw4">
 <src.rf>manual</src.rf>
@@ -218,6 +228,7 @@
 <tag>
 <AM lemma="USA_;G" src="orig">NNIPX-----A----</AM>
 <AM lemma="USA_:B_;K_,t_^(United_States_of_America)" src="auto" recommended="1">NNIPX-----A---8</AM>
+<AM lemma="USA_:B_;K_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95046-121-p2s1Bw19">
@@ -242,7 +253,11 @@
 <LM>w#w-ln95046-121-p2s1Bw21</LM>
 </w.rf>
 <form>uzavřel</form>
-<tag lemma="uzavřít" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag>
+<AM lemma="uzavřít" src="orig">VpYS---XR-AA---</AM>
+<AM lemma="uzavřít_:T" src="manual">VpYS---XR-AA---</AM>
+<AM lemma="uzavřít_:W" src="manual" selected="1">VpYS---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-ln95046-121-p2s1Bw22">
 <src.rf>manual</src.rf>
@@ -258,7 +273,10 @@
 <LM>w#w-ln95046-121-p2s1Bw23</LM>
 </w.rf>
 <form>dolarem</form>
-<tag lemma="dolar_;b" src="orig" selected="1">NNIS7-----A----</tag>
+<tag>
+<AM lemma="dolar_;b" src="orig">NNIS7-----A----</AM>
+<AM lemma="dolar" src="manual" selected="1">NNIS7-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95046-121-p2s1Bw24">
 <src.rf>manual</src.rf>
@@ -438,7 +456,10 @@
 <LM>w#w-ln95046-121-p3s1w4</LM>
 </w.rf>
 <form>dolar</form>
-<tag lemma="dolar_;b" src="orig" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="dolar_;b" src="orig">NNIS1-----A----</AM>
+<AM lemma="dolar" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95046-121-p3s1w5">
 <src.rf>manual</src.rf>
@@ -553,7 +574,7 @@
 <form>1.4775</form>
 <tag>
 <AM lemma="14775" src="orig">C=-------------</AM>
-<AM lemma="1.4775" src="auto" recommended="1">C=-------------</AM>
+<AM lemma="1.4775" src="auto" recommended="1" selected="1">C=-------------</AM>
 </tag>
 </m>
 <m id="m-ln95046-121-p3s1w19">
@@ -562,7 +583,10 @@
 <LM>w#w-ln95046-121-p3s1w19</LM>
 </w.rf>
 <form>DEM</form>
-<tag lemma="DEM_:B_;b_^(německá_marka)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="DEM_:B_;b_^(německá_marka)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="DEM-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95046-121-p3s1w20">
 <src.rf>manual</src.rf>
@@ -634,7 +658,10 @@
 <LM>w#w-ln95046-121-p3s1w28</LM>
 </w.rf>
 <form>kurs</form>
-<tag lemma="kurs" src="auto" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="kurs" src="auto">NNIS1-----A----</AM>
+<AM lemma="kurs_,s_^(^DD**kurz)" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95046-121-p3s1w29">
 <src.rf>manual</src.rf>
@@ -854,7 +881,10 @@
 <LM>w#w-ln95046-121-p4s2w10</LM>
 </w.rf>
 <form>ITL</form>
-<tag lemma="ITL_:B_;b_^(italská_lira)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ITL_:B_;b_^(italská_lira)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ITL-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95046-121-p4s2w11">
 <src.rf>manual</src.rf>

@@ -95,7 +95,10 @@
 <LM>w#w-lnd92251-032-p3s1w3</LM>
 </w.rf>
 <form>mot</form>
-<tag lemma="mot-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="mot-99_:B_;S" src="orig">NNXXX-----A---8</AM>
+<AM lemma="mot-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92251-032-p3s1w4">
 <src.rf>manual</src.rf>
@@ -431,7 +434,7 @@
 <form>nejen</form>
 <tag>
 <AM lemma="nejen" src="orig">TT-------------</AM>
-<AM lemma="nejen" src="auto" recommended="1">Db-------------</AM>
+<AM lemma="nejen" src="auto" recommended="1" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m-lnd92251-032-p3s4w5">
@@ -608,7 +611,10 @@
 <LM>w#w-lnd92251-032-p3s4w26</LM>
 </w.rf>
 <form>ČR</form>
-<tag lemma="ČR-1_:B_;G_^(Česká_republika)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="manual" selected="1">NNFXX-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92251-032-p3s4w27">
 <src.rf>manual</src.rf>
@@ -1400,7 +1406,7 @@
 <form>jedině</form>
 <tag>
 <AM lemma="jedině_^(*1ý)" src="orig">Dg-------1A----</AM>
-<AM lemma="jedině" src="auto" recommended="1">Db-------------</AM>
+<AM lemma="jedině" src="auto" recommended="1" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m-lnd92251-032-p3s7w6">
@@ -1709,7 +1715,10 @@
 <LM>w#w-lnd92251-032-p3s9w14</LM>
 </w.rf>
 <form>kovo</form>
-<tag lemma="KOVO_:B_;K" src="orig" selected="1">NNNXX-----A---8</tag>
+<tag>
+<AM lemma="KOVO_:B_;K" src="orig">NNNXX-----A---8</AM>
+<AM lemma="kovo-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd92251-032-p3s9w15">
 <src.rf>manual</src.rf>

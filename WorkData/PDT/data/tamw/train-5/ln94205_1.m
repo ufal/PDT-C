@@ -233,7 +233,10 @@
 <LM>w#w-ln94205-1-p2s3w1</LM>
 </w.rf>
 <form>Intel</form>
-<tag lemma="Intel_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="Intel_;K" src="orig">NNIS1-----A----</AM>
+<AM lemma="Intel-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94205-1-p2s3w2">
 <src.rf>manual</src.rf>
@@ -241,7 +244,10 @@
 <LM>w#w-ln94205-1-p2s3w2</LM>
 </w.rf>
 <form>Hungary</form>
-<tag lemma="Hungary_;K_,t" src="orig" selected="1">NNNXX-----A----</tag>
+<tag>
+<AM lemma="Hungary_;K_,t" src="orig">NNNXX-----A----</AM>
+<AM lemma="Hungary-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94205-1-p2s3w3">
 <src.rf>manual</src.rf>
@@ -249,7 +255,10 @@
 <LM>w#w-ln94205-1-p2s3w3</LM>
 </w.rf>
 <form>Ltd</form>
-<tag lemma="Ltd_:B_,t" src="orig" selected="1">AAXXX----1A---8</tag>
+<tag>
+<AM lemma="Ltd_:B_,t" src="orig">AAXXX----1A---8</AM>
+<AM lemma="Ltd-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94205-1-p2s3w4">
 <src.rf>manual</src.rf>
@@ -599,7 +608,10 @@
 <LM>w#w-ln94205-1-p3s2w2</LM>
 </w.rf>
 <form>jako</form>
-<tag lemma="jako-1" src="auto" selected="1">J,-------------</tag>
+<tag>
+<AM lemma="jako-1" src="auto" selected="1">J,-------------</AM>
+<AM lemma="jako-2" src="manual">Db-------------</AM>
+</tag>
 </m>
 <m id="m-ln94205-1-p3s2w3">
 <src.rf>manual</src.rf>
@@ -721,7 +733,10 @@
 <LM>w#w-ln94205-1-p4s1w3</LM>
 </w.rf>
 <form>Gamma</form>
-<tag lemma="Gamma" src="orig" selected="1">NNFS1-----A----</tag>
+<tag>
+<AM lemma="Gamma" src="orig">NNFS1-----A----</AM>
+<AM lemma="Gamma-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94205-1-p4s1w4">
 <src.rf>manual</src.rf>
@@ -729,7 +744,10 @@
 <LM>w#w-ln94205-1-p4s1w4</LM>
 </w.rf>
 <form>Production</form>
-<tag lemma="Production_;K_,t" src="orig" selected="1">NNFXX-----A----</tag>
+<tag>
+<AM lemma="Production_;K_,t" src="orig">NNFXX-----A----</AM>
+<AM lemma="Production-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94205-1-p4s1w5">
 <src.rf>manual</src.rf>
@@ -857,7 +875,10 @@
 <LM>w#w-ln94205-1-p4s1w20</LM>
 </w.rf>
 <form>Windows</form>
-<tag lemma="Windows" src="orig" selected="1">NNIPX-----A----</tag>
+<tag>
+<AM lemma="Windows" src="orig">NNIPX-----A----</AM>
+<AM lemma="Windows_;R" src="manual" selected="1">NNIPX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94205-1-p4s1w21">
 <src.rf>manual</src.rf>
@@ -881,7 +902,10 @@
 <LM>w#w-ln94205-1-p4s1w23</LM>
 </w.rf>
 <form>UniType</form>
-<tag lemma="UniType_;R_,t" src="orig" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="UniType_;R_,t" src="orig">NNIS1-----A----</AM>
+<AM lemma="UniType_;R" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94205-1-p4s1w24">
 <src.rf>manual</src.rf>
@@ -1179,7 +1203,10 @@
 <LM>w#w-ln94205-1-p4s2w26</LM>
 </w.rf>
 <form>atd</form>
-<tag lemma="atd-1_:B_^(a_tak_dále)" src="orig" selected="1">Db------------8</tag>
+<tag>
+<AM lemma="atd-1_:B_^(a_tak_dále)" src="orig">Db------------8</AM>
+<AM lemma="atd-1_:B_^(a_tak_dále)" src="manual" selected="1">Db-------------</AM>
+</tag>
 </m>
 <m id="m-ln94205-1-p4s2w27">
 <src.rf>manual</src.rf>
@@ -1277,7 +1304,10 @@
 <LM>w#w-ln94205-1-p5s1w11</LM>
 </w.rf>
 <form>Stylus</form>
-<tag lemma="Stylus_;R_,t" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="Stylus_;R_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="Stylus-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94205-1-p5s1w12">
 <src.rf>manual</src.rf>
@@ -1290,6 +1320,8 @@
 <AM lemma="Color-1_;R" src="auto">NNIS1-----A----</AM>
 <AM lemma="Color-1_;R" src="auto">NNIS4-----A----</AM>
 <AM lemma="Color-2_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="color_,t" src="manual">NNXXX-----A----</AM>
+<AM lemma="Color-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-ln94205-1-p5s1w13">
@@ -1569,7 +1601,10 @@
 <LM>w#w-ln94205-1-p6s1w6</LM>
 </w.rf>
 <form>PC</form>
-<tag lemma="PC-1_:B_;R_^(personal_computer,_osobní_počítač)" src="orig" selected="1">NNNXX-----A---8</tag>
+<tag>
+<AM lemma="PC-1_:B_;R_^(personal_computer,_osobní_počítač)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="PC-1_:B_;R_^(personal_computer,_osobní_počítač)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94205-1-p6s1w7">
 <src.rf>manual</src.rf>
@@ -1609,7 +1644,10 @@
 <LM>w#w-ln94205-1-p6s1w11</LM>
 </w.rf>
 <form>IBM</form>
-<tag lemma="IBM-1_:B_;K_^(International_Business_Machines)" src="auto" selected="1">NNNXX-----A---8</tag>
+<tag>
+<AM lemma="IBM-1_:B_;K_^(International_Business_Machines)" src="auto">NNNXX-----A---8</AM>
+<AM lemma="IBM-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94205-1-p6s1w12">
 <src.rf>manual</src.rf>
@@ -1719,6 +1757,7 @@
 <AM lemma="MSDOS_:B_;R" src="orig">NNIXX-----A---8</AM>
 <AM lemma="MSDOS_;R" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="MSDOS_;R" src="auto">NNIS4-----A----</AM>
+<AM lemma="MSDOS-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94205-1-p6s2w9">
@@ -1926,7 +1965,7 @@
 <form>CODA</form>
 <tag>
 <AM lemma="CODA_:B_;K_,t" src="orig">NNFXX-----A---8</AM>
-<AM lemma="Coda_;K" src="auto" recommended="1">NNFS1-----A----</AM>
+<AM lemma="Coda_;K" src="auto" recommended="1" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94205-1-p7s1w7">
@@ -2121,7 +2160,10 @@
 <LM>w#w-ln94205-1-p7s2w16</LM>
 </w.rf>
 <form>Microsoft</form>
-<tag lemma="Microsoft_;K_;b_;c" src="orig" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="Microsoft_;K_;b_;c" src="orig">NNIS1-----A----</AM>
+<AM lemma="Microsoft_;K" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94205-1-p7s2w17">
 <src.rf>manual</src.rf>
@@ -2171,7 +2213,10 @@
 <LM>w#w-ln94205-1-p7s3w3</LM>
 </w.rf>
 <form>ios</form>
-<tag lemma="ios-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="ios-99_:B_;S" src="orig">NNXXX-----A---8</AM>
+<AM lemma="ios-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94205-1-p7s3w4">
 <src.rf>manual</src.rf>

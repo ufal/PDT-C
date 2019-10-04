@@ -29,7 +29,10 @@
 <LM>w#w-mf920901-055-p2s1w1</LM>
 </w.rf>
 <form>SAN</form>
-<tag lemma="San-2_;G" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="San-2_;G" src="orig">AAXXX----1A----</AM>
+<AM lemma="SAN-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-mf920901-055-p2s1w2">
 <src.rf>manual</src.rf>
@@ -41,6 +44,8 @@
 <AM lemma="Diego_;G" src="orig">NNNS1-----A----</AM>
 <AM lemma="Diego_;S_;Y_,t" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Diego_;S_;Y_,t" src="auto">NNMS5-----A----</AM>
+<AM lemma="Diego-2_;G" src="manual">NNNS1-----A----</AM>
+<AM lemma="DIEGO-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-mf920901-055-p2s1w3">
@@ -571,7 +576,10 @@
 <LM>w#w-mf920901-055-p4s1w1</LM>
 </w.rf>
 <form>NEW</form>
-<tag lemma="New-1_;G_,t_^(součást_míst._jmen)" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="New-1_;G_,t_^(součást_míst._jmen)" src="orig">AAXXX----1A----</AM>
+<AM lemma="NEW-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-mf920901-055-p4s1w2">
 <src.rf>manual</src.rf>
@@ -579,7 +587,10 @@
 <LM>w#w-mf920901-055-p4s1w2</LM>
 </w.rf>
 <form>YORK</form>
-<tag lemma="York-2_;G" src="orig" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="York-2_;G" src="orig">NNIS1-----A----</AM>
+<AM lemma="YORK-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-mf920901-055-p4s1w3">
 <src.rf>manual</src.rf>
@@ -630,6 +641,7 @@
 <tag>
 <AM lemma="USA_;G" src="orig">NNIPX-----A----</AM>
 <AM lemma="USA_:B_;K_,t_^(United_States_of_America)" src="auto" recommended="1">NNIPX-----A---8</AM>
+<AM lemma="USA_:B_;K_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920901-055-p4s1w9">
@@ -766,7 +778,10 @@
 <LM>w#w-mf920901-055-p4s1w25</LM>
 </w.rf>
 <form>AIDS</form>
-<tag lemma="AIDS_:B_;U_,x_^(Syndrom_získaného_selhání_imunity)" src="orig" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="AIDS_:B_;U_,x_^(Syndrom_získaného_selhání_imunity)" src="orig">NNIS1-----A----</AM>
+<AM lemma="AIDS_:B_;U_^(Syndrom_získaného_selhání_imunity)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920901-055-p4s1w26">
 <src.rf>manual</src.rf>
@@ -856,7 +871,10 @@
 <LM>w#w-mf920901-055-p4s2w10</LM>
 </w.rf>
 <form>AIDS</form>
-<tag lemma="AIDS_:B_;U_,x_^(Syndrom_získaného_selhání_imunity)" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="AIDS_:B_;U_,x_^(Syndrom_získaného_selhání_imunity)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="AIDS_:B_;U_^(Syndrom_získaného_selhání_imunity)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920901-055-p4s2w11">
 <src.rf>manual</src.rf>
@@ -872,7 +890,10 @@
 <LM>w#w-mf920901-055-p4s2w12</LM>
 </w.rf>
 <form>transfuzi</form>
-<tag lemma="transfúze" src="orig" selected="1">NNFS6-----A----</tag>
+<tag>
+<AM lemma="transfúze" src="orig">NNFS6-----A----</AM>
+<AM lemma="transfuze_,s_^(^DD**transfúze)" src="manual" selected="1">NNFS6-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920901-055-p4s2w13">
 <src.rf>manual</src.rf>
@@ -1074,7 +1095,10 @@
 <LM>w#w-mf920901-055-p4s3w23</LM>
 </w.rf>
 <form>Navrátilová</form>
-<tag lemma="Navrátilová_;S_;w" src="orig" selected="1">NNFS1-----A----</tag>
+<tag>
+<AM lemma="Navrátilová_;S_;w" src="orig">NNFS1-----A----</AM>
+<AM lemma="Navrátilová_;S" src="manual" selected="1">NNFS1-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920901-055-p4s3w24">
 <src.rf>manual</src.rf>
@@ -1138,7 +1162,10 @@
 <LM>w#w-mf920901-055-p4s3w31</LM>
 </w.rf>
 <form>Mike</form>
-<tag lemma="Mike_;Y_,t" src="orig" selected="1">NNMSX-----A----</tag>
+<tag>
+<AM lemma="Mike_;Y_,t" src="orig">NNMSX-----A----</AM>
+<AM lemma="Mike_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920901-055-p4s3w32">
 <src.rf>manual</src.rf>
@@ -1244,7 +1271,10 @@
 <LM>w#w-mf920901-055-p5s1w11</LM>
 </w.rf>
 <form>Neal</form>
-<tag lemma="Neal_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Neal_;S" src="orig">NNMS1-----A----</AM>
+<AM lemma="Neal_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920901-055-p5s1w12">
 <src.rf>manual</src.rf>
@@ -1794,7 +1824,10 @@
 <LM>w#w-mf920901-055-p6s1w10</LM>
 </w.rf>
 <form>Long</form>
-<tag lemma="Long-1_;G_,t_^(Long_Island_apod.)" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="Long-1_;G_,t_^(Long_Island_apod.)" src="orig">AAXXX----1A----</AM>
+<AM lemma="Long-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-mf920901-055-p6s1w11">
 <src.rf>manual</src.rf>
@@ -1806,7 +1839,7 @@
 <AM lemma="Island_;G" src="orig">NNIS6-----A----</AM>
 <AM lemma="Island_;G" src="auto">NNIS2-----A----</AM>
 <AM lemma="Island_;G" src="auto">NNIS3-----A----</AM>
-<AM lemma="Island_;G" src="auto" recommended="1">NNIS6-----A---1</AM>
+<AM lemma="Island_;G" src="auto" recommended="1" selected="1">NNIS6-----A---1</AM>
 </tag>
 </m>
 <m id="m-mf920901-055-p6s1w12">

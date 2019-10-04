@@ -48,6 +48,7 @@
 <tag>
 <AM lemma="Spa_;G" src="orig">NNXXX-----A----</AM>
 <AM lemma="Spa_;G_,t" src="auto" recommended="1">NNNXX-----A----</AM>
+<AM lemma="Spa-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-ln94202-96-p2s1Aw2">
@@ -64,7 +65,10 @@
 <LM>w#w-ln94202-96-p2s1Aw3</LM>
 </w.rf>
 <form>Francorchamps</form>
-<tag lemma="Francorchamps_;G" src="orig" selected="1">NNXXX-----A----</tag>
+<tag>
+<AM lemma="Francorchamps_;G" src="orig">NNXXX-----A----</AM>
+<AM lemma="Francorchamps-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94202-96-p2s1Aw4">
 <src.rf>manual</src.rf>
@@ -122,7 +126,10 @@
 <LM>w#w-ln94202-96-p2s1Bw6</LM>
 </w.rf>
 <form>sice</form>
-<tag lemma="sice-2" src="auto" selected="1">Db-------------</tag>
+<tag>
+<AM lemma="sice-2" src="auto">Db-------------</AM>
+<AM lemma="sice-1_^(spojka;_připouští_se_určitá_fakta)" src="manual" selected="1">J^-------------</AM>
+</tag>
 </m>
 <m id="m-ln94202-96-p2s1Bw7">
 <src.rf>manual</src.rf>
@@ -194,7 +201,10 @@
 <LM>w#w-ln94202-96-p2s1Bw15</LM>
 </w.rf>
 <form>MS</form>
-<tag lemma="MS-3_:B_;w_^(mistrovství_světa)" src="orig" selected="1">NNNXX-----A---8</tag>
+<tag>
+<AM lemma="MS-3_:B_;w_^(mistrovství_světa)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="MS-3_:B_^(mistrovství_světa)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94202-96-p2s1Bw16">
 <src.rf>manual</src.rf>
@@ -237,6 +247,7 @@
 <tag>
 <AM lemma="Spa_;G" src="orig">NNXXX-----A----</AM>
 <AM lemma="Spa_;G_,t" src="auto" recommended="1">NNNXX-----A----</AM>
+<AM lemma="Spa-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-ln94202-96-p2s1Bw21">
@@ -253,7 +264,10 @@
 <LM>w#w-ln94202-96-p2s1Bw22</LM>
 </w.rf>
 <form>Francorchamps</form>
-<tag lemma="Francorchamps_;G" src="orig" selected="1">NNXXX-----A----</tag>
+<tag>
+<AM lemma="Francorchamps_;G" src="orig">NNXXX-----A----</AM>
+<AM lemma="Francorchamps-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94202-96-p2s1Bw23">
 <src.rf>manual</src.rf>
@@ -747,7 +761,10 @@
 <LM>w#w-ln94202-96-p2s4w7</LM>
 </w.rf>
 <form>stal</form>
-<tag lemma="stát-2_^(něco_se_přihodilo)" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag>
+<AM lemma="stát-2_^(něco_se_přihodilo)" src="orig">VpYS---XR-AA---</AM>
+<AM lemma="stát-2_:W_^(něco_se_přihodilo)" src="manual" selected="1">VpYS---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-ln94202-96-p2s4w8">
 <src.rf>manual</src.rf>
@@ -779,7 +796,10 @@
 <LM>w#w-ln94202-96-p2s4w11</LM>
 </w.rf>
 <form>Damon</form>
-<tag lemma="Damon_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Damon_;S" src="orig">NNMS1-----A----</AM>
+<AM lemma="Damon_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94202-96-p2s4w12">
 <src.rf>manual</src.rf>

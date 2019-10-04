@@ -19,7 +19,10 @@
 <LM>w#w-lnd92254-047-p1s1w1</LM>
 </w.rf>
 <form>CAUSA</form>
-<tag lemma="kauza_,x" src="orig" selected="1">NNFS1-----A----</tag>
+<tag>
+<AM lemma="kauza_,x" src="orig">NNFS1-----A----</AM>
+<AM lemma="causa_,s_^(^DD**kauza)" src="manual" selected="1">NNFS1-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92254-047-p1s1w2">
 <src.rf>manual</src.rf>
@@ -45,7 +48,10 @@
 <LM>w#w-lnd92254-047-p2s1w2</LM>
 </w.rf>
 <form>J</form>
-<tag lemma="J-0_:B_;Y" src="orig" selected="1">NNMXX-----A---8</tag>
+<tag>
+<AM lemma="J-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
+<AM lemma="J-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd92254-047-p2s1w3">
 <src.rf>manual</src.rf>
@@ -128,7 +134,10 @@
 <LM>w#w-lnd92254-047-p3s1w8</LM>
 </w.rf>
 <form>cause</form>
-<tag lemma="kauza_,x" src="orig" selected="1">NNFS6-----A----</tag>
+<tag>
+<AM lemma="kauza_,x" src="orig">NNFS6-----A----</AM>
+<AM lemma="causa_,s_^(^DD**kauza)" src="manual" selected="1">NNFS6-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92254-047-p3s1w9">
 <src.rf>manual</src.rf>
@@ -1042,6 +1051,7 @@
 <tag>
 <AM lemma="NSR_;G" src="orig">NNFSX-----A----</AM>
 <AM lemma="NSR_:B_;G" src="auto" recommended="1">NNFSX-----A---8</AM>
+<AM lemma="NSR-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-lnd92254-047-p3s4w15">
@@ -1124,7 +1134,10 @@
 <LM>w#w-lnd92254-047-p3s5w5</LM>
 </w.rf>
 <form>J</form>
-<tag lemma="J-0_:B_;Y" src="orig" selected="1">NNMXX-----A---8</tag>
+<tag>
+<AM lemma="J-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
+<AM lemma="J-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd92254-047-p3s5w6">
 <src.rf>manual</src.rf>

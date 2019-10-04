@@ -35,7 +35,10 @@
 <LM>w#w-ln94210-83-p1s1w3</LM>
 </w.rf>
 <form>jedli</form>
-<tag lemma="jíst_^(konzumovat_jídlo)" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag>
+<AM lemma="jíst_^(konzumovat_jídlo)" src="orig">VpMP---XR-AA---</AM>
+<AM lemma="jíst_:T_^(konzumovat_jídlo)" src="manual" selected="1">VpMP---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-ln94210-83-p1s1w4">
 <src.rf>manual</src.rf>
@@ -61,7 +64,10 @@
 <LM>w#w-ln94210-83-p2s1Aw1</LM>
 </w.rf>
 <form>New</form>
-<tag lemma="New-1_;G_,t_^(součást_míst._jmen)" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="New-1_;G_,t_^(součást_míst._jmen)" src="orig">AAXXX----1A----</AM>
+<AM lemma="New-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94210-83-p2s1Aw2">
 <src.rf>manual</src.rf>
@@ -69,7 +75,10 @@
 <LM>w#w-ln94210-83-p2s1Aw2</LM>
 </w.rf>
 <form>York</form>
-<tag lemma="York-2_;G" src="orig" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="York-2_;G" src="orig">NNIS1-----A----</AM>
+<AM lemma="York-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94210-83-p2s1Aw3">
 <src.rf>manual</src.rf>
@@ -610,6 +619,7 @@
 <AM lemma="kanibalismus" src="auto" recommended="1">NNIS2-----A----</AM>
 <AM lemma="kanibalismus" src="auto">NNIS3-----A----</AM>
 <AM lemma="kanibalismus" src="auto">NNIS6-----A----</AM>
+<AM lemma="kanibalismus_,s_^(^DD**kanibalizmus)" src="manual" selected="1">NNIS2-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94210-83-p2s4w3">
@@ -732,7 +742,10 @@
 <LM>w#w-ln94210-83-p2s5w8</LM>
 </w.rf>
 <form>pekli</form>
-<tag lemma="péci" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag>
+<AM lemma="péci" src="orig">VpMP---XR-AA---</AM>
+<AM lemma="péci_:T" src="manual" selected="1">VpMP---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-ln94210-83-p2s5w9">
 <src.rf>manual</src.rf>
@@ -958,7 +971,10 @@
 <LM>w#w-ln94210-83-p2s7w2</LM>
 </w.rf>
 <form>ukázala</form>
-<tag lemma="ukázat" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag>
+<AM lemma="ukázat" src="orig">VpQW---XR-AA---</AM>
+<AM lemma="ukázat_:W" src="manual" selected="1">VpQW---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-ln94210-83-p2s7w3">
 <src.rf>manual</src.rf>
@@ -1030,7 +1046,10 @@
 <LM>w#w-ln94210-83-p2s7w11</LM>
 </w.rf>
 <form>rudá</form>
-<tag lemma="rudý" src="orig" selected="1">AAFS1----1A----</tag>
+<tag>
+<AM lemma="rudý" src="orig">AAFS1----1A----</AM>
+<AM lemma="rudý_;o" src="manual" selected="1">AAFS1----1A----</AM>
+</tag>
 </m>
 <m id="m-ln94210-83-p2s7w12">
 <src.rf>manual</src.rf>
@@ -1070,7 +1089,10 @@
 <LM>w#w-ln94210-83-p2s7w16</LM>
 </w.rf>
 <form>píše</form>
-<tag lemma="psát" src="auto" selected="1">VB-S---3P-AA---</tag>
+<tag>
+<AM lemma="psát" src="auto">VB-S---3P-AA---</AM>
+<AM lemma="psát_:T" src="manual" selected="1">VB-S---3P-AA---</AM>
+</tag>
 </m>
 <m id="m-ln94210-83-p2s7w17">
 <src.rf>manual</src.rf>
@@ -1149,6 +1171,7 @@
 <AM lemma="kanibalismus" src="auto">NNIS2-----A----</AM>
 <AM lemma="kanibalismus" src="auto">NNIS3-----A----</AM>
 <AM lemma="kanibalismus" src="auto" recommended="1">NNIS6-----A----</AM>
+<AM lemma="kanibalismus_,s_^(^DD**kanibalizmus)" src="manual" selected="1">NNIS6-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94210-83-p2s8w6">

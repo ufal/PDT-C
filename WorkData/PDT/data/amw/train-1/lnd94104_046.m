@@ -75,7 +75,10 @@
 <LM>w#w-lnd94104-046-p1s1Aw8</LM>
 </w.rf>
 <form>ČR</form>
-<tag lemma="ČR-1_:B_;G_^(Česká_republika)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 </s>
 <s id="m-lnd94104-046-p1s1B">
@@ -629,7 +632,10 @@
 <LM>w#w-lnd94104-046-p1s5w13</LM>
 </w.rf>
 <form>rady</form>
-<tag lemma="rada-1_^(př._dát_někomu_dobrou_radu)" src="orig" selected="1">NNFP1-----A----</tag>
+<tag>
+<AM lemma="rada-1_^(př._dát_někomu_dobrou_radu)" src="orig">NNFP1-----A----</AM>
+<AM lemma="rada-1_^(př._dát_někomu_dobrou_radu;poradní_sbor)" src="manual" selected="1">NNFP1-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd94104-046-p1s5w14">
 <src.rf>manual</src.rf>
@@ -1224,7 +1230,10 @@
 <LM>w#w-lnd94104-046-p1s10w4</LM>
 </w.rf>
 <form>neřekl</form>
-<tag lemma="říci" src="auto" selected="1">VpYS---XR-NA---</tag>
+<tag>
+<AM lemma="říci" src="auto">VpYS---XR-NA---</AM>
+<AM lemma="říci_:W" src="manual" selected="1">VpYS---XR-NA---</AM>
+</tag>
 </m>
 <m id="m-lnd94104-046-p1s10w5">
 <src.rf>manual</src.rf>
@@ -1242,7 +1251,10 @@
 <LM>w#w-lnd94104-046-p1s11w1</LM>
 </w.rf>
 <form>Jen</form>
-<tag lemma="jen-1" src="auto" selected="1">TT-------------</tag>
+<tag>
+<AM lemma="jen-1" src="auto">TT-------------</AM>
+<AM lemma="jen-4_^(pouze)" src="manual" selected="1">Db-------------</AM>
+</tag>
 </m>
 <m id="m-lnd94104-046-p1s11w2">
 <src.rf>manual</src.rf>
@@ -1292,7 +1304,7 @@
 <form>třeba</form>
 <tag>
 <AM lemma="třeba-1" src="orig">ACNS------A----</AM>
-<AM lemma="třeba-2" src="auto" recommended="1">Db-------------</AM>
+<AM lemma="třeba-2" src="auto" recommended="1" selected="1">Db-------------</AM>
 <AM lemma="třeba-3" src="auto">TT-------------</AM>
 </tag>
 </m>
@@ -1602,7 +1614,10 @@
 <LM>w#w-lnd94104-046-p1s13w2</LM>
 </w.rf>
 <form>em</form>
-<tag lemma="em-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="em-99_:B_;S" src="orig">NNXXX-----A---8</AM>
+<AM lemma="em-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd94104-046-p1s13w3">
 <src.rf>manual</src.rf>

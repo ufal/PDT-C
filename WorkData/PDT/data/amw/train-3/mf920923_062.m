@@ -69,7 +69,10 @@
 <LM>w#w-mf920923-062-p2s1w2</LM>
 </w.rf>
 <form>FAERSKÝCH</form>
-<tag lemma="faerský_;G" src="orig" selected="1">AAIP2----1A----</tag>
+<tag>
+<AM lemma="faerský_;G" src="orig">AAIP2----1A----</AM>
+<AM lemma="faerský" src="manual" selected="1">AAIP2----1A----</AM>
+</tag>
 </m>
 <m id="m-mf920923-062-p2s1w3">
 <src.rf>manual</src.rf>
@@ -547,7 +550,10 @@
 <LM>w#w-mf920923-062-p3s3w12</LM>
 </w.rf>
 <form>Faerských</form>
-<tag lemma="faerský_;G" src="orig" selected="1">AAIP2----1A----</tag>
+<tag>
+<AM lemma="faerský_;G" src="orig">AAIP2----1A----</AM>
+<AM lemma="faerský" src="manual" selected="1">AAIP2----1A----</AM>
+</tag>
 </m>
 <m id="m-mf920923-062-p3s3w13">
 <src.rf>manual</src.rf>
@@ -725,7 +731,10 @@
 <LM>w#w-mf920923-062-p4s1w12</LM>
 </w.rf>
 <form>ME</form>
-<tag lemma="ME-1_:B_;w_^(mistrovství_Evropy)" src="orig" selected="1">NNNXX-----A---8</tag>
+<tag>
+<AM lemma="ME-1_:B_;w_^(mistrovství_Evropy)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="ME-1_:B_^(mistrovství_Evropy)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920923-062-p4s1w13">
 <src.rf>manual</src.rf>
@@ -919,7 +928,10 @@
 <LM>w#w-mf920923-062-p4s2w7</LM>
 </w.rf>
 <form>nedávno</form>
-<tag lemma="nedávno-1" src="auto" selected="1">Db-------------</tag>
+<tag>
+<AM lemma="nedávno-1" src="auto">Db-------------</AM>
+<AM lemma="dávno-1" src="manual" selected="1">Dg-------1N----</AM>
+</tag>
 </m>
 <m id="m-mf920923-062-p4s2w8">
 <src.rf>manual</src.rf>
@@ -1189,7 +1201,10 @@
 <LM>w#w-mf920923-062-p5s3w1</LM>
 </w.rf>
 <form>Domácí</form>
-<tag lemma="domácí-1" src="auto" selected="1">AAMP1----1A----</tag>
+<tag>
+<AM lemma="domácí-1" src="auto">AAMP1----1A----</AM>
+<AM lemma="domácí-2" src="manual" selected="1">NNMP1-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920923-062-p5s3w2">
 <src.rf>manual</src.rf>
@@ -2341,7 +2356,10 @@
 <LM>w#w-mf920923-062-p11s4w16</LM>
 </w.rf>
 <form>Queen</form>
-<tag lemma="Queen_;K_,t_^(hudební_skupina)" src="auto" selected="1">NNFXX-----A----</tag>
+<tag>
+<AM lemma="Queen_;K_,t_^(hudební_skupina)" src="auto">NNFXX-----A----</AM>
+<AM lemma="Queen-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-mf920923-062-p11s4w17">
 <src.rf>manual</src.rf>
@@ -2357,7 +2375,10 @@
 <LM>w#w-mf920923-062-p11s4w18</LM>
 </w.rf>
 <form>s</form>
-<tag lemma="s-4_,t_^(saský_genitiv)" src="orig" selected="1">NNXSX-----A----</tag>
+<tag>
+<AM lemma="s-4_,t_^(saský_genitiv)" src="orig">NNXSX-----A----</AM>
+<AM lemma="s-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-mf920923-062-p11s4w19">
 <src.rf>manual</src.rf>
@@ -2365,7 +2386,10 @@
 <LM>w#w-mf920923-062-p11s4w19</LM>
 </w.rf>
 <form>Park</form>
-<tag lemma="park" src="orig" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="park" src="orig">NNIS1-----A----</AM>
+<AM lemma="Park-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-mf920923-062-p11s4w20">
 <src.rf>manual</src.rf>
@@ -2373,7 +2397,10 @@
 <LM>w#w-mf920923-062-p11s4w20</LM>
 </w.rf>
 <form>Rangers</form>
-<tag lemma="Rangers_;K" src="orig" selected="1">NNMPX-----A----</tag>
+<tag>
+<AM lemma="Rangers_;K" src="orig">NNMPX-----A----</AM>
+<AM lemma="Rangers-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-mf920923-062-p11s4w21">
 <src.rf>manual</src.rf>
@@ -3395,7 +3422,7 @@
 <form>Ovšem</form>
 <tag>
 <AM lemma="ovšem-1_^(avšak,_však;_odporovací_spojka)" src="orig">J^-------------</AM>
-<AM lemma="ovšem" src="auto" recommended="1">TT-------------</AM>
+<AM lemma="ovšem" src="auto" recommended="1" selected="1">TT-------------</AM>
 </tag>
 </m>
 <m id="m-mf920923-062-p16s1w3">
@@ -3632,7 +3659,7 @@
 <form>starost</form>
 <tag>
 <AM lemma="starost" src="orig">NNFS1-----A----</AM>
-<AM lemma="starost-1" src="auto" recommended="1">NNFS1-----A----</AM>
+<AM lemma="starost-1" src="auto" recommended="1" selected="1">NNFS1-----A----</AM>
 <AM lemma="starost-1" src="auto">NNFS4-----A----</AM>
 <AM lemma="starost-2_^(člověk,_věc)_(*5ý-2)" src="auto">NNFS1-----A----</AM>
 <AM lemma="starost-2_^(člověk,_věc)_(*5ý-2)" src="auto">NNFS4-----A----</AM>
@@ -3728,7 +3755,7 @@
 <form>raději</form>
 <tag>
 <AM lemma="raději" src="orig">Dg-------2A----</AM>
-<AM lemma="rád" src="auto" recommended="1">Dg-------2A----</AM>
+<AM lemma="rád" src="auto" recommended="1" selected="1">Dg-------2A----</AM>
 </tag>
 </m>
 <m id="m-mf920923-062-p17s2w9">
@@ -4671,7 +4698,10 @@
 <LM>w#w-mf920923-062-p25s2w4</LM>
 </w.rf>
 <form>ani</form>
-<tag lemma="ani-1" src="auto" selected="1">J^-------------</tag>
+<tag>
+<AM lemma="ani-1" src="auto">J^-------------</AM>
+<AM lemma="ani-2" src="manual" selected="1">TT-------------</AM>
+</tag>
 </m>
 <m id="m-mf920923-062-p25s2w5">
 <src.rf>manual</src.rf>
@@ -4806,7 +4836,7 @@
 <tag>
 <AM lemma="přece" src="orig">Db-------------</AM>
 <AM lemma="přece-1" src="auto" recommended="1">J^-------------</AM>
-<AM lemma="přece-2" src="auto">TT-------------</AM>
+<AM lemma="přece-2" src="auto" selected="1">TT-------------</AM>
 </tag>
 </m>
 <m id="m-mf920923-062-p27s1w4">

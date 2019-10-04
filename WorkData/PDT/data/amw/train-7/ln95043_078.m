@@ -95,7 +95,10 @@
 <LM>w#w-ln95043-078-p2s1Bw1</LM>
 </w.rf>
 <form>Více</form>
-<tag lemma="hodně-2" src="auto" selected="1">Dg-------2A----</tag>
+<tag>
+<AM lemma="hodně-2" src="auto">Dg-------2A----</AM>
+<AM lemma="hodně-3" src="manual" selected="1">Dg-------2A----</AM>
+</tag>
 </m>
 <m id="m-ln95043-078-p2s1Bw2">
 <src.rf>manual</src.rf>
@@ -176,7 +179,10 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>Different</form>
-<tag lemma="Different_;K_,t" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="Different_;K_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="Different-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln95043-078-p2s1Bw12">
 <src.rf>manual</src.rf>
@@ -184,7 +190,10 @@
 <LM>w#w-ln95043-078-p2s1Bw12</LM>
 </w.rf>
 <form>Life</form>
-<tag lemma="Life_;K_,t" src="orig" selected="1">NNIXX-----A----</tag>
+<tag>
+<AM lemma="Life_;K_,t" src="orig">NNIXX-----A----</AM>
+<AM lemma="Life-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln95043-078-p2s1Bw13">
 <src.rf>manual</src.rf>

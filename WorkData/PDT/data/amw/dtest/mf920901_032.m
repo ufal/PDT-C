@@ -54,7 +54,7 @@
 </w.rf>
 <form>sob</form>
 <tag>
-<AM lemma="sob-99_:B_;S" src="orig">NNXXX-----A---8</AM>
+<AM lemma="sob-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</AM>
 <AM lemma="sob" src="auto" recommended="1">NNMS1-----A----</AM>
 </tag>
 </m>
@@ -335,7 +335,7 @@
 <tag>
 <AM lemma="tady" src="orig">Db------------1</AM>
 <AM lemma="ten" src="auto">PDFS4----------</AM>
-<AM lemma="tu" src="auto" recommended="1">Db-------------</AM>
+<AM lemma="tu" src="auto" recommended="1" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m-mf920901-032-p2s3w3">
@@ -702,6 +702,7 @@
 <AM lemma="Panasonic_;K" src="orig">NNIXX-----A----</AM>
 <AM lemma="Panasonic_;K_,t" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Panasonic_;K_,t" src="auto">NNIS4-----A----</AM>
+<AM lemma="Panasonic_;K" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920901-032-p2s4w13">

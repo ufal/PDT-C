@@ -61,7 +61,10 @@
 <LM>w#w-mf930708-083-p2s1w2</LM>
 </w.rf>
 <form>Meziříčí</form>
-<tag lemma="meziříčí" src="orig" selected="1">NNNS1-----A----</tag>
+<tag>
+<AM lemma="meziříčí" src="orig">NNNS1-----A----</AM>
+<AM lemma="Meziříčí_;G" src="manual" selected="1">NNNS1-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930708-083-p2s1w3">
 <src.rf>manual</src.rf>
@@ -82,6 +85,7 @@
 <AM lemma="le-1_,t_^(franc._člen,_ne_v_názvech)" src="auto">XX-------------</AM>
 <AM lemma="les" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="les" src="auto">NNIS4-----A----</AM>
+<AM lemma="les-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930708-083-p2s1w5">
@@ -130,7 +134,10 @@
 <LM>w#w-mf930708-083-p2s1w10</LM>
 </w.rf>
 <form>Meziříčí</form>
-<tag lemma="meziříčí" src="orig" selected="1">NNNS6-----A----</tag>
+<tag>
+<AM lemma="meziříčí" src="orig">NNNS6-----A----</AM>
+<AM lemma="Meziříčí_;G" src="manual" selected="1">NNNS6-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930708-083-p2s1w11">
 <src.rf>manual</src.rf>

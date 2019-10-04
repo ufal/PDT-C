@@ -85,7 +85,10 @@
 <LM>w#w-mf920925-005-p2s1w6</LM>
 </w.rf>
 <form>nedávno</form>
-<tag lemma="nedávno-1" src="auto" selected="1">Db-------------</tag>
+<tag>
+<AM lemma="nedávno-1" src="auto">Db-------------</AM>
+<AM lemma="dávno-1" src="manual" selected="1">Dg-------1N----</AM>
+</tag>
 </m>
 <m id="m-mf920925-005-p2s1w7">
 <src.rf>manual</src.rf>
@@ -513,7 +516,10 @@
 <LM>w#w-mf920925-005-p3s1w18</LM>
 </w.rf>
 <form>ČSD</form>
-<tag lemma="ČSD-1_:B_;K_^(Čs._státní_dráhy)" src="orig" selected="1">NNFPX-----A---8</tag>
+<tag>
+<AM lemma="ČSD-1_:B_;K_^(Čs._státní_dráhy)" src="orig">NNFPX-----A---8</AM>
+<AM lemma="ČSD-1_:B_;K_^(Čs._státní_dráhy)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920925-005-p3s1w19">
 <src.rf>manual</src.rf>
@@ -1381,7 +1387,7 @@
 <form>nejen</form>
 <tag>
 <AM lemma="nejen" src="orig">TT-------------</AM>
-<AM lemma="nejen" src="auto" recommended="1">Db-------------</AM>
+<AM lemma="nejen" src="auto" recommended="1" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m-mf920925-005-p6s1w7">
@@ -1982,7 +1988,10 @@
 <LM>w#w-mf920925-005-p7s2w1</LM>
 </w.rf>
 <form>Management</form>
-<tag lemma="management_,t_^(vedení,_manažment;_angl.)" src="orig" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="management_,t_^(vedení,_manažment;_angl.)" src="orig">NNIS1-----A----</AM>
+<AM lemma="management_,s_^(^DD**manažment)" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920925-005-p7s2w2">
 <src.rf>manual</src.rf>
@@ -2858,7 +2867,7 @@
 <form>raději</form>
 <tag>
 <AM lemma="raději" src="orig">Dg-------2A----</AM>
-<AM lemma="rád" src="auto" recommended="1">Dg-------2A----</AM>
+<AM lemma="rád" src="auto" recommended="1" selected="1">Dg-------2A----</AM>
 </tag>
 </m>
 <m id="m-mf920925-005-p8s2w8">

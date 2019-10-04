@@ -77,7 +77,10 @@
 <LM>w#w-mf930713-067-p2s1Aw3</LM>
 </w.rf>
 <form>jh</form>
-<tag lemma="jh-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="jh-99_:B_;S" src="orig">NNXXX-----A---8</AM>
+<AM lemma="jh-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930713-067-p2s1Aw4">
 <src.rf>manual</src.rf>
@@ -93,7 +96,10 @@
 <LM>w#w-mf930713-067-p2s1Aw5</LM>
 </w.rf>
 <form>bau</form>
-<tag lemma="bau-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="bau-99_:B_;S" src="orig">NNXXX-----A---8</AM>
+<AM lemma="bau-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930713-067-p2s1Aw6">
 <src.rf>manual</src.rf>
@@ -663,7 +669,7 @@
 <form>favoritu</form>
 <tag>
 <AM lemma="Favorit-2_;R_^(vozidlo)" src="orig">NNIS2-----A----</AM>
-<AM lemma="favorit-1_;R" src="auto" recommended="1">NNIS2-----A----</AM>
+<AM lemma="favorit-1_;R" src="auto" recommended="1" selected="1">NNIS2-----A----</AM>
 <AM lemma="favorit-1_;R" src="auto">NNIS3-----A----</AM>
 <AM lemma="favorit-1_;R" src="auto">NNIS6-----A----</AM>
 <AM lemma="favorit-2" src="auto">NNMS3-----A---1</AM>
@@ -1284,7 +1290,10 @@
 <LM>w#w-mf930713-067-p3s3w8</LM>
 </w.rf>
 <form>EKOSS</form>
-<tag lemma="EKOSS_:B_;K" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="EKOSS_:B_;K" src="orig">NNIXX-----A---8</AM>
+<AM lemma="EKOSS-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930713-067-p3s3w9">
 <src.rf>manual</src.rf>
@@ -1438,7 +1447,10 @@
 <LM>w#w-mf930713-067-p3s4w7</LM>
 </w.rf>
 <form>např</form>
-<tag lemma="například_:B" src="orig" selected="1">Db------------8</tag>
+<tag>
+<AM lemma="například_:B" src="orig">Db------------8</AM>
+<AM lemma="například" src="manual" selected="1">Db------------8</AM>
+</tag>
 </m>
 <m id="m-mf930713-067-p3s4w8">
 <src.rf>manual</src.rf>

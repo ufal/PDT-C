@@ -191,7 +191,10 @@
 <LM>w#w-ln94203-14-p2s1Bw14</LM>
 </w.rf>
 <form>začala</form>
-<tag lemma="začít-1_^(začnout)" src="auto" selected="1">VpQW---XR-AA---</tag>
+<tag>
+<AM lemma="začít-1_^(začnout)" src="auto">VpQW---XR-AA---</AM>
+<AM lemma="začít-1_:W_^(začnout)" src="manual" selected="1">VpQW---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-ln94203-14-p2s1Bw15">
 <src.rf>manual</src.rf>
@@ -199,7 +202,10 @@
 <LM>w#w-ln94203-14-p2s1Bw15</LM>
 </w.rf>
 <form>stavět</form>
-<tag lemma="stavět" src="auto" selected="1">Vf--------A----</tag>
+<tag>
+<AM lemma="stavět" src="auto">Vf--------A----</AM>
+<AM lemma="stavět_:T" src="manual" selected="1">Vf--------A----</AM>
+</tag>
 </m>
 <m id="m-ln94203-14-p2s1Bw16">
 <src.rf>manual</src.rf>
@@ -467,7 +473,10 @@
 <LM>w#w-ln94203-14-p3s1w9</LM>
 </w.rf>
 <form>milionů</form>
-<tag lemma="milión`1000000" src="orig" selected="1">NNIP2-----A----</tag>
+<tag>
+<AM lemma="milión`1000000" src="orig">NNIP2-----A----</AM>
+<AM lemma="milion`1000000_,s_^(^DD**milión)" src="manual" selected="1">NNIP2-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94203-14-p3s1w10">
 <src.rf>manual</src.rf>
@@ -542,7 +551,10 @@
 <LM>w#w-ln94203-14-p3s2w7</LM>
 </w.rf>
 <form>milionu</form>
-<tag lemma="milión`1000000" src="orig" selected="1">NNIS2-----A----</tag>
+<tag>
+<AM lemma="milión`1000000" src="orig">NNIS2-----A----</AM>
+<AM lemma="milion`1000000_,s_^(^DD**milión)" src="manual" selected="1">NNIS2-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94203-14-p3s2w8">
 <src.rf>manual</src.rf>
@@ -744,7 +756,10 @@
 <LM>w#w-ln94203-14-p3s3w6</LM>
 </w.rf>
 <form>prostřednictvím</form>
-<tag lemma="prostřednictví" src="orig" selected="1">NNNS7-----A----</tag>
+<tag>
+<AM lemma="prostřednictví" src="orig">NNNS7-----A----</AM>
+<AM lemma="prostřednictví-2" src="manual" selected="1">RR--2----------</AM>
+</tag>
 </m>
 <m id="m-ln94203-14-p3s3w7">
 <src.rf>manual</src.rf>
@@ -878,6 +893,7 @@
 <AM lemma="začít-1" src="orig">Vf--------A----</AM>
 <AM lemma="začít-1_^(začnout)" src="auto" recommended="1">Vf--------A----</AM>
 <AM lemma="začít-2_^(pocítit)" src="auto">Vf--------A----</AM>
+<AM lemma="začít-1_:W_^(začnout)" src="manual" selected="1">Vf--------A----</AM>
 </tag>
 </m>
 <m id="m-ln94203-14-p3s4w6">
@@ -1204,7 +1220,10 @@
 <LM>w#w-ln94203-14-p4s3w2</LM>
 </w.rf>
 <form>sezonním</form>
-<tag lemma="sezónní" src="orig" selected="1">AAIS6----1A----</tag>
+<tag>
+<AM lemma="sezónní" src="orig">AAIS6----1A----</AM>
+<AM lemma="sezonní_,s_^(^DD**sezónní)" src="manual" selected="1">AAIS6----1A----</AM>
+</tag>
 </m>
 <m id="m-ln94203-14-p4s3w3">
 <src.rf>manual</src.rf>
@@ -1231,7 +1250,7 @@
 <form>totiž</form>
 <tag>
 <AM lemma="totiž" src="orig">Db-------------</AM>
-<AM lemma="totiž-1" src="auto" recommended="1">J^-------------</AM>
+<AM lemma="totiž-1" src="auto" recommended="1" selected="1">J^-------------</AM>
 <AM lemma="totiž-2" src="auto">TT-------------</AM>
 </tag>
 </m>
@@ -1339,7 +1358,7 @@
 <form>desetinásobně</form>
 <tag>
 <AM lemma="desetinásobně`10_^(*4ý`10)" src="orig">Dg-------1A----</AM>
-<AM lemma="desetinásobně" src="auto" recommended="1">Db-------------</AM>
+<AM lemma="desetinásobně" src="auto" recommended="1" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m-ln94203-14-p4s3w19">

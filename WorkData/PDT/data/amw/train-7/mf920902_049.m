@@ -123,7 +123,10 @@
 <LM>w#w-mf920902-049-p1s1w14</LM>
 </w.rf>
 <form>Alexander</form>
-<tag lemma="Alexander_;S" src="auto" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Alexander_;S" src="auto">NNMS1-----A----</AM>
+<AM lemma="Alexander_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920902-049-p1s1w15">
 <src.rf>manual</src.rf>

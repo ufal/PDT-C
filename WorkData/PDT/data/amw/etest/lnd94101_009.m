@@ -59,7 +59,10 @@
 <LM>w#w-lnd94101-009-p1s1Aw6</LM>
 </w.rf>
 <form>JAR</form>
-<tag lemma="jaro" src="auto" selected="1">NNNP2-----A----</tag>
+<tag>
+<AM lemma="jaro" src="auto">NNNP2-----A----</AM>
+<AM lemma="JAR-1_:B_;G_^(Jihoafrická_republika)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 </s>
 <s id="m-lnd94101-009-p1s1B">
@@ -87,7 +90,7 @@
 <form>Pretoria</form>
 <tag>
 <AM lemma="Pretoria_;G" src="orig">NNFS1-----A----</AM>
-<AM lemma="Pretorie_;G" src="auto" recommended="1">NNFS1-----A---1</AM>
+<AM lemma="Pretorie_;G" src="auto" recommended="1" selected="1">NNFS1-----A---1</AM>
 <AM lemma="Pretorius_;S" src="auto">NNMS2-----A----</AM>
 <AM lemma="Pretorius_;S" src="auto">NNMS4-----A----</AM>
 </tag>
@@ -148,7 +151,10 @@
 <LM>w#w-lnd94101-009-p1s1Cw6</LM>
 </w.rf>
 <form>IEC</form>
-<tag lemma="IEC-1_:B_;K_,t_^(International_Electrotechnical_Commission)" src="auto" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="IEC-1_:B_;K_,t_^(International_Electrotechnical_Commission)" src="auto">NNFXX-----A---8</AM>
+<AM lemma="IEC-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd94101-009-p1s1Cw7">
 <src.rf>manual</src.rf>
@@ -284,7 +290,10 @@
 <LM>w#w-lnd94101-009-p1s1Cw23</LM>
 </w.rf>
 <form>JAR</form>
-<tag lemma="JAR-1_:B_;G_^(Jihoafrická_republika)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="JAR-1_:B_;G_^(Jihoafrická_republika)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="JAR-1_:B_;G_^(Jihoafrická_republika)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd94101-009-p1s1Cw24">
 <src.rf>manual</src.rf>
@@ -462,7 +471,10 @@
 <LM>w#w-lnd94101-009-p1s2w17</LM>
 </w.rf>
 <form>ANC</form>
-<tag lemma="ANC-1_:B_;K_^(Africký_národní_kongres)" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="ANC-1_:B_;K_^(Africký_národní_kongres)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="ANC-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd94101-009-p1s2w18">
 <src.rf>manual</src.rf>
@@ -712,7 +724,10 @@
 <LM>w#w-lnd94101-009-p1s3w18</LM>
 </w.rf>
 <form>napsala</form>
-<tag lemma="napsat" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag>
+<AM lemma="napsat" src="orig">VpQW---XR-AA---</AM>
+<AM lemma="napsat_:W" src="manual" selected="1">VpQW---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-lnd94101-009-p1s3w19">
 <src.rf>manual</src.rf>
@@ -981,7 +996,10 @@
 <LM>w#w-lnd94101-009-p1s5w4</LM>
 </w.rf>
 <form>straně</form>
-<tag lemma="strana-4_^(v_knize,_rukopise,...)" src="orig" selected="1">NNFS6-----A----</tag>
+<tag>
+<AM lemma="strana-4_^(v_knize,_rukopise,...)" src="orig">NNFS6-----A----</AM>
+<AM lemma="strana" src="manual" selected="1">NNFS6-----A----</AM>
+</tag>
 </m>
 </s>
 </mdata>

@@ -139,7 +139,10 @@
 <LM>w#w-lnd91303-026-p1s1w16</LM>
 </w.rf>
 <form>PKC</form>
-<tag lemma="PKC_:B_;K_^(Pražské_kulturní_centrum)" src="orig" selected="1">NNNXX-----A---8</tag>
+<tag>
+<AM lemma="PKC_:B_;K_^(Pražské_kulturní_centrum)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="PKC-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd91303-026-p1s1w17">
 <src.rf>manual</src.rf>
@@ -341,7 +344,10 @@
 <LM>w#w-lnd91303-026-p1s2w16</LM>
 </w.rf>
 <form>FAMU</form>
-<tag lemma="FAMU_:B_;K" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="FAMU_:B_;K" src="orig">NNFXX-----A---8</AM>
+<AM lemma="FAMU-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd91303-026-p1s2w17">
 <src.rf>manual</src.rf>

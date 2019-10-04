@@ -182,7 +182,7 @@
 <AM lemma="starost-2_^(člověk,_věc)_(*5ý-2)" src="auto">NNFS2-----A----</AM>
 <AM lemma="starost-2_^(člověk,_věc)_(*5ý-2)" src="auto">NNFS3-----A----</AM>
 <AM lemma="starost-2_^(člověk,_věc)_(*5ý-2)" src="auto">NNFS5-----A----</AM>
-<AM lemma="starost-2_^(člověk,_věc)_(*5ý-2)" src="auto">NNFS6-----A----</AM>
+<AM lemma="starost-2_^(člověk,_věc)_(*5ý-2)" src="auto" selected="1">NNFS6-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9406-064-p6s2w4">
@@ -462,7 +462,7 @@
 </w.rf>
 <form>Gaumontem</form>
 <tag>
-<AM lemma="Gaumont-2_;K" src="orig">NNIS7-----A----</AM>
+<AM lemma="Gaumont-2_;K" src="orig" selected="1">NNIS7-----A----</AM>
 <AM lemma="Gaumont_;S" src="auto" recommended="1">NNMS7-----A----</AM>
 </tag>
 </m>
@@ -631,6 +631,7 @@
 <AM lemma="AB_:B_;K_;b_^(společnost,_v_sev._zemích)" src="auto" recommended="1">NNFXX-----A---8</AM>
 <AM lemma="Aba_;Y" src="auto">NNFP2-----A----</AM>
 <AM lemma="aba_,t_^(arabský_plášť)" src="auto">NNFP2-----A----</AM>
+<AM lemma="AB-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-cmpr9406-064-p10s3w6">
@@ -948,7 +949,7 @@
 </w.rf>
 <form>Gaumontu</form>
 <tag>
-<AM lemma="Gaumont-2_;K" src="orig">NNIS2-----A----</AM>
+<AM lemma="Gaumont-2_;K" src="orig" selected="1">NNIS2-----A----</AM>
 <AM lemma="Gaumont_;S" src="auto" recommended="1">NNMS3-----A---1</AM>
 <AM lemma="Gaumont_;S" src="auto">NNMS6-----A---1</AM>
 </tag>
@@ -1099,7 +1100,7 @@
 </w.rf>
 <form>Losey</form>
 <tag>
-<AM lemma="Losey_;S" src="orig">NNMXX-----A----</AM>
+<AM lemma="Losey_;S" src="orig" selected="1">NNMXX-----A----</AM>
 <AM lemma="Losey_;S" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Losey_;S" src="auto">NNMS5-----A----</AM>
 </tag>
@@ -1383,7 +1384,7 @@
 </w.rf>
 <form>Giovanni</form>
 <tag>
-<AM lemma="Giovanni_;Y" src="orig">NNMXX-----A----</AM>
+<AM lemma="Giovanni_;Y" src="orig" selected="1">NNMXX-----A----</AM>
 <AM lemma="Giovanni_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Giovanni_;Y" src="auto">NNMS5-----A----</AM>
 </tag>
@@ -2181,7 +2182,7 @@
 <form>nejen</form>
 <tag>
 <AM lemma="nejen" src="orig">TT-------------</AM>
-<AM lemma="nejen" src="auto" recommended="1">Db-------------</AM>
+<AM lemma="nejen" src="auto" recommended="1" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m-cmpr9406-064-p13s3w3">
@@ -2250,7 +2251,7 @@
 <form>totiž</form>
 <tag>
 <AM lemma="totiž" src="orig">Db-------------</AM>
-<AM lemma="totiž-1" src="auto">J^-------------</AM>
+<AM lemma="totiž-1" src="auto" selected="1">J^-------------</AM>
 <AM lemma="totiž-2" src="auto" recommended="1">TT-------------</AM>
 </tag>
 </m>
@@ -2466,7 +2467,7 @@
 <form>přesto</form>
 <tag>
 <AM lemma="přesto" src="orig">Dg-------1A----</AM>
-<AM lemma="přesto-1" src="auto" recommended="1">Db-------------</AM>
+<AM lemma="přesto-1" src="auto" recommended="1" selected="1">Db-------------</AM>
 <AM lemma="přesto-2" src="auto">J^-------------</AM>
 </tag>
 </m>
@@ -2886,7 +2887,7 @@
 <form>totiž</form>
 <tag>
 <AM lemma="totiž" src="orig">Db-------------</AM>
-<AM lemma="totiž-1" src="auto" recommended="1">J^-------------</AM>
+<AM lemma="totiž-1" src="auto" recommended="1" selected="1">J^-------------</AM>
 <AM lemma="totiž-2" src="auto">TT-------------</AM>
 </tag>
 </m>
@@ -3111,7 +3112,7 @@
 <tag>
 <AM lemma="tedy" src="orig">Db-------------</AM>
 <AM lemma="tedy-1" src="auto">TT-------------</AM>
-<AM lemma="tedy-2" src="auto" recommended="1">J^-------------</AM>
+<AM lemma="tedy-2" src="auto" recommended="1" selected="1">J^-------------</AM>
 </tag>
 </m>
 <m id="m-cmpr9406-064-p14s4w4">

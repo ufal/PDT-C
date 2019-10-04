@@ -353,7 +353,7 @@
 <form>nejen</form>
 <tag>
 <AM lemma="nejen" src="orig">TT-------------</AM>
-<AM lemma="nejen" src="auto" recommended="1">Db-------------</AM>
+<AM lemma="nejen" src="auto" recommended="1" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m-ln94211-120-p2s5w3">
@@ -1258,7 +1258,10 @@
 <LM>w#w-ln94211-120-p4s4w4</LM>
 </w.rf>
 <form>jen</form>
-<tag lemma="jen-1" src="auto" selected="1">TT-------------</tag>
+<tag>
+<AM lemma="jen-1" src="auto">TT-------------</AM>
+<AM lemma="jen-4_^(pouze)" src="manual" selected="1">Db-------------</AM>
+</tag>
 </m>
 <m id="m-ln94211-120-p4s4w5">
 <src.rf>manual</src.rf>
@@ -1934,7 +1937,10 @@
 <LM>w#w-ln94211-120-p5s5w2</LM>
 </w.rf>
 <form>jen</form>
-<tag lemma="jen-1" src="auto" selected="1">TT-------------</tag>
+<tag>
+<AM lemma="jen-1" src="auto">TT-------------</AM>
+<AM lemma="jen-4_^(pouze)" src="manual" selected="1">Db-------------</AM>
+</tag>
 </m>
 <m id="m-ln94211-120-p5s5w3">
 <src.rf>manual</src.rf>
@@ -2917,6 +2923,7 @@
 <AM lemma="individualismus" src="auto" recommended="1">NNIS2-----A----</AM>
 <AM lemma="individualismus" src="auto">NNIS3-----A----</AM>
 <AM lemma="individualismus" src="auto">NNIS6-----A----</AM>
+<AM lemma="individualismus_,s_^(^DD**individualizmus)" src="manual" selected="1">NNIS2-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94211-120-p6s1w15">
@@ -3219,7 +3226,10 @@
 <LM>w#w-ln94211-120-p6s4w3</LM>
 </w.rf>
 <form>víc</form>
-<tag lemma="hodně-2" src="auto" selected="1">Dg-------2A---1</tag>
+<tag>
+<AM lemma="hodně-2" src="auto">Dg-------2A---1</AM>
+<AM lemma="hodně-3" src="manual" selected="1">Dg-------2A---1</AM>
+</tag>
 </m>
 <m id="m-ln94211-120-p6s4w4">
 <src.rf>manual</src.rf>

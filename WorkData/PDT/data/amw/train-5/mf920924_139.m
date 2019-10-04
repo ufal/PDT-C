@@ -521,7 +521,10 @@
 <LM>w#w-mf920924-139-p3s1w35</LM>
 </w.rf>
 <form>Jicchakem</form>
-<tag lemma="Jicchak_;S" src="orig" selected="1">NNMS7-----A----</tag>
+<tag>
+<AM lemma="Jicchak_;S" src="orig">NNMS7-----A----</AM>
+<AM lemma="Jicchak_;S_;Y" src="manual" selected="1">NNMS7-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920924-139-p3s1w36">
 <src.rf>manual</src.rf>
@@ -805,7 +808,10 @@
 <LM>w#w-mf920924-139-p5s1w1</LM>
 </w.rf>
 <form>New</form>
-<tag lemma="New-1_;G_,t_^(součást_míst._jmen)" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="New-1_;G_,t_^(součást_míst._jmen)" src="orig">AAXXX----1A----</AM>
+<AM lemma="New-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-mf920924-139-p5s1w2">
 <src.rf>manual</src.rf>
@@ -813,7 +819,10 @@
 <LM>w#w-mf920924-139-p5s1w2</LM>
 </w.rf>
 <form>York</form>
-<tag lemma="York-2_;G" src="orig" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="York-2_;G" src="orig">NNIS1-----A----</AM>
+<AM lemma="York-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-mf920924-139-p5s1w3">
 <src.rf>manual</src.rf>
@@ -959,7 +968,10 @@
 <LM>w#w-mf920924-139-p5s2w17</LM>
 </w.rf>
 <form>Farúk</form>
-<tag lemma="Farúk_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Farúk_;S" src="orig">NNMS1-----A----</AM>
+<AM lemma="Farúk_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920924-139-p5s2w18">
 <src.rf>manual</src.rf>
@@ -1201,7 +1213,10 @@
 <LM>w#w-mf920924-139-p5s3w28</LM>
 </w.rf>
 <form>Lawrencem</form>
-<tag lemma="Lawrence_;S" src="orig" selected="1">NNMS7-----A----</tag>
+<tag>
+<AM lemma="Lawrence_;S" src="orig">NNMS7-----A----</AM>
+<AM lemma="Lawrence_;S_;Y" src="manual" selected="1">NNMS7-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920924-139-p5s3w29">
 <src.rf>manual</src.rf>
@@ -1365,7 +1380,10 @@
 <LM>w#w-mf920924-139-p5s5w12</LM>
 </w.rf>
 <form>F</form>
-<tag lemma="F-0_:B_;Y" src="orig" selected="1">NNMXX-----A---8</tag>
+<tag>
+<AM lemma="F-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
+<AM lemma="F-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-mf920924-139-p5s5w13">
 <src.rf>manual</src.rf>

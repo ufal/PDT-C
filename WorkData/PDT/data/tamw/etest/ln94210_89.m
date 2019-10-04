@@ -358,7 +358,7 @@
 <tag>
 <AM lemma="dvojstranný" src="orig">AAFP4----1A----</AM>
 <AM lemma="dvoustranný" src="auto" recommended="1">AAFP1----1A----</AM>
-<AM lemma="dvoustranný" src="auto">AAFP4----1A----</AM>
+<AM lemma="dvoustranný" src="auto" selected="1">AAFP4----1A----</AM>
 <AM lemma="dvoustranný" src="auto">AAFP5----1A----</AM>
 <AM lemma="dvoustranný" src="auto">AAFS2----1A----</AM>
 <AM lemma="dvoustranný" src="auto">AAFS3----1A----</AM>
@@ -517,7 +517,10 @@
 <LM>w#w-ln94210-89-p3s1w19</LM>
 </w.rf>
 <form>president</form>
-<tag lemma="prezident_,x" src="orig" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="prezident_,x" src="orig">NNMS1-----A----</AM>
+<AM lemma="president_,s_^(^DD**prezident)" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94210-89-p3s1w20">
 <src.rf>manual</src.rf>
@@ -574,7 +577,7 @@
 </w.rf>
 <form>Ce</form>
 <tag>
-<AM lemma="Ce-4_;Y" src="orig">NNMXX-----A----</AM>
+<AM lemma="Ce-4_;Y" src="orig" selected="1">NNMXX-----A----</AM>
 <AM lemma="Ce-1_:B_;H_^(cerium,_cer)" src="auto" recommended="1">NNNXX-----A---8</AM>
 <AM lemma="Ce-3_:B_,t_^(compagnie,_vojenská_rota,_obch._společnost)" src="auto">NNFXX-----A---8</AM>
 <AM lemma="ce-2_:B_,t_^(compass_error,_deklinač._a_deviační_odchylka)" src="auto">NNFXX-----A---8</AM>
@@ -907,6 +910,8 @@
 <AM lemma="port" src="auto" recommended="1">NNIS4-----A----</AM>
 <AM lemma="porta" src="auto">NNFP2-----A----</AM>
 <AM lemma="porto" src="auto">NNNP2-----A----</AM>
+<AM lemma="port_,t" src="manual">NNXXX-----A----</AM>
+<AM lemma="Port-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-ln94210-89-p4s1w32">
@@ -926,6 +931,7 @@
 <tag>
 <AM lemma="au-2_,t" src="orig">RR--X----------</AM>
 <AM lemma="au" src="auto" recommended="1">II-------------</AM>
+<AM lemma="au-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-ln94210-89-p4s1w34">
@@ -952,6 +958,8 @@
 <AM lemma="princ" src="auto">NNMP4-----A----</AM>
 <AM lemma="princ" src="auto">NNMS2-----A----</AM>
 <AM lemma="princ" src="auto">NNMS4-----A----</AM>
+<AM lemma="prince_,t" src="manual">NNXXX-----A----</AM>
+<AM lemma="Prince-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-ln94210-89-p4s1w36">
@@ -1165,7 +1173,7 @@
 </w.rf>
 <form>Eduarda</form>
 <tag>
-<AM lemma="Eduardo_;Y" src="orig">NNMS2-----A----</AM>
+<AM lemma="Eduardo_;Y" src="orig" selected="1">NNMS2-----A----</AM>
 <AM lemma="Eduard_;Y" src="auto" recommended="1">NNMS2-----A----</AM>
 <AM lemma="Eduard_;Y" src="auto">NNMS4-----A----</AM>
 </tag>
@@ -1187,6 +1195,7 @@
 <tag>
 <AM lemma="Rincón_;S" src="orig">NNMS2-----A----</AM>
 <AM lemma="Rincón_;G" src="auto" recommended="1">NNIS2-----A----</AM>
+<AM lemma="Rincón-2_;S" src="manual" selected="1">NNMS2-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94210-89-p5s2w10">
@@ -1215,7 +1224,7 @@
 <form>totiž</form>
 <tag>
 <AM lemma="totiž" src="orig">Db-------------</AM>
-<AM lemma="totiž-1" src="auto" recommended="1">J^-------------</AM>
+<AM lemma="totiž-1" src="auto" recommended="1" selected="1">J^-------------</AM>
 <AM lemma="totiž-2" src="auto">TT-------------</AM>
 </tag>
 </m>
@@ -2213,7 +2222,10 @@
 <LM>w#w-ln94210-89-p9s1w5</LM>
 </w.rf>
 <form>Lotto</form>
-<tag lemma="Lotto_;G" src="auto" selected="1">NNNS1-----A----</tag>
+<tag>
+<AM lemma="Lotto_;G" src="auto">NNNS1-----A----</AM>
+<AM lemma="Lotto_;G_;m" src="manual" selected="1">NNNS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94210-89-p9s1w6">
 <src.rf>manual</src.rf>
@@ -2333,7 +2345,10 @@
 <LM>w#w-ln94210-89-p9s1w20</LM>
 </w.rf>
 <form>milionů</form>
-<tag lemma="milión`1000000" src="orig" selected="1">NNIP2-----A----</tag>
+<tag>
+<AM lemma="milión`1000000" src="orig">NNIP2-----A----</AM>
+<AM lemma="milion`1000000_,s_^(^DD**milión)" src="manual" selected="1">NNIP2-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94210-89-p9s1w21">
 <src.rf>manual</src.rf>
@@ -2373,7 +2388,10 @@
 <LM>w#w-ln94210-89-p9s1w25</LM>
 </w.rf>
 <form>milionů</form>
-<tag lemma="milión`1000000" src="orig" selected="1">NNIP2-----A----</tag>
+<tag>
+<AM lemma="milión`1000000" src="orig">NNIP2-----A----</AM>
+<AM lemma="milion`1000000_,s_^(^DD**milión)" src="manual" selected="1">NNIP2-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94210-89-p9s1w26">
 <src.rf>manual</src.rf>
@@ -2449,7 +2467,7 @@
 <form>totiž</form>
 <tag>
 <AM lemma="totiž" src="orig">Db-------------</AM>
-<AM lemma="totiž-1" src="auto" recommended="1">J^-------------</AM>
+<AM lemma="totiž-1" src="auto" recommended="1" selected="1">J^-------------</AM>
 <AM lemma="totiž-2" src="auto">TT-------------</AM>
 </tag>
 </m>

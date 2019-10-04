@@ -19,7 +19,10 @@
 <LM>w#w-lnd92252-037-p1s1w1</LM>
 </w.rf>
 <form>KBSE</form>
-<tag lemma="KBSE_:B_;K_;p" src="auto" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="KBSE_:B_;K_;p" src="auto">NNFXX-----A---8</AM>
+<AM lemma="KBSE-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd92252-037-p1s1w2">
 <src.rf>manual</src.rf>
@@ -137,7 +140,10 @@
 <LM>w#w-lnd92252-037-p3s2w7</LM>
 </w.rf>
 <form>mechanismu</form>
-<tag lemma="mechanismus" src="orig" selected="1">NNIS2-----A----</tag>
+<tag>
+<AM lemma="mechanismus" src="orig">NNIS2-----A----</AM>
+<AM lemma="mechanismus_,s_^(^DD**mechanizmus)" src="manual" selected="1">NNIS2-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92252-037-p3s2w8">
 <src.rf>manual</src.rf>
@@ -242,7 +248,10 @@
 <LM>w#w-lnd92252-037-p3s2w20</LM>
 </w.rf>
 <form>KBSE</form>
-<tag lemma="KBSE_:B_;K_;p" src="auto" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="KBSE_:B_;K_;p" src="auto">NNFXX-----A---8</AM>
+<AM lemma="KBSE-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd92252-037-p3s2w21">
 <src.rf>manual</src.rf>
@@ -340,7 +349,10 @@
 <LM>w#w-lnd92252-037-p3s3w11</LM>
 </w.rf>
 <form>KBSE</form>
-<tag lemma="KBSE_:B_;K_;p" src="auto" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="KBSE_:B_;K_;p" src="auto">NNFXX-----A---8</AM>
+<AM lemma="KBSE-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd92252-037-p3s3w12">
 <src.rf>manual</src.rf>
@@ -444,7 +456,10 @@
 <LM>w#w-lnd92252-037-p3s3w24</LM>
 </w.rf>
 <form>KBSE</form>
-<tag lemma="KBSE_:B_;K_;p" src="auto" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="KBSE_:B_;K_;p" src="auto">NNFXX-----A---8</AM>
+<AM lemma="KBSE-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd92252-037-p3s3w25">
 <src.rf>manual</src.rf>
@@ -478,7 +493,10 @@
 <LM>w#w-lnd92252-037-p3s4w3</LM>
 </w.rf>
 <form>li</form>
-<tag lemma="li-1" src="auto" selected="1">TT-------------</tag>
+<tag>
+<AM lemma="li-1" src="auto">TT-------------</AM>
+<AM lemma="li-2" src="manual" selected="1">J,-------------</AM>
+</tag>
 </m>
 <m id="m-lnd92252-037-p3s4w4">
 <src.rf>manual</src.rf>
@@ -736,7 +754,10 @@
 <LM>w#w-lnd92252-037-p3s5w17</LM>
 </w.rf>
 <form>KBSE</form>
-<tag lemma="KBSE_:B_;K_;p" src="auto" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="KBSE_:B_;K_;p" src="auto">NNFXX-----A---8</AM>
+<AM lemma="KBSE-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd92252-037-p3s5w18">
 <src.rf>manual</src.rf>
@@ -888,7 +909,10 @@
 <LM>w#w-lnd92252-037-p3s5w36</LM>
 </w.rf>
 <form>mechanismu</form>
-<tag lemma="mechanismus" src="orig" selected="1">NNIS2-----A----</tag>
+<tag>
+<AM lemma="mechanismus" src="orig">NNIS2-----A----</AM>
+<AM lemma="mechanismus_,s_^(^DD**mechanizmus)" src="manual" selected="1">NNIS2-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92252-037-p3s5w37">
 <src.rf>manual</src.rf>

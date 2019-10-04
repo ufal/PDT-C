@@ -87,7 +87,10 @@
 <LM>w#w-lnd94103-035-p2s2w1</LM>
 </w.rf>
 <form>Přispět</form>
-<tag lemma="přispět" src="orig" selected="1">Vf--------A----</tag>
+<tag>
+<AM lemma="přispět" src="orig">Vf--------A----</AM>
+<AM lemma="přispět_:W" src="manual" selected="1">Vf--------A----</AM>
+</tag>
 </m>
 <m id="m-lnd94103-035-p2s2w2">
 <src.rf>manual</src.rf>
@@ -369,7 +372,10 @@
 <LM>w#w-lnd94103-035-p2s3w17</LM>
 </w.rf>
 <form>řekl</form>
-<tag lemma="říci" src="auto" selected="1">VpYS---XR-AA---</tag>
+<tag>
+<AM lemma="říci" src="auto">VpYS---XR-AA---</AM>
+<AM lemma="říci_:W" src="manual" selected="1">VpYS---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-lnd94103-035-p2s3w18">
 <src.rf>manual</src.rf>
@@ -427,7 +433,10 @@
 <LM>w#w-lnd94103-035-p2s4w2</LM>
 </w.rf>
 <form>ČR</form>
-<tag lemma="ČR-1_:B_;G_^(Česká_republika)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd94103-035-p2s4w3">
 <src.rf>manual</src.rf>
@@ -679,7 +688,7 @@
 <form>Jeszenszky</form>
 <tag>
 <AM lemma="Jeszenszky_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Jeszenszky_;S" src="auto" recommended="1">NNMS1-----A---1</AM>
+<AM lemma="Jeszenszky_;S" src="auto" recommended="1" selected="1">NNMS1-----A---1</AM>
 <AM lemma="Jeszenszky_;S" src="auto">NNMS5-----A---1</AM>
 </tag>
 </m>
@@ -745,7 +754,10 @@
 <LM>w#w-lnd94103-035-p2s5w21</LM>
 </w.rf>
 <form>KBSE</form>
-<tag lemma="KBSE_:B_;K_;p" src="auto" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="KBSE_:B_;K_;p" src="auto">NNFXX-----A---8</AM>
+<AM lemma="KBSE-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd94103-035-p2s5w22">
 <src.rf>manual</src.rf>
@@ -785,7 +797,10 @@
 <LM>w#w-lnd94103-035-p2s5w26</LM>
 </w.rf>
 <form>van</form>
-<tag lemma="van-2_,t_^(v_hol._jménech)" src="orig" selected="1">RR--X----------</tag>
+<tag>
+<AM lemma="van-2_,t_^(v_hol._jménech)" src="orig">RR--X----------</AM>
+<AM lemma="van-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-lnd94103-035-p2s5w27">
 <src.rf>manual</src.rf>
@@ -793,7 +808,10 @@
 <LM>w#w-lnd94103-035-p2s5w27</LM>
 </w.rf>
 <form>der</form>
-<tag lemma="der-1_;K_,t_^(souč._něm._názvů,_např._Der_Spiegel_[člen_m.])" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="der-1_;K_,t_^(souč._něm._názvů,_např._Der_Spiegel_[člen_m.])" src="orig">AAXXX----1A----</AM>
+<AM lemma="der-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-lnd94103-035-p2s5w28">
 <src.rf>manual</src.rf>

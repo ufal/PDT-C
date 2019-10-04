@@ -101,7 +101,10 @@
 <LM>w#w-lnd94105-039-p1s2w3</LM>
 </w.rf>
 <form>mrk</form>
-<tag lemma="mrk-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="mrk-99_:B_;S" src="orig">NNXXX-----A---8</AM>
+<AM lemma="mrk-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd94105-039-p1s2w4">
 <src.rf>manual</src.rf>
@@ -223,7 +226,10 @@
 <LM>w#w-lnd94105-039-p1s3w13</LM>
 </w.rf>
 <form>JUDr</form>
-<tag lemma="JUDr-2_:B_^(doktorka_práv)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="JUDr-2_:B_^(doktorka_práv)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="JUDr_:B_^(doktor_práv)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd94105-039-p1s3w14">
 <src.rf>manual</src.rf>
@@ -1349,7 +1355,10 @@
 <LM>w#w-lnd94105-039-p1s10w9</LM>
 </w.rf>
 <form>ČR</form>
-<tag lemma="ČR-1_:B_;G_^(Česká_republika)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd94105-039-p1s10w10">
 <src.rf>manual</src.rf>
@@ -1527,7 +1536,10 @@
 <LM>w#w-lnd94105-039-p1s11w17</LM>
 </w.rf>
 <form>resortech</form>
-<tag lemma="resort" src="orig" selected="1">NNIP6-----A----</tag>
+<tag>
+<AM lemma="resort" src="orig">NNIP6-----A----</AM>
+<AM lemma="resort_,s_^(^DD**rezort)" src="manual" selected="1">NNIP6-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd94105-039-p1s11w18">
 <src.rf>manual</src.rf>

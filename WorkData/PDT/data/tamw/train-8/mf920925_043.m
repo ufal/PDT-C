@@ -27,7 +27,10 @@
 <LM>w#w-mf920925-043-p1s1w2</LM>
 </w.rf>
 <form>versus</form>
-<tag lemma="versus_,t" src="orig" selected="1">RR--1----------</tag>
+<tag>
+<AM lemma="versus_,t" src="orig">RR--1----------</AM>
+<AM lemma="versus" src="manual" selected="1">RR--1----------</AM>
+</tag>
 </m>
 <m id="m-mf920925-043-p1s1w3">
 <src.rf>manual</src.rf>
@@ -61,7 +64,10 @@
 <LM>w#w-mf920925-043-p2s1w3</LM>
 </w.rf>
 <form>km</form>
-<tag lemma="km-1`kilometr_:B" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="km-1`kilometr_:B" src="orig">NNIXX-----A---8</AM>
+<AM lemma="kilometr" src="manual" selected="1">NNIXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-mf920925-043-p2s1w4">
 <src.rf>manual</src.rf>

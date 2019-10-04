@@ -98,6 +98,7 @@
 <AM lemma="le-1_,t_^(franc._člen,_ne_v_názvech)" src="auto">XX-------------</AM>
 <AM lemma="les" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="les" src="auto">NNIS4-----A----</AM>
+<AM lemma="les-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930701-064-p2s1w6">
@@ -657,7 +658,7 @@
 </w.rf>
 <form>Malochové</form>
 <tag>
-<AM lemma="Malochová_;S" src="orig">NNFS2-----A----</AM>
+<AM lemma="Malochová_;S" src="orig" selected="1">NNFS2-----A----</AM>
 <AM lemma="Maloch_;S" src="auto" recommended="1">NNMP1-----A---1</AM>
 <AM lemma="Maloch_;S" src="auto">NNMP5-----A---1</AM>
 </tag>
@@ -732,7 +733,10 @@
 <LM>w#w-mf930701-064-p2s4w16</LM>
 </w.rf>
 <form>nezbytná</form>
-<tag lemma="zbytný" src="orig" selected="1">AANP1----1N----</tag>
+<tag>
+<AM lemma="zbytný" src="orig">AANP1----1N----</AM>
+<AM lemma="nezbytný" src="manual" selected="1">AANP4----1A----</AM>
+</tag>
 </m>
 <m id="m-mf930701-064-p2s4w17">
 <src.rf>manual</src.rf>
@@ -862,7 +866,10 @@
 <LM>w#w-mf930701-064-p2s5w15</LM>
 </w.rf>
 <form>máme</form>
-<tag lemma="mít" src="orig" selected="1">VB-P---1P-AA---</tag>
+<tag>
+<AM lemma="mít" src="orig">VB-P---1P-AA---</AM>
+<AM lemma="mít_:T" src="manual" selected="1">VB-P---1P-AA---</AM>
+</tag>
 </m>
 <m id="m-mf930701-064-p2s5w16">
 <src.rf>manual</src.rf>

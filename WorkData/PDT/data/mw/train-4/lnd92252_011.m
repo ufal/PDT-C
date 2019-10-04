@@ -579,7 +579,7 @@
 <form>snad</form>
 <tag>
 <AM lemma="snad" src="orig">Db-------------</AM>
-<AM lemma="snad" src="auto" recommended="1">TT-------------</AM>
+<AM lemma="snad" src="auto" recommended="1" selected="1">TT-------------</AM>
 </tag>
 </m>
 <m id="m-lnd92252-011-p2s3w3">
@@ -624,6 +624,7 @@
 <AM lemma="Čech-1_;E" src="orig">NNMS7-----N----</AM>
 <AM lemma="Nečech" src="auto">NNMP4-----A----</AM>
 <AM lemma="Nečech" src="auto" recommended="1">NNMP7-----A----</AM>
+<AM lemma="Čech_;E_;S" src="manual" selected="1">NNMP7-----N----</AM>
 </tag>
 </m>
 <m id="m-lnd92252-011-p2s3w8">
@@ -1047,7 +1048,7 @@
 <tag>
 <AM lemma="spíše" src="orig">Dg-------3A----</AM>
 <AM lemma="nejspíš" src="auto">TT-------------</AM>
-<AM lemma="spíš" src="auto" recommended="1">Dg-------3A----</AM>
+<AM lemma="spíš" src="auto" recommended="1" selected="1">Dg-------3A----</AM>
 </tag>
 </m>
 <m id="m-lnd92252-011-p4s1w14">
@@ -1269,7 +1270,7 @@
 <tag>
 <AM lemma="tady" src="orig">Db------------1</AM>
 <AM lemma="ten" src="auto" recommended="1">PDFS4----------</AM>
-<AM lemma="tu" src="auto">Db-------------</AM>
+<AM lemma="tu" src="auto" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m-lnd92252-011-p4s2w9">
@@ -1427,7 +1428,7 @@
 <tag>
 <AM lemma="tedy" src="orig">Db-------------</AM>
 <AM lemma="tedy-1" src="auto" recommended="1">TT-------------</AM>
-<AM lemma="tedy-2" src="auto">J^-------------</AM>
+<AM lemma="tedy-2" src="auto" selected="1">J^-------------</AM>
 </tag>
 </m>
 <m id="m-lnd92252-011-p4s3w5">
@@ -1989,7 +1990,7 @@
 <tag>
 <AM lemma="tady" src="orig">Db------------1</AM>
 <AM lemma="ten" src="auto" recommended="1">PDFS4----------</AM>
-<AM lemma="tu" src="auto">Db-------------</AM>
+<AM lemma="tu" src="auto" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m-lnd92252-011-p5s2w9">
@@ -2217,7 +2218,7 @@
 </w.rf>
 <form>středo</form>
 <tag>
-<AM lemma="střední" src="orig">A2--------A----</AM>
+<AM lemma="střední" src="orig" selected="1">A2--------A----</AM>
 <AM lemma="středa" src="auto" recommended="1">NNFS5-----A----</AM>
 </tag>
 </m>
@@ -2781,7 +2782,10 @@
 <LM>w#w-lnd92252-011-p6s2w16</LM>
 </w.rf>
 <form>komunismus</form>
-<tag lemma="komunismus" src="orig" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="komunismus" src="orig">NNIS1-----A----</AM>
+<AM lemma="komunismus_,s_^(^DD**komunizmus)" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92252-011-p6s2w17">
 <src.rf>manual</src.rf>

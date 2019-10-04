@@ -152,6 +152,7 @@
 <AM lemma="komanditní_:B_^(jen_komanditní_společnost)" src="auto">AAXXX----1A---8</AM>
 <AM lemma="koncernový_:B" src="auto">AAXXX----1A---8</AM>
 <AM lemma="kuo-1_:B_,t_^(stará_jednotka_výkonu)" src="auto">NNNXX-----A---8</AM>
+<AM lemma="K-33_^(označení_pomocí_písmene)" src="manual" selected="1">NNNXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95048-098-p2s1w15">
@@ -264,7 +265,10 @@
 <LM>w#w-ln95048-098-p2s1w28</LM>
 </w.rf>
 <form>SP</form>
-<tag lemma="SP-3_:B_^(Světový_pohár)" src="auto" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="SP-3_:B_^(Světový_pohár)" src="auto">NNIXX-----A---8</AM>
+<AM lemma="SP-3_:B_^(Světový_pohár)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95048-098-p2s1w29">
 <src.rf>manual</src.rf>

@@ -35,7 +35,10 @@
 <LM>w#w-cmpr9407-032-p2s1w3</LM>
 </w.rf>
 <form>ilustr</form>
-<tag lemma="ilustrace_:B" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ilustrace_:B" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ilustrace" src="manual" selected="1">NNFXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-cmpr9407-032-p2s1w4">
 <src.rf>manual</src.rf>
@@ -67,7 +70,10 @@
 <LM>w#w-cmpr9407-032-p2s1w7</LM>
 </w.rf>
 <form>Neprodal</form>
-<tag lemma="prodat_:W" src="orig" selected="1">VpYS---XR-NA---</tag>
+<tag>
+<AM lemma="prodat_:W" src="orig">VpYS---XR-NA---</AM>
+<AM lemma="Neprodal_;S" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 </s>
 <s id="m-cmpr9407-032-p3s1A">

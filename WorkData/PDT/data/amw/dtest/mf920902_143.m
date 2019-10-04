@@ -141,7 +141,10 @@
 <LM>w#w-mf920902-143-p2s1w5</LM>
 </w.rf>
 <form>začala</form>
-<tag lemma="začít-1_^(začnout)" src="auto" selected="1">VpQW---XR-AA---</tag>
+<tag>
+<AM lemma="začít-1_^(začnout)" src="auto">VpQW---XR-AA---</AM>
+<AM lemma="začít-1_:W_^(začnout)" src="manual" selected="1">VpQW---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-mf920902-143-p2s1w6">
 <src.rf>manual</src.rf>
@@ -255,7 +258,10 @@
 <LM>w#w-mf920902-143-p2s2w5</LM>
 </w.rf>
 <form>AP</form>
-<tag lemma="AP-3_:B_;K_,t_^(Associated_Press,_tisková_agentura)" src="auto" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="AP-3_:B_;K_,t_^(Associated_Press,_tisková_agentura)" src="auto">NNFXX-----A---8</AM>
+<AM lemma="AP-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920902-143-p2s2w6">
 <src.rf>manual</src.rf>
@@ -337,7 +343,10 @@
 <LM>w#w-mf920902-143-p2s3w3</LM>
 </w.rf>
 <form>zahájeno</form>
-<tag lemma="zahájit" src="auto" selected="1">VsNS---XX-AP---</tag>
+<tag>
+<AM lemma="zahájit" src="auto">VsNS---XX-AP---</AM>
+<AM lemma="zahájit_:W" src="manual" selected="1">VsNS---XX-AP---</AM>
+</tag>
 </m>
 <m id="m-mf920902-143-p2s3w4">
 <src.rf>manual</src.rf>
@@ -783,7 +792,10 @@
 <LM>w#w-mf920902-143-p4s1w5</LM>
 </w.rf>
 <form>AP</form>
-<tag lemma="AP-3_:B_;K_,t_^(Associated_Press,_tisková_agentura)" src="auto" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="AP-3_:B_;K_,t_^(Associated_Press,_tisková_agentura)" src="auto">NNFXX-----A---8</AM>
+<AM lemma="AP-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920902-143-p4s1w6">
 <src.rf>manual</src.rf>
@@ -1285,7 +1297,10 @@
 <LM>w#w-mf920902-143-p7s1w5</LM>
 </w.rf>
 <form>došlo</form>
-<tag lemma="dojít" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag>
+<AM lemma="dojít" src="orig">VpNS---XR-AA---</AM>
+<AM lemma="dojít_:W" src="manual" selected="1">VpNS---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-mf920902-143-p7s1w6">
 <src.rf>manual</src.rf>
@@ -2121,7 +2136,7 @@
 <form>zasáhla</form>
 <tag>
 <AM lemma="zasáhnout" src="orig">VpQW---XR-AA---</AM>
-<AM lemma="zasáhnout_:W" src="auto" recommended="1">VpQW---XR-AA--1</AM>
+<AM lemma="zasáhnout_:W" src="auto" recommended="1" selected="1">VpQW---XR-AA--1</AM>
 </tag>
 </m>
 <m id="m-mf920902-143-p9s1w25">

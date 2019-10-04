@@ -61,7 +61,10 @@
 <LM>w#w-mf930702-076-p1s2w3</LM>
 </w.rf>
 <form>SKP</form>
-<tag lemma="SKP_:B_;K" src="auto" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="SKP_:B_;K" src="auto">NNXXX-----A---8</AM>
+<AM lemma="SKP-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-mf930702-076-p1s2w4">
 <src.rf>manual</src.rf>
@@ -257,7 +260,10 @@
 <LM>w#w-mf930702-076-p1s4w9</LM>
 </w.rf>
 <form>SKP</form>
-<tag lemma="SKP_:B_;K" src="auto" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="SKP_:B_;K" src="auto">NNXXX-----A---8</AM>
+<AM lemma="SKP-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-mf930702-076-p1s4w10">
 <src.rf>manual</src.rf>

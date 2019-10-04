@@ -21,7 +21,7 @@
 <form>Nejen</form>
 <tag>
 <AM lemma="nejen" src="orig">TT-------------</AM>
-<AM lemma="nejen" src="auto" recommended="1">Db-------------</AM>
+<AM lemma="nejen" src="auto" recommended="1" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m-ln94209-80-p1s1w2">
@@ -114,7 +114,10 @@
 <LM>w#w-ln94209-80-p2s1Bw8</LM>
 </w.rf>
 <form>dr</form>
-<tag lemma="doktor_:B_^(doktor,_akad._titul)" src="orig" selected="1">NNMXX-----A---8</tag>
+<tag>
+<AM lemma="doktor_:B_^(doktor,_akad._titul)" src="orig">NNMXX-----A---8</AM>
+<AM lemma="dr_:B_^(doktor)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94209-80-p2s1Bw9">
 <src.rf>manual</src.rf>
@@ -247,6 +250,7 @@
 <tag>
 <AM lemma="naleznout" src="orig">VsYS---XX-AP---</AM>
 <AM lemma="nalézt-2" src="auto" recommended="1">VsYS---XX-AP---</AM>
+<AM lemma="nalézt-2_:W" src="manual" selected="1">VsYS---XX-AP---</AM>
 </tag>
 </m>
 <m id="m-ln94209-80-p2s2w4">
@@ -441,7 +445,10 @@
 <LM>w#w-ln94209-80-p2s3w12</LM>
 </w.rf>
 <form>dostat</form>
-<tag lemma="dostat" src="orig" selected="1">Vf--------A----</tag>
+<tag>
+<AM lemma="dostat" src="orig">Vf--------A----</AM>
+<AM lemma="dostat_:W" src="manual" selected="1">Vf--------A----</AM>
+</tag>
 </m>
 <m id="m-ln94209-80-p2s3w13">
 <src.rf>manual</src.rf>
@@ -475,7 +482,11 @@
 <LM>w#w-ln94209-80-p2s4w1</LM>
 </w.rf>
 <form>Dr</form>
-<tag lemma="doktor_:B_^(doktor,_akad._titul)" src="orig" selected="1">NNMXX-----A---8</tag>
+<tag>
+<AM lemma="doktor_:B_^(doktor,_akad._titul)" src="orig">NNMXX-----A---8</AM>
+<AM lemma="dr_:B_^(doktor)" src="manual">NNXXX-----A---8</AM>
+<AM lemma="Dr_:B_^(doktor)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94209-80-p2s4w2">
 <src.rf>manual</src.rf>
@@ -515,7 +526,10 @@
 <LM>w#w-ln94209-80-p2s4w6</LM>
 </w.rf>
 <form>řekl</form>
-<tag lemma="říci" src="auto" selected="1">VpYS---XR-AA---</tag>
+<tag>
+<AM lemma="říci" src="auto">VpYS---XR-AA---</AM>
+<AM lemma="říci_:W" src="manual" selected="1">VpYS---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-ln94209-80-p2s4w7">
 <src.rf>manual</src.rf>
@@ -627,7 +641,10 @@
 <LM>w#w-ln94209-80-p2s4w20</LM>
 </w.rf>
 <form>nemá</form>
-<tag lemma="mít" src="orig" selected="1">VB-S---3P-NA---</tag>
+<tag>
+<AM lemma="mít" src="orig">VB-S---3P-NA---</AM>
+<AM lemma="mít_:T" src="manual" selected="1">VB-S---3P-NA---</AM>
+</tag>
 </m>
 <m id="m-ln94209-80-p2s4w21">
 <src.rf>manual</src.rf>
@@ -912,7 +929,10 @@
 <LM>w#w-ln94209-80-p2s6w19</LM>
 </w.rf>
 <form>dostat</form>
-<tag lemma="dostat" src="orig" selected="1">Vf--------A----</tag>
+<tag>
+<AM lemma="dostat" src="orig">Vf--------A----</AM>
+<AM lemma="dostat_:W" src="manual" selected="1">Vf--------A----</AM>
+</tag>
 </m>
 <m id="m-ln94209-80-p2s6w20">
 <src.rf>manual</src.rf>

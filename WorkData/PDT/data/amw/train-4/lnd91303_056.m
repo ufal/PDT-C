@@ -475,7 +475,10 @@
 <LM>w#w-lnd91303-056-p3s1w15</LM>
 </w.rf>
 <form>Lewis</form>
-<tag lemma="Lewis_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Lewis_;S" src="orig">NNMS1-----A----</AM>
+<AM lemma="Lewis_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd91303-056-p3s1w16">
 <src.rf>manual</src.rf>
@@ -533,7 +536,10 @@
 <LM>w#w-lnd91303-056-p3s2Aw5</LM>
 </w.rf>
 <form>r</form>
-<tag lemma="rok_:B" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="rok_:B" src="orig">NNIXX-----A---8</AM>
+<AM lemma="rok" src="manual" selected="1">NNIXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd91303-056-p3s2Aw6">
 <src.rf>manual</src.rf>
@@ -653,7 +659,10 @@
 <LM>w#w-lnd91303-056-p3s2Aw20</LM>
 </w.rf>
 <form>D</form>
-<tag lemma="D-4_:B_;K" src="orig" selected="1">AAXXX----1A---8</tag>
+<tag>
+<AM lemma="D-4_:B_;K" src="orig">AAXXX----1A---8</AM>
+<AM lemma="D-33_^(označení_pomocí_písmene)" src="manual" selected="1">NNNXX-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd91303-056-p3s2Aw21">
 <src.rf>manual</src.rf>
@@ -695,7 +704,10 @@
 <LM>w#w-lnd91303-056-p3s2Bw4</LM>
 </w.rf>
 <form>konkursu</form>
-<tag lemma="konkurs_^(úpadek;;soutěž)" src="auto" selected="1">NNIS2-----A----</tag>
+<tag>
+<AM lemma="konkurs_^(úpadek;;soutěž)" src="auto">NNIS2-----A----</AM>
+<AM lemma="konkurs_,s_^(^DD**konkurz)" src="manual" selected="1">NNIS2-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd91303-056-p3s2Bw5">
 <src.rf>manual</src.rf>
@@ -1237,7 +1249,10 @@
 <LM>w#w-lnd91303-056-p3s5w13</LM>
 </w.rf>
 <form>č</form>
-<tag lemma="číslo_:B" src="orig" selected="1">NNNXX-----A---8</tag>
+<tag>
+<AM lemma="číslo_:B" src="orig">NNNXX-----A---8</AM>
+<AM lemma="číslo" src="manual" selected="1">NNNXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd91303-056-p3s5w14">
 <src.rf>manual</src.rf>
@@ -1341,7 +1356,10 @@
 <LM>w#w-lnd91303-056-p3s5w26</LM>
 </w.rf>
 <form>Margita</form>
-<tag lemma="margita" src="orig" selected="1">NNFS1-----A----</tag>
+<tag>
+<AM lemma="margita" src="orig">NNFS1-----A----</AM>
+<AM lemma="Margita-2_;G_;Y" src="manual" selected="1">NNFS1-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd91303-056-p3s5w27">
 <src.rf>manual</src.rf>
@@ -1373,7 +1391,10 @@
 <LM>w#w-lnd91303-056-p3s5w30</LM>
 </w.rf>
 <form>č</form>
-<tag lemma="číslo_:B" src="orig" selected="1">NNNXX-----A---8</tag>
+<tag>
+<AM lemma="číslo_:B" src="orig">NNNXX-----A---8</AM>
+<AM lemma="číslo" src="manual" selected="1">NNNXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd91303-056-p3s5w31">
 <src.rf>manual</src.rf>
@@ -1739,7 +1760,10 @@
 <LM>w#w-lnd91303-056-p3s7w11</LM>
 </w.rf>
 <form>Pilaře</form>
-<tag lemma="pilař" src="orig" selected="1">NNMS2-----A----</tag>
+<tag>
+<AM lemma="pilař" src="orig">NNMS2-----A----</AM>
+<AM lemma="Pilař_;S" src="manual" selected="1">NNMS2-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd91303-056-p3s7w12">
 <src.rf>manual</src.rf>
@@ -2140,6 +2164,7 @@
 <tag>
 <AM lemma="lin-99_:B_;S" src="orig">NNXXX-----A---8</AM>
 <AM lemma="lino" src="auto" recommended="1">NNNP2-----A----</AM>
+<AM lemma="lin-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd91303-056-p5s1w3">
@@ -2190,7 +2215,10 @@
 <LM>w#w-lnd91303-056-p6s1w5</LM>
 </w.rf>
 <form>LN</form>
-<tag lemma="LN-1_:B_;R_^(Lidové_noviny,_deník)" src="orig" selected="1">NNFPX-----A---8</tag>
+<tag>
+<AM lemma="LN-1_:B_;R_^(Lidové_noviny,_deník)" src="orig">NNFPX-----A---8</AM>
+<AM lemma="LN-1_:B_;K_;R_^(Lidové_noviny)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 </s>
 </mdata>

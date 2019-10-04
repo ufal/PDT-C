@@ -141,7 +141,10 @@
 <LM>w#w-lnd94101-014-p1s2w3</LM>
 </w.rf>
 <form>mj</form>
-<tag lemma="mj-1_:B_^(mimo_jiné)" src="orig" selected="1">Db------------8</tag>
+<tag>
+<AM lemma="mj-1_:B_^(mimo_jiné)" src="orig">Db------------8</AM>
+<AM lemma="mj-1_:B_^(mimo_jiné)" src="manual" selected="1">Db-------------</AM>
+</tag>
 </m>
 <m id="m-lnd94101-014-p1s2w4">
 <src.rf>manual</src.rf>
@@ -228,7 +231,7 @@
 <AM lemma="Prima_;K_^(čes._TV_stanice)" src="auto">NNFS1-----A----</AM>
 <AM lemma="Primo_;Y" src="auto" recommended="1">NNMS2-----A----</AM>
 <AM lemma="Primo_;Y" src="auto">NNMS4-----A----</AM>
-<AM lemma="prima-1" src="auto">NNFS1-----A----</AM>
+<AM lemma="prima-1" src="auto" selected="1">NNFS1-----A----</AM>
 <AM lemma="primum_,s" src="auto">NNNP1-----A----</AM>
 <AM lemma="primum_,s" src="auto">NNNP4-----A----</AM>
 <AM lemma="primum_,s" src="auto">NNNP5-----A----</AM>
@@ -363,7 +366,10 @@
 <LM>w#w-lnd94101-014-p1s3w15</LM>
 </w.rf>
 <form>van</form>
-<tag lemma="vana" src="orig" selected="1">NNFP2-----A----</tag>
+<tag>
+<AM lemma="vana" src="orig">NNFP2-----A----</AM>
+<AM lemma="van-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-lnd94101-014-p1s3w16">
 <src.rf>manual</src.rf>
@@ -371,7 +377,10 @@
 <LM>w#w-lnd94101-014-p1s3w16</LM>
 </w.rf>
 <form>den</form>
-<tag lemma="den_^(jednotka_času)" src="orig" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="den_^(jednotka_času)" src="orig">NNIS1-----A----</AM>
+<AM lemma="den-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-lnd94101-014-p1s3w17">
 <src.rf>manual</src.rf>
@@ -421,7 +430,10 @@
 <LM>w#w-lnd94101-014-p1s4w4</LM>
 </w.rf>
 <form>ČR</form>
-<tag lemma="ČR-1_:B_;G_^(Česká_republika)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd94101-014-p1s4w5">
 <src.rf>manual</src.rf>
@@ -706,7 +718,7 @@
 <tag>
 <AM lemma="l-1`litr" src="orig">NNIS4-----A----</AM>
 <AM lemma="litr" src="auto">NNIS1-----A----</AM>
-<AM lemma="litr" src="auto" recommended="1">NNIS4-----A----</AM>
+<AM lemma="litr" src="auto" recommended="1" selected="1">NNIS4-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94101-014-p1s6w12">

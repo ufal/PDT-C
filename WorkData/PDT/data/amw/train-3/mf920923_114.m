@@ -383,7 +383,10 @@
 <LM>w#w-mf920923-114-p2s2w2</LM>
 </w.rf>
 <form>jen</form>
-<tag lemma="jen-1" src="auto" selected="1">TT-------------</tag>
+<tag>
+<AM lemma="jen-1" src="auto">TT-------------</AM>
+<AM lemma="jen-4_^(pouze)" src="manual" selected="1">Db-------------</AM>
+</tag>
 </m>
 <m id="m-mf920923-114-p2s2w3">
 <src.rf>manual</src.rf>
@@ -681,7 +684,10 @@
 <LM>w#w-mf920923-114-p2s3w4</LM>
 </w.rf>
 <form>Major</form>
-<tag lemma="major" src="orig" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="major" src="orig">NNMS1-----A----</AM>
+<AM lemma="Major_;S" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920923-114-p2s3w5">
 <src.rf>manual</src.rf>
@@ -957,7 +963,7 @@
 <form>nikoli</form>
 <tag>
 <AM lemma="nikoliv" src="orig">Db------------1</AM>
-<AM lemma="nikoli" src="auto" recommended="1">TT-------------</AM>
+<AM lemma="nikoli" src="auto" recommended="1" selected="1">TT-------------</AM>
 </tag>
 </m>
 <m id="m-mf920923-114-p2s4w18">
@@ -1016,7 +1022,10 @@
 <LM>w#w-mf920923-114-p3s1w1</LM>
 </w.rf>
 <form>Der</form>
-<tag lemma="der-1_;K_,t_^(souč._něm._názvů,_např._Der_Spiegel_[člen_m.])" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="der-1_;K_,t_^(souč._něm._názvů,_např._Der_Spiegel_[člen_m.])" src="orig">AAXXX----1A----</AM>
+<AM lemma="Der-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-mf920923-114-p3s1w2">
 <src.rf>manual</src.rf>
@@ -1024,7 +1033,10 @@
 <LM>w#w-mf920923-114-p3s1w2</LM>
 </w.rf>
 <form>Tagesspiegel</form>
-<tag lemma="Tagesspiegel_;R_,t_^(př._něm._noviny)" src="orig" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="Tagesspiegel_;R_,t_^(př._něm._noviny)" src="orig">NNIS1-----A----</AM>
+<AM lemma="Tagesspiegel-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 </s>
 <s id="m-mf920923-114-p4s1">
@@ -1042,7 +1054,10 @@
 <LM>w#w-mf920923-114-p4s1w2</LM>
 </w.rf>
 <form>sice</form>
-<tag lemma="sice-2" src="auto" selected="1">Db-------------</tag>
+<tag>
+<AM lemma="sice-2" src="auto">Db-------------</AM>
+<AM lemma="sice-1_^(spojka;_připouští_se_určitá_fakta)" src="manual" selected="1">J^-------------</AM>
+</tag>
 </m>
 <m id="m-mf920923-114-p4s1w3">
 <src.rf>manual</src.rf>
@@ -1050,7 +1065,10 @@
 <LM>w#w-mf920923-114-p4s1w3</LM>
 </w.rf>
 <form>vyhrála</form>
-<tag lemma="vyhrát" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag>
+<AM lemma="vyhrát" src="orig">VpQW---XR-AA---</AM>
+<AM lemma="vyhrát_:W" src="manual" selected="1">VpQW---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-mf920923-114-p4s1w4">
 <src.rf>manual</src.rf>
@@ -1326,7 +1344,10 @@
 <LM>w#w-mf920923-114-p4s3w10</LM>
 </w.rf>
 <form>Major</form>
-<tag lemma="major" src="orig" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="major" src="orig">NNMS1-----A----</AM>
+<AM lemma="Major_;S" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920923-114-p4s3w11">
 <src.rf>manual</src.rf>
@@ -1454,7 +1475,10 @@
 <LM>w#w-mf920923-114-p4s3w27</LM>
 </w.rf>
 <form>li</form>
-<tag lemma="li-1" src="auto" selected="1">TT-------------</tag>
+<tag>
+<AM lemma="li-1" src="auto">TT-------------</AM>
+<AM lemma="li-2" src="manual" selected="1">J,-------------</AM>
+</tag>
 </m>
 <m id="m-mf920923-114-p4s3w28">
 <src.rf>manual</src.rf>
@@ -1610,7 +1634,7 @@
 <form>nejen</form>
 <tag>
 <AM lemma="nejen" src="orig">TT-------------</AM>
-<AM lemma="nejen" src="auto" recommended="1">Db-------------</AM>
+<AM lemma="nejen" src="auto" recommended="1" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m-mf920923-114-p4s4w16">
@@ -1733,7 +1757,10 @@
 <LM>w#w-mf920923-114-p4s5w1</LM>
 </w.rf>
 <form>Začátkem</form>
-<tag lemma="začátek" src="orig" selected="1">NNIS7-----A----</tag>
+<tag>
+<AM lemma="začátek" src="orig">NNIS7-----A----</AM>
+<AM lemma="začátkem" src="manual" selected="1">RR--2----------</AM>
+</tag>
 </m>
 <m id="m-mf920923-114-p4s5w2">
 <src.rf>manual</src.rf>
@@ -1775,7 +1802,7 @@
 <form>totiž</form>
 <tag>
 <AM lemma="totiž" src="orig">Db-------------</AM>
-<AM lemma="totiž-1" src="auto">J^-------------</AM>
+<AM lemma="totiž-1" src="auto" selected="1">J^-------------</AM>
 <AM lemma="totiž-2" src="auto" recommended="1">TT-------------</AM>
 </tag>
 </m>
@@ -1905,7 +1932,10 @@
 <LM>w#w-mf920923-114-p4s5w22</LM>
 </w.rf>
 <form>ES</form>
-<tag lemma="ES_:B_;K_^(Evropská_společenství)" src="orig" selected="1">NNNXX-----A---8</tag>
+<tag>
+<AM lemma="ES_:B_;K_^(Evropská_společenství)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="ES-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920923-114-p4s5w23">
 <src.rf>manual</src.rf>
@@ -1923,7 +1953,10 @@
 <LM>w#w-mf920923-114-p5s1w1</LM>
 </w.rf>
 <form>Berliner</form>
-<tag lemma="Berliner_;R_,t" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="Berliner_;R_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="Berliner-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-mf920923-114-p5s1w2">
 <src.rf>manual</src.rf>
@@ -1935,6 +1968,7 @@
 <AM lemma="Morgenpost_;R_,t" src="orig">NNIXX-----A----</AM>
 <AM lemma="Morgenpost_;R_,t_^(Prager_Morgenpost,_noviny)" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Morgenpost_;R_,t_^(Prager_Morgenpost,_noviny)" src="auto">NNIS4-----A----</AM>
+<AM lemma="Morgenpost-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 </s>
@@ -2259,7 +2293,10 @@
 <LM>w#w-mf920923-114-p6s2w24</LM>
 </w.rf>
 <form>ES</form>
-<tag lemma="ES_:B_;K_^(Evropská_společenství)" src="orig" selected="1">NNNXX-----A---8</tag>
+<tag>
+<AM lemma="ES_:B_;K_^(Evropská_společenství)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="ES-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920923-114-p6s2w25">
 <src.rf>manual</src.rf>
@@ -2879,7 +2916,7 @@
 <form>přesto</form>
 <tag>
 <AM lemma="přesto" src="orig">Dg-------1A----</AM>
-<AM lemma="přesto-1" src="auto" recommended="1">Db-------------</AM>
+<AM lemma="přesto-1" src="auto" recommended="1" selected="1">Db-------------</AM>
 <AM lemma="přesto-2" src="auto">J^-------------</AM>
 </tag>
 </m>
@@ -2927,6 +2964,7 @@
 <AM lemma="Handelsblatt_;R_,t" src="orig">NNIXX-----A----</AM>
 <AM lemma="Handelsblatt_;R_^(časopis)" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Handelsblatt_;R_^(časopis)" src="auto">NNIS4-----A----</AM>
+<AM lemma="Handelsblatt-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 </s>

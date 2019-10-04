@@ -153,7 +153,10 @@
 <LM>w#w-mf920901-112-p2s2w6</LM>
 </w.rf>
 <form>Andrew</form>
-<tag lemma="Andrew_;Y" src="orig" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Andrew_;Y" src="orig">NNMS1-----A----</AM>
+<AM lemma="Andrew_;Y" src="manual" selected="1">NNMXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920901-112-p2s2w7">
 <src.rf>manual</src.rf>
@@ -809,7 +812,10 @@
 <LM>w#w-mf920901-112-p4s1w8</LM>
 </w.rf>
 <form>nejvíce</form>
-<tag lemma="hodně-2" src="auto" selected="1">Dg-------3A----</tag>
+<tag>
+<AM lemma="hodně-2" src="auto">Dg-------3A----</AM>
+<AM lemma="hodně-3" src="manual" selected="1">Dg-------3A----</AM>
+</tag>
 </m>
 <m id="m-mf920901-112-p4s1w9">
 <src.rf>manual</src.rf>
@@ -987,7 +993,10 @@
 <LM>w#w-mf920901-112-p5s1w6</LM>
 </w.rf>
 <form>Andrew</form>
-<tag lemma="Andrew_;Y" src="orig" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Andrew_;Y" src="orig">NNMS1-----A----</AM>
+<AM lemma="Andrew_;Y" src="manual" selected="1">NNMXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920901-112-p5s1w7">
 <src.rf>manual</src.rf>
@@ -1087,7 +1096,7 @@
 <tag>
 <AM lemma="nalézt" src="orig">VpQW---XR-AA---</AM>
 <AM lemma="nalézt-1_^(někam)" src="auto" recommended="1">VpQW---XR-AA---</AM>
-<AM lemma="nalézt-2" src="auto">VpQW---XR-AA---</AM>
+<AM lemma="nalézt-2" src="auto" selected="1">VpQW---XR-AA---</AM>
 </tag>
 </m>
 <m id="m-mf920901-112-p5s1w19">
@@ -1375,6 +1384,7 @@
 <tag>
 <AM lemma="USA_;G" src="orig">NNIPX-----A----</AM>
 <AM lemma="USA_:B_;K_,t_^(United_States_of_America)" src="auto" recommended="1">NNIPX-----A---8</AM>
+<AM lemma="USA_:B_;K_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-mf920901-112-p6s2w12">

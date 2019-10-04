@@ -51,7 +51,10 @@
 <LM>w#w-ln95045-012-p1s1w5</LM>
 </w.rf>
 <form>SSM</form>
-<tag lemma="SSM-1_:B_;K_^(Socialistický_svaz_mládeže)" src="auto" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="SSM-1_:B_;K_^(Socialistický_svaz_mládeže)" src="auto">NNFXX-----A---8</AM>
+<AM lemma="SSM-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95045-012-p1s1w6">
 <src.rf>manual</src.rf>
@@ -311,7 +314,10 @@
 <LM>w#w-ln95045-012-p2s1Bw27</LM>
 </w.rf>
 <form>AGM</form>
-<tag lemma="AGM-2_:B_;K_^(firma)" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="AGM-2_:B_;K_^(firma)" src="orig">NNXXX-----A---8</AM>
+<AM lemma="AGM-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95045-012-p2s1Bw28">
 <src.rf>manual</src.rf>
@@ -611,7 +617,10 @@
 <LM>w#w-ln95045-012-p3s1w28</LM>
 </w.rf>
 <form>AGM</form>
-<tag lemma="AGM-2_:B_;K_^(firma)" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="AGM-2_:B_;K_^(firma)" src="orig">NNXXX-----A---8</AM>
+<AM lemma="AGM-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95045-012-p3s1w29">
 <src.rf>manual</src.rf>
@@ -765,7 +774,10 @@
 <LM>w#w-ln95045-012-p3s2w18</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-2" src="auto" selected="1">Dg-------2A----</tag>
+<tag>
+<AM lemma="hodně-2" src="auto">Dg-------2A----</AM>
+<AM lemma="hodně-3" src="manual" selected="1">Dg-------2A----</AM>
+</tag>
 </m>
 <m id="m-ln95045-012-p3s2w19">
 <src.rf>manual</src.rf>
@@ -805,7 +817,10 @@
 <LM>w#w-ln95045-012-p3s2w23</LM>
 </w.rf>
 <form>AGM</form>
-<tag lemma="AGM-2_:B_;K_^(firma)" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="AGM-2_:B_;K_^(firma)" src="orig">NNXXX-----A---8</AM>
+<AM lemma="AGM-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95045-012-p3s2w24">
 <src.rf>manual</src.rf>
@@ -961,7 +976,10 @@
 <LM>w#w-ln95045-012-p4s1w4</LM>
 </w.rf>
 <form>J</form>
-<tag lemma="J-0_:B_;Y" src="orig" selected="1">NNMXX-----A---8</tag>
+<tag>
+<AM lemma="J-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
+<AM lemma="J-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95045-012-p4s1w5">
 <src.rf>manual</src.rf>
@@ -985,7 +1003,10 @@
 <LM>w#w-ln95045-012-p4s1w7</LM>
 </w.rf>
 <form>podal</form>
-<tag lemma="podat_:W_^(něco_[někomu]_[někam])" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag>
+<AM lemma="podat_:W_^(něco_[někomu]_[někam])" src="orig">VpYS---XR-AA---</AM>
+<AM lemma="podat_:W" src="manual" selected="1">VpYS---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-ln95045-012-p4s1w8">
 <src.rf>manual</src.rf>
@@ -1073,7 +1094,10 @@
 <LM>w#w-ln95045-012-p4s1w18</LM>
 </w.rf>
 <form>AGM</form>
-<tag lemma="AGM-2_:B_;K_^(firma)" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="AGM-2_:B_;K_^(firma)" src="orig">NNXXX-----A---8</AM>
+<AM lemma="AGM-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95045-012-p4s1w19">
 <src.rf>manual</src.rf>
@@ -1203,7 +1227,10 @@
 <LM>w#w-ln95045-012-p4s2w14</LM>
 </w.rf>
 <form>prostředky</form>
-<tag lemma="prostředek-2_^(způsob,_nástroj)" src="orig" selected="1">NNIP4-----A----</tag>
+<tag>
+<AM lemma="prostředek-2_^(způsob,_nástroj)" src="orig">NNIP4-----A----</AM>
+<AM lemma="prostředek_^(střed,způsob,_nástroj)" src="manual" selected="1">NNIP4-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95045-012-p4s2w15">
 <src.rf>manual</src.rf>
@@ -1367,7 +1394,7 @@
 <form>nezákonně</form>
 <tag>
 <AM lemma="nezákonně_^(*1ý)" src="orig">Dg-------1A----</AM>
-<AM lemma="zákonně_^(*1ý)" src="auto" recommended="1">Dg-------1N----</AM>
+<AM lemma="zákonně_^(*1ý)" src="auto" recommended="1" selected="1">Dg-------1N----</AM>
 </tag>
 </m>
 <m id="m-ln95045-012-p4s3w4">
@@ -1560,7 +1587,10 @@
 <LM>w#w-ln95045-012-p4s3w27</LM>
 </w.rf>
 <form>AGM</form>
-<tag lemma="AGM-2_:B_;K_^(firma)" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="AGM-2_:B_;K_^(firma)" src="orig">NNXXX-----A---8</AM>
+<AM lemma="AGM-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95045-012-p4s3w28">
 <src.rf>manual</src.rf>
@@ -1594,7 +1624,10 @@
 <LM>w#w-ln95045-012-p5s1w3</LM>
 </w.rf>
 <form>AGM</form>
-<tag lemma="AGM-2_:B_;K_^(firma)" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="AGM-2_:B_;K_^(firma)" src="orig">NNXXX-----A---8</AM>
+<AM lemma="AGM-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95045-012-p5s1w4">
 <src.rf>manual</src.rf>
@@ -1620,7 +1653,7 @@
 <form>jakoukoli</form>
 <tag>
 <AM lemma="jakýkoliv" src="orig">PZFS4---------1</AM>
-<AM lemma="jakýkoli" src="auto" recommended="1">PZFS4----------</AM>
+<AM lemma="jakýkoli" src="auto" recommended="1" selected="1">PZFS4----------</AM>
 <AM lemma="jakýkoli" src="auto">PZFS7----------</AM>
 </tag>
 </m>
@@ -1728,7 +1761,10 @@
 <LM>w#w-ln95045-012-p5s2w1</LM>
 </w.rf>
 <form>AGM</form>
-<tag lemma="AGM-2_:B_;K_^(firma)" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="AGM-2_:B_;K_^(firma)" src="orig">NNXXX-----A---8</AM>
+<AM lemma="AGM-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95045-012-p5s2w2">
 <src.rf>manual</src.rf>
@@ -1746,7 +1782,7 @@
 <form>totiž</form>
 <tag>
 <AM lemma="totiž" src="orig">Db-------------</AM>
-<AM lemma="totiž-1" src="auto">J^-------------</AM>
+<AM lemma="totiž-1" src="auto" selected="1">J^-------------</AM>
 <AM lemma="totiž-2" src="auto" recommended="1">TT-------------</AM>
 </tag>
 </m>
@@ -1862,7 +1898,10 @@
 <LM>w#w-ln95045-012-p5s3w1</LM>
 </w.rf>
 <form>AGM</form>
-<tag lemma="AGM-2_:B_;K_^(firma)" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="AGM-2_:B_;K_^(firma)" src="orig">NNXXX-----A---8</AM>
+<AM lemma="AGM-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95045-012-p5s3w2">
 <src.rf>manual</src.rf>
@@ -1968,7 +2007,10 @@
 <LM>w#w-ln95045-012-p5s4w4</LM>
 </w.rf>
 <form>prostředků</form>
-<tag lemma="prostředek-2_^(způsob,_nástroj)" src="orig" selected="1">NNIP2-----A----</tag>
+<tag>
+<AM lemma="prostředek-2_^(způsob,_nástroj)" src="orig">NNIP2-----A----</AM>
+<AM lemma="prostředek_^(střed,způsob,_nástroj)" src="manual" selected="1">NNIP2-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95045-012-p5s4w5">
 <src.rf>manual</src.rf>
@@ -1984,7 +2026,10 @@
 <LM>w#w-ln95045-012-p5s4w6</LM>
 </w.rf>
 <form>AGM</form>
-<tag lemma="AGM-2_:B_;K_^(firma)" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="AGM-2_:B_;K_^(firma)" src="orig">NNXXX-----A---8</AM>
+<AM lemma="AGM-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95045-012-p5s4w7">
 <src.rf>manual</src.rf>
@@ -2072,7 +2117,10 @@
 <LM>w#w-ln95045-012-p5s4w17</LM>
 </w.rf>
 <form>řekl</form>
-<tag lemma="říci" src="auto" selected="1">VpYS---XR-AA---</tag>
+<tag>
+<AM lemma="říci" src="auto">VpYS---XR-AA---</AM>
+<AM lemma="říci_:W" src="manual" selected="1">VpYS---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-ln95045-012-p5s4w18">
 <src.rf>manual</src.rf>

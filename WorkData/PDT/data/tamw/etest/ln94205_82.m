@@ -288,7 +288,10 @@
 <LM>w#w-ln94205-82-p2s1Bw26</LM>
 </w.rf>
 <form>FIS</form>
-<tag lemma="FIS_:B_;K" src="auto" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="FIS_:B_;K" src="auto">NNFXX-----A---8</AM>
+<AM lemma="FIS-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94205-82-p2s1Bw27">
 <src.rf>manual</src.rf>
@@ -412,7 +415,7 @@
 <form>Faso</form>
 <tag>
 <AM lemma="Faso_;G" src="orig">NNNXX-----A----</AM>
-<AM lemma="Faso_;G" src="auto" recommended="1">NNNS1-----A----</AM>
+<AM lemma="Faso_;G" src="auto" recommended="1" selected="1">NNNS1-----A----</AM>
 <AM lemma="Faso_;G" src="auto">NNNS5-----A----</AM>
 </tag>
 </m>
@@ -464,7 +467,10 @@
 <LM>w#w-ln94205-82-p2s3w5</LM>
 </w.rf>
 <form>FIS</form>
-<tag lemma="FIS_:B_;K" src="auto" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="FIS_:B_;K" src="auto">NNFXX-----A---8</AM>
+<AM lemma="FIS-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94205-82-p2s3w6">
 <src.rf>manual</src.rf>
@@ -674,7 +680,10 @@
 <LM>w#w-ln94205-82-p2s4w3</LM>
 </w.rf>
 <form>Lamín</form>
-<tag lemma="Lamín_;S" src="auto" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Lamín_;S" src="auto">NNMS1-----A----</AM>
+<AM lemma="Lamín_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94205-82-p2s4w4">
 <src.rf>manual</src.rf>
@@ -826,7 +835,10 @@
 <LM>w#w-ln94205-82-p2s4w22</LM>
 </w.rf>
 <form>Umarem</form>
-<tag lemma="Umar_;Y_,t" src="orig" selected="1">NNMS7-----A----</tag>
+<tag>
+<AM lemma="Umar_;Y_,t" src="orig">NNMS7-----A----</AM>
+<AM lemma="Umar_;Y" src="manual" selected="1">NNMS7-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94205-82-p2s4w23">
 <src.rf>manual</src.rf>
@@ -980,7 +992,10 @@
 <LM>w#w-ln94205-82-p2s5w17</LM>
 </w.rf>
 <form>FIS</form>
-<tag lemma="FIS_:B_;K" src="auto" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="FIS_:B_;K" src="auto">NNFXX-----A---8</AM>
+<AM lemma="FIS-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94205-82-p2s5w18">
 <src.rf>manual</src.rf>

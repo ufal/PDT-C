@@ -297,7 +297,10 @@
 <LM>w#w-ln95049-119-p2s2w11</LM>
 </w.rf>
 <form>Marek</form>
-<tag lemma="Marek_;Y" src="orig" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Marek_;Y" src="orig">NNMS1-----A----</AM>
+<AM lemma="Marek_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95049-119-p2s2w12">
 <src.rf>manual</src.rf>
@@ -430,7 +433,7 @@
 <form>nalezena</form>
 <tag>
 <AM lemma="naleznout" src="orig">VsQW---XX-AP---</AM>
-<AM lemma="nalézt-2" src="auto" recommended="1">VsQW---XX-AP---</AM>
+<AM lemma="nalézt-2" src="auto" recommended="1" selected="1">VsQW---XX-AP---</AM>
 </tag>
 </m>
 <m id="m-ln95049-119-p2s3w16">
@@ -619,7 +622,10 @@
 <LM>w#w-ln95049-119-p3s2w4</LM>
 </w.rf>
 <form>Marka</form>
-<tag lemma="Marek_;Y" src="orig" selected="1">NNMS2-----A----</tag>
+<tag>
+<AM lemma="Marek_;Y" src="orig">NNMS2-----A----</AM>
+<AM lemma="Marek_;S_;Y" src="manual" selected="1">NNMS2-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95049-119-p3s2w5">
 <src.rf>manual</src.rf>
@@ -757,7 +763,10 @@
 <LM>w#w-ln95049-119-p3s3w10</LM>
 </w.rf>
 <form>ČR</form>
-<tag lemma="ČR-1_:B_;G_^(Česká_republika)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95049-119-p3s3w11">
 <src.rf>manual</src.rf>
@@ -1181,7 +1190,10 @@
 <LM>w#w-ln95049-119-p5s1w1</LM>
 </w.rf>
 <form>Loni</form>
-<tag lemma="vloni_,h" src="orig" selected="1">Db------------1</tag>
+<tag>
+<AM lemma="vloni_,h" src="orig">Db------------1</AM>
+<AM lemma="loni" src="manual" selected="1">Db-------------</AM>
+</tag>
 </m>
 <m id="m-ln95049-119-p5s1w2">
 <src.rf>manual</src.rf>

@@ -169,7 +169,10 @@
 <LM>w#w-ln95044-036-p2s2w5</LM>
 </w.rf>
 <form>Juventusu</form>
-<tag lemma="Juventus" src="orig" selected="1">NNIS2-----A----</tag>
+<tag>
+<AM lemma="Juventus" src="orig">NNIS2-----A----</AM>
+<AM lemma="Juventus_;K" src="manual" selected="1">NNIS2-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95044-036-p2s2w6">
 <src.rf>manual</src.rf>
@@ -591,7 +594,10 @@
 <LM>w#w-ln95044-036-p2s5w6</LM>
 </w.rf>
 <form>Juventus</form>
-<tag lemma="Juventus" src="orig" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="Juventus" src="orig">NNIS1-----A----</AM>
+<AM lemma="Juventus_;K" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95044-036-p2s5w7">
 <src.rf>manual</src.rf>

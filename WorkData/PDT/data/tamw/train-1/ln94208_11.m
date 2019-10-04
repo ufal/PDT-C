@@ -51,7 +51,10 @@
 <LM>w#w-ln94208-11-p1s1w5</LM>
 </w.rf>
 <form>J</form>
-<tag lemma="J-0_:B_;Y" src="orig" selected="1">NNMXX-----A---8</tag>
+<tag>
+<AM lemma="J-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
+<AM lemma="J-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94208-11-p1s1w6">
 <src.rf>manual</src.rf>
@@ -67,7 +70,10 @@
 <LM>w#w-ln94208-11-p1s1w7</LM>
 </w.rf>
 <form>A</form>
-<tag lemma="A-0_:B_;Y" src="orig" selected="1">NNMXX-----A---8</tag>
+<tag>
+<AM lemma="A-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
+<AM lemma="A-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94208-11-p1s1w8">
 <src.rf>manual</src.rf>
@@ -329,7 +335,10 @@
 <LM>w#w-ln94208-11-p2s2w3</LM>
 </w.rf>
 <form>víc</form>
-<tag lemma="hodně-2" src="auto" selected="1">Dg-------2A---1</tag>
+<tag>
+<AM lemma="hodně-2" src="auto">Dg-------2A---1</AM>
+<AM lemma="více_^(více_+_2._p.,_více_peněz)" src="manual" selected="1">Ca--1---------1</AM>
+</tag>
 </m>
 <m id="m-ln94208-11-p2s2w4">
 <src.rf>manual</src.rf>
@@ -363,7 +372,10 @@
 <LM>w#w-ln94208-11-p2s3w3</LM>
 </w.rf>
 <form>enfant</form>
-<tag lemma="enfant_,t" src="auto" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="enfant_,t" src="auto">NNMS1-----A----</AM>
+<AM lemma="enfant-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94208-11-p2s3w4">
 <src.rf>manual</src.rf>
@@ -371,7 +383,10 @@
 <LM>w#w-ln94208-11-p2s3w4</LM>
 </w.rf>
 <form>terrible</form>
-<tag lemma="terrible-1_,t_^(pouze_ve_spojení_enfant_teribble)" src="orig" selected="1">NNNXX-----A----</tag>
+<tag>
+<AM lemma="terrible-1_,t_^(pouze_ve_spojení_enfant_teribble)" src="orig">NNNXX-----A----</AM>
+<AM lemma="terrible-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94208-11-p2s3w5">
 <src.rf>manual</src.rf>
@@ -529,6 +544,7 @@
 <AM lemma="Káhira_;G_,x_,t" src="orig">NNNS6-----A----</AM>
 <AM lemma="Cairo_,t_,x" src="auto">NNNS3-----A----</AM>
 <AM lemma="Cairo_,t_,x" src="auto" recommended="1">NNNS6-----A----</AM>
+<AM lemma="Cairo_;G" src="manual" selected="1">NNNS6-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94208-11-p2s4w5">
@@ -979,7 +995,10 @@
 <LM>w#w-ln94208-11-p3s1w2</LM>
 </w.rf>
 <form>A</form>
-<tag lemma="A-0_:B_;Y" src="orig" selected="1">NNMXX-----A---8</tag>
+<tag>
+<AM lemma="A-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
+<AM lemma="A-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94208-11-p3s1w3">
 <src.rf>manual</src.rf>
@@ -1618,7 +1637,13 @@
 <AM lemma="teorie" src="auto">NNFS1-----A----</AM>
 <AM lemma="teorie" src="auto" recommended="1">NNFS2-----A----</AM>
 <AM lemma="teorie" src="auto">NNFS5-----A----</AM>
+<AM lemma="Theorie-77" src="manual" selected="1">F%-------------</AM>
 </tag>
+<comment>
+<LM type="Other">
+<text>nechána původní "červená" analýza</text>
+</LM>
+</comment>
 </m>
 <m id="m-ln94208-11-p3s4w28">
 <src.rf>manual</src.rf>
@@ -1626,7 +1651,10 @@
 <LM>w#w-ln94208-11-p3s4w28</LM>
 </w.rf>
 <form>der</form>
-<tag lemma="der-1_;K_,t_^(souč._něm._názvů,_např._Der_Spiegel_[člen_m.])" src="auto" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="der-1_;K_,t_^(souč._něm._názvů,_např._Der_Spiegel_[člen_m.])" src="auto">AAXXX----1A----</AM>
+<AM lemma="der-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94208-11-p3s4w29">
 <src.rf>manual</src.rf>
@@ -1634,7 +1662,10 @@
 <LM>w#w-ln94208-11-p3s4w29</LM>
 </w.rf>
 <form>wirtshaftlichen</form>
-<tag lemma="wirtshaftlichen_;R_,t" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="wirtshaftlichen_;R_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="wirtshaftlichen-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94208-11-p3s4w30">
 <src.rf>manual</src.rf>
@@ -1642,7 +1673,10 @@
 <LM>w#w-ln94208-11-p3s4w30</LM>
 </w.rf>
 <form>Entwicklung</form>
-<tag lemma="Entwicklung_;R_,t" src="orig" selected="1">NNFXX-----A----</tag>
+<tag>
+<AM lemma="Entwicklung_;R_,t" src="orig">NNFXX-----A----</AM>
+<AM lemma="Entwicklung-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94208-11-p3s4w31">
 <src.rf>manual</src.rf>
@@ -1952,7 +1986,7 @@
 <form>ryze</form>
 <tag>
 <AM lemma="ryzí" src="orig">Dg-------1A----</AM>
-<AM lemma="ryze" src="auto" recommended="1">Dg-------1A----</AM>
+<AM lemma="ryze" src="auto" recommended="1" selected="1">Dg-------1A----</AM>
 </tag>
 </m>
 <m id="m-ln94208-11-p3s6w22">
@@ -2642,7 +2676,10 @@
 <LM>w#w-ln94208-11-p3s10w19</LM>
 </w.rf>
 <form>jen</form>
-<tag lemma="jen-1" src="auto" selected="1">TT-------------</tag>
+<tag>
+<AM lemma="jen-1" src="auto">TT-------------</AM>
+<AM lemma="jen-4_^(pouze)" src="manual" selected="1">Db-------------</AM>
+</tag>
 </m>
 <m id="m-ln94208-11-p3s10w20">
 <src.rf>manual</src.rf>
@@ -2936,7 +2973,7 @@
 <form>nikoliv</form>
 <tag>
 <AM lemma="nikoliv" src="orig">Db-------------</AM>
-<AM lemma="nikoli" src="auto" recommended="1">TT------------1</AM>
+<AM lemma="nikoli" src="auto" recommended="1" selected="1">TT------------1</AM>
 </tag>
 </m>
 <m id="m-ln94208-11-p3s12w11">
@@ -3707,7 +3744,10 @@
 <LM>w#w-ln94208-11-p3s17w4</LM>
 </w.rf>
 <form>difusního</form>
-<tag lemma="difusní" src="orig" selected="1">AAIS2----1A----</tag>
+<tag>
+<AM lemma="difusní" src="orig">AAIS2----1A----</AM>
+<AM lemma="difusní_,s_^(^DD**difuzní)" src="manual" selected="1">AAIS2----1A----</AM>
+</tag>
 </m>
 <m id="m-ln94208-11-p3s17w5">
 <src.rf>manual</src.rf>
@@ -4543,7 +4583,7 @@
 <form>Marxovi</form>
 <tag>
 <AM lemma="Marx_;S" src="orig">NNMS3-----A----</AM>
-<AM lemma="Marx_;S" src="auto" recommended="1">NNMS3-----A---1</AM>
+<AM lemma="Marx_;S" src="auto" recommended="1" selected="1">NNMS3-----A---1</AM>
 <AM lemma="Marx_;S" src="auto">NNMS6-----A---1</AM>
 <AM lemma="Marxův_;S_^(*2)" src="auto">AUMP1M---------</AM>
 <AM lemma="Marxův_;S_^(*2)" src="auto">AUMP5M---------</AM>
@@ -4637,6 +4677,7 @@
 <AM lemma="kapitalismus" src="auto" recommended="1">NNIS2-----A----</AM>
 <AM lemma="kapitalismus" src="auto">NNIS3-----A----</AM>
 <AM lemma="kapitalismus" src="auto">NNIS6-----A----</AM>
+<AM lemma="kapitalismus_,s_^(^DD**kapitalizmus)" src="manual" selected="1">NNIS2-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94208-11-p3s23w6">
@@ -4717,6 +4758,7 @@
 <AM lemma="kapitalismus" src="auto" recommended="1">NNIS2-----A----</AM>
 <AM lemma="kapitalismus" src="auto">NNIS3-----A----</AM>
 <AM lemma="kapitalismus" src="auto">NNIS6-----A----</AM>
+<AM lemma="kapitalismus_,s_^(^DD**kapitalizmus)" src="manual" selected="1">NNIS2-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94208-11-p3s23w15">
@@ -4749,6 +4791,7 @@
 <AM lemma="kapitalismus" src="auto" recommended="1">NNIS2-----A----</AM>
 <AM lemma="kapitalismus" src="auto">NNIS3-----A----</AM>
 <AM lemma="kapitalismus" src="auto">NNIS6-----A----</AM>
+<AM lemma="kapitalismus_,s_^(^DD**kapitalizmus)" src="manual" selected="1">NNIS2-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94208-11-p3s23w18">
@@ -5129,7 +5172,10 @@
 <LM>w#w-ln94208-11-p3s25w21</LM>
 </w.rf>
 <form>spíš</form>
-<tag lemma="spíše" src="orig" selected="1">Dg-------2A----</tag>
+<tag>
+<AM lemma="spíše" src="orig">Dg-------2A----</AM>
+<AM lemma="spíš" src="manual" selected="1">TT-------------</AM>
+</tag>
 </m>
 <m id="m-ln94208-11-p3s25w22">
 <src.rf>manual</src.rf>
@@ -5238,7 +5284,7 @@
 <tag>
 <AM lemma="starost" src="orig">NNFP4-----A----</AM>
 <AM lemma="starost-1" src="auto">NNFP1-----A----</AM>
-<AM lemma="starost-1" src="auto" recommended="1">NNFP4-----A----</AM>
+<AM lemma="starost-1" src="auto" recommended="1" selected="1">NNFP4-----A----</AM>
 <AM lemma="starost-1" src="auto">NNFP5-----A----</AM>
 <AM lemma="starost-1" src="auto">NNFS2-----A----</AM>
 <AM lemma="starost-1" src="auto">NNFS3-----A----</AM>
@@ -5363,7 +5409,10 @@
 <LM>w#w-ln94208-11-p3s26w18</LM>
 </w.rf>
 <form>Capitalism</form>
-<tag lemma="Capitalism_;R_,t" src="orig" selected="1">NNIXX-----A----</tag>
+<tag>
+<AM lemma="Capitalism_;R_,t" src="orig">NNIXX-----A----</AM>
+<AM lemma="Capitalism-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94208-11-p3s26w19">
 <src.rf>manual</src.rf>
@@ -5383,7 +5432,13 @@
 <AM lemma="Socialism_;R_,t" src="orig">NNIXX-----A----</AM>
 <AM lemma="socialismus" src="auto" recommended="1">NNIS1-----A---1</AM>
 <AM lemma="socialismus" src="auto">NNIS4-----A---1</AM>
+<AM lemma="Socialism-77" src="manual" selected="1">F%-------------</AM>
 </tag>
+<comment>
+<LM type="Other">
+<text>ponechána původní "červená" analýza</text>
+</LM>
+</comment>
 </m>
 <m id="m-ln94208-11-p3s26w21">
 <src.rf>manual</src.rf>
@@ -5391,7 +5446,10 @@
 <LM>w#w-ln94208-11-p3s26w21</LM>
 </w.rf>
 <form>and</form>
-<tag lemma="and-1_,t_^(obv._souč._anglických_názvů,_&quot;a&quot;)" src="auto" selected="1">J^-------------</tag>
+<tag>
+<AM lemma="and-1_,t_^(obv._souč._anglických_názvů,_&quot;a&quot;)" src="auto">J^-------------</AM>
+<AM lemma="and-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94208-11-p3s26w22">
 <src.rf>manual</src.rf>
@@ -5399,7 +5457,10 @@
 <LM>w#w-ln94208-11-p3s26w22</LM>
 </w.rf>
 <form>Democracy</form>
-<tag lemma="Democracy_;R_,t" src="orig" selected="1">NNFXX-----A----</tag>
+<tag>
+<AM lemma="Democracy_;R_,t" src="orig">NNFXX-----A----</AM>
+<AM lemma="Democracy-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94208-11-p3s26w23">
 <src.rf>manual</src.rf>
@@ -5747,7 +5808,10 @@
 <LM>w#w-ln94208-11-p3s28w8</LM>
 </w.rf>
 <form>víc</form>
-<tag lemma="hodně-2" src="auto" selected="1">Dg-------2A---1</tag>
+<tag>
+<AM lemma="hodně-2" src="auto">Dg-------2A---1</AM>
+<AM lemma="hodně-3" src="manual" selected="1">Dg-------2A---1</AM>
+</tag>
 </m>
 <m id="m-ln94208-11-p3s28w9">
 <src.rf>manual</src.rf>
@@ -5811,7 +5875,10 @@
 <LM>w#w-ln94208-11-p3s28w16</LM>
 </w.rf>
 <form>li</form>
-<tag lemma="li-1" src="auto" selected="1">TT-------------</tag>
+<tag>
+<AM lemma="li-1" src="auto">TT-------------</AM>
+<AM lemma="li-2" src="manual" selected="1">J,-------------</AM>
+</tag>
 </m>
 <m id="m-ln94208-11-p3s28w17">
 <src.rf>manual</src.rf>
@@ -5819,7 +5886,10 @@
 <LM>w#w-ln94208-11-p3s28w17</LM>
 </w.rf>
 <form>jen</form>
-<tag lemma="jen-1" src="auto" selected="1">TT-------------</tag>
+<tag>
+<AM lemma="jen-1" src="auto">TT-------------</AM>
+<AM lemma="jen-4_^(pouze)" src="manual" selected="1">Db-------------</AM>
+</tag>
 </m>
 <m id="m-ln94208-11-p3s28w18">
 <src.rf>manual</src.rf>
@@ -6635,6 +6705,7 @@
 <AM lemma="kapitalizmus" src="auto">NNIS4-----A----</AM>
 <AM lemma="kapitalismus" src="auto">NNIS1-----A----</AM>
 <AM lemma="kapitalismus" src="auto" recommended="1">NNIS4-----A----</AM>
+<AM lemma="kapitalismus_,s_^(^DD**kapitalizmus)" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94208-11-p3s33w13">
@@ -6663,6 +6734,7 @@
 <AM lemma="socializmus" src="orig">NNIS1-----A---1</AM>
 <AM lemma="socialismus" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="socialismus" src="auto">NNIS4-----A----</AM>
+<AM lemma="socialismus_,s_^(^DD**socializmus)" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94208-11-p3s33w16">
@@ -6837,6 +6909,7 @@
 <AM lemma="socializmus" src="orig">NNIS1-----A---1</AM>
 <AM lemma="socialismus" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="socialismus" src="auto">NNIS4-----A----</AM>
+<AM lemma="socialismus_,s_^(^DD**socializmus)" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94208-11-p3s34w16">
@@ -6995,7 +7068,7 @@
 <form>Přesto</form>
 <tag>
 <AM lemma="přesto" src="orig">Dg-------1A----</AM>
-<AM lemma="přesto-1" src="auto">Db-------------</AM>
+<AM lemma="přesto-1" src="auto" selected="1">Db-------------</AM>
 <AM lemma="přesto-2" src="auto" recommended="1">J^-------------</AM>
 </tag>
 </m>
@@ -7069,6 +7142,7 @@
 <AM lemma="kapitalizmus" src="auto">NNIS4-----A----</AM>
 <AM lemma="kapitalismus" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="kapitalismus" src="auto">NNIS4-----A----</AM>
+<AM lemma="kapitalismus_,s_^(^DD**kapitalizmus)" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94208-11-p4s3w2">
@@ -7379,7 +7453,7 @@
 <form>nevyhnutelně</form>
 <tag>
 <AM lemma="nevyhnutelně_^(*6out)" src="orig">Dg-------1A----</AM>
-<AM lemma="vyhnutelně_^(*1ý)" src="auto" recommended="1">Dg-------1N----</AM>
+<AM lemma="vyhnutelně_^(*1ý)" src="auto" recommended="1" selected="1">Dg-------1N----</AM>
 </tag>
 </m>
 <m id="m-ln94208-11-p4s5w22">
@@ -7428,6 +7502,7 @@
 <AM lemma="kapitalizmus" src="auto">NNIS4-----A----</AM>
 <AM lemma="kapitalismus" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="kapitalismus" src="auto">NNIS4-----A----</AM>
+<AM lemma="kapitalismus_,s_^(^DD**kapitalizmus)" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94208-11-p4s6w2">
@@ -7542,7 +7617,10 @@
 <LM>w#w-ln94208-11-p4s7w8</LM>
 </w.rf>
 <form>zejména</form>
-<tag lemma="zejména-1" src="auto" selected="1">Db-------------</tag>
+<tag>
+<AM lemma="zejména-1" src="auto">Db-------------</AM>
+<AM lemma="zejména-2" src="manual" selected="1">TT-------------</AM>
+</tag>
 </m>
 <m id="m-ln94208-11-p4s7w9">
 <src.rf>manual</src.rf>
@@ -7770,6 +7848,7 @@
 <AM lemma="kapitalismus" src="auto" recommended="1">NNIS2-----A----</AM>
 <AM lemma="kapitalismus" src="auto">NNIS3-----A----</AM>
 <AM lemma="kapitalismus" src="auto">NNIS6-----A----</AM>
+<AM lemma="kapitalismus_,s_^(^DD**kapitalizmus)" src="manual" selected="1">NNIS2-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94208-11-p5s1w9">
@@ -7856,6 +7935,7 @@
 <AM lemma="kapitalizmus" src="auto">NNIS4-----A----</AM>
 <AM lemma="kapitalismus" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="kapitalismus" src="auto">NNIS4-----A----</AM>
+<AM lemma="kapitalismus_,s_^(^DD**kapitalizmus)" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94208-11-p5s1w19">
@@ -8140,6 +8220,7 @@
 <AM lemma="kapitalizmus" src="auto">NNIS4-----A----</AM>
 <AM lemma="kapitalismus" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="kapitalismus" src="auto">NNIS4-----A----</AM>
+<AM lemma="kapitalismus_,s_^(^DD**kapitalizmus)" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94208-11-p5s4w7">
@@ -8160,6 +8241,8 @@
 <AM lemma="racionalizmus" src="orig">NNIS1-----A---1</AM>
 <AM lemma="racionalismus" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="racionalismus" src="auto">NNIS4-----A----</AM>
+<AM lemma="racionalismus_,s_^(^racionalizmus)" src="manual">NNIS1-----A----</AM>
+<AM lemma="racionalismus_,s_^(^DD**racionalizmus)" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94208-11-p5s4w9">
@@ -8640,7 +8723,11 @@
 <LM>w#w-ln94208-11-p5s8w7</LM>
 </w.rf>
 <form>super</form>
-<tag lemma="super_,h_,t" src="auto" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="super_,h_,t" src="auto">AAXXX----1A----</AM>
+<AM lemma="super_,h_,t" src="manual">A2--------A----</AM>
+<AM lemma="super" src="manual" selected="1">A2--------A----</AM>
+</tag>
 </m>
 <m id="m-ln94208-11-p5s8w8">
 <src.rf>manual</src.rf>
@@ -8667,6 +8754,7 @@
 <tag>
 <AM lemma="sub_,t" src="orig">A2--------A----</AM>
 <AM lemma="sub" src="auto" recommended="1">NNNXX-----A----</AM>
+<AM lemma="sub-2" src="manual" selected="1">A2--------A----</AM>
 </tag>
 </m>
 <m id="m-ln94208-11-p5s8w11">
@@ -8691,7 +8779,10 @@
 <LM>w#w-ln94208-11-p5s8w13</LM>
 </w.rf>
 <form>impulzy</form>
-<tag lemma="impuls" src="orig" selected="1">NNIP4-----A----</tag>
+<tag>
+<AM lemma="impuls" src="orig">NNIP4-----A----</AM>
+<AM lemma="impulz" src="manual" selected="1">NNIP4-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94208-11-p5s8w14">
 <src.rf>manual</src.rf>
@@ -8717,7 +8808,10 @@
 <LM>w#w-ln94208-11-p5s9w2</LM>
 </w.rf>
 <form>jen</form>
-<tag lemma="jen-1" src="auto" selected="1">TT-------------</tag>
+<tag>
+<AM lemma="jen-1" src="auto">TT-------------</AM>
+<AM lemma="jen-4_^(pouze)" src="manual" selected="1">Db-------------</AM>
+</tag>
 </m>
 <m id="m-ln94208-11-p5s9w3">
 <src.rf>manual</src.rf>
@@ -8976,7 +9070,10 @@
 <LM>w#w-ln94208-11-p5s10w19</LM>
 </w.rf>
 <form>impulsy</form>
-<tag lemma="impuls" src="orig" selected="1">NNIP1-----A----</tag>
+<tag>
+<AM lemma="impuls" src="orig">NNIP1-----A----</AM>
+<AM lemma="impuls_,s_^(^DD**impulz)" src="manual" selected="1">NNIP1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94208-11-p5s10w20">
 <src.rf>manual</src.rf>
@@ -9074,7 +9171,10 @@
 <LM>w#w-ln94208-11-p5s11w9</LM>
 </w.rf>
 <form>jen</form>
-<tag lemma="jen-1" src="auto" selected="1">TT-------------</tag>
+<tag>
+<AM lemma="jen-1" src="auto">TT-------------</AM>
+<AM lemma="jen-4_^(pouze)" src="manual" selected="1">Db-------------</AM>
+</tag>
 </m>
 <m id="m-ln94208-11-p5s11w10">
 <src.rf>manual</src.rf>
@@ -9428,6 +9528,7 @@
 <AM lemma="kapitalizmus" src="auto">NNIS4-----A----</AM>
 <AM lemma="kapitalismus" src="auto">NNIS1-----A----</AM>
 <AM lemma="kapitalismus" src="auto" recommended="1">NNIS4-----A----</AM>
+<AM lemma="kapitalismus_,s_^(^DD**kapitalizmus)" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94208-11-p5s13w3">
@@ -10070,7 +10171,7 @@
 <form>ovšem</form>
 <tag>
 <AM lemma="ovšem-1_^(avšak,_však;_odporovací_spojka)" src="orig">J^-------------</AM>
-<AM lemma="ovšem" src="auto" recommended="1">TT-------------</AM>
+<AM lemma="ovšem" src="auto" recommended="1" selected="1">TT-------------</AM>
 </tag>
 </m>
 <m id="m-ln94208-11-p5s17w6">
@@ -10188,6 +10289,7 @@
 <AM lemma="these_,a" src="auto" recommended="1">NNFS3-----A----</AM>
 <AM lemma="these_,a" src="auto">NNFS4-----A----</AM>
 <AM lemma="these_,a" src="auto">NNFS6-----A----</AM>
+<AM lemma="these_,a_^(^DD**teze)" src="manual" selected="1">NNFS3-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94208-11-p5s17w20">
@@ -10303,7 +10405,10 @@
 <LM>w#w-ln94208-11-p5s18w1</LM>
 </w.rf>
 <form>Diskuse</form>
-<tag lemma="diskuse" src="orig" selected="1">NNFS1-----A----</tag>
+<tag>
+<AM lemma="diskuse" src="orig">NNFS1-----A----</AM>
+<AM lemma="diskuse_,s_^(^DD**diskuze)" src="manual" selected="1">NNFS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94208-11-p5s18w2">
 <src.rf>manual</src.rf>
@@ -11383,6 +11488,7 @@
 <AM lemma="Business_;R_,t" src="orig">AAXXX----1A----</AM>
 <AM lemma="business_,t" src="auto">NNIS1-----A----</AM>
 <AM lemma="business_,t" src="auto" recommended="1">NNIS4-----A----</AM>
+<AM lemma="Business-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-ln94208-11-p6s6w4">
@@ -11391,7 +11497,10 @@
 <LM>w#w-ln94208-11-p6s6w4</LM>
 </w.rf>
 <form>Cycles</form>
-<tag lemma="Cycles_;R_,t" src="orig" selected="1">NNIPX-----A----</tag>
+<tag>
+<AM lemma="Cycles_;R_,t" src="orig">NNIPX-----A----</AM>
+<AM lemma="Cycles-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94208-11-p6s6w5">
 <src.rf>manual</src.rf>
@@ -12163,7 +12272,7 @@
 <AM lemma="Harvard-1_;S" src="auto">NNMS6-----A---1</AM>
 <AM lemma="Harvard-2_;K" src="auto">NNIS2-----A----</AM>
 <AM lemma="Harvard-2_;K" src="auto">NNIS3-----A----</AM>
-<AM lemma="Harvard-2_;K" src="auto">NNIS6-----A----</AM>
+<AM lemma="Harvard-2_;K" src="auto" selected="1">NNIS6-----A----</AM>
 <AM lemma="harvard" src="auto">NNIS2-----A----</AM>
 <AM lemma="harvard" src="auto">NNIS3-----A----</AM>
 <AM lemma="harvard" src="auto" recommended="1">NNIS6-----A----</AM>
@@ -12747,7 +12856,10 @@
 <LM>w#w-ln94208-11-p7s4w26</LM>
 </w.rf>
 <form>diskusí</form>
-<tag lemma="diskuse" src="orig" selected="1">NNFS7-----A----</tag>
+<tag>
+<AM lemma="diskuse" src="orig">NNFS7-----A----</AM>
+<AM lemma="diskuse_,s_^(^DD**diskuze)" src="manual" selected="1">NNFS7-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94208-11-p7s4w27">
 <src.rf>manual</src.rf>

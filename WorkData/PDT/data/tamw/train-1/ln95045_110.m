@@ -26,6 +26,9 @@
 <AM lemma="top-2" src="auto">NNIS4-----A----</AM>
 <AM lemma="topit_:T" src="auto">Vi-S---2--A----</AM>
 <AM lemma="topit_:T" src="auto">Vi-S---3--A---4</AM>
+<AM lemma="top-3_,t" src="manual">AAXXX----1A----</AM>
+<AM lemma="TOP-77" src="manual">F%-------------</AM>
+<AM lemma="Top-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-ln95045-110-p1s1w2">
@@ -311,7 +314,10 @@
 <LM>w#w-ln95045-110-p2s1Bw29</LM>
 </w.rf>
 <form>Czech</form>
-<tag lemma="Czech-2_,t" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="Czech-2_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="Czech-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln95045-110-p2s1Bw30">
 <src.rf>manual</src.rf>
@@ -326,6 +332,8 @@
 <AM lemma="top-2" src="auto">NNIS4-----A----</AM>
 <AM lemma="topit_:T" src="auto">Vi-S---2--A----</AM>
 <AM lemma="topit_:T" src="auto">Vi-S---3--A---4</AM>
+<AM lemma="top-3_,t" src="manual">AAXXX----1A----</AM>
+<AM lemma="Top-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-ln95045-110-p2s1Bw31">
@@ -445,6 +453,8 @@
 <AM lemma="Ing-1_:B_^(inženýr)" src="auto">NNMXX-----A---8</AM>
 <AM lemma="Ing-2_:B_^(inženýrka)" src="auto" recommended="1">NNFXX-----A---8</AM>
 <AM lemma="Inga_;G" src="auto">NNFP2-----A----</AM>
+<AM lemma="ING_:B" src="manual">NNXXX-----A---8</AM>
+<AM lemma="ING-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95045-110-p2s2w13">
@@ -453,7 +463,10 @@
 <LM>w#w-ln95045-110-p2s2w13</LM>
 </w.rf>
 <form>Bank</form>
-<tag lemma="Bank-1_;K_,t_^(v_cizojaz._názvech_bank)" src="orig" selected="1">NNFXX-----A----</tag>
+<tag>
+<AM lemma="Bank-1_;K_,t_^(v_cizojaz._názvech_bank)" src="orig">NNFXX-----A----</AM>
+<AM lemma="Bank-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln95045-110-p2s2w14">
 <src.rf>manual</src.rf>
@@ -849,7 +862,10 @@
 <LM>w#w-ln95045-110-p3s2w4</LM>
 </w.rf>
 <form>VŠE</form>
-<tag lemma="VŠE_:B_;K_^(Vysoká_škola_ekonomická)" src="auto" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="VŠE_:B_;K_^(Vysoká_škola_ekonomická)" src="auto">NNFXX-----A---8</AM>
+<AM lemma="VŠE_:B_;K_^(Vysoká_škola_ekonomická)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95045-110-p3s2w5">
 <src.rf>manual</src.rf>
@@ -897,7 +913,10 @@
 <LM>w#w-ln95045-110-p3s2w10</LM>
 </w.rf>
 <form>ČR</form>
-<tag lemma="ČR-1_:B_;G_^(Česká_republika)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95045-110-p3s2w11">
 <src.rf>manual</src.rf>
@@ -929,7 +948,11 @@
 <LM>w#w-ln95045-110-p3s2w14</LM>
 </w.rf>
 <form>B</form>
-<tag lemma="B-4_:B_;K" src="orig" selected="1">AAXXX----1A---8</tag>
+<tag>
+<AM lemma="B-4_:B_;K" src="orig">AAXXX----1A---8</AM>
+<AM lemma="B-77" src="manual">F%-------------</AM>
+<AM lemma="B-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95045-110-p3s2w15">
 <src.rf>manual</src.rf>
@@ -945,7 +968,10 @@
 <LM>w#w-ln95045-110-p3s2w16</LM>
 </w.rf>
 <form>I</form>
-<tag lemma="I-4_:B_;K" src="orig" selected="1">AAXXX----1A---8</tag>
+<tag>
+<AM lemma="I-4_:B_;K" src="orig">AAXXX----1A---8</AM>
+<AM lemma="I-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95045-110-p3s2w17">
 <src.rf>manual</src.rf>
@@ -975,6 +1001,8 @@
 <AM lemma="g-1`gram_:B" src="auto">NNIXX-----A---8</AM>
 <AM lemma="g-3_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
 <AM lemma="g-8_:B_^(ost._zkratka)" src="auto">XX------------8</AM>
+<AM lemma="G-1_:B" src="manual">NNXXX-----A---8</AM>
+<AM lemma="G-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95045-110-p3s2w19">
@@ -1015,7 +1043,10 @@
 <LM>w#w-ln95045-110-p3s2w23</LM>
 </w.rf>
 <form>Resources</form>
-<tag lemma="Resource_;K_,t" src="orig" selected="1">NNIPX-----A----</tag>
+<tag>
+<AM lemma="Resource_;K_,t" src="orig">NNIPX-----A----</AM>
+<AM lemma="Resources-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln95045-110-p3s2w24">
 <src.rf>manual</src.rf>
@@ -1465,7 +1496,7 @@
 <form>Stružových</form>
 <tag>
 <AM lemma="Stružův_;S_^(*2)" src="orig">AUFS2M---------</AM>
-<AM lemma="Stružův_;S_^(*2)" src="auto" recommended="1">AUFP2M---------</AM>
+<AM lemma="Stružův_;S_^(*2)" src="auto" recommended="1" selected="1">AUFP2M---------</AM>
 <AM lemma="Stružův_;S_^(*2)" src="auto">AUFP6M---------</AM>
 <AM lemma="Stružův_;S_^(*2)" src="auto">AUIP2M---------</AM>
 <AM lemma="Stružův_;S_^(*2)" src="auto">AUIP6M---------</AM>
@@ -1667,7 +1698,10 @@
 <LM>w#w-ln95045-110-p6s1w4</LM>
 </w.rf>
 <form>Czech</form>
-<tag lemma="Czech-2_,t" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="Czech-2_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="Czech-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln95045-110-p6s1w5">
 <src.rf>manual</src.rf>
@@ -1682,6 +1716,9 @@
 <AM lemma="top-2" src="auto">NNIS4-----A----</AM>
 <AM lemma="topit_:T" src="auto">Vi-S---2--A----</AM>
 <AM lemma="topit_:T" src="auto">Vi-S---3--A---4</AM>
+<AM lemma="top-3_,t" src="manual">AAXXX----1A----</AM>
+<AM lemma="top-2" src="manual">NNIS2-----A----</AM>
+<AM lemma="Top-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-ln95045-110-p6s1w6">

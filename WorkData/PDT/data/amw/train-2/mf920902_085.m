@@ -245,7 +245,10 @@
 <LM>w#w-mf920902-085-p2s1w24</LM>
 </w.rf>
 <form>Truck</form>
-<tag lemma="truck" src="orig" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="truck" src="orig">NNIS1-----A----</AM>
+<AM lemma="Truck-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-mf920902-085-p2s1w25">
 <src.rf>manual</src.rf>
@@ -253,7 +256,10 @@
 <LM>w#w-mf920902-085-p2s1w25</LM>
 </w.rf>
 <form>Prix</form>
-<tag lemma="Prix-2_;m_,t_^(cena)" src="orig" selected="1">NNFXX-----A----</tag>
+<tag>
+<AM lemma="Prix-2_;m_,t_^(cena)" src="orig">NNFXX-----A----</AM>
+<AM lemma="Prix-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-mf920902-085-p2s1w26">
 <src.rf>manual</src.rf>
@@ -261,7 +267,10 @@
 <LM>w#w-mf920902-085-p2s1w26</LM>
 </w.rf>
 <form>Czechoslovakia</form>
-<tag lemma="Czechoslovakia_;G_,t" src="orig" selected="1">NNFS1-----A----</tag>
+<tag>
+<AM lemma="Czechoslovakia_;G_,t" src="orig">NNFS1-----A----</AM>
+<AM lemma="Czechoslovakia-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-mf920902-085-p2s1w27">
 <src.rf>manual</src.rf>
@@ -489,7 +498,10 @@
 <LM>w#w-mf920902-085-p2s3w5</LM>
 </w.rf>
 <form>čs</form>
-<tag lemma="československý_:B" src="orig" selected="1">AAXXX----1A---8</tag>
+<tag>
+<AM lemma="československý_:B" src="orig">AAXXX----1A---8</AM>
+<AM lemma="československý" src="manual" selected="1">AAXXX----1A---8</AM>
+</tag>
 </m>
 <m id="m-mf920902-085-p2s3w6">
 <src.rf>manual</src.rf>
@@ -577,7 +589,10 @@
 <LM>w#w-mf920902-085-p2s3w16</LM>
 </w.rf>
 <form>Křesťan</form>
-<tag lemma="křesťan" src="orig" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="křesťan" src="orig">NNMS1-----A----</AM>
+<AM lemma="Křesťan_;S" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920902-085-p2s3w17">
 <src.rf>manual</src.rf>
@@ -909,7 +924,10 @@
 <LM>w#w-mf920902-085-p2s5w2</LM>
 </w.rf>
 <form>Truck</form>
-<tag lemma="truck" src="orig" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="truck" src="orig">NNIS1-----A----</AM>
+<AM lemma="Truck-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-mf920902-085-p2s5w3">
 <src.rf>manual</src.rf>
@@ -917,7 +935,10 @@
 <LM>w#w-mf920902-085-p2s5w3</LM>
 </w.rf>
 <form>Prix</form>
-<tag lemma="Prix-2_;m_,t_^(cena)" src="orig" selected="1">NNFXX-----A----</tag>
+<tag>
+<AM lemma="Prix-2_;m_,t_^(cena)" src="orig">NNFXX-----A----</AM>
+<AM lemma="Prix-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-mf920902-085-p2s5w4">
 <src.rf>manual</src.rf>
@@ -1127,7 +1148,10 @@
 <LM>w#w-mf920902-085-p2s6w7</LM>
 </w.rf>
 <form>Johny</form>
-<tag lemma="Johny_;S_;Y_,t" src="auto" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Johny_;S_;Y_,t" src="auto">NNMS1-----A----</AM>
+<AM lemma="Johny_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920902-085-p2s6w8">
 <src.rf>manual</src.rf>

@@ -69,7 +69,7 @@
 <form>ačkoli</form>
 <tag>
 <AM lemma="ačkoliv" src="orig">J,------------1</AM>
-<AM lemma="ačkoli" src="auto" recommended="1">J,-------------</AM>
+<AM lemma="ačkoli" src="auto" recommended="1" selected="1">J,-------------</AM>
 </tag>
 </m>
 <m id="m-ln94211-2-p1s1w8">
@@ -110,7 +110,10 @@
 <LM>w#w-ln94211-2-p1s1w12</LM>
 </w.rf>
 <form>má</form>
-<tag lemma="mít" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag>
+<AM lemma="mít" src="orig">VB-S---3P-AA---</AM>
+<AM lemma="mít_:T" src="manual" selected="1">VB-S---3P-AA---</AM>
+</tag>
 </m>
 <m id="m-ln94211-2-p1s1w13">
 <src.rf>manual</src.rf>
@@ -230,7 +233,10 @@
 <LM>w#w-ln94211-2-p1s1w27</LM>
 </w.rf>
 <form>najde</form>
-<tag lemma="najít" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag>
+<AM lemma="najít" src="orig">VB-S---3P-AA---</AM>
+<AM lemma="najít_:W" src="manual" selected="1">VB-S---3P-AA---</AM>
+</tag>
 </m>
 <m id="m-ln94211-2-p1s1w28">
 <src.rf>manual</src.rf>
@@ -278,7 +284,10 @@
 <LM>w#w-ln94211-2-p1s1w33</LM>
 </w.rf>
 <form>řekne</form>
-<tag lemma="říci" src="auto" selected="1">VB-S---3P-AA---</tag>
+<tag>
+<AM lemma="říci" src="auto">VB-S---3P-AA---</AM>
+<AM lemma="říci_:W" src="manual" selected="1">VB-S---3P-AA---</AM>
+</tag>
 </m>
 <m id="m-ln94211-2-p1s1w34">
 <src.rf>manual</src.rf>
@@ -544,7 +553,10 @@
 <LM>w#w-ln94211-2-p1s2w33</LM>
 </w.rf>
 <form>pošlou</form>
-<tag lemma="poslat" src="orig" selected="1">VB-P---3P-AA---</tag>
+<tag>
+<AM lemma="poslat" src="orig">VB-P---3P-AA---</AM>
+<AM lemma="poslat_:W" src="manual" selected="1">VB-P---3P-AA---</AM>
+</tag>
 </m>
 <m id="m-ln94211-2-p1s2w34">
 <src.rf>manual</src.rf>
@@ -1084,6 +1096,7 @@
 <AM lemma="Vánoce_,x" src="auto">NNFP4-----A----</AM>
 <AM lemma="Vánoce_,x" src="auto">NNFP5-----A----</AM>
 <AM lemma="Vánoce_,x" src="auto">NNFP6-----A---6</AM>
+<AM lemma="vánoce_,i_^(^DS**Vánoce)" src="manual" selected="1">NNFP1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94211-2-p3s1w7">
@@ -1262,7 +1275,10 @@
 <LM>w#w-ln94211-2-p3s2Aw7</LM>
 </w.rf>
 <form>najdete</form>
-<tag lemma="najít" src="orig" selected="1">VB-P---2P-AA---</tag>
+<tag>
+<AM lemma="najít" src="orig">VB-P---2P-AA---</AM>
+<AM lemma="najít_:W" src="manual" selected="1">VB-P---2P-AA---</AM>
+</tag>
 </m>
 <m id="m-ln94211-2-p3s2Aw8">
 <src.rf>manual</src.rf>
@@ -1448,7 +1464,10 @@
 <LM>w#w-ln94211-2-p3s2Bw2</LM>
 </w.rf>
 <form>jif</form>
-<tag lemma="jif-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="jif-99_:B_;S" src="orig">NNXXX-----A---8</AM>
+<AM lemma="jif-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94211-2-p3s2Bw3">
 <src.rf>manual</src.rf>

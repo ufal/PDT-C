@@ -63,6 +63,7 @@
 <AM lemma="Nachičevaň_;G" src="orig">NNFS6-----A----</AM>
 <AM lemma="Nachičevan_;E" src="auto" recommended="1">NNMP1-----A---1</AM>
 <AM lemma="Nachičevan_;E" src="auto">NNMP5-----A---1</AM>
+<AM lemma="Nachičevaň_;G_,s_^(^DD**Nachičevan)" src="manual" selected="1">NNFS6-----A----</AM>
 </tag>
 </m>
 </s>
@@ -202,6 +203,7 @@
 <AM lemma="Nachičevaň_;G" src="orig">NNFS6-----A----</AM>
 <AM lemma="Nachičevan_;E" src="auto" recommended="1">NNMP1-----A---1</AM>
 <AM lemma="Nachičevan_;E" src="auto">NNMP5-----A---1</AM>
+<AM lemma="Nachičevaň_;G_,s_^(^DD**Nachičevan)" src="manual" selected="1">NNFS6-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92252-071-p3s2w13">
@@ -560,7 +562,10 @@
 <LM>w#w-lnd92252-071-p4s3w8</LM>
 </w.rf>
 <form>G</form>
-<tag lemma="G-0_:B_;Y" src="orig" selected="1">NNMXX-----A---8</tag>
+<tag>
+<AM lemma="G-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
+<AM lemma="G-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd92252-071-p4s3w9">
 <src.rf>manual</src.rf>
@@ -664,7 +669,10 @@
 <LM>w#w-lnd92252-071-p4s3w21</LM>
 </w.rf>
 <form>ÚV</form>
-<tag lemma="ÚV-1_:B_^(ústřední_výbor)" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="ÚV-1_:B_^(ústřední_výbor)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="ÚV-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd92252-071-p4s3w22">
 <src.rf>manual</src.rf>
@@ -672,7 +680,10 @@
 <LM>w#w-lnd92252-071-p4s3w22</LM>
 </w.rf>
 <form>KSSS</form>
-<tag lemma="KSSS_:B_;K_;p" src="auto" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="KSSS_:B_;K_;p" src="auto">NNFXX-----A---8</AM>
+<AM lemma="KSSS-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd92252-071-p4s3w23">
 <src.rf>manual</src.rf>
@@ -934,6 +945,7 @@
 <AM lemma="Nachičevaň_;G" src="orig">NNFS6-----A----</AM>
 <AM lemma="Nachičevan_;E" src="auto">NNMP1-----A---1</AM>
 <AM lemma="Nachičevan_;E" src="auto" recommended="1">NNMP5-----A---1</AM>
+<AM lemma="Nachičevaň_;G_,s_^(^DD**Nachičevan)" src="manual" selected="1">NNFS6-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92252-071-p5s1w29">

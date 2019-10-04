@@ -661,7 +661,10 @@
 <LM>w#w-lnd94101-028-p1s5w2</LM>
 </w.rf>
 <form>še</form>
-<tag lemma="še-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="še-99_:B_;S" src="orig">NNXXX-----A---8</AM>
+<AM lemma="še-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd94101-028-p1s5w3">
 <src.rf>manual</src.rf>

@@ -577,7 +577,7 @@
 <AM lemma="zkušený" src="auto">AAFP6----1N----</AM>
 <AM lemma="zkušený" src="auto">AAIP2----1N----</AM>
 <AM lemma="zkušený" src="auto">AAIP6----1N----</AM>
-<AM lemma="zkušený" src="auto" recommended="1">AAMP2----1N----</AM>
+<AM lemma="zkušený" src="auto" recommended="1" selected="1">AAMP2----1N----</AM>
 <AM lemma="zkušený" src="auto">AAMP6----1N----</AM>
 <AM lemma="zkušený" src="auto">AANP2----1N----</AM>
 <AM lemma="zkušený" src="auto">AANP6----1N----</AM>

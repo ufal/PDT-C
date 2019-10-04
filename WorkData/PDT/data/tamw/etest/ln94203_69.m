@@ -27,7 +27,10 @@
 <LM>w#w-ln94203-69-p1s1w2</LM>
 </w.rf>
 <form>PRI</form>
-<tag lemma="PRI-1_:B_;K_,t_^(Partito_Repubblicano_Italiano)" src="auto" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="PRI-1_:B_;K_,t_^(Partito_Repubblicano_Italiano)" src="auto">NNFXX-----A---8</AM>
+<AM lemma="PRI-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln94203-69-p1s1w3">
 <src.rf>manual</src.rf>
@@ -143,7 +146,10 @@
 <LM>w#w-ln94203-69-p2s1Bw9</LM>
 </w.rf>
 <form>PRI</form>
-<tag lemma="PRI-1_:B_;K_,t_^(Partito_Repubblicano_Italiano)" src="auto" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="PRI-1_:B_;K_,t_^(Partito_Repubblicano_Italiano)" src="auto">NNFXX-----A---8</AM>
+<AM lemma="PRI-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln94203-69-p2s1Bw10">
 <src.rf>manual</src.rf>
@@ -313,7 +319,10 @@
 <LM>w#w-ln94203-69-p2s2w8</LM>
 </w.rf>
 <form>PRI</form>
-<tag lemma="PRI-1_:B_;K_,t_^(Partito_Repubblicano_Italiano)" src="auto" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="PRI-1_:B_;K_,t_^(Partito_Repubblicano_Italiano)" src="auto">NNFXX-----A---8</AM>
+<AM lemma="PRI-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln94203-69-p2s2w9">
 <src.rf>manual</src.rf>

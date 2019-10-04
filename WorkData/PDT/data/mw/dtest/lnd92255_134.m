@@ -213,7 +213,7 @@
 <AM lemma="Kula-1_;G" src="auto">NNFS2-----A----</AM>
 <AM lemma="Kula-2_;S" src="auto">NNMP4-----A----</AM>
 <AM lemma="Kula-2_;S" src="auto">NNMP7-----A----</AM>
-<AM lemma="Kula-2_;S" src="auto" recommended="1">NNMS2-----A----</AM>
+<AM lemma="Kula-2_;S" src="auto" recommended="1" selected="1">NNMS2-----A----</AM>
 <AM lemma="kout_^(např._železo)" src="auto">VpTP---XR-AA---</AM>
 </tag>
 </m>

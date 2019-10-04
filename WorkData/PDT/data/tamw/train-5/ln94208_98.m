@@ -27,7 +27,10 @@
 <LM>w#w-ln94208-98-p1s1w2</LM>
 </w.rf>
 <form>causa</form>
-<tag lemma="kauza_,x" src="orig" selected="1">NNFS1-----A----</tag>
+<tag>
+<AM lemma="kauza_,x" src="orig">NNFS1-----A----</AM>
+<AM lemma="causa_,s_^(^DD**kauza)" src="manual" selected="1">NNFS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94208-98-p1s1w3">
 <src.rf>manual</src.rf>
@@ -119,7 +122,10 @@
 <LM>w#w-ln94208-98-p2s1Bw3</LM>
 </w.rf>
 <form>tob</form>
-<tag lemma="tob-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="tob-99_:B_;S" src="orig">NNXXX-----A---8</AM>
+<AM lemma="tob-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94208-98-p2s1Bw4">
 <src.rf>manual</src.rf>
@@ -201,7 +207,10 @@
 <LM>w#w-ln94208-98-p2s1Cw8</LM>
 </w.rf>
 <form>AC</form>
-<tag lemma="AC-1_:B_;K_;w_^(př._AC_Sparta_Praha)" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="AC-1_:B_;K_;w_^(př._AC_Sparta_Praha)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="AC-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94208-98-p2s1Cw9">
 <src.rf>manual</src.rf>
@@ -209,7 +218,10 @@
 <LM>w#w-ln94208-98-p2s1Cw9</LM>
 </w.rf>
 <form>ZPS</form>
-<tag lemma="ZPS-2_:B_^(Závody_přesného_strojírenství)" src="auto" selected="1">NNIPX-----A---8</tag>
+<tag>
+<AM lemma="ZPS-2_:B_^(Závody_přesného_strojírenství)" src="auto">NNIPX-----A---8</AM>
+<AM lemma="ZPS-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94208-98-p2s1Cw10">
 <src.rf>manual</src.rf>
@@ -465,7 +477,10 @@
 <LM>w#w-ln94208-98-p2s1Cw41</LM>
 </w.rf>
 <form>sezonu</form>
-<tag lemma="sezona" src="orig" selected="1">NNFS4-----A----</tag>
+<tag>
+<AM lemma="sezona" src="orig">NNFS4-----A----</AM>
+<AM lemma="sezona_,s_^(^DD**sezóna)" src="manual" selected="1">NNFS4-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94208-98-p2s1Cw42">
 <src.rf>manual</src.rf>
@@ -645,7 +660,7 @@
 <form>Seliko</form>
 <tag>
 <AM lemma="Seliko_;K_;w" src="orig">AAXXX----1A----</AM>
-<AM lemma="Seliko_;K" src="auto" recommended="1">NNNS1-----A----</AM>
+<AM lemma="Seliko_;K" src="auto" recommended="1" selected="1">NNNS1-----A----</AM>
 <AM lemma="Seliko_;K" src="auto">NNNS4-----A----</AM>
 <AM lemma="Seliko_;K" src="auto">NNNS5-----A----</AM>
 </tag>
@@ -656,7 +671,10 @@
 <LM>w#w-ln94208-98-p2s2w22</LM>
 </w.rf>
 <form>Cup</form>
-<tag lemma="Cup-1_;m_;w_,t_^(pohár,_soutěž;_v_názvech)" src="auto" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="Cup-1_;m_;w_,t_^(pohár,_soutěž;_v_názvech)" src="auto">NNIS1-----A----</AM>
+<AM lemma="Cup-1_;m_^(pohár,_soutěž;_v_názvech)" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94208-98-p2s2w23">
 <src.rf>manual</src.rf>
@@ -1433,7 +1451,7 @@
 <tag>
 <AM lemma="jakýkoliv" src="orig">PZFP4----------</AM>
 <AM lemma="jakýkoli" src="auto">PZFP1---------1</AM>
-<AM lemma="jakýkoli" src="auto" recommended="1">PZFP4---------1</AM>
+<AM lemma="jakýkoli" src="auto" recommended="1" selected="1">PZFP4---------1</AM>
 <AM lemma="jakýkoli" src="auto">PZFP5---------1</AM>
 <AM lemma="jakýkoli" src="auto">PZFS2---------1</AM>
 <AM lemma="jakýkoli" src="auto">PZFS3---------1</AM>
@@ -1502,7 +1520,7 @@
 <form>ovšem</form>
 <tag>
 <AM lemma="ovšem-1_^(avšak,_však;_odporovací_spojka)" src="orig">J^-------------</AM>
-<AM lemma="ovšem" src="auto" recommended="1">TT-------------</AM>
+<AM lemma="ovšem" src="auto" recommended="1" selected="1">TT-------------</AM>
 </tag>
 </m>
 <m id="m-ln94208-98-p3s5w9">
@@ -1569,7 +1587,10 @@
 <LM>w#w-ln94208-98-p3s6w5</LM>
 </w.rf>
 <form>AC</form>
-<tag lemma="AC-1_:B_;K_;w_^(př._AC_Sparta_Praha)" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="AC-1_:B_;K_;w_^(př._AC_Sparta_Praha)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="AC-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94208-98-p3s6w6">
 <src.rf>manual</src.rf>
@@ -1577,7 +1598,10 @@
 <LM>w#w-ln94208-98-p3s6w6</LM>
 </w.rf>
 <form>ZPS</form>
-<tag lemma="ZPS-2_:B_^(Závody_přesného_strojírenství)" src="auto" selected="1">NNIPX-----A---8</tag>
+<tag>
+<AM lemma="ZPS-2_:B_^(Závody_přesného_strojírenství)" src="auto">NNIPX-----A---8</AM>
+<AM lemma="ZPS-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94208-98-p3s6w7">
 <src.rf>manual</src.rf>
@@ -1720,7 +1744,7 @@
 <tag>
 <AM lemma="tedy" src="orig">Db-------------</AM>
 <AM lemma="tedy-1" src="auto">TT-------------</AM>
-<AM lemma="tedy-2" src="auto" recommended="1">J^-------------</AM>
+<AM lemma="tedy-2" src="auto" recommended="1" selected="1">J^-------------</AM>
 </tag>
 </m>
 <m id="m-ln94208-98-p3s8w5">

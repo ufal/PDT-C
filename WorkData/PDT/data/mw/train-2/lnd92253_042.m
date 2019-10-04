@@ -206,7 +206,7 @@
 <AM lemma="Trebinje_;G" src="auto">NNNS2-----A----</AM>
 <AM lemma="Trebinje_;G" src="auto">NNNS4-----A----</AM>
 <AM lemma="Trebinje_;G" src="auto">NNNS5-----A----</AM>
-<AM lemma="Trebinje_;G" src="auto" recommended="1">NNNSX-----A----</AM>
+<AM lemma="Trebinje_;G" src="auto" recommended="1" selected="1">NNNSX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92253-042-p2s1w16">
@@ -249,7 +249,10 @@
 <LM>w#w-lnd92253-042-p2s2w4</LM>
 </w.rf>
 <form>uvedla</form>
-<tag lemma="uvést" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag>
+<AM lemma="uvést" src="orig">VpQW---XR-AA---</AM>
+<AM lemma="uvést_:W" src="manual" selected="1">VpQW---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-lnd92253-042-p2s2w5">
 <src.rf>manual</src.rf>
@@ -499,7 +502,10 @@
 <LM>w#w-lnd92253-042-p2s3w17</LM>
 </w.rf>
 <form>leží</form>
-<tag lemma="ležet" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag>
+<AM lemma="ležet" src="orig">VB-S---3P-AA---</AM>
+<AM lemma="ležet_:T" src="manual" selected="1">VB-S---3P-AA---</AM>
+</tag>
 </m>
 <m id="m-lnd92253-042-p2s3w18">
 <src.rf>manual</src.rf>
@@ -753,7 +759,10 @@
 <LM>w#w-lnd92253-042-p2s6w4</LM>
 </w.rf>
 <form>vypáleno</form>
-<tag lemma="vypálit" src="orig" selected="1">VsNS---XX-AP---</tag>
+<tag>
+<AM lemma="vypálit" src="orig">VsNS---XX-AP---</AM>
+<AM lemma="vypálit_:W" src="manual" selected="1">VsNS---XX-AP---</AM>
+</tag>
 </m>
 <m id="m-lnd92253-042-p2s6w5">
 <src.rf>manual</src.rf>
@@ -761,7 +770,10 @@
 <LM>w#w-lnd92253-042-p2s6w5</LM>
 </w.rf>
 <form>mj</form>
-<tag lemma="mj-1_:B_^(mimo_jiné)" src="orig" selected="1">Db------------8</tag>
+<tag>
+<AM lemma="mj-1_:B_^(mimo_jiné)" src="orig">Db------------8</AM>
+<AM lemma="mj-1_:B_^(mimo_jiné)" src="manual" selected="1">Db-------------</AM>
+</tag>
 </m>
 <m id="m-lnd92253-042-p2s6w6">
 <src.rf>manual</src.rf>

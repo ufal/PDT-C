@@ -226,7 +226,7 @@
 </w.rf>
 <form>Bod</form>
 <tag>
-<AM lemma="Bod_;S" src="orig">NNMS1-----A----</AM>
+<AM lemma="Bod_;S" src="orig" selected="1">NNMS1-----A----</AM>
 <AM lemma="Boda-2_;G" src="auto">NNFP2-----A----</AM>
 <AM lemma="bod" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="bod" src="auto">NNIS4-----A----</AM>
@@ -368,7 +368,10 @@
 <LM>w#w-mf930709-038-p2s2w22</LM>
 </w.rf>
 <form>mld</form>
-<tag lemma="miliarda`1000000000_:B" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="miliarda`1000000000_:B" src="orig">NNFXX-----A---8</AM>
+<AM lemma="miliarda`1000000000" src="manual" selected="1">NNFXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-mf930709-038-p2s2w23">
 <src.rf>manual</src.rf>
@@ -384,7 +387,10 @@
 <LM>w#w-mf930709-038-p2s2w24</LM>
 </w.rf>
 <form>USD</form>
-<tag lemma="USD_:B_;b_^(U.S._dolar)" src="auto" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="USD_:B_;b_^(U.S._dolar)" src="auto">NNIXX-----A---8</AM>
+<AM lemma="USD_:B_^(U.S._dolar)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930709-038-p2s2w25">
 <src.rf>manual</src.rf>

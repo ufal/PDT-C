@@ -106,6 +106,8 @@
 <tag>
 <AM lemma="Birkebeiner_;m" src="orig">NNIS1-----A----</AM>
 <AM lemma="birkebeiner-1" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="birkebeiner-1_,t" src="manual">NNXXX-----A----</AM>
+<AM lemma="Birkebeiner-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-ln95049-045-p2s1Bw4">
@@ -154,7 +156,10 @@
 <LM>w#w-ln95049-045-p2s1Bw9</LM>
 </w.rf>
 <form>Worldloppet</form>
-<tag lemma="Worldloppet_;m" src="orig" selected="1">NNIXX-----A----</tag>
+<tag>
+<AM lemma="Worldloppet_;m" src="orig">NNIXX-----A----</AM>
+<AM lemma="Worldloppet-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln95049-045-p2s1Bw10">
 <src.rf>manual</src.rf>
@@ -258,7 +263,10 @@
 <LM>w#w-ln95049-045-p2s1Bw22</LM>
 </w.rf>
 <form>km</form>
-<tag lemma="km-1`kilometr_:B" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="km-1`kilometr_:B" src="orig">NNIXX-----A---8</AM>
+<AM lemma="kilometr" src="manual" selected="1">NNIXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln95049-045-p2s1Bw23">
 <src.rf>manual</src.rf>
@@ -340,7 +348,10 @@
 <LM>w#w-ln95049-045-p2s2w4</LM>
 </w.rf>
 <form>vedli</form>
-<tag lemma="vést" src="auto" selected="1">VpMP---XR-AA---</tag>
+<tag>
+<AM lemma="vést" src="auto">VpMP---XR-AA---</AM>
+<AM lemma="vést_:T" src="manual" selected="1">VpMP---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-ln95049-045-p2s2w5">
 <src.rf>manual</src.rf>

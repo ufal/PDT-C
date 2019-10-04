@@ -139,7 +139,10 @@
 <LM>w#w-ln95048-033-p1s1w16</LM>
 </w.rf>
 <form>Marja</form>
-<tag lemma="Marja_;Y_,t" src="auto" selected="1">NNFS1-----A----</tag>
+<tag>
+<AM lemma="Marja_;Y_,t" src="auto">NNFS1-----A----</AM>
+<AM lemma="Marja_;Y" src="manual" selected="1">NNFS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95048-033-p1s1w17">
 <src.rf>manual</src.rf>

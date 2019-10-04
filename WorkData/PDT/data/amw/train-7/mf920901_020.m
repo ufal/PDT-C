@@ -43,7 +43,10 @@
 <LM>w#w-mf920901-020-p1s1w4</LM>
 </w.rf>
 <form>ČSTK</form>
-<tag lemma="ČSTK-1_:B_;K_^(Československá_tisková_kancelář)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ČSTK-1_:B_;K_^(Československá_tisková_kancelář)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČSTK-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 </s>
 <s id="m-mf920901-020-p2s1">
@@ -143,7 +146,10 @@
 <LM>w#w-mf920901-020-p2s2w7</LM>
 </w.rf>
 <form>per</form>
-<tag lemma="per_,t_^(z_latiny)" src="orig" selected="1">RR--X----------</tag>
+<tag>
+<AM lemma="per_,t_^(z_latiny)" src="orig">RR--X----------</AM>
+<AM lemma="per-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-mf920901-020-p2s2w8">
 <src.rf>manual</src.rf>
@@ -151,7 +157,10 @@
 <LM>w#w-mf920901-020-p2s2w8</LM>
 </w.rf>
 <form>rollam</form>
-<tag lemma="rollam_,t" src="orig" selected="1">NNXXX-----A----</tag>
+<tag>
+<AM lemma="rollam_,t" src="orig">NNXXX-----A----</AM>
+<AM lemma="rollam-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-mf920901-020-p2s2w9">
 <src.rf>manual</src.rf>
@@ -527,7 +536,7 @@
 <AM lemma="Stráský_;S" src="orig">AAMS7----1A----</AM>
 <AM lemma="Stráský_;S" src="auto">NNMP3-----A----</AM>
 <AM lemma="Stráský_;S" src="auto">NNMS6-----A---7</AM>
-<AM lemma="Stráský_;S" src="auto" recommended="1">NNMS7-----A----</AM>
+<AM lemma="Stráský_;S" src="auto" recommended="1" selected="1">NNMS7-----A----</AM>
 <AM lemma="Stráská_;S" src="auto">NNFP3-----A----</AM>
 </tag>
 </m>
@@ -619,7 +628,10 @@
 <LM>w#w-mf920901-020-p2s5w10</LM>
 </w.rf>
 <form>ČSTK</form>
-<tag lemma="ČSTK-1_:B_;K_^(Československá_tisková_kancelář)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ČSTK-1_:B_;K_^(Československá_tisková_kancelář)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČSTK-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-mf920901-020-p2s5w11">
 <src.rf>manual</src.rf>
@@ -779,7 +791,10 @@
 <LM>w#w-mf920901-020-p2s5w30</LM>
 </w.rf>
 <form>ČSFR</form>
-<tag lemma="ČSFR-1_:B_;G_^(Čs._federativní_republika)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ČSFR-1_:B_;G_^(Čs._federativní_republika)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČSFR-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-mf920901-020-p2s5w31">
 <src.rf>manual</src.rf>

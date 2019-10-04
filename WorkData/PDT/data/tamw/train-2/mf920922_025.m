@@ -109,7 +109,10 @@
 <LM>w#w-mf920922-025-p2s1w10</LM>
 </w.rf>
 <form>CRICOT</form>
-<tag lemma="Cricot_;K_;u" src="auto" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="Cricot_;K_;u" src="auto">NNIS1-----A----</AM>
+<AM lemma="Cricot_;K" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920922-025-p2s1w11">
 <src.rf>manual</src.rf>
@@ -255,7 +258,10 @@
 <LM>w#w-mf920922-025-p2s2w6</LM>
 </w.rf>
 <form>přijet</form>
-<tag lemma="přijet" src="auto" selected="1">Vf--------A----</tag>
+<tag>
+<AM lemma="přijet" src="auto">Vf--------A----</AM>
+<AM lemma="přijet_:W" src="manual" selected="1">Vf--------A----</AM>
+</tag>
 </m>
 <m id="m-mf920922-025-p2s2w7">
 <src.rf>manual</src.rf>
@@ -289,7 +295,10 @@
 <LM>w#w-mf920922-025-p2s3w1</LM>
 </w.rf>
 <form>Cricot</form>
-<tag lemma="Cricot_;K_;u" src="auto" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="Cricot_;K_;u" src="auto">NNIS1-----A----</AM>
+<AM lemma="Cricot_;K" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920922-025-p2s3w2">
 <src.rf>manual</src.rf>
@@ -1039,7 +1048,10 @@
 <LM>w#w-mf920922-025-p2s6w6</LM>
 </w.rf>
 <form>černých</form>
-<tag lemma="černý" src="auto" selected="1">AAIP6----1A----</tag>
+<tag>
+<AM lemma="černý" src="auto">AAIP6----1A----</AM>
+<AM lemma="černý_;o" src="manual" selected="1">AAIP6----1A----</AM>
+</tag>
 </m>
 <m id="m-mf920922-025-p2s6w7">
 <src.rf>manual</src.rf>
@@ -2285,7 +2297,10 @@
 <LM>w#w-mf920922-025-p2s13w19</LM>
 </w.rf>
 <form>Cricot</form>
-<tag lemma="Cricot_;K_;u" src="auto" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="Cricot_;K_;u" src="auto">NNIS1-----A----</AM>
+<AM lemma="Cricot_;K" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920922-025-p2s13w20">
 <src.rf>manual</src.rf>

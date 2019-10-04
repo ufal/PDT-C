@@ -93,7 +93,10 @@
 <LM>w#w-lnd92258-128-p2s1w8</LM>
 </w.rf>
 <form>Donaukraft</form>
-<tag lemma="Donaukraft_;Y" src="auto" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="Donaukraft_;Y" src="auto">NNIS1-----A----</AM>
+<AM lemma="Donaukraft_;G" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92258-128-p2s1w9">
 <src.rf>manual</src.rf>
@@ -378,6 +381,7 @@
 <AM lemma="Oda-1_;G" src="auto" recommended="1">NNFP2-----A----</AM>
 <AM lemma="od-1" src="auto">RR--2----------</AM>
 <AM lemma="od-7_^(předpona,_sam.)" src="auto">A2--------A----</AM>
+<AM lemma="Od-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-lnd92258-128-p4s2w2">
@@ -450,6 +454,7 @@
 <AM lemma="Donaukraft_;K_,t" src="orig">NNIXX-----A----</AM>
 <AM lemma="Donaukraft_;Y" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Donaukraft_;Y" src="auto">NNIS4-----A----</AM>
+<AM lemma="Donaukraft_;G" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92258-128-p5s2w2">
@@ -554,7 +559,10 @@
 <LM>w#w-lnd92258-128-p7s2w1</LM>
 </w.rf>
 <form>VKP</form>
-<tag lemma="VKP-1_:B_^(významný_krajinný_prvek)" src="auto" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="VKP-1_:B_^(významný_krajinný_prvek)" src="auto">NNIXX-----A---8</AM>
+<AM lemma="VKP-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd92258-128-p7s2w2">
 <src.rf>manual</src.rf>
@@ -772,7 +780,7 @@
 <form>5238</form>
 <tag>
 <AM lemma="52381" src="orig">C=-------------</AM>
-<AM lemma="5238" src="auto" recommended="1">C=-------------</AM>
+<AM lemma="5238" src="auto" recommended="1" selected="1">C=-------------</AM>
 </tag>
 </m>
 <m id="m-lnd92258-128-p11s2w3">
@@ -971,7 +979,10 @@
 <LM>w#w-lnd92258-128-p15s1w3</LM>
 </w.rf>
 <form>B</form>
-<tag lemma="B-5_:B_;G" src="orig" selected="1">AAXXX----1A---8</tag>
+<tag>
+<AM lemma="B-5_:B_;G" src="orig">AAXXX----1A---8</AM>
+<AM lemma="B-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd92258-128-p15s1w4">
 <src.rf>manual</src.rf>
@@ -1231,7 +1242,10 @@
 <LM>w#w-lnd92258-128-p16s2w1</LM>
 </w.rf>
 <form>Post</form>
-<tag lemma="post-1_^(pozice)" src="orig" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="post-1_^(pozice)" src="orig">NNIS1-----A----</AM>
+<AM lemma="Post-1_^(př._Washington_Post)" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92258-128-p16s2w2">
 <src.rf>manual</src.rf>
@@ -1395,7 +1409,10 @@
 <LM>w#w-lnd92258-128-p19s2w1</LM>
 </w.rf>
 <form>KPS</form>
-<tag lemma="KPS_:B_;K" src="auto" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="KPS_:B_;K" src="auto">NNXXX-----A---8</AM>
+<AM lemma="KPS-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd92258-128-p19s2w2">
 <src.rf>manual</src.rf>
@@ -1663,7 +1680,10 @@
 <LM>w#w-lnd92258-128-p24s2w1</LM>
 </w.rf>
 <form>UK</form>
-<tag lemma="UK-3_:B_;K_^(Univerzita_Komenského_Bratislava)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="UK-3_:B_;K_^(Univerzita_Komenského_Bratislava)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="UK-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd92258-128-p24s2w2">
 <src.rf>manual</src.rf>
@@ -1723,7 +1743,10 @@
 <LM>w#w-lnd92258-128-p25s2w1</LM>
 </w.rf>
 <form>B</form>
-<tag lemma="B-5_:B_;G" src="orig" selected="1">AAXXX----1A---8</tag>
+<tag>
+<AM lemma="B-5_:B_;G" src="orig">AAXXX----1A---8</AM>
+<AM lemma="B-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd92258-128-p25s2w2">
 <src.rf>manual</src.rf>

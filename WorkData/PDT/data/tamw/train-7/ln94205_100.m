@@ -287,7 +287,10 @@
 <LM>w#w-ln94205-100-p3s1w1</LM>
 </w.rf>
 <form>Musica</form>
-<tag lemma="Musica_;u_^(Musica_Bohemica)" src="auto" selected="1">NNFS1-----A----</tag>
+<tag>
+<AM lemma="Musica_;u_^(Musica_Bohemica)" src="auto">NNFS1-----A----</AM>
+<AM lemma="Musica-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94205-100-p3s1w2">
 <src.rf>manual</src.rf>
@@ -295,7 +298,10 @@
 <LM>w#w-ln94205-100-p3s1w2</LM>
 </w.rf>
 <form>Florea</form>
-<tag lemma="Florea_;K_,t" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="Florea_;K_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="Florea-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94205-100-p3s1w3">
 <src.rf>manual</src.rf>
@@ -857,7 +863,10 @@
 <LM>w#w-ln94205-100-p6s1w18</LM>
 </w.rf>
 <form>sv</form>
-<tag lemma="svatý-1_:B" src="auto" selected="1">AAXXX----1A---8</tag>
+<tag>
+<AM lemma="svatý-1_:B" src="auto">AAXXX----1A---8</AM>
+<AM lemma="svatý-1" src="manual" selected="1">AAXXX----1A---8</AM>
+</tag>
 </m>
 <m id="m-ln94205-100-p6s1w19">
 <src.rf>manual</src.rf>

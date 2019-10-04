@@ -19,7 +19,10 @@
 <LM>w#w-lnd92253-054-p1s1w1</LM>
 </w.rf>
 <form>R</form>
-<tag lemma="R-0_:B_;Y" src="orig" selected="1">NNMXX-----A---8</tag>
+<tag>
+<AM lemma="R-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
+<AM lemma="R-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd92253-054-p1s1w2">
 <src.rf>manual</src.rf>
@@ -39,7 +42,7 @@
 <form>KARADŽIČ</form>
 <tag>
 <AM lemma="Karadžić" src="orig">NNMS1-----A----</AM>
-<AM lemma="Karadžič_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Karadžič_;S" src="auto" recommended="1" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92253-054-p1s2w2">
@@ -177,7 +180,7 @@
 <tag>
 <AM lemma="Sarajevo_;G" src="orig">NNNS6-----A----</AM>
 <AM lemma="Sarajevo_;G" src="auto">NNNS3-----A----</AM>
-<AM lemma="Sarajevo_;G" src="auto" recommended="1">NNNS6-----A---1</AM>
+<AM lemma="Sarajevo_;G" src="auto" recommended="1" selected="1">NNNS6-----A---1</AM>
 </tag>
 </m>
 <m id="m-lnd92253-054-p3s2w3">
@@ -599,7 +602,10 @@
 <LM>w#w-lnd92253-054-p4s2w8</LM>
 </w.rf>
 <form>AFP</form>
-<tag lemma="AFP_:B_;K" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="AFP_:B_;K" src="orig">NNIXX-----A---8</AM>
+<AM lemma="AFP-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd92253-054-p4s2w9">
 <src.rf>manual</src.rf>
@@ -684,7 +690,7 @@
 <tag>
 <AM lemma="Sarajevo_;G" src="orig">NNNS6-----A----</AM>
 <AM lemma="Sarajevo_;G" src="auto">NNNS3-----A----</AM>
-<AM lemma="Sarajevo_;G" src="auto" recommended="1">NNNS6-----A---1</AM>
+<AM lemma="Sarajevo_;G" src="auto" recommended="1" selected="1">NNNS6-----A---1</AM>
 </tag>
 </m>
 <m id="m-lnd92253-054-p4s3w6">
@@ -1161,7 +1167,10 @@
 <LM>w#w-lnd92253-054-p5s2w9</LM>
 </w.rf>
 <form>generálního</form>
-<tag lemma="generální" src="orig" selected="1">AAMS2----1A----</tag>
+<tag>
+<AM lemma="generální" src="orig">AAMS2----1A----</AM>
+<AM lemma="generální" src="manual" selected="1">AAMS4----1A----</AM>
+</tag>
 </m>
 <m id="m-lnd92253-054-p5s2w10">
 <src.rf>manual</src.rf>
@@ -1169,7 +1178,10 @@
 <LM>w#w-lnd92253-054-p5s2w10</LM>
 </w.rf>
 <form>tajemníka</form>
-<tag lemma="tajemník" src="orig" selected="1">NNMS2-----A----</tag>
+<tag>
+<AM lemma="tajemník" src="orig">NNMS2-----A----</AM>
+<AM lemma="tajemník" src="manual" selected="1">NNMS4-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92253-054-p5s2w11">
 <src.rf>manual</src.rf>
@@ -1177,7 +1189,10 @@
 <LM>w#w-lnd92253-054-p5s2w11</LM>
 </w.rf>
 <form>OSN</form>
-<tag lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92253-054-p5s2w12">
 <src.rf>manual</src.rf>
@@ -1185,7 +1200,10 @@
 <LM>w#w-lnd92253-054-p5s2w12</LM>
 </w.rf>
 <form>Butruse</form>
-<tag lemma="Butrus_;S" src="auto" selected="1">NNMS2-----A----</tag>
+<tag>
+<AM lemma="Butrus_;S" src="auto">NNMS2-----A----</AM>
+<AM lemma="Butrus_;S" src="manual" selected="1">NNMS4-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92253-054-p5s2w13">
 <src.rf>manual</src.rf>
@@ -1201,7 +1219,10 @@
 <LM>w#w-lnd92253-054-p5s2w14</LM>
 </w.rf>
 <form>Ghálího</form>
-<tag lemma="Ghálí_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag>
+<AM lemma="Ghálí_;S" src="orig">NNMS2-----A----</AM>
+<AM lemma="Ghálí_;S" src="manual" selected="1">NNMS4-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92253-054-p5s2w15">
 <src.rf>manual</src.rf>
@@ -1351,7 +1372,7 @@
 <AM lemma="Bosanský_;S" src="orig">AAIS2----1A----</AM>
 <AM lemma="Bosanský_;S" src="auto">NNMS2-----A----</AM>
 <AM lemma="Bosanský_;S" src="auto">NNMS4-----A----</AM>
-<AM lemma="bosanský" src="auto" recommended="1">AAIS2----1A----</AM>
+<AM lemma="bosanský" src="auto" recommended="1" selected="1">AAIS2----1A----</AM>
 <AM lemma="bosanský" src="auto">AAMS2----1A----</AM>
 <AM lemma="bosanský" src="auto">AAMS4----1A----</AM>
 <AM lemma="bosanský" src="auto">AANS2----1A----</AM>
@@ -1779,7 +1800,7 @@
 <form>třeba</form>
 <tag>
 <AM lemma="třeba-1" src="orig">ACNS------A----</AM>
-<AM lemma="třeba-2" src="auto" recommended="1">Db-------------</AM>
+<AM lemma="třeba-2" src="auto" recommended="1" selected="1">Db-------------</AM>
 <AM lemma="třeba-3" src="auto">TT-------------</AM>
 </tag>
 </m>
@@ -1999,7 +2020,10 @@
 <LM>w#w-lnd92253-054-p7s2w10</LM>
 </w.rf>
 <form>Le</form>
-<tag lemma="Le-1_,t_^(franc._člen_jako_souč._jmen_a_názvů)" src="orig" selected="1">AAMSX----1A----</tag>
+<tag>
+<AM lemma="Le-1_,t_^(franc._člen_jako_souč._jmen_a_názvů)" src="orig">AAMSX----1A----</AM>
+<AM lemma="Le-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-lnd92253-054-p7s2w11">
 <src.rf>manual</src.rf>
@@ -2011,6 +2035,7 @@
 <AM lemma="Figaro-2_;R_,t" src="orig">NNIS1-----A----</AM>
 <AM lemma="Figaro_;S_;Y_,t" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Figaro_;S_;Y_,t" src="auto">NNMS5-----A----</AM>
+<AM lemma="Figaro-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-lnd92253-054-p7s2w12">

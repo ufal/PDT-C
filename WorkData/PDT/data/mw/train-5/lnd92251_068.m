@@ -45,7 +45,10 @@
 <LM>w#w-lnd92251-068-p2s1w2</LM>
 </w.rf>
 <form>NATO</form>
-<tag lemma="NATO_:B_;K_^(North_Atlantic_Treaty_Organization)" src="auto" selected="1">NNNXX-----A---8</tag>
+<tag>
+<AM lemma="NATO_:B_;K_^(North_Atlantic_Treaty_Organization)" src="auto">NNNXX-----A---8</AM>
+<AM lemma="NATO_:B_;K_^(North_Atlantic_Treaty_Organization)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92251-068-p2s1w3">
 <src.rf>manual</src.rf>
@@ -201,7 +204,10 @@
 <LM>w#w-lnd92251-068-p3s2w16</LM>
 </w.rf>
 <form>NATO</form>
-<tag lemma="NATO_:B_;K_^(North_Atlantic_Treaty_Organization)" src="auto" selected="1">NNNXX-----A---8</tag>
+<tag>
+<AM lemma="NATO_:B_;K_^(North_Atlantic_Treaty_Organization)" src="auto">NNNXX-----A---8</AM>
+<AM lemma="NATO_:B_;K_^(North_Atlantic_Treaty_Organization)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92251-068-p3s2w17">
 <src.rf>manual</src.rf>
@@ -283,7 +289,10 @@
 <LM>w#w-lnd92251-068-p3s3w3</LM>
 </w.rf>
 <form>J</form>
-<tag lemma="J-0_:B_;Y" src="orig" selected="1">NNMXX-----A---8</tag>
+<tag>
+<AM lemma="J-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
+<AM lemma="J-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd92251-068-p3s3w4">
 <src.rf>manual</src.rf>
@@ -299,7 +308,10 @@
 <LM>w#w-lnd92251-068-p3s3w5</LM>
 </w.rf>
 <form>S</form>
-<tag lemma="S-0_:B_;Y" src="orig" selected="1">NNMXX-----A---8</tag>
+<tag>
+<AM lemma="S-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
+<AM lemma="S-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd92251-068-p3s3w6">
 <src.rf>manual</src.rf>
@@ -316,7 +328,7 @@
 </w.rf>
 <form>Rondeau</form>
 <tag>
-<AM lemma="Rondeau_;S" src="orig">NNMS1-----A----</AM>
+<AM lemma="Rondeau_;S" src="orig" selected="1">NNMS1-----A----</AM>
 <AM lemma="rondó_,t_^(básnický_žánr)" src="auto" recommended="1">NNNXX-----A---1</AM>
 </tag>
 </m>
@@ -494,7 +506,10 @@
 <LM>w#w-lnd92251-068-p3s3w29</LM>
 </w.rf>
 <form>SRN</form>
-<tag lemma="SRN_:B_;G" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="SRN_:B_;G" src="orig">NNFXX-----A---8</AM>
+<AM lemma="SRN_:B_;G_^(^Spolková_republika_Německo)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92251-068-p3s3w30">
 <src.rf>manual</src.rf>
@@ -643,7 +658,7 @@
 </w.rf>
 <form>Rondeau</form>
 <tag>
-<AM lemma="Rondeau_;S" src="orig">NNMS1-----A----</AM>
+<AM lemma="Rondeau_;S" src="orig" selected="1">NNMS1-----A----</AM>
 <AM lemma="rondó_,t_^(básnický_žánr)" src="auto" recommended="1">NNNXX-----A---1</AM>
 </tag>
 </m>
@@ -733,7 +748,10 @@
 <LM>w#w-lnd92251-068-p3s5w12</LM>
 </w.rf>
 <form>Bad</form>
-<tag lemma="Bad_;G" src="orig" selected="1">NNIXX-----A----</tag>
+<tag>
+<AM lemma="Bad_;G" src="orig">NNIXX-----A----</AM>
+<AM lemma="Bad-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-lnd92251-068-p3s5w13">
 <src.rf>manual</src.rf>
@@ -741,7 +759,10 @@
 <LM>w#w-lnd92251-068-p3s5w13</LM>
 </w.rf>
 <form>Kreuznach</form>
-<tag lemma="Kreuznach_;G" src="orig" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="Kreuznach_;G" src="orig">NNIS1-----A----</AM>
+<AM lemma="Kreuznach-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-lnd92251-068-p3s5w14">
 <src.rf>manual</src.rf>
@@ -829,7 +850,10 @@
 <LM>w#w-lnd92251-068-p3s5w24</LM>
 </w.rf>
 <form>NATO</form>
-<tag lemma="NATO_:B_;K_^(North_Atlantic_Treaty_Organization)" src="auto" selected="1">NNNXX-----A---8</tag>
+<tag>
+<AM lemma="NATO_:B_;K_^(North_Atlantic_Treaty_Organization)" src="auto">NNNXX-----A---8</AM>
+<AM lemma="NATO_:B_;K_^(North_Atlantic_Treaty_Organization)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92251-068-p3s5w25">
 <src.rf>manual</src.rf>

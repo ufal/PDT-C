@@ -56,7 +56,7 @@
 <form>Kč</form>
 <tag>
 <AM lemma="Kč" src="orig">NNFXX-----A----</AM>
-<AM lemma="Kč_:B" src="auto" recommended="1">NNFXX-----A---8</AM>
+<AM lemma="Kč_:B" src="auto" recommended="1" selected="1">NNFXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-cmpr9406-056-p3s1Aw3">
@@ -181,7 +181,10 @@
 <LM>w#w-cmpr9406-056-p4s1w6</LM>
 </w.rf>
 <form>YSE</form>
-<tag lemma="YSE_:B_;K_;b_^(YSE_Holding,_fin._inst.)" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="YSE_:B_;K_;b_^(YSE_Holding,_fin._inst.)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="YSE-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-cmpr9406-056-p4s1w7">
 <src.rf>manual</src.rf>
@@ -237,7 +240,10 @@
 <LM>w#w-cmpr9406-056-p4s1w13</LM>
 </w.rf>
 <form>kuponové</form>
-<tag lemma="kupónový" src="orig" selected="1">AAFS2----1A----</tag>
+<tag>
+<AM lemma="kupónový" src="orig">AAFS2----1A----</AM>
+<AM lemma="kuponový_,s_^(^DD**kupónový)" src="manual" selected="1">AAFS2----1A----</AM>
+</tag>
 </m>
 <m id="m-cmpr9406-056-p4s1w14">
 <src.rf>manual</src.rf>
@@ -593,7 +599,10 @@
 <LM>w#w-cmpr9406-056-p4s3w32</LM>
 </w.rf>
 <form>kuponové</form>
-<tag lemma="kupónový" src="orig" selected="1">AAFS2----1A----</tag>
+<tag>
+<AM lemma="kupónový" src="orig">AAFS2----1A----</AM>
+<AM lemma="kuponový_,s_^(^DD**kupónový)" src="manual" selected="1">AAFS2----1A----</AM>
+</tag>
 </m>
 <m id="m-cmpr9406-056-p4s3w33">
 <src.rf>manual</src.rf>
@@ -926,7 +935,10 @@
 <LM>w#w-cmpr9406-056-p6s1w14</LM>
 </w.rf>
 <form>víc</form>
-<tag lemma="hodně-2" src="auto" selected="1">Dg-------2A---1</tag>
+<tag>
+<AM lemma="hodně-2" src="auto">Dg-------2A---1</AM>
+<AM lemma="hodně-3" src="manual" selected="1">Dg-------2A---1</AM>
+</tag>
 </m>
 <m id="m-cmpr9406-056-p6s1w15">
 <src.rf>manual</src.rf>

@@ -79,7 +79,10 @@
 <LM>w#w-mf920902-092-p2s1Bw4</LM>
 </w.rf>
 <form>MIG</form>
-<tag lemma="MIG-1_:B_;R_^(letadlo)" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="MIG-1_:B_;R_^(letadlo)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="MIG-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-mf920902-092-p2s1Bw5">
 <src.rf>manual</src.rf>
@@ -408,7 +411,7 @@
 <tag>
 <AM lemma="tedy" src="orig">Db-------------</AM>
 <AM lemma="tedy-1" src="auto">TT-------------</AM>
-<AM lemma="tedy-2" src="auto" recommended="1">J^-------------</AM>
+<AM lemma="tedy-2" src="auto" recommended="1" selected="1">J^-------------</AM>
 </tag>
 </m>
 <m id="m-mf920902-092-p2s4w3">
@@ -719,7 +722,7 @@
 <form>totiž</form>
 <tag>
 <AM lemma="totiž" src="orig">Db-------------</AM>
-<AM lemma="totiž-1" src="auto" recommended="1">J^-------------</AM>
+<AM lemma="totiž-1" src="auto" recommended="1" selected="1">J^-------------</AM>
 <AM lemma="totiž-2" src="auto">TT-------------</AM>
 </tag>
 </m>
@@ -878,7 +881,7 @@
 <tag>
 <AM lemma="tedy" src="orig">Db-------------</AM>
 <AM lemma="tedy-1" src="auto">TT-------------</AM>
-<AM lemma="tedy-2" src="auto" recommended="1">J^-------------</AM>
+<AM lemma="tedy-2" src="auto" recommended="1" selected="1">J^-------------</AM>
 </tag>
 </m>
 <m id="m-mf920902-092-p2s7w4">
@@ -977,7 +980,10 @@
 <LM>w#w-mf920902-092-p2s8w8</LM>
 </w.rf>
 <form>jenom</form>
-<tag lemma="jenom-1" src="auto" selected="1">TT-------------</tag>
+<tag>
+<AM lemma="jenom-1" src="auto">TT-------------</AM>
+<AM lemma="jenom-2_^(pouze)" src="manual" selected="1">Db-------------</AM>
+</tag>
 </m>
 <m id="m-mf920902-092-p2s8w9">
 <src.rf>manual</src.rf>

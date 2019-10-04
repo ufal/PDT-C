@@ -51,7 +51,10 @@
 <LM>w#w-mf920924-149-p1s1Aw5</LM>
 </w.rf>
 <form>Saint</form>
-<tag lemma="Saint_;Y_,t_^(v_cizích_názvech)" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="Saint_;Y_,t_^(v_cizích_názvech)" src="orig">AAXXX----1A----</AM>
+<AM lemma="Saint-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-mf920924-149-p1s1Aw6">
 <src.rf>manual</src.rf>
@@ -71,6 +74,7 @@
 <AM lemma="Privas_;G" src="orig">NNIXX-----A----</AM>
 <AM lemma="Privas_;G" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Privas_;G" src="auto">NNIS4-----A----</AM>
+<AM lemma="Privas-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-mf920924-149-p1s1Aw8">
@@ -217,7 +221,10 @@
 <LM>w#w-mf920924-149-p1s1Bw3</LM>
 </w.rf>
 <form>ČSTK</form>
-<tag lemma="ČSTK-1_:B_;K_^(Československá_tisková_kancelář)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ČSTK-1_:B_;K_^(Československá_tisková_kancelář)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČSTK-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-mf920924-149-p1s1Bw4">
 <src.rf>manual</src.rf>
@@ -234,7 +241,10 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>AP</form>
-<tag lemma="AP-3_:B_;K_,t_^(Associated_Press,_tisková_agentura)" src="auto" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="AP-3_:B_;K_,t_^(Associated_Press,_tisková_agentura)" src="auto">NNFXX-----A---8</AM>
+<AM lemma="AP-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 </s>
 </mdata>

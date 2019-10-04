@@ -101,7 +101,10 @@
 <LM>w#w-mf920922-021-p2s1w3</LM>
 </w.rf>
 <form>lh</form>
-<tag lemma="lh-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="lh-99_:B_;S" src="orig">NNXXX-----A---8</AM>
+<AM lemma="lh-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920922-021-p2s1w4">
 <src.rf>manual</src.rf>
@@ -247,7 +250,10 @@
 <LM>w#w-mf920922-021-p2s2w16</LM>
 </w.rf>
 <form>řekl</form>
-<tag lemma="říci" src="auto" selected="1">VpYS---XR-AA---</tag>
+<tag>
+<AM lemma="říci" src="auto">VpYS---XR-AA---</AM>
+<AM lemma="říci_:W" src="manual" selected="1">VpYS---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-mf920922-021-p2s2w17">
 <src.rf>manual</src.rf>
@@ -343,7 +349,10 @@
 <LM>w#w-mf920922-021-p2s2w28</LM>
 </w.rf>
 <form>a</form>
-<tag lemma="akciový_:B_^(jen_akciová_společnost)" src="orig" selected="1">AAXXX----1A---8</tag>
+<tag>
+<AM lemma="akciový_:B_^(jen_akciová_společnost)" src="orig">AAXXX----1A---8</AM>
+<AM lemma="akciový" src="manual" selected="1">AAXXX----1A---8</AM>
+</tag>
 </m>
 <m id="m-mf920922-021-p2s2w29">
 <src.rf>manual</src.rf>
@@ -359,7 +368,10 @@
 <LM>w#w-mf920922-021-p2s2w30</LM>
 </w.rf>
 <form>s</form>
-<tag lemma="společnost_:B" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="společnost_:B" src="orig">NNFXX-----A---8</AM>
+<AM lemma="společnost" src="manual" selected="1">NNFXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-mf920922-021-p2s2w31">
 <src.rf>manual</src.rf>
@@ -389,6 +401,7 @@
 <AM lemma="osa" src="auto">NNFP2-----A----</AM>
 <AM lemma="osoba_:B" src="auto">NNFXX-----A---8</AM>
 <AM lemma="osobní_:B" src="auto" recommended="1">AAXXX----1A---8</AM>
+<AM lemma="OS-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-mf920922-021-p2s2w34">
@@ -413,7 +426,10 @@
 <LM>w#w-mf920922-021-p2s2w36</LM>
 </w.rf>
 <form>FMD</form>
-<tag lemma="FMD_:B_;K" src="auto" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="FMD_:B_;K" src="auto">NNXXX-----A---8</AM>
+<AM lemma="FMD-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-mf920922-021-p2s2w37">
 <src.rf>manual</src.rf>
@@ -429,7 +445,10 @@
 <LM>w#w-mf920922-021-p2s2w38</LM>
 </w.rf>
 <form>FNM</form>
-<tag lemma="FNM-1_:B_;K_;p_^(Fond_národního_majetku)" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="FNM-1_:B_;K_;p_^(Fond_národního_majetku)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="FNM-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-mf920922-021-p2s2w39">
 <src.rf>manual</src.rf>
@@ -519,7 +538,10 @@
 <LM>w#w-mf920922-021-p3s1w3</LM>
 </w.rf>
 <form>uvedl</form>
-<tag lemma="uvést" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag>
+<AM lemma="uvést" src="orig">VpYS---XR-AA---</AM>
+<AM lemma="uvést_:W" src="manual" selected="1">VpYS---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-mf920922-021-p3s1w4">
 <src.rf>manual</src.rf>
@@ -567,7 +589,10 @@
 <LM>w#w-mf920922-021-p3s1w9</LM>
 </w.rf>
 <form>managementu</form>
-<tag lemma="management_,t_^(vedení,_manažment;_angl.)" src="orig" selected="1">NNIS3-----A----</tag>
+<tag>
+<AM lemma="management_,t_^(vedení,_manažment;_angl.)" src="orig">NNIS3-----A----</AM>
+<AM lemma="management_,s_^(^DD**manažment)" src="manual" selected="1">NNIS3-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920922-021-p3s1w10">
 <src.rf>manual</src.rf>
@@ -1094,7 +1119,10 @@
 <LM>w#w-mf920922-021-p4s2w19</LM>
 </w.rf>
 <form>strany</form>
-<tag lemma="strana-3_^(u_soudu,_na_úřadě,_smluvní_strany;_na_něčí_straně)" src="orig" selected="1">NNFS2-----A----</tag>
+<tag>
+<AM lemma="strana-3_^(u_soudu,_na_úřadě,_smluvní_strany;_na_něčí_straně)" src="orig">NNFS2-----A----</AM>
+<AM lemma="strana" src="manual" selected="1">NNFS2-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920922-021-p4s2w20">
 <src.rf>manual</src.rf>
@@ -1466,7 +1494,11 @@
 <LM>w#w-mf920922-021-p5s1w9</LM>
 </w.rf>
 <form>konsensu</form>
-<tag lemma="konsensus_,t" src="auto" selected="1">NNIS3-----A----</tag>
+<tag>
+<AM lemma="konsensus_,t" src="auto">NNIS3-----A----</AM>
+<AM lemma="konsensus_,s_^(^DD**konsenz)" src="manual">NNIS3-----A----</AM>
+<AM lemma="konsensus_,s_^(^DD**konsenzus)" src="manual" selected="1">NNIS3-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920922-021-p5s1w10">
 <src.rf>manual</src.rf>
@@ -1934,7 +1966,10 @@
 <LM>w#w-mf920922-021-p5s3w26</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-2" src="auto" selected="1">Dg-------2A----</tag>
+<tag>
+<AM lemma="hodně-2" src="auto">Dg-------2A----</AM>
+<AM lemma="hodně-3" src="manual" selected="1">Dg-------2A----</AM>
+</tag>
 </m>
 <m id="m-mf920922-021-p5s3w27">
 <src.rf>manual</src.rf>
@@ -1990,7 +2025,10 @@
 <LM>w#w-mf920922-021-p5s3w33</LM>
 </w.rf>
 <form>tzv</form>
-<tag lemma="takzvaný_:B" src="orig" selected="1">AAXXX----1A---8</tag>
+<tag>
+<AM lemma="takzvaný_:B" src="orig">AAXXX----1A---8</AM>
+<AM lemma="takzvaný" src="manual" selected="1">AAXXX----1A---8</AM>
+</tag>
 </m>
 <m id="m-mf920922-021-p5s3w34">
 <src.rf>manual</src.rf>

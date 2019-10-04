@@ -96,6 +96,7 @@
 <tag>
 <AM lemma="pet-99_:B_;S" src="orig">NNXXX-----A---8</AM>
 <AM lemma="pet_,t" src="auto" recommended="1">AAXXX----1A---8</AM>
+<AM lemma="pet-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94101-043-p1s2w4">
@@ -582,7 +583,10 @@
 <LM>w#w-lnd94101-043-p1s5w21</LM>
 </w.rf>
 <form>mechanismů</form>
-<tag lemma="mechanismus" src="orig" selected="1">NNIP2-----A----</tag>
+<tag>
+<AM lemma="mechanismus" src="orig">NNIP2-----A----</AM>
+<AM lemma="mechanismus_,s_^(^DD**mechanizmus)" src="manual" selected="1">NNIP2-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd94101-043-p1s5w22">
 <src.rf>manual</src.rf>

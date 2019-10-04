@@ -543,7 +543,7 @@
 <form>totiž</form>
 <tag>
 <AM lemma="totiž" src="orig">Db-------------</AM>
-<AM lemma="totiž-1" src="auto" recommended="1">J^-------------</AM>
+<AM lemma="totiž-1" src="auto" recommended="1" selected="1">J^-------------</AM>
 <AM lemma="totiž-2" src="auto">TT-------------</AM>
 </tag>
 </m>
@@ -763,7 +763,7 @@
 <form>§</form>
 <tag>
 <AM lemma="§_^(paragraf)" src="orig">NNIXX-----A---1</AM>
-<AM lemma="paragraf" src="auto" recommended="1">NNIXX-----A---1</AM>
+<AM lemma="paragraf" src="auto" recommended="1" selected="1">NNIXX-----A---1</AM>
 </tag>
 </m>
 <m id="m-cmpr9417-012-p5s3w31">
@@ -1692,7 +1692,10 @@
 <LM>w#w-cmpr9417-012-p6s4w33</LM>
 </w.rf>
 <form>jen</form>
-<tag lemma="jen-1" src="auto" selected="1">TT-------------</tag>
+<tag>
+<AM lemma="jen-1" src="auto">TT-------------</AM>
+<AM lemma="jen-4_^(pouze)" src="manual" selected="1">Db-------------</AM>
+</tag>
 </m>
 <m id="m-cmpr9417-012-p6s4w34">
 <src.rf>manual</src.rf>
@@ -1716,7 +1719,10 @@
 <LM>w#w-cmpr9417-012-p6s4w36</LM>
 </w.rf>
 <form>ČNB</form>
-<tag lemma="ČNB-1_:B_;K_;b_^(Česká_národní_banka)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ČNB-1_:B_;K_;b_^(Česká_národní_banka)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČNB-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-cmpr9417-012-p6s4w37">
 <src.rf>manual</src.rf>
@@ -1734,7 +1740,10 @@
 <LM>w#w-cmpr9417-012-p6s5w1</LM>
 </w.rf>
 <form>Ani</form>
-<tag lemma="ani-1" src="auto" selected="1">J^-------------</tag>
+<tag>
+<AM lemma="ani-1" src="auto">J^-------------</AM>
+<AM lemma="ani-2" src="manual" selected="1">TT-------------</AM>
+</tag>
 </m>
 <m id="m-cmpr9417-012-p6s5w2">
 <src.rf>manual</src.rf>
@@ -1824,7 +1833,7 @@
 <form>§</form>
 <tag>
 <AM lemma="§_^(paragraf)" src="orig">NNIXX-----A---1</AM>
-<AM lemma="paragraf" src="auto" recommended="1">NNIXX-----A---1</AM>
+<AM lemma="paragraf" src="auto" recommended="1" selected="1">NNIXX-----A---1</AM>
 </tag>
 </m>
 <m id="m-cmpr9417-012-p6s5w13">
@@ -3171,7 +3180,10 @@
 <LM>w#w-cmpr9417-012-p10s1w1</LM>
 </w.rf>
 <form>Marta</form>
-<tag lemma="Marta" src="auto" selected="1">NNFS1-----A----</tag>
+<tag>
+<AM lemma="Marta" src="auto">NNFS1-----A----</AM>
+<AM lemma="Marta_;Y" src="manual" selected="1">NNFS1-----A----</AM>
+</tag>
 </m>
 <m id="m-cmpr9417-012-p10s1w2">
 <src.rf>manual</src.rf>
@@ -5041,7 +5053,7 @@
 <form>Snad</form>
 <tag>
 <AM lemma="snad" src="orig">Db-------------</AM>
-<AM lemma="snad" src="auto" recommended="1">TT-------------</AM>
+<AM lemma="snad" src="auto" recommended="1" selected="1">TT-------------</AM>
 </tag>
 </m>
 <m id="m-cmpr9417-012-p19s5w2">
@@ -5674,7 +5686,7 @@
 <form>nejen</form>
 <tag>
 <AM lemma="nejen" src="orig">TT-------------</AM>
-<AM lemma="nejen" src="auto" recommended="1">Db-------------</AM>
+<AM lemma="nejen" src="auto" recommended="1" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m-cmpr9417-012-p20s3w15">
@@ -6157,7 +6169,10 @@
 <LM>w#w-cmpr9417-012-p24s3w3</LM>
 </w.rf>
 <form>stop</form>
-<tag lemma="stop-1_^(zastavení,_i_stopování)" src="auto" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="stop-1_^(zastavení,_i_stopování)" src="auto">NNIS1-----A----</AM>
+<AM lemma="stop-3" src="manual" selected="1">A2--------A----</AM>
+</tag>
 </m>
 <m id="m-cmpr9417-012-p24s3w4">
 <src.rf>manual</src.rf>
@@ -6197,7 +6212,10 @@
 <LM>w#w-cmpr9417-012-p24s3w8</LM>
 </w.rf>
 <form>ani</form>
-<tag lemma="ani-1" src="auto" selected="1">J^-------------</tag>
+<tag>
+<AM lemma="ani-1" src="auto">J^-------------</AM>
+<AM lemma="ani-2" src="manual" selected="1">TT-------------</AM>
+</tag>
 </m>
 <m id="m-cmpr9417-012-p24s3w9">
 <src.rf>manual</src.rf>
@@ -6375,7 +6393,10 @@
 <LM>w#w-cmpr9417-012-p24s4w15</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-2" src="auto" selected="1">Dg-------2A----</tag>
+<tag>
+<AM lemma="hodně-2" src="auto">Dg-------2A----</AM>
+<AM lemma="více_^(více_+_2._p.,_více_peněz)" src="manual" selected="1">Ca--1----------</AM>
+</tag>
 </m>
 <m id="m-cmpr9417-012-p24s4w16">
 <src.rf>manual</src.rf>

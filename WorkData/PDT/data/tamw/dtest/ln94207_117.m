@@ -142,6 +142,7 @@
 <AM lemma="Porte-2_;S" src="auto">NNMSX-----A----</AM>
 <AM lemma="Porte-3_;G" src="auto">NNNSX-----A----</AM>
 <AM lemma="port" src="auto">NNIS5-----A----</AM>
+<AM lemma="Porte-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-ln94207-117-p2s2w6">
@@ -150,7 +151,10 @@
 <LM>w#w-ln94207-117-p2s2w6</LM>
 </w.rf>
 <form>de</form>
-<tag lemma="de_,t_^(z_franc._de,_zejm._ve_jménech)" src="orig" selected="1">RR--1----------</tag>
+<tag>
+<AM lemma="de_,t_^(z_franc._de,_zejm._ve_jménech)" src="orig">RR--1----------</AM>
+<AM lemma="de-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94207-117-p2s2w7">
 <src.rf>manual</src.rf>
@@ -166,7 +170,10 @@
 <LM>w#w-ln94207-117-p2s2w8</LM>
 </w.rf>
 <form>začal</form>
-<tag lemma="začít-1_^(začnout)" src="auto" selected="1">VpYS---XR-AA---</tag>
+<tag>
+<AM lemma="začít-1_^(začnout)" src="auto">VpYS---XR-AA---</AM>
+<AM lemma="začít-1_:W_^(začnout)" src="manual" selected="1">VpYS---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-ln94207-117-p2s2w9">
 <src.rf>manual</src.rf>
@@ -263,7 +270,11 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>Pret</form>
-<tag lemma="Pret_;m_,t" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="Pret_;m_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="pret_,t" src="manual">NNXXX-----A----</AM>
+<AM lemma="Pret-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94207-117-p2s2w21">
 <src.rf>manual</src.rf>
@@ -272,7 +283,11 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>a</form>
-<tag lemma="a-4_,t_^(př._a_la)" src="orig" selected="1">RR--1----------</tag>
+<tag>
+<AM lemma="a-4_,t_^(př._a_la)" src="orig">RR--1----------</AM>
+<AM lemma="á_,t" src="manual">RF------------1</AM>
+<AM lemma="a-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94207-117-p2s2w22">
 <src.rf>manual</src.rf>
@@ -284,6 +299,8 @@
 <AM lemma="Porter_;m_,t" src="orig">Vf--------A----</AM>
 <AM lemma="Porter_;S" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="porter" src="auto">NNMS1-----A----</AM>
+<AM lemma="porter_,t" src="manual">NNXXX-----A----</AM>
+<AM lemma="Porter-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-ln94207-117-p2s2w23">
@@ -345,7 +362,7 @@
 <tag>
 <AM lemma="tady" src="orig">Db------------1</AM>
 <AM lemma="ten" src="auto">PDFS4----------</AM>
-<AM lemma="tu" src="auto" recommended="1">Db-------------</AM>
+<AM lemma="tu" src="auto" recommended="1" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m-ln94207-117-p2s3w7">
@@ -520,7 +537,7 @@
 <tag>
 <AM lemma="tady" src="orig">Db------------1</AM>
 <AM lemma="ten" src="auto">PDFS4----------</AM>
-<AM lemma="tu" src="auto" recommended="1">Db-------------</AM>
+<AM lemma="tu" src="auto" recommended="1" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m-ln94207-117-p2s4w6">
@@ -1296,7 +1313,7 @@
 <form>Federika</form>
 <tag>
 <AM lemma="Federico_;Y" src="orig">NNMS2-----A----</AM>
-<AM lemma="Federik_;Y_,t" src="auto" recommended="1">NNMS2-----A----</AM>
+<AM lemma="Federik_;Y_,t" src="auto" recommended="1" selected="1">NNMS2-----A----</AM>
 <AM lemma="Federik_;Y_,t" src="auto">NNMS4-----A----</AM>
 </tag>
 </m>
@@ -1397,7 +1414,11 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>Pret</form>
-<tag lemma="Pret_;m_,t" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="Pret_;m_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="pret_,t" src="manual">NNXXX-----A----</AM>
+<AM lemma="Pret-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94207-117-p2s7w11">
 <src.rf>manual</src.rf>
@@ -1406,7 +1427,11 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>a</form>
-<tag lemma="a-4_,t_^(př._a_la)" src="orig" selected="1">RR--1----------</tag>
+<tag>
+<AM lemma="a-4_,t_^(př._a_la)" src="orig">RR--1----------</AM>
+<AM lemma="á_,t" src="manual">RF------------1</AM>
+<AM lemma="a-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94207-117-p2s7w12">
 <src.rf>manual</src.rf>
@@ -1418,6 +1443,8 @@
 <AM lemma="Porter_;m_,t" src="orig">Vf--------A----</AM>
 <AM lemma="Porter_;S" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="porter" src="auto">NNMS1-----A----</AM>
+<AM lemma="porter_,t" src="manual">NNXXX-----A----</AM>
+<AM lemma="Porter-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-ln94207-117-p2s7w13">
@@ -1559,6 +1586,8 @@
 <AM lemma="Mad_;G" src="auto">NNIS5-----A----</AM>
 <AM lemma="Mad_;G" src="auto">NNIS6-----A----</AM>
 <AM lemma="made_,t" src="auto" recommended="1">XX-------------</AM>
+<AM lemma="made_,t" src="manual">NNXXX-----A----</AM>
+<AM lemma="Made-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-ln94207-117-p2s7w30">
@@ -1567,7 +1596,10 @@
 <LM>w#w-ln94207-117-p2s7w30</LM>
 </w.rf>
 <form>In</form>
-<tag lemma="in-1_,t_^(angl._v)" src="orig" selected="1">RR--X----------</tag>
+<tag>
+<AM lemma="in-1_,t_^(angl._v)" src="orig">RR--X----------</AM>
+<AM lemma="In-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94207-117-p2s7w31">
 <src.rf>manual</src.rf>
@@ -1589,6 +1621,8 @@
 <AM lemma="publicita" src="auto">NNFP4-----A----</AM>
 <AM lemma="publicita" src="auto">NNFP5-----A----</AM>
 <AM lemma="publicita" src="auto">NNFS2-----A----</AM>
+<AM lemma="publicity_,t" src="manual">NNXXX-----A----</AM>
+<AM lemma="Publicity-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-ln94207-117-p2s7w33">

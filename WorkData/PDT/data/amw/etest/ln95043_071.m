@@ -233,7 +233,7 @@
 <form>nalezena</form>
 <tag>
 <AM lemma="naleznout" src="orig">VsQW---XX-AP---</AM>
-<AM lemma="nalézt-2" src="auto" recommended="1">VsQW---XX-AP---</AM>
+<AM lemma="nalézt-2" src="auto" recommended="1" selected="1">VsQW---XX-AP---</AM>
 </tag>
 </m>
 <m id="m-ln95043-071-p2s2w11">

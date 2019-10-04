@@ -27,7 +27,10 @@
 <LM>w#w-ln94211-28-p1s1Aw2</LM>
 </w.rf>
 <form>HZDS</form>
-<tag lemma="HZDS-1_:B_;K_;p_,t_^(Hnutie_za_demokratické_Slovensko)" src="orig" selected="1">NNNXX-----A---8</tag>
+<tag>
+<AM lemma="HZDS-1_:B_;K_;p_,t_^(Hnutie_za_demokratické_Slovensko)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="HZDS-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln94211-28-p1s1Aw3">
 <src.rf>manual</src.rf>
@@ -83,7 +86,10 @@
 <LM>w#w-ln94211-28-p1s1Aw9</LM>
 </w.rf>
 <form>Vivat</form>
-<tag lemma="vivat" src="orig" selected="1">II-------------</tag>
+<tag>
+<AM lemma="vivat" src="orig">II-------------</AM>
+<AM lemma="Vivat-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94211-28-p1s1Aw10">
 <src.rf>manual</src.rf>
@@ -91,7 +97,10 @@
 <LM>w#w-ln94211-28-p1s1Aw10</LM>
 </w.rf>
 <form>Slovakia</form>
-<tag lemma="Slovakia_;G_,t" src="orig" selected="1">NNFS1-----A----</tag>
+<tag>
+<AM lemma="Slovakia_;G_,t" src="orig">NNFS1-----A----</AM>
+<AM lemma="Slovakia-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 </s>
 <s id="m-ln94211-28-p1s1B">
@@ -109,7 +118,10 @@
 <LM>w#w-ln94211-28-p1s1Bw2</LM>
 </w.rf>
 <form>ČTK</form>
-<tag lemma="ČTK-1_:B_;K_^(Čs./Česká_tisková_kancelář)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ČTK-1_:B_;K_^(Čs./Česká_tisková_kancelář)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČTK-1_:B_;K_^(Čs./Česká_tisková_kancelář)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 </s>
 </mdata>

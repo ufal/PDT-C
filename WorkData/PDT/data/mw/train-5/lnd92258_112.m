@@ -437,7 +437,7 @@
 <form>Snad</form>
 <tag>
 <AM lemma="snad" src="orig">Db-------------</AM>
-<AM lemma="snad" src="auto" recommended="1">TT-------------</AM>
+<AM lemma="snad" src="auto" recommended="1" selected="1">TT-------------</AM>
 </tag>
 </m>
 <m id="m-lnd92258-112-p3s3w2">
@@ -446,7 +446,10 @@
 <LM>w#w-lnd92258-112-p3s3w2</LM>
 </w.rf>
 <form>právě</form>
-<tag lemma="právě-1" src="auto" selected="1">Db-------------</tag>
+<tag>
+<AM lemma="právě-1" src="auto">Db-------------</AM>
+<AM lemma="právě-2" src="manual" selected="1">TT-------------</AM>
+</tag>
 </m>
 <m id="m-lnd92258-112-p3s3w3">
 <src.rf>manual</src.rf>
@@ -502,7 +505,10 @@
 <LM>w#w-lnd92258-112-p3s3w9</LM>
 </w.rf>
 <form>ani</form>
-<tag lemma="ani-1" src="auto" selected="1">J^-------------</tag>
+<tag>
+<AM lemma="ani-1" src="auto">J^-------------</AM>
+<AM lemma="ani-2" src="manual" selected="1">TT-------------</AM>
+</tag>
 </m>
 <m id="m-lnd92258-112-p3s3w10">
 <src.rf>manual</src.rf>
@@ -1104,6 +1110,7 @@
 <AM lemma="ad-2_:B_^(a_další)" src="orig">AAXXX----1A---8</AM>
 <AM lemma="ad_,t" src="auto">RR--1----------</AM>
 <AM lemma="adalší_:B" src="auto" recommended="1">AAXXX----1A---8</AM>
+<AM lemma="ad-1_:B_^(a_další)" src="manual" selected="1">AAXXX----1A----</AM>
 </tag>
 </m>
 <m id="m-lnd92258-112-p3s6w18">
@@ -1608,6 +1615,7 @@
 <AM lemma="ad-2_:B_^(a_další)" src="orig">AAXXX----1A---8</AM>
 <AM lemma="ad_,t" src="auto">RR--1----------</AM>
 <AM lemma="adalší_:B" src="auto" recommended="1">AAXXX----1A---8</AM>
+<AM lemma="ad-1_:B_^(a_další)" src="manual" selected="1">AAXXX----1A----</AM>
 </tag>
 </m>
 <m id="m-lnd92258-112-p4s2w32">
@@ -1736,7 +1744,10 @@
 <LM>w#w-lnd92258-112-p4s2w47</LM>
 </w.rf>
 <form>apod</form>
-<tag lemma="apod_:B_^(a_podobně)" src="auto" selected="1">Db------------8</tag>
+<tag>
+<AM lemma="apod_:B_^(a_podobně)" src="auto">Db------------8</AM>
+<AM lemma="apod_:B_^(a_podobně)" src="manual" selected="1">Db-------------</AM>
+</tag>
 </m>
 <m id="m-lnd92258-112-p4s2w48">
 <src.rf>manual</src.rf>
@@ -1794,7 +1805,10 @@
 <LM>w#w-lnd92258-112-p4s3w4</LM>
 </w.rf>
 <form>ani</form>
-<tag lemma="ani-1" src="auto" selected="1">J^-------------</tag>
+<tag>
+<AM lemma="ani-1" src="auto">J^-------------</AM>
+<AM lemma="ani-2" src="manual" selected="1">TT-------------</AM>
+</tag>
 </m>
 <m id="m-lnd92258-112-p4s3w5">
 <src.rf>manual</src.rf>
@@ -1916,7 +1930,10 @@
 <LM>w#w-lnd92258-112-p4s4w2</LM>
 </w.rf>
 <form>jen</form>
-<tag lemma="jen-1" src="auto" selected="1">TT-------------</tag>
+<tag>
+<AM lemma="jen-1" src="auto">TT-------------</AM>
+<AM lemma="jen-4_^(pouze)" src="manual" selected="1">Db-------------</AM>
+</tag>
 </m>
 <m id="m-lnd92258-112-p4s4w3">
 <src.rf>manual</src.rf>
@@ -1948,7 +1965,10 @@
 <LM>w#w-lnd92258-112-p4s4w6</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-2" src="auto" selected="1">Dg-------2A----</tag>
+<tag>
+<AM lemma="hodně-2" src="auto">Dg-------2A----</AM>
+<AM lemma="hodně-3" src="manual" selected="1">Dg-------2A----</AM>
+</tag>
 </m>
 <m id="m-lnd92258-112-p4s4w7">
 <src.rf>manual</src.rf>
@@ -2250,6 +2270,7 @@
 <AM lemma="ad-2_:B_^(a_další)" src="orig">AAXXX----1A---8</AM>
 <AM lemma="ad_,t" src="auto">RR--1----------</AM>
 <AM lemma="adalší_:B" src="auto" recommended="1">AAXXX----1A---8</AM>
+<AM lemma="ad-1_:B_^(a_další)" src="manual" selected="1">AAXXX----1A----</AM>
 </tag>
 </m>
 <m id="m-lnd92258-112-p4s5w29">
@@ -2800,7 +2821,10 @@
 <LM>w#w-lnd92258-112-p5s1w16</LM>
 </w.rf>
 <form>např</form>
-<tag lemma="například_:B" src="orig" selected="1">Db------------8</tag>
+<tag>
+<AM lemma="například_:B" src="orig">Db------------8</AM>
+<AM lemma="například" src="manual" selected="1">Db------------8</AM>
+</tag>
 </m>
 <m id="m-lnd92258-112-p5s1w17">
 <src.rf>manual</src.rf>
@@ -2892,6 +2916,7 @@
 <AM lemma="renezanční" src="auto">AANP3----1A----</AM>
 <AM lemma="renezanční" src="auto">AANS6----1A----</AM>
 <AM lemma="renezanční" src="auto">AANS7----1A----</AM>
+<AM lemma="renesanční_,s_^(^DD**renezanční)" src="manual" selected="1">AAMS7----1A----</AM>
 </tag>
 </m>
 <m id="m-lnd92258-112-p5s1w27">

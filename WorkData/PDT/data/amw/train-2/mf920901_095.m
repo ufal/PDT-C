@@ -117,7 +117,10 @@
 <LM>w#w-mf920901-095-p1s1Bw4</LM>
 </w.rf>
 <form>IVÁN</form>
-<tag lemma="Iván_;Y_,t" src="auto" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Iván_;Y_,t" src="auto">NNMS1-----A----</AM>
+<AM lemma="Iván_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920901-095-p1s1Bw5">
 <src.rf>manual</src.rf>
@@ -125,7 +128,10 @@
 <LM>w#w-mf920901-095-p1s1Bw5</LM>
 </w.rf>
 <form>BÁBA</form>
-<tag lemma="bába" src="orig" selected="1">NNFS1-----A----</tag>
+<tag>
+<AM lemma="bába" src="orig">NNFS1-----A----</AM>
+<AM lemma="Bába_;S" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 </s>
 <s id="m-mf920901-095-p2s1">
@@ -453,7 +459,10 @@
 <LM>w#w-mf920901-095-p2s3Bw1</LM>
 </w.rf>
 <form>Řekl</form>
-<tag lemma="říci" src="auto" selected="1">VpYS---XR-AA---</tag>
+<tag>
+<AM lemma="říci" src="auto">VpYS---XR-AA---</AM>
+<AM lemma="říci_:W" src="manual" selected="1">VpYS---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-mf920901-095-p2s3Bw2">
 <src.rf>manual</src.rf>
@@ -493,7 +502,10 @@
 <LM>w#w-mf920901-095-p2s3Bw6</LM>
 </w.rf>
 <form>Iván</form>
-<tag lemma="Iván_;Y_,t" src="auto" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Iván_;Y_,t" src="auto">NNMS1-----A----</AM>
+<AM lemma="Iván_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920901-095-p2s3Bw7">
 <src.rf>manual</src.rf>
@@ -501,7 +513,10 @@
 <LM>w#w-mf920901-095-p2s3Bw7</LM>
 </w.rf>
 <form>Bába</form>
-<tag lemma="bába" src="orig" selected="1">NNFS1-----A----</tag>
+<tag>
+<AM lemma="bába" src="orig">NNFS1-----A----</AM>
+<AM lemma="Bába_;S" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920901-095-p2s3Bw8">
 <src.rf>manual</src.rf>
@@ -642,6 +657,8 @@
 <tag>
 <AM lemma="Magyar_;R_,t" src="orig">AAXXX----1A----</AM>
 <AM lemma="Magyar_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Magyar_,t" src="manual">NNXXX-----A----</AM>
+<AM lemma="Magyar-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-mf920901-095-p2s4w5">
@@ -650,7 +667,11 @@
 <LM>w#w-mf920901-095-p2s4w5</LM>
 </w.rf>
 <form>Hírlap</form>
-<tag lemma="Hírlap" src="orig" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="Hírlap" src="orig">NNIS1-----A----</AM>
+<AM lemma="Hírlap_,t" src="manual">NNXXX-----A----</AM>
+<AM lemma="Hírlap-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-mf920901-095-p2s4w6">
 <src.rf>manual</src.rf>
@@ -1054,7 +1075,10 @@
 <LM>w#w-mf920901-095-p2s6w22</LM>
 </w.rf>
 <form>Iván</form>
-<tag lemma="Iván_;Y_,t" src="auto" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Iván_;Y_,t" src="auto">NNMS1-----A----</AM>
+<AM lemma="Iván_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920901-095-p2s6w23">
 <src.rf>manual</src.rf>
@@ -1062,7 +1086,10 @@
 <LM>w#w-mf920901-095-p2s6w23</LM>
 </w.rf>
 <form>Bába</form>
-<tag lemma="bába" src="orig" selected="1">NNFS1-----A----</tag>
+<tag>
+<AM lemma="bába" src="orig">NNFS1-----A----</AM>
+<AM lemma="Bába_;S" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920901-095-p2s6w24">
 <src.rf>manual</src.rf>

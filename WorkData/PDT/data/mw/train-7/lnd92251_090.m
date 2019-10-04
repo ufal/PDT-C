@@ -117,7 +117,10 @@
 <LM>w#w-lnd92251-090-p2s1w9</LM>
 </w.rf>
 <form>Jinochem</form>
-<tag lemma="jinoch" src="orig" selected="1">NNMS7-----A----</tag>
+<tag>
+<AM lemma="jinoch" src="orig">NNMS7-----A----</AM>
+<AM lemma="Jinoch_;S" src="manual" selected="1">NNMS7-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92251-090-p2s1w10">
 <src.rf>manual</src.rf>
@@ -237,7 +240,10 @@
 <LM>w#w-lnd92251-090-p2s1w24</LM>
 </w.rf>
 <form>ČMFL</form>
-<tag lemma="ČMFL_:B_;K_;w_^(Č.-moravský_fotbalový_svaz)" src="auto" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="ČMFL_:B_;K_;w_^(Č.-moravský_fotbalový_svaz)" src="auto">NNIXX-----A---8</AM>
+<AM lemma="ČMFL-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92251-090-p2s1w25">
 <src.rf>manual</src.rf>
@@ -399,7 +405,10 @@
 <LM>w#w-lnd92251-090-p2s2w16</LM>
 </w.rf>
 <form>nedošlo</form>
-<tag lemma="dojít" src="orig" selected="1">VpNS---XR-NA---</tag>
+<tag>
+<AM lemma="dojít" src="orig">VpNS---XR-NA---</AM>
+<AM lemma="dojít_:W" src="manual" selected="1">VpNS---XR-NA---</AM>
+</tag>
 </m>
 <m id="m-lnd92251-090-p2s2w17">
 <src.rf>manual</src.rf>
@@ -641,7 +650,10 @@
 <LM>w#w-lnd92251-090-p2s3w29</LM>
 </w.rf>
 <form>M</form>
-<tag lemma="M-0_:B_;Y" src="orig" selected="1">NNMXX-----A---8</tag>
+<tag>
+<AM lemma="M-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
+<AM lemma="M-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92251-090-p2s3w30">
 <src.rf>manual</src.rf>
@@ -1010,6 +1022,7 @@
 <AM lemma="v-8_:B_^(ost._zkratka)" src="auto">XX------------8</AM>
 <AM lemma="versus_:B_,t_,x" src="auto">RR--1---------8</AM>
 <AM lemma="veřejný_:B_^(v.o.s.)" src="auto">AAXXX----1A---8</AM>
+<AM lemma="V-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92251-090-p3s2w8">
@@ -1228,7 +1241,10 @@
 <LM>w#w-lnd92251-090-p4s1w2</LM>
 </w.rf>
 <form>šv</form>
-<tag lemma="šv-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="šv-99_:B_;S" src="orig">NNXXX-----A---8</AM>
+<AM lemma="šv-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92251-090-p4s1w3">
 <src.rf>manual</src.rf>

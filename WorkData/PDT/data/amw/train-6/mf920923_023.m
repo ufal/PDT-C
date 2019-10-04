@@ -335,7 +335,10 @@
 <LM>w#w-mf920923-023-p3s1w33</LM>
 </w.rf>
 <form>FIJEC</form>
-<tag lemma="FIJEC_:B_;K" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="FIJEC_:B_;K" src="orig">NNIXX-----A---8</AM>
+<AM lemma="FIJEC-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-mf920923-023-p3s1w34">
 <src.rf>manual</src.rf>
@@ -757,7 +760,7 @@
 <form>přesto</form>
 <tag>
 <AM lemma="přesto" src="orig">Dg-------1A----</AM>
-<AM lemma="přesto-1" src="auto" recommended="1">Db-------------</AM>
+<AM lemma="přesto-1" src="auto" recommended="1" selected="1">Db-------------</AM>
 <AM lemma="přesto-2" src="auto">J^-------------</AM>
 </tag>
 </m>

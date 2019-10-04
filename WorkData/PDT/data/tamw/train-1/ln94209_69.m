@@ -85,7 +85,11 @@
 <LM>w#w-ln94209-69-p2s1Aw4</LM>
 </w.rf>
 <form>Subjective</form>
-<tag lemma="Subjective_;m_,t" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="Subjective_;m_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="subjective_,t" src="manual">AAXXX----1A----</AM>
+<AM lemma="Subjective-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94209-69-p2s1Aw5">
 <src.rf>manual</src.rf>
@@ -97,6 +101,8 @@
 <AM lemma="geometry_;m_,t" src="orig">NNFXX-----A----</AM>
 <AM lemma="geometr" src="auto">NNMP4-----A----</AM>
 <AM lemma="geometr" src="auto" recommended="1">NNMP7-----A----</AM>
+<AM lemma="geometry_,t" src="manual">NNXXX-----A----</AM>
+<AM lemma="geometry-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-ln94209-69-p2s1Aw6">
@@ -185,7 +191,10 @@
 <LM>w#w-ln94209-69-p2s1Aw16</LM>
 </w.rf>
 <form>č</form>
-<tag lemma="číslo_:B" src="orig" selected="1">NNNXX-----A---8</tag>
+<tag>
+<AM lemma="číslo_:B" src="orig">NNNXX-----A---8</AM>
+<AM lemma="číslo" src="manual" selected="1">NNNXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln94209-69-p2s1Aw17">
 <src.rf>manual</src.rf>

@@ -235,7 +235,7 @@
 <AM lemma="odchod" src="orig">NNIS6-----A----</AM>
 <AM lemma="odchod" src="auto">NNIS2-----A----</AM>
 <AM lemma="odchod" src="auto">NNIS3-----A----</AM>
-<AM lemma="odchod" src="auto" recommended="1">NNIS6-----A---1</AM>
+<AM lemma="odchod" src="auto" recommended="1" selected="1">NNIS6-----A---1</AM>
 </tag>
 </m>
 <m id="m-ln95046-064-p2s1Bw23">
@@ -252,7 +252,10 @@
 <LM>w#w-ln95046-064-p2s1Bw24</LM>
 </w.rf>
 <form>OSN</form>
-<tag lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95046-064-p2s1Bw25">
 <src.rf>manual</src.rf>
@@ -358,7 +361,10 @@
 <LM>w#w-ln95046-064-p2s2w12</LM>
 </w.rf>
 <form>Mahdim</form>
-<tag lemma="Mahdi_;S" src="auto" selected="1">NNMS7-----A----</tag>
+<tag>
+<AM lemma="Mahdi_;S" src="auto">NNMS7-----A----</AM>
+<AM lemma="Mahdi_;S_;Y" src="manual" selected="1">NNMS7-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95046-064-p2s2w13">
 <src.rf>manual</src.rf>
@@ -486,7 +492,10 @@
 <LM>w#w-ln95046-064-p2s2w28</LM>
 </w.rf>
 <form>Mohamed</form>
-<tag lemma="Mohamed_;Y" src="orig" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Mohamed_;Y" src="orig">NNMS1-----A----</AM>
+<AM lemma="Mohamed_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95046-064-p2s2w29">
 <src.rf>manual</src.rf>

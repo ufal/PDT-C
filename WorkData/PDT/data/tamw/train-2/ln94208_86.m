@@ -91,7 +91,10 @@
 <LM>w#w-ln94208-86-p1s1w10</LM>
 </w.rf>
 <form>Rút</form>
-<tag lemma="Rút_;Y_,t" src="auto" selected="1">NNFXX-----A----</tag>
+<tag>
+<AM lemma="Rút_;Y_,t" src="auto">NNFXX-----A----</AM>
+<AM lemma="Rút_;Y" src="manual" selected="1">NNFXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94208-86-p1s1w11">
 <src.rf>manual</src.rf>

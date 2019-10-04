@@ -118,7 +118,10 @@
 <LM>w#w-mf930709-062-p2s1Aw5</LM>
 </w.rf>
 <form>lík</form>
-<tag lemma="lík-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="lík-99_:B_;S" src="orig">NNXXX-----A---8</AM>
+<AM lemma="lík-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930709-062-p2s1Aw6">
 <src.rf>manual</src.rf>
@@ -628,7 +631,10 @@
 <LM>w#w-mf930709-062-p2s3w24</LM>
 </w.rf>
 <form>milionu</form>
-<tag lemma="milión`1000000" src="orig" selected="1">NNIS2-----A----</tag>
+<tag>
+<AM lemma="milión`1000000" src="orig">NNIS2-----A----</AM>
+<AM lemma="milion`1000000_,s_^(^DD**milión)" src="manual" selected="1">NNIS2-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930709-062-p2s3w25">
 <src.rf>manual</src.rf>
@@ -1704,7 +1710,10 @@
 <LM>w#w-mf930709-062-p4s3w21</LM>
 </w.rf>
 <form>přijmou</form>
-<tag lemma="přijmout" src="auto" selected="1">VB-P---3P-AA---</tag>
+<tag>
+<AM lemma="přijmout" src="auto">VB-P---3P-AA---</AM>
+<AM lemma="přijmout_:W" src="manual" selected="1">VB-P---3P-AA---</AM>
+</tag>
 </m>
 <m id="m-mf930709-062-p4s3w22">
 <src.rf>manual</src.rf>

@@ -127,7 +127,10 @@
 <LM>w#w-ln95041-026-p2s1Bw8</LM>
 </w.rf>
 <form>TOP</form>
-<tag lemma="top-1_,h_,t" src="auto" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="top-1_,h_,t" src="auto">AAXXX----1A----</AM>
+<AM lemma="top-2" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95041-026-p2s1Bw9">
 <src.rf>manual</src.rf>
@@ -207,7 +210,10 @@
 <LM>w#w-ln95041-026-p2s1Bw18</LM>
 </w.rf>
 <form>Plachá</form>
-<tag lemma="plachý" src="orig" selected="1">AAFS1----1A----</tag>
+<tag>
+<AM lemma="plachý" src="orig">AAFS1----1A----</AM>
+<AM lemma="Plachá_;S" src="manual" selected="1">NNFS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95041-026-p2s1Bw19">
 <src.rf>manual</src.rf>
@@ -401,7 +407,10 @@
 <LM>w#w-ln95041-026-p2s2w19</LM>
 </w.rf>
 <form>MS</form>
-<tag lemma="MS-3_:B_;w_^(mistrovství_světa)" src="orig" selected="1">NNNXX-----A---8</tag>
+<tag>
+<AM lemma="MS-3_:B_;w_^(mistrovství_světa)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="MS-3_:B_^(mistrovství_světa)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95041-026-p2s2w20">
 <src.rf>manual</src.rf>

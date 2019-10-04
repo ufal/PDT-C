@@ -133,7 +133,10 @@
 <LM>w#w-ln95045-072-p2s1w14</LM>
 </w.rf>
 <form>jako</form>
-<tag lemma="jako-1" src="auto" selected="1">J,-------------</tag>
+<tag>
+<AM lemma="jako-1" src="auto" selected="1">J,-------------</AM>
+<AM lemma="jako-2" src="manual">Db-------------</AM>
+</tag>
 </m>
 <m id="m-ln95045-072-p2s1w15">
 <src.rf>manual</src.rf>
@@ -394,7 +397,7 @@
 <tag>
 <AM lemma="Favorit-2_;R_^(vozidlo)" src="orig">NNIS3-----A----</AM>
 <AM lemma="favorit-1_;R" src="auto">NNIS2-----A----</AM>
-<AM lemma="favorit-1_;R" src="auto" recommended="1">NNIS3-----A----</AM>
+<AM lemma="favorit-1_;R" src="auto" recommended="1" selected="1">NNIS3-----A----</AM>
 <AM lemma="favorit-1_;R" src="auto">NNIS6-----A----</AM>
 <AM lemma="favorit-2" src="auto">NNMS3-----A---1</AM>
 <AM lemma="favorit-2" src="auto">NNMS6-----A---1</AM>
@@ -600,7 +603,10 @@
 <LM>w#w-ln95045-072-p3s1w24</LM>
 </w.rf>
 <form>předal</form>
-<tag lemma="předat-3_:W_^(někomu_něco)" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag>
+<AM lemma="předat-3_:W_^(někomu_něco)" src="orig">VpYS---XR-AA---</AM>
+<AM lemma="předat_:W" src="manual" selected="1">VpYS---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-ln95045-072-p3s1w25">
 <src.rf>manual</src.rf>
@@ -674,7 +680,10 @@
 <LM>w#w-ln95045-072-p4s1w4</LM>
 </w.rf>
 <form>Sarah</form>
-<tag lemma="Sarah_;Y_,t" src="auto" selected="1">NNFXX-----A----</tag>
+<tag>
+<AM lemma="Sarah_;Y_,t" src="auto">NNFXX-----A----</AM>
+<AM lemma="Sarah_;Y" src="manual" selected="1">NNFXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95045-072-p4s1w5">
 <src.rf>manual</src.rf>
@@ -778,7 +787,10 @@
 <LM>w#w-ln95045-072-p4s1w17</LM>
 </w.rf>
 <form>K</form>
-<tag lemma="K-9_:B_;S" src="orig" selected="1">NNMXX-----A---8</tag>
+<tag>
+<AM lemma="K-9_:B_;S" src="orig">NNMXX-----A---8</AM>
+<AM lemma="K-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95045-072-p4s1w18">
 <src.rf>manual</src.rf>
@@ -953,6 +965,8 @@
 <tag>
 <AM lemma="IŽ_;R" src="orig">NNXXX-----A---8</AM>
 <AM lemma="Iža_;G" src="auto" recommended="1">NNFP2-----A----</AM>
+<AM lemma="IŽ_:B" src="manual">NNXXX-----A---8</AM>
+<AM lemma="IŽ-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95045-072-p5s1w4">
@@ -1073,7 +1087,10 @@
 <LM>w#w-ln95045-072-p5s1w18</LM>
 </w.rf>
 <form>P</form>
-<tag lemma="P-9_:B_;S" src="orig" selected="1">NNMXX-----A---8</tag>
+<tag>
+<AM lemma="P-9_:B_;S" src="orig">NNMXX-----A---8</AM>
+<AM lemma="P-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95045-072-p5s1w19">
 <src.rf>manual</src.rf>

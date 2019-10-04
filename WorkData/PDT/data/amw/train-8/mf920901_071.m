@@ -19,7 +19,10 @@
 <LM>w#w-mf920901-071-p1s1w1</LM>
 </w.rf>
 <form>KOVO</form>
-<tag lemma="Kovo_;K_;Y" src="orig" selected="1">NNNS1-----A----</tag>
+<tag>
+<AM lemma="Kovo_;K_;Y" src="orig">NNNS1-----A----</AM>
+<AM lemma="KOVO-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-mf920901-071-p1s1w2">
 <src.rf>manual</src.rf>
@@ -103,7 +106,10 @@
 <LM>w#w-mf920901-071-p2s2w8</LM>
 </w.rf>
 <form>přijala</form>
-<tag lemma="přijmout" src="auto" selected="1">VpQW---XR-AA---</tag>
+<tag>
+<AM lemma="přijmout" src="auto">VpQW---XR-AA---</AM>
+<AM lemma="přijmout_:W" src="manual" selected="1">VpQW---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-mf920901-071-p2s2w9">
 <src.rf>manual</src.rf>
@@ -223,7 +229,10 @@
 <LM>w#w-mf920901-071-p2s2w23</LM>
 </w.rf>
 <form>KOVO</form>
-<tag lemma="Kovo_;K_;Y" src="orig" selected="1">NNNS1-----A----</tag>
+<tag>
+<AM lemma="Kovo_;K_;Y" src="orig">NNNS1-----A----</AM>
+<AM lemma="KOVO-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-mf920901-071-p2s2w24">
 <src.rf>manual</src.rf>
@@ -337,7 +346,10 @@
 <LM>w#w-mf920901-071-p2s3w11</LM>
 </w.rf>
 <form>KOVO</form>
-<tag lemma="Kovo_;K_;Y" src="orig" selected="1">NNNS1-----A----</tag>
+<tag>
+<AM lemma="Kovo_;K_;Y" src="orig">NNNS1-----A----</AM>
+<AM lemma="KOVO-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-mf920901-071-p2s3w12">
 <src.rf>manual</src.rf>
@@ -685,7 +697,10 @@
 <LM>w#w-mf920901-071-p2s5w14</LM>
 </w.rf>
 <form>KOVO</form>
-<tag lemma="Kovo_;K_;Y" src="orig" selected="1">NNNS1-----A----</tag>
+<tag>
+<AM lemma="Kovo_;K_;Y" src="orig">NNNS1-----A----</AM>
+<AM lemma="KOVO-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-mf920901-071-p2s5w15">
 <src.rf>manual</src.rf>
@@ -839,7 +854,10 @@
 <LM>w#w-mf920901-071-p2s6w7</LM>
 </w.rf>
 <form>nezačne</form>
-<tag lemma="začít-1_^(začnout)" src="auto" selected="1">VB-S---3P-NA---</tag>
+<tag>
+<AM lemma="začít-1_^(začnout)" src="auto">VB-S---3P-NA---</AM>
+<AM lemma="začít-1_:W_^(začnout)" src="manual" selected="1">VB-S---3P-NA---</AM>
+</tag>
 </m>
 <m id="m-mf920901-071-p2s6w8">
 <src.rf>manual</src.rf>

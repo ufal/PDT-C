@@ -19,7 +19,10 @@
 <LM>w#w-ln94204-16-p1s1w1</LM>
 </w.rf>
 <form>ABB</form>
-<tag lemma="ABB_:B_;K_,t_^(Asea_Brown_Boveri,_evr._společnost)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ABB_:B_;K_,t_^(Asea_Brown_Boveri,_evr._společnost)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ABB-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94204-16-p1s1w2">
 <src.rf>manual</src.rf>
@@ -77,7 +80,10 @@
 <LM>w#w-ln94204-16-p2s1w4</LM>
 </w.rf>
 <form>Asea</form>
-<tag lemma="Asea_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Asea_;S" src="orig">NNMS1-----A----</AM>
+<AM lemma="Asea-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94204-16-p2s1w5">
 <src.rf>manual</src.rf>
@@ -85,7 +91,10 @@
 <LM>w#w-ln94204-16-p2s1w5</LM>
 </w.rf>
 <form>Brown</form>
-<tag lemma="Brown_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Brown_;S" src="orig">NNMS1-----A----</AM>
+<AM lemma="Brown-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94204-16-p2s1w6">
 <src.rf>manual</src.rf>
@@ -93,7 +102,10 @@
 <LM>w#w-ln94204-16-p2s1w6</LM>
 </w.rf>
 <form>Boveri</form>
-<tag lemma="Boveri_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Boveri_;S" src="orig">NNMS1-----A----</AM>
+<AM lemma="Boveri-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94204-16-p2s1w7">
 <src.rf>manual</src.rf>
@@ -328,7 +340,10 @@
 <LM>w#w-ln94204-16-p3s1w19</LM>
 </w.rf>
 <form>mld</form>
-<tag lemma="miliarda`1000000000_:B" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="miliarda`1000000000_:B" src="orig">NNFXX-----A---8</AM>
+<AM lemma="miliarda`1000000000" src="manual" selected="1">NNFXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln94204-16-p3s1w20">
 <src.rf>manual</src.rf>
@@ -344,7 +359,10 @@
 <LM>w#w-ln94204-16-p3s1w21</LM>
 </w.rf>
 <form>USD</form>
-<tag lemma="USD_:B_;b_^(U.S._dolar)" src="auto" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="USD_:B_;b_^(U.S._dolar)" src="auto">NNIXX-----A---8</AM>
+<AM lemma="USD_:B_^(U.S._dolar)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94204-16-p3s1w22">
 <src.rf>manual</src.rf>
@@ -598,7 +616,10 @@
 <LM>w#w-ln94204-16-p3s4w15</LM>
 </w.rf>
 <form>mld</form>
-<tag lemma="miliarda`1000000000_:B" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="miliarda`1000000000_:B" src="orig">NNFXX-----A---8</AM>
+<AM lemma="miliarda`1000000000" src="manual" selected="1">NNFXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln94204-16-p3s4w16">
 <src.rf>manual</src.rf>
@@ -614,7 +635,10 @@
 <LM>w#w-ln94204-16-p3s4w17</LM>
 </w.rf>
 <form>USD</form>
-<tag lemma="USD_:B_;b_^(U.S._dolar)" src="auto" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="USD_:B_;b_^(U.S._dolar)" src="auto">NNIXX-----A---8</AM>
+<AM lemma="USD_:B_^(U.S._dolar)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94204-16-p3s4w18">
 <src.rf>manual</src.rf>
@@ -833,7 +857,10 @@
 <LM>w#w-ln94204-16-p4s1w22</LM>
 </w.rf>
 <form>ABB</form>
-<tag lemma="ABB_:B_;K_,t_^(Asea_Brown_Boveri,_evr._společnost)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ABB_:B_;K_,t_^(Asea_Brown_Boveri,_evr._společnost)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ABB-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94204-16-p4s1w23">
 <src.rf>manual</src.rf>
@@ -925,7 +952,10 @@
 <LM>w#w-ln94204-16-p4s3w3</LM>
 </w.rf>
 <form>ABB</form>
-<tag lemma="ABB_:B_;K_,t_^(Asea_Brown_Boveri,_evr._společnost)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ABB_:B_;K_,t_^(Asea_Brown_Boveri,_evr._společnost)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ABB-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94204-16-p4s3w4">
 <src.rf>manual</src.rf>
@@ -1000,6 +1030,7 @@
 <tag>
 <AM lemma="USA_;G" src="orig">NNIPX-----A----</AM>
 <AM lemma="USA_:B_;K_,t_^(United_States_of_America)" src="auto" recommended="1">NNIPX-----A---8</AM>
+<AM lemma="USA_:B_;K_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94204-16-p4s3w13">
@@ -1162,7 +1193,10 @@
 <LM>w#w-ln94204-16-p4s4w19</LM>
 </w.rf>
 <form>ABB</form>
-<tag lemma="ABB_:B_;K_,t_^(Asea_Brown_Boveri,_evr._společnost)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ABB_:B_;K_,t_^(Asea_Brown_Boveri,_evr._společnost)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ABB-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94204-16-p4s4w20">
 <src.rf>manual</src.rf>
@@ -1244,7 +1278,10 @@
 <LM>w#w-ln94204-16-p5s1w8</LM>
 </w.rf>
 <form>SRN</form>
-<tag lemma="SRN_:B_;G" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="SRN_:B_;G" src="orig">NNFXX-----A---8</AM>
+<AM lemma="SRN-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94204-16-p5s1w9">
 <src.rf>manual</src.rf>
@@ -1778,7 +1815,10 @@
 <LM>w#w-ln94204-16-p7s1w7</LM>
 </w.rf>
 <form>ABB</form>
-<tag lemma="ABB_:B_;K_,t_^(Asea_Brown_Boveri,_evr._společnost)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ABB_:B_;K_,t_^(Asea_Brown_Boveri,_evr._společnost)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ABB-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94204-16-p7s1w8">
 <src.rf>manual</src.rf>
@@ -2009,6 +2049,7 @@
 <tag>
 <AM lemma="am-99_:B_;S" src="orig">NNXXX-----A---8</AM>
 <AM lemma="be_,t_^(angl._jsem,_v_názvech_apod.)" src="auto" recommended="1">VB-S---1P-AA---</AM>
+<AM lemma="am-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94204-16-p7s3w3">

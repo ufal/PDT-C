@@ -197,7 +197,10 @@
 <LM>w#w-lnd92256-055-p2s1w3</LM>
 </w.rf>
 <form>Janíček</form>
-<tag lemma="Janíček_;Y" src="orig" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Janíček_;Y" src="orig">NNMS1-----A----</AM>
+<AM lemma="Janíček_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 </s>
 </mdata>

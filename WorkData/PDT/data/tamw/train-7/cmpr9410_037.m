@@ -35,7 +35,10 @@
 <LM>w#w-cmpr9410-037-p3s1w3</LM>
 </w.rf>
 <form>č</form>
-<tag lemma="číslo_:B" src="orig" selected="1">NNNXX-----A---8</tag>
+<tag>
+<AM lemma="číslo_:B" src="orig">NNNXX-----A---8</AM>
+<AM lemma="číslo" src="manual" selected="1">NNNXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-cmpr9410-037-p3s1w4">
 <src.rf>manual</src.rf>
@@ -226,7 +229,10 @@
 <LM>w#w-cmpr9410-037-p4s2Bw5</LM>
 </w.rf>
 <form>žije</form>
-<tag lemma="žít" src="auto" selected="1">VB-S---3P-AA---</tag>
+<tag>
+<AM lemma="žít" src="auto">VB-S---3P-AA---</AM>
+<AM lemma="žít_:T" src="manual" selected="1">VB-S---3P-AA---</AM>
+</tag>
 </m>
 <m id="m-cmpr9410-037-p4s2Bw6">
 <src.rf>manual</src.rf>
@@ -268,7 +274,7 @@
 <form>kdykoliv</form>
 <tag>
 <AM lemma="kdykoliv" src="orig">Db-------------</AM>
-<AM lemma="kdykoli" src="auto" recommended="1">Db------------1</AM>
+<AM lemma="kdykoli" src="auto" recommended="1" selected="1">Db------------1</AM>
 </tag>
 </m>
 <m id="m-cmpr9410-037-p4s2Bw12">
@@ -517,7 +523,10 @@
 <LM>w#w-cmpr9410-037-p4s5Aw2</LM>
 </w.rf>
 <form>ABEL</form>
-<tag lemma="Ábel_;Y" src="orig" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Ábel_;Y" src="orig">NNMS1-----A----</AM>
+<AM lemma="Abel_;Y_,s_^(^DD**Ábel)" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-cmpr9410-037-p4s5Aw3">
 <src.rf>manual</src.rf>
@@ -803,7 +812,10 @@
 <LM>w#w-cmpr9410-037-p4s5Dw2</LM>
 </w.rf>
 <form>CAUSA</form>
-<tag lemma="kauza_,x" src="orig" selected="1">NNFS1-----A----</tag>
+<tag>
+<AM lemma="kauza_,x" src="orig">NNFS1-----A----</AM>
+<AM lemma="causa_,s_^(^DD**kauza)" src="manual" selected="1">NNFS1-----A----</AM>
+</tag>
 </m>
 <m id="m-cmpr9410-037-p4s5Dw3">
 <src.rf>manual</src.rf>

@@ -207,7 +207,10 @@
 <LM>w#w-ln95047-029-p2s1Bw18</LM>
 </w.rf>
 <form>V</form>
-<tag lemma="V-0_:B_;Y" src="orig" selected="1">NNMXX-----A---8</tag>
+<tag>
+<AM lemma="V-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
+<AM lemma="V-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95047-029-p2s1Bw19">
 <src.rf>manual</src.rf>
@@ -377,7 +380,10 @@
 <LM>w#w-ln95047-029-p3s1w9</LM>
 </w.rf>
 <form>a</form>
-<tag lemma="akciový_:B_^(jen_akciová_společnost)" src="orig" selected="1">AAXXX----1A---8</tag>
+<tag>
+<AM lemma="akciový_:B_^(jen_akciová_společnost)" src="orig">AAXXX----1A---8</AM>
+<AM lemma="akciový_^(jen_akciová_společnost)" src="manual" selected="1">AAXXX----1A---8</AM>
+</tag>
 </m>
 <m id="m-ln95047-029-p3s1w10">
 <src.rf>manual</src.rf>
@@ -393,7 +399,10 @@
 <LM>w#w-ln95047-029-p3s1w11</LM>
 </w.rf>
 <form>s</form>
-<tag lemma="společnost_:B" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="společnost_:B" src="orig">NNFXX-----A---8</AM>
+<AM lemma="společnost" src="manual" selected="1">NNFXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln95047-029-p3s1w12">
 <src.rf>manual</src.rf>
@@ -937,7 +946,10 @@
 <LM>w#w-ln95047-029-p3s5w13</LM>
 </w.rf>
 <form>sice</form>
-<tag lemma="sice-2" src="auto" selected="1">Db-------------</tag>
+<tag>
+<AM lemma="sice-2" src="auto">Db-------------</AM>
+<AM lemma="sice-1_^(spojka;_připouští_se_určitá_fakta)" src="manual" selected="1">J^-------------</AM>
+</tag>
 </m>
 <m id="m-ln95047-029-p3s5w14">
 <src.rf>manual</src.rf>
@@ -1083,7 +1095,10 @@
 <LM>w#w-ln95047-029-p3s6w3</LM>
 </w.rf>
 <form>přijala</form>
-<tag lemma="přijmout" src="auto" selected="1">VpQW---XR-AA---</tag>
+<tag>
+<AM lemma="přijmout" src="auto">VpQW---XR-AA---</AM>
+<AM lemma="přijmout_:W" src="manual" selected="1">VpQW---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-ln95047-029-p3s6w4">
 <src.rf>manual</src.rf>
@@ -1094,6 +1109,8 @@
 <tag>
 <AM lemma="ČKA_:B_;K_^(Česká_klusácká_asociace)" src="orig">NNFXX-----A----</AM>
 <AM lemma="ČKA-1_:B_;K_^(Český_klub_automobilistů)" src="auto" recommended="1">NNIXX-----A---8</AM>
+<AM lemma="ČKA-2_:B" src="manual">NNXXX-----A---8</AM>
+<AM lemma="ČKA-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95047-029-p3s6w5">
@@ -1613,6 +1630,8 @@
 <tag>
 <AM lemma="ČKA_:B_;K_^(Česká_klusácká_asociace)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="ČKA-1_:B_;K_^(Český_klub_automobilistů)" src="auto" recommended="1">NNIXX-----A---8</AM>
+<AM lemma="ČKA-2_:B" src="manual">NNXXX-----A---8</AM>
+<AM lemma="ČKA-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95047-029-p3s8w21">
@@ -1677,7 +1696,10 @@
 <LM>w#w-ln95047-029-p3s8w28</LM>
 </w.rf>
 <form>Impact</form>
-<tag lemma="Impact_;K" src="auto" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="Impact_;K" src="auto">NNIS1-----A----</AM>
+<AM lemma="Impact-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln95047-029-p3s8w29">
 <src.rf>manual</src.rf>
@@ -1709,7 +1731,10 @@
 <LM>w#w-ln95047-029-p3s8w32</LM>
 </w.rf>
 <form>Art</form>
-<tag lemma="Art-2_;K_,t" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="Art-2_;K_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="Art-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln95047-029-p3s8w33">
 <src.rf>manual</src.rf>
@@ -1717,7 +1742,11 @@
 <LM>w#w-ln95047-029-p3s8w33</LM>
 </w.rf>
 <form>production</form>
-<tag lemma="production_;K_,t" src="orig" selected="1">NNFXX-----A----</tag>
+<tag>
+<AM lemma="production_;K_,t" src="orig">NNFXX-----A----</AM>
+<AM lemma="production_,t" src="manual">NNXXX-----A----</AM>
+<AM lemma="production-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln95047-029-p3s8w34">
 <src.rf>manual</src.rf>
@@ -1744,6 +1773,8 @@
 <AM lemma="komanditní_:B_^(jen_komanditní_společnost)" src="auto">AAXXX----1A---8</AM>
 <AM lemma="koncernový_:B" src="auto">AAXXX----1A---8</AM>
 <AM lemma="kuo-1_:B_,t_^(stará_jednotka_výkonu)" src="auto">NNNXX-----A---8</AM>
+<AM lemma="K-1_:B" src="manual">NNXXX-----A---8</AM>
+<AM lemma="K-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95047-029-p3s8w35">
@@ -2052,7 +2083,10 @@
 <LM>w#w-ln95047-029-p4s1w11</LM>
 </w.rf>
 <form>a</form>
-<tag lemma="akciový_:B_^(jen_akciová_společnost)" src="orig" selected="1">AAXXX----1A---8</tag>
+<tag>
+<AM lemma="akciový_:B_^(jen_akciová_společnost)" src="orig">AAXXX----1A---8</AM>
+<AM lemma="akciový_^(jen_akciová_společnost)" src="manual" selected="1">AAXXX----1A---8</AM>
+</tag>
 </m>
 <m id="m-ln95047-029-p4s1w12">
 <src.rf>manual</src.rf>
@@ -2068,7 +2102,10 @@
 <LM>w#w-ln95047-029-p4s1w13</LM>
 </w.rf>
 <form>s</form>
-<tag lemma="společnost_:B" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="společnost_:B" src="orig">NNFXX-----A---8</AM>
+<AM lemma="společnost" src="manual" selected="1">NNFXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln95047-029-p4s1w14">
 <src.rf>manual</src.rf>
@@ -2277,7 +2314,10 @@
 <LM>w#w-ln95047-029-p4s1w39</LM>
 </w.rf>
 <form>sice</form>
-<tag lemma="sice-2" src="auto" selected="1">Db-------------</tag>
+<tag>
+<AM lemma="sice-2" src="auto">Db-------------</AM>
+<AM lemma="sice-1_^(spojka;_připouští_se_určitá_fakta)" src="manual" selected="1">J^-------------</AM>
+</tag>
 </m>
 <m id="m-ln95047-029-p4s1w40">
 <src.rf>manual</src.rf>
@@ -2439,7 +2479,10 @@
 <LM>w#w-ln95047-029-p4s2w4</LM>
 </w.rf>
 <form>sice</form>
-<tag lemma="sice-2" src="auto" selected="1">Db-------------</tag>
+<tag>
+<AM lemma="sice-2" src="auto">Db-------------</AM>
+<AM lemma="sice-1_^(spojka;_připouští_se_určitá_fakta)" src="manual" selected="1">J^-------------</AM>
+</tag>
 </m>
 <m id="m-ln95047-029-p4s2w5">
 <src.rf>manual</src.rf>

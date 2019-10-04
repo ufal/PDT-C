@@ -94,6 +94,7 @@
 <tag>
 <AM lemma="USA_;G" src="orig">NNIPX-----A----</AM>
 <AM lemma="USA_:B_;K_,t_^(United_States_of_America)" src="auto" recommended="1">NNIPX-----A---8</AM>
+<AM lemma="USA_:B_;K_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 </s>
@@ -224,7 +225,10 @@
 <LM>w#w-mf930708-157-p2s1w16</LM>
 </w.rf>
 <form>New</form>
-<tag lemma="New-1_;G_,t_^(součást_míst._jmen)" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="New-1_;G_,t_^(součást_míst._jmen)" src="orig">AAXXX----1A----</AM>
+<AM lemma="New-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-mf930708-157-p2s1w17">
 <src.rf>manual</src.rf>
@@ -232,7 +236,10 @@
 <LM>w#w-mf930708-157-p2s1w17</LM>
 </w.rf>
 <form>Yorku</form>
-<tag lemma="York-2_;G" src="orig" selected="1">NNIS6-----A----</tag>
+<tag>
+<AM lemma="York-2_;G" src="orig" selected="1">NNIS6-----A----</AM>
+<AM lemma="Yorku-77" src="manual">F%-------------</AM>
+</tag>
 </m>
 <m id="m-mf930708-157-p2s1w18">
 <src.rf>manual</src.rf>
@@ -320,7 +327,10 @@
 <LM>w#w-mf930708-157-p2s1w28</LM>
 </w.rf>
 <form>New</form>
-<tag lemma="New-1_;G_,t_^(součást_míst._jmen)" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="New-1_;G_,t_^(součást_míst._jmen)" src="orig">AAXXX----1A----</AM>
+<AM lemma="New-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-mf930708-157-p2s1w29">
 <src.rf>manual</src.rf>
@@ -546,7 +556,10 @@
 <LM>w#w-mf930708-157-p3s1w10</LM>
 </w.rf>
 <form>New</form>
-<tag lemma="New-1_;G_,t_^(součást_míst._jmen)" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="New-1_;G_,t_^(součást_míst._jmen)" src="orig">AAXXX----1A----</AM>
+<AM lemma="New-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-mf930708-157-p3s1w11">
 <src.rf>manual</src.rf>
@@ -554,7 +567,10 @@
 <LM>w#w-mf930708-157-p3s1w11</LM>
 </w.rf>
 <form>Yersey</form>
-<tag lemma="Yersey_;G" src="orig" selected="1">NNXXX-----A----</tag>
+<tag>
+<AM lemma="Yersey_;G" src="orig">NNXXX-----A----</AM>
+<AM lemma="Yersey-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-mf930708-157-p3s1w12">
 <src.rf>manual</src.rf>
@@ -573,6 +589,7 @@
 <tag>
 <AM lemma="USA_;G" src="orig">NNIPX-----A----</AM>
 <AM lemma="USA_:B_;K_,t_^(United_States_of_America)" src="auto" recommended="1">NNIPX-----A---8</AM>
+<AM lemma="USA_:B_;K_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-mf930708-157-p3s1w14">
@@ -2235,7 +2252,10 @@
 <LM>w#w-mf930708-157-p7s2w12</LM>
 </w.rf>
 <form>začal</form>
-<tag lemma="začít-1_^(začnout)" src="auto" selected="1">VpYS---XR-AA---</tag>
+<tag>
+<AM lemma="začít-1_^(začnout)" src="auto">VpYS---XR-AA---</AM>
+<AM lemma="začít-1_:W_^(začnout)" src="manual" selected="1">VpYS---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-mf930708-157-p7s2w13">
 <src.rf>manual</src.rf>
@@ -2355,7 +2375,10 @@
 <LM>w#w-mf930708-157-p7s2w27</LM>
 </w.rf>
 <form>Gamal</form>
-<tag lemma="Gamal_;S" src="auto" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Gamal_;S" src="auto">NNMS1-----A----</AM>
+<AM lemma="Gamal_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930708-157-p7s2w28">
 <src.rf>manual</src.rf>
@@ -3211,7 +3234,10 @@
 <LM>w#w-mf930708-157-p9s2w16</LM>
 </w.rf>
 <form>zrovna</form>
-<tag lemma="zrovna-1" src="auto" selected="1">Db-------------</tag>
+<tag>
+<AM lemma="zrovna-1" src="auto">Db-------------</AM>
+<AM lemma="zrovna-2" src="manual" selected="1">TT-------------</AM>
+</tag>
 </m>
 <m id="m-mf930708-157-p9s2w17">
 <src.rf>manual</src.rf>
@@ -3423,7 +3449,10 @@
 <LM>w#w-mf930708-157-p10s1w13</LM>
 </w.rf>
 <form>New</form>
-<tag lemma="New-1_;G_,t_^(součást_míst._jmen)" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="New-1_;G_,t_^(součást_míst._jmen)" src="orig">AAXXX----1A----</AM>
+<AM lemma="New-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-mf930708-157-p10s1w14">
 <src.rf>manual</src.rf>
@@ -3572,7 +3601,7 @@
 <tag>
 <AM lemma="přece" src="orig">Db-------------</AM>
 <AM lemma="přece-1" src="auto" recommended="1">J^-------------</AM>
-<AM lemma="přece-2" src="auto">TT-------------</AM>
+<AM lemma="přece-2" src="auto" selected="1">TT-------------</AM>
 </tag>
 </m>
 <m id="m-mf930708-157-p10s2w4">
@@ -4025,7 +4054,10 @@
 <LM>w#w-mf930708-157-p11s2w26</LM>
 </w.rf>
 <form>ABC</form>
-<tag lemma="ABC-4_:B_;K_^(Am._Broadcasting_Corp.;_TV_spol.)" src="auto" selected="1">NNNXX-----A---8</tag>
+<tag>
+<AM lemma="ABC-4_:B_;K_^(Am._Broadcasting_Corp.;_TV_spol.)" src="auto">NNNXX-----A---8</AM>
+<AM lemma="ABC-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-mf930708-157-p11s2w27">
 <src.rf>manual</src.rf>
@@ -4086,6 +4118,7 @@
 <tag>
 <AM lemma="USA_;G" src="orig">NNIPX-----A----</AM>
 <AM lemma="USA_:B_;K_,t_^(United_States_of_America)" src="auto" recommended="1">NNIPX-----A---8</AM>
+<AM lemma="USA_:B_;K_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-mf930708-157-p12s1w7">
@@ -4362,7 +4395,7 @@
 <form>kdekoli</form>
 <tag>
 <AM lemma="kdekoliv" src="orig">Db------------1</AM>
-<AM lemma="kdekoli" src="auto" recommended="1">Db-------------</AM>
+<AM lemma="kdekoli" src="auto" recommended="1" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m-mf930708-157-p12s2w25">
@@ -4467,7 +4500,10 @@
 <LM>w#w-mf930708-157-p12s2w38</LM>
 </w.rf>
 <form>sionismu</form>
-<tag lemma="sionismus" src="orig" selected="1">NNIS2-----A----</tag>
+<tag>
+<AM lemma="sionismus" src="orig">NNIS2-----A----</AM>
+<AM lemma="sionismus_,s_^(^DD**sionizmus)" src="manual" selected="1">NNIS2-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930708-157-p12s2w39">
 <src.rf>manual</src.rf>
@@ -4483,7 +4519,10 @@
 <LM>w#w-mf930708-157-p12s2w40</LM>
 </w.rf>
 <form>komunismu</form>
-<tag lemma="komunismus" src="orig" selected="1">NNIS2-----A----</tag>
+<tag>
+<AM lemma="komunismus" src="orig">NNIS2-----A----</AM>
+<AM lemma="komunismus_,s_^(^DD**komunizmus)" src="manual" selected="1">NNIS2-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930708-157-p12s2w41">
 <src.rf>manual</src.rf>
@@ -4499,7 +4538,10 @@
 <LM>w#w-mf930708-157-p12s2w42</LM>
 </w.rf>
 <form>imperialismu</form>
-<tag lemma="imperialismus" src="orig" selected="1">NNIS2-----A----</tag>
+<tag>
+<AM lemma="imperialismus" src="orig">NNIS2-----A----</AM>
+<AM lemma="imperialismus_,s_^(^DD**imperializmus)" src="manual" selected="1">NNIS2-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930708-157-p12s2w43">
 <src.rf>manual</src.rf>
@@ -4968,6 +5010,7 @@
 <tag>
 <AM lemma="USA_;G" src="orig">NNIPX-----A----</AM>
 <AM lemma="USA_:B_;K_,t_^(United_States_of_America)" src="auto" recommended="1">NNIPX-----A---8</AM>
+<AM lemma="USA_:B_;K_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-mf930708-157-p13s5w8">
@@ -5224,7 +5267,10 @@
 <LM>w#w-mf930708-157-p15s1w4</LM>
 </w.rf>
 <form>MF</form>
-<tag lemma="MF-1_:B_;R_;b_^(Mladá_Fronta,_deník)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="MF-1_:B_;R_;b_^(Mladá_Fronta,_deník)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="MF-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-mf930708-157-p15s1w5">
 <src.rf>manual</src.rf>

@@ -1185,7 +1185,10 @@
 <LM>w#w-vesm9301-045-p3s1w67</LM>
 </w.rf>
 <form>mechanismů</form>
-<tag lemma="mechanismus" src="orig" selected="1">NNIP2-----A----</tag>
+<tag>
+<AM lemma="mechanismus" src="orig">NNIP2-----A----</AM>
+<AM lemma="mechanismus_,s__^(^DD**mechanizmus)" src="manual" selected="1">NNIP2-----A----</AM>
+</tag>
 </m>
 <m id="m-vesm9301-045-p3s1w68">
 <src.rf>manual</src.rf>
@@ -1303,6 +1306,7 @@
 <AM lemma="American_:B_;K_,t" src="orig">AAXXX----1A---8</AM>
 <AM lemma="americium_:B_;H" src="auto" recommended="1">NNNXX-----A---8</AM>
 <AM lemma="be_,t_^(angl._jsem,_v_názvech_apod.)" src="auto">VB-S---1P-AA---</AM>
+<AM lemma="Am-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-vesm9301-045-p4s1w5">
@@ -1319,7 +1323,10 @@
 <LM>w#w-vesm9301-045-p4s1w6</LM>
 </w.rf>
 <form>J</form>
-<tag lemma="J-6_:B_;R" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="J-6_:B_;R" src="orig">NNXXX-----A---8</AM>
+<AM lemma="J-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-vesm9301-045-p4s1w7">
 <src.rf>manual</src.rf>
@@ -1338,6 +1345,7 @@
 <tag>
 <AM lemma="Psychology_:B_;K_,t" src="orig">NNFXX-----A---8</AM>
 <AM lemma="psycha_,a_^(duše;;zrcadlo_s_toaletním_stolkem)" src="auto" recommended="1">NNFP2-----A----</AM>
+<AM lemma="Psych-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-vesm9301-045-p4s1w9">
@@ -1409,6 +1417,7 @@
 <AM lemma="Britský_:B_;m" src="auto">AAXXX----1A---9</AM>
 <AM lemma="Británie_:B_;m" src="auto">NNFXX-----A---9</AM>
 <AM lemma="britský_:B" src="auto" recommended="1">AAXXX----1A---8</AM>
+<AM lemma="Brit-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-vesm9301-045-p4s1w17">
@@ -1425,7 +1434,10 @@
 <LM>w#w-vesm9301-045-p4s1w18</LM>
 </w.rf>
 <form>J</form>
-<tag lemma="J-6_:B_;R" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="J-6_:B_;R" src="orig">NNXXX-----A---8</AM>
+<AM lemma="J-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-vesm9301-045-p4s1w19">
 <src.rf>manual</src.rf>
@@ -1444,6 +1456,7 @@
 <tag>
 <AM lemma="Psychology_:B_;K_,t" src="orig">NNFXX-----A---8</AM>
 <AM lemma="psycha_,a_^(duše;;zrcadlo_s_toaletním_stolkem)" src="auto" recommended="1">NNFP2-----A----</AM>
+<AM lemma="Psych-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-vesm9301-045-p4s1w21">

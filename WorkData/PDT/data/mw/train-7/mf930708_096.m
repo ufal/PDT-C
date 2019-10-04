@@ -51,7 +51,10 @@
 <LM>w#w-mf930708-096-p1s1w5</LM>
 </w.rf>
 <form>vynesen</form>
-<tag lemma="vynést" src="orig" selected="1">VsYS---XX-AP---</tag>
+<tag>
+<AM lemma="vynést" src="orig">VsYS---XX-AP---</AM>
+<AM lemma="vynést_:W" src="manual" selected="1">VsYS---XX-AP---</AM>
+</tag>
 </m>
 <m id="m-mf930708-096-p1s1w6">
 <src.rf>manual</src.rf>
@@ -101,7 +104,10 @@
 <LM>w#w-mf930708-096-p2s1w3</LM>
 </w.rf>
 <form>ina</form>
-<tag lemma="ina-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="ina-99_:B_;S" src="orig">NNXXX-----A---8</AM>
+<AM lemma="ina-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930708-096-p2s1w4">
 <src.rf>manual</src.rf>
@@ -261,7 +267,10 @@
 <LM>w#w-mf930708-096-p2s1w23</LM>
 </w.rf>
 <form>ČSR</form>
-<tag lemma="ČSR-1_:B_;G_^(Česká_socialistická_republika)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ČSR-1_:B_;G_^(Česká_socialistická_republika)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČSR-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930708-096-p2s1w24">
 <src.rf>manual</src.rf>
@@ -297,7 +306,7 @@
 <form>Ačkoli</form>
 <tag>
 <AM lemma="ačkoliv" src="orig">J,------------1</AM>
-<AM lemma="ačkoli" src="auto" recommended="1">J,-------------</AM>
+<AM lemma="ačkoli" src="auto" recommended="1" selected="1">J,-------------</AM>
 </tag>
 </m>
 <m id="m-mf930708-096-p2s2w2">
@@ -1268,7 +1277,10 @@
 <LM>w#w-mf930708-096-p4s1w30</LM>
 </w.rf>
 <form>ČSSR</form>
-<tag lemma="ČSSR-1_:B_;G_^(Čs._socialistická_republika)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ČSSR-1_:B_;G_^(Čs._socialistická_republika)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČSSR-1_:B_;G_^(Čs._socialistická_republika)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930708-096-p4s1w31">
 <src.rf>manual</src.rf>
@@ -1414,7 +1426,10 @@
 <LM>w#w-mf930708-096-p5s1w15</LM>
 </w.rf>
 <form>odsouzen</form>
-<tag lemma="odsoudit" src="orig" selected="1">VsYS---XX-AP---</tag>
+<tag>
+<AM lemma="odsoudit" src="orig">VsYS---XX-AP---</AM>
+<AM lemma="odsoudit_:W" src="manual" selected="1">VsYS---XX-AP---</AM>
+</tag>
 </m>
 <m id="m-mf930708-096-p5s1w16">
 <src.rf>manual</src.rf>

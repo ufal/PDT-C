@@ -79,7 +79,7 @@
 <AM lemma="šance" src="auto">NNFP1-----A----</AM>
 <AM lemma="šance" src="auto">NNFP4-----A----</AM>
 <AM lemma="šance" src="auto">NNFP5-----A----</AM>
-<AM lemma="šance" src="auto" recommended="1">NNFS1-----A----</AM>
+<AM lemma="šance" src="auto" recommended="1" selected="1">NNFS1-----A----</AM>
 <AM lemma="šance" src="auto">NNFS2-----A----</AM>
 <AM lemma="šance" src="auto">NNFS5-----A----</AM>
 </tag>
@@ -238,6 +238,7 @@
 <tag>
 <AM lemma="Kč" src="orig">NNFXX-----A----</AM>
 <AM lemma="Kč_:B" src="auto" recommended="1">NNFXX-----A---8</AM>
+<AM lemma="Kč_:B" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94206-118-p6s2w21">
@@ -313,6 +314,7 @@
 <tag>
 <AM lemma="Kč" src="orig">NNFXX-----A----</AM>
 <AM lemma="Kč_:B" src="auto" recommended="1">NNFXX-----A---8</AM>
+<AM lemma="Kč_:B" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94206-118-p6s2w30">
@@ -388,6 +390,7 @@
 <tag>
 <AM lemma="Kč" src="orig">NNFXX-----A----</AM>
 <AM lemma="Kč_:B" src="auto" recommended="1">NNFXX-----A---8</AM>
+<AM lemma="Kč_:B" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94206-118-p6s2w39">

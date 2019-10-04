@@ -315,7 +315,10 @@
 <LM>w#w-ln95045-008-p3s1w5</LM>
 </w.rf>
 <form>Financial</form>
-<tag lemma="Financial_;R_,t" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="Financial_;R_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="Financial-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln95045-008-p3s1w6">
 <src.rf>manual</src.rf>
@@ -323,7 +326,10 @@
 <LM>w#w-ln95045-008-p3s1w6</LM>
 </w.rf>
 <form>Times</form>
-<tag lemma="Times-1_;K_,t_^(souč._názvů,_např._The_Times)" src="orig" selected="1">NNIPX-----A----</tag>
+<tag>
+<AM lemma="Times-1_;K_,t_^(souč._názvů,_např._The_Times)" src="orig">NNIPX-----A----</AM>
+<AM lemma="Times-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln95045-008-p3s1w7">
 <src.rf>manual</src.rf>
@@ -509,7 +515,10 @@
 <LM>w#w-ln95045-008-p3s2w9</LM>
 </w.rf>
 <form>pomohla</form>
-<tag lemma="pomoci" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag>
+<AM lemma="pomoci" src="orig">VpQW---XR-AA---</AM>
+<AM lemma="pomoci_:W" src="manual" selected="1">VpQW---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-ln95045-008-p3s2w10">
 <src.rf>manual</src.rf>
@@ -611,6 +620,8 @@
 <tag>
 <AM lemma="pesos" src="orig">NNNXX-----A----</AM>
 <AM lemma="peso_,x" src="auto" recommended="1">NNIPX-----A---1</AM>
+<AM lemma="pesos_,s_^(^DD**peso)" src="manual">NNIPX-----A---1</AM>
+<AM lemma="pesos_,s_^(^DD**peso)" src="manual" selected="1">NNIPX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95045-008-p3s3w9">
@@ -663,6 +674,7 @@
 <tag>
 <AM lemma="pesos" src="orig">NNNXX-----A----</AM>
 <AM lemma="peso_,x" src="auto" recommended="1">NNIPX-----A---1</AM>
+<AM lemma="pesos_,s_^(^DD**peso)" src="manual" selected="1">NNIPX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95045-008-p3s3w15">

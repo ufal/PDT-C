@@ -97,7 +97,7 @@
 <form>Tokio</form>
 <tag>
 <AM lemma="Tokyo_;G" src="orig">NNNS1-----A----</AM>
-<AM lemma="Tokio_;G" src="auto" recommended="1">NNNS1-----A----</AM>
+<AM lemma="Tokio_;G" src="auto" recommended="1" selected="1">NNNS1-----A----</AM>
 <AM lemma="Tokio_;G" src="auto">NNNS4-----A----</AM>
 <AM lemma="Tokio_;G" src="auto">NNNS5-----A----</AM>
 </tag>
@@ -182,7 +182,10 @@
 <LM>w#w-ln95040-145-p3s1Bw9</LM>
 </w.rf>
 <form>DRAM</form>
-<tag lemma="DRAM_:B_;c_,t_^(Dyn._Random_access_memory)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="DRAM_:B_;c_,t_^(Dyn._Random_access_memory)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="DRAM-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln95040-145-p3s1Bw10">
 <src.rf>manual</src.rf>
@@ -272,7 +275,10 @@
 <LM>w#w-ln95040-145-p3s2w3</LM>
 </w.rf>
 <form>NEC</form>
-<tag lemma="NEC-1_:B_;K_,t_^(Nippon_Electric_Corporation)" src="auto" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="NEC-1_:B_;K_,t_^(Nippon_Electric_Corporation)" src="auto">NNIXX-----A---8</AM>
+<AM lemma="NEC-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln95040-145-p3s2w4">
 <src.rf>manual</src.rf>
@@ -360,7 +366,10 @@
 <LM>w#w-ln95040-145-p3s2w14</LM>
 </w.rf>
 <form>San</form>
-<tag lemma="San-2_;G" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="San-2_;G" src="orig">AAXXX----1A----</AM>
+<AM lemma="San-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln95040-145-p3s2w15">
 <src.rf>manual</src.rf>
@@ -368,7 +377,10 @@
 <LM>w#w-ln95040-145-p3s2w15</LM>
 </w.rf>
 <form>Francisku</form>
-<tag lemma="Francisko_;G" src="orig" selected="1">NNNS6-----A----</tag>
+<tag>
+<AM lemma="Francisko_;G" src="orig">NNNS6-----A----</AM>
+<AM lemma="Francisko-2_;G_,s_^(^DD**Francisco)" src="manual" selected="1">NNNS6-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95040-145-p3s2w16">
 <src.rf>manual</src.rf>
@@ -998,7 +1010,7 @@
 <tag>
 <AM lemma="tedy" src="orig">Db-------------</AM>
 <AM lemma="tedy-1" src="auto">TT-------------</AM>
-<AM lemma="tedy-2" src="auto" recommended="1">J^-------------</AM>
+<AM lemma="tedy-2" src="auto" recommended="1" selected="1">J^-------------</AM>
 </tag>
 </m>
 <m id="m-ln95040-145-p4s4w11">
@@ -1073,7 +1085,10 @@
 <LM>w#w-ln95040-145-p5s1w5</LM>
 </w.rf>
 <form>NEC</form>
-<tag lemma="NEC-1_:B_;K_,t_^(Nippon_Electric_Corporation)" src="auto" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="NEC-1_:B_;K_,t_^(Nippon_Electric_Corporation)" src="auto">NNIXX-----A---8</AM>
+<AM lemma="NEC-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln95040-145-p5s1w6">
 <src.rf>manual</src.rf>
@@ -1081,7 +1096,10 @@
 <LM>w#w-ln95040-145-p5s1w6</LM>
 </w.rf>
 <form>H</form>
-<tag lemma="H-0_:B_;Y" src="orig" selected="1">NNMXX-----A---8</tag>
+<tag>
+<AM lemma="H-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
+<AM lemma="H-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln95040-145-p5s1w7">
 <src.rf>manual</src.rf>
@@ -1129,7 +1147,10 @@
 <LM>w#w-ln95040-145-p5s1w12</LM>
 </w.rf>
 <form>DRAM</form>
-<tag lemma="DRAM_:B_;c_,t_^(Dyn._Random_access_memory)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="DRAM_:B_;c_,t_^(Dyn._Random_access_memory)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="DRAM-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln95040-145-p5s1w13">
 <src.rf>manual</src.rf>
@@ -1469,7 +1490,10 @@
 <LM>w#w-ln95040-145-p6s2w2</LM>
 </w.rf>
 <form>NEC</form>
-<tag lemma="NEC-1_:B_;K_,t_^(Nippon_Electric_Corporation)" src="auto" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="NEC-1_:B_;K_,t_^(Nippon_Electric_Corporation)" src="auto">NNIXX-----A---8</AM>
+<AM lemma="NEC-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln95040-145-p6s2w3">
 <src.rf>manual</src.rf>
@@ -1730,7 +1754,10 @@
 <LM>w#w-ln95040-145-p8s1Aw2</LM>
 </w.rf>
 <form>jen</form>
-<tag lemma="jen-1" src="auto" selected="1">TT-------------</tag>
+<tag>
+<AM lemma="jen-1" src="auto">TT-------------</AM>
+<AM lemma="jen-4_^(pouze)" src="manual" selected="1">Db-------------</AM>
+</tag>
 </m>
 <m id="m-ln95040-145-p8s1Aw3">
 <src.rf>manual</src.rf>
@@ -1828,7 +1855,10 @@
 <LM>w#w-ln95040-145-p8s1Bw2</LM>
 </w.rf>
 <form>ČTK</form>
-<tag lemma="ČTK-1_:B_;K_^(Čs./Česká_tisková_kancelář)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ČTK-1_:B_;K_^(Čs./Česká_tisková_kancelář)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČTK-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 </s>
 </mdata>

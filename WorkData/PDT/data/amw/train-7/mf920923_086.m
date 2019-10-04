@@ -71,7 +71,10 @@
 <LM>w#w-mf920923-086-p2s1Bw2</LM>
 </w.rf>
 <form>ČR</form>
-<tag lemma="ČR-1_:B_;G_^(Česká_republika)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920923-086-p2s1Bw3">
 <src.rf>manual</src.rf>
@@ -958,7 +961,10 @@
 <LM>w#w-mf920923-086-p5s1Bw6</LM>
 </w.rf>
 <form>geomag</form>
-<tag lemma="geomagnetický_:B" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="geomagnetický_:B" src="orig">AAXXX----1A----</AM>
+<AM lemma="geomagnetický" src="manual" selected="1">AAXXX----1A---8</AM>
+</tag>
 </m>
 <m id="m-mf920923-086-p5s1Bw7">
 <src.rf>manual</src.rf>

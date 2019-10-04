@@ -43,7 +43,10 @@
 <LM>w#w-lnd92256-003-p1s1w4</LM>
 </w.rf>
 <form>JAR</form>
-<tag lemma="jaro" src="orig" selected="1">NNNP2-----A----</tag>
+<tag>
+<AM lemma="jaro" src="orig">NNNP2-----A----</AM>
+<AM lemma="JAR-1_:B_;G_^(Jihoafrická_republika)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92256-003-p1s1w5">
 <src.rf>manual</src.rf>
@@ -69,7 +72,10 @@
 <LM>w#w-lnd92256-003-p2s1w2</LM>
 </w.rf>
 <form>dementi</form>
-<tag lemma="dementi_,t" src="auto" selected="1">NNNXX-----A----</tag>
+<tag>
+<AM lemma="dementi_,t" src="auto">NNNXX-----A----</AM>
+<AM lemma="dementi-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 </s>
 <s id="m-lnd92256-003-p3s1">
@@ -201,7 +207,10 @@
 <LM>w#w-lnd92256-003-p3s2w14</LM>
 </w.rf>
 <form>JAR</form>
-<tag lemma="jaro" src="orig" selected="1">NNNP2-----A----</tag>
+<tag>
+<AM lemma="jaro" src="orig">NNNP2-----A----</AM>
+<AM lemma="JAR-1_:B_;G_^(Jihoafrická_republika)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92256-003-p3s2w15">
 <src.rf>manual</src.rf>
@@ -315,7 +324,10 @@
 <LM>w#w-lnd92256-003-p3s3w6</LM>
 </w.rf>
 <form>New</form>
-<tag lemma="New-1_;G_,t_^(součást_míst._jmen)" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="New-1_;G_,t_^(součást_míst._jmen)" src="orig">AAXXX----1A----</AM>
+<AM lemma="New-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-lnd92256-003-p3s3w7">
 <src.rf>manual</src.rf>
@@ -323,7 +335,10 @@
 <LM>w#w-lnd92256-003-p3s3w7</LM>
 </w.rf>
 <form>Nation</form>
-<tag lemma="Nation_;R_,t" src="orig" selected="1">NNIXX-----A----</tag>
+<tag>
+<AM lemma="Nation_;R_,t" src="orig">NNIXX-----A----</AM>
+<AM lemma="Nation-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-lnd92256-003-p3s3w8">
 <src.rf>manual</src.rf>
@@ -419,7 +434,10 @@
 <LM>w#w-lnd92256-003-p3s3w19</LM>
 </w.rf>
 <form>Eduarda</form>
-<tag lemma="Eduard_;Y" src="orig" selected="1">NNMS4-----A----</tag>
+<tag>
+<AM lemma="Eduard_;Y" src="orig">NNMS4-----A----</AM>
+<AM lemma="Eduardo_;Y" src="manual" selected="1">NNMS4-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92256-003-p3s3w20">
 <src.rf>manual</src.rf>
@@ -427,7 +445,10 @@
 <LM>w#w-lnd92256-003-p3s3w20</LM>
 </w.rf>
 <form>dos</form>
-<tag lemma="dos" src="orig" selected="1">RR--X----------</tag>
+<tag>
+<AM lemma="dos" src="orig">RR--X----------</AM>
+<AM lemma="dos-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-lnd92256-003-p3s3w21">
 <src.rf>manual</src.rf>
@@ -483,7 +504,10 @@
 <LM>w#w-lnd92256-003-p3s3w27</LM>
 </w.rf>
 <form>UNITA</form>
-<tag lemma="UNITA_:B_;K_;p_^(partyz._org._v_Angole)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="UNITA_:B_;K_;p_^(partyz._org._v_Angole)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="UNITA-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd92256-003-p3s3w28">
 <src.rf>manual</src.rf>
@@ -533,7 +557,10 @@
 <LM>w#w-lnd92256-003-p3s4w5</LM>
 </w.rf>
 <form>řekl</form>
-<tag lemma="říci" src="auto" selected="1">VpYS---XR-AA---</tag>
+<tag>
+<AM lemma="říci" src="auto">VpYS---XR-AA---</AM>
+<AM lemma="říci_:W" src="manual" selected="1">VpYS---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-lnd92256-003-p3s4w6">
 <src.rf>manual</src.rf>
@@ -742,7 +769,10 @@
 <LM>w#w-lnd92256-003-p3s4w31</LM>
 </w.rf>
 <form>UNITA</form>
-<tag lemma="UNITA_:B_;K_;p_^(partyz._org._v_Angole)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="UNITA_:B_;K_;p_^(partyz._org._v_Angole)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="UNITA-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd92256-003-p3s4w32">
 <src.rf>manual</src.rf>
@@ -824,7 +854,10 @@
 <LM>w#w-lnd92256-003-p3s5w7</LM>
 </w.rf>
 <form>UNITA</form>
-<tag lemma="UNITA_:B_;K_;p_^(partyz._org._v_Angole)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="UNITA_:B_;K_;p_^(partyz._org._v_Angole)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="UNITA-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd92256-003-p3s5w8">
 <src.rf>manual</src.rf>

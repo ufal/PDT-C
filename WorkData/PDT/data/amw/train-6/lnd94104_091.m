@@ -45,7 +45,11 @@
 <LM>w#w-lnd94104-091-p1s1Bw1</LM>
 </w.rf>
 <form>Nejvíce</form>
-<tag lemma="hodně-2" src="auto" selected="1">Dg-------3A----</tag>
+<tag>
+<AM lemma="hodně-2" src="auto">Dg-------3A----</AM>
+<AM lemma="hodně-3" src="manual">Dg-------3A----</AM>
+<AM lemma="nejvíce_^(nejvíce_+_2._p.,_nejvíce_peněz)" src="manual" selected="1">Ca--1----------</AM>
+</tag>
 </m>
 <m id="m-lnd94104-091-p1s1Bw2">
 <src.rf>manual</src.rf>
@@ -97,6 +101,7 @@
 <AM lemma="Teige_;S" src="orig">NNMS2-----A----</AM>
 <AM lemma="Teig_;S" src="auto">NNMS2-----A----</AM>
 <AM lemma="Teig_;S" src="auto" recommended="1">NNMS4-----A----</AM>
+<AM lemma="Teige_;S" src="manual" selected="1">NNMS4-----A---1</AM>
 </tag>
 </m>
 </s>
@@ -471,7 +476,10 @@
 <LM>w#w-lnd94104-091-p1s3w9</LM>
 </w.rf>
 <form>milionů</form>
-<tag lemma="milión`1000000" src="orig" selected="1">NNIP2-----A----</tag>
+<tag>
+<AM lemma="milión`1000000" src="orig">NNIP2-----A----</AM>
+<AM lemma="milion`1000000_,s_^(^DD**milión)" src="manual" selected="1">NNIP2-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd94104-091-p1s3w10">
 <src.rf>manual</src.rf>
@@ -626,7 +634,10 @@
 <LM>w#w-lnd94104-091-p1s4Aw18</LM>
 </w.rf>
 <form>milionu</form>
-<tag lemma="milión`1000000" src="orig" selected="1">NNIS2-----A----</tag>
+<tag>
+<AM lemma="milión`1000000" src="orig">NNIS2-----A----</AM>
+<AM lemma="milion`1000000_,s_^(^DD**milión)" src="manual" selected="1">NNIS2-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd94104-091-p1s4Aw19">
 <src.rf>manual</src.rf>
@@ -1546,6 +1557,7 @@
 <AM lemma="Teige_;S" src="orig">NNMS2-----A----</AM>
 <AM lemma="Teig_;S" src="auto" recommended="1">NNMS2-----A----</AM>
 <AM lemma="Teig_;S" src="auto">NNMS4-----A----</AM>
+<AM lemma="Teige_;S" src="manual" selected="1">NNMS2-----A---1</AM>
 </tag>
 </m>
 <m id="m-lnd94104-091-p1s8Bw17">
@@ -1664,6 +1676,7 @@
 <AM lemma="Teige_;S" src="orig">NNMS2-----A----</AM>
 <AM lemma="Teig_;S" src="auto" recommended="1">NNMS2-----A----</AM>
 <AM lemma="Teig_;S" src="auto">NNMS4-----A----</AM>
+<AM lemma="Teige_;S" src="manual" selected="1">NNMS2-----A---1</AM>
 </tag>
 </m>
 <m id="m-lnd94104-091-p1s9w3">
@@ -2513,7 +2526,10 @@
 <LM>w#w-lnd94104-091-p1s11Cw21</LM>
 </w.rf>
 <form>hodně</form>
-<tag lemma="hodně-2_^(nezlobivý)_(*3ý-2)" src="auto" selected="1">Dg-------1A----</tag>
+<tag>
+<AM lemma="hodně-2_^(nezlobivý)_(*3ý-2)" src="auto">Dg-------1A----</AM>
+<AM lemma="hodně-3" src="manual" selected="1">Dg-------1A----</AM>
+</tag>
 </m>
 <m id="m-lnd94104-091-p1s11Cw22">
 <src.rf>manual</src.rf>
@@ -2553,7 +2569,10 @@
 <LM>w#w-lnd94104-091-p1s11Cw26</LM>
 </w.rf>
 <form>TORST</form>
-<tag lemma="Torst_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Torst_;S" src="orig">NNMS1-----A----</AM>
+<AM lemma="Torst_;S_;K" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd94104-091-p1s11Cw27">
 <src.rf>manual</src.rf>
@@ -2747,7 +2766,10 @@
 <LM>w#w-lnd94104-091-p1s12Aw18</LM>
 </w.rf>
 <form>Thyrsus</form>
-<tag lemma="Thyrsus_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Thyrsus_;S" src="orig">NNMS1-----A----</AM>
+<AM lemma="Thyrsus_;K" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd94104-091-p1s12Aw19">
 <src.rf>manual</src.rf>
@@ -2814,7 +2836,7 @@
 </w.rf>
 <form>pal</form>
 <tag>
-<AM lemma="pal-99_:B_;S" src="orig">NNXXX-----A---8</AM>
+<AM lemma="pal-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</AM>
 <AM lemma="pálit" src="auto" recommended="1">Vi-S---2--A----</AM>
 <AM lemma="pálit" src="auto">Vi-S---3--A---4</AM>
 </tag>

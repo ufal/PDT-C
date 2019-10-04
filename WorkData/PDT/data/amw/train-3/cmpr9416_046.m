@@ -79,7 +79,10 @@
 <LM>w#w-cmpr9416-046-p4s1w1</LM>
 </w.rf>
 <form>ČR</form>
-<tag lemma="ČR-1_:B_;G_^(Česká_republika)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-cmpr9416-046-p4s1w2">
 <src.rf>manual</src.rf>
@@ -125,6 +128,8 @@
 <AM lemma="byznys" src="orig">NNIS4-----A----</AM>
 <AM lemma="business_,t" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="business_,t" src="auto">NNIS4-----A----</AM>
+<AM lemma="business_,t" src="manual">NNXXX-----A----</AM>
+<AM lemma="Business-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-cmpr9416-046-p11s1w4">
@@ -133,7 +138,11 @@
 <LM>w#w-cmpr9416-046-p11s1w4</LM>
 </w.rf>
 <form>Week</form>
-<tag lemma="Week_;K_^(tisk)" src="orig" selected="1">NNIS4-----A----</tag>
+<tag>
+<AM lemma="Week_;K_^(tisk)" src="orig">NNIS4-----A----</AM>
+<AM lemma="week_,t" src="manual">NNXXX-----A----</AM>
+<AM lemma="Week-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 </s>
 </mdata>

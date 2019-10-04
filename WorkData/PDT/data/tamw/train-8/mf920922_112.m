@@ -217,7 +217,10 @@
 <LM>w#w-mf920922-112-p2s2w14</LM>
 </w.rf>
 <form>OSN</form>
-<tag lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920922-112-p2s2w15">
 <src.rf>manual</src.rf>
@@ -299,7 +302,10 @@
 <LM>w#w-mf920922-112-p2s3w6</LM>
 </w.rf>
 <form>Al</form>
-<tag lemma="Al-5_;m_,t_^(arab._člen,_i_ve_jm.)" src="auto" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="Al-5_;m_,t_^(arab._člen,_i_ve_jm.)" src="auto">AAXXX----1A----</AM>
+<AM lemma="Al-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-mf920922-112-p2s3w7">
 <src.rf>manual</src.rf>
@@ -318,6 +324,7 @@
 <tag>
 <AM lemma="Haját-2_;R" src="orig">NNIS1-----A----</AM>
 <AM lemma="Haját_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Haját-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-mf920922-112-p2s3w9">
@@ -416,7 +423,10 @@
 <LM>w#w-mf920922-112-p2s4w11</LM>
 </w.rf>
 <form>začal</form>
-<tag lemma="začít-1_^(začnout)" src="auto" selected="1">VpYS---XR-AA---</tag>
+<tag>
+<AM lemma="začít-1_^(začnout)" src="auto">VpYS---XR-AA---</AM>
+<AM lemma="začít-1_:W_^(začnout)" src="manual" selected="1">VpYS---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-mf920922-112-p2s4w12">
 <src.rf>manual</src.rf>
@@ -882,7 +892,10 @@
 <LM>w#w-mf920922-112-p2s5w12</LM>
 </w.rf>
 <form>navzdory</form>
-<tag lemma="navzdory-2" src="auto" selected="1">Db-------------</tag>
+<tag>
+<AM lemma="navzdory-2" src="auto">Db-------------</AM>
+<AM lemma="navzdory-1" src="manual" selected="1">RR--3----------</AM>
+</tag>
 </m>
 <m id="m-mf920922-112-p2s5w13">
 <src.rf>manual</src.rf>
@@ -970,7 +983,10 @@
 <LM>w#w-mf920922-112-p2s5w23</LM>
 </w.rf>
 <form>strany</form>
-<tag lemma="strana-3_^(u_soudu,_na_úřadě,_smluvní_strany;_na_něčí_straně)" src="orig" selected="1">NNFS2-----A----</tag>
+<tag>
+<AM lemma="strana-3_^(u_soudu,_na_úřadě,_smluvní_strany;_na_něčí_straně)" src="orig">NNFS2-----A----</AM>
+<AM lemma="strana" src="manual" selected="1">NNFS2-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920922-112-p2s5w24">
 <src.rf>manual</src.rf>
@@ -1108,7 +1124,10 @@
 <LM>w#w-mf920922-112-p2s6w11</LM>
 </w.rf>
 <form>Al</form>
-<tag lemma="Al-5_;m_,t_^(arab._člen,_i_ve_jm.)" src="auto" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="Al-5_;m_,t_^(arab._člen,_i_ve_jm.)" src="auto">AAXXX----1A----</AM>
+<AM lemma="Al-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-mf920922-112-p2s6w12">
 <src.rf>manual</src.rf>
@@ -1127,6 +1146,7 @@
 <tag>
 <AM lemma="Haját-2_;R" src="orig">NNIS1-----A----</AM>
 <AM lemma="Haját_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Haját-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-mf920922-112-p2s6w14">
@@ -1186,6 +1206,7 @@
 <tag>
 <AM lemma="USA_;G" src="orig">NNIPX-----A----</AM>
 <AM lemma="USA_:B_;K_,t_^(United_States_of_America)" src="auto" recommended="1">NNIPX-----A---8</AM>
+<AM lemma="USA_:B_;K_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920922-112-p2s6w21">

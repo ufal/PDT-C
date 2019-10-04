@@ -185,7 +185,10 @@
 <LM>w#w-ln95040-017-p2s1Bw13</LM>
 </w.rf>
 <form>SCP</form>
-<tag lemma="SCP-1_:B_;K_;b_^(Středisko_cenných_papírů)" src="orig" selected="1">NNNXX-----A---8</tag>
+<tag>
+<AM lemma="SCP-1_:B_;K_;b_^(Středisko_cenných_papírů)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="SCP-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln95040-017-p2s1Bw14">
 <src.rf>manual</src.rf>
@@ -299,7 +302,10 @@
 <LM>w#w-ln95040-017-p2s2w7</LM>
 </w.rf>
 <form>ČTA</form>
-<tag lemma="ČTA_:B_;K_^(Čs./Česká_tisková_agentura)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ČTA_:B_;K_^(Čs./Česká_tisková_agentura)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČTA-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln95040-017-p2s2w8">
 <src.rf>manual</src.rf>
@@ -485,7 +491,10 @@
 <LM>w#w-ln95040-017-p2s3w17</LM>
 </w.rf>
 <form>TV</form>
-<tag lemma="televize_:B" src="auto" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="televize_:B" src="auto">NNFXX-----A---8</AM>
+<AM lemma="televize" src="manual" selected="1">NNFXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln95040-017-p2s3w18">
 <src.rf>manual</src.rf>
@@ -777,7 +786,10 @@
 <LM>w#w-ln95040-017-p2s5w10</LM>
 </w.rf>
 <form>Asia</form>
-<tag lemma="Asia_;K_^(restaurace)" src="orig" selected="1">NNFXX-----A----</tag>
+<tag>
+<AM lemma="Asia_;K_^(restaurace)" src="orig">NNFXX-----A----</AM>
+<AM lemma="Asia-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln95040-017-p2s5w11">
 <src.rf>manual</src.rf>
@@ -785,7 +797,10 @@
 <LM>w#w-ln95040-017-p2s5w11</LM>
 </w.rf>
 <form>Club</form>
-<tag lemma="klub" src="orig" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="klub" src="orig">NNIS1-----A----</AM>
+<AM lemma="Club-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln95040-017-p2s5w12">
 <src.rf>manual</src.rf>
@@ -905,7 +920,10 @@
 <LM>w#w-ln95040-017-p2s5w26</LM>
 </w.rf>
 <form>TWI</form>
-<tag lemma="TWI_:B_;K_,t" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="TWI_:B_;K_,t" src="orig">NNXXX-----A---8</AM>
+<AM lemma="TWI-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln95040-017-p2s5w27">
 <src.rf>manual</src.rf>
@@ -921,7 +939,10 @@
 <LM>w#w-ln95040-017-p2s5w28</LM>
 </w.rf>
 <form>C</form>
-<tag lemma="c-3_^(označení_pomocí_písmene)" src="orig" selected="1">NNNXX-----A----</tag>
+<tag>
+<AM lemma="c-3_^(označení_pomocí_písmene)" src="orig">NNNXX-----A----</AM>
+<AM lemma="C-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln95040-017-p2s5w29">
 <src.rf>manual</src.rf>
@@ -937,7 +958,10 @@
 <LM>w#w-ln95040-017-p2s5w30</LM>
 </w.rf>
 <form>S</form>
-<tag lemma="s-3_^(označení_pomocí_písmene)" src="orig" selected="1">NNNXX-----A----</tag>
+<tag>
+<AM lemma="s-3_^(označení_pomocí_písmene)" src="orig">NNNXX-----A----</AM>
+<AM lemma="S-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln95040-017-p2s5w31">
 <src.rf>manual</src.rf>

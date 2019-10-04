@@ -422,7 +422,7 @@
 <tag>
 <AM lemma="tady" src="orig">Db------------1</AM>
 <AM lemma="ten" src="auto">PDFS4----------</AM>
-<AM lemma="tu" src="auto" recommended="1">Db-------------</AM>
+<AM lemma="tu" src="auto" recommended="1" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m-lnd94105-062-p1s2w24">
@@ -777,7 +777,10 @@
 <LM>w#w-lnd94105-062-p1s3w33</LM>
 </w.rf>
 <form>tzv</form>
-<tag lemma="takzvaný_:B" src="orig" selected="1">AAXXX----1A---8</tag>
+<tag>
+<AM lemma="takzvaný_:B" src="orig">AAXXX----1A---8</AM>
+<AM lemma="takzvaný" src="manual" selected="1">AAXXX----1A---8</AM>
+</tag>
 </m>
 <m id="m-lnd94105-062-p1s3w34">
 <src.rf>manual</src.rf>
@@ -975,7 +978,7 @@
 <form>totiž</form>
 <tag>
 <AM lemma="totiž" src="orig">Db-------------</AM>
-<AM lemma="totiž-1" src="auto">J^-------------</AM>
+<AM lemma="totiž-1" src="auto" selected="1">J^-------------</AM>
 <AM lemma="totiž-2" src="auto" recommended="1">TT-------------</AM>
 </tag>
 </m>
@@ -1663,7 +1666,10 @@
 <LM>w#w-lnd94105-062-p1s8w17</LM>
 </w.rf>
 <form>fašismu</form>
-<tag lemma="fašismus" src="orig" selected="1">NNIS2-----A----</tag>
+<tag>
+<AM lemma="fašismus" src="orig">NNIS2-----A----</AM>
+<AM lemma="fašismus_,s_^(^DD**fašizmus)" src="manual" selected="1">NNIS2-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd94105-062-p1s8w18">
 <src.rf>manual</src.rf>
@@ -1687,7 +1693,10 @@
 <LM>w#w-lnd94105-062-p1s8w20</LM>
 </w.rf>
 <form>Antonia</form>
-<tag lemma="Antonio_;Y_,t" src="auto" selected="1">NNMS2-----A----</tag>
+<tag>
+<AM lemma="Antonio_;Y_,t" src="auto">NNMS2-----A----</AM>
+<AM lemma="Antonio_;Y" src="manual" selected="1">NNMS2-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd94105-062-p1s8w21">
 <src.rf>manual</src.rf>
@@ -1695,7 +1704,10 @@
 <LM>w#w-lnd94105-062-p1s8w21</LM>
 </w.rf>
 <form>de</form>
-<tag lemma="de_,t_^(z_franc._de,_zejm._ve_jménech)" src="orig" selected="1">RR--1----------</tag>
+<tag>
+<AM lemma="de_,t_^(z_franc._de,_zejm._ve_jménech)" src="orig">RR--1----------</AM>
+<AM lemma="de-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-lnd94105-062-p1s8w22">
 <src.rf>manual</src.rf>
@@ -2143,7 +2155,10 @@
 <LM>w#w-lnd94105-062-p1s12w5</LM>
 </w.rf>
 <form>jen</form>
-<tag lemma="jen-1" src="auto" selected="1">TT-------------</tag>
+<tag>
+<AM lemma="jen-1" src="auto">TT-------------</AM>
+<AM lemma="jen-4_^(pouze)" src="manual" selected="1">Db-------------</AM>
+</tag>
 </m>
 <m id="m-lnd94105-062-p1s12w6">
 <src.rf>manual</src.rf>
@@ -2398,7 +2413,7 @@
 <tag>
 <AM lemma="tady" src="orig">Db------------1</AM>
 <AM lemma="ten" src="auto">PDFS4----------</AM>
-<AM lemma="tu" src="auto" recommended="1">Db-------------</AM>
+<AM lemma="tu" src="auto" recommended="1" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m-lnd94105-062-p1s14w8">
@@ -2439,7 +2454,10 @@
 <LM>w#w-lnd94105-062-p1s14w12</LM>
 </w.rf>
 <form>fašismus</form>
-<tag lemma="fašismus" src="orig" selected="1">NNIS4-----A----</tag>
+<tag>
+<AM lemma="fašismus" src="orig">NNIS4-----A----</AM>
+<AM lemma="fašismus_,s_^(^DD**fašizmus)" src="manual" selected="1">NNIS4-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd94105-062-p1s14w13">
 <src.rf>manual</src.rf>
@@ -2457,7 +2475,10 @@
 <LM>w#w-lnd94105-062-p1s15w1</LM>
 </w.rf>
 <form>Silvio</form>
-<tag lemma="Silvio_;Y_,t" src="auto" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Silvio_;Y_,t" src="auto">NNMS1-----A----</AM>
+<AM lemma="Silvio_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd94105-062-p1s15w2">
 <src.rf>manual</src.rf>
@@ -2489,7 +2510,11 @@
 <LM>w#w-lnd94105-062-p1s15w5</LM>
 </w.rf>
 <form>Forza</form>
-<tag lemma="Forza_;K_,t" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="Forza_;K_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="forza_,t" src="manual">NNXXX-----A----</AM>
+<AM lemma="Forza-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-lnd94105-062-p1s15w6">
 <src.rf>manual</src.rf>
@@ -2500,6 +2525,8 @@
 <tag>
 <AM lemma="Italia_;K_,t" src="orig">NNFXX-----A----</AM>
 <AM lemma="Italia_;R_,t_^(jméno_vzducholodi)" src="auto" recommended="1">NNFS1-----A----</AM>
+<AM lemma="Italia-2_;G_,t" src="manual">NNXXX-----A----</AM>
+<AM lemma="Italia-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-lnd94105-062-p1s15w7">
@@ -2764,7 +2791,10 @@
 <LM>w#w-lnd94105-062-p1s15w39</LM>
 </w.rf>
 <form>fašismem</form>
-<tag lemma="fašismus" src="orig" selected="1">NNIS7-----A----</tag>
+<tag>
+<AM lemma="fašismus" src="orig">NNIS7-----A----</AM>
+<AM lemma="fašismus_,s_^(^DD**fašizmus)" src="manual" selected="1">NNIS7-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd94105-062-p1s15w40">
 <src.rf>manual</src.rf>
@@ -2780,7 +2810,10 @@
 <LM>w#w-lnd94105-062-p1s15w41</LM>
 </w.rf>
 <form>antifašismem</form>
-<tag lemma="antifašismus" src="orig" selected="1">NNIS7-----A----</tag>
+<tag>
+<AM lemma="antifašismus" src="orig">NNIS7-----A----</AM>
+<AM lemma="antifašismus_,s_^(^DD**antifašizmus)" src="manual" selected="1">NNIS7-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd94105-062-p1s15w42">
 <src.rf>manual</src.rf>
@@ -3148,7 +3181,7 @@
 <form>ovšem</form>
 <tag>
 <AM lemma="ovšem-1_^(avšak,_však;_odporovací_spojka)" src="orig">J^-------------</AM>
-<AM lemma="ovšem" src="auto" recommended="1">TT-------------</AM>
+<AM lemma="ovšem" src="auto" recommended="1" selected="1">TT-------------</AM>
 </tag>
 </m>
 <m id="m-lnd94105-062-p1s18w5">
@@ -3309,7 +3342,10 @@
 <LM>w#w-lnd94105-062-p1s18w24</LM>
 </w.rf>
 <form>fašismu</form>
-<tag lemma="fašismus" src="orig" selected="1">NNIS2-----A----</tag>
+<tag>
+<AM lemma="fašismus" src="orig">NNIS2-----A----</AM>
+<AM lemma="fašismus_,s_^(^DD**fašizmus)" src="manual" selected="1">NNIS2-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd94105-062-p1s18w25">
 <src.rf>manual</src.rf>
@@ -3625,7 +3661,10 @@
 <LM>w#w-lnd94105-062-p1s20w10</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-2" src="auto" selected="1">Dg-------2A----</tag>
+<tag>
+<AM lemma="hodně-2" src="auto">Dg-------2A----</AM>
+<AM lemma="hodně-3" src="manual" selected="1">Dg-------2A----</AM>
+</tag>
 </m>
 <m id="m-lnd94105-062-p1s20w11">
 <src.rf>manual</src.rf>
@@ -4023,7 +4062,10 @@
 <LM>w#w-lnd94105-062-p1s23w1</LM>
 </w.rf>
 <form>Jörg</form>
-<tag lemma="Jörg_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Jörg_;S" src="orig">NNMS1-----A----</AM>
+<AM lemma="Jörg_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd94105-062-p1s23w2">
 <src.rf>manual</src.rf>
@@ -4321,7 +4363,10 @@
 <LM>w#w-lnd94105-062-p1s24w12</LM>
 </w.rf>
 <form>negacionismus</form>
-<tag lemma="negacionismus" src="orig" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="negacionismus" src="orig">NNIS1-----A----</AM>
+<AM lemma="negacionismus_,s_^(^DD**negacionizmus)" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd94105-062-p1s24w13">
 <src.rf>manual</src.rf>
@@ -4337,7 +4382,10 @@
 <LM>w#w-lnd94105-062-p1s24w14</LM>
 </w.rf>
 <form>revizionismus</form>
-<tag lemma="revizionismus" src="orig" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="revizionismus" src="orig">NNIS1-----A----</AM>
+<AM lemma="revizionismus_,s_^(^DD**revizionizmus)" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd94105-062-p1s24w15">
 <src.rf>manual</src.rf>
@@ -4451,7 +4499,10 @@
 <LM>w#w-lnd94105-062-p1s25w7</LM>
 </w.rf>
 <form>Le</form>
-<tag lemma="Le-1_,t_^(franc._člen_jako_souč._jmen_a_názvů)" src="orig" selected="1">AAISX----1A----</tag>
+<tag>
+<AM lemma="Le-1_,t_^(franc._člen_jako_souč._jmen_a_názvů)" src="orig">AAISX----1A----</AM>
+<AM lemma="Le-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-lnd94105-062-p1s25w8">
 <src.rf>manual</src.rf>
@@ -4459,7 +4510,10 @@
 <LM>w#w-lnd94105-062-p1s25w8</LM>
 </w.rf>
 <form>Monde</form>
-<tag lemma="Monde_;R_^(Le_Monde)" src="orig" selected="1">NNISX-----A----</tag>
+<tag>
+<AM lemma="Monde_;R_^(Le_Monde)" src="orig">NNISX-----A----</AM>
+<AM lemma="Monde-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-lnd94105-062-p1s25w9">
 <src.rf>manual</src.rf>
@@ -4699,7 +4753,10 @@
 <LM>w#w-lnd94105-062-p1s25w38</LM>
 </w.rf>
 <form>totalitarismu</form>
-<tag lemma="totalitarismus" src="orig" selected="1">NNIS3-----A----</tag>
+<tag>
+<AM lemma="totalitarismus" src="orig">NNIS3-----A----</AM>
+<AM lemma="totalitarismus_,s_^(^DD**totalitarizmus)" src="manual" selected="1">NNIS3-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd94105-062-p1s25w39">
 <src.rf>manual</src.rf>
@@ -5097,7 +5154,10 @@
 <LM>w#w-lnd94105-062-p1s28w9</LM>
 </w.rf>
 <form>totalitarismy</form>
-<tag lemma="totalitarismus" src="orig" selected="1">NNIP4-----A----</tag>
+<tag>
+<AM lemma="totalitarismus" src="orig">NNIP4-----A----</AM>
+<AM lemma="totalitarismus_,s_^(^DD**totalitarizmus)" src="manual" selected="1">NNIP4-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd94105-062-p1s28w10">
 <src.rf>manual</src.rf>

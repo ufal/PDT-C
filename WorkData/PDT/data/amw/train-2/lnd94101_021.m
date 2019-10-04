@@ -77,7 +77,10 @@
 <LM>w#w-lnd94101-021-p1s2w3</LM>
 </w.rf>
 <form>mot</form>
-<tag lemma="mot-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="mot-99_:B_;S" src="orig">NNXXX-----A---8</AM>
+<AM lemma="mot-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd94101-021-p1s2w4">
 <src.rf>manual</src.rf>
@@ -135,7 +138,10 @@
 <LM>w#w-lnd94101-021-p1s3w5</LM>
 </w.rf>
 <form>a</form>
-<tag lemma="akciový_:B_^(jen_akciová_společnost)" src="orig" selected="1">AAXXX----1A---8</tag>
+<tag>
+<AM lemma="akciový_:B_^(jen_akciová_společnost)" src="orig">AAXXX----1A---8</AM>
+<AM lemma="akciový" src="manual" selected="1">AAXXX----1A---8</AM>
+</tag>
 </m>
 <m id="m-lnd94101-021-p1s3w6">
 <src.rf>manual</src.rf>
@@ -151,7 +157,10 @@
 <LM>w#w-lnd94101-021-p1s3w7</LM>
 </w.rf>
 <form>s</form>
-<tag lemma="společnost_:B" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="společnost_:B" src="orig">NNFXX-----A---8</AM>
+<AM lemma="společnost" src="manual" selected="1">NNFXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd94101-021-p1s3w8">
 <src.rf>manual</src.rf>
@@ -321,7 +330,10 @@
 <LM>w#w-lnd94101-021-p1s4w14</LM>
 </w.rf>
 <form>B</form>
-<tag lemma="B-0_:B_;Y" src="orig" selected="1">NNMXX-----A---8</tag>
+<tag>
+<AM lemma="B-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
+<AM lemma="B-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd94101-021-p1s4w15">
 <src.rf>manual</src.rf>
@@ -345,7 +357,10 @@
 <LM>w#w-lnd94101-021-p1s4w17</LM>
 </w.rf>
 <form>řekl</form>
-<tag lemma="říci" src="auto" selected="1">VpYS---XR-AA---</tag>
+<tag>
+<AM lemma="říci" src="auto">VpYS---XR-AA---</AM>
+<AM lemma="říci_:W" src="manual" selected="1">VpYS---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-lnd94101-021-p1s4w18">
 <src.rf>manual</src.rf>
@@ -923,7 +938,10 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>s</form>
-<tag lemma="státní_:B" src="orig" selected="1">AAXXX----1A---8</tag>
+<tag>
+<AM lemma="státní_:B" src="orig">AAXXX----1A---8</AM>
+<AM lemma="státní" src="manual" selected="1">AAXXX----1A---8</AM>
+</tag>
 </m>
 <m id="m-lnd94101-021-p1s6w21">
 <src.rf>manual</src.rf>
@@ -941,7 +959,10 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>p</form>
-<tag lemma="podnik_:B" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="podnik_:B" src="orig">NNIXX-----A---8</AM>
+<AM lemma="podnik" src="manual" selected="1">NNIXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd94101-021-p1s6w23">
 <src.rf>manual</src.rf>
@@ -1006,7 +1027,10 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>a</form>
-<tag lemma="akciový_:B_^(jen_akciová_společnost)" src="orig" selected="1">AAXXX----1A---8</tag>
+<tag>
+<AM lemma="akciový_:B_^(jen_akciová_společnost)" src="orig">AAXXX----1A---8</AM>
+<AM lemma="akciový" src="manual" selected="1">AAXXX----1A---8</AM>
+</tag>
 </m>
 <m id="m-lnd94101-021-p1s6w31">
 <src.rf>manual</src.rf>
@@ -1024,7 +1048,10 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>s</form>
-<tag lemma="společnost_:B" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="společnost_:B" src="orig">NNFXX-----A---8</AM>
+<AM lemma="společnost" src="manual" selected="1">NNFXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd94101-021-p1s6w33">
 <src.rf>manual</src.rf>
@@ -1244,7 +1271,10 @@
 <LM>w#w-lnd94101-021-p1s8w2</LM>
 </w.rf>
 <form>B</form>
-<tag lemma="B-0_:B_;Y" src="orig" selected="1">NNMXX-----A---8</tag>
+<tag>
+<AM lemma="B-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
+<AM lemma="B-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd94101-021-p1s8w3">
 <src.rf>manual</src.rf>
@@ -1262,7 +1292,7 @@
 <form>Zelinského</form>
 <tag>
 <AM lemma="Zelinský_;S" src="orig">AAMS2----1A----</AM>
-<AM lemma="Zelinský_;S" src="auto" recommended="1">NNMS2-----A----</AM>
+<AM lemma="Zelinský_;S" src="auto" recommended="1" selected="1">NNMS2-----A----</AM>
 <AM lemma="Zelinský_;S" src="auto">NNMS4-----A----</AM>
 </tag>
 </m>
@@ -1323,6 +1353,7 @@
 <tag>
 <AM lemma="Kč" src="orig">NNFXX-----A----</AM>
 <AM lemma="Kč_:B" src="auto" recommended="1">NNFXX-----A---8</AM>
+<AM lemma="Kč_:B" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94101-021-p1s8w12">

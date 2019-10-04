@@ -43,7 +43,10 @@
 <LM>w#w-mf930708-015-p1s1w4</LM>
 </w.rf>
 <form>ČSR</form>
-<tag lemma="ČSR-1_:B_;G_^(Česká_socialistická_republika)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ČSR-1_:B_;G_^(Česká_socialistická_republika)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČSR-1_:B_;G_^(Česká_socialistická_republika)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930708-015-p1s1w5">
 <src.rf>manual</src.rf>

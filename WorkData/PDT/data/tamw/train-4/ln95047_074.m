@@ -106,6 +106,8 @@
 <AM lemma="port" src="auto" recommended="1">NNIS4-----A----</AM>
 <AM lemma="porta" src="auto">NNFP2-----A----</AM>
 <AM lemma="porto" src="auto">NNNP2-----A----</AM>
+<AM lemma="port_,t" src="manual">NNXXX-----A----</AM>
+<AM lemma="Port-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-ln95047-074-p1s1w12">
@@ -125,6 +127,7 @@
 <tag>
 <AM lemma="au-2_,t" src="orig">RR--X----------</AM>
 <AM lemma="au" src="auto" recommended="1">II-------------</AM>
+<AM lemma="au-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-ln95047-074-p1s1w14">
@@ -151,6 +154,8 @@
 <AM lemma="princ" src="auto">NNMP4-----A----</AM>
 <AM lemma="princ" src="auto">NNMS2-----A----</AM>
 <AM lemma="princ" src="auto">NNMS4-----A----</AM>
+<AM lemma="Prince-2_;G_,t" src="manual">NNXXX-----A----</AM>
+<AM lemma="Prince-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-ln95047-074-p1s1w16">

@@ -19,7 +19,10 @@
 <LM>w#w-lnd94105-046-p1s1Aw1</LM>
 </w.rf>
 <form>Inkatha</form>
-<tag lemma="Inkatha_;G" src="orig" selected="1">NNFS1-----A----</tag>
+<tag>
+<AM lemma="Inkatha_;G" src="orig">NNFS1-----A----</AM>
+<AM lemma="Inkatha_;G_;K" src="manual" selected="1">NNFS1-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd94105-046-p1s1Aw2">
 <src.rf>manual</src.rf>
@@ -127,7 +130,10 @@
 <LM>w#w-lnd94105-046-p1s1Cw5</LM>
 </w.rf>
 <form>IEC</form>
-<tag lemma="IEC-1_:B_;K_,t_^(International_Electrotechnical_Commission)" src="auto" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="IEC-1_:B_;K_,t_^(International_Electrotechnical_Commission)" src="auto">NNFXX-----A---8</AM>
+<AM lemma="IEC-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd94105-046-p1s1Cw6">
 <src.rf>manual</src.rf>
@@ -273,7 +279,7 @@
 <form>Natal</form>
 <tag>
 <AM lemma="Natal_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Natal_;G" src="auto" recommended="1">NNIS1-----A----</AM>
+<AM lemma="Natal_;G" src="auto" recommended="1" selected="1">NNIS1-----A----</AM>
 <AM lemma="Natal_;G" src="auto">NNIS4-----A----</AM>
 </tag>
 </m>
@@ -293,7 +299,10 @@
 <LM>w#w-lnd94105-046-p1s2w1</LM>
 </w.rf>
 <form>Nelson</form>
-<tag lemma="Nelson_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Nelson_;S" src="orig">NNMS1-----A----</AM>
+<AM lemma="Nelson_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd94105-046-p1s2w2">
 <src.rf>manual</src.rf>
@@ -317,7 +326,10 @@
 <LM>w#w-lnd94105-046-p1s2w4</LM>
 </w.rf>
 <form>Stranu</form>
-<tag lemma="strana-2_^(politická)" src="orig" selected="1">NNFS4-----A----</tag>
+<tag>
+<AM lemma="strana-2_^(politická)" src="orig">NNFS4-----A----</AM>
+<AM lemma="strana" src="manual" selected="1">NNFS4-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd94105-046-p1s2w5">
 <src.rf>manual</src.rf>
@@ -333,7 +345,10 @@
 <LM>w#w-lnd94105-046-p1s2w6</LM>
 </w.rf>
 <form>Inkatha</form>
-<tag lemma="Inkatha_;G" src="orig" selected="1">NNFS1-----A----</tag>
+<tag>
+<AM lemma="Inkatha_;G" src="orig">NNFS1-----A----</AM>
+<AM lemma="Inkatha_;G_;K" src="manual" selected="1">NNFS1-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd94105-046-p1s2w7">
 <src.rf>manual</src.rf>
@@ -407,7 +422,7 @@
 <form>Natal</form>
 <tag>
 <AM lemma="Natal_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Natal_;G" src="auto" recommended="1">NNIS1-----A----</AM>
+<AM lemma="Natal_;G" src="auto" recommended="1" selected="1">NNIS1-----A----</AM>
 <AM lemma="Natal_;G" src="auto">NNIS4-----A----</AM>
 </tag>
 </m>
@@ -441,7 +456,10 @@
 <LM>w#w-lnd94105-046-p1s2w19</LM>
 </w.rf>
 <form>strany</form>
-<tag lemma="strana-2_^(politická)" src="orig" selected="1">NNFP1-----A----</tag>
+<tag>
+<AM lemma="strana-2_^(politická)" src="orig">NNFP1-----A----</AM>
+<AM lemma="strana" src="manual" selected="1">NNFP1-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd94105-046-p1s2w20">
 <src.rf>manual</src.rf>
@@ -823,7 +841,10 @@
 <LM>w#w-lnd94105-046-p1s5w14</LM>
 </w.rf>
 <form>Inkathy</form>
-<tag lemma="Inkatha_;G" src="orig" selected="1">NNFS2-----A----</tag>
+<tag>
+<AM lemma="Inkatha_;G" src="orig">NNFS2-----A----</AM>
+<AM lemma="Inkatha_;G_;K" src="manual" selected="1">NNFS2-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd94105-046-p1s5w15">
 <src.rf>manual</src.rf>
@@ -985,7 +1006,10 @@
 <LM>w#w-lnd94105-046-p1s6w5</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-2" src="auto" selected="1">Dg-------2A----</tag>
+<tag>
+<AM lemma="hodně-2" src="auto">Dg-------2A----</AM>
+<AM lemma="hodně-3" src="manual" selected="1">Dg-------2A----</AM>
+</tag>
 </m>
 <m id="m-lnd94105-046-p1s6w6">
 <src.rf>manual</src.rf>
@@ -1057,7 +1081,10 @@
 <LM>w#w-lnd94105-046-p1s6w14</LM>
 </w.rf>
 <form>IFP</form>
-<tag lemma="IFP-1_:B_;K_,t_^(Int._Feder._of_Publisher,_Proprietors_...)" src="auto" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="IFP-1_:B_;K_,t_^(Int._Feder._of_Publisher,_Proprietors_...)" src="auto">NNFXX-----A---8</AM>
+<AM lemma="IFP-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd94105-046-p1s6w15">
 <src.rf>manual</src.rf>
@@ -1162,7 +1189,10 @@
 <LM>w#w-lnd94105-046-p1s6w27</LM>
 </w.rf>
 <form>ANC</form>
-<tag lemma="ANC-1_:B_;K_^(Africký_národní_kongres)" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="ANC-1_:B_;K_^(Africký_národní_kongres)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="ANC-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd94105-046-p1s6w28">
 <src.rf>manual</src.rf>
@@ -1235,7 +1265,10 @@
 <LM>w#w-lnd94105-046-p1s6w36</LM>
 </w.rf>
 <form>strana</form>
-<tag lemma="strana-2_^(politická)" src="orig" selected="1">NNFS1-----A----</tag>
+<tag>
+<AM lemma="strana-2_^(politická)" src="orig">NNFS1-----A----</AM>
+<AM lemma="strana" src="manual" selected="1">NNFS1-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd94105-046-p1s6w37">
 <src.rf>manual</src.rf>
@@ -1251,7 +1284,10 @@
 <LM>w#w-lnd94105-046-p1s6w38</LM>
 </w.rf>
 <form>NP</form>
-<tag lemma="NP_:B_;K" src="auto" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="NP_:B_;K" src="auto">NNXXX-----A---8</AM>
+<AM lemma="NP-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd94105-046-p1s6w39">
 <src.rf>manual</src.rf>
@@ -1275,7 +1311,10 @@
 <LM>w#w-lnd94105-046-p1s6w41</LM>
 </w.rf>
 <form>W</form>
-<tag lemma="W-0_:B_;Y" src="orig" selected="1">NNMXX-----A---8</tag>
+<tag>
+<AM lemma="W-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
+<AM lemma="W-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd94105-046-p1s6w42">
 <src.rf>manual</src.rf>
@@ -1291,7 +1330,10 @@
 <LM>w#w-lnd94105-046-p1s6w43</LM>
 </w.rf>
 <form>de</form>
-<tag lemma="de_,t_^(z_franc._de,_zejm._ve_jménech)" src="orig" selected="1">RR--1----------</tag>
+<tag>
+<AM lemma="de_,t_^(z_franc._de,_zejm._ve_jménech)" src="orig">RR--1----------</AM>
+<AM lemma="de-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-lnd94105-046-p1s6w44">
 <src.rf>manual</src.rf>
@@ -1786,7 +1828,10 @@
 <LM>w#w-lnd94105-046-p1s9w26</LM>
 </w.rf>
 <form>uvedl</form>
-<tag lemma="uvést" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag>
+<AM lemma="uvést" src="orig">VpYS---XR-AA---</AM>
+<AM lemma="uvést_:W" src="manual" selected="1">VpYS---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-lnd94105-046-p1s9w27">
 <src.rf>manual</src.rf>
@@ -1834,7 +1879,10 @@
 <LM>w#w-lnd94105-046-p1s9w32</LM>
 </w.rf>
 <form>ČTK</form>
-<tag lemma="ČTK-1_:B_;K_^(Čs./Česká_tisková_kancelář)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ČTK-1_:B_;K_^(Čs./Česká_tisková_kancelář)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČTK-1_:B_;K_^(Čs./Česká_tisková_kancelář)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd94105-046-p1s9w33">
 <src.rf>manual</src.rf>
@@ -1859,7 +1907,7 @@
 </w.rf>
 <form>Goodwill</form>
 <tag>
-<AM lemma="Goodwill_;Y" src="orig">NNMS1-----A----</AM>
+<AM lemma="Goodwill_;Y" src="orig" selected="1">NNMS1-----A----</AM>
 <AM lemma="goodwill" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="goodwill" src="auto">NNIS4-----A----</AM>
 </tag>
@@ -1955,6 +2003,7 @@
 <tag>
 <AM lemma="USA_;G" src="orig">NNIPX-----A----</AM>
 <AM lemma="USA_:B_;K_,t_^(United_States_of_America)" src="auto" recommended="1">NNIPX-----A---8</AM>
+<AM lemma="USA_:B_;K_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-lnd94105-046-p1s10w10">
@@ -2157,7 +2206,10 @@
 <LM>w#w-lnd94105-046-p1s11w22</LM>
 </w.rf>
 <form>milionů</form>
-<tag lemma="milión`1000000" src="orig" selected="1">NNIP2-----A----</tag>
+<tag>
+<AM lemma="milión`1000000" src="orig">NNIP2-----A----</AM>
+<AM lemma="milion`1000000_,s_^(^DD**milión)" src="manual" selected="1">NNIP2-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd94105-046-p1s11w23">
 <src.rf>manual</src.rf>
@@ -2165,7 +2217,10 @@
 <LM>w#w-lnd94105-046-p1s11w23</LM>
 </w.rf>
 <form>dolarů</form>
-<tag lemma="dolar_;b" src="orig" selected="1">NNIP2-----A----</tag>
+<tag>
+<AM lemma="dolar_;b" src="orig">NNIP2-----A----</AM>
+<AM lemma="dolar" src="manual" selected="1">NNIP2-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd94105-046-p1s11w24">
 <src.rf>manual</src.rf>

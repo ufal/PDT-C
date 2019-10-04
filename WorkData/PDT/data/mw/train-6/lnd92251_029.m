@@ -91,6 +91,7 @@
 <AM lemma="jab-99_:B_;S" src="orig">NNXXX-----A---8</AM>
 <AM lemma="jab_;w_,t" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="jab_;w_,t" src="auto">NNIS4-----A----</AM>
+<AM lemma="jab-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92251-029-p3s1w4">
@@ -189,7 +190,10 @@
 <LM>w#w-lnd92251-029-p3s2w10</LM>
 </w.rf>
 <form>organismus</form>
-<tag lemma="organismus" src="orig" selected="1">NNIS4-----A----</tag>
+<tag>
+<AM lemma="organismus" src="orig">NNIS4-----A----</AM>
+<AM lemma="organismus_,s_^(^DD**organizmus)" src="manual" selected="1">NNIS4-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92251-029-p3s2w11">
 <src.rf>manual</src.rf>
@@ -513,7 +517,10 @@
 <LM>w#w-lnd92251-029-p3s4w24</LM>
 </w.rf>
 <form>UV</form>
-<tag lemma="UV-3_:B_,t_^(ultraviolet)" src="orig" selected="1">AAXXX----1A---8</tag>
+<tag>
+<AM lemma="UV-3_:B_,t_^(ultraviolet)" src="orig">AAXXX----1A---8</AM>
+<AM lemma="UV-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92251-029-p3s4w25">
 <src.rf>manual</src.rf>
@@ -667,7 +674,10 @@
 <LM>w#w-lnd92251-029-p3s5w12</LM>
 </w.rf>
 <form>přesáhnout</form>
-<tag lemma="přesáhnout" src="orig" selected="1">Vf--------A----</tag>
+<tag>
+<AM lemma="přesáhnout" src="orig">Vf--------A----</AM>
+<AM lemma="přesáhnout_:W" src="manual" selected="1">Vf--------A----</AM>
+</tag>
 </m>
 <m id="m-lnd92251-029-p3s5w13">
 <src.rf>manual</src.rf>
@@ -751,7 +761,7 @@
 <form>nejen</form>
 <tag>
 <AM lemma="nejen" src="orig">TT-------------</AM>
-<AM lemma="nejen" src="auto" recommended="1">Db-------------</AM>
+<AM lemma="nejen" src="auto" recommended="1" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m-lnd92251-029-p3s6w8">

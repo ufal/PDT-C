@@ -135,7 +135,10 @@
 <LM>w#w-mf920923-032-p2s2w7</LM>
 </w.rf>
 <form>Motor</form>
-<tag lemma="motor" src="orig" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="motor" src="orig">NNIS1-----A----</AM>
+<AM lemma="Motor-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-mf920923-032-p2s2w8">
 <src.rf>manual</src.rf>
@@ -143,7 +146,10 @@
 <LM>w#w-mf920923-032-p2s2w8</LM>
 </w.rf>
 <form>Show</form>
-<tag lemma="show" src="orig" selected="1">NNFXX-----A----</tag>
+<tag>
+<AM lemma="show" src="orig">NNFXX-----A----</AM>
+<AM lemma="Show-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-mf920923-032-p2s2w9">
 <src.rf>manual</src.rf>
@@ -277,6 +283,7 @@
 <AM lemma="International-2_;K_,t" src="orig">NNXXX-----A---1</AM>
 <AM lemma="International_,t" src="auto">NNISX-----A----</AM>
 <AM lemma="international_,t" src="auto" recommended="1">AAXXX----1A----</AM>
+<AM lemma="International-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-mf920923-032-p2s3w8">
@@ -285,7 +292,10 @@
 <LM>w#w-mf920923-032-p2s3w8</LM>
 </w.rf>
 <form>Trade</form>
-<tag lemma="Trade_;K_,t" src="orig" selected="1">NNIXX-----A----</tag>
+<tag>
+<AM lemma="Trade_;K_,t" src="orig">NNIXX-----A----</AM>
+<AM lemma="Trade-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-mf920923-032-p2s3w9">
 <src.rf>manual</src.rf>
@@ -293,7 +303,10 @@
 <LM>w#w-mf920923-032-p2s3w9</LM>
 </w.rf>
 <form>and</form>
-<tag lemma="and-1_,t_^(obv._souč._anglických_názvů,_&quot;a&quot;)" src="auto" selected="1">J^-------------</tag>
+<tag>
+<AM lemma="and-1_,t_^(obv._souč._anglických_názvů,_&quot;a&quot;)" src="auto">J^-------------</AM>
+<AM lemma="and-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-mf920923-032-p2s3w10">
 <src.rf>manual</src.rf>
@@ -301,7 +314,10 @@
 <LM>w#w-mf920923-032-p2s3w10</LM>
 </w.rf>
 <form>Exibitions</form>
-<tag lemma="Exibition_;K_,t" src="orig" selected="1">NNFPX-----A----</tag>
+<tag>
+<AM lemma="Exibition_;K_,t" src="orig">NNFPX-----A----</AM>
+<AM lemma="Exibitions-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-mf920923-032-p2s3w11">
 <src.rf>manual</src.rf>
@@ -309,7 +325,10 @@
 <LM>w#w-mf920923-032-p2s3w11</LM>
 </w.rf>
 <form>Ltd</form>
-<tag lemma="Ltd_:B_,t" src="orig" selected="1">AAXXX----1A---8</tag>
+<tag>
+<AM lemma="Ltd_:B_,t" src="orig">AAXXX----1A---8</AM>
+<AM lemma="Ltd-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-mf920923-032-p2s3w12">
 <src.rf>manual</src.rf>
@@ -363,6 +382,7 @@
 <AM lemma="CS-2_:B_,t_^(Computer_Science)" src="auto">NNXXX-----A---8</AM>
 <AM lemma="cesium_:B_;H" src="auto">NNNXX-----A---8</AM>
 <AM lemma="cirrostratus_:B" src="auto" recommended="1">NNIXX-----A---8</AM>
+<AM lemma="CS-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-mf920923-032-p2s3w18">
@@ -371,7 +391,10 @@
 <LM>w#w-mf920923-032-p2s3w18</LM>
 </w.rf>
 <form>Crossland</form>
-<tag lemma="Crossland_;K_,t" src="orig" selected="1">NNIXX-----A----</tag>
+<tag>
+<AM lemma="Crossland_;K_,t" src="orig">NNIXX-----A----</AM>
+<AM lemma="Crossland-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-mf920923-032-p2s3w19">
 <src.rf>manual</src.rf>
@@ -490,6 +513,7 @@
 <AM lemma="chevrolet_^(vozidlo)" src="auto" recommended="1">NNIS2-----A----</AM>
 <AM lemma="chevrolet_^(vozidlo)" src="auto">NNIS3-----A----</AM>
 <AM lemma="chevrolet_^(vozidlo)" src="auto">NNIS6-----A----</AM>
+<AM lemma="Chevrolet_;K_;R" src="manual" selected="1">NNIS2-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920923-032-p2s3w33">
@@ -498,7 +522,10 @@
 <LM>w#w-mf920923-032-p2s3w33</LM>
 </w.rf>
 <form>Corvette</form>
-<tag lemma="Corvette_;R_,t" src="orig" selected="1">NNFXX-----A----</tag>
+<tag>
+<AM lemma="Corvette_;R_,t" src="orig">NNFXX-----A----</AM>
+<AM lemma="Corvette-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-mf920923-032-p2s3w34">
 <src.rf>manual</src.rf>
@@ -559,6 +586,7 @@
 <tag>
 <AM lemma="AMG-98_;R" src="orig">NNNXX-----A----</AM>
 <AM lemma="AMG-1_:B_;K_,t_^(Allied_Military_Government)" src="auto" recommended="1">NNFXX-----A---8</AM>
+<AM lemma="AMG-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-mf920923-032-p2s4w7">
@@ -581,6 +609,7 @@
 <AM lemma="Sl_:B" src="auto">Xx-------------</AM>
 <AM lemma="slečna_:B" src="auto" recommended="1">NNFXX-----A---8</AM>
 <AM lemma="sloupec_:B" src="auto">NNIXX-----A---8</AM>
+<AM lemma="SL-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-mf920923-032-p2s4w9">
@@ -753,7 +782,10 @@
 <LM>w#w-mf920923-032-p2s6w9</LM>
 </w.rf>
 <form>pick</form>
-<tag lemma="pick" src="auto" selected="1">A2--------A----</tag>
+<tag>
+<AM lemma="pick" src="auto">A2--------A----</AM>
+<AM lemma="pick-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-mf920923-032-p2s6w10">
 <src.rf>manual</src.rf>
@@ -769,7 +801,10 @@
 <LM>w#w-mf920923-032-p2s6w11</LM>
 </w.rf>
 <form>up</form>
-<tag lemma="up_,t_^(pick-up)" src="orig" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="up_,t_^(pick-up)" src="orig">NNIS1-----A----</AM>
+<AM lemma="up-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-mf920923-032-p2s6w12">
 <src.rf>manual</src.rf>
@@ -1069,7 +1104,7 @@
 <form>snad</form>
 <tag>
 <AM lemma="snad" src="orig">Db-------------</AM>
-<AM lemma="snad" src="auto" recommended="1">TT-------------</AM>
+<AM lemma="snad" src="auto" recommended="1" selected="1">TT-------------</AM>
 </tag>
 </m>
 <m id="m-mf920923-032-p2s7w31">

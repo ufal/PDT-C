@@ -27,7 +27,10 @@
 <LM>w#w-mf920924-077-p1s1w2</LM>
 </w.rf>
 <form>kursy</form>
-<tag lemma="kurs" src="auto" selected="1">NNIP1-----A----</tag>
+<tag>
+<AM lemma="kurs" src="auto">NNIP1-----A----</AM>
+<AM lemma="kurs_,s_^(^DD**kurz)" src="manual" selected="1">NNIP1-----A----</AM>
+</tag>
 </m>
 </s>
 <s id="m-mf920924-077-p2s1">
@@ -69,7 +72,10 @@
 <LM>w#w-mf920924-077-p2s1w5</LM>
 </w.rf>
 <form>kursů</form>
-<tag lemma="kurs" src="auto" selected="1">NNIP2-----A----</tag>
+<tag>
+<AM lemma="kurs" src="auto">NNIP2-----A----</AM>
+<AM lemma="kurs_,s_^(^DD**kurz)" src="manual" selected="1">NNIP2-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920924-077-p2s1w6">
 <src.rf>manual</src.rf>
@@ -307,7 +313,10 @@
 <LM>w#w-mf920924-077-p3s1w3</LM>
 </w.rf>
 <form>kursy</form>
-<tag lemma="kurs" src="auto" selected="1">NNIP1-----A----</tag>
+<tag>
+<AM lemma="kurs" src="auto">NNIP1-----A----</AM>
+<AM lemma="kurs_,s_^(^DD**kurz)" src="manual" selected="1">NNIP1-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920924-077-p3s1w4">
 <src.rf>manual</src.rf>
@@ -763,7 +772,10 @@
 <LM>w#w-mf920924-077-p6s1w4</LM>
 </w.rf>
 <form>kursy</form>
-<tag lemma="kurs" src="auto" selected="1">NNIP1-----A----</tag>
+<tag>
+<AM lemma="kurs" src="auto">NNIP1-----A----</AM>
+<AM lemma="kurs_,s_^(^DD**kurz)" src="manual" selected="1">NNIP1-----A----</AM>
+</tag>
 </m>
 </s>
 <s id="m-mf920924-077-p7s1">
@@ -805,7 +817,10 @@
 <LM>w#w-mf920924-077-p7s1w5</LM>
 </w.rf>
 <form>kurs</form>
-<tag lemma="kurs" src="auto" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="kurs" src="auto">NNIS1-----A----</AM>
+<AM lemma="kurs_,s_^(^DD**kurz)" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920924-077-p7s1w6">
 <src.rf>manual</src.rf>
@@ -928,6 +943,7 @@
 <tag>
 <AM lemma="TIG_:B" src="orig">NNXXX-----A---8</AM>
 <AM lemma="Tiga_;G" src="auto" recommended="1">NNFP2-----A----</AM>
+<AM lemma="TIG-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-mf920924-077-p7s1w21">
@@ -986,7 +1002,10 @@
 <LM>w#w-mf920924-077-p8s1w3</LM>
 </w.rf>
 <form>kursy</form>
-<tag lemma="kurs" src="auto" selected="1">NNIP1-----A----</tag>
+<tag>
+<AM lemma="kurs" src="auto">NNIP1-----A----</AM>
+<AM lemma="kurs_,s_^(^DD**kurz)" src="manual" selected="1">NNIP1-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920924-077-p8s1w4">
 <src.rf>manual</src.rf>
@@ -1020,7 +1039,10 @@
 <LM>w#w-mf920924-077-p9s1w1</LM>
 </w.rf>
 <form>kurs</form>
-<tag lemma="kurs" src="auto" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="kurs" src="auto">NNIS1-----A----</AM>
+<AM lemma="kurs_,s_^(^DD**kurz)" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920924-077-p9s1w2">
 <src.rf>manual</src.rf>
@@ -1100,7 +1122,10 @@
 <LM>w#w-mf920924-077-p9s1w11</LM>
 </w.rf>
 <form>kurs</form>
-<tag lemma="kurs" src="auto" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="kurs" src="auto">NNIS1-----A----</AM>
+<AM lemma="kurs_,s_^(^DD**kurz)" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920924-077-p9s1w12">
 <src.rf>manual</src.rf>
@@ -1172,7 +1197,10 @@
 <LM>w#w-mf920924-077-p9s1w20</LM>
 </w.rf>
 <form>kurs</form>
-<tag lemma="kurs" src="auto" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="kurs" src="auto">NNIS1-----A----</AM>
+<AM lemma="kurs_,s_^(^DD**kurz)" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920924-077-p9s1w21">
 <src.rf>manual</src.rf>
@@ -1236,7 +1264,10 @@
 <LM>w#w-mf920924-077-p9s1w28</LM>
 </w.rf>
 <form>CNC</form>
-<tag lemma="CNC-1_:B_,t_^(computer_numerical_control)" src="orig" selected="1">NNNXX-----A---8</tag>
+<tag>
+<AM lemma="CNC-1_:B_,t_^(computer_numerical_control)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="CNC-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-mf920924-077-p9s1w29">
 <src.rf>manual</src.rf>
@@ -1450,7 +1481,10 @@
 <LM>w#w-mf920924-077-p12s1w6</LM>
 </w.rf>
 <form>kursy</form>
-<tag lemma="kurs" src="auto" selected="1">NNIP1-----A----</tag>
+<tag>
+<AM lemma="kurs" src="auto">NNIP1-----A----</AM>
+<AM lemma="kurs_,s_^(^DD**kurz)" src="manual" selected="1">NNIP1-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920924-077-p12s1w7">
 <src.rf>manual</src.rf>
@@ -1484,7 +1518,10 @@
 <LM>w#w-mf920924-077-p13s1w1</LM>
 </w.rf>
 <form>kurs</form>
-<tag lemma="kurs" src="auto" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="kurs" src="auto">NNIS1-----A----</AM>
+<AM lemma="kurs_,s_^(^DD**kurz)" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920924-077-p13s1w2">
 <src.rf>manual</src.rf>
@@ -1580,7 +1617,10 @@
 <LM>w#w-mf920924-077-p13s1w13</LM>
 </w.rf>
 <form>kurs</form>
-<tag lemma="kurs" src="auto" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="kurs" src="auto">NNIS1-----A----</AM>
+<AM lemma="kurs_,s_^(^DD**kurz)" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920924-077-p13s1w14">
 <src.rf>manual</src.rf>
@@ -1684,7 +1724,10 @@
 <LM>w#w-mf920924-077-p13s1w26</LM>
 </w.rf>
 <form>kurs</form>
-<tag lemma="kurs" src="auto" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="kurs" src="auto">NNIS1-----A----</AM>
+<AM lemma="kurs_,s_^(^DD**kurz)" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920924-077-p13s1w27">
 <src.rf>manual</src.rf>

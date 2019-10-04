@@ -77,7 +77,10 @@
 <LM>w#w-mf930708-095-p2s1w3</LM>
 </w.rf>
 <form>nak</form>
-<tag lemma="nak-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="nak-99_:B_;S" src="orig">NNXXX-----A---8</AM>
+<AM lemma="nak-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930708-095-p2s1w4">
 <src.rf>manual</src.rf>
@@ -301,7 +304,11 @@
 <LM>w#w-mf930708-095-p2s1w31</LM>
 </w.rf>
 <form>PRUDOM</form>
-<tag lemma="PRUDOM_:B_;K" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="PRUDOM_:B_;K" src="orig">NNXXX-----A---8</AM>
+<AM lemma="PRUDOM_:B" src="manual">NNXXX-----A---8</AM>
+<AM lemma="PRUDOM-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930708-095-p2s1w32">
 <src.rf>manual</src.rf>
@@ -415,7 +422,10 @@
 <LM>w#w-mf930708-095-p2s2w14</LM>
 </w.rf>
 <form>neteklo</form>
-<tag lemma="téci" src="orig" selected="1">VpNS---XR-NA---</tag>
+<tag>
+<AM lemma="téci" src="orig">VpNS---XR-NA---</AM>
+<AM lemma="téci_:T" src="manual" selected="1">VpNS---XR-NA---</AM>
+</tag>
 </m>
 <m id="m-mf930708-095-p2s2w15">
 <src.rf>manual</src.rf>
@@ -455,7 +465,10 @@
 <LM>w#w-mf930708-095-p2s2w20</LM>
 </w.rf>
 <form>nedošlo</form>
-<tag lemma="dojít" src="orig" selected="1">VpNS---XR-NA---</tag>
+<tag>
+<AM lemma="dojít" src="orig">VpNS---XR-NA---</AM>
+<AM lemma="dojít_:W" src="manual" selected="1">VpNS---XR-NA---</AM>
+</tag>
 </m>
 <m id="m-mf930708-095-p2s2w21">
 <src.rf>manual</src.rf>
@@ -513,7 +526,7 @@
 <form>technička</form>
 <tag>
 <AM lemma="technik" src="orig">NNFS1-----A----</AM>
-<AM lemma="technička_^(^FM*3k)" src="auto" recommended="1">NNFS1-----A----</AM>
+<AM lemma="technička_^(^FM*3k)" src="auto" recommended="1" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930708-095-p2s2w28">
@@ -522,7 +535,11 @@
 <LM>w#w-mf930708-095-p2s2w28</LM>
 </w.rf>
 <form>PRUDOM</form>
-<tag lemma="PRUDOM_:B_;K" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="PRUDOM_:B_;K" src="orig">NNXXX-----A---8</AM>
+<AM lemma="PRUDOM_:B" src="manual">NNXXX-----A---8</AM>
+<AM lemma="PRUDOM-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930708-095-p2s2w29">
 <src.rf>manual</src.rf>

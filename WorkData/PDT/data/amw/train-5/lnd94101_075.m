@@ -27,7 +27,10 @@
 <LM>w#w-lnd94101-075-p1s1Aw2</LM>
 </w.rf>
 <form>LN</form>
-<tag lemma="LN-1_:B_;R_^(Lidové_noviny,_deník)" src="orig" selected="1">NNFPX-----A---8</tag>
+<tag>
+<AM lemma="LN-1_:B_;R_^(Lidové_noviny,_deník)" src="orig">NNFPX-----A---8</AM>
+<AM lemma="LN-1_:B_;K_;R_^(Lidové_noviny)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd94101-075-p1s1Aw3">
 <src.rf>manual</src.rf>
@@ -185,7 +188,10 @@
 <LM>w#w-lnd94101-075-p1s2w1</LM>
 </w.rf>
 <form>NLN</form>
-<tag lemma="NLN_:B_;K" src="orig" selected="1">NNNXX-----A---8</tag>
+<tag>
+<AM lemma="NLN_:B_;K" src="orig">NNNXX-----A---8</AM>
+<AM lemma="NLN-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd94101-075-p1s2w2">
 <src.rf>manual</src.rf>
@@ -201,7 +207,10 @@
 <LM>w#w-lnd94101-075-p1s2w3</LM>
 </w.rf>
 <form>s</form>
-<tag lemma="společnost_:B" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="společnost_:B" src="orig">NNFXX-----A---8</AM>
+<AM lemma="společnost" src="manual" selected="1">NNFXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd94101-075-p1s2w4">
 <src.rf>manual</src.rf>
@@ -217,7 +226,10 @@
 <LM>w#w-lnd94101-075-p1s2w5</LM>
 </w.rf>
 <form>r</form>
-<tag lemma="ručení_:B" src="orig" selected="1">NNNS7-----A---8</tag>
+<tag>
+<AM lemma="ručení_:B" src="orig">NNNS7-----A---8</AM>
+<AM lemma="ručení" src="manual" selected="1">NNNS7-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd94101-075-p1s2w6">
 <src.rf>manual</src.rf>
@@ -233,7 +245,10 @@
 <LM>w#w-lnd94101-075-p1s2w7</LM>
 </w.rf>
 <form>o</form>
-<tag lemma="omezený_:B" src="orig" selected="1">AANS7----1A---8</tag>
+<tag>
+<AM lemma="omezený_:B" src="orig">AANS7----1A---8</AM>
+<AM lemma="omezený" src="manual" selected="1">AANS7----1A---8</AM>
+</tag>
 </m>
 <m id="m-lnd94101-075-p1s2w8">
 <src.rf>manual</src.rf>
@@ -329,7 +344,10 @@
 <LM>w#w-lnd94101-075-p1s2w19</LM>
 </w.rf>
 <form>tel</form>
-<tag lemma="telefon_:B" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="telefon_:B" src="orig">NNIXX-----A---8</AM>
+<AM lemma="telefon" src="manual" selected="1">NNIXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd94101-075-p1s2w20">
 <src.rf>manual</src.rf>
@@ -481,7 +499,10 @@
 <LM>w#w-lnd94101-075-p1s2w38</LM>
 </w.rf>
 <form>PS</form>
-<tag lemma="PS-2_:B_;K_^(poštovní_schránka)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="PS-2_:B_;K_^(poštovní_schránka)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="PS-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd94101-075-p1s2w39">
 <src.rf>manual</src.rf>

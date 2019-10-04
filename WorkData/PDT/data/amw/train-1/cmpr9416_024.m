@@ -842,7 +842,10 @@
 <LM>w#w-cmpr9416-024-p6s2w31</LM>
 </w.rf>
 <form>strany</form>
-<tag lemma="strana-3_^(u_soudu,_na_úřadě,_smluvní_strany;_na_něčí_straně)" src="orig" selected="1">NNFP4-----A----</tag>
+<tag>
+<AM lemma="strana-3_^(u_soudu,_na_úřadě,_smluvní_strany;_na_něčí_straně)" src="orig">NNFP4-----A----</AM>
+<AM lemma="strana" src="manual" selected="1">NNFP4-----A----</AM>
+</tag>
 </m>
 <m id="m-cmpr9416-024-p6s2w32">
 <src.rf>manual</src.rf>
@@ -1492,7 +1495,7 @@
 <form>starosti</form>
 <tag>
 <AM lemma="starost" src="orig">NNFP1-----A----</AM>
-<AM lemma="starost-1" src="auto" recommended="1">NNFP1-----A----</AM>
+<AM lemma="starost-1" src="auto" recommended="1" selected="1">NNFP1-----A----</AM>
 <AM lemma="starost-1" src="auto">NNFP4-----A----</AM>
 <AM lemma="starost-1" src="auto">NNFP5-----A----</AM>
 <AM lemma="starost-1" src="auto">NNFS2-----A----</AM>
@@ -1790,7 +1793,10 @@
 <LM>w#w-cmpr9416-024-p8s1w2</LM>
 </w.rf>
 <form>Chudý</form>
-<tag lemma="chudý-1" src="auto" selected="1">AAMS1----1A----</tag>
+<tag>
+<AM lemma="chudý-1" src="auto">AAMS1----1A----</AM>
+<AM lemma="Chudý_;S" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-cmpr9416-024-p8s1w3">
 <src.rf>manual</src.rf>
@@ -1912,7 +1918,10 @@
 <LM>w#w-cmpr9416-024-p9s1w13</LM>
 </w.rf>
 <form>premií</form>
-<tag lemma="prémie_,x" src="orig" selected="1">NNFS7-----A----</tag>
+<tag>
+<AM lemma="prémie_,x" src="orig">NNFS7-----A----</AM>
+<AM lemma="premie_,s_^(^DD**prémie)" src="manual" selected="1">NNFS7-----A----</AM>
+</tag>
 </m>
 <m id="m-cmpr9416-024-p9s1w14">
 <src.rf>manual</src.rf>

@@ -109,7 +109,10 @@
 <LM>w#w-mf920923-059-p2s1w9</LM>
 </w.rf>
 <form>SZP</form>
-<tag lemma="SZP_;K" src="orig" selected="1">NNNXX-----A---8</tag>
+<tag>
+<AM lemma="SZP_;K" src="orig">NNNXX-----A---8</AM>
+<AM lemma="SZP-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-mf920923-059-p2s1w10">
 <src.rf>manual</src.rf>
@@ -181,7 +184,10 @@
 <LM>w#w-mf920923-059-p2s1w18</LM>
 </w.rf>
 <form>ČR</form>
-<tag lemma="ČR-1_:B_;G_^(Česká_republika)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920923-059-p2s1w19">
 <src.rf>manual</src.rf>
@@ -256,7 +262,10 @@
 <LM>w#w-mf920923-059-p2s2w8</LM>
 </w.rf>
 <form>mil</form>
-<tag lemma="milión`1000000_:B" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="milión`1000000_:B" src="orig">NNIXX-----A---8</AM>
+<AM lemma="milión`1000000" src="manual" selected="1">NNIXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-mf920923-059-p2s2w9">
 <src.rf>manual</src.rf>
@@ -272,7 +281,10 @@
 <LM>w#w-mf920923-059-p2s2w10</LM>
 </w.rf>
 <form>Kčs</form>
-<tag lemma="Kčs-1_:B_^(Koruna_čs.)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="Kčs-1_:B_^(Koruna_čs.)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="Kčs-1_:B_^(Koruna_čs.)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920923-059-p2s2w11">
 <src.rf>manual</src.rf>
@@ -677,7 +689,10 @@
 <LM>w#w-mf920923-059-p2s5w21</LM>
 </w.rf>
 <form>mil</form>
-<tag lemma="milión`1000000_:B" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="milión`1000000_:B" src="orig">NNIXX-----A---8</AM>
+<AM lemma="milión`1000000" src="manual" selected="1">NNIXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-mf920923-059-p2s5w22">
 <src.rf>manual</src.rf>
@@ -693,7 +708,10 @@
 <LM>w#w-mf920923-059-p2s5w23</LM>
 </w.rf>
 <form>Kčs</form>
-<tag lemma="Kčs-1_:B_^(Koruna_čs.)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="Kčs-1_:B_^(Koruna_čs.)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="Kčs-1_:B_^(Koruna_čs.)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920923-059-p2s5w24">
 <src.rf>manual</src.rf>
@@ -727,7 +745,10 @@
 <LM>w#w-mf920923-059-p2s7w3</LM>
 </w.rf>
 <form>SZP</form>
-<tag lemma="SZP_;K" src="orig" selected="1">NNNXX-----A---8</tag>
+<tag>
+<AM lemma="SZP_;K" src="orig">NNNXX-----A---8</AM>
+<AM lemma="SZP-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-mf920923-059-p2s7w4">
 <src.rf>manual</src.rf>
@@ -817,7 +838,10 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>Kčs</form>
-<tag lemma="Kčs-1_:B_^(Koruna_čs.)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="Kčs-1_:B_^(Koruna_čs.)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="Kčs-1_:B_^(Koruna_čs.)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920923-059-p2s7w15">
 <src.rf>manual</src.rf>

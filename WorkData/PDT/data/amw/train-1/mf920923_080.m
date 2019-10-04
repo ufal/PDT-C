@@ -23,6 +23,7 @@
 <AM lemma="MEZ_:B_;K" src="orig">NNXXX-----A---8</AM>
 <AM lemma="mez" src="auto" recommended="1">NNFS1-----A----</AM>
 <AM lemma="mez" src="auto">NNFS4-----A----</AM>
+<AM lemma="MEZ-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920923-080-p1s1w2">
@@ -85,6 +86,7 @@
 <AM lemma="MEZ_:B_;K" src="orig">NNXXX-----A---8</AM>
 <AM lemma="mez" src="auto" recommended="1">NNFS1-----A----</AM>
 <AM lemma="mez" src="auto">NNFS4-----A----</AM>
+<AM lemma="MEZ-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920923-080-p2s1w4">
@@ -245,7 +247,10 @@
 <LM>w#w-mf920923-080-p2s1w23</LM>
 </w.rf>
 <form>SRN</form>
-<tag lemma="SRN_:B_;G" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="SRN_:B_;G" src="orig">NNFXX-----A---8</AM>
+<AM lemma="SRN-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920923-080-p2s1w24">
 <src.rf>manual</src.rf>
@@ -305,6 +310,7 @@
 <AM lemma="MEZ_:B_;K" src="orig">NNXXX-----A---8</AM>
 <AM lemma="mez" src="auto" recommended="1">NNFS1-----A----</AM>
 <AM lemma="mez" src="auto">NNFS4-----A----</AM>
+<AM lemma="MEZ-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920923-080-p2s1w31">
@@ -523,7 +529,10 @@
 <LM>w#w-mf920923-080-p2s2w21</LM>
 </w.rf>
 <form>jen</form>
-<tag lemma="jen-1" src="auto" selected="1">TT-------------</tag>
+<tag>
+<AM lemma="jen-1" src="auto">TT-------------</AM>
+<AM lemma="jen-4_^(pouze)" src="manual" selected="1">Db-------------</AM>
+</tag>
 </m>
 <m id="m-mf920923-080-p2s2w22">
 <src.rf>manual</src.rf>
@@ -617,6 +626,7 @@
 <AM lemma="MEZ_:B_;K" src="orig">NNXXX-----A---8</AM>
 <AM lemma="mez" src="auto">NNFS1-----A----</AM>
 <AM lemma="mez" src="auto" recommended="1">NNFS4-----A----</AM>
+<AM lemma="MEZ-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920923-080-p2s3w8">
@@ -751,6 +761,7 @@
 <AM lemma="MEZ_:B_;K" src="orig">NNXXX-----A---8</AM>
 <AM lemma="mez" src="auto" recommended="1">NNFS1-----A----</AM>
 <AM lemma="mez" src="auto">NNFS4-----A----</AM>
+<AM lemma="MEZ-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920923-080-p2s4w14">
@@ -855,7 +866,10 @@
 <LM>w#w-mf920923-080-p2s4w26</LM>
 </w.rf>
 <form>Asea</form>
-<tag lemma="Asea_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Asea_;S" src="orig">NNMS1-----A----</AM>
+<AM lemma="Asea-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-mf920923-080-p2s4w27">
 <src.rf>manual</src.rf>
@@ -863,7 +877,10 @@
 <LM>w#w-mf920923-080-p2s4w27</LM>
 </w.rf>
 <form>Brown</form>
-<tag lemma="Brown_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Brown_;S" src="orig">NNMS1-----A----</AM>
+<AM lemma="Brown-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-mf920923-080-p2s4w28">
 <src.rf>manual</src.rf>
@@ -871,7 +888,10 @@
 <LM>w#w-mf920923-080-p2s4w28</LM>
 </w.rf>
 <form>Boveri</form>
-<tag lemma="Boveri_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Boveri_;S" src="orig">NNMS1-----A----</AM>
+<AM lemma="Boveri-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-mf920923-080-p2s4w29">
 <src.rf>manual</src.rf>
@@ -1041,7 +1061,10 @@
 <LM>w#w-mf920923-080-p2s5w20</LM>
 </w.rf>
 <form>jen</form>
-<tag lemma="jen-1" src="auto" selected="1">TT-------------</tag>
+<tag>
+<AM lemma="jen-1" src="auto">TT-------------</AM>
+<AM lemma="jen-4_^(pouze)" src="manual" selected="1">Db-------------</AM>
+</tag>
 </m>
 <m id="m-mf920923-080-p2s5w21">
 <src.rf>manual</src.rf>

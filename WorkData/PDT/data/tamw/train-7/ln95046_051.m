@@ -311,7 +311,10 @@
 <LM>w#w-ln95046-051-p2s2w6</LM>
 </w.rf>
 <form>obdržela</form>
-<tag lemma="obdržet" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag>
+<AM lemma="obdržet" src="orig">VpQW---XR-AA---</AM>
+<AM lemma="obdržet_:W" src="manual" selected="1">VpQW---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-ln95046-051-p2s2w7">
 <src.rf>manual</src.rf>
@@ -1178,7 +1181,10 @@
 <LM>w#w-ln95046-051-p3s5w3</LM>
 </w.rf>
 <form>Musica</form>
-<tag lemma="Musica_;u_^(Musica_Bohemica)" src="auto" selected="1">NNFS1-----A----</tag>
+<tag>
+<AM lemma="Musica_;u_^(Musica_Bohemica)" src="auto">NNFS1-----A----</AM>
+<AM lemma="Musica-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln95046-051-p3s5w4">
 <src.rf>manual</src.rf>
@@ -1186,7 +1192,10 @@
 <LM>w#w-ln95046-051-p3s5w4</LM>
 </w.rf>
 <form>Iudaica</form>
-<tag lemma="Iudaica_;m_,t" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="Iudaica_;m_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="Iudaica-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln95046-051-p3s5w5">
 <src.rf>manual</src.rf>
@@ -1480,7 +1489,7 @@
 <form>Ačkoli</form>
 <tag>
 <AM lemma="ačkoliv" src="orig">J,------------1</AM>
-<AM lemma="ačkoli" src="auto" recommended="1">J,-------------</AM>
+<AM lemma="ačkoli" src="auto" recommended="1" selected="1">J,-------------</AM>
 </tag>
 </m>
 <m id="m-ln95046-051-p4s1w3">
@@ -1513,7 +1522,10 @@
 <LM>w#w-ln95046-051-p4s1w6</LM>
 </w.rf>
 <form>vydáváme</form>
-<tag lemma="vydávat-1_:T_^(emitovat:_cenné_papíry,_knihu,_zvuk,...)_(*6at-1)" src="orig" selected="1">VB-P---1P-AA---</tag>
+<tag>
+<AM lemma="vydávat-1_:T_^(emitovat:_cenné_papíry,_knihu,_zvuk,...)_(*6at-1)" src="orig">VB-P---1P-AA---</AM>
+<AM lemma="vydávat_:T_^(*4at)" src="manual" selected="1">VB-P---1P-AA---</AM>
+</tag>
 </m>
 <m id="m-ln95046-051-p4s1w7">
 <src.rf>manual</src.rf>

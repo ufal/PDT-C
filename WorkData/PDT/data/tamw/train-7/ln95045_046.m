@@ -81,7 +81,7 @@
 <AM lemma="osmý" src="orig">AANS6----1A----</AM>
 <AM lemma="osmý" src="auto">CrIS6----------</AM>
 <AM lemma="osmý" src="auto">CrMS6----------</AM>
-<AM lemma="osmý" src="auto" recommended="1">CrNS6----------</AM>
+<AM lemma="osmý" src="auto" recommended="1" selected="1">CrNS6----------</AM>
 </tag>
 </m>
 <m id="m-ln95045-046-p2s1w3">
@@ -390,7 +390,10 @@
 <LM>w#w-ln95045-046-p2s3w3</LM>
 </w.rf>
 <form>stane</form>
-<tag lemma="stát-2_^(něco_se_přihodilo)" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag>
+<AM lemma="stát-2_^(něco_se_přihodilo)" src="orig">VB-S---3P-AA---</AM>
+<AM lemma="stát-2_^(stanu_staneš)" src="manual" selected="1">VB-S---3P-AA---</AM>
+</tag>
 </m>
 <m id="m-ln95045-046-p2s3w4">
 <src.rf>manual</src.rf>

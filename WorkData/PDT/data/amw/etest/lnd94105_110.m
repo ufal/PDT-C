@@ -27,7 +27,10 @@
 <LM>w#w-lnd94105-110-p1s1w2</LM>
 </w.rf>
 <form>vát</form>
-<tag lemma="vát" src="orig" selected="1">Vf--------A----</tag>
+<tag>
+<AM lemma="vát" src="orig">Vf--------A----</AM>
+<AM lemma="vát_:T" src="manual" selected="1">Vf--------A----</AM>
+</tag>
 </m>
 <m id="m-lnd94105-110-p1s1w3">
 <src.rf>manual</src.rf>
@@ -164,6 +167,7 @@
 <AM lemma="mimo-1_:B" src="auto">RR--4---------8</AM>
 <AM lemma="minuta_:B" src="auto">NNFXX-----A---8</AM>
 <AM lemma="město_:B" src="auto">NNNXX-----A---8</AM>
+<AM lemma="metr" src="manual" selected="1">NNIXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-lnd94105-110-p1s1w19">
@@ -180,7 +184,10 @@
 <LM>w#w-lnd94105-110-p1s1w20</LM>
 </w.rf>
 <form>s</form>
-<tag lemma="s-2`sekunda_:B" src="orig" selected="1">NNFXX-----A---1</tag>
+<tag>
+<AM lemma="s-2`sekunda_:B" src="orig">NNFXX-----A---1</AM>
+<AM lemma="sekunda" src="manual" selected="1">NNFXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd94105-110-p1s1w21">
 <src.rf>manual</src.rf>

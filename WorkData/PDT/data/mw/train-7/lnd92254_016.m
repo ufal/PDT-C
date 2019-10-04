@@ -51,6 +51,7 @@
 <AM lemma="flóra_,x" src="auto">NNFP4-----A----</AM>
 <AM lemma="flóra_,x" src="auto">NNFP5-----A----</AM>
 <AM lemma="flóra_,x" src="auto" recommended="1">NNFS2-----A----</AM>
+<AM lemma="Flora_;K" src="manual" selected="1">NNFS2-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92254-016-p1s1w5">
@@ -139,7 +140,10 @@
 <LM>w#w-lnd92254-016-p1s1w15</LM>
 </w.rf>
 <form>LIBRI</form>
-<tag lemma="Libri_;m_,t" src="orig" selected="1">NNFPX-----A----</tag>
+<tag>
+<AM lemma="Libri_;m_,t" src="orig">NNFPX-----A----</AM>
+<AM lemma="LIBRI-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-lnd92254-016-p1s1w16">
 <src.rf>manual</src.rf>
@@ -177,7 +181,7 @@
 <AM lemma="knižní" src="auto">AAFP1----1A----</AM>
 <AM lemma="knižní" src="auto">AAFP4----1A----</AM>
 <AM lemma="knižní" src="auto">AAFP5----1A----</AM>
-<AM lemma="knižní" src="auto" recommended="1">AAFS1----1A----</AM>
+<AM lemma="knižní" src="auto" recommended="1" selected="1">AAFS1----1A----</AM>
 <AM lemma="knižní" src="auto">AAFS2----1A----</AM>
 <AM lemma="knižní" src="auto">AAFS3----1A----</AM>
 <AM lemma="knižní" src="auto">AAFS4----1A----</AM>
@@ -383,7 +387,7 @@
 <form>Audi</form>
 <tag>
 <AM lemma="Audi-1_;K" src="orig">NNFXX-----A----</AM>
-<AM lemma="Audi_;K_;R_^(vozidlo)" src="auto" recommended="1">NNXXX-----A----</AM>
+<AM lemma="Audi_;K_;R_^(vozidlo)" src="auto" recommended="1" selected="1">NNXXX-----A----</AM>
 <AM lemma="audi_^(vozidlo)" src="auto">NNXXX-----A----</AM>
 </tag>
 </m>
@@ -401,7 +405,10 @@
 <LM>w#w-lnd92254-016-p2s1w7</LM>
 </w.rf>
 <form>VW</form>
-<tag lemma="VW_:B_;K_;R_,t_^(název_firmy/auta_Volkswagen)" src="auto" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="VW_:B_;K_;R_,t_^(název_firmy/auta_Volkswagen)" src="auto">NNIXX-----A---8</AM>
+<AM lemma="VW-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd92254-016-p2s1w8">
 <src.rf>manual</src.rf>
@@ -437,7 +444,7 @@
 <AM lemma="Mercedes-1_;K" src="orig">NNIS6-----A---1</AM>
 <AM lemma="Mercedes-1_;K_;R" src="auto">NNIS2-----A----</AM>
 <AM lemma="Mercedes-1_;K_;R" src="auto">NNIS3-----A----</AM>
-<AM lemma="Mercedes-1_;K_;R" src="auto">NNIS6-----A----</AM>
+<AM lemma="Mercedes-1_;K_;R" src="auto" selected="1">NNIS6-----A----</AM>
 <AM lemma="mercedes_;R_^(vozidlo)" src="auto">NNIS2-----A----</AM>
 <AM lemma="mercedes_;R_^(vozidlo)" src="auto">NNIS3-----A----</AM>
 <AM lemma="mercedes_;R_^(vozidlo)" src="auto" recommended="1">NNIS6-----A----</AM>
@@ -598,7 +605,7 @@
 <tag>
 <AM lemma="tedy" src="orig">Db-------------</AM>
 <AM lemma="tedy-1" src="auto">TT-------------</AM>
-<AM lemma="tedy-2" src="auto" recommended="1">J^-------------</AM>
+<AM lemma="tedy-2" src="auto" recommended="1" selected="1">J^-------------</AM>
 </tag>
 </m>
 <m id="m-lnd92254-016-p2s2w6">

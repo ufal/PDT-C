@@ -43,7 +43,10 @@
 <LM>w#w-ln95047-058-p1s1w4</LM>
 </w.rf>
 <form>černobílých</form>
-<tag lemma="černobílý" src="orig" selected="1">AAFP6----1A----</tag>
+<tag>
+<AM lemma="černobílý" src="orig">AAFP6----1A----</AM>
+<AM lemma="černobílý_;o" src="manual" selected="1">AAFP6----1A----</AM>
+</tag>
 </m>
 <m id="m-ln95047-058-p1s1w5">
 <src.rf>manual</src.rf>
@@ -223,7 +226,10 @@
 <LM>w#w-ln95047-058-p2s1Bw14</LM>
 </w.rf>
 <form>stalo</form>
-<tag lemma="stát-2_^(něco_se_přihodilo)" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag>
+<AM lemma="stát-2_^(něco_se_přihodilo)" src="orig">VpNS---XR-AA---</AM>
+<AM lemma="stát-2_^(stanu_staneš)" src="manual" selected="1">VpNS---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-ln95047-058-p2s1Bw15">
 <src.rf>manual</src.rf>
@@ -247,7 +253,10 @@
 <LM>w#w-ln95047-058-p2s1Bw17</LM>
 </w.rf>
 <form>černobílých</form>
-<tag lemma="černobílý" src="orig" selected="1">AAFP6----1A----</tag>
+<tag>
+<AM lemma="černobílý" src="orig">AAFP6----1A----</AM>
+<AM lemma="černobílý_;o" src="manual" selected="1">AAFP6----1A----</AM>
+</tag>
 </m>
 <m id="m-ln95047-058-p2s1Bw18">
 <src.rf>manual</src.rf>
@@ -297,7 +306,10 @@
 <LM>w#w-ln95047-058-p2s2w3</LM>
 </w.rf>
 <form>uvedl</form>
-<tag lemma="uvést" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag>
+<AM lemma="uvést" src="orig">VpYS---XR-AA---</AM>
+<AM lemma="uvést_:W" src="manual" selected="1">VpYS---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-ln95047-058-p2s2w4">
 <src.rf>manual</src.rf>
@@ -313,7 +325,10 @@
 <LM>w#w-ln95047-058-p2s2w5</LM>
 </w.rf>
 <form>Dan</form>
-<tag lemma="Dan_;Y_,h" src="orig" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Dan_;Y_,h" src="orig">NNMS1-----A----</AM>
+<AM lemma="Dan_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95047-058-p2s2w6">
 <src.rf>manual</src.rf>
@@ -821,7 +836,10 @@
 <LM>w#w-ln95047-058-p2s4w11</LM>
 </w.rf>
 <form>superrealismu</form>
-<tag lemma="superrealismus" src="orig" selected="1">NNIS2-----A----</tag>
+<tag>
+<AM lemma="superrealismus" src="orig">NNIS2-----A----</AM>
+<AM lemma="superrealismus_,s_^(^DD**superrealizmus)" src="manual" selected="1">NNIS2-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95047-058-p2s4w12">
 <src.rf>manual</src.rf>
@@ -1413,7 +1431,10 @@
 <LM>w#w-ln95047-058-p4s2w3</LM>
 </w.rf>
 <form>straně</form>
-<tag lemma="strana-1_^(v_prostoru)" src="orig" selected="1">NNFS6-----A----</tag>
+<tag>
+<AM lemma="strana-1_^(v_prostoru)" src="orig">NNFS6-----A----</AM>
+<AM lemma="strana" src="manual" selected="1">NNFS6-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95047-058-p4s2w4">
 <src.rf>manual</src.rf>
@@ -1511,7 +1532,10 @@
 <LM>w#w-ln95047-058-p4s3w3</LM>
 </w.rf>
 <form>straně</form>
-<tag lemma="strana-1_^(v_prostoru)" src="orig" selected="1">NNFS6-----A----</tag>
+<tag>
+<AM lemma="strana-1_^(v_prostoru)" src="orig">NNFS6-----A----</AM>
+<AM lemma="strana" src="manual" selected="1">NNFS6-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95047-058-p4s3w4">
 <src.rf>manual</src.rf>
@@ -1979,7 +2003,10 @@
 <LM>w#w-ln95047-058-p5s2w7</LM>
 </w.rf>
 <form>stane</form>
-<tag lemma="stát-2_^(něco_se_přihodilo)" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag>
+<AM lemma="stát-2_^(něco_se_přihodilo)" src="orig">VB-S---3P-AA---</AM>
+<AM lemma="stát-2_^(stanu_staneš)" src="manual" selected="1">VB-S---3P-AA---</AM>
+</tag>
 </m>
 <m id="m-ln95047-058-p5s2w8">
 <src.rf>manual</src.rf>
@@ -2182,7 +2209,10 @@
 <LM>w#w-ln95047-058-p5s3w19</LM>
 </w.rf>
 <form>jen</form>
-<tag lemma="jen-1" src="auto" selected="1">TT-------------</tag>
+<tag>
+<AM lemma="jen-1" src="auto">TT-------------</AM>
+<AM lemma="jen_^(pouze)-" src="manual" selected="1">Db-------------</AM>
+</tag>
 </m>
 <m id="m-ln95047-058-p5s3w20">
 <src.rf>manual</src.rf>
@@ -2262,7 +2292,10 @@
 <LM>w#w-ln95047-058-p5s3w29</LM>
 </w.rf>
 <form>události</form>
-<tag lemma="událost_,a_^(*3ý)" src="orig" selected="1">NNFP4-----A----</tag>
+<tag>
+<AM lemma="událost_,a_^(*3ý)" src="orig">NNFP4-----A----</AM>
+<AM lemma="událost_^(*3ý)" src="manual" selected="1">NNFP4-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95047-058-p5s3w30">
 <src.rf>manual</src.rf>
@@ -2402,7 +2435,7 @@
 <form>snad</form>
 <tag>
 <AM lemma="snad" src="orig">Db-------------</AM>
-<AM lemma="snad" src="auto" recommended="1">TT-------------</AM>
+<AM lemma="snad" src="auto" recommended="1" selected="1">TT-------------</AM>
 </tag>
 </m>
 <m id="m-ln95047-058-p5s4w17">

@@ -133,7 +133,10 @@
 <LM>w#w-vesm9212-034-p2s1w12</LM>
 </w.rf>
 <form>danausi</form>
-<tag lemma="danaus_;L_,t_^(motýl)" src="auto" selected="1">NNMP1-----A----</tag>
+<tag>
+<AM lemma="danaus_;L_,t_^(motýl)" src="auto">NNMP1-----A----</AM>
+<AM lemma="danaus_;L_^(motýl)" src="manual" selected="1">NNMP1-----A----</AM>
+</tag>
 </m>
 <m id="m-vesm9212-034-p2s1w13">
 <src.rf>manual</src.rf>
@@ -149,7 +152,10 @@
 <LM>w#w-vesm9212-034-p2s1w14</LM>
 </w.rf>
 <form>Danaus</form>
-<tag lemma="Danaus_;L_,t" src="auto" selected="1">NNMXX-----A----</tag>
+<tag>
+<AM lemma="Danaus_;L_,t" src="auto">NNMXX-----A----</AM>
+<AM lemma="Danaus-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-vesm9212-034-p2s1w15">
 <src.rf>manual</src.rf>
@@ -157,7 +163,10 @@
 <LM>w#w-vesm9212-034-p2s1w15</LM>
 </w.rf>
 <form>plexippus</form>
-<tag lemma="plexippus_;L_,t" src="orig" selected="1">AAMS1----1A----</tag>
+<tag>
+<AM lemma="plexippus_;L_,t" src="orig">AAMS1----1A----</AM>
+<AM lemma="plexippus-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-vesm9212-034-p2s1w16">
 <src.rf>manual</src.rf>
@@ -536,7 +545,10 @@
 <LM>w#w-vesm9212-034-p2s2w23</LM>
 </w.rf>
 <form>Sierra</form>
-<tag lemma="Sierra_;G_;R" src="auto" selected="1">NNFS1-----A----</tag>
+<tag>
+<AM lemma="Sierra_;G_;R" src="auto">NNFS1-----A----</AM>
+<AM lemma="Sierra-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-vesm9212-034-p2s2w24">
 <src.rf>manual</src.rf>
@@ -547,6 +559,7 @@
 <tag>
 <AM lemma="Madre_;G_,t" src="orig">NNNSX-----A----</AM>
 <AM lemma="Madre_;G_,t_^(v_názech_pohoří)" src="auto" recommended="1">NNNXX-----A----</AM>
+<AM lemma="Madre-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-vesm9212-034-p2s2w25">
@@ -581,7 +594,10 @@
 <LM>w#w-vesm9212-034-p2s3w1</LM>
 </w.rf>
 <form>L</form>
-<tag lemma="L-0_:B_;Y" src="orig" selected="1">NNMXX-----A---8</tag>
+<tag>
+<AM lemma="L-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
+<AM lemma="L-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-vesm9212-034-p2s3w2">
 <src.rf>manual</src.rf>
@@ -597,7 +613,10 @@
 <LM>w#w-vesm9212-034-p2s3w3</LM>
 </w.rf>
 <form>P</form>
-<tag lemma="P-0_:B_;Y" src="orig" selected="1">NNMXX-----A---8</tag>
+<tag>
+<AM lemma="P-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
+<AM lemma="P-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-vesm9212-034-p2s3w4">
 <src.rf>manual</src.rf>
@@ -656,6 +675,7 @@
 <tag>
 <AM lemma="USA_;G" src="orig">NNIPX-----A----</AM>
 <AM lemma="USA_:B_;K_,t_^(United_States_of_America)" src="auto" recommended="1">NNIPX-----A---8</AM>
+<AM lemma="USA_:B_;K_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9212-034-p2s3w11">
@@ -697,8 +717,9 @@
 </w.rf>
 <form>danausích</form>
 <tag>
-<AM lemma="danausí" src="orig">AANP2----1A----</AM>
+<AM lemma="danausí" src="orig" selected="1">AANP2----1A----</AM>
 <AM lemma="danaus_;L_,t_^(motýl)" src="auto" recommended="1">NNMP6-----A----</AM>
+<AM lemma="danaus_;L_^(motýl)" src="manual">NNMP6-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9212-034-p2s3w16">
@@ -1001,7 +1022,10 @@
 <LM>w#w-vesm9212-034-p2s4Bw12</LM>
 </w.rf>
 <form>jen</form>
-<tag lemma="jen-1" src="auto" selected="1">TT-------------</tag>
+<tag>
+<AM lemma="jen-1" src="auto">TT-------------</AM>
+<AM lemma="jen-4_^(pouze)" src="manual" selected="1">Db-------------</AM>
+</tag>
 </m>
 <m id="m-vesm9212-034-p2s4Bw13">
 <src.rf>manual</src.rf>
@@ -1465,7 +1489,10 @@
 <LM>w#w-vesm9212-034-p2s8w16</LM>
 </w.rf>
 <form>danausů</form>
-<tag lemma="danaus_;L_,t_^(motýl)" src="auto" selected="1">NNMP2-----A----</tag>
+<tag>
+<AM lemma="danaus_;L_,t_^(motýl)" src="auto">NNMP2-----A----</AM>
+<AM lemma="danaus_;L_^(motýl)" src="manual" selected="1">NNMP2-----A----</AM>
+</tag>
 </m>
 <m id="m-vesm9212-034-p2s8w17">
 <src.rf>manual</src.rf>
@@ -1547,7 +1574,10 @@
 <LM>w#w-vesm9212-034-p2s9w7</LM>
 </w.rf>
 <form>danausům</form>
-<tag lemma="danaus_;L_,t_^(motýl)" src="auto" selected="1">NNMP3-----A----</tag>
+<tag>
+<AM lemma="danaus_;L_,t_^(motýl)" src="auto">NNMP3-----A----</AM>
+<AM lemma="danaus_;L_^(motýl)" src="manual" selected="1">NNMP3-----A----</AM>
+</tag>
 </m>
 <m id="m-vesm9212-034-p2s9w8">
 <src.rf>manual</src.rf>
@@ -1889,7 +1919,10 @@
 <LM>w#w-vesm9212-034-p2s12w13</LM>
 </w.rf>
 <form>Science</form>
-<tag lemma="Science-1_;K_,t_^(souč._názvů,_např._Science)" src="orig" selected="1">NNFSX-----A----</tag>
+<tag>
+<AM lemma="Science-1_;K_,t_^(souč._názvů,_např._Science)" src="orig">NNFSX-----A----</AM>
+<AM lemma="Science-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-vesm9212-034-p2s12w14">
 <src.rf>manual</src.rf>

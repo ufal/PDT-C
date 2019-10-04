@@ -508,7 +508,10 @@
 <LM>w#w-ln95044-073-p2s4w10</LM>
 </w.rf>
 <form>imperialismem</form>
-<tag lemma="imperialismus" src="orig" selected="1">NNIS7-----A----</tag>
+<tag>
+<AM lemma="imperialismus" src="orig">NNIS7-----A----</AM>
+<AM lemma="imperialismus_,s_^(^DD**imperializmus)" src="manual" selected="1">NNIS7-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95044-073-p2s4w11">
 <src.rf>manual</src.rf>
@@ -1038,7 +1041,10 @@
 <LM>w#w-ln95044-073-p3s1w3</LM>
 </w.rf>
 <form>Lech</form>
-<tag lemma="Lech_;Y_,t" src="auto" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Lech_;Y_,t" src="auto">NNMS1-----A----</AM>
+<AM lemma="Lech_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95044-073-p3s1w4">
 <src.rf>manual</src.rf>
@@ -1779,7 +1785,7 @@
 <form>Snad</form>
 <tag>
 <AM lemma="snad" src="orig">Db-------------</AM>
-<AM lemma="snad" src="auto" recommended="1">TT-------------</AM>
+<AM lemma="snad" src="auto" recommended="1" selected="1">TT-------------</AM>
 </tag>
 </m>
 <m id="m-ln95044-073-p3s6w2">
@@ -2004,7 +2010,7 @@
 <form>raději</form>
 <tag>
 <AM lemma="raději" src="orig">Dg-------2A----</AM>
-<AM lemma="rád" src="auto" recommended="1">Dg-------2A----</AM>
+<AM lemma="rád" src="auto" recommended="1" selected="1">Dg-------2A----</AM>
 </tag>
 </m>
 <m id="m-ln95044-073-p3s9w8">
@@ -2837,7 +2843,10 @@
 <LM>w#w-ln95044-073-p5s1w28</LM>
 </w.rf>
 <form>nejvíce</form>
-<tag lemma="hodně-2" src="auto" selected="1">Dg-------3A----</tag>
+<tag>
+<AM lemma="hodně-2" src="auto">Dg-------3A----</AM>
+<AM lemma="hodně-3" src="manual" selected="1">Dg-------3A----</AM>
+</tag>
 </m>
 <m id="m-ln95044-073-p5s1w29">
 <src.rf>manual</src.rf>
@@ -3501,7 +3510,10 @@
 <LM>w#w-ln95044-073-p5s5w10</LM>
 </w.rf>
 <form>spíše</form>
-<tag lemma="spíše" src="orig" selected="1">Dg-------2A---1</tag>
+<tag>
+<AM lemma="spíše" src="orig">Dg-------2A---1</AM>
+<AM lemma="spíš" src="manual" selected="1">TT------------1</AM>
+</tag>
 </m>
 <m id="m-ln95044-073-p5s5w11">
 <src.rf>manual</src.rf>
@@ -3623,7 +3635,10 @@
 <LM>w#w-ln95044-073-p5s6w7</LM>
 </w.rf>
 <form>patriotismus</form>
-<tag lemma="patriotismus" src="orig" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="patriotismus" src="orig">NNIS1-----A----</AM>
+<AM lemma="patriotismus_,s_^(^DD**patriotizmus)" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95044-073-p5s6w8">
 <src.rf>manual</src.rf>
@@ -3747,7 +3762,7 @@
 <form>snad</form>
 <tag>
 <AM lemma="snad" src="orig">Db-------------</AM>
-<AM lemma="snad" src="auto" recommended="1">TT-------------</AM>
+<AM lemma="snad" src="auto" recommended="1" selected="1">TT-------------</AM>
 </tag>
 </m>
 <m id="m-ln95044-073-p5s7w5">
@@ -4072,7 +4087,10 @@
 <LM>w#w-ln95044-073-p5s9w6</LM>
 </w.rf>
 <form>patriotismu</form>
-<tag lemma="patriotismus" src="orig" selected="1">NNIS6-----A----</tag>
+<tag>
+<AM lemma="patriotismus" src="orig">NNIS6-----A----</AM>
+<AM lemma="patriotismus_,s_^(^DD**patriotizmus)" src="manual" selected="1">NNIS6-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95044-073-p5s9w7">
 <src.rf>manual</src.rf>
@@ -4268,7 +4286,10 @@
 <LM>w#w-ln95044-073-p5s11w13</LM>
 </w.rf>
 <form>jen</form>
-<tag lemma="jen-1" src="auto" selected="1">TT-------------</tag>
+<tag>
+<AM lemma="jen-1" src="auto">TT-------------</AM>
+<AM lemma="jen-4_^(pouze)" src="manual" selected="1">Db-------------</AM>
+</tag>
 </m>
 <m id="m-ln95044-073-p5s11w14">
 <src.rf>manual</src.rf>
@@ -4592,7 +4613,10 @@
 <LM>w#w-ln95044-073-p5s13w18</LM>
 </w.rf>
 <form>li</form>
-<tag lemma="li-1" src="auto" selected="1">TT-------------</tag>
+<tag>
+<AM lemma="li-1" src="auto">TT-------------</AM>
+<AM lemma="li-2" src="manual" selected="1">J,-------------</AM>
+</tag>
 </m>
 <m id="m-ln95044-073-p5s13w19">
 <src.rf>manual</src.rf>
@@ -4718,7 +4742,7 @@
 <form>Ovšem</form>
 <tag>
 <AM lemma="ovšem-1_^(avšak,_však;_odporovací_spojka)" src="orig">J^-------------</AM>
-<AM lemma="ovšem" src="auto" recommended="1">TT-------------</AM>
+<AM lemma="ovšem" src="auto" recommended="1" selected="1">TT-------------</AM>
 </tag>
 </m>
 <m id="m-ln95044-073-p6s2w2">
@@ -7321,7 +7345,10 @@
 <LM>w#w-ln95044-073-p8s3w4</LM>
 </w.rf>
 <form>li</form>
-<tag lemma="li-1" src="auto" selected="1">TT-------------</tag>
+<tag>
+<AM lemma="li-1" src="auto">TT-------------</AM>
+<AM lemma="li-2" src="manual" selected="1">J,-------------</AM>
+</tag>
 </m>
 <m id="m-ln95044-073-p8s3w5">
 <src.rf>manual</src.rf>
@@ -7899,7 +7926,10 @@
 <LM>w#w-ln95044-073-p8s8w9</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-2" src="auto" selected="1">Dg-------2A----</tag>
+<tag>
+<AM lemma="hodně-2" src="auto">Dg-------2A----</AM>
+<AM lemma="hodně-3" src="manual" selected="1">Dg-------2A----</AM>
+</tag>
 </m>
 <m id="m-ln95044-073-p8s8w10">
 <src.rf>manual</src.rf>

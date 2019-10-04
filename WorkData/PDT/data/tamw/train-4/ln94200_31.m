@@ -61,7 +61,10 @@
 <LM>w#w-ln94200-31-p2s1Aw3</LM>
 </w.rf>
 <form>ev</form>
-<tag lemma="ev-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="ev-99_:B_;S" src="orig">NNXXX-----A---8</AM>
+<AM lemma="ev-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94200-31-p2s1Aw4">
 <src.rf>manual</src.rf>
@@ -215,7 +218,10 @@
 <LM>w#w-ln94200-31-p2s1Bw17</LM>
 </w.rf>
 <form>EFTA</form>
-<tag lemma="EFTA-1_:B_;K_,t_^(European_Free_Trade_Association)" src="auto" selected="1">NNNXX-----A---8</tag>
+<tag>
+<AM lemma="EFTA-1_:B_;K_,t_^(European_Free_Trade_Association)" src="auto">NNNXX-----A---8</AM>
+<AM lemma="EFTA-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94200-31-p2s1Bw18">
 <src.rf>manual</src.rf>
@@ -306,6 +312,7 @@
 <tag>
 <AM lemma="USA_;G" src="orig">NNIPX-----A----</AM>
 <AM lemma="USA_:B_;K_,t_^(United_States_of_America)" src="auto" recommended="1">NNIPX-----A---8</AM>
+<AM lemma="USA_:B_;K_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94200-31-p2s1Bw29">
@@ -1208,7 +1215,10 @@
 <LM>w#w-ln94200-31-p4s1w7</LM>
 </w.rf>
 <form>ČR</form>
-<tag lemma="ČR-1_:B_;G_^(Česká_republika)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94200-31-p4s1w8">
 <src.rf>manual</src.rf>
@@ -1412,7 +1422,10 @@
 <LM>w#w-ln94200-31-p5s1w3</LM>
 </w.rf>
 <form>určeno</form>
-<tag lemma="určit" src="orig" selected="1">VsNS---XX-AP---</tag>
+<tag>
+<AM lemma="určit" src="orig">VsNS---XX-AP---</AM>
+<AM lemma="určit_:W" src="manual" selected="1">VsNS---XX-AP---</AM>
+</tag>
 </m>
 <m id="m-ln94200-31-p5s1w4">
 <src.rf>manual</src.rf>
@@ -1628,7 +1641,10 @@
 <LM>w#w-ln94200-31-p5s1w30</LM>
 </w.rf>
 <form>joint</form>
-<tag lemma="joint_,t_^(j._venture;_společný_podnik)" src="auto" selected="1">AAIXX----1A----</tag>
+<tag>
+<AM lemma="joint_,t_^(j._venture;_společný_podnik)" src="auto">AAIXX----1A----</AM>
+<AM lemma="joint-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94200-31-p5s1w31">
 <src.rf>manual</src.rf>
@@ -1644,7 +1660,10 @@
 <LM>w#w-ln94200-31-p5s1w32</LM>
 </w.rf>
 <form>venture</form>
-<tag lemma="venture_,t_^(joint_v.;_společný_podnik)" src="orig" selected="1">NNIXX-----A----</tag>
+<tag>
+<AM lemma="venture_,t_^(joint_v.;_společný_podnik)" src="orig">NNIXX-----A----</AM>
+<AM lemma="venture-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94200-31-p5s1w33">
 <src.rf>manual</src.rf>
@@ -1818,7 +1837,7 @@
 <form>třeba</form>
 <tag>
 <AM lemma="třeba-1" src="orig">ACNS------A----</AM>
-<AM lemma="třeba-2" src="auto" recommended="1">Db-------------</AM>
+<AM lemma="třeba-2" src="auto" recommended="1" selected="1">Db-------------</AM>
 <AM lemma="třeba-3" src="auto">TT-------------</AM>
 </tag>
 </m>
@@ -1852,7 +1871,10 @@
 <LM>w#w-ln94200-31-p5s3w12</LM>
 </w.rf>
 <form>ČR</form>
-<tag lemma="ČR-1_:B_;G_^(Česká_republika)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94200-31-p5s3w13">
 <src.rf>manual</src.rf>

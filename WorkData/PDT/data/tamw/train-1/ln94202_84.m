@@ -35,7 +35,7 @@
 <AM lemma="studeň_,a" src="auto">NNFS2-----A----</AM>
 <AM lemma="studna" src="auto">NNFS3-----A----</AM>
 <AM lemma="studna" src="auto">NNFS6-----A----</AM>
-<AM lemma="studně" src="auto" recommended="1">NNFP1-----A----</AM>
+<AM lemma="studně" src="auto" recommended="1" selected="1">NNFP1-----A----</AM>
 <AM lemma="studně" src="auto">NNFP4-----A----</AM>
 <AM lemma="studně" src="auto">NNFP5-----A----</AM>
 <AM lemma="studně" src="auto">NNFS1-----A----</AM>
@@ -108,7 +108,10 @@
 <LM>w#w-ln94202-84-p2s1w8</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-2" src="auto" selected="1">Dg-------2A----</tag>
+<tag>
+<AM lemma="hodně-2" src="auto">Dg-------2A----</AM>
+<AM lemma="hodně-3" src="manual" selected="1">Dg-------2A----</AM>
+</tag>
 </m>
 <m id="m-ln94202-84-p2s1w9">
 <src.rf>manual</src.rf>
@@ -152,7 +155,7 @@
 <AM lemma="studna" src="orig">NNFP2-----A----</AM>
 <AM lemma="studeň_,a" src="auto">NNFP2-----A----</AM>
 <AM lemma="studeň_,a" src="auto">NNFS7-----A----</AM>
-<AM lemma="studně" src="auto" recommended="1">NNFP2-----A----</AM>
+<AM lemma="studně" src="auto" recommended="1" selected="1">NNFP2-----A----</AM>
 <AM lemma="studně" src="auto">NNFS7-----A----</AM>
 </tag>
 </m>
@@ -213,7 +216,10 @@
 <LM>w#w-ln94202-84-p2s2w6</LM>
 </w.rf>
 <form>milionu</form>
-<tag lemma="milión`1000000" src="orig" selected="1">NNIS2-----A----</tag>
+<tag>
+<AM lemma="milión`1000000" src="orig">NNIS2-----A----</AM>
+<AM lemma="milion`1000000_,s_^(^DD**milión)" src="manual" selected="1">NNIS2-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94202-84-p2s2w7">
 <src.rf>manual</src.rf>
@@ -229,7 +235,10 @@
 <LM>w#w-ln94202-84-p2s2w8</LM>
 </w.rf>
 <form>ČR</form>
-<tag lemma="ČR-1_:B_;G_^(Česká_republika)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94202-84-p2s2w9">
 <src.rf>manual</src.rf>
@@ -354,7 +363,7 @@
 <tag>
 <AM lemma="studna" src="orig">NNFP6-----A----</AM>
 <AM lemma="studeň_,a" src="auto">NNFP6-----A----</AM>
-<AM lemma="studně" src="auto" recommended="1">NNFP6-----A----</AM>
+<AM lemma="studně" src="auto" recommended="1" selected="1">NNFP6-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94202-84-p2s3w9">
@@ -677,7 +686,7 @@
 <tag>
 <AM lemma="tady" src="orig">Db------------1</AM>
 <AM lemma="ten" src="auto" recommended="1">PDFS4----------</AM>
-<AM lemma="tu" src="auto">Db-------------</AM>
+<AM lemma="tu" src="auto" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m-ln94202-84-p2s6w3">

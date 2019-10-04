@@ -62,6 +62,7 @@
 <tag>
 <AM lemma="Garmish_:B_;G" src="orig">NNIXX-----A---8</AM>
 <AM lemma="galium_:B_;H" src="auto" recommended="1">NNNXX-----A---8</AM>
+<AM lemma="Ga-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-lnd91303-091-p1s1w7">
@@ -81,6 +82,7 @@
 <tag>
 <AM lemma="Partenkirchen_:B_;G" src="orig">NNNXX-----A---8</AM>
 <AM lemma="pa" src="auto" recommended="1">II-------------</AM>
+<AM lemma="Pa-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 </s>
@@ -279,7 +281,10 @@
 <LM>w#w-lnd91303-091-p4s1Aw1</LM>
 </w.rf>
 <form>GARMISCH</form>
-<tag lemma="Garmisch_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Garmisch_;S" src="orig">NNMS1-----A----</AM>
+<AM lemma="Garmisch-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-lnd91303-091-p4s1Aw2">
 <src.rf>manual</src.rf>
@@ -436,6 +441,7 @@
 <tag>
 <AM lemma="Garmisch-2_;G_,t" src="orig">NNISX-----A----</AM>
 <AM lemma="Garmisch_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Garmisch-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-lnd91303-091-p4s1Bw17">
@@ -785,6 +791,7 @@
 <tag>
 <AM lemma="Garmish_:B_;G" src="orig">NNIXX-----A---8</AM>
 <AM lemma="galium_:B_;H" src="auto" recommended="1">NNNXX-----A---8</AM>
+<AM lemma="Ga-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-lnd91303-091-p4s2w20">
@@ -804,6 +811,7 @@
 <tag>
 <AM lemma="Partenkirchen_:B_;G" src="orig">NNNXX-----A---8</AM>
 <AM lemma="pa" src="auto" recommended="1">II-------------</AM>
+<AM lemma="Pa-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-lnd91303-091-p4s2w22">
@@ -990,7 +998,10 @@
 <LM>w#w-lnd91303-091-p5s1w19</LM>
 </w.rf>
 <form>Garmisch</form>
-<tag lemma="Garmisch_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Garmisch_;S" src="orig">NNMS1-----A----</AM>
+<AM lemma="Garmisch-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-lnd91303-091-p5s1w20">
 <src.rf>manual</src.rf>
@@ -1082,7 +1093,7 @@
 <form>snad</form>
 <tag>
 <AM lemma="snad" src="orig">Db-------------</AM>
-<AM lemma="snad" src="auto" recommended="1">TT-------------</AM>
+<AM lemma="snad" src="auto" recommended="1" selected="1">TT-------------</AM>
 </tag>
 </m>
 <m id="m-lnd91303-091-p5s2w3">
@@ -1232,7 +1243,7 @@
 <tag>
 <AM lemma="tady" src="orig">Db------------1</AM>
 <AM lemma="ten" src="auto" recommended="1">PDFS4----------</AM>
-<AM lemma="tu" src="auto">Db-------------</AM>
+<AM lemma="tu" src="auto" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m-lnd91303-091-p5s3w6">
@@ -1289,7 +1300,10 @@
 <LM>w#w-lnd91303-091-p5s3w12</LM>
 </w.rf>
 <form>Grand</form>
-<tag lemma="Grand-1_;K_,t_^(v_názvech)" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="Grand-1_;K_,t_^(v_názvech)" src="orig">AAXXX----1A----</AM>
+<AM lemma="Grand-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-lnd91303-091-p5s3w13">
 <src.rf>manual</src.rf>
@@ -1297,7 +1311,10 @@
 <LM>w#w-lnd91303-091-p5s3w13</LM>
 </w.rf>
 <form>Prix</form>
-<tag lemma="Prix-2_;m_,t_^(cena)" src="orig" selected="1">NNFXX-----A----</tag>
+<tag>
+<AM lemma="Prix-2_;m_,t_^(cena)" src="orig">NNFXX-----A----</AM>
+<AM lemma="Prix-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-lnd91303-091-p5s3w14">
 <src.rf>manual</src.rf>
@@ -1477,7 +1494,7 @@
 <form>totiž</form>
 <tag>
 <AM lemma="totiž" src="orig">Db-------------</AM>
-<AM lemma="totiž-1" src="auto" recommended="1">J^-------------</AM>
+<AM lemma="totiž-1" src="auto" recommended="1" selected="1">J^-------------</AM>
 <AM lemma="totiž-2" src="auto">TT-------------</AM>
 </tag>
 </m>
@@ -2663,7 +2680,10 @@
 <LM>w#w-lnd91303-091-p7s1w23</LM>
 </w.rf>
 <form>profesionalismu</form>
-<tag lemma="profesionalismus" src="orig" selected="1">NNIS3-----A----</tag>
+<tag>
+<AM lemma="profesionalismus" src="orig">NNIS3-----A----</AM>
+<AM lemma="profesionalismus_,s_^(^DD**profesionalizmus)" src="manual" selected="1">NNIS3-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd91303-091-p7s1w24">
 <src.rf>manual</src.rf>
@@ -2777,7 +2797,10 @@
 <LM>w#w-lnd91303-091-p7s2w13</LM>
 </w.rf>
 <form>amatérismu</form>
-<tag lemma="amatérismus" src="orig" selected="1">NNIS2-----A----</tag>
+<tag>
+<AM lemma="amatérismus" src="orig">NNIS2-----A----</AM>
+<AM lemma="amatérismus_,s_^(^DD**amatérizmus) " src="manual" selected="1">NNIS2-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd91303-091-p7s2w14">
 <src.rf>manual</src.rf>

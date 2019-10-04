@@ -273,6 +273,7 @@
 <tag>
 <AM lemma="tie_,t" src="orig">AAXXX----1A----</AM>
 <AM lemma="tie_,t_^(tie-break)" src="auto" recommended="1">A2--------A----</AM>
+<AM lemma="tie-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-ln95049-054-p2s1Bw26">
@@ -281,7 +282,10 @@
 <LM>w#w-ln95049-054-p2s1Bw26</LM>
 </w.rf>
 <form>breaku</form>
-<tag lemma="break_,t_^(tie-break)" src="orig" selected="1">NNIS6-----A----</tag>
+<tag>
+<AM lemma="break_,t_^(tie-break)" src="orig">NNIS6-----A----</AM>
+<AM lemma="break_^(tie-break)" src="manual" selected="1">NNIS6-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95049-054-p2s1Bw27">
 <src.rf>manual</src.rf>

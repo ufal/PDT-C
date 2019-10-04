@@ -565,6 +565,7 @@
 <AM lemma="Tico_;R_,t_^(vozidlo_Daewoo_Tico)" src="auto" recommended="1">NNNS1-----A----</AM>
 <AM lemma="Tico_;R_,t_^(vozidlo_Daewoo_Tico)" src="auto">NNNS4-----A----</AM>
 <AM lemma="Tico_;R_,t_^(vozidlo_Daewoo_Tico)" src="auto">NNNS5-----A----</AM>
+<AM lemma="TICO-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-mf930708-126-p3s2w4">
@@ -634,7 +635,7 @@
 <form>Baranowski</form>
 <tag>
 <AM lemma="Baranovský_;S" src="orig">NNMS1-----A---1</AM>
-<AM lemma="Baranowski_;S" src="auto" recommended="1">NNMS1-----A---1</AM>
+<AM lemma="Baranowski_;S" src="auto" recommended="1" selected="1">NNMS1-----A---1</AM>
 <AM lemma="Baranowski_;S" src="auto">NNMS5-----A---1</AM>
 </tag>
 </m>
@@ -653,7 +654,7 @@
 </w.rf>
 <form>Pol</form>
 <tag>
-<AM lemma="Polsko_:B_;G" src="orig">NNNXX-----A---8</AM>
+<AM lemma="Polsko_:B_;G" src="orig" selected="1">NNNXX-----A---8</AM>
 <AM lemma="Pol_;S" src="auto">NNMS1-----A----</AM>
 <AM lemma="Pol_;Y" src="auto" recommended="1">NNMXX-----A----</AM>
 <AM lemma="Pola_;G" src="auto">NNFP2-----A----</AM>
@@ -757,7 +758,10 @@
 <LM>w#w-mf930708-126-p3s5w3</LM>
 </w.rf>
 <form>Něm</form>
-<tag lemma="Německo_:B_;G" src="auto" selected="1">NNNXX-----A----</tag>
+<tag>
+<AM lemma="Německo_:B_;G" src="auto">NNNXX-----A----</AM>
+<AM lemma="Německo_:B_;G" src="manual" selected="1">NNNXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-mf930708-126-p3s5w4">
 <src.rf>manual</src.rf>
@@ -887,6 +891,7 @@
 <tag>
 <AM lemma="CK_:B_;K" src="orig">AAXXX----1A---8</AM>
 <AM lemma="CK_:B" src="auto" recommended="1">NNXXX-----A---8</AM>
+<AM lemma="CK-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-mf930708-126-p3s8w4">
@@ -1236,6 +1241,7 @@
 <tag>
 <AM lemma="CK_:B_;K" src="orig">AAXXX----1A---8</AM>
 <AM lemma="CK_:B" src="auto" recommended="1">NNXXX-----A---8</AM>
+<AM lemma="CK-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-mf930708-126-p3s13w4">
@@ -1331,6 +1337,7 @@
 <AM lemma="Tico_;R_,t_^(vozidlo_Daewoo_Tico)" src="auto" recommended="1">NNNS1-----A----</AM>
 <AM lemma="Tico_;R_,t_^(vozidlo_Daewoo_Tico)" src="auto">NNNS4-----A----</AM>
 <AM lemma="Tico_;R_,t_^(vozidlo_Daewoo_Tico)" src="auto">NNNS5-----A----</AM>
+<AM lemma="TICO-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-mf930708-126-p3s14w4">

@@ -110,7 +110,7 @@
 </w.rf>
 <form>Rabat</form>
 <tag>
-<AM lemma="Rabat_;G" src="orig">NNIS1-----A----</AM>
+<AM lemma="Rabat_;G" src="orig" selected="1">NNIS1-----A----</AM>
 <AM lemma="rabat" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="rabat" src="auto">NNIS4-----A----</AM>
 </tag>
@@ -1225,7 +1225,10 @@
 <LM>w#w-ln94206-76-p5s2w5</LM>
 </w.rf>
 <form>stalo</form>
-<tag lemma="stát-2_^(něco_se_přihodilo)" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag>
+<AM lemma="stát-2_^(něco_se_přihodilo)" src="orig">VpNS---XR-AA---</AM>
+<AM lemma="stát-2_:W_^(něco_se_přihodilo)" src="manual" selected="1">VpNS---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-ln94206-76-p5s2w6">
 <src.rf>manual</src.rf>

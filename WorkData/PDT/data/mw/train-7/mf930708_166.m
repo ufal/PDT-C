@@ -515,7 +515,7 @@
 <AM lemma="Záhřeb_;G" src="orig">NNIS6-----A----</AM>
 <AM lemma="Záhřeb_;G" src="auto">NNIS2-----A---1</AM>
 <AM lemma="Záhřeb_;G" src="auto">NNIS3-----A----</AM>
-<AM lemma="Záhřeb_;G" src="auto" recommended="1">NNIS6-----A---1</AM>
+<AM lemma="Záhřeb_;G" src="auto" recommended="1" selected="1">NNIS6-----A---1</AM>
 </tag>
 </m>
 <m id="m-mf930708-166-p3s1w11">

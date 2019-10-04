@@ -129,7 +129,10 @@
 <LM>w#w-ln95047-088-p2s1Cw4</LM>
 </w.rf>
 <form>Martou</form>
-<tag lemma="Marta" src="auto" selected="1">NNFS7-----A----</tag>
+<tag>
+<AM lemma="Marta" src="auto">NNFS7-----A----</AM>
+<AM lemma="Marta_;Y" src="manual" selected="1">NNFS7-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95047-088-p2s1Cw5">
 <src.rf>manual</src.rf>
@@ -195,7 +198,10 @@
 <LM>w#w-ln95047-088-p2s2w1</LM>
 </w.rf>
 <form>Řekl</form>
-<tag lemma="říci" src="auto" selected="1">VpYS---XR-AA---</tag>
+<tag>
+<AM lemma="říci" src="auto">VpYS---XR-AA---</AM>
+<AM lemma="říci_:W" src="manual" selected="1">VpYS---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-ln95047-088-p2s2w2">
 <src.rf>manual</src.rf>
@@ -477,7 +483,10 @@
 <LM>w#w-ln95047-088-p2s3w7</LM>
 </w.rf>
 <form>M</form>
-<tag lemma="M-0_:B_;Y" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="M-0_:B_;Y" src="orig">NNFXX-----A---8</AM>
+<AM lemma="M-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln95047-088-p2s3w8">
 <src.rf>manual</src.rf>
@@ -533,7 +542,10 @@
 <LM>w#w-ln95047-088-p2s3w14</LM>
 </w.rf>
 <form>uvedl</form>
-<tag lemma="uvést" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag>
+<AM lemma="uvést" src="orig">VpYS---XR-AA---</AM>
+<AM lemma="uvést_:W" src="manual" selected="1">VpYS---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-ln95047-088-p2s3w15">
 <src.rf>manual</src.rf>
@@ -817,7 +829,10 @@
 <LM>w#w-ln95047-088-p4s1w5</LM>
 </w.rf>
 <form>M</form>
-<tag lemma="M-0_:B_;Y" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="M-0_:B_;Y" src="orig">NNFXX-----A---8</AM>
+<AM lemma="M-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln95047-088-p4s1w6">
 <src.rf>manual</src.rf>
@@ -1897,7 +1912,7 @@
 <AM lemma="řád-4_^(organizace;_náboženský_apod.)" src="orig">NNIS6-----A----</AM>
 <AM lemma="řád" src="auto">NNIS2-----A----</AM>
 <AM lemma="řád" src="auto">NNIS3-----A----</AM>
-<AM lemma="řád" src="auto" recommended="1">NNIS6-----A---1</AM>
+<AM lemma="řád" src="auto" recommended="1" selected="1">NNIS6-----A---1</AM>
 </tag>
 </m>
 <m id="m-ln95047-088-p6s2w10">

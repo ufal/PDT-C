@@ -35,7 +35,10 @@
 <LM>w#w-mf930713-018-p1s1w3</LM>
 </w.rf>
 <form>K</form>
-<tag lemma="K-5_:B_;G" src="orig" selected="1">AAXXX----1A---8</tag>
+<tag>
+<AM lemma="K-5_:B_;G" src="orig">AAXXX----1A---8</AM>
+<AM lemma="K-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930713-018-p1s1w4">
 <src.rf>manual</src.rf>
@@ -119,7 +122,10 @@
 <LM>w#w-mf930713-018-p2s1Bw5</LM>
 </w.rf>
 <form>Czech</form>
-<tag lemma="Czech-2_,t" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="Czech-2_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="Czech-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-mf930713-018-p2s1Bw6">
 <src.rf>manual</src.rf>
@@ -127,7 +133,10 @@
 <LM>w#w-mf930713-018-p2s1Bw6</LM>
 </w.rf>
 <form>Golf</form>
-<tag lemma="golf" src="orig" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="golf" src="orig">NNIS1-----A----</AM>
+<AM lemma="Golf-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-mf930713-018-p2s1Bw7">
 <src.rf>manual</src.rf>
@@ -135,7 +144,10 @@
 <LM>w#w-mf930713-018-p2s1Bw7</LM>
 </w.rf>
 <form>Open</form>
-<tag lemma="Open-1_,t_^(v_názvu_např._sport._soutěží,_&quot;otevřený&quot;)" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="Open-1_,t_^(v_názvu_např._sport._soutěží,_&quot;otevřený&quot;)" src="orig">AAXXX----1A----</AM>
+<AM lemma="Open-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-mf930713-018-p2s1Bw8">
 <src.rf>manual</src.rf>
@@ -143,7 +155,10 @@
 <LM>w#w-mf930713-018-p2s1Bw8</LM>
 </w.rf>
 <form>začne</form>
-<tag lemma="začít-1_^(začnout)" src="auto" selected="1">VB-S---3P-AA---</tag>
+<tag>
+<AM lemma="začít-1_^(začnout)" src="auto">VB-S---3P-AA---</AM>
+<AM lemma="začít-1_:W_^(začnout)" src="manual" selected="1">VB-S---3P-AA---</AM>
+</tag>
 </m>
 <m id="m-mf930713-018-p2s1Bw9">
 <src.rf>manual</src.rf>
@@ -268,6 +283,7 @@
 <tag>
 <AM lemma="PGA_:B_;K" src="orig">NNFXX-----A---8</AM>
 <AM lemma="PGA_:B" src="auto" recommended="1">NNXXX-----A---8</AM>
+<AM lemma="PGA-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930713-018-p2s2w5">
@@ -332,7 +348,10 @@
 <LM>w#w-mf930713-018-p2s2w12</LM>
 </w.rf>
 <form>PGT</form>
-<tag lemma="PGT_:B_;K" src="orig" selected="1">AAXXX----1A---8</tag>
+<tag>
+<AM lemma="PGT_:B_;K" src="orig">AAXXX----1A---8</AM>
+<AM lemma="PGT-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930713-018-p2s2w13">
 <src.rf>manual</src.rf>
@@ -360,6 +379,7 @@
 <AM lemma="Pro_;K_,t" src="orig">RR--X----------</AM>
 <AM lemma="pro-1" src="auto" recommended="1">RR--4----------</AM>
 <AM lemma="pro-7_^(předpona,_sam.)" src="auto">A2--------A----</AM>
+<AM lemma="Pro_;K" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930713-018-p2s2w16">
@@ -426,7 +446,10 @@
 <LM>w#w-mf930713-018-p2s4w6</LM>
 </w.rf>
 <form>Super</form>
-<tag lemma="Super-2_,t_^(souč._cizojaz._názvů)" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="Super-2_,t_^(souč._cizojaz._názvů)" src="orig">AAXXX----1A----</AM>
+<AM lemma="super_,h" src="manual" selected="1">AAXXX----1A----</AM>
+</tag>
 </m>
 <m id="m-mf930713-018-p2s4w7">
 <src.rf>manual</src.rf>

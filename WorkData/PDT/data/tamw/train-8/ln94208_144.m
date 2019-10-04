@@ -469,7 +469,7 @@
 <form>totiž</form>
 <tag>
 <AM lemma="totiž" src="orig">Db-------------</AM>
-<AM lemma="totiž-1" src="auto" recommended="1">J^-------------</AM>
+<AM lemma="totiž-1" src="auto" recommended="1" selected="1">J^-------------</AM>
 <AM lemma="totiž-2" src="auto">TT-------------</AM>
 </tag>
 </m>
@@ -927,6 +927,7 @@
 <AM lemma="potenciální_,x" src="auto">AAMP6----1A----</AM>
 <AM lemma="potenciální_,x" src="auto">AANP2----1A----</AM>
 <AM lemma="potenciální_,x" src="auto">AANP6----1A----</AM>
+<AM lemma="potencionální_,s_^(^DD**potenciální)" src="manual" selected="1">AAMP2----1A----</AM>
 </tag>
 </m>
 <m id="m-ln94208-144-p3s2w9">
@@ -1115,7 +1116,7 @@
 <form>hodně</form>
 <tag>
 <AM lemma="hodně" src="orig">Ca--X----------</AM>
-<AM lemma="hodně-1_^(hodně_+_2._p.,_hodně_peněz)" src="auto">Ca--1----------</AM>
+<AM lemma="hodně-1_^(hodně_+_2._p.,_hodně_peněz)" src="auto" selected="1">Ca--1----------</AM>
 <AM lemma="hodně-1_^(hodně_+_2._p.,_hodně_peněz)" src="auto">Ca--2----------</AM>
 <AM lemma="hodně-1_^(hodně_+_2._p.,_hodně_peněz)" src="auto">Ca--3----------</AM>
 <AM lemma="hodně-1_^(hodně_+_2._p.,_hodně_peněz)" src="auto">Ca--4----------</AM>
@@ -1416,7 +1417,10 @@
 <LM>w#w-ln94208-144-p4s4w14</LM>
 </w.rf>
 <form>TWIN</form>
-<tag lemma="TWIN_;R" src="orig" selected="1">NNIS4-----A----</tag>
+<tag>
+<AM lemma="TWIN_;R" src="orig">NNIS4-----A----</AM>
+<AM lemma="Twin_;R" src="manual" selected="1">NNIS4-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94208-144-p4s4w15">
 <src.rf>manual</src.rf>
@@ -1548,6 +1552,7 @@
 <AM lemma="HARDI_:B_;K" src="orig">NNNXX-----A---8</AM>
 <AM lemma="Hard_;Y_,t" src="auto" recommended="1">NNMP1-----A---1</AM>
 <AM lemma="Hard_;Y_,t" src="auto">NNMP5-----A---1</AM>
+<AM lemma="Hardi_;K" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94208-144-p4s4w31">
@@ -1776,7 +1781,10 @@
 <LM>w#w-ln94208-144-p5s1w7</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-2" src="auto" selected="1">Dg-------2A----</tag>
+<tag>
+<AM lemma="hodně-2" src="auto">Dg-------2A----</AM>
+<AM lemma="hodně-3" src="manual" selected="1">Dg-------2A----</AM>
+</tag>
 </m>
 <m id="m-ln94208-144-p5s1w8">
 <src.rf>manual</src.rf>
@@ -2638,7 +2646,10 @@
 <LM>w#w-ln94208-144-p6s1w3</LM>
 </w.rf>
 <form>STS</form>
-<tag lemma="STS-1_:B_;K_;b_^(Strojní_a_traktorová_stanice)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="STS-1_:B_;K_;b_^(Strojní_a_traktorová_stanice)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="STS-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln94208-144-p6s1w4">
 <src.rf>manual</src.rf>
@@ -2662,7 +2673,10 @@
 <LM>w#w-ln94208-144-p6s1w6</LM>
 </w.rf>
 <form>LN</form>
-<tag lemma="LN-1_:B_;R_^(Lidové_noviny,_deník)" src="orig" selected="1">NNFPX-----A---8</tag>
+<tag>
+<AM lemma="LN-1_:B_;R_^(Lidové_noviny,_deník)" src="orig">NNFPX-----A---8</AM>
+<AM lemma="LN-1_:B_;K_;R_^(Lidové_noviny)" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln94208-144-p6s1w7">
 <src.rf>manual</src.rf>
@@ -3190,7 +3204,10 @@
 <LM>w#w-ln94208-144-p7s2w3</LM>
 </w.rf>
 <form>ZD</form>
-<tag lemma="ZD_:B_;K_^(zemědělské_družstvo)" src="orig" selected="1">NNNXX-----A---8</tag>
+<tag>
+<AM lemma="ZD_:B_;K_^(zemědělské_družstvo)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="ZD-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln94208-144-p7s2w4">
 <src.rf>manual</src.rf>
@@ -4238,7 +4255,10 @@
 <LM>w#w-ln94208-144-p7s10w15</LM>
 </w.rf>
 <form>milionů</form>
-<tag lemma="milión`1000000" src="orig" selected="1">NNIP2-----A----</tag>
+<tag>
+<AM lemma="milión`1000000" src="orig">NNIP2-----A----</AM>
+<AM lemma="milión`1000000_,s_^(^DD**milión)" src="manual" selected="1">NNIP2-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94208-144-p7s10w16">
 <src.rf>manual</src.rf>
@@ -4400,7 +4420,10 @@
 <LM>w#w-ln94208-144-p7s11w6</LM>
 </w.rf>
 <form>milionů</form>
-<tag lemma="milión`1000000" src="orig" selected="1">NNIP2-----A----</tag>
+<tag>
+<AM lemma="milión`1000000" src="orig">NNIP2-----A----</AM>
+<AM lemma="milión`1000000_,s_^(^DD**milión)" src="manual" selected="1">NNIP2-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94208-144-p7s11w7">
 <src.rf>manual</src.rf>

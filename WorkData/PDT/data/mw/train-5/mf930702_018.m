@@ -77,7 +77,10 @@
 <LM>w#w-mf930702-018-p2s1w3</LM>
 </w.rf>
 <form>jpk</form>
-<tag lemma="jpk-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="jpk-99_:B_;S" src="orig">NNXXX-----A---8</AM>
+<AM lemma="jpk-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930702-018-p2s1w4">
 <src.rf>manual</src.rf>
@@ -431,7 +434,10 @@
 <LM>w#w-mf930702-018-p3s1w19</LM>
 </w.rf>
 <form>Air</form>
-<tag lemma="Air_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="Air_;K" src="orig">NNIS1-----A----</AM>
+<AM lemma="Air-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-mf930702-018-p3s1w20">
 <src.rf>manual</src.rf>
@@ -927,7 +933,10 @@
 <LM>w#w-mf930702-018-p4s3w5</LM>
 </w.rf>
 <form>jen</form>
-<tag lemma="jen-1" src="auto" selected="1">TT-------------</tag>
+<tag>
+<AM lemma="jen-1" src="auto">TT-------------</AM>
+<AM lemma="jen-4_^(pouze)" src="manual" selected="1">Db-------------</AM>
+</tag>
 </m>
 <m id="m-mf930702-018-p4s3w6">
 <src.rf>manual</src.rf>

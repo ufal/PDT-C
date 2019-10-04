@@ -293,6 +293,7 @@
 <AM lemma="Guido_;Y" src="orig">NNMXX-----A----</AM>
 <AM lemma="Guido_;Y_,t" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Guido_;Y_,t" src="auto">NNMS5-----A----</AM>
+<AM lemma="Guido_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920901-027-p3s1w4">
@@ -406,7 +407,7 @@
 </w.rf>
 <form>Guido</form>
 <tag>
-<AM lemma="Guido_;Y" src="orig">NNMXX-----A----</AM>
+<AM lemma="Guido_;Y" src="orig" selected="1">NNMXX-----A----</AM>
 <AM lemma="Guido_;Y_,t" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Guido_;Y_,t" src="auto">NNMS5-----A----</AM>
 </tag>
@@ -669,7 +670,10 @@
 <LM>w#w-mf920901-027-p4s1w5</LM>
 </w.rf>
 <form>Diamonds</form>
-<tag lemma="Diamond_;K_,t" src="orig" selected="1">NNMPX-----A----</tag>
+<tag>
+<AM lemma="Diamond_;K_,t" src="orig">NNMPX-----A----</AM>
+<AM lemma="Diamonds-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-mf920901-027-p4s1w6">
 <src.rf>manual</src.rf>
@@ -786,6 +790,7 @@
 <tag>
 <AM lemma="Rainbow_;K_^(hudební_skupina)" src="orig">NNIXX-----A----</AM>
 <AM lemma="Rainbow_:B_;K_^(hudební_skupina)" src="auto" recommended="1">NNIXX-----A---8</AM>
+<AM lemma="Rainbow-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-mf920901-027-p4s2w4">
@@ -802,7 +807,10 @@
 <LM>w#w-mf920901-027-p4s2w5</LM>
 </w.rf>
 <form>Black</form>
-<tag lemma="Black_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Black_;S" src="orig">NNMS1-----A----</AM>
+<AM lemma="Black-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-mf920901-027-p4s2w6">
 <src.rf>manual</src.rf>
@@ -813,6 +821,7 @@
 <tag>
 <AM lemma="Sabbath_;K_,t" src="orig">NNIXX-----A----</AM>
 <AM lemma="Sabbath_;K_;u_,t_^(z_názvu_skupiny_Black_Sabbath)" src="auto" recommended="1">NNFXX-----A----</AM>
+<AM lemma="Sabbath-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-mf920901-027-p4s2w7">

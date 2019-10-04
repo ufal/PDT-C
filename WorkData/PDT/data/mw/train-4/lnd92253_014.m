@@ -73,7 +73,7 @@
 </w.rf>
 <form>tk</form>
 <tag>
-<AM lemma="tk-99_:B_;S" src="orig">NNXXX-----A---8</AM>
+<AM lemma="tk-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</AM>
 <AM lemma="tknout" src="auto" recommended="1">VpYS---XR-AA--6</AM>
 </tag>
 </m>
@@ -269,7 +269,10 @@
 <LM>w#w-lnd92253-014-p3s2w22</LM>
 </w.rf>
 <form>Kohoutek</form>
-<tag lemma="kohoutek-1_^(^DI*4)_(pták)" src="auto" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="kohoutek-1_^(^DI*4)_(pták)" src="auto">NNMS1-----A----</AM>
+<AM lemma="Kohoutek_;S" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92253-014-p3s2w23">
 <src.rf>manual</src.rf>
@@ -295,7 +298,10 @@
 <LM>w#w-lnd92253-014-p3s3w2</LM>
 </w.rf>
 <form>ČS</form>
-<tag lemma="ČS-1_:B_;K_^(Česká_spořitelna)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ČS-1_:B_;K_^(Česká_spořitelna)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČS-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd92253-014-p3s3w3">
 <src.rf>manual</src.rf>
@@ -416,7 +422,10 @@
 <LM>w#w-lnd92253-014-p3s3w17</LM>
 </w.rf>
 <form>DIK</form>
-<tag lemma="dik" src="orig" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="dik" src="orig">NNMS1-----A----</AM>
+<AM lemma="DIK-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd92253-014-p3s3w18">
 <src.rf>manual</src.rf>
@@ -877,7 +886,10 @@
 <LM>w#w-lnd92253-014-p3s5w24</LM>
 </w.rf>
 <form>on</form>
-<tag lemma="on-2_,t_^(angl._předl._na_aj.)" src="orig" selected="1">RR--X----------</tag>
+<tag>
+<AM lemma="on-2_,t_^(angl._předl._na_aj.)" src="orig">RR--X----------</AM>
+<AM lemma="on-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-lnd92253-014-p3s5w25">
 <src.rf>manual</src.rf>
@@ -889,6 +901,7 @@
 <AM lemma="line_;m_,t" src="orig">NNFXX-----A----</AM>
 <AM lemma="linout" src="auto">VB-S---3P-AA---</AM>
 <AM lemma="line_,t_^(angl._čára)" src="auto" recommended="1">NNXXX-----A----</AM>
+<AM lemma="line-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-lnd92253-014-p3s5w26">

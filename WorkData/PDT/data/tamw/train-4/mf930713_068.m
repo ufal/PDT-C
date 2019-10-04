@@ -19,7 +19,10 @@
 <LM>w#w-mf930713-068-p1s1w1</LM>
 </w.rf>
 <form>Czech</form>
-<tag lemma="Czech-2_,t" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="Czech-2_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="Czech-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-mf930713-068-p1s1w2">
 <src.rf>manual</src.rf>
@@ -33,6 +36,9 @@
 <AM lemma="Mad_;G" src="auto">NNIS5-----A----</AM>
 <AM lemma="Mad_;G" src="auto" recommended="1">NNIS6-----A----</AM>
 <AM lemma="made_,t" src="auto">XX-------------</AM>
+<AM lemma="made_,t" src="manual">AAXXX----1A----</AM>
+<AM lemma="made_,t" src="manual">NNXXX-----A----</AM>
+<AM lemma="Made-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-mf930713-068-p1s1w3">
@@ -86,6 +92,7 @@
 <tag>
 <AM lemma="han-99_:B_;S" src="orig">NNXXX-----A---8</AM>
 <AM lemma="hana_^(pohana)" src="auto" recommended="1">NNFP2-----A----</AM>
+<AM lemma="han-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930713-068-p2s1Aw4">
@@ -102,7 +109,10 @@
 <LM>w#w-mf930713-068-p2s1Aw5</LM>
 </w.rf>
 <form>dj</form>
-<tag lemma="dj-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="dj-99_:B_;S" src="orig">NNXXX-----A---8</AM>
+<AM lemma="dj-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930713-068-p2s1Aw6">
 <src.rf>manual</src.rf>
@@ -168,7 +178,10 @@
 <LM>w#w-mf930713-068-p2s1Bw6</LM>
 </w.rf>
 <form>Czech</form>
-<tag lemma="Czech-2_,t" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="Czech-2_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="Czech-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-mf930713-068-p2s1Bw7">
 <src.rf>manual</src.rf>
@@ -181,6 +194,9 @@
 <AM lemma="Mad_;G" src="auto">NNIS5-----A----</AM>
 <AM lemma="Mad_;G" src="auto" recommended="1">NNIS6-----A----</AM>
 <AM lemma="made_,t" src="auto">XX-------------</AM>
+<AM lemma="made_,t" src="manual">AAXXX----1A----</AM>
+<AM lemma="made_,t" src="manual">NNXXX-----A----</AM>
+<AM lemma="Made-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-mf930713-068-p2s1Bw8">
@@ -335,7 +351,10 @@
 <LM>w#w-mf930713-068-p2s2w1</LM>
 </w.rf>
 <form>Řekl</form>
-<tag lemma="říci" src="auto" selected="1">VpYS---XR-AA---</tag>
+<tag>
+<AM lemma="říci" src="auto">VpYS---XR-AA---</AM>
+<AM lemma="říci_:W" src="manual" selected="1">VpYS---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-mf930713-068-p2s2w2">
 <src.rf>manual</src.rf>
@@ -857,7 +876,10 @@
 <LM>w#w-mf930713-068-p3s1w2</LM>
 </w.rf>
 <form>Czech</form>
-<tag lemma="Czech-2_,t" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="Czech-2_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="Czech-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-mf930713-068-p3s1w3">
 <src.rf>manual</src.rf>
@@ -870,6 +892,9 @@
 <AM lemma="Mad_;G" src="auto">NNIS5-----A----</AM>
 <AM lemma="Mad_;G" src="auto" recommended="1">NNIS6-----A----</AM>
 <AM lemma="made_,t" src="auto">XX-------------</AM>
+<AM lemma="made_,t" src="manual">AAXXX----1A----</AM>
+<AM lemma="made_,t" src="manual">NNXXX-----A----</AM>
+<AM lemma="Made-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-mf930713-068-p3s1w4">
@@ -942,7 +967,10 @@
 <LM>w#w-mf930713-068-p3s1w12</LM>
 </w.rf>
 <form>ČR</form>
-<tag lemma="ČR-1_:B_;G_^(Česká_republika)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930713-068-p3s1w13">
 <src.rf>manual</src.rf>
@@ -1371,6 +1399,7 @@
 <AM lemma="promile" src="auto" recommended="1">NNNS2-----A----</AM>
 <AM lemma="promile" src="auto">NNNS4-----A----</AM>
 <AM lemma="promile" src="auto">NNNS5-----A----</AM>
+<AM lemma="promile" src="manual" selected="1">NNNXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930713-068-p3s6w12">

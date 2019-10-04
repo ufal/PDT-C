@@ -69,7 +69,10 @@
 <LM>w#w-mf920925-051-p2s1w4</LM>
 </w.rf>
 <form>km</form>
-<tag lemma="km-1`kilometr_:B" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="km-1`kilometr_:B" src="orig">NNIXX-----A---8</AM>
+<AM lemma="kilometr" src="manual" selected="1">NNIXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-mf920925-051-p2s1w5">
 <src.rf>manual</src.rf>
@@ -253,7 +256,10 @@
 <LM>w#w-mf920925-051-p2s1w27</LM>
 </w.rf>
 <form>zajel</form>
-<tag lemma="zajet_^(např._autem)" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag>
+<AM lemma="zajet_^(např._autem)" src="orig">VpYS---XR-AA---</AM>
+<AM lemma="zajet_:W_^(např._autem)" src="manual" selected="1">VpYS---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-mf920925-051-p2s1w28">
 <src.rf>manual</src.rf>
@@ -341,7 +347,10 @@
 <LM>w#w-mf920925-051-p2s1w38</LM>
 </w.rf>
 <form>resp</form>
-<tag lemma="respektive_:B" src="auto" selected="1">Db------------8</tag>
+<tag>
+<AM lemma="respektive_:B" src="auto">Db------------8</AM>
+<AM lemma="respektive" src="manual" selected="1">Db------------8</AM>
+</tag>
 </m>
 <m id="m-mf920925-051-p2s1w39">
 <src.rf>manual</src.rf>
@@ -381,7 +390,10 @@
 <LM>w#w-mf920925-051-p2s1w43</LM>
 </w.rf>
 <form>min</form>
-<tag lemma="minuta_:B" src="auto" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="minuta_:B" src="auto">NNFXX-----A---8</AM>
+<AM lemma="minuta" src="manual" selected="1">NNFXX-----A---9</AM>
+</tag>
 </m>
 <m id="m-mf920925-051-p2s1w44">
 <src.rf>manual</src.rf>
@@ -736,7 +748,7 @@
 <AM lemma="osmý" src="auto">CrMP1---------6</AM>
 <AM lemma="osmý" src="auto">CrMP4---------6</AM>
 <AM lemma="osmý" src="auto">CrMP5---------6</AM>
-<AM lemma="osmý" src="auto" recommended="1">CrMS1----------</AM>
+<AM lemma="osmý" src="auto" recommended="1" selected="1">CrMS1----------</AM>
 <AM lemma="osmý" src="auto">CrMS5----------</AM>
 <AM lemma="osmý" src="auto">CrNP1---------6</AM>
 <AM lemma="osmý" src="auto">CrNP4---------6</AM>
@@ -792,7 +804,10 @@
 <LM>w#w-mf920925-051-p2s4w20</LM>
 </w.rf>
 <form>min</form>
-<tag lemma="minuta_:B" src="auto" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="minuta_:B" src="auto">NNFXX-----A---8</AM>
+<AM lemma="minuta" src="manual" selected="1">NNFXX-----A---9</AM>
+</tag>
 </m>
 <m id="m-mf920925-051-p2s4w21">
 <src.rf>manual</src.rf>
@@ -924,7 +939,7 @@
 <form>-38</form>
 <tag>
 <AM lemma="38" src="orig">C=-------------</AM>
-<AM lemma="-38" src="auto" recommended="1">C=-------------</AM>
+<AM lemma="-38" src="auto" recommended="1" selected="1">C=-------------</AM>
 </tag>
 </m>
 <m id="m-mf920925-051-p2s5w12">
@@ -949,7 +964,10 @@
 <LM>w#w-mf920925-051-p2s5w14</LM>
 </w.rf>
 <form>min</form>
-<tag lemma="minuta_:B" src="auto" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="minuta_:B" src="auto">NNFXX-----A---8</AM>
+<AM lemma="minuta" src="manual" selected="1">NNFXX-----A---9</AM>
+</tag>
 </m>
 <m id="m-mf920925-051-p2s5w15">
 <src.rf>manual</src.rf>
@@ -1151,7 +1169,10 @@
 <LM>w#w-mf920925-051-p2s6w9</LM>
 </w.rf>
 <form>vedou</form>
-<tag lemma="vést" src="auto" selected="1">VB-P---3P-AA---</tag>
+<tag>
+<AM lemma="vést" src="auto">VB-P---3P-AA---</AM>
+<AM lemma="vést_:T" src="manual" selected="1">VB-P---3P-AA---</AM>
+</tag>
 </m>
 <m id="m-mf920925-051-p2s6w10">
 <src.rf>manual</src.rf>

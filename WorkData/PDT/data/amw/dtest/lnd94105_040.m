@@ -27,7 +27,10 @@
 <LM>w#w-lnd94105-040-p1s1w2</LM>
 </w.rf>
 <form>V</form>
-<tag lemma="V-0_:B_;Y" src="orig" selected="1">NNMXX-----A---8</tag>
+<tag>
+<AM lemma="V-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
+<AM lemma="V-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd94105-040-p1s1w3">
 <src.rf>manual</src.rf>
@@ -93,7 +96,10 @@
 <LM>w#w-lnd94105-040-p1s2w3</LM>
 </w.rf>
 <form>em</form>
-<tag lemma="em-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="em-99_:B_;S" src="orig">NNXXX-----A---8</AM>
+<AM lemma="em-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd94105-040-p1s2w4">
 <src.rf>manual</src.rf>
@@ -271,7 +277,10 @@
 <LM>w#w-lnd94105-040-p1s3w20</LM>
 </w.rf>
 <form>řekl</form>
-<tag lemma="říci" src="auto" selected="1">VpYS---XR-AA---</tag>
+<tag>
+<AM lemma="říci" src="auto">VpYS---XR-AA---</AM>
+<AM lemma="říci_:W" src="manual" selected="1">VpYS---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-lnd94105-040-p1s3w21">
 <src.rf>manual</src.rf>
@@ -279,7 +288,10 @@
 <LM>w#w-lnd94105-040-p1s3w21</LM>
 </w.rf>
 <form>LN</form>
-<tag lemma="LN-1_:B_;R_^(Lidové_noviny,_deník)" src="orig" selected="1">NNFPX-----A---8</tag>
+<tag>
+<AM lemma="LN-1_:B_;R_^(Lidové_noviny,_deník)" src="orig">NNFPX-----A---8</AM>
+<AM lemma="LN-1_:B_;K_;R_^(Lidové_noviny,_deník)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd94105-040-p1s3w22">
 <src.rf>manual</src.rf>
@@ -319,7 +331,11 @@
 <LM>w#w-lnd94105-040-p1s3w26</LM>
 </w.rf>
 <form>Špaček</form>
-<tag lemma="špaček-1_^(živ.)" src="auto" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="špaček-1_^(živ.)" src="auto">NNMS1-----A----</AM>
+<AM lemma="Špaček;S" src="manual">NNMS1-----A----</AM>
+<AM lemma="Špaček_;S" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd94105-040-p1s3w27">
 <src.rf>manual</src.rf>
@@ -763,7 +779,10 @@
 <LM>w#w-lnd94105-040-p1s5w23</LM>
 </w.rf>
 <form>řekl</form>
-<tag lemma="říci" src="auto" selected="1">VpYS---XR-AA---</tag>
+<tag>
+<AM lemma="říci" src="auto">VpYS---XR-AA---</AM>
+<AM lemma="říci_:W" src="manual" selected="1">VpYS---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-lnd94105-040-p1s5w24">
 <src.rf>manual</src.rf>

@@ -263,7 +263,10 @@
 <LM>w#w-lnd92255-097-p3s1w22</LM>
 </w.rf>
 <form>LI</form>
-<tag lemma="li-1" src="auto" selected="1">TT-------------</tag>
+<tag>
+<AM lemma="li-1" src="auto">TT-------------</AM>
+<AM lemma="li-2" src="manual" selected="1">J,-------------</AM>
+</tag>
 </m>
 <m id="m-lnd92255-097-p3s1w23">
 <src.rf>manual</src.rf>
@@ -728,7 +731,7 @@
 <tag>
 <AM lemma="přece" src="orig">Db-------------</AM>
 <AM lemma="přece-1" src="auto" recommended="1">J^-------------</AM>
-<AM lemma="přece-2" src="auto">TT-------------</AM>
+<AM lemma="přece-2" src="auto" selected="1">TT-------------</AM>
 </tag>
 </m>
 <m id="m-lnd92255-097-p3s4w27">
@@ -1167,7 +1170,7 @@
 <form>lidiček</form>
 <tag>
 <AM lemma="lidičky" src="orig">NNFP2-----A----</AM>
-<AM lemma="lidičky_,e" src="auto" recommended="1">NNMP2-----A----</AM>
+<AM lemma="lidičky_,e" src="auto" recommended="1" selected="1">NNMP2-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92255-097-p4s2w8">
@@ -1219,7 +1222,7 @@
 <tag>
 <AM lemma="starost" src="orig">NNFS7-----A----</AM>
 <AM lemma="starost-1" src="auto">NNFP2-----A----</AM>
-<AM lemma="starost-1" src="auto" recommended="1">NNFS7-----A----</AM>
+<AM lemma="starost-1" src="auto" recommended="1" selected="1">NNFS7-----A----</AM>
 <AM lemma="starost-2_^(člověk,_věc)_(*5ý-2)" src="auto">NNFP2-----A----</AM>
 <AM lemma="starost-2_^(člověk,_věc)_(*5ý-2)" src="auto">NNFS7-----A----</AM>
 </tag>
@@ -1359,7 +1362,7 @@
 </w.rf>
 <form>Ponzy</form>
 <tag>
-<AM lemma="Ponza-2_;S" src="orig">NNMS2-----A----</AM>
+<AM lemma="Ponza-2_;S" src="orig" selected="1">NNMS2-----A----</AM>
 <AM lemma="Ponza_;G" src="auto">NNFP1-----A----</AM>
 <AM lemma="Ponza_;G" src="auto">NNFP4-----A----</AM>
 <AM lemma="Ponza_;G" src="auto">NNFP5-----A----</AM>
@@ -1582,7 +1585,11 @@
 <LM>w#w-lnd92255-097-p4s3w27</LM>
 </w.rf>
 <form>à</form>
-<tag lemma="à_,t" src="orig" selected="1">RR--X----------</tag>
+<tag>
+<AM lemma="à_,t" src="orig">RR--X----------</AM>
+<AM lemma="à-88_:B" src="manual">NNXXX-----A---8</AM>
+<AM lemma="à-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-lnd92255-097-p4s3w28">
 <src.rf>manual</src.rf>
@@ -1596,6 +1603,8 @@
 <AM lemma="la-1" src="auto">II-------------</AM>
 <AM lemma="la-2_,t" src="auto" recommended="1">AAXXX----1A----</AM>
 <AM lemma="la-3_,t" src="auto">RF-------------</AM>
+<AM lemma="la-4_,t_^(člen)" src="manual">AAXXX----1A----</AM>
+<AM lemma="la-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-lnd92255-097-p4s3w29">
@@ -1612,6 +1621,7 @@
 <AM lemma="these_,a" src="auto">NNFS1-----A----</AM>
 <AM lemma="these_,a" src="auto" recommended="1">NNFS2-----A----</AM>
 <AM lemma="these_,a" src="auto">NNFS5-----A----</AM>
+<AM lemma="these-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-lnd92255-097-p4s3w30">
@@ -2401,7 +2411,7 @@
 </w.rf>
 <form>Ponzy</form>
 <tag>
-<AM lemma="Ponza-2_;S" src="orig">NNMS2-----A----</AM>
+<AM lemma="Ponza-2_;S" src="orig" selected="1">NNMS2-----A----</AM>
 <AM lemma="Ponza_;G" src="auto">NNFP1-----A----</AM>
 <AM lemma="Ponza_;G" src="auto">NNFP4-----A----</AM>
 <AM lemma="Ponza_;G" src="auto">NNFP5-----A----</AM>
@@ -2670,7 +2680,7 @@
 <form>ovšem</form>
 <tag>
 <AM lemma="ovšem-1_^(avšak,_však;_odporovací_spojka)" src="orig">J^-------------</AM>
-<AM lemma="ovšem" src="auto" recommended="1">TT-------------</AM>
+<AM lemma="ovšem" src="auto" recommended="1" selected="1">TT-------------</AM>
 </tag>
 </m>
 <m id="m-lnd92255-097-p5s2w4">
@@ -3027,7 +3037,10 @@
 <LM>w#w-lnd92255-097-p5s4w17</LM>
 </w.rf>
 <form>li</form>
-<tag lemma="li-1" src="auto" selected="1">TT-------------</tag>
+<tag>
+<AM lemma="li-1" src="auto">TT-------------</AM>
+<AM lemma="li-2" src="manual" selected="1">J,-------------</AM>
+</tag>
 </m>
 <m id="m-lnd92255-097-p5s4w18">
 <src.rf>manual</src.rf>

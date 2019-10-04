@@ -175,7 +175,10 @@
 <LM>w#w-ln94201-50-p2s2w2</LM>
 </w.rf>
 <form>jenom</form>
-<tag lemma="jenom-1" src="auto" selected="1">TT-------------</tag>
+<tag>
+<AM lemma="jenom-1" src="auto">TT-------------</AM>
+<AM lemma="jenom-2_^(pouze)" src="manual" selected="1">Db-------------</AM>
+</tag>
 </m>
 <m id="m-ln94201-50-p2s2w3">
 <src.rf>manual</src.rf>
@@ -587,7 +590,10 @@
 <LM>w#w-ln94201-50-p2s4w8</LM>
 </w.rf>
 <form>víc</form>
-<tag lemma="hodně-2" src="auto" selected="1">Dg-------2A---1</tag>
+<tag>
+<AM lemma="hodně-2" src="auto">Dg-------2A---1</AM>
+<AM lemma="více_^(více_+_2._p.,_více_peněz)" src="manual" selected="1">Ca--4---------1</AM>
+</tag>
 </m>
 <m id="m-ln94201-50-p2s4w9">
 <src.rf>manual</src.rf>
@@ -701,7 +707,10 @@
 <LM>w#w-ln94201-50-p2s5w10</LM>
 </w.rf>
 <form>Corriere</form>
-<tag lemma="Corriere_;R_,t" src="orig" selected="1">NNIXX-----A----</tag>
+<tag>
+<AM lemma="Corriere_;R_,t" src="orig">NNIXX-----A----</AM>
+<AM lemma="Corriere-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94201-50-p2s5w11">
 <src.rf>manual</src.rf>
@@ -709,7 +718,10 @@
 <LM>w#w-ln94201-50-p2s5w11</LM>
 </w.rf>
 <form>della</form>
-<tag lemma="della_;R_,t_^(it.,_ve_jménech,_př._della_Rebia)" src="orig" selected="1">RR--X----------</tag>
+<tag>
+<AM lemma="della_;R_,t_^(it.,_ve_jménech,_př._della_Rebia)" src="orig">RR--X----------</AM>
+<AM lemma="della-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94201-50-p2s5w12">
 <src.rf>manual</src.rf>
@@ -720,6 +732,7 @@
 <tag>
 <AM lemma="Serra_;R_,t" src="orig">NNFXX-----A----</AM>
 <AM lemma="Serra_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Serra-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-ln94201-50-p2s5w13">
@@ -736,7 +749,10 @@
 <LM>w#w-ln94201-50-p2s5w14</LM>
 </w.rf>
 <form>Carmen</form>
-<tag lemma="Carmen_;Y_,t" src="auto" selected="1">NNFXX-----A----</tag>
+<tag>
+<AM lemma="Carmen_;Y_,t" src="auto">NNFXX-----A----</AM>
+<AM lemma="Carmen_;Y" src="manual" selected="1">NNFXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94201-50-p2s5w15">
 <src.rf>manual</src.rf>
@@ -776,7 +792,10 @@
 <LM>w#w-ln94201-50-p2s5w19</LM>
 </w.rf>
 <form>Albertu</form>
-<tag lemma="Albert-1_;Y_,t" src="auto" selected="1">NNMS6-----A---1</tag>
+<tag>
+<AM lemma="Albert-1_;Y_,t" src="auto">NNMS6-----A---1</AM>
+<AM lemma="Albert-1_;Y" src="manual" selected="1">NNMS6-----A---1</AM>
+</tag>
 </m>
 <m id="m-ln94201-50-p2s5w20">
 <src.rf>manual</src.rf>

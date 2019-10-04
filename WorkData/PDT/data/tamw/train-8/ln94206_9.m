@@ -20,7 +20,7 @@
 </w.rf>
 <form>Energovod</form>
 <tag>
-<AM lemma="Energovod_;K" src="orig">NNIS1-----A----</AM>
+<AM lemma="Energovod_;K" src="orig" selected="1">NNIS1-----A----</AM>
 <AM lemma="energovod" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="energovod" src="auto">NNIS4-----A----</AM>
 </tag>
@@ -121,7 +121,10 @@
 <LM>w#w-ln94206-9-p2s1w9</LM>
 </w.rf>
 <form>kV</form>
-<tag lemma="kV-1`kilovolt_:B" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="kV-1`kilovolt_:B" src="orig">NNIXX-----A---8</AM>
+<AM lemma="kilovolt" src="manual" selected="1">NNIXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln94206-9-p2s1w10">
 <src.rf>manual</src.rf>
@@ -138,7 +141,7 @@
 </w.rf>
 <form>Energovod</form>
 <tag>
-<AM lemma="Energovod_;K" src="orig">NNIS1-----A----</AM>
+<AM lemma="Energovod_;K" src="orig" selected="1">NNIS1-----A----</AM>
 <AM lemma="energovod" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="energovod" src="auto">NNIS4-----A----</AM>
 </tag>
@@ -191,7 +194,10 @@
 <LM>w#w-ln94206-9-p2s2w5</LM>
 </w.rf>
 <form>kV</form>
-<tag lemma="kV-1`kilovolt_:B" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="kV-1`kilovolt_:B" src="orig">NNIXX-----A---8</AM>
+<AM lemma="kilovolt" src="manual" selected="1">NNIXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln94206-9-p2s2w6">
 <src.rf>manual</src.rf>
@@ -354,7 +360,7 @@
 </w.rf>
 <form>Energovod</form>
 <tag>
-<AM lemma="Energovod_;K" src="orig">NNIS1-----A----</AM>
+<AM lemma="Energovod_;K" src="orig" selected="1">NNIS1-----A----</AM>
 <AM lemma="energovod" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="energovod" src="auto">NNIS4-----A----</AM>
 </tag>
@@ -657,7 +663,10 @@
 <LM>w#w-ln94206-9-p3s3w9</LM>
 </w.rf>
 <form>kuponovou</form>
-<tag lemma="kuponový" src="orig" selected="1">AAFS4----1A----</tag>
+<tag>
+<AM lemma="kuponový" src="orig">AAFS4----1A----</AM>
+<AM lemma="kuponový_,s_^(^DD**kupónový)" src="manual" selected="1">AAFS4----1A----</AM>
+</tag>
 </m>
 <m id="m-ln94206-9-p3s3w10">
 <src.rf>manual</src.rf>
@@ -761,7 +770,10 @@
 <LM>w#w-ln94206-9-p3s3w22</LM>
 </w.rf>
 <form>a</form>
-<tag lemma="akciový_:B_^(jen_akciová_společnost)" src="orig" selected="1">AAXXX----1A---8</tag>
+<tag>
+<AM lemma="akciový_:B_^(jen_akciová_společnost)" src="orig">AAXXX----1A---8</AM>
+<AM lemma="akciový" src="manual" selected="1">AAFXX----1A---8</AM>
+</tag>
 </m>
 <m id="m-ln94206-9-p3s3w23">
 <src.rf>manual</src.rf>
@@ -777,7 +789,10 @@
 <LM>w#w-ln94206-9-p3s3w24</LM>
 </w.rf>
 <form>s</form>
-<tag lemma="společnost_:B" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="společnost_:B" src="orig">NNFXX-----A---8</AM>
+<AM lemma="společnost" src="manual" selected="1">NNFXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln94206-9-p3s3w25">
 <src.rf>manual</src.rf>
@@ -793,7 +808,10 @@
 <LM>w#w-ln94206-9-p3s3w26</LM>
 </w.rf>
 <form>ČEZ</form>
-<tag lemma="ČEZ-1_:B_;K_^(České_energetické_závody)" src="orig" selected="1">NNIPX-----A---8</tag>
+<tag>
+<AM lemma="ČEZ-1_:B_;K_^(České_energetické_závody)" src="orig">NNIPX-----A---8</AM>
+<AM lemma="ČEZ_^(České_energetické_závody)" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94206-9-p3s3w27">
 <src.rf>manual</src.rf>
@@ -847,6 +865,7 @@
 <AM lemma="RIF_;K" src="auto" recommended="1">NNIS4-----A----</AM>
 <AM lemma="rif" src="auto">NNIS1-----A----</AM>
 <AM lemma="rif" src="auto">NNIS4-----A----</AM>
+<AM lemma="RIF-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-ln94206-9-p3s3w33">
@@ -866,7 +885,7 @@
 </w.rf>
 <form>Energovod</form>
 <tag>
-<AM lemma="Energovod_;K" src="orig">NNIS1-----A----</AM>
+<AM lemma="Energovod_;K" src="orig" selected="1">NNIS1-----A----</AM>
 <AM lemma="energovod" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="energovod" src="auto">NNIS4-----A----</AM>
 </tag>
@@ -1167,7 +1186,10 @@
 <LM>w#w-ln94206-9-p4s2w6</LM>
 </w.rf>
 <form>ČEZ</form>
-<tag lemma="ČEZ-1_:B_;K_^(České_energetické_závody)" src="orig" selected="1">NNIPX-----A---8</tag>
+<tag>
+<AM lemma="ČEZ-1_:B_;K_^(České_energetické_závody)" src="orig">NNIPX-----A---8</AM>
+<AM lemma="ČEZ_^(České_energetické_závody)" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94206-9-p4s2w7">
 <src.rf>manual</src.rf>
@@ -1215,7 +1237,10 @@
 <LM>w#w-ln94206-9-p4s2w12</LM>
 </w.rf>
 <form>ČKD</form>
-<tag lemma="ČKD-1_:B_;K_^(Českomoravská_Kolben-Daněk)" src="orig" selected="1">NNNXX-----A---8</tag>
+<tag>
+<AM lemma="ČKD-1_:B_;K_^(Českomoravská_Kolben-Daněk)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="ČKD-1_:B_;K_^(Českomoravská_Kolben-Daněk)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94206-9-p4s2w13">
 <src.rf>manual</src.rf>
@@ -1299,7 +1324,7 @@
 <form>přičemž</form>
 <tag>
 <AM lemma="přičemž" src="orig">J,-------------</AM>
-<AM lemma="přičemž" src="auto" recommended="1">Db-------------</AM>
+<AM lemma="přičemž" src="auto" recommended="1" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m-ln94206-9-p5s1w9">
@@ -1308,7 +1333,10 @@
 <LM>w#w-ln94206-9-p5s1w9</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-2" src="auto" selected="1">Dg-------2A----</tag>
+<tag>
+<AM lemma="hodně-2" src="auto">Dg-------2A----</AM>
+<AM lemma="více_^(více_+_2._p.,_více_peněz)" src="manual" selected="1">Ca--4----------</AM>
+</tag>
 </m>
 <m id="m-ln94206-9-p5s1w10">
 <src.rf>manual</src.rf>
@@ -1341,7 +1369,7 @@
 </w.rf>
 <form>Energovodu</form>
 <tag>
-<AM lemma="Energovod_;K" src="orig">NNIS2-----A----</AM>
+<AM lemma="Energovod_;K" src="orig" selected="1">NNIS2-----A----</AM>
 <AM lemma="energovod" src="auto" recommended="1">NNIS2-----A----</AM>
 <AM lemma="energovod" src="auto">NNIS3-----A----</AM>
 <AM lemma="energovod" src="auto">NNIS6-----A----</AM>
@@ -1605,7 +1633,10 @@
 <LM>w#w-ln94206-9-p6s1w6</LM>
 </w.rf>
 <form>tj</form>
-<tag lemma="tj-1_:B_^(to_je/jest)" src="orig" selected="1">J^------------8</tag>
+<tag>
+<AM lemma="tj-1_:B_^(to_je/jest)" src="orig">J^------------8</AM>
+<AM lemma="tj-1_:B_^(to_je/jest)" src="manual" selected="1">J^-------------</AM>
+</tag>
 </m>
 <m id="m-ln94206-9-p6s1w7">
 <src.rf>manual</src.rf>
@@ -1889,7 +1920,10 @@
 <LM>w#w-ln94206-9-p7s1w7</LM>
 </w.rf>
 <form>intenzivně</form>
-<tag lemma="intenzivně_^(*4ívní)" src="orig" selected="1">Dg-------1A----</tag>
+<tag>
+<AM lemma="intenzivně_^(*4ívní)" src="orig">Dg-------1A----</AM>
+<AM lemma="intenzivně_^(*4ívní)" src="manual" selected="1">Dg-------1A----</AM>
+</tag>
 </m>
 <m id="m-ln94206-9-p7s1w8">
 <src.rf>manual</src.rf>
@@ -1985,7 +2019,10 @@
 <LM>w#w-ln94206-9-p7s1w19</LM>
 </w.rf>
 <form>ISO</form>
-<tag lemma="ISO-1_:B_;K_^(Intl._Standards_Org.)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ISO-1_:B_;K_^(Intl._Standards_Org.)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ISO-1_:B_;K_^(Intl._Standards_Org.)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94206-9-p7s1w20">
 <src.rf>manual</src.rf>
@@ -2320,7 +2357,10 @@
 <LM>w#w-ln94206-9-p8s3w13</LM>
 </w.rf>
 <form>milionu</form>
-<tag lemma="milión`1000000" src="orig" selected="1">NNIS2-----A----</tag>
+<tag>
+<AM lemma="milión`1000000" src="orig">NNIS2-----A----</AM>
+<AM lemma="milion`1000000_,s_^(^DD**milión)" src="manual" selected="1">NNIS2-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94206-9-p8s3w14">
 <src.rf>manual</src.rf>
@@ -2436,7 +2476,10 @@
 <LM>w#w-ln94206-9-p9s1w5</LM>
 </w.rf>
 <form>kurz</form>
-<tag lemma="kurs" src="auto" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="kurs" src="auto">NNIS1-----A----</AM>
+<AM lemma="kurz" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94206-9-p9s1w6">
 <src.rf>manual</src.rf>
@@ -2453,7 +2496,7 @@
 </w.rf>
 <form>Energovodu</form>
 <tag>
-<AM lemma="Energovod_;K" src="orig">NNIS2-----A----</AM>
+<AM lemma="Energovod_;K" src="orig" selected="1">NNIS2-----A----</AM>
 <AM lemma="energovod" src="auto" recommended="1">NNIS2-----A----</AM>
 <AM lemma="energovod" src="auto">NNIS3-----A----</AM>
 <AM lemma="energovod" src="auto">NNIS6-----A----</AM>
@@ -2678,7 +2721,7 @@
 </w.rf>
 <form>Energovodu</form>
 <tag>
-<AM lemma="Energovod_;K" src="orig">NNIS2-----A----</AM>
+<AM lemma="Energovod_;K" src="orig" selected="1">NNIS2-----A----</AM>
 <AM lemma="energovod" src="auto" recommended="1">NNIS2-----A----</AM>
 <AM lemma="energovod" src="auto">NNIS3-----A----</AM>
 <AM lemma="energovod" src="auto">NNIS6-----A----</AM>
@@ -2711,6 +2754,7 @@
 <AM lemma="Stock_;S" src="auto">NNMS1-----A----</AM>
 <AM lemma="Stock_;R" src="auto">NNIS1-----A----</AM>
 <AM lemma="Stock_;R" src="auto" recommended="1">NNIS4-----A----</AM>
+<AM lemma="Stock-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-ln94206-9-p9s3Aw11">
@@ -2736,7 +2780,7 @@
 <AM lemma="List-2_;G" src="auto">NNIS6-----A----</AM>
 <AM lemma="list" src="auto">NNIS2-----A----</AM>
 <AM lemma="list" src="auto">NNIS3-----A----</AM>
-<AM lemma="list" src="auto">NNIS6-----A---1</AM>
+<AM lemma="list" src="auto" selected="1">NNIS6-----A---1</AM>
 <AM lemma="lista_,a_^(státní_důchod_panovníka;;seznam;;doklad_v_poštovním_styku)" src="auto" recommended="1">NNFS4-----A----</AM>
 </tag>
 </m>
@@ -2784,6 +2828,7 @@
 <AM lemma="al-99_:B_;S" src="orig">NNXXX-----A---8</AM>
 <AM lemma="al_;G_^(al-Aiún)" src="auto" recommended="1">A2--------A----</AM>
 <AM lemma="ala-1_,t_^(místnost_v_starořím._obydlí;;vojenská_jednotka_ve_st._Římě;;boční_loď_v_bazilice)" src="auto">NNFP2-----A----</AM>
+<AM lemma="al-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94206-9-p9s3Bw3">

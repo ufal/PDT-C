@@ -19,7 +19,10 @@
 <LM>w#w-mf920901-019-p1s1w1</LM>
 </w.rf>
 <form>SPOLANA</form>
-<tag lemma="Spolana" src="orig" selected="1">NNFS1-----A----</tag>
+<tag>
+<AM lemma="Spolana" src="orig">NNFS1-----A----</AM>
+<AM lemma="Spolana_;K" src="manual" selected="1">NNFS1-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920901-019-p1s1w2">
 <src.rf>manual</src.rf>
@@ -164,7 +167,7 @@
 </w.rf>
 <form>kys</form>
 <tag>
-<AM lemma="kys_:B" src="orig">AAXXX----1A---8</AM>
+<AM lemma="kys_:B" src="orig" selected="1">AAXXX----1A---8</AM>
 <AM lemma="kys" src="auto">NNIS1-----A----</AM>
 <AM lemma="kys" src="auto">NNIS4-----A----</AM>
 <AM lemma="kyselina_:B" src="auto" recommended="1">NNFXX-----A---8</AM>

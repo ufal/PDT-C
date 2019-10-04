@@ -134,7 +134,10 @@
 <LM>w#w-lnd94101-099-p1s1Bw9</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-2" src="auto" selected="1">Dg-------2A----</tag>
+<tag>
+<AM lemma="hodně-2" src="auto">Dg-------2A----</AM>
+<AM lemma="hodně-3" src="manual" selected="1">Dg-------2A----</AM>
+</tag>
 </m>
 </s>
 <s id="m-lnd94101-099-p1s2">
@@ -210,7 +213,10 @@
 <LM>w#w-lnd94101-099-p1s3w4</LM>
 </w.rf>
 <form>ČMFS</form>
-<tag lemma="ČMFS-1_:B_;K_;w_^(Českomoravský_fotbalový_svaz)" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="ČMFS-1_:B_;K_;w_^(Českomoravský_fotbalový_svaz)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="ČMFS-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd94101-099-p1s3w5">
 <src.rf>manual</src.rf>
@@ -1152,7 +1158,7 @@
 <form>zasáhlo</form>
 <tag>
 <AM lemma="zasáhnout" src="orig">VpNS---XR-AA---</AM>
-<AM lemma="zasáhnout_:W" src="auto" recommended="1">VpNS---XR-AA--1</AM>
+<AM lemma="zasáhnout_:W" src="auto" recommended="1" selected="1">VpNS---XR-AA--1</AM>
 </tag>
 </m>
 <m id="m-lnd94101-099-p1s9w6">
@@ -1405,7 +1411,10 @@
 <LM>w#w-lnd94101-099-p1s11w18</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-2" src="auto" selected="1">Dg-------2A----</tag>
+<tag>
+<AM lemma="hodně-2" src="auto">Dg-------2A----</AM>
+<AM lemma="hodně-3" src="manual" selected="1">Dg-------2A----</AM>
+</tag>
 </m>
 <m id="m-lnd94101-099-p1s11w19">
 <src.rf>manual</src.rf>
@@ -1471,7 +1480,7 @@
 <form>starostech</form>
 <tag>
 <AM lemma="starost" src="orig">NNFP6-----A----</AM>
-<AM lemma="starost-1" src="auto" recommended="1">NNFP6-----A----</AM>
+<AM lemma="starost-1" src="auto" recommended="1" selected="1">NNFP6-----A----</AM>
 <AM lemma="starost-2_^(člověk,_věc)_(*5ý-2)" src="auto">NNFP6-----A----</AM>
 <AM lemma="starosta" src="auto">NNMP6-----A----</AM>
 </tag>
@@ -2376,7 +2385,10 @@
 <LM>w#w-lnd94101-099-p1s14w54</LM>
 </w.rf>
 <form>SK</form>
-<tag lemma="SK-1_:B_;K_;w_^(sportovní_klub)" src="auto" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="SK-1_:B_;K_;w_^(sportovní_klub)" src="auto">NNIXX-----A---8</AM>
+<AM lemma="SK-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd94101-099-p1s14w55">
 <src.rf>manual</src.rf>
@@ -2670,7 +2682,10 @@
 <LM>w#w-lnd94101-099-p1s18w5</LM>
 </w.rf>
 <form>jen</form>
-<tag lemma="jen-1" src="auto" selected="1">TT-------------</tag>
+<tag>
+<AM lemma="jen-1" src="auto">TT-------------</AM>
+<AM lemma="jen-4_^(pouze)" src="manual" selected="1">Db-------------</AM>
+</tag>
 </m>
 <m id="m-lnd94101-099-p1s18w6">
 <src.rf>manual</src.rf>

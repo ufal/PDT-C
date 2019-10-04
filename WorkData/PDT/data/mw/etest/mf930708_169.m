@@ -52,7 +52,7 @@
 </w.rf>
 <form>Nemeckém</form>
 <tag>
-<AM lemma="Nemecké_;G" src="orig">NNNS6-----A----</AM>
+<AM lemma="Nemecké_;G" src="orig" selected="1">NNNS6-----A----</AM>
 <AM lemma="mecký" src="auto">AAIS6----1N----</AM>
 <AM lemma="mecký" src="auto">AAMS6----1N----</AM>
 <AM lemma="mecký" src="auto" recommended="1">AANS6----1N----</AM>
@@ -83,7 +83,7 @@
 </w.rf>
 <form>Nemecké</form>
 <tag>
-<AM lemma="Nemecké_;G" src="orig">NNNS1-----A----</AM>
+<AM lemma="Nemecké_;G" src="orig" selected="1">NNNS1-----A----</AM>
 <AM lemma="mecký" src="auto">AAFP1----1N----</AM>
 <AM lemma="mecký" src="auto">AAFP4----1N----</AM>
 <AM lemma="mecký" src="auto">AAFP5----1N----</AM>
@@ -258,7 +258,7 @@
 </w.rf>
 <form>Nemeckém</form>
 <tag>
-<AM lemma="Nemecké_;G" src="orig">NNNS6-----A----</AM>
+<AM lemma="Nemecké_;G" src="orig" selected="1">NNNS6-----A----</AM>
 <AM lemma="mecký" src="auto">AAIS6----1N----</AM>
 <AM lemma="mecký" src="auto">AAMS6----1N----</AM>
 <AM lemma="mecký" src="auto" recommended="1">AANS6----1N----</AM>
@@ -442,7 +442,10 @@
 <LM>w#w-mf930708-169-p3s1w2</LM>
 </w.rf>
 <form>řekl</form>
-<tag lemma="říci" src="auto" selected="1">VpYS---XR-AA---</tag>
+<tag>
+<AM lemma="říci" src="auto">VpYS---XR-AA---</AM>
+<AM lemma="říci_:W" src="manual" selected="1">VpYS---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-mf930708-169-p3s1w3">
 <src.rf>manual</src.rf>
@@ -458,7 +461,10 @@
 <LM>w#w-mf930708-169-p3s1w4</LM>
 </w.rf>
 <form>MF</form>
-<tag lemma="MF-1_:B_;R_;b_^(Mladá_Fronta,_deník)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="MF-1_:B_;R_;b_^(Mladá_Fronta,_deník)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="MF-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-mf930708-169-p3s1w5">
 <src.rf>manual</src.rf>
@@ -498,7 +504,10 @@
 <LM>w#w-mf930708-169-p3s1w9</LM>
 </w.rf>
 <form>M</form>
-<tag lemma="m-3_^(označení_pomocí_písmene)" src="orig" selected="1">NNNXX-----A----</tag>
+<tag>
+<AM lemma="m-3_^(označení_pomocí_písmene)" src="orig">NNNXX-----A----</AM>
+<AM lemma="M-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-mf930708-169-p3s1w10">
 <src.rf>manual</src.rf>
@@ -738,7 +747,10 @@
 <LM>w#w-mf930708-169-p3s1w39</LM>
 </w.rf>
 <form>USD</form>
-<tag lemma="USD_:B_;b_^(U.S._dolar)" src="auto" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="USD_:B_;b_^(U.S._dolar)" src="auto">NNIXX-----A---8</AM>
+<AM lemma="USD-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-mf930708-169-p3s1w40">
 <src.rf>manual</src.rf>
@@ -778,7 +790,10 @@
 <LM>w#w-mf930708-169-p3s1w44</LM>
 </w.rf>
 <form>USD</form>
-<tag lemma="USD_:B_;b_^(U.S._dolar)" src="auto" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="USD_:B_;b_^(U.S._dolar)" src="auto">NNIXX-----A---8</AM>
+<AM lemma="USD-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-mf930708-169-p3s1w45">
 <src.rf>manual</src.rf>
@@ -1076,6 +1091,7 @@
 <AM lemma="Česmad_:B_;K" src="orig">NNIXX-----A---8</AM>
 <AM lemma="Česmad_:B_;K" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Česmad_:B_;K" src="auto">NNIS4-----A----</AM>
+<AM lemma="ČESMAD-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-mf930708-169-p4s1w5">
@@ -1092,7 +1108,10 @@
 <LM>w#w-mf930708-169-p4s1w6</LM>
 </w.rf>
 <form>J</form>
-<tag lemma="J-0_:B_;Y" src="orig" selected="1">NNMXX-----A---8</tag>
+<tag>
+<AM lemma="J-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
+<AM lemma="J-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-mf930708-169-p4s1w7">
 <src.rf>manual</src.rf>
@@ -1330,7 +1349,10 @@
 <LM>w#w-mf930708-169-p5s2w1</LM>
 </w.rf>
 <form>ČESMAD</form>
-<tag lemma="Česmad_:B_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="Česmad_:B_;K" src="orig">NNIS1-----A----</AM>
+<AM lemma="ČESMAD-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-mf930708-169-p5s2w2">
 <src.rf>manual</src.rf>

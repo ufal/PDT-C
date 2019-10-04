@@ -35,7 +35,10 @@
 <LM>w#w-ln95040-005-p1s1w3</LM>
 </w.rf>
 <form>VŠE</form>
-<tag lemma="VŠE_:B_;K_^(Vysoká_škola_ekonomická)" src="auto" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="VŠE_:B_;K_^(Vysoká_škola_ekonomická)" src="auto">NNFXX-----A---8</AM>
+<AM lemma="VŠE_:B_;K_^(Vysoká_škola_ekonomická)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95040-005-p1s1w4">
 <src.rf>manual</src.rf>
@@ -239,7 +242,10 @@
 <LM>w#w-ln95040-005-p2s1Bw21</LM>
 </w.rf>
 <form>VŠE</form>
-<tag lemma="VŠE_:B_;K_^(Vysoká_škola_ekonomická)" src="auto" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="VŠE_:B_;K_^(Vysoká_škola_ekonomická)" src="auto">NNFXX-----A---8</AM>
+<AM lemma="VŠE_:B_;K_^(Vysoká_škola_ekonomická)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95040-005-p2s1Bw22">
 <src.rf>manual</src.rf>

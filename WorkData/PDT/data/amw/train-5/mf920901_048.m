@@ -21,7 +21,7 @@
 <form>Zlatá</form>
 <tag>
 <AM lemma="zlatá_^(*1ka)" src="orig">NNFS1-----A----</AM>
-<AM lemma="zlatý_^(atribut;_z._řetízek,_poklad,...)" src="auto" recommended="1">AAFS1----1A----</AM>
+<AM lemma="zlatý_^(atribut;_z._řetízek,_poklad,...)" src="auto" recommended="1" selected="1">AAFS1----1A----</AM>
 <AM lemma="zlatý_^(atribut;_z._řetízek,_poklad,...)" src="auto">AAFS5----1A----</AM>
 <AM lemma="zlatý_^(atribut;_z._řetízek,_poklad,...)" src="auto">AANP1----1A----</AM>
 <AM lemma="zlatý_^(atribut;_z._řetízek,_poklad,...)" src="auto">AANP4----1A----</AM>
@@ -860,6 +860,7 @@
 <AM lemma="mimo-1_:B" src="auto">RR--4---------8</AM>
 <AM lemma="minuta_:B" src="auto">NNFXX-----A---8</AM>
 <AM lemma="město_:B" src="auto">NNNXX-----A---8</AM>
+<AM lemma="metr" src="manual" selected="1">NNIXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-mf920901-048-p3s5w18">
@@ -902,7 +903,10 @@
 <LM>w#w-mf920901-048-p4s1w3</LM>
 </w.rf>
 <form>MS</form>
-<tag lemma="MS-3_:B_;w_^(mistrovství_světa)" src="orig" selected="1">NNNXX-----A---8</tag>
+<tag>
+<AM lemma="MS-3_:B_;w_^(mistrovství_světa)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="MS-3_:B_^(mistrovství_světa)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920901-048-p4s1w4">
 <src.rf>manual</src.rf>
@@ -990,7 +994,10 @@
 <LM>w#w-mf920901-048-p4s1w14</LM>
 </w.rf>
 <form>MS</form>
-<tag lemma="MS-3_:B_;w_^(mistrovství_světa)" src="orig" selected="1">NNNXX-----A---8</tag>
+<tag>
+<AM lemma="MS-3_:B_;w_^(mistrovství_světa)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="MS-3_:B_^(mistrovství_světa)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920901-048-p4s1w15">
 <src.rf>manual</src.rf>
@@ -1234,7 +1241,11 @@
 <LM>w#w-mf920901-048-p4s3w5</LM>
 </w.rf>
 <form>Fr</form>
-<tag lemma="francouzština_:B" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="francouzština_:B" src="orig">NNFXX-----A---8</AM>
+<AM lemma="Francie_;G" src="manual">NNFSX-----A---8</AM>
+<AM lemma="Francie_;G" src="manual" selected="1">NNFXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-mf920901-048-p4s3w6">
 <src.rf>manual</src.rf>
@@ -1282,7 +1293,10 @@
 <LM>w#w-mf920901-048-p4s3w11</LM>
 </w.rf>
 <form>Lit</form>
-<tag lemma="lít" src="orig" selected="1">VsYS---XX-AP---</tag>
+<tag>
+<AM lemma="lít" src="orig">VsYS---XX-AP---</AM>
+<AM lemma="Litva_;G" src="manual" selected="1">NNFXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-mf920901-048-p4s3w12">
 <src.rf>manual</src.rf>
@@ -1337,6 +1351,7 @@
 <AM lemma="Britský_:B_;m" src="auto">AAXXX----1A---9</AM>
 <AM lemma="Británie_:B_;m" src="auto">NNFXX-----A---9</AM>
 <AM lemma="britský_:B" src="auto">AAXXX----1A---8</AM>
+<AM lemma="Británie_;G" src="manual" selected="1">NNFXX-----A---9</AM>
 </tag>
 </m>
 <m id="m-mf920901-048-p4s3w18">
@@ -1385,7 +1400,10 @@
 <LM>w#w-mf920901-048-p4s3w23</LM>
 </w.rf>
 <form>Fr</form>
-<tag lemma="francouzština_:B" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="francouzština_:B" src="orig">NNFXX-----A---8</AM>
+<AM lemma="Francie_;G" src="manual" selected="1">NNFXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-mf920901-048-p4s3w24">
 <src.rf>manual</src.rf>
@@ -1433,7 +1451,10 @@
 <LM>w#w-mf920901-048-p4s3w29</LM>
 </w.rf>
 <form>Niz</form>
-<tag lemma="Nizozemí_:B_;G" src="orig" selected="1">NNNXX-----A---8</tag>
+<tag>
+<AM lemma="Nizozemí_:B_;G" src="orig">NNNXX-----A---8</AM>
+<AM lemma="Nizozemí_;G" src="manual" selected="1">NNNXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-mf920901-048-p4s3w30">
 <src.rf>manual</src.rf>
@@ -1481,7 +1502,10 @@
 <LM>w#w-mf920901-048-p4s3w35</LM>
 </w.rf>
 <form>Švýc</form>
-<tag lemma="Švýcarsko_:B_;G" src="orig" selected="1">NNNXX-----A---8</tag>
+<tag>
+<AM lemma="Švýcarsko_:B_;G" src="orig">NNNXX-----A---8</AM>
+<AM lemma="Švýcarsko_;G" src="manual" selected="1">NNNXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-mf920901-048-p4s3w36">
 <src.rf>manual</src.rf>
@@ -1532,6 +1556,7 @@
 <tag>
 <AM lemma="USA_;G" src="orig">NNIPX-----A----</AM>
 <AM lemma="USA_:B_;K_,t_^(United_States_of_America)" src="auto" recommended="1">NNIPX-----A---8</AM>
+<AM lemma="USA_:B_;K_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920901-048-p4s3w42">
@@ -1572,7 +1597,10 @@
 <LM>w#w-mf920901-048-p4s3w46</LM>
 </w.rf>
 <form>Něm</form>
-<tag lemma="Německo_:B_;G" src="auto" selected="1">NNNXX-----A----</tag>
+<tag>
+<AM lemma="Německo_:B_;G" src="auto">NNNXX-----A----</AM>
+<AM lemma="Německo_;G" src="manual" selected="1">NNNXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-mf920901-048-p4s3w47">
 <src.rf>manual</src.rf>
@@ -1630,7 +1658,10 @@
 <LM>w#w-mf920901-048-p5s1w4</LM>
 </w.rf>
 <form>čs</form>
-<tag lemma="československý_:B" src="orig" selected="1">AAXXX----1A---8</tag>
+<tag>
+<AM lemma="československý_:B" src="orig">AAXXX----1A---8</AM>
+<AM lemma="československý" src="manual" selected="1">AAXXX----1A---8</AM>
+</tag>
 </m>
 <m id="m-mf920901-048-p5s1w5">
 <src.rf>manual</src.rf>
@@ -1802,7 +1833,10 @@
 <LM>w#w-mf920901-048-p6s2w3</LM>
 </w.rf>
 <form>Niz</form>
-<tag lemma="Nizozemí_:B_;G" src="orig" selected="1">NNNXX-----A---8</tag>
+<tag>
+<AM lemma="Nizozemí_:B_;G" src="orig">NNNXX-----A---8</AM>
+<AM lemma="Nizozemí_;G" src="manual" selected="1">NNNXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-mf920901-048-p6s2w4">
 <src.rf>manual</src.rf>
@@ -1876,7 +1910,10 @@
 <LM>w#w-mf920901-048-p6s3w3</LM>
 </w.rf>
 <form>Švýc</form>
-<tag lemma="Švýcarsko_:B_;G" src="orig" selected="1">NNNXX-----A---8</tag>
+<tag>
+<AM lemma="Švýcarsko_:B_;G" src="orig">NNNXX-----A---8</AM>
+<AM lemma="Švýcarsko_;G" src="manual" selected="1">NNNXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-mf920901-048-p6s3w4">
 <src.rf>manual</src.rf>
@@ -1953,6 +1990,7 @@
 <tag>
 <AM lemma="USA_;G" src="orig">NNIPX-----A----</AM>
 <AM lemma="USA_:B_;K_,t_^(United_States_of_America)" src="auto" recommended="1">NNIPX-----A---8</AM>
+<AM lemma="USA_:B_;K_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920901-048-p6s4w4">
@@ -2019,7 +2057,10 @@
 <LM>w#w-mf920901-048-p6s5w3</LM>
 </w.rf>
 <form>Něm</form>
-<tag lemma="Německo_:B_;G" src="auto" selected="1">NNNXX-----A----</tag>
+<tag>
+<AM lemma="Německo_:B_;G" src="auto">NNNXX-----A----</AM>
+<AM lemma="Německo_;G" src="manual" selected="1">NNNXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-mf920901-048-p6s5w4">
 <src.rf>manual</src.rf>
@@ -2093,7 +2134,10 @@
 <LM>w#w-mf920901-048-p6s6w3</LM>
 </w.rf>
 <form>Fr</form>
-<tag lemma="francouzština_:B" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="francouzština_:B" src="orig">NNFXX-----A---8</AM>
+<AM lemma="Francie_;G" src="manual" selected="1">NNFXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-mf920901-048-p6s6w4">
 <src.rf>manual</src.rf>
@@ -2168,7 +2212,7 @@
 </w.rf>
 <form>It</form>
 <tag>
-<AM lemma="Itálie_;G" src="orig">NNFXX-----A---8</AM>
+<AM lemma="Itálie_;G" src="orig" selected="1">NNFXX-----A---8</AM>
 <AM lemma="Itálie_:B_;G" src="auto" recommended="1">NNFXX-----A----</AM>
 <AM lemma="it_,t_^(angl._to)" src="auto">PPNSX--3-------</AM>
 </tag>
@@ -2276,7 +2320,7 @@
 <AM lemma="Paris-1_;S" src="auto">NNMS1-----A----</AM>
 <AM lemma="Paris-2_;G" src="auto">NNFSX-----A----</AM>
 <AM lemma="Paris-3_;Y" src="auto">NNFSX-----A----</AM>
-<AM lemma="Paris_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Paris_;S" src="auto" recommended="1" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920901-048-p7s2w4">
@@ -2294,7 +2338,7 @@
 </w.rf>
 <form>It</form>
 <tag>
-<AM lemma="Itálie_;G" src="orig">NNFXX-----A---8</AM>
+<AM lemma="Itálie_;G" src="orig" selected="1">NNFXX-----A---8</AM>
 <AM lemma="Itálie_:B_;G" src="auto" recommended="1">NNFXX-----A----</AM>
 <AM lemma="it_,t_^(angl._to)" src="auto">PPNSX--3-------</AM>
 </tag>
@@ -2330,7 +2374,10 @@
 <LM>w#w-mf920901-048-p7s2w9</LM>
 </w.rf>
 <form>s</form>
-<tag lemma="s-2`sekunda_:B" src="orig" selected="1">NNFXX-----A---1</tag>
+<tag>
+<AM lemma="s-2`sekunda_:B" src="orig">NNFXX-----A---1</AM>
+<AM lemma="sekunda" src="manual" selected="1">NNFXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-mf920901-048-p7s2w10">
 <src.rf>manual</src.rf>

@@ -443,7 +443,10 @@
 <LM>w#w-mf920901-009-p2s2w20</LM>
 </w.rf>
 <form>jen</form>
-<tag lemma="jen-1" src="auto" selected="1">TT-------------</tag>
+<tag>
+<AM lemma="jen-1" src="auto">TT-------------</AM>
+<AM lemma="jen-4_^(pouze)" src="manual" selected="1">Db-------------</AM>
+</tag>
 </m>
 <m id="m-mf920901-009-p2s2w21">
 <src.rf>manual</src.rf>
@@ -915,6 +918,7 @@
 <AM lemma="Ems_;G" src="auto">NNIS4-----A----</AM>
 <AM lemma="ems_;L_^(stratigrafický_stupeň)" src="auto">NNIS1-----A----</AM>
 <AM lemma="ems_;L_^(stratigrafický_stupeň)" src="auto">NNIS4-----A----</AM>
+<AM lemma="EMS-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-mf920901-009-p3s1w12">
@@ -947,7 +951,10 @@
 <LM>w#w-mf920901-009-p3s1w15</LM>
 </w.rf>
 <form>mechanismu</form>
-<tag lemma="mechanismus" src="orig" selected="1">NNIS2-----A----</tag>
+<tag>
+<AM lemma="mechanismus" src="orig">NNIS2-----A----</AM>
+<AM lemma="mechanismus_,s_^(^DD**mechanizmus)" src="manual" selected="1">NNIS2-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920901-009-p3s1w16">
 <src.rf>manual</src.rf>
@@ -1029,7 +1036,10 @@
 <LM>w#w-mf920901-009-p3s2w1</LM>
 </w.rf>
 <form>Masívní</form>
-<tag lemma="masívní" src="orig" selected="1">AAIP1----1A----</tag>
+<tag>
+<AM lemma="masívní" src="orig">AAIP1----1A----</AM>
+<AM lemma="masívní_,s_^(^DD**masivní)" src="manual" selected="1">AAIP1----1A----</AM>
+</tag>
 </m>
 <m id="m-mf920901-009-p3s2w2">
 <src.rf>manual</src.rf>
@@ -1197,6 +1207,7 @@
 <AM lemma="Ems_;G" src="auto">NNIS4-----A----</AM>
 <AM lemma="ems_;L_^(stratigrafický_stupeň)" src="auto">NNIS1-----A----</AM>
 <AM lemma="ems_;L_^(stratigrafický_stupeň)" src="auto">NNIS4-----A----</AM>
+<AM lemma="EMS-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-mf920901-009-p3s2w22">
@@ -1610,6 +1621,7 @@
 <AM lemma="Ems_;G" src="auto">NNIS4-----A----</AM>
 <AM lemma="ems_;L_^(stratigrafický_stupeň)" src="auto">NNIS1-----A----</AM>
 <AM lemma="ems_;L_^(stratigrafický_stupeň)" src="auto">NNIS4-----A----</AM>
+<AM lemma="EMS-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-mf920901-009-p3s5w6">
@@ -1692,7 +1704,7 @@
 <form>třeba</form>
 <tag>
 <AM lemma="třeba-1" src="orig">ACNS------A----</AM>
-<AM lemma="třeba-2" src="auto" recommended="1">Db-------------</AM>
+<AM lemma="třeba-2" src="auto" recommended="1" selected="1">Db-------------</AM>
 <AM lemma="třeba-3" src="auto">TT-------------</AM>
 </tag>
 </m>
@@ -1741,6 +1753,7 @@
 <AM lemma="Ems_;G" src="auto">NNIS4-----A----</AM>
 <AM lemma="ems_;L_^(stratigrafický_stupeň)" src="auto">NNIS1-----A----</AM>
 <AM lemma="ems_;L_^(stratigrafický_stupeň)" src="auto">NNIS4-----A----</AM>
+<AM lemma="EMS-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-mf920901-009-p3s5w21">
@@ -2291,7 +2304,10 @@
 <LM>w#w-mf920901-009-p4s1w10</LM>
 </w.rf>
 <form>Giuliano</form>
-<tag lemma="Giuliano_;Y_,t" src="auto" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Giuliano_;Y_,t" src="auto">NNMS1-----A----</AM>
+<AM lemma="Giuliano_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920901-009-p4s1w11">
 <src.rf>manual</src.rf>

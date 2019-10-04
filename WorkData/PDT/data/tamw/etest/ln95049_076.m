@@ -21,7 +21,7 @@
 <form>Nalezen</form>
 <tag>
 <AM lemma="naleznout" src="orig">VsYS---XX-AP---</AM>
-<AM lemma="nalézt-2" src="auto" recommended="1">VsYS---XX-AP---</AM>
+<AM lemma="nalézt-2" src="auto" recommended="1" selected="1">VsYS---XX-AP---</AM>
 </tag>
 </m>
 <m id="m-ln95049-076-p1s1w2">
@@ -130,7 +130,10 @@
 <LM>w#w-ln95049-076-p2s1Bw8</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-2" src="auto" selected="1">Dg-------2A----</tag>
+<tag>
+<AM lemma="hodně-2" src="auto">Dg-------2A----</AM>
+<AM lemma="hodně-3" src="manual" selected="1">Dg-------2A----</AM>
+</tag>
 </m>
 <m id="m-ln95049-076-p2s1Bw9">
 <src.rf>manual</src.rf>
@@ -278,7 +281,7 @@
 <form>nalezen</form>
 <tag>
 <AM lemma="naleznout" src="orig">VsYS---XX-AP---</AM>
-<AM lemma="nalézt-2" src="auto" recommended="1">VsYS---XX-AP---</AM>
+<AM lemma="nalézt-2" src="auto" recommended="1" selected="1">VsYS---XX-AP---</AM>
 </tag>
 </m>
 <m id="m-ln95049-076-p2s2w7">
@@ -287,7 +290,10 @@
 <LM>w#w-ln95049-076-p2s2w7</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-2" src="auto" selected="1">Dg-------2A----</tag>
+<tag>
+<AM lemma="hodně-2" src="auto">Dg-------2A----</AM>
+<AM lemma="hodně-3" src="manual" selected="1">Dg-------2A----</AM>
+</tag>
 </m>
 <m id="m-ln95049-076-p2s2w8">
 <src.rf>manual</src.rf>
@@ -327,7 +333,10 @@
 <LM>w#w-ln95049-076-p2s2w12</LM>
 </w.rf>
 <form>Al</form>
-<tag lemma="Al-5_;m_,t_^(arab._člen,_i_ve_jm.)" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="Al-5_;m_,t_^(arab._člen,_i_ve_jm.)" src="orig">AAXXX----1A----</AM>
+<AM lemma="Al-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln95049-076-p2s2w13">
 <src.rf>manual</src.rf>
@@ -555,7 +564,7 @@
 <form>nalezeny</form>
 <tag>
 <AM lemma="naleznout" src="orig">VsTP---XX-AP---</AM>
-<AM lemma="nalézt-2" src="auto" recommended="1">VsTP---XX-AP---</AM>
+<AM lemma="nalézt-2" src="auto" recommended="1" selected="1">VsTP---XX-AP---</AM>
 </tag>
 </m>
 <m id="m-ln95049-076-p2s3w6">

@@ -161,7 +161,10 @@
 <LM>w#w-lnd92253-050-p3s2w11</LM>
 </w.rf>
 <form>Iklim</form>
-<tag lemma="Iklim_;G" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="Iklim_;G" src="orig">AAXXX----1A----</AM>
+<AM lemma="Iklim-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-lnd92253-050-p3s2w12">
 <src.rf>manual</src.rf>
@@ -173,6 +176,7 @@
 <AM lemma="at_;G" src="orig">AAXXX----1A----</AM>
 <AM lemma="at_,t" src="auto">XX-------------</AM>
 <AM lemma="atmosféra_:B_;H_;g_^(fyzik._jednotka)" src="auto" recommended="1">NNFXX-----A---8</AM>
+<AM lemma="at-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-lnd92253-050-p3s2w13">
@@ -189,7 +193,10 @@
 <LM>w#w-lnd92253-050-p3s2w14</LM>
 </w.rf>
 <form>Tuffáh</form>
-<tag lemma="Tuffáh_;G" src="orig" selected="1">NNXXX-----A----</tag>
+<tag>
+<AM lemma="Tuffáh_;G" src="orig">NNXXX-----A----</AM>
+<AM lemma="Tuffáh-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-lnd92253-050-p3s2w15">
 <src.rf>manual</src.rf>
@@ -254,7 +261,7 @@
 </w.rf>
 <form>Sajdy</form>
 <tag>
-<AM lemma="Sajdá_;G" src="orig">NNFS2-----A----</AM>
+<AM lemma="Sajdá_;G" src="orig" selected="1">NNFS2-----A----</AM>
 <AM lemma="Sajdy_;G" src="auto" recommended="1">NNIP1-----A----</AM>
 <AM lemma="Sajdy_;G" src="auto">NNIP4-----A----</AM>
 <AM lemma="Sajdy_;G" src="auto">NNIP5-----A----</AM>
@@ -357,7 +364,10 @@
 <LM>w#w-lnd92253-050-p3s3w3</LM>
 </w.rf>
 <form>AFP</form>
-<tag lemma="AFP_:B_;K" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="AFP_:B_;K" src="orig">NNIXX-----A---8</AM>
+<AM lemma="AFP-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd92253-050-p3s3w4">
 <src.rf>manual</src.rf>
@@ -493,7 +503,10 @@
 <LM>w#w-lnd92253-050-p3s3w20</LM>
 </w.rf>
 <form>uprostřed</form>
-<tag lemma="uprostřed-1" src="auto" selected="1">Db-------------</tag>
+<tag>
+<AM lemma="uprostřed-1" src="auto">Db-------------</AM>
+<AM lemma="uprostřed-2" src="manual" selected="1">RR--2----------</AM>
+</tag>
 </m>
 <m id="m-lnd92253-050-p3s3w21">
 <src.rf>manual</src.rf>

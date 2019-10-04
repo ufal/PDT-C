@@ -69,7 +69,10 @@
 <LM>w#w-mf930701-090-p2s1w3</LM>
 </w.rf>
 <form>nak</form>
-<tag lemma="nak-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="nak-99_:B_;S" src="orig">NNXXX-----A---8</AM>
+<AM lemma="nak-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930701-090-p2s1w4">
 <src.rf>manual</src.rf>
@@ -263,7 +266,10 @@
 <LM>w#w-mf930701-090-p2s2w9</LM>
 </w.rf>
 <form>otevřena</form>
-<tag lemma="otevřít" src="orig" selected="1">VsQW---XX-AP---</tag>
+<tag>
+<AM lemma="otevřít" src="orig">VsQW---XX-AP---</AM>
+<AM lemma="otevřít_:W" src="manual" selected="1">VsQW---XX-AP---</AM>
+</tag>
 </m>
 <m id="m-mf930701-090-p2s2w10">
 <src.rf>manual</src.rf>
@@ -733,7 +739,10 @@
 <LM>w#w-mf930701-090-p3s2w8</LM>
 </w.rf>
 <form>stát</form>
-<tag lemma="stát-2_^(něco_se_přihodilo)" src="orig" selected="1">Vf--------A----</tag>
+<tag>
+<AM lemma="stát-2_^(něco_se_přihodilo)" src="orig">Vf--------A----</AM>
+<AM lemma="stát-2_:W_^(něco_se_přihodilo)" src="manual" selected="1">Vf--------A----</AM>
+</tag>
 </m>
 <m id="m-mf930701-090-p3s2w9">
 <src.rf>manual</src.rf>
@@ -805,7 +814,10 @@
 <LM>w#w-mf930701-090-p3s2w17</LM>
 </w.rf>
 <form>mělo</form>
-<tag lemma="mít" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag>
+<AM lemma="mít" src="orig">VpNS---XR-AA---</AM>
+<AM lemma="mít_:T" src="manual" selected="1">VpNS---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-mf930701-090-p3s2w18">
 <src.rf>manual</src.rf>
@@ -857,7 +869,7 @@
 <form>ovšem</form>
 <tag>
 <AM lemma="ovšem-1_^(avšak,_však;_odporovací_spojka)" src="orig">J^-------------</AM>
-<AM lemma="ovšem" src="auto" recommended="1">TT-------------</AM>
+<AM lemma="ovšem" src="auto" recommended="1" selected="1">TT-------------</AM>
 </tag>
 </m>
 <m id="m-mf930701-090-p3s3w4">
@@ -1019,7 +1031,10 @@
 <LM>w#w-mf930701-090-p3s3w23</LM>
 </w.rf>
 <form>roste</form>
-<tag lemma="růst-2" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag>
+<AM lemma="růst-2" src="orig">VB-S---3P-AA---</AM>
+<AM lemma="růst-2_:T" src="manual" selected="1">VB-S---3P-AA---</AM>
+</tag>
 </m>
 <m id="m-mf930701-090-p3s3w24">
 <src.rf>manual</src.rf>
@@ -1043,7 +1058,10 @@
 <LM>w#w-mf930701-090-p3s3w26</LM>
 </w.rf>
 <form>řekl</form>
-<tag lemma="říci" src="auto" selected="1">VpYS---XR-AA---</tag>
+<tag>
+<AM lemma="říci" src="auto">VpYS---XR-AA---</AM>
+<AM lemma="říci_:W" src="manual" selected="1">VpYS---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-mf930701-090-p3s3w27">
 <src.rf>manual</src.rf>

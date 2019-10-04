@@ -278,6 +278,7 @@
 <tag>
 <AM lemma="JSR_:B_;G_^(Jugoslávská_svazová_republika)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="JSR_:B_^(Jugoslávská_svazová_republika)" src="auto" recommended="1">NNXXX-----A---8</AM>
+<AM lemma="JSR-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-lnd92252-036-p3s3w5">
@@ -1464,7 +1465,10 @@
 <LM>w#w-lnd92252-036-p7s1w16</LM>
 </w.rf>
 <form>Owenovi</form>
-<tag lemma="Owen_;Y" src="orig" selected="1">NNMS3-----A----</tag>
+<tag>
+<AM lemma="Owen_;Y" src="orig">NNMS3-----A----</AM>
+<AM lemma="Owen_;Y_;S" src="manual" selected="1">NNMS3-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92252-036-p7s1w17">
 <src.rf>manual</src.rf>
@@ -1489,7 +1493,7 @@
 </w.rf>
 <form>Vancovi</form>
 <tag>
-<AM lemma="Vance_;S" src="orig">NNMS3-----A----</AM>
+<AM lemma="Vance_;S" src="orig" selected="1">NNMS3-----A----</AM>
 <AM lemma="Vanc_;S" src="auto" recommended="1">NNMS3-----A---1</AM>
 <AM lemma="Vanc_;S" src="auto">NNMS6-----A---1</AM>
 <AM lemma="Vancův_;S_^(*2)" src="auto">AUMP1M---------</AM>
@@ -1618,6 +1622,7 @@
 <AM lemma="BaH_:B_;G_^(Bosna_a_Hercegovina)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="Bah_;S" src="auto">NNMS1-----A----</AM>
 <AM lemma="bah" src="auto" recommended="1">II-------------</AM>
+<AM lemma="BaH-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-lnd92252-036-p7s1w35">
@@ -1886,7 +1891,10 @@
 <LM>w#w-lnd92252-036-p8s2w15</LM>
 </w.rf>
 <form>OSN</form>
-<tag lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92252-036-p8s2w16">
 <src.rf>manual</src.rf>

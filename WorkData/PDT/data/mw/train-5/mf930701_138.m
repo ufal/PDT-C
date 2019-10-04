@@ -72,6 +72,7 @@
 <tag>
 <AM lemma="is-99_:B_;S" src="orig">NNXXX-----A---8</AM>
 <AM lemma="be_,t_^(angl._je,_v_názvech_apod.)" src="auto" recommended="1">VB-S---3P-AA---</AM>
+<AM lemma="is-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930701-138-p2s1w4">
@@ -410,7 +411,10 @@
 <LM>w#w-mf930701-138-p2s2w11</LM>
 </w.rf>
 <form>milionu</form>
-<tag lemma="milión`1000000" src="orig" selected="1">NNIS2-----A----</tag>
+<tag>
+<AM lemma="milión`1000000" src="orig">NNIS2-----A----</AM>
+<AM lemma="milion`1000000_,s_^(^DD**milión)" src="manual" selected="1">NNIS2-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930701-138-p2s2w12">
 <src.rf>manual</src.rf>
@@ -764,7 +768,10 @@
 <LM>w#w-mf930701-138-p2s3w32</LM>
 </w.rf>
 <form>milionů</form>
-<tag lemma="milión`1000000" src="orig" selected="1">NNIP2-----A----</tag>
+<tag>
+<AM lemma="milión`1000000" src="orig">NNIP2-----A----</AM>
+<AM lemma="milion`1000000_,s_^(^DD**milión)" src="manual" selected="1">NNIP2-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930701-138-p2s3w33">
 <src.rf>manual</src.rf>
@@ -854,7 +861,10 @@
 <LM>w#w-mf930701-138-p2s4w9</LM>
 </w.rf>
 <form>zdvojnásobit</form>
-<tag lemma="zdvojnásobit_:W" src="orig" selected="1">Vf--------A----</tag>
+<tag>
+<AM lemma="zdvojnásobit_:W" src="orig">Vf--------A----</AM>
+<AM lemma="zdvojnásobit_:W_,s_^(^DD**zdvounásobit)" src="manual" selected="1">Vf--------A----</AM>
+</tag>
 </m>
 <m id="m-mf930701-138-p2s4w10">
 <src.rf>manual</src.rf>
@@ -872,7 +882,7 @@
 <form>přičemž</form>
 <tag>
 <AM lemma="přičemž" src="orig">J,-------------</AM>
-<AM lemma="přičemž" src="auto" recommended="1">Db-------------</AM>
+<AM lemma="přičemž" src="auto" recommended="1" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m-mf930701-138-p2s4w12">
@@ -929,7 +939,10 @@
 <LM>w#w-mf930701-138-p2s4w18</LM>
 </w.rf>
 <form>milionů</form>
-<tag lemma="milión`1000000" src="orig" selected="1">NNIP2-----A----</tag>
+<tag>
+<AM lemma="milión`1000000" src="orig">NNIP2-----A----</AM>
+<AM lemma="milion`1000000_,s_^(^DD**milión)" src="manual" selected="1">NNIP2-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930701-138-p2s4w19">
 <src.rf>manual</src.rf>

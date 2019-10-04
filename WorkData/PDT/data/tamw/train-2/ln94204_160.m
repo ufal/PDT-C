@@ -215,7 +215,10 @@
 <LM>w#w-ln94204-160-p2s1Bw11</LM>
 </w.rf>
 <form>kurzů</form>
-<tag lemma="kurs" src="auto" selected="1">NNIP2-----A----</tag>
+<tag>
+<AM lemma="kurs" src="auto">NNIP2-----A----</AM>
+<AM lemma="kurz" src="manual" selected="1">NNIP2-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94204-160-p2s1Bw12">
 <src.rf>manual</src.rf>
@@ -377,7 +380,10 @@
 <LM>w#w-ln94204-160-p2s2w9</LM>
 </w.rf>
 <form>jen</form>
-<tag lemma="jen-1" src="auto" selected="1">TT-------------</tag>
+<tag>
+<AM lemma="jen-1" src="auto">TT-------------</AM>
+<AM lemma="jen-4_^(pouze)" src="manual" selected="1">Db-------------</AM>
+</tag>
 </m>
 <m id="m-ln94204-160-p2s2w10">
 <src.rf>manual</src.rf>
@@ -477,7 +483,7 @@
 <form>kotovaného</form>
 <tag>
 <AM lemma="kótovaný_^(*2t)" src="orig">AAIS2----1A----</AM>
-<AM lemma="kotovaný_^(*2t)" src="auto" recommended="1">AAIS2----1A----</AM>
+<AM lemma="kotovaný_^(*2t)" src="auto" recommended="1" selected="1">AAIS2----1A----</AM>
 <AM lemma="kotovaný_^(*2t)" src="auto">AAMS2----1A----</AM>
 <AM lemma="kotovaný_^(*2t)" src="auto">AAMS4----1A----</AM>
 <AM lemma="kotovaný_^(*2t)" src="auto">AANS2----1A----</AM>
@@ -762,7 +768,7 @@
 <tag>
 <AM lemma="jakýkoliv" src="orig">PZYS1----------</AM>
 <AM lemma="jakýkoli" src="auto" recommended="1">PZIS4---------1</AM>
-<AM lemma="jakýkoli" src="auto">PZYS1---------1</AM>
+<AM lemma="jakýkoli" src="auto" selected="1">PZYS1---------1</AM>
 <AM lemma="jakýkoli" src="auto">PZYS5---------1</AM>
 </tag>
 </m>
@@ -1025,7 +1031,7 @@
 <tag>
 <AM lemma="přece" src="orig">Db-------------</AM>
 <AM lemma="přece-1" src="auto" recommended="1">J^-------------</AM>
-<AM lemma="přece-2" src="auto">TT-------------</AM>
+<AM lemma="přece-2" src="auto" selected="1">TT-------------</AM>
 </tag>
 </m>
 <m id="m-ln94204-160-p4s1w37">

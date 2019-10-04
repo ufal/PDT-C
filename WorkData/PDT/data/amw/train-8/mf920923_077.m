@@ -51,7 +51,10 @@
 <LM>w#w-mf920923-077-p1s1w5</LM>
 </w.rf>
 <form>SPOT</form>
-<tag lemma="spot" src="orig" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="spot" src="orig">NNIS1-----A----</AM>
+<AM lemma="SPOT-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 </s>
 <s id="m-mf920923-077-p2s1">
@@ -78,9 +81,14 @@
 </w.rf>
 <form>vin</form>
 <tag>
-<AM lemma="vin-99_:B_;S" src="orig">NNXXX-----A---8</AM>
+<AM lemma="vin-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</AM>
 <AM lemma="vina" src="auto" recommended="1">NNFP2-----A----</AM>
 </tag>
+<comment>
+<LM type="Other">
+<text>ponechána původní analýza (autorská zkratka)</text>
+</LM>
+</comment>
 </m>
 <m id="m-mf920923-077-p2s1w4">
 <src.rf>manual</src.rf>
@@ -154,7 +162,10 @@
 <LM>w#w-mf920923-077-p2s2w7</LM>
 </w.rf>
 <form>SPOT</form>
-<tag lemma="spot" src="orig" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="spot" src="orig">NNIS1-----A----</AM>
+<AM lemma="SPOT-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-mf920923-077-p2s2w8">
 <src.rf>manual</src.rf>
@@ -422,6 +433,7 @@
 <AM lemma="co-3_^(když:_poté/od_té_doby,_co)" src="auto">J,-------------</AM>
 <AM lemma="co-4_^(který:_př.:_o_těch,_co_odešli/co_je_znal)" src="auto">P4XXX----------</AM>
 <AM lemma="co-5_^(př._co_nejméně,_co_nevidět,_co_chvíli,_co_do_počtu,_atd.)" src="auto">Db-------------</AM>
+<AM lemma="CO-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-mf920923-077-p2s3w8">
@@ -716,6 +728,7 @@
 <AM lemma="co-3_^(když:_poté/od_té_doby,_co)" src="auto">J,-------------</AM>
 <AM lemma="co-4_^(který:_př.:_o_těch,_co_odešli/co_je_znal)" src="auto">P4XXX----------</AM>
 <AM lemma="co-5_^(př._co_nejméně,_co_nevidět,_co_chvíli,_co_do_počtu,_atd.)" src="auto">Db-------------</AM>
+<AM lemma="CO-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-mf920923-077-p2s5w9">
@@ -822,7 +835,10 @@
 <LM>w#w-mf920923-077-p2s6w6</LM>
 </w.rf>
 <form>SPOT</form>
-<tag lemma="spot" src="orig" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="spot" src="orig">NNIS1-----A----</AM>
+<AM lemma="SPOT-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-mf920923-077-p2s6w7">
 <src.rf>manual</src.rf>

@@ -387,7 +387,10 @@
 <LM>w#w-mf930702-001-p2s4w7</LM>
 </w.rf>
 <form>neřekl</form>
-<tag lemma="říci" src="auto" selected="1">VpYS---XR-NA---</tag>
+<tag>
+<AM lemma="říci" src="auto">VpYS---XR-NA---</AM>
+<AM lemma="říci_:W" src="manual" selected="1">VpYS---XR-NA---</AM>
+</tag>
 </m>
 <m id="m-mf930702-001-p2s4w8">
 <src.rf>manual</src.rf>

@@ -104,6 +104,7 @@
 <tag>
 <AM lemma="km-99_:B_;S" src="orig">NNXXX-----A---8</AM>
 <AM lemma="km-1`kilometr_:B" src="auto" recommended="1">NNIXX-----A---8</AM>
+<AM lemma="km-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930709-073-p2s1Aw4">
@@ -262,7 +263,7 @@
 <form>totiž</form>
 <tag>
 <AM lemma="totiž" src="orig">Db-------------</AM>
-<AM lemma="totiž-1" src="auto" recommended="1">J^-------------</AM>
+<AM lemma="totiž-1" src="auto" recommended="1" selected="1">J^-------------</AM>
 <AM lemma="totiž-2" src="auto">TT-------------</AM>
 </tag>
 </m>
@@ -564,7 +565,10 @@
 <LM>w#w-mf930709-073-p3s2w14</LM>
 </w.rf>
 <form>řekl</form>
-<tag lemma="říci" src="auto" selected="1">VpYS---XR-AA---</tag>
+<tag>
+<AM lemma="říci" src="auto">VpYS---XR-AA---</AM>
+<AM lemma="říci_:W" src="manual" selected="1">VpYS---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-mf930709-073-p3s2w15">
 <src.rf>manual</src.rf>
@@ -795,6 +799,7 @@
 <tag>
 <AM lemma="Ivica_;Y" src="orig">NNFS1-----A----</AM>
 <AM lemma="Ivica_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Ivica-2_;Y" src="manual" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930709-073-p3s4w8">
@@ -804,7 +809,7 @@
 </w.rf>
 <form>Brestovanská</form>
 <tag>
-<AM lemma="Brestovanská_;S" src="orig">NNFS1-----A----</AM>
+<AM lemma="Brestovanská_;S" src="orig" selected="1">NNFS1-----A----</AM>
 <AM lemma="brestovanský" src="auto" recommended="1">AAFS1----1A----</AM>
 <AM lemma="brestovanský" src="auto">AAFS5----1A----</AM>
 <AM lemma="brestovanský" src="auto">AANP1----1A----</AM>
@@ -826,7 +831,10 @@
 <LM>w#w-mf930709-073-p3s4w10</LM>
 </w.rf>
 <form>řekla</form>
-<tag lemma="říci" src="auto" selected="1">VpQW---XR-AA---</tag>
+<tag>
+<AM lemma="říci" src="auto">VpQW---XR-AA---</AM>
+<AM lemma="říci_:W" src="manual" selected="1">VpQW---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-mf930709-073-p3s4w11">
 <src.rf>manual</src.rf>
@@ -1127,7 +1135,7 @@
 </w.rf>
 <form>Brestovanská</form>
 <tag>
-<AM lemma="Brestovanská_;S" src="orig">NNFS1-----A----</AM>
+<AM lemma="Brestovanská_;S" src="orig" selected="1">NNFS1-----A----</AM>
 <AM lemma="brestovanský" src="auto" recommended="1">AAFS1----1A----</AM>
 <AM lemma="brestovanský" src="auto">AAFS5----1A----</AM>
 <AM lemma="brestovanský" src="auto">AANP1----1A----</AM>
@@ -1141,7 +1149,10 @@
 <LM>w#w-mf930709-073-p4s2w2</LM>
 </w.rf>
 <form>řekla</form>
-<tag lemma="říci" src="auto" selected="1">VpQW---XR-AA---</tag>
+<tag>
+<AM lemma="říci" src="auto">VpQW---XR-AA---</AM>
+<AM lemma="říci_:W" src="manual" selected="1">VpQW---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-mf930709-073-p4s2w3">
 <src.rf>manual</src.rf>
@@ -1189,7 +1200,10 @@
 <LM>w#w-mf930709-073-p4s2w8</LM>
 </w.rf>
 <form>nepřijde</form>
-<tag lemma="přijít" src="orig" selected="1">VB-S---3P-NA---</tag>
+<tag>
+<AM lemma="přijít" src="orig">VB-S---3P-NA---</AM>
+<AM lemma="přijít_:W" src="manual" selected="1">VB-S---3P-NA---</AM>
+</tag>
 </m>
 <m id="m-mf930709-073-p4s2w9">
 <src.rf>manual</src.rf>
@@ -1351,7 +1365,10 @@
 <LM>w#w-mf930709-073-p4s3w13</LM>
 </w.rf>
 <form>uvedla</form>
-<tag lemma="uvést" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag>
+<AM lemma="uvést" src="orig">VpQW---XR-AA---</AM>
+<AM lemma="uvést_:W" src="manual" selected="1">VpQW---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-mf930709-073-p4s3w14">
 <src.rf>manual</src.rf>

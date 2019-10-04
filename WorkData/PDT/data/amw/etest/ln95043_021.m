@@ -315,6 +315,7 @@
 <tag>
 <AM lemma="sovět-2_^(občan_SSSR)" src="orig">NNMP2-----A----</AM>
 <AM lemma="sovět-1_^(rada;_výbor)" src="auto" recommended="1">NNIP2-----A----</AM>
+<AM lemma="sovět-2_;E_^(občan_SSSR)" src="manual" selected="1">NNMP2-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95043-021-p2s2w11">
@@ -403,7 +404,10 @@
 <LM>w#w-ln95043-021-p2s2w21</LM>
 </w.rf>
 <form>Calgary</form>
-<tag lemma="Calgary_;G" src="orig" selected="1">NNNXX-----A----</tag>
+<tag>
+<AM lemma="Calgary_;G" src="orig">NNNXX-----A----</AM>
+<AM lemma="Calgary-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln95043-021-p2s2w22">
 <src.rf>manual</src.rf>
@@ -411,7 +415,10 @@
 <LM>w#w-ln95043-021-p2s2w22</LM>
 </w.rf>
 <form>Flames</form>
-<tag lemma="Flames_;K" src="orig" selected="1">NNISX-----A----</tag>
+<tag>
+<AM lemma="Flames_;K" src="orig">NNISX-----A----</AM>
+<AM lemma="Flames-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln95043-021-p2s2w23">
 <src.rf>manual</src.rf>
@@ -649,7 +656,10 @@
 <LM>w#w-ln95043-021-p2s5w2</LM>
 </w.rf>
 <form>Výborný</form>
-<tag lemma="výborný" src="orig" selected="1">AAMS1----1A----</tag>
+<tag>
+<AM lemma="výborný" src="orig">AAMS1----1A----</AM>
+<AM lemma="Výborný_;S" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95043-021-p2s5w3">
 <src.rf>manual</src.rf>
@@ -779,7 +789,7 @@
 <form>Vánocích</form>
 <tag>
 <AM lemma="vánoce" src="orig">NNFP6-----A----</AM>
-<AM lemma="Vánoce" src="auto">NNFP6-----A----</AM>
+<AM lemma="Vánoce" src="auto" selected="1">NNFP6-----A----</AM>
 <AM lemma="Vánoce_,x" src="auto" recommended="1">NNFP6-----A----</AM>
 </tag>
 </m>
@@ -797,7 +807,10 @@
 <LM>w#w-ln95043-021-p2s5w20</LM>
 </w.rf>
 <form>hodně</form>
-<tag lemma="hodně-2_^(nezlobivý)_(*3ý-2)" src="auto" selected="1">Dg-------1A----</tag>
+<tag>
+<AM lemma="hodně-2_^(nezlobivý)_(*3ý-2)" src="auto">Dg-------1A----</AM>
+<AM lemma="hodně-3" src="manual" selected="1">Dg-------1A----</AM>
+</tag>
 </m>
 <m id="m-ln95043-021-p2s5w21">
 <src.rf>manual</src.rf>
@@ -1586,7 +1599,10 @@
 <LM>w#w-ln95043-021-p2s10w3</LM>
 </w.rf>
 <form>ani</form>
-<tag lemma="ani-1" src="auto" selected="1">J^-------------</tag>
+<tag>
+<AM lemma="ani-1" src="auto">J^-------------</AM>
+<AM lemma="ani-2" src="manual" selected="1">TT-------------</AM>
+</tag>
 </m>
 <m id="m-ln95043-021-p2s10w4">
 <src.rf>manual</src.rf>

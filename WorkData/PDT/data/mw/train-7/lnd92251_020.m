@@ -19,7 +19,10 @@
 <LM>w#w-lnd92251-020-p1s1w1</LM>
 </w.rf>
 <form>V</form>
-<tag lemma="V-0_:B_;Y" src="orig" selected="1">NNMXX-----A---8</tag>
+<tag>
+<AM lemma="V-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
+<AM lemma="V-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd92251-020-p1s1w2">
 <src.rf>manual</src.rf>
@@ -97,7 +100,10 @@
 <LM>w#w-lnd92251-020-p3s1w3</LM>
 </w.rf>
 <form>fsch</form>
-<tag lemma="fsch-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="fsch-99_:B_;S" src="orig">NNXXX-----A---8</AM>
+<AM lemma="fsch-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92251-020-p3s1w4">
 <src.rf>manual</src.rf>
@@ -365,7 +371,10 @@
 <LM>w#w-lnd92251-020-p3s3w1</LM>
 </w.rf>
 <form>Řekl</form>
-<tag lemma="říci" src="auto" selected="1">VpYS---XR-AA---</tag>
+<tag>
+<AM lemma="říci" src="auto">VpYS---XR-AA---</AM>
+<AM lemma="říci_:W" src="manual" selected="1">VpYS---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-lnd92251-020-p3s3w2">
 <src.rf>manual</src.rf>
@@ -599,7 +608,10 @@
 <LM>w#w-lnd92251-020-p3s4w12</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-2" src="auto" selected="1">Dg-------2A----</tag>
+<tag>
+<AM lemma="hodně-2" src="auto">Dg-------2A----</AM>
+<AM lemma="hodně-3" src="manual" selected="1">Dg-------2A----</AM>
+</tag>
 </m>
 <m id="m-lnd92251-020-p3s4w13">
 <src.rf>manual</src.rf>
@@ -747,7 +759,10 @@
 <LM>w#w-lnd92251-020-p3s6w2</LM>
 </w.rf>
 <form>přijali</form>
-<tag lemma="přijmout" src="auto" selected="1">VpMP---XR-AA---</tag>
+<tag>
+<AM lemma="přijmout" src="auto">VpMP---XR-AA---</AM>
+<AM lemma="přijmout_:W" src="manual" selected="1">VpMP---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-lnd92251-020-p3s6w3">
 <src.rf>manual</src.rf>
@@ -1131,7 +1146,10 @@
 <LM>w#w-lnd92251-020-p3s6w51</LM>
 </w.rf>
 <form>dualismu</form>
-<tag lemma="dualismus" src="orig" selected="1">NNIS2-----A----</tag>
+<tag>
+<AM lemma="dualismus" src="orig">NNIS2-----A----</AM>
+<AM lemma="dualismus_,s_^(^DD**dualizmus)" src="manual" selected="1">NNIS2-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92251-020-p3s6w52">
 <src.rf>manual</src.rf>

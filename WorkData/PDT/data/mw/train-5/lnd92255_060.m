@@ -71,7 +71,10 @@
 <LM>w#w-lnd92255-060-p3s1w1</LM>
 </w.rf>
 <form>PORT</form>
-<tag lemma="port" src="orig" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="port" src="orig">NNIS1-----A----</AM>
+<AM lemma="PORT-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-lnd92255-060-p3s1w2">
 <src.rf>manual</src.rf>
@@ -83,6 +86,7 @@
 <AM lemma="Moresby_;G" src="orig">NNXXX-----A----</AM>
 <AM lemma="Moresby_;S" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Moresby_;S" src="auto">NNMS5-----A----</AM>
+<AM lemma="MORESBY-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-lnd92255-060-p3s1w3">
@@ -114,7 +118,7 @@
 <AM lemma="Papua_;G" src="auto">NNFP1-----A---1</AM>
 <AM lemma="Papua_;G" src="auto">NNFP4-----A---1</AM>
 <AM lemma="Papua_;G" src="auto">NNFP5-----A---1</AM>
-<AM lemma="Papua_;G" src="auto" recommended="1">NNFS2-----A---1</AM>
+<AM lemma="Papua_;G" src="auto" recommended="1" selected="1">NNFS2-----A---1</AM>
 </tag>
 </m>
 <m id="m-lnd92255-060-p3s2w3">
@@ -269,7 +273,7 @@
 <form>Bougainville</form>
 <tag>
 <AM lemma="Bougainville_;G" src="orig">NNIS1-----A----</AM>
-<AM lemma="Bougainville-1_;G" src="auto" recommended="1">NNNXX-----A----</AM>
+<AM lemma="Bougainville-1_;G" src="auto" recommended="1" selected="1">NNNXX-----A----</AM>
 <AM lemma="Bougainville-2_;S" src="auto">NNMS1-----A----</AM>
 <AM lemma="Bougainville-2_;S" src="auto">NNMS5-----A----</AM>
 </tag>
@@ -457,6 +461,7 @@
 <AM lemma="port" src="auto" recommended="1">NNIS4-----A----</AM>
 <AM lemma="porta" src="auto">NNFP2-----A----</AM>
 <AM lemma="porto" src="auto">NNNP2-----A----</AM>
+<AM lemma="Port-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-lnd92255-060-p3s3w6">
@@ -469,6 +474,7 @@
 <AM lemma="Moresby_;G" src="orig">NNXXX-----A----</AM>
 <AM lemma="Moresby_;S" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Moresby_;S" src="auto">NNMS5-----A----</AM>
+<AM lemma="Moresby-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-lnd92255-060-p3s3w7">
@@ -715,7 +721,7 @@
 <form>vůbec</form>
 <tag>
 <AM lemma="vůbec" src="orig">Db-------------</AM>
-<AM lemma="vůbec" src="auto" recommended="1">TT-------------</AM>
+<AM lemma="vůbec" src="auto" recommended="1" selected="1">TT-------------</AM>
 </tag>
 </m>
 <m id="m-lnd92255-060-p3s5w17">
@@ -829,7 +835,7 @@
 <AM lemma="Papua_;G" src="auto">NNFP1-----A---1</AM>
 <AM lemma="Papua_;G" src="auto">NNFP4-----A---1</AM>
 <AM lemma="Papua_;G" src="auto">NNFP5-----A---1</AM>
-<AM lemma="Papua_;G" src="auto" recommended="1">NNFS2-----A---1</AM>
+<AM lemma="Papua_;G" src="auto" recommended="1" selected="1">NNFS2-----A---1</AM>
 </tag>
 </m>
 <m id="m-lnd92255-060-p3s7w3">

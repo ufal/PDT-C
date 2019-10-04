@@ -54,7 +54,7 @@
 </w.rf>
 <form>r</form>
 <tag>
-<AM lemma="r-99_:B_;S" src="orig">NNXXX-----A---8</AM>
+<AM lemma="r-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</AM>
 <AM lemma="r-3_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
 <AM lemma="r-8_:B_^(ost._zkratka)" src="auto">XX------------8</AM>
 <AM lemma="režie_:B" src="auto">NNFXX-----A---8</AM>
@@ -628,7 +628,10 @@
 <LM>w#w-lnd92259-030-p2s5w11</LM>
 </w.rf>
 <form>VUT</form>
-<tag lemma="VUT_:B_;K" src="auto" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="VUT_:B_;K" src="auto">NNXXX-----A---8</AM>
+<AM lemma="VUT-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd92259-030-p2s5w12">
 <src.rf>manual</src.rf>
@@ -692,7 +695,10 @@
 <LM>w#w-lnd92259-030-p2s5w19</LM>
 </w.rf>
 <form>kursů</form>
-<tag lemma="kurs" src="auto" selected="1">NNIP2-----A----</tag>
+<tag>
+<AM lemma="kurs" src="auto">NNIP2-----A----</AM>
+<AM lemma="kurs_,s_^(^DD**kurz)" src="manual" selected="1">NNIP2-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92259-030-p2s5w20">
 <src.rf>manual</src.rf>

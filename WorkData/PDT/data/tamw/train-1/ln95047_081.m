@@ -59,7 +59,11 @@
 <LM>w#w-ln95047-081-p1s1w6</LM>
 </w.rf>
 <form>zoo</form>
-<tag lemma="ZOO_:B" src="orig" selected="1">NNFXX-----A----</tag>
+<tag>
+<AM lemma="ZOO_:B" src="orig">NNFXX-----A----</AM>
+<AM lemma="zoo_:B_^(^zoologická_zahrada)" src="manual">NNFXX-----A----</AM>
+<AM lemma="zoo_:B_^(zoologická_zahrada)" src="manual" selected="1">NNFXX-----A----</AM>
+</tag>
 </m>
 </s>
 <s id="m-ln95047-081-p2s1">
@@ -287,7 +291,10 @@
 <LM>w#w-ln95047-081-p2s2w7</LM>
 </w.rf>
 <form>BTA</form>
-<tag lemma="BTA-1_:B_;K_,t_^(Balgarska_telegrafna_agencija)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="BTA-1_:B_;K_,t_^(Balgarska_telegrafna_agencija)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="BTA-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95047-081-p2s2w8">
 <src.rf>manual</src.rf>
@@ -419,7 +426,7 @@
 <form>ukradeno</form>
 <tag>
 <AM lemma="ukradnout" src="orig">VsNS---XX-AP---</AM>
-<AM lemma="ukrást" src="auto" recommended="1">VsNS---XX-AP---</AM>
+<AM lemma="ukrást" src="auto" recommended="1" selected="1">VsNS---XX-AP---</AM>
 </tag>
 </m>
 <m id="m-ln95047-081-p2s3w9">
@@ -604,7 +611,10 @@
 <LM>w#w-ln95047-081-p2s3w31</LM>
 </w.rf>
 <form>zoo</form>
-<tag lemma="ZOO_:B" src="orig" selected="1">NNFXX-----A----</tag>
+<tag>
+<AM lemma="ZOO_:B" src="orig">NNFXX-----A----</AM>
+<AM lemma="zoo_:B_^(zoologická_zahrada)" src="manual" selected="1">NNFXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95047-081-p2s3w32">
 <src.rf>manual</src.rf>
@@ -637,10 +647,15 @@
 </w.rf>
 <form>Assen</form>
 <tag>
-<AM lemma="Assen-2_;Y" src="orig">NNMS1-----A----</AM>
+<AM lemma="Assen-2_;Y" src="orig" selected="1">NNMS1-----A----</AM>
 <AM lemma="Assen_;G" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Assen_;G" src="auto">NNIS4-----A----</AM>
 </tag>
+<comment>
+<LM type="Other">
+<text>ponechána původní "červená" ananlýza</text>
+</LM>
+</comment>
 </m>
 <m id="m-ln95047-081-p2s3w36">
 <src.rf>manual</src.rf>

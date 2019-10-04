@@ -398,6 +398,7 @@
 <tag>
 <AM lemma="RVHP-1_;K_;p_;b" src="orig">NNFXX-----A---8</AM>
 <AM lemma="RVHP-1_:B_;K_;b_;p" src="auto" recommended="1">NNNXX-----A---8</AM>
+<AM lemma="RVHP-1_:B_;K" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94201-95-p2s4w8">
@@ -568,7 +569,10 @@
 <LM>w#w-ln94201-95-p2s5w8</LM>
 </w.rf>
 <form>socialismus</form>
-<tag lemma="socialismus" src="orig" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="socialismus" src="orig">NNIS1-----A----</AM>
+<AM lemma="socialismus_,s_^(^DD**socializmus)" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94201-95-p2s5w9">
 <src.rf>manual</src.rf>
@@ -1187,7 +1191,7 @@
 <tag>
 <AM lemma="tedy" src="orig">Db-------------</AM>
 <AM lemma="tedy-1" src="auto">TT-------------</AM>
-<AM lemma="tedy-2" src="auto" recommended="1">J^-------------</AM>
+<AM lemma="tedy-2" src="auto" recommended="1" selected="1">J^-------------</AM>
 </tag>
 </m>
 <m id="m-ln94201-95-p2s13w13">
@@ -1716,7 +1720,10 @@
 <LM>w#w-ln94201-95-p2s17w10</LM>
 </w.rf>
 <form>SNP</form>
-<tag lemma="SNP-1_:B_;K_;p_^(Slovenské_národní_povstání)" src="orig" selected="1">NNNXX-----A---8</tag>
+<tag>
+<AM lemma="SNP-1_:B_;K_;p_^(Slovenské_národní_povstání)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="SNP-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln94201-95-p2s17w11">
 <src.rf>manual</src.rf>
@@ -3179,7 +3186,7 @@
 <tag>
 <AM lemma="tady" src="orig">Db------------1</AM>
 <AM lemma="ten" src="auto">PDFS4----------</AM>
-<AM lemma="tu" src="auto" recommended="1">Db-------------</AM>
+<AM lemma="tu" src="auto" recommended="1" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m-ln94201-95-p3s8w3">
@@ -3325,6 +3332,7 @@
 <AM lemma="renezanční" src="auto">AANS1----1A----</AM>
 <AM lemma="renezanční" src="auto">AANS4----1A----</AM>
 <AM lemma="renezanční" src="auto">AANS5----1A----</AM>
+<AM lemma="renesanční_,s_^(^DD**renezanční)" src="manual" selected="1">AAFP1----1A----</AM>
 </tag>
 </m>
 <m id="m-ln94201-95-p3s10w2">
@@ -3368,7 +3376,7 @@
 <tag>
 <AM lemma="tady" src="orig">Db------------1</AM>
 <AM lemma="ten" src="auto" recommended="1">PDFS4----------</AM>
-<AM lemma="tu" src="auto">Db-------------</AM>
+<AM lemma="tu" src="auto" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m-ln94201-95-p3s10w7">
@@ -4130,7 +4138,7 @@
 <tag>
 <AM lemma="tady" src="orig">Db------------1</AM>
 <AM lemma="ten" src="auto">PDFS4----------</AM>
-<AM lemma="tu" src="auto" recommended="1">Db-------------</AM>
+<AM lemma="tu" src="auto" recommended="1" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m-ln94201-95-p4s2w6">
@@ -4290,7 +4298,7 @@
 <tag>
 <AM lemma="tady" src="orig">Db------------1</AM>
 <AM lemma="ten" src="auto" recommended="1">PDFS4----------</AM>
-<AM lemma="tu" src="auto">Db-------------</AM>
+<AM lemma="tu" src="auto" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m-ln94201-95-p4s4w3">
@@ -4707,7 +4715,10 @@
 <LM>w#w-ln94201-95-p5s1w10</LM>
 </w.rf>
 <form>ing</form>
-<tag lemma="Ing-1_:B_^(inženýr)" src="orig" selected="1">NNMXX-----A---8</tag>
+<tag>
+<AM lemma="Ing-1_:B_^(inženýr)" src="orig">NNMXX-----A---8</AM>
+<AM lemma="ing_:B_^(inženýr)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94201-95-p5s1w11">
 <src.rf>manual</src.rf>
@@ -4965,7 +4976,10 @@
 <LM>w#w-ln94201-95-p5s2w14</LM>
 </w.rf>
 <form>miliony</form>
-<tag lemma="milión`1000000" src="orig" selected="1">NNIP4-----A----</tag>
+<tag>
+<AM lemma="milión`1000000" src="orig">NNIP4-----A----</AM>
+<AM lemma="milion`1000000_,s_^(^DD**milión)" src="manual" selected="1">NNIP4-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94201-95-p5s2w15">
 <src.rf>manual</src.rf>
@@ -5127,7 +5141,10 @@
 <LM>w#w-ln94201-95-p5s3w11</LM>
 </w.rf>
 <form>jen</form>
-<tag lemma="jen-1" src="auto" selected="1">TT-------------</tag>
+<tag>
+<AM lemma="jen-1" src="auto">TT-------------</AM>
+<AM lemma="jen-4_^(pouze)" src="manual" selected="1">Db-------------</AM>
+</tag>
 </m>
 <m id="m-ln94201-95-p5s3w12">
 <src.rf>manual</src.rf>
@@ -5201,7 +5218,10 @@
 <LM>w#w-ln94201-95-p5s4w3</LM>
 </w.rf>
 <form>SNP</form>
-<tag lemma="SNP-1_:B_;K_;p_^(Slovenské_národní_povstání)" src="orig" selected="1">NNNXX-----A---8</tag>
+<tag>
+<AM lemma="SNP-1_:B_;K_;p_^(Slovenské_národní_povstání)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="SNP-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln94201-95-p5s4w4">
 <src.rf>manual</src.rf>
@@ -5599,7 +5619,10 @@
 <LM>w#w-ln94201-95-p5s7w8</LM>
 </w.rf>
 <form>fašismu</form>
-<tag lemma="fašismus" src="orig" selected="1">NNIS3-----A----</tag>
+<tag>
+<AM lemma="fašismus" src="orig">NNIS3-----A----</AM>
+<AM lemma="fašismus_,s_^(^DD**fašizmus)" src="manual" selected="1">NNIS3-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94201-95-p5s7w9">
 <src.rf>manual</src.rf>
@@ -5753,7 +5776,10 @@
 <LM>w#w-ln94201-95-p5s8w9</LM>
 </w.rf>
 <form>SNP</form>
-<tag lemma="SNP-1_:B_;K_;p_^(Slovenské_národní_povstání)" src="orig" selected="1">NNNXX-----A---8</tag>
+<tag>
+<AM lemma="SNP-1_:B_;K_;p_^(Slovenské_národní_povstání)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="SNP-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln94201-95-p5s8w10">
 <src.rf>manual</src.rf>
@@ -6041,7 +6067,7 @@
 <form>nejen</form>
 <tag>
 <AM lemma="nejen" src="orig">TT-------------</AM>
-<AM lemma="nejen" src="auto" recommended="1">Db-------------</AM>
+<AM lemma="nejen" src="auto" recommended="1" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m-ln94201-95-p6s3w10">
@@ -6215,7 +6241,7 @@
 <tag>
 <AM lemma="tady" src="orig">Db------------1</AM>
 <AM lemma="ten" src="auto">PDFS4----------</AM>
-<AM lemma="tu" src="auto" recommended="1">Db-------------</AM>
+<AM lemma="tu" src="auto" recommended="1" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m-ln94201-95-p6s4w16">
@@ -6478,7 +6504,10 @@
 <LM>w#w-ln94201-95-p6s7w14</LM>
 </w.rf>
 <form>jen</form>
-<tag lemma="jen-1" src="auto" selected="1">TT-------------</tag>
+<tag>
+<AM lemma="jen-1" src="auto">TT-------------</AM>
+<AM lemma="jen-4_^(pouze)" src="manual" selected="1">Db-------------</AM>
+</tag>
 </m>
 <m id="m-ln94201-95-p6s7w15">
 <src.rf>manual</src.rf>
@@ -6553,7 +6582,7 @@
 <tag>
 <AM lemma="tady" src="orig">Db------------1</AM>
 <AM lemma="ten" src="auto" recommended="1">PDFS4----------</AM>
-<AM lemma="tu" src="auto">Db-------------</AM>
+<AM lemma="tu" src="auto" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m-ln94201-95-p6s7w24">
@@ -6610,7 +6639,10 @@
 <LM>w#w-ln94201-95-p6s7w30</LM>
 </w.rf>
 <form>jen</form>
-<tag lemma="jen-1" src="auto" selected="1">TT-------------</tag>
+<tag>
+<AM lemma="jen-1" src="auto">TT-------------</AM>
+<AM lemma="jen-4_^(pouze)" src="manual" selected="1">Db-------------</AM>
+</tag>
 </m>
 <m id="m-ln94201-95-p6s7w31">
 <src.rf>manual</src.rf>
@@ -6827,7 +6859,7 @@
 <tag>
 <AM lemma="přesto" src="orig">Dg-------1A----</AM>
 <AM lemma="přesto-1" src="auto">Db-------------</AM>
-<AM lemma="přesto-2" src="auto" recommended="1">J^-------------</AM>
+<AM lemma="přesto-2" src="auto" recommended="1" selected="1">J^-------------</AM>
 </tag>
 </m>
 <m id="m-ln94201-95-p7s1w2">
@@ -6945,7 +6977,7 @@
 <tag>
 <AM lemma="tady" src="orig">Db------------1</AM>
 <AM lemma="ten" src="auto" recommended="1">PDFS4----------</AM>
-<AM lemma="tu" src="auto">Db-------------</AM>
+<AM lemma="tu" src="auto" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m-ln94201-95-p7s2w5">
@@ -6954,7 +6986,10 @@
 <LM>w#w-ln94201-95-p7s2w5</LM>
 </w.rf>
 <form>nejvíc</form>
-<tag lemma="hodně-2" src="auto" selected="1">Dg-------3A---1</tag>
+<tag>
+<AM lemma="hodně-2" src="auto">Dg-------3A---1</AM>
+<AM lemma="nejvíce_^(nejvíce_+_2._p.,_nejvíce_peněz)" src="manual" selected="1">Ca--4---------1</AM>
+</tag>
 </m>
 <m id="m-ln94201-95-p7s2w6">
 <src.rf>manual</src.rf>
@@ -6978,7 +7013,10 @@
 <LM>w#w-ln94201-95-p7s2w8</LM>
 </w.rf>
 <form>HZDS</form>
-<tag lemma="HZDS-1_:B_;K_;p_,t_^(Hnutie_za_demokratické_Slovensko)" src="orig" selected="1">NNNXX-----A---8</tag>
+<tag>
+<AM lemma="HZDS-1_:B_;K_;p_,t_^(Hnutie_za_demokratické_Slovensko)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="HZDS-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln94201-95-p7s2w9">
 <src.rf>manual</src.rf>
@@ -7118,7 +7156,10 @@
 <LM>w#w-ln94201-95-p7s4w9</LM>
 </w.rf>
 <form>ani</form>
-<tag lemma="ani-1" src="auto" selected="1">J^-------------</tag>
+<tag>
+<AM lemma="ani-1" src="auto">J^-------------</AM>
+<AM lemma="ani-2" src="manual" selected="1">TT-------------</AM>
+</tag>
 </m>
 <m id="m-ln94201-95-p7s4w10">
 <src.rf>manual</src.rf>
@@ -7150,7 +7191,10 @@
 <LM>w#w-ln94201-95-p7s4w13</LM>
 </w.rf>
 <form>HZDS</form>
-<tag lemma="HZDS-1_:B_;K_;p_,t_^(Hnutie_za_demokratické_Slovensko)" src="orig" selected="1">NNNXX-----A---8</tag>
+<tag>
+<AM lemma="HZDS-1_:B_;K_;p_,t_^(Hnutie_za_demokratické_Slovensko)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="HZDS-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln94201-95-p7s4w14">
 <src.rf>manual</src.rf>
@@ -7232,7 +7276,10 @@
 <LM>w#w-ln94201-95-p7s5w9</LM>
 </w.rf>
 <form>VPN</form>
-<tag lemma="VPN_:B_;K_;p" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="VPN_:B_;K_;p" src="orig">NNFXX-----A---8</AM>
+<AM lemma="VPN-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln94201-95-p7s5w10">
 <src.rf>manual</src.rf>
@@ -7336,7 +7383,10 @@
 <LM>w#w-ln94201-95-p7s5w22</LM>
 </w.rf>
 <form>HZDS</form>
-<tag lemma="HZDS-1_:B_;K_;p_,t_^(Hnutie_za_demokratické_Slovensko)" src="orig" selected="1">NNNXX-----A---8</tag>
+<tag>
+<AM lemma="HZDS-1_:B_;K_;p_,t_^(Hnutie_za_demokratické_Slovensko)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="HZDS-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln94201-95-p7s5w23">
 <src.rf>manual</src.rf>
@@ -7700,7 +7750,7 @@
 <AM lemma="Bystrica_;G" src="auto">NNFP4-----A----</AM>
 <AM lemma="Bystrica_;G" src="auto">NNFP5-----A----</AM>
 <AM lemma="Bystrica_;G" src="auto">NNFS2-----A----</AM>
-<AM lemma="Bystrica_;G" src="auto" recommended="1">NNFS3-----A---1</AM>
+<AM lemma="Bystrica_;G" src="auto" recommended="1" selected="1">NNFS3-----A---1</AM>
 <AM lemma="Bystrica_;G" src="auto">NNFS4-----A---1</AM>
 <AM lemma="Bystrica_;G" src="auto">NNFS6-----A---1</AM>
 </tag>
@@ -7793,7 +7843,10 @@
 <LM>w#w-ln94201-95-p8s2w8</LM>
 </w.rf>
 <form>von</form>
-<tag lemma="von-2_,t" src="orig" selected="1">RR--X----------</tag>
+<tag>
+<AM lemma="von-2_,t" src="orig">RR--X----------</AM>
+<AM lemma="von-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94201-95-p8s2w9">
 <src.rf>manual</src.rf>
@@ -8209,7 +8262,10 @@
 <LM>w#w-ln94201-95-p9s4w18</LM>
 </w.rf>
 <form>jen</form>
-<tag lemma="jen-1" src="auto" selected="1">TT-------------</tag>
+<tag>
+<AM lemma="jen-1" src="auto">TT-------------</AM>
+<AM lemma="jen-4_^(pouze)" src="manual" selected="1">Db-------------</AM>
+</tag>
 </m>
 <m id="m-ln94201-95-p9s4w19">
 <src.rf>manual</src.rf>
@@ -8373,7 +8429,10 @@
 <LM>w#w-ln94201-95-p9s6w3</LM>
 </w.rf>
 <form>jen</form>
-<tag lemma="jen-1" src="auto" selected="1">TT-------------</tag>
+<tag>
+<AM lemma="jen-1" src="auto">TT-------------</AM>
+<AM lemma="jen-4_^(pouze)" src="manual" selected="1">Db-------------</AM>
+</tag>
 </m>
 <m id="m-ln94201-95-p9s6w4">
 <src.rf>manual</src.rf>
@@ -8982,7 +9041,7 @@
 <tag>
 <AM lemma="matka" src="orig">NNFS1-----A----</AM>
 <AM lemma="matka-1_^(malá_součástka)" src="auto" recommended="1">NNFS1-----A----</AM>
-<AM lemma="matka-2_^(maminka)" src="auto">NNFS1-----A----</AM>
+<AM lemma="matka-2_^(maminka)" src="auto" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94201-95-p9s13w21">
@@ -10012,7 +10071,7 @@
 <AM lemma="Bystrica_;G" src="auto">NNFP1-----A---1</AM>
 <AM lemma="Bystrica_;G" src="auto">NNFP4-----A---1</AM>
 <AM lemma="Bystrica_;G" src="auto">NNFP5-----A---1</AM>
-<AM lemma="Bystrica_;G" src="auto" recommended="1">NNFS2-----A---1</AM>
+<AM lemma="Bystrica_;G" src="auto" recommended="1" selected="1">NNFS2-----A---1</AM>
 <AM lemma="Bystrica_;G" src="auto">NNFS3-----A----</AM>
 <AM lemma="Bystrica_;G" src="auto">NNFS6-----A----</AM>
 </tag>
@@ -10271,7 +10330,10 @@
 <LM>w#w-ln94201-95-p12s3w9</LM>
 </w.rf>
 <form>tzv</form>
-<tag lemma="takzvaný_:B" src="orig" selected="1">AAXXX----1A---8</tag>
+<tag>
+<AM lemma="takzvaný_:B" src="orig">AAXXX----1A---8</AM>
+<AM lemma="takzvaný" src="manual" selected="1">AAXXX----1A---8</AM>
+</tag>
 </m>
 <m id="m-ln94201-95-p12s3w10">
 <src.rf>manual</src.rf>
@@ -10967,7 +11029,10 @@
 <LM>w#w-ln94201-95-p14s3w10</LM>
 </w.rf>
 <form>víc</form>
-<tag lemma="hodně-2" src="auto" selected="1">Dg-------2A---1</tag>
+<tag>
+<AM lemma="hodně-2" src="auto">Dg-------2A---1</AM>
+<AM lemma="hodně-3" src="manual" selected="1">Dg-------2A---1</AM>
+</tag>
 </m>
 <m id="m-ln94201-95-p14s3w11">
 <src.rf>manual</src.rf>
@@ -11309,7 +11374,10 @@
 <LM>w#w-ln94201-95-p14s6w6</LM>
 </w.rf>
 <form>Voloďa</form>
-<tag lemma="Voloďa_;Y_,t" src="auto" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Voloďa_;Y_,t" src="auto">NNMS1-----A----</AM>
+<AM lemma="Voloďa_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94201-95-p14s6w7">
 <src.rf>manual</src.rf>
@@ -11317,7 +11385,10 @@
 <LM>w#w-ln94201-95-p14s6w7</LM>
 </w.rf>
 <form>Bláhovec</form>
-<tag lemma="bláhovec" src="orig" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="bláhovec" src="orig">NNMS1-----A----</AM>
+<AM lemma="Bláhovec_;S" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94201-95-p14s6w8">
 <src.rf>manual</src.rf>
@@ -12076,7 +12147,7 @@
 <AM lemma="Sibiř_;G" src="auto">NNFP1-----A----</AM>
 <AM lemma="Sibiř_;G" src="auto">NNFP4-----A----</AM>
 <AM lemma="Sibiř_;G" src="auto">NNFP5-----A----</AM>
-<AM lemma="Sibiř_;G" src="auto" recommended="1">NNFS2-----A----</AM>
+<AM lemma="Sibiř_;G" src="auto" recommended="1" selected="1">NNFS2-----A----</AM>
 <AM lemma="sibiř" src="auto">NNFP1-----A----</AM>
 <AM lemma="sibiř" src="auto">NNFP4-----A----</AM>
 <AM lemma="sibiř" src="auto">NNFP5-----A----</AM>
@@ -12789,7 +12860,10 @@
 <LM>w#w-ln94201-95-p16s2w9</LM>
 </w.rf>
 <form>F</form>
-<tag lemma="F-0_:B_;Y" src="orig" selected="1">NNMXX-----A---8</tag>
+<tag>
+<AM lemma="F-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
+<AM lemma="F-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln94201-95-p16s2w10">
 <src.rf>manual</src.rf>
@@ -12805,7 +12879,10 @@
 <LM>w#w-ln94201-95-p16s2w11</LM>
 </w.rf>
 <form>D</form>
-<tag lemma="D-0_:B_;Y" src="orig" selected="1">NNMXX-----A---8</tag>
+<tag>
+<AM lemma="D-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
+<AM lemma="D-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln94201-95-p16s2w12">
 <src.rf>manual</src.rf>
@@ -13166,7 +13243,7 @@
 <AM lemma="Bystrica_;G" src="auto">NNFP1-----A---1</AM>
 <AM lemma="Bystrica_;G" src="auto">NNFP4-----A---1</AM>
 <AM lemma="Bystrica_;G" src="auto">NNFP5-----A---1</AM>
-<AM lemma="Bystrica_;G" src="auto" recommended="1">NNFS2-----A---1</AM>
+<AM lemma="Bystrica_;G" src="auto" recommended="1" selected="1">NNFS2-----A---1</AM>
 <AM lemma="Bystrica_;G" src="auto">NNFS3-----A----</AM>
 <AM lemma="Bystrica_;G" src="auto">NNFS6-----A----</AM>
 </tag>
@@ -13195,7 +13272,7 @@
 <form>čtvrthodinka</form>
 <tag>
 <AM lemma="čtvrthodina" src="orig">NNFS1-----A----</AM>
-<AM lemma="čtvrthodinka" src="auto" recommended="1">NNFS1-----A----</AM>
+<AM lemma="čtvrthodinka" src="auto" recommended="1" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94201-95-p16s4w6">
@@ -13394,7 +13471,10 @@
 <LM>w#w-ln94201-95-p16s7w11</LM>
 </w.rf>
 <form>jen</form>
-<tag lemma="jen-1" src="auto" selected="1">TT-------------</tag>
+<tag>
+<AM lemma="jen-1" src="auto">TT-------------</AM>
+<AM lemma="jen-4^(pouze)" src="manual" selected="1">Db-------------</AM>
+</tag>
 </m>
 <m id="m-ln94201-95-p16s7w12">
 <src.rf>manual</src.rf>
@@ -13593,7 +13673,7 @@
 <tag>
 <AM lemma="tady" src="orig">Db------------1</AM>
 <AM lemma="ten" src="auto">PDFS4----------</AM>
-<AM lemma="tu" src="auto" recommended="1">Db-------------</AM>
+<AM lemma="tu" src="auto" recommended="1" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m-ln94201-95-p16s9w3">
@@ -13931,7 +14011,7 @@
 <tag>
 <AM lemma="přece" src="orig">Db-------------</AM>
 <AM lemma="přece-1" src="auto" recommended="1">J^-------------</AM>
-<AM lemma="přece-2" src="auto">TT-------------</AM>
+<AM lemma="přece-2" src="auto" selected="1">TT-------------</AM>
 </tag>
 </m>
 <m id="m-ln94201-95-p16s12w24">
@@ -13940,7 +14020,10 @@
 <LM>w#w-ln94201-95-p16s12w24</LM>
 </w.rf>
 <form>danke</form>
-<tag lemma="danke_,t" src="orig" selected="1">VB-S---1P-AA---</tag>
+<tag>
+<AM lemma="danke_,t" src="orig">VB-S---1P-AA---</AM>
+<AM lemma="danke-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94201-95-p16s12w25">
 <src.rf>manual</src.rf>
@@ -13948,7 +14031,10 @@
 <LM>w#w-ln94201-95-p16s12w25</LM>
 </w.rf>
 <form>schön</form>
-<tag lemma="schön_,t" src="orig" selected="1">Dg-------1A----</tag>
+<tag>
+<AM lemma="schön_,t" src="orig">Dg-------1A----</AM>
+<AM lemma="schön-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94201-95-p16s12w26">
 <src.rf>manual</src.rf>
@@ -13968,6 +14054,7 @@
 <AM lemma="Mutti_,t" src="orig">NNFXX-----A----</AM>
 <AM lemma="Mutti_;S" src="auto">NNMS1-----A----</AM>
 <AM lemma="Mutti_;S" src="auto" recommended="1">NNMS5-----A----</AM>
+<AM lemma="Mutti-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-ln94201-95-p16s12w28">
@@ -13984,7 +14071,10 @@
 <LM>w#w-ln94201-95-p16s12w29</LM>
 </w.rf>
 <form>danke</form>
-<tag lemma="danke_,t" src="orig" selected="1">VB-S---1P-AA---</tag>
+<tag>
+<AM lemma="danke_,t" src="orig">VB-S---1P-AA---</AM>
+<AM lemma="danke-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94201-95-p16s12w30">
 <src.rf>manual</src.rf>
@@ -13992,7 +14082,10 @@
 <LM>w#w-ln94201-95-p16s12w30</LM>
 </w.rf>
 <form>schön</form>
-<tag lemma="schön_,t" src="orig" selected="1">Dg-------1A----</tag>
+<tag>
+<AM lemma="schön_,t" src="orig">Dg-------1A----</AM>
+<AM lemma="schön-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94201-95-p16s12w31">
 <src.rf>manual</src.rf>
@@ -14604,7 +14697,10 @@
 <LM>w#w-ln94201-95-p17s3w7</LM>
 </w.rf>
 <form>ČSA</form>
-<tag lemma="ČSA-1_:B_;K_^(Čs./České_aerolinie)" src="orig" selected="1">NNFPX-----A---8</tag>
+<tag>
+<AM lemma="ČSA-1_:B_;K_^(Čs./České_aerolinie)" src="orig">NNFPX-----A---8</AM>
+<AM lemma="ČSA-1_:B_;K_^(Čs./České_aerolinie)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94201-95-p17s3w8">
 <src.rf>manual</src.rf>
@@ -14788,7 +14884,10 @@
 <LM>w#w-ln94201-95-p17s7w2</LM>
 </w.rf>
 <form>např</form>
-<tag lemma="například_:B" src="orig" selected="1">Db------------8</tag>
+<tag>
+<AM lemma="například_:B" src="orig">Db------------8</AM>
+<AM lemma="například" src="manual" selected="1">Db------------8</AM>
+</tag>
 </m>
 <m id="m-ln94201-95-p17s7w3">
 <src.rf>manual</src.rf>
@@ -15167,7 +15266,7 @@
 <tag>
 <AM lemma="přece" src="orig">Db-------------</AM>
 <AM lemma="přece-1" src="auto" recommended="1">J^-------------</AM>
-<AM lemma="přece-2" src="auto">TT-------------</AM>
+<AM lemma="přece-2" src="auto" selected="1">TT-------------</AM>
 </tag>
 </m>
 <m id="m-ln94201-95-p17s11w5">
@@ -15432,7 +15531,10 @@
 <LM>w#w-ln94201-95-p18s3w8</LM>
 </w.rf>
 <form>doc</form>
-<tag lemma="docent_:B" src="orig" selected="1">NNMXX-----A---8</tag>
+<tag>
+<AM lemma="docent_:B" src="orig">NNMXX-----A---8</AM>
+<AM lemma="doc_:B_^(docent)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94201-95-p18s3w9">
 <src.rf>manual</src.rf>
@@ -15914,7 +16016,10 @@
 <LM>w#w-ln94201-95-p19s3w7</LM>
 </w.rf>
 <form>víc</form>
-<tag lemma="hodně-2" src="auto" selected="1">Dg-------2A---1</tag>
+<tag>
+<AM lemma="hodně-2" src="auto">Dg-------2A---1</AM>
+<AM lemma="více_^(více_+_2._p.,_více_peněz)" src="manual" selected="1">Ca--4---------1</AM>
+</tag>
 </m>
 <m id="m-ln94201-95-p19s3w8">
 <src.rf>manual</src.rf>
@@ -15924,7 +16029,7 @@
 <form>starostí</form>
 <tag>
 <AM lemma="starost" src="orig">NNFP2-----A----</AM>
-<AM lemma="starost-1" src="auto" recommended="1">NNFP2-----A----</AM>
+<AM lemma="starost-1" src="auto" recommended="1" selected="1">NNFP2-----A----</AM>
 <AM lemma="starost-1" src="auto">NNFS7-----A----</AM>
 <AM lemma="starost-2_^(člověk,_věc)_(*5ý-2)" src="auto">NNFP2-----A----</AM>
 <AM lemma="starost-2_^(člověk,_věc)_(*5ý-2)" src="auto">NNFS7-----A----</AM>
@@ -16053,7 +16158,7 @@
 <tag>
 <AM lemma="tedy" src="orig">Db-------------</AM>
 <AM lemma="tedy-1" src="auto">TT-------------</AM>
-<AM lemma="tedy-2" src="auto" recommended="1">J^-------------</AM>
+<AM lemma="tedy-2" src="auto" recommended="1" selected="1">J^-------------</AM>
 </tag>
 </m>
 <m id="m-ln94201-95-p20s1w5">
@@ -16396,7 +16501,10 @@
 <LM>w#w-ln94201-95-p21s3w17</LM>
 </w.rf>
 <form>jen</form>
-<tag lemma="jen-1" src="auto" selected="1">TT-------------</tag>
+<tag>
+<AM lemma="jen-1" src="auto">TT-------------</AM>
+<AM lemma="jen-4_^(pouze)" src="manual" selected="1">Db-------------</AM>
+</tag>
 </m>
 <m id="m-ln94201-95-p21s3w18">
 <src.rf>manual</src.rf>
@@ -16534,7 +16642,10 @@
 <LM>w#w-ln94201-95-p22s1w7</LM>
 </w.rf>
 <form>SNP</form>
-<tag lemma="SNP-1_:B_;K_;p_^(Slovenské_národní_povstání)" src="orig" selected="1">NNNXX-----A---8</tag>
+<tag>
+<AM lemma="SNP-1_:B_;K_;p_^(Slovenské_národní_povstání)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="SNP-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln94201-95-p22s1w8">
 <src.rf>manual</src.rf>
@@ -16714,7 +16825,10 @@
 <LM>w#w-ln94201-95-p22s3w4</LM>
 </w.rf>
 <form>SNS</form>
-<tag lemma="SNS-1_:B_;K_;p_^(Slov._nár._strana)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="SNS-1_:B_;K_;p_^(Slov._nár._strana)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="SNS-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln94201-95-p22s3w5">
 <src.rf>manual</src.rf>
@@ -16738,7 +16852,10 @@
 <LM>w#w-ln94201-95-p22s3w7</LM>
 </w.rf>
 <form>SNP</form>
-<tag lemma="SNP-1_:B_;K_;p_^(Slovenské_národní_povstání)" src="orig" selected="1">NNNXX-----A---8</tag>
+<tag>
+<AM lemma="SNP-1_:B_;K_;p_^(Slovenské_národní_povstání)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="SNP-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln94201-95-p22s3w8">
 <src.rf>manual</src.rf>
@@ -17986,7 +18103,10 @@
 <LM>w#w-ln94201-95-p24s4w4</LM>
 </w.rf>
 <form>SDL</form>
-<tag lemma="SDL-1_:B_;K_;p_^(Slov._Strana_demokratickej_ĺavice)" src="auto" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="SDL-1_:B_;K_;p_^(Slov._Strana_demokratickej_ĺavice)" src="auto">NNFXX-----A---8</AM>
+<AM lemma="SDL-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln94201-95-p24s4w5">
 <src.rf>manual</src.rf>
@@ -18060,7 +18180,10 @@
 <LM>w#w-ln94201-95-p24s5w1</LM>
 </w.rf>
 <form>SDL</form>
-<tag lemma="SDL-1_:B_;K_;p_^(Slov._Strana_demokratickej_ĺavice)" src="auto" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="SDL-1_:B_;K_;p_^(Slov._Strana_demokratickej_ĺavice)" src="auto">NNFXX-----A---8</AM>
+<AM lemma="SDL-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln94201-95-p24s5w2">
 <src.rf>manual</src.rf>
@@ -18150,7 +18273,10 @@
 <LM>w#w-ln94201-95-p24s6w6</LM>
 </w.rf>
 <form>HZDS</form>
-<tag lemma="HZDS-1_:B_;K_;p_,t_^(Hnutie_za_demokratické_Slovensko)" src="orig" selected="1">NNNXX-----A---8</tag>
+<tag>
+<AM lemma="HZDS-1_:B_;K_;p_,t_^(Hnutie_za_demokratické_Slovensko)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="HZDS-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln94201-95-p24s6w7">
 <src.rf>manual</src.rf>
@@ -18304,7 +18430,10 @@
 <LM>w#w-ln94201-95-p25s1w9</LM>
 </w.rf>
 <form>SNP</form>
-<tag lemma="SNP-1_:B_;K_;p_^(Slovenské_národní_povstání)" src="orig" selected="1">NNNXX-----A---8</tag>
+<tag>
+<AM lemma="SNP-1_:B_;K_;p_^(Slovenské_národní_povstání)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="SNP-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln94201-95-p25s1w10">
 <src.rf>manual</src.rf>
@@ -18508,6 +18637,7 @@
 <AM lemma="renezanční" src="auto">AAMP6----1A----</AM>
 <AM lemma="renezanční" src="auto">AANP2----1A----</AM>
 <AM lemma="renezanční" src="auto">AANP6----1A----</AM>
+<AM lemma="renesanční_,s_^(^DD**renezanční)" src="manual" selected="1">AAIP2----1A----</AM>
 </tag>
 </m>
 <m id="m-ln94201-95-p25s2w8">
@@ -18686,7 +18816,10 @@
 <LM>w#w-ln94201-95-p26s1w13</LM>
 </w.rf>
 <form>SNP</form>
-<tag lemma="SNP-1_:B_;K_;p_^(Slovenské_národní_povstání)" src="orig" selected="1">NNNXX-----A---8</tag>
+<tag>
+<AM lemma="SNP-1_:B_;K_;p_^(Slovenské_národní_povstání)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="SNP-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln94201-95-p26s1w14">
 <src.rf>manual</src.rf>
@@ -19146,7 +19279,10 @@
 <LM>w#w-ln94201-95-p26s3w37</LM>
 </w.rf>
 <form>SNP</form>
-<tag lemma="SNP-1_:B_;K_;p_^(Slovenské_národní_povstání)" src="orig" selected="1">NNNXX-----A---8</tag>
+<tag>
+<AM lemma="SNP-1_:B_;K_;p_^(Slovenské_národní_povstání)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="SNP-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln94201-95-p26s3w38">
 <src.rf>manual</src.rf>
@@ -19416,7 +19552,7 @@
 <form>Vůbec</form>
 <tag>
 <AM lemma="vůbec" src="orig">Db-------------</AM>
-<AM lemma="vůbec" src="auto" recommended="1">TT-------------</AM>
+<AM lemma="vůbec" src="auto" recommended="1" selected="1">TT-------------</AM>
 </tag>
 </m>
 <m id="m-ln94201-95-p27s2w2">
@@ -19689,7 +19825,7 @@
 <tag>
 <AM lemma="tady" src="orig">Db------------1</AM>
 <AM lemma="ten" src="auto" recommended="1">PDFS4----------</AM>
-<AM lemma="tu" src="auto">Db-------------</AM>
+<AM lemma="tu" src="auto" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m-ln94201-95-p27s4w4">
@@ -20226,7 +20362,10 @@
 <LM>w#w-ln94201-95-p28s1w14</LM>
 </w.rf>
 <form>mj</form>
-<tag lemma="mj-1_:B_^(mimo_jiné)" src="orig" selected="1">Db------------8</tag>
+<tag>
+<AM lemma="mj-1_:B_^(mimo_jiné)" src="orig">Db------------8</AM>
+<AM lemma="mj-1_:B_^(mimo_jiné)" src="manual" selected="1">Db-------------</AM>
+</tag>
 </m>
 <m id="m-ln94201-95-p28s1w15">
 <src.rf>manual</src.rf>
@@ -20269,7 +20408,7 @@
 <tag>
 <AM lemma="tedy" src="orig">Db-------------</AM>
 <AM lemma="tedy-1" src="auto" recommended="1">TT-------------</AM>
-<AM lemma="tedy-2" src="auto">J^-------------</AM>
+<AM lemma="tedy-2" src="auto" selected="1">J^-------------</AM>
 </tag>
 </m>
 <m id="m-ln94201-95-p28s1w20">
@@ -20294,7 +20433,10 @@
 <LM>w#w-ln94201-95-p28s1w22</LM>
 </w.rf>
 <form>SNP</form>
-<tag lemma="SNP-1_:B_;K_;p_^(Slovenské_národní_povstání)" src="orig" selected="1">NNNXX-----A---8</tag>
+<tag>
+<AM lemma="SNP-1_:B_;K_;p_^(Slovenské_národní_povstání)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="SNP-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln94201-95-p28s1w23">
 <src.rf>manual</src.rf>
@@ -20458,7 +20600,10 @@
 <LM>w#w-ln94201-95-p28s3w6</LM>
 </w.rf>
 <form>hodně</form>
-<tag lemma="hodně-2_^(nezlobivý)_(*3ý-2)" src="auto" selected="1">Dg-------1A----</tag>
+<tag>
+<AM lemma="hodně-2_^(nezlobivý)_(*3ý-2)" src="auto">Dg-------1A----</AM>
+<AM lemma="hodně-3" src="manual" selected="1">Dg-------1A----</AM>
+</tag>
 </m>
 <m id="m-ln94201-95-p28s3w7">
 <src.rf>manual</src.rf>
@@ -20644,7 +20789,10 @@
 <LM>w#w-ln94201-95-p28s4w19</LM>
 </w.rf>
 <form>Čs</form>
-<tag lemma="československý_:B" src="orig" selected="1">AAXXX----1A---8</tag>
+<tag>
+<AM lemma="československý_:B" src="orig">AAXXX----1A---8</AM>
+<AM lemma="československý" src="manual" selected="1">AAXXX----1A---8</AM>
+</tag>
 </m>
 <m id="m-ln94201-95-p28s4w20">
 <src.rf>manual</src.rf>
@@ -20838,7 +20986,10 @@
 <LM>w#w-ln94201-95-p28s5w15</LM>
 </w.rf>
 <form>dr</form>
-<tag lemma="doktor_:B_^(doktor,_akad._titul)" src="orig" selected="1">NNMXX-----A---8</tag>
+<tag>
+<AM lemma="doktor_:B_^(doktor,_akad._titul)" src="orig">NNMXX-----A---8</AM>
+<AM lemma="dr_:B_^(doktor)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94201-95-p28s5w16">
 <src.rf>manual</src.rf>
@@ -20978,7 +21129,10 @@
 <LM>w#w-ln94201-95-p28s7w9</LM>
 </w.rf>
 <form>ani</form>
-<tag lemma="ani-1" src="auto" selected="1">J^-------------</tag>
+<tag>
+<AM lemma="ani-1" src="auto">J^-------------</AM>
+<AM lemma="ani-2" src="manual" selected="1">TT-------------</AM>
+</tag>
 </m>
 <m id="m-ln94201-95-p28s7w10">
 <src.rf>manual</src.rf>
@@ -21499,6 +21653,7 @@
 <tag>
 <AM lemma="USA_;G" src="orig">NNIPX-----A----</AM>
 <AM lemma="USA_:B_;K_,t_^(United_States_of_America)" src="auto" recommended="1">NNIPX-----A---8</AM>
+<AM lemma="USA_:B_;K_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94201-95-p28s10w28">
@@ -21541,7 +21696,10 @@
 <LM>w#w-ln94201-95-p28s11w4</LM>
 </w.rf>
 <form>jen</form>
-<tag lemma="jen-1" src="auto" selected="1">TT-------------</tag>
+<tag>
+<AM lemma="jen-1" src="auto">TT-------------</AM>
+<AM lemma="jen-4_^(pouze)" src="manual" selected="1">Db-------------</AM>
+</tag>
 </m>
 <m id="m-ln94201-95-p28s11w5">
 <src.rf>manual</src.rf>
@@ -21709,7 +21867,10 @@
 <LM>w#w-ln94201-95-p28s11w25</LM>
 </w.rf>
 <form>ani</form>
-<tag lemma="ani-1" src="auto" selected="1">J^-------------</tag>
+<tag>
+<AM lemma="ani-1" src="auto">J^-------------</AM>
+<AM lemma="ani-2" src="manual" selected="1">TT-------------</AM>
+</tag>
 </m>
 <m id="m-ln94201-95-p28s11w26">
 <src.rf>manual</src.rf>
@@ -21749,7 +21910,10 @@
 <LM>w#w-ln94201-95-p28s11w30</LM>
 </w.rf>
 <form>dr</form>
-<tag lemma="doktor_:B_^(doktor,_akad._titul)" src="orig" selected="1">NNMXX-----A---8</tag>
+<tag>
+<AM lemma="doktor_:B_^(doktor,_akad._titul)" src="orig">NNMXX-----A---8</AM>
+<AM lemma="dr_:B_^(doktor)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94201-95-p28s11w31">
 <src.rf>manual</src.rf>
@@ -22287,7 +22451,10 @@
 <LM>w#w-ln94201-95-p29s2w2</LM>
 </w.rf>
 <form>jen</form>
-<tag lemma="jen-1" src="auto" selected="1">TT-------------</tag>
+<tag>
+<AM lemma="jen-1" src="auto">TT-------------</AM>
+<AM lemma="jen-4_^(pouze)" src="manual" selected="1">Db-------------</AM>
+</tag>
 </m>
 <m id="m-ln94201-95-p29s2w3">
 <src.rf>manual</src.rf>
@@ -22993,7 +23160,10 @@
 <LM>w#w-ln94201-95-p30s3w14</LM>
 </w.rf>
 <form>dr</form>
-<tag lemma="doktor_:B_^(doktor,_akad._titul)" src="orig" selected="1">NNMXX-----A---8</tag>
+<tag>
+<AM lemma="doktor_:B_^(doktor,_akad._titul)" src="orig">NNMXX-----A---8</AM>
+<AM lemma="dr_:B_^(doktor)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94201-95-p30s3w15">
 <src.rf>manual</src.rf>
@@ -23175,7 +23345,10 @@
 <LM>w#w-ln94201-95-p31s3w1</LM>
 </w.rf>
 <form>Dr</form>
-<tag lemma="doktor_:B_^(doktor,_akad._titul)" src="orig" selected="1">NNMXX-----A---8</tag>
+<tag>
+<AM lemma="doktor_:B_^(doktor,_akad._titul)" src="orig">NNMXX-----A---8</AM>
+<AM lemma="Dr_:B_^(doktor)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94201-95-p31s3w2">
 <src.rf>manual</src.rf>
@@ -23345,7 +23518,10 @@
 <LM>w#w-ln94201-95-p31s4w4</LM>
 </w.rf>
 <form>např</form>
-<tag lemma="například_:B" src="orig" selected="1">Db------------8</tag>
+<tag>
+<AM lemma="například_:B" src="orig">Db------------8</AM>
+<AM lemma="například" src="manual" selected="1">Db------------8</AM>
+</tag>
 </m>
 <m id="m-ln94201-95-p31s4w5">
 <src.rf>manual</src.rf>
@@ -23395,7 +23571,7 @@
 <form>ačkoliv</form>
 <tag>
 <AM lemma="ačkoliv" src="orig">J,-------------</AM>
-<AM lemma="ačkoli" src="auto" recommended="1">J,------------1</AM>
+<AM lemma="ačkoli" src="auto" recommended="1" selected="1">J,------------1</AM>
 </tag>
 </m>
 <m id="m-ln94201-95-p31s4w11">
@@ -23595,7 +23771,7 @@
 <tag>
 <AM lemma="tedy" src="orig">Db-------------</AM>
 <AM lemma="tedy-1" src="auto">TT-------------</AM>
-<AM lemma="tedy-2" src="auto" recommended="1">J^-------------</AM>
+<AM lemma="tedy-2" src="auto" recommended="1" selected="1">J^-------------</AM>
 </tag>
 </m>
 <m id="m-ln94201-95-p31s6w3">
@@ -23750,7 +23926,10 @@
 <LM>w#w-ln94201-95-p32s1w15</LM>
 </w.rf>
 <form>fenomeny</form>
-<tag lemma="fenomén" src="orig" selected="1">NNIP7-----A----</tag>
+<tag>
+<AM lemma="fenomén" src="orig">NNIP7-----A----</AM>
+<AM lemma="fenomen_,s_^(^DD**fenomén)" src="manual" selected="1">NNIP7-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94201-95-p32s1w16">
 <src.rf>manual</src.rf>
@@ -23766,7 +23945,10 @@
 <LM>w#w-ln94201-95-p32s1w17</LM>
 </w.rf>
 <form>jako</form>
-<tag lemma="jako-1" src="auto" selected="1">J,-------------</tag>
+<tag>
+<AM lemma="jako-1" src="auto">J,-------------</AM>
+<AM lemma="jako-4" src="manual" selected="1">J^-------------</AM>
+</tag>
 </m>
 <m id="m-ln94201-95-p32s1w18">
 <src.rf>manual</src.rf>
@@ -24318,7 +24500,10 @@
 <LM>w#w-ln94201-95-p33s1w7</LM>
 </w.rf>
 <form>nejvíc</form>
-<tag lemma="hodně-2" src="auto" selected="1">Dg-------3A---1</tag>
+<tag>
+<AM lemma="hodně-2" src="auto">Dg-------3A---1</AM>
+<AM lemma="hodně-3" src="manual" selected="1">Dg-------3A---1</AM>
+</tag>
 </m>
 <m id="m-ln94201-95-p33s1w8">
 <src.rf>manual</src.rf>
@@ -24468,7 +24653,7 @@
 <form>ovšem</form>
 <tag>
 <AM lemma="ovšem-1_^(avšak,_však;_odporovací_spojka)" src="orig">J^-------------</AM>
-<AM lemma="ovšem" src="auto" recommended="1">TT-------------</AM>
+<AM lemma="ovšem" src="auto" recommended="1" selected="1">TT-------------</AM>
 </tag>
 </m>
 <m id="m-ln94201-95-p34s2w3">
@@ -24551,7 +24736,10 @@
 <LM>w#w-ln94201-95-p34s3w6</LM>
 </w.rf>
 <form>sice</form>
-<tag lemma="sice-2" src="auto" selected="1">Db-------------</tag>
+<tag>
+<AM lemma="sice-2" src="auto">Db-------------</AM>
+<AM lemma="sice-1_^(spojka;_připouští_se_určitá_fakta)" src="manual" selected="1">J^-------------</AM>
+</tag>
 </m>
 <m id="m-ln94201-95-p34s3w7">
 <src.rf>manual</src.rf>
@@ -24683,7 +24871,7 @@
 <form>Ovšem</form>
 <tag>
 <AM lemma="ovšem-1_^(avšak,_však;_odporovací_spojka)" src="orig">J^-------------</AM>
-<AM lemma="ovšem" src="auto" recommended="1">TT-------------</AM>
+<AM lemma="ovšem" src="auto" recommended="1" selected="1">TT-------------</AM>
 </tag>
 </m>
 <m id="m-ln94201-95-p34s4w2">
@@ -25484,7 +25672,7 @@
 <form>přece</form>
 <tag>
 <AM lemma="přece" src="orig">Db-------------</AM>
-<AM lemma="přece-1" src="auto" recommended="1">J^-------------</AM>
+<AM lemma="přece-1" src="auto" recommended="1" selected="1">J^-------------</AM>
 <AM lemma="přece-2" src="auto">TT-------------</AM>
 </tag>
 </m>
@@ -25614,7 +25802,10 @@
 <LM>w#w-ln94201-95-p37s4w18</LM>
 </w.rf>
 <form>milionů</form>
-<tag lemma="milión`1000000" src="orig" selected="1">NNIP2-----A----</tag>
+<tag>
+<AM lemma="milión`1000000" src="orig">NNIP2-----A----</AM>
+<AM lemma="milion`1000000_,s_^(^DD**milión)" src="manual" selected="1">NNIP2-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94201-95-p37s4w19">
 <src.rf>manual</src.rf>
@@ -25643,7 +25834,7 @@
 <tag>
 <AM lemma="přesto" src="orig">Dg-------1A----</AM>
 <AM lemma="přesto-1" src="auto" recommended="1">Db-------------</AM>
-<AM lemma="přesto-2" src="auto">J^-------------</AM>
+<AM lemma="přesto-2" src="auto" selected="1">J^-------------</AM>
 </tag>
 </m>
 <m id="m-ln94201-95-p37s5w2">
@@ -25710,7 +25901,10 @@
 <LM>w#w-ln94201-95-p37s6w5</LM>
 </w.rf>
 <form>LN</form>
-<tag lemma="LN-1_:B_;R_^(Lidové_noviny,_deník)" src="orig" selected="1">NNFPX-----A---8</tag>
+<tag>
+<AM lemma="LN-1_:B_;R_^(Lidové_noviny,_deník)" src="orig">NNFPX-----A---8</AM>
+<AM lemma="LN-1_:B_;K_;R_^(Lidové_noviny,_deník)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 </s>
 </mdata>

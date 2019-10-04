@@ -199,7 +199,10 @@
 <LM>w#w-ln95047-104-p2s1Bw16</LM>
 </w.rf>
 <form>optimismus</form>
-<tag lemma="optimismus" src="orig" selected="1">NNIS4-----A----</tag>
+<tag>
+<AM lemma="optimismus" src="orig">NNIS4-----A----</AM>
+<AM lemma="optimismus,s_^(^DD**optimizmus)" src="manual" selected="1">NNIS4-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95047-104-p2s1Bw17">
 <src.rf>manual</src.rf>

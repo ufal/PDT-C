@@ -153,7 +153,7 @@
 <form>začít</form>
 <tag>
 <AM lemma="začít-1" src="orig">Vf--------A----</AM>
-<AM lemma="začít-1_^(začnout)" src="auto" recommended="1">Vf--------A----</AM>
+<AM lemma="začít-1_^(začnout)" src="auto" recommended="1" selected="1">Vf--------A----</AM>
 <AM lemma="začít-2_^(pocítit)" src="auto">Vf--------A----</AM>
 </tag>
 </m>
@@ -585,7 +585,7 @@
 <form>totiž</form>
 <tag>
 <AM lemma="totiž" src="orig">Db-------------</AM>
-<AM lemma="totiž-1" src="auto" recommended="1">J^-------------</AM>
+<AM lemma="totiž-1" src="auto" recommended="1" selected="1">J^-------------</AM>
 <AM lemma="totiž-2" src="auto">TT-------------</AM>
 </tag>
 </m>
@@ -733,7 +733,10 @@
 <LM>w#w-lnd92258-095-p3s1w7</LM>
 </w.rf>
 <form>dualismem</form>
-<tag lemma="dualismus" src="orig" selected="1">NNIS7-----A----</tag>
+<tag>
+<AM lemma="dualismus" src="orig">NNIS7-----A----</AM>
+<AM lemma="dualismus_,s_^(^DD**dualizmus)" src="manual" selected="1">NNIS7-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92258-095-p3s1w8">
 <src.rf>manual</src.rf>
@@ -1006,7 +1009,7 @@
 <AM lemma="panenka-1_^(např_v_oku)" src="auto">NNFS3-----A----</AM>
 <AM lemma="panenka-1_^(např_v_oku)" src="auto" recommended="1">NNFS6-----A----</AM>
 <AM lemma="panenka-2_^(na_hraní)" src="auto">NNFS3-----A----</AM>
-<AM lemma="panenka-2_^(na_hraní)" src="auto">NNFS6-----A----</AM>
+<AM lemma="panenka-2_^(na_hraní)" src="auto" selected="1">NNFS6-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92258-095-p3s3w11">
@@ -1113,7 +1116,10 @@
 <LM>w#w-lnd92258-095-p3s4w11</LM>
 </w.rf>
 <form>jen</form>
-<tag lemma="jen-1" src="auto" selected="1">TT-------------</tag>
+<tag>
+<AM lemma="jen-1" src="auto">TT-------------</AM>
+<AM lemma="jen-4_^(pouze)" src="manual" selected="1">Db-------------</AM>
+</tag>
 </m>
 <m id="m-lnd92258-095-p3s4w12">
 <src.rf>manual</src.rf>
@@ -1901,7 +1907,10 @@
 <LM>w#w-lnd92258-095-p5s2w9</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-2" src="auto" selected="1">Dg-------2A----</tag>
+<tag>
+<AM lemma="hodně-2" src="auto">Dg-------2A----</AM>
+<AM lemma="hodně-3" src="manual" selected="1">Dg-------2A----</AM>
+</tag>
 </m>
 <m id="m-lnd92258-095-p5s2w10">
 <src.rf>manual</src.rf>
@@ -2055,7 +2064,7 @@
 <form>třeba</form>
 <tag>
 <AM lemma="třeba-1" src="orig">ACNS------A----</AM>
-<AM lemma="třeba-2" src="auto" recommended="1">Db-------------</AM>
+<AM lemma="třeba-2" src="auto" recommended="1" selected="1">Db-------------</AM>
 <AM lemma="třeba-3" src="auto">TT-------------</AM>
 </tag>
 </m>
@@ -2275,7 +2284,10 @@
 <LM>w#w-lnd92258-095-p5s3w19</LM>
 </w.rf>
 <form>li</form>
-<tag lemma="li-1" src="auto" selected="1">TT-------------</tag>
+<tag>
+<AM lemma="li-1" src="auto">TT-------------</AM>
+<AM lemma="li-2" src="manual" selected="1">J,-------------</AM>
+</tag>
 </m>
 <m id="m-lnd92258-095-p5s3w20">
 <src.rf>manual</src.rf>
@@ -2374,7 +2386,7 @@
 <tag>
 <AM lemma="vpravo" src="orig">Db-------------</AM>
 <AM lemma="doprava-1" src="auto" recommended="1">NNFS1-----A----</AM>
-<AM lemma="doprava-2" src="auto">Db-------------</AM>
+<AM lemma="doprava-2" src="auto" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m-lnd92258-095-p5s3w32">
@@ -2399,7 +2411,10 @@
 <LM>w#w-lnd92258-095-p5s3w34</LM>
 </w.rf>
 <form>diskusi</form>
-<tag lemma="diskuse" src="orig" selected="1">NNFS3-----A----</tag>
+<tag>
+<AM lemma="diskuse" src="orig">NNFS3-----A----</AM>
+<AM lemma="diskuse_,s_^(^DD**diskuze)" src="manual" selected="1">NNFS3-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92258-095-p5s3w35">
 <src.rf>manual</src.rf>
@@ -2474,7 +2489,7 @@
 <tag>
 <AM lemma="vpravo" src="orig">Db-------------</AM>
 <AM lemma="doprava-1" src="auto" recommended="1">NNFS1-----A----</AM>
-<AM lemma="doprava-2" src="auto">Db-------------</AM>
+<AM lemma="doprava-2" src="auto" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m-lnd92258-095-p5s3w44">

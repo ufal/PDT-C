@@ -111,7 +111,10 @@
 <LM>w#w-cmpr9406-026-p4s1w7</LM>
 </w.rf>
 <form>florenus</form>
-<tag lemma="florenus_,t_^(zlatá_mince)" src="auto" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="florenus_,t_^(zlatá_mince)" src="auto">NNIS1-----A----</AM>
+<AM lemma="florenus-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-cmpr9406-026-p4s1w8">
 <src.rf>manual</src.rf>
@@ -639,6 +642,7 @@
 <tag>
 <AM lemma="RVHP-1_;K_;p_;b" src="orig">NNFXX-----A---8</AM>
 <AM lemma="RVHP-1_:B_;K_;b_;p" src="auto" recommended="1">NNNXX-----A---8</AM>
+<AM lemma="RVHP-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-cmpr9406-026-p5s2w4">
@@ -1030,7 +1034,10 @@
 <LM>w#w-cmpr9406-026-p6s2w10</LM>
 </w.rf>
 <form>Ft</form>
-<tag lemma="Ft_:B" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="Ft_:B" src="orig">NNIXX-----A---8</AM>
+<AM lemma="Ft-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-cmpr9406-026-p6s2w11">
 <src.rf>manual</src.rf>
@@ -1136,7 +1143,10 @@
 <LM>w#w-cmpr9406-026-p6s2w23</LM>
 </w.rf>
 <form>Ft</form>
-<tag lemma="Ft_:B" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="Ft_:B" src="orig">NNIXX-----A---8</AM>
+<AM lemma="Ft-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-cmpr9406-026-p6s2w24">
 <src.rf>manual</src.rf>
@@ -1251,7 +1261,10 @@
 <LM>w#w-cmpr9406-026-p6s3w13</LM>
 </w.rf>
 <form>Ft</form>
-<tag lemma="Ft_:B" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="Ft_:B" src="orig">NNIXX-----A---8</AM>
+<AM lemma="Ft-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-cmpr9406-026-p6s3w14">
 <src.rf>manual</src.rf>
@@ -1339,7 +1352,7 @@
 <AM lemma="l-4_^(graf._oddělovač)" src="auto">Z:-------------</AM>
 <AM lemma="l-8_:B_^(ost._zkratka)" src="auto">XX------------8</AM>
 <AM lemma="letopočet_:B_^(jen_př._n._l.,_před_naším_letopočtem)" src="auto">NNIS7-----A---8</AM>
-<AM lemma="litr_:B" src="auto" recommended="1">NNIXX-----A---8</AM>
+<AM lemma="litr_:B" src="auto" recommended="1" selected="1">NNIXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-cmpr9406-026-p6s4w10">
@@ -1472,7 +1485,10 @@
 <LM>w#w-cmpr9406-026-p6s4w25</LM>
 </w.rf>
 <form>coca</form>
-<tag lemma="coca_;L_,t" src="auto" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="coca_;L_,t" src="auto">AAXXX----1A----</AM>
+<AM lemma="coca-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-cmpr9406-026-p6s4w26">
 <src.rf>manual</src.rf>
@@ -1511,7 +1527,7 @@
 <AM lemma="l-4_^(graf._oddělovač)" src="auto">Z:-------------</AM>
 <AM lemma="l-8_:B_^(ost._zkratka)" src="auto">XX------------8</AM>
 <AM lemma="letopočet_:B_^(jen_př._n._l.,_před_naším_letopočtem)" src="auto">NNIS7-----A---8</AM>
-<AM lemma="litr_:B" src="auto" recommended="1">NNIXX-----A---8</AM>
+<AM lemma="litr_:B" src="auto" recommended="1" selected="1">NNIXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-cmpr9406-026-p6s4w30">
@@ -1586,7 +1602,7 @@
 <form>Marlboro</form>
 <tag>
 <AM lemma="Marlbora_;G" src="orig">NNNS1-----A----</AM>
-<AM lemma="Marlboro_;K" src="auto" recommended="1">NNNS1-----A----</AM>
+<AM lemma="Marlboro_;K" src="auto" recommended="1" selected="1">NNNS1-----A----</AM>
 <AM lemma="Marlboro_;K" src="auto">NNNS4-----A----</AM>
 <AM lemma="Marlboro_;K" src="auto">NNNS5-----A----</AM>
 </tag>
@@ -1652,7 +1668,7 @@
 <AM lemma="l-4_^(graf._oddělovač)" src="auto">Z:-------------</AM>
 <AM lemma="l-8_:B_^(ost._zkratka)" src="auto">XX------------8</AM>
 <AM lemma="letopočet_:B_^(jen_př._n._l.,_před_naším_letopočtem)" src="auto">NNIS7-----A---8</AM>
-<AM lemma="litr_:B" src="auto" recommended="1">NNIXX-----A---8</AM>
+<AM lemma="litr_:B" src="auto" recommended="1" selected="1">NNIXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-cmpr9406-026-p6s4w46">
@@ -1997,7 +2013,10 @@
 <LM>w#w-cmpr9406-026-p15s1w2</LM>
 </w.rf>
 <form>kurzu</form>
-<tag lemma="kurs" src="auto" selected="1">NNIS2-----A----</tag>
+<tag>
+<AM lemma="kurs" src="auto">NNIS2-----A----</AM>
+<AM lemma="kurz" src="manual" selected="1">NNIS2-----A----</AM>
+</tag>
 </m>
 <m id="m-cmpr9406-026-p15s1w3">
 <src.rf>manual</src.rf>

@@ -878,7 +878,7 @@
 <tag>
 <AM lemma="tady" src="orig">Db------------1</AM>
 <AM lemma="ten" src="auto" recommended="1">PDFS4----------</AM>
-<AM lemma="tu" src="auto">Db-------------</AM>
+<AM lemma="tu" src="auto" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m-lnd91303-068-p2s8w2">
@@ -1158,7 +1158,7 @@
 <AM lemma="sedmý" src="auto">CrFP1----------</AM>
 <AM lemma="sedmý" src="auto">CrFP4----------</AM>
 <AM lemma="sedmý" src="auto">CrFP5----------</AM>
-<AM lemma="sedmý" src="auto" recommended="1">CrFS2----------</AM>
+<AM lemma="sedmý" src="auto" recommended="1" selected="1">CrFS2----------</AM>
 <AM lemma="sedmý" src="auto">CrFS3----------</AM>
 <AM lemma="sedmý" src="auto">CrFS6----------</AM>
 <AM lemma="sedmý" src="auto">CrIP1----------</AM>
@@ -1423,7 +1423,10 @@
 <LM>w#w-lnd91303-068-p2s11w7</LM>
 </w.rf>
 <form>van</form>
-<tag lemma="vana" src="orig" selected="1">NNFP2-----A----</tag>
+<tag>
+<AM lemma="vana" src="orig">NNFP2-----A----</AM>
+<AM lemma="van-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-lnd91303-068-p2s11w8">
 <src.rf>manual</src.rf>
@@ -1508,7 +1511,7 @@
 <tag>
 <AM lemma="totiž" src="orig">Db-------------</AM>
 <AM lemma="totiž-1" src="auto">J^-------------</AM>
-<AM lemma="totiž-2" src="auto" recommended="1">TT-------------</AM>
+<AM lemma="totiž-2" src="auto" recommended="1" selected="1">TT-------------</AM>
 </tag>
 </m>
 <m id="m-lnd91303-068-p2s12w2">
@@ -1685,7 +1688,10 @@
 <LM>w#w-lnd91303-068-p4s1w2</LM>
 </w.rf>
 <form>MATES</form>
-<tag lemma="mates" src="orig" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="mates" src="orig">NNMS1-----A----</AM>
+<AM lemma="Mates_;S" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd91303-068-p4s1w3">
 <src.rf>manual</src.rf>

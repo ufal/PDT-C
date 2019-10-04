@@ -1913,7 +1913,10 @@
 <LM>w#w-ln95048-113-p4s2w2</LM>
 </w.rf>
 <form>Komsomolskaja</form>
-<tag lemma="Komsomolskaja_;K_^(šachta)" src="orig" selected="1">NNFXX-----A----</tag>
+<tag>
+<AM lemma="Komsomolskaja_;K_^(šachta)" src="orig">NNFXX-----A----</AM>
+<AM lemma="Komsomolskaja-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln95048-113-p4s2w3">
 <src.rf>manual</src.rf>
@@ -1961,7 +1964,10 @@
 <LM>w#w-ln95048-113-p4s2w8</LM>
 </w.rf>
 <form>D</form>
-<tag lemma="D-0_:B_;Y" src="orig" selected="1">NNMXX-----A---8</tag>
+<tag>
+<AM lemma="D-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
+<AM lemma="D-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln95048-113-p4s2w9">
 <src.rf>manual</src.rf>

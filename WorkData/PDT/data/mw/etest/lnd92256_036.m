@@ -103,7 +103,10 @@
 <LM>w#w-lnd92256-036-p3s1w3</LM>
 </w.rf>
 <form>tes</form>
-<tag lemma="tes-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="tes-99_:B_;S" src="orig">NNXXX-----A---8</AM>
+<AM lemma="tes-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92256-036-p3s1w4">
 <src.rf>manual</src.rf>
@@ -233,7 +236,10 @@
 <LM>w#w-lnd92256-036-p3s2w14</LM>
 </w.rf>
 <form>a</form>
-<tag lemma="akciový_:B_^(jen_akciová_společnost)" src="auto" selected="1">AAXXX----1A---8</tag>
+<tag>
+<AM lemma="akciový_:B_^(jen_akciová_společnost)" src="auto">AAXXX----1A---8</AM>
+<AM lemma="akciový_^(jen_akciová_společnost)" src="manual" selected="1">AAXXX----1A---8</AM>
+</tag>
 </m>
 <m id="m-lnd92256-036-p3s2w15">
 <src.rf>manual</src.rf>
@@ -249,7 +255,10 @@
 <LM>w#w-lnd92256-036-p3s2w16</LM>
 </w.rf>
 <form>s</form>
-<tag lemma="společnost_:B" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="společnost_:B" src="orig">NNFXX-----A---8</AM>
+<AM lemma="společnost" src="manual" selected="1">NNFXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd92256-036-p3s2w17">
 <src.rf>manual</src.rf>
@@ -379,7 +388,10 @@
 <LM>w#w-lnd92256-036-p3s3w15</LM>
 </w.rf>
 <form>a</form>
-<tag lemma="akciový_:B_^(jen_akciová_společnost)" src="orig" selected="1">AAXXX----1A---8</tag>
+<tag>
+<AM lemma="akciový_:B_^(jen_akciová_společnost)" src="orig">AAXXX----1A---8</AM>
+<AM lemma="akciový_^(jen_akciová_společnost)" src="manual" selected="1">AAXXX----1A---8</AM>
+</tag>
 </m>
 <m id="m-lnd92256-036-p3s3w16">
 <src.rf>manual</src.rf>
@@ -395,7 +407,10 @@
 <LM>w#w-lnd92256-036-p3s3w17</LM>
 </w.rf>
 <form>s</form>
-<tag lemma="společnost_:B" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="společnost_:B" src="orig">NNFXX-----A---8</AM>
+<AM lemma="společnost" src="manual" selected="1">NNFXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd92256-036-p3s3w18">
 <src.rf>manual</src.rf>
@@ -857,7 +872,10 @@
 <LM>w#w-lnd92256-036-p3s6w9</LM>
 </w.rf>
 <form>a</form>
-<tag lemma="akciový_:B_^(jen_akciová_společnost)" src="orig" selected="1">AAXXX----1A---8</tag>
+<tag>
+<AM lemma="akciový_:B_^(jen_akciová_společnost)" src="orig">AAXXX----1A---8</AM>
+<AM lemma="akciový_^(jen_akciová_společnost)" src="manual" selected="1">AAXXX----1A---8</AM>
+</tag>
 </m>
 <m id="m-lnd92256-036-p3s6w10">
 <src.rf>manual</src.rf>
@@ -873,7 +891,10 @@
 <LM>w#w-lnd92256-036-p3s6w11</LM>
 </w.rf>
 <form>s</form>
-<tag lemma="společnost_:B" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="společnost_:B" src="orig">NNFXX-----A---8</AM>
+<AM lemma="společnost" src="manual" selected="1">NNFXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd92256-036-p3s6w12">
 <src.rf>manual</src.rf>

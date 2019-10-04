@@ -485,7 +485,10 @@
 <LM>w#w-mf920923-019-p3s1Bw6</LM>
 </w.rf>
 <form>Hugo</form>
-<tag lemma="Hugo-2_;G" src="auto" selected="1">NNNS1-----A----</tag>
+<tag>
+<AM lemma="Hugo-2_;G" src="auto">NNNS1-----A----</AM>
+<AM lemma="Hugo-1_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920923-019-p3s1Bw7">
 <src.rf>manual</src.rf>
@@ -759,7 +762,10 @@
 <LM>w#w-mf920923-019-p3s2w13</LM>
 </w.rf>
 <form>hod</form>
-<tag lemma="hodina_:B" src="auto" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="hodina_:B" src="auto">NNFXX-----A---8</AM>
+<AM lemma="hodina" src="manual" selected="1">NNFXX-----A---9</AM>
+</tag>
 </m>
 <m id="m-mf920923-019-p3s2w14">
 <src.rf>manual</src.rf>
@@ -810,7 +816,10 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>Ľahká</form>
-<tag lemma="Ľahký_;K_,t" src="orig" selected="1">AAFS1----1A----</tag>
+<tag>
+<AM lemma="Ľahký_;K_,t" src="orig">AAFS1----1A----</AM>
+<AM lemma="Ľahká-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-mf920923-019-p4s1Aw2">
 <src.rf>manual</src.rf>
@@ -834,7 +843,10 @@
 <LM>w#w-mf920923-019-p4s1Aw4</LM>
 </w.rf>
 <form>Tieň</form>
-<tag lemma="tieň_,t" src="orig" selected="1">NNFS1-----A----</tag>
+<tag>
+<AM lemma="tieň_,t" src="orig">NNFS1-----A----</AM>
+<AM lemma="Tieň-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-mf920923-019-p4s1Aw5">
 <src.rf>manual</src.rf>
@@ -900,7 +912,10 @@
 <LM>w#w-mf920923-019-p4s1Bw6</LM>
 </w.rf>
 <form>vydal</form>
-<tag lemma="vydat-1_:W_^(emitovat:_cenné_papíry,_knihu,_zvuk,...)" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag>
+<AM lemma="vydat-1_:W_^(emitovat:_cenné_papíry,_knihu,_zvuk,...)" src="orig">VpYS---XR-AA---</AM>
+<AM lemma="vydat_:W" src="manual" selected="1">VpYS---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-mf920923-019-p4s1Bw7">
 <src.rf>manual</src.rf>
@@ -909,7 +924,7 @@
 </w.rf>
 <form>Zoon</form>
 <tag>
-<AM lemma="Zoon_;K" src="orig">NNIS1-----A----</AM>
+<AM lemma="Zoon_;K" src="orig" selected="1">NNIS1-----A----</AM>
 <AM lemma="zoon_,t_^(řec.)" src="auto" recommended="1">NNNXX-----A----</AM>
 </tag>
 </m>
@@ -969,7 +984,10 @@
 <LM>w#w-mf920923-019-p4s2w6</LM>
 </w.rf>
 <form>Swans</form>
-<tag lemma="Swan_;K_,t" src="orig" selected="1">NNMPX-----A----</tag>
+<tag>
+<AM lemma="Swan_;K_,t" src="orig">NNMPX-----A----</AM>
+<AM lemma="Swans-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-mf920923-019-p4s2w7">
 <src.rf>manual</src.rf>

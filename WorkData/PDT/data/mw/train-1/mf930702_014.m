@@ -96,6 +96,7 @@
 <tag>
 <AM lemma="mik-99_:B_;S" src="orig">NNXXX-----A---8</AM>
 <AM lemma="mik" src="auto" recommended="1">II-------------</AM>
+<AM lemma="mik-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930702-014-p2s1w4">
@@ -208,7 +209,10 @@
 <LM>w#w-mf930702-014-p2s1w17</LM>
 </w.rf>
 <form>otevřeno</form>
-<tag lemma="otevřít" src="orig" selected="1">VsNS---XX-AP---</tag>
+<tag>
+<AM lemma="otevřít" src="orig">VsNS---XX-AP---</AM>
+<AM lemma="otevřít_:W" src="manual" selected="1">VsNS---XX-AP---</AM>
+</tag>
 </m>
 <m id="m-mf930702-014-p2s1w18">
 <src.rf>manual</src.rf>
@@ -330,7 +334,10 @@
 <LM>w#w-mf930702-014-p2s2w10</LM>
 </w.rf>
 <form>OFT</form>
-<tag lemma="OFT_:B_;K" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="OFT_:B_;K" src="orig">NNXXX-----A---8</AM>
+<AM lemma="OFT-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930702-014-p2s2w11">
 <src.rf>manual</src.rf>
@@ -532,7 +539,10 @@
 <LM>w#w-mf930702-014-p2s3w8</LM>
 </w.rf>
 <form>uvedli</form>
-<tag lemma="uvést" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag>
+<AM lemma="uvést" src="orig">VpMP---XR-AA---</AM>
+<AM lemma="uvést_:W" src="manual" selected="1">VpMP---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-mf930702-014-p2s3w9">
 <src.rf>manual</src.rf>

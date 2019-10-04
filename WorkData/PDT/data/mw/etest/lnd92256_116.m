@@ -233,7 +233,10 @@
 <LM>w#w-lnd92256-116-p3s2w21</LM>
 </w.rf>
 <form>El</form>
-<tag lemma="El_;K" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="El_;K" src="orig">AAXXX----1A----</AM>
+<AM lemma="El-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-lnd92256-116-p3s2w22">
 <src.rf>manual</src.rf>
@@ -241,7 +244,10 @@
 <LM>w#w-lnd92256-116-p3s2w22</LM>
 </w.rf>
 <form>Tiempo</form>
-<tag lemma="Tiempo_;R_,t" src="orig" selected="1">NNIXX-----A----</tag>
+<tag>
+<AM lemma="Tiempo_;R_,t" src="orig">NNIXX-----A----</AM>
+<AM lemma="Tiempo-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-lnd92256-116-p3s2w23">
 <src.rf>manual</src.rf>
@@ -363,7 +369,10 @@
 <LM>w#w-lnd92256-116-p3s3w9</LM>
 </w.rf>
 <form>hraje</form>
-<tag lemma="hrát" src="auto" selected="1">VB-S---3P-AA---</tag>
+<tag>
+<AM lemma="hrát" src="auto">VB-S---3P-AA---</AM>
+<AM lemma="hrát_:T" src="manual" selected="1">VB-S---3P-AA---</AM>
+</tag>
 </m>
 <m id="m-lnd92256-116-p3s3w10">
 <src.rf>manual</src.rf>
@@ -499,7 +508,10 @@
 <LM>w#w-lnd92256-116-p3s3w26</LM>
 </w.rf>
 <form>ČTK</form>
-<tag lemma="ČTK-1_:B_;K_^(Čs./Česká_tisková_kancelář)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ČTK-1_:B_;K_^(Čs./Česká_tisková_kancelář)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČTK-1_:B_;K_^(Čs./Česká_tisková_kancelář)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92256-116-p3s3w27">
 <src.rf>manual</src.rf>
@@ -533,7 +545,10 @@
 <LM>w#w-lnd92256-116-p3s4w3</LM>
 </w.rf>
 <form>KSČ</form>
-<tag lemma="KSČ-1_:B_;K_^(Komunistická_strana_Československa)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="KSČ-1_:B_;K_^(Komunistická_strana_Československa)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="KSČ-1_:B_;K_^(Komunistická_strana_Československa)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92256-116-p3s4w4">
 <src.rf>manual</src.rf>
@@ -581,7 +596,10 @@
 <LM>w#w-lnd92256-116-p3s4w9</LM>
 </w.rf>
 <form>KS</form>
-<tag lemma="KS_:B_^(komunistická_strana)" src="auto" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="KS_:B_^(komunistická_strana)" src="auto">NNFXX-----A---8</AM>
+<AM lemma="KS-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd92256-116-p3s4w10">
 <src.rf>manual</src.rf>

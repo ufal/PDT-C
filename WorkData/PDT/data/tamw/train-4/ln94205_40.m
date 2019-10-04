@@ -212,7 +212,7 @@
 <AM lemma="Štech_;S" src="auto">NNMP7-----A----</AM>
 <AM lemma="Štecha_;S" src="auto">NNMP4-----A----</AM>
 <AM lemma="Štecha_;S" src="auto">NNMP7-----A----</AM>
-<AM lemma="Štecha_;S" src="auto" recommended="1">NNMS2-----A----</AM>
+<AM lemma="Štecha_;S" src="auto" recommended="1" selected="1">NNMS2-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94205-40-p1s2w7">
@@ -294,7 +294,10 @@
 <LM>w#w-ln94205-40-p1s2w16</LM>
 </w.rf>
 <form>World</form>
-<tag lemma="World_;m_,t" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="World_;m_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="World-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94205-40-p1s2w17">
 <src.rf>manual</src.rf>
@@ -302,7 +305,10 @@
 <LM>w#w-ln94205-40-p1s2w17</LM>
 </w.rf>
 <form>Press</form>
-<tag lemma="Press-1_;K_,t_^(souč._názvů,_např._tisk._agentur)" src="orig" selected="1">NNIXX-----A----</tag>
+<tag>
+<AM lemma="Press-1_;K_,t_^(souč._názvů,_např._tisk._agentur)" src="orig">NNIXX-----A----</AM>
+<AM lemma="Press-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94205-40-p1s2w18">
 <src.rf>manual</src.rf>
@@ -310,7 +316,10 @@
 <LM>w#w-ln94205-40-p1s2w18</LM>
 </w.rf>
 <form>Photo</form>
-<tag lemma="Photo_;K_,t" src="orig" selected="1">NNNS1-----A----</tag>
+<tag>
+<AM lemma="Photo_;K_,t" src="orig">NNNS1-----A----</AM>
+<AM lemma="Photo-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94205-40-p1s2w19">
 <src.rf>manual</src.rf>
@@ -361,7 +370,10 @@
 <LM>w#w-ln94205-40-p1s3w5</LM>
 </w.rf>
 <form>LN</form>
-<tag lemma="LN-1_:B_;R_^(Lidové_noviny,_deník)" src="orig" selected="1">NNFPX-----A---8</tag>
+<tag>
+<AM lemma="LN-1_:B_;R_^(Lidové_noviny,_deník)" src="orig">NNFPX-----A---8</AM>
+<AM lemma="LN-1_:B_;K_;R_^(Lidové_noviny)" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 </s>
 </mdata>

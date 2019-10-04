@@ -184,7 +184,10 @@
 <LM>w#w-lnd91301-066-p3s1w17</LM>
 </w.rf>
 <form>fakty</form>
-<tag lemma="fakt-1" src="auto" selected="1">NNIP7-----A----</tag>
+<tag>
+<AM lemma="fakt-1" src="auto">NNIP7-----A----</AM>
+<AM lemma="fakty-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-lnd91301-066-p3s1w18">
 <src.rf>manual</src.rf>
@@ -624,7 +627,10 @@
 <LM>w#w-lnd91301-066-p3s4w13</LM>
 </w.rf>
 <form>SSSR</form>
-<tag lemma="SSSR_:B_;G_^(Svaz_sov._socialist._republik)" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="SSSR_:B_;G_^(Svaz_sov._socialist._republik)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="SSSR_:B_;G_^(Svaz_sov._socialist._republik)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd91301-066-p3s4w14">
 <src.rf>manual</src.rf>
@@ -656,7 +662,10 @@
 <LM>w#w-lnd91301-066-p3s4w17</LM>
 </w.rf>
 <form>ÚV</form>
-<tag lemma="ÚV-1_:B_^(ústřední_výbor)" src="auto" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="ÚV-1_:B_^(ústřední_výbor)" src="auto">NNIXX-----A---8</AM>
+<AM lemma="ÚV-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd91301-066-p3s4w18">
 <src.rf>manual</src.rf>
@@ -664,7 +673,10 @@
 <LM>w#w-lnd91301-066-p3s4w18</LM>
 </w.rf>
 <form>KSSS</form>
-<tag lemma="KSSS_:B_;K_;p" src="auto" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="KSSS_:B_;K_;p" src="auto">NNFXX-----A---8</AM>
+<AM lemma="KSSS-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd91301-066-p3s4w19">
 <src.rf>manual</src.rf>

@@ -43,7 +43,10 @@
 <LM>w#w-ln94200-2-p1s1w4</LM>
 </w.rf>
 <form>open</form>
-<tag lemma="open_;m_,t" src="orig" selected="1">NNNXX-----A----</tag>
+<tag>
+<AM lemma="open_;m_,t" src="orig">NNNXX-----A----</AM>
+<AM lemma="open-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 </s>
 <s id="m-ln94200-2-p2s1">
@@ -157,7 +160,10 @@
 <LM>w#w-ln94200-2-p2s1w14</LM>
 </w.rf>
 <form>mušvilu</form>
-<tag lemma="mušvil_,t" src="orig" selected="1">NNIS6-----A----</tag>
+<tag>
+<AM lemma="mušvil_,t" src="orig">NNIS6-----A----</AM>
+<AM lemma="mušvil" src="manual" selected="1">NNIS6-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94200-2-p2s1w15">
 <src.rf>manual</src.rf>
@@ -643,7 +649,10 @@
 <LM>w#w-ln94200-2-p2s4w5</LM>
 </w.rf>
 <form>ČT</form>
-<tag lemma="ČT_:B_;K_^(Česká_televize)" src="auto" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="ČT_:B_;K_^(Česká_televize)" src="auto">NNXXX-----A---8</AM>
+<AM lemma="ČT_:B_;K_^(Česká_televize)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94200-2-p2s4w6">
 <src.rf>manual</src.rf>

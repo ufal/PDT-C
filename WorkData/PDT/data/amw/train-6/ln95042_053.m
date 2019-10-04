@@ -87,7 +87,10 @@
 <LM>w#w-ln95042-053-p2s1Bw3</LM>
 </w.rf>
 <form>Jün</form>
-<tag lemma="Jün_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Jün_;S" src="orig">NNMS1-----A----</AM>
+<AM lemma="Jün_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95042-053-p2s1Bw4">
 <src.rf>manual</src.rf>
@@ -145,7 +148,7 @@
 <form>deoxyribonukleovou</form>
 <tag>
 <AM lemma="deoxyribonukleová_;H_^(*1ý)" src="orig">NNFS4-----A----</AM>
-<AM lemma="deoxyribonukleový_;H" src="auto" recommended="1">AAFS4----1A----</AM>
+<AM lemma="deoxyribonukleový_;H" src="auto" recommended="1" selected="1">AAFS4----1A----</AM>
 <AM lemma="deoxyribonukleový_;H" src="auto">AAFS7----1A----</AM>
 </tag>
 </m>
@@ -595,7 +598,10 @@
 <LM>w#w-ln95042-053-p2s5w10</LM>
 </w.rf>
 <form>mikroorganismy</form>
-<tag lemma="mikroorganismus" src="orig" selected="1">NNIP4-----A----</tag>
+<tag>
+<AM lemma="mikroorganismus" src="orig">NNIP4-----A----</AM>
+<AM lemma="mikroorganismus_,s_^(^DD**mikroorganizmus)" src="manual" selected="1">NNIP4-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95042-053-p2s5w11">
 <src.rf>manual</src.rf>

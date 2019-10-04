@@ -27,7 +27,10 @@
 <LM>w#w-lnd94103-013-p1s1w2</LM>
 </w.rf>
 <form>chtějí</form>
-<tag lemma="chtít" src="orig" selected="1">VB-P---3P-AA---</tag>
+<tag>
+<AM lemma="chtít" src="orig">VB-P---3P-AA---</AM>
+<AM lemma="chtít_:T" src="manual" selected="1">VB-P---3P-AA---</AM>
+</tag>
 </m>
 <m id="m-lnd94103-013-p1s1w3">
 <src.rf>manual</src.rf>
@@ -61,7 +64,10 @@
 <LM>w#w-lnd94103-013-p1s2w3</LM>
 </w.rf>
 <form>kva</form>
-<tag lemma="kva-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="kva-99_:B_;S" src="orig">NNXXX-----A---8</AM>
+<AM lemma="kva-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd94103-013-p1s2w4">
 <src.rf>manual</src.rf>
@@ -421,7 +427,10 @@
 <LM>w#w-lnd94103-013-p1s6w2</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-2" src="auto" selected="1">Dg-------2A----</tag>
+<tag>
+<AM lemma="hodně-2" src="auto">Dg-------2A----</AM>
+<AM lemma="hodně-3" src="manual" selected="1">Dg-------2A----</AM>
+</tag>
 </m>
 <m id="m-lnd94103-013-p1s6w3">
 <src.rf>manual</src.rf>
@@ -446,7 +455,12 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>milionů</form>
-<tag lemma="milión`1000000" src="orig" selected="1">NNIP2-----A----</tag>
+<tag>
+<AM lemma="milión`1000000" src="orig">NNIP2-----A----</AM>
+<AM lemma="milion`1000000_,s_^(^DD**milión)" src="manual">NNIP2-----A----</AM>
+<AM lemma="milion`1000000_,s" src="manual">_^(^DD**milión)</AM>
+<AM lemma="milion`1000000_,s_^(^DD**milión)" src="manual" selected="1">NNIP2-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd94103-013-p1s6w6">
 <src.rf>manual</src.rf>
@@ -893,6 +907,8 @@
 <tag>
 <AM lemma="Kč" src="orig">NNFXX-----A----</AM>
 <AM lemma="Kč_:B" src="auto" recommended="1">NNFXX-----A---8</AM>
+<AM lemma="Kč_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="Kč_:B" src="manual">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-lnd94103-013-p1s8w16">
@@ -1007,7 +1023,7 @@
 <form>vůbec</form>
 <tag>
 <AM lemma="vůbec" src="orig">Db-------------</AM>
-<AM lemma="vůbec" src="auto" recommended="1">TT-------------</AM>
+<AM lemma="vůbec" src="auto" recommended="1" selected="1">TT-------------</AM>
 </tag>
 </m>
 <m id="m-lnd94103-013-p1s8w30">
@@ -1016,7 +1032,10 @@
 <LM>w#w-lnd94103-013-p1s8w30</LM>
 </w.rf>
 <form>nedostala</form>
-<tag lemma="dostat" src="orig" selected="1">VpQW---XR-NA---</tag>
+<tag>
+<AM lemma="dostat" src="orig">VpQW---XR-NA---</AM>
+<AM lemma="dostat_:W" src="manual" selected="1">VpQW---XR-NA---</AM>
+</tag>
 </m>
 <m id="m-lnd94103-013-p1s8w31">
 <src.rf>manual</src.rf>

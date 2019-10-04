@@ -606,6 +606,7 @@
 <tag>
 <AM lemma="VIP-1_:B_;m_,t_^(very_important_person)" src="orig">AAXXX----1A----</AM>
 <AM lemma="VIP-1_:B_,t_^(very_important_person)" src="auto" recommended="1">NNFXX-----A---8</AM>
+<AM lemma="VIP-1_:B_^(very_important_person)" src="manual" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-mf930702-068-p2s4w10">
@@ -622,7 +623,10 @@
 <LM>w#w-mf930702-068-p2s4w11</LM>
 </w.rf>
 <form>tour</form>
-<tag lemma="tour_;m" src="orig" selected="1">NNFXX-----A----</tag>
+<tag>
+<AM lemma="tour_;m" src="orig">NNFXX-----A----</AM>
+<AM lemma="tour-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-mf930702-068-p2s4w12">
 <src.rf>manual</src.rf>
@@ -986,7 +990,10 @@
 <LM>w#w-mf930702-068-p2s7w9</LM>
 </w.rf>
 <form>Lendl</form>
-<tag lemma="Lendl_;S_;w" src="orig" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Lendl_;S_;w" src="orig">NNMS1-----A----</AM>
+<AM lemma="Lendl_;S" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930702-068-p2s7w10">
 <src.rf>manual</src.rf>

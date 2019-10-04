@@ -95,7 +95,10 @@
 <LM>w#w-ln94203-106-p2s1Bw6</LM>
 </w.rf>
 <form>Mario</form>
-<tag lemma="Mario_;Y_,t" src="auto" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Mario_;Y_,t" src="auto">NNMS1-----A----</AM>
+<AM lemma="Mario_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94203-106-p2s1Bw7">
 <src.rf>manual</src.rf>
@@ -191,7 +194,10 @@
 <LM>w#w-ln94203-106-p2s1Bw18</LM>
 </w.rf>
 <form>sezonu</form>
-<tag lemma="sezona" src="orig" selected="1">NNFS4-----A----</tag>
+<tag>
+<AM lemma="sezona" src="orig">NNFS4-----A----</AM>
+<AM lemma="sezona_,s_^(^DD**sezóna)" src="manual" selected="1">NNFS4-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94203-106-p2s1Bw19">
 <src.rf>manual</src.rf>
@@ -354,7 +360,10 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>Pittsburgh</form>
-<tag lemma="Pittsburgh_;G" src="orig" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="Pittsburgh_;G" src="orig">NNIS1-----A----</AM>
+<AM lemma="Pittsburgh-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94203-106-p2s2w20">
 <src.rf>manual</src.rf>
@@ -362,7 +371,10 @@
 <LM>w#w-ln94203-106-p2s2w20</LM>
 </w.rf>
 <form>Penguins</form>
-<tag lemma="Penguins_;K" src="orig" selected="1">NNMPX-----A----</tag>
+<tag>
+<AM lemma="Penguins_;K" src="orig">NNMPX-----A----</AM>
+<AM lemma="Penguins-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94203-106-p2s2w21">
 <src.rf>manual</src.rf>

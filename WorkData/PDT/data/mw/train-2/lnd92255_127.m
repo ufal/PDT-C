@@ -118,6 +118,7 @@
 <tag>
 <AM lemma="HB_:B" src="orig">AAXXX----1A---8</AM>
 <AM lemma="Hb_:B" src="auto" recommended="1">NNXXX-----A---8</AM>
+<AM lemma="HB-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92255-127-p1s1w14">
@@ -182,7 +183,10 @@
 <LM>w#w-lnd92255-127-p1s1w21</LM>
 </w.rf>
 <form>vyhlášen</form>
-<tag lemma="vyhlásit" src="orig" selected="1">VsYS---XX-AP---</tag>
+<tag>
+<AM lemma="vyhlásit" src="orig">VsYS---XX-AP---</AM>
+<AM lemma="vyhlásit_:W" src="manual" selected="1">VsYS---XX-AP---</AM>
+</tag>
 </m>
 <m id="m-lnd92255-127-p1s1w22">
 <src.rf>manual</src.rf>
@@ -262,7 +266,10 @@
 <LM>w#w-lnd92255-127-p1s1w31</LM>
 </w.rf>
 <form>vyhrát</form>
-<tag lemma="vyhrát" src="orig" selected="1">Vf--------A----</tag>
+<tag>
+<AM lemma="vyhrát" src="orig">Vf--------A----</AM>
+<AM lemma="vyhrát_:W" src="manual" selected="1">Vf--------A----</AM>
+</tag>
 </m>
 <m id="m-lnd92255-127-p1s1w32">
 <src.rf>manual</src.rf>
@@ -294,7 +301,10 @@
 <LM>w#w-lnd92255-127-p1s1w35</LM>
 </w.rf>
 <form>zašle</form>
-<tag lemma="zaslat" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag>
+<AM lemma="zaslat" src="orig">VB-S---3P-AA---</AM>
+<AM lemma="zaslat_:W" src="manual" selected="1">VB-S---3P-AA---</AM>
+</tag>
 </m>
 <m id="m-lnd92255-127-p1s1w36">
 <src.rf>manual</src.rf>

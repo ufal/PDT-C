@@ -64,6 +64,7 @@
 <tag>
 <AM lemma="ob-99_:B_;S" src="orig">NNXXX-----A---8</AM>
 <AM lemma="ob-1" src="auto" recommended="1">RR--4----------</AM>
+<AM lemma="ob-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94202-35-p2s1Aw4">
@@ -122,7 +123,10 @@
 <LM>w#w-ln94202-35-p2s1Bw5</LM>
 </w.rf>
 <form>ČR</form>
-<tag lemma="ČR-1_:B_;G_^(Česká_republika)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94202-35-p2s1Bw6">
 <src.rf>manual</src.rf>
@@ -279,7 +283,7 @@
 <tag>
 <AM lemma="Pro_;K_,t" src="orig">AAXXX----1A----</AM>
 <AM lemma="pro-1" src="auto">RR--4----------</AM>
-<AM lemma="pro-7_^(předpona,_sam.)" src="auto" recommended="1">A2--------A----</AM>
+<AM lemma="pro-7_^(předpona,_sam.)" src="auto" recommended="1" selected="1">A2--------A----</AM>
 </tag>
 </m>
 <m id="m-ln94202-35-p2s2w6">
@@ -298,7 +302,7 @@
 <form>BIO</form>
 <tag>
 <AM lemma="BIO_;K_^(PRO-BIO)" src="orig">NNNS1-----A----</AM>
-<AM lemma="bio-1" src="auto" recommended="1">NNNS1-----A----</AM>
+<AM lemma="bio-1" src="auto" recommended="1" selected="1">NNNS1-----A----</AM>
 <AM lemma="bio-1" src="auto">NNNS4-----A----</AM>
 <AM lemma="bio-1" src="auto">NNNS5-----A----</AM>
 <AM lemma="bio-2" src="auto">A2--------A----</AM>
@@ -536,7 +540,10 @@
 <LM>w#w-ln94202-35-p2s3w6</LM>
 </w.rf>
 <form>ČR</form>
-<tag lemma="ČR-1_:B_;G_^(Česká_republika)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94202-35-p2s3w7">
 <src.rf>manual</src.rf>
@@ -625,7 +632,10 @@
 <LM>w#w-ln94202-35-p2s3w17</LM>
 </w.rf>
 <form>ha</form>
-<tag lemma="ha-1`hektar_:B" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="ha-1`hektar_:B" src="orig">NNIXX-----A---8</AM>
+<AM lemma="hektar" src="manual" selected="1">NNIXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln94202-35-p2s3w18">
 <src.rf>manual</src.rf>

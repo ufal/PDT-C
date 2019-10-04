@@ -205,7 +205,10 @@
 <LM>w#w-mf930703-064-p2s1w22</LM>
 </w.rf>
 <form>ČT</form>
-<tag lemma="ČT_:B_;K_^(Česká_televize)" src="auto" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="ČT_:B_;K_^(Česká_televize)" src="auto">NNXXX-----A---8</AM>
+<AM lemma="ČT_:B_;K_^(Česká_televize)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930703-064-p2s1w23">
 <src.rf>manual</src.rf>
@@ -355,7 +358,7 @@
 <AM lemma="leč-2_^(kniž.;_leč_by...)" src="orig">J,-------------</AM>
 <AM lemma="leč-1_^(lov;_poslední_leč...)" src="auto">NNFS1-----A----</AM>
 <AM lemma="leč-1_^(lov;_poslední_leč...)" src="auto">NNFS4-----A----</AM>
-<AM lemma="leč-3_^(ale)" src="auto" recommended="1">J^-------------</AM>
+<AM lemma="leč-3_^(ale)" src="auto" recommended="1" selected="1">J^-------------</AM>
 <AM lemma="lečo_^(jídlo)" src="auto">NNNP2-----A----</AM>
 <AM lemma="léčit" src="auto">Vi-S---2--A----</AM>
 <AM lemma="léčit" src="auto">Vi-S---3--A---4</AM>
@@ -487,7 +490,10 @@
 <LM>w#w-mf930703-064-p2s2w28</LM>
 </w.rf>
 <form>rychlokurs</form>
-<tag lemma="rychlokurs" src="orig" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="rychlokurs" src="orig">NNIS1-----A----</AM>
+<AM lemma="rychlokurs_,s_^(^DD**rychlokurz)" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930703-064-p2s2w29">
 <src.rf>manual</src.rf>
@@ -503,7 +509,10 @@
 <LM>w#w-mf930703-064-p2s2w30</LM>
 </w.rf>
 <form>Alles</form>
-<tag lemma="alles_,t" src="orig" selected="1">PLNS1----------</tag>
+<tag>
+<AM lemma="alles_,t" src="orig">PLNS1----------</AM>
+<AM lemma="Alles-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-mf930703-064-p2s2w31">
 <src.rf>manual</src.rf>
@@ -514,6 +523,7 @@
 <tag>
 <AM lemma="gute_;K_,t" src="orig">AAXXX----1A----</AM>
 <AM lemma="Gut_;S" src="auto" recommended="1">NNMS5-----A----</AM>
+<AM lemma="Gute-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-mf930703-064-p2s2w32">
@@ -694,7 +704,10 @@
 <LM>w#w-mf930703-064-p3s1w2</LM>
 </w.rf>
 <form>spa</form>
-<tag lemma="spa-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="spa-99_:B_;S" src="orig">NNXXX-----A---8</AM>
+<AM lemma="spa-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930703-064-p3s1w3">
 <src.rf>manual</src.rf>
@@ -713,7 +726,7 @@
 </w.rf>
 <form>Trip</form>
 <tag>
-<AM lemma="Trip_;R" src="orig">NNIS1-----A----</AM>
+<AM lemma="Trip_;R" src="orig" selected="1">NNIS1-----A----</AM>
 <AM lemma="trip" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="trip" src="auto">NNIS4-----A----</AM>
 </tag>
@@ -732,7 +745,10 @@
 <LM>w#w-mf930703-064-p4s1w3</LM>
 </w.rf>
 <form>Suzanne</form>
-<tag lemma="Suzanne_;Y_,t" src="auto" selected="1">NNFXX-----A----</tag>
+<tag>
+<AM lemma="Suzanne_;Y_,t" src="auto">NNFXX-----A----</AM>
+<AM lemma="Suzanne_;Y" src="manual" selected="1">NNFXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930703-064-p4s1w4">
 <src.rf>manual</src.rf>
@@ -825,7 +841,7 @@
 <AM lemma="zpěvačka" src="auto">NNFP1-----A----</AM>
 <AM lemma="zpěvačka" src="auto">NNFP4-----A----</AM>
 <AM lemma="zpěvačka" src="auto">NNFP5-----A----</AM>
-<AM lemma="zpěvačka" src="auto" recommended="1">NNFS2-----A----</AM>
+<AM lemma="zpěvačka" src="auto" recommended="1" selected="1">NNFS2-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930703-064-p4s1w15">
@@ -834,7 +850,10 @@
 <LM>w#w-mf930703-064-p4s1w15</LM>
 </w.rf>
 <form>Suzanne</form>
-<tag lemma="Suzanne_;Y_,t" src="auto" selected="1">NNFXX-----A----</tag>
+<tag>
+<AM lemma="Suzanne_;Y_,t" src="auto">NNFXX-----A----</AM>
+<AM lemma="Suzanne_;Y" src="manual" selected="1">NNFXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930703-064-p4s1w16">
 <src.rf>manual</src.rf>
@@ -990,7 +1009,7 @@
 <form>zpěvačku</form>
 <tag>
 <AM lemma="zpěvák" src="orig">NNFS4-----A----</AM>
-<AM lemma="zpěvačka" src="auto" recommended="1">NNFS4-----A----</AM>
+<AM lemma="zpěvačka" src="auto" recommended="1" selected="1">NNFS4-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930703-064-p4s2w18">
@@ -1058,7 +1077,7 @@
 </w.rf>
 <form>Trip</form>
 <tag>
-<AM lemma="Trip_;R" src="orig">NNIS1-----A----</AM>
+<AM lemma="Trip_;R" src="orig" selected="1">NNIS1-----A----</AM>
 <AM lemma="trip" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="trip" src="auto">NNIS4-----A----</AM>
 </tag>
@@ -1133,7 +1152,10 @@
 <LM>w#w-mf930703-064-p4s3w12</LM>
 </w.rf>
 <form>ČT</form>
-<tag lemma="ČT_:B_;K_^(Česká_televize)" src="auto" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="ČT_:B_;K_^(Česká_televize)" src="auto">NNXXX-----A---8</AM>
+<AM lemma="ČT_:B_;K_^(Česká_televize)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930703-064-p4s3w13">
 <src.rf>manual</src.rf>
@@ -1181,7 +1203,10 @@
 <LM>w#w-mf930703-064-p4s3w18</LM>
 </w.rf>
 <form>New</form>
-<tag lemma="New-1_;G_,t_^(součást_míst._jmen)" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="New-1_;G_,t_^(součást_míst._jmen)" src="orig">AAXXX----1A----</AM>
+<AM lemma="New-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-mf930703-064-p4s3w19">
 <src.rf>manual</src.rf>
@@ -1306,6 +1331,7 @@
 <tag>
 <AM lemma="raf-99_:B_;S" src="orig">NNXXX-----A---8</AM>
 <AM lemma="rafnout_:W" src="auto" recommended="1">VpYS---XR-AA--6</AM>
+<AM lemma="raf-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930703-064-p5s1w3">

@@ -112,6 +112,7 @@
 <tag>
 <AM lemma="Spale_;G" src="orig">NNNXX-----A----</AM>
 <AM lemma="Spal_;S" src="auto" recommended="1">NNMS5-----A----</AM>
+<AM lemma="Spala_;G" src="manual" selected="1">NNFS6-----A----</AM>
 </tag>
 </m>
 </s>

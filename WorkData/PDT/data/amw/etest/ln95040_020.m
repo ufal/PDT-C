@@ -143,7 +143,10 @@
 <LM>w#w-ln95040-020-p2s1Bw11</LM>
 </w.rf>
 <form>KP</form>
-<tag lemma="KP_:B_;K" src="auto" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="KP_:B_;K" src="auto">NNXXX-----A---8</AM>
+<AM lemma="KP-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95040-020-p2s1Bw12">
 <src.rf>manual</src.rf>
@@ -249,7 +252,10 @@
 <LM>w#w-ln95040-020-p2s2w8</LM>
 </w.rf>
 <form>dostat</form>
-<tag lemma="dostat" src="orig" selected="1">Vf--------A----</tag>
+<tag>
+<AM lemma="dostat" src="orig">Vf--------A----</AM>
+<AM lemma="dostat_:W" src="manual" selected="1">Vf--------A----</AM>
+</tag>
 </m>
 <m id="m-ln95040-020-p2s2w9">
 <src.rf>manual</src.rf>
@@ -300,7 +306,7 @@
 <tag>
 <AM lemma="přece" src="orig">Db-------------</AM>
 <AM lemma="přece-1" src="auto" recommended="1">J^-------------</AM>
-<AM lemma="přece-2" src="auto">TT-------------</AM>
+<AM lemma="přece-2" src="auto" selected="1">TT-------------</AM>
 </tag>
 </m>
 <m id="m-ln95040-020-p2s2w15">
@@ -333,7 +339,10 @@
 <LM>w#w-ln95040-020-p2s2w18</LM>
 </w.rf>
 <form>PMEZ</form>
-<tag lemma="PMEZ_:B_;K_^(Pohár_mistrů_evropských_zemí)" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="PMEZ_:B_;K_^(Pohár_mistrů_evropských_zemí)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="PMEZ-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95040-020-p2s2w19">
 <src.rf>manual</src.rf>
@@ -447,7 +456,10 @@
 <LM>w#w-ln95040-020-p2s3w13</LM>
 </w.rf>
 <form>zdá</form>
-<tag lemma="zdát" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag>
+<AM lemma="zdát" src="orig">VB-S---3P-AA---</AM>
+<AM lemma="zdát_:T" src="manual" selected="1">VB-S---3P-AA---</AM>
+</tag>
 </m>
 <m id="m-ln95040-020-p2s3w14">
 <src.rf>manual</src.rf>
@@ -674,7 +686,10 @@
 <LM>w#w-ln95040-020-p2s4w8</LM>
 </w.rf>
 <form>dovedla</form>
-<tag lemma="dovést" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag>
+<AM lemma="dovést" src="orig">VpQW---XR-AA---</AM>
+<AM lemma="dovést_:W" src="manual" selected="1">VpQW---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-ln95040-020-p2s4w9">
 <src.rf>manual</src.rf>
@@ -954,6 +969,7 @@
 <AM lemma="začít-1" src="orig">Vf--------A----</AM>
 <AM lemma="začít-1_^(začnout)" src="auto" recommended="1">Vf--------A----</AM>
 <AM lemma="začít-2_^(pocítit)" src="auto">Vf--------A----</AM>
+<AM lemma="začít-1_:W_^(začnout)" src="manual" selected="1">Vf--------A----</AM>
 </tag>
 </m>
 <m id="m-ln95040-020-p2s6w13">

@@ -65,6 +65,7 @@
 <AM lemma="mas-99_:B_;S" src="orig">NNXXX-----A---8</AM>
 <AM lemma="masa_^(velké_množství)" src="auto" recommended="1">NNFP2-----A----</AM>
 <AM lemma="maso_^(jídlo_apod.)" src="auto">NNNP2-----A----</AM>
+<AM lemma="mas-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920902-005-p1s1Bw4">
@@ -227,7 +228,10 @@
 <LM>w#w-mf920902-005-p1s1Cw18</LM>
 </w.rf>
 <form>Breda</form>
-<tag lemma="Breda_;G" src="auto" selected="1">NNFS1-----A----</tag>
+<tag>
+<AM lemma="Breda_;G" src="auto">NNFS1-----A----</AM>
+<AM lemma="Breda_;G_;K" src="manual" selected="1">NNFS1-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920902-005-p1s1Cw19">
 <src.rf>manual</src.rf>
@@ -369,7 +373,7 @@
 <form>totiž</form>
 <tag>
 <AM lemma="totiž" src="orig">Db-------------</AM>
-<AM lemma="totiž-1" src="auto" recommended="1">J^-------------</AM>
+<AM lemma="totiž-1" src="auto" recommended="1" selected="1">J^-------------</AM>
 <AM lemma="totiž-2" src="auto">TT-------------</AM>
 </tag>
 </m>
@@ -647,7 +651,10 @@
 <LM>w#w-mf920902-005-p1s5w6</LM>
 </w.rf>
 <form>jen</form>
-<tag lemma="jen-1" src="auto" selected="1">TT-------------</tag>
+<tag>
+<AM lemma="jen-1" src="auto">TT-------------</AM>
+<AM lemma="jen-4_^(pouze)" src="manual" selected="1">Db-------------</AM>
+</tag>
 </m>
 <m id="m-mf920902-005-p1s5w7">
 <src.rf>manual</src.rf>
@@ -703,7 +710,10 @@
 <LM>w#w-mf920902-005-p1s5w13</LM>
 </w.rf>
 <form>stojí</form>
-<tag lemma="stát-4_^(něco_stojí_peníze)" src="orig" selected="1">VB-P---3P-AA---</tag>
+<tag>
+<AM lemma="stát-4_^(něco_stojí_peníze)" src="orig">VB-P---3P-AA---</AM>
+<AM lemma="stát-3_^(stojím_stojíš)" src="manual" selected="1">VB-S---3P-AA---</AM>
+</tag>
 </m>
 <m id="m-mf920902-005-p1s5w14">
 <src.rf>manual</src.rf>
@@ -931,7 +941,10 @@
 <LM>w#w-mf920902-005-p1s7w12</LM>
 </w.rf>
 <form>řekl</form>
-<tag lemma="říci" src="auto" selected="1">VpYS---XR-AA---</tag>
+<tag>
+<AM lemma="říci" src="auto">VpYS---XR-AA---</AM>
+<AM lemma="říci_:W" src="manual" selected="1">VpYS---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-mf920902-005-p1s7w13">
 <src.rf>manual</src.rf>
@@ -963,7 +976,10 @@
 <LM>w#w-mf920902-005-p1s7w16</LM>
 </w.rf>
 <form>DPMO</form>
-<tag lemma="DPMO-1_:B_;K_^(Dopravní_podnik_města_Ostravy)" src="auto" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="DPMO-1_:B_;K_^(Dopravní_podnik_města_Ostravy)" src="auto">NNIXX-----A---8</AM>
+<AM lemma="DPMO-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920902-005-p1s7w17">
 <src.rf>manual</src.rf>

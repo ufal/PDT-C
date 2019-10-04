@@ -351,7 +351,10 @@
 <LM>w#w-lnd94103-082-p1s3w9</LM>
 </w.rf>
 <form>IHF</form>
-<tag lemma="IHF_:B_;K" src="auto" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="IHF_:B_;K" src="auto">NNXXX-----A---8</AM>
+<AM lemma="IHF-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd94103-082-p1s3w10">
 <src.rf>manual</src.rf>

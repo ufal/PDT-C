@@ -96,7 +96,10 @@
 <LM>w#w-mf920922-087-p1s2w6</LM>
 </w.rf>
 <form>mm</form>
-<tag lemma="mm-1`milimetr_:B" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="mm-1`milimetr_:B" src="orig">NNIXX-----A---8</AM>
+<AM lemma="milimetr" src="manual" selected="1">NNIXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-mf920922-087-p1s2w7">
 <src.rf>manual</src.rf>
@@ -454,7 +457,10 @@
 <LM>w#w-mf920922-087-p1s4w5</LM>
 </w.rf>
 <form>sto</form>
-<tag lemma="sto-1`100_^(bez_sto_mužů,_sto_dětem,...)" src="orig" selected="1">ClXP2----------</tag>
+<tag>
+<AM lemma="sto-1`100_^(bez_sto_mužů,_sto_dětem,...)" src="orig">ClXP2----------</AM>
+<AM lemma="sto-1`100" src="manual" selected="1">ClXP2----------</AM>
+</tag>
 </m>
 <m id="m-mf920922-087-p1s4w6">
 <src.rf>manual</src.rf>
@@ -825,6 +831,7 @@
 <tag>
 <AM lemma="VW-1_:B_;R_,t_^(automobil_značky_Volkswagen)" src="orig">NNIXX-----A----</AM>
 <AM lemma="VW_:B_;K_;R_,t_^(název_firmy/auta_Volkswagen)" src="auto" recommended="1">NNIXX-----A---8</AM>
+<AM lemma="VW_:B_;K_;R_^(název_firmy/auta_Volkswagen)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920922-087-p1s7w7">
@@ -833,7 +840,10 @@
 <LM>w#w-mf920922-087-p1s7w7</LM>
 </w.rf>
 <form>Combi</form>
-<tag lemma="Combi_;R_,t_^(v_názvech_např._Škoda_Octavia_Combi)" src="orig" selected="1">NNNXX-----A----</tag>
+<tag>
+<AM lemma="Combi_;R_,t_^(v_názvech_např._Škoda_Octavia_Combi)" src="orig">NNNXX-----A----</AM>
+<AM lemma="Combi_;R_^(v_názvech_např._Škoda_Octavia_Combi)" src="manual" selected="1">NNNXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920922-087-p1s7w8">
 <src.rf>manual</src.rf>
@@ -844,6 +854,7 @@
 <tag>
 <AM lemma="Variant_,t" src="orig">NNXXX-----A----</AM>
 <AM lemma="varianta" src="auto" recommended="1">NNFP2-----A----</AM>
+<AM lemma="Variant_;R_^(vozidlo)" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920922-087-p1s7w9">
@@ -877,7 +888,10 @@
 <LM>w#w-mf920922-087-p1s7w12</LM>
 </w.rf>
 <form>Kčs</form>
-<tag lemma="Kčs-1_:B_^(Koruna_čs.)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="Kčs-1_:B_^(Koruna_čs.)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="Kčs-1_:B_^(Koruna_čs.)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920922-087-p1s7w13">
 <src.rf>manual</src.rf>
@@ -936,6 +950,7 @@
 <tag>
 <AM lemma="VW-1_:B_;R_,t_^(automobil_značky_Volkswagen)" src="orig">NNIXX-----A----</AM>
 <AM lemma="VW_:B_;K_;R_,t_^(název_firmy/auta_Volkswagen)" src="auto" recommended="1">NNIXX-----A---8</AM>
+<AM lemma="VW_:B_;K_;R_^(název_firmy/auta_Volkswagen)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920922-087-p1s7w20">
@@ -969,7 +984,10 @@
 <LM>w#w-mf920922-087-p1s7w23</LM>
 </w.rf>
 <form>Kčs</form>
-<tag lemma="Kčs-1_:B_^(Koruna_čs.)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="Kčs-1_:B_^(Koruna_čs.)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="Kčs-1_:B_^(Koruna_čs.)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920922-087-p1s7w24">
 <src.rf>manual</src.rf>
@@ -1054,7 +1072,7 @@
 <form>Audi</form>
 <tag>
 <AM lemma="Audi-2_;R_^(vozidlo)" src="orig">NNNXX-----A----</AM>
-<AM lemma="Audi_;K_;R_^(vozidlo)" src="auto" recommended="1">NNXXX-----A----</AM>
+<AM lemma="Audi_;K_;R_^(vozidlo)" src="auto" recommended="1" selected="1">NNXXX-----A----</AM>
 <AM lemma="audi_^(vozidlo)" src="auto">NNXXX-----A----</AM>
 </tag>
 </m>

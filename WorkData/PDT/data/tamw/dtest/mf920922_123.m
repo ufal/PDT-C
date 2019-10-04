@@ -239,6 +239,8 @@
 <AM lemma="Slavonski_;G_,t" src="orig">AAIS1----1A----</AM>
 <AM lemma="Slavonski_;S" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Slavonski_;S" src="auto">NNMS5-----A----</AM>
+<AM lemma="Slavonski-2_,t" src="manual">AAXXX----1A----</AM>
+<AM lemma="Slavonski-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-mf920922-123-p2s1Bw12">
@@ -247,7 +249,10 @@
 <LM>w#w-mf920922-123-p2s1Bw12</LM>
 </w.rf>
 <form>Brod</form>
-<tag lemma="Brod-2_;G" src="orig" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="Brod-2_;G" src="orig">NNIS1-----A----</AM>
+<AM lemma="Brod-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-mf920922-123-p2s1Bw13">
 <src.rf>manual</src.rf>
@@ -300,7 +305,7 @@
 <tag>
 <AM lemma="Sarajevo_;G" src="orig">NNNS6-----A----</AM>
 <AM lemma="Sarajevo_;G" src="auto">NNNS3-----A----</AM>
-<AM lemma="Sarajevo_;G" src="auto" recommended="1">NNNS6-----A---1</AM>
+<AM lemma="Sarajevo_;G" src="auto" recommended="1" selected="1">NNNS6-----A---1</AM>
 </tag>
 </m>
 <m id="m-mf920922-123-p3s1w3">
@@ -472,7 +477,7 @@
 </w.rf>
 <form>Stup</form>
 <tag>
-<AM lemma="Stup_;G" src="orig">NNIS1-----A----</AM>
+<AM lemma="Stup_;G" src="orig" selected="1">NNIS1-----A----</AM>
 <AM lemma="stoupa_,n" src="auto" recommended="1">NNFP2-----A----</AM>
 <AM lemma="stoupit_,s" src="auto">Vi-S---2--A----</AM>
 <AM lemma="stoupit_,s" src="auto">Vi-S---3--A---4</AM>
@@ -1286,7 +1291,10 @@
 <LM>w#w-mf920922-123-p4s2w8</LM>
 </w.rf>
 <form>OSN</form>
-<tag lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920922-123-p4s2w9">
 <src.rf>manual</src.rf>
@@ -1294,7 +1302,10 @@
 <LM>w#w-mf920922-123-p4s2w9</LM>
 </w.rf>
 <form>UNICEF</form>
-<tag lemma="UNICEF_:B_;K" src="auto" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="UNICEF_:B_;K" src="auto">NNXXX-----A---8</AM>
+<AM lemma="UNICEF-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920922-123-p4s2w10">
 <src.rf>manual</src.rf>
@@ -1376,7 +1387,10 @@
 <LM>w#w-mf920922-123-p4s3w7</LM>
 </w.rf>
 <form>zabito</form>
-<tag lemma="zabít" src="orig" selected="1">VsNS---XX-AP---</tag>
+<tag>
+<AM lemma="zabít" src="orig">VsNS---XX-AP---</AM>
+<AM lemma="zabít_:W" src="manual" selected="1">VsNS---XX-AP---</AM>
+</tag>
 </m>
 <m id="m-mf920922-123-p4s3w8">
 <src.rf>manual</src.rf>

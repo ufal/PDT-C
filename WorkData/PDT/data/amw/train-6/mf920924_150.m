@@ -35,7 +35,10 @@
 <LM>w#w-mf920924-150-p1s1Aw3</LM>
 </w.rf>
 <form>ČSFR</form>
-<tag lemma="ČSFR-1_:B_;G_^(Čs._federativní_republika)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ČSFR-1_:B_;G_^(Čs._federativní_republika)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČSFR-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-mf920924-150-p1s1Aw4">
 <src.rf>manual</src.rf>
@@ -337,7 +340,10 @@
 <LM>w#w-mf920924-150-p2s2w20</LM>
 </w.rf>
 <form>nejvíc</form>
-<tag lemma="hodně-2" src="auto" selected="1">Dg-------3A---1</tag>
+<tag>
+<AM lemma="hodně-2" src="auto">Dg-------3A---1</AM>
+<AM lemma="hodně-3" src="manual" selected="1">Dg-------3A---1</AM>
+</tag>
 </m>
 <m id="m-mf920924-150-p2s2w21">
 <src.rf>manual</src.rf>
@@ -669,7 +675,11 @@
 <LM>w#w-mf920924-150-p2s4w3</LM>
 </w.rf>
 <form>Corriere</form>
-<tag lemma="Corriere_;R_,t" src="orig" selected="1">NNIXX-----A----</tag>
+<tag>
+<AM lemma="Corriere_;R_,t" src="orig">NNIXX-----A----</AM>
+<AM lemma="corriere_,t" src="manual">NNXXX-----A----</AM>
+<AM lemma="Corriere-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-mf920924-150-p2s4w4">
 <src.rf>manual</src.rf>
@@ -680,6 +690,7 @@
 <tag>
 <AM lemma="della_,t" src="orig">AAXXX----1A----</AM>
 <AM lemma="della_;R_,t_^(it.,_ve_jménech,_př._della_Rebia)" src="auto" recommended="1">RR--X----------</AM>
+<AM lemma="della-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-mf920924-150-p2s4w5">
@@ -702,6 +713,8 @@
 <AM lemma="sérum" src="auto">NNNP4-----A----</AM>
 <AM lemma="sérum" src="auto">NNNP5-----A----</AM>
 <AM lemma="sérum" src="auto">NNNS2-----A----</AM>
+<AM lemma="sera_,t" src="manual">NNXXX-----A----</AM>
+<AM lemma="Sera-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-mf920924-150-p2s4w6">
@@ -806,7 +819,10 @@
 <LM>w#w-mf920924-150-p2s4w18</LM>
 </w.rf>
 <form>hodně</form>
-<tag lemma="hodně-2_^(nezlobivý)_(*3ý-2)" src="auto" selected="1">Dg-------1A----</tag>
+<tag>
+<AM lemma="hodně-2_^(nezlobivý)_(*3ý-2)" src="auto">Dg-------1A----</AM>
+<AM lemma="hodně-1_^(hodně_+_2._p.,_hodně_peněz)" src="manual" selected="1">Ca--1----------</AM>
+</tag>
 </m>
 <m id="m-mf920924-150-p2s4w19">
 <src.rf>manual</src.rf>

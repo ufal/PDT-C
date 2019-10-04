@@ -90,6 +90,7 @@
 <tag>
 <AM lemma="Kč" src="orig">NNFXX-----A----</AM>
 <AM lemma="Kč_:B" src="auto" recommended="1">NNFXX-----A---8</AM>
+<AM lemma="Kč_:B" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 </s>
@@ -100,7 +101,10 @@
 <LM>w#w-mf930709-047-p2s1w4</LM>
 </w.rf>
 <form>NATURAL</form>
-<tag lemma="Natural_,t" src="auto" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="Natural_,t" src="auto">NNIS1-----A----</AM>
+<AM lemma="natural-1_;R" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930709-047-p2s1w5">
 <src.rf>manual</src.rf>
@@ -111,6 +115,7 @@
 <tag>
 <AM lemma="Kč" src="orig">NNFXX-----A----</AM>
 <AM lemma="Kč_:B" src="auto" recommended="1">NNFXX-----A---8</AM>
+<AM lemma="Kč_:B" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 </s>
@@ -139,7 +144,10 @@
 <LM>w#w-mf930709-047-p3s1w3</LM>
 </w.rf>
 <form>leva</form>
-<tag lemma="leva_;b_^(bulh._měna)" src="orig" selected="1">NNNXX-----A----</tag>
+<tag>
+<AM lemma="leva_;b_^(bulh._měna)" src="orig">NNNXX-----A----</AM>
+<AM lemma="leva_^(bulh._měna)" src="manual" selected="1">NNNXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930709-047-p3s1w4">
 <src.rf>manual</src.rf>
@@ -166,7 +174,10 @@
 <LM>w#w-mf930709-047-p3s1w6</LM>
 </w.rf>
 <form>leva</form>
-<tag lemma="leva_;b_^(bulh._měna)" src="orig" selected="1">NNNXX-----A----</tag>
+<tag>
+<AM lemma="leva_;b_^(bulh._měna)" src="orig">NNNXX-----A----</AM>
+<AM lemma="leva_^(bulh._měna)" src="manual" selected="1">NNNXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930709-047-p3s1w7">
 <src.rf>manual</src.rf>

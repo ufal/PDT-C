@@ -225,7 +225,10 @@
 <LM>w#w-cmpr9417-007-p4s2w3</LM>
 </w.rf>
 <form>optimismus</form>
-<tag lemma="optimismus" src="orig" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="optimismus" src="orig">NNIS1-----A----</AM>
+<AM lemma="optimismus_,s_^(^DD**optimizmus)" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-cmpr9417-007-p4s2w4">
 <src.rf>manual</src.rf>
@@ -1078,7 +1081,7 @@
 <tag>
 <AM lemma="tedy" src="orig">Db-------------</AM>
 <AM lemma="tedy-1" src="auto">TT-------------</AM>
-<AM lemma="tedy-2" src="auto" recommended="1">J^-------------</AM>
+<AM lemma="tedy-2" src="auto" recommended="1" selected="1">J^-------------</AM>
 </tag>
 </m>
 <m id="m-cmpr9417-007-p6s3w9">
@@ -1488,7 +1491,7 @@
 <form>přece</form>
 <tag>
 <AM lemma="přece" src="orig">Db-------------</AM>
-<AM lemma="přece-1" src="auto" recommended="1">J^-------------</AM>
+<AM lemma="přece-1" src="auto" recommended="1" selected="1">J^-------------</AM>
 <AM lemma="přece-2" src="auto">TT-------------</AM>
 </tag>
 </m>
@@ -1758,7 +1761,10 @@
 <LM>w#w-cmpr9417-007-p8s2w7</LM>
 </w.rf>
 <form>jen</form>
-<tag lemma="jen-1" src="auto" selected="1">TT-------------</tag>
+<tag>
+<AM lemma="jen-1" src="auto">TT-------------</AM>
+<AM lemma="jen-4_^(pouze)" src="manual" selected="1">Db-------------</AM>
+</tag>
 </m>
 <m id="m-cmpr9417-007-p8s2w8">
 <src.rf>manual</src.rf>
@@ -2748,7 +2754,10 @@
 <LM>w#w-cmpr9417-007-p12s1w1</LM>
 </w.rf>
 <form>J</form>
-<tag lemma="J-0_:B_;Y" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="J-0_:B_;Y" src="orig">NNXXX-----A---8</AM>
+<AM lemma="J-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-cmpr9417-007-p12s1w2">
 <src.rf>manual</src.rf>
@@ -2764,7 +2773,10 @@
 <LM>w#w-cmpr9417-007-p12s1w3</LM>
 </w.rf>
 <form>Č</form>
-<tag lemma="Č-9_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="Č-9_:B_;S" src="orig">NNXXX-----A---8</AM>
+<AM lemma="Č-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-cmpr9417-007-p12s1w4">
 <src.rf>manual</src.rf>
@@ -2977,6 +2989,7 @@
 <tag>
 <AM lemma="Kč" src="orig">NNFXX-----A----</AM>
 <AM lemma="Kč_:B" src="auto" recommended="1">NNFXX-----A---8</AM>
+<AM lemma="Kč_:B" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9417-007-p13s1w23">
@@ -3189,7 +3202,10 @@
 <LM>w#w-cmpr9417-007-p13s3w15</LM>
 </w.rf>
 <form>plyne</form>
-<tag lemma="plynout" src="auto" selected="1">VB-S---3P-AA---</tag>
+<tag>
+<AM lemma="plynout" src="auto">VB-S---3P-AA---</AM>
+<AM lemma="plynout_:T" src="manual" selected="1">VB-S---3P-AA---</AM>
+</tag>
 </m>
 <m id="m-cmpr9417-007-p13s3w16">
 <src.rf>manual</src.rf>

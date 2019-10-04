@@ -19,7 +19,10 @@
 <LM>w#w-ln95040-105-p1s1w1</LM>
 </w.rf>
 <form>ČSA</form>
-<tag lemma="ČSA-1_:B_;K_^(Čs./České_aerolinie)" src="orig" selected="1">NNFPX-----A---8</tag>
+<tag>
+<AM lemma="ČSA-1_:B_;K_^(Čs./České_aerolinie)" src="orig">NNFPX-----A---8</AM>
+<AM lemma="ČSA-1_:B_;K_^(Čs./České_aerolinie)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95040-105-p1s1w2">
 <src.rf>manual</src.rf>
@@ -225,7 +228,10 @@
 <LM>w#w-ln95040-105-p2s2w8</LM>
 </w.rf>
 <form>ČSA</form>
-<tag lemma="ČSA-1_:B_;K_^(Čs./České_aerolinie)" src="orig" selected="1">NNFPX-----A---8</tag>
+<tag>
+<AM lemma="ČSA-1_:B_;K_^(Čs./České_aerolinie)" src="orig">NNFPX-----A---8</AM>
+<AM lemma="ČSA-1_:B_;K_^(Čs./České_aerolinie)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95040-105-p2s2w9">
 <src.rf>manual</src.rf>
@@ -273,7 +279,11 @@
 <LM>w#w-ln95040-105-p2s2w14</LM>
 </w.rf>
 <form>Boeing</form>
-<tag lemma="boeing_;R_,t_^(letadlo)" src="auto" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="boeing_;R_,t_^(letadlo)" src="auto">NNIS1-----A----</AM>
+<AM lemma="	Boeing_;K_;R_^(letadlo)" src="manual">NNIS1-----A----</AM>
+<AM lemma="Boeing_;K_;R_^(letadlo)" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95040-105-p2s2w15">
 <src.rf>manual</src.rf>

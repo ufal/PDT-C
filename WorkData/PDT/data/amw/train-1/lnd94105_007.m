@@ -119,7 +119,10 @@
 <LM>w#w-lnd94105-007-p1s3w3</LM>
 </w.rf>
 <form>Jicchak</form>
-<tag lemma="Jicchak_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Jicchak_;S" src="orig">NNMS1-----A----</AM>
+<AM lemma="Jicchak_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd94105-007-p1s3w4">
 <src.rf>manual</src.rf>
@@ -219,6 +222,7 @@
 <AM lemma="dvoudenní" src="orig">AAIS4----1A----</AM>
 <AM lemma="dva`2" src="auto">ClXP2----------</AM>
 <AM lemma="dva`2" src="auto" recommended="1">ClXP6----------</AM>
+<AM lemma="dva-2`2" src="manual" selected="1">A2--------A----</AM>
 </tag>
 </m>
 <m id="m-lnd94105-007-p1s3w16">
@@ -791,7 +795,10 @@
 <LM>w#w-lnd94105-007-p1s5w6</LM>
 </w.rf>
 <form>řekl</form>
-<tag lemma="říci" src="auto" selected="1">VpYS---XR-AA---</tag>
+<tag>
+<AM lemma="říci" src="auto">VpYS---XR-AA---</AM>
+<AM lemma="říci_:W" src="manual" selected="1">VpYS---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-lnd94105-007-p1s5w7">
 <src.rf>manual</src.rf>

@@ -613,7 +613,10 @@
 <LM>w#w-ln94211-99-p3s1w19</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-2" src="auto" selected="1">Dg-------2A----</tag>
+<tag>
+<AM lemma="hodně-2" src="auto">Dg-------2A----</AM>
+<AM lemma="hodně-3" src="manual" selected="1">Dg-------2A----</AM>
+</tag>
 </m>
 <m id="m-ln94211-99-p3s1w20">
 <src.rf>manual</src.rf>
@@ -1245,7 +1248,7 @@
 <form>totiž</form>
 <tag>
 <AM lemma="totiž" src="orig">Db-------------</AM>
-<AM lemma="totiž-1" src="auto" recommended="1">J^-------------</AM>
+<AM lemma="totiž-1" src="auto" recommended="1" selected="1">J^-------------</AM>
 <AM lemma="totiž-2" src="auto">TT-------------</AM>
 </tag>
 </m>
@@ -1312,7 +1315,7 @@
 </w.rf>
 <form>nebývalý</form>
 <tag>
-<AM lemma="nebývalý" src="orig">AAIS4----1A----</AM>
+<AM lemma="nebývalý" src="orig" selected="1">AAIS4----1A----</AM>
 <AM lemma="bývalý_^(*2t)" src="auto">AAFP1----1N---6</AM>
 <AM lemma="bývalý_^(*2t)" src="auto">AAFP4----1N---6</AM>
 <AM lemma="bývalý_^(*2t)" src="auto">AAFP5----1N---6</AM>
@@ -2013,7 +2016,7 @@
 <tag>
 <AM lemma="tedy" src="orig">Db-------------</AM>
 <AM lemma="tedy-1" src="auto">TT-------------</AM>
-<AM lemma="tedy-2" src="auto" recommended="1">J^-------------</AM>
+<AM lemma="tedy-2" src="auto" recommended="1" selected="1">J^-------------</AM>
 </tag>
 </m>
 <m id="m-ln94211-99-p4s3w20">

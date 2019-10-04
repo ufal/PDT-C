@@ -1025,7 +1025,7 @@
 <form>vůbec</form>
 <tag>
 <AM lemma="vůbec" src="orig">Db-------------</AM>
-<AM lemma="vůbec" src="auto" recommended="1">TT-------------</AM>
+<AM lemma="vůbec" src="auto" recommended="1" selected="1">TT-------------</AM>
 </tag>
 </m>
 <m id="m-ln94203-82-p2s5w5">
@@ -1292,7 +1292,7 @@
 <form>nejen</form>
 <tag>
 <AM lemma="nejen" src="orig">TT-------------</AM>
-<AM lemma="nejen" src="auto" recommended="1">Db-------------</AM>
+<AM lemma="nejen" src="auto" recommended="1" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m-ln94203-82-p2s5w38">
@@ -1591,7 +1591,10 @@
 <LM>w#w-ln94203-82-p3s1w15</LM>
 </w.rf>
 <form>ani</form>
-<tag lemma="ani-1" src="auto" selected="1">J^-------------</tag>
+<tag>
+<AM lemma="ani-1" src="auto">J^-------------</AM>
+<AM lemma="ani-2" src="manual" selected="1">TT-------------</AM>
+</tag>
 </m>
 <m id="m-ln94203-82-p3s1w16">
 <src.rf>manual</src.rf>
@@ -1607,7 +1610,10 @@
 <LM>w#w-ln94203-82-p3s1w17</LM>
 </w.rf>
 <form>sezoně</form>
-<tag lemma="sezona" src="orig" selected="1">NNFS6-----A----</tag>
+<tag>
+<AM lemma="sezona" src="orig">NNFS6-----A----</AM>
+<AM lemma="sezona_,s_^(^DD**sezóna)" src="manual" selected="1">NNFS6-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94203-82-p3s1w18">
 <src.rf>manual</src.rf>
@@ -1743,7 +1749,10 @@
 <LM>w#w-ln94203-82-p3s1w34</LM>
 </w.rf>
 <form>jako</form>
-<tag lemma="jako-1" src="auto" selected="1">J,-------------</tag>
+<tag>
+<AM lemma="jako-1" src="auto" selected="1">J,-------------</AM>
+<AM lemma="jako-2" src="manual">Db-------------</AM>
+</tag>
 </m>
 <m id="m-ln94203-82-p3s1w35">
 <src.rf>manual</src.rf>
@@ -1787,7 +1796,7 @@
 <form>Snad</form>
 <tag>
 <AM lemma="snad" src="orig">Db-------------</AM>
-<AM lemma="snad" src="auto" recommended="1">TT-------------</AM>
+<AM lemma="snad" src="auto" recommended="1" selected="1">TT-------------</AM>
 </tag>
 </m>
 <m id="m-ln94203-82-p3s2w2">
@@ -1798,7 +1807,7 @@
 <form>tedy</form>
 <tag>
 <AM lemma="tedy" src="orig">Db-------------</AM>
-<AM lemma="tedy-1" src="auto">TT-------------</AM>
+<AM lemma="tedy-1" src="auto" selected="1">TT-------------</AM>
 <AM lemma="tedy-2" src="auto" recommended="1">J^-------------</AM>
 </tag>
 </m>
@@ -1842,7 +1851,7 @@
 <form>naleznou</form>
 <tag>
 <AM lemma="naleznout" src="orig">VB-P---3P-AA---</AM>
-<AM lemma="nalézt-2" src="auto" recommended="1">VB-P---3P-AA---</AM>
+<AM lemma="nalézt-2" src="auto" recommended="1" selected="1">VB-P---3P-AA---</AM>
 </tag>
 </m>
 <m id="m-ln94203-82-p3s2w8">
@@ -2285,7 +2294,10 @@
 <LM>w#w-ln94203-82-p3s3w33</LM>
 </w.rf>
 <form>konkurzu</form>
-<tag lemma="konkurs_^(úpadek;;soutěž)" src="auto" selected="1">NNIS6-----A---1</tag>
+<tag>
+<AM lemma="konkurs_^(úpadek;;soutěž)" src="auto">NNIS6-----A---1</AM>
+<AM lemma="konkurz" src="manual" selected="1">NNIS6-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94203-82-p3s3w34">
 <src.rf>manual</src.rf>

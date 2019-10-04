@@ -207,7 +207,10 @@
 <LM>w#w-mf930703-007-p2s2w3</LM>
 </w.rf>
 <form>APA</form>
-<tag lemma="APA_:B" src="auto" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="APA_:B" src="auto">NNXXX-----A---8</AM>
+<AM lemma="APA-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-mf930703-007-p2s2w4">
 <src.rf>manual</src.rf>

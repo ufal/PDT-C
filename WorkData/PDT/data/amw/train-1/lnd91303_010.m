@@ -147,7 +147,10 @@
 <LM>w#w-lnd91303-010-p5s1w8</LM>
 </w.rf>
 <form>začali</form>
-<tag lemma="začít-1_^(začnout)" src="auto" selected="1">VpMP---XR-AA---</tag>
+<tag>
+<AM lemma="začít-1_^(začnout)" src="auto">VpMP---XR-AA---</AM>
+<AM lemma="začít-1_:W_^(začnout)" src="manual" selected="1">VpMP---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-lnd91303-010-p5s1w9">
 <src.rf>manual</src.rf>
@@ -187,7 +190,10 @@
 <LM>w#w-lnd91303-010-p5s1w13</LM>
 </w.rf>
 <form>KGB</form>
-<tag lemma="KGB_:B_;K_;p_^(Sov._státní_tajná_bezpečnost)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="KGB_:B_;K_;p_^(Sov._státní_tajná_bezpečnost)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="KGB_:B_;K_^(Sov._státní_tajná_bezpečnost)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd91303-010-p5s1w14">
 <src.rf>manual</src.rf>
@@ -222,6 +228,8 @@
 <tag>
 <AM lemma="GRU_:B_;K_,t" src="orig">NNXXX-----A---8</AM>
 <AM lemma="Grus_:B_;G_,t_^(Jeřáb,_souhvězdí)" src="auto" recommended="1">NNIXX-----A---8</AM>
+<AM lemma="GRU_:B" src="manual">NNXXX-----A---8</AM>
+<AM lemma="GRU-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd91303-010-p5s1w18">
@@ -392,7 +400,11 @@
 <LM>w#w-lnd91303-010-p5s2w5</LM>
 </w.rf>
 <form>Corriere</form>
-<tag lemma="Corriere_;R_,t" src="orig" selected="1">NNIXX-----A----</tag>
+<tag>
+<AM lemma="Corriere_;R_,t" src="orig">NNIXX-----A----</AM>
+<AM lemma="corriere_,t" src="manual">NNXXX-----A----</AM>
+<AM lemma="Corriere-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-lnd91303-010-p5s2w6">
 <src.rf>manual</src.rf>
@@ -403,6 +415,7 @@
 <tag>
 <AM lemma="della_,t" src="orig">AAXXX----1A----</AM>
 <AM lemma="della_;R_,t_^(it.,_ve_jménech,_př._della_Rebia)" src="auto" recommended="1">RR--X----------</AM>
+<AM lemma="della-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-lnd91303-010-p5s2w7">
@@ -425,6 +438,8 @@
 <AM lemma="sérum" src="auto">NNNP4-----A----</AM>
 <AM lemma="sérum" src="auto">NNNP5-----A----</AM>
 <AM lemma="sérum" src="auto">NNNS2-----A----</AM>
+<AM lemma="sera_,t" src="manual">NNXXX-----A----</AM>
+<AM lemma="Sera-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-lnd91303-010-p5s2w8">
@@ -579,7 +594,10 @@
 <LM>w#w-lnd91303-010-p5s3w18</LM>
 </w.rf>
 <form>km</form>
-<tag lemma="km-1`kilometr_:B" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="km-1`kilometr_:B" src="orig">NNIXX-----A---8</AM>
+<AM lemma="kilometr" src="manual" selected="1">NNIXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd91303-010-p5s3w19">
 <src.rf>manual</src.rf>
@@ -807,7 +825,10 @@
 <LM>w#w-lnd91303-010-p5s5w2</LM>
 </w.rf>
 <form>začal</form>
-<tag lemma="začít-1_^(začnout)" src="auto" selected="1">VpYS---XR-AA---</tag>
+<tag>
+<AM lemma="začít-1_^(začnout)" src="auto">VpYS---XR-AA---</AM>
+<AM lemma="začít-1_:W_^(začnout)" src="manual" selected="1">VpYS---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-lnd91303-010-p5s5w3">
 <src.rf>manual</src.rf>
@@ -1039,7 +1060,10 @@
 <LM>w#w-lnd91303-010-p5s5w31</LM>
 </w.rf>
 <form>ČSFR</form>
-<tag lemma="ČSFR-1_:B_;G_^(Čs._federativní_republika)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ČSFR-1_:B_;G_^(Čs._federativní_republika)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČSFR-1_:B_;G_^(Čs._federativní_republika)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd91303-010-p5s5w32">
 <src.rf>manual</src.rf>
@@ -1244,7 +1268,10 @@
 <LM>w#w-lnd91303-010-p5s7w4</LM>
 </w.rf>
 <form>SSSR</form>
-<tag lemma="SSSR_:B_;G_^(Svaz_sov._socialist._republik)" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="SSSR_:B_;G_^(Svaz_sov._socialist._republik)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="SSSR_:B_;G_^(Svaz_sov._socialist._republik)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd91303-010-p5s7w5">
 <src.rf>manual</src.rf>
@@ -1527,7 +1554,10 @@
 <LM>w#w-lnd91303-010-p5s8w13</LM>
 </w.rf>
 <form>dolarů</form>
-<tag lemma="dolar_;b" src="orig" selected="1">NNIP2-----A----</tag>
+<tag>
+<AM lemma="dolar_;b" src="orig">NNIP2-----A----</AM>
+<AM lemma="dolar" src="manual" selected="1">NNIP2-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd91303-010-p5s8w14">
 <src.rf>manual</src.rf>

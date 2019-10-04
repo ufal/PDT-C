@@ -259,7 +259,10 @@
 <LM>w#w-lnd94103-088-p1s2w8</LM>
 </w.rf>
 <form>jen</form>
-<tag lemma="jen-1" src="auto" selected="1">TT-------------</tag>
+<tag>
+<AM lemma="jen-1" src="auto">TT-------------</AM>
+<AM lemma="jen-4_^(pouze)" src="manual" selected="1">Db-------------</AM>
+</tag>
 </m>
 <m id="m-lnd94103-088-p1s2w9">
 <src.rf>manual</src.rf>
@@ -535,7 +538,10 @@
 <LM>w#w-lnd94103-088-p1s4w10</LM>
 </w.rf>
 <form>třeba</form>
-<tag lemma="třeba-2" src="auto" selected="1">Db-------------</tag>
+<tag>
+<AM lemma="třeba-2" src="auto">Db-------------</AM>
+<AM lemma="třeba-3" src="manual" selected="1">TT-------------</AM>
+</tag>
 </m>
 <m id="m-lnd94103-088-p1s4w11">
 <src.rf>manual</src.rf>
@@ -967,7 +973,10 @@
 <LM>w#w-lnd94103-088-p1s7w23</LM>
 </w.rf>
 <form>Plantahof</form>
-<tag lemma="Plantahof_;K_,t" src="orig" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="Plantahof_;K_,t" src="orig">NNIS1-----A----</AM>
+<AM lemma="Plantahof_;K" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd94103-088-p1s7w24">
 <src.rf>manual</src.rf>
@@ -1583,7 +1592,10 @@
 <LM>w#w-lnd94103-088-p1s11w3</LM>
 </w.rf>
 <form>sice</form>
-<tag lemma="sice-2" src="auto" selected="1">Db-------------</tag>
+<tag>
+<AM lemma="sice-2" src="auto">Db-------------</AM>
+<AM lemma="sice-1_^(spojka;_připouští_se_určitá_fakta)" src="manual" selected="1">J^-------------</AM>
+</tag>
 </m>
 <m id="m-lnd94103-088-p1s11w4">
 <src.rf>manual</src.rf>
@@ -2101,7 +2113,10 @@
 <LM>w#w-lnd94103-088-p1s13w7</LM>
 </w.rf>
 <form>jen</form>
-<tag lemma="jen-1" src="auto" selected="1">TT-------------</tag>
+<tag>
+<AM lemma="jen-1" src="auto">TT-------------</AM>
+<AM lemma="jen-4_^(pouze)" src="manual" selected="1">Db-------------</AM>
+</tag>
 </m>
 <m id="m-lnd94103-088-p1s13w8">
 <src.rf>manual</src.rf>
@@ -2551,7 +2566,10 @@
 <LM>w#w-lnd94103-088-p1s18w7</LM>
 </w.rf>
 <form>sezonních</form>
-<tag lemma="sezónní" src="orig" selected="1">AAFP2----1A----</tag>
+<tag>
+<AM lemma="sezónní" src="orig">AAFP2----1A----</AM>
+<AM lemma="sezonní_,s_^(^DD**sezónní)" src="manual" selected="1">AAFP2----1A----</AM>
+</tag>
 </m>
 <m id="m-lnd94103-088-p1s18w8">
 <src.rf>manual</src.rf>
@@ -2987,7 +3005,10 @@
 <LM>w#w-lnd94103-088-p1s20w21</LM>
 </w.rf>
 <form>třeba</form>
-<tag lemma="třeba-2" src="auto" selected="1">Db-------------</tag>
+<tag>
+<AM lemma="třeba-2" src="auto">Db-------------</AM>
+<AM lemma="třeba-3" src="manual" selected="1">TT-------------</AM>
+</tag>
 </m>
 <m id="m-lnd94103-088-p1s20w22">
 <src.rf>manual</src.rf>
@@ -3088,7 +3109,7 @@
 <tag>
 <AM lemma="tady" src="orig">Db------------1</AM>
 <AM lemma="ten" src="auto">PDFS4----------</AM>
-<AM lemma="tu" src="auto" recommended="1">Db-------------</AM>
+<AM lemma="tu" src="auto" recommended="1" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m-lnd94103-088-p1s21w5">
@@ -3307,7 +3328,10 @@
 <LM>w#w-lnd94103-088-p1s22w19</LM>
 </w.rf>
 <form>turismus</form>
-<tag lemma="turismus" src="orig" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="turismus" src="orig">NNIS1-----A----</AM>
+<AM lemma="turismus_,s_^(^DD**turizmus)" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd94103-088-p1s22w20">
 <src.rf>manual</src.rf>
@@ -3775,7 +3799,10 @@
 <LM>w#w-lnd94103-088-p1s24w30</LM>
 </w.rf>
 <form>atd</form>
-<tag lemma="atd-1_:B_^(a_tak_dále)" src="orig" selected="1">Db------------8</tag>
+<tag>
+<AM lemma="atd-1_:B_^(a_tak_dále)" src="orig">Db------------8</AM>
+<AM lemma="atd-1_:B_^(a_tak_dále)" src="manual" selected="1">Db-------------</AM>
+</tag>
 </m>
 <m id="m-lnd94103-088-p1s24w31">
 <src.rf>manual</src.rf>
@@ -4313,7 +4340,10 @@
 <LM>w#w-lnd94103-088-p1s28w9</LM>
 </w.rf>
 <form>třeba</form>
-<tag lemma="třeba-2" src="auto" selected="1">Db-------------</tag>
+<tag>
+<AM lemma="třeba-2" src="auto">Db-------------</AM>
+<AM lemma="třeba-3" src="manual" selected="1">TT-------------</AM>
+</tag>
 </m>
 <m id="m-lnd94103-088-p1s28w10">
 <src.rf>manual</src.rf>
@@ -4567,7 +4597,10 @@
 <LM>w#w-lnd94103-088-p1s31w5</LM>
 </w.rf>
 <form>diskusi</form>
-<tag lemma="diskuse" src="orig" selected="1">NNFS3-----A----</tag>
+<tag>
+<AM lemma="diskuse" src="orig">NNFS3-----A----</AM>
+<AM lemma="diskuse_,s_^(^DD**diskuze)" src="manual" selected="1">NNFS3-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd94103-088-p1s31w6">
 <src.rf>manual</src.rf>
@@ -5033,7 +5066,10 @@
 <LM>w#w-lnd94103-088-p1s36w7</LM>
 </w.rf>
 <form>kurzy</form>
-<tag lemma="kurs" src="auto" selected="1">NNIP1-----A----</tag>
+<tag>
+<AM lemma="kurs" src="auto">NNIP1-----A----</AM>
+<AM lemma="kurz" src="manual" selected="1">NNIP1-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd94103-088-p1s36w8">
 <src.rf>manual</src.rf>
@@ -5431,7 +5467,10 @@
 <LM>w#w-lnd94103-088-p1s39w2</LM>
 </w.rf>
 <form>kurzu</form>
-<tag lemma="kurs" src="auto" selected="1">NNIS6-----A---1</tag>
+<tag>
+<AM lemma="kurs" src="auto">NNIS6-----A---1</AM>
+<AM lemma="kurz" src="manual" selected="1">NNIS6-----A---1</AM>
+</tag>
 </m>
 <m id="m-lnd94103-088-p1s39w3">
 <src.rf>manual</src.rf>
@@ -5513,7 +5552,10 @@
 <LM>w#w-lnd94103-088-p1s40w2</LM>
 </w.rf>
 <form>ani</form>
-<tag lemma="ani-1" src="auto" selected="1">J^-------------</tag>
+<tag>
+<AM lemma="ani-1" src="auto">J^-------------</AM>
+<AM lemma="ani-2" src="manual" selected="1">TT-------------</AM>
+</tag>
 </m>
 <m id="m-lnd94103-088-p1s40w3">
 <src.rf>manual</src.rf>
@@ -5521,7 +5563,10 @@
 <LM>w#w-lnd94103-088-p1s40w3</LM>
 </w.rf>
 <form>kurz</form>
-<tag lemma="kurs" src="auto" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="kurs" src="auto">NNIS1-----A----</AM>
+<AM lemma="kurz" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd94103-088-p1s40w4">
 <src.rf>manual</src.rf>
@@ -5887,7 +5932,10 @@
 <LM>w#w-lnd94103-088-p1s43w9</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-2" src="auto" selected="1">Dg-------2A----</tag>
+<tag>
+<AM lemma="hodně-2" src="auto">Dg-------2A----</AM>
+<AM lemma="hodně-3" src="manual" selected="1">Dg-------2A----</AM>
+</tag>
 </m>
 <m id="m-lnd94103-088-p1s43w10">
 <src.rf>manual</src.rf>
@@ -6331,7 +6379,10 @@
 <LM>w#w-lnd94103-088-p1s45w8</LM>
 </w.rf>
 <form>kurzy</form>
-<tag lemma="kurs" src="auto" selected="1">NNIP4-----A----</tag>
+<tag>
+<AM lemma="kurs" src="auto">NNIP4-----A----</AM>
+<AM lemma="kurz" src="manual" selected="1">NNIP4-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd94103-088-p1s45w9">
 <src.rf>manual</src.rf>
@@ -6607,7 +6658,10 @@
 <LM>w#w-lnd94103-088-p1s47w7</LM>
 </w.rf>
 <form>Plantahof</form>
-<tag lemma="Plantahof_;K_,t" src="orig" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="Plantahof_;K_,t" src="orig">NNIS1-----A----</AM>
+<AM lemma="Plantahof_;K" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd94103-088-p1s47w8">
 <src.rf>manual</src.rf>
@@ -6841,7 +6895,10 @@
 <LM>w#w-lnd94103-088-p1s48w18</LM>
 </w.rf>
 <form>jen</form>
-<tag lemma="jen-1" src="auto" selected="1">TT-------------</tag>
+<tag>
+<AM lemma="jen-1" src="auto">TT-------------</AM>
+<AM lemma="jen-4_^(pouze)" src="manual" selected="1">Db-------------</AM>
+</tag>
 </m>
 <m id="m-lnd94103-088-p1s48w19">
 <src.rf>manual</src.rf>

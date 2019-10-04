@@ -121,6 +121,7 @@
 <AM lemma="man-99_:B_;S" src="orig">NNXXX-----A---8</AM>
 <AM lemma="man" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="mana" src="auto">NNFP2-----A----</AM>
+<AM lemma="man-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930702-028-p2s1w6">
@@ -939,7 +940,10 @@
 <LM>w#w-mf930702-028-p3s3w8</LM>
 </w.rf>
 <form>Hamru</form>
-<tag lemma="Hamr_;S" src="auto" selected="1">NNMS6-----A---1</tag>
+<tag>
+<AM lemma="Hamr_;S" src="auto">NNMS6-----A---1</AM>
+<AM lemma="hamr" src="manual" selected="1">NNMS6-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930702-028-p3s3w9">
 <src.rf>manual</src.rf>
@@ -1435,7 +1439,7 @@
 <form>jakkoli</form>
 <tag>
 <AM lemma="jakkoliv" src="orig">Db------------1</AM>
-<AM lemma="jakkoli-1" src="auto" recommended="1">Db-------------</AM>
+<AM lemma="jakkoli-1" src="auto" recommended="1" selected="1">Db-------------</AM>
 <AM lemma="jakkoli-2" src="auto">J,-------------</AM>
 </tag>
 </m>
@@ -1713,7 +1717,10 @@
 <LM>w#w-mf930702-028-p3s8w2</LM>
 </w.rf>
 <form>jen</form>
-<tag lemma="jen-1" src="auto" selected="1">TT-------------</tag>
+<tag>
+<AM lemma="jen-1" src="auto">TT-------------</AM>
+<AM lemma="jen-4_^(pouze)" src="manual" selected="1">Db-------------</AM>
+</tag>
 </m>
 <m id="m-mf930702-028-p3s8w3">
 <src.rf>manual</src.rf>

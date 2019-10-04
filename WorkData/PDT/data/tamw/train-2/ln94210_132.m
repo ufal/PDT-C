@@ -141,7 +141,10 @@
 <LM>w#w-ln94210-132-p1s2w4</LM>
 </w.rf>
 <form>Pink</form>
-<tag lemma="Pink_;K_,t_^(Pink_Floyd)" src="auto" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="Pink_;K_,t_^(Pink_Floyd)" src="auto">AAXXX----1A----</AM>
+<AM lemma="Pink-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94210-132-p1s2w5">
 <src.rf>manual</src.rf>
@@ -149,7 +152,10 @@
 <LM>w#w-ln94210-132-p1s2w5</LM>
 </w.rf>
 <form>Floyd</form>
-<tag lemma="Floyd_;K_,t_^(Pink_Floyd)" src="auto" selected="1">NNMPX-----A----</tag>
+<tag>
+<AM lemma="Floyd_;K_,t_^(Pink_Floyd)" src="auto">NNMPX-----A----</AM>
+<AM lemma="Floyd-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94210-132-p1s2w6">
 <src.rf>manual</src.rf>
@@ -401,7 +407,10 @@
 <LM>w#w-ln94210-132-p1s4w14</LM>
 </w.rf>
 <form>V</form>
-<tag lemma="V-0_:B_;Y" src="orig" selected="1">NNMXX-----A---8</tag>
+<tag>
+<AM lemma="V-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
+<AM lemma="V-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln94210-132-p1s4w15">
 <src.rf>manual</src.rf>
@@ -459,7 +468,10 @@
 <LM>w#w-ln94210-132-p1s5w4</LM>
 </w.rf>
 <form>Pink</form>
-<tag lemma="Pink_;K_,t_^(Pink_Floyd)" src="auto" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="Pink_;K_,t_^(Pink_Floyd)" src="auto">AAXXX----1A----</AM>
+<AM lemma="Pink-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94210-132-p1s5w5">
 <src.rf>manual</src.rf>
@@ -467,7 +479,10 @@
 <LM>w#w-ln94210-132-p1s5w5</LM>
 </w.rf>
 <form>Floyd</form>
-<tag lemma="Floyd_;K_,t_^(Pink_Floyd)" src="auto" selected="1">NNMPX-----A----</tag>
+<tag>
+<AM lemma="Floyd_;K_,t_^(Pink_Floyd)" src="auto">NNMPX-----A----</AM>
+<AM lemma="Floyd-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94210-132-p1s5w6">
 <src.rf>manual</src.rf>
@@ -605,7 +620,10 @@
 <LM>w#w-ln94210-132-p1s6w12</LM>
 </w.rf>
 <form>hod</form>
-<tag lemma="hodina_:B" src="auto" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="hodina_:B" src="auto">NNFXX-----A---8</AM>
+<AM lemma="hodina" src="manual" selected="1">NNFXX-----A---9</AM>
+</tag>
 </m>
 <m id="m-ln94210-132-p1s6w13">
 <src.rf>manual</src.rf>
@@ -637,7 +655,10 @@
 <LM>w#w-ln94210-132-p1s6w16</LM>
 </w.rf>
 <form>stadionu</form>
-<tag lemma="stadión" src="orig" selected="1">NNIS6-----A---1</tag>
+<tag>
+<AM lemma="stadión" src="orig">NNIS6-----A---1</AM>
+<AM lemma="stadion_,s_^(^DD**stadión)" src="manual" selected="1">NNIS6-----A---1</AM>
+</tag>
 </m>
 <m id="m-ln94210-132-p1s6w17">
 <src.rf>manual</src.rf>
@@ -687,7 +708,10 @@
 <LM>w#w-ln94210-132-p1s7w5</LM>
 </w.rf>
 <form>LN</form>
-<tag lemma="LN-1_:B_;R_^(Lidové_noviny,_deník)" src="orig" selected="1">NNFPX-----A---8</tag>
+<tag>
+<AM lemma="LN-1_:B_;R_^(Lidové_noviny,_deník)" src="orig">NNFPX-----A---8</AM>
+<AM lemma="LN-1_:B_;K_;R_^(Lidové_noviny,_deník)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 </s>
 </mdata>

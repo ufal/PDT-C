@@ -300,6 +300,7 @@
 <tag>
 <AM lemma="trenér_:B" src="orig">NNMXX-----A---8</AM>
 <AM lemma="trestní_:B_^(řád,_odpovědnost)" src="auto" recommended="1">AAXXX----1A---8</AM>
+<AM lemma="tr-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-ln94208-109-p2s2w10">
@@ -330,6 +331,7 @@
 <AM lemma="Sorbit" src="auto">NNIS4-----A----</AM>
 <AM lemma="sorbit" src="auto">NNIS1-----A----</AM>
 <AM lemma="sorbit" src="auto" recommended="1">NNIS4-----A----</AM>
+<AM lemma="Sorbit-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-ln94208-109-p2s2w13">
@@ -341,6 +343,7 @@
 <tag>
 <AM lemma="Skala_;Y" src="orig">NNMS4-----A----</AM>
 <AM lemma="Skala_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Skal_;Y" src="manual" selected="1">NNMS4-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94208-109-p2s2w14">
@@ -559,7 +562,10 @@
 <LM>w#w-ln94208-109-p2s4w8</LM>
 </w.rf>
 <form>J</form>
-<tag lemma="J-0_:B_;Y" src="orig" selected="1">NNMXX-----A---8</tag>
+<tag>
+<AM lemma="J-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
+<AM lemma="J-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln94208-109-p2s4w9">
 <src.rf>manual</src.rf>
@@ -725,6 +731,7 @@
 <AM lemma="Sorbit" src="auto">NNIS4-----A----</AM>
 <AM lemma="sorbit" src="auto">NNIS1-----A----</AM>
 <AM lemma="sorbit" src="auto" recommended="1">NNIS4-----A----</AM>
+<AM lemma="Sorbit-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-ln94208-109-p2s4w29">
@@ -733,7 +740,10 @@
 <LM>w#w-ln94208-109-p2s4w29</LM>
 </w.rf>
 <form>Skalem</form>
-<tag lemma="Skala_;Y" src="orig" selected="1">NNMS7-----A----</tag>
+<tag>
+<AM lemma="Skala_;Y" src="orig">NNMS7-----A----</AM>
+<AM lemma="Skal_;Y" src="manual" selected="1">NNMS7-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94208-109-p2s4w30">
 <src.rf>manual</src.rf>
@@ -791,7 +801,10 @@
 <LM>w#w-ln94208-109-p2s5w4</LM>
 </w.rf>
 <form>Sear</form>
-<tag lemma="Sear_;Y" src="orig" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Sear_;Y" src="orig">NNMS1-----A----</AM>
+<AM lemma="Sear-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94208-109-p2s5w5">
 <src.rf>manual</src.rf>
@@ -802,6 +815,7 @@
 <tag>
 <AM lemma="Skal_;Y" src="orig">NNMS1-----A----</AM>
 <AM lemma="skála" src="auto" recommended="1">NNFP2-----A----</AM>
+<AM lemma="Skal-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-ln94208-109-p2s5w6">
@@ -818,7 +832,10 @@
 <LM>w#w-ln94208-109-p2s5w7</LM>
 </w.rf>
 <form>Gelinda</form>
-<tag lemma="Gelinda_;Y" src="orig" selected="1">NNFS1-----A----</tag>
+<tag>
+<AM lemma="Gelinda_;Y" src="orig">NNFS1-----A----</AM>
+<AM lemma="Gelinda-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94208-109-p2s5w8">
 <src.rf>manual</src.rf>
@@ -826,7 +843,10 @@
 <LM>w#w-ln94208-109-p2s5w8</LM>
 </w.rf>
 <form>Glow</form>
-<tag lemma="Glow_;Y" src="orig" selected="1">NNFS1-----A----</tag>
+<tag>
+<AM lemma="Glow_;Y" src="orig">NNFS1-----A----</AM>
+<AM lemma="Glow-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94208-109-p2s5w9">
 <src.rf>manual</src.rf>
@@ -842,7 +862,10 @@
 <LM>w#w-ln94208-109-p2s5w10</LM>
 </w.rf>
 <form>Lidren</form>
-<tag lemma="Lidren_;Y" src="orig" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Lidren_;Y" src="orig">NNMS1-----A----</AM>
+<AM lemma="Lidren-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94208-109-p2s5w11">
 <src.rf>manual</src.rf>
@@ -858,7 +881,10 @@
 <LM>w#w-ln94208-109-p2s5w12</LM>
 </w.rf>
 <form>Terxi</form>
-<tag lemma="Terxi_;Y" src="orig" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Terxi_;Y" src="orig">NNMS1-----A----</AM>
+<AM lemma="Terxi-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94208-109-p2s5w13">
 <src.rf>manual</src.rf>
@@ -874,7 +900,10 @@
 <LM>w#w-ln94208-109-p2s5w14</LM>
 </w.rf>
 <form>Sarago</form>
-<tag lemma="Sarago_;Y" src="orig" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Sarago_;Y" src="orig">NNMS1-----A----</AM>
+<AM lemma="Sarago-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94208-109-p2s5w15">
 <src.rf>manual</src.rf>
@@ -898,6 +927,7 @@
 <AM lemma="Janin_;Y_^(*2a)" src="auto">AUMS1F---------</AM>
 <AM lemma="Janin_;Y_^(*2a)" src="auto">AUMS5F---------</AM>
 <AM lemma="Janina_;Y" src="auto">NNFP2-----A----</AM>
+<AM lemma="Janin-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-ln94208-109-p2s5w17">
@@ -906,7 +936,10 @@
 <LM>w#w-ln94208-109-p2s5w17</LM>
 </w.rf>
 <form>Kash</form>
-<tag lemma="Kash_;Y" src="orig" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Kash_;Y" src="orig">NNMS1-----A----</AM>
+<AM lemma="Kash-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94208-109-p2s5w18">
 <src.rf>manual</src.rf>
@@ -922,7 +955,10 @@
 <LM>w#w-ln94208-109-p2s5w19</LM>
 </w.rf>
 <form>Anthony</form>
-<tag lemma="Anthony_;Y_,t" src="auto" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Anthony_;Y_,t" src="auto">NNMS1-----A----</AM>
+<AM lemma="Anthony-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94208-109-p2s5w20">
 <src.rf>manual</src.rf>
@@ -930,7 +966,10 @@
 <LM>w#w-ln94208-109-p2s5w20</LM>
 </w.rf>
 <form>Skan</form>
-<tag lemma="Skan_;Y" src="orig" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Skan_;Y" src="orig">NNMS1-----A----</AM>
+<AM lemma="Skan-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94208-109-p2s5w21">
 <src.rf>manual</src.rf>
@@ -946,7 +985,10 @@
 <LM>w#w-ln94208-109-p2s5w22</LM>
 </w.rf>
 <form>Pat</form>
-<tag lemma="Pat_;S_;Y" src="auto" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Pat_;S_;Y" src="auto">NNMS1-----A----</AM>
+<AM lemma="Pat-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94208-109-p2s5w23">
 <src.rf>manual</src.rf>
@@ -996,7 +1038,10 @@
 <LM>w#w-ln94208-109-p2s6w5</LM>
 </w.rf>
 <form>Skree</form>
-<tag lemma="Skree_;K_,t" src="orig" selected="1">NNNXX-----A----</tag>
+<tag>
+<AM lemma="Skree_;K_,t" src="orig">NNNXX-----A----</AM>
+<AM lemma="Skree-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94208-109-p2s6w6">
 <src.rf>manual</src.rf>

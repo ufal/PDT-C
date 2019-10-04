@@ -119,7 +119,10 @@
 <LM>w#w-mf920923-012-p1s1Cw8</LM>
 </w.rf>
 <form>MICE</form>
-<tag lemma="MICE_:B_;m" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="MICE_:B_;m" src="orig">NNFXX-----A---8</AM>
+<AM lemma="MICE-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-mf920923-012-p1s1Cw9">
 <src.rf>manual</src.rf>
@@ -362,7 +365,10 @@
 <LM>w#w-mf920923-012-p1s2w3</LM>
 </w.rf>
 <form>MICE</form>
-<tag lemma="MICE_:B_;m" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="MICE_:B_;m" src="orig">NNFXX-----A---8</AM>
+<AM lemma="MICE-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-mf920923-012-p1s2w4">
 <src.rf>manual</src.rf>
@@ -410,7 +416,10 @@
 <LM>w#w-mf920923-012-p1s2w9</LM>
 </w.rf>
 <form>kursu</form>
-<tag lemma="kurs" src="auto" selected="1">NNIS2-----A----</tag>
+<tag>
+<AM lemma="kurs" src="auto">NNIS2-----A----</AM>
+<AM lemma="kurs_,s_^(^DD**kurz)" src="manual" selected="1">NNIS2-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920923-012-p1s2w10">
 <src.rf>manual</src.rf>
@@ -588,7 +597,10 @@
 <LM>w#w-mf920923-012-p1s3w5</LM>
 </w.rf>
 <form>MICE</form>
-<tag lemma="MICE_:B_;m" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="MICE_:B_;m" src="orig">NNFXX-----A---8</AM>
+<AM lemma="MICE-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-mf920923-012-p1s3w6">
 <src.rf>manual</src.rf>

@@ -35,7 +35,10 @@
 <LM>w#w-mf930703-056-p1s1w3</LM>
 </w.rf>
 <form>D</form>
-<tag lemma="D-0_:B_;Y" src="orig" selected="1">NNMXX-----A---8</tag>
+<tag>
+<AM lemma="D-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
+<AM lemma="D-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930703-056-p1s1w4">
 <src.rf>manual</src.rf>
@@ -52,7 +55,7 @@
 </w.rf>
 <form>Reu</form>
 <tag>
-<AM lemma="Rea_;S" src="orig">NNMS4-----A----</AM>
+<AM lemma="Rea_;S" src="orig" selected="1">NNMS4-----A----</AM>
 <AM lemma="Reo_;G" src="auto">NNNS3-----A----</AM>
 <AM lemma="Reo_;G" src="auto">NNNS6-----A----</AM>
 <AM lemma="reum" src="auto">NNNS3-----A----</AM>
@@ -179,7 +182,11 @@
 <LM>w#w-mf930703-056-p2s1w15</LM>
 </w.rf>
 <form>Domenico</form>
-<tag lemma="Domenico_;Y_,t" src="auto" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Domenico_;Y_,t" src="auto">NNMS1-----A----</AM>
+<AM lemma="Domenico_;Y_,t" src="manual">NNMS1-----A----</AM>
+<AM lemma="Domenico_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930703-056-p2s1w16">
 <src.rf>manual</src.rf>
@@ -188,7 +195,7 @@
 </w.rf>
 <form>Rea</form>
 <tag>
-<AM lemma="Rea_;S" src="orig">NNMS1-----A----</AM>
+<AM lemma="Rea_;S" src="orig" selected="1">NNMS1-----A----</AM>
 <AM lemma="Reo_;G" src="auto">NNNS2-----A----</AM>
 <AM lemma="reum" src="auto">NNNP1-----A----</AM>
 <AM lemma="reum" src="auto">NNNP4-----A----</AM>
@@ -431,7 +438,7 @@
 </w.rf>
 <form>Rea</form>
 <tag>
-<AM lemma="Rea_;S" src="orig">NNMS1-----A----</AM>
+<AM lemma="Rea_;S" src="orig" selected="1">NNMS1-----A----</AM>
 <AM lemma="Reo_;G" src="auto">NNNS2-----A----</AM>
 <AM lemma="reum" src="auto" recommended="1">NNNP1-----A----</AM>
 <AM lemma="reum" src="auto">NNNP4-----A----</AM>

@@ -39,6 +39,7 @@
 <AM lemma="man-99_:B_;S" src="orig">NNXXX-----A---8</AM>
 <AM lemma="man" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="mana" src="auto">NNFP2-----A----</AM>
+<AM lemma="man-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930713-129-p1s1Aw4">
@@ -121,7 +122,10 @@
 <LM>w#w-mf930713-129-p1s1Bw8</LM>
 </w.rf>
 <form>MBT</form>
-<tag lemma="MBT-1_:B_,t_^(metal-base_transistor)" src="auto" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="MBT-1_:B_,t_^(metal-base_transistor)" src="auto">NNIXX-----A---8</AM>
+<AM lemma="MBT-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930713-129-p1s1Bw9">
 <src.rf>manual</src.rf>
@@ -557,7 +561,10 @@
 <LM>w#w-mf930713-129-p1s3w11</LM>
 </w.rf>
 <form>MBT</form>
-<tag lemma="MBT-1_:B_,t_^(metal-base_transistor)" src="auto" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="MBT-1_:B_,t_^(metal-base_transistor)" src="auto">NNIXX-----A---8</AM>
+<AM lemma="MBT-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930713-129-p1s3w12">
 <src.rf>manual</src.rf>
@@ -641,7 +648,7 @@
 <form>totiž</form>
 <tag>
 <AM lemma="totiž" src="orig">Db-------------</AM>
-<AM lemma="totiž-1" src="auto" recommended="1">J^-------------</AM>
+<AM lemma="totiž-1" src="auto" recommended="1" selected="1">J^-------------</AM>
 <AM lemma="totiž-2" src="auto">TT-------------</AM>
 </tag>
 </m>
@@ -675,7 +682,10 @@
 <LM>w#w-mf930713-129-p1s4w8</LM>
 </w.rf>
 <form>mj</form>
-<tag lemma="mj-1_:B_^(mimo_jiné)" src="orig" selected="1">Db------------8</tag>
+<tag>
+<AM lemma="mj-1_:B_^(mimo_jiné)" src="orig">Db------------8</AM>
+<AM lemma="mj-1_:B_^(mimo_jiné)" src="manual" selected="1">Db-------------</AM>
+</tag>
 </m>
 <m id="m-mf930713-129-p1s4w9">
 <src.rf>manual</src.rf>
@@ -829,7 +839,10 @@
 <LM>w#w-mf930713-129-p1s5w4</LM>
 </w.rf>
 <form>MBT</form>
-<tag lemma="MBT-1_:B_,t_^(metal-base_transistor)" src="auto" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="MBT-1_:B_,t_^(metal-base_transistor)" src="auto">NNIXX-----A---8</AM>
+<AM lemma="MBT-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930713-129-p1s5w5">
 <src.rf>manual</src.rf>

@@ -177,6 +177,7 @@
 <AM lemma="mimo-1_:B" src="auto">RR--4---------8</AM>
 <AM lemma="minuta_:B" src="auto">NNFXX-----A---8</AM>
 <AM lemma="město_:B" src="auto">NNNXX-----A---8</AM>
+<AM lemma="metr" src="manual" selected="1">NNIXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-mf930709-089-p2s1w18">
@@ -324,7 +325,10 @@
 <LM>w#w-mf930709-089-p3s1w6</LM>
 </w.rf>
 <form>ME</form>
-<tag lemma="ME-1_:B_;w_^(mistrovství_Evropy)" src="orig" selected="1">NNNXX-----A---8</tag>
+<tag>
+<AM lemma="ME-1_:B_;w_^(mistrovství_Evropy)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="ME-1_:B_^(mistrovství_Evropy)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930709-089-p3s1w7">
 <src.rf>manual</src.rf>
@@ -407,6 +411,7 @@
 <AM lemma="mimo-1_:B" src="auto">RR--4---------8</AM>
 <AM lemma="minuta_:B" src="auto">NNFXX-----A---8</AM>
 <AM lemma="město_:B" src="auto">NNNXX-----A---8</AM>
+<AM lemma="metr" src="manual" selected="1">NNIXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-mf930709-089-p3s2w5">
@@ -691,7 +696,10 @@
 <LM>w#w-mf930709-089-p4s1w17</LM>
 </w.rf>
 <form>vede</form>
-<tag lemma="vést" src="auto" selected="1">VB-S---3P-AA---</tag>
+<tag>
+<AM lemma="vést" src="auto">VB-S---3P-AA---</AM>
+<AM lemma="vést_:T" src="manual" selected="1">VB-S---3P-AA---</AM>
+</tag>
 </m>
 <m id="m-mf930709-089-p4s1w18">
 <src.rf>manual</src.rf>
@@ -741,7 +749,10 @@
 <LM>w#w-mf930709-089-p5s1w3</LM>
 </w.rf>
 <form>NBA</form>
-<tag lemma="NBA_:B_;K" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="NBA_:B_;K" src="orig">NNFXX-----A---8</AM>
+<AM lemma="NBA-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930709-089-p5s1w4">
 <src.rf>manual</src.rf>
@@ -749,7 +760,10 @@
 <LM>w#w-mf930709-089-p5s1w4</LM>
 </w.rf>
 <form>New</form>
-<tag lemma="New-2_;m_,t_^(angl._nový,_souč._ost._názvů)" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="New-2_;m_,t_^(angl._nový,_souč._ost._názvů)" src="orig">AAXXX----1A----</AM>
+<AM lemma="New-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-mf930709-089-p5s1w5">
 <src.rf>manual</src.rf>
@@ -757,7 +771,10 @@
 <LM>w#w-mf930709-089-p5s1w5</LM>
 </w.rf>
 <form>Jersey</form>
-<tag lemma="Jersey_;G" src="orig" selected="1">NNNXX-----A----</tag>
+<tag>
+<AM lemma="Jersey_;G" src="orig">NNNXX-----A----</AM>
+<AM lemma="Jersey-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-mf930709-089-p5s1w6">
 <src.rf>manual</src.rf>
@@ -765,7 +782,10 @@
 <LM>w#w-mf930709-089-p5s1w6</LM>
 </w.rf>
 <form>Nets</form>
-<tag lemma="Nets_;K" src="orig" selected="1">NNMPX-----A----</tag>
+<tag>
+<AM lemma="Nets_;K" src="orig">NNMPX-----A----</AM>
+<AM lemma="Nets-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-mf930709-089-p5s1w7">
 <src.rf>manual</src.rf>
@@ -806,7 +826,10 @@
 <LM>w#w-mf930709-089-p5s1w11</LM>
 </w.rf>
 <form>nedávno</form>
-<tag lemma="nedávno-1" src="auto" selected="1">Db-------------</tag>
+<tag>
+<AM lemma="nedávno-1" src="auto">Db-------------</AM>
+<AM lemma="dávno-1" src="manual" selected="1">Dg-------1N----</AM>
+</tag>
 </m>
 <m id="m-mf930709-089-p5s1w12">
 <src.rf>manual</src.rf>
@@ -822,7 +845,10 @@
 <LM>w#w-mf930709-089-p5s1w13</LM>
 </w.rf>
 <form>Dražan</form>
-<tag lemma="Dražan_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Dražan_;S" src="orig">NNMS1-----A----</AM>
+<AM lemma="Dražan_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930709-089-p5s1w14">
 <src.rf>manual</src.rf>
@@ -896,7 +922,10 @@
 <LM>w#w-mf930709-089-p5s2w1</LM>
 </w.rf>
 <form>Nets</form>
-<tag lemma="Nets_;K" src="orig" selected="1">NNMPX-----A----</tag>
+<tag>
+<AM lemma="Nets_;K" src="orig">NNMPX-----A----</AM>
+<AM lemma="Nets-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-mf930709-089-p5s2w2">
 <src.rf>manual</src.rf>
@@ -1198,7 +1227,7 @@
 </w.rf>
 <form>Xerox</form>
 <tag>
-<AM lemma="Xerox_;K" src="orig">NNIS1-----A----</AM>
+<AM lemma="Xerox_;K" src="orig" selected="1">NNIS1-----A----</AM>
 <AM lemma="xerox" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="xerox" src="auto">NNIS4-----A----</AM>
 </tag>
@@ -1233,7 +1262,10 @@
 <LM>w#w-mf930709-089-p7s1w6</LM>
 </w.rf>
 <form>ZOH</form>
-<tag lemma="ZOH-1_:B_;w_^(Zimní_olympijské_hry)" src="orig" selected="1">NNFPX-----A---8</tag>
+<tag>
+<AM lemma="ZOH-1_:B_;w_^(Zimní_olympijské_hry)" src="orig">NNFPX-----A---8</AM>
+<AM lemma="ZOH-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930709-089-p7s1w7">
 <src.rf>manual</src.rf>
@@ -1273,7 +1305,10 @@
 <LM>w#w-mf930709-089-p7s1w11</LM>
 </w.rf>
 <form>OH</form>
-<tag lemma="OH-2_:B_;w_^(Olympijské_hry)" src="orig" selected="1">NNFPX-----A---8</tag>
+<tag>
+<AM lemma="OH-2_:B_;w_^(Olympijské_hry)" src="orig">NNFPX-----A---8</AM>
+<AM lemma="OH-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930709-089-p7s1w12">
 <src.rf>manual</src.rf>
@@ -1371,7 +1406,10 @@
 <LM>w#w-mf930709-089-p7s2w8</LM>
 </w.rf>
 <form>milionů</form>
-<tag lemma="milión`1000000" src="orig" selected="1">NNIP2-----A----</tag>
+<tag>
+<AM lemma="milión`1000000" src="orig">NNIP2-----A----</AM>
+<AM lemma="milion`1000000_,s_^(^DD**milión)" src="manual" selected="1">NNIP2-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930709-089-p7s2w9">
 <src.rf>manual</src.rf>
@@ -1379,7 +1417,10 @@
 <LM>w#w-mf930709-089-p7s2w9</LM>
 </w.rf>
 <form>dolarů</form>
-<tag lemma="dolar_;b" src="orig" selected="1">NNIP2-----A----</tag>
+<tag>
+<AM lemma="dolar_;b" src="orig">NNIP2-----A----</AM>
+<AM lemma="dolar" src="manual" selected="1">NNIP2-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930709-089-p7s2w10">
 <src.rf>manual</src.rf>

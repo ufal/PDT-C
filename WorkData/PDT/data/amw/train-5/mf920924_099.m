@@ -183,7 +183,10 @@
 <LM>w#w-mf920924-099-p4s1w8</LM>
 </w.rf>
 <form>Č</form>
-<tag lemma="Český_:B_;G" src="orig" selected="1">AAXXX----1A---8</tag>
+<tag>
+<AM lemma="Český_:B_;G" src="orig">AAXXX----1A---8</AM>
+<AM lemma="Č-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-mf920924-099-p4s1w9">
 <src.rf>manual</src.rf>
@@ -199,7 +202,10 @@
 <LM>w#w-mf920924-099-p4s1w10</LM>
 </w.rf>
 <form>B</form>
-<tag lemma="B-5_:B_;G" src="orig" selected="1">AAXXX----1A---8</tag>
+<tag>
+<AM lemma="B-5_:B_;G" src="orig">AAXXX----1A---8</AM>
+<AM lemma="B-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-mf920924-099-p4s1w11">
 <src.rf>manual</src.rf>

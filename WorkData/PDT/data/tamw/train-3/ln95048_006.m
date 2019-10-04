@@ -19,7 +19,10 @@
 <LM>w#w-ln95048-006-p1s1w1</LM>
 </w.rf>
 <form>PPF</form>
-<tag lemma="PPF-1_:B_;K_;b_^(akciový_fond)" src="auto" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="PPF-1_:B_;K_;b_^(akciový_fond)" src="auto">NNIXX-----A---8</AM>
+<AM lemma="PPF-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95048-006-p1s1w2">
 <src.rf>manual</src.rf>
@@ -95,7 +98,10 @@
 <LM>w#w-ln95048-006-p2s1Bw1</LM>
 </w.rf>
 <form>PPF</form>
-<tag lemma="PPF-1_:B_;K_;b_^(akciový_fond)" src="auto" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="PPF-1_:B_;K_;b_^(akciový_fond)" src="auto">NNIXX-----A---8</AM>
+<AM lemma="PPF-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95048-006-p2s1Bw2">
 <src.rf>manual</src.rf>
@@ -258,6 +264,7 @@
 <tag>
 <AM lemma="Kč" src="orig">NNFXX-----A----</AM>
 <AM lemma="Kč_:B" src="auto" recommended="1">NNFXX-----A---8</AM>
+<AM lemma="Kč_:B" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95048-006-p2s1Bw22">
@@ -352,6 +359,7 @@
 <tag>
 <AM lemma="Kč" src="orig">NNFXX-----A----</AM>
 <AM lemma="Kč_:B" src="auto" recommended="1">NNFXX-----A---8</AM>
+<AM lemma="Kč_:B" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95048-006-p2s2w11">
@@ -482,7 +490,10 @@
 <LM>w#w-ln95048-006-p3s1w8</LM>
 </w.rf>
 <form>PPF</form>
-<tag lemma="PPF-1_:B_;K_;b_^(akciový_fond)" src="auto" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="PPF-1_:B_;K_;b_^(akciový_fond)" src="auto">NNIXX-----A---8</AM>
+<AM lemma="PPF-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95048-006-p3s1w9">
 <src.rf>manual</src.rf>
@@ -634,7 +645,10 @@
 <LM>w#w-ln95048-006-p3s1w27</LM>
 </w.rf>
 <form>IF</form>
-<tag lemma="IF_:B_;K_;b_^(investiční_fond)" src="auto" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="IF_:B_;K_;b_^(investiční_fond)" src="auto">NNIXX-----A---8</AM>
+<AM lemma="IF-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95048-006-p3s1w28">
 <src.rf>manual</src.rf>
@@ -676,7 +690,10 @@
 <LM>w#w-ln95048-006-p4s1w4</LM>
 </w.rf>
 <form>PPF</form>
-<tag lemma="PPF-1_:B_;K_;b_^(akciový_fond)" src="auto" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="PPF-1_:B_;K_;b_^(akciový_fond)" src="auto">NNIXX-----A---8</AM>
+<AM lemma="PPF-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95048-006-p4s1w5">
 <src.rf>manual</src.rf>
@@ -708,7 +725,10 @@
 <LM>w#w-ln95048-006-p4s1w8</LM>
 </w.rf>
 <form>IF</form>
-<tag lemma="IF_:B_;K_;b_^(investiční_fond)" src="auto" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="IF_:B_;K_;b_^(investiční_fond)" src="auto">NNIXX-----A---8</AM>
+<AM lemma="IF-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95048-006-p4s1w9">
 <src.rf>manual</src.rf>
@@ -776,6 +796,7 @@
 <tag>
 <AM lemma="Kč" src="orig">NNFXX-----A----</AM>
 <AM lemma="Kč_:B" src="auto" recommended="1">NNFXX-----A---8</AM>
+<AM lemma="Kč_:B" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95048-006-p4s1w17">
@@ -795,7 +816,7 @@
 <tag>
 <AM lemma="tedy" src="orig">Db-------------</AM>
 <AM lemma="tedy-1" src="auto">TT-------------</AM>
-<AM lemma="tedy-2" src="auto" recommended="1">J^-------------</AM>
+<AM lemma="tedy-2" src="auto" recommended="1" selected="1">J^-------------</AM>
 </tag>
 </m>
 <m id="m-ln95048-006-p4s1w19">
@@ -815,6 +836,7 @@
 <tag>
 <AM lemma="Kč" src="orig">NNFXX-----A----</AM>
 <AM lemma="Kč_:B" src="auto" recommended="1">NNFXX-----A---8</AM>
+<AM lemma="Kč_:B" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95048-006-p4s1w21">
@@ -859,6 +881,7 @@
 <tag>
 <AM lemma="Kč" src="orig">NNFXX-----A----</AM>
 <AM lemma="Kč_:B" src="auto" recommended="1">NNFXX-----A---8</AM>
+<AM lemma="Kč_:B" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95048-006-p4s1w26">
@@ -901,7 +924,10 @@
 <LM>w#w-ln95048-006-p4s2w1</LM>
 </w.rf>
 <form>Kurs</form>
-<tag lemma="kurs" src="auto" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="kurs" src="auto">NNIS1-----A----</AM>
+<AM lemma="kurs_,s_^(^DD**kurz)" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95048-006-p4s2w2">
 <src.rf>manual</src.rf>

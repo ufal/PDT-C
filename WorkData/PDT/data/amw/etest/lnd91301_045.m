@@ -717,6 +717,8 @@
 <AM lemma="JD-99_:B_;S" src="orig">NNXXX-----A---8</AM>
 <AM lemma="JD-1_:B_^(juliánský_den)" src="auto">NNIXX-----A----</AM>
 <AM lemma="JD-2_:B_^(juliánské_datum)" src="auto" recommended="1">NNNXX-----A----</AM>
+<AM lemma="JD-88_:B" src="manual">NNXXX-----A----</AM>
+<AM lemma="JD-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd91301-045-p3s1w3">

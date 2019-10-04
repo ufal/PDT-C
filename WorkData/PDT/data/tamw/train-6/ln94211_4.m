@@ -29,7 +29,10 @@
 <LM>w#w-ln94211-4-p2s1w1</LM>
 </w.rf>
 <form>CD</form>
-<tag lemma="CD-1_:B_;c_;u_;y_,t_^(Audio/Data,_Compact_Disc)" src="auto" selected="1">NNNXX-----A---8</tag>
+<tag>
+<AM lemma="CD-1_:B_;c_;u_;y_,t_^(Audio/Data,_Compact_Disc)" src="auto">NNNXX-----A---8</AM>
+<AM lemma="CD-1_:B_^(Audio/Data,_Compact_Disc)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94211-4-p2s1w2">
 <src.rf>manual</src.rf>
@@ -45,7 +48,10 @@
 <LM>w#w-ln94211-4-p2s1w3</LM>
 </w.rf>
 <form>ROM</form>
-<tag lemma="ROM_:B_;c_,t_^(Read-only_memory,_trv._paměť)" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="ROM_:B_;c_,t_^(Read-only_memory,_trv._paměť)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="ROM-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94211-4-p2s1w4">
 <src.rf>manual</src.rf>
@@ -191,7 +197,10 @@
 <LM>w#w-ln94211-4-p2s2w5</LM>
 </w.rf>
 <form>CD</form>
-<tag lemma="CD-1_:B_;c_;u_;y_,t_^(Audio/Data,_Compact_Disc)" src="auto" selected="1">NNNXX-----A---8</tag>
+<tag>
+<AM lemma="CD-1_:B_;c_;u_;y_,t_^(Audio/Data,_Compact_Disc)" src="auto">NNNXX-----A---8</AM>
+<AM lemma="CD-1_:B_^(Audio/Data,_Compact_Disc)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94211-4-p2s2w6">
 <src.rf>manual</src.rf>
@@ -209,7 +218,7 @@
 <form>nejen</form>
 <tag>
 <AM lemma="nejen" src="orig">TT-------------</AM>
-<AM lemma="nejen" src="auto" recommended="1">Db-------------</AM>
+<AM lemma="nejen" src="auto" recommended="1" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m-ln94211-4-p2s2w8">
@@ -244,7 +253,7 @@
 <form>jakýkoli</form>
 <tag>
 <AM lemma="jakýkoliv" src="orig">PZIS4---------1</AM>
-<AM lemma="jakýkoli" src="auto" recommended="1">PZIS4----------</AM>
+<AM lemma="jakýkoli" src="auto" recommended="1" selected="1">PZIS4----------</AM>
 <AM lemma="jakýkoli" src="auto">PZYS1----------</AM>
 <AM lemma="jakýkoli" src="auto">PZYS5----------</AM>
 </tag>
@@ -313,7 +322,10 @@
 <LM>w#w-ln94211-4-p2s3w5</LM>
 </w.rf>
 <form>CD</form>
-<tag lemma="CD-1_:B_;c_;u_;y_,t_^(Audio/Data,_Compact_Disc)" src="auto" selected="1">NNNXX-----A---8</tag>
+<tag>
+<AM lemma="CD-1_:B_;c_;u_;y_,t_^(Audio/Data,_Compact_Disc)" src="auto">NNNXX-----A---8</AM>
+<AM lemma="CD-1_:B_^(Audio/Data,_Compact_Disc)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94211-4-p2s3w6">
 <src.rf>manual</src.rf>
@@ -329,7 +341,10 @@
 <LM>w#w-ln94211-4-p2s3w7</LM>
 </w.rf>
 <form>ROM</form>
-<tag lemma="ROM_:B_;c_,t_^(Read-only_memory,_trv._paměť)" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="ROM_:B_;c_,t_^(Read-only_memory,_trv._paměť)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="ROM-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94211-4-p2s3w8">
 <src.rf>manual</src.rf>
@@ -347,7 +362,10 @@
 <LM>w#w-ln94211-4-p3s1w1</LM>
 </w.rf>
 <form>CD</form>
-<tag lemma="CD-1_:B_;c_;u_;y_,t_^(Audio/Data,_Compact_Disc)" src="auto" selected="1">NNNXX-----A---8</tag>
+<tag>
+<AM lemma="CD-1_:B_;c_;u_;y_,t_^(Audio/Data,_Compact_Disc)" src="auto">NNNXX-----A---8</AM>
+<AM lemma="CD-1_:B_^(Audio/Data,_Compact_Disc)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94211-4-p3s1w2">
 <src.rf>manual</src.rf>
@@ -615,7 +633,10 @@
 <LM>w#w-ln94211-4-p3s3w2</LM>
 </w.rf>
 <form>CD</form>
-<tag lemma="CD-1_:B_;c_;u_;y_,t_^(Audio/Data,_Compact_Disc)" src="auto" selected="1">NNNXX-----A---8</tag>
+<tag>
+<AM lemma="CD-1_:B_;c_;u_;y_,t_^(Audio/Data,_Compact_Disc)" src="auto">NNNXX-----A---8</AM>
+<AM lemma="CD-1_:B_^(Audio/Data,_Compact_Disc)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94211-4-p3s3w3">
 <src.rf>manual</src.rf>
@@ -697,7 +718,10 @@
 <LM>w#w-ln94211-4-p3s4w4</LM>
 </w.rf>
 <form>CD</form>
-<tag lemma="CD-1_:B_;c_;u_;y_,t_^(Audio/Data,_Compact_Disc)" src="auto" selected="1">NNNXX-----A---8</tag>
+<tag>
+<AM lemma="CD-1_:B_;c_;u_;y_,t_^(Audio/Data,_Compact_Disc)" src="auto">NNNXX-----A---8</AM>
+<AM lemma="CD-1_:B_^(Audio/Data,_Compact_Disc)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94211-4-p3s4w5">
 <src.rf>manual</src.rf>
@@ -832,6 +856,7 @@
 <AM lemma="upgrade_,t" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="upgrade_,t" src="auto">NNIS4-----A----</AM>
 <AM lemma="upgrade_,t" src="auto">NNIS5-----A----</AM>
+<AM lemma="upgrade" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94211-4-p4s1w2">
@@ -1449,6 +1474,7 @@
 <AM lemma="upgrade_,t" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="upgrade_,t" src="auto">NNIS4-----A----</AM>
 <AM lemma="upgrade_,t" src="auto">NNIS5-----A----</AM>
+<AM lemma="upgrade" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94211-4-p4s3w31">

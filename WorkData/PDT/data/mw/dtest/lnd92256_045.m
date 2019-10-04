@@ -20,10 +20,11 @@
 </w.rf>
 <form>JAJCE</form>
 <tag>
-<AM lemma="Jajce_;G" src="orig">NNNS1-----A----</AM>
+<AM lemma="Jajce_;G" src="orig" selected="1">NNNS1-----A----</AM>
 <AM lemma="Jajce_;G" src="auto" recommended="1">NNIP1-----A----</AM>
 <AM lemma="Jajce_;G" src="auto">NNIP4-----A----</AM>
 <AM lemma="Jajce_;G" src="auto">NNIP5-----A----</AM>
+<AM lemma="Jajce_;G" src="manual">NNIXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92256-045-p1s1w2">
@@ -207,7 +208,7 @@
 </w.rf>
 <form>Jajce</form>
 <tag>
-<AM lemma="Jajce_;G" src="orig">NNNS1-----A----</AM>
+<AM lemma="Jajce_;G" src="orig" selected="1">NNNS1-----A----</AM>
 <AM lemma="Jajce_;G" src="auto" recommended="1">NNIP1-----A----</AM>
 <AM lemma="Jajce_;G" src="auto">NNIP4-----A----</AM>
 <AM lemma="Jajce_;G" src="auto">NNIP5-----A----</AM>
@@ -836,10 +837,11 @@
 </w.rf>
 <form>Jajce</form>
 <tag>
-<AM lemma="Jajce_;G" src="orig">NNNS2-----A----</AM>
+<AM lemma="Jajce_;G" src="orig" selected="1">NNNS2-----A----</AM>
 <AM lemma="Jajce_;G" src="auto">NNIP1-----A----</AM>
 <AM lemma="Jajce_;G" src="auto" recommended="1">NNIP4-----A----</AM>
 <AM lemma="Jajce_;G" src="auto">NNIP5-----A----</AM>
+<AM lemma="Jajce_;G" src="manual">NNNXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92256-045-p4s3w10">
@@ -963,7 +965,7 @@
 </w.rf>
 <form>Jajce</form>
 <tag>
-<AM lemma="Jajce_;G" src="orig">NNNS1-----A----</AM>
+<AM lemma="Jajce_;G" src="orig" selected="1">NNNS1-----A----</AM>
 <AM lemma="Jajce_;G" src="auto">NNIP1-----A----</AM>
 <AM lemma="Jajce_;G" src="auto" recommended="1">NNIP4-----A----</AM>
 <AM lemma="Jajce_;G" src="auto">NNIP5-----A----</AM>
@@ -1374,7 +1376,7 @@
 </w.rf>
 <form>Jajce</form>
 <tag>
-<AM lemma="Jajce_;G" src="orig">NNNS2-----A----</AM>
+<AM lemma="Jajce_;G" src="orig" selected="1">NNNS2-----A----</AM>
 <AM lemma="Jajce_;G" src="auto" recommended="1">NNIP1-----A----</AM>
 <AM lemma="Jajce_;G" src="auto">NNIP4-----A----</AM>
 <AM lemma="Jajce_;G" src="auto">NNIP5-----A----</AM>
@@ -1670,7 +1672,10 @@
 <LM>w#w-lnd92256-045-p5s2w3</LM>
 </w.rf>
 <form>řekl</form>
-<tag lemma="říci" src="auto" selected="1">VpYS---XR-AA---</tag>
+<tag>
+<AM lemma="říci" src="auto">VpYS---XR-AA---</AM>
+<AM lemma="říci_:W" src="manual" selected="1">VpYS---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-lnd92256-045-p5s2w4">
 <src.rf>manual</src.rf>
@@ -1711,7 +1716,7 @@
 </w.rf>
 <form>Skopje</form>
 <tag>
-<AM lemma="Skopje_;G" src="orig">NNFXX-----A----</AM>
+<AM lemma="Skopje_;G" src="orig" selected="1">NNFXX-----A----</AM>
 <AM lemma="Skopje_;G" src="auto">NNFP1-----A----</AM>
 <AM lemma="Skopje_;G" src="auto">NNFP4-----A----</AM>
 <AM lemma="Skopje_;G" src="auto">NNFP5-----A----</AM>
@@ -2133,7 +2138,10 @@
 <LM>w#w-lnd92256-045-p7s1w7</LM>
 </w.rf>
 <form>Cyrus</form>
-<tag lemma="Cyrus_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Cyrus_;S" src="orig">NNMS1-----A----</AM>
+<AM lemma="Cyrus_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92256-045-p7s1w8">
 <src.rf>manual</src.rf>

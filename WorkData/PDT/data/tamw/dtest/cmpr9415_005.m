@@ -127,6 +127,9 @@
 <AM lemma="le-1_,t_^(franc._člen,_ne_v_názvech)" src="auto">XX-------------</AM>
 <AM lemma="les" src="auto">NNIS1-----A----</AM>
 <AM lemma="les" src="auto">NNIS4-----A----</AM>
+<AM lemma="les-1_,t_^(fr._člen)" src="manual">AAXXX----1A----</AM>
+<AM lemma="les-1_,t_^(fr._člen)" src="manual">AAXXX----1A----</AM>
+<AM lemma="Les-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-cmpr9415-005-p4s1w8">
@@ -135,7 +138,11 @@
 <LM>w#w-cmpr9415-005-p4s1w8</LM>
 </w.rf>
 <form>Affaires</form>
-<tag lemma="affaires_:B_,t_^(v_chargé_d'affaires)" src="orig" selected="1">NNNPX-----A----</tag>
+<tag>
+<AM lemma="affaires_:B_,t_^(v_chargé_d'affaires)" src="orig">NNNPX-----A----</AM>
+<AM lemma="affaires_,t" src="manual">NNXXX-----A----</AM>
+<AM lemma="Affaires-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-cmpr9415-005-p4s1w9">
 <src.rf>manual</src.rf>
@@ -193,7 +200,10 @@
 <LM>w#w-cmpr9415-005-p5s1w3</LM>
 </w.rf>
 <form>začal</form>
-<tag lemma="začít-1_^(začnout)" src="auto" selected="1">VpYS---XR-AA---</tag>
+<tag>
+<AM lemma="začít-1_^(začnout)" src="auto">VpYS---XR-AA---</AM>
+<AM lemma="začít-1_:W_^(začnout)" src="manual" selected="1">VpYS---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-cmpr9415-005-p5s1w4">
 <src.rf>manual</src.rf>
@@ -699,7 +709,10 @@
 <LM>w#w-cmpr9415-005-p5s2w29</LM>
 </w.rf>
 <form>atd</form>
-<tag lemma="atd-1_:B_^(a_tak_dále)" src="orig" selected="1">Db------------8</tag>
+<tag>
+<AM lemma="atd-1_:B_^(a_tak_dále)" src="orig">Db------------8</AM>
+<AM lemma="atd-1_:B_^(a_tak_dále)" src="manual" selected="1">Db-------------</AM>
+</tag>
 </m>
 <m id="m-cmpr9415-005-p5s2w30">
 <src.rf>manual</src.rf>
@@ -726,7 +739,7 @@
 </w.rf>
 <form>Pírek</form>
 <tag>
-<AM lemma="Pírek_;S" src="orig">NNMS1-----A----</AM>
+<AM lemma="Pírek_;S" src="orig" selected="1">NNMS1-----A----</AM>
 <AM lemma="pírko" src="auto" recommended="1">NNNP2-----A----</AM>
 </tag>
 </m>
@@ -762,7 +775,10 @@
 <LM>w#w-cmpr9415-005-p9s1w4</LM>
 </w.rf>
 <form>ČSA</form>
-<tag lemma="ČSA-1_:B_;K_^(Čs./České_aerolinie)" src="orig" selected="1">NNFPX-----A---8</tag>
+<tag>
+<AM lemma="ČSA-1_:B_;K_^(Čs./České_aerolinie)" src="orig">NNFPX-----A---8</AM>
+<AM lemma="ČSA-1_:B_;K_^(Čs./České_aerolinie)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-cmpr9415-005-p9s1w5">
 <src.rf>manual</src.rf>
@@ -891,7 +907,10 @@
 <LM>w#w-cmpr9415-005-p9s1w20</LM>
 </w.rf>
 <form>C</form>
-<tag lemma="Celsius_:B" src="orig" selected="1">NNMXX-----A---8</tag>
+<tag>
+<AM lemma="Celsius_:B" src="orig">NNMXX-----A---8</AM>
+<AM lemma="Celsius" src="manual" selected="1">NNMXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-cmpr9415-005-p9s1w21">
 <src.rf>manual</src.rf>
@@ -944,7 +963,7 @@
 <tag>
 <AM lemma="přesto" src="orig">Dg-------1A----</AM>
 <AM lemma="přesto-1" src="auto" recommended="1">Db-------------</AM>
-<AM lemma="přesto-2" src="auto">J^-------------</AM>
+<AM lemma="přesto-2" src="auto" selected="1">J^-------------</AM>
 </tag>
 </m>
 <m id="m-cmpr9415-005-p9s2w2">
@@ -1473,7 +1492,10 @@
 <LM>w#w-cmpr9415-005-p11s2w17</LM>
 </w.rf>
 <form>NHL</form>
-<tag lemma="NHL-1_:B_;K_;w_^(Nár._hokejová_liga)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="NHL-1_:B_;K_;w_^(Nár._hokejová_liga)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="NHL-1_:B_;K_^(Nár._hokejová_liga)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-cmpr9415-005-p11s2w18">
 <src.rf>manual</src.rf>
@@ -1491,7 +1513,10 @@
 <LM>w#w-cmpr9415-005-p11s3w1</LM>
 </w.rf>
 <form>Hraje</form>
-<tag lemma="hrát" src="auto" selected="1">VB-S---3P-AA---</tag>
+<tag>
+<AM lemma="hrát" src="auto">VB-S---3P-AA---</AM>
+<AM lemma="hrát_:T" src="manual" selected="1">VB-S---3P-AA---</AM>
+</tag>
 </m>
 <m id="m-cmpr9415-005-p11s3w2">
 <src.rf>manual</src.rf>
@@ -2129,7 +2154,10 @@
 <LM>w#w-cmpr9415-005-p11s6w22</LM>
 </w.rf>
 <form>Daishowa</form>
-<tag lemma="Daishowa_;K_,t" src="orig" selected="1">NNFS1-----A----</tag>
+<tag>
+<AM lemma="Daishowa_;K_,t" src="orig">NNFS1-----A----</AM>
+<AM lemma="Daishowa_;K" src="manual" selected="1">NNFS1-----A----</AM>
+</tag>
 </m>
 <m id="m-cmpr9415-005-p11s6w23">
 <src.rf>manual</src.rf>
@@ -2261,6 +2289,8 @@
 <AM lemma="le-1_,t_^(franc._člen,_ne_v_názvech)" src="auto">XX-------------</AM>
 <AM lemma="les" src="auto">NNIS1-----A----</AM>
 <AM lemma="les" src="auto">NNIS4-----A----</AM>
+<AM lemma="les-1_,t_^(fr._člen)" src="manual">AAXXX----1A----</AM>
+<AM lemma="Les-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-cmpr9415-005-p13s1w11">
@@ -2272,6 +2302,8 @@
 <tag>
 <AM lemma="Affaire-2_;K_,t" src="orig">NNFPX-----A----</AM>
 <AM lemma="affaires_:B_,t_^(v_chargé_d'affaires)" src="auto" recommended="1">NNNPX-----A----</AM>
+<AM lemma="affaires_,t" src="manual">NNXXX-----A----</AM>
+<AM lemma="Affaires-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-cmpr9415-005-p13s1w12">
@@ -2395,7 +2427,11 @@
 <LM>w#w-cmpr9415-005-p13s2w10</LM>
 </w.rf>
 <form>třeba</form>
-<tag lemma="třeba-2" src="auto" selected="1">Db-------------</tag>
+<tag>
+<AM lemma="třeba-2" src="auto">Db-------------</AM>
+<AM lemma="třeba-1" src="manual">TT-------------</AM>
+<AM lemma="třeba-3" src="manual" selected="1">TT-------------</AM>
+</tag>
 </m>
 <m id="m-cmpr9415-005-p13s2w11">
 <src.rf>manual</src.rf>
@@ -2419,7 +2455,10 @@
 <LM>w#w-cmpr9415-005-p13s2w13</LM>
 </w.rf>
 <form>ČR</form>
-<tag lemma="ČR-1_:B_;G_^(Česká_republika)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-cmpr9415-005-p13s2w14">
 <src.rf>manual</src.rf>
@@ -2577,7 +2616,10 @@
 <LM>w#w-cmpr9415-005-p13s5w4</LM>
 </w.rf>
 <form>začala</form>
-<tag lemma="začít-1_^(začnout)" src="auto" selected="1">VpQW---XR-AA---</tag>
+<tag>
+<AM lemma="začít-1_^(začnout)" src="auto">VpQW---XR-AA---</AM>
+<AM lemma="začít-1_:W_^(začnout)" src="manual" selected="1">VpQW---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-cmpr9415-005-p13s5w5">
 <src.rf>manual</src.rf>
@@ -3510,7 +3552,10 @@
 <LM>w#w-cmpr9415-005-p15s1w1</LM>
 </w.rf>
 <form>Čtete</form>
-<tag lemma="číst" src="orig" selected="1">VB-P---2P-AA---</tag>
+<tag>
+<AM lemma="číst" src="orig">VB-P---2P-AA---</AM>
+<AM lemma="číst_:T" src="manual" selected="1">VB-P---2P-AA---</AM>
+</tag>
 </m>
 <m id="m-cmpr9415-005-p15s1w2">
 <src.rf>manual</src.rf>

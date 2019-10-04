@@ -51,7 +51,10 @@
 <LM>w#w-lnd92259-061-p1s1w5</LM>
 </w.rf>
 <form>HZDS</form>
-<tag lemma="HZDS-1_:B_;K_;p_,t_^(Hnutie_za_demokratické_Slovensko)" src="orig" selected="1">NNNXX-----A---8</tag>
+<tag>
+<AM lemma="HZDS-1_:B_;K_;p_,t_^(Hnutie_za_demokratické_Slovensko)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="HZDS-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 </s>
 <s id="m-lnd92259-061-p2s1">
@@ -87,7 +90,10 @@
 <LM>w#w-lnd92259-061-p2s2w2</LM>
 </w.rf>
 <form>HZDS</form>
-<tag lemma="HZDS-1_:B_;K_;p_,t_^(Hnutie_za_demokratické_Slovensko)" src="orig" selected="1">NNNXX-----A---8</tag>
+<tag>
+<AM lemma="HZDS-1_:B_;K_;p_,t_^(Hnutie_za_demokratické_Slovensko)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="HZDS-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd92259-061-p2s2w3">
 <src.rf>manual</src.rf>
@@ -151,7 +157,10 @@
 <LM>w#w-lnd92259-061-p2s2w10</LM>
 </w.rf>
 <form>SĽS</form>
-<tag lemma="SĽS_:B_;K_^(Slovenská_ľudová_strana)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="SĽS_:B_;K_^(Slovenská_ľudová_strana)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="SĽS-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd92259-061-p2s2w11">
 <src.rf>manual</src.rf>
@@ -167,7 +176,10 @@
 <LM>w#w-lnd92259-061-p2s2w12</LM>
 </w.rf>
 <form>V</form>
-<tag lemma="V-0_:B_;Y" src="orig" selected="1">NNMXX-----A---8</tag>
+<tag>
+<AM lemma="V-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
+<AM lemma="V-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd92259-061-p2s2w13">
 <src.rf>manual</src.rf>
@@ -184,7 +196,7 @@
 </w.rf>
 <form>Magdaléna</form>
 <tag>
-<AM lemma="Magdalén_;S" src="orig">NNMS2-----A----</AM>
+<AM lemma="Magdalén_;S" src="orig" selected="1">NNMS2-----A----</AM>
 <AM lemma="Magdaléna_;Y" src="auto" recommended="1">NNFS1-----A----</AM>
 </tag>
 </m>
@@ -194,7 +206,10 @@
 <LM>w#w-lnd92259-061-p2s2w15</LM>
 </w.rf>
 <form>jen</form>
-<tag lemma="jen-1" src="auto" selected="1">TT-------------</tag>
+<tag>
+<AM lemma="jen-1" src="auto">TT-------------</AM>
+<AM lemma="jen-4_^(pouze)" src="manual" selected="1">Db-------------</AM>
+</tag>
 </m>
 <m id="m-lnd92259-061-p2s2w16">
 <src.rf>manual</src.rf>
@@ -250,7 +265,10 @@
 <LM>w#w-lnd92259-061-p2s2w22</LM>
 </w.rf>
 <form>SLS</form>
-<tag lemma="SĽS_:B_;K_^(Slovenská_ľudová_strana)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="SĽS_:B_;K_^(Slovenská_ľudová_strana)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="SLS-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd92259-061-p2s2w23">
 <src.rf>manual</src.rf>
@@ -510,7 +528,10 @@
 <LM>w#w-lnd92259-061-p2s4w6</LM>
 </w.rf>
 <form>V</form>
-<tag lemma="V-0_:B_;Y" src="orig" selected="1">NNMXX-----A---8</tag>
+<tag>
+<AM lemma="V-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
+<AM lemma="V-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd92259-061-p2s4w7">
 <src.rf>manual</src.rf>
@@ -527,7 +548,7 @@
 </w.rf>
 <form>Magdaléna</form>
 <tag>
-<AM lemma="Magdalén_;S" src="orig">NNMS2-----A----</AM>
+<AM lemma="Magdalén_;S" src="orig" selected="1">NNMS2-----A----</AM>
 <AM lemma="Magdaléna_;Y" src="auto" recommended="1">NNFS1-----A----</AM>
 </tag>
 </m>
@@ -577,7 +598,10 @@
 <LM>w#w-lnd92259-061-p2s4w14</LM>
 </w.rf>
 <form>KDH</form>
-<tag lemma="KDH_:B_;K_;p_^(Slov._Křesťansko-demokratické_hnutí)" src="orig" selected="1">NNNXX-----A---8</tag>
+<tag>
+<AM lemma="KDH_:B_;K_;p_^(Slov._Křesťansko-demokratické_hnutí)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="KDH-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd92259-061-p2s4w15">
 <src.rf>manual</src.rf>
@@ -593,7 +617,10 @@
 <LM>w#w-lnd92259-061-p2s4w16</LM>
 </w.rf>
 <form>SKDH</form>
-<tag lemma="SKDH_:B_;K" src="auto" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="SKDH_:B_;K" src="auto">NNXXX-----A---8</AM>
+<AM lemma="SKDH-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd92259-061-p2s4w17">
 <src.rf>manual</src.rf>
@@ -625,7 +652,10 @@
 <LM>w#w-lnd92259-061-p2s4w20</LM>
 </w.rf>
 <form>SLS</form>
-<tag lemma="SĽS_:B_;K_^(Slovenská_ľudová_strana)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="SĽS_:B_;K_^(Slovenská_ľudová_strana)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="SLS-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd92259-061-p2s4w21">
 <src.rf>manual</src.rf>

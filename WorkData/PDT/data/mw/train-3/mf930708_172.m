@@ -77,7 +77,10 @@
 <LM>w#w-mf930708-172-p2s1w3</LM>
 </w.rf>
 <form>str</form>
-<tag lemma="strana-4_:B" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="strana-4_:B" src="orig">NNFXX-----A---8</AM>
+<AM lemma="strana" src="manual" selected="1">NNFXX-----A---9</AM>
+</tag>
 </m>
 <m id="m-mf930708-172-p2s1w4">
 <src.rf>manual</src.rf>
@@ -107,6 +110,7 @@
 <AM lemma="Chul_;S" src="orig">NNXXX-----A----</AM>
 <AM lemma="choulit" src="auto" recommended="1">Vi-S---2--A----</AM>
 <AM lemma="choulit" src="auto">Vi-S---3--A---4</AM>
+<AM lemma="Chul_;S" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930708-172-p3s1w2">
@@ -118,6 +122,7 @@
 <tag>
 <AM lemma="Hyun_;Y" src="orig">NNMXX-----A----</AM>
 <AM lemma="Hyun_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Hyun_;S_;Y" src="manual" selected="1">NNMXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930708-172-p3s1w3">
@@ -728,7 +733,7 @@
 <form>nejen</form>
 <tag>
 <AM lemma="nejen" src="orig">TT-------------</AM>
-<AM lemma="nejen" src="auto" recommended="1">Db-------------</AM>
+<AM lemma="nejen" src="auto" recommended="1" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m-mf930708-172-p3s5w14">
@@ -1183,7 +1188,10 @@
 <LM>w#w-mf930708-172-p4s2w11</LM>
 </w.rf>
 <form>jen</form>
-<tag lemma="jen-1" src="auto" selected="1">TT-------------</tag>
+<tag>
+<AM lemma="jen-1" src="auto">TT-------------</AM>
+<AM lemma="jen-4_^(pouze)" src="manual" selected="1">Db-------------</AM>
+</tag>
 </m>
 <m id="m-mf930708-172-p4s2w12">
 <src.rf>manual</src.rf>

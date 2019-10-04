@@ -363,7 +363,10 @@
 <LM>w#w-lnd92256-043-p3s3w6</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-2" src="auto" selected="1">Dg-------2A----</tag>
+<tag>
+<AM lemma="hodně-2" src="auto">Dg-------2A----</AM>
+<AM lemma="více_^(více_+_2._p.,_více_peněz)" src="manual" selected="1">Ca--1----------</AM>
+</tag>
 </m>
 <m id="m-lnd92256-043-p3s3w7">
 <src.rf>manual</src.rf>
@@ -514,6 +517,7 @@
 <AM lemma="SAZ-1_:B_;K_,t_^(Slovenský_autorský_zväz)" src="auto" recommended="1">NNIXX-----A---8</AM>
 <AM lemma="saz_;u" src="auto">NNIS1-----A----</AM>
 <AM lemma="saz_;u" src="auto">NNIS4-----A----</AM>
+<AM lemma="SAZ-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-lnd92256-043-p4s1w11">
@@ -658,7 +662,10 @@
 <LM>w#w-lnd92256-043-p4s1w28</LM>
 </w.rf>
 <form>OZS</form>
-<tag lemma="OZS_:B_;K_^(obvodní_zdravotnické_středisko)" src="orig" selected="1">NNNXX-----A---8</tag>
+<tag>
+<AM lemma="OZS_:B_;K_^(obvodní_zdravotnické_středisko)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="OZS-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd92256-043-p4s1w29">
 <src.rf>manual</src.rf>
@@ -785,6 +792,7 @@
 <AM lemma="SAZ-1_:B_;K_,t_^(Slovenský_autorský_zväz)" src="auto" recommended="1">NNIXX-----A---8</AM>
 <AM lemma="saz_;u" src="auto">NNIS1-----A----</AM>
 <AM lemma="saz_;u" src="auto">NNIS4-----A----</AM>
+<AM lemma="SAZ-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-lnd92256-043-p4s2w8">
@@ -1014,6 +1022,7 @@
 <AM lemma="SAZ-1_:B_;K_,t_^(Slovenský_autorský_zväz)" src="auto" recommended="1">NNIXX-----A---8</AM>
 <AM lemma="saz_;u" src="auto">NNIS1-----A----</AM>
 <AM lemma="saz_;u" src="auto">NNIS4-----A----</AM>
+<AM lemma="SAZ-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-lnd92256-043-p4s2w36">
@@ -1208,7 +1217,10 @@
 <LM>w#w-lnd92256-043-p5s1w6</LM>
 </w.rf>
 <form>OZS</form>
-<tag lemma="OZS_:B_;K_^(obvodní_zdravotnické_středisko)" src="orig" selected="1">NNNXX-----A---8</tag>
+<tag>
+<AM lemma="OZS_:B_;K_^(obvodní_zdravotnické_středisko)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="OZS-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd92256-043-p5s1w7">
 <src.rf>manual</src.rf>

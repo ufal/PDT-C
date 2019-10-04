@@ -62,7 +62,7 @@
 <tag>
 <AM lemma="rameno" src="orig">NNNS6-----A----</AM>
 <AM lemma="rameno" src="auto">NNNS3-----A---1</AM>
-<AM lemma="rameno" src="auto" recommended="1">NNNS6-----A---1</AM>
+<AM lemma="rameno" src="auto" recommended="1" selected="1">NNNS6-----A---1</AM>
 </tag>
 </m>
 <m id="m-mf930713-158-p1s1w7">
@@ -127,7 +127,10 @@
 <LM>w#w-mf930713-158-p1s1w14</LM>
 </w.rf>
 <form>Larry</form>
-<tag lemma="Larry_;Y_,t" src="auto" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Larry_;Y_,t" src="auto">NNMS1-----A----</AM>
+<AM lemma="Larry_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930713-158-p1s1w15">
 <src.rf>manual</src.rf>
@@ -154,6 +157,7 @@
 <tag>
 <AM lemma="des_,t_^(z_franc._de,_zejm._ve_jménech)" src="orig">RR--X----------</AM>
 <AM lemma="desátník_:B" src="auto" recommended="1">NNMXX-----A---8</AM>
+<AM lemma="Des-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-mf930713-158-p1s1w18">
@@ -162,7 +166,10 @@
 <LM>w#w-mf930713-158-p1s1w18</LM>
 </w.rf>
 <form>Moines</form>
-<tag lemma="Moines_;G_,t" src="orig" selected="1">NNXXX-----A----</tag>
+<tag>
+<AM lemma="Moines_;G_,t" src="orig">NNXXX-----A----</AM>
+<AM lemma="Moines-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-mf930713-158-p1s1w19">
 <src.rf>manual</src.rf>

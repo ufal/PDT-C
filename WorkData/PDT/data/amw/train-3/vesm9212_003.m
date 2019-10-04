@@ -35,7 +35,10 @@
 <LM>w#w-vesm9212-003-p1s1w3</LM>
 </w.rf>
 <form>EEG</form>
-<tag lemma="EEG_:B_;U" src="auto" selected="1">NNNXX-----A---8</tag>
+<tag>
+<AM lemma="EEG_:B_;U" src="auto">NNNXX-----A---8</AM>
+<AM lemma="EEG-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-vesm9212-003-p1s1w4">
 <src.rf>manual</src.rf>
@@ -305,7 +308,10 @@
 <LM>w#w-vesm9212-003-p2s3w3</LM>
 </w.rf>
 <form>vytvářená</form>
-<tag lemma="vytvářený_,a_^(*2t)" src="auto" selected="1">AANP1----1A----</tag>
+<tag>
+<AM lemma="vytvářený_,a_^(*2t)" src="auto">AANP1----1A----</AM>
+<AM lemma="vytvářený_^(*2t)" src="manual" selected="1">AANP1----1A----</AM>
+</tag>
 </m>
 <m id="m-vesm9212-003-p2s3w4">
 <src.rf>manual</src.rf>
@@ -542,7 +548,7 @@
 <tag>
 <AM lemma="tedy" src="orig">Db-------------</AM>
 <AM lemma="tedy-1" src="auto">TT-------------</AM>
-<AM lemma="tedy-2" src="auto" recommended="1">J^-------------</AM>
+<AM lemma="tedy-2" src="auto" recommended="1" selected="1">J^-------------</AM>
 </tag>
 </m>
 <m id="m-vesm9212-003-p2s4w7">
@@ -697,7 +703,10 @@
 <LM>w#w-vesm9212-003-p2s5w11</LM>
 </w.rf>
 <form>EEG</form>
-<tag lemma="EEG_:B_;U" src="auto" selected="1">NNNXX-----A---8</tag>
+<tag>
+<AM lemma="EEG_:B_;U" src="auto">NNNXX-----A---8</AM>
+<AM lemma="EEG-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-vesm9212-003-p2s5w12">
 <src.rf>manual</src.rf>
@@ -723,7 +732,10 @@
 <LM>w#w-vesm9212-003-p2s6w2</LM>
 </w.rf>
 <form>EEG</form>
-<tag lemma="EEG_:B_;U" src="auto" selected="1">NNNXX-----A---8</tag>
+<tag>
+<AM lemma="EEG_:B_;U" src="auto">NNNXX-----A---8</AM>
+<AM lemma="EEG-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-vesm9212-003-p2s6w3">
 <src.rf>manual</src.rf>
@@ -821,7 +833,10 @@
 <LM>w#w-vesm9212-003-p3s1w3</LM>
 </w.rf>
 <form>EEG</form>
-<tag lemma="EEG_:B_;U" src="auto" selected="1">NNNXX-----A---8</tag>
+<tag>
+<AM lemma="EEG_:B_;U" src="auto">NNNXX-----A---8</AM>
+<AM lemma="EEG-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-vesm9212-003-p3s1w4">
 <src.rf>manual</src.rf>
@@ -877,7 +892,10 @@
 <LM>w#w-vesm9212-003-p3s1w10</LM>
 </w.rf>
 <form>uV</form>
-<tag lemma="uV_:B_^(mikroVolt)" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="uV_:B_^(mikroVolt)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="mikroVolt" src="manual" selected="1">NNIXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-vesm9212-003-p3s1w11">
 <src.rf>manual</src.rf>
@@ -904,7 +922,7 @@
 <tag>
 <AM lemma="tedy" src="orig">Db-------------</AM>
 <AM lemma="tedy-1" src="auto" recommended="1">TT-------------</AM>
-<AM lemma="tedy-2" src="auto">J^-------------</AM>
+<AM lemma="tedy-2" src="auto" selected="1">J^-------------</AM>
 </tag>
 </m>
 <m id="m-vesm9212-003-p3s1w14">
@@ -1044,7 +1062,10 @@
 <LM>w#w-vesm9212-003-p3s2w12</LM>
 </w.rf>
 <form>Hz</form>
-<tag lemma="Hz-1`hertz_:B" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="Hz-1`hertz_:B" src="orig">NNIXX-----A---8</AM>
+<AM lemma="hertz" src="manual" selected="1">NNIXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-vesm9212-003-p3s2w13">
 <src.rf>manual</src.rf>
@@ -1078,7 +1099,10 @@
 <LM>w#w-vesm9212-003-p4s1w3</LM>
 </w.rf>
 <form>EEG</form>
-<tag lemma="EEG_:B_;U" src="auto" selected="1">NNNXX-----A---8</tag>
+<tag>
+<AM lemma="EEG_:B_;U" src="auto">NNNXX-----A---8</AM>
+<AM lemma="EEG-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-vesm9212-003-p4s1w4">
 <src.rf>manual</src.rf>
@@ -1224,7 +1248,10 @@
 <LM>w#w-vesm9212-003-p4s2w1</LM>
 </w.rf>
 <form>EEG</form>
-<tag lemma="EEG_:B_;U" src="auto" selected="1">NNNXX-----A---8</tag>
+<tag>
+<AM lemma="EEG_:B_;U" src="auto">NNNXX-----A---8</AM>
+<AM lemma="EEG-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-vesm9212-003-p4s2w2">
 <src.rf>manual</src.rf>
@@ -1538,7 +1565,10 @@
 <LM>w#w-vesm9212-003-p4s3w15</LM>
 </w.rf>
 <form>tj</form>
-<tag lemma="tj-1_:B_^(to_je/jest)" src="orig" selected="1">J^------------8</tag>
+<tag>
+<AM lemma="tj-1_:B_^(to_je/jest)" src="orig">J^------------8</AM>
+<AM lemma="tj-1_:B_^(to_je/jest)" src="manual" selected="1">J^-------------</AM>
+</tag>
 </m>
 <m id="m-vesm9212-003-p4s3w16">
 <src.rf>manual</src.rf>
@@ -1714,7 +1744,10 @@
 <LM>w#w-vesm9212-003-p4s3w37</LM>
 </w.rf>
 <form>stadiu</form>
-<tag lemma="stadium" src="orig" selected="1">NNNS6-----A----</tag>
+<tag>
+<AM lemma="stadium" src="orig">NNNS6-----A----</AM>
+<AM lemma="stadium_,s" src="manual" selected="1">_^(^DD**stádium)</AM>
+</tag>
 </m>
 <m id="m-vesm9212-003-p4s3w38">
 <src.rf>manual</src.rf>
@@ -1852,7 +1885,10 @@
 <LM>w#w-vesm9212-003-p4s4w15</LM>
 </w.rf>
 <form>EEG</form>
-<tag lemma="EEG_:B_;U" src="auto" selected="1">NNNXX-----A---8</tag>
+<tag>
+<AM lemma="EEG_:B_;U" src="auto">NNNXX-----A---8</AM>
+<AM lemma="EEG-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-vesm9212-003-p4s4w16">
 <src.rf>manual</src.rf>

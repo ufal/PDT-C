@@ -37,7 +37,10 @@
 <LM>w#w-lnd92251-103-p2s1w2</LM>
 </w.rf>
 <form>Kr</form>
-<tag lemma="Králové_:B_;G" src="orig" selected="1">NNFS2-----A---8</tag>
+<tag>
+<AM lemma="Králové_:B_;G" src="orig">NNFS2-----A---8</AM>
+<AM lemma="Králové_;G" src="manual" selected="1">NNFS2-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd92251-103-p2s1w3">
 <src.rf>manual</src.rf>

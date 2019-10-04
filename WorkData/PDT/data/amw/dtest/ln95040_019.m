@@ -43,7 +43,10 @@
 <LM>w#w-ln95040-019-p1s1w4</LM>
 </w.rf>
 <form>nedostala</form>
-<tag lemma="dostat" src="orig" selected="1">VpQW---XR-NA---</tag>
+<tag>
+<AM lemma="dostat" src="orig">VpQW---XR-NA---</AM>
+<AM lemma="dostat_:W" src="manual" selected="1">VpQW---XR-NA---</AM>
+</tag>
 </m>
 <m id="m-ln95040-019-p1s1w5">
 <src.rf>manual</src.rf>
@@ -69,7 +72,10 @@
 <LM>w#w-ln95040-019-p2s1Aw2</LM>
 </w.rf>
 <form>Sanchezová</form>
-<tag lemma="Sanchezová_;S_;w" src="orig" selected="1">NNFS1-----A----</tag>
+<tag>
+<AM lemma="Sanchezová_;S_;w" src="orig">NNFS1-----A----</AM>
+<AM lemma="Sanchezová_;S" src="manual" selected="1">NNFS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95040-019-p2s1Aw3">
 <src.rf>manual</src.rf>
@@ -135,7 +141,10 @@
 <LM>w#w-ln95040-019-p2s1Bw1</LM>
 </w.rf>
 <form>New</form>
-<tag lemma="New-1_;G_,t_^(součást_míst._jmen)" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="New-1_;G_,t_^(součást_míst._jmen)" src="orig">AAXXX----1A----</AM>
+<AM lemma="New-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln95040-019-p2s1Bw2">
 <src.rf>manual</src.rf>
@@ -143,7 +152,10 @@
 <LM>w#w-ln95040-019-p2s1Bw2</LM>
 </w.rf>
 <form>York</form>
-<tag lemma="York-2_;G" src="orig" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="York-2_;G" src="orig">NNIS1-----A----</AM>
+<AM lemma="York-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln95040-019-p2s1Bw3">
 <src.rf>manual</src.rf>
@@ -241,7 +253,10 @@
 <LM>w#w-ln95040-019-p2s1Cw11</LM>
 </w.rf>
 <form>New</form>
-<tag lemma="New-1_;G_,t_^(součást_míst._jmen)" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="New-1_;G_,t_^(součást_míst._jmen)" src="orig">AAXXX----1A----</AM>
+<AM lemma="New-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln95040-019-p2s1Cw12">
 <src.rf>manual</src.rf>
@@ -305,7 +320,10 @@
 <LM>w#w-ln95040-019-p2s1Cw19</LM>
 </w.rf>
 <form>Sanchezová</form>
-<tag lemma="Sanchezová_;S_;w" src="orig" selected="1">NNFS1-----A----</tag>
+<tag>
+<AM lemma="Sanchezová_;S_;w" src="orig">NNFS1-----A----</AM>
+<AM lemma="Sanchezová_;S" src="manual" selected="1">NNFS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95040-019-p2s1Cw20">
 <src.rf>manual</src.rf>
@@ -499,7 +517,10 @@
 <LM>w#w-ln95040-019-p2s2w21</LM>
 </w.rf>
 <form>WTA</form>
-<tag lemma="WTA-1_:B_;K_,t_^(Women's_Tennis_Association)" src="auto" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="WTA-1_:B_;K_,t_^(Women's_Tennis_Association)" src="auto">NNFXX-----A---8</AM>
+<AM lemma="WTA-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95040-019-p2s2w22">
 <src.rf>manual</src.rf>
@@ -605,7 +626,10 @@
 <LM>w#w-ln95040-019-p3s1w12</LM>
 </w.rf>
 <form>stala</form>
-<tag lemma="stát-2_^(něco_se_přihodilo)" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag>
+<AM lemma="stát-2_^(něco_se_přihodilo)" src="orig">VpQW---XR-AA---</AM>
+<AM lemma="stát-2_:W_^(něco_se_přihodilo)" src="manual" selected="1">VpQW---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-ln95040-019-p3s1w13">
 <src.rf>manual</src.rf>
@@ -969,7 +993,10 @@
 <LM>w#w-ln95040-019-p3s3w29</LM>
 </w.rf>
 <form>předsevzala</form>
-<tag lemma="předsevzít" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag>
+<AM lemma="předsevzít" src="orig">VpQW---XR-AA---</AM>
+<AM lemma="předsevzít_:W" src="manual" selected="1">VpQW---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-ln95040-019-p3s3w30">
 <src.rf>manual</src.rf>
@@ -1019,7 +1046,10 @@
 <LM>w#w-ln95040-019-p4s1w2</LM>
 </w.rf>
 <form>Sanchezová</form>
-<tag lemma="Sanchezová_;S_;w" src="orig" selected="1">NNFS1-----A----</tag>
+<tag>
+<AM lemma="Sanchezová_;S_;w" src="orig">NNFS1-----A----</AM>
+<AM lemma="Sanchezová_;S" src="manual" selected="1">NNFS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95040-019-p4s1w3">
 <src.rf>manual</src.rf>
@@ -1447,7 +1477,10 @@
 <LM>w#w-ln95040-019-p4s3w8</LM>
 </w.rf>
 <form>nehrají</form>
-<tag lemma="hrát" src="orig" selected="1">VB-P---3P-NA--1</tag>
+<tag>
+<AM lemma="hrát" src="orig">VB-P---3P-NA--1</AM>
+<AM lemma="hrát_:T" src="manual" selected="1">VB-P---3P-NA--1</AM>
+</tag>
 </m>
 <m id="m-ln95040-019-p4s3w9">
 <src.rf>manual</src.rf>
@@ -1529,7 +1562,10 @@
 <LM>w#w-ln95040-019-p4s4w9</LM>
 </w.rf>
 <form>nedal</form>
-<tag lemma="dát" src="orig" selected="1">VpYS---XR-NA---</tag>
+<tag>
+<AM lemma="dát" src="orig">VpYS---XR-NA---</AM>
+<AM lemma="dát_:W" src="manual" selected="1">VpYS---XR-NA---</AM>
+</tag>
 </m>
 <m id="m-ln95040-019-p4s4w10">
 <src.rf>manual</src.rf>
@@ -1569,7 +1605,10 @@
 <LM>w#w-ln95040-019-p4s4w14</LM>
 </w.rf>
 <form>Sanchezová</form>
-<tag lemma="Sanchezová_;S_;w" src="orig" selected="1">NNFS1-----A----</tag>
+<tag>
+<AM lemma="Sanchezová_;S_;w" src="orig">NNFS1-----A----</AM>
+<AM lemma="Sanchezová_;S" src="manual" selected="1">NNFS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95040-019-p4s4w15">
 <src.rf>manual</src.rf>
@@ -1643,7 +1682,10 @@
 <LM>w#w-ln95040-019-p4s5w6</LM>
 </w.rf>
 <form>French</form>
-<tag lemma="French_;m_,t" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="French_;m_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="French-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln95040-019-p4s5w7">
 <src.rf>manual</src.rf>
@@ -1659,7 +1701,10 @@
 <LM>w#w-ln95040-019-p4s5w8</LM>
 </w.rf>
 <form>US</form>
-<tag lemma="US-3_:B_;m_,t_^(americký)" src="orig" selected="1">AAXXX----1A---8</tag>
+<tag>
+<AM lemma="US-3_:B_;m_,t_^(americký)" src="orig">AAXXX----1A---8</AM>
+<AM lemma="US-2_:B_^(americký)" src="manual" selected="1">AAXXX----1A----</AM>
+</tag>
 </m>
 <m id="m-ln95040-019-p4s5w9">
 <src.rf>manual</src.rf>
@@ -1670,6 +1715,7 @@
 <tag>
 <AM lemma="Open-2_;m_,t_^(v_názvu_např._sport._soutěží,_Australian_Open)" src="orig">NNNXX-----A----</AM>
 <AM lemma="Open-1_,t_^(v_názvu_např._sport._soutěží,_&quot;otevřený&quot;)" src="auto" recommended="1">AAXXX----1A----</AM>
+<AM lemma="Open-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-ln95040-019-p4s5w10">
@@ -1702,7 +1748,10 @@
 <LM>w#w-ln95040-019-p4s5w13</LM>
 </w.rf>
 <form>dosáhla</form>
-<tag lemma="dosáhnout" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag>
+<AM lemma="dosáhnout" src="orig">VpQW---XR-AA---</AM>
+<AM lemma="dosáhnout_:W" src="manual" selected="1">VpQW---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-ln95040-019-p4s5w14">
 <src.rf>manual</src.rf>
@@ -1777,7 +1826,10 @@
 <LM>w#w-ln95040-019-p4s6w4</LM>
 </w.rf>
 <form>Australian</form>
-<tag lemma="Australian_;m_,t" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="Australian_;m_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="Australian-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln95040-019-p4s6w5">
 <src.rf>manual</src.rf>
@@ -1788,6 +1840,7 @@
 <tag>
 <AM lemma="Open-2_;m_,t_^(v_názvu_např._sport._soutěží,_Australian_Open)" src="orig">NNNXX-----A----</AM>
 <AM lemma="Open-1_,t_^(v_názvu_např._sport._soutěží,_&quot;otevřený&quot;)" src="auto" recommended="1">AAXXX----1A----</AM>
+<AM lemma="Open-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-ln95040-019-p4s6w6">
@@ -2023,7 +2076,10 @@
 <LM>w#w-ln95040-019-p4s7w16</LM>
 </w.rf>
 <form>Indian</form>
-<tag lemma="Indiana_;G" src="orig" selected="1">NNFP2-----A----</tag>
+<tag>
+<AM lemma="Indiana_;G" src="orig">NNFP2-----A----</AM>
+<AM lemma="Indian-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln95040-019-p4s7w17">
 <src.rf>manual</src.rf>
@@ -2031,7 +2087,10 @@
 <LM>w#w-ln95040-019-p4s7w17</LM>
 </w.rf>
 <form>Wells</form>
-<tag lemma="Wells_;G" src="auto" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="Wells_;G" src="auto">NNIS1-----A----</AM>
+<AM lemma="Wells-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln95040-019-p4s7w18">
 <src.rf>manual</src.rf>

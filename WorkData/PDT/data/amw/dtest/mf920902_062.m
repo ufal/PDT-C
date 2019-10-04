@@ -43,7 +43,10 @@
 <LM>w#w-mf920902-062-p1s1w4</LM>
 </w.rf>
 <form>SUKOVÁ</form>
-<tag lemma="Suková_;S_;w" src="orig" selected="1">NNFS1-----A----</tag>
+<tag>
+<AM lemma="Suková_;S_;w" src="orig">NNFS1-----A----</AM>
+<AM lemma="Suková_;S" src="manual" selected="1">NNFS1-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920902-062-p1s1w5">
 <src.rf>manual</src.rf>
@@ -123,7 +126,10 @@
 <LM>w#w-mf920902-062-p1s1w14</LM>
 </w.rf>
 <form>U</form>
-<tag lemma="United-4_:B_;m_,t_^(United,_spojený)" src="orig" selected="1">AAXXX----1A---8</tag>
+<tag>
+<AM lemma="United-4_:B_;m_,t_^(United,_spojený)" src="orig">AAXXX----1A---8</AM>
+<AM lemma="U-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-mf920902-062-p1s1w15">
 <src.rf>manual</src.rf>
@@ -164,6 +170,7 @@
 <AM lemma="společnost_:B" src="auto">NNFXX-----A---8</AM>
 <AM lemma="strana-4_:B_^(v_knize,_rukopise,...)" src="auto">NNFXX-----A---8</AM>
 <AM lemma="státní_:B" src="auto">AAXXX----1A---8</AM>
+<AM lemma="S-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-mf920902-062-p1s1w17">
@@ -180,7 +187,11 @@
 <LM>w#w-mf920902-062-p1s1w18</LM>
 </w.rf>
 <form>OPEN</form>
-<tag lemma="Open-1_,t_^(v_názvu_např._sport._soutěží,_&quot;otevřený&quot;)" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="Open-1_,t_^(v_názvu_např._sport._soutěží,_&quot;otevřený&quot;)" src="orig">AAXXX----1A----</AM>
+<AM lemma="OPEN-77" src="manual">F%-------------</AM>
+<AM lemma="Open-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 </s>
 <s id="m-mf920902-062-p2s1">
@@ -281,6 +292,7 @@
 <tag>
 <AM lemma="USA_;G" src="orig">NNIPX-----A----</AM>
 <AM lemma="USA_:B_;K_,t_^(United_States_of_America)" src="auto" recommended="1">NNIPX-----A---8</AM>
+<AM lemma="USA_:B_;K_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-mf920902-062-p2s1w13">
@@ -297,7 +309,10 @@
 <LM>w#w-mf920902-062-p2s1w14</LM>
 </w.rf>
 <form>Flushing</form>
-<tag lemma="Flushing_;G_,t_^(Flushing_Meadow)" src="auto" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="Flushing_;G_,t_^(Flushing_Meadow)" src="auto">AAXXX----1A----</AM>
+<AM lemma="Flushing-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-mf920902-062-p2s1w15">
 <src.rf>manual</src.rf>
@@ -305,7 +320,10 @@
 <LM>w#w-mf920902-062-p2s1w15</LM>
 </w.rf>
 <form>Meadow</form>
-<tag lemma="Meadow_;G" src="orig" selected="1">NNFXX-----A----</tag>
+<tag>
+<AM lemma="Meadow_;G" src="orig">NNFXX-----A----</AM>
+<AM lemma="Meadow-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-mf920902-062-p2s1w16">
 <src.rf>manual</src.rf>
@@ -337,7 +355,10 @@
 <LM>w#w-mf920902-062-p2s1w19</LM>
 </w.rf>
 <form>Argentincem</form>
-<tag lemma="argentinec" src="orig" selected="1">NNMS7-----A----</tag>
+<tag>
+<AM lemma="argentinec" src="orig">NNMS7-----A----</AM>
+<AM lemma="Argentinec_;E" src="manual" selected="1">NNMS7-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920902-062-p2s1w20">
 <src.rf>manual</src.rf>
@@ -729,7 +750,7 @@
 <form>vůbec</form>
 <tag>
 <AM lemma="vůbec" src="orig">Db-------------</AM>
-<AM lemma="vůbec" src="auto" recommended="1">TT-------------</AM>
+<AM lemma="vůbec" src="auto" recommended="1" selected="1">TT-------------</AM>
 </tag>
 </m>
 <m id="m-mf920902-062-p2s4w18">
@@ -1362,7 +1383,11 @@
 <LM>w#w-mf920902-062-p2s8w16</LM>
 </w.rf>
 <form>O</form>
-<tag lemma="O-2_;S_^(v_irských_jménech,_př._O'Connor)" src="orig" selected="1">NNXXX-----A----</tag>
+<tag>
+<AM lemma="O-2_;S_^(v_irských_jménech,_př._O'Connor)" src="orig">NNXXX-----A----</AM>
+<AM lemma="O-88_:B" src="manual">NNXXX-----A---8</AM>
+<AM lemma="O-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-mf920902-062-p2s8w17">
 <src.rf>manual</src.rf>
@@ -1418,7 +1443,10 @@
 <LM>w#w-mf920902-062-p2s8w23</LM>
 </w.rf>
 <form>ATP</form>
-<tag lemma="ATP-1_:B_;K_;w_,t_^(Prof._sv._asociace_tenisových_hráčů)" src="orig" selected="1">NNNXX-----A---8</tag>
+<tag>
+<AM lemma="ATP-1_:B_;K_;w_,t_^(Prof._sv._asociace_tenisových_hráčů)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="ATP-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-mf920902-062-p2s8w24">
 <src.rf>manual</src.rf>
@@ -1526,7 +1554,10 @@
 <LM>w#w-mf920902-062-p2s10w1</LM>
 </w.rf>
 <form>O</form>
-<tag lemma="O-2_;S_^(v_irských_jménech,_př._O'Connor)" src="orig" selected="1">NNXXX-----A----</tag>
+<tag>
+<AM lemma="O-2_;S_^(v_irských_jménech,_př._O'Connor)" src="orig">NNXXX-----A----</AM>
+<AM lemma="O-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-mf920902-062-p2s10w2">
 <src.rf>manual</src.rf>
@@ -2068,7 +2099,10 @@
 <LM>w#w-mf920902-062-p2s13w1</LM>
 </w.rf>
 <form>Naopak</form>
-<tag lemma="naopak-1" src="auto" selected="1">Db-------------</tag>
+<tag>
+<AM lemma="naopak-1" src="auto">Db-------------</AM>
+<AM lemma="naopak-2" src="manual" selected="1">TT-------------</AM>
+</tag>
 </m>
 <m id="m-mf920902-062-p2s13w2">
 <src.rf>manual</src.rf>

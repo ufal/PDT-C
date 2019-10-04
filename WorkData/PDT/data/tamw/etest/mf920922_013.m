@@ -199,7 +199,10 @@
 <LM>w#w-mf920922-013-p2s2w8</LM>
 </w.rf>
 <form>TWR</form>
-<tag lemma="TWR-1_:B_,t_^(aerodrome_control_tower)" src="orig" selected="1">NNFXX-----A----</tag>
+<tag>
+<AM lemma="TWR-1_:B_,t_^(aerodrome_control_tower)" src="orig">NNFXX-----A----</AM>
+<AM lemma="TWR-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-mf920922-013-p2s2w9">
 <src.rf>manual</src.rf>
@@ -401,7 +404,10 @@
 <LM>w#w-mf920922-013-p2s3w11</LM>
 </w.rf>
 <form>XJ</form>
-<tag lemma="XJ" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="XJ" src="orig">NNXXX-----A---8</AM>
+<AM lemma="XJ-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-mf920922-013-p2s3w12">
 <src.rf>manual</src.rf>
@@ -523,7 +529,10 @@
 <LM>w#w-mf920922-013-p2s4w5</LM>
 </w.rf>
 <form>TWR</form>
-<tag lemma="TWR-1_:B_,t_^(aerodrome_control_tower)" src="orig" selected="1">NNFXX-----A----</tag>
+<tag>
+<AM lemma="TWR-1_:B_,t_^(aerodrome_control_tower)" src="orig">NNFXX-----A----</AM>
+<AM lemma="TWR-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-mf920922-013-p2s4w6">
 <src.rf>manual</src.rf>
@@ -661,7 +670,10 @@
 <LM>w#w-mf920922-013-p2s5w1</LM>
 </w.rf>
 <form>TWR</form>
-<tag lemma="TWR-1_:B_,t_^(aerodrome_control_tower)" src="orig" selected="1">NNFXX-----A----</tag>
+<tag>
+<AM lemma="TWR-1_:B_,t_^(aerodrome_control_tower)" src="orig">NNFXX-----A----</AM>
+<AM lemma="TWR-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-mf920922-013-p2s5w2">
 <src.rf>manual</src.rf>
@@ -929,7 +941,10 @@
 <LM>w#w-mf920922-013-p2s7w9</LM>
 </w.rf>
 <form>Edizione</form>
-<tag lemma="Edizione_;K_,t" src="orig" selected="1">NNFXX-----A----</tag>
+<tag>
+<AM lemma="Edizione_;K_,t" src="orig">NNFXX-----A----</AM>
+<AM lemma="Edizione_;K" src="manual" selected="1">NNFXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920922-013-p2s7w10">
 <src.rf>manual</src.rf>
@@ -1221,7 +1236,10 @@
 <LM>w#w-mf920922-013-p2s9w13</LM>
 </w.rf>
 <form>United</form>
-<tag lemma="United_;K_,t_^(souč._angl._názvu)" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="United_;K_,t_^(souč._angl._názvu)" src="orig">AAXXX----1A----</AM>
+<AM lemma="United-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-mf920922-013-p2s9w14">
 <src.rf>manual</src.rf>
@@ -1229,7 +1247,10 @@
 <LM>w#w-mf920922-013-p2s9w14</LM>
 </w.rf>
 <form>Colours</form>
-<tag lemma="Colour_;K_,t" src="orig" selected="1">NNFPX-----A----</tag>
+<tag>
+<AM lemma="Colour_;K_,t" src="orig">NNFPX-----A----</AM>
+<AM lemma="Colours-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-mf920922-013-p2s9w15">
 <src.rf>manual</src.rf>
@@ -1237,7 +1258,10 @@
 <LM>w#w-mf920922-013-p2s9w15</LM>
 </w.rf>
 <form>of</form>
-<tag lemma="of-1_,t_^(obv._souč._anglických_názvů,_předl._2._p.)" src="orig" selected="1">RR--X----------</tag>
+<tag>
+<AM lemma="of-1_,t_^(obv._souč._anglických_názvů,_předl._2._p.)" src="orig">RR--X----------</AM>
+<AM lemma="of-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-mf920922-013-p2s9w16">
 <src.rf>manual</src.rf>
@@ -1453,7 +1477,10 @@
 <LM>w#w-mf920922-013-p2s9w42</LM>
 </w.rf>
 <form>KGB</form>
-<tag lemma="KGB_:B_;K_;p_^(Sov._státní_tajná_bezpečnost)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="KGB_:B_;K_;p_^(Sov._státní_tajná_bezpečnost)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="KGB_:B_;K_^(Sov._státní_tajná_bezpečnost)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920922-013-p2s9w43">
 <src.rf>manual</src.rf>
@@ -2120,7 +2147,10 @@
 <LM>w#w-mf920922-013-p2s12w21</LM>
 </w.rf>
 <form>jen</form>
-<tag lemma="jen-1" src="auto" selected="1">TT-------------</tag>
+<tag>
+<AM lemma="jen-1" src="auto">TT-------------</AM>
+<AM lemma="jen-4_^(pouze)" src="manual" selected="1">Db-------------</AM>
+</tag>
 </m>
 <m id="m-mf920922-013-p2s12w22">
 <src.rf>manual</src.rf>

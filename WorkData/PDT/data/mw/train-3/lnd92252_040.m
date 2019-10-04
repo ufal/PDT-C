@@ -201,7 +201,10 @@
 <LM>w#w-lnd92252-040-p2s3w3</LM>
 </w.rf>
 <form>KUNA</form>
-<tag lemma="kuna" src="orig" selected="1">NNFS1-----A----</tag>
+<tag>
+<AM lemma="kuna" src="orig">NNFS1-----A----</AM>
+<AM lemma="KUNA-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd92252-040-p2s3w4">
 <src.rf>manual</src.rf>
@@ -235,7 +238,10 @@
 <LM>w#w-lnd92252-040-p2s4w1</LM>
 </w.rf>
 <form>Napsala</form>
-<tag lemma="napsat" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag>
+<AM lemma="napsat" src="orig">VpQW---XR-AA---</AM>
+<AM lemma="napsat_:W" src="manual" selected="1">VpQW---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-lnd92252-040-p2s4w2">
 <src.rf>manual</src.rf>
@@ -331,7 +337,10 @@
 <LM>w#w-lnd92252-040-p2s4w13</LM>
 </w.rf>
 <form>Intrinsic</form>
-<tag lemma="Intrinsic_;m_,t" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="Intrinsic_;m_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="Intrinsic-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-lnd92252-040-p2s4w14">
 <src.rf>manual</src.rf>
@@ -343,6 +352,7 @@
 <AM lemma="Action_;m_,t" src="orig">NNFXX-----A----</AM>
 <AM lemma="Action_;K" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Action_;K" src="auto">NNIS4-----A----</AM>
+<AM lemma="Action-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-lnd92252-040-p2s4w15">
@@ -434,6 +444,7 @@
 <tag>
 <AM lemma="USA_;G" src="orig">NNIPX-----A----</AM>
 <AM lemma="USA_:B_;K_,t_^(United_States_of_America)" src="auto" recommended="1">NNIPX-----A---8</AM>
+<AM lemma="USA_:B_;K_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92252-040-p2s4w26">
@@ -588,7 +599,10 @@
 <LM>w#w-lnd92252-040-p2s5w1</LM>
 </w.rf>
 <form>KUNA</form>
-<tag lemma="kuna" src="orig" selected="1">NNFS1-----A----</tag>
+<tag>
+<AM lemma="kuna" src="orig">NNFS1-----A----</AM>
+<AM lemma="KUNA-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd92252-040-p2s5w2">
 <src.rf>manual</src.rf>
@@ -703,6 +717,7 @@
 <tag>
 <AM lemma="USA_;G" src="orig">NNIPX-----A----</AM>
 <AM lemma="USA_:B_;K_,t_^(United_States_of_America)" src="auto" recommended="1">NNIPX-----A---8</AM>
+<AM lemma="USA_:B_;K_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92252-040-p2s5w16">

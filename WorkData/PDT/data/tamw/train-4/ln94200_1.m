@@ -269,6 +269,8 @@
 <AM lemma="Emma_;Y" src="auto">NNFP4-----A----</AM>
 <AM lemma="Emma_;Y" src="auto">NNFP5-----A----</AM>
 <AM lemma="Emma_;Y" src="auto" recommended="1">NNFS2-----A----</AM>
+<AM lemma="EMMY-2_;m" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="EMMY-88_:B" src="manual">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94200-1-p2s2w13">
@@ -303,7 +305,11 @@
 <LM>w#w-ln94200-1-p2s3w2</LM>
 </w.rf>
 <form>začal</form>
-<tag lemma="začít-1_^(začnout)" src="auto" selected="1">VpYS---XR-AA---</tag>
+<tag>
+<AM lemma="začít-1_^(začnout)" src="auto">VpYS---XR-AA---</AM>
+<AM lemma="začít-1_^(začnout)_:W" src="manual">VpYS---XR-AA---</AM>
+<AM lemma="začít-1_:W_^(začnout)" src="manual" selected="1">VpYS---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-ln94200-1-p2s3w3">
 <src.rf>manual</src.rf>
@@ -661,7 +667,10 @@
 <LM>w#w-ln94200-1-p2s6w2</LM>
 </w.rf>
 <form>pz</form>
-<tag lemma="pz-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="pz-99_:B_;S" src="orig">NNXXX-----A---8</AM>
+<AM lemma="pz-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94200-1-p2s6w3">
 <src.rf>manual</src.rf>
@@ -685,7 +694,10 @@
 <LM>w#w-ln94200-1-p2s6w5</LM>
 </w.rf>
 <form>ČT</form>
-<tag lemma="ČT_:B_;K_^(Česká_televize)" src="auto" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="ČT_:B_;K_^(Česká_televize)" src="auto">NNXXX-----A---8</AM>
+<AM lemma="ČT_:B_;K_^(Česká_televize)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94200-1-p2s6w6">
 <src.rf>manual</src.rf>

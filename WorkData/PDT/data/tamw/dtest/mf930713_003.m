@@ -204,6 +204,7 @@
 <tag>
 <AM lemma="Kč" src="orig">NNFXX-----A----</AM>
 <AM lemma="Kč_:B" src="auto" recommended="1">NNFXX-----A---8</AM>
+<AM lemma="Kč_:B" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930713-003-p3s2w15">
@@ -214,7 +215,7 @@
 <form>Moravia</form>
 <tag>
 <AM lemma="Moravia-1_;K" src="orig">AAXXX----1A----</AM>
-<AM lemma="Moravia-1_;K" src="auto" recommended="1">NNFS1-----A----</AM>
+<AM lemma="Moravia-1_;K" src="auto" recommended="1" selected="1">NNFS1-----A----</AM>
 <AM lemma="Moravia-2_;S" src="auto">NNMS1-----A----</AM>
 </tag>
 </m>
@@ -438,7 +439,7 @@
 <form>Moravia</form>
 <tag>
 <AM lemma="Moravia-1_;K" src="orig">AAXXX----1A----</AM>
-<AM lemma="Moravia-1_;K" src="auto" recommended="1">NNFS1-----A----</AM>
+<AM lemma="Moravia-1_;K" src="auto" recommended="1" selected="1">NNFS1-----A----</AM>
 <AM lemma="Moravia-2_;S" src="auto">NNMS1-----A----</AM>
 </tag>
 </m>
@@ -875,7 +876,7 @@
 <form>zdaněny</form>
 <tag>
 <AM lemma="zdaňovat_^(vypočítat_daň)" src="orig">VsTP---XX-AP---</AM>
-<AM lemma="zdanit_:W_^(vypočítat_daň)" src="auto" recommended="1">VsTP---XX-AP---</AM>
+<AM lemma="zdanit_:W_^(vypočítat_daň)" src="auto" recommended="1" selected="1">VsTP---XX-AP---</AM>
 </tag>
 </m>
 <m id="m-mf930713-003-p3s9w9">

@@ -85,7 +85,10 @@
 <LM>w#w-ln94208-64-p2s1Aw3</LM>
 </w.rf>
 <form>New</form>
-<tag lemma="New-1_;G_,t_^(součást_míst._jmen)" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="New-1_;G_,t_^(součást_míst._jmen)" src="orig">AAXXX----1A----</AM>
+<AM lemma="New-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94208-64-p2s1Aw4">
 <src.rf>manual</src.rf>
@@ -93,7 +96,10 @@
 <LM>w#w-ln94208-64-p2s1Aw4</LM>
 </w.rf>
 <form>York</form>
-<tag lemma="York-2_;G" src="orig" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="York-2_;G" src="orig">NNIS1-----A----</AM>
+<AM lemma="York-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94208-64-p2s1Aw5">
 <src.rf>manual</src.rf>
@@ -239,7 +245,10 @@
 <LM>w#w-ln94208-64-p2s1Bw17</LM>
 </w.rf>
 <form>OSN</form>
-<tag lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94208-64-p2s1Bw18">
 <src.rf>manual</src.rf>
@@ -491,7 +500,7 @@
 <form>Záhřebu</form>
 <tag>
 <AM lemma="Záhřeb_;G" src="orig">NNIS2-----A----</AM>
-<AM lemma="Záhřeb_;G" src="auto" recommended="1">NNIS2-----A---1</AM>
+<AM lemma="Záhřeb_;G" src="auto" recommended="1" selected="1">NNIS2-----A---1</AM>
 <AM lemma="Záhřeb_;G" src="auto">NNIS3-----A----</AM>
 <AM lemma="Záhřeb_;G" src="auto">NNIS6-----A---1</AM>
 </tag>
@@ -1275,6 +1284,7 @@
 <AM lemma="New-1_;G_,t_^(součást_míst._jmen)" src="auto" recommended="1">AAXXX----1A----</AM>
 <AM lemma="New-2_;m_,t_^(angl._nový,_souč._ost._názvů)" src="auto">AAXXX----1A----</AM>
 <AM lemma="new-2_,t_^(angl._nový)" src="auto">AAXXX----1A----</AM>
+<AM lemma="New-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-ln94208-64-p4s2w6">
@@ -1288,6 +1298,7 @@
 <AM lemma="York-1_;S" src="auto">NNMS1-----A----</AM>
 <AM lemma="York-2_;G" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="York-2_;G" src="auto">NNIS4-----A----</AM>
+<AM lemma="York-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-ln94208-64-p4s2w7">
@@ -1296,7 +1307,10 @@
 <LM>w#w-ln94208-64-p4s2w7</LM>
 </w.rf>
 <form>Times</form>
-<tag lemma="Times-1_;K_,t_^(souč._názvů,_např._The_Times)" src="orig" selected="1">NNIPX-----A----</tag>
+<tag>
+<AM lemma="Times-1_;K_,t_^(souč._názvů,_např._The_Times)" src="orig">NNIPX-----A----</AM>
+<AM lemma="Times-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94208-64-p4s2w8">
 <src.rf>manual</src.rf>
@@ -1451,6 +1465,7 @@
 <tag>
 <AM lemma="USA_;G" src="orig">NNIPX-----A----</AM>
 <AM lemma="USA_:B_;K_,t_^(United_States_of_America)" src="auto" recommended="1">NNIPX-----A---8</AM>
+<AM lemma="USA_:B_;K_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94208-64-p4s2w27">
@@ -1632,7 +1647,7 @@
 <form>Milošević</form>
 <tag>
 <AM lemma="Miloševič_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Milošević_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Milošević_;S" src="auto" recommended="1" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94208-64-p5s1w5">
@@ -1713,7 +1728,10 @@
 <LM>w#w-ln94208-64-p5s1w14</LM>
 </w.rf>
 <form>Owen</form>
-<tag lemma="Owen_;Y" src="auto" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Owen_;Y" src="auto">NNMS1-----A----</AM>
+<AM lemma="Owen_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94208-64-p5s1w15">
 <src.rf>manual</src.rf>
@@ -1729,7 +1747,10 @@
 <LM>w#w-ln94208-64-p5s1w16</LM>
 </w.rf>
 <form>Thorvald</form>
-<tag lemma="Thorvald_;S" src="auto" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Thorvald_;S" src="auto">NNMS1-----A----</AM>
+<AM lemma="Thorvald_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94208-64-p5s1w17">
 <src.rf>manual</src.rf>
@@ -1844,6 +1865,7 @@
 <tag>
 <AM lemma="JSR_:B_;G_^(Jugoslávská_svazová_republika)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="JSR_:B_^(Jugoslávská_svazová_republika)" src="auto" recommended="1">NNXXX-----A---8</AM>
+<AM lemma="JSR-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-ln94208-64-p5s1w31">

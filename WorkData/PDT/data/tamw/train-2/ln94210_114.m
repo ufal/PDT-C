@@ -127,7 +127,10 @@
 <LM>w#w-ln94210-114-p2s1Bw4</LM>
 </w.rf>
 <form>van</form>
-<tag lemma="van-2_,t_^(v_hol._jménech)" src="orig" selected="1">RR--X----------</tag>
+<tag>
+<AM lemma="van-2_,t_^(v_hol._jménech)" src="orig">RR--X----------</AM>
+<AM lemma="van-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94210-114-p2s1Bw5">
 <src.rf>manual</src.rf>
@@ -224,6 +227,7 @@
 <AM lemma="mimo-1_:B" src="auto">RR--4---------8</AM>
 <AM lemma="minuta_:B" src="auto">NNFXX-----A---8</AM>
 <AM lemma="město_:B" src="auto">NNNXX-----A---8</AM>
+<AM lemma="metr" src="manual" selected="1">NNIXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-ln94210-114-p2s1Bw16">
@@ -256,7 +260,10 @@
 <LM>w#w-ln94210-114-p2s1Bw19</LM>
 </w.rf>
 <form>MS</form>
-<tag lemma="MS-3_:B_;w_^(mistrovství_světa)" src="orig" selected="1">NNNXX-----A---8</tag>
+<tag>
+<AM lemma="MS-3_:B_;w_^(mistrovství_světa)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="MS-3_:B_^(mistrovství_světa)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94210-114-p2s1Bw20">
 <src.rf>manual</src.rf>
@@ -532,7 +539,10 @@
 <LM>w#w-ln94210-114-p2s3w1</LM>
 </w.rf>
 <form>Van</form>
-<tag lemma="van-2_,t_^(v_hol._jménech)" src="orig" selected="1">RR--X----------</tag>
+<tag>
+<AM lemma="van-2_,t_^(v_hol._jménech)" src="orig">RR--X----------</AM>
+<AM lemma="Van-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94210-114-p2s3w2">
 <src.rf>manual</src.rf>
@@ -871,6 +881,7 @@
 <AM lemma="mimo-1_:B" src="auto">RR--4---------8</AM>
 <AM lemma="minuta_:B" src="auto">NNFXX-----A---8</AM>
 <AM lemma="město_:B" src="auto">NNNXX-----A---8</AM>
+<AM lemma="metr" src="manual" selected="1">NNIXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-ln94210-114-p2s4w10">
@@ -904,7 +915,7 @@
 </w.rf>
 <form>Dolan</form>
 <tag>
-<AM lemma="Dolan_;S" src="orig">NNMS1-----A----</AM>
+<AM lemma="Dolan_;S" src="orig" selected="1">NNMS1-----A----</AM>
 <AM lemma="Dolany_;G" src="auto" recommended="1">NNIP2-----A----</AM>
 </tag>
 </m>

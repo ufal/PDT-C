@@ -145,7 +145,7 @@
 <form>zasáhla</form>
 <tag>
 <AM lemma="zasáhnout" src="orig">VpQW---XR-AA---</AM>
-<AM lemma="zasáhnout_:W" src="auto" recommended="1">VpQW---XR-AA--1</AM>
+<AM lemma="zasáhnout_:W" src="auto" recommended="1" selected="1">VpQW---XR-AA--1</AM>
 </tag>
 </m>
 <m id="m-ln94200-114-p2s1Bw10">
@@ -332,7 +332,10 @@
 <LM>w#w-ln94200-114-p2s2w7</LM>
 </w.rf>
 <form>Šin</form>
-<tag lemma="Šin_;K_,t" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="Šin_;K_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="Šin-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94200-114-p2s2w8">
 <src.rf>manual</src.rf>
@@ -344,6 +347,7 @@
 <AM lemma="Bet_;K_,t" src="orig">NNXXX-----A----</AM>
 <AM lemma="Bet_;Y" src="auto" recommended="1">NNFSX-----A----</AM>
 <AM lemma="beta" src="auto">NNFP2-----A----</AM>
+<AM lemma="Bet-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-ln94200-114-p2s2w9">
@@ -472,7 +476,10 @@
 <LM>w#w-ln94200-114-p2s2w24</LM>
 </w.rf>
 <form>Arabů</form>
-<tag lemma="arab" src="orig" selected="1">NNMP2-----A----</tag>
+<tag>
+<AM lemma="arab" src="orig">NNMP2-----A----</AM>
+<AM lemma="Arab_;E" src="manual" selected="1">NNMP2-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94200-114-p2s2w25">
 <src.rf>manual</src.rf>
@@ -698,7 +705,10 @@
 <LM>w#w-ln94200-114-p2s3w18</LM>
 </w.rf>
 <form>Šin</form>
-<tag lemma="Šin_;K_,t" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="Šin_;K_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="Šin-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94200-114-p2s3w19">
 <src.rf>manual</src.rf>
@@ -710,6 +720,7 @@
 <AM lemma="Bet_;K_,t" src="orig">NNXXX-----A----</AM>
 <AM lemma="Bet_;Y" src="auto" recommended="1">NNFSX-----A----</AM>
 <AM lemma="beta" src="auto">NNFP2-----A----</AM>
+<AM lemma="Bet-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-ln94200-114-p2s3w20">
@@ -784,7 +795,10 @@
 <LM>w#w-ln94200-114-p3s1w8</LM>
 </w.rf>
 <form>Mardž</form>
-<tag lemma="Mardž_;G" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="Mardž_;G" src="orig">AAXXX----1A----</AM>
+<AM lemma="Mardž-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94200-114-p3s1w9">
 <src.rf>manual</src.rf>
@@ -792,7 +806,10 @@
 <LM>w#w-ln94200-114-p3s1w9</LM>
 </w.rf>
 <form>Ujún</form>
-<tag lemma="Ujún_;G" src="orig" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="Ujún_;G" src="orig">NNIS1-----A----</AM>
+<AM lemma="Ujún-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94200-114-p3s1w10">
 <src.rf>manual</src.rf>
@@ -848,7 +865,10 @@
 <LM>w#w-ln94200-114-p3s1w16</LM>
 </w.rf>
 <form>tzv</form>
-<tag lemma="takzvaný_:B" src="orig" selected="1">AAXXX----1A---8</tag>
+<tag>
+<AM lemma="takzvaný_:B" src="orig">AAXXX----1A---8</AM>
+<AM lemma="takzvaný" src="manual" selected="1">AAXXX----1A---8</AM>
+</tag>
 </m>
 <m id="m-ln94200-114-p3s1w17">
 <src.rf>manual</src.rf>

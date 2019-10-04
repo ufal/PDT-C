@@ -35,7 +35,10 @@
 <LM>w#w-lnd94103-106-p1s1Aw3</LM>
 </w.rf>
 <form>MS</form>
-<tag lemma="MS-3_:B_;w_^(mistrovství_světa)" src="orig" selected="1">NNNXX-----A---8</tag>
+<tag>
+<AM lemma="MS-3_:B_;w_^(mistrovství_světa)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="MS-3_:B_^(mistrovství_světa)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd94103-106-p1s1Aw4">
 <src.rf>manual</src.rf>
@@ -93,7 +96,10 @@
 <LM>w#w-lnd94103-106-p1s1Bw5</LM>
 </w.rf>
 <form>NHL</form>
-<tag lemma="NHL-1_:B_;K_;w_^(Nár._hokejová_liga)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="NHL-1_:B_;K_;w_^(Nár._hokejová_liga)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="NHL-1_:B_;K_^(Nár._hokejová_liga)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd94103-106-p1s1Bw6">
 <src.rf>manual</src.rf>
@@ -127,7 +133,10 @@
 <LM>w#w-lnd94103-106-p1s2Aw1</LM>
 </w.rf>
 <form>Val</form>
-<tag lemma="Val-1_;G_,t_^(údolí)" src="auto" selected="1">NNNXX-----A----</tag>
+<tag>
+<AM lemma="Val-1_;G_,t_^(údolí)" src="auto">NNNXX-----A----</AM>
+<AM lemma="Val-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-lnd94103-106-p1s2Aw2">
 <src.rf>manual</src.rf>
@@ -135,7 +144,10 @@
 <LM>w#w-lnd94103-106-p1s2Aw2</LM>
 </w.rf>
 <form>di</form>
-<tag lemma="di_;G_;S_;Y_,t" src="auto" selected="1">RR--X----------</tag>
+<tag>
+<AM lemma="di_;G_;S_;Y_,t" src="auto">RR--X----------</AM>
+<AM lemma="di-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-lnd94103-106-p1s2Aw3">
 <src.rf>manual</src.rf>
@@ -143,7 +155,10 @@
 <LM>w#w-lnd94103-106-p1s2Aw3</LM>
 </w.rf>
 <form>Fassa</form>
-<tag lemma="Fassa_;G_,t" src="orig" selected="1">NNNXX-----A----</tag>
+<tag>
+<AM lemma="Fassa_;G_,t" src="orig">NNNXX-----A----</AM>
+<AM lemma="Fassa-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-lnd94103-106-p1s2Aw4">
 <src.rf>manual</src.rf>
@@ -159,7 +174,10 @@
 <LM>w#w-lnd94103-106-p1s2Aw5</LM>
 </w.rf>
 <form>tob</form>
-<tag lemma="tob-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="tob-99_:B_;S" src="orig">NNXXX-----A---8</AM>
+<AM lemma="tob-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd94103-106-p1s2Aw6">
 <src.rf>manual</src.rf>
@@ -233,7 +251,10 @@
 <LM>w#w-lnd94103-106-p1s2Bw7</LM>
 </w.rf>
 <form>NHL</form>
-<tag lemma="NHL-1_:B_;K_;w_^(Nár._hokejová_liga)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="NHL-1_:B_;K_;w_^(Nár._hokejová_liga)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="NHL-1_:B_;K_^(Nár._hokejová_liga)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd94103-106-p1s2Bw8">
 <src.rf>manual</src.rf>
@@ -345,7 +366,10 @@
 <LM>w#w-lnd94103-106-p1s2Bw21</LM>
 </w.rf>
 <form>Joe</form>
-<tag lemma="Joe_;Y_,t" src="auto" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Joe_;Y_,t" src="auto">NNMS1-----A----</AM>
+<AM lemma="Joe_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd94103-106-p1s2Bw22">
 <src.rf>manual</src.rf>
@@ -377,7 +401,10 @@
 <LM>w#w-lnd94103-106-p1s2Bw25</LM>
 </w.rf>
 <form>Quebec</form>
-<tag lemma="Québec_;G" src="orig" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="Québec_;G" src="orig">NNIS1-----A----</AM>
+<AM lemma="Quebec-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-lnd94103-106-p1s2Bw26">
 <src.rf>manual</src.rf>
@@ -385,7 +412,10 @@
 <LM>w#w-lnd94103-106-p1s2Bw26</LM>
 </w.rf>
 <form>Nordiques</form>
-<tag lemma="Nordique_;K_,t" src="orig" selected="1">NNMPX-----A----</tag>
+<tag>
+<AM lemma="Nordique_;K_,t" src="orig">NNMPX-----A----</AM>
+<AM lemma="Nordiques-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-lnd94103-106-p1s2Bw27">
 <src.rf>manual</src.rf>
@@ -601,7 +631,7 @@
 <form>třeba</form>
 <tag>
 <AM lemma="třeba-1" src="orig">ACNS------A----</AM>
-<AM lemma="třeba-2" src="auto" recommended="1">Db-------------</AM>
+<AM lemma="třeba-2" src="auto" recommended="1" selected="1">Db-------------</AM>
 <AM lemma="třeba-3" src="auto">TT-------------</AM>
 </tag>
 </m>

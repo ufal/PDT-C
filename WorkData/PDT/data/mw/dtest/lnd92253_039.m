@@ -187,7 +187,10 @@
 <LM>w#w-lnd92253-039-p1s1w22</LM>
 </w.rf>
 <form>Greenpeace</form>
-<tag lemma="Greenpeace_;K_;z_,t" src="auto" selected="1">NNNXX-----A----</tag>
+<tag>
+<AM lemma="Greenpeace_;K_;z_,t" src="auto">NNNXX-----A----</AM>
+<AM lemma="Greenpeace_;K" src="manual" selected="1">NNNXX-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92253-039-p1s1w23">
 <src.rf>manual</src.rf>

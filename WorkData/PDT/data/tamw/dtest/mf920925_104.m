@@ -27,7 +27,10 @@
 <LM>w#w-mf920925-104-p1s1Aw2</LM>
 </w.rf>
 <form>Mata</form>
-<tag lemma="Mata_;G" src="auto" selected="1">NNFS1-----A----</tag>
+<tag>
+<AM lemma="Mata_;G" src="auto">NNFS1-----A----</AM>
+<AM lemma="Mata-2_;Y" src="manual" selected="1">NNFS1-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920925-104-p1s1Aw3">
 <src.rf>manual</src.rf>
@@ -193,7 +196,10 @@
 <LM>w#w-mf920925-104-p2s2w5</LM>
 </w.rf>
 <form>Sismi</form>
-<tag lemma="Sismi_;K_,t" src="orig" selected="1">NNFXX-----A----</tag>
+<tag>
+<AM lemma="Sismi_;K_,t" src="orig">NNFXX-----A----</AM>
+<AM lemma="Sismi_;K" src="manual" selected="1">NNFXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920925-104-p2s2w6">
 <src.rf>manual</src.rf>
@@ -358,6 +364,8 @@
 <AM lemma="Ilo_;G" src="auto">NNNP2-----A----</AM>
 <AM lemma="il-2_,t_^(it._člen)" src="auto" recommended="1">AAXXX----1A----</AM>
 <AM lemma="il-99_:B_;S" src="auto">NNXXX-----A---8</AM>
+<AM lemma="il-2_,t_^(člen)" src="manual">AAXXX----1A----</AM>
+<AM lemma="Il-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-mf920925-104-p2s2w26">
@@ -366,7 +374,10 @@
 <LM>w#w-mf920925-104-p2s2w26</LM>
 </w.rf>
 <form>Messaggero</form>
-<tag lemma="Messaggero_;R_,t" src="orig" selected="1">NNNS1-----A----</tag>
+<tag>
+<AM lemma="Messaggero_;R_,t" src="orig">NNNS1-----A----</AM>
+<AM lemma="Messaggero-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-mf920925-104-p2s2w27">
 <src.rf>manual</src.rf>
@@ -552,7 +563,10 @@
 <LM>w#w-mf920925-104-p3s1w13</LM>
 </w.rf>
 <form>píší</form>
-<tag lemma="psát" src="orig" selected="1">VB-P---3P-AA--1</tag>
+<tag>
+<AM lemma="psát" src="orig">VB-P---3P-AA--1</AM>
+<AM lemma="psát_:T" src="manual" selected="1">VB-P---3P-AA--1</AM>
+</tag>
 </m>
 <m id="m-mf920925-104-p3s1w14">
 <src.rf>manual</src.rf>
@@ -568,7 +582,10 @@
 <LM>w#w-mf920925-104-p3s1w15</LM>
 </w.rf>
 <form>Mata</form>
-<tag lemma="Mata_;G" src="auto" selected="1">NNFS1-----A----</tag>
+<tag>
+<AM lemma="Mata_;G" src="auto">NNFS1-----A----</AM>
+<AM lemma="Mata-2_;Y" src="manual" selected="1">NNFS1-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920925-104-p3s1w16">
 <src.rf>manual</src.rf>
@@ -696,7 +713,10 @@
 <LM>w#w-mf920925-104-p3s1w31</LM>
 </w.rf>
 <form>Le</form>
-<tag lemma="Le-1_,t_^(franc._člen_jako_souč._jmen_a_názvů)" src="orig" selected="1">AAMSX----1A----</tag>
+<tag>
+<AM lemma="Le-1_,t_^(franc._člen_jako_souč._jmen_a_názvů)" src="orig">AAMSX----1A----</AM>
+<AM lemma="Le-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-mf920925-104-p3s1w32">
 <src.rf>manual</src.rf>
@@ -706,7 +726,7 @@
 <form>Carré</form>
 <tag>
 <AM lemma="Carré_;S" src="orig">NNMSX-----A----</AM>
-<AM lemma="Carré_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Carré_;S" src="auto" recommended="1" selected="1">NNMS1-----A----</AM>
 <AM lemma="Carré_;S" src="auto">NNMS5-----A----</AM>
 </tag>
 </m>
@@ -739,6 +759,8 @@
 <AM lemma="Ilo_;G" src="auto">NNNP2-----A----</AM>
 <AM lemma="il-2_,t_^(it._člen)" src="auto" recommended="1">AAXXX----1A----</AM>
 <AM lemma="il-99_:B_;S" src="auto">NNXXX-----A---8</AM>
+<AM lemma="il-2_,t_^(člen)" src="manual">AAXXX----1A----</AM>
+<AM lemma="Il-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-mf920925-104-p3s2w3">
@@ -747,7 +769,10 @@
 <LM>w#w-mf920925-104-p3s2w3</LM>
 </w.rf>
 <form>Messaggera</form>
-<tag lemma="Messaggero_;R_,t" src="orig" selected="1">NNNS2-----A----</tag>
+<tag>
+<AM lemma="Messaggero_;R_,t" src="orig">NNNS2-----A----</AM>
+<AM lemma="Messaggera-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-mf920925-104-p3s2w4">
 <src.rf>manual</src.rf>
@@ -942,6 +967,8 @@
 <tag>
 <AM lemma="SID_:B_;K_,t_^(tajná_služba)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="Sido_;G" src="auto" recommended="1">NNNP2-----A----</AM>
+<AM lemma="SID_:B" src="manual">NNXXX-----A---8</AM>
+<AM lemma="SID-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920925-104-p3s2w28">
@@ -1112,7 +1139,10 @@
 <LM>w#w-mf920925-104-p3s3w11</LM>
 </w.rf>
 <form>řekl</form>
-<tag lemma="říci" src="auto" selected="1">VpYS---XR-AA---</tag>
+<tag>
+<AM lemma="říci" src="auto">VpYS---XR-AA---</AM>
+<AM lemma="říci_:W" src="manual" selected="1">VpYS---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-mf920925-104-p3s3w12">
 <src.rf>manual</src.rf>
@@ -1465,6 +1495,11 @@
 <AM lemma="krávo_;R" src="orig">NNNS1-----A----</AM>
 <AM lemma="kráva" src="auto" recommended="1">NNFS5-----A----</AM>
 </tag>
+<comment>
+<LM type="New Form">
+<text>právo</text>
+</LM>
+</comment>
 </m>
 <m id="m-mf920925-104-p3s5w15">
 <src.rf>manual</src.rf>

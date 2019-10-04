@@ -43,7 +43,10 @@
 <LM>w#w-mf930703-125-p1s1w4</LM>
 </w.rf>
 <form>OSN</form>
-<tag lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930703-125-p1s1w5">
 <src.rf>manual</src.rf>
@@ -157,7 +160,10 @@
 <LM>w#w-mf930703-125-p2s1w11</LM>
 </w.rf>
 <form>OSN</form>
-<tag lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930703-125-p2s1w12">
 <src.rf>manual</src.rf>
@@ -1121,7 +1127,10 @@
 <LM>w#w-mf930703-125-p3s2w13</LM>
 </w.rf>
 <form>OSN</form>
-<tag lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930703-125-p3s2w14">
 <src.rf>manual</src.rf>
@@ -1145,7 +1154,10 @@
 <LM>w#w-mf930703-125-p3s2w16</LM>
 </w.rf>
 <form>mj</form>
-<tag lemma="mj-1_:B_^(mimo_jiné)" src="orig" selected="1">Db------------8</tag>
+<tag>
+<AM lemma="mj-1_:B_^(mimo_jiné)" src="orig">Db------------8</AM>
+<AM lemma="mj-1_:B_^(mimo_jiné)" src="manual" selected="1">Db-------------</AM>
+</tag>
 </m>
 <m id="m-mf930703-125-p3s2w17">
 <src.rf>manual</src.rf>
@@ -1265,7 +1277,10 @@
 <LM>w#w-mf930703-125-p3s2w31</LM>
 </w.rf>
 <form>Loiem</form>
-<tag lemma="Loi_;S_;Y_,t" src="auto" selected="1">NNMS7-----A----</tag>
+<tag>
+<AM lemma="Loi_;S_;Y_,t" src="auto">NNMS7-----A----</AM>
+<AM lemma="Loi_;S_;Y" src="manual" selected="1">NNMS7-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930703-125-p3s2w32">
 <src.rf>manual</src.rf>

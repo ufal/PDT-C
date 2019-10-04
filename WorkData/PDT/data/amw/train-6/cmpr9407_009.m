@@ -255,7 +255,10 @@
 <LM>w#w-cmpr9407-009-p3s2w13</LM>
 </w.rf>
 <form>díky</form>
-<tag lemma="dík-1" src="auto" selected="1">NNIP7-----A----</tag>
+<tag>
+<AM lemma="dík-1" src="auto">NNIP7-----A----</AM>
+<AM lemma="díky" src="manual" selected="1">RR--3----------</AM>
+</tag>
 </m>
 <m id="m-cmpr9407-009-p3s2w14">
 <src.rf>manual</src.rf>

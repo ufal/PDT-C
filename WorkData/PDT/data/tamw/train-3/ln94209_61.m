@@ -41,6 +41,7 @@
 <AM lemma="thalium" src="auto">NNNP4-----A----</AM>
 <AM lemma="thalium" src="auto">NNNP5-----A----</AM>
 <AM lemma="thalium" src="auto" recommended="1">NNNS2-----A----</AM>
+<AM lemma="Thalia_;R" src="manual" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94209-61-p1s1Aw4">
@@ -97,7 +98,10 @@
 <LM>w#w-ln94209-61-p1s1Aw10</LM>
 </w.rf>
 <form>vypluje</form>
-<tag lemma="vyplout" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag>
+<AM lemma="vyplout" src="orig">VB-S---3P-AA---</AM>
+<AM lemma="vyplout_:W" src="manual" selected="1">VB-S---3P-AA---</AM>
+</tag>
 </m>
 <m id="m-ln94209-61-p1s1Aw11">
 <src.rf>manual</src.rf>

@@ -35,7 +35,10 @@
 <LM>w#w-lnd92259-069-p1s1w3</LM>
 </w.rf>
 <form>KHMERŮM</form>
-<tag lemma="Khmer" src="orig" selected="1">NNMP3-----A----</tag>
+<tag>
+<AM lemma="Khmer" src="orig">NNMP3-----A----</AM>
+<AM lemma="Khmer_;E" src="manual" selected="1">NNMP3-----A----</AM>
+</tag>
 </m>
 </s>
 <s id="m-lnd92259-069-p2s1">
@@ -53,7 +56,10 @@
 <LM>w#w-lnd92259-069-p2s1w2</LM>
 </w.rf>
 <form>OSN</form>
-<tag lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92259-069-p2s1w3">
 <src.rf>manual</src.rf>
@@ -161,7 +167,10 @@
 <LM>w#w-lnd92259-069-p3s2w10</LM>
 </w.rf>
 <form>OSN</form>
-<tag lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92259-069-p3s2w11">
 <src.rf>manual</src.rf>
@@ -217,7 +226,10 @@
 <LM>w#w-lnd92259-069-p3s2w17</LM>
 </w.rf>
 <form>vedly</form>
-<tag lemma="vést" src="auto" selected="1">VpTP---XR-AA---</tag>
+<tag>
+<AM lemma="vést" src="auto">VpTP---XR-AA---</AM>
+<AM lemma="vést_:T" src="manual" selected="1">VpTP---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-lnd92259-069-p3s2w18">
 <src.rf>manual</src.rf>
@@ -353,7 +365,10 @@
 <LM>w#w-lnd92259-069-p3s2w35</LM>
 </w.rf>
 <form>Khmerům</form>
-<tag lemma="Khmer" src="orig" selected="1">NNMP3-----A----</tag>
+<tag>
+<AM lemma="Khmer" src="orig">NNMP3-----A----</AM>
+<AM lemma="Khmer_;E" src="manual" selected="1">NNMP3-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92259-069-p3s2w36">
 <src.rf>manual</src.rf>
@@ -387,7 +402,10 @@
 <LM>w#w-lnd92259-069-p3s3w3</LM>
 </w.rf>
 <form>OSN</form>
-<tag lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92259-069-p3s3w4">
 <src.rf>manual</src.rf>
@@ -493,7 +511,10 @@
 <LM>w#w-lnd92259-069-p3s4w1</LM>
 </w.rf>
 <form>Khmerové</form>
-<tag lemma="Khmer" src="orig" selected="1">NNMP1-----A----</tag>
+<tag>
+<AM lemma="Khmer" src="orig">NNMP1-----A----</AM>
+<AM lemma="Khmer_;E" src="manual" selected="1">NNMP1-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92259-069-p3s4w2">
 <src.rf>manual</src.rf>
@@ -647,7 +668,10 @@
 <LM>w#w-lnd92259-069-p3s5w5</LM>
 </w.rf>
 <form>Khmerové</form>
-<tag lemma="Khmer" src="orig" selected="1">NNMP1-----A----</tag>
+<tag>
+<AM lemma="Khmer" src="orig">NNMP1-----A----</AM>
+<AM lemma="Khmer_;E" src="manual" selected="1">NNMP1-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92259-069-p3s5w6">
 <src.rf>manual</src.rf>
@@ -815,7 +839,10 @@
 <LM>w#w-lnd92259-069-p3s5w26</LM>
 </w.rf>
 <form>li</form>
-<tag lemma="li-1" src="auto" selected="1">TT-------------</tag>
+<tag>
+<AM lemma="li-1" src="auto">TT-------------</AM>
+<AM lemma="li-2" src="manual" selected="1">J,-------------</AM>
+</tag>
 </m>
 <m id="m-lnd92259-069-p3s5w27">
 <src.rf>manual</src.rf>
@@ -863,7 +890,10 @@
 <LM>w#w-lnd92259-069-p3s5w32</LM>
 </w.rf>
 <form>OSN</form>
-<tag lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92259-069-p3s5w33">
 <src.rf>manual</src.rf>
@@ -985,7 +1015,10 @@
 <LM>w#w-lnd92259-069-p3s6w13</LM>
 </w.rf>
 <form>OSN</form>
-<tag lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92259-069-p3s6w14">
 <src.rf>manual</src.rf>
@@ -1081,7 +1114,10 @@
 <LM>w#w-lnd92259-069-p3s6w25</LM>
 </w.rf>
 <form>Khmery</form>
-<tag lemma="Khmer" src="orig" selected="1">NNMP7-----A----</tag>
+<tag>
+<AM lemma="Khmer" src="orig">NNMP7-----A----</AM>
+<AM lemma="Khmer_;E" src="manual" selected="1">NNMP7-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92259-069-p3s6w26">
 <src.rf>manual</src.rf>

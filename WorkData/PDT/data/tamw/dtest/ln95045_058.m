@@ -1059,7 +1059,10 @@
 <LM>w#w-ln95045-058-p2s7w8</LM>
 </w.rf>
 <form>právě</form>
-<tag lemma="právě-1" src="auto" selected="1">Db-------------</tag>
+<tag>
+<AM lemma="právě-1" src="auto">Db-------------</AM>
+<AM lemma="právě-2" src="manual" selected="1">TT-------------</AM>
+</tag>
 </m>
 <m id="m-ln95045-058-p2s7w9">
 <src.rf>manual</src.rf>

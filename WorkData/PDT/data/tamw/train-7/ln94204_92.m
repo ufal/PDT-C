@@ -73,6 +73,8 @@
 <AM lemma="AG-1_:B_;b_,t_^(označ._něm._akciové_spol.)" src="auto">NNNXX-----A---8</AM>
 <AM lemma="Ag_:B_^(stříbro)" src="auto" recommended="1">NNXXX-----A---8</AM>
 <AM lemma="Aga_;Y" src="auto">NNFP2-----A----</AM>
+<AM lemma="AG-2_:B" src="manual">NNXXX-----A---8</AM>
+<AM lemma="AG-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94204-92-p1s1w8">
@@ -153,7 +155,10 @@
 <LM>w#w-ln94204-92-p1s1w17</LM>
 </w.rf>
 <form>Hradišťanem</form>
-<tag lemma="Hradišťan" src="orig" selected="1">NNIS7-----A----</tag>
+<tag>
+<AM lemma="Hradišťan" src="orig">NNIS7-----A----</AM>
+<AM lemma="Hradišťan_;K" src="manual" selected="1">NNIS7-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94204-92-p1s1w18">
 <src.rf>manual</src.rf>
@@ -203,7 +208,10 @@
 <LM>w#w-ln94204-92-p1s2w5</LM>
 </w.rf>
 <form>LN</form>
-<tag lemma="LN-1_:B_;R_^(Lidové_noviny,_deník)" src="orig" selected="1">NNFPX-----A---8</tag>
+<tag>
+<AM lemma="LN-1_:B_;R_^(Lidové_noviny,_deník)" src="orig">NNFPX-----A---8</AM>
+<AM lemma="LN-1_:B_;K_;R_^(Lidové_noviny)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 </s>
 </mdata>

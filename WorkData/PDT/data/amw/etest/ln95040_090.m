@@ -19,7 +19,10 @@
 <LM>w#w-ln95040-090-p1s1w1</LM>
 </w.rf>
 <form>KLDR</form>
-<tag lemma="KLDR_:B_;G_^(Korejská_lidově-demokratická_republika)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="KLDR_:B_;G_^(Korejská_lidově-demokratická_republika)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="KLDR_:B_;G_^(Korejská_lidově-demokratická_republika)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95040-090-p1s1w2">
 <src.rf>manual</src.rf>
@@ -54,6 +57,7 @@
 <tag>
 <AM lemma="USA_;G" src="orig">NNIPX-----A----</AM>
 <AM lemma="USA_:B_;K_,t_^(United_States_of_America)" src="auto" recommended="1">NNIPX-----A---8</AM>
+<AM lemma="USA_:B_;K_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95040-090-p1s1w6">
@@ -234,7 +238,10 @@
 <LM>w#w-ln95040-090-p2s1Bw18</LM>
 </w.rf>
 <form>uzavřela</form>
-<tag lemma="uzavřít" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag>
+<AM lemma="uzavřít" src="orig">VpQW---XR-AA---</AM>
+<AM lemma="uzavřít_:W" src="manual" selected="1">VpQW---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-ln95040-090-p2s1Bw19">
 <src.rf>manual</src.rf>
@@ -330,7 +337,10 @@
 <LM>w#w-ln95040-090-p2s1Bw31</LM>
 </w.rf>
 <form>přijala</form>
-<tag lemma="přijmout" src="auto" selected="1">VpQW---XR-AA---</tag>
+<tag>
+<AM lemma="přijmout" src="auto">VpQW---XR-AA---</AM>
+<AM lemma="přijmout_:W" src="manual" selected="1">VpQW---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-ln95040-090-p2s1Bw32">
 <src.rf>manual</src.rf>
@@ -452,7 +462,10 @@
 <LM>w#w-ln95040-090-p2s2w9</LM>
 </w.rf>
 <form>KCNA</form>
-<tag lemma="KCNA-1_:B_;K_,t_^(Korean_Central_News_Agency)" src="auto" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="KCNA-1_:B_;K_,t_^(Korean_Central_News_Agency)" src="auto">NNFXX-----A---8</AM>
+<AM lemma="KCNA-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95040-090-p2s2w10">
 <src.rf>manual</src.rf>
@@ -460,7 +473,10 @@
 <LM>w#w-ln95040-090-p2s2w10</LM>
 </w.rf>
 <form>řekl</form>
-<tag lemma="říci" src="auto" selected="1">VpYS---XR-AA---</tag>
+<tag>
+<AM lemma="říci" src="auto">VpYS---XR-AA---</AM>
+<AM lemma="říci_:W" src="manual" selected="1">VpYS---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-ln95040-090-p2s2w11">
 <src.rf>manual</src.rf>
@@ -516,7 +532,10 @@
 <LM>w#w-ln95040-090-p2s2w17</LM>
 </w.rf>
 <form>nemá</form>
-<tag lemma="mít" src="orig" selected="1">VB-S---3P-NA---</tag>
+<tag>
+<AM lemma="mít" src="orig">VB-S---3P-NA---</AM>
+<AM lemma="mít_:T" src="manual" selected="1">VB-S---3P-NA---</AM>
+</tag>
 </m>
 <m id="m-ln95040-090-p2s2w18">
 <src.rf>manual</src.rf>
@@ -553,6 +572,7 @@
 <tag>
 <AM lemma="USA_;G" src="orig">NNIPX-----A----</AM>
 <AM lemma="USA_:B_;K_,t_^(United_States_of_America)" src="auto" recommended="1">NNIPX-----A---8</AM>
+<AM lemma="USA_:B_;K_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95040-090-p2s3w2">
@@ -617,7 +637,11 @@
 <LM>w#w-ln95040-090-p2s3w9</LM>
 </w.rf>
 <form>konsorcium</form>
-<tag lemma="konsorcium" src="orig" selected="1">NNNS4-----A----</tag>
+<tag>
+<AM lemma="konsorcium" src="orig">NNNS4-----A----</AM>
+<AM lemma="konsorcium_,s_^(^DD**konzorcium)" src="manual">NNNS1-----A----</AM>
+<AM lemma="konsorcium_,s_^(^DD**konzorcium)" src="manual" selected="1">NNNS4-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95040-090-p2s3w10">
 <src.rf>manual</src.rf>
@@ -657,7 +681,10 @@
 <LM>w#w-ln95040-090-p2s3w14</LM>
 </w.rf>
 <form>KLDR</form>
-<tag lemma="KLDR_:B_;G_^(Korejská_lidově-demokratická_republika)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="KLDR_:B_;G_^(Korejská_lidově-demokratická_republika)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="KLDR_:B_;G_^(Korejská_lidově-demokratická_republika)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95040-090-p2s3w15">
 <src.rf>manual</src.rf>
@@ -865,7 +892,10 @@
 <LM>w#w-ln95040-090-p2s3w40</LM>
 </w.rf>
 <form>KLDR</form>
-<tag lemma="KLDR_:B_;G_^(Korejská_lidově-demokratická_republika)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="KLDR_:B_;G_^(Korejská_lidově-demokratická_republika)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="KLDR_:B_;G_^(Korejská_lidově-demokratická_republika)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95040-090-p2s3w41">
 <src.rf>manual</src.rf>

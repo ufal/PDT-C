@@ -78,6 +78,8 @@
 <tag>
 <AM lemma="Šalom_;K_,t" src="orig">NNIXX-----A----</AM>
 <AM lemma="Šalom_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="šalom_,t" src="manual">NNXXX-----A----</AM>
+<AM lemma="Šalom-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-ln94207-91-p1s1w9">
@@ -86,7 +88,11 @@
 <LM>w#w-ln94207-91-p1s1w9</LM>
 </w.rf>
 <form>achšav</form>
-<tag lemma="achšav_;K_,t" src="orig" selected="1">Db-------------</tag>
+<tag>
+<AM lemma="achšav_;K_,t" src="orig">Db-------------</AM>
+<AM lemma="achšav_,t" src="manual">Db-------------</AM>
+<AM lemma="achšav-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94207-91-p1s1w10">
 <src.rf>manual</src.rf>
@@ -135,7 +141,7 @@
 </w.rf>
 <form>OZ</form>
 <tag>
-<AM lemma="Oz_;S" src="orig">NNMS1-----A----</AM>
+<AM lemma="Oz_;S" src="orig" selected="1">NNMS1-----A----</AM>
 <AM lemma="OZ-1_:B_^(odznak_zdatnosti)" src="auto">NNIXX-----A----</AM>
 <AM lemma="OZ-2_:B_^(odštepný_závod)" src="auto">NNIXX-----A----</AM>
 <AM lemma="OZ-2_:B_^(odštěpný_závod)" src="auto" recommended="1">NNIXX-----A---8</AM>
@@ -340,6 +346,8 @@
 <tag>
 <AM lemma="oz_,t" src="orig">NNIXX-----A----</AM>
 <AM lemma="oz-1_:B_,t_^(jednotka_hmotnosti_&quot;unce&quot;)" src="auto" recommended="1">NNFXX-----A---8</AM>
+<AM lemma="oz_,t" src="manual">NNXXX-----A----</AM>
+<AM lemma="oz-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-ln94207-91-p1s2w12">
@@ -1050,7 +1058,7 @@
 <form>Snad</form>
 <tag>
 <AM lemma="snad" src="orig">Db-------------</AM>
-<AM lemma="snad" src="auto" recommended="1">TT-------------</AM>
+<AM lemma="snad" src="auto" recommended="1" selected="1">TT-------------</AM>
 </tag>
 </m>
 <m id="m-ln94207-91-p1s8w10">

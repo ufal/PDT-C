@@ -444,6 +444,7 @@
 <tag>
 <AM lemma="JSR_:B_;G_^(Jugoslávská_svazová_republika)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="JSR_:B_^(Jugoslávská_svazová_republika)" src="auto" recommended="1">NNXXX-----A---8</AM>
+<AM lemma="JSR-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-ln95043-051-p2s2w8">
@@ -609,7 +610,7 @@
 <form>nalezeno</form>
 <tag>
 <AM lemma="naleznout" src="orig">VsNS---XX-AP---</AM>
-<AM lemma="nalézt-2" src="auto" recommended="1">VsNS---XX-AP---</AM>
+<AM lemma="nalézt-2" src="auto" recommended="1" selected="1">VsNS---XX-AP---</AM>
 </tag>
 </m>
 <m id="m-ln95043-051-p2s3w19">
@@ -808,6 +809,7 @@
 <tag>
 <AM lemma="JSR_:B_;G_^(Jugoslávská_svazová_republika)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="JSR_:B_^(Jugoslávská_svazová_republika)" src="auto" recommended="1">NNXXX-----A---8</AM>
+<AM lemma="JSR-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-ln95043-051-p2s4w9">

@@ -191,7 +191,10 @@
 <LM>w#w-ln95042-051-p2s1Bw15</LM>
 </w.rf>
 <form>Bekmurzu</form>
-<tag lemma="Bekmurza_;Y" src="orig" selected="1">NNMS4-----A----</tag>
+<tag>
+<AM lemma="Bekmurza_;Y" src="orig" selected="1">NNMS4-----A----</AM>
+<AM lemma="Bekmurza_;S_;Y" src="manual">NNMS4-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95042-051-p2s1Bw16">
 <src.rf>manual</src.rf>
@@ -268,6 +271,7 @@
 <tag>
 <AM lemma="ITAR_:B_;K_,t" src="orig">NNNXX-----A---8</AM>
 <AM lemma="ITAR_:B_;K" src="auto" recommended="1">NNIXX-----A---8</AM>
+<AM lemma="ITAR-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95042-051-p2s2w9">
@@ -289,6 +293,7 @@
 <AM lemma="TASS_:B_;K" src="auto" recommended="1">NNXXX-----A---8</AM>
 <AM lemma="Tass_;K" src="auto">NNIS1-----A----</AM>
 <AM lemma="Tass_;K" src="auto">NNIS4-----A----</AM>
+<AM lemma="TASS-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95042-051-p2s2w11">
@@ -801,7 +806,10 @@
 <LM>w#w-ln95042-051-p3s3w5</LM>
 </w.rf>
 <form>šedou</form>
-<tag lemma="šedý" src="orig" selected="1">AAFS4----1A----</tag>
+<tag>
+<AM lemma="šedý" src="orig">AAFS4----1A----</AM>
+<AM lemma="šedý_;o" src="manual" selected="1">AAFS4----1A----</AM>
+</tag>
 </m>
 <m id="m-ln95042-051-p3s3w6">
 <src.rf>manual</src.rf>
@@ -923,7 +931,10 @@
 <LM>w#w-ln95042-051-p4s1w2</LM>
 </w.rf>
 <form>strana</form>
-<tag lemma="strana-3_^(u_soudu,_na_úřadě,_smluvní_strany;_na_něčí_straně)" src="orig" selected="1">NNFS1-----A----</tag>
+<tag>
+<AM lemma="strana-3_^(u_soudu,_na_úřadě,_smluvní_strany;_na_něčí_straně)" src="orig">NNFS1-----A----</AM>
+<AM lemma="strana" src="manual" selected="1">NNFS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95042-051-p4s1w3">
 <src.rf>manual</src.rf>
@@ -1083,7 +1094,10 @@
 <LM>w#w-ln95042-051-p4s1w22</LM>
 </w.rf>
 <form>stran</form>
-<tag lemma="strana-3_^(u_soudu,_na_úřadě,_smluvní_strany;_na_něčí_straně)" src="orig" selected="1">NNFP2-----A----</tag>
+<tag>
+<AM lemma="strana-3_^(u_soudu,_na_úřadě,_smluvní_strany;_na_něčí_straně)" src="orig">NNFP2-----A----</AM>
+<AM lemma="strana" src="manual" selected="1">NNFP2-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95042-051-p4s1w23">
 <src.rf>manual</src.rf>
@@ -1813,7 +1827,10 @@
 <LM>w#w-ln95042-051-p6s2w7</LM>
 </w.rf>
 <form>Šamil</form>
-<tag lemma="Šamil_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Šamil_;S" src="orig">NNMS1-----A----</AM>
+<AM lemma="Šamil_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95042-051-p6s2w8">
 <src.rf>manual</src.rf>
@@ -2007,7 +2024,10 @@
 <LM>w#w-ln95042-051-p6s3w4</LM>
 </w.rf>
 <form>stran</form>
-<tag lemma="strana-3_^(u_soudu,_na_úřadě,_smluvní_strany;_na_něčí_straně)" src="orig" selected="1">NNFP2-----A----</tag>
+<tag>
+<AM lemma="strana-3_^(u_soudu,_na_úřadě,_smluvní_strany;_na_něčí_straně)" src="orig">NNFP2-----A----</AM>
+<AM lemma="strana" src="manual" selected="1">NNFP2-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95042-051-p6s3w5">
 <src.rf>manual</src.rf>

@@ -54,7 +54,7 @@
 <tag>
 <AM lemma="Ford-2_;R_^(vozidlo)" src="orig">NNIS4-----A---6</AM>
 <AM lemma="ford_;R" src="auto">NNIS2-----A---1</AM>
-<AM lemma="ford_;R" src="auto" recommended="1">NNIS4-----A---6</AM>
+<AM lemma="ford_;R" src="auto" recommended="1" selected="1">NNIS4-----A---6</AM>
 </tag>
 </m>
 </s>
@@ -89,7 +89,10 @@
 <LM>w#w-mf930709-110-p2s1Aw4</LM>
 </w.rf>
 <form>ouš</form>
-<tag lemma="ouš-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="ouš-99_:B_;S" src="orig">NNXXX-----A---8</AM>
+<AM lemma="ouš-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930709-110-p2s1Aw5">
 <src.rf>manual</src.rf>
@@ -165,7 +168,7 @@
 <form>fordem</form>
 <tag>
 <AM lemma="Ford-2_;R_^(vozidlo)" src="orig">NNIS7-----A----</AM>
-<AM lemma="ford_;R" src="auto" recommended="1">NNIS7-----A----</AM>
+<AM lemma="ford_;R" src="auto" recommended="1" selected="1">NNIS7-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930709-110-p2s1Bw8">
@@ -409,7 +412,10 @@
 <LM>w#w-mf930709-110-p2s2w22</LM>
 </w.rf>
 <form>milionu</form>
-<tag lemma="milión`1000000" src="orig" selected="1">NNIS2-----A----</tag>
+<tag>
+<AM lemma="milión`1000000" src="orig">NNIS2-----A----</AM>
+<AM lemma="milion`1000000_,s_^(^DD**milión)" src="manual" selected="1">NNIS2-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930709-110-p2s2w23">
 <src.rf>manual</src.rf>

@@ -82,6 +82,7 @@
 <AM lemma="fašismus" src="auto">NNIS2-----A----</AM>
 <AM lemma="fašismus" src="auto" recommended="1">NNIS3-----A----</AM>
 <AM lemma="fašismus" src="auto">NNIS6-----A----</AM>
+<AM lemma="fašismus_,s_^(^DD**fašizmus)" src="manual" selected="1">NNIS3-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94208-135-p2s1Aw4">
@@ -106,6 +107,7 @@
 <AM lemma="rasismus" src="auto">NNIS2-----A----</AM>
 <AM lemma="rasismus" src="auto" recommended="1">NNIS3-----A----</AM>
 <AM lemma="rasismus" src="auto">NNIS6-----A----</AM>
+<AM lemma="rasismus_,s_^(^DD**rasizmus)" src="manual" selected="1">NNIS3-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94208-135-p2s1Aw6">
@@ -127,6 +129,7 @@
 <AM lemma="nacionalizmus" src="auto">NNIS2-----A----</AM>
 <AM lemma="nacionalizmus" src="auto" recommended="1">NNIS3-----A----</AM>
 <AM lemma="nacionalizmus" src="auto">NNIS6-----A----</AM>
+<AM lemma="nacionalismus_,s_^(^DD**nacionalizmus)" src="manual" selected="1">NNIS3-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94208-135-p2s1Aw8">
@@ -333,7 +336,10 @@
 <LM>w#w-ln94208-135-p2s2w4</LM>
 </w.rf>
 <form>fašismu</form>
-<tag lemma="fašismus" src="orig" selected="1">NNIS3-----A----</tag>
+<tag>
+<AM lemma="fašismus" src="orig">NNIS3-----A----</AM>
+<AM lemma="fašismus_,s_^(^DD**fašizmus)" src="manual" selected="1">NNIS3-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94208-135-p2s2w5">
 <src.rf>manual</src.rf>
@@ -349,7 +355,10 @@
 <LM>w#w-ln94208-135-p2s2w6</LM>
 </w.rf>
 <form>rasismu</form>
-<tag lemma="rasismus" src="orig" selected="1">NNIS3-----A----</tag>
+<tag>
+<AM lemma="rasismus" src="orig">NNIS3-----A----</AM>
+<AM lemma="rasismus_,s_^(^DD**rasizmus)" src="manual" selected="1">NNIS3-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94208-135-p2s2w7">
 <src.rf>manual</src.rf>
@@ -370,6 +379,7 @@
 <AM lemma="nacionalizmus" src="auto">NNIS2-----A----</AM>
 <AM lemma="nacionalizmus" src="auto" recommended="1">NNIS3-----A----</AM>
 <AM lemma="nacionalizmus" src="auto">NNIS6-----A----</AM>
+<AM lemma="nacionalismus_,s_^(^DD**nacionalizmus)" src="manual" selected="1">NNIS3-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94208-135-p2s2w9">
@@ -712,7 +722,10 @@
 <LM>w#w-ln94208-135-p3s3w4</LM>
 </w.rf>
 <form>Dejvická</form>
-<tag lemma="dejvický" src="orig" selected="1">AAFS1----1A----</tag>
+<tag>
+<AM lemma="dejvický" src="orig">AAFS1----1A----</AM>
+<AM lemma="Dejvická_;G" src="manual" selected="1">AAFS1----1A----</AM>
+</tag>
 </m>
 <m id="m-ln94208-135-p3s3w5">
 <src.rf>manual</src.rf>
@@ -946,7 +959,10 @@
 <LM>w#w-ln94208-135-p3s4w22</LM>
 </w.rf>
 <form>F</form>
-<tag lemma="F-0_:B_;Y" src="orig" selected="1">NNMXX-----A---8</tag>
+<tag>
+<AM lemma="F-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
+<AM lemma="F-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln94208-135-p3s4w23">
 <src.rf>manual</src.rf>
@@ -1085,6 +1101,7 @@
 <tag>
 <AM lemma="skinheads" src="orig">NNMPX-----A----</AM>
 <AM lemma="skinheads_,t" src="auto" recommended="1">NNNXX-----A----</AM>
+<AM lemma="skinheads-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-ln94208-135-p3s4w40">
@@ -1127,7 +1144,10 @@
 <LM>w#w-ln94208-135-p4s1w4</LM>
 </w.rf>
 <form>mj</form>
-<tag lemma="mj-1_:B_^(mimo_jiné)" src="orig" selected="1">Db------------8</tag>
+<tag>
+<AM lemma="mj-1_:B_^(mimo_jiné)" src="orig">Db------------8</AM>
+<AM lemma="mj-1_:B_^(mimo_jiné)" src="manual" selected="1">Db-------------</AM>
+</tag>
 </m>
 <m id="m-ln94208-135-p4s1w5">
 <src.rf>manual</src.rf>
@@ -1521,7 +1541,10 @@
 <LM>w#w-ln94208-135-p4s2w8</LM>
 </w.rf>
 <form>stranu</form>
-<tag lemma="strana-2_^(politická)" src="orig" selected="1">NNFS4-----A----</tag>
+<tag>
+<AM lemma="strana-2_^(politická)" src="orig">NNFS4-----A----</AM>
+<AM lemma="strana" src="manual" selected="1">NNFS4-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94208-135-p4s2w9">
 <src.rf>manual</src.rf>
@@ -1577,7 +1600,10 @@
 <LM>w#w-ln94208-135-p4s2w15</LM>
 </w.rf>
 <form>stranu</form>
-<tag lemma="strana-2_^(politická)" src="orig" selected="1">NNFS4-----A----</tag>
+<tag>
+<AM lemma="strana-2_^(politická)" src="orig">NNFS4-----A----</AM>
+<AM lemma="strana" src="manual" selected="1">NNFS4-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94208-135-p4s2w16">
 <src.rf>manual</src.rf>

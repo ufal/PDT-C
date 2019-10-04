@@ -59,7 +59,10 @@
 <LM>w#w-ln94207-139-p1s1w6</LM>
 </w.rf>
 <form>Pink</form>
-<tag lemma="Pink_;K_,t_^(Pink_Floyd)" src="auto" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="Pink_;K_,t_^(Pink_Floyd)" src="auto">AAXXX----1A----</AM>
+<AM lemma="Pink-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94207-139-p1s1w7">
 <src.rf>manual</src.rf>
@@ -71,6 +74,7 @@
 <AM lemma="Floyd_;K_,t" src="orig">NNMXX-----A----</AM>
 <AM lemma="Floyd_;K_,t_^(Pink_Floyd)" src="auto" recommended="1">NNMPX-----A----</AM>
 <AM lemma="Floyd_;S" src="auto">NNMS1-----A----</AM>
+<AM lemma="Floyd-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-ln94207-139-p1s1w8">
@@ -254,6 +258,8 @@
 <AM lemma="medium" src="auto">NNNP4-----A----</AM>
 <AM lemma="medium" src="auto">NNNP5-----A----</AM>
 <AM lemma="medium" src="auto">NNNS2-----A----</AM>
+<AM lemma="media_,t" src="manual">NNXXX-----A----</AM>
+<AM lemma="Media-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-ln94207-139-p1s3w3">
@@ -262,7 +268,11 @@
 <LM>w#w-ln94207-139-p1s3w3</LM>
 </w.rf>
 <form>World</form>
-<tag lemma="World_;K_,t" src="orig" selected="1">NNIXX-----A----</tag>
+<tag>
+<AM lemma="World_;K_,t" src="orig">NNIXX-----A----</AM>
+<AM lemma="world_,t" src="manual">NNXXX-----A----</AM>
+<AM lemma="World-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94207-139-p1s3w4">
 <src.rf>manual</src.rf>
@@ -281,6 +291,7 @@
 <tag>
 <AM lemma="Meco_;K_,t" src="orig">NNNXX-----A----</AM>
 <AM lemma="Meca_;S" src="auto" recommended="1">NNMS5-----A----</AM>
+<AM lemma="Meco_;K" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94207-139-p1s3w6">
@@ -491,7 +502,10 @@
 <LM>w#w-ln94207-139-p1s4w5</LM>
 </w.rf>
 <form>LN</form>
-<tag lemma="LN-1_:B_;R_^(Lidové_noviny,_deník)" src="orig" selected="1">NNFPX-----A---8</tag>
+<tag>
+<AM lemma="LN-1_:B_;R_^(Lidové_noviny,_deník)" src="orig">NNFPX-----A---8</AM>
+<AM lemma="LN-1_:B_;K_;R_^(Lidové_noviny)" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 </s>
 </mdata>

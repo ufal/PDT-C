@@ -59,7 +59,10 @@
 <LM>w#w-lnd94104-082-p1s1Aw6</LM>
 </w.rf>
 <form>LN</form>
-<tag lemma="LN-1_:B_;R_^(Lidové_noviny,_deník)" src="orig" selected="1">NNFPX-----A---8</tag>
+<tag>
+<AM lemma="LN-1_:B_;R_^(Lidové_noviny,_deník)" src="orig">NNFPX-----A---8</AM>
+<AM lemma="LN-1_:B_;K_;R_^(Lidové_noviny)" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd94104-082-p1s1Aw7">
 <src.rf>manual</src.rf>
@@ -362,7 +365,7 @@
 <tag>
 <AM lemma="starost" src="orig">NNFP4-----A----</AM>
 <AM lemma="starost-1" src="auto">NNFP1-----A----</AM>
-<AM lemma="starost-1" src="auto">NNFP4-----A----</AM>
+<AM lemma="starost-1" src="auto" selected="1">NNFP4-----A----</AM>
 <AM lemma="starost-1" src="auto">NNFP5-----A----</AM>
 <AM lemma="starost-1" src="auto" recommended="1">NNFS2-----A----</AM>
 <AM lemma="starost-1" src="auto">NNFS3-----A----</AM>
@@ -629,7 +632,7 @@
 <form>nedůtkliví</form>
 <tag>
 <AM lemma="důtklivý" src="orig">AAMP1----1N----</AM>
-<AM lemma="nedůtklivý" src="auto" recommended="1">AAMP1----1A----</AM>
+<AM lemma="nedůtklivý" src="auto" recommended="1" selected="1">AAMP1----1A----</AM>
 <AM lemma="nedůtklivý" src="auto">AAMP5----1A----</AM>
 </tag>
 </m>
@@ -860,7 +863,7 @@
 </w.rf>
 <form>Trávník</form>
 <tag>
-<AM lemma="Trávník_;G" src="orig">NNIS1-----A----</AM>
+<AM lemma="Trávník_;G" src="orig" selected="1">NNIS1-----A----</AM>
 <AM lemma="trávník" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="trávník" src="auto">NNIS4-----A----</AM>
 </tag>

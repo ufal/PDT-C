@@ -157,7 +157,10 @@
 <LM>w#w-cmpr9413-003-p3s1w16</LM>
 </w.rf>
 <form>ISO</form>
-<tag lemma="ISO-1_:B_;K_^(Intl._Standards_Org.)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ISO-1_:B_;K_^(Intl._Standards_Org.)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ISO-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-cmpr9413-003-p3s1w17">
 <src.rf>manual</src.rf>
@@ -786,7 +789,10 @@
 <LM>w#w-cmpr9413-003-p6s4w5</LM>
 </w.rf>
 <form>milionů</form>
-<tag lemma="milión`1000000" src="orig" selected="1">NNIP2-----A----</tag>
+<tag>
+<AM lemma="milión`1000000" src="orig">NNIP2-----A----</AM>
+<AM lemma="milion`1000000_,s_^(^DD**milión)" src="manual" selected="1">NNIP2-----A----</AM>
+</tag>
 </m>
 <m id="m-cmpr9413-003-p6s4w6">
 <src.rf>manual</src.rf>
@@ -1397,7 +1403,10 @@
 <LM>w#w-cmpr9413-003-p7s1w7</LM>
 </w.rf>
 <form>ISO</form>
-<tag lemma="ISO-1_:B_;K_^(Intl._Standards_Org.)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ISO-1_:B_;K_^(Intl._Standards_Org.)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ISO-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-cmpr9413-003-p7s1w8">
 <src.rf>manual</src.rf>
@@ -3601,7 +3610,10 @@
 <LM>w#w-cmpr9413-003-p14s6w5</LM>
 </w.rf>
 <form>vagony</form>
-<tag lemma="vagón" src="orig" selected="1">NNIP4-----A----</tag>
+<tag>
+<AM lemma="vagón" src="orig">NNIP4-----A----</AM>
+<AM lemma="vagon_,s_^(^DD**vagón)" src="manual" selected="1">NNIP4-----A----</AM>
+</tag>
 </m>
 <m id="m-cmpr9413-003-p14s6w6">
 <src.rf>manual</src.rf>

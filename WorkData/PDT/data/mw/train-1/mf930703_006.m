@@ -125,7 +125,10 @@
 <LM>w#w-mf930703-006-p2s1w7</LM>
 </w.rf>
 <form>vyzval</form>
-<tag lemma="vyzvat_^(někoho_vyzvat_k_něčemu)" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag>
+<AM lemma="vyzvat_^(někoho_vyzvat_k_něčemu)" src="orig">VpYS---XR-AA---</AM>
+<AM lemma="vyzvat_:W_^(někoho_vyzvat_k_něčemu)" src="manual" selected="1">VpYS---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-mf930703-006-p2s1w8">
 <src.rf>manual</src.rf>
@@ -173,7 +176,10 @@
 <LM>w#w-mf930703-006-p2s1w13</LM>
 </w.rf>
 <form>ČMKOS</form>
-<tag lemma="ČMKOS_:B_;K_^(českomor._komora_odb._svazů)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ČMKOS_:B_;K_^(českomor._komora_odb._svazů)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČMKOS-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930703-006-p2s1w14">
 <src.rf>manual</src.rf>
@@ -530,7 +536,7 @@
 <form>mzdovou</form>
 <tag>
 <AM lemma="mzdový" src="orig">AAFS6----1A----</AM>
-<AM lemma="mzdový" src="auto" recommended="1">AAFS4----1A----</AM>
+<AM lemma="mzdový" src="auto" recommended="1" selected="1">AAFS4----1A----</AM>
 <AM lemma="mzdový" src="auto">AAFS7----1A----</AM>
 </tag>
 </m>
@@ -624,7 +630,10 @@
 <LM>w#w-mf930703-006-p2s4w3</LM>
 </w.rf>
 <form>přijmout</form>
-<tag lemma="přijmout" src="auto" selected="1">Vf--------A----</tag>
+<tag>
+<AM lemma="přijmout" src="auto">Vf--------A----</AM>
+<AM lemma="přijmout_:W" src="manual" selected="1">Vf--------A----</AM>
+</tag>
 </m>
 <m id="m-mf930703-006-p2s4w4">
 <src.rf>manual</src.rf>

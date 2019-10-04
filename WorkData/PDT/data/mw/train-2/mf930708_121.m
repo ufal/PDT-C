@@ -353,7 +353,10 @@
 <LM>w#w-mf930708-121-p3s1w3</LM>
 </w.rf>
 <form>zda</form>
-<tag lemma="zda" src="orig" selected="1">J,-------------</tag>
+<tag>
+<AM lemma="zda" src="orig">J,-------------</AM>
+<AM lemma="zda-99_:B_;S" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-mf930708-121-p3s1w4">
 <src.rf>manual</src.rf>
@@ -823,7 +826,7 @@
 <form>Šámal</form>
 <tag>
 <AM lemma="Šámala_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Šámal_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Šámal_;S" src="auto" recommended="1" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930708-121-p3s3w14">
@@ -1056,6 +1059,7 @@
 <AM lemma="nad-1_:B" src="auto">RR--7---------8</AM>
 <AM lemma="nádraží_:B" src="auto">NNNXX-----A---9</AM>
 <AM lemma="národní_:B" src="auto">AAXXX----1A---8</AM>
+<AM lemma="N-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-mf930708-121-p4s2w2">
@@ -1314,7 +1318,10 @@
 <LM>w#w-mf930708-121-p4s3w31</LM>
 </w.rf>
 <form>SKP</form>
-<tag lemma="SKP_:B_;K" src="auto" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="SKP_:B_;K" src="auto">NNXXX-----A---8</AM>
+<AM lemma="SKP-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-mf930708-121-p4s3w32">
 <src.rf>manual</src.rf>
@@ -1557,7 +1564,7 @@
 </w.rf>
 <form>Vejprava</form>
 <tag>
-<AM lemma="Vejprava_;S" src="orig">NNMS1-----A----</AM>
+<AM lemma="Vejprava_;S" src="orig" selected="1">NNMS1-----A----</AM>
 <AM lemma="vejprava-1_,h_^(expedice)" src="auto">NNFS1-----A----</AM>
 <AM lemma="vejprava-2_,h_^(člověk)" src="auto" recommended="1">NNMS1-----A----</AM>
 </tag>
@@ -1871,7 +1878,7 @@
 </w.rf>
 <form>str</form>
 <tag>
-<AM lemma="str-99_:B_;S" src="orig">NNXXX-----A---8</AM>
+<AM lemma="str-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</AM>
 <AM lemma="strana-4_:B" src="auto" recommended="1">NNFXX-----A---8</AM>
 </tag>
 </m>
@@ -1924,6 +1931,7 @@
 <tag>
 <AM lemma="FK_:B_;K_^(Fotbalový_klub)" src="orig">NNIXX-----A---8</AM>
 <AM lemma="FK_:B" src="auto" recommended="1">NNXXX-----A---8</AM>
+<AM lemma="FK-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-mf930708-121-p5s1w10">

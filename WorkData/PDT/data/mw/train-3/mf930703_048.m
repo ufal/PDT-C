@@ -117,7 +117,10 @@
 <LM>w#w-mf930703-048-p2s1w9</LM>
 </w.rf>
 <form>Banque</form>
-<tag lemma="Banque_;K_,t" src="orig" selected="1">NNFXX-----A----</tag>
+<tag>
+<AM lemma="Banque_;K_,t" src="orig">NNFXX-----A----</AM>
+<AM lemma="Banque-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-mf930703-048-p2s1w10">
 <src.rf>manual</src.rf>
@@ -125,7 +128,10 @@
 <LM>w#w-mf930703-048-p2s1w10</LM>
 </w.rf>
 <form>de</form>
-<tag lemma="de_,t_^(z_franc._de,_zejm._ve_jménech)" src="orig" selected="1">RR--1----------</tag>
+<tag>
+<AM lemma="de_,t_^(z_franc._de,_zejm._ve_jménech)" src="orig">RR--1----------</AM>
+<AM lemma="de-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-mf930703-048-p2s1w11">
 <src.rf>manual</src.rf>
@@ -149,6 +155,7 @@
 <AM lemma="France-1_;S" src="auto">NNMS4-----A---1</AM>
 <AM lemma="France-1_;S" src="auto">NNMS5-----A----</AM>
 <AM lemma="France-2_;G_;K" src="auto" recommended="1">NNXXX-----A----</AM>
+<AM lemma="France-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-mf930703-048-p2s1w12">
@@ -909,7 +916,10 @@
 <LM>w#w-mf930703-048-p4s1w29</LM>
 </w.rf>
 <form>tzv</form>
-<tag lemma="takzvaný_:B" src="orig" selected="1">AAXXX----1A---8</tag>
+<tag>
+<AM lemma="takzvaný_:B" src="orig">AAXXX----1A---8</AM>
+<AM lemma="takzvaný" src="manual" selected="1">AAXXX----1A---8</AM>
+</tag>
 </m>
 <m id="m-mf930703-048-p4s1w30">
 <src.rf>manual</src.rf>
@@ -1104,7 +1114,10 @@
 <LM>w#w-mf930703-048-p5s1w11</LM>
 </w.rf>
 <form>Bundesbank</form>
-<tag lemma="Bundesbanka" src="orig" selected="1">NNFP2-----A----</tag>
+<tag>
+<AM lemma="Bundesbanka" src="orig">NNFP2-----A----</AM>
+<AM lemma="Bundesbank-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-mf930703-048-p5s1w12">
 <src.rf>manual</src.rf>
@@ -1536,7 +1549,10 @@
 <LM>w#w-mf930703-048-p6s4w1</LM>
 </w.rf>
 <form>Financial</form>
-<tag lemma="Financial_;R_,t_^(např._F.Times)" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="Financial_;R_,t_^(např._F.Times)" src="orig">AAXXX----1A----</AM>
+<AM lemma="Financial-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-mf930703-048-p6s4w2">
 <src.rf>manual</src.rf>
@@ -1544,7 +1560,10 @@
 <LM>w#w-mf930703-048-p6s4w2</LM>
 </w.rf>
 <form>Times</form>
-<tag lemma="Times-1_;K_,t_^(souč._názvů,_např._The_Times)" src="orig" selected="1">NNIPX-----A----</tag>
+<tag>
+<AM lemma="Times-1_;K_,t_^(souč._názvů,_např._The_Times)" src="orig">NNIPX-----A----</AM>
+<AM lemma="Times-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-mf930703-048-p6s4w3">
 <src.rf>manual</src.rf>
@@ -1762,7 +1781,10 @@
 <LM>w#w-mf930703-048-p7s1w19</LM>
 </w.rf>
 <form>mechanismu</form>
-<tag lemma="mechanismus" src="orig" selected="1">NNIS2-----A----</tag>
+<tag>
+<AM lemma="mechanismus" src="orig">NNIS2-----A----</AM>
+<AM lemma="mechanismus_,s_^(^DD**mechanizmus)" src="manual" selected="1">NNIS2-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930703-048-p7s1w20">
 <src.rf>manual</src.rf>

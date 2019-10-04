@@ -19,7 +19,10 @@
 <LM>w#w-ln95045-116-p1s1w1</LM>
 </w.rf>
 <form>Dolar</form>
-<tag lemma="dolar_;b" src="orig" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="dolar_;b" src="orig">NNIS1-----A----</AM>
+<AM lemma="dolar" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95045-116-p1s1w2">
 <src.rf>manual</src.rf>
@@ -95,7 +98,10 @@
 <LM>w#w-ln95045-116-p2s1Bw5</LM>
 </w.rf>
 <form>dolar</form>
-<tag lemma="dolar_;b" src="orig" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="dolar_;b" src="orig">NNIS1-----A----</AM>
+<AM lemma="dolar" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95045-116-p2s1Bw6">
 <src.rf>manual</src.rf>
@@ -347,7 +353,10 @@
 <LM>w#w-ln95045-116-p3s1w5</LM>
 </w.rf>
 <form>dolar</form>
-<tag lemma="dolar_;b" src="orig" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="dolar_;b" src="orig">NNIS1-----A----</AM>
+<AM lemma="dolar" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95045-116-p3s1w6">
 <src.rf>manual</src.rf>
@@ -374,7 +383,7 @@
 <form>1.4748</form>
 <tag>
 <AM lemma="14748" src="orig">C=-------------</AM>
-<AM lemma="1.4748" src="auto" recommended="1">C=-------------</AM>
+<AM lemma="1.4748" src="auto" recommended="1" selected="1">C=-------------</AM>
 </tag>
 </m>
 <m id="m-ln95045-116-p3s1w9">
@@ -442,7 +451,7 @@
 <form>1.4867</form>
 <tag>
 <AM lemma="14867" src="orig">C=-------------</AM>
-<AM lemma="1.4867" src="auto" recommended="1">C=-------------</AM>
+<AM lemma="1.4867" src="auto" recommended="1" selected="1">C=-------------</AM>
 </tag>
 </m>
 <m id="m-ln95045-116-p3s1w17">
@@ -451,7 +460,10 @@
 <LM>w#w-ln95045-116-p3s1w17</LM>
 </w.rf>
 <form>DEM</form>
-<tag lemma="DEM_:B_;b_^(německá_marka)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="DEM_:B_;b_^(německá_marka)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="DEM-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95045-116-p3s1w18">
 <src.rf>manual</src.rf>
@@ -494,7 +506,7 @@
 <form>1.4725</form>
 <tag>
 <AM lemma="14725" src="orig">C=-------------</AM>
-<AM lemma="1.4725" src="auto" recommended="1">C=-------------</AM>
+<AM lemma="1.4725" src="auto" recommended="1" selected="1">C=-------------</AM>
 </tag>
 </m>
 <m id="m-ln95045-116-p3s1w23">
@@ -503,7 +515,10 @@
 <LM>w#w-ln95045-116-p3s1w23</LM>
 </w.rf>
 <form>DEM</form>
-<tag lemma="DEM_:B_;b_^(německá_marka)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="DEM_:B_;b_^(německá_marka)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="DEM-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95045-116-p3s1w24">
 <src.rf>manual</src.rf>
@@ -886,7 +901,10 @@
 <LM>w#w-ln95045-116-p4s3w9</LM>
 </w.rf>
 <form>ITL</form>
-<tag lemma="ITL_:B_;b_^(italská_lira)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ITL_:B_;b_^(italská_lira)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ITL-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95045-116-p4s3w10">
 <src.rf>manual</src.rf>
@@ -961,7 +979,7 @@
 <form>3.4847</form>
 <tag>
 <AM lemma="34847" src="orig">C=-------------</AM>
-<AM lemma="3.4847" src="auto" recommended="1">C=-------------</AM>
+<AM lemma="3.4847" src="auto" recommended="1" selected="1">C=-------------</AM>
 </tag>
 </m>
 <m id="m-ln95045-116-p4s3w19">
@@ -970,7 +988,10 @@
 <LM>w#w-ln95045-116-p4s3w19</LM>
 </w.rf>
 <form>FRF</form>
-<tag lemma="FRF_:B_;b_^(francouzský_frank)" src="auto" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="FRF_:B_;b_^(francouzský_frank)" src="auto">NNXXX-----A---8</AM>
+<AM lemma="FRF-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95045-116-p4s3w20">
 <src.rf>manual</src.rf>
@@ -986,7 +1007,10 @@
 <LM>w#w-ln95045-116-p4s3w21</LM>
 </w.rf>
 <form>DEM</form>
-<tag lemma="DEM_:B_;b_^(německá_marka)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="DEM_:B_;b_^(německá_marka)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="DEM-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95045-116-p4s3w22">
 <src.rf>manual</src.rf>

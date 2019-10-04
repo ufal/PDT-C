@@ -137,7 +137,10 @@
 <LM>w#w-lnd94104-131-p1s1Dw3</LM>
 </w.rf>
 <form>ber</form>
-<tag lemma="ber-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="ber-99_:B_;S" src="orig">NNXXX-----A---8</AM>
+<AM lemma="ber-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd94104-131-p1s1Dw4">
 <src.rf>manual</src.rf>
@@ -807,7 +810,10 @@
 <LM>w#w-lnd94104-131-p1s3Aw24</LM>
 </w.rf>
 <form>strany</form>
-<tag lemma="strana-1_^(v_prostoru)" src="orig" selected="1">NNFS2-----A----</tag>
+<tag>
+<AM lemma="strana-1_^(v_prostoru)" src="orig">NNFS2-----A----</AM>
+<AM lemma="strana" src="manual" selected="1">NNFS2-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd94104-131-p1s3Aw25">
 <src.rf>manual</src.rf>
@@ -815,7 +821,10 @@
 <LM>w#w-lnd94104-131-p1s3Aw25</LM>
 </w.rf>
 <form>domácích</form>
-<tag lemma="domácí-1" src="auto" selected="1">AAMP2----1A----</tag>
+<tag>
+<AM lemma="domácí-1" src="auto">AAMP2----1A----</AM>
+<AM lemma="domácí-2" src="manual" selected="1">NNMP2-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd94104-131-p1s3Aw26">
 <src.rf>manual</src.rf>
@@ -831,7 +840,10 @@
 <LM>w#w-lnd94104-131-p1s3Aw27</LM>
 </w.rf>
 <form>hodně</form>
-<tag lemma="hodně-2_^(nezlobivý)_(*3ý-2)" src="auto" selected="1">Dg-------1A----</tag>
+<tag>
+<AM lemma="hodně-2_^(nezlobivý)_(*3ý-2)" src="auto">Dg-------1A----</AM>
+<AM lemma="hodně-3" src="manual" selected="1">Dg-------1A----</AM>
+</tag>
 </m>
 <m id="m-lnd94104-131-p1s3Aw28">
 <src.rf>manual</src.rf>
@@ -1089,7 +1101,10 @@
 <LM>w#w-lnd94104-131-p1s3Bw20</LM>
 </w.rf>
 <form>žlutou</form>
-<tag lemma="žlutý" src="orig" selected="1">AAFS4----1A----</tag>
+<tag>
+<AM lemma="žlutý" src="orig">AAFS4----1A----</AM>
+<AM lemma="žlutý_;o" src="manual" selected="1">AAFS4----1A----</AM>
+</tag>
 </m>
 <m id="m-lnd94104-131-p1s3Bw21">
 <src.rf>manual</src.rf>
@@ -1260,7 +1275,7 @@
 <AM lemma="sedmý" src="auto">CrFP5----------</AM>
 <AM lemma="sedmý" src="auto">CrFS2----------</AM>
 <AM lemma="sedmý" src="auto">CrFS3----------</AM>
-<AM lemma="sedmý" src="auto" recommended="1">CrFS6----------</AM>
+<AM lemma="sedmý" src="auto" recommended="1" selected="1">CrFS6----------</AM>
 <AM lemma="sedmý" src="auto">CrIP1----------</AM>
 <AM lemma="sedmý" src="auto">CrIP4----------</AM>
 <AM lemma="sedmý" src="auto">CrIP5----------</AM>
@@ -1345,7 +1360,7 @@
 <form>přičemž</form>
 <tag>
 <AM lemma="přičemž" src="orig">J,-------------</AM>
-<AM lemma="přičemž" src="auto" recommended="1">Db-------------</AM>
+<AM lemma="přičemž" src="auto" recommended="1" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m-lnd94104-131-p1s5w13">
@@ -1354,7 +1369,10 @@
 <LM>w#w-lnd94104-131-p1s5w13</LM>
 </w.rf>
 <form>domácí</form>
-<tag lemma="domácí-1" src="auto" selected="1">AAMP1----1A----</tag>
+<tag>
+<AM lemma="domácí-1" src="auto">AAMP1----1A----</AM>
+<AM lemma="domácí-2" src="manual" selected="1">NNMP1-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd94104-131-p1s5w14">
 <src.rf>manual</src.rf>
@@ -1444,7 +1462,10 @@
 <LM>w#w-lnd94104-131-p1s6w6</LM>
 </w.rf>
 <form>Zákostelský</form>
-<tag lemma="zákostelský_,a" src="orig" selected="1">AAFP1----1A---6</tag>
+<tag>
+<AM lemma="zákostelský_,a" src="orig">AAFP1----1A---6</AM>
+<AM lemma="Zákostelský_;S" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd94104-131-p1s6w7">
 <src.rf>manual</src.rf>
@@ -1892,7 +1913,10 @@
 <LM>w#w-lnd94104-131-p1s10w10</LM>
 </w.rf>
 <form>ČMFS</form>
-<tag lemma="ČMFS-1_:B_;K_;w_^(Českomoravský_fotbalový_svaz)" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="ČMFS-1_:B_;K_;w_^(Českomoravský_fotbalový_svaz)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="ČMFS-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd94104-131-p1s10w11">
 <src.rf>manual</src.rf>
@@ -2450,7 +2474,10 @@
 <LM>w#w-lnd94104-131-p1s14w15</LM>
 </w.rf>
 <form>řekl</form>
-<tag lemma="říci" src="auto" selected="1">VpYS---XR-AA---</tag>
+<tag>
+<AM lemma="říci" src="auto">VpYS---XR-AA---</AM>
+<AM lemma="říci_:W" src="manual" selected="1">VpYS---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-lnd94104-131-p1s14w16">
 <src.rf>manual</src.rf>

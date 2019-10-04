@@ -163,6 +163,7 @@
 <AM lemma="nalézt" src="orig">VpYS---XR-AA---</AM>
 <AM lemma="nalézt-1_^(někam)" src="auto" recommended="1">VpYS---XR-AA---</AM>
 <AM lemma="nalézt-2" src="auto">VpYS---XR-AA---</AM>
+<AM lemma="nalézt-2_:W" src="manual" selected="1">VpYS---XR-AA---</AM>
 </tag>
 </m>
 <m id="m-lnd92256-076-p2s2w14">
@@ -229,7 +230,11 @@
 <LM>w#w-lnd92256-076-p2s3w4</LM>
 </w.rf>
 <form>MTI</form>
-<tag lemma="MTI-2_:B_;K_,t_^(Magyar_Távirati_Iroda,_tisk._agentura)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="MTI-2_:B_;K_,t_^(Magyar_Távirati_Iroda,_tisk._agentura)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="MTI-88_:B" src="manual">NNXXX-----A---8</AM>
+<AM lemma="MTI-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92256-076-p2s3w5">
 <src.rf>manual</src.rf>

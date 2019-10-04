@@ -345,7 +345,10 @@
 <LM>w#w-ln94208-34-p2s2w9</LM>
 </w.rf>
 <form>OSN</form>
-<tag lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94208-34-p2s2w10">
 <src.rf>manual</src.rf>
@@ -465,7 +468,10 @@
 <LM>w#w-ln94208-34-p2s2w24</LM>
 </w.rf>
 <form>řekl</form>
-<tag lemma="říci" src="auto" selected="1">VpYS---XR-AA---</tag>
+<tag>
+<AM lemma="říci" src="auto">VpYS---XR-AA---</AM>
+<AM lemma="říci_:W" src="manual" selected="1">VpYS---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-ln94208-34-p2s2w25">
 <src.rf>manual</src.rf>
@@ -640,7 +646,7 @@
 <AM lemma="portfej_^(pouzdro_na_listiny;;obor_působnosti_ministra)" src="auto">NNIP1-----A----</AM>
 <AM lemma="portfej_^(pouzdro_na_listiny;;obor_působnosti_ministra)" src="auto">NNIP4-----A----</AM>
 <AM lemma="portfej_^(pouzdro_na_listiny;;obor_působnosti_ministra)" src="auto">NNIP5-----A----</AM>
-<AM lemma="portfej_^(pouzdro_na_listiny;;obor_působnosti_ministra)" src="auto" recommended="1">NNIS2-----A----</AM>
+<AM lemma="portfej_^(pouzdro_na_listiny;;obor_působnosti_ministra)" src="auto" recommended="1" selected="1">NNIS2-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94208-34-p2s3w12">
@@ -821,7 +827,10 @@
 <LM>w#w-ln94208-34-p2s5w8</LM>
 </w.rf>
 <form>jako</form>
-<tag lemma="jako-1" src="auto" selected="1">J,-------------</tag>
+<tag>
+<AM lemma="jako-1" src="auto" selected="1">J,-------------</AM>
+<AM lemma="jako-2" src="manual">Db-------------</AM>
+</tag>
 </m>
 <m id="m-ln94208-34-p2s5w9">
 <src.rf>manual</src.rf>
@@ -1073,7 +1082,7 @@
 <form>ovšem</form>
 <tag>
 <AM lemma="ovšem-1_^(avšak,_však;_odporovací_spojka)" src="orig">J^-------------</AM>
-<AM lemma="ovšem" src="auto" recommended="1">TT-------------</AM>
+<AM lemma="ovšem" src="auto" recommended="1" selected="1">TT-------------</AM>
 </tag>
 </m>
 <m id="m-ln94208-34-p2s6w13">
@@ -1344,7 +1353,7 @@
 <form>nejen</form>
 <tag>
 <AM lemma="nejen" src="orig">TT-------------</AM>
-<AM lemma="nejen" src="auto" recommended="1">Db-------------</AM>
+<AM lemma="nejen" src="auto" recommended="1" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m-ln94208-34-p2s8w5">

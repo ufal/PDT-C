@@ -85,7 +85,10 @@
 <LM>w#w-mf930713-091-p2s1Aw3</LM>
 </w.rf>
 <form>nak</form>
-<tag lemma="nak-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="nak-99_:B_;S" src="orig">NNXXX-----A---8</AM>
+<AM lemma="nak-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930713-091-p2s1Aw4">
 <src.rf>manual</src.rf>
@@ -529,7 +532,10 @@
 <LM>w#w-mf930713-091-p2s2w29</LM>
 </w.rf>
 <form>Volkshilfe</form>
-<tag lemma="Volkshilfe_;K_,t" src="orig" selected="1">NNFXX-----A----</tag>
+<tag>
+<AM lemma="Volkshilfe_;K_,t" src="orig">NNFXX-----A----</AM>
+<AM lemma="Volkshilfe-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-mf930713-091-p2s2w30">
 <src.rf>manual</src.rf>
@@ -629,7 +635,7 @@
 <form>přičemž</form>
 <tag>
 <AM lemma="přičemž" src="orig">J,-------------</AM>
-<AM lemma="přičemž" src="auto" recommended="1">Db-------------</AM>
+<AM lemma="přičemž" src="auto" recommended="1" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m-mf930713-091-p2s3w12">

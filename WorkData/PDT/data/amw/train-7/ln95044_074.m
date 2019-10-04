@@ -1065,7 +1065,10 @@
 <LM>w#w-ln95044-074-p3s4w18</LM>
 </w.rf>
 <form>jen</form>
-<tag lemma="jen-1" src="auto" selected="1">TT-------------</tag>
+<tag>
+<AM lemma="jen-1" src="auto">TT-------------</AM>
+<AM lemma="jen-4_^(pouze)" src="manual" selected="1">Db-------------</AM>
+</tag>
 </m>
 <m id="m-ln95044-074-p3s4w19">
 <src.rf>manual</src.rf>
@@ -1189,7 +1192,7 @@
 <AM lemma="jakýkoli" src="auto">PZFS6----------</AM>
 <AM lemma="jakýkoli" src="auto">PZIP1----------</AM>
 <AM lemma="jakýkoli" src="auto">PZIP5----------</AM>
-<AM lemma="jakýkoli" src="auto" recommended="1">PZNS1----------</AM>
+<AM lemma="jakýkoli" src="auto" recommended="1" selected="1">PZNS1----------</AM>
 <AM lemma="jakýkoli" src="auto">PZNS4----------</AM>
 <AM lemma="jakýkoli" src="auto">PZNS5----------</AM>
 <AM lemma="jakýkoli" src="auto">PZYP4----------</AM>
@@ -1505,7 +1508,7 @@
 <form>třeba</form>
 <tag>
 <AM lemma="třeba-1" src="orig">ACNS------A----</AM>
-<AM lemma="třeba-2" src="auto" recommended="1">Db-------------</AM>
+<AM lemma="třeba-2" src="auto" recommended="1" selected="1">Db-------------</AM>
 <AM lemma="třeba-3" src="auto">TT-------------</AM>
 </tag>
 </m>
@@ -1626,6 +1629,7 @@
 <AM lemma="Kosov_;G" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Kosov_;G" src="auto">NNIS4-----A----</AM>
 <AM lemma="Kosovo_;G" src="auto">NNNP2-----A----</AM>
+<AM lemma="Kosov-2_;S" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95044-074-p5s1w5">
@@ -1988,7 +1992,10 @@
 <LM>w#w-ln95044-074-p5s2w5</LM>
 </w.rf>
 <form>Kosova</form>
-<tag lemma="Kosovo_;G" src="orig" selected="1">NNNS2-----A----</tag>
+<tag>
+<AM lemma="Kosovo_;G" src="orig">NNNS2-----A----</AM>
+<AM lemma="Kosov-2_;S" src="manual" selected="1">NNMS2-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95044-074-p5s2w6">
 <src.rf>manual</src.rf>

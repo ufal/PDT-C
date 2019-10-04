@@ -109,7 +109,10 @@
 <LM>w#w-mf930702-012-p2s1w6</LM>
 </w.rf>
 <form>Více</form>
-<tag lemma="hodně-2" src="auto" selected="1">Dg-------2A----</tag>
+<tag>
+<AM lemma="hodně-2" src="auto">Dg-------2A----</AM>
+<AM lemma="hodně-3" src="manual" selected="1">Dg-------2A----</AM>
+</tag>
 </m>
 <m id="m-mf930702-012-p2s1w7">
 <src.rf>manual</src.rf>
@@ -425,6 +428,7 @@
 <AM lemma="demo_,h" src="auto">NNNP4-----A----</AM>
 <AM lemma="demo_,h" src="auto">NNNP5-----A----</AM>
 <AM lemma="demo_,h" src="auto">NNNS2-----A----</AM>
+<AM lemma="DEMA-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-mf930702-012-p2s3w7">
@@ -582,6 +586,7 @@
 <tag>
 <AM lemma="USA_;G" src="orig">NNIPX-----A----</AM>
 <AM lemma="USA_:B_;K_,t_^(United_States_of_America)" src="auto" recommended="1">NNIPX-----A---8</AM>
+<AM lemma="USA_:B_;K_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-mf930702-012-p2s4w19">
@@ -779,6 +784,7 @@
 <tag>
 <AM lemma="USA_;G" src="orig">NNIPX-----A----</AM>
 <AM lemma="USA_:B_;K_,t_^(United_States_of_America)" src="auto" recommended="1">NNIPX-----A---8</AM>
+<AM lemma="USA_:B_;K_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-mf930702-012-p3s1w22">

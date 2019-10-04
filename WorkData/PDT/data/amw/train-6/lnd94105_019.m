@@ -137,7 +137,7 @@
 <form>začít</form>
 <tag>
 <AM lemma="začít-1" src="orig">Vf--------A----</AM>
-<AM lemma="začít-1_^(začnout)" src="auto" recommended="1">Vf--------A----</AM>
+<AM lemma="začít-1_^(začnout)" src="auto" recommended="1" selected="1">Vf--------A----</AM>
 <AM lemma="začít-2_^(pocítit)" src="auto">Vf--------A----</AM>
 </tag>
 </m>
@@ -537,7 +537,10 @@
 <LM>w#w-lnd94105-019-p1s6w1</LM>
 </w.rf>
 <form>H</form>
-<tag lemma="H-0_:B_;Y" src="orig" selected="1">NNMXX-----A---8</tag>
+<tag>
+<AM lemma="H-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
+<AM lemma="H-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd94105-019-p1s6w2">
 <src.rf>manual</src.rf>
@@ -845,7 +848,10 @@
 <LM>w#w-lnd94105-019-p1s8w13</LM>
 </w.rf>
 <form>DVTV</form>
-<tag lemma="DVTV_:B_;K" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="DVTV_:B_;K" src="orig">NNFXX-----A---8</AM>
+<AM lemma="DVTV-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd94105-019-p1s8w14">
 <src.rf>manual</src.rf>

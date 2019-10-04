@@ -395,7 +395,10 @@
 <LM>w#w-ln95042-029-p2s2w13</LM>
 </w.rf>
 <form>PMEZ</form>
-<tag lemma="PMEZ_:B_;K_^(Pohár_mistrů_evropských_zemí)" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="PMEZ_:B_;K_^(Pohár_mistrů_evropských_zemí)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="PMEZ-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95042-029-p2s2w14">
 <src.rf>manual</src.rf>
@@ -510,6 +513,8 @@
 <tag>
 <AM lemma="CEV_:B_;m_,t" src="orig">NNXXX-----A---8</AM>
 <AM lemma="Ceva_;K" src="auto" recommended="1">NNFP2-----A----</AM>
+<AM lemma="CEV_:B" src="manual">NNXXX-----A---8</AM>
+<AM lemma="CEV-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95042-029-p2s2w28">
@@ -676,7 +681,7 @@
 <form>totiž</form>
 <tag>
 <AM lemma="totiž" src="orig">Db-------------</AM>
-<AM lemma="totiž-1" src="auto" recommended="1">J^-------------</AM>
+<AM lemma="totiž-1" src="auto" recommended="1" selected="1">J^-------------</AM>
 <AM lemma="totiž-2" src="auto">TT-------------</AM>
 </tag>
 </m>
@@ -694,7 +699,10 @@
 <LM>w#w-ln95042-029-p3s2w5</LM>
 </w.rf>
 <form>prohrály</form>
-<tag lemma="prohrát" src="orig" selected="1">VpTP---XR-AA---</tag>
+<tag>
+<AM lemma="prohrát" src="orig">VpTP---XR-AA---</AM>
+<AM lemma="prohrát_:W" src="manual" selected="1">VpTP---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-ln95042-029-p3s2w6">
 <src.rf>manual</src.rf>
@@ -715,7 +723,7 @@
 <tag>
 <AM lemma="přesto" src="orig">Dg-------1A----</AM>
 <AM lemma="přesto-1" src="auto">Db-------------</AM>
-<AM lemma="přesto-2" src="auto" recommended="1">J^-------------</AM>
+<AM lemma="přesto-2" src="auto" recommended="1" selected="1">J^-------------</AM>
 </tag>
 </m>
 <m id="m-ln95042-029-p3s3w2">
@@ -878,7 +886,10 @@
 <LM>w#w-ln95042-029-p3s4w3</LM>
 </w.rf>
 <form>hrál</form>
-<tag lemma="hrát" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag>
+<AM lemma="hrát" src="orig">VpYS---XR-AA---</AM>
+<AM lemma="hrát_:T" src="manual" selected="1">VpYS---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-ln95042-029-p3s4w4">
 <src.rf>manual</src.rf>
@@ -998,7 +1009,10 @@
 <LM>w#w-ln95042-029-p3s4w18</LM>
 </w.rf>
 <form>vyhráli</form>
-<tag lemma="vyhrát" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag>
+<AM lemma="vyhrát" src="orig">VpMP---XR-AA---</AM>
+<AM lemma="vyhrát_:W" src="manual" selected="1">VpMP---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-ln95042-029-p3s4w19">
 <src.rf>manual</src.rf>
@@ -1114,7 +1128,10 @@
 <LM>w#w-ln95042-029-p3s6w6</LM>
 </w.rf>
 <form>nehrál</form>
-<tag lemma="hrát" src="orig" selected="1">VpYS---XR-NA---</tag>
+<tag>
+<AM lemma="hrát" src="orig">VpYS---XR-NA---</AM>
+<AM lemma="hrát_:T" src="manual" selected="1">VpYS---XR-NA---</AM>
+</tag>
 </m>
 <m id="m-ln95042-029-p3s6w7">
 <src.rf>manual</src.rf>
@@ -1242,7 +1259,10 @@
 <LM>w#w-ln95042-029-p3s6w22</LM>
 </w.rf>
 <form>Teplý</form>
-<tag lemma="teplý" src="orig" selected="1">AAMS1----1A----</tag>
+<tag>
+<AM lemma="teplý" src="orig">AAMS1----1A----</AM>
+<AM lemma="Teplý_;S" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95042-029-p3s6w23">
 <src.rf>manual</src.rf>

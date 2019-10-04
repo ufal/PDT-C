@@ -247,7 +247,10 @@
 <LM>w#w-lnd94104-033-p1s3w3</LM>
 </w.rf>
 <form>přepadli</form>
-<tag lemma="přepadnout" src="auto" selected="1">VpMP---XR-AA---</tag>
+<tag>
+<AM lemma="přepadnout" src="auto">VpMP---XR-AA---</AM>
+<AM lemma="přepadnout_:W" src="manual" selected="1">VpMP---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-lnd94104-033-p1s3w4">
 <src.rf>manual</src.rf>

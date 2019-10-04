@@ -43,7 +43,10 @@
 <LM>w#w-ln94209-38-p1s1w4</LM>
 </w.rf>
 <form>Pink</form>
-<tag lemma="Pink_;K_,t_^(Pink_Floyd)" src="auto" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="Pink_;K_,t_^(Pink_Floyd)" src="auto">AAXXX----1A----</AM>
+<AM lemma="Pink-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94209-38-p1s1w5">
 <src.rf>manual</src.rf>
@@ -51,7 +54,10 @@
 <LM>w#w-ln94209-38-p1s1w5</LM>
 </w.rf>
 <form>Floyd</form>
-<tag lemma="Floyd_;K_,t_^(Pink_Floyd)" src="auto" selected="1">NNMPX-----A----</tag>
+<tag>
+<AM lemma="Floyd_;K_,t_^(Pink_Floyd)" src="auto">NNMPX-----A----</AM>
+<AM lemma="Floyd-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 </s>
 <s id="m-ln94209-38-p2s1A">
@@ -237,6 +243,8 @@
 <AM lemma="art-2_,t" src="orig">AAXXX----1A----</AM>
 <AM lemma="art" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="art" src="auto">NNIS4-----A----</AM>
+<AM lemma="art-77" src="manual">F%-------------</AM>
+<AM lemma="art-2" src="manual" selected="1">AAXXX----1A----</AM>
 </tag>
 </m>
 <m id="m-ln94209-38-p2s1Cw11">
@@ -261,7 +269,10 @@
 <LM>w#w-ln94209-38-p2s1Cw13</LM>
 </w.rf>
 <form>Pink</form>
-<tag lemma="Pink_;K_,t_^(Pink_Floyd)" src="auto" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="Pink_;K_,t_^(Pink_Floyd)" src="auto">AAXXX----1A----</AM>
+<AM lemma="Pink-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94209-38-p2s1Cw14">
 <src.rf>manual</src.rf>
@@ -269,7 +280,10 @@
 <LM>w#w-ln94209-38-p2s1Cw14</LM>
 </w.rf>
 <form>Floyd</form>
-<tag lemma="Floyd_;K_,t_^(Pink_Floyd)" src="auto" selected="1">NNMPX-----A----</tag>
+<tag>
+<AM lemma="Floyd_;K_,t_^(Pink_Floyd)" src="auto">NNMPX-----A----</AM>
+<AM lemma="Floyd-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94209-38-p2s1Cw15">
 <src.rf>manual</src.rf>
@@ -399,7 +413,11 @@
 <LM>w#w-ln94209-38-p2s2w11</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-2" src="auto" selected="1">Dg-------2A----</tag>
+<tag>
+<AM lemma="hodně-2" src="auto">Dg-------2A----</AM>
+<AM lemma="hodně-3" src="manual">Dg-------2A----</AM>
+<AM lemma="více_^(více_+_2._p.,_více_peněz)" src="manual" selected="1">Ca--1----------</AM>
+</tag>
 </m>
 <m id="m-ln94209-38-p2s2w12">
 <src.rf>manual</src.rf>
@@ -481,7 +499,11 @@
 <LM>w#w-ln94209-38-p2s3w7</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-2" src="auto" selected="1">Dg-------2A----</tag>
+<tag>
+<AM lemma="hodně-2" src="auto">Dg-------2A----</AM>
+<AM lemma="hodně-3" src="manual">Dg-------2A----</AM>
+<AM lemma="více_^(více_+_2._p.,_více_peněz)" src="manual" selected="1">Ca--1----------</AM>
+</tag>
 </m>
 <m id="m-ln94209-38-p2s3w8">
 <src.rf>manual</src.rf>
@@ -799,7 +821,10 @@
 <LM>w#w-ln94209-38-p3s1w15</LM>
 </w.rf>
 <form>hod</form>
-<tag lemma="hodina_:B" src="auto" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="hodina_:B" src="auto">NNFXX-----A---8</AM>
+<AM lemma="hodina" src="manual" selected="1">NNFXX-----A---9</AM>
+</tag>
 </m>
 <m id="m-ln94209-38-p3s1w16">
 <src.rf>manual</src.rf>
@@ -946,7 +971,7 @@
 <tag>
 <AM lemma="Suchdol_;G" src="orig">NNIS6-----A----</AM>
 <AM lemma="Suchdol_;G" src="auto">NNIS5-----A----</AM>
-<AM lemma="Suchdol_;G" src="auto" recommended="1">NNIS6-----A---1</AM>
+<AM lemma="Suchdol_;G" src="auto" recommended="1" selected="1">NNIS6-----A---1</AM>
 </tag>
 </m>
 <m id="m-ln94209-38-p3s1w34">
@@ -1085,7 +1110,10 @@
 <LM>w#w-ln94209-38-p3s2w8</LM>
 </w.rf>
 <form>hod</form>
-<tag lemma="hodina_:B" src="auto" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="hodina_:B" src="auto">NNFXX-----A---8</AM>
+<AM lemma="hodina" src="manual" selected="1">NNFXX-----A---9</AM>
+</tag>
 </m>
 <m id="m-ln94209-38-p3s2w9">
 <src.rf>manual</src.rf>
@@ -1431,7 +1459,10 @@
 <LM>w#w-ln94209-38-p3s3w16</LM>
 </w.rf>
 <form>hod</form>
-<tag lemma="hodina_:B" src="auto" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="hodina_:B" src="auto">NNFXX-----A---8</AM>
+<AM lemma="hodina" src="manual" selected="1">NNFXX-----A---9</AM>
+</tag>
 </m>
 <m id="m-ln94209-38-p3s3w17">
 <src.rf>manual</src.rf>
@@ -1535,7 +1566,10 @@
 <LM>w#w-ln94209-38-p3s3w29</LM>
 </w.rf>
 <form>hod</form>
-<tag lemma="hodina_:B" src="auto" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="hodina_:B" src="auto">NNFXX-----A---8</AM>
+<AM lemma="hodina" src="manual" selected="1">NNFXX-----A---9</AM>
+</tag>
 </m>
 <m id="m-ln94209-38-p3s3w30">
 <src.rf>manual</src.rf>
@@ -1665,7 +1699,10 @@
 <LM>w#w-ln94209-38-p3s4w13</LM>
 </w.rf>
 <form>hod</form>
-<tag lemma="hodina_:B" src="auto" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="hodina_:B" src="auto">NNFXX-----A---8</AM>
+<AM lemma="hodina" src="manual" selected="1">NNFXX-----A---9</AM>
+</tag>
 </m>
 <m id="m-ln94209-38-p3s4w14">
 <src.rf>manual</src.rf>
@@ -2051,7 +2088,10 @@
 <LM>w#w-ln94209-38-p3s5w7</LM>
 </w.rf>
 <form>hod</form>
-<tag lemma="hodina_:B" src="auto" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="hodina_:B" src="auto">NNFXX-----A---8</AM>
+<AM lemma="hodina" src="manual" selected="1">NNFXX-----A---9</AM>
+</tag>
 </m>
 <m id="m-ln94209-38-p3s5w8">
 <src.rf>manual</src.rf>
@@ -2131,7 +2171,10 @@
 <LM>w#w-ln94209-38-p3s5w17</LM>
 </w.rf>
 <form>Kutnou</form>
-<tag lemma="Kutná_;G" src="orig" selected="1">NNFS4-----A----</tag>
+<tag>
+<AM lemma="Kutná_;G" src="orig">NNFS4-----A----</AM>
+<AM lemma="kutný" src="manual" selected="1">AAFS4----1A----</AM>
+</tag>
 </m>
 <m id="m-ln94209-38-p3s5w18">
 <src.rf>manual</src.rf>
@@ -2142,7 +2185,7 @@
 <tag>
 <AM lemma="Hora_;G" src="orig">NNFS4-----A----</AM>
 <AM lemma="Hora_;S" src="auto">NNMS4-----A----</AM>
-<AM lemma="hora" src="auto" recommended="1">NNFS4-----A----</AM>
+<AM lemma="hora" src="auto" recommended="1" selected="1">NNFS4-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94209-38-p3s5w19">
@@ -2425,7 +2468,10 @@
 <LM>w#w-ln94209-38-p3s6w13</LM>
 </w.rf>
 <form>hod</form>
-<tag lemma="hodina_:B" src="auto" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="hodina_:B" src="auto">NNFXX-----A---8</AM>
+<AM lemma="hodina" src="manual" selected="1">NNFXX-----A---9</AM>
+</tag>
 </m>
 <m id="m-ln94209-38-p3s6w14">
 <src.rf>manual</src.rf>
@@ -2491,7 +2537,10 @@
 <LM>w#w-ln94209-38-p3s7w7</LM>
 </w.rf>
 <form>hod</form>
-<tag lemma="hodina_:B" src="auto" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="hodina_:B" src="auto">NNFXX-----A---8</AM>
+<AM lemma="hodina" src="manual" selected="1">NNFXX-----A---9</AM>
+</tag>
 </m>
 <m id="m-ln94209-38-p3s7w8">
 <src.rf>manual</src.rf>
@@ -2869,7 +2918,10 @@
 <LM>w#w-ln94209-38-p3s8w13</LM>
 </w.rf>
 <form>hod</form>
-<tag lemma="hodina_:B" src="auto" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="hodina_:B" src="auto">NNFXX-----A---8</AM>
+<AM lemma="hodina" src="manual" selected="1">NNFXX-----A---9</AM>
+</tag>
 </m>
 <m id="m-ln94209-38-p3s8w14">
 <src.rf>manual</src.rf>
@@ -2991,7 +3043,10 @@
 <LM>w#w-ln94209-38-p4s1w14</LM>
 </w.rf>
 <form>hod</form>
-<tag lemma="hodina_:B" src="auto" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="hodina_:B" src="auto">NNFXX-----A---8</AM>
+<AM lemma="hodina" src="manual" selected="1">NNFXX-----A---9</AM>
+</tag>
 </m>
 <m id="m-ln94209-38-p4s1w15">
 <src.rf>manual</src.rf>
@@ -3435,7 +3490,10 @@
 <LM>w#w-ln94209-38-p5s1w11</LM>
 </w.rf>
 <form>hod</form>
-<tag lemma="hodina_:B" src="auto" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="hodina_:B" src="auto">NNFXX-----A---8</AM>
+<AM lemma="hodina" src="manual" selected="1">NNFXX-----A---9</AM>
+</tag>
 </m>
 <m id="m-ln94209-38-p5s1w12">
 <src.rf>manual</src.rf>
@@ -3557,7 +3615,10 @@
 <LM>w#w-ln94209-38-p5s2w3</LM>
 </w.rf>
 <form>hod</form>
-<tag lemma="hodina_:B" src="auto" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="hodina_:B" src="auto">NNFXX-----A---8</AM>
+<AM lemma="hodina" src="manual" selected="1">NNFXX-----A---9</AM>
+</tag>
 </m>
 <m id="m-ln94209-38-p5s2w4">
 <src.rf>manual</src.rf>

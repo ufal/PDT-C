@@ -321,7 +321,10 @@
 <LM>w#w-ln95046-100-p2s2w17</LM>
 </w.rf>
 <form>ČT</form>
-<tag lemma="ČT_:B_;K_^(Česká_televize)" src="auto" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="ČT_:B_;K_^(Česká_televize)" src="auto">NNXXX-----A---8</AM>
+<AM lemma="ČT_:B_;K_^(Česká_televize)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95046-100-p2s2w18">
 <src.rf>manual</src.rf>
@@ -459,7 +462,10 @@
 <LM>w#w-ln95046-100-p2s3w6</LM>
 </w.rf>
 <form>LN</form>
-<tag lemma="LN-1_:B_;R_^(Lidové_noviny,_deník)" src="orig" selected="1">NNFPX-----A---8</tag>
+<tag>
+<AM lemma="LN-1_:B_;R_^(Lidové_noviny,_deník)" src="orig">NNFPX-----A---8</AM>
+<AM lemma="LN-1_:B_;K_;R_^(Lidové_noviny)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95046-100-p2s3w7">
 <src.rf>manual</src.rf>
@@ -477,7 +483,7 @@
 <form>raději</form>
 <tag>
 <AM lemma="raději" src="orig">Dg-------2A----</AM>
-<AM lemma="rád" src="auto" recommended="1">Dg-------2A----</AM>
+<AM lemma="rád" src="auto" recommended="1" selected="1">Dg-------2A----</AM>
 </tag>
 </m>
 <m id="m-ln95046-100-p2s3w9">
@@ -713,7 +719,10 @@
 <LM>w#w-ln95046-100-p2s4w14</LM>
 </w.rf>
 <form>ČT</form>
-<tag lemma="ČT_:B_;K_^(Česká_televize)" src="auto" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="ČT_:B_;K_^(Česká_televize)" src="auto">NNXXX-----A---8</AM>
+<AM lemma="ČT_:B_;K_^(Česká_televize)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95046-100-p2s4w15">
 <src.rf>manual</src.rf>
@@ -815,7 +824,7 @@
 <AM lemma="Mathé_;S" src="orig">NNMSX-----A----</AM>
 <AM lemma="Mathé_;S" src="auto">NNMS1-----A----</AM>
 <AM lemma="Mathé_;S" src="auto">NNMS5-----A----</AM>
-<AM lemma="Mathé_;S" src="auto" recommended="1">NNMXX-----A----</AM>
+<AM lemma="Mathé_;S" src="auto" recommended="1" selected="1">NNMXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95046-100-p2s5w8">
@@ -1018,7 +1027,10 @@
 <LM>w#w-ln95046-100-p2s6w16</LM>
 </w.rf>
 <form>archív</form>
-<tag lemma="archív" src="orig" selected="1">NNIS4-----A----</tag>
+<tag>
+<AM lemma="archív" src="orig">NNIS4-----A----</AM>
+<AM lemma="archív_,s_^(^DD**archiv)" src="manual" selected="1">NNIS4-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95046-100-p2s6w17">
 <src.rf>manual</src.rf>

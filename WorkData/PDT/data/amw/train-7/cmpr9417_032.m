@@ -445,7 +445,7 @@
 <form>přičemž</form>
 <tag>
 <AM lemma="přičemž" src="orig">J,-------------</AM>
-<AM lemma="přičemž" src="auto" recommended="1">Db-------------</AM>
+<AM lemma="přičemž" src="auto" recommended="1" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m-cmpr9417-032-p5s2w20">
@@ -1388,7 +1388,7 @@
 <form>nejen</form>
 <tag>
 <AM lemma="nejen" src="orig">TT-------------</AM>
-<AM lemma="nejen" src="auto" recommended="1">Db-------------</AM>
+<AM lemma="nejen" src="auto" recommended="1" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m-cmpr9417-032-p12s1w11">
@@ -1568,7 +1568,10 @@
 <LM>w#w-cmpr9417-032-p12s2w5</LM>
 </w.rf>
 <form>intenzivně</form>
-<tag lemma="intenzivně_^(*4ívní)" src="orig" selected="1">Dg-------1A----</tag>
+<tag>
+<AM lemma="intenzivně_^(*4ívní)" src="orig">Dg-------1A----</AM>
+<AM lemma="intenzivně_,s_^(^DD**intenzívně)_^(*4ivní)" src="manual" selected="1">Dg-------1A----</AM>
+</tag>
 </m>
 <m id="m-cmpr9417-032-p12s2w6">
 <src.rf>manual</src.rf>
@@ -1706,7 +1709,10 @@
 <LM>w#w-cmpr9417-032-p12s3w10</LM>
 </w.rf>
 <form>nejvíce</form>
-<tag lemma="hodně-2" src="auto" selected="1">Dg-------3A----</tag>
+<tag>
+<AM lemma="hodně-2" src="auto">Dg-------3A----</AM>
+<AM lemma="hodně-3" src="manual" selected="1">Dg-------3A----</AM>
+</tag>
 </m>
 <m id="m-cmpr9417-032-p12s3w11">
 <src.rf>manual</src.rf>
@@ -1781,6 +1787,7 @@
 <tag>
 <AM lemma="Wrigley_;R_,t" src="orig">NNXXX-----A----</AM>
 <AM lemma="Wrigley_;G" src="auto" recommended="1">NNNSX-----A----</AM>
+<AM lemma="Wrigley-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-cmpr9417-032-p12s3w20">
@@ -1797,7 +1804,10 @@
 <LM>w#w-cmpr9417-032-p12s3w21</LM>
 </w.rf>
 <form>s</form>
-<tag lemma="s-4_,t_^(saský_genitiv)" src="orig" selected="1">NNXSX-----A----</tag>
+<tag>
+<AM lemma="s-4_,t_^(saský_genitiv)" src="orig">NNXSX-----A----</AM>
+<AM lemma="s-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-cmpr9417-032-p12s3w22">
 <src.rf>manual</src.rf>
@@ -2002,6 +2012,7 @@
 <tag>
 <AM lemma="Wrigley_;R_,t" src="orig">NNXXX-----A----</AM>
 <AM lemma="Wrigley_;G" src="auto" recommended="1">NNNSX-----A----</AM>
+<AM lemma="Wrigley-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-cmpr9417-032-p12s4w15">
@@ -2018,7 +2029,10 @@
 <LM>w#w-cmpr9417-032-p12s4w16</LM>
 </w.rf>
 <form>s</form>
-<tag lemma="s-4_,t_^(saský_genitiv)" src="orig" selected="1">NNXSX-----A----</tag>
+<tag>
+<AM lemma="s-4_,t_^(saský_genitiv)" src="orig">NNXSX-----A----</AM>
+<AM lemma="s-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-cmpr9417-032-p12s4w17">
 <src.rf>manual</src.rf>
@@ -2045,7 +2059,7 @@
 <AM lemma="paždí" src="auto">NNNS3-----A----</AM>
 <AM lemma="paždí" src="auto" recommended="1">NNNS4-----A----</AM>
 <AM lemma="paždí" src="auto">NNNS5-----A----</AM>
-<AM lemma="paždí" src="auto">NNNS6-----A----</AM>
+<AM lemma="paždí" src="auto" selected="1">NNNS6-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9417-032-p12s4w19">
@@ -2088,7 +2102,10 @@
 <LM>w#w-cmpr9417-032-p12s5w1</LM>
 </w.rf>
 <form>Hodně</form>
-<tag lemma="hodně-2_^(nezlobivý)_(*3ý-2)" src="auto" selected="1">Dg-------1A----</tag>
+<tag>
+<AM lemma="hodně-2_^(nezlobivý)_(*3ý-2)" src="auto">Dg-------1A----</AM>
+<AM lemma="hodně-3" src="manual" selected="1">Dg-------1A----</AM>
+</tag>
 </m>
 <m id="m-cmpr9417-032-p12s5w2">
 <src.rf>manual</src.rf>
@@ -2422,7 +2439,7 @@
 <form>vůbec</form>
 <tag>
 <AM lemma="vůbec" src="orig">Db-------------</AM>
-<AM lemma="vůbec" src="auto" recommended="1">TT-------------</AM>
+<AM lemma="vůbec" src="auto" recommended="1" selected="1">TT-------------</AM>
 </tag>
 </m>
 <m id="m-cmpr9417-032-p14s1w6">
@@ -3647,7 +3664,7 @@
 <form>totiž</form>
 <tag>
 <AM lemma="totiž" src="orig">Db-------------</AM>
-<AM lemma="totiž-1" src="auto" recommended="1">J^-------------</AM>
+<AM lemma="totiž-1" src="auto" recommended="1" selected="1">J^-------------</AM>
 <AM lemma="totiž-2" src="auto">TT-------------</AM>
 </tag>
 </m>
@@ -3793,7 +3810,10 @@
 <LM>w#w-cmpr9417-032-p16s4w20</LM>
 </w.rf>
 <form>skepticismus</form>
-<tag lemma="skepticismus" src="orig" selected="1">NNIS4-----A----</tag>
+<tag>
+<AM lemma="skepticismus" src="orig">NNIS4-----A----</AM>
+<AM lemma="skepticismus_,s_^(^DD**skepticizmus)" src="manual" selected="1">NNIS4-----A----</AM>
+</tag>
 </m>
 <m id="m-cmpr9417-032-p16s4w21">
 <src.rf>manual</src.rf>
@@ -4243,7 +4263,11 @@
 <LM>w#w-cmpr9417-032-p21s1w17</LM>
 </w.rf>
 <form>nejvíce</form>
-<tag lemma="hodně-2" src="auto" selected="1">Dg-------3A----</tag>
+<tag>
+<AM lemma="hodně-2" src="auto">Dg-------3A----</AM>
+<AM lemma="hodně-3" src="manual">Dg-------3A----</AM>
+<AM lemma="nejvíce_^(nejvíce_+_2._p.,_nejvíce_peněz)" src="manual" selected="1">Ca--4----------</AM>
+</tag>
 </m>
 <m id="m-cmpr9417-032-p21s1w18">
 <src.rf>manual</src.rf>

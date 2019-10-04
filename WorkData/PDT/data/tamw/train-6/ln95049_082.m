@@ -208,7 +208,7 @@
 </w.rf>
 <form>Golo</form>
 <tag>
-<AM lemma="Golo-2_;Y" src="orig">NNMS1-----A----</AM>
+<AM lemma="Golo-2_;Y" src="orig" selected="1">NNMS1-----A----</AM>
 <AM lemma="Gola_;S" src="auto">NNMS5-----A----</AM>
 <AM lemma="Golo_;G" src="auto" recommended="1">NNNS1-----A----</AM>
 <AM lemma="Golo_;G" src="auto">NNNS4-----A----</AM>
@@ -326,7 +326,10 @@
 <LM>w#w-ln95049-082-p2s2w18</LM>
 </w.rf>
 <form>místo</form>
-<tag lemma="místo-3" src="auto" selected="1">J,-------------</tag>
+<tag>
+<AM lemma="místo-3" src="auto">J,-------------</AM>
+<AM lemma="místo-3" src="manual" selected="1">Db-------------</AM>
+</tag>
 </m>
 <m id="m-ln95049-082-p2s2w19">
 <src.rf>manual</src.rf>
@@ -718,6 +721,7 @@
 <AM lemma="populismus" src="orig">NNIS4-----A----</AM>
 <AM lemma="populizmus" src="auto">NNIS1-----A----</AM>
 <AM lemma="populizmus" src="auto" recommended="1">NNIS4-----A----</AM>
+<AM lemma="populismus_,s_^(^DD**populizmus)" src="manual" selected="1">NNIS4-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95049-082-p3s2w8">
@@ -892,6 +896,7 @@
 <AM lemma="populismus" src="orig">NNIS1-----A----</AM>
 <AM lemma="populizmus" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="populizmus" src="auto">NNIS4-----A----</AM>
+<AM lemma="populismus_,s_^(^DD**populizmus)" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95049-082-p3s3w3">
@@ -972,7 +977,10 @@
 <LM>w#w-ln95049-082-p3s3w12</LM>
 </w.rf>
 <form>Die</form>
-<tag lemma="die-1_;K_,t_^(souč._něm._názvů,_např._Die_Presse_[člen_f.])" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="die-1_;K_,t_^(souč._něm._názvů,_např._Die_Presse_[člen_f.])" src="orig">AAXXX----1A----</AM>
+<AM lemma="Die-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln95049-082-p3s3w13">
 <src.rf>manual</src.rf>
@@ -980,7 +988,10 @@
 <LM>w#w-ln95049-082-p3s3w13</LM>
 </w.rf>
 <form>Presse</form>
-<tag lemma="Presse-1_;K_,t_^(souč._názvu_Die_P.)" src="orig" selected="1">NNIXX-----A----</tag>
+<tag>
+<AM lemma="Presse-1_;K_,t_^(souč._názvu_Die_P.)" src="orig">NNIXX-----A----</AM>
+<AM lemma="Presse-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln95049-082-p3s3w14">
 <src.rf>manual</src.rf>
@@ -1078,7 +1089,10 @@
 <LM>w#w-ln95049-082-p3s4w10</LM>
 </w.rf>
 <form>a</form>
-<tag lemma="a-3_^(označení_pomocí_písmene)" src="orig" selected="1">NNNXX-----A----</tag>
+<tag>
+<AM lemma="a-3_^(označení_pomocí_písmene)" src="orig">NNNXX-----A----</AM>
+<AM lemma="a-33_^(označení_pomocí_písmene)" src="manual" selected="1">NNNXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95049-082-p3s4w11">
 <src.rf>manual</src.rf>
@@ -1350,7 +1364,10 @@
 <LM>w#w-ln95049-082-p3s4w44</LM>
 </w.rf>
 <form>b</form>
-<tag lemma="b-3_^(označení_pomocí_písmene)" src="orig" selected="1">NNNXX-----A----</tag>
+<tag>
+<AM lemma="b-3_^(označení_pomocí_písmene)" src="orig">NNNXX-----A----</AM>
+<AM lemma="b-33_^(označení_pomocí_písmene)" src="manual" selected="1">NNNXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95049-082-p3s4w45">
 <src.rf>manual</src.rf>
@@ -1430,7 +1447,10 @@
 <LM>w#w-ln95049-082-p3s4w54</LM>
 </w.rf>
 <form>jen</form>
-<tag lemma="jen-1" src="auto" selected="1">TT-------------</tag>
+<tag>
+<AM lemma="jen-1" src="auto">TT-------------</AM>
+<AM lemma="jen-4_^(pouze)" src="manual" selected="1">Db-------------</AM>
+</tag>
 </m>
 <m id="m-ln95049-082-p3s4w55">
 <src.rf>manual</src.rf>
@@ -1561,7 +1581,7 @@
 <tag>
 <AM lemma="nalézt" src="orig">VpYS---XR-AA---</AM>
 <AM lemma="nalézt-1_^(někam)" src="auto" recommended="1">VpYS---XR-AA---</AM>
-<AM lemma="nalézt-2" src="auto">VpYS---XR-AA---</AM>
+<AM lemma="nalézt-2" src="auto" selected="1">VpYS---XR-AA---</AM>
 </tag>
 </m>
 <m id="m-ln95049-082-p3s4w71">
@@ -1652,7 +1672,10 @@
 <LM>w#w-ln95049-082-p3s5w3</LM>
 </w.rf>
 <form>rolí</form>
-<tag lemma="role-2_^(herecká_úloha;_poslání)" src="orig" selected="1">NNFP2-----A----</tag>
+<tag>
+<AM lemma="role-2_^(herecká_úloha;_poslání)" src="orig">NNFP2-----A----</AM>
+<AM lemma="role-1_^(svitek_poslání_pozemek)" src="manual" selected="1">NNFP2-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95049-082-p3s5w4">
 <src.rf>manual</src.rf>
@@ -1756,7 +1779,10 @@
 <LM>w#w-ln95049-082-p3s5w16</LM>
 </w.rf>
 <form>roli</form>
-<tag lemma="role-2_^(herecká_úloha;_poslání)" src="orig" selected="1">NNFS3-----A----</tag>
+<tag>
+<AM lemma="role-2_^(herecká_úloha;_poslání)" src="orig">NNFS3-----A----</AM>
+<AM lemma="role-1_^(svitek_poslání_pozemek)" src="manual" selected="1">NNFS3-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95049-082-p3s5w17">
 <src.rf>manual</src.rf>
@@ -1849,7 +1875,7 @@
 <AM lemma="dobro-1_^(prospěch)" src="auto">NNNP1-----A----</AM>
 <AM lemma="dobro-1_^(prospěch)" src="auto">NNNP4-----A----</AM>
 <AM lemma="dobro-1_^(prospěch)" src="auto">NNNP5-----A----</AM>
-<AM lemma="dobro-1_^(prospěch)" src="auto" recommended="1">NNNS2-----A----</AM>
+<AM lemma="dobro-1_^(prospěch)" src="auto" recommended="1" selected="1">NNNS2-----A----</AM>
 <AM lemma="dobro-2_^(hudební_nástroj)" src="auto">NNNP1-----A----</AM>
 <AM lemma="dobro-2_^(hudební_nástroj)" src="auto">NNNP4-----A----</AM>
 <AM lemma="dobro-2_^(hudební_nástroj)" src="auto">NNNP5-----A----</AM>
@@ -1872,7 +1898,7 @@
 <form>nejen</form>
 <tag>
 <AM lemma="nejen" src="orig">TT-------------</AM>
-<AM lemma="nejen" src="auto" recommended="1">Db-------------</AM>
+<AM lemma="nejen" src="auto" recommended="1" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m-ln95049-082-p3s5w30">
@@ -2003,7 +2029,10 @@
 <LM>w#w-ln95049-082-p4s1w3</LM>
 </w.rf>
 <form>ústavně</form>
-<tag lemma="ústavně_,a_^(adjektivum_k_ústava;;ustavičný)_(*1ý)" src="auto" selected="1">Dg-------1A----</tag>
+<tag>
+<AM lemma="ústavně_,a_^(adjektivum_k_ústava;;ustavičný)_(*1ý)" src="auto">Dg-------1A----</AM>
+<AM lemma="ústavně_^(*1í)_(*1ý)" src="manual" selected="1">Dg-------1A----</AM>
+</tag>
 </m>
 <m id="m-ln95049-082-p4s1w4">
 <src.rf>manual</src.rf>
@@ -2141,7 +2170,7 @@
 <form>zodpověden</form>
 <tag>
 <AM lemma="zodpovědět" src="orig">VsYS---XX-AP---</AM>
-<AM lemma="zodpovědný" src="auto" recommended="1">ACYS------A----</AM>
+<AM lemma="zodpovědný" src="auto" recommended="1" selected="1">ACYS------A----</AM>
 </tag>
 </m>
 <m id="m-ln95049-082-p4s1w21">
@@ -2182,7 +2211,10 @@
 <LM>w#w-ln95049-082-p4s1w25</LM>
 </w.rf>
 <form>prof</form>
-<tag lemma="profesor_:B" src="orig" selected="1">NNMXX-----A---8</tag>
+<tag>
+<AM lemma="profesor_:B" src="orig">NNMXX-----A---8</AM>
+<AM lemma="prof_:B_^(profesor)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95049-082-p4s1w26">
 <src.rf>manual</src.rf>
@@ -2214,7 +2246,10 @@
 <LM>w#w-ln95049-082-p4s1w29</LM>
 </w.rf>
 <form>diskusích</form>
-<tag lemma="diskuse" src="orig" selected="1">NNFP6-----A----</tag>
+<tag>
+<AM lemma="diskuse" src="orig">NNFP6-----A----</AM>
+<AM lemma="diskuse_s,_^(^DD**diskuze)" src="manual" selected="1">NNFP6-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95049-082-p4s1w30">
 <src.rf>manual</src.rf>
@@ -2238,7 +2273,11 @@
 <LM>w#w-ln95049-082-p4s1w32</LM>
 </w.rf>
 <form>ČSR</form>
-<tag lemma="ČSR-2_:B_;G_^(Československá_republika_do_r._1960)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ČSR-2_:B_;G_^(Československá_republika_do_r._1960)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČSR-88_:B" src="manual">NNXXX-----A----</AM>
+<AM lemma="ČSR-2_:B_;G_^(Československá_republika_do_r._1960)" src="manual" selected="1">NNFXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95049-082-p4s1w33">
 <src.rf>manual</src.rf>
@@ -2278,7 +2317,10 @@
 <LM>w#w-ln95049-082-p4s1w37</LM>
 </w.rf>
 <form>roli</form>
-<tag lemma="role-2_^(herecká_úloha;_poslání)" src="orig" selected="1">NNFS6-----A----</tag>
+<tag>
+<AM lemma="role-2_^(herecká_úloha;_poslání)" src="orig">NNFS6-----A----</AM>
+<AM lemma="role-1_^(svitek_poslání_pozemek)" src="manual" selected="1">NNFS6-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95049-082-p4s1w38">
 <src.rf>manual</src.rf>
@@ -2386,7 +2428,7 @@
 <form>vůbec</form>
 <tag>
 <AM lemma="vůbec" src="orig">Db-------------</AM>
-<AM lemma="vůbec" src="auto" recommended="1">TT-------------</AM>
+<AM lemma="vůbec" src="auto" recommended="1" selected="1">TT-------------</AM>
 </tag>
 </m>
 <m id="m-ln95049-082-p4s2w12">
@@ -2445,7 +2487,7 @@
 <form>snad</form>
 <tag>
 <AM lemma="snad" src="orig">Db-------------</AM>
-<AM lemma="snad" src="auto" recommended="1">TT-------------</AM>
+<AM lemma="snad" src="auto" recommended="1" selected="1">TT-------------</AM>
 </tag>
 </m>
 <m id="m-ln95049-082-p4s2w19">
@@ -3544,7 +3586,7 @@
 <form>třeba</form>
 <tag>
 <AM lemma="třeba-1" src="orig">ACNS------A----</AM>
-<AM lemma="třeba-2" src="auto" recommended="1">Db-------------</AM>
+<AM lemma="třeba-2" src="auto" recommended="1" selected="1">Db-------------</AM>
 <AM lemma="třeba-3" src="auto">TT-------------</AM>
 </tag>
 </m>
@@ -3642,7 +3684,10 @@
 <LM>w#w-ln95049-082-p6s1w21</LM>
 </w.rf>
 <form>mandarinů</form>
-<tag lemma="mandarín" src="orig" selected="1">NNMP2-----A----</tag>
+<tag>
+<AM lemma="mandarín" src="orig">NNMP2-----A----</AM>
+<AM lemma="mandarin_,s_^(^DD**mandarín)" src="manual" selected="1">NNMP2-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95049-082-p6s1w22">
 <src.rf>manual</src.rf>
@@ -3666,7 +3711,10 @@
 <LM>w#w-ln95049-082-p6s1w24</LM>
 </w.rf>
 <form>tj</form>
-<tag lemma="tj-1_:B_^(to_je/jest)" src="orig" selected="1">J^------------8</tag>
+<tag>
+<AM lemma="tj-1_:B_^(to_je/jest)" src="orig">J^------------8</AM>
+<AM lemma="tj-1_:B_^(to_je/jest)" src="manual" selected="1">J^-------------</AM>
+</tag>
 </m>
 <m id="m-ln95049-082-p6s1w25">
 <src.rf>manual</src.rf>
@@ -3762,7 +3810,10 @@
 <LM>w#w-ln95049-082-p6s1w36</LM>
 </w.rf>
 <form>poroste</form>
-<tag lemma="porůst" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag>
+<AM lemma="porůst" src="orig">VB-S---3P-AA---</AM>
+<AM lemma="růst-2" src="manual" selected="1">VB-S---3F-AA---</AM>
+</tag>
 </m>
 <m id="m-ln95049-082-p6s1w37">
 <src.rf>manual</src.rf>
@@ -4259,7 +4310,10 @@
 <LM>w#w-ln95049-082-p7s2w3</LM>
 </w.rf>
 <form>role</form>
-<tag lemma="role-2_^(herecká_úloha;_poslání)" src="orig" selected="1">NNFS2-----A----</tag>
+<tag>
+<AM lemma="role-2_^(herecká_úloha;_poslání)" src="orig">NNFS2-----A----</AM>
+<AM lemma="role-1_^(svitek_poslání_pozemek)" src="manual" selected="1">NNFS2-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95049-082-p7s2w4">
 <src.rf>manual</src.rf>
@@ -4299,7 +4353,10 @@
 <LM>w#w-ln95049-082-p7s2w8</LM>
 </w.rf>
 <form>rolí</form>
-<tag lemma="role-2_^(herecká_úloha;_poslání)" src="orig" selected="1">NNFS7-----A----</tag>
+<tag>
+<AM lemma="role-2_^(herecká_úloha;_poslání)" src="orig">NNFS7-----A----</AM>
+<AM lemma="role-1_^(svitek_poslání_pozemek)" src="manual" selected="1">NNFS7-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95049-082-p7s2w9">
 <src.rf>manual</src.rf>
@@ -4379,7 +4436,10 @@
 <LM>w#w-ln95049-082-p7s2w18</LM>
 </w.rf>
 <form>konsensuální</form>
-<tag lemma="konsensuální" src="orig" selected="1">AAFS2----1A----</tag>
+<tag>
+<AM lemma="konsensuální" src="orig">AAFS2----1A----</AM>
+<AM lemma="konsensuální_,s_^(^DD**konsenzuální)" src="manual" selected="1">AAFS2----1A----</AM>
+</tag>
 </m>
 <m id="m-ln95049-082-p7s2w19">
 <src.rf>manual</src.rf>
@@ -4405,7 +4465,7 @@
 <form>trojúhelníku</form>
 <tag>
 <AM lemma="trojúhelník" src="orig">NNIS2-----A---1</AM>
-<AM lemma="trojúhelník" src="auto" recommended="1">NNIS2-----A----</AM>
+<AM lemma="trojúhelník" src="auto" recommended="1" selected="1">NNIS2-----A----</AM>
 <AM lemma="trojúhelník" src="auto">NNIS3-----A----</AM>
 <AM lemma="trojúhelník" src="auto">NNIS5-----A----</AM>
 <AM lemma="trojúhelník" src="auto">NNIS6-----A----</AM>
@@ -4553,7 +4613,10 @@
 <LM>w#w-ln95049-082-p7s2w39</LM>
 </w.rf>
 <form>rolí</form>
-<tag lemma="role-2_^(herecká_úloha;_poslání)" src="orig" selected="1">NNFP2-----A----</tag>
+<tag>
+<AM lemma="role-2_^(herecká_úloha;_poslání)" src="orig">NNFP2-----A----</AM>
+<AM lemma="role-1_^(svitek_poslání_pozemek)" src="manual" selected="1">NNFP2-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95049-082-p7s2w40">
 <src.rf>manual</src.rf>
@@ -4699,7 +4762,10 @@
 <LM>w#w-ln95049-082-p7s3w4</LM>
 </w.rf>
 <form>role</form>
-<tag lemma="role-2_^(herecká_úloha;_poslání)" src="orig" selected="1">NNFS2-----A----</tag>
+<tag>
+<AM lemma="role-2_^(herecká_úloha;_poslání)" src="orig">NNFS2-----A----</AM>
+<AM lemma="role-1_^(svitek_poslání_pozemek)" src="manual" selected="1">NNFS2-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95049-082-p7s3w5">
 <src.rf>manual</src.rf>
@@ -4739,7 +4805,10 @@
 <LM>w#w-ln95049-082-p7s3w9</LM>
 </w.rf>
 <form>rolí</form>
-<tag lemma="role-2_^(herecká_úloha;_poslání)" src="orig" selected="1">NNFS7-----A----</tag>
+<tag>
+<AM lemma="role-2_^(herecká_úloha;_poslání)" src="orig">NNFS7-----A----</AM>
+<AM lemma="role-1_^(svitek_poslání_pozemek)" src="manual" selected="1">NNFS7-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95049-082-p7s3w10">
 <src.rf>manual</src.rf>
@@ -4771,7 +4840,10 @@
 <LM>w#w-ln95049-082-p7s3w13</LM>
 </w.rf>
 <form>role</form>
-<tag lemma="role-2_^(herecká_úloha;_poslání)" src="orig" selected="1">NNFS2-----A----</tag>
+<tag>
+<AM lemma="role-2_^(herecká_úloha;_poslání)" src="orig">NNFS2-----A----</AM>
+<AM lemma="role-1_^(svitek_poslání_pozemek)" src="manual" selected="1">NNFS2-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95049-082-p7s3w14">
 <src.rf>manual</src.rf>
@@ -4803,7 +4875,10 @@
 <LM>w#w-ln95049-082-p7s3w17</LM>
 </w.rf>
 <form>role</form>
-<tag lemma="role-2_^(herecká_úloha;_poslání)" src="orig" selected="1">NNFS2-----A----</tag>
+<tag>
+<AM lemma="role-2_^(herecká_úloha;_poslání)" src="orig">NNFS2-----A----</AM>
+<AM lemma="role-1_^(svitek_poslání_pozemek)" src="manual" selected="1">NNFS2-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95049-082-p7s3w18">
 <src.rf>manual</src.rf>
@@ -4829,7 +4904,7 @@
 <form>nejen</form>
 <tag>
 <AM lemma="nejen" src="orig">TT-------------</AM>
-<AM lemma="nejen" src="auto" recommended="1">Db-------------</AM>
+<AM lemma="nejen" src="auto" recommended="1" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m-ln95049-082-p7s3w21">
@@ -4886,7 +4961,10 @@
 <LM>w#w-ln95049-082-p7s3w27</LM>
 </w.rf>
 <form>rolích</form>
-<tag lemma="role-2_^(herecká_úloha;_poslání)" src="orig" selected="1">NNFP6-----A----</tag>
+<tag>
+<AM lemma="role-2_^(herecká_úloha;_poslání)" src="orig">NNFP6-----A----</AM>
+<AM lemma="role-1_^(svitek_poslání_pozemek)" src="manual" selected="1">NNFP6-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95049-082-p7s3w28">
 <src.rf>manual</src.rf>
@@ -5091,7 +5169,7 @@
 </w.rf>
 <form>Golo</form>
 <tag>
-<AM lemma="Golo-2_;Y" src="orig">NNMS1-----A----</AM>
+<AM lemma="Golo-2_;Y" src="orig" selected="1">NNMS1-----A----</AM>
 <AM lemma="Gola_;S" src="auto">NNMS5-----A----</AM>
 <AM lemma="Golo_;G" src="auto" recommended="1">NNNS1-----A----</AM>
 <AM lemma="Golo_;G" src="auto">NNNS4-----A----</AM>
@@ -5209,7 +5287,10 @@
 <LM>w#w-ln95049-082-p8s2w18</LM>
 </w.rf>
 <form>místo</form>
-<tag lemma="místo-3" src="auto" selected="1">J,-------------</tag>
+<tag>
+<AM lemma="místo-3" src="auto">J,-------------</AM>
+<AM lemma="místo-3" src="manual" selected="1">Db-------------</AM>
+</tag>
 </m>
 <m id="m-ln95049-082-p8s2w19">
 <src.rf>manual</src.rf>
@@ -5363,7 +5444,10 @@
 <LM>w#w-ln95049-082-p8s3w15</LM>
 </w.rf>
 <form>Besserwisser</form>
-<tag lemma="Besserwisser_,t" src="orig" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Besserwisser_,t" src="orig">NNMS1-----A----</AM>
+<AM lemma="Besserwisser-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln95049-082-p8s3w16">
 <src.rf>manual</src.rf>

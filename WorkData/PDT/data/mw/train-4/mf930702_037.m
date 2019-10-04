@@ -431,7 +431,10 @@
 <LM>w#w-mf930702-037-p2s2w18</LM>
 </w.rf>
 <form>spíše</form>
-<tag lemma="spíše" src="orig" selected="1">Dg-------2A---1</tag>
+<tag>
+<AM lemma="spíše" src="orig">Dg-------2A---1</AM>
+<AM lemma="spíše" src="manual" selected="1">TT------------1</AM>
+</tag>
 </m>
 <m id="m-mf930702-037-p2s2w19">
 <src.rf>manual</src.rf>
@@ -837,7 +840,10 @@
 <LM>w#w-mf930702-037-p3s1w19</LM>
 </w.rf>
 <form>Kačena</form>
-<tag lemma="kačena" src="orig" selected="1">NNFS1-----A----</tag>
+<tag>
+<AM lemma="kačena" src="orig">NNFS1-----A----</AM>
+<AM lemma="Kačena_;S" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930702-037-p3s1w20">
 <src.rf>manual</src.rf>
@@ -2026,6 +2032,7 @@
 <AM lemma="d-3_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
 <AM lemma="d-4_^(př._d'Artagnan,_stažený_tvar_fr._předl.)" src="auto">AAXXX----1A----</AM>
 <AM lemma="d-8_:B_^(ost._zkratka)" src="auto">XX------------8</AM>
+<AM lemma="D-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-mf930702-037-p4s4w18">
@@ -2620,7 +2627,10 @@
 <LM>w#w-mf930702-037-p5s5w20</LM>
 </w.rf>
 <form>Kačena</form>
-<tag lemma="kačena" src="orig" selected="1">NNFS1-----A----</tag>
+<tag>
+<AM lemma="kačena" src="orig">NNFS1-----A----</AM>
+<AM lemma="Kačena_;S" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930702-037-p5s5w21">
 <src.rf>manual</src.rf>
@@ -2742,7 +2752,10 @@
 <LM>w#w-mf930702-037-p6s1w14</LM>
 </w.rf>
 <form>Entreprise</form>
-<tag lemma="Entreprise_;K_,t" src="orig" selected="1">NNFXX-----A----</tag>
+<tag>
+<AM lemma="Entreprise_;K_,t" src="orig">NNFXX-----A----</AM>
+<AM lemma="Entreprise-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-mf930702-037-p6s1w15">
 <src.rf>manual</src.rf>
@@ -2750,7 +2763,10 @@
 <LM>w#w-mf930702-037-p6s1w15</LM>
 </w.rf>
 <form>Jean</form>
-<tag lemma="Jean_;Y" src="orig" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Jean_;Y" src="orig">NNMS1-----A----</AM>
+<AM lemma="Jean-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-mf930702-037-p6s1w16">
 <src.rf>manual</src.rf>
@@ -2758,7 +2774,10 @@
 <LM>w#w-mf930702-037-p6s1w16</LM>
 </w.rf>
 <form>Lefebvre</form>
-<tag lemma="Lefebvre_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Lefebvre_;S" src="orig">NNMS1-----A----</AM>
+<AM lemma="Lefebvre-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-mf930702-037-p6s1w17">
 <src.rf>manual</src.rf>
@@ -2920,7 +2939,10 @@
 <LM>w#w-mf930702-037-p6s2w13</LM>
 </w.rf>
 <form>milionů</form>
-<tag lemma="milión`1000000" src="orig" selected="1">NNIP2-----A----</tag>
+<tag>
+<AM lemma="milión`1000000" src="orig">NNIP2-----A----</AM>
+<AM lemma="milion`1000000_,s_^(^DD**milión)" src="manual" selected="1">NNIP2-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930702-037-p6s2w14">
 <src.rf>manual</src.rf>

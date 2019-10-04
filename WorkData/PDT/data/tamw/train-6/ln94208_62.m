@@ -121,7 +121,10 @@
 <LM>w#w-ln94208-62-p2s1Cw5</LM>
 </w.rf>
 <form>ČR</form>
-<tag lemma="ČR-1_:B_;G_^(Česká_republika)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94208-62-p2s1Cw6">
 <src.rf>manual</src.rf>
@@ -226,6 +229,8 @@
 <AM lemma="Skopje_;G" src="auto" recommended="1">NNFS1-----A----</AM>
 <AM lemma="Skopje_;G" src="auto">NNFS2-----A----</AM>
 <AM lemma="Skopje_;G" src="auto">NNFS5-----A----</AM>
+<AM lemma="Skopje_;G" src="manual">NNFSX-----A----</AM>
+<AM lemma="Skopje_;G" src="manual" selected="1">NNFXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94208-62-p2s1Cw18">
@@ -797,7 +802,10 @@
 <LM>w#w-ln94208-62-p2s6w12</LM>
 </w.rf>
 <form>ČR</form>
-<tag lemma="ČR-1_:B_;G_^(Česká_republika)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94208-62-p2s6w13">
 <src.rf>manual</src.rf>
@@ -1009,7 +1017,10 @@
 <LM>w#w-ln94208-62-p3s2w13</LM>
 </w.rf>
 <form>tzv</form>
-<tag lemma="takzvaný_:B" src="orig" selected="1">AAXXX----1A---8</tag>
+<tag>
+<AM lemma="takzvaný_:B" src="orig">AAXXX----1A---8</AM>
+<AM lemma="takzvaný" src="manual" selected="1">AAXXX----1A---8</AM>
+</tag>
 </m>
 <m id="m-ln94208-62-p3s2w14">
 <src.rf>manual</src.rf>
@@ -1480,7 +1491,10 @@
 <LM>w#w-ln94208-62-p4s1w16</LM>
 </w.rf>
 <form>SRJ</form>
-<tag lemma="SRJ_:B_;G_^(Jugoslávská_svazová_republika)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="SRJ_:B_;G_^(Jugoslávská_svazová_republika)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="SRJ-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94208-62-p4s1w17">
 <src.rf>manual</src.rf>
@@ -1888,7 +1902,10 @@
 <LM>w#w-ln94208-62-p5s2w1</LM>
 </w.rf>
 <form>Jen</form>
-<tag lemma="jen-1" src="auto" selected="1">TT-------------</tag>
+<tag>
+<AM lemma="jen-1" src="auto">TT-------------</AM>
+<AM lemma="jen-4_^(pouze)" src="manual" selected="1">Db-------------</AM>
+</tag>
 </m>
 <m id="m-ln94208-62-p5s2w2">
 <src.rf>manual</src.rf>
@@ -2194,7 +2211,10 @@
 <LM>w#w-ln94208-62-p5s3w23</LM>
 </w.rf>
 <form>tzv</form>
-<tag lemma="takzvaný_:B" src="orig" selected="1">AAXXX----1A---8</tag>
+<tag>
+<AM lemma="takzvaný_:B" src="orig">AAXXX----1A---8</AM>
+<AM lemma="takzvaný" src="manual" selected="1">AAXXX----1A---8</AM>
+</tag>
 </m>
 <m id="m-ln94208-62-p5s3w24">
 <src.rf>manual</src.rf>
@@ -2250,7 +2270,10 @@
 <LM>w#w-ln94208-62-p5s3w30</LM>
 </w.rf>
 <form>li</form>
-<tag lemma="li-1" src="auto" selected="1">TT-------------</tag>
+<tag>
+<AM lemma="li-1" src="auto">TT-------------</AM>
+<AM lemma="li-2" src="manual" selected="1">J,-------------</AM>
+</tag>
 </m>
 <m id="m-ln94208-62-p5s3w31">
 <src.rf>manual</src.rf>
@@ -2348,7 +2371,10 @@
 <LM>w#w-ln94208-62-p6s1w7</LM>
 </w.rf>
 <form>jen</form>
-<tag lemma="jen-1" src="auto" selected="1">TT-------------</tag>
+<tag>
+<AM lemma="jen-1" src="auto">TT-------------</AM>
+<AM lemma="jen-4_^(pouze)" src="manual" selected="1">Db-------------</AM>
+</tag>
 </m>
 <m id="m-ln94208-62-p6s1w8">
 <src.rf>manual</src.rf>

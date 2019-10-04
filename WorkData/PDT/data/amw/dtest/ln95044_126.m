@@ -19,7 +19,10 @@
 <LM>w#w-ln95044-126-p1s1w1</LM>
 </w.rf>
 <form>ČEZ</form>
-<tag lemma="ČEZ-1_:B_;K_^(České_energetické_závody)" src="orig" selected="1">NNIPX-----A---8</tag>
+<tag>
+<AM lemma="ČEZ-1_:B_;K_^(České_energetické_závody)" src="orig">NNIPX-----A---8</AM>
+<AM lemma="ČEZ-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95044-126-p1s1w2">
 <src.rf>manual</src.rf>
@@ -146,7 +149,10 @@
 <LM>w#w-ln95044-126-p2s1Cw1</LM>
 </w.rf>
 <form>ČEZ</form>
-<tag lemma="ČEZ-1_:B_;K_^(České_energetické_závody)" src="orig" selected="1">NNIPX-----A---8</tag>
+<tag>
+<AM lemma="ČEZ-1_:B_;K_^(České_energetické_závody)" src="orig">NNIPX-----A---8</AM>
+<AM lemma="ČEZ-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95044-126-p2s1Cw2">
 <src.rf>manual</src.rf>
@@ -290,7 +296,10 @@
 <LM>w#w-ln95044-126-p2s1Cw19</LM>
 </w.rf>
 <form>MW</form>
-<tag lemma="MW-1`megawatt_:B" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="MW-1`megawatt_:B" src="orig">NNIXX-----A---8</AM>
+<AM lemma="megawatt" src="manual" selected="1">NNIXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln95044-126-p2s1Cw20">
 <src.rf>manual</src.rf>
@@ -534,7 +543,10 @@
 <LM>w#w-ln95044-126-p2s3w2</LM>
 </w.rf>
 <form>LN</form>
-<tag lemma="LN-1_:B_;R_^(Lidové_noviny,_deník)" src="orig" selected="1">NNFPX-----A---8</tag>
+<tag>
+<AM lemma="LN-1_:B_;R_^(Lidové_noviny,_deník)" src="orig">NNFPX-----A---8</AM>
+<AM lemma="LN-1_:B_;K_;R_^(Lidové_noviny)" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln95044-126-p2s3w3">
 <src.rf>manual</src.rf>
@@ -558,7 +570,10 @@
 <LM>w#w-ln95044-126-p2s3w5</LM>
 </w.rf>
 <form>uvedl</form>
-<tag lemma="uvést" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag>
+<AM lemma="uvést" src="orig">VpYS---XR-AA---</AM>
+<AM lemma="uvést_:W" src="manual" selected="1">VpYS---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-ln95044-126-p2s3w6">
 <src.rf>manual</src.rf>
@@ -709,6 +724,8 @@
 <AM lemma="Apollo_;Y_,t" src="auto">NNMS1-----A----</AM>
 <AM lemma="Apollo_;Y_,t" src="auto">NNMS5-----A----</AM>
 <AM lemma="apollo_;L_,t" src="auto" recommended="1">AAXXX----1A----</AM>
+<AM lemma="Apollo-2_;K" src="manual">NNXXX-----A----</AM>
+<AM lemma="Apollo-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-ln95044-126-p3s1w12">
@@ -717,7 +734,11 @@
 <LM>w#w-ln95044-126-p3s1w12</LM>
 </w.rf>
 <form>Technologies</form>
-<tag lemma="Technology_;K_,t" src="orig" selected="1">NNIPX-----A----</tag>
+<tag>
+<AM lemma="Technology_;K_,t" src="orig">NNIPX-----A----</AM>
+<AM lemma="technologies_,t" src="manual">NNXXX-----A----</AM>
+<AM lemma="Technologies-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln95044-126-p3s1w13">
 <src.rf>manual</src.rf>
@@ -999,7 +1020,10 @@
 <LM>w#w-ln95044-126-p3s2w16</LM>
 </w.rf>
 <form>uvedl</form>
-<tag lemma="uvést" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag>
+<AM lemma="uvést" src="orig">VpYS---XR-AA---</AM>
+<AM lemma="uvést_:W" src="manual" selected="1">VpYS---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-ln95044-126-p3s2w17">
 <src.rf>manual</src.rf>
@@ -1007,7 +1031,10 @@
 <LM>w#w-ln95044-126-p3s2w17</LM>
 </w.rf>
 <form>F</form>
-<tag lemma="F-0_:B_;Y" src="orig" selected="1">NNMXX-----A---8</tag>
+<tag>
+<AM lemma="F-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
+<AM lemma="F-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95044-126-p3s2w18">
 <src.rf>manual</src.rf>
@@ -1374,7 +1401,10 @@
 <LM>w#w-ln95044-126-p5s1w2</LM>
 </w.rf>
 <form>F</form>
-<tag lemma="F-0_:B_;Y" src="orig" selected="1">NNMXX-----A---8</tag>
+<tag>
+<AM lemma="F-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
+<AM lemma="F-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95044-126-p5s1w3">
 <src.rf>manual</src.rf>
@@ -1666,7 +1696,7 @@
 <form>totiž</form>
 <tag>
 <AM lemma="totiž" src="orig">Db-------------</AM>
-<AM lemma="totiž-1" src="auto" recommended="1">J^-------------</AM>
+<AM lemma="totiž-1" src="auto" recommended="1" selected="1">J^-------------</AM>
 <AM lemma="totiž-2" src="auto">TT-------------</AM>
 </tag>
 </m>
@@ -1796,7 +1826,10 @@
 <LM>w#w-ln95044-126-p5s2w18</LM>
 </w.rf>
 <form>uvedl</form>
-<tag lemma="uvést" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag>
+<AM lemma="uvést" src="orig">VpYS---XR-AA---</AM>
+<AM lemma="uvést_:W" src="manual" selected="1">VpYS---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-ln95044-126-p5s2w19">
 <src.rf>manual</src.rf>
@@ -1804,7 +1837,10 @@
 <LM>w#w-ln95044-126-p5s2w19</LM>
 </w.rf>
 <form>F</form>
-<tag lemma="F-0_:B_;Y" src="orig" selected="1">NNMXX-----A---8</tag>
+<tag>
+<AM lemma="F-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
+<AM lemma="F-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95044-126-p5s2w20">
 <src.rf>manual</src.rf>
@@ -1851,6 +1887,7 @@
 <AM lemma="Apollo_;Y_,t" src="auto">NNMS1-----A----</AM>
 <AM lemma="Apollo_;Y_,t" src="auto">NNMS5-----A----</AM>
 <AM lemma="apollo_;L_,t" src="auto" recommended="1">AAXXX----1A----</AM>
+<AM lemma="Apollo-2_;K" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95044-126-p6s1w3">
@@ -1999,6 +2036,7 @@
 <tag>
 <AM lemma="Kč" src="orig">NNFXX-----A----</AM>
 <AM lemma="Kč_:B" src="auto" recommended="1">NNFXX-----A---8</AM>
+<AM lemma="Kč_:B" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95044-126-p6s1w21">
@@ -2017,7 +2055,7 @@
 <form>přičemž</form>
 <tag>
 <AM lemma="přičemž" src="orig">J,-------------</AM>
-<AM lemma="přičemž" src="auto" recommended="1">Db-------------</AM>
+<AM lemma="přičemž" src="auto" recommended="1" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m-ln95044-126-p6s1w23">
@@ -2318,7 +2356,10 @@
 <LM>w#w-ln95044-126-p7s1w11</LM>
 </w.rf>
 <form>ČEZ</form>
-<tag lemma="ČEZ-1_:B_;K_^(České_energetické_závody)" src="orig" selected="1">NNIPX-----A---8</tag>
+<tag>
+<AM lemma="ČEZ-1_:B_;K_^(České_energetické_závody)" src="orig">NNIPX-----A---8</AM>
+<AM lemma="ČEZ-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95044-126-p7s1w12">
 <src.rf>manual</src.rf>

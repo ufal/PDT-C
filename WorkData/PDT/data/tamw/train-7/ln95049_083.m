@@ -51,7 +51,10 @@
 <LM>w#w-ln95049-083-p1s1w5</LM>
 </w.rf>
 <form>kursu</form>
-<tag lemma="kurs" src="auto" selected="1">NNIS2-----A----</tag>
+<tag>
+<AM lemma="kurs" src="auto">NNIS2-----A----</AM>
+<AM lemma="kurs_,s_^(^DD**kurz)" src="manual" selected="1">NNIS2-----A----</AM>
+</tag>
 </m>
 </s>
 <s id="m-ln95049-083-p2s1">
@@ -375,7 +378,10 @@
 <LM>w#w-ln95049-083-p2s2w21</LM>
 </w.rf>
 <form>tzv</form>
-<tag lemma="takzvaný_:B" src="orig" selected="1">AAXXX----1A---8</tag>
+<tag>
+<AM lemma="takzvaný_:B" src="orig">AAXXX----1A---8</AM>
+<AM lemma="takzvaný" src="manual" selected="1">AAXXX----1A---8</AM>
+</tag>
 </m>
 <m id="m-ln95049-083-p2s2w22">
 <src.rf>manual</src.rf>
@@ -699,7 +705,10 @@
 <LM>w#w-ln95049-083-p3s1w7</LM>
 </w.rf>
 <form>čs</form>
-<tag lemma="československý_:B" src="orig" selected="1">AAXXX----1A---8</tag>
+<tag>
+<AM lemma="československý_:B" src="orig">AAXXX----1A---8</AM>
+<AM lemma="československý" src="manual" selected="1">AAXXX----1A---8</AM>
+</tag>
 </m>
 <m id="m-ln95049-083-p3s1w8">
 <src.rf>manual</src.rf>
@@ -1189,7 +1198,10 @@
 <LM>w#w-ln95049-083-p3s2w31</LM>
 </w.rf>
 <form>stala</form>
-<tag lemma="stát-2_^(něco_se_přihodilo)" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag>
+<AM lemma="stát-2_^(něco_se_přihodilo)" src="orig">VpQW---XR-AA---</AM>
+<AM lemma="stát-2_^(stanu_staneš)" src="manual" selected="1">VpQW---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-ln95049-083-p3s2w32">
 <src.rf>manual</src.rf>
@@ -1593,7 +1605,10 @@
 <LM>w#w-ln95049-083-p3s4w16</LM>
 </w.rf>
 <form>kursu</form>
-<tag lemma="kurs" src="auto" selected="1">NNIS2-----A----</tag>
+<tag>
+<AM lemma="kurs" src="auto">NNIS2-----A----</AM>
+<AM lemma="kurs_,s_^(^DD**kurz)" src="manual" selected="1">NNIS2-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95049-083-p3s4w17">
 <src.rf>manual</src.rf>
@@ -1609,7 +1624,10 @@
 <LM>w#w-ln95049-083-p3s4w18</LM>
 </w.rf>
 <form>tzv</form>
-<tag lemma="takzvaný_:B" src="orig" selected="1">AAXXX----1A---8</tag>
+<tag>
+<AM lemma="takzvaný_:B" src="orig">AAXXX----1A---8</AM>
+<AM lemma="takzvaný" src="manual" selected="1">AAXXX----1A---8</AM>
+</tag>
 </m>
 <m id="m-ln95049-083-p3s4w19">
 <src.rf>manual</src.rf>
@@ -2205,7 +2223,7 @@
 <form>tedy</form>
 <tag>
 <AM lemma="tedy" src="orig">Db-------------</AM>
-<AM lemma="tedy-1" src="auto">TT-------------</AM>
+<AM lemma="tedy-1" src="auto" selected="1">TT-------------</AM>
 <AM lemma="tedy-2" src="auto" recommended="1">J^-------------</AM>
 </tag>
 </m>
@@ -2273,7 +2291,10 @@
 <LM>w#w-ln95049-083-p4s2w3</LM>
 </w.rf>
 <form>začali</form>
-<tag lemma="začít-1_^(začnout)" src="auto" selected="1">VpMP---XR-AA---</tag>
+<tag>
+<AM lemma="začít-1_^(začnout)" src="auto">VpMP---XR-AA---</AM>
+<AM lemma="začít-1_:W_^(začnout)" src="manual" selected="1">VpMP---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-ln95049-083-p4s2w4">
 <src.rf>manual</src.rf>
@@ -2452,7 +2473,7 @@
 <tag>
 <AM lemma="tedy" src="orig">Db-------------</AM>
 <AM lemma="tedy-1" src="auto">TT-------------</AM>
-<AM lemma="tedy-2" src="auto" recommended="1">J^-------------</AM>
+<AM lemma="tedy-2" src="auto" recommended="1" selected="1">J^-------------</AM>
 </tag>
 </m>
 <m id="m-ln95049-083-p4s2w27">
@@ -2573,7 +2594,10 @@
 <LM>w#w-ln95049-083-p4s2w41</LM>
 </w.rf>
 <form>kursové</form>
-<tag lemma="kursový" src="orig" selected="1">AAFS2----1A----</tag>
+<tag>
+<AM lemma="kursový" src="orig">AAFS2----1A----</AM>
+<AM lemma="kursový_,s_^(^DD**kurzový)" src="manual" selected="1">AAFS2----1A----</AM>
+</tag>
 </m>
 <m id="m-ln95049-083-p4s2w42">
 <src.rf>manual</src.rf>
@@ -2713,7 +2737,10 @@
 <LM>w#w-ln95049-083-p5s2w7</LM>
 </w.rf>
 <form>kursovou</form>
-<tag lemma="kursový" src="orig" selected="1">AAFS4----1A----</tag>
+<tag>
+<AM lemma="kursový" src="orig">AAFS4----1A----</AM>
+<AM lemma="kursový_,s_^(^DD**kurzový)" src="manual" selected="1">AAFS4----1A----</AM>
+</tag>
 </m>
 <m id="m-ln95049-083-p5s2w8">
 <src.rf>manual</src.rf>
@@ -2793,7 +2820,10 @@
 <LM>w#w-ln95049-083-p5s2w17</LM>
 </w.rf>
 <form>kurs</form>
-<tag lemma="kurs" src="auto" selected="1">NNIS4-----A----</tag>
+<tag>
+<AM lemma="kurs" src="auto">NNIS4-----A----</AM>
+<AM lemma="kurs_,s_^(^DD**kurz)" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95049-083-p5s2w18">
 <src.rf>manual</src.rf>
@@ -3099,7 +3129,10 @@
 <LM>w#w-ln95049-083-p5s3w29</LM>
 </w.rf>
 <form>kurs</form>
-<tag lemma="kurs" src="auto" selected="1">NNIS4-----A----</tag>
+<tag>
+<AM lemma="kurs" src="auto">NNIS4-----A----</AM>
+<AM lemma="kurs_,s_^(^DD**kurz)" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95049-083-p5s3w30">
 <src.rf>manual</src.rf>
@@ -3125,7 +3158,10 @@
 <LM>w#w-ln95049-083-p6s1w1</LM>
 </w.rf>
 <form>Kursová</form>
-<tag lemma="kursový" src="orig" selected="1">AAFS1----1A----</tag>
+<tag>
+<AM lemma="kursový" src="orig">AAFS1----1A----</AM>
+<AM lemma="kursový_,s_^(^DD**kurzový)" src="manual" selected="1">AAFS1----1A----</AM>
+</tag>
 </m>
 <m id="m-ln95049-083-p6s1w2">
 <src.rf>manual</src.rf>
@@ -3216,7 +3252,7 @@
 <tag>
 <AM lemma="tedy" src="orig">Db-------------</AM>
 <AM lemma="tedy-1" src="auto" recommended="1">TT-------------</AM>
-<AM lemma="tedy-2" src="auto">J^-------------</AM>
+<AM lemma="tedy-2" src="auto" selected="1">J^-------------</AM>
 </tag>
 </m>
 <m id="m-ln95049-083-p6s1w13">
@@ -3357,7 +3393,7 @@
 <form>Přesto</form>
 <tag>
 <AM lemma="přesto" src="orig">Dg-------1A----</AM>
-<AM lemma="přesto-1" src="auto" recommended="1">Db-------------</AM>
+<AM lemma="přesto-1" src="auto" recommended="1" selected="1">Db-------------</AM>
 <AM lemma="přesto-2" src="auto">J^-------------</AM>
 </tag>
 </m>
@@ -3497,7 +3533,7 @@
 <form>třeba</form>
 <tag>
 <AM lemma="třeba-1" src="orig">ACNS------A----</AM>
-<AM lemma="třeba-2" src="auto" recommended="1">Db-------------</AM>
+<AM lemma="třeba-2" src="auto" recommended="1" selected="1">Db-------------</AM>
 <AM lemma="třeba-3" src="auto">TT-------------</AM>
 </tag>
 </m>
@@ -3661,7 +3697,10 @@
 <LM>w#w-ln95049-083-p7s2w14</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-2" src="auto" selected="1">Dg-------2A----</tag>
+<tag>
+<AM lemma="hodně-2" src="auto">Dg-------2A----</AM>
+<AM lemma="hodně-3" src="manual" selected="1">Dg-------2A----</AM>
+</tag>
 </m>
 <m id="m-ln95049-083-p7s2w15">
 <src.rf>manual</src.rf>
@@ -3869,7 +3908,10 @@
 <LM>w#w-ln95049-083-p7s2w40</LM>
 </w.rf>
 <form>intervencionismu</form>
-<tag lemma="intervencionismus" src="orig" selected="1">NNIS2-----A----</tag>
+<tag>
+<AM lemma="intervencionismus" src="orig">NNIS2-----A----</AM>
+<AM lemma="intervencionismus_,s_^(^DD**intervencionizmus)" src="manual" selected="1">NNIS2-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95049-083-p7s2w41">
 <src.rf>manual</src.rf>
@@ -4143,7 +4185,10 @@
 <LM>w#w-ln95049-083-p8s1w34</LM>
 </w.rf>
 <form>kursové</form>
-<tag lemma="kursový" src="orig" selected="1">AAFS2----1A----</tag>
+<tag>
+<AM lemma="kursový" src="orig">AAFS2----1A----</AM>
+<AM lemma="kursový_,s_^(^DD**kurzový)" src="manual" selected="1">AAFS2----1A----</AM>
+</tag>
 </m>
 <m id="m-ln95049-083-p8s1w35">
 <src.rf>manual</src.rf>
@@ -4207,7 +4252,10 @@
 <LM>w#w-ln95049-083-p8s1w43</LM>
 </w.rf>
 <form>kurs</form>
-<tag lemma="kurs" src="auto" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="kurs" src="auto">NNIS1-----A----</AM>
+<AM lemma="kurs_,s_^(^DD**kurz)" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95049-083-p8s1w44">
 <src.rf>manual</src.rf>
@@ -4835,7 +4883,10 @@
 <LM>w#w-ln95049-083-p8s3w44</LM>
 </w.rf>
 <form>kursu</form>
-<tag lemma="kurs" src="auto" selected="1">NNIS3-----A----</tag>
+<tag>
+<AM lemma="kurs" src="auto">NNIS3-----A----</AM>
+<AM lemma="kurs_,s_^(^DD**kurz)" src="manual" selected="1">NNIS3-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95049-083-p8s3w45">
 <src.rf>manual</src.rf>

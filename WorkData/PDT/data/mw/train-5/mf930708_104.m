@@ -19,7 +19,10 @@
 <LM>w#w-mf930708-104-p1s1w1</LM>
 </w.rf>
 <form>Juventus</form>
-<tag lemma="Juventus" src="orig" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="Juventus" src="orig">NNIS1-----A----</AM>
+<AM lemma="Juventus_;K" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930708-104-p1s1w2">
 <src.rf>manual</src.rf>
@@ -53,7 +56,10 @@
 <LM>w#w-mf930708-104-p2s1w3</LM>
 </w.rf>
 <form>vlk</form>
-<tag lemma="vlk" src="orig" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="vlk" src="orig">NNMS1-----A----</AM>
+<AM lemma="vlk-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930708-104-p2s1w4">
 <src.rf>manual</src.rf>
@@ -77,7 +83,10 @@
 <LM>w#w-mf930708-104-p2s1w6</LM>
 </w.rf>
 <form>Juventus</form>
-<tag lemma="Juventus" src="orig" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="Juventus" src="orig">NNIS1-----A----</AM>
+<AM lemma="Juventus_;K" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930708-104-p2s1w7">
 <src.rf>manual</src.rf>
@@ -213,7 +222,10 @@
 <LM>w#w-mf930708-104-p2s1w23</LM>
 </w.rf>
 <form>ani</form>
-<tag lemma="ani-1" src="auto" selected="1">J^-------------</tag>
+<tag>
+<AM lemma="ani-1" src="auto">J^-------------</AM>
+<AM lemma="ani-2" src="manual" selected="1">TT-------------</AM>
+</tag>
 </m>
 <m id="m-mf930708-104-p2s1w24">
 <src.rf>manual</src.rf>
@@ -375,7 +387,10 @@
 <LM>w#w-mf930708-104-p2s2w9</LM>
 </w.rf>
 <form>jen</form>
-<tag lemma="jen-1" src="auto" selected="1">TT-------------</tag>
+<tag>
+<AM lemma="jen-1" src="auto">TT-------------</AM>
+<AM lemma="jen-4_^(pouze)" src="manual" selected="1">Db-------------</AM>
+</tag>
 </m>
 <m id="m-mf930708-104-p2s2w10">
 <src.rf>manual</src.rf>
@@ -657,7 +672,10 @@
 <LM>w#w-mf930708-104-p2s3w22</LM>
 </w.rf>
 <form>Giampaolo</form>
-<tag lemma="Giampaolo_;Y" src="auto" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Giampaolo_;Y" src="auto">NNMS1-----A----</AM>
+<AM lemma="Giampaolo_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930708-104-p2s3w23">
 <src.rf>manual</src.rf>
@@ -705,7 +723,10 @@
 <LM>w#w-mf930708-104-p2s3w28</LM>
 </w.rf>
 <form>Del</form>
-<tag lemma="del_,t_^(de+člen)" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="del_,t_^(de+člen)" src="orig">AAXXX----1A----</AM>
+<AM lemma="Del-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-mf930708-104-p2s3w29">
 <src.rf>manual</src.rf>
@@ -861,7 +882,10 @@
 <LM>w#w-mf930708-104-p2s5w1</LM>
 </w.rf>
 <form>Juventus</form>
-<tag lemma="Juventus" src="orig" selected="1">NNIS4-----A----</tag>
+<tag>
+<AM lemma="Juventus" src="orig">NNIS4-----A----</AM>
+<AM lemma="Juventus_;K" src="manual" selected="1">NNIS4-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930708-104-p2s5w2">
 <src.rf>manual</src.rf>

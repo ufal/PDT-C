@@ -117,7 +117,10 @@
 <LM>w#w-mf920901-121-p2s1w6</LM>
 </w.rf>
 <form>Black</form>
-<tag lemma="Black_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Black_;S" src="orig">NNMS1-----A----</AM>
+<AM lemma="Black-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-mf920901-121-p2s1w7">
 <src.rf>manual</src.rf>
@@ -130,7 +133,14 @@
 <AM lemma="star" src="auto" recommended="1">NNFXX-----A----</AM>
 <AM lemma="star" src="auto">NNIS1-----A----</AM>
 <AM lemma="star" src="auto">NNIS4-----A----</AM>
+<AM lemma="star_,t" src="manual">NNXXX-----A----</AM>
+<AM lemma="Star-77" src="manual" selected="1">F%-------------</AM>
 </tag>
+<comment>
+<LM type="Other">
+<text>analýza z online morphodity</text>
+</LM>
+</comment>
 </m>
 <m id="m-mf920901-121-p2s1w8">
 <src.rf>manual</src.rf>
@@ -202,7 +212,10 @@
 <LM>w#w-mf920901-121-p2s1w16</LM>
 </w.rf>
 <form>New</form>
-<tag lemma="New-1_;G_,t_^(součást_míst._jmen)" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="New-1_;G_,t_^(součást_míst._jmen)" src="orig">AAXXX----1A----</AM>
+<AM lemma="New-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-mf920901-121-p2s1w17">
 <src.rf>manual</src.rf>
@@ -578,7 +591,10 @@
 <LM>w#w-mf920901-121-p2s5w8</LM>
 </w.rf>
 <form>dolarů</form>
-<tag lemma="dolar_;b" src="orig" selected="1">NNIP2-----A----</tag>
+<tag>
+<AM lemma="dolar_;b" src="orig">NNIP2-----A----</AM>
+<AM lemma="dolar" src="manual" selected="1">NNIP2-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920901-121-p2s5w9">
 <src.rf>manual</src.rf>
@@ -693,9 +709,14 @@
 </w.rf>
 <form>nebývale</form>
 <tag>
-<AM lemma="nebývale_^(*1ý)" src="orig">Dg-------1A----</AM>
+<AM lemma="nebývale_^(*1ý)" src="orig" selected="1">Dg-------1A----</AM>
 <AM lemma="bývale_^(*1ý)" src="auto" recommended="1">Dg-------1N----</AM>
 </tag>
+<comment>
+<LM type="Other">
+<text>analýza z online morphodity</text>
+</LM>
+</comment>
 </m>
 <m id="m-mf920901-121-p3s1w14">
 <src.rf>manual</src.rf>
@@ -1257,7 +1278,10 @@
 <LM>w#w-mf920901-121-p4s2w2</LM>
 </w.rf>
 <form>nedávno</form>
-<tag lemma="nedávno-1" src="auto" selected="1">Db-------------</tag>
+<tag>
+<AM lemma="nedávno-1" src="auto">Db-------------</AM>
+<AM lemma="dávno-1" src="manual" selected="1">Dg-------1N----</AM>
+</tag>
 </m>
 <m id="m-mf920901-121-p4s2w3">
 <src.rf>manual</src.rf>
@@ -1929,7 +1953,10 @@
 <LM>w#w-mf920901-121-p5s2w7</LM>
 </w.rf>
 <form>Associated</form>
-<tag lemma="Associated_;K_,t" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="Associated_;K_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="Associated-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-mf920901-121-p5s2w8">
 <src.rf>manual</src.rf>
@@ -1937,7 +1964,10 @@
 <LM>w#w-mf920901-121-p5s2w8</LM>
 </w.rf>
 <form>Press</form>
-<tag lemma="Press-1_;K_,t_^(souč._názvů,_např._tisk._agentur)" src="orig" selected="1">NNIXX-----A----</tag>
+<tag>
+<AM lemma="Press-1_;K_,t_^(souč._názvů,_např._tisk._agentur)" src="orig">NNIXX-----A----</AM>
+<AM lemma="Press-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-mf920901-121-p5s2w9">
 <src.rf>manual</src.rf>
@@ -2945,7 +2975,10 @@
 <LM>w#w-mf920901-121-p6s3w19</LM>
 </w.rf>
 <form>právě</form>
-<tag lemma="právě-1" src="auto" selected="1">Db-------------</tag>
+<tag>
+<AM lemma="právě-1" src="auto">Db-------------</AM>
+<AM lemma="právě-2" src="manual" selected="1">TT-------------</AM>
+</tag>
 </m>
 <m id="m-mf920901-121-p6s3w20">
 <src.rf>manual</src.rf>
@@ -3769,7 +3802,10 @@
 <LM>w#w-mf920901-121-p8s1w23</LM>
 </w.rf>
 <form>nejvíce</form>
-<tag lemma="hodně-2" src="auto" selected="1">Dg-------3A----</tag>
+<tag>
+<AM lemma="hodně-2" src="auto">Dg-------3A----</AM>
+<AM lemma="hodně-3" src="manual" selected="1">Dg-------3A----</AM>
+</tag>
 </m>
 <m id="m-mf920901-121-p8s1w24">
 <src.rf>manual</src.rf>
@@ -3925,7 +3961,7 @@
 <form>raději</form>
 <tag>
 <AM lemma="raději" src="orig">Dg-------2A----</AM>
-<AM lemma="rád" src="auto" recommended="1">Dg-------2A----</AM>
+<AM lemma="rád" src="auto" recommended="1" selected="1">Dg-------2A----</AM>
 </tag>
 </m>
 <m id="m-mf920901-121-p8s2w19">

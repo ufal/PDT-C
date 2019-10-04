@@ -153,7 +153,10 @@
 <LM>w#w-cmpr9406-022-p4s1w4</LM>
 </w.rf>
 <form>A</form>
-<tag lemma="A-0_:B_;Y" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="A-0_:B_;Y" src="orig">NNFXX-----A---8</AM>
+<AM lemma="A-33_^(označení_pomocí_písmene)" src="manual" selected="1">NNNXX-----A----</AM>
+</tag>
 </m>
 <m id="m-cmpr9406-022-p4s1w5">
 <src.rf>manual</src.rf>
@@ -177,7 +180,10 @@
 <LM>w#w-cmpr9406-022-p4s1w7</LM>
 </w.rf>
 <form>sec</form>
-<tag lemma="s-2`sekunda_:B" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="s-2`sekunda_:B" src="orig">NNFXX-----A---8</AM>
+<AM lemma="sekunda" src="manual" selected="1">NNFXX-----A---9</AM>
+</tag>
 </m>
 <m id="m-cmpr9406-022-p4s1w8">
 <src.rf>manual</src.rf>
@@ -235,7 +241,10 @@
 <LM>w#w-cmpr9406-022-p5s1w4</LM>
 </w.rf>
 <form>ECM</form>
-<tag lemma="ECM-3_:B_,t_^(Error_Correction_Mode,_mód_u_faxů)" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="ECM-3_:B_,t_^(Error_Correction_Mode,_mód_u_faxů)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="ECM-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-cmpr9406-022-p5s1w5">
 <src.rf>manual</src.rf>
@@ -285,7 +294,10 @@
 <LM>w#w-cmpr9406-022-p6s1w3</LM>
 </w.rf>
 <form>mm</form>
-<tag lemma="mm-1`milimetr_:B" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="mm-1`milimetr_:B" src="orig">NNIXX-----A---8</AM>
+<AM lemma="milimetr" src="manual" selected="1">NNIXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-cmpr9406-022-p6s1w4">
 <src.rf>manual</src.rf>
@@ -370,6 +382,7 @@
 <tag>
 <AM lemma="Kč" src="orig">NNFXX-----A----</AM>
 <AM lemma="Kč_:B" src="auto" recommended="1">NNFXX-----A---8</AM>
+<AM lemma="Kč_:B" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9406-022-p7s1w4">
@@ -585,7 +598,10 @@
 <LM>w#w-cmpr9406-022-p8s2w9</LM>
 </w.rf>
 <form>stojí</form>
-<tag lemma="stát-4_^(něco_stojí_peníze)" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag>
+<AM lemma="stát-4_^(něco_stojí_peníze)" src="orig">VB-S---3P-AA---</AM>
+<AM lemma="stát-3_^(stojím_stojíš)" src="manual" selected="1">VB-S---3P-AA---</AM>
+</tag>
 </m>
 <m id="m-cmpr9406-022-p8s2w10">
 <src.rf>manual</src.rf>
@@ -604,6 +620,7 @@
 <tag>
 <AM lemma="Kč" src="orig">NNFXX-----A----</AM>
 <AM lemma="Kč_:B" src="auto" recommended="1">NNFXX-----A---8</AM>
+<AM lemma="Kč_:B" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9406-022-p8s2w12">
@@ -760,7 +777,10 @@
 <LM>w#w-cmpr9406-022-p8s4Aw5</LM>
 </w.rf>
 <form>stran</form>
-<tag lemma="strana-4_^(v_knize,_rukopise,...)" src="orig" selected="1">NNFP2-----A----</tag>
+<tag>
+<AM lemma="strana-4_^(v_knize,_rukopise,...)" src="orig">NNFP2-----A----</AM>
+<AM lemma="strana" src="manual" selected="1">NNFP2-----A----</AM>
+</tag>
 </m>
 <m id="m-cmpr9406-022-p8s4Aw6">
 <src.rf>manual</src.rf>
@@ -768,7 +788,10 @@
 <LM>w#w-cmpr9406-022-p8s4Aw6</LM>
 </w.rf>
 <form>A</form>
-<tag lemma="A-0_:B_;Y" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="A-0_:B_;Y" src="orig">NNFXX-----A---8</AM>
+<AM lemma="A-33_^(označení_pomocí_písmene)" src="manual" selected="1">NNNXX-----A----</AM>
+</tag>
 </m>
 <m id="m-cmpr9406-022-p8s4Aw7">
 <src.rf>manual</src.rf>
@@ -898,7 +921,10 @@
 <LM>w#w-cmpr9406-022-p8s4Bw14</LM>
 </w.rf>
 <form>zkrácenou</form>
-<tag lemma="zkrácený_,a_^(*2t)" src="auto" selected="1">AAFS4----1A----</tag>
+<tag>
+<AM lemma="zkrácený_,a_^(*2t)" src="auto">AAFS4----1A----</AM>
+<AM lemma="zkrácený_^(*2t)" src="manual" selected="1">AAFS4----1A----</AM>
+</tag>
 </m>
 <m id="m-cmpr9406-022-p8s4Bw15">
 <src.rf>manual</src.rf>
@@ -1110,7 +1136,10 @@
 <LM>w#w-cmpr9406-022-p8s6Aw16</LM>
 </w.rf>
 <form>A</form>
-<tag lemma="A-0_:B_;Y" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="A-0_:B_;Y" src="orig">NNFXX-----A---8</AM>
+<AM lemma="A-33_^(označení_pomocí_písmene)" src="manual" selected="1">NNNXX-----A----</AM>
+</tag>
 </m>
 <m id="m-cmpr9406-022-p8s6Aw17">
 <src.rf>manual</src.rf>

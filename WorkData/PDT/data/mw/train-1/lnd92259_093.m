@@ -51,7 +51,10 @@
 <LM>w#w-lnd92259-093-p1s1w5</LM>
 </w.rf>
 <form>N</form>
-<tag lemma="n-3_^(označení_pomocí_písmene)" src="orig" selected="1">NNNXX-----A----</tag>
+<tag>
+<AM lemma="n-3_^(označení_pomocí_písmene)" src="orig">NNNXX-----A----</AM>
+<AM lemma="N-33_^(označení_pomocí_písmene)" src="manual" selected="1">NNNXX-----A----</AM>
+</tag>
 </m>
 </s>
 <s id="m-lnd92259-093-p2s1">
@@ -209,7 +212,10 @@
 <LM>w#w-lnd92259-093-p3s2w15</LM>
 </w.rf>
 <form>N</form>
-<tag lemma="n-3_^(označení_pomocí_písmene)" src="orig" selected="1">NNNXX-----A----</tag>
+<tag>
+<AM lemma="n-3_^(označení_pomocí_písmene)" src="orig">NNNXX-----A----</AM>
+<AM lemma="N-33_^(označení_pomocí_písmene)" src="manual" selected="1">NNNXX-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92259-093-p3s2w16">
 <src.rf>manual</src.rf>
@@ -442,6 +448,7 @@
 <AM lemma="Marlboro_;K" src="auto" recommended="1">NNNS1-----A----</AM>
 <AM lemma="Marlboro_;K" src="auto">NNNS4-----A----</AM>
 <AM lemma="Marlboro_;K" src="auto">NNNS5-----A----</AM>
+<AM lemma="Marlboro_;K_;R" src="manual" selected="1">NNNS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92259-093-p3s3w21">
@@ -508,7 +515,10 @@
 <LM>w#w-lnd92259-093-p3s4w7</LM>
 </w.rf>
 <form>A</form>
-<tag lemma="A-0_:B_;Y" src="orig" selected="1">NNMXX-----A---8</tag>
+<tag>
+<AM lemma="A-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
+<AM lemma="A-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd92259-093-p3s4w8">
 <src.rf>manual</src.rf>
@@ -644,7 +654,10 @@
 <LM>w#w-lnd92259-093-p3s4w24</LM>
 </w.rf>
 <form>FIA</form>
-<tag lemma="FIA_:B" src="auto" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="FIA_:B" src="auto">NNXXX-----A---8</AM>
+<AM lemma="FIA-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd92259-093-p3s4w25">
 <src.rf>manual</src.rf>
@@ -660,7 +673,10 @@
 <LM>w#w-lnd92259-093-p3s4w26</LM>
 </w.rf>
 <form>N</form>
-<tag lemma="n-3_^(označení_pomocí_písmene)" src="orig" selected="1">NNNXX-----A----</tag>
+<tag>
+<AM lemma="n-3_^(označení_pomocí_písmene)" src="orig">NNNXX-----A----</AM>
+<AM lemma="N-33_^(označení_pomocí_písmene)" src="manual" selected="1">NNNXX-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92259-093-p3s4w27">
 <src.rf>manual</src.rf>
@@ -766,7 +782,10 @@
 <LM>w#w-lnd92259-093-p3s5w8</LM>
 </w.rf>
 <form>ČSFR</form>
-<tag lemma="ČSFR-1_:B_;G_^(Čs._federativní_republika)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ČSFR-1_:B_;G_^(Čs._federativní_republika)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČSFR-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd92259-093-p3s5w9">
 <src.rf>manual</src.rf>
@@ -912,7 +931,10 @@
 <LM>w#w-lnd92259-093-p3s6w9</LM>
 </w.rf>
 <form>cup</form>
-<tag lemma="cup" src="orig" selected="1">II-------------</tag>
+<tag>
+<AM lemma="cup" src="orig">II-------------</AM>
+<AM lemma="cup_,t_^(pohár)" src="manual" selected="1">NNIS4-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92259-093-p3s6w10">
 <src.rf>manual</src.rf>
@@ -1015,6 +1037,8 @@
 <AM lemma="Marlboro_;K" src="auto" recommended="1">NNNS1-----A----</AM>
 <AM lemma="Marlboro_;K" src="auto">NNNS4-----A----</AM>
 <AM lemma="Marlboro_;K" src="auto">NNNS5-----A----</AM>
+<AM lemma="Marlboro_;K_;R" src="manual">NNNS1-----A----</AM>
+<AM lemma="Marlboro_;K_;R" src="manual" selected="1">NNNXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92259-093-p3s7w12">
@@ -1229,7 +1253,7 @@
 <form>ovšem</form>
 <tag>
 <AM lemma="ovšem-1_^(avšak,_však;_odporovací_spojka)" src="orig">J^-------------</AM>
-<AM lemma="ovšem" src="auto" recommended="1">TT-------------</AM>
+<AM lemma="ovšem" src="auto" recommended="1" selected="1">TT-------------</AM>
 </tag>
 </m>
 <m id="m-lnd92259-093-p3s9w4">
@@ -1432,7 +1456,10 @@
 <LM>w#w-lnd92259-093-p3s10w7</LM>
 </w.rf>
 <form>G</form>
-<tag lemma="G-0_:B_;Y" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="G-0_:B_;Y" src="orig">NNFXX-----A---8</AM>
+<AM lemma="G-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd92259-093-p3s10w8">
 <src.rf>manual</src.rf>
@@ -1493,6 +1520,7 @@
 <tag>
 <AM lemma="tom_:B" src="orig">NNMS1-----A---8</AM>
 <AM lemma="ten" src="auto" recommended="1">PDZS6----------</AM>
+<AM lemma="tom-99_:B_;S" src="manual" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-lnd92259-093-p4s1w3">

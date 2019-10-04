@@ -109,7 +109,10 @@
 <LM>w#w-ln94204-57-p2s1Aw3</LM>
 </w.rf>
 <form>jap</form>
-<tag lemma="jap-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="jap-99_:B_;S" src="orig">NNXXX-----A---8</AM>
+<AM lemma="jap-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln94204-57-p2s1Aw4">
 <src.rf>manual</src.rf>
@@ -555,7 +558,10 @@
 <LM>w#w-ln94204-57-p3s1w24</LM>
 </w.rf>
 <form>ČR</form>
-<tag lemma="ČR-1_:B_;G_^(Česká_republika)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94204-57-p3s1w25">
 <src.rf>manual</src.rf>
@@ -1229,7 +1235,7 @@
 <form>začít</form>
 <tag>
 <AM lemma="začít-1" src="orig">Vf--------A----</AM>
-<AM lemma="začít-1_^(začnout)" src="auto" recommended="1">Vf--------A----</AM>
+<AM lemma="začít-1_^(začnout)" src="auto" recommended="1" selected="1">Vf--------A----</AM>
 <AM lemma="začít-2_^(pocítit)" src="auto">Vf--------A----</AM>
 </tag>
 </m>
@@ -1314,7 +1320,7 @@
 </w.rf>
 <form>Kloseových</form>
 <tag>
-<AM lemma="Kloseův_;S_^(*2)" src="orig">AUFP2M---------</AM>
+<AM lemma="Kloseův_;S_^(*2)" src="orig" selected="1">AUFP2M---------</AM>
 <AM lemma="Kloseová_;S" src="auto" recommended="1">NNFP2-----A----</AM>
 <AM lemma="Kloseová_;S" src="auto">NNFP6-----A----</AM>
 </tag>
@@ -1393,7 +1399,7 @@
 <form>totiž</form>
 <tag>
 <AM lemma="totiž" src="orig">Db-------------</AM>
-<AM lemma="totiž-1" src="auto" recommended="1">J^-------------</AM>
+<AM lemma="totiž-1" src="auto" recommended="1" selected="1">J^-------------</AM>
 <AM lemma="totiž-2" src="auto">TT-------------</AM>
 </tag>
 </m>

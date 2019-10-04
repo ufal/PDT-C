@@ -239,7 +239,10 @@
 <LM>w#w-ln95041-095-p2s1Bw21</LM>
 </w.rf>
 <form>A</form>
-<tag lemma="a-1" src="orig" selected="1">J^-------------</tag>
+<tag>
+<AM lemma="a-1" src="orig">J^-------------</AM>
+<AM lemma="A-33_^(označení_pomocí_písmene)" src="manual" selected="1">NNNXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95041-095-p2s1Bw22">
 <src.rf>manual</src.rf>
@@ -459,7 +462,10 @@
 <LM>w#w-ln95041-095-p2s3w4</LM>
 </w.rf>
 <form>Rogner</form>
-<tag lemma="Rogner_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Rogner_;S" src="orig">NNMS1-----A----</AM>
+<AM lemma="Rogner-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln95041-095-p2s3w5">
 <src.rf>manual</src.rf>
@@ -471,6 +477,7 @@
 <AM lemma="International-2_;K_,t" src="orig">NNXXX-----A---1</AM>
 <AM lemma="International_,t" src="auto">NNISX-----A----</AM>
 <AM lemma="international_,t" src="auto" recommended="1">AAXXX----1A----</AM>
+<AM lemma="International-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-ln95041-095-p2s3w6">
@@ -479,7 +486,10 @@
 <LM>w#w-ln95041-095-p2s3w6</LM>
 </w.rf>
 <form>Hotels</form>
-<tag lemma="Hotel_;K_,t" src="orig" selected="1">NNIPX-----A----</tag>
+<tag>
+<AM lemma="Hotel_;K_,t" src="orig">NNIPX-----A----</AM>
+<AM lemma="Hotels-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln95041-095-p2s3w7">
 <src.rf>manual</src.rf>
@@ -495,7 +505,10 @@
 <LM>w#w-ln95041-095-p2s3w8</LM>
 </w.rf>
 <form>Resorts</form>
-<tag lemma="Resort_;K_,t" src="orig" selected="1">NNIPX-----A----</tag>
+<tag>
+<AM lemma="Resort_;K_,t" src="orig">NNIPX-----A----</AM>
+<AM lemma="Resorts-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln95041-095-p2s3w9">
 <src.rf>manual</src.rf>
@@ -899,7 +912,10 @@
 <LM>w#w-ln95041-095-p2s5w13</LM>
 </w.rf>
 <form>fitness</form>
-<tag lemma="fitness-1" src="auto" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="fitness-1" src="auto">AAXXX----1A----</AM>
+<AM lemma="fitness-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln95041-095-p2s5w14">
 <src.rf>manual</src.rf>

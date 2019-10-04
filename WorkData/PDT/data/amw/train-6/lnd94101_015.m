@@ -77,7 +77,10 @@
 <LM>w#w-lnd94101-015-p1s2w4</LM>
 </w.rf>
 <form>dan</form>
-<tag lemma="dan-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="dan-99_:B_;S" src="orig">NNXXX-----A---8</AM>
+<AM lemma="dan-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd94101-015-p1s2w5">
 <src.rf>manual</src.rf>
@@ -242,7 +245,7 @@
 <AM lemma="sedmý" src="auto">CrIP1---------6</AM>
 <AM lemma="sedmý" src="auto">CrIP4---------6</AM>
 <AM lemma="sedmý" src="auto">CrIP5---------6</AM>
-<AM lemma="sedmý" src="auto" recommended="1">CrIS1----------</AM>
+<AM lemma="sedmý" src="auto" recommended="1" selected="1">CrIS1----------</AM>
 <AM lemma="sedmý" src="auto">CrIS4----------</AM>
 <AM lemma="sedmý" src="auto">CrIS5----------</AM>
 <AM lemma="sedmý" src="auto">CrMP1---------6</AM>
@@ -556,7 +559,10 @@
 <LM>w#w-lnd94101-015-p1s5w21</LM>
 </w.rf>
 <form>straně</form>
-<tag lemma="strana-3_^(u_soudu,_na_úřadě,_smluvní_strany;_na_něčí_straně)" src="orig" selected="1">NNFS3-----A----</tag>
+<tag>
+<AM lemma="strana-3_^(u_soudu,_na_úřadě,_smluvní_strany;_na_něčí_straně)" src="orig">NNFS3-----A----</AM>
+<AM lemma="strana" src="manual" selected="1">NNFS3-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd94101-015-p1s5w22">
 <src.rf>manual</src.rf>

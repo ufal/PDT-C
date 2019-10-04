@@ -2813,7 +2813,7 @@
 <form>přičemž</form>
 <tag>
 <AM lemma="přičemž" src="orig">J,-------------</AM>
-<AM lemma="přičemž" src="auto" recommended="1">Db-------------</AM>
+<AM lemma="přičemž" src="auto" recommended="1" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m-ln94200-173-p3s8w19">
@@ -3760,7 +3760,10 @@
 <LM>w#w-ln94200-173-p5s1w22</LM>
 </w.rf>
 <form>cynismus</form>
-<tag lemma="cynismus" src="orig" selected="1">NNIS4-----A----</tag>
+<tag>
+<AM lemma="cynismus" src="orig">NNIS4-----A----</AM>
+<AM lemma="cynismus _,s_^(^DD** cynizmus)" src="manual" selected="1">NNIS4-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94200-173-p5s1w23">
 <src.rf>manual</src.rf>
@@ -3860,7 +3863,7 @@
 <AM lemma="bližní" src="orig">AAMP2----1A----</AM>
 <AM lemma="bližní" src="auto">NNFP2-----A----</AM>
 <AM lemma="bližní" src="auto">NNFP6-----A----</AM>
-<AM lemma="bližní" src="auto" recommended="1">NNMP2-----A----</AM>
+<AM lemma="bližní" src="auto" recommended="1" selected="1">NNMP2-----A----</AM>
 <AM lemma="bližní" src="auto">NNMP6-----A----</AM>
 </tag>
 </m>
@@ -5238,7 +5241,7 @@
 <form>neumělými</form>
 <tag>
 <AM lemma="neumělý" src="orig">AAFP7----1A----</AM>
-<AM lemma="umělý" src="auto" recommended="1">AAFP7----1N----</AM>
+<AM lemma="umělý" src="auto" recommended="1" selected="1">AAFP7----1N----</AM>
 <AM lemma="umělý" src="auto">AAIP7----1N----</AM>
 <AM lemma="umělý" src="auto">AAMP7----1N----</AM>
 <AM lemma="umělý" src="auto">AANP7----1N----</AM>
@@ -5267,7 +5270,10 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>a</form>
-<tag lemma="a-4_,t_^(př._a_la)" src="orig" selected="1">RR--1----------</tag>
+<tag>
+<AM lemma="a-4_,t_^(př._a_la)" src="orig">RR--1----------</AM>
+<AM lemma="a-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94200-173-p7s1w21">
 <src.rf>manual</src.rf>
@@ -5281,6 +5287,7 @@
 <AM lemma="la-1" src="auto">II-------------</AM>
 <AM lemma="la-2_,t" src="auto" recommended="1">AAXXX----1A----</AM>
 <AM lemma="la-3_,t" src="auto">RF-------------</AM>
+<AM lemma="la-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-ln94200-173-p7s1w22">
@@ -5589,6 +5596,7 @@
 <AM lemma="Clichy_;G" src="orig">NNNXX-----A----</AM>
 <AM lemma="Clichy_;S" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Clichy_;S" src="auto">NNMS5-----A----</AM>
+<AM lemma="Clichy-2_;G" src="manual" selected="1">NNNXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94200-173-p7s1w60">
@@ -5665,7 +5673,7 @@
 <form>čímkoli</form>
 <tag>
 <AM lemma="cokoliv" src="orig">PZ--7---------1</AM>
-<AM lemma="cokoli" src="auto" recommended="1">PZ--7----------</AM>
+<AM lemma="cokoli" src="auto" recommended="1" selected="1">PZ--7----------</AM>
 </tag>
 </m>
 <m id="m-ln94200-173-p7s3w9">
@@ -5844,7 +5852,7 @@
 <form>snad</form>
 <tag>
 <AM lemma="snad" src="orig">Db-------------</AM>
-<AM lemma="snad" src="auto" recommended="1">TT-------------</AM>
+<AM lemma="snad" src="auto" recommended="1" selected="1">TT-------------</AM>
 </tag>
 </m>
 <m id="m-ln94200-173-p7s3w31">
@@ -5920,7 +5928,7 @@
 <tag>
 <AM lemma="přesto" src="orig">Dg-------1A----</AM>
 <AM lemma="přesto-1" src="auto">Db-------------</AM>
-<AM lemma="přesto-2" src="auto" recommended="1">J^-------------</AM>
+<AM lemma="přesto-2" src="auto" recommended="1" selected="1">J^-------------</AM>
 </tag>
 </m>
 <m id="m-ln94200-173-p7s3w40">
@@ -6316,6 +6324,7 @@
 <AM lemma="Stéphan_;Y" src="auto">NNMS5-----A----</AM>
 <AM lemma="Stéphane_;Y_,t" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Stéphane_;Y_,t" src="auto">NNMS5-----A----</AM>
+<AM lemma="Stéphane-2_;Y" src="manual" selected="1">NNFXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94200-173-p7s6w12">
@@ -6366,7 +6375,7 @@
 <form>Chabrolových</form>
 <tag>
 <AM lemma="Chabrolův_;S_^(*2)" src="orig">AUIP3M---------</AM>
-<AM lemma="Chabrolův_;S_^(*2)" src="auto" recommended="1">AUFP2M---------</AM>
+<AM lemma="Chabrolův_;S_^(*2)" src="auto" recommended="1" selected="1">AUFP2M---------</AM>
 <AM lemma="Chabrolův_;S_^(*2)" src="auto">AUFP6M---------</AM>
 <AM lemma="Chabrolův_;S_^(*2)" src="auto">AUIP2M---------</AM>
 <AM lemma="Chabrolův_;S_^(*2)" src="auto">AUIP6M---------</AM>
@@ -6514,6 +6523,7 @@
 <AM lemma="Yanne_;S" src="orig">NNMS1-----A----</AM>
 <AM lemma="Yann_;Y" src="auto">NNMS5-----A----</AM>
 <AM lemma="Yanne_;Y_,t" src="auto" recommended="1">NNFSX-----A----</AM>
+<AM lemma="Yanne-2_;S" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94200-173-p7s6w35">

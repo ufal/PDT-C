@@ -277,7 +277,10 @@
 <LM>w#w-mf930703-134-p2s1w26</LM>
 </w.rf>
 <form>Tchaj</form>
-<tag lemma="Tchaj_;G" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="Tchaj_;G" src="orig">AAXXX----1A----</AM>
+<AM lemma="Tchaj-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-mf930703-134-p2s1w27">
 <src.rf>manual</src.rf>
@@ -295,7 +298,7 @@
 <form>wanu</form>
 <tag>
 <AM lemma="wan_;G" src="orig">NNIXX-----A----</AM>
-<AM lemma="wan_;G" src="auto">NNIS2-----A----</AM>
+<AM lemma="wan_;G" src="auto" selected="1">NNIS2-----A----</AM>
 <AM lemma="wan_;G" src="auto">NNIS3-----A----</AM>
 <AM lemma="wan_;G" src="auto" recommended="1">NNIS6-----A----</AM>
 </tag>
@@ -754,6 +757,7 @@
 <AM lemma="miliónový" src="auto">AANS1----1A----</AM>
 <AM lemma="miliónový" src="auto">AANS4----1A----</AM>
 <AM lemma="miliónový" src="auto">AANS5----1A----</AM>
+<AM lemma="milionový_,s_^(^DD**miliónový)" src="manual" selected="1">AAFS2----1A----</AM>
 </tag>
 </m>
 </s>
@@ -992,7 +996,10 @@
 <LM>w#w-mf930703-134-p3s6w8</LM>
 </w.rf>
 <form>New</form>
-<tag lemma="New-1_;G_,t_^(součást_míst._jmen)" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="New-1_;G_,t_^(součást_míst._jmen)" src="orig">AAXXX----1A----</AM>
+<AM lemma="New-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-mf930703-134-p3s6w9">
 <src.rf>manual</src.rf>
@@ -1000,7 +1007,10 @@
 <LM>w#w-mf930703-134-p3s6w9</LM>
 </w.rf>
 <form>Area</form>
-<tag lemma="area" src="orig" selected="1">NNFS1-----A----</tag>
+<tag>
+<AM lemma="area" src="orig">NNFS1-----A----</AM>
+<AM lemma="Area-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-mf930703-134-p3s6w10">
 <src.rf>manual</src.rf>
@@ -1578,7 +1588,7 @@
 <form>vůbec</form>
 <tag>
 <AM lemma="vůbec" src="orig">Db-------------</AM>
-<AM lemma="vůbec" src="auto" recommended="1">TT-------------</AM>
+<AM lemma="vůbec" src="auto" recommended="1" selected="1">TT-------------</AM>
 </tag>
 </m>
 <m id="m-mf930703-134-p5s1w16">
@@ -2026,7 +2036,10 @@
 <LM>w#w-mf930703-134-p6s3w5</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-2" src="auto" selected="1">Dg-------2A----</tag>
+<tag>
+<AM lemma="hodně-2" src="auto">Dg-------2A----</AM>
+<AM lemma="více_^(více_+_2._p.,_více_peněz)" src="manual" selected="1">Ca--1----------</AM>
+</tag>
 </m>
 <m id="m-mf930703-134-p6s3w6">
 <src.rf>manual</src.rf>
@@ -2165,7 +2178,10 @@
 <LM>w#w-mf930703-134-p7s1w6</LM>
 </w.rf>
 <form>Tchaj</form>
-<tag lemma="Tchaj_;G" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="Tchaj_;G" src="orig">AAXXX----1A----</AM>
+<AM lemma="Tchaj-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-mf930703-134-p7s1w7">
 <src.rf>manual</src.rf>
@@ -2191,7 +2207,7 @@
 <form>wanu</form>
 <tag>
 <AM lemma="wan_;G" src="orig">NNIXX-----A----</AM>
-<AM lemma="wan_;G" src="auto" recommended="1">NNIS2-----A----</AM>
+<AM lemma="wan_;G" src="auto" recommended="1" selected="1">NNIS2-----A----</AM>
 <AM lemma="wan_;G" src="auto">NNIS3-----A----</AM>
 <AM lemma="wan_;G" src="auto">NNIS6-----A----</AM>
 </tag>
@@ -2261,6 +2277,8 @@
 <tag>
 <AM lemma="USA_;G" src="orig">NNIPX-----A----</AM>
 <AM lemma="USA_:B_;K_,t_^(United_States_of_America)" src="auto" recommended="1">NNIPX-----A---8</AM>
+<AM lemma="USA_:B_;K_,t_^(United_States_of_America)" src="manual">NNIPX-----A---8</AM>
+<AM lemma="USA_:B_;K_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-mf930703-134-p7s1w18">

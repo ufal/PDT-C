@@ -103,7 +103,10 @@
 <LM>w#w-lnd94104-036-p1s2w3</LM>
 </w.rf>
 <form>mrk</form>
-<tag lemma="mrk-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="mrk-99_:B_;S" src="orig">NNXXX-----A---8</AM>
+<AM lemma="mrk-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd94104-036-p1s2w4">
 <src.rf>manual</src.rf>
@@ -177,7 +180,10 @@
 <LM>w#w-lnd94104-036-p1s3w7</LM>
 </w.rf>
 <form>tj</form>
-<tag lemma="tj-1_:B_^(to_je/jest)" src="orig" selected="1">J^------------8</tag>
+<tag>
+<AM lemma="tj-1_:B_^(to_je/jest)" src="orig">J^------------8</AM>
+<AM lemma="tj-1_:B_^(to_je/jest)" src="manual" selected="1">J^-------------</AM>
+</tag>
 </m>
 <m id="m-lnd94104-036-p1s3w8">
 <src.rf>manual</src.rf>
@@ -329,7 +335,10 @@
 <LM>w#w-lnd94104-036-p1s3w26</LM>
 </w.rf>
 <form>VÚSC</form>
-<tag lemma="VÚSC_:B_;p_^(vyšší_územně-správní_celky)" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="VÚSC_:B_;p_^(vyšší_územně-správní_celky)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="VÚSC-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd94104-036-p1s3w27">
 <src.rf>manual</src.rf>
@@ -563,7 +572,10 @@
 <LM>w#w-lnd94104-036-p1s4w15</LM>
 </w.rf>
 <form>ČR</form>
-<tag lemma="ČR-1_:B_;G_^(Česká_republika)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd94104-036-p1s4w16">
 <src.rf>manual</src.rf>
@@ -645,7 +657,10 @@
 <LM>w#w-lnd94104-036-p1s5w9</LM>
 </w.rf>
 <form>VÚSC</form>
-<tag lemma="VÚSC_:B_;p_^(vyšší_územně-správní_celky)" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="VÚSC_:B_;p_^(vyšší_územně-správní_celky)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="VÚSC-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd94104-036-p1s5w10">
 <src.rf>manual</src.rf>
@@ -719,7 +734,10 @@
 <LM>w#w-lnd94104-036-p1s6w8</LM>
 </w.rf>
 <form>VÚSC</form>
-<tag lemma="VÚSC_:B_;p_^(vyšší_územně-správní_celky)" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="VÚSC_:B_;p_^(vyšší_územně-správní_celky)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="VÚSC-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd94104-036-p1s6w9">
 <src.rf>manual</src.rf>
@@ -1245,7 +1263,10 @@
 <LM>w#w-lnd94104-036-p1s9w9</LM>
 </w.rf>
 <form>VÚSC</form>
-<tag lemma="VÚSC_:B_;p_^(vyšší_územně-správní_celky)" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="VÚSC_:B_;p_^(vyšší_územně-správní_celky)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="VÚSC-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd94104-036-p1s9w10">
 <src.rf>manual</src.rf>
@@ -1335,7 +1356,10 @@
 <LM>w#w-lnd94104-036-p1s10w3</LM>
 </w.rf>
 <form>VÚSC</form>
-<tag lemma="VÚSC_:B_;p_^(vyšší_územně-správní_celky)" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="VÚSC_:B_;p_^(vyšší_územně-správní_celky)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="VÚSC-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd94104-036-p1s10w4">
 <src.rf>manual</src.rf>
@@ -1601,7 +1625,7 @@
 <form>ovšem</form>
 <tag>
 <AM lemma="ovšem-1_^(avšak,_však;_odporovací_spojka)" src="orig">J^-------------</AM>
-<AM lemma="ovšem" src="auto" recommended="1">TT-------------</AM>
+<AM lemma="ovšem" src="auto" recommended="1" selected="1">TT-------------</AM>
 </tag>
 </m>
 <m id="m-lnd94104-036-p1s10w37">
@@ -1692,7 +1716,10 @@
 <LM>w#w-lnd94104-036-p1s11w5</LM>
 </w.rf>
 <form>VÚSC</form>
-<tag lemma="VÚSC_:B_;p_^(vyšší_územně-správní_celky)" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="VÚSC_:B_;p_^(vyšší_územně-správní_celky)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="VÚSC-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd94104-036-p1s11w6">
 <src.rf>manual</src.rf>
@@ -1950,7 +1977,10 @@
 <LM>w#w-lnd94104-036-p1s12w4</LM>
 </w.rf>
 <form>VÚSC</form>
-<tag lemma="VÚSC_:B_;p_^(vyšší_územně-správní_celky)" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="VÚSC_:B_;p_^(vyšší_územně-správní_celky)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="VÚSC-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd94104-036-p1s12w5">
 <src.rf>manual</src.rf>
@@ -2264,7 +2294,10 @@
 <LM>w#w-lnd94104-036-p1s13w27</LM>
 </w.rf>
 <form>apod</form>
-<tag lemma="apod_:B_^(a_podobně)" src="auto" selected="1">Db------------8</tag>
+<tag>
+<AM lemma="apod_:B_^(a_podobně)" src="auto">Db------------8</AM>
+<AM lemma="apod_:B_^(a_podobně)" src="manual" selected="1">Db-------------</AM>
+</tag>
 </m>
 <m id="m-lnd94104-036-p1s13w28">
 <src.rf>manual</src.rf>
@@ -2734,7 +2767,10 @@
 <LM>w#w-lnd94104-036-p1s16w15</LM>
 </w.rf>
 <form>straně</form>
-<tag lemma="strana-1_^(v_prostoru)" src="orig" selected="1">NNFS6-----A----</tag>
+<tag>
+<AM lemma="strana-1_^(v_prostoru)" src="orig">NNFS6-----A----</AM>
+<AM lemma="strana" src="manual" selected="1">NNFS6-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd94104-036-p1s16w16">
 <src.rf>manual</src.rf>
@@ -2758,7 +2794,10 @@
 <LM>w#w-lnd94104-036-p1s16w18</LM>
 </w.rf>
 <form>VÚSC</form>
-<tag lemma="VÚSC_:B_;p_^(vyšší_územně-správní_celky)" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="VÚSC_:B_;p_^(vyšší_územně-správní_celky)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="VÚSC-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd94104-036-p1s16w19">
 <src.rf>manual</src.rf>

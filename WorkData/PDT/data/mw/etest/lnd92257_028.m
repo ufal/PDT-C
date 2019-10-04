@@ -78,7 +78,7 @@
 </w.rf>
 <form>gap</form>
 <tag>
-<AM lemma="gap-99_:B_;S" src="orig">NNXXX-----A---8</AM>
+<AM lemma="gap-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</AM>
 <AM lemma="gap" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="gap" src="auto">NNIS4-----A----</AM>
 </tag>
@@ -405,7 +405,10 @@
 <LM>w#w-lnd92257-028-p2s3w1</LM>
 </w.rf>
 <form>Kurzy</form>
-<tag lemma="kurs" src="auto" selected="1">NNIP1-----A----</tag>
+<tag>
+<AM lemma="kurs" src="auto">NNIP1-----A----</AM>
+<AM lemma="kurz" src="manual" selected="1">NNIP1-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92257-028-p2s3w2">
 <src.rf>manual</src.rf>
@@ -477,7 +480,10 @@
 <LM>w#w-lnd92257-028-p2s3w10</LM>
 </w.rf>
 <form>Hochschülerschaft</form>
-<tag lemma="Hochschülerschaft_;K_,t" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="Hochschülerschaft_;K_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="Hochschülerschaft-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-lnd92257-028-p2s3w11">
 <src.rf>manual</src.rf>
@@ -485,7 +491,10 @@
 <LM>w#w-lnd92257-028-p2s3w11</LM>
 </w.rf>
 <form>Alternativreferat</form>
-<tag lemma="Alternativreferat_;K_,t" src="orig" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="Alternativreferat_;K_,t" src="orig">NNIS1-----A----</AM>
+<AM lemma="Alternativreferat-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-lnd92257-028-p2s3w12">
 <src.rf>manual</src.rf>
@@ -711,7 +720,10 @@
 <LM>w#w-lnd92257-028-p2s4w22</LM>
 </w.rf>
 <form>Ekocentru</form>
-<tag lemma="Ekocentrum_;K_;z" src="auto" selected="1">NNNS6-----A----</tag>
+<tag>
+<AM lemma="Ekocentrum_;K_;z" src="auto">NNNS6-----A----</AM>
+<AM lemma="Ekocentrum_;K" src="manual" selected="1">NNNS6-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92257-028-p2s4w23">
 <src.rf>manual</src.rf>
@@ -743,7 +755,10 @@
 <LM>w#w-lnd92257-028-p2s4w26</LM>
 </w.rf>
 <form>č</form>
-<tag lemma="číslo_:B" src="orig" selected="1">NNNXX-----A---8</tag>
+<tag>
+<AM lemma="číslo_:B" src="orig">NNNXX-----A---8</AM>
+<AM lemma="číslo" src="manual" selected="1">NNNXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd92257-028-p2s4w27">
 <src.rf>manual</src.rf>

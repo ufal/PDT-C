@@ -177,7 +177,7 @@
 <form>dvoustrannou</form>
 <tag>
 <AM lemma="dvojstranný" src="orig">AAFS4----1A----</AM>
-<AM lemma="dvoustranný" src="auto" recommended="1">AAFS4----1A----</AM>
+<AM lemma="dvoustranný" src="auto" recommended="1" selected="1">AAFS4----1A----</AM>
 <AM lemma="dvoustranný" src="auto">AAFS7----1A----</AM>
 </tag>
 </m>
@@ -203,7 +203,10 @@
 <LM>w#w-mf920902-128-p2s2w14</LM>
 </w.rf>
 <form>ČSFR</form>
-<tag lemma="ČSFR-1_:B_;G_^(Čs._federativní_republika)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ČSFR-1_:B_;G_^(Čs._federativní_republika)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČSFR-1_:B_;G_^(Čs._federativní_republika)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920902-128-p2s2w15">
 <src.rf>manual</src.rf>
@@ -251,7 +254,10 @@
 <LM>w#w-mf920902-128-p2s2w20</LM>
 </w.rf>
 <form>li</form>
-<tag lemma="li-1" src="auto" selected="1">TT-------------</tag>
+<tag>
+<AM lemma="li-1" src="auto">TT-------------</AM>
+<AM lemma="li-2" src="manual" selected="1">J,-------------</AM>
+</tag>
 </m>
 <m id="m-mf920902-128-p2s2w21">
 <src.rf>manual</src.rf>
@@ -267,7 +273,10 @@
 <LM>w#w-mf920902-128-p2s2w22</LM>
 </w.rf>
 <form>ČSFR</form>
-<tag lemma="ČSFR-1_:B_;G_^(Čs._federativní_republika)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ČSFR-1_:B_;G_^(Čs._federativní_republika)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČSFR-1_:B_;G_^(Čs._federativní_republika)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920902-128-p2s2w23">
 <src.rf>manual</src.rf>
@@ -657,7 +666,7 @@
 <form>dřívějších</form>
 <tag>
 <AM lemma="brzký" src="orig">AAFP2----2A----</AM>
-<AM lemma="dřívější" src="auto" recommended="1">AAFP2----2A----</AM>
+<AM lemma="dřívější" src="auto" recommended="1" selected="1">AAFP2----2A----</AM>
 <AM lemma="dřívější" src="auto">AAFP6----2A----</AM>
 <AM lemma="dřívější" src="auto">AAIP2----2A----</AM>
 <AM lemma="dřívější" src="auto">AAIP6----2A----</AM>

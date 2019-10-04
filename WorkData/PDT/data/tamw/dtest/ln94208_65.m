@@ -23,7 +23,7 @@
 <AM lemma="Hutu_;E" src="orig">NNMP1-----A----</AM>
 <AM lemma="Hut_;S" src="auto" recommended="1">NNMP1-----A----</AM>
 <AM lemma="Hut_;S" src="auto">NNMP5-----A----</AM>
-<AM lemma="Hutu_;E" src="auto">NNMP1-----A---1</AM>
+<AM lemma="Hutu_;E" src="auto" selected="1">NNMP1-----A---1</AM>
 <AM lemma="Hutu_;E" src="auto">NNMP5-----A---1</AM>
 </tag>
 </m>
@@ -189,7 +189,10 @@
 <LM>w#w-ln94208-65-p2s1Bw12</LM>
 </w.rf>
 <form>začali</form>
-<tag lemma="začít-1_^(začnout)" src="auto" selected="1">VpMP---XR-AA---</tag>
+<tag>
+<AM lemma="začít-1_^(začnout)" src="auto">VpMP---XR-AA---</AM>
+<AM lemma="začít-1_:W_^(začnout)" src="manual" selected="1">VpMP---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-ln94208-65-p2s1Bw13">
 <src.rf>manual</src.rf>
@@ -217,7 +220,7 @@
 <AM lemma="Hutu_;E" src="orig">NNMP1-----A----</AM>
 <AM lemma="Hut_;S" src="auto" recommended="1">NNMP1-----A----</AM>
 <AM lemma="Hut_;S" src="auto">NNMP5-----A----</AM>
-<AM lemma="Hutu_;E" src="auto">NNMP1-----A---1</AM>
+<AM lemma="Hutu_;E" src="auto" selected="1">NNMP1-----A---1</AM>
 <AM lemma="Hutu_;E" src="auto">NNMP5-----A---1</AM>
 </tag>
 </m>
@@ -283,7 +286,10 @@
 <LM>w#w-ln94208-65-p2s1Bw23</LM>
 </w.rf>
 <form>žije</form>
-<tag lemma="žít" src="auto" selected="1">VB-S---3P-AA---</tag>
+<tag>
+<AM lemma="žít" src="auto">VB-S---3P-AA---</AM>
+<AM lemma="žít_:T" src="manual" selected="1">VB-S---3P-AA---</AM>
+</tag>
 </m>
 <m id="m-ln94208-65-p2s1Bw24">
 <src.rf>manual</src.rf>
@@ -341,7 +347,10 @@
 <LM>w#w-ln94208-65-p2s2w2</LM>
 </w.rf>
 <form>chtějí</form>
-<tag lemma="chtít" src="orig" selected="1">VB-P---3P-AA---</tag>
+<tag>
+<AM lemma="chtít" src="orig">VB-P---3P-AA---</AM>
+<AM lemma="chtít_:T" src="manual" selected="1">VB-P---3P-AA---</AM>
+</tag>
 </m>
 <m id="m-ln94208-65-p2s2w3">
 <src.rf>manual</src.rf>
@@ -365,7 +374,10 @@
 <LM>w#w-ln94208-65-p2s2w5</LM>
 </w.rf>
 <form>přesunout</form>
-<tag lemma="přesunout" src="orig" selected="1">Vf--------A----</tag>
+<tag>
+<AM lemma="přesunout" src="orig">Vf--------A----</AM>
+<AM lemma="přesunout_:W" src="manual" selected="1">Vf--------A----</AM>
+</tag>
 </m>
 <m id="m-ln94208-65-p2s2w6">
 <src.rf>manual</src.rf>

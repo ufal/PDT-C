@@ -27,7 +27,10 @@
 <LM>w#w-ln94203-137-p1s1w2</LM>
 </w.rf>
 <form>USAID</form>
-<tag lemma="USAID-1_:B_;K_,t_^(United_States_Agency_for_Inter._Devel.)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="USAID-1_:B_;K_,t_^(United_States_Agency_for_Inter._Devel.)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="USAID-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln94203-137-p1s1w3">
 <src.rf>manual</src.rf>
@@ -43,7 +46,10 @@
 <LM>w#w-ln94203-137-p1s1w4</LM>
 </w.rf>
 <form>CERGE</form>
-<tag lemma="CERGE_:B_;K_,t" src="orig" selected="1">NNNXX-----A---8</tag>
+<tag>
+<AM lemma="CERGE_:B_;K_,t" src="orig">NNNXX-----A---8</AM>
+<AM lemma="CERGE-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln94203-137-p1s1w5">
 <src.rf>manual</src.rf>
@@ -59,7 +65,11 @@
 <LM>w#w-ln94203-137-p1s1w6</LM>
 </w.rf>
 <form>CMC</form>
-<tag lemma="CMC-4_:B_;K_^(Československé_manažerské_centrum)" src="orig" selected="1">NNNXX-----A---8</tag>
+<tag>
+<AM lemma="CMC-4_:B_;K_^(Československé_manažerské_centrum)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="CMC-4_:B_;K_^(Československé_manažerské_centrum)" src="manual">NNNXX-----A---8</AM>
+<AM lemma="CMC-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 </s>
 <s id="m-ln94203-137-p2s1A">
@@ -231,7 +241,10 @@
 <LM>w#w-ln94203-137-p2s1Bw19</LM>
 </w.rf>
 <form>CERGE</form>
-<tag lemma="CERGE_:B_;K_,t" src="orig" selected="1">NNNXX-----A---8</tag>
+<tag>
+<AM lemma="CERGE_:B_;K_,t" src="orig">NNNXX-----A---8</AM>
+<AM lemma="CERGE-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln94203-137-p2s1Bw20">
 <src.rf>manual</src.rf>
@@ -287,7 +300,10 @@
 <LM>w#w-ln94203-137-p2s1Bw26</LM>
 </w.rf>
 <form>AV</form>
-<tag lemma="AV_:B_;K_;u_^(Akademie_věd)" src="auto" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="AV_:B_;K_;u_^(Akademie_věd)" src="auto">NNFXX-----A---8</AM>
+<AM lemma="AV-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln94203-137-p2s1Bw27">
 <src.rf>manual</src.rf>
@@ -315,6 +331,7 @@
 <AM lemma="EI-3_:B_;K_^(Ekonomický_institut)" src="orig">NNIXX-----A---8</AM>
 <AM lemma="EI-1_:B_;K_,t_^(letecká_společnost)" src="auto" recommended="1">NNFXX-----A---8</AM>
 <AM lemma="EI-2_:B_^(expres_informace)" src="auto">NNFXX-----A---8</AM>
+<AM lemma="EI-3_:B" src="manual" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-ln94203-137-p2s1Bw30">
@@ -371,7 +388,10 @@
 <LM>w#w-ln94203-137-p2s1Bw36</LM>
 </w.rf>
 <form>CMC</form>
-<tag lemma="CMC-4_:B_;K_^(Československé_manažerské_centrum)" src="orig" selected="1">NNNXX-----A---8</tag>
+<tag>
+<AM lemma="CMC-4_:B_;K_^(Československé_manažerské_centrum)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="CMC-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln94203-137-p2s1Bw37">
 <src.rf>manual</src.rf>
@@ -437,7 +457,10 @@
 <LM>w#w-ln94203-137-p3s1w6</LM>
 </w.rf>
 <form>CERGE</form>
-<tag lemma="CERGE_:B_;K_,t" src="orig" selected="1">NNNXX-----A---8</tag>
+<tag>
+<AM lemma="CERGE_:B_;K_,t" src="orig">NNNXX-----A---8</AM>
+<AM lemma="CERGE-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln94203-137-p3s1w7">
 <src.rf>manual</src.rf>
@@ -457,6 +480,8 @@
 <AM lemma="EI-3_:B_;K_^(Ekonomický_institut)" src="orig">NNIXX-----A---8</AM>
 <AM lemma="EI-1_:B_;K_,t_^(letecká_společnost)" src="auto" recommended="1">NNFXX-----A---8</AM>
 <AM lemma="EI-2_:B_^(expres_informace)" src="auto">NNFXX-----A---8</AM>
+<AM lemma="EI-3_:B" src="manual">NNXXX-----A---8</AM>
+<AM lemma="EI-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-ln94203-137-p3s1w9">
@@ -553,7 +578,10 @@
 <LM>w#w-ln94203-137-p3s1w20</LM>
 </w.rf>
 <form>USAID</form>
-<tag lemma="USAID-1_:B_;K_,t_^(United_States_Agency_for_Inter._Devel.)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="USAID-1_:B_;K_,t_^(United_States_Agency_for_Inter._Devel.)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="USAID-8_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln94203-137-p3s1w21">
 <src.rf>manual</src.rf>

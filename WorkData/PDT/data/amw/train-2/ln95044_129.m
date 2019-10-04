@@ -183,7 +183,10 @@
 <LM>w#w-ln95044-129-p2s1Bw13</LM>
 </w.rf>
 <form>Cordiant</form>
-<tag lemma="Cordiant_;K_,t" src="orig" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="Cordiant_;K_,t" src="orig">NNIS1-----A----</AM>
+<AM lemma="Cordiant_;K" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95044-129-p2s1Bw14">
 <src.rf>manual</src.rf>
@@ -233,7 +236,10 @@
 <LM>w#w-ln95044-129-p2s2w5</LM>
 </w.rf>
 <form>Financial</form>
-<tag lemma="Financial_;R_,t_^(např._F.Times)" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="Financial_;R_,t_^(např._F.Times)" src="orig">AAXXX----1A----</AM>
+<AM lemma="Financial-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln95044-129-p2s2w6">
 <src.rf>manual</src.rf>
@@ -241,7 +247,10 @@
 <LM>w#w-ln95044-129-p2s2w6</LM>
 </w.rf>
 <form>Times</form>
-<tag lemma="Times-1_;K_,t_^(souč._názvů,_např._The_Times)" src="orig" selected="1">NNIPX-----A----</tag>
+<tag>
+<AM lemma="Times-1_;K_,t_^(souč._názvů,_např._The_Times)" src="orig">NNIPX-----A----</AM>
+<AM lemma="Times-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln95044-129-p2s2w7">
 <src.rf>manual</src.rf>
@@ -419,7 +428,10 @@
 <LM>w#w-ln95044-129-p2s3w7</LM>
 </w.rf>
 <form>Maurice</form>
-<tag lemma="Mauric_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag>
+<AM lemma="Mauric_;S" src="orig">NNMS2-----A----</AM>
+<AM lemma="Mauric_;S_;Y" src="manual" selected="1">NNMS2-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95044-129-p2s3w8">
 <src.rf>manual</src.rf>

@@ -388,7 +388,7 @@
 </w.rf>
 <form>Zavidoviči</form>
 <tag>
-<AM lemma="Zavidoviči_;G" src="orig">NNNSX-----A----</AM>
+<AM lemma="Zavidoviči_;G" src="orig" selected="1">NNNSX-----A----</AM>
 <AM lemma="Zavidovič_;S" src="auto" recommended="1">NNMP1-----A----</AM>
 <AM lemma="Zavidovič_;S" src="auto">NNMP5-----A----</AM>
 <AM lemma="Zavidovič_;S" src="auto">NNMP7-----A----</AM>
@@ -723,7 +723,10 @@
 <LM>w#w-mf930713-144-p2s7w7</LM>
 </w.rf>
 <form>Muslimové</form>
-<tag lemma="muslim" src="orig" selected="1">NNMP1-----A----</tag>
+<tag>
+<AM lemma="muslim" src="orig">NNMP1-----A----</AM>
+<AM lemma="Muslim_;E" src="manual" selected="1">NNMP1-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930713-144-p2s7w8">
 <src.rf>manual</src.rf>
@@ -877,7 +880,11 @@
 <LM>w#w-mf930713-144-p2s8w7</LM>
 </w.rf>
 <form>hlášena</form>
-<tag lemma="hlásit" src="orig" selected="1">VsQW---XX-AP---</tag>
+<tag>
+<AM lemma="hlásit" src="orig">VsQW---XX-AP---</AM>
+<AM lemma="hlásit_:W" src="manual">VsQW---XX-AP---</AM>
+<AM lemma="hlásit_:T" src="manual" selected="1">VsQW---XX-AP---</AM>
+</tag>
 </m>
 <m id="m-mf930713-144-p2s8w8">
 <src.rf>manual</src.rf>

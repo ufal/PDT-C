@@ -155,7 +155,10 @@
 <LM>w#w-lnd92255-037-p1s1w18</LM>
 </w.rf>
 <form>Los</form>
-<tag lemma="Los-1_;G_,t_^(součást_cizích_jmen)" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="Los-1_;G_,t_^(součást_cizích_jmen)" src="orig">AAXXX----1A----</AM>
+<AM lemma="Los-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-lnd92255-037-p1s1w19">
 <src.rf>manual</src.rf>
@@ -163,7 +166,10 @@
 <LM>w#w-lnd92255-037-p1s1w19</LM>
 </w.rf>
 <form>Angeles</form>
-<tag lemma="Angeles_;G_,t" src="orig" selected="1">NNNXX-----A----</tag>
+<tag>
+<AM lemma="Angeles_;G_,t" src="orig">NNNXX-----A----</AM>
+<AM lemma="Angeles-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-lnd92255-037-p1s1w20">
 <src.rf>manual</src.rf>
@@ -229,7 +235,10 @@
 <LM>w#w-lnd92255-037-p1s2w3</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-2" src="auto" selected="1">Dg-------2A----</tag>
+<tag>
+<AM lemma="hodně-2" src="auto">Dg-------2A----</AM>
+<AM lemma="hodně-3" src="manual" selected="1">Dg-------2A----</AM>
+</tag>
 </m>
 <m id="m-lnd92255-037-p1s2w4">
 <src.rf>manual</src.rf>
@@ -437,7 +446,10 @@
 <LM>w#w-lnd92255-037-p1s2w29</LM>
 </w.rf>
 <form>Rosse</form>
-<tag lemma="Ross_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag>
+<AM lemma="Ross_;S" src="orig">NNMS2-----A----</AM>
+<AM lemma="Ross_;S_;Y" src="manual" selected="1">NNMS2-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92255-037-p1s2w30">
 <src.rf>manual</src.rf>
@@ -445,7 +457,10 @@
 <LM>w#w-lnd92255-037-p1s2w30</LM>
 </w.rf>
 <form>Perota</form>
-<tag lemma="Perota_;S" src="auto" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Perota_;S" src="auto">NNMS1-----A----</AM>
+<AM lemma="Perot_;S" src="manual" selected="1">NNMS2-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92255-037-p1s2w31">
 <src.rf>manual</src.rf>

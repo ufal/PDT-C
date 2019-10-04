@@ -225,7 +225,10 @@
 <LM>w#w-ln94211-80-p2s1Cw12</LM>
 </w.rf>
 <form>OSN</form>
-<tag lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94211-80-p2s1Cw13">
 <src.rf>manual</src.rf>
@@ -485,7 +488,10 @@
 <LM>w#w-ln94211-80-p3s1w3</LM>
 </w.rf>
 <form>OSN</form>
-<tag lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94211-80-p3s1w4">
 <src.rf>manual</src.rf>
@@ -977,7 +983,10 @@
 <LM>w#w-ln94211-80-p3s3w4</LM>
 </w.rf>
 <form>Henninga</form>
-<tag lemma="Henning_;S" src="auto" selected="1">NNMS2-----A----</tag>
+<tag>
+<AM lemma="Henning_;S" src="auto">NNMS2-----A----</AM>
+<AM lemma="Henning_;S_;Y" src="manual" selected="1">NNMS2-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94211-80-p3s3w5">
 <src.rf>manual</src.rf>
@@ -1285,7 +1294,10 @@
 <LM>w#w-ln94211-80-p4s1w4</LM>
 </w.rf>
 <form>konsenzu</form>
-<tag lemma="konsens" src="orig" selected="1">NNIS2-----A----</tag>
+<tag>
+<AM lemma="konsens" src="orig">NNIS2-----A----</AM>
+<AM lemma="konsenz" src="manual" selected="1">NNIS2-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94211-80-p4s1w5">
 <src.rf>manual</src.rf>
@@ -2794,7 +2806,10 @@
 <LM>w#w-ln94211-80-p8s1w5</LM>
 </w.rf>
 <form>SRN</form>
-<tag lemma="SRN_:B_;G" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="SRN_:B_;G" src="orig">NNFXX-----A---8</AM>
+<AM lemma="SRN-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln94211-80-p8s1w6">
 <src.rf>manual</src.rf>

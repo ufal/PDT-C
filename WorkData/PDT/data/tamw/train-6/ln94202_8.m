@@ -27,7 +27,10 @@
 <LM>w#w-ln94202-8-p1s1w2</LM>
 </w.rf>
 <form>autosalon</form>
-<tag lemma="autosalón" src="orig" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="autosalón" src="orig">NNIS1-----A----</AM>
+<AM lemma="autosalon_,s_^(^DD**autosalón)" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 </s>
 <s id="m-ln94202-8-p2s1A">
@@ -55,7 +58,10 @@
 <LM>w#w-ln94202-8-p2s1Bw1</LM>
 </w.rf>
 <form>Více</form>
-<tag lemma="hodně-2" src="auto" selected="1">Dg-------2A----</tag>
+<tag>
+<AM lemma="hodně-2" src="auto">Dg-------2A----</AM>
+<AM lemma="hodně-3" src="manual" selected="1">Dg-------2A----</AM>
+</tag>
 </m>
 <m id="m-ln94202-8-p2s1Bw2">
 <src.rf>manual</src.rf>
@@ -151,7 +157,10 @@
 <LM>w#w-ln94202-8-p2s1Bw13</LM>
 </w.rf>
 <form>autosalonu</form>
-<tag lemma="autosalón" src="orig" selected="1">NNIS2-----A----</tag>
+<tag>
+<AM lemma="autosalón" src="orig">NNIS2-----A----</AM>
+<AM lemma="autosalon_,s_^(^DD**autosalón)" src="manual" selected="1">NNIS2-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94202-8-p2s1Bw14">
 <src.rf>manual</src.rf>
@@ -307,7 +316,10 @@
 <LM>w#w-ln94202-8-p2s3w5</LM>
 </w.rf>
 <form>autosalon</form>
-<tag lemma="autosalón" src="orig" selected="1">NNIS4-----A----</tag>
+<tag>
+<AM lemma="autosalón" src="orig">NNIS4-----A----</AM>
+<AM lemma="autosalon_,s_^(^DD**autosalón)" src="manual" selected="1">NNIS4-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94202-8-p2s3w6">
 <src.rf>manual</src.rf>
@@ -551,7 +563,7 @@
 <form>Audi</form>
 <tag>
 <AM lemma="Audi-1_;K" src="orig">NNFXX-----A----</AM>
-<AM lemma="Audi_;K_;R_^(vozidlo)" src="auto" recommended="1">NNXXX-----A----</AM>
+<AM lemma="Audi_;K_;R_^(vozidlo)" src="auto" recommended="1" selected="1">NNXXX-----A----</AM>
 <AM lemma="audi_^(vozidlo)" src="auto">NNXXX-----A----</AM>
 </tag>
 </m>
@@ -619,7 +631,7 @@
 <form>Daewoo</form>
 <tag>
 <AM lemma="Daewoo-1_;K" src="orig">NNFXX-----A----</AM>
-<AM lemma="Daewoo_;K_;R_^(vozidlo)" src="auto" recommended="1">NNXXX-----A----</AM>
+<AM lemma="Daewoo_;K_;R_^(vozidlo)" src="auto" recommended="1" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94202-8-p3s1w18">
@@ -668,7 +680,10 @@
 <LM>w#w-ln94202-8-p3s1w23</LM>
 </w.rf>
 <form>General</form>
-<tag lemma="General-1_;K_,t_^(souč._názvů,_např._G._Electric)" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="General-1_;K_,t_^(souč._názvů,_např._G._Electric)" src="orig">AAXXX----1A----</AM>
+<AM lemma="General-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94202-8-p3s1w24">
 <src.rf>manual</src.rf>
@@ -676,7 +691,10 @@
 <LM>w#w-ln94202-8-p3s1w24</LM>
 </w.rf>
 <form>Motors</form>
-<tag lemma="Motors-1_;K_,t_^(souč._názvů,_např._General_M.)" src="orig" selected="1">NNIPX-----A----</tag>
+<tag>
+<AM lemma="Motors-1_;K_,t_^(souč._názvů,_např._General_M.)" src="orig">NNIPX-----A----</AM>
+<AM lemma="Motors-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94202-8-p3s1w25">
 <src.rf>manual</src.rf>
@@ -998,7 +1016,10 @@
 <LM>w#w-ln94202-8-p4s1w10</LM>
 </w.rf>
 <form>autosalonu</form>
-<tag lemma="autosalón" src="orig" selected="1">NNIS2-----A----</tag>
+<tag>
+<AM lemma="autosalón" src="orig">NNIS2-----A----</AM>
+<AM lemma="autosalon_,s_^(^DD**autosalón)" src="manual" selected="1">NNIS2-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94202-8-p4s1w11">
 <src.rf>manual</src.rf>
@@ -1323,7 +1344,7 @@
 <tag>
 <AM lemma="Moskvič-2_;R_^(vozidlo)" src="orig">NNIP4-----A----</AM>
 <AM lemma="moskvič_;R_^(vozidlo)" src="auto">NNIP1-----A----</AM>
-<AM lemma="moskvič_;R_^(vozidlo)" src="auto" recommended="1">NNIP4-----A----</AM>
+<AM lemma="moskvič_;R_^(vozidlo)" src="auto" recommended="1" selected="1">NNIP4-----A----</AM>
 <AM lemma="moskvič_;R_^(vozidlo)" src="auto">NNIP5-----A----</AM>
 <AM lemma="moskvič_;R_^(vozidlo)" src="auto">NNIS2-----A----</AM>
 </tag>

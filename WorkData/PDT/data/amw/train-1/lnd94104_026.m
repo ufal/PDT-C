@@ -80,6 +80,7 @@
 <tag>
 <AM lemma="and-99_:B_;S" src="orig">NNXXX-----A---8</AM>
 <AM lemma="and-1_,t_^(obv._souč._anglických_názvů,_&quot;a&quot;)" src="auto" recommended="1">J^-------------</AM>
+<AM lemma="and-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94104-026-p1s2w4">
@@ -99,6 +100,7 @@
 <tag>
 <AM lemma="pet-99_:B_;S" src="orig">NNXXX-----A---8</AM>
 <AM lemma="pet_,t" src="auto" recommended="1">AAXXX----1A---8</AM>
+<AM lemma="pet-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94104-026-p1s2w6">
@@ -213,7 +215,10 @@
 <LM>w#w-lnd94104-026-p1s3w12</LM>
 </w.rf>
 <form>P</form>
-<tag lemma="P-0_:B_;Y" src="orig" selected="1">NNMXX-----A---8</tag>
+<tag>
+<AM lemma="P-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
+<AM lemma="P-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd94104-026-p1s3w13">
 <src.rf>manual</src.rf>
@@ -230,7 +235,10 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>T</form>
-<tag lemma="T-9_:B_;S" src="orig" selected="1">NNMXX-----A---8</tag>
+<tag>
+<AM lemma="T-9_:B_;S" src="orig">NNMXX-----A---8</AM>
+<AM lemma="T-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd94104-026-p1s3w15">
 <src.rf>manual</src.rf>
@@ -354,7 +362,10 @@
 <LM>w#w-lnd94104-026-p1s4w5</LM>
 </w.rf>
 <form>nedávno</form>
-<tag lemma="nedávno-1" src="auto" selected="1">Db-------------</tag>
+<tag>
+<AM lemma="nedávno-1" src="auto">Db-------------</AM>
+<AM lemma="dávno-1" src="manual" selected="1">Dg-------1N----</AM>
+</tag>
 </m>
 <m id="m-lnd94104-026-p1s4w6">
 <src.rf>manual</src.rf>
@@ -483,7 +494,10 @@
 <LM>w#w-lnd94104-026-p1s4w21</LM>
 </w.rf>
 <form>mm</form>
-<tag lemma="mm-1`milimetr_:B" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="mm-1`milimetr_:B" src="orig">NNIXX-----A---8</AM>
+<AM lemma="milimetr" src="manual" selected="1">NNIXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd94104-026-p1s4w22">
 <src.rf>manual</src.rf>

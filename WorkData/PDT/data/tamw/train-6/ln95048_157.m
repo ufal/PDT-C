@@ -226,6 +226,7 @@
 <tag>
 <AM lemma="Ambiente_;m_,t" src="orig">NNIS1-----A----</AM>
 <AM lemma="Ambiente_;K" src="auto" recommended="1">NNNSX-----A----</AM>
+<AM lemma="Ambiente_;K" src="manual" selected="1">NNNXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95048-157-p2s1Bw19">
@@ -378,7 +379,7 @@
 <AM lemma="neotřelý" src="orig">AAIP2----1A----</AM>
 <AM lemma="otřelý_^(*3ít)" src="auto">AAFP2----1N----</AM>
 <AM lemma="otřelý_^(*3ít)" src="auto">AAFP6----1N----</AM>
-<AM lemma="otřelý_^(*3ít)" src="auto" recommended="1">AAIP2----1N----</AM>
+<AM lemma="otřelý_^(*3ít)" src="auto" recommended="1" selected="1">AAIP2----1N----</AM>
 <AM lemma="otřelý_^(*3ít)" src="auto">AAIP6----1N----</AM>
 <AM lemma="otřelý_^(*3ít)" src="auto">AAMP2----1N----</AM>
 <AM lemma="otřelý_^(*3ít)" src="auto">AAMP6----1N----</AM>
@@ -507,6 +508,7 @@
 <tag>
 <AM lemma="KP-1_:B_;K_^(Karlovarský_Porcelán)" src="orig">NNIXX-----A---8</AM>
 <AM lemma="KP_:B_;K" src="auto" recommended="1">NNXXX-----A---8</AM>
+<AM lemma="KP-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95048-157-p2s3w18">
@@ -786,6 +788,7 @@
 <tag>
 <AM lemma="KP-1_:B_;K_^(Karlovarský_Porcelán)" src="orig">NNIXX-----A---8</AM>
 <AM lemma="KP_:B_;K" src="auto" recommended="1">NNXXX-----A---8</AM>
+<AM lemma="KP-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95048-157-p3s2w5">

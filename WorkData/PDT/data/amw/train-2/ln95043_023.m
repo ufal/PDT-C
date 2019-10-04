@@ -119,7 +119,10 @@
 <LM>w#w-ln95043-023-p2s1Bw5</LM>
 </w.rf>
 <form>power</form>
-<tag lemma="power_,t_^(angl._adj.)" src="auto" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="power_,t_^(angl._adj.)" src="auto">AAXXX----1A----</AM>
+<AM lemma="power-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln95043-023-p2s1Bw6">
 <src.rf>manual</src.rf>
@@ -127,7 +130,10 @@
 <LM>w#w-ln95043-023-p2s1Bw6</LM>
 </w.rf>
 <form>play</form>
-<tag lemma="play-1_,t" src="orig" selected="1">NNFXX-----A----</tag>
+<tag>
+<AM lemma="play-1_,t" src="orig">NNFXX-----A----</AM>
+<AM lemma="play-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 </s>
 <s id="m-ln95043-023-p2s1C">
@@ -567,7 +573,10 @@
 <LM>w#w-ln95043-023-p2s2w21</LM>
 </w.rf>
 <form>agresívního</form>
-<tag lemma="agresívní" src="orig" selected="1">AAIS2----1A----</tag>
+<tag>
+<AM lemma="agresívní" src="orig">AAIS2----1A----</AM>
+<AM lemma="agresívní_,s_^(^DD**agresivní)" src="manual" selected="1">AAIS2----1A----</AM>
+</tag>
 </m>
 <m id="m-ln95043-023-p2s2w22">
 <src.rf>manual</src.rf>
@@ -697,7 +706,10 @@
 <LM>w#w-ln95043-023-p2s3w14</LM>
 </w.rf>
 <form>play</form>
-<tag lemma="play-1_,t" src="orig" selected="1">NNFXX-----A----</tag>
+<tag>
+<AM lemma="play-1_,t" src="orig">NNFXX-----A----</AM>
+<AM lemma="play-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln95043-023-p2s3w15">
 <src.rf>manual</src.rf>
@@ -705,7 +717,10 @@
 <LM>w#w-ln95043-023-p2s3w15</LM>
 </w.rf>
 <form>off</form>
-<tag lemma="off-1_,t_^(angl._&quot;vypnuto&quot;,_hlavně_souč._názvů)" src="orig" selected="1">TT-------------</tag>
+<tag>
+<AM lemma="off-1_,t_^(angl._&quot;vypnuto&quot;,_hlavně_souč._názvů)" src="orig">TT-------------</AM>
+<AM lemma="off-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln95043-023-p2s3w16">
 <src.rf>manual</src.rf>
@@ -833,7 +848,10 @@
 <LM>w#w-ln95043-023-p2s3w31</LM>
 </w.rf>
 <form>power</form>
-<tag lemma="power_,t_^(angl._adj.)" src="auto" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="power_,t_^(angl._adj.)" src="auto">AAXXX----1A----</AM>
+<AM lemma="power-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln95043-023-p2s3w32">
 <src.rf>manual</src.rf>
@@ -841,7 +859,10 @@
 <LM>w#w-ln95043-023-p2s3w32</LM>
 </w.rf>
 <form>play</form>
-<tag lemma="play-1_,t" src="orig" selected="1">NNFXX-----A----</tag>
+<tag>
+<AM lemma="play-1_,t" src="orig">NNFXX-----A----</AM>
+<AM lemma="play-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln95043-023-p2s3w33">
 <src.rf>manual</src.rf>

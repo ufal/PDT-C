@@ -19,7 +19,10 @@
 <LM>w#w-lnd92255-089-p1s1w1</LM>
 </w.rf>
 <form>HARRISON</form>
-<tag lemma="Harrison_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Harrison_;S" src="orig">NNMS1-----A----</AM>
+<AM lemma="Harrison_;Y_;S" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92255-089-p1s1w2">
 <src.rf>manual</src.rf>
@@ -75,7 +78,10 @@
 <LM>w#w-lnd92255-089-p1s1w8</LM>
 </w.rf>
 <form>Indiana</form>
-<tag lemma="Indiana_;G" src="orig" selected="1">NNFS1-----A----</tag>
+<tag>
+<AM lemma="Indiana_;G" src="orig">NNFS1-----A----</AM>
+<AM lemma="Indiana-2_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92255-089-p1s1w9">
 <src.rf>manual</src.rf>
@@ -99,7 +105,10 @@
 <LM>w#w-lnd92255-089-p1s1w11</LM>
 </w.rf>
 <form>sci</form>
-<tag lemma="science-2_:B_,t_^(angl._vědecký)" src="orig" selected="1">AAXXX----1A---8</tag>
+<tag>
+<AM lemma="science-2_:B_,t_^(angl._vědecký)" src="orig">AAXXX----1A---8</AM>
+<AM lemma="sci-1_^(jen_ve_spojení_sci-fi)" src="manual" selected="1">A2--------A----</AM>
+</tag>
 </m>
 <m id="m-lnd92255-089-p1s1w12">
 <src.rf>manual</src.rf>
@@ -119,6 +128,7 @@
 <AM lemma="fiction-1_:B_,t_^(angl._fantastický,_sci-fi)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="fi-1" src="auto">II-------------</AM>
 <AM lemma="fi-2_:B_,t_^(fiction,_angl._fantastický,_sci-fi)" src="auto" recommended="1">NNFXX-----A---8</AM>
+<AM lemma="fi-2_^(jen_ve_spojení_sci-fi)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92255-089-p1s1w14">
@@ -131,6 +141,7 @@
 <AM lemma="blade_;R_,t" src="orig">AAXXX----1A----</AM>
 <AM lemma="Blade_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Blade_;Y" src="auto">NNMS5-----A----</AM>
+<AM lemma="Blade-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-lnd92255-089-p1s1w15">
@@ -142,6 +153,7 @@
 <tag>
 <AM lemma="runner_;R_,t" src="orig">NNMXX-----A----</AM>
 <AM lemma="Runner_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Runner-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-lnd92255-089-p1s1w16">
@@ -241,6 +253,7 @@
 <tag>
 <AM lemma="patriot-2_;R_,t" src="orig">AAXXX----1A----</AM>
 <AM lemma="patriot" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Patriot-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-lnd92255-089-p1s1w28">
@@ -249,7 +262,10 @@
 <LM>w#w-lnd92255-089-p1s1w28</LM>
 </w.rf>
 <form>Games</form>
-<tag lemma="game_;R_,t" src="orig" selected="1">NNFPX-----A----</tag>
+<tag>
+<AM lemma="game_;R_,t" src="orig">NNFPX-----A----</AM>
+<AM lemma="Games-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-lnd92255-089-p1s1w29">
 <src.rf>manual</src.rf>
@@ -461,7 +477,7 @@
 <form>nejen</form>
 <tag>
 <AM lemma="nejen" src="orig">TT-------------</AM>
-<AM lemma="nejen" src="auto" recommended="1">Db-------------</AM>
+<AM lemma="nejen" src="auto" recommended="1" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m-lnd92255-089-p1s2w18">
@@ -576,7 +592,10 @@
 <LM>w#w-lnd92255-089-p1s3w3</LM>
 </w.rf>
 <form>CIA</form>
-<tag lemma="CIA-1_:B_;K_;p_,t_^(Central_Intelligence_Agency,_USA)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="CIA-1_:B_;K_;p_,t_^(Central_Intelligence_Agency,_USA)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="CIA-1_:B_;K_^(Central_Intelligence_Agency,_USA)" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd92255-089-p1s3w4">
 <src.rf>manual</src.rf>
@@ -1831,7 +1850,7 @@
 </w.rf>
 <form>bič</form>
 <tag>
-<AM lemma="bič-99_:B_;S" src="orig">NNXXX-----A---8</AM>
+<AM lemma="bič-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</AM>
 <AM lemma="bič" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="bič" src="auto">NNIS4-----A----</AM>
 </tag>

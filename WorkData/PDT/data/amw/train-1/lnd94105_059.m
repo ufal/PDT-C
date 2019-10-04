@@ -865,7 +865,10 @@
 <LM>w#w-lnd94105-059-p1s7w3</LM>
 </w.rf>
 <form>WWF</form>
-<tag lemma="WWF-1_:B_;K_,t_^(World_Wildlife_Fond)" src="auto" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="WWF-1_:B_;K_,t_^(World_Wildlife_Fond)" src="auto">NNIXX-----A---8</AM>
+<AM lemma="WWF-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd94105-059-p1s7w4">
 <src.rf>manual</src.rf>
@@ -1277,7 +1280,10 @@
 <LM>w#w-lnd94105-059-p1s9w17</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-2" src="auto" selected="1">Dg-------2A----</tag>
+<tag>
+<AM lemma="hodně-2" src="auto">Dg-------2A----</AM>
+<AM lemma="více_^(více_+_2._p.,_více_peněz)" src="manual" selected="1">Ca--2----------</AM>
+</tag>
 </m>
 <m id="m-lnd94105-059-p1s9w18">
 <src.rf>manual</src.rf>

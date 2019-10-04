@@ -423,7 +423,10 @@
 <LM>w#w-ln94201-4-p2s2w26</LM>
 </w.rf>
 <form>UEFA</form>
-<tag lemma="UEFA-1_:B_;K_;w_^(Evr._fotbalová_federace)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="UEFA-1_:B_;K_;w_^(Evr._fotbalová_federace)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="UEFA-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln94201-4-p2s2w27">
 <src.rf>manual</src.rf>
@@ -439,7 +442,10 @@
 <LM>w#w-ln94201-4-p2s2w28</LM>
 </w.rf>
 <form>AIK</form>
-<tag lemma="AIK_:B_;K_;w" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="AIK_:B_;K_;w" src="orig">NNIXX-----A---8</AM>
+<AM lemma="AIK-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln94201-4-p2s2w29">
 <src.rf>manual</src.rf>
@@ -495,7 +501,10 @@
 <LM>w#w-ln94201-4-p2s2w35</LM>
 </w.rf>
 <form>sezoně</form>
-<tag lemma="sezóna" src="orig" selected="1">NNFS6-----A----</tag>
+<tag>
+<AM lemma="sezóna" src="orig">NNFS6-----A----</AM>
+<AM lemma="sezona_,s_^(^DD**sezóna)" src="manual" selected="1">NNFS6-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94201-4-p2s2w36">
 <src.rf>manual</src.rf>

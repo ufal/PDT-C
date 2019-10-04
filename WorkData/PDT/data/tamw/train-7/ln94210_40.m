@@ -51,7 +51,10 @@
 <LM>w#w-ln94210-40-p1s1w5</LM>
 </w.rf>
 <form>ROH</form>
-<tag lemma="ROH-1_:B_;K_^(Revoluční_odborové_hnutí)" src="orig" selected="1">NNNXX-----A---8</tag>
+<tag>
+<AM lemma="ROH-1_:B_;K_^(Revoluční_odborové_hnutí)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="ROH-1_:B_;K_^(Revoluční_odborové_hnutí)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 </s>
 <s id="m-ln94210-40-p2s1A">
@@ -521,7 +524,10 @@
 <LM>w#w-ln94210-40-p2s2w32</LM>
 </w.rf>
 <form>ROH</form>
-<tag lemma="ROH-1_:B_;K_^(Revoluční_odborové_hnutí)" src="orig" selected="1">NNNXX-----A---8</tag>
+<tag>
+<AM lemma="ROH-1_:B_;K_^(Revoluční_odborové_hnutí)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="ROH-1_:B_;K_^(Revoluční_odborové_hnutí)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94210-40-p2s2w33">
 <src.rf>manual</src.rf>
@@ -659,7 +665,10 @@
 <LM>w#w-ln94210-40-p2s3w16</LM>
 </w.rf>
 <form>ROH</form>
-<tag lemma="ROH-1_:B_;K_^(Revoluční_odborové_hnutí)" src="orig" selected="1">NNNXX-----A---8</tag>
+<tag>
+<AM lemma="ROH-1_:B_;K_^(Revoluční_odborové_hnutí)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="ROH-1_:B_;K_^(Revoluční_odborové_hnutí)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94210-40-p2s3w17">
 <src.rf>manual</src.rf>
@@ -861,7 +870,10 @@
 <LM>w#w-ln94210-40-p2s4w24</LM>
 </w.rf>
 <form>ROH</form>
-<tag lemma="ROH-1_:B_;K_^(Revoluční_odborové_hnutí)" src="orig" selected="1">NNNXX-----A---8</tag>
+<tag>
+<AM lemma="ROH-1_:B_;K_^(Revoluční_odborové_hnutí)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="ROH-1_:B_;K_^(Revoluční_odborové_hnutí)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94210-40-p2s4w25">
 <src.rf>manual</src.rf>
@@ -1031,7 +1043,10 @@
 <LM>w#w-ln94210-40-p2s5w20</LM>
 </w.rf>
 <form>ROH</form>
-<tag lemma="ROH-1_:B_;K_^(Revoluční_odborové_hnutí)" src="orig" selected="1">NNNXX-----A---8</tag>
+<tag>
+<AM lemma="ROH-1_:B_;K_^(Revoluční_odborové_hnutí)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="ROH-1_:B_;K_^(Revoluční_odborové_hnutí)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94210-40-p2s5w21">
 <src.rf>manual</src.rf>

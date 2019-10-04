@@ -27,7 +27,10 @@
 <LM>w#w-ln95049-097-p1s1w2</LM>
 </w.rf>
 <form>ODA</form>
-<tag lemma="ODA-2_:B_;K_;p_^(Občanská_demokratická_aliance)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ODA-2_:B_;K_;p_^(Občanská_demokratická_aliance)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ODA-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln95049-097-p1s1w3">
 <src.rf>manual</src.rf>
@@ -99,7 +102,10 @@
 <LM>w#w-ln95049-097-p1s1w11</LM>
 </w.rf>
 <form>EU</form>
-<tag lemma="EU-1_:B_;K_;p_^(Evropská_Unie)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="EU-1_:B_;K_;p_^(Evropská_Unie)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="EU-1_:B_;K_^(Evropská_Unie)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 </s>
 <s id="m-ln95049-097-p2s1A">
@@ -151,7 +157,10 @@
 <LM>w#w-ln95049-097-p2s1Bw2</LM>
 </w.rf>
 <form>ČR</form>
-<tag lemma="ČR-1_:B_;G_^(Česká_republika)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95049-097-p2s1Bw3">
 <src.rf>manual</src.rf>
@@ -287,7 +296,10 @@
 <LM>w#w-ln95049-097-p2s1Bw19</LM>
 </w.rf>
 <form>ODA</form>
-<tag lemma="ODA-2_:B_;K_;p_^(Občanská_demokratická_aliance)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ODA-2_:B_;K_;p_^(Občanská_demokratická_aliance)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ODA-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln95049-097-p2s1Bw20">
 <src.rf>manual</src.rf>
@@ -359,7 +371,10 @@
 <LM>w#w-ln95049-097-p2s1Bw28</LM>
 </w.rf>
 <form>ÖVP</form>
-<tag lemma="ÖVP_:B_;K_;p_,t_^(Rakouská_lidová_strana)" src="auto" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ÖVP_:B_;K_;p_,t_^(Rakouská_lidová_strana)" src="auto">NNFXX-----A---8</AM>
+<AM lemma="ÖVP-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln95049-097-p2s1Bw29">
 <src.rf>manual</src.rf>
@@ -417,7 +432,10 @@
 <LM>w#w-ln95049-097-p3s1w3</LM>
 </w.rf>
 <form>ODA</form>
-<tag lemma="ODA-2_:B_;K_;p_^(Občanská_demokratická_aliance)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ODA-2_:B_;K_;p_^(Občanská_demokratická_aliance)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ODA-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln95049-097-p3s1w4">
 <src.rf>manual</src.rf>
@@ -707,7 +725,10 @@
 <LM>w#w-ln95049-097-p3s2w5</LM>
 </w.rf>
 <form>ODA</form>
-<tag lemma="ODA-2_:B_;K_;p_^(Občanská_demokratická_aliance)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ODA-2_:B_;K_;p_^(Občanská_demokratická_aliance)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ODA-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln95049-097-p3s2w6">
 <src.rf>manual</src.rf>
@@ -795,7 +816,10 @@
 <LM>w#w-ln95049-097-p3s2w16</LM>
 </w.rf>
 <form>CDU</form>
-<tag lemma="CDU-1_:B_;K_;p_,t_^(Christianisch-Demokratische_Union)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="CDU-1_:B_;K_;p_,t_^(Christianisch-Demokratische_Union)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="CDU-1_:B_;K_^(Christianisch-Demokratische_Union)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95049-097-p3s2w17">
 <src.rf>manual</src.rf>
@@ -837,7 +861,10 @@
 <LM>w#w-ln95049-097-p4s1w4</LM>
 </w.rf>
 <form>ÖVP</form>
-<tag lemma="ÖVP_:B_;K_;p_,t_^(Rakouská_lidová_strana)" src="auto" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ÖVP_:B_;K_;p_,t_^(Rakouská_lidová_strana)" src="auto">NNFXX-----A---8</AM>
+<AM lemma="ÖVP-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln95049-097-p4s1w5">
 <src.rf>manual</src.rf>
@@ -1005,7 +1032,10 @@
 <LM>w#w-ln95049-097-p4s1w26</LM>
 </w.rf>
 <form>EU</form>
-<tag lemma="EU-1_:B_;K_;p_^(Evropská_Unie)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="EU-1_:B_;K_;p_^(Evropská_Unie)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="EU-1_:B_;K_^(Evropská_Unie)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95049-097-p4s1w27">
 <src.rf>manual</src.rf>
@@ -1129,7 +1159,10 @@
 <LM>w#w-ln95049-097-p4s3w4</LM>
 </w.rf>
 <form>EU</form>
-<tag lemma="EU-1_:B_;K_;p_^(Evropská_Unie)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="EU-1_:B_;K_;p_^(Evropská_Unie)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="EU-1_:B_;K_^(Evropská_Unie)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95049-097-p4s3w5">
 <src.rf>manual</src.rf>
@@ -1201,7 +1234,10 @@
 <LM>w#w-ln95049-097-p4s3w13</LM>
 </w.rf>
 <form>NATO</form>
-<tag lemma="NATO_:B_;K_^(North_Atlantic_Treaty_Organization)" src="auto" selected="1">NNNXX-----A---8</tag>
+<tag>
+<AM lemma="NATO_:B_;K_^(North_Atlantic_Treaty_Organization)" src="auto">NNNXX-----A---8</AM>
+<AM lemma="NATO_:B_;K_^(North_Atlantic_Treaty_Organization)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95049-097-p4s3w14">
 <src.rf>manual</src.rf>
@@ -1259,7 +1295,10 @@
 <LM>w#w-ln95049-097-p4s4w3</LM>
 </w.rf>
 <form>ODA</form>
-<tag lemma="ODA-2_:B_;K_;p_^(Občanská_demokratická_aliance)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ODA-2_:B_;K_;p_^(Občanská_demokratická_aliance)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ODA-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln95049-097-p4s4w4">
 <src.rf>manual</src.rf>
@@ -1339,7 +1378,10 @@
 <LM>w#w-ln95049-097-p4s4w13</LM>
 </w.rf>
 <form>mj</form>
-<tag lemma="mj-1_:B_^(mimo_jiné)" src="orig" selected="1">Db------------8</tag>
+<tag>
+<AM lemma="mj-1_:B_^(mimo_jiné)" src="orig">Db------------8</AM>
+<AM lemma="mj-1_:B_^(mimo_jiné)" src="manual" selected="1">Db-------------</AM>
+</tag>
 </m>
 <m id="m-ln95049-097-p4s4w14">
 <src.rf>manual</src.rf>
@@ -1427,7 +1469,10 @@
 <LM>w#w-ln95049-097-p4s4w24</LM>
 </w.rf>
 <form>EU</form>
-<tag lemma="EU-1_:B_;K_;p_^(Evropská_Unie)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="EU-1_:B_;K_;p_^(Evropská_Unie)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="EU-1_:B_;K_^(Evropská_Unie)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95049-097-p4s4w25">
 <src.rf>manual</src.rf>

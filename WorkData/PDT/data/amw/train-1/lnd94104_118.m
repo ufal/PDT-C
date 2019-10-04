@@ -35,7 +35,10 @@
 <LM>w#w-lnd94104-118-p1s1w3</LM>
 </w.rf>
 <form>vede</form>
-<tag lemma="vést" src="auto" selected="1">VB-S---3P-AA---</tag>
+<tag>
+<AM lemma="vést" src="auto">VB-S---3P-AA---</AM>
+<AM lemma="vést_:T" src="manual" selected="1">VB-S---3P-AA---</AM>
+</tag>
 </m>
 </s>
 <s id="m-lnd94104-118-p1s2">
@@ -66,6 +69,7 @@
 <AM lemma="mela" src="auto" recommended="1">NNFP2-----A----</AM>
 <AM lemma="mlít" src="auto">Vi-S---2--A----</AM>
 <AM lemma="mlít" src="auto">Vi-S---3--A---4</AM>
+<AM lemma="mel-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94104-118-p1s2w4">
@@ -292,7 +296,10 @@
 <LM>w#w-lnd94104-118-p1s3w26</LM>
 </w.rf>
 <form>Kaiserslauternem</form>
-<tag lemma="Kaiserslautern" src="orig" selected="1">NNIS7-----A----</tag>
+<tag>
+<AM lemma="Kaiserslautern" src="orig">NNIS7-----A----</AM>
+<AM lemma="Kaiserslautern_;K" src="manual" selected="1">NNIS7-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd94104-118-p1s3w27">
 <src.rf>manual</src.rf>
@@ -514,7 +521,7 @@
 <AM lemma="Dortmund_;G" src="orig">NNIS6-----A----</AM>
 <AM lemma="Dortmund_;G" src="auto">NNIS2-----A----</AM>
 <AM lemma="Dortmund_;G" src="auto">NNIS3-----A----</AM>
-<AM lemma="Dortmund_;G" src="auto" recommended="1">NNIS6-----A---1</AM>
+<AM lemma="Dortmund_;G" src="auto" recommended="1" selected="1">NNIS6-----A---1</AM>
 </tag>
 </m>
 <m id="m-lnd94104-118-p1s4w27">

@@ -57,6 +57,7 @@
 <AM lemma="surrealismus" src="orig">NNIS1-----A----</AM>
 <AM lemma="surrealizmus" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="surrealizmus" src="auto">NNIS4-----A----</AM>
+<AM lemma="surrealismus_,s_^(^DD**surrealizmus)" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95042-020-p2s1Aw2">
@@ -171,7 +172,10 @@
 <LM>w#w-ln95042-020-p2s1Bw5</LM>
 </w.rf>
 <form>vydání</form>
-<tag lemma="vydání-1_^(emitovat:_cenné_papíry,_knihu,_zvuk,...)_(*5at-1)" src="orig" selected="1">NNNS6-----A----</tag>
+<tag>
+<AM lemma="vydání-1_^(emitovat:_cenné_papíry,_knihu,_zvuk,...)_(*5at-1)" src="orig">NNNS6-----A----</AM>
+<AM lemma="vydání_^(*3at)" src="manual" selected="1">NNNS6-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95042-020-p2s1Bw6">
 <src.rf>manual</src.rf>
@@ -259,7 +263,10 @@
 <LM>w#w-ln95042-020-p2s1Bw16</LM>
 </w.rf>
 <form>Maurice</form>
-<tag lemma="Mauric_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag>
+<AM lemma="Mauric_;S" src="orig">NNMS2-----A----</AM>
+<AM lemma="Maurice_;S_;Y" src="manual" selected="1">NNMXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95042-020-p2s1Bw17">
 <src.rf>manual</src.rf>
@@ -288,6 +295,7 @@
 <AM lemma="surrealizmus" src="auto" recommended="1">NNIS2-----A----</AM>
 <AM lemma="surrealizmus" src="auto">NNIS3-----A----</AM>
 <AM lemma="surrealizmus" src="auto">NNIS6-----A----</AM>
+<AM lemma="surrealismus_,s_^(^DD**surrealizmus)" src="manual" selected="1">NNIS2-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95042-020-p2s1Bw20">
@@ -513,6 +521,7 @@
 <AM lemma="surrealizmus" src="auto">NNIS2-----A----</AM>
 <AM lemma="surrealizmus" src="auto" recommended="1">NNIS3-----A----</AM>
 <AM lemma="surrealizmus" src="auto">NNIS6-----A----</AM>
+<AM lemma="surrealismus_,s_^(^DD**surrealizmus)" src="manual" selected="1">NNIS3-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95042-020-p2s2Bw9">
@@ -830,7 +839,7 @@
 </w.rf>
 <form>Teigovi</form>
 <tag>
-<AM lemma="Teige_;S" src="orig">NNMS6-----A----</AM>
+<AM lemma="Teige_;S" src="orig" selected="1">NNMS6-----A----</AM>
 <AM lemma="Teig_;S" src="auto">NNMS3-----A----</AM>
 <AM lemma="Teig_;S" src="auto" recommended="1">NNMS6-----A----</AM>
 <AM lemma="Teigův_;S_^(*2e)" src="auto">AUMP1M---------</AM>
@@ -1011,6 +1020,7 @@
 <AM lemma="surrealismus" src="orig">NNIS1-----A----</AM>
 <AM lemma="surrealizmus" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="surrealizmus" src="auto">NNIS4-----A----</AM>
+<AM lemma="surrealismus_,s_^(^DD**surrealizmus)" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95042-020-p3s2w21">
@@ -1281,7 +1291,10 @@
 <LM>w#w-ln95042-020-p3s5w3</LM>
 </w.rf>
 <form>prostřednictvím</form>
-<tag lemma="prostřednictví" src="orig" selected="1">NNNS7-----A----</tag>
+<tag>
+<AM lemma="prostřednictví" src="orig">NNNS7-----A----</AM>
+<AM lemma="prostřednictvím" src="manual" selected="1">RR--2----------</AM>
+</tag>
 </m>
 <m id="m-ln95042-020-p3s5w4">
 <src.rf>manual</src.rf>
@@ -1335,6 +1348,7 @@
 <AM lemma="surrealismus" src="orig">NNIS1-----A----</AM>
 <AM lemma="surrealizmus" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="surrealizmus" src="auto">NNIS4-----A----</AM>
+<AM lemma="surrealismus_,s_^(^DD**surrealizmus)" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95042-020-p3s6w5">
@@ -1672,6 +1686,7 @@
 <AM lemma="surrealismus" src="orig">NNIS1-----A----</AM>
 <AM lemma="surrealizmus" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="surrealizmus" src="auto">NNIS4-----A----</AM>
+<AM lemma="surrealismus_,s_^(^DD**surrealizmus)" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95042-020-p3s8w3">
@@ -1752,7 +1767,10 @@
 <LM>w#w-ln95042-020-p3s8w12</LM>
 </w.rf>
 <form>nadrealismus</form>
-<tag lemma="nadrealizmus" src="orig" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="nadrealizmus" src="orig">NNIS1-----A----</AM>
+<AM lemma="nadrealismus_,s_^(^DD**nadrealizmus)" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95042-020-p3s8w13">
 <src.rf>manual</src.rf>
@@ -1930,6 +1948,7 @@
 <AM lemma="surrealismus" src="orig">NNIS1-----A----</AM>
 <AM lemma="surrealizmus" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="surrealizmus" src="auto">NNIS4-----A----</AM>
+<AM lemma="surrealismus_,s_^(^DD**surrealizmus)" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95042-020-p4s1w2">
@@ -1997,7 +2016,7 @@
 <tag>
 <AM lemma="tedy" src="orig">Db-------------</AM>
 <AM lemma="tedy-1" src="auto">TT-------------</AM>
-<AM lemma="tedy-2" src="auto" recommended="1">J^-------------</AM>
+<AM lemma="tedy-2" src="auto" recommended="1" selected="1">J^-------------</AM>
 </tag>
 </m>
 <m id="m-ln95042-020-p4s1w10">
@@ -2166,6 +2185,7 @@
 <AM lemma="surrealismus" src="orig">NNIS1-----A----</AM>
 <AM lemma="surrealizmus" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="surrealizmus" src="auto">NNIS4-----A----</AM>
+<AM lemma="surrealismus_,s_^(^DD**surrealizmus)" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95042-020-p5s1w6">
@@ -2476,7 +2496,10 @@
 <LM>w#w-ln95042-020-p5s4w15</LM>
 </w.rf>
 <form>očích</form>
-<tag lemma="oko" src="orig" selected="1">NNFP6-----A----</tag>
+<tag>
+<AM lemma="oko" src="orig">NNFP6-----A----</AM>
+<AM lemma="oko-2" src="manual" selected="1">NNFP6-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95042-020-p5s4w16">
 <src.rf>manual</src.rf>
@@ -2846,7 +2869,7 @@
 <AM lemma="taka-1_;L" src="auto">NNFP4-----A----</AM>
 <AM lemma="taka-1_;L" src="auto">NNFP5-----A----</AM>
 <AM lemma="taka-1_;L" src="auto">NNFS2-----A----</AM>
-<AM lemma="taky" src="auto" recommended="1">Db-------------</AM>
+<AM lemma="taky" src="auto" recommended="1" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m-ln95042-020-p5s6w17">
@@ -2935,7 +2958,10 @@
 <LM>w#w-ln95042-020-p5s6w27</LM>
 </w.rf>
 <form>tragédie</form>
-<tag lemma="tragedie" src="orig" selected="1">NNFP1-----A----</tag>
+<tag>
+<AM lemma="tragedie" src="orig">NNFP1-----A----</AM>
+<AM lemma="tragédie" src="manual" selected="1">NNFP1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95042-020-p5s6w28">
 <src.rf>manual</src.rf>
@@ -3119,6 +3145,7 @@
 <AM lemma="surrealismus" src="orig">NNIS1-----A----</AM>
 <AM lemma="surrealizmus" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="surrealizmus" src="auto">NNIS4-----A----</AM>
+<AM lemma="surrealismus_,s_^(^DD**surrealizmus)" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95042-020-p5s8w6">
@@ -3185,7 +3212,10 @@
 <LM>w#w-ln95042-020-p5s9w5</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-2" src="auto" selected="1">Dg-------2A----</tag>
+<tag>
+<AM lemma="hodně-2" src="auto">Dg-------2A----</AM>
+<AM lemma="hodně-3" src="manual" selected="1">Dg-------2A----</AM>
+</tag>
 </m>
 <m id="m-ln95042-020-p5s9w6">
 <src.rf>manual</src.rf>
@@ -3393,7 +3423,10 @@
 <LM>w#w-ln95042-020-p5s9w31</LM>
 </w.rf>
 <form>tzv</form>
-<tag lemma="takzvaný_:B" src="orig" selected="1">AAXXX----1A---8</tag>
+<tag>
+<AM lemma="takzvaný_:B" src="orig">AAXXX----1A---8</AM>
+<AM lemma="takzvaný" src="manual" selected="1">AAXXX----1A---8</AM>
+</tag>
 </m>
 <m id="m-ln95042-020-p5s9w32">
 <src.rf>manual</src.rf>
@@ -3439,7 +3472,7 @@
 <AM lemma="nepopiratelný" src="orig">AANP1----1A----</AM>
 <AM lemma="popiratelný_^(*8írat)" src="auto">AAFS1----1N----</AM>
 <AM lemma="popiratelný_^(*8írat)" src="auto">AAFS5----1N----</AM>
-<AM lemma="popiratelný_^(*8írat)" src="auto" recommended="1">AANP1----1N----</AM>
+<AM lemma="popiratelný_^(*8írat)" src="auto" recommended="1" selected="1">AANP1----1N----</AM>
 <AM lemma="popiratelný_^(*8írat)" src="auto">AANP4----1N----</AM>
 <AM lemma="popiratelný_^(*8írat)" src="auto">AANP5----1N----</AM>
 </tag>
@@ -3511,6 +3544,7 @@
 <AM lemma="surrealizmus" src="auto" recommended="1">NNIS2-----A----</AM>
 <AM lemma="surrealizmus" src="auto">NNIS3-----A----</AM>
 <AM lemma="surrealizmus" src="auto">NNIS6-----A----</AM>
+<AM lemma="surrealismus_,s_^(^DD**surrealizmus)" src="manual" selected="1">NNIS2-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95042-020-p5s10w11">
@@ -3861,7 +3895,10 @@
 <LM>w#w-ln95042-020-p7s2w11</LM>
 </w.rf>
 <form>Odeon</form>
-<tag lemma="Odeon_;Y" src="orig" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="Odeon_;Y" src="orig">NNIS1-----A----</AM>
+<AM lemma="Odeon_;K_;Y" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95042-020-p7s2w12">
 <src.rf>manual</src.rf>
@@ -4174,6 +4211,7 @@
 <AM lemma="surrealizmus" src="auto" recommended="1">NNIS2-----A----</AM>
 <AM lemma="surrealizmus" src="auto">NNIS3-----A----</AM>
 <AM lemma="surrealizmus" src="auto">NNIS6-----A----</AM>
+<AM lemma="surrealismus_,s_^(^DD**surrealizmus)" src="manual" selected="1">NNIS2-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95042-020-p7s4w18">
@@ -4233,7 +4271,7 @@
 <tag>
 <AM lemma="tedy" src="orig">Db-------------</AM>
 <AM lemma="tedy-1" src="auto">TT-------------</AM>
-<AM lemma="tedy-2" src="auto" recommended="1">J^-------------</AM>
+<AM lemma="tedy-2" src="auto" recommended="1" selected="1">J^-------------</AM>
 </tag>
 </m>
 <m id="m-ln95042-020-p7s4w25">
@@ -4332,7 +4370,10 @@
 <LM>w#w-ln95042-020-p8s1w10</LM>
 </w.rf>
 <form>vydání</form>
-<tag lemma="vydání-1_^(emitovat:_cenné_papíry,_knihu,_zvuk,...)_(*5at-1)" src="orig" selected="1">NNNS6-----A----</tag>
+<tag>
+<AM lemma="vydání-1_^(emitovat:_cenné_papíry,_knihu,_zvuk,...)_(*5at-1)" src="orig">NNNS6-----A----</AM>
+<AM lemma="vydání_^(*3at)" src="manual" selected="1">NNNS6-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95042-020-p8s1w11">
 <src.rf>manual</src.rf>
@@ -4598,7 +4639,10 @@
 <LM>w#w-ln95042-020-p9s1w32</LM>
 </w.rf>
 <form>strany</form>
-<tag lemma="strana-2_^(politická)" src="orig" selected="1">NNFS2-----A----</tag>
+<tag>
+<AM lemma="strana-2_^(politická)" src="orig">NNFS2-----A----</AM>
+<AM lemma="strana" src="manual" selected="1">NNFS2-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95042-020-p9s1w33">
 <src.rf>manual</src.rf>
@@ -4614,7 +4658,10 @@
 <LM>w#w-ln95042-020-p9s1w34</LM>
 </w.rf>
 <form>zejména</form>
-<tag lemma="zejména-1" src="auto" selected="1">Db-------------</tag>
+<tag>
+<AM lemma="zejména-1" src="auto">Db-------------</AM>
+<AM lemma="zejména-2" src="manual" selected="1">TT-------------</AM>
+</tag>
 </m>
 <m id="m-ln95042-020-p9s1w35">
 <src.rf>manual</src.rf>
@@ -4755,6 +4802,7 @@
 <tag>
 <AM lemma="surrealismus" src="orig">NNIS7-----A----</AM>
 <AM lemma="surrealizmus" src="auto" recommended="1">NNIS7-----A----</AM>
+<AM lemma="surrealismus_,s_^(^DD**surrealizmus)" src="manual" selected="1">NNIS7-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95042-020-p10s1w13">
@@ -4773,7 +4821,10 @@
 <LM>w#w-ln95042-020-p10s2w1</LM>
 </w.rf>
 <form>Spíše</form>
-<tag lemma="spíše" src="orig" selected="1">Dg-------2A---1</tag>
+<tag>
+<AM lemma="spíše" src="orig">Dg-------2A---1</AM>
+<AM lemma="spíš" src="manual" selected="1">TT------------1</AM>
+</tag>
 </m>
 <m id="m-ln95042-020-p10s2w2">
 <src.rf>manual</src.rf>
@@ -4959,7 +5010,10 @@
 <LM>w#w-ln95042-020-p11s1w11</LM>
 </w.rf>
 <form>li</form>
-<tag lemma="li-1" src="auto" selected="1">TT-------------</tag>
+<tag>
+<AM lemma="li-1" src="auto">TT-------------</AM>
+<AM lemma="li-2" src="manual" selected="1">J,-------------</AM>
+</tag>
 </m>
 <m id="m-ln95042-020-p11s1w12">
 <src.rf>manual</src.rf>
@@ -5190,7 +5244,7 @@
 <tag>
 <AM lemma="tedy" src="orig">Db-------------</AM>
 <AM lemma="tedy-1" src="auto">TT-------------</AM>
-<AM lemma="tedy-2" src="auto" recommended="1">J^-------------</AM>
+<AM lemma="tedy-2" src="auto" recommended="1" selected="1">J^-------------</AM>
 </tag>
 </m>
 <m id="m-ln95042-020-p11s3w13">
@@ -5257,7 +5311,7 @@
 <form>nikoliv</form>
 <tag>
 <AM lemma="nikoliv" src="orig">Db-------------</AM>
-<AM lemma="nikoli" src="auto" recommended="1">TT------------1</AM>
+<AM lemma="nikoli" src="auto" recommended="1" selected="1">TT------------1</AM>
 </tag>
 </m>
 <m id="m-ln95042-020-p11s3w21">
@@ -5303,7 +5357,7 @@
 <tag>
 <AM lemma="tady" src="orig">Db------------1</AM>
 <AM lemma="ten" src="auto">PDFS4----------</AM>
-<AM lemma="tu" src="auto" recommended="1">Db-------------</AM>
+<AM lemma="tu" src="auto" recommended="1" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m-ln95042-020-p11s4w4">
@@ -5315,7 +5369,7 @@
 <tag>
 <AM lemma="tedy" src="orig">Db-------------</AM>
 <AM lemma="tedy-1" src="auto">TT-------------</AM>
-<AM lemma="tedy-2" src="auto" recommended="1">J^-------------</AM>
+<AM lemma="tedy-2" src="auto" recommended="1" selected="1">J^-------------</AM>
 </tag>
 </m>
 <m id="m-ln95042-020-p11s4w5">
@@ -5409,7 +5463,7 @@
 <tag>
 <AM lemma="jakkoliv" src="orig">Db------------1</AM>
 <AM lemma="jakkoli-1" src="auto">Db-------------</AM>
-<AM lemma="jakkoli-2" src="auto" recommended="1">J,-------------</AM>
+<AM lemma="jakkoli-2" src="auto" recommended="1" selected="1">J,-------------</AM>
 </tag>
 </m>
 <m id="m-ln95042-020-p11s5w9">
@@ -5614,7 +5668,10 @@
 <LM>w#w-ln95042-020-p11s7w10</LM>
 </w.rf>
 <form>černá</form>
-<tag lemma="černý" src="auto" selected="1">AAFS1----1A----</tag>
+<tag>
+<AM lemma="černý" src="auto">AAFS1----1A----</AM>
+<AM lemma="černý_;o" src="manual" selected="1">AAFS1----1A----</AM>
+</tag>
 </m>
 <m id="m-ln95042-020-p11s7w11">
 <src.rf>manual</src.rf>
@@ -5848,6 +5905,7 @@
 <AM lemma="surrealismus" src="orig">NNIS1-----A----</AM>
 <AM lemma="surrealizmus" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="surrealizmus" src="auto">NNIS4-----A----</AM>
+<AM lemma="surrealismus_,s_^(^DD**surrealizmus)" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95042-020-p13s2w8">
@@ -5864,7 +5922,10 @@
 <LM>w#w-ln95042-020-p13s2w9</LM>
 </w.rf>
 <form>ani</form>
-<tag lemma="ani-1" src="auto" selected="1">J^-------------</tag>
+<tag>
+<AM lemma="ani-1" src="auto">J^-------------</AM>
+<AM lemma="ani-2" src="manual" selected="1">TT-------------</AM>
+</tag>
 </m>
 <m id="m-ln95042-020-p13s2w10">
 <src.rf>manual</src.rf>
@@ -5880,7 +5941,10 @@
 <LM>w#w-ln95042-020-p13s2w11</LM>
 </w.rf>
 <form>jen</form>
-<tag lemma="jen-1" src="auto" selected="1">TT-------------</tag>
+<tag>
+<AM lemma="jen-1" src="auto">TT-------------</AM>
+<AM lemma="jen-4_^(pouze)" src="manual" selected="1">Db-------------</AM>
+</tag>
 </m>
 <m id="m-ln95042-020-p13s2w12">
 <src.rf>manual</src.rf>
@@ -6350,7 +6414,10 @@
 <LM>w#w-ln95042-020-p13s5w10</LM>
 </w.rf>
 <form>jenom</form>
-<tag lemma="jenom-1" src="auto" selected="1">TT-------------</tag>
+<tag>
+<AM lemma="jenom-1" src="auto">TT-------------</AM>
+<AM lemma="jenom-2_^(pouze)" src="manual" selected="1">Db-------------</AM>
+</tag>
 </m>
 <m id="m-ln95042-020-p13s5w11">
 <src.rf>manual</src.rf>
@@ -6400,7 +6467,10 @@
 <LM>w#w-ln95042-020-p13s6w4</LM>
 </w.rf>
 <form>víc</form>
-<tag lemma="hodně-2" src="auto" selected="1">Dg-------2A---1</tag>
+<tag>
+<AM lemma="hodně-2" src="auto">Dg-------2A---1</AM>
+<AM lemma="hodně-3" src="manual" selected="1">Dg-------2A---1</AM>
+</tag>
 </m>
 <m id="m-ln95042-020-p13s6w5">
 <src.rf>manual</src.rf>
@@ -6444,6 +6514,7 @@
 <AM lemma="surrealismus" src="orig">NNIS4-----A----</AM>
 <AM lemma="surrealizmus" src="auto">NNIS1-----A----</AM>
 <AM lemma="surrealizmus" src="auto" recommended="1">NNIS4-----A----</AM>
+<AM lemma="surrealismus_,s_^(^DD**surrealizmus)" src="manual" selected="1">NNIS4-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95042-020-p13s6w10">
@@ -6914,7 +6985,10 @@
 <LM>w#w-ln95042-020-p13s9w14</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-2" src="auto" selected="1">Dg-------2A----</tag>
+<tag>
+<AM lemma="hodně-2" src="auto">Dg-------2A----</AM>
+<AM lemma="hodně-3" src="manual" selected="1">Dg-------2A----</AM>
+</tag>
 </m>
 <m id="m-ln95042-020-p13s9w15">
 <src.rf>manual</src.rf>
@@ -6930,7 +7004,10 @@
 <LM>w#w-ln95042-020-p13s9w16</LM>
 </w.rf>
 <form>hermetismu</form>
-<tag lemma="hermetizmus" src="orig" selected="1">NNIS3-----A----</tag>
+<tag>
+<AM lemma="hermetizmus" src="orig">NNIS3-----A----</AM>
+<AM lemma="hermetismus_,s_^(^DD**hermetizmus)" src="manual" selected="1">NNIS3-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95042-020-p13s9w17">
 <src.rf>manual</src.rf>
@@ -7078,7 +7155,10 @@
 <LM>w#w-ln95042-020-p13s11w6</LM>
 </w.rf>
 <form>tzv</form>
-<tag lemma="takzvaný_:B" src="orig" selected="1">AAXXX----1A---8</tag>
+<tag>
+<AM lemma="takzvaný_:B" src="orig">AAXXX----1A---8</AM>
+<AM lemma="takzvaný" src="manual" selected="1">AAXXX----1A---8</AM>
+</tag>
 </m>
 <m id="m-ln95042-020-p13s11w7">
 <src.rf>manual</src.rf>
@@ -7101,6 +7181,8 @@
 <AM lemma="l-8_:B_^(ost._zkratka)" src="auto">XX------------8</AM>
 <AM lemma="letopočet_:B_^(jen_př._n._l.,_před_naším_letopočtem)" src="auto">NNIS7-----A---8</AM>
 <AM lemma="litr_:B" src="auto" recommended="1">NNIXX-----A---8</AM>
+<AM lemma="l-1_,t_^(člen)" src="manual">AAXXX----1A----</AM>
+<AM lemma="l-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-ln95042-020-p13s11w9">
@@ -7121,6 +7203,8 @@
 <AM lemma="art-2_,t_^(umění)" src="orig">NNNXX-----A----</AM>
 <AM lemma="art" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="art" src="auto">NNIS4-----A----</AM>
+<AM lemma="art_,t" src="manual">NNXXX-----A----</AM>
+<AM lemma="art-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-ln95042-020-p13s11w11">
@@ -7133,6 +7217,7 @@
 <AM lemma="brut-2_,t" src="orig">AAXXX----1A----</AM>
 <AM lemma="brut" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="brut" src="auto">NNIS4-----A----</AM>
+<AM lemma="brut-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-ln95042-020-p13s11w12">
@@ -7299,6 +7384,7 @@
 <AM lemma="surrealismus" src="orig">NNIS1-----A----</AM>
 <AM lemma="surrealizmus" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="surrealizmus" src="auto">NNIS4-----A----</AM>
+<AM lemma="surrealismus_,s_^(^DD**surrealizmus)" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95042-020-p13s12w2">
@@ -7339,7 +7425,10 @@
 <LM>w#w-ln95042-020-p13s12w6</LM>
 </w.rf>
 <form>akademismu</form>
-<tag lemma="akademismus" src="orig" selected="1">NNIS3-----A----</tag>
+<tag>
+<AM lemma="akademismus" src="orig">NNIS3-----A----</AM>
+<AM lemma="akademismus_,s_^(^DD**akademizmus)" src="manual" selected="1">NNIS3-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95042-020-p13s12w7">
 <src.rf>manual</src.rf>
@@ -7358,7 +7447,7 @@
 <tag>
 <AM lemma="tedy" src="orig">Db-------------</AM>
 <AM lemma="tedy-1" src="auto">TT-------------</AM>
-<AM lemma="tedy-2" src="auto" recommended="1">J^-------------</AM>
+<AM lemma="tedy-2" src="auto" recommended="1" selected="1">J^-------------</AM>
 </tag>
 </m>
 <m id="m-ln95042-020-p13s12w9">
@@ -7399,7 +7488,10 @@
 <LM>w#w-ln95042-020-p13s12w13</LM>
 </w.rf>
 <form>racionalismu</form>
-<tag lemma="racionalismus" src="orig" selected="1">NNIS3-----A----</tag>
+<tag>
+<AM lemma="racionalismus" src="orig">NNIS3-----A----</AM>
+<AM lemma="racionalismus_,s_^(^DD**racionalizmus)" src="manual" selected="1">NNIS3-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95042-020-p13s12w14">
 <src.rf>manual</src.rf>
@@ -7561,7 +7653,10 @@
 <LM>w#w-ln95042-020-p13s13w15</LM>
 </w.rf>
 <form>jen</form>
-<tag lemma="jen-1" src="auto" selected="1">TT-------------</tag>
+<tag>
+<AM lemma="jen-1" src="auto">TT-------------</AM>
+<AM lemma="jen-4_^(pouze)" src="manual" selected="1">Db-------------</AM>
+</tag>
 </m>
 <m id="m-ln95042-020-p13s13w16">
 <src.rf>manual</src.rf>
@@ -7648,6 +7743,7 @@
 <AM lemma="surrealizmus" src="auto" recommended="1">NNIS2-----A----</AM>
 <AM lemma="surrealizmus" src="auto">NNIS3-----A----</AM>
 <AM lemma="surrealizmus" src="auto">NNIS6-----A----</AM>
+<AM lemma="surrealismus_,s_^(^DD**surrealizmus)" src="manual" selected="1">NNIS2-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95042-020-p14s1w8">
@@ -7699,7 +7795,7 @@
 </w.rf>
 <form>Teigovi</form>
 <tag>
-<AM lemma="Teige_;S" src="orig">NNMS6-----A----</AM>
+<AM lemma="Teige_;S" src="orig" selected="1">NNMS6-----A----</AM>
 <AM lemma="Teig_;S" src="auto">NNMS3-----A----</AM>
 <AM lemma="Teig_;S" src="auto" recommended="1">NNMS6-----A----</AM>
 <AM lemma="Teigův_;S_^(*2e)" src="auto">AUMP1M---------</AM>
@@ -7897,6 +7993,7 @@
 <AM lemma="surrealizmus" src="auto" recommended="1">NNIS2-----A----</AM>
 <AM lemma="surrealizmus" src="auto">NNIS3-----A----</AM>
 <AM lemma="surrealizmus" src="auto">NNIS6-----A----</AM>
+<AM lemma="surrealismus_,s_^(^DD**surrealizmus)" src="manual" selected="1">NNIS2-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95042-020-p15s2w15">
@@ -8014,6 +8111,7 @@
 <AM lemma="surrealizmus" src="auto">NNIS2-----A----</AM>
 <AM lemma="surrealizmus" src="auto">NNIS3-----A----</AM>
 <AM lemma="surrealizmus" src="auto" recommended="1">NNIS6-----A----</AM>
+<AM lemma="surrealismus_,s_^(^DD**surrealizmus)" src="manual" selected="1">NNIS6-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95042-020-p15s2w29">
@@ -8058,7 +8156,7 @@
 <form>snad</form>
 <tag>
 <AM lemma="snad" src="orig">Db-------------</AM>
-<AM lemma="snad" src="auto" recommended="1">TT-------------</AM>
+<AM lemma="snad" src="auto" recommended="1" selected="1">TT-------------</AM>
 </tag>
 </m>
 <m id="m-ln95042-020-p15s3w4">
@@ -8240,6 +8338,7 @@
 <AM lemma="surrealizmus" src="auto" recommended="1">NNIS2-----A----</AM>
 <AM lemma="surrealizmus" src="auto">NNIS3-----A----</AM>
 <AM lemma="surrealizmus" src="auto">NNIS6-----A----</AM>
+<AM lemma="surrealismus_,s_^(^DD**surrealizmus)" src="manual" selected="1">NNIS2-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95042-020-p15s3w26">
@@ -8447,7 +8546,7 @@
 <tag>
 <AM lemma="tady" src="orig">Db------------1</AM>
 <AM lemma="ten" src="auto">PDFS4----------</AM>
-<AM lemma="tu" src="auto" recommended="1">Db-------------</AM>
+<AM lemma="tu" src="auto" recommended="1" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m-ln95042-020-p15s5w3">
@@ -8584,7 +8683,10 @@
 <LM>w#w-ln95042-020-p15s5w19</LM>
 </w.rf>
 <form>Hynek</form>
-<tag lemma="Hynek_;Y" src="orig" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Hynek_;Y" src="orig">NNMS1-----A----</AM>
+<AM lemma="Hynek_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95042-020-p15s5w20">
 <src.rf>manual</src.rf>
@@ -8648,7 +8750,10 @@
 <LM>w#w-ln95042-020-p15s5w27</LM>
 </w.rf>
 <form>Albert</form>
-<tag lemma="Albert-1_;Y_,t" src="auto" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Albert-1_;Y_,t" src="auto">NNMS1-----A----</AM>
+<AM lemma="Albert-1_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95042-020-p15s5w28">
 <src.rf>manual</src.rf>
@@ -8719,6 +8824,7 @@
 <AM lemma="surrealizmus" src="auto">NNIS2-----A----</AM>
 <AM lemma="surrealizmus" src="auto" recommended="1">NNIS3-----A----</AM>
 <AM lemma="surrealizmus" src="auto">NNIS6-----A----</AM>
+<AM lemma="surrealismus_,s_^(^DD**surrrealizmus)" src="manual" selected="1">NNIS3-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95042-020-p15s6w2">
@@ -8743,7 +8849,10 @@
 <LM>w#w-ln95042-020-p15s6w4</LM>
 </w.rf>
 <form>hodně</form>
-<tag lemma="hodně-2_^(nezlobivý)_(*3ý-2)" src="auto" selected="1">Dg-------1A----</tag>
+<tag>
+<AM lemma="hodně-2_^(nezlobivý)_(*3ý-2)" src="auto">Dg-------1A----</AM>
+<AM lemma="hodně-3" src="manual" selected="1">Dg-------1A----</AM>
+</tag>
 </m>
 <m id="m-ln95042-020-p15s6w5">
 <src.rf>manual</src.rf>
@@ -8961,7 +9070,10 @@
 <LM>w#w-ln95042-020-p15s7w12</LM>
 </w.rf>
 <form>málo</form>
-<tag lemma="málo-1_^(málo_+_2._p.,_málo_peněz)" src="orig" selected="1">Ca--4----------</tag>
+<tag>
+<AM lemma="málo-1_^(málo_+_2._p.,_málo_peněz)" src="orig">Ca--4----------</AM>
+<AM lemma="málo-3_^(málo_+_příd._jm.,_př._byl_málo_důsledný)" src="manual" selected="1">Dg-------1A----</AM>
+</tag>
 </m>
 <m id="m-ln95042-020-p15s7w13">
 <src.rf>manual</src.rf>
@@ -9137,7 +9249,10 @@
 <LM>w#w-ln95042-020-p15s7w34</LM>
 </w.rf>
 <form>Néon</form>
-<tag lemma="Néon_;R_,t" src="orig" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="Néon_;R_,t" src="orig">NNIS1-----A----</AM>
+<AM lemma="Néon_;R" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95042-020-p15s7w35">
 <src.rf>manual</src.rf>
@@ -9254,7 +9369,7 @@
 </w.rf>
 <form>Arkán</form>
 <tag>
-<AM lemma="Arkán_;R" src="orig">NNIS1-----A----</AM>
+<AM lemma="Arkán_;R" src="orig" selected="1">NNIS1-----A----</AM>
 <AM lemma="arkána_^(karetní_hra)" src="auto">NNFP2-----A----</AM>
 <AM lemma="arkánum" src="auto" recommended="1">NNNP2-----A----</AM>
 </tag>
@@ -9729,7 +9844,10 @@
 <LM>w#w-ln95042-020-p17s1w1</LM>
 </w.rf>
 <form>Jen</form>
-<tag lemma="jen-1" src="auto" selected="1">TT-------------</tag>
+<tag>
+<AM lemma="jen-1" src="auto">TT-------------</AM>
+<AM lemma="jen-4_^(pouze)" src="manual" selected="1">Db-------------</AM>
+</tag>
 </m>
 <m id="m-ln95042-020-p17s1w2">
 <src.rf>manual</src.rf>
@@ -9796,7 +9914,7 @@
 <tag>
 <AM lemma="přece" src="orig">Db-------------</AM>
 <AM lemma="přece-1" src="auto" recommended="1">J^-------------</AM>
-<AM lemma="přece-2" src="auto">TT-------------</AM>
+<AM lemma="přece-2" src="auto" selected="1">TT-------------</AM>
 </tag>
 </m>
 <m id="m-ln95042-020-p17s1w10">
@@ -9885,6 +10003,7 @@
 <AM lemma="surrealismus" src="orig">NNIS1-----A----</AM>
 <AM lemma="surrealizmus" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="surrealizmus" src="auto">NNIS4-----A----</AM>
+<AM lemma="surrealismus_,s_^(^DD**surrealizmus)" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95042-020-p17s3w2">
@@ -10035,6 +10154,7 @@
 <AM lemma="surrealismus" src="orig">NNIS1-----A----</AM>
 <AM lemma="surrealizmus" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="surrealizmus" src="auto">NNIS4-----A----</AM>
+<AM lemma="surrealismus_,s_^(^DD**surrealizmus)" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95042-020-p17s4w14">
@@ -10075,7 +10195,10 @@
 <LM>w#w-ln95042-020-p17s4w18</LM>
 </w.rf>
 <form>nedávno</form>
-<tag lemma="nedávno-1" src="auto" selected="1">Db-------------</tag>
+<tag>
+<AM lemma="nedávno-1" src="auto">Db-------------</AM>
+<AM lemma="dávno-1" src="manual" selected="1">Dg-------1N----</AM>
+</tag>
 </m>
 <m id="m-ln95042-020-p17s4w19">
 <src.rf>manual</src.rf>
@@ -10083,7 +10206,10 @@
 <LM>w#w-ln95042-020-p17s4w19</LM>
 </w.rf>
 <form>řekl</form>
-<tag lemma="říci" src="auto" selected="1">VpYS---XR-AA---</tag>
+<tag>
+<AM lemma="říci" src="auto">VpYS---XR-AA---</AM>
+<AM lemma="říci_:W" src="manual" selected="1">VpYS---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-ln95042-020-p17s4w20">
 <src.rf>manual</src.rf>
@@ -10099,7 +10225,10 @@
 <LM>w#w-ln95042-020-p17s4w21</LM>
 </w.rf>
 <form>Typlt</form>
-<tag lemma="Typlt_;G_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Typlt_;G_;S" src="orig">NNMS1-----A----</AM>
+<AM lemma="Typlt_;S" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95042-020-p17s4w22">
 <src.rf>manual</src.rf>
@@ -10185,6 +10314,7 @@
 <AM lemma="surrealismus" src="orig">NNIS1-----A----</AM>
 <AM lemma="surrealizmus" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="surrealizmus" src="auto">NNIS4-----A----</AM>
+<AM lemma="surrealismus_,s_^(^DD**surrealizmus)" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95042-020-p18s1w3">
@@ -10273,6 +10403,7 @@
 <AM lemma="surrealismus" src="orig">NNIS1-----A----</AM>
 <AM lemma="surrealizmus" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="surrealizmus" src="auto">NNIS4-----A----</AM>
+<AM lemma="surrealismus_,s_^(^DD**surrealizmus)" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95042-020-p19s2w2">
@@ -10427,7 +10558,10 @@
 <LM>w#w-ln95042-020-p19s3w6</LM>
 </w.rf>
 <form>Miróův</form>
-<tag lemma="Miróův_;S_^(*2)" src="orig" selected="1">AUIS1M---------</tag>
+<tag>
+<AM lemma="Miróův_;S_^(*2)" src="orig">AUIS1M---------</AM>
+<AM lemma="Miróův_;Y_^(*2)" src="manual" selected="1">AUIS1M---------</AM>
+</tag>
 </m>
 <m id="m-ln95042-020-p19s3w7">
 <src.rf>manual</src.rf>
@@ -10621,7 +10755,10 @@
 <LM>w#w-ln95042-020-p19s4w11</LM>
 </w.rf>
 <form>automatismus</form>
-<tag lemma="automatismus" src="orig" selected="1">NNIS4-----A----</tag>
+<tag>
+<AM lemma="automatismus" src="orig">NNIS4-----A----</AM>
+<AM lemma="automatismus_,s_^(^DD**automatizmus)" src="manual" selected="1">NNIS4-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95042-020-p19s4w12">
 <src.rf>manual</src.rf>
@@ -10653,7 +10790,10 @@
 <LM>w#w-ln95042-020-p19s4w15</LM>
 </w.rf>
 <form>vytváření</form>
-<tag lemma="vytváření_,a_^(*2t)" src="auto" selected="1">NNNS4-----A----</tag>
+<tag>
+<AM lemma="vytváření_,a_^(*2t)" src="auto">NNNS4-----A----</AM>
+<AM lemma="vytváření_^(*2t)" src="manual" selected="1">NNNS4-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95042-020-p19s4w16">
 <src.rf>manual</src.rf>
@@ -10927,7 +11067,10 @@
 <LM>w#w-ln95042-020-p19s5w6</LM>
 </w.rf>
 <form>ani</form>
-<tag lemma="ani-1" src="auto" selected="1">J^-------------</tag>
+<tag>
+<AM lemma="ani-1" src="auto">J^-------------</AM>
+<AM lemma="ani-2" src="manual" selected="1">TT-------------</AM>
+</tag>
 </m>
 <m id="m-ln95042-020-p19s5w7">
 <src.rf>manual</src.rf>
@@ -11055,6 +11198,7 @@
 <AM lemma="surrealismus" src="orig">NNIS1-----A----</AM>
 <AM lemma="surrealizmus" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="surrealizmus" src="auto">NNIS4-----A----</AM>
+<AM lemma="surrealismus_,s_^(^DD**surrealizmus)" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95042-020-p19s7w2">
@@ -11071,7 +11215,10 @@
 <LM>w#w-ln95042-020-p19s7w3</LM>
 </w.rf>
 <form>jen</form>
-<tag lemma="jen-1" src="auto" selected="1">TT-------------</tag>
+<tag>
+<AM lemma="jen-1" src="auto">TT-------------</AM>
+<AM lemma="jen-4_^(pouze)" src="manual" selected="1">Db-------------</AM>
+</tag>
 </m>
 <m id="m-ln95042-020-p19s7w4">
 <src.rf>manual</src.rf>
@@ -11111,7 +11258,10 @@
 <LM>w#w-ln95042-020-p19s7w8</LM>
 </w.rf>
 <form>vŽitný</form>
-<tag lemma="vŽitný_,t" src="orig" selected="1">NNNXX-----A----</tag>
+<tag>
+<AM lemma="vŽitný_,t" src="orig">NNNXX-----A----</AM>
+<AM lemma="vŽitný_,h_^(^GC**vžitý)" src="manual" selected="1">NNNXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95042-020-p19s7w9">
 <src.rf>manual</src.rf>
@@ -11127,7 +11277,10 @@
 <LM>w#w-ln95042-020-p19s7w10</LM>
 </w.rf>
 <form>vJečný</form>
-<tag lemma="vJečný_,t" src="orig" selected="1">NNNXX-----A----</tag>
+<tag>
+<AM lemma="vJečný_,t" src="orig">NNNXX-----A----</AM>
+<AM lemma="vJečný_,h_^(^GC**věčný)" src="manual" selected="1">NNNXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95042-020-p19s7w11">
 <src.rf>manual</src.rf>
@@ -11205,6 +11358,7 @@
 <AM lemma="surrealismus" src="orig">NNIS1-----A----</AM>
 <AM lemma="surrealizmus" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="surrealizmus" src="auto">NNIS4-----A----</AM>
+<AM lemma="surrealismus_,s_^(^DD**surrealizmus)" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95042-020-p19s8w2">
@@ -11248,7 +11402,7 @@
 <tag>
 <AM lemma="tedy" src="orig">Db-------------</AM>
 <AM lemma="tedy-1" src="auto">TT-------------</AM>
-<AM lemma="tedy-2" src="auto" recommended="1">J^-------------</AM>
+<AM lemma="tedy-2" src="auto" recommended="1" selected="1">J^-------------</AM>
 </tag>
 </m>
 <m id="m-ln95042-020-p19s8w7">
@@ -11434,6 +11588,7 @@
 <AM lemma="surrealizmus" src="auto">NNIS2-----A----</AM>
 <AM lemma="surrealizmus" src="auto" recommended="1">NNIS3-----A----</AM>
 <AM lemma="surrealizmus" src="auto">NNIS6-----A----</AM>
+<AM lemma="surrealismus_,s_^(^DD**surrealizmus)" src="manual" selected="1">NNIS3-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95042-020-p20s1w15">
@@ -11500,7 +11655,10 @@
 <LM>w#w-ln95042-020-p21s1w6</LM>
 </w.rf>
 <form>Husově</form>
-<tag lemma="Husův_;S_^(*2o)" src="auto" selected="1">AUFS6M---------</tag>
+<tag>
+<AM lemma="Husův_;S_^(*2o)" src="auto">AUFS6M---------</AM>
+<AM lemma="Husův_;S_^(*2)" src="manual" selected="1">AUFS6M---------</AM>
+</tag>
 </m>
 <m id="m-ln95042-020-p21s1w7">
 <src.rf>manual</src.rf>
@@ -11630,7 +11788,10 @@
 <LM>w#w-ln95042-020-p21s2w11</LM>
 </w.rf>
 <form>prostřednictvím</form>
-<tag lemma="prostřednictví" src="orig" selected="1">NNNS7-----A----</tag>
+<tag>
+<AM lemma="prostřednictví" src="orig">NNNS7-----A----</AM>
+<AM lemma="prostřednictvím" src="manual" selected="1">RR--2----------</AM>
+</tag>
 </m>
 <m id="m-ln95042-020-p21s2w12">
 <src.rf>manual</src.rf>
@@ -11686,7 +11847,10 @@
 <LM>w#w-ln95042-020-p21s2w18</LM>
 </w.rf>
 <form>píše</form>
-<tag lemma="psát" src="auto" selected="1">VB-S---3P-AA---</tag>
+<tag>
+<AM lemma="psát" src="auto">VB-S---3P-AA---</AM>
+<AM lemma="psát_:T" src="manual" selected="1">VB-S---3P-AA---</AM>
+</tag>
 </m>
 <m id="m-ln95042-020-p21s2w19">
 <src.rf>manual</src.rf>
@@ -11779,6 +11943,7 @@
 <AM lemma="surrealizmus" src="auto" recommended="1">NNIS2-----A----</AM>
 <AM lemma="surrealizmus" src="auto">NNIS3-----A----</AM>
 <AM lemma="surrealizmus" src="auto">NNIS6-----A----</AM>
+<AM lemma="surrealismus_,s_^(^DD**surrealizmus)" src="manual" selected="1">NNIS2-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95042-020-p21s2w30">
@@ -11808,7 +11973,7 @@
 <tag>
 <AM lemma="tady" src="orig">Db------------1</AM>
 <AM lemma="ten" src="auto" recommended="1">PDFS4----------</AM>
-<AM lemma="tu" src="auto">Db-------------</AM>
+<AM lemma="tu" src="auto" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m-ln95042-020-p21s3w3">
@@ -11825,7 +11990,10 @@
 <LM>w#w-ln95042-020-p21s3w4</LM>
 </w.rf>
 <form>vytváření</form>
-<tag lemma="vytváření_,a_^(*2t)" src="auto" selected="1">NNNS4-----A----</tag>
+<tag>
+<AM lemma="vytváření_,a_^(*2t)" src="auto">NNNS4-----A----</AM>
+<AM lemma="vytváření_^(*2t)" src="manual" selected="1">NNNS4-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95042-020-p21s3w5">
 <src.rf>manual</src.rf>
@@ -11873,7 +12041,10 @@
 <LM>w#w-ln95042-020-p21s3w10</LM>
 </w.rf>
 <form>Koláře</form>
-<tag lemma="kolář" src="orig" selected="1">NNMS2-----A----</tag>
+<tag>
+<AM lemma="kolář" src="orig">NNMS2-----A----</AM>
+<AM lemma="Kolář_;S" src="manual" selected="1">NNMS2-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95042-020-p21s3w11">
 <src.rf>manual</src.rf>
@@ -11968,6 +12139,7 @@
 <AM lemma="surrealizmus" src="auto" recommended="1">NNIS2-----A----</AM>
 <AM lemma="surrealizmus" src="auto">NNIS3-----A----</AM>
 <AM lemma="surrealizmus" src="auto">NNIS6-----A----</AM>
+<AM lemma="surrealismus_,s_^(^DD**surrealizmus)" src="manual" selected="1">NNIS2-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95042-020-p21s4w3">
@@ -12265,6 +12437,7 @@
 <AM lemma="surrealizmus" src="auto" recommended="1">NNIS2-----A----</AM>
 <AM lemma="surrealizmus" src="auto">NNIS3-----A----</AM>
 <AM lemma="surrealizmus" src="auto">NNIS6-----A----</AM>
+<AM lemma="surrealismus_,s_^(^DD**surrealizmus)" src="manual" selected="1">NNIS2-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95042-020-p21s6w3">
@@ -12507,7 +12680,11 @@
 <LM>w#w-ln95042-020-p21s7w9</LM>
 </w.rf>
 <form>Museé</form>
-<tag lemma="Museé_;K_,t" src="orig" selected="1">NNNXX-----A----</tag>
+<tag>
+<AM lemma="Museé_;K_,t" src="orig">NNNXX-----A----</AM>
+<AM lemma="museé_,t" src="manual">NNXXX-----A----</AM>
+<AM lemma="Museé-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln95042-020-p21s7w10">
 <src.rf>manual</src.rf>
@@ -12515,7 +12692,10 @@
 <LM>w#w-ln95042-020-p21s7w10</LM>
 </w.rf>
 <form>de</form>
-<tag lemma="de_,t_^(z_franc._de,_zejm._ve_jménech)" src="orig" selected="1">RR--1----------</tag>
+<tag>
+<AM lemma="de_,t_^(z_franc._de,_zejm._ve_jménech)" src="orig">RR--1----------</AM>
+<AM lemma="de-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln95042-020-p21s7w11">
 <src.rf>manual</src.rf>
@@ -12530,6 +12710,8 @@
 <AM lemma="l-8_:B_^(ost._zkratka)" src="auto">XX------------8</AM>
 <AM lemma="letopočet_:B_^(jen_př._n._l.,_před_naším_letopočtem)" src="auto">NNIS7-----A---8</AM>
 <AM lemma="litr_:B" src="auto">NNIXX-----A---8</AM>
+<AM lemma="l-1_,t_^(člen)" src="manual">AAXXX----1A----</AM>
+<AM lemma="l-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-ln95042-020-p21s7w12">
@@ -12546,7 +12728,11 @@
 <LM>w#w-ln95042-020-p21s7w13</LM>
 </w.rf>
 <form>Art</form>
-<tag lemma="Art-3_;K_,t" src="orig" selected="1">NNIXX-----A----</tag>
+<tag>
+<AM lemma="Art-3_;K_,t" src="orig">NNIXX-----A----</AM>
+<AM lemma="art_,t" src="manual">NNXXX-----A----</AM>
+<AM lemma="Art-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln95042-020-p21s7w14">
 <src.rf>manual</src.rf>
@@ -12558,6 +12744,7 @@
 <AM lemma="brut-2_,t" src="orig">AAXXX----1A----</AM>
 <AM lemma="brut" src="auto">NNIS1-----A----</AM>
 <AM lemma="brut" src="auto" recommended="1">NNIS4-----A----</AM>
+<AM lemma="brut-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-ln95042-020-p21s7w15">
@@ -12820,7 +13007,10 @@
 <LM>w#w-ln95042-020-p23s1w4</LM>
 </w.rf>
 <form>André</form>
-<tag lemma="André_;Y_,t" src="auto" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="André_;Y_,t" src="auto">NNMS1-----A----</AM>
+<AM lemma="André_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95042-020-p23s1w5">
 <src.rf>manual</src.rf>
@@ -12972,7 +13162,10 @@
 <LM>w#w-ln95042-020-p23s1w24</LM>
 </w.rf>
 <form>Elisou</form>
-<tag lemma="Elisa_;Y_,t" src="auto" selected="1">NNFS7-----A----</tag>
+<tag>
+<AM lemma="Elisa_;Y_,t" src="auto">NNFS7-----A----</AM>
+<AM lemma="Elisa_;Y" src="manual" selected="1">NNFS7-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95042-020-p23s1w25">
 <src.rf>manual</src.rf>
@@ -13117,6 +13310,7 @@
 <AM lemma="Fontain_;S" src="auto">NNMS5-----A----</AM>
 <AM lemma="Fontaine_;S" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Fontaine_;S" src="auto">NNMS5-----A----</AM>
+<AM lemma="Fontaine-2_;G" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95042-020-p23s3w6">
@@ -13133,7 +13327,10 @@
 <LM>w#w-ln95042-020-p23s3w7</LM>
 </w.rf>
 <form>Place</form>
-<tag lemma="Place_;G_,t" src="auto" selected="1">NNISX-----A----</tag>
+<tag>
+<AM lemma="Place_;G_,t" src="auto">NNISX-----A----</AM>
+<AM lemma="Place-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln95042-020-p23s3w8">
 <src.rf>manual</src.rf>
@@ -13144,6 +13341,8 @@
 <tag>
 <AM lemma="Blanche_;G_,t" src="orig">AAXXX----1A----</AM>
 <AM lemma="Blanche_;Y" src="auto" recommended="1">NNFSX-----A----</AM>
+<AM lemma="blanche_,t" src="manual">AAXXX----1A----</AM>
+<AM lemma="Blanche-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-ln95042-020-p23s3w9">
@@ -13383,7 +13582,7 @@
 <tag>
 <AM lemma="tady" src="orig">Db------------1</AM>
 <AM lemma="ten" src="auto" recommended="1">PDFS4----------</AM>
-<AM lemma="tu" src="auto">Db-------------</AM>
+<AM lemma="tu" src="auto" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m-ln95042-020-p23s5w4">
@@ -13400,7 +13599,10 @@
 <LM>w#w-ln95042-020-p23s5w5</LM>
 </w.rf>
 <form>jen</form>
-<tag lemma="jen-1" src="auto" selected="1">TT-------------</tag>
+<tag>
+<AM lemma="jen-1" src="auto">TT-------------</AM>
+<AM lemma="jen-4_^(pouze)" src="manual" selected="1">Db-------------</AM>
+</tag>
 </m>
 <m id="m-ln95042-020-p23s5w6">
 <src.rf>manual</src.rf>
@@ -13711,6 +13913,7 @@
 <tag>
 <AM lemma="surrealismus" src="orig">NNIS7-----A----</AM>
 <AM lemma="surrealizmus" src="auto" recommended="1">NNIS7-----A----</AM>
+<AM lemma="surrealismus_,s_^(^DD**surrealizmus)" src="manual" selected="1">NNIS7-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95042-020-p24s2w11">
@@ -13849,7 +14052,10 @@
 <LM>w#w-ln95042-020-p25s1w11</LM>
 </w.rf>
 <form>jen</form>
-<tag lemma="jen-1" src="auto" selected="1">TT-------------</tag>
+<tag>
+<AM lemma="jen-1" src="auto">TT-------------</AM>
+<AM lemma="jen-4_^(pouze)" src="manual" selected="1">Db-------------</AM>
+</tag>
 </m>
 <m id="m-ln95042-020-p25s1w12">
 <src.rf>manual</src.rf>
@@ -14067,7 +14273,7 @@
 <form>kdykoliv</form>
 <tag>
 <AM lemma="kdykoliv" src="orig">Db-------------</AM>
-<AM lemma="kdykoli" src="auto" recommended="1">Db------------1</AM>
+<AM lemma="kdykoli" src="auto" recommended="1" selected="1">Db------------1</AM>
 </tag>
 </m>
 <m id="m-ln95042-020-p25s1w39">
@@ -14287,6 +14493,7 @@
 <AM lemma="surrealizmus" src="auto">NNIS2-----A----</AM>
 <AM lemma="surrealizmus" src="auto">NNIS3-----A----</AM>
 <AM lemma="surrealizmus" src="auto" recommended="1">NNIS6-----A----</AM>
+<AM lemma="surrealismus_,s_^(^DD**surrealizmus)" src="manual" selected="1">NNIS6-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95042-020-p26s1w5">

@@ -573,7 +573,7 @@
 <form>Sověti</form>
 <tag>
 <AM lemma="sovět-2_^(občan_SSSR)" src="orig">NNMP1-----A----</AM>
-<AM lemma="Sovět_;E_^(občan_SSSR)" src="auto" recommended="1">NNMP1-----A----</AM>
+<AM lemma="Sovět_;E_^(občan_SSSR)" src="auto" recommended="1" selected="1">NNMP1-----A----</AM>
 <AM lemma="Sovět_;E_^(občan_SSSR)" src="auto">NNMP5-----A----</AM>
 </tag>
 </m>
@@ -647,7 +647,10 @@
 <LM>w#w-mf930702-126-p3s1w36</LM>
 </w.rf>
 <form>KSSS</form>
-<tag lemma="KSSS_:B_;K_;p" src="auto" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="KSSS_:B_;K_;p" src="auto">NNFXX-----A---8</AM>
+<AM lemma="KSSS-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-mf930702-126-p3s1w37">
 <src.rf>manual</src.rf>
@@ -1024,6 +1027,7 @@
 <tag>
 <AM lemma="Izvestija_;R_,t" src="orig">NNFP1-----A----</AM>
 <AM lemma="Izvestija_;K_;w_,t" src="auto" recommended="1">NNFS1-----A----</AM>
+<AM lemma="Izvestija-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-mf930702-126-p4s1w24">
@@ -1560,7 +1564,10 @@
 <LM>w#w-mf930702-126-p5s4w11</LM>
 </w.rf>
 <form>milionů</form>
-<tag lemma="milión`1000000" src="orig" selected="1">NNIP2-----A----</tag>
+<tag>
+<AM lemma="milión`1000000" src="orig">NNIP2-----A----</AM>
+<AM lemma="milion`1000000_,s_^(^DD**milión)" src="manual" selected="1">NNIP2-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930702-126-p5s4w12">
 <src.rf>manual</src.rf>
@@ -2289,6 +2296,7 @@
 <tag>
 <AM lemma="Izvestija_;R_,t" src="orig">NNFP1-----A----</AM>
 <AM lemma="Izvestija_;K_;w_,t" src="auto" recommended="1">NNFS1-----A----</AM>
+<AM lemma="Izvestija-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-mf930702-126-p6s4w25">
@@ -2339,7 +2347,10 @@
 <LM>w#w-mf930702-126-p7s1w3</LM>
 </w.rf>
 <form>str</form>
-<tag lemma="strana-4_:B" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="strana-4_:B" src="orig">NNFXX-----A---8</AM>
+<AM lemma="strana" src="manual" selected="1">NNFXX-----A---9</AM>
+</tag>
 </m>
 <m id="m-mf930702-126-p7s1w4">
 <src.rf>manual</src.rf>

@@ -588,7 +588,7 @@
 <AM lemma="Braunschweig_;G" src="auto">NNIS2-----A----</AM>
 <AM lemma="Braunschweig_;G" src="auto">NNIS3-----A----</AM>
 <AM lemma="Braunschweig_;G" src="auto">NNIS5-----A----</AM>
-<AM lemma="Braunschweig_;G" src="auto" recommended="1">NNIS6-----A----</AM>
+<AM lemma="Braunschweig_;G" src="auto" recommended="1" selected="1">NNIS6-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95049-135-p3s1w21">
@@ -605,7 +605,10 @@
 <LM>w#w-ln95049-135-p3s1w22</LM>
 </w.rf>
 <form>PTB</form>
-<tag lemma="PTB_:B_;K_,t_^(Fyzikálně_technický_ústav_v_Brauschweigu)" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="PTB_:B_;K_,t_^(Fyzikálně_technický_ústav_v_Brauschweigu)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="PTB-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95049-135-p3s1w23">
 <src.rf>manual</src.rf>
@@ -647,7 +650,7 @@
 <form>přičemž</form>
 <tag>
 <AM lemma="přičemž" src="orig">J,-------------</AM>
-<AM lemma="přičemž" src="auto" recommended="1">Db-------------</AM>
+<AM lemma="přičemž" src="auto" recommended="1" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m-ln95049-135-p3s1w28">
@@ -943,7 +946,10 @@
 <LM>w#w-ln95049-135-p4s2w4</LM>
 </w.rf>
 <form>sice</form>
-<tag lemma="sice-2" src="auto" selected="1">Db-------------</tag>
+<tag>
+<AM lemma="sice-2" src="auto">Db-------------</AM>
+<AM lemma="sice-1_^(spojka;_připouští_se_určitá_fakta)" src="manual" selected="1">J^-------------</AM>
+</tag>
 </m>
 <m id="m-ln95049-135-p4s2w5">
 <src.rf>manual</src.rf>
@@ -1257,6 +1263,7 @@
 <AM lemma="astra_^(vozidlo&amp;&amp;kytka)" src="auto">NNFP4-----A----</AM>
 <AM lemma="astra_^(vozidlo&amp;&amp;kytka)" src="auto">NNFP5-----A----</AM>
 <AM lemma="astra_^(vozidlo&amp;&amp;kytka)" src="auto" recommended="1">NNFS2-----A----</AM>
+<AM lemma="astra_^(vozidlo&amp;kytka)" src="manual" selected="1">NNFS2-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95049-135-p4s4w6">
@@ -1427,7 +1434,10 @@
 <LM>w#w-ln95049-135-p4s5w20</LM>
 </w.rf>
 <form>von</form>
-<tag lemma="von-2_,t" src="orig" selected="1">RR--X----------</tag>
+<tag>
+<AM lemma="von-2_,t" src="orig">RR--X----------</AM>
+<AM lemma="von-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln95049-135-p4s5w21">
 <src.rf>manual</src.rf>
@@ -1451,7 +1461,10 @@
 <LM>w#w-ln95049-135-p4s5w23</LM>
 </w.rf>
 <form>PTB</form>
-<tag lemma="PTB_:B_;K_,t_^(Fyzikálně_technický_ústav_v_Brauschweigu)" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="PTB_:B_;K_,t_^(Fyzikálně_technický_ústav_v_Brauschweigu)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="PTB-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95049-135-p4s5w24">
 <src.rf>manual</src.rf>
@@ -1557,7 +1570,10 @@
 <LM>w#w-ln95049-135-p4s6w12</LM>
 </w.rf>
 <form>řekl</form>
-<tag lemma="říci" src="auto" selected="1">VpYS---XR-AA---</tag>
+<tag>
+<AM lemma="říci" src="auto">VpYS---XR-AA---</AM>
+<AM lemma="říci_:W" src="manual" selected="1">VpYS---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-ln95049-135-p4s6w13">
 <src.rf>manual</src.rf>

@@ -695,7 +695,12 @@
 <LM>w#w-ln94202-70-p2s5w12</LM>
 </w.rf>
 <form>Gamá</form>
-<tag lemma="Gamá_;K_,t" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="Gamá_;K_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="Gamá_,t" src="manual">AAXXX----1A----</AM>
+<AM lemma="Gamá_,t" src="manual">NNXXX-----A----</AM>
+<AM lemma="Gamá-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94202-70-p2s5w13">
 <src.rf>manual</src.rf>
@@ -707,6 +712,8 @@
 <AM lemma="al_;m_,t" src="orig">AAXXX----1A----</AM>
 <AM lemma="al_;G_^(al-Aiún)" src="auto" recommended="1">A2--------A----</AM>
 <AM lemma="ala-1_,t_^(místnost_v_starořím._obydlí;;vojenská_jednotka_ve_st._Římě;;boční_loď_v_bazilice)" src="auto">NNFP2-----A----</AM>
+<AM lemma="al-2_,t_^(člen)" src="manual">AAXXX----1A----</AM>
+<AM lemma="al-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-ln94202-70-p2s5w14">
@@ -723,7 +730,11 @@
 <LM>w#w-ln94202-70-p2s5w15</LM>
 </w.rf>
 <form>islamíja</form>
-<tag lemma="islamíja_;K_,t" src="orig" selected="1">NNFS1-----A----</tag>
+<tag>
+<AM lemma="islamíja_;K_,t" src="orig">NNFS1-----A----</AM>
+<AM lemma="islamíja_,t" src="manual">NNXXX-----A----</AM>
+<AM lemma="islamíja-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94202-70-p2s5w16">
 <src.rf>manual</src.rf>

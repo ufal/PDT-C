@@ -51,7 +51,10 @@
 <LM>w#w-lnd91303-053-p1s1w5</LM>
 </w.rf>
 <form>ČR</form>
-<tag lemma="ČR-1_:B_;G_^(Česká_republika)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd91303-053-p1s1w6">
 <src.rf>manual</src.rf>
@@ -67,7 +70,10 @@
 <LM>w#w-lnd91303-053-p1s1w7</LM>
 </w.rf>
 <form>Špačka</form>
-<tag lemma="špaček-1_^(živ.)" src="auto" selected="1">NNMS4-----A----</tag>
+<tag>
+<AM lemma="špaček-1_^(živ.)" src="auto">NNMS4-----A----</AM>
+<AM lemma="Špaček_;S" src="manual" selected="1">NNMS4-----A----</AM>
+</tag>
 </m>
 </s>
 <s id="m-lnd91303-053-p2s1">
@@ -377,7 +383,10 @@
 <LM>w#w-lnd91303-053-p3s2w15</LM>
 </w.rf>
 <form>jen</form>
-<tag lemma="jen-1" src="auto" selected="1">TT-------------</tag>
+<tag>
+<AM lemma="jen-1" src="auto">TT-------------</AM>
+<AM lemma="jen-4_^(pouze)" src="manual" selected="1">Db-------------</AM>
+</tag>
 </m>
 <m id="m-lnd91303-053-p3s2w16">
 <src.rf>manual</src.rf>
@@ -953,7 +962,10 @@
 <LM>w#w-lnd91303-053-p3s6w18</LM>
 </w.rf>
 <form>jen</form>
-<tag lemma="jen-1" src="auto" selected="1">TT-------------</tag>
+<tag>
+<AM lemma="jen-1" src="auto">TT-------------</AM>
+<AM lemma="jen-4_^(pouze)" src="manual" selected="1">Db-------------</AM>
+</tag>
 </m>
 <m id="m-lnd91303-053-p3s6w19">
 <src.rf>manual</src.rf>
@@ -1353,7 +1365,7 @@
 <form>třeba</form>
 <tag>
 <AM lemma="třeba-1" src="orig">ACNS------A----</AM>
-<AM lemma="třeba-2" src="auto" recommended="1">Db-------------</AM>
+<AM lemma="třeba-2" src="auto" recommended="1" selected="1">Db-------------</AM>
 <AM lemma="třeba-3" src="auto">TT-------------</AM>
 </tag>
 </m>
@@ -1565,7 +1577,10 @@
 <LM>w#w-lnd91303-053-p3s10w21</LM>
 </w.rf>
 <form>intenzívní</form>
-<tag lemma="intenzívní" src="orig" selected="1">AAIS1----1A----</tag>
+<tag>
+<AM lemma="intenzívní" src="orig">AAIS1----1A----</AM>
+<AM lemma="vintenzívní_,s_^(^DD**intenzivní)" src="manual" selected="1">AAIS1----1A----</AM>
+</tag>
 </m>
 <m id="m-lnd91303-053-p3s10w22">
 <src.rf>manual</src.rf>
@@ -1931,7 +1946,7 @@
 <form>Přesto</form>
 <tag>
 <AM lemma="přesto" src="orig">Dg-------1A----</AM>
-<AM lemma="přesto-1" src="auto" recommended="1">Db-------------</AM>
+<AM lemma="přesto-1" src="auto" recommended="1" selected="1">Db-------------</AM>
 <AM lemma="přesto-2" src="auto">J^-------------</AM>
 </tag>
 </m>
@@ -2087,7 +2102,10 @@
 <LM>w#w-lnd91303-053-p4s1w2</LM>
 </w.rf>
 <form>kš</form>
-<tag lemma="kš-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="kš-99_:B_;S" src="orig">NNXXX-----A---8</AM>
+<AM lemma="kš-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd91303-053-p4s1w3">
 <src.rf>manual</src.rf>

@@ -86,7 +86,7 @@
 </w.rf>
 <form>mý</form>
 <tag>
-<AM lemma="mý-99_:B_;S" src="orig">NNXXX-----A---8</AM>
+<AM lemma="mý-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</AM>
 <AM lemma="můj_^(přivlast.)" src="auto">PSFS2-S1------6</AM>
 <AM lemma="můj_^(přivlast.)" src="auto">PSFS3-S1------6</AM>
 <AM lemma="můj_^(přivlast.)" src="auto">PSFS6-S1------6</AM>
@@ -671,7 +671,7 @@
 </w.rf>
 <form>Veleové</form>
 <tag>
-<AM lemma="Veleová_;S" src="orig">NNFS2-----A----</AM>
+<AM lemma="Veleová_;S" src="orig" selected="1">NNFS2-----A----</AM>
 <AM lemma="Vele_;S" src="auto" recommended="1">NNMP1-----A----</AM>
 <AM lemma="Vele_;S" src="auto">NNMP5-----A----</AM>
 </tag>
@@ -992,7 +992,10 @@
 <LM>w#w-mf930708-068-p3s3w7</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-2" src="auto" selected="1">Dg-------2A----</tag>
+<tag>
+<AM lemma="hodně-2" src="auto">Dg-------2A----</AM>
+<AM lemma="více_^(více_+_2._p.,_více_peněz)" src="manual" selected="1">Ca--6----------</AM>
+</tag>
 </m>
 <m id="m-mf930708-068-p3s3w8">
 <src.rf>manual</src.rf>
@@ -1204,7 +1207,10 @@
 <LM>w#w-mf930708-068-p4s1w9</LM>
 </w.rf>
 <form>Sportfestspiele</form>
-<tag lemma="Sportfestspiele_;m_,t" src="orig" selected="1">NNFPX-----A----</tag>
+<tag>
+<AM lemma="Sportfestspiele_;m_,t" src="orig">NNFPX-----A----</AM>
+<AM lemma="Sportfestspiele-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-mf930708-068-p4s1w10">
 <src.rf>manual</src.rf>
@@ -1242,6 +1248,7 @@
 <AM lemma="an-1_,a" src="auto">P4IS4----------</AM>
 <AM lemma="an-1_,a" src="auto">P4YS1----------</AM>
 <AM lemma="an-2_;G_,t_^(Tchien-an-men)" src="auto">NNIXX-----A----</AM>
+<AM lemma="an-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-mf930708-068-p4s1w14">
@@ -1250,7 +1257,10 @@
 <LM>w#w-mf930708-068-p4s1w14</LM>
 </w.rf>
 <form>der</form>
-<tag lemma="der-1_;K_,t_^(souč._něm._názvů,_např._Der_Spiegel_[člen_m.])" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="der-1_;K_,t_^(souč._něm._názvů,_např._Der_Spiegel_[člen_m.])" src="orig">AAXXX----1A----</AM>
+<AM lemma="der-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-mf930708-068-p4s1w15">
 <src.rf>manual</src.rf>
@@ -1258,7 +1268,10 @@
 <LM>w#w-mf930708-068-p4s1w15</LM>
 </w.rf>
 <form>Jagst</form>
-<tag lemma="Jagst_;G" src="orig" selected="1">NNFXX-----A----</tag>
+<tag>
+<AM lemma="Jagst_;G" src="orig">NNFXX-----A----</AM>
+<AM lemma="Jagst-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-mf930708-068-p4s1w16">
 <src.rf>manual</src.rf>

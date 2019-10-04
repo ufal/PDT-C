@@ -61,7 +61,10 @@
 <LM>w#w-mf920901-049-p2s1w3</LM>
 </w.rf>
 <form>Racing</form>
-<tag lemma="Racing_;K_^(př._Racing_Club)" src="orig" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="Racing_;K_^(př._Racing_Club)" src="orig">NNIS1-----A----</AM>
+<AM lemma="Racing-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-mf920901-049-p2s1w4">
 <src.rf>manual</src.rf>
@@ -223,7 +226,7 @@
 <form>přičemž</form>
 <tag>
 <AM lemma="přičemž" src="orig">J,-------------</AM>
-<AM lemma="přičemž" src="auto" recommended="1">Db-------------</AM>
+<AM lemma="přičemž" src="auto" recommended="1" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m-mf920901-049-p2s1w24">
@@ -248,7 +251,10 @@
 <LM>w#w-mf920901-049-p2s1w26</LM>
 </w.rf>
 <form>jen</form>
-<tag lemma="jen-1" src="auto" selected="1">TT-------------</tag>
+<tag>
+<AM lemma="jen-1" src="auto">TT-------------</AM>
+<AM lemma="jen-4_^(pouze)" src="manual" selected="1">Db-------------</AM>
+</tag>
 </m>
 <m id="m-mf920901-049-p2s1w27">
 <src.rf>manual</src.rf>
@@ -333,6 +339,7 @@
 <tag>
 <AM lemma="EP_;K_^(evropský_pohár)" src="orig">NNIXX-----A---8</AM>
 <AM lemma="EP_:B_;K_^(evropský_pohár)" src="auto" recommended="1">NNXXX-----A---8</AM>
+<AM lemma="EP-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-mf920901-049-p2s2w8">
@@ -416,7 +423,7 @@
 </w.rf>
 <form>Brit</form>
 <tag>
-<AM lemma="Británie_:B_;G" src="orig">NNFXX-----A---8</AM>
+<AM lemma="Británie_:B_;G" src="orig" selected="1">NNFXX-----A---8</AM>
 <AM lemma="Brit_;E" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Brita_;Y" src="auto">NNFP2-----A----</AM>
 <AM lemma="Britský_:B_;m" src="auto">AAXXX----1A---9</AM>
@@ -528,7 +535,10 @@
 <LM>w#w-mf920901-049-p2s5w3</LM>
 </w.rf>
 <form>ČSFR</form>
-<tag lemma="ČSFR-1_:B_;G_^(Čs._federativní_republika)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ČSFR-1_:B_;G_^(Čs._federativní_republika)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČSFR-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-mf920901-049-p2s5w4">
 <src.rf>manual</src.rf>
@@ -643,7 +653,7 @@
 </w.rf>
 <form>Brit</form>
 <tag>
-<AM lemma="Británie_:B_;G" src="orig">NNFXX-----A---8</AM>
+<AM lemma="Británie_:B_;G" src="orig" selected="1">NNFXX-----A---8</AM>
 <AM lemma="Brit_;E" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Brita_;Y" src="auto">NNFP2-----A----</AM>
 <AM lemma="Britský_:B_;m" src="auto">AAXXX----1A---9</AM>

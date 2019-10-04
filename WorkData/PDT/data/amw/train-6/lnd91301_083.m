@@ -197,7 +197,10 @@
 <LM>w#w-lnd91301-083-p2s1Aw21</LM>
 </w.rf>
 <form>FC</form>
-<tag lemma="FC-1_:B_;K_;w_^(Football_Club,_př._FC_Sparta)" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="FC-1_:B_;K_;w_^(Football_Club,_př._FC_Sparta)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="FC-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd91301-083-p2s1Aw22">
 <src.rf>manual</src.rf>
@@ -221,7 +224,10 @@
 <LM>w#w-lnd91301-083-p2s1Aw24</LM>
 </w.rf>
 <form>Skuhravý</form>
-<tag lemma="skuhravý" src="orig" selected="1">AAMS1----1A----</tag>
+<tag>
+<AM lemma="skuhravý" src="orig">AAMS1----1A----</AM>
+<AM lemma="Skuhravý_;S" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd91301-083-p2s1Aw25">
 <src.rf>manual</src.rf>
@@ -899,7 +905,10 @@
 <LM>w#w-lnd91301-083-p2s3w38</LM>
 </w.rf>
 <form>Roberta</form>
-<tag lemma="Robert_;Y" src="orig" selected="1">NNMS2-----A----</tag>
+<tag>
+<AM lemma="Robert_;Y" src="orig">NNMS2-----A----</AM>
+<AM lemma="Roberta_;Y" src="manual" selected="1">NNFS1-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd91301-083-p2s3w39">
 <src.rf>manual</src.rf>
@@ -1507,7 +1516,10 @@
 <LM>w#w-lnd91301-083-p2s7w9</LM>
 </w.rf>
 <form>ČSFR</form>
-<tag lemma="ČSFR-1_:B_;G_^(Čs._federativní_republika)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ČSFR-1_:B_;G_^(Čs._federativní_republika)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČSFR-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd91301-083-p2s7w10">
 <src.rf>manual</src.rf>
@@ -1775,7 +1787,7 @@
 <form>snad</form>
 <tag>
 <AM lemma="snad" src="orig">Db-------------</AM>
-<AM lemma="snad" src="auto" recommended="1">TT-------------</AM>
+<AM lemma="snad" src="auto" recommended="1" selected="1">TT-------------</AM>
 </tag>
 </m>
 <m id="m-lnd91301-083-p2s8w13">
@@ -2440,7 +2452,10 @@
 <LM>w#w-lnd91301-083-p2s11w6</LM>
 </w.rf>
 <form>ani</form>
-<tag lemma="ani-1" src="auto" selected="1">J^-------------</tag>
+<tag>
+<AM lemma="ani-1" src="auto">J^-------------</AM>
+<AM lemma="ani-2" src="manual" selected="1">TT-------------</AM>
+</tag>
 </m>
 <m id="m-lnd91301-083-p2s11w7">
 <src.rf>manual</src.rf>

@@ -265,7 +265,10 @@
 <LM>w#w-ln94204-49-p2s1Cw21</LM>
 </w.rf>
 <form>nedávno</form>
-<tag lemma="nedávno-1" src="auto" selected="1">Db-------------</tag>
+<tag>
+<AM lemma="nedávno-1" src="auto">Db-------------</AM>
+<AM lemma="dávno-1" src="manual" selected="1">Dg-------1N----</AM>
+</tag>
 </m>
 <m id="m-ln94204-49-p2s1Cw22">
 <src.rf>manual</src.rf>
@@ -331,7 +334,10 @@
 <LM>w#w-ln94204-49-p2s2w6</LM>
 </w.rf>
 <form>řekla</form>
-<tag lemma="říci" src="auto" selected="1">VpQW---XR-AA---</tag>
+<tag>
+<AM lemma="říci" src="auto">VpQW---XR-AA---</AM>
+<AM lemma="říci_:W" src="manual" selected="1">VpQW---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-ln94204-49-p2s2w7">
 <src.rf>manual</src.rf>

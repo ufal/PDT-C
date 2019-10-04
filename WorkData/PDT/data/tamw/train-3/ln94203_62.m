@@ -43,7 +43,10 @@
 <LM>w#w-ln94203-62-p1s1w4</LM>
 </w.rf>
 <form>černé</form>
-<tag lemma="černý" src="auto" selected="1">AANS4----1A----</tag>
+<tag>
+<AM lemma="černý" src="auto">AANS4----1A----</AM>
+<AM lemma="černý_;o" src="manual" selected="1">AAFS2----1A----</AM>
+</tag>
 </m>
 <m id="m-ln94203-62-p1s1w5">
 <src.rf>manual</src.rf>
@@ -834,7 +837,10 @@
 <LM>w#w-ln94203-62-p4s1w19</LM>
 </w.rf>
 <form>L</form>
-<tag lemma="L-10_^(př._L'Aqua,_stažený_tvar_fr._členu)" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="L-10_^(př._L'Aqua,_stažený_tvar_fr._členu)" src="orig">AAXXX----1A----</AM>
+<AM lemma="L-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94203-62-p4s1w20">
 <src.rf>manual</src.rf>
@@ -855,6 +861,7 @@
 <AM lemma="Union" src="auto">NNIS5-----A----</AM>
 <AM lemma="union" src="auto">NNIS5-----A----</AM>
 <AM lemma="unione_,t" src="auto" recommended="1">XX-------------</AM>
+<AM lemma="Unione-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-ln94203-62-p4s1w22">
@@ -863,7 +870,10 @@
 <LM>w#w-ln94203-62-p4s1w22</LM>
 </w.rf>
 <form>Sarda</form>
-<tag lemma="sarda" src="orig" selected="1">NNFS1-----A----</tag>
+<tag>
+<AM lemma="sarda" src="orig">NNFS1-----A----</AM>
+<AM lemma="Sarda-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94203-62-p4s1w23">
 <src.rf>manual</src.rf>
@@ -903,7 +913,10 @@
 <LM>w#w-ln94203-62-p4s1w27</LM>
 </w.rf>
 <form>RTV</form>
-<tag lemma="RTV_:B_;K_,t" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="RTV_:B_;K_,t" src="orig">NNFXX-----A---8</AM>
+<AM lemma="RTV-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94203-62-p4s1w28">
 <src.rf>manual</src.rf>
@@ -987,7 +1000,10 @@
 <LM>w#w-ln94203-62-p4s3w2</LM>
 </w.rf>
 <form>sice</form>
-<tag lemma="sice-2" src="auto" selected="1">Db-------------</tag>
+<tag>
+<AM lemma="sice-2" src="auto">Db-------------</AM>
+<AM lemma="sice-1_^(spojka;_připouští_se_určitá_fakta)" src="manual" selected="1">J^-------------</AM>
+</tag>
 </m>
 <m id="m-ln94203-62-p4s3w3">
 <src.rf>manual</src.rf>

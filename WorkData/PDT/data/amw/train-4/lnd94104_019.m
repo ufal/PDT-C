@@ -53,7 +53,10 @@
 <LM>w#w-lnd94104-019-p1s2w3</LM>
 </w.rf>
 <form>črk</form>
-<tag lemma="črk-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="črk-99_:B_;S" src="orig">NNXXX-----A---8</AM>
+<AM lemma="črk-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd94104-019-p1s2w4">
 <src.rf>manual</src.rf>
@@ -239,7 +242,10 @@
 <LM>w#w-lnd94104-019-p1s3w21</LM>
 </w.rf>
 <form>P</form>
-<tag lemma="P-0_:B_;Y" src="orig" selected="1">NNMXX-----A---8</tag>
+<tag>
+<AM lemma="P-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
+<AM lemma="P-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd94104-019-p1s3w22">
 <src.rf>manual</src.rf>
@@ -271,7 +277,10 @@
 <LM>w#w-lnd94104-019-p1s3w25</LM>
 </w.rf>
 <form>LSU</form>
-<tag lemma="LSU-1_:B_;K_;p_^(Liberálně-sociální_unie)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="LSU-1_:B_;K_;p_^(Liberálně-sociální_unie)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="LSU-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd94104-019-p1s3w26">
 <src.rf>manual</src.rf>
@@ -345,7 +354,10 @@
 <LM>w#w-lnd94104-019-p1s4w7</LM>
 </w.rf>
 <form>V</form>
-<tag lemma="V-0_:B_;Y" src="orig" selected="1">NNMXX-----A---8</tag>
+<tag>
+<AM lemma="V-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
+<AM lemma="V-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd94104-019-p1s4w8">
 <src.rf>manual</src.rf>
@@ -627,7 +639,10 @@
 <LM>w#w-lnd94104-019-p1s5w7</LM>
 </w.rf>
 <form>a</form>
-<tag lemma="akciový_:B_^(jen_akciová_společnost)" src="orig" selected="1">AAXXX----1A---8</tag>
+<tag>
+<AM lemma="akciový_:B_^(jen_akciová_společnost)" src="orig">AAXXX----1A---8</AM>
+<AM lemma="akciový" src="manual" selected="1">AAXXX----1A---8</AM>
+</tag>
 </m>
 <m id="m-lnd94104-019-p1s5w8">
 <src.rf>manual</src.rf>
@@ -643,7 +658,10 @@
 <LM>w#w-lnd94104-019-p1s5w9</LM>
 </w.rf>
 <form>s</form>
-<tag lemma="společnost_:B" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="společnost_:B" src="orig">NNFXX-----A---8</AM>
+<AM lemma="společnost" src="manual" selected="1">NNFXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd94104-019-p1s5w10">
 <src.rf>manual</src.rf>
@@ -659,7 +677,10 @@
 <LM>w#w-lnd94104-019-p1s5w11</LM>
 </w.rf>
 <form>ČEZ</form>
-<tag lemma="ČEZ-1_:B_;K_^(České_energetické_závody)" src="orig" selected="1">NNIPX-----A---8</tag>
+<tag>
+<AM lemma="ČEZ-1_:B_;K_^(České_energetické_závody)" src="orig">NNIPX-----A---8</AM>
+<AM lemma="ČEZ_^(České_energetické_závody)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd94104-019-p1s5w12">
 <src.rf>manual</src.rf>
@@ -827,7 +848,10 @@
 <LM>w#w-lnd94104-019-p1s5w32</LM>
 </w.rf>
 <form>Haliburton</form>
-<tag lemma="Haliburton_;G" src="orig" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="Haliburton_;G" src="orig">NNIS1-----A----</AM>
+<AM lemma="Haliburton_;G_;K" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd94104-019-p1s5w33">
 <src.rf>manual</src.rf>
@@ -835,7 +859,10 @@
 <LM>w#w-lnd94104-019-p1s5w33</LM>
 </w.rf>
 <form>NUS</form>
-<tag lemma="NUS_:B_;K" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="NUS_:B_;K" src="orig">NNXXX-----A---8</AM>
+<AM lemma="NUS-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd94104-019-p1s5w34">
 <src.rf>manual</src.rf>
@@ -965,7 +992,10 @@
 <LM>w#w-lnd94104-019-p1s7w12</LM>
 </w.rf>
 <form>SÚJB</form>
-<tag lemma="SÚJB-1_:B_;K_^(Státní_úřad_pro_jadernou_energii)" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="SÚJB-1_:B_;K_^(Státní_úřad_pro_jadernou_energii)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="SÚJB-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd94104-019-p1s7w13">
 <src.rf>manual</src.rf>
@@ -1199,7 +1229,10 @@
 <LM>w#w-lnd94104-019-p1s8w3</LM>
 </w.rf>
 <form>SÚJB</form>
-<tag lemma="SÚJB-1_:B_;K_^(Státní_úřad_pro_jadernou_energii)" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="SÚJB-1_:B_;K_^(Státní_úřad_pro_jadernou_energii)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="SÚJB-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd94104-019-p1s8w4">
 <src.rf>manual</src.rf>
@@ -1257,7 +1290,7 @@
 <form>nekázeň</form>
 <tag>
 <AM lemma="kázeň" src="orig">NNFS1-----A----</AM>
-<AM lemma="nekázeň" src="auto" recommended="1">NNFS1-----A----</AM>
+<AM lemma="nekázeň" src="auto" recommended="1" selected="1">NNFS1-----A----</AM>
 <AM lemma="nekázeň" src="auto">NNFS4-----A----</AM>
 </tag>
 </m>
@@ -1299,7 +1332,10 @@
 <LM>w#w-lnd94104-019-p1s8w15</LM>
 </w.rf>
 <form>ČEZ</form>
-<tag lemma="ČEZ-1_:B_;K_^(České_energetické_závody)" src="orig" selected="1">NNIPX-----A---8</tag>
+<tag>
+<AM lemma="ČEZ-1_:B_;K_^(České_energetické_závody)" src="orig">NNIPX-----A---8</AM>
+<AM lemma="ČEZ_^(České_energetické_závody)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd94104-019-p1s8w16">
 <src.rf>manual</src.rf>
@@ -1307,7 +1343,10 @@
 <LM>w#w-lnd94104-019-p1s8w16</LM>
 </w.rf>
 <form>a</form>
-<tag lemma="akciový_:B_^(jen_akciová_společnost)" src="orig" selected="1">AAXXX----1A---8</tag>
+<tag>
+<AM lemma="akciový_:B_^(jen_akciová_společnost)" src="orig">AAXXX----1A---8</AM>
+<AM lemma="akciový" src="manual" selected="1">AAXXX----1A---8</AM>
+</tag>
 </m>
 <m id="m-lnd94104-019-p1s8w17">
 <src.rf>manual</src.rf>
@@ -1323,7 +1362,10 @@
 <LM>w#w-lnd94104-019-p1s8w18</LM>
 </w.rf>
 <form>s</form>
-<tag lemma="společnost_:B" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="společnost_:B" src="orig">NNFXX-----A---8</AM>
+<AM lemma="společnost" src="manual" selected="1">NNFXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd94104-019-p1s8w19">
 <src.rf>manual</src.rf>
@@ -1533,7 +1575,10 @@
 <LM>w#w-lnd94104-019-p1s9w21</LM>
 </w.rf>
 <form>MAAE</form>
-<tag lemma="MAAE_:B_;K_;p_^(Mezinárodní_agentura_pro_atomovou_energii)" src="auto" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="MAAE_:B_;K_;p_^(Mezinárodní_agentura_pro_atomovou_energii)" src="auto">NNFXX-----A---8</AM>
+<AM lemma="MAAE-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd94104-019-p1s9w22">
 <src.rf>manual</src.rf>
@@ -1576,6 +1621,7 @@
 <tag>
 <AM lemma="USA_;G" src="orig">NNIPX-----A----</AM>
 <AM lemma="USA_:B_;K_,t_^(United_States_of_America)" src="auto" recommended="1">NNIPX-----A---8</AM>
+<AM lemma="USA_:B_;K_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94104-019-p1s9w27">
@@ -1672,7 +1718,10 @@
 <LM>w#w-lnd94104-019-p1s9w38</LM>
 </w.rf>
 <form>VVER</form>
-<tag lemma="VVER-1_:B_^(tlakovodní_jaderný_reaktor)" src="auto" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="VVER-1_:B_^(tlakovodní_jaderný_reaktor)" src="auto">NNIXX-----A---8</AM>
+<AM lemma="VVER-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd94104-019-p1s9w39">
 <src.rf>manual</src.rf>
@@ -1786,7 +1835,10 @@
 <LM>w#w-lnd94104-019-p1s10w2</LM>
 </w.rf>
 <form>MAAE</form>
-<tag lemma="MAAE_:B_;K_;p_^(Mezinárodní_agentura_pro_atomovou_energii)" src="auto" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="MAAE_:B_;K_;p_^(Mezinárodní_agentura_pro_atomovou_energii)" src="auto">NNFXX-----A---8</AM>
+<AM lemma="MAAE-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd94104-019-p1s10w3">
 <src.rf>manual</src.rf>

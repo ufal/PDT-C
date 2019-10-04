@@ -59,7 +59,12 @@
 <LM>w#w-lnd92256-047-p1s1w6</LM>
 </w.rf>
 <form>stál</form>
-<tag lemma="stát-4_^(něco_stojí_peníze)" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag>
+<AM lemma="stát-4_^(něco_stojí_peníze)" src="orig">VpYS---XR-AA---</AM>
+<AM lemma="stát-3_:T_^(někdo/něco_stojí,_např._na_nohou)" src="manual">VpYS---XR-AA---</AM>
+<AM lemma="stát-4_:T_^(něco_stojí_peníze)" src="manual"/>
+<AM lemma="stát-4_:T_^(něco_stojí_peníze)" src="manual" selected="1">VpYS---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-lnd92256-047-p1s1w7">
 <src.rf>manual</src.rf>
@@ -75,7 +80,10 @@
 <LM>w#w-lnd92256-047-p1s1w8</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-2" src="auto" selected="1">Dg-------2A----</tag>
+<tag>
+<AM lemma="hodně-2" src="auto">Dg-------2A----</AM>
+<AM lemma="hodně-3" src="manual" selected="1">Dg-------2A----</AM>
+</tag>
 </m>
 <m id="m-lnd92256-047-p1s1w9">
 <src.rf>manual</src.rf>
@@ -131,7 +139,10 @@
 <LM>w#w-lnd92256-047-p1s1w15</LM>
 </w.rf>
 <form>řekl</form>
-<tag lemma="říci" src="auto" selected="1">VpYS---XR-AA---</tag>
+<tag>
+<AM lemma="říci" src="auto">VpYS---XR-AA---</AM>
+<AM lemma="říci_:W" src="manual" selected="1">VpYS---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-lnd92256-047-p1s1w16">
 <src.rf>manual</src.rf>
@@ -163,7 +174,10 @@
 <LM>w#w-lnd92256-047-p1s1w19</LM>
 </w.rf>
 <form>SR</form>
-<tag lemma="SR-1_:B_;G_^(Slovenská_republika)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="SR-1_:B_;G_^(Slovenská_republika)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="SR-1_:B_;G_^(Slovenská_republika)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92256-047-p1s1w20">
 <src.rf>manual</src.rf>
@@ -389,7 +403,10 @@
 <LM>w#w-lnd92256-047-p1s2w25</LM>
 </w.rf>
 <form>ČSFR</form>
-<tag lemma="ČSFR-1_:B_;G_^(Čs._federativní_republika)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ČSFR-1_:B_;G_^(Čs._federativní_republika)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČSFR-1_:B_;G_^(Čs._federativní_republika)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92256-047-p1s2w26">
 <src.rf>manual</src.rf>
@@ -423,7 +440,10 @@
 <LM>w#w-lnd92256-047-p1s3w1</LM>
 </w.rf>
 <form>Nedokázali</form>
-<tag lemma="dokázat" src="orig" selected="1">VpMP---XR-NA---</tag>
+<tag>
+<AM lemma="dokázat" src="orig">VpMP---XR-NA---</AM>
+<AM lemma="dokázat_:W" src="manual" selected="1">VpMP---XR-NA---</AM>
+</tag>
 </m>
 <m id="m-lnd92256-047-p1s3w2">
 <src.rf>manual</src.rf>
@@ -433,7 +453,7 @@
 <form>totiž</form>
 <tag>
 <AM lemma="totiž" src="orig">Db-------------</AM>
-<AM lemma="totiž-1" src="auto" recommended="1">J^-------------</AM>
+<AM lemma="totiž-1" src="auto" recommended="1" selected="1">J^-------------</AM>
 <AM lemma="totiž-2" src="auto">TT-------------</AM>
 </tag>
 </m>

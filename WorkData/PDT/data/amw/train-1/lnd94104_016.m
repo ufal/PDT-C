@@ -35,7 +35,10 @@
 <LM>w#w-lnd94104-016-p1s1w3</LM>
 </w.rf>
 <form>euthanasie</form>
-<tag lemma="euthanasie" src="orig" selected="1">NNFS2-----A----</tag>
+<tag>
+<AM lemma="euthanasie" src="orig">NNFS2-----A----</AM>
+<AM lemma="euthanasie_,s_^(^DD**eutanazie)" src="manual" selected="1">NNFS2-----A----</AM>
+</tag>
 </m>
 </s>
 <s id="m-lnd94104-016-p1s2">
@@ -61,7 +64,10 @@
 <LM>w#w-lnd94104-016-p1s2w3</LM>
 </w.rf>
 <form>ria</form>
-<tag lemma="ria-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="ria-99_:B_;S" src="orig">NNXXX-----A---8</AM>
+<AM lemma="ria-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd94104-016-p1s2w4">
 <src.rf>manual</src.rf>
@@ -127,7 +133,10 @@
 <LM>w#w-lnd94104-016-p1s3w6</LM>
 </w.rf>
 <form>euthanasii</form>
-<tag lemma="euthanasie" src="orig" selected="1">NNFS4-----A----</tag>
+<tag>
+<AM lemma="euthanasie" src="orig">NNFS4-----A----</AM>
+<AM lemma="euthanasie_,s_^(^DD**eutanazie)" src="manual" selected="1">NNFS4-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd94104-016-p1s3w7">
 <src.rf>manual</src.rf>
@@ -143,7 +152,10 @@
 <LM>w#w-lnd94104-016-p1s3w8</LM>
 </w.rf>
 <form>tj</form>
-<tag lemma="tj-1_:B_^(to_je/jest)" src="orig" selected="1">J^------------8</tag>
+<tag>
+<AM lemma="tj-1_:B_^(to_je/jest)" src="orig">J^------------8</AM>
+<AM lemma="tj-1_:B_^(to_je/jest)" src="manual" selected="1">J^-------------</AM>
+</tag>
 </m>
 <m id="m-lnd94104-016-p1s3w9">
 <src.rf>manual</src.rf>
@@ -345,7 +357,10 @@
 <LM>w#w-lnd94104-016-p1s4w10</LM>
 </w.rf>
 <form>začal</form>
-<tag lemma="začít-1_^(začnout)" src="auto" selected="1">VpYS---XR-AA---</tag>
+<tag>
+<AM lemma="začít-1_^(začnout)" src="auto">VpYS---XR-AA---</AM>
+<AM lemma="začít-1_:W_^(začnout)" src="manual" selected="1">VpYS---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-lnd94104-016-p1s4w11">
 <src.rf>manual</src.rf>
@@ -377,7 +392,10 @@
 <LM>w#w-lnd94104-016-p1s4w14</LM>
 </w.rf>
 <form>řekl</form>
-<tag lemma="říci" src="auto" selected="1">VpYS---XR-AA---</tag>
+<tag>
+<AM lemma="říci" src="auto">VpYS---XR-AA---</AM>
+<AM lemma="říci_:W" src="manual" selected="1">VpYS---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-lnd94104-016-p1s4w15">
 <src.rf>manual</src.rf>
@@ -385,7 +403,10 @@
 <LM>w#w-lnd94104-016-p1s4w15</LM>
 </w.rf>
 <form>dr</form>
-<tag lemma="doktor_:B_^(doktor,_akad._titul)" src="orig" selected="1">NNMXX-----A---8</tag>
+<tag>
+<AM lemma="doktor_:B_^(doktor,_akad._titul)" src="orig">NNMXX-----A---8</AM>
+<AM lemma="dr_:B_^(doktor)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd94104-016-p1s4w16">
 <src.rf>manual</src.rf>
@@ -401,7 +422,10 @@
 <LM>w#w-lnd94104-016-p1s4w17</LM>
 </w.rf>
 <form>Barend</form>
-<tag lemma="Barend_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Barend_;S" src="orig" selected="1">NNMS1-----A----</AM>
+<AM lemma="Barend_;S_;Y" src="manual">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd94104-016-p1s4w18">
 <src.rf>manual</src.rf>
@@ -457,7 +481,10 @@
 <LM>w#w-lnd94104-016-p1s4w24</LM>
 </w.rf>
 <form>euthanasií</form>
-<tag lemma="euthanasie" src="orig" selected="1">NNFP2-----A----</tag>
+<tag>
+<AM lemma="euthanasie" src="orig">NNFP2-----A----</AM>
+<AM lemma="euthanasie_,s_^(^DD**eutanazie)" src="manual" selected="1">NNFP2-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd94104-016-p1s4w25">
 <src.rf>manual</src.rf>
@@ -579,7 +606,10 @@
 <LM>w#w-lnd94104-016-p1s5w9</LM>
 </w.rf>
 <form>např</form>
-<tag lemma="například_:B" src="orig" selected="1">Db------------8</tag>
+<tag>
+<AM lemma="například_:B" src="orig">Db------------8</AM>
+<AM lemma="například" src="manual" selected="1">Db------------8</AM>
+</tag>
 </m>
 <m id="m-lnd94104-016-p1s5w10">
 <src.rf>manual</src.rf>
@@ -904,7 +934,7 @@
 <form>totiž</form>
 <tag>
 <AM lemma="totiž" src="orig">Db-------------</AM>
-<AM lemma="totiž-1" src="auto" recommended="1">J^-------------</AM>
+<AM lemma="totiž-1" src="auto" recommended="1" selected="1">J^-------------</AM>
 <AM lemma="totiž-2" src="auto">TT-------------</AM>
 </tag>
 </m>
@@ -1108,7 +1138,10 @@
 <LM>w#w-lnd94104-016-p1s7w9</LM>
 </w.rf>
 <form>euthanasie</form>
-<tag lemma="euthanasie" src="orig" selected="1">NNFS1-----A----</tag>
+<tag>
+<AM lemma="euthanasie" src="orig">NNFS1-----A----</AM>
+<AM lemma="euthanasie_,s_^(^DD**eutanazie)" src="manual" selected="1">NNFS1-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd94104-016-p1s7w10">
 <src.rf>manual</src.rf>
@@ -1148,7 +1181,10 @@
 <LM>w#w-lnd94104-016-p1s7w14</LM>
 </w.rf>
 <form>ohlášení</form>
-<tag lemma="ohlášení_,a_^(*4sit)" src="auto" selected="1">NNNS2-----A----</tag>
+<tag>
+<AM lemma="ohlášení_,a_^(*4sit)" src="auto">NNNS2-----A----</AM>
+<AM lemma="ohlášení_^(*4sit)" src="manual" selected="1">NNNS2-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd94104-016-p1s7w15">
 <src.rf>manual</src.rf>
@@ -1270,7 +1306,10 @@
 <LM>w#w-lnd94104-016-p1s8w4</LM>
 </w.rf>
 <form>ČR</form>
-<tag lemma="ČR-1_:B_;G_^(Česká_republika)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd94104-016-p1s8w5">
 <src.rf>manual</src.rf>
@@ -1294,7 +1333,10 @@
 <LM>w#w-lnd94104-016-p1s8w7</LM>
 </w.rf>
 <form>euthanasie</form>
-<tag lemma="euthanasie" src="orig" selected="1">NNFS2-----A----</tag>
+<tag>
+<AM lemma="euthanasie" src="orig">NNFS2-----A----</AM>
+<AM lemma="euthanasie_,s_^(^DD**eutanazie)" src="manual" selected="1">NNFS2-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd94104-016-p1s8w8">
 <src.rf>manual</src.rf>
@@ -1360,7 +1402,10 @@
 <LM>w#w-lnd94104-016-p1s9w6</LM>
 </w.rf>
 <form>Šťastný</form>
-<tag lemma="šťastný" src="orig" selected="1">AAFP1----1A---6</tag>
+<tag>
+<AM lemma="šťastný" src="orig">AAFP1----1A---6</AM>
+<AM lemma="Šťastný_;S" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd94104-016-p1s9w7">
 <src.rf>manual</src.rf>
@@ -1368,7 +1413,10 @@
 <LM>w#w-lnd94104-016-p1s9w7</LM>
 </w.rf>
 <form>řekl</form>
-<tag lemma="říci" src="auto" selected="1">VpYS---XR-AA---</tag>
+<tag>
+<AM lemma="říci" src="auto">VpYS---XR-AA---</AM>
+<AM lemma="říci_:W" src="manual" selected="1">VpYS---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-lnd94104-016-p1s9w8">
 <src.rf>manual</src.rf>
@@ -1658,7 +1706,10 @@
 <LM>w#w-lnd94104-016-p1s10w16</LM>
 </w.rf>
 <form>tzv</form>
-<tag lemma="takzvaný_:B" src="orig" selected="1">AAXXX----1A---8</tag>
+<tag>
+<AM lemma="takzvaný_:B" src="orig">AAXXX----1A---8</AM>
+<AM lemma="takzvaný" src="manual" selected="1">AAXXX----1A---8</AM>
+</tag>
 </m>
 <m id="m-lnd94104-016-p1s10w17">
 <src.rf>manual</src.rf>
@@ -1724,7 +1775,7 @@
 <form>ovšem</form>
 <tag>
 <AM lemma="ovšem-1_^(avšak,_však;_odporovací_spojka)" src="orig">J^-------------</AM>
-<AM lemma="ovšem" src="auto" recommended="1">TT-------------</AM>
+<AM lemma="ovšem" src="auto" recommended="1" selected="1">TT-------------</AM>
 </tag>
 </m>
 <m id="m-lnd94104-016-p1s10w25">
@@ -1823,7 +1874,10 @@
 <LM>w#w-lnd94104-016-p1s11w6</LM>
 </w.rf>
 <form>zemřelých</form>
-<tag lemma="zemřelý_^(*3ít)" src="auto" selected="1">AAMP2----1A----</tag>
+<tag>
+<AM lemma="zemřelý_^(*3ít)" src="auto">AAMP2----1A----</AM>
+<AM lemma="zemřelý-2" src="manual" selected="1">NNMP2-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd94104-016-p1s11w7">
 <src.rf>manual</src.rf>
@@ -2073,7 +2127,10 @@
 <LM>w#w-lnd94104-016-p1s12w30</LM>
 </w.rf>
 <form>apod</form>
-<tag lemma="apod_:B_^(a_podobně)" src="auto" selected="1">Db------------8</tag>
+<tag>
+<AM lemma="apod_:B_^(a_podobně)" src="auto">Db------------8</AM>
+<AM lemma="apod_:B_^(a_podobně)" src="manual" selected="1">Db-------------</AM>
+</tag>
 </m>
 <m id="m-lnd94104-016-p1s12w31">
 <src.rf>manual</src.rf>

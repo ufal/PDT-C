@@ -77,7 +77,10 @@
 <LM>w#w-ln95040-039-p2s1Aw2</LM>
 </w.rf>
 <form>LN</form>
-<tag lemma="LN-1_:B_;R_^(Lidové_noviny,_deník)" src="orig" selected="1">NNFPX-----A---8</tag>
+<tag>
+<AM lemma="LN-1_:B_;R_^(Lidové_noviny,_deník)" src="orig">NNFPX-----A---8</AM>
+<AM lemma="LN-1_:B_;K_;R_^(Lidové_noviny)" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln95040-039-p2s1Aw3">
 <src.rf>manual</src.rf>
@@ -167,7 +170,10 @@
 <LM>w#w-ln95040-039-p2s1Bw5</LM>
 </w.rf>
 <form>nedávno</form>
-<tag lemma="nedávno-1" src="auto" selected="1">Db-------------</tag>
+<tag>
+<AM lemma="nedávno-1" src="auto">Db-------------</AM>
+<AM lemma="dávno-1" src="manual" selected="1">Dg-------1N----</AM>
+</tag>
 </m>
 <m id="m-ln95040-039-p2s1Bw6">
 <src.rf>manual</src.rf>
@@ -399,7 +405,10 @@
 <LM>w#w-ln95040-039-p2s1Bw34</LM>
 </w.rf>
 <form>li</form>
-<tag lemma="li-1" src="auto" selected="1">TT-------------</tag>
+<tag>
+<AM lemma="li-1" src="auto">TT-------------</AM>
+<AM lemma="li-2" src="manual" selected="1">J,-------------</AM>
+</tag>
 </m>
 <m id="m-ln95040-039-p2s1Bw35">
 <src.rf>manual</src.rf>
@@ -675,7 +684,7 @@
 <form>nejen</form>
 <tag>
 <AM lemma="nejen" src="orig">TT-------------</AM>
-<AM lemma="nejen" src="auto" recommended="1">Db-------------</AM>
+<AM lemma="nejen" src="auto" recommended="1" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m-ln95040-039-p2s2w25">
@@ -1532,7 +1541,7 @@
 <form>vůbec</form>
 <tag>
 <AM lemma="vůbec" src="orig">Db-------------</AM>
-<AM lemma="vůbec" src="auto" recommended="1">TT-------------</AM>
+<AM lemma="vůbec" src="auto" recommended="1" selected="1">TT-------------</AM>
 </tag>
 </m>
 <m id="m-ln95040-039-p3s2Aw21">
@@ -1882,7 +1891,10 @@
 <LM>w#w-ln95040-039-p4s1w6</LM>
 </w.rf>
 <form>J</form>
-<tag lemma="J-0_:B_;Y" src="orig" selected="1">NNMXX-----A---8</tag>
+<tag>
+<AM lemma="J-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
+<AM lemma="J-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln95040-039-p4s1w7">
 <src.rf>manual</src.rf>
@@ -1898,7 +1910,10 @@
 <LM>w#w-ln95040-039-p4s1w8</LM>
 </w.rf>
 <form>E</form>
-<tag lemma="E-0_:B_;Y" src="orig" selected="1">NNMXX-----A---8</tag>
+<tag>
+<AM lemma="E-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
+<AM lemma="E-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln95040-039-p4s1w9">
 <src.rf>manual</src.rf>
@@ -2146,7 +2161,10 @@
 <LM>w#w-ln95040-039-p4s1w39</LM>
 </w.rf>
 <form>ČLS</form>
-<tag lemma="ČLS-2_:B_;K_^(Československá_letecká_společnost)" src="auto" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ČLS-2_:B_;K_^(Československá_letecká_společnost)" src="auto">NNFXX-----A---8</AM>
+<AM lemma="ČLS-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln95040-039-p4s1w40">
 <src.rf>manual</src.rf>
@@ -2158,6 +2176,7 @@
 <AM lemma="JEP_:B_;K_^(ČLS_J._E._Purkyně)" src="orig">NNMXX-----A---8</AM>
 <AM lemma="JEP-1_:B_;K_,t_^(VLA_JEP,_Vojen_.lékař._akad._J.E.Purkyně)" src="auto" recommended="1">NNFXX-----A---8</AM>
 <AM lemma="JEP_:B_^(jednotná_klasifikace_půdy)" src="auto">NNFXX-----A---8</AM>
+<AM lemma="JEP-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-ln95040-039-p4s1w41">

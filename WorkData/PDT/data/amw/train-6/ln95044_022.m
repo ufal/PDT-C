@@ -351,7 +351,10 @@
 <LM>w#w-ln95044-022-p2s1Bw35</LM>
 </w.rf>
 <form>play</form>
-<tag lemma="play-1_,t" src="orig" selected="1">NNFXX-----A----</tag>
+<tag>
+<AM lemma="play-1_,t" src="orig">NNFXX-----A----</AM>
+<AM lemma="play-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln95044-022-p2s1Bw36">
 <src.rf>manual</src.rf>
@@ -359,7 +362,10 @@
 <LM>w#w-ln95044-022-p2s1Bw36</LM>
 </w.rf>
 <form>off</form>
-<tag lemma="off-1_,t_^(angl._&quot;vypnuto&quot;,_hlavně_souč._názvů)" src="orig" selected="1">TT-------------</tag>
+<tag>
+<AM lemma="off-1_,t_^(angl._&quot;vypnuto&quot;,_hlavně_souč._názvů)" src="orig">TT-------------</AM>
+<AM lemma="off-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln95044-022-p2s1Bw37">
 <src.rf>manual</src.rf>
@@ -763,7 +769,10 @@
 <LM>w#w-ln95044-022-p3s1w28</LM>
 </w.rf>
 <form>Zima</form>
-<tag lemma="zima-1" src="auto" selected="1">NNFS1-----A----</tag>
+<tag>
+<AM lemma="zima-1" src="auto">NNFS1-----A----</AM>
+<AM lemma="Zima_;S" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95044-022-p3s1w29">
 <src.rf>manual</src.rf>
@@ -935,7 +944,10 @@
 <LM>w#w-ln95044-022-p3s3w3</LM>
 </w.rf>
 <form>sice</form>
-<tag lemma="sice-2" src="auto" selected="1">Db-------------</tag>
+<tag>
+<AM lemma="sice-2" src="auto">Db-------------</AM>
+<AM lemma="sice-1_^(spojka;_připouští_se_určitá_fakta)" src="manual" selected="1">J^-------------</AM>
+</tag>
 </m>
 <m id="m-ln95044-022-p3s3w4">
 <src.rf>manual</src.rf>
@@ -1081,7 +1093,10 @@
 <LM>w#w-ln95044-022-p3s4w8</LM>
 </w.rf>
 <form>Eliášovi</form>
-<tag lemma="Eliáš_;Y" src="orig" selected="1">NNMS3-----A---1</tag>
+<tag>
+<AM lemma="Eliáš_;Y" src="orig">NNMS3-----A---1</AM>
+<AM lemma="Eliáš_;Y_;S" src="manual" selected="1">NNMS3-----A---1</AM>
+</tag>
 </m>
 <m id="m-ln95044-022-p3s4w9">
 <src.rf>manual</src.rf>
@@ -1185,7 +1200,10 @@
 <LM>w#w-ln95044-022-p3s4w21</LM>
 </w.rf>
 <form>Čermáka</form>
-<tag lemma="čermák" src="orig" selected="1">NNMS4-----A----</tag>
+<tag>
+<AM lemma="čermák" src="orig">NNMS4-----A----</AM>
+<AM lemma="Čermák_;S" src="manual" selected="1">NNMS4-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95044-022-p3s4w22">
 <src.rf>manual</src.rf>
@@ -1515,7 +1533,10 @@
 <LM>w#w-ln95044-022-p4s1w37</LM>
 </w.rf>
 <form>hodně</form>
-<tag lemma="hodně-2_^(nezlobivý)_(*3ý-2)" src="auto" selected="1">Dg-------1A----</tag>
+<tag>
+<AM lemma="hodně-2_^(nezlobivý)_(*3ý-2)" src="auto">Dg-------1A----</AM>
+<AM lemma="hodně-3" src="manual" selected="1">Dg-------1A----</AM>
+</tag>
 </m>
 <m id="m-ln95044-022-p4s1w38">
 <src.rf>manual</src.rf>
@@ -1589,7 +1610,10 @@
 <LM>w#w-ln95044-022-p4s2w7</LM>
 </w.rf>
 <form>jen</form>
-<tag lemma="jen-1" src="auto" selected="1">TT-------------</tag>
+<tag>
+<AM lemma="jen-1" src="auto">TT-------------</AM>
+<AM lemma="jen-4_^(pouze)" src="manual" selected="1">Db-------------</AM>
+</tag>
 </m>
 <m id="m-ln95044-022-p4s2w8">
 <src.rf>manual</src.rf>
@@ -1815,7 +1839,10 @@
 <LM>w#w-ln95044-022-p4s3w10</LM>
 </w.rf>
 <form>play</form>
-<tag lemma="play-1_,t" src="orig" selected="1">NNFXX-----A----</tag>
+<tag>
+<AM lemma="play-1_,t" src="orig">NNFXX-----A----</AM>
+<AM lemma="play-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln95044-022-p4s3w11">
 <src.rf>manual</src.rf>
@@ -1823,7 +1850,10 @@
 <LM>w#w-ln95044-022-p4s3w11</LM>
 </w.rf>
 <form>off</form>
-<tag lemma="off-1_,t_^(angl._&quot;vypnuto&quot;,_hlavně_souč._názvů)" src="orig" selected="1">TT-------------</tag>
+<tag>
+<AM lemma="off-1_,t_^(angl._&quot;vypnuto&quot;,_hlavně_souč._názvů)" src="orig">TT-------------</AM>
+<AM lemma="off-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln95044-022-p4s3w12">
 <src.rf>manual</src.rf>
@@ -2076,7 +2106,7 @@
 </w.rf>
 <form>Najdy</form>
 <tag>
-<AM lemma="Najda_;S" src="orig">NNMS2-----A----</AM>
+<AM lemma="Najda_;S" src="orig" selected="1">NNMS2-----A----</AM>
 <AM lemma="Najd_;G" src="auto" recommended="1">NNIP1-----A----</AM>
 <AM lemma="Najd_;G" src="auto">NNIP4-----A----</AM>
 <AM lemma="Najd_;G" src="auto">NNIP5-----A----</AM>

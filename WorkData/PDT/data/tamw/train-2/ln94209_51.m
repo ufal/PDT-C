@@ -43,7 +43,10 @@
 <LM>w#w-ln94209-51-p1s1w4</LM>
 </w.rf>
 <form>EuroDisney</form>
-<tag lemma="EuroDisney_;m_,t" src="orig" selected="1">NNNXX-----A----</tag>
+<tag>
+<AM lemma="EuroDisney_;m_,t" src="orig">NNNXX-----A----</AM>
+<AM lemma="EuroDisney_;m" src="manual" selected="1">NNNXX-----A----</AM>
+</tag>
 </m>
 </s>
 <s id="m-ln94209-51-p2s1">
@@ -111,7 +114,7 @@
 <form>novomanželkou</form>
 <tag>
 <AM lemma="novomanžel" src="orig">NNFS7-----A----</AM>
-<AM lemma="novomanželka_^(^FM*2)" src="auto" recommended="1">NNFS7-----A----</AM>
+<AM lemma="novomanželka_^(^FM*2)" src="auto" recommended="1" selected="1">NNFS7-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94209-51-p2s1w9">
@@ -184,7 +187,10 @@
 <LM>w#w-ln94209-51-p2s1w17</LM>
 </w.rf>
 <form>EuroDisney</form>
-<tag lemma="EuroDisney_;m_,t" src="orig" selected="1">NNNXX-----A----</tag>
+<tag>
+<AM lemma="EuroDisney_;m_,t" src="orig">NNNXX-----A----</AM>
+<AM lemma="EuroDisney_;m" src="manual" selected="1">NNNXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94209-51-p2s1w18">
 <src.rf>manual</src.rf>
@@ -326,7 +332,10 @@
 <LM>w#w-ln94209-51-p2s4w3</LM>
 </w.rf>
 <form>popmusic</form>
-<tag lemma="popmusic_;u_,t" src="auto" selected="1">NNFXX-----A----</tag>
+<tag>
+<AM lemma="popmusic_;u_,t" src="auto">NNFXX-----A----</AM>
+<AM lemma="popmusic" src="manual" selected="1">NNFXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94209-51-p2s4w4">
 <src.rf>manual</src.rf>
@@ -392,7 +401,10 @@
 <LM>w#w-ln94209-51-p3s1w2</LM>
 </w.rf>
 <form>EuroDisney</form>
-<tag lemma="EuroDisney_;m_,t" src="orig" selected="1">NNNXX-----A----</tag>
+<tag>
+<AM lemma="EuroDisney_;m_,t" src="orig">NNNXX-----A----</AM>
+<AM lemma="EuroDisney_;m" src="manual" selected="1">NNNXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94209-51-p3s1w3">
 <src.rf>manual</src.rf>
@@ -830,7 +842,10 @@
 <LM>w#w-ln94209-51-p4s2w7</LM>
 </w.rf>
 <form>EuroDisney</form>
-<tag lemma="EuroDisney_;m_,t" src="orig" selected="1">NNNXX-----A----</tag>
+<tag>
+<AM lemma="EuroDisney_;m_,t" src="orig">NNNXX-----A----</AM>
+<AM lemma="EuroDisney_;m" src="manual" selected="1">NNNXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94209-51-p4s2w8">
 <src.rf>manual</src.rf>

@@ -337,7 +337,10 @@
 <LM>w#w-ln94200-69-p2s2w13</LM>
 </w.rf>
 <form>AISA</form>
-<tag lemma="AISA_;K" src="auto" selected="1">NNFS1-----A----</tag>
+<tag>
+<AM lemma="AISA_;K" src="auto">NNFS1-----A----</AM>
+<AM lemma="AISA-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94200-69-p2s2w14">
 <src.rf>manual</src.rf>
@@ -504,7 +507,7 @@
 <tag>
 <AM lemma="tedy" src="orig">Db-------------</AM>
 <AM lemma="tedy-1" src="auto">TT-------------</AM>
-<AM lemma="tedy-2" src="auto" recommended="1">J^-------------</AM>
+<AM lemma="tedy-2" src="auto" recommended="1" selected="1">J^-------------</AM>
 </tag>
 </m>
 <m id="m-ln94200-69-p2s4w8">
@@ -547,7 +550,10 @@
 <LM>w#w-ln94200-69-p2s5w1</LM>
 </w.rf>
 <form>Více</form>
-<tag lemma="hodně-2" src="auto" selected="1">Dg-------2A----</tag>
+<tag>
+<AM lemma="hodně-2" src="auto">Dg-------2A----</AM>
+<AM lemma="hodně-3" src="manual" selected="1">Dg-------2A----</AM>
+</tag>
 </m>
 <m id="m-ln94200-69-p2s5w2">
 <src.rf>manual</src.rf>
@@ -749,7 +755,10 @@
 <LM>w#w-ln94200-69-p2s6w6</LM>
 </w.rf>
 <form>resp</form>
-<tag lemma="respektive_:B" src="auto" selected="1">Db------------8</tag>
+<tag>
+<AM lemma="respektive_:B" src="auto">Db------------8</AM>
+<AM lemma="respektive" src="manual" selected="1">Db------------8</AM>
+</tag>
 </m>
 <m id="m-ln94200-69-p2s6w7">
 <src.rf>manual</src.rf>

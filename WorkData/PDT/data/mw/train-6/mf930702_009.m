@@ -109,7 +109,10 @@
 <LM>w#w-mf930702-009-p2s1w3</LM>
 </w.rf>
 <form>jh</form>
-<tag lemma="jh-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="jh-99_:B_;S" src="orig">NNXXX-----A---8</AM>
+<AM lemma="jh-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930702-009-p2s1w4">
 <src.rf>manual</src.rf>

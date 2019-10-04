@@ -65,6 +65,7 @@
 <AM lemma="Federiko_;Y" src="orig">NNMS2-----A----</AM>
 <AM lemma="Federik_;Y_,t" src="auto" recommended="1">NNMS2-----A----</AM>
 <AM lemma="Federik_;Y_,t" src="auto">NNMS4-----A----</AM>
+<AM lemma="Federiko_;Y_,s_^(^DD**Federico)" src="manual" selected="1">NNMS2-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94104-023-p1s2w5">
@@ -584,7 +585,10 @@
 <LM>w#w-lnd94104-023-p1s4w10</LM>
 </w.rf>
 <form>ČR</form>
-<tag lemma="ČR-1_:B_;G_^(Česká_republika)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd94104-023-p1s4w11">
 <src.rf>manual</src.rf>

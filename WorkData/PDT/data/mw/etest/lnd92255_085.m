@@ -19,7 +19,10 @@
 <LM>w#w-lnd92255-085-p1s1w1</LM>
 </w.rf>
 <form>Alexander</form>
-<tag lemma="Alexander_;S" src="auto" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Alexander_;S" src="auto">NNMS1-----A----</AM>
+<AM lemma="Alexander_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92255-085-p1s1w2">
 <src.rf>manual</src.rf>
@@ -531,7 +534,10 @@
 <LM>w#w-lnd92255-085-p3s1w11</LM>
 </w.rf>
 <form>ALEXANDRA</form>
-<tag lemma="Alexandr_;Y" src="auto" selected="1">NNMS2-----A----</tag>
+<tag>
+<AM lemma="Alexandr_;Y" src="auto">NNMS2-----A----</AM>
+<AM lemma="Alexander_;Y" src="manual" selected="1">NNMS2-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92255-085-p3s1w12">
 <src.rf>manual</src.rf>
@@ -669,7 +675,10 @@
 <LM>w#w-lnd92255-085-p3s2w6</LM>
 </w.rf>
 <form>Fierrabras</form>
-<tag lemma="Fierrabras_;R" src="orig" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="Fierrabras_;R" src="orig">NNIS1-----A----</AM>
+<AM lemma="Fierrabras-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-lnd92255-085-p3s2w7">
 <src.rf>manual</src.rf>
@@ -732,7 +741,7 @@
 <AM lemma="šíř_^(jeden_z_rozměrů)" src="auto">NNFP2-----A----</AM>
 <AM lemma="šíř_^(jeden_z_rozměrů)" src="auto">NNFS7-----A----</AM>
 <AM lemma="šíře_^(jeden_z_rozměrů)" src="auto">NNFP2-----A----</AM>
-<AM lemma="šíře_^(jeden_z_rozměrů)" src="auto" recommended="1">NNFS7-----A----</AM>
+<AM lemma="šíře_^(jeden_z_rozměrů)" src="auto" recommended="1" selected="1">NNFS7-----A----</AM>
 <AM lemma="šířit_:T" src="auto">VB-P---3P-AA---</AM>
 <AM lemma="šířit_:T" src="auto">VB-S---3P-AA---</AM>
 </tag>
@@ -1499,7 +1508,10 @@
 <LM>w#w-lnd92255-085-p4s1w4</LM>
 </w.rf>
 <form>c</form>
-<tag lemma="c-3_^(označení_pomocí_písmene)" src="orig" selected="1">NNNXX-----A----</tag>
+<tag>
+<AM lemma="c-3_^(označení_pomocí_písmene)" src="orig">NNNXX-----A----</AM>
+<AM lemma="C-33_^(označení_pomocí_písmene)" src="manual" selected="1">NNNXX-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92255-085-p4s1w5">
 <src.rf>manual</src.rf>
@@ -1519,6 +1531,7 @@
 <AM lemma="Luigi_;S_;Y" src="orig">NNMXX-----A----</AM>
 <AM lemma="Luigi_;S_;Y_,t" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Luigi_;S_;Y_,t" src="auto">NNMS5-----A----</AM>
+<AM lemma="Luigi_;S_;Y_,t" src="manual" selected="1">NNMXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92255-085-p4s1w7">
@@ -1647,7 +1660,10 @@
 <LM>w#w-lnd92255-085-p4s1w22</LM>
 </w.rf>
 <form>Amicitia</form>
-<tag lemma="Amicitia_;K" src="orig" selected="1">NNFS1-----A----</tag>
+<tag>
+<AM lemma="Amicitia_;K" src="orig">NNFS1-----A----</AM>
+<AM lemma="Amicitia-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-lnd92255-085-p4s1w23">
 <src.rf>manual</src.rf>
@@ -1663,7 +1679,10 @@
 <LM>w#w-lnd92255-085-p4s1w24</LM>
 </w.rf>
 <form>Foerster</form>
-<tag lemma="Foerster_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Foerster_;S" src="orig">NNMS1-----A----</AM>
+<AM lemma="Foerster-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-lnd92255-085-p4s1w25">
 <src.rf>manual</src.rf>
@@ -1841,7 +1860,10 @@
 <LM>w#w-lnd92255-085-p4s2w18</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-2" src="auto" selected="1">Dg-------2A----</tag>
+<tag>
+<AM lemma="hodně-2" src="auto">Dg-------2A----</AM>
+<AM lemma="hodně-3" src="manual" selected="1">Dg-------2A----</AM>
+</tag>
 </m>
 <m id="m-lnd92255-085-p4s2w19">
 <src.rf>manual</src.rf>
@@ -1991,7 +2013,7 @@
 <AM lemma="šířka_^(jeden_z_rozměrů)" src="orig">NNFS6-----A----</AM>
 <AM lemma="šíř_^(jeden_z_rozměrů)" src="auto">NNFS3-----A----</AM>
 <AM lemma="šíř_^(jeden_z_rozměrů)" src="auto">NNFS5-----A----</AM>
-<AM lemma="šíř_^(jeden_z_rozměrů)" src="auto" recommended="1">NNFS6-----A----</AM>
+<AM lemma="šíř_^(jeden_z_rozměrů)" src="auto" recommended="1" selected="1">NNFS6-----A----</AM>
 <AM lemma="šíře_^(jeden_z_rozměrů)" src="auto">NNFS3-----A----</AM>
 <AM lemma="šíře_^(jeden_z_rozměrů)" src="auto">NNFS4-----A----</AM>
 <AM lemma="šíře_^(jeden_z_rozměrů)" src="auto">NNFS6-----A----</AM>

@@ -79,7 +79,10 @@
 <LM>w#w-ln95040-091-p2s1Bw2</LM>
 </w.rf>
 <form>Edouard</form>
-<tag lemma="Edouard_;Y_,t" src="orig" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Edouard_;Y_,t" src="orig">NNMS1-----A----</AM>
+<AM lemma="Edouard_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95040-091-p2s1Bw3">
 <src.rf>manual</src.rf>
@@ -621,7 +624,10 @@
 <LM>w#w-ln95040-091-p2s4w17</LM>
 </w.rf>
 <form>víc</form>
-<tag lemma="hodně-2" src="auto" selected="1">Dg-------2A---1</tag>
+<tag>
+<AM lemma="hodně-2" src="auto">Dg-------2A---1</AM>
+<AM lemma="více_^(více_+_2._p.,_více_peněz)" src="manual" selected="1">Ca--4---------1</AM>
+</tag>
 </m>
 <m id="m-ln95040-091-p2s4w18">
 <src.rf>manual</src.rf>
@@ -695,7 +701,10 @@
 <LM>w#w-ln95040-091-p2s5w3</LM>
 </w.rf>
 <form>IFOP</form>
-<tag lemma="IFOP-1_:B_;K_,t_^(Institut_Francais_de_l'Opinion_Publique)" src="auto" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="IFOP-1_:B_;K_,t_^(Institut_Francais_de_l'Opinion_Publique)" src="auto">NNIXX-----A---8</AM>
+<AM lemma="IFOP-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln95040-091-p2s5w4">
 <src.rf>manual</src.rf>
@@ -1049,7 +1058,10 @@
 <LM>w#w-ln95040-091-p2s6w24</LM>
 </w.rf>
 <form>J</form>
-<tag lemma="J-0_:B_;Y" src="orig" selected="1">NNMXX-----A---8</tag>
+<tag>
+<AM lemma="J-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
+<AM lemma="J-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln95040-091-p2s6w25">
 <src.rf>manual</src.rf>

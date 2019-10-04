@@ -427,7 +427,11 @@
 <LM>w#w-mf930701-001-p2s3w4</LM>
 </w.rf>
 <form>tiebreaku</form>
-<tag lemma="tiebreak_,t_^(sport.:_rozhodující_hra,_obv._zkrácená)" src="orig" selected="1">NNIS2-----A----</tag>
+<tag>
+<AM lemma="tiebreak_,t_^(sport.:_rozhodující_hra,_obv._zkrácená)" src="orig">NNIS2-----A----</AM>
+<AM lemma="tiebreaku-77" src="manual">F%-------------</AM>
+<AM lemma="tiebreak_^(sport.:_rozhodující_hra,_obv._zkrácená)" src="manual" selected="1">NNIS2-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930701-001-p2s3w5">
 <src.rf>manual</src.rf>
@@ -663,7 +667,7 @@
 <form>raději</form>
 <tag>
 <AM lemma="raději" src="orig">Dg-------2A----</AM>
-<AM lemma="rád" src="auto" recommended="1">Dg-------2A----</AM>
+<AM lemma="rád" src="auto" recommended="1" selected="1">Dg-------2A----</AM>
 </tag>
 </m>
 <m id="m-mf930701-001-p2s4w16">
@@ -1042,7 +1046,7 @@
 <form>zasáhl</form>
 <tag>
 <AM lemma="zasáhnout" src="orig">VpYS---XR-AA---</AM>
-<AM lemma="zasáhnout_:W" src="auto" recommended="1">VpYS---XR-AA--1</AM>
+<AM lemma="zasáhnout_:W" src="auto" recommended="1" selected="1">VpYS---XR-AA--1</AM>
 </tag>
 </m>
 <m id="m-mf930701-001-p4s3w4">

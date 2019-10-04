@@ -534,7 +534,7 @@
 <tag>
 <AM lemma="trochu" src="orig">Db-------------</AM>
 <AM lemma="troška" src="auto">NNFS4-----A----</AM>
-<AM lemma="trošku" src="auto" recommended="1">Db-------------</AM>
+<AM lemma="trošku" src="auto" recommended="1" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m-lnd92251-110-p4s1w17">
@@ -705,7 +705,10 @@
 <LM>w#w-lnd92251-110-p4s2w16</LM>
 </w.rf>
 <form>Němec</form>
-<tag lemma="Němec_;E_;S" src="auto" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Němec_;E_;S" src="auto">NNMS1-----A----</AM>
+<AM lemma="Němec_;S_;E" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92251-110-p4s2w17">
 <src.rf>manual</src.rf>
@@ -891,7 +894,10 @@
 <LM>w#w-lnd92251-110-p4s3w16</LM>
 </w.rf>
 <form>lavičce</form>
-<tag lemma="lavička-2" src="auto" selected="1">NNFS6-----A----</tag>
+<tag>
+<AM lemma="lavička-2" src="auto">NNFS6-----A----</AM>
+<AM lemma="lavička" src="manual" selected="1">NNFS6-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92251-110-p4s3w17">
 <src.rf>manual</src.rf>
@@ -1021,7 +1027,10 @@
 <LM>w#w-lnd92251-110-p4s4w15</LM>
 </w.rf>
 <form>Kostelníka</form>
-<tag lemma="kostelník" src="orig" selected="1">NNMS2-----A----</tag>
+<tag>
+<AM lemma="kostelník" src="orig">NNMS2-----A----</AM>
+<AM lemma="Kostelník_;S" src="manual" selected="1">NNMS2-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92251-110-p4s4w16">
 <src.rf>manual</src.rf>
@@ -1167,7 +1176,10 @@
 <LM>w#w-lnd92251-110-p4s5w14</LM>
 </w.rf>
 <form>Kostelníka</form>
-<tag lemma="kostelník" src="orig" selected="1">NNMS2-----A----</tag>
+<tag>
+<AM lemma="kostelník" src="orig">NNMS2-----A----</AM>
+<AM lemma="Kostelník_;S" src="manual" selected="1">NNMS2-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92251-110-p4s5w15">
 <src.rf>manual</src.rf>
@@ -1273,7 +1285,10 @@
 <LM>w#w-lnd92251-110-p4s6w2</LM>
 </w.rf>
 <form>lavičce</form>
-<tag lemma="lavička-2" src="auto" selected="1">NNFS6-----A----</tag>
+<tag>
+<AM lemma="lavička-2" src="auto">NNFS6-----A----</AM>
+<AM lemma="lavička" src="manual" selected="1">NNFS6-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92251-110-p4s6w3">
 <src.rf>manual</src.rf>
@@ -1409,7 +1424,10 @@
 <LM>w#w-lnd92251-110-p4s6w19</LM>
 </w.rf>
 <form>ČFL</form>
-<tag lemma="ČFL-1_:B_;K_^(Česká_fotbalová_liga)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ČFL-1_:B_;K_^(Česká_fotbalová_liga)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČFL-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd92251-110-p4s6w20">
 <src.rf>manual</src.rf>
@@ -1723,6 +1741,7 @@
 <AM lemma="Stúpal_;S" src="orig">NNMS4-----A----</AM>
 <AM lemma="Stúpal_;S" src="auto" recommended="1">NNMS3-----A---1</AM>
 <AM lemma="Stúpal_;S" src="auto">NNMS6-----A---1</AM>
+<AM lemma="Stúpala_;S" src="manual" selected="1">NNMS4-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92251-110-p5s3w10">
@@ -2659,7 +2678,10 @@
 <LM>w#w-lnd92251-110-p7s4w8</LM>
 </w.rf>
 <form>B</form>
-<tag lemma="b-3_^(označení_pomocí_písmene)" src="orig" selected="1">NNNXX-----A----</tag>
+<tag>
+<AM lemma="b-3_^(označení_pomocí_písmene)" src="orig">NNNXX-----A----</AM>
+<AM lemma="B-33_^(označení_pomocí_písmene)" src="manual" selected="1">NNNXX-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92251-110-p7s4w9">
 <src.rf>manual</src.rf>
@@ -3521,7 +3543,10 @@
 <LM>w#w-lnd92251-110-p8s7w16</LM>
 </w.rf>
 <form>J</form>
-<tag lemma="J-0_:B_;Y" src="orig" selected="1">NNMXX-----A---8</tag>
+<tag>
+<AM lemma="J-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
+<AM lemma="J-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd92251-110-p8s7w17">
 <src.rf>manual</src.rf>
@@ -4213,7 +4238,10 @@
 <LM>w#w-lnd92251-110-p9s5w20</LM>
 </w.rf>
 <form>Dun</form>
-<tag lemma="duna" src="orig" selected="1">NNFP2-----A----</tag>
+<tag>
+<AM lemma="duna" src="orig">NNFP2-----A----</AM>
+<AM lemma="dunajský_:B_;G" src="manual" selected="1">AAFP2----1A----</AM>
+</tag>
 </m>
 <m id="m-lnd92251-110-p9s5w21">
 <src.rf>manual</src.rf>
@@ -4247,7 +4275,7 @@
 <form>Hr</form>
 <tag>
 <AM lemma="Hradec-2_;G" src="orig">NNIXX-----A----</AM>
-<AM lemma="Hradec-2_:B_;G" src="auto" recommended="1">NNIXX-----A---8</AM>
+<AM lemma="Hradec-2_:B_;G" src="auto" recommended="1" selected="1">NNIXX-----A---8</AM>
 <AM lemma="hr-1" src="auto">Db-------------</AM>
 <AM lemma="hr-2" src="auto">II-------------</AM>
 </tag>

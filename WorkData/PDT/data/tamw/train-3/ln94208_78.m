@@ -29,7 +29,10 @@
 <LM>w#w-ln94208-78-p2s1w1</LM>
 </w.rf>
 <form>Rubens</form>
-<tag lemma="Rubens_;S" src="auto" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Rubens_;S" src="auto">NNMS1-----A----</AM>
+<AM lemma="Rubens_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94208-78-p2s1w2">
 <src.rf>manual</src.rf>
@@ -245,7 +248,10 @@
 <LM>w#w-ln94208-78-p2s1w28</LM>
 </w.rf>
 <form>Fernanda</form>
-<tag lemma="Fernando_;Y_,t" src="auto" selected="1">NNMS2-----A----</tag>
+<tag>
+<AM lemma="Fernando_;Y_,t" src="auto">NNMS2-----A----</AM>
+<AM lemma="Fernando_;Y" src="manual" selected="1">NNMS2-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94208-78-p2s1w29">
 <src.rf>manual</src.rf>
@@ -1242,7 +1248,7 @@
 <form>jakémukoli</form>
 <tag>
 <AM lemma="jakýkoliv" src="orig">PZZS3---------1</AM>
-<AM lemma="jakýkoli" src="auto" recommended="1">PZZS3----------</AM>
+<AM lemma="jakýkoli" src="auto" recommended="1" selected="1">PZZS3----------</AM>
 </tag>
 </m>
 <m id="m-ln94208-78-p5s2w14">
@@ -1455,7 +1461,10 @@
 <LM>w#w-ln94208-78-p6s1w5</LM>
 </w.rf>
 <form>Srí</form>
-<tag lemma="Srí_;G" src="orig" selected="1">AAFXX----1A----</tag>
+<tag>
+<AM lemma="Srí_;G" src="orig">AAFXX----1A----</AM>
+<AM lemma="Srí-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94208-78-p6s1w6">
 <src.rf>manual</src.rf>
@@ -1714,7 +1723,10 @@
 <LM>w#w-ln94208-78-p7s1w2</LM>
 </w.rf>
 <form>SRN</form>
-<tag lemma="SRN_:B_;G" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="SRN_:B_;G" src="orig">NNFXX-----A---8</AM>
+<AM lemma="SRN-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94208-78-p7s1w3">
 <src.rf>manual</src.rf>

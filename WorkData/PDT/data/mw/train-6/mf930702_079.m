@@ -101,7 +101,10 @@
 <LM>w#w-mf930702-079-p2s1w8</LM>
 </w.rf>
 <form>podepsána</form>
-<tag lemma="podepsat" src="orig" selected="1">VsQW---XX-AP---</tag>
+<tag>
+<AM lemma="podepsat" src="orig">VsQW---XX-AP---</AM>
+<AM lemma="podepsat_:W" src="manual" selected="1">VsQW---XX-AP---</AM>
+</tag>
 </m>
 <m id="m-mf930702-079-p2s1w9">
 <src.rf>manual</src.rf>
@@ -149,7 +152,11 @@
 <LM>w#w-mf930702-079-p2s1w14</LM>
 </w.rf>
 <form>sokolům</form>
-<tag lemma="sokol-1_;L_^(pták)" src="auto" selected="1">NNMP3-----A----</tag>
+<tag>
+<AM lemma="sokol-1_;L_^(pták)" src="auto">NNMP3-----A----</AM>
+<AM lemma="	sokol-2_;K_^(organizace)" src="manual">NNMP3-----A----</AM>
+<AM lemma="sokol-2_;K_^(organizace)" src="manual" selected="1">NNMP3-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930702-079-p2s1w15">
 <src.rf>manual</src.rf>
@@ -351,7 +358,10 @@
 <LM>w#w-mf930702-079-p2s2w6</LM>
 </w.rf>
 <form>pronajata</form>
-<tag lemma="pronajmout" src="orig" selected="1">VsQW---XX-AP---</tag>
+<tag>
+<AM lemma="pronajmout" src="orig">VsQW---XX-AP---</AM>
+<AM lemma="pronajmout_:W" src="manual" selected="1">VsQW---XX-AP---</AM>
+</tag>
 </m>
 <m id="m-mf930702-079-p2s2w7">
 <src.rf>manual</src.rf>
@@ -490,6 +500,7 @@
 <tag>
 <AM lemma="ČOS_:B_;K_^(Česká_obec_sokolská)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="ČOS_:B" src="auto" recommended="1">NNXXX-----A---8</AM>
+<AM lemma="ČOS-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930702-079-p2s2w24">
@@ -533,6 +544,7 @@
 <tag>
 <AM lemma="ČOS_:B_;K_^(Česká_obec_sokolská)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="ČOS_:B" src="auto" recommended="1">NNXXX-----A---8</AM>
+<AM lemma="ČOS-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930702-079-p2s2w29">

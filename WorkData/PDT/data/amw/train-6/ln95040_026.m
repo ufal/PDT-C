@@ -103,7 +103,10 @@
 <LM>w#w-ln95040-026-p2s1Bw6</LM>
 </w.rf>
 <form>Voda</form>
-<tag lemma="voda" src="orig" selected="1">NNFS1-----A----</tag>
+<tag>
+<AM lemma="voda" src="orig">NNFS1-----A----</AM>
+<AM lemma="Voda-1_;S" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95040-026-p2s1Bw7">
 <src.rf>manual</src.rf>
@@ -297,7 +300,10 @@
 <LM>w#w-ln95040-026-p2s2w14</LM>
 </w.rf>
 <form>dr</form>
-<tag lemma="doktor_:B_^(doktor,_akad._titul)" src="orig" selected="1">NNMXX-----A---8</tag>
+<tag>
+<AM lemma="doktor_:B_^(doktor,_akad._titul)" src="orig">NNMXX-----A---8</AM>
+<AM lemma="dr_:B_^(doktor)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95040-026-p2s2w15">
 <src.rf>manual</src.rf>
@@ -313,7 +319,10 @@
 <LM>w#w-ln95040-026-p2s2w16</LM>
 </w.rf>
 <form>Voda</form>
-<tag lemma="voda" src="orig" selected="1">NNFS1-----A----</tag>
+<tag>
+<AM lemma="voda" src="orig">NNFS1-----A----</AM>
+<AM lemma="Voda-1_;S" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95040-026-p2s2w17">
 <src.rf>manual</src.rf>

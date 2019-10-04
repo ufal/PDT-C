@@ -139,7 +139,10 @@
 <LM>w#w-lnd91301-052-p1s1w16</LM>
 </w.rf>
 <form>NON</form>
-<tag lemma="nona" src="orig" selected="1">NNFP2-----A----</tag>
+<tag>
+<AM lemma="nona" src="orig">NNFP2-----A----</AM>
+<AM lemma="NON-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-lnd91301-052-p1s1w17">
 <src.rf>manual</src.rf>
@@ -147,7 +150,10 @@
 <LM>w#w-lnd91301-052-p1s1w17</LM>
 </w.rf>
 <form>STOP</form>
-<tag lemma="stop-1_^(zastavení,_i_stopování)" src="auto" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="stop-1_^(zastavení,_i_stopování)" src="auto">NNIS1-----A----</AM>
+<AM lemma="STOP-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-lnd91301-052-p1s1w18">
 <src.rf>manual</src.rf>

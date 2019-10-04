@@ -663,7 +663,10 @@
 <LM>w#w-ln94206-99-p2s4w10</LM>
 </w.rf>
 <form>Mauvaises</form>
-<tag lemma="Mauvaises_;K_,t" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="Mauvaises_;K_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="Mauvaises-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94206-99-p2s4w11">
 <src.rf>manual</src.rf>
@@ -671,7 +674,10 @@
 <LM>w#w-ln94206-99-p2s4w11</LM>
 </w.rf>
 <form>Herbes</form>
-<tag lemma="Herbes_;K_,t" src="orig" selected="1">NNFPX-----A----</tag>
+<tag>
+<AM lemma="Herbes_;K_,t" src="orig">NNFPX-----A----</AM>
+<AM lemma="Herbes-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94206-99-p2s4w12">
 <src.rf>manual</src.rf>
@@ -818,6 +824,7 @@
 <tag>
 <AM lemma="Pour_;m_,t" src="orig">RR--X----------</AM>
 <AM lemma="Pour_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Pour-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-ln94206-99-p2s4w30">
@@ -826,7 +833,10 @@
 <LM>w#w-ln94206-99-p2s4w30</LM>
 </w.rf>
 <form>parler</form>
-<tag lemma="parler_;m_,t" src="orig" selected="1">NNNXX-----A----</tag>
+<tag>
+<AM lemma="parler_;m_,t" src="orig">NNNXX-----A----</AM>
+<AM lemma="parler-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94206-99-p2s4w31">
 <src.rf>manual</src.rf>
@@ -956,7 +966,10 @@
 <LM>w#w-ln94206-99-p3s1w10</LM>
 </w.rf>
 <form>Mauvaises</form>
-<tag lemma="Mauvaises_;K_,t" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="Mauvaises_;K_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="Mauvaises-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94206-99-p3s1w11">
 <src.rf>manual</src.rf>
@@ -964,7 +977,10 @@
 <LM>w#w-ln94206-99-p3s1w11</LM>
 </w.rf>
 <form>Herbes</form>
-<tag lemma="Herbes_;K_,t" src="orig" selected="1">NNFPX-----A----</tag>
+<tag>
+<AM lemma="Herbes_;K_,t" src="orig">NNFPX-----A----</AM>
+<AM lemma="Herbes-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94206-99-p3s1w12">
 <src.rf>manual</src.rf>
@@ -1053,7 +1069,7 @@
 </w.rf>
 <form>Grenoblu</form>
 <tag>
-<AM lemma="Grenoble_;G" src="orig">NNIS6-----A----</AM>
+<AM lemma="Grenoble_;G" src="orig" selected="1">NNIS6-----A----</AM>
 <AM lemma="Grenobl_;G" src="auto">NNIS2-----A----</AM>
 <AM lemma="Grenobl_;G" src="auto">NNIS3-----A----</AM>
 <AM lemma="Grenobl_;G" src="auto" recommended="1">NNIS6-----A----</AM>
@@ -1083,7 +1099,10 @@
 <LM>w#w-ln94206-99-p3s2w2</LM>
 </w.rf>
 <form>Atentation</form>
-<tag lemma="Atentation_;m_,t" src="orig" selected="1">NNFSX-----A----</tag>
+<tag>
+<AM lemma="Atentation_;m_,t" src="orig">NNFSX-----A----</AM>
+<AM lemma="Atentation-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94206-99-p3s2w3">
 <src.rf>manual</src.rf>
@@ -1205,7 +1224,7 @@
 <form>ovšem</form>
 <tag>
 <AM lemma="ovšem-1_^(avšak,_však;_odporovací_spojka)" src="orig">J^-------------</AM>
-<AM lemma="ovšem" src="auto" recommended="1">TT-------------</AM>
+<AM lemma="ovšem" src="auto" recommended="1" selected="1">TT-------------</AM>
 </tag>
 </m>
 <m id="m-ln94206-99-p3s2w19">
@@ -1230,7 +1249,10 @@
 <LM>w#w-ln94206-99-p3s2w21</LM>
 </w.rf>
 <form>L</form>
-<tag lemma="L-10_^(př._L'Aqua,_stažený_tvar_fr._členu)" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="L-10_^(př._L'Aqua,_stažený_tvar_fr._členu)" src="orig">AAXXX----1A----</AM>
+<AM lemma="L-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94206-99-p3s2w22">
 <src.rf>manual</src.rf>
@@ -1246,7 +1268,10 @@
 <LM>w#w-ln94206-99-p3s2w23</LM>
 </w.rf>
 <form>envers</form>
-<tag lemma="envers_;m_,t" src="orig" selected="1">NNIXX-----A----</tag>
+<tag>
+<AM lemma="envers_;m_,t" src="orig">NNIXX-----A----</AM>
+<AM lemma="envers-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94206-99-p3s2w24">
 <src.rf>manual</src.rf>
@@ -1257,6 +1282,7 @@
 <tag>
 <AM lemma="des_;m_,t" src="orig">AAXXX----1A----</AM>
 <AM lemma="desátník_:B" src="auto" recommended="1">NNMXX-----A---8</AM>
+<AM lemma="des-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-ln94206-99-p3s2w25">
@@ -1265,7 +1291,10 @@
 <LM>w#w-ln94206-99-p3s2w25</LM>
 </w.rf>
 <form>choses</form>
-<tag lemma="choses_;m_,t" src="orig" selected="1">NNFPX-----A----</tag>
+<tag>
+<AM lemma="choses_;m_,t" src="orig">NNFPX-----A----</AM>
+<AM lemma="choses-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94206-99-p3s2w26">
 <src.rf>manual</src.rf>
@@ -1413,7 +1442,7 @@
 <form>nejen</form>
 <tag>
 <AM lemma="nejen" src="orig">TT-------------</AM>
-<AM lemma="nejen" src="auto" recommended="1">Db-------------</AM>
+<AM lemma="nejen" src="auto" recommended="1" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m-ln94206-99-p3s3w7">
@@ -1914,7 +1943,10 @@
 <LM>w#w-ln94206-99-p3s5w4</LM>
 </w.rf>
 <form>Le</form>
-<tag lemma="Le-1_,t_^(franc._člen_jako_souč._jmen_a_názvů)" src="orig" selected="1">AAMSX----1A----</tag>
+<tag>
+<AM lemma="Le-1_,t_^(franc._člen_jako_souč._jmen_a_názvů)" src="orig">AAMSX----1A----</AM>
+<AM lemma="Le-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94206-99-p3s5w5">
 <src.rf>manual</src.rf>
@@ -1987,7 +2019,7 @@
 </w.rf>
 <form>Villard</form>
 <tag>
-<AM lemma="Villard_;G" src="orig">NNISX-----A----</AM>
+<AM lemma="Villard_;G" src="orig" selected="1">NNISX-----A----</AM>
 <AM lemma="Villard_;S" src="auto" recommended="1">NNMS1-----A----</AM>
 </tag>
 </m>
@@ -2005,7 +2037,10 @@
 <LM>w#w-ln94206-99-p3s5w15</LM>
 </w.rf>
 <form>de</form>
-<tag lemma="de_,t_^(z_franc._de,_zejm._ve_jménech)" src="orig" selected="1">RR--1----------</tag>
+<tag>
+<AM lemma="de_,t_^(z_franc._de,_zejm._ve_jménech)" src="orig">RR--1----------</AM>
+<AM lemma="de-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94206-99-p3s5w16">
 <src.rf>manual</src.rf>
@@ -2053,7 +2088,10 @@
 <LM>w#w-ln94206-99-p3s5w21</LM>
 </w.rf>
 <form>Mauvaises</form>
-<tag lemma="Mauvaises_;K_,t" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="Mauvaises_;K_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="Mauvaises-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94206-99-p3s5w22">
 <src.rf>manual</src.rf>
@@ -2061,7 +2099,10 @@
 <LM>w#w-ln94206-99-p3s5w22</LM>
 </w.rf>
 <form>Herbes</form>
-<tag lemma="Herbes_;K_,t" src="orig" selected="1">NNFPX-----A----</tag>
+<tag>
+<AM lemma="Herbes_;K_,t" src="orig">NNFPX-----A----</AM>
+<AM lemma="Herbes-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94206-99-p3s5w23">
 <src.rf>manual</src.rf>
@@ -2255,7 +2296,10 @@
 <LM>w#w-ln94206-99-p4s1w14</LM>
 </w.rf>
 <form>Le</form>
-<tag lemma="Le-1_,t_^(franc._člen_jako_souč._jmen_a_názvů)" src="orig" selected="1">AAMSX----1A----</tag>
+<tag>
+<AM lemma="Le-1_,t_^(franc._člen_jako_souč._jmen_a_názvů)" src="orig">AAMSX----1A----</AM>
+<AM lemma="Le-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94206-99-p4s1w15">
 <src.rf>manual</src.rf>
@@ -2917,7 +2961,10 @@
 <LM>w#w-ln94206-99-p5s2w25</LM>
 </w.rf>
 <form>Le</form>
-<tag lemma="Le-1_,t_^(franc._člen_jako_souč._jmen_a_názvů)" src="orig" selected="1">AAMSX----1A----</tag>
+<tag>
+<AM lemma="Le-1_,t_^(franc._člen_jako_souč._jmen_a_názvů)" src="orig">AAMSX----1A----</AM>
+<AM lemma="Le-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94206-99-p5s2w26">
 <src.rf>manual</src.rf>

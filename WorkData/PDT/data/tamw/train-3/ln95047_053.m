@@ -19,7 +19,10 @@
 <LM>w#w-ln95047-053-p1s1w1</LM>
 </w.rf>
 <form>R</form>
-<tag lemma="R-0_:B_;Y" src="orig" selected="1">NNMXX-----A---8</tag>
+<tag>
+<AM lemma="R-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
+<AM lemma="R-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95047-053-p1s1w2">
 <src.rf>manual</src.rf>
@@ -386,6 +389,8 @@
 <tag>
 <AM lemma="West-2_;G" src="orig">AAXXX----1A----</AM>
 <AM lemma="West_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="west_,t" src="manual">AAXXX----1A----</AM>
+<AM lemma="West-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-ln95047-053-p2s2w22">

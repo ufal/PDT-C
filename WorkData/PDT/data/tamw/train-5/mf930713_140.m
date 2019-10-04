@@ -125,7 +125,10 @@
 <LM>w#w-mf930713-140-p2s1w6</LM>
 </w.rf>
 <form>ani</form>
-<tag lemma="ani-1" src="auto" selected="1">J^-------------</tag>
+<tag>
+<AM lemma="ani-1" src="auto">J^-------------</AM>
+<AM lemma="ani-2" src="manual" selected="1">TT-------------</AM>
+</tag>
 </m>
 <m id="m-mf930713-140-p2s1w7">
 <src.rf>manual</src.rf>
@@ -237,7 +240,10 @@
 <LM>w#w-mf930713-140-p2s1w20</LM>
 </w.rf>
 <form>Seko</form>
-<tag lemma="Seko_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Seko_;S" src="orig">NNMS1-----A----</AM>
+<AM lemma="Seko_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930713-140-p2s1w21">
 <src.rf>manual</src.rf>
@@ -423,7 +429,10 @@
 <LM>w#w-mf930713-140-p2s2w3</LM>
 </w.rf>
 <form>OSN</form>
-<tag lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930713-140-p2s2w4">
 <src.rf>manual</src.rf>
@@ -527,7 +536,10 @@
 <LM>w#w-mf930713-140-p2s2w16</LM>
 </w.rf>
 <form>např</form>
-<tag lemma="například_:B" src="orig" selected="1">Db------------8</tag>
+<tag>
+<AM lemma="například_:B" src="orig">Db------------8</AM>
+<AM lemma="například" src="manual" selected="1">Db------------8</AM>
+</tag>
 </m>
 <m id="m-mf930713-140-p2s2w17">
 <src.rf>manual</src.rf>
@@ -1149,7 +1161,10 @@
 <LM>w#w-mf930713-140-p2s5w7</LM>
 </w.rf>
 <form>Etienne</form>
-<tag lemma="Etienne_;Y_,t" src="auto" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Etienne_;Y_,t" src="auto">NNMS1-----A----</AM>
+<AM lemma="Etienne_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930713-140-p2s5w8">
 <src.rf>manual</src.rf>
@@ -1481,7 +1496,10 @@
 <LM>w#w-mf930713-140-p2s8w2</LM>
 </w.rf>
 <form>Etienne</form>
-<tag lemma="Etienne_;Y_,t" src="auto" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Etienne_;Y_,t" src="auto">NNMS1-----A----</AM>
+<AM lemma="Etienne_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930713-140-p2s8w3">
 <src.rf>manual</src.rf>
@@ -1845,7 +1863,10 @@
 <LM>w#w-mf930713-140-p2s10w16</LM>
 </w.rf>
 <form>OSN</form>
-<tag lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930713-140-p2s10w17">
 <src.rf>manual</src.rf>
@@ -1901,7 +1922,10 @@
 <LM>w#w-mf930713-140-p2s10w23</LM>
 </w.rf>
 <form>Jonas</form>
-<tag lemma="Jonas_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Jonas_;S" src="orig">NNMS1-----A----</AM>
+<AM lemma="Jonas_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930713-140-p2s10w24">
 <src.rf>manual</src.rf>
@@ -1925,7 +1949,10 @@
 <LM>w#w-mf930713-140-p2s10w26</LM>
 </w.rf>
 <form>UNITA</form>
-<tag lemma="UNITA_:B_;K_;p_^(partyz._org._v_Angole)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="UNITA_:B_;K_;p_^(partyz._org._v_Angole)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="UNITA-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-mf930713-140-p2s10w27">
 <src.rf>manual</src.rf>
@@ -2393,7 +2420,10 @@
 <LM>w#w-mf930713-140-p2s13w1</LM>
 </w.rf>
 <form>Spíše</form>
-<tag lemma="spíše" src="orig" selected="1">Dg-------2A---1</tag>
+<tag>
+<AM lemma="spíše" src="orig">Dg-------2A---1</AM>
+<AM lemma="spíše" src="manual" selected="1">TT------------1</AM>
+</tag>
 </m>
 <m id="m-mf930713-140-p2s13w2">
 <src.rf>manual</src.rf>

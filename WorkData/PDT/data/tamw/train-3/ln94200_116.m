@@ -139,7 +139,7 @@
 <AM lemma="Beriša_;S" src="orig">NNMS2-----A----</AM>
 <AM lemma="Beriša_;S" src="auto">NNMP4-----A---1</AM>
 <AM lemma="Beriša_;S" src="auto" recommended="1">NNMP7-----A---1</AM>
-<AM lemma="Beriša_;S" src="auto">NNMS2-----A---1</AM>
+<AM lemma="Beriša_;S" src="auto" selected="1">NNMS2-----A---1</AM>
 </tag>
 </m>
 <m id="m-ln94200-116-p2s1Bw10">
@@ -300,7 +300,10 @@
 <LM>w#w-ln94200-116-p2s1Bw29</LM>
 </w.rf>
 <form>KBSE</form>
-<tag lemma="KBSE_:B_;K_;p" src="auto" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="KBSE_:B_;K_;p" src="auto">NNFXX-----A---8</AM>
+<AM lemma="KBSE-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94200-116-p2s1Bw30">
 <src.rf>manual</src.rf>
@@ -424,7 +427,7 @@
 <form>dvoustrannému</form>
 <tag>
 <AM lemma="dvojstranný" src="orig">AAIS3----1A----</AM>
-<AM lemma="dvoustranný" src="auto" recommended="1">AAIS3----1A----</AM>
+<AM lemma="dvoustranný" src="auto" recommended="1" selected="1">AAIS3----1A----</AM>
 <AM lemma="dvoustranný" src="auto">AAMS3----1A----</AM>
 <AM lemma="dvoustranný" src="auto">AANS3----1A----</AM>
 </tag>
@@ -629,7 +632,10 @@
 <LM>w#w-ln94200-116-p2s3w2</LM>
 </w.rf>
 <form>van</form>
-<tag lemma="van-2_,t_^(v_hol._jménech)" src="orig" selected="1">RR--X----------</tag>
+<tag>
+<AM lemma="van-2_,t_^(v_hol._jménech)" src="orig">RR--X----------</AM>
+<AM lemma="van-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94200-116-p2s3w3">
 <src.rf>manual</src.rf>
@@ -637,7 +643,10 @@
 <LM>w#w-ln94200-116-p2s3w3</LM>
 </w.rf>
 <form>der</form>
-<tag lemma="der-1_;K_,t_^(souč._něm._názvů,_např._Der_Spiegel_[člen_m.])" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="der-1_;K_,t_^(souč._něm._názvů,_např._Der_Spiegel_[člen_m.])" src="orig">AAXXX----1A----</AM>
+<AM lemma="der-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94200-116-p2s3w4">
 <src.rf>manual</src.rf>

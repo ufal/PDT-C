@@ -22,7 +22,7 @@
 <tag>
 <AM lemma="Andre_;Y" src="orig">NNMXX-----A----</AM>
 <AM lemma="Andr_;S" src="auto">NNMS5-----A----</AM>
-<AM lemma="Andre_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Andre_;Y" src="auto" recommended="1" selected="1">NNMS1-----A----</AM>
 <AM lemma="Andre_;Y" src="auto">NNMS5-----A----</AM>
 </tag>
 </m>
@@ -40,7 +40,11 @@
 <LM>w#w-mf930701-115-p1s1w3</LM>
 </w.rf>
 <form>sice</form>
-<tag lemma="sice-2" src="auto" selected="1">Db-------------</tag>
+<tag>
+<AM lemma="sice-2" src="auto">Db-------------</AM>
+<AM lemma="sice-1_^(spojka;_připouští_se_určitá_fakta" src="manual">J^-------------</AM>
+<AM lemma="sice-1_^(spojka;_připouští_se_určitá_fakta)" src="manual" selected="1">J^-------------</AM>
+</tag>
 </m>
 <m id="m-mf930701-115-p1s1w4">
 <src.rf>manual</src.rf>

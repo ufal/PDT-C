@@ -365,7 +365,10 @@
 <LM>w#w-mf920924-017-p2s4w3</LM>
 </w.rf>
 <form>K</form>
-<tag lemma="k-3_^(označení_pomocí_písmene)" src="orig" selected="1">NNNXX-----A----</tag>
+<tag>
+<AM lemma="k-3_^(označení_pomocí_písmene)" src="orig">NNNXX-----A----</AM>
+<AM lemma="K-33_^(označení_pomocí_písmene)" src="manual" selected="1">NNNXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920924-017-p2s4w4">
 <src.rf>manual</src.rf>
@@ -481,7 +484,7 @@
 <form>Přesto</form>
 <tag>
 <AM lemma="přesto" src="orig">Dg-------1A----</AM>
-<AM lemma="přesto-1" src="auto" recommended="1">Db-------------</AM>
+<AM lemma="přesto-1" src="auto" recommended="1" selected="1">Db-------------</AM>
 <AM lemma="přesto-2" src="auto">J^-------------</AM>
 </tag>
 </m>
@@ -728,7 +731,7 @@
 <tag>
 <AM lemma="dít" src="orig">Vf--------A----</AM>
 <AM lemma="dít-2_^(říkat)" src="auto" recommended="1">Vf--------A----</AM>
-<AM lemma="dít-1_^(dít_se)" src="auto">Vf--------A----</AM>
+<AM lemma="dít-1_^(dít_se)" src="auto" selected="1">Vf--------A----</AM>
 </tag>
 </m>
 <m id="m-mf920924-017-p2s6w6">
@@ -877,6 +880,7 @@
 <AM lemma="MEZ_:B_;K" src="orig">NNXXX-----A---8</AM>
 <AM lemma="mez" src="auto" recommended="1">NNFS1-----A----</AM>
 <AM lemma="mez" src="auto">NNFS4-----A----</AM>
+<AM lemma="MEZ-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-mf920924-017-p2s6w24">
@@ -1083,7 +1087,7 @@
 <form>nedělo</form>
 <tag>
 <AM lemma="dít" src="orig">VpNS---XR-NA---</AM>
-<AM lemma="dít-1_^(dít_se)" src="auto" recommended="1">VpNS---XR-NA---</AM>
+<AM lemma="dít-1_^(dít_se)" src="auto" recommended="1" selected="1">VpNS---XR-NA---</AM>
 <AM lemma="dít-2_^(říkat)" src="auto">VpNS---XR-NA---</AM>
 </tag>
 </m>
@@ -1143,7 +1147,7 @@
 <form>začít</form>
 <tag>
 <AM lemma="začít-1" src="orig">Vf--------A----</AM>
-<AM lemma="začít-1_^(začnout)" src="auto" recommended="1">Vf--------A----</AM>
+<AM lemma="začít-1_^(začnout)" src="auto" recommended="1" selected="1">Vf--------A----</AM>
 <AM lemma="začít-2_^(pocítit)" src="auto">Vf--------A----</AM>
 </tag>
 </m>
@@ -1342,7 +1346,10 @@
 <LM>w#w-mf920924-017-p2s10w4</LM>
 </w.rf>
 <form>ČSTV</form>
-<tag lemma="ČSTV_:B_^(Československý_svaz_tělesné_výchovy)" src="auto" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="ČSTV_:B_^(Československý_svaz_tělesné_výchovy)" src="auto">NNXXX-----A---8</AM>
+<AM lemma="ČSTV-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-mf920924-017-p2s10w5">
 <src.rf>manual</src.rf>
@@ -3079,7 +3086,10 @@
 <LM>w#w-mf920924-017-p2s21w7</LM>
 </w.rf>
 <form>ČSTV</form>
-<tag lemma="ČSTV_:B_^(Československý_svaz_tělesné_výchovy)" src="auto" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="ČSTV_:B_^(Československý_svaz_tělesné_výchovy)" src="auto">NNXXX-----A---8</AM>
+<AM lemma="ČSTV-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-mf920924-017-p2s21w8">
 <src.rf>manual</src.rf>

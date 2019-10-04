@@ -209,7 +209,10 @@
 <LM>w#w-mf920901-085-p2s2w6</LM>
 </w.rf>
 <form>st</form>
-<tag lemma="st-1_:B_,t_^(stére,_ster,_jednotka_objemu)" src="orig" selected="1">NNIXX-----A----</tag>
+<tag>
+<AM lemma="st-1_:B_,t_^(stére,_ster,_jednotka_objemu)" src="orig">NNIXX-----A----</AM>
+<AM lemma="stupeň" src="manual" selected="1">NNIXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-mf920901-085-p2s2w7">
 <src.rf>manual</src.rf>
@@ -225,7 +228,10 @@
 <LM>w#w-mf920901-085-p2s2w8</LM>
 </w.rf>
 <form>C</form>
-<tag lemma="c-3_^(označení_pomocí_písmene)" src="orig" selected="1">NNNXX-----A----</tag>
+<tag>
+<AM lemma="c-3_^(označení_pomocí_písmene)" src="orig">NNNXX-----A----</AM>
+<AM lemma="Celsius" src="manual" selected="1">NNMXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-mf920901-085-p2s2w9">
 <src.rf>manual</src.rf>
@@ -526,7 +532,10 @@
 <LM>w#w-mf920901-085-p2s4w21</LM>
 </w.rf>
 <form>jenom</form>
-<tag lemma="jenom-1" src="auto" selected="1">TT-------------</tag>
+<tag>
+<AM lemma="jenom-1" src="auto">TT-------------</AM>
+<AM lemma="jenom-2_^(pouze)" src="manual" selected="1">Db-------------</AM>
+</tag>
 </m>
 <m id="m-mf920901-085-p2s4w22">
 <src.rf>manual</src.rf>
@@ -606,7 +615,10 @@
 <LM>w#w-mf920901-085-p2s4w31</LM>
 </w.rf>
 <form>st</form>
-<tag lemma="st-1_:B_,t_^(stére,_ster,_jednotka_objemu)" src="orig" selected="1">NNIXX-----A----</tag>
+<tag>
+<AM lemma="st-1_:B_,t_^(stére,_ster,_jednotka_objemu)" src="orig">NNIXX-----A----</AM>
+<AM lemma="stupeň" src="manual" selected="1">NNIXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-mf920901-085-p2s4w32">
 <src.rf>manual</src.rf>
@@ -622,7 +634,10 @@
 <LM>w#w-mf920901-085-p2s4w33</LM>
 </w.rf>
 <form>C</form>
-<tag lemma="c-3_^(označení_pomocí_písmene)" src="orig" selected="1">NNNXX-----A----</tag>
+<tag>
+<AM lemma="c-3_^(označení_pomocí_písmene)" src="orig">NNNXX-----A----</AM>
+<AM lemma="Celsius" src="manual" selected="1">NNMXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-mf920901-085-p2s4w34">
 <src.rf>manual</src.rf>

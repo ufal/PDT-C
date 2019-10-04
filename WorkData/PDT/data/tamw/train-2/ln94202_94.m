@@ -149,7 +149,10 @@
 <LM>w#w-ln94202-94-p1s1Bw5</LM>
 </w.rf>
 <form>Alfa</form>
-<tag lemma="Alfa_;K_;R_^(vozidlo)" src="auto" selected="1">NNFS1-----A----</tag>
+<tag>
+<AM lemma="Alfa_;K_;R_^(vozidlo)" src="auto">NNFS1-----A----</AM>
+<AM lemma="alfa" src="manual" selected="1">NNFS1-----A----</AM>
+</tag>
 </m>
 </s>
 </mdata>

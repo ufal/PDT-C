@@ -109,7 +109,10 @@
 <LM>w#w-lnd94105-021-p1s1Bw3</LM>
 </w.rf>
 <form>ika</form>
-<tag lemma="ika-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="ika-99_:B_;S" src="orig">NNXXX-----A---8</AM>
+<AM lemma="ika-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd94105-021-p1s1Bw4">
 <src.rf>manual</src.rf>
@@ -183,7 +186,11 @@
 <LM>w#w-lnd94105-021-p1s1Cw8</LM>
 </w.rf>
 <form>srdečně</form>
-<tag lemma="srdečně_^(př._pozdrav,_člověk)_(*1í)" src="auto" selected="1">Dg-------1A----</tag>
+<tag>
+<AM lemma="srdečně_^(př._pozdrav,_člověk)_(*1í)" src="auto">Dg-------1A----</AM>
+<AM lemma="	srdeční_^(př._sval,_příhoda)" src="manual">A2--------A----</AM>
+<AM lemma="srdeční_^(př._sval,_příhoda)" src="manual" selected="1">A2--------A----</AM>
+</tag>
 </m>
 <m id="m-lnd94105-021-p1s1Cw9">
 <src.rf>manual</src.rf>
@@ -449,7 +456,10 @@
 <LM>w#w-lnd94105-021-p1s2w27</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-2" src="auto" selected="1">Dg-------2A----</tag>
+<tag>
+<AM lemma="hodně-2" src="auto">Dg-------2A----</AM>
+<AM lemma="hodně-3" src="manual" selected="1">Dg-------2A----</AM>
+</tag>
 </m>
 <m id="m-lnd94105-021-p1s2w28">
 <src.rf>manual</src.rf>
@@ -686,7 +696,10 @@
 <LM>w#w-lnd94105-021-p1s4w9</LM>
 </w.rf>
 <form>tzv</form>
-<tag lemma="takzvaný_:B" src="orig" selected="1">AAXXX----1A---8</tag>
+<tag>
+<AM lemma="takzvaný_:B" src="orig">AAXXX----1A---8</AM>
+<AM lemma="takzvaný" src="manual" selected="1">AAXXX----1A---8</AM>
+</tag>
 </m>
 <m id="m-lnd94105-021-p1s4w10">
 <src.rf>manual</src.rf>
@@ -984,7 +997,10 @@
 <LM>w#w-lnd94105-021-p1s5w15</LM>
 </w.rf>
 <form>UK</form>
-<tag lemma="UK-1_:B_;K_^(Univerzita_Karlova_Praha)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="UK-1_:B_;K_^(Univerzita_Karlova_Praha)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="UK-1_:B_;K_^(Univerzita_Karlova_Praha)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd94105-021-p1s5w16">
 <src.rf>manual</src.rf>
@@ -1024,7 +1040,11 @@
 <LM>w#w-lnd94105-021-p1s5w20</LM>
 </w.rf>
 <form>Ecolife</form>
-<tag lemma="Ecolife_;m_,t" src="orig" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="Ecolife_;m_,t" src="orig">NNIS1-----A----</AM>
+<AM lemma="Ecolife" src="manual">NNIS1-----A----</AM>
+<AM lemma="Ecolife-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-lnd94105-021-p1s5w21">
 <src.rf>manual</src.rf>
@@ -1301,7 +1321,10 @@
 <LM>w#w-lnd94105-021-p1s7w3</LM>
 </w.rf>
 <form>Ecolife</form>
-<tag lemma="Ecolife_;m_,t" src="orig" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="Ecolife_;m_,t" src="orig">NNIS1-----A----</AM>
+<AM lemma="Ecolife-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-lnd94105-021-p1s7w4">
 <src.rf>manual</src.rf>
@@ -1623,7 +1646,10 @@
 <LM>w#w-lnd94105-021-p1s8w12</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-2" src="auto" selected="1">Dg-------2A----</tag>
+<tag>
+<AM lemma="hodně-2" src="auto">Dg-------2A----</AM>
+<AM lemma="hodně-3" src="manual" selected="1">Dg-------2A----</AM>
+</tag>
 </m>
 <m id="m-lnd94105-021-p1s8w13">
 <src.rf>manual</src.rf>

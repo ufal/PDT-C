@@ -633,7 +633,10 @@
 <LM>w#w-cmpr9416-029-p5s3w27</LM>
 </w.rf>
 <form>New</form>
-<tag lemma="New-1_;G_,t_^(součást_míst._jmen)" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="New-1_;G_,t_^(součást_míst._jmen)" src="orig">AAXXX----1A----</AM>
+<AM lemma="New-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-cmpr9416-029-p5s3w28">
 <src.rf>manual</src.rf>
@@ -641,7 +644,10 @@
 <LM>w#w-cmpr9416-029-p5s3w28</LM>
 </w.rf>
 <form>York</form>
-<tag lemma="York-2_;G" src="orig" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="York-2_;G" src="orig">NNIS1-----A----</AM>
+<AM lemma="York-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-cmpr9416-029-p5s3w29">
 <src.rf>manual</src.rf>
@@ -649,7 +655,10 @@
 <LM>w#w-cmpr9416-029-p5s3w29</LM>
 </w.rf>
 <form>Times</form>
-<tag lemma="Times-1_;K_,t_^(souč._názvů,_např._The_Times)" src="orig" selected="1">NNIPX-----A----</tag>
+<tag>
+<AM lemma="Times-1_;K_,t_^(souč._názvů,_např._The_Times)" src="orig">NNIPX-----A----</AM>
+<AM lemma="Times-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-cmpr9416-029-p5s3w30">
 <src.rf>manual</src.rf>
@@ -685,7 +694,7 @@
 <form>snad</form>
 <tag>
 <AM lemma="snad" src="orig">Db-------------</AM>
-<AM lemma="snad" src="auto" recommended="1">TT-------------</AM>
+<AM lemma="snad" src="auto" recommended="1" selected="1">TT-------------</AM>
 </tag>
 </m>
 <m id="m-cmpr9416-029-p6s1w4">
@@ -742,7 +751,10 @@
 <LM>w#w-cmpr9416-029-p6s1w10</LM>
 </w.rf>
 <form>jen</form>
-<tag lemma="jen-1" src="auto" selected="1">TT-------------</tag>
+<tag>
+<AM lemma="jen-1" src="auto">TT-------------</AM>
+<AM lemma="jen-4_^(pouze)" src="manual" selected="1">Db-------------</AM>
+</tag>
 </m>
 <m id="m-cmpr9416-029-p6s1w11">
 <src.rf>manual</src.rf>
@@ -1042,7 +1054,10 @@
 <LM>w#w-cmpr9416-029-p8s1Aw2</LM>
 </w.rf>
 <form>sice</form>
-<tag lemma="sice-2" src="auto" selected="1">Db-------------</tag>
+<tag>
+<AM lemma="sice-2" src="auto">Db-------------</AM>
+<AM lemma="sice-1_^(spojka;_připouští_se_určitá_fakta)" src="manual" selected="1">J^-------------</AM>
+</tag>
 </m>
 <m id="m-cmpr9416-029-p8s1Aw3">
 <src.rf>manual</src.rf>
@@ -1316,7 +1331,10 @@
 <LM>w#w-cmpr9416-029-p8s1Bw14</LM>
 </w.rf>
 <form>kuponové</form>
-<tag lemma="kupónový" src="orig" selected="1">AAFS6----1A----</tag>
+<tag>
+<AM lemma="kupónový" src="orig">AAFS6----1A----</AM>
+<AM lemma="kuponový_,s_^(^DD**kupónový)" src="manual" selected="1">AAFS6----1A----</AM>
+</tag>
 </m>
 <m id="m-cmpr9416-029-p8s1Bw15">
 <src.rf>manual</src.rf>

@@ -96,6 +96,7 @@
 <AM lemma="mimo-1_:B" src="auto">RR--4---------8</AM>
 <AM lemma="minuta_:B" src="auto">NNFXX-----A---8</AM>
 <AM lemma="město_:B" src="auto">NNNXX-----A---8</AM>
+<AM lemma="metr" src="manual" selected="1">NNIXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-ln94209-81-p2s1Bw6">
@@ -136,7 +137,10 @@
 <LM>w#w-ln94209-81-p2s1Bw10</LM>
 </w.rf>
 <form>MS</form>
-<tag lemma="MS-3_:B_;w_^(mistrovství_světa)" src="orig" selected="1">NNNXX-----A---8</tag>
+<tag>
+<AM lemma="MS-3_:B_;w_^(mistrovství_světa)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="MS-3_:B_^(mistrovství_světa)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94209-81-p2s1Bw11">
 <src.rf>manual</src.rf>
@@ -223,6 +227,7 @@
 <AM lemma="i-3_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
 <AM lemma="i-4_^(graf._oddělovač)" src="auto">Z:-------------</AM>
 <AM lemma="i-8_:B_^(ost._zkratka)" src="auto">XX------------8</AM>
+<AM lemma="i_;Y" src="manual" selected="1">NNFXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94209-81-p2s1Bw21">
@@ -321,7 +326,10 @@
 <LM>w#w-ln94209-81-p2s2w6</LM>
 </w.rf>
 <form>Jenny</form>
-<tag lemma="Jenny_;Y_,t" src="auto" selected="1">NNFXX-----A----</tag>
+<tag>
+<AM lemma="Jenny_;Y_,t" src="auto">NNFXX-----A----</AM>
+<AM lemma="Jenny_;Y" src="manual" selected="1">NNFXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94209-81-p2s2w7">
 <src.rf>manual</src.rf>
@@ -571,7 +579,10 @@
 <LM>w#w-ln94209-81-p2s3w19</LM>
 </w.rf>
 <form>jen</form>
-<tag lemma="jen-1" src="auto" selected="1">TT-------------</tag>
+<tag>
+<AM lemma="jen-1" src="auto">TT-------------</AM>
+<AM lemma="jen-4_^(pouze)" src="manual" selected="1">Db-------------</AM>
+</tag>
 </m>
 <m id="m-ln94209-81-p2s3w20">
 <src.rf>manual</src.rf>
@@ -595,7 +606,10 @@
 <LM>w#w-ln94209-81-p2s3w22</LM>
 </w.rf>
 <form>s</form>
-<tag lemma="s-2`sekunda_:B" src="auto" selected="1">NNFXX-----A---1</tag>
+<tag>
+<AM lemma="s-2`sekunda_:B" src="auto">NNFXX-----A---1</AM>
+<AM lemma="sekunda" src="manual" selected="1">NNFXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln94209-81-p2s3w23">
 <src.rf>manual</src.rf>
@@ -880,6 +894,7 @@
 <AM lemma="tajit_:T" src="auto">Vi-S---3--A---4</AM>
 <AM lemma="tát" src="auto">Vi-S---2--A----</AM>
 <AM lemma="tát" src="auto">Vi-S---3--A---4</AM>
+<AM lemma="Taj_;S" src="manual" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94209-81-p2s5w4">

@@ -119,7 +119,10 @@
 <LM>w#w-ln95045-105-p2s1Bw4</LM>
 </w.rf>
 <form>CKP</form>
-<tag lemma="CKP_:B_;K" src="auto" selected="1">NNNXX-----A---8</tag>
+<tag>
+<AM lemma="CKP_:B_;K" src="auto">NNNXX-----A---8</AM>
+<AM lemma="CKP-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln95045-105-p2s1Bw5">
 <src.rf>manual</src.rf>

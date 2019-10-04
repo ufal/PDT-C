@@ -37,7 +37,7 @@
 <form>Abcházové</form>
 <tag>
 <AM lemma="Abcház_;E" src="orig">NNMP1-----A----</AM>
-<AM lemma="Abcház_;E" src="auto" recommended="1">NNMP1-----A---1</AM>
+<AM lemma="Abcház_;E" src="auto" recommended="1" selected="1">NNMP1-----A---1</AM>
 <AM lemma="Abcház_;E" src="auto">NNMP5-----A---1</AM>
 </tag>
 </m>
@@ -271,7 +271,10 @@
 <LM>w#w-mf920902-144-p2s3w11</LM>
 </w.rf>
 <form>dobýt</form>
-<tag lemma="dobýt" src="orig" selected="1">Vf--------A----</tag>
+<tag>
+<AM lemma="dobýt" src="orig">Vf--------A----</AM>
+<AM lemma="dobýt_:W" src="manual" selected="1">Vf--------A----</AM>
+</tag>
 </m>
 <m id="m-mf920902-144-p2s3w12">
 <src.rf>manual</src.rf>
@@ -344,7 +347,7 @@
 </w.rf>
 <form>Ešery</form>
 <tag>
-<AM lemma="Ešery_;G" src="orig">NNXXX-----A----</AM>
+<AM lemma="Ešery_;G" src="orig" selected="1">NNXXX-----A----</AM>
 <AM lemma="Ešer_;S" src="auto" recommended="1">NNMP4-----A----</AM>
 <AM lemma="Ešer_;S" src="auto">NNMP7-----A----</AM>
 </tag>
@@ -551,7 +554,10 @@
 <LM>w#w-mf920902-144-p3s1w5</LM>
 </w.rf>
 <form>řekl</form>
-<tag lemma="říci" src="auto" selected="1">VpYS---XR-AA---</tag>
+<tag>
+<AM lemma="říci" src="auto">VpYS---XR-AA---</AM>
+<AM lemma="říci_:W" src="manual" selected="1">VpYS---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-mf920902-144-p3s1w6">
 <src.rf>manual</src.rf>
@@ -889,7 +895,10 @@
 <LM>w#w-mf920902-144-p3s2w3</LM>
 </w.rf>
 <form>stala</form>
-<tag lemma="stát-2_^(něco_se_přihodilo)" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag>
+<AM lemma="stát-2_^(něco_se_přihodilo)" src="orig">VpQW---XR-AA---</AM>
+<AM lemma="stát-2_:W_^(něco_se_přihodilo)" src="manual" selected="1">VpQW---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-mf920902-144-p3s2w4">
 <src.rf>manual</src.rf>

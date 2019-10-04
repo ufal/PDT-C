@@ -1491,7 +1491,10 @@
 <LM>w#w-ln95040-089-p6s1w9</LM>
 </w.rf>
 <form>PFP</form>
-<tag lemma="PFP-1_:B_,t_^(prefetch_processor)" src="auto" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="PFP-1_:B_,t_^(prefetch_processor)" src="auto">NNIXX-----A---8</AM>
+<AM lemma="PFP-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln95040-089-p6s1w10">
 <src.rf>manual</src.rf>
@@ -2825,7 +2828,10 @@
 <LM>w#w-ln95040-089-p9s7w4</LM>
 </w.rf>
 <form>ani</form>
-<tag lemma="ani-1" src="auto" selected="1">J^-------------</tag>
+<tag>
+<AM lemma="ani-1" src="auto">J^-------------</AM>
+<AM lemma="ani-2" src="manual" selected="1">TT-------------</AM>
+</tag>
 </m>
 <m id="m-ln95040-089-p9s7w5">
 <src.rf>manual</src.rf>
@@ -2942,7 +2948,7 @@
 <tag>
 <AM lemma="tedy" src="orig">Db-------------</AM>
 <AM lemma="tedy-1" src="auto">TT-------------</AM>
-<AM lemma="tedy-2" src="auto" recommended="1">J^-------------</AM>
+<AM lemma="tedy-2" src="auto" recommended="1" selected="1">J^-------------</AM>
 </tag>
 </m>
 <m id="m-ln95040-089-p9s8Aw4">
@@ -3681,7 +3687,7 @@
 <form>třeba</form>
 <tag>
 <AM lemma="třeba-1" src="orig">ACNS------A----</AM>
-<AM lemma="třeba-2" src="auto" recommended="1">Db-------------</AM>
+<AM lemma="třeba-2" src="auto" recommended="1" selected="1">Db-------------</AM>
 <AM lemma="třeba-3" src="auto">TT-------------</AM>
 </tag>
 </m>
@@ -4130,7 +4136,7 @@
 <AM lemma="dvoustranný" src="auto">AAFP5----1A----</AM>
 <AM lemma="dvoustranný" src="auto">AAFS2----1A----</AM>
 <AM lemma="dvoustranný" src="auto">AAFS3----1A----</AM>
-<AM lemma="dvoustranný" src="auto" recommended="1">AAFS6----1A----</AM>
+<AM lemma="dvoustranný" src="auto" recommended="1" selected="1">AAFS6----1A----</AM>
 <AM lemma="dvoustranný" src="auto">AAIP1----1A----</AM>
 <AM lemma="dvoustranný" src="auto">AAIP4----1A----</AM>
 <AM lemma="dvoustranný" src="auto">AAIP5----1A----</AM>
@@ -4426,7 +4432,7 @@
 <tag>
 <AM lemma="tedy" src="orig">Db-------------</AM>
 <AM lemma="tedy-1" src="auto">TT-------------</AM>
-<AM lemma="tedy-2" src="auto" recommended="1">J^-------------</AM>
+<AM lemma="tedy-2" src="auto" recommended="1" selected="1">J^-------------</AM>
 </tag>
 </m>
 <m id="m-ln95040-089-p12s3w3">

@@ -37,7 +37,10 @@
 <LM>w#w-ln95048-160-p2s1Aw1</LM>
 </w.rf>
 <form>New</form>
-<tag lemma="New-1_;G_,t_^(součást_míst._jmen)" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="New-1_;G_,t_^(součást_míst._jmen)" src="orig">AAXXX----1A----</AM>
+<AM lemma="New-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln95048-160-p2s1Aw2">
 <src.rf>manual</src.rf>
@@ -45,7 +48,10 @@
 <LM>w#w-ln95048-160-p2s1Aw2</LM>
 </w.rf>
 <form>York</form>
-<tag lemma="York-2_;G" src="orig" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="York-2_;G" src="orig">NNIS1-----A----</AM>
+<AM lemma="York-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln95048-160-p2s1Aw3">
 <src.rf>manual</src.rf>
@@ -119,7 +125,10 @@
 <LM>w#w-ln95048-160-p2s1Bw8</LM>
 </w.rf>
 <form>Wall</form>
-<tag lemma="Wall-1_;G_,t" src="auto" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="Wall-1_;G_,t" src="auto">AAXXX----1A----</AM>
+<AM lemma="Wall-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln95048-160-p2s1Bw9">
 <src.rf>manual</src.rf>
@@ -127,7 +136,12 @@
 <LM>w#w-ln95048-160-p2s1Bw9</LM>
 </w.rf>
 <form>Streat</form>
-<tag lemma="Streat_;R_,t" src="orig" selected="1">AAXXX----1A----</tag>
+<tag lemma="Streat_;R_,t" src="orig">AAXXX----1A----</tag>
+<comment>
+<LM type="New Form">
+<text>Street</text>
+</LM>
+</comment>
 </m>
 <m id="m-ln95048-160-p2s1Bw10">
 <src.rf>manual</src.rf>
@@ -139,6 +153,8 @@
 <AM lemma="žurnál" src="orig">NNIS1-----A----</AM>
 <AM lemma="journal" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="journal" src="auto">NNIS4-----A----</AM>
+<AM lemma="journal_,t" src="manual">NNXXX-----A----</AM>
+<AM lemma="Journal-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-ln95048-160-p2s1Bw11">
@@ -447,7 +463,7 @@
 <form>nekalou</form>
 <tag>
 <AM lemma="nekalý" src="orig">AAFS4----1A----</AM>
-<AM lemma="kalý" src="auto" recommended="1">AAFS4----1N----</AM>
+<AM lemma="kalý" src="auto" recommended="1" selected="1">AAFS4----1N----</AM>
 <AM lemma="kalý" src="auto">AAFS7----1N----</AM>
 </tag>
 </m>

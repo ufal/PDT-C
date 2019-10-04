@@ -77,7 +77,10 @@
 <LM>w#w-cmpr9415-059-p3s1Aw5</LM>
 </w.rf>
 <form>pár</form>
-<tag lemma="pár-2" src="orig" selected="1">NNIS4-----A----</tag>
+<tag>
+<AM lemma="pár-2" src="orig">NNIS4-----A----</AM>
+<AM lemma="pár-1" src="manual" selected="1">ClXP4----------</AM>
+</tag>
 </m>
 <m id="m-cmpr9415-059-p3s1Aw6">
 <src.rf>manual</src.rf>
@@ -332,7 +335,10 @@
 <LM>w#w-cmpr9415-059-p4s2w4</LM>
 </w.rf>
 <form>prostředcích</form>
-<tag lemma="prostředek-2_^(způsob,_nástroj)" src="orig" selected="1">NNIP6-----A----</tag>
+<tag>
+<AM lemma="prostředek-2_^(způsob,_nástroj)" src="orig">NNIP6-----A----</AM>
+<AM lemma="prostředek_^(střed,způsob,_nástroj)" src="manual" selected="1">NNIP6-----A----</AM>
+</tag>
 </m>
 <m id="m-cmpr9415-059-p4s2w5">
 <src.rf>manual</src.rf>
@@ -378,7 +384,10 @@
 <LM>w#w-cmpr9415-059-p4s2w9</LM>
 </w.rf>
 <form>jak</form>
-<tag lemma="jak-3" src="auto" selected="1">Db-------------</tag>
+<tag>
+<AM lemma="jak-3" src="auto">Db-------------</AM>
+<AM lemma="jak-2" src="manual" selected="1">J,-------------</AM>
+</tag>
 </m>
 <m id="m-cmpr9415-059-p4s2w10">
 <src.rf>manual</src.rf>
@@ -590,7 +599,10 @@
 <LM>w#w-cmpr9415-059-p5s1w6</LM>
 </w.rf>
 <form>Québeku</form>
-<tag lemma="Québec_;G" src="orig" selected="1">NNIS6-----A---2</tag>
+<tag>
+<AM lemma="Québec_;G" src="orig">NNIS6-----A---2</AM>
+<AM lemma="Québek_;G_,s_^(^DD**Québec)" src="manual" selected="1">NNIS2-----A----</AM>
+</tag>
 </m>
 <m id="m-cmpr9415-059-p5s1w7">
 <src.rf>manual</src.rf>
@@ -622,7 +634,10 @@
 <LM>w#w-cmpr9415-059-p5s1w10</LM>
 </w.rf>
 <form>Ottavě</form>
-<tag lemma="Ottawa_;G_,h" src="orig" selected="1">NNFS6-----A----</tag>
+<tag>
+<AM lemma="Ottawa_;G_,h" src="orig">NNFS6-----A----</AM>
+<AM lemma="Ottava_;G_,s_^(^DD**Ottawa)" src="manual" selected="1">NNFS6-----A----</AM>
+</tag>
 </m>
 <m id="m-cmpr9415-059-p5s1w11">
 <src.rf>manual</src.rf>
@@ -856,7 +871,10 @@
 <LM>w#w-cmpr9415-059-p5s2w17</LM>
 </w.rf>
 <form>mechanismy</form>
-<tag lemma="mechanismus" src="orig" selected="1">NNIP4-----A----</tag>
+<tag>
+<AM lemma="mechanismus" src="orig">NNIP4-----A----</AM>
+<AM lemma="mechanismus_,s_^(^DD**mechanizmus)" src="manual" selected="1">NNIP4-----A----</AM>
+</tag>
 </m>
 <m id="m-cmpr9415-059-p5s2w18">
 <src.rf>manual</src.rf>
@@ -1108,7 +1126,10 @@
 <LM>w#w-cmpr9415-059-p7s1w27</LM>
 </w.rf>
 <form>mj</form>
-<tag lemma="mj-1_:B_^(mimo_jiné)" src="orig" selected="1">Db------------8</tag>
+<tag>
+<AM lemma="mj-1_:B_^(mimo_jiné)" src="orig">Db------------8</AM>
+<AM lemma="mj-1_:B_^(mimo_jiné)" src="manual" selected="1">Db-------------</AM>
+</tag>
 </m>
 <m id="m-cmpr9415-059-p7s1w28">
 <src.rf>manual</src.rf>
@@ -1148,7 +1169,10 @@
 <LM>w#w-cmpr9415-059-p7s1w32</LM>
 </w.rf>
 <form>ZOH</form>
-<tag lemma="ZOH-1_:B_;w_^(Zimní_olympijské_hry)" src="orig" selected="1">NNFPX-----A---8</tag>
+<tag>
+<AM lemma="ZOH-1_:B_;w_^(Zimní_olympijské_hry)" src="orig">NNFPX-----A---8</AM>
+<AM lemma="ZOH-1_:B_^(Zimní_olympijské_hry)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-cmpr9415-059-p7s1w33">
 <src.rf>manual</src.rf>
@@ -1302,7 +1326,12 @@
 <LM>w#w-cmpr9415-059-p8s1w17</LM>
 </w.rf>
 <form>LAllier</form>
-<tag lemma="LAllier_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="LAllier_;S" src="orig">NNMS1-----A----</tag>
+<comment>
+<LM type="New Form">
+<text>L'Allier</text>
+</LM>
+</comment>
 </m>
 <m id="m-cmpr9415-059-p8s1w18">
 <src.rf>manual</src.rf>
@@ -1669,6 +1698,7 @@
 <tag>
 <AM lemma="cm-1`centimetr_:B" src="orig">NNIXX-----A---8</AM>
 <AM lemma="centimetr_:B" src="auto" recommended="1">NNIXX-----A---8</AM>
+<AM lemma="centimetr" src="manual" selected="1">NNIXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-cmpr9415-059-p8s3w25">
@@ -1703,7 +1733,10 @@
 <LM>w#w-cmpr9415-059-p8s4w2</LM>
 </w.rf>
 <form>Québeku</form>
-<tag lemma="Québec_;G" src="orig" selected="1">NNIS6-----A---2</tag>
+<tag>
+<AM lemma="Québec_;G" src="orig">NNIS6-----A---2</AM>
+<AM lemma="Québek_;G_,s_^(^DD**Québec)" src="manual" selected="1">NNIS2-----A----</AM>
+</tag>
 </m>
 <m id="m-cmpr9415-059-p8s4w3">
 <src.rf>manual</src.rf>
@@ -2126,7 +2159,10 @@
 <LM>w#w-cmpr9415-059-p9s1w5</LM>
 </w.rf>
 <form>vydělat</form>
-<tag lemma="vydělat-1_:W_^(peníze)" src="orig" selected="1">Vf--------A----</tag>
+<tag>
+<AM lemma="vydělat-1_:W_^(peníze)" src="orig">Vf--------A----</AM>
+<AM lemma="vydělat_:W" src="manual" selected="1">Vf--------A----</AM>
+</tag>
 </m>
 </s>
 <s id="m-cmpr9415-059-p10s1">
@@ -2502,7 +2538,10 @@
 <LM>w#w-cmpr9415-059-p11s1w2</LM>
 </w.rf>
 <form>Québeku</form>
-<tag lemma="Québec_;G" src="orig" selected="1">NNIS6-----A---2</tag>
+<tag>
+<AM lemma="Québec_;G" src="orig">NNIS6-----A---2</AM>
+<AM lemma="Québek_;G_,s_^(^DD**Québec)" src="manual" selected="1">NNIS2-----A----</AM>
+</tag>
 </m>
 <m id="m-cmpr9415-059-p11s1w3">
 <src.rf>manual</src.rf>
@@ -2939,7 +2978,10 @@
 <LM>w#w-cmpr9415-059-p11s3w9</LM>
 </w.rf>
 <form>Sv</form>
-<tag lemma="svatý-1_:B" src="auto" selected="1">AAXXX----1A---8</tag>
+<tag>
+<AM lemma="svatý-1_:B" src="auto">AAXXX----1A---8</AM>
+<AM lemma="svatý" src="manual" selected="1">AAXXX----1A---8</AM>
+</tag>
 </m>
 <m id="m-cmpr9415-059-p11s3w10">
 <src.rf>manual</src.rf>
@@ -3190,7 +3232,10 @@
 <LM>w#w-cmpr9415-059-p11s5w15</LM>
 </w.rf>
 <form>pár</form>
-<tag lemma="pár-2" src="orig" selected="1">NNIS4-----A----</tag>
+<tag>
+<AM lemma="pár-2" src="orig">NNIS4-----A----</AM>
+<AM lemma="pár-1" src="manual" selected="1">ClXP4----------</AM>
+</tag>
 </m>
 <m id="m-cmpr9415-059-p12s1w1">
 <src.rf>manual</src.rf>
@@ -3198,7 +3243,10 @@
 <LM>w#w-cmpr9415-059-p12s1w1</LM>
 </w.rf>
 <form>milionů</form>
-<tag lemma="milión`1000000" src="orig" selected="1">NNIP2-----A----</tag>
+<tag>
+<AM lemma="milión`1000000" src="orig">NNIP2-----A----</AM>
+<AM lemma="milion`1000000_,s_^(^DD**milión)" src="manual" selected="1">NNIP2-----A----</AM>
+</tag>
 </m>
 <m id="m-cmpr9415-059-p12s1w2">
 <src.rf>manual</src.rf>
@@ -3206,7 +3254,10 @@
 <LM>w#w-cmpr9415-059-p12s1w2</LM>
 </w.rf>
 <form>dolarů</form>
-<tag lemma="dolar_;b" src="orig" selected="1">NNIP2-----A----</tag>
+<tag>
+<AM lemma="dolar_;b" src="orig">NNIP2-----A----</AM>
+<AM lemma="dolar" src="manual" selected="1">NNIP2-----A----</AM>
+</tag>
 </m>
 <m id="m-cmpr9415-059-p12s1w3">
 <src.rf>manual</src.rf>
@@ -3648,7 +3699,10 @@
 <LM>w#w-cmpr9415-059-p13s5w9</LM>
 </w.rf>
 <form>pension</form>
-<tag lemma="penzión" src="orig" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="penzión" src="orig">NNIS1-----A----</AM>
+<AM lemma="pension_,s_^(^DD**penzión)" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-cmpr9415-059-p13s5w10">
 <src.rf>manual</src.rf>
@@ -3958,7 +4012,10 @@
 <LM>w#w-cmpr9415-059-p13s8w7</LM>
 </w.rf>
 <form>sezonu</form>
-<tag lemma="sezona" src="orig" selected="1">NNFS4-----A----</tag>
+<tag>
+<AM lemma="sezona" src="orig">NNFS4-----A----</AM>
+<AM lemma="sezona_,s_^(^DD**sezóna)" src="manual" selected="1">NNFS4-----A----</AM>
+</tag>
 </m>
 <m id="m-cmpr9415-059-p13s8w8">
 <src.rf>manual</src.rf>
@@ -4133,7 +4190,7 @@
 <AM lemma="foto" src="auto">NNNS1-----A----</AM>
 <AM lemma="foto" src="auto">NNNS4-----A----</AM>
 <AM lemma="foto" src="auto">NNNS5-----A----</AM>
-<AM lemma="foto" src="auto" recommended="1">NNNXX-----A----</AM>
+<AM lemma="foto" src="auto" recommended="1" selected="1">NNNXX-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9415-059-p14s1Aw4">
@@ -4174,7 +4231,10 @@
 <LM>w#w-cmpr9415-059-p14s1Aw8</LM>
 </w.rf>
 <form>QUÉBEKU</form>
-<tag lemma="Québec_;G" src="orig" selected="1">NNIS6-----A---2</tag>
+<tag>
+<AM lemma="Québec_;G" src="orig">NNIS6-----A---2</AM>
+<AM lemma="Québek_;G_,s_^(^DD**Québec)" src="manual" selected="1">NNIS6-----A---2</AM>
+</tag>
 </m>
 <m id="m-cmpr9415-059-p14s1Aw9">
 <src.rf>manual</src.rf>

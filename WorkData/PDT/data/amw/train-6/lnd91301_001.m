@@ -55,7 +55,10 @@
 <LM>w#w-lnd91301-001-p3s1w1</LM>
 </w.rf>
 <form>ALŽÍR</form>
-<tag lemma="alžír" src="orig" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="alžír" src="orig">NNIS1-----A----</AM>
+<AM lemma="Alžír_;G" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd91301-001-p3s1w2">
 <src.rf>manual</src.rf>
@@ -127,6 +130,7 @@
 <AM lemma="IFS-2_:B_;K_,t_^(International_Federation_of_Skibob)" src="auto">NNFXX-----A---8</AM>
 <AM lemma="IFS-3_:B_;K_,t_^(International_Federation_of_Students)" src="auto">NNFXX-----A---8</AM>
 <AM lemma="IFS-4_:B_,t_^(installable_file_system)" src="auto">NNIXX-----A---8</AM>
+<AM lemma="IFS-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-lnd91301-001-p4s1w8">
@@ -455,6 +459,7 @@
 <AM lemma="IFS-2_:B_;K_,t_^(International_Federation_of_Skibob)" src="auto">NNFXX-----A---8</AM>
 <AM lemma="IFS-3_:B_;K_,t_^(International_Federation_of_Students)" src="auto">NNFXX-----A---8</AM>
 <AM lemma="IFS-4_:B_,t_^(installable_file_system)" src="auto">NNIXX-----A---8</AM>
+<AM lemma="IFS-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-lnd91301-001-p4s2w28">
@@ -883,6 +888,7 @@
 <AM lemma="IFS-2_:B_;K_,t_^(International_Federation_of_Skibob)" src="auto">NNFXX-----A---8</AM>
 <AM lemma="IFS-3_:B_;K_,t_^(International_Federation_of_Students)" src="auto">NNFXX-----A---8</AM>
 <AM lemma="IFS-4_:B_,t_^(installable_file_system)" src="auto">NNIXX-----A---8</AM>
+<AM lemma="IFS-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-lnd91301-001-p4s4Bw8">

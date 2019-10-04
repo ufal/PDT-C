@@ -19,7 +19,10 @@
 <LM>w#w-ln94205-123-p1s1w1</LM>
 </w.rf>
 <form>Borovička</form>
-<tag lemma="borovička" src="orig" selected="1">NNFS1-----A----</tag>
+<tag>
+<AM lemma="borovička" src="orig">NNFS1-----A----</AM>
+<AM lemma="Borovička_;S" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94205-123-p1s1w2">
 <src.rf>manual</src.rf>
@@ -155,7 +158,7 @@
 <form>Ačkoliv</form>
 <tag>
 <AM lemma="ačkoliv" src="orig">J,-------------</AM>
-<AM lemma="ačkoli" src="auto" recommended="1">J,------------1</AM>
+<AM lemma="ačkoli" src="auto" recommended="1" selected="1">J,------------1</AM>
 </tag>
 </m>
 <m id="m-ln94205-123-p2s1Cw2">
@@ -342,7 +345,10 @@
 <LM>w#w-ln94205-123-p2s2w4</LM>
 </w.rf>
 <form>milionů</form>
-<tag lemma="milión`1000000" src="orig" selected="1">NNIP2-----A----</tag>
+<tag>
+<AM lemma="milión`1000000" src="orig">NNIP2-----A----</AM>
+<AM lemma="milion`1000000_,s_^(^DD**milión)" src="manual" selected="1">NNIP2-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94205-123-p2s2w5">
 <src.rf>manual</src.rf>
@@ -510,7 +516,10 @@
 <LM>w#w-ln94205-123-p2s2w25</LM>
 </w.rf>
 <form>ani</form>
-<tag lemma="ani-1" src="auto" selected="1">J^-------------</tag>
+<tag>
+<AM lemma="ani-1" src="auto">J^-------------</AM>
+<AM lemma="ani-2" src="manual" selected="1">TT-------------</AM>
+</tag>
 </m>
 <m id="m-ln94205-123-p2s2w26">
 <src.rf>manual</src.rf>

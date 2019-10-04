@@ -121,7 +121,7 @@
 <form_change>spell</form_change>
 <form>Francoise</form>
 <tag>
-<AM lemma="Francoise_;Y" src="orig">NNFXX-----A----</AM>
+<AM lemma="Francoise_;Y" src="orig" selected="1">NNFXX-----A----</AM>
 <AM lemma="Francois_;S_;Y" src="auto">NNMP4-----A----</AM>
 <AM lemma="Francois_;S_;Y" src="auto" recommended="1">NNMS2-----A----</AM>
 <AM lemma="Francois_;S_;Y" src="auto">NNMS4-----A----</AM>
@@ -586,7 +586,10 @@
 <LM>w#w-ln95048-150-p2s3w10</LM>
 </w.rf>
 <form>odsouzena</form>
-<tag lemma="odsoudit" src="orig" selected="1">VsQW---XX-AP---</tag>
+<tag>
+<AM lemma="odsoudit" src="orig">VsQW---XX-AP---</AM>
+<AM lemma="odsoudit_:W" src="manual" selected="1">VsQW---XX-AP---</AM>
+</tag>
 </m>
 <m id="m-ln95048-150-p2s3w11">
 <src.rf>manual</src.rf>

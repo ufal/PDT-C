@@ -1003,7 +1003,10 @@
 <LM>w#w-ln94200-34-p3s2w5</LM>
 </w.rf>
 <form>sympozium</form>
-<tag lemma="sympózium" src="orig" selected="1">NNNS1-----A----</tag>
+<tag>
+<AM lemma="sympózium" src="orig">NNNS1-----A----</AM>
+<AM lemma="sympozium_,s_^(^DD**sympózium)" src="manual" selected="1">NNNS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94200-34-p3s2w6">
 <src.rf>manual</src.rf>
@@ -1237,7 +1240,10 @@
 <LM>w#w-ln94200-34-p4s1w14</LM>
 </w.rf>
 <form>THERMIE</form>
-<tag lemma="Thermie_;m_,t" src="orig" selected="1">NNFS1-----A----</tag>
+<tag>
+<AM lemma="Thermie_;m_,t" src="orig">NNFS1-----A----</AM>
+<AM lemma="Thermie_;m" src="manual" selected="1">NNFS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94200-34-p4s1w15">
 <src.rf>manual</src.rf>
@@ -1521,7 +1527,10 @@
 <LM>w#w-ln94200-34-p5s2w3</LM>
 </w.rf>
 <form>EU</form>
-<tag lemma="EU-1_:B_;K_;p_^(Evropská_Unie)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="EU-1_:B_;K_;p_^(Evropská_Unie)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="EU-1_:B_;K_^(Evropská_Unie)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94200-34-p5s2w4">
 <src.rf>manual</src.rf>
@@ -1577,7 +1586,10 @@
 <LM>w#w-ln94200-34-p5s2w10</LM>
 </w.rf>
 <form>ECU</form>
-<tag lemma="ECU_:B_;b" src="auto" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ECU_:B_;b" src="auto">NNFXX-----A---8</AM>
+<AM lemma="ECU-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln94200-34-p5s2w11">
 <src.rf>manual</src.rf>

@@ -19,7 +19,10 @@
 <LM>w#w-lnd94103-083-p1s1w1</LM>
 </w.rf>
 <form>ZVVZ</form>
-<tag lemma="ZVVZ-1_:B_;K_^(Závody_na_výrobu_vzduchotech._zařízení)" src="orig" selected="1">NNIPX-----A---8</tag>
+<tag>
+<AM lemma="ZVVZ-1_:B_;K_^(Závody_na_výrobu_vzduchotech._zařízení)" src="orig">NNIPX-----A---8</AM>
+<AM lemma="ZVVZ-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd94103-083-p1s1w2">
 <src.rf>manual</src.rf>
@@ -119,7 +122,10 @@
 <LM>w#w-lnd94103-083-p1s3w7</LM>
 </w.rf>
 <form>ZVVZ</form>
-<tag lemma="ZVVZ-1_:B_;K_^(Závody_na_výrobu_vzduchotech._zařízení)" src="orig" selected="1">NNIPX-----A---8</tag>
+<tag>
+<AM lemma="ZVVZ-1_:B_;K_^(Závody_na_výrobu_vzduchotech._zařízení)" src="orig">NNIPX-----A---8</AM>
+<AM lemma="ZVVZ-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd94103-083-p1s3w8">
 <src.rf>manual</src.rf>
@@ -223,7 +229,10 @@
 <LM>w#w-lnd94103-083-p1s3w20</LM>
 </w.rf>
 <form>milionů</form>
-<tag lemma="milión`1000000" src="orig" selected="1">NNIP2-----A----</tag>
+<tag>
+<AM lemma="milión`1000000" src="orig">NNIP2-----A----</AM>
+<AM lemma="milion`1000000_,s_^(^DD**milión)" src="manual" selected="1">NNIP2-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd94103-083-p1s3w21">
 <src.rf>manual</src.rf>
@@ -393,7 +402,10 @@
 <LM>w#w-lnd94103-083-p1s4w11</LM>
 </w.rf>
 <form>milionů</form>
-<tag lemma="milión`1000000" src="orig" selected="1">NNIP2-----A----</tag>
+<tag>
+<AM lemma="milión`1000000" src="orig">NNIP2-----A----</AM>
+<AM lemma="milion`1000000_,s_^(^DD**milión)" src="manual" selected="1">NNIP2-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd94103-083-p1s4w12">
 <src.rf>manual</src.rf>
@@ -467,7 +479,10 @@
 <LM>w#w-lnd94103-083-p1s5w7</LM>
 </w.rf>
 <form>ZVVZ</form>
-<tag lemma="ZVVZ-1_:B_;K_^(Závody_na_výrobu_vzduchotech._zařízení)" src="orig" selected="1">NNIPX-----A---8</tag>
+<tag>
+<AM lemma="ZVVZ-1_:B_;K_^(Závody_na_výrobu_vzduchotech._zařízení)" src="orig">NNIPX-----A---8</AM>
+<AM lemma="ZVVZ-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd94103-083-p1s5w8">
 <src.rf>manual</src.rf>
@@ -914,7 +929,10 @@
 <LM>w#w-lnd94103-083-p1s8w12</LM>
 </w.rf>
 <form>milionu</form>
-<tag lemma="milión`1000000" src="orig" selected="1">NNIS2-----A----</tag>
+<tag>
+<AM lemma="milión`1000000" src="orig">NNIS2-----A----</AM>
+<AM lemma="milion`1000000_,s_^(^DD**milión)" src="manual" selected="1">NNIS2-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd94103-083-p1s8w13">
 <src.rf>manual</src.rf>
@@ -962,7 +980,10 @@
 <LM>w#w-lnd94103-083-p1s8w18</LM>
 </w.rf>
 <form>miliony</form>
-<tag lemma="milión`1000000" src="orig" selected="1">NNIP4-----A----</tag>
+<tag>
+<AM lemma="milión`1000000" src="orig">NNIP4-----A----</AM>
+<AM lemma="milion`1000000_,s_^(^DD**milión)" src="manual" selected="1">NNIP4-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd94103-083-p1s8w19">
 <src.rf>manual</src.rf>

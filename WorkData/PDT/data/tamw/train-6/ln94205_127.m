@@ -125,7 +125,10 @@
 <LM>w#w-ln94205-127-p2s1Aw8</LM>
 </w.rf>
 <form>Cupu</form>
-<tag lemma="Cup-1_;m_;w_,t_^(pohár,_soutěž;_v_názvech)" src="auto" selected="1">NNIS2-----A----</tag>
+<tag>
+<AM lemma="Cup-1_;m_;w_,t_^(pohár,_soutěž;_v_názvech)" src="auto">NNIS2-----A----</AM>
+<AM lemma="cup-1_^(pohár)" src="manual" selected="1">NNIS2-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94205-127-p2s1Aw9">
 <src.rf>manual</src.rf>
@@ -378,7 +381,10 @@
 <LM>w#w-ln94205-127-p2s1Cw20</LM>
 </w.rf>
 <form>stadionu</form>
-<tag lemma="stadión" src="orig" selected="1">NNIS6-----A---1</tag>
+<tag>
+<AM lemma="stadión" src="orig">NNIS6-----A---1</AM>
+<AM lemma="stadion_,s_^(^DD**stadión)" src="manual" selected="1">NNIS6-----A---1</AM>
+</tag>
 </m>
 <m id="m-ln94205-127-p2s1Cw21">
 <src.rf>manual</src.rf>
@@ -466,7 +472,10 @@
 <LM>w#w-ln94205-127-p2s1Cw31</LM>
 </w.rf>
 <form>Cup</form>
-<tag lemma="Cup-1_;m_;w_,t_^(pohár,_soutěž;_v_názvech)" src="auto" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="Cup-1_;m_;w_,t_^(pohár,_soutěž;_v_názvech)" src="auto">NNIS1-----A----</AM>
+<AM lemma="cup-1_^(pohár)" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94205-127-p2s1Cw32">
 <src.rf>manual</src.rf>
@@ -655,7 +664,10 @@
 <LM>w#w-ln94205-127-p2s2w20</LM>
 </w.rf>
 <form>USD</form>
-<tag lemma="USD_:B_;b_^(U.S._dolar)" src="auto" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="USD_:B_;b_^(U.S._dolar)" src="auto">NNIXX-----A---8</AM>
+<AM lemma="USD_:B_^(U.S._dolar)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94205-127-p2s2w21">
 <src.rf>manual</src.rf>
@@ -692,7 +704,7 @@
 <tag>
 <AM lemma="tedy" src="orig">Db-------------</AM>
 <AM lemma="tedy-1" src="auto">TT-------------</AM>
-<AM lemma="tedy-2" src="auto" recommended="1">J^-------------</AM>
+<AM lemma="tedy-2" src="auto" recommended="1" selected="1">J^-------------</AM>
 </tag>
 </m>
 <m id="m-ln94205-127-p2s3w4">
@@ -817,7 +829,10 @@
 <LM>w#w-ln94205-127-p3s1w11</LM>
 </w.rf>
 <form>Slovakia</form>
-<tag lemma="Slovakia_;m_,t" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="Slovakia_;m_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="Slovakia-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94205-127-p3s1w12">
 <src.rf>manual</src.rf>
@@ -825,7 +840,10 @@
 <LM>w#w-ln94205-127-p3s1w12</LM>
 </w.rf>
 <form>Cup</form>
-<tag lemma="Cup-1_;m_;w_,t_^(pohár,_soutěž;_v_názvech)" src="auto" selected="1">NNIS4-----A----</tag>
+<tag>
+<AM lemma="Cup-1_;m_;w_,t_^(pohár,_soutěž;_v_názvech)" src="auto">NNIS4-----A----</AM>
+<AM lemma="Cup-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94205-127-p3s1w13">
 <src.rf>manual</src.rf>
@@ -1116,7 +1134,7 @@
 <AM lemma="zkušený" src="auto">AAIP1----1A----</AM>
 <AM lemma="zkušený" src="auto">AAIP4----1A----</AM>
 <AM lemma="zkušený" src="auto">AAIP5----1A----</AM>
-<AM lemma="zkušený" src="auto" recommended="1">AAMP4----1A----</AM>
+<AM lemma="zkušený" src="auto" recommended="1" selected="1">AAMP4----1A----</AM>
 <AM lemma="zkušený" src="auto">AANP1----1A---6</AM>
 <AM lemma="zkušený" src="auto">AANP4----1A---6</AM>
 <AM lemma="zkušený" src="auto">AANP5----1A---6</AM>
@@ -1181,7 +1199,10 @@
 <LM>w#w-ln94205-127-p3s3w4</LM>
 </w.rf>
 <form>Turek</form>
-<tag lemma="Turek_;E" src="auto" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Turek_;E" src="auto">NNMS1-----A----</AM>
+<AM lemma="Turek_;E_;S" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94205-127-p3s3w5">
 <src.rf>manual</src.rf>
@@ -1797,7 +1818,7 @@
 <form>třeba</form>
 <tag>
 <AM lemma="třeba-1" src="orig">ACNS------A----</AM>
-<AM lemma="třeba-2" src="auto" recommended="1">Db-------------</AM>
+<AM lemma="třeba-2" src="auto" recommended="1" selected="1">Db-------------</AM>
 <AM lemma="třeba-3" src="auto">TT-------------</AM>
 </tag>
 </m>
@@ -2075,7 +2096,10 @@
 <LM>w#w-ln94205-127-p3s8w12</LM>
 </w.rf>
 <form>Gennadije</form>
-<tag lemma="Gennadij_;S" src="orig" selected="1">NNMS4-----A----</tag>
+<tag>
+<AM lemma="Gennadij_;S" src="orig">NNMS4-----A----</AM>
+<AM lemma="Gennadij_;S_;Y" src="manual" selected="1">NNMS4-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94205-127-p3s8w13">
 <src.rf>manual</src.rf>
@@ -2133,7 +2157,7 @@
 <form>Togliatti</form>
 <tag>
 <AM lemma="Togliatti_;K" src="orig">NNNXX-----A----</AM>
-<AM lemma="Togliatti_;G_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Togliatti_;G_;S" src="auto" recommended="1" selected="1">NNMS1-----A----</AM>
 <AM lemma="Togliatti_;G_;S" src="auto">NNMS5-----A----</AM>
 </tag>
 </m>
@@ -2249,7 +2273,10 @@
 <LM>w#w-ln94205-127-p4s1w9</LM>
 </w.rf>
 <form>Cupu</form>
-<tag lemma="Cup-1_;m_;w_,t_^(pohár,_soutěž;_v_názvech)" src="auto" selected="1">NNIS2-----A----</tag>
+<tag>
+<AM lemma="Cup-1_;m_;w_,t_^(pohár,_soutěž;_v_názvech)" src="auto">NNIS2-----A----</AM>
+<AM lemma="cup-1_^(pohár)" src="manual" selected="1">NNIS2-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94205-127-p4s1w10">
 <src.rf>manual</src.rf>
@@ -2395,7 +2422,10 @@
 <LM>w#w-ln94205-127-p4s2w15</LM>
 </w.rf>
 <form>stadionu</form>
-<tag lemma="stadión" src="orig" selected="1">NNIS2-----A----</tag>
+<tag>
+<AM lemma="stadión" src="orig">NNIS2-----A----</AM>
+<AM lemma="stadion_,s_^(^DD**stadión)" src="manual" selected="1">NNIS2-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94205-127-p4s2w16">
 <src.rf>manual</src.rf>
@@ -2673,7 +2703,10 @@
 <LM>w#w-ln94205-127-p4s5w3</LM>
 </w.rf>
 <form>Jánoš</form>
-<tag lemma="Jánoš_;Y" src="orig" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Jánoš_;Y" src="orig">NNMS1-----A----</AM>
+<AM lemma="Jánoš_;Y_;S" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94205-127-p4s5w4">
 <src.rf>manual</src.rf>
@@ -2788,6 +2821,8 @@
 <tag>
 <AM lemma="ESV-2_;K_,t" src="orig">NNXXX-----A---8</AM>
 <AM lemma="ESV-1_:B_,t_^(Earth_satellite_vehicle)" src="auto" recommended="1">NNIXX-----A---8</AM>
+<AM lemma="ESV-2_:B" src="manual">NNXXX-----A---8</AM>
+<AM lemma="ESV-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94205-127-p4s5w18">
@@ -2950,7 +2985,7 @@
 <AM lemma="zkušený" src="auto">AAFP6----1A----</AM>
 <AM lemma="zkušený" src="auto">AAIP2----1A----</AM>
 <AM lemma="zkušený" src="auto">AAIP6----1A----</AM>
-<AM lemma="zkušený" src="auto" recommended="1">AAMP2----1A----</AM>
+<AM lemma="zkušený" src="auto" recommended="1" selected="1">AAMP2----1A----</AM>
 <AM lemma="zkušený" src="auto">AAMP6----1A----</AM>
 <AM lemma="zkušený" src="auto">AANP2----1A----</AM>
 <AM lemma="zkušený" src="auto">AANP6----1A----</AM>

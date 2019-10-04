@@ -475,7 +475,10 @@
 <LM>w#w-lnd92257-044-p3s3w17</LM>
 </w.rf>
 <form>Al</form>
-<tag lemma="Al-5_;m_,t_^(arab._člen,_i_ve_jm.)" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="Al-5_;m_,t_^(arab._člen,_i_ve_jm.)" src="orig">AAXXX----1A----</AM>
+<AM lemma="Al-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-lnd92257-044-p3s3w18">
 <src.rf>manual</src.rf>
@@ -491,7 +494,10 @@
 <LM>w#w-lnd92257-044-p3s3w19</LM>
 </w.rf>
 <form>Džazíra</form>
-<tag lemma="Džazíra_;K" src="auto" selected="1">NNFS1-----A----</tag>
+<tag>
+<AM lemma="Džazíra_;K" src="auto">NNFS1-----A----</AM>
+<AM lemma="Džazíra-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-lnd92257-044-p3s3w20">
 <src.rf>manual</src.rf>

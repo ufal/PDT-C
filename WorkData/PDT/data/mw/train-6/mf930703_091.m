@@ -149,7 +149,10 @@
 <LM>w#w-mf930703-091-p2s1w15</LM>
 </w.rf>
 <form>Grand</form>
-<tag lemma="Grand-1_;K_,t_^(v_názvech)" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="Grand-1_;K_,t_^(v_názvech)" src="orig">AAXXX----1A----</AM>
+<AM lemma="Grand-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-mf930703-091-p2s1w16">
 <src.rf>manual</src.rf>
@@ -157,7 +160,10 @@
 <LM>w#w-mf930703-091-p2s1w16</LM>
 </w.rf>
 <form>Prix</form>
-<tag lemma="Prix-1_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Prix-1_;S" src="orig">NNMS1-----A----</AM>
+<AM lemma="Prix-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-mf930703-091-p2s1w17">
 <src.rf>manual</src.rf>
@@ -194,7 +200,7 @@
 <AM lemma="m-1`metr_:B" src="orig">NNIXX-----A---8</AM>
 <AM lemma="m-3_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
 <AM lemma="m-8_:B_^(ost._zkratka)" src="auto">XX------------8</AM>
-<AM lemma="metr_:B" src="auto" recommended="1">NNIXX-----A---8</AM>
+<AM lemma="metr_:B" src="auto" recommended="1" selected="1">NNIXX-----A---8</AM>
 <AM lemma="mimo-1_:B" src="auto">RR--2---------8</AM>
 <AM lemma="mimo-1_:B" src="auto">RR--4---------8</AM>
 <AM lemma="minuta_:B" src="auto">NNFXX-----A---8</AM>
@@ -455,6 +461,7 @@
 <AM lemma="Bělorus_;E" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="bělorus_^(zemní_stroj)" src="auto">NNIS1-----A----</AM>
 <AM lemma="bělorus_^(zemní_stroj)" src="auto">NNIS4-----A----</AM>
+<AM lemma="Bělorusko_:B_;G" src="manual" selected="1">NNNXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930703-091-p2s2w25">
@@ -533,7 +540,7 @@
 <AM lemma="m-1`metr_:B" src="orig">NNIXX-----A---8</AM>
 <AM lemma="m-3_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
 <AM lemma="m-8_:B_^(ost._zkratka)" src="auto">XX------------8</AM>
-<AM lemma="metr_:B" src="auto" recommended="1">NNIXX-----A---8</AM>
+<AM lemma="metr_:B" src="auto" recommended="1" selected="1">NNIXX-----A---8</AM>
 <AM lemma="mimo-1_:B" src="auto">RR--2---------8</AM>
 <AM lemma="mimo-1_:B" src="auto">RR--4---------8</AM>
 <AM lemma="minuta_:B" src="auto">NNFXX-----A---8</AM>
@@ -652,7 +659,7 @@
 </w.rf>
 <form>Mar</form>
 <tag>
-<AM lemma="Maroko_:B_;G" src="orig">NNNXX-----A---8</AM>
+<AM lemma="Maroko_:B_;G" src="orig" selected="1">NNNXX-----A---8</AM>
 <AM lemma="Mar_:B" src="auto" recommended="1">Xx-------------</AM>
 <AM lemma="Mar_;G" src="auto">NNIS1-----A----</AM>
 <AM lemma="Mar_;G" src="auto">NNIS4-----A----</AM>

@@ -255,7 +255,10 @@
 <LM>w#w-mf930713-054-p2s1Bw15</LM>
 </w.rf>
 <form>milionů</form>
-<tag lemma="milión`1000000" src="orig" selected="1">NNIP2-----A----</tag>
+<tag>
+<AM lemma="milión`1000000" src="orig">NNIP2-----A----</AM>
+<AM lemma="milion`1000000_,s_^(^DD**milión)" src="manual" selected="1">NNIP2-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930713-054-p2s1Bw16">
 <src.rf>manual</src.rf>
@@ -461,6 +464,8 @@
 <AM lemma="Juppé_;S_,t" src="orig">NNMSX-----A----</AM>
 <AM lemma="Juppé_;S" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Juppé_;S" src="auto">NNMS5-----A----</AM>
+<AM lemma="Juppé_;S" src="manual">NNMSX-----A----</AM>
+<AM lemma="Juppé_;S" src="manual" selected="1">NNMXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930713-054-p2s2w16">
@@ -495,7 +500,10 @@
 <LM>w#w-mf930713-054-p2s3w3</LM>
 </w.rf>
 <form>ES</form>
-<tag lemma="ES_:B_;K_^(Evropská_společenství)" src="orig" selected="1">NNNXX-----A---8</tag>
+<tag>
+<AM lemma="ES_:B_;K_^(Evropská_společenství)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="ES-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-mf930713-054-p2s3w4">
 <src.rf>manual</src.rf>
@@ -514,7 +522,7 @@
 <tag>
 <AM lemma="tedy" src="orig">Db-------------</AM>
 <AM lemma="tedy-1" src="auto">TT-------------</AM>
-<AM lemma="tedy-2" src="auto" recommended="1">J^-------------</AM>
+<AM lemma="tedy-2" src="auto" recommended="1" selected="1">J^-------------</AM>
 </tag>
 </m>
 <m id="m-mf930713-054-p2s3w6">
@@ -741,7 +749,10 @@
 <LM>w#w-mf930713-054-p2s4w12</LM>
 </w.rf>
 <form>ES</form>
-<tag lemma="ES_:B_;K_^(Evropská_společenství)" src="orig" selected="1">NNNXX-----A---8</tag>
+<tag>
+<AM lemma="ES_:B_;K_^(Evropská_společenství)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="ES-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-mf930713-054-p2s4w13">
 <src.rf>manual</src.rf>
@@ -1185,6 +1196,7 @@
 <AM lemma="protekcionismus" src="orig">NNIS4-----A----</AM>
 <AM lemma="protekcionizmus" src="auto">NNIS1-----A----</AM>
 <AM lemma="protekcionizmus" src="auto" recommended="1">NNIS4-----A----</AM>
+<AM lemma="protekcionismus_,s_^(^DD**protekcionizmus)" src="manual" selected="1">NNIS4-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930713-054-p2s8w3">
@@ -1397,7 +1409,7 @@
 <form>USA</form>
 <tag>
 <AM lemma="USA_;G" src="orig">NNIPX-----A----</AM>
-<AM lemma="USA_:B_;K_,t_^(United_States_of_America)" src="auto" recommended="1">NNIPX-----A---8</AM>
+<AM lemma="USA_:B_;K_,t_^(United_States_of_America)" src="auto" recommended="1" selected="1">NNIPX-----A---8</AM>
 </tag>
 </m>
 <m id="m-mf930713-054-p2s9w12">

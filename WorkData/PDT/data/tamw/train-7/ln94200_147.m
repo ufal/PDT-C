@@ -167,7 +167,10 @@
 <LM>w#w-ln94200-147-p2s1Bw15</LM>
 </w.rf>
 <form>UEFA</form>
-<tag lemma="UEFA-1_:B_;K_;w_^(Evr._fotbalová_federace)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="UEFA-1_:B_;K_;w_^(Evr._fotbalová_federace)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="UEFA-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln94200-147-p2s1Bw16">
 <src.rf>manual</src.rf>
@@ -191,7 +194,10 @@
 <LM>w#w-ln94200-147-p2s1Bw18</LM>
 </w.rf>
 <form>Hibernians</form>
-<tag lemma="Hibernian_;K_,t" src="orig" selected="1">NNMPX-----A----</tag>
+<tag>
+<AM lemma="Hibernian_;K_,t" src="orig">NNMPX-----A----</AM>
+<AM lemma="Hibernians-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94200-147-p2s1Bw19">
 <src.rf>manual</src.rf>
@@ -199,7 +205,10 @@
 <LM>w#w-ln94200-147-p2s1Bw19</LM>
 </w.rf>
 <form>La</form>
-<tag lemma="Le-1_,t_^(franc._člen_jako_souč._jmen_a_názvů)" src="orig" selected="1">AAFSX----1A----</tag>
+<tag>
+<AM lemma="Le-1_,t_^(franc._člen_jako_souč._jmen_a_názvů)" src="orig">AAFSX----1A----</AM>
+<AM lemma="La-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94200-147-p2s1Bw20">
 <src.rf>manual</src.rf>
@@ -207,7 +216,10 @@
 <LM>w#w-ln94200-147-p2s1Bw20</LM>
 </w.rf>
 <form>Valleta</form>
-<tag lemma="Valleta_;K_,t" src="orig" selected="1">NNFS1-----A----</tag>
+<tag>
+<AM lemma="Valleta_;K_,t" src="orig">NNFS1-----A----</AM>
+<AM lemma="Valleta-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94200-147-p2s1Bw21">
 <src.rf>manual</src.rf>
@@ -257,7 +269,10 @@
 <LM>w#w-ln94200-147-p2s2w5</LM>
 </w.rf>
 <form>UEFA</form>
-<tag lemma="UEFA-1_:B_;K_;w_^(Evr._fotbalová_federace)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="UEFA-1_:B_;K_;w_^(Evr._fotbalová_federace)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="UEFA-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln94200-147-p2s2w6">
 <src.rf>manual</src.rf>

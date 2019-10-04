@@ -333,7 +333,10 @@
 <LM>w#w-mf930701-071-p1s2w11</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-2" src="auto" selected="1">Dg-------2A----</tag>
+<tag>
+<AM lemma="hodně-2" src="auto">Dg-------2A----</AM>
+<AM lemma="více_^(více_+_2._p.,_více_peněz)" src="manual" selected="1">Ca--1----------</AM>
+</tag>
 </m>
 <m id="m-mf930701-071-p1s2w12">
 <src.rf>manual</src.rf>
@@ -693,7 +696,7 @@
 <form>totiž</form>
 <tag>
 <AM lemma="totiž" src="orig">Db-------------</AM>
-<AM lemma="totiž-1" src="auto" recommended="1">J^-------------</AM>
+<AM lemma="totiž-1" src="auto" recommended="1" selected="1">J^-------------</AM>
 <AM lemma="totiž-2" src="auto">TT-------------</AM>
 </tag>
 </m>
@@ -881,7 +884,10 @@
 <LM>w#w-mf930701-071-p1s6w21</LM>
 </w.rf>
 <form>diskusní</form>
-<tag lemma="diskusní" src="orig" selected="1">AAFP1----1A----</tag>
+<tag>
+<AM lemma="diskusní" src="orig">AAFP1----1A----</AM>
+<AM lemma="diskusní_,s_^(^DD**diskuzní)" src="manual" selected="1">AAFP1----1A----</AM>
+</tag>
 </m>
 <m id="m-mf930701-071-p1s6w22">
 <src.rf>manual</src.rf>

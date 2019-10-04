@@ -109,7 +109,10 @@
 <LM>w#w-lnd94105-079-p1s1Bw7</LM>
 </w.rf>
 <form>ADB</form>
-<tag lemma="ADB-1_:B_;K_,t_^(African_Development_Bank)" src="auto" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ADB-1_:B_;K_,t_^(African_Development_Bank)" src="auto">NNFXX-----A---8</AM>
+<AM lemma="ADB-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd94105-079-p1s1Bw8">
 <src.rf>manual</src.rf>
@@ -167,7 +170,7 @@
 <form>Nice</form>
 <tag>
 <AM lemma="Nice_;G_,t" src="orig">NNNXX-----A----</AM>
-<AM lemma="Nice_;G" src="auto">NNNSX-----A----</AM>
+<AM lemma="Nice_;G" src="auto" selected="1">NNNSX-----A----</AM>
 <AM lemma="nika" src="auto">NNFS3-----A----</AM>
 <AM lemma="nika" src="auto" recommended="1">NNFS6-----A----</AM>
 </tag>
@@ -218,7 +221,10 @@
 <LM>w#w-lnd94105-079-p1s1Bw20</LM>
 </w.rf>
 <form>Edouard</form>
-<tag lemma="Edouard_;Y_,t" src="orig" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Edouard_;Y_,t" src="orig">NNMS1-----A----</AM>
+<AM lemma="Edouard_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd94105-079-p1s1Bw21">
 <src.rf>manual</src.rf>

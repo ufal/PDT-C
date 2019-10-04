@@ -123,6 +123,7 @@
 <AM lemma="Tumu_;G" src="orig">NNNXX-----A----</AM>
 <AM lemma="Tuma_;G" src="auto" recommended="1">NNFS4-----A----</AM>
 <AM lemma="Tuma_;S" src="auto">NNMS4-----A----</AM>
+<AM lemma="Tumu_;G" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd91303-086-p3s1w2">
@@ -181,7 +182,10 @@
 <LM>w#w-lnd91303-086-p4s1w6</LM>
 </w.rf>
 <form>Kapské</form>
-<tag lemma="kapský_;G" src="orig" selected="1">AANS1----1A----</tag>
+<tag>
+<AM lemma="kapský_;G" src="orig">AANS1----1A----</AM>
+<AM lemma="kapský" src="manual" selected="1">AANS1----1A----</AM>
+</tag>
 </m>
 <m id="m-lnd91303-086-p4s1w7">
 <src.rf>manual</src.rf>
@@ -221,7 +225,10 @@
 <LM>w#w-lnd91303-086-p4s1w11</LM>
 </w.rf>
 <form>km</form>
-<tag lemma="km-1`kilometr_:B" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="km-1`kilometr_:B" src="orig">NNIXX-----A---8</AM>
+<AM lemma="kilometr" src="manual" selected="1">NNIXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd91303-086-p4s1w12">
 <src.rf>manual</src.rf>
@@ -265,6 +272,7 @@
 <AM lemma="Tumu_;G" src="orig">NNNXX-----A----</AM>
 <AM lemma="Tuma_;G" src="auto" recommended="1">NNFS4-----A----</AM>
 <AM lemma="Tuma_;S" src="auto">NNMS4-----A----</AM>
+<AM lemma="Tumu_;G" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd91303-086-p4s1w17">
@@ -381,6 +389,7 @@
 <AM lemma="Micubiši-2_;R_^(vozidlo)" src="orig">NNNXX-----A----</AM>
 <AM lemma="Mitsubishi_;K_;R" src="auto">NNXXX-----A---6</AM>
 <AM lemma="mitsubishi_;R_^(vozidlo)" src="auto" recommended="1">NNXXX-----A---6</AM>
+<AM lemma="Micubiši_;K_;R_,s_^(^DD**Mitsubishi)" src="manual" selected="1">NNNXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd91303-086-p4s1w31">

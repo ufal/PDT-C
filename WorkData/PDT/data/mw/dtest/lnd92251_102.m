@@ -53,7 +53,10 @@
 <LM>w#w-lnd92251-102-p2s1w4</LM>
 </w.rf>
 <form>P</form>
-<tag lemma="P-5_:B_;G" src="orig" selected="1">AAXXX----1A---8</tag>
+<tag>
+<AM lemma="P-5_:B_;G" src="orig">AAXXX----1A---8</AM>
+<AM lemma="P-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd92251-102-p2s1w5">
 <src.rf>manual</src.rf>
@@ -109,7 +112,10 @@
 <LM>w#w-lnd92251-102-p2s1w11</LM>
 </w.rf>
 <form>ČSFR</form>
-<tag lemma="ČSFR-1_:B_;G_^(Čs._federativní_republika)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ČSFR-1_:B_;G_^(Čs._federativní_republika)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČSFR-1_:B_;G_^(Čs._federativní_republika)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92251-102-p2s1w12">
 <src.rf>manual</src.rf>
@@ -217,7 +223,11 @@
 <LM>w#w-lnd92251-102-p4s1w1</LM>
 </w.rf>
 <form>ad</form>
-<tag lemma="ad_,t" src="orig" selected="1">RR--1----------</tag>
+<tag>
+<AM lemma="ad_,t" src="orig">RR--1----------</AM>
+<AM lemma="ad-99_:B_;S" src="manual">NNXXX-----A---8</AM>
+<AM lemma="ad-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-lnd92251-102-p4s1w2">
 <src.rf>manual</src.rf>
@@ -393,7 +403,10 @@
 <LM>w#w-lnd92251-102-p6s2w5</LM>
 </w.rf>
 <form>Gilbert</form>
-<tag lemma="Gilbert_;Y" src="auto" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Gilbert_;Y" src="auto">NNMS1-----A----</AM>
+<AM lemma="Gilbert_;S;Y" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92251-102-p6s2w6">
 <src.rf>manual</src.rf>

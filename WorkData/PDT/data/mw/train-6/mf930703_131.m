@@ -966,7 +966,7 @@
 </w.rf>
 <form>Zavidoviči</form>
 <tag>
-<AM lemma="Zavidoviči_;G" src="orig">NNNXX-----A----</AM>
+<AM lemma="Zavidoviči_;G" src="orig" selected="1">NNNXX-----A----</AM>
 <AM lemma="Zavidovič_;S" src="auto" recommended="1">NNMP1-----A----</AM>
 <AM lemma="Zavidovič_;S" src="auto">NNMP5-----A----</AM>
 <AM lemma="Zavidovič_;S" src="auto">NNMP7-----A----</AM>

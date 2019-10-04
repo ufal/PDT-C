@@ -87,7 +87,10 @@
 <LM>w#w-ln94202-5-p2s1Bw4</LM>
 </w.rf>
 <form>Hotzenblitz</form>
-<tag lemma="Hotzenblitz_;R_,t" src="orig" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="Hotzenblitz_;R_,t" src="orig">NNIS1-----A----</AM>
+<AM lemma="Hotzenblitz_;R" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94202-5-p2s1Bw5">
 <src.rf>manual</src.rf>
@@ -111,7 +114,10 @@
 <LM>w#w-ln94202-5-p2s1Bw7</LM>
 </w.rf>
 <form>Hotzenblitz</form>
-<tag lemma="Hotzenblitz_;K_,t" src="orig" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="Hotzenblitz_;K_,t" src="orig">NNIS1-----A----</AM>
+<AM lemma="Hotzenblitz-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94202-5-p2s1Bw8">
 <src.rf>manual</src.rf>
@@ -119,7 +125,10 @@
 <LM>w#w-ln94202-5-p2s1Bw8</LM>
 </w.rf>
 <form>Thüringer</form>
-<tag lemma="Thüringer_;K_,t" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="Thüringer_;K_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="Thüringer-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94202-5-p2s1Bw9">
 <src.rf>manual</src.rf>
@@ -127,7 +136,10 @@
 <LM>w#w-ln94202-5-p2s1Bw9</LM>
 </w.rf>
 <form>GmbH</form>
-<tag lemma="Gmbh_:B_,t_,x_^(Gesellschaft_mit_beschränke_Haftung)" src="auto" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="Gmbh_:B_,t_,x_^(Gesellschaft_mit_beschränke_Haftung)" src="auto">NNFXX-----A---8</AM>
+<AM lemma="GmbH-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln94202-5-p2s1Bw10">
 <src.rf>manual</src.rf>
@@ -193,7 +205,10 @@
 <LM>w#w-ln94202-5-p2s2w4</LM>
 </w.rf>
 <form>T</form>
-<tag lemma="T-0_:B_;Y" src="orig" selected="1">NNMXX-----A---8</tag>
+<tag>
+<AM lemma="T-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
+<AM lemma="T-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln94202-5-p2s2w5">
 <src.rf>manual</src.rf>
@@ -411,7 +426,10 @@
 <LM>w#w-ln94202-5-p3s1w11</LM>
 </w.rf>
 <form>DEM</form>
-<tag lemma="DEM_:B_;b_^(německá_marka)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="DEM_:B_;b_^(německá_marka)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="DEM-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln94202-5-p3s1w12">
 <src.rf>manual</src.rf>
@@ -533,7 +551,10 @@
 <LM>w#w-ln94202-5-p3s2w14</LM>
 </w.rf>
 <form>Hotzenblitz</form>
-<tag lemma="Hotzenblitz_;K_,t" src="orig" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="Hotzenblitz_;K_,t" src="orig">NNIS1-----A----</AM>
+<AM lemma="Hotzenblitz_;K" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94202-5-p3s2w15">
 <src.rf>manual</src.rf>
@@ -661,7 +682,10 @@
 <LM>w#w-ln94202-5-p3s2w30</LM>
 </w.rf>
 <form>mil</form>
-<tag lemma="milión`1000000_:B" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="milión`1000000_:B" src="orig">NNIXX-----A---8</AM>
+<AM lemma="milión`1000000" src="manual" selected="1">NNIXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln94202-5-p3s2w31">
 <src.rf>manual</src.rf>
@@ -677,7 +701,10 @@
 <LM>w#w-ln94202-5-p3s2w32</LM>
 </w.rf>
 <form>DEM</form>
-<tag lemma="DEM_:B_;b_^(německá_marka)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="DEM_:B_;b_^(německá_marka)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="DEM-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln94202-5-p3s2w33">
 <src.rf>manual</src.rf>
@@ -897,7 +924,10 @@
 <LM>w#w-ln94202-5-p3s5w6</LM>
 </w.rf>
 <form>km</form>
-<tag lemma="km-1`kilometr_:B" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="km-1`kilometr_:B" src="orig">NNIXX-----A---8</AM>
+<AM lemma="km-1`kilometr" src="manual" selected="1">NNIXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln94202-5-p3s5w7">
 <src.rf>manual</src.rf>
@@ -1011,7 +1041,10 @@
 <LM>w#w-ln94202-5-p3s6w11</LM>
 </w.rf>
 <form>km</form>
-<tag lemma="km-1`kilometr_:B" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="km-1`kilometr_:B" src="orig">NNIXX-----A---8</AM>
+<AM lemma="km-1`kilometr" src="manual" selected="1">NNIXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln94202-5-p3s6w12">
 <src.rf>manual</src.rf>
@@ -1075,7 +1108,10 @@
 <LM>w#w-ln94202-5-p3s6w19</LM>
 </w.rf>
 <form>km</form>
-<tag lemma="km-1`kilometr_:B" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="km-1`kilometr_:B" src="orig">NNIXX-----A---8</AM>
+<AM lemma="km-1`kilometr" src="manual" selected="1">NNIXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln94202-5-p3s6w20">
 <src.rf>manual</src.rf>

@@ -109,7 +109,10 @@
 <LM>w#w-ln94200-167-p2s1Aw3</LM>
 </w.rf>
 <form>kva</form>
-<tag lemma="kva-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="kva-99_:B_;S" src="orig">NNXXX-----A---8</AM>
+<AM lemma="kva-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94200-167-p2s1Aw4">
 <src.rf>manual</src.rf>
@@ -497,7 +500,10 @@
 <LM>w#w-ln94200-167-p2s2w18</LM>
 </w.rf>
 <form>Radia</form>
-<tag lemma="rádio_,a" src="orig" selected="1">NNNS2-----A----</tag>
+<tag>
+<AM lemma="rádio_,a" src="orig">NNNS2-----A----</AM>
+<AM lemma="radio_,s_^(^DD**rádio)" src="manual" selected="1">NNNS2-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94200-167-p2s2w19">
 <src.rf>manual</src.rf>

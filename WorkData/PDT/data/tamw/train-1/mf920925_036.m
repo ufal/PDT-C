@@ -377,7 +377,10 @@
 <LM>w#w-mf920925-036-p2s3w13</LM>
 </w.rf>
 <form>ČSAV</form>
-<tag lemma="ČSAV-1_:B_;K_^(Čs._akademie_věd)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ČSAV-1_:B_;K_^(Čs._akademie_věd)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČSAV-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-mf920925-036-p2s3w14">
 <src.rf>manual</src.rf>
@@ -475,7 +478,10 @@
 <LM>w#w-mf920925-036-p2s4w11</LM>
 </w.rf>
 <form>galérie</form>
-<tag lemma="galérie" src="orig" selected="1">NNFS2-----A----</tag>
+<tag>
+<AM lemma="galérie" src="orig">NNFS2-----A----</AM>
+<AM lemma="galérie_,s_^(^DD**galerie)" src="manual" selected="1">NNFS2-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920925-036-p2s4w12">
 <src.rf>manual</src.rf>

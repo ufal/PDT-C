@@ -296,7 +296,7 @@
 <tag>
 <AM lemma="tady" src="orig">Db------------1</AM>
 <AM lemma="ten" src="auto">PDFS4----------</AM>
-<AM lemma="tu" src="auto" recommended="1">Db-------------</AM>
+<AM lemma="tu" src="auto" recommended="1" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m-cmpr9406-013-p5s5w3">
@@ -583,7 +583,10 @@
 <LM>w#w-cmpr9406-013-p8s1w2</LM>
 </w.rf>
 <form>Holínek</form>
-<tag lemma="holínka" src="orig" selected="1">NNFP2-----A----</tag>
+<tag>
+<AM lemma="holínka" src="orig">NNFP2-----A----</AM>
+<AM lemma="Holínek_;S" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-cmpr9406-013-p8s1w3">
 <src.rf>manual</src.rf>
@@ -1139,7 +1142,10 @@
 <LM>w#w-cmpr9406-013-p9s2w52</LM>
 </w.rf>
 <form>atd</form>
-<tag lemma="atd-1_:B_^(a_tak_dále)" src="orig" selected="1">Db------------8</tag>
+<tag>
+<AM lemma="atd-1_:B_^(a_tak_dále)" src="orig">Db------------8</AM>
+<AM lemma="atd-1_:B_^(a_tak_dále)" src="manual" selected="1">Db-------------</AM>
+</tag>
 </m>
 <m id="m-cmpr9406-013-p9s2w53">
 <src.rf>manual</src.rf>
@@ -1159,7 +1165,7 @@
 <form>Ovšem</form>
 <tag>
 <AM lemma="ovšem-1_^(avšak,_však;_odporovací_spojka)" src="orig">J^-------------</AM>
-<AM lemma="ovšem" src="auto" recommended="1">TT-------------</AM>
+<AM lemma="ovšem" src="auto" recommended="1" selected="1">TT-------------</AM>
 </tag>
 </m>
 <m id="m-cmpr9406-013-p9s3w2">
@@ -1388,7 +1394,10 @@
 <LM>w#w-cmpr9406-013-p11s1w11</LM>
 </w.rf>
 <form>tel</form>
-<tag lemma="telefon_:B" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="telefon_:B" src="orig">NNIXX-----A---8</AM>
+<AM lemma="telefon" src="manual" selected="1">NNIXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-cmpr9406-013-p11s1w12">
 <src.rf>manual</src.rf>

@@ -113,7 +113,10 @@
 <LM>w#w-lnd92259-045-p3s2w4</LM>
 </w.rf>
 <form>Uffe</form>
-<tag lemma="Uffe_;S" src="auto" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Uffe_;S" src="auto">NNMS1-----A----</AM>
+<AM lemma="Uffe_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92259-045-p3s2w5">
 <src.rf>manual</src.rf>
@@ -217,7 +220,10 @@
 <LM>w#w-lnd92259-045-p3s2w17</LM>
 </w.rf>
 <form>Douglasem</form>
-<tag lemma="Douglas-2_;S" src="orig" selected="1">NNMS7-----A----</tag>
+<tag>
+<AM lemma="Douglas-2_;S" src="orig">NNMS7-----A----</AM>
+<AM lemma="Douglas-2_;S_;Y" src="manual" selected="1">NNMS7-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92259-045-p3s2w18">
 <src.rf>manual</src.rf>
@@ -321,7 +327,10 @@
 <LM>w#w-lnd92259-045-p3s2w30</LM>
 </w.rf>
 <form>ES</form>
-<tag lemma="ES_:B_;K_^(Evropská_společenství)" src="orig" selected="1">NNNXX-----A---8</tag>
+<tag>
+<AM lemma="ES_:B_;K_^(Evropská_společenství)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="ES-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd92259-045-p3s2w31">
 <src.rf>manual</src.rf>
@@ -629,7 +638,10 @@
 <LM>w#w-lnd92259-045-p3s4w18</LM>
 </w.rf>
 <form>Felipe</form>
-<tag lemma="Felipe_;S_;Y_,t" src="auto" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Felipe_;S_;Y_,t" src="auto">NNMS1-----A----</AM>
+<AM lemma="Felipe_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92259-045-p3s4w19">
 <src.rf>manual</src.rf>
@@ -679,7 +691,10 @@
 <LM>w#w-lnd92259-045-p3s5w4</LM>
 </w.rf>
 <form>Major</form>
-<tag lemma="major" src="orig" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="major" src="orig">NNMS1-----A----</AM>
+<AM lemma="Major_;S" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92259-045-p3s5w5">
 <src.rf>manual</src.rf>
@@ -791,7 +806,10 @@
 <LM>w#w-lnd92259-045-p3s5w18</LM>
 </w.rf>
 <form>ES</form>
-<tag lemma="ES_:B_;K_^(Evropská_společenství)" src="orig" selected="1">NNNXX-----A---8</tag>
+<tag>
+<AM lemma="ES_:B_;K_^(Evropská_společenství)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="ES-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd92259-045-p3s5w19">
 <src.rf>manual</src.rf>
@@ -977,7 +995,10 @@
 <LM>w#w-lnd92259-045-p3s6w11</LM>
 </w.rf>
 <form>Majorovo</form>
-<tag lemma="majorův_^(*2)" src="orig" selected="1">AUNS4M---------</tag>
+<tag>
+<AM lemma="majorův_^(*2)" src="orig">AUNS4M---------</AM>
+<AM lemma="Majorův_;S_^(*2)" src="manual" selected="1">AUNS4M---------</AM>
+</tag>
 </m>
 <m id="m-lnd92259-045-p3s6w12">
 <src.rf>manual</src.rf>

@@ -61,7 +61,10 @@
 <LM>w#w-mf920902-075-p2s1w3</LM>
 </w.rf>
 <form>čs</form>
-<tag lemma="československý_:B" src="orig" selected="1">AAXXX----1A---8</tag>
+<tag>
+<AM lemma="československý_:B" src="orig">AAXXX----1A---8</AM>
+<AM lemma="československý" src="manual" selected="1">AAXXX----1A---8</AM>
+</tag>
 </m>
 <m id="m-mf920902-075-p2s1w4">
 <src.rf>manual</src.rf>
@@ -159,7 +162,10 @@
 <LM>w#w-mf920902-075-p2s2w3</LM>
 </w.rf>
 <form>čs</form>
-<tag lemma="československý_:B" src="orig" selected="1">AAXXX----1A---8</tag>
+<tag>
+<AM lemma="československý_:B" src="orig">AAXXX----1A---8</AM>
+<AM lemma="československý" src="manual" selected="1">AAXXX----1A---8</AM>
+</tag>
 </m>
 <m id="m-mf920902-075-p2s2w4">
 <src.rf>manual</src.rf>
@@ -215,7 +221,10 @@
 <LM>w#w-mf920902-075-p2s2w10</LM>
 </w.rf>
 <form>Karas</form>
-<tag lemma="karas" src="orig" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="karas" src="orig">NNMS1-----A----</AM>
+<AM lemma="Karas_;S" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920902-075-p2s2w11">
 <src.rf>manual</src.rf>
@@ -591,6 +600,7 @@
 <AM lemma="Sk_:B" src="orig">NNXXX-----A---8</AM>
 <AM lemma="SK-1_:B_;K_;w_^(sportovní_klub)" src="auto" recommended="1">NNIXX-----A---8</AM>
 <AM lemma="Sk_:B_;K" src="auto">NNFXX-----A---8</AM>
+<AM lemma="SK-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920902-075-p2s4w21">
@@ -649,7 +659,7 @@
 <form>Karase</form>
 <tag>
 <AM lemma="Karas_;S" src="orig">NNMS2-----A----</AM>
-<AM lemma="Karas_;S" src="auto">NNMS2-----A---1</AM>
+<AM lemma="Karas_;S" src="auto" selected="1">NNMS2-----A---1</AM>
 <AM lemma="Karas_;S" src="auto">NNMS4-----A---1</AM>
 <AM lemma="Karas_;S" src="auto">NNMS5-----A----</AM>
 <AM lemma="karas" src="auto">NNMS5-----A----</AM>
@@ -783,7 +793,10 @@
 <LM>w#w-mf920902-075-p2s4w43</LM>
 </w.rf>
 <form>BTIU</form>
-<tag lemma="BTIU_;R" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="BTIU_;R" src="orig">NNXXX-----A---8</AM>
+<AM lemma="BTIU-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920902-075-p2s4w44">
 <src.rf>manual</src.rf>
@@ -1049,7 +1062,10 @@
 <LM>w#w-mf920902-075-p2s5w20</LM>
 </w.rf>
 <form>čs</form>
-<tag lemma="československý_:B" src="orig" selected="1">AAXXX----1A---8</tag>
+<tag>
+<AM lemma="československý_:B" src="orig">AAXXX----1A---8</AM>
+<AM lemma="československý" src="manual" selected="1">AAXXX----1A---8</AM>
+</tag>
 </m>
 <m id="m-mf920902-075-p2s5w21">
 <src.rf>manual</src.rf>

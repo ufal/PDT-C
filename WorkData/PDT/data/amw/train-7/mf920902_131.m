@@ -263,7 +263,10 @@
 <LM>w#w-mf920902-131-p2s1w20</LM>
 </w.rf>
 <form>stadiem</form>
-<tag lemma="stadium" src="orig" selected="1">NNNS7-----A----</tag>
+<tag>
+<AM lemma="stadium" src="orig">NNNS7-----A----</AM>
+<AM lemma="stadium_,s_^(^DD**stádium)" src="manual" selected="1">NNNS7-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920902-131-p2s1w21">
 <src.rf>manual</src.rf>
@@ -419,7 +422,10 @@
 <LM>w#w-mf920902-131-p2s3w9</LM>
 </w.rf>
 <form>jen</form>
-<tag lemma="jen-1" src="auto" selected="1">TT-------------</tag>
+<tag>
+<AM lemma="jen-1" src="auto">TT-------------</AM>
+<AM lemma="jen-4_^(pouze)" src="manual" selected="1">Db-------------</AM>
+</tag>
 </m>
 <m id="m-mf920902-131-p2s3w10">
 <src.rf>manual</src.rf>
@@ -429,7 +435,7 @@
 <form>Irové</form>
 <tag>
 <AM lemma="Ir_;E" src="orig">NNMP1-----A----</AM>
-<AM lemma="Ir_;E" src="auto" recommended="1">NNMP1-----A---1</AM>
+<AM lemma="Ir_;E" src="auto" recommended="1" selected="1">NNMP1-----A---1</AM>
 <AM lemma="Ir_;E" src="auto">NNMP5-----A---1</AM>
 <AM lemma="Irová_;S" src="auto">NNFP1-----A----</AM>
 <AM lemma="Irová_;S" src="auto">NNFP4-----A----</AM>
@@ -1001,7 +1007,10 @@
 <LM>w#w-mf920902-131-p3s1w23</LM>
 </w.rf>
 <form>vox</form>
-<tag lemma="vox_,t" src="orig" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="vox_,t" src="orig">NNIS1-----A----</AM>
+<AM lemma="vox-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-mf920902-131-p3s1w24">
 <src.rf>manual</src.rf>
@@ -1009,7 +1018,10 @@
 <LM>w#w-mf920902-131-p3s1w24</LM>
 </w.rf>
 <form>populi</form>
-<tag lemma="populus_,t" src="orig" selected="1">NNIS2-----A----</tag>
+<tag>
+<AM lemma="populus_,t" src="orig">NNIS2-----A----</AM>
+<AM lemma="populi-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-mf920902-131-p3s1w25">
 <src.rf>manual</src.rf>

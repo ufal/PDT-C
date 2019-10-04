@@ -367,7 +367,10 @@
 <LM>w#w-ln95044-064-p2s1Bw13</LM>
 </w.rf>
 <form>hodně</form>
-<tag lemma="hodně-2_^(nezlobivý)_(*3ý-2)" src="auto" selected="1">Dg-------1A----</tag>
+<tag>
+<AM lemma="hodně-2_^(nezlobivý)_(*3ý-2)" src="auto">Dg-------1A----</AM>
+<AM lemma="hodně-3" src="manual" selected="1">Dg-------1A----</AM>
+</tag>
 </m>
 <m id="m-ln95044-064-p2s1Bw14">
 <src.rf>manual</src.rf>
@@ -887,7 +890,10 @@
 <LM>w#w-ln95044-064-p3s3w13</LM>
 </w.rf>
 <form>Kantůrka</form>
-<tag lemma="kantůrek" src="orig" selected="1">NNMS4-----A----</tag>
+<tag>
+<AM lemma="kantůrek" src="orig">NNMS4-----A----</AM>
+<AM lemma="Kantůrek_;S" src="manual" selected="1">NNMS4-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95044-064-p3s3w14">
 <src.rf>manual</src.rf>
@@ -1291,7 +1297,10 @@
 <LM>w#w-ln95044-064-p4s1w11</LM>
 </w.rf>
 <form>jen</form>
-<tag lemma="jen-1" src="auto" selected="1">TT-------------</tag>
+<tag>
+<AM lemma="jen-1" src="auto">TT-------------</AM>
+<AM lemma="jen-4_^(pouze)" src="manual" selected="1">Db-------------</AM>
+</tag>
 </m>
 <m id="m-ln95044-064-p4s1w12">
 <src.rf>manual</src.rf>
@@ -2360,6 +2369,7 @@
 <tag>
 <AM lemma="vánoce" src="orig">NNFP7-----A---1</AM>
 <AM lemma="Vánoce_,x" src="auto" recommended="1">NNFP7-----A---1</AM>
+<AM lemma="vánoce_,i_^(^DS**Vánoce)" src="manual" selected="1">NNFP7-----A---1</AM>
 </tag>
 </m>
 <m id="m-ln95044-064-p7s3w17">
@@ -2664,7 +2674,10 @@
 <LM>w#w-ln95044-064-p9s2w9</LM>
 </w.rf>
 <form>rasismu</form>
-<tag lemma="rasismus" src="orig" selected="1">NNIS2-----A----</tag>
+<tag>
+<AM lemma="rasismus" src="orig">NNIS2-----A----</AM>
+<AM lemma="rasismus_,s_^(^DD**rasizmus)" src="manual" selected="1">NNIS2-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95044-064-p9s2w10">
 <src.rf>manual</src.rf>
@@ -2685,6 +2698,7 @@
 <AM lemma="šovinizmus" src="auto" recommended="1">NNIS2-----A----</AM>
 <AM lemma="šovinizmus" src="auto">NNIS3-----A----</AM>
 <AM lemma="šovinizmus" src="auto">NNIS6-----A----</AM>
+<AM lemma="šovinismus_,s_^(^DD**šovinizmus)" src="manual" selected="1">NNIS2-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95044-064-p9s2w12">
@@ -3729,7 +3743,7 @@
 <form>snad</form>
 <tag>
 <AM lemma="snad" src="orig">Db-------------</AM>
-<AM lemma="snad" src="auto" recommended="1">TT-------------</AM>
+<AM lemma="snad" src="auto" recommended="1" selected="1">TT-------------</AM>
 </tag>
 </m>
 <m id="m-ln95044-064-p11s1w6">
@@ -4800,7 +4814,7 @@
 <form>vůbec</form>
 <tag>
 <AM lemma="vůbec" src="orig">Db-------------</AM>
-<AM lemma="vůbec" src="auto" recommended="1">TT-------------</AM>
+<AM lemma="vůbec" src="auto" recommended="1" selected="1">TT-------------</AM>
 </tag>
 </m>
 <m id="m-ln95044-064-p11s11w9">
@@ -5869,7 +5883,10 @@
 <LM>w#w-ln95044-064-p14s3w4</LM>
 </w.rf>
 <form>ani</form>
-<tag lemma="ani-1" src="auto" selected="1">J^-------------</tag>
+<tag>
+<AM lemma="ani-1" src="auto">J^-------------</AM>
+<AM lemma="ani-2" src="manual" selected="1">TT-------------</AM>
+</tag>
 </m>
 <m id="m-ln95044-064-p14s3w5">
 <src.rf>manual</src.rf>

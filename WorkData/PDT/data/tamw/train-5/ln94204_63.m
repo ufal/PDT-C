@@ -69,7 +69,7 @@
 <form>nikoliv</form>
 <tag>
 <AM lemma="nikoliv" src="orig">Db-------------</AM>
-<AM lemma="nikoli" src="auto" recommended="1">TT------------1</AM>
+<AM lemma="nikoli" src="auto" recommended="1" selected="1">TT------------1</AM>
 </tag>
 </m>
 </s>
@@ -96,7 +96,10 @@
 <LM>w#w-ln94204-63-p2s1Aw3</LM>
 </w.rf>
 <form>luč</form>
-<tag lemma="luč-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="luč-99_:B_;S" src="orig">NNXXX-----A---8</AM>
+<AM lemma="luč-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94204-63-p2s1Aw4">
 <src.rf>manual</src.rf>
@@ -162,7 +165,10 @@
 <LM>w#w-ln94204-63-p2s1Bw6</LM>
 </w.rf>
 <form>Š</form>
-<tag lemma="Š-9_:B_;S" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="Š-9_:B_;S" src="orig">NNFXX-----A---8</AM>
+<AM lemma="Š-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94204-63-p2s1Bw7">
 <src.rf>manual</src.rf>

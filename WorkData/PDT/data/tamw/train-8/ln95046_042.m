@@ -95,7 +95,10 @@
 <LM>w#w-ln95046-042-p2s1Bw6</LM>
 </w.rf>
 <form>AC</form>
-<tag lemma="AC-1_:B_;K_;w_^(př._AC_Sparta_Praha)" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="AC-1_:B_;K_;w_^(př._AC_Sparta_Praha)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="AC-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln95046-042-p2s1Bw7">
 <src.rf>manual</src.rf>
@@ -207,7 +210,10 @@
 <LM>w#w-ln95046-042-p2s1Bw20</LM>
 </w.rf>
 <form>Vincenza</form>
-<tag lemma="Vincenzo_;Y_,t" src="auto" selected="1">NNMS2-----A----</tag>
+<tag>
+<AM lemma="Vincenzo_;Y_,t" src="auto">NNMS2-----A----</AM>
+<AM lemma="Vincenzo_;Y" src="manual" selected="1">NNMS2-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95046-042-p2s1Bw21">
 <src.rf>manual</src.rf>

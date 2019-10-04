@@ -35,7 +35,10 @@
 <LM>w#w-mf930708-109-p1s1w3</LM>
 </w.rf>
 <form>nehraje</form>
-<tag lemma="hrát" src="auto" selected="1">VB-S---3P-NA---</tag>
+<tag>
+<AM lemma="hrát" src="auto">VB-S---3P-NA---</AM>
+<AM lemma="hrát_:T" src="manual" selected="1">VB-S---3P-NA---</AM>
+</tag>
 </m>
 <m id="m-mf930708-109-p1s1w4">
 <src.rf>manual</src.rf>
@@ -77,7 +80,10 @@
 <LM>w#w-mf930708-109-p2s1w3</LM>
 </w.rf>
 <form>cg</form>
-<tag lemma="cg-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="cg-99_:B_;S" src="orig">NNXXX-----A---8</AM>
+<AM lemma="cg-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930708-109-p2s1w4">
 <src.rf>manual</src.rf>
@@ -237,7 +243,10 @@
 <LM>w#w-mf930708-109-p2s1w23</LM>
 </w.rf>
 <form>milionů</form>
-<tag lemma="milión`1000000" src="orig" selected="1">NNIP2-----A----</tag>
+<tag>
+<AM lemma="milión`1000000" src="orig">NNIP2-----A----</AM>
+<AM lemma="milion`1000000_,s_^(^DD**milión)" src="manual" selected="1">NNIP2-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930708-109-p2s1w24">
 <src.rf>manual</src.rf>
@@ -721,7 +730,10 @@
 <LM>w#w-mf930708-109-p2s3w22</LM>
 </w.rf>
 <form>van</form>
-<tag lemma="van-2_,t_^(v_hol._jménech)" src="orig" selected="1">RR--X----------</tag>
+<tag>
+<AM lemma="van-2_,t_^(v_hol._jménech)" src="orig">RR--X----------</AM>
+<AM lemma="van-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-mf930708-109-p2s3w23">
 <src.rf>manual</src.rf>
@@ -961,7 +973,10 @@
 <LM>w#w-mf930708-109-p2s7w8</LM>
 </w.rf>
 <form>UEFA</form>
-<tag lemma="UEFA-1_:B_;K_;w_^(Evr._fotbalová_federace)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="UEFA-1_:B_;K_;w_^(Evr._fotbalová_federace)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="UEFA-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-mf930708-109-p2s7w9">
 <src.rf>manual</src.rf>
@@ -1205,7 +1220,10 @@
 <LM>w#w-mf930708-109-p3s1w3</LM>
 </w.rf>
 <form>šá</form>
-<tag lemma="šá-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="šá-99_:B_;S" src="orig">NNXXX-----A---8</AM>
+<AM lemma="šá-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930708-109-p3s1w4">
 <src.rf>manual</src.rf>

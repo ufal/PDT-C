@@ -67,7 +67,10 @@
 <LM>w#w-mf930701-015-p1s1w7</LM>
 </w.rf>
 <form>ouš</form>
-<tag lemma="ouš-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="ouš-99_:B_;S" src="orig">NNXXX-----A---8</AM>
+<AM lemma="ouš-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930701-015-p1s1w8">
 <src.rf>manual</src.rf>
@@ -372,7 +375,7 @@
 <tag>
 <AM lemma="nalézt" src="orig">VpYS---XR-AA---</AM>
 <AM lemma="nalézt-1_^(někam)" src="auto" recommended="1">VpYS---XR-AA---</AM>
-<AM lemma="nalézt-2" src="auto">VpYS---XR-AA---</AM>
+<AM lemma="nalézt-2" src="auto" selected="1">VpYS---XR-AA---</AM>
 </tag>
 </m>
 <m id="m-mf930701-015-p1s4w4">
@@ -543,7 +546,10 @@
 <LM>w#w-mf930701-015-p2s1w8</LM>
 </w.rf>
 <form>ouš</form>
-<tag lemma="ouš-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="ouš-99_:B_;S" src="orig">NNXXX-----A---8</AM>
+<AM lemma="ouš-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930701-015-p2s1w9">
 <src.rf>manual</src.rf>
@@ -649,7 +655,7 @@
 <form>trabantem</form>
 <tag>
 <AM lemma="Trabant-2_;R_^(vozidlo)" src="orig">NNIS7-----A----</AM>
-<AM lemma="trabant_;R" src="auto" recommended="1">NNIS7-----A----</AM>
+<AM lemma="trabant_;R" src="auto" recommended="1" selected="1">NNIS7-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930701-015-p2s1w22">
@@ -852,7 +858,7 @@
 <AM lemma="Trabant-2_;R_^(vozidlo)" src="orig">NNIS6-----A----</AM>
 <AM lemma="trabant_;R" src="auto">NNIS2-----A----</AM>
 <AM lemma="trabant_;R" src="auto">NNIS3-----A----</AM>
-<AM lemma="trabant_;R" src="auto" recommended="1">NNIS6-----A----</AM>
+<AM lemma="trabant_;R" src="auto" recommended="1" selected="1">NNIS6-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930701-015-p2s4w4">

@@ -75,7 +75,10 @@
 <LM>w#w-mf930703-081-p1s1w8</LM>
 </w.rf>
 <form>omezen</form>
-<tag lemma="omezit" src="orig" selected="1">VsYS---XX-AP---</tag>
+<tag>
+<AM lemma="omezit" src="orig">VsYS---XX-AP---</AM>
+<AM lemma="omezit_:W" src="manual" selected="1">VsYS---XX-AP---</AM>
+</tag>
 </m>
 </s>
 <s id="m-mf930703-081-p2s1">
@@ -101,7 +104,10 @@
 <LM>w#w-mf930703-081-p2s1w3</LM>
 </w.rf>
 <form>nak</form>
-<tag lemma="nak-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="nak-99_:B_;S" src="orig">NNXXX-----A---8</AM>
+<AM lemma="nak-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930703-081-p2s1w4">
 <src.rf>manual</src.rf>
@@ -293,7 +299,10 @@
 <LM>w#w-mf930703-081-p2s1w27</LM>
 </w.rf>
 <form>omezen</form>
-<tag lemma="omezit" src="orig" selected="1">VsYS---XX-AP---</tag>
+<tag>
+<AM lemma="omezit" src="orig">VsYS---XX-AP---</AM>
+<AM lemma="omezit_:W" src="manual" selected="1">VsYS---XX-AP---</AM>
+</tag>
 </m>
 <m id="m-mf930703-081-p2s1w28">
 <src.rf>manual</src.rf>
@@ -781,7 +790,10 @@
 <LM>w#w-mf930703-081-p2s5w4</LM>
 </w.rf>
 <form>vybrány</form>
-<tag lemma="vybrat" src="orig" selected="1">VsTP---XX-AP---</tag>
+<tag>
+<AM lemma="vybrat" src="orig">VsTP---XX-AP---</AM>
+<AM lemma="vybrat_:W" src="manual" selected="1">VsTP---XX-AP---</AM>
+</tag>
 </m>
 <m id="m-mf930703-081-p2s5w5">
 <src.rf>manual</src.rf>
@@ -898,7 +910,7 @@
 <tag>
 <AM lemma="přesto" src="orig">Dg-------1A----</AM>
 <AM lemma="přesto-1" src="auto" recommended="1">Db-------------</AM>
-<AM lemma="přesto-2" src="auto">J^-------------</AM>
+<AM lemma="přesto-2" src="auto" selected="1">J^-------------</AM>
 </tag>
 </m>
 <m id="m-mf930703-081-p2s6w5">

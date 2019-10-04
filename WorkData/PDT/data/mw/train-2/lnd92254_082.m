@@ -65,6 +65,8 @@
 <AM lemma="do_:B" src="orig">NNMS1-----A---8</AM>
 <AM lemma="ad_,t" src="auto">RR--1----------</AM>
 <AM lemma="adalší_:B" src="auto" recommended="1">AAXXX----1A---8</AM>
+<AM lemma="ad-99_:B_;S" src="manual">NNXXX-----A---8</AM>
+<AM lemma="ad-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92254-082-p2s1w4">
@@ -333,7 +335,10 @@
 <LM>w#w-lnd92254-082-p2s3w1</LM>
 </w.rf>
 <form>Přijely</form>
-<tag lemma="přijet" src="auto" selected="1">VpTP---XR-AA---</tag>
+<tag>
+<AM lemma="přijet" src="auto">VpTP---XR-AA---</AM>
+<AM lemma="přijet_:W" src="manual" selected="1">VpTP---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-lnd92254-082-p2s3w2">
 <src.rf>manual</src.rf>
@@ -351,7 +356,7 @@
 <form>totiž</form>
 <tag>
 <AM lemma="totiž" src="orig">Db-------------</AM>
-<AM lemma="totiž-1" src="auto" recommended="1">J^-------------</AM>
+<AM lemma="totiž-1" src="auto" recommended="1" selected="1">J^-------------</AM>
 <AM lemma="totiž-2" src="auto">TT-------------</AM>
 </tag>
 </m>
@@ -819,7 +824,10 @@
 <LM>w#w-lnd92254-082-p2s4w34</LM>
 </w.rf>
 <form>nepřijede</form>
-<tag lemma="přijet" src="auto" selected="1">VB-S---3P-NA---</tag>
+<tag>
+<AM lemma="přijet" src="auto">VB-S---3P-NA---</AM>
+<AM lemma="přijet_:W" src="manual" selected="1">VB-S---3P-NA---</AM>
+</tag>
 </m>
 <m id="m-lnd92254-082-p2s4w35">
 <src.rf>manual</src.rf>

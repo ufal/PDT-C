@@ -69,7 +69,10 @@
 <LM>w#w-ln94204-13-p2s1w6</LM>
 </w.rf>
 <form>ITT</form>
-<tag lemma="ITT-1_:B_;K_,t_^(Inter._Telephone_and_Telgraph_Corporation)" src="auto" selected="1">NNNXX-----A---8</tag>
+<tag>
+<AM lemma="ITT-1_:B_;K_,t_^(Inter._Telephone_and_Telgraph_Corporation)" src="auto">NNNXX-----A---8</AM>
+<AM lemma="ITT-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln94204-13-p2s1w7">
 <src.rf>manual</src.rf>
@@ -85,7 +88,10 @@
 <LM>w#w-ln94204-13-p2s1w8</LM>
 </w.rf>
 <form>Cablevision</form>
-<tag lemma="Cablevision_;K_,t" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="Cablevision_;K_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="Cablevision-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94204-13-p2s1w9">
 <src.rf>manual</src.rf>
@@ -93,7 +99,10 @@
 <LM>w#w-ln94204-13-p2s1w9</LM>
 </w.rf>
 <form>Systems</form>
-<tag lemma="System_;K_,t" src="orig" selected="1">NNIPX-----A----</tag>
+<tag>
+<AM lemma="System_;K_,t" src="orig">NNIPX-----A----</AM>
+<AM lemma="Systems-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94204-13-p2s1w10">
 <src.rf>manual</src.rf>
@@ -173,7 +182,10 @@
 <LM>w#w-ln94204-13-p2s1w19</LM>
 </w.rf>
 <form>Viacom</form>
-<tag lemma="Viacom_;K_,t" src="orig" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="Viacom_;K_,t" src="orig">NNIS1-----A----</AM>
+<AM lemma="Viacom-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94204-13-p2s1w20">
 <src.rf>manual</src.rf>
@@ -185,6 +197,7 @@
 <AM lemma="Inc_:B_;K_,t_^(Incorporated)" src="orig">AAXXX----1A---8</AM>
 <AM lemma="Incorporated_:B_,t" src="auto">TT------------8</AM>
 <AM lemma="incisit_:B" src="auto" recommended="1">NNIXX-----A---8</AM>
+<AM lemma="Inc-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-ln94204-13-p2s1w21">
@@ -212,6 +225,7 @@
 <tag>
 <AM lemma="Madison_;m" src="orig">AAXXX----1A----</AM>
 <AM lemma="Madison_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Madison-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-ln94204-13-p2s1w24">
@@ -220,7 +234,10 @@
 <LM>w#w-ln94204-13-p2s1w24</LM>
 </w.rf>
 <form>Square</form>
-<tag lemma="Square_;m_,t" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="Square_;m_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="Square-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94204-13-p2s1w25">
 <src.rf>manual</src.rf>
@@ -228,7 +245,10 @@
 <LM>w#w-ln94204-13-p2s1w25</LM>
 </w.rf>
 <form>Garden</form>
-<tag lemma="Garden-2_;G_,t_^(součást_názvu_např._Garden_City)" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="Garden-2_;G_,t_^(součást_názvu_např._Garden_City)" src="orig">AAXXX----1A----</AM>
+<AM lemma="Garden-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94204-13-p2s1w26">
 <src.rf>manual</src.rf>
@@ -319,7 +339,10 @@
 <LM>w#w-ln94204-13-p3s1w6</LM>
 </w.rf>
 <form>vzrostl</form>
-<tag lemma="vzrůst-1" src="auto" selected="1">VpYS---XR-AA---</tag>
+<tag>
+<AM lemma="vzrůst-1" src="auto">VpYS---XR-AA---</AM>
+<AM lemma="vzrůst-1_:W" src="manual" selected="1">VpYS---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-ln94204-13-p3s1w7">
 <src.rf>manual</src.rf>

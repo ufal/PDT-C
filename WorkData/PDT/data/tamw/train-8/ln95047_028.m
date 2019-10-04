@@ -236,6 +236,7 @@
 <tag>
 <AM lemma="ELH_:B_;m_^(hokejová_extraliga)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="ELH_:B_;K_^(Extraliga_ledního_hokeje)" src="auto" recommended="1">NNFSX-----A---8</AM>
+<AM lemma="ELH-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95047-028-p2s1Cw10">
@@ -372,7 +373,10 @@
 <LM>w#w-ln95047-028-p2s1Cw26</LM>
 </w.rf>
 <form>play</form>
-<tag lemma="play-1_,t" src="orig" selected="1">NNFXX-----A----</tag>
+<tag>
+<AM lemma="play-1_,t" src="orig">NNFXX-----A----</AM>
+<AM lemma="play-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln95047-028-p2s1Cw27">
 <src.rf>manual</src.rf>
@@ -380,7 +384,10 @@
 <LM>w#w-ln95047-028-p2s1Cw27</LM>
 </w.rf>
 <form>off</form>
-<tag lemma="off-1_,t_^(angl._&quot;vypnuto&quot;,_hlavně_souč._názvů)" src="orig" selected="1">TT-------------</tag>
+<tag>
+<AM lemma="off-1_,t_^(angl._&quot;vypnuto&quot;,_hlavně_souč._názvů)" src="orig">TT-------------</AM>
+<AM lemma="off-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln95047-028-p2s1Cw28">
 <src.rf>manual</src.rf>
@@ -444,7 +451,10 @@
 <LM>w#w-ln95047-028-p2s1Cw35</LM>
 </w.rf>
 <form>jenom</form>
-<tag lemma="jenom-1" src="auto" selected="1">TT-------------</tag>
+<tag>
+<AM lemma="jenom-1" src="auto">TT-------------</AM>
+<AM lemma="jenom-2_^(pouze)" src="manual" selected="1">Db-------------</AM>
+</tag>
 </m>
 <m id="m-ln95047-028-p2s1Cw36">
 <src.rf>manual</src.rf>
@@ -516,7 +526,10 @@
 <LM>w#w-ln95047-028-p2s1Cw44</LM>
 </w.rf>
 <form>hodně</form>
-<tag lemma="hodně-2_^(nezlobivý)_(*3ý-2)" src="auto" selected="1">Dg-------1A----</tag>
+<tag>
+<AM lemma="hodně-2_^(nezlobivý)_(*3ý-2)" src="auto">Dg-------1A----</AM>
+<AM lemma="hodně-3" src="manual" selected="1">Dg-------1A----</AM>
+</tag>
 </m>
 <m id="m-ln95047-028-p2s1Cw45">
 <src.rf>manual</src.rf>
@@ -1880,7 +1893,10 @@
 <LM>w#w-ln95047-028-p4s4w21</LM>
 </w.rf>
 <form>play</form>
-<tag lemma="play-1_,t" src="orig" selected="1">NNFXX-----A----</tag>
+<tag>
+<AM lemma="play-1_,t" src="orig">NNFXX-----A----</AM>
+<AM lemma="play-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln95047-028-p4s4w22">
 <src.rf>manual</src.rf>
@@ -1888,7 +1904,10 @@
 <LM>w#w-ln95047-028-p4s4w22</LM>
 </w.rf>
 <form>off</form>
-<tag lemma="off-1_,t_^(angl._&quot;vypnuto&quot;,_hlavně_souč._názvů)" src="orig" selected="1">TT-------------</tag>
+<tag>
+<AM lemma="off-1_,t_^(angl._&quot;vypnuto&quot;,_hlavně_souč._názvů)" src="orig">TT-------------</AM>
+<AM lemma="off-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln95047-028-p4s4w23">
 <src.rf>manual</src.rf>
@@ -2034,7 +2053,7 @@
 <AM lemma="osmý" src="auto">CrNP4---------6</AM>
 <AM lemma="osmý" src="auto">CrNP5---------6</AM>
 <AM lemma="osmý" src="auto">CrNS1----------</AM>
-<AM lemma="osmý" src="auto" recommended="1">CrNS4----------</AM>
+<AM lemma="osmý" src="auto" recommended="1" selected="1">CrNS4----------</AM>
 <AM lemma="osmý" src="auto">CrNS5----------</AM>
 </tag>
 </m>

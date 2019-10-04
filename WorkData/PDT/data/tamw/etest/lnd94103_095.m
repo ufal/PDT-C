@@ -123,6 +123,8 @@
 <AM lemma="kolegium_,a_,x" src="auto" recommended="1">NNNS1-----A----</AM>
 <AM lemma="kolegium_,a_,x" src="auto">NNNS4-----A----</AM>
 <AM lemma="kolegium_,a_,x" src="auto">NNNS5-----A----</AM>
+<AM lemma="collegium_,t" src="manual">NNNS1-----A----</AM>
+<AM lemma="Collegium-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-lnd94103-095-p1s1w14">
@@ -131,7 +133,11 @@
 <LM>w#w-lnd94103-095-p1s1w14</LM>
 </w.rf>
 <form>Musicum</form>
-<tag lemma="Musicum_;K_,t" src="orig" selected="1">NNNS1-----A----</tag>
+<tag>
+<AM lemma="Musicum_;K_,t" src="orig">NNNS1-----A----</AM>
+<AM lemma="musicum_,t" src="manual">AANS1----1A----</AM>
+<AM lemma="Musicum-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-lnd94103-095-p1s1w15">
 <src.rf>manual</src.rf>
@@ -155,7 +161,10 @@
 <LM>w#w-lnd94103-095-p1s1w17</LM>
 </w.rf>
 <form>CD</form>
-<tag lemma="CD-1_:B_;c_;u_;y_,t_^(Audio/Data,_Compact_Disc)" src="auto" selected="1">NNNXX-----A---8</tag>
+<tag>
+<AM lemma="CD-1_:B_;c_;u_;y_,t_^(Audio/Data,_Compact_Disc)" src="auto">NNNXX-----A---8</AM>
+<AM lemma="CD-1_:B_^(Audio/Data,_Compact_Disc)" src="manual" selected="1">NNNXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd94103-095-p1s1w18">
 <src.rf>manual</src.rf>
@@ -214,6 +223,8 @@
 <tag>
 <AM lemma="Chandos_;K_,t" src="orig">NNIS1-----A----</AM>
 <AM lemma="Chandos_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Chandos_;K" src="manual">NNIS1-----A----</AM>
+<AM lemma="Chandos-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-lnd94103-095-p1s1w25">
@@ -321,7 +332,10 @@
 <LM>w#w-lnd94103-095-p1s1w37</LM>
 </w.rf>
 <form>CD</form>
-<tag lemma="CD-1_:B_;c_;u_;y_,t_^(Audio/Data,_Compact_Disc)" src="auto" selected="1">NNNXX-----A---8</tag>
+<tag>
+<AM lemma="CD-1_:B_;c_;u_;y_,t_^(Audio/Data,_Compact_Disc)" src="auto">NNNXX-----A---8</AM>
+<AM lemma="CD-1_:B_^(Audio/Data,_Compact_Disc)" src="manual" selected="1">NNNXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd94103-095-p1s1w38">
 <src.rf>manual</src.rf>
@@ -329,7 +343,10 @@
 <LM>w#w-lnd94103-095-p1s1w38</LM>
 </w.rf>
 <form>W</form>
-<tag lemma="W-0_:B_;Y" src="orig" selected="1">NNMXX-----A---8</tag>
+<tag>
+<AM lemma="W-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
+<AM lemma="W-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd94103-095-p1s1w39">
 <src.rf>manual</src.rf>
@@ -345,7 +362,10 @@
 <LM>w#w-lnd94103-095-p1s1w40</LM>
 </w.rf>
 <form>A</form>
-<tag lemma="A-0_:B_;Y" src="orig" selected="1">NNMXX-----A---8</tag>
+<tag>
+<AM lemma="A-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
+<AM lemma="A-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd94103-095-p1s1w41">
 <src.rf>manual</src.rf>
@@ -377,7 +397,10 @@
 <LM>w#w-lnd94103-095-p1s1w44</LM>
 </w.rf>
 <form>Don</form>
-<tag lemma="don" src="orig" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="don" src="orig">NNMS1-----A----</AM>
+<AM lemma="Don-1_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd94103-095-p1s1w45">
 <src.rf>manual</src.rf>
@@ -401,7 +424,10 @@
 <LM>w#w-lnd94103-095-p1s1w47</LM>
 </w.rf>
 <form>EMI</form>
-<tag lemma="EMI_:B_;K" src="auto" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="EMI_:B_;K" src="auto">NNXXX-----A---8</AM>
+<AM lemma="EMI-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd94103-095-p1s1w48">
 <src.rf>manual</src.rf>
@@ -409,7 +435,10 @@
 <LM>w#w-lnd94103-095-p1s1w48</LM>
 </w.rf>
 <form>Classics</form>
-<tag lemma="Classics_;K_,t" src="orig" selected="1">NNFXX-----A----</tag>
+<tag>
+<AM lemma="Classics_;K_,t" src="orig">NNFXX-----A----</AM>
+<AM lemma="Classics-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-lnd94103-095-p1s1w49">
 <src.rf>manual</src.rf>
@@ -515,7 +544,10 @@
 <LM>w#w-lnd94103-095-p1s1w61</LM>
 </w.rf>
 <form>CD</form>
-<tag lemma="CD-1_:B_;c_;u_;y_,t_^(Audio/Data,_Compact_Disc)" src="auto" selected="1">NNNXX-----A---8</tag>
+<tag>
+<AM lemma="CD-1_:B_;c_;u_;y_,t_^(Audio/Data,_Compact_Disc)" src="auto">NNNXX-----A---8</AM>
+<AM lemma="CD-1_:B_^(Audio/Data,_Compact_Disc)" src="manual" selected="1">NNNXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd94103-095-p1s1w62">
 <src.rf>manual</src.rf>
@@ -693,7 +725,10 @@
 <LM>w#w-lnd94103-095-p1s1w83</LM>
 </w.rf>
 <form>CD</form>
-<tag lemma="CD-1_:B_;c_;u_;y_,t_^(Audio/Data,_Compact_Disc)" src="auto" selected="1">NNNXX-----A---8</tag>
+<tag>
+<AM lemma="CD-1_:B_;c_;u_;y_,t_^(Audio/Data,_Compact_Disc)" src="auto">NNNXX-----A---8</AM>
+<AM lemma="CD-1_:B_^(Audio/Data,_Compact_Disc)" src="manual" selected="1">NNNXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd94103-095-p1s1w84">
 <src.rf>manual</src.rf>
@@ -737,6 +772,7 @@
 <tag>
 <AM lemma="Chandos_;K" src="orig">NNIS1-----A----</AM>
 <AM lemma="Chandos_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Chandos-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-lnd94103-095-p1s1w89">
@@ -827,7 +863,10 @@
 <LM>w#w-lnd94103-095-p1s1w99</LM>
 </w.rf>
 <form>de</form>
-<tag lemma="de_,t_^(z_franc._de,_zejm._ve_jménech)" src="orig" selected="1">RR--1----------</tag>
+<tag>
+<AM lemma="de_,t_^(z_franc._de,_zejm._ve_jménech)" src="orig">RR--1----------</AM>
+<AM lemma="de-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-lnd94103-095-p1s1w100">
 <src.rf>manual</src.rf>
@@ -875,7 +914,10 @@
 <LM>w#w-lnd94103-095-p1s1w105</LM>
 </w.rf>
 <form>CD</form>
-<tag lemma="CD-1_:B_;c_;u_;y_,t_^(Audio/Data,_Compact_Disc)" src="auto" selected="1">NNNXX-----A---8</tag>
+<tag>
+<AM lemma="CD-1_:B_;c_;u_;y_,t_^(Audio/Data,_Compact_Disc)" src="auto">NNNXX-----A---8</AM>
+<AM lemma="CD-1_:B_^(Audio/Data,_Compact_Disc)" src="manual" selected="1">NNNXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd94103-095-p1s1w106">
 <src.rf>manual</src.rf>
@@ -883,7 +925,10 @@
 <LM>w#w-lnd94103-095-p1s1w106</LM>
 </w.rf>
 <form>Fictionary</form>
-<tag lemma="Fictionary_;R_,t" src="orig" selected="1">NNFXX-----A----</tag>
+<tag>
+<AM lemma="Fictionary_;R_,t" src="orig">NNFXX-----A----</AM>
+<AM lemma="Fictionary-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-lnd94103-095-p1s1w107">
 <src.rf>manual</src.rf>
@@ -899,7 +944,10 @@
 <LM>w#w-lnd94103-095-p1s1w108</LM>
 </w.rf>
 <form>Geffen</form>
-<tag lemma="Geffen_;G" src="orig" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="Geffen_;G" src="orig">NNIS1-----A----</AM>
+<AM lemma="Geffen-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-lnd94103-095-p1s1w109">
 <src.rf>manual</src.rf>
@@ -907,7 +955,10 @@
 <LM>w#w-lnd94103-095-p1s1w109</LM>
 </w.rf>
 <form>Rec</form>
-<tag lemma="Rec_:B_;K_,t" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="Rec_:B_;K_,t" src="orig">NNXXX-----A---8</AM>
+<AM lemma="Rec-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-lnd94103-095-p1s1w110">
 <src.rf>manual</src.rf>
@@ -935,6 +986,7 @@
 <AM lemma="BMG_:B_;K_,t" src="orig">NNFXX-----A----</AM>
 <AM lemma="BMG_:B_;K_,t" src="auto" recommended="1">NNFXX-----A---8</AM>
 <AM lemma="BMG_:B_;K_,t" src="auto">NNIXX-----A---8</AM>
+<AM lemma="BMG-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-lnd94103-095-p1s1w113">
@@ -943,7 +995,10 @@
 <LM>w#w-lnd94103-095-p1s1w113</LM>
 </w.rf>
 <form>Ariola</form>
-<tag lemma="Ariola_;K_,t" src="orig" selected="1">NNFS1-----A----</tag>
+<tag>
+<AM lemma="Ariola_;K_,t" src="orig">NNFS1-----A----</AM>
+<AM lemma="Ariola-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-lnd94103-095-p1s1w114">
 <src.rf>manual</src.rf>
@@ -1073,7 +1128,10 @@
 <LM>w#w-lnd94103-095-p1s1w129</LM>
 </w.rf>
 <form>CD</form>
-<tag lemma="CD-1_:B_;c_;u_;y_,t_^(Audio/Data,_Compact_Disc)" src="auto" selected="1">NNNXX-----A---8</tag>
+<tag>
+<AM lemma="CD-1_:B_;c_;u_;y_,t_^(Audio/Data,_Compact_Disc)" src="auto">NNNXX-----A---8</AM>
+<AM lemma="CD-1_:B_^(Audio/Data,_Compact_Disc)" src="manual" selected="1">NNNXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd94103-095-p1s1w130">
 <src.rf>manual</src.rf>
@@ -1105,7 +1163,10 @@
 <LM>w#w-lnd94103-095-p1s1w133</LM>
 </w.rf>
 <form>Bohemia</form>
-<tag lemma="Bohemia_;K" src="orig" selected="1">NNFXX-----A----</tag>
+<tag>
+<AM lemma="Bohemia_;K" src="orig">NNFXX-----A----</AM>
+<AM lemma="Bohemia-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-lnd94103-095-p1s1w134">
 <src.rf>manual</src.rf>
@@ -1113,7 +1174,10 @@
 <LM>w#w-lnd94103-095-p1s1w134</LM>
 </w.rf>
 <form>Disc</form>
-<tag lemma="Disc_;K_,t" src="orig" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="Disc_;K_,t" src="orig">NNIS1-----A----</AM>
+<AM lemma="Disc-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-lnd94103-095-p1s1w135">
 <src.rf>manual</src.rf>

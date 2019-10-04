@@ -312,7 +312,7 @@
 </w.rf>
 <form>nebývale</form>
 <tag>
-<AM lemma="nebývale_^(*1ý)" src="orig">Dg-------1A----</AM>
+<AM lemma="nebývale_^(*1ý)" src="orig" selected="1">Dg-------1A----</AM>
 <AM lemma="bývale_^(*1ý)" src="auto" recommended="1">Dg-------1N----</AM>
 </tag>
 </m>
@@ -566,7 +566,10 @@
 <LM>w#w-mf920924-043-p2s4w9</LM>
 </w.rf>
 <form>CD</form>
-<tag lemma="CD-1_:B_;c_;u_;y_,t_^(Audio/Data,_Compact_Disc)" src="auto" selected="1">NNNXX-----A---8</tag>
+<tag>
+<AM lemma="CD-1_:B_;c_;u_;y_,t_^(Audio/Data,_Compact_Disc)" src="auto">NNNXX-----A---8</AM>
+<AM lemma="CD-1_:B_^(Audio/Data,_Compact_Disc)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920924-043-p2s4w10">
 <src.rf>manual</src.rf>
@@ -582,7 +585,10 @@
 <LM>w#w-mf920924-043-p2s4w11</LM>
 </w.rf>
 <form>vydal</form>
-<tag lemma="vydat-1_:W_^(emitovat:_cenné_papíry,_knihu,_zvuk,...)" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag>
+<AM lemma="vydat-1_:W_^(emitovat:_cenné_papíry,_knihu,_zvuk,...)" src="orig">VpYS---XR-AA---</AM>
+<AM lemma="vydat_:W" src="manual" selected="1">VpYS---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-mf920924-043-p2s4w12">
 <src.rf>manual</src.rf>
@@ -730,7 +736,7 @@
 <form>totiž</form>
 <tag>
 <AM lemma="totiž" src="orig">Db-------------</AM>
-<AM lemma="totiž-1" src="auto" recommended="1">J^-------------</AM>
+<AM lemma="totiž-1" src="auto" recommended="1" selected="1">J^-------------</AM>
 <AM lemma="totiž-2" src="auto">TT-------------</AM>
 </tag>
 </m>
@@ -844,7 +850,10 @@
 <LM>w#w-mf920924-043-p2s5w19</LM>
 </w.rf>
 <form>Neumannem</form>
-<tag lemma="Neumann_;G" src="orig" selected="1">NNMS7-----A----</tag>
+<tag>
+<AM lemma="Neumann_;G" src="orig">NNMS7-----A----</AM>
+<AM lemma="Neumann_;S" src="manual" selected="1">NNMS7-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920924-043-p2s5w20">
 <src.rf>manual</src.rf>
@@ -1168,7 +1177,10 @@
 <LM>w#w-mf920924-043-p2s7w10</LM>
 </w.rf>
 <form>Chválou</form>
-<tag lemma="chvála" src="orig" selected="1">NNFS7-----A----</tag>
+<tag>
+<AM lemma="chvála" src="orig">NNFS7-----A----</AM>
+<AM lemma="Chvála_;S" src="manual" selected="1">NNMS7-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920924-043-p2s7w11">
 <src.rf>manual</src.rf>

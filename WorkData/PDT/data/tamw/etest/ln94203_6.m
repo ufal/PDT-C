@@ -192,7 +192,7 @@
 </w.rf>
 <form>Panenková</form>
 <tag>
-<AM lemma="Panenková_;S" src="orig">NNFS1-----A----</AM>
+<AM lemma="Panenková_;S" src="orig" selected="1">NNFS1-----A----</AM>
 <AM lemma="panenkový" src="auto" recommended="1">AAFS1----1A----</AM>
 <AM lemma="panenkový" src="auto">AAFS5----1A----</AM>
 <AM lemma="panenkový" src="auto">AANP1----1A----</AM>
@@ -628,7 +628,10 @@
 <LM>w#w-ln94203-6-p3s4w7</LM>
 </w.rf>
 <form>S</form>
-<tag lemma="S-0_:B_;Y" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="S-0_:B_;Y" src="orig">NNFXX-----A---8</AM>
+<AM lemma="S-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln94203-6-p3s4w8">
 <src.rf>manual</src.rf>
@@ -645,7 +648,7 @@
 </w.rf>
 <form>Panenkové</form>
 <tag>
-<AM lemma="Panenková_;S" src="orig">NNFS2-----A----</AM>
+<AM lemma="Panenková_;S" src="orig" selected="1">NNFS2-----A----</AM>
 <AM lemma="Panenka-1_;S" src="auto">NNMP1-----A----</AM>
 <AM lemma="Panenka-1_;S" src="auto">NNMP5-----A----</AM>
 <AM lemma="panenkový" src="auto">AAFP1----1A----</AM>
@@ -1070,7 +1073,10 @@
 <LM>w#w-ln94203-6-p4s3w27</LM>
 </w.rf>
 <form>S</form>
-<tag lemma="S-0_:B_;Y" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="S-0_:B_;Y" src="orig">NNFXX-----A---8</AM>
+<AM lemma="S-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln94203-6-p4s3w28">
 <src.rf>manual</src.rf>
@@ -1087,7 +1093,7 @@
 </w.rf>
 <form>Panenkové</form>
 <tag>
-<AM lemma="Panenková_;S" src="orig">NNFS2-----A----</AM>
+<AM lemma="Panenková_;S" src="orig" selected="1">NNFS2-----A----</AM>
 <AM lemma="Panenka-1_;S" src="auto">NNMP1-----A----</AM>
 <AM lemma="Panenka-1_;S" src="auto">NNMP5-----A----</AM>
 <AM lemma="panenkový" src="auto">AAFP1----1A----</AM>
@@ -1294,7 +1300,10 @@
 <LM>w#w-ln94203-6-p5s2w2</LM>
 </w.rf>
 <form>S</form>
-<tag lemma="S-0_:B_;Y" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="S-0_:B_;Y" src="orig">NNFXX-----A---8</AM>
+<AM lemma="S-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln94203-6-p5s2w3">
 <src.rf>manual</src.rf>
@@ -1311,7 +1320,7 @@
 </w.rf>
 <form>Panenková</form>
 <tag>
-<AM lemma="Panenková_;S" src="orig">NNFS1-----A----</AM>
+<AM lemma="Panenková_;S" src="orig" selected="1">NNFS1-----A----</AM>
 <AM lemma="panenkový" src="auto" recommended="1">AAFS1----1A----</AM>
 <AM lemma="panenkový" src="auto">AAFS5----1A----</AM>
 <AM lemma="panenkový" src="auto">AANP1----1A----</AM>
@@ -1847,7 +1856,7 @@
 <form>totiž</form>
 <tag>
 <AM lemma="totiž" src="orig">Db-------------</AM>
-<AM lemma="totiž-1" src="auto" recommended="1">J^-------------</AM>
+<AM lemma="totiž-1" src="auto" recommended="1" selected="1">J^-------------</AM>
 <AM lemma="totiž-2" src="auto">TT-------------</AM>
 </tag>
 </m>
@@ -2053,7 +2062,7 @@
 <form>začít</form>
 <tag>
 <AM lemma="začít-1" src="orig">Vf--------A----</AM>
-<AM lemma="začít-1_^(začnout)" src="auto" recommended="1">Vf--------A----</AM>
+<AM lemma="začít-1_^(začnout)" src="auto" recommended="1" selected="1">Vf--------A----</AM>
 <AM lemma="začít-2_^(pocítit)" src="auto">Vf--------A----</AM>
 </tag>
 </m>

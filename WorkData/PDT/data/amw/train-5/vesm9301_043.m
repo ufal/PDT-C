@@ -515,7 +515,10 @@
 <LM>w#w-vesm9301-043-p3s3w15</LM>
 </w.rf>
 <form>li</form>
-<tag lemma="li-1" src="auto" selected="1">TT-------------</tag>
+<tag>
+<AM lemma="li-1" src="auto">TT-------------</AM>
+<AM lemma="li-2" src="manual" selected="1">J,-------------</AM>
+</tag>
 </m>
 <m id="m-vesm9301-043-p3s3w16">
 <src.rf>manual</src.rf>
@@ -680,7 +683,7 @@
 <tag>
 <AM lemma="totiž" src="orig">Db-------------</AM>
 <AM lemma="totiž-1" src="auto" recommended="1">J^-------------</AM>
-<AM lemma="totiž-2" src="auto">TT-------------</AM>
+<AM lemma="totiž-2" src="auto" selected="1">TT-------------</AM>
 </tag>
 </m>
 <m id="m-vesm9301-043-p3s4w4">
@@ -3130,7 +3133,7 @@
 <AM lemma="matka-2_^(maminka)" src="auto">NNFP1-----A----</AM>
 <AM lemma="matka-2_^(maminka)" src="auto">NNFP4-----A----</AM>
 <AM lemma="matka-2_^(maminka)" src="auto">NNFP5-----A----</AM>
-<AM lemma="matka-2_^(maminka)" src="auto">NNFS2-----A----</AM>
+<AM lemma="matka-2_^(maminka)" src="auto" selected="1">NNFS2-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9301-043-p8s1w18">
@@ -3865,7 +3868,10 @@
 <LM>w#w-vesm9301-043-p8s8w1</LM>
 </w.rf>
 <form>Uprostřed</form>
-<tag lemma="uprostřed-1" src="auto" selected="1">Db-------------</tag>
+<tag>
+<AM lemma="uprostřed-1" src="auto">Db-------------</AM>
+<AM lemma="uprostřed-2" src="manual" selected="1">RR--2----------</AM>
+</tag>
 </m>
 <m id="m-vesm9301-043-p8s8w2">
 <src.rf>manual</src.rf>
@@ -3875,7 +3881,7 @@
 <form>prsou</form>
 <tag>
 <AM lemma="prsa" src="orig">NNNP2-----A----</AM>
-<AM lemma="prsa" src="auto" recommended="1">NNNP2-----A---1</AM>
+<AM lemma="prsa" src="auto" recommended="1" selected="1">NNNP2-----A---1</AM>
 <AM lemma="prsa" src="auto">NNNP6-----A---1</AM>
 </tag>
 </m>

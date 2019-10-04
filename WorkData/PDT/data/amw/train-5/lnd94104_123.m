@@ -92,7 +92,10 @@
 <LM>w#w-lnd94104-123-p1s1w10</LM>
 </w.rf>
 <form>st</form>
-<tag lemma="stupeň_:B" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="stupeň_:B" src="orig">NNIXX-----A---8</AM>
+<AM lemma="stupeň" src="manual" selected="1">NNIXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd94104-123-p1s1w11">
 <src.rf>manual</src.rf>
@@ -108,7 +111,10 @@
 <LM>w#w-lnd94104-123-p1s1w12</LM>
 </w.rf>
 <form>C</form>
-<tag lemma="C-3`100" src="orig" selected="1">C}-------------</tag>
+<tag>
+<AM lemma="C-3`100" src="orig">C}-------------</AM>
+<AM lemma="Celsius" src="manual" selected="1">NNMXX-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd94104-123-p1s1w13">
 <src.rf>manual</src.rf>
@@ -173,7 +179,10 @@
 <LM>w#w-lnd94104-123-p1s1w20</LM>
 </w.rf>
 <form>st</form>
-<tag lemma="stupeň_:B" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="stupeň_:B" src="orig">NNIXX-----A---8</AM>
+<AM lemma="stupeň" src="manual" selected="1">NNIXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd94104-123-p1s1w21">
 <src.rf>manual</src.rf>
@@ -189,7 +198,10 @@
 <LM>w#w-lnd94104-123-p1s1w22</LM>
 </w.rf>
 <form>C</form>
-<tag lemma="C-3`100" src="orig" selected="1">C}-------------</tag>
+<tag>
+<AM lemma="C-3`100" src="orig">C}-------------</AM>
+<AM lemma="Celsius" src="manual" selected="1">NNMXX-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd94104-123-p1s1w23">
 <src.rf>manual</src.rf>
@@ -272,7 +284,10 @@
 <LM>w#w-lnd94104-123-p1s2w6</LM>
 </w.rf>
 <form>st</form>
-<tag lemma="stupeň_:B" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="stupeň_:B" src="orig">NNIXX-----A---8</AM>
+<AM lemma="stupeň" src="manual" selected="1">NNIXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd94104-123-p1s2w7">
 <src.rf>manual</src.rf>
@@ -288,7 +303,10 @@
 <LM>w#w-lnd94104-123-p1s2w8</LM>
 </w.rf>
 <form>C</form>
-<tag lemma="c-3_^(označení_pomocí_písmene)" src="orig" selected="1">NNNXX-----A----</tag>
+<tag>
+<AM lemma="c-3_^(označení_pomocí_písmene)" src="orig">NNNXX-----A----</AM>
+<AM lemma="Celsius" src="manual" selected="1">NNMXX-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd94104-123-p1s2w9">
 <src.rf>manual</src.rf>

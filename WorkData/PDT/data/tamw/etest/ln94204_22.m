@@ -27,7 +27,10 @@
 <LM>w#w-ln94204-22-p1s1w2</LM>
 </w.rf>
 <form>PVC</form>
-<tag lemma="PVC_:B" src="auto" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="PVC_:B" src="auto">NNXXX-----A---8</AM>
+<AM lemma="PVC_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94204-22-p1s1w3">
 <src.rf>manual</src.rf>
@@ -93,7 +96,10 @@
 <LM>w#w-ln94204-22-p2s1w4</LM>
 </w.rf>
 <form>zvláště</form>
-<tag lemma="zvláště-1" src="auto" selected="1">Db-------------</tag>
+<tag>
+<AM lemma="zvláště-1" src="auto">Db-------------</AM>
+<AM lemma="zvláště-2" src="manual" selected="1">TT-------------</AM>
+</tag>
 </m>
 <m id="m-ln94204-22-p2s1w5">
 <src.rf>manual</src.rf>
@@ -176,6 +182,7 @@
 <tag>
 <AM lemma="USA_;G" src="orig">NNIPX-----A----</AM>
 <AM lemma="USA_:B_;K_,t_^(United_States_of_America)" src="auto" recommended="1">NNIPX-----A---8</AM>
+<AM lemma="USA_:B_;K_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94204-22-p2s1w15">
@@ -249,7 +256,10 @@
 <LM>w#w-ln94204-22-p2s1w23</LM>
 </w.rf>
 <form>PVC</form>
-<tag lemma="PVC_:B" src="auto" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="PVC_:B" src="auto">NNXXX-----A---8</AM>
+<AM lemma="PVC_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94204-22-p2s1w24">
 <src.rf>manual</src.rf>
@@ -533,7 +543,10 @@
 <LM>w#w-ln94204-22-p3s1w7</LM>
 </w.rf>
 <form>Financial</form>
-<tag lemma="Financial_;R_,t" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="Financial_;R_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="Financial-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94204-22-p3s1w8">
 <src.rf>manual</src.rf>
@@ -541,7 +554,10 @@
 <LM>w#w-ln94204-22-p3s1w8</LM>
 </w.rf>
 <form>Times</form>
-<tag lemma="Times-1_;K_,t_^(souč._názvů,_např._The_Times)" src="orig" selected="1">NNIPX-----A----</tag>
+<tag>
+<AM lemma="Times-1_;K_,t_^(souč._názvů,_např._The_Times)" src="orig">NNIPX-----A----</AM>
+<AM lemma="Times-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94204-22-p3s1w9">
 <src.rf>manual</src.rf>
@@ -661,7 +677,10 @@
 <LM>w#w-ln94204-22-p3s1w23</LM>
 </w.rf>
 <form>PVC</form>
-<tag lemma="PVC_:B" src="auto" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="PVC_:B" src="auto">NNXXX-----A---8</AM>
+<AM lemma="PVC_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94204-22-p3s1w24">
 <src.rf>manual</src.rf>
@@ -784,7 +803,7 @@
 <AM lemma="dřívější" src="auto">AANP4----2A----</AM>
 <AM lemma="dřívější" src="auto">AANP5----2A----</AM>
 <AM lemma="dřívější" src="auto">AANS1----2A----</AM>
-<AM lemma="dřívější" src="auto" recommended="1">AANS4----2A----</AM>
+<AM lemma="dřívější" src="auto" recommended="1" selected="1">AANS4----2A----</AM>
 <AM lemma="dřívější" src="auto">AANS5----2A----</AM>
 </tag>
 </m>
@@ -903,6 +922,7 @@
 <tag>
 <AM lemma="USA_;G" src="orig">NNIPX-----A----</AM>
 <AM lemma="USA_:B_;K_,t_^(United_States_of_America)" src="auto" recommended="1">NNIPX-----A---8</AM>
+<AM lemma="USA_:B_;K_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94204-22-p4s1w8">
@@ -1211,7 +1231,10 @@
 <LM>w#w-ln94204-22-p4s3w14</LM>
 </w.rf>
 <form>dolarů</form>
-<tag lemma="dolar_;b" src="orig" selected="1">NNIP2-----A----</tag>
+<tag>
+<AM lemma="dolar_;b" src="orig">NNIP2-----A----</AM>
+<AM lemma="dolar" src="manual" selected="1">NNIP2-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94204-22-p4s3w15">
 <src.rf>manual</src.rf>
@@ -1487,7 +1510,10 @@
 <LM>w#w-ln94204-22-p5s1w20</LM>
 </w.rf>
 <form>PVC</form>
-<tag lemma="PVC_:B" src="auto" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="PVC_:B" src="auto">NNXXX-----A---8</AM>
+<AM lemma="PVC_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94204-22-p5s1w21">
 <src.rf>manual</src.rf>
@@ -1514,6 +1540,7 @@
 <tag>
 <AM lemma="USA_;G" src="orig">NNIPX-----A----</AM>
 <AM lemma="USA_:B_;K_,t_^(United_States_of_America)" src="auto" recommended="1">NNIPX-----A---8</AM>
+<AM lemma="USA_:B_;K_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94204-22-p5s1w24">
@@ -1604,7 +1631,10 @@
 <LM>w#w-ln94204-22-p5s2w7</LM>
 </w.rf>
 <form>BP</form>
-<tag lemma="BP-1_:B_;K_,t_^(British_Petroleum_Company)" src="auto" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="BP-1_:B_;K_,t_^(British_Petroleum_Company)" src="auto">NNFXX-----A---8</AM>
+<AM lemma="BP-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94204-22-p5s2w8">
 <src.rf>manual</src.rf>
@@ -1686,7 +1716,10 @@
 <LM>w#w-ln94204-22-p5s3w3</LM>
 </w.rf>
 <form>PVC</form>
-<tag lemma="PVC_:B" src="auto" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="PVC_:B" src="auto">NNXXX-----A---8</AM>
+<AM lemma="PVC_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94204-22-p5s3w4">
 <src.rf>manual</src.rf>

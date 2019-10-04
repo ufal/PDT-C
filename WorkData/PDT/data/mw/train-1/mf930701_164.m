@@ -85,7 +85,10 @@
 <LM>w#w-mf930701-164-p2s1w3</LM>
 </w.rf>
 <form>přijato</form>
-<tag lemma="přijmout" src="auto" selected="1">VsNS---XX-AP---</tag>
+<tag>
+<AM lemma="přijmout" src="auto">VsNS---XX-AP---</AM>
+<AM lemma="přijmout_:W" src="manual" selected="1">VsNS---XX-AP---</AM>
+</tag>
 </m>
 <m id="m-mf930701-164-p2s1w4">
 <src.rf>manual</src.rf>
@@ -175,7 +178,10 @@
 <LM>w#w-mf930701-164-p3s1w8</LM>
 </w.rf>
 <form>ČTK</form>
-<tag lemma="ČTK-1_:B_;K_^(Čs./Česká_tisková_kancelář)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ČTK-1_:B_;K_^(Čs./Česká_tisková_kancelář)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČTK-1_:B_;K_^(Čs./Česká_tisková_kancelář)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930701-164-p3s1w9">
 <src.rf>manual</src.rf>
@@ -247,7 +253,10 @@
 <LM>w#w-mf930701-164-p3s1w17</LM>
 </w.rf>
 <form>staly</form>
-<tag lemma="stát-2_^(něco_se_přihodilo)" src="orig" selected="1">VpTP---XR-AA---</tag>
+<tag>
+<AM lemma="stát-2_^(něco_se_přihodilo)" src="orig">VpTP---XR-AA---</AM>
+<AM lemma="stát-2_:W_^(něco_se_přihodilo)" src="manual" selected="1">VpTP---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-mf930701-164-p3s1w18">
 <src.rf>manual</src.rf>
@@ -295,7 +304,10 @@
 <LM>w#w-mf930701-164-p3s1w23</LM>
 </w.rf>
 <form>RE</form>
-<tag lemma="RE_:B_;K_^(Rada_Evropy)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="RE_:B_;K_^(Rada_Evropy)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="RE-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930701-164-p3s1w24">
 <src.rf>manual</src.rf>
@@ -393,7 +405,10 @@
 <LM>w#w-mf930701-164-p3s2w10</LM>
 </w.rf>
 <form>RE</form>
-<tag lemma="RE_:B_;K_^(Rada_Evropy)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="RE_:B_;K_^(Rada_Evropy)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="RE-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930701-164-p3s2w11">
 <src.rf>manual</src.rf>
@@ -465,7 +480,10 @@
 <LM>w#w-mf930701-164-p3s2w19</LM>
 </w.rf>
 <form>RE</form>
-<tag lemma="RE_:B_;K_^(Rada_Evropy)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="RE_:B_;K_^(Rada_Evropy)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="RE-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930701-164-p3s2w20">
 <src.rf>manual</src.rf>
@@ -507,7 +525,10 @@
 <LM>w#w-mf930701-164-p4s1w4</LM>
 </w.rf>
 <form>ČR</form>
-<tag lemma="ČR-1_:B_;G_^(Česká_republika)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930701-164-p4s1w5">
 <src.rf>manual</src.rf>
@@ -523,7 +544,10 @@
 <LM>w#w-mf930701-164-p4s1w6</LM>
 </w.rf>
 <form>zdržel</form>
-<tag lemma="zdržet" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag>
+<AM lemma="zdržet" src="orig">VpYS---XR-AA---</AM>
+<AM lemma="zdržet_:W" src="manual" selected="1">VpYS---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-mf930701-164-p4s1w7">
 <src.rf>manual</src.rf>
@@ -627,7 +651,10 @@
 <LM>w#w-mf930701-164-p4s1w19</LM>
 </w.rf>
 <form>má</form>
-<tag lemma="mít" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag>
+<AM lemma="mít" src="orig">VB-S---3P-AA---</AM>
+<AM lemma="mít_:T" src="manual" selected="1">VB-S---3P-AA---</AM>
+</tag>
 </m>
 <m id="m-mf930701-164-p4s1w20">
 <src.rf>manual</src.rf>
@@ -709,7 +736,10 @@
 <LM>w#w-mf930701-164-p4s2w5</LM>
 </w.rf>
 <form>zdržel</form>
-<tag lemma="zdržet" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag>
+<AM lemma="zdržet" src="orig">VpYS---XR-AA---</AM>
+<AM lemma="zdržet_:W" src="manual" selected="1">VpYS---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-mf930701-164-p4s2w6">
 <src.rf>manual</src.rf>
@@ -935,7 +965,10 @@
 <LM>w#w-mf930701-164-p4s3w7</LM>
 </w.rf>
 <form>J</form>
-<tag lemma="J-0_:B_;Y" src="orig" selected="1">NNMXX-----A---8</tag>
+<tag>
+<AM lemma="J-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
+<AM lemma="J-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930701-164-p4s3w8">
 <src.rf>manual</src.rf>
@@ -961,7 +994,7 @@
 <form>ovšem</form>
 <tag>
 <AM lemma="ovšem-1_^(avšak,_však;_odporovací_spojka)" src="orig">J^-------------</AM>
-<AM lemma="ovšem" src="auto" recommended="1">TT-------------</AM>
+<AM lemma="ovšem" src="auto" recommended="1" selected="1">TT-------------</AM>
 </tag>
 </m>
 <m id="m-mf930701-164-p4s3w11">
@@ -1028,7 +1061,10 @@
 <LM>w#w-mf930701-164-p5s1w2</LM>
 </w.rf>
 <form>ČR</form>
-<tag lemma="ČR-1_:B_;G_^(Česká_republika)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930701-164-p5s1w3">
 <src.rf>manual</src.rf>
@@ -1116,7 +1152,10 @@
 <LM>w#w-mf930701-164-p5s1w13</LM>
 </w.rf>
 <form>ČSFR</form>
-<tag lemma="ČSFR-1_:B_;G_^(Čs._federativní_republika)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ČSFR-1_:B_;G_^(Čs._federativní_republika)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČSFR-1_:B_;G_^(Čs._federativní_republika)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930701-164-p5s1w14">
 <src.rf>manual</src.rf>
@@ -1156,7 +1195,10 @@
 <LM>w#w-mf930701-164-p5s1w18</LM>
 </w.rf>
 <form>RE</form>
-<tag lemma="RE_:B_;K_^(Rada_Evropy)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="RE_:B_;K_^(Rada_Evropy)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="RE-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930701-164-p5s1w19">
 <src.rf>manual</src.rf>
@@ -1286,7 +1328,10 @@
 <LM>w#w-mf930701-164-p6s1w4</LM>
 </w.rf>
 <form>ČR</form>
-<tag lemma="ČR-1_:B_;G_^(Česká_republika)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930701-164-p6s1w5">
 <src.rf>manual</src.rf>
@@ -1374,7 +1419,10 @@
 <LM>w#w-mf930701-164-p6s1w15</LM>
 </w.rf>
 <form>ČR</form>
-<tag lemma="ČR-1_:B_;G_^(Česká_republika)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930701-164-p6s1w16">
 <src.rf>manual</src.rf>
@@ -1544,7 +1592,10 @@
 <LM>w#w-mf930701-164-p6s2w4</LM>
 </w.rf>
 <form>RE</form>
-<tag lemma="RE_:B_;K_^(Rada_Evropy)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="RE_:B_;K_^(Rada_Evropy)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="RE-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930701-164-p6s2w5">
 <src.rf>manual</src.rf>
@@ -1786,7 +1837,10 @@
 <LM>w#w-mf930701-164-p7s1w6</LM>
 </w.rf>
 <form>RE</form>
-<tag lemma="RE_:B_;K_^(Rada_Evropy)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="RE_:B_;K_^(Rada_Evropy)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="RE-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930701-164-p7s1w7">
 <src.rf>manual</src.rf>
@@ -1866,7 +1920,10 @@
 <LM>w#w-mf930701-164-p7s1w16</LM>
 </w.rf>
 <form>ČSFR</form>
-<tag lemma="ČSFR-1_:B_;G_^(Čs._federativní_republika)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ČSFR-1_:B_;G_^(Čs._federativní_republika)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČSFR-1_:B_;G_^(Čs._federativní_republika)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930701-164-p7s1w17">
 <src.rf>manual</src.rf>
@@ -1908,7 +1965,10 @@
 <LM>w#w-mf930701-164-p7s2w4</LM>
 </w.rf>
 <form>RE</form>
-<tag lemma="RE_:B_;K_^(Rada_Evropy)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="RE_:B_;K_^(Rada_Evropy)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="RE-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930701-164-p7s2w5">
 <src.rf>manual</src.rf>

@@ -275,7 +275,7 @@
 <AM lemma="Garde_;R" src="orig">NNNXX-----A----</AM>
 <AM lemma="gard" src="auto">NNIS5-----A----</AM>
 <AM lemma="gard" src="auto">NNIS6-----A----</AM>
-<AM lemma="garde" src="auto" recommended="1">NNNXX-----A----</AM>
+<AM lemma="garde" src="auto" recommended="1" selected="1">NNNXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95043-058-p2s1Bw24">
@@ -310,7 +310,7 @@
 <form>snad</form>
 <tag>
 <AM lemma="snad" src="orig">Db-------------</AM>
-<AM lemma="snad" src="auto" recommended="1">TT-------------</AM>
+<AM lemma="snad" src="auto" recommended="1" selected="1">TT-------------</AM>
 </tag>
 </m>
 <m id="m-ln95043-058-p2s1Bw28">
@@ -834,6 +834,7 @@
 <tag>
 <AM lemma="Vitiška_;m" src="orig">NNFS1-----A----</AM>
 <AM lemma="Vitiška_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Vitiška-2_;m" src="manual" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95043-058-p2s5w27">

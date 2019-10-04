@@ -19,7 +19,10 @@
 <LM>w#w-ln94211-58-p1s1w1</LM>
 </w.rf>
 <form>SD</form>
-<tag lemma="SD_:B_;K" src="auto" selected="1">NNMPX-----A---8</tag>
+<tag>
+<AM lemma="SD_:B_;K" src="auto">NNMPX-----A---8</AM>
+<AM lemma="SD-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94211-58-p1s1w2">
 <src.rf>manual</src.rf>
@@ -249,7 +252,10 @@
 <LM>w#w-ln94211-58-p2s1Cw15</LM>
 </w.rf>
 <form>FBIS</form>
-<tag lemma="FBIS_:B_^(Feder._bezp._informační_služba)" src="auto" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="FBIS_:B_^(Feder._bezp._informační_služba)" src="auto">NNFXX-----A---8</AM>
+<AM lemma="FBIS-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94211-58-p2s1Cw16">
 <src.rf>manual</src.rf>
@@ -313,7 +319,10 @@
 <LM>w#w-ln94211-58-p2s1Cw23</LM>
 </w.rf>
 <form>SD</form>
-<tag lemma="SD_:B_;K" src="auto" selected="1">NNMPX-----A---8</tag>
+<tag>
+<AM lemma="SD_:B_;K" src="auto">NNMPX-----A---8</AM>
+<AM lemma="SD-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94211-58-p2s1Cw24">
 <src.rf>manual</src.rf>
@@ -395,7 +404,10 @@
 <LM>w#w-ln94211-58-p2s2w5</LM>
 </w.rf>
 <form>SD</form>
-<tag lemma="SD_:B_;K" src="auto" selected="1">NNMPX-----A---8</tag>
+<tag>
+<AM lemma="SD_:B_;K" src="auto">NNMPX-----A---8</AM>
+<AM lemma="SD-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94211-58-p2s2w6">
 <src.rf>manual</src.rf>
@@ -452,7 +464,7 @@
 <AM lemma="pole" src="auto">NNNP1-----A----</AM>
 <AM lemma="pole" src="auto">NNNP4-----A----</AM>
 <AM lemma="pole" src="auto">NNNP5-----A----</AM>
-<AM lemma="pole" src="auto" recommended="1">NNNS1-----A----</AM>
+<AM lemma="pole" src="auto" recommended="1" selected="1">NNNS1-----A----</AM>
 <AM lemma="pole" src="auto">NNNS2-----A----</AM>
 <AM lemma="pole" src="auto">NNNS4-----A----</AM>
 <AM lemma="pole" src="auto">NNNS5-----A----</AM>
@@ -546,7 +558,10 @@
 <LM>w#w-ln94211-58-p2s2w22</LM>
 </w.rf>
 <form>ČNR</form>
-<tag lemma="ČNR-1_:B_;K_^(Česká_národní_rada)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ČNR-1_:B_;K_^(Česká_národní_rada)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČNR-1_:B_;K_^(Česká_národní_rada)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94211-58-p2s2w23">
 <src.rf>manual</src.rf>
@@ -628,7 +643,10 @@
 <LM>w#w-ln94211-58-p2s3w4</LM>
 </w.rf>
 <form>J</form>
-<tag lemma="J-0_:B_;Y" src="orig" selected="1">NNMXX-----A---8</tag>
+<tag>
+<AM lemma="J-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
+<AM lemma="J-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94211-58-p2s3w5">
 <src.rf>manual</src.rf>
@@ -766,7 +784,10 @@
 <LM>w#w-ln94211-58-p2s4w1</LM>
 </w.rf>
 <form>SD</form>
-<tag lemma="SD_:B_;K" src="auto" selected="1">NNMPX-----A---8</tag>
+<tag>
+<AM lemma="SD_:B_;K" src="auto">NNMPX-----A---8</AM>
+<AM lemma="SD-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94211-58-p2s4w2">
 <src.rf>manual</src.rf>

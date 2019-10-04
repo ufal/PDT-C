@@ -135,7 +135,10 @@
 <LM>w#w-lnd92259-068-p3s1w3</LM>
 </w.rf>
 <form>NEW</form>
-<tag lemma="New-1_;G_,t_^(součást_míst._jmen)" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="New-1_;G_,t_^(součást_míst._jmen)" src="orig">AAXXX----1A----</AM>
+<AM lemma="NEW-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-lnd92259-068-p3s1w4">
 <src.rf>manual</src.rf>
@@ -143,7 +146,10 @@
 <LM>w#w-lnd92259-068-p3s1w4</LM>
 </w.rf>
 <form>YORK</form>
-<tag lemma="York-2_;G" src="orig" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="York-2_;G" src="orig">NNIS1-----A----</AM>
+<AM lemma="YORK-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-lnd92259-068-p3s1w5">
 <src.rf>manual</src.rf>
@@ -159,7 +165,10 @@
 <LM>w#w-lnd92259-068-p3s1w6</LM>
 </w.rf>
 <form>SAN</form>
-<tag lemma="San-2_;G" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="San-2_;G" src="orig">AAXXX----1A----</AM>
+<AM lemma="SAN-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-lnd92259-068-p3s1w7">
 <src.rf>manual</src.rf>
@@ -167,7 +176,10 @@
 <LM>w#w-lnd92259-068-p3s1w7</LM>
 </w.rf>
 <form>FRANCISCO</form>
-<tag lemma="Francisko_;G_,x" src="orig" selected="1">NNNS1-----A----</tag>
+<tag>
+<AM lemma="Francisko_;G_,x" src="orig">NNNS1-----A----</AM>
+<AM lemma="FRANCISCO-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-lnd92259-068-p3s1w8">
 <src.rf>manual</src.rf>
@@ -199,7 +211,10 @@
 <LM>w#w-lnd92259-068-p3s1w11</LM>
 </w.rf>
 <form>ČSTK</form>
-<tag lemma="ČSTK-1_:B_;K_^(Československá_tisková_kancelář)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ČSTK-1_:B_;K_^(Československá_tisková_kancelář)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČSTK-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd92259-068-p3s1w12">
 <src.rf>manual</src.rf>
@@ -436,6 +451,7 @@
 <tag>
 <AM lemma="USA_;G" src="orig">NNIPX-----A----</AM>
 <AM lemma="USA_:B_;K_,t_^(United_States_of_America)" src="auto" recommended="1">NNIPX-----A---8</AM>
+<AM lemma="USA_:B_;K_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-lnd92259-068-p3s2w28">
@@ -1504,7 +1520,7 @@
 <form>vůbec</form>
 <tag>
 <AM lemma="vůbec" src="orig">Db-------------</AM>
-<AM lemma="vůbec" src="auto" recommended="1">TT-------------</AM>
+<AM lemma="vůbec" src="auto" recommended="1" selected="1">TT-------------</AM>
 </tag>
 </m>
 <m id="m-lnd92259-068-p5s2w14">
@@ -2818,7 +2834,10 @@
 <LM>w#w-lnd92259-068-p8s1w17</LM>
 </w.rf>
 <form>Dixville</form>
-<tag lemma="Dixville_;G" src="orig" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="Dixville_;G" src="orig">NNIS1-----A----</AM>
+<AM lemma="Dixville-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-lnd92259-068-p8s1w18">
 <src.rf>manual</src.rf>
@@ -2826,7 +2845,10 @@
 <LM>w#w-lnd92259-068-p8s1w18</LM>
 </w.rf>
 <form>Notch</form>
-<tag lemma="Notch_;G" src="orig" selected="1">NNIXX-----A----</tag>
+<tag>
+<AM lemma="Notch_;G" src="orig">NNIXX-----A----</AM>
+<AM lemma="Notch-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-lnd92259-068-p8s1w19">
 <src.rf>manual</src.rf>
@@ -2850,7 +2872,10 @@
 <LM>w#w-lnd92259-068-p8s1w21</LM>
 </w.rf>
 <form>New</form>
-<tag lemma="New-1_;G_,t_^(součást_míst._jmen)" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="New-1_;G_,t_^(součást_míst._jmen)" src="orig">AAXXX----1A----</AM>
+<AM lemma="New-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-lnd92259-068-p8s1w22">
 <src.rf>manual</src.rf>
@@ -2858,7 +2883,10 @@
 <LM>w#w-lnd92259-068-p8s1w22</LM>
 </w.rf>
 <form>Hampshire</form>
-<tag lemma="Hampshire_;G" src="auto" selected="1">NNNXX-----A----</tag>
+<tag>
+<AM lemma="Hampshire_;G" src="auto">NNNXX-----A----</AM>
+<AM lemma="Hampshire-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-lnd92259-068-p8s1w23">
 <src.rf>manual</src.rf>
@@ -3394,7 +3422,7 @@
 <form>zpěvačka</form>
 <tag>
 <AM lemma="zpěvák" src="orig">NNFS1-----A----</AM>
-<AM lemma="zpěvačka" src="auto" recommended="1">NNFS1-----A----</AM>
+<AM lemma="zpěvačka" src="auto" recommended="1" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92259-068-p9s1w18">
@@ -3428,7 +3456,7 @@
 </w.rf>
 <form>Connor</form>
 <tag>
-<AM lemma="Connor-2_;S" src="orig">NNFXX-----A----</AM>
+<AM lemma="Connor-2_;S" src="orig" selected="1">NNFXX-----A----</AM>
 <AM lemma="Connor_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
 </tag>
 </m>
@@ -3514,7 +3542,7 @@
 <form>totiž</form>
 <tag>
 <AM lemma="totiž" src="orig">Db-------------</AM>
-<AM lemma="totiž-1" src="auto" recommended="1">J^-------------</AM>
+<AM lemma="totiž-1" src="auto" recommended="1" selected="1">J^-------------</AM>
 <AM lemma="totiž-2" src="auto">TT-------------</AM>
 </tag>
 </m>
@@ -3628,7 +3656,10 @@
 <LM>w#w-lnd92259-068-p9s2w17</LM>
 </w.rf>
 <form>San</form>
-<tag lemma="San-2_;G" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="San-2_;G" src="orig">AAXXX----1A----</AM>
+<AM lemma="San-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-lnd92259-068-p9s2w18">
 <src.rf>manual</src.rf>
@@ -3814,7 +3845,10 @@
 <LM>w#w-lnd92259-068-p9s3w13</LM>
 </w.rf>
 <form>G</form>
-<tag lemma="G-0_:B_;Y" src="orig" selected="1">NNMXX-----A---8</tag>
+<tag>
+<AM lemma="G-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
+<AM lemma="G-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd92259-068-p9s3w14">
 <src.rf>manual</src.rf>
@@ -3928,7 +3962,10 @@
 <LM>w#w-lnd92259-068-p9s4w6</LM>
 </w.rf>
 <form>P</form>
-<tag lemma="P-0_:B_;Y" src="orig" selected="1">NNMXX-----A---8</tag>
+<tag>
+<AM lemma="P-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
+<AM lemma="P-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd92259-068-p9s4w7">
 <src.rf>manual</src.rf>

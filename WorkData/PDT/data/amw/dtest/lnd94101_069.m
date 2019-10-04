@@ -173,7 +173,10 @@
 <LM>w#w-lnd94101-069-p1s1Bw16</LM>
 </w.rf>
 <form>Lampoon</form>
-<tag lemma="Lampoon_;K_,t" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="Lampoon_;K_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="Lampoon-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-lnd94101-069-p1s1Bw17">
 <src.rf>manual</src.rf>
@@ -181,7 +184,10 @@
 <LM>w#w-lnd94101-069-p1s1Bw17</LM>
 </w.rf>
 <form>Puppettheatre</form>
-<tag lemma="Puppettheatre_;K_,t" src="orig" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="Puppettheatre_;K_,t" src="orig">NNIS1-----A----</AM>
+<AM lemma="Puppettheatre-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-lnd94101-069-p1s1Bw18">
 <src.rf>manual</src.rf>
@@ -340,6 +346,7 @@
 <AM lemma="SOS_:B" src="auto" recommended="1">TT------------8</AM>
 <AM lemma="sos-1" src="auto">NNIS1-----A----</AM>
 <AM lemma="sos-1" src="auto">NNIS4-----A----</AM>
+<AM lemma="SOS-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-lnd94101-069-p1s2w16">
@@ -528,7 +535,7 @@
 <form>Kč</form>
 <tag>
 <AM lemma="Kč" src="orig">NNFXX-----A----</AM>
-<AM lemma="Kč_:B" src="auto" recommended="1">NNFXX-----A---8</AM>
+<AM lemma="Kč_:B" src="auto" recommended="1" selected="1">NNFXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-lnd94101-069-p1s3w22">
@@ -555,7 +562,10 @@
 <LM>w#w-lnd94101-069-p1s4w1</LM>
 </w.rf>
 <form>Lampoon</form>
-<tag lemma="Lampoon_;K_,t" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="Lampoon_;K_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="Lampoon-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-lnd94101-069-p1s4w2">
 <src.rf>manual</src.rf>
@@ -563,7 +573,10 @@
 <LM>w#w-lnd94101-069-p1s4w2</LM>
 </w.rf>
 <form>Puppettheatre</form>
-<tag lemma="Puppettheatre_;K_,t" src="orig" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="Puppettheatre_;K_,t" src="orig">NNIS1-----A----</AM>
+<AM lemma="Puppettheatre-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-lnd94101-069-p1s4w3">
 <src.rf>manual</src.rf>
@@ -811,7 +824,10 @@
 <LM>w#w-lnd94101-069-p1s4w33</LM>
 </w.rf>
 <form>DAMU</form>
-<tag lemma="DAMU_:B_;K" src="auto" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="DAMU_:B_;K" src="auto">NNXXX-----A---8</AM>
+<AM lemma="DAMU-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd94101-069-p1s4w34">
 <src.rf>manual</src.rf>
@@ -903,7 +919,7 @@
 <form>nejen</form>
 <tag>
 <AM lemma="nejen" src="orig">TT-------------</AM>
-<AM lemma="nejen" src="auto" recommended="1">Db-------------</AM>
+<AM lemma="nejen" src="auto" recommended="1" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m-lnd94101-069-p1s5w5">
@@ -1501,6 +1517,7 @@
 <AM lemma="Unimo_;R" src="auto">NNNP4-----A----</AM>
 <AM lemma="Unimo_;R" src="auto">NNNP5-----A----</AM>
 <AM lemma="Unimo_;R" src="auto" recommended="1">NNNS2-----A----</AM>
+<AM lemma="UNIMA-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-lnd94101-069-p1s8w22">

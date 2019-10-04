@@ -65,6 +65,7 @@
 <AM lemma="Renault_;K_;R" src="auto">NNIS6-----A---1</AM>
 <AM lemma="renault_^(auto)" src="auto">NNIS3-----A----</AM>
 <AM lemma="renault_^(auto)" src="auto">NNIS6-----A---1</AM>
+<AM lemma="Renault_;K_;R" src="manual" selected="1">NNIS2-----A---1</AM>
 </tag>
 </m>
 <m id="m-ln94208-7-p1s1w7">
@@ -123,7 +124,7 @@
 <form>rodinka</form>
 <tag>
 <AM lemma="rodina" src="orig">NNFS1-----A----</AM>
-<AM lemma="rodinka" src="auto" recommended="1">NNFS1-----A----</AM>
+<AM lemma="rodinka" src="auto" recommended="1" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94208-7-p1s1w14">
@@ -198,7 +199,10 @@
 <LM>w#w-ln94208-7-p1s2w6</LM>
 </w.rf>
 <form>vejde</form>
-<tag lemma="vejít" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag>
+<AM lemma="vejít" src="orig">VB-S---3P-AA---</AM>
+<AM lemma="vejít_:W" src="manual" selected="1">VB-S---3P-AA---</AM>
+</tag>
 </m>
 <m id="m-ln94208-7-p1s2w7">
 <src.rf>manual</src.rf>

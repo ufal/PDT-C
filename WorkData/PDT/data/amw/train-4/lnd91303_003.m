@@ -395,7 +395,7 @@
 <form>nejen</form>
 <tag>
 <AM lemma="nejen" src="orig">TT-------------</AM>
-<AM lemma="nejen" src="auto" recommended="1">Db-------------</AM>
+<AM lemma="nejen" src="auto" recommended="1" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m-lnd91303-003-p3s2w12">
@@ -1500,7 +1500,10 @@
 <LM>w#w-lnd91303-003-p4s4w17</LM>
 </w.rf>
 <form>T</form>
-<tag lemma="T-0_:B_;Y" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="T-0_:B_;Y" src="orig">NNFXX-----A---8</AM>
+<AM lemma="T-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd91303-003-p4s4w18">
 <src.rf>manual</src.rf>
@@ -2039,6 +2042,7 @@
 <AM lemma="Hugo-2_;G" src="auto" recommended="1">NNNS1-----A----</AM>
 <AM lemma="Hugo-2_;G" src="auto">NNNS4-----A----</AM>
 <AM lemma="Hugo-2_;G" src="auto">NNNS5-----A----</AM>
+<AM lemma="Hugo-1_;S_;Y" src="manual" selected="1">NNMXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd91303-003-p5s2w17">
@@ -4301,7 +4305,7 @@
 <tag>
 <AM lemma="nezkušený" src="orig">AAFS7----1A----</AM>
 <AM lemma="zkušený" src="auto">AAFS4----1N----</AM>
-<AM lemma="zkušený" src="auto" recommended="1">AAFS7----1N----</AM>
+<AM lemma="zkušený" src="auto" recommended="1" selected="1">AAFS7----1N----</AM>
 </tag>
 </m>
 <m id="m-lnd91303-003-p5s11w20">
@@ -5560,7 +5564,7 @@
 <form>nejen</form>
 <tag>
 <AM lemma="nejen" src="orig">TT-------------</AM>
-<AM lemma="nejen" src="auto" recommended="1">Db-------------</AM>
+<AM lemma="nejen" src="auto" recommended="1" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m-lnd91303-003-p6s4w16">
@@ -5963,7 +5967,10 @@
 <LM>w#w-lnd91303-003-p7s1w22</LM>
 </w.rf>
 <form>DNz</form>
-<tag lemma="DNz_:B_;K_^(Divadlo_Na_zábradlí)" src="orig" selected="1">NNNXX-----A---8</tag>
+<tag>
+<AM lemma="DNz_:B_;K_^(Divadlo_Na_zábradlí)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="DNz-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd91303-003-p7s1w23">
 <src.rf>manual</src.rf>
@@ -6815,7 +6822,10 @@
 <LM>w#w-lnd91303-003-p8s1w2</LM>
 </w.rf>
 <form>A</form>
-<tag lemma="a-1" src="orig" selected="1">J^-------------</tag>
+<tag>
+<AM lemma="a-1" src="orig">J^-------------</AM>
+<AM lemma="A-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd91303-003-p8s1w3">
 <src.rf>manual</src.rf>

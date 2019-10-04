@@ -98,6 +98,7 @@
 <AM lemma="mela" src="auto" recommended="1">NNFP2-----A----</AM>
 <AM lemma="mlít" src="auto">Vi-S---2--A----</AM>
 <AM lemma="mlít" src="auto">Vi-S---3--A---4</AM>
+<AM lemma="mel-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94103-115-p1s2w6">
@@ -316,7 +317,10 @@
 <LM>w#w-lnd94103-115-p1s3w25</LM>
 </w.rf>
 <form>Pavlu</form>
-<tag lemma="Pavel-1_;Y" src="orig" selected="1">NNMS3-----A---1</tag>
+<tag>
+<AM lemma="Pavel-1_;Y" src="orig">NNMS3-----A---1</AM>
+<AM lemma="Pavel_;S_;Y" src="manual" selected="1">NNMS3-----A---1</AM>
+</tag>
 </m>
 <m id="m-lnd94103-115-p1s3w26">
 <src.rf>manual</src.rf>
@@ -372,7 +376,11 @@
 <LM>w#w-lnd94103-115-p1s3w32</LM>
 </w.rf>
 <form>Kaiserslauternu</form>
-<tag lemma="Kaiserslautern" src="orig" selected="1">NNIS2-----A----</tag>
+<tag>
+<AM lemma="Kaiserslautern" src="orig">NNIS2-----A----</AM>
+<AM lemma="Kaiserslautern-2_;K" src="manual">NNIS2-----A----</AM>
+<AM lemma="Kaiserslautern_;G" src="manual" selected="1">NNIS2-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd94103-115-p1s3w33">
 <src.rf>manual</src.rf>
@@ -444,7 +452,10 @@
 <LM>w#w-lnd94103-115-p1s3w41</LM>
 </w.rf>
 <form>Kicker</form>
-<tag lemma="Kicker_;K" src="auto" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="Kicker_;K" src="auto">NNIS1-----A----</AM>
+<AM lemma="Kicker_;K_;R" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd94103-115-p1s3w42">
 <src.rf>manual</src.rf>

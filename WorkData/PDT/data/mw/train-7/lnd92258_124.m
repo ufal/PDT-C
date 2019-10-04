@@ -79,7 +79,10 @@
 <LM>w#w-lnd92258-124-p2s2w3</LM>
 </w.rf>
 <form>čs</form>
-<tag lemma="československý_:B" src="orig" selected="1">AAXXX----1A---8</tag>
+<tag>
+<AM lemma="československý_:B" src="orig">AAXXX----1A---8</AM>
+<AM lemma="československý" src="manual" selected="1">AAXXX----1A---8</AM>
+</tag>
 </m>
 <m id="m-lnd92258-124-p2s2w4">
 <src.rf>manual</src.rf>
@@ -143,7 +146,10 @@
 <LM>w#w-lnd92258-124-p2s2w11</LM>
 </w.rf>
 <form>MS</form>
-<tag lemma="MS-5_:B_;K_;p_^(ministerstvo_spravedlnosti)" src="orig" selected="1">NNNXX-----A---8</tag>
+<tag>
+<AM lemma="MS-5_:B_;K_;p_^(ministerstvo_spravedlnosti)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="MS-3_:B_^(mistrovství_světa)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92258-124-p2s2w12">
 <src.rf>manual</src.rf>
@@ -191,7 +197,10 @@
 <LM>w#w-lnd92258-124-p2s2w17</LM>
 </w.rf>
 <form>hraje</form>
-<tag lemma="hrát" src="auto" selected="1">VB-S---3P-AA---</tag>
+<tag>
+<AM lemma="hrát" src="auto">VB-S---3P-AA---</AM>
+<AM lemma="hrát_:T" src="manual" selected="1">VB-S---3P-AA---</AM>
+</tag>
 </m>
 <m id="m-lnd92258-124-p2s2w18">
 <src.rf>manual</src.rf>
@@ -375,7 +384,10 @@
 <LM>w#w-lnd92258-124-p2s2w40</LM>
 </w.rf>
 <form>Vrabec</form>
-<tag lemma="vrabec" src="orig" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="vrabec" src="orig">NNMS1-----A----</AM>
+<AM lemma="Vrabec_;S" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92258-124-p2s2w41">
 <src.rf>manual</src.rf>
@@ -730,7 +742,10 @@
 <LM>w#w-lnd92258-124-p2s3w15</LM>
 </w.rf>
 <form>hod</form>
-<tag lemma="hodina_:B" src="auto" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="hodina_:B" src="auto">NNFXX-----A---8</AM>
+<AM lemma="hodina" src="manual" selected="1">NNFXX-----A---9</AM>
+</tag>
 </m>
 <m id="m-lnd92258-124-p2s3w16">
 <src.rf>manual</src.rf>

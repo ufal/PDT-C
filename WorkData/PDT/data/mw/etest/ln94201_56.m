@@ -329,6 +329,7 @@
 <AM lemma="renezanční" src="auto">AANP3----1A----</AM>
 <AM lemma="renezanční" src="auto">AANS6----1A----</AM>
 <AM lemma="renezanční" src="auto">AANS7----1A----</AM>
+<AM lemma="renesanční_,s_^(^DD**renezanční)" src="manual" selected="1">AAIS6----1A----</AM>
 </tag>
 </m>
 <m id="m-ln94201-56-p2s1w28">
@@ -387,7 +388,10 @@
 <LM>w#w-ln94201-56-p2s2w2</LM>
 </w.rf>
 <form>LN</form>
-<tag lemma="LN-1_:B_;R_^(Lidové_noviny,_deník)" src="orig" selected="1">NNFPX-----A---8</tag>
+<tag>
+<AM lemma="LN-1_:B_;R_^(Lidové_noviny,_deník)" src="orig">NNFPX-----A---8</AM>
+<AM lemma="LN-1_:B_;K_;R_^(Lidové_noviny,_deník)" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln94201-56-p2s2w3">
 <src.rf>manual</src.rf>
@@ -672,6 +676,7 @@
 <tag>
 <AM lemma="Kč" src="orig">NNFXX-----A----</AM>
 <AM lemma="Kč_:B" src="auto" recommended="1">NNFXX-----A---8</AM>
+<AM lemma="Kč-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-ln94201-56-p2s3w6">
@@ -707,6 +712,7 @@
 <tag>
 <AM lemma="Kč" src="orig">NNFXX-----A----</AM>
 <AM lemma="Kč_:B" src="auto" recommended="1">NNFXX-----A---8</AM>
+<AM lemma="Kč-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-ln94201-56-p2s3w10">
@@ -758,6 +764,7 @@
 <tag>
 <AM lemma="Kč" src="orig">NNFXX-----A----</AM>
 <AM lemma="Kč_:B" src="auto" recommended="1">NNFXX-----A---8</AM>
+<AM lemma="Kč-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-ln94201-56-p2s3w16">
@@ -1418,7 +1425,7 @@
 <form>pašije</form>
 <tag>
 <AM lemma="pašije" src="orig">NNFP1-----A----</AM>
-<AM lemma="pašije-1_^(utrpení)" src="auto">NNFP1-----A----</AM>
+<AM lemma="pašije-1_^(utrpení)" src="auto" selected="1">NNFP1-----A----</AM>
 <AM lemma="pašije-1_^(utrpení)" src="auto">NNFP4-----A----</AM>
 <AM lemma="pašije-1_^(utrpení)" src="auto">NNFP5-----A----</AM>
 <AM lemma="pašije-1_^(utrpení)" src="auto">NNFS1-----A----</AM>
@@ -1665,7 +1672,7 @@
 <AM lemma="Donaueschingen_;G" src="orig">NNIS6-----A---1</AM>
 <AM lemma="Donaueschingen_;G" src="auto">NNIS2-----A----</AM>
 <AM lemma="Donaueschingen_;G" src="auto">NNIS3-----A----</AM>
-<AM lemma="Donaueschingen_;G" src="auto" recommended="1">NNIS6-----A----</AM>
+<AM lemma="Donaueschingen_;G" src="auto" recommended="1" selected="1">NNIS6-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94201-56-p4s2w13">
@@ -2314,7 +2321,12 @@
 <LM>w#w-ln94201-56-p5s4w5</LM>
 </w.rf>
 <form>-82</form>
-<tag lemma="-82" src="orig" selected="1">C=-------------</tag>
+<tag lemma="-82" src="orig">C=-------------</tag>
+<comment>
+<LM type="New Form">
+<text>82</text>
+</LM>
+</comment>
 </m>
 <m id="m-ln94201-56-p5s4w6">
 <src.rf>manual</src.rf>
@@ -2419,7 +2431,7 @@
 </w.rf>
 <form>Fürstenbergu</form>
 <tag>
-<AM lemma="Fürstenberg_;G" src="orig">NNIS2-----A----</AM>
+<AM lemma="Fürstenberg_;G" src="orig" selected="1">NNIS2-----A----</AM>
 <AM lemma="Fürstenberg_;S" src="auto" recommended="1">NNMS3-----A---1</AM>
 <AM lemma="Fürstenberg_;S" src="auto">NNMS5-----A----</AM>
 <AM lemma="Fürstenberg_;S" src="auto">NNMS6-----A---1</AM>
@@ -2454,7 +2466,7 @@
 <AM lemma="matka-1_^(malá_součástka)" src="auto">NNFS3-----A----</AM>
 <AM lemma="matka-1_^(malá_součástka)" src="auto" recommended="1">NNFS6-----A----</AM>
 <AM lemma="matka-2_^(maminka)" src="auto">NNFS3-----A----</AM>
-<AM lemma="matka-2_^(maminka)" src="auto">NNFS6-----A----</AM>
+<AM lemma="matka-2_^(maminka)" src="auto" selected="1">NNFS6-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94201-56-p5s5w3">
@@ -4115,6 +4127,7 @@
 <AM lemma="renezanční" src="auto">AAMS2----1A----</AM>
 <AM lemma="renezanční" src="auto">AAMS4----1A----</AM>
 <AM lemma="renezanční" src="auto">AANS2----1A----</AM>
+<AM lemma="renesanční_,s_^(^DD**renezanční)" src="manual" selected="1">AAIS2----1A----</AM>
 </tag>
 </m>
 <m id="m-ln94201-56-p6s1w12">
@@ -4780,7 +4793,7 @@
 <tag>
 <AM lemma="tady" src="orig">Db------------1</AM>
 <AM lemma="ten" src="auto">PDFS4----------</AM>
-<AM lemma="tu" src="auto" recommended="1">Db-------------</AM>
+<AM lemma="tu" src="auto" recommended="1" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m-ln94201-56-p6s8w5">
@@ -5601,6 +5614,7 @@
 <AM lemma="Gambrinus_;K_;R" src="auto" recommended="1">NNIS4-----A----</AM>
 <AM lemma="gambrinus_;R_,h_^(pivo_značky_Gambrinus)" src="auto">NNIS1-----A----</AM>
 <AM lemma="gambrinus_;R_,h_^(pivo_značky_Gambrinus)" src="auto">NNIS4-----A----</AM>
+<AM lemma="Gambrinus-2_;S" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94201-56-p6s15w15">
@@ -5971,6 +5985,7 @@
 <AM lemma="Österreich_;K" src="orig">AAXXX----1A----</AM>
 <AM lemma="Österreich_;K" src="auto">NNIS1-----A----</AM>
 <AM lemma="Österreich_;K" src="auto" recommended="1">NNIS4-----A----</AM>
+<AM lemma="Österreich-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-ln94201-56-p7s2w6">
@@ -5983,6 +5998,7 @@
 <AM lemma="Werbung_;K" src="orig">NNFS1-----A----</AM>
 <AM lemma="Werbung_;K" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Werbung_;K" src="auto">NNIS4-----A----</AM>
+<AM lemma="Werbung-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-ln94201-56-p7s2w7">

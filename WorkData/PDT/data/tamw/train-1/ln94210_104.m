@@ -1063,7 +1063,10 @@
 <LM>w#w-ln94210-104-p2s9w3</LM>
 </w.rf>
 <form>ani</form>
-<tag lemma="ani-1" src="auto" selected="1">J^-------------</tag>
+<tag>
+<AM lemma="ani-1" src="auto">J^-------------</AM>
+<AM lemma="ani-2" src="manual" selected="1">TT-------------</AM>
+</tag>
 </m>
 <m id="m-ln94210-104-p2s9w4">
 <src.rf>manual</src.rf>
@@ -1363,7 +1366,10 @@
 <LM>w#w-ln94210-104-p2s11w15</LM>
 </w.rf>
 <form>JAR</form>
-<tag lemma="JAR-1_:B_;G_^(Jihoafrická_republika)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="JAR-1_:B_;G_^(Jihoafrická_republika)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="JAR-1_:B_;G_^(Jihoafrická_republika)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94210-104-p2s11w16">
 <src.rf>manual</src.rf>
@@ -1583,7 +1589,10 @@
 <LM>w#w-ln94210-104-p2s13w14</LM>
 </w.rf>
 <form>jen</form>
-<tag lemma="jen-1" src="auto" selected="1">TT-------------</tag>
+<tag>
+<AM lemma="jen-1" src="auto">TT-------------</AM>
+<AM lemma="jen-4_^(pouze)" src="manual" selected="1">Db-------------</AM>
+</tag>
 </m>
 <m id="m-ln94210-104-p2s13w15">
 <src.rf>manual</src.rf>

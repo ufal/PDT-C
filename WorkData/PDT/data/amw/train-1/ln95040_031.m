@@ -241,7 +241,10 @@
 <LM>w#w-ln95040-031-p2s2w9</LM>
 </w.rf>
 <form>ujal</form>
-<tag lemma="ujmout_,x" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag>
+<AM lemma="ujmout_,x" src="orig">VpYS---XR-AA---</AM>
+<AM lemma="ujmout" src="manual" selected="1">VpYS---XR-AA--1</AM>
+</tag>
 </m>
 <m id="m-ln95040-031-p2s2w10">
 <src.rf>manual</src.rf>
@@ -400,7 +403,7 @@
 <AM lemma="tribuna" src="auto">NNFP1-----A----</AM>
 <AM lemma="tribuna" src="auto">NNFP4-----A----</AM>
 <AM lemma="tribuna" src="auto">NNFP5-----A----</AM>
-<AM lemma="tribuna" src="auto" recommended="1">NNFS2-----A----</AM>
+<AM lemma="tribuna" src="auto" recommended="1" selected="1">NNFS2-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95040-031-p2s2w29">
@@ -565,7 +568,10 @@
 <LM>w#w-ln95040-031-p2s4w7</LM>
 </w.rf>
 <form>rozhodčí</form>
-<tag lemma="rozhodčí-1" src="auto" selected="1">NNFP1-----A----</tag>
+<tag>
+<AM lemma="rozhodčí-1" src="auto">NNFP1-----A----</AM>
+<AM lemma="rozhodčí-2" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95040-031-p2s4w8">
 <src.rf>manual</src.rf>
@@ -573,7 +579,10 @@
 <LM>w#w-ln95040-031-p2s4w8</LM>
 </w.rf>
 <form>Jol</form>
-<tag lemma="jola" src="orig" selected="1">NNFP2-----A----</tag>
+<tag>
+<AM lemma="jola" src="orig">NNFP2-----A----</AM>
+<AM lemma="Jol_;S" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95040-031-p2s4w9">
 <src.rf>manual</src.rf>
@@ -647,7 +656,11 @@
 <LM>w#w-ln95040-031-p2s5w5</LM>
 </w.rf>
 <form>hodně</form>
-<tag lemma="hodně-2_^(nezlobivý)_(*3ý-2)" src="auto" selected="1">Dg-------1A----</tag>
+<tag>
+<AM lemma="hodně-2_^(nezlobivý)_(*3ý-2)" src="auto">Dg-------1A----</AM>
+<AM lemma="hodně-1_^(hodně_+_2._p.,_hodně_peněz)" src="manual">Ca--1----------</AM>
+<AM lemma="hodně-1" src="manual" selected="1">Ca--X----------</AM>
+</tag>
 </m>
 <m id="m-ln95040-031-p2s5w6">
 <src.rf>manual</src.rf>

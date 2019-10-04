@@ -116,7 +116,10 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>Herkules</form>
-<tag lemma="Herkules-1_;S" src="auto" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Herkules-1_;S" src="auto">NNMS1-----A----</AM>
+<AM lemma="Herkules-1_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd91301-027-p1s1w14">
 <src.rf>manual</src.rf>
@@ -668,7 +671,7 @@
 <AM lemma="sedmý" src="auto">CrNP4---------6</AM>
 <AM lemma="sedmý" src="auto">CrNP5---------6</AM>
 <AM lemma="sedmý" src="auto" recommended="1">CrNS1----------</AM>
-<AM lemma="sedmý" src="auto">CrNS4----------</AM>
+<AM lemma="sedmý" src="auto" selected="1">CrNS4----------</AM>
 <AM lemma="sedmý" src="auto">CrNS5----------</AM>
 </tag>
 </m>
@@ -726,7 +729,10 @@
 <LM>w#w-lnd91301-027-p2s1Aw8</LM>
 </w.rf>
 <form>vydal</form>
-<tag lemma="vydat-1_:W_^(emitovat:_cenné_papíry,_knihu,_zvuk,...)" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag>
+<AM lemma="vydat-1_:W_^(emitovat:_cenné_papíry,_knihu,_zvuk,...)" src="orig">VpYS---XR-AA---</AM>
+<AM lemma="vydat_:W" src="manual" selected="1">VpYS---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-lnd91301-027-p2s1Aw9">
 <src.rf>manual</src.rf>
@@ -734,7 +740,10 @@
 <LM>w#w-lnd91301-027-p2s1Aw9</LM>
 </w.rf>
 <form>nedávno</form>
-<tag lemma="nedávno-1" src="auto" selected="1">Db-------------</tag>
+<tag>
+<AM lemma="nedávno-1" src="auto">Db-------------</AM>
+<AM lemma="dávno-1" src="manual" selected="1">Dg-------1N----</AM>
+</tag>
 </m>
 <m id="m-lnd91301-027-p2s1Aw10">
 <src.rf>manual</src.rf>
@@ -790,7 +799,10 @@
 <LM>w#w-lnd91301-027-p2s1Aw16</LM>
 </w.rf>
 <form>Glanc</form>
-<tag lemma="glanc" src="orig" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="glanc" src="orig">NNIS1-----A----</AM>
+<AM lemma="Glanc_;S" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd91301-027-p2s1Aw17">
 <src.rf>manual</src.rf>
@@ -1090,7 +1102,10 @@
 <LM>w#w-lnd91301-027-p2s2w8</LM>
 </w.rf>
 <form>Glanc</form>
-<tag lemma="glanc" src="orig" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="glanc" src="orig">NNIS1-----A----</AM>
+<AM lemma="Glanc_;S" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd91301-027-p2s2w9">
 <src.rf>manual</src.rf>

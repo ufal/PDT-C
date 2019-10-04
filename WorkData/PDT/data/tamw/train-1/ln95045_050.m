@@ -887,7 +887,10 @@
 <LM>w#w-ln95045-050-p3s3w3</LM>
 </w.rf>
 <form>hodně</form>
-<tag lemma="hodně-2_^(nezlobivý)_(*3ý-2)" src="auto" selected="1">Dg-------1A----</tag>
+<tag>
+<AM lemma="hodně-2_^(nezlobivý)_(*3ý-2)" src="auto">Dg-------1A----</AM>
+<AM lemma="hodně-3" src="manual" selected="1">Dg-------1A----</AM>
+</tag>
 </m>
 <m id="m-ln95045-050-p3s3w4">
 <src.rf>manual</src.rf>
@@ -1231,6 +1234,7 @@
 <AM lemma="surrealismus" src="orig">NNIS1-----A----</AM>
 <AM lemma="surrealizmus" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="surrealizmus" src="auto">NNIS4-----A----</AM>
+<AM lemma="surrealismus_,s_^(^DD**surrealizmus)" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95045-050-p3s5w6">
@@ -1597,7 +1601,7 @@
 <form>Kandinskij</form>
 <tag>
 <AM lemma="Kandinský_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Kandinskij_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Kandinskij_;S" src="auto" recommended="1" selected="1">NNMS1-----A----</AM>
 <AM lemma="Kandinskij_;S" src="auto">NNMS5-----A----</AM>
 </tag>
 </m>
@@ -1753,7 +1757,10 @@
 <LM>w#w-ln95045-050-p3s8w18</LM>
 </w.rf>
 <form>vedla</form>
-<tag lemma="vést" src="auto" selected="1">VpQW---XR-AA---</tag>
+<tag>
+<AM lemma="vést" src="auto">VpQW---XR-AA---</AM>
+<AM lemma="vést_:T" src="manual" selected="1">VpQW---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-ln95045-050-p3s8w19">
 <src.rf>manual</src.rf>
@@ -2425,7 +2432,10 @@
 <LM>w#w-ln95045-050-p4s3w12</LM>
 </w.rf>
 <form>expresionismu</form>
-<tag lemma="expresionismus" src="orig" selected="1">NNIS2-----A----</tag>
+<tag>
+<AM lemma="expresionismus" src="orig">NNIS2-----A----</AM>
+<AM lemma="expresionismus_,s_^(^DD**expresionizmus)" src="manual" selected="1">NNIS2-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95045-050-p4s3w13">
 <src.rf>manual</src.rf>
@@ -2445,7 +2455,7 @@
 <form>Snad</form>
 <tag>
 <AM lemma="snad" src="orig">Db-------------</AM>
-<AM lemma="snad" src="auto" recommended="1">TT-------------</AM>
+<AM lemma="snad" src="auto" recommended="1" selected="1">TT-------------</AM>
 </tag>
 </m>
 <m id="m-ln95045-050-p4s4w2">
@@ -2780,7 +2790,7 @@
 <form>totiž</form>
 <tag>
 <AM lemma="totiž" src="orig">Db-------------</AM>
-<AM lemma="totiž-1" src="auto" recommended="1">J^-------------</AM>
+<AM lemma="totiž-1" src="auto" recommended="1" selected="1">J^-------------</AM>
 <AM lemma="totiž-2" src="auto">TT-------------</AM>
 </tag>
 </m>

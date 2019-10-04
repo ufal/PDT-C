@@ -45,7 +45,7 @@
 <form>Fero</form>
 <tag>
 <AM lemma="Fero_;Y" src="orig">NNMXX-----A----</AM>
-<AM lemma="Fero_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Fero_;Y" src="auto" recommended="1" selected="1">NNMS1-----A----</AM>
 <AM lemma="Fero_;Y" src="auto">NNMS5-----A----</AM>
 </tag>
 </m>
@@ -72,6 +72,7 @@
 <AM lemma="emo-1_,h_,l_^(styl)" src="auto">NNNP4-----A----</AM>
 <AM lemma="emo-1_,h_,l_^(styl)" src="auto">NNNP5-----A----</AM>
 <AM lemma="emo-1_,h_,l_^(styl)" src="auto">NNNS2-----A----</AM>
+<AM lemma="Ema_;Y" src="manual" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94101-105-p1s1Bw2">
@@ -358,7 +359,10 @@
 <LM>w#w-lnd94101-105-p1s8w2</LM>
 </w.rf>
 <form>jen</form>
-<tag lemma="jen-1" src="auto" selected="1">TT-------------</tag>
+<tag>
+<AM lemma="jen-1" src="auto">TT-------------</AM>
+<AM lemma="jen-4_^(pouze)" src="manual" selected="1">Db-------------</AM>
+</tag>
 </m>
 <m id="m-lnd94101-105-p1s8w3">
 <src.rf>manual</src.rf>
@@ -1226,7 +1230,10 @@
 <LM>w#w-lnd94101-105-p1s18w7</LM>
 </w.rf>
 <form>diskusí</form>
-<tag lemma="diskuse" src="orig" selected="1">NNFS7-----A----</tag>
+<tag>
+<AM lemma="diskuse" src="orig">NNFS7-----A----</AM>
+<AM lemma="diskuse_,s_^(^DD**diskuze)" src="manual" selected="1">NNFS7-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd94101-105-p1s18w8">
 <src.rf>manual</src.rf>
@@ -1924,7 +1931,10 @@
 <LM>w#w-lnd94101-105-p1s23w12</LM>
 </w.rf>
 <form>stran</form>
-<tag lemma="strana-2_^(politická)" src="orig" selected="1">NNFP2-----A----</tag>
+<tag>
+<AM lemma="strana-2_^(politická)" src="orig">NNFP2-----A----</AM>
+<AM lemma="strana" src="manual" selected="1">NNFP2-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd94101-105-p1s23w13">
 <src.rf>manual</src.rf>
@@ -1998,7 +2008,7 @@
 <form>vůbec</form>
 <tag>
 <AM lemma="vůbec" src="orig">Db-------------</AM>
-<AM lemma="vůbec" src="auto" recommended="1">TT-------------</AM>
+<AM lemma="vůbec" src="auto" recommended="1" selected="1">TT-------------</AM>
 </tag>
 </m>
 <m id="m-lnd94101-105-p1s23w22">
@@ -2516,7 +2526,7 @@
 <AM lemma="jakýkoli" src="auto">PZFP1---------1</AM>
 <AM lemma="jakýkoli" src="auto">PZFP4---------1</AM>
 <AM lemma="jakýkoli" src="auto">PZFP5---------1</AM>
-<AM lemma="jakýkoli" src="auto" recommended="1">PZFS2---------1</AM>
+<AM lemma="jakýkoli" src="auto" recommended="1" selected="1">PZFS2---------1</AM>
 <AM lemma="jakýkoli" src="auto">PZFS3---------1</AM>
 <AM lemma="jakýkoli" src="auto">PZFS6---------1</AM>
 <AM lemma="jakýkoli" src="auto">PZIP1---------1</AM>
@@ -2650,7 +2660,7 @@
 <tag>
 <AM lemma="tedy" src="orig">Db-------------</AM>
 <AM lemma="tedy-1" src="auto">TT-------------</AM>
-<AM lemma="tedy-2" src="auto" recommended="1">J^-------------</AM>
+<AM lemma="tedy-2" src="auto" recommended="1" selected="1">J^-------------</AM>
 </tag>
 </m>
 <m id="m-lnd94101-105-p1s28w5">
@@ -2760,7 +2770,7 @@
 <tag>
 <AM lemma="přesto" src="orig">Dg-------1A----</AM>
 <AM lemma="přesto-1" src="auto">Db-------------</AM>
-<AM lemma="přesto-2" src="auto" recommended="1">J^-------------</AM>
+<AM lemma="přesto-2" src="auto" recommended="1" selected="1">J^-------------</AM>
 </tag>
 </m>
 <m id="m-lnd94101-105-p1s29w2">
@@ -3087,7 +3097,7 @@
 <form>Jedině</form>
 <tag>
 <AM lemma="jedině_^(*1ý)" src="orig">Dg-------1A----</AM>
-<AM lemma="jedině" src="auto" recommended="1">Db-------------</AM>
+<AM lemma="jedině" src="auto" recommended="1" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m-lnd94101-105-p1s31w2">

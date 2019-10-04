@@ -165,7 +165,10 @@
 <LM>w#w-mf920901-082-p2s1w9</LM>
 </w.rf>
 <form>SRN</form>
-<tag lemma="SRN_:B_;G" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="SRN_:B_;G" src="orig">NNFXX-----A---8</AM>
+<AM lemma="SRN-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-mf920901-082-p2s1w10">
 <src.rf>manual</src.rf>
@@ -197,7 +200,10 @@
 <LM>w#w-mf920901-082-p2s1w13</LM>
 </w.rf>
 <form>tj</form>
-<tag lemma="tj-1_:B_^(to_je/jest)" src="orig" selected="1">J^------------8</tag>
+<tag>
+<AM lemma="tj-1_:B_^(to_je/jest)" src="orig">J^------------8</AM>
+<AM lemma="tj-1_:B_^(to_je/jest)" src="manual" selected="1">J^-------------</AM>
+</tag>
 </m>
 <m id="m-mf920901-082-p2s1w14">
 <src.rf>manual</src.rf>
@@ -375,7 +381,10 @@
 <LM>w#w-mf920901-082-p2s2w12</LM>
 </w.rf>
 <form>tzv</form>
-<tag lemma="takzvaný_:B" src="orig" selected="1">AAXXX----1A---8</tag>
+<tag>
+<AM lemma="takzvaný_:B" src="orig">AAXXX----1A---8</AM>
+<AM lemma="takzvaný" src="manual" selected="1">AAXXX----1A---8</AM>
+</tag>
 </m>
 <m id="m-mf920901-082-p2s2w13">
 <src.rf>manual</src.rf>
@@ -1559,7 +1568,10 @@
 <LM>w#w-mf920901-082-p4s1w10</LM>
 </w.rf>
 <form>SRN</form>
-<tag lemma="SRN_:B_;G" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="SRN_:B_;G" src="orig">NNFXX-----A---8</AM>
+<AM lemma="SRN-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-mf920901-082-p4s1w11">
 <src.rf>manual</src.rf>
@@ -1609,7 +1621,10 @@
 <LM>w#w-mf920901-082-p4s2w3</LM>
 </w.rf>
 <form>řekl</form>
-<tag lemma="říci" src="auto" selected="1">VpYS---XR-AA---</tag>
+<tag>
+<AM lemma="říci" src="auto">VpYS---XR-AA---</AM>
+<AM lemma="říci_:W" src="manual" selected="1">VpYS---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-mf920901-082-p4s2w4">
 <src.rf>manual</src.rf>
@@ -1673,7 +1688,10 @@
 <LM>w#w-mf920901-082-p4s2w11</LM>
 </w.rf>
 <form>ČSD</form>
-<tag lemma="ČSD-1_:B_;K_^(Čs._státní_dráhy)" src="orig" selected="1">NNFPX-----A---8</tag>
+<tag>
+<AM lemma="ČSD-1_:B_;K_^(Čs._státní_dráhy)" src="orig">NNFPX-----A---8</AM>
+<AM lemma="ČSD-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-mf920901-082-p4s2w12">
 <src.rf>manual</src.rf>
@@ -2085,7 +2103,10 @@
 <LM>w#w-mf920901-082-p4s4w17</LM>
 </w.rf>
 <form>tj</form>
-<tag lemma="tj-1_:B_^(to_je/jest)" src="orig" selected="1">J^------------8</tag>
+<tag>
+<AM lemma="tj-1_:B_^(to_je/jest)" src="orig">J^------------8</AM>
+<AM lemma="tj-1_:B_^(to_je/jest)" src="manual" selected="1">J^-------------</AM>
+</tag>
 </m>
 <m id="m-mf920901-082-p4s4w18">
 <src.rf>manual</src.rf>
@@ -2215,7 +2236,10 @@
 <LM>w#w-mf920901-082-p4s5w10</LM>
 </w.rf>
 <form>Deutsche</form>
-<tag lemma="Deutsche-1_;K_,t_^(souč._názvů,_např._D._Telekom)" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="Deutsche-1_;K_,t_^(souč._názvů,_např._D._Telekom)" src="orig">AAXXX----1A----</AM>
+<AM lemma="Deutsche-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-mf920901-082-p4s5w11">
 <src.rf>manual</src.rf>
@@ -2223,7 +2247,10 @@
 <LM>w#w-mf920901-082-p4s5w11</LM>
 </w.rf>
 <form>Reichsbahn</form>
-<tag lemma="Reichsbahn_;K_,t" src="orig" selected="1">NNFXX-----A----</tag>
+<tag>
+<AM lemma="Reichsbahn_;K_,t" src="orig">NNFXX-----A----</AM>
+<AM lemma="Reichsbahn-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-mf920901-082-p4s5w12">
 <src.rf>manual</src.rf>
@@ -2839,7 +2866,10 @@
 <LM>w#w-mf920901-082-p4s9w4</LM>
 </w.rf>
 <form>např</form>
-<tag lemma="například_:B" src="orig" selected="1">Db------------8</tag>
+<tag>
+<AM lemma="například_:B" src="orig">Db------------8</AM>
+<AM lemma="například" src="manual" selected="1">Db------------8</AM>
+</tag>
 </m>
 <m id="m-mf920901-082-p4s9w5">
 <src.rf>manual</src.rf>
@@ -2855,7 +2885,10 @@
 <LM>w#w-mf920901-082-p4s9w6</LM>
 </w.rf>
 <form>ČSAD</form>
-<tag lemma="ČSAD-1_:B_;K_^(Čs._státní_automobilová_doprava)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ČSAD-1_:B_;K_^(Čs._státní_automobilová_doprava)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČSAD-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-mf920901-082-p4s9w7">
 <src.rf>manual</src.rf>

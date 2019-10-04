@@ -27,7 +27,10 @@
 <LM>w#w-ln95049-022-p1s1w2</LM>
 </w.rf>
 <form>vav</form>
-<tag lemma="vav-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="vav-99_:B_;S" src="orig">NNXXX-----A---8</AM>
+<AM lemma="vav-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95049-022-p1s1w3">
 <src.rf>manual</src.rf>
@@ -52,7 +55,7 @@
 </w.rf>
 <form>Zbroj</form>
 <tag>
-<AM lemma="Zbroj_;S" src="orig">NNMS1-----A----</AM>
+<AM lemma="Zbroj_;S" src="orig" selected="1">NNMS1-----A----</AM>
 <AM lemma="zbroj" src="auto">NNFS1-----A----</AM>
 <AM lemma="zbroj" src="auto" recommended="1">NNFS4-----A----</AM>
 <AM lemma="zbrojit_:T" src="auto">Vi-S---2--A----</AM>
@@ -245,7 +248,10 @@
 <LM>w#w-ln95049-022-p2s1Bw3</LM>
 </w.rf>
 <form>šv</form>
-<tag lemma="šv-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="šv-99_:B_;S" src="orig">NNXXX-----A---8</AM>
+<AM lemma="šv-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95049-022-p2s1Bw4">
 <src.rf>manual</src.rf>
@@ -1041,7 +1047,7 @@
 <form>totiž</form>
 <tag>
 <AM lemma="totiž" src="orig">Db-------------</AM>
-<AM lemma="totiž-1" src="auto" recommended="1">J^-------------</AM>
+<AM lemma="totiž-1" src="auto" recommended="1" selected="1">J^-------------</AM>
 <AM lemma="totiž-2" src="auto">TT-------------</AM>
 </tag>
 </m>
@@ -1457,7 +1463,10 @@
 <LM>w#w-ln95049-022-p3s3w15</LM>
 </w.rf>
 <form>moc</form>
-<tag lemma="moc-3_^(velmi,_ve_spojení_s_adj.,_př._moc_hezká)" src="orig" selected="1">Db-------------</tag>
+<tag>
+<AM lemma="moc-3_^(velmi,_ve_spojení_s_adj.,_př._moc_hezká)" src="orig">Db-------------</AM>
+<AM lemma="moc-2_^(mnoho_něčeho_[se_subst._v_gen.])" src="manual" selected="1">Ca--X----------</AM>
+</tag>
 </m>
 <m id="m-ln95049-022-p3s3w16">
 <src.rf>manual</src.rf>
@@ -1798,7 +1807,7 @@
 </w.rf>
 <form>Zbroj</form>
 <tag>
-<AM lemma="Zbroj_;S" src="orig">NNMS1-----A----</AM>
+<AM lemma="Zbroj_;S" src="orig" selected="1">NNMS1-----A----</AM>
 <AM lemma="zbroj" src="auto">NNFS1-----A----</AM>
 <AM lemma="zbroj" src="auto" recommended="1">NNFS4-----A----</AM>
 <AM lemma="zbrojit_:T" src="auto">Vi-S---2--A----</AM>
@@ -2555,7 +2564,10 @@
 <LM>w#w-ln95049-022-p5s1w4</LM>
 </w.rf>
 <form>jen</form>
-<tag lemma="jen-1" src="auto" selected="1">TT-------------</tag>
+<tag>
+<AM lemma="jen-1" src="auto">TT-------------</AM>
+<AM lemma="jen-4_^(pouze)" src="manual" selected="1">Db-------------</AM>
+</tag>
 </m>
 <m id="m-ln95049-022-p5s1w5">
 <src.rf>manual</src.rf>

@@ -99,7 +99,10 @@
 <LM>w#w-ln95043-060-p1s1w11</LM>
 </w.rf>
 <form>LN</form>
-<tag lemma="LN-1_:B_;R_^(Lidové_noviny,_deník)" src="orig" selected="1">NNFPX-----A---8</tag>
+<tag>
+<AM lemma="LN-1_:B_;R_^(Lidové_noviny,_deník)" src="orig">NNFPX-----A---8</AM>
+<AM lemma="LN-1_:B_;K_;R_^(Lidové_noviny)" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln95043-060-p1s1w12">
 <src.rf>manual</src.rf>
@@ -225,7 +228,10 @@
 <LM>w#w-ln95043-060-p3s1Bw7</LM>
 </w.rf>
 <form>OH</form>
-<tag lemma="OH-1_:B_;K_;p_^(Občanské_hnutí)" src="orig" selected="1">NNNXX-----A---8</tag>
+<tag>
+<AM lemma="OH-1_:B_;K_;p_^(Občanské_hnutí)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="OH-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95043-060-p3s1Bw8">
 <src.rf>manual</src.rf>
@@ -1079,7 +1085,10 @@
 <LM>w#w-ln95043-060-p4s6w5</LM>
 </w.rf>
 <form>OH</form>
-<tag lemma="OH-1_:B_;K_;p_^(Občanské_hnutí)" src="orig" selected="1">NNNXX-----A---8</tag>
+<tag>
+<AM lemma="OH-1_:B_;K_;p_^(Občanské_hnutí)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="OH-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95043-060-p4s6w6">
 <src.rf>manual</src.rf>
@@ -1159,7 +1168,10 @@
 <LM>w#w-ln95043-060-p4s6w15</LM>
 </w.rf>
 <form>odejdeme</form>
-<tag lemma="odejít" src="orig" selected="1">VB-P---1P-AA---</tag>
+<tag>
+<AM lemma="odejít" src="orig">VB-P---1P-AA---</AM>
+<AM lemma="odejít_:W" src="manual" selected="1">VB-P---1P-AA---</AM>
+</tag>
 </m>
 <m id="m-ln95043-060-p4s6w16">
 <src.rf>manual</src.rf>
@@ -1297,7 +1309,10 @@
 <LM>w#w-ln95043-060-p4s7w13</LM>
 </w.rf>
 <form>ODS</form>
-<tag lemma="ODS-1_:B_;K_;p_^(Občanská_demokratická_strana)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ODS-1_:B_;K_;p_^(Občanská_demokratická_strana)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ODS-1_:B_;K_^(Občanská_demokratická_strana)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95043-060-p4s7w14">
 <src.rf>manual</src.rf>
@@ -1509,7 +1524,10 @@
 <LM>w#w-ln95043-060-p5s1w5</LM>
 </w.rf>
 <form>chcete</form>
-<tag lemma="chtít" src="orig" selected="1">VB-P---2P-AA---</tag>
+<tag>
+<AM lemma="chtít" src="orig">VB-P---2P-AA---</AM>
+<AM lemma="chtít_:T" src="manual" selected="1">VB-P---2P-AA---</AM>
+</tag>
 </m>
 <m id="m-ln95043-060-p5s1w6">
 <src.rf>manual</src.rf>
@@ -1517,7 +1535,10 @@
 <LM>w#w-ln95043-060-p5s1w6</LM>
 </w.rf>
 <form>stáhnout</form>
-<tag lemma="stáhnout" src="orig" selected="1">Vf--------A----</tag>
+<tag>
+<AM lemma="stáhnout" src="orig">Vf--------A----</AM>
+<AM lemma="stáhnout_:T" src="manual" selected="1">Vf--------A----</AM>
+</tag>
 </m>
 <m id="m-ln95043-060-p5s1w7">
 <src.rf>manual</src.rf>
@@ -1551,7 +1572,10 @@
 <LM>w#w-ln95043-060-p6s1w3</LM>
 </w.rf>
 <form>neznám</form>
-<tag lemma="znát" src="orig" selected="1">VB-S---1P-NA---</tag>
+<tag>
+<AM lemma="znát" src="orig">VB-S---1P-NA---</AM>
+<AM lemma="znát_:T" src="manual" selected="1">VB-S---1P-NA---</AM>
+</tag>
 </m>
 <m id="m-ln95043-060-p6s1w4">
 <src.rf>manual</src.rf>
@@ -1577,7 +1601,10 @@
 <LM>w#w-ln95043-060-p6s2w1</LM>
 </w.rf>
 <form>Mám</form>
-<tag lemma="mít" src="orig" selected="1">VB-S---1P-AA---</tag>
+<tag>
+<AM lemma="mít" src="orig">VB-S---1P-AA---</AM>
+<AM lemma="mít_:T" src="manual" selected="1">VB-S---1P-AA---</AM>
+</tag>
 </m>
 <m id="m-ln95043-060-p6s2w2">
 <src.rf>manual</src.rf>
@@ -1673,7 +1700,10 @@
 <LM>w#w-ln95043-060-p6s2w13</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-2" src="auto" selected="1">Dg-------2A----</tag>
+<tag>
+<AM lemma="hodně-2" src="auto">Dg-------2A----</AM>
+<AM lemma="hodně-3" src="manual" selected="1">Dg-------2A----</AM>
+</tag>
 </m>
 <m id="m-ln95043-060-p6s2w14">
 <src.rf>manual</src.rf>
@@ -2124,7 +2154,7 @@
 <tag>
 <AM lemma="tady" src="orig">Db------------1</AM>
 <AM lemma="ten" src="auto" recommended="1">PDFS4----------</AM>
-<AM lemma="tu" src="auto">Db-------------</AM>
+<AM lemma="tu" src="auto" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m-ln95043-060-p8s2w5">
@@ -2369,7 +2399,10 @@
 <LM>w#w-ln95043-060-p8s4w1</LM>
 </w.rf>
 <form>Vidíme</form>
-<tag lemma="vidět" src="orig" selected="1">VB-P---1P-AA---</tag>
+<tag>
+<AM lemma="vidět" src="orig">VB-P---1P-AA---</AM>
+<AM lemma="vidět_:T" src="manual" selected="1">VB-P---1P-AA---</AM>
+</tag>
 </m>
 <m id="m-ln95043-060-p8s4w2">
 <src.rf>manual</src.rf>

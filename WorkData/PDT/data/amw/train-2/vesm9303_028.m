@@ -19,7 +19,10 @@
 <LM>w#w-vesm9303-028-p1s1w1</LM>
 </w.rf>
 <form>Heinrichovy</form>
-<tag lemma="Heinrichův_;Y_^(*2)" src="orig" selected="1">AUFP1M---------</tag>
+<tag>
+<AM lemma="Heinrichův_;Y_^(*2)" src="orig">AUFP1M---------</AM>
+<AM lemma="Heinrichův_;S_^(*2)" src="manual" selected="1">AUFP1M---------</AM>
+</tag>
 </m>
 <m id="m-vesm9303-028-p1s1w2">
 <src.rf>manual</src.rf>
@@ -74,7 +77,7 @@
 <AM lemma="hlubokomořský" src="auto">AAFP2----1A----</AM>
 <AM lemma="hlubokomořský" src="auto">AAFP6----1A----</AM>
 <AM lemma="hlubokomořský" src="auto">AAIP2----1A----</AM>
-<AM lemma="hlubokomořský" src="auto" recommended="1">AAIP6----1A----</AM>
+<AM lemma="hlubokomořský" src="auto" recommended="1" selected="1">AAIP6----1A----</AM>
 <AM lemma="hlubokomořský" src="auto">AAMP2----1A----</AM>
 <AM lemma="hlubokomořský" src="auto">AAMP6----1A----</AM>
 <AM lemma="hlubokomořský" src="auto">AANP2----1A----</AM>
@@ -186,6 +189,7 @@
 <tag>
 <AM lemma="cm-1`centimetr_:B" src="orig">NNIXX-----A---8</AM>
 <AM lemma="centimetr_:B" src="auto" recommended="1">NNIXX-----A---8</AM>
+<AM lemma="centimetr" src="manual" selected="1">NNIXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-vesm9303-028-p2s1w16">
@@ -324,7 +328,10 @@
 <LM>w#w-vesm9303-028-p2s2w5</LM>
 </w.rf>
 <form>Heinrichovy</form>
-<tag lemma="Heinrichův_;Y_^(*2)" src="orig" selected="1">AUFP1M---------</tag>
+<tag>
+<AM lemma="Heinrichův_;Y_^(*2)" src="orig">AUFP1M---------</AM>
+<AM lemma="Heinrichův_;S_^(*2)" src="manual" selected="1">AUFP1M---------</AM>
+</tag>
 </m>
 <m id="m-vesm9303-028-p2s2w6">
 <src.rf>manual</src.rf>
@@ -532,7 +539,10 @@
 <LM>w#w-vesm9303-028-p2s2w31</LM>
 </w.rf>
 <form>zejména</form>
-<tag lemma="zejména-1" src="auto" selected="1">Db-------------</tag>
+<tag>
+<AM lemma="zejména-1" src="auto">Db-------------</AM>
+<AM lemma="zejména-2" src="manual" selected="1">TT-------------</AM>
+</tag>
 </m>
 <m id="m-vesm9303-028-p2s2w32">
 <src.rf>manual</src.rf>
@@ -574,7 +584,10 @@
 <LM>w#w-vesm9303-028-p2s3w1</LM>
 </w.rf>
 <form>Heinrichovy</form>
-<tag lemma="Heinrichův_;Y_^(*2)" src="orig" selected="1">AUFP1M---------</tag>
+<tag>
+<AM lemma="Heinrichův_;Y_^(*2)" src="orig">AUFP1M---------</AM>
+<AM lemma="Heinrichův_;S_^(*2)" src="manual" selected="1">AUFP1M---------</AM>
+</tag>
 </m>
 <m id="m-vesm9303-028-p2s3w2">
 <src.rf>manual</src.rf>
@@ -598,7 +611,10 @@
 <LM>w#w-vesm9303-028-p2s3w4</LM>
 </w.rf>
 <form>jen</form>
-<tag lemma="jen-1" src="auto" selected="1">TT-------------</tag>
+<tag>
+<AM lemma="jen-1" src="auto">TT-------------</AM>
+<AM lemma="jen-4_^(pouze)" src="manual" selected="1">Db-------------</AM>
+</tag>
 </m>
 <m id="m-vesm9303-028-p2s3w5">
 <src.rf>manual</src.rf>
@@ -933,7 +949,10 @@
 <LM>w#w-vesm9303-028-p3s2w8</LM>
 </w.rf>
 <form>tj</form>
-<tag lemma="tj-1_:B_^(to_je/jest)" src="orig" selected="1">J^------------8</tag>
+<tag>
+<AM lemma="tj-1_:B_^(to_je/jest)" src="orig">J^------------8</AM>
+<AM lemma="tj-1_:B_^(to_je/jest)" src="manual" selected="1">J^-------------</AM>
+</tag>
 </m>
 <m id="m-vesm9303-028-p3s2w9">
 <src.rf>manual</src.rf>
@@ -1054,7 +1073,10 @@
 <LM>w#w-vesm9303-028-p3s2w23</LM>
 </w.rf>
 <form>km</form>
-<tag lemma="km-1`kilometr_:B" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="km-1`kilometr_:B" src="orig">NNIXX-----A---8</AM>
+<AM lemma="kilometr" src="manual" selected="1">NNIXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-vesm9303-028-p3s2w24">
 <src.rf>manual</src.rf>
@@ -1174,7 +1196,10 @@
 <LM>w#w-vesm9303-028-p3s2w38</LM>
 </w.rf>
 <form>Heinrichových</form>
-<tag lemma="Heinrichův_;Y_^(*2)" src="orig" selected="1">AUFP2M---------</tag>
+<tag>
+<AM lemma="Heinrichův_;Y_^(*2)" src="orig">AUFP2M---------</AM>
+<AM lemma="Heinrichův_;S_^(*2)" src="manual" selected="1">AUFP2M---------</AM>
+</tag>
 </m>
 <m id="m-vesm9303-028-p3s2w39">
 <src.rf>manual</src.rf>
@@ -1216,7 +1241,10 @@
 <LM>w#w-vesm9303-028-p3s3w3</LM>
 </w.rf>
 <form>Heinrichových</form>
-<tag lemma="Heinrichův_;Y_^(*2)" src="orig" selected="1">AUFP2M---------</tag>
+<tag>
+<AM lemma="Heinrichův_;Y_^(*2)" src="orig">AUFP2M---------</AM>
+<AM lemma="Heinrichův_;S_^(*2)" src="manual" selected="1">AUFP2M---------</AM>
+</tag>
 </m>
 <m id="m-vesm9303-028-p3s3w4">
 <src.rf>manual</src.rf>
@@ -1273,6 +1301,7 @@
 <AM lemma="h-8_:B_^(ost._zkratka)" src="auto">XX------------8</AM>
 <AM lemma="hodina_:B" src="auto">NNFXX-----A---8</AM>
 <AM lemma="hodina_:B_,x" src="auto">NNFXX-----A---9</AM>
+<AM lemma="H-33_^(označení_pomocí_písmene)" src="manual" selected="1">NNNXX-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9303-028-p4s1w2">
@@ -1760,7 +1789,10 @@
 <LM>w#w-vesm9303-028-p10s3w1</LM>
 </w.rf>
 <form>Heinrichovy</form>
-<tag lemma="Heinrichův_;Y_^(*2)" src="orig" selected="1">AUFP1M---------</tag>
+<tag>
+<AM lemma="Heinrichův_;Y_^(*2)" src="orig">AUFP1M---------</AM>
+<AM lemma="Heinrichův_;S_^(*2)" src="manual" selected="1">AUFP1M---------</AM>
+</tag>
 </m>
 <m id="m-vesm9303-028-p10s3w2">
 <src.rf>manual</src.rf>
@@ -1800,7 +1832,10 @@
 <LM>w#w-vesm9303-028-p10s3w6</LM>
 </w.rf>
 <form>jen</form>
-<tag lemma="jen-1" src="auto" selected="1">TT-------------</tag>
+<tag>
+<AM lemma="jen-1" src="auto">TT-------------</AM>
+<AM lemma="jen-4_^(pouze)" src="manual" selected="1">Db-------------</AM>
+</tag>
 </m>
 <m id="m-vesm9303-028-p10s3w7">
 <src.rf>manual</src.rf>
@@ -2173,7 +2208,10 @@
 <LM>w#w-vesm9303-028-p10s5w12</LM>
 </w.rf>
 <form>jen</form>
-<tag lemma="jen-1" src="auto" selected="1">TT-------------</tag>
+<tag>
+<AM lemma="jen-1" src="auto">TT-------------</AM>
+<AM lemma="jen-4_^(pouze)" src="manual" selected="1">Db-------------</AM>
+</tag>
 </m>
 <m id="m-vesm9303-028-p10s5w13">
 <src.rf>manual</src.rf>

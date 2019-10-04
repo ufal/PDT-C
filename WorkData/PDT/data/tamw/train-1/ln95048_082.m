@@ -314,7 +314,10 @@
 <LM>w#w-ln95048-082-p2s1Cw24</LM>
 </w.rf>
 <form>mil</form>
-<tag lemma="milión`1000000_:B" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="milión`1000000_:B" src="orig">NNIXX-----A---8</AM>
+<AM lemma="milión`1000000" src="manual" selected="1">NNIXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln95048-082-p2s1Cw25">
 <src.rf>manual</src.rf>
@@ -471,7 +474,7 @@
 <tag>
 <AM lemma="prs" src="orig">NNFP6-----A----</AM>
 <AM lemma="prsa" src="auto">NNNP2-----A---1</AM>
-<AM lemma="prsa" src="auto" recommended="1">NNNP6-----A---1</AM>
+<AM lemma="prsa" src="auto" recommended="1" selected="1">NNNP6-----A---1</AM>
 </tag>
 </m>
 <m id="m-ln95048-082-p2s2w13">
@@ -960,7 +963,10 @@
 <LM>w#w-ln95048-082-p3s4w9</LM>
 </w.rf>
 <form>pozn</form>
-<tag lemma="poznámka_:B" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="poznámka_:B" src="orig">NNFXX-----A---8</AM>
+<AM lemma="poznámka" src="manual" selected="1">NNFXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln95048-082-p3s4w10">
 <src.rf>manual</src.rf>
@@ -979,6 +985,7 @@
 <tag>
 <AM lemma="red_^(redakce)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="redakce_:B" src="auto" recommended="1">NNFXX-----A---8</AM>
+<AM lemma="redakce" src="manual" selected="1">NNFXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-ln95048-082-p3s4w12">
@@ -1003,7 +1010,10 @@
 <LM>w#w-ln95048-082-p3s4w14</LM>
 </w.rf>
 <form>sice</form>
-<tag lemma="sice-2" src="auto" selected="1">Db-------------</tag>
+<tag>
+<AM lemma="sice-2" src="auto">Db-------------</AM>
+<AM lemma="sice-1_^(spojka;_připouští_se_určitá_fakta)" src="manual" selected="1">J^-------------</AM>
+</tag>
 </m>
 <m id="m-ln95048-082-p3s4w15">
 <src.rf>manual</src.rf>
@@ -2127,7 +2137,10 @@
 <LM>w#w-ln95048-082-p6s1w10</LM>
 </w.rf>
 <form>Č</form>
-<tag lemma="Český_:B_;G" src="orig" selected="1">AAXXX----1A---8</tag>
+<tag>
+<AM lemma="Český_:B_;G" src="orig">AAXXX----1A---8</AM>
+<AM lemma="Č-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95048-082-p6s1w11">
 <src.rf>manual</src.rf>

@@ -35,7 +35,10 @@
 <LM>w#w-ln95044-020-p1s1w3</LM>
 </w.rf>
 <form>Grant</form>
-<tag lemma="grant" src="orig" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="grant" src="orig">NNIS1-----A----</AM>
+<AM lemma="Grant-1_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95044-020-p1s1w4">
 <src.rf>manual</src.rf>

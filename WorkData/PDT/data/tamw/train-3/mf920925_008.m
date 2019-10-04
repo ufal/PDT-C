@@ -30,6 +30,7 @@
 <tag>
 <AM lemma="VW-2_:B_;K_,t_^(název_firmy_Volkswagen)" src="orig">NNIXX-----A----</AM>
 <AM lemma="VW_:B_;K_;R_,t_^(název_firmy/auta_Volkswagen)" src="auto" recommended="1">NNIXX-----A---8</AM>
+<AM lemma="VW_:B_;K_;R_^(název_firmy/auta_Volkswagen)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 </s>
@@ -442,6 +443,7 @@
 <tag>
 <AM lemma="USA_;G" src="orig">NNIPX-----A----</AM>
 <AM lemma="USA_:B_;K_,t_^(United_States_of_America)" src="auto" recommended="1">NNIPX-----A---8</AM>
+<AM lemma="USA_:B_;K_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920925-008-p2s3w10">
@@ -598,7 +600,7 @@
 <form>Handelsblatt</form>
 <tag>
 <AM lemma="Handelsblatt_;R_,t" src="orig">NNIXX-----A----</AM>
-<AM lemma="Handelsblatt_;R_^(časopis)" src="auto" recommended="1">NNIS1-----A----</AM>
+<AM lemma="Handelsblatt_;R_^(časopis)" src="auto" recommended="1" selected="1">NNIS1-----A----</AM>
 <AM lemma="Handelsblatt_;R_^(časopis)" src="auto">NNIS4-----A----</AM>
 </tag>
 </m>
@@ -759,6 +761,7 @@
 <tag>
 <AM lemma="VW-2_:B_;K_,t_^(název_firmy_Volkswagen)" src="orig">NNFXX-----A----</AM>
 <AM lemma="VW_:B_;K_;R_,t_^(název_firmy/auta_Volkswagen)" src="auto" recommended="1">NNIXX-----A---8</AM>
+<AM lemma="VW_:B_;K_;R_^(název_firmy/auta_Volkswagen)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920925-008-p2s5w2">
@@ -1346,7 +1349,7 @@
 <form>favoritů</form>
 <tag>
 <AM lemma="Favorit-2_;R_^(vozidlo)" src="orig">NNIP2-----A----</AM>
-<AM lemma="favorit-1_;R" src="auto" recommended="1">NNIP2-----A----</AM>
+<AM lemma="favorit-1_;R" src="auto" recommended="1" selected="1">NNIP2-----A----</AM>
 <AM lemma="favorit-2" src="auto">NNMP2-----A----</AM>
 </tag>
 </m>
@@ -1367,6 +1370,7 @@
 <tag>
 <AM lemma="Forman-2_;R_^(vozidlo)" src="orig">NNIP2-----A----</AM>
 <AM lemma="forman" src="auto" recommended="1">NNMP2-----A----</AM>
+<AM lemma="forman-2_;R_^(vozidlo)" src="manual" selected="1">NNIP2-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920925-008-p2s8w15">

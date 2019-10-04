@@ -452,7 +452,10 @@
 <LM>w#w-lnd92251-088-p2s4w7</LM>
 </w.rf>
 <form>Bohemians</form>
-<tag lemma="Bohemians_;Y" src="orig" selected="1">NNMPX-----A----</tag>
+<tag>
+<AM lemma="Bohemians_;Y" src="orig">NNMPX-----A----</AM>
+<AM lemma="Bohemians_;Y_;K" src="manual" selected="1">NNMPX-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92251-088-p2s4w8">
 <src.rf>manual</src.rf>
@@ -667,7 +670,7 @@
 <tag>
 <AM lemma="přece" src="orig">Db------------1</AM>
 <AM lemma="přece-1" src="auto" recommended="1">J^------------1</AM>
-<AM lemma="přece-2" src="auto">TT------------1</AM>
+<AM lemma="přece-2" src="auto" selected="1">TT------------1</AM>
 </tag>
 </m>
 <m id="m-lnd92251-088-p2s6w12">

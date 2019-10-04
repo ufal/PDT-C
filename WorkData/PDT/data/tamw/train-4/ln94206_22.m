@@ -77,7 +77,10 @@
 <LM>w#w-ln94206-22-p2s1Aw3</LM>
 </w.rf>
 <form>škr</form>
-<tag lemma="škr-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="škr-99_:B_;S" src="orig">NNXXX-----A---8</AM>
+<AM lemma="škr-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94206-22-p2s1Aw4">
 <src.rf>manual</src.rf>
@@ -581,7 +584,10 @@
 <LM>w#w-ln94206-22-p3s2w4</LM>
 </w.rf>
 <form>např</form>
-<tag lemma="například_:B" src="orig" selected="1">Db------------8</tag>
+<tag>
+<AM lemma="například_:B" src="orig">Db------------8</AM>
+<AM lemma="například" src="manual" selected="1">Db------------8</AM>
+</tag>
 </m>
 <m id="m-ln94206-22-p3s2w5">
 <src.rf>manual</src.rf>
@@ -719,7 +725,10 @@
 <LM>w#w-ln94206-22-p3s3w8</LM>
 </w.rf>
 <form>ČR</form>
-<tag lemma="ČR-1_:B_;G_^(Česká_republika)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94206-22-p3s3w9">
 <src.rf>manual</src.rf>
@@ -815,7 +824,10 @@
 <LM>w#w-ln94206-22-p3s3w20</LM>
 </w.rf>
 <form>kg</form>
-<tag lemma="kg-1`kilogram_:B" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="kg-1`kilogram_:B" src="orig">NNIXX-----A---8</AM>
+<AM lemma="kg-1`kilogram" src="manual" selected="1">NNIXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln94206-22-p3s3w21">
 <src.rf>manual</src.rf>

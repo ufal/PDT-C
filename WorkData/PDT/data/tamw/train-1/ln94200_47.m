@@ -216,7 +216,10 @@
 <LM>w#w-ln94200-47-p2s1Bw18</LM>
 </w.rf>
 <form>lei</form>
-<tag lemma="lei_;b_,t" src="auto" selected="1">NNIXX-----A----</tag>
+<tag>
+<AM lemma="lei_;b_,t" src="auto">NNIXX-----A----</AM>
+<AM lemma="lei" src="manual" selected="1">NNIXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94200-47-p2s1Bw19">
 <src.rf>manual</src.rf>
@@ -248,7 +251,10 @@
 <LM>w#w-ln94200-47-p2s1Bw22</LM>
 </w.rf>
 <form>USD</form>
-<tag lemma="USD_:B_;b_^(U.S._dolar)" src="auto" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="USD_:B_;b_^(U.S._dolar)" src="auto">NNIXX-----A---8</AM>
+<AM lemma="USD_:B_^(U.S._dolar)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94200-47-p2s1Bw23">
 <src.rf>manual</src.rf>
@@ -759,7 +765,10 @@
 <LM>w#w-ln94200-47-p3s3w15</LM>
 </w.rf>
 <form>lei</form>
-<tag lemma="lei_;b_,t" src="auto" selected="1">NNIXX-----A----</tag>
+<tag>
+<AM lemma="lei_;b_,t" src="auto">NNIXX-----A----</AM>
+<AM lemma="lei" src="manual" selected="1">NNIXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94200-47-p3s3w16">
 <src.rf>manual</src.rf>

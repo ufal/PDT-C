@@ -355,7 +355,7 @@
 <form>jedině</form>
 <tag>
 <AM lemma="jedině_^(*1ý)" src="orig">Dg-------1A----</AM>
-<AM lemma="jedině" src="auto" recommended="1">Db-------------</AM>
+<AM lemma="jedině" src="auto" recommended="1" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m-ln95044-102-p2s2w15">
@@ -484,7 +484,10 @@
 <LM>w#w-ln95044-102-p2s2w30</LM>
 </w.rf>
 <form>mechanismu</form>
-<tag lemma="mechanismus" src="orig" selected="1">NNIS3-----A----</tag>
+<tag>
+<AM lemma="mechanismus" src="orig">NNIS3-----A----</AM>
+<AM lemma="mechanismus_,s_^(^DD**mechanizmus)" src="manual" selected="1">NNIS3-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95044-102-p2s2w31">
 <src.rf>manual</src.rf>

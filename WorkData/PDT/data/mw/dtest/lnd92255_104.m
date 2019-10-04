@@ -268,7 +268,7 @@
 <tag>
 <AM lemma="matka" src="orig">NNFS1-----A----</AM>
 <AM lemma="matka-1_^(malá_součástka)" src="auto" recommended="1">NNFS1-----A----</AM>
-<AM lemma="matka-2_^(maminka)" src="auto">NNFS1-----A----</AM>
+<AM lemma="matka-2_^(maminka)" src="auto" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92255-104-p2s3w7">
@@ -817,7 +817,10 @@
 <LM>w#w-lnd92255-104-p1s2w13</LM>
 </w.rf>
 <form>sv</form>
-<tag lemma="svazek_:B" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="svazek_:B" src="orig">NNIXX-----A---8</AM>
+<AM lemma="svatý" src="manual" selected="1">AAXXX----1A---8</AM>
+</tag>
 </m>
 <m id="m-lnd92255-104-p1s2w14">
 <src.rf>manual</src.rf>
@@ -877,7 +880,10 @@
 <LM>w#w-lnd92255-104-p1s4w4</LM>
 </w.rf>
 <form>PhDr</form>
-<tag lemma="PhDr-1_:B_,t_^(philosophiae_doctor)" src="auto" selected="1">NNMXX-----A---8</tag>
+<tag>
+<AM lemma="PhDr-1_:B_,t_^(philosophiae_doctor)" src="auto">NNMXX-----A---8</AM>
+<AM lemma="PhDr_:B_^(philosophiae_doctor)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92255-104-p1s4w5">
 <src.rf>manual</src.rf>
@@ -901,7 +907,10 @@
 <LM>w#w-lnd92255-104-p1s4w7</LM>
 </w.rf>
 <form>Zahradník</form>
-<tag lemma="zahradník" src="orig" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="zahradník" src="orig">NNMS1-----A----</AM>
+<AM lemma="Zahradník_;S" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92255-104-p1s4w8">
 <src.rf>manual</src.rf>

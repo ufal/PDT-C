@@ -103,7 +103,10 @@
 <LM>w#w-ln94202-131-p2s1Aw3</LM>
 </w.rf>
 <form>mrk</form>
-<tag lemma="mrk-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="mrk-99_:B_;S" src="orig">NNXXX-----A---8</AM>
+<AM lemma="mrk-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94202-131-p2s1Aw4">
 <src.rf>manual</src.rf>
@@ -363,7 +366,10 @@
 <LM>w#w-ln94202-131-p3s1w2</LM>
 </w.rf>
 <form>LN</form>
-<tag lemma="LN-1_:B_;R_^(Lidové_noviny,_deník)" src="orig" selected="1">NNFPX-----A---8</tag>
+<tag>
+<AM lemma="LN-1_:B_;R_^(Lidové_noviny,_deník)" src="orig">NNFPX-----A---8</AM>
+<AM lemma="LN-1_:B_;K_;R_^(Lidové_noviny)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94202-131-p3s1w3">
 <src.rf>manual</src.rf>
@@ -475,7 +481,10 @@
 <LM>w#w-ln94202-131-p3s1w16</LM>
 </w.rf>
 <form>ČR</form>
-<tag lemma="ČR-1_:B_;G_^(Česká_republika)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94202-131-p3s1w17">
 <src.rf>manual</src.rf>
@@ -579,7 +588,10 @@
 <LM>w#w-ln94202-131-p3s1w29</LM>
 </w.rf>
 <form>ADR</form>
-<tag lemma="ADR-1_:B_;K_,t_^(Mezin._úmluva_o_přepravě_nebezp._zboží)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ADR-1_:B_;K_,t_^(Mezin._úmluva_o_přepravě_nebezp._zboží)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ADR-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94202-131-p3s1w30">
 <src.rf>manual</src.rf>
@@ -637,7 +649,10 @@
 <LM>w#w-ln94202-131-p3s2w1</LM>
 </w.rf>
 <form>ČR</form>
-<tag lemma="ČR-1_:B_;G_^(Česká_republika)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94202-131-p3s2w2">
 <src.rf>manual</src.rf>
@@ -719,7 +734,7 @@
 <form>ovšem</form>
 <tag>
 <AM lemma="ovšem-1_^(avšak,_však;_odporovací_spojka)" src="orig">J^-------------</AM>
-<AM lemma="ovšem" src="auto" recommended="1">TT-------------</AM>
+<AM lemma="ovšem" src="auto" recommended="1" selected="1">TT-------------</AM>
 </tag>
 </m>
 <m id="m-ln94202-131-p3s2w12">

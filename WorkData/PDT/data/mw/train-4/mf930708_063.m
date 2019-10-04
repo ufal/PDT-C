@@ -137,7 +137,10 @@
 <LM>w#w-mf930708-063-p4s1w6</LM>
 </w.rf>
 <form>Kun</form>
-<tag lemma="kuna" src="orig" selected="1">NNFP2-----A----</tag>
+<tag>
+<AM lemma="kuna" src="orig">NNFP2-----A----</AM>
+<AM lemma="Kun" src="manual" selected="1">A2--------A----</AM>
+</tag>
 </m>
 <m id="m-mf930708-063-p4s1w7">
 <src.rf>manual</src.rf>
@@ -153,7 +156,10 @@
 <LM>w#w-mf930708-063-p4s1w8</LM>
 </w.rf>
 <form>čičkách</form>
-<tag lemma="čička_,e" src="orig" selected="1">NNFP6-----A----</tag>
+<tag>
+<AM lemma="čička_,e" src="orig" selected="1">NNFP6-----A----</AM>
+<AM lemma="čička_;G" src="manual">NNFP6-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930708-063-p4s1w9">
 <src.rf>manual</src.rf>
@@ -185,7 +191,10 @@
 <LM>w#w-mf930708-063-p4s1w12</LM>
 </w.rf>
 <form>č</form>
-<tag lemma="číslo_:B" src="orig" selected="1">NNNXX-----A---8</tag>
+<tag>
+<AM lemma="číslo_:B" src="orig">NNNXX-----A---8</AM>
+<AM lemma="číslo" src="manual" selected="1">NNNXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-mf930708-063-p4s1w13">
 <src.rf>manual</src.rf>
@@ -233,7 +242,10 @@
 <LM>w#w-mf930708-063-p4s1w18</LM>
 </w.rf>
 <form>MUDr</form>
-<tag lemma="MUDr-1_:B_^(doktor_medicíny)" src="orig" selected="1">NNMXX-----A---8</tag>
+<tag>
+<AM lemma="MUDr-1_:B_^(doktor_medicíny)" src="orig">NNMXX-----A---8</AM>
+<AM lemma="MUDr_:B_^(doktor_medicíny)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930708-063-p4s1w19">
 <src.rf>manual</src.rf>
@@ -991,7 +1003,10 @@
 <LM>w#w-mf930708-063-p5s1w19</LM>
 </w.rf>
 <form>tel</form>
-<tag lemma="telefon_:B" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="telefon_:B" src="orig">NNIXX-----A---8</AM>
+<AM lemma="telefon" src="manual" selected="1">NNIXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-mf930708-063-p5s1w20">
 <src.rf>manual</src.rf>
@@ -1435,7 +1450,10 @@
 <LM>w#w-mf930708-063-p5s3w19</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-2" src="auto" selected="1">Dg-------2A----</tag>
+<tag>
+<AM lemma="hodně-2" src="auto">Dg-------2A----</AM>
+<AM lemma="více_^(více_+_2._p.,_více_peněz)" src="manual" selected="1">Ca--4----------</AM>
+</tag>
 </m>
 <m id="m-mf930708-063-p5s3w20">
 <src.rf>manual</src.rf>
@@ -1857,7 +1875,10 @@
 <LM>w#w-mf930708-063-p5s6w22</LM>
 </w.rf>
 <form>tzv</form>
-<tag lemma="takzvaný_:B" src="orig" selected="1">AAXXX----1A---8</tag>
+<tag>
+<AM lemma="takzvaný_:B" src="orig">AAXXX----1A---8</AM>
+<AM lemma="takzvaný" src="manual" selected="1">AAXXX----1A---8</AM>
+</tag>
 </m>
 <m id="m-mf930708-063-p5s6w23">
 <src.rf>manual</src.rf>
@@ -1890,7 +1911,7 @@
 </w.rf>
 <form>psycho</form>
 <tag>
-<AM lemma="psycho" src="orig">A2--------A----</AM>
+<AM lemma="psycho" src="orig" selected="1">A2--------A----</AM>
 <AM lemma="psycha_,a_^(duše;;zrcadlo_s_toaletním_stolkem)" src="auto">NNFS5-----A----</AM>
 <AM lemma="psycho-2_;u" src="auto" recommended="1">AAXXX----1A----</AM>
 </tag>
@@ -2463,7 +2484,10 @@
 <LM>w#w-mf930708-063-p5s11w9</LM>
 </w.rf>
 <form>jen</form>
-<tag lemma="jen-1" src="auto" selected="1">TT-------------</tag>
+<tag>
+<AM lemma="jen-1" src="auto">TT-------------</AM>
+<AM lemma="jen-4_^(pouze)" src="manual" selected="1">Db-------------</AM>
+</tag>
 </m>
 <m id="m-mf930708-063-p5s11w10">
 <src.rf>manual</src.rf>
@@ -2609,7 +2633,10 @@
 <LM>w#w-mf930708-063-p6s1w10</LM>
 </w.rf>
 <form>víc</form>
-<tag lemma="hodně-2" src="auto" selected="1">Dg-------2A---1</tag>
+<tag>
+<AM lemma="hodně-2" src="auto">Dg-------2A---1</AM>
+<AM lemma="více_^(více_+_2._p.,_více_peněz)" src="manual" selected="1">Ca--4---------1</AM>
+</tag>
 </m>
 <m id="m-mf930708-063-p6s1w11">
 <src.rf>manual</src.rf>
@@ -2619,7 +2646,7 @@
 <form>starostí</form>
 <tag>
 <AM lemma="starost" src="orig">NNFP2-----A----</AM>
-<AM lemma="starost-1" src="auto" recommended="1">NNFP2-----A----</AM>
+<AM lemma="starost-1" src="auto" recommended="1" selected="1">NNFP2-----A----</AM>
 <AM lemma="starost-1" src="auto">NNFS7-----A----</AM>
 <AM lemma="starost-2_^(člověk,_věc)_(*5ý-2)" src="auto">NNFP2-----A----</AM>
 <AM lemma="starost-2_^(člověk,_věc)_(*5ý-2)" src="auto">NNFS7-----A----</AM>

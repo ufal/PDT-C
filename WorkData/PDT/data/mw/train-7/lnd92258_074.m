@@ -155,6 +155,7 @@
 <AM lemma="cit" src="auto">NNIP4-----A----</AM>
 <AM lemma="cit" src="auto">NNIP5-----A----</AM>
 <AM lemma="cit" src="auto">NNIP7-----A----</AM>
+<AM lemma="City-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-lnd92258-074-p2s1w15">
@@ -163,7 +164,10 @@
 <LM>w#w-lnd92258-074-p2s1w15</LM>
 </w.rf>
 <form>Hotel</form>
-<tag lemma="hotel" src="orig" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="hotel" src="orig">NNIS1-----A----</AM>
+<AM lemma="Hotel-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-lnd92258-074-p2s1w16">
 <src.rf>manual</src.rf>
@@ -735,7 +739,7 @@
 <form>Wien</form>
 <tag>
 <AM lemma="Wien_;K" src="orig">NNFXX-----A----</AM>
-<AM lemma="Wien_;G" src="auto">NNIS1-----A----</AM>
+<AM lemma="Wien_;G" src="auto" selected="1">NNIS1-----A----</AM>
 <AM lemma="Wien_;G" src="auto" recommended="1">NNIS4-----A----</AM>
 </tag>
 </m>

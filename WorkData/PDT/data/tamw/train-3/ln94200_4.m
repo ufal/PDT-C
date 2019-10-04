@@ -641,7 +641,10 @@
 <LM>w#w-ln94200-4-p2s3w2</LM>
 </w.rf>
 <form>ář</form>
-<tag lemma="ář-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="ář-99_:B_;S" src="orig">NNXXX-----A---8</AM>
+<AM lemma="ář-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94200-4-p2s3w3">
 <src.rf>manual</src.rf>

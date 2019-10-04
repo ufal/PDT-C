@@ -69,7 +69,10 @@
 <LM>w#w-mf920902-111-p2s1w3</LM>
 </w.rf>
 <form>ouš</form>
-<tag lemma="ouš-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="ouš-99_:B_;S" src="orig">NNXXX-----A---8</AM>
+<AM lemma="ouš-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920902-111-p2s1w4">
 <src.rf>manual</src.rf>
@@ -273,7 +276,10 @@
 <LM>w#w-mf920902-111-p2s3w6</LM>
 </w.rf>
 <form>a</form>
-<tag lemma="akciový_:B_^(jen_akciová_společnost)" src="orig" selected="1">AAXXX----1A---8</tag>
+<tag>
+<AM lemma="akciový_:B_^(jen_akciová_společnost)" src="orig">AAXXX----1A---8</AM>
+<AM lemma="akciový_^(jen_akciová_společnost)" src="manual" selected="1">AAXXX----1A---8</AM>
+</tag>
 </m>
 <m id="m-mf920902-111-p2s3w7">
 <src.rf>manual</src.rf>
@@ -289,7 +295,10 @@
 <LM>w#w-mf920902-111-p2s3w8</LM>
 </w.rf>
 <form>s</form>
-<tag lemma="společnost_:B" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="společnost_:B" src="orig">NNFXX-----A---8</AM>
+<AM lemma="společnost" src="manual" selected="1">NNFXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-mf920902-111-p2s3w9">
 <src.rf>manual</src.rf>
@@ -305,7 +314,10 @@
 <LM>w#w-mf920902-111-p2s3w10</LM>
 </w.rf>
 <form>Academy</form>
-<tag lemma="Academy_;K_,t" src="orig" selected="1">NNFXX-----A----</tag>
+<tag>
+<AM lemma="Academy_;K_,t" src="orig">NNFXX-----A----</AM>
+<AM lemma="Academy-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-mf920902-111-p2s3w11">
 <src.rf>manual</src.rf>
@@ -313,7 +325,10 @@
 <LM>w#w-mf920902-111-p2s3w11</LM>
 </w.rf>
 <form>for</form>
-<tag lemma="fórum" src="orig" selected="1">NNNP2-----A----</tag>
+<tag>
+<AM lemma="fórum" src="orig">NNNP2-----A----</AM>
+<AM lemma="for-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-mf920902-111-p2s3w12">
 <src.rf>manual</src.rf>
@@ -321,7 +336,10 @@
 <LM>w#w-mf920902-111-p2s3w12</LM>
 </w.rf>
 <form>cathering</form>
-<tag lemma="cathering_;K_,t" src="orig" selected="1">NNNXX-----A----</tag>
+<tag>
+<AM lemma="cathering_;K_,t" src="orig">NNNXX-----A----</AM>
+<AM lemma="cathering-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-mf920902-111-p2s3w13">
 <src.rf>manual</src.rf>
@@ -329,7 +347,10 @@
 <LM>w#w-mf920902-111-p2s3w13</LM>
 </w.rf>
 <form>and</form>
-<tag lemma="and-1_,t_^(obv._souč._anglických_názvů,_&quot;a&quot;)" src="auto" selected="1">J^-------------</tag>
+<tag>
+<AM lemma="and-1_,t_^(obv._souč._anglických_názvů,_&quot;a&quot;)" src="auto">J^-------------</AM>
+<AM lemma="and-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-mf920902-111-p2s3w14">
 <src.rf>manual</src.rf>
@@ -337,7 +358,10 @@
 <LM>w#w-mf920902-111-p2s3w14</LM>
 </w.rf>
 <form>tourism</form>
-<tag lemma="tourism_;K_,t" src="orig" selected="1">NNIXX-----A----</tag>
+<tag>
+<AM lemma="tourism_;K_,t" src="orig">NNIXX-----A----</AM>
+<AM lemma="tourism-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-mf920902-111-p2s3w15">
 <src.rf>manual</src.rf>
@@ -791,7 +815,10 @@
 <LM>w#w-mf920902-111-p2s7w19</LM>
 </w.rf>
 <form>li</form>
-<tag lemma="li-1" src="auto" selected="1">TT-------------</tag>
+<tag>
+<AM lemma="li-1" src="auto">TT-------------</AM>
+<AM lemma="li-2" src="manual" selected="1">J,-------------</AM>
+</tag>
 </m>
 <m id="m-mf920902-111-p2s7w20">
 <src.rf>manual</src.rf>

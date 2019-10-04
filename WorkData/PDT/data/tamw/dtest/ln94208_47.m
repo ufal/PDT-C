@@ -643,7 +643,10 @@
 <LM>w#w-ln94208-47-p4s1w16</LM>
 </w.rf>
 <form>stal</form>
-<tag lemma="stát-2_^(něco_se_přihodilo)" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag>
+<AM lemma="stát-2_^(něco_se_přihodilo)" src="orig">VpYS---XR-AA---</AM>
+<AM lemma="stát-2_:W_^(něco_se_přihodilo)" src="manual" selected="1">VpYS---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-ln94208-47-p4s1w17">
 <src.rf>manual</src.rf>
@@ -805,7 +808,10 @@
 <LM>w#w-ln94208-47-p4s2w14</LM>
 </w.rf>
 <form>zemřel</form>
-<tag lemma="zemřít" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag>
+<AM lemma="zemřít" src="orig">VpYS---XR-AA---</AM>
+<AM lemma="zemřít_:W" src="manual" selected="1">VpYS---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-ln94208-47-p4s2w15">
 <src.rf>manual</src.rf>
@@ -1057,7 +1063,7 @@
 <form>snad</form>
 <tag>
 <AM lemma="snad" src="orig">Db-------------</AM>
-<AM lemma="snad" src="auto" recommended="1">TT-------------</AM>
+<AM lemma="snad" src="auto" recommended="1" selected="1">TT-------------</AM>
 </tag>
 </m>
 <m id="m-ln94208-47-p5s1w25">
@@ -1090,7 +1096,10 @@
 <LM>w#w-ln94208-47-p5s1w28</LM>
 </w.rf>
 <form>sezoně</form>
-<tag lemma="sezona" src="orig" selected="1">NNFS6-----A----</tag>
+<tag>
+<AM lemma="sezona" src="orig">NNFS6-----A----</AM>
+<AM lemma="sezona_,s_^(^DD**sezóna)" src="manual" selected="1">NNFS6-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94208-47-p5s1w29">
 <src.rf>manual</src.rf>
@@ -1114,7 +1123,10 @@
 <LM>w#w-ln94208-47-p5s1w31</LM>
 </w.rf>
 <form>zpřístupněny</form>
-<tag lemma="zpřístupnit" src="orig" selected="1">VsTP---XX-AP---</tag>
+<tag>
+<AM lemma="zpřístupnit" src="orig">VsTP---XX-AP---</AM>
+<AM lemma="zpřístupnit_:W" src="manual" selected="1">VsTP---XX-AP---</AM>
+</tag>
 </m>
 <m id="m-ln94208-47-p5s1w32">
 <src.rf>manual</src.rf>

@@ -1461,7 +1461,7 @@
 <form>totiž</form>
 <tag>
 <AM lemma="totiž" src="orig">Db-------------</AM>
-<AM lemma="totiž-1" src="auto" recommended="1">J^-------------</AM>
+<AM lemma="totiž-1" src="auto" recommended="1" selected="1">J^-------------</AM>
 <AM lemma="totiž-2" src="auto">TT-------------</AM>
 </tag>
 </m>
@@ -1701,7 +1701,7 @@
 <AM lemma="druhý" src="auto">CrIP4---------6</AM>
 <AM lemma="druhý" src="auto">CrIP5---------6</AM>
 <AM lemma="druhý" src="auto">CrIS1----------</AM>
-<AM lemma="druhý" src="auto" recommended="1">CrIS4----------</AM>
+<AM lemma="druhý" src="auto" recommended="1" selected="1">CrIS4----------</AM>
 <AM lemma="druhý" src="auto">CrIS5----------</AM>
 <AM lemma="druhý" src="auto">CrMP1---------6</AM>
 <AM lemma="druhý" src="auto">CrMP4---------6</AM>
@@ -2014,7 +2014,10 @@
 <LM>w#w-mf920922-026-p2s12Bw7</LM>
 </w.rf>
 <form>Publicity</form>
-<tag lemma="publicita" src="orig" selected="1">NNFS2-----A----</tag>
+<tag>
+<AM lemma="publicita" src="orig">NNFS2-----A----</AM>
+<AM lemma="Publicity-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-mf920922-026-p2s12Bw8">
 <src.rf>manual</src.rf>
@@ -2022,7 +2025,10 @@
 <LM>w#w-mf920922-026-p2s12Bw8</LM>
 </w.rf>
 <form>and</form>
-<tag lemma="and-1_,t_^(obv._souč._anglických_názvů,_&quot;a&quot;)" src="auto" selected="1">J^-------------</tag>
+<tag>
+<AM lemma="and-1_,t_^(obv._souč._anglických_názvů,_&quot;a&quot;)" src="auto">J^-------------</AM>
+<AM lemma="and-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-mf920922-026-p2s12Bw9">
 <src.rf>manual</src.rf>
@@ -2030,7 +2036,10 @@
 <LM>w#w-mf920922-026-p2s12Bw9</LM>
 </w.rf>
 <form>Promotion</form>
-<tag lemma="Promotion_;K_,t" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="Promotion_;K_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="Promotion-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-mf920922-026-p2s12Bw10">
 <src.rf>manual</src.rf>
@@ -2038,7 +2047,10 @@
 <LM>w#w-mf920922-026-p2s12Bw10</LM>
 </w.rf>
 <form>agency</form>
-<tag lemma="agency_;K_,t" src="orig" selected="1">NNFXX-----A----</tag>
+<tag>
+<AM lemma="agency_;K_,t" src="orig">NNFXX-----A----</AM>
+<AM lemma="agency-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-mf920922-026-p2s12Bw11">
 <src.rf>manual</src.rf>
@@ -2102,7 +2114,10 @@
 <LM>w#w-mf920922-026-p2s12Bw18</LM>
 </w.rf>
 <form>Kčs</form>
-<tag lemma="Kčs-1_:B_^(Koruna_čs.)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="Kčs-1_:B_^(Koruna_čs.)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="Kčs-1_:B_^(Koruna_čs.)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920922-026-p2s12Bw19">
 <src.rf>manual</src.rf>

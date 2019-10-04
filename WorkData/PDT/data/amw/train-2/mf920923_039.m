@@ -35,7 +35,10 @@
 <LM>w#w-mf920923-039-p1s1w3</LM>
 </w.rf>
 <form>Sládek</form>
-<tag lemma="sládek" src="orig" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="sládek" src="orig">NNMS1-----A----</AM>
+<AM lemma="Sládek_;S" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920923-039-p1s1w4">
 <src.rf>manual</src.rf>
@@ -75,7 +78,10 @@
 <LM>w#w-mf920923-039-p1s1w8</LM>
 </w.rf>
 <form>FS</form>
-<tag lemma="FS_:B_;K_^(Federální_shromáždění)" src="orig" selected="1">NNNXX-----A---8</tag>
+<tag>
+<AM lemma="FS_:B_;K_^(Federální_shromáždění)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="FS-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920923-039-p1s1w9">
 <src.rf>manual</src.rf>
@@ -109,7 +115,7 @@
 <form>ačkoliv</form>
 <tag>
 <AM lemma="ačkoliv" src="orig">J,-------------</AM>
-<AM lemma="ačkoli" src="auto" recommended="1">J,------------1</AM>
+<AM lemma="ačkoli" src="auto" recommended="1" selected="1">J,------------1</AM>
 </tag>
 </m>
 <m id="m-mf920923-039-p1s1w13">
@@ -166,7 +172,10 @@
 <LM>w#w-mf920923-039-p1s1w19</LM>
 </w.rf>
 <form>FS</form>
-<tag lemma="FS_:B_;K_^(Federální_shromáždění)" src="orig" selected="1">NNNXX-----A---8</tag>
+<tag>
+<AM lemma="FS_:B_;K_^(Federální_shromáždění)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="FS-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920923-039-p1s1w20">
 <src.rf>manual</src.rf>

@@ -261,6 +261,7 @@
 <AM lemma="mezirezortní" src="auto">AAMS2----1A----</AM>
 <AM lemma="mezirezortní" src="auto">AAMS4----1A----</AM>
 <AM lemma="mezirezortní" src="auto" recommended="1">AANS2----1A----</AM>
+<AM lemma="meziresortní_,s_^(^DD**mezirezortní)" src="manual" selected="1">AANS2----1A----</AM>
 </tag>
 </m>
 <m id="m-ln95048-162-p2s1Bw18">
@@ -649,7 +650,10 @@
 <LM>w#w-ln95048-162-p2s3w18</LM>
 </w.rf>
 <form>ČD</form>
-<tag lemma="ČD_:B_;K_^(České_dráhy)" src="auto" selected="1">NNFPX-----A---8</tag>
+<tag>
+<AM lemma="ČD_:B_;K_^(České_dráhy)" src="auto">NNFPX-----A---8</AM>
+<AM lemma="ČD_:B_;K_^(České_dráhy)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95048-162-p2s3w19">
 <src.rf>manual</src.rf>
@@ -2187,7 +2191,7 @@
 <form>přičemž</form>
 <tag>
 <AM lemma="přičemž" src="orig">J,-------------</AM>
-<AM lemma="přičemž" src="auto" recommended="1">Db-------------</AM>
+<AM lemma="přičemž" src="auto" recommended="1" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m-ln95048-162-p6s1w30">

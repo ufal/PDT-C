@@ -144,7 +144,7 @@
 <AM lemma="řídicí_^(^IC*2t)" src="auto">AAIP4----1A----</AM>
 <AM lemma="řídicí_^(^IC*2t)" src="auto">AAIP5----1A----</AM>
 <AM lemma="řídicí_^(^IC*2t)" src="auto">AAIS1----1A----</AM>
-<AM lemma="řídicí_^(^IC*2t)" src="auto" recommended="1">AAIS4----1A----</AM>
+<AM lemma="řídicí_^(^IC*2t)" src="auto" recommended="1" selected="1">AAIS4----1A----</AM>
 <AM lemma="řídicí_^(^IC*2t)" src="auto">AAIS5----1A----</AM>
 <AM lemma="řídicí_^(^IC*2t)" src="auto">AAMP1----1A----</AM>
 <AM lemma="řídicí_^(^IC*2t)" src="auto">AAMP4----1A----</AM>

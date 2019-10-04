@@ -19,7 +19,10 @@
 <LM>w#w-ln94200-7-p1s1w1</LM>
 </w.rf>
 <form>Von</form>
-<tag lemma="von-2_,t" src="orig" selected="1">RR--X----------</tag>
+<tag>
+<AM lemma="von-2_,t" src="orig">RR--X----------</AM>
+<AM lemma="Von-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94200-7-p1s1w2">
 <src.rf>manual</src.rf>
@@ -189,7 +192,10 @@
 <LM>w#w-ln94200-7-p2s1w19</LM>
 </w.rf>
 <form>Von</form>
-<tag lemma="von-2_,t" src="orig" selected="1">RR--X----------</tag>
+<tag>
+<AM lemma="von-2_,t" src="orig">RR--X----------</AM>
+<AM lemma="Von-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94200-7-p2s1w20">
 <src.rf>manual</src.rf>
@@ -383,7 +389,10 @@
 <LM>w#w-ln94200-7-p2s2w17</LM>
 </w.rf>
 <form>US</form>
-<tag lemma="US-2_:B_,t_^(americký)" src="orig" selected="1">AAXXX----1A---8</tag>
+<tag>
+<AM lemma="US-2_:B_,t_^(americký)" src="orig">AAXXX----1A---8</AM>
+<AM lemma="US-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94200-7-p2s2w18">
 <src.rf>manual</src.rf>
@@ -403,6 +412,8 @@
 <AM lemma="arma_,h" src="auto">NNFP4-----A----</AM>
 <AM lemma="arma_,h" src="auto">NNFP5-----A----</AM>
 <AM lemma="arma_,h" src="auto" recommended="1">NNFS2-----A----</AM>
+<AM lemma="army_,t" src="manual">NNXXX-----A----</AM>
+<AM lemma="Army-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-ln94200-7-p2s2w19">
@@ -411,7 +422,10 @@
 <LM>w#w-ln94200-7-p2s2w19</LM>
 </w.rf>
 <form>von</form>
-<tag lemma="von-2_,t" src="orig" selected="1">RR--X----------</tag>
+<tag>
+<AM lemma="von-2_,t" src="orig">RR--X----------</AM>
+<AM lemma="von-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94200-7-p2s2w20">
 <src.rf>manual</src.rf>

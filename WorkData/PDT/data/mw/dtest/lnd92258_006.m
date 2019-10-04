@@ -215,7 +215,10 @@
 <LM>w#w-lnd92258-006-p2s2w21</LM>
 </w.rf>
 <form>MPLA</form>
-<tag lemma="MPLA_:B_;K_,t_^(Lidové_hnutí_za_osvobození_Angoly)" src="auto" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="MPLA_:B_;K_,t_^(Lidové_hnutí_za_osvobození_Angoly)" src="auto">NNXXX-----A---8</AM>
+<AM lemma="MPLA-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd92258-006-p2s2w22">
 <src.rf>manual</src.rf>
@@ -295,7 +298,10 @@
 <LM>w#w-lnd92258-006-p2s2w31</LM>
 </w.rf>
 <form>UNITA</form>
-<tag lemma="UNITA_:B_;K_;p_^(partyz._org._v_Angole)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="UNITA_:B_;K_;p_^(partyz._org._v_Angole)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="UNITA-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd92258-006-p2s2w32">
 <src.rf>manual</src.rf>

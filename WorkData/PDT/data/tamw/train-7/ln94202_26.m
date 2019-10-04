@@ -259,7 +259,10 @@
 <LM>w#w-ln94202-26-p1s1w31</LM>
 </w.rf>
 <form>mechanismům</form>
-<tag lemma="mechanismus" src="orig" selected="1">NNIP3-----A----</tag>
+<tag>
+<AM lemma="mechanismus" src="orig">NNIP3-----A----</AM>
+<AM lemma="mechanismus_,s_^(^DD**mechanizmus)" src="manual" selected="1">NNIP3-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94202-26-p1s1w32">
 <src.rf>manual</src.rf>
@@ -347,7 +350,10 @@
 <LM>w#w-ln94202-26-p1s1w42</LM>
 </w.rf>
 <form>mechanismem</form>
-<tag lemma="mechanismus" src="orig" selected="1">NNIS7-----A----</tag>
+<tag>
+<AM lemma="mechanismus" src="orig">NNIS7-----A----</AM>
+<AM lemma="mechanismus_,s_^(^DD**mechanizmus)" src="manual" selected="1">NNIS7-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94202-26-p1s1w43">
 <src.rf>manual</src.rf>
@@ -403,7 +409,10 @@
 <LM>w#w-ln94202-26-p1s1w49</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-2" src="auto" selected="1">Dg-------2A----</tag>
+<tag>
+<AM lemma="hodně-2" src="auto">Dg-------2A----</AM>
+<AM lemma="více_^(více_+_2._p.,_více_peněz)" src="manual" selected="1">Ca--2----------</AM>
+</tag>
 </m>
 <m id="m-ln94202-26-p1s1w50">
 <src.rf>manual</src.rf>
@@ -485,7 +494,10 @@
 <LM>w#w-ln94202-26-p2s1w2</LM>
 </w.rf>
 <form>V</form>
-<tag lemma="V-0_:B_;Y" src="orig" selected="1">NNMXX-----A---8</tag>
+<tag>
+<AM lemma="V-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
+<AM lemma="V-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln94202-26-p2s1w3">
 <src.rf>manual</src.rf>

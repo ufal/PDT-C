@@ -109,7 +109,10 @@
 <LM>w#w-lnd94103-043-p1s2w3</LM>
 </w.rf>
 <form>dk</form>
-<tag lemma="dk-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="dk-99_:B_;S" src="orig">NNXXX-----A---8</AM>
+<AM lemma="dk-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd94103-043-p1s2w4">
 <src.rf>manual</src.rf>
@@ -397,6 +400,7 @@
 <AM lemma="rezortní_,s_,x" src="auto">AANP3----1A----</AM>
 <AM lemma="rezortní_,s_,x" src="auto">AANS6----1A----</AM>
 <AM lemma="rezortní_,s_,x" src="auto">AANS7----1A----</AM>
+<AM lemma="resortní_,s_^(^DD**rezortní) " src="manual" selected="1">AAMS7----1A----</AM>
 </tag>
 </m>
 <m id="m-lnd94103-043-p1s4w4">
@@ -535,7 +539,10 @@
 <LM>w#w-lnd94103-043-p1s5w6</LM>
 </w.rf>
 <form>ČR</form>
-<tag lemma="ČR-1_:B_;G_^(Česká_republika)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd94103-043-p1s5w7">
 <src.rf>manual</src.rf>
@@ -741,7 +748,10 @@
 <LM>w#w-lnd94103-043-p1s8w1</LM>
 </w.rf>
 <form>N</form>
-<tag lemma="N-0_:B_;Y" src="orig" selected="1">NNMXX-----A---8</tag>
+<tag>
+<AM lemma="N-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
+<AM lemma="N-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd94103-043-p1s8w2">
 <src.rf>manual</src.rf>
@@ -855,7 +865,10 @@
 <LM>w#w-lnd94103-043-p1s9w4</LM>
 </w.rf>
 <form>sešel</form>
-<tag lemma="sejít" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag>
+<AM lemma="sejít" src="orig">VpYS---XR-AA---</AM>
+<AM lemma="sejít_:W" src="manual" selected="1">VpYS---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-lnd94103-043-p1s9w5">
 <src.rf>manual</src.rf>
@@ -937,7 +950,10 @@
 <LM>w#w-lnd94103-043-p1s10w1</LM>
 </w.rf>
 <form>LN</form>
-<tag lemma="LN-1_:B_;R_^(Lidové_noviny,_deník)" src="orig" selected="1">NNFPX-----A---8</tag>
+<tag>
+<AM lemma="LN-1_:B_;R_^(Lidové_noviny,_deník)" src="orig">NNFPX-----A---8</AM>
+<AM lemma="LN-1_:B_;K_;R_^(Lidové_noviny)" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd94103-043-p1s10w2">
 <src.rf>manual</src.rf>
@@ -953,7 +969,10 @@
 <LM>w#w-lnd94103-043-p1s10w3</LM>
 </w.rf>
 <form>přinesou</form>
-<tag lemma="přinést" src="orig" selected="1">VB-P---3P-AA---</tag>
+<tag>
+<AM lemma="přinést" src="orig">VB-P---3P-AA---</AM>
+<AM lemma="přinést_:W" src="manual" selected="1">VB-P---3P-AA---</AM>
+</tag>
 </m>
 <m id="m-lnd94103-043-p1s10w4">
 <src.rf>manual</src.rf>

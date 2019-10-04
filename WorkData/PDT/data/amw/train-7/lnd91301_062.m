@@ -351,7 +351,10 @@
 <LM>w#w-lnd91301-062-p1s3w17</LM>
 </w.rf>
 <form>resortů</form>
-<tag lemma="rezort_,x" src="orig" selected="1">NNIP2-----A----</tag>
+<tag>
+<AM lemma="rezort_,x" src="orig">NNIP2-----A----</AM>
+<AM lemma="resort_,s_^(^DD**rezort)" src="manual" selected="1">NNIP2-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd91301-062-p1s3w18">
 <src.rf>manual</src.rf>
@@ -733,7 +736,10 @@
 <LM>w#w-lnd91301-062-p3s1w3</LM>
 </w.rf>
 <form>Lao</form>
-<tag lemma="Lao_;E" src="auto" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Lao_;E" src="auto">NNMS1-----A----</AM>
+<AM lemma="Lao_;S_;E" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd91301-062-p3s1w4">
 <src.rf>manual</src.rf>
@@ -742,7 +748,10 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>Šan</form>
-<tag lemma="Šan-1_;E" src="auto" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Šan-1_;E" src="auto">NNMS1-----A----</AM>
+<AM lemma="Šan-1_;Y_;E" src="manual" selected="1">NNMXX-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd91301-062-p3s1w5">
 <src.rf>manual</src.rf>
@@ -758,7 +767,10 @@
 <LM>w#w-lnd91301-062-p3s1w6</LM>
 </w.rf>
 <form>čching</form>
-<tag lemma="čching_;Y_,t" src="orig" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="čching_;Y_,t" src="orig">NNMS1-----A----</AM>
+<AM lemma="čching_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd91301-062-p3s1w7">
 <src.rf>manual</src.rf>
@@ -1239,6 +1251,7 @@
 <tag>
 <AM lemma="vánoce" src="orig">NNFP6-----A----</AM>
 <AM lemma="Vánoce_,x" src="auto" recommended="1">NNFP6-----A----</AM>
+<AM lemma="vánoce_,i_^(^DS**Vánoce)" src="manual" selected="1">NNFP6-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd91301-062-p4s1w6">
@@ -1298,6 +1311,7 @@
 <tag>
 <AM lemma="Nicolae_;Y" src="orig">NNMXX-----A----</AM>
 <AM lemma="Nicolae_;Y_,t" src="auto" recommended="1">NNFXX-----A----</AM>
+<AM lemma="Nicolae-2_;Y" src="manual" selected="1">NNMXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd91301-062-p4s1w13">
@@ -2004,7 +2018,10 @@
 <LM>w#w-lnd91301-062-p6s1w9</LM>
 </w.rf>
 <form>jen</form>
-<tag lemma="jen-1" src="auto" selected="1">TT-------------</tag>
+<tag>
+<AM lemma="jen-1" src="auto">TT-------------</AM>
+<AM lemma="jen-4_^(pouze)" src="manual" selected="1">Db-------------</AM>
+</tag>
 </m>
 <m id="m-lnd91301-062-p6s1w10">
 <src.rf>manual</src.rf>
@@ -2095,7 +2112,10 @@
 <LM>w#w-lnd91301-062-p6s1w20</LM>
 </w.rf>
 <form>J</form>
-<tag lemma="J-0_:B_;Y" src="orig" selected="1">NNMXX-----A---8</tag>
+<tag>
+<AM lemma="J-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
+<AM lemma="J-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd91301-062-p6s1w21">
 <src.rf>manual</src.rf>
@@ -2666,7 +2686,10 @@
 <LM>w#w-lnd91301-062-p7s3w19</LM>
 </w.rf>
 <form>Inkatha</form>
-<tag lemma="Inkatha_;G" src="orig" selected="1">NNFS1-----A----</tag>
+<tag>
+<AM lemma="Inkatha_;G" src="orig">NNFS1-----A----</AM>
+<AM lemma="Inkatha_;G_;K" src="manual" selected="1">NNFS1-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd91301-062-p7s3w20">
 <src.rf>manual</src.rf>

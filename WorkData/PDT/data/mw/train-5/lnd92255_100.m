@@ -37,7 +37,10 @@
 <LM>w#w-lnd92255-100-p2s1Aw2</LM>
 </w.rf>
 <form>LN</form>
-<tag lemma="LN-1_:B_;R_^(Lidové_noviny,_deník)" src="orig" selected="1">NNFPX-----A---8</tag>
+<tag>
+<AM lemma="LN-1_:B_;R_^(Lidové_noviny,_deník)" src="orig">NNFPX-----A---8</AM>
+<AM lemma="LN-1_:B_;K_;R_^(Lidové_noviny)" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd92255-100-p2s1Aw3">
 <src.rf>manual</src.rf>
@@ -151,7 +154,10 @@
 <LM>w#w-lnd92255-100-p3s1Aw8</LM>
 </w.rf>
 <form>HZDS</form>
-<tag lemma="HZDS-1_:B_;K_;p_,t_^(Hnutie_za_demokratické_Slovensko)" src="orig" selected="1">NNNXX-----A---8</tag>
+<tag>
+<AM lemma="HZDS-1_:B_;K_;p_,t_^(Hnutie_za_demokratické_Slovensko)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="HZDS-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd92255-100-p3s1Aw9">
 <src.rf>manual</src.rf>
@@ -611,7 +617,10 @@
 <LM>w#w-lnd92255-100-p3s3w7</LM>
 </w.rf>
 <form>jen</form>
-<tag lemma="jen-1" src="auto" selected="1">TT-------------</tag>
+<tag>
+<AM lemma="jen-1" src="auto">TT-------------</AM>
+<AM lemma="jen-4_^(pouze)" src="manual" selected="1">Db-------------</AM>
+</tag>
 </m>
 <m id="m-lnd92255-100-p3s3w8">
 <src.rf>manual</src.rf>
@@ -1237,7 +1246,10 @@
 <LM>w#w-lnd92255-100-p1s3w2</LM>
 </w.rf>
 <form>jen</form>
-<tag lemma="jen-1" src="auto" selected="1">TT-------------</tag>
+<tag>
+<AM lemma="jen-1" src="auto">TT-------------</AM>
+<AM lemma="jen-4_^(pouze)" src="manual" selected="1">Db-------------</AM>
+</tag>
 </m>
 <m id="m-lnd92255-100-p1s3w3">
 <src.rf>manual</src.rf>
@@ -1407,7 +1419,10 @@
 <LM>w#w-lnd92255-100-p2s1Bw2</LM>
 </w.rf>
 <form>jen</form>
-<tag lemma="jen-1" src="auto" selected="1">TT-------------</tag>
+<tag>
+<AM lemma="jen-1" src="auto">TT-------------</AM>
+<AM lemma="jen-4_^(pouze)" src="manual" selected="1">Db-------------</AM>
+</tag>
 </m>
 <m id="m-lnd92255-100-p2s1Bw3">
 <src.rf>manual</src.rf>
@@ -1675,7 +1690,7 @@
 <form>kdykoliv</form>
 <tag>
 <AM lemma="kdykoliv" src="orig">Db-------------</AM>
-<AM lemma="kdykoli" src="auto" recommended="1">Db------------1</AM>
+<AM lemma="kdykoli" src="auto" recommended="1" selected="1">Db------------1</AM>
 </tag>
 </m>
 <m id="m-lnd92255-100-p2s2w12">
@@ -1740,7 +1755,10 @@
 <LM>w#w-lnd92255-100-p2s2w19</LM>
 </w.rf>
 <form>Čechů</form>
-<tag lemma="Čech_;E_;S" src="auto" selected="1">NNMP2-----A----</tag>
+<tag>
+<AM lemma="Čech_;E_;S" src="auto">NNMP2-----A----</AM>
+<AM lemma="Čech_;S_;E" src="manual" selected="1">NNMP2-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92255-100-p2s2w20">
 <src.rf>manual</src.rf>
@@ -1780,7 +1798,10 @@
 <LM>w#w-lnd92255-100-p2s2w24</LM>
 </w.rf>
 <form>jen</form>
-<tag lemma="jen-1" src="auto" selected="1">TT-------------</tag>
+<tag>
+<AM lemma="jen-1" src="auto">TT-------------</AM>
+<AM lemma="jen-4_^(pouze)" src="manual" selected="1">Db-------------</AM>
+</tag>
 </m>
 <m id="m-lnd92255-100-p2s2w25">
 <src.rf>manual</src.rf>
@@ -1958,7 +1979,10 @@
 <LM>w#w-lnd92255-100-p3s1Bw4</LM>
 </w.rf>
 <form>St</form>
-<tag lemma="St-6_:B_,t_^(saint,_svatý)" src="auto" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="St-6_:B_,t_^(saint,_svatý)" src="auto">AAXXX----1A----</AM>
+<AM lemma="St-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-lnd92255-100-p3s1Bw5">
 <src.rf>manual</src.rf>
@@ -1966,7 +1990,10 @@
 <LM>w#w-lnd92255-100-p3s1Bw5</LM>
 </w.rf>
 <form>Jean</form>
-<tag lemma="Jean_;Y" src="orig" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Jean_;Y" src="orig">NNMS1-----A----</AM>
+<AM lemma="Jean-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-lnd92255-100-p3s1Bw6">
 <src.rf>manual</src.rf>
@@ -1974,7 +2001,10 @@
 <LM>w#w-lnd92255-100-p3s1Bw6</LM>
 </w.rf>
 <form>de</form>
-<tag lemma="de_,t_^(z_franc._de,_zejm._ve_jménech)" src="orig" selected="1">RR--1----------</tag>
+<tag>
+<AM lemma="de_,t_^(z_franc._de,_zejm._ve_jménech)" src="orig">RR--1----------</AM>
+<AM lemma="de-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-lnd92255-100-p3s1Bw7">
 <src.rf>manual</src.rf>
@@ -1982,7 +2012,10 @@
 <LM>w#w-lnd92255-100-p3s1Bw7</LM>
 </w.rf>
 <form>Luz</form>
-<tag lemma="luza" src="orig" selected="1">NNFP2-----A----</tag>
+<tag>
+<AM lemma="luza" src="orig">NNFP2-----A----</AM>
+<AM lemma="Luz-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 </s>
 </mdata>

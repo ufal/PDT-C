@@ -69,7 +69,10 @@
 <LM>w#w-mf930703-060-p2s1w5</LM>
 </w.rf>
 <form>spa</form>
-<tag lemma="spa-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="spa-99_:B_;S" src="orig">NNXXX-----A---8</AM>
+<AM lemma="spa-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930703-060-p2s1w6">
 <src.rf>manual</src.rf>
@@ -479,7 +482,10 @@
 <LM>w#w-mf930703-060-p2s2w20</LM>
 </w.rf>
 <form>Claude</form>
-<tag lemma="Claude_;Y_,t" src="auto" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Claude_;Y_,t" src="auto">NNMS1-----A----</AM>
+<AM lemma="Claude_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930703-060-p2s2w21">
 <src.rf>manual</src.rf>
@@ -503,7 +509,10 @@
 <LM>w#w-mf930703-060-p2s2w23</LM>
 </w.rf>
 <form>mj</form>
-<tag lemma="mj-1_:B_^(mimo_jiné)" src="orig" selected="1">Db------------8</tag>
+<tag>
+<AM lemma="mj-1_:B_^(mimo_jiné)" src="orig">Db------------8</AM>
+<AM lemma="mj-1_:B_^(mimo_jiné)" src="manual" selected="1">Db-------------</AM>
+</tag>
 </m>
 <m id="m-mf930703-060-p2s2w24">
 <src.rf>manual</src.rf>
@@ -873,7 +882,10 @@
 <LM>w#w-mf930703-060-p2s7w1</LM>
 </w.rf>
 <form>I</form>
-<tag lemma="I-0_:B_;Y" src="orig" selected="1">NNMXX-----A---8</tag>
+<tag>
+<AM lemma="I-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
+<AM lemma="I-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-mf930703-060-p2s7w2">
 <src.rf>manual</src.rf>

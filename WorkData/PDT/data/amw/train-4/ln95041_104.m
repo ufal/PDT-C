@@ -554,6 +554,7 @@
 <AM lemma="protekcionizmus" src="auto">NNIS2-----A----</AM>
 <AM lemma="protekcionizmus" src="auto" recommended="1">NNIS3-----A----</AM>
 <AM lemma="protekcionizmus" src="auto">NNIS6-----A----</AM>
+<AM lemma="protekcionismus_,s_^(^DD**protekcionizmus)" src="manual" selected="1">NNIS3-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95041-104-p3s1w15">
@@ -636,7 +637,10 @@
 <LM>w#w-ln95041-104-p3s2w7</LM>
 </w.rf>
 <form>ČR</form>
-<tag lemma="ČR-1_:B_;G_^(Česká_republika)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95041-104-p3s2w8">
 <src.rf>manual</src.rf>
@@ -718,7 +722,10 @@
 <LM>w#w-ln95041-104-p3s3w4</LM>
 </w.rf>
 <form>J</form>
-<tag lemma="J-0_:B_;Y" src="orig" selected="1">NNMXX-----A---8</tag>
+<tag>
+<AM lemma="J-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
+<AM lemma="J-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95041-104-p3s3w5">
 <src.rf>manual</src.rf>
@@ -938,7 +945,10 @@
 <LM>w#w-ln95041-104-p3s5w1</LM>
 </w.rf>
 <form>Více</form>
-<tag lemma="hodně-2" src="auto" selected="1">Dg-------2A----</tag>
+<tag>
+<AM lemma="hodně-2" src="auto">Dg-------2A----</AM>
+<AM lemma="hodně-3" src="manual" selected="1">Dg-------2A----</AM>
+</tag>
 </m>
 <m id="m-ln95041-104-p3s5w2">
 <src.rf>manual</src.rf>
@@ -962,7 +972,10 @@
 <LM>w#w-ln95041-104-p3s5w4</LM>
 </w.rf>
 <form>strana</form>
-<tag lemma="strana-4_^(v_knize,_rukopise,...)" src="orig" selected="1">NNFS1-----A----</tag>
+<tag>
+<AM lemma="strana-4_^(v_knize,_rukopise,...)" src="orig">NNFS1-----A----</AM>
+<AM lemma="strana" src="manual" selected="1">NNFS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95041-104-p3s5w5">
 <src.rf>manual</src.rf>

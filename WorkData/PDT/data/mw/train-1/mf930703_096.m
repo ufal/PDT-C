@@ -45,7 +45,10 @@
 <LM>w#w-mf930703-096-p1s2w1</LM>
 </w.rf>
 <form>NEDOŠLO</form>
-<tag lemma="dojít" src="orig" selected="1">VpNS---XR-NA---</tag>
+<tag>
+<AM lemma="dojít" src="orig">VpNS---XR-NA---</AM>
+<AM lemma="dojít_:W" src="manual" selected="1">VpNS---XR-NA---</AM>
+</tag>
 </m>
 <m id="m-mf930703-096-p1s2w2">
 <src.rf>manual</src.rf>
@@ -77,7 +80,10 @@
 <LM>w#w-mf930703-096-p1s2w5</LM>
 </w.rf>
 <form>NHL</form>
-<tag lemma="NHL-1_:B_;K_;w_^(Nár._hokejová_liga)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="NHL-1_:B_;K_;w_^(Nár._hokejová_liga)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="NHL-1_:B_;K_^(Nár._hokejová_liga)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930703-096-p1s2w6">
 <src.rf>manual</src.rf>
@@ -167,7 +173,10 @@
 <LM>w#w-mf930703-096-p2s1w9</LM>
 </w.rf>
 <form>NHL</form>
-<tag lemma="NHL-1_:B_;K_;w_^(Nár._hokejová_liga)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="NHL-1_:B_;K_;w_^(Nár._hokejová_liga)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="NHL-1_:B_;K_^(Nár._hokejová_liga)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930703-096-p2s1w10">
 <src.rf>manual</src.rf>
@@ -207,7 +216,10 @@
 <LM>w#w-mf930703-096-p2s1w14</LM>
 </w.rf>
 <form>nedošlo</form>
-<tag lemma="dojít" src="orig" selected="1">VpNS---XR-NA---</tag>
+<tag>
+<AM lemma="dojít" src="orig">VpNS---XR-NA---</AM>
+<AM lemma="dojít_:W" src="manual" selected="1">VpNS---XR-NA---</AM>
+</tag>
 </m>
 <m id="m-mf930703-096-p2s1w15">
 <src.rf>manual</src.rf>
@@ -345,7 +357,10 @@
 <LM>w#w-mf930703-096-p2s2w16</LM>
 </w.rf>
 <form>NHL</form>
-<tag lemma="NHL-1_:B_;K_;w_^(Nár._hokejová_liga)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="NHL-1_:B_;K_;w_^(Nár._hokejová_liga)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="NHL-1_:B_;K_^(Nár._hokejová_liga)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930703-096-p2s2w17">
 <src.rf>manual</src.rf>
@@ -517,7 +532,10 @@
 <LM>w#w-mf930703-096-p2s3w13</LM>
 </w.rf>
 <form>dolarů</form>
-<tag lemma="dolar_;b" src="orig" selected="1">NNIP2-----A----</tag>
+<tag>
+<AM lemma="dolar_;b" src="orig">NNIP2-----A----</AM>
+<AM lemma="dolar" src="manual" selected="1">NNIP2-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930703-096-p2s3w14">
 <src.rf>manual</src.rf>
@@ -615,7 +633,10 @@
 <LM>w#w-mf930703-096-p3s1w11</LM>
 </w.rf>
 <form>nedošlo</form>
-<tag lemma="dojít" src="orig" selected="1">VpNS---XR-NA---</tag>
+<tag>
+<AM lemma="dojít" src="orig">VpNS---XR-NA---</AM>
+<AM lemma="dojít_:W" src="manual" selected="1">VpNS---XR-NA---</AM>
+</tag>
 </m>
 <m id="m-mf930703-096-p3s1w12">
 <src.rf>manual</src.rf>
@@ -680,7 +701,7 @@
 </w.rf>
 <form>Riche</form>
 <tag>
-<AM lemma="Rich_;Y" src="orig">NNMS2-----A----</AM>
+<AM lemma="Rich_;Y" src="orig" selected="1">NNMS2-----A----</AM>
 <AM lemma="Riche_;S" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Riche_;S" src="auto">NNMS5-----A----</AM>
 </tag>
@@ -693,7 +714,7 @@
 <form>Wintera</form>
 <tag>
 <AM lemma="Winter_;S" src="orig">NNMS2-----A----</AM>
-<AM lemma="Winter_;S" src="auto" recommended="1">NNMS2-----A---2</AM>
+<AM lemma="Winter_;S" src="auto" recommended="1" selected="1">NNMS2-----A---2</AM>
 <AM lemma="Winter_;S" src="auto">NNMS4-----A---2</AM>
 </tag>
 </m>
@@ -981,7 +1002,10 @@
 <LM>w#w-mf930703-096-p4s1w9</LM>
 </w.rf>
 <form>třímilionový</form>
-<tag lemma="třímiliónový" src="orig" selected="1">AAIS4----1A----</tag>
+<tag>
+<AM lemma="třímiliónový" src="orig">AAIS4----1A----</AM>
+<AM lemma="třímilionový_^(^DD**třímiliónový)" src="manual" selected="1">AAIS4----1A----</AM>
+</tag>
 </m>
 <m id="m-mf930703-096-p4s1w10">
 <src.rf>manual</src.rf>
@@ -1005,7 +1029,10 @@
 <LM>w#w-mf930703-096-p4s1w12</LM>
 </w.rf>
 <form>NHL</form>
-<tag lemma="NHL-1_:B_;K_;w_^(Nár._hokejová_liga)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="NHL-1_:B_;K_;w_^(Nár._hokejová_liga)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="NHL-1_:B_;K_^(Nár._hokejová_liga)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930703-096-p4s1w13">
 <src.rf>manual</src.rf>
@@ -1013,7 +1040,10 @@
 <LM>w#w-mf930703-096-p4s1w13</LM>
 </w.rf>
 <form>podepsat</form>
-<tag lemma="podepsat" src="orig" selected="1">Vf--------A----</tag>
+<tag>
+<AM lemma="podepsat" src="orig">Vf--------A----</AM>
+<AM lemma="podepsat_:W" src="manual" selected="1">Vf--------A----</AM>
+</tag>
 </m>
 <m id="m-mf930703-096-p4s1w14">
 <src.rf>manual</src.rf>
@@ -1167,7 +1197,10 @@
 <LM>w#w-mf930703-096-p5s1w2</LM>
 </w.rf>
 <form>NHL</form>
-<tag lemma="NHL-1_:B_;K_;w_^(Nár._hokejová_liga)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="NHL-1_:B_;K_;w_^(Nár._hokejová_liga)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="NHL-1_:B_;K_^(Nár._hokejová_liga)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930703-096-p5s1w3">
 <src.rf>manual</src.rf>
@@ -1175,7 +1208,10 @@
 <LM>w#w-mf930703-096-p5s1w3</LM>
 </w.rf>
 <form>Gary</form>
-<tag lemma="Gary_;S" src="auto" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Gary_;S" src="auto">NNMS1-----A----</AM>
+<AM lemma="Gary_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930703-096-p5s1w4">
 <src.rf>manual</src.rf>
@@ -1191,7 +1227,11 @@
 <LM>w#w-mf930703-096-p5s1w5</LM>
 </w.rf>
 <form>zaujal</form>
-<tag lemma="zaujmout_^(upoutat_pozornost)" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag>
+<AM lemma="zaujmout_^(upoutat_pozornost)" src="orig">VpYS---XR-AA---</AM>
+<AM lemma="zaujmout_:W^(upoutat_pozornost)" src="manual">VpYS---XR-AA---</AM>
+<AM lemma="zaujmout_:W_^(upoutat_pozornost)" src="manual" selected="1">VpYS---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-mf930703-096-p5s1w6">
 <src.rf>manual</src.rf>
@@ -1499,7 +1539,10 @@
 <LM>w#w-mf930703-096-p5s3w19</LM>
 </w.rf>
 <form>NHL</form>
-<tag lemma="NHL-1_:B_;K_;w_^(Nár._hokejová_liga)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="NHL-1_:B_;K_;w_^(Nár._hokejová_liga)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="NHL-1_:B_;K_^(Nár._hokejová_liga)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930703-096-p5s3w20">
 <src.rf>manual</src.rf>

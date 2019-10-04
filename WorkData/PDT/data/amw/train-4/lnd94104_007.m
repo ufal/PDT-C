@@ -77,7 +77,10 @@
 <LM>w#w-lnd94104-007-p1s2w3</LM>
 </w.rf>
 <form>ge</form>
-<tag lemma="ge-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="ge-99_:B_;S" src="orig">NNXXX-----A---8</AM>
+<AM lemma="ge-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd94104-007-p1s2w4">
 <src.rf>manual</src.rf>
@@ -305,7 +308,10 @@
 <LM>w#w-lnd94104-007-p1s4w4</LM>
 </w.rf>
 <form>milionů</form>
-<tag lemma="milión`1000000" src="orig" selected="1">NNIP2-----A----</tag>
+<tag>
+<AM lemma="milión`1000000" src="orig">NNIP2-----A----</AM>
+<AM lemma="milion`1000000_,s_^(^DD**milión)" src="manual" selected="1">NNIP2-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd94104-007-p1s4w5">
 <src.rf>manual</src.rf>
@@ -321,7 +327,10 @@
 <LM>w#w-lnd94104-007-p1s4w6</LM>
 </w.rf>
 <form>dolarů</form>
-<tag lemma="dolar_;b" src="orig" selected="1">NNIP2-----A----</tag>
+<tag>
+<AM lemma="dolar_;b" src="orig">NNIP2-----A----</AM>
+<AM lemma="dolar" src="manual" selected="1">NNIP2-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd94104-007-p1s4w7">
 <src.rf>manual</src.rf>
@@ -355,7 +364,10 @@
 <LM>w#w-lnd94104-007-p1s5w3</LM>
 </w.rf>
 <form>ČNB</form>
-<tag lemma="ČNB-1_:B_;K_;b_^(Česká_národní_banka)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ČNB-1_:B_;K_;b_^(Česká_národní_banka)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČNB-1_:B_;K_^(Česká_národní_banka)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd94104-007-p1s5w4">
 <src.rf>manual</src.rf>
@@ -891,7 +903,10 @@
 <LM>w#w-lnd94104-007-p1s9w4</LM>
 </w.rf>
 <form>straně</form>
-<tag lemma="strana-1_^(v_prostoru)" src="orig" selected="1">NNFS6-----A----</tag>
+<tag>
+<AM lemma="strana-1_^(v_prostoru)" src="orig">NNFS6-----A----</AM>
+<AM lemma="strana" src="manual" selected="1">NNFS6-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd94104-007-p1s9w5">
 <src.rf>manual</src.rf>
@@ -1440,7 +1455,10 @@
 <LM>w#w-lnd94104-007-p1s13Bw20</LM>
 </w.rf>
 <form>Meziříčí</form>
-<tag lemma="meziříčí" src="orig" selected="1">NNNS1-----A----</tag>
+<tag>
+<AM lemma="meziříčí" src="orig">NNNS1-----A----</AM>
+<AM lemma="Meziříčí_;G" src="manual" selected="1">NNNS1-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd94104-007-p1s13Bw21">
 <src.rf>manual</src.rf>
@@ -1580,7 +1598,10 @@
 <LM>w#w-lnd94104-007-p1s15w10</LM>
 </w.rf>
 <form>EGAP</form>
-<tag lemma="EGAP_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="EGAP_;K" src="orig">NNIS1-----A----</AM>
+<AM lemma="EGAP-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd94104-007-p1s15w11">
 <src.rf>manual</src.rf>
@@ -1678,7 +1699,10 @@
 <LM>w#w-lnd94104-007-p1s16w4</LM>
 </w.rf>
 <form>EGAP</form>
-<tag lemma="EGAP_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="EGAP_;K" src="orig">NNIS1-----A----</AM>
+<AM lemma="EGAP-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd94104-007-p1s16w5">
 <src.rf>manual</src.rf>

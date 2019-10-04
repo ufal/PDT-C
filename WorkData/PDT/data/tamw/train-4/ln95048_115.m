@@ -297,7 +297,7 @@
 <form>třeba</form>
 <tag>
 <AM lemma="třeba-1" src="orig">ACNS------A----</AM>
-<AM lemma="třeba-2" src="auto" recommended="1">Db-------------</AM>
+<AM lemma="třeba-2" src="auto" recommended="1" selected="1">Db-------------</AM>
 <AM lemma="třeba-3" src="auto">TT-------------</AM>
 </tag>
 </m>
@@ -558,7 +558,10 @@
 <LM>w#w-ln95048-115-p3s1w9</LM>
 </w.rf>
 <form>kg</form>
-<tag lemma="kg-1`kilogram_:B" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="kg-1`kilogram_:B" src="orig">NNIXX-----A---8</AM>
+<AM lemma="kilogram" src="manual" selected="1">NNIXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln95048-115-p3s1w10">
 <src.rf>manual</src.rf>
@@ -843,7 +846,10 @@
 <LM>w#w-ln95048-115-p3s3w5</LM>
 </w.rf>
 <form>přišli</form>
-<tag lemma="přijít" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag>
+<AM lemma="přijít" src="orig">VpMP---XR-AA---</AM>
+<AM lemma="přijít_:W" src="manual" selected="1">VpMP---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-ln95048-115-p3s3w6">
 <src.rf>manual</src.rf>
@@ -1552,6 +1558,7 @@
 <tag>
 <AM lemma="naleznout" src="orig">VsYS---XX-AP---</AM>
 <AM lemma="nalézt-2" src="auto" recommended="1">VsYS---XX-AP---</AM>
+<AM lemma="nalézt-2_:W" src="manual" selected="1">VsYS---XX-AP---</AM>
 </tag>
 </m>
 <m id="m-ln95048-115-p5s2w4">
@@ -1632,7 +1639,10 @@
 <LM>w#w-ln95048-115-p5s2w13</LM>
 </w.rf>
 <form>Kafr</form>
-<tag lemma="kafr" src="orig" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="kafr" src="orig">NNIS1-----A----</AM>
+<AM lemma="Kafr-2_;G" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95048-115-p5s2w14">
 <src.rf>manual</src.rf>
@@ -1640,7 +1650,10 @@
 <LM>w#w-ln95048-115-p5s2w14</LM>
 </w.rf>
 <form>az</form>
-<tag lemma="az_;G" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="az_;G" src="orig">AAXXX----1A----</AM>
+<AM lemma="az-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln95048-115-p5s2w15">
 <src.rf>manual</src.rf>
@@ -1714,7 +1727,10 @@
 <LM>w#w-ln95048-115-p5s3w3</LM>
 </w.rf>
 <form>napsal</form>
-<tag lemma="napsat" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag>
+<AM lemma="napsat" src="orig">VpYS---XR-AA---</AM>
+<AM lemma="napsat_:W" src="manual" selected="1">VpYS---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-ln95048-115-p5s3w4">
 <src.rf>manual</src.rf>
@@ -1738,7 +1754,10 @@
 <LM>w#w-ln95048-115-p5s3w6</LM>
 </w.rf>
 <form>Al</form>
-<tag lemma="Al-5_;m_,t_^(arab._člen,_i_ve_jm.)" src="auto" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="Al-5_;m_,t_^(arab._člen,_i_ve_jm.)" src="auto">AAXXX----1A----</AM>
+<AM lemma="Al-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln95048-115-p5s3w7">
 <src.rf>manual</src.rf>
@@ -1754,7 +1773,10 @@
 <LM>w#w-ln95048-115-p5s3w8</LM>
 </w.rf>
 <form>Achbár</form>
-<tag lemma="Achbár_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Achbár_;S" src="orig">NNMS1-----A----</AM>
+<AM lemma="Achbár-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln95048-115-p5s3w9">
 <src.rf>manual</src.rf>
@@ -1964,7 +1986,10 @@
 <LM>w#w-ln95048-115-p5s4w4</LM>
 </w.rf>
 <form>stal</form>
-<tag lemma="stát-2_^(něco_se_přihodilo)" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag>
+<AM lemma="stát-2_^(něco_se_přihodilo)" src="orig">VpYS---XR-AA---</AM>
+<AM lemma="stát-2_:W_^(něco_se_přihodilo)" src="manual" selected="1">VpYS---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-ln95048-115-p5s4w5">
 <src.rf>manual</src.rf>
@@ -1972,7 +1997,11 @@
 <LM>w#w-ln95048-115-p5s4w5</LM>
 </w.rf>
 <form>právě</form>
-<tag lemma="právě-1" src="auto" selected="1">Db-------------</tag>
+<tag>
+<AM lemma="právě-1" src="auto">Db-------------</AM>
+<AM lemma="právě-1" src="manual">TT-------------</AM>
+<AM lemma="právě-2" src="manual" selected="1">TT-------------</AM>
+</tag>
 </m>
 <m id="m-ln95048-115-p5s4w6">
 <src.rf>manual</src.rf>
@@ -2254,7 +2283,10 @@
 <LM>w#w-ln95048-115-p6s1w26</LM>
 </w.rf>
 <form>Strobe</form>
-<tag lemma="Strobe_;S" src="auto" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Strobe_;S" src="auto">NNMS1-----A----</AM>
+<AM lemma="Strobe_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95048-115-p6s1w27">
 <src.rf>manual</src.rf>

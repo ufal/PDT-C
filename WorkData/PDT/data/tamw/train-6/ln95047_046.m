@@ -51,7 +51,10 @@
 <LM>w#w-ln95047-046-p1s1w5</LM>
 </w.rf>
 <form>D</form>
-<tag lemma="d-4_^(př._d'Artagnan,_stažený_tvar_fr._předl.)" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="d-4_^(př._d'Artagnan,_stažený_tvar_fr._předl.)" src="orig">AAXXX----1A----</AM>
+<AM lemma="D-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln95047-046-p1s1w6">
 <src.rf>manual</src.rf>

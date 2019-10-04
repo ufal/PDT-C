@@ -86,7 +86,9 @@
 <tag>
 <AM lemma="Pro_;K_,t" src="orig">RR--X----------</AM>
 <AM lemma="pro-1" src="auto" recommended="1">RR--4----------</AM>
-<AM lemma="pro-7_^(předpona,_sam.)" src="auto">A2--------A----</AM>
+<AM lemma="pro-7_^(předpona,_sam.)" src="auto" selected="1">A2--------A----</AM>
+<AM lemma="pro_,t" src="manual">NNXXX-----A----</AM>
+<AM lemma="Pro-77" src="manual">F%-------------</AM>
 </tag>
 </m>
 <m id="m-mf920923-049-p1s1w10">
@@ -305,7 +307,10 @@
 <LM>w#w-mf920923-049-p3s1w21</LM>
 </w.rf>
 <form>Lo</form>
-<tag lemma="Lo_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Lo_;S" src="orig">NNMS1-----A----</AM>
+<AM lemma="Lo_;S" src="manual" selected="1">NNMXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920923-049-p3s1w22">
 <src.rf>manual</src.rf>
@@ -554,7 +559,9 @@
 <tag>
 <AM lemma="Pro_;K_,t" src="orig">RR--X----------</AM>
 <AM lemma="pro-1" src="auto" recommended="1">RR--4----------</AM>
-<AM lemma="pro-7_^(předpona,_sam.)" src="auto">A2--------A----</AM>
+<AM lemma="pro-7_^(předpona,_sam.)" src="auto" selected="1">A2--------A----</AM>
+<AM lemma="pro_,t" src="manual">NNXXX-----A----</AM>
+<AM lemma="Pro-77" src="manual">F%-------------</AM>
 </tag>
 </m>
 <m id="m-mf920923-049-p4s2w11">
@@ -622,6 +629,8 @@
 <tag>
 <AM lemma="Destiny_;R_,t" src="orig">AAXXX----1A----</AM>
 <AM lemma="Destino_;K_^(týdeník)" src="auto" recommended="1">NNNP7-----A----</AM>
+<AM lemma="destiny_,t" src="manual">NNXXX-----A----</AM>
+<AM lemma="Destiny-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-mf920923-049-p4s2w19">
@@ -630,7 +639,11 @@
 <LM>w#w-mf920923-049-p4s2w19</LM>
 </w.rf>
 <form>Black</form>
-<tag lemma="Black_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Black_;S" src="orig">NNMS1-----A----</AM>
+<AM lemma="black_,t" src="manual">AAXXX----1A----</AM>
+<AM lemma="Black-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-mf920923-049-p4s2w20">
 <src.rf>manual</src.rf>
@@ -638,7 +651,11 @@
 <LM>w#w-mf920923-049-p4s2w20</LM>
 </w.rf>
 <form>ACE</form>
-<tag lemma="ACE-2_:B_;K_,t_^(Allied_Command_Europe)" src="auto" selected="1">NNNXX-----A---8</tag>
+<tag>
+<AM lemma="ACE-2_:B_;K_,t_^(Allied_Command_Europe)" src="auto">NNNXX-----A---8</AM>
+<AM lemma="ace_,t" src="manual">NNXXX-----A----</AM>
+<AM lemma="ACE-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-mf920923-049-p4s2w21">
 <src.rf>manual</src.rf>
@@ -1080,7 +1097,10 @@
 <LM>w#w-mf920923-049-p4s7w1</LM>
 </w.rf>
 <form>Jen</form>
-<tag lemma="jen-1" src="auto" selected="1">TT-------------</tag>
+<tag>
+<AM lemma="jen-1" src="auto">TT-------------</AM>
+<AM lemma="jen-4_^(pouze)" src="manual" selected="1">Db-------------</AM>
+</tag>
 </m>
 <m id="m-mf920923-049-p4s7w2">
 <src.rf>manual</src.rf>

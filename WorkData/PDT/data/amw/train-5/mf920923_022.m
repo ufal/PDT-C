@@ -51,7 +51,10 @@
 <LM>w#w-mf920923-022-p1s1w5</LM>
 </w.rf>
 <form>Briana</form>
-<tag lemma="Brian_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag>
+<AM lemma="Brian_;S" src="orig">NNMS2-----A----</AM>
+<AM lemma="Brian_;S_;Y" src="manual" selected="1">NNMS2-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920923-022-p1s1w6">
 <src.rf>manual</src.rf>
@@ -261,7 +264,10 @@
 <LM>w#w-mf920923-022-p1s2w15</LM>
 </w.rf>
 <form>Albert</form>
-<tag lemma="Albert-1_;Y_,t" src="auto" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Albert-1_;Y_,t" src="auto">NNMS1-----A----</AM>
+<AM lemma="Albert-1_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920923-022-p1s2w16">
 <src.rf>manual</src.rf>
@@ -511,7 +517,10 @@
 <LM>w#w-mf920923-022-p1s3w6</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-2" src="auto" selected="1">Dg-------2A----</tag>
+<tag>
+<AM lemma="hodně-2" src="auto">Dg-------2A----</AM>
+<AM lemma="hodně-3" src="manual" selected="1">Dg-------2A----</AM>
+</tag>
 </m>
 <m id="m-mf920923-022-p1s3w7">
 <src.rf>manual</src.rf>
@@ -535,7 +544,10 @@
 <LM>w#w-mf920923-022-p1s3w9</LM>
 </w.rf>
 <form>Mrkvička</form>
-<tag lemma="mrkvička-2" src="auto" selected="1">NNFS1-----A----</tag>
+<tag>
+<AM lemma="mrkvička-2" src="auto">NNFS1-----A----</AM>
+<AM lemma="Mrkvička-1_;S" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920923-022-p1s3w10">
 <src.rf>manual</src.rf>

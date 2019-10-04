@@ -326,7 +326,7 @@
 <AM lemma="mizející_,h" src="auto">AAIS2----1A----</AM>
 <AM lemma="mizející_,h" src="auto">AAMS2----1A----</AM>
 <AM lemma="mizející_,h" src="auto">AAMS4----1A----</AM>
-<AM lemma="mizející_,h" src="auto">AANS2----1A----</AM>
+<AM lemma="mizející_,h" src="auto" selected="1">AANS2----1A----</AM>
 <AM lemma="mizící_,h_,x_^(*3et)" src="auto">AGIS2-----A----</AM>
 <AM lemma="mizící_,h_,x_^(*3et)" src="auto">AGMS2-----A----</AM>
 <AM lemma="mizící_,h_,x_^(*3et)" src="auto">AGMS4-----A----</AM>
@@ -451,7 +451,10 @@
 <LM>w#w-mf930709-058-p2s3w30</LM>
 </w.rf>
 <form>Goddes</form>
-<tag lemma="Goddes_;m_,t" src="orig" selected="1">NNNXX-----A----</tag>
+<tag>
+<AM lemma="Goddes_;m_,t" src="orig">NNNXX-----A----</AM>
+<AM lemma="Goddes_;m" src="manual" selected="1">NNNXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930709-058-p2s3w31">
 <src.rf>manual</src.rf>
@@ -606,7 +609,10 @@
 <LM>w#w-mf930709-058-p2s4w18</LM>
 </w.rf>
 <form>ECM</form>
-<tag lemma="ECM-1_:B_,t_^(European_Common_Market)" src="auto" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ECM-1_:B_,t_^(European_Common_Market)" src="auto">NNFXX-----A---8</AM>
+<AM lemma="ECM-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930709-058-p2s4w19">
 <src.rf>manual</src.rf>
@@ -655,7 +661,7 @@
 </w.rf>
 <form>Arta</form>
 <tag>
-<AM lemma="Arta_;K" src="orig">NNFS1-----A----</AM>
+<AM lemma="Arta_;K" src="orig" selected="1">NNFS1-----A----</AM>
 <AM lemma="Art-1_;Y" src="auto">NNMS2-----A----</AM>
 <AM lemma="Art-1_;Y" src="auto" recommended="1">NNMS4-----A----</AM>
 <AM lemma="Arto_;Y" src="auto">NNMS2-----A----</AM>
@@ -718,7 +724,10 @@
 <LM>w#w-mf930709-058-p2s5w6</LM>
 </w.rf>
 <form>Direvision</form>
-<tag lemma="Direvision_;m_,t" src="orig" selected="1">NNFXX-----A----</tag>
+<tag>
+<AM lemma="Direvision_;m_,t" src="orig">NNFXX-----A----</AM>
+<AM lemma="Direvision_;m" src="manual" selected="1">NNFXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930709-058-p2s5w7">
 <src.rf>manual</src.rf>
@@ -738,6 +747,7 @@
 <AM lemma="Helikon_;m" src="orig">NNIS1-----A----</AM>
 <AM lemma="helikon" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="helikon" src="auto">NNIS4-----A----</AM>
+<AM lemma="Helikon_;R" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930709-058-p2s5w9">
@@ -1006,7 +1016,10 @@
 <LM>w#w-mf930709-058-p2s7w7</LM>
 </w.rf>
 <form>jen</form>
-<tag lemma="jen-1" src="auto" selected="1">TT-------------</tag>
+<tag>
+<AM lemma="jen-1" src="auto">TT-------------</AM>
+<AM lemma="jen-4_^(pouze)" src="manual" selected="1">Db-------------</AM>
+</tag>
 </m>
 <m id="m-mf930709-058-p2s7w8">
 <src.rf>manual</src.rf>

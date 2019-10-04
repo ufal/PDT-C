@@ -23,6 +23,7 @@
 <AM lemma="Guido_;Y" src="orig">NNMXX-----A----</AM>
 <AM lemma="Guido_;Y_,t" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Guido_;Y_,t" src="auto">NNMS5-----A----</AM>
+<AM lemma="Guido_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920902-127-p1s1w2">
@@ -47,7 +48,10 @@
 <LM>w#w-mf920902-127-p1s1w4</LM>
 </w.rf>
 <form>Sv</form>
-<tag lemma="svatý-1_:B" src="auto" selected="1">AAXXX----1A---8</tag>
+<tag>
+<AM lemma="svatý-1_:B" src="auto">AAXXX----1A---8</AM>
+<AM lemma="svatý" src="manual" selected="1">AAXXX----1A---8</AM>
+</tag>
 </m>
 <m id="m-mf920902-127-p1s1w5">
 <src.rf>manual</src.rf>

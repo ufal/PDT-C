@@ -193,7 +193,10 @@
 <LM>w#w-lnd92253-045-p3s2w12</LM>
 </w.rf>
 <form>Safarali</form>
-<tag lemma="Safarali_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Safarali_;S" src="orig">NNMS1-----A----</AM>
+<AM lemma="Safarali_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92253-045-p3s2w13">
 <src.rf>manual</src.rf>
@@ -984,7 +987,10 @@
 <LM>w#w-lnd92253-045-p5s1w4</LM>
 </w.rf>
 <form>Safarali</form>
-<tag lemma="Safarali_;S" src="auto" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Safarali_;S" src="auto">NNMS1-----A----</AM>
+<AM lemma="Safarali_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92253-045-p5s1w5">
 <src.rf>manual</src.rf>
@@ -1270,7 +1276,7 @@
 <AM lemma="Chodžentu_;G" src="orig">NNNXX-----A----</AM>
 <AM lemma="Chodžent_;G" src="auto">NNIS2-----A----</AM>
 <AM lemma="Chodžent_;G" src="auto">NNIS3-----A----</AM>
-<AM lemma="Chodžent_;G" src="auto" recommended="1">NNIS6-----A----</AM>
+<AM lemma="Chodžent_;G" src="auto" recommended="1" selected="1">NNIS6-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92253-045-p5s2w12">
@@ -1357,7 +1363,7 @@
 <AM lemma="Chodžentu_;G" src="orig">NNNXX-----A----</AM>
 <AM lemma="Chodžent_;G" src="auto">NNIS2-----A----</AM>
 <AM lemma="Chodžent_;G" src="auto">NNIS3-----A----</AM>
-<AM lemma="Chodžent_;G" src="auto" recommended="1">NNIS6-----A----</AM>
+<AM lemma="Chodžent_;G" src="auto" recommended="1" selected="1">NNIS6-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92253-045-p5s3w6">

@@ -44,6 +44,7 @@
 <AM lemma="Beatles_;K_;u" src="auto">NNMP5-----A----</AM>
 <AM lemma="Beatles_;K_;u" src="auto" recommended="1">NNMP6-----A----</AM>
 <AM lemma="Beatles_;K_;u" src="auto">NNMP7-----A----</AM>
+<AM lemma="Beatles-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 </s>
@@ -137,6 +138,7 @@
 <AM lemma="Beatles_;K_;u" src="auto">NNMP5-----A----</AM>
 <AM lemma="Beatles_;K_;u" src="auto">NNMP6-----A----</AM>
 <AM lemma="Beatles_;K_;u" src="auto">NNMP7-----A----</AM>
+<AM lemma="Beatles-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-lnd92251-008-p2s2w9">
@@ -630,6 +632,7 @@
 <AM lemma="Beatles_;K_;u" src="auto">NNMP5-----A----</AM>
 <AM lemma="Beatles_;K_;u" src="auto">NNMP6-----A----</AM>
 <AM lemma="Beatles_;K_;u" src="auto">NNMP7-----A----</AM>
+<AM lemma="Beatles-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-lnd92251-008-p2s4w9">

@@ -133,7 +133,10 @@
 <LM>w#w-mf930701-123-p2s1w13</LM>
 </w.rf>
 <form>Giro</form>
-<tag lemma="Giro-1_;m_;w_,t_^(lat.,_souč._názvu,_např._Giro_d'Italia)" src="auto" selected="1">NNNXX-----A----</tag>
+<tag>
+<AM lemma="Giro-1_;m_;w_,t_^(lat.,_souč._názvu,_např._Giro_d'Italia)" src="auto">NNNXX-----A----</AM>
+<AM lemma="Giro-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-mf930701-123-p2s1w14">
 <src.rf>manual</src.rf>
@@ -141,7 +144,10 @@
 <LM>w#w-mf930701-123-p2s1w14</LM>
 </w.rf>
 <form>d</form>
-<tag lemma="d-4_^(př._d'Artagnan,_stažený_tvar_fr._předl.)" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="d-4_^(př._d'Artagnan,_stažený_tvar_fr._předl.)" src="orig">AAXXX----1A----</AM>
+<AM lemma="d-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-mf930701-123-p2s1w15">
 <src.rf>manual</src.rf>
@@ -157,7 +163,10 @@
 <LM>w#w-mf930701-123-p2s1w16</LM>
 </w.rf>
 <form>Italia</form>
-<tag lemma="Italia_;R_,t_^(jméno_vzducholodi)" src="auto" selected="1">NNFS1-----A----</tag>
+<tag>
+<AM lemma="Italia_;R_,t_^(jméno_vzducholodi)" src="auto">NNFS1-----A----</AM>
+<AM lemma="Italia-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-mf930701-123-p2s1w17">
 <src.rf>manual</src.rf>

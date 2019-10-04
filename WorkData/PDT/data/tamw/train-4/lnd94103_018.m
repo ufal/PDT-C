@@ -81,6 +81,7 @@
 <tag>
 <AM lemma="pet-99_:B_;S" src="orig">NNXXX-----A---8</AM>
 <AM lemma="pet_,t" src="auto" recommended="1">AAXXX----1A---8</AM>
+<AM lemma="pet-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94103-018-p1s2w4">
@@ -263,7 +264,7 @@
 </w.rf>
 <form>znehodnocovače</form>
 <tag>
-<AM lemma="znehodnocovač" src="orig">NNIP1-----A----</AM>
+<AM lemma="znehodnocovač" src="orig" selected="1">NNIP1-----A----</AM>
 <AM lemma="znehodnocovač" src="auto">NNMP4-----A----</AM>
 <AM lemma="znehodnocovač" src="auto" recommended="1">NNMS2-----A----</AM>
 <AM lemma="znehodnocovač" src="auto">NNMS4-----A----</AM>
@@ -631,7 +632,10 @@
 <LM>w#w-lnd94103-018-p1s6w10</LM>
 </w.rf>
 <form>LN</form>
-<tag lemma="LN-1_:B_;R_^(Lidové_noviny,_deník)" src="orig" selected="1">NNFPX-----A---8</tag>
+<tag>
+<AM lemma="LN-1_:B_;R_^(Lidové_noviny,_deník)" src="orig">NNFPX-----A---8</AM>
+<AM lemma="LN-1_:B_;K_;R_^(Lidové_noviny)" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd94103-018-p1s6w11">
 <src.rf>manual</src.rf>
@@ -695,7 +699,10 @@
 <LM>w#w-lnd94103-018-p1s6w18</LM>
 </w.rf>
 <form>SAVS</form>
-<tag lemma="SAVS_:B_;K" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="SAVS_:B_;K" src="orig">NNXXX-----A---8</AM>
+<AM lemma="SAVS-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd94103-018-p1s6w19">
 <src.rf>manual</src.rf>
@@ -735,7 +742,10 @@
 <LM>w#w-lnd94103-018-p1s6w23</LM>
 </w.rf>
 <form>uvede</form>
-<tag lemma="uvést" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag>
+<AM lemma="uvést" src="orig">VB-S---3P-AA---</AM>
+<AM lemma="uvést_:W" src="manual" selected="1">VB-S---3P-AA---</AM>
+</tag>
 </m>
 <m id="m-lnd94103-018-p1s6w24">
 <src.rf>manual</src.rf>

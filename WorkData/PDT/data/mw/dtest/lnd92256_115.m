@@ -797,6 +797,7 @@
 <AM lemma="Pro_;K_,t" src="orig">RR--X----------</AM>
 <AM lemma="pro-1" src="auto" recommended="1">RR--4----------</AM>
 <AM lemma="pro-7_^(předpona,_sam.)" src="auto">A2--------A----</AM>
+<AM lemma="PRO-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-lnd92256-115-p3s6w6">
@@ -810,6 +811,7 @@
 <AM lemma="Armenia_;G_^(město_v_Kolumbii)" src="auto">NNFS1-----A----</AM>
 <AM lemma="Armenius_;Y" src="auto">NNMS2-----A----</AM>
 <AM lemma="Armenius_;Y" src="auto" recommended="1">NNMS4-----A----</AM>
+<AM lemma="ARMENIA-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-lnd92256-115-p3s6w7">
@@ -869,7 +871,7 @@
 <tag>
 <AM lemma="přesto" src="orig">Dg-------1A----</AM>
 <AM lemma="přesto-1" src="auto">Db-------------</AM>
-<AM lemma="přesto-2" src="auto" recommended="1">J^-------------</AM>
+<AM lemma="přesto-2" src="auto" recommended="1" selected="1">J^-------------</AM>
 </tag>
 </m>
 <m id="m-lnd92256-115-p3s6w14">
@@ -878,7 +880,10 @@
 <LM>w#w-lnd92256-115-p3s6w14</LM>
 </w.rf>
 <form>začaly</form>
-<tag lemma="začít-1_^(začnout)" src="auto" selected="1">VpTP---XR-AA---</tag>
+<tag>
+<AM lemma="začít-1_^(začnout)" src="auto">VpTP---XR-AA---</AM>
+<AM lemma="začít-1_:W_^(začnout)" src="manual" selected="1">VpTP---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-lnd92256-115-p3s6w15">
 <src.rf>manual</src.rf>
@@ -920,7 +925,7 @@
 <form>totiž</form>
 <tag>
 <AM lemma="totiž" src="orig">Db-------------</AM>
-<AM lemma="totiž-1" src="auto" recommended="1">J^-------------</AM>
+<AM lemma="totiž-1" src="auto" recommended="1" selected="1">J^-------------</AM>
 <AM lemma="totiž-2" src="auto">TT-------------</AM>
 </tag>
 </m>
@@ -1036,7 +1041,10 @@
 <LM>w#w-lnd92256-115-p3s7w10</LM>
 </w.rf>
 <form>peče</form>
-<tag lemma="péci" src="auto" selected="1">VB-S---3P-AA---</tag>
+<tag>
+<AM lemma="péci" src="auto">VB-S---3P-AA---</AM>
+<AM lemma="péci_:T" src="manual" selected="1">VB-S---3P-AA---</AM>
+</tag>
 </m>
 <m id="m-lnd92256-115-p3s7w11">
 <src.rf>manual</src.rf>
@@ -1305,7 +1313,7 @@
 </w.rf>
 <form>pš</form>
 <tag>
-<AM lemma="pš-99_:B_;S" src="orig">NNXXX-----A---8</AM>
+<AM lemma="pš-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</AM>
 <AM lemma="pš" src="auto" recommended="1">II-------------</AM>
 </tag>
 </m>

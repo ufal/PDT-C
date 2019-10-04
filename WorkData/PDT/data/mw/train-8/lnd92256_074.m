@@ -640,7 +640,10 @@
 <LM>w#w-lnd92256-074-p5s1w7</LM>
 </w.rf>
 <form>Cyrus</form>
-<tag lemma="Cyrus_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Cyrus_;S" src="orig">NNMS1-----A----</AM>
+<AM lemma="Cyrus_;Y_;S" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92256-074-p5s1w8">
 <src.rf>manual</src.rf>
@@ -672,7 +675,10 @@
 <LM>w#w-lnd92256-074-p5s1w11</LM>
 </w.rf>
 <form>Owen</form>
-<tag lemma="Owen_;Y" src="orig" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Owen_;Y" src="orig">NNMS1-----A----</AM>
+<AM lemma="Owen_;Y_;S" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92256-074-p5s1w12">
 <src.rf>manual</src.rf>
@@ -728,6 +734,7 @@
 <AM lemma="Skopje_;G" src="auto">NNFS1-----A----</AM>
 <AM lemma="Skopje_;G" src="auto">NNFS2-----A----</AM>
 <AM lemma="Skopje_;G" src="auto">NNFS5-----A----</AM>
+<AM lemma="Skopje_;G" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92256-074-p5s1w18">
@@ -948,7 +955,10 @@
 <LM>w#w-lnd92256-074-p5s3w9</LM>
 </w.rf>
 <form>Sali</form>
-<tag lemma="Sali_;Y" src="orig" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Sali_;Y" src="orig">NNMS1-----A----</AM>
+<AM lemma="Sali_;Y" src="manual" selected="1">NNMXX-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92256-074-p5s3w10">
 <src.rf>manual</src.rf>
@@ -1070,6 +1080,7 @@
 <AM lemma="Skopje_;G" src="auto">NNFS1-----A----</AM>
 <AM lemma="Skopje_;G" src="auto" recommended="1">NNFS2-----A----</AM>
 <AM lemma="Skopje_;G" src="auto">NNFS5-----A----</AM>
+<AM lemma="Skopje_;G" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92256-074-p5s4w7">
@@ -1338,7 +1349,10 @@
 <LM>w#w-lnd92256-074-p5s6w4</LM>
 </w.rf>
 <form>Owen</form>
-<tag lemma="Owen_;Y" src="orig" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Owen_;Y" src="orig">NNMS1-----A----</AM>
+<AM lemma="Owen_;Y_;S" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92256-074-p5s6w5">
 <src.rf>manual</src.rf>

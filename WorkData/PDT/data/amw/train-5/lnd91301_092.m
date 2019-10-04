@@ -43,7 +43,10 @@
 <LM>w#w-lnd91301-092-p1s1w4</LM>
 </w.rf>
 <form>K</form>
-<tag lemma="Kapský_:B_;G_^(jen_K._m.)" src="auto" selected="1">AANXX----1A---8</tag>
+<tag>
+<AM lemma="Kapský_:B_;G_^(jen_K._m.)" src="auto">AANXX----1A---8</AM>
+<AM lemma="K-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd91301-092-p1s1w5">
 <src.rf>manual</src.rf>
@@ -313,7 +316,10 @@
 <LM>w#w-lnd91301-092-p4s2w5</LM>
 </w.rf>
 <form>J</form>
-<tag lemma="J-0_:B_;Y" src="orig" selected="1">NNMXX-----A---8</tag>
+<tag>
+<AM lemma="J-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
+<AM lemma="J-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd91301-092-p4s2w6">
 <src.rf>manual</src.rf>
@@ -329,7 +335,10 @@
 <LM>w#w-lnd91301-092-p4s2w7</LM>
 </w.rf>
 <form>L</form>
-<tag lemma="L-0_:B_;Y" src="orig" selected="1">NNMXX-----A---8</tag>
+<tag>
+<AM lemma="L-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
+<AM lemma="L-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd91301-092-p4s2w8">
 <src.rf>manual</src.rf>
@@ -516,7 +525,7 @@
 </w.rf>
 <form>Servia</form>
 <tag>
-<AM lemma="Servia_;S" src="orig">NNMS1-----A----</AM>
+<AM lemma="Servia_;S" src="orig" selected="1">NNMS1-----A----</AM>
 <AM lemma="Servius_;Y_,t" src="auto" recommended="1">NNMS2-----A----</AM>
 <AM lemma="Servius_;Y_,t" src="auto">NNMS4-----A----</AM>
 </tag>
@@ -655,7 +664,10 @@
 <LM>w#w-lnd91301-092-p4s3w26</LM>
 </w.rf>
 <form>Fr</form>
-<tag lemma="Francie_:B_;G" src="auto" selected="1">NNFSX-----A----</tag>
+<tag>
+<AM lemma="Francie_:B_;G" src="auto">NNFSX-----A----</AM>
+<AM lemma="Francie_:B_;G" src="manual" selected="1">NNFXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd91301-092-p4s3w27">
 <src.rf>manual</src.rf>
@@ -683,6 +695,7 @@
 <AM lemma="Micubiši-2_;R_^(vozidlo)" src="orig">NNNXX-----A----</AM>
 <AM lemma="Mitsubishi_;K_;R" src="auto" recommended="1">NNXXX-----A---6</AM>
 <AM lemma="mitsubishi_;R_^(vozidlo)" src="auto">NNXXX-----A---6</AM>
+<AM lemma="Micubiši_;K_;R_,s_^(^DD**Mitsubishi)" src="manual" selected="1">NNNXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd91301-092-p4s3w30">
@@ -775,7 +788,7 @@
 <AM lemma="Japonsko_;G" src="orig">NNNXX-----A----</AM>
 <AM lemma="Jap_;G" src="auto">NNIS1-----A----</AM>
 <AM lemma="Jap_;G" src="auto">NNIS4-----A----</AM>
-<AM lemma="Japonsko_:B_;G" src="auto" recommended="1">NNNXX-----A---8</AM>
+<AM lemma="Japonsko_:B_;G" src="auto" recommended="1" selected="1">NNNXX-----A---8</AM>
 <AM lemma="jap-99_:B_;S" src="auto">NNXXX-----A---8</AM>
 </tag>
 </m>
@@ -805,6 +818,7 @@
 <AM lemma="Micubiši-2_;R_^(vozidlo)" src="orig">NNNXX-----A----</AM>
 <AM lemma="Mitsubishi_;K_;R" src="auto" recommended="1">NNXXX-----A---6</AM>
 <AM lemma="mitsubishi_;R_^(vozidlo)" src="auto">NNXXX-----A---6</AM>
+<AM lemma="Micubiši_;K_;R_,s_^(^DD**Mitsubishi)" src="manual" selected="1">NNNXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd91301-092-p4s3w44">
@@ -875,7 +889,7 @@
 <AM lemma="citroen_;R_,h" src="orig">NNIS6-----A---1</AM>
 <AM lemma="Citroen_;K_;R" src="auto">NNIS2-----A----</AM>
 <AM lemma="Citroen_;K_;R" src="auto">NNIS3-----A----</AM>
-<AM lemma="Citroen_;K_;R" src="auto">NNIS6-----A----</AM>
+<AM lemma="Citroen_;K_;R" src="auto" selected="1">NNIS6-----A----</AM>
 <AM lemma="citroen_;R_,h" src="auto">NNIS2-----A----</AM>
 <AM lemma="citroen_;R_,h" src="auto">NNIS3-----A----</AM>
 <AM lemma="citroen_;R_,h" src="auto" recommended="1">NNIS6-----A----</AM>
@@ -929,7 +943,10 @@
 <LM>w#w-lnd91301-092-p4s5w5</LM>
 </w.rf>
 <form>de</form>
-<tag lemma="de_,t_^(z_franc._de,_zejm._ve_jménech)" src="orig" selected="1">RR--1----------</tag>
+<tag>
+<AM lemma="de_,t_^(z_franc._de,_zejm._ve_jménech)" src="orig">RR--1----------</AM>
+<AM lemma="de-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-lnd91301-092-p4s5w6">
 <src.rf>manual</src.rf>
@@ -953,7 +970,10 @@
 <LM>w#w-lnd91301-092-p4s5w8</LM>
 </w.rf>
 <form>Yamaha</form>
-<tag lemma="Yamaha-2_;K" src="orig" selected="1">NNFS1-----A----</tag>
+<tag>
+<AM lemma="Yamaha-2_;K" src="orig">NNFS1-----A----</AM>
+<AM lemma="Yamaha-2_;K_;R" src="manual" selected="1">NNFS1-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd91301-092-p4s5w9">
 <src.rf>manual</src.rf>
@@ -1017,7 +1037,10 @@
 <LM>w#w-lnd91301-092-p4s5w16</LM>
 </w.rf>
 <form>kamionech</form>
-<tag lemma="kamión" src="orig" selected="1">NNIP6-----A----</tag>
+<tag>
+<AM lemma="kamión" src="orig">NNIP6-----A----</AM>
+<AM lemma="kamion_,s_^(^DD**kamión)" src="manual" selected="1">NNIP6-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd91301-092-p4s5w17">
 <src.rf>manual</src.rf>

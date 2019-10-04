@@ -1587,7 +1587,10 @@
 <LM>w#w-mf930701-169-p6s1w31</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-2" src="auto" selected="1">Dg-------2A----</tag>
+<tag>
+<AM lemma="hodně-2" src="auto">Dg-------2A----</AM>
+<AM lemma="hodně-3" src="manual" selected="1">Dg-------2A----</AM>
+</tag>
 </m>
 <m id="m-mf930701-169-p6s1w32">
 <src.rf>manual</src.rf>
@@ -2038,6 +2041,7 @@
 <tag>
 <AM lemma="fast_,t" src="orig">AAXXX----1A----</AM>
 <AM lemma="Fast_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Fast-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-mf930701-169-p7s1w10">
@@ -2050,6 +2054,7 @@
 <AM lemma="food_,t" src="orig">NNIXX-----A----</AM>
 <AM lemma="food_,t_^(fastfood;_rychlé_občerstvení)" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="food_,t_^(fastfood;_rychlé_občerstvení)" src="auto">NNIS4-----A----</AM>
+<AM lemma="food-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-mf930701-169-p7s1w11">

@@ -929,7 +929,10 @@
 <LM>w#w-mf930713-048-p2s6w5</LM>
 </w.rf>
 <form>vzrůst</form>
-<tag lemma="vzrůst-1" src="auto" selected="1">Vf--------A----</tag>
+<tag>
+<AM lemma="vzrůst-1" src="auto">Vf--------A----</AM>
+<AM lemma="vzrůst-1_:W" src="manual" selected="1">Vf--------A----</AM>
+</tag>
 </m>
 <m id="m-mf930713-048-p2s6w6">
 <src.rf>manual</src.rf>

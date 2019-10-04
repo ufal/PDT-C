@@ -294,7 +294,7 @@
 </w.rf>
 <form>Gentu</form>
 <tag>
-<AM lemma="Gent-2_;G" src="orig">NNIS6-----A----</AM>
+<AM lemma="Gent-2_;G" src="orig" selected="1">NNIS6-----A----</AM>
 <AM lemma="Gent_;Y" src="auto">NNMS3-----A---1</AM>
 <AM lemma="Gent_;Y" src="auto" recommended="1">NNMS6-----A---1</AM>
 </tag>
@@ -737,7 +737,7 @@
 <form>totiž</form>
 <tag>
 <AM lemma="totiž" src="orig">Db-------------</AM>
-<AM lemma="totiž-1" src="auto" recommended="1">J^-------------</AM>
+<AM lemma="totiž-1" src="auto" recommended="1" selected="1">J^-------------</AM>
 <AM lemma="totiž-2" src="auto">TT-------------</AM>
 </tag>
 </m>
@@ -787,7 +787,10 @@
 <LM>w#w-mf920902-040-p1s4w9</LM>
 </w.rf>
 <form>sice</form>
-<tag lemma="sice-2" src="auto" selected="1">Db-------------</tag>
+<tag>
+<AM lemma="sice-2" src="auto">Db-------------</AM>
+<AM lemma="sice-1" src="manual" selected="1">J^-------------</AM>
+</tag>
 </m>
 <m id="m-mf920902-040-p1s4w10">
 <src.rf>manual</src.rf>
@@ -955,7 +958,10 @@
 <LM>w#w-mf920902-040-p1s4w30</LM>
 </w.rf>
 <form>Carmen</form>
-<tag lemma="Carmen_;Y_,t" src="auto" selected="1">NNFXX-----A----</tag>
+<tag>
+<AM lemma="Carmen_;Y_,t" src="auto">NNFXX-----A----</AM>
+<AM lemma="Carmen_;Y" src="manual" selected="1">NNFXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920902-040-p1s4w31">
 <src.rf>manual</src.rf>

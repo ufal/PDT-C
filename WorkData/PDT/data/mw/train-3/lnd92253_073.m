@@ -258,7 +258,7 @@
 </w.rf>
 <form>Krčín</form>
 <tag>
-<AM lemma="Krčín-2_;G" src="orig">NNIS1-----A----</AM>
+<AM lemma="Krčín-2_;G" src="orig" selected="1">NNIS1-----A----</AM>
 <AM lemma="Krčín_;S" src="auto" recommended="1">NNMS1-----A----</AM>
 </tag>
 </m>
@@ -341,7 +341,7 @@
 </w.rf>
 <form>Krčín</form>
 <tag>
-<AM lemma="Krčín-2_;G" src="orig">NNIS1-----A----</AM>
+<AM lemma="Krčín-2_;G" src="orig" selected="1">NNIS1-----A----</AM>
 <AM lemma="Krčín_;S" src="auto" recommended="1">NNMS1-----A----</AM>
 </tag>
 </m>
@@ -538,7 +538,7 @@
 </w.rf>
 <form>Krčín</form>
 <tag>
-<AM lemma="Krčín-2_;G" src="orig">NNIS1-----A----</AM>
+<AM lemma="Krčín-2_;G" src="orig" selected="1">NNIS1-----A----</AM>
 <AM lemma="Krčín_;S" src="auto" recommended="1">NNMS1-----A----</AM>
 </tag>
 </m>
@@ -632,7 +632,10 @@
 <LM>w#w-lnd92253-073-p4s2w4</LM>
 </w.rf>
 <form>A</form>
-<tag lemma="a-3_^(označení_pomocí_písmene)" src="orig" selected="1">NNNXX-----A----</tag>
+<tag>
+<AM lemma="a-3_^(označení_pomocí_písmene)" src="orig">NNNXX-----A----</AM>
+<AM lemma="A-33_^(označení_pomocí_písmene)" src="manual" selected="1">NNNXX-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92253-073-p4s2w5">
 <src.rf>manual</src.rf>
@@ -656,7 +659,10 @@
 <LM>w#w-lnd92253-073-p4s2w7</LM>
 </w.rf>
 <form>A</form>
-<tag lemma="a-3_^(označení_pomocí_písmene)" src="orig" selected="1">NNNXX-----A----</tag>
+<tag>
+<AM lemma="a-3_^(označení_pomocí_písmene)" src="orig">NNNXX-----A----</AM>
+<AM lemma="A-33_^(označení_pomocí_písmene)" src="manual" selected="1">NNNXX-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92253-073-p4s2w8">
 <src.rf>manual</src.rf>
@@ -704,7 +710,10 @@
 <LM>w#w-lnd92253-073-p4s2w13</LM>
 </w.rf>
 <form>C</form>
-<tag lemma="c-3_^(označení_pomocí_písmene)" src="orig" selected="1">NNNXX-----A----</tag>
+<tag>
+<AM lemma="c-3_^(označení_pomocí_písmene)" src="orig">NNNXX-----A----</AM>
+<AM lemma="C-33_^(označení_pomocí_písmene)" src="manual" selected="1">NNNXX-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92253-073-p4s2w14">
 <src.rf>manual</src.rf>
@@ -728,7 +737,10 @@
 <LM>w#w-lnd92253-073-p4s2w16</LM>
 </w.rf>
 <form>A</form>
-<tag lemma="a-3_^(označení_pomocí_písmene)" src="orig" selected="1">NNNXX-----A----</tag>
+<tag>
+<AM lemma="a-3_^(označení_pomocí_písmene)" src="orig">NNNXX-----A----</AM>
+<AM lemma="A-33_^(označení_pomocí_písmene)" src="manual" selected="1">NNNXX-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92253-073-p4s2w17">
 <src.rf>manual</src.rf>

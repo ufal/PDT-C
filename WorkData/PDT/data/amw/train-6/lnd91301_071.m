@@ -323,7 +323,10 @@
 <LM>w#w-lnd91301-071-p4s2w8</LM>
 </w.rf>
 <form>IRA</form>
-<tag lemma="Ir_;E" src="orig" selected="1">NNMS2-----A----</tag>
+<tag>
+<AM lemma="Ir_;E" src="orig">NNMS2-----A----</AM>
+<AM lemma="IRA-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd91301-071-p4s2w9">
 <src.rf>manual</src.rf>

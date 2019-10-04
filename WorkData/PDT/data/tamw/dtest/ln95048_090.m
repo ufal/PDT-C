@@ -359,7 +359,10 @@
 <LM>w#w-ln95048-090-p2s2w6</LM>
 </w.rf>
 <form>ptali</form>
-<tag lemma="ptát" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag>
+<AM lemma="ptát" src="orig">VpMP---XR-AA---</AM>
+<AM lemma="ptát_:T" src="manual" selected="1">VpMP---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-ln95048-090-p2s2w7">
 <src.rf>manual</src.rf>
@@ -497,7 +500,10 @@
 <LM>w#w-ln95048-090-p2s3w10</LM>
 </w.rf>
 <form>ČMFS</form>
-<tag lemma="ČMFS-1_:B_;K_;w_^(Českomoravský_fotbalový_svaz)" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="ČMFS-1_:B_;K_;w_^(Českomoravský_fotbalový_svaz)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="ČMFS-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95048-090-p2s3w11">
 <src.rf>manual</src.rf>
@@ -627,7 +633,10 @@
 <LM>w#w-ln95048-090-p2s4w12</LM>
 </w.rf>
 <form>ME</form>
-<tag lemma="ME-1_:B_;w_^(mistrovství_Evropy)" src="orig" selected="1">NNNXX-----A---8</tag>
+<tag>
+<AM lemma="ME-1_:B_;w_^(mistrovství_Evropy)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="ME-1_:B_^(mistrovství_Evropy)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95048-090-p2s4w13">
 <src.rf>manual</src.rf>
@@ -930,7 +939,7 @@
 <AM lemma="Chvalovský_;S" src="auto">NNMP1-----A---6</AM>
 <AM lemma="Chvalovský_;S" src="auto">NNMP4-----A---6</AM>
 <AM lemma="Chvalovský_;S" src="auto">NNMP5-----A---6</AM>
-<AM lemma="Chvalovský_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Chvalovský_;S" src="auto" recommended="1" selected="1">NNMS1-----A----</AM>
 <AM lemma="Chvalovský_;S" src="auto">NNMS5-----A----</AM>
 </tag>
 </m>
@@ -1734,7 +1743,7 @@
 <form>totiž</form>
 <tag>
 <AM lemma="totiž" src="orig">Db-------------</AM>
-<AM lemma="totiž-1" src="auto" recommended="1">J^-------------</AM>
+<AM lemma="totiž-1" src="auto" recommended="1" selected="1">J^-------------</AM>
 <AM lemma="totiž-2" src="auto">TT-------------</AM>
 </tag>
 </m>
@@ -1933,7 +1942,7 @@
 <AM lemma="Chvalovský_;S" src="auto">NNMP1-----A---6</AM>
 <AM lemma="Chvalovský_;S" src="auto">NNMP4-----A---6</AM>
 <AM lemma="Chvalovský_;S" src="auto">NNMP5-----A---6</AM>
-<AM lemma="Chvalovský_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Chvalovský_;S" src="auto" recommended="1" selected="1">NNMS1-----A----</AM>
 <AM lemma="Chvalovský_;S" src="auto">NNMS5-----A----</AM>
 </tag>
 </m>
@@ -2377,7 +2386,10 @@
 <LM>w#w-ln95048-090-p2s12w25</LM>
 </w.rf>
 <form>ME</form>
-<tag lemma="ME-1_:B_;w_^(mistrovství_Evropy)" src="orig" selected="1">NNNXX-----A---8</tag>
+<tag>
+<AM lemma="ME-1_:B_;w_^(mistrovství_Evropy)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="ME-1_:B_^(mistrovství_Evropy)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95048-090-p2s12w26">
 <src.rf>manual</src.rf>

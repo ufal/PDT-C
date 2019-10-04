@@ -82,6 +82,7 @@
 <AM lemma="mat" src="auto">NNIS1-----A----</AM>
 <AM lemma="mat" src="auto">NNIS4-----A----</AM>
 <AM lemma="materiál_:B" src="auto" recommended="1">NNIXX-----A---8</AM>
+<AM lemma="mat-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930703-027-p2s1w4">
@@ -309,7 +310,7 @@
 </w.rf>
 <form>megawattů</form>
 <tag>
-<AM lemma="megawatt" src="orig">NNIP2-----A----</AM>
+<AM lemma="megawatt" src="orig" selected="1">NNIP2-----A----</AM>
 <AM lemma="MW-1`megawatt" src="auto" recommended="1">NNIP2-----A----</AM>
 </tag>
 </m>
@@ -330,7 +331,7 @@
 <tag>
 <AM lemma="tedy" src="orig">Db-------------</AM>
 <AM lemma="tedy-1" src="auto">TT-------------</AM>
-<AM lemma="tedy-2" src="auto" recommended="1">J^-------------</AM>
+<AM lemma="tedy-2" src="auto" recommended="1" selected="1">J^-------------</AM>
 </tag>
 </m>
 <m id="m-mf930703-027-p2s2w13">
@@ -517,7 +518,10 @@
 <LM>w#w-mf930703-027-p3s1w14</LM>
 </w.rf>
 <form>stekla</form>
-<tag lemma="stéci" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag>
+<AM lemma="stéci" src="orig">VpQW---XR-AA---</AM>
+<AM lemma="stéci_:W" src="manual" selected="1">VpQW---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-mf930703-027-p3s1w15">
 <src.rf>manual</src.rf>
@@ -565,7 +569,10 @@
 <LM>w#w-mf930703-027-p3s1w20</LM>
 </w.rf>
 <form>shořela</form>
-<tag lemma="shořet" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag>
+<AM lemma="shořet" src="orig">VpQW---XR-AA---</AM>
+<AM lemma="shořet_:W" src="manual" selected="1">VpQW---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-mf930703-027-p3s1w21">
 <src.rf>manual</src.rf>
@@ -647,7 +654,10 @@
 <LM>w#w-mf930703-027-p3s2w5</LM>
 </w.rf>
 <form>dostalo</form>
-<tag lemma="dostat" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag>
+<AM lemma="dostat" src="orig">VpNS---XR-AA---</AM>
+<AM lemma="dostat_:W" src="manual" selected="1">VpNS---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-mf930703-027-p3s2w6">
 <src.rf>manual</src.rf>

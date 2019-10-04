@@ -239,7 +239,10 @@
 <LM>w#w-mf930701-167-p2s2w6</LM>
 </w.rf>
 <form>Nězavisimaja</form>
-<tag lemma="Nězavisimaja_;R_,t" src="orig" selected="1">AAFS1----1A----</tag>
+<tag>
+<AM lemma="Nězavisimaja_;R_,t" src="orig">AAFS1----1A----</AM>
+<AM lemma="Nězavisimaja-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-mf930701-167-p2s2w7">
 <src.rf>manual</src.rf>
@@ -247,7 +250,10 @@
 <LM>w#w-mf930701-167-p2s2w7</LM>
 </w.rf>
 <form>Gazeta</form>
-<tag lemma="Gazeta_;R_,t" src="orig" selected="1">NNFS1-----A----</tag>
+<tag>
+<AM lemma="Gazeta_;R_,t" src="orig">NNFS1-----A----</AM>
+<AM lemma="Gazeta-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-mf930701-167-p2s2w8">
 <src.rf>manual</src.rf>
@@ -621,7 +627,7 @@
 <form>objednavatelům</form>
 <tag>
 <AM lemma="objednatel" src="orig">NNMP3-----A----</AM>
-<AM lemma="objednavatel" src="auto" recommended="1">NNMP3-----A----</AM>
+<AM lemma="objednavatel" src="auto" recommended="1" selected="1">NNMP3-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930701-167-p2s4w10">
@@ -770,7 +776,7 @@
 <form>nezasáhla</form>
 <tag>
 <AM lemma="zasáhnout" src="orig">VpQW---XR-NA---</AM>
-<AM lemma="zasáhnout_:W" src="auto" recommended="1">VpQW---XR-NA--1</AM>
+<AM lemma="zasáhnout_:W" src="auto" recommended="1" selected="1">VpQW---XR-NA--1</AM>
 </tag>
 </m>
 <m id="m-mf930701-167-p2s5w10">

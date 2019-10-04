@@ -103,7 +103,10 @@
 <LM>w#w-mf930701-161-p3s1w1</LM>
 </w.rf>
 <form>New</form>
-<tag lemma="New-1_;G_,t_^(součást_míst._jmen)" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="New-1_;G_,t_^(součást_míst._jmen)" src="orig">AAXXX----1A----</AM>
+<AM lemma="New-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-mf930701-161-p3s1w2">
 <src.rf>manual</src.rf>
@@ -111,7 +114,10 @@
 <LM>w#w-mf930701-161-p3s1w2</LM>
 </w.rf>
 <form>York</form>
-<tag lemma="York-2_;G" src="orig" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="York-2_;G" src="orig">NNIS1-----A----</AM>
+<AM lemma="York-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-mf930701-161-p3s1w3">
 <src.rf>manual</src.rf>
@@ -417,7 +423,10 @@
 <LM>w#w-mf930701-161-p3s2w11</LM>
 </w.rf>
 <form>jen</form>
-<tag lemma="jen-1" src="auto" selected="1">TT-------------</tag>
+<tag>
+<AM lemma="jen-1" src="auto">TT-------------</AM>
+<AM lemma="jen-4_^(pouze)" src="manual" selected="1">Db-------------</AM>
+</tag>
 </m>
 <m id="m-mf930701-161-p3s2w12">
 <src.rf>manual</src.rf>
@@ -452,6 +461,7 @@
 <tag>
 <AM lemma="USA_;G" src="orig">NNIPX-----A----</AM>
 <AM lemma="USA_:B_;K_,t_^(United_States_of_America)" src="auto" recommended="1">NNIPX-----A---8</AM>
+<AM lemma="USA_:B_;K_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-mf930701-161-p3s2w16">
@@ -640,7 +650,10 @@
 <LM>w#w-mf930701-161-p4s1w3</LM>
 </w.rf>
 <form>Muhammad</form>
-<tag lemma="Muhammad_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Muhammad_;S" src="orig">NNMS1-----A----</AM>
+<AM lemma="Muhammad_;Y_;S" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930701-161-p4s1w4">
 <src.rf>manual</src.rf>
@@ -680,7 +693,10 @@
 <LM>w#w-mf930701-161-p4s1w8</LM>
 </w.rf>
 <form>RB</form>
-<tag lemma="RB_:B_;K" src="auto" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="RB_:B_;K" src="auto">NNXXX-----A---8</AM>
+<AM lemma="RB-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-mf930701-161-p4s1w9">
 <src.rf>manual</src.rf>
@@ -768,7 +784,10 @@
 <LM>w#w-mf930701-161-p4s1w19</LM>
 </w.rf>
 <form>jen</form>
-<tag lemma="jen-1" src="auto" selected="1">TT-------------</tag>
+<tag>
+<AM lemma="jen-1" src="auto">TT-------------</AM>
+<AM lemma="jen-4_^(pouze)" src="manual" selected="1">Db-------------</AM>
+</tag>
 </m>
 <m id="m-mf930701-161-p4s1w20">
 <src.rf>manual</src.rf>
@@ -802,7 +821,7 @@
 <form>nikoli</form>
 <tag>
 <AM lemma="nikoliv" src="orig">Db------------1</AM>
-<AM lemma="nikoli" src="auto" recommended="1">TT-------------</AM>
+<AM lemma="nikoli" src="auto" recommended="1" selected="1">TT-------------</AM>
 </tag>
 </m>
 <m id="m-mf930701-161-p4s1w24">
@@ -1541,7 +1560,10 @@
 <LM>w#w-mf930701-161-p7s1w6</LM>
 </w.rf>
 <form>HVO</form>
-<tag lemma="HVO_:B" src="auto" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="HVO_:B" src="auto">NNXXX-----A---8</AM>
+<AM lemma="HVO-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-mf930701-161-p7s1w7">
 <src.rf>manual</src.rf>
@@ -1791,7 +1813,10 @@
 <LM>w#w-mf930701-161-p7s2w6</LM>
 </w.rf>
 <form>HINA</form>
-<tag lemma="HINA_:B_;K" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="HINA_:B_;K" src="orig">NNFXX-----A---8</AM>
+<AM lemma="HINA-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-mf930701-161-p7s2w7">
 <src.rf>manual</src.rf>
@@ -2091,7 +2116,10 @@
 <LM>w#w-mf930701-161-p9s1w4</LM>
 </w.rf>
 <form>Alija</form>
-<tag lemma="Alija_;Y_,t" src="auto" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Alija_;Y_,t" src="auto">NNMS1-----A----</AM>
+<AM lemma="Alija_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930701-161-p9s1w5">
 <src.rf>manual</src.rf>
@@ -2245,7 +2273,10 @@
 <LM>w#w-mf930701-161-p9s2w10</LM>
 </w.rf>
 <form>Milliyet</form>
-<tag lemma="Milliyet_;R" src="orig" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="Milliyet_;R" src="orig">NNIS1-----A----</AM>
+<AM lemma="Milliyet-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-mf930701-161-p9s2w11">
 <src.rf>manual</src.rf>

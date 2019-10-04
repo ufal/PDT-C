@@ -32,7 +32,7 @@
 <AM lemma="Stráský_;S" src="auto">NNMP1-----A---6</AM>
 <AM lemma="Stráský_;S" src="auto">NNMP4-----A---6</AM>
 <AM lemma="Stráský_;S" src="auto">NNMP5-----A---6</AM>
-<AM lemma="Stráský_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Stráský_;S" src="auto" recommended="1" selected="1">NNMS1-----A----</AM>
 <AM lemma="Stráský_;S" src="auto">NNMS5-----A----</AM>
 <AM lemma="Stráská_;S" src="auto">NNFP1-----A---6</AM>
 <AM lemma="Stráská_;S" src="auto">NNFP4-----A---6</AM>
@@ -270,7 +270,10 @@
 <LM>w#w-mf920923-094-p2s2w12</LM>
 </w.rf>
 <form>ČSFR</form>
-<tag lemma="ČSFR-1_:B_;G_^(Čs._federativní_republika)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ČSFR-1_:B_;G_^(Čs._federativní_republika)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČSFR-1_:B_;G_^(Čs._federativní_republika)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920923-094-p2s2w13">
 <src.rf>manual</src.rf>
@@ -438,7 +441,10 @@
 <LM>w#w-mf920923-094-p2s2w33</LM>
 </w.rf>
 <form>popř</form>
-<tag lemma="popřípadě_:B" src="orig" selected="1">Db------------8</tag>
+<tag>
+<AM lemma="popřípadě_:B" src="orig">Db------------8</AM>
+<AM lemma="popřípadě" src="manual" selected="1">Db------------8</AM>
+</tag>
 </m>
 <m id="m-mf920923-094-p2s2w34">
 <src.rf>manual</src.rf>
@@ -712,7 +718,10 @@
 <LM>w#w-mf920923-094-p2s3w10</LM>
 </w.rf>
 <form>FS</form>
-<tag lemma="FS_:B_;K_^(Federální_shromáždění)" src="orig" selected="1">NNNXX-----A---8</tag>
+<tag>
+<AM lemma="FS_:B_;K_^(Federální_shromáždění)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="FS-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920923-094-p2s3w11">
 <src.rf>manual</src.rf>
@@ -978,7 +987,10 @@
 <LM>w#w-mf920923-094-p2s4w9</LM>
 </w.rf>
 <form>ČSSD</form>
-<tag lemma="ČSSD-1_:B_;K_;p_^(Česká_strana_sociálně-demokratická)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ČSSD-1_:B_;K_;p_^(Česká_strana_sociálně-demokratická)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČSSD-1_:B_;K_^(Česká_strana_sociálně-demokratická)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920923-094-p2s4w10">
 <src.rf>manual</src.rf>
@@ -1082,7 +1094,10 @@
 <LM>w#w-mf920923-094-p2s4w22</LM>
 </w.rf>
 <form>diskuse</form>
-<tag lemma="diskuse" src="orig" selected="1">NNFS2-----A----</tag>
+<tag>
+<AM lemma="diskuse" src="orig">NNFS2-----A----</AM>
+<AM lemma="diskuse_,s_^(^DD**diskuze)" src="manual" selected="1">NNFS2-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920923-094-p2s4w23">
 <src.rf>manual</src.rf>
@@ -1228,7 +1243,10 @@
 <LM>w#w-mf920923-094-p2s5w9</LM>
 </w.rf>
 <form>FS</form>
-<tag lemma="FS_:B_;K_^(Federální_shromáždění)" src="orig" selected="1">NNNXX-----A---8</tag>
+<tag>
+<AM lemma="FS_:B_;K_^(Federální_shromáždění)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="FS-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920923-094-p2s5w10">
 <src.rf>manual</src.rf>
@@ -1371,7 +1389,7 @@
 <AM lemma="Stráský_;S" src="auto">NNMP1-----A---6</AM>
 <AM lemma="Stráský_;S" src="auto">NNMP4-----A---6</AM>
 <AM lemma="Stráský_;S" src="auto">NNMP5-----A---6</AM>
-<AM lemma="Stráský_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Stráský_;S" src="auto" recommended="1" selected="1">NNMS1-----A----</AM>
 <AM lemma="Stráský_;S" src="auto">NNMS5-----A----</AM>
 <AM lemma="Stráská_;S" src="auto">NNFP1-----A---6</AM>
 <AM lemma="Stráská_;S" src="auto">NNFP4-----A---6</AM>
@@ -1395,7 +1413,10 @@
 <LM>w#w-mf920923-094-p3s1w6</LM>
 </w.rf>
 <form>ODS</form>
-<tag lemma="ODS-1_:B_;K_;p_^(Občanská_demokratická_strana)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ODS-1_:B_;K_;p_^(Občanská_demokratická_strana)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ODS-1_:B_;K_^(Občanská_demokratická_strana)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920923-094-p3s1w7">
 <src.rf>manual</src.rf>

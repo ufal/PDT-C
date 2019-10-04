@@ -45,7 +45,7 @@
 <form>přece</form>
 <tag>
 <AM lemma="přece" src="orig">Db-------------</AM>
-<AM lemma="přece-1" src="auto" recommended="1">J^-------------</AM>
+<AM lemma="přece-1" src="auto" recommended="1" selected="1">J^-------------</AM>
 <AM lemma="přece-2" src="auto">TT-------------</AM>
 </tag>
 </m>
@@ -306,7 +306,7 @@
 <tag>
 <AM lemma="tedy" src="orig">Db-------------</AM>
 <AM lemma="tedy-1" src="auto">TT-------------</AM>
-<AM lemma="tedy-2" src="auto" recommended="1">J^-------------</AM>
+<AM lemma="tedy-2" src="auto" recommended="1" selected="1">J^-------------</AM>
 </tag>
 </m>
 <m id="m-ln94200-102-p2s2w4">
@@ -495,7 +495,7 @@
 <form>přece</form>
 <tag>
 <AM lemma="přece" src="orig">Db-------------</AM>
-<AM lemma="přece-1" src="auto">J^-------------</AM>
+<AM lemma="přece-1" src="auto" selected="1">J^-------------</AM>
 <AM lemma="přece-2" src="auto" recommended="1">TT-------------</AM>
 </tag>
 </m>
@@ -547,7 +547,10 @@
 <LM>w#w-ln94200-102-p2s4w5</LM>
 </w.rf>
 <form>Daniela</form>
-<tag lemma="Daniel_;Y" src="orig" selected="1">NNMS4-----A----</tag>
+<tag>
+<AM lemma="Daniel_;Y" src="orig">NNMS4-----A----</AM>
+<AM lemma="Daniel_;S_;Y" src="manual" selected="1">NNMS4-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94200-102-p2s4w6">
 <src.rf>manual</src.rf>
@@ -695,7 +698,7 @@
 <form>ovšem</form>
 <tag>
 <AM lemma="ovšem-1_^(avšak,_však;_odporovací_spojka)" src="orig">J^-------------</AM>
-<AM lemma="ovšem" src="auto" recommended="1">TT-------------</AM>
+<AM lemma="ovšem" src="auto" recommended="1" selected="1">TT-------------</AM>
 </tag>
 </m>
 <m id="m-ln94200-102-p2s5w4">
@@ -1136,7 +1139,7 @@
 <form>Snad</form>
 <tag>
 <AM lemma="snad" src="orig">Db-------------</AM>
-<AM lemma="snad" src="auto" recommended="1">TT-------------</AM>
+<AM lemma="snad" src="auto" recommended="1" selected="1">TT-------------</AM>
 </tag>
 </m>
 <m id="m-ln94200-102-p3s1w2">
@@ -1203,7 +1206,7 @@
 <form>začít</form>
 <tag>
 <AM lemma="začít-1" src="orig">Vf--------A----</AM>
-<AM lemma="začít-1_^(začnout)" src="auto" recommended="1">Vf--------A----</AM>
+<AM lemma="začít-1_^(začnout)" src="auto" recommended="1" selected="1">Vf--------A----</AM>
 <AM lemma="začít-2_^(pocítit)" src="auto">Vf--------A----</AM>
 </tag>
 </m>
@@ -1396,7 +1399,7 @@
 <tag>
 <AM lemma="tedy" src="orig">Db-------------</AM>
 <AM lemma="tedy-1" src="auto" recommended="1">TT-------------</AM>
-<AM lemma="tedy-2" src="auto">J^-------------</AM>
+<AM lemma="tedy-2" src="auto" selected="1">J^-------------</AM>
 </tag>
 </m>
 <m id="m-ln94200-102-p3s3w9">
@@ -1429,7 +1432,10 @@
 <LM>w#w-ln94200-102-p3s3w12</LM>
 </w.rf>
 <form>Danielových</form>
-<tag lemma="Danielův_;Y_^(*2)" src="orig" selected="1">AUMP2M---------</tag>
+<tag>
+<AM lemma="Danielův_;Y_^(*2)" src="orig">AUMP2M---------</AM>
+<AM lemma="Danielův_;S_;Y_^(*2)" src="manual" selected="1">AUMP2M---------</AM>
+</tag>
 </m>
 <m id="m-ln94200-102-p3s3w13">
 <src.rf>manual</src.rf>
@@ -1769,7 +1775,10 @@
 <LM>w#w-ln94200-102-p3s5w16</LM>
 </w.rf>
 <form>konkurzu</form>
-<tag lemma="konkurs_^(úpadek;;soutěž)" src="auto" selected="1">NNIS2-----A----</tag>
+<tag>
+<AM lemma="konkurs_^(úpadek;;soutěž)" src="auto">NNIS2-----A----</AM>
+<AM lemma="konkurz_^(úpadek;;soutěž)" src="manual" selected="1">NNIS2-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94200-102-p3s5w17">
 <src.rf>manual</src.rf>
@@ -2301,7 +2310,10 @@
 <LM>w#w-ln94200-102-p3s7w4</LM>
 </w.rf>
 <form>jen</form>
-<tag lemma="jen-1" src="auto" selected="1">TT-------------</tag>
+<tag>
+<AM lemma="jen-1" src="auto">TT-------------</AM>
+<AM lemma="jen-4_^(pouze)" src="manual" selected="1">Db-------------</AM>
+</tag>
 </m>
 <m id="m-ln94200-102-p3s7w5">
 <src.rf>manual</src.rf>

@@ -231,7 +231,10 @@
 <LM>w#w-ln95040-085-p2s1Bw19</LM>
 </w.rf>
 <form>Jediot</form>
-<tag lemma="Jediot_;R_,t" src="orig" selected="1">NNXXX-----A----</tag>
+<tag>
+<AM lemma="Jediot_;R_,t" src="orig">NNXXX-----A----</AM>
+<AM lemma="Jediot-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln95040-085-p2s1Bw20">
 <src.rf>manual</src.rf>
@@ -239,7 +242,10 @@
 <LM>w#w-ln95040-085-p2s1Bw20</LM>
 </w.rf>
 <form>Achronot</form>
-<tag lemma="Achronot_;R_,t" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="Achronot_;R_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="Achronot-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln95040-085-p2s1Bw21">
 <src.rf>manual</src.rf>
@@ -279,7 +285,10 @@
 <LM>w#w-ln95040-085-p2s1Bw25</LM>
 </w.rf>
 <form>Amr</form>
-<tag lemma="Amr_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Amr_;S" src="orig">NNMS1-----A----</AM>
+<AM lemma="Amr_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95040-085-p2s1Bw26">
 <src.rf>manual</src.rf>
@@ -290,6 +299,7 @@
 <tag>
 <AM lemma="Músá_;S" src="orig">NNMS1-----A----</AM>
 <AM lemma="Músá_;S_,t" src="auto" recommended="1">NNMXX-----A----</AM>
+<AM lemma="Músá_;S" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95040-085-p2s1Bw27">
@@ -564,7 +574,7 @@
 <AM lemma="jakýkoli" src="auto">PZFP4----------</AM>
 <AM lemma="jakýkoli" src="auto">PZFP5----------</AM>
 <AM lemma="jakýkoli" src="auto">PZFS2----------</AM>
-<AM lemma="jakýkoli" src="auto" recommended="1">PZFS3----------</AM>
+<AM lemma="jakýkoli" src="auto" recommended="1" selected="1">PZFS3----------</AM>
 <AM lemma="jakýkoli" src="auto">PZFS6----------</AM>
 <AM lemma="jakýkoli" src="auto">PZIP1----------</AM>
 <AM lemma="jakýkoli" src="auto">PZIP5----------</AM>
@@ -880,7 +890,10 @@
 <LM>w#w-ln95040-085-p3s2w11</LM>
 </w.rf>
 <form>NPT</form>
-<tag lemma="NPT-1_:B_;R_,t_^(Nonproliferation_Treaty)" src="auto" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="NPT-1_:B_;R_,t_^(Nonproliferation_Treaty)" src="auto">NNFXX-----A---8</AM>
+<AM lemma="NPT-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln95040-085-p3s2w12">
 <src.rf>manual</src.rf>

@@ -51,7 +51,10 @@
 <LM>w#w-ln94209-78-p1s1w5</LM>
 </w.rf>
 <form>Č</form>
-<tag lemma="Český_:B_;G" src="orig" selected="1">AAXXX----1A---8</tag>
+<tag>
+<AM lemma="Český_:B_;G" src="orig">AAXXX----1A---8</AM>
+<AM lemma="Český" src="manual" selected="1">AAXXX----1A---8</AM>
+</tag>
 </m>
 <m id="m-ln94209-78-p1s1w6">
 <src.rf>manual</src.rf>
@@ -500,7 +503,7 @@
 <AM lemma="kometa" src="auto">NNFP1-----A----</AM>
 <AM lemma="kometa" src="auto">NNFP4-----A----</AM>
 <AM lemma="kometa" src="auto">NNFP5-----A----</AM>
-<AM lemma="kometa" src="auto" recommended="1">NNFS2-----A----</AM>
+<AM lemma="kometa" src="auto" recommended="1" selected="1">NNFS2-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94209-78-p2s3w20">

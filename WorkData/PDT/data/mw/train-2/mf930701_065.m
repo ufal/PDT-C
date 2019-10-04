@@ -45,7 +45,10 @@
 <LM>w#w-mf930701-065-p2s1w3</LM>
 </w.rf>
 <form>Serious</form>
-<tag lemma="Serious_;K_,t" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="Serious_;K_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="Serious-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-mf930701-065-p2s1w4">
 <src.rf>manual</src.rf>
@@ -56,6 +59,7 @@
 <tag>
 <AM lemma="Music_;K_,t" src="orig">NNFXX-----A----</AM>
 <AM lemma="music_,t_^(př._pop_music)" src="auto" recommended="1">NNFXX-----A----</AM>
+<AM lemma="Music-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-mf930701-065-p2s1w5">
@@ -64,7 +68,10 @@
 <LM>w#w-mf930701-065-p2s1w5</LM>
 </w.rf>
 <form>nahrálo</form>
-<tag lemma="nahrát" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag>
+<AM lemma="nahrát" src="orig">VpNS---XR-AA---</AM>
+<AM lemma="nahrát_:W" src="manual" selected="1">VpNS---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-mf930701-065-p2s1w6">
 <src.rf>manual</src.rf>
@@ -139,6 +146,9 @@
 <tag>
 <AM lemma="LP-1_:B_,t_^(deska,_samostatně,_př._vydali_LP_XY)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="LP_:B" src="auto" recommended="1">NNXXX-----A---8</AM>
+<AM lemma="LP-77" src="manual">F%-------------</AM>
+<AM lemma="LP-88_:B" src="manual">NNXXX-----A---8</AM>
+<AM lemma="LP-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930701-065-p2s1w15">
@@ -189,7 +199,10 @@
 <LM>w#w-mf930701-065-p2s2w2</LM>
 </w.rf>
 <form>nevyjde</form>
-<tag lemma="vyjít" src="orig" selected="1">VB-S---3P-NA---</tag>
+<tag>
+<AM lemma="vyjít" src="orig">VB-S---3P-NA---</AM>
+<AM lemma="vyjít_:W" src="manual" selected="1">VB-S---3P-NA---</AM>
+</tag>
 </m>
 <m id="m-mf930701-065-p2s2w3">
 <src.rf>manual</src.rf>
@@ -325,7 +338,10 @@
 <LM>w#w-mf930701-065-p2s2w19</LM>
 </w.rf>
 <form>stojí</form>
-<tag lemma="stát-3_^(někdo/něco_stojí,_např._na_nohou)" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag>
+<AM lemma="stát-3_^(někdo/něco_stojí,_např._na_nohou)" src="orig">VB-S---3P-AA---</AM>
+<AM lemma="stát-3_:T_^(někdo/něco_stojí,_např._na_nohou)" src="manual" selected="1">VB-S---3P-AA---</AM>
+</tag>
 </m>
 <m id="m-mf930701-065-p2s2w20">
 <src.rf>manual</src.rf>
@@ -349,7 +365,10 @@
 <LM>w#w-mf930701-065-p2s2w22</LM>
 </w.rf>
 <form>Big</form>
-<tag lemma="Big-1_;K_,t_^(souč._názvů,_např._Big_Ben)" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="Big-1_;K_,t_^(souč._názvů,_např._Big_Ben)" src="orig">AAXXX----1A----</AM>
+<AM lemma="Big-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-mf930701-065-p2s2w23">
 <src.rf>manual</src.rf>
@@ -357,7 +376,10 @@
 <LM>w#w-mf930701-065-p2s2w23</LM>
 </w.rf>
 <form>Boss</form>
-<tag lemma="boss" src="orig" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="boss" src="orig">NNMS1-----A----</AM>
+<AM lemma="Boss-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-mf930701-065-p2s2w24">
 <src.rf>manual</src.rf>
@@ -487,7 +509,10 @@
 <LM>w#w-mf930701-065-p3s1w13</LM>
 </w.rf>
 <form>Mr</form>
-<tag lemma="Mister_:B_,t" src="auto" selected="1">NNMXX-----A---8</tag>
+<tag>
+<AM lemma="Mister_:B_,t" src="auto">NNMXX-----A---8</AM>
+<AM lemma="Mr-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-mf930701-065-p3s1w14">
 <src.rf>manual</src.rf>
@@ -505,7 +530,10 @@
 <LM>w#w-mf930701-065-p3s2w1</LM>
 </w.rf>
 <form>Zon</form>
-<tag lemma="Zon_;Y" src="orig" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Zon_;Y" src="orig">NNMS1-----A----</AM>
+<AM lemma="Zon-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-mf930701-065-p3s2w2">
 <src.rf>manual</src.rf>
@@ -513,7 +541,10 @@
 <LM>w#w-mf930701-065-p3s2w2</LM>
 </w.rf>
 <form>Zon</form>
-<tag lemma="Zon_;Y" src="orig" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Zon_;Y" src="orig">NNMS1-----A----</AM>
+<AM lemma="Zon-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-mf930701-065-p3s2w3">
 <src.rf>manual</src.rf>
@@ -733,7 +764,10 @@
 <LM>w#w-mf930701-065-p3s4w15</LM>
 </w.rf>
 <form>právě</form>
-<tag lemma="právě-1" src="auto" selected="1">Db-------------</tag>
+<tag>
+<AM lemma="právě-1" src="auto">Db-------------</AM>
+<AM lemma="právě-2" src="manual" selected="1">TT-------------</AM>
+</tag>
 </m>
 <m id="m-mf930701-065-p3s4w16">
 <src.rf>manual</src.rf>

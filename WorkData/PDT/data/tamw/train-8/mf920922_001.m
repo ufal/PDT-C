@@ -337,7 +337,10 @@
 <LM>w#w-mf920922-001-p1s4w1</LM>
 </w.rf>
 <form>Ještě</form>
-<tag lemma="ještě-1" src="auto" selected="1">Db-------------</tag>
+<tag>
+<AM lemma="ještě-1" src="auto">Db-------------</AM>
+<AM lemma="ještě-2" src="manual" selected="1">TT-------------</AM>
+</tag>
 </m>
 <m id="m-mf920922-001-p1s4w2">
 <src.rf>manual</src.rf>
@@ -551,7 +554,10 @@
 <LM>w#w-mf920922-001-p1s7Aw6</LM>
 </w.rf>
 <form>M</form>
-<tag lemma="M-0_:B_;Y" src="orig" selected="1">NNMXX-----A---8</tag>
+<tag>
+<AM lemma="M-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
+<AM lemma="M-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-mf920922-001-p1s7Aw7">
 <src.rf>manual</src.rf>
@@ -567,7 +573,10 @@
 <LM>w#w-mf920922-001-p1s7Aw8</LM>
 </w.rf>
 <form>K</form>
-<tag lemma="K-9_:B_;S" src="orig" selected="1">NNMXX-----A---8</tag>
+<tag>
+<AM lemma="K-9_:B_;S" src="orig">NNMXX-----A---8</AM>
+<AM lemma="K-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-mf920922-001-p1s7Aw9">
 <src.rf>manual</src.rf>
@@ -717,7 +726,7 @@
 <form>nalezeno</form>
 <tag>
 <AM lemma="naleznout" src="orig">VsNS---XX-AP---</AM>
-<AM lemma="nalézt-2" src="auto" recommended="1">VsNS---XX-AP---</AM>
+<AM lemma="nalézt-2" src="auto" recommended="1" selected="1">VsNS---XX-AP---</AM>
 </tag>
 </m>
 <m id="m-mf920922-001-p1s8w12">

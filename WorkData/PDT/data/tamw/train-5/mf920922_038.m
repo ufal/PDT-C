@@ -56,6 +56,7 @@
 <tag>
 <AM lemma="sob-99_:B_;S" src="orig">NNXXX-----A---8</AM>
 <AM lemma="sob" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="sob-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920922-038-p2s1w4">
@@ -414,7 +415,10 @@
 <LM>w#w-mf920922-038-p2s4w3</LM>
 </w.rf>
 <form>I</form>
-<tag lemma="I-0_:B_;Y" src="orig" selected="1">NNMXX-----A---8</tag>
+<tag>
+<AM lemma="I-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
+<AM lemma="I-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920922-038-p2s4w4">
 <src.rf>manual</src.rf>
@@ -430,7 +434,10 @@
 <LM>w#w-mf920922-038-p2s4w5</LM>
 </w.rf>
 <form>P</form>
-<tag lemma="P-0_:B_;Y" src="orig" selected="1">NNMXX-----A---8</tag>
+<tag>
+<AM lemma="P-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
+<AM lemma="P-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920922-038-p2s4w6">
 <src.rf>manual</src.rf>
@@ -486,7 +493,10 @@
 <LM>w#w-mf920922-038-p2s4w12</LM>
 </w.rf>
 <form>Ruská</form>
-<tag lemma="ruský" src="orig" selected="1">AAFS1----1A----</tag>
+<tag>
+<AM lemma="ruský" src="orig">AAFS1----1A----</AM>
+<AM lemma="Ruská_;G" src="manual" selected="1">NNFS1-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920922-038-p2s4w13">
 <src.rf>manual</src.rf>
@@ -504,7 +514,7 @@
 <form>Čechovo</form>
 <tag>
 <AM lemma="Čechův-2_;S_^(*4-2)" src="orig">AUNS1M---------</AM>
-<AM lemma="Čechův-2_;S_^(*4o-2)" src="auto" recommended="1">AUNS1M---------</AM>
+<AM lemma="Čechův-2_;S_^(*4o-2)" src="auto" recommended="1" selected="1">AUNS1M---------</AM>
 <AM lemma="Čechův-2_;S_^(*4o-2)" src="auto">AUNS4M---------</AM>
 <AM lemma="Čechův-2_;S_^(*4o-2)" src="auto">AUNS5M---------</AM>
 <AM lemma="Čechův-2_;S_^(*4o-2)" src="auto">AUXXXM--------7</AM>
@@ -586,7 +596,11 @@
 <LM>w#w-mf920922-038-p2s5w2</LM>
 </w.rf>
 <form>cestující</form>
-<tag lemma="cestující_^(*5ovat)" src="auto" selected="1">AGMS1-----A----</tag>
+<tag>
+<AM lemma="cestující_^(*5ovat)" src="auto">AGMS1-----A----</AM>
+<AM lemma="cestující-2" src="manual">NNMP1-----A----</AM>
+<AM lemma="cestující-2" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920922-038-p2s5w3">
 <src.rf>manual</src.rf>
@@ -594,7 +608,10 @@
 <LM>w#w-mf920922-038-p2s5w3</LM>
 </w.rf>
 <form>musí</form>
-<tag lemma="muset" src="orig" selected="1">VB-P---3P-AA--1</tag>
+<tag>
+<AM lemma="muset" src="orig">VB-P---3P-AA--1</AM>
+<AM lemma="muset" src="manual" selected="1">VB-S---3P-AA---</AM>
+</tag>
 </m>
 <m id="m-mf920922-038-p2s5w4">
 <src.rf>manual</src.rf>
@@ -650,7 +667,10 @@
 <LM>w#w-mf920922-038-p2s5w10</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-2" src="auto" selected="1">Dg-------2A----</tag>
+<tag>
+<AM lemma="hodně-2" src="auto">Dg-------2A----</AM>
+<AM lemma="více_^(více_+_2._p.,_více_peněz)" src="manual" selected="1">Ca--4----------</AM>
+</tag>
 </m>
 <m id="m-mf920922-038-p2s5w11">
 <src.rf>manual</src.rf>

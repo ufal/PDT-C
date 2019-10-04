@@ -23,6 +23,7 @@
 <AM lemma="motorismus" src="orig">NNIS1-----A----</AM>
 <AM lemma="motorizmus" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="motorizmus" src="auto">NNIS4-----A----</AM>
+<AM lemma="motorismus_,s_^(^DD**motorizmus)" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 </s>
@@ -49,7 +50,10 @@
 <LM>w#w-lnd94105-089-p1s30Bw3</LM>
 </w.rf>
 <form>MS</form>
-<tag lemma="MS-3_:B_;w_^(mistrovství_světa)" src="orig" selected="1">NNNXX-----A---8</tag>
+<tag>
+<AM lemma="MS-3_:B_;w_^(mistrovství_světa)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="MS-3_:B_^(mistrovství_světa)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd94105-089-p1s30Bw4">
 <src.rf>manual</src.rf>
@@ -85,6 +89,8 @@
 <AM lemma="Donington_;G_,t" src="orig">AAXXX----1A----</AM>
 <AM lemma="Donington_;G" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Donington_;G" src="auto">NNIS4-----A----</AM>
+<AM lemma="Donington_;G_,t" src="manual">NNXXX-----A----</AM>
+<AM lemma="Donington-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-lnd94105-089-p1s30Bw8">

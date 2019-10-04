@@ -207,7 +207,10 @@
 <LM>w#w-ln95045-090-p2s1Bw18</LM>
 </w.rf>
 <form>a</form>
-<tag lemma="akciový_:B_^(jen_akciová_společnost)" src="orig" selected="1">AAXXX----1A---8</tag>
+<tag>
+<AM lemma="akciový_:B_^(jen_akciová_společnost)" src="orig">AAXXX----1A---8</AM>
+<AM lemma="akciový" src="manual" selected="1">AAXXX----1A---8</AM>
+</tag>
 </m>
 <m id="m-ln95045-090-p2s1Bw19">
 <src.rf>manual</src.rf>
@@ -223,7 +226,10 @@
 <LM>w#w-ln95045-090-p2s1Bw20</LM>
 </w.rf>
 <form>s</form>
-<tag lemma="společnost_:B" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="společnost_:B" src="orig">NNFXX-----A---8</AM>
+<AM lemma="společnost" src="manual" selected="1">NNFXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln95045-090-p2s1Bw21">
 <src.rf>manual</src.rf>
@@ -836,7 +842,7 @@
 <AM lemma="půlnoc" src="auto">NNFP1-----A----</AM>
 <AM lemma="půlnoc" src="auto">NNFP4-----A----</AM>
 <AM lemma="půlnoc" src="auto">NNFP5-----A----</AM>
-<AM lemma="půlnoc" src="auto" recommended="1">NNFS2-----A----</AM>
+<AM lemma="půlnoc" src="auto" recommended="1" selected="1">NNFS2-----A----</AM>
 <AM lemma="půlnoc" src="auto">NNFS3-----A----</AM>
 <AM lemma="půlnoc" src="auto">NNFS5-----A----</AM>
 <AM lemma="půlnoc" src="auto">NNFS6-----A----</AM>
@@ -1278,7 +1284,10 @@
 <LM>w#w-ln95045-090-p3s7w3</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-2" src="auto" selected="1">Dg-------2A----</tag>
+<tag>
+<AM lemma="hodně-2" src="auto">Dg-------2A----</AM>
+<AM lemma="více_^(více_+_2._p.,_více_peněz)" src="manual" selected="1">Ca--2----------</AM>
+</tag>
 </m>
 <m id="m-ln95045-090-p3s7w4">
 <src.rf>manual</src.rf>
@@ -1772,7 +1781,10 @@
 <LM>w#w-ln95045-090-p4s2w17</LM>
 </w.rf>
 <form>a</form>
-<tag lemma="akciový_:B_^(jen_akciová_společnost)" src="orig" selected="1">AAXXX----1A---8</tag>
+<tag>
+<AM lemma="akciový_:B_^(jen_akciová_společnost)" src="orig">AAXXX----1A---8</AM>
+<AM lemma="akciový" src="manual" selected="1">AAXXX----1A----</AM>
+</tag>
 </m>
 <m id="m-ln95045-090-p4s2w18">
 <src.rf>manual</src.rf>
@@ -1788,7 +1800,10 @@
 <LM>w#w-ln95045-090-p4s2w19</LM>
 </w.rf>
 <form>s</form>
-<tag lemma="společnost_:B" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="společnost_:B" src="orig">NNFXX-----A---8</AM>
+<AM lemma="společnost" src="manual" selected="1">NNFXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln95045-090-p4s2w20">
 <src.rf>manual</src.rf>

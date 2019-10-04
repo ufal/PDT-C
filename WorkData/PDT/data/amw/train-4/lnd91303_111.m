@@ -95,7 +95,7 @@
 <form>vánocemi</form>
 <tag>
 <AM lemma="vánoce" src="orig">NNFP7-----A----</AM>
-<AM lemma="Vánoce_,x" src="auto" recommended="1">NNFP7-----A----</AM>
+<AM lemma="Vánoce_,x" src="auto" recommended="1" selected="1">NNFP7-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd91303-111-p2s1w8">
@@ -367,7 +367,7 @@
 <tag>
 <AM lemma="velikonoce" src="orig">NNFP4-----A----</AM>
 <AM lemma="Velikonoce" src="auto">NNFP1-----A----</AM>
-<AM lemma="Velikonoce" src="auto" recommended="1">NNFP4-----A----</AM>
+<AM lemma="Velikonoce" src="auto" recommended="1" selected="1">NNFP4-----A----</AM>
 <AM lemma="Velikonoce" src="auto">NNFP5-----A----</AM>
 <AM lemma="Velikonoce" src="auto">NNFP6-----A---6</AM>
 </tag>
@@ -850,7 +850,7 @@
 <form>třeba</form>
 <tag>
 <AM lemma="třeba-1" src="orig">ACNS------A----</AM>
-<AM lemma="třeba-2" src="auto" recommended="1">Db-------------</AM>
+<AM lemma="třeba-2" src="auto" recommended="1" selected="1">Db-------------</AM>
 <AM lemma="třeba-3" src="auto">TT-------------</AM>
 </tag>
 </m>
@@ -1851,7 +1851,7 @@
 <form>zkušení</form>
 <tag>
 <AM lemma="zkušený" src="orig">NNMP1-----A----</AM>
-<AM lemma="zkušený" src="auto" recommended="1">AAMP1----1A----</AM>
+<AM lemma="zkušený" src="auto" recommended="1" selected="1">AAMP1----1A----</AM>
 <AM lemma="zkušený" src="auto">AAMP5----1A----</AM>
 </tag>
 </m>
@@ -1999,7 +1999,10 @@
 <LM>w#w-lnd91303-111-p10s1w9</LM>
 </w.rf>
 <form>FMV</form>
-<tag lemma="FMV_:B_;K_^(Federální_ministerstvo_vnitra)" src="orig" selected="1">NNNXX-----A---8</tag>
+<tag>
+<AM lemma="FMV_:B_;K_^(Federální_ministerstvo_vnitra)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="FMV-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd91303-111-p10s1w10">
 <src.rf>manual</src.rf>
@@ -2279,6 +2282,7 @@
 <tag>
 <AM lemma="th_;K_,t" src="orig">CrXXX----------</AM>
 <AM lemma="th-1_:B_^(thermie-jednotka_tepla)" src="auto" recommended="1">NNFXX-----A---8</AM>
+<AM lemma="th-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-lnd91303-111-p10s2Bw11">
@@ -2287,7 +2291,10 @@
 <LM>w#w-lnd91303-111-p10s2Bw11</LM>
 </w.rf>
 <form>Century</form>
-<tag lemma="Century_;K_,t" src="orig" selected="1">NNNXX-----A----</tag>
+<tag>
+<AM lemma="Century_;K_,t" src="orig">NNNXX-----A----</AM>
+<AM lemma="Century-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-lnd91303-111-p10s2Bw12">
 <src.rf>manual</src.rf>
@@ -2304,6 +2311,7 @@
 <AM lemma="Fox-3_;R_^(FoxBase)" src="auto">NNIS4-----A----</AM>
 <AM lemma="fox_;u" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="fox_;u" src="auto">NNIS4-----A----</AM>
+<AM lemma="Fox-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-lnd91303-111-p10s2Bw13">
@@ -2332,7 +2340,7 @@
 <form>ovšem</form>
 <tag>
 <AM lemma="ovšem-1_^(avšak,_však;_odporovací_spojka)" src="orig">J^-------------</AM>
-<AM lemma="ovšem" src="auto" recommended="1">TT-------------</AM>
+<AM lemma="ovšem" src="auto" recommended="1" selected="1">TT-------------</AM>
 </tag>
 </m>
 <m id="m-lnd91303-111-p11s1w3">
@@ -2685,7 +2693,7 @@
 <form>jedině</form>
 <tag>
 <AM lemma="jedině_^(*1ý)" src="orig">Dg-------1A----</AM>
-<AM lemma="jedině" src="auto" recommended="1">Db-------------</AM>
+<AM lemma="jedině" src="auto" recommended="1" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m-lnd91303-111-p11s4w9">
@@ -2850,7 +2858,10 @@
 <LM>w#w-lnd91303-111-p11s6w1</LM>
 </w.rf>
 <form>A</form>
-<tag lemma="a-1" src="orig" selected="1">J^-------------</tag>
+<tag>
+<AM lemma="a-1" src="orig">J^-------------</AM>
+<AM lemma="A-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-lnd91303-111-p11s6w2">
 <src.rf>manual</src.rf>
@@ -2861,6 +2872,7 @@
 <tag>
 <AM lemma="propos_,t" src="orig">II-------------</AM>
 <AM lemma="propos_,t" src="auto" recommended="1">TT-------------</AM>
+<AM lemma="propos-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-lnd91303-111-p11s6w3">
@@ -2893,7 +2905,10 @@
 <LM>w#w-lnd91303-111-p11s6w6</LM>
 </w.rf>
 <form>li</form>
-<tag lemma="li-1" src="auto" selected="1">TT-------------</tag>
+<tag>
+<AM lemma="li-1" src="auto">TT-------------</AM>
+<AM lemma="li-2" src="manual" selected="1">J,-------------</AM>
+</tag>
 </m>
 <m id="m-lnd91303-111-p11s6w7">
 <src.rf>manual</src.rf>

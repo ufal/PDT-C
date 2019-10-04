@@ -111,7 +111,10 @@
 <LM>w#w-mf930709-011-p2s1Bw5</LM>
 </w.rf>
 <form>má</form>
-<tag lemma="mít" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag>
+<AM lemma="mít" src="orig">VB-S---3P-AA---</AM>
+<AM lemma="mít_:T" src="manual" selected="1">VB-S---3P-AA---</AM>
+</tag>
 </m>
 <m id="m-mf930709-011-p2s1Bw6">
 <src.rf>manual</src.rf>
@@ -226,7 +229,7 @@
 <tag>
 <AM lemma="Motol_;G" src="orig">NNIS6-----A----</AM>
 <AM lemma="Motol_;G" src="auto">NNIS5-----A----</AM>
-<AM lemma="Motol_;G" src="auto" recommended="1">NNIS6-----A---1</AM>
+<AM lemma="Motol_;G" src="auto" recommended="1" selected="1">NNIS6-----A---1</AM>
 </tag>
 </m>
 <m id="m-mf930709-011-p2s1Bw20">

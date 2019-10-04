@@ -153,7 +153,10 @@
 <LM>w#w-lnd92257-041-p2s3w4</LM>
 </w.rf>
 <form>J</form>
-<tag lemma="J-0_:B_;Y" src="orig" selected="1">NNMXX-----A---8</tag>
+<tag>
+<AM lemma="J-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
+<AM lemma="J-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd92257-041-p2s3w5">
 <src.rf>manual</src.rf>
@@ -201,7 +204,10 @@
 <LM>w#w-lnd92257-041-p2s3w10</LM>
 </w.rf>
 <form>SPR</form>
-<tag lemma="SPR-1_:B_;K_;p_^(Sdružení_pro_republiku)" src="orig" selected="1">NNNXX-----A---8</tag>
+<tag>
+<AM lemma="SPR-1_:B_;K_;p_^(Sdružení_pro_republiku)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="SPR-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd92257-041-p2s3w11">
 <src.rf>manual</src.rf>
@@ -217,7 +223,10 @@
 <LM>w#w-lnd92257-041-p2s3w12</LM>
 </w.rf>
 <form>RSČ</form>
-<tag lemma="RSČ-1_:B_;K_;p_^(Republikánská_strana_Československa)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="RSČ-1_:B_;K_;p_^(Republikánská_strana_Československa)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="RSČ-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd92257-041-p2s3w13">
 <src.rf>manual</src.rf>
@@ -241,7 +250,10 @@
 <LM>w#w-lnd92257-041-p2s3w15</LM>
 </w.rf>
 <form>I</form>
-<tag lemma="I-0_:B_;Y" src="orig" selected="1">NNMXX-----A---8</tag>
+<tag>
+<AM lemma="I-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
+<AM lemma="I-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd92257-041-p2s3w16">
 <src.rf>manual</src.rf>
@@ -361,7 +373,10 @@
 <LM>w#w-lnd92257-041-p2s3w30</LM>
 </w.rf>
 <form>SPR</form>
-<tag lemma="SPR-1_:B_;K_;p_^(Sdružení_pro_republiku)" src="orig" selected="1">NNNXX-----A---8</tag>
+<tag>
+<AM lemma="SPR-1_:B_;K_;p_^(Sdružení_pro_republiku)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="SPR-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd92257-041-p2s3w31">
 <src.rf>manual</src.rf>
@@ -377,7 +392,10 @@
 <LM>w#w-lnd92257-041-p2s3w32</LM>
 </w.rf>
 <form>RSČ</form>
-<tag lemma="RSČ-1_:B_;K_;p_^(Republikánská_strana_Československa)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="RSČ-1_:B_;K_;p_^(Republikánská_strana_Československa)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="RSČ-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd92257-041-p2s3w33">
 <src.rf>manual</src.rf>
@@ -637,7 +655,10 @@
 <LM>w#w-lnd92257-041-p2s5w5</LM>
 </w.rf>
 <form>J</form>
-<tag lemma="J-0_:B_;Y" src="orig" selected="1">NNMXX-----A---8</tag>
+<tag>
+<AM lemma="J-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
+<AM lemma="J-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd92257-041-p2s5w6">
 <src.rf>manual</src.rf>
@@ -783,7 +804,10 @@
 <LM>w#w-lnd92257-041-p2s6w1</LM>
 </w.rf>
 <form>M</form>
-<tag lemma="M-0_:B_;Y" src="orig" selected="1">NNMXX-----A---8</tag>
+<tag>
+<AM lemma="M-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
+<AM lemma="M-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd92257-041-p2s6w2">
 <src.rf>manual</src.rf>
@@ -879,7 +903,10 @@
 <LM>w#w-lnd92257-041-p2s6w13</LM>
 </w.rf>
 <form>republikanismu</form>
-<tag lemma="republikanismus" src="orig" selected="1">NNIS2-----A----</tag>
+<tag>
+<AM lemma="republikanismus" src="orig">NNIS2-----A----</AM>
+<AM lemma="republikanismus_,s_^(^DD**republikanizmus)" src="manual" selected="1">NNIS2-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92257-041-p2s6w14">
 <src.rf>manual</src.rf>

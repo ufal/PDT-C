@@ -62,7 +62,7 @@
 <tag>
 <AM lemma="spíše" src="orig">Dg-------3A----</AM>
 <AM lemma="nejspíš" src="auto">TT-------------</AM>
-<AM lemma="spíš" src="auto" recommended="1">Dg-------3A----</AM>
+<AM lemma="spíš" src="auto" recommended="1" selected="1">Dg-------3A----</AM>
 </tag>
 </m>
 <m id="m-ln94208-38-p1s1w7">
@@ -137,7 +137,10 @@
 <LM>w#w-ln94208-38-p2s1Aw3</LM>
 </w.rf>
 <form>haš</form>
-<tag lemma="haš-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="haš-99_:B_;S" src="orig">NNXXX-----A---8</AM>
+<AM lemma="haš-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94208-38-p2s1Aw4">
 <src.rf>manual</src.rf>
@@ -901,7 +904,7 @@
 <AM lemma="kout_^(př._dát_něco_do_kouta)" src="orig">NNIS2-----A----</AM>
 <AM lemma="kout_^(př._dát_něco_do_kouta)" src="auto">NNIS3-----A----</AM>
 <AM lemma="kout_^(př._dát_něco_do_kouta)" src="auto">NNIS6-----A---1</AM>
-<AM lemma="kout" src="auto" recommended="1">NNIS2-----A---1</AM>
+<AM lemma="kout" src="auto" recommended="1" selected="1">NNIS2-----A---1</AM>
 </tag>
 </m>
 <m id="m-ln94208-38-p3s3w19">
@@ -1604,7 +1607,10 @@
 <LM>w#w-ln94208-38-p3s6w11</LM>
 </w.rf>
 <form>dojde</form>
-<tag lemma="dojít" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag>
+<AM lemma="dojít" src="orig">VB-S---3P-AA---</AM>
+<AM lemma="dojít_:W" src="manual" selected="1">VB-S---3P-AA---</AM>
+</tag>
 </m>
 <m id="m-ln94208-38-p3s6w12">
 <src.rf>manual</src.rf>

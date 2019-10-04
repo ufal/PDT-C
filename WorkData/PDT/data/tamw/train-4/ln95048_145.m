@@ -271,7 +271,10 @@
 <LM>w#w-ln95048-145-p2s2w8</LM>
 </w.rf>
 <form>strana</form>
-<tag lemma="strana-3_^(u_soudu,_na_úřadě,_smluvní_strany;_na_něčí_straně)" src="orig" selected="1">NNFS1-----A----</tag>
+<tag>
+<AM lemma="strana-3_^(u_soudu,_na_úřadě,_smluvní_strany;_na_něčí_straně)" src="orig">NNFS1-----A----</AM>
+<AM lemma="strana" src="manual" selected="1">NNFS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95048-145-p2s2w9">
 <src.rf>manual</src.rf>
@@ -439,7 +442,10 @@
 <LM>w#w-ln95048-145-p2s2w29</LM>
 </w.rf>
 <form>stran</form>
-<tag lemma="strana-3_^(u_soudu,_na_úřadě,_smluvní_strany;_na_něčí_straně)" src="orig" selected="1">NNFP2-----A----</tag>
+<tag>
+<AM lemma="strana-3_^(u_soudu,_na_úřadě,_smluvní_strany;_na_něčí_straně)" src="orig">NNFP2-----A----</AM>
+<AM lemma="strana" src="manual" selected="1">NNFP2-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95048-145-p2s2w30">
 <src.rf>manual</src.rf>
@@ -553,7 +559,10 @@
 <LM>w#w-ln95048-145-p2s3w13</LM>
 </w.rf>
 <form>stálo</form>
-<tag lemma="stát-3_^(někdo/něco_stojí,_např._na_nohou)" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag>
+<AM lemma="stát-3_^(někdo/něco_stojí,_např._na_nohou)" src="orig">VpNS---XR-AA---</AM>
+<AM lemma="stát-3_^(stojím_stojíš)" src="manual" selected="1">VpNS---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-ln95048-145-p2s3w14">
 <src.rf>manual</src.rf>
@@ -813,7 +822,10 @@
 <LM>w#w-ln95048-145-p3s2w10</LM>
 </w.rf>
 <form>stát</form>
-<tag lemma="stát-2_^(něco_se_přihodilo)" src="orig" selected="1">Vf--------A----</tag>
+<tag>
+<AM lemma="stát-2_^(něco_se_přihodilo)" src="orig">Vf--------A----</AM>
+<AM lemma="stát-2_^(stanu_staneš)" src="manual" selected="1">Vf--------A----</AM>
+</tag>
 </m>
 <m id="m-ln95048-145-p3s2w11">
 <src.rf>manual</src.rf>
@@ -1005,7 +1017,10 @@
 <LM>w#w-ln95048-145-p3s2w34</LM>
 </w.rf>
 <form>ucho</form>
-<tag lemma="ucho" src="orig" selected="1">NNNS4-----A----</tag>
+<tag>
+<AM lemma="ucho" src="orig">NNNS4-----A----</AM>
+<AM lemma="ucho-2" src="manual" selected="1">NNNS4-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95048-145-p3s2w35">
 <src.rf>manual</src.rf>
@@ -1225,7 +1240,10 @@
 <LM>w#w-ln95048-145-p4s2w3</LM>
 </w.rf>
 <form>stavěla</form>
-<tag lemma="stavět" src="auto" selected="1">VpQW---XR-AA---</tag>
+<tag>
+<AM lemma="stavět" src="auto">VpQW---XR-AA---</AM>
+<AM lemma="stavět_:T" src="manual" selected="1">VpQW---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-ln95048-145-p4s2w4">
 <src.rf>manual</src.rf>
@@ -1353,7 +1371,10 @@
 <LM>w#w-ln95048-145-p4s2w19</LM>
 </w.rf>
 <form>napříč</form>
-<tag lemma="napříč-2" src="auto" selected="1">Db-------------</tag>
+<tag>
+<AM lemma="napříč-2" src="auto">Db-------------</AM>
+<AM lemma="napříč-1" src="manual" selected="1">RR--7----------</AM>
+</tag>
 </m>
 <m id="m-ln95048-145-p4s2w20">
 <src.rf>manual</src.rf>
@@ -1715,7 +1736,10 @@
 <LM>w#w-ln95048-145-p4s3w43</LM>
 </w.rf>
 <form>NATO</form>
-<tag lemma="NATO_:B_;K_^(North_Atlantic_Treaty_Organization)" src="auto" selected="1">NNNXX-----A---8</tag>
+<tag>
+<AM lemma="NATO_:B_;K_^(North_Atlantic_Treaty_Organization)" src="auto">NNNXX-----A---8</AM>
+<AM lemma="NATO_:B_;K_^(North_Atlantic_Treaty_Organization)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95048-145-p4s3w44">
 <src.rf>manual</src.rf>
@@ -1858,7 +1882,7 @@
 <tag>
 <AM lemma="tedy" src="orig">Db-------------</AM>
 <AM lemma="tedy-1" src="auto">TT-------------</AM>
-<AM lemma="tedy-2" src="auto" recommended="1">J^-------------</AM>
+<AM lemma="tedy-2" src="auto" recommended="1" selected="1">J^-------------</AM>
 </tag>
 </m>
 <m id="m-ln95048-145-p5s2w10">
@@ -2103,7 +2127,10 @@
 <LM>w#w-ln95048-145-p5s4w23</LM>
 </w.rf>
 <form>tzv</form>
-<tag lemma="takzvaný_:B" src="orig" selected="1">AAXXX----1A---8</tag>
+<tag>
+<AM lemma="takzvaný_:B" src="orig">AAXXX----1A---8</AM>
+<AM lemma="takzvaný" src="manual" selected="1">AAXXX----1A---8</AM>
+</tag>
 </m>
 <m id="m-ln95048-145-p5s4w24">
 <src.rf>manual</src.rf>
@@ -2321,7 +2348,10 @@
 <LM>w#w-ln95048-145-p5s5w21</LM>
 </w.rf>
 <form>NATO</form>
-<tag lemma="NATO_:B_;K_^(North_Atlantic_Treaty_Organization)" src="auto" selected="1">NNNXX-----A---8</tag>
+<tag>
+<AM lemma="NATO_:B_;K_^(North_Atlantic_Treaty_Organization)" src="auto">NNNXX-----A---8</AM>
+<AM lemma="NATO_:B_;K_^(North_Atlantic_Treaty_Organization)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95048-145-p5s5w22">
 <src.rf>manual</src.rf>
@@ -2611,7 +2641,10 @@
 <LM>w#w-ln95048-145-p6s1w31</LM>
 </w.rf>
 <form>jen</form>
-<tag lemma="jen-1" src="auto" selected="1">TT-------------</tag>
+<tag>
+<AM lemma="jen-1" src="auto">TT-------------</AM>
+<AM lemma="jen-4_^(pouze)" src="manual" selected="1">Db-------------</AM>
+</tag>
 </m>
 <m id="m-ln95048-145-p6s1w32">
 <src.rf>manual</src.rf>
@@ -3192,6 +3225,7 @@
 <tag>
 <AM lemma="USA_;G" src="orig">NNIPX-----A----</AM>
 <AM lemma="USA_:B_;K_,t_^(United_States_of_America)" src="auto" recommended="1">NNIPX-----A---8</AM>
+<AM lemma="USA_:B_;K_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95048-145-p7s1w19">
@@ -3312,7 +3346,10 @@
 <LM>w#w-ln95048-145-p7s1w33</LM>
 </w.rf>
 <form>uším</form>
-<tag lemma="ucho" src="orig" selected="1">NNFP3-----A----</tag>
+<tag>
+<AM lemma="ucho" src="orig">NNFP3-----A----</AM>
+<AM lemma="ucho-2" src="manual" selected="1">NNFP3-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95048-145-p7s1w34">
 <src.rf>manual</src.rf>
@@ -3362,7 +3399,10 @@
 <LM>w#w-ln95048-145-p7s2w4</LM>
 </w.rf>
 <form>NATO</form>
-<tag lemma="NATO_:B_;K_^(North_Atlantic_Treaty_Organization)" src="auto" selected="1">NNNXX-----A---8</tag>
+<tag>
+<AM lemma="NATO_:B_;K_^(North_Atlantic_Treaty_Organization)" src="auto">NNNXX-----A---8</AM>
+<AM lemma="NATO_:B_;K_^(North_Atlantic_Treaty_Organization)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95048-145-p7s2w5">
 <src.rf>manual</src.rf>
@@ -3500,7 +3540,10 @@
 <LM>w#w-ln95048-145-p7s3w2</LM>
 </w.rf>
 <form>jen</form>
-<tag lemma="jen-1" src="auto" selected="1">TT-------------</tag>
+<tag>
+<AM lemma="jen-1" src="auto">TT-------------</AM>
+<AM lemma="jen-4_^(pouze)" src="manual" selected="1">Db-------------</AM>
+</tag>
 </m>
 <m id="m-ln95048-145-p7s3w3">
 <src.rf>manual</src.rf>

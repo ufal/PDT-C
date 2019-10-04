@@ -205,7 +205,10 @@
 <LM>w#w-vesm9303-007-p1s2w22</LM>
 </w.rf>
 <form>LÚSES</form>
-<tag lemma="LÚSES" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="LÚSES" src="orig">NNIXX-----A---8</AM>
+<AM lemma="LÚSES-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-vesm9303-007-p1s2w23">
 <src.rf>manual</src.rf>
@@ -415,7 +418,10 @@
 <LM>w#w-vesm9303-007-p1s3w25</LM>
 </w.rf>
 <form>ÚSES</form>
-<tag lemma="ÚSES-1_:B_^(Územní_systém_ekologické_stability)" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="ÚSES-1_:B_^(Územní_systém_ekologické_stability)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="ÚSES-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-vesm9303-007-p1s3w26">
 <src.rf>manual</src.rf>
@@ -859,7 +865,10 @@
 <LM>w#w-vesm9303-007-p1s5w41</LM>
 </w.rf>
 <form>LÚSES</form>
-<tag lemma="LÚSES" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="LÚSES" src="orig">NNIXX-----A---8</AM>
+<AM lemma="LÚSES-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-vesm9303-007-p1s5w42">
 <src.rf>manual</src.rf>
@@ -1005,7 +1014,7 @@
 <form>nikoliv</form>
 <tag>
 <AM lemma="nikoliv" src="orig">Db-------------</AM>
-<AM lemma="nikoli" src="auto" recommended="1">TT------------1</AM>
+<AM lemma="nikoli" src="auto" recommended="1" selected="1">TT------------1</AM>
 </tag>
 </m>
 <m id="m-vesm9303-007-p1s5w60">
@@ -1248,7 +1257,7 @@
 <AM lemma="zkušený" src="auto">AAFP6----1A----</AM>
 <AM lemma="zkušený" src="auto">AAIP2----1A----</AM>
 <AM lemma="zkušený" src="auto">AAIP6----1A----</AM>
-<AM lemma="zkušený" src="auto" recommended="1">AAMP2----1A----</AM>
+<AM lemma="zkušený" src="auto" recommended="1" selected="1">AAMP2----1A----</AM>
 <AM lemma="zkušený" src="auto">AAMP6----1A----</AM>
 <AM lemma="zkušený" src="auto">AANP2----1A----</AM>
 <AM lemma="zkušený" src="auto">AANP6----1A----</AM>
@@ -1606,7 +1615,10 @@
 <LM>w#w-vesm9303-007-p2s2w15</LM>
 </w.rf>
 <form>ÚSES</form>
-<tag lemma="ÚSES-1_:B_^(Územní_systém_ekologické_stability)" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="ÚSES-1_:B_^(Územní_systém_ekologické_stability)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="ÚSES-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-vesm9303-007-p2s2w16">
 <src.rf>manual</src.rf>
@@ -1924,7 +1936,7 @@
 <form>Dzeržinské</form>
 <tag>
 <AM lemma="Dzeržinskij_;S" src="orig">NNMP4-----A----</AM>
-<AM lemma="Dzeržinský_;S" src="auto" recommended="1">NNMP4-----A----</AM>
+<AM lemma="Dzeržinský_;S" src="auto" recommended="1" selected="1">NNMP4-----A----</AM>
 <AM lemma="dzeržinský" src="auto">AAFP1----1A----</AM>
 <AM lemma="dzeržinský" src="auto">AAFP4----1A----</AM>
 <AM lemma="dzeržinský" src="auto">AAFP5----1A----</AM>
@@ -2186,7 +2198,10 @@
 <LM>w#w-vesm9303-007-p2s4w47</LM>
 </w.rf>
 <form>ÚSES</form>
-<tag lemma="ÚSES-1_:B_^(Územní_systém_ekologické_stability)" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="ÚSES-1_:B_^(Územní_systém_ekologické_stability)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="ÚSES-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-vesm9303-007-p2s4w48">
 <src.rf>manual</src.rf>
@@ -2950,7 +2965,10 @@
 <LM>w#w-vesm9303-007-p2s6w42</LM>
 </w.rf>
 <form>diskusi</form>
-<tag lemma="diskuse" src="orig" selected="1">NNFS4-----A----</tag>
+<tag>
+<AM lemma="diskuse" src="orig">NNFS4-----A----</AM>
+<AM lemma="diskuse_,s_^(^DD**diskuze)" src="manual" selected="1">NNFS4-----A----</AM>
+</tag>
 </m>
 <m id="m-vesm9303-007-p2s6w43">
 <src.rf>manual</src.rf>

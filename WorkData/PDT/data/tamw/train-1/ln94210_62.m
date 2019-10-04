@@ -374,6 +374,8 @@
 <tag>
 <AM lemma="LDS_:B_;K" src="orig">NNFXX-----A---8</AM>
 <AM lemma="LDS_:B_;R" src="auto" recommended="1">NNXXX-----A---8</AM>
+<AM lemma="LDS_:B" src="manual">NNXXX-----A---8</AM>
+<AM lemma="LDS-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94210-62-p2s2w14">
@@ -435,6 +437,8 @@
 <tag>
 <AM lemma="LDS_:B_;K" src="orig">NNFXX-----A---8</AM>
 <AM lemma="LDS_:B_;R" src="auto" recommended="1">NNXXX-----A---8</AM>
+<AM lemma="LDS_:B" src="manual">NNXXX-----A---8</AM>
+<AM lemma="LDS-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94210-62-p3s1w2">
@@ -650,6 +654,8 @@
 <tag>
 <AM lemma="LDS_:B_;K" src="orig">NNFXX-----A---8</AM>
 <AM lemma="LDS_:B_;R" src="auto" recommended="1">NNXXX-----A---8</AM>
+<AM lemma="LDS_:B" src="manual">NNXXX-----A---8</AM>
+<AM lemma="LDS-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94210-62-p3s3w2">

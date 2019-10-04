@@ -119,7 +119,10 @@
 <LM>w#w-ln94206-5-p2s1Bw6</LM>
 </w.rf>
 <form>THERMIE</form>
-<tag lemma="THERMIE_:B_;K_,t" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="THERMIE_:B_;K_,t" src="orig">NNIXX-----A---8</AM>
+<AM lemma="THERMIE-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94206-5-p2s1Bw7">
 <src.rf>manual</src.rf>
@@ -645,7 +648,10 @@
 <LM>w#w-ln94206-5-p3s1w2</LM>
 </w.rf>
 <form>ČR</form>
-<tag lemma="ČR-1_:B_;G_^(Česká_republika)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94206-5-p3s1w3">
 <src.rf>manual</src.rf>
@@ -762,7 +768,7 @@
 <tag>
 <AM lemma="tady" src="orig">Db------------1</AM>
 <AM lemma="ten" src="auto" recommended="1">PDFS4----------</AM>
-<AM lemma="tu" src="auto">Db-------------</AM>
+<AM lemma="tu" src="auto" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m-ln94206-5-p3s2w3">

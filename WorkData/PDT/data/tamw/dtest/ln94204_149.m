@@ -80,7 +80,7 @@
 </w.rf>
 <form>Offenbachu</form>
 <tag>
-<AM lemma="Offenbach_;G" src="orig">NNIS6-----A----</AM>
+<AM lemma="Offenbach_;G" src="orig" selected="1">NNIS6-----A----</AM>
 <AM lemma="Offenbach_;S" src="auto">NNMS3-----A---1</AM>
 <AM lemma="Offenbach_;S" src="auto">NNMS5-----A----</AM>
 <AM lemma="Offenbach_;S" src="auto" recommended="1">NNMS6-----A---1</AM>
@@ -334,7 +334,7 @@
 <form>nevyhnutelně</form>
 <tag>
 <AM lemma="nevyhnutelně_^(*6out)" src="orig">Dg-------1A----</AM>
-<AM lemma="vyhnutelně_^(*1ý)" src="auto" recommended="1">Dg-------1N----</AM>
+<AM lemma="vyhnutelně_^(*1ý)" src="auto" recommended="1" selected="1">Dg-------1N----</AM>
 </tag>
 </m>
 <m id="m-ln94204-149-p2s1Bw35">
@@ -437,6 +437,8 @@
 <AM lemma="Neue_;R_,t" src="orig">AAXXX----1A----</AM>
 <AM lemma="Neue_;S" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Neue_;S" src="auto">NNMS5-----A----</AM>
+<AM lemma="neue_,t" src="manual">AAXXX----1A----</AM>
+<AM lemma="NEUE-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-ln94204-149-p2s2w11">
@@ -445,7 +447,11 @@
 <LM>w#w-ln94204-149-p2s2w11</LM>
 </w.rf>
 <form>LITERATUR</form>
-<tag lemma="literatura" src="orig" selected="1">NNFP2-----A----</tag>
+<tag>
+<AM lemma="literatura" src="orig">NNFP2-----A----</AM>
+<AM lemma="Literatur_,t" src="manual">NNXXX-----A----</AM>
+<AM lemma="LITERATUR-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94204-149-p2s2w12">
 <src.rf>manual</src.rf>
@@ -545,7 +551,10 @@
 <LM>w#w-ln94204-149-p2s4w1</LM>
 </w.rf>
 <form>Tzv</form>
-<tag lemma="takzvaný_:B" src="orig" selected="1">AAXXX----1A---8</tag>
+<tag>
+<AM lemma="takzvaný_:B" src="orig">AAXXX----1A---8</AM>
+<AM lemma="takzvaný" src="manual" selected="1">AAXXX----1A---8</AM>
+</tag>
 </m>
 <m id="m-ln94204-149-p2s4w2">
 <src.rf>manual</src.rf>
@@ -633,7 +642,10 @@
 <LM>w#w-ln94204-149-p2s4w12</LM>
 </w.rf>
 <form>zní</form>
-<tag lemma="znít" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag>
+<AM lemma="znít" src="orig">VB-S---3P-AA---</AM>
+<AM lemma="znít_:T" src="manual" selected="1">VB-S---3P-AA---</AM>
+</tag>
 </m>
 <m id="m-ln94204-149-p2s4w13">
 <src.rf>manual</src.rf>
@@ -665,7 +677,10 @@
 <LM>w#w-ln94204-149-p2s4w16</LM>
 </w.rf>
 <form>začala</form>
-<tag lemma="začít-1_^(začnout)" src="auto" selected="1">VpQW---XR-AA---</tag>
+<tag>
+<AM lemma="začít-1_^(začnout)" src="auto">VpQW---XR-AA---</AM>
+<AM lemma="začít-1_:W_^(začnout)" src="manual" selected="1">VpQW---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-ln94204-149-p2s4w17">
 <src.rf>manual</src.rf>
@@ -812,7 +827,7 @@
 </w.rf>
 <form>Offenbachu</form>
 <tag>
-<AM lemma="Offenbach_;G" src="orig">NNIS2-----A----</AM>
+<AM lemma="Offenbach_;G" src="orig" selected="1">NNIS2-----A----</AM>
 <AM lemma="Offenbach_;S" src="auto">NNMS3-----A---1</AM>
 <AM lemma="Offenbach_;S" src="auto">NNMS5-----A----</AM>
 <AM lemma="Offenbach_;S" src="auto" recommended="1">NNMS6-----A---1</AM>
@@ -834,7 +849,10 @@
 <LM>w#w-ln94204-149-p3s1w1</LM>
 </w.rf>
 <form>Zdá</form>
-<tag lemma="zdát" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag>
+<AM lemma="zdát" src="orig">VB-S---3P-AA---</AM>
+<AM lemma="zdát-:T" src="manual" selected="1">VB-S---3P-AA---</AM>
+</tag>
 </m>
 <m id="m-ln94204-149-p3s1w2">
 <src.rf>manual</src.rf>
@@ -1376,7 +1394,10 @@
 <LM>w#w-ln94204-149-p4s3w5</LM>
 </w.rf>
 <form>poesie</form>
-<tag lemma="poezie_,x" src="orig" selected="1">NNFS2-----A----</tag>
+<tag>
+<AM lemma="poezie_,x" src="orig">NNFS2-----A----</AM>
+<AM lemma="poesie_,s_^(^DD**poezie)" src="manual" selected="1">NNFS2-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94204-149-p4s3w6">
 <src.rf>manual</src.rf>
@@ -1646,6 +1667,8 @@
 <AM lemma="Neue_;R_,t" src="orig">AAXXX----1A----</AM>
 <AM lemma="Neue_;S" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Neue_;S" src="auto">NNMS5-----A----</AM>
+<AM lemma="neue_,t" src="manual">AAXXX----1A----</AM>
+<AM lemma="NEUE-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-ln94204-149-p4s4Aw12">
@@ -1654,7 +1677,11 @@
 <LM>w#w-ln94204-149-p4s4Aw12</LM>
 </w.rf>
 <form>LITERATUR</form>
-<tag lemma="literatura" src="orig" selected="1">NNFP2-----A----</tag>
+<tag>
+<AM lemma="literatura" src="orig">NNFP2-----A----</AM>
+<AM lemma="Literatur_t" src="manual">NNXXX-----A----</AM>
+<AM lemma="LITERATUR-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94204-149-p4s4Aw13">
 <src.rf>manual</src.rf>
@@ -1731,6 +1758,7 @@
 <tag>
 <AM lemma="ab-99_:B_;S" src="orig">NNXXX-----A---8</AM>
 <AM lemma="aba_,t_^(arabský_plášť)" src="auto" recommended="1">NNFP2-----A----</AM>
+<AM lemma="ab-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94204-149-p4s4Bw3">

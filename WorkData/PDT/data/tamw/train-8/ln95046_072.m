@@ -175,7 +175,10 @@
 <LM>w#w-ln95046-072-p2s1Bw13</LM>
 </w.rf>
 <form>OSN</form>
-<tag lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95046-072-p2s1Bw14">
 <src.rf>manual</src.rf>
@@ -191,7 +194,11 @@
 <LM>w#w-ln95046-072-p2s1Bw15</LM>
 </w.rf>
 <form>UNPROFOR</form>
-<tag lemma="UNPROFOR_:B" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="UNPROFOR_:B" src="orig">NNFXX-----A---8</AM>
+<AM lemma="UNPROFOR-88_:B" src="manual">NNXXX-----A---8</AM>
+<AM lemma="UNPROFOR-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95046-072-p2s1Bw16">
 <src.rf>manual</src.rf>
@@ -441,7 +448,10 @@
 <LM>w#w-ln95046-072-p2s2w11</LM>
 </w.rf>
 <form>Royem</form>
-<tag lemma="Roy-1_;S" src="orig" selected="1">NNMS7-----A----</tag>
+<tag>
+<AM lemma="Roy-1_;S" src="orig">NNMS7-----A----</AM>
+<AM lemma="Roy-1_;S_;Y" src="manual" selected="1">NNMS7-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95046-072-p2s2w12">
 <src.rf>manual</src.rf>
@@ -643,7 +653,10 @@
 <LM>w#w-ln95046-072-p2s3w23</LM>
 </w.rf>
 <form>ČR</form>
-<tag lemma="ČR-1_:B_;G_^(Česká_republika)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95046-072-p2s3w24">
 <src.rf>manual</src.rf>

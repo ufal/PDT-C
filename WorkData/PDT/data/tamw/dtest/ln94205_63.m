@@ -35,7 +35,10 @@
 <LM>w#w-ln94205-63-p1s1w3</LM>
 </w.rf>
 <form>dal</form>
-<tag lemma="dát" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag>
+<AM lemma="dát" src="orig">VpYS---XR-AA---</AM>
+<AM lemma="dát_:W" src="manual" selected="1">VpYS---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-ln94205-63-p1s1w4">
 <src.rf>manual</src.rf>
@@ -478,6 +481,7 @@
 <tag>
 <AM lemma="cm-1`centimetr_:B" src="orig">NNIXX-----A---8</AM>
 <AM lemma="centimetr_:B" src="auto" recommended="1">NNIXX-----A---8</AM>
+<AM lemma="centimetr" src="manual" selected="1">NNIXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-ln94205-63-p3s1w9">
@@ -712,7 +716,10 @@
 <LM>w#w-ln94205-63-p3s2w11</LM>
 </w.rf>
 <form>oblečen</form>
-<tag lemma="obléci" src="orig" selected="1">VsYS---XX-AP---</tag>
+<tag>
+<AM lemma="obléci" src="orig">VsYS---XX-AP---</AM>
+<AM lemma="obléci_:W" src="manual" selected="1">VsYS---XX-AP---</AM>
+</tag>
 </m>
 <m id="m-ln94205-63-p3s2w12">
 <src.rf>manual</src.rf>
@@ -1012,7 +1019,7 @@
 <form>expertize</form>
 <tag>
 <AM lemma="expertíza" src="orig">NNFS3-----A----</AM>
-<AM lemma="expertiza" src="auto" recommended="1">NNFS3-----A----</AM>
+<AM lemma="expertiza" src="auto" recommended="1" selected="1">NNFS3-----A----</AM>
 <AM lemma="expertiza" src="auto">NNFS6-----A----</AM>
 </tag>
 </m>

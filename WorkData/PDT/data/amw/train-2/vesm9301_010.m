@@ -1002,6 +1002,7 @@
 <tag>
 <AM lemma="red-99_:B_;S" src="orig">NNXXX-----A---8</AM>
 <AM lemma="redakce_:B" src="auto" recommended="1">NNFXX-----A---8</AM>
+<AM lemma="redakce" src="manual" selected="1">NNFXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-vesm9301-010-p1s7w3">

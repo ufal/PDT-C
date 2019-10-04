@@ -51,7 +51,10 @@
 <LM>w#w-mf920924-006-p1s1w5</LM>
 </w.rf>
 <form>KOČÍM</form>
-<tag lemma="kočí" src="orig" selected="1">NNMS7-----A----</tag>
+<tag>
+<AM lemma="kočí" src="orig">NNMS7-----A----</AM>
+<AM lemma="Kočí_;S" src="manual" selected="1">NNMS7-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920924-006-p1s1w6">
 <src.rf>manual</src.rf>
@@ -91,7 +94,10 @@
 <LM>w#w-mf920924-006-p1s1w10</LM>
 </w.rf>
 <form>TJ</form>
-<tag lemma="TJ-1_:B_;K_;w_^(tělovýchovná_jednota)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="TJ-1_:B_;K_;w_^(tělovýchovná_jednota)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="TJ-2_:B_;K_^(tělovýchovná_jednota)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920924-006-p1s1w11">
 <src.rf>manual</src.rf>
@@ -99,7 +105,10 @@
 <LM>w#w-mf920924-006-p1s1w11</LM>
 </w.rf>
 <form>VŠB</form>
-<tag lemma="VŠB-1_:B_;K_^(Vysoká_škola_báňská)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="VŠB-1_:B_;K_^(Vysoká_škola_báňská)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="VŠB-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-mf920924-006-p1s1w12">
 <src.rf>manual</src.rf>
@@ -867,7 +876,10 @@
 <LM>w#w-mf920924-006-p1s8w6</LM>
 </w.rf>
 <form>kurs</form>
-<tag lemma="kurs" src="auto" selected="1">NNIS4-----A----</tag>
+<tag>
+<AM lemma="kurs" src="auto">NNIS4-----A----</AM>
+<AM lemma="kurs_,s_^(^DD**kurz)" src="manual" selected="1">NNIS4-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920924-006-p1s8w7">
 <src.rf>manual</src.rf>
@@ -1037,7 +1049,10 @@
 <LM>w#w-mf920924-006-p1s9w6</LM>
 </w.rf>
 <form>VŠB</form>
-<tag lemma="VŠB-1_:B_;K_^(Vysoká_škola_báňská)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="VŠB-1_:B_;K_^(Vysoká_škola_báňská)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="VŠB-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-mf920924-006-p1s9w7">
 <src.rf>manual</src.rf>

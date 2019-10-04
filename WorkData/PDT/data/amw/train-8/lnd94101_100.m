@@ -141,7 +141,13 @@
 <AM lemma="ad-99_:B_;S" src="orig">NNXXX-----A---8</AM>
 <AM lemma="ad_,t" src="auto">RR--1----------</AM>
 <AM lemma="adalší_:B" src="auto" recommended="1">AAXXX----1A---8</AM>
+<AM lemma="ad-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
+<comment>
+<LM type="Other">
+<text>ponechána původní analýza (autorská zkratka)</text>
+</LM>
+</comment>
 </m>
 <m id="m-lnd94101-100-p1s2w4">
 <src.rf>manual</src.rf>
@@ -319,7 +325,10 @@
 <LM>w#w-lnd94101-100-p1s3w21</LM>
 </w.rf>
 <form>J</form>
-<tag lemma="J-0_:B_;Y" src="orig" selected="1">NNMXX-----A---8</tag>
+<tag>
+<AM lemma="J-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
+<AM lemma="J-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd94101-100-p1s3w22">
 <src.rf>manual</src.rf>
@@ -513,7 +522,10 @@
 <LM>w#w-lnd94101-100-p1s4w7</LM>
 </w.rf>
 <form>PVP</form>
-<tag lemma="PVP-2_:B_;m_^(Pohár_výherců_pohárů)" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="PVP-2_:B_;m_^(Pohár_výherců_pohárů)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="PVP-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd94101-100-p1s4w8">
 <src.rf>manual</src.rf>
@@ -626,7 +638,10 @@
 <LM>w#w-lnd94101-100-p1s4w21</LM>
 </w.rf>
 <form>právě</form>
-<tag lemma="právě-1" src="auto" selected="1">Db-------------</tag>
+<tag>
+<AM lemma="právě-1" src="auto">Db-------------</AM>
+<AM lemma="právě-2" src="manual" selected="1">TT-------------</AM>
+</tag>
 </m>
 <m id="m-lnd94101-100-p1s4w22">
 <src.rf>manual</src.rf>
@@ -682,7 +697,10 @@
 <LM>w#w-lnd94101-100-p1s4w28</LM>
 </w.rf>
 <form>ČR</form>
-<tag lemma="ČR-1_:B_;G_^(Česká_republika)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd94101-100-p1s4w29">
 <src.rf>manual</src.rf>
@@ -1256,7 +1274,10 @@
 <LM>w#w-lnd94101-100-p1s6w10</LM>
 </w.rf>
 <form>ČSH</form>
-<tag lemma="ČSH-1_:B_;K_^(Český_svaz_házené)" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="ČSH-1_:B_;K_^(Český_svaz_házené)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="ČSH-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd94101-100-p1s6w11">
 <src.rf>manual</src.rf>
@@ -1794,7 +1815,7 @@
 <AM lemma="koleno" src="auto">NNNP1-----A----</AM>
 <AM lemma="koleno" src="auto">NNNP4-----A----</AM>
 <AM lemma="koleno" src="auto">NNNP5-----A----</AM>
-<AM lemma="koleno" src="auto" recommended="1">NNNS2-----A----</AM>
+<AM lemma="koleno" src="auto" recommended="1" selected="1">NNNS2-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94101-100-p1s8w16">

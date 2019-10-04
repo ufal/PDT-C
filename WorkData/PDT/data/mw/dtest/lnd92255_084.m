@@ -107,7 +107,10 @@
 <LM>w#w-lnd92255-084-p1s1w12</LM>
 </w.rf>
 <form>Nižnie</form>
-<tag lemma="Nižnie_;G" src="orig" selected="1">AAFP1----1A----</tag>
+<tag>
+<AM lemma="Nižnie_;G" src="orig">AAFP1----1A----</AM>
+<AM lemma="Nižnie-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-lnd92255-084-p1s1w13">
 <src.rf>manual</src.rf>
@@ -119,6 +122,7 @@
 <AM lemma="Ešery_;G" src="orig">NNFP1-----A----</AM>
 <AM lemma="Ešer_;S" src="auto" recommended="1">NNMP4-----A----</AM>
 <AM lemma="Ešer_;S" src="auto">NNMP7-----A----</AM>
+<AM lemma="Ešery-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-lnd92255-084-p1s1w14">
@@ -145,7 +149,10 @@
 <LM>w#w-lnd92255-084-p2s1w2</LM>
 </w.rf>
 <form>ČSTK</form>
-<tag lemma="ČSTK-1_:B_;K_^(Československá_tisková_kancelář)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ČSTK-1_:B_;K_^(Československá_tisková_kancelář)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČSTK-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd92255-084-p2s1w3">
 <src.rf>manual</src.rf>
@@ -161,7 +168,10 @@
 <LM>w#w-lnd92255-084-p2s1w4</LM>
 </w.rf>
 <form>AP</form>
-<tag lemma="AP-3_:B_;K_,t_^(Associated_Press,_tisková_agentura)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="AP-3_:B_;K_,t_^(Associated_Press,_tisková_agentura)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="AP-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 </s>
 </mdata>

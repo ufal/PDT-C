@@ -717,7 +717,10 @@
 <LM>w#w-ln94200-48-p3s2w8</LM>
 </w.rf>
 <form>mladiství</form>
-<tag lemma="mladistvý" src="orig" selected="1">AAMP1----1A----</tag>
+<tag>
+<AM lemma="mladistvý" src="orig">AAMP1----1A----</AM>
+<AM lemma="mladistvý" src="manual" selected="1">NNMP1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94200-48-p3s2w9">
 <src.rf>manual</src.rf>
@@ -1035,7 +1038,7 @@
 <form>třeba</form>
 <tag>
 <AM lemma="třeba-1" src="orig">ACNS------A----</AM>
-<AM lemma="třeba-2" src="auto" recommended="1">Db-------------</AM>
+<AM lemma="třeba-2" src="auto" recommended="1" selected="1">Db-------------</AM>
 <AM lemma="třeba-3" src="auto">TT-------------</AM>
 </tag>
 </m>
@@ -1327,7 +1330,10 @@
 <LM>w#w-ln94200-48-p4s2w15</LM>
 </w.rf>
 <form>Z</form>
-<tag lemma="Z-0_:B_;Y" src="orig" selected="1">NNMXX-----A---8</tag>
+<tag>
+<AM lemma="Z-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
+<AM lemma="Z-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln94200-48-p4s2w16">
 <src.rf>manual</src.rf>
@@ -1367,7 +1373,10 @@
 <LM>w#w-ln94200-48-p4s2w20</LM>
 </w.rf>
 <form>hm</form>
-<tag lemma="hm" src="orig" selected="1">II-------------</tag>
+<tag>
+<AM lemma="hm" src="orig">II-------------</AM>
+<AM lemma="hm-99_:B_;S" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln94200-48-p4s2w21">
 <src.rf>manual</src.rf>

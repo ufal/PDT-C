@@ -19,7 +19,10 @@
 <LM>w#w-mf920924-100-p1s1w1</LM>
 </w.rf>
 <form>ČNHL</form>
-<tag lemma="ČNHL_:B_;K" src="auto" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="ČNHL_:B_;K" src="auto">NNXXX-----A---8</AM>
+<AM lemma="ČNHL-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 </s>
 <s id="m-mf920924-100-p2s1">

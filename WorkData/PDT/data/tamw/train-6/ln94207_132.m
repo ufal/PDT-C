@@ -425,7 +425,10 @@
 <LM>w#w-ln94207-132-p2s2w5</LM>
 </w.rf>
 <form>KMS</form>
-<tag lemma="KMS-1_:B_;K_^(Klub_moravských_skladatelů)" src="auto" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="KMS-1_:B_;K_^(Klub_moravských_skladatelů)" src="auto">NNIXX-----A---8</AM>
+<AM lemma="KMS-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln94207-132-p2s2w6">
 <src.rf>manual</src.rf>
@@ -557,7 +560,7 @@
 <form>ovšem</form>
 <tag>
 <AM lemma="ovšem-1_^(avšak,_však;_odporovací_spojka)" src="orig">J^-------------</AM>
-<AM lemma="ovšem" src="auto" recommended="1">TT-------------</AM>
+<AM lemma="ovšem" src="auto" recommended="1" selected="1">TT-------------</AM>
 </tag>
 </m>
 <m id="m-ln94207-132-p2s3w7">
@@ -622,7 +625,10 @@
 <LM>w#w-ln94207-132-p2s3w14</LM>
 </w.rf>
 <form>KMS</form>
-<tag lemma="KMS-1_:B_;K_^(Klub_moravských_skladatelů)" src="auto" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="KMS-1_:B_;K_^(Klub_moravských_skladatelů)" src="auto">NNIXX-----A---8</AM>
+<AM lemma="KMS-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln94207-132-p2s3w15">
 <src.rf>manual</src.rf>
@@ -1028,7 +1034,10 @@
 <LM>w#w-ln94207-132-p2s6w5</LM>
 </w.rf>
 <form>KMS</form>
-<tag lemma="KMS-1_:B_;K_^(Klub_moravských_skladatelů)" src="auto" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="KMS-1_:B_;K_^(Klub_moravských_skladatelů)" src="auto">NNIXX-----A---8</AM>
+<AM lemma="KMS-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln94207-132-p2s6w6">
 <src.rf>manual</src.rf>

@@ -60,7 +60,7 @@
 </w.rf>
 <form>útěkářské</form>
 <tag>
-<AM lemma="útěkářský" src="orig">AANS1----1A----</AM>
+<AM lemma="útěkářský" src="orig" selected="1">AANS1----1A----</AM>
 <AM lemma="těkářský" src="auto">AAFP1----1A----</AM>
 <AM lemma="těkářský" src="auto">AAFP4----1A----</AM>
 <AM lemma="těkářský" src="auto">AAFP5----1A----</AM>
@@ -458,7 +458,10 @@
 <LM>w#w-mf930701-017-p2s4w1</LM>
 </w.rf>
 <form>Více</form>
-<tag lemma="hodně-2" src="auto" selected="1">Dg-------2A----</tag>
+<tag>
+<AM lemma="hodně-2" src="auto">Dg-------2A----</AM>
+<AM lemma="hodně-3" src="manual" selected="1">Dg-------2A----</AM>
+</tag>
 </m>
 <m id="m-mf930701-017-p2s4w2">
 <src.rf>manual</src.rf>
@@ -492,7 +495,7 @@
 <form>ovšem</form>
 <tag>
 <AM lemma="ovšem-1_^(avšak,_však;_odporovací_spojka)" src="orig">J^-------------</AM>
-<AM lemma="ovšem" src="auto" recommended="1">TT-------------</AM>
+<AM lemma="ovšem" src="auto" recommended="1" selected="1">TT-------------</AM>
 </tag>
 </m>
 <m id="m-mf930701-017-p2s4w6">
@@ -1182,7 +1185,7 @@
 </w.rf>
 <form>útěkářských</form>
 <tag>
-<AM lemma="útěkářský" src="orig">AAFP6----1A----</AM>
+<AM lemma="útěkářský" src="orig" selected="1">AAFP6----1A----</AM>
 <AM lemma="těkářský" src="auto">AAFP2----1A----</AM>
 <AM lemma="těkářský" src="auto" recommended="1">AAFP6----1A----</AM>
 <AM lemma="těkářský" src="auto">AAIP2----1A----</AM>
@@ -1501,7 +1504,7 @@
 <form>totiž</form>
 <tag>
 <AM lemma="totiž" src="orig">Db-------------</AM>
-<AM lemma="totiž-1" src="auto" recommended="1">J^-------------</AM>
+<AM lemma="totiž-1" src="auto" recommended="1" selected="1">J^-------------</AM>
 <AM lemma="totiž-2" src="auto">TT-------------</AM>
 </tag>
 </m>
@@ -2515,7 +2518,7 @@
 <form>nikoliv</form>
 <tag>
 <AM lemma="nikoliv" src="orig">Db-------------</AM>
-<AM lemma="nikoli" src="auto" recommended="1">TT------------1</AM>
+<AM lemma="nikoli" src="auto" recommended="1" selected="1">TT------------1</AM>
 </tag>
 </m>
 <m id="m-mf930701-017-p4s6w6">
@@ -3195,7 +3198,10 @@
 <LM>w#w-mf930701-017-p4s9w1</LM>
 </w.rf>
 <form>Jen</form>
-<tag lemma="jen-1" src="auto" selected="1">TT-------------</tag>
+<tag>
+<AM lemma="jen-1" src="auto">TT-------------</AM>
+<AM lemma="jen-4_^(pouze)" src="manual" selected="1">Db-------------</AM>
+</tag>
 </m>
 <m id="m-mf930701-017-p4s9w2">
 <src.rf>manual</src.rf>

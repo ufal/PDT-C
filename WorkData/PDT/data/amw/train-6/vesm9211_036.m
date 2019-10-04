@@ -233,6 +233,7 @@
 <AM lemma="food_,t" src="orig">AAXXX----1A----</AM>
 <AM lemma="food_,t_^(fastfood;_rychlé_občerstvení)" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="food_,t_^(fastfood;_rychlé_občerstvení)" src="auto">NNIS4-----A----</AM>
+<AM lemma="Food-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-vesm9211-036-p2s1w22">
@@ -241,7 +242,10 @@
 <LM>w#w-vesm9211-036-p2s1w22</LM>
 </w.rf>
 <form>Safety</form>
-<tag lemma="safety_,t" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="safety_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="Safety-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-vesm9211-036-p2s1w23">
 <src.rf>manual</src.rf>
@@ -255,6 +259,7 @@
 <AM lemma="Advisor_;R" src="auto" recommended="1">NNIP4-----A----</AM>
 <AM lemma="Advisor_;R" src="auto">NNIP5-----A----</AM>
 <AM lemma="Advisor_;R" src="auto">NNIP7-----A----</AM>
+<AM lemma="Advisory-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-vesm9211-036-p2s1w24">
@@ -268,6 +273,7 @@
 <AM lemma="Centre_;K" src="auto" recommended="1">NNNSX-----A----</AM>
 <AM lemma="centr_^(sport:_přihrávka)" src="auto">NNIS5-----A----</AM>
 <AM lemma="centre_,t" src="auto">XX-------------</AM>
+<AM lemma="Centre-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-vesm9211-036-p2s1w25">
@@ -1798,7 +1804,10 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>World</form>
-<tag lemma="world_,t" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="world_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="World-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-vesm9211-036-p4s6w8">
 <src.rf>manual</src.rf>
@@ -1806,7 +1815,10 @@
 <LM>w#w-vesm9211-036-p4s6w8</LM>
 </w.rf>
 <form>Health</form>
-<tag lemma="health_,t" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="health_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="Health-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-vesm9211-036-p4s6w9">
 <src.rf>manual</src.rf>
@@ -1820,6 +1832,7 @@
 <AM lemma="fórum" src="auto" recommended="1">NNNS1-----A----</AM>
 <AM lemma="fórum" src="auto">NNNS4-----A----</AM>
 <AM lemma="fórum" src="auto">NNNS5-----A----</AM>
+<AM lemma="Forum-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-vesm9211-036-p4s6w10">
@@ -1848,7 +1861,7 @@
 <AM lemma="vydávaný-1_^(emitovat:_cenné_papíry,_knihu,_zvuk,...)_(*7at-1)" src="orig">AANS6----1A----</AM>
 <AM lemma="vydávaný-1_^(emitovat:_cenné_papíry,_knihu,_zvuk,...)_(*4t-1)" src="auto">AAIS6----1A----</AM>
 <AM lemma="vydávaný-1_^(emitovat:_cenné_papíry,_knihu,_zvuk,...)_(*4t-1)" src="auto">AAMS6----1A----</AM>
-<AM lemma="vydávaný-1_^(emitovat:_cenné_papíry,_knihu,_zvuk,...)_(*4t-1)" src="auto" recommended="1">AANS6----1A----</AM>
+<AM lemma="vydávaný-1_^(emitovat:_cenné_papíry,_knihu,_zvuk,...)_(*4t-1)" src="auto" recommended="1" selected="1">AANS6----1A----</AM>
 <AM lemma="vydávaný-2_^(někomu_konkrétnímu:_př._zločince,_v._věc_zpět)_(*4t-2)" src="auto">AAIS6----1A----</AM>
 <AM lemma="vydávaný-2_^(někomu_konkrétnímu:_př._zločince,_v._věc_zpět)_(*4t-2)" src="auto">AAMS6----1A----</AM>
 <AM lemma="vydávaný-2_^(někomu_konkrétnímu:_př._zločince,_v._věc_zpět)_(*4t-2)" src="auto">AANS6----1A----</AM>
@@ -1866,7 +1879,10 @@
 <LM>w#w-vesm9211-036-p4s6w13</LM>
 </w.rf>
 <form>WHO</form>
-<tag lemma="WHO_:B_;K_;U_,t_^(World_Helth_Organisation)" src="auto" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="WHO_:B_;K_;U_,t_^(World_Helth_Organisation)" src="auto">NNFXX-----A---8</AM>
+<AM lemma="WHO-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-vesm9211-036-p4s6w14">
 <src.rf>manual</src.rf>
@@ -1916,7 +1932,10 @@
 <LM>w#w-vesm9211-036-p4s7w3</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-2" src="auto" selected="1">Dg-------2A----</tag>
+<tag>
+<AM lemma="hodně-2" src="auto">Dg-------2A----</AM>
+<AM lemma="hodně-3" src="manual" selected="1">Dg-------2A----</AM>
+</tag>
 </m>
 <m id="m-vesm9211-036-p4s7w4">
 <src.rf>manual</src.rf>
@@ -2052,7 +2071,10 @@
 <LM>w#w-vesm9211-036-p4s7w20</LM>
 </w.rf>
 <form>WHO</form>
-<tag lemma="WHO_:B_;K_;U_,t_^(World_Helth_Organisation)" src="auto" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="WHO_:B_;K_;U_,t_^(World_Helth_Organisation)" src="auto">NNFXX-----A---8</AM>
+<AM lemma="WHO-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-vesm9211-036-p4s7w21">
 <src.rf>manual</src.rf>
@@ -3291,7 +3313,7 @@
 <tag>
 <AM lemma="tady" src="orig">Db------------1</AM>
 <AM lemma="ten" src="auto" recommended="1">PDFS4----------</AM>
-<AM lemma="tu" src="auto">Db-------------</AM>
+<AM lemma="tu" src="auto" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m-vesm9211-036-p12s1w10">
@@ -3520,7 +3542,10 @@
 <LM>w#w-vesm9211-036-p14s1w3</LM>
 </w.rf>
 <form>jen</form>
-<tag lemma="jen-1" src="auto" selected="1">TT-------------</tag>
+<tag>
+<AM lemma="jen-1" src="auto">TT-------------</AM>
+<AM lemma="jen-4_^(pouze)" src="manual" selected="1">Db-------------</AM>
+</tag>
 </m>
 <m id="m-vesm9211-036-p14s1w4">
 <src.rf>manual</src.rf>

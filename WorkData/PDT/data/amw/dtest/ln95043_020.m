@@ -45,7 +45,10 @@
 <LM>w#w-ln95043-020-p2s1Aw1</LM>
 </w.rf>
 <form>New</form>
-<tag lemma="New-1_;G_,t_^(součást_míst._jmen)" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="New-1_;G_,t_^(součást_míst._jmen)" src="orig">AAXXX----1A----</AM>
+<AM lemma="New-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln95043-020-p2s1Aw2">
 <src.rf>manual</src.rf>
@@ -53,7 +56,10 @@
 <LM>w#w-ln95043-020-p2s1Aw2</LM>
 </w.rf>
 <form>York</form>
-<tag lemma="York-2_;G" src="orig" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="York-2_;G" src="orig">NNIS1-----A----</AM>
+<AM lemma="York-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln95043-020-p2s1Aw3">
 <src.rf>manual</src.rf>
@@ -71,7 +77,10 @@
 <LM>w#w-ln95043-020-p2s1Bw1</LM>
 </w.rf>
 <form>Navzdory</form>
-<tag lemma="navzdory-2" src="auto" selected="1">Db-------------</tag>
+<tag>
+<AM lemma="navzdory-2" src="auto">Db-------------</AM>
+<AM lemma="navzdory-1" src="manual" selected="1">RR--3----------</AM>
+</tag>
 </m>
 <m id="m-ln95043-020-p2s1Bw2">
 <src.rf>manual</src.rf>
@@ -127,7 +136,10 @@
 <LM>w#w-ln95043-020-p2s1Bw8</LM>
 </w.rf>
 <form>NBA</form>
-<tag lemma="NBA_:B_;K" src="auto" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="NBA_:B_;K" src="auto">NNFXX-----A---8</AM>
+<AM lemma="NBA-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln95043-020-p2s1Bw9">
 <src.rf>manual</src.rf>
@@ -146,6 +158,8 @@
 <tag>
 <AM lemma="Golden-2_;K_,t" src="orig">AAXXX----1A----</AM>
 <AM lemma="Golden_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="golden_,t" src="manual">AAXXX----1A----</AM>
+<AM lemma="Golden-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-ln95043-020-p2s1Bw11">
@@ -158,6 +172,8 @@
 <AM lemma="State_;K_,t" src="orig">AAXXX----1A----</AM>
 <AM lemma="State_;G_;K" src="auto" recommended="1">NNISX-----A----</AM>
 <AM lemma="status" src="auto">NNIS5-----A----</AM>
+<AM lemma="state_,t" src="manual">NNXXX-----A----</AM>
+<AM lemma="State-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-ln95043-020-p2s1Bw12">
@@ -166,7 +182,11 @@
 <LM>w#w-ln95043-020-p2s1Bw12</LM>
 </w.rf>
 <form>Warriors</form>
-<tag lemma="Warrior_;K_,t" src="orig" selected="1">NNMPX-----A----</tag>
+<tag>
+<AM lemma="Warrior_;K_,t" src="orig">NNMPX-----A----</AM>
+<AM lemma="warriors_,t" src="manual">NNXXX-----A----</AM>
+<AM lemma="Warriors-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln95043-020-p2s1Bw13">
 <src.rf>manual</src.rf>
@@ -386,7 +406,11 @@
 <LM>w#w-ln95043-020-p2s3w2</LM>
 </w.rf>
 <form>Golden</form>
-<tag lemma="Golden_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Golden_;S" src="orig">NNMS1-----A----</AM>
+<AM lemma="golden_,t" src="manual">NNXXX-----A----</AM>
+<AM lemma="Golden-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln95043-020-p2s3w3">
 <src.rf>manual</src.rf>
@@ -398,6 +422,8 @@
 <AM lemma="State_;K_,t" src="orig">NNIXX-----A----</AM>
 <AM lemma="State_;G_;K" src="auto" recommended="1">NNISX-----A----</AM>
 <AM lemma="status" src="auto">NNIS5-----A----</AM>
+<AM lemma="state_,t" src="manual">NNXXX-----A----</AM>
+<AM lemma="State-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-ln95043-020-p2s3w4">
@@ -520,7 +546,10 @@
 <LM>w#w-ln95043-020-p3s1w7</LM>
 </w.rf>
 <form>Los</form>
-<tag lemma="Los-1_;G_,t_^(součást_cizích_jmen)" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="Los-1_;G_,t_^(součást_cizích_jmen)" src="orig">AAXXX----1A----</AM>
+<AM lemma="Los-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln95043-020-p3s1w8">
 <src.rf>manual</src.rf>
@@ -528,7 +557,10 @@
 <LM>w#w-ln95043-020-p3s1w8</LM>
 </w.rf>
 <form>Angeles</form>
-<tag lemma="Angeles_;G_,t" src="orig" selected="1">NNNXX-----A----</tag>
+<tag>
+<AM lemma="Angeles_;G_,t" src="orig">NNNXX-----A----</AM>
+<AM lemma="Angeles-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln95043-020-p3s1w9">
 <src.rf>manual</src.rf>
@@ -548,6 +580,7 @@
 <AM lemma="Clipper_;K_,t" src="orig">NNMPX-----A----</AM>
 <AM lemma="Clippers_;K" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Clippers_;K" src="auto">NNIS4-----A----</AM>
+<AM lemma="Clippers-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-ln95043-020-p3s1w11">
@@ -638,7 +671,10 @@
 <LM>w#w-ln95043-020-p3s2w2</LM>
 </w.rf>
 <form>New</form>
-<tag lemma="New-1_;G_,t_^(součást_míst._jmen)" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="New-1_;G_,t_^(součást_míst._jmen)" src="orig">AAXXX----1A----</AM>
+<AM lemma="New-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln95043-020-p3s2w3">
 <src.rf>manual</src.rf>
@@ -662,7 +698,10 @@
 <LM>w#w-ln95043-020-p3s2w5</LM>
 </w.rf>
 <form>Knicks</form>
-<tag lemma="Knick_;K_,t" src="orig" selected="1">NNMPX-----A----</tag>
+<tag>
+<AM lemma="Knick_;K_,t" src="orig">NNMPX-----A----</AM>
+<AM lemma="Knicks-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln95043-020-p3s2w6">
 <src.rf>manual</src.rf>
@@ -867,7 +906,7 @@
 <tag>
 <AM lemma="tedy" src="orig">Db-------------</AM>
 <AM lemma="tedy-1" src="auto">TT-------------</AM>
-<AM lemma="tedy-2" src="auto" recommended="1">J^-------------</AM>
+<AM lemma="tedy-2" src="auto" recommended="1" selected="1">J^-------------</AM>
 </tag>
 </m>
 <m id="m-ln95043-020-p3s3w10">
@@ -974,7 +1013,10 @@
 <LM>w#w-ln95043-020-p4s1w5</LM>
 </w.rf>
 <form>New</form>
-<tag lemma="New-1_;G_,t_^(součást_míst._jmen)" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="New-1_;G_,t_^(součást_míst._jmen)" src="orig">AAXXX----1A----</AM>
+<AM lemma="New-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln95043-020-p4s1w6">
 <src.rf>manual</src.rf>
@@ -982,7 +1024,10 @@
 <LM>w#w-ln95043-020-p4s1w6</LM>
 </w.rf>
 <form>Jersey</form>
-<tag lemma="Jersey_;G" src="orig" selected="1">NNNXX-----A----</tag>
+<tag>
+<AM lemma="Jersey_;G" src="orig">NNNXX-----A----</AM>
+<AM lemma="Jersey-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln95043-020-p4s1w7">
 <src.rf>manual</src.rf>

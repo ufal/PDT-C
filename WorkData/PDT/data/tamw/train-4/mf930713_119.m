@@ -130,7 +130,7 @@
 <tag>
 <AM lemma="l-1`litr" src="orig">NNIS4-----A----</AM>
 <AM lemma="litr" src="auto">NNIS1-----A----</AM>
-<AM lemma="litr" src="auto" recommended="1">NNIS4-----A----</AM>
+<AM lemma="litr" src="auto" recommended="1" selected="1">NNIS4-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930713-119-p2s1Bw9">
@@ -192,6 +192,8 @@
 <tag>
 <AM lemma="Kč" src="orig">NNFXX-----A----</AM>
 <AM lemma="Kč_:B" src="auto" recommended="1">NNFXX-----A---8</AM>
+<AM lemma="Kč" src="manual">NNXXX-----A----</AM>
+<AM lemma="Kč_:B" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930713-119-p2s1Bw16">
@@ -208,7 +210,10 @@
 <LM>w#w-mf930713-119-p2s1Bw17</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-2" src="auto" selected="1">Dg-------2A----</tag>
+<tag>
+<AM lemma="hodně-2" src="auto">Dg-------2A----</AM>
+<AM lemma="hodně-3" src="manual" selected="1">Dg-------2A----</AM>
+</tag>
 </m>
 <m id="m-mf930713-119-p2s1Bw18">
 <src.rf>manual</src.rf>
@@ -244,7 +249,7 @@
 <form>totiž</form>
 <tag>
 <AM lemma="totiž" src="orig">Db-------------</AM>
-<AM lemma="totiž-1" src="auto" recommended="1">J^-------------</AM>
+<AM lemma="totiž-1" src="auto" recommended="1" selected="1">J^-------------</AM>
 <AM lemma="totiž-2" src="auto">TT-------------</AM>
 </tag>
 </m>
@@ -348,7 +353,7 @@
 <form>Litr</form>
 <tag>
 <AM lemma="l-1`litr" src="orig">NNIS1-----A----</AM>
-<AM lemma="litr" src="auto" recommended="1">NNIS1-----A----</AM>
+<AM lemma="litr" src="auto" recommended="1" selected="1">NNIS1-----A----</AM>
 <AM lemma="litr" src="auto">NNIS4-----A----</AM>
 </tag>
 </m>
@@ -414,7 +419,10 @@
 <LM>w#w-mf930713-119-p2s3w9</LM>
 </w.rf>
 <form>stát</form>
-<tag lemma="stát-4_^(něco_stojí_peníze)" src="orig" selected="1">Vf--------A----</tag>
+<tag>
+<AM lemma="stát-4_^(něco_stojí_peníze)" src="orig">Vf--------A----</AM>
+<AM lemma="stát-4_:T_^(něco_stojí_peníze)" src="manual" selected="1">Vf--------A----</AM>
+</tag>
 </m>
 <m id="m-mf930713-119-p2s3w10">
 <src.rf>manual</src.rf>
@@ -474,6 +482,7 @@
 <tag>
 <AM lemma="Kč" src="orig">NNFXX-----A----</AM>
 <AM lemma="Kč_:B" src="auto" recommended="1">NNFXX-----A---8</AM>
+<AM lemma="Kč_:B" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930713-119-p2s3w17">
@@ -591,6 +600,7 @@
 <tag>
 <AM lemma="Kč" src="orig">NNFXX-----A----</AM>
 <AM lemma="Kč_:B" src="auto" recommended="1">NNFXX-----A---8</AM>
+<AM lemma="Kč_:B" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930713-119-p2s3w31">
@@ -774,6 +784,7 @@
 <tag>
 <AM lemma="Kč" src="orig">NNFXX-----A----</AM>
 <AM lemma="Kč_:B" src="auto" recommended="1">NNFXX-----A---8</AM>
+<AM lemma="Kč_:B" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930713-119-p2s4w21">
@@ -905,7 +916,7 @@
 </w.rf>
 <form>Antar</form>
 <tag>
-<AM lemma="Antar_;K" src="orig">NNIS1-----A----</AM>
+<AM lemma="Antar_;K" src="orig" selected="1">NNIS1-----A----</AM>
 <AM lemma="Antar_;S" src="auto" recommended="1">NNMS1-----A----</AM>
 </tag>
 </m>
@@ -979,7 +990,10 @@
 <LM>w#w-mf930713-119-p3s1w23</LM>
 </w.rf>
 <form>Shell</form>
-<tag lemma="shell" src="orig" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="shell" src="orig">NNIS1-----A----</AM>
+<AM lemma="Shell_;K" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930713-119-p3s1w24">
 <src.rf>manual</src.rf>

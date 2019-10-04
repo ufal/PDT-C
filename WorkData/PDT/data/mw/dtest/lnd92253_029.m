@@ -61,7 +61,10 @@
 <LM>w#w-lnd92253-029-p2s1w3</LM>
 </w.rf>
 <form>dos</form>
-<tag lemma="dos-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="dos-99_:B_;S" src="orig">NNXXX-----A---8</AM>
+<AM lemma="dos-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92253-029-p2s1w4">
 <src.rf>manual</src.rf>
@@ -135,7 +138,10 @@
 <LM>w#w-lnd92253-029-p2s2w7</LM>
 </w.rf>
 <form>HZDS</form>
-<tag lemma="HZDS-1_:B_;K_;p_,t_^(Hnutie_za_demokratické_Slovensko)" src="orig" selected="1">NNNXX-----A---8</tag>
+<tag>
+<AM lemma="HZDS-1_:B_;K_;p_,t_^(Hnutie_za_demokratické_Slovensko)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="HZDS-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd92253-029-p2s2w8">
 <src.rf>manual</src.rf>
@@ -590,7 +596,10 @@
 <LM>w#w-lnd92253-029-p2s5w2</LM>
 </w.rf>
 <form>ODÚ</form>
-<tag lemma="ODÚ_:B_;K" src="auto" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="ODÚ_:B_;K" src="auto">NNXXX-----A---8</AM>
+<AM lemma="ODÚ-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd92253-029-p2s5w3">
 <src.rf>manual</src.rf>
@@ -598,7 +607,10 @@
 <LM>w#w-lnd92253-029-p2s5w3</LM>
 </w.rf>
 <form>I</form>
-<tag lemma="I-0_:B_;Y" src="orig" selected="1">NNMXX-----A---8</tag>
+<tag>
+<AM lemma="I-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
+<AM lemma="I-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd92253-029-p2s5w4">
 <src.rf>manual</src.rf>

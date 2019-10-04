@@ -275,7 +275,10 @@
 <LM>w#w-lnd92259-072-p3s3w15</LM>
 </w.rf>
 <form>Gill</form>
-<tag lemma="Gill_;S" src="auto" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Gill_;S" src="auto">NNMS1-----A----</AM>
+<AM lemma="Gill_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92259-072-p3s3w16">
 <src.rf>manual</src.rf>

@@ -95,7 +95,10 @@
 <LM>w#w-mf930713-145-p2s1Bw4</LM>
 </w.rf>
 <form>AP</form>
-<tag lemma="AP-3_:B_;K_,t_^(Associated_Press,_tisková_agentura)" src="auto" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="AP-3_:B_;K_,t_^(Associated_Press,_tisková_agentura)" src="auto">NNFXX-----A---8</AM>
+<AM lemma="AP-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-mf930713-145-p2s1Bw5">
 <src.rf>manual</src.rf>
@@ -104,7 +107,7 @@
 </w.rf>
 <form>Hansi</form>
 <tag>
-<AM lemma="Hansi_;Y" src="orig">NNMS1-----A----</AM>
+<AM lemma="Hansi_;Y" src="orig" selected="1">NNMS1-----A----</AM>
 <AM lemma="Hans_;Y" src="auto" recommended="1">NNMP1-----A----</AM>
 <AM lemma="Hans_;Y" src="auto">NNMP5-----A----</AM>
 <AM lemma="Hans_;Y" src="auto">NNMP7-----A----</AM>
@@ -175,7 +178,10 @@
 <LM>w#w-mf930713-145-p2s1Bw13</LM>
 </w.rf>
 <form>Reuter</form>
-<tag lemma="Reuter_;K" src="orig" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Reuter_;K" src="orig">NNMS1-----A----</AM>
+<AM lemma="Reuter_;K" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930713-145-p2s1Bw14">
 <src.rf>manual</src.rf>
@@ -337,7 +343,10 @@
 <LM>w#w-mf930713-145-p2s2w1</LM>
 </w.rf>
 <form>AP</form>
-<tag lemma="AP-3_:B_;K_,t_^(Associated_Press,_tisková_agentura)" src="auto" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="AP-3_:B_;K_,t_^(Associated_Press,_tisková_agentura)" src="auto">NNFXX-----A---8</AM>
+<AM lemma="AP-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-mf930713-145-p2s2w2">
 <src.rf>manual</src.rf>
@@ -383,6 +392,8 @@
 <AM lemma="rádio_,a" src="auto">NNNS4-----A----</AM>
 <AM lemma="rádio_,a" src="auto">NNNS5-----A----</AM>
 <AM lemma="radiový" src="auto">A2--------A----</AM>
+<AM lemma="radio_,t" src="manual">NNXXX-----A----</AM>
+<AM lemma="Radio-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-mf930713-145-p2s2w7">
@@ -551,7 +562,10 @@
 <LM>w#w-mf930713-145-p2s2w27</LM>
 </w.rf>
 <form>Reuter</form>
-<tag lemma="Reuter_;K" src="orig" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Reuter_;K" src="orig">NNMS1-----A----</AM>
+<AM lemma="Reuter_;K" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930713-145-p2s2w28">
 <src.rf>manual</src.rf>
@@ -703,6 +717,7 @@
 <AM lemma="Main-2_;S" src="auto">NNMS4-----A----</AM>
 <AM lemma="Maina-1_;Y" src="auto">NNFS1-----A----</AM>
 <AM lemma="Maina-2_;S" src="auto">NNMSX-----A----</AM>
+<AM lemma="Maina-2_;S" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930713-145-p2s4w2">
@@ -1271,7 +1286,10 @@
 <LM>w#w-mf930713-145-p2s8w20</LM>
 </w.rf>
 <form>UNOSOM</form>
-<tag lemma="UNOSOM_:B_;K" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="UNOSOM_:B_;K" src="orig">NNXXX-----A---8</AM>
+<AM lemma="UNOSOM-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-mf930713-145-p2s8w21">
 <src.rf>manual</src.rf>
@@ -2494,6 +2512,8 @@
 <tag>
 <AM lemma="USC-2_:B_;K_,t_^(Somálská_strana)" src="orig">NNXXX-----A---8</AM>
 <AM lemma="USC-1_:B_;R_,t_^(United_States_Code)" src="auto" recommended="1">NNIXX-----A---8</AM>
+<AM lemma="USC-2_:B" src="manual">NNXXX-----A---8</AM>
+<AM lemma="USC-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-mf930713-145-p2s14w30">
@@ -2510,7 +2530,11 @@
 <LM>w#w-mf930713-145-p2s14w31</LM>
 </w.rf>
 <form>SNA</form>
-<tag lemma="sen" src="orig" selected="1">NNIS2-----A---1</tag>
+<tag>
+<AM lemma="sen" src="orig">NNIS2-----A---1</AM>
+<AM lemma="SNA-1_:B" src="manual">NNXXX-----A---8</AM>
+<AM lemma="SNA-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-mf930713-145-p2s14w32">
 <src.rf>manual</src.rf>

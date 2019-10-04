@@ -417,7 +417,10 @@
 <LM>w#w-ln94202-68-p2s2w13</LM>
 </w.rf>
 <form>OOP</form>
-<tag lemma="OOP-1_:B_;K_;p_^(Org._pro_osvobození_Palestiny)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="OOP-1_:B_;K_;p_^(Org._pro_osvobození_Palestiny)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="OOP-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94202-68-p2s2w14">
 <src.rf>manual</src.rf>
@@ -563,7 +566,10 @@
 <LM>w#w-ln94202-68-p3s1w6</LM>
 </w.rf>
 <form>PNAC</form>
-<tag lemma="PNAC_:B_;K_,t" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="PNAC_:B_;K_,t" src="orig">NNXXX-----A---8</AM>
+<AM lemma="PNAC-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94202-68-p3s1w7">
 <src.rf>manual</src.rf>
@@ -677,7 +683,10 @@
 <LM>w#w-ln94202-68-p4s1w7</LM>
 </w.rf>
 <form>PNAC</form>
-<tag lemma="PNAC_:B_;K_,t" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="PNAC_:B_;K_,t" src="orig">NNXXX-----A---8</AM>
+<AM lemma="PNAC-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94202-68-p4s1w8">
 <src.rf>manual</src.rf>
@@ -814,6 +823,7 @@
 <AM lemma="telit_:T" src="auto">Vi-S---2--A----</AM>
 <AM lemma="telit_:T" src="auto">Vi-S---3--A---4</AM>
 <AM lemma="tlo_,n" src="auto">NNNP2-----A----</AM>
+<AM lemma="Tel-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-ln94202-68-p4s1w24">
@@ -1048,7 +1058,10 @@
 <LM>w#w-ln94202-68-p4s2w20</LM>
 </w.rf>
 <form>OOP</form>
-<tag lemma="OOP-1_:B_;K_;p_^(Org._pro_osvobození_Palestiny)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="OOP-1_:B_;K_;p_^(Org._pro_osvobození_Palestiny)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="OOP-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94202-68-p4s2w21">
 <src.rf>manual</src.rf>
@@ -1406,7 +1419,10 @@
 <LM>w#w-ln94202-68-p5s3w1</LM>
 </w.rf>
 <form>Více</form>
-<tag lemma="hodně-2" src="auto" selected="1">Dg-------2A----</tag>
+<tag>
+<AM lemma="hodně-2" src="auto">Dg-------2A----</AM>
+<AM lemma="hodně-3" src="manual" selected="1">Dg-------2A----</AM>
+</tag>
 </m>
 <m id="m-ln94202-68-p5s3w2">
 <src.rf>manual</src.rf>
@@ -1462,7 +1478,10 @@
 <LM>w#w-ln94202-68-p5s3w8</LM>
 </w.rf>
 <form>diskuse</form>
-<tag lemma="diskuse" src="orig" selected="1">NNFP4-----A----</tag>
+<tag>
+<AM lemma="diskuse" src="orig">NNFP4-----A----</AM>
+<AM lemma="diskuse_,s_^(^DD**diskuze)" src="manual" selected="1">NNFP4-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94202-68-p5s3w9">
 <src.rf>manual</src.rf>

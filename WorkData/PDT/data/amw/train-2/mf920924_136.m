@@ -75,7 +75,10 @@
 <LM>w#w-mf920924-136-p1s1w8</LM>
 </w.rf>
 <form>SRN</form>
-<tag lemma="SRN_:B_;G" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="SRN_:B_;G" src="orig">NNFXX-----A---8</AM>
+<AM lemma="SRN-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920924-136-p1s1w9">
 <src.rf>manual</src.rf>
@@ -91,7 +94,10 @@
 <LM>w#w-mf920924-136-p1s1w10</LM>
 </w.rf>
 <form>SNS</form>
-<tag lemma="SNS-2_:B_;G_^(Sdr._nezávislých_států)" src="orig" selected="1">NNNXX-----A---8</tag>
+<tag>
+<AM lemma="SNS-2_:B_;G_^(Sdr._nezávislých_států)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="SNS-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 </s>
 <s id="m-mf920924-136-p2s1">
@@ -151,7 +157,10 @@
 <LM>w#w-mf920924-136-p2s2w5</LM>
 </w.rf>
 <form>BND</form>
-<tag lemma="Bundesnachrichttendienst_:B_;K_,t_^(spolk._zprav._služba)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="Bundesnachrichttendienst_:B_;K_,t_^(spolk._zprav._služba)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="BND-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920924-136-p2s2w6">
 <src.rf>manual</src.rf>
@@ -273,7 +282,10 @@
 <LM>w#w-mf920924-136-p2s3w5</LM>
 </w.rf>
 <form>Bild</form>
-<tag lemma="Bild_;K_;R" src="orig" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="Bild_;K_;R" src="orig">NNIS1-----A----</AM>
+<AM lemma="Bild-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-mf920924-136-p2s3w6">
 <src.rf>manual</src.rf>
@@ -371,7 +383,10 @@
 <LM>w#w-mf920924-136-p2s4w11</LM>
 </w.rf>
 <form>SNS</form>
-<tag lemma="SNS-2_:B_;G_^(Sdr._nezávislých_států)" src="orig" selected="1">NNNXX-----A---8</tag>
+<tag>
+<AM lemma="SNS-2_:B_;G_^(Sdr._nezávislých_států)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="SNS-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920924-136-p2s4w12">
 <src.rf>manual</src.rf>
@@ -541,7 +556,10 @@
 <LM>w#w-mf920924-136-p3s1w15</LM>
 </w.rf>
 <form>Bild</form>
-<tag lemma="Bild_;K_;R" src="orig" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="Bild_;K_;R" src="orig">NNIS1-----A----</AM>
+<AM lemma="Bild-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-mf920924-136-p3s1w16">
 <src.rf>manual</src.rf>
@@ -581,7 +599,10 @@
 <LM>w#w-mf920924-136-p3s1w20</LM>
 </w.rf>
 <form>BND</form>
-<tag lemma="Bundesnachrichttendienst_:B_;K_,t_^(spolk._zprav._služba)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="Bundesnachrichttendienst_:B_;K_,t_^(spolk._zprav._služba)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="BND-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920924-136-p3s1w21">
 <src.rf>manual</src.rf>
@@ -714,6 +735,7 @@
 <AM lemma="terorizmus" src="auto">NNIS2-----A----</AM>
 <AM lemma="terorizmus" src="auto" recommended="1">NNIS3-----A----</AM>
 <AM lemma="terorizmus" src="auto">NNIS6-----A----</AM>
+<AM lemma="terorismus_,s_^(^DD**terorizmus)" src="manual" selected="1">NNIS3-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920924-136-p3s1w37">

@@ -77,7 +77,10 @@
 <LM>w#w-mf920901-111-p1s2w4</LM>
 </w.rf>
 <form>zabiti</form>
-<tag lemma="zabít" src="orig" selected="1">VsMP---XX-AP---</tag>
+<tag>
+<AM lemma="zabít" src="orig">VsMP---XX-AP---</AM>
+<AM lemma="zabít_:W" src="manual" selected="1">VsMP---XX-AP---</AM>
+</tag>
 </m>
 <m id="m-mf920901-111-p1s2w5">
 <src.rf>manual</src.rf>
@@ -178,6 +181,7 @@
 <AM lemma="terorizmus" src="auto" recommended="1">NNIS2-----A----</AM>
 <AM lemma="terorizmus" src="auto">NNIS3-----A----</AM>
 <AM lemma="terorizmus" src="auto">NNIS6-----A----</AM>
+<AM lemma="terorismus_,s_^(^DD**terorizmus)" src="manual" selected="1">NNIS2-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920901-111-p1s2w17">

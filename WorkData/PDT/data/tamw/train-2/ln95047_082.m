@@ -362,7 +362,10 @@
 <LM>w#w-ln95047-082-p2s2w20</LM>
 </w.rf>
 <form>Fikret</form>
-<tag lemma="Fikret_;S" src="auto" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Fikret_;S" src="auto">NNMS1-----A----</AM>
+<AM lemma="Fikret_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95047-082-p2s2w21">
 <src.rf>manual</src.rf>
@@ -665,7 +668,10 @@
 <LM>w#w-ln95047-082-p2s4w17</LM>
 </w.rf>
 <form>OSN</form>
-<tag lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95047-082-p2s4w18">
 <src.rf>manual</src.rf>
@@ -755,7 +761,10 @@
 <LM>w#w-ln95047-082-p2s5w10</LM>
 </w.rf>
 <form>UNPROFOR</form>
-<tag lemma="UNPROFOR_:B" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="UNPROFOR_:B" src="orig">NNFXX-----A---8</AM>
+<AM lemma="UNPROFOR-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95047-082-p2s5w11">
 <src.rf>manual</src.rf>
@@ -901,7 +910,10 @@
 <LM>w#w-ln95047-082-p2s6w3</LM>
 </w.rf>
 <form>UNPROFOR</form>
-<tag lemma="UNPROFOR_:B" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="UNPROFOR_:B" src="orig">NNFXX-----A---8</AM>
+<AM lemma="UNPROFOR-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95047-082-p2s6w4">
 <src.rf>manual</src.rf>
@@ -910,9 +922,14 @@
 </w.rf>
 <form>Ivanka</form>
 <tag>
-<AM lemma="Ivanko_;S" src="orig">NNMS2-----A----</AM>
+<AM lemma="Ivanko_;S" src="orig" selected="1">NNMS2-----A----</AM>
 <AM lemma="Ivanka_;Y_^(*2)" src="auto" recommended="1">NNFS1-----A----</AM>
 </tag>
+<comment>
+<LM type="Other">
+<text>podle instrukcí</text>
+</LM>
+</comment>
 </m>
 <m id="m-ln95047-082-p2s6w5">
 <src.rf>manual</src.rf>

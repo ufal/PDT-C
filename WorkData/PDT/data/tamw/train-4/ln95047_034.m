@@ -1151,7 +1151,10 @@
 <LM>w#w-ln95047-034-p4s4w3</LM>
 </w.rf>
 <form>play</form>
-<tag lemma="play-1_,t" src="orig" selected="1">NNNXX-----A----</tag>
+<tag>
+<AM lemma="play-1_,t" src="orig">NNNXX-----A----</AM>
+<AM lemma="play-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln95047-034-p4s4w4">
 <src.rf>manual</src.rf>
@@ -1159,7 +1162,10 @@
 <LM>w#w-ln95047-034-p4s4w4</LM>
 </w.rf>
 <form>off</form>
-<tag lemma="off-1_,t_^(angl._&quot;vypnuto&quot;,_hlavně_souč._názvů)" src="orig" selected="1">TT-------------</tag>
+<tag>
+<AM lemma="off-1_,t_^(angl._&quot;vypnuto&quot;,_hlavně_souč._názvů)" src="orig">TT-------------</AM>
+<AM lemma="off-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln95047-034-p4s4w5">
 <src.rf>manual</src.rf>
@@ -1289,7 +1295,10 @@
 <LM>w#w-ln95047-034-p4s5w3</LM>
 </w.rf>
 <form>play</form>
-<tag lemma="play-1_,t" src="orig" selected="1">NNFXX-----A----</tag>
+<tag>
+<AM lemma="play-1_,t" src="orig">NNFXX-----A----</AM>
+<AM lemma="play-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln95047-034-p4s5w4">
 <src.rf>manual</src.rf>
@@ -1297,7 +1306,10 @@
 <LM>w#w-ln95047-034-p4s5w4</LM>
 </w.rf>
 <form>off</form>
-<tag lemma="off-1_,t_^(angl._&quot;vypnuto&quot;,_hlavně_souč._názvů)" src="orig" selected="1">TT-------------</tag>
+<tag>
+<AM lemma="off-1_,t_^(angl._&quot;vypnuto&quot;,_hlavně_souč._názvů)" src="orig">TT-------------</AM>
+<AM lemma="off-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln95047-034-p4s5w5">
 <src.rf>manual</src.rf>

@@ -299,7 +299,7 @@
 <form>Zagajewski</form>
 <tag>
 <AM lemma="Zagajewski_;S" src="orig">NNMS1-----A---1</AM>
-<AM lemma="Zagajewský_;S" src="auto" recommended="1">NNMS1-----A---1</AM>
+<AM lemma="Zagajewský_;S" src="auto" recommended="1" selected="1">NNMS1-----A---1</AM>
 <AM lemma="Zagajewský_;S" src="auto">NNMS5-----A---1</AM>
 </tag>
 </m>

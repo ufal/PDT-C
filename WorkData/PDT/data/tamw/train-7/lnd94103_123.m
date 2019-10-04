@@ -205,7 +205,10 @@
 <LM>w#w-lnd94103-123-p1s7w5</LM>
 </w.rf>
 <form>Kan</form>
-<tag lemma="Kanada_:B_;G" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="Kanada_:B_;G" src="orig">NNFXX-----A---8</AM>
+<AM lemma="Kanada_;G" src="manual" selected="1">NNFXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd94103-123-p1s7w6">
 <src.rf>manual</src.rf>
@@ -398,7 +401,7 @@
 <AM lemma="Janecký_;S" src="auto">NNMP1-----A---6</AM>
 <AM lemma="Janecký_;S" src="auto">NNMP4-----A---6</AM>
 <AM lemma="Janecký_;S" src="auto">NNMP5-----A---6</AM>
-<AM lemma="Janecký_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Janecký_;S" src="auto" recommended="1" selected="1">NNMS1-----A----</AM>
 <AM lemma="Janecký_;S" src="auto">NNMS5-----A----</AM>
 </tag>
 </m>
@@ -416,7 +419,10 @@
 <LM>w#w-lnd94103-123-p1s15w3</LM>
 </w.rf>
 <form>J</form>
-<tag lemma="J-0_:B_;Y" src="orig" selected="1">NNMXX-----A---8</tag>
+<tag>
+<AM lemma="J-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
+<AM lemma="J-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd94103-123-p1s15w4">
 <src.rf>manual</src.rf>

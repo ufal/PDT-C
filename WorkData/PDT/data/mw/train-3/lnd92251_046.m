@@ -39,7 +39,7 @@
 <form>Ohroženi</form>
 <tag>
 <AM lemma="hrozit" src="orig">VsMP---XX-AP---</AM>
-<AM lemma="ohrozit" src="auto" recommended="1">VsMP---XX-AP---</AM>
+<AM lemma="ohrozit" src="auto" recommended="1" selected="1">VsMP---XX-AP---</AM>
 </tag>
 </m>
 <m id="m-lnd92251-046-p2s1w2">
@@ -124,7 +124,11 @@
 <LM>w#w-lnd92251-046-p3s2w6</LM>
 </w.rf>
 <form>StB</form>
-<tag lemma="StB_:B_;K" src="orig" selected="1">NNFSX-----A---8</tag>
+<tag>
+<AM lemma="StB_:B_;K" src="orig">NNFSX-----A---8</AM>
+<AM lemma="StB-88_:B" src="manual">NNXXX-----A---8</AM>
+<AM lemma="StB_:B_;K_^(Státní_bezpečnost)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92251-046-p3s2w7">
 <src.rf>manual</src.rf>
@@ -212,7 +216,11 @@
 <LM>w#w-lnd92251-046-p3s2w17</LM>
 </w.rf>
 <form>StB</form>
-<tag lemma="StB_:B_;K" src="orig" selected="1">NNFSX-----A---8</tag>
+<tag>
+<AM lemma="StB_:B_;K" src="orig">NNFSX-----A---8</AM>
+<AM lemma="StB-88_:B" src="manual">NNXXX-----A---8</AM>
+<AM lemma="StB_:B_;K_^(Státní_bezpečnost)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92251-046-p3s2w18">
 <src.rf>manual</src.rf>
@@ -284,7 +292,10 @@
 <LM>w#w-lnd92251-046-p3s2w26</LM>
 </w.rf>
 <form>čs</form>
-<tag lemma="československý_:B" src="orig" selected="1">AAXXX----1A---8</tag>
+<tag>
+<AM lemma="československý_:B" src="orig">AAXXX----1A---8</AM>
+<AM lemma="československý" src="manual" selected="1">AAXXX----1A---8</AM>
+</tag>
 </m>
 <m id="m-lnd92251-046-p3s2w27">
 <src.rf>manual</src.rf>
@@ -393,6 +404,7 @@
 <AM lemma="terorizmus" src="auto">NNIS2-----A----</AM>
 <AM lemma="terorizmus" src="auto" recommended="1">NNIS3-----A----</AM>
 <AM lemma="terorizmus" src="auto">NNIS6-----A----</AM>
+<AM lemma="terorismus_,s_^(^DD**terorizmus)" src="manual" selected="1">NNIS3-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92251-046-p3s2w40">
@@ -867,7 +879,7 @@
 <form>Ovšem</form>
 <tag>
 <AM lemma="ovšem-1_^(avšak,_však;_odporovací_spojka)" src="orig">J^-------------</AM>
-<AM lemma="ovšem" src="auto" recommended="1">TT-------------</AM>
+<AM lemma="ovšem" src="auto" recommended="1" selected="1">TT-------------</AM>
 </tag>
 </m>
 <m id="m-lnd92251-046-p3s6w2">
@@ -1046,7 +1058,10 @@
 <LM>w#w-lnd92251-046-p3s7w13</LM>
 </w.rf>
 <form>řekl</form>
-<tag lemma="říci" src="auto" selected="1">VpYS---XR-AA---</tag>
+<tag>
+<AM lemma="říci" src="auto">VpYS---XR-AA---</AM>
+<AM lemma="říci_:W" src="manual" selected="1">VpYS---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-lnd92251-046-p3s7w14">
 <src.rf>manual</src.rf>

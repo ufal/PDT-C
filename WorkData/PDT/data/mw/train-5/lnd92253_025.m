@@ -69,7 +69,10 @@
 <LM>w#w-lnd92253-025-p2s1w3</LM>
 </w.rf>
 <form>hop</form>
-<tag lemma="hop-1" src="auto" selected="1">TT-------------</tag>
+<tag>
+<AM lemma="hop-1" src="auto">TT-------------</AM>
+<AM lemma="hop-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92253-025-p2s1w4">
 <src.rf>manual</src.rf>
@@ -143,7 +146,11 @@
 <LM>w#w-lnd92253-025-p2s2w7</LM>
 </w.rf>
 <form>ČR</form>
-<tag lemma="ČR-1_:B_;G_^(Česká_republika)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="manual">NNFXX-----A----</AM>
+<AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92253-025-p2s2w8">
 <src.rf>manual</src.rf>
@@ -159,7 +166,10 @@
 <LM>w#w-lnd92253-025-p2s2w9</LM>
 </w.rf>
 <form>ČSFR</form>
-<tag lemma="ČSFR-1_:B_;G_^(Čs._federativní_republika)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ČSFR-1_:B_;G_^(Čs._federativní_republika)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČSFR-1_:B_;G_^(Čs._federativní_republika)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92253-025-p2s2w10">
 <src.rf>manual</src.rf>
@@ -359,7 +369,10 @@
 <LM>w#w-lnd92253-025-p2s2w34</LM>
 </w.rf>
 <form>A</form>
-<tag lemma="a-3_^(označení_pomocí_písmene)" src="orig" selected="1">NNNXX-----A----</tag>
+<tag>
+<AM lemma="a-3_^(označení_pomocí_písmene)" src="orig">NNNXX-----A----</AM>
+<AM lemma="A-33_^(označení_pomocí_písmene)" src="manual" selected="1">NNNXX-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92253-025-p2s2w35">
 <src.rf>manual</src.rf>
@@ -383,7 +396,10 @@
 <LM>w#w-lnd92253-025-p2s2w37</LM>
 </w.rf>
 <form>J</form>
-<tag lemma="J-0_:B_;Y" src="orig" selected="1">NNMXX-----A---8</tag>
+<tag>
+<AM lemma="J-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
+<AM lemma="J-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd92253-025-p2s2w38">
 <src.rf>manual</src.rf>
@@ -399,7 +415,10 @@
 <LM>w#w-lnd92253-025-p2s2w39</LM>
 </w.rf>
 <form>Polák</form>
-<tag lemma="Polák_;E" src="auto" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Polák_;E" src="auto">NNMS1-----A----</AM>
+<AM lemma="Polák_;E_;S" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92253-025-p2s2w40">
 <src.rf>manual</src.rf>
@@ -967,7 +986,10 @@
 <LM>w#w-lnd92253-025-p2s6w9</LM>
 </w.rf>
 <form>ČNR</form>
-<tag lemma="ČNR-1_:B_;K_^(Česká_národní_rada)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ČNR-1_:B_;K_^(Česká_národní_rada)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČNR-1_:B_;K_^(Česká_národní_rada)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92253-025-p2s6w10">
 <src.rf>manual</src.rf>
@@ -975,7 +997,10 @@
 <LM>w#w-lnd92253-025-p2s6w10</LM>
 </w.rf>
 <form>V</form>
-<tag lemma="V-0_:B_;Y" src="orig" selected="1">NNMXX-----A---8</tag>
+<tag>
+<AM lemma="V-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
+<AM lemma="V-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd92253-025-p2s6w11">
 <src.rf>manual</src.rf>
@@ -999,7 +1024,10 @@
 <LM>w#w-lnd92253-025-p2s6w13</LM>
 </w.rf>
 <form>m</form>
-<tag lemma="mimo-1_:B" src="auto" selected="1">RR--4---------8</tag>
+<tag>
+<AM lemma="mimo-1_:B" src="auto">RR--4---------8</AM>
+<AM lemma="mimo-1" src="manual" selected="1">RR--4---------8</AM>
+</tag>
 </m>
 <m id="m-lnd92253-025-p2s6w14">
 <src.rf>manual</src.rf>
@@ -1021,7 +1049,13 @@
 <AM lemma="j-3_^(označení_pomocí_písmene)" src="auto" recommended="1">NNNXX-----A----</AM>
 <AM lemma="j-8_:B_^(ost._zkratka)" src="auto">XX------------8</AM>
 <AM lemma="jako-1_:B" src="auto">J,------------8</AM>
+<AM lemma="jiný" src="manual" selected="1">AAXXX----1A---8</AM>
 </tag>
+<comment>
+<LM type="Other">
+<text>tag AANS4----1A---8 je hlášen jako invalid tag</text>
+</LM>
+</comment>
 </m>
 <m id="m-lnd92253-025-p2s6w16">
 <src.rf>manual</src.rf>
@@ -1101,7 +1135,10 @@
 <LM>w#w-lnd92253-025-p2s6w25</LM>
 </w.rf>
 <form>čs</form>
-<tag lemma="československý_:B" src="orig" selected="1">AAXXX----1A---8</tag>
+<tag>
+<AM lemma="československý_:B" src="orig">AAXXX----1A---8</AM>
+<AM lemma="československý" src="manual" selected="1">AAXXX----1A---8</AM>
+</tag>
 </m>
 <m id="m-lnd92253-025-p2s6w26">
 <src.rf>manual</src.rf>

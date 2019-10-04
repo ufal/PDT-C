@@ -132,7 +132,7 @@
 <AM lemma="čisticí_^(^IC**čistit)" src="orig">AGIP2-----A----</AM>
 <AM lemma="čisticí_^(^IC*2t)" src="auto">AAFP2----1A----</AM>
 <AM lemma="čisticí_^(^IC*2t)" src="auto">AAFP6----1A----</AM>
-<AM lemma="čisticí_^(^IC*2t)" src="auto" recommended="1">AAIP2----1A----</AM>
+<AM lemma="čisticí_^(^IC*2t)" src="auto" recommended="1" selected="1">AAIP2----1A----</AM>
 <AM lemma="čisticí_^(^IC*2t)" src="auto">AAIP6----1A----</AM>
 <AM lemma="čisticí_^(^IC*2t)" src="auto">AAMP2----1A----</AM>
 <AM lemma="čisticí_^(^IC*2t)" src="auto">AAMP6----1A----</AM>
@@ -158,6 +158,8 @@
 <AM lemma="SC-2_:B_;K_^(SC_Johnson)" src="orig">AAXXX----1A---8</AM>
 <AM lemma="SC-1_:B_;K_;w_,t_^(Sport_Club)" src="auto" recommended="1">NNIXX-----A---8</AM>
 <AM lemma="scilicet_:B_,t_^(totiž,_to_je,_to_znamená)" src="auto">Db------------8</AM>
+<AM lemma="SC-2_:B" src="manual">NNXXX-----A---8</AM>
+<AM lemma="SC-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920924-041-p1s2w9">
@@ -416,7 +418,10 @@
 <LM>w#w-mf920924-041-p1s3w11</LM>
 </w.rf>
 <form>zelenou</form>
-<tag lemma="zelený" src="orig" selected="1">AAFS4----1A----</tag>
+<tag>
+<AM lemma="zelený" src="orig">AAFS4----1A----</AM>
+<AM lemma="zelený_;o" src="manual" selected="1">AAFS4----1A----</AM>
+</tag>
 </m>
 <m id="m-mf920924-041-p1s3w12">
 <src.rf>manual</src.rf>
@@ -686,6 +691,8 @@
 <AM lemma="SC-2_:B_;K_^(SC_Johnson)" src="orig">AAXXX----1A---8</AM>
 <AM lemma="SC-1_:B_;K_;w_,t_^(Sport_Club)" src="auto" recommended="1">NNIXX-----A---8</AM>
 <AM lemma="scilicet_:B_,t_^(totiž,_to_je,_to_znamená)" src="auto">Db------------8</AM>
+<AM lemma="SC-2_:B" src="manual">NNXXX-----A---8</AM>
+<AM lemma="SC-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920924-041-p1s4w10">

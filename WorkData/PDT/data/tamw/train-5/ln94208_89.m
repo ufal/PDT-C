@@ -43,7 +43,10 @@
 <LM>w#w-ln94208-89-p1s1w4</LM>
 </w.rf>
 <form>Lipnici</form>
-<tag lemma="Lipnice" src="auto" selected="1">NNFS6-----A----</tag>
+<tag>
+<AM lemma="Lipnice" src="auto">NNFS6-----A----</AM>
+<AM lemma="Lipnice_;G" src="manual" selected="1">NNFS6-----A----</AM>
+</tag>
 </m>
 </s>
 <s id="m-ln94208-89-p2s1A">
@@ -121,7 +124,10 @@
 <LM>w#w-ln94208-89-p2s1Cw6</LM>
 </w.rf>
 <form>Lipnici</form>
-<tag lemma="Lipnice" src="auto" selected="1">NNFS6-----A----</tag>
+<tag>
+<AM lemma="Lipnice" src="auto">NNFS6-----A----</AM>
+<AM lemma="Lipnice_;G" src="manual" selected="1">NNFS6-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94208-89-p2s1Cw7">
 <src.rf>manual</src.rf>
@@ -475,7 +481,10 @@
 <LM>w#w-ln94208-89-p2s2w39</LM>
 </w.rf>
 <form>jako</form>
-<tag lemma="jako-1" src="auto" selected="1">J,-------------</tag>
+<tag>
+<AM lemma="jako-1" src="auto">J,-------------</AM>
+<AM lemma="jako-2" src="manual" selected="1">Db-------------</AM>
+</tag>
 </m>
 <m id="m-ln94208-89-p2s2w40">
 <src.rf>manual</src.rf>
@@ -575,7 +584,7 @@
 <form>nejen</form>
 <tag>
 <AM lemma="nejen" src="orig">TT-------------</AM>
-<AM lemma="nejen" src="auto" recommended="1">Db-------------</AM>
+<AM lemma="nejen" src="auto" recommended="1" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m-ln94208-89-p2s3w10">
@@ -864,7 +873,10 @@
 <LM>w#w-ln94208-89-p2s3w45</LM>
 </w.rf>
 <form>showbusinessu</form>
-<tag lemma="showbyznys" src="orig" selected="1">NNIS3-----A----</tag>
+<tag>
+<AM lemma="showbyznys" src="orig">NNIS3-----A----</AM>
+<AM lemma="showbusiness_,s_^(^DD**showbyznys)" src="manual" selected="1">NNIS3-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94208-89-p2s3w46">
 <src.rf>manual</src.rf>
@@ -1247,7 +1259,7 @@
 <tag>
 <AM lemma="tady" src="orig">Db------------1</AM>
 <AM lemma="ten" src="auto">PDFS4----------</AM>
-<AM lemma="tu" src="auto" recommended="1">Db-------------</AM>
+<AM lemma="tu" src="auto" recommended="1" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m-ln94208-89-p2s5w11">
@@ -1374,7 +1386,7 @@
 <AM lemma="dřívější" src="auto">AAIS1----2A----</AM>
 <AM lemma="dřívější" src="auto">AAIS4----2A----</AM>
 <AM lemma="dřívější" src="auto">AAIS5----2A----</AM>
-<AM lemma="dřívější" src="auto" recommended="1">AAMP1----2A----</AM>
+<AM lemma="dřívější" src="auto" recommended="1" selected="1">AAMP1----2A----</AM>
 <AM lemma="dřívější" src="auto">AAMP4----2A----</AM>
 <AM lemma="dřívější" src="auto">AAMP5----2A----</AM>
 <AM lemma="dřívější" src="auto">AAMS1----2A----</AM>
@@ -1425,7 +1437,10 @@
 <LM>w#w-ln94208-89-p3s1w6</LM>
 </w.rf>
 <form>Lipnici</form>
-<tag lemma="Lipnice" src="auto" selected="1">NNFS6-----A----</tag>
+<tag>
+<AM lemma="Lipnice" src="auto">NNFS6-----A----</AM>
+<AM lemma="Lipnice_;G" src="manual" selected="1">NNFS6-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94208-89-p3s1w7">
 <src.rf>manual</src.rf>
@@ -1475,7 +1490,10 @@
 <LM>w#w-ln94208-89-p3s2w4</LM>
 </w.rf>
 <form>Lipnice</form>
-<tag lemma="Lipnice" src="auto" selected="1">NNFS1-----A----</tag>
+<tag>
+<AM lemma="Lipnice" src="auto">NNFS1-----A----</AM>
+<AM lemma="Lipnice_;G" src="manual" selected="1">NNFS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94208-89-p3s2w5">
 <src.rf>manual</src.rf>
@@ -2213,7 +2231,7 @@
 <form>nejen</form>
 <tag>
 <AM lemma="nejen" src="orig">TT-------------</AM>
-<AM lemma="nejen" src="auto" recommended="1">Db-------------</AM>
+<AM lemma="nejen" src="auto" recommended="1" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m-ln94208-89-p3s6w11">
@@ -2480,7 +2498,10 @@
 <LM>w#w-ln94208-89-p3s7w13</LM>
 </w.rf>
 <form>Lipnice</form>
-<tag lemma="Lipnice" src="auto" selected="1">NNFS2-----A----</tag>
+<tag>
+<AM lemma="Lipnice" src="auto">NNFS2-----A----</AM>
+<AM lemma="Lipnice_;G" src="manual" selected="1">NNFS2-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94208-89-p3s7w14">
 <src.rf>manual</src.rf>
@@ -2594,7 +2615,10 @@
 <LM>w#w-ln94208-89-p3s8w3</LM>
 </w.rf>
 <form>Lipnice</form>
-<tag lemma="Lipnice" src="auto" selected="1">NNFS1-----A----</tag>
+<tag>
+<AM lemma="Lipnice" src="auto">NNFS1-----A----</AM>
+<AM lemma="Lipnice_;G" src="manual" selected="1">NNFS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94208-89-p3s8w4">
 <src.rf>manual</src.rf>
@@ -2654,7 +2678,7 @@
 <AM lemma="leč-2_^(kniž.;_leč_by...)" src="orig">J,-------------</AM>
 <AM lemma="leč-1_^(lov;_poslední_leč...)" src="auto">NNFS1-----A----</AM>
 <AM lemma="leč-1_^(lov;_poslední_leč...)" src="auto">NNFS4-----A----</AM>
-<AM lemma="leč-3_^(ale)" src="auto" recommended="1">J^-------------</AM>
+<AM lemma="leč-3_^(ale)" src="auto" recommended="1" selected="1">J^-------------</AM>
 <AM lemma="lečo_^(jídlo)" src="auto">NNNP2-----A----</AM>
 <AM lemma="léčit" src="auto">Vi-S---2--A----</AM>
 <AM lemma="léčit" src="auto">Vi-S---3--A---4</AM>
@@ -3136,7 +3160,10 @@
 <LM>w#w-ln94208-89-p4s1w2</LM>
 </w.rf>
 <form>Lipnici</form>
-<tag lemma="Lipnice" src="auto" selected="1">NNFS6-----A----</tag>
+<tag>
+<AM lemma="Lipnice" src="auto">NNFS6-----A----</AM>
+<AM lemma="Lipnice_;G" src="manual" selected="1">NNFS6-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94208-89-p4s1w3">
 <src.rf>manual</src.rf>
@@ -3290,7 +3317,10 @@
 <LM>w#w-ln94208-89-p4s2w2</LM>
 </w.rf>
 <form>jen</form>
-<tag lemma="jen-1" src="auto" selected="1">TT-------------</tag>
+<tag>
+<AM lemma="jen-1" src="auto">TT-------------</AM>
+<AM lemma="jen-4_^(pouze)" src="manual" selected="1">Db-------------</AM>
+</tag>
 </m>
 <m id="m-ln94208-89-p4s2w3">
 <src.rf>manual</src.rf>
@@ -3356,7 +3386,10 @@
 <LM>w#w-ln94208-89-p4s3w3</LM>
 </w.rf>
 <form>li</form>
-<tag lemma="li-1" src="auto" selected="1">TT-------------</tag>
+<tag>
+<AM lemma="li-1" src="auto">TT-------------</AM>
+<AM lemma="li-2" src="manual" selected="1">J,-------------</AM>
+</tag>
 </m>
 <m id="m-ln94208-89-p4s3w4">
 <src.rf>manual</src.rf>
@@ -3366,7 +3399,7 @@
 <form>ovšem</form>
 <tag>
 <AM lemma="ovšem-1_^(avšak,_však;_odporovací_spojka)" src="orig">J^-------------</AM>
-<AM lemma="ovšem" src="auto" recommended="1">TT-------------</AM>
+<AM lemma="ovšem" src="auto" recommended="1" selected="1">TT-------------</AM>
 </tag>
 </m>
 <m id="m-ln94208-89-p4s3w5">
@@ -3441,7 +3474,7 @@
 <form>raději</form>
 <tag>
 <AM lemma="raději" src="orig">Dg-------2A----</AM>
-<AM lemma="rád" src="auto" recommended="1">Dg-------2A----</AM>
+<AM lemma="rád" src="auto" recommended="1" selected="1">Dg-------2A----</AM>
 </tag>
 </m>
 <m id="m-ln94208-89-p4s3w14">

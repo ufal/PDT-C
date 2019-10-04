@@ -61,7 +61,10 @@
 <LM>w#w-ln94200-28-p2s1w5</LM>
 </w.rf>
 <form>NDR</form>
-<tag lemma="NDR_:B_;G_;K" src="auto" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="NDR_:B_;G_;K" src="auto">NNFXX-----A---8</AM>
+<AM lemma="NDR-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln94200-28-p2s1w6">
 <src.rf>manual</src.rf>
@@ -280,7 +283,10 @@
 <LM>w#w-ln94200-28-p3s1w13</LM>
 </w.rf>
 <form>GSR</form>
-<tag lemma="GSR_:B_;K_,t" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="GSR_:B_;K_,t" src="orig">NNXXX-----A---8</AM>
+<AM lemma="GSR-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln94200-28-p3s1w14">
 <src.rf>manual</src.rf>
@@ -296,7 +302,10 @@
 <LM>w#w-ln94200-28-p3s1w15</LM>
 </w.rf>
 <form>Greenwald</form>
-<tag lemma="Greenwald_;G" src="orig" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="Greenwald_;G" src="orig">NNIS1-----A----</AM>
+<AM lemma="Greenwald-2_;S" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94200-28-p3s1w16">
 <src.rf>manual</src.rf>
@@ -449,7 +458,7 @@
 </w.rf>
 <form>Greenwald</form>
 <tag>
-<AM lemma="Greenwald-2_;S" src="orig">NNMS1-----A----</AM>
+<AM lemma="Greenwald-2_;S" src="orig" selected="1">NNMS1-----A----</AM>
 <AM lemma="Greenwald_;G" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Greenwald_;G" src="auto">NNIS4-----A----</AM>
 </tag>
@@ -500,7 +509,10 @@
 <LM>w#w-ln94200-28-p3s1w40</LM>
 </w.rf>
 <form>United</form>
-<tag lemma="United_;K_,t_^(souč._angl._názvu)" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="United_;K_,t_^(souč._angl._názvu)" src="orig">AAXXX----1A----</AM>
+<AM lemma="United-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94200-28-p3s1w41">
 <src.rf>manual</src.rf>
@@ -508,7 +520,10 @@
 <LM>w#w-ln94200-28-p3s1w41</LM>
 </w.rf>
 <form>Airlines</form>
-<tag lemma="Airlines_;K_,t_^(souč._názvů,_např._American_A.)" src="auto" selected="1">NNFPX-----A----</tag>
+<tag>
+<AM lemma="Airlines_;K_,t_^(souč._názvů,_např._American_A.)" src="auto">NNFPX-----A----</AM>
+<AM lemma="Airlines-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94200-28-p3s1w42">
 <src.rf>manual</src.rf>

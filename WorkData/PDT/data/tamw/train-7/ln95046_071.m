@@ -143,7 +143,10 @@
 <LM>w#w-ln95046-071-p2s1Bw9</LM>
 </w.rf>
 <form>strany</form>
-<tag lemma="strana-1_^(v_prostoru)" src="orig" selected="1">NNFS2-----A----</tag>
+<tag>
+<AM lemma="strana-1_^(v_prostoru)" src="orig">NNFS2-----A----</AM>
+<AM lemma="strana" src="manual" selected="1">NNFS2-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95046-071-p2s1Bw10">
 <src.rf>manual</src.rf>
@@ -251,6 +254,7 @@
 <tag>
 <AM lemma="expertíza" src="orig">NNFP7-----A----</AM>
 <AM lemma="expertiza" src="auto" recommended="1">NNFP7-----A----</AM>
+<AM lemma="expertiza_,s_^(^DD**expertýza)" src="manual" selected="1">NNFP7-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95046-071-p2s1Bw23">
@@ -317,7 +321,10 @@
 <LM>w#w-ln95046-071-p2s2w6</LM>
 </w.rf>
 <form>Die</form>
-<tag lemma="die-1_;K_,t_^(souč._něm._názvů,_např._Die_Presse_[člen_f.])" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="die-1_;K_,t_^(souč._něm._názvů,_např._Die_Presse_[člen_f.])" src="orig">AAXXX----1A----</AM>
+<AM lemma="Die-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln95046-071-p2s2w7">
 <src.rf>manual</src.rf>
@@ -325,7 +332,10 @@
 <LM>w#w-ln95046-071-p2s2w7</LM>
 </w.rf>
 <form>Welt</form>
-<tag lemma="Welt_;R_,t" src="orig" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="Welt_;R_,t" src="orig">NNIS1-----A----</AM>
+<AM lemma="Welt-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln95046-071-p2s2w8">
 <src.rf>manual</src.rf>
@@ -483,7 +493,7 @@
 <AM lemma="dvoustranný" src="auto">AAFP4----1A----</AM>
 <AM lemma="dvoustranný" src="auto">AAFP5----1A----</AM>
 <AM lemma="dvoustranný" src="auto">AAFS2----1A----</AM>
-<AM lemma="dvoustranný" src="auto" recommended="1">AAFS3----1A----</AM>
+<AM lemma="dvoustranný" src="auto" recommended="1" selected="1">AAFS3----1A----</AM>
 <AM lemma="dvoustranný" src="auto">AAFS6----1A----</AM>
 <AM lemma="dvoustranný" src="auto">AAIP1----1A----</AM>
 <AM lemma="dvoustranný" src="auto">AAIP4----1A----</AM>
@@ -568,7 +578,7 @@
 <AM lemma="dřívější" src="auto">AAMP3----2A----</AM>
 <AM lemma="dřívější" src="auto">AAMS6----2A----</AM>
 <AM lemma="dřívější" src="auto">AAMS7----2A----</AM>
-<AM lemma="dřívější" src="auto" recommended="1">AANP3----2A----</AM>
+<AM lemma="dřívější" src="auto" recommended="1" selected="1">AANP3----2A----</AM>
 <AM lemma="dřívější" src="auto">AANS6----2A----</AM>
 <AM lemma="dřívější" src="auto">AANS7----2A----</AM>
 </tag>
@@ -653,7 +663,10 @@
 <LM>w#w-ln95046-071-p2s3w8</LM>
 </w.rf>
 <form>nestavějí</form>
-<tag lemma="stavět" src="auto" selected="1">VB-P---3P-NA---</tag>
+<tag>
+<AM lemma="stavět" src="auto">VB-P---3P-NA---</AM>
+<AM lemma="stavět_:T" src="manual" selected="1">VB-P---3P-NA---</AM>
+</tag>
 </m>
 <m id="m-ln95046-071-p2s3w9">
 <src.rf>manual</src.rf>
@@ -698,6 +711,7 @@
 <AM lemma="nacizmus" src="auto" recommended="1">NNIS2-----A----</AM>
 <AM lemma="nacizmus" src="auto">NNIS3-----A----</AM>
 <AM lemma="nacizmus" src="auto">NNIS6-----A----</AM>
+<AM lemma="nacismus_,s_^(^DD**nacizmus)" src="manual" selected="1">NNIS2-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95046-071-p2s3w14">

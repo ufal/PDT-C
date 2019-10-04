@@ -35,7 +35,10 @@
 <LM>w#w-ln95045-024-p1s1w3</LM>
 </w.rf>
 <form>NBA</form>
-<tag lemma="NBA_:B_;K" src="auto" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="NBA_:B_;K" src="auto">NNFXX-----A---8</AM>
+<AM lemma="NBA-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln95045-024-p1s1w4">
 <src.rf>manual</src.rf>
@@ -53,7 +56,10 @@
 <LM>w#w-ln95045-024-p2s1Aw1</LM>
 </w.rf>
 <form>New</form>
-<tag lemma="New-1_;G_,t_^(součást_míst._jmen)" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="New-1_;G_,t_^(součást_míst._jmen)" src="orig">AAXXX----1A----</AM>
+<AM lemma="New-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln95045-024-p2s1Aw2">
 <src.rf>manual</src.rf>
@@ -61,7 +67,10 @@
 <LM>w#w-ln95045-024-p2s1Aw2</LM>
 </w.rf>
 <form>York</form>
-<tag lemma="York-2_;G" src="orig" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="York-2_;G" src="orig">NNIS1-----A----</AM>
+<AM lemma="York-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln95045-024-p2s1Aw3">
 <src.rf>manual</src.rf>
@@ -119,7 +128,10 @@
 <LM>w#w-ln95045-024-p2s1Bw6</LM>
 </w.rf>
 <form>NBA</form>
-<tag lemma="NBA_:B_;K" src="auto" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="NBA_:B_;K" src="auto">NNFXX-----A---8</AM>
+<AM lemma="NBA-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln95045-024-p2s1Bw7">
 <src.rf>manual</src.rf>
@@ -127,7 +139,10 @@
 <LM>w#w-ln95045-024-p2s1Bw7</LM>
 </w.rf>
 <form>Orlando</form>
-<tag lemma="Orlando_;G" src="orig" selected="1">NNNS1-----A----</tag>
+<tag>
+<AM lemma="Orlando_;G" src="orig">NNNS1-----A----</AM>
+<AM lemma="Orlando-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln95045-024-p2s1Bw8">
 <src.rf>manual</src.rf>
@@ -135,7 +150,10 @@
 <LM>w#w-ln95045-024-p2s1Bw8</LM>
 </w.rf>
 <form>Magic</form>
-<tag lemma="Magica_;K_^(Laterna_Magica)" src="orig" selected="1">NNFP2-----A----</tag>
+<tag>
+<AM lemma="Magica_;K_^(Laterna_Magica)" src="orig">NNFP2-----A----</AM>
+<AM lemma="Magic-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln95045-024-p2s1Bw9">
 <src.rf>manual</src.rf>

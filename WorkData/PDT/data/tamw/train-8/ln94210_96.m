@@ -531,6 +531,7 @@
 <AM lemma="renezanční" src="auto">AAMS2----1A----</AM>
 <AM lemma="renezanční" src="auto">AAMS4----1A----</AM>
 <AM lemma="renezanční" src="auto">AANS2----1A----</AM>
+<AM lemma="renesanční_,s_^(^DD**renezanční)" src="manual" selected="1">AAIS2----1A----</AM>
 </tag>
 </m>
 <m id="m-ln94210-96-p3s1w6">
@@ -1338,7 +1339,10 @@
 <LM>w#w-ln94210-96-p3s8w18</LM>
 </w.rf>
 <form>surrealismem</form>
-<tag lemma="surrealizmus" src="auto" selected="1">NNIS7-----A----</tag>
+<tag>
+<AM lemma="surrealizmus" src="auto">NNIS7-----A----</AM>
+<AM lemma="surrealismus_,s_^(^DD**surrealizmus)" src="manual" selected="1">NNIS7-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94210-96-p3s8w19">
 <src.rf>manual</src.rf>
@@ -2474,7 +2478,10 @@
 <LM>w#w-ln94210-96-p4s7w3</LM>
 </w.rf>
 <form>straně</form>
-<tag lemma="strana-1_^(v_prostoru)" src="orig" selected="1">NNFS6-----A----</tag>
+<tag>
+<AM lemma="strana-1_^(v_prostoru)" src="orig">NNFS6-----A----</AM>
+<AM lemma="strana" src="manual" selected="1">NNFS6-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94210-96-p4s7w4">
 <src.rf>manual</src.rf>
@@ -2644,7 +2651,10 @@
 <LM>w#w-ln94210-96-p4s8w13</LM>
 </w.rf>
 <form>černých</form>
-<tag lemma="černý" src="auto" selected="1">AAIP6----1A----</tag>
+<tag>
+<AM lemma="černý" src="auto">AAIP6----1A----</AM>
+<AM lemma="černý_;o" src="manual" selected="1">AAIP6----1A----</AM>
+</tag>
 </m>
 <m id="m-ln94210-96-p4s8w14">
 <src.rf>manual</src.rf>
@@ -2898,6 +2908,7 @@
 <AM lemma="perfekcionizmus" src="orig">NNIS1-----A---1</AM>
 <AM lemma="perfekcionismus" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="perfekcionismus" src="auto">NNIS4-----A----</AM>
+<AM lemma="perfekcionismus_,s_^(^DD**perfekcionizmus)" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94210-96-p4s9w22">
@@ -2932,7 +2943,10 @@
 <LM>w#w-ln94210-96-p4s10w3</LM>
 </w.rf>
 <form>bílých</form>
-<tag lemma="bílý" src="orig" selected="1">AAIP2----1A----</tag>
+<tag>
+<AM lemma="bílý" src="orig">AAIP2----1A----</AM>
+<AM lemma="bílý_;o" src="manual" selected="1">AAIP2----1A----</AM>
+</tag>
 </m>
 <m id="m-ln94210-96-p4s10w4">
 <src.rf>manual</src.rf>
@@ -3298,7 +3312,7 @@
 <form>popele</form>
 <tag>
 <AM lemma="popel" src="orig">NNIS2-----A----</AM>
-<AM lemma="popel" src="auto" recommended="1">NNIS2-----A---2</AM>
+<AM lemma="popel" src="auto" recommended="1" selected="1">NNIS2-----A---2</AM>
 <AM lemma="popel" src="auto">NNIS5-----A----</AM>
 <AM lemma="popelit_:T" src="auto">VeYS------A----</AM>
 </tag>

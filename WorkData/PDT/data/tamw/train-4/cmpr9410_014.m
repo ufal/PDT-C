@@ -85,7 +85,10 @@
 <LM>w#w-cmpr9410-014-p3s1w6</LM>
 </w.rf>
 <form>otevřena</form>
-<tag lemma="otevřít" src="orig" selected="1">VsQW---XX-AP---</tag>
+<tag>
+<AM lemma="otevřít" src="orig">VsQW---XX-AP---</AM>
+<AM lemma="otevřít_:W" src="manual" selected="1">VsQW---XX-AP---</AM>
+</tag>
 </m>
 <m id="m-cmpr9410-014-p3s1w7">
 <src.rf>manual</src.rf>
@@ -125,7 +128,10 @@
 <LM>w#w-cmpr9410-014-p3s1w11</LM>
 </w.rf>
 <form>EJA</form>
-<tag lemma="EJA_:B_;K_,t_^(Europäische_Journalismus_Akademie)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="EJA_:B_;K_,t_^(Europäische_Journalismus_Akademie)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="EJA-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-cmpr9410-014-p3s1w12">
 <src.rf>manual</src.rf>
@@ -245,7 +251,10 @@
 <LM>w#w-cmpr9410-014-p3s1w26</LM>
 </w.rf>
 <form>km</form>
-<tag lemma="km-1`kilometr_:B" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="km-1`kilometr_:B" src="orig">NNIXX-----A---8</AM>
+<AM lemma="kilometr" src="manual" selected="1">NNIXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-cmpr9410-014-p3s1w27">
 <src.rf>manual</src.rf>
@@ -509,7 +518,7 @@
 <form>třeba</form>
 <tag>
 <AM lemma="třeba-1" src="orig">ACNS------A----</AM>
-<AM lemma="třeba-2" src="auto" recommended="1">Db-------------</AM>
+<AM lemma="třeba-2" src="auto" recommended="1" selected="1">Db-------------</AM>
 <AM lemma="třeba-3" src="auto">TT-------------</AM>
 </tag>
 </m>
@@ -585,7 +594,10 @@
 <LM>w#w-cmpr9410-014-p4s1w3</LM>
 </w.rf>
 <form>Europäische</form>
-<tag lemma="Europäische_;K_,t" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="Europäische_;K_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="Europäische-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-cmpr9410-014-p4s1w4">
 <src.rf>manual</src.rf>
@@ -593,7 +605,10 @@
 <LM>w#w-cmpr9410-014-p4s1w4</LM>
 </w.rf>
 <form>Journalismus</form>
-<tag lemma="Journalismus_;K_,t" src="orig" selected="1">NNISX-----A----</tag>
+<tag>
+<AM lemma="Journalismus_;K_,t" src="orig">NNISX-----A----</AM>
+<AM lemma="Journalismus-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-cmpr9410-014-p4s1w5">
 <src.rf>manual</src.rf>
@@ -601,7 +616,10 @@
 <LM>w#w-cmpr9410-014-p4s1w5</LM>
 </w.rf>
 <form>Akademie</form>
-<tag lemma="akademie" src="orig" selected="1">NNFS1-----A----</tag>
+<tag>
+<AM lemma="akademie" src="orig">NNFS1-----A----</AM>
+<AM lemma="Akademie-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-cmpr9410-014-p4s1w6">
 <src.rf>manual</src.rf>
@@ -621,6 +639,7 @@
 <AM lemma="Magister_:B_,t" src="orig">NNFXX-----A---8</AM>
 <AM lemma="Mag_;S" src="auto">NNMS1-----A----</AM>
 <AM lemma="magnituda-8_:B" src="auto" recommended="1">NNFXX-----A----</AM>
+<AM lemma="Mag-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-cmpr9410-014-p4s1w8">
@@ -661,7 +680,10 @@
 <LM>w#w-cmpr9410-014-p4s1w12</LM>
 </w.rf>
 <form>Dr</form>
-<tag lemma="doktor_:B_^(doktor,_akad._titul)" src="orig" selected="1">NNMXX-----A---8</tag>
+<tag>
+<AM lemma="doktor_:B_^(doktor,_akad._titul)" src="orig">NNMXX-----A---8</AM>
+<AM lemma="Dr_:B_^(doktor)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-cmpr9410-014-p4s1w13">
 <src.rf>manual</src.rf>
@@ -706,6 +728,7 @@
 <AM lemma="Strass_;S" src="auto">NNMP4-----A----</AM>
 <AM lemma="Strass_;S" src="auto" recommended="1">NNMS2-----A----</AM>
 <AM lemma="Strass_;S" src="auto">NNMS4-----A----</AM>
+<AM lemma="Strasse-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-cmpr9410-014-p4s1w18">
@@ -749,6 +772,7 @@
 <AM lemma="a-8_:B_^(ost._zkratka)" src="auto">XX------------8</AM>
 <AM lemma="akciový_:B_^(jen_akciová_společnost)" src="auto">AAXXX----1A---8</AM>
 <AM lemma="á_,t" src="auto">RF------------1</AM>
+<AM lemma="A-33_^(označení_pomocí_písmene)" src="manual" selected="1">NNNXX-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9410-014-p4s1w21">
@@ -781,7 +805,10 @@
 <LM>w#w-cmpr9410-014-p4s1w24</LM>
 </w.rf>
 <form>a</form>
-<tag lemma="a-3_^(označení_pomocí_písmene)" src="orig" selected="1">NNNXX-----A----</tag>
+<tag>
+<AM lemma="a-3_^(označení_pomocí_písmene)" src="orig">NNNXX-----A----</AM>
+<AM lemma="a-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-cmpr9410-014-p4s1w25">
 <src.rf>manual</src.rf>
@@ -802,6 +829,7 @@
 <AM lemma="d-3_^(označení_pomocí_písmene)" src="auto" recommended="1">NNNXX-----A----</AM>
 <AM lemma="d-4_^(př._d'Artagnan,_stažený_tvar_fr._předl.)" src="auto">AAXXX----1A----</AM>
 <AM lemma="d-8_:B_^(ost._zkratka)" src="auto">XX------------8</AM>
+<AM lemma="d-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9410-014-p4s1w27">
@@ -821,6 +849,8 @@
 <tag>
 <AM lemma="Donau_;G_,t" src="orig">NNFSX-----A----</AM>
 <AM lemma="Dunaj_;G_,t_,x" src="auto" recommended="1">NNIXX-----A----</AM>
+<AM lemma="Donau_;G_,t" src="manual">NNXXX-----A----</AM>
+<AM lemma="Donau_;G" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9410-014-p4s1w29">
@@ -837,7 +867,10 @@
 <LM>w#w-cmpr9410-014-p4s1w30</LM>
 </w.rf>
 <form>tel</form>
-<tag lemma="telefon_:B" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="telefon_:B" src="orig">NNIXX-----A---8</AM>
+<AM lemma="telefon" src="manual" selected="1">NNIXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-cmpr9410-014-p4s1w31">
 <src.rf>manual</src.rf>

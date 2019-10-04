@@ -165,7 +165,11 @@
 <LM>w#w-ln95043-036-p2s1w12</LM>
 </w.rf>
 <form>Hugo</form>
-<tag lemma="Hugo-2_;G" src="auto" selected="1">NNNS1-----A----</tag>
+<tag>
+<AM lemma="Hugo-2_;G" src="auto">NNNS1-----A----</AM>
+<AM lemma="Hugo-1_;S_;Y" src="manual">NNMS1-----A----</AM>
+<AM lemma="Hugo-1_;Y_;S" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95043-036-p2s1w13">
 <src.rf>manual</src.rf>
@@ -293,7 +297,10 @@
 <LM>w#w-ln95043-036-p2s1w28</LM>
 </w.rf>
 <form>archívních</form>
-<tag lemma="archívní" src="orig" selected="1">AAIP2----1A----</tag>
+<tag>
+<AM lemma="archívní" src="orig">AAIP2----1A----</AM>
+<AM lemma="archívní_,s_^(^DD**archivní)" src="manual" selected="1">AAIP2----1A----</AM>
+</tag>
 </m>
 <m id="m-ln95043-036-p2s1w29">
 <src.rf>manual</src.rf>
@@ -435,6 +442,8 @@
 <AM lemma="UNESCO_:B_;K_,t" src="orig">NNNXX-----A---8</AM>
 <AM lemma="UNESCO_:B" src="auto" recommended="1">NNXXX-----A---8</AM>
 <AM lemma="Unesco_:B_;K_,t" src="auto">NNNXX-----A----</AM>
+<AM lemma="UNESCO-88_:B" src="manual">NNXXX-----A---8</AM>
+<AM lemma="UNESCO_:B_^(United_Nations_Educational_Scientific_and_Cultural_Organization)" src="manual" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-ln95043-036-p2s2w8">
@@ -499,7 +508,10 @@
 <LM>w#w-ln95043-036-p2s2w15</LM>
 </w.rf>
 <form>archívu</form>
-<tag lemma="archív" src="orig" selected="1">NNIS2-----A----</tag>
+<tag>
+<AM lemma="archív" src="orig">NNIS2-----A----</AM>
+<AM lemma="archív_,s_^(^DD**archiv)" src="manual" selected="1">NNIS2-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95043-036-p2s2w16">
 <src.rf>manual</src.rf>
@@ -517,7 +529,7 @@
 <form>Opělovi</form>
 <tag>
 <AM lemma="Opěl_;S" src="orig">NNMS3-----A----</AM>
-<AM lemma="Opěla_;S" src="auto" recommended="1">NNMS3-----A----</AM>
+<AM lemma="Opěla_;S" src="auto" recommended="1" selected="1">NNMS3-----A----</AM>
 <AM lemma="Opěla_;S" src="auto">NNMS6-----A----</AM>
 <AM lemma="Opělův_;S_^(*2a)" src="auto">AUMP1M---------</AM>
 <AM lemma="Opělův_;S_^(*2a)" src="auto">AUMP5M---------</AM>
@@ -607,6 +619,7 @@
 <AM lemma="UNESCO_:B_;K_,t" src="orig">NNNXX-----A---8</AM>
 <AM lemma="UNESCO_:B" src="auto" recommended="1">NNXXX-----A---8</AM>
 <AM lemma="Unesco_:B_;K_,t" src="auto">NNNXX-----A----</AM>
+<AM lemma="UNESCO-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-ln95043-036-p2s3w6">
@@ -615,7 +628,10 @@
 <LM>w#w-ln95043-036-p2s3w6</LM>
 </w.rf>
 <form>Federico</form>
-<tag lemma="Federico_;Y_,t" src="auto" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Federico_;Y_,t" src="auto">NNMS1-----A----</AM>
+<AM lemma="Federico_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95043-036-p2s3w7">
 <src.rf>manual</src.rf>
@@ -1059,7 +1075,10 @@
 <LM>w#w-ln95043-036-p2s5w5</LM>
 </w.rf>
 <form>MK</form>
-<tag lemma="MK-1_:B_;K_;p_;u_^(min._kultury)" src="auto" selected="1">NNNXX-----A---8</tag>
+<tag>
+<AM lemma="MK-1_:B_;K_;p_;u_^(min._kultury)" src="auto">NNNXX-----A---8</AM>
+<AM lemma="MK-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln95043-036-p2s5w6">
 <src.rf>manual</src.rf>

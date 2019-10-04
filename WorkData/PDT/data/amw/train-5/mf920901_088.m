@@ -939,7 +939,7 @@
 <form>totiž</form>
 <tag>
 <AM lemma="totiž" src="orig">Db-------------</AM>
-<AM lemma="totiž-1" src="auto" recommended="1">J^-------------</AM>
+<AM lemma="totiž-1" src="auto" recommended="1" selected="1">J^-------------</AM>
 <AM lemma="totiž-2" src="auto">TT-------------</AM>
 </tag>
 </m>
@@ -1906,7 +1906,7 @@
 <tag>
 <AM lemma="kterýkoliv" src="orig">PZYS1----------</AM>
 <AM lemma="kterýkoli" src="auto">PZIS4---------1</AM>
-<AM lemma="kterýkoli" src="auto" recommended="1">PZYS1---------1</AM>
+<AM lemma="kterýkoli" src="auto" recommended="1" selected="1">PZYS1---------1</AM>
 <AM lemma="kterýkoli" src="auto">PZYS5---------1</AM>
 </tag>
 </m>
@@ -1964,7 +1964,10 @@
 <LM>w#w-mf920901-088-p5s6w30</LM>
 </w.rf>
 <form>li</form>
-<tag lemma="li-1" src="auto" selected="1">TT-------------</tag>
+<tag>
+<AM lemma="li-1" src="auto">TT-------------</AM>
+<AM lemma="li-2" src="manual" selected="1">J,-------------</AM>
+</tag>
 </m>
 <m id="m-mf920901-088-p5s6w31">
 <src.rf>manual</src.rf>
@@ -3226,7 +3229,7 @@
 <form>nikoliv</form>
 <tag>
 <AM lemma="nikoliv" src="orig">Db-------------</AM>
-<AM lemma="nikoli" src="auto" recommended="1">TT------------1</AM>
+<AM lemma="nikoli" src="auto" recommended="1" selected="1">TT------------1</AM>
 </tag>
 </m>
 <m id="m-mf920901-088-p6s2w29">
@@ -4029,7 +4032,10 @@
 <LM>w#w-mf920901-088-p7s4w8</LM>
 </w.rf>
 <form>li</form>
-<tag lemma="li-1" src="auto" selected="1">TT-------------</tag>
+<tag>
+<AM lemma="li-1" src="auto">TT-------------</AM>
+<AM lemma="li-2" src="manual" selected="1">J,-------------</AM>
+</tag>
 </m>
 <m id="m-mf920901-088-p7s4w9">
 <src.rf>manual</src.rf>

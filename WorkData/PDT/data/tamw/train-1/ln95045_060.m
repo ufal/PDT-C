@@ -65,6 +65,7 @@
 <AM lemma="SIS-2_:B_;K_^(Slovenská_informačná_služba)" src="auto" recommended="1">NNFXX-----A---8</AM>
 <AM lemma="Sisa_;Y" src="auto">NNFP2-----A----</AM>
 <AM lemma="se_^(zvr._zájmeno/částice)" src="auto">P7-S3--2-------</AM>
+<AM lemma="SIS-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 </s>
@@ -125,7 +126,10 @@
 <LM>w#w-ln95045-060-p2s1Bw5</LM>
 </w.rf>
 <form>SR</form>
-<tag lemma="SR-1_:B_;G_^(Slovenská_republika)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="SR-1_:B_;G_^(Slovenská_republika)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="SR-1_:B_;G_^(Slovenská_republika)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95045-060-p2s1Bw6">
 <src.rf>manual</src.rf>
@@ -219,6 +223,7 @@
 <AM lemma="SIS-2_:B_;K_^(Slovenská_informačná_služba)" src="auto" recommended="1">NNFXX-----A---8</AM>
 <AM lemma="Sisa_;Y" src="auto">NNFP2-----A----</AM>
 <AM lemma="se_^(zvr._zájmeno/částice)" src="auto">P7-S3--2-------</AM>
+<AM lemma="SIS-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95045-060-p2s1Bw17">
@@ -236,9 +241,14 @@
 </w.rf>
 <form>Mitra</form>
 <tag>
-<AM lemma="Mitr_;S" src="orig">NNMS2-----A----</AM>
+<AM lemma="Mitr_;S" src="orig" selected="1">NNMS2-----A----</AM>
 <AM lemma="mitra" src="auto" recommended="1">NNFS1-----A----</AM>
 </tag>
+<comment>
+<LM type="Other">
+<text>podle instrukcí</text>
+</LM>
+</comment>
 </m>
 <m id="m-ln95045-060-p2s1Bw19">
 <src.rf>manual</src.rf>
@@ -416,7 +426,10 @@
 <LM>w#w-ln95045-060-p2s2w7</LM>
 </w.rf>
 <form>LN</form>
-<tag lemma="LN-1_:B_;R_^(Lidové_noviny,_deník)" src="orig" selected="1">NNFPX-----A---8</tag>
+<tag>
+<AM lemma="LN-1_:B_;R_^(Lidové_noviny,_deník)" src="orig">NNFPX-----A---8</AM>
+<AM lemma="LN-1_:B_;K_;R_^(Lidové_noviny)" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln95045-060-p2s2w8">
 <src.rf>manual</src.rf>
@@ -448,7 +461,10 @@
 <LM>w#w-ln95045-060-p2s2w11</LM>
 </w.rf>
 <form>nepřály</form>
-<tag lemma="přát" src="orig" selected="1">VpTP---XR-NA---</tag>
+<tag>
+<AM lemma="přát" src="orig">VpTP---XR-NA---</AM>
+<AM lemma="přát_:T" src="manual" selected="1">VpTP---XR-NA---</AM>
+</tag>
 </m>
 <m id="m-ln95045-060-p2s2w12">
 <src.rf>manual</src.rf>
@@ -900,6 +916,7 @@
 <AM lemma="SIS-2_:B_;K_^(Slovenská_informačná_služba)" src="auto">NNFXX-----A---8</AM>
 <AM lemma="Sisa_;Y" src="auto">NNFP2-----A----</AM>
 <AM lemma="se_^(zvr._zájmeno/částice)" src="auto">P7-S3--2-------</AM>
+<AM lemma="SIS-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95045-060-p2s5w4">
@@ -943,7 +960,7 @@
 <tag>
 <AM lemma="cokoliv" src="orig">PZ--4---------1</AM>
 <AM lemma="cokoli" src="auto">PZ--1----------</AM>
-<AM lemma="cokoli" src="auto" recommended="1">PZ--4----------</AM>
+<AM lemma="cokoli" src="auto" recommended="1" selected="1">PZ--4----------</AM>
 <AM lemma="cokoli" src="auto">PZ--5----------</AM>
 </tag>
 </m>
@@ -1025,7 +1042,10 @@
 <LM>w#w-ln95045-060-p2s5w18</LM>
 </w.rf>
 <form>LN</form>
-<tag lemma="LN-1_:B_;R_^(Lidové_noviny,_deník)" src="orig" selected="1">NNFPX-----A---8</tag>
+<tag>
+<AM lemma="LN-1_:B_;R_^(Lidové_noviny,_deník)" src="orig">NNFPX-----A---8</AM>
+<AM lemma="LN-1_:B_;K_;R_^(Lidové_noviny)" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln95045-060-p2s5w19">
 <src.rf>manual</src.rf>
@@ -1049,7 +1069,10 @@
 <LM>w#w-ln95045-060-p2s5w21</LM>
 </w.rf>
 <form>TV</form>
-<tag lemma="televize_:B" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="televize_:B" src="orig">NNFXX-----A---8</AM>
+<AM lemma="televize" src="manual" selected="1">NNFXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln95045-060-p2s5w22">
 <src.rf>manual</src.rf>
@@ -1111,6 +1134,7 @@
 <AM lemma="SIS-2_:B_;K_^(Slovenská_informačná_služba)" src="auto">NNFXX-----A---8</AM>
 <AM lemma="Sisa_;Y" src="auto">NNFP2-----A----</AM>
 <AM lemma="se_^(zvr._zájmeno/částice)" src="auto">P7-S3--2-------</AM>
+<AM lemma="SIS-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95045-060-p2s5w29">

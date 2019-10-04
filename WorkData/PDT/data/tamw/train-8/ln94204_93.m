@@ -408,7 +408,10 @@
 <LM>w#w-ln94204-93-p2s2w29</LM>
 </w.rf>
 <form>Forrest</form>
-<tag lemma="Forrest_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Forrest_;S" src="orig">NNMS1-----A----</AM>
+<AM lemma="Forrest_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94204-93-p2s2w30">
 <src.rf>manual</src.rf>
@@ -1610,6 +1613,7 @@
 <AM lemma="Universal_;K_,t" src="orig">AAXXX----1A----</AM>
 <AM lemma="Universal_;K" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Universal_;K" src="auto">NNIS4-----A----</AM>
+<AM lemma="Universal-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-ln94204-93-p3s4w15">
@@ -1618,7 +1622,10 @@
 <LM>w#w-ln94204-93-p3s4w15</LM>
 </w.rf>
 <form>Pictures</form>
-<tag lemma="Picture_;K_,t" src="orig" selected="1">NNIPX-----A----</tag>
+<tag>
+<AM lemma="Picture_;K_,t" src="orig">NNIPX-----A----</AM>
+<AM lemma="Pictures-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94204-93-p3s4w16">
 <src.rf>manual</src.rf>
@@ -1884,7 +1891,10 @@
 <LM>w#w-ln94204-93-p3s5w15</LM>
 </w.rf>
 <form>MTV</form>
-<tag lemma="MTV-1_:B_;K_;y_^(TV_stanice_USA)" src="auto" selected="1">NNNXX-----A---8</tag>
+<tag>
+<AM lemma="MTV-1_:B_;K_;y_^(TV_stanice_USA)" src="auto">NNNXX-----A---8</AM>
+<AM lemma="MTV-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln94204-93-p3s5w16">
 <src.rf>manual</src.rf>
@@ -1974,7 +1984,10 @@
 <LM>w#w-ln94204-93-p3s6w2</LM>
 </w.rf>
 <form>čtk</form>
-<tag lemma="ČTK-1_:B_;K_^(Čs./Česká_tisková_kancelář)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ČTK-1_:B_;K_^(Čs./Česká_tisková_kancelář)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="čtk-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln94204-93-p3s6w3">
 <src.rf>manual</src.rf>
@@ -1990,7 +2003,10 @@
 <LM>w#w-ln94204-93-p3s6w4</LM>
 </w.rf>
 <form>jaf</form>
-<tag lemma="jaf-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="jaf-99_:B_;S" src="orig">NNXXX-----A---8</AM>
+<AM lemma="jaf-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln94204-93-p3s6w5">
 <src.rf>manual</src.rf>

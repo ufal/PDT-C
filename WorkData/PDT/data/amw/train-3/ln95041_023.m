@@ -80,6 +80,7 @@
 <tag>
 <AM lemma="DK_:B_^(disciplinární_komise)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="DK_:B" src="auto" recommended="1">NNXXX-----A---8</AM>
+<AM lemma="DK-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95041-023-p2s1Aw4">
@@ -88,7 +89,10 @@
 <LM>w#w-ln95041-023-p2s1Aw4</LM>
 </w.rf>
 <form>ČMFS</form>
-<tag lemma="ČMFS-1_:B_;K_;w_^(Českomoravský_fotbalový_svaz)" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="ČMFS-1_:B_;K_;w_^(Českomoravský_fotbalový_svaz)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="ČMFS-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95041-023-p2s1Aw5">
 <src.rf>manual</src.rf>
@@ -106,7 +110,7 @@
 <form>Prokop</form>
 <tag>
 <AM lemma="prokop" src="orig">NNMS1-----A----</AM>
-<AM lemma="Prokop_;S_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Prokop_;S_;Y" src="auto" recommended="1" selected="1">NNMS1-----A----</AM>
 <AM lemma="prokop_,a_^(průkop)" src="auto">NNIS1-----A----</AM>
 <AM lemma="prokop_,a_^(průkop)" src="auto">NNIS4-----A----</AM>
 <AM lemma="prokopnout_:W" src="auto">VpYS---XR-AA--6</AM>
@@ -335,6 +339,7 @@
 <tag>
 <AM lemma="DK_:B_^(disciplinární_komise)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="DK_:B" src="auto" recommended="1">NNXXX-----A---8</AM>
+<AM lemma="DK-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95041-023-p2s2w13">
@@ -351,7 +356,10 @@
 <LM>w#w-ln95041-023-p2s2w14</LM>
 </w.rf>
 <form>ČMFS</form>
-<tag lemma="ČMFS-1_:B_;K_;w_^(Českomoravský_fotbalový_svaz)" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="ČMFS-1_:B_;K_;w_^(Českomoravský_fotbalový_svaz)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="ČMFS-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95041-023-p2s2w15">
 <src.rf>manual</src.rf>
@@ -425,7 +433,7 @@
 <form>Prokopa</form>
 <tag>
 <AM lemma="prokop" src="orig">NNMS2-----A----</AM>
-<AM lemma="Prokop_;S_;Y" src="auto" recommended="1">NNMS2-----A----</AM>
+<AM lemma="Prokop_;S_;Y" src="auto" recommended="1" selected="1">NNMS2-----A----</AM>
 <AM lemma="Prokop_;S_;Y" src="auto">NNMS4-----A----</AM>
 </tag>
 </m>
@@ -647,7 +655,10 @@
 <LM>w#w-ln95041-023-p3s1w5</LM>
 </w.rf>
 <form>LN</form>
-<tag lemma="LN-1_:B_;R_^(Lidové_noviny,_deník)" src="orig" selected="1">NNFPX-----A---8</tag>
+<tag>
+<AM lemma="LN-1_:B_;R_^(Lidové_noviny,_deník)" src="orig">NNFPX-----A---8</AM>
+<AM lemma="LN-1_:B_;K_;R_^(Lidové_noviny)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95041-023-p3s1w6">
 <src.rf>manual</src.rf>
@@ -857,7 +868,10 @@
 <LM>w#w-ln95041-023-p4s1w14</LM>
 </w.rf>
 <form>LN</form>
-<tag lemma="LN-1_:B_;R_^(Lidové_noviny,_deník)" src="orig" selected="1">NNFPX-----A---8</tag>
+<tag>
+<AM lemma="LN-1_:B_;R_^(Lidové_noviny,_deník)" src="orig">NNFPX-----A---8</AM>
+<AM lemma="LN-1_:B_;K_;R_^(Lidové_noviny)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95041-023-p4s1w15">
 <src.rf>manual</src.rf>
@@ -907,7 +921,10 @@
 <LM>w#w-ln95041-023-p4s2w4</LM>
 </w.rf>
 <form>jen</form>
-<tag lemma="jen-1" src="auto" selected="1">TT-------------</tag>
+<tag>
+<AM lemma="jen-1" src="auto">TT-------------</AM>
+<AM lemma="jen-4_^(pouze)" src="manual" selected="1">Db-------------</AM>
+</tag>
 </m>
 <m id="m-ln95041-023-p4s2w5">
 <src.rf>manual</src.rf>
@@ -955,7 +972,10 @@
 <LM>w#w-ln95041-023-p4s2w10</LM>
 </w.rf>
 <form>mj</form>
-<tag lemma="mj-1_:B_^(mimo_jiné)" src="orig" selected="1">Db------------8</tag>
+<tag>
+<AM lemma="mj-1_:B_^(mimo_jiné)" src="orig">Db------------8</AM>
+<AM lemma="mj-1_:B_^(mimo_jiné)" src="manual" selected="1">Db-------------</AM>
+</tag>
 </m>
 <m id="m-ln95041-023-p4s2w11">
 <src.rf>manual</src.rf>
@@ -1191,7 +1211,7 @@
 <form>Ačkoliv</form>
 <tag>
 <AM lemma="ačkoliv" src="orig">J,-------------</AM>
-<AM lemma="ačkoli" src="auto" recommended="1">J,------------1</AM>
+<AM lemma="ačkoli" src="auto" recommended="1" selected="1">J,------------1</AM>
 </tag>
 </m>
 <m id="m-ln95041-023-p5s1w2">
@@ -1232,7 +1252,10 @@
 <LM>w#w-ln95041-023-p5s1w6</LM>
 </w.rf>
 <form>ČR</form>
-<tag lemma="ČR-1_:B_;G_^(Česká_republika)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95041-023-p5s1w7">
 <src.rf>manual</src.rf>
@@ -1376,7 +1399,10 @@
 <LM>w#w-ln95041-023-p5s1w24</LM>
 </w.rf>
 <form>spíše</form>
-<tag lemma="spíše" src="orig" selected="1">Dg-------2A---1</tag>
+<tag>
+<AM lemma="spíše" src="orig">Dg-------2A---1</AM>
+<AM lemma="spíš" src="manual" selected="1">TT------------1</AM>
+</tag>
 </m>
 <m id="m-ln95041-023-p5s1w25">
 <src.rf>manual</src.rf>
@@ -1419,6 +1445,7 @@
 <tag>
 <AM lemma="DK_:B_^(disciplinární_komise)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="DK_:B" src="auto" recommended="1">NNXXX-----A---8</AM>
+<AM lemma="DK-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95041-023-p5s1w30">
@@ -1541,7 +1568,10 @@
 <LM>w#w-ln95041-023-p6s1w11</LM>
 </w.rf>
 <form>FIFA</form>
-<tag lemma="FIFA_:B_;K" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="FIFA_:B_;K" src="orig">NNFXX-----A---8</AM>
+<AM lemma="FIFA-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95041-023-p6s1w12">
 <src.rf>manual</src.rf>
@@ -1583,7 +1613,7 @@
 <form>Prokopa</form>
 <tag>
 <AM lemma="prokop" src="orig">NNMS2-----A----</AM>
-<AM lemma="Prokop_;S_;Y" src="auto" recommended="1">NNMS2-----A----</AM>
+<AM lemma="Prokop_;S_;Y" src="auto" recommended="1" selected="1">NNMS2-----A----</AM>
 <AM lemma="Prokop_;S_;Y" src="auto">NNMS4-----A----</AM>
 </tag>
 </m>
@@ -1649,7 +1679,10 @@
 <LM>w#w-ln95041-023-p6s1w24</LM>
 </w.rf>
 <form>FIFA</form>
-<tag lemma="FIFA_:B_;K" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="FIFA_:B_;K" src="orig">NNFXX-----A---8</AM>
+<AM lemma="FIFA-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95041-023-p6s1w25">
 <src.rf>manual</src.rf>
@@ -1697,7 +1730,10 @@
 <LM>w#w-ln95041-023-p6s1w30</LM>
 </w.rf>
 <form>řekl</form>
-<tag lemma="říci" src="auto" selected="1">VpYS---XR-AA---</tag>
+<tag>
+<AM lemma="říci" src="auto">VpYS---XR-AA---</AM>
+<AM lemma="říci_:W" src="manual" selected="1">VpYS---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-ln95041-023-p6s1w31">
 <src.rf>manual</src.rf>
@@ -1732,6 +1768,7 @@
 <tag>
 <AM lemma="DK_:B_^(disciplinární_komise)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="DK_:B" src="auto" recommended="1">NNXXX-----A---8</AM>
+<AM lemma="DK-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95041-023-p6s1w35">
@@ -1740,7 +1777,10 @@
 <LM>w#w-ln95041-023-p6s1w35</LM>
 </w.rf>
 <form>Alexander</form>
-<tag lemma="Alexander_;S" src="auto" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Alexander_;S" src="auto">NNMS1-----A----</AM>
+<AM lemma="Alexander_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95041-023-p6s1w36">
 <src.rf>manual</src.rf>
@@ -1854,7 +1894,10 @@
 <LM>w#w-ln95041-023-p6s2w12</LM>
 </w.rf>
 <form>jen</form>
-<tag lemma="jen-1" src="auto" selected="1">TT-------------</tag>
+<tag>
+<AM lemma="jen-1" src="auto">TT-------------</AM>
+<AM lemma="jen-4_^(pouze)" src="manual" selected="1">Db-------------</AM>
+</tag>
 </m>
 <m id="m-ln95041-023-p6s2w13">
 <src.rf>manual</src.rf>
@@ -1962,7 +2005,7 @@
 <form>Prokopovi</form>
 <tag>
 <AM lemma="prokop" src="orig">NNMS3-----A----</AM>
-<AM lemma="Prokop_;S_;Y" src="auto" recommended="1">NNMS3-----A----</AM>
+<AM lemma="Prokop_;S_;Y" src="auto" recommended="1" selected="1">NNMS3-----A----</AM>
 <AM lemma="Prokop_;S_;Y" src="auto">NNMS6-----A----</AM>
 <AM lemma="Prokopův_;S_;Y_^(*2)" src="auto">AUMP1M---------</AM>
 <AM lemma="Prokopův_;S_;Y_^(*2)" src="auto">AUMP5M---------</AM>
@@ -2058,7 +2101,7 @@
 <form>Prokop</form>
 <tag>
 <AM lemma="prokop" src="orig">NNMS1-----A----</AM>
-<AM lemma="Prokop_;S_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Prokop_;S_;Y" src="auto" recommended="1" selected="1">NNMS1-----A----</AM>
 <AM lemma="prokop_,a_^(průkop)" src="auto">NNIS1-----A----</AM>
 <AM lemma="prokop_,a_^(průkop)" src="auto">NNIS4-----A----</AM>
 <AM lemma="prokopnout_:W" src="auto">VpYS---XR-AA--6</AM>

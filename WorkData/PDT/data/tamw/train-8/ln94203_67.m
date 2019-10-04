@@ -281,7 +281,10 @@
 <LM>w#w-ln94203-67-p3s1w6</LM>
 </w.rf>
 <form>Samarou</form>
-<tag lemma="samara_;R" src="orig" selected="1">NNFS7-----A----</tag>
+<tag>
+<AM lemma="samara_;R" src="orig">NNFS7-----A----</AM>
+<AM lemma="Samara-2_;G_;R_^(vozidlo_město)" src="manual" selected="1">NNFS7-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94203-67-p3s1w7">
 <src.rf>manual</src.rf>
@@ -427,7 +430,10 @@
 <LM>w#w-ln94203-67-p3s2Aw7</LM>
 </w.rf>
 <form>Transněfť</form>
-<tag lemma="Transněfť_;K_,t" src="orig" selected="1">NNFS1-----A----</tag>
+<tag>
+<AM lemma="Transněfť_;K_,t" src="orig">NNFS1-----A----</AM>
+<AM lemma="Transněfť_;K" src="manual" selected="1">NNFS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94203-67-p3s2Aw8">
 <src.rf>manual</src.rf>
@@ -1164,6 +1170,7 @@
 <tag>
 <AM lemma="DEA-2_:B_;K_,t_^(Drug_Enforcement_Administration)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="DEA-1_:B_,t_^(décollage_en_aveugle)" src="auto" recommended="1">NNIXX-----A---8</AM>
+<AM lemma="DEA-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-ln94203-67-p4s2w12">
@@ -1254,7 +1261,10 @@
 <LM>w#w-ln94203-67-p5s1w7</LM>
 </w.rf>
 <form>OSN</form>
-<tag lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94203-67-p5s1w8">
 <src.rf>manual</src.rf>
@@ -1488,7 +1498,10 @@
 <LM>w#w-ln94203-67-p5s2w10</LM>
 </w.rf>
 <form>OIC</form>
-<tag lemma="OIC-1_:B_;K_,t_^(Organisation_Internationale_du_Commerce)" src="auto" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="OIC-1_:B_;K_,t_^(Organisation_Internationale_du_Commerce)" src="auto">NNFXX-----A---8</AM>
+<AM lemma="OIC-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln94203-67-p5s2w11">
 <src.rf>manual</src.rf>
@@ -1504,7 +1517,11 @@
 <LM>w#w-ln94203-67-p5s2w12</LM>
 </w.rf>
 <form>Hamid</form>
-<tag lemma="Hamid_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Hamid_;S" src="orig">NNMS1-----A----</AM>
+<AM lemma="Hamid_;Y_;S" src="manual">NNMS1-----A----</AM>
+<AM lemma="Hamid_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94203-67-p5s2w13">
 <src.rf>manual</src.rf>

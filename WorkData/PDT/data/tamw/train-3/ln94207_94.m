@@ -119,7 +119,10 @@
 <LM>w#w-ln94207-94-p2s2w3</LM>
 </w.rf>
 <form>nar</form>
-<tag lemma="narozený_:B" src="orig" selected="1">AAXXX----1A---8</tag>
+<tag>
+<AM lemma="narozený_:B" src="orig">AAXXX----1A---8</AM>
+<AM lemma="narozený" src="manual" selected="1">AAXXX----1A---8</AM>
+</tag>
 </m>
 <m id="m-ln94207-94-p2s2w4">
 <src.rf>manual</src.rf>
@@ -352,7 +355,7 @@
 <AM lemma="Melodia_;K" src="auto" recommended="1">NNFS6-----A----</AM>
 <AM lemma="melodie" src="auto">NNFS3-----A----</AM>
 <AM lemma="melodie" src="auto">NNFS4-----A----</AM>
-<AM lemma="melodie" src="auto">NNFS6-----A----</AM>
+<AM lemma="melodie" src="auto" selected="1">NNFS6-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94207-94-p2s3w20">
@@ -1489,7 +1492,7 @@
 <form>totiž</form>
 <tag>
 <AM lemma="totiž" src="orig">Db-------------</AM>
-<AM lemma="totiž-1" src="auto" recommended="1">J^-------------</AM>
+<AM lemma="totiž-1" src="auto" recommended="1" selected="1">J^-------------</AM>
 <AM lemma="totiž-2" src="auto">TT-------------</AM>
 </tag>
 </m>
@@ -2570,7 +2573,7 @@
 <tag>
 <AM lemma="tady" src="orig">Db------------1</AM>
 <AM lemma="ten" src="auto">PDFS4----------</AM>
-<AM lemma="tu" src="auto" recommended="1">Db-------------</AM>
+<AM lemma="tu" src="auto" recommended="1" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m-ln94207-94-p6s1w4">
@@ -3079,7 +3082,7 @@
 <form>já</form>
 <tag>
 <AM lemma="já" src="orig">NNNP4-----A----</AM>
-<AM lemma="já" src="auto" recommended="1">PP-S1--1-------</AM>
+<AM lemma="já" src="auto" recommended="1" selected="1">PP-S1--1-------</AM>
 </tag>
 </m>
 <m id="m-ln94207-94-p6s6w11">
@@ -3370,7 +3373,10 @@
 <LM>w#w-ln94207-94-p7s1w10</LM>
 </w.rf>
 <form>li</form>
-<tag lemma="li-1" src="auto" selected="1">TT-------------</tag>
+<tag>
+<AM lemma="li-1" src="auto">TT-------------</AM>
+<AM lemma="li-2" src="manual" selected="1">J,-------------</AM>
+</tag>
 </m>
 <m id="m-ln94207-94-p7s1w11">
 <src.rf>manual</src.rf>
@@ -3636,7 +3642,10 @@
 <LM>w#w-ln94207-94-p7s2w7</LM>
 </w.rf>
 <form>li</form>
-<tag lemma="li-1" src="auto" selected="1">TT-------------</tag>
+<tag>
+<AM lemma="li-1" src="auto">TT-------------</AM>
+<AM lemma="li-2" src="manual" selected="1">J,-------------</AM>
+</tag>
 </m>
 <m id="m-ln94207-94-p7s2w8">
 <src.rf>manual</src.rf>
@@ -3775,7 +3784,7 @@
 <form>jakoby</form>
 <tag>
 <AM lemma="jakoby-2" src="orig">Db-------------</AM>
-<AM lemma="jakoby" src="auto" recommended="1">J,-------------</AM>
+<AM lemma="jakoby" src="auto" recommended="1" selected="1">J,-------------</AM>
 </tag>
 </m>
 <m id="m-ln94207-94-p7s2w25">
@@ -4076,7 +4085,10 @@
 <LM>w#w-ln94207-94-p8s2w20</LM>
 </w.rf>
 <form>li</form>
-<tag lemma="li-1" src="auto" selected="1">TT-------------</tag>
+<tag>
+<AM lemma="li-1" src="auto">TT-------------</AM>
+<AM lemma="li-2" src="manual" selected="1">J,-------------</AM>
+</tag>
 </m>
 <m id="m-ln94207-94-p8s2w21">
 <src.rf>manual</src.rf>
@@ -4103,7 +4115,7 @@
 <tag>
 <AM lemma="tedy" src="orig">Db-------------</AM>
 <AM lemma="tedy-1" src="auto">TT-------------</AM>
-<AM lemma="tedy-2" src="auto" recommended="1">J^-------------</AM>
+<AM lemma="tedy-2" src="auto" recommended="1" selected="1">J^-------------</AM>
 </tag>
 </m>
 <m id="m-ln94207-94-p8s2w24">

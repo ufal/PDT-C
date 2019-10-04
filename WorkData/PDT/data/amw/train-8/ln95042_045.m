@@ -183,7 +183,16 @@
 <LM>w#w-ln95042-045-p2s1Bw10</LM>
 </w.rf>
 <form>FED</form>
-<tag lemma="Fed_;Y" src="orig" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Fed_;Y" src="orig">NNMS1-----A----</AM>
+<AM lemma="Fed_:B" src="manual">NNXXX-----A---8</AM>
+<AM lemma="FED-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
+<comment>
+<LM type="Other">
+<text>nová analýza: obecná zkratka</text>
+</LM>
+</comment>
 </m>
 <m id="m-ln95042-045-p2s1Bw11">
 <src.rf>manual</src.rf>
@@ -327,7 +336,10 @@
 <LM>w#w-ln95042-045-p2s1Bw28</LM>
 </w.rf>
 <form>uvnitř</form>
-<tag lemma="uvnitř-2" src="orig" selected="1">Db-------------</tag>
+<tag>
+<AM lemma="uvnitř-2" src="orig">Db-------------</AM>
+<AM lemma="uvnitř-1" src="manual" selected="1">RR--2----------</AM>
+</tag>
 </m>
 <m id="m-ln95042-045-p2s1Bw29">
 <src.rf>manual</src.rf>
@@ -359,7 +371,10 @@
 <LM>w#w-ln95042-045-p2s1Bw32</LM>
 </w.rf>
 <form>EU</form>
-<tag lemma="EU-1_:B_;K_;p_^(Evropská_Unie)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="EU-1_:B_;K_;p_^(Evropská_Unie)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="EU-1_:B_;K_^(Evropská_Unie)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95042-045-p2s1Bw33">
 <src.rf>manual</src.rf>
@@ -521,7 +536,10 @@
 <LM>w#w-ln95042-045-p2s2w18</LM>
 </w.rf>
 <form>EU</form>
-<tag lemma="EU-1_:B_;K_;p_^(Evropská_Unie)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="EU-1_:B_;K_;p_^(Evropská_Unie)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="EU-1_:B_;K_^(Evropská_Unie)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95042-045-p2s2w19">
 <src.rf>manual</src.rf>
@@ -575,7 +593,14 @@
 <AM lemma="FED_:B_;m_,t" src="orig">NNIXX-----A---8</AM>
 <AM lemma="Fed_:B" src="auto">Xx-------------</AM>
 <AM lemma="Fed_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="FED_:B" src="manual">NNXXX-----A---8</AM>
+<AM lemma="FED-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
+<comment>
+<LM type="Other">
+<text>nová analýza: obecná zkratka</text>
+</LM>
+</comment>
 </m>
 <m id="m-ln95042-045-p3s1w6">
 <src.rf>manual</src.rf>
@@ -817,7 +842,10 @@
 <LM>w#w-ln95042-045-p3s2w5</LM>
 </w.rf>
 <form>tzv</form>
-<tag lemma="takzvaný_:B" src="orig" selected="1">AAXXX----1A---8</tag>
+<tag>
+<AM lemma="takzvaný_:B" src="orig">AAXXX----1A---8</AM>
+<AM lemma="takzvaný" src="manual" selected="1">AAXXX----1A---8</AM>
+</tag>
 </m>
 <m id="m-ln95042-045-p3s2w6">
 <src.rf>manual</src.rf>
@@ -995,7 +1023,10 @@
 <LM>w#w-ln95042-045-p4s1w8</LM>
 </w.rf>
 <form>EU</form>
-<tag lemma="EU-1_:B_;K_;p_^(Evropská_Unie)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="EU-1_:B_;K_;p_^(Evropská_Unie)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="EU-1_:B_;K_^(Evropská_Unie)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95042-045-p4s1w9">
 <src.rf>manual</src.rf>
@@ -1193,7 +1224,14 @@
 <AM lemma="FED_:B_;m_,t" src="orig">NNIXX-----A---8</AM>
 <AM lemma="Fed_:B" src="auto">Xx-------------</AM>
 <AM lemma="Fed_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="FED_:B" src="manual">NNXXX-----A---8</AM>
+<AM lemma="FED-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
+<comment>
+<LM type="Other">
+<text>nová analýza: obecná zkratka</text>
+</LM>
+</comment>
 </m>
 <m id="m-ln95042-045-p4s2w3">
 <src.rf>manual</src.rf>
@@ -1282,7 +1320,10 @@
 <LM>w#w-ln95042-045-p4s2w13</LM>
 </w.rf>
 <form>ECU</form>
-<tag lemma="ECU_:B_;b" src="auto" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ECU_:B_;b" src="auto">NNFXX-----A---8</AM>
+<AM lemma="ECU-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95042-045-p4s2w14">
 <src.rf>manual</src.rf>
@@ -1322,7 +1363,10 @@
 <LM>w#w-ln95042-045-p4s2w18</LM>
 </w.rf>
 <form>dolarů</form>
-<tag lemma="dolar_;b" src="orig" selected="1">NNIP2-----A----</tag>
+<tag>
+<AM lemma="dolar_;b" src="orig">NNIP2-----A----</AM>
+<AM lemma="dolar" src="manual" selected="1">NNIP2-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95042-045-p4s2w19">
 <src.rf>manual</src.rf>
@@ -1386,7 +1430,10 @@
 <LM>w#w-ln95042-045-p4s2w26</LM>
 </w.rf>
 <form>EU</form>
-<tag lemma="EU-1_:B_;K_;p_^(Evropská_Unie)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="EU-1_:B_;K_;p_^(Evropská_Unie)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="EU-1_:B_;K_^(Evropská_Unie)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95042-045-p4s2w27">
 <src.rf>manual</src.rf>
@@ -1500,7 +1547,10 @@
 <LM>w#w-ln95042-045-p4s3w7</LM>
 </w.rf>
 <form>FED</form>
-<tag lemma="Fed_;Y" src="orig" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Fed_;Y" src="orig">NNMS1-----A----</AM>
+<AM lemma="FED-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95042-045-p4s3w8">
 <src.rf>manual</src.rf>
@@ -1832,7 +1882,10 @@
 <LM>w#w-ln95042-045-p5s1w25</LM>
 </w.rf>
 <form>EU</form>
-<tag lemma="EU-1_:B_;K_;p_^(Evropská_Unie)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="EU-1_:B_;K_;p_^(Evropská_Unie)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="EU-1_:B_;K_^(Evropská_Unie)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95042-045-p5s1w26">
 <src.rf>manual</src.rf>

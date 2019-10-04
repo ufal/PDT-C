@@ -119,7 +119,10 @@
 <LM>w#w-lnd92255-024-p3s1w3</LM>
 </w.rf>
 <form>jak</form>
-<tag lemma="jak-3" src="orig" selected="1">Db-------------</tag>
+<tag>
+<AM lemma="jak-3" src="orig">Db-------------</AM>
+<AM lemma="jak-99_:B_;S" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd92255-024-p3s1w4">
 <src.rf>manual</src.rf>
@@ -161,7 +164,10 @@
 <LM>w#w-lnd92255-024-p3s2w3</LM>
 </w.rf>
 <form>Platinum</form>
-<tag lemma="platinum_;L" src="orig" selected="1">NNNS1-----A----</tag>
+<tag>
+<AM lemma="platinum_;L" src="orig">NNNS1-----A----</AM>
+<AM lemma="Platinum-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-lnd92255-024-p3s2w4">
 <src.rf>manual</src.rf>
@@ -169,7 +175,10 @@
 <LM>w#w-lnd92255-024-p3s2w4</LM>
 </w.rf>
 <form>Gasaver</form>
-<tag lemma="Gasaver_;R" src="orig" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="Gasaver_;R" src="orig">NNIS1-----A----</AM>
+<AM lemma="Gasaver-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-lnd92255-024-p3s2w5">
 <src.rf>manual</src.rf>
@@ -193,7 +202,10 @@
 <LM>w#w-lnd92255-024-p3s2w7</LM>
 </w.rf>
 <form>National</form>
-<tag lemma="National-1_;K_,t_^(souč._názvů,_např._N._Semiconductor)" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="National-1_;K_,t_^(souč._názvů,_např._N._Semiconductor)" src="orig">AAXXX----1A----</AM>
+<AM lemma="National-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-lnd92255-024-p3s2w8">
 <src.rf>manual</src.rf>
@@ -201,7 +213,10 @@
 <LM>w#w-lnd92255-024-p3s2w8</LM>
 </w.rf>
 <form>FuelSaver</form>
-<tag lemma="FuelSaver_;K" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="FuelSaver_;K" src="orig">AAXXX----1A----</AM>
+<AM lemma="FuelSaver-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-lnd92255-024-p3s2w9">
 <src.rf>manual</src.rf>
@@ -209,7 +224,10 @@
 <LM>w#w-lnd92255-024-p3s2w9</LM>
 </w.rf>
 <form>Corporation</form>
-<tag lemma="Corporation_;K_,t_^(přev._v_názvech_cizích_firem)" src="orig" selected="1">NNFXX-----A----</tag>
+<tag>
+<AM lemma="Corporation_;K_,t_^(přev._v_názvech_cizích_firem)" src="orig">NNFXX-----A----</AM>
+<AM lemma="Corporation-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-lnd92255-024-p3s2w10">
 <src.rf>manual</src.rf>
@@ -873,7 +891,10 @@
 <LM>w#w-lnd92255-024-p4s2w2</LM>
 </w.rf>
 <form>li</form>
-<tag lemma="li-1" src="auto" selected="1">TT-------------</tag>
+<tag>
+<AM lemma="li-1" src="auto">TT-------------</AM>
+<AM lemma="li-2" src="manual" selected="1">J,-------------</AM>
+</tag>
 </m>
 <m id="m-lnd92255-024-p4s2w3">
 <src.rf>manual</src.rf>
@@ -1137,7 +1158,7 @@
 <form>ovšem</form>
 <tag>
 <AM lemma="ovšem-1_^(avšak,_však;_odporovací_spojka)" src="orig">J^-------------</AM>
-<AM lemma="ovšem" src="auto" recommended="1">TT-------------</AM>
+<AM lemma="ovšem" src="auto" recommended="1" selected="1">TT-------------</AM>
 </tag>
 </m>
 <m id="m-lnd92255-024-p4s4w6">
@@ -1324,7 +1345,10 @@
 <LM>w#w-lnd92255-024-p5s1w3</LM>
 </w.rf>
 <form>Platinum</form>
-<tag lemma="platinum_;L" src="orig" selected="1">NNNS1-----A----</tag>
+<tag>
+<AM lemma="platinum_;L" src="orig">NNNS1-----A----</AM>
+<AM lemma="Platinum-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-lnd92255-024-p5s1w4">
 <src.rf>manual</src.rf>
@@ -1332,7 +1356,10 @@
 <LM>w#w-lnd92255-024-p5s1w4</LM>
 </w.rf>
 <form>Gasaver</form>
-<tag lemma="Gasaver_;R" src="orig" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="Gasaver_;R" src="orig">NNIS1-----A----</AM>
+<AM lemma="Gasaver-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-lnd92255-024-p5s1w5">
 <src.rf>manual</src.rf>
@@ -1375,6 +1402,7 @@
 <tag>
 <AM lemma="USA_;G" src="orig">NNIPX-----A----</AM>
 <AM lemma="USA_:B_;K_,t_^(United_States_of_America)" src="auto" recommended="1">NNIPX-----A---8</AM>
+<AM lemma="USA_:B_;K_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-lnd92255-024-p5s1w10">
@@ -1391,7 +1419,10 @@
 <LM>w#w-lnd92255-024-p5s1w11</LM>
 </w.rf>
 <form>jen</form>
-<tag lemma="jen-1" src="auto" selected="1">TT-------------</tag>
+<tag>
+<AM lemma="jen-1" src="auto">TT-------------</AM>
+<AM lemma="jen-4_^(pouze)" src="manual" selected="1">Db-------------</AM>
+</tag>
 </m>
 <m id="m-lnd92255-024-p5s1w12">
 <src.rf>manual</src.rf>
@@ -1733,7 +1764,10 @@
 <LM>w#w-lnd92255-024-p5s4w12</LM>
 </w.rf>
 <form>Komatsu</form>
-<tag lemma="Komatsu_;G" src="auto" selected="1">NNNSX-----A----</tag>
+<tag>
+<AM lemma="Komatsu_;G" src="auto">NNNSX-----A----</AM>
+<AM lemma="Komatsu-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-lnd92255-024-p5s4w13">
 <src.rf>manual</src.rf>
@@ -1749,6 +1783,7 @@
 <AM lemma="energie" src="auto">NNFS1-----A----</AM>
 <AM lemma="energie" src="auto" recommended="1">NNFS2-----A----</AM>
 <AM lemma="energie" src="auto">NNFS5-----A----</AM>
+<AM lemma="Energie-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-lnd92255-024-p5s4w14">
@@ -1757,7 +1792,10 @@
 <LM>w#w-lnd92255-024-p5s4w14</LM>
 </w.rf>
 <form>Company</form>
-<tag lemma="Company_;K_,t_^(přev._v_názvech_cizích_firem)" src="orig" selected="1">NNFXX-----A----</tag>
+<tag>
+<AM lemma="Company_;K_,t_^(přev._v_názvech_cizích_firem)" src="orig">NNFXX-----A----</AM>
+<AM lemma="Company-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-lnd92255-024-p5s4w15">
 <src.rf>manual</src.rf>
@@ -2471,7 +2509,7 @@
 <tag>
 <AM lemma="tedy" src="orig">Db-------------</AM>
 <AM lemma="tedy-1" src="auto">TT-------------</AM>
-<AM lemma="tedy-2" src="auto" recommended="1">J^-------------</AM>
+<AM lemma="tedy-2" src="auto" recommended="1" selected="1">J^-------------</AM>
 </tag>
 </m>
 <m id="m-lnd92255-024-p6s1w30">
@@ -2836,7 +2874,10 @@
 <LM>w#w-lnd92255-024-p6s2w28</LM>
 </w.rf>
 <form>Platinum</form>
-<tag lemma="platinum_;L" src="orig" selected="1">NNNS1-----A----</tag>
+<tag>
+<AM lemma="platinum_;L" src="orig">NNNS1-----A----</AM>
+<AM lemma="Platinum-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-lnd92255-024-p6s2w29">
 <src.rf>manual</src.rf>
@@ -2844,7 +2885,10 @@
 <LM>w#w-lnd92255-024-p6s2w29</LM>
 </w.rf>
 <form>Gasaver</form>
-<tag lemma="Gasaver_;R" src="orig" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="Gasaver_;R" src="orig">NNIS1-----A----</AM>
+<AM lemma="Gasaver-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-lnd92255-024-p6s2w30">
 <src.rf>manual</src.rf>

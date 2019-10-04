@@ -408,6 +408,7 @@
 <tag>
 <AM lemma="USA_;G" src="orig">NNIPX-----A----</AM>
 <AM lemma="USA_:B_;K_,t_^(United_States_of_America)" src="auto" recommended="1">NNIPX-----A---8</AM>
+<AM lemma="USA_:B_;K_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-lnd92257-035-p3s4w3">
@@ -489,7 +490,7 @@
 </w.rf>
 <form>Ter</form>
 <tag>
-<AM lemma="Ter-2_;S" src="orig">NNMXX-----A----</AM>
+<AM lemma="Ter-2_;S" src="orig" selected="1">NNMXX-----A----</AM>
 <AM lemma="Ter_;G" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Ter_;G" src="auto">NNIS4-----A----</AM>
 <AM lemma="tera_^(budhistický_chrám)" src="auto">NNFP2-----A----</AM>
@@ -719,7 +720,10 @@
 <LM>w#w-lnd92257-035-p3s5w14</LM>
 </w.rf>
 <form>San</form>
-<tag lemma="San-2_;G" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="San-2_;G" src="orig">AAXXX----1A----</AM>
+<AM lemma="San-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-lnd92257-035-p3s5w15">
 <src.rf>manual</src.rf>
@@ -728,7 +732,7 @@
 </w.rf>
 <form>Antoniu</form>
 <tag>
-<AM lemma="Antonio-2_;G" src="orig">NNNS6-----A----</AM>
+<AM lemma="Antonio-2_;G" src="orig" selected="1">NNNS6-----A----</AM>
 <AM lemma="Antonio_;Y_,t" src="auto">NNMS3-----A---1</AM>
 <AM lemma="Antonio_;Y_,t" src="auto">NNMS6-----A---1</AM>
 <AM lemma="Antonius_;S" src="auto">NNMS3-----A---1</AM>
@@ -1041,7 +1045,10 @@
 <LM>w#w-lnd92257-035-p3s7w20</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-2" src="auto" selected="1">Dg-------2A----</tag>
+<tag>
+<AM lemma="hodně-2" src="auto">Dg-------2A----</AM>
+<AM lemma="hodně-3" src="manual" selected="1">Dg-------2A----</AM>
+</tag>
 </m>
 <m id="m-lnd92257-035-p3s7w21">
 <src.rf>manual</src.rf>

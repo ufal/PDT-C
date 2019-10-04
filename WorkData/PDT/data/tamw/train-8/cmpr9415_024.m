@@ -369,7 +369,11 @@
 <LM>w#w-cmpr9415-024-p5s3w7</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-2" src="auto" selected="1">Dg-------2A----</tag>
+<tag>
+<AM lemma="hodně-2" src="auto">Dg-------2A----</AM>
+<AM lemma="více_^(více_+_2._p.,_více_peněz)" src="manual">Ca--6----------</AM>
+<AM lemma="více" src="manual" selected="1">Ca--X----------</AM>
+</tag>
 </m>
 <m id="m-cmpr9415-024-p5s3w8">
 <src.rf>manual</src.rf>
@@ -377,7 +381,10 @@
 <LM>w#w-cmpr9415-024-p5s3w8</LM>
 </w.rf>
 <form>jak</form>
-<tag lemma="jak-3" src="orig" selected="1">Db-------------</tag>
+<tag>
+<AM lemma="jak-3" src="orig">Db-------------</AM>
+<AM lemma="jak-2" src="manual" selected="1">J,-------------</AM>
+</tag>
 </m>
 <m id="m-cmpr9415-024-p5s3w9">
 <src.rf>manual</src.rf>
@@ -454,7 +461,7 @@
 <tag>
 <AM lemma="tedy" src="orig">Db-------------</AM>
 <AM lemma="tedy-1" src="auto">TT-------------</AM>
-<AM lemma="tedy-2" src="auto" recommended="1">J^-------------</AM>
+<AM lemma="tedy-2" src="auto" recommended="1" selected="1">J^-------------</AM>
 </tag>
 </m>
 <m id="m-cmpr9415-024-p6s1w6">
@@ -633,7 +640,10 @@
 <LM>w#w-cmpr9415-024-p6s2w4</LM>
 </w.rf>
 <form>vydává</form>
-<tag lemma="vydávat-1_:T_^(emitovat:_cenné_papíry,_knihu,_zvuk,...)_(*6at-1)" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag>
+<AM lemma="vydávat-1_:T_^(emitovat:_cenné_papíry,_knihu,_zvuk,...)_(*6at-1)" src="orig">VB-S---3P-AA---</AM>
+<AM lemma="vydávat_:T_^(*4at)" src="manual" selected="1">VB-S---3P-AA---</AM>
+</tag>
 </m>
 <m id="m-cmpr9415-024-p6s2w5">
 <src.rf>manual</src.rf>
@@ -1178,7 +1188,7 @@
 </w.rf>
 <form>Víla</form>
 <tag>
-<AM lemma="Víla_;S" src="orig">NNMS1-----A----</AM>
+<AM lemma="Víla_;S" src="orig" selected="1">NNMS1-----A----</AM>
 <AM lemma="víla" src="auto" recommended="1">NNFS1-----A----</AM>
 </tag>
 </m>

@@ -251,7 +251,10 @@
 <LM>w#w-cmpr9413-049-p4s2w7</LM>
 </w.rf>
 <form>hodně</form>
-<tag lemma="hodně-2_^(nezlobivý)_(*3ý-2)" src="auto" selected="1">Dg-------1A----</tag>
+<tag>
+<AM lemma="hodně-2_^(nezlobivý)_(*3ý-2)" src="auto">Dg-------1A----</AM>
+<AM lemma="hodně-3" src="manual" selected="1">Dg-------1A----</AM>
+</tag>
 </m>
 <m id="m-cmpr9413-049-p4s2w8">
 <src.rf>manual</src.rf>
@@ -341,7 +344,12 @@
 <LM>w#w-cmpr9413-049-p4s3w7</LM>
 </w.rf>
 <form>zřejmě</form>
-<tag lemma="zřejmě_^(*1ý)" src="orig" selected="1">Dg-------1A----</tag>
+<tag lemma="zřejmě_^(*1ý)" src="orig">Dg-------1A----</tag>
+<comment>
+<LM type="New Form">
+<text>zřejmé</text>
+</LM>
+</comment>
 </m>
 <m id="m-cmpr9413-049-p4s3w8">
 <src.rf>manual</src.rf>
@@ -455,7 +463,10 @@
 <LM>w#w-cmpr9413-049-p4s4w8</LM>
 </w.rf>
 <form>jen</form>
-<tag lemma="jen-1" src="auto" selected="1">TT-------------</tag>
+<tag>
+<AM lemma="jen-1" src="auto">TT-------------</AM>
+<AM lemma="jen-4_^(pouze)" src="manual" selected="1">Db-------------</AM>
+</tag>
 </m>
 <m id="m-cmpr9413-049-p4s4w9">
 <src.rf>manual</src.rf>
@@ -585,7 +596,10 @@
 <LM>w#w-cmpr9413-049-p4s5w10</LM>
 </w.rf>
 <form>TTI</form>
-<tag lemma="TTI_:B_;K" src="orig" selected="1">AAXXX----1A---8</tag>
+<tag>
+<AM lemma="TTI_:B_;K" src="orig">AAXXX----1A---8</AM>
+<AM lemma="TTI-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-cmpr9413-049-p4s5w11">
 <src.rf>manual</src.rf>
@@ -593,7 +607,10 @@
 <LM>w#w-cmpr9413-049-p4s5w11</LM>
 </w.rf>
 <form>Therm</form>
-<tag lemma="Therm_;K_,t" src="auto" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="Therm_;K_,t" src="auto">NNIS1-----A----</AM>
+<AM lemma="Therm_;K" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-cmpr9413-049-p4s5w12">
 <src.rf>manual</src.rf>
@@ -1527,7 +1544,10 @@
 <LM>w#w-cmpr9413-049-p7s6w27</LM>
 </w.rf>
 <form>atd</form>
-<tag lemma="atd-1_:B_^(a_tak_dále)" src="orig" selected="1">Db------------8</tag>
+<tag>
+<AM lemma="atd-1_:B_^(a_tak_dále)" src="orig">Db------------8</AM>
+<AM lemma="atd-1_:B_^(a_tak_dále)" src="manual" selected="1">Db-------------</AM>
+</tag>
 </m>
 <m id="m-cmpr9413-049-p7s6w28">
 <src.rf>manual</src.rf>
@@ -1889,7 +1909,7 @@
 <form>Koneckonců</form>
 <tag>
 <AM lemma="koneckonců" src="orig">Db-------------</AM>
-<AM lemma="koneckonců" src="auto" recommended="1">TT-------------</AM>
+<AM lemma="koneckonců" src="auto" recommended="1" selected="1">TT-------------</AM>
 </tag>
 </m>
 <m id="m-cmpr9413-049-p8s4w2">
@@ -2488,7 +2508,10 @@
 <LM>w#w-cmpr9413-049-p11s3w2</LM>
 </w.rf>
 <form>TTI</form>
-<tag lemma="TTI_:B_;K" src="orig" selected="1">AAXXX----1A---8</tag>
+<tag>
+<AM lemma="TTI_:B_;K" src="orig">AAXXX----1A---8</AM>
+<AM lemma="TTI-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-cmpr9413-049-p11s3w3">
 <src.rf>manual</src.rf>
@@ -2496,7 +2519,10 @@
 <LM>w#w-cmpr9413-049-p11s3w3</LM>
 </w.rf>
 <form>Therm</form>
-<tag lemma="Therm_;K_,t" src="auto" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="Therm_;K_,t" src="auto">NNIS1-----A----</AM>
+<AM lemma="Therm_;K" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-cmpr9413-049-p11s3w4">
 <src.rf>manual</src.rf>
@@ -2626,7 +2652,10 @@
 <LM>w#w-cmpr9413-049-p11s4w6</LM>
 </w.rf>
 <form>víc</form>
-<tag lemma="hodně-2" src="auto" selected="1">Dg-------2A---1</tag>
+<tag>
+<AM lemma="hodně-2" src="auto">Dg-------2A---1</AM>
+<AM lemma="více_^(více_+_2._p.,_více_peněz)" src="manual" selected="1">Ca--1---------1</AM>
+</tag>
 </m>
 <m id="m-cmpr9413-049-p11s4w7">
 <src.rf>manual</src.rf>
@@ -2692,7 +2721,7 @@
 <form>třeba</form>
 <tag>
 <AM lemma="třeba-1" src="orig">ACNS------A----</AM>
-<AM lemma="třeba-2" src="auto" recommended="1">Db-------------</AM>
+<AM lemma="třeba-2" src="auto" recommended="1" selected="1">Db-------------</AM>
 <AM lemma="třeba-3" src="auto">TT-------------</AM>
 </tag>
 </m>
@@ -2827,7 +2856,7 @@
 <tag>
 <AM lemma="tedy" src="orig">Db-------------</AM>
 <AM lemma="tedy-1" src="auto">TT-------------</AM>
-<AM lemma="tedy-2" src="auto" recommended="1">J^-------------</AM>
+<AM lemma="tedy-2" src="auto" recommended="1" selected="1">J^-------------</AM>
 </tag>
 </m>
 <m id="m-cmpr9413-049-p11s5w12">
@@ -2966,7 +2995,10 @@
 <LM>w#w-cmpr9413-049-p12s1w4</LM>
 </w.rf>
 <form>jen</form>
-<tag lemma="jen-1" src="auto" selected="1">TT-------------</tag>
+<tag>
+<AM lemma="jen-1" src="auto">TT-------------</AM>
+<AM lemma="jen-4_^(pouze)" src="manual" selected="1">Db-------------</AM>
+</tag>
 </m>
 <m id="m-cmpr9413-049-p12s1w5">
 <src.rf>manual</src.rf>
@@ -3620,7 +3652,7 @@
 <form>totiž</form>
 <tag>
 <AM lemma="totiž" src="orig">Db-------------</AM>
-<AM lemma="totiž-1" src="auto">J^-------------</AM>
+<AM lemma="totiž-1" src="auto" selected="1">J^-------------</AM>
 <AM lemma="totiž-2" src="auto" recommended="1">TT-------------</AM>
 </tag>
 </m>
@@ -3928,7 +3960,10 @@
 <LM>w#w-cmpr9413-049-p14s4w5</LM>
 </w.rf>
 <form>SRN</form>
-<tag lemma="SRN_:B_;G" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="SRN_:B_;G" src="orig">NNFXX-----A---8</AM>
+<AM lemma="SRN_:B_;G_^(^Spolková_republika_Německo)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-cmpr9413-049-p14s4w6">
 <src.rf>manual</src.rf>
@@ -3978,7 +4013,10 @@
 <LM>w#w-cmpr9413-049-p14s5w2</LM>
 </w.rf>
 <form>ČR</form>
-<tag lemma="ČR-1_:B_;G_^(Česká_republika)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-cmpr9413-049-p14s5w3">
 <src.rf>manual</src.rf>
@@ -4284,7 +4322,10 @@
 <LM>w#w-cmpr9413-049-p14s6w6</LM>
 </w.rf>
 <form>jen</form>
-<tag lemma="jen-1" src="auto" selected="1">TT-------------</tag>
+<tag>
+<AM lemma="jen-1" src="auto">TT-------------</AM>
+<AM lemma="jen-4_^(pouze)" src="manual" selected="1">Db-------------</AM>
+</tag>
 </m>
 <m id="m-cmpr9413-049-p14s6w7">
 <src.rf>manual</src.rf>
@@ -4318,7 +4359,10 @@
 <LM>w#w-cmpr9413-049-p15s1w1</LM>
 </w.rf>
 <form>TTI</form>
-<tag lemma="TTI_:B_;K" src="orig" selected="1">AAXXX----1A---8</tag>
+<tag>
+<AM lemma="TTI_:B_;K" src="orig">AAXXX----1A---8</AM>
+<AM lemma="TTI-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-cmpr9413-049-p15s1w2">
 <src.rf>manual</src.rf>
@@ -4326,7 +4370,10 @@
 <LM>w#w-cmpr9413-049-p15s1w2</LM>
 </w.rf>
 <form>Therm</form>
-<tag lemma="Therm_;K_,t" src="auto" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="Therm_;K_,t" src="auto">NNIS1-----A----</AM>
+<AM lemma="Therm_;K" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-cmpr9413-049-p15s1w3">
 <src.rf>manual</src.rf>
@@ -4630,7 +4677,10 @@
 <LM>w#w-cmpr9413-049-p16s1w2</LM>
 </w.rf>
 <form>TTI</form>
-<tag lemma="TTI_:B_;K" src="orig" selected="1">AAXXX----1A---8</tag>
+<tag>
+<AM lemma="TTI_:B_;K" src="orig">AAXXX----1A---8</AM>
+<AM lemma="TTI-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-cmpr9413-049-p16s1w3">
 <src.rf>manual</src.rf>
@@ -4644,6 +4694,7 @@
 <AM lemma="Therm_;K_,t" src="auto">NNIS4-----A----</AM>
 <AM lemma="therm_,t" src="auto">NNIS1-----A----</AM>
 <AM lemma="therm_,t" src="auto">NNIS4-----A----</AM>
+<AM lemma="Therm_;K" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9413-049-p16s1w4">
@@ -4711,7 +4762,7 @@
 <tag>
 <AM lemma="brzký" src="orig">AAFP4----2A----</AM>
 <AM lemma="dřívější" src="auto">AAFP1----2A----</AM>
-<AM lemma="dřívější" src="auto" recommended="1">AAFP4----2A----</AM>
+<AM lemma="dřívější" src="auto" recommended="1" selected="1">AAFP4----2A----</AM>
 <AM lemma="dřívější" src="auto">AAFP5----2A----</AM>
 <AM lemma="dřívější" src="auto">AAFS1----2A----</AM>
 <AM lemma="dřívější" src="auto">AAFS2----2A----</AM>
@@ -5265,7 +5316,10 @@
 <LM>w#w-cmpr9413-049-p17s1w1</LM>
 </w.rf>
 <form>TTI</form>
-<tag lemma="TTI_:B_;K" src="orig" selected="1">AAXXX----1A---8</tag>
+<tag>
+<AM lemma="TTI_:B_;K" src="orig">AAXXX----1A---8</AM>
+<AM lemma="TTI-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-cmpr9413-049-p17s1w2">
 <src.rf>manual</src.rf>
@@ -5273,7 +5327,10 @@
 <LM>w#w-cmpr9413-049-p17s1w2</LM>
 </w.rf>
 <form>Therm</form>
-<tag lemma="Therm_;K_,t" src="auto" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="Therm_;K_,t" src="auto">NNIS1-----A----</AM>
+<AM lemma="Therm_;K" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-cmpr9413-049-p17s1w3">
 <src.rf>manual</src.rf>
@@ -5379,7 +5436,10 @@
 <LM>w#w-cmpr9413-049-p17s2w3</LM>
 </w.rf>
 <form>sice</form>
-<tag lemma="sice-2" src="auto" selected="1">Db-------------</tag>
+<tag>
+<AM lemma="sice-2" src="auto">Db-------------</AM>
+<AM lemma="sice-1_^(spojka;_připouští_se_určitá_fakta)" src="manual" selected="1">J^-------------</AM>
+</tag>
 </m>
 <m id="m-cmpr9413-049-p17s2w4">
 <src.rf>manual</src.rf>
@@ -5501,7 +5561,10 @@
 <LM>w#w-cmpr9413-049-p17s3w1</LM>
 </w.rf>
 <form>TTI</form>
-<tag lemma="TTI_:B_;K" src="orig" selected="1">AAXXX----1A---8</tag>
+<tag>
+<AM lemma="TTI_:B_;K" src="orig">AAXXX----1A---8</AM>
+<AM lemma="TTI-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-cmpr9413-049-p17s3w2">
 <src.rf>manual</src.rf>
@@ -5509,7 +5572,10 @@
 <LM>w#w-cmpr9413-049-p17s3w2</LM>
 </w.rf>
 <form>Therm</form>
-<tag lemma="Therm_;K_,t" src="auto" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="Therm_;K_,t" src="auto">NNIS1-----A----</AM>
+<AM lemma="Therm_;K" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-cmpr9413-049-p17s3w3">
 <src.rf>manual</src.rf>
@@ -5699,7 +5765,10 @@
 <LM>w#w-cmpr9413-049-p20s1w3</LM>
 </w.rf>
 <form>obr</form>
-<tag lemma="obrázek_:B" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="obrázek_:B" src="orig">NNIXX-----A---8</AM>
+<AM lemma="obrázek" src="manual" selected="1">NNIXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-cmpr9413-049-p20s1w4">
 <src.rf>manual</src.rf>
@@ -5831,7 +5900,10 @@
 <LM>w#w-cmpr9413-049-p21s1Bw8</LM>
 </w.rf>
 <form>TTI</form>
-<tag lemma="TTI_:B_;K" src="orig" selected="1">AAXXX----1A---8</tag>
+<tag>
+<AM lemma="TTI_:B_;K" src="orig">AAXXX----1A---8</AM>
+<AM lemma="TTI-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-cmpr9413-049-p21s1Bw9">
 <src.rf>manual</src.rf>
@@ -5839,7 +5911,10 @@
 <LM>w#w-cmpr9413-049-p21s1Bw9</LM>
 </w.rf>
 <form>Therm</form>
-<tag lemma="Therm_;K_,t" src="auto" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="Therm_;K_,t" src="auto">NNIS1-----A----</AM>
+<AM lemma="Therm_;K" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-cmpr9413-049-p21s1Bw10">
 <src.rf>manual</src.rf>

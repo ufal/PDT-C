@@ -117,7 +117,7 @@
 <form>Čunova</form>
 <tag>
 <AM lemma="Čunov_;G" src="orig">NNIS2-----A----</AM>
-<AM lemma="Čunovo_;G" src="auto" recommended="1">NNNS2-----A----</AM>
+<AM lemma="Čunovo_;G" src="auto" recommended="1" selected="1">NNNS2-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92252-007-p1s1w14">
@@ -206,7 +206,10 @@
 <LM>w#w-lnd92252-007-p1s1w24</LM>
 </w.rf>
 <form>přeje</form>
-<tag lemma="přát" src="auto" selected="1">VB-S---3P-AA---</tag>
+<tag>
+<AM lemma="přát" src="auto">VB-S---3P-AA---</AM>
+<AM lemma="přát_:T" src="manual" selected="1">VB-S---3P-AA---</AM>
+</tag>
 </m>
 <m id="m-lnd92252-007-p1s1w25">
 <src.rf>manual</src.rf>
@@ -222,7 +225,11 @@
 <LM>w#w-lnd92252-007-p1s1w26</LM>
 </w.rf>
 <form>B</form>
-<tag lemma="B-0_:B_;Y" src="orig" selected="1">NNMXX-----A---8</tag>
+<tag>
+<AM lemma="B-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
+<AM lemma="B-88_:B" src="manual">NNXXX-----A---8</AM>
+<AM lemma="B-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92252-007-p1s1w27">
 <src.rf>manual</src.rf>

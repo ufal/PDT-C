@@ -51,7 +51,10 @@
 <LM>w#w-mf920922-138-p1s1w5</LM>
 </w.rf>
 <form>zajetí</form>
-<tag lemma="zajetí_^(např._autem)_(*3mout)" src="auto" selected="1">NNNS6-----A----</tag>
+<tag>
+<AM lemma="zajetí_^(např._autem)_(*3mout)" src="auto">NNNS6-----A----</AM>
+<AM lemma="zajetí_^(zajmout)_(*3mout)" src="manual" selected="1">NNNS6-----A----</AM>
+</tag>
 </m>
 </s>
 <s id="m-mf920922-138-p1s1B">
@@ -699,7 +702,10 @@
 <LM>w#w-mf920922-138-p2s3w30</LM>
 </w.rf>
 <form>zajetí</form>
-<tag lemma="zajetí_^(např._autem)_(*3mout)" src="auto" selected="1">NNNS2-----A----</tag>
+<tag>
+<AM lemma="zajetí_^(např._autem)_(*3mout)" src="auto">NNNS2-----A----</AM>
+<AM lemma="zajetí_^(zajmout)_(*3mout)" src="manual" selected="1">NNNS2-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920922-138-p2s3w31">
 <src.rf>manual</src.rf>

@@ -69,7 +69,10 @@
 <LM>w#w-mf920901-028-p2s1w3</LM>
 </w.rf>
 <form>Galérii</form>
-<tag lemma="galérie" src="orig" selected="1">NNFS6-----A----</tag>
+<tag>
+<AM lemma="galérie" src="orig">NNFS6-----A----</AM>
+<AM lemma="galérie_,s_^(^DD**galerie)" src="manual" selected="1">NNFS6-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920901-028-p2s1w4">
 <src.rf>manual</src.rf>
@@ -511,7 +514,11 @@
 <LM>w#w-mf920901-028-p2s2w24</LM>
 </w.rf>
 <form>jenom</form>
-<tag lemma="jenom-1" src="auto" selected="1">TT-------------</tag>
+<tag>
+<AM lemma="jenom-1" src="auto">TT-------------</AM>
+<AM lemma="	jenom-2_^(pouze)" src="manual">Db-------------</AM>
+<AM lemma="jenom-2_^(pouze)" src="manual" selected="1">Db-------------</AM>
+</tag>
 </m>
 <m id="m-mf920901-028-p2s2w25">
 <src.rf>manual</src.rf>
@@ -1123,7 +1130,10 @@
 <LM>w#w-mf920901-028-p3s2w48</LM>
 </w.rf>
 <form>sympozia</form>
-<tag lemma="sympózium" src="orig" selected="1">NNNS2-----A----</tag>
+<tag>
+<AM lemma="sympózium" src="orig">NNNS2-----A----</AM>
+<AM lemma="sympozium_,s_^(^DD**sympózium)" src="manual" selected="1">NNNS2-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920901-028-p3s2w49">
 <src.rf>manual</src.rf>
@@ -1221,7 +1231,10 @@
 <LM>w#w-mf920901-028-p4s1w7</LM>
 </w.rf>
 <form>galérii</form>
-<tag lemma="galérie" src="orig" selected="1">NNFS6-----A----</tag>
+<tag>
+<AM lemma="galérie" src="orig">NNFS6-----A----</AM>
+<AM lemma="galérie_,s_^(^DD**galerie)" src="manual" selected="1">NNFS6-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920901-028-p4s1w8">
 <src.rf>manual</src.rf>

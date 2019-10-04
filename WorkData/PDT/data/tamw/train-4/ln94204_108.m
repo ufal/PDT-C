@@ -37,7 +37,10 @@
 <LM>w#w-ln94204-108-p2s1w2</LM>
 </w.rf>
 <form>ČR</form>
-<tag lemma="ČR-1_:B_;G_^(Česká_republika)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94204-108-p2s1w3">
 <src.rf>manual</src.rf>
@@ -57,7 +60,7 @@
 <AM lemma="nohejbal" src="orig">NNIS6-----A----</AM>
 <AM lemma="nohejbal" src="auto">NNIS2-----A----</AM>
 <AM lemma="nohejbal" src="auto">NNIS3-----A----</AM>
-<AM lemma="nohejbal" src="auto" recommended="1">NNIS6-----A---1</AM>
+<AM lemma="nohejbal" src="auto" recommended="1" selected="1">NNIS6-----A---1</AM>
 </tag>
 </m>
 <m id="m-ln94204-108-p2s1w5">
@@ -82,7 +85,10 @@
 <LM>w#w-ln94204-108-p2s1w7</LM>
 </w.rf>
 <form>stal</form>
-<tag lemma="stát-2_^(něco_se_přihodilo)" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag>
+<AM lemma="stát-2_^(něco_se_přihodilo)" src="orig">VpYS---XR-AA---</AM>
+<AM lemma="stát-2_:W_^(něco_se_přihodilo)" src="manual" selected="1">VpYS---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-ln94204-108-p2s1w8">
 <src.rf>manual</src.rf>
@@ -188,7 +194,10 @@
 <LM>w#w-ln94204-108-p3s1w9</LM>
 </w.rf>
 <form>vyhrál</form>
-<tag lemma="vyhrát" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag>
+<AM lemma="vyhrát" src="orig">VpYS---XR-AA---</AM>
+<AM lemma="vyhrát_:W" src="manual" selected="1">VpYS---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-ln94204-108-p3s1w10">
 <src.rf>manual</src.rf>
@@ -244,7 +253,10 @@
 <LM>w#w-ln94204-108-p3s1w16</LM>
 </w.rf>
 <form>vede</form>
-<tag lemma="vést" src="auto" selected="1">VB-S---3P-AA---</tag>
+<tag>
+<AM lemma="vést" src="auto">VB-S---3P-AA---</AM>
+<AM lemma="vést_:T" src="manual" selected="1">VB-S---3P-AA---</AM>
+</tag>
 </m>
 <m id="m-ln94204-108-p3s1w17">
 <src.rf>manual</src.rf>

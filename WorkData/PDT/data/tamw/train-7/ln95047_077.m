@@ -167,7 +167,10 @@
 <LM>w#w-ln95047-077-p2s1Bw12</LM>
 </w.rf>
 <form>OSN</form>
-<tag lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95047-077-p2s1Bw13">
 <src.rf>manual</src.rf>
@@ -237,7 +240,7 @@
 <AM lemma="jakýkoli" src="auto">PZFP4----------</AM>
 <AM lemma="jakýkoli" src="auto">PZFP5----------</AM>
 <AM lemma="jakýkoli" src="auto">PZFS2----------</AM>
-<AM lemma="jakýkoli" src="auto" recommended="1">PZFS3----------</AM>
+<AM lemma="jakýkoli" src="auto" recommended="1" selected="1">PZFS3----------</AM>
 <AM lemma="jakýkoli" src="auto">PZFS6----------</AM>
 <AM lemma="jakýkoli" src="auto">PZIP1----------</AM>
 <AM lemma="jakýkoli" src="auto">PZIP5----------</AM>
@@ -327,7 +330,10 @@
 <LM>w#w-ln95047-077-p2s2w6</LM>
 </w.rf>
 <form>Anthony</form>
-<tag lemma="Anthony_;Y_,t" src="auto" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Anthony_;Y_,t" src="auto">NNMS1-----A----</AM>
+<AM lemma="Anthony_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95047-077-p2s2w7">
 <src.rf>manual</src.rf>
@@ -336,7 +342,7 @@
 </w.rf>
 <form>Zinni</form>
 <tag>
-<AM lemma="Zinni_;S" src="orig">NNMS1-----A----</AM>
+<AM lemma="Zinni_;S" src="orig" selected="1">NNMS1-----A----</AM>
 <AM lemma="Zinn_;S" src="auto" recommended="1">NNMP1-----A---1</AM>
 <AM lemma="Zinn_;S" src="auto">NNMP5-----A---1</AM>
 </tag>
@@ -363,7 +369,10 @@
 <LM>w#w-ln95047-077-p2s2w10</LM>
 </w.rf>
 <form>velí</form>
-<tag lemma="velet" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag>
+<AM lemma="velet" src="orig">VB-S---3P-AA---</AM>
+<AM lemma="velet_:T" src="manual" selected="1">VB-S---3P-AA---</AM>
+</tag>
 </m>
 <m id="m-ln95047-077-p2s2w11">
 <src.rf>manual</src.rf>
@@ -689,7 +698,7 @@
 </w.rf>
 <form>Zinni</form>
 <tag>
-<AM lemma="Zinni_;S" src="orig">NNMS1-----A----</AM>
+<AM lemma="Zinni_;S" src="orig" selected="1">NNMS1-----A----</AM>
 <AM lemma="Zinn_;S" src="auto" recommended="1">NNMP1-----A---1</AM>
 <AM lemma="Zinn_;S" src="auto">NNMP5-----A---1</AM>
 </tag>
@@ -708,7 +717,10 @@
 <LM>w#w-ln95047-077-p2s4w3</LM>
 </w.rf>
 <form>uvedl</form>
-<tag lemma="uvést" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag>
+<AM lemma="uvést" src="orig">VpYS---XR-AA---</AM>
+<AM lemma="uvést_:W" src="manual" selected="1">VpYS---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-ln95047-077-p2s4w4">
 <src.rf>manual</src.rf>

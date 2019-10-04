@@ -311,7 +311,10 @@
 <LM>w#w-mf930702-110-p2s2w5</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-2" src="auto" selected="1">Dg-------2A----</tag>
+<tag>
+<AM lemma="hodně-2" src="auto">Dg-------2A----</AM>
+<AM lemma="hodně-3" src="manual" selected="1">Dg-------2A----</AM>
+</tag>
 </m>
 <m id="m-mf930702-110-p2s2w6">
 <src.rf>manual</src.rf>
@@ -755,7 +758,10 @@
 <LM>w#w-mf930702-110-p2s4w26</LM>
 </w.rf>
 <form>FUNCINPEC</form>
-<tag lemma="FUNCINPEC_:B_;K" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="FUNCINPEC_:B_;K" src="orig">NNFXX-----A---8</AM>
+<AM lemma="FUNCINPEC-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-mf930702-110-p2s4w27">
 <src.rf>manual</src.rf>
@@ -805,7 +811,10 @@
 <LM>w#w-mf930702-110-p2s5w1</LM>
 </w.rf>
 <form>FUNCINPEC</form>
-<tag lemma="FUNCINPEC_:B_;K" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="FUNCINPEC_:B_;K" src="orig">NNFXX-----A---8</AM>
+<AM lemma="FUNCINPEC-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-mf930702-110-p2s5w2">
 <src.rf>manual</src.rf>
@@ -1005,7 +1014,10 @@
 <LM>w#w-mf930702-110-p2s5w26</LM>
 </w.rf>
 <form>Hun</form>
-<tag lemma="Hun_;Y" src="auto" selected="1">NNMXX-----A----</tag>
+<tag>
+<AM lemma="Hun_;Y" src="auto">NNMXX-----A----</AM>
+<AM lemma="Hun_;E_;Y" src="manual" selected="1">NNMXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930702-110-p2s5w27">
 <src.rf>manual</src.rf>
@@ -1047,7 +1059,10 @@
 <LM>w#w-mf930702-110-p2s6w1</LM>
 </w.rf>
 <form>Hun</form>
-<tag lemma="Hun_;E" src="auto" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Hun_;E" src="auto">NNMS1-----A----</AM>
+<AM lemma="Hun_;E_;Y" src="manual" selected="1">NNMXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930702-110-p2s6w2">
 <src.rf>manual</src.rf>

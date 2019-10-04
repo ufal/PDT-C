@@ -201,7 +201,10 @@
 <LM>w#w-ln95049-051-p2s2w8</LM>
 </w.rf>
 <form>OH</form>
-<tag lemma="OH-2_:B_;w_^(Olympijské_hry)" src="orig" selected="1">NNFPX-----A---8</tag>
+<tag>
+<AM lemma="OH-2_:B_;w_^(Olympijské_hry)" src="orig">NNFPX-----A---8</AM>
+<AM lemma="OH-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln95049-051-p2s2w9">
 <src.rf>manual</src.rf>
@@ -474,7 +477,7 @@
 <AM lemma="řídící_^(*3it)" src="auto">AGFS5-----A----</AM>
 <AM lemma="řídící_^(*3it)" src="auto">AGFS6-----A----</AM>
 <AM lemma="řídící_^(*3it)" src="auto">AGFS7-----A----</AM>
-<AM lemma="řídící_^(*3it)" src="auto" recommended="1">AGIP1-----A----</AM>
+<AM lemma="řídící_^(*3it)" src="auto" recommended="1" selected="1">AGIP1-----A----</AM>
 <AM lemma="řídící_^(*3it)" src="auto">AGIP4-----A----</AM>
 <AM lemma="řídící_^(*3it)" src="auto">AGIP5-----A----</AM>
 <AM lemma="řídící_^(*3it)" src="auto">AGIS1-----A----</AM>

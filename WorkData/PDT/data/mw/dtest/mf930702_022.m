@@ -117,7 +117,10 @@
 <LM>w#w-mf930702-022-p2s1w7</LM>
 </w.rf>
 <form>Bundesbank</form>
-<tag lemma="Bundesbanka" src="orig" selected="1">NNFP2-----A----</tag>
+<tag>
+<AM lemma="Bundesbanka" src="orig">NNFP2-----A----</AM>
+<AM lemma="Bundesbank_;K" src="manual" selected="1">NNFS1-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930702-022-p2s1w8">
 <src.rf>manual</src.rf>
@@ -735,7 +738,10 @@
 <LM>w#w-mf930702-022-p3s1w21</LM>
 </w.rf>
 <form>Bundesbank</form>
-<tag lemma="Bundesbanka" src="orig" selected="1">NNFP2-----A----</tag>
+<tag>
+<AM lemma="Bundesbanka" src="orig">NNFP2-----A----</AM>
+<AM lemma="Bundesbank_;K" src="manual" selected="1">NNFS1-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930702-022-p3s1w22">
 <src.rf>manual</src.rf>
@@ -1126,7 +1132,10 @@
 <LM>w#w-mf930702-022-p4s1w21</LM>
 </w.rf>
 <form>vést</form>
-<tag lemma="vést" src="auto" selected="1">Vf--------A----</tag>
+<tag>
+<AM lemma="vést" src="auto">Vf--------A----</AM>
+<AM lemma="vést_:T" src="manual" selected="1">Vf--------A----</AM>
+</tag>
 </m>
 <m id="m-mf930702-022-p4s1w22">
 <src.rf>manual</src.rf>

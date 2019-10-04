@@ -19,7 +19,10 @@
 <LM>w#w-ln94211-13-p1s1w1</LM>
 </w.rf>
 <form>Fatra</form>
-<tag lemma="Fatra_;Y" src="auto" selected="1">NNFS1-----A----</tag>
+<tag>
+<AM lemma="Fatra_;Y" src="auto">NNFS1-----A----</AM>
+<AM lemma="Fatra-2_;K" src="manual" selected="1">NNFS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94211-13-p1s1w2">
 <src.rf>manual</src.rf>
@@ -83,7 +86,10 @@
 <LM>w#w-ln94211-13-p1s1w9</LM>
 </w.rf>
 <form>Brass</form>
-<tag lemma="Brass_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Brass_;S" src="orig">NNMS1-----A----</AM>
+<AM lemma="Brass-2_;K" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 </s>
 <s id="m-ln94211-13-p2s1A">
@@ -352,7 +358,10 @@
 <LM>w#w-ln94211-13-p2s1Bw31</LM>
 </w.rf>
 <form>Fatra</form>
-<tag lemma="Fatra_;Y" src="auto" selected="1">NNFS1-----A----</tag>
+<tag>
+<AM lemma="Fatra_;Y" src="auto">NNFS1-----A----</AM>
+<AM lemma="Fatra-2_;K" src="manual" selected="1">NNFS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94211-13-p2s1Bw32">
 <src.rf>manual</src.rf>
@@ -392,7 +401,10 @@
 <LM>w#w-ln94211-13-p2s1Bw36</LM>
 </w.rf>
 <form>Braas</form>
-<tag lemma="Braas_;K_,t" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="Braas_;K_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="Braas-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94211-13-p2s1Bw37">
 <src.rf>manual</src.rf>
@@ -400,7 +412,10 @@
 <LM>w#w-ln94211-13-p2s1Bw37</LM>
 </w.rf>
 <form>Flachdachsysteme</form>
-<tag lemma="Flachdachsysteme_;K_,t" src="orig" selected="1">NNIPX-----A----</tag>
+<tag>
+<AM lemma="Flachdachsysteme_;K_,t" src="orig">NNIPX-----A----</AM>
+<AM lemma="Flachdachsysteme-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94211-13-p2s1Bw38">
 <src.rf>manual</src.rf>
@@ -408,7 +423,10 @@
 <LM>w#w-ln94211-13-p2s1Bw38</LM>
 </w.rf>
 <form>GmbH</form>
-<tag lemma="Gmbh_:B_,t_,x_^(Gesellschaft_mit_beschränke_Haftung)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="Gmbh_:B_,t_,x_^(Gesellschaft_mit_beschränke_Haftung)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="GmbH-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94211-13-p2s1Bw39">
 <src.rf>manual</src.rf>
@@ -506,7 +524,10 @@
 <LM>w#w-ln94211-13-p3s1w7</LM>
 </w.rf>
 <form>Fatry</form>
-<tag lemma="Fatra_;Y" src="auto" selected="1">NNFS2-----A----</tag>
+<tag>
+<AM lemma="Fatra_;Y" src="auto">NNFS2-----A----</AM>
+<AM lemma="Fatra-2_;K" src="manual" selected="1">NNFS2-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94211-13-p3s1w8">
 <src.rf>manual</src.rf>
@@ -523,7 +544,7 @@
 </w.rf>
 <form>Surma</form>
 <tag>
-<AM lemma="Surma_;S" src="orig">NNMS1-----A----</AM>
+<AM lemma="Surma_;S" src="orig" selected="1">NNMS1-----A----</AM>
 <AM lemma="surma" src="auto" recommended="1">NNFS1-----A----</AM>
 </tag>
 </m>
@@ -908,7 +929,7 @@
 <form>Město</form>
 <tag>
 <AM lemma="Město_;G" src="orig">NNNS1-----A----</AM>
-<AM lemma="město" src="auto" recommended="1">NNNS1-----A----</AM>
+<AM lemma="město" src="auto" recommended="1" selected="1">NNNS1-----A----</AM>
 <AM lemma="město" src="auto">NNNS4-----A----</AM>
 <AM lemma="město" src="auto">NNNS5-----A----</AM>
 </tag>
@@ -1010,7 +1031,7 @@
 </w.rf>
 <form>Surmy</form>
 <tag>
-<AM lemma="Surma_;S" src="orig">NNMS2-----A----</AM>
+<AM lemma="Surma_;S" src="orig" selected="1">NNMS2-----A----</AM>
 <AM lemma="surma" src="auto">NNFP1-----A----</AM>
 <AM lemma="surma" src="auto">NNFP4-----A----</AM>
 <AM lemma="surma" src="auto">NNFP5-----A----</AM>
@@ -1071,7 +1092,10 @@
 <LM>w#w-ln94211-13-p4s1w13</LM>
 </w.rf>
 <form>Fatra</form>
-<tag lemma="Fatra_;Y" src="auto" selected="1">NNFS1-----A----</tag>
+<tag>
+<AM lemma="Fatra_;Y" src="auto">NNFS1-----A----</AM>
+<AM lemma="Fatra-2_;K" src="manual" selected="1">NNFS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94211-13-p4s1w14">
 <src.rf>manual</src.rf>
@@ -1387,7 +1411,10 @@
 <LM>w#w-ln94211-13-p4s3w22</LM>
 </w.rf>
 <form>Fatry</form>
-<tag lemma="Fatra_;Y" src="auto" selected="1">NNFS2-----A----</tag>
+<tag>
+<AM lemma="Fatra_;Y" src="auto">NNFS2-----A----</AM>
+<AM lemma="Fatra-2_;K" src="manual" selected="1">NNFS2-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94211-13-p4s3w23">
 <src.rf>manual</src.rf>
@@ -1405,7 +1432,10 @@
 <LM>w#w-ln94211-13-p5s1w1</LM>
 </w.rf>
 <form>Fatra</form>
-<tag lemma="Fatra_;Y" src="auto" selected="1">NNFS1-----A----</tag>
+<tag>
+<AM lemma="Fatra_;Y" src="auto">NNFS1-----A----</AM>
+<AM lemma="Fatra-2_;K" src="manual" selected="1">NNFS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94211-13-p5s1w2">
 <src.rf>manual</src.rf>

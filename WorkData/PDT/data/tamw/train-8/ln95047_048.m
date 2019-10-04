@@ -85,7 +85,10 @@
 <LM>w#w-ln95047-048-p1s1w9</LM>
 </w.rf>
 <form>Job</form>
-<tag lemma="Job_;Y" src="orig" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Job_;Y" src="orig">NNMS1-----A----</AM>
+<AM lemma="Job-2_;K" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95047-048-p1s1w10">
 <src.rf>manual</src.rf>
@@ -143,7 +146,10 @@
 <LM>w#w-ln95047-048-p2s1w5</LM>
 </w.rf>
 <form>Job</form>
-<tag lemma="Job_;Y" src="orig" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Job_;Y" src="orig">NNMS1-----A----</AM>
+<AM lemma="Job-2_;K" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95047-048-p2s1w6">
 <src.rf>manual</src.rf>
@@ -457,7 +463,10 @@
 <LM>w#w-ln95047-048-p2s2w22</LM>
 </w.rf>
 <form>sv</form>
-<tag lemma="svatý-1_:B" src="auto" selected="1">AAXXX----1A---8</tag>
+<tag>
+<AM lemma="svatý-1_:B" src="auto">AAXXX----1A---8</AM>
+<AM lemma="svatý-1" src="manual" selected="1">AAXXX----1A---8</AM>
+</tag>
 </m>
 <m id="m-ln95047-048-p2s2w23">
 <src.rf>manual</src.rf>
@@ -505,7 +514,10 @@
 <LM>w#w-ln95047-048-p2s2w28</LM>
 </w.rf>
 <form>sv</form>
-<tag lemma="svatý-1_:B" src="auto" selected="1">AAXXX----1A---8</tag>
+<tag>
+<AM lemma="svatý-1_:B" src="auto">AAXXX----1A---8</AM>
+<AM lemma="svatý-1" src="manual" selected="1">AAXXX----1A---8</AM>
+</tag>
 </m>
 <m id="m-ln95047-048-p2s2w29">
 <src.rf>manual</src.rf>
@@ -1055,7 +1067,10 @@
 <LM>w#w-ln95047-048-p3s2w21</LM>
 </w.rf>
 <form>Archi</form>
-<tag lemma="Archi_;K_,t" src="orig" selected="1">AAMP1----1A----</tag>
+<tag>
+<AM lemma="Archi_;K_,t" src="orig">AAMP1----1A----</AM>
+<AM lemma="Archi-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln95047-048-p3s2w22">
 <src.rf>manual</src.rf>
@@ -1063,7 +1078,10 @@
 <LM>w#w-ln95047-048-p3s2w22</LM>
 </w.rf>
 <form>Boemi</form>
-<tag lemma="Boemi_;K_,t" src="orig" selected="1">NNMP1-----A----</tag>
+<tag>
+<AM lemma="Boemi_;K_,t" src="orig">NNMP1-----A----</AM>
+<AM lemma="Boemi-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln95047-048-p3s2w23">
 <src.rf>manual</src.rf>
@@ -1079,7 +1097,10 @@
 <LM>w#w-ln95047-048-p3s2w24</LM>
 </w.rf>
 <form>Virtuosi</form>
-<tag lemma="virtuos" src="orig" selected="1">NNMP1-----A---1</tag>
+<tag>
+<AM lemma="virtuos" src="orig">NNMP1-----A---1</AM>
+<AM lemma="Virtuosi-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln95047-048-p3s2w25">
 <src.rf>manual</src.rf>
@@ -1087,7 +1108,10 @@
 <LM>w#w-ln95047-048-p3s2w25</LM>
 </w.rf>
 <form>di</form>
-<tag lemma="di_;G_;S_;Y_,t" src="auto" selected="1">RR--X----------</tag>
+<tag>
+<AM lemma="di_;G_;S_;Y_,t" src="auto">RR--X----------</AM>
+<AM lemma="di-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln95047-048-p3s2w26">
 <src.rf>manual</src.rf>
@@ -1095,7 +1119,10 @@
 <LM>w#w-ln95047-048-p3s2w26</LM>
 </w.rf>
 <form>Praga</form>
-<tag lemma="Praga_;K" src="orig" selected="1">NNFS1-----A----</tag>
+<tag>
+<AM lemma="Praga_;K" src="orig">NNFS1-----A----</AM>
+<AM lemma="Praga-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln95047-048-p3s2w27">
 <src.rf>manual</src.rf>
@@ -1361,6 +1388,7 @@
 <AM lemma="cit" src="auto">NNIP4-----A----</AM>
 <AM lemma="cit" src="auto">NNIP5-----A----</AM>
 <AM lemma="cit" src="auto">NNIP7-----A----</AM>
+<AM lemma="City-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-ln95047-048-p3s4w13">
@@ -1369,7 +1397,10 @@
 <LM>w#w-ln95047-048-p3s4w13</LM>
 </w.rf>
 <form>of</form>
-<tag lemma="of-1_,t_^(obv._souč._anglických_názvů,_předl._2._p.)" src="orig" selected="1">RR--X----------</tag>
+<tag>
+<AM lemma="of-1_,t_^(obv._souč._anglických_názvů,_předl._2._p.)" src="orig">RR--X----------</AM>
+<AM lemma="of-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln95047-048-p3s4w14">
 <src.rf>manual</src.rf>
@@ -1380,6 +1411,7 @@
 <tag>
 <AM lemma="David-2_;Y_;m_,t" src="orig">NNMXX-----A----</AM>
 <AM lemma="David_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="David-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-ln95047-048-p3s4w15">

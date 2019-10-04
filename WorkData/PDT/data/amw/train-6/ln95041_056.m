@@ -210,6 +210,7 @@
 <tag>
 <AM lemma="USA_;G" src="orig">NNIPX-----A----</AM>
 <AM lemma="USA_:B_;K_,t_^(United_States_of_America)" src="auto" recommended="1">NNIPX-----A---8</AM>
+<AM lemma="USA_:B_;K_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-ln95041-056-p2s1Bw18">
@@ -290,7 +291,10 @@
 <LM>w#w-ln95041-056-p2s1Bw27</LM>
 </w.rf>
 <form>SACLANT</form>
-<tag lemma="SACLANT_:B" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="SACLANT_:B" src="orig">NNXXX-----A---8</AM>
+<AM lemma="SACLANT-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln95041-056-p2s1Bw28">
 <src.rf>manual</src.rf>
@@ -444,7 +448,10 @@
 <LM>w#w-ln95041-056-p2s2w12</LM>
 </w.rf>
 <form>SACLANT</form>
-<tag lemma="SACLANT_:B" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="SACLANT_:B" src="orig">NNXXX-----A---8</AM>
+<AM lemma="SACLANT-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln95041-056-p2s2w13">
 <src.rf>manual</src.rf>
@@ -553,6 +560,7 @@
 <tag>
 <AM lemma="USA_;G" src="orig">NNIPX-----A----</AM>
 <AM lemma="USA_:B_;K_,t_^(United_States_of_America)" src="auto" recommended="1">NNIPX-----A---8</AM>
+<AM lemma="USA_:B_;K_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-ln95041-056-p2s3w5">
@@ -561,7 +569,10 @@
 <LM>w#w-ln95041-056-p2s3w5</LM>
 </w.rf>
 <form>Michael</form>
-<tag lemma="Michael_;S_;Y" src="auto" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Michael_;S_;Y" src="auto">NNMS1-----A----</AM>
+<AM lemma="Michael_;Y_;S" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95041-056-p2s3w6">
 <src.rf>manual</src.rf>
@@ -649,7 +660,10 @@
 <LM>w#w-ln95041-056-p2s3w16</LM>
 </w.rf>
 <form>SACLANT</form>
-<tag lemma="SACLANT_:B" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="SACLANT_:B" src="orig">NNXXX-----A---8</AM>
+<AM lemma="SACLANT-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln95041-056-p2s3w17">
 <src.rf>manual</src.rf>

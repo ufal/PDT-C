@@ -183,7 +183,10 @@
 <LM>w#w-mf920901-108-p2s2w9</LM>
 </w.rf>
 <form>ČSFR</form>
-<tag lemma="ČSFR-1_:B_;G_^(Čs._federativní_republika)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ČSFR-1_:B_;G_^(Čs._federativní_republika)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČSFR-1_:B_;G_^(Čs._federativní_republika)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920901-108-p2s2w10">
 <src.rf>manual</src.rf>
@@ -297,7 +300,10 @@
 <LM>w#w-mf920901-108-p2s3w9</LM>
 </w.rf>
 <form>Gebhard</form>
-<tag lemma="Gebhard_;Y_,t" src="auto" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Gebhard_;Y_,t" src="auto">NNMS1-----A----</AM>
+<AM lemma="Gebhard_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920901-108-p2s3w10">
 <src.rf>manual</src.rf>
@@ -701,7 +707,10 @@
 <LM>w#w-mf920901-108-p4s1w8</LM>
 </w.rf>
 <form>ČSFR</form>
-<tag lemma="ČSFR-1_:B_;G_^(Čs._federativní_republika)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ČSFR-1_:B_;G_^(Čs._federativní_republika)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČSFR-1_:B_;G_^(Čs._federativní_republika)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920901-108-p4s1w9">
 <src.rf>manual</src.rf>
@@ -741,7 +750,10 @@
 <LM>w#w-mf920901-108-p4s1w13</LM>
 </w.rf>
 <form>ES</form>
-<tag lemma="ES_:B_;K_^(Evropská_společenství)" src="orig" selected="1">NNNXX-----A---8</tag>
+<tag>
+<AM lemma="ES_:B_;K_^(Evropská_společenství)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="ES-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920901-108-p4s1w14">
 <src.rf>manual</src.rf>
@@ -961,7 +973,7 @@
 <form>dvoustrannou</form>
 <tag>
 <AM lemma="dvojstranný" src="orig">AAFS4----1A----</AM>
-<AM lemma="dvoustranný" src="auto" recommended="1">AAFS4----1A----</AM>
+<AM lemma="dvoustranný" src="auto" recommended="1" selected="1">AAFS4----1A----</AM>
 <AM lemma="dvoustranný" src="auto">AAFS7----1A----</AM>
 </tag>
 </m>

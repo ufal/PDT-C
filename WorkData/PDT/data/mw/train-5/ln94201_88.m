@@ -286,6 +286,7 @@
 <AM lemma="d-3_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
 <AM lemma="d-4_^(př._d'Artagnan,_stažený_tvar_fr._předl.)" src="auto">AAXXX----1A----</AM>
 <AM lemma="d-8_:B_^(ost._zkratka)" src="auto">XX------------8</AM>
+<AM lemma="D-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-ln94201-88-p2s2w7">
@@ -325,6 +326,7 @@
 <AM lemma="d-3_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
 <AM lemma="d-4_^(př._d'Artagnan,_stažený_tvar_fr._předl.)" src="auto">AAXXX----1A----</AM>
 <AM lemma="d-8_:B_^(ost._zkratka)" src="auto">XX------------8</AM>
+<AM lemma="D-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-ln94201-88-p2s2w10">
@@ -407,7 +409,10 @@
 <LM>w#w-ln94201-88-p3s1w4</LM>
 </w.rf>
 <form>van</form>
-<tag lemma="van-1_,a_^(vánek)" src="auto" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="van-1_,a_^(vánek)" src="auto">NNIS1-----A----</AM>
+<AM lemma="van-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94201-88-p3s1w5">
 <src.rf>manual</src.rf>
@@ -692,7 +697,7 @@
 <tag>
 <AM lemma="kterýkoliv" src="orig">PZZS2---------1</AM>
 <AM lemma="kterýkoli" src="auto">PZMS4----------</AM>
-<AM lemma="kterýkoli" src="auto" recommended="1">PZZS2----------</AM>
+<AM lemma="kterýkoli" src="auto" recommended="1" selected="1">PZZS2----------</AM>
 </tag>
 </m>
 <m id="m-ln94201-88-p3s2w19">
@@ -1001,7 +1006,10 @@
 <LM>w#w-ln94201-88-p3s4w6</LM>
 </w.rf>
 <form>jen</form>
-<tag lemma="jen-1" src="auto" selected="1">TT-------------</tag>
+<tag>
+<AM lemma="jen-1" src="auto">TT-------------</AM>
+<AM lemma="jen-4_^(pouze)" src="manual" selected="1">Db-------------</AM>
+</tag>
 </m>
 <m id="m-ln94201-88-p3s4w7">
 <src.rf>manual</src.rf>
@@ -1035,7 +1043,10 @@
 <LM>w#w-ln94201-88-p4s1w2</LM>
 </w.rf>
 <form>ÚAMK</form>
-<tag lemma="ÚAMK_:B_;K" src="auto" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="ÚAMK_:B_;K" src="auto">NNXXX-----A---8</AM>
+<AM lemma="ÚAMK-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln94201-88-p4s1w3">
 <src.rf>manual</src.rf>
@@ -1361,7 +1372,7 @@
 <form>nejen</form>
 <tag>
 <AM lemma="nejen" src="orig">TT-------------</AM>
-<AM lemma="nejen" src="auto" recommended="1">Db-------------</AM>
+<AM lemma="nejen" src="auto" recommended="1" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m-ln94201-88-p4s3w6">
@@ -1434,7 +1445,10 @@
 <LM>w#w-ln94201-88-p4s3w14</LM>
 </w.rf>
 <form>benzin</form>
-<tag lemma="benzín" src="orig" selected="1">NNIS4-----A----</tag>
+<tag>
+<AM lemma="benzín" src="orig">NNIS4-----A----</AM>
+<AM lemma="benzin_,s_^(^DD**benzín)" src="manual" selected="1">NNIS4-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94201-88-p4s3w15">
 <src.rf>manual</src.rf>

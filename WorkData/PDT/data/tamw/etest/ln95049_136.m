@@ -175,7 +175,10 @@
 <LM>w#w-ln95049-136-p2s1Bw12</LM>
 </w.rf>
 <form>Transit</form>
-<tag lemma="transit" src="orig" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="transit" src="orig">NNIS1-----A----</AM>
+<AM lemma="Transit-1_;R" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95049-136-p2s1Bw13">
 <src.rf>manual</src.rf>
@@ -380,7 +383,10 @@
 <LM>w#w-ln95049-136-p2s3w9</LM>
 </w.rf>
 <form>Ford</form>
-<tag lemma="Ford-2_;K_;R" src="auto" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="Ford-2_;K_;R" src="auto">NNIS1-----A----</AM>
+<AM lemma="Ford-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln95049-136-p2s3w10">
 <src.rf>manual</src.rf>
@@ -396,7 +402,10 @@
 <LM>w#w-ln95049-136-p2s3w11</LM>
 </w.rf>
 <form>Werke</form>
-<tag lemma="Werk_;K_,t" src="orig" selected="1">NNIPX-----A----</tag>
+<tag>
+<AM lemma="Werk_;K_,t" src="orig">NNIPX-----A----</AM>
+<AM lemma="Werke-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln95049-136-p2s3w12">
 <src.rf>manual</src.rf>
@@ -404,7 +413,10 @@
 <LM>w#w-ln95049-136-p2s3w12</LM>
 </w.rf>
 <form>AG</form>
-<tag lemma="AG-1_:B_;b_,t_^(označ._něm._akciové_spol.)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="AG-1_:B_;b_,t_^(označ._něm._akciové_spol.)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="AG-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95049-136-p2s3w13">
 <src.rf>manual</src.rf>
@@ -412,7 +424,10 @@
 <LM>w#w-ln95049-136-p2s3w13</LM>
 </w.rf>
 <form>Genk</form>
-<tag lemma="Genk_;G" src="orig" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="Genk_;G" src="orig">NNIS1-----A----</AM>
+<AM lemma="Genk-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln95049-136-p2s3w14">
 <src.rf>manual</src.rf>
@@ -428,7 +443,10 @@
 <LM>w#w-ln95049-136-p2s3w15</LM>
 </w.rf>
 <form>Saarlouis</form>
-<tag lemma="Saarlouis_;K_,t" src="orig" selected="1">NNIXX-----A----</tag>
+<tag>
+<AM lemma="Saarlouis_;K_,t" src="orig">NNIXX-----A----</AM>
+<AM lemma="Saarlouis_;K" src="manual" selected="1">NNIXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95049-136-p2s3w16">
 <src.rf>manual</src.rf>
@@ -512,6 +530,7 @@
 <AM lemma="mimo-1_:B" src="auto">RR--4---------8</AM>
 <AM lemma="minuta_:B" src="auto">NNFXX-----A---8</AM>
 <AM lemma="město_:B" src="auto">NNNXX-----A---8</AM>
+<AM lemma="metr" src="manual" selected="1">NNIXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-ln95049-136-p2s4w9">

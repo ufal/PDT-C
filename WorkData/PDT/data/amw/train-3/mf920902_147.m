@@ -189,7 +189,10 @@
 <LM>w#w-mf920902-147-p1s2w18</LM>
 </w.rf>
 <form>buši</form>
-<tag lemma="buš" src="orig" selected="1">NNFS6-----A----</tag>
+<tag>
+<AM lemma="buš" src="orig">NNFS6-----A----</AM>
+<AM lemma="buš" src="manual" selected="1">NNIS6-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920902-147-p1s2w19">
 <src.rf>manual</src.rf>

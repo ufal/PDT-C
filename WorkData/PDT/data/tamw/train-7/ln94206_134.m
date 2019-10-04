@@ -39,7 +39,7 @@
 <AM lemma="Bastard_;R" src="orig">NNMS4-----A----</AM>
 <AM lemma="Bastardo_;K" src="auto">NNNS2-----A----</AM>
 <AM lemma="bastard" src="auto">NNMS2-----A----</AM>
-<AM lemma="bastard" src="auto" recommended="1">NNMS4-----A----</AM>
+<AM lemma="bastard" src="auto" recommended="1" selected="1">NNMS4-----A----</AM>
 </tag>
 </m>
 </s>
@@ -66,7 +66,10 @@
 <LM>w#w-ln94206-134-p2s1Aw3</LM>
 </w.rf>
 <form>ber</form>
-<tag lemma="ber-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="ber-99_:B_;S" src="orig">NNXXX-----A---8</AM>
+<AM lemma="ber-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94206-134-p2s1Aw4">
 <src.rf>manual</src.rf>
@@ -401,6 +404,7 @@
 <AM lemma="Petro_;S" src="auto">NNMS2-----A----</AM>
 <AM lemma="Petro_;S" src="auto">NNMS4-----A----</AM>
 <AM lemma="petra-1_;R" src="auto">NNFS1-----A----</AM>
+<AM lemma="Petra-3_;K" src="manual" selected="1">NNFXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94206-134-p2s3w10">
@@ -603,7 +607,10 @@
 <LM>w#w-ln94206-134-p2s4w7</LM>
 </w.rf>
 <form>vydali</form>
-<tag lemma="vydat-3_:W_^(se,_př._na_cestu)" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag>
+<AM lemma="vydat-3_:W_^(se,_př._na_cestu)" src="orig">VpMP---XR-AA---</AM>
+<AM lemma="vydat_:W" src="manual" selected="1">VpMP---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-ln94206-134-p2s4w8">
 <src.rf>manual</src.rf>
@@ -653,7 +660,7 @@
 <form>Bastard</form>
 <tag>
 <AM lemma="Bastard_;R" src="orig">NNMS1-----A----</AM>
-<AM lemma="bastard" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="bastard" src="auto" recommended="1" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94206-134-p2s4w14">
@@ -843,6 +850,7 @@
 <AM lemma="Petro_;S" src="auto">NNMS2-----A----</AM>
 <AM lemma="Petro_;S" src="auto">NNMS4-----A----</AM>
 <AM lemma="petra-1_;R" src="auto">NNFS1-----A----</AM>
+<AM lemma="Petra-3_;K" src="manual" selected="1">NNFXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94206-134-p2s6w9">
@@ -917,7 +925,7 @@
 <form>Bastard</form>
 <tag>
 <AM lemma="Bastard_;R" src="orig">NNMS1-----A----</AM>
-<AM lemma="bastard" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="bastard" src="auto" recommended="1" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94206-134-p2s6w18">
@@ -974,7 +982,10 @@
 <LM>w#w-ln94206-134-p2s6w24</LM>
 </w.rf>
 <form>řekla</form>
-<tag lemma="říci" src="auto" selected="1">VpQW---XR-AA---</tag>
+<tag>
+<AM lemma="říci" src="auto">VpQW---XR-AA---</AM>
+<AM lemma="říci_:W" src="manual" selected="1">VpQW---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-ln94206-134-p2s6w25">
 <src.rf>manual</src.rf>

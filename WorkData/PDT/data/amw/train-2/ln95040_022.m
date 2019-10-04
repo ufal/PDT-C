@@ -87,7 +87,10 @@
 <LM>w#w-ln95040-022-p2s1Bw5</LM>
 </w.rf>
 <form>Zbygniew</form>
-<tag lemma="Zbygniew_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Zbygniew_;S" src="orig">NNMS1-----A----</AM>
+<AM lemma="Zbygniew_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95040-022-p2s1Bw6">
 <src.rf>manual</src.rf>
@@ -111,7 +114,10 @@
 <LM>w#w-ln95040-022-p2s1Bw8</LM>
 </w.rf>
 <form>stal</form>
-<tag lemma="stát-2_^(něco_se_přihodilo)" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag>
+<AM lemma="stát-2_^(něco_se_přihodilo)" src="orig">VpYS---XR-AA---</AM>
+<AM lemma="stát-2_^(stanu_staneš)" src="manual" selected="1">VpYS---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-ln95040-022-p2s1Bw9">
 <src.rf>manual</src.rf>
@@ -228,6 +234,8 @@
 <tag>
 <AM lemma="Go_;K_,t" src="orig">NNNXX-----A----</AM>
 <AM lemma="go_;y_^(stolní_desková_hra)" src="auto" recommended="1">NNNXX-----A----</AM>
+<AM lemma="go_,t" src="manual">NNXXX-----A----</AM>
+<AM lemma="Go-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-ln95040-022-p2s2w7">
@@ -236,7 +244,10 @@
 <LM>w#w-ln95040-022-p2s2w7</LM>
 </w.rf>
 <form>and</form>
-<tag lemma="and-1_,t_^(obv._souč._anglických_názvů,_&quot;a&quot;)" src="auto" selected="1">J^-------------</tag>
+<tag>
+<AM lemma="and-1_,t_^(obv._souč._anglických_názvů,_&quot;a&quot;)" src="auto">J^-------------</AM>
+<AM lemma="and-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln95040-022-p2s2w8">
 <src.rf>manual</src.rf>
@@ -244,7 +255,11 @@
 <LM>w#w-ln95040-022-p2s2w8</LM>
 </w.rf>
 <form>Goal</form>
-<tag lemma="Goal_;K_,t" src="orig" selected="1">NNIXX-----A----</tag>
+<tag>
+<AM lemma="Goal_;K_,t" src="orig">NNIXX-----A----</AM>
+<AM lemma="goal_,t" src="manual">NNXXX-----A----</AM>
+<AM lemma="Goal-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln95040-022-p2s2w9">
 <src.rf>manual</src.rf>
@@ -568,7 +583,7 @@
 <form>třeba</form>
 <tag>
 <AM lemma="třeba-1" src="orig">ACNS------A----</AM>
-<AM lemma="třeba-2" src="auto" recommended="1">Db-------------</AM>
+<AM lemma="třeba-2" src="auto" recommended="1" selected="1">Db-------------</AM>
 <AM lemma="třeba-3" src="auto">TT-------------</AM>
 </tag>
 </m>

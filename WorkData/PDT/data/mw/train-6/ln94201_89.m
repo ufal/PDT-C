@@ -43,7 +43,10 @@
 <LM>w#w-ln94201-89-p1s1w4</LM>
 </w.rf>
 <form>van</form>
-<tag lemma="van-1_,a_^(vánek)" src="auto" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="van-1_,a_^(vánek)" src="auto">NNIS1-----A----</AM>
+<AM lemma="van-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94201-89-p1s1w5">
 <src.rf>manual</src.rf>
@@ -213,7 +216,10 @@
 <LM>w#w-ln94201-89-p1s2w5</LM>
 </w.rf>
 <form>LN</form>
-<tag lemma="LN-1_:B_;R_^(Lidové_noviny,_deník)" src="orig" selected="1">NNFPX-----A---8</tag>
+<tag>
+<AM lemma="LN-1_:B_;R_^(Lidové_noviny,_deník)" src="orig">NNFPX-----A---8</AM>
+<AM lemma="LN-1_:B_;K_;R_^(Lidové_noviny,_deník)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 </s>
 </mdata>

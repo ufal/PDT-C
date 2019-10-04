@@ -303,7 +303,10 @@
 <LM>w#w-ln95040-118-p2s1Bw27</LM>
 </w.rf>
 <form>SEČ</form>
-<tag lemma="SEČ-1_:B_^(středoevropský_čas)" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="SEČ-1_:B_^(středoevropský_čas)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="SEČ-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln95040-118-p2s1Bw28">
 <src.rf>manual</src.rf>
@@ -961,7 +964,10 @@
 <LM>w#w-ln95040-118-p3s3w1</LM>
 </w.rf>
 <form>Více</form>
-<tag lemma="hodně-2" src="auto" selected="1">Dg-------2A----</tag>
+<tag>
+<AM lemma="hodně-2" src="auto">Dg-------2A----</AM>
+<AM lemma="hodně-3" src="manual" selected="1">Dg-------2A----</AM>
+</tag>
 </m>
 <m id="m-ln95040-118-p3s3w2">
 <src.rf>manual</src.rf>

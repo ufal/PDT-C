@@ -554,7 +554,10 @@
 <LM>w#w-ln94208-9-p1s4w26</LM>
 </w.rf>
 <form>diskusí</form>
-<tag lemma="diskuse" src="orig" selected="1">NNFS7-----A----</tag>
+<tag>
+<AM lemma="diskuse" src="orig">NNFS7-----A----</AM>
+<AM lemma="diskuse_,s_^(^DD**diskuze)" src="manual" selected="1">NNFS7-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94208-9-p1s4w27">
 <src.rf>manual</src.rf>
@@ -866,7 +869,7 @@
 <AM lemma="díky" src="orig">RR--3----------</AM>
 <AM lemma="dík-1" src="auto">NNIS1-----A----</AM>
 <AM lemma="dík-1" src="auto">NNIS4-----A----</AM>
-<AM lemma="dík-2" src="auto" recommended="1">RR--3----------</AM>
+<AM lemma="dík-2" src="auto" recommended="1" selected="1">RR--3----------</AM>
 </tag>
 </m>
 <m id="m-ln94208-9-p1s6w2">

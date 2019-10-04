@@ -55,7 +55,7 @@
 <form>Ačkoliv</form>
 <tag>
 <AM lemma="ačkoliv" src="orig">J,-------------</AM>
-<AM lemma="ačkoli" src="auto" recommended="1">J,------------1</AM>
+<AM lemma="ačkoli" src="auto" recommended="1" selected="1">J,------------1</AM>
 </tag>
 </m>
 <m id="m-vesm9301-039-p2s1w2">
@@ -104,7 +104,10 @@
 <LM>w#w-vesm9301-039-p2s1w7</LM>
 </w.rf>
 <form>spíše</form>
-<tag lemma="spíše" src="orig" selected="1">Dg-------2A---1</tag>
+<tag>
+<AM lemma="spíše" src="orig">Dg-------2A---1</AM>
+<AM lemma="spíš" src="manual" selected="1">TT------------1</AM>
+</tag>
 </m>
 <m id="m-vesm9301-039-p2s1w8">
 <src.rf>manual</src.rf>
@@ -240,7 +243,10 @@
 <LM>w#w-vesm9301-039-p2s1w24</LM>
 </w.rf>
 <form>Lancet</form>
-<tag lemma="lanceta" src="orig" selected="1">NNFP2-----A----</tag>
+<tag>
+<AM lemma="lanceta" src="orig">NNFP2-----A----</AM>
+<AM lemma="Lancet-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-vesm9301-039-p2s1w25">
 <src.rf>manual</src.rf>
@@ -484,7 +490,10 @@
 <LM>w#w-vesm9301-039-p2s3w1</LM>
 </w.rf>
 <form>Jenom</form>
-<tag lemma="jenom-1" src="auto" selected="1">TT-------------</tag>
+<tag>
+<AM lemma="jenom-1" src="auto">TT-------------</AM>
+<AM lemma="jenom-2_^(pouze)" src="manual" selected="1">Db-------------</AM>
+</tag>
 </m>
 <m id="m-vesm9301-039-p2s3w2">
 <src.rf>manual</src.rf>
@@ -598,7 +607,10 @@
 <LM>w#w-vesm9301-039-p2s4w3</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-2" src="auto" selected="1">Dg-------2A----</tag>
+<tag>
+<AM lemma="hodně-2" src="auto">Dg-------2A----</AM>
+<AM lemma="hodně-3" src="manual" selected="1">Dg-------2A----</AM>
+</tag>
 </m>
 <m id="m-vesm9301-039-p2s4w4">
 <src.rf>manual</src.rf>
@@ -766,7 +778,10 @@
 <LM>w#w-vesm9301-039-p2s4w24</LM>
 </w.rf>
 <form>spíše</form>
-<tag lemma="spíše" src="orig" selected="1">Dg-------2A---1</tag>
+<tag>
+<AM lemma="spíše" src="orig">Dg-------2A---1</AM>
+<AM lemma="spíš" src="manual" selected="1">TT------------1</AM>
+</tag>
 </m>
 <m id="m-vesm9301-039-p2s4w25">
 <src.rf>manual</src.rf>
@@ -907,7 +922,7 @@
 <tag>
 <AM lemma="tady" src="orig">Db------------1</AM>
 <AM lemma="ten" src="auto" recommended="1">PDFS4----------</AM>
-<AM lemma="tu" src="auto">Db-------------</AM>
+<AM lemma="tu" src="auto" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m-vesm9301-039-p2s5w16">
@@ -932,7 +947,10 @@
 <LM>w#w-vesm9301-039-p2s5w18</LM>
 </w.rf>
 <form>spíše</form>
-<tag lemma="spíše" src="orig" selected="1">Dg-------2A---1</tag>
+<tag>
+<AM lemma="spíše" src="orig">Dg-------2A---1</AM>
+<AM lemma="spíš" src="manual" selected="1">TT------------1</AM>
+</tag>
 </m>
 <m id="m-vesm9301-039-p2s5w19">
 <src.rf>manual</src.rf>

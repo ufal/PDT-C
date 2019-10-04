@@ -151,7 +151,10 @@
 <LM>w#w-ln94210-63-p2s1Bw7</LM>
 </w.rf>
 <form>JUDr</form>
-<tag lemma="JUDr-1_:B_^(doktor_práv)" src="orig" selected="1">NNMXX-----A---8</tag>
+<tag>
+<AM lemma="JUDr-1_:B_^(doktor_práv)" src="orig">NNMXX-----A---8</AM>
+<AM lemma="JUDr_:B_^(doktor_práv)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94210-63-p2s1Bw8">
 <src.rf>manual</src.rf>
@@ -279,7 +282,10 @@
 <LM>w#w-ln94210-63-p2s1Bw23</LM>
 </w.rf>
 <form>LN</form>
-<tag lemma="LN-1_:B_;R_^(Lidové_noviny,_deník)" src="orig" selected="1">NNFPX-----A---8</tag>
+<tag>
+<AM lemma="LN-1_:B_;R_^(Lidové_noviny,_deník)" src="orig">NNFPX-----A---8</AM>
+<AM lemma="LN-1_:B_;K_;R_^(Lidové_noviny)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94210-63-p2s1Bw24">
 <src.rf>manual</src.rf>
@@ -465,7 +471,10 @@
 <LM>w#w-ln94210-63-p2s2w12</LM>
 </w.rf>
 <form>JUDr</form>
-<tag lemma="JUDr-1_:B_^(doktor_práv)" src="orig" selected="1">NNMXX-----A---8</tag>
+<tag>
+<AM lemma="JUDr-1_:B_^(doktor_práv)" src="orig">NNMXX-----A---8</AM>
+<AM lemma="JUDr_:B_^(doktor_práv)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94210-63-p2s2w13">
 <src.rf>manual</src.rf>
@@ -571,7 +580,10 @@
 <LM>w#w-ln94210-63-p2s3w8</LM>
 </w.rf>
 <form>JUDr</form>
-<tag lemma="JUDr-1_:B_^(doktor_práv)" src="orig" selected="1">NNMXX-----A---8</tag>
+<tag>
+<AM lemma="JUDr-1_:B_^(doktor_práv)" src="orig">NNMXX-----A---8</AM>
+<AM lemma="JUDr_:B_^(doktor_práv)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94210-63-p2s3w9">
 <src.rf>manual</src.rf>
@@ -865,7 +877,10 @@
 <LM>w#w-ln94210-63-p2s6w3</LM>
 </w.rf>
 <form>jen</form>
-<tag lemma="jen-1" src="auto" selected="1">TT-------------</tag>
+<tag>
+<AM lemma="jen-1" src="auto">TT-------------</AM>
+<AM lemma="jen-4_^(pouze)" src="manual" selected="1">Db-------------</AM>
+</tag>
 </m>
 <m id="m-ln94210-63-p2s6w4">
 <src.rf>manual</src.rf>
@@ -953,7 +968,10 @@
 <LM>w#w-ln94210-63-p2s6w14</LM>
 </w.rf>
 <form>Kutílek</form>
-<tag lemma="kutílek" src="orig" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="kutílek" src="orig">NNMS1-----A----</AM>
+<AM lemma="Kutílek_;S" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94210-63-p2s6w15">
 <src.rf>manual</src.rf>
@@ -1139,7 +1157,10 @@
 <LM>w#w-ln94210-63-p2s7w22</LM>
 </w.rf>
 <form>JUDr</form>
-<tag lemma="JUDr-1_:B_^(doktor_práv)" src="orig" selected="1">NNMXX-----A---8</tag>
+<tag>
+<AM lemma="JUDr-1_:B_^(doktor_práv)" src="orig">NNMXX-----A---8</AM>
+<AM lemma="JUDr_:B_^(doktor_práv)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94210-63-p2s7w23">
 <src.rf>manual</src.rf>
@@ -1227,6 +1248,7 @@
 <AM lemma="expertíza" src="orig">NNFS3-----A----</AM>
 <AM lemma="expertiza" src="auto" recommended="1">NNFS3-----A----</AM>
 <AM lemma="expertiza" src="auto">NNFS6-----A----</AM>
+<AM lemma="expertiza_,s_^(^DD**expertýza)" src="manual" selected="1">NNFS3-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94210-63-p2s9w4">
@@ -1516,7 +1538,7 @@
 <tag>
 <AM lemma="tady" src="orig">Db------------1</AM>
 <AM lemma="ten" src="auto">PDFS4----------</AM>
-<AM lemma="tu" src="auto" recommended="1">Db-------------</AM>
+<AM lemma="tu" src="auto" recommended="1" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m-ln94210-63-p2s12w4">
@@ -1803,7 +1825,10 @@
 <LM>w#w-ln94210-63-p2s15w3</LM>
 </w.rf>
 <form>li</form>
-<tag lemma="li-1" src="auto" selected="1">TT-------------</tag>
+<tag>
+<AM lemma="li-1" src="auto">TT-------------</AM>
+<AM lemma="li-2" src="manual" selected="1">J,-------------</AM>
+</tag>
 </m>
 <m id="m-ln94210-63-p2s15w4">
 <src.rf>manual</src.rf>
@@ -2111,7 +2136,10 @@
 <LM>w#w-ln94210-63-p2s17w20</LM>
 </w.rf>
 <form>LN</form>
-<tag lemma="LN-1_:B_;R_^(Lidové_noviny,_deník)" src="orig" selected="1">NNFPX-----A---8</tag>
+<tag>
+<AM lemma="LN-1_:B_;R_^(Lidové_noviny,_deník)" src="orig">NNFPX-----A---8</AM>
+<AM lemma="LN-1_:B_;K_;R_^(Lidové_noviny)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94210-63-p2s17w21">
 <src.rf>manual</src.rf>
@@ -2119,7 +2147,10 @@
 <LM>w#w-ln94210-63-p2s17w21</LM>
 </w.rf>
 <form>JUDr</form>
-<tag lemma="JUDr-1_:B_^(doktor_práv)" src="orig" selected="1">NNMXX-----A---8</tag>
+<tag>
+<AM lemma="JUDr-1_:B_^(doktor_práv)" src="orig">NNMXX-----A---8</AM>
+<AM lemma="JUDr_:B_^(doktor_práv)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94210-63-p2s17w22">
 <src.rf>manual</src.rf>

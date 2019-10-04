@@ -115,7 +115,10 @@
 <LM>w#w-ln95049-048-p1s1w13</LM>
 </w.rf>
 <form>WBC</form>
-<tag lemma="WBC-1_:B_;K_,t_^(World_Box_Council)" src="auto" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="WBC-1_:B_;K_,t_^(World_Box_Council)" src="auto">NNFXX-----A---8</AM>
+<AM lemma="WBC-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95049-048-p1s1w14">
 <src.rf>manual</src.rf>
@@ -230,7 +233,7 @@
 </w.rf>
 <form>k</form>
 <tag>
-<AM lemma="knocked_:B_,t" src="orig">AAXXX----1A---8</AM>
+<AM lemma="knocked_:B_,t" src="orig" selected="1">AAXXX----1A---8</AM>
 <AM lemma="k-1" src="auto" recommended="1">RR--3----------</AM>
 <AM lemma="k-3_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
 <AM lemma="k-4`kůň_:B_^(jednotka_výkonu)" src="auto">NNMXX-----A---8</AM>
@@ -255,7 +258,7 @@
 </w.rf>
 <form>o</form>
 <tag>
-<AM lemma="out_:B_,t" src="orig">NNIXX-----A---8</AM>
+<AM lemma="out_:B_,t" src="orig" selected="1">NNIXX-----A---8</AM>
 <AM lemma="o-1" src="auto">RR--4----------</AM>
 <AM lemma="o-1" src="auto">RR--6----------</AM>
 <AM lemma="o-3_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>

@@ -77,7 +77,10 @@
 <LM>w#w-ln94207-67-p2s1Aw4</LM>
 </w.rf>
 <form>Wild</form>
-<tag lemma="Wild_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Wild_;S" src="orig">NNMS1-----A----</AM>
+<AM lemma="Wild-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94207-67-p2s1Aw5">
 <src.rf>manual</src.rf>
@@ -85,7 +88,10 @@
 <LM>w#w-ln94207-67-p2s1Aw5</LM>
 </w.rf>
 <form>Duck</form>
-<tag lemma="Duck_;G" src="auto" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="Duck_;G" src="auto">NNIS1-----A----</AM>
+<AM lemma="Duck-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94207-67-p2s1Aw6">
 <src.rf>manual</src.rf>
@@ -367,7 +373,10 @@
 <LM>w#w-ln94207-67-p2s1Bw33</LM>
 </w.rf>
 <form>zn</form>
-<tag lemma="značka_:B" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="značka_:B" src="orig">NNFXX-----A---8</AM>
+<AM lemma="značka" src="manual" selected="1">NNFXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln94207-67-p2s1Bw34">
 <src.rf>manual</src.rf>

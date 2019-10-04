@@ -472,7 +472,7 @@
 <AM lemma="zapatovský" src="auto">AAFP1----1A----</AM>
 <AM lemma="zapatovský" src="auto">AAFP4----1A----</AM>
 <AM lemma="zapatovský" src="auto">AAFP5----1A----</AM>
-<AM lemma="zapatovský" src="auto" recommended="1">AAFS2----1A----</AM>
+<AM lemma="zapatovský" src="auto" recommended="1" selected="1">AAFS2----1A----</AM>
 <AM lemma="zapatovský" src="auto">AAFS3----1A----</AM>
 <AM lemma="zapatovský" src="auto">AAFS6----1A----</AM>
 <AM lemma="zapatovský" src="auto">AAIP1----1A----</AM>
@@ -530,7 +530,10 @@
 <LM>w#w-ln95044-082-p2s3w11</LM>
 </w.rf>
 <form>EZLN</form>
-<tag lemma="EZLN_:B_;K_,t_^(Zapatovská_fronta_pro_nár._osv.)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="EZLN_:B_;K_,t_^(Zapatovská_fronta_pro_nár._osv.)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="EZLN-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln95044-082-p2s3w12">
 <src.rf>manual</src.rf>
@@ -620,7 +623,10 @@
 <LM>w#w-ln95044-082-p2s4w8</LM>
 </w.rf>
 <form>San</form>
-<tag lemma="San-2_;G" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="San-2_;G" src="orig">AAXXX----1A----</AM>
+<AM lemma="San-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln95044-082-p2s4w9">
 <src.rf>manual</src.rf>
@@ -628,7 +634,10 @@
 <LM>w#w-ln95044-082-p2s4w9</LM>
 </w.rf>
 <form>Cristóbal</form>
-<tag lemma="Cristóbal_;G" src="orig" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="Cristóbal_;G" src="orig">NNIS1-----A----</AM>
+<AM lemma="Cristóbal-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln95044-082-p2s4w10">
 <src.rf>manual</src.rf>
@@ -636,7 +645,10 @@
 <LM>w#w-ln95044-082-p2s4w10</LM>
 </w.rf>
 <form>de</form>
-<tag lemma="de_,t_^(z_franc._de,_zejm._ve_jménech)" src="orig" selected="1">RR--1----------</tag>
+<tag>
+<AM lemma="de_,t_^(z_franc._de,_zejm._ve_jménech)" src="orig">RR--1----------</AM>
+<AM lemma="de-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln95044-082-p2s4w11">
 <src.rf>manual</src.rf>
@@ -644,7 +656,10 @@
 <LM>w#w-ln95044-082-p2s4w11</LM>
 </w.rf>
 <form>Las</form>
-<tag lemma="laso" src="orig" selected="1">NNNP2-----A----</tag>
+<tag>
+<AM lemma="laso" src="orig">NNNP2-----A----</AM>
+<AM lemma="Las-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln95044-082-p2s4w12">
 <src.rf>manual</src.rf>
@@ -655,6 +670,7 @@
 <tag>
 <AM lemma="Casas_;G" src="orig">NNNXX-----A----</AM>
 <AM lemma="Casas_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Casas-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-ln95044-082-p2s4w13">
@@ -815,7 +831,10 @@
 <LM>w#w-ln95044-082-p2s4w32</LM>
 </w.rf>
 <form>EZLN</form>
-<tag lemma="EZLN_:B_;K_,t_^(Zapatovská_fronta_pro_nár._osv.)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="EZLN_:B_;K_,t_^(Zapatovská_fronta_pro_nár._osv.)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="EZLN-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln95044-082-p2s4w33">
 <src.rf>manual</src.rf>

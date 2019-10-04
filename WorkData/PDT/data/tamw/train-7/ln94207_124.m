@@ -59,7 +59,10 @@
 <LM>w#w-ln94207-124-p1s1w6</LM>
 </w.rf>
 <form>Mir</form>
-<tag lemma="Mir-1_;R_,t_^(ruská_kosmická_stanice)" src="orig" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="Mir-1_;R_,t_^(ruská_kosmická_stanice)" src="orig">NNIS1-----A----</AM>
+<AM lemma="Mir-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 </s>
 <s id="m-ln94207-124-p2s1A">
@@ -119,7 +122,10 @@
 <LM>w#w-ln94207-124-p2s1Bw5</LM>
 </w.rf>
 <form>M</form>
-<tag lemma="m-3_^(označení_pomocí_písmene)" src="orig" selected="1">NNNXX-----A----</tag>
+<tag>
+<AM lemma="m-3_^(označení_pomocí_písmene)" src="orig">NNNXX-----A----</AM>
+<AM lemma="M-33_^(označení_pomocí_písmene)" src="manual" selected="1">NNNXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94207-124-p2s1Bw6">
 <src.rf>manual</src.rf>
@@ -191,7 +197,10 @@
 <LM>w#w-ln94207-124-p2s1Bw14</LM>
 </w.rf>
 <form>Mir</form>
-<tag lemma="Mir-1_;R_,t_^(ruská_kosmická_stanice)" src="orig" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="Mir-1_;R_,t_^(ruská_kosmická_stanice)" src="orig">NNIS1-----A----</AM>
+<AM lemma="Mir-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94207-124-p2s1Bw15">
 <src.rf>manual</src.rf>
@@ -337,7 +346,10 @@
 <LM>w#w-ln94207-124-p2s2w17</LM>
 </w.rf>
 <form>M</form>
-<tag lemma="m-3_^(označení_pomocí_písmene)" src="orig" selected="1">NNNXX-----A----</tag>
+<tag>
+<AM lemma="m-3_^(označení_pomocí_písmene)" src="orig">NNNXX-----A----</AM>
+<AM lemma="M-33_^(označení_pomocí_písmene)" src="manual" selected="1">NNNXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94207-124-p2s2w18">
 <src.rf>manual</src.rf>
@@ -635,7 +647,10 @@
 <LM>w#w-ln94207-124-p2s3w21</LM>
 </w.rf>
 <form>Mir</form>
-<tag lemma="Mir-1_;R_,t_^(ruská_kosmická_stanice)" src="orig" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="Mir-1_;R_,t_^(ruská_kosmická_stanice)" src="orig">NNIS1-----A----</AM>
+<AM lemma="Mir-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94207-124-p2s3w22">
 <src.rf>manual</src.rf>
@@ -895,7 +910,10 @@
 <LM>w#w-ln94207-124-p2s5w2</LM>
 </w.rf>
 <form>Mir</form>
-<tag lemma="Mir-1_;R_,t_^(ruská_kosmická_stanice)" src="orig" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="Mir-1_;R_,t_^(ruská_kosmická_stanice)" src="orig">NNIS1-----A----</AM>
+<AM lemma="Mir-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94207-124-p2s5w3">
 <src.rf>manual</src.rf>
@@ -1017,7 +1035,10 @@
 <LM>w#w-ln94207-124-p3s1w1</LM>
 </w.rf>
 <form>Více</form>
-<tag lemma="hodně-2" src="auto" selected="1">Dg-------2A----</tag>
+<tag>
+<AM lemma="hodně-2" src="auto">Dg-------2A----</AM>
+<AM lemma="hodně-3" src="manual" selected="1">Dg-------2A----</AM>
+</tag>
 </m>
 <m id="m-ln94207-124-p3s1w2">
 <src.rf>manual</src.rf>
@@ -1065,7 +1086,10 @@
 <LM>w#w-ln94207-124-p3s1w7</LM>
 </w.rf>
 <form>M</form>
-<tag lemma="m-3_^(označení_pomocí_písmene)" src="orig" selected="1">NNNXX-----A----</tag>
+<tag>
+<AM lemma="m-3_^(označení_pomocí_písmene)" src="orig">NNNXX-----A----</AM>
+<AM lemma="M-33_^(označení_pomocí_písmene)" src="manual" selected="1">NNNXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94207-124-p3s1w8">
 <src.rf>manual</src.rf>

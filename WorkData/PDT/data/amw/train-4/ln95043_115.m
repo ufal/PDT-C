@@ -19,7 +19,10 @@
 <LM>w#w-ln95043-115-p1s1w1</LM>
 </w.rf>
 <form>Die</form>
-<tag lemma="die-1_;K_,t_^(souč._něm._názvů,_např._Die_Presse_[člen_f.])" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="die-1_;K_,t_^(souč._něm._názvů,_např._Die_Presse_[člen_f.])" src="orig">AAXXX----1A----</AM>
+<AM lemma="Die-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln95043-115-p1s1w2">
 <src.rf>manual</src.rf>
@@ -27,7 +30,10 @@
 <LM>w#w-ln95043-115-p1s1w2</LM>
 </w.rf>
 <form>Presse</form>
-<tag lemma="Presse-1_;K_,t_^(souč._názvu_Die_P.)" src="orig" selected="1">NNIXX-----A----</tag>
+<tag>
+<AM lemma="Presse-1_;K_,t_^(souč._názvu_Die_P.)" src="orig">NNIXX-----A----</AM>
+<AM lemma="Presse-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln95043-115-p1s1w3">
 <src.rf>manual</src.rf>
@@ -465,7 +471,10 @@
 <LM>w#w-ln95043-115-p3s2w32</LM>
 </w.rf>
 <form>Die</form>
-<tag lemma="die-1_;K_,t_^(souč._něm._názvů,_např._Die_Presse_[člen_f.])" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="die-1_;K_,t_^(souč._něm._názvů,_např._Die_Presse_[člen_f.])" src="orig">AAXXX----1A----</AM>
+<AM lemma="Die-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln95043-115-p3s2w33">
 <src.rf>manual</src.rf>
@@ -473,7 +482,10 @@
 <LM>w#w-ln95043-115-p3s2w33</LM>
 </w.rf>
 <form>Presse</form>
-<tag lemma="Presse-1_;K_,t_^(souč._názvu_Die_P.)" src="orig" selected="1">NNIXX-----A----</tag>
+<tag>
+<AM lemma="Presse-1_;K_,t_^(souč._názvu_Die_P.)" src="orig">NNIXX-----A----</AM>
+<AM lemma="Presse-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln95043-115-p3s2w34">
 <src.rf>manual</src.rf>
@@ -547,7 +559,10 @@
 <LM>w#w-ln95043-115-p4s1w8</LM>
 </w.rf>
 <form>sice</form>
-<tag lemma="sice-2" src="auto" selected="1">Db-------------</tag>
+<tag>
+<AM lemma="sice-2" src="auto">Db-------------</AM>
+<AM lemma="sice-1_^(spojka;_připouští_se_určitá_fakta)" src="manual" selected="1">J^-------------</AM>
+</tag>
 </m>
 <m id="m-ln95043-115-p4s1w9">
 <src.rf>manual</src.rf>
@@ -1265,7 +1280,10 @@
 <LM>w#w-ln95043-115-p5s3w15</LM>
 </w.rf>
 <form>Die</form>
-<tag lemma="die-1_;K_,t_^(souč._něm._názvů,_např._Die_Presse_[člen_f.])" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="die-1_;K_,t_^(souč._něm._názvů,_např._Die_Presse_[člen_f.])" src="orig">AAXXX----1A----</AM>
+<AM lemma="Die-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln95043-115-p5s3w16">
 <src.rf>manual</src.rf>
@@ -1273,7 +1291,10 @@
 <LM>w#w-ln95043-115-p5s3w16</LM>
 </w.rf>
 <form>Presse</form>
-<tag lemma="Presse-1_;K_,t_^(souč._názvu_Die_P.)" src="orig" selected="1">NNIXX-----A----</tag>
+<tag>
+<AM lemma="Presse-1_;K_,t_^(souč._názvu_Die_P.)" src="orig">NNIXX-----A----</AM>
+<AM lemma="Presse-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln95043-115-p5s3w17">
 <src.rf>manual</src.rf>

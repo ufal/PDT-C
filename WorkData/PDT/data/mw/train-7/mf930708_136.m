@@ -88,7 +88,7 @@
 </w.rf>
 <form>b</form>
 <tag>
-<AM lemma="bod_:B" src="orig">NNNXX-----A---8</AM>
+<AM lemma="bod_:B" src="orig" selected="1">NNNXX-----A---8</AM>
 <AM lemma="b-3_^(označení_pomocí_písmene)" src="auto" recommended="1">NNNXX-----A----</AM>
 <AM lemma="b-8_:B_^(ost._zkratka)" src="auto">XX------------8</AM>
 </tag>
@@ -836,7 +836,7 @@
 </w.rf>
 <form>Woodbridge</form>
 <tag>
-<AM lemma="Woodbridge-2_;S" src="orig">NNMS1-----A----</AM>
+<AM lemma="Woodbridge-2_;S" src="orig" selected="1">NNMS1-----A----</AM>
 <AM lemma="Woodbridge_;G" src="auto">NNFP1-----A----</AM>
 <AM lemma="Woodbridge_;G" src="auto">NNFP4-----A----</AM>
 <AM lemma="Woodbridge_;G" src="auto">NNFP5-----A----</AM>
@@ -860,7 +860,7 @@
 </w.rf>
 <form>b</form>
 <tag>
-<AM lemma="bod_:B" src="orig">NNNXX-----A---8</AM>
+<AM lemma="bod_:B" src="orig" selected="1">NNNXX-----A---8</AM>
 <AM lemma="b-3_^(označení_pomocí_písmene)" src="auto" recommended="1">NNNXX-----A----</AM>
 <AM lemma="b-8_:B_^(ost._zkratka)" src="auto">XX------------8</AM>
 </tag>
@@ -906,7 +906,7 @@
 </w.rf>
 <form>Woodforde</form>
 <tag>
-<AM lemma="Woodforde_;S" src="orig">NNMS1-----A----</AM>
+<AM lemma="Woodforde_;S" src="orig" selected="1">NNMS1-----A----</AM>
 <AM lemma="Woodford_;S" src="auto" recommended="1">NNMS5-----A----</AM>
 </tag>
 </m>
@@ -1744,7 +1744,7 @@
 <form>341.6185</form>
 <tag>
 <AM lemma="3416185" src="orig">C=-------------</AM>
-<AM lemma="341.6185" src="auto" recommended="1">C=-------------</AM>
+<AM lemma="341.6185" src="auto" recommended="1" selected="1">C=-------------</AM>
 </tag>
 </m>
 <m id="m-mf930708-136-p4s2w3">
@@ -1754,7 +1754,7 @@
 </w.rf>
 <form>b</form>
 <tag>
-<AM lemma="bod_:B" src="orig">NNNXX-----A---8</AM>
+<AM lemma="bod_:B" src="orig" selected="1">NNNXX-----A---8</AM>
 <AM lemma="b-3_^(označení_pomocí_písmene)" src="auto" recommended="1">NNNXX-----A----</AM>
 <AM lemma="b-8_:B_^(ost._zkratka)" src="auto">XX------------8</AM>
 </tag>
@@ -1810,7 +1810,7 @@
 <form>278.9811</form>
 <tag>
 <AM lemma="2789811" src="orig">C=-------------</AM>
-<AM lemma="278.9811" src="auto" recommended="1">C=-------------</AM>
+<AM lemma="278.9811" src="auto" recommended="1" selected="1">C=-------------</AM>
 </tag>
 </m>
 <m id="m-mf930708-136-p4s3w3">
@@ -1872,7 +1872,7 @@
 <form>245.0016</form>
 <tag>
 <AM lemma="2450016" src="orig">C=-------------</AM>
-<AM lemma="245.0016" src="auto" recommended="1">C=-------------</AM>
+<AM lemma="245.0016" src="auto" recommended="1" selected="1">C=-------------</AM>
 </tag>
 </m>
 <m id="m-mf930708-136-p4s4w5">
@@ -1918,7 +1918,7 @@
 <form>216.0237</form>
 <tag>
 <AM lemma="2160237" src="orig">C=-------------</AM>
-<AM lemma="216.0237" src="auto" recommended="1">C=-------------</AM>
+<AM lemma="216.0237" src="auto" recommended="1" selected="1">C=-------------</AM>
 </tag>
 </m>
 <m id="m-mf930708-136-p4s5w3">
@@ -1964,7 +1964,7 @@
 <form>160.2304</form>
 <tag>
 <AM lemma="1602304" src="orig">C=-------------</AM>
-<AM lemma="160.2304" src="auto" recommended="1">C=-------------</AM>
+<AM lemma="160.2304" src="auto" recommended="1" selected="1">C=-------------</AM>
 </tag>
 </m>
 <m id="m-mf930708-136-p4s6w3">
@@ -2010,7 +2010,7 @@
 <form>154.2455</form>
 <tag>
 <AM lemma="1542455" src="orig">C=-------------</AM>
-<AM lemma="154.2455" src="auto" recommended="1">C=-------------</AM>
+<AM lemma="154.2455" src="auto" recommended="1" selected="1">C=-------------</AM>
 </tag>
 </m>
 <m id="m-mf930708-136-p4s7w3">
@@ -2045,7 +2045,10 @@
 <LM>w#w-mf930708-136-p4s8w1</LM>
 </w.rf>
 <form>M</form>
-<tag lemma="M-0_:B_;Y" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="M-0_:B_;Y" src="orig">NNFXX-----A---8</AM>
+<AM lemma="M-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-mf930708-136-p4s8w2">
 <src.rf>manual</src.rf>
@@ -2061,7 +2064,10 @@
 <LM>w#w-mf930708-136-p4s8w3</LM>
 </w.rf>
 <form>J</form>
-<tag lemma="J-0_:B_;Y" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="J-0_:B_;Y" src="orig">NNFXX-----A---8</AM>
+<AM lemma="J-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-mf930708-136-p4s8w4">
 <src.rf>manual</src.rf>
@@ -2088,7 +2094,7 @@
 <form>149.7733</form>
 <tag>
 <AM lemma="1497733" src="orig">C=-------------</AM>
-<AM lemma="149.7733" src="auto" recommended="1">C=-------------</AM>
+<AM lemma="149.7733" src="auto" recommended="1" selected="1">C=-------------</AM>
 </tag>
 </m>
 <m id="m-mf930708-136-p4s8w7">
@@ -2134,7 +2140,7 @@
 <form>132.3868</form>
 <tag>
 <AM lemma="1323868" src="orig">C=-------------</AM>
-<AM lemma="132.3868" src="auto" recommended="1">C=-------------</AM>
+<AM lemma="132.3868" src="auto" recommended="1" selected="1">C=-------------</AM>
 </tag>
 </m>
 <m id="m-mf930708-136-p4s9w3">
@@ -2180,7 +2186,7 @@
 <form>125.7460</form>
 <tag>
 <AM lemma="1257460" src="orig">C=-------------</AM>
-<AM lemma="125.7460" src="auto" recommended="1">C=-------------</AM>
+<AM lemma="125.7460" src="auto" recommended="1" selected="1">C=-------------</AM>
 </tag>
 </m>
 <m id="m-mf930708-136-p4s10w3">
@@ -2226,7 +2232,7 @@
 <form>100.9688</form>
 <tag>
 <AM lemma="1009688" src="orig">C=-------------</AM>
-<AM lemma="100.9688" src="auto" recommended="1">C=-------------</AM>
+<AM lemma="100.9688" src="auto" recommended="1" selected="1">C=-------------</AM>
 </tag>
 </m>
 <m id="m-mf930708-136-p4s11w3">
@@ -2298,7 +2304,7 @@
 <form>76.6673</form>
 <tag>
 <AM lemma="766673" src="orig">C=-------------</AM>
-<AM lemma="76.6673" src="auto" recommended="1">C=-------------</AM>
+<AM lemma="76.6673" src="auto" recommended="1" selected="1">C=-------------</AM>
 </tag>
 </m>
 <m id="m-mf930708-136-p4s13w3">
@@ -2547,7 +2553,10 @@
 <LM>w#w-mf930708-136-p4s19w1</LM>
 </w.rf>
 <form>M</form>
-<tag lemma="M-0_:B_;Y" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="M-0_:B_;Y" src="orig">NNFXX-----A---8</AM>
+<AM lemma="M-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-mf930708-136-p4s19w2">
 <src.rf>manual</src.rf>
@@ -2563,7 +2572,10 @@
 <LM>w#w-mf930708-136-p4s19w3</LM>
 </w.rf>
 <form>J</form>
-<tag lemma="J-0_:B_;Y" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="J-0_:B_;Y" src="orig">NNFXX-----A---8</AM>
+<AM lemma="J-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-mf930708-136-p4s19w4">
 <src.rf>manual</src.rf>

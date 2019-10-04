@@ -255,7 +255,10 @@
 <LM>w#w-ln94206-93-p3s1w8</LM>
 </w.rf>
 <form>Stano</form>
-<tag lemma="Stano_;Y_,t" src="auto" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Stano_;Y_,t" src="auto">NNMS1-----A----</AM>
+<AM lemma="Stano_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94206-93-p3s1w9">
 <src.rf>manual</src.rf>
@@ -471,7 +474,10 @@
 <LM>w#w-ln94206-93-p3s1w35</LM>
 </w.rf>
 <form>ul</form>
-<tag lemma="ulice_:B" src="auto" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ulice_:B" src="auto">NNFXX-----A---8</AM>
+<AM lemma="ulice" src="manual" selected="1">NNFXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln94206-93-p3s1w36">
 <src.rf>manual</src.rf>
@@ -657,7 +663,10 @@
 <LM>w#w-ln94206-93-p4s1w15</LM>
 </w.rf>
 <form>Chagall</form>
-<tag lemma="Chagall_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Chagall_;S" src="orig">NNMS1-----A----</AM>
+<AM lemma="Chagall-2_;K" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94206-93-p4s1w16">
 <src.rf>manual</src.rf>

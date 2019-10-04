@@ -173,7 +173,10 @@
 <LM>w#w-mf920924-034-p2s1w15</LM>
 </w.rf>
 <form>letter</form>
-<tag lemma="letter_,t" src="orig" selected="1">NNIXX-----A----</tag>
+<tag>
+<AM lemma="letter_,t" src="orig">NNIXX-----A----</AM>
+<AM lemma="letter-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-mf920924-034-p2s1w16">
 <src.rf>manual</src.rf>
@@ -181,7 +184,10 @@
 <LM>w#w-mf920924-034-p2s1w16</LM>
 </w.rf>
 <form>of</form>
-<tag lemma="of-1_,t_^(obv._souč._anglických_názvů,_předl._2._p.)" src="orig" selected="1">RR--X----------</tag>
+<tag>
+<AM lemma="of-1_,t_^(obv._souč._anglických_názvů,_předl._2._p.)" src="orig">RR--X----------</AM>
+<AM lemma="of-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-mf920924-034-p2s1w17">
 <src.rf>manual</src.rf>
@@ -189,7 +195,10 @@
 <LM>w#w-mf920924-034-p2s1w17</LM>
 </w.rf>
 <form>intent</form>
-<tag lemma="intent_,t" src="orig" selected="1">NNIXX-----A----</tag>
+<tag>
+<AM lemma="intent_,t" src="orig">NNIXX-----A----</AM>
+<AM lemma="intent-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-mf920924-034-p2s1w18">
 <src.rf>manual</src.rf>
@@ -859,7 +868,10 @@
 <LM>w#w-mf920924-034-p3s3w14</LM>
 </w.rf>
 <form>letter</form>
-<tag lemma="letter_,t" src="orig" selected="1">NNIXX-----A----</tag>
+<tag>
+<AM lemma="letter_,t" src="orig">NNIXX-----A----</AM>
+<AM lemma="letter-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-mf920924-034-p3s3w15">
 <src.rf>manual</src.rf>
@@ -867,7 +879,10 @@
 <LM>w#w-mf920924-034-p3s3w15</LM>
 </w.rf>
 <form>of</form>
-<tag lemma="of-1_,t_^(obv._souč._anglických_názvů,_předl._2._p.)" src="orig" selected="1">RR--X----------</tag>
+<tag>
+<AM lemma="of-1_,t_^(obv._souč._anglických_názvů,_předl._2._p.)" src="orig">RR--X----------</AM>
+<AM lemma="of-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-mf920924-034-p3s3w16">
 <src.rf>manual</src.rf>
@@ -875,7 +890,10 @@
 <LM>w#w-mf920924-034-p3s3w16</LM>
 </w.rf>
 <form>intent</form>
-<tag lemma="intent_,t" src="orig" selected="1">NNIXX-----A----</tag>
+<tag>
+<AM lemma="intent_,t" src="orig">NNIXX-----A----</AM>
+<AM lemma="intent-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-mf920924-034-p3s3w17">
 <src.rf>manual</src.rf>
@@ -1029,7 +1047,10 @@
 <LM>w#w-mf920924-034-p3s4w15</LM>
 </w.rf>
 <form>USD</form>
-<tag lemma="USD_:B_;b_^(U.S._dolar)" src="auto" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="USD_:B_;b_^(U.S._dolar)" src="auto">NNIXX-----A---8</AM>
+<AM lemma="USD_:B_^(U.S._dolar)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920924-034-p3s4w16">
 <src.rf>manual</src.rf>
@@ -1207,7 +1228,10 @@
 <LM>w#w-mf920924-034-p3s5w8</LM>
 </w.rf>
 <form>stadiu</form>
-<tag lemma="stadium" src="orig" selected="1">NNNS6-----A----</tag>
+<tag>
+<AM lemma="stadium" src="orig">NNNS6-----A----</AM>
+<AM lemma="stadium_,s_^(^DD**stádium)" src="manual" selected="1">NNNS6-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920924-034-p3s5w9">
 <src.rf>manual</src.rf>

@@ -59,7 +59,10 @@
 <LM>w#w-mf930708-115-p1s1w6</LM>
 </w.rf>
 <form>rá</form>
-<tag lemma="rá-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="rá-99_:B_;S" src="orig">NNXXX-----A---8</AM>
+<AM lemma="rá-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930708-115-p1s1w7">
 <src.rf>manual</src.rf>
@@ -299,7 +302,10 @@
 <LM>w#w-mf930708-115-p1s1w36</LM>
 </w.rf>
 <form>SKP</form>
-<tag lemma="SKP_:B_;K" src="auto" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="SKP_:B_;K" src="auto">NNXXX-----A---8</AM>
+<AM lemma="SKP-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-mf930708-115-p1s1w37">
 <src.rf>manual</src.rf>
@@ -307,7 +313,10 @@
 <LM>w#w-mf930708-115-p1s1w37</LM>
 </w.rf>
 <form>Union</form>
-<tag lemma="Union" src="orig" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="Union" src="orig">NNIS1-----A----</AM>
+<AM lemma="Union_;K" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930708-115-p1s1w38">
 <src.rf>manual</src.rf>
@@ -695,7 +704,10 @@
 <LM>w#w-mf930708-115-p1s3w11</LM>
 </w.rf>
 <form>jen</form>
-<tag lemma="jen-1" src="auto" selected="1">TT-------------</tag>
+<tag>
+<AM lemma="jen-1" src="auto">TT-------------</AM>
+<AM lemma="jen-4_^(pouze)" src="manual" selected="1">Db-------------</AM>
+</tag>
 </m>
 <m id="m-mf930708-115-p1s3w12">
 <src.rf>manual</src.rf>
@@ -859,7 +871,10 @@
 <LM>w#w-mf930708-115-p1s5w2</LM>
 </w.rf>
 <form>rá</form>
-<tag lemma="rá-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="rá-99_:B_;S" src="orig">NNXXX-----A---8</AM>
+<AM lemma="rá-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930708-115-p1s5w3">
 <src.rf>manual</src.rf>

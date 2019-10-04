@@ -152,6 +152,7 @@
 <AM lemma="bob" src="auto">NNIP4-----A----</AM>
 <AM lemma="bob" src="auto">NNIP5-----A----</AM>
 <AM lemma="bob" src="auto">NNIP7-----A----</AM>
+<AM lemma="Boby-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-lnd94104-106-p1s3w12">
@@ -160,7 +161,10 @@
 <LM>w#w-lnd94104-106-p1s3w12</LM>
 </w.rf>
 <form>Motion</form>
-<tag lemma="Motion_;m_,t" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="Motion_;m_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="Motion-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-lnd94104-106-p1s3w13">
 <src.rf>manual</src.rf>
@@ -168,7 +172,10 @@
 <LM>w#w-lnd94104-106-p1s3w13</LM>
 </w.rf>
 <form>Stavex</form>
-<tag lemma="Stavex_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="Stavex_;K" src="orig">NNIS1-----A----</AM>
+<AM lemma="Stavex-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-lnd94104-106-p1s3w14">
 <src.rf>manual</src.rf>
@@ -179,6 +186,7 @@
 <tag>
 <AM lemma="Open-2_;m_,t" src="orig">NNNXX-----A----</AM>
 <AM lemma="Open-1_,t_^(v_názvu_např._sport._soutěží,_&quot;otevřený&quot;)" src="auto" recommended="1">AAXXX----1A----</AM>
+<AM lemma="Open-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-lnd94104-106-p1s3w15">
@@ -835,7 +843,10 @@
 <LM>w#w-lnd94104-106-p1s7w14</LM>
 </w.rf>
 <form>Němce</form>
-<tag lemma="Němec_;E_;S" src="auto" selected="1">NNMS2-----A----</tag>
+<tag>
+<AM lemma="Němec_;E_;S" src="auto">NNMS2-----A----</AM>
+<AM lemma="Němec_;S_;E" src="manual" selected="1">NNMS2-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd94104-106-p1s7w15">
 <src.rf>manual</src.rf>

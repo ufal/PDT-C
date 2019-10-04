@@ -53,7 +53,10 @@
 <LM>w#w-mf930708-105-p2s1w3</LM>
 </w.rf>
 <form>MS</form>
-<tag lemma="MS-5_:B_;K_;p_^(ministerstvo_spravedlnosti)" src="orig" selected="1">NNNXX-----A---8</tag>
+<tag>
+<AM lemma="MS-5_:B_;K_;p_^(ministerstvo_spravedlnosti)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="MS-3_:B_;K_^(mistrovství_světa)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930708-105-p2s1w4">
 <src.rf>manual</src.rf>
@@ -193,7 +196,10 @@
 <LM>w#w-mf930708-105-p2s3w3</LM>
 </w.rf>
 <form>Juha</form>
-<tag lemma="Juha_;S" src="auto" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Juha_;S" src="auto">NNMS1-----A----</AM>
+<AM lemma="Juha_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930708-105-p2s3w4">
 <src.rf>manual</src.rf>

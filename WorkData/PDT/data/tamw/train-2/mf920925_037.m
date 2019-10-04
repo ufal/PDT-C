@@ -144,7 +144,7 @@
 </w.rf>
 <form>mru</form>
 <tag>
-<AM lemma="mru-99_:B_;S" src="orig">NNXXX-----A---8</AM>
+<AM lemma="mru-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</AM>
 <AM lemma="mřít_,a_,x" src="auto" recommended="1">VB-S---1P-AA---</AM>
 </tag>
 </m>
@@ -162,7 +162,10 @@
 <LM>w#w-mf920925-037-p2s1w5</LM>
 </w.rf>
 <form>ČSTK</form>
-<tag lemma="ČSTK-1_:B_;K_^(Československá_tisková_kancelář)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ČSTK-1_:B_;K_^(Československá_tisková_kancelář)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČSTK-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920925-037-p2s1w6">
 <src.rf>manual</src.rf>
@@ -770,7 +773,10 @@
 <LM>w#w-mf920925-037-p3s1w18</LM>
 </w.rf>
 <form>kurs</form>
-<tag lemma="kurs" src="auto" selected="1">NNIS4-----A----</tag>
+<tag>
+<AM lemma="kurs" src="auto">NNIS4-----A----</AM>
+<AM lemma="kurs_,s_^(^DD**kurz)" src="manual" selected="1">NNIS4-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920925-037-p3s1w19">
 <src.rf>manual</src.rf>
@@ -996,7 +1002,10 @@
 <LM>w#w-mf920925-037-p3s2w24</LM>
 </w.rf>
 <form>kursy</form>
-<tag lemma="kurs" src="auto" selected="1">NNIP1-----A----</tag>
+<tag>
+<AM lemma="kurs" src="auto">NNIP1-----A----</AM>
+<AM lemma="kurs_,s_^(^DD**kurz)" src="manual" selected="1">NNIP1-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920925-037-p3s2w25">
 <src.rf>manual</src.rf>
@@ -1852,7 +1861,10 @@
 <LM>w#w-mf920925-037-p5s2w30</LM>
 </w.rf>
 <form>jen</form>
-<tag lemma="jen-1" src="auto" selected="1">TT-------------</tag>
+<tag>
+<AM lemma="jen-1" src="auto">TT-------------</AM>
+<AM lemma="jen-4_^(pouze)" src="manual" selected="1">Db-------------</AM>
+</tag>
 </m>
 <m id="m-mf920925-037-p5s2w31">
 <src.rf>manual</src.rf>

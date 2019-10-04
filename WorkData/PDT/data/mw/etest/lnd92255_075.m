@@ -1130,7 +1130,7 @@
 <tag>
 <AM lemma="přesto" src="orig">Dg-------1A----</AM>
 <AM lemma="přesto-1" src="auto" recommended="1">Db-------------</AM>
-<AM lemma="přesto-2" src="auto">J^-------------</AM>
+<AM lemma="přesto-2" src="auto" selected="1">J^-------------</AM>
 </tag>
 </m>
 <m id="m-lnd92255-075-p4s5w15">
@@ -1307,7 +1307,10 @@
 <LM>w#w-lnd92255-075-p4s5w36</LM>
 </w.rf>
 <form>nezaměstnaných</form>
-<tag lemma="zaměstnaný-1_^(všeob._význam:_činnost,_zaměstnání)_(*4t-1)" src="orig" selected="1">AAMP2----1N----</tag>
+<tag>
+<AM lemma="zaměstnaný-1_^(všeob._význam:_činnost,_zaměstnání)_(*4t-1)" src="orig">AAMP2----1N----</AM>
+<AM lemma="nezaměstnaný-2_^(člověk_bez_zaměstnání)" src="manual" selected="1">AAMP2----1N----</AM>
+</tag>
 </m>
 <m id="m-lnd92255-075-p4s5w37">
 <src.rf>manual</src.rf>
@@ -1488,7 +1491,10 @@
 <LM>w#w-lnd92255-075-p5s2w10</LM>
 </w.rf>
 <form>nezaměstnaných</form>
-<tag lemma="zaměstnaný-1_^(všeob._význam:_činnost,_zaměstnání)_(*4t-1)" src="orig" selected="1">AAMP2----1N----</tag>
+<tag>
+<AM lemma="zaměstnaný-1_^(všeob._význam:_činnost,_zaměstnání)_(*4t-1)" src="orig">AAMP2----1N----</AM>
+<AM lemma="nezaměstnaný-2_^(člověk_bez_zaměstnání)" src="manual" selected="1">AAMP2----1N----</AM>
+</tag>
 </m>
 <m id="m-lnd92255-075-p5s2w11">
 <src.rf>manual</src.rf>
@@ -2331,7 +2337,10 @@
 <LM>w#w-lnd92255-075-p6s3w24</LM>
 </w.rf>
 <form>přijmout</form>
-<tag lemma="přijmout" src="auto" selected="1">Vf--------A----</tag>
+<tag>
+<AM lemma="přijmout" src="auto">Vf--------A----</AM>
+<AM lemma="přijmout_:W" src="manual" selected="1">Vf--------A----</AM>
+</tag>
 </m>
 <m id="m-lnd92255-075-p6s3w25">
 <src.rf>manual</src.rf>
@@ -2655,7 +2664,10 @@
 <LM>w#w-lnd92255-075-p7s1w12</LM>
 </w.rf>
 <form>přijmout</form>
-<tag lemma="přijmout" src="auto" selected="1">Vf--------A----</tag>
+<tag>
+<AM lemma="přijmout" src="auto">Vf--------A----</AM>
+<AM lemma="přijmout_:W" src="manual" selected="1">Vf--------A----</AM>
+</tag>
 </m>
 <m id="m-lnd92255-075-p7s1w13">
 <src.rf>manual</src.rf>
@@ -2705,7 +2717,7 @@
 <form>ovšem</form>
 <tag>
 <AM lemma="ovšem-1_^(avšak,_však;_odporovací_spojka)" src="orig">J^-------------</AM>
-<AM lemma="ovšem" src="auto" recommended="1">TT-------------</AM>
+<AM lemma="ovšem" src="auto" recommended="1" selected="1">TT-------------</AM>
 </tag>
 </m>
 <m id="m-lnd92255-075-p7s1w19">
@@ -2910,7 +2922,10 @@
 <LM>w#w-lnd92255-075-p8s1w5</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-2" src="auto" selected="1">Dg-------2A----</tag>
+<tag>
+<AM lemma="hodně-2" src="auto">Dg-------2A----</AM>
+<AM lemma="hodně-3" src="manual" selected="1">Dg-------2A----</AM>
+</tag>
 </m>
 <m id="m-lnd92255-075-p8s1w6">
 <src.rf>manual</src.rf>
@@ -3162,7 +3177,10 @@
 <LM>w#w-lnd92255-075-p8s3w8</LM>
 </w.rf>
 <form>nezaměstnané</form>
-<tag lemma="zaměstnaný-1_^(všeob._význam:_činnost,_zaměstnání)_(*4t-1)" src="orig" selected="1">AAMP4----1N----</tag>
+<tag>
+<AM lemma="zaměstnaný-1_^(všeob._význam:_činnost,_zaměstnání)_(*4t-1)" src="orig">AAMP4----1N----</AM>
+<AM lemma="nezaměstnaný-2_^(člověk_bez_zaměstnání)" src="manual" selected="1">AAMP4----1N----</AM>
+</tag>
 </m>
 <m id="m-lnd92255-075-p8s3w9">
 <src.rf>manual</src.rf>
@@ -3198,7 +3216,7 @@
 <form>snad</form>
 <tag>
 <AM lemma="snad" src="orig">Db-------------</AM>
-<AM lemma="snad" src="auto" recommended="1">TT-------------</AM>
+<AM lemma="snad" src="auto" recommended="1" selected="1">TT-------------</AM>
 </tag>
 </m>
 <m id="m-lnd92255-075-p8s4w4">
@@ -3666,7 +3684,7 @@
 <tag>
 <AM lemma="tedy" src="orig">Db-------------</AM>
 <AM lemma="tedy-1" src="auto" recommended="1">TT-------------</AM>
-<AM lemma="tedy-2" src="auto">J^-------------</AM>
+<AM lemma="tedy-2" src="auto" selected="1">J^-------------</AM>
 </tag>
 </m>
 <m id="m-lnd92255-075-p9s1w3">
@@ -3739,7 +3757,10 @@
 <LM>w#w-lnd92255-075-p9s1w11</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-2" src="auto" selected="1">Dg-------2A----</tag>
+<tag>
+<AM lemma="hodně-2" src="auto">Dg-------2A----</AM>
+<AM lemma="hodně-3" src="manual" selected="1">Dg-------2A----</AM>
+</tag>
 </m>
 <m id="m-lnd92255-075-p9s1w12">
 <src.rf>manual</src.rf>
@@ -3855,7 +3876,10 @@
 <LM>w#w-lnd92255-075-p9s3w3</LM>
 </w.rf>
 <form>nevedou</form>
-<tag lemma="vést" src="auto" selected="1">VB-P---3P-NA---</tag>
+<tag>
+<AM lemma="vést" src="auto">VB-P---3P-NA---</AM>
+<AM lemma="vést_:T" src="manual" selected="1">VB-P---3P-NA---</AM>
+</tag>
 </m>
 <m id="m-lnd92255-075-p9s3w4">
 <src.rf>manual</src.rf>

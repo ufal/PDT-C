@@ -415,7 +415,10 @@
 <LM>w#w-ln94211-42-p2s2w24</LM>
 </w.rf>
 <form>KGB</form>
-<tag lemma="KGB_:B_;K_;p_^(Sov._státní_tajná_bezpečnost)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="KGB_:B_;K_;p_^(Sov._státní_tajná_bezpečnost)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="KGB_:B_;K_^(Sov._státní_tajná_bezpečnost)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94211-42-p2s2w25">
 <src.rf>manual</src.rf>
@@ -439,7 +442,10 @@
 <LM>w#w-ln94211-42-p2s2w27</LM>
 </w.rf>
 <form>atd</form>
-<tag lemma="atd-1_:B_^(a_tak_dále)" src="orig" selected="1">Db------------8</tag>
+<tag>
+<AM lemma="atd-1_:B_^(a_tak_dále)" src="orig">Db------------8</AM>
+<AM lemma="atd-1_:B_^(a_tak_dále)" src="manual" selected="1">Db-------------</AM>
+</tag>
 </m>
 <m id="m-ln94211-42-p2s2w28">
 <src.rf>manual</src.rf>
@@ -643,7 +649,10 @@
 <LM>w#w-ln94211-42-p2s4w8</LM>
 </w.rf>
 <form>DAK</form>
-<tag lemma="DAK_:B_;K" src="auto" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="DAK_:B_;K" src="auto">NNXXX-----A---8</AM>
+<AM lemma="DAK-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln94211-42-p2s4w9">
 <src.rf>manual</src.rf>
@@ -789,7 +798,10 @@
 <LM>w#w-ln94211-42-p2s5w11</LM>
 </w.rf>
 <form>ing</form>
-<tag lemma="Ing-1_:B_^(inženýr)" src="orig" selected="1">NNMXX-----A---8</tag>
+<tag>
+<AM lemma="Ing-1_:B_^(inženýr)" src="orig">NNMXX-----A---8</AM>
+<AM lemma="Ing_:B_^(inženýr)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94211-42-p2s5w12">
 <src.rf>manual</src.rf>
@@ -1113,7 +1125,10 @@
 <LM>w#w-ln94211-42-p2s7w1</LM>
 </w.rf>
 <form>Více</form>
-<tag lemma="hodně-2" src="auto" selected="1">Dg-------2A----</tag>
+<tag>
+<AM lemma="hodně-2" src="auto">Dg-------2A----</AM>
+<AM lemma="hodně-3" src="manual" selected="1">Dg-------2A----</AM>
+</tag>
 </m>
 <m id="m-ln94211-42-p2s7w2">
 <src.rf>manual</src.rf>
@@ -1217,7 +1232,10 @@
 <LM>w#w-ln94211-42-p2s7w14</LM>
 </w.rf>
 <form>TV</form>
-<tag lemma="televize_:B" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="televize_:B" src="orig">NNFXX-----A---8</AM>
+<AM lemma="televize" src="manual" selected="1">NNFXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln94211-42-p2s7w15">
 <src.rf>manual</src.rf>
@@ -1281,7 +1299,10 @@
 <LM>w#w-ln94211-42-p2s7w22</LM>
 </w.rf>
 <form>A</form>
-<tag lemma="A-0_:B_;Y" src="orig" selected="1">NNMXX-----A---8</tag>
+<tag>
+<AM lemma="A-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
+<AM lemma="A-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln94211-42-p2s7w23">
 <src.rf>manual</src.rf>

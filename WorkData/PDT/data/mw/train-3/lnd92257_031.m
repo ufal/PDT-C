@@ -209,7 +209,10 @@
 <LM>w#w-lnd92257-031-p3s2w15</LM>
 </w.rf>
 <form>tzv</form>
-<tag lemma="takzvaný_:B" src="orig" selected="1">AAXXX----1A---8</tag>
+<tag>
+<AM lemma="takzvaný_:B" src="orig">AAXXX----1A---8</AM>
+<AM lemma="takzvaný" src="manual" selected="1">AAXXX----1A---8</AM>
+</tag>
 </m>
 <m id="m-lnd92257-031-p3s2w16">
 <src.rf>manual</src.rf>
@@ -517,7 +520,7 @@
 <form>prsou</form>
 <tag>
 <AM lemma="prs" src="orig">NNFP6-----A----</AM>
-<AM lemma="prsa" src="auto" recommended="1">NNNP2-----A---1</AM>
+<AM lemma="prsa" src="auto" recommended="1" selected="1">NNNP2-----A---1</AM>
 <AM lemma="prsa" src="auto">NNNP6-----A---1</AM>
 </tag>
 </m>
@@ -628,6 +631,7 @@
 <tag>
 <AM lemma="cm-1`centimetr_:B" src="orig">NNIXX-----A---8</AM>
 <AM lemma="centimetr_:B" src="auto" recommended="1">NNIXX-----A---8</AM>
+<AM lemma="centimetr" src="manual" selected="1">NNIXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-lnd92257-031-p3s4w13">
@@ -1048,7 +1052,10 @@
 <LM>w#w-lnd92257-031-p3s6w20</LM>
 </w.rf>
 <form>MARA</form>
-<tag lemma="mara_;L" src="orig" selected="1">NNFS1-----A----</tag>
+<tag>
+<AM lemma="mara_;L" src="orig">NNFS1-----A----</AM>
+<AM lemma="MARA-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-lnd92257-031-p3s6w21">
 <src.rf>manual</src.rf>
@@ -1056,7 +1063,10 @@
 <LM>w#w-lnd92257-031-p3s6w21</LM>
 </w.rf>
 <form>OSIEK</form>
-<tag lemma="OSIEK_;R" src="orig" selected="1">NNXXX-----A----</tag>
+<tag>
+<AM lemma="OSIEK_;R" src="orig">NNXXX-----A----</AM>
+<AM lemma="OSIEK-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-lnd92257-031-p3s6w22">
 <src.rf>manual</src.rf>

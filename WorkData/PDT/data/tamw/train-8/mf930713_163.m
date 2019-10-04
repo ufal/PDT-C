@@ -71,7 +71,7 @@
 </w.rf>
 <form>les</form>
 <tag>
-<AM lemma="les-99_:B_;S" src="orig">NNXXX-----A---8</AM>
+<AM lemma="les-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</AM>
 <AM lemma="le-1_,t_^(franc._člen,_ne_v_názvech)" src="auto">XX-------------</AM>
 <AM lemma="les" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="les" src="auto">NNIS4-----A----</AM>
@@ -217,7 +217,7 @@
 <form>Přesto</form>
 <tag>
 <AM lemma="přesto" src="orig">Dg-------1A----</AM>
-<AM lemma="přesto-1" src="auto" recommended="1">Db-------------</AM>
+<AM lemma="přesto-1" src="auto" recommended="1" selected="1">Db-------------</AM>
 <AM lemma="přesto-2" src="auto">J^-------------</AM>
 </tag>
 </m>
@@ -581,7 +581,7 @@
 </w.rf>
 <form>les</form>
 <tag>
-<AM lemma="les-99_:B_;S" src="orig">NNXXX-----A---8</AM>
+<AM lemma="les-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</AM>
 <AM lemma="le-1_,t_^(franc._člen,_ne_v_názvech)" src="auto">XX-------------</AM>
 <AM lemma="les" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="les" src="auto">NNIS4-----A----</AM>
@@ -813,7 +813,10 @@
 <LM>w#w-mf930713-163-p2s2w12</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-2" src="auto" selected="1">Dg-------2A----</tag>
+<tag>
+<AM lemma="hodně-2" src="auto">Dg-------2A----</AM>
+<AM lemma="hodně-3" src="manual" selected="1">Dg-------2A----</AM>
+</tag>
 </m>
 <m id="m-mf930713-163-p2s2w13">
 <src.rf>manual</src.rf>
@@ -879,7 +882,10 @@
 <LM>w#w-mf930713-163-p2s3w2</LM>
 </w.rf>
 <form>sice</form>
-<tag lemma="sice-2" src="auto" selected="1">Db-------------</tag>
+<tag>
+<AM lemma="sice-2" src="auto">Db-------------</AM>
+<AM lemma="sice-1_^(spojka;_připouští_se_určitá_fakta)" src="manual" selected="1">J^-------------</AM>
+</tag>
 </m>
 <m id="m-mf930713-163-p2s3w3">
 <src.rf>manual</src.rf>
@@ -1123,7 +1129,10 @@
 <LM>w#w-mf930713-163-p3s1Aw6</LM>
 </w.rf>
 <form>milionu</form>
-<tag lemma="milión`1000000" src="orig" selected="1">NNIS2-----A----</tag>
+<tag>
+<AM lemma="milión`1000000" src="orig">NNIS2-----A----</AM>
+<AM lemma="milion`1000000_,s_^(^DD**milión)" src="manual" selected="1">NNIS2-----A----</AM>
+</tag>
 </m>
 </s>
 <s id="m-mf930713-163-p3s1B">
@@ -1151,7 +1160,7 @@
 </w.rf>
 <form>les</form>
 <tag>
-<AM lemma="les-99_:B_;S" src="orig">NNXXX-----A---8</AM>
+<AM lemma="les-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</AM>
 <AM lemma="le-1_,t_^(franc._člen,_ne_v_názvech)" src="auto">XX-------------</AM>
 <AM lemma="les" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="les" src="auto">NNIS4-----A----</AM>
@@ -1452,7 +1461,7 @@
 <AM lemma="drogerie" src="auto">NNFP1-----A----</AM>
 <AM lemma="drogerie" src="auto">NNFP4-----A----</AM>
 <AM lemma="drogerie" src="auto">NNFP5-----A----</AM>
-<AM lemma="drogerie" src="auto">NNFS1-----A----</AM>
+<AM lemma="drogerie" src="auto" selected="1">NNFS1-----A----</AM>
 <AM lemma="drogerie" src="auto">NNFS2-----A----</AM>
 <AM lemma="drogerie" src="auto">NNFS5-----A----</AM>
 <AM lemma="drogérie" src="auto">NNFP1-----A----</AM>
@@ -1585,7 +1594,10 @@
 <LM>w#w-mf930713-163-p3s4w6</LM>
 </w.rf>
 <form>milionu</form>
-<tag lemma="milión`1000000" src="orig" selected="1">NNIS2-----A----</tag>
+<tag>
+<AM lemma="milión`1000000" src="orig">NNIS2-----A----</AM>
+<AM lemma="milion`1000000_,s_^(^DD**milión)" src="manual" selected="1">NNIS2-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930713-163-p3s4w7">
 <src.rf>manual</src.rf>

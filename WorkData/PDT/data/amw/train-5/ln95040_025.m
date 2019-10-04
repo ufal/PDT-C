@@ -101,7 +101,10 @@
 <LM>w#w-ln95040-025-p2s1Aw7</LM>
 </w.rf>
 <form>Lubin</form>
-<tag lemma="Lubina_;G" src="orig" selected="1">NNFP2-----A----</tag>
+<tag>
+<AM lemma="Lubina_;G" src="orig">NNFP2-----A----</AM>
+<AM lemma="Lubin_;G" src="manual" selected="1">NNIS4-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95040-025-p2s1Aw8">
 <src.rf>manual</src.rf>
@@ -313,7 +316,11 @@
 <LM>w#w-ln95040-025-p2s1Cw21</LM>
 </w.rf>
 <form>Zaglebie</form>
-<tag lemma="Zaglebie_;K_,t" src="orig" selected="1">NNNXX-----A----</tag>
+<tag>
+<AM lemma="Zaglebie_;K_,t" src="orig">NNNXX-----A----</AM>
+<AM lemma="Zaglebie_;K" src="manual">NNNXX-----A----</AM>
+<AM lemma="Zaglebie-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln95040-025-p2s1Cw22">
 <src.rf>manual</src.rf>
@@ -321,7 +328,10 @@
 <LM>w#w-ln95040-025-p2s1Cw22</LM>
 </w.rf>
 <form>Lubin</form>
-<tag lemma="Lubina_;G" src="orig" selected="1">NNFP2-----A----</tag>
+<tag>
+<AM lemma="Lubina_;G" src="orig">NNFP2-----A----</AM>
+<AM lemma="Lubin_;G" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95040-025-p2s1Cw23">
 <src.rf>manual</src.rf>
@@ -613,7 +623,11 @@
 <LM>w#w-ln95040-025-p2s2w11</LM>
 </w.rf>
 <form>Gabriel</form>
-<tag lemma="Gabriel_;Y" src="orig" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Gabriel_;Y" src="orig">NNMS1-----A----</AM>
+<AM lemma="Gabriel_;S_;Y" src="manual">NNMS1-----A----</AM>
+<AM lemma="Gabriel_;Y_;S" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95040-025-p2s2w12">
 <src.rf>manual</src.rf>
@@ -841,7 +855,7 @@
 <form>Czajkowského</form>
 <tag>
 <AM lemma="Czajkowský_;S" src="orig">NNMS2-----A----</AM>
-<AM lemma="Czajkowski_;S" src="auto" recommended="1">NNMS2-----A----</AM>
+<AM lemma="Czajkowski_;S" src="auto" recommended="1" selected="1">NNMS2-----A----</AM>
 <AM lemma="Czajkowski_;S" src="auto">NNMS4-----A----</AM>
 </tag>
 </m>
@@ -1021,7 +1035,10 @@
 <LM>w#w-ln95040-025-p2s4Aw10</LM>
 </w.rf>
 <form>Samec</form>
-<tag lemma="samec" src="orig" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="samec" src="orig">NNMS1-----A----</AM>
+<AM lemma="Samec_;S" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95040-025-p2s4Aw11">
 <src.rf>manual</src.rf>
@@ -1316,8 +1333,9 @@
 </w.rf>
 <form>Lubin</form>
 <tag>
-<AM lemma="Lubin_;G" src="orig">NNIS1-----A----</AM>
+<AM lemma="Lubin_;G" src="orig" selected="1">NNIS1-----A----</AM>
 <AM lemma="Lubina_;G" src="auto" recommended="1">NNFP2-----A----</AM>
+<AM lemma="Lubin_;G_;K" src="manual">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95040-025-p2s6w2">
@@ -1326,7 +1344,10 @@
 <LM>w#w-ln95040-025-p2s6w2</LM>
 </w.rf>
 <form>ani</form>
-<tag lemma="ani-1" src="auto" selected="1">J^-------------</tag>
+<tag>
+<AM lemma="ani-1" src="auto">J^-------------</AM>
+<AM lemma="ani-2" src="manual" selected="1">TT-------------</AM>
+</tag>
 </m>
 <m id="m-ln95040-025-p2s6w3">
 <src.rf>manual</src.rf>
@@ -1578,7 +1599,10 @@
 <LM>w#w-ln95040-025-p2s8w4</LM>
 </w.rf>
 <form>Samce</form>
-<tag lemma="samec" src="orig" selected="1">NNMS2-----A----</tag>
+<tag>
+<AM lemma="samec" src="orig">NNMS2-----A----</AM>
+<AM lemma="Samec_;S" src="manual" selected="1">NNMS2-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95040-025-p2s8w5">
 <src.rf>manual</src.rf>
@@ -1758,7 +1782,11 @@
 <LM>w#w-ln95040-025-p3s5w3</LM>
 </w.rf>
 <form>Jirků</form>
-<tag lemma="Jirka_;Y" src="orig" selected="1">NNMP2-----A----</tag>
+<tag>
+<AM lemma="Jirka_;Y" src="orig">NNMP2-----A----</AM>
+<AM lemma="Jirků-2_;S" src="manual">NNMSX-----A----</AM>
+<AM lemma="Jirků-1_;S" src="manual" selected="1">NNMXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95040-025-p3s5w4">
 <src.rf>manual</src.rf>
@@ -1776,7 +1804,10 @@
 <LM>w#w-ln95040-025-p3s6w1</LM>
 </w.rf>
 <form>ŽK</form>
-<tag lemma="ŽK-1_:B_^(sport.:_žlutá_karta)" src="auto" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ŽK-1_:B_^(sport.:_žlutá_karta)" src="auto">NNFXX-----A---8</AM>
+<AM lemma="ŽK-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln95040-025-p3s6w2">
 <src.rf>manual</src.rf>
@@ -2186,7 +2217,7 @@
 <form>Bělorusy</form>
 <tag>
 <AM lemma="bělorus" src="orig">NNMP4-----A----</AM>
-<AM lemma="Bělorus_;E" src="auto" recommended="1">NNMP4-----A----</AM>
+<AM lemma="Bělorus_;E" src="auto" recommended="1" selected="1">NNMP4-----A----</AM>
 <AM lemma="Bělorus_;E" src="auto">NNMP7-----A----</AM>
 </tag>
 </m>

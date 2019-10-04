@@ -149,7 +149,10 @@
 <LM>w#w-ln94211-130-p2s1Aw12</LM>
 </w.rf>
 <form>milionů</form>
-<tag lemma="milión`1000000" src="orig" selected="1">NNIP2-----A----</tag>
+<tag>
+<AM lemma="milión`1000000" src="orig">NNIP2-----A----</AM>
+<AM lemma="milion`1000000_,s_^(^DD**milión)" src="manual" selected="1">NNIP2-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94211-130-p2s1Aw13">
 <src.rf>manual</src.rf>
@@ -1263,7 +1266,10 @@
 <LM>w#w-ln94211-130-p3s4w31</LM>
 </w.rf>
 <form>např</form>
-<tag lemma="například_:B" src="orig" selected="1">Db------------8</tag>
+<tag>
+<AM lemma="například_:B" src="orig">Db------------8</AM>
+<AM lemma="například" src="manual" selected="1">Db------------8</AM>
+</tag>
 </m>
 <m id="m-ln94211-130-p3s4w32">
 <src.rf>manual</src.rf>
@@ -2220,6 +2226,7 @@
 <tag>
 <AM lemma="Kč" src="orig">NNFXX-----A----</AM>
 <AM lemma="Kč_:B" src="auto" recommended="1">NNFXX-----A---8</AM>
+<AM lemma="Kč_:B" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94211-130-p5s2w8">
@@ -2499,7 +2506,7 @@
 <tag>
 <AM lemma="tedy" src="orig">Db-------------</AM>
 <AM lemma="tedy-1" src="auto">TT-------------</AM>
-<AM lemma="tedy-2" src="auto" recommended="1">J^-------------</AM>
+<AM lemma="tedy-2" src="auto" recommended="1" selected="1">J^-------------</AM>
 </tag>
 </m>
 <m id="m-ln94211-130-p5s4w22">
@@ -2817,6 +2824,7 @@
 <tag>
 <AM lemma="Kč" src="orig">NNFXX-----A----</AM>
 <AM lemma="Kč_:B" src="auto" recommended="1">NNFXX-----A---8</AM>
+<AM lemma="Kč_:B" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94211-130-p6s1w30">
@@ -2894,6 +2902,7 @@
 <tag>
 <AM lemma="Kč" src="orig">NNFXX-----A----</AM>
 <AM lemma="Kč_:B" src="auto" recommended="1">NNFXX-----A---8</AM>
+<AM lemma="Kč_:B" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94211-130-p6s2w9">
@@ -2984,7 +2993,10 @@
 <LM>w#w-ln94211-130-p6s3w8</LM>
 </w.rf>
 <form>ha</form>
-<tag lemma="ha-1`hektar_:B" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="ha-1`hektar_:B" src="orig">NNIXX-----A---8</AM>
+<AM lemma="hektar" src="manual" selected="1">NNIXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln94211-130-p6s3w9">
 <src.rf>manual</src.rf>
@@ -3082,7 +3094,10 @@
 <LM>w#w-ln94211-130-p6s4w11</LM>
 </w.rf>
 <form>provedl</form>
-<tag lemma="provést" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag>
+<AM lemma="provést" src="orig">VpYS---XR-AA---</AM>
+<AM lemma="provést_:W" src="manual" selected="1">VpYS---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-ln94211-130-p6s4w12">
 <src.rf>manual</src.rf>
@@ -3318,7 +3333,10 @@
 <LM>w#w-ln94211-130-p7s1w13</LM>
 </w.rf>
 <form>milionů</form>
-<tag lemma="milión`1000000" src="orig" selected="1">NNIP2-----A----</tag>
+<tag>
+<AM lemma="milión`1000000" src="orig">NNIP2-----A----</AM>
+<AM lemma="milion`1000000_,s_^(^DD**milión)" src="manual" selected="1">NNIP2-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94211-130-p7s1w14">
 <src.rf>manual</src.rf>
@@ -3416,7 +3434,10 @@
 <LM>w#w-ln94211-130-p7s2w10</LM>
 </w.rf>
 <form>ČR</form>
-<tag lemma="ČR-1_:B_;G_^(Česká_republika)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94211-130-p7s2w11">
 <src.rf>manual</src.rf>
@@ -3488,7 +3509,10 @@
 <LM>w#w-ln94211-130-p7s2w19</LM>
 </w.rf>
 <form>nejvíce</form>
-<tag lemma="hodně-2" src="auto" selected="1">Dg-------3A----</tag>
+<tag>
+<AM lemma="hodně-2" src="auto">Dg-------3A----</AM>
+<AM lemma="hodně-3" src="manual" selected="1">Dg-------3A----</AM>
+</tag>
 </m>
 <m id="m-ln94211-130-p7s2w20">
 <src.rf>manual</src.rf>
@@ -3850,7 +3874,10 @@
 <LM>w#w-ln94211-130-p8s1w36</LM>
 </w.rf>
 <form>apod</form>
-<tag lemma="apod_:B_^(a_podobně)" src="auto" selected="1">Db------------8</tag>
+<tag>
+<AM lemma="apod_:B_^(a_podobně)" src="auto">Db------------8</AM>
+<AM lemma="apod_:B_^(a_podobně)" src="manual" selected="1">Db-------------</AM>
+</tag>
 </m>
 <m id="m-ln94211-130-p8s1w37">
 <src.rf>manual</src.rf>

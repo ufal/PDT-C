@@ -213,7 +213,10 @@
 <LM>w#w-ln95040-033-p2s1w20</LM>
 </w.rf>
 <form>km</form>
-<tag lemma="km-1`kilometr_:B" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="km-1`kilometr_:B" src="orig">NNIXX-----A---8</AM>
+<AM lemma="kilometr" src="manual" selected="1">NNIXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln95040-033-p2s1w21">
 <src.rf>manual</src.rf>
@@ -254,7 +257,10 @@
 <LM>w#w-ln95040-033-p2s1w25</LM>
 </w.rf>
 <form>min</form>
-<tag lemma="minuta_:B" src="auto" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="minuta_:B" src="auto">NNFXX-----A---8</AM>
+<AM lemma="minuta" src="manual" selected="1">NNFXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln95040-033-p2s1w26">
 <src.rf>manual</src.rf>
@@ -443,7 +449,10 @@
 <LM>w#w-ln95040-033-p2s3w7</LM>
 </w.rf>
 <form>zapsal</form>
-<tag lemma="zapsat" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag>
+<AM lemma="zapsat" src="orig">VpYS---XR-AA---</AM>
+<AM lemma="zapsat_:W" src="manual" selected="1">VpYS---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-ln95040-033-p2s3w8">
 <src.rf>manual</src.rf>
@@ -524,6 +533,7 @@
 <AM lemma="mimo-1_:B" src="auto">RR--4---------8</AM>
 <AM lemma="minuta_:B" src="auto">NNFXX-----A---8</AM>
 <AM lemma="město_:B" src="auto">NNNXX-----A---8</AM>
+<AM lemma="metr" src="manual" selected="1">NNIXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-ln95040-033-p2s3w17">
@@ -895,6 +905,7 @@
 <AM lemma="mimo-1_:B" src="auto">RR--4---------8</AM>
 <AM lemma="minuta_:B" src="auto">NNFXX-----A---8</AM>
 <AM lemma="město_:B" src="auto">NNNXX-----A---8</AM>
+<AM lemma="metr" src="manual" selected="1">NNIXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-ln95040-033-p2s6w13">
@@ -937,7 +948,10 @@
 <LM>w#w-ln95040-033-p2s7w2</LM>
 </w.rf>
 <form>Rodion</form>
-<tag lemma="Rodion_;S" src="auto" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Rodion_;S" src="auto">NNMS1-----A----</AM>
+<AM lemma="Rodion_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95040-033-p2s7w3">
 <src.rf>manual</src.rf>
@@ -1003,6 +1017,7 @@
 <AM lemma="mimo-1_:B" src="auto">RR--4---------8</AM>
 <AM lemma="minuta_:B" src="auto">NNFXX-----A---8</AM>
 <AM lemma="město_:B" src="auto">NNNXX-----A---8</AM>
+<AM lemma="metr" src="manual" selected="1">NNIXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-ln95040-033-p2s7w10">

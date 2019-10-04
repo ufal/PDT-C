@@ -223,7 +223,10 @@
 <LM>w#w-ln94200-94-p2s2w13</LM>
 </w.rf>
 <form>nesrovnalosti</form>
-<tag lemma="nesrovnalost_^(*3ý)" src="orig" selected="1">NNFP4-----A----</tag>
+<tag>
+<AM lemma="nesrovnalost_^(*3ý)" src="orig">NNFP4-----A----</AM>
+<AM lemma="srovnalost_^(*3ý)" src="manual" selected="1">NNFP4-----N----</AM>
+</tag>
 </m>
 <m id="m-ln94200-94-p2s2w14">
 <src.rf>manual</src.rf>

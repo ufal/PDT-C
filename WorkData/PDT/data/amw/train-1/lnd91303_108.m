@@ -127,7 +127,7 @@
 <form>nejen</form>
 <tag>
 <AM lemma="nejen" src="orig">TT-------------</AM>
-<AM lemma="nejen" src="auto" recommended="1">Db-------------</AM>
+<AM lemma="nejen" src="auto" recommended="1" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m-lnd91303-108-p1s2w3">
@@ -216,7 +216,10 @@
 <LM>w#w-lnd91303-108-p1s2w13</LM>
 </w.rf>
 <form>nelíčenou</form>
-<tag lemma="líčený_^(*3it)" src="orig" selected="1">AAFS4----1N----</tag>
+<tag>
+<AM lemma="líčený_^(*3it)" src="orig">AAFS4----1N----</AM>
+<AM lemma="nelíčený" src="manual" selected="1">AAFS4----1A----</AM>
+</tag>
 </m>
 <m id="m-lnd91303-108-p1s2w14">
 <src.rf>manual</src.rf>
@@ -282,7 +285,10 @@
 <LM>w#w-lnd91303-108-p2s1w5</LM>
 </w.rf>
 <form>LN</form>
-<tag lemma="LN-1_:B_;R_^(Lidové_noviny,_deník)" src="orig" selected="1">NNFPX-----A---8</tag>
+<tag>
+<AM lemma="LN-1_:B_;R_^(Lidové_noviny,_deník)" src="orig">NNFPX-----A---8</AM>
+<AM lemma="LN-1_:B_;K_;R_^(Lidové_noviny)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 </s>
 </mdata>

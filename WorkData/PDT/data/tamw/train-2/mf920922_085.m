@@ -101,7 +101,10 @@
 <LM>w#w-mf920922-085-p1s1Bw5</LM>
 </w.rf>
 <form>ODS</form>
-<tag lemma="ODS-1_:B_;K_;p_^(Občanská_demokratická_strana)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ODS-1_:B_;K_;p_^(Občanská_demokratická_strana)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ODS-1_:B_;K_^(Občanská_demokratická_strana)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920922-085-p1s1Bw6">
 <src.rf>manual</src.rf>
@@ -183,7 +186,10 @@
 <LM>w#w-mf920922-085-p2s1w6</LM>
 </w.rf>
 <form>ČNR</form>
-<tag lemma="ČNR-1_:B_;K_^(Česká_národní_rada)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ČNR-1_:B_;K_^(Česká_národní_rada)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČNR-1_:B_;K_^(Česká_národní_rada)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920922-085-p2s1w7">
 <src.rf>manual</src.rf>
@@ -223,7 +229,10 @@
 <LM>w#w-mf920922-085-p2s1w11</LM>
 </w.rf>
 <form>nesouhlas</form>
-<tag lemma="nesouhlas" src="orig" selected="1">NNIS4-----A----</tag>
+<tag>
+<AM lemma="nesouhlas" src="orig" selected="1">NNIS4-----A----</AM>
+<AM lemma="souhlas" src="manual">NNIS4-----N----</AM>
+</tag>
 </m>
 <m id="m-mf920922-085-p2s1w12">
 <src.rf>manual</src.rf>
@@ -657,7 +666,10 @@
 <LM>w#w-mf920922-085-p2s5w10</LM>
 </w.rf>
 <form>straně</form>
-<tag lemma="strana-1_^(v_prostoru)" src="orig" selected="1">NNFS6-----A----</tag>
+<tag>
+<AM lemma="strana-1_^(v_prostoru)" src="orig">NNFS6-----A----</AM>
+<AM lemma="strana" src="manual" selected="1">NNFS6-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920922-085-p2s5w11">
 <src.rf>manual</src.rf>
@@ -885,7 +897,10 @@
 <LM>w#w-mf920922-085-p2s7w6</LM>
 </w.rf>
 <form>sice</form>
-<tag lemma="sice-2" src="auto" selected="1">Db-------------</tag>
+<tag>
+<AM lemma="sice-2" src="auto">Db-------------</AM>
+<AM lemma="sice-1_^(spojka;_připouští_se_určitá_fakta)" src="manual" selected="1">J^-------------</AM>
+</tag>
 </m>
 <m id="m-mf920922-085-p2s7w7">
 <src.rf>manual</src.rf>
@@ -919,7 +934,7 @@
 <form>jedině</form>
 <tag>
 <AM lemma="jedině_^(*1ý)" src="orig">Dg-------1A----</AM>
-<AM lemma="jedině" src="auto" recommended="1">Db-------------</AM>
+<AM lemma="jedině" src="auto" recommended="1" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m-mf920922-085-p2s7w11">

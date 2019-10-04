@@ -72,7 +72,7 @@
 <AM lemma="štýrský" src="auto">AAIP1----1A---6</AM>
 <AM lemma="štýrský" src="auto">AAIP4----1A---6</AM>
 <AM lemma="štýrský" src="auto">AAIP5----1A---6</AM>
-<AM lemma="štýrský" src="auto" recommended="1">AAIS1----1A----</AM>
+<AM lemma="štýrský" src="auto" recommended="1" selected="1">AAIS1----1A----</AM>
 <AM lemma="štýrský" src="auto">AAIS4----1A----</AM>
 <AM lemma="štýrský" src="auto">AAIS5----1A----</AM>
 <AM lemma="štýrský" src="auto">AAMP1----1A---6</AM>

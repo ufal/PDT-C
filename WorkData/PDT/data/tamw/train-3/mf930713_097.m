@@ -61,7 +61,10 @@
 <LM>w#w-mf930713-097-p2s1Aw3</LM>
 </w.rf>
 <form>ina</form>
-<tag lemma="ina-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="ina-99_:B_;S" src="orig">NNXXX-----A---8</AM>
+<AM lemma="ina-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930713-097-p2s1Aw4">
 <src.rf>manual</src.rf>
@@ -379,7 +382,7 @@
 <AM lemma="jedoucí-1_^(pohybovat_se,_ne_však_chůzí)_(*7t-1)" src="auto">AGIP6-----A----</AM>
 <AM lemma="jedoucí-1_^(pohybovat_se,_ne_však_chůzí)_(*7t-1)" src="auto">AGMP2-----A----</AM>
 <AM lemma="jedoucí-1_^(pohybovat_se,_ne_však_chůzí)_(*7t-1)" src="auto">AGMP6-----A----</AM>
-<AM lemma="jedoucí-1_^(pohybovat_se,_ne_však_chůzí)_(*7t-1)" src="auto">AGNP2-----A----</AM>
+<AM lemma="jedoucí-1_^(pohybovat_se,_ne_však_chůzí)_(*7t-1)" src="auto" selected="1">AGNP2-----A----</AM>
 <AM lemma="jedoucí-1_^(pohybovat_se,_ne_však_chůzí)_(*7t-1)" src="auto">AGNP6-----A----</AM>
 <AM lemma="jedoucí_^(konzumovat_jídlo;_přech.)_(*6íst)" src="auto">AGFP2-----A----</AM>
 <AM lemma="jedoucí_^(konzumovat_jídlo;_přech.)_(*6íst)" src="auto">AGFP6-----A----</AM>
@@ -617,7 +620,10 @@
 <LM>w#w-mf930713-097-p3s1w6</LM>
 </w.rf>
 <form>koncem</form>
-<tag lemma="konec" src="orig" selected="1">NNIS7-----A----</tag>
+<tag>
+<AM lemma="konec" src="orig">NNIS7-----A----</AM>
+<AM lemma="koncem" src="manual" selected="1">RR--2----------</AM>
+</tag>
 </m>
 <m id="m-mf930713-097-p3s1w7">
 <src.rf>manual</src.rf>
@@ -927,7 +933,10 @@
 <LM>w#w-mf930713-097-p3s4w16</LM>
 </w.rf>
 <form>bílého</form>
-<tag lemma="bílý" src="orig" selected="1">AAIS2----1A----</tag>
+<tag>
+<AM lemma="bílý" src="orig">AAIS2----1A----</AM>
+<AM lemma="bílý_;o" src="manual" selected="1">AAIS2----1A----</AM>
+</tag>
 </m>
 <m id="m-mf930713-097-p3s4w17">
 <src.rf>manual</src.rf>

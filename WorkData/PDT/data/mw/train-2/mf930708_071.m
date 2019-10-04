@@ -784,7 +784,10 @@
 <LM>w#w-mf930708-071-p4s1w8</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-2" src="auto" selected="1">Dg-------2A----</tag>
+<tag>
+<AM lemma="hodně-2" src="auto">Dg-------2A----</AM>
+<AM lemma="více_^(více_+_2._p.,_více_peněz)" src="manual" selected="1">Ca--1----------</AM>
+</tag>
 </m>
 <m id="m-mf930708-071-p4s1w9">
 <src.rf>manual</src.rf>
@@ -954,7 +957,10 @@
 <LM>w#w-mf930708-071-p4s2w9</LM>
 </w.rf>
 <form>Říman</form>
-<tag lemma="Říman_;E" src="auto" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Říman_;E" src="auto">NNMS1-----A----</AM>
+<AM lemma="Říman_;E_;S" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930708-071-p4s2w10">
 <src.rf>manual</src.rf>
@@ -1066,7 +1072,10 @@
 <LM>w#w-mf930708-071-p4s2w23</LM>
 </w.rf>
 <form>komunismu</form>
-<tag lemma="komunismus" src="orig" selected="1">NNIS2-----A----</tag>
+<tag>
+<AM lemma="komunismus" src="orig">NNIS2-----A----</AM>
+<AM lemma="komunismus_,s_^(^DD**komunizmus)" src="manual" selected="1">NNIS2-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930708-071-p4s2w24">
 <src.rf>manual</src.rf>

@@ -86,7 +86,7 @@
 <tag>
 <AM lemma="Tokyo_;G" src="orig">NNNS6-----A----</AM>
 <AM lemma="Tokio_;G" src="auto">NNNS3-----A----</AM>
-<AM lemma="Tokio_;G" src="auto" recommended="1">NNNS6-----A----</AM>
+<AM lemma="Tokio_;G" src="auto" recommended="1" selected="1">NNNS6-----A----</AM>
 </tag>
 </m>
 </s>
@@ -174,7 +174,7 @@
 <tag>
 <AM lemma="Tokyo_;G" src="orig">NNNS6-----A----</AM>
 <AM lemma="Tokio_;G" src="auto">NNNS3-----A----</AM>
-<AM lemma="Tokio_;G" src="auto" recommended="1">NNNS6-----A----</AM>
+<AM lemma="Tokio_;G" src="auto" recommended="1" selected="1">NNNS6-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95045-006-p2s1Bw9">
@@ -337,7 +337,10 @@
 <LM>w#w-ln95045-006-p2s2w12</LM>
 </w.rf>
 <form>uvedl</form>
-<tag lemma="uvést" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag>
+<AM lemma="uvést" src="orig">VpYS---XR-AA---</AM>
+<AM lemma="uvést_:W" src="manual" selected="1">VpYS---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-ln95045-006-p2s2w13">
 <src.rf>manual</src.rf>
@@ -401,7 +404,10 @@
 <LM>w#w-ln95045-006-p2s2w20</LM>
 </w.rf>
 <form>JETRO</form>
-<tag lemma="JETRO_:B_;K_,t" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="JETRO_:B_;K_,t" src="orig">NNFXX-----A---8</AM>
+<AM lemma="JETRO-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95045-006-p2s2w21">
 <src.rf>manual</src.rf>
@@ -418,7 +424,7 @@
 </w.rf>
 <form>Saito</form>
 <tag>
-<AM lemma="Saito-2_;S" src="orig">NNMS1-----A----</AM>
+<AM lemma="Saito-2_;S" src="orig" selected="1">NNMS1-----A----</AM>
 <AM lemma="Saito_;G" src="auto" recommended="1">NNNS1-----A----</AM>
 <AM lemma="Saito_;G" src="auto">NNNS4-----A----</AM>
 <AM lemma="Saito_;G" src="auto">NNNS5-----A----</AM>
@@ -634,7 +640,10 @@
 <LM>w#w-ln95045-006-p4s1w6</LM>
 </w.rf>
 <form>ČR</form>
-<tag lemma="ČR-1_:B_;G_^(Česká_republika)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95045-006-p4s1w7">
 <src.rf>manual</src.rf>
@@ -666,7 +675,10 @@
 <LM>w#w-ln95045-006-p4s1w10</LM>
 </w.rf>
 <form>M</form>
-<tag lemma="M-0_:B_;Y" src="orig" selected="1">NNMXX-----A---8</tag>
+<tag>
+<AM lemma="M-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
+<AM lemma="M-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95045-006-p4s1w11">
 <src.rf>manual</src.rf>
@@ -683,7 +695,7 @@
 </w.rf>
 <form>Saita</form>
 <tag>
-<AM lemma="Saito-2_;S" src="orig">NNMS2-----A----</AM>
+<AM lemma="Saito-2_;S" src="orig" selected="1">NNMS2-----A----</AM>
 <AM lemma="Saito_;G" src="auto">NNNP1-----A----</AM>
 <AM lemma="Saito_;G" src="auto">NNNP4-----A----</AM>
 <AM lemma="Saito_;G" src="auto">NNNP5-----A----</AM>
@@ -722,7 +734,10 @@
 <LM>w#w-ln95045-006-p4s2w2</LM>
 </w.rf>
 <form>sice</form>
-<tag lemma="sice-2" src="auto" selected="1">Db-------------</tag>
+<tag>
+<AM lemma="sice-2" src="auto">Db-------------</AM>
+<AM lemma="sice-1_^(spojka;_připouští_se_určitá_fakta)" src="manual" selected="1">J^-------------</AM>
+</tag>
 </m>
 <m id="m-ln95045-006-p4s2w3">
 <src.rf>manual</src.rf>
@@ -1134,7 +1149,10 @@
 <LM>w#w-ln95045-006-p5s1w16</LM>
 </w.rf>
 <form>dolarů</form>
-<tag lemma="dolar_;b" src="orig" selected="1">NNIP2-----A----</tag>
+<tag>
+<AM lemma="dolar_;b" src="orig">NNIP2-----A----</AM>
+<AM lemma="dolar" src="manual" selected="1">NNIP2-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95045-006-p5s1w17">
 <src.rf>manual</src.rf>
@@ -1207,7 +1225,10 @@
 <LM>w#w-ln95045-006-p5s1w25</LM>
 </w.rf>
 <form>dolarů</form>
-<tag lemma="dolar_;b" src="orig" selected="1">NNIP2-----A----</tag>
+<tag>
+<AM lemma="dolar_;b" src="orig">NNIP2-----A----</AM>
+<AM lemma="dolar" src="manual" selected="1">NNIP2-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95045-006-p5s1w26">
 <src.rf>manual</src.rf>
@@ -1249,7 +1270,10 @@
 <LM>w#w-ln95045-006-p6s1w4</LM>
 </w.rf>
 <form>JETRO</form>
-<tag lemma="JETRO_:B_;K_,t" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="JETRO_:B_;K_,t" src="orig">NNFXX-----A---8</AM>
+<AM lemma="JETRO-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95045-006-p6s1w5">
 <src.rf>manual</src.rf>

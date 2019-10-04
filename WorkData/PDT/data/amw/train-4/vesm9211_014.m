@@ -323,6 +323,7 @@
 <AM lemma="Vilm_;S" src="orig">NNMS1-----A----</AM>
 <AM lemma="Vilm_;G" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Vilm_;G" src="auto">NNIS4-----A----</AM>
+<AM lemma="Vilm-2_;S" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 </s>
@@ -700,7 +701,7 @@
 </w.rf>
 <form>Prosch</form>
 <tag>
-<AM lemma="Prosch_;S" src="orig">NNMS1-----A----</AM>
+<AM lemma="Prosch_;S" src="orig" selected="1">NNMS1-----A----</AM>
 <AM lemma="proschnout_:W" src="auto" recommended="1">VpYS---XR-AA--6</AM>
 </tag>
 </m>
@@ -763,7 +764,7 @@
 </w.rf>
 <form>Jánsky</form>
 <tag>
-<AM lemma="Jánsky_;S" src="orig">NNMS1-----A----</AM>
+<AM lemma="Jánsky_;S" src="orig" selected="1">NNMS1-----A----</AM>
 <AM lemma="jánsky_^(*1ý)" src="auto" recommended="1">Dg-------1A----</AM>
 </tag>
 </m>
@@ -877,7 +878,10 @@
 <LM>w#w-vesm9211-014-p28s1w2</LM>
 </w.rf>
 <form>Petr</form>
-<tag lemma="Petr_;Y" src="auto" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Petr_;Y" src="auto">NNMS1-----A----</AM>
+<AM lemma="Petr_;Y_;S" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 </s>
 <s id="m-vesm9211-014-p29s1">
@@ -1035,7 +1039,10 @@
 <LM>w#w-vesm9211-014-p38s1w1</LM>
 </w.rf>
 <form>J</form>
-<tag lemma="J-0_:B_;Y" src="orig" selected="1">NNMXX-----A---8</tag>
+<tag>
+<AM lemma="J-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
+<AM lemma="J-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-vesm9211-014-p38s1w2">
 <src.rf>manual</src.rf>
@@ -1375,7 +1382,7 @@
 <form>USA</form>
 <tag>
 <AM lemma="USA_;G" src="orig">NNIPX-----A----</AM>
-<AM lemma="USA_:B_;K_,t_^(United_States_of_America)" src="auto" recommended="1">NNIPX-----A---8</AM>
+<AM lemma="USA_:B_;K_,t_^(United_States_of_America)" src="auto" recommended="1" selected="1">NNIPX-----A---8</AM>
 </tag>
 </m>
 </s>
@@ -1426,6 +1433,7 @@
 <AM lemma="konzervatismus" src="orig">NNIS1-----A----</AM>
 <AM lemma="konzervatizmus" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="konzervatizmus" src="auto">NNIS4-----A----</AM>
+<AM lemma="konzervatismus_,s_^(^DD**konzervatizmus)" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9211-014-p51s1w3">
@@ -1914,7 +1922,7 @@
 <form>Kaddish</form>
 <tag>
 <AM lemma="Kaddish_;R_,t" src="orig">NNISX-----A----</AM>
-<AM lemma="kaddish_,t_^(modlitba_za_zemřelého)" src="auto" recommended="1">NNNSX-----A----</AM>
+<AM lemma="kaddish_,t_^(modlitba_za_zemřelého)" src="auto" recommended="1" selected="1">NNNSX-----A----</AM>
 </tag>
 </m>
 </s>

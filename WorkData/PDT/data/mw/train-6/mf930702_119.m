@@ -69,7 +69,10 @@
 <LM>w#w-mf930702-119-p2s1w3</LM>
 </w.rf>
 <form>str</form>
-<tag lemma="strana-4_:B" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="strana-4_:B" src="orig">NNFXX-----A---8</AM>
+<AM lemma="strana" src="manual" selected="1">NNFXX-----A---9</AM>
+</tag>
 </m>
 <m id="m-mf930702-119-p2s1w4">
 <src.rf>manual</src.rf>
@@ -151,7 +154,10 @@
 <LM>w#w-mf930702-119-p3s1w8</LM>
 </w.rf>
 <form>mít</form>
-<tag lemma="mít" src="orig" selected="1">Vf--------A----</tag>
+<tag>
+<AM lemma="mít" src="orig">Vf--------A----</AM>
+<AM lemma="mít_:T" src="manual" selected="1">Vf--------A----</AM>
+</tag>
 </m>
 <m id="m-mf930702-119-p3s1w9">
 <src.rf>manual</src.rf>
@@ -159,7 +165,10 @@
 <LM>w#w-mf930702-119-p3s1w9</LM>
 </w.rf>
 <form>otevřeno</form>
-<tag lemma="otevřít" src="orig" selected="1">VsNS---XX-AP---</tag>
+<tag>
+<AM lemma="otevřít" src="orig">VsNS---XX-AP---</AM>
+<AM lemma="otevřít_:W" src="manual" selected="1">VsNS---XX-AP---</AM>
+</tag>
 </m>
 <m id="m-mf930702-119-p3s1w10">
 <src.rf>manual</src.rf>
@@ -467,7 +476,10 @@
 <LM>w#w-mf930702-119-p4s1w3</LM>
 </w.rf>
 <form>zpřístupněn</form>
-<tag lemma="zpřístupnit" src="orig" selected="1">VsYS---XX-AP---</tag>
+<tag>
+<AM lemma="zpřístupnit" src="orig">VsYS---XX-AP---</AM>
+<AM lemma="zpřístupnit_:W" src="manual" selected="1">VsYS---XX-AP---</AM>
+</tag>
 </m>
 <m id="m-mf930702-119-p4s1w4">
 <src.rf>manual</src.rf>
@@ -883,7 +895,10 @@
 <LM>w#w-mf930702-119-p4s5w7</LM>
 </w.rf>
 <form>vybere</form>
-<tag lemma="vybrat" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag>
+<AM lemma="vybrat" src="orig">VB-S---3P-AA---</AM>
+<AM lemma="vybrat_:W" src="manual" selected="1">VB-S---3P-AA---</AM>
+</tag>
 </m>
 <m id="m-mf930702-119-p4s5w8">
 <src.rf>manual</src.rf>
@@ -916,7 +931,10 @@
 <LM>w#w-mf930702-119-p4s5w11</LM>
 </w.rf>
 <form>milionu</form>
-<tag lemma="milión`1000000" src="orig" selected="1">NNIS2-----A----</tag>
+<tag>
+<AM lemma="milión`1000000" src="orig">NNIS2-----A----</AM>
+<AM lemma="milion`1000000_,s_^(^DD**milión)" src="manual" selected="1">NNIS2-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930702-119-p4s5w12">
 <src.rf>manual</src.rf>
@@ -956,7 +974,10 @@
 <LM>w#w-mf930702-119-p4s5w16</LM>
 </w.rf>
 <form>milionů</form>
-<tag lemma="milión`1000000" src="orig" selected="1">NNIP2-----A----</tag>
+<tag>
+<AM lemma="milión`1000000" src="orig">NNIP2-----A----</AM>
+<AM lemma="milion`1000000_,s_^(^DD**milión)" src="manual" selected="1">NNIP2-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930702-119-p4s5w17">
 <src.rf>manual</src.rf>
@@ -967,6 +988,7 @@
 <tag>
 <AM lemma="Kč" src="orig">NNFXX-----A----</AM>
 <AM lemma="Kč_:B" src="auto" recommended="1">NNFXX-----A---8</AM>
+<AM lemma="Kč_:B" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930702-119-p4s5w18">
@@ -1079,7 +1101,10 @@
 <LM>w#w-mf930702-119-p4s5w31</LM>
 </w.rf>
 <form>miliony</form>
-<tag lemma="milión`1000000" src="orig" selected="1">NNIP7-----A----</tag>
+<tag>
+<AM lemma="milión`1000000" src="orig">NNIP7-----A----</AM>
+<AM lemma="milion`1000000_,s_^(^DD**milión)" src="manual" selected="1">NNIP7-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930702-119-p4s5w32">
 <src.rf>manual</src.rf>
@@ -1145,7 +1170,10 @@
 <LM>w#w-mf930702-119-p5s1w6</LM>
 </w.rf>
 <form>zodpovědět</form>
-<tag lemma="zodpovědět_,x" src="auto" selected="1">Vf--------A----</tag>
+<tag>
+<AM lemma="zodpovědět_,x" src="auto">Vf--------A----</AM>
+<AM lemma="zodpovědět_:W" src="manual" selected="1">Vf--------A----</AM>
+</tag>
 </m>
 <m id="m-mf930702-119-p5s1w7">
 <src.rf>manual</src.rf>
@@ -1221,7 +1249,7 @@
 <form>totiž</form>
 <tag>
 <AM lemma="totiž" src="orig">Db-------------</AM>
-<AM lemma="totiž-1" src="auto">J^-------------</AM>
+<AM lemma="totiž-1" src="auto" selected="1">J^-------------</AM>
 <AM lemma="totiž-2" src="auto" recommended="1">TT-------------</AM>
 </tag>
 </m>
@@ -1311,7 +1339,10 @@
 <LM>w#w-mf930702-119-p5s2w15</LM>
 </w.rf>
 <form>IRA</form>
-<tag lemma="IRA-1_:B_;K_,t_^(Irská_republikánská_armáda)" src="auto" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="IRA-1_:B_;K_,t_^(Irská_republikánská_armáda)" src="auto">NNFXX-----A---8</AM>
+<AM lemma="IRA-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930702-119-p5s2w16">
 <src.rf>manual</src.rf>
@@ -1353,7 +1384,10 @@
 <LM>w#w-mf930702-119-p5s3w3</LM>
 </w.rf>
 <form>uvedli</form>
-<tag lemma="uvést" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag>
+<AM lemma="uvést" src="orig">VpMP---XR-AA---</AM>
+<AM lemma="uvést_:W" src="manual" selected="1">VpMP---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-mf930702-119-p5s3w4">
 <src.rf>manual</src.rf>
@@ -1588,7 +1622,10 @@
 <LM>w#w-mf930702-119-p6s1w14</LM>
 </w.rf>
 <form>dolarů</form>
-<tag lemma="dolar_;b" src="orig" selected="1">NNIP2-----A----</tag>
+<tag>
+<AM lemma="dolar_;b" src="orig">NNIP2-----A----</AM>
+<AM lemma="dolar" src="manual" selected="1">NNIP2-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930702-119-p6s1w15">
 <src.rf>manual</src.rf>
@@ -1729,6 +1766,7 @@
 <AM lemma="Fortun_;G" src="auto">NNIS5-----A----</AM>
 <AM lemma="Fortune-1_;K" src="auto">NNISX-----A----</AM>
 <AM lemma="Fortune-2_;S" src="auto" recommended="1">NNMSX-----A----</AM>
+<AM lemma="Fortune-1_;K_;R" src="manual" selected="1">NNIXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930702-119-p6s1w32">

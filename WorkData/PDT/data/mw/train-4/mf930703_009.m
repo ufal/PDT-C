@@ -453,7 +453,10 @@
 <LM>w#w-mf930703-009-p5s2w10</LM>
 </w.rf>
 <form>tzv</form>
-<tag lemma="takzvaný_:B" src="orig" selected="1">AAXXX----1A---8</tag>
+<tag>
+<AM lemma="takzvaný_:B" src="orig">AAXXX----1A---8</AM>
+<AM lemma="takzvaný" src="manual" selected="1">AAXXX----1A---8</AM>
+</tag>
 </m>
 <m id="m-mf930703-009-p5s2w11">
 <src.rf>manual</src.rf>
@@ -961,7 +964,10 @@
 <LM>w#w-mf930703-009-p6s6w2</LM>
 </w.rf>
 <form>stadium</form>
-<tag lemma="stadium" src="orig" selected="1">NNNS1-----A----</tag>
+<tag>
+<AM lemma="stadium" src="orig">NNNS1-----A----</AM>
+<AM lemma="stadium_,s_^(^DD**stádium)" src="manual" selected="1">NNNS1-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930703-009-p6s6w3">
 <src.rf>manual</src.rf>

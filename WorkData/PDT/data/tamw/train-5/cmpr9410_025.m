@@ -924,7 +924,10 @@
 <LM>w#w-cmpr9410-025-p6s3w2</LM>
 </w.rf>
 <form>jen</form>
-<tag lemma="jen-1" src="auto" selected="1">TT-------------</tag>
+<tag>
+<AM lemma="jen-1" src="auto">TT-------------</AM>
+<AM lemma="jen-4_^(pouze)" src="manual" selected="1">Db-------------</AM>
+</tag>
 </m>
 <m id="m-cmpr9410-025-p6s3w3">
 <src.rf>manual</src.rf>
@@ -1267,7 +1270,7 @@
 <AM lemma="Novotný_;S" src="auto">NNMP1-----A---6</AM>
 <AM lemma="Novotný_;S" src="auto">NNMP4-----A---6</AM>
 <AM lemma="Novotný_;S" src="auto">NNMP5-----A---6</AM>
-<AM lemma="Novotný_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Novotný_;S" src="auto" recommended="1" selected="1">NNMS1-----A----</AM>
 <AM lemma="Novotný_;S" src="auto">NNMS5-----A----</AM>
 <AM lemma="novotný_,a" src="auto">AAFP1----1A---6</AM>
 <AM lemma="novotný_,a" src="auto">AAFP4----1A---6</AM>
@@ -1414,7 +1417,10 @@
 <LM>w#w-cmpr9410-025-p8s1w13</LM>
 </w.rf>
 <form>premií</form>
-<tag lemma="prémie_,x" src="orig" selected="1">NNFS7-----A----</tag>
+<tag>
+<AM lemma="prémie_,x" src="orig">NNFS7-----A----</AM>
+<AM lemma="premie_,s_^(^DD**prémie)" src="manual" selected="1">NNFS7-----A----</AM>
+</tag>
 </m>
 <m id="m-cmpr9410-025-p8s1w14">
 <src.rf>manual</src.rf>
@@ -1532,7 +1538,7 @@
 <form>nejen</form>
 <tag>
 <AM lemma="nejen" src="orig">TT-------------</AM>
-<AM lemma="nejen" src="auto" recommended="1">Db-------------</AM>
+<AM lemma="nejen" src="auto" recommended="1" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m-cmpr9410-025-p8s3w3">
@@ -1709,7 +1715,10 @@
 <LM>w#w-cmpr9410-025-p8s3w24</LM>
 </w.rf>
 <form>jako</form>
-<tag lemma="jako-1" src="auto" selected="1">J,-------------</tag>
+<tag>
+<AM lemma="jako-1" src="auto">J,-------------</AM>
+<AM lemma="jako-2" src="manual" selected="1">Db-------------</AM>
+</tag>
 </m>
 <m id="m-cmpr9410-025-p8s3w25">
 <src.rf>manual</src.rf>

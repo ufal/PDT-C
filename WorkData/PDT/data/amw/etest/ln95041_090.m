@@ -362,7 +362,10 @@
 <LM>w#w-ln95041-090-p2s2w7</LM>
 </w.rf>
 <form>PASNet</form>
-<tag lemma="PASNet_:B_;m_,t" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="PASNet_:B_;m_,t" src="orig">NNIXX-----A---8</AM>
+<AM lemma="PASNet_:B_;m" src="manual" selected="1">NNIXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln95041-090-p2s2w8">
 <src.rf>manual</src.rf>
@@ -508,7 +511,10 @@
 <LM>w#w-ln95041-090-p2s3w11</LM>
 </w.rf>
 <form>Asynchronous</form>
-<tag lemma="asynchronous_,t" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="asynchronous_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="Asynchronous-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln95041-090-p2s3w12">
 <src.rf>manual</src.rf>
@@ -520,6 +526,7 @@
 <AM lemma="transfer_,t" src="orig">AAXXX----1A----</AM>
 <AM lemma="transfer" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="transfer" src="auto">NNIS4-----A----</AM>
+<AM lemma="Transfer-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-ln95041-090-p2s3w13">
@@ -534,6 +541,7 @@
 <AM lemma="modus" src="auto">NNIS5-----A----</AM>
 <AM lemma="mód" src="auto">NNIS5-----A----</AM>
 <AM lemma="mode_,t" src="auto">XX-------------</AM>
+<AM lemma="Mode-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-ln95041-090-p2s3w14">
@@ -550,7 +558,10 @@
 <LM>w#w-ln95041-090-p2s3w15</LM>
 </w.rf>
 <form>ATM</form>
-<tag lemma="ATM-1_:B_,t_^(asynchronous_transfer_mode)" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="ATM-1_:B_,t_^(asynchronous_transfer_mode)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="ATM-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln95041-090-p2s3w16">
 <src.rf>manual</src.rf>
@@ -576,7 +587,10 @@
 <LM>w#w-ln95041-090-p3s1w1</LM>
 </w.rf>
 <form>PASNet</form>
-<tag lemma="PASNet_:B_;m_,t" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="PASNet_:B_;m_,t" src="orig">NNIXX-----A---8</AM>
+<AM lemma="PASNet_:B_;m" src="manual" selected="1">NNIXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln95041-090-p3s1w2">
 <src.rf>manual</src.rf>
@@ -618,7 +632,7 @@
 <form>vůbec</form>
 <tag>
 <AM lemma="vůbec" src="orig">Db-------------</AM>
-<AM lemma="vůbec" src="auto" recommended="1">TT-------------</AM>
+<AM lemma="vůbec" src="auto" recommended="1" selected="1">TT-------------</AM>
 </tag>
 </m>
 <m id="m-ln95041-090-p3s1w7">
@@ -691,7 +705,10 @@
 <LM>w#w-ln95041-090-p3s1w15</LM>
 </w.rf>
 <form>ATM</form>
-<tag lemma="ATM-1_:B_,t_^(asynchronous_transfer_mode)" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="ATM-1_:B_,t_^(asynchronous_transfer_mode)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="ATM-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln95041-090-p3s1w16">
 <src.rf>manual</src.rf>
@@ -1123,7 +1140,10 @@
 <LM>w#w-ln95041-090-p4s1w1</LM>
 </w.rf>
 <form>PASNet</form>
-<tag lemma="PASNet_:B_;m_,t" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="PASNet_:B_;m_,t" src="orig">NNIXX-----A---8</AM>
+<AM lemma="PASNet_:B_;m" src="manual" selected="1">NNIXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln95041-090-p4s1w2">
 <src.rf>manual</src.rf>

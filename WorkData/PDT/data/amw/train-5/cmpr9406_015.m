@@ -357,7 +357,7 @@
 <form>Ačkoli</form>
 <tag>
 <AM lemma="ačkoliv" src="orig">J,------------1</AM>
-<AM lemma="ačkoli" src="auto" recommended="1">J,-------------</AM>
+<AM lemma="ačkoli" src="auto" recommended="1" selected="1">J,-------------</AM>
 </tag>
 </m>
 <m id="m-cmpr9406-015-p5s2w2">
@@ -1244,7 +1244,7 @@
 <form>dřívějšího</form>
 <tag>
 <AM lemma="brzký" src="orig">AAIS2----2A----</AM>
-<AM lemma="dřívější" src="auto" recommended="1">AAIS2----2A----</AM>
+<AM lemma="dřívější" src="auto" recommended="1" selected="1">AAIS2----2A----</AM>
 <AM lemma="dřívější" src="auto">AAMS2----2A----</AM>
 <AM lemma="dřívější" src="auto">AAMS4----2A----</AM>
 <AM lemma="dřívější" src="auto">AANS2----2A----</AM>
@@ -1668,6 +1668,7 @@
 <tag>
 <AM lemma="SPKK-98_:B" src="orig">NNIXX-----A---8</AM>
 <AM lemma="SPKK-1_:B_;K_^(Státní_pedagogická_knihovna_Komenského)" src="auto" recommended="1">NNFXX-----A---8</AM>
+<AM lemma="SPKK-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-cmpr9406-015-p6s8w10">
@@ -2864,7 +2865,10 @@
 <LM>w#w-cmpr9406-015-p10s6w9</LM>
 </w.rf>
 <form>však</form>
-<tag lemma="však-1" src="auto" selected="1">J^-------------</tag>
+<tag>
+<AM lemma="však-1" src="auto">J^-------------</AM>
+<AM lemma="však-2" src="manual" selected="1">TT-------------</AM>
+</tag>
 </m>
 <m id="m-cmpr9406-015-p10s6w10">
 <src.rf>manual</src.rf>
@@ -3346,7 +3350,7 @@
 <tag>
 <AM lemma="tady" src="orig">Db------------1</AM>
 <AM lemma="ten" src="auto">PDFS4----------</AM>
-<AM lemma="tu" src="auto" recommended="1">Db-------------</AM>
+<AM lemma="tu" src="auto" recommended="1" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m-cmpr9406-015-p10s9w21">
@@ -4626,7 +4630,7 @@
 <tag>
 <AM lemma="přece" src="orig">Db-------------</AM>
 <AM lemma="přece-1" src="auto" recommended="1">J^-------------</AM>
-<AM lemma="přece-2" src="auto">TT-------------</AM>
+<AM lemma="přece-2" src="auto" selected="1">TT-------------</AM>
 </tag>
 </m>
 <m id="m-cmpr9406-015-p15s5w18">
@@ -5393,7 +5397,7 @@
 <form>totiž</form>
 <tag>
 <AM lemma="totiž" src="orig">Db-------------</AM>
-<AM lemma="totiž-1" src="auto" recommended="1">J^-------------</AM>
+<AM lemma="totiž-1" src="auto" recommended="1" selected="1">J^-------------</AM>
 <AM lemma="totiž-2" src="auto">TT-------------</AM>
 </tag>
 </m>
@@ -6121,7 +6125,7 @@
 <AM lemma="dřívější" src="auto">AAFS3----2A----</AM>
 <AM lemma="dřívější" src="auto">AAFS4----2A----</AM>
 <AM lemma="dřívější" src="auto">AAFS5----2A----</AM>
-<AM lemma="dřívější" src="auto" recommended="1">AAFS6----2A----</AM>
+<AM lemma="dřívější" src="auto" recommended="1" selected="1">AAFS6----2A----</AM>
 <AM lemma="dřívější" src="auto">AAFS7----2A----</AM>
 <AM lemma="dřívější" src="auto">AAIP1----2A----</AM>
 <AM lemma="dřívější" src="auto">AAIP4----2A----</AM>
@@ -7486,7 +7490,7 @@
 <form>nikoli</form>
 <tag>
 <AM lemma="nikoliv" src="orig">Db------------1</AM>
-<AM lemma="nikoli" src="auto" recommended="1">TT-------------</AM>
+<AM lemma="nikoli" src="auto" recommended="1" selected="1">TT-------------</AM>
 </tag>
 </m>
 <m id="m-cmpr9406-015-p21s3w26">

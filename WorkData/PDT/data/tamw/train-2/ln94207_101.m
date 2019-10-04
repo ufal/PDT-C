@@ -63,6 +63,9 @@
 <AM lemma="Miranda_;m_,t" src="orig">AAXXX----1A----</AM>
 <AM lemma="Miranda-1_;S" src="auto">NNMS1-----A----</AM>
 <AM lemma="Miranda-2_;G" src="auto" recommended="1">NNFS1-----A----</AM>
+<AM lemma="Miranda_,t" src="manual">AAXXX----1A----</AM>
+<AM lemma="Miranda_,t" src="manual">NNXXX-----A----</AM>
+<AM lemma="Miranda-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-ln94207-101-p1s1w7">
@@ -75,6 +78,8 @@
 <AM lemma="Sex_;m_,t" src="orig">AAXXX----1A----</AM>
 <AM lemma="sex" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="sex" src="auto">NNIS4-----A----</AM>
+<AM lemma="sex_,t" src="manual">NNXXX-----A----</AM>
+<AM lemma="Sex-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-ln94207-101-p1s1w8">
@@ -90,6 +95,7 @@
 <AM lemma="Garden-2_;G_,t_^(součást_názvu_např._Garden_City)" src="auto">AAXXX----1A----</AM>
 <AM lemma="Gardena_;G" src="auto">NNFP2-----A----</AM>
 <AM lemma="garden_,t_^(angl._zahrada)" src="auto">NNFXX-----A----</AM>
+<AM lemma="Garden-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 </s>
@@ -109,7 +115,10 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>a</form>
-<tag lemma="a-4_,t_^(př._a_la)" src="orig" selected="1">RR--1----------</tag>
+<tag>
+<AM lemma="a-4_,t_^(př._a_la)" src="orig">RR--1----------</AM>
+<AM lemma="a-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94207-101-p2s1w3">
 <src.rf>manual</src.rf>
@@ -117,7 +126,10 @@
 <LM>w#w-ln94207-101-p2s1w3</LM>
 </w.rf>
 <form>capella</form>
-<tag lemma="capella_,t" src="auto" selected="1">NNFS1-----A----</tag>
+<tag>
+<AM lemma="capella_,t" src="auto">NNFS1-----A----</AM>
+<AM lemma="capella-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94207-101-p2s1w4">
 <src.rf>manual</src.rf>
@@ -191,7 +203,7 @@
 <form>ryze</form>
 <tag>
 <AM lemma="ryzí" src="orig">Dg-------1A----</AM>
-<AM lemma="ryze" src="auto" recommended="1">Dg-------1A----</AM>
+<AM lemma="ryze" src="auto" recommended="1" selected="1">Dg-------1A----</AM>
 </tag>
 </m>
 <m id="m-ln94207-101-p2s1w13">
@@ -220,6 +232,9 @@
 <AM lemma="Miranda_;m_,t" src="orig">AAXXX----1A----</AM>
 <AM lemma="Miranda-1_;S" src="auto">NNMS1-----A----</AM>
 <AM lemma="Miranda-2_;G" src="auto" recommended="1">NNFS1-----A----</AM>
+<AM lemma="Miranda_,t" src="manual">AAXXX----1A----</AM>
+<AM lemma="Miranda_,t" src="manual">NNXXX-----A----</AM>
+<AM lemma="Miranda-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-ln94207-101-p2s1w16">
@@ -232,6 +247,8 @@
 <AM lemma="Sex_;m_,t" src="orig">AAXXX----1A----</AM>
 <AM lemma="sex" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="sex" src="auto">NNIS4-----A----</AM>
+<AM lemma="sex_,t" src="manual">NNXXX-----A----</AM>
+<AM lemma="Sex-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-ln94207-101-p2s1w17">
@@ -247,6 +264,7 @@
 <AM lemma="Garden-2_;G_,t_^(součást_názvu_např._Garden_City)" src="auto">AAXXX----1A----</AM>
 <AM lemma="Gardena_;G" src="auto">NNFP2-----A----</AM>
 <AM lemma="garden_,t_^(angl._zahrada)" src="auto" recommended="1">NNFXX-----A----</AM>
+<AM lemma="Garden-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-ln94207-101-p2s1w18">
@@ -351,7 +369,10 @@
 <LM>w#w-ln94207-101-p2s1w30</LM>
 </w.rf>
 <form>Fairytales</form>
-<tag lemma="Fairytales_;m_,t" src="orig" selected="1">NNFPX-----A----</tag>
+<tag>
+<AM lemma="Fairytales_;m_,t" src="orig">NNFPX-----A----</AM>
+<AM lemma="Fairytales-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94207-101-p2s1w31">
 <src.rf>manual</src.rf>
@@ -359,7 +380,10 @@
 <LM>w#w-ln94207-101-p2s1w31</LM>
 </w.rf>
 <form>Of</form>
-<tag lemma="of-1_,t_^(obv._souč._anglických_názvů,_předl._2._p.)" src="orig" selected="1">RR--X----------</tag>
+<tag>
+<AM lemma="of-1_,t_^(obv._souč._anglických_názvů,_předl._2._p.)" src="orig">RR--X----------</AM>
+<AM lemma="Of-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94207-101-p2s1w32">
 <src.rf>manual</src.rf>
@@ -367,7 +391,10 @@
 <LM>w#w-ln94207-101-p2s1w32</LM>
 </w.rf>
 <form>Slavery</form>
-<tag lemma="Slavery_;m_,t" src="orig" selected="1">NNIXX-----A----</tag>
+<tag>
+<AM lemma="Slavery_;m_,t" src="orig">NNIXX-----A----</AM>
+<AM lemma="Slavery-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94207-101-p2s1w33">
 <src.rf>manual</src.rf>
@@ -405,6 +432,9 @@
 <AM lemma="Miranda_;m_,t" src="orig">AAXXX----1A----</AM>
 <AM lemma="Miranda-1_;S" src="auto">NNMS1-----A----</AM>
 <AM lemma="Miranda-2_;G" src="auto" recommended="1">NNFS1-----A----</AM>
+<AM lemma="Miranda_,t" src="manual">AAXXX----1A----</AM>
+<AM lemma="Miranda_,t" src="manual">NNXXX-----A----</AM>
+<AM lemma="Miranda-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-ln94207-101-p2s3w4">
@@ -417,6 +447,8 @@
 <AM lemma="Sex_;m_,t" src="orig">AAXXX----1A----</AM>
 <AM lemma="sex" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="sex" src="auto">NNIS4-----A----</AM>
+<AM lemma="sex_,t" src="manual">NNXXX-----A----</AM>
+<AM lemma="Sex-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-ln94207-101-p2s3w5">
@@ -432,6 +464,7 @@
 <AM lemma="Garden-2_;G_,t_^(součást_názvu_např._Garden_City)" src="auto">AAXXX----1A----</AM>
 <AM lemma="Gardena_;G" src="auto">NNFP2-----A----</AM>
 <AM lemma="garden_,t_^(angl._zahrada)" src="auto">NNFXX-----A----</AM>
+<AM lemma="Garden-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-ln94207-101-p2s3w6">
@@ -496,7 +529,10 @@
 <LM>w#w-ln94207-101-p2s3w13</LM>
 </w.rf>
 <form>Mute</form>
-<tag lemma="Mute_;m_,t" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="Mute_;m_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="Mute-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94207-101-p2s3w14">
 <src.rf>manual</src.rf>
@@ -504,7 +540,10 @@
 <LM>w#w-ln94207-101-p2s3w14</LM>
 </w.rf>
 <form>Night</form>
-<tag lemma="Night_;m_,t" src="orig" selected="1">NNFXX-----A----</tag>
+<tag>
+<AM lemma="Night_;m_,t" src="orig">NNFXX-----A----</AM>
+<AM lemma="Night-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94207-101-p2s3w15">
 <src.rf>manual</src.rf>
@@ -563,7 +602,7 @@
 <tag>
 <AM lemma="Pyramida_;m" src="orig">NNFS6-----A----</AM>
 <AM lemma="pyramida" src="auto">NNFS3-----A----</AM>
-<AM lemma="pyramida" src="auto" recommended="1">NNFS6-----A----</AM>
+<AM lemma="pyramida" src="auto" recommended="1" selected="1">NNFS6-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94207-101-p2s3w22">
@@ -620,7 +659,10 @@
 <LM>w#w-ln94207-101-p2s3w28</LM>
 </w.rf>
 <form>Inspiral</form>
-<tag lemma="Inspiral_;m_,t" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="Inspiral_;m_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="Inspiral-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94207-101-p2s3w29">
 <src.rf>manual</src.rf>
@@ -628,7 +670,10 @@
 <LM>w#w-ln94207-101-p2s3w29</LM>
 </w.rf>
 <form>Carpets</form>
-<tag lemma="Carpets_;m_,t" src="orig" selected="1">NNIPX-----A----</tag>
+<tag>
+<AM lemma="Carpets_;m_,t" src="orig">NNIPX-----A----</AM>
+<AM lemma="Carpets-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94207-101-p2s3w30">
 <src.rf>manual</src.rf>
@@ -694,7 +739,10 @@
 <LM>w#w-ln94207-101-p3s1w1</LM>
 </w.rf>
 <form>Fairytales</form>
-<tag lemma="Fairytales_;m_,t" src="orig" selected="1">NNFPX-----A----</tag>
+<tag>
+<AM lemma="Fairytales_;m_,t" src="orig">NNFPX-----A----</AM>
+<AM lemma="Fairytales-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94207-101-p3s1w2">
 <src.rf>manual</src.rf>
@@ -702,7 +750,10 @@
 <LM>w#w-ln94207-101-p3s1w2</LM>
 </w.rf>
 <form>Of</form>
-<tag lemma="of-1_,t_^(obv._souč._anglických_názvů,_předl._2._p.)" src="orig" selected="1">RR--X----------</tag>
+<tag>
+<AM lemma="of-1_,t_^(obv._souč._anglických_názvů,_předl._2._p.)" src="orig">RR--X----------</AM>
+<AM lemma="Of-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94207-101-p3s1w3">
 <src.rf>manual</src.rf>
@@ -710,7 +761,10 @@
 <LM>w#w-ln94207-101-p3s1w3</LM>
 </w.rf>
 <form>Slavery</form>
-<tag lemma="Slavery_;m_,t" src="orig" selected="1">NNIXX-----A----</tag>
+<tag>
+<AM lemma="Slavery_;m_,t" src="orig">NNIXX-----A----</AM>
+<AM lemma="Slavery-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94207-101-p3s1w4">
 <src.rf>manual</src.rf>
@@ -885,6 +939,7 @@
 <AM lemma="minimalizmus" src="auto" recommended="1">NNIS2-----A----</AM>
 <AM lemma="minimalizmus" src="auto">NNIS3-----A----</AM>
 <AM lemma="minimalizmus" src="auto">NNIS6-----A----</AM>
+<AM lemma="minimalismus_,s_^(^DD**minimalizmus)" src="manual" selected="1">NNIS2-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94207-101-p3s2w14">
@@ -1227,6 +1282,9 @@
 <AM lemma="Miranda_;m_,t" src="orig">AAXXX----1A----</AM>
 <AM lemma="Miranda-1_;S" src="auto">NNMS1-----A----</AM>
 <AM lemma="Miranda-2_;G" src="auto" recommended="1">NNFS1-----A----</AM>
+<AM lemma="Miranda_,t" src="manual">AAXXX----1A----</AM>
+<AM lemma="Miranda_,t" src="manual">NNXXX-----A----</AM>
+<AM lemma="Miranda-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-ln94207-101-p3s3Aw22">
@@ -1239,6 +1297,8 @@
 <AM lemma="Sex_;m_,t" src="orig">AAXXX----1A----</AM>
 <AM lemma="sex" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="sex" src="auto">NNIS4-----A----</AM>
+<AM lemma="sex_,t" src="manual">NNXXX-----A----</AM>
+<AM lemma="Sex-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-ln94207-101-p3s3Aw23">
@@ -1254,6 +1314,7 @@
 <AM lemma="Garden-2_;G_,t_^(součást_názvu_např._Garden_City)" src="auto" recommended="1">AAXXX----1A----</AM>
 <AM lemma="Gardena_;G" src="auto">NNFP2-----A----</AM>
 <AM lemma="garden_,t_^(angl._zahrada)" src="auto">NNFXX-----A----</AM>
+<AM lemma="Garden-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-ln94207-101-p3s3Aw24">

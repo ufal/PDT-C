@@ -59,7 +59,10 @@
 <LM>w#w-mf930701-083-p1s1w6</LM>
 </w.rf>
 <form>jen</form>
-<tag lemma="jen-1" src="auto" selected="1">TT-------------</tag>
+<tag>
+<AM lemma="jen-1" src="auto">TT-------------</AM>
+<AM lemma="jen-4_^(pouze)" src="manual" selected="1">Db-------------</AM>
+</tag>
 </m>
 <m id="m-mf930701-083-p1s1w7">
 <src.rf>manual</src.rf>
@@ -197,7 +200,10 @@
 <LM>w#w-mf930701-083-p2s1w15</LM>
 </w.rf>
 <form>jen</form>
-<tag lemma="jen-1" src="auto" selected="1">TT-------------</tag>
+<tag>
+<AM lemma="jen-1" src="auto">TT-------------</AM>
+<AM lemma="jen-4_^(pouze)" src="manual" selected="1">Db-------------</AM>
+</tag>
 </m>
 <m id="m-mf930701-083-p2s1w16">
 <src.rf>manual</src.rf>
@@ -967,7 +973,10 @@
 <LM>w#w-mf930701-083-p2s6w9</LM>
 </w.rf>
 <form>Davida</form>
-<tag lemma="David_;Y" src="orig" selected="1">NNMS2-----A----</tag>
+<tag>
+<AM lemma="David_;Y" src="orig">NNMS2-----A----</AM>
+<AM lemma="David_;S_;Y" src="manual" selected="1">NNMS2-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930701-083-p2s6w10">
 <src.rf>manual</src.rf>
@@ -1365,7 +1374,10 @@
 <LM>w#w-mf930701-083-p2s9w15</LM>
 </w.rf>
 <form>David</form>
-<tag lemma="David_;Y" src="orig" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="David_;Y" src="orig">NNMS1-----A----</AM>
+<AM lemma="David_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930701-083-p2s9w16">
 <src.rf>manual</src.rf>

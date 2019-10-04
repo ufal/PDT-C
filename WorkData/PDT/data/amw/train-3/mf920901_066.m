@@ -45,7 +45,10 @@
 <LM>w#w-mf920901-066-p2s1w3</LM>
 </w.rf>
 <form>Linda</form>
-<tag lemma="linda" src="orig" selected="1">NNFS1-----A----</tag>
+<tag>
+<AM lemma="linda" src="orig">NNFS1-----A----</AM>
+<AM lemma="Linda_;Y" src="manual" selected="1">NNFS1-----A----</AM>
+</tag>
 </m>
 </s>
 <s id="m-mf920901-066-p3s1">
@@ -312,6 +315,8 @@
 <AM lemma="Britský_:B_;m" src="auto">AAXXX----1A---9</AM>
 <AM lemma="Británie_:B_;m" src="auto">NNFXX-----A---9</AM>
 <AM lemma="britský_:B" src="auto" recommended="1">AAXXX----1A---8</AM>
+<AM lemma="brit_,t" src="manual">NNXXX-----A----</AM>
+<AM lemma="Brit-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-mf920901-066-p3s2w5">
@@ -324,6 +329,8 @@
 <AM lemma="ivrit_;K_,t" src="orig">AAXXX----1A----</AM>
 <AM lemma="ivrit" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="ivrit" src="auto">NNIS4-----A----</AM>
+<AM lemma="ivrit_,t" src="manual">NNXXX-----A----</AM>
+<AM lemma="ivrit-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-mf920901-066-p3s2w6">
@@ -332,7 +339,11 @@
 <LM>w#w-mf920901-066-p3s2w6</LM>
 </w.rf>
 <form>olamit</form>
-<tag lemma="olamit_;K_,t" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="olamit_;K_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="olamit_,t" src="manual">NNXXX-----A----</AM>
+<AM lemma="olamit-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-mf920901-066-p3s2w7">
 <src.rf>manual</src.rf>
@@ -444,7 +455,10 @@
 <LM>w#w-mf920901-066-p3s2w21</LM>
 </w.rf>
 <form>stala</form>
-<tag lemma="stát-2_^(něco_se_přihodilo)" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag>
+<AM lemma="stát-2_^(něco_se_přihodilo)" src="orig">VpQW---XR-AA---</AM>
+<AM lemma="stát-2_^(stanu_staneš)" src="manual" selected="1">VpQW---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-mf920901-066-p3s2w22">
 <src.rf>manual</src.rf>

@@ -643,7 +643,10 @@
 <LM>w#w-ln94200-128-p3s1w2</LM>
 </w.rf>
 <form>Hannelore</form>
-<tag lemma="Hannelore_;Y" src="auto" selected="1">NNFSX-----A----</tag>
+<tag>
+<AM lemma="Hannelore_;Y" src="auto">NNFSX-----A----</AM>
+<AM lemma="Hannelore_;Y" src="manual" selected="1">NNFXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94200-128-p3s1w3">
 <src.rf>manual</src.rf>
@@ -1493,7 +1496,7 @@
 <form>totiž</form>
 <tag>
 <AM lemma="totiž" src="orig">Db-------------</AM>
-<AM lemma="totiž-1" src="auto" recommended="1">J^-------------</AM>
+<AM lemma="totiž-1" src="auto" recommended="1" selected="1">J^-------------</AM>
 <AM lemma="totiž-2" src="auto">TT-------------</AM>
 </tag>
 </m>
@@ -1727,7 +1730,10 @@
 <LM>w#w-ln94200-128-p4s4w32</LM>
 </w.rf>
 <form>LN</form>
-<tag lemma="LN-1_:B_;R_^(Lidové_noviny,_deník)" src="orig" selected="1">NNFPX-----A---8</tag>
+<tag>
+<AM lemma="LN-1_:B_;R_^(Lidové_noviny,_deník)" src="orig">NNFPX-----A---8</AM>
+<AM lemma="LN-1_:B_;K_;R_^(Lidové_noviny)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94200-128-p4s4w33">
 <src.rf>manual</src.rf>
@@ -2362,7 +2368,10 @@
 <LM>w#w-ln94200-128-p5s2w19</LM>
 </w.rf>
 <form>Hannelore</form>
-<tag lemma="Hannelore_;Y" src="auto" selected="1">NNFSX-----A----</tag>
+<tag>
+<AM lemma="Hannelore_;Y" src="auto">NNFSX-----A----</AM>
+<AM lemma="Hannelore_;Y" src="manual" selected="1">NNFXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94200-128-p5s2w20">
 <src.rf>manual</src.rf>
@@ -2394,7 +2403,10 @@
 <LM>w#w-ln94200-128-p5s2w23</LM>
 </w.rf>
 <form>ir</form>
-<tag lemma="ir-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="ir-99_:B_;S" src="orig">NNXXX-----A---8</AM>
+<AM lemma="ir-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94200-128-p5s2w24">
 <src.rf>manual</src.rf>

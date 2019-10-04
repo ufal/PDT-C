@@ -103,7 +103,7 @@
 <form>jakýchkoli</form>
 <tag>
 <AM lemma="jakýkoliv" src="orig">PZXP2---------1</AM>
-<AM lemma="jakýkoli" src="auto" recommended="1">PZXP2----------</AM>
+<AM lemma="jakýkoli" src="auto" recommended="1" selected="1">PZXP2----------</AM>
 <AM lemma="jakýkoli" src="auto">PZXP6----------</AM>
 </tag>
 </m>
@@ -237,7 +237,10 @@
 <LM>w#w-vesm9211-038-p2s3w1</LM>
 </w.rf>
 <form>Tento</form>
-<tag lemma="tento" src="orig" selected="1">PDIS4----------</tag>
+<tag>
+<AM lemma="tento" src="orig" selected="1">PDIS4----------</AM>
+<AM lemma="tento" src="manual">PDYS1----------</AM>
+</tag>
 </m>
 <m id="m-vesm9211-038-p2s3w2">
 <src.rf>manual</src.rf>
@@ -533,6 +536,8 @@
 <AM lemma="REM-1_:B_,t_^(fáze_spánku)" src="orig">AAXXX----1A---8</AM>
 <AM lemma="REM_:B_,t_^(rapid-eye-movement)" src="auto" recommended="1">NNISX-----A---8</AM>
 <AM lemma="Rema_;K" src="auto">NNFP2-----A----</AM>
+<AM lemma="REM_:B-88" src="manual">NNXXX-----A---8</AM>
+<AM lemma="REM-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-vesm9211-038-p2s5w18">
@@ -566,7 +571,7 @@
 </w.rf>
 <form>angl</form>
 <tag>
-<AM lemma="anglický_:B" src="orig">AAXXX----1A---8</AM>
+<AM lemma="anglický_:B" src="orig" selected="1">AAXXX----1A---8</AM>
 <AM lemma="anglicky_:B" src="auto" recommended="1">Dg-------1A---8</AM>
 </tag>
 </m>
@@ -596,6 +601,8 @@
 <AM lemma="rapid_,t" src="orig">AAXXX----1A----</AM>
 <AM lemma="rapid_;K" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="rapid_;K" src="auto">NNIS4-----A----</AM>
+<AM lemma="rapid-77" src="manual">F%-------------</AM>
+<AM lemma="rapid-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-vesm9211-038-p2s5w25">
@@ -604,7 +611,10 @@
 <LM>w#w-vesm9211-038-p2s5w25</LM>
 </w.rf>
 <form>eye</form>
-<tag lemma="eye_,t" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="eye_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="eye-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-vesm9211-038-p2s5w26">
 <src.rf>manual</src.rf>
@@ -612,7 +622,10 @@
 <LM>w#w-vesm9211-038-p2s5w26</LM>
 </w.rf>
 <form>movements</form>
-<tag lemma="movement_,t" src="orig" selected="1">NNIPX-----A----</tag>
+<tag>
+<AM lemma="movement_,t" src="orig">NNIPX-----A----</AM>
+<AM lemma="movements-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-vesm9211-038-p2s5w27">
 <src.rf>manual</src.rf>
@@ -1572,6 +1585,8 @@
 <AM lemma="REM-1_:B_,t_^(fáze_spánku)" src="orig">AAXXX----1A---8</AM>
 <AM lemma="REM_:B_,t_^(rapid-eye-movement)" src="auto">NNISX-----A---8</AM>
 <AM lemma="Rema_;K" src="auto" recommended="1">NNFP2-----A----</AM>
+<AM lemma="REM_:B-88" src="manual">NNXXX-----A---8</AM>
+<AM lemma="REM-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-vesm9211-038-p3s2w17">
@@ -1672,7 +1687,7 @@
 <form>nalezeny</form>
 <tag>
 <AM lemma="naleznout" src="orig">VsTP---XX-AP---</AM>
-<AM lemma="nalézt-2" src="auto" recommended="1">VsTP---XX-AP---</AM>
+<AM lemma="nalézt-2" src="auto" recommended="1" selected="1">VsTP---XX-AP---</AM>
 </tag>
 </m>
 <m id="m-vesm9211-038-p4s1w11">
@@ -1853,6 +1868,8 @@
 <AM lemma="REM-1_:B_,t_^(fáze_spánku)" src="orig">AAXXX----1A---8</AM>
 <AM lemma="REM_:B_,t_^(rapid-eye-movement)" src="auto" recommended="1">NNISX-----A---8</AM>
 <AM lemma="Rema_;K" src="auto">NNFP2-----A----</AM>
+<AM lemma="REM_:B-88" src="manual">NNXXX-----A---8</AM>
+<AM lemma="REM-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-vesm9211-038-p4s1w33">
@@ -1885,7 +1902,10 @@
 <LM>w#w-vesm9211-038-p4s1w36</LM>
 </w.rf>
 <form>Science</form>
-<tag lemma="Science-1_;K_,t_^(souč._názvů,_např._Science)" src="orig" selected="1">NNFSX-----A----</tag>
+<tag>
+<AM lemma="Science-1_;K_,t_^(souč._názvů,_např._Science)" src="orig">NNFSX-----A----</AM>
+<AM lemma="Science-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-vesm9211-038-p4s1w37">
 <src.rf>manual</src.rf>
@@ -2218,7 +2238,10 @@
 <LM>w#w-vesm9211-038-p4s3w14</LM>
 </w.rf>
 <form>zato</form>
-<tag lemma="zato" src="orig" selected="1">J,-------------</tag>
+<tag>
+<AM lemma="zato" src="orig">J,-------------</AM>
+<AM lemma="zato" src="manual" selected="1">Db-------------</AM>
+</tag>
 </m>
 <m id="m-vesm9211-038-p4s3w15">
 <src.rf>manual</src.rf>
@@ -2262,6 +2285,7 @@
 <AM lemma="REM-1_:B_,t_^(fáze_spánku)" src="orig">AAXXX----1A---8</AM>
 <AM lemma="REM_:B_,t_^(rapid-eye-movement)" src="auto">NNISX-----A---8</AM>
 <AM lemma="Rema_;K" src="auto" recommended="1">NNFP2-----A----</AM>
+<AM lemma="REM-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-vesm9211-038-p4s3w20">
@@ -2307,7 +2331,7 @@
 <tag>
 <AM lemma="tedy" src="orig">Db-------------</AM>
 <AM lemma="tedy-1" src="auto">TT-------------</AM>
-<AM lemma="tedy-2" src="auto" recommended="1">J^-------------</AM>
+<AM lemma="tedy-2" src="auto" recommended="1" selected="1">J^-------------</AM>
 </tag>
 </m>
 <m id="m-vesm9211-038-p4s4w4">
@@ -2430,7 +2454,10 @@
 <LM>w#w-vesm9211-038-p4s5w3</LM>
 </w.rf>
 <form>mechanismu</form>
-<tag lemma="mechanismus" src="orig" selected="1">NNIS2-----A----</tag>
+<tag>
+<AM lemma="mechanismus" src="orig">NNIS2-----A----</AM>
+<AM lemma="mechanismus_,s _^(^DD**mechanizmus)" src="manual" selected="1">NNIS2-----A----</AM>
+</tag>
 </m>
 <m id="m-vesm9211-038-p4s5w4">
 <src.rf>manual</src.rf>

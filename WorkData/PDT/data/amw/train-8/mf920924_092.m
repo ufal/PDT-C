@@ -101,7 +101,10 @@
 <LM>w#w-mf920924-092-p2s1w9</LM>
 </w.rf>
 <form>čs</form>
-<tag lemma="československý_:B" src="orig" selected="1">AAXXX----1A---8</tag>
+<tag>
+<AM lemma="československý_:B" src="orig">AAXXX----1A---8</AM>
+<AM lemma="československý" src="manual" selected="1">AAXXX----1A---8</AM>
+</tag>
 </m>
 <m id="m-mf920924-092-p2s1w10">
 <src.rf>manual</src.rf>
@@ -167,7 +170,10 @@
 <LM>w#w-mf920924-092-p2s2w4</LM>
 </w.rf>
 <form>Čs</form>
-<tag lemma="československý_:B" src="orig" selected="1">AAXXX----1A---8</tag>
+<tag>
+<AM lemma="československý_:B" src="orig">AAXXX----1A---8</AM>
+<AM lemma="československý" src="manual" selected="1">AAXXX----1A---8</AM>
+</tag>
 </m>
 <m id="m-mf920924-092-p2s2w5">
 <src.rf>manual</src.rf>
@@ -223,7 +229,11 @@
 <LM>w#w-mf920924-092-p2s2w11</LM>
 </w.rf>
 <form>konkursního</form>
-<tag lemma="konkursní_^(týkající_se_úpadku,_soutěže)" src="auto" selected="1">AANS2----1A----</tag>
+<tag>
+<AM lemma="konkursní_^(týkající_se_úpadku,_soutěže)" src="auto">AANS2----1A----</AM>
+<AM lemma="onkursní_,s_^(^DD**konkurzní) " src="manual">AANS2----1A----</AM>
+<AM lemma="konkursní_,s_^(^DD**konkurzní)" src="manual" selected="1">AANS2----1A----</AM>
+</tag>
 </m>
 <m id="m-mf920924-092-p2s2w12">
 <src.rf>manual</src.rf>
@@ -337,7 +347,10 @@
 <LM>w#w-mf920924-092-p2s3w12</LM>
 </w.rf>
 <form>ČSFH</form>
-<tag lemma="ČSFH-1_:B_;K_^(Česko-Slovenská_federace_házené)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ČSFH-1_:B_;K_^(Česko-Slovenská_federace_házené)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČSFH-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-mf920924-092-p2s3w13">
 <src.rf>manual</src.rf>
@@ -433,7 +446,10 @@
 <LM>w#w-mf920924-092-p2s3w24</LM>
 </w.rf>
 <form>MS</form>
-<tag lemma="MS-3_:B_;w_^(mistrovství_světa)" src="orig" selected="1">NNNXX-----A---8</tag>
+<tag>
+<AM lemma="MS-3_:B_;w_^(mistrovství_světa)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="MS-3_:B_^(mistrovství_světa)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920924-092-p2s3w25">
 <src.rf>manual</src.rf>

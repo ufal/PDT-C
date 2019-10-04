@@ -47,6 +47,8 @@
 <AM lemma="Pro-2_;K_,t" src="orig">RR--X----------</AM>
 <AM lemma="pro-1" src="auto" recommended="1">RR--4----------</AM>
 <AM lemma="pro-7_^(předpona,_sam.)" src="auto">A2--------A----</AM>
+<AM lemma="Pro_;K" src="manual">NNXXX-----A----</AM>
+<AM lemma="Pro-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-ln94205-101-p1s1w5">
@@ -61,6 +63,7 @@
 <AM lemma="thalium" src="auto" recommended="1">NNNP4-----A----</AM>
 <AM lemma="thalium" src="auto">NNNP5-----A----</AM>
 <AM lemma="thalium" src="auto">NNNS2-----A----</AM>
+<AM lemma="Thalia-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 </s>
@@ -83,6 +86,8 @@
 <AM lemma="Pro-2_;K_,t" src="orig">RR--X----------</AM>
 <AM lemma="pro-1" src="auto" recommended="1">RR--4----------</AM>
 <AM lemma="pro-7_^(předpona,_sam.)" src="auto">A2--------A----</AM>
+<AM lemma="Pro_;K" src="manual">NNXXX-----A----</AM>
+<AM lemma="Pro-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-ln94205-101-p2s1w3">
@@ -97,6 +102,7 @@
 <AM lemma="thalium" src="auto" recommended="1">NNNP4-----A----</AM>
 <AM lemma="thalium" src="auto">NNNP5-----A----</AM>
 <AM lemma="thalium" src="auto">NNNS2-----A----</AM>
+<AM lemma="Thalia-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-ln94205-101-p2s1w4">
@@ -553,6 +559,8 @@
 <AM lemma="Pro-2_;K_,t" src="orig">RR--X----------</AM>
 <AM lemma="pro-1" src="auto" recommended="1">RR--4----------</AM>
 <AM lemma="pro-7_^(předpona,_sam.)" src="auto">A2--------A----</AM>
+<AM lemma="Pro_;K" src="manual">NNXXX-----A----</AM>
+<AM lemma="Pro-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-ln94205-101-p2s3w3">
@@ -567,6 +575,7 @@
 <AM lemma="thalium" src="auto" recommended="1">NNNP4-----A----</AM>
 <AM lemma="thalium" src="auto">NNNP5-----A----</AM>
 <AM lemma="thalium" src="auto">NNNS2-----A----</AM>
+<AM lemma="Thalia-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-ln94205-101-p2s3w4">
@@ -804,7 +813,7 @@
 <tag>
 <AM lemma="tady" src="orig">Db------------1</AM>
 <AM lemma="ten" src="auto">PDFS4----------</AM>
-<AM lemma="tu" src="auto" recommended="1">Db-------------</AM>
+<AM lemma="tu" src="auto" recommended="1" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m-ln94205-101-p2s4w5">
@@ -955,6 +964,8 @@
 <AM lemma="Pro-2_;K_,t" src="orig">RR--X----------</AM>
 <AM lemma="pro-1" src="auto" recommended="1">RR--4----------</AM>
 <AM lemma="pro-7_^(předpona,_sam.)" src="auto">A2--------A----</AM>
+<AM lemma="Pro_;K" src="manual">NNXXX-----A----</AM>
+<AM lemma="Pro-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-ln94205-101-p2s5w5">
@@ -969,6 +980,7 @@
 <AM lemma="thalium" src="auto" recommended="1">NNNP4-----A----</AM>
 <AM lemma="thalium" src="auto">NNNP5-----A----</AM>
 <AM lemma="thalium" src="auto">NNNS2-----A----</AM>
+<AM lemma="Thalia-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-ln94205-101-p2s5w6">
@@ -1009,7 +1021,10 @@
 <LM>w#w-ln94205-101-p2s5w10</LM>
 </w.rf>
 <form>Klusák</form>
-<tag lemma="klusák" src="orig" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="klusák" src="orig">NNMS1-----A----</AM>
+<AM lemma="Klusák_;S" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94205-101-p2s5w11">
 <src.rf>manual</src.rf>
@@ -1229,7 +1244,10 @@
 <LM>w#w-ln94205-101-p2s7w2</LM>
 </w.rf>
 <form>čtk</form>
-<tag lemma="ČTK-1_:B_;K_^(Čs./Česká_tisková_kancelář)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ČTK-1_:B_;K_^(Čs./Česká_tisková_kancelář)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="čtk_:B_;K_^(Čs./Česká_tisková_kancelář)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94205-101-p2s7w3">
 <src.rf>manual</src.rf>

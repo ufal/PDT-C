@@ -183,7 +183,10 @@
 <LM>w#w-lnd92254-042-p2s2w13</LM>
 </w.rf>
 <form>n</form>
-<tag lemma="nad-1_:B" src="orig" selected="1">RR--7---------8</tag>
+<tag>
+<AM lemma="nad-1_:B" src="orig">RR--7---------8</AM>
+<AM lemma="nad-1" src="manual" selected="1">RR--7---------8</AM>
+</tag>
 </m>
 <m id="m-lnd92254-042-p2s2w14">
 <src.rf>manual</src.rf>
@@ -347,7 +350,10 @@
 <LM>w#w-lnd92254-042-p2s4w7</LM>
 </w.rf>
 <form>V</form>
-<tag lemma="V-0_:B_;Y" src="orig" selected="1">NNMXX-----A---8</tag>
+<tag>
+<AM lemma="V-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
+<AM lemma="V-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd92254-042-p2s4w8">
 <src.rf>manual</src.rf>

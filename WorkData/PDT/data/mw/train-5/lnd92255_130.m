@@ -45,7 +45,10 @@
 <LM>w#w-lnd92255-130-p2s1w1</LM>
 </w.rf>
 <form>NEW</form>
-<tag lemma="New-1_;G_,t_^(součást_míst._jmen)" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="New-1_;G_,t_^(součást_míst._jmen)" src="orig">AAXXX----1A----</AM>
+<AM lemma="NEW-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-lnd92255-130-p2s1w2">
 <src.rf>manual</src.rf>
@@ -53,7 +56,10 @@
 <LM>w#w-lnd92255-130-p2s1w2</LM>
 </w.rf>
 <form>YORK</form>
-<tag lemma="York-2_;G" src="orig" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="York-2_;G" src="orig">NNIS1-----A----</AM>
+<AM lemma="YORK-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-lnd92255-130-p2s1w3">
 <src.rf>manual</src.rf>
@@ -135,7 +141,10 @@
 <LM>w#w-lnd92255-130-p2s2w9</LM>
 </w.rf>
 <form>NHL</form>
-<tag lemma="NHL-1_:B_;K_;w_^(Nár._hokejová_liga)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="NHL-1_:B_;K_;w_^(Nár._hokejová_liga)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="NHL-1_:B_;K_^(Nár._hokejová_liga)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92255-130-p2s2w10">
 <src.rf>manual</src.rf>
@@ -547,7 +556,10 @@
 <LM>w#w-lnd92255-130-p2s4w2</LM>
 </w.rf>
 <form>San</form>
-<tag lemma="San-2_;G" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="San-2_;G" src="orig">AAXXX----1A----</AM>
+<AM lemma="San-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-lnd92255-130-p2s4w3">
 <src.rf>manual</src.rf>
@@ -555,7 +567,10 @@
 <LM>w#w-lnd92255-130-p2s4w3</LM>
 </w.rf>
 <form>José</form>
-<tag lemma="José_;G" src="auto" selected="1">NNNS1-----A----</tag>
+<tag>
+<AM lemma="José_;G" src="auto">NNNS1-----A----</AM>
+<AM lemma="José-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-lnd92255-130-p2s4w4">
 <src.rf>manual</src.rf>
@@ -563,7 +578,10 @@
 <LM>w#w-lnd92255-130-p2s4w4</LM>
 </w.rf>
 <form>Sharks</form>
-<tag lemma="Sharks_;K" src="orig" selected="1">NNMPX-----A----</tag>
+<tag>
+<AM lemma="Sharks_;K" src="orig">NNMPX-----A----</AM>
+<AM lemma="Sharks-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-lnd92255-130-p2s4w5">
 <src.rf>manual</src.rf>
@@ -975,7 +993,10 @@
 <LM>w#w-lnd92255-130-p2s6w5</LM>
 </w.rf>
 <form>San</form>
-<tag lemma="San-2_;G" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="San-2_;G" src="orig">AAXXX----1A----</AM>
+<AM lemma="San-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-lnd92255-130-p2s6w6">
 <src.rf>manual</src.rf>
@@ -983,7 +1004,10 @@
 <LM>w#w-lnd92255-130-p2s6w6</LM>
 </w.rf>
 <form>José</form>
-<tag lemma="José_;G" src="auto" selected="1">NNNS1-----A----</tag>
+<tag>
+<AM lemma="José_;G" src="auto">NNNS1-----A----</AM>
+<AM lemma="José-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-lnd92255-130-p2s6w7">
 <src.rf>manual</src.rf>
@@ -1039,7 +1063,10 @@
 <LM>w#w-lnd92255-130-p2s6w13</LM>
 </w.rf>
 <form>New</form>
-<tag lemma="New-1_;G_,t_^(součást_míst._jmen)" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="New-1_;G_,t_^(součást_míst._jmen)" src="orig">AAXXX----1A----</AM>
+<AM lemma="New-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-lnd92255-130-p2s6w14">
 <src.rf>manual</src.rf>
@@ -1047,7 +1074,10 @@
 <LM>w#w-lnd92255-130-p2s6w14</LM>
 </w.rf>
 <form>Jersey</form>
-<tag lemma="Jersey_;G" src="orig" selected="1">NNNXX-----A----</tag>
+<tag>
+<AM lemma="Jersey_;G" src="orig">NNNXX-----A----</AM>
+<AM lemma="Jersey-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-lnd92255-130-p2s6w15">
 <src.rf>manual</src.rf>
@@ -1087,7 +1117,10 @@
 <LM>w#w-lnd92255-130-p2s6w19</LM>
 </w.rf>
 <form>prodl</form>
-<tag lemma="prodloužení_:B" src="orig" selected="1">NNNXX-----A---8</tag>
+<tag>
+<AM lemma="prodloužení_:B" src="orig">NNNXX-----A---8</AM>
+<AM lemma="prodloužení" src="manual" selected="1">NNNXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd92255-130-p2s6w20">
 <src.rf>manual</src.rf>
@@ -1127,7 +1160,10 @@
 <LM>w#w-lnd92255-130-p2s6w24</LM>
 </w.rf>
 <form>Tampa</form>
-<tag lemma="Tampa_;G" src="orig" selected="1">NNFS1-----A----</tag>
+<tag>
+<AM lemma="Tampa_;G" src="orig">NNFS1-----A----</AM>
+<AM lemma="Tampa-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-lnd92255-130-p2s6w25">
 <src.rf>manual</src.rf>
@@ -1135,7 +1171,10 @@
 <LM>w#w-lnd92255-130-p2s6w25</LM>
 </w.rf>
 <form>Bay</form>
-<tag lemma="Bay-2_;G" src="auto" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="Bay-2_;G" src="auto">NNIS1-----A----</AM>
+<AM lemma="Bay-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-lnd92255-130-p2s6w26">
 <src.rf>manual</src.rf>

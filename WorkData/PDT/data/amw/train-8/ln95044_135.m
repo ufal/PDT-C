@@ -330,7 +330,10 @@
 <LM>w#w-ln95044-135-p2s2w12</LM>
 </w.rf>
 <form>přijali</form>
-<tag lemma="přijmout" src="auto" selected="1">VpMP---XR-AA---</tag>
+<tag>
+<AM lemma="přijmout" src="auto">VpMP---XR-AA---</AM>
+<AM lemma="přijmout_:W" src="manual" selected="1">VpMP---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-ln95044-135-p2s2w13">
 <src.rf>manual</src.rf>
@@ -648,7 +651,10 @@
 <LM>w#w-ln95044-135-p3s2w10</LM>
 </w.rf>
 <form>ing</form>
-<tag lemma="Ing-1_:B_^(inženýr)" src="orig" selected="1">NNMXX-----A---8</tag>
+<tag>
+<AM lemma="Ing-1_:B_^(inženýr)" src="orig">NNMXX-----A---8</AM>
+<AM lemma="ing_:B_^(inženýr)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95044-135-p3s2w11">
 <src.rf>manual</src.rf>
@@ -704,7 +710,10 @@
 <LM>w#w-ln95044-135-p3s2w17</LM>
 </w.rf>
 <form>ZPS</form>
-<tag lemma="ZPS-2_:B_^(Závody_přesného_strojírenství)" src="orig" selected="1">NNIPX-----A---8</tag>
+<tag>
+<AM lemma="ZPS-2_:B_^(Závody_přesného_strojírenství)" src="orig">NNIPX-----A---8</AM>
+<AM lemma="ZPS-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln95044-135-p3s2w18">
 <src.rf>manual</src.rf>
@@ -786,7 +795,10 @@
 <LM>w#w-ln95044-135-p3s3w2</LM>
 </w.rf>
 <form>přijalo</form>
-<tag lemma="přijmout" src="auto" selected="1">VpNS---XR-AA---</tag>
+<tag>
+<AM lemma="přijmout" src="auto">VpNS---XR-AA---</AM>
+<AM lemma="přijmout_:W" src="manual" selected="1">VpNS---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-ln95044-135-p3s3w3">
 <src.rf>manual</src.rf>
@@ -834,7 +846,10 @@
 <LM>w#w-ln95044-135-p3s3w8</LM>
 </w.rf>
 <form>ing</form>
-<tag lemma="Ing-1_:B_^(inženýr)" src="orig" selected="1">NNMXX-----A---8</tag>
+<tag>
+<AM lemma="Ing-1_:B_^(inženýr)" src="orig">NNMXX-----A---8</AM>
+<AM lemma="ing_:B_^(inženýr)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95044-135-p3s3w9">
 <src.rf>manual</src.rf>
@@ -990,7 +1005,10 @@
 <LM>w#w-ln95044-135-p3s5w2</LM>
 </w.rf>
 <form>řekl</form>
-<tag lemma="říci" src="auto" selected="1">VpYS---XR-AA---</tag>
+<tag>
+<AM lemma="říci" src="auto">VpYS---XR-AA---</AM>
+<AM lemma="říci_:W" src="manual" selected="1">VpYS---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-ln95044-135-p3s5w3">
 <src.rf>manual</src.rf>
@@ -998,7 +1016,10 @@
 <LM>w#w-ln95044-135-p3s5w3</LM>
 </w.rf>
 <form>LN</form>
-<tag lemma="LN-1_:B_;R_^(Lidové_noviny,_deník)" src="orig" selected="1">NNFPX-----A---8</tag>
+<tag>
+<AM lemma="LN-1_:B_;R_^(Lidové_noviny,_deník)" src="orig">NNFPX-----A---8</AM>
+<AM lemma="LN-1_:B_;K_;R_^(Lidové_noviny,_deník)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95044-135-p3s5w4">
 <src.rf>manual</src.rf>

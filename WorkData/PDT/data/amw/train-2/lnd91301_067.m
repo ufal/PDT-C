@@ -31,6 +31,8 @@
 <AM lemma="Summa_;G" src="orig">NNFS1-----A----</AM>
 <AM lemma="suma_,x" src="auto">NNFS1-----A----</AM>
 <AM lemma="summa" src="auto" recommended="1">NNFS1-----A----</AM>
+<AM lemma="Summa_;G_,t" src="manual">NNXXX-----A----</AM>
+<AM lemma="Summa_;G" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd91301-067-p1s1w3">
@@ -127,7 +129,10 @@
 <LM>w#w-lnd91301-067-p1s1w14</LM>
 </w.rf>
 <form>Daily</form>
-<tag lemma="Daily-1_;K_,t_^(souč._názvů,_např._D._Telegraph)" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="Daily-1_;K_,t_^(souč._názvů,_např._D._Telegraph)" src="orig">AAXXX----1A----</AM>
+<AM lemma="Daily-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-lnd91301-067-p1s1w15">
 <src.rf>manual</src.rf>
@@ -141,6 +146,7 @@
 <AM lemma="mail" src="auto">NNIS1-----A----</AM>
 <AM lemma="mail" src="auto">NNIS4-----A----</AM>
 <AM lemma="mail_,t" src="auto" recommended="1">NNIXX-----A----</AM>
+<AM lemma="Mail-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-lnd91301-067-p1s1w16">

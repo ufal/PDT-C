@@ -191,7 +191,10 @@
 <LM>w#w-mf920922-079-p2s2w15</LM>
 </w.rf>
 <form>řekl</form>
-<tag lemma="říci" src="auto" selected="1">VpYS---XR-AA---</tag>
+<tag>
+<AM lemma="říci" src="auto">VpYS---XR-AA---</AM>
+<AM lemma="říci_:W" src="manual" selected="1">VpYS---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-mf920922-079-p2s2w16">
 <src.rf>manual</src.rf>
@@ -242,6 +245,8 @@
 <tag>
 <AM lemma="USA_;G" src="orig">NNIPX-----A----</AM>
 <AM lemma="USA_:B_;K_,t_^(United_States_of_America)" src="auto" recommended="1">NNIPX-----A---8</AM>
+<AM lemma="USA_:B_;K_^(United_States_of_America)" src="manual">NNIXX-----A---8</AM>
+<AM lemma="USA_:B_;K_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920922-079-p2s2w22">
@@ -388,7 +393,10 @@
 <LM>w#w-mf920922-079-p2s3w13</LM>
 </w.rf>
 <form>ES</form>
-<tag lemma="ES_:B_;K_^(Evropská_společenství)" src="orig" selected="1">NNNXX-----A---8</tag>
+<tag>
+<AM lemma="ES_:B_;K_^(Evropská_společenství)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="ES-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920922-079-p2s3w14">
 <src.rf>manual</src.rf>
@@ -396,7 +404,10 @@
 <LM>w#w-mf920922-079-p2s3w14</LM>
 </w.rf>
 <form>nastala</form>
-<tag lemma="nastat" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag>
+<AM lemma="nastat" src="orig">VpQW---XR-AA---</AM>
+<AM lemma="nastat_:W" src="manual" selected="1">VpQW---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-mf920922-079-p2s3w15">
 <src.rf>manual</src.rf>
@@ -629,7 +640,10 @@
 <LM>w#w-mf920922-079-p2s3w43</LM>
 </w.rf>
 <form>ES</form>
-<tag lemma="ES_:B_;K_^(Evropská_společenství)" src="orig" selected="1">NNNXX-----A---8</tag>
+<tag>
+<AM lemma="ES_:B_;K_^(Evropská_společenství)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="ES-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920922-079-p2s3w44">
 <src.rf>manual</src.rf>

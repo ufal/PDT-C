@@ -35,7 +35,10 @@
 <LM>w#w-mf920924-146-p1s1w3</LM>
 </w.rf>
 <form>MMF</form>
-<tag lemma="MMF-1_:B_;K_;b_^(Mezinárodní_měnový_fond)" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="MMF-1_:B_;K_;b_^(Mezinárodní_měnový_fond)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="MMF-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920924-146-p1s1w4">
 <src.rf>manual</src.rf>
@@ -75,7 +78,10 @@
 <LM>w#w-mf920924-146-p1s1w8</LM>
 </w.rf>
 <form>SBČ</form>
-<tag lemma="SBČ_:B_;K" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="SBČ_:B_;K" src="orig">NNFXX-----A---8</AM>
+<AM lemma="SBČ-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920924-146-p1s1w9">
 <src.rf>manual</src.rf>
@@ -143,7 +149,10 @@
 <LM>w#w-mf920924-146-p2s2w5</LM>
 </w.rf>
 <form>MMF</form>
-<tag lemma="MMF-1_:B_;K_;b_^(Mezinárodní_měnový_fond)" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="MMF-1_:B_;K_;b_^(Mezinárodní_měnový_fond)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="MMF-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920924-146-p2s2w6">
 <src.rf>manual</src.rf>
@@ -351,7 +360,10 @@
 <LM>w#w-mf920924-146-p2s2w31</LM>
 </w.rf>
 <form>dolarů</form>
-<tag lemma="dolar_;b" src="orig" selected="1">NNIP2-----A----</tag>
+<tag>
+<AM lemma="dolar_;b" src="orig">NNIP2-----A----</AM>
+<AM lemma="dolar" src="manual" selected="1">NNIP2-----A----</AM>
+</tag>
 </m>
 </s>
 <s id="m-mf920924-146-p3s1">
@@ -518,6 +530,7 @@
 <tag>
 <AM lemma="Sheraton_;K" src="orig">NNIS1-----A----</AM>
 <AM lemma="Sheraton_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Sheraton-2_;K" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920924-146-p4s1w7">

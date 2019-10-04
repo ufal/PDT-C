@@ -19,7 +19,10 @@
 <LM>w#w-ln95045-062-p1s1w1</LM>
 </w.rf>
 <form>OOP</form>
-<tag lemma="OOP-1_:B_;K_;p_^(Org._pro_osvobození_Palestiny)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="OOP-1_:B_;K_;p_^(Org._pro_osvobození_Palestiny)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="OOP-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95045-062-p1s1w2">
 <src.rf>manual</src.rf>
@@ -39,6 +42,7 @@
 <AM lemma="zbrždění_,x_,h_^(*5zdit)" src="orig">NNNS7-----A----</AM>
 <AM lemma="zbrzdění_,h_,x_^(*3it)" src="auto">NNNP3-----A----</AM>
 <AM lemma="zbrzdění_,h_,x_^(*3it)" src="auto" recommended="1">NNNS7-----A----</AM>
+<AM lemma="zbrždění_,h_^(^GC**zbrzdění)" src="manual" selected="1">NNNS7-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95045-062-p1s1w4">
@@ -131,7 +135,10 @@
 <LM>w#w-ln95045-062-p2s1Bw8</LM>
 </w.rf>
 <form>OOP</form>
-<tag lemma="OOP-1_:B_;K_;p_^(Org._pro_osvobození_Palestiny)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="OOP-1_:B_;K_;p_^(Org._pro_osvobození_Palestiny)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="OOP-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95045-062-p2s1Bw9">
 <src.rf>manual</src.rf>
@@ -331,7 +338,10 @@
 <LM>w#w-ln95045-062-p2s1Bw33</LM>
 </w.rf>
 <form>pomohly</form>
-<tag lemma="pomoci" src="orig" selected="1">VpTP---XR-AA---</tag>
+<tag>
+<AM lemma="pomoci" src="orig">VpTP---XR-AA---</AM>
+<AM lemma="pomoci_:W" src="manual" selected="1">VpTP---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-ln95045-062-p2s1Bw34">
 <src.rf>manual</src.rf>
@@ -637,7 +647,10 @@
 <LM>w#w-ln95045-062-p3s1w29</LM>
 </w.rf>
 <form>OOP</form>
-<tag lemma="OOP-1_:B_;K_;p_^(Org._pro_osvobození_Palestiny)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="OOP-1_:B_;K_;p_^(Org._pro_osvobození_Palestiny)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="OOP-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95045-062-p3s1w30">
 <src.rf>manual</src.rf>
@@ -1169,7 +1182,10 @@
 <LM>w#w-ln95045-062-p5s1w17</LM>
 </w.rf>
 <form>quo</form>
-<tag lemma="quo_,t" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="quo_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="quo-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln95045-062-p5s1w18">
 <src.rf>manual</src.rf>
@@ -1656,6 +1672,7 @@
 <tag>
 <AM lemma="USA_;G" src="orig">NNIPX-----A----</AM>
 <AM lemma="USA_:B_;K_,t_^(United_States_of_America)" src="auto" recommended="1">NNIPX-----A---8</AM>
+<AM lemma="USA_:B_;K_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95045-062-p7s1w19">
@@ -1762,7 +1779,10 @@
 <LM>w#w-ln95045-062-p8s1w4</LM>
 </w.rf>
 <form>OOP</form>
-<tag lemma="OOP-1_:B_;K_;p_^(Org._pro_osvobození_Palestiny)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="OOP-1_:B_;K_;p_^(Org._pro_osvobození_Palestiny)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="OOP-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95045-062-p8s1w5">
 <src.rf>manual</src.rf>

@@ -523,7 +523,10 @@
 <LM>w#w-ln95040-044-p3s1w10</LM>
 </w.rf>
 <form>Noshiro</form>
-<tag lemma="Noshiro-2_;G" src="auto" selected="1">NNNS1-----A----</tag>
+<tag>
+<AM lemma="Noshiro-2_;G" src="auto">NNNS1-----A----</AM>
+<AM lemma="Noshiro-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln95040-044-p3s1w11">
 <src.rf>manual</src.rf>
@@ -849,7 +852,10 @@
 <LM>w#w-ln95040-044-p3s4w3</LM>
 </w.rf>
 <form>Noshiro</form>
-<tag lemma="Noshiro-2_;G" src="auto" selected="1">NNNS1-----A----</tag>
+<tag>
+<AM lemma="Noshiro-2_;G" src="auto">NNNS1-----A----</AM>
+<AM lemma="Noshiro-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln95040-044-p3s4w4">
 <src.rf>manual</src.rf>
@@ -1783,7 +1789,10 @@
 <LM>w#w-ln95040-044-p4s7w1</LM>
 </w.rf>
 <form>Expresívním</form>
-<tag lemma="expresivní" src="orig" selected="1">AAIS7----1A----</tag>
+<tag>
+<AM lemma="expresivní" src="orig">AAIS7----1A----</AM>
+<AM lemma="expresívní_,s_^(^DD**expresivní)" src="manual" selected="1">AAIS7----1A----</AM>
+</tag>
 </m>
 <m id="m-ln95040-044-p4s7w2">
 <src.rf>manual</src.rf>
@@ -2037,7 +2046,10 @@
 <LM>w#w-ln95040-044-p5s2w2</LM>
 </w.rf>
 <form>jen</form>
-<tag lemma="jen-1" src="auto" selected="1">TT-------------</tag>
+<tag>
+<AM lemma="jen-1" src="auto">TT-------------</AM>
+<AM lemma="jen-4_^(pouze)" src="manual" selected="1">Db-------------</AM>
+</tag>
 </m>
 <m id="m-ln95040-044-p5s2w3">
 <src.rf>manual</src.rf>
@@ -2151,7 +2163,10 @@
 <LM>w#w-ln95040-044-p5s3w8</LM>
 </w.rf>
 <form>Noshiro</form>
-<tag lemma="Noshiro-2_;G" src="auto" selected="1">NNNS1-----A----</tag>
+<tag>
+<AM lemma="Noshiro-2_;G" src="auto">NNNS1-----A----</AM>
+<AM lemma="Noshiro-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln95040-044-p5s3w9">
 <src.rf>manual</src.rf>

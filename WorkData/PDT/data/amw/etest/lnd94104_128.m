@@ -51,7 +51,10 @@
 <LM>w#w-lnd94104-128-p1s1Aw5</LM>
 </w.rf>
 <form>PVP</form>
-<tag lemma="PVP-2_:B_;m_^(Pohár_výherců_pohárů)" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="PVP-2_:B_;m_^(Pohár_výherců_pohárů)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="PVP-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 </s>
 <s id="m-lnd94104-128-p1s1B">
@@ -193,6 +196,7 @@
 <AM lemma="čas_:B_^(př._t._č.)" src="auto">NNIXX-----A---8</AM>
 <AM lemma="český_:B" src="auto">AAXXX----1A---8</AM>
 <AM lemma="číslo_:B" src="auto" recommended="1">NNNXX-----A---8</AM>
+<AM lemma="č-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94104-128-p1s1Dw6">
@@ -274,7 +278,7 @@
 <AM lemma="osmý" src="auto">CrFP5----------</AM>
 <AM lemma="osmý" src="auto">CrFS2----------</AM>
 <AM lemma="osmý" src="auto">CrFS3----------</AM>
-<AM lemma="osmý" src="auto" recommended="1">CrFS6----------</AM>
+<AM lemma="osmý" src="auto" recommended="1" selected="1">CrFS6----------</AM>
 <AM lemma="osmý" src="auto">CrIP1----------</AM>
 <AM lemma="osmý" src="auto">CrIP4----------</AM>
 <AM lemma="osmý" src="auto">CrIP5----------</AM>
@@ -633,7 +637,10 @@
 <LM>w#w-lnd94104-128-p1s3w4</LM>
 </w.rf>
 <form>AC</form>
-<tag lemma="AC-1_:B_;K_;w_^(př._AC_Sparta_Praha)" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="AC-1_:B_;K_;w_^(př._AC_Sparta_Praha)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="AC-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd94104-128-p1s3w5">
 <src.rf>manual</src.rf>
@@ -673,7 +680,10 @@
 <LM>w#w-lnd94104-128-p1s3w9</LM>
 </w.rf>
 <form>mají</form>
-<tag lemma="mít" src="orig" selected="1">VB-P---3P-AA---</tag>
+<tag>
+<AM lemma="mít" src="orig">VB-P---3P-AA---</AM>
+<AM lemma="mít_:T" src="manual" selected="1">VB-P---3P-AA---</AM>
+</tag>
 </m>
 <m id="m-lnd94104-128-p1s3w10">
 <src.rf>manual</src.rf>
@@ -741,7 +751,7 @@
 <form>totiž</form>
 <tag>
 <AM lemma="totiž" src="orig">Db-------------</AM>
-<AM lemma="totiž-1" src="auto" recommended="1">J^-------------</AM>
+<AM lemma="totiž-1" src="auto" recommended="1" selected="1">J^-------------</AM>
 <AM lemma="totiž-2" src="auto">TT-------------</AM>
 </tag>
 </m>
@@ -807,7 +817,10 @@
 <LM>w#w-lnd94104-128-p1s4w10</LM>
 </w.rf>
 <form>PVP</form>
-<tag lemma="PVP-2_:B_;m_^(Pohár_výherců_pohárů)" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="PVP-2_:B_;m_^(Pohár_výherců_pohárů)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="PVP-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd94104-128-p1s4w11">
 <src.rf>manual</src.rf>
@@ -849,7 +862,10 @@
 <LM>w#w-lnd94104-128-p1s5w4</LM>
 </w.rf>
 <form>má</form>
-<tag lemma="mít" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag>
+<AM lemma="mít" src="orig">VB-S---3P-AA---</AM>
+<AM lemma="mít_:T" src="manual" selected="1">VB-S---3P-AA---</AM>
+</tag>
 </m>
 <m id="m-lnd94104-128-p1s5w5">
 <src.rf>manual</src.rf>
@@ -948,6 +964,7 @@
 <tag>
 <AM lemma="Benfika_;K" src="orig">NNFS7-----A----</AM>
 <AM lemma="Benfica_;K_;w" src="auto" recommended="1">NNFS7-----A----</AM>
+<AM lemma="Benfika_;K_,s_^(^DD**Benfica)" src="manual" selected="1">NNFS7-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94104-128-p1s5w17">
@@ -1134,7 +1151,10 @@
 <LM>w#w-lnd94104-128-p1s6w3</LM>
 </w.rf>
 <form>George</form>
-<tag lemma="George_;Y_,t" src="orig" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="George_;Y_,t" src="orig">NNMS1-----A----</AM>
+<AM lemma="George_;Y_;S" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd94104-128-p1s6w4">
 <src.rf>manual</src.rf>
@@ -1307,7 +1327,7 @@
 <tag>
 <AM lemma="přesto" src="orig">Dg-------1A----</AM>
 <AM lemma="přesto-1" src="auto">Db-------------</AM>
-<AM lemma="přesto-2" src="auto" recommended="1">J^-------------</AM>
+<AM lemma="přesto-2" src="auto" recommended="1" selected="1">J^-------------</AM>
 </tag>
 </m>
 <m id="m-lnd94104-128-p1s7Aw2">
@@ -1574,7 +1594,10 @@
 <LM>w#w-lnd94104-128-p1s7Bw10</LM>
 </w.rf>
 <form>PVP</form>
-<tag lemma="PVP-2_:B_;m_^(Pohár_výherců_pohárů)" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="PVP-2_:B_;m_^(Pohár_výherců_pohárů)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="PVP-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd94104-128-p1s7Bw11">
 <src.rf>manual</src.rf>
@@ -1622,7 +1645,10 @@
 <LM>w#w-lnd94104-128-p1s7Bw16</LM>
 </w.rf>
 <form>sezoně</form>
-<tag lemma="sezóna" src="orig" selected="1">NNFS6-----A----</tag>
+<tag>
+<AM lemma="sezóna" src="orig">NNFS6-----A----</AM>
+<AM lemma="sezona_,s_^(^DD**sezóna)" src="manual" selected="1">NNFS6-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd94104-128-p1s7Bw17">
 <src.rf>manual</src.rf>
@@ -1936,7 +1962,10 @@
 <LM>w#w-lnd94104-128-p1s8w26</LM>
 </w.rf>
 <form>UEFA</form>
-<tag lemma="UEFA-1_:B_;K_;w_^(Evr._fotbalová_federace)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="UEFA-1_:B_;K_;w_^(Evr._fotbalová_federace)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="UEFA-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd94104-128-p1s8w27">
 <src.rf>manual</src.rf>
@@ -2050,7 +2079,10 @@
 <LM>w#w-lnd94104-128-p1s9w13</LM>
 </w.rf>
 <form>ČT</form>
-<tag lemma="ČT_:B_;K_^(Česká_televize)" src="auto" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="ČT_:B_;K_^(Česká_televize)" src="auto">NNXXX-----A---8</AM>
+<AM lemma="ČT_:B_;K_^(Česká_televize)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd94104-128-p1s9w14">
 <src.rf>manual</src.rf>

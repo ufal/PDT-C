@@ -1213,7 +1213,7 @@
 <form>kdokoli</form>
 <tag>
 <AM lemma="kdokoliv" src="orig">PZM-1---------1</AM>
-<AM lemma="kdokoli" src="auto" recommended="1">PZM-1----------</AM>
+<AM lemma="kdokoli" src="auto" recommended="1" selected="1">PZM-1----------</AM>
 <AM lemma="kdokoli" src="auto">PZM-5----------</AM>
 </tag>
 </m>
@@ -1313,7 +1313,7 @@
 <form>vůbec</form>
 <tag>
 <AM lemma="vůbec" src="orig">Db-------------</AM>
-<AM lemma="vůbec" src="auto" recommended="1">TT-------------</AM>
+<AM lemma="vůbec" src="auto" recommended="1" selected="1">TT-------------</AM>
 </tag>
 </m>
 <m id="m-cmpr9410-022-p10s1w22">
@@ -1510,7 +1510,10 @@
 <LM>w#w-cmpr9410-022-p10s3w8</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-2" src="auto" selected="1">Dg-------2A----</tag>
+<tag>
+<AM lemma="hodně-2" src="auto">Dg-------2A----</AM>
+<AM lemma="hodně-3" src="manual" selected="1">Dg-------2A----</AM>
+</tag>
 </m>
 <m id="m-cmpr9410-022-p10s3w9">
 <src.rf>manual</src.rf>
@@ -1698,7 +1701,10 @@
 <LM>w#w-cmpr9410-022-p11s1w3</LM>
 </w.rf>
 <form>CMC</form>
-<tag lemma="CMC-4_:B_;K_^(Československé_manažerské_centrum)" src="orig" selected="1">NNNXX-----A---8</tag>
+<tag>
+<AM lemma="CMC-4_:B_;K_^(Československé_manažerské_centrum)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="CMC-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-cmpr9410-022-p11s1w4">
 <src.rf>manual</src.rf>
@@ -1714,7 +1720,10 @@
 <LM>w#w-cmpr9410-022-p11s1w5</LM>
 </w.rf>
 <form>nám</form>
-<tag lemma="náměstí_:B" src="orig" selected="1">NNNXX-----A---8</tag>
+<tag>
+<AM lemma="náměstí_:B" src="orig">NNNXX-----A---8</AM>
+<AM lemma="náměstí" src="manual" selected="1">NNNXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-cmpr9410-022-p11s1w6">
 <src.rf>manual</src.rf>
@@ -1802,7 +1811,10 @@
 <LM>w#w-cmpr9410-022-p11s1w16</LM>
 </w.rf>
 <form>tel</form>
-<tag lemma="telefon_:B" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="telefon_:B" src="orig">NNIXX-----A---8</AM>
+<AM lemma="telefon" src="manual" selected="1">NNIXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-cmpr9410-022-p11s1w17">
 <src.rf>manual</src.rf>

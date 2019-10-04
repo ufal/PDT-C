@@ -157,7 +157,10 @@
 <LM>w#w-cmpr9410-006-p3s1w15</LM>
 </w.rf>
 <form>milionů</form>
-<tag lemma="milión`1000000" src="orig" selected="1">NNIP2-----A----</tag>
+<tag>
+<AM lemma="milión`1000000" src="orig">NNIP2-----A----</AM>
+<AM lemma="milion`1000000_,s_^(^DD**milión)" src="manual" selected="1">NNIP2-----A----</AM>
+</tag>
 </m>
 <m id="m-cmpr9410-006-p3s1w16">
 <src.rf>manual</src.rf>
@@ -194,7 +197,7 @@
 <form>sóji</form>
 <tag>
 <AM lemma="sója" src="orig">NNFS2-----A----</AM>
-<AM lemma="sója" src="auto" recommended="1">NNFS2-----A---1</AM>
+<AM lemma="sója" src="auto" recommended="1" selected="1">NNFS2-----A---1</AM>
 <AM lemma="sója" src="auto">NNFS3-----A----</AM>
 <AM lemma="sója" src="auto">NNFS6-----A----</AM>
 </tag>
@@ -229,7 +232,10 @@
 <LM>w#w-cmpr9410-006-p3s2w6</LM>
 </w.rf>
 <form>miliony</form>
-<tag lemma="milión`1000000" src="orig" selected="1">NNIP7-----A----</tag>
+<tag>
+<AM lemma="milión`1000000" src="orig">NNIP7-----A----</AM>
+<AM lemma="milion`1000000_,s_^(^DD**milión)" src="manual" selected="1">NNIP7-----A----</AM>
+</tag>
 </m>
 <m id="m-cmpr9410-006-p3s2w7">
 <src.rf>manual</src.rf>
@@ -261,7 +267,10 @@
 <LM>w#w-cmpr9410-006-p3s2w10</LM>
 </w.rf>
 <form>milionů</form>
-<tag lemma="milión`1000000" src="orig" selected="1">NNIP2-----A----</tag>
+<tag>
+<AM lemma="milión`1000000" src="orig">NNIP2-----A----</AM>
+<AM lemma="milion`1000000_,s_^(^DD**milión)" src="manual" selected="1">NNIP2-----A----</AM>
+</tag>
 </m>
 <m id="m-cmpr9410-006-p3s2w11">
 <src.rf>manual</src.rf>
@@ -665,7 +674,10 @@
 <LM>w#w-cmpr9410-006-p3s4w17</LM>
 </w.rf>
 <form>milionů</form>
-<tag lemma="milión`1000000" src="orig" selected="1">NNIP2-----A----</tag>
+<tag>
+<AM lemma="milión`1000000" src="orig">NNIP2-----A----</AM>
+<AM lemma="milion`1000000_,s_^(^DD**milión)" src="manual" selected="1">NNIP2-----A----</AM>
+</tag>
 </m>
 <m id="m-cmpr9410-006-p3s4w18">
 <src.rf>manual</src.rf>

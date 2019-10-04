@@ -239,7 +239,10 @@
 <LM>w#w-ln95042-093-p2s1Bw22</LM>
 </w.rf>
 <form>V</form>
-<tag lemma="V-0_:B_;Y" src="orig" selected="1">NNMXX-----A---8</tag>
+<tag>
+<AM lemma="V-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
+<AM lemma="V-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln95042-093-p2s1Bw23">
 <src.rf>manual</src.rf>
@@ -783,7 +786,10 @@
 <LM>w#w-ln95042-093-p4s2w2</LM>
 </w.rf>
 <form>V</form>
-<tag lemma="V-0_:B_;Y" src="orig" selected="1">NNMXX-----A---8</tag>
+<tag>
+<AM lemma="V-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
+<AM lemma="V-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln95042-093-p4s2w3">
 <src.rf>manual</src.rf>
@@ -871,7 +877,10 @@
 <LM>w#w-ln95042-093-p4s2w13</LM>
 </w.rf>
 <form>Poldi</form>
-<tag lemma="Poldi_;K_;Y" src="auto" selected="1">NNFXX-----A----</tag>
+<tag>
+<AM lemma="Poldi_;K_;Y" src="auto">NNFXX-----A----</AM>
+<AM lemma="Poldi-1_;K" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95042-093-p4s2w14">
 <src.rf>manual</src.rf>

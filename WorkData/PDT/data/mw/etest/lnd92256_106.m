@@ -64,7 +64,7 @@
 <tag>
 <AM lemma="padák-2_^(výpověď)" src="orig">NNIS4-----A----</AM>
 <AM lemma="padák" src="auto" recommended="1">NNIS2-----A---1</AM>
-<AM lemma="padák" src="auto">NNIS4-----A---1</AM>
+<AM lemma="padák" src="auto" selected="1">NNIS4-----A---1</AM>
 </tag>
 </m>
 <m id="m-lnd92256-106-p2s1w4">
@@ -1397,7 +1397,7 @@
 <form>ovšem</form>
 <tag>
 <AM lemma="ovšem-1_^(avšak,_však;_odporovací_spojka)" src="orig">J^-------------</AM>
-<AM lemma="ovšem" src="auto" recommended="1">TT-------------</AM>
+<AM lemma="ovšem" src="auto" recommended="1" selected="1">TT-------------</AM>
 </tag>
 </m>
 <m id="m-lnd92256-106-p4s12w10">

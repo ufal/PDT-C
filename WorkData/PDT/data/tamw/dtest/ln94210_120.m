@@ -35,7 +35,10 @@
 <LM>w#w-ln94210-120-p1s1w3</LM>
 </w.rf>
 <form>SP</form>
-<tag lemma="SP-3_:B_^(Světový_pohár)" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="SP-3_:B_^(Světový_pohár)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="SP-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 </s>
 <s id="m-ln94210-120-p2s1A">
@@ -298,6 +301,8 @@
 <AM lemma="mimo-1_:B" src="auto">RR--4---------8</AM>
 <AM lemma="minuta_:B" src="auto">NNFXX-----A---8</AM>
 <AM lemma="město_:B" src="auto">NNNXX-----A---8</AM>
+<AM lemma="metr" src="manual">NNIXX-----A----</AM>
+<AM lemma="metr" src="manual" selected="1">NNIXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-ln94210-120-p3s1w16">
@@ -529,6 +534,7 @@
 <AM lemma="organismus" src="auto">NNIS2-----A----</AM>
 <AM lemma="organismus" src="auto">NNIS3-----A----</AM>
 <AM lemma="organismus" src="auto" recommended="1">NNIS6-----A----</AM>
+<AM lemma="organismus_,s_^(^DD**organizmus)" src="manual" selected="1">NNIS6-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94210-120-p3s2w26">

@@ -61,7 +61,10 @@
 <LM>w#w-ln94205-93-p2s1Aw1</LM>
 </w.rf>
 <form>Doc</form>
-<tag lemma="docent_:B" src="orig" selected="1">NNMXX-----A---8</tag>
+<tag>
+<AM lemma="docent_:B" src="orig">NNMXX-----A---8</AM>
+<AM lemma="Doc_:B_^(docent)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94205-93-p2s1Aw2">
 <src.rf>manual</src.rf>
@@ -77,7 +80,10 @@
 <LM>w#w-ln94205-93-p2s1Aw3</LM>
 </w.rf>
 <form>MUDr</form>
-<tag lemma="MUDr-1_:B_^(doktor_medicíny)" src="orig" selected="1">NNMXX-----A---8</tag>
+<tag>
+<AM lemma="MUDr-1_:B_^(doktor_medicíny)" src="orig">NNMXX-----A---8</AM>
+<AM lemma="MUDr_:B_^(doktor_medicíny)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94205-93-p2s1Aw4">
 <src.rf>manual</src.rf>
@@ -117,7 +123,10 @@
 <LM>w#w-ln94205-93-p2s1Aw8</LM>
 </w.rf>
 <form>CSc</form>
-<tag lemma="CSc-1_:B_^(kandidát_věd)" src="orig" selected="1">NNMXX-----A---8</tag>
+<tag>
+<AM lemma="CSc-1_:B_^(kandidát_věd)" src="orig">NNMXX-----A---8</AM>
+<AM lemma="CSc_:B_^(kandidát_věd)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94205-93-p2s1Aw9">
 <src.rf>manual</src.rf>
@@ -216,7 +225,7 @@
 <tag>
 <AM lemma="Motol_;G" src="orig">NNIS6-----A----</AM>
 <AM lemma="Motol_;G" src="auto">NNIS5-----A----</AM>
-<AM lemma="Motol_;G" src="auto" recommended="1">NNIS6-----A---1</AM>
+<AM lemma="Motol_;G" src="auto" recommended="1" selected="1">NNIS6-----A---1</AM>
 </tag>
 </m>
 </s>
@@ -439,7 +448,10 @@
 <LM>w#w-ln94205-93-p2s2w7</LM>
 </w.rf>
 <form>tj</form>
-<tag lemma="tj-1_:B_^(to_je/jest)" src="orig" selected="1">J^------------8</tag>
+<tag>
+<AM lemma="tj-1_:B_^(to_je/jest)" src="orig">J^------------8</AM>
+<AM lemma="tj-1_:B_^(to_je/jest)" src="manual" selected="1">J^-------------</AM>
+</tag>
 </m>
 <m id="m-ln94205-93-p2s2w8">
 <src.rf>manual</src.rf>
@@ -699,7 +711,10 @@
 <LM>w#w-ln94205-93-p2s4w3</LM>
 </w.rf>
 <form>li</form>
-<tag lemma="li-1" src="auto" selected="1">TT-------------</tag>
+<tag>
+<AM lemma="li-1" src="auto">TT-------------</AM>
+<AM lemma="li-2" src="manual" selected="1">J,-------------</AM>
+</tag>
 </m>
 <m id="m-ln94205-93-p2s4w4">
 <src.rf>manual</src.rf>
@@ -2741,7 +2756,10 @@
 <LM>w#w-ln94205-93-p4s2w1</LM>
 </w.rf>
 <form>Použít</form>
-<tag lemma="použít" src="orig" selected="1">Vf--------A----</tag>
+<tag>
+<AM lemma="použít" src="orig">Vf--------A----</AM>
+<AM lemma="použít_:W" src="manual" selected="1">Vf--------A----</AM>
+</tag>
 </m>
 <m id="m-ln94205-93-p4s2w2">
 <src.rf>manual</src.rf>

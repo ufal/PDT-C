@@ -698,7 +698,7 @@
 <tag>
 <AM lemma="tedy" src="orig">Db-------------</AM>
 <AM lemma="tedy-1" src="auto">TT-------------</AM>
-<AM lemma="tedy-2" src="auto" recommended="1">J^-------------</AM>
+<AM lemma="tedy-2" src="auto" recommended="1" selected="1">J^-------------</AM>
 </tag>
 </m>
 <m id="m-ln95049-016-p3s3w13">
@@ -816,6 +816,8 @@
 <tag>
 <AM lemma="Kč" src="orig">NNFXX-----A----</AM>
 <AM lemma="Kč_:B" src="auto" recommended="1">NNFXX-----A---8</AM>
+<AM lemma="Kč_:B" src="manual">NNXXX-----A----</AM>
+<AM lemma="Kč_:B_^(koruna_česká)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95049-016-p3s4w5">
@@ -1148,7 +1150,11 @@
 <LM>w#w-ln95049-016-p4s1w6</LM>
 </w.rf>
 <form>dlouhou</form>
-<tag lemma="dlouhý-2_^(o_čase;_př._dlouhá_doba)" src="orig" selected="1">AAFS4----1A----</tag>
+<tag>
+<AM lemma="dlouhý-2_^(o_čase;_př._dlouhá_doba)" src="orig">AAFS4----1A----</AM>
+<AM lemma="dlouhý" src="manual">AAFS4----1A----</AM>
+<AM lemma="dlouhý_^(dlouhá_tyč_dlouhá_doba)" src="manual" selected="1">AAFS4----1A----</AM>
+</tag>
 </m>
 <m id="m-ln95049-016-p4s1w7">
 <src.rf>manual</src.rf>

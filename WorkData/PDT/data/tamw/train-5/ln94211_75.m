@@ -197,7 +197,10 @@
 <LM>w#w-ln94211-75-p2s1w18</LM>
 </w.rf>
 <form>Bild</form>
-<tag lemma="Bild_;K_;R" src="orig" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="Bild_;K_;R" src="orig">NNIS1-----A----</AM>
+<AM lemma="Bild-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94211-75-p2s1w19">
 <src.rf>manual</src.rf>
@@ -205,7 +208,10 @@
 <LM>w#w-ln94211-75-p2s1w19</LM>
 </w.rf>
 <form>Zeitung</form>
-<tag lemma="Zeitung-1_;K_,t_^(souč._názvu_něm._novin)" src="orig" selected="1">NNISX-----A----</tag>
+<tag>
+<AM lemma="Zeitung-1_;K_,t_^(souč._názvu_něm._novin)" src="orig">NNISX-----A----</AM>
+<AM lemma="Zeitung-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94211-75-p2s1w20">
 <src.rf>manual</src.rf>
@@ -435,7 +441,10 @@
 <LM>w#w-ln94211-75-p2s4w1</LM>
 </w.rf>
 <form>Ani</form>
-<tag lemma="ani-1" src="auto" selected="1">J^-------------</tag>
+<tag>
+<AM lemma="ani-1" src="auto">J^-------------</AM>
+<AM lemma="ani-2" src="manual" selected="1">TT-------------</AM>
+</tag>
 </m>
 <m id="m-ln94211-75-p2s4w2">
 <src.rf>manual</src.rf>

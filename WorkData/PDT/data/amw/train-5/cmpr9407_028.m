@@ -435,7 +435,7 @@
 <form>dvoubřitvových</form>
 <tag>
 <AM lemma="dvojbřitvový_,x" src="orig">AAFP2----1A----</AM>
-<AM lemma="dvoubřitvový_,x" src="auto" recommended="1">AAFP2----1A----</AM>
+<AM lemma="dvoubřitvový_,x" src="auto" recommended="1" selected="1">AAFP2----1A----</AM>
 <AM lemma="dvoubřitvový_,x" src="auto">AAFP6----1A----</AM>
 <AM lemma="dvoubřitvový_,x" src="auto">AAIP2----1A----</AM>
 <AM lemma="dvoubřitvový_,x" src="auto">AAIP6----1A----</AM>
@@ -789,7 +789,7 @@
 <form>USA</form>
 <tag>
 <AM lemma="USA_;G" src="orig">NNIPX-----A----</AM>
-<AM lemma="USA_:B_;K_,t_^(United_States_of_America)" src="auto" recommended="1">NNIPX-----A---8</AM>
+<AM lemma="USA_:B_;K_,t_^(United_States_of_America)" src="auto" recommended="1" selected="1">NNIPX-----A---8</AM>
 </tag>
 </m>
 <m id="m-cmpr9407-028-p5s3w6">
@@ -1844,7 +1844,10 @@
 <LM>w#w-cmpr9407-028-p7s1w5</LM>
 </w.rf>
 <form>Central</form>
-<tag lemma="Central_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="Central_;K" src="orig">NNIS1-----A----</AM>
+<AM lemma="Central-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-cmpr9407-028-p7s1w6">
 <src.rf>manual</src.rf>
@@ -1852,7 +1855,10 @@
 <LM>w#w-cmpr9407-028-p7s1w6</LM>
 </w.rf>
 <form>Europe</form>
-<tag lemma="Europe-1_;G_,t" src="auto" selected="1">NNFXX-----A----</tag>
+<tag>
+<AM lemma="Europe-1_;G_,t" src="auto">NNFXX-----A----</AM>
+<AM lemma="Europe-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-cmpr9407-028-p7s1w7">
 <src.rf>manual</src.rf>

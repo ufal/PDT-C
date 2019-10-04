@@ -75,7 +75,10 @@
 <LM>w#w-ln95041-075-p1s1w8</LM>
 </w.rf>
 <form>BIS</form>
-<tag lemma="BIS_:B_^(Bezp._informační_služba)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="BIS_:B_^(Bezp._informační_služba)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="BIS-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 </s>
 <s id="m-ln95041-075-p2s1">
@@ -185,7 +188,10 @@
 <LM>w#w-ln95041-075-p3s1Bw6</LM>
 </w.rf>
 <form>BIS</form>
-<tag lemma="BIS_:B_^(Bezp._informační_služba)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="BIS_:B_^(Bezp._informační_služba)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="BIS-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln95041-075-p3s1Bw7">
 <src.rf>manual</src.rf>
@@ -217,7 +223,10 @@
 <LM>w#w-ln95041-075-p3s1Bw10</LM>
 </w.rf>
 <form>ODA</form>
-<tag lemma="ODA-2_:B_;K_;p_^(Občanská_demokratická_aliance)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ODA-2_:B_;K_;p_^(Občanská_demokratická_aliance)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ODA-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln95041-075-p3s1Bw11">
 <src.rf>manual</src.rf>
@@ -265,7 +274,10 @@
 <LM>w#w-ln95041-075-p3s1Bw16</LM>
 </w.rf>
 <form>KDU</form>
-<tag lemma="KDU_:B_;K_;p_^(Křesťansko-demokratická_unie)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="KDU_:B_;K_;p_^(Křesťansko-demokratická_unie)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="KDU-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln95041-075-p3s1Bw17">
 <src.rf>manual</src.rf>
@@ -281,7 +293,10 @@
 <LM>w#w-ln95041-075-p3s1Bw18</LM>
 </w.rf>
 <form>ČSL</form>
-<tag lemma="ČSL-1_:B_;K_;p_^(Česká_[pův._Čsl.]_strana_lidová)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ČSL-1_:B_;K_;p_^(Česká_[pův._Čsl.]_strana_lidová)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČSL-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln95041-075-p3s1Bw19">
 <src.rf>manual</src.rf>
@@ -385,7 +400,10 @@
 <LM>w#w-ln95041-075-p3s1Bw31</LM>
 </w.rf>
 <form>ODA</form>
-<tag lemma="ODA-2_:B_;K_;p_^(Občanská_demokratická_aliance)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ODA-2_:B_;K_;p_^(Občanská_demokratická_aliance)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ODA-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln95041-075-p3s1Bw32">
 <src.rf>manual</src.rf>
@@ -409,7 +427,10 @@
 <LM>w#w-ln95041-075-p3s1Bw34</LM>
 </w.rf>
 <form>BIS</form>
-<tag lemma="BIS_:B_^(Bezp._informační_služba)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="BIS_:B_^(Bezp._informační_služba)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="BIS-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln95041-075-p3s1Bw35">
 <src.rf>manual</src.rf>
@@ -930,7 +951,7 @@
 <tag>
 <AM lemma="totiž" src="orig">Db-------------</AM>
 <AM lemma="totiž-1" src="auto" recommended="1">J^-------------</AM>
-<AM lemma="totiž-2" src="auto">TT-------------</AM>
+<AM lemma="totiž-2" src="auto" selected="1">TT-------------</AM>
 </tag>
 </m>
 <m id="m-ln95041-075-p4s3w3">
@@ -1799,7 +1820,7 @@
 <form>napjaty</form>
 <tag>
 <AM lemma="napnout_,x" src="orig">ACTP------A----</AM>
-<AM lemma="napjatý" src="auto" recommended="1">ACTP------A----</AM>
+<AM lemma="napjatý" src="auto" recommended="1" selected="1">ACTP------A----</AM>
 <AM lemma="napnout_,x" src="auto">VsTP---XX-AP---</AM>
 </tag>
 </m>
@@ -1963,7 +1984,10 @@
 <LM>w#w-ln95041-075-p4s9w13</LM>
 </w.rf>
 <form>BIS</form>
-<tag lemma="BIS_:B_^(Bezp._informační_služba)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="BIS_:B_^(Bezp._informační_služba)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="BIS-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln95041-075-p4s9w14">
 <src.rf>manual</src.rf>
@@ -1980,7 +2004,7 @@
 </w.rf>
 <form>Čelechovského</form>
 <tag>
-<AM lemma="Čelechovský_;S" src="orig">NNMS4-----A----</AM>
+<AM lemma="Čelechovský_;S" src="orig" selected="1">NNMS4-----A----</AM>
 <AM lemma="čelechovský" src="auto">AAIS2----1A----</AM>
 <AM lemma="čelechovský" src="auto">AAMS2----1A----</AM>
 <AM lemma="čelechovský" src="auto" recommended="1">AAMS4----1A----</AM>

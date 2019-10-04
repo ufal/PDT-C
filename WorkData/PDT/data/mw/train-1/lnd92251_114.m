@@ -76,6 +76,9 @@
 <AM lemma="fluvizem_:B_^(klasifikace_půd)" src="auto">NNFXX-----A---8</AM>
 <AM lemma="fl-1_:B_,a_^(florin)" src="auto">NNIXX-----A----</AM>
 <AM lemma="fl-2_:B_^(fentolitr)" src="auto">Xx-------------</AM>
+<AM lemma="FL-3_:B" src="manual">NNXXX-----A----</AM>
+<AM lemma="FL-3_:B" src="manual">NNXXX-----A---8</AM>
+<AM lemma="FL-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92251-114-p2s1w7">
@@ -350,7 +353,10 @@
 <LM>w#w-lnd92251-114-p2s1w40</LM>
 </w.rf>
 <form>Č</form>
-<tag lemma="český_:B" src="orig" selected="1">AAXXX----1A---8</tag>
+<tag>
+<AM lemma="český_:B" src="orig">AAXXX----1A---8</AM>
+<AM lemma="český" src="manual" selected="1">AAXXX----1A---8</AM>
+</tag>
 </m>
 <m id="m-lnd92251-114-p2s1w41">
 <src.rf>manual</src.rf>
@@ -405,6 +411,7 @@
 <tag>
 <AM lemma="VV_:B_^(ve_výslužbě)" src="orig">AAXXX----1A---8</AM>
 <AM lemma="VV_:B_;K_^(výkonný_výbor)" src="auto" recommended="1">NNISX-----A---8</AM>
+<AM lemma="VV-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92251-114-p4s1w3">
@@ -453,7 +460,10 @@
 <LM>w#w-lnd92251-114-p4s1w8</LM>
 </w.rf>
 <form>stal</form>
-<tag lemma="stát-2_^(něco_se_přihodilo)" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag>
+<AM lemma="stát-2_^(něco_se_přihodilo)" src="orig">VpYS---XR-AA---</AM>
+<AM lemma="stát-2_:W_^(něco_se_přihodilo)" src="manual" selected="1">VpYS---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-lnd92251-114-p4s1w9">
 <src.rf>manual</src.rf>
@@ -591,7 +601,10 @@
 <LM>w#w-lnd92251-114-p4s2w11</LM>
 </w.rf>
 <form>vzdal</form>
-<tag lemma="vzdát" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag>
+<AM lemma="vzdát" src="orig">VpYS---XR-AA---</AM>
+<AM lemma="vzdát_:W" src="manual" selected="1">VpYS---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-lnd92251-114-p4s2w12">
 <src.rf>manual</src.rf>
@@ -699,7 +712,10 @@
 <LM>w#w-lnd92251-114-p6s1w11</LM>
 </w.rf>
 <form>ME</form>
-<tag lemma="ME-1_:B_;w_^(mistrovství_Evropy)" src="orig" selected="1">NNNXX-----A---8</tag>
+<tag>
+<AM lemma="ME-1_:B_;w_^(mistrovství_Evropy)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="ME-1_:B_^(mistrovství_Evropy)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92251-114-p6s1w12">
 <src.rf>manual</src.rf>
@@ -821,7 +837,10 @@
 <LM>w#w-lnd92251-114-p6s2w2</LM>
 </w.rf>
 <form>čs</form>
-<tag lemma="československý_:B" src="orig" selected="1">AAXXX----1A---8</tag>
+<tag>
+<AM lemma="československý_:B" src="orig">AAXXX----1A---8</AM>
+<AM lemma="československý" src="manual" selected="1">AAXXX----1A---8</AM>
+</tag>
 </m>
 <m id="m-lnd92251-114-p6s2w3">
 <src.rf>manual</src.rf>
@@ -1444,6 +1463,7 @@
 <tag>
 <AM lemma="EP_;K_^(evropský_pohár)" src="orig">NNIXX-----A---8</AM>
 <AM lemma="EP_:B_;K_^(evropský_pohár)" src="auto" recommended="1">NNXXX-----A---8</AM>
+<AM lemma="EP-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92251-114-p10s1w9">
@@ -1474,6 +1494,7 @@
 <AM lemma="Alanya_;G" src="auto">NNFP4-----A----</AM>
 <AM lemma="Alanya_;G" src="auto">NNFP5-----A----</AM>
 <AM lemma="Alanya_;G" src="auto" recommended="1">NNFS2-----A----</AM>
+<AM lemma="Alanya_;G" src="manual" selected="1">NNFS6-----A---1</AM>
 </tag>
 </m>
 <m id="m-lnd92251-114-p10s1w12">
@@ -1523,7 +1544,10 @@
 <LM>w#w-lnd92251-114-p10s1w17</LM>
 </w.rf>
 <form>km</form>
-<tag lemma="km-1`kilometr_:B" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="km-1`kilometr_:B" src="orig">NNIXX-----A---8</AM>
+<AM lemma="kilometr" src="manual" selected="1">NNIXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd92251-114-p10s1w18">
 <src.rf>manual</src.rf>
@@ -1587,7 +1611,10 @@
 <LM>w#w-lnd92251-114-p10s1w25</LM>
 </w.rf>
 <form>km</form>
-<tag lemma="km-1`kilometr_:B" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="km-1`kilometr_:B" src="orig">NNIXX-----A---8</AM>
+<AM lemma="kilometr" src="manual" selected="1">NNIXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd92251-114-p10s1w26">
 <src.rf>manual</src.rf>
@@ -1621,7 +1648,10 @@
 <LM>w#w-lnd92251-114-p10s2w2</LM>
 </w.rf>
 <form>dosáhl</form>
-<tag lemma="dosáhnout" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag>
+<AM lemma="dosáhnout" src="orig">VpYS---XR-AA---</AM>
+<AM lemma="dosáhnout_:W" src="manual" selected="1">VpYS---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-lnd92251-114-p10s2w3">
 <src.rf>manual</src.rf>
@@ -1706,6 +1736,7 @@
 <tag>
 <AM lemma="EP_;K_^(evropský_pohár)" src="orig">NNIS1-----A----</AM>
 <AM lemma="EP_:B_;K_^(evropský_pohár)" src="auto" recommended="1">NNXXX-----A---8</AM>
+<AM lemma="EP-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92251-114-p10s3w4">
@@ -1730,7 +1761,10 @@
 <LM>w#w-lnd92251-114-p10s3w6</LM>
 </w.rf>
 <form>stal</form>
-<tag lemma="stát-2_^(něco_se_přihodilo)" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag>
+<AM lemma="stát-2_^(něco_se_přihodilo)" src="orig">VpYS---XR-AA---</AM>
+<AM lemma="stát-2_:W_^(něco_se_přihodilo)" src="manual" selected="1">VpYS---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-lnd92251-114-p10s3w7">
 <src.rf>manual</src.rf>
@@ -1790,7 +1824,10 @@
 <LM>w#w-lnd92251-114-p12s1w2</LM>
 </w.rf>
 <form>USK</form>
-<tag lemma="USK-1_:B_^(univerzitní_sportovní_klub)" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="USK-1_:B_^(univerzitní_sportovní_klub)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="USK-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92251-114-p12s1w3">
 <src.rf>manual</src.rf>
@@ -1854,7 +1891,10 @@
 <LM>w#w-lnd92251-114-p12s1w10</LM>
 </w.rf>
 <form>CSKA</form>
-<tag lemma="CSKA-1_:B_;K_;w_,t_^(sov._sport._klub)" src="orig" selected="1">NNNXX-----A---8</tag>
+<tag>
+<AM lemma="CSKA-1_:B_;K_;w_,t_^(sov._sport._klub)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="CSKA-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92251-114-p12s1w11">
 <src.rf>manual</src.rf>
@@ -1926,7 +1966,10 @@
 <LM>w#w-lnd92251-114-p12s1w19</LM>
 </w.rf>
 <form>hod</form>
-<tag lemma="hodina_:B" src="auto" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="hodina_:B" src="auto">NNFXX-----A---8</AM>
+<AM lemma="hodina" src="manual" selected="1">NNFXX-----A---9</AM>
+</tag>
 </m>
 <m id="m-lnd92251-114-p12s1w20">
 <src.rf>manual</src.rf>

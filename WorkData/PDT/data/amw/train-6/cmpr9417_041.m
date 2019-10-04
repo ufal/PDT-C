@@ -27,7 +27,10 @@
 <LM>w#w-cmpr9417-041-p2s1w2</LM>
 </w.rf>
 <form>kurz</form>
-<tag lemma="kurs" src="auto" selected="1">NNIS4-----A----</tag>
+<tag>
+<AM lemma="kurs" src="auto">NNIS4-----A----</AM>
+<AM lemma="kurz" src="manual" selected="1">NNIS4-----A----</AM>
+</tag>
 </m>
 <m id="m-cmpr9417-041-p2s1w3">
 <src.rf>manual</src.rf>
@@ -169,7 +172,7 @@
 <form>nejen</form>
 <tag>
 <AM lemma="nejen" src="orig">TT-------------</AM>
-<AM lemma="nejen" src="auto" recommended="1">Db-------------</AM>
+<AM lemma="nejen" src="auto" recommended="1" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m-cmpr9417-041-p4s1w13">
@@ -226,7 +229,10 @@
 <LM>w#w-cmpr9417-041-p4s1w19</LM>
 </w.rf>
 <form>ať</form>
-<tag lemma="ať-2" src="auto" selected="1">TT-------------</tag>
+<tag>
+<AM lemma="ať-2" src="auto">TT-------------</AM>
+<AM lemma="ať-" src="manual" selected="1">J,-------------</AM>
+</tag>
 </m>
 <m id="m-cmpr9417-041-p4s1w20">
 <src.rf>manual</src.rf>
@@ -572,7 +578,10 @@
 <LM>w#w-cmpr9417-041-p4s3w15</LM>
 </w.rf>
 <form>kurzů</form>
-<tag lemma="kurs" src="auto" selected="1">NNIP2-----A----</tag>
+<tag>
+<AM lemma="kurs" src="auto">NNIP2-----A----</AM>
+<AM lemma="kurz" src="manual" selected="1">NNIP2-----A----</AM>
+</tag>
 </m>
 <m id="m-cmpr9417-041-p4s3w16">
 <src.rf>manual</src.rf>
@@ -960,7 +969,10 @@
 <LM>w#w-cmpr9417-041-p4s5w8</LM>
 </w.rf>
 <form>NKA</form>
-<tag lemma="NKA-1_:B_;K_^(Německá_korespondeční_akademie)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="NKA-1_:B_;K_^(Německá_korespondeční_akademie)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="NKA-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-cmpr9417-041-p4s5w9">
 <src.rf>manual</src.rf>
@@ -2296,7 +2308,10 @@
 <LM>w#w-cmpr9417-041-p12s9w1</LM>
 </w.rf>
 <form>Hippokrates</form>
-<tag lemma="Hippokrates_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Hippokrates_;S" src="orig">NNMS1-----A----</AM>
+<AM lemma="Hippokrates_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-cmpr9417-041-p12s9w2">
 <src.rf>manual</src.rf>
@@ -3026,7 +3041,10 @@
 <LM>w#w-cmpr9417-041-p13s1w3</LM>
 </w.rf>
 <form>NKA</form>
-<tag lemma="NKA-1_:B_;K_^(Německá_korespondeční_akademie)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="NKA-1_:B_;K_^(Německá_korespondeční_akademie)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="NKA-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-cmpr9417-041-p13s1w4">
 <src.rf>manual</src.rf>
@@ -3074,7 +3092,10 @@
 <LM>w#w-cmpr9417-041-p13s1w9</LM>
 </w.rf>
 <form>Bertelsmann</form>
-<tag lemma="Bertelsmann_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Bertelsmann_;S" src="orig">NNMS1-----A----</AM>
+<AM lemma="Bertelsmann-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-cmpr9417-041-p13s1w10">
 <src.rf>manual</src.rf>
@@ -3082,7 +3103,10 @@
 <LM>w#w-cmpr9417-041-p13s1w10</LM>
 </w.rf>
 <form>media</form>
-<tag lemma="medium" src="orig" selected="1">NNNP1-----A----</tag>
+<tag>
+<AM lemma="medium" src="orig">NNNP1-----A----</AM>
+<AM lemma="media-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-cmpr9417-041-p13s1w11">
 <src.rf>manual</src.rf>

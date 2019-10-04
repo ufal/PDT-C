@@ -89,7 +89,10 @@
 <LM>w#w-ln94209-42-p2s1Cw5</LM>
 </w.rf>
 <form>ODS</form>
-<tag lemma="ODS-1_:B_;K_;p_^(Občanská_demokratická_strana)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ODS-1_:B_;K_;p_^(Občanská_demokratická_strana)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ODS-1_:B_;K_^(Občanská_demokratická_strana)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94209-42-p2s1Cw6">
 <src.rf>manual</src.rf>
@@ -649,7 +652,10 @@
 <LM>w#w-ln94209-42-p3s3w10</LM>
 </w.rf>
 <form>řekl</form>
-<tag lemma="říci" src="auto" selected="1">VpYS---XR-AA---</tag>
+<tag>
+<AM lemma="říci" src="auto">VpYS---XR-AA---</AM>
+<AM lemma="říci_:W" src="manual" selected="1">VpYS---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-ln94209-42-p3s3w11">
 <src.rf>manual</src.rf>
@@ -748,7 +754,7 @@
 </w.rf>
 <form>Jakoby</form>
 <tag>
-<AM lemma="jakoby-2" src="orig">Db-------------</AM>
+<AM lemma="jakoby-2" src="orig" selected="1">Db-------------</AM>
 <AM lemma="Jakob_;Y" src="auto">NNMP4-----A----</AM>
 <AM lemma="Jakob_;Y" src="auto">NNMP7-----A----</AM>
 <AM lemma="Jakoby_;S" src="auto" recommended="1">NNMS1-----A----</AM>
@@ -998,7 +1004,10 @@
 <LM>w#w-ln94209-42-p4s2w9</LM>
 </w.rf>
 <form>ODS</form>
-<tag lemma="ODS-1_:B_;K_;p_^(Občanská_demokratická_strana)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ODS-1_:B_;K_;p_^(Občanská_demokratická_strana)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ODS-1_:B_;K_^(Občanská_demokratická_strana)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94209-42-p4s2w10">
 <src.rf>manual</src.rf>
@@ -1234,7 +1243,10 @@
 <LM>w#w-ln94209-42-p4s4w1</LM>
 </w.rf>
 <form>ODS</form>
-<tag lemma="ODS-1_:B_;K_;p_^(Občanská_demokratická_strana)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ODS-1_:B_;K_;p_^(Občanská_demokratická_strana)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ODS-1_:B_;K_^(Občanská_demokratická_strana)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94209-42-p4s4w2">
 <src.rf>manual</src.rf>
@@ -1372,7 +1384,7 @@
 <form>totiž</form>
 <tag>
 <AM lemma="totiž" src="orig">Db-------------</AM>
-<AM lemma="totiž-1" src="auto" recommended="1">J^-------------</AM>
+<AM lemma="totiž-1" src="auto" recommended="1" selected="1">J^-------------</AM>
 <AM lemma="totiž-2" src="auto">TT-------------</AM>
 </tag>
 </m>
@@ -1828,7 +1840,10 @@
 <LM>w#w-ln94209-42-p4s7w3</LM>
 </w.rf>
 <form>li</form>
-<tag lemma="li-1" src="auto" selected="1">TT-------------</tag>
+<tag>
+<AM lemma="li-1" src="auto">TT-------------</AM>
+<AM lemma="li-2" src="manual" selected="1">J,-------------</AM>
+</tag>
 </m>
 <m id="m-ln94209-42-p4s7w4">
 <src.rf>manual</src.rf>

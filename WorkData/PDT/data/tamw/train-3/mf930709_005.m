@@ -93,7 +93,10 @@
 <LM>w#w-mf930709-005-p2s1Aw3</LM>
 </w.rf>
 <form>iv</form>
-<tag lemma="iv-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="iv-99_:B_;S" src="orig">NNXXX-----A---8</AM>
+<AM lemma="iv-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930709-005-p2s1Aw4">
 <src.rf>manual</src.rf>
@@ -499,7 +502,10 @@
 <LM>w#w-mf930709-005-p2s3w17</LM>
 </w.rf>
 <form>ODA</form>
-<tag lemma="ODA-2_:B_;K_;p_^(Občanská_demokratická_aliance)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ODA-2_:B_;K_;p_^(Občanská_demokratická_aliance)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ODA-2_:B_;K_^(Občanská_demokratická_aliance)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930709-005-p2s3w18">
 <src.rf>manual</src.rf>
@@ -1006,6 +1012,7 @@
 <AM lemma="rezortní_,s_,x" src="auto">AANS1----1A----</AM>
 <AM lemma="rezortní_,s_,x" src="auto">AANS4----1A----</AM>
 <AM lemma="rezortní_,s_,x" src="auto">AANS5----1A----</AM>
+<AM lemma="resortní_,s_^(^DD**rezortní)" src="manual" selected="1">AANP4----1A----</AM>
 </tag>
 </m>
 <m id="m-mf930709-005-p2s6w13">

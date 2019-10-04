@@ -169,7 +169,10 @@
 <LM>w#w-lnd94104-063-p1s1Dw3</LM>
 </w.rf>
 <form>LN</form>
-<tag lemma="LN-1_:B_;R_^(Lidové_noviny,_deník)" src="orig" selected="1">NNFPX-----A---8</tag>
+<tag>
+<AM lemma="LN-1_:B_;R_^(Lidové_noviny,_deník)" src="orig">NNFPX-----A---8</AM>
+<AM lemma="LN-1_:B_;K_;R_^(Lidové_noviny)" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd94104-063-p1s1Dw4">
 <src.rf>manual</src.rf>
@@ -227,7 +230,10 @@
 <LM>w#w-lnd94104-063-p1s1Ew3</LM>
 </w.rf>
 <form>li</form>
-<tag lemma="li-1" src="auto" selected="1">TT-------------</tag>
+<tag>
+<AM lemma="li-1" src="auto">TT-------------</AM>
+<AM lemma="li-2" src="manual" selected="1">J,-------------</AM>
+</tag>
 </m>
 <m id="m-lnd94104-063-p1s1Ew4">
 <src.rf>manual</src.rf>
@@ -543,7 +549,10 @@
 <LM>w#w-lnd94104-063-p1s3w6</LM>
 </w.rf>
 <form>Deutsche</form>
-<tag lemma="Deutsche-1_;K_,t_^(souč._názvů,_např._D._Telekom)" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="Deutsche-1_;K_,t_^(souč._názvů,_např._D._Telekom)" src="orig">AAXXX----1A----</AM>
+<AM lemma="Deutsche-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-lnd94104-063-p1s3w7">
 <src.rf>manual</src.rf>
@@ -551,7 +560,10 @@
 <LM>w#w-lnd94104-063-p1s3w7</LM>
 </w.rf>
 <form>Bank</form>
-<tag lemma="bank" src="orig" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="bank" src="orig">NNIS1-----A----</AM>
+<AM lemma="Bank-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-lnd94104-063-p1s3w8">
 <src.rf>manual</src.rf>
@@ -633,7 +645,10 @@
 <LM>w#w-lnd94104-063-p1s4w2</LM>
 </w.rf>
 <form>právě</form>
-<tag lemma="právě-1" src="auto" selected="1">Db-------------</tag>
+<tag>
+<AM lemma="právě-1" src="auto">Db-------------</AM>
+<AM lemma="právě-2" src="manual" selected="1">TT-------------</AM>
+</tag>
 </m>
 <m id="m-lnd94104-063-p1s4w3">
 <src.rf>manual</src.rf>
@@ -709,7 +724,7 @@
 <form>třeba</form>
 <tag>
 <AM lemma="třeba-1" src="orig">ACNS------A----</AM>
-<AM lemma="třeba-2" src="auto" recommended="1">Db-------------</AM>
+<AM lemma="třeba-2" src="auto" recommended="1" selected="1">Db-------------</AM>
 <AM lemma="třeba-3" src="auto">TT-------------</AM>
 </tag>
 </m>
@@ -1162,6 +1177,7 @@
 <AM lemma="Claudius_;Y" src="auto">NNMS2-----A----</AM>
 <AM lemma="Claudius_;Y" src="auto">NNMS4-----A----</AM>
 <AM lemma="Claudia_;Y_,t" src="auto" recommended="1">NNFSX-----A----</AM>
+<AM lemma="Claudia_;Y" src="manual" selected="1">NNFSX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94104-063-p1s8w15">
@@ -1244,7 +1260,10 @@
 <LM>w#w-lnd94104-063-p1s9w1</LM>
 </w.rf>
 <form>Deutsche</form>
-<tag lemma="Deutsche-1_;K_,t_^(souč._názvů,_např._D._Telekom)" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="Deutsche-1_;K_,t_^(souč._názvů,_např._D._Telekom)" src="orig">AAXXX----1A----</AM>
+<AM lemma="Deutsche-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-lnd94104-063-p1s9w2">
 <src.rf>manual</src.rf>
@@ -1252,7 +1271,10 @@
 <LM>w#w-lnd94104-063-p1s9w2</LM>
 </w.rf>
 <form>Bank</form>
-<tag lemma="bank" src="orig" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="bank" src="orig">NNIS1-----A----</AM>
+<AM lemma="Bank-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-lnd94104-063-p1s9w3">
 <src.rf>manual</src.rf>
@@ -1335,7 +1357,10 @@
 <LM>w#w-lnd94104-063-p1s10w3</LM>
 </w.rf>
 <form>Deutsche</form>
-<tag lemma="Deutsche-1_;K_,t_^(souč._názvů,_např._D._Telekom)" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="Deutsche-1_;K_,t_^(souč._názvů,_např._D._Telekom)" src="orig">AAXXX----1A----</AM>
+<AM lemma="Deutsche-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-lnd94104-063-p1s10w4">
 <src.rf>manual</src.rf>
@@ -1343,7 +1368,10 @@
 <LM>w#w-lnd94104-063-p1s10w4</LM>
 </w.rf>
 <form>Bank</form>
-<tag lemma="bank" src="orig" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="bank" src="orig">NNIS1-----A----</AM>
+<AM lemma="Bank-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-lnd94104-063-p1s10w5">
 <src.rf>manual</src.rf>
@@ -2113,7 +2141,10 @@
 <LM>w#w-lnd94104-063-p1s15w7</LM>
 </w.rf>
 <form>Deutsche</form>
-<tag lemma="Deutsche-1_;K_,t_^(souč._názvů,_např._D._Telekom)" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="Deutsche-1_;K_,t_^(souč._názvů,_např._D._Telekom)" src="orig">AAXXX----1A----</AM>
+<AM lemma="Deutsche-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-lnd94104-063-p1s15w8">
 <src.rf>manual</src.rf>
@@ -2121,7 +2152,10 @@
 <LM>w#w-lnd94104-063-p1s15w8</LM>
 </w.rf>
 <form>Bank</form>
-<tag lemma="bank" src="orig" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="bank" src="orig">NNIS1-----A----</AM>
+<AM lemma="Bank-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-lnd94104-063-p1s15w9">
 <src.rf>manual</src.rf>
@@ -2398,7 +2432,10 @@
 <LM>w#w-lnd94104-063-p1s17w6</LM>
 </w.rf>
 <form>milionů</form>
-<tag lemma="milión`1000000" src="orig" selected="1">NNIP2-----A----</tag>
+<tag>
+<AM lemma="milión`1000000" src="orig">NNIP2-----A----</AM>
+<AM lemma="milion`1000000_,s_^(^DD**milión)" src="manual" selected="1">NNIP2-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd94104-063-p1s17w7">
 <src.rf>manual</src.rf>
@@ -2478,7 +2515,10 @@
 <LM>w#w-lnd94104-063-p1s17w16</LM>
 </w.rf>
 <form>milionů</form>
-<tag lemma="milión`1000000" src="orig" selected="1">NNIP2-----A----</tag>
+<tag>
+<AM lemma="milión`1000000" src="orig">NNIP2-----A----</AM>
+<AM lemma="milion`1000000_,s_^(^DD**milión)" src="manual" selected="1">NNIP2-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd94104-063-p1s17w17">
 <src.rf>manual</src.rf>
@@ -2519,7 +2559,10 @@
 <LM>w#w-lnd94104-063-p1s17w21</LM>
 </w.rf>
 <form>milionů</form>
-<tag lemma="milión`1000000" src="orig" selected="1">NNIP2-----A----</tag>
+<tag>
+<AM lemma="milión`1000000" src="orig">NNIP2-----A----</AM>
+<AM lemma="milion`1000000_,s_^(^DD**milión)" src="manual" selected="1">NNIP2-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd94104-063-p1s17w22">
 <src.rf>manual</src.rf>
@@ -2609,7 +2652,10 @@
 <LM>w#w-lnd94104-063-p1s18w10</LM>
 </w.rf>
 <form>Deutsche</form>
-<tag lemma="Deutsche-1_;K_,t_^(souč._názvů,_např._D._Telekom)" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="Deutsche-1_;K_,t_^(souč._názvů,_např._D._Telekom)" src="orig">AAXXX----1A----</AM>
+<AM lemma="Deutsche-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-lnd94104-063-p1s18w11">
 <src.rf>manual</src.rf>
@@ -2617,7 +2663,10 @@
 <LM>w#w-lnd94104-063-p1s18w11</LM>
 </w.rf>
 <form>Bank</form>
-<tag lemma="bank" src="orig" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="bank" src="orig">NNIS1-----A----</AM>
+<AM lemma="Bank-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-lnd94104-063-p1s18w12">
 <src.rf>manual</src.rf>
@@ -2852,7 +2901,10 @@
 <LM>w#w-lnd94104-063-p1s19w13</LM>
 </w.rf>
 <form>milionů</form>
-<tag lemma="milión`1000000" src="orig" selected="1">NNIP2-----A----</tag>
+<tag>
+<AM lemma="milión`1000000" src="orig">NNIP2-----A----</AM>
+<AM lemma="milion`1000000_,s_^(^DD**milión)" src="manual" selected="1">NNIP2-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd94104-063-p1s19w14">
 <src.rf>manual</src.rf>
@@ -2900,7 +2952,10 @@
 <LM>w#w-lnd94104-063-p1s19w19</LM>
 </w.rf>
 <form>milionů</form>
-<tag lemma="milión`1000000" src="orig" selected="1">NNIP2-----A----</tag>
+<tag>
+<AM lemma="milión`1000000" src="orig">NNIP2-----A----</AM>
+<AM lemma="milion`1000000_,s_^(^DD**milión)" src="manual" selected="1">NNIP2-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd94104-063-p1s19w20">
 <src.rf>manual</src.rf>
@@ -2942,7 +2997,10 @@
 <LM>w#w-lnd94104-063-p1s20w4</LM>
 </w.rf>
 <form>Deutsche</form>
-<tag lemma="Deutsche-1_;K_,t_^(souč._názvů,_např._D._Telekom)" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="Deutsche-1_;K_,t_^(souč._názvů,_např._D._Telekom)" src="orig">AAXXX----1A----</AM>
+<AM lemma="Deutsche-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-lnd94104-063-p1s20w5">
 <src.rf>manual</src.rf>
@@ -2950,7 +3008,10 @@
 <LM>w#w-lnd94104-063-p1s20w5</LM>
 </w.rf>
 <form>Bank</form>
-<tag lemma="bank" src="orig" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="bank" src="orig">NNIS1-----A----</AM>
+<AM lemma="Bank-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-lnd94104-063-p1s20w6">
 <src.rf>manual</src.rf>
@@ -3040,7 +3101,10 @@
 <LM>w#w-lnd94104-063-p1s21w10</LM>
 </w.rf>
 <form>milionů</form>
-<tag lemma="milión`1000000" src="orig" selected="1">NNIP2-----A----</tag>
+<tag>
+<AM lemma="milión`1000000" src="orig">NNIP2-----A----</AM>
+<AM lemma="milion`1000000_,s_^(^DD**milión)" src="manual" selected="1">NNIP2-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd94104-063-p1s21w11">
 <src.rf>manual</src.rf>
@@ -3106,7 +3170,10 @@
 <LM>w#w-lnd94104-063-p1s22w7</LM>
 </w.rf>
 <form>milionů</form>
-<tag lemma="milión`1000000" src="orig" selected="1">NNIP2-----A----</tag>
+<tag>
+<AM lemma="milión`1000000" src="orig">NNIP2-----A----</AM>
+<AM lemma="milion`1000000_,s_^(^DD**milión)" src="manual" selected="1">NNIP2-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd94104-063-p1s22w8">
 <src.rf>manual</src.rf>
@@ -3220,7 +3287,10 @@
 <LM>w#w-lnd94104-063-p1s23w7</LM>
 </w.rf>
 <form>milionů</form>
-<tag lemma="milión`1000000" src="orig" selected="1">NNIP2-----A----</tag>
+<tag>
+<AM lemma="milión`1000000" src="orig">NNIP2-----A----</AM>
+<AM lemma="milion`1000000_,s_^(^DD**milión)" src="manual" selected="1">NNIP2-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd94104-063-p1s23w8">
 <src.rf>manual</src.rf>
@@ -3858,7 +3928,10 @@
 <LM>w#w-lnd94104-063-p1s29w4</LM>
 </w.rf>
 <form>Deutsche</form>
-<tag lemma="Deutsche-1_;K_,t_^(souč._názvů,_např._D._Telekom)" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="Deutsche-1_;K_,t_^(souč._názvů,_např._D._Telekom)" src="orig">AAXXX----1A----</AM>
+<AM lemma="Deutsche-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-lnd94104-063-p1s29w5">
 <src.rf>manual</src.rf>
@@ -3866,7 +3939,10 @@
 <LM>w#w-lnd94104-063-p1s29w5</LM>
 </w.rf>
 <form>Bank</form>
-<tag lemma="Bank-1_;K_,t_^(v_cizojaz._názvech_bank)" src="orig" selected="1">NNFXX-----A----</tag>
+<tag>
+<AM lemma="Bank-1_;K_,t_^(v_cizojaz._názvech_bank)" src="orig">NNFXX-----A----</AM>
+<AM lemma="Bank-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-lnd94104-063-p1s29w6">
 <src.rf>manual</src.rf>
@@ -4176,7 +4252,7 @@
 <form>ovšem</form>
 <tag>
 <AM lemma="ovšem-1_^(avšak,_však;_odporovací_spojka)" src="orig">J^-------------</AM>
-<AM lemma="ovšem" src="auto" recommended="1">TT-------------</AM>
+<AM lemma="ovšem" src="auto" recommended="1" selected="1">TT-------------</AM>
 </tag>
 </m>
 <m id="m-lnd94104-063-p1s31w5">
@@ -4265,7 +4341,10 @@
 <LM>w#w-lnd94104-063-p1s31w15</LM>
 </w.rf>
 <form>Deutsche</form>
-<tag lemma="Deutsche-1_;K_,t_^(souč._názvů,_např._D._Telekom)" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="Deutsche-1_;K_,t_^(souč._názvů,_např._D._Telekom)" src="orig">AAXXX----1A----</AM>
+<AM lemma="Deutsche-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-lnd94104-063-p1s31w16">
 <src.rf>manual</src.rf>
@@ -4273,7 +4352,10 @@
 <LM>w#w-lnd94104-063-p1s31w16</LM>
 </w.rf>
 <form>Bank</form>
-<tag lemma="Bank-1_;K_,t_^(v_cizojaz._názvech_bank)" src="orig" selected="1">NNFXX-----A----</tag>
+<tag>
+<AM lemma="Bank-1_;K_,t_^(v_cizojaz._názvech_bank)" src="orig">NNFXX-----A----</AM>
+<AM lemma="Bank-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-lnd94104-063-p1s31w17">
 <src.rf>manual</src.rf>
@@ -4475,7 +4557,10 @@
 <LM>w#w-lnd94104-063-p1s32w15</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-2" src="auto" selected="1">Dg-------2A----</tag>
+<tag>
+<AM lemma="hodně-2" src="auto">Dg-------2A----</AM>
+<AM lemma="hodně-3" src="manual" selected="1">Dg-------2A----</AM>
+</tag>
 </m>
 <m id="m-lnd94104-063-p1s32w16">
 <src.rf>manual</src.rf>
@@ -4549,7 +4634,10 @@
 <LM>w#w-lnd94104-063-p1s33w5</LM>
 </w.rf>
 <form>Deutsche</form>
-<tag lemma="Deutsche-1_;K_,t_^(souč._názvů,_např._D._Telekom)" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="Deutsche-1_;K_,t_^(souč._názvů,_např._D._Telekom)" src="orig">AAXXX----1A----</AM>
+<AM lemma="Deutsche-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-lnd94104-063-p1s33w6">
 <src.rf>manual</src.rf>
@@ -4557,7 +4645,10 @@
 <LM>w#w-lnd94104-063-p1s33w6</LM>
 </w.rf>
 <form>Bank</form>
-<tag lemma="bank" src="orig" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="bank" src="orig">NNIS1-----A----</AM>
+<AM lemma="Bank-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-lnd94104-063-p1s33w7">
 <src.rf>manual</src.rf>
@@ -4713,7 +4804,7 @@
 <form>vůbec</form>
 <tag>
 <AM lemma="vůbec" src="orig">Db-------------</AM>
-<AM lemma="vůbec" src="auto" recommended="1">TT-------------</AM>
+<AM lemma="vůbec" src="auto" recommended="1" selected="1">TT-------------</AM>
 </tag>
 </m>
 <m id="m-lnd94104-063-p1s34w12">
@@ -4756,7 +4847,10 @@
 <LM>w#w-lnd94104-063-p1s35w4</LM>
 </w.rf>
 <form>nejvíce</form>
-<tag lemma="hodně-2" src="auto" selected="1">Dg-------3A----</tag>
+<tag>
+<AM lemma="hodně-2" src="auto">Dg-------3A----</AM>
+<AM lemma="hodně-3" src="manual" selected="1">Dg-------3A----</AM>
+</tag>
 </m>
 <m id="m-lnd94104-063-p1s35w5">
 <src.rf>manual</src.rf>
@@ -4854,7 +4948,10 @@
 <LM>w#w-lnd94104-063-p1s36w10</LM>
 </w.rf>
 <form>Deutsche</form>
-<tag lemma="Deutsche-1_;K_,t_^(souč._názvů,_např._D._Telekom)" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="Deutsche-1_;K_,t_^(souč._názvů,_např._D._Telekom)" src="orig">AAXXX----1A----</AM>
+<AM lemma="Deutsche-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-lnd94104-063-p1s36w11">
 <src.rf>manual</src.rf>
@@ -4862,7 +4959,10 @@
 <LM>w#w-lnd94104-063-p1s36w11</LM>
 </w.rf>
 <form>Bank</form>
-<tag lemma="bank" src="orig" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="bank" src="orig">NNIS1-----A----</AM>
+<AM lemma="Bank-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-lnd94104-063-p1s36w12">
 <src.rf>manual</src.rf>
@@ -5002,7 +5102,7 @@
 <form>ovšem</form>
 <tag>
 <AM lemma="ovšem-1_^(avšak,_však;_odporovací_spojka)" src="orig">J^-------------</AM>
-<AM lemma="ovšem" src="auto" recommended="1">TT-------------</AM>
+<AM lemma="ovšem" src="auto" recommended="1" selected="1">TT-------------</AM>
 </tag>
 </m>
 <m id="m-lnd94104-063-p1s37w4">
@@ -5911,7 +6011,10 @@
 <LM>w#w-lnd94104-063-p1s42w25</LM>
 </w.rf>
 <form>milionů</form>
-<tag lemma="milión`1000000" src="orig" selected="1">NNIP2-----A----</tag>
+<tag>
+<AM lemma="milión`1000000" src="orig">NNIP2-----A----</AM>
+<AM lemma="milion`1000000_,s_^(^DD**milión)" src="manual" selected="1">NNIP2-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd94104-063-p1s42w26">
 <src.rf>manual</src.rf>
@@ -6049,7 +6152,10 @@
 <LM>w#w-lnd94104-063-p1s43w15</LM>
 </w.rf>
 <form>Deutsche</form>
-<tag lemma="Deutsche-1_;K_,t_^(souč._názvů,_např._D._Telekom)" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="Deutsche-1_;K_,t_^(souč._názvů,_např._D._Telekom)" src="orig">AAXXX----1A----</AM>
+<AM lemma="Deutsche-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-lnd94104-063-p1s43w16">
 <src.rf>manual</src.rf>
@@ -6057,7 +6163,10 @@
 <LM>w#w-lnd94104-063-p1s43w16</LM>
 </w.rf>
 <form>Bank</form>
-<tag lemma="bank" src="orig" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="bank" src="orig">NNIS1-----A----</AM>
+<AM lemma="Bank-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-lnd94104-063-p1s43w17">
 <src.rf>manual</src.rf>
@@ -6155,7 +6264,16 @@
 <LM>w#w-lnd94104-063-p1s44w8</LM>
 </w.rf>
 <form>Claudia</form>
-<tag lemma="Claudius_;Y" src="orig" selected="1">NNMS2-----A----</tag>
+<tag>
+<AM lemma="Claudius_;Y" src="orig">NNMS2-----A----</AM>
+<AM lemma="Claudia_;Y_,t" src="manual">NNFSX-----A----</AM>
+<AM lemma="Claudia_;Y" src="manual" selected="1">NNFSX-----A----</AM>
+</tag>
+<comment>
+<LM type="Other">
+<text>analýza z online slovníku pro pdt-c</text>
+</LM>
+</comment>
 </m>
 <m id="m-lnd94104-063-p1s44w9">
 <src.rf>manual</src.rf>
@@ -6391,7 +6509,10 @@
 <LM>w#w-lnd94104-063-p1s46w13</LM>
 </w.rf>
 <form>Deutsche</form>
-<tag lemma="Deutsche-1_;K_,t_^(souč._názvů,_např._D._Telekom)" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="Deutsche-1_;K_,t_^(souč._názvů,_např._D._Telekom)" src="orig">AAXXX----1A----</AM>
+<AM lemma="Deutsche-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-lnd94104-063-p1s46w14">
 <src.rf>manual</src.rf>
@@ -6399,7 +6520,10 @@
 <LM>w#w-lnd94104-063-p1s46w14</LM>
 </w.rf>
 <form>Bank</form>
-<tag lemma="bank" src="orig" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="bank" src="orig">NNIS1-----A----</AM>
+<AM lemma="Bank-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-lnd94104-063-p1s46w15">
 <src.rf>manual</src.rf>
@@ -6763,7 +6887,10 @@
 <LM>w#w-lnd94104-063-p1s48Aw20</LM>
 </w.rf>
 <form>George</form>
-<tag lemma="George_;Y_,t" src="orig" selected="1">NNMS2-----A----</tag>
+<tag>
+<AM lemma="George_;Y_,t" src="orig">NNMS2-----A----</AM>
+<AM lemma="George_;Y" src="manual" selected="1">NNMS2-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd94104-063-p1s48Aw21">
 <src.rf>manual</src.rf>
@@ -6824,7 +6951,7 @@
 <tag>
 <AM lemma="tady" src="orig">Db------------1</AM>
 <AM lemma="ten" src="auto">PDFS4----------</AM>
-<AM lemma="tu" src="auto" recommended="1">Db-------------</AM>
+<AM lemma="tu" src="auto" recommended="1" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m-lnd94104-063-p1s48Bw5">

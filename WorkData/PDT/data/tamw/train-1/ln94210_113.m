@@ -35,7 +35,11 @@
 <LM>w#w-ln94210-113-p1s1w3</LM>
 </w.rf>
 <form>eufórie</form>
-<tag lemma="euforie_,x" src="auto" selected="1">NNFS1-----A----</tag>
+<tag>
+<AM lemma="euforie_,x" src="auto">NNFS1-----A----</AM>
+<AM lemma="euforie_,x" src="manual">NNFS1-----A----</AM>
+<AM lemma="eufórie_,s_^(^DD**euforie)" src="manual" selected="1">NNFS1-----A----</AM>
+</tag>
 </m>
 </s>
 <s id="m-ln94210-113-p2s1A">
@@ -149,7 +153,13 @@
 <AM lemma="nov_^(pozice_Měsíce)" src="auto">NNIS4-----A----</AM>
 <AM lemma="nova" src="auto">NNFP2-----A----</AM>
 <AM lemma="novum" src="auto">NNNP2-----A----</AM>
+<AM lemma="nov-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
+<comment>
+<LM type="Other">
+<text>podle informací v mailu jsem vybral červenou analýzu, která odpovídá instrukcím</text>
+</LM>
+</comment>
 </m>
 <m id="m-ln94210-113-p2s1Bw6">
 <src.rf>manual</src.rf>
@@ -353,7 +363,7 @@
 <form>Audi</form>
 <tag>
 <AM lemma="Audi-2_;R_^(vozidlo)" src="orig">NNNXX-----A----</AM>
-<AM lemma="Audi_;K_;R_^(vozidlo)" src="auto" recommended="1">NNXXX-----A----</AM>
+<AM lemma="Audi_;K_;R_^(vozidlo)" src="auto" recommended="1" selected="1">NNXXX-----A----</AM>
 <AM lemma="audi_^(vozidlo)" src="auto">NNXXX-----A----</AM>
 </tag>
 </m>
@@ -648,6 +658,9 @@
 <AM lemma="mimo-1_:B" src="auto">RR--4---------8</AM>
 <AM lemma="minuta_:B" src="auto">NNFXX-----A---8</AM>
 <AM lemma="město_:B" src="auto">NNNXX-----A---8</AM>
+<AM lemma="metr_:B" src="manual">NNIXX-----A----</AM>
+<AM lemma="metr" src="manual">NNIXX-----A----</AM>
+<AM lemma="metr" src="manual" selected="1">NNIXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-ln94210-113-p2s3w9">
@@ -970,7 +983,10 @@
 <LM>w#w-ln94210-113-p3s1w25</LM>
 </w.rf>
 <form>Michel</form>
-<tag lemma="Michel_;Y" src="auto" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Michel_;Y" src="auto">NNMS1-----A----</AM>
+<AM lemma="Michel_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94210-113-p3s1w26">
 <src.rf>manual</src.rf>
@@ -1140,7 +1156,10 @@
 <LM>w#w-ln94210-113-p3s2w9</LM>
 </w.rf>
 <form>ME</form>
-<tag lemma="ME-1_:B_;w_^(mistrovství_Evropy)" src="orig" selected="1">NNNXX-----A---8</tag>
+<tag>
+<AM lemma="ME-1_:B_;w_^(mistrovství_Evropy)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="ME-1_:B_^(mistrovství_Evropy)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94210-113-p3s2w10">
 <src.rf>manual</src.rf>
@@ -1709,7 +1728,10 @@
 <LM>w#w-ln94210-113-p3s6w8</LM>
 </w.rf>
 <form>eufórii</form>
-<tag lemma="euforie_,x" src="auto" selected="1">NNFS6-----A----</tag>
+<tag>
+<AM lemma="euforie_,x" src="auto">NNFS6-----A----</AM>
+<AM lemma="eufórie_s_^(^DD**euforie)" src="manual" selected="1">NNFS6-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94210-113-p3s6w9">
 <src.rf>manual</src.rf>

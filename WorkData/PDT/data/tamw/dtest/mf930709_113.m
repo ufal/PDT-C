@@ -35,7 +35,7 @@
 <AM lemma="švagrová" src="auto">NNFP4-----A----</AM>
 <AM lemma="švagrová" src="auto">NNFP5-----A----</AM>
 <AM lemma="švagrová" src="auto">NNFS2-----A----</AM>
-<AM lemma="švagrová" src="auto" recommended="1">NNFS3-----A----</AM>
+<AM lemma="švagrová" src="auto" recommended="1" selected="1">NNFS3-----A----</AM>
 <AM lemma="švagrová" src="auto">NNFS6-----A----</AM>
 </tag>
 </m>
@@ -88,7 +88,7 @@
 </w.rf>
 <form>Střelná</form>
 <tag>
-<AM lemma="Střelná_;G" src="orig">NNFS1-----A----</AM>
+<AM lemma="Střelná_;G" src="orig" selected="1">NNFS1-----A----</AM>
 <AM lemma="střelný" src="auto" recommended="1">AAFS1----1A----</AM>
 <AM lemma="střelný" src="auto">AAFS5----1A----</AM>
 <AM lemma="střelný" src="auto">AANP1----1A----</AM>
@@ -145,7 +145,7 @@
 </w.rf>
 <form>Střelné</form>
 <tag>
-<AM lemma="Střelná_;G" src="orig">NNFS2-----A----</AM>
+<AM lemma="Střelná_;G" src="orig" selected="1">NNFS2-----A----</AM>
 <AM lemma="střelný" src="auto">AAFP1----1A----</AM>
 <AM lemma="střelný" src="auto">AAFP4----1A----</AM>
 <AM lemma="střelný" src="auto">AAFP5----1A----</AM>
@@ -340,7 +340,10 @@
 <LM>w#w-mf930709-113-p2s2w2</LM>
 </w.rf>
 <form>má</form>
-<tag lemma="mít" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag>
+<AM lemma="mít" src="orig">VB-S---3P-AA---</AM>
+<AM lemma="mít_:T" src="manual" selected="1">VB-S---3P-AA---</AM>
+</tag>
 </m>
 <m id="m-mf930709-113-p2s2w3">
 <src.rf>manual</src.rf>
@@ -650,7 +653,7 @@
 <form>totiž</form>
 <tag>
 <AM lemma="totiž" src="orig">Db-------------</AM>
-<AM lemma="totiž-1" src="auto" recommended="1">J^-------------</AM>
+<AM lemma="totiž-1" src="auto" recommended="1" selected="1">J^-------------</AM>
 <AM lemma="totiž-2" src="auto">TT-------------</AM>
 </tag>
 </m>
@@ -717,7 +720,7 @@
 </w.rf>
 <form>Střelné</form>
 <tag>
-<AM lemma="Střelná_;G" src="orig">NNFS6-----A----</AM>
+<AM lemma="Střelná_;G" src="orig" selected="1">NNFS6-----A----</AM>
 <AM lemma="střelný" src="auto">AAFP1----1A----</AM>
 <AM lemma="střelný" src="auto">AAFP4----1A----</AM>
 <AM lemma="střelný" src="auto">AAFP5----1A----</AM>
@@ -1070,7 +1073,10 @@
 <LM>w#w-mf930709-113-p2s8w1</LM>
 </w.rf>
 <form>Mám</form>
-<tag lemma="mít" src="orig" selected="1">VB-S---1P-AA---</tag>
+<tag>
+<AM lemma="mít" src="orig">VB-S---1P-AA---</AM>
+<AM lemma="mít_:T" src="manual" selected="1">VB-S---1P-AA---</AM>
+</tag>
 </m>
 <m id="m-mf930709-113-p2s8w2">
 <src.rf>manual</src.rf>
@@ -1125,7 +1131,7 @@
 <AM lemma="švagrová" src="auto">NNFP1-----A----</AM>
 <AM lemma="švagrová" src="auto">NNFP4-----A----</AM>
 <AM lemma="švagrová" src="auto">NNFP5-----A----</AM>
-<AM lemma="švagrová" src="auto" recommended="1">NNFS2-----A----</AM>
+<AM lemma="švagrová" src="auto" recommended="1" selected="1">NNFS2-----A----</AM>
 <AM lemma="švagrová" src="auto">NNFS3-----A----</AM>
 <AM lemma="švagrová" src="auto">NNFS6-----A----</AM>
 </tag>
@@ -1509,7 +1515,7 @@
 </w.rf>
 <form>Střelnou</form>
 <tag>
-<AM lemma="Střelná_;G" src="orig">NNFS4-----A----</AM>
+<AM lemma="Střelná_;G" src="orig" selected="1">NNFS4-----A----</AM>
 <AM lemma="střelný" src="auto" recommended="1">AAFS4----1A----</AM>
 <AM lemma="střelný" src="auto">AAFS7----1A----</AM>
 </tag>
@@ -2002,7 +2008,10 @@
 <LM>w#w-mf930709-113-p2s15w6</LM>
 </w.rf>
 <form>stála</form>
-<tag lemma="stát-4_^(něco_stojí_peníze)" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag>
+<AM lemma="stát-4_^(něco_stojí_peníze)" src="orig">VpQW---XR-AA---</AM>
+<AM lemma="stát-4_:T_^(něco_stojí_peníze)" src="manual" selected="1">VpQW---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-mf930709-113-p2s15w7">
 <src.rf>manual</src.rf>
@@ -2803,7 +2812,10 @@
 <LM>w#w-mf930709-113-p2s19w16</LM>
 </w.rf>
 <form>berou</form>
-<tag lemma="brát" src="orig" selected="1">VB-P---3P-AA---</tag>
+<tag>
+<AM lemma="brát" src="orig">VB-P---3P-AA---</AM>
+<AM lemma="brát_:T" src="manual" selected="1">VB-P---3P-AA---</AM>
+</tag>
 </m>
 <m id="m-mf930709-113-p2s19w17">
 <src.rf>manual</src.rf>
@@ -2830,7 +2842,7 @@
 </w.rf>
 <form>Střelné</form>
 <tag>
-<AM lemma="Střelná_;G" src="orig">NNFS2-----A----</AM>
+<AM lemma="Střelná_;G" src="orig" selected="1">NNFS2-----A----</AM>
 <AM lemma="střelný" src="auto">AAFP1----1A----</AM>
 <AM lemma="střelný" src="auto">AAFP4----1A----</AM>
 <AM lemma="střelný" src="auto">AAFP5----1A----</AM>
@@ -3074,7 +3086,7 @@
 </w.rf>
 <form>Střelná</form>
 <tag>
-<AM lemma="Střelná_;G" src="orig">NNFS1-----A----</AM>
+<AM lemma="Střelná_;G" src="orig" selected="1">NNFS1-----A----</AM>
 <AM lemma="střelný" src="auto" recommended="1">AAFS1----1A----</AM>
 <AM lemma="střelný" src="auto">AAFS5----1A----</AM>
 <AM lemma="střelný" src="auto">AANP1----1A----</AM>
@@ -3251,7 +3263,7 @@
 </w.rf>
 <form>Střelné</form>
 <tag>
-<AM lemma="Střelná_;G" src="orig">NNFS6-----A----</AM>
+<AM lemma="Střelná_;G" src="orig" selected="1">NNFS6-----A----</AM>
 <AM lemma="střelný" src="auto">AAFP1----1A----</AM>
 <AM lemma="střelný" src="auto">AAFP4----1A----</AM>
 <AM lemma="střelný" src="auto">AAFP5----1A----</AM>
@@ -3312,7 +3324,7 @@
 <form>totiž</form>
 <tag>
 <AM lemma="totiž" src="orig">Db-------------</AM>
-<AM lemma="totiž-1" src="auto" recommended="1">J^-------------</AM>
+<AM lemma="totiž-1" src="auto" recommended="1" selected="1">J^-------------</AM>
 <AM lemma="totiž-2" src="auto">TT-------------</AM>
 </tag>
 </m>
@@ -3370,7 +3382,10 @@
 <LM>w#w-mf930709-113-p2s24w10</LM>
 </w.rf>
 <form>chtějí</form>
-<tag lemma="chtít" src="orig" selected="1">VB-P---3P-AA---</tag>
+<tag>
+<AM lemma="chtít" src="orig">VB-P---3P-AA---</AM>
+<AM lemma="chtít_:T" src="manual" selected="1">VB-P---3P-AA---</AM>
+</tag>
 </m>
 <m id="m-mf930709-113-p2s24w11">
 <src.rf>manual</src.rf>
@@ -3713,7 +3728,7 @@
 </w.rf>
 <form>Střelné</form>
 <tag>
-<AM lemma="Střelná_;G" src="orig">NNFS2-----A----</AM>
+<AM lemma="Střelná_;G" src="orig" selected="1">NNFS2-----A----</AM>
 <AM lemma="střelný" src="auto">AAFP1----1A----</AM>
 <AM lemma="střelný" src="auto">AAFP4----1A----</AM>
 <AM lemma="střelný" src="auto">AAFP5----1A----</AM>

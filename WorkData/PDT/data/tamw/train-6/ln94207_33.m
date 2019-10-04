@@ -564,7 +564,10 @@
 <LM>w#w-ln94207-33-p2s3w9</LM>
 </w.rf>
 <form>stranách</form>
-<tag lemma="strana-4_^(v_knize,_rukopise,...)" src="orig" selected="1">NNFP6-----A----</tag>
+<tag>
+<AM lemma="strana-4_^(v_knize,_rukopise,...)" src="orig">NNFP6-----A----</AM>
+<AM lemma="strana" src="manual" selected="1">NNFP6-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94207-33-p2s3w10">
 <src.rf>manual</src.rf>
@@ -838,7 +841,10 @@
 <LM>w#w-ln94207-33-p2s4w4</LM>
 </w.rf>
 <form>stranu</form>
-<tag lemma="strana-3_^(u_soudu,_na_úřadě,_smluvní_strany;_na_něčí_straně)" src="orig" selected="1">NNFS4-----A----</tag>
+<tag>
+<AM lemma="strana-3_^(u_soudu,_na_úřadě,_smluvní_strany;_na_něčí_straně)" src="orig">NNFS4-----A----</AM>
+<AM lemma="strana" src="manual" selected="1">NNFS4-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94207-33-p2s4w5">
 <src.rf>manual</src.rf>
@@ -1001,7 +1007,7 @@
 </w.rf>
 <form>Philippa</form>
 <tag>
-<AM lemma="Philippe_;Y" src="orig">NNMS2-----A----</AM>
+<AM lemma="Philippe_;Y" src="orig" selected="1">NNMS2-----A----</AM>
 <AM lemma="Philipp_;Y" src="auto" recommended="1">NNMS2-----A----</AM>
 <AM lemma="Philipp_;Y" src="auto">NNMS4-----A----</AM>
 </tag>
@@ -1013,7 +1019,7 @@
 </w.rf>
 <form>Alexandra</form>
 <tag>
-<AM lemma="Alexandre_;S" src="orig">NNMS2-----A----</AM>
+<AM lemma="Alexandre_;S" src="orig" selected="1">NNMS2-----A----</AM>
 <AM lemma="Alexandr_;Y" src="auto">NNMS2-----A----</AM>
 <AM lemma="Alexandr_;Y" src="auto">NNMS4-----A----</AM>
 <AM lemma="Alexandra_;Y_^(^FA*1)" src="auto">NNFS1-----A----</AM>
@@ -1043,7 +1049,10 @@
 <LM>w#w-ln94207-33-p2s5w8</LM>
 </w.rf>
 <form>jen</form>
-<tag lemma="jen-1" src="auto" selected="1">TT-------------</tag>
+<tag>
+<AM lemma="jen-1" src="auto">TT-------------</AM>
+<AM lemma="jen-4_^(pouze)" src="manual" selected="1">Db-------------</AM>
+</tag>
 </m>
 <m id="m-ln94207-33-p2s5w9">
 <src.rf>manual</src.rf>
@@ -1151,7 +1160,7 @@
 <AM lemma="odchod" src="orig">NNIS6-----A----</AM>
 <AM lemma="odchod" src="auto">NNIS2-----A----</AM>
 <AM lemma="odchod" src="auto">NNIS3-----A----</AM>
-<AM lemma="odchod" src="auto" recommended="1">NNIS6-----A---1</AM>
+<AM lemma="odchod" src="auto" recommended="1" selected="1">NNIS6-----A---1</AM>
 </tag>
 </m>
 <m id="m-ln94207-33-p2s5w22">

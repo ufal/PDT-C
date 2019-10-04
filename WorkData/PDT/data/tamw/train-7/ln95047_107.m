@@ -185,7 +185,10 @@
 <LM>w#w-ln95047-107-p2s2w3</LM>
 </w.rf>
 <form>LN</form>
-<tag lemma="LN-1_:B_;R_^(Lidové_noviny,_deník)" src="orig" selected="1">NNFPX-----A---8</tag>
+<tag>
+<AM lemma="LN-1_:B_;R_^(Lidové_noviny,_deník)" src="orig">NNFPX-----A---8</AM>
+<AM lemma="LN-1_:B_;K_;R_^(Lidové_noviny)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95047-107-p2s2w4">
 <src.rf>manual</src.rf>
@@ -193,7 +196,10 @@
 <LM>w#w-ln95047-107-p2s2w4</LM>
 </w.rf>
 <form>řekl</form>
-<tag lemma="říci" src="auto" selected="1">VpYS---XR-AA---</tag>
+<tag>
+<AM lemma="říci" src="auto">VpYS---XR-AA---</AM>
+<AM lemma="říci_:W" src="manual" selected="1">VpYS---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-ln95047-107-p2s2w5">
 <src.rf>manual</src.rf>
@@ -235,7 +241,7 @@
 <form>DIPRA</form>
 <tag>
 <AM lemma="DIPRA_:B_;K" src="orig">NNFXX-----A---8</AM>
-<AM lemma="Dipra_;K" src="auto" recommended="1">NNFS1-----A----</AM>
+<AM lemma="Dipra_;K" src="auto" recommended="1" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95047-107-p2s2w10">
@@ -253,7 +259,7 @@
 </w.rf>
 <form>Pálek</form>
 <tag>
-<AM lemma="Pálek_;S" src="orig">NNMS1-----A----</AM>
+<AM lemma="Pálek_;S" src="orig" selected="1">NNMS1-----A----</AM>
 <AM lemma="pálka" src="auto" recommended="1">NNFP2-----A----</AM>
 </tag>
 </m>
@@ -467,7 +473,10 @@
 <LM>w#w-ln95047-107-p3s2w11</LM>
 </w.rf>
 <form>globusy</form>
-<tag lemma="glóbus" src="orig" selected="1">NNIP4-----A----</tag>
+<tag>
+<AM lemma="glóbus" src="orig">NNIP4-----A----</AM>
+<AM lemma="globus_,s_^(^DD**glóbus)" src="manual" selected="1">NNIP4-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95047-107-p3s2w12">
 <src.rf>manual</src.rf>
@@ -631,7 +640,7 @@
 </w.rf>
 <form>Pálka</form>
 <tag>
-<AM lemma="Pálek_;S" src="orig">NNMS2-----A----</AM>
+<AM lemma="Pálek_;S" src="orig" selected="1">NNMS2-----A----</AM>
 <AM lemma="Pálka_;S" src="auto">NNMS1-----A----</AM>
 <AM lemma="pálka" src="auto" recommended="1">NNFS1-----A----</AM>
 </tag>
@@ -776,7 +785,7 @@
 <AM lemma="felicia_;R_^(vozidlo)" src="auto">NNFP4-----A----</AM>
 <AM lemma="felicia_;R_^(vozidlo)" src="auto">NNFP5-----A----</AM>
 <AM lemma="felicia_;R_^(vozidlo)" src="auto">NNFS1-----A----</AM>
-<AM lemma="felicia_;R_^(vozidlo)" src="auto">NNFS2-----A----</AM>
+<AM lemma="felicia_;R_^(vozidlo)" src="auto" selected="1">NNFS2-----A----</AM>
 <AM lemma="felicia_;R_^(vozidlo)" src="auto">NNFS5-----A----</AM>
 <AM lemma="felicie" src="auto">NNFP1-----A----</AM>
 <AM lemma="felicie" src="auto">NNFP4-----A----</AM>
@@ -810,7 +819,7 @@
 <form>DIPRA</form>
 <tag>
 <AM lemma="DIPRA_:B_;K" src="orig">NNFXX-----A---8</AM>
-<AM lemma="Dipra_;K" src="auto" recommended="1">NNFS1-----A----</AM>
+<AM lemma="Dipra_;K" src="auto" recommended="1" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95047-107-p3s4w17">
@@ -958,7 +967,7 @@
 </w.rf>
 <form>Pálek</form>
 <tag>
-<AM lemma="Pálek_;S" src="orig">NNMS1-----A----</AM>
+<AM lemma="Pálek_;S" src="orig" selected="1">NNMS1-----A----</AM>
 <AM lemma="pálka" src="auto" recommended="1">NNFP2-----A----</AM>
 </tag>
 </m>

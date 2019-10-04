@@ -499,7 +499,10 @@
 <LM>w#w-mf920902-022-p2s4w5</LM>
 </w.rf>
 <form>i</form>
-<tag lemma="i-1" src="orig" selected="1">J^-------------</tag>
+<tag>
+<AM lemma="i-1" src="orig">J^-------------</AM>
+<AM lemma="i-2" src="manual" selected="1">TT-------------</AM>
+</tag>
 </m>
 <m id="m-mf920902-022-p2s4w6">
 <src.rf>manual</src.rf>

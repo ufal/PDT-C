@@ -171,7 +171,7 @@
 <form>Ačkoli</form>
 <tag>
 <AM lemma="ačkoliv" src="orig">J,------------1</AM>
-<AM lemma="ačkoli" src="auto" recommended="1">J,-------------</AM>
+<AM lemma="ačkoli" src="auto" recommended="1" selected="1">J,-------------</AM>
 </tag>
 </m>
 <m id="m-ln95045-051-p2s2w2">
@@ -212,6 +212,7 @@
 <AM lemma="as-1_:B_,t_^(assymetric)" src="auto">AAXXX----1A---8</AM>
 <AM lemma="as_;b_,t_^(měnová/váhová_jednotka)" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="as_;b_,t_^(měnová/váhová_jednotka)" src="auto">NNIS4-----A----</AM>
+<AM lemma="as-4_^(nota)" src="manual" selected="1">NNNXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95045-051-p2s2w6">
@@ -367,6 +368,7 @@
 <tag>
 <AM lemma="USA_;G" src="orig">NNIPX-----A----</AM>
 <AM lemma="USA_:B_;K_,t_^(United_States_of_America)" src="auto" recommended="1">NNIPX-----A---8</AM>
+<AM lemma="USA_:B_;K_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95045-051-p2s2w25">
@@ -879,7 +881,10 @@
 <LM>w#w-ln95045-051-p3s4w2</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-2" src="auto" selected="1">Dg-------2A----</tag>
+<tag>
+<AM lemma="hodně-2" src="auto">Dg-------2A----</AM>
+<AM lemma="hodně-3" src="manual" selected="1">Dg-------2A----</AM>
+</tag>
 </m>
 <m id="m-ln95045-051-p3s4w3">
 <src.rf>manual</src.rf>
@@ -927,6 +932,7 @@
 <AM lemma="as-1_:B_,t_^(assymetric)" src="auto">AAXXX----1A---8</AM>
 <AM lemma="as_;b_,t_^(měnová/váhová_jednotka)" src="auto">NNIS1-----A----</AM>
 <AM lemma="as_;b_,t_^(měnová/váhová_jednotka)" src="auto">NNIS4-----A----</AM>
+<AM lemma="as-4_^(nota)" src="manual" selected="1">NNNXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95045-051-p3s4w8">
@@ -1007,7 +1013,10 @@
 <LM>w#w-ln95045-051-p3s4w17</LM>
 </w.rf>
 <form>ani</form>
-<tag lemma="ani-1" src="auto" selected="1">J^-------------</tag>
+<tag>
+<AM lemma="ani-1" src="auto">J^-------------</AM>
+<AM lemma="ani-2" src="manual" selected="1">TT-------------</AM>
+</tag>
 </m>
 <m id="m-ln95045-051-p3s4w18">
 <src.rf>manual</src.rf>
@@ -1071,7 +1080,10 @@
 <LM>w#w-ln95045-051-p3s4w25</LM>
 </w.rf>
 <form>jen</form>
-<tag lemma="jen-1" src="auto" selected="1">TT-------------</tag>
+<tag>
+<AM lemma="jen-1" src="auto">TT-------------</AM>
+<AM lemma="jen-4_^(pouze)" src="manual" selected="1">Db-------------</AM>
+</tag>
 </m>
 <m id="m-ln95045-051-p3s4w26">
 <src.rf>manual</src.rf>
@@ -1330,7 +1342,7 @@
 <AM lemma="Josefin_;Y_^(*2a)" src="auto">AUIS6F---------</AM>
 <AM lemma="Josefin_;Y_^(*2a)" src="auto">AUMS6F---------</AM>
 <AM lemma="Josefin_;Y_^(*2a)" src="auto">AUNS6F---------</AM>
-<AM lemma="Josefina_;Y" src="auto" recommended="1">NNFS3-----A----</AM>
+<AM lemma="Josefina_;Y" src="auto" recommended="1" selected="1">NNFS3-----A----</AM>
 <AM lemma="Josefina_;Y" src="auto">NNFS6-----A----</AM>
 </tag>
 </m>

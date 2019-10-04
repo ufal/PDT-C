@@ -77,7 +77,10 @@
 <LM>w#w-lnd94105-001-p1s1Bw5</LM>
 </w.rf>
 <form>SRN</form>
-<tag lemma="SRN_:B_;G" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="SRN_:B_;G" src="orig">NNFXX-----A---8</AM>
+<AM lemma="SRN-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd94105-001-p1s1Bw6">
 <src.rf>manual</src.rf>
@@ -85,7 +88,10 @@
 <LM>w#w-lnd94105-001-p1s1Bw6</LM>
 </w.rf>
 <form>Ignatz</form>
-<tag lemma="Ignatz_;S" src="auto" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Ignatz_;S" src="auto">NNMS1-----A----</AM>
+<AM lemma="Ignatz_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd94105-001-p1s1Bw7">
 <src.rf>manual</src.rf>
@@ -109,7 +115,10 @@
 <LM>w#w-lnd94105-001-p1s1Bw9</LM>
 </w.rf>
 <form>LN</form>
-<tag lemma="LN-1_:B_;R_^(Lidové_noviny,_deník)" src="orig" selected="1">NNFPX-----A---8</tag>
+<tag>
+<AM lemma="LN-1_:B_;R_^(Lidové_noviny,_deník)" src="orig">NNFPX-----A---8</AM>
+<AM lemma="LN-1_:B_;K_;R_^(Lidové_noviny)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 </s>
 <s id="m-lnd94105-001-p1s1C">
@@ -219,7 +228,10 @@
 <LM>w#w-lnd94105-001-p1s1Ew7</LM>
 </w.rf>
 <form>extremismu</form>
-<tag lemma="extremismus" src="orig" selected="1">NNIS2-----A----</tag>
+<tag>
+<AM lemma="extremismus" src="orig">NNIS2-----A----</AM>
+<AM lemma="extremismus_,s_^(^DD**extremizmus)" src="manual" selected="1">NNIS2-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd94105-001-p1s1Ew8">
 <src.rf>manual</src.rf>
@@ -340,7 +352,10 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>Ignatz</form>
-<tag lemma="Ignatz_;S" src="auto" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Ignatz_;S" src="auto">NNMS1-----A----</AM>
+<AM lemma="Ignatz_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd94105-001-p1s1Ew23">
 <src.rf>manual</src.rf>
@@ -374,7 +389,10 @@
 <LM>w#w-lnd94105-001-p1s2w2</LM>
 </w.rf>
 <form>optimismus</form>
-<tag lemma="optimismus" src="orig" selected="1">NNIS4-----A----</tag>
+<tag>
+<AM lemma="optimismus" src="orig">NNIS4-----A----</AM>
+<AM lemma="optimismus_,s_^(^DD**optimizmus)" src="manual" selected="1">NNIS4-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd94105-001-p1s2w3">
 <src.rf>manual</src.rf>
@@ -750,7 +768,10 @@
 <LM>w#w-lnd94105-001-p1s6w2</LM>
 </w.rf>
 <form>Ignatze</form>
-<tag lemma="Ignatz_;S" src="auto" selected="1">NNMS2-----A----</tag>
+<tag>
+<AM lemma="Ignatz_;S" src="auto">NNMS2-----A----</AM>
+<AM lemma="Ignatz_;S_;Y" src="manual" selected="1">NNMS2-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd94105-001-p1s6w3">
 <src.rf>manual</src.rf>

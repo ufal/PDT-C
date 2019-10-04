@@ -93,7 +93,10 @@
 <LM>w#w-mf930703-050-p2s1w3</LM>
 </w.rf>
 <form>han</form>
-<tag lemma="hana_^(pohana)" src="orig" selected="1">NNFP2-----A----</tag>
+<tag>
+<AM lemma="hana_^(pohana)" src="orig">NNFP2-----A----</AM>
+<AM lemma="han-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930703-050-p2s1w4">
 <src.rf>manual</src.rf>
@@ -109,7 +112,10 @@
 <LM>w#w-mf930703-050-p2s1w5</LM>
 </w.rf>
 <form>ina</form>
-<tag lemma="ina-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="ina-99_:B_;S" src="orig">NNXXX-----A---8</AM>
+<AM lemma="ina-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930703-050-p2s1w6">
 <src.rf>manual</src.rf>
@@ -311,7 +317,10 @@
 <LM>w#w-mf930703-050-p2s2w15</LM>
 </w.rf>
 <form>milionu</form>
-<tag lemma="milión`1000000" src="orig" selected="1">NNIS2-----A----</tag>
+<tag>
+<AM lemma="milión`1000000" src="orig">NNIS2-----A----</AM>
+<AM lemma="milion`1000000_,s_^(^DD**milión)" src="manual" selected="1">NNIS2-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930703-050-p2s2w16">
 <src.rf>manual</src.rf>
@@ -447,7 +456,10 @@
 <LM>w#w-mf930703-050-p2s2w32</LM>
 </w.rf>
 <form>ČSAD</form>
-<tag lemma="ČSAD-1_:B_;K_^(Čs._státní_automobilová_doprava)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ČSAD-1_:B_;K_^(Čs._státní_automobilová_doprava)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČSAD-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-mf930703-050-p2s2w33">
 <src.rf>manual</src.rf>
@@ -465,7 +477,10 @@
 <LM>w#w-mf930703-050-p3s1w1</LM>
 </w.rf>
 <form>ČSAD</form>
-<tag lemma="ČSAD-1_:B_;K_^(Čs._státní_automobilová_doprava)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ČSAD-1_:B_;K_^(Čs._státní_automobilová_doprava)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČSAD-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-mf930703-050-p3s1w2">
 <src.rf>manual</src.rf>
@@ -611,7 +626,10 @@
 <LM>w#w-mf930703-050-p3s2w11</LM>
 </w.rf>
 <form>ČSAD</form>
-<tag lemma="ČSAD-1_:B_;K_^(Čs._státní_automobilová_doprava)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ČSAD-1_:B_;K_^(Čs._státní_automobilová_doprava)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČSAD-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-mf930703-050-p3s2w12">
 <src.rf>manual</src.rf>
@@ -823,7 +841,10 @@
 <LM>w#w-mf930703-050-p3s4w9</LM>
 </w.rf>
 <form>milionů</form>
-<tag lemma="milión`1000000" src="orig" selected="1">NNIP2-----A----</tag>
+<tag>
+<AM lemma="milión`1000000" src="orig">NNIP2-----A----</AM>
+<AM lemma="milion`1000000_,s_^(^DD**milión)" src="manual" selected="1">NNIP2-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930703-050-p3s4w10">
 <src.rf>manual</src.rf>

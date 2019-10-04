@@ -19,7 +19,10 @@
 <LM>w#w-mf930708-039-p1s1w1</LM>
 </w.rf>
 <form>Voest</form>
-<tag lemma="Voest_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="Voest_;K" src="orig">NNIS1-----A----</AM>
+<AM lemma="Voest-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-mf930708-039-p1s1w2">
 <src.rf>manual</src.rf>
@@ -30,6 +33,7 @@
 <tag>
 <AM lemma="Alpine_;K" src="orig">AAXXX----1A----</AM>
 <AM lemma="Alpine_;K" src="auto" recommended="1">NNNSX-----A----</AM>
+<AM lemma="Alpine-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-mf930708-039-p1s1w3">
@@ -136,7 +140,10 @@
 <LM>w#w-mf930708-039-p2s1w8</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-2" src="auto" selected="1">Dg-------2A----</tag>
+<tag>
+<AM lemma="hodně-2" src="auto">Dg-------2A----</AM>
+<AM lemma="hodně-3" src="manual" selected="1">Dg-------2A----</AM>
+</tag>
 </m>
 <m id="m-mf930708-039-p2s1w9">
 <src.rf>manual</src.rf>
@@ -176,7 +183,10 @@
 <LM>w#w-mf930708-039-p2s1w13</LM>
 </w.rf>
 <form>Voest</form>
-<tag lemma="Voest_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="Voest_;K" src="orig">NNIS1-----A----</AM>
+<AM lemma="Voest-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-mf930708-039-p2s1w14">
 <src.rf>manual</src.rf>
@@ -187,6 +197,7 @@
 <tag>
 <AM lemma="Alpine_;K" src="orig">AAXXX----1A----</AM>
 <AM lemma="Alpine_;K" src="auto" recommended="1">NNNSX-----A----</AM>
+<AM lemma="Alpine-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-mf930708-039-p2s1w15">
@@ -219,7 +230,10 @@
 <LM>w#w-mf930708-039-p2s1w18</LM>
 </w.rf>
 <form>a</form>
-<tag lemma="akciový_:B_^(jen_akciová_společnost)" src="orig" selected="1">AAXXX----1A---8</tag>
+<tag>
+<AM lemma="akciový_:B_^(jen_akciová_společnost)" src="orig">AAXXX----1A---8</AM>
+<AM lemma="akciový_^(jen_akciová_společnost)" src="manual" selected="1">AAXXX----1A---8</AM>
+</tag>
 </m>
 <m id="m-mf930708-039-p2s1w19">
 <src.rf>manual</src.rf>
@@ -235,7 +249,10 @@
 <LM>w#w-mf930708-039-p2s1w20</LM>
 </w.rf>
 <form>s</form>
-<tag lemma="společnost_:B" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="společnost_:B" src="orig">NNFXX-----A---8</AM>
+<AM lemma="společnost" src="manual" selected="1">NNFXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-mf930708-039-p2s1w21">
 <src.rf>manual</src.rf>
@@ -283,7 +300,10 @@
 <LM>w#w-mf930708-039-p2s1w26</LM>
 </w.rf>
 <form>okr</form>
-<tag lemma="okr" src="orig" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="okr" src="orig">NNIS1-----A----</AM>
+<AM lemma="okres" src="manual" selected="1">NNIS1-----A---8</AM>
+</tag>
 </m>
 <m id="m-mf930708-039-p2s1w27">
 <src.rf>manual</src.rf>
@@ -482,7 +502,7 @@
 </w.rf>
 <form>Svati</form>
 <tag>
-<AM lemma="Svaťa_;Y" src="orig">NNMS2-----A----</AM>
+<AM lemma="Svaťa_;Y" src="orig" selected="1">NNMS2-----A----</AM>
 <AM lemma="svat" src="auto">NNMP1-----A---1</AM>
 <AM lemma="svat" src="auto">NNMP5-----A---1</AM>
 <AM lemma="svatý-1_,a" src="auto" recommended="1">ACMP------A----</AM>

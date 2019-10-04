@@ -30,7 +30,7 @@
 <AM lemma="Chvalovský_;S" src="auto">NNMP1-----A---6</AM>
 <AM lemma="Chvalovský_;S" src="auto">NNMP4-----A---6</AM>
 <AM lemma="Chvalovský_;S" src="auto">NNMP5-----A---6</AM>
-<AM lemma="Chvalovský_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Chvalovský_;S" src="auto" recommended="1" selected="1">NNMS1-----A----</AM>
 <AM lemma="Chvalovský_;S" src="auto">NNMS5-----A----</AM>
 </tag>
 </m>
@@ -180,7 +180,10 @@
 <LM>w#w-ln95046-035-p2s1Bw12</LM>
 </w.rf>
 <form>nedávno</form>
-<tag lemma="nedávno-1" src="auto" selected="1">Db-------------</tag>
+<tag>
+<AM lemma="nedávno-1" src="auto">Db-------------</AM>
+<AM lemma="dávno-1" src="manual" selected="1">Dg-------1N----</AM>
+</tag>
 </m>
 <m id="m-ln95046-035-p2s1Bw13">
 <src.rf>manual</src.rf>
@@ -510,7 +513,10 @@
 <LM>w#w-ln95046-035-p3s1Aw16</LM>
 </w.rf>
 <form>Viktor</form>
-<tag lemma="Viktor_;Y" src="orig" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Viktor_;Y" src="orig">NNMS1-----A----</AM>
+<AM lemma="Viktor_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95046-035-p3s1Aw17">
 <src.rf>manual</src.rf>
@@ -686,7 +692,10 @@
 <LM>w#w-ln95046-035-p3s1Aw38</LM>
 </w.rf>
 <form>Michala</form>
-<tag lemma="Michal_;Y" src="orig" selected="1">NNMS2-----A----</tag>
+<tag>
+<AM lemma="Michal_;Y" src="orig">NNMS2-----A----</AM>
+<AM lemma="Michal_;S_;Y" src="manual" selected="1">NNMS2-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95046-035-p3s1Aw39">
 <src.rf>manual</src.rf>
@@ -718,7 +727,10 @@
 <LM>w#w-ln95046-035-p3s1Aw42</LM>
 </w.rf>
 <form>Chovanců</form>
-<tag lemma="Chovanec_;S" src="orig" selected="1">NNMP2-----A----</tag>
+<tag>
+<AM lemma="Chovanec_;S" src="orig">NNMP2-----A----</AM>
+<AM lemma="Chovanců_;S" src="manual" selected="1">NNMS2-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95046-035-p3s1Aw43">
 <src.rf>manual</src.rf>
@@ -738,6 +750,7 @@
 <AM lemma="společník_:B_^(Pepa_a_spol.)" src="orig">NNMXX-----A---8</AM>
 <AM lemma="společenský_:B" src="auto">AAXXX----1A---8</AM>
 <AM lemma="společnost_:B" src="auto" recommended="1">NNFXX-----A---8</AM>
+<AM lemma="společnost" src="manual" selected="1">NNFXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-ln95046-035-p3s1Aw45">
@@ -948,7 +961,10 @@
 <LM>w#w-ln95046-035-p3s1Bw25</LM>
 </w.rf>
 <form>ČMFS</form>
-<tag lemma="ČMFS-1_:B_;K_;w_^(Českomoravský_fotbalový_svaz)" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="ČMFS-1_:B_;K_;w_^(Českomoravský_fotbalový_svaz)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="ČMFS-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95046-035-p3s1Bw26">
 <src.rf>manual</src.rf>
@@ -1234,7 +1250,7 @@
 <form>totiž</form>
 <tag>
 <AM lemma="totiž" src="orig">Db-------------</AM>
-<AM lemma="totiž-1" src="auto" recommended="1">J^-------------</AM>
+<AM lemma="totiž-1" src="auto" recommended="1" selected="1">J^-------------</AM>
 <AM lemma="totiž-2" src="auto">TT-------------</AM>
 </tag>
 </m>
@@ -1252,7 +1268,15 @@
 <LM>w#w-ln95046-035-p3s3w15</LM>
 </w.rf>
 <form>nečekaně</form>
-<tag lemma="nečekaně_^(*1ý)" src="auto" selected="1">Dg-------1A----</tag>
+<tag>
+<AM lemma="nečekaně_^(*1ý)" src="auto">Dg-------1A----</AM>
+<AM lemma="čekaně_^(*1ý)" src="manual" selected="1">Dg-------1N----</AM>
+</tag>
+<comment>
+<LM type="Other">
+<text>opravil jsem pův. analýzu na analýzu ze slovníku</text>
+</LM>
+</comment>
 </m>
 <m id="m-ln95046-035-p3s3w16">
 <src.rf>manual</src.rf>
@@ -1268,7 +1292,10 @@
 <LM>w#w-ln95046-035-p3s3w17</LM>
 </w.rf>
 <form>ČMFS</form>
-<tag lemma="ČMFS-1_:B_;K_;w_^(Českomoravský_fotbalový_svaz)" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="ČMFS-1_:B_;K_;w_^(Českomoravský_fotbalový_svaz)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="ČMFS-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95046-035-p3s3w18">
 <src.rf>manual</src.rf>
@@ -1295,7 +1322,7 @@
 <AM lemma="Chvalovský_;S" src="auto">NNMP1-----A---6</AM>
 <AM lemma="Chvalovský_;S" src="auto">NNMP4-----A---6</AM>
 <AM lemma="Chvalovský_;S" src="auto">NNMP5-----A---6</AM>
-<AM lemma="Chvalovský_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Chvalovský_;S" src="auto" recommended="1" selected="1">NNMS1-----A----</AM>
 <AM lemma="Chvalovský_;S" src="auto">NNMS5-----A----</AM>
 </tag>
 </m>
@@ -1681,7 +1708,7 @@
 <form>totiž</form>
 <tag>
 <AM lemma="totiž" src="orig">Db-------------</AM>
-<AM lemma="totiž-1" src="auto" recommended="1">J^-------------</AM>
+<AM lemma="totiž-1" src="auto" recommended="1" selected="1">J^-------------</AM>
 <AM lemma="totiž-2" src="auto">TT-------------</AM>
 </tag>
 </m>

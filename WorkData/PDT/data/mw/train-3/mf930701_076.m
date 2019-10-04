@@ -619,7 +619,10 @@
 <LM>w#w-mf930701-076-p2s4w13</LM>
 </w.rf>
 <form>konkurs</form>
-<tag lemma="konkurs_^(úpadek;;soutěž)" src="auto" selected="1">NNIS4-----A----</tag>
+<tag>
+<AM lemma="konkurs_^(úpadek;;soutěž)" src="auto">NNIS4-----A----</AM>
+<AM lemma="konkurs_,s_^(^DD**konkurz)_^(úpadek;;soutěž)" src="manual" selected="1">NNIS4-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930701-076-p2s4w14">
 <src.rf>manual</src.rf>
@@ -1288,6 +1291,7 @@
 <AM lemma="SV_:B_;K_^(sport._klub)" src="auto">NNXXX-----A---8</AM>
 <AM lemma="svazek_:B" src="auto" recommended="1">NNIXX-----A---8</AM>
 <AM lemma="svatý-1_:B" src="auto">AAXXX----1A---8</AM>
+<AM lemma="SV-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-mf930701-076-p2s8w13">
@@ -1296,7 +1300,10 @@
 <LM>w#w-mf930701-076-p2s8w13</LM>
 </w.rf>
 <form>Fübingen</form>
-<tag lemma="Fübingen_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="Fübingen_;K" src="orig">NNIS1-----A----</AM>
+<AM lemma="Fübingen-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-mf930701-076-p2s8w14">
 <src.rf>manual</src.rf>
@@ -1649,7 +1656,7 @@
 <AM lemma="Bystrica_;G" src="auto">NNFP1-----A---1</AM>
 <AM lemma="Bystrica_;G" src="auto">NNFP4-----A---1</AM>
 <AM lemma="Bystrica_;G" src="auto">NNFP5-----A---1</AM>
-<AM lemma="Bystrica_;G" src="auto" recommended="1">NNFS2-----A---1</AM>
+<AM lemma="Bystrica_;G" src="auto" recommended="1" selected="1">NNFS2-----A---1</AM>
 <AM lemma="Bystrica_;G" src="auto">NNFS3-----A----</AM>
 <AM lemma="Bystrica_;G" src="auto">NNFS6-----A----</AM>
 </tag>

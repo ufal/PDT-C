@@ -77,7 +77,10 @@
 <LM>w#w-ln94200-6-p2s1w5</LM>
 </w.rf>
 <form>Woodyho</form>
-<tag lemma="Woody_;S" src="auto" selected="1">NNMS2-----A----</tag>
+<tag>
+<AM lemma="Woody_;S" src="auto">NNMS2-----A----</AM>
+<AM lemma="Woody_;S_;Y" src="manual" selected="1">NNMS2-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94200-6-p2s1w6">
 <src.rf>manual</src.rf>
@@ -168,7 +171,7 @@
 <tag>
 <AM lemma="přesto" src="orig">Dg-------1A----</AM>
 <AM lemma="přesto-1" src="auto">Db-------------</AM>
-<AM lemma="přesto-2" src="auto" recommended="1">J^-------------</AM>
+<AM lemma="přesto-2" src="auto" recommended="1" selected="1">J^-------------</AM>
 </tag>
 </m>
 <m id="m-ln94200-6-p2s1w17">
@@ -664,7 +667,10 @@
 <LM>w#w-ln94200-6-p3s1w2</LM>
 </w.rf>
 <form>raj</form>
-<tag lemma="raj-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="raj-99_:B_;S" src="orig">NNXXX-----A---8</AM>
+<AM lemma="raj-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94200-6-p3s1w3">
 <src.rf>manual</src.rf>
@@ -688,7 +694,10 @@
 <LM>w#w-ln94200-6-p3s1w5</LM>
 </w.rf>
 <form>ČT</form>
-<tag lemma="ČT_:B_;K_^(Česká_televize)" src="auto" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="ČT_:B_;K_^(Česká_televize)" src="auto">NNXXX-----A---8</AM>
+<AM lemma="ČT_:B_;K_^(Česká_televize)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94200-6-p3s1w6">
 <src.rf>manual</src.rf>

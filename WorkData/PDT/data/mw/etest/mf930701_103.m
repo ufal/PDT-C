@@ -104,6 +104,7 @@
 <tag>
 <AM lemma="km-99_:B_;S" src="orig">NNXXX-----A---8</AM>
 <AM lemma="km-1`kilometr_:B" src="auto" recommended="1">NNIXX-----A---8</AM>
+<AM lemma="km-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930701-103-p2s1w6">
@@ -404,7 +405,10 @@
 <LM>w#w-mf930701-103-p2s3w1</LM>
 </w.rf>
 <form>Řekl</form>
-<tag lemma="říci" src="auto" selected="1">VpYS---XR-AA---</tag>
+<tag>
+<AM lemma="říci" src="auto">VpYS---XR-AA---</AM>
+<AM lemma="říci_:W" src="manual" selected="1">VpYS---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-mf930701-103-p2s3w2">
 <src.rf>manual</src.rf>
@@ -469,7 +473,7 @@
 </w.rf>
 <form>Želenický</form>
 <tag>
-<AM lemma="Želenický_;S" src="orig">NNMS1-----A----</AM>
+<AM lemma="Želenický_;S" src="orig" selected="1">NNMS1-----A----</AM>
 <AM lemma="želenický" src="auto">AAFP1----1A---6</AM>
 <AM lemma="želenický" src="auto">AAFP4----1A---6</AM>
 <AM lemma="želenický" src="auto">AAFP5----1A---6</AM>
@@ -991,7 +995,10 @@
 <LM>w#w-mf930701-103-p3s3w2</LM>
 </w.rf>
 <form>řekli</form>
-<tag lemma="říci" src="auto" selected="1">VpMP---XR-AA---</tag>
+<tag>
+<AM lemma="říci" src="auto">VpMP---XR-AA---</AM>
+<AM lemma="říci_:W" src="manual" selected="1">VpMP---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-mf930701-103-p3s3w3">
 <src.rf>manual</src.rf>
@@ -1018,6 +1025,7 @@
 <tag>
 <AM lemma="USA_;G" src="orig">NNIPX-----A----</AM>
 <AM lemma="USA_:B_;K_,t_^(United_States_of_America)" src="auto" recommended="1">NNIPX-----A---8</AM>
+<AM lemma="USA_:B_;K_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930701-103-p3s3w6">

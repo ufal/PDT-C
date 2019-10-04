@@ -202,6 +202,7 @@
 <tag>
 <AM lemma="FTV_:B_;K" src="orig">NNFXX-----A---8</AM>
 <AM lemma="FTV_:B_;K_^(Fashion_TV)" src="auto" recommended="1">NNFSX-----A---8</AM>
+<AM lemma="FTV-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94205-67-p2s1Bw15">
@@ -659,7 +660,10 @@
 <LM>w#w-ln94205-67-p2s5w17</LM>
 </w.rf>
 <form>OK</form>
-<tag lemma="OK-2_:B_;b_^(lety_ČSA)" src="auto" selected="1">NNNXX-----A---8</tag>
+<tag>
+<AM lemma="OK-2_:B_;b_^(lety_ČSA)" src="auto">NNNXX-----A---8</AM>
+<AM lemma="OK-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94205-67-p2s5w18">
 <src.rf>manual</src.rf>
@@ -805,7 +809,10 @@
 <LM>w#w-ln94205-67-p2s6w8</LM>
 </w.rf>
 <form>Rady</form>
-<tag lemma="rada-3_^(poradní_sbor;_př._Česká_národní_r.)" src="orig" selected="1">NNFS2-----A----</tag>
+<tag>
+<AM lemma="rada-3_^(poradní_sbor;_př._Česká_národní_r.)" src="orig">NNFS2-----A----</AM>
+<AM lemma="rada-1_^(př._dát_někomu_dobrou_radu_poradní_sbor)" src="manual" selected="1">NNFS2-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94205-67-p2s6w9">
 <src.rf>manual</src.rf>
@@ -1067,7 +1074,10 @@
 <LM>w#w-ln94205-67-p3s1w7</LM>
 </w.rf>
 <form>tzv</form>
-<tag lemma="takzvaný_:B" src="orig" selected="1">AAXXX----1A---8</tag>
+<tag>
+<AM lemma="takzvaný_:B" src="orig">AAXXX----1A---8</AM>
+<AM lemma="takzvaný" src="manual" selected="1">AAXXX----1A---8</AM>
+</tag>
 </m>
 <m id="m-ln94205-67-p3s1w8">
 <src.rf>manual</src.rf>
@@ -1141,7 +1151,10 @@
 <LM>w#w-ln94205-67-p3s2w4</LM>
 </w.rf>
 <form>rada</form>
-<tag lemma="rada-3_^(poradní_sbor;_př._Česká_národní_r.)" src="orig" selected="1">NNFS1-----A----</tag>
+<tag>
+<AM lemma="rada-3_^(poradní_sbor;_př._Česká_národní_r.)" src="orig">NNFS1-----A----</AM>
+<AM lemma="rada-1_^(př._dát_někomu_dobrou_radu_poradní_sbor)" src="manual" selected="1">NNFS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94205-67-p3s2w5">
 <src.rf>manual</src.rf>
@@ -1183,7 +1196,7 @@
 <form>nikoli</form>
 <tag>
 <AM lemma="nikoliv" src="orig">Db------------1</AM>
-<AM lemma="nikoli" src="auto" recommended="1">TT-------------</AM>
+<AM lemma="nikoli" src="auto" recommended="1" selected="1">TT-------------</AM>
 </tag>
 </m>
 <m id="m-ln94205-67-p3s2w10">
@@ -1202,7 +1215,10 @@
 <LM>w#w-ln94205-67-p3s3w1</LM>
 </w.rf>
 <form>Jen</form>
-<tag lemma="jen-1" src="auto" selected="1">TT-------------</tag>
+<tag>
+<AM lemma="jen-1" src="auto">TT-------------</AM>
+<AM lemma="jen-4_^(pouze)" src="manual" selected="1">Db-------------</AM>
+</tag>
 </m>
 <m id="m-ln94205-67-p3s3w2">
 <src.rf>manual</src.rf>
@@ -1213,6 +1229,7 @@
 <tag>
 <AM lemma="FTV_:B_;K" src="orig">NNFXX-----A---8</AM>
 <AM lemma="FTV_:B_;K_^(Fashion_TV)" src="auto" recommended="1">NNFSX-----A---8</AM>
+<AM lemma="FTV-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94205-67-p3s3w3">
@@ -1361,7 +1378,10 @@
 <LM>w#w-ln94205-67-p3s5w1</LM>
 </w.rf>
 <form>Rada</form>
-<tag lemma="rada-3_^(poradní_sbor;_př._Česká_národní_r.)" src="orig" selected="1">NNFS1-----A----</tag>
+<tag>
+<AM lemma="rada-3_^(poradní_sbor;_př._Česká_národní_r.)" src="orig">NNFS1-----A----</AM>
+<AM lemma="rada-1_^(př._dát_někomu_dobrou_radu;poradní_sbor)" src="manual" selected="1">NNFS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94205-67-p3s5w2">
 <src.rf>manual</src.rf>
@@ -1547,7 +1567,10 @@
 <LM>w#w-ln94205-67-p3s6w20</LM>
 </w.rf>
 <form>TV</form>
-<tag lemma="televize_:B" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="televize_:B" src="orig">NNFXX-----A---8</AM>
+<AM lemma="televize" src="manual" selected="1">NNFXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln94205-67-p3s6w21">
 <src.rf>manual</src.rf>
@@ -1571,7 +1594,10 @@
 <LM>w#w-ln94205-67-p3s6w23</LM>
 </w.rf>
 <form>Art</form>
-<tag lemma="Art-2_;K_,t" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="Art-2_;K_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="Art-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94205-67-p3s6w24">
 <src.rf>manual</src.rf>
@@ -1579,7 +1605,10 @@
 <LM>w#w-ln94205-67-p3s6w24</LM>
 </w.rf>
 <form>Production</form>
-<tag lemma="Production_;K_,t" src="orig" selected="1">NNFXX-----A----</tag>
+<tag>
+<AM lemma="Production_;K_,t" src="orig">NNFXX-----A----</AM>
+<AM lemma="Production-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94205-67-p3s6w25">
 <src.rf>manual</src.rf>
@@ -1606,6 +1635,8 @@
 <AM lemma="komanditní_:B_^(jen_komanditní_společnost)" src="auto">AAXXX----1A---8</AM>
 <AM lemma="koncernový_:B" src="auto">AAXXX----1A---8</AM>
 <AM lemma="kuo-1_:B_,t_^(stará_jednotka_výkonu)" src="auto" recommended="1">NNNXX-----A---8</AM>
+<AM lemma="K-8_:B" src="manual">NNNXX-----A---8</AM>
+<AM lemma="K-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94205-67-p3s6w26">
@@ -1680,7 +1711,10 @@
 <LM>w#w-ln94205-67-p3s7w1</LM>
 </w.rf>
 <form>Rada</form>
-<tag lemma="rada-3_^(poradní_sbor;_př._Česká_národní_r.)" src="orig" selected="1">NNFS1-----A----</tag>
+<tag>
+<AM lemma="rada-3_^(poradní_sbor;_př._Česká_národní_r.)" src="orig">NNFS1-----A----</AM>
+<AM lemma="rada-1_^(př._dát_někomu_dobrou_radu;poradní_sbor)" src="manual" selected="1">NNFS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94205-67-p3s7w2">
 <src.rf>manual</src.rf>
@@ -1972,7 +2006,10 @@
 <LM>w#w-ln94205-67-p3s9w5</LM>
 </w.rf>
 <form>rady</form>
-<tag lemma="rada-3_^(poradní_sbor;_př._Česká_národní_r.)" src="orig" selected="1">NNFS2-----A----</tag>
+<tag>
+<AM lemma="rada-3_^(poradní_sbor;_př._Česká_národní_r.)" src="orig">NNFS2-----A----</AM>
+<AM lemma="rada-1_^(př._dát_někomu_dobrou_radu;poradní_sbor)" src="manual" selected="1">NNFS2-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94205-67-p3s9w6">
 <src.rf>manual</src.rf>
@@ -2128,7 +2165,10 @@
 <LM>w#w-ln94205-67-p3s11w4</LM>
 </w.rf>
 <form>radě</form>
-<tag lemma="rada-3_^(poradní_sbor;_př._Česká_národní_r.)" src="orig" selected="1">NNFS3-----A----</tag>
+<tag>
+<AM lemma="rada-3_^(poradní_sbor;_př._Česká_národní_r.)" src="orig">NNFS3-----A----</AM>
+<AM lemma="rada-1_^(př._dát_někomu_dobrou_radu;poradní_sbor)" src="manual" selected="1">NNFS3-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94205-67-p3s11w5">
 <src.rf>manual</src.rf>
@@ -2434,7 +2474,10 @@
 <LM>w#w-ln94205-67-p3s12w7</LM>
 </w.rf>
 <form>radě</form>
-<tag lemma="rada-3_^(poradní_sbor;_př._Česká_národní_r.)" src="orig" selected="1">NNFS3-----A----</tag>
+<tag>
+<AM lemma="rada-3_^(poradní_sbor;_př._Česká_národní_r.)" src="orig">NNFS3-----A----</AM>
+<AM lemma="rada-1_^(př._dát_někomu_dobrou_radu;poradní_sbor)" src="manual" selected="1">NNFS3-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94205-67-p3s12w8">
 <src.rf>manual</src.rf>
@@ -2508,7 +2551,10 @@
 <LM>w#w-ln94205-67-p4s1w7</LM>
 </w.rf>
 <form>rado</form>
-<tag lemma="rada-3_^(poradní_sbor;_př._Česká_národní_r.)" src="orig" selected="1">NNFS5-----A----</tag>
+<tag>
+<AM lemma="rada-3_^(poradní_sbor;_př._Česká_národní_r.)" src="orig">NNFS5-----A----</AM>
+<AM lemma="rada-1_^(př._dát_někomu_dobrou_radu_poradní_sbor)" src="manual" selected="1">NNFS5-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94205-67-p4s1w8">
 <src.rf>manual</src.rf>

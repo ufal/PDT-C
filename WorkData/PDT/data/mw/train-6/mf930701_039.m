@@ -459,7 +459,10 @@
 <LM>w#w-mf930701-039-p3s1w30</LM>
 </w.rf>
 <form>P</form>
-<tag lemma="P-0_:B_;Y" src="orig" selected="1">NNMXX-----A---8</tag>
+<tag>
+<AM lemma="P-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
+<AM lemma="P-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-mf930701-039-p3s1w31">
 <src.rf>manual</src.rf>
@@ -1915,7 +1918,11 @@
 <LM>w#w-mf930701-039-p6s1w9</LM>
 </w.rf>
 <form>víc</form>
-<tag lemma="hodně-2" src="auto" selected="1">Dg-------2A---1</tag>
+<tag>
+<AM lemma="hodně-2" src="auto">Dg-------2A---1</AM>
+<AM lemma="hodně-\š" src="manual">Dg-------2A---1</AM>
+<AM lemma="hodně-3" src="manual" selected="1">Dg-------2A---1</AM>
+</tag>
 </m>
 <m id="m-mf930701-039-p6s1w10">
 <src.rf>manual</src.rf>
@@ -2888,7 +2895,7 @@
 <form>Bělohradská</form>
 <tag>
 <AM lemma="Bělohradský_;S" src="orig">AAFS1----1A----</AM>
-<AM lemma="Bělohradská_;S" src="auto">NNFS1-----A----</AM>
+<AM lemma="Bělohradská_;S" src="auto" selected="1">NNFS1-----A----</AM>
 <AM lemma="Bělohradská_;S" src="auto">NNFS5-----A----</AM>
 <AM lemma="bělohradský" src="auto" recommended="1">AAFS1----1A----</AM>
 <AM lemma="bělohradský" src="auto">AAFS5----1A----</AM>
@@ -2920,7 +2927,7 @@
 </w.rf>
 <form>Slánská</form>
 <tag>
-<AM lemma="Slánská_;S" src="orig">NNFS1-----A----</AM>
+<AM lemma="Slánská_;S" src="orig" selected="1">NNFS1-----A----</AM>
 <AM lemma="slánský" src="auto" recommended="1">AAFS1----1A----</AM>
 <AM lemma="slánský" src="auto">AAFS5----1A----</AM>
 <AM lemma="slánský" src="auto">AANP1----1A----</AM>
@@ -4010,7 +4017,7 @@
 <form>přesto</form>
 <tag>
 <AM lemma="přesto" src="orig">Dg-------1A----</AM>
-<AM lemma="přesto-1" src="auto" recommended="1">Db-------------</AM>
+<AM lemma="přesto-1" src="auto" recommended="1" selected="1">Db-------------</AM>
 <AM lemma="přesto-2" src="auto">J^-------------</AM>
 </tag>
 </m>
@@ -5058,7 +5065,10 @@
 <LM>w#w-mf930701-039-p15s3w10</LM>
 </w.rf>
 <form>OH</form>
-<tag lemma="OH-1_:B_;K_;p_^(Občanské_hnutí)" src="orig" selected="1">NNNXX-----A---8</tag>
+<tag>
+<AM lemma="OH-1_:B_;K_;p_^(Občanské_hnutí)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="OH-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-mf930701-039-p15s3w11">
 <src.rf>manual</src.rf>

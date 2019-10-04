@@ -182,7 +182,10 @@
 <LM>w#w-ln95046-066-p1s2w12</LM>
 </w.rf>
 <form>Edouarda</form>
-<tag lemma="Edouard_;Y_,t" src="orig" selected="1">NNMS2-----A----</tag>
+<tag>
+<AM lemma="Edouard_;Y_,t" src="orig">NNMS2-----A----</AM>
+<AM lemma="Edouard_;Y" src="manual" selected="1">NNMS2-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95046-066-p1s2w13">
 <src.rf>manual</src.rf>

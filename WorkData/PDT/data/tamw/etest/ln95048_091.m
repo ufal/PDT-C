@@ -109,7 +109,10 @@
 <LM>w#w-ln95048-091-p2s1Aw8</LM>
 </w.rf>
 <form>New</form>
-<tag lemma="New-1_;G_,t_^(součást_míst._jmen)" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="New-1_;G_,t_^(součást_míst._jmen)" src="orig">AAXXX----1A----</AM>
+<AM lemma="New-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln95048-091-p2s1Aw9">
 <src.rf>manual</src.rf>
@@ -127,7 +130,10 @@
 <LM>w#w-ln95048-091-p2s1Bw1</LM>
 </w.rf>
 <form>New</form>
-<tag lemma="New-1_;G_,t_^(součást_míst._jmen)" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="New-1_;G_,t_^(součást_míst._jmen)" src="orig">AAXXX----1A----</AM>
+<AM lemma="New-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln95048-091-p2s1Bw2">
 <src.rf>manual</src.rf>
@@ -135,7 +141,10 @@
 <LM>w#w-ln95048-091-p2s1Bw2</LM>
 </w.rf>
 <form>York</form>
-<tag lemma="York-2_;G" src="orig" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="York-2_;G" src="orig">NNIS1-----A----</AM>
+<AM lemma="York-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln95048-091-p2s1Bw3">
 <src.rf>manual</src.rf>
@@ -217,7 +226,10 @@
 <LM>w#w-ln95048-091-p2s1Cw9</LM>
 </w.rf>
 <form>NHL</form>
-<tag lemma="NHL-1_:B_;K_;w_^(Nár._hokejová_liga)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="NHL-1_:B_;K_;w_^(Nár._hokejová_liga)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="NHL-1_:B_;K_^(Nár._hokejová_liga)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95048-091-p2s1Cw10">
 <src.rf>manual</src.rf>
@@ -1009,7 +1021,12 @@
 <LM>w#w-ln95048-091-p3s4w9</LM>
 </w.rf>
 <form>Philadelphií</form>
-<tag lemma="Philadelphia_;G" src="orig" selected="1">NNFS7-----A----</tag>
+<tag>
+<AM lemma="Philadelphia_;G" src="orig">NNFS7-----A----</AM>
+<AM lemma="Philadelphia_;G_,s_^(^DD** Filadelfie)" src="manual">NNFS7-----A----</AM>
+<AM lemma="Philadelphia_;G_,s_^(^DD**Filadelfie)" src="manual">NNFS7-----A----</AM>
+<AM lemma="Philadelphie_;G_,s_^(^DD**Filadelfie)" src="manual" selected="1">NNFS7-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95048-091-p3s4w10">
 <src.rf>manual</src.rf>
@@ -1017,7 +1034,10 @@
 <LM>w#w-ln95048-091-p3s4w10</LM>
 </w.rf>
 <form>Flyers</form>
-<tag lemma="Flyers_;K_,t_^(sport._klub)" src="orig" selected="1">NNIPX-----A----</tag>
+<tag>
+<AM lemma="Flyers_;K_,t_^(sport._klub)" src="orig">NNIPX-----A----</AM>
+<AM lemma="Flyers-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln95048-091-p3s4w11">
 <src.rf>manual</src.rf>
@@ -1181,7 +1201,10 @@
 <LM>w#w-ln95048-091-p4s1w4</LM>
 </w.rf>
 <form>New</form>
-<tag lemma="New-1_;G_,t_^(součást_míst._jmen)" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="New-1_;G_,t_^(součást_míst._jmen)" src="orig">AAXXX----1A----</AM>
+<AM lemma="New-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln95048-091-p4s1w5">
 <src.rf>manual</src.rf>

@@ -43,7 +43,10 @@
 <LM>w#w-mf930708-160-p1s1w4</LM>
 </w.rf>
 <form>nedostali</form>
-<tag lemma="dostat" src="orig" selected="1">VpMP---XR-NA---</tag>
+<tag>
+<AM lemma="dostat" src="orig">VpMP---XR-NA---</AM>
+<AM lemma="dostat_:W" src="manual" selected="1">VpMP---XR-NA---</AM>
+</tag>
 </m>
 <m id="m-mf930708-160-p1s1w5">
 <src.rf>manual</src.rf>
@@ -149,7 +152,10 @@
 <LM>w#w-mf930708-160-p2s1w11</LM>
 </w.rf>
 <form>de</form>
-<tag lemma="de_,t_^(z_franc._de,_zejm._ve_jménech)" src="orig" selected="1">RR--1----------</tag>
+<tag>
+<AM lemma="de_,t_^(z_franc._de,_zejm._ve_jménech)" src="orig">RR--1----------</AM>
+<AM lemma="de-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-mf930708-160-p2s1w12">
 <src.rf>manual</src.rf>
@@ -232,6 +238,7 @@
 <tag>
 <AM lemma="USA_;G" src="orig">NNIPX-----A----</AM>
 <AM lemma="USA_:B_;K_,t_^(United_States_of_America)" src="auto" recommended="1">NNIPX-----A---8</AM>
+<AM lemma="USA_:B_;K_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930708-160-p2s1w22">
@@ -402,7 +409,10 @@
 <LM>w#w-mf930708-160-p2s2w4</LM>
 </w.rf>
 <form>JAR</form>
-<tag lemma="JAR-1_:B_;G_^(Jihoafrická_republika)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="JAR-1_:B_;G_^(Jihoafrická_republika)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="JAR-1_:B_;G_^(Jihoafrická_republika)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930708-160-p2s2w5">
 <src.rf>manual</src.rf>
@@ -474,7 +484,10 @@
 <LM>w#w-mf930708-160-p2s2w13</LM>
 </w.rf>
 <form>IMF</form>
-<tag lemma="IMF-1_:B_;K_,t_^(International_Monetary_Fund)" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="IMF-1_:B_;K_,t_^(International_Monetary_Fund)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="IMF-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930708-160-p2s2w14">
 <src.rf>manual</src.rf>
@@ -780,7 +793,10 @@
 <LM>w#w-mf930708-160-p3s1w36</LM>
 </w.rf>
 <form>JAR</form>
-<tag lemma="JAR-1_:B_;G_^(Jihoafrická_republika)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="JAR-1_:B_;G_^(Jihoafrická_republika)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="JAR-1_:B_;G_^(Jihoafrická_republika)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930708-160-p3s1w37">
 <src.rf>manual</src.rf>
@@ -838,7 +854,10 @@
 <LM>w#w-mf930708-160-p3s2w6</LM>
 </w.rf>
 <form>JAR</form>
-<tag lemma="JAR-1_:B_;G_^(Jihoafrická_republika)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="JAR-1_:B_;G_^(Jihoafrická_republika)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="JAR-1_:B_;G_^(Jihoafrická_republika)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930708-160-p3s2w7">
 <src.rf>manual</src.rf>
@@ -854,7 +873,10 @@
 <LM>w#w-mf930708-160-p3s2w8</LM>
 </w.rf>
 <form>mít</form>
-<tag lemma="mít" src="orig" selected="1">Vf--------A----</tag>
+<tag>
+<AM lemma="mít" src="orig">Vf--------A----</AM>
+<AM lemma="mít_:T" src="manual" selected="1">Vf--------A----</AM>
+</tag>
 </m>
 <m id="m-mf930708-160-p3s2w9">
 <src.rf>manual</src.rf>
@@ -1000,7 +1022,10 @@
 <LM>w#w-mf930708-160-p4s1w1</LM>
 </w.rf>
 <form>IMF</form>
-<tag lemma="IMF-1_:B_;K_,t_^(International_Monetary_Fund)" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="IMF-1_:B_;K_,t_^(International_Monetary_Fund)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="IMF-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930708-160-p4s1w2">
 <src.rf>manual</src.rf>
@@ -1160,7 +1185,10 @@
 <LM>w#w-mf930708-160-p4s1w21</LM>
 </w.rf>
 <form>IMF</form>
-<tag lemma="IMF-1_:B_;K_,t_^(International_Monetary_Fund)" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="IMF-1_:B_;K_,t_^(International_Monetary_Fund)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="IMF-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930708-160-p4s1w22">
 <src.rf>manual</src.rf>
@@ -1184,7 +1212,10 @@
 <LM>w#w-mf930708-160-p4s1w24</LM>
 </w.rf>
 <form>tj</form>
-<tag lemma="tj-1_:B_^(to_je/jest)" src="orig" selected="1">J^------------8</tag>
+<tag>
+<AM lemma="tj-1_:B_^(to_je/jest)" src="orig">J^------------8</AM>
+<AM lemma="tj-1_:B_^(to_je/jest)" src="manual" selected="1">J^-------------</AM>
+</tag>
 </m>
 <m id="m-mf930708-160-p4s1w25">
 <src.rf>manual</src.rf>
@@ -1298,7 +1329,10 @@
 <LM>w#w-mf930708-160-p4s2w1</LM>
 </w.rf>
 <form>IMF</form>
-<tag lemma="IMF-1_:B_;K_,t_^(International_Monetary_Fund)" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="IMF-1_:B_;K_,t_^(International_Monetary_Fund)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="IMF-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930708-160-p4s2w2">
 <src.rf>manual</src.rf>
@@ -1434,7 +1468,10 @@
 <LM>w#w-mf930708-160-p4s2w19</LM>
 </w.rf>
 <form>IMF</form>
-<tag lemma="IMF-1_:B_;K_,t_^(International_Monetary_Fund)" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="IMF-1_:B_;K_,t_^(International_Monetary_Fund)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="IMF-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930708-160-p4s2w20">
 <src.rf>manual</src.rf>
@@ -1644,7 +1681,10 @@
 <LM>w#w-mf930708-160-p4s3w26</LM>
 </w.rf>
 <form>IMF</form>
-<tag lemma="IMF-1_:B_;K_,t_^(International_Monetary_Fund)" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="IMF-1_:B_;K_,t_^(International_Monetary_Fund)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="IMF-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930708-160-p4s3w27">
 <src.rf>manual</src.rf>
@@ -1662,7 +1702,10 @@
 <LM>w#w-mf930708-160-p5s1w1</LM>
 </w.rf>
 <form>IMF</form>
-<tag lemma="IMF-1_:B_;K_,t_^(International_Monetary_Fund)" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="IMF-1_:B_;K_,t_^(International_Monetary_Fund)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="IMF-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930708-160-p5s1w2">
 <src.rf>manual</src.rf>
@@ -1934,7 +1977,10 @@
 <LM>w#w-mf930708-160-p5s1w37</LM>
 </w.rf>
 <form>ujištěni</form>
-<tag lemma="ujistit" src="orig" selected="1">VsMP---XX-AP---</tag>
+<tag>
+<AM lemma="ujistit" src="orig">VsMP---XX-AP---</AM>
+<AM lemma="ujistit_:W" src="manual" selected="1">VsMP---XX-AP---</AM>
+</tag>
 </m>
 <m id="m-mf930708-160-p5s1w38">
 <src.rf>manual</src.rf>
@@ -2000,7 +2046,10 @@
 <LM>w#w-mf930708-160-p6s1w3</LM>
 </w.rf>
 <form>právě</form>
-<tag lemma="právě-1" src="auto" selected="1">Db-------------</tag>
+<tag>
+<AM lemma="právě-1" src="auto">Db-------------</AM>
+<AM lemma="právě-2" src="manual" selected="1">TT-------------</AM>
+</tag>
 </m>
 <m id="m-mf930708-160-p6s1w4">
 <src.rf>manual</src.rf>
@@ -2154,7 +2203,10 @@
 <LM>w#w-mf930708-160-p6s2w10</LM>
 </w.rf>
 <form>JAR</form>
-<tag lemma="JAR-1_:B_;G_^(Jihoafrická_republika)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="JAR-1_:B_;G_^(Jihoafrická_republika)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="JAR-1_:B_;G_^(Jihoafrická_republika)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930708-160-p6s2w11">
 <src.rf>manual</src.rf>
@@ -2246,7 +2298,10 @@
 <LM>w#w-mf930708-160-p6s4w4</LM>
 </w.rf>
 <form>de</form>
-<tag lemma="de_,t_^(z_franc._de,_zejm._ve_jménech)" src="orig" selected="1">RR--1----------</tag>
+<tag>
+<AM lemma="de_,t_^(z_franc._de,_zejm._ve_jménech)" src="orig">RR--1----------</AM>
+<AM lemma="de-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-mf930708-160-p6s4w5">
 <src.rf>manual</src.rf>
@@ -2310,7 +2365,10 @@
 <LM>w#w-mf930708-160-p6s4w12</LM>
 </w.rf>
 <form>mít</form>
-<tag lemma="mít" src="orig" selected="1">Vf--------A----</tag>
+<tag>
+<AM lemma="mít" src="orig">Vf--------A----</AM>
+<AM lemma="mít_:T" src="manual" selected="1">Vf--------A----</AM>
+</tag>
 </m>
 <m id="m-mf930708-160-p6s4w13">
 <src.rf>manual</src.rf>
@@ -2401,6 +2459,7 @@
 <tag>
 <AM lemma="USA_;G" src="orig">NNIPX-----A----</AM>
 <AM lemma="USA_:B_;K_,t_^(United_States_of_America)" src="auto" recommended="1">NNIPX-----A---8</AM>
+<AM lemma="USA_:B_;K_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930708-160-p6s4w24">
@@ -2467,7 +2526,10 @@
 <LM>w#w-mf930708-160-p6s5w7</LM>
 </w.rf>
 <form>víme</form>
-<tag lemma="vědět" src="orig" selected="1">VB-P---1P-AA---</tag>
+<tag>
+<AM lemma="vědět" src="orig">VB-P---1P-AA---</AM>
+<AM lemma="vědět_:T" src="manual" selected="1">VB-P---1P-AA---</AM>
+</tag>
 </m>
 <m id="m-mf930708-160-p6s5w8">
 <src.rf>manual</src.rf>
@@ -2655,7 +2717,10 @@
 <LM>w#w-mf930708-160-p6s7w5</LM>
 </w.rf>
 <form>IMF</form>
-<tag lemma="IMF-1_:B_;K_,t_^(International_Monetary_Fund)" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="IMF-1_:B_;K_,t_^(International_Monetary_Fund)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="IMF-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930708-160-p6s7w6">
 <src.rf>manual</src.rf>
@@ -2719,7 +2784,10 @@
 <LM>w#w-mf930708-160-p6s7w13</LM>
 </w.rf>
 <form>vzdálen</form>
-<tag lemma="vzdálit" src="orig" selected="1">VsYS---XX-AP---</tag>
+<tag>
+<AM lemma="vzdálit" src="orig">VsYS---XX-AP---</AM>
+<AM lemma="vzdálit_:W" src="manual" selected="1">VsYS---XX-AP---</AM>
+</tag>
 </m>
 <m id="m-mf930708-160-p6s7w14">
 <src.rf>manual</src.rf>
@@ -2867,7 +2935,10 @@
 <LM>w#w-mf930708-160-p6s9w6</LM>
 </w.rf>
 <form>právě</form>
-<tag lemma="právě-1" src="auto" selected="1">Db-------------</tag>
+<tag>
+<AM lemma="právě-1" src="auto">Db-------------</AM>
+<AM lemma="právě-2" src="manual" selected="1">TT-------------</AM>
+</tag>
 </m>
 <m id="m-mf930708-160-p6s9w7">
 <src.rf>manual</src.rf>
@@ -2971,7 +3042,10 @@
 <LM>w#w-mf930708-160-p6s9w20</LM>
 </w.rf>
 <form>de</form>
-<tag lemma="de_,t_^(z_franc._de,_zejm._ve_jménech)" src="orig" selected="1">RR--1----------</tag>
+<tag>
+<AM lemma="de_,t_^(z_franc._de,_zejm._ve_jménech)" src="orig">RR--1----------</AM>
+<AM lemma="de-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-mf930708-160-p6s9w21">
 <src.rf>manual</src.rf>
@@ -3141,7 +3215,10 @@
 <LM>w#w-mf930708-160-p7s1w3</LM>
 </w.rf>
 <form>našel</form>
-<tag lemma="najít" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag>
+<AM lemma="najít" src="orig">VpYS---XR-AA---</AM>
+<AM lemma="najít_:W" src="manual" selected="1">VpYS---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-mf930708-160-p7s1w4">
 <src.rf>manual</src.rf>
@@ -3357,7 +3434,11 @@
 <LM>w#w-mf930708-160-p7s1w30</LM>
 </w.rf>
 <form>GATT</form>
-<tag lemma="GATT_:B" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="GATT_:B" src="orig">NNFXX-----A---8</AM>
+<AM lemma="GATT_:B" src="manual">NNXXX-----A---8</AM>
+<AM lemma="GATT-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930708-160-p7s1w31">
 <src.rf>manual</src.rf>
@@ -3445,7 +3526,10 @@
 <LM>w#w-mf930708-160-p7s1w41</LM>
 </w.rf>
 <form>IMF</form>
-<tag lemma="IMF-1_:B_;K_,t_^(International_Monetary_Fund)" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="IMF-1_:B_;K_,t_^(International_Monetary_Fund)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="IMF-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930708-160-p7s1w42">
 <src.rf>manual</src.rf>

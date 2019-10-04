@@ -241,7 +241,10 @@
 <LM>w#w-ln94203-86-p2s1Cw10</LM>
 </w.rf>
 <form>ukončen</form>
-<tag lemma="ukončit" src="orig" selected="1">VsYS---XX-AP---</tag>
+<tag>
+<AM lemma="ukončit" src="orig">VsYS---XX-AP---</AM>
+<AM lemma="ukončit_:W" src="manual" selected="1">VsYS---XX-AP---</AM>
+</tag>
 </m>
 <m id="m-ln94203-86-p2s1Cw11">
 <src.rf>manual</src.rf>
@@ -615,7 +618,10 @@
 <LM>w#w-ln94203-86-p2s4w4</LM>
 </w.rf>
 <form>zdálo</form>
-<tag lemma="zdát" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag>
+<AM lemma="zdát" src="orig">VpNS---XR-AA---</AM>
+<AM lemma="zdát_:T" src="manual" selected="1">VpNS---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-ln94203-86-p2s4w5">
 <src.rf>manual</src.rf>
@@ -819,7 +825,10 @@
 <LM>w#w-ln94203-86-p2s6w4</LM>
 </w.rf>
 <form>přispělo</form>
-<tag lemma="přispět" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag>
+<AM lemma="přispět" src="orig">VpNS---XR-AA---</AM>
+<AM lemma="přispět_:W" src="manual" selected="1">VpNS---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-ln94203-86-p2s6w5">
 <src.rf>manual</src.rf>
@@ -967,7 +976,7 @@
 <form>totiž</form>
 <tag>
 <AM lemma="totiž" src="orig">Db-------------</AM>
-<AM lemma="totiž-1" src="auto" recommended="1">J^-------------</AM>
+<AM lemma="totiž-1" src="auto" recommended="1" selected="1">J^-------------</AM>
 <AM lemma="totiž-2" src="auto">TT-------------</AM>
 </tag>
 </m>
@@ -1133,7 +1142,7 @@
 <form>nejen</form>
 <tag>
 <AM lemma="nejen" src="orig">TT-------------</AM>
-<AM lemma="nejen" src="auto" recommended="1">Db-------------</AM>
+<AM lemma="nejen" src="auto" recommended="1" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m-ln94203-86-p3s1w7">
@@ -1464,7 +1473,10 @@
 <LM>w#w-ln94203-86-p3s2w29</LM>
 </w.rf>
 <form>kladou</form>
-<tag lemma="klást" src="orig" selected="1">VB-P---3P-AA---</tag>
+<tag>
+<AM lemma="klást" src="orig">VB-P---3P-AA---</AM>
+<AM lemma="klást_:T" src="manual" selected="1">VB-P---3P-AA---</AM>
+</tag>
 </m>
 <m id="m-ln94203-86-p3s2w30">
 <src.rf>manual</src.rf>
@@ -3215,7 +3227,7 @@
 </w.rf>
 <form>Rony</form>
 <tag>
-<AM lemma="Rony_;Y" src="orig">NNMS1-----A----</AM>
+<AM lemma="Rony_;Y" src="orig" selected="1">NNMS1-----A----</AM>
 <AM lemma="Ron_;Y" src="auto">NNMP4-----A----</AM>
 <AM lemma="Ron_;Y" src="auto" recommended="1">NNMP7-----A----</AM>
 <AM lemma="Rona_;G" src="auto">NNFP1-----A----</AM>
@@ -3558,7 +3570,10 @@
 <LM>w#w-ln94203-86-p7s3w10</LM>
 </w.rf>
 <form>znát</form>
-<tag lemma="znát" src="orig" selected="1">Vf--------A----</tag>
+<tag>
+<AM lemma="znát" src="orig">Vf--------A----</AM>
+<AM lemma="znát_:T" src="manual" selected="1">Vf--------A----</AM>
+</tag>
 </m>
 <m id="m-ln94203-86-p7s3w11">
 <src.rf>manual</src.rf>
@@ -4342,7 +4357,7 @@
 <form>nejzazších</form>
 <tag>
 <AM lemma="poslední" src="orig">AAFP2----3A----</AM>
-<AM lemma="zazší" src="auto" recommended="1">AAFP2----3A----</AM>
+<AM lemma="zazší" src="auto" recommended="1" selected="1">AAFP2----3A----</AM>
 <AM lemma="zazší" src="auto">AAFP6----3A----</AM>
 <AM lemma="zazší" src="auto">AAIP2----3A----</AM>
 <AM lemma="zazší" src="auto">AAIP6----3A----</AM>
@@ -4470,7 +4485,10 @@
 <LM>w#w-ln94203-86-p8s3w20</LM>
 </w.rf>
 <form>ubral</form>
-<tag lemma="ubrat" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag>
+<AM lemma="ubrat" src="orig">VpYS---XR-AA---</AM>
+<AM lemma="ubrat_:W" src="manual" selected="1">VpYS---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-ln94203-86-p8s3w21">
 <src.rf>manual</src.rf>

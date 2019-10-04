@@ -261,6 +261,7 @@
 <AM lemma="ÚV_:B_;K" src="orig">NNIXX-----A---8</AM>
 <AM lemma="ÚV-1_:B_^(ústřední_výbor)" src="auto" recommended="1">NNIXX-----A---8</AM>
 <AM lemma="ÚV-2_:B_^(účet_volaného)" src="auto">NNIXX-----A---8</AM>
+<AM lemma="ÚV-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-mf920923-115-p2s2w19">
@@ -269,7 +270,10 @@
 <LM>w#w-mf920923-115-p2s2w19</LM>
 </w.rf>
 <form>PSDS</form>
-<tag lemma="PSDS-1_:B_;K_^(Polská_sjednocená_dělnická_strana)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="PSDS-1_:B_;K_^(Polská_sjednocená_dělnická_strana)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="PSDS-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920923-115-p2s2w20">
 <src.rf>manual</src.rf>
@@ -609,7 +613,10 @@
 <LM>w#w-mf920923-115-p2s4w21</LM>
 </w.rf>
 <form>tragédií</form>
-<tag lemma="tragedie" src="orig" selected="1">NNFS7-----A----</tag>
+<tag>
+<AM lemma="tragedie" src="orig">NNFS7-----A----</AM>
+<AM lemma="tragédie" src="manual" selected="1">NNFS7-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920923-115-p2s4w22">
 <src.rf>manual</src.rf>

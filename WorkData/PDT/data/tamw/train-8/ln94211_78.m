@@ -244,6 +244,7 @@
 <tag>
 <AM lemma="USA_;G" src="orig">NNIPX-----A----</AM>
 <AM lemma="USA_:B_;K_,t_^(United_States_of_America)" src="auto" recommended="1">NNIPX-----A---8</AM>
+<AM lemma="USA_:B_;K_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94211-78-p2s2w8">
@@ -276,7 +277,10 @@
 <LM>w#w-ln94211-78-p2s2w11</LM>
 </w.rf>
 <form>NBC</form>
-<tag lemma="NBC_:B_;K_^(National_Broadcasting_Corp.;_TV_spol.)" src="auto" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="NBC_:B_;K_^(National_Broadcasting_Corp.;_TV_spol.)" src="auto">NNFXX-----A---8</AM>
+<AM lemma="NBC-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94211-78-p2s2w12">
 <src.rf>manual</src.rf>
@@ -478,7 +482,10 @@
 <LM>w#w-ln94211-78-p2s3w5</LM>
 </w.rf>
 <form>NBC</form>
-<tag lemma="NBC_:B_;K_^(National_Broadcasting_Corp.;_TV_spol.)" src="auto" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="NBC_:B_;K_^(National_Broadcasting_Corp.;_TV_spol.)" src="auto">NNFXX-----A---8</AM>
+<AM lemma="NBC-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94211-78-p2s3w6">
 <src.rf>manual</src.rf>
@@ -557,6 +564,7 @@
 <AM lemma="port" src="auto">NNIS4-----A----</AM>
 <AM lemma="porta" src="auto">NNFP2-----A----</AM>
 <AM lemma="porto" src="auto">NNNP2-----A----</AM>
+<AM lemma="Port-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-ln94211-78-p2s3w15">
@@ -576,6 +584,7 @@
 <tag>
 <AM lemma="au-2_,t" src="orig">RR--X----------</AM>
 <AM lemma="au" src="auto" recommended="1">II-------------</AM>
+<AM lemma="au-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-ln94211-78-p2s3w17">
@@ -602,6 +611,7 @@
 <AM lemma="princ" src="auto">NNMP4-----A----</AM>
 <AM lemma="princ" src="auto">NNMS2-----A----</AM>
 <AM lemma="princ" src="auto">NNMS4-----A----</AM>
+<AM lemma="Prince-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-ln94211-78-p2s3w19">
@@ -610,7 +620,11 @@
 <LM>w#w-ln94211-78-p2s3w19</LM>
 </w.rf>
 <form>Stanley</form>
-<tag lemma="Stanley_;S" src="auto" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Stanley_;S" src="auto">NNMS1-----A----</AM>
+<AM lemma="Stanley_;S_;S" src="manual">NNMS1-----A----</AM>
+<AM lemma="Stanley_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94211-78-p2s3w20">
 <src.rf>manual</src.rf>

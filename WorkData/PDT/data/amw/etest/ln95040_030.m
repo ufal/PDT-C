@@ -35,7 +35,10 @@
 <LM>w#w-ln95040-030-p1s1w3</LM>
 </w.rf>
 <form>jen</form>
-<tag lemma="jen-1" src="auto" selected="1">TT-------------</tag>
+<tag>
+<AM lemma="jen-1" src="auto">TT-------------</AM>
+<AM lemma="jen-4_^(pouze)" src="manual" selected="1">Db-------------</AM>
+</tag>
 </m>
 <m id="m-ln95040-030-p1s1w4">
 <src.rf>manual</src.rf>
@@ -168,7 +171,10 @@
 <LM>w#w-ln95040-030-p2s1Bw11</LM>
 </w.rf>
 <form>jen</form>
-<tag lemma="jen-1" src="auto" selected="1">TT-------------</tag>
+<tag>
+<AM lemma="jen-1" src="auto">TT-------------</AM>
+<AM lemma="jen-4_^(pouze)" src="manual" selected="1">Db-------------</AM>
+</tag>
 </m>
 <m id="m-ln95040-030-p2s1Bw12">
 <src.rf>manual</src.rf>
@@ -202,7 +208,7 @@
 <form>nikoli</form>
 <tag>
 <AM lemma="nikoliv" src="orig">Db------------1</AM>
-<AM lemma="nikoli" src="auto" recommended="1">TT-------------</AM>
+<AM lemma="nikoli" src="auto" recommended="1" selected="1">TT-------------</AM>
 </tag>
 </m>
 <m id="m-ln95040-030-p2s1Bw16">
@@ -293,7 +299,10 @@
 <LM>w#w-ln95040-030-p2s2w3</LM>
 </w.rf>
 <form>UEFA</form>
-<tag lemma="UEFA-1_:B_;K_;w_^(Evr._fotbalová_federace)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="UEFA-1_:B_;K_;w_^(Evr._fotbalová_federace)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="UEFA-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln95040-030-p2s2w4">
 <src.rf>manual</src.rf>
@@ -557,7 +566,10 @@
 <LM>w#w-ln95040-030-p2s2w36</LM>
 </w.rf>
 <form>UEFA</form>
-<tag lemma="UEFA-1_:B_;K_;w_^(Evr._fotbalová_federace)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="UEFA-1_:B_;K_;w_^(Evr._fotbalová_federace)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="UEFA-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln95040-030-p2s2w37">
 <src.rf>manual</src.rf>
@@ -584,7 +596,7 @@
 <tag>
 <AM lemma="ten" src="orig">PDNS1----------</AM>
 <AM lemma="ten" src="auto">PDIS4----------</AM>
-<AM lemma="ten" src="auto" recommended="1">PDYS1----------</AM>
+<AM lemma="ten" src="auto" recommended="1" selected="1">PDYS1----------</AM>
 </tag>
 </m>
 <m id="m-ln95040-030-p2s2w40">
@@ -665,7 +677,10 @@
 <LM>w#w-ln95040-030-p2s2w49</LM>
 </w.rf>
 <form>Baťa</form>
-<tag lemma="Baťa_;K_;S" src="auto" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Baťa_;K_;S" src="auto">NNMS1-----A----</AM>
+<AM lemma="Baťa_;S_;K" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95040-030-p2s2w50">
 <src.rf>manual</src.rf>
@@ -689,7 +704,10 @@
 <LM>w#w-ln95040-030-p2s2w52</LM>
 </w.rf>
 <form>ČMFS</form>
-<tag lemma="ČMFS-1_:B_;K_;w_^(Českomoravský_fotbalový_svaz)" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="ČMFS-1_:B_;K_;w_^(Českomoravský_fotbalový_svaz)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="ČMFS-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln95040-030-p2s2w53">
 <src.rf>manual</src.rf>

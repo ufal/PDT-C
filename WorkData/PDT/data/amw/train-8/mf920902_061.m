@@ -27,7 +27,11 @@
 <LM>w#w-mf920902-061-p1s1w2</LM>
 </w.rf>
 <form>Christie</form>
-<tag lemma="Christie_;Y_,t" src="auto" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Christie_;Y_,t" src="auto">NNMS1-----A----</AM>
+<AM lemma="Christie_;S_;Y" src="manual">NNMS1-----A----</AM>
+<AM lemma="Christie-2_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920902-061-p1s1w3">
 <src.rf>manual</src.rf>
@@ -67,7 +71,10 @@
 <LM>w#w-mf920902-061-p1s1w7</LM>
 </w.rf>
 <form>DOLARŮ</form>
-<tag lemma="dolar_;b" src="orig" selected="1">NNIP2-----A----</tag>
+<tag>
+<AM lemma="dolar_;b" src="orig">NNIP2-----A----</AM>
+<AM lemma="dolar" src="manual" selected="1">NNIP2-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920902-061-p1s1w8">
 <src.rf>manual</src.rf>
@@ -158,6 +165,7 @@
 <AM lemma="mimo-1_:B" src="auto">RR--4---------8</AM>
 <AM lemma="minuta_:B" src="auto">NNFXX-----A---8</AM>
 <AM lemma="město_:B" src="auto">NNNXX-----A---8</AM>
+<AM lemma="metr" src="manual" selected="1">NNIXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-mf920902-061-p2s1w8">
@@ -166,7 +174,10 @@
 <LM>w#w-mf920902-061-p2s1w8</LM>
 </w.rf>
 <form>Linford</form>
-<tag lemma="Linford_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Linford_;S" src="orig">NNMS1-----A----</AM>
+<AM lemma="Linford_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920902-061-p2s1w9">
 <src.rf>manual</src.rf>
@@ -174,7 +185,11 @@
 <LM>w#w-mf920902-061-p2s1w9</LM>
 </w.rf>
 <form>Christie</form>
-<tag lemma="Christie_;Y_,t" src="auto" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Christie_;Y_,t" src="auto">NNMS1-----A----</AM>
+<AM lemma="Christie_;S_;Y" src="manual">NNMS1-----A----</AM>
+<AM lemma="Christie-2_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920902-061-p2s1w10">
 <src.rf>manual</src.rf>
@@ -385,7 +400,7 @@
 <tag>
 <AM lemma="Tokyo_;G" src="orig">NNNS6-----A----</AM>
 <AM lemma="Tokio_;G" src="auto">NNNS3-----A----</AM>
-<AM lemma="Tokio_;G" src="auto" recommended="1">NNNS6-----A----</AM>
+<AM lemma="Tokio_;G" src="auto" recommended="1" selected="1">NNNS6-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920902-061-p2s1w36">
@@ -516,7 +531,10 @@
 <LM>w#w-mf920902-061-p2s2w15</LM>
 </w.rf>
 <form>dolarů</form>
-<tag lemma="dolar_;b" src="orig" selected="1">NNIP2-----A----</tag>
+<tag>
+<AM lemma="dolar_;b" src="orig">NNIP2-----A----</AM>
+<AM lemma="dolar" src="manual" selected="1">NNIP2-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920902-061-p2s2w16">
 <src.rf>manual</src.rf>
@@ -593,7 +611,7 @@
 <tag>
 <AM lemma="tedy" src="orig">Db-------------</AM>
 <AM lemma="tedy-1" src="auto">TT-------------</AM>
-<AM lemma="tedy-2" src="auto" recommended="1">J^-------------</AM>
+<AM lemma="tedy-2" src="auto" recommended="1" selected="1">J^-------------</AM>
 </tag>
 </m>
 <m id="m-mf920902-061-p2s3w9">
@@ -1000,7 +1018,10 @@
 <LM>w#w-mf920902-061-p2s5w1</LM>
 </w.rf>
 <form>Christie</form>
-<tag lemma="Christie_;Y_,t" src="auto" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Christie_;Y_,t" src="auto">NNMS1-----A----</AM>
+<AM lemma="Christie-2_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920902-061-p2s5w2">
 <src.rf>manual</src.rf>

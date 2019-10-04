@@ -185,7 +185,10 @@
 <LM>w#w-lnd92259-064-p3s2w13</LM>
 </w.rf>
 <form>Red</form>
-<tag lemma="Reda_;G" src="orig" selected="1">NNFP2-----A----</tag>
+<tag>
+<AM lemma="Reda_;G" src="orig">NNFP2-----A----</AM>
+<AM lemma="Red-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-lnd92259-064-p3s2w14">
 <src.rf>manual</src.rf>
@@ -193,7 +196,10 @@
 <LM>w#w-lnd92259-064-p3s2w14</LM>
 </w.rf>
 <form>Barnet</form>
-<tag lemma="Barnet_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Barnet_;S" src="orig">NNMS1-----A----</AM>
+<AM lemma="Barnet-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-lnd92259-064-p3s2w15">
 <src.rf>manual</src.rf>
@@ -211,7 +217,10 @@
 <LM>w#w-lnd92259-064-p3s3w1</LM>
 </w.rf>
 <form>Ukázalo</form>
-<tag lemma="ukázat" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag>
+<AM lemma="ukázat" src="orig">VpNS---XR-AA---</AM>
+<AM lemma="ukázat_:W" src="manual" selected="1">VpNS---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-lnd92259-064-p3s3w2">
 <src.rf>manual</src.rf>
@@ -229,7 +238,7 @@
 <form>totiž</form>
 <tag>
 <AM lemma="totiž" src="orig">Db-------------</AM>
-<AM lemma="totiž-1" src="auto">J^-------------</AM>
+<AM lemma="totiž-1" src="auto" selected="1">J^-------------</AM>
 <AM lemma="totiž-2" src="auto" recommended="1">TT-------------</AM>
 </tag>
 </m>
@@ -609,7 +618,10 @@
 <LM>w#w-lnd92259-064-p3s4w25</LM>
 </w.rf>
 <form>Dan</form>
-<tag lemma="Dan_;Y_,h" src="auto" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Dan_;Y_,h" src="auto">NNMS1-----A----</AM>
+<AM lemma="Dan_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92259-064-p3s4w26">
 <src.rf>manual</src.rf>

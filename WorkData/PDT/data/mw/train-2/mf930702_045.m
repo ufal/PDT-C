@@ -197,7 +197,10 @@
 <LM>w#w-mf930702-045-p2s1w16</LM>
 </w.rf>
 <form>řečeno</form>
-<tag lemma="říci" src="auto" selected="1">VsNS---XX-AP---</tag>
+<tag>
+<AM lemma="říci" src="auto">VsNS---XX-AP---</AM>
+<AM lemma="říci_:W" src="manual" selected="1">VsNS---XX-AP---</AM>
+</tag>
 </m>
 <m id="m-mf930702-045-p2s1w17">
 <src.rf>manual</src.rf>
@@ -349,7 +352,10 @@
 <LM>w#w-mf930702-045-p2s1w35</LM>
 </w.rf>
 <form>MÁME</form>
-<tag lemma="mít" src="orig" selected="1">VB-P---1P-AA---</tag>
+<tag>
+<AM lemma="mít" src="orig">VB-P---1P-AA---</AM>
+<AM lemma="mít_:T" src="manual" selected="1">VB-P---1P-AA---</AM>
+</tag>
 </m>
 <m id="m-mf930702-045-p2s1w36">
 <src.rf>manual</src.rf>
@@ -833,7 +839,10 @@
 <LM>w#w-mf930702-045-p2s3w3</LM>
 </w.rf>
 <form>řečeno</form>
-<tag lemma="říci" src="auto" selected="1">VsNS---XX-AP---</tag>
+<tag>
+<AM lemma="říci" src="auto">VsNS---XX-AP---</AM>
+<AM lemma="říci_:W" src="manual" selected="1">VsNS---XX-AP---</AM>
+</tag>
 </m>
 <m id="m-mf930702-045-p2s3w4">
 <src.rf>manual</src.rf>
@@ -905,7 +914,10 @@
 <LM>w#w-mf930702-045-p2s3w12</LM>
 </w.rf>
 <form>zůstalo</form>
-<tag lemma="zůstat" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag>
+<AM lemma="zůstat" src="orig">VpNS---XR-AA---</AM>
+<AM lemma="zůstat_:W" src="manual" selected="1">VpNS---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-mf930702-045-p2s3w13">
 <src.rf>manual</src.rf>
@@ -1293,7 +1305,7 @@
 <form>neodbytnost</form>
 <tag>
 <AM lemma="odbytnost_^(*3ý)" src="orig">NNFS1-----N----</AM>
-<AM lemma="neodbytnost_^(*3ý)" src="auto" recommended="1">NNFS1-----A----</AM>
+<AM lemma="neodbytnost_^(*3ý)" src="auto" recommended="1" selected="1">NNFS1-----A----</AM>
 <AM lemma="neodbytnost_^(*3ý)" src="auto">NNFS4-----A----</AM>
 </tag>
 </m>

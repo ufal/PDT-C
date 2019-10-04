@@ -75,7 +75,10 @@
 <LM>w#w-lnd92259-009-p1s1w8</LM>
 </w.rf>
 <form>Dixville</form>
-<tag lemma="Dixville_;G" src="orig" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="Dixville_;G" src="orig">NNIS1-----A----</AM>
+<AM lemma="Dixville-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-lnd92259-009-p1s1w9">
 <src.rf>manual</src.rf>
@@ -83,7 +86,10 @@
 <LM>w#w-lnd92259-009-p1s1w9</LM>
 </w.rf>
 <form>Notch</form>
-<tag lemma="Notch_;G" src="orig" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="Notch_;G" src="orig">NNIS1-----A----</AM>
+<AM lemma="Notch-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-lnd92259-009-p1s1w10">
 <src.rf>manual</src.rf>
@@ -107,7 +113,10 @@
 <LM>w#w-lnd92259-009-p1s1w12</LM>
 </w.rf>
 <form>New</form>
-<tag lemma="New-1_;G_,t_^(součást_míst._jmen)" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="New-1_;G_,t_^(součást_míst._jmen)" src="orig">AAXXX----1A----</AM>
+<AM lemma="New-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-lnd92259-009-p1s1w13">
 <src.rf>manual</src.rf>
@@ -321,7 +330,10 @@
 <LM>w#w-lnd92259-009-p2s1w2</LM>
 </w.rf>
 <form>ČSTK</form>
-<tag lemma="ČSTK-1_:B_;K_^(Československá_tisková_kancelář)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ČSTK-1_:B_;K_^(Československá_tisková_kancelář)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČSTK-1_:B_;K_^(Československá_tisková_kancelář)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92259-009-p2s1w3">
 <src.rf>manual</src.rf>
@@ -337,7 +349,10 @@
 <LM>w#w-lnd92259-009-p2s1w4</LM>
 </w.rf>
 <form>AP</form>
-<tag lemma="AP-3_:B_;K_,t_^(Associated_Press,_tisková_agentura)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="AP-3_:B_;K_,t_^(Associated_Press,_tisková_agentura)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="AP-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 </s>
 </mdata>

@@ -35,7 +35,10 @@
 <LM>w#w-ln94203-23-p1s1w3</LM>
 </w.rf>
 <form>The</form>
-<tag lemma="the-1_,t_^(obv._souč._anglických_názvů,_urč._člen)" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="the-1_,t_^(obv._souč._anglických_názvů,_urč._člen)" src="orig">AAXXX----1A----</AM>
+<AM lemma="The-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94203-23-p1s1w4">
 <src.rf>manual</src.rf>
@@ -43,7 +46,10 @@
 <LM>w#w-ln94203-23-p1s1w4</LM>
 </w.rf>
 <form>Times</form>
-<tag lemma="Times-1_;K_,t_^(souč._názvů,_např._The_Times)" src="orig" selected="1">NNIPX-----A----</tag>
+<tag>
+<AM lemma="Times-1_;K_,t_^(souč._názvů,_např._The_Times)" src="orig">NNIPX-----A----</AM>
+<AM lemma="Times-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94203-23-p1s1w5">
 <src.rf>manual</src.rf>
@@ -377,7 +383,10 @@
 <LM>w#w-ln94203-23-p2s2w6</LM>
 </w.rf>
 <form>The</form>
-<tag lemma="the-1_,t_^(obv._souč._anglických_názvů,_urč._člen)" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="the-1_,t_^(obv._souč._anglických_názvů,_urč._člen)" src="orig">AAXXX----1A----</AM>
+<AM lemma="The-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94203-23-p2s2w7">
 <src.rf>manual</src.rf>
@@ -385,7 +394,10 @@
 <LM>w#w-ln94203-23-p2s2w7</LM>
 </w.rf>
 <form>Times</form>
-<tag lemma="Times-1_;K_,t_^(souč._názvů,_např._The_Times)" src="orig" selected="1">NNIPX-----A----</tag>
+<tag>
+<AM lemma="Times-1_;K_,t_^(souč._názvů,_např._The_Times)" src="orig">NNIPX-----A----</AM>
+<AM lemma="Times-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94203-23-p2s2w8">
 <src.rf>manual</src.rf>
@@ -694,6 +706,8 @@
 <tag>
 <AM lemma="SF-2`Sinn-1_;K_,t_^(Sinn_Fein)" src="orig">NNFXX-----A----</AM>
 <AM lemma="Sinn_;Y" src="auto" recommended="1">NNXXX-----A----</AM>
+<AM lemma="sinn_,t" src="manual">NNXXX-----A----</AM>
+<AM lemma="Sinn-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-ln94203-23-p2s3w26">
@@ -707,6 +721,8 @@
 <AM lemma="Fein" src="auto">NNIS1-----A----</AM>
 <AM lemma="Fein" src="auto">NNIS4-----A----</AM>
 <AM lemma="Fein_;Y" src="auto" recommended="1">NNXXX-----A----</AM>
+<AM lemma="fein_,t" src="manual">NNXXX-----A----</AM>
+<AM lemma="Fein-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-ln94203-23-p2s3w27">
@@ -795,7 +811,10 @@
 <LM>w#w-ln94203-23-p2s3w37</LM>
 </w.rf>
 <form>SDLP</form>
-<tag lemma="SDLP-1_:B_;K_,t_^(Social_Democratic_and_Labour_Party)" src="auto" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="SDLP-1_:B_;K_,t_^(Social_Democratic_and_Labour_Party)" src="auto">NNFXX-----A---8</AM>
+<AM lemma="SDLP-88" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln94203-23-p2s3w38">
 <src.rf>manual</src.rf>
@@ -1386,7 +1405,7 @@
 <AM lemma="jakýkoli" src="auto">PZFP4----------</AM>
 <AM lemma="jakýkoli" src="auto">PZFP5----------</AM>
 <AM lemma="jakýkoli" src="auto">PZFS2----------</AM>
-<AM lemma="jakýkoli" src="auto" recommended="1">PZFS3----------</AM>
+<AM lemma="jakýkoli" src="auto" recommended="1" selected="1">PZFS3----------</AM>
 <AM lemma="jakýkoli" src="auto">PZFS6----------</AM>
 <AM lemma="jakýkoli" src="auto">PZIP1----------</AM>
 <AM lemma="jakýkoli" src="auto">PZIP5----------</AM>
@@ -1545,7 +1564,7 @@
 <AM lemma="chutný" src="auto">AANP1----1N---6</AM>
 <AM lemma="chutný" src="auto">AANP4----1N---6</AM>
 <AM lemma="chutný" src="auto">AANP5----1N---6</AM>
-<AM lemma="chutný" src="auto" recommended="1">AANS1----1N----</AM>
+<AM lemma="chutný" src="auto" recommended="1" selected="1">AANS1----1N----</AM>
 <AM lemma="chutný" src="auto">AANS4----1N----</AM>
 <AM lemma="chutný" src="auto">AANS5----1N----</AM>
 </tag>

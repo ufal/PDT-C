@@ -409,7 +409,10 @@
 <LM>w#w-ln94210-12-p2s3w14</LM>
 </w.rf>
 <form>ARK</form>
-<tag lemma="ARK-1_:B_;K_^(Asociace_realitních_kanceláří)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ARK-1_:B_;K_^(Asociace_realitních_kanceláří)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ARK-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln94210-12-p2s3w15">
 <src.rf>manual</src.rf>
@@ -417,7 +420,10 @@
 <LM>w#w-ln94210-12-p2s3w15</LM>
 </w.rf>
 <form>ČMS</form>
-<tag lemma="ČMS-1_:B_;K_^(Českosl._meteorologická_společnost)" src="auto" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ČMS-1_:B_;K_^(Českosl._meteorologická_společnost)" src="auto">NNFXX-----A---8</AM>
+<AM lemma="ČMS-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln94210-12-p2s3w16">
 <src.rf>manual</src.rf>
@@ -683,7 +689,10 @@
 <LM>w#w-ln94210-12-p2s4w25</LM>
 </w.rf>
 <form>např</form>
-<tag lemma="například_:B" src="orig" selected="1">Db------------8</tag>
+<tag>
+<AM lemma="například_:B" src="orig">Db------------8</AM>
+<AM lemma="například" src="manual" selected="1">Db------------8</AM>
+</tag>
 </m>
 <m id="m-ln94210-12-p2s4w26">
 <src.rf>manual</src.rf>
@@ -977,7 +986,10 @@
 <LM>w#w-ln94210-12-p2s6w3</LM>
 </w.rf>
 <form>LN</form>
-<tag lemma="LN-1_:B_;R_^(Lidové_noviny,_deník)" src="orig" selected="1">NNFPX-----A---8</tag>
+<tag>
+<AM lemma="LN-1_:B_;R_^(Lidové_noviny,_deník)" src="orig">NNFPX-----A---8</AM>
+<AM lemma="LN-1_:B_;K_;R_^(Lidové_noviny)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94210-12-p2s6w4">
 <src.rf>manual</src.rf>

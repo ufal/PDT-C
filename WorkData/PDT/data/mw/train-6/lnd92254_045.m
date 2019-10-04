@@ -79,7 +79,10 @@
 <LM>w#w-lnd92254-045-p2s2w4</LM>
 </w.rf>
 <form>MKDH</form>
-<tag lemma="MKDH_:B_;K" src="auto" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="MKDH_:B_;K" src="auto">NNXXX-----A---8</AM>
+<AM lemma="MKDH-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd92254-045-p2s2w5">
 <src.rf>manual</src.rf>
@@ -95,7 +98,10 @@
 <LM>w#w-lnd92254-045-p2s2w6</LM>
 </w.rf>
 <form>Együttélés</form>
-<tag lemma="Együttélés_;K_;p_,t" src="auto" selected="1">NNNXX-----A----</tag>
+<tag>
+<AM lemma="Együttélés_;K_;p_,t" src="auto">NNNXX-----A----</AM>
+<AM lemma="Együttélés_;K" src="manual" selected="1">NNNXX-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92254-045-p2s2w7">
 <src.rf>manual</src.rf>
@@ -303,7 +309,10 @@
 <LM>w#w-lnd92254-045-p2s2w32</LM>
 </w.rf>
 <form>ČSFR</form>
-<tag lemma="ČSFR-1_:B_;G_^(Čs._federativní_republika)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ČSFR-1_:B_;G_^(Čs._federativní_republika)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČSFR-1_:B_;G_^(Čs._federativní_republika)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92254-045-p2s2w33">
 <src.rf>manual</src.rf>

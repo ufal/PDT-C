@@ -77,7 +77,10 @@
 <LM>w#w-ln94204-42-p2s1Aw3</LM>
 </w.rf>
 <form>teb</form>
-<tag lemma="teb-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="teb-99_:B_;S" src="orig">NNXXX-----A---8</AM>
+<AM lemma="teb-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94204-42-p2s1Aw4">
 <src.rf>manual</src.rf>
@@ -151,7 +154,10 @@
 <LM>w#w-ln94204-42-p2s1Bw7</LM>
 </w.rf>
 <form>Wackenhut</form>
-<tag lemma="Wackenhut_;K_,t" src="orig" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="Wackenhut_;K_,t" src="orig">NNIS1-----A----</AM>
+<AM lemma="Wackenhut-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94204-42-p2s1Bw8">
 <src.rf>manual</src.rf>
@@ -163,6 +169,7 @@
 <AM lemma="Czech-3_;K_,t" src="orig">NNFXX-----A----</AM>
 <AM lemma="Czech-1_;S" src="auto">NNMS1-----A----</AM>
 <AM lemma="Czech-2_,t" src="auto" recommended="1">AAXXX----1A----</AM>
+<AM lemma="Czech-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-ln94204-42-p2s1Bw9">
@@ -327,7 +334,10 @@
 <LM>w#w-ln94204-42-p2s3w2</LM>
 </w.rf>
 <form>s</form>
-<tag lemma="s-1" src="orig" selected="1">RR--7----------</tag>
+<tag>
+<AM lemma="s-1" src="orig">RR--7----------</AM>
+<AM lemma="společnost" src="manual" selected="1">NNFXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln94204-42-p2s3w3">
 <src.rf>manual</src.rf>
@@ -335,7 +345,10 @@
 <LM>w#w-ln94204-42-p2s3w3</LM>
 </w.rf>
 <form>r</form>
-<tag lemma="ručení_:B" src="orig" selected="1">NNNS7-----A---8</tag>
+<tag>
+<AM lemma="ručení_:B" src="orig">NNNS7-----A---8</AM>
+<AM lemma="ručení" src="manual" selected="1">NNNS7-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln94204-42-p2s3w4">
 <src.rf>manual</src.rf>
@@ -351,7 +364,10 @@
 <LM>w#w-ln94204-42-p2s3w5</LM>
 </w.rf>
 <form>o</form>
-<tag lemma="omezený_:B" src="orig" selected="1">AANS7----1A---8</tag>
+<tag>
+<AM lemma="omezený_:B" src="orig">AANS7----1A---8</AM>
+<AM lemma="omezený" src="manual" selected="1">AANS7----1A---8</AM>
+</tag>
 </m>
 <m id="m-ln94204-42-p2s3w6">
 <src.rf>manual</src.rf>
@@ -367,7 +383,10 @@
 <LM>w#w-ln94204-42-p2s3w7</LM>
 </w.rf>
 <form>Wackenhut</form>
-<tag lemma="Wackenhut_;K_,t" src="orig" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="Wackenhut_;K_,t" src="orig">NNIS1-----A----</AM>
+<AM lemma="Wackenhut-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94204-42-p2s3w8">
 <src.rf>manual</src.rf>
@@ -379,6 +398,7 @@
 <AM lemma="Czech-3_;K_,t" src="orig">NNFXX-----A----</AM>
 <AM lemma="Czech-1_;S" src="auto">NNMS1-----A----</AM>
 <AM lemma="Czech-2_,t" src="auto" recommended="1">AAXXX----1A----</AM>
+<AM lemma="Czech-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-ln94204-42-p2s3w9">
@@ -800,6 +820,7 @@
 <tag>
 <AM lemma="Kč" src="orig">NNFXX-----A----</AM>
 <AM lemma="Kč_:B" src="auto" recommended="1">NNFXX-----A---8</AM>
+<AM lemma="Kč_:B" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94204-42-p2s5w13">
@@ -877,6 +898,7 @@
 <tag>
 <AM lemma="Kč" src="orig">NNFXX-----A----</AM>
 <AM lemma="Kč_:B" src="auto" recommended="1">NNFXX-----A---8</AM>
+<AM lemma="Kč_:B" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94204-42-p2s6w9">
@@ -1111,7 +1133,10 @@
 <LM>w#w-ln94204-42-p2s7w26</LM>
 </w.rf>
 <form>řekl</form>
-<tag lemma="říci" src="auto" selected="1">VpYS---XR-AA---</tag>
+<tag>
+<AM lemma="říci" src="auto">VpYS---XR-AA---</AM>
+<AM lemma="říci_:W" src="manual" selected="1">VpYS---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-ln94204-42-p2s7w27">
 <src.rf>manual</src.rf>
@@ -1119,7 +1144,10 @@
 <LM>w#w-ln94204-42-p2s7w27</LM>
 </w.rf>
 <form>LN</form>
-<tag lemma="LN-1_:B_;R_^(Lidové_noviny,_deník)" src="orig" selected="1">NNFPX-----A---8</tag>
+<tag>
+<AM lemma="LN-1_:B_;R_^(Lidové_noviny,_deník)" src="orig">NNFPX-----A---8</AM>
+<AM lemma="LN-1_:B_;K_;R_^(Lidové_noviny)" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln94204-42-p2s7w28">
 <src.rf>manual</src.rf>

@@ -27,7 +27,10 @@
 <LM>w#w-ln95049-117-p1s1w2</LM>
 </w.rf>
 <form>Césary</form>
-<tag lemma="César_;Y" src="orig" selected="1">NNMP4-----A----</tag>
+<tag>
+<AM lemma="César_;Y" src="orig">NNMP4-----A----</AM>
+<AM lemma="César-2_;R" src="manual" selected="1">NNIP4-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95049-117-p1s1w3">
 <src.rf>manual</src.rf>
@@ -155,7 +158,10 @@
 <LM>w#w-ln95049-117-p1s1w18</LM>
 </w.rf>
 <form>Jeanne</form>
-<tag lemma="Jeanne_;Y_,t" src="auto" selected="1">NNFXX-----A----</tag>
+<tag>
+<AM lemma="Jeanne_;Y_,t" src="auto">NNFXX-----A----</AM>
+<AM lemma="Jeanne_;Y" src="manual" selected="1">NNFXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95049-117-p1s1w19">
 <src.rf>manual</src.rf>

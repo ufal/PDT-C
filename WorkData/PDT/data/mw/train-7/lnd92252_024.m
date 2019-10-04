@@ -89,7 +89,10 @@
 <LM>w#w-lnd92252-024-p3s2w1</LM>
 </w.rf>
 <form>Více</form>
-<tag lemma="hodně-2" src="auto" selected="1">Dg-------2A----</tag>
+<tag>
+<AM lemma="hodně-2" src="auto">Dg-------2A----</AM>
+<AM lemma="hodně-3" src="manual" selected="1">Dg-------2A----</AM>
+</tag>
 </m>
 <m id="m-lnd92252-024-p3s2w2">
 <src.rf>manual</src.rf>
@@ -443,7 +446,10 @@
 <LM>w#w-lnd92252-024-p3s3w17</LM>
 </w.rf>
 <form>Free</form>
-<tag lemma="Free_;K_,t" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="Free_;K_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="Free-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-lnd92252-024-p3s3w18">
 <src.rf>manual</src.rf>
@@ -451,7 +457,10 @@
 <LM>w#w-lnd92252-024-p3s3w18</LM>
 </w.rf>
 <form>Ego</form>
-<tag lemma="ego" src="orig" selected="1">NNNS1-----A----</tag>
+<tag>
+<AM lemma="ego" src="orig">NNNS1-----A----</AM>
+<AM lemma="Ego-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-lnd92252-024-p3s3w19">
 <src.rf>manual</src.rf>
@@ -677,7 +686,10 @@
 <LM>w#w-lnd92252-024-p3s4w19</LM>
 </w.rf>
 <form>diskusi</form>
-<tag lemma="diskuse" src="orig" selected="1">NNFS4-----A----</tag>
+<tag>
+<AM lemma="diskuse" src="orig">NNFS4-----A----</AM>
+<AM lemma="diskuse_,s_^(^DD**diskuze)" src="manual" selected="1">NNFS4-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92252-024-p3s4w20">
 <src.rf>manual</src.rf>
@@ -765,7 +777,10 @@
 <LM>w#w-lnd92252-024-p3s4w30</LM>
 </w.rf>
 <form>NATO</form>
-<tag lemma="NATO_:B_;K_^(North_Atlantic_Treaty_Organization)" src="auto" selected="1">NNNXX-----A---8</tag>
+<tag>
+<AM lemma="NATO_:B_;K_^(North_Atlantic_Treaty_Organization)" src="auto">NNNXX-----A---8</AM>
+<AM lemma="NATO_:B_;K_^(North_Atlantic_Treaty_Organization)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92252-024-p3s4w31">
 <src.rf>manual</src.rf>

@@ -117,7 +117,10 @@
 <LM>w#w-mf930708-049-p2s1w10</LM>
 </w.rf>
 <form>ČR</form>
-<tag lemma="ČR-1_:B_;G_^(Česká_republika)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930708-049-p2s1w11">
 <src.rf>manual</src.rf>
@@ -165,7 +168,10 @@
 <LM>w#w-mf930708-049-p2s1w16</LM>
 </w.rf>
 <form>Interlignum</form>
-<tag lemma="Interlignum_;m" src="orig" selected="1">NNNS1-----A----</tag>
+<tag>
+<AM lemma="Interlignum_;m" src="orig" selected="1">NNNS1-----A----</AM>
+<AM lemma="Interlignum-77" src="manual">F%-------------</AM>
+</tag>
 </m>
 <m id="m-mf930708-049-p2s1w17">
 <src.rf>manual</src.rf>
@@ -588,7 +594,7 @@
 </w.rf>
 <form>Jurg</form>
 <tag>
-<AM lemma="Jurg_;Y" src="orig">NNMS1-----A----</AM>
+<AM lemma="Jurg_;Y" src="orig" selected="1">NNMS1-----A----</AM>
 <AM lemma="Jurga_;G" src="auto" recommended="1">NNFP2-----A----</AM>
 </tag>
 </m>

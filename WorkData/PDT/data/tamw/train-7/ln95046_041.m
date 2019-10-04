@@ -61,7 +61,10 @@
 <LM>w#w-ln95046-041-p2s1Aw1</LM>
 </w.rf>
 <form>Kuala</form>
-<tag lemma="Kuala_;G" src="orig" selected="1">NNFS1-----A----</tag>
+<tag>
+<AM lemma="Kuala_;G" src="orig">NNFS1-----A----</AM>
+<AM lemma="Kuala-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln95046-041-p2s1Aw2">
 <src.rf>manual</src.rf>
@@ -69,7 +72,10 @@
 <LM>w#w-ln95046-041-p2s1Aw2</LM>
 </w.rf>
 <form>Lumpur</form>
-<tag lemma="Lumpur_;G" src="orig" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="Lumpur_;G" src="orig">NNIS1-----A----</AM>
+<AM lemma="Lumpur-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln95046-041-p2s1Aw3">
 <src.rf>manual</src.rf>
@@ -183,7 +189,10 @@
 <LM>w#w-ln95046-041-p2s1Bw13</LM>
 </w.rf>
 <form>rozrostla</form>
-<tag lemma="rozrůst" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag>
+<AM lemma="rozrůst" src="orig">VpQW---XR-AA---</AM>
+<AM lemma="rozrůst_:W" src="manual" selected="1">VpQW---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-ln95046-041-p2s1Bw14">
 <src.rf>manual</src.rf>
@@ -248,7 +257,7 @@
 </w.rf>
 <form>Božíkovi</form>
 <tag>
-<AM lemma="Božíkův_;S_^(*2)" src="orig">AUMP4M---------</AM>
+<AM lemma="Božíkův_;S_^(*2)" src="orig" selected="1">AUMP4M---------</AM>
 <AM lemma="Božík_;S" src="auto" recommended="1">NNMS3-----A----</AM>
 <AM lemma="Božík_;S" src="auto">NNMS6-----A----</AM>
 <AM lemma="Božíkův_;S_^(*2)" src="auto">AUMP1M---------</AM>
@@ -415,7 +424,10 @@
 <LM>w#w-ln95046-041-p2s2w13</LM>
 </w.rf>
 <form>AP</form>
-<tag lemma="AP-3_:B_;K_,t_^(Associated_Press,_tisková_agentura)" src="auto" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="AP-3_:B_;K_,t_^(Associated_Press,_tisková_agentura)" src="auto">NNFXX-----A---8</AM>
+<AM lemma="AP-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95046-041-p2s2w14">
 <src.rf>manual</src.rf>
@@ -463,7 +475,10 @@
 <LM>w#w-ln95046-041-p2s2w19</LM>
 </w.rf>
 <form>ČR</form>
-<tag lemma="ČR-1_:B_;G_^(Česká_republika)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95046-041-p2s2w20">
 <src.rf>manual</src.rf>
@@ -489,7 +504,10 @@
 <LM>w#w-ln95046-041-p2s3w2</LM>
 </w.rf>
 <form>hrál</form>
-<tag lemma="hrát" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag>
+<AM lemma="hrát" src="orig">VpYS---XR-AA---</AM>
+<AM lemma="hrát_:T" src="manual" selected="1">VpYS---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-ln95046-041-p2s3w3">
 <src.rf>manual</src.rf>
@@ -517,6 +535,8 @@
 <AM lemma="Negri_;G" src="orig">AAXXX----1A----</AM>
 <AM lemma="Negri-1_;S" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Negri-1_;S" src="auto">NNMS5-----A----</AM>
+<AM lemma="Negri-2_;G" src="manual">NNXXX-----A----</AM>
+<AM lemma="Negri-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-ln95046-041-p2s3w6">
@@ -525,7 +545,10 @@
 <LM>w#w-ln95046-041-p2s3w6</LM>
 </w.rf>
 <form>Sembilan</form>
-<tag lemma="Sembilan_;G" src="orig" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="Sembilan_;G" src="orig">NNIS1-----A----</AM>
+<AM lemma="Sembilan-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln95046-041-p2s3w7">
 <src.rf>manual</src.rf>

@@ -53,7 +53,10 @@
 <LM>w#w-ln95041-111-p2s1w4</LM>
 </w.rf>
 <form>AG</form>
-<tag lemma="AG-1_:B_;b_,t_^(označ._něm._akciové_spol.)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="AG-1_:B_;b_,t_^(označ._něm._akciové_spol.)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="AG-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95041-111-p2s1w5">
 <src.rf>manual</src.rf>
@@ -104,6 +107,7 @@
 <tag>
 <AM lemma="Karl_;Y" src="orig">NNMXX-----A----</AM>
 <AM lemma="Karl_;Y_,t" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Karl_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95041-111-p2s1w11">
@@ -120,7 +124,10 @@
 <LM>w#w-ln95041-111-p2s1w12</LM>
 </w.rf>
 <form>GmbH</form>
-<tag lemma="Gmbh_:B_,t_,x_^(Gesellschaft_mit_beschränke_Haftung)" src="auto" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="Gmbh_:B_,t_,x_^(Gesellschaft_mit_beschränke_Haftung)" src="auto">NNFXX-----A---8</AM>
+<AM lemma="GmbH-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln95041-111-p2s1w13">
 <src.rf>manual</src.rf>
@@ -340,7 +347,10 @@
 <LM>w#w-ln95041-111-p2s3w7</LM>
 </w.rf>
 <form>EU</form>
-<tag lemma="EU-1_:B_;K_;p_^(Evropská_Unie)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="EU-1_:B_;K_;p_^(Evropská_Unie)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="EU-1_:B_;K_^(Evropská_Unie)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95041-111-p2s3w8">
 <src.rf>manual</src.rf>

@@ -287,7 +287,10 @@
 <LM>w#w-mf930702-118-p2s2w5</LM>
 </w.rf>
 <form>UNPROFOR</form>
-<tag lemma="UNPROFOR_:B" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="UNPROFOR_:B" src="orig">NNFXX-----A---8</AM>
+<AM lemma="UNPROFOR-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-mf930702-118-p2s2w6">
 <src.rf>manual</src.rf>
@@ -313,7 +316,10 @@
 <LM>w#w-mf930702-118-p3s1w2</LM>
 </w.rf>
 <form>UNPROFOR</form>
-<tag lemma="UNPROFOR_:B" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="UNPROFOR_:B" src="orig">NNFXX-----A---8</AM>
+<AM lemma="UNPROFOR-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-mf930702-118-p3s1w3">
 <src.rf>manual</src.rf>
@@ -444,7 +450,7 @@
 <tag>
 <AM lemma="kasárna" src="orig">NNFS1-----A----</AM>
 <AM lemma="kasárna" src="auto">NNNP1-----A---1</AM>
-<AM lemma="kasárna" src="auto" recommended="1">NNNP4-----A---1</AM>
+<AM lemma="kasárna" src="auto" recommended="1" selected="1">NNNP4-----A---1</AM>
 <AM lemma="kasárna" src="auto">NNNP5-----A---1</AM>
 </tag>
 </m>
@@ -692,7 +698,10 @@
 <LM>w#w-mf930702-118-p3s4w5</LM>
 </w.rf>
 <form>jen</form>
-<tag lemma="jen-1" src="auto" selected="1">TT-------------</tag>
+<tag>
+<AM lemma="jen-1" src="auto">TT-------------</AM>
+<AM lemma="jen-4_^(pouze)" src="manual" selected="1">Db-------------</AM>
+</tag>
 </m>
 <m id="m-mf930702-118-p3s4w6">
 <src.rf>manual</src.rf>
@@ -946,7 +955,10 @@
 <LM>w#w-mf930702-118-p4s3w9</LM>
 </w.rf>
 <form>OSN</form>
-<tag lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930702-118-p4s3w10">
 <src.rf>manual</src.rf>
@@ -1598,7 +1610,10 @@
 <LM>w#w-mf930702-118-p6s2w5</LM>
 </w.rf>
 <form>OSN</form>
-<tag lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930702-118-p6s2w6">
 <src.rf>manual</src.rf>
@@ -1680,7 +1695,10 @@
 <LM>w#w-mf930702-118-p6s3w6</LM>
 </w.rf>
 <form>UNPROFOR</form>
-<tag lemma="UNPROFOR_:B" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="UNPROFOR_:B" src="orig">NNFXX-----A---8</AM>
+<AM lemma="UNPROFOR-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-mf930702-118-p6s3w7">
 <src.rf>manual</src.rf>
@@ -1688,7 +1706,10 @@
 <LM>w#w-mf930702-118-p6s3w7</LM>
 </w.rf>
 <form>Josého</form>
-<tag lemma="José_;G" src="auto" selected="1">NNNS2-----A----</tag>
+<tag>
+<AM lemma="José_;G" src="auto">NNNS2-----A----</AM>
+<AM lemma="José_;Y" src="manual" selected="1">NNMS2-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930702-118-p6s3w8">
 <src.rf>manual</src.rf>
@@ -1697,7 +1718,7 @@
 </w.rf>
 <form>Gallegose</form>
 <tag>
-<AM lemma="Gallegos-2_;S" src="orig">NNMS2-----A----</AM>
+<AM lemma="Gallegos-2_;S" src="orig" selected="1">NNMS2-----A----</AM>
 <AM lemma="Gallegos_;G" src="auto" recommended="1">NNIS5-----A----</AM>
 </tag>
 </m>
@@ -1912,7 +1933,7 @@
 </w.rf>
 <form>Gallegose</form>
 <tag>
-<AM lemma="Gallegos-2_;S" src="orig">NNMS2-----A----</AM>
+<AM lemma="Gallegos-2_;S" src="orig" selected="1">NNMS2-----A----</AM>
 <AM lemma="Gallegos_;G" src="auto" recommended="1">NNIS5-----A----</AM>
 </tag>
 </m>

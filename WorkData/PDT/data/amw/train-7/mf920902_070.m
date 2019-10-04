@@ -377,7 +377,10 @@
 <LM>w#w-mf920902-070-p2s3w2</LM>
 </w.rf>
 <form>Stephane</form>
-<tag lemma="Stephane_;S" src="auto" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Stephane_;S" src="auto">NNMS1-----A----</AM>
+<AM lemma="Stephane_;Y_;S" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920902-070-p2s3w3">
 <src.rf>manual</src.rf>
@@ -425,7 +428,10 @@
 <LM>w#w-mf920902-070-p2s3w8</LM>
 </w.rf>
 <form>XTZ</form>
-<tag lemma="XTZ_:B_;R" src="orig" selected="1">NNXXX-----A----</tag>
+<tag>
+<AM lemma="XTZ_:B_;R" src="orig">NNXXX-----A----</AM>
+<AM lemma="XTZ-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-mf920902-070-p2s3w9">
 <src.rf>manual</src.rf>
@@ -645,7 +651,7 @@
 <AM lemma="osmý" src="orig">AAFS7----1A----</AM>
 <AM lemma="osma" src="auto">NNFS7-----A----</AM>
 <AM lemma="osmý" src="auto">CrFS4----------</AM>
-<AM lemma="osmý" src="auto" recommended="1">CrFS7----------</AM>
+<AM lemma="osmý" src="auto" recommended="1" selected="1">CrFS7----------</AM>
 </tag>
 </m>
 <m id="m-mf920902-070-p2s3w36">
@@ -872,7 +878,10 @@
 <LM>w#w-mf920902-070-p2s4w11</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-2" src="auto" selected="1">Dg-------2A----</tag>
+<tag>
+<AM lemma="hodně-2" src="auto">Dg-------2A----</AM>
+<AM lemma="hodně-3" src="manual" selected="1">Dg-------2A----</AM>
+</tag>
 </m>
 <m id="m-mf920902-070-p2s4w12">
 <src.rf>manual</src.rf>
@@ -1732,7 +1741,10 @@
 <LM>w#w-mf920902-070-p2s6w23</LM>
 </w.rf>
 <form>SNS</form>
-<tag lemma="SNS-2_:B_;G_^(Sdr._nezávislých_států)" src="orig" selected="1">NNNXX-----A---8</tag>
+<tag>
+<AM lemma="SNS-2_:B_;G_^(Sdr._nezávislých_států)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="SNS-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-mf920902-070-p2s6w24">
 <src.rf>manual</src.rf>
@@ -1982,7 +1994,7 @@
 <form>nejen</form>
 <tag>
 <AM lemma="nejen" src="orig">TT-------------</AM>
-<AM lemma="nejen" src="auto" recommended="1">Db-------------</AM>
+<AM lemma="nejen" src="auto" recommended="1" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m-mf920902-070-p2s6w56">
@@ -2202,7 +2214,7 @@
 <tag>
 <AM lemma="tedy" src="orig">Db-------------</AM>
 <AM lemma="tedy-1" src="auto" recommended="1">TT-------------</AM>
-<AM lemma="tedy-2" src="auto">J^-------------</AM>
+<AM lemma="tedy-2" src="auto" selected="1">J^-------------</AM>
 </tag>
 </m>
 <m id="m-mf920902-070-p2s6w83">

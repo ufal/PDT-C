@@ -159,7 +159,10 @@
 <LM>w#w-lnd94104-062-p1s1Cw12</LM>
 </w.rf>
 <form>jenom</form>
-<tag lemma="jenom-1" src="auto" selected="1">TT-------------</tag>
+<tag>
+<AM lemma="jenom-1" src="auto">TT-------------</AM>
+<AM lemma="jenom-2_^(pouze)" src="manual" selected="1">Db-------------</AM>
+</tag>
 </m>
 <m id="m-lnd94104-062-p1s1Cw13">
 <src.rf>manual</src.rf>
@@ -858,6 +861,7 @@
 <tag>
 <AM lemma="FPR-2_:B_;K_,t_^(Rwandská_vlastenecká_fronta)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="FPR-1_:B_,t_^(floating_point_register)" src="auto" recommended="1">NNIXX-----A---8</AM>
+<AM lemma="FPR-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-lnd94104-062-p1s5w16">
@@ -940,7 +944,10 @@
 <LM>w#w-lnd94104-062-p1s6w1</LM>
 </w.rf>
 <form>Jen</form>
-<tag lemma="jen-1" src="auto" selected="1">TT-------------</tag>
+<tag>
+<AM lemma="jen-1" src="auto">TT-------------</AM>
+<AM lemma="jen-4_^(pouze)" src="manual" selected="1">Db-------------</AM>
+</tag>
 </m>
 <m id="m-lnd94104-062-p1s6w2">
 <src.rf>manual</src.rf>
@@ -1093,7 +1100,10 @@
 <LM>w#w-lnd94104-062-p1s6w20</LM>
 </w.rf>
 <form>UNHCR</form>
-<tag lemma="UNHCR_:B_;K" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="UNHCR_:B_;K" src="orig">NNXXX-----A---8</AM>
+<AM lemma="UNHCR-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd94104-062-p1s6w21">
 <src.rf>manual</src.rf>
@@ -1197,7 +1207,10 @@
 <LM>w#w-lnd94104-062-p1s6w33</LM>
 </w.rf>
 <form>UNHCR</form>
-<tag lemma="UNHCR_:B_;K" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="UNHCR_:B_;K" src="orig">NNXXX-----A---8</AM>
+<AM lemma="UNHCR-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd94104-062-p1s6w34">
 <src.rf>manual</src.rf>
@@ -1521,7 +1534,10 @@
 <LM>w#w-lnd94104-062-p1s8w18</LM>
 </w.rf>
 <form>UNAMIR</form>
-<tag lemma="UNAMIR-1_:B_;K_,t_^(Unit._Nat._Advanced_Mission_in_Rwanda)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="UNAMIR-1_:B_;K_,t_^(Unit._Nat._Advanced_Mission_in_Rwanda)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="UNAMIR-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd94104-062-p1s8w19">
 <src.rf>manual</src.rf>
@@ -1877,7 +1893,10 @@
 <LM>w#w-lnd94104-062-p1s10w15</LM>
 </w.rf>
 <form>jen</form>
-<tag lemma="jen-1" src="auto" selected="1">TT-------------</tag>
+<tag>
+<AM lemma="jen-1" src="auto">TT-------------</AM>
+<AM lemma="jen-4_^(pouze)" src="manual" selected="1">Db-------------</AM>
+</tag>
 </m>
 <m id="m-lnd94104-062-p1s10w16">
 <src.rf>manual</src.rf>
@@ -2177,7 +2196,10 @@
 <LM>w#w-lnd94104-062-p1s12w2</LM>
 </w.rf>
 <form>Kennetha</form>
-<tag lemma="Kenneth_;Y_,t" src="auto" selected="1">NNMS2-----A----</tag>
+<tag>
+<AM lemma="Kenneth_;Y_,t" src="auto">NNMS2-----A----</AM>
+<AM lemma="Kenneth_;Y" src="manual" selected="1">NNMS2-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd94104-062-p1s12w3">
 <src.rf>manual</src.rf>
@@ -2185,7 +2207,10 @@
 <LM>w#w-lnd94104-062-p1s12w3</LM>
 </w.rf>
 <form>Rotha</form>
-<tag lemma="Roth" src="orig" selected="1">NNMS2-----A----</tag>
+<tag>
+<AM lemma="Roth" src="orig">NNMS2-----A----</AM>
+<AM lemma="Roth_;S" src="manual" selected="1">NNMS2-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd94104-062-p1s12w4">
 <src.rf>manual</src.rf>
@@ -2225,7 +2250,10 @@
 <LM>w#w-lnd94104-062-p1s12w8</LM>
 </w.rf>
 <form>Human</form>
-<tag lemma="Human_;K_,t" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="Human_;K_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="Human-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-lnd94104-062-p1s12w9">
 <src.rf>manual</src.rf>
@@ -2233,7 +2261,10 @@
 <LM>w#w-lnd94104-062-p1s12w9</LM>
 </w.rf>
 <form>Rights</form>
-<tag lemma="Rights_;K_,t" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="Rights_;K_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="Rights-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-lnd94104-062-p1s12w10">
 <src.rf>manual</src.rf>
@@ -2241,7 +2272,10 @@
 <LM>w#w-lnd94104-062-p1s12w10</LM>
 </w.rf>
 <form>Watch</form>
-<tag lemma="Watch_;K_,t" src="orig" selected="1">NNXXX-----A----</tag>
+<tag>
+<AM lemma="Watch_;K_,t" src="orig">NNXXX-----A----</AM>
+<AM lemma="Watch-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-lnd94104-062-p1s12w11">
 <src.rf>manual</src.rf>
@@ -2429,6 +2463,7 @@
 <AM lemma="Tutsi_;E" src="orig">NNIXX-----A----</AM>
 <AM lemma="Tutsi_;E" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Tutsi_;E" src="auto">NNMS5-----A----</AM>
+<AM lemma="Tutsi_;E" src="manual" selected="1">NNMXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94104-062-p1s12w34">
@@ -2851,7 +2886,10 @@
 <LM>w#w-lnd94104-062-p1s15w9</LM>
 </w.rf>
 <form>UNAMIR</form>
-<tag lemma="UNAMIR-1_:B_;K_,t_^(Unit._Nat._Advanced_Mission_in_Rwanda)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="UNAMIR-1_:B_;K_,t_^(Unit._Nat._Advanced_Mission_in_Rwanda)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="UNAMIR-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd94104-062-p1s15w10">
 <src.rf>manual</src.rf>
@@ -3149,7 +3187,10 @@
 <LM>w#w-lnd94104-062-p1s16w31</LM>
 </w.rf>
 <form>li</form>
-<tag lemma="li-1" src="auto" selected="1">TT-------------</tag>
+<tag>
+<AM lemma="li-1" src="auto">TT-------------</AM>
+<AM lemma="li-2" src="manual" selected="1">J,-------------</AM>
+</tag>
 </m>
 <m id="m-lnd94104-062-p1s16w32">
 <src.rf>manual</src.rf>

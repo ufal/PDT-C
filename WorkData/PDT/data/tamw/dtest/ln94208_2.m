@@ -138,6 +138,7 @@
 <tag>
 <AM lemma="USA_;G" src="orig">NNIPX-----A----</AM>
 <AM lemma="USA_:B_;K_,t_^(United_States_of_America)" src="auto" recommended="1">NNIPX-----A---8</AM>
+<AM lemma="USA_:B_;K_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94208-2-p2s1Bw10">
@@ -146,7 +147,10 @@
 <LM>w#w-ln94208-2-p2s1Bw10</LM>
 </w.rf>
 <form>vzrostly</form>
-<tag lemma="vzrůst-1" src="auto" selected="1">VpTP---XR-AA---</tag>
+<tag>
+<AM lemma="vzrůst-1" src="auto">VpTP---XR-AA---</AM>
+<AM lemma="vzrůst-1_:W" src="manual" selected="1">VpTP---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-ln94208-2-p2s1Bw11">
 <src.rf>manual</src.rf>
@@ -226,7 +230,10 @@
 <LM>w#w-ln94208-2-p2s1Bw20</LM>
 </w.rf>
 <form>dolarů</form>
-<tag lemma="dolar_;b" src="orig" selected="1">NNIP2-----A----</tag>
+<tag>
+<AM lemma="dolar_;b" src="orig">NNIP2-----A----</AM>
+<AM lemma="dolar" src="manual" selected="1">NNIP2-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94208-2-p2s1Bw21">
 <src.rf>manual</src.rf>
@@ -276,7 +283,10 @@
 <LM>w#w-ln94208-2-p2s2w5</LM>
 </w.rf>
 <form>L</form>
-<tag lemma="L-0_:B_;Y" src="orig" selected="1">NNMXX-----A---8</tag>
+<tag>
+<AM lemma="L-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
+<AM lemma="L-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94208-2-p2s2w6">
 <src.rf>manual</src.rf>
@@ -348,7 +358,10 @@
 <LM>w#w-ln94208-2-p2s2w14</LM>
 </w.rf>
 <form>dolarů</form>
-<tag lemma="dolar_;b" src="orig" selected="1">NNIP2-----A----</tag>
+<tag>
+<AM lemma="dolar_;b" src="orig">NNIP2-----A----</AM>
+<AM lemma="dolar" src="manual" selected="1">NNIP2-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94208-2-p2s2w15">
 <src.rf>manual</src.rf>
@@ -524,7 +537,10 @@
 <LM>w#w-ln94208-2-p2s2w36</LM>
 </w.rf>
 <form>USD</form>
-<tag lemma="USD_:B_;b_^(U.S._dolar)" src="auto" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="USD_:B_;b_^(U.S._dolar)" src="auto">NNIXX-----A---8</AM>
+<AM lemma="USD_:B_^(U.S._dolar)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94208-2-p2s2w37">
 <src.rf>manual</src.rf>
@@ -649,6 +665,7 @@
 <tag>
 <AM lemma="USA_;G" src="orig">NNIPX-----A----</AM>
 <AM lemma="USA_:B_;K_,t_^(United_States_of_America)" src="auto" recommended="1">NNIPX-----A---8</AM>
+<AM lemma="USA_:B_;K_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94208-2-p3s1w15">

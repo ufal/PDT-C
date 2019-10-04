@@ -43,7 +43,10 @@
 <LM>w#w-ln94209-54-p1s1w4</LM>
 </w.rf>
 <form>jenom</form>
-<tag lemma="jenom-1" src="auto" selected="1">TT-------------</tag>
+<tag>
+<AM lemma="jenom-1" src="auto">TT-------------</AM>
+<AM lemma="jenom-2_^(pouze)" src="manual" selected="1">Db-------------</AM>
+</tag>
 </m>
 <m id="m-ln94209-54-p1s1w5">
 <src.rf>manual</src.rf>
@@ -167,7 +170,10 @@
 <LM>w#w-ln94209-54-p2s1Bw10</LM>
 </w.rf>
 <form>LN</form>
-<tag lemma="LN-1_:B_;R_^(Lidové_noviny,_deník)" src="orig" selected="1">NNFPX-----A---8</tag>
+<tag>
+<AM lemma="LN-1_:B_;R_^(Lidové_noviny,_deník)" src="orig">NNFPX-----A---8</AM>
+<AM lemma="LN-1_:B_;K_;R_^(Lidové_noviny)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94209-54-p2s1Bw11">
 <src.rf>manual</src.rf>
@@ -343,7 +349,10 @@
 <LM>w#w-ln94209-54-p2s1Bw33</LM>
 </w.rf>
 <form>vydával</form>
-<tag lemma="vydávat-1_:T_^(emitovat:_cenné_papíry,_knihu,_zvuk,...)_(*6at-1)" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag>
+<AM lemma="vydávat-1_:T_^(emitovat:_cenné_papíry,_knihu,_zvuk,...)_(*6at-1)" src="orig">VpYS---XR-AA---</AM>
+<AM lemma="vydávat_:T_^(*4at)" src="manual" selected="1">VpYS---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-ln94209-54-p2s1Bw34">
 <src.rf>manual</src.rf>
@@ -1043,7 +1052,10 @@
 <LM>w#w-ln94209-54-p4s2w3</LM>
 </w.rf>
 <form>Ezra</form>
-<tag lemma="Ezra_;S" src="auto" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Ezra_;S" src="auto">NNMS1-----A----</AM>
+<AM lemma="Ezra_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94209-54-p4s2w4">
 <src.rf>manual</src.rf>
@@ -1052,7 +1064,7 @@
 </w.rf>
 <form>Park</form>
 <tag>
-<AM lemma="Park_;S" src="orig">NNMS1-----A----</AM>
+<AM lemma="Park_;S" src="orig" selected="1">NNMS1-----A----</AM>
 <AM lemma="park" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="park" src="auto">NNIS4-----A----</AM>
 </tag>
@@ -1364,6 +1376,7 @@
 <tag>
 <AM lemma="mechanizmus" src="orig">NNIP2-----A---1</AM>
 <AM lemma="mechanismus" src="auto" recommended="1">NNIP2-----A----</AM>
+<AM lemma="mechanismus_,s_^(^DD**mechanizmus)" src="manual" selected="1">NNIP2-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94209-54-p4s3w21">
@@ -1420,7 +1433,10 @@
 <LM>w#w-ln94209-54-p4s3w27</LM>
 </w.rf>
 <form>počátkem</form>
-<tag lemma="počátek" src="orig" selected="1">NNIS7-----A----</tag>
+<tag>
+<AM lemma="počátek" src="orig">NNIS7-----A----</AM>
+<AM lemma="počátkem" src="manual" selected="1">RR--2----------</AM>
+</tag>
 </m>
 <m id="m-ln94209-54-p4s3w28">
 <src.rf>manual</src.rf>
@@ -1622,7 +1638,10 @@
 <LM>w#w-ln94209-54-p4s4w11</LM>
 </w.rf>
 <form>organismem</form>
-<tag lemma="organismus" src="orig" selected="1">NNIS7-----A----</tag>
+<tag>
+<AM lemma="organismus" src="orig">NNIS7-----A----</AM>
+<AM lemma="organismus_,s_^(^DD**organizmus)" src="manual" selected="1">NNIS7-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94209-54-p4s4w12">
 <src.rf>manual</src.rf>
@@ -2036,7 +2055,10 @@
 <LM>w#w-ln94209-54-p6s1w2</LM>
 </w.rf>
 <form>D</form>
-<tag lemma="D-0_:B_;Y" src="orig" selected="1">NNMXX-----A---8</tag>
+<tag>
+<AM lemma="D-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
+<AM lemma="D-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94209-54-p6s1w3">
 <src.rf>manual</src.rf>
@@ -3162,7 +3184,7 @@
 <form>Snad</form>
 <tag>
 <AM lemma="snad" src="orig">Db-------------</AM>
-<AM lemma="snad" src="auto" recommended="1">TT-------------</AM>
+<AM lemma="snad" src="auto" recommended="1" selected="1">TT-------------</AM>
 </tag>
 </m>
 <m id="m-ln94209-54-p6s7w2">

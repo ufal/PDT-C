@@ -19,7 +19,10 @@
 <LM>w#w-lnd92251-033-p1s1w1</LM>
 </w.rf>
 <form>SILICIUM</form>
-<tag lemma="silicium" src="orig" selected="1">NNNS1-----A----</tag>
+<tag>
+<AM lemma="silicium" src="orig" selected="1">NNNS1-----A----</AM>
+<AM lemma="SILICIUM-77" src="manual">F%-------------</AM>
+</tag>
 </m>
 <m id="m-lnd92251-033-p1s1w2">
 <src.rf>manual</src.rf>
@@ -29,7 +32,8 @@
 <form>BOHEMICA</form>
 <tag>
 <AM lemma="Bohemica_;m" src="orig">AAXXX----1A---8</AM>
-<AM lemma="Bohemica_,t" src="auto" recommended="1">AAXXX----1A----</AM>
+<AM lemma="Bohemica_,t" src="auto" recommended="1" selected="1">AAXXX----1A----</AM>
+<AM lemma="BOHEMICA-77" src="manual">F%-------------</AM>
 </tag>
 </m>
 <m id="m-lnd92251-033-p1s1w3">
@@ -666,7 +670,10 @@
 <LM>w#w-lnd92251-033-p1s3w21</LM>
 </w.rf>
 <form>ČR</form>
-<tag lemma="ČR-1_:B_;G_^(Česká_republika)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92251-033-p1s3w22">
 <src.rf>manual</src.rf>
@@ -693,7 +700,7 @@
 </w.rf>
 <form>zla</form>
 <tag>
-<AM lemma="zla-99_:B_;S" src="orig">NNXXX-----A---8</AM>
+<AM lemma="zla-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</AM>
 <AM lemma="zlo" src="auto" recommended="1">NNNP1-----A----</AM>
 <AM lemma="zlo" src="auto">NNNP4-----A----</AM>
 <AM lemma="zlo" src="auto">NNNP5-----A----</AM>
@@ -748,7 +755,10 @@
 <LM>w#w-lnd92251-033-p3s1w5</LM>
 </w.rf>
 <form>LN</form>
-<tag lemma="LN-1_:B_;R_^(Lidové_noviny,_deník)" src="orig" selected="1">NNFPX-----A---8</tag>
+<tag>
+<AM lemma="LN-1_:B_;R_^(Lidové_noviny,_deník)" src="orig">NNFPX-----A---8</AM>
+<AM lemma="LN-1_:B_;K_;R_^(Lidové_noviny)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 </s>
 </mdata>

@@ -19,7 +19,10 @@
 <LM>w#w-mf930701-020-p1s1w1</LM>
 </w.rf>
 <form>ES</form>
-<tag lemma="ES_:B_;K_^(Evropská_společenství)" src="orig" selected="1">NNNXX-----A---8</tag>
+<tag>
+<AM lemma="ES_:B_;K_^(Evropská_společenství)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="ES-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-mf930701-020-p1s1w2">
 <src.rf>manual</src.rf>
@@ -88,6 +91,7 @@
 <tag>
 <AM lemma="ECU_:B" src="orig">NNNXX-----A---8</AM>
 <AM lemma="ECU_:B_;b" src="auto" recommended="1">NNFXX-----A---8</AM>
+<AM lemma="ECU-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-mf930701-020-p2s1w6">
@@ -275,7 +279,7 @@
 </w.rf>
 <form>Fluxy</form>
 <tag>
-<AM lemma="Fluxa_;S" src="orig">NNMS2-----A----</AM>
+<AM lemma="Fluxa_;S" src="orig" selected="1">NNMS2-----A----</AM>
 <AM lemma="Fluxus_;K_^(hnutí)" src="auto" recommended="1">NNIP1-----A----</AM>
 <AM lemma="Fluxus_;K_^(hnutí)" src="auto">NNIP4-----A----</AM>
 <AM lemma="Fluxus_;K_^(hnutí)" src="auto">NNIP5-----A----</AM>
@@ -624,7 +628,10 @@
 <LM>w#w-mf930701-020-p2s4w6</LM>
 </w.rf>
 <form>ES</form>
-<tag lemma="ES_:B_;K_^(Evropská_společenství)" src="orig" selected="1">NNNXX-----A---8</tag>
+<tag>
+<AM lemma="ES_:B_;K_^(Evropská_společenství)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="ES-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-mf930701-020-p2s4w7">
 <src.rf>manual</src.rf>
@@ -715,6 +722,7 @@
 <tag>
 <AM lemma="ECU_:B" src="orig">NNNXX-----A---8</AM>
 <AM lemma="ECU_:B_;b" src="auto" recommended="1">NNFXX-----A---8</AM>
+<AM lemma="ECU-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-mf930701-020-p2s4w18">

@@ -357,7 +357,10 @@
 <LM>w#w-mf920902-157-p4s3w8</LM>
 </w.rf>
 <form>Alfred</form>
-<tag lemma="Alfréd_;Y" src="orig" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Alfréd_;Y" src="orig">NNMS1-----A----</AM>
+<AM lemma="Alfred_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920902-157-p4s3w9">
 <src.rf>manual</src.rf>
@@ -785,7 +788,10 @@
 <LM>w#w-mf920902-157-p4s5w18</LM>
 </w.rf>
 <form>km</form>
-<tag lemma="km-1`kilometr_:B" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="km-1`kilometr_:B" src="orig">NNIXX-----A---8</AM>
+<AM lemma="kilometr" src="manual" selected="1">NNIXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-mf920902-157-p4s5w19">
 <src.rf>manual</src.rf>

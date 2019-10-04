@@ -163,6 +163,7 @@
 <AM lemma="José_;Y" src="auto">NNMS5-----A----</AM>
 <AM lemma="José_;Y" src="auto">NNMS6-----A---1</AM>
 <AM lemma="José_;Y" src="auto">NNMS7-----A---1</AM>
+<AM lemma="José-2_;Y" src="manual" selected="1">NNMXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94101-067-p1s1Bw16">
@@ -188,7 +189,7 @@
 </w.rf>
 <form>Montserrat</form>
 <tag>
-<AM lemma="Montserrat-2_;Y" src="orig">NNFXX-----A----</AM>
+<AM lemma="Montserrat-2_;Y" src="orig" selected="1">NNFXX-----A----</AM>
 <AM lemma="Montserrat_;G" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Montserrat_;G" src="auto">NNIS4-----A----</AM>
 </tag>
@@ -538,7 +539,7 @@
 </w.rf>
 <form>Montserrat</form>
 <tag>
-<AM lemma="Montserrat-2_;Y" src="orig">NNFXX-----A----</AM>
+<AM lemma="Montserrat-2_;Y" src="orig" selected="1">NNFXX-----A----</AM>
 <AM lemma="Montserrat_;G" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Montserrat_;G" src="auto">NNIS4-----A----</AM>
 </tag>
@@ -703,7 +704,10 @@
 <LM>w#w-lnd94101-067-p1s6w9</LM>
 </w.rf>
 <form>José</form>
-<tag lemma="José_;Y" src="orig" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="José_;Y" src="orig">NNMS1-----A----</AM>
+<AM lemma="José-2_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd94101-067-p1s6w10">
 <src.rf>manual</src.rf>
@@ -1657,7 +1661,7 @@
 <form>Kč</form>
 <tag>
 <AM lemma="Kč" src="orig">NNFXX-----A----</AM>
-<AM lemma="Kč_:B" src="auto" recommended="1">NNFXX-----A---8</AM>
+<AM lemma="Kč_:B" src="auto" recommended="1" selected="1">NNFXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-lnd94101-067-p1s13w17">
@@ -1702,7 +1706,7 @@
 <form>ovšem</form>
 <tag>
 <AM lemma="ovšem-1_^(avšak,_však;_odporovací_spojka)" src="orig">J^-------------</AM>
-<AM lemma="ovšem" src="auto" recommended="1">TT-------------</AM>
+<AM lemma="ovšem" src="auto" recommended="1" selected="1">TT-------------</AM>
 </tag>
 </m>
 <m id="m-lnd94101-067-p1s14w5">
@@ -1987,7 +1991,10 @@
 <LM>w#w-lnd94101-067-p1s16w4</LM>
 </w.rf>
 <form>ČF</form>
-<tag lemma="ČF_:B_;K_^(Česká_filharmonie)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ČF_:B_;K_^(Česká_filharmonie)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČF-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd94101-067-p1s16w5">
 <src.rf>manual</src.rf>
@@ -2029,7 +2036,7 @@
 <form>Kč</form>
 <tag>
 <AM lemma="Kč" src="orig">NNFXX-----A----</AM>
-<AM lemma="Kč_:B" src="auto" recommended="1">NNFXX-----A---8</AM>
+<AM lemma="Kč_:B" src="auto" recommended="1" selected="1">NNFXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-lnd94101-067-p1s16w10">
@@ -2106,7 +2113,10 @@
 <LM>w#w-lnd94101-067-p1s18w1</LM>
 </w.rf>
 <form>Více</form>
-<tag lemma="hodně-2" src="auto" selected="1">Dg-------2A----</tag>
+<tag>
+<AM lemma="hodně-2" src="auto">Dg-------2A----</AM>
+<AM lemma="hodně-3" src="manual" selected="1">Dg-------2A----</AM>
+</tag>
 </m>
 <m id="m-lnd94101-067-p1s18w2">
 <src.rf>manual</src.rf>

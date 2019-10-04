@@ -538,7 +538,7 @@
 </w.rf>
 <form>epigramatik</form>
 <tag>
-<AM lemma="epigramatik" src="orig">NNMS1-----A----</AM>
+<AM lemma="epigramatik" src="orig" selected="1">NNMS1-----A----</AM>
 <AM lemma="epigramatika" src="auto" recommended="1">NNFP2-----A----</AM>
 </tag>
 </m>
@@ -557,7 +557,7 @@
 </w.rf>
 <form>Fontana</form>
 <tag>
-<AM lemma="Fontana_;S" src="orig">NNMS1-----A----</AM>
+<AM lemma="Fontana_;S" src="orig" selected="1">NNMS1-----A----</AM>
 <AM lemma="Fontana_;G" src="auto" recommended="1">NNFS1-----A----</AM>
 </tag>
 </m>

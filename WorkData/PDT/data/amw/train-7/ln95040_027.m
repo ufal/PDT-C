@@ -411,7 +411,10 @@
 <LM>w#w-ln95040-027-p2s2w21</LM>
 </w.rf>
 <form>jen</form>
-<tag lemma="jen-1" src="auto" selected="1">TT-------------</tag>
+<tag>
+<AM lemma="jen-1" src="auto">TT-------------</AM>
+<AM lemma="jen-4_^(pouze)" src="manual" selected="1">Db-------------</AM>
+</tag>
 </m>
 <m id="m-ln95040-027-p2s2w22">
 <src.rf>manual</src.rf>
@@ -595,7 +598,10 @@
 <LM>w#w-ln95040-027-p2s2w44</LM>
 </w.rf>
 <form>diskusí</form>
-<tag lemma="diskuse" src="orig" selected="1">NNFP2-----A----</tag>
+<tag>
+<AM lemma="diskuse" src="orig">NNFP2-----A----</AM>
+<AM lemma="diskuse_,s_^(^DD**diskuze)" src="manual" selected="1">NNFP2-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95040-027-p2s2w45">
 <src.rf>manual</src.rf>
@@ -780,7 +786,7 @@
 <AM lemma="Chvalovská_;S" src="auto">NNFP3-----A----</AM>
 <AM lemma="Chvalovský_;S" src="auto">NNMP3-----A----</AM>
 <AM lemma="Chvalovský_;S" src="auto">NNMS6-----A---7</AM>
-<AM lemma="Chvalovský_;S" src="auto" recommended="1">NNMS7-----A----</AM>
+<AM lemma="Chvalovský_;S" src="auto" recommended="1" selected="1">NNMS7-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95040-027-p2s4w7">
@@ -853,7 +859,10 @@
 <LM>w#w-ln95040-027-p2s4w15</LM>
 </w.rf>
 <form>hodně</form>
-<tag lemma="hodně-2_^(nezlobivý)_(*3ý-2)" src="auto" selected="1">Dg-------1A----</tag>
+<tag>
+<AM lemma="hodně-2_^(nezlobivý)_(*3ý-2)" src="auto">Dg-------1A----</AM>
+<AM lemma="hodně-1_^(hodně_+_2._p.,_hodně_peněz)" src="manual" selected="1">Ca--4----------</AM>
+</tag>
 </m>
 <m id="m-ln95040-027-p2s4w16">
 <src.rf>manual</src.rf>
@@ -965,7 +974,10 @@
 <LM>w#w-ln95040-027-p2s4w29</LM>
 </w.rf>
 <form>ČMFS</form>
-<tag lemma="ČMFS-1_:B_;K_;w_^(Českomoravský_fotbalový_svaz)" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="ČMFS-1_:B_;K_;w_^(Českomoravský_fotbalový_svaz)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="ČMFS-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln95040-027-p2s4w30">
 <src.rf>manual</src.rf>
@@ -1215,7 +1227,10 @@
 <LM>w#w-ln95040-027-p2s5w15</LM>
 </w.rf>
 <form>STES</form>
-<tag lemma="STES_:B" src="auto" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="STES_:B" src="auto">NNXXX-----A---8</AM>
+<AM lemma="STES-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln95040-027-p2s5w16">
 <src.rf>manual</src.rf>
@@ -1489,7 +1504,10 @@
 <LM>w#w-ln95040-027-p2s6w17</LM>
 </w.rf>
 <form>ani</form>
-<tag lemma="ani-1" src="auto" selected="1">J^-------------</tag>
+<tag>
+<AM lemma="ani-1" src="auto">J^-------------</AM>
+<AM lemma="ani-2" src="manual" selected="1">TT-------------</AM>
+</tag>
 </m>
 <m id="m-ln95040-027-p2s6w18">
 <src.rf>manual</src.rf>
@@ -1763,7 +1781,10 @@
 <LM>w#w-ln95040-027-p2s7w5</LM>
 </w.rf>
 <form>STES</form>
-<tag lemma="STES_:B" src="auto" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="STES_:B" src="auto">NNXXX-----A---8</AM>
+<AM lemma="STES-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln95040-027-p2s7w6">
 <src.rf>manual</src.rf>
@@ -2239,7 +2260,10 @@
 <LM>w#w-ln95040-027-p3s1w9</LM>
 </w.rf>
 <form>UEFA</form>
-<tag lemma="UEFA-1_:B_;K_;w_^(Evr._fotbalová_federace)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="UEFA-1_:B_;K_;w_^(Evr._fotbalová_federace)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="UEFA-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln95040-027-p3s1w10">
 <src.rf>manual</src.rf>

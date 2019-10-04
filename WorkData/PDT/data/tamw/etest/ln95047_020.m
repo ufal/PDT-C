@@ -119,7 +119,10 @@
 <LM>w#w-ln95047-020-p2s1Bw7</LM>
 </w.rf>
 <form>Whalers</form>
-<tag lemma="Whalers_;K_,t_^(sport._klub)" src="orig" selected="1">NNMP1-----A----</tag>
+<tag>
+<AM lemma="Whalers_;K_,t_^(sport._klub)" src="orig">NNMP1-----A----</AM>
+<AM lemma="Whalers-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln95047-020-p2s1Bw8">
 <src.rf>manual</src.rf>
@@ -146,6 +149,7 @@
 <tag>
 <AM lemma="Bruin_;K_,t" src="orig">NNMPX-----A----</AM>
 <AM lemma="Bruins_;K" src="auto" recommended="1">NNISX-----A----</AM>
+<AM lemma="Bruins-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-ln95047-020-p2s1Bw11">
@@ -298,7 +302,10 @@
 <LM>w#w-ln95047-020-p2s1Bw29</LM>
 </w.rf>
 <form>Darrena</form>
-<tag lemma="Darren_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag>
+<AM lemma="Darren_;S" src="orig">NNMS2-----A----</AM>
+<AM lemma="Darren_;S_;Y" src="manual" selected="1">NNMS2-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95047-020-p2s1Bw30">
 <src.rf>manual</src.rf>
@@ -428,7 +435,10 @@
 <LM>w#w-ln95047-020-p2s2w10</LM>
 </w.rf>
 <form>New</form>
-<tag lemma="New-1_;G_,t_^(součást_míst._jmen)" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="New-1_;G_,t_^(součást_míst._jmen)" src="orig">AAXXX----1A----</AM>
+<AM lemma="New-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln95047-020-p2s2w11">
 <src.rf>manual</src.rf>
@@ -436,7 +446,10 @@
 <LM>w#w-ln95047-020-p2s2w11</LM>
 </w.rf>
 <form>York</form>
-<tag lemma="York-2_;G" src="orig" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="York-2_;G" src="orig">NNIS1-----A----</AM>
+<AM lemma="York-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln95047-020-p2s2w12">
 <src.rf>manual</src.rf>
@@ -444,7 +457,10 @@
 <LM>w#w-ln95047-020-p2s2w12</LM>
 </w.rf>
 <form>Islanders</form>
-<tag lemma="Islanders_;K" src="auto" selected="1">NNXXX-----A----</tag>
+<tag>
+<AM lemma="Islanders_;K" src="auto">NNXXX-----A----</AM>
+<AM lemma="Islanders-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln95047-020-p2s2w13">
 <src.rf>manual</src.rf>
@@ -468,7 +484,10 @@
 <LM>w#w-ln95047-020-p2s2w15</LM>
 </w.rf>
 <form>Sabers</form>
-<tag lemma="Saber_;K_,t" src="orig" selected="1">NNMP1-----A----</tag>
+<tag>
+<AM lemma="Saber_;K_,t" src="orig">NNMP1-----A----</AM>
+<AM lemma="Sabers-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln95047-020-p2s2w16">
 <src.rf>manual</src.rf>

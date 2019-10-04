@@ -75,7 +75,10 @@
 <LM>w#w-ln95042-048-p1s1w8</LM>
 </w.rf>
 <form>Edouard</form>
-<tag lemma="Edouard_;Y_,t" src="orig" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Edouard_;Y_,t" src="orig">NNMS1-----A----</AM>
+<AM lemma="Edouard_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95042-048-p1s1w9">
 <src.rf>manual</src.rf>
@@ -181,7 +184,7 @@
 <form>Nogent</form>
 <tag>
 <AM lemma="Nogent_;G_,t_^(v_názvech_např._Nogent-le-Roi)" src="orig">NNXXX-----A----</AM>
-<AM lemma="Nogent_;G" src="auto" recommended="1">NNIS1-----A----</AM>
+<AM lemma="Nogent_;G" src="auto" recommended="1" selected="1">NNIS1-----A----</AM>
 <AM lemma="Nogent_;G" src="auto">NNIS4-----A----</AM>
 <AM lemma="Nogent_;G_,t_^(v_názvech_např._Nogent-le-Roi)" src="auto">A2--------A----</AM>
 </tag>
@@ -200,7 +203,10 @@
 <LM>w#w-ln95042-048-p1s1w23</LM>
 </w.rf>
 <form>sur</form>
-<tag lemma="sur_,t" src="orig" selected="1">RR--X----------</tag>
+<tag>
+<AM lemma="sur_,t" src="orig">RR--X----------</AM>
+<AM lemma="sur-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln95042-048-p1s1w24">
 <src.rf>manual</src.rf>
@@ -219,6 +225,8 @@
 <tag>
 <AM lemma="Marne_;G" src="orig">NNFXX-----A----</AM>
 <AM lemma="Marna_;G" src="auto" recommended="1">NNFS1-----A---1</AM>
+<AM lemma="Marna_;G_,t" src="manual">NNXXX-----A----</AM>
+<AM lemma="Marne-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-ln95042-048-p1s1w26">
@@ -255,7 +263,7 @@
 <form>zasáhla</form>
 <tag>
 <AM lemma="zasáhnout" src="orig">VpQW---XR-AA---</AM>
-<AM lemma="zasáhnout_:W" src="auto" recommended="1">VpQW---XR-AA--1</AM>
+<AM lemma="zasáhnout_:W" src="auto" recommended="1" selected="1">VpQW---XR-AA--1</AM>
 </tag>
 </m>
 <m id="m-ln95042-048-p1s2w4">

@@ -1311,7 +1311,10 @@
 <LM>w#w-ln95044-065-p1s7w13</LM>
 </w.rf>
 <form>HOST</form>
-<tag lemma="host" src="orig" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="host" src="orig">NNMS1-----A----</AM>
+<AM lemma="HOST-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln95044-065-p1s7w14">
 <src.rf>manual</src.rf>
@@ -1489,7 +1492,10 @@
 <LM>w#w-ln95044-065-p1s8w10</LM>
 </w.rf>
 <form>nedávno</form>
-<tag lemma="nedávno-1" src="auto" selected="1">Db-------------</tag>
+<tag>
+<AM lemma="nedávno-1" src="auto">Db-------------</AM>
+<AM lemma="dávno-1" src="manual" selected="1">Dg-------1N----</AM>
+</tag>
 </m>
 <m id="m-ln95044-065-p1s8w11">
 <src.rf>manual</src.rf>

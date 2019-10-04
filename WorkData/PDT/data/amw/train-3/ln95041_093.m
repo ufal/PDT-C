@@ -19,7 +19,10 @@
 <LM>w#w-ln95041-093-p1s1w1</LM>
 </w.rf>
 <form>Parsifal</form>
-<tag lemma="Parsifal_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Parsifal_;S" src="orig">NNMS1-----A----</AM>
+<AM lemma="Parsifal_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95041-093-p1s1w2">
 <src.rf>manual</src.rf>
@@ -175,7 +178,10 @@
 <LM>w#w-ln95041-093-p2s1Bw12</LM>
 </w.rf>
 <form>Parsifal</form>
-<tag lemma="Parsifal_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Parsifal_;S" src="orig">NNMS1-----A----</AM>
+<AM lemma="Parsifal_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95041-093-p2s1Bw13">
 <src.rf>manual</src.rf>
@@ -183,7 +189,10 @@
 <LM>w#w-ln95041-093-p2s1Bw13</LM>
 </w.rf>
 <form>Imanuel</form>
-<tag lemma="Imanuel_;Y" src="orig" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Imanuel_;Y" src="orig">NNMS1-----A----</AM>
+<AM lemma="Imanuel_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95041-093-p2s1Bw14">
 <src.rf>manual</src.rf>
@@ -209,7 +218,7 @@
 <form>družka</form>
 <tag>
 <AM lemma="druh-2_^(partner)" src="orig">NNFS1-----A----</AM>
-<AM lemma="družka_^(^FM*3h)" src="auto" recommended="1">NNFS1-----A----</AM>
+<AM lemma="družka_^(^FM*3h)" src="auto" recommended="1" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95041-093-p2s1Bw17">
@@ -428,7 +437,10 @@
 <LM>w#w-ln95041-093-p3s1w3</LM>
 </w.rf>
 <form>řekl</form>
-<tag lemma="říci" src="auto" selected="1">VpYS---XR-AA---</tag>
+<tag>
+<AM lemma="říci" src="auto">VpYS---XR-AA---</AM>
+<AM lemma="říci_:W" src="manual" selected="1">VpYS---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-ln95041-093-p3s1w4">
 <src.rf>manual</src.rf>
@@ -584,7 +596,7 @@
 <form>družku</form>
 <tag>
 <AM lemma="druh-2_^(partner)" src="orig">NNFS4-----A----</AM>
-<AM lemma="družka_^(^FM*3h)" src="auto" recommended="1">NNFS4-----A----</AM>
+<AM lemma="družka_^(^FM*3h)" src="auto" recommended="1" selected="1">NNFS4-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95041-093-p3s2w12">
@@ -1017,7 +1029,7 @@
 <form>družkou</form>
 <tag>
 <AM lemma="druh-2_^(partner)" src="orig">NNFS7-----A----</AM>
-<AM lemma="družka_^(^FM*3h)" src="auto" recommended="1">NNFS7-----A----</AM>
+<AM lemma="družka_^(^FM*3h)" src="auto" recommended="1" selected="1">NNFS7-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95041-093-p4s1w6">
@@ -1132,7 +1144,10 @@
 <LM>w#w-ln95041-093-p4s2w9</LM>
 </w.rf>
 <form>ani</form>
-<tag lemma="ani-1" src="auto" selected="1">J^-------------</tag>
+<tag>
+<AM lemma="ani-1" src="auto">J^-------------</AM>
+<AM lemma="ani-2" src="manual" selected="1">TT-------------</AM>
+</tag>
 </m>
 <m id="m-ln95041-093-p4s2w10">
 <src.rf>manual</src.rf>
@@ -1254,7 +1269,10 @@
 <LM>w#w-ln95041-093-p5s1w3</LM>
 </w.rf>
 <form>začala</form>
-<tag lemma="začít-1_^(začnout)" src="auto" selected="1">VpQW---XR-AA---</tag>
+<tag>
+<AM lemma="začít-1_^(začnout)" src="auto">VpQW---XR-AA---</AM>
+<AM lemma="začít-1_:W_^(začnout)" src="manual" selected="1">VpQW---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-ln95041-093-p5s1w4">
 <src.rf>manual</src.rf>
@@ -1863,7 +1881,7 @@
 <AM lemma="matka-2_^(maminka)" src="auto">NNFP1-----A----</AM>
 <AM lemma="matka-2_^(maminka)" src="auto">NNFP4-----A----</AM>
 <AM lemma="matka-2_^(maminka)" src="auto">NNFP5-----A----</AM>
-<AM lemma="matka-2_^(maminka)" src="auto">NNFS2-----A----</AM>
+<AM lemma="matka-2_^(maminka)" src="auto" selected="1">NNFS2-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95041-093-p6s2w4">

@@ -312,7 +312,7 @@
 <AM lemma="nepřízeň" src="auto">NNFP1-----A----</AM>
 <AM lemma="nepřízeň" src="auto">NNFP4-----A----</AM>
 <AM lemma="nepřízeň" src="auto">NNFP5-----A----</AM>
-<AM lemma="nepřízeň" src="auto" recommended="1">NNFS2-----A----</AM>
+<AM lemma="nepřízeň" src="auto" recommended="1" selected="1">NNFS2-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920925-087-p2s3w7">
@@ -899,7 +899,7 @@
 <form>totiž</form>
 <tag>
 <AM lemma="totiž" src="orig">Db-------------</AM>
-<AM lemma="totiž-1" src="auto" recommended="1">J^-------------</AM>
+<AM lemma="totiž-1" src="auto" recommended="1" selected="1">J^-------------</AM>
 <AM lemma="totiž-2" src="auto">TT-------------</AM>
 </tag>
 </m>
@@ -1479,7 +1479,10 @@
 <LM>w#w-mf920925-087-p2s12w3</LM>
 </w.rf>
 <form>voluntarismus</form>
-<tag lemma="voluntarismus" src="orig" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="voluntarismus" src="orig">NNIS1-----A----</AM>
+<AM lemma="voluntarismus_,s_^(^DD**voluntarizmus)" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920925-087-p2s12w4">
 <src.rf>manual</src.rf>
@@ -1713,7 +1716,10 @@
 <LM>w#w-mf920925-087-p2s13w18</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-2" src="auto" selected="1">Dg-------2A----</tag>
+<tag>
+<AM lemma="hodně-2" src="auto">Dg-------2A----</AM>
+<AM lemma="více_^(více_+_2._p.,_více_peněz)" src="manual" selected="1">Ca--4----------</AM>
+</tag>
 </m>
 <m id="m-mf920925-087-p2s13w19">
 <src.rf>manual</src.rf>

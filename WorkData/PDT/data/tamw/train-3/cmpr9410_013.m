@@ -743,7 +743,10 @@
 <LM>w#w-cmpr9410-013-p9s1w7</LM>
 </w.rf>
 <form>začal</form>
-<tag lemma="začít-1_^(začnout)" src="auto" selected="1">VpYS---XR-AA---</tag>
+<tag>
+<AM lemma="začít-1_^(začnout)" src="auto">VpYS---XR-AA---</AM>
+<AM lemma="začít-1_:W_^(začnout)" src="manual" selected="1">VpYS---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-cmpr9410-013-p9s1w8">
 <src.rf>manual</src.rf>
@@ -856,7 +859,10 @@
 <LM>w#w-cmpr9410-013-p9s1w21</LM>
 </w.rf>
 <form>vypršel</form>
-<tag lemma="vypršet" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag>
+<AM lemma="vypršet" src="orig">VpYS---XR-AA---</AM>
+<AM lemma="vypršet_:W" src="manual" selected="1">VpYS---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-cmpr9410-013-p9s1w22">
 <src.rf>manual</src.rf>
@@ -900,7 +906,7 @@
 <form>Přesto</form>
 <tag>
 <AM lemma="přesto" src="orig">Dg-------1A----</AM>
-<AM lemma="přesto-1" src="auto">Db-------------</AM>
+<AM lemma="přesto-1" src="auto" selected="1">Db-------------</AM>
 <AM lemma="přesto-2" src="auto" recommended="1">J^-------------</AM>
 </tag>
 </m>
@@ -1141,7 +1147,7 @@
 <tag>
 <AM lemma="tedy" src="orig">Db-------------</AM>
 <AM lemma="tedy-1" src="auto">TT-------------</AM>
-<AM lemma="tedy-2" src="auto" recommended="1">J^-------------</AM>
+<AM lemma="tedy-2" src="auto" recommended="1" selected="1">J^-------------</AM>
 </tag>
 </m>
 <m id="m-cmpr9410-013-p9s4w10">
@@ -1472,7 +1478,10 @@
 <LM>w#w-cmpr9410-013-p10s1w34</LM>
 </w.rf>
 <form>Beranových</form>
-<tag lemma="beranův_^(*2)" src="orig" selected="1">AUMP2M---------</tag>
+<tag>
+<AM lemma="beranův_^(*2)" src="orig">AUMP2M---------</AM>
+<AM lemma="Beranův_;S_^(*2)" src="manual" selected="1">AUMP2M---------</AM>
+</tag>
 </m>
 <m id="m-cmpr9410-013-p10s1w35">
 <src.rf>manual</src.rf>
@@ -1594,7 +1603,10 @@
 <LM>w#w-cmpr9410-013-p10s2w14</LM>
 </w.rf>
 <form>vydala</form>
-<tag lemma="vydat-1_:W_^(emitovat:_cenné_papíry,_knihu,_zvuk,...)" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag>
+<AM lemma="vydat-1_:W_^(emitovat:_cenné_papíry,_knihu,_zvuk,...)" src="orig">VpQW---XR-AA---</AM>
+<AM lemma="vydat_:W" src="manual" selected="1">VpQW---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-cmpr9410-013-p10s2w15">
 <src.rf>manual</src.rf>
@@ -1831,7 +1843,7 @@
 </w.rf>
 <form>Síla</form>
 <tag>
-<AM lemma="Síla_;S" src="orig">NNMS1-----A----</AM>
+<AM lemma="Síla_;S" src="orig" selected="1">NNMS1-----A----</AM>
 <AM lemma="síla_^(fyzická,_vojenská;_moc)" src="auto" recommended="1">NNFS1-----A----</AM>
 </tag>
 </m>

@@ -19,7 +19,10 @@
 <LM>w#w-ln95049-078-p1s1w1</LM>
 </w.rf>
 <form>Stones</form>
-<tag lemma="Stones_;K_,t_^(Rolling_Stones)" src="orig" selected="1">NNIPX-----A----</tag>
+<tag>
+<AM lemma="Stones_;K_,t_^(Rolling_Stones)" src="orig">NNIPX-----A----</AM>
+<AM lemma="Stones-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln95049-078-p1s1w2">
 <src.rf>manual</src.rf>
@@ -51,7 +54,10 @@
 <LM>w#w-ln95049-078-p1s1w5</LM>
 </w.rf>
 <form>JAR</form>
-<tag lemma="JAR-1_:B_;G_^(Jihoafrická_republika)" src="auto" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="JAR-1_:B_;G_^(Jihoafrická_republika)" src="auto">NNFXX-----A---8</AM>
+<AM lemma="JAR-1_:B_;G_^(Jihoafrická_republika)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95049-078-p1s1w6">
 <src.rf>manual</src.rf>
@@ -103,7 +109,10 @@
 <LM>w#w-ln95049-078-p2s1Bw3</LM>
 </w.rf>
 <form>Rolling</form>
-<tag lemma="Rolling_;K_,t_^(Rolling_Stones)" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="Rolling_;K_,t_^(Rolling_Stones)" src="orig">AAXXX----1A----</AM>
+<AM lemma="Rolling-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln95049-078-p2s1Bw4">
 <src.rf>manual</src.rf>
@@ -111,7 +120,10 @@
 <LM>w#w-ln95049-078-p2s1Bw4</LM>
 </w.rf>
 <form>Stones</form>
-<tag lemma="Stones_;K_,t_^(Rolling_Stones)" src="orig" selected="1">NNIPX-----A----</tag>
+<tag>
+<AM lemma="Stones_;K_,t_^(Rolling_Stones)" src="orig">NNIPX-----A----</AM>
+<AM lemma="Stones-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln95049-078-p2s1Bw5">
 <src.rf>manual</src.rf>
@@ -273,7 +285,10 @@
 <LM>w#w-ln95049-078-p2s2w7</LM>
 </w.rf>
 <form>Fllis</form>
-<tag lemma="Fllis_;m_,t" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="Fllis_;m_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="Fllis-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln95049-078-p2s2w8">
 <src.rf>manual</src.rf>
@@ -281,7 +296,10 @@
 <LM>w#w-ln95049-078-p2s2w8</LM>
 </w.rf>
 <form>Park</form>
-<tag lemma="park" src="orig" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="park" src="orig">NNIS1-----A----</AM>
+<AM lemma="Park-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln95049-078-p2s2w9">
 <src.rf>manual</src.rf>
@@ -882,7 +900,10 @@
 <LM>w#w-ln95049-078-p2s6w16</LM>
 </w.rf>
 <form>Rolling</form>
-<tag lemma="Rolling_;K_,t_^(Rolling_Stones)" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="Rolling_;K_,t_^(Rolling_Stones)" src="orig">AAXXX----1A----</AM>
+<AM lemma="Rolling-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln95049-078-p2s6w17">
 <src.rf>manual</src.rf>
@@ -890,7 +911,10 @@
 <LM>w#w-ln95049-078-p2s6w17</LM>
 </w.rf>
 <form>Stones</form>
-<tag lemma="Stones_;K_,t_^(Rolling_Stones)" src="orig" selected="1">NNIPX-----A----</tag>
+<tag>
+<AM lemma="Stones_;K_,t_^(Rolling_Stones)" src="orig">NNIPX-----A----</AM>
+<AM lemma="Stones-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln95049-078-p2s6w18">
 <src.rf>manual</src.rf>
@@ -906,7 +930,10 @@
 <LM>w#w-ln95049-078-p2s6w19</LM>
 </w.rf>
 <form>rasismu</form>
-<tag lemma="rasismus" src="orig" selected="1">NNIS2-----A----</tag>
+<tag>
+<AM lemma="rasismus" src="orig">NNIS2-----A----</AM>
+<AM lemma="rasismus_,s_^(^DD**rasizmus)" src="manual" selected="1">NNIS2-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95049-078-p2s6w20">
 <src.rf>manual</src.rf>

@@ -127,7 +127,10 @@
 <LM>w#w-ln94204-129-p2s1Bw1</LM>
 </w.rf>
 <form>New</form>
-<tag lemma="New-1_;G_,t_^(součást_míst._jmen)" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="New-1_;G_,t_^(součást_míst._jmen)" src="orig">AAXXX----1A----</AM>
+<AM lemma="New-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94204-129-p2s1Bw2">
 <src.rf>manual</src.rf>
@@ -135,7 +138,10 @@
 <LM>w#w-ln94204-129-p2s1Bw2</LM>
 </w.rf>
 <form>York</form>
-<tag lemma="York-2_;G" src="orig" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="York-2_;G" src="orig">NNIS1-----A----</AM>
+<AM lemma="York-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94204-129-p2s1Bw3">
 <src.rf>manual</src.rf>
@@ -217,7 +223,10 @@
 <LM>w#w-ln94204-129-p2s1Cw6</LM>
 </w.rf>
 <form>Goran</form>
-<tag lemma="Goran_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Goran_;S" src="orig">NNMS1-----A----</AM>
+<AM lemma="Goran_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94204-129-p2s1Cw7">
 <src.rf>manual</src.rf>
@@ -289,7 +298,10 @@
 <LM>w#w-ln94204-129-p2s1Cw15</LM>
 </w.rf>
 <form>ATP</form>
-<tag lemma="ATP-1_:B_;K_;w_,t_^(Prof._sv._asociace_tenisových_hráčů)" src="auto" selected="1">NNNXX-----A---8</tag>
+<tag>
+<AM lemma="ATP-1_:B_;K_;w_,t_^(Prof._sv._asociace_tenisových_hráčů)" src="auto">NNNXX-----A---8</AM>
+<AM lemma="ATP-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94204-129-p2s1Cw16">
 <src.rf>manual</src.rf>
@@ -361,7 +373,10 @@
 <LM>w#w-ln94204-129-p2s1Cw24</LM>
 </w.rf>
 <form>Flushing</form>
-<tag lemma="Flushing_;G_,t_^(Flushing_Meadow)" src="auto" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="Flushing_;G_,t_^(Flushing_Meadow)" src="auto">AAXXX----1A----</AM>
+<AM lemma="Flushing-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94204-129-p2s1Cw25">
 <src.rf>manual</src.rf>
@@ -369,7 +384,10 @@
 <LM>w#w-ln94204-129-p2s1Cw25</LM>
 </w.rf>
 <form>Meadows</form>
-<tag lemma="Meadows_;G_,t" src="auto" selected="1">NNFPX-----A----</tag>
+<tag>
+<AM lemma="Meadows_;G_,t" src="auto">NNFPX-----A----</AM>
+<AM lemma="Meadows-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94204-129-p2s1Cw26">
 <src.rf>manual</src.rf>
@@ -459,7 +477,10 @@
 <LM>w#w-ln94204-129-p2s2w10</LM>
 </w.rf>
 <form>US</form>
-<tag lemma="US-3_:B_;m_,t_^(americký)" src="orig" selected="1">AAXXX----1A---8</tag>
+<tag>
+<AM lemma="US-3_:B_;m_,t_^(americký)" src="orig">AAXXX----1A---8</AM>
+<AM lemma="US-2_:B_^(americký)" src="manual" selected="1">AAXXX----1A----</AM>
+</tag>
 </m>
 <m id="m-ln94204-129-p2s2w11">
 <src.rf>manual</src.rf>
@@ -467,7 +488,10 @@
 <LM>w#w-ln94204-129-p2s2w11</LM>
 </w.rf>
 <form>Open</form>
-<tag lemma="Open-1_,t_^(v_názvu_např._sport._soutěží,_&quot;otevřený&quot;)" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="Open-1_,t_^(v_názvu_např._sport._soutěží,_&quot;otevřený&quot;)" src="orig">AAXXX----1A----</AM>
+<AM lemma="Open-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94204-129-p2s2w12">
 <src.rf>manual</src.rf>
@@ -589,7 +613,10 @@
 <LM>w#w-ln94204-129-p2s3w8</LM>
 </w.rf>
 <form>New</form>
-<tag lemma="New-1_;G_,t_^(součást_míst._jmen)" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="New-1_;G_,t_^(součást_míst._jmen)" src="orig">AAXXX----1A----</AM>
+<AM lemma="New-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94204-129-p2s3w9">
 <src.rf>manual</src.rf>
@@ -1037,7 +1064,7 @@
 <form>vůbec</form>
 <tag>
 <AM lemma="vůbec" src="orig">Db-------------</AM>
-<AM lemma="vůbec" src="auto" recommended="1">TT-------------</AM>
+<AM lemma="vůbec" src="auto" recommended="1" selected="1">TT-------------</AM>
 </tag>
 </m>
 <m id="m-ln94204-129-p3s3Aw8">
@@ -1410,7 +1437,10 @@
 <LM>w#w-ln94204-129-p3s4w12</LM>
 </w.rf>
 <form>Hamletova</form>
-<tag lemma="Hamletův_;Y_^(*2)" src="orig" selected="1">AUIS2M---------</tag>
+<tag>
+<AM lemma="Hamletův_;Y_^(*2)" src="orig">AUIS2M---------</AM>
+<AM lemma="Hamletův_;S_;Y_^(*2)" src="manual" selected="1">AUIS2M---------</AM>
+</tag>
 </m>
 <m id="m-ln94204-129-p3s4w13">
 <src.rf>manual</src.rf>
@@ -1514,7 +1544,10 @@
 <LM>w#w-ln94204-129-p3s4w25</LM>
 </w.rf>
 <form>Open</form>
-<tag lemma="Open-1_,t_^(v_názvu_např._sport._soutěží,_&quot;otevřený&quot;)" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="Open-1_,t_^(v_názvu_např._sport._soutěží,_&quot;otevřený&quot;)" src="orig">AAXXX----1A----</AM>
+<AM lemma="Open-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94204-129-p3s4w26">
 <src.rf>manual</src.rf>
@@ -1902,7 +1935,10 @@
 <LM>w#w-ln94204-129-p3s6w14</LM>
 </w.rf>
 <form>Flushing</form>
-<tag lemma="Flushing_;G_,t_^(Flushing_Meadow)" src="auto" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="Flushing_;G_,t_^(Flushing_Meadow)" src="auto">AAXXX----1A----</AM>
+<AM lemma="Flushing-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94204-129-p3s6w15">
 <src.rf>manual</src.rf>
@@ -1910,7 +1946,10 @@
 <LM>w#w-ln94204-129-p3s6w15</LM>
 </w.rf>
 <form>Meadows</form>
-<tag lemma="Meadows_;G_,t" src="auto" selected="1">NNFPX-----A----</tag>
+<tag>
+<AM lemma="Meadows_;G_,t" src="auto">NNFPX-----A----</AM>
+<AM lemma="Meadows-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94204-129-p3s6w16">
 <src.rf>manual</src.rf>
@@ -2026,7 +2065,7 @@
 <form>tedy</form>
 <tag>
 <AM lemma="tedy" src="orig">Db-------------</AM>
-<AM lemma="tedy-1" src="auto" recommended="1">TT-------------</AM>
+<AM lemma="tedy-1" src="auto" recommended="1" selected="1">TT-------------</AM>
 <AM lemma="tedy-2" src="auto">J^-------------</AM>
 </tag>
 </m>
@@ -2174,7 +2213,10 @@
 <LM>w#w-ln94204-129-p3s8Aw4</LM>
 </w.rf>
 <form>našel</form>
-<tag lemma="najít" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag>
+<AM lemma="najít" src="orig">VpYS---XR-AA---</AM>
+<AM lemma="najít_:;W" src="manual" selected="1">VpYS---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-ln94204-129-p3s8Aw5">
 <src.rf>manual</src.rf>
@@ -2250,7 +2292,7 @@
 <form>raději</form>
 <tag>
 <AM lemma="raději" src="orig">Dg-------2A----</AM>
-<AM lemma="rád" src="auto" recommended="1">Dg-------2A----</AM>
+<AM lemma="rád" src="auto" recommended="1" selected="1">Dg-------2A----</AM>
 </tag>
 </m>
 <m id="m-ln94204-129-p3s8Bw5">
@@ -2357,7 +2399,10 @@
 <LM>w#w-ln94204-129-p3s9w9</LM>
 </w.rf>
 <form>ATP</form>
-<tag lemma="ATP-1_:B_;K_;w_,t_^(Prof._sv._asociace_tenisových_hráčů)" src="auto" selected="1">NNNXX-----A---8</tag>
+<tag>
+<AM lemma="ATP-1_:B_;K_;w_,t_^(Prof._sv._asociace_tenisových_hráčů)" src="auto">NNNXX-----A---8</AM>
+<AM lemma="ATP-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94204-129-p3s9w10">
 <src.rf>manual</src.rf>
@@ -2417,6 +2462,7 @@
 <AM lemma="challenger" src="orig">NNMP3-----A----</AM>
 <AM lemma="Challenger_;R_^(letadlo_Challenger)" src="auto">NNIP3-----A----</AM>
 <AM lemma="challenger_,t_^(tenisový_turnaj)" src="auto" recommended="1">NNIP3-----A----</AM>
+<AM lemma="challenger_^(tenisový_turnaj)" src="manual" selected="1">NNIP3-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94204-129-p3s9w17">
@@ -2481,7 +2527,10 @@
 <LM>w#w-ln94204-129-p3s9w24</LM>
 </w.rf>
 <form>jen</form>
-<tag lemma="jen-1" src="auto" selected="1">TT-------------</tag>
+<tag>
+<AM lemma="jen-1" src="auto">TT-------------</AM>
+<AM lemma="jen-4_^(pouze)" src="manual" selected="1">Db-------------</AM>
+</tag>
 </m>
 <m id="m-ln94204-129-p3s9w25">
 <src.rf>manual</src.rf>

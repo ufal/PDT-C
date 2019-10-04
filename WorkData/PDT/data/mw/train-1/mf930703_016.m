@@ -89,6 +89,7 @@
 <AM lemma="kar-99_:B_;S" src="orig">NNXXX-----A---8</AM>
 <AM lemma="kar" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="kar" src="auto">NNIS4-----A----</AM>
+<AM lemma="kar-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930703-016-p2s1w4">
@@ -137,7 +138,10 @@
 <LM>w#w-mf930703-016-p2s1w9</LM>
 </w.rf>
 <form>má</form>
-<tag lemma="mít" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag>
+<AM lemma="mít" src="orig">VB-S---3P-AA---</AM>
+<AM lemma="mít_:T" src="manual" selected="1">VB-S---3P-AA---</AM>
+</tag>
 </m>
 <m id="m-mf930703-016-p2s1w10">
 <src.rf>manual</src.rf>
@@ -313,7 +317,10 @@
 <LM>w#w-mf930703-016-p2s1w31</LM>
 </w.rf>
 <form>popřela</form>
-<tag lemma="popřít" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag>
+<AM lemma="popřít" src="orig">VpQW---XR-AA---</AM>
+<AM lemma="popřít_:W" src="manual" selected="1">VpQW---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-mf930703-016-p2s1w32">
 <src.rf>manual</src.rf>
@@ -395,7 +402,10 @@
 <LM>w#w-mf930703-016-p3s1w9</LM>
 </w.rf>
 <form>hynou</form>
-<tag lemma="hynout" src="orig" selected="1">VB-P---3P-AA---</tag>
+<tag>
+<AM lemma="hynout" src="orig">VB-P---3P-AA---</AM>
+<AM lemma="hynout_:T" src="manual" selected="1">VB-P---3P-AA---</AM>
+</tag>
 </m>
 <m id="m-mf930703-016-p3s1w10">
 <src.rf>manual</src.rf>
@@ -981,7 +991,10 @@
 <LM>w#w-mf930703-016-p4s1w4</LM>
 </w.rf>
 <form>uvedla</form>
-<tag lemma="uvést" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag>
+<AM lemma="uvést" src="orig">VpQW---XR-AA---</AM>
+<AM lemma="uvést_:W" src="manual" selected="1">VpQW---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-mf930703-016-p4s1w5">
 <src.rf>manual</src.rf>
@@ -1203,7 +1216,7 @@
 <AM lemma="penzión" src="orig">NNIS6-----A----</AM>
 <AM lemma="penzión" src="auto">NNIS2-----A----</AM>
 <AM lemma="penzión" src="auto">NNIS3-----A----</AM>
-<AM lemma="penzión" src="auto" recommended="1">NNIS6-----A---1</AM>
+<AM lemma="penzión" src="auto" recommended="1" selected="1">NNIS6-----A---1</AM>
 </tag>
 </m>
 <m id="m-mf930703-016-p4s2w7">
@@ -1246,7 +1259,10 @@
 <LM>w#w-mf930703-016-p4s3w2</LM>
 </w.rf>
 <form>má</form>
-<tag lemma="mít" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag>
+<AM lemma="mít" src="orig">VB-S---3P-AA---</AM>
+<AM lemma="mít_:T" src="manual" selected="1">VB-S---3P-AA---</AM>
+</tag>
 </m>
 <m id="m-mf930703-016-p4s3w3">
 <src.rf>manual</src.rf>

@@ -237,7 +237,10 @@
 <LM>w#w-lnd92255-114-p2s1w27</LM>
 </w.rf>
 <form>J</form>
-<tag lemma="J-0_:B_;Y" src="orig" selected="1">NNMXX-----A---8</tag>
+<tag>
+<AM lemma="J-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
+<AM lemma="J-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd92255-114-p2s1w28">
 <src.rf>manual</src.rf>
@@ -449,7 +452,11 @@
 <LM>w#w-lnd92255-114-p4s1w1</LM>
 </w.rf>
 <form>ad</form>
-<tag lemma="ad_,t" src="orig" selected="1">RR--1----------</tag>
+<tag>
+<AM lemma="ad_,t" src="orig">RR--1----------</AM>
+<AM lemma="ad-99_:B_;S" src="manual">NNXXX-----A----</AM>
+<AM lemma="ad-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-lnd92255-114-p4s1w2">
 <src.rf>manual</src.rf>
@@ -467,7 +474,10 @@
 <LM>w#w-lnd92255-114-p5s1w1</LM>
 </w.rf>
 <form>mistr</form>
-<tag lemma="mistr" src="orig" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="mistr" src="orig">NNMS1-----A----</AM>
+<AM lemma="mistrovství" src="manual" selected="1">NNNS1-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd92255-114-p5s1w2">
 <src.rf>manual</src.rf>
@@ -675,7 +685,11 @@
 <LM>w#w-lnd92255-114-p7s1w1</LM>
 </w.rf>
 <form>ad</form>
-<tag lemma="ad_,t" src="orig" selected="1">RR--1----------</tag>
+<tag>
+<AM lemma="ad_,t" src="orig">RR--1----------</AM>
+<AM lemma="ad-99_:B_;S" src="manual">NNXXX-----A----</AM>
+<AM lemma="ad-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-lnd92255-114-p7s1w2">
 <src.rf>manual</src.rf>
@@ -997,7 +1011,12 @@
 <LM>w#w-lnd92255-114-p8s1w39</LM>
 </w.rf>
 <form>Svéd</form>
-<tag lemma="Švédsko_:B_;G" src="orig" selected="1">NNNXX-----A---8</tag>
+<tag lemma="Švédsko_:B_;G" src="orig">NNNXX-----A---8</tag>
+<comment>
+<LM type="New Form">
+<text>Švéd</text>
+</LM>
+</comment>
 </m>
 <m id="m-lnd92255-114-p8s1w40">
 <src.rf>manual</src.rf>
@@ -1127,7 +1146,11 @@
 <LM>w#w-lnd92255-114-p9s1w1</LM>
 </w.rf>
 <form>ad</form>
-<tag lemma="ad_,t" src="orig" selected="1">RR--1----------</tag>
+<tag>
+<AM lemma="ad_,t" src="orig">RR--1----------</AM>
+<AM lemma="ad-99_:B_;S" src="manual">NNXXX-----A----</AM>
+<AM lemma="ad-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-lnd92255-114-p9s1w2">
 <src.rf>manual</src.rf>
@@ -1267,7 +1290,10 @@
 <LM>w#w-lnd92255-114-p10s2w14</LM>
 </w.rf>
 <form>PMEZ</form>
-<tag lemma="PMEZ_:B_;K_^(Pohár_mistrů_evropských_zemí)" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="PMEZ_:B_;K_^(Pohár_mistrů_evropských_zemí)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="PMEZ-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd92255-114-p10s2w15">
 <src.rf>manual</src.rf>

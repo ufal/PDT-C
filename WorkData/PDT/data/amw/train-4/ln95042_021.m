@@ -762,7 +762,10 @@
 <LM>w#w-ln95042-021-p1s4w9</LM>
 </w.rf>
 <form>Odeon</form>
-<tag lemma="Odeon_;Y" src="orig" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="Odeon_;Y" src="orig">NNIS1-----A----</AM>
+<AM lemma="Odeon-2_;K" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95042-021-p1s4w10">
 <src.rf>manual</src.rf>
@@ -1514,7 +1517,7 @@
 <AM lemma="leč-2_^(kniž.;_leč_by...)" src="orig">J,-------------</AM>
 <AM lemma="leč-1_^(lov;_poslední_leč...)" src="auto">NNFS1-----A----</AM>
 <AM lemma="leč-1_^(lov;_poslední_leč...)" src="auto">NNFS4-----A----</AM>
-<AM lemma="leč-3_^(ale)" src="auto" recommended="1">J^-------------</AM>
+<AM lemma="leč-3_^(ale)" src="auto" recommended="1" selected="1">J^-------------</AM>
 <AM lemma="lečo_^(jídlo)" src="auto">NNNP2-----A----</AM>
 <AM lemma="léčit" src="auto">Vi-S---2--A----</AM>
 <AM lemma="léčit" src="auto">Vi-S---3--A---4</AM>

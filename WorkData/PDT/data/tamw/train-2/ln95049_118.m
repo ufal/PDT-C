@@ -207,7 +207,10 @@
 <LM>w#w-ln95049-118-p2s1Bw18</LM>
 </w.rf>
 <form>Andrého</form>
-<tag lemma="André_;Y_,t" src="auto" selected="1">NNMS2-----A----</tag>
+<tag>
+<AM lemma="André_;Y_,t" src="auto">NNMS2-----A----</AM>
+<AM lemma="André_;Y" src="manual" selected="1">NNMS2-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95049-118-p2s1Bw19">
 <src.rf>manual</src.rf>
@@ -370,7 +373,7 @@
 </w.rf>
 <form>Isabelle</form>
 <tag>
-<AM lemma="Isabelle_;Y" src="orig">NNFXX-----A----</AM>
+<AM lemma="Isabelle_;Y" src="orig" selected="1">NNFXX-----A----</AM>
 <AM lemma="Isabella_;Y" src="auto" recommended="1">NNFS3-----A----</AM>
 <AM lemma="Isabella_;Y" src="auto">NNFS6-----A----</AM>
 </tag>
@@ -430,7 +433,7 @@
 </w.rf>
 <form>Margot</form>
 <tag>
-<AM lemma="Margot-2_;Y" src="orig">NNFS1-----A----</AM>
+<AM lemma="Margot-2_;Y" src="orig" selected="1">NNFS1-----A----</AM>
 <AM lemma="Margot_;R" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Margot_;R" src="auto">NNIS4-----A----</AM>
 </tag>
@@ -638,7 +641,7 @@
 </w.rf>
 <form>Margot</form>
 <tag>
-<AM lemma="Margot-2_;Y" src="orig">NNFS1-----A----</AM>
+<AM lemma="Margot-2_;Y" src="orig" selected="1">NNFS1-----A----</AM>
 <AM lemma="Margot_;R" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Margot_;R" src="auto">NNIS4-----A----</AM>
 </tag>
@@ -661,7 +664,7 @@
 <AM lemma="Patrice_;Y" src="orig">NNMS2-----A----</AM>
 <AM lemma="Patric_;Y" src="auto">NNMS5-----A----</AM>
 <AM lemma="Patrice-1_;Y_^(žena)" src="auto">NNFSX-----A----</AM>
-<AM lemma="Patrice-2_;Y_^(muž)" src="auto" recommended="1">NNMSX-----A----</AM>
+<AM lemma="Patrice-2_;Y_^(muž)" src="auto" recommended="1" selected="1">NNMSX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95049-118-p2s4w11">
@@ -866,7 +869,7 @@
 <form>Bergeracu</form>
 <tag>
 <AM lemma="Bergerac_;G" src="orig">NNIS2-----A----</AM>
-<AM lemma="Bergerac_;G" src="auto" recommended="1">NNIS2-----A---1</AM>
+<AM lemma="Bergerac_;G" src="auto" recommended="1" selected="1">NNIS2-----A---1</AM>
 <AM lemma="Bergerac_;G" src="auto">NNIS3-----A---1</AM>
 <AM lemma="Bergerac_;G" src="auto">NNIS5-----A---1</AM>
 <AM lemma="Bergerac_;G" src="auto">NNIS6-----A---1</AM>
@@ -1226,7 +1229,10 @@
 <LM>w#w-ln95049-118-p3s1w14</LM>
 </w.rf>
 <form>Mika</form>
-<tag lemma="Mike_;Y_,t" src="orig" selected="1">NNMS2-----A----</tag>
+<tag>
+<AM lemma="Mike_;Y_,t" src="orig">NNMS2-----A----</AM>
+<AM lemma="Mike_;Y" src="manual" selected="1">NNMS2-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95049-118-p3s1w15">
 <src.rf>manual</src.rf>

@@ -69,7 +69,10 @@
 <LM>w#w-ln94205-32-p2s1Aw3</LM>
 </w.rf>
 <form>mrk</form>
-<tag lemma="mrk-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="mrk-99_:B_;S" src="orig">NNXXX-----A---8</AM>
+<AM lemma="mrk-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94205-32-p2s1Aw4">
 <src.rf>manual</src.rf>
@@ -265,7 +268,10 @@
 <LM>w#w-ln94205-32-p2s2w4</LM>
 </w.rf>
 <form>DPH</form>
-<tag lemma="DPH-1_:B_;b" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="DPH-1_:B_;b" src="orig">NNFXX-----A---8</AM>
+<AM lemma="DPH-1_:B_^(daň_z_přidané_hodnoty)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94205-32-p2s2w5">
 <src.rf>manual</src.rf>
@@ -395,7 +401,10 @@
 <LM>w#w-ln94205-32-p2s3w8</LM>
 </w.rf>
 <form>DPH</form>
-<tag lemma="DPH-1_:B_;b" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="DPH-1_:B_;b" src="orig">NNFXX-----A---8</AM>
+<AM lemma="DPH-1_:B_^(daň_z_přidané_hodnoty)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94205-32-p2s3w9">
 <src.rf>manual</src.rf>
@@ -613,7 +622,10 @@
 <LM>w#w-ln94205-32-p3s1w21</LM>
 </w.rf>
 <form>EU</form>
-<tag lemma="EU-1_:B_;K_;p_^(Evropská_Unie)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="EU-1_:B_;K_;p_^(Evropská_Unie)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="EU-1_:B_;K_^(Evropská_Unie)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94205-32-p3s1w22">
 <src.rf>manual</src.rf>
@@ -663,7 +675,10 @@
 <LM>w#w-ln94205-32-p3s2w5</LM>
 </w.rf>
 <form>DPH</form>
-<tag lemma="DPH-1_:B_;b" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="DPH-1_:B_;b" src="orig">NNFXX-----A---8</AM>
+<AM lemma="DPH-1_:B_^(daň_z_přidané_hodnoty)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94205-32-p3s2w6">
 <src.rf>manual</src.rf>
@@ -1011,7 +1026,10 @@
 <LM>w#w-ln94205-32-p3s4w13</LM>
 </w.rf>
 <form>DPH</form>
-<tag lemma="DPH-1_:B_;b" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="DPH-1_:B_;b" src="orig">NNFXX-----A---8</AM>
+<AM lemma="DPH-1_:B_^(daň_z_přidané_hodnoty)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94205-32-p3s4w14">
 <src.rf>manual</src.rf>
@@ -1239,7 +1257,10 @@
 <LM>w#w-ln94205-32-p3s6w7</LM>
 </w.rf>
 <form>DPH</form>
-<tag lemma="DPH-1_:B_;b" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="DPH-1_:B_;b" src="orig">NNFXX-----A---8</AM>
+<AM lemma="DPH-1_:B_^(daň_z_přidané_hodnoty)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94205-32-p3s6w8">
 <src.rf>manual</src.rf>
@@ -1419,7 +1440,7 @@
 <form>zdaněny</form>
 <tag>
 <AM lemma="zdaňovat_^(vypočítat_daň)" src="orig">VsTP---XX-AP---</AM>
-<AM lemma="zdanit_:W_^(vypočítat_daň)" src="auto" recommended="1">VsTP---XX-AP---</AM>
+<AM lemma="zdanit_:W_^(vypočítat_daň)" src="auto" recommended="1" selected="1">VsTP---XX-AP---</AM>
 </tag>
 </m>
 <m id="m-ln94205-32-p3s7w9">
@@ -1484,7 +1505,10 @@
 <LM>w#w-ln94205-32-p3s7w16</LM>
 </w.rf>
 <form>benzinů</form>
-<tag lemma="benzín" src="orig" selected="1">NNIP2-----A----</tag>
+<tag>
+<AM lemma="benzín" src="orig">NNIP2-----A----</AM>
+<AM lemma="benzin_,s_^(^DD**benzín)" src="manual" selected="1">NNIP2-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94205-32-p3s7w17">
 <src.rf>manual</src.rf>
@@ -1534,7 +1558,10 @@
 <LM>w#w-ln94205-32-p4s1w1</LM>
 </w.rf>
 <form>Více</form>
-<tag lemma="hodně-2" src="auto" selected="1">Dg-------2A----</tag>
+<tag>
+<AM lemma="hodně-2" src="auto">Dg-------2A----</AM>
+<AM lemma="hodně-3" src="manual" selected="1">Dg-------2A----</AM>
+</tag>
 </m>
 <m id="m-ln94205-32-p4s1w2">
 <src.rf>manual</src.rf>
@@ -1550,7 +1577,10 @@
 <LM>w#w-ln94205-32-p4s1w3</LM>
 </w.rf>
 <form>straně</form>
-<tag lemma="strana-4_^(v_knize,_rukopise,...)" src="orig" selected="1">NNFS6-----A----</tag>
+<tag>
+<AM lemma="strana-4_^(v_knize,_rukopise,...)" src="orig">NNFS6-----A----</AM>
+<AM lemma="strana" src="manual" selected="1">NNFS6-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94205-32-p4s1w4">
 <src.rf>manual</src.rf>

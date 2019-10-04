@@ -353,7 +353,10 @@
 <LM>w#w-ln95042-044-p2s2w8</LM>
 </w.rf>
 <form>de</form>
-<tag lemma="de_,t_^(z_franc._de,_zejm._ve_jménech)" src="orig" selected="1">RR--1----------</tag>
+<tag>
+<AM lemma="de_,t_^(z_franc._de,_zejm._ve_jménech)" src="orig">RR--1----------</AM>
+<AM lemma="de-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln95042-044-p2s2w9">
 <src.rf>manual</src.rf>
@@ -483,7 +486,10 @@
 <LM>w#w-ln95042-044-p2s3w13</LM>
 </w.rf>
 <form>de</form>
-<tag lemma="de_,t_^(z_franc._de,_zejm._ve_jménech)" src="orig" selected="1">RR--1----------</tag>
+<tag>
+<AM lemma="de_,t_^(z_franc._de,_zejm._ve_jménech)" src="orig">RR--1----------</AM>
+<AM lemma="de-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln95042-044-p2s3w14">
 <src.rf>manual</src.rf>
@@ -491,7 +497,10 @@
 <LM>w#w-ln95042-044-p2s3w14</LM>
 </w.rf>
 <form>Córdoba</form>
-<tag lemma="Córdoba_;G" src="orig" selected="1">NNFS1-----A----</tag>
+<tag>
+<AM lemma="Córdoba_;G" src="orig">NNFS1-----A----</AM>
+<AM lemma="Córdoba-2_;S" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95042-044-p2s3w15">
 <src.rf>manual</src.rf>
@@ -507,7 +516,10 @@
 <LM>w#w-ln95042-044-p2s3w16</LM>
 </w.rf>
 <form>Eduardo</form>
-<tag lemma="Eduardo_;Y_,t" src="auto" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Eduardo_;Y_,t" src="auto">NNMS1-----A----</AM>
+<AM lemma="Eduardo_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95042-044-p2s3w17">
 <src.rf>manual</src.rf>
@@ -516,7 +528,7 @@
 </w.rf>
 <form>Ponce</form>
 <tag>
-<AM lemma="Ponce_;S" src="orig">NNMS1-----A----</AM>
+<AM lemma="Ponce_;S" src="orig" selected="1">NNMS1-----A----</AM>
 <AM lemma="Ponec_;S" src="auto">NNMP4-----A----</AM>
 <AM lemma="Ponec_;S" src="auto" recommended="1">NNMS2-----A----</AM>
 <AM lemma="Ponec_;S" src="auto">NNMS4-----A----</AM>

@@ -27,7 +27,10 @@
 <LM>w#w-mf930703-013-p1s1w2</LM>
 </w.rf>
 <form>ČSSD</form>
-<tag lemma="ČSSD-1_:B_;K_;p_^(Česká_strana_sociálně-demokratická)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ČSSD-1_:B_;K_;p_^(Česká_strana_sociálně-demokratická)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČSSD-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-mf930703-013-p1s1w3">
 <src.rf>manual</src.rf>
@@ -169,7 +172,7 @@
 <AM lemma="obřad" src="orig">NNIS6-----A----</AM>
 <AM lemma="obřad" src="auto">NNIS2-----A----</AM>
 <AM lemma="obřad" src="auto">NNIS3-----A----</AM>
-<AM lemma="obřad" src="auto" recommended="1">NNIS6-----A---1</AM>
+<AM lemma="obřad" src="auto" recommended="1" selected="1">NNIS6-----A---1</AM>
 </tag>
 </m>
 <m id="m-mf930703-013-p1s2w5">
@@ -269,6 +272,7 @@
 <tag>
 <AM lemma="USA_;G" src="orig">NNIPX-----A----</AM>
 <AM lemma="USA_:B_;K_,t_^(United_States_of_America)" src="auto" recommended="1">NNIPX-----A---8</AM>
+<AM lemma="USA_:B_;K_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-mf930703-013-p1s2w17">

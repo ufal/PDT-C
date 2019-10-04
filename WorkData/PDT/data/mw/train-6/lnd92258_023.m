@@ -63,7 +63,10 @@
 <LM>w#w-lnd92258-023-p3s1w3</LM>
 </w.rf>
 <form>ge</form>
-<tag lemma="ge-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="ge-99_:B_;S" src="orig">NNXXX-----A---8</AM>
+<AM lemma="ge-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92258-023-p3s1w4">
 <src.rf>manual</src.rf>
@@ -1019,7 +1022,10 @@
 <LM>w#w-lnd92258-023-p3s7w1</LM>
 </w.rf>
 <form>FNM</form>
-<tag lemma="FNM-1_:B_;K_;p_^(Fond_národního_majetku)" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="FNM-1_:B_;K_;p_^(Fond_národního_majetku)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="FNM-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd92258-023-p3s7w2">
 <src.rf>manual</src.rf>

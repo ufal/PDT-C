@@ -519,7 +519,10 @@
 <LM>w#w-ln95046-055-p1s2w32</LM>
 </w.rf>
 <form>víc</form>
-<tag lemma="hodně-2" src="auto" selected="1">Dg-------2A---1</tag>
+<tag>
+<AM lemma="hodně-2" src="auto">Dg-------2A---1</AM>
+<AM lemma="více_^(více_+_2._p.,_více_peněz)" src="manual" selected="1">Ca--1---------1</AM>
+</tag>
 </m>
 <m id="m-ln95046-055-p1s2w33">
 <src.rf>manual</src.rf>
@@ -707,7 +710,10 @@
 <LM>w#w-ln95046-055-p1s4w5</LM>
 </w.rf>
 <form>Poláka</form>
-<tag lemma="Polák_;E" src="auto" selected="1">NNMS2-----A----</tag>
+<tag>
+<AM lemma="Polák_;E" src="auto">NNMS2-----A----</AM>
+<AM lemma="Polák_;E_;S" src="manual" selected="1">NNMS2-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95046-055-p1s4w6">
 <src.rf>manual</src.rf>

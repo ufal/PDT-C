@@ -143,7 +143,10 @@
 <LM>w#w-ln95048-159-p2s1Bw10</LM>
 </w.rf>
 <form>Lufthansa</form>
-<tag lemma="Lufthansa_;K" src="orig" selected="1">NNFS1-----A----</tag>
+<tag>
+<AM lemma="Lufthansa_;K" src="orig">NNFS1-----A----</AM>
+<AM lemma="Lufthansa-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln95048-159-p2s1Bw11">
 <src.rf>manual</src.rf>
@@ -151,7 +154,10 @@
 <LM>w#w-ln95048-159-p2s1Bw11</LM>
 </w.rf>
 <form>Group</form>
-<tag lemma="Group-1_;K_,t_^(obv._souč._názvu_firem,_&quot;skupina&quot;)" src="orig" selected="1">NNFXX-----A----</tag>
+<tag>
+<AM lemma="Group-1_;K_,t_^(obv._souč._názvu_firem,_&quot;skupina&quot;)" src="orig">NNFXX-----A----</AM>
+<AM lemma="Group-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln95048-159-p2s1Bw12">
 <src.rf>manual</src.rf>
@@ -257,7 +263,10 @@
 <LM>w#w-ln95048-159-p2s2w12</LM>
 </w.rf>
 <form>Lufthansa</form>
-<tag lemma="Lufthansa_;K" src="orig" selected="1">NNFS1-----A----</tag>
+<tag>
+<AM lemma="Lufthansa_;K" src="orig">NNFS1-----A----</AM>
+<AM lemma="Lufthansa-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln95048-159-p2s2w13">
 <src.rf>manual</src.rf>
@@ -265,7 +274,10 @@
 <LM>w#w-ln95048-159-p2s2w13</LM>
 </w.rf>
 <form>Cityline</form>
-<tag lemma="Cityline_;K_,t" src="orig" selected="1">NNFXX-----A----</tag>
+<tag>
+<AM lemma="Cityline_;K_,t" src="orig">NNFXX-----A----</AM>
+<AM lemma="Cityline-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln95048-159-p2s2w14">
 <src.rf>manual</src.rf>
@@ -331,7 +343,10 @@
 <LM>w#w-ln95048-159-p2s2w21</LM>
 </w.rf>
 <form>mil</form>
-<tag lemma="milión`1000000_:B" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="milión`1000000_:B" src="orig">NNIXX-----A---8</AM>
+<AM lemma="milión`1000000" src="manual" selected="1">NNIXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln95048-159-p2s2w22">
 <src.rf>manual</src.rf>
@@ -471,7 +486,10 @@
 <LM>w#w-ln95048-159-p2s3w14</LM>
 </w.rf>
 <form>mil</form>
-<tag lemma="milión`1000000_:B" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="milión`1000000_:B" src="orig">NNIXX-----A---8</AM>
+<AM lemma="milión`1000000" src="manual" selected="1">NNIXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln95048-159-p2s3w15">
 <src.rf>manual</src.rf>
@@ -948,7 +966,10 @@
 <LM>w#w-ln95048-159-p4s1w3</LM>
 </w.rf>
 <form>Lufthansa</form>
-<tag lemma="Lufthansa_;K" src="orig" selected="1">NNFS1-----A----</tag>
+<tag>
+<AM lemma="Lufthansa_;K" src="orig">NNFS1-----A----</AM>
+<AM lemma="Lufthansa-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln95048-159-p4s1w4">
 <src.rf>manual</src.rf>
@@ -956,7 +977,10 @@
 <LM>w#w-ln95048-159-p4s1w4</LM>
 </w.rf>
 <form>Group</form>
-<tag lemma="Group-1_;K_,t_^(obv._souč._názvu_firem,_&quot;skupina&quot;)" src="orig" selected="1">NNFXX-----A----</tag>
+<tag>
+<AM lemma="Group-1_;K_,t_^(obv._souč._názvu_firem,_&quot;skupina&quot;)" src="orig">NNFXX-----A----</AM>
+<AM lemma="Group-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln95048-159-p4s1w5">
 <src.rf>manual</src.rf>
@@ -1199,7 +1223,11 @@
 <LM>w#w-ln95048-159-p4s2w12</LM>
 </w.rf>
 <form>mil</form>
-<tag lemma="milión`1000000_:B" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="milión`1000000_:B" src="orig">NNIXX-----A---8</AM>
+<AM lemma="milión`1000000_:B" src="manual">NNIXX-----A---8</AM>
+<AM lemma="milión`1000000" src="manual" selected="1">NNIXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln95048-159-p4s2w13">
 <src.rf>manual</src.rf>
@@ -1215,7 +1243,10 @@
 <LM>w#w-ln95048-159-p4s2w14</LM>
 </w.rf>
 <form>DEM</form>
-<tag lemma="DEM_:B_;b_^(německá_marka)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="DEM_:B_;b_^(německá_marka)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="DEM-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln95048-159-p4s2w15">
 <src.rf>manual</src.rf>
@@ -1385,7 +1416,10 @@
 <LM>w#w-ln95048-159-p5s1w12</LM>
 </w.rf>
 <form>ČR</form>
-<tag lemma="ČR-1_:B_;G_^(Česká_republika)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95048-159-p5s1w13">
 <src.rf>manual</src.rf>

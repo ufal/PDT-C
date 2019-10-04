@@ -103,7 +103,10 @@
 <LM>w#w-mf920925-054-p2s2w6</LM>
 </w.rf>
 <form>km</form>
-<tag lemma="km-1`kilometr_:B" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="km-1`kilometr_:B" src="orig">NNIXX-----A---8</AM>
+<AM lemma="kilometr" src="manual" selected="1">NNIXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-mf920925-054-p2s2w7">
 <src.rf>manual</src.rf>
@@ -265,7 +268,10 @@
 <LM>w#w-mf920925-054-p2s3w4</LM>
 </w.rf>
 <form>Belg</form>
-<tag lemma="Belg_;E" src="orig" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Belg_;E" src="orig">NNMS1-----A----</AM>
+<AM lemma="Belgie_;G" src="manual" selected="1">NNFXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-mf920925-054-p2s3w5">
 <src.rf>manual</src.rf>
@@ -323,7 +329,10 @@
 <LM>w#w-mf920925-054-p2s4w2</LM>
 </w.rf>
 <form>vede</form>
-<tag lemma="vést" src="auto" selected="1">VB-S---3P-AA---</tag>
+<tag>
+<AM lemma="vést" src="auto">VB-S---3P-AA---</AM>
+<AM lemma="vést_:T" src="manual" selected="1">VB-S---3P-AA---</AM>
+</tag>
 </m>
 <m id="m-mf920925-054-p2s4w3">
 <src.rf>manual</src.rf>
@@ -373,7 +382,10 @@
 <LM>w#w-mf920925-054-p4s1w4</LM>
 </w.rf>
 <form>zemřel</form>
-<tag lemma="zemřít" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag>
+<AM lemma="zemřít" src="orig">VpYS---XR-AA---</AM>
+<AM lemma="zemřít_:W" src="manual" selected="1">VpYS---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-mf920925-054-p4s1w5">
 <src.rf>manual</src.rf>
@@ -559,7 +571,10 @@
 <LM>w#w-mf920925-054-p5s1w5</LM>
 </w.rf>
 <form>V</form>
-<tag lemma="V-5_:B_;G" src="orig" selected="1">AAXXX----1A---8</tag>
+<tag>
+<AM lemma="V-5_:B_;G" src="orig">AAXXX----1A---8</AM>
+<AM lemma="V-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920925-054-p5s1w6">
 <src.rf>manual</src.rf>
@@ -780,6 +795,8 @@
 <tag>
 <AM lemma="všechen_:B" src="orig">PLXXX---------8</AM>
 <AM lemma="vysokoškolský_:B" src="auto" recommended="1">AAXXX----1A---8</AM>
+<AM lemma="vš_:B" src="manual">NNXXX-----A---8</AM>
+<AM lemma="vš-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920925-054-p6s1w14">
@@ -796,7 +813,10 @@
 <LM>w#w-mf920925-054-p6s1w15</LM>
 </w.rf>
 <form>SKP</form>
-<tag lemma="SKP_:B_;K" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="SKP_:B_;K" src="orig">NNXXX-----A---8</AM>
+<AM lemma="SKP-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920925-054-p6s1w16">
 <src.rf>manual</src.rf>

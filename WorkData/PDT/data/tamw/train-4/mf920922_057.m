@@ -135,7 +135,11 @@
 <LM>w#w-mf920922-057-p1s2w4</LM>
 </w.rf>
 <form>TAK</form>
-<tag lemma="tak-3" src="orig" selected="1">Db-------------</tag>
+<tag>
+<AM lemma="tak-3" src="orig">Db-------------</AM>
+<AM lemma="tak-3" src="manual">J^-------------</AM>
+<AM lemma="tak-2" src="manual" selected="1">J^-------------</AM>
+</tag>
 </m>
 <m id="m-mf920922-057-p1s2w5">
 <src.rf>manual</src.rf>
@@ -307,7 +311,10 @@
 <LM>w#w-mf920922-057-p2s2Bw3</LM>
 </w.rf>
 <form>Pavel</form>
-<tag lemma="Pavel-1_;Y" src="orig" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Pavel-1_;Y" src="orig">NNMS1-----A----</AM>
+<AM lemma="Pavel_;Y_;S" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920922-057-p2s2Bw4">
 <src.rf>manual</src.rf>
@@ -347,7 +354,10 @@
 <LM>w#w-mf920922-057-p2s2Bw8</LM>
 </w.rf>
 <form>Čs</form>
-<tag lemma="československý_:B" src="orig" selected="1">AAXXX----1A---8</tag>
+<tag>
+<AM lemma="československý_:B" src="orig">AAXXX----1A---8</AM>
+<AM lemma="československý" src="manual" selected="1">AAXXX----1A---8</AM>
+</tag>
 </m>
 <m id="m-mf920922-057-p2s2Bw9">
 <src.rf>manual</src.rf>
@@ -411,7 +421,10 @@
 <LM>w#w-mf920922-057-p2s2Bw16</LM>
 </w.rf>
 <form>ČSKSTS</form>
-<tag lemma="ČSKSTS-1_:B_;K_^(Čs._konfederace_sport._a_tělových._svazů)" src="auto" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ČSKSTS-1_:B_;K_^(Čs._konfederace_sport._a_tělových._svazů)" src="auto">NNFXX-----A---8</AM>
+<AM lemma="ČSKSTS-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920922-057-p2s2Bw17">
 <src.rf>manual</src.rf>
@@ -551,6 +564,8 @@
 <AM lemma="YMCA_:B_;K" src="orig">NNFXX-----A---8</AM>
 <AM lemma="YMCA_:B" src="auto">NNXXX-----A---8</AM>
 <AM lemma="YMCA_:B_;K_,t_^(Young_Men`s_Christian_Association)" src="auto" recommended="1">NNNXX-----A---8</AM>
+<AM lemma="YMCA_:B_;K_^(Young_Men`s_Christian_Association)" src="manual">NNNXX-----A----</AM>
+<AM lemma="YMCA_:B_;K_^(Young_Men`s_Christian_Association)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920922-057-p2s2Bw34">
@@ -741,7 +756,10 @@
 <LM>w#w-mf920922-057-p2s5Aw7</LM>
 </w.rf>
 <form>ČSFR</form>
-<tag lemma="ČSFR-1_:B_;G_^(Čs._federativní_republika)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ČSFR-1_:B_;G_^(Čs._federativní_republika)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČSFR-1_:B_;G_^(Čs._federativní_republika)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920922-057-p2s5Aw8">
 <src.rf>manual</src.rf>
@@ -997,7 +1015,7 @@
 <form>ovšem</form>
 <tag>
 <AM lemma="ovšem-1_^(avšak,_však;_odporovací_spojka)" src="orig">J^-------------</AM>
-<AM lemma="ovšem" src="auto" recommended="1">TT-------------</AM>
+<AM lemma="ovšem" src="auto" recommended="1" selected="1">TT-------------</AM>
 </tag>
 </m>
 <m id="m-mf920922-057-p2s7w4">
@@ -1446,6 +1464,7 @@
 <AM lemma="YMCA_:B_;K" src="orig">NNFXX-----A---8</AM>
 <AM lemma="YMCA_:B" src="auto" recommended="1">NNXXX-----A---8</AM>
 <AM lemma="YMCA_:B_;K_,t_^(Young_Men`s_Christian_Association)" src="auto">NNNXX-----A---8</AM>
+<AM lemma="YMCA_:B_;K_^(Young_Men`s_Christian_Association)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920922-057-p2s8Bw3">
@@ -1552,7 +1571,11 @@
 <LM>w#w-mf920922-057-p2s9Aw5</LM>
 </w.rf>
 <form>YMCOU</form>
-<tag lemma="YMCA_:B_;K" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="YMCA_:B_;K" src="orig">NNFXX-----A---8</AM>
+<AM lemma="YMCA_:B_;KYMCA_:B_;K_^(Young_Men`s_Christian_Association)" src="manual">NNFS7-----A----</AM>
+<AM lemma="YMCA_:B_;K_^(Young_Men`s_Christian_Association)" src="manual" selected="1">NNFS7-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920922-057-p2s9Aw6">
 <src.rf>manual</src.rf>
@@ -1717,7 +1740,7 @@
 <tag>
 <AM lemma="tedy" src="orig">Db-------------</AM>
 <AM lemma="tedy-1" src="auto">TT-------------</AM>
-<AM lemma="tedy-2" src="auto" recommended="1">J^-------------</AM>
+<AM lemma="tedy-2" src="auto" recommended="1" selected="1">J^-------------</AM>
 </tag>
 </m>
 <m id="m-mf920922-057-p2s9Bw12">
@@ -2345,7 +2368,7 @@
 <tag>
 <AM lemma="tedy" src="orig">Db-------------</AM>
 <AM lemma="tedy-1" src="auto" recommended="1">TT-------------</AM>
-<AM lemma="tedy-2" src="auto">J^-------------</AM>
+<AM lemma="tedy-2" src="auto" selected="1">J^-------------</AM>
 </tag>
 </m>
 <m id="m-mf920922-057-p2s12w18">
@@ -3580,7 +3603,10 @@
 <LM>w#w-mf920922-057-p2s18Bw7</LM>
 </w.rf>
 <form>ČSFR</form>
-<tag lemma="ČSFR-1_:B_;G_^(Čs._federativní_republika)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ČSFR-1_:B_;G_^(Čs._federativní_republika)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČSFR-1_:B_;G_^(Čs._federativní_republika)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920922-057-p2s18Bw8">
 <src.rf>manual</src.rf>
@@ -4225,7 +4251,7 @@
 <tag>
 <AM lemma="tedy" src="orig">Db-------------</AM>
 <AM lemma="tedy-1" src="auto">TT-------------</AM>
-<AM lemma="tedy-2" src="auto" recommended="1">J^-------------</AM>
+<AM lemma="tedy-2" src="auto" recommended="1" selected="1">J^-------------</AM>
 </tag>
 </m>
 <m id="m-mf920922-057-p2s22w12">

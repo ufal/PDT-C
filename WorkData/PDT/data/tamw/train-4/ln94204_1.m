@@ -629,7 +629,10 @@
 <LM>w#w-ln94204-1-p3s1w13</LM>
 </w.rf>
 <form>mj</form>
-<tag lemma="mj-1_:B_^(mimo_jiné)" src="orig" selected="1">Db------------8</tag>
+<tag>
+<AM lemma="mj-1_:B_^(mimo_jiné)" src="orig">Db------------8</AM>
+<AM lemma="mj-1_:B_^(mimo_jiné)" src="manual" selected="1">Db-------------</AM>
+</tag>
 </m>
 <m id="m-ln94204-1-p3s1w14">
 <src.rf>manual</src.rf>
@@ -669,7 +672,12 @@
 <LM>w#w-ln94204-1-p3s1w18</LM>
 </w.rf>
 <form>nemovitosti</form>
-<tag lemma="nemovitost_^(budovy,_stavby,_pozemky,...)" src="orig" selected="1">NNFP4-----A----</tag>
+<tag>
+<AM lemma="nemovitost_^(budovy,_stavby,_pozemky,...)" src="orig">NNFP4-----A----</AM>
+<AM lemma=" movitost_^(*3ý)" src="manual">NNFP4-----A----</AM>
+<AM lemma="movitost_^(*3ý)" src="manual">NNFP4-----A----</AM>
+<AM lemma="movitost_^(*3ý)" src="manual" selected="1">NNFP4-----N----</AM>
+</tag>
 </m>
 <m id="m-ln94204-1-p3s1w19">
 <src.rf>manual</src.rf>
@@ -1309,7 +1317,10 @@
 <LM>w#w-ln94204-1-p4s3w12</LM>
 </w.rf>
 <form>milionů</form>
-<tag lemma="milión`1000000" src="orig" selected="1">NNIP2-----A----</tag>
+<tag>
+<AM lemma="milión`1000000" src="orig">NNIP2-----A----</AM>
+<AM lemma="mil ion`1000000_,s_^(^DD**milión)" src="manual" selected="1">NNIP2-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94204-1-p4s3w13">
 <src.rf>manual</src.rf>
@@ -1697,7 +1708,10 @@
 <LM>w#w-ln94204-1-p5s2w2</LM>
 </w.rf>
 <form>av</form>
-<tag lemma="av-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="av-99_:B_;S" src="orig">NNXXX-----A---8</AM>
+<AM lemma="av-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94204-1-p5s2w3">
 <src.rf>manual</src.rf>
@@ -1713,7 +1727,10 @@
 <LM>w#w-ln94204-1-p5s2w4</LM>
 </w.rf>
 <form>čtk</form>
-<tag lemma="ČTK-1_:B_;K_^(Čs./Česká_tisková_kancelář)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ČTK-1_:B_;K_^(Čs./Česká_tisková_kancelář)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČTK-1_:B_;K_^(Čs./Česká_tisková_kancelář)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94204-1-p5s2w5">
 <src.rf>manual</src.rf>

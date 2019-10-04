@@ -766,7 +766,7 @@
 </w.rf>
 <form>Marína</form>
 <tag>
-<AM lemma="Marín-2_;S" src="orig">NNMS2-----A----</AM>
+<AM lemma="Marín-2_;S" src="orig" selected="1">NNMS2-----A----</AM>
 <AM lemma="Marín_;G" src="auto" recommended="1">NNIS2-----A----</AM>
 <AM lemma="marína_,s" src="auto">NNFS1-----A----</AM>
 </tag>
@@ -824,7 +824,7 @@
 <AM lemma="starost-2_^(člověk,_věc)_(*5ý-2)" src="auto">NNFS2-----A----</AM>
 <AM lemma="starost-2_^(člověk,_věc)_(*5ý-2)" src="auto">NNFS3-----A----</AM>
 <AM lemma="starost-2_^(člověk,_věc)_(*5ý-2)" src="auto">NNFS5-----A----</AM>
-<AM lemma="starost-2_^(člověk,_věc)_(*5ý-2)" src="auto">NNFS6-----A----</AM>
+<AM lemma="starost-2_^(člověk,_věc)_(*5ý-2)" src="auto" selected="1">NNFS6-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94104-049-p1s6w15">
@@ -956,7 +956,7 @@
 </w.rf>
 <form>Marín</form>
 <tag>
-<AM lemma="Marín-2_;S" src="orig">NNMS1-----A----</AM>
+<AM lemma="Marín-2_;S" src="orig" selected="1">NNMS1-----A----</AM>
 <AM lemma="Marín_;G" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Marín_;G" src="auto">NNIS4-----A----</AM>
 <AM lemma="marína_,s" src="auto">NNFP2-----A----</AM>

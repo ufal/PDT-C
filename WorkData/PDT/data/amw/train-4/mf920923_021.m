@@ -359,7 +359,10 @@
 <LM>w#w-mf920923-021-p2s2w27</LM>
 </w.rf>
 <form>de</form>
-<tag lemma="de_,t_^(z_franc._de,_zejm._ve_jménech)" src="orig" selected="1">RR--1----------</tag>
+<tag>
+<AM lemma="de_,t_^(z_franc._de,_zejm._ve_jménech)" src="orig">RR--1----------</AM>
+<AM lemma="de-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-mf920923-021-p2s2w28">
 <src.rf>manual</src.rf>
@@ -439,7 +442,10 @@
 <LM>w#w-mf920923-021-p2s2w37</LM>
 </w.rf>
 <form>vyprávěč</form>
-<tag lemma="vyprávěč_,s" src="orig" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="vyprávěč_,s" src="orig">NNMS1-----A----</AM>
+<AM lemma="vyprávěč_,h_^(^GC**vypravěč)" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920923-021-p2s2w38">
 <src.rf>manual</src.rf>
@@ -481,7 +487,10 @@
 <LM>w#w-mf920923-021-p2s3w4</LM>
 </w.rf>
 <form>ani</form>
-<tag lemma="ani-1" src="auto" selected="1">J^-------------</tag>
+<tag>
+<AM lemma="ani-1" src="auto">J^-------------</AM>
+<AM lemma="ani-2" src="manual" selected="1">TT-------------</AM>
+</tag>
 </m>
 <m id="m-mf920923-021-p2s3w5">
 <src.rf>manual</src.rf>

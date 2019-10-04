@@ -313,7 +313,10 @@
 <LM>w#w-ln94208-31-p2s2w10</LM>
 </w.rf>
 <form>mm</form>
-<tag lemma="mm-1`milimetr_:B" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="mm-1`milimetr_:B" src="orig">NNIXX-----A---8</AM>
+<AM lemma="milimetr" src="manual" selected="1">NNIXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln94208-31-p2s2w11">
 <src.rf>manual</src.rf>
@@ -405,7 +408,7 @@
 <form>Strážného</form>
 <tag>
 <AM lemma="Strážný_;G" src="orig">NNNS2-----A----</AM>
-<AM lemma="Strážné_;G" src="auto" recommended="1">NNNS2-----A----</AM>
+<AM lemma="Strážné_;G" src="auto" recommended="1" selected="1">NNNS2-----A----</AM>
 <AM lemma="Strážný_;G" src="auto">AAIS2----1A----</AM>
 <AM lemma="Strážný_;G" src="auto">AAMS2----1A----</AM>
 <AM lemma="Strážný_;G" src="auto">AAMS4----1A----</AM>
@@ -602,7 +605,10 @@
 <LM>w#w-ln94208-31-p2s4w5</LM>
 </w.rf>
 <form>r</form>
-<tag lemma="rok_:B" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="rok_:B" src="orig">NNIXX-----A---8</AM>
+<AM lemma="rok" src="manual" selected="1">NNIXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln94208-31-p2s4w6">
 <src.rf>manual</src.rf>
@@ -650,7 +656,10 @@
 <LM>w#w-ln94208-31-p2s4w11</LM>
 </w.rf>
 <form>LN</form>
-<tag lemma="LN-1_:B_;R_^(Lidové_noviny,_deník)" src="orig" selected="1">NNFPX-----A---8</tag>
+<tag>
+<AM lemma="LN-1_:B_;R_^(Lidové_noviny,_deník)" src="orig">NNFPX-----A---8</AM>
+<AM lemma="LN-1_:B_;K_;R_^(Lidové_noviny)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94208-31-p2s4w12">
 <src.rf>manual</src.rf>
@@ -658,7 +667,10 @@
 <LM>w#w-ln94208-31-p2s4w12</LM>
 </w.rf>
 <form>A</form>
-<tag lemma="A-0_:B_;Y" src="orig" selected="1">NNMXX-----A---8</tag>
+<tag>
+<AM lemma="A-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
+<AM lemma="A-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94208-31-p2s4w13">
 <src.rf>manual</src.rf>
@@ -698,7 +710,10 @@
 <LM>w#w-ln94208-31-p2s4w17</LM>
 </w.rf>
 <form>KRNAP</form>
-<tag lemma="KRNAP_:B_;K" src="auto" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="KRNAP_:B_;K" src="auto">NNXXX-----A---8</AM>
+<AM lemma="KRNAP-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94208-31-p2s4w18">
 <src.rf>manual</src.rf>
@@ -724,7 +739,7 @@
 <form>Mlýně</form>
 <tag>
 <AM lemma="Mlýn_;G" src="orig">NNIS6-----A----</AM>
-<AM lemma="mlýn" src="auto" recommended="1">NNIS6-----A----</AM>
+<AM lemma="mlýn" src="auto" recommended="1" selected="1">NNIS6-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94208-31-p2s4w21">

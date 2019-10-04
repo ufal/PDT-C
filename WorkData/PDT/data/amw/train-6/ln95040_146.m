@@ -227,7 +227,10 @@
 <LM>w#w-ln95040-146-p3s1Bw1</LM>
 </w.rf>
 <form>Více</form>
-<tag lemma="hodně-2" src="auto" selected="1">Dg-------2A----</tag>
+<tag>
+<AM lemma="hodně-2" src="auto">Dg-------2A----</AM>
+<AM lemma="hodně-3" src="manual" selected="1">Dg-------2A----</AM>
+</tag>
 </m>
 <m id="m-ln95040-146-p3s1Bw2">
 <src.rf>manual</src.rf>
@@ -440,7 +443,10 @@
 <LM>w#w-ln95040-146-p3s3w1</LM>
 </w.rf>
 <form>LN</form>
-<tag lemma="LN-1_:B_;R_^(Lidové_noviny,_deník)" src="orig" selected="1">NNFPX-----A---8</tag>
+<tag>
+<AM lemma="LN-1_:B_;R_^(Lidové_noviny,_deník)" src="orig">NNFPX-----A---8</AM>
+<AM lemma="LN-1_:B_;K_;R_^(Lidové_noviny)" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln95040-146-p3s3w2">
 <src.rf>manual</src.rf>
@@ -504,7 +510,10 @@
 <LM>w#w-ln95040-146-p3s3w9</LM>
 </w.rf>
 <form>ČPPU</form>
-<tag lemma="ČPPU_:B_;K" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ČPPU_:B_;K" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČPPU-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln95040-146-p3s3w10">
 <src.rf>manual</src.rf>
@@ -846,7 +855,10 @@
 <LM>w#w-ln95040-146-p4s3w1</LM>
 </w.rf>
 <form>ČPPU</form>
-<tag lemma="ČPPU_:B_;K" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ČPPU_:B_;K" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČPPU-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln95040-146-p4s3w2">
 <src.rf>manual</src.rf>
@@ -2024,7 +2036,10 @@
 <LM>w#w-ln95040-146-p6s4w9</LM>
 </w.rf>
 <form>ČPPU</form>
-<tag lemma="ČPPU_:B_;K" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ČPPU_:B_;K" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČPPU-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln95040-146-p6s4w10">
 <src.rf>manual</src.rf>
@@ -2409,6 +2424,7 @@
 <tag>
 <AM lemma="USA_;G" src="orig">NNIPX-----A----</AM>
 <AM lemma="USA_:B_;K_,t_^(United_States_of_America)" src="auto" recommended="1">NNIPX-----A---8</AM>
+<AM lemma="USA_:B_;K_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-ln95040-146-p6s7w3">
@@ -2457,7 +2473,10 @@
 <LM>w#w-ln95040-146-p6s7w8</LM>
 </w.rf>
 <form>FBI</form>
-<tag lemma="FBI_:B_;K_,t_^(Fed._Bureau_of_Investigation)" src="auto" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="FBI_:B_;K_,t_^(Fed._Bureau_of_Investigation)" src="auto">NNFXX-----A---8</AM>
+<AM lemma="FBI-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln95040-146-p6s7w9">
 <src.rf>manual</src.rf>

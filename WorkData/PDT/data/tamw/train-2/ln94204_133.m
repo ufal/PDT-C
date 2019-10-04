@@ -143,7 +143,10 @@
 <LM>w#w-ln94204-133-p2s1Bw7</LM>
 </w.rf>
 <form>StB</form>
-<tag lemma="StB_:B_;K" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="StB_:B_;K" src="orig">NNFXX-----A---8</AM>
+<AM lemma="StB-1_:B_;K_^(Státní_bezpečnost)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94204-133-p2s1Bw8">
 <src.rf>manual</src.rf>
@@ -367,7 +370,10 @@
 <LM>w#w-ln94204-133-p2s1Bw35</LM>
 </w.rf>
 <form>KSČ</form>
-<tag lemma="KSČ-1_:B_;K_^(Komunistická_strana_Československa)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="KSČ-1_:B_;K_^(Komunistická_strana_Československa)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="KSČ-1_:B_;K_^(Komunistická_strana_Československa)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94204-133-p2s1Bw36">
 <src.rf>manual</src.rf>
@@ -509,6 +515,7 @@
 <AM lemma="ÚV_:B" src="orig">NNIXX-----A---8</AM>
 <AM lemma="ÚV-1_:B_^(ústřední_výbor)" src="auto" recommended="1">NNIXX-----A---8</AM>
 <AM lemma="ÚV-2_:B_^(účet_volaného)" src="auto">NNIXX-----A---8</AM>
+<AM lemma="ÚV-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94204-133-p3s1w17">
@@ -517,7 +524,10 @@
 <LM>w#w-ln94204-133-p3s1w17</LM>
 </w.rf>
 <form>KSČ</form>
-<tag lemma="KSČ-1_:B_;K_^(Komunistická_strana_Československa)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="KSČ-1_:B_;K_^(Komunistická_strana_Československa)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="KSČ-1_:B_;K_^(Komunistická_strana_Československa)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94204-133-p3s1w18">
 <src.rf>manual</src.rf>
@@ -1223,6 +1233,7 @@
 <AM lemma="ÚV_:B" src="orig">NNIXX-----A---8</AM>
 <AM lemma="ÚV-1_:B_^(ústřední_výbor)" src="auto" recommended="1">NNIXX-----A---8</AM>
 <AM lemma="ÚV-2_:B_^(účet_volaného)" src="auto">NNIXX-----A---8</AM>
+<AM lemma="ÚV-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94204-133-p4s7w4">
@@ -1231,7 +1242,10 @@
 <LM>w#w-ln94204-133-p4s7w4</LM>
 </w.rf>
 <form>KSČ</form>
-<tag lemma="KSČ-1_:B_;K_^(Komunistická_strana_Československa)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="KSČ-1_:B_;K_^(Komunistická_strana_Československa)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="KSČ-1_:B_;K_^(Komunistická_strana_Československa)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94204-133-p4s7w5">
 <src.rf>manual</src.rf>
@@ -1287,7 +1301,10 @@
 <LM>w#w-ln94204-133-p4s7w11</LM>
 </w.rf>
 <form>Široký</form>
-<tag lemma="Široký" src="auto" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Široký" src="auto">NNMS1-----A----</AM>
+<AM lemma="Široký_;S" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94204-133-p4s7w12">
 <src.rf>manual</src.rf>
@@ -1308,7 +1325,7 @@
 <AM lemma="Zápotocký_;S" src="auto">NNMP1-----A---6</AM>
 <AM lemma="Zápotocký_;S" src="auto">NNMP4-----A---6</AM>
 <AM lemma="Zápotocký_;S" src="auto">NNMP5-----A---6</AM>
-<AM lemma="Zápotocký_;S" src="auto">NNMS1-----A----</AM>
+<AM lemma="Zápotocký_;S" src="auto" selected="1">NNMS1-----A----</AM>
 <AM lemma="Zápotocký_;S" src="auto">NNMS5-----A----</AM>
 <AM lemma="zápotocký" src="auto">AAFP1----1A---6</AM>
 <AM lemma="zápotocký" src="auto">AAFP4----1A---6</AM>
@@ -1343,7 +1360,7 @@
 <form>totiž</form>
 <tag>
 <AM lemma="totiž" src="orig">Db-------------</AM>
-<AM lemma="totiž-1" src="auto" recommended="1">J^-------------</AM>
+<AM lemma="totiž-1" src="auto" recommended="1" selected="1">J^-------------</AM>
 <AM lemma="totiž-2" src="auto">TT-------------</AM>
 </tag>
 </m>
@@ -1643,7 +1660,10 @@
 <LM>w#w-ln94204-133-p4s8w3</LM>
 </w.rf>
 <form>KSČ</form>
-<tag lemma="KSČ-1_:B_;K_^(Komunistická_strana_Československa)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="KSČ-1_:B_;K_^(Komunistická_strana_Československa)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="KSČ-1_:B_;K_^(Komunistická_strana_Československa)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94204-133-p4s8w4">
 <src.rf>manual</src.rf>
@@ -2137,7 +2157,10 @@
 <LM>w#w-ln94204-133-p4s11w3</LM>
 </w.rf>
 <form>jen</form>
-<tag lemma="jen-1" src="auto" selected="1">TT-------------</tag>
+<tag>
+<AM lemma="jen-1" src="auto">TT-------------</AM>
+<AM lemma="jen-4_^(pouze)" src="manual" selected="1">Db-------------</AM>
+</tag>
 </m>
 <m id="m-ln94204-133-p4s11w4">
 <src.rf>manual</src.rf>

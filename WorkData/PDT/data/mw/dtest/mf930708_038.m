@@ -19,7 +19,10 @@
 <LM>w#w-mf930708-038-p1s1w1</LM>
 </w.rf>
 <form>Glavunion</form>
-<tag lemma="Glavunion" src="orig" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="Glavunion" src="orig">NNIS1-----A----</AM>
+<AM lemma="Glavunion_;K" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930708-038-p1s1w2">
 <src.rf>manual</src.rf>
@@ -213,7 +216,11 @@
 <LM>w#w-mf930708-038-p2s1w20</LM>
 </w.rf>
 <form>Glavunion</form>
-<tag lemma="Glavunion" src="orig" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="Glavunion" src="orig">NNIS1-----A----</AM>
+<AM lemma="Glavunion_;KGlavunion" src="manual">NNIS1-----A----</AM>
+<AM lemma="Glavunion_;K" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930708-038-p2s1w21">
 <src.rf>manual</src.rf>
@@ -353,7 +360,7 @@
 <form>nejen</form>
 <tag>
 <AM lemma="nejen" src="orig">TT-------------</AM>
-<AM lemma="nejen" src="auto" recommended="1">Db-------------</AM>
+<AM lemma="nejen" src="auto" recommended="1" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m-mf930708-038-p2s2w12">
@@ -663,7 +670,10 @@
 <LM>w#w-mf930708-038-p3s1w11</LM>
 </w.rf>
 <form>Glavunionu</form>
-<tag lemma="Glavunion" src="orig" selected="1">NNIS2-----A----</tag>
+<tag>
+<AM lemma="Glavunion" src="orig">NNIS2-----A----</AM>
+<AM lemma="Glavunion_;K" src="manual" selected="1">NNIS2-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930708-038-p3s1w12">
 <src.rf>manual</src.rf>
@@ -801,7 +811,10 @@
 <LM>w#w-mf930708-038-p3s2w4</LM>
 </w.rf>
 <form>Glavunion</form>
-<tag lemma="Glavunion" src="orig" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="Glavunion" src="orig">NNIS1-----A----</AM>
+<AM lemma="Glavunion_;K" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930708-038-p3s2w5">
 <src.rf>manual</src.rf>
@@ -1564,7 +1577,10 @@
 <LM>w#w-mf930708-038-p4s4w5</LM>
 </w.rf>
 <form>Glavunionu</form>
-<tag lemma="Glavunion" src="orig" selected="1">NNIS2-----A----</tag>
+<tag>
+<AM lemma="Glavunion" src="orig">NNIS2-----A----</AM>
+<AM lemma="Glavunion_;K" src="manual" selected="1">NNIS2-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930708-038-p4s4w6">
 <src.rf>manual</src.rf>
@@ -2042,7 +2058,10 @@
 <LM>w#w-mf930708-038-p5s1w12</LM>
 </w.rf>
 <form>Glavunionu</form>
-<tag lemma="Glavunion" src="orig" selected="1">NNIS2-----A----</tag>
+<tag>
+<AM lemma="Glavunion" src="orig">NNIS2-----A----</AM>
+<AM lemma="Glavunion_;K" src="manual" selected="1">NNIS2-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930708-038-p5s1w13">
 <src.rf>manual</src.rf>
@@ -2290,7 +2309,10 @@
 <LM>w#w-mf930708-038-p5s1w43</LM>
 </w.rf>
 <form>SNS</form>
-<tag lemma="SNS-2_:B_;G_^(Sdr._nezávislých_států)" src="orig" selected="1">NNNXX-----A---8</tag>
+<tag>
+<AM lemma="SNS-2_:B_;G_^(Sdr._nezávislých_států)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="SNS-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-mf930708-038-p5s1w44">
 <src.rf>manual</src.rf>
@@ -2340,7 +2362,10 @@
 <LM>w#w-mf930708-038-p5s2w5</LM>
 </w.rf>
 <form>SNS</form>
-<tag lemma="SNS-2_:B_;G_^(Sdr._nezávislých_států)" src="orig" selected="1">NNNXX-----A---8</tag>
+<tag>
+<AM lemma="SNS-2_:B_;G_^(Sdr._nezávislých_států)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="SNS-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-mf930708-038-p5s2w6">
 <src.rf>manual</src.rf>
@@ -2760,7 +2785,10 @@
 <LM>w#w-mf930708-038-p5s4w33</LM>
 </w.rf>
 <form>J</form>
-<tag lemma="J-0_:B_;Y" src="orig" selected="1">NNMXX-----A---8</tag>
+<tag>
+<AM lemma="J-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
+<AM lemma="J-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-mf930708-038-p5s4w34">
 <src.rf>manual</src.rf>
@@ -3102,7 +3130,7 @@
 <form>přičemž</form>
 <tag>
 <AM lemma="přičemž" src="orig">J,-------------</AM>
-<AM lemma="přičemž" src="auto" recommended="1">Db-------------</AM>
+<AM lemma="přičemž" src="auto" recommended="1" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m-mf930708-038-p6s1w13">

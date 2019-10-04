@@ -35,7 +35,10 @@
 <LM>w#w-mf920924-027-p1s1w3</LM>
 </w.rf>
 <form>joint</form>
-<tag lemma="joint_,t_^(j._venture;_společný_podnik)" src="auto" selected="1">AAIXX----1A----</tag>
+<tag>
+<AM lemma="joint_,t_^(j._venture;_společný_podnik)" src="auto">AAIXX----1A----</AM>
+<AM lemma="joint-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-mf920924-027-p1s1w4">
 <src.rf>manual</src.rf>
@@ -43,7 +46,10 @@
 <LM>w#w-mf920924-027-p1s1w4</LM>
 </w.rf>
 <form>venture</form>
-<tag lemma="venture_,t_^(joint_v.;_společný_podnik)" src="orig" selected="1">NNIXX-----A----</tag>
+<tag>
+<AM lemma="venture_,t_^(joint_v.;_společný_podnik)" src="orig">NNIXX-----A----</AM>
+<AM lemma="venture-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-mf920924-027-p1s1w5">
 <src.rf>manual</src.rf>
@@ -91,7 +97,10 @@
 <LM>w#w-mf920924-027-p1s1w10</LM>
 </w.rf>
 <form>D</form>
-<tag lemma="D-3`500" src="orig" selected="1">C}-------------</tag>
+<tag>
+<AM lemma="D-3`500" src="orig">C}-------------</AM>
+<AM lemma="D-33_^(označení_pomocí_písmene)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920924-027-p1s1w11">
 <src.rf>manual</src.rf>
@@ -1897,7 +1906,10 @@
 <LM>w#w-mf920924-027-p2s8w16</LM>
 </w.rf>
 <form>joint</form>
-<tag lemma="joint_,t_^(j._venture;_společný_podnik)" src="auto" selected="1">AAIXX----1A----</tag>
+<tag>
+<AM lemma="joint_,t_^(j._venture;_společný_podnik)" src="auto">AAIXX----1A----</AM>
+<AM lemma="joint-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-mf920924-027-p2s8w17">
 <src.rf>manual</src.rf>
@@ -1905,7 +1917,10 @@
 <LM>w#w-mf920924-027-p2s8w17</LM>
 </w.rf>
 <form>venture</form>
-<tag lemma="venture_,t_^(joint_v.;_společný_podnik)" src="orig" selected="1">NNIXX-----A----</tag>
+<tag>
+<AM lemma="venture_,t_^(joint_v.;_společný_podnik)" src="orig">NNIXX-----A----</AM>
+<AM lemma="venture-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-mf920924-027-p2s8w18">
 <src.rf>manual</src.rf>
@@ -2057,7 +2072,10 @@
 <LM>w#w-mf920924-027-p2s8w36</LM>
 </w.rf>
 <form>SSSR</form>
-<tag lemma="SSSR_:B_;G_^(Svaz_sov._socialist._republik)" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="SSSR_:B_;G_^(Svaz_sov._socialist._republik)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="SSSR_:B_;G_^(Svaz_sov._socialist._republik)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920924-027-p2s8w37">
 <src.rf>manual</src.rf>

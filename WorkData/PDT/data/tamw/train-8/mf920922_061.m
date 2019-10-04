@@ -207,7 +207,11 @@
 <LM>w#w-mf920922-061-p2s1w15</LM>
 </w.rf>
 <form>Ferencvárosu</form>
-<tag lemma="Ferencvarosz_;K" src="orig" selected="1">NNIS2-----A----</tag>
+<tag>
+<AM lemma="Ferencvarosz_;K" src="orig">NNIS2-----A----</AM>
+<AM lemma="Ferencvaros_;K" src="manual">NNIS2-----A----</AM>
+<AM lemma="Ferencváros_;K" src="manual" selected="1">NNIS2-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920922-061-p2s1w16">
 <src.rf>manual</src.rf>
@@ -223,7 +227,10 @@
 <LM>w#w-mf920922-061-p2s1w17</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-2" src="auto" selected="1">Dg-------2A----</tag>
+<tag>
+<AM lemma="hodně-2" src="auto">Dg-------2A----</AM>
+<AM lemma="více_^(více_+_2._p.,_více_peněz)" src="manual" selected="1">Ca--4----------</AM>
+</tag>
 </m>
 <m id="m-mf920922-061-p2s1w18">
 <src.rf>manual</src.rf>
@@ -435,7 +442,7 @@
 <form>kameramani</form>
 <tag>
 <AM lemma="kameraman" src="orig">NNMP1-----A---1</AM>
-<AM lemma="kameraman" src="auto" recommended="1">NNMP1-----A----</AM>
+<AM lemma="kameraman" src="auto" recommended="1" selected="1">NNMP1-----A----</AM>
 <AM lemma="kameraman" src="auto">NNMP5-----A----</AM>
 </tag>
 </m>
@@ -637,7 +644,10 @@
 <LM>w#w-mf920922-061-p2s2w27</LM>
 </w.rf>
 <form>NÉPSZABADSÁG</form>
-<tag lemma="Népszabadság_;R_,t" src="orig" selected="1">NNXXX-----A----</tag>
+<tag>
+<AM lemma="Népszabadság_;R_,t" src="orig">NNXXX-----A----</AM>
+<AM lemma="NÉPSZABADSÁG-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-mf920922-061-p2s2w28">
 <src.rf>manual</src.rf>
@@ -1489,7 +1499,11 @@
 <LM>w#w-mf920922-061-p2s8w23</LM>
 </w.rf>
 <form>FTC</form>
-<tag lemma="FTC_:B_;K" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="FTC_:B_;K" src="orig">NNXXX-----A---8</AM>
+<AM lemma="FTC-77" src="manual">F%-------------</AM>
+<AM lemma="FTC-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920922-061-p2s8w24">
 <src.rf>manual</src.rf>
@@ -1573,7 +1587,7 @@
 <form>ovšem</form>
 <tag>
 <AM lemma="ovšem-1_^(avšak,_však;_odporovací_spojka)" src="orig">J^-------------</AM>
-<AM lemma="ovšem" src="auto" recommended="1">TT-------------</AM>
+<AM lemma="ovšem" src="auto" recommended="1" selected="1">TT-------------</AM>
 </tag>
 </m>
 <m id="m-mf920922-061-p2s9w4">
@@ -1816,7 +1830,10 @@
 <LM>w#w-mf920922-061-p2s10w7</LM>
 </w.rf>
 <form>ČSTK</form>
-<tag lemma="ČSTK-1_:B_;K_^(Československá_tisková_kancelář)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ČSTK-1_:B_;K_^(Československá_tisková_kancelář)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČSTK-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920922-061-p2s10w8">
 <src.rf>manual</src.rf>
@@ -2152,7 +2169,7 @@
 <form>nalezeni</form>
 <tag>
 <AM lemma="naleznout" src="orig">VsMP---XX-AP---</AM>
-<AM lemma="nalézt-2" src="auto" recommended="1">VsMP---XX-AP---</AM>
+<AM lemma="nalézt-2" src="auto" recommended="1" selected="1">VsMP---XX-AP---</AM>
 </tag>
 </m>
 <m id="m-mf920922-061-p2s13w3">
@@ -2209,7 +2226,11 @@
 <LM>w#w-mf920922-061-p2s13w9</LM>
 </w.rf>
 <form>třeba</form>
-<tag lemma="třeba-2" src="auto" selected="1">Db-------------</tag>
+<tag>
+<AM lemma="třeba-2" src="auto">Db-------------</AM>
+<AM lemma="třeba-1" src="manual">TT-------------</AM>
+<AM lemma="třeba-3" src="manual" selected="1">TT-------------</AM>
+</tag>
 </m>
 <m id="m-mf920922-061-p2s13w10">
 <src.rf>manual</src.rf>
@@ -2453,7 +2474,7 @@
 <form>nejen</form>
 <tag>
 <AM lemma="nejen" src="orig">TT-------------</AM>
-<AM lemma="nejen" src="auto" recommended="1">Db-------------</AM>
+<AM lemma="nejen" src="auto" recommended="1" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m-mf920922-061-p2s14w22">

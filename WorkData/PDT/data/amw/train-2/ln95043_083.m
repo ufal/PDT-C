@@ -267,7 +267,7 @@
 <form>primasovi</form>
 <tag>
 <AM lemma="primas" src="orig">NNMS3-----A----</AM>
-<AM lemma="primas" src="auto" recommended="1">NNMS3-----A---1</AM>
+<AM lemma="primas" src="auto" recommended="1" selected="1">NNMS3-----A---1</AM>
 <AM lemma="primas" src="auto">NNMS6-----A---1</AM>
 <AM lemma="primasův_^(*2)" src="auto">AUMP1M---------</AM>
 <AM lemma="primasův_^(*2)" src="auto">AUMP5M---------</AM>
@@ -852,6 +852,7 @@
 <AM lemma="Santa-3_;Y" src="auto">NNFS1-----A----</AM>
 <AM lemma="Santo_;G_^(Santo_Domingo)" src="auto">NNNS2-----A----</AM>
 <AM lemma="Santa-1_,t_^(Santa_Claus)" src="auto" recommended="1">AAXXX----1A----</AM>
+<AM lemma="Santa-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-ln95043-083-p2s5w3">
@@ -865,6 +866,7 @@
 <AM lemma="Croce_;G_,t" src="auto" recommended="1">NNIXX-----A----</AM>
 <AM lemma="Croce_;S" src="auto">NNMS1-----A----</AM>
 <AM lemma="Croce_;S" src="auto">NNMS5-----A----</AM>
+<AM lemma="Croce-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-ln95043-083-p2s5w4">
@@ -873,7 +875,10 @@
 <LM>w#w-ln95043-083-p2s5w4</LM>
 </w.rf>
 <form>in</form>
-<tag lemma="in-1_,t_^(angl._v)" src="orig" selected="1">RR--X----------</tag>
+<tag>
+<AM lemma="in-1_,t_^(angl._v)" src="orig">RR--X----------</AM>
+<AM lemma="in-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln95043-083-p2s5w5">
 <src.rf>manual</src.rf>
@@ -881,7 +886,10 @@
 <LM>w#w-ln95043-083-p2s5w5</LM>
 </w.rf>
 <form>Gerusalemme</form>
-<tag lemma="Gerusalemme_;G_,t" src="orig" selected="1">NNIXX-----A----</tag>
+<tag>
+<AM lemma="Gerusalemme_;G_,t" src="orig">NNIXX-----A----</AM>
+<AM lemma="Gerusalemme-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln95043-083-p2s5w6">
 <src.rf>manual</src.rf>
@@ -954,7 +962,7 @@
 <AM lemma="matka-2_^(maminka)" src="auto">NNFP1-----A----</AM>
 <AM lemma="matka-2_^(maminka)" src="auto">NNFP4-----A----</AM>
 <AM lemma="matka-2_^(maminka)" src="auto">NNFP5-----A----</AM>
-<AM lemma="matka-2_^(maminka)" src="auto">NNFS2-----A----</AM>
+<AM lemma="matka-2_^(maminka)" src="auto" selected="1">NNFS2-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95043-083-p2s5w14">
@@ -987,7 +995,10 @@
 <LM>w#w-ln95043-083-p2s5w17</LM>
 </w.rf>
 <form>sv</form>
-<tag lemma="svatý-1_:B" src="auto" selected="1">AAXXX----1A---8</tag>
+<tag>
+<AM lemma="svatý-1_:B" src="auto">AAXXX----1A---8</AM>
+<AM lemma="svatý-1" src="manual" selected="1">AAXXX----1A---8</AM>
+</tag>
 </m>
 <m id="m-ln95043-083-p2s5w18">
 <src.rf>manual</src.rf>

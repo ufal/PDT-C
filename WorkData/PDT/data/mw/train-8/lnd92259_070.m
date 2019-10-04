@@ -316,7 +316,7 @@
 </w.rf>
 <form>Ešera</form>
 <tag>
-<AM lemma="Ešera_;G" src="orig">NNFS1-----A----</AM>
+<AM lemma="Ešera_;G" src="orig" selected="1">NNFS1-----A----</AM>
 <AM lemma="Ešer_;S" src="auto" recommended="1">NNMS2-----A----</AM>
 <AM lemma="Ešer_;S" src="auto">NNMS4-----A----</AM>
 </tag>

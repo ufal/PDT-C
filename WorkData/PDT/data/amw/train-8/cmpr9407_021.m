@@ -1160,7 +1160,7 @@
 <form>Přesto</form>
 <tag>
 <AM lemma="přesto" src="orig">Dg-------1A----</AM>
-<AM lemma="přesto-1" src="auto" recommended="1">Db-------------</AM>
+<AM lemma="přesto-1" src="auto" recommended="1" selected="1">Db-------------</AM>
 <AM lemma="přesto-2" src="auto">J^-------------</AM>
 </tag>
 </m>
@@ -1285,7 +1285,10 @@
 <LM>w#w-cmpr9407-021-p7s1w7</LM>
 </w.rf>
 <form>milionu</form>
-<tag lemma="milión`1000000" src="orig" selected="1">NNIS2-----A----</tag>
+<tag>
+<AM lemma="milión`1000000" src="orig">NNIS2-----A----</AM>
+<AM lemma="milion`1000000_,s_^(^DD**milión)" src="manual" selected="1">NNIS2-----A----</AM>
+</tag>
 </m>
 <m id="m-cmpr9407-021-p7s1w8">
 <src.rf>manual</src.rf>
@@ -2013,7 +2016,7 @@
 <form>totiž</form>
 <tag>
 <AM lemma="totiž" src="orig">Db-------------</AM>
-<AM lemma="totiž-1" src="auto" recommended="1">J^-------------</AM>
+<AM lemma="totiž-1" src="auto" recommended="1" selected="1">J^-------------</AM>
 <AM lemma="totiž-2" src="auto">TT-------------</AM>
 </tag>
 </m>
@@ -2413,7 +2416,10 @@
 <LM>w#w-cmpr9407-021-p10s1w14</LM>
 </w.rf>
 <form>Heidelberger</form>
-<tag lemma="Heidelberger_;K_,t" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="Heidelberger_;K_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="Heidelberger-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-cmpr9407-021-p10s1w15">
 <src.rf>manual</src.rf>
@@ -2421,7 +2427,10 @@
 <LM>w#w-cmpr9407-021-p10s1w15</LM>
 </w.rf>
 <form>Zement</form>
-<tag lemma="Zement_;K_,t" src="orig" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="Zement_;K_,t" src="orig">NNIS1-----A----</AM>
+<AM lemma="Zement-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-cmpr9407-021-p10s1w16">
 <src.rf>manual</src.rf>
@@ -2807,7 +2816,7 @@
 <form>totiž</form>
 <tag>
 <AM lemma="totiž" src="orig">Db-------------</AM>
-<AM lemma="totiž-1" src="auto">J^-------------</AM>
+<AM lemma="totiž-1" src="auto" selected="1">J^-------------</AM>
 <AM lemma="totiž-2" src="auto" recommended="1">TT-------------</AM>
 </tag>
 </m>

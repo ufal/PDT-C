@@ -101,7 +101,10 @@
 <LM>w#w-ln94201-105-p2s1w9</LM>
 </w.rf>
 <form>Hanák</form>
-<tag lemma="Hanák_;E" src="orig" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Hanák_;E" src="orig">NNMS1-----A----</AM>
+<AM lemma="Hanák_;S_;E" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94201-105-p2s1w10">
 <src.rf>manual</src.rf>
@@ -663,7 +666,7 @@
 <form>ovšem</form>
 <tag>
 <AM lemma="ovšem-1_^(avšak,_však;_odporovací_spojka)" src="orig">J^-------------</AM>
-<AM lemma="ovšem" src="auto" recommended="1">TT-------------</AM>
+<AM lemma="ovšem" src="auto" recommended="1" selected="1">TT-------------</AM>
 </tag>
 </m>
 <m id="m-ln94201-105-p2s5w14">
@@ -1194,7 +1197,10 @@
 <LM>w#w-ln94201-105-p3s5w3</LM>
 </w.rf>
 <form>Rudi</form>
-<tag lemma="Rudi_;Y_,t" src="auto" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Rudi_;Y_,t" src="auto">NNMS1-----A----</AM>
+<AM lemma="Rudi_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94201-105-p3s5w4">
 <src.rf>manual</src.rf>
@@ -2250,7 +2256,10 @@
 <LM>w#w-ln94201-105-p5s3w18</LM>
 </w.rf>
 <form>KSČ</form>
-<tag lemma="KSČ-1_:B_;K_^(Komunistická_strana_Československa)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="KSČ-1_:B_;K_^(Komunistická_strana_Československa)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="KSČ-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln94201-105-p5s3w19">
 <src.rf>manual</src.rf>
@@ -3178,7 +3187,7 @@
 <form>Cervantesovi</form>
 <tag>
 <AM lemma="Cervantes_;S" src="orig">NNMS3-----A----</AM>
-<AM lemma="Cervantes_;S" src="auto" recommended="1">NNMS3-----A---1</AM>
+<AM lemma="Cervantes_;S" src="auto" recommended="1" selected="1">NNMS3-----A---1</AM>
 <AM lemma="Cervantes_;S" src="auto">NNMS6-----A---1</AM>
 <AM lemma="Cervantesův_;S_^(*2)" src="auto">AUMP1M---------</AM>
 <AM lemma="Cervantesův_;S_^(*2)" src="auto">AUMP5M---------</AM>
@@ -3356,7 +3365,10 @@
 <LM>w#w-ln94201-105-p6s6w7</LM>
 </w.rf>
 <form>komunismu</form>
-<tag lemma="komunismus" src="orig" selected="1">NNIS2-----A----</tag>
+<tag>
+<AM lemma="komunismus" src="orig">NNIS2-----A----</AM>
+<AM lemma="komunismus_,s_^(^DD**komunizmus)" src="manual" selected="1">NNIS2-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94201-105-p6s6w8">
 <src.rf>manual</src.rf>
@@ -4054,7 +4066,10 @@
 <LM>w#w-ln94201-105-p7s3w23</LM>
 </w.rf>
 <form>ani</form>
-<tag lemma="ani-1" src="auto" selected="1">J^-------------</tag>
+<tag>
+<AM lemma="ani-1" src="auto">J^-------------</AM>
+<AM lemma="ani-2" src="manual" selected="1">TT-------------</AM>
+</tag>
 </m>
 <m id="m-ln94201-105-p7s3w24">
 <src.rf>manual</src.rf>
@@ -4374,7 +4389,7 @@
 <form>právi</form>
 <tag>
 <AM lemma="pravý-2_,s_^(být_práv_[čeho])" src="orig">ACMP------A----</AM>
-<AM lemma="práv_^(oprávněný)" src="auto" recommended="1">ACMP------A----</AM>
+<AM lemma="práv_^(oprávněný)" src="auto" recommended="1" selected="1">ACMP------A----</AM>
 </tag>
 </m>
 <m id="m-ln94201-105-p7s6w13">
@@ -4757,7 +4772,7 @@
 <form>ovšem</form>
 <tag>
 <AM lemma="ovšem-1_^(avšak,_však;_odporovací_spojka)" src="orig">J^-------------</AM>
-<AM lemma="ovšem" src="auto" recommended="1">TT-------------</AM>
+<AM lemma="ovšem" src="auto" recommended="1" selected="1">TT-------------</AM>
 </tag>
 </m>
 <m id="m-ln94201-105-p7s8w13">
@@ -4800,7 +4815,10 @@
 <LM>w#w-ln94201-105-p7s9w2</LM>
 </w.rf>
 <form>jenom</form>
-<tag lemma="jenom-1" src="auto" selected="1">TT-------------</tag>
+<tag>
+<AM lemma="jenom-1" src="auto">TT-------------</AM>
+<AM lemma="jenom-2_^(pouze)" src="manual" selected="1">Db-------------</AM>
+</tag>
 </m>
 <m id="m-ln94201-105-p7s9w3">
 <src.rf>manual</src.rf>

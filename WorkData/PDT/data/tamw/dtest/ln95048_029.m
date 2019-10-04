@@ -48,6 +48,8 @@
 <tag>
 <AM lemma="Roš_;R_,t" src="orig">NNXXX-----A----</AM>
 <AM lemma="Roš_;Y" src="auto" recommended="1">NNFSX-----A----</AM>
+<AM lemma="roš_,t" src="manual">NNXXX-----A----</AM>
+<AM lemma="Roš-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-ln95048-029-p2s1Aw2">
@@ -56,7 +58,11 @@
 <LM>w#w-ln95048-029-p2s1Aw2</LM>
 </w.rf>
 <form>chodeš</form>
-<tag lemma="chodeš_;R_,t" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="chodeš_;R_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="chodeš_,t" src="manual">NNXXX-----A----</AM>
+<AM lemma="chodeš-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln95048-029-p2s1Aw3">
 <src.rf>manual</src.rf>
@@ -532,7 +538,10 @@
 <LM>w#w-ln95048-029-p2s2w26</LM>
 </w.rf>
 <form>J</form>
-<tag lemma="J-0_:B_;Y" src="orig" selected="1">NNMXX-----A---8</tag>
+<tag>
+<AM lemma="J-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
+<AM lemma="J-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95048-029-p2s2w27">
 <src.rf>manual</src.rf>
@@ -567,6 +576,8 @@
 <tag>
 <AM lemma="Roš_;R_,t" src="orig">NNXXX-----A----</AM>
 <AM lemma="Roš_;Y" src="auto" recommended="1">NNFSX-----A----</AM>
+<AM lemma="roš_,t" src="manual">NNXXX-----A----</AM>
+<AM lemma="Roš-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-ln95048-029-p2s2w31">
@@ -575,7 +586,11 @@
 <LM>w#w-ln95048-029-p2s2w31</LM>
 </w.rf>
 <form>chodeš</form>
-<tag lemma="chodeš_;R_,t" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="chodeš_;R_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="chodeš_,t" src="manual">NNXXX-----A----</AM>
+<AM lemma="chodeš-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln95048-029-p2s2w32">
 <src.rf>manual</src.rf>
@@ -739,7 +754,7 @@
 <form>Primem</form>
 <tag>
 <AM lemma="Prim_;Y" src="orig">NNMS7-----A----</AM>
-<AM lemma="Primo_;Y" src="auto" recommended="1">NNMS7-----A----</AM>
+<AM lemma="Primo_;Y" src="auto" recommended="1" selected="1">NNMS7-----A----</AM>
 <AM lemma="prim" src="auto">NNIS7-----A----</AM>
 <AM lemma="primum_,s" src="auto">NNNS7-----A----</AM>
 </tag>
@@ -750,7 +765,10 @@
 <LM>w#w-ln95048-029-p2s3w12</LM>
 </w.rf>
 <form>Levim</form>
-<tag lemma="Levi_;Y_,t" src="auto" selected="1">NNMS7-----A----</tag>
+<tag>
+<AM lemma="Levi_;Y_,t" src="auto">NNMS7-----A----</AM>
+<AM lemma="Levi_;S_;Y" src="manual" selected="1">NNMS7-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95048-029-p2s3w13">
 <src.rf>manual</src.rf>
@@ -1215,7 +1233,7 @@
 <tag>
 <AM lemma="neotřelost_^(*3ý)" src="orig">NNFS4-----A----</AM>
 <AM lemma="otřelost_^(*3ý)" src="auto">NNFS1-----N----</AM>
-<AM lemma="otřelost_^(*3ý)" src="auto" recommended="1">NNFS4-----N----</AM>
+<AM lemma="otřelost_^(*3ý)" src="auto" recommended="1" selected="1">NNFS4-----N----</AM>
 </tag>
 </m>
 <m id="m-ln95048-029-p2s6w9">

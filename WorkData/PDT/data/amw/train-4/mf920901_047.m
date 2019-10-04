@@ -75,7 +75,10 @@
 <LM>w#w-mf920901-047-p1s1w8</LM>
 </w.rf>
 <form>MF</form>
-<tag lemma="MF-1_:B_;R_;b_^(Mladá_Fronta,_deník)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="MF-1_:B_;R_;b_^(Mladá_Fronta,_deník)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="MF-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-mf920901-047-p1s1w9">
 <src.rf>manual</src.rf>
@@ -791,6 +794,7 @@
 <AM lemma="Bercy_;G" src="auto" recommended="1">NNIP4-----A----</AM>
 <AM lemma="Bercy_;G" src="auto">NNIP5-----A----</AM>
 <AM lemma="Bercy_;G" src="auto">NNIP7-----A----</AM>
+<AM lemma="Bercy_;G" src="manual" selected="1">NNIXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920901-047-p2s3w23">
@@ -1029,7 +1033,7 @@
 <tag>
 <AM lemma="přece" src="orig">Db-------------</AM>
 <AM lemma="přece-1" src="auto" recommended="1">J^-------------</AM>
-<AM lemma="přece-2" src="auto">TT-------------</AM>
+<AM lemma="přece-2" src="auto" selected="1">TT-------------</AM>
 </tag>
 </m>
 <m id="m-mf920901-047-p3s1w25">
@@ -1341,6 +1345,7 @@
 <AM lemma="Mitsubishi_;K" src="auto">NNXXX-----A----</AM>
 <AM lemma="mitsubishi_;R" src="auto" recommended="1">NNNXX-----A----</AM>
 <AM lemma="mitsubishi_;R_^(vozidlo)" src="auto">NNXXX-----A----</AM>
+<AM lemma="Mitsubishi_;K_;R" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920901-047-p3s2w36">
@@ -1536,6 +1541,7 @@
 <AM lemma="telefonní_:B_,x" src="auto">AAXXX----1A---8</AM>
 <AM lemma="ten_:B" src="auto">PDNS1---------8</AM>
 <AM lemma="tento_:B_^(př._t._r.,_t._č.)" src="auto">PDXXX---------8</AM>
+<AM lemma="T-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-mf920901-047-p4s1w22">
@@ -1780,7 +1786,7 @@
 <form>ovšem</form>
 <tag>
 <AM lemma="ovšem-1_^(avšak,_však;_odporovací_spojka)" src="orig">J^-------------</AM>
-<AM lemma="ovšem" src="auto" recommended="1">TT-------------</AM>
+<AM lemma="ovšem" src="auto" recommended="1" selected="1">TT-------------</AM>
 </tag>
 </m>
 <m id="m-mf920901-047-p4s2w3">
@@ -1799,7 +1805,7 @@
 <form>nejen</form>
 <tag>
 <AM lemma="nejen" src="orig">TT-------------</AM>
-<AM lemma="nejen" src="auto" recommended="1">Db-------------</AM>
+<AM lemma="nejen" src="auto" recommended="1" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m-mf920901-047-p4s2w5">
@@ -2130,7 +2136,10 @@
 <LM>w#w-mf920901-047-p5s1w9</LM>
 </w.rf>
 <form>Perlini</form>
-<tag lemma="Perlini_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Perlini_;S" src="orig">NNMS1-----A----</AM>
+<AM lemma="Perlini_;K_;R" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920901-047-p5s1w10">
 <src.rf>manual</src.rf>
@@ -2159,6 +2168,7 @@
 <AM lemma="F-9_:B_;S" src="auto">NNXXX-----A---8</AM>
 <AM lemma="f-3_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
 <AM lemma="f-8_:B_^(ost._zkratka)" src="auto">XX------------8</AM>
+<AM lemma="F-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-mf920901-047-p5s1w12">
@@ -2271,7 +2281,10 @@
 <LM>w#w-mf920901-047-p5s1w25</LM>
 </w.rf>
 <form>T</form>
-<tag lemma="t-1`tuna_:B" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="t-1`tuna_:B" src="orig">NNFXX-----A---8</AM>
+<AM lemma="T-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-mf920901-047-p5s1w26">
 <src.rf>manual</src.rf>
@@ -2511,7 +2524,10 @@
 <LM>w#w-mf920901-047-p5s1w55</LM>
 </w.rf>
 <form>Ural</form>
-<tag lemma="Ural_;G" src="orig" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="Ural_;G" src="orig">NNIS1-----A----</AM>
+<AM lemma="Ural_;G_;R" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920901-047-p5s1w56">
 <src.rf>manual</src.rf>
@@ -2731,7 +2747,10 @@
 <LM>w#w-mf920901-047-p6s2w10</LM>
 </w.rf>
 <form>AK</form>
-<tag lemma="AK_:B" src="auto" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="AK_:B" src="auto">NNXXX-----A---8</AM>
+<AM lemma="AK-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-mf920901-047-p6s2w11">
 <src.rf>manual</src.rf>
@@ -3267,7 +3286,7 @@
 <form>ovšem</form>
 <tag>
 <AM lemma="ovšem-1_^(avšak,_však;_odporovací_spojka)" src="orig">J^-------------</AM>
-<AM lemma="ovšem" src="auto" recommended="1">TT-------------</AM>
+<AM lemma="ovšem" src="auto" recommended="1" selected="1">TT-------------</AM>
 </tag>
 </m>
 <m id="m-mf920901-047-p7s2w5">

@@ -19,7 +19,10 @@
 <LM>w#w-vesm9211-047-p1s1w1</LM>
 </w.rf>
 <form>Ad</form>
-<tag lemma="ad_,t" src="orig" selected="1">RR--1----------</tag>
+<tag>
+<AM lemma="ad_,t" src="orig">RR--1----------</AM>
+<AM lemma="Ad-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-vesm9211-047-p1s1w2">
 <src.rf>manual</src.rf>
@@ -27,7 +30,10 @@
 <LM>w#w-vesm9211-047-p1s1w2</LM>
 </w.rf>
 <form>Redukcionismus</form>
-<tag lemma="redukcionizmus" src="orig" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="redukcionizmus" src="orig">NNIS1-----A----</AM>
+<AM lemma="redukcionismus_,s_^(^DD**redukcionizmus)" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-vesm9211-047-p1s1w3">
 <src.rf>manual</src.rf>
@@ -223,7 +229,10 @@
 <LM>w#w-vesm9211-047-p3s1w5</LM>
 </w.rf>
 <form>jen</form>
-<tag lemma="jen-1" src="auto" selected="1">TT-------------</tag>
+<tag>
+<AM lemma="jen-1" src="auto">TT-------------</AM>
+<AM lemma="jen-4_^(pouze)" src="manual" selected="1">Db-------------</AM>
+</tag>
 </m>
 <m id="m-vesm9211-047-p3s1w6">
 <src.rf>manual</src.rf>
@@ -289,7 +298,10 @@
 <LM>w#w-vesm9211-047-p5s1w1</LM>
 </w.rf>
 <form>Jen</form>
-<tag lemma="jen-1" src="auto" selected="1">TT-------------</tag>
+<tag>
+<AM lemma="jen-1" src="auto">TT-------------</AM>
+<AM lemma="jen-4_^(pouze)" src="manual" selected="1">Db-------------</AM>
+</tag>
 </m>
 <m id="m-vesm9211-047-p5s1w2">
 <src.rf>manual</src.rf>
@@ -543,7 +555,11 @@
 <LM>w#w-vesm9211-047-p9s1w1</LM>
 </w.rf>
 <form>RNDr</form>
-<tag lemma="RNDr-1_:B_^(doktor_přír._věd)" src="orig" selected="1">NNMXX-----A---8</tag>
+<tag>
+<AM lemma="RNDr-1_:B_^(doktor_přír._věd)" src="orig">NNMXX-----A---8</AM>
+<AM lemma="RND_:B_^(doktor_přír._věd)" src="manual">NNXXX-----A----</AM>
+<AM lemma="RNDr_:B_^(doktor_přír._věd)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-vesm9211-047-p9s1w2">
 <src.rf>manual</src.rf>
@@ -567,7 +583,10 @@
 <LM>w#w-vesm9211-047-p9s1w4</LM>
 </w.rf>
 <form>Wilhelm</form>
-<tag lemma="Wilhelm_;Y" src="orig" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Wilhelm_;Y" src="orig">NNMS1-----A----</AM>
+<AM lemma="Wilhelm_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-vesm9211-047-p9s1w5">
 <src.rf>manual</src.rf>

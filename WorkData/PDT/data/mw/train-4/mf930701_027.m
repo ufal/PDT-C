@@ -19,7 +19,10 @@
 <LM>w#w-mf930701-027-p1s1w1</LM>
 </w.rf>
 <form>kursovní</form>
-<tag lemma="kursovní" src="orig" selected="1">AAIS1----1A----</tag>
+<tag>
+<AM lemma="kursovní" src="orig">AAIS1----1A----</AM>
+<AM lemma="kursovní_,s_^(^DD**kurzovní)" src="manual" selected="1">AAIS1----1A----</AM>
+</tag>
 </m>
 <m id="m-mf930701-027-p1s1w2">
 <src.rf>manual</src.rf>
@@ -180,6 +183,7 @@
 <tag>
 <AM lemma="USA_;G" src="orig">NNIPX-----A----</AM>
 <AM lemma="USA_:B_;K_,t_^(United_States_of_America)" src="auto" recommended="1">NNIPX-----A---8</AM>
+<AM lemma="USA_:B_;K_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-mf930701-027-p4s1w2">
@@ -252,7 +256,10 @@
 <LM>w#w-mf930701-027-p5s1w1</LM>
 </w.rf>
 <form>SRN</form>
-<tag lemma="SRN_:B_;G" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="SRN_:B_;G" src="orig">NNFXX-----A---8</AM>
+<AM lemma="SRN-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-mf930701-027-p5s1w2">
 <src.rf>manual</src.rf>
@@ -260,7 +267,10 @@
 <LM>w#w-mf930701-027-p5s1w2</LM>
 </w.rf>
 <form>DEM</form>
-<tag lemma="DEM_:B_;b_^(německá_marka)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="DEM_:B_;b_^(německá_marka)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="DEM-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-mf930701-027-p5s1w3">
 <src.rf>manual</src.rf>
@@ -332,7 +342,10 @@
 <LM>w#w-mf930701-027-p6s1w2</LM>
 </w.rf>
 <form>GBP</form>
-<tag lemma="GBP_:B_;b_^(Britská_libra,_mez._zkr.)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="GBP_:B_;b_^(Britská_libra,_mez._zkr.)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="GBP-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-mf930701-027-p6s1w3">
 <src.rf>manual</src.rf>
@@ -428,7 +441,10 @@
 <LM>w#w-mf930701-027-p7s1w5</LM>
 </w.rf>
 <form>JPY</form>
-<tag lemma="JPY_:B_;b_^(japonský_jen)" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="JPY_:B_;b_^(japonský_jen)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="JPY-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-mf930701-027-p7s1w6">
 <src.rf>manual</src.rf>
@@ -500,7 +516,10 @@
 <LM>w#w-mf930701-027-p8s1w2</LM>
 </w.rf>
 <form>CHF</form>
-<tag lemma="CHF_:B_;b_^(Švýc._frank,_mez._zkr.)" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="CHF_:B_;b_^(Švýc._frank,_mez._zkr.)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="CHF-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-mf930701-027-p8s1w3">
 <src.rf>manual</src.rf>
@@ -572,7 +591,10 @@
 <LM>w#w-mf930701-027-p9s1w2</LM>
 </w.rf>
 <form>FRF</form>
-<tag lemma="FRF_:B_;b_^(francouzský_frank)" src="auto" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="FRF_:B_;b_^(francouzský_frank)" src="auto">NNXXX-----A---8</AM>
+<AM lemma="FRF-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-mf930701-027-p9s1w3">
 <src.rf>manual</src.rf>
@@ -668,7 +690,10 @@
 <LM>w#w-mf930701-027-p10s1w5</LM>
 </w.rf>
 <form>BEF</form>
-<tag lemma="BEF_:B_;b_^(belgický_frank)" src="auto" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="BEF_:B_;b_^(belgický_frank)" src="auto">NNXXX-----A---8</AM>
+<AM lemma="BEF-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-mf930701-027-p10s1w6">
 <src.rf>manual</src.rf>
@@ -740,7 +765,10 @@
 <LM>w#w-mf930701-027-p11s1w2</LM>
 </w.rf>
 <form>NLG</form>
-<tag lemma="NLG_:B_;b_^(nizozemský_gulden)" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="NLG_:B_;b_^(nizozemský_gulden)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="NLG-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-mf930701-027-p11s1w3">
 <src.rf>manual</src.rf>
@@ -836,7 +864,10 @@
 <LM>w#w-mf930701-027-p12s1w5</LM>
 </w.rf>
 <form>ITL</form>
-<tag lemma="ITL_:B_;b_^(italská_lira)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ITL_:B_;b_^(italská_lira)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ITL-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-mf930701-027-p12s1w6">
 <src.rf>manual</src.rf>
@@ -908,7 +939,10 @@
 <LM>w#w-mf930701-027-p13s1w2</LM>
 </w.rf>
 <form>ATS</form>
-<tag lemma="ATS_:B_;b_^(rakouský_šilink)" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="ATS_:B_;b_^(rakouský_šilink)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="ATS-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-mf930701-027-p13s1w3">
 <src.rf>manual</src.rf>
@@ -1004,7 +1038,10 @@
 <LM>w#w-mf930701-027-p14s1w5</LM>
 </w.rf>
 <form>GRD</form>
-<tag lemma="GRD_:B_;b_^(řecká_drachma)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="GRD_:B_;b_^(řecká_drachma)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="GRD-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-mf930701-027-p14s1w6">
 <src.rf>manual</src.rf>
@@ -1100,7 +1137,10 @@
 <LM>w#w-mf930701-027-p15s1w5</LM>
 </w.rf>
 <form>ESP</form>
-<tag lemma="ESP_:B_;b_^(španělská_peseta)" src="auto" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="ESP_:B_;b_^(španělská_peseta)" src="auto">NNXXX-----A---8</AM>
+<AM lemma="ESP-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-mf930701-027-p15s1w6">
 <src.rf>manual</src.rf>
@@ -1315,6 +1355,7 @@
 <AM lemma="Ems_;G" src="auto">NNIS4-----A----</AM>
 <AM lemma="ems_;L_^(stratigrafický_stupeň)" src="auto">NNIS1-----A----</AM>
 <AM lemma="ems_;L_^(stratigrafický_stupeň)" src="auto">NNIS4-----A----</AM>
+<AM lemma="EMS-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-mf930701-027-p18s1w2">
@@ -1334,6 +1375,7 @@
 <tag>
 <AM lemma="ECU_:B" src="orig">NNNXX-----A---8</AM>
 <AM lemma="ECU_:B_;b" src="auto" recommended="1">NNFXX-----A---8</AM>
+<AM lemma="ECU-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-mf930701-027-p18s1w4">
@@ -1342,7 +1384,10 @@
 <LM>w#w-mf930701-027-p18s1w4</LM>
 </w.rf>
 <form>XEU</form>
-<tag lemma="XEU_:B" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="XEU_:B" src="orig">NNXXX-----A---8</AM>
+<AM lemma="XEU-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-mf930701-027-p18s1w5">
 <src.rf>manual</src.rf>
@@ -1411,7 +1456,10 @@
 <LM>w#w-mf930701-027-p19s1w2</LM>
 </w.rf>
 <form>XCU</form>
-<tag lemma="XCU_:B" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="XCU_:B" src="orig">NNXXX-----A---8</AM>
+<AM lemma="XCU-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-mf930701-027-p19s1w3">
 <src.rf>manual</src.rf>
@@ -1478,7 +1526,10 @@
 <LM>w#w-mf930701-027-p20s1w2</LM>
 </w.rf>
 <form>XCU</form>
-<tag lemma="XCU_:B" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="XCU_:B" src="orig">NNXXX-----A---8</AM>
+<AM lemma="XCU-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-mf930701-027-p20s1w3">
 <src.rf>manual</src.rf>
@@ -1511,7 +1562,10 @@
 <LM>w#w-mf930701-027-p20s1w6</LM>
 </w.rf>
 <form>Sk</form>
-<tag lemma="Sk_:B_;K" src="auto" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="Sk_:B_;K" src="auto">NNFXX-----A---8</AM>
+<AM lemma="Sk-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-mf930701-027-p20s1w7">
 <src.rf>manual</src.rf>
@@ -1539,6 +1593,7 @@
 <AM lemma="kursovní_:B" src="orig">AAXXX----1A---8</AM>
 <AM lemma="kurs" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="kurs" src="auto">NNIS4-----A----</AM>
+<AM lemma="kursovní_:B_,s_^(^DD**kurzovní)" src="manual" selected="1">AAXXX----1A---8</AM>
 </tag>
 </m>
 <m id="m-mf930701-027-p20s1w10">
@@ -1563,7 +1618,10 @@
 <LM>w#w-mf930701-027-p20s1w12</LM>
 </w.rf>
 <form>NBS</form>
-<tag lemma="NBS_:B_;K_^(Národní_banka_Slovenska)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="NBS_:B_;K_^(Národní_banka_Slovenska)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="NBS-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-mf930701-027-p20s1w13">
 <src.rf>manual</src.rf>

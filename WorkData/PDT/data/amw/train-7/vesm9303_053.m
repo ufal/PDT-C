@@ -19,7 +19,10 @@
 <LM>w#w-vesm9303-053-p1s1w1</LM>
 </w.rf>
 <form>PRÍHNÚKAGÍGUR</form>
-<tag lemma="príhnúkagígur_,t" src="orig" selected="1">NNXXX-----A----</tag>
+<tag>
+<AM lemma="príhnúkagígur_,t" src="orig">NNXXX-----A----</AM>
+<AM lemma="Príhnúkagígur_;G" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-vesm9303-053-p1s1w2">
 <src.rf>manual</src.rf>

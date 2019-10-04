@@ -85,7 +85,10 @@
 <LM>w#w-mf920922-072-p2s1w7</LM>
 </w.rf>
 <form>Dragon</form>
-<tag lemma="Dragona_;G" src="orig" selected="1">NNFP2-----A----</tag>
+<tag>
+<AM lemma="Dragona_;G" src="orig">NNFP2-----A----</AM>
+<AM lemma="Dragon_;K" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920922-072-p2s1w8">
 <src.rf>manual</src.rf>
@@ -585,7 +588,10 @@
 <LM>w#w-mf920922-072-p2s3w5</LM>
 </w.rf>
 <form>Dragon</form>
-<tag lemma="Dragona_;G" src="orig" selected="1">NNFP2-----A----</tag>
+<tag>
+<AM lemma="Dragona_;G" src="orig">NNFP2-----A----</AM>
+<AM lemma="Dragon_;K" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920922-072-p2s3w6">
 <src.rf>manual</src.rf>
@@ -605,6 +611,7 @@
 <AM lemma="bod_:B" src="orig">NNIXX-----A---8</AM>
 <AM lemma="b-3_^(označení_pomocí_písmene)" src="auto" recommended="1">NNNXX-----A----</AM>
 <AM lemma="b-8_:B_^(ost._zkratka)" src="auto">XX------------8</AM>
+<AM lemma="bod" src="manual" selected="1">NNIXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-mf920922-072-p2s3w8">

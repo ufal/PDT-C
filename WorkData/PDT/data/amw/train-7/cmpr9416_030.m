@@ -63,7 +63,10 @@
 <LM>w#w-cmpr9416-030-p4s1w2</LM>
 </w.rf>
 <form>Fornax</form>
-<tag lemma="Fornax_;G_^(souhvězdí)" src="orig" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="Fornax_;G_^(souhvězdí)" src="orig">NNIS1-----A----</AM>
+<AM lemma="Fornax_;G_;K" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-cmpr9416-030-p4s1w3">
 <src.rf>manual</src.rf>
@@ -151,7 +154,10 @@
 <LM>w#w-cmpr9416-030-p4s1w13</LM>
 </w.rf>
 <form>TIS</form>
-<tag lemma="Tisa_;G" src="orig" selected="1">NNFP2-----A----</tag>
+<tag>
+<AM lemma="Tisa_;G" src="orig">NNFP2-----A----</AM>
+<AM lemma="TIS-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-cmpr9416-030-p4s1w14">
 <src.rf>manual</src.rf>
@@ -425,6 +431,7 @@
 <AM lemma="Fornax-2_;K" src="orig">NNFS1-----A----</AM>
 <AM lemma="Fornax_;G_^(souhvězdí)" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Fornax_;G_^(souhvězdí)" src="auto">NNIS4-----A----</AM>
+<AM lemma="Fornax_;G_;K" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9416-030-p5s1w4">

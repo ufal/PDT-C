@@ -61,7 +61,10 @@
 <LM>w#w-ln94207-112-p2s1Aw1</LM>
 </w.rf>
 <form>Petr</form>
-<tag lemma="Petr_;Y" src="orig" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Petr_;Y" src="orig">NNMS1-----A----</AM>
+<AM lemma="Petr_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94207-112-p2s1Aw2">
 <src.rf>manual</src.rf>
@@ -211,7 +214,7 @@
 <form>neotřele</form>
 <tag>
 <AM lemma="neotřele_^(*1ý)" src="orig">Dg-------1A----</AM>
-<AM lemma="otřele_^(*1ý)" src="auto" recommended="1">Dg-------1N----</AM>
+<AM lemma="otřele_^(*1ý)" src="auto" recommended="1" selected="1">Dg-------1N----</AM>
 </tag>
 </m>
 <m id="m-ln94207-112-p3s1w5">
@@ -542,6 +545,7 @@
 <AM lemma="duodenum_;U" src="auto">NNNP4-----A----</AM>
 <AM lemma="duodenum_;U" src="auto">NNNP5-----A----</AM>
 <AM lemma="duodenum_;U" src="auto">NNNS2-----A----</AM>
+<AM lemma="Duodena-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-ln94207-112-p3s3w11">
@@ -550,7 +554,10 @@
 <LM>w#w-ln94207-112-p3s3w11</LM>
 </w.rf>
 <form>Cantitans</form>
-<tag lemma="Cantitans_;K_,t" src="orig" selected="1">AAFSX----1A----</tag>
+<tag>
+<AM lemma="Cantitans_;K_,t" src="orig">AAFSX----1A----</AM>
+<AM lemma="Cantitans-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94207-112-p3s3w12">
 <src.rf>manual</src.rf>
@@ -566,7 +573,10 @@
 <LM>w#w-ln94207-112-p3s3w13</LM>
 </w.rf>
 <form>Capella</form>
-<tag lemma="Capella_;G" src="auto" selected="1">NNFS1-----A----</tag>
+<tag>
+<AM lemma="Capella_;G" src="auto">NNFS1-----A----</AM>
+<AM lemma="Capella-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94207-112-p3s3w14">
 <src.rf>manual</src.rf>
@@ -574,7 +584,10 @@
 <LM>w#w-ln94207-112-p3s3w14</LM>
 </w.rf>
 <form>Rudolphina</form>
-<tag lemma="Rudolphina_;K_,t" src="orig" selected="1">AAFS1----1A----</tag>
+<tag>
+<AM lemma="Rudolphina_;K_,t" src="orig">AAFS1----1A----</AM>
+<AM lemma="Rudolphina-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94207-112-p3s3w15">
 <src.rf>manual</src.rf>
@@ -598,7 +611,10 @@
 <LM>w#w-ln94207-112-p3s3w17</LM>
 </w.rf>
 <form>Michael</form>
-<tag lemma="Michael_;S_;Y" src="auto" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Michael_;S_;Y" src="auto">NNMS1-----A----</AM>
+<AM lemma="Michael-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94207-112-p3s3w18">
 <src.rf>manual</src.rf>
@@ -606,7 +622,10 @@
 <LM>w#w-ln94207-112-p3s3w18</LM>
 </w.rf>
 <form>Consort</form>
-<tag lemma="Consort_;K" src="orig" selected="1">NNIXX-----A----</tag>
+<tag>
+<AM lemma="Consort_;K" src="orig">NNIXX-----A----</AM>
+<AM lemma="Consort-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94207-112-p3s3w19">
 <src.rf>manual</src.rf>
@@ -923,6 +942,7 @@
 <tag>
 <AM lemma="Duodena_;K_,t" src="orig">NNFS2-----A----</AM>
 <AM lemma="duodenum_;U" src="auto" recommended="1">NNNP7-----A----</AM>
+<AM lemma="Duodena_;K" src="manual" selected="1">NNFS2-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94207-112-p3s4w8">
@@ -1051,7 +1071,10 @@
 <LM>w#w-ln94207-112-p3s4w23</LM>
 </w.rf>
 <form>spíše</form>
-<tag lemma="spíše" src="orig" selected="1">Dg-------2A---1</tag>
+<tag>
+<AM lemma="spíše" src="orig">Dg-------2A---1</AM>
+<AM lemma="spíš" src="manual" selected="1">TT------------1</AM>
+</tag>
 </m>
 <m id="m-ln94207-112-p3s4w24">
 <src.rf>manual</src.rf>
@@ -1187,6 +1210,7 @@
 <AM lemma="renezance" src="auto">NNFS1-----A----</AM>
 <AM lemma="renezance" src="auto" recommended="1">NNFS2-----A----</AM>
 <AM lemma="renezance" src="auto">NNFS5-----A----</AM>
+<AM lemma="renesance_,s_^(^DD**renezance)" src="manual" selected="1">NNFS2-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94207-112-p3s4w40">
@@ -1240,6 +1264,7 @@
 <tag>
 <AM lemma="Duodena_;K_,t" src="orig">NNFS2-----A----</AM>
 <AM lemma="duodenum_;U" src="auto" recommended="1">NNNP7-----A----</AM>
+<AM lemma="Duodeny-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-ln94207-112-p3s5w6">
@@ -1248,7 +1273,10 @@
 <LM>w#w-ln94207-112-p3s5w6</LM>
 </w.rf>
 <form>Cantitans</form>
-<tag lemma="Cantitans_;K_,t" src="orig" selected="1">AAFSX----1A----</tag>
+<tag>
+<AM lemma="Cantitans_;K_,t" src="orig">AAFSX----1A----</AM>
+<AM lemma="Cantitans-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94207-112-p3s5w7">
 <src.rf>manual</src.rf>
@@ -1290,7 +1318,7 @@
 <form>ovšem</form>
 <tag>
 <AM lemma="ovšem-1_^(avšak,_však;_odporovací_spojka)" src="orig">J^-------------</AM>
-<AM lemma="ovšem" src="auto" recommended="1">TT-------------</AM>
+<AM lemma="ovšem" src="auto" recommended="1" selected="1">TT-------------</AM>
 </tag>
 </m>
 <m id="m-ln94207-112-p3s5w12">
@@ -1461,7 +1489,10 @@
 <LM>w#w-ln94207-112-p4s1w10</LM>
 </w.rf>
 <form>Musica</form>
-<tag lemma="Musica_;u_^(Musica_Bohemica)" src="auto" selected="1">NNFS1-----A----</tag>
+<tag>
+<AM lemma="Musica_;u_^(Musica_Bohemica)" src="auto">NNFS1-----A----</AM>
+<AM lemma="Musica-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94207-112-p4s1w11">
 <src.rf>manual</src.rf>
@@ -1469,7 +1500,10 @@
 <LM>w#w-ln94207-112-p4s1w11</LM>
 </w.rf>
 <form>Florea</form>
-<tag lemma="Florea_;K_,t" src="orig" selected="1">AAFS1----1A----</tag>
+<tag>
+<AM lemma="Florea_;K_,t" src="orig">AAFS1----1A----</AM>
+<AM lemma="Florea-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94207-112-p4s1w12">
 <src.rf>manual</src.rf>
@@ -2211,6 +2245,7 @@
 <AM lemma="duodenum_;U" src="auto">NNNP4-----A----</AM>
 <AM lemma="duodenum_;U" src="auto">NNNP5-----A----</AM>
 <AM lemma="duodenum_;U" src="auto">NNNS2-----A----</AM>
+<AM lemma="Duodena-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-ln94207-112-p5s1w5">
@@ -2219,7 +2254,10 @@
 <LM>w#w-ln94207-112-p5s1w5</LM>
 </w.rf>
 <form>Cantitans</form>
-<tag lemma="Cantitans_;K_,t" src="orig" selected="1">AAFSX----1A----</tag>
+<tag>
+<AM lemma="Cantitans_;K_,t" src="orig">AAFSX----1A----</AM>
+<AM lemma="Cantitans-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94207-112-p5s1w6">
 <src.rf>manual</src.rf>
@@ -2235,7 +2273,10 @@
 <LM>w#w-ln94207-112-p5s1w7</LM>
 </w.rf>
 <form>Capella</form>
-<tag lemma="Capella_;G" src="auto" selected="1">NNFS1-----A----</tag>
+<tag>
+<AM lemma="Capella_;G" src="auto">NNFS1-----A----</AM>
+<AM lemma="Capella-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94207-112-p5s1w8">
 <src.rf>manual</src.rf>
@@ -2243,7 +2284,10 @@
 <LM>w#w-ln94207-112-p5s1w8</LM>
 </w.rf>
 <form>Rudolphina</form>
-<tag lemma="Rudolphina_;K_,t" src="orig" selected="1">AAFS1----1A----</tag>
+<tag>
+<AM lemma="Rudolphina_;K_,t" src="orig">AAFS1----1A----</AM>
+<AM lemma="Rudolphina-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94207-112-p5s1w9">
 <src.rf>manual</src.rf>
@@ -2259,7 +2303,10 @@
 <LM>w#w-ln94207-112-p5s1w10</LM>
 </w.rf>
 <form>Michael</form>
-<tag lemma="Michael_;S_;Y" src="auto" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Michael_;S_;Y" src="auto">NNMS1-----A----</AM>
+<AM lemma="Michael-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94207-112-p5s1w11">
 <src.rf>manual</src.rf>
@@ -2267,7 +2314,10 @@
 <LM>w#w-ln94207-112-p5s1w11</LM>
 </w.rf>
 <form>Consort</form>
-<tag lemma="Consort_;K" src="orig" selected="1">NNIXX-----A----</tag>
+<tag>
+<AM lemma="Consort_;K" src="orig">NNIXX-----A----</AM>
+<AM lemma="Consort-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94207-112-p5s1w12">
 <src.rf>manual</src.rf>
@@ -2301,7 +2351,10 @@
 <LM>w#w-ln94207-112-p5s2w3</LM>
 </w.rf>
 <form>svatých</form>
-<tag lemma="svatý-1" src="auto" selected="1">AAMP2----1A----</tag>
+<tag>
+<AM lemma="svatý-1" src="auto">AAMP2----1A----</AM>
+<AM lemma="svatý-2" src="manual" selected="1">NNMP2-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94207-112-p5s2w4">
 <src.rf>manual</src.rf>
@@ -2391,7 +2444,10 @@
 <LM>w#w-ln94207-112-p6s1w4</LM>
 </w.rf>
 <form>Musica</form>
-<tag lemma="Musica_;u_^(Musica_Bohemica)" src="auto" selected="1">NNFS1-----A----</tag>
+<tag>
+<AM lemma="Musica_;u_^(Musica_Bohemica)" src="auto">NNFS1-----A----</AM>
+<AM lemma="Musica-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94207-112-p6s1w5">
 <src.rf>manual</src.rf>
@@ -2399,7 +2455,10 @@
 <LM>w#w-ln94207-112-p6s1w5</LM>
 </w.rf>
 <form>Florea</form>
-<tag lemma="Florea_;K_,t" src="orig" selected="1">AAFS1----1A----</tag>
+<tag>
+<AM lemma="Florea_;K_,t" src="orig">AAFS1----1A----</AM>
+<AM lemma="Florea-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94207-112-p6s1w6">
 <src.rf>manual</src.rf>
@@ -2433,7 +2492,10 @@
 <LM>w#w-ln94207-112-p6s2w3</LM>
 </w.rf>
 <form>svatých</form>
-<tag lemma="svatý-1" src="auto" selected="1">AAMP2----1A----</tag>
+<tag>
+<AM lemma="svatý-1" src="auto">AAMP2----1A----</AM>
+<AM lemma="svatý-2" src="manual" selected="1">NNMP2-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94207-112-p6s2w4">
 <src.rf>manual</src.rf>

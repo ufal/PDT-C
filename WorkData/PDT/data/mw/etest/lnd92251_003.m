@@ -116,11 +116,13 @@
 </w.rf>
 <form>červeno</form>
 <tag>
-<AM lemma="červený-1_;o" src="orig">A2--------A----</AM>
+<AM lemma="červený-1_;o" src="orig" selected="1">A2--------A----</AM>
 <AM lemma="červeno-1_;o" src="auto" recommended="1">Dg-------1A----</AM>
 <AM lemma="červeno-2_;o" src="auto">NNNS1-----A----</AM>
 <AM lemma="červeno-2_;o" src="auto">NNNS4-----A----</AM>
 <AM lemma="červeno-2_;o" src="auto">NNNS5-----A----</AM>
+<AM lemma="červený-2" src="manual">A2--------A----</AM>
+<AM lemma="červený-1" src="manual">A2--------A----</AM>
 </tag>
 </m>
 <m id="m-lnd92251-003-p1s1w14">
@@ -138,7 +140,7 @@
 </w.rf>
 <form>modro</form>
 <tag>
-<AM lemma="modrý" src="orig">A2--------A----</AM>
+<AM lemma="modrý" src="orig" selected="1">A2--------A----</AM>
 <AM lemma="modro" src="auto" recommended="1">NNNS1-----A----</AM>
 <AM lemma="modro" src="auto">NNNS4-----A----</AM>
 <AM lemma="modro" src="auto">NNNS5-----A----</AM>

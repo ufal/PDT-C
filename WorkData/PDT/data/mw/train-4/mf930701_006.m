@@ -239,7 +239,10 @@
 <LM>w#w-mf930701-006-p2s2w14</LM>
 </w.rf>
 <form>coca</form>
-<tag lemma="coca_;L_,t" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="coca_;L_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="coca-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-mf930701-006-p2s2w15">
 <src.rf>manual</src.rf>
@@ -728,7 +731,7 @@
 </w.rf>
 <form>Želenického</form>
 <tag>
-<AM lemma="Želenický_;S" src="orig">NNMS1-----A----</AM>
+<AM lemma="Želenický_;S" src="orig" selected="1">NNMS1-----A----</AM>
 <AM lemma="želenický" src="auto">AAIS2----1A----</AM>
 <AM lemma="želenický" src="auto" recommended="1">AAMS2----1A----</AM>
 <AM lemma="želenický" src="auto">AAMS4----1A----</AM>
@@ -1190,7 +1193,7 @@
 </w.rf>
 <form>Želenický</form>
 <tag>
-<AM lemma="Želenický_;S" src="orig">NNMS1-----A----</AM>
+<AM lemma="Želenický_;S" src="orig" selected="1">NNMS1-----A----</AM>
 <AM lemma="želenický" src="auto">AAFP1----1A---6</AM>
 <AM lemma="želenický" src="auto">AAFP4----1A---6</AM>
 <AM lemma="želenický" src="auto">AAFP5----1A---6</AM>
@@ -1516,7 +1519,7 @@
 <AM lemma="studna" src="orig">NNFP2-----A----</AM>
 <AM lemma="studeň_,a" src="auto">NNFP2-----A----</AM>
 <AM lemma="studeň_,a" src="auto">NNFS7-----A----</AM>
-<AM lemma="studně" src="auto" recommended="1">NNFP2-----A----</AM>
+<AM lemma="studně" src="auto" recommended="1" selected="1">NNFP2-----A----</AM>
 <AM lemma="studně" src="auto">NNFS7-----A----</AM>
 </tag>
 </m>
@@ -1537,7 +1540,7 @@
 </w.rf>
 <form>Želenický</form>
 <tag>
-<AM lemma="Želenický_;S" src="orig">NNMS1-----A----</AM>
+<AM lemma="Želenický_;S" src="orig" selected="1">NNMS1-----A----</AM>
 <AM lemma="želenický" src="auto">AAFP1----1A---6</AM>
 <AM lemma="želenický" src="auto">AAFP4----1A---6</AM>
 <AM lemma="želenický" src="auto">AAFP5----1A---6</AM>
@@ -1741,7 +1744,7 @@
 <AM lemma="studna" src="orig">NNFP2-----A----</AM>
 <AM lemma="studeň_,a" src="auto">NNFP2-----A----</AM>
 <AM lemma="studeň_,a" src="auto">NNFS7-----A----</AM>
-<AM lemma="studně" src="auto" recommended="1">NNFP2-----A----</AM>
+<AM lemma="studně" src="auto" recommended="1" selected="1">NNFP2-----A----</AM>
 <AM lemma="studně" src="auto">NNFS7-----A----</AM>
 </tag>
 </m>

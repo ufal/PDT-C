@@ -37,7 +37,10 @@
 <LM>w#w-ln94206-101-p2s1w2</LM>
 </w.rf>
 <form>Dreams</form>
-<tag lemma="Dreams_;m_,t" src="orig" selected="1">NNIXX-----A----</tag>
+<tag>
+<AM lemma="Dreams_;m_,t" src="orig">NNIXX-----A----</AM>
+<AM lemma="Dreams-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94206-101-p2s1w3">
 <src.rf>manual</src.rf>
@@ -45,7 +48,10 @@
 <LM>w#w-ln94206-101-p2s1w3</LM>
 </w.rf>
 <form>of</form>
-<tag lemma="of-1_,t_^(obv._souč._anglických_názvů,_předl._2._p.)" src="orig" selected="1">RR--X----------</tag>
+<tag>
+<AM lemma="of-1_,t_^(obv._souč._anglických_názvů,_předl._2._p.)" src="orig">RR--X----------</AM>
+<AM lemma="of-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94206-101-p2s1w4">
 <src.rf>manual</src.rf>
@@ -56,6 +62,8 @@
 <tag>
 <AM lemma="Sphinx_;m_,t" src="orig">NNFXX-----A----</AM>
 <AM lemma="sphinx_;L_,t" src="auto" recommended="1">AAXXX----1A----</AM>
+<AM lemma="sphinx_,t" src="manual">NNXXX-----N----</AM>
+<AM lemma="Sphinx-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-ln94206-101-p2s1w5">
@@ -122,7 +130,10 @@
 <LM>w#w-ln94206-101-p2s2w1</LM>
 </w.rf>
 <form>New</form>
-<tag lemma="New-2_;m_,t_^(angl._nový,_souč._ost._názvů)" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="New-2_;m_,t_^(angl._nový,_souč._ost._názvů)" src="orig">AAXXX----1A----</AM>
+<AM lemma="New-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94206-101-p2s2w2">
 <src.rf>manual</src.rf>
@@ -130,7 +141,10 @@
 <LM>w#w-ln94206-101-p2s2w2</LM>
 </w.rf>
 <form>age</form>
-<tag lemma="age_;m_,t" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="age_;m_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="age-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94206-101-p2s2w3">
 <src.rf>manual</src.rf>
@@ -142,6 +156,8 @@
 <AM lemma="live_;m_,t" src="orig">AAXXX----1A----</AM>
 <AM lemma="live_,t" src="auto" recommended="1">NNISX-----A----</AM>
 <AM lemma="live_,t" src="auto">XX-------------</AM>
+<AM lemma="live_,t" src="manual">AAXXX----1A----</AM>
+<AM lemma="live-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-ln94206-101-p2s2w4">
@@ -150,7 +166,10 @@
 <LM>w#w-ln94206-101-p2s2w4</LM>
 </w.rf>
 <form>show</form>
-<tag lemma="show" src="auto" selected="1">NNFXX-----A----</tag>
+<tag>
+<AM lemma="show" src="auto">NNFXX-----A----</AM>
+<AM lemma="show-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94206-101-p2s2w5">
 <src.rf>manual</src.rf>

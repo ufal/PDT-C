@@ -337,7 +337,10 @@
 <LM>w#w-ln95045-003-p2s2w11</LM>
 </w.rf>
 <form>Deutsche</form>
-<tag lemma="Deutsche-1_;K_,t_^(souč._názvů,_např._D._Telekom)" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="Deutsche-1_;K_,t_^(souč._názvů,_např._D._Telekom)" src="orig">AAXXX----1A----</AM>
+<AM lemma="Deutsche-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln95045-003-p2s2w12">
 <src.rf>manual</src.rf>
@@ -345,7 +348,10 @@
 <LM>w#w-ln95045-003-p2s2w12</LM>
 </w.rf>
 <form>Bundesbank</form>
-<tag lemma="Bundesbanka" src="orig" selected="1">NNFP2-----A----</tag>
+<tag>
+<AM lemma="Bundesbanka" src="orig">NNFP2-----A----</AM>
+<AM lemma="Bundesbank-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln95045-003-p2s2w13">
 <src.rf>manual</src.rf>

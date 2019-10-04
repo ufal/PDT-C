@@ -215,7 +215,10 @@
 <LM>w#w-mf930713-153-p2s1Bw17</LM>
 </w.rf>
 <form>UNPROFOR</form>
-<tag lemma="UNPROFOR_:B" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="UNPROFOR_:B" src="orig">NNFXX-----A---8</AM>
+<AM lemma="UNPROFOR-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-mf930713-153-p2s1Bw18">
 <src.rf>manual</src.rf>
@@ -371,7 +374,10 @@
 <LM>w#w-mf930713-153-p2s3w12</LM>
 </w.rf>
 <form>OSN</form>
-<tag lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930713-153-p2s3w13">
 <src.rf>manual</src.rf>
@@ -379,7 +385,10 @@
 <LM>w#w-mf930713-153-p2s3w13</LM>
 </w.rf>
 <form>Butruse</form>
-<tag lemma="Butrus_;S" src="auto" selected="1">NNMS2-----A----</tag>
+<tag>
+<AM lemma="Butrus_;S" src="auto">NNMS2-----A----</AM>
+<AM lemma="Butrus_;S_;Y" src="manual" selected="1">NNMS2-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930713-153-p2s3w14">
 <src.rf>manual</src.rf>
@@ -443,7 +452,10 @@
 <LM>w#w-mf930713-153-p2s3w21</LM>
 </w.rf>
 <form>tzv</form>
-<tag lemma="takzvaný_:B" src="orig" selected="1">AAXXX----1A---8</tag>
+<tag>
+<AM lemma="takzvaný_:B" src="orig">AAXXX----1A---8</AM>
+<AM lemma="takzvaný" src="manual" selected="1">AAXXX----1A---8</AM>
+</tag>
 </m>
 <m id="m-mf930713-153-p2s3w22">
 <src.rf>manual</src.rf>
@@ -515,7 +527,10 @@
 <LM>w#w-mf930713-153-p2s3w30</LM>
 </w.rf>
 <form>nedávno</form>
-<tag lemma="nedávno-1" src="auto" selected="1">Db-------------</tag>
+<tag>
+<AM lemma="nedávno-1" src="auto">Db-------------</AM>
+<AM lemma="dávno-1" src="manual" selected="1">Dg-------1N----</AM>
+</tag>
 </m>
 <m id="m-mf930713-153-p2s3w31">
 <src.rf>manual</src.rf>

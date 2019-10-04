@@ -253,7 +253,10 @@
 <LM>w#w-ln94201-44-p2s1w26</LM>
 </w.rf>
 <form>BJP</form>
-<tag lemma="BJP-1_:B_;K_,t_^(Bharatiya_Janata_Party)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="BJP-1_:B_;K_,t_^(Bharatiya_Janata_Party)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="BJP-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln94201-44-p2s1w27">
 <src.rf>manual</src.rf>
@@ -371,7 +374,7 @@
 <form>zasáhla</form>
 <tag>
 <AM lemma="zasáhnout" src="orig">VpQW---XR-AA---</AM>
-<AM lemma="zasáhnout_:W" src="auto" recommended="1">VpQW---XR-AA--1</AM>
+<AM lemma="zasáhnout_:W" src="auto" recommended="1" selected="1">VpQW---XR-AA--1</AM>
 </tag>
 </m>
 <m id="m-ln94201-44-p2s3w3">
@@ -582,7 +585,10 @@
 <LM>w#w-ln94201-44-p2s4w6</LM>
 </w.rf>
 <form>BJP</form>
-<tag lemma="BJP-1_:B_;K_,t_^(Bharatiya_Janata_Party)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="BJP-1_:B_;K_,t_^(Bharatiya_Janata_Party)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="BJP-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln94201-44-p2s4w7">
 <src.rf>manual</src.rf>
@@ -681,7 +687,7 @@
 </w.rf>
 <form>Nájaka</form>
 <tag>
-<AM lemma="Naják_;S" src="orig">NNMS4-----A----</AM>
+<AM lemma="Naják_;S" src="orig" selected="1">NNMS4-----A----</AM>
 <AM lemma="nájak_,t" src="auto">NNMS2-----A----</AM>
 <AM lemma="nájak_,t" src="auto" recommended="1">NNMS4-----A----</AM>
 </tag>
@@ -756,7 +762,10 @@
 <LM>w#w-ln94201-44-p2s5w12</LM>
 </w.rf>
 <form>Šiv</form>
-<tag lemma="Šiv_;K_,t" src="orig" selected="1">NNMXX-----A----</tag>
+<tag>
+<AM lemma="Šiv_;K_,t" src="orig">NNMXX-----A----</AM>
+<AM lemma="Šiv-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94201-44-p2s5w13">
 <src.rf>manual</src.rf>
@@ -764,7 +773,10 @@
 <LM>w#w-ln94201-44-p2s5w13</LM>
 </w.rf>
 <form>séná</form>
-<tag lemma="séná_;K_,t" src="orig" selected="1">NNFXX-----A----</tag>
+<tag>
+<AM lemma="séná_;K_,t" src="orig">NNFXX-----A----</AM>
+<AM lemma="séná-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94201-44-p2s5w14">
 <src.rf>manual</src.rf>
@@ -852,7 +864,10 @@
 <LM>w#w-ln94201-44-p2s5w24</LM>
 </w.rf>
 <form>BJP</form>
-<tag lemma="BJP-1_:B_;K_,t_^(Bharatiya_Janata_Party)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="BJP-1_:B_;K_,t_^(Bharatiya_Janata_Party)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="BJP-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln94201-44-p2s5w25">
 <src.rf>manual</src.rf>
@@ -918,7 +933,10 @@
 <LM>w#w-ln94201-44-p2s6w3</LM>
 </w.rf>
 <form>BJP</form>
-<tag lemma="BJP-1_:B_;K_,t_^(Bharatiya_Janata_Party)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="BJP-1_:B_;K_,t_^(Bharatiya_Janata_Party)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="BJP-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln94201-44-p2s6w4">
 <src.rf>manual</src.rf>
@@ -935,7 +953,7 @@
 </w.rf>
 <form>Nájak</form>
 <tag>
-<AM lemma="Nájak_;S" src="orig">NNMS1-----A----</AM>
+<AM lemma="Nájak_;S" src="orig" selected="1">NNMS1-----A----</AM>
 <AM lemma="nájak_,t" src="auto" recommended="1">NNMS1-----A----</AM>
 </tag>
 </m>
@@ -1044,7 +1062,7 @@
 </w.rf>
 <form>Lál</form>
 <tag>
-<AM lemma="Lál_;Y" src="orig">NNMS1-----A----</AM>
+<AM lemma="Lál_;Y" src="orig" selected="1">NNMS1-----A----</AM>
 <AM lemma="lát" src="auto" recommended="1">VpYS---XR-AA---</AM>
 </tag>
 </m>

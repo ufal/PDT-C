@@ -381,7 +381,10 @@
 <LM>w#w-lnd94104-009-p1s4w3</LM>
 </w.rf>
 <form>Jicchak</form>
-<tag lemma="Jicchak_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Jicchak_;S" src="orig">NNMS1-----A----</AM>
+<AM lemma="Jicchak_;Y_;S" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd94104-009-p1s4w4">
 <src.rf>manual</src.rf>
@@ -493,7 +496,10 @@
 <LM>w#w-lnd94104-009-p1s4w17</LM>
 </w.rf>
 <form>Warrenem</form>
-<tag lemma="Warren_;S" src="auto" selected="1">NNMS7-----A----</tag>
+<tag>
+<AM lemma="Warren_;S" src="auto">NNMS7-----A----</AM>
+<AM lemma="Warren_;Y_;S" src="manual" selected="1">NNMS7-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd94104-009-p1s4w18">
 <src.rf>manual</src.rf>
@@ -501,7 +507,10 @@
 <LM>w#w-lnd94104-009-p1s4w18</LM>
 </w.rf>
 <form>Christopherem</form>
-<tag lemma="Christopher_;S_;Y" src="auto" selected="1">NNMS7-----A----</tag>
+<tag>
+<AM lemma="Christopher_;S_;Y" src="auto">NNMS7-----A----</AM>
+<AM lemma="Christopher_;Y_;S" src="manual" selected="1">NNMS7-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd94104-009-p1s4w19">
 <src.rf>manual</src.rf>
@@ -841,7 +850,10 @@
 <LM>w#w-lnd94104-009-p1s6w3</LM>
 </w.rf>
 <form>li</form>
-<tag lemma="li-1" src="auto" selected="1">TT-------------</tag>
+<tag>
+<AM lemma="li-1" src="auto">TT-------------</AM>
+<AM lemma="li-2" src="manual" selected="1">J,-------------</AM>
+</tag>
 </m>
 <m id="m-lnd94104-009-p1s6w4">
 <src.rf>manual</src.rf>
@@ -953,7 +965,10 @@
 <LM>w#w-lnd94104-009-p1s6w17</LM>
 </w.rf>
 <form>SELČ</form>
-<tag lemma="SELČ-1_:B_^(středoevropský_letní_čas)" src="auto" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="SELČ-1_:B_^(středoevropský_letní_čas)" src="auto">NNIXX-----A---8</AM>
+<AM lemma="SELČ-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd94104-009-p1s6w18">
 <src.rf>manual</src.rf>
@@ -1035,7 +1050,7 @@
 <AM lemma="mnohaměsíční" src="auto">AAIP4----1A----</AM>
 <AM lemma="mnohaměsíční" src="auto">AAIP5----1A----</AM>
 <AM lemma="mnohaměsíční" src="auto">AAIS1----1A----</AM>
-<AM lemma="mnohaměsíční" src="auto" recommended="1">AAIS4----1A----</AM>
+<AM lemma="mnohaměsíční" src="auto" recommended="1" selected="1">AAIS4----1A----</AM>
 <AM lemma="mnohaměsíční" src="auto">AAIS5----1A----</AM>
 <AM lemma="mnohaměsíční" src="auto">AAMP1----1A----</AM>
 <AM lemma="mnohaměsíční" src="auto">AAMP4----1A----</AM>
@@ -1366,7 +1381,7 @@
 <form>začít</form>
 <tag>
 <AM lemma="začít-1" src="orig">Vf--------A----</AM>
-<AM lemma="začít-1_^(začnout)" src="auto" recommended="1">Vf--------A----</AM>
+<AM lemma="začít-1_^(začnout)" src="auto" recommended="1" selected="1">Vf--------A----</AM>
 <AM lemma="začít-2_^(pocítit)" src="auto">Vf--------A----</AM>
 </tag>
 </m>
@@ -2034,7 +2049,10 @@
 <LM>w#w-lnd94104-009-p1s13w13</LM>
 </w.rf>
 <form>OOP</form>
-<tag lemma="OOP-1_:B_;K_;p_^(Org._pro_osvobození_Palestiny)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="OOP-1_:B_;K_;p_^(Org._pro_osvobození_Palestiny)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="OOP-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd94104-009-p1s13w14">
 <src.rf>manual</src.rf>

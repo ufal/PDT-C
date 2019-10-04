@@ -117,7 +117,10 @@
 <LM>w#w-ln95048-111-p2s1w10</LM>
 </w.rf>
 <form>bustu</form>
-<tag lemma="bysta" src="orig" selected="1">NNFS4-----A----</tag>
+<tag>
+<AM lemma="bysta" src="orig">NNFS4-----A----</AM>
+<AM lemma="busta" src="manual" selected="1">NNFS4-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95048-111-p2s1w11">
 <src.rf>manual</src.rf>
@@ -327,7 +330,10 @@
 <LM>w#w-ln95048-111-p2s2w11</LM>
 </w.rf>
 <form>předán</form>
-<tag lemma="předat-3_:W_^(někomu_něco)" src="orig" selected="1">VsYS---XX-AP---</tag>
+<tag>
+<AM lemma="předat-3_:W_^(někomu_něco)" src="orig">VsYS---XX-AP---</AM>
+<AM lemma="předat_:W" src="manual" selected="1">VsYS---XX-AP---</AM>
+</tag>
 </m>
 <m id="m-ln95048-111-p2s2w12">
 <src.rf>manual</src.rf>
@@ -497,7 +503,12 @@
 <LM>w#w-ln95048-111-p2s3w15</LM>
 </w.rf>
 <form>Vladimira</form>
-<tag lemma="Vladimir_;Y" src="orig" selected="1">NNMS2-----A----</tag>
+<tag>
+<AM lemma="Vladimir_;Y" src="orig">NNMS2-----A----</AM>
+<AM lemma="Vladimir_;Y_,s_^(^DD**Vladimír)Vladimir_;Y" src="manual">NNMS2-----A----</AM>
+<AM lemma="Vladimir_;Y_,s_^(^DD**Vladimír)Vladimir_;Y" src="manual">NNMS2-----A----</AM>
+<AM lemma="Vladimir_;Y_,s_^(^DD**Vladimír)" src="manual" selected="1">NNMS2-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95048-111-p2s3w16">
 <src.rf>manual</src.rf>
@@ -605,7 +616,7 @@
 <form>totiž</form>
 <tag>
 <AM lemma="totiž" src="orig">Db-------------</AM>
-<AM lemma="totiž-1" src="auto" recommended="1">J^-------------</AM>
+<AM lemma="totiž-1" src="auto" recommended="1" selected="1">J^-------------</AM>
 <AM lemma="totiž-2" src="auto">TT-------------</AM>
 </tag>
 </m>
@@ -697,7 +708,10 @@
 <LM>w#w-ln95048-111-p2s5w3</LM>
 </w.rf>
 <form>bust</form>
-<tag lemma="bysta" src="orig" selected="1">NNFP2-----A----</tag>
+<tag>
+<AM lemma="bysta" src="orig">NNFP2-----A----</AM>
+<AM lemma="busta" src="manual" selected="1">NNFP2-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95048-111-p2s5w4">
 <src.rf>manual</src.rf>
@@ -1037,7 +1051,10 @@
 <LM>w#w-ln95048-111-p2s7w13</LM>
 </w.rf>
 <form>busta</form>
-<tag lemma="bysta" src="orig" selected="1">NNFS1-----A----</tag>
+<tag>
+<AM lemma="bysta" src="orig">NNFS1-----A----</AM>
+<AM lemma="busta" src="manual" selected="1">NNFS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95048-111-p2s7w14">
 <src.rf>manual</src.rf>

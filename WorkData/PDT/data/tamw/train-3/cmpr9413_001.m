@@ -223,7 +223,10 @@
 <LM>w#w-cmpr9413-001-p4s1w8</LM>
 </w.rf>
 <form>jen</form>
-<tag lemma="jen-1" src="auto" selected="1">TT-------------</tag>
+<tag>
+<AM lemma="jen-1" src="auto">TT-------------</AM>
+<AM lemma="jen-4_^(pouze)" src="manual" selected="1">Db-------------</AM>
+</tag>
 </m>
 <m id="m-cmpr9413-001-p4s1w9">
 <src.rf>manual</src.rf>
@@ -470,7 +473,10 @@
 <LM>w#w-cmpr9413-001-p4s2w26</LM>
 </w.rf>
 <form>nejvíce</form>
-<tag lemma="hodně-2" src="auto" selected="1">Dg-------3A----</tag>
+<tag>
+<AM lemma="hodně-2" src="auto">Dg-------3A----</AM>
+<AM lemma="nejvíce_^(nejvíce_+_2._p.,_nejvíce_peněz)" src="manual" selected="1">Ca--1----------</AM>
+</tag>
 </m>
 <m id="m-cmpr9413-001-p4s2w27">
 <src.rf>manual</src.rf>
@@ -883,7 +889,10 @@
 <LM>w#w-cmpr9413-001-p8s1w41</LM>
 </w.rf>
 <form>ČR</form>
-<tag lemma="ČR-1_:B_;G_^(Česká_republika)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-cmpr9413-001-p8s1w42">
 <src.rf>manual</src.rf>
@@ -935,7 +944,7 @@
 <form>totiž</form>
 <tag>
 <AM lemma="totiž" src="orig">Db-------------</AM>
-<AM lemma="totiž-1" src="auto" recommended="1">J^-------------</AM>
+<AM lemma="totiž-1" src="auto" recommended="1" selected="1">J^-------------</AM>
 <AM lemma="totiž-2" src="auto">TT-------------</AM>
 </tag>
 </m>
@@ -1694,7 +1703,7 @@
 <form>přičemž</form>
 <tag>
 <AM lemma="přičemž" src="orig">J,-------------</AM>
-<AM lemma="přičemž" src="auto" recommended="1">Db-------------</AM>
+<AM lemma="přičemž" src="auto" recommended="1" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m-cmpr9413-001-p12s1w12">
@@ -2429,7 +2438,10 @@
 <LM>w#w-cmpr9413-001-p15s1w5</LM>
 </w.rf>
 <form>li</form>
-<tag lemma="li-1" src="auto" selected="1">TT-------------</tag>
+<tag>
+<AM lemma="li-1" src="auto">TT-------------</AM>
+<AM lemma="li-2" src="manual" selected="1">J,-------------</AM>
+</tag>
 </m>
 <m id="m-cmpr9413-001-p15s1w6">
 <src.rf>manual</src.rf>
@@ -3049,7 +3061,10 @@
 <LM>w#w-cmpr9413-001-p17s1w5</LM>
 </w.rf>
 <form>li</form>
-<tag lemma="li-1" src="auto" selected="1">TT-------------</tag>
+<tag>
+<AM lemma="li-1" src="auto">TT-------------</AM>
+<AM lemma="li-2" src="manual" selected="1">J,-------------</AM>
+</tag>
 </m>
 <m id="m-cmpr9413-001-p17s1w6">
 <src.rf>manual</src.rf>
@@ -3419,7 +3434,10 @@
 <LM>w#w-cmpr9413-001-p18s1w5</LM>
 </w.rf>
 <form>li</form>
-<tag lemma="li-1" src="auto" selected="1">TT-------------</tag>
+<tag>
+<AM lemma="li-1" src="auto">TT-------------</AM>
+<AM lemma="li-2" src="manual" selected="1">J,-------------</AM>
+</tag>
 </m>
 <m id="m-cmpr9413-001-p18s1w6">
 <src.rf>manual</src.rf>
@@ -3550,7 +3568,7 @@
 <form>jedině</form>
 <tag>
 <AM lemma="jedině_^(*1ý)" src="orig">Dg-------1A----</AM>
-<AM lemma="jedině" src="auto" recommended="1">Db-------------</AM>
+<AM lemma="jedině" src="auto" recommended="1" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m-cmpr9413-001-p18s1w22">
@@ -3601,7 +3619,7 @@
 <form>přičemž</form>
 <tag>
 <AM lemma="přičemž" src="orig">J,-------------</AM>
-<AM lemma="přičemž" src="auto" recommended="1">Db-------------</AM>
+<AM lemma="přičemž" src="auto" recommended="1" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m-cmpr9413-001-p18s1w28">
@@ -4194,7 +4212,10 @@
 <LM>w#w-cmpr9413-001-p22s1w4</LM>
 </w.rf>
 <form>SBD</form>
-<tag lemma="SBD_:B_;K_;b_^(stavební_bytové_družstvo)" src="orig" selected="1">NNNXX-----A---8</tag>
+<tag>
+<AM lemma="SBD_:B_;K_;b_^(stavební_bytové_družstvo)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="SBD-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-cmpr9413-001-p22s1w5">
 <src.rf>manual</src.rf>
@@ -4210,7 +4231,10 @@
 <LM>w#w-cmpr9413-001-p22s1w6</LM>
 </w.rf>
 <form>LBD</form>
-<tag lemma="LBD-1_:B_;K_^(Lidové_bytové_družstvo)" src="auto" selected="1">NNNXX-----A---8</tag>
+<tag>
+<AM lemma="LBD-1_:B_;K_^(Lidové_bytové_družstvo)" src="auto">NNNXX-----A---8</AM>
+<AM lemma="LBD-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-cmpr9413-001-p22s1w7">
 <src.rf>manual</src.rf>
@@ -4234,7 +4258,10 @@
 <LM>w#w-cmpr9413-001-p22s1w9</LM>
 </w.rf>
 <form>jen</form>
-<tag lemma="jen-1" src="auto" selected="1">TT-------------</tag>
+<tag>
+<AM lemma="jen-1" src="auto">TT-------------</AM>
+<AM lemma="jen-4_^(pouze)" src="manual" selected="1">Db-------------</AM>
+</tag>
 </m>
 <m id="m-cmpr9413-001-p22s1w10">
 <src.rf>manual</src.rf>

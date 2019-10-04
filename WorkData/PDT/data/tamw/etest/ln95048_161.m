@@ -68,6 +68,8 @@
 <AM lemma="Fortun_;G" src="auto">NNIS5-----A----</AM>
 <AM lemma="Fortune-1_;K" src="auto">NNISX-----A----</AM>
 <AM lemma="Fortune-2_;S" src="auto" recommended="1">NNMSX-----A----</AM>
+<AM lemma="fortune_,t" src="manual">NNXXX-----A----</AM>
+<AM lemma="Fortune-1_;K_;R" src="manual" selected="1">NNIXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95048-161-p2s1Bw2">
@@ -302,7 +304,10 @@
 <LM>w#w-ln95048-161-p3s1w8</LM>
 </w.rf>
 <form>Rubbermaid</form>
-<tag lemma="Rubbermaid_;K_,t" src="orig" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="Rubbermaid_;K_,t" src="orig">NNIS1-----A----</AM>
+<AM lemma="Rubbermaid-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln95048-161-p3s1w9">
 <src.rf>manual</src.rf>
@@ -406,7 +411,10 @@
 <LM>w#w-ln95048-161-p3s1w21</LM>
 </w.rf>
 <form>Coca</form>
-<tag lemma="Coca_;R" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="Coca_;R" src="orig">AAXXX----1A----</AM>
+<AM lemma="Coca_;R_;K" src="manual" selected="1">AAXXX----1A----</AM>
+</tag>
 </m>
 <m id="m-ln95048-161-p3s1w22">
 <src.rf>manual</src.rf>
@@ -422,7 +430,10 @@
 <LM>w#w-ln95048-161-p3s1w23</LM>
 </w.rf>
 <form>Cola</form>
-<tag lemma="Cola_;R" src="orig" selected="1">NNFS1-----A----</tag>
+<tag>
+<AM lemma="Cola_;R" src="orig">NNFS1-----A----</AM>
+<AM lemma="Cola_;R_;K" src="manual" selected="1">NNFS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95048-161-p3s1w24">
 <src.rf>manual</src.rf>

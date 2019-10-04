@@ -103,7 +103,10 @@
 <LM>w#w-ln95046-117-p2s1Bw5</LM>
 </w.rf>
 <form>Elbe</form>
-<tag lemma="Labe_;G_,t" src="orig" selected="1">NNNXX-----A---2</tag>
+<tag>
+<AM lemma="Labe_;G_,t" src="orig">NNNXX-----A---2</AM>
+<AM lemma="Elbe-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln95046-117-p2s1Bw6">
 <src.rf>manual</src.rf>
@@ -111,7 +114,10 @@
 <LM>w#w-ln95046-117-p2s1Bw6</LM>
 </w.rf>
 <form>Container</form>
-<tag lemma="container" src="orig" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="container" src="orig">NNIS1-----A----</AM>
+<AM lemma="Container-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln95046-117-p2s1Bw7">
 <src.rf>manual</src.rf>
@@ -119,7 +125,10 @@
 <LM>w#w-ln95046-117-p2s1Bw7</LM>
 </w.rf>
 <form>Line</form>
-<tag lemma="linout" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag>
+<AM lemma="linout" src="orig">VB-S---3P-AA---</AM>
+<AM lemma="Line-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln95046-117-p2s1Bw8">
 <src.rf>manual</src.rf>
@@ -295,7 +304,10 @@
 <LM>w#w-ln95046-117-p2s1Bw29</LM>
 </w.rf>
 <form>Deutsche</form>
-<tag lemma="Deutsche-1_;K_,t_^(souč._názvů,_např._D._Telekom)" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="Deutsche-1_;K_,t_^(souč._názvů,_např._D._Telekom)" src="orig">AAXXX----1A----</AM>
+<AM lemma="Deutsche-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln95046-117-p2s1Bw30">
 <src.rf>manual</src.rf>
@@ -303,7 +315,10 @@
 <LM>w#w-ln95046-117-p2s1Bw30</LM>
 </w.rf>
 <form>Binnereederei</form>
-<tag lemma="Binnereederei_;K_,t" src="orig" selected="1">NNFXX-----A----</tag>
+<tag>
+<AM lemma="Binnereederei_;K_,t" src="orig">NNFXX-----A----</AM>
+<AM lemma="Binnereederei-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln95046-117-p2s1Bw31">
 <src.rf>manual</src.rf>
@@ -555,7 +570,10 @@
 <LM>w#w-ln95046-117-p4s1w3</LM>
 </w.rf>
 <form>Elbe</form>
-<tag lemma="Labe_;G_,t" src="orig" selected="1">NNNXX-----A---2</tag>
+<tag>
+<AM lemma="Labe_;G_,t" src="orig">NNNXX-----A---2</AM>
+<AM lemma="Elbe-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln95046-117-p4s1w4">
 <src.rf>manual</src.rf>
@@ -563,7 +581,10 @@
 <LM>w#w-ln95046-117-p4s1w4</LM>
 </w.rf>
 <form>Container</form>
-<tag lemma="container" src="orig" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="container" src="orig">NNIS1-----A----</AM>
+<AM lemma="Container-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln95046-117-p4s1w5">
 <src.rf>manual</src.rf>
@@ -576,6 +597,7 @@
 <AM lemma="Lin-1_;S" src="auto">NNMS5-----A----</AM>
 <AM lemma="linout" src="auto">VB-S---3P-AA---</AM>
 <AM lemma="line_,t_^(angl._čára)" src="auto" recommended="1">NNXXX-----A----</AM>
+<AM lemma="Line-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-ln95046-117-p4s1w6">
@@ -714,7 +736,10 @@
 <LM>w#w-ln95046-117-p5s1w1</LM>
 </w.rf>
 <form>ČPL</form>
-<tag lemma="ČPL_:B_;K_^(Československá_plavba_labská)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ČPL_:B_;K_^(Československá_plavba_labská)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČPL-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95046-117-p5s1w2">
 <src.rf>manual</src.rf>

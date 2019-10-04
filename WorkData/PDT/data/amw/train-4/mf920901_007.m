@@ -337,7 +337,10 @@
 <LM>w#w-mf920901-007-p4s1w27</LM>
 </w.rf>
 <form>Special</form>
-<tag lemma="special" src="orig" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="special" src="orig">NNIS1-----A----</AM>
+<AM lemma="Special-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-mf920901-007-p4s1w28">
 <src.rf>manual</src.rf>
@@ -595,7 +598,10 @@
 <LM>w#w-mf920901-007-p5s2w11</LM>
 </w.rf>
 <form>Special</form>
-<tag lemma="special" src="orig" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="special" src="orig">NNIS1-----A----</AM>
+<AM lemma="Special-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-mf920901-007-p5s2w12">
 <src.rf>manual</src.rf>
@@ -741,7 +747,10 @@
 <LM>w#w-mf920901-007-p5s3w17</LM>
 </w.rf>
 <form>Special</form>
-<tag lemma="special" src="orig" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="special" src="orig">NNIS1-----A----</AM>
+<AM lemma="Special-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-mf920901-007-p5s3w18">
 <src.rf>manual</src.rf>

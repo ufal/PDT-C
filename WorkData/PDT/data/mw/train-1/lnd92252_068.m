@@ -19,7 +19,10 @@
 <LM>w#w-lnd92252-068-p1s1w1</LM>
 </w.rf>
 <form>ČS</form>
-<tag lemma="československý_:B" src="orig" selected="1">AAXXX----1A---8</tag>
+<tag>
+<AM lemma="československý_:B" src="orig">AAXXX----1A---8</AM>
+<AM lemma="československý" src="manual" selected="1">AAXXX----1A---8</AM>
+</tag>
 </m>
 <m id="m-lnd92252-068-p1s1w2">
 <src.rf>manual</src.rf>
@@ -113,7 +116,10 @@
 <LM>w#w-lnd92252-068-p3s2w3</LM>
 </w.rf>
 <form>čs</form>
-<tag lemma="československý_:B" src="orig" selected="1">AAXXX----1A---8</tag>
+<tag>
+<AM lemma="československý_:B" src="orig">AAXXX----1A---8</AM>
+<AM lemma="československý" src="manual" selected="1">AAXXX----1A---8</AM>
+</tag>
 </m>
 <m id="m-lnd92252-068-p3s2w4">
 <src.rf>manual</src.rf>
@@ -815,7 +821,10 @@
 <LM>w#w-lnd92252-068-p3s5w6</LM>
 </w.rf>
 <form>ANSA</form>
-<tag lemma="ANSA-1_:B_;K_,t_^(Agenzia_Nazionale_Stampa_Associata)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ANSA-1_:B_;K_,t_^(Agenzia_Nazionale_Stampa_Associata)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ANSA-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd92252-068-p3s5w7">
 <src.rf>manual</src.rf>
@@ -993,7 +1002,10 @@
 <LM>w#w-lnd92252-068-p3s6w6</LM>
 </w.rf>
 <form>čs</form>
-<tag lemma="československý_:B" src="orig" selected="1">AAXXX----1A---8</tag>
+<tag>
+<AM lemma="československý_:B" src="orig">AAXXX----1A---8</AM>
+<AM lemma="československý" src="manual" selected="1">AAXXX----1A---8</AM>
+</tag>
 </m>
 <m id="m-lnd92252-068-p3s6w7">
 <src.rf>manual</src.rf>

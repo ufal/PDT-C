@@ -871,6 +871,7 @@
 <tag>
 <AM lemma="Devi_;S" src="orig">NNFXX-----A----</AM>
 <AM lemma="Devi_;G" src="auto" recommended="1">NNNXX-----A----</AM>
+<AM lemma="Devi-2_;S" src="manual" selected="1">NNFXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd91301-060-p4s6w30">

@@ -79,7 +79,10 @@
 <LM>w#w-ln95046-102-p2s1Bw2</LM>
 </w.rf>
 <form>nedávno</form>
-<tag lemma="nedávno-1" src="auto" selected="1">Db-------------</tag>
+<tag>
+<AM lemma="nedávno-1" src="auto">Db-------------</AM>
+<AM lemma="dávno-1" src="manual" selected="1">Dg-------1N----</AM>
+</tag>
 </m>
 <m id="m-ln95046-102-p2s1Bw3">
 <src.rf>manual</src.rf>
@@ -438,7 +441,7 @@
 <tag>
 <AM lemma="tady" src="orig">Db------------1</AM>
 <AM lemma="ten" src="auto">PDFS4----------</AM>
-<AM lemma="tu" src="auto" recommended="1">Db-------------</AM>
+<AM lemma="tu" src="auto" recommended="1" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m-ln95046-102-p3s1w9">
@@ -609,7 +612,10 @@
 <LM>w#w-ln95046-102-p3s2w3</LM>
 </w.rf>
 <form>MUDr</form>
-<tag lemma="MUDr-1_:B_^(doktor_medicíny)" src="orig" selected="1">NNMXX-----A---8</tag>
+<tag>
+<AM lemma="MUDr-1_:B_^(doktor_medicíny)" src="orig">NNMXX-----A---8</AM>
+<AM lemma="MUDr_:B_^(doktor_medicíny)" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln95046-102-p3s2w4">
 <src.rf>manual</src.rf>
@@ -697,7 +703,10 @@
 <LM>w#w-ln95046-102-p3s2w14</LM>
 </w.rf>
 <form>jen</form>
-<tag lemma="jen-1" src="auto" selected="1">TT-------------</tag>
+<tag>
+<AM lemma="jen-1" src="auto">TT-------------</AM>
+<AM lemma="jen-4_^(pouze)" src="manual" selected="1">Db-------------</AM>
+</tag>
 </m>
 <m id="m-ln95046-102-p3s2w15">
 <src.rf>manual</src.rf>
@@ -1414,6 +1423,7 @@
 <AM lemma="Grana_;K" src="auto">NNFP2-----A----</AM>
 <AM lemma="gran" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="gran" src="auto">NNIS4-----A----</AM>
+<AM lemma="Gran_;Y" src="manual" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95046-102-p4s2w17">
@@ -2201,6 +2211,7 @@
 <AM lemma="Grana_;K" src="auto">NNFP2-----A----</AM>
 <AM lemma="gran" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="gran" src="auto">NNIS4-----A----</AM>
+<AM lemma="Gran_;Y" src="manual" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95046-102-p5s3w14">

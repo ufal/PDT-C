@@ -25,6 +25,7 @@
 <AM lemma="Nissan_;K_;R" src="auto">NNIS4-----A----</AM>
 <AM lemma="nissan_;R_^(vozidlo)" src="auto">NNIS1-----A----</AM>
 <AM lemma="nissan_;R_^(vozidlo)" src="auto">NNIS4-----A----</AM>
+<AM lemma="Nissan-2_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94201-120-p1s1w2">
@@ -33,7 +34,10 @@
 <LM>w#w-ln94201-120-p1s1w2</LM>
 </w.rf>
 <form>N</form>
-<tag lemma="N-0_:B_;Y" src="orig" selected="1">NNMXX-----A---8</tag>
+<tag>
+<AM lemma="N-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
+<AM lemma="N-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln94201-120-p1s1w3">
 <src.rf>manual</src.rf>
@@ -137,7 +141,10 @@
 <LM>w#w-ln94201-120-p1s1w15</LM>
 </w.rf>
 <form>Ben</form>
-<tag lemma="Ben-1_;Y" src="auto" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Ben-1_;Y" src="auto">NNMS1-----A----</AM>
+<AM lemma="Ben-2_;S" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94201-120-p1s1w16">
 <src.rf>manual</src.rf>
@@ -185,7 +192,10 @@
 <LM>w#w-ln94201-120-p1s1w21</LM>
 </w.rf>
 <form>LN</form>
-<tag lemma="LN-1_:B_;R_^(Lidové_noviny,_deník)" src="orig" selected="1">NNFPX-----A---8</tag>
+<tag>
+<AM lemma="LN-1_:B_;R_^(Lidové_noviny,_deník)" src="orig">NNFPX-----A---8</AM>
+<AM lemma="LN-1_:B_;K_;R_^(Lidové_noviny)" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 </s>
 </mdata>

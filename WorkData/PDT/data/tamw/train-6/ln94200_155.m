@@ -101,7 +101,10 @@
 <LM>w#w-ln94200-155-p2s1Aw7</LM>
 </w.rf>
 <form>PVP</form>
-<tag lemma="PVP-2_:B_;m_^(Pohár_výherců_pohárů)" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="PVP-2_:B_;m_^(Pohár_výherců_pohárů)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="PVP-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94200-155-p2s1Aw8">
 <src.rf>manual</src.rf>
@@ -199,7 +202,10 @@
 <LM>w#w-ln94200-155-p2s1Bw3</LM>
 </w.rf>
 <form>LN</form>
-<tag lemma="LN-1_:B_;R_^(Lidové_noviny,_deník)" src="orig" selected="1">NNFPX-----A---8</tag>
+<tag>
+<AM lemma="LN-1_:B_;R_^(Lidové_noviny,_deník)" src="orig">NNFPX-----A---8</AM>
+<AM lemma="LN-1_:B_;K_;R_^(Lidové_noviny)" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln94200-155-p2s1Bw4">
 <src.rf>manual</src.rf>
@@ -231,7 +237,10 @@
 <LM>w#w-ln94200-155-p2s1Bw7</LM>
 </w.rf>
 <form>Švéd</form>
-<tag lemma="Švéd_;E" src="auto" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Švéd_;E" src="auto">NNMS1-----A----</AM>
+<AM lemma="Švéd_;E_;S" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 </s>
 <s id="m-ln94200-155-p2s1C">
@@ -467,7 +476,10 @@
 <LM>w#w-ln94200-155-p2s2w10</LM>
 </w.rf>
 <form>PVP</form>
-<tag lemma="PVP-2_:B_;m_^(Pohár_výherců_pohárů)" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="PVP-2_:B_;m_^(Pohár_výherců_pohárů)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="PVP-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94200-155-p2s2w11">
 <src.rf>manual</src.rf>
@@ -543,7 +555,7 @@
 <form>totiž</form>
 <tag>
 <AM lemma="totiž" src="orig">Db-------------</AM>
-<AM lemma="totiž-1" src="auto">J^-------------</AM>
+<AM lemma="totiž-1" src="auto" selected="1">J^-------------</AM>
 <AM lemma="totiž-2" src="auto" recommended="1">TT-------------</AM>
 </tag>
 </m>
@@ -3351,7 +3363,7 @@
 <form>ačkoliv</form>
 <tag>
 <AM lemma="ačkoliv" src="orig">J,-------------</AM>
-<AM lemma="ačkoli" src="auto" recommended="1">J,------------1</AM>
+<AM lemma="ačkoli" src="auto" recommended="1" selected="1">J,------------1</AM>
 </tag>
 </m>
 <m id="m-ln94200-155-p4s6w8">
@@ -3782,7 +3794,10 @@
 <LM>w#w-ln94200-155-p4s9w5</LM>
 </w.rf>
 <form>doprostřed</form>
-<tag lemma="doprostřed-1" src="auto" selected="1">Db-------------</tag>
+<tag>
+<AM lemma="doprostřed-1" src="auto">Db-------------</AM>
+<AM lemma="doprostřed-2" src="manual" selected="1">RR--2----------</AM>
+</tag>
 </m>
 <m id="m-ln94200-155-p4s9w6">
 <src.rf>manual</src.rf>
@@ -3858,7 +3873,7 @@
 <form>fauloval</form>
 <tag>
 <AM lemma="fauloval" src="orig">VpYS---XR-AA---</AM>
-<AM lemma="faulovat_:T" src="auto" recommended="1">VpYS---XR-AA---</AM>
+<AM lemma="faulovat_:T" src="auto" recommended="1" selected="1">VpYS---XR-AA---</AM>
 </tag>
 </m>
 <m id="m-ln94200-155-p4s10w3">
@@ -4193,7 +4208,7 @@
 <form>Milewski</form>
 <tag>
 <AM lemma="Milewski_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Milewský_;S" src="auto" recommended="1">NNMS1-----A---1</AM>
+<AM lemma="Milewský_;S" src="auto" recommended="1" selected="1">NNMS1-----A---1</AM>
 <AM lemma="Milewský_;S" src="auto">NNMS5-----A---1</AM>
 </tag>
 </m>
@@ -4261,7 +4276,10 @@
 <LM>w#w-ln94200-155-p5s8w1</LM>
 </w.rf>
 <form>ŽK</form>
-<tag lemma="ŽK-1_:B_^(sport.:_žlutá_karta)" src="auto" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ŽK-1_:B_^(sport.:_žlutá_karta)" src="auto">NNFXX-----A---8</AM>
+<AM lemma="ŽK-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94200-155-p5s8w2">
 <src.rf>manual</src.rf>
@@ -4461,7 +4479,10 @@
 <LM>w#w-ln94200-155-p8s1Bw8</LM>
 </w.rf>
 <form>zklamán</form>
-<tag lemma="zklamat" src="orig" selected="1">VsYS---XX-AP---</tag>
+<tag>
+<AM lemma="zklamat" src="orig">VsYS---XX-AP---</AM>
+<AM lemma="zklamat_:W" src="manual" selected="1">VsYS---XX-AP---</AM>
+</tag>
 </m>
 <m id="m-ln94200-155-p8s1Bw9">
 <src.rf>manual</src.rf>
@@ -5488,7 +5509,7 @@
 <tag>
 <AM lemma="tedy" src="orig">Db-------------</AM>
 <AM lemma="tedy-1" src="auto">TT-------------</AM>
-<AM lemma="tedy-2" src="auto" recommended="1">J^-------------</AM>
+<AM lemma="tedy-2" src="auto" recommended="1" selected="1">J^-------------</AM>
 </tag>
 </m>
 <m id="m-ln94200-155-p8s9w3">
@@ -5497,7 +5518,11 @@
 <LM>w#w-ln94200-155-p8s9w3</LM>
 </w.rf>
 <form>nepojedu</form>
-<tag lemma="jet-1_^(pohybovat_se,_ne_však_chůzí)" src="orig" selected="1">VB-S---1F-NA---</tag>
+<tag>
+<AM lemma="jet-1_^(pohybovat_se,_ne_však_chůzí)" src="orig">VB-S---1F-NA---</AM>
+<AM lemma="jet-1_:T_^(pohybovat_se,_ne_však_chůzí)" src="manual">VB-S---1F-NA---</AM>
+<AM lemma="jet-1_:W_^(pohybovat_se,_ne_však_chůzí)" src="manual" selected="1">VB-S---1F-NA---</AM>
+</tag>
 </m>
 <m id="m-ln94200-155-p8s9w4">
 <src.rf>manual</src.rf>

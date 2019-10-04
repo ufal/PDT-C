@@ -471,7 +471,10 @@
 <LM>w#w-lnd94101-073-p1s2w41</LM>
 </w.rf>
 <form>Bílou</form>
-<tag lemma="bílý" src="orig" selected="1">AAFS4----1A----</tag>
+<tag>
+<AM lemma="bílý" src="orig">AAFS4----1A----</AM>
+<AM lemma="Bílá_;S" src="manual" selected="1">NNFS4-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd94101-073-p1s2w42">
 <src.rf>manual</src.rf>
@@ -577,7 +580,10 @@
 <LM>w#w-lnd94101-073-p1s3w6</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-2" src="auto" selected="1">Dg-------2A----</tag>
+<tag>
+<AM lemma="hodně-2" src="auto">Dg-------2A----</AM>
+<AM lemma="hodně-3" src="manual" selected="1">Dg-------2A----</AM>
+</tag>
 </m>
 <m id="m-lnd94101-073-p1s3w7">
 <src.rf>manual</src.rf>
@@ -803,7 +809,10 @@
 <LM>w#w-lnd94101-073-p1s4w12</LM>
 </w.rf>
 <form>Sázavský</form>
-<tag lemma="sázavský" src="orig" selected="1">AAMS1----1A----</tag>
+<tag>
+<AM lemma="sázavský" src="orig">AAMS1----1A----</AM>
+<AM lemma="Sázavský_;S" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd94101-073-p1s4w13">
 <src.rf>manual</src.rf>
@@ -827,7 +836,10 @@
 <LM>w#w-lnd94101-073-p1s4w15</LM>
 </w.rf>
 <form>Vřešťál</form>
-<tag lemma="vřešťál_;L" src="orig" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="vřešťál_;L" src="orig">NNMS1-----A----</AM>
+<AM lemma="Vřešťál_;S" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd94101-073-p1s4w16">
 <src.rf>manual</src.rf>
@@ -1122,7 +1134,7 @@
 <tag>
 <AM lemma="přesto" src="orig">Dg-------1A----</AM>
 <AM lemma="přesto-1" src="auto">Db-------------</AM>
-<AM lemma="přesto-2" src="auto" recommended="1">J^-------------</AM>
+<AM lemma="přesto-2" src="auto" recommended="1" selected="1">J^-------------</AM>
 </tag>
 </m>
 <m id="m-lnd94101-073-p1s6w2">
@@ -1338,7 +1350,7 @@
 <AM lemma="zpěvačka" src="auto">NNFP1-----A----</AM>
 <AM lemma="zpěvačka" src="auto">NNFP4-----A----</AM>
 <AM lemma="zpěvačka" src="auto">NNFP5-----A----</AM>
-<AM lemma="zpěvačka" src="auto" recommended="1">NNFS2-----A----</AM>
+<AM lemma="zpěvačka" src="auto" recommended="1" selected="1">NNFS2-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94101-073-p1s7w15">
@@ -1355,7 +1367,10 @@
 <LM>w#w-lnd94101-073-p1s7w16</LM>
 </w.rf>
 <form>Bílé</form>
-<tag lemma="bílý" src="orig" selected="1">AAFS2----1A----</tag>
+<tag>
+<AM lemma="bílý" src="orig">AAFS2----1A----</AM>
+<AM lemma="Bílá_;S" src="manual" selected="1">NNFS2-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd94101-073-p1s7w17">
 <src.rf>manual</src.rf>
@@ -1761,7 +1776,7 @@
 <form>zpěvačka</form>
 <tag>
 <AM lemma="zpěvák" src="orig">NNFS1-----A----</AM>
-<AM lemma="zpěvačka" src="auto" recommended="1">NNFS1-----A----</AM>
+<AM lemma="zpěvačka" src="auto" recommended="1" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94101-073-p1s9w20">
@@ -1814,7 +1829,7 @@
 <form>ovšem</form>
 <tag>
 <AM lemma="ovšem-1_^(avšak,_však;_odporovací_spojka)" src="orig">J^-------------</AM>
-<AM lemma="ovšem" src="auto" recommended="1">TT-------------</AM>
+<AM lemma="ovšem" src="auto" recommended="1" selected="1">TT-------------</AM>
 </tag>
 </m>
 <m id="m-lnd94101-073-p1s10w3">
@@ -2123,7 +2138,7 @@
 <form>třeba</form>
 <tag>
 <AM lemma="třeba-1" src="orig">ACNS------A----</AM>
-<AM lemma="třeba-2" src="auto" recommended="1">Db-------------</AM>
+<AM lemma="třeba-2" src="auto" recommended="1" selected="1">Db-------------</AM>
 <AM lemma="třeba-3" src="auto">TT-------------</AM>
 </tag>
 </m>
@@ -2185,7 +2200,7 @@
 <form>Snad</form>
 <tag>
 <AM lemma="snad" src="orig">Db-------------</AM>
-<AM lemma="snad" src="auto" recommended="1">TT-------------</AM>
+<AM lemma="snad" src="auto" recommended="1" selected="1">TT-------------</AM>
 </tag>
 </m>
 <m id="m-lnd94101-073-p1s12w2">
@@ -2218,7 +2233,10 @@
 <LM>w#w-lnd94101-073-p1s12w5</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-2" src="auto" selected="1">Dg-------2A----</tag>
+<tag>
+<AM lemma="hodně-2" src="auto">Dg-------2A----</AM>
+<AM lemma="hodně-3" src="manual" selected="1">Dg-------2A----</AM>
+</tag>
 </m>
 <m id="m-lnd94101-073-p1s12w6">
 <src.rf>manual</src.rf>
@@ -2526,7 +2544,10 @@
 <LM>w#w-lnd94101-073-p1s14Aw1</LM>
 </w.rf>
 <form>Zkrátka</form>
-<tag lemma="zkrátka-1" src="auto" selected="1">Db-------------</tag>
+<tag>
+<AM lemma="zkrátka-1" src="auto">Db-------------</AM>
+<AM lemma="zkrátka-2" src="manual" selected="1">TT-------------</AM>
+</tag>
 </m>
 <m id="m-lnd94101-073-p1s14Aw2">
 <src.rf>manual</src.rf>

@@ -61,7 +61,10 @@
 <LM>w#w-lnd91303-034-p2s1w3</LM>
 </w.rf>
 <form>mlp</form>
-<tag lemma="mlp-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="mlp-99_:B_;S" src="orig">NNXXX-----A---8</AM>
+<AM lemma="mlp-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd91303-034-p2s1w4">
 <src.rf>manual</src.rf>
@@ -111,7 +114,10 @@
 <LM>w#w-lnd91303-034-p3s1w4</LM>
 </w.rf>
 <form>L</form>
-<tag lemma="L-0_:B_;Y" src="orig" selected="1">NNMXX-----A---8</tag>
+<tag>
+<AM lemma="L-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
+<AM lemma="L-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd91303-034-p3s1w5">
 <src.rf>manual</src.rf>
@@ -223,7 +229,10 @@
 <LM>w#w-lnd91303-034-p3s1w18</LM>
 </w.rf>
 <form>JEF</form>
-<tag lemma="JEF-1_:B_;K_,t_^(Jeunesses_Européenes_Fédéralistes)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="JEF-1_:B_;K_,t_^(Jeunesses_Européenes_Fédéralistes)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="JEF-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd91303-034-p3s1w19">
 <src.rf>manual</src.rf>
@@ -287,7 +296,10 @@
 <LM>w#w-lnd91303-034-p3s1w26</LM>
 </w.rf>
 <form>diskusního</form>
-<tag lemma="diskusní" src="orig" selected="1">AAIS2----1A----</tag>
+<tag>
+<AM lemma="diskusní" src="orig">AAIS2----1A----</AM>
+<AM lemma="diskusní_,s_^(^DD**diskuzní)" src="manual" selected="1">AAIS2----1A----</AM>
+</tag>
 </m>
 <m id="m-lnd91303-034-p3s1w27">
 <src.rf>manual</src.rf>
@@ -311,7 +323,10 @@
 <LM>w#w-lnd91303-034-p3s1w29</LM>
 </w.rf>
 <form>Chlébském</form>
-<tag lemma="Chlébský_;G" src="orig" selected="1">NNNS6-----A----</tag>
+<tag>
+<AM lemma="Chlébský_;G" src="orig">NNNS6-----A----</AM>
+<AM lemma="Chlébské_;G" src="manual" selected="1">NNNS6-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd91303-034-p3s1w30">
 <src.rf>manual</src.rf>
@@ -425,7 +440,10 @@
 <LM>w#w-lnd91303-034-p3s2w11</LM>
 </w.rf>
 <form>ČSFR</form>
-<tag lemma="ČSFR-1_:B_;G_^(Čs._federativní_republika)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ČSFR-1_:B_;G_^(Čs._federativní_republika)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČSFR-1_:B_;G_^(Čs._federativní_republika)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd91303-034-p3s2w12">
 <src.rf>manual</src.rf>

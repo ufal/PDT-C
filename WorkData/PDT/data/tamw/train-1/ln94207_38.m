@@ -255,7 +255,10 @@
 <LM>w#w-ln94207-38-p2s2w5</LM>
 </w.rf>
 <form>IKUE</form>
-<tag lemma="IKUE_:B_;K" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="IKUE_:B_;K" src="orig">NNFXX-----A---8</AM>
+<AM lemma="IKUE-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln94207-38-p2s2w6">
 <src.rf>manual</src.rf>
@@ -571,7 +574,10 @@
 <LM>w#w-ln94207-38-p2s4w5</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-2" src="auto" selected="1">Dg-------2A----</tag>
+<tag>
+<AM lemma="hodně-2" src="auto">Dg-------2A----</AM>
+<AM lemma="hodně-3" src="manual" selected="1">Dg-------2A----</AM>
+</tag>
 </m>
 <m id="m-ln94207-38-p2s4w6">
 <src.rf>manual</src.rf>
@@ -877,7 +883,10 @@
 <LM>w#w-ln94207-38-p2s5w26</LM>
 </w.rf>
 <form>teepee</form>
-<tag lemma="teepee_,t" src="orig" selected="1">NNNXX-----A----</tag>
+<tag>
+<AM lemma="teepee_,t" src="orig">NNNXX-----A----</AM>
+<AM lemma="teepee" src="manual" selected="1">NNNXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94207-38-p2s5w27">
 <src.rf>manual</src.rf>
@@ -885,7 +894,10 @@
 <LM>w#w-ln94207-38-p2s5w27</LM>
 </w.rf>
 <form>uprostřed</form>
-<tag lemma="uprostřed-1" src="auto" selected="1">Db-------------</tag>
+<tag>
+<AM lemma="uprostřed-1" src="auto">Db-------------</AM>
+<AM lemma="uprostřed-2" src="manual" selected="1">RR--2----------</AM>
+</tag>
 </m>
 <m id="m-ln94207-38-p2s5w28">
 <src.rf>manual</src.rf>

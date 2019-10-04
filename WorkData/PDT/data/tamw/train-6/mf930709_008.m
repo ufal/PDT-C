@@ -67,7 +67,10 @@
 <LM>w#w-mf930709-008-p1s1w7</LM>
 </w.rf>
 <form>SR</form>
-<tag lemma="SR-1_:B_;G_^(Slovenská_republika)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="SR-1_:B_;G_^(Slovenská_republika)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="SR-1_:B_;G_^(Slovenská_republika)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930709-008-p1s1w8">
 <src.rf>manual</src.rf>
@@ -128,6 +131,7 @@
 <tag>
 <AM lemma="km-99_:B_;S" src="orig">NNXXX-----A---8</AM>
 <AM lemma="km-1`kilometr_:B" src="auto" recommended="1">NNIXX-----A---8</AM>
+<AM lemma="km-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930709-008-p2s1Aw4">
@@ -144,7 +148,10 @@
 <LM>w#w-mf930709-008-p2s1Aw5</LM>
 </w.rf>
 <form>čtk</form>
-<tag lemma="ČTK-1_:B_;K_^(Čs./Česká_tisková_kancelář)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ČTK-1_:B_;K_^(Čs./Česká_tisková_kancelář)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="čtk_:B_;K_^(Čs./Česká_tisková_kancelář)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930709-008-p2s1Aw6">
 <src.rf>manual</src.rf>
@@ -1108,7 +1115,10 @@
 <LM>w#w-mf930709-008-p4s1w18</LM>
 </w.rf>
 <form>přeložení</form>
-<tag lemma="přeložení-1_^(přemístit)_(*5it-1)" src="orig" selected="1">NNNS4-----A----</tag>
+<tag>
+<AM lemma="přeložení-1_^(přemístit)_(*5it-1)" src="orig">NNNS4-----A----</AM>
+<AM lemma="přeložení_^(*5it-1)" src="manual" selected="1">NNNS4-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930709-008-p4s1w19">
 <src.rf>manual</src.rf>
@@ -1286,7 +1296,10 @@
 <LM>w#w-mf930709-008-p4s2w12</LM>
 </w.rf>
 <form>strany</form>
-<tag lemma="strana-3_^(u_soudu,_na_úřadě,_smluvní_strany;_na_něčí_straně)" src="orig" selected="1">NNFP1-----A----</tag>
+<tag>
+<AM lemma="strana-3_^(u_soudu,_na_úřadě,_smluvní_strany;_na_něčí_straně)" src="orig">NNFP1-----A----</AM>
+<AM lemma="strana" src="manual" selected="1">NNFP1-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930709-008-p4s2w13">
 <src.rf>manual</src.rf>
@@ -1509,6 +1522,7 @@
 <tag>
 <AM lemma="Ivica_;Y" src="orig">NNFS1-----A----</AM>
 <AM lemma="Ivica_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Ivica-2_;Y" src="manual" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930709-008-p5s1w8">
@@ -1518,7 +1532,7 @@
 </w.rf>
 <form>Brestovanská</form>
 <tag>
-<AM lemma="Brestovanská_;S" src="orig">NNFS1-----A----</AM>
+<AM lemma="Brestovanská_;S" src="orig" selected="1">NNFS1-----A----</AM>
 <AM lemma="brestovanský" src="auto" recommended="1">AAFS1----1A----</AM>
 <AM lemma="brestovanský" src="auto">AAFS5----1A----</AM>
 <AM lemma="brestovanský" src="auto">AANP1----1A----</AM>

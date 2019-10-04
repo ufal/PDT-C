@@ -106,6 +106,8 @@
 <tag>
 <AM lemma="Whistler-2_;G" src="orig">AAXXX----1A----</AM>
 <AM lemma="Whistler_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="whistler_,t" src="manual">NNXXX-----A----</AM>
+<AM lemma="Whistler-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-ln95049-043-p2s1Bw2">
@@ -114,7 +116,11 @@
 <LM>w#w-ln95049-043-p2s1Bw2</LM>
 </w.rf>
 <form>Mountain</form>
-<tag lemma="Mountain_;G_,t" src="orig" selected="1">NNFXX-----A----</tag>
+<tag>
+<AM lemma="Mountain_;G_,t" src="orig">NNFXX-----A----</AM>
+<AM lemma="mountain_,t" src="manual">NNXXX-----A----</AM>
+<AM lemma="Mountain-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln95049-043-p2s1Bw3">
 <src.rf>manual</src.rf>
@@ -183,6 +189,8 @@
 <tag>
 <AM lemma="Whistler-2_;G" src="orig">AAXXX----1A----</AM>
 <AM lemma="Whistler_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="whistler_,t" src="manual">NNXXX-----A----</AM>
+<AM lemma="Whistler-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-ln95049-043-p2s1Cw6">
@@ -191,7 +199,11 @@
 <LM>w#w-ln95049-043-p2s1Cw6</LM>
 </w.rf>
 <form>Mountain</form>
-<tag lemma="Mountain_;G_,t" src="orig" selected="1">NNFXX-----A----</tag>
+<tag>
+<AM lemma="Mountain_;G_,t" src="orig">NNFXX-----A----</AM>
+<AM lemma="mountain_,t" src="manual">NNXXX-----A----</AM>
+<AM lemma="Mountain-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln95049-043-p2s1Cw7">
 <src.rf>manual</src.rf>
@@ -701,7 +713,10 @@
 <LM>w#w-ln95049-043-p3s1w13</LM>
 </w.rf>
 <form>SP</form>
-<tag lemma="SP-3_:B_^(Světový_pohár)" src="auto" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="SP-3_:B_^(Světový_pohár)" src="auto">NNIXX-----A---8</AM>
+<AM lemma="SP-3_:B_^(Světový_pohár)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95049-043-p3s1w14">
 <src.rf>manual</src.rf>
@@ -807,7 +822,10 @@
 <LM>w#w-ln95049-043-p3s2w10</LM>
 </w.rf>
 <form>stála</form>
-<tag lemma="stát-3_^(někdo/něco_stojí,_např._na_nohou)" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag>
+<AM lemma="stát-3_^(někdo/něco_stojí,_např._na_nohou)" src="orig">VpQW---XR-AA---</AM>
+<AM lemma="stát-3_^(stojím_stojíš)" src="manual" selected="1">VpQW---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-ln95049-043-p3s2w11">
 <src.rf>manual</src.rf>
@@ -879,7 +897,10 @@
 <LM>w#w-ln95049-043-p3s2w19</LM>
 </w.rf>
 <form>Garmisch</form>
-<tag lemma="Garmisch_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Garmisch_;S" src="orig">NNMS1-----A----</AM>
+<AM lemma="Garmisch-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln95049-043-p3s2w20">
 <src.rf>manual</src.rf>

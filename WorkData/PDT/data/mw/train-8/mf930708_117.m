@@ -133,7 +133,10 @@
 <LM>w#w-mf930708-117-p2s1w12</LM>
 </w.rf>
 <form>Tour</form>
-<tag lemma="Tour_;m_,t" src="orig" selected="1">NNFXX-----A----</tag>
+<tag>
+<AM lemma="Tour_;m_,t" src="orig">NNFXX-----A----</AM>
+<AM lemma="Tour-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-mf930708-117-p2s1w13">
 <src.rf>manual</src.rf>
@@ -141,7 +144,10 @@
 <LM>w#w-mf930708-117-p2s1w13</LM>
 </w.rf>
 <form>de</form>
-<tag lemma="de_,t_^(z_franc._de,_zejm._ve_jménech)" src="orig" selected="1">RR--1----------</tag>
+<tag>
+<AM lemma="de_,t_^(z_franc._de,_zejm._ve_jménech)" src="orig">RR--1----------</AM>
+<AM lemma="de-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-mf930708-117-p2s1w14">
 <src.rf>manual</src.rf>
@@ -165,6 +171,7 @@
 <AM lemma="France-1_;S" src="auto">NNMS4-----A---1</AM>
 <AM lemma="France-1_;S" src="auto">NNMS5-----A----</AM>
 <AM lemma="France-2_;G_;K" src="auto" recommended="1">NNXXX-----A----</AM>
+<AM lemma="France-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-mf930708-117-p2s1w15">
@@ -182,7 +189,7 @@
 </w.rf>
 <form>Dinardu</form>
 <tag>
-<AM lemma="Dinard-2_;G" src="orig">NNIS2-----A----</AM>
+<AM lemma="Dinard-2_;G" src="orig" selected="1">NNIS2-----A----</AM>
 <AM lemma="Dinard_;S" src="auto" recommended="1">NNMS3-----A---1</AM>
 <AM lemma="Dinard_;S" src="auto">NNMS6-----A---1</AM>
 </tag>
@@ -247,6 +254,7 @@
 <AM lemma="GB-1_:B_^(gigabyte)" src="auto">NNIXX-----A---8</AM>
 <AM lemma="gigabyte_:B" src="auto" recommended="1">NNFXX-----A---8</AM>
 <AM lemma="Gb-2_:B_^(jednotka_magnetického_napětí_gilbert)" src="auto">NNIXX-----A---8</AM>
+<AM lemma="GB-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-mf930708-117-p2s1w24">
@@ -266,6 +274,7 @@
 <tag>
 <AM lemma="MG_:B_;K" src="orig">NNXXX-----A---8</AM>
 <AM lemma="mg_:B" src="auto" recommended="1">NNXXX-----A---8</AM>
+<AM lemma="MG-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-mf930708-117-p2s1w26">
@@ -372,7 +381,10 @@
 <LM>w#w-mf930708-117-p2s2w5</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-2" src="auto" selected="1">Dg-------2A----</tag>
+<tag>
+<AM lemma="hodně-2" src="auto">Dg-------2A----</AM>
+<AM lemma="hodně-3" src="manual" selected="1">Dg-------2A----</AM>
+</tag>
 </m>
 <m id="m-mf930708-117-p2s2w6">
 <src.rf>manual</src.rf>
@@ -470,6 +482,7 @@
 <AM lemma="GB-1_:B_^(gigabyte)" src="auto">NNIXX-----A---8</AM>
 <AM lemma="gigabyte_:B" src="auto">NNFXX-----A---8</AM>
 <AM lemma="Gb-2_:B_^(jednotka_magnetického_napětí_gilbert)" src="auto" recommended="1">NNIXX-----A---8</AM>
+<AM lemma="GB-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-mf930708-117-p3s2w2">
@@ -489,6 +502,7 @@
 <tag>
 <AM lemma="MG_:B_;K" src="orig">NNXXX-----A---8</AM>
 <AM lemma="mg_:B" src="auto" recommended="1">NNXXX-----A---8</AM>
+<AM lemma="MG-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-mf930708-117-p3s2w4">
@@ -870,7 +884,7 @@
 </w.rf>
 <form>Belg</form>
 <tag>
-<AM lemma="Belgie_:B_;G" src="orig">NNFXX-----A---8</AM>
+<AM lemma="Belgie_:B_;G" src="orig" selected="1">NNFXX-----A---8</AM>
 <AM lemma="Belg_;E" src="auto" recommended="1">NNMS1-----A----</AM>
 </tag>
 </m>
@@ -1101,7 +1115,7 @@
 </w.rf>
 <form>Pol</form>
 <tag>
-<AM lemma="Polsko_:B_;G" src="orig">NNNXX-----A---8</AM>
+<AM lemma="Polsko_:B_;G" src="orig" selected="1">NNNXX-----A---8</AM>
 <AM lemma="Pol_;S" src="auto">NNMS1-----A----</AM>
 <AM lemma="Pol_;Y" src="auto" recommended="1">NNMXX-----A----</AM>
 <AM lemma="Pola_;G" src="auto">NNFP2-----A----</AM>

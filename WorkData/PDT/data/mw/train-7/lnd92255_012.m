@@ -249,7 +249,10 @@
 <LM>w#w-lnd92255-012-p3s2w22</LM>
 </w.rf>
 <form>Aglow</form>
-<tag lemma="Aglow_;K_,t" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="Aglow_;K_,t" src="orig">NNXXX-----A---8</AM>
+<AM lemma="Aglow-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-lnd92255-012-p3s2w23">
 <src.rf>manual</src.rf>
@@ -347,7 +350,10 @@
 <LM>w#w-lnd92255-012-p3s3w7</LM>
 </w.rf>
 <form>Aglow</form>
-<tag lemma="Aglow_;K_,t" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="Aglow_;K_,t" src="orig">NNXXX-----A---8</AM>
+<AM lemma="Aglow-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-lnd92255-012-p3s3w8">
 <src.rf>manual</src.rf>
@@ -390,6 +396,7 @@
 <tag>
 <AM lemma="USA_;G" src="orig">NNIPX-----A----</AM>
 <AM lemma="USA_:B_;K_,t_^(United_States_of_America)" src="auto" recommended="1">NNIPX-----A---8</AM>
+<AM lemma="USA_:B_;K_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92255-012-p3s3w13">
@@ -414,7 +421,10 @@
 <LM>w#w-lnd92255-012-p3s3w15</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-2" src="auto" selected="1">Dg-------2A----</tag>
+<tag>
+<AM lemma="hodně-2" src="auto">Dg-------2A----</AM>
+<AM lemma="hodně-3" src="manual" selected="1">Dg-------2A----</AM>
+</tag>
 </m>
 <m id="m-lnd92255-012-p3s3w16">
 <src.rf>manual</src.rf>
@@ -674,7 +684,10 @@
 <LM>w#w-lnd92255-012-p3s5w2</LM>
 </w.rf>
 <form>Aglow</form>
-<tag lemma="Aglow_;K_,t" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="Aglow_;K_,t" src="orig">NNXXX-----A---8</AM>
+<AM lemma="Aglow-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-lnd92255-012-p3s5w3">
 <src.rf>manual</src.rf>

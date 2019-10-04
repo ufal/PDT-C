@@ -211,6 +211,7 @@
 <AM lemma="RDI_:B_;K" src="orig">AAXXX----1A----</AM>
 <AM lemma="rdít" src="auto" recommended="1">Vi-S---2--A----</AM>
 <AM lemma="rdít" src="auto">Vi-S---3--A---4</AM>
+<AM lemma="RDI-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-ln95041-028-p2s1Bw21">
@@ -219,7 +220,10 @@
 <LM>w#w-ln95041-028-p2s1Bw21</LM>
 </w.rf>
 <form>Press</form>
-<tag lemma="Press-1_;K_,t_^(souč._názvů,_např._tisk._agentur)" src="orig" selected="1">NNIXX-----A----</tag>
+<tag>
+<AM lemma="Press-1_;K_,t_^(souč._názvů,_např._tisk._agentur)" src="orig">NNIXX-----A----</AM>
+<AM lemma="Press-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln95041-028-p2s1Bw22">
 <src.rf>manual</src.rf>

@@ -274,7 +274,7 @@
 </w.rf>
 <form>Teixeiry</form>
 <tag>
-<AM lemma="Teixeira_;S" src="orig">NNMS2-----A----</AM>
+<AM lemma="Teixeira_;S" src="orig" selected="1">NNMS2-----A----</AM>
 <AM lemma="Teixeir_;S" src="auto">NNMP4-----A----</AM>
 <AM lemma="Teixeir_;S" src="auto" recommended="1">NNMP7-----A----</AM>
 </tag>
@@ -304,6 +304,7 @@
 <tag>
 <AM lemma="Marius_;Y" src="orig">NNMS7-----A----</AM>
 <AM lemma="Marius_;Y_,t" src="auto" recommended="1">NNMP7-----A----</AM>
+<AM lemma="Marius_;Y" src="manual" selected="1">NNMS7-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95042-032-p2s2w14">
@@ -452,7 +453,10 @@
 <LM>w#w-ln95042-032-p2s4w7</LM>
 </w.rf>
 <form>Mineiro</form>
-<tag lemma="Mineiro_;K_,t" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="Mineiro_;K_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="Mineiro-1_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95042-032-p2s4w8">
 <src.rf>manual</src.rf>

@@ -674,7 +674,7 @@
 <AM lemma="dřívější" src="auto">AAIS2----2A----</AM>
 <AM lemma="dřívější" src="auto">AAMS2----2A----</AM>
 <AM lemma="dřívější" src="auto">AAMS4----2A----</AM>
-<AM lemma="dřívější" src="auto" recommended="1">AANS2----2A----</AM>
+<AM lemma="dřívější" src="auto" recommended="1" selected="1">AANS2----2A----</AM>
 </tag>
 </m>
 <m id="m-mf930701-091-p3s2w13">

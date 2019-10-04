@@ -37,7 +37,10 @@
 <LM>w#w-ln94201-125-p2s1w2</LM>
 </w.rf>
 <form>Pink</form>
-<tag lemma="pink" src="orig" selected="1">II-------------</tag>
+<tag>
+<AM lemma="pink" src="orig">II-------------</AM>
+<AM lemma="Pink-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94201-125-p2s1w3">
 <src.rf>manual</src.rf>
@@ -45,7 +48,10 @@
 <LM>w#w-ln94201-125-p2s1w3</LM>
 </w.rf>
 <form>Floyd</form>
-<tag lemma="Floyd_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Floyd_;S" src="orig">NNMS1-----A----</AM>
+<AM lemma="Floyd-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94201-125-p2s1w4">
 <src.rf>manual</src.rf>
@@ -335,7 +341,10 @@
 <LM>w#w-ln94201-125-p2s2w6</LM>
 </w.rf>
 <form>Jon</form>
-<tag lemma="Jon_;Y_,t" src="auto" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Jon_;Y_,t" src="auto">NNMS1-----A----</AM>
+<AM lemma="Jon_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94201-125-p2s2w7">
 <src.rf>manual</src.rf>
@@ -344,7 +353,7 @@
 </w.rf>
 <form>Carin</form>
 <tag>
-<AM lemma="Carin_;S" src="orig">NNMS1-----A----</AM>
+<AM lemma="Carin_;S" src="orig" selected="1">NNMS1-----A----</AM>
 <AM lemma="Carina_;K_;R_^(vozidlo)" src="auto" recommended="1">NNFP2-----A----</AM>
 <AM lemma="carina_^(vozidlo)" src="auto">NNFP2-----A----</AM>
 </tag>
@@ -467,7 +476,10 @@
 <LM>w#w-ln94201-125-p2s2w22</LM>
 </w.rf>
 <form>Gary</form>
-<tag lemma="Gary_;S" src="auto" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Gary_;S" src="auto">NNMS1-----A----</AM>
+<AM lemma="Gary_;Y_;S" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94201-125-p2s2w23">
 <src.rf>manual</src.rf>
@@ -817,7 +829,10 @@
 <LM>w#w-ln94201-125-p2s5w8</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-2" src="auto" selected="1">Dg-------2A----</tag>
+<tag>
+<AM lemma="hodně-2" src="auto">Dg-------2A----</AM>
+<AM lemma="hodně-3" src="manual" selected="1">Dg-------2A----</AM>
+</tag>
 </m>
 <m id="m-ln94201-125-p2s5w9">
 <src.rf>manual</src.rf>

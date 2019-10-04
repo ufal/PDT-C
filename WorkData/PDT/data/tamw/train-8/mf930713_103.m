@@ -69,7 +69,10 @@
 <LM>w#w-mf930713-103-p2s1w2</LM>
 </w.rf>
 <form>SUPERPRESTIGE</form>
-<tag lemma="Superprestige_;m_,t" src="orig" selected="1">NNFS1-----A----</tag>
+<tag>
+<AM lemma="Superprestige_;m_,t" src="orig">NNFS1-----A----</AM>
+<AM lemma="SUPERPRESTIGE-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-mf930713-103-p2s1w3">
 <src.rf>manual</src.rf>
@@ -186,7 +189,10 @@
 <LM>w#w-mf930713-103-p2s2Bw6</LM>
 </w.rf>
 <form>Superprestige</form>
-<tag lemma="Superprestige_;m_,t" src="orig" selected="1">NNFS2-----A----</tag>
+<tag>
+<AM lemma="Superprestige_;m_,t" src="orig">NNFS2-----A----</AM>
+<AM lemma="Superprestige-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-mf930713-103-p2s2Bw7">
 <src.rf>manual</src.rf>
@@ -348,7 +354,10 @@
 <LM>w#w-mf930713-103-p2s3w3</LM>
 </w.rf>
 <form>Superprestige</form>
-<tag lemma="Superprestige_;m_,t" src="orig" selected="1">NNFS1-----A----</tag>
+<tag>
+<AM lemma="Superprestige_;m_,t" src="orig">NNFS1-----A----</AM>
+<AM lemma="Superprestige-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-mf930713-103-p2s3w4">
 <src.rf>manual</src.rf>
@@ -704,6 +713,7 @@
 <AM lemma="peleton_,h" src="auto">NNIS3-----A----</AM>
 <AM lemma="peleton_,h" src="auto">NNIS6-----A---1</AM>
 <AM lemma="peleton" src="auto">NNIS6-----A----</AM>
+<AM lemma="peleton_,i_^(^DS**peloton)" src="manual" selected="1">NNIS2-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930713-103-p2s14w10">
@@ -832,7 +842,10 @@
 <LM>w#w-mf930713-103-p2s14w25</LM>
 </w.rf>
 <form>De</form>
-<tag lemma="de_,t_^(z_franc._de,_zejm._ve_jménech)" src="orig" selected="1">RR--1----------</tag>
+<tag>
+<AM lemma="de_,t_^(z_franc._de,_zejm._ve_jménech)" src="orig">RR--1----------</AM>
+<AM lemma="De-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-mf930713-103-p2s14w26">
 <src.rf>manual</src.rf>
@@ -1068,7 +1081,10 @@
 <LM>w#w-mf930713-103-p2s16w8</LM>
 </w.rf>
 <form>Superprestige</form>
-<tag lemma="Superprestige_;m_,t" src="orig" selected="1">NNFS2-----A----</tag>
+<tag>
+<AM lemma="Superprestige_;m_,t" src="orig">NNFS2-----A----</AM>
+<AM lemma="Superprestige-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-mf930713-103-p2s16w9">
 <src.rf>manual</src.rf>
@@ -1597,7 +1613,10 @@
 <LM>w#w-mf930713-103-p2s19w22</LM>
 </w.rf>
 <form>UCI</form>
-<tag lemma="UCI-1_:B_;K_,t_^(Union_Cycliste_Internationale)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="UCI-1_:B_;K_,t_^(Union_Cycliste_Internationale)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="UCI-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-mf930713-103-p2s19w23">
 <src.rf>manual</src.rf>

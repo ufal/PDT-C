@@ -19,7 +19,10 @@
 <LM>w#w-mf930703-012-p1s1w1</LM>
 </w.rf>
 <form>MF</form>
-<tag lemma="MF-1_:B_;R_;b_^(Mladá_Fronta,_deník)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="MF-1_:B_;R_;b_^(Mladá_Fronta,_deník)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="MF-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930703-012-p1s1w2">
 <src.rf>manual</src.rf>
@@ -76,6 +79,7 @@
 <AM lemma="režie_:B" src="auto" recommended="1">NNFXX-----A---8</AM>
 <AM lemma="rok_:B" src="auto">NNIXX-----A---8</AM>
 <AM lemma="ručení_:B" src="auto">NNNS7-----A---8</AM>
+<AM lemma="r-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930703-012-p2s1w4">
@@ -116,7 +120,10 @@
 <LM>w#w-mf930703-012-p2s1w8</LM>
 </w.rf>
 <form>MF</form>
-<tag lemma="MF-1_:B_;R_;b_^(Mladá_Fronta,_deník)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="MF-1_:B_;R_;b_^(Mladá_Fronta,_deník)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="MF-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930703-012-p2s1w9">
 <src.rf>manual</src.rf>
@@ -288,7 +295,10 @@
 <LM>w#w-mf930703-012-p2s3w3</LM>
 </w.rf>
 <form>konkursu</form>
-<tag lemma="konkurs_^(úpadek;;soutěž)" src="auto" selected="1">NNIS2-----A----</tag>
+<tag>
+<AM lemma="konkurs_^(úpadek;;soutěž)" src="auto">NNIS2-----A----</AM>
+<AM lemma="konkurs_,s_^(^DD**konkurz)" src="manual" selected="1">NNIS2-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930703-012-p2s3w4">
 <src.rf>manual</src.rf>
@@ -296,7 +306,10 @@
 <LM>w#w-mf930703-012-p2s3w4</LM>
 </w.rf>
 <form>zašlete</form>
-<tag lemma="zaslat" src="orig" selected="1">VB-P---2P-AA---</tag>
+<tag>
+<AM lemma="zaslat" src="orig">VB-P---2P-AA---</AM>
+<AM lemma="zaslat_:W" src="manual" selected="1">VB-P---2P-AA---</AM>
+</tag>
 </m>
 <m id="m-mf930703-012-p2s3w5">
 <src.rf>manual</src.rf>
@@ -474,7 +487,10 @@
 <LM>w#w-mf930703-012-p2s4w4</LM>
 </w.rf>
 <form>Konkurs</form>
-<tag lemma="konkurs_^(úpadek;;soutěž)" src="auto" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="konkurs_^(úpadek;;soutěž)" src="auto">NNIS1-----A----</AM>
+<AM lemma="konkurs_,s_^(^DD**konkurz)" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930703-012-p2s4w5">
 <src.rf>manual</src.rf>

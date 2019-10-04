@@ -61,7 +61,10 @@
 <LM>w#w-ln95047-023-p2s1Aw3</LM>
 </w.rf>
 <form>li</form>
-<tag lemma="li-1" src="auto" selected="1">TT-------------</tag>
+<tag>
+<AM lemma="li-1" src="auto">TT-------------</AM>
+<AM lemma="li-2" src="manual" selected="1">J,-------------</AM>
+</tag>
 </m>
 <m id="m-ln95047-023-p2s1Aw4">
 <src.rf>manual</src.rf>
@@ -1249,7 +1252,7 @@
 <form>přičemž</form>
 <tag>
 <AM lemma="přičemž" src="orig">J,-------------</AM>
-<AM lemma="přičemž" src="auto" recommended="1">Db-------------</AM>
+<AM lemma="přičemž" src="auto" recommended="1" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m-ln95047-023-p4s1w16">
@@ -1510,7 +1513,10 @@
 <LM>w#w-ln95047-023-p5s2w16</LM>
 </w.rf>
 <form>Jarolím</form>
-<tag lemma="Jarolím_;Y" src="orig" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Jarolím_;Y" src="orig">NNMS1-----A----</AM>
+<AM lemma="Jarolím_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95047-023-p5s2w17">
 <src.rf>manual</src.rf>
@@ -2045,7 +2051,7 @@
 </w.rf>
 <form>Spartaku</form>
 <tag>
-<AM lemma="Spartak-2_;K_^(sportovní_klub)" src="orig">NNIS2-----A----</AM>
+<AM lemma="Spartak-2_;K_^(sportovní_klub)" src="orig" selected="1">NNIS2-----A----</AM>
 <AM lemma="Spartak_;Y" src="auto">NNMS3-----A---1</AM>
 <AM lemma="Spartak_;Y" src="auto">NNMS5-----A----</AM>
 <AM lemma="Spartak_;Y" src="auto">NNMS6-----A---1</AM>

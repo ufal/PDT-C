@@ -72,6 +72,7 @@
 <tag>
 <AM lemma="vin-99_:B_;S" src="orig">NNXXX-----A---8</AM>
 <AM lemma="vina" src="auto" recommended="1">NNFP2-----A----</AM>
+<AM lemma="vin-99_:B_;S" src="manual" selected="1">NNNXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920925-077-p2s1w4">
@@ -415,7 +416,7 @@
 <tag>
 <AM lemma="tedy" src="orig">Db-------------</AM>
 <AM lemma="tedy-1" src="auto">TT-------------</AM>
-<AM lemma="tedy-2" src="auto" recommended="1">J^-------------</AM>
+<AM lemma="tedy-2" src="auto" recommended="1" selected="1">J^-------------</AM>
 </tag>
 </m>
 <m id="m-mf920925-077-p3s1w11">
@@ -554,7 +555,10 @@
 <LM>w#w-mf920925-077-p3s2w7</LM>
 </w.rf>
 <form>černém</form>
-<tag lemma="černý" src="auto" selected="1">AAIS6----1A----</tag>
+<tag>
+<AM lemma="černý" src="auto">AAIS6----1A----</AM>
+<AM lemma="černý_;o" src="manual" selected="1">AAIS6----1A----</AM>
+</tag>
 </m>
 <m id="m-mf920925-077-p3s2w8">
 <src.rf>manual</src.rf>

@@ -69,7 +69,10 @@
 <LM>w#w-mf930708-118-p2s1w3</LM>
 </w.rf>
 <form>zda</form>
-<tag lemma="zda" src="orig" selected="1">J,-------------</tag>
+<tag>
+<AM lemma="zda" src="orig">J,-------------</AM>
+<AM lemma="zda-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930708-118-p2s1w4">
 <src.rf>manual</src.rf>
@@ -117,7 +120,10 @@
 <LM>w#w-mf930708-118-p2s1w9</LM>
 </w.rf>
 <form>MEJ</form>
-<tag lemma="MEJ-1_:B_^(mistrovství_Evropy_juniorů)" src="orig" selected="1">NNNXX-----A---8</tag>
+<tag>
+<AM lemma="MEJ-1_:B_^(mistrovství_Evropy_juniorů)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="MEJ-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-mf930708-118-p2s1w10">
 <src.rf>manual</src.rf>
@@ -456,7 +462,10 @@
 <LM>w#w-mf930708-118-p2s2w31</LM>
 </w.rf>
 <form>ol</form>
-<tag lemma="olympijský_:B" src="orig" selected="1">AAXXX----1A---8</tag>
+<tag>
+<AM lemma="olympijský_:B" src="orig">AAXXX----1A---8</AM>
+<AM lemma="olympijský" src="manual" selected="1">AAXXX----1A---8</AM>
+</tag>
 </m>
 <m id="m-mf930708-118-p2s2w32">
 <src.rf>manual</src.rf>

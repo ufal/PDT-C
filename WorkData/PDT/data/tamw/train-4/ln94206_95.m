@@ -91,7 +91,10 @@
 <LM>w#w-ln94206-95-p1s1w10</LM>
 </w.rf>
 <form>zahájena</form>
-<tag lemma="zahájit" src="auto" selected="1">VsQW---XX-AP---</tag>
+<tag>
+<AM lemma="zahájit" src="auto">VsQW---XX-AP---</AM>
+<AM lemma="zahájit_:W" src="manual" selected="1">VsQW---XX-AP---</AM>
+</tag>
 </m>
 <m id="m-ln94206-95-p1s1w11">
 <src.rf>manual</src.rf>
@@ -453,7 +456,10 @@
 <LM>w#w-ln94206-95-p1s2w26</LM>
 </w.rf>
 <form>začaly</form>
-<tag lemma="začít-1_^(začnout)" src="auto" selected="1">VpTP---XR-AA---</tag>
+<tag>
+<AM lemma="začít-1_^(začnout)" src="auto">VpTP---XR-AA---</AM>
+<AM lemma="začít-1_:W_^(začnout)" src="manual" selected="1">VpTP---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-ln94206-95-p1s2w27">
 <src.rf>manual</src.rf>
@@ -517,7 +523,10 @@
 <LM>w#w-ln94206-95-p1s2w34</LM>
 </w.rf>
 <form>rozrostly</form>
-<tag lemma="rozrůst" src="orig" selected="1">VpTP---XR-AA---</tag>
+<tag>
+<AM lemma="rozrůst" src="orig">VpTP---XR-AA---</AM>
+<AM lemma="rozrůst_:W" src="manual" selected="1">VpTP---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-ln94206-95-p1s2w35">
 <src.rf>manual</src.rf>
@@ -759,7 +768,10 @@
 <LM>w#w-ln94206-95-p1s3w13</LM>
 </w.rf>
 <form>ad</form>
-<tag lemma="adalší_:B" src="orig" selected="1">AAXXX----1A---8</tag>
+<tag>
+<AM lemma="adalší_:B" src="orig">AAXXX----1A---8</AM>
+<AM lemma="ad-1_:B_^(a_další)" src="manual" selected="1">AAXXX----1A----</AM>
+</tag>
 </m>
 <m id="m-ln94206-95-p1s3w14">
 <src.rf>manual</src.rf>
@@ -791,7 +803,10 @@
 <LM>w#w-ln94206-95-p1s3w17</LM>
 </w.rf>
 <form>najdeme</form>
-<tag lemma="najít" src="orig" selected="1">VB-P---1P-AA---</tag>
+<tag>
+<AM lemma="najít" src="orig">VB-P---1P-AA---</AM>
+<AM lemma="najít_:W" src="manual" selected="1">VB-P---1P-AA---</AM>
+</tag>
 </m>
 <m id="m-ln94206-95-p1s3w18">
 <src.rf>manual</src.rf>
@@ -1208,6 +1223,7 @@
 <tag>
 <AM lemma="lin-99_:B_;S" src="orig">NNXXX-----A---8</AM>
 <AM lemma="lino" src="auto" recommended="1">NNNP2-----A----</AM>
+<AM lemma="lin-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94206-95-p1s6Aw3">

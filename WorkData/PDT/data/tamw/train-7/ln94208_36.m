@@ -69,7 +69,10 @@
 <LM>w#w-ln94208-36-p2s1Aw3</LM>
 </w.rf>
 <form>kva</form>
-<tag lemma="kva-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="kva-99_:B_;S" src="orig">NNXXX-----A---8</AM>
+<AM lemma="kva-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94208-36-p2s1Aw4">
 <src.rf>manual</src.rf>
@@ -613,7 +616,10 @@
 <LM>w#w-ln94208-36-p2s4w5</LM>
 </w.rf>
 <form>Nationale</form>
-<tag lemma="Nationale_;K_,t" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="Nationale_;K_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="Nationale-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94208-36-p2s4w6">
 <src.rf>manual</src.rf>
@@ -621,7 +627,10 @@
 <LM>w#w-ln94208-36-p2s4w6</LM>
 </w.rf>
 <form>Nederlanden</form>
-<tag lemma="Nederlanden_;K_,t" src="orig" selected="1">NNFXX-----A----</tag>
+<tag>
+<AM lemma="Nederlanden_;K_,t" src="orig">NNFXX-----A----</AM>
+<AM lemma="Nederlanden-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94208-36-p2s4w7">
 <src.rf>manual</src.rf>
@@ -658,7 +667,7 @@
 <tag>
 <AM lemma="tady" src="orig">Db------------1</AM>
 <AM lemma="ten" src="auto" recommended="1">PDFS4----------</AM>
-<AM lemma="tu" src="auto">Db-------------</AM>
+<AM lemma="tu" src="auto" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m-ln94208-36-p2s5w4">

@@ -125,7 +125,10 @@
 <LM>w#w-ln94204-119-p2s1Aw10</LM>
 </w.rf>
 <form>US</form>
-<tag lemma="US-3_:B_;m_,t_^(americký)" src="orig" selected="1">AAXXX----1A---8</tag>
+<tag>
+<AM lemma="US-3_:B_;m_,t_^(americký)" src="orig">AAXXX----1A---8</AM>
+<AM lemma="US-2_:B_^(americký)" src="manual" selected="1">AAXXX----1A----</AM>
+</tag>
 </m>
 <m id="m-ln94204-119-p2s1Aw11">
 <src.rf>manual</src.rf>
@@ -133,7 +136,10 @@
 <LM>w#w-ln94204-119-p2s1Aw11</LM>
 </w.rf>
 <form>Open</form>
-<tag lemma="Open-1_,t_^(v_názvu_např._sport._soutěží,_&quot;otevřený&quot;)" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="Open-1_,t_^(v_názvu_např._sport._soutěží,_&quot;otevřený&quot;)" src="orig">AAXXX----1A----</AM>
+<AM lemma="Open-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 </s>
 <s id="m-ln94204-119-p2s1B">
@@ -143,7 +149,10 @@
 <LM>w#w-ln94204-119-p2s1Bw1</LM>
 </w.rf>
 <form>New</form>
-<tag lemma="New-1_;G_,t_^(součást_míst._jmen)" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="New-1_;G_,t_^(součást_míst._jmen)" src="orig">AAXXX----1A----</AM>
+<AM lemma="New-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94204-119-p2s1Bw2">
 <src.rf>manual</src.rf>
@@ -151,7 +160,10 @@
 <LM>w#w-ln94204-119-p2s1Bw2</LM>
 </w.rf>
 <form>York</form>
-<tag lemma="York-2_;G" src="orig" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="York-2_;G" src="orig">NNIS1-----A----</AM>
+<AM lemma="York-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94204-119-p2s1Bw3">
 <src.rf>manual</src.rf>
@@ -167,7 +179,12 @@
 <LM>w#w-ln94204-119-p2s1Bw4</LM>
 </w.rf>
 <form>Reuter</form>
-<tag lemma="Reuter_;K" src="orig" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Reuter_;K" src="orig">NNMS1-----A----</AM>
+<AM lemma="Reuter_;K" src="manual">NNXXX-----A----</AM>
+<AM lemma="Reuter-77" src="manual">F%-------------</AM>
+<AM lemma="Reuter-2_;K_^(^DS**Reuters)" src="manual" selected="1">NNIXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94204-119-p2s1Bw5">
 <src.rf>manual</src.rf>
@@ -186,6 +203,7 @@
 <tag>
 <AM lemma="čt-99_:B_;S" src="orig">NNXXX-----A---8</AM>
 <AM lemma="čt-2_:B_^(čtvrtek)" src="auto" recommended="1">NNIXX-----A---8</AM>
+<AM lemma="čt-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94204-119-p2s1Bw7">
@@ -236,7 +254,10 @@
 <LM>w#w-ln94204-119-p2s1Cw4</LM>
 </w.rf>
 <form>Goranu</form>
-<tag lemma="Goran_;S" src="orig" selected="1">NNMS6-----A---1</tag>
+<tag>
+<AM lemma="Goran_;S" src="orig">NNMS6-----A---1</AM>
+<AM lemma="Goran_;S_;Y" src="manual" selected="1">NNMS6-----A---1</AM>
+</tag>
 </m>
 <m id="m-ln94204-119-p2s1Cw5">
 <src.rf>manual</src.rf>
@@ -356,7 +377,10 @@
 <LM>w#w-ln94204-119-p2s1Cw19</LM>
 </w.rf>
 <form>US</form>
-<tag lemma="US-3_:B_;m_,t_^(americký)" src="orig" selected="1">AAXXX----1A---8</tag>
+<tag>
+<AM lemma="US-3_:B_;m_,t_^(americký)" src="orig">AAXXX----1A---8</AM>
+<AM lemma="US-2_:B_^(americký)" src="manual" selected="1">AAXXX----1A----</AM>
+</tag>
 </m>
 <m id="m-ln94204-119-p2s1Cw20">
 <src.rf>manual</src.rf>
@@ -364,7 +388,10 @@
 <LM>w#w-ln94204-119-p2s1Cw20</LM>
 </w.rf>
 <form>Open</form>
-<tag lemma="Open-1_,t_^(v_názvu_např._sport._soutěží,_&quot;otevřený&quot;)" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="Open-1_,t_^(v_názvu_např._sport._soutěží,_&quot;otevřený&quot;)" src="orig">AAXXX----1A----</AM>
+<AM lemma="Open-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94204-119-p2s1Cw21">
 <src.rf>manual</src.rf>
@@ -436,7 +463,10 @@
 <LM>w#w-ln94204-119-p2s1Cw29</LM>
 </w.rf>
 <form>č</form>
-<tag lemma="číslo_:B" src="orig" selected="1">NNNXX-----A---8</tag>
+<tag>
+<AM lemma="číslo_:B" src="orig">NNNXX-----A---8</AM>
+<AM lemma="číslo" src="manual" selected="1">NNNXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln94204-119-p2s1Cw30">
 <src.rf>manual</src.rf>
@@ -489,6 +519,7 @@
 <tag>
 <AM lemma="tie_,t" src="orig">AAXXX----1A----</AM>
 <AM lemma="tie_,t_^(tie-break)" src="auto" recommended="1">A2--------A----</AM>
+<AM lemma="tie-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-ln94204-119-p2s2w3">
@@ -497,7 +528,11 @@
 <LM>w#w-ln94204-119-p2s2w3</LM>
 </w.rf>
 <form>breaku</form>
-<tag lemma="Break_;R_^(vozidlo)" src="auto" selected="1">NNIS6-----A----</tag>
+<tag>
+<AM lemma="Break_;R_^(vozidlo)" src="auto">NNIS6-----A----</AM>
+<AM lemma="break_,t_^(tie-break)" src="manual">NNIS6-----A----</AM>
+<AM lemma="breaku-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94204-119-p2s2w4">
 <src.rf>manual</src.rf>
@@ -603,7 +638,10 @@
 <LM>w#w-ln94204-119-p2s3w6</LM>
 </w.rf>
 <form>Lendl</form>
-<tag lemma="Lendl_;S_;w" src="orig" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Lendl_;S_;w" src="orig">NNMS1-----A----</AM>
+<AM lemma="Lendl_;S" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94204-119-p2s3w7">
 <src.rf>manual</src.rf>
@@ -877,7 +915,10 @@
 <LM>w#w-ln94204-119-p3s1w7</LM>
 </w.rf>
 <form>hodně</form>
-<tag lemma="hodně-2_^(nezlobivý)_(*3ý-2)" src="auto" selected="1">Dg-------1A----</tag>
+<tag>
+<AM lemma="hodně-2_^(nezlobivý)_(*3ý-2)" src="auto">Dg-------1A----</AM>
+<AM lemma="hodně-3" src="manual" selected="1">Dg-------1A----</AM>
+</tag>
 </m>
 <m id="m-ln94204-119-p3s1w8">
 <src.rf>manual</src.rf>
@@ -991,7 +1032,10 @@
 <LM>w#w-ln94204-119-p3s2w8</LM>
 </w.rf>
 <form>US</form>
-<tag lemma="US-3_:B_;m_,t_^(americký)" src="orig" selected="1">AAXXX----1A---8</tag>
+<tag>
+<AM lemma="US-3_:B_;m_,t_^(americký)" src="orig">AAXXX----1A---8</AM>
+<AM lemma="US-2_:B_^(americký)" src="manual" selected="1">AAXXX----1A----</AM>
+</tag>
 </m>
 <m id="m-ln94204-119-p3s2w9">
 <src.rf>manual</src.rf>
@@ -999,7 +1043,10 @@
 <LM>w#w-ln94204-119-p3s2w9</LM>
 </w.rf>
 <form>Open</form>
-<tag lemma="Open-1_,t_^(v_názvu_např._sport._soutěží,_&quot;otevřený&quot;)" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="Open-1_,t_^(v_názvu_např._sport._soutěží,_&quot;otevřený&quot;)" src="orig">AAXXX----1A----</AM>
+<AM lemma="Open-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94204-119-p3s2w10">
 <src.rf>manual</src.rf>
@@ -1226,7 +1273,10 @@
 <LM>w#w-ln94204-119-p3s3w3</LM>
 </w.rf>
 <form>deblovému</form>
-<tag lemma="deblový_;w" src="auto" selected="1">AAMS3----1A----</tag>
+<tag>
+<AM lemma="deblový_;w" src="auto">AAMS3----1A----</AM>
+<AM lemma="deblový" src="manual" selected="1">AAMS3----1A----</AM>
+</tag>
 </m>
 <m id="m-ln94204-119-p3s3w4">
 <src.rf>manual</src.rf>
@@ -1246,6 +1296,8 @@
 <AM lemma="Richey_;Y" src="orig">NNMXX-----A----</AM>
 <AM lemma="Richey_;S" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Richey_;S" src="auto">NNMS5-----A----</AM>
+<AM lemma="Richey_;Y" src="manual">NNMSX-----A----</AM>
+<AM lemma="Richey-2_;Y" src="manual" selected="1">NNMXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94204-119-p3s3w6">
@@ -1294,7 +1346,10 @@
 <LM>w#w-ln94204-119-p3s3w11</LM>
 </w.rf>
 <form>ATP</form>
-<tag lemma="ATP-1_:B_;K_;w_,t_^(Prof._sv._asociace_tenisových_hráčů)" src="auto" selected="1">NNNXX-----A---8</tag>
+<tag>
+<AM lemma="ATP-1_:B_;K_;w_,t_^(Prof._sv._asociace_tenisových_hráčů)" src="auto">NNNXX-----A---8</AM>
+<AM lemma="ATP-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94204-119-p3s3w12">
 <src.rf>manual</src.rf>
@@ -1812,7 +1867,10 @@
 <LM>w#w-ln94204-119-p3s6w14</LM>
 </w.rf>
 <form>US</form>
-<tag lemma="US-3_:B_;m_,t_^(americký)" src="orig" selected="1">AAXXX----1A---8</tag>
+<tag>
+<AM lemma="US-3_:B_;m_,t_^(americký)" src="orig">AAXXX----1A---8</AM>
+<AM lemma="US-2_:B_^(americký)" src="manual" selected="1">AAXXX----1A----</AM>
+</tag>
 </m>
 <m id="m-ln94204-119-p3s6w15">
 <src.rf>manual</src.rf>
@@ -1820,7 +1878,10 @@
 <LM>w#w-ln94204-119-p3s6w15</LM>
 </w.rf>
 <form>Open</form>
-<tag lemma="Open-1_,t_^(v_názvu_např._sport._soutěží,_&quot;otevřený&quot;)" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="Open-1_,t_^(v_názvu_např._sport._soutěží,_&quot;otevřený&quot;)" src="orig">AAXXX----1A----</AM>
+<AM lemma="Open-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94204-119-p3s6w16">
 <src.rf>manual</src.rf>
@@ -1884,7 +1945,10 @@
 <LM>w#w-ln94204-119-p3s6w23</LM>
 </w.rf>
 <form>šampionem</form>
-<tag lemma="šampion" src="orig" selected="1">NNMS7-----A----</tag>
+<tag>
+<AM lemma="šampion" src="orig">NNMS7-----A----</AM>
+<AM lemma="šampion_,s_^(^DD**šampión)" src="manual" selected="1">NNMS7-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94204-119-p3s6w24">
 <src.rf>manual</src.rf>
@@ -2402,7 +2466,10 @@
 <LM>w#w-ln94204-119-p4s3w15</LM>
 </w.rf>
 <form>Anne</form>
-<tag lemma="Anne_;Y" src="auto" selected="1">NNFSX-----A----</tag>
+<tag>
+<AM lemma="Anne_;Y" src="auto">NNFSX-----A----</AM>
+<AM lemma="Anne_;Y" src="manual" selected="1">NNFXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94204-119-p4s3w16">
 <src.rf>manual</src.rf>
@@ -2776,7 +2843,7 @@
 <form>vůbec</form>
 <tag>
 <AM lemma="vůbec" src="orig">Db-------------</AM>
-<AM lemma="vůbec" src="auto" recommended="1">TT-------------</AM>
+<AM lemma="vůbec" src="auto" recommended="1" selected="1">TT-------------</AM>
 </tag>
 </m>
 <m id="m-ln94204-119-p4s5w13">

@@ -27,7 +27,10 @@
 <LM>w#w-lnd94104-110-p1s1w2</LM>
 </w.rf>
 <form>ad</form>
-<tag lemma="adalší_:B" src="orig" selected="1">AAXXX----1A---8</tag>
+<tag>
+<AM lemma="adalší_:B" src="orig">AAXXX----1A---8</AM>
+<AM lemma="ad-1_:B_^(a_další)" src="manual" selected="1">AAXXX----1A----</AM>
+</tag>
 </m>
 <m id="m-lnd94104-110-p1s1w3">
 <src.rf>manual</src.rf>
@@ -87,7 +90,10 @@
 <LM>w#w-lnd94104-110-p1s6w3</LM>
 </w.rf>
 <form>Šp</form>
-<tag lemma="Španělsko_:B_;G" src="orig" selected="1">NNNXX-----A---8</tag>
+<tag>
+<AM lemma="Španělsko_:B_;G" src="orig">NNNXX-----A---8</AM>
+<AM lemma="Španělsko_;G" src="manual" selected="1">NNNXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd94104-110-p1s6w4">
 <src.rf>manual</src.rf>

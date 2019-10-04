@@ -269,7 +269,10 @@
 <LM>w#w-lnd92257-002-p2s1w3</LM>
 </w.rf>
 <form>BA</form>
-<tag lemma="ba" src="orig" selected="1">TT-------------</tag>
+<tag>
+<AM lemma="ba" src="orig">TT-------------</AM>
+<AM lemma="BA-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd92257-002-p2s1w4">
 <src.rf>manual</src.rf>
@@ -339,7 +342,7 @@
 <AM lemma="l-4_^(graf._oddělovač)" src="auto">Z:-------------</AM>
 <AM lemma="l-8_:B_^(ost._zkratka)" src="auto">XX------------8</AM>
 <AM lemma="letopočet_:B_^(jen_př._n._l.,_před_naším_letopočtem)" src="auto">NNIS7-----A---8</AM>
-<AM lemma="litr_:B" src="auto">NNIXX-----A---8</AM>
+<AM lemma="litr_:B" src="auto" selected="1">NNIXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-lnd92257-002-p2s1w12">
@@ -399,7 +402,10 @@
 <LM>w#w-lnd92257-002-p3s1w3</LM>
 </w.rf>
 <form>BA</form>
-<tag lemma="ba" src="orig" selected="1">TT-------------</tag>
+<tag>
+<AM lemma="ba" src="orig">TT-------------</AM>
+<AM lemma="BA-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd92257-002-p3s1w4">
 <src.rf>manual</src.rf>
@@ -506,7 +512,10 @@
 <LM>w#w-lnd92257-002-p4s1w3</LM>
 </w.rf>
 <form>BA</form>
-<tag lemma="ba" src="orig" selected="1">TT-------------</tag>
+<tag>
+<AM lemma="ba" src="orig">TT-------------</AM>
+<AM lemma="BA-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd92257-002-p4s1w4">
 <src.rf>manual</src.rf>
@@ -613,7 +622,10 @@
 <LM>w#w-lnd92257-002-p5s1w3</LM>
 </w.rf>
 <form>BA</form>
-<tag lemma="ba" src="orig" selected="1">TT-------------</tag>
+<tag>
+<AM lemma="ba" src="orig">TT-------------</AM>
+<AM lemma="BA-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd92257-002-p5s1w4">
 <src.rf>manual</src.rf>

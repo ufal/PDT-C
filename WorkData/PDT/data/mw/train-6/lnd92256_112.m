@@ -19,7 +19,10 @@
 <LM>w#w-lnd92256-112-p1s1w1</LM>
 </w.rf>
 <form>ASEAN</form>
-<tag lemma="ASEAN_:B_;K" src="auto" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="ASEAN_:B_;K" src="auto">NNXXX-----A---8</AM>
+<AM lemma="ASEAN-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd92256-112-p1s1w2">
 <src.rf>manual</src.rf>
@@ -35,7 +38,10 @@
 <LM>w#w-lnd92256-112-p1s1w3</LM>
 </w.rf>
 <form>ES</form>
-<tag lemma="ES_:B_;K_^(Evropská_společenství)" src="orig" selected="1">NNNXX-----A---8</tag>
+<tag>
+<AM lemma="ES_:B_;K_^(Evropská_společenství)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="ES-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 </s>
 <s id="m-lnd92256-112-p2s1">
@@ -161,7 +167,10 @@
 <LM>w#w-lnd92256-112-p3s2w10</LM>
 </w.rf>
 <form>ASEAN</form>
-<tag lemma="ASEAN_:B_;K" src="auto" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="ASEAN_:B_;K" src="auto">NNXXX-----A---8</AM>
+<AM lemma="ASEAN-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd92256-112-p3s2w11">
 <src.rf>manual</src.rf>
@@ -557,7 +566,10 @@
 <LM>w#w-lnd92256-112-p3s4w2</LM>
 </w.rf>
 <form>ASEAN</form>
-<tag lemma="ASEAN_:B_;K" src="auto" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="ASEAN_:B_;K" src="auto">NNXXX-----A---8</AM>
+<AM lemma="ASEAN-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd92256-112-p3s4w3">
 <src.rf>manual</src.rf>
@@ -645,7 +657,10 @@
 <LM>w#w-lnd92256-112-p3s4w13</LM>
 </w.rf>
 <form>ES</form>
-<tag lemma="ES_:B_;K_^(Evropská_společenství)" src="orig" selected="1">NNNXX-----A---8</tag>
+<tag>
+<AM lemma="ES_:B_;K_^(Evropská_společenství)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="ES-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd92256-112-p3s4w14">
 <src.rf>manual</src.rf>
@@ -799,7 +814,10 @@
 <LM>w#w-lnd92256-112-p3s5w2</LM>
 </w.rf>
 <form>ES</form>
-<tag lemma="ES_:B_;K_^(Evropská_společenství)" src="orig" selected="1">NNNXX-----A---8</tag>
+<tag>
+<AM lemma="ES_:B_;K_^(Evropská_společenství)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="ES-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd92256-112-p3s5w3">
 <src.rf>manual</src.rf>
@@ -831,7 +849,10 @@
 <LM>w#w-lnd92256-112-p3s5w6</LM>
 </w.rf>
 <form>ASEAN</form>
-<tag lemma="ASEAN_:B_;K" src="auto" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="ASEAN_:B_;K" src="auto">NNXXX-----A---8</AM>
+<AM lemma="ASEAN-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd92256-112-p3s5w7">
 <src.rf>manual</src.rf>

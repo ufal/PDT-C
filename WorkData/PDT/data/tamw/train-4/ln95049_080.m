@@ -88,6 +88,7 @@
 <tag>
 <AM lemma="pp-99_:B_;S" src="orig">NNXXX-----A---8</AM>
 <AM lemma="page_:B_,t_^(strana,_v_cizojaz._ref.)" src="auto" recommended="1">NNFPX-----A---8</AM>
+<AM lemma="pp-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95049-080-p2s1Aw4">
@@ -197,7 +198,7 @@
 </w.rf>
 <form>Emomali</form>
 <tag>
-<AM lemma="Emomali_;Y" src="orig">NNMXX-----A----</AM>
+<AM lemma="Emomali_;Y" src="orig" selected="1">NNMXX-----A----</AM>
 <AM lemma="Emomali_;S" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Emomali_;S" src="auto">NNMS5-----A----</AM>
 </tag>
@@ -559,6 +560,7 @@
 <tag>
 <AM lemma="USA_;G" src="orig">NNIPX-----A----</AM>
 <AM lemma="USA_:B_;K_,t_^(United_States_of_America)" src="auto" recommended="1">NNIPX-----A---8</AM>
+<AM lemma="USA_:B_;K_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95049-080-p2s4w5">
@@ -580,6 +582,7 @@
 <AM lemma="Írán_;G_,h" src="auto" recommended="1">NNIS2-----A----</AM>
 <AM lemma="Írán_;G_,h" src="auto">NNIS3-----A----</AM>
 <AM lemma="Írán_;G_,h" src="auto">NNIS6-----A----</AM>
+<AM lemma="Irán_;G_,i_^(^DS**Írán)" src="manual" selected="1">NNIS2-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95049-080-p2s4w7">
@@ -815,7 +818,10 @@
 <LM>w#w-ln95049-080-p2s5w11</LM>
 </w.rf>
 <form>nejvíce</form>
-<tag lemma="hodně-2" src="auto" selected="1">Dg-------3A----</tag>
+<tag>
+<AM lemma="hodně-2" src="auto">Dg-------3A----</AM>
+<AM lemma="nejvíce_^(nejvíce_+_2._p.,_nejvíce_peněz)" src="manual" selected="1">Ca--4----------</AM>
+</tag>
 </m>
 <m id="m-ln95049-080-p2s5w12">
 <src.rf>manual</src.rf>
@@ -831,7 +837,10 @@
 <LM>w#w-ln95049-080-p2s5w13</LM>
 </w.rf>
 <form>má</form>
-<tag lemma="mít" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag>
+<AM lemma="mít" src="orig">VB-S---3P-AA---</AM>
+<AM lemma="mít_:T" src="manual" selected="1">VB-S---3P-AA---</AM>
+</tag>
 </m>
 <m id="m-ln95049-080-p2s5w14">
 <src.rf>manual</src.rf>
@@ -847,7 +856,10 @@
 <LM>w#w-ln95049-080-p2s5w15</LM>
 </w.rf>
 <form>strana</form>
-<tag lemma="strana-2_^(politická)" src="orig" selected="1">NNFS1-----A----</tag>
+<tag>
+<AM lemma="strana-2_^(politická)" src="orig">NNFS1-----A----</AM>
+<AM lemma="strana" src="manual" selected="1">NNFS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95049-080-p2s5w16">
 <src.rf>manual</src.rf>
@@ -1006,6 +1018,7 @@
 <AM lemma="Írán_;G_,h" src="auto">NNIS2-----A----</AM>
 <AM lemma="Írán_;G_,h" src="auto">NNIS3-----A----</AM>
 <AM lemma="Írán_;G_,h" src="auto" recommended="1">NNIS6-----A----</AM>
+<AM lemma="Irán_;G_,i_^(^DS**Írán)" src="manual" selected="1">NNIS6-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95049-080-p2s6w19">
@@ -1192,7 +1205,10 @@
 <LM>w#w-ln95049-080-p2s7w22</LM>
 </w.rf>
 <form>neexistenci</form>
-<tag lemma="neexistence" src="orig" selected="1">NNFS4-----A----</tag>
+<tag>
+<AM lemma="neexistence" src="orig">NNFS4-----A----</AM>
+<AM lemma="existence" src="manual" selected="1">NNFS4-----N----</AM>
+</tag>
 </m>
 <m id="m-ln95049-080-p2s7w23">
 <src.rf>manual</src.rf>
@@ -1288,7 +1304,10 @@
 <LM>w#w-ln95049-080-p2s7w34</LM>
 </w.rf>
 <form>vyhnána</form>
-<tag lemma="vyhnat" src="orig" selected="1">VsQW---XX-AP---</tag>
+<tag>
+<AM lemma="vyhnat" src="orig">VsQW---XX-AP---</AM>
+<AM lemma="vyhnat_:W" src="manual" selected="1">VsQW---XX-AP---</AM>
+</tag>
 </m>
 <m id="m-ln95049-080-p2s7w35">
 <src.rf>manual</src.rf>

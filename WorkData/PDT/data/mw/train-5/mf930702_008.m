@@ -54,7 +54,7 @@
 <AM lemma="postižený_^(*4hnout)" src="auto">AAIP1----1A----</AM>
 <AM lemma="postižený_^(*4hnout)" src="auto">AAIP4----1A----</AM>
 <AM lemma="postižený_^(*4hnout)" src="auto">AAIP5----1A----</AM>
-<AM lemma="postižený_^(*4hnout)" src="auto" recommended="1">AAMP4----1A----</AM>
+<AM lemma="postižený_^(*4hnout)" src="auto" recommended="1" selected="1">AAMP4----1A----</AM>
 <AM lemma="postižený_^(*4hnout)" src="auto">AANP1----1A---6</AM>
 <AM lemma="postižený_^(*4hnout)" src="auto">AANP4----1A---6</AM>
 <AM lemma="postižený_^(*4hnout)" src="auto">AANP5----1A---6</AM>
@@ -393,7 +393,10 @@
 <LM>w#w-mf930702-008-p2s2w16</LM>
 </w.rf>
 <form>Patě</form>
-<tag lemma="pata" src="orig" selected="1">NNFS6-----A----</tag>
+<tag>
+<AM lemma="pata" src="orig">NNFS6-----A----</AM>
+<AM lemma="Pata-2_;G" src="manual" selected="1">NNFS6-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930702-008-p2s2w17">
 <src.rf>manual</src.rf>
@@ -639,7 +642,7 @@
 <form>ačkoliv</form>
 <tag>
 <AM lemma="ačkoliv" src="orig">J,-------------</AM>
-<AM lemma="ačkoli" src="auto" recommended="1">J,------------1</AM>
+<AM lemma="ačkoli" src="auto" recommended="1" selected="1">J,------------1</AM>
 </tag>
 </m>
 <m id="m-mf930702-008-p3s1w10">
@@ -934,7 +937,10 @@
 <LM>w#w-mf930702-008-p3s4w5</LM>
 </w.rf>
 <form>Patě</form>
-<tag lemma="pata" src="orig" selected="1">NNFS6-----A----</tag>
+<tag>
+<AM lemma="pata" src="orig">NNFS6-----A----</AM>
+<AM lemma="Pata-2_;G" src="manual" selected="1">NNFS6-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930702-008-p3s4w6">
 <src.rf>manual</src.rf>
@@ -1032,7 +1038,10 @@
 <LM>w#w-mf930702-008-p3s5w7</LM>
 </w.rf>
 <form>milionů</form>
-<tag lemma="milión`1000000" src="orig" selected="1">NNIP2-----A----</tag>
+<tag>
+<AM lemma="milión`1000000" src="orig">NNIP2-----A----</AM>
+<AM lemma="milion`1000000_,s_^(^DD**milión)" src="manual" selected="1">NNIP2-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930702-008-p3s5w8">
 <src.rf>manual</src.rf>

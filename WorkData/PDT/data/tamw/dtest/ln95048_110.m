@@ -223,7 +223,10 @@
 <LM>w#w-ln95048-110-p2s1Bw19</LM>
 </w.rf>
 <form>tzv</form>
-<tag lemma="takzvaný_:B" src="orig" selected="1">AAXXX----1A---8</tag>
+<tag>
+<AM lemma="takzvaný_:B" src="orig">AAXXX----1A---8</AM>
+<AM lemma="takzvaný" src="manual" selected="1">AAXXX----1A---8</AM>
+</tag>
 </m>
 <m id="m-ln95048-110-p2s1Bw20">
 <src.rf>manual</src.rf>
@@ -241,7 +244,7 @@
 <form>Šanského</form>
 <tag>
 <AM lemma="Šanský_;G" src="orig">AAIS2----1A----</AM>
-<AM lemma="šanský" src="auto" recommended="1">AAIS2----1A----</AM>
+<AM lemma="šanský" src="auto" recommended="1" selected="1">AAIS2----1A----</AM>
 <AM lemma="šanský" src="auto">AAMS2----1A----</AM>
 <AM lemma="šanský" src="auto">AAMS4----1A----</AM>
 <AM lemma="šanský" src="auto">AANS2----1A----</AM>
@@ -335,7 +338,10 @@
 <LM>w#w-ln95048-110-p2s2w6</LM>
 </w.rf>
 <form>velí</form>
-<tag lemma="velet" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag>
+<AM lemma="velet" src="orig">VB-S---3P-AA---</AM>
+<AM lemma="velet_:T" src="manual" selected="1">VB-S---3P-AA---</AM>
+</tag>
 </m>
 <m id="m-ln95048-110-p2s2w7">
 <src.rf>manual</src.rf>
@@ -630,6 +636,7 @@
 <tag>
 <AM lemma="USA_;G" src="orig">NNIPX-----A----</AM>
 <AM lemma="USA_:B_;K_,t_^(United_States_of_America)" src="auto" recommended="1">NNIPX-----A---8</AM>
+<AM lemma="USA_:B_;K_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95048-110-p2s4w15">
@@ -792,7 +799,10 @@
 <LM>w#w-ln95048-110-p2s5w19</LM>
 </w.rf>
 <form>tzv</form>
-<tag lemma="takzvaný_:B" src="orig" selected="1">AAXXX----1A---8</tag>
+<tag>
+<AM lemma="takzvaný_:B" src="orig">AAXXX----1A---8</AM>
+<AM lemma="takzvaný" src="manual" selected="1">AAXXX----1A---8</AM>
+</tag>
 </m>
 <m id="m-ln95048-110-p2s5w20">
 <src.rf>manual</src.rf>
@@ -818,7 +828,7 @@
 <form>trojúhelníku</form>
 <tag>
 <AM lemma="trojúhelník" src="orig">NNIS2-----A---1</AM>
-<AM lemma="trojúhelník" src="auto" recommended="1">NNIS2-----A----</AM>
+<AM lemma="trojúhelník" src="auto" recommended="1" selected="1">NNIS2-----A----</AM>
 <AM lemma="trojúhelník" src="auto">NNIS3-----A----</AM>
 <AM lemma="trojúhelník" src="auto">NNIS5-----A----</AM>
 <AM lemma="trojúhelník" src="auto">NNIS6-----A----</AM>
@@ -915,6 +925,7 @@
 <tag>
 <AM lemma="USA_;G" src="orig">NNIPX-----A----</AM>
 <AM lemma="USA_:B_;K_,t_^(United_States_of_America)" src="auto" recommended="1">NNIPX-----A---8</AM>
+<AM lemma="USA_:B_;K_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95048-110-p2s6w11">
@@ -1095,7 +1106,10 @@
 <LM>w#w-ln95048-110-p2s8w3</LM>
 </w.rf>
 <form>tzv</form>
-<tag lemma="takzvaný_:B" src="orig" selected="1">AAXXX----1A---8</tag>
+<tag>
+<AM lemma="takzvaný_:B" src="orig">AAXXX----1A---8</AM>
+<AM lemma="takzvaný" src="manual" selected="1">AAXXX----1A---8</AM>
+</tag>
 </m>
 <m id="m-ln95048-110-p2s8w4">
 <src.rf>manual</src.rf>
@@ -1113,7 +1127,7 @@
 <form>Šanského</form>
 <tag>
 <AM lemma="Šanský_;G" src="orig">AAIS2----1A----</AM>
-<AM lemma="šanský" src="auto" recommended="1">AAIS2----1A----</AM>
+<AM lemma="šanský" src="auto" recommended="1" selected="1">AAIS2----1A----</AM>
 <AM lemma="šanský" src="auto">AAMS2----1A----</AM>
 <AM lemma="šanský" src="auto">AAMS4----1A----</AM>
 <AM lemma="šanský" src="auto">AANS2----1A----</AM>
@@ -1173,7 +1187,10 @@
 <LM>w#w-ln95048-110-p2s8w12</LM>
 </w.rf>
 <form>přijata</form>
-<tag lemma="přijmout" src="auto" selected="1">VsQW---XX-AP---</tag>
+<tag>
+<AM lemma="přijmout" src="auto">VsQW---XX-AP---</AM>
+<AM lemma="přijmout_:W" src="manual" selected="1">VsQW---XX-AP---</AM>
+</tag>
 </m>
 <m id="m-ln95048-110-p2s8w13">
 <src.rf>manual</src.rf>

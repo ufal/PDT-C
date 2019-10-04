@@ -434,6 +434,7 @@
 <tag>
 <AM lemma="Prométheus_;S_;Y" src="orig">NNIS1-----A----</AM>
 <AM lemma="Prométheus_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Prométheus_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920924-008-p1s1Cw45">

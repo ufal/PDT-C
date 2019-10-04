@@ -307,7 +307,10 @@
 <LM>w#w-ln94201-114-p3s2w2</LM>
 </w.rf>
 <form>Catherine</form>
-<tag lemma="Catherine_;Y_,t" src="auto" selected="1">NNFXX-----A----</tag>
+<tag>
+<AM lemma="Catherine_;Y_,t" src="auto">NNFXX-----A----</AM>
+<AM lemma="Catherine_;Y" src="manual" selected="1">NNFXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94201-114-p3s2w3">
 <src.rf>manual</src.rf>
@@ -523,7 +526,7 @@
 <AM lemma="tedy" src="orig">Db-------------</AM>
 <AM lemma="Ted_;Y_,t" src="auto">NNMP4-----A----</AM>
 <AM lemma="Ted_;Y_,t" src="auto">NNMP7-----A----</AM>
-<AM lemma="tedy-1" src="auto" recommended="1">TT-------------</AM>
+<AM lemma="tedy-1" src="auto" recommended="1" selected="1">TT-------------</AM>
 <AM lemma="tedy-2" src="auto">J^-------------</AM>
 </tag>
 </m>
@@ -803,7 +806,10 @@
 <LM>w#w-ln94201-114-p5s1w1</LM>
 </w.rf>
 <form>Mario</form>
-<tag lemma="Mario_;Y_,t" src="auto" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Mario_;Y_,t" src="auto">NNMS1-----A----</AM>
+<AM lemma="Mario_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94201-114-p5s1w2">
 <src.rf>manual</src.rf>
@@ -1023,7 +1029,10 @@
 <LM>w#w-ln94201-114-p5s3w2</LM>
 </w.rf>
 <form>ERM</form>
-<tag lemma="ERM_:B" src="auto" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="ERM_:B" src="auto">NNXXX-----A---8</AM>
+<AM lemma="ERM-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln94201-114-p5s3w3">
 <src.rf>manual</src.rf>

@@ -330,6 +330,7 @@
 <tag>
 <AM lemma="USA_;G" src="orig">NNIPX-----A----</AM>
 <AM lemma="USA_:B_;K_,t_^(United_States_of_America)" src="auto" recommended="1">NNIPX-----A---8</AM>
+<AM lemma="USA_:B_;K_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94101-030-p1s3w6">
@@ -476,7 +477,10 @@
 <LM>w#w-lnd94101-030-p1s4w14</LM>
 </w.rf>
 <form>New</form>
-<tag lemma="New-1_;G_,t_^(součást_míst._jmen)" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="New-1_;G_,t_^(součást_míst._jmen)" src="orig">AAXXX----1A----</AM>
+<AM lemma="New-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-lnd94101-030-p1s4w15">
 <src.rf>manual</src.rf>
@@ -484,7 +488,10 @@
 <LM>w#w-lnd94101-030-p1s4w15</LM>
 </w.rf>
 <form>Orleans</form>
-<tag lemma="Orleans_;G" src="orig" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="Orleans_;G" src="orig">NNIS1-----A----</AM>
+<AM lemma="Orleans-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-lnd94101-030-p1s4w16">
 <src.rf>manual</src.rf>
@@ -534,7 +541,10 @@
 <LM>w#w-lnd94101-030-p1s5w5</LM>
 </w.rf>
 <form>LN</form>
-<tag lemma="LN-1_:B_;R_^(Lidové_noviny,_deník)" src="orig" selected="1">NNFPX-----A---8</tag>
+<tag>
+<AM lemma="LN-1_:B_;R_^(Lidové_noviny,_deník)" src="orig">NNFPX-----A---8</AM>
+<AM lemma="LN-1_:B_;K_;R_^(Lidové_noviny)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 </s>
 </mdata>

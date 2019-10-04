@@ -407,7 +407,10 @@
 <LM>w#w-lnd91301-026-p2s1w10</LM>
 </w.rf>
 <form>a</form>
-<tag lemma="akciový_:B_^(jen_akciová_společnost)" src="orig" selected="1">AAXXX----1A---8</tag>
+<tag>
+<AM lemma="akciový_:B_^(jen_akciová_společnost)" src="orig">AAXXX----1A---8</AM>
+<AM lemma="akciový" src="manual" selected="1">AAXXX----1A---8</AM>
+</tag>
 </m>
 <m id="m-lnd91301-026-p2s1w11">
 <src.rf>manual</src.rf>
@@ -423,7 +426,10 @@
 <LM>w#w-lnd91301-026-p2s1w12</LM>
 </w.rf>
 <form>s</form>
-<tag lemma="společnost_:B" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="společnost_:B" src="orig">NNFXX-----A---8</AM>
+<AM lemma="společnost" src="manual" selected="1">NNFXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd91301-026-p2s1w13">
 <src.rf>manual</src.rf>
@@ -553,7 +559,10 @@
 <LM>w#w-lnd91301-026-p2s3w7</LM>
 </w.rf>
 <form>např</form>
-<tag lemma="například_:B" src="orig" selected="1">Db------------8</tag>
+<tag>
+<AM lemma="například_:B" src="orig">Db------------8</AM>
+<AM lemma="například" src="manual" selected="1">Db------------8</AM>
+</tag>
 </m>
 <m id="m-lnd91301-026-p2s3w8">
 <src.rf>manual</src.rf>
@@ -1194,7 +1203,10 @@
 <LM>w#w-lnd91301-026-p4s1w9</LM>
 </w.rf>
 <form>fašismu</form>
-<tag lemma="fašismus" src="orig" selected="1">NNIS2-----A----</tag>
+<tag>
+<AM lemma="fašismus" src="orig">NNIS2-----A----</AM>
+<AM lemma="fašismus_,s_^(^DD**fašizmus)" src="manual" selected="1">NNIS2-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd91301-026-p4s1w10">
 <src.rf>manual</src.rf>
@@ -1437,7 +1449,10 @@
 <LM>w#w-lnd91301-026-p4s2w7</LM>
 </w.rf>
 <form>M</form>
-<tag lemma="M-0_:B_;Y" src="orig" selected="1">NNMXX-----A---8</tag>
+<tag>
+<AM lemma="M-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
+<AM lemma="M-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd91301-026-p4s2w8">
 <src.rf>manual</src.rf>
@@ -1770,7 +1785,10 @@
 <LM>w#w-lnd91301-026-p5s2w6</LM>
 </w.rf>
 <form>ZTS</form>
-<tag lemma="ZTS_:B_;K" src="auto" selected="1">NNISX-----A----</tag>
+<tag>
+<AM lemma="ZTS_:B_;K" src="auto">NNISX-----A----</AM>
+<AM lemma="ZTS-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd91301-026-p5s2w7">
 <src.rf>manual</src.rf>
@@ -1818,7 +1836,10 @@
 <LM>w#w-lnd91301-026-p5s2w12</LM>
 </w.rf>
 <form>kurs</form>
-<tag lemma="kurs" src="auto" selected="1">NNIS4-----A----</tag>
+<tag>
+<AM lemma="kurs" src="auto">NNIS4-----A----</AM>
+<AM lemma="kurs_,s_^(^DD**kurz)" src="manual" selected="1">NNIS4-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd91301-026-p5s2w13">
 <src.rf>manual</src.rf>

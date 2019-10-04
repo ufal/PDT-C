@@ -35,7 +35,11 @@
 <LM>w#w-mf920923-058-p1s1w3</LM>
 </w.rf>
 <form>Ibize</form>
-<tag lemma="Ibiza_;R_^(vozidlo)" src="auto" selected="1">NNFS6-----A----</tag>
+<tag>
+<AM lemma="Ibiza_;R_^(vozidlo)" src="auto">NNFS6-----A----</AM>
+<AM lemma="Ibiza-2_;G" src="manual">NNFS6-----A----</AM>
+<AM lemma="Ibiza_;G_;R_^(vozidlo_ostrov)" src="manual" selected="1">NNFS6-----A----</AM>
+</tag>
 </m>
 </s>
 <s id="m-mf920923-058-p2s1">
@@ -93,7 +97,11 @@
 <LM>w#w-mf920923-058-p2s1w7</LM>
 </w.rf>
 <form>Ibiza</form>
-<tag lemma="Ibiza_;R_^(vozidlo)" src="auto" selected="1">NNFS1-----A----</tag>
+<tag>
+<AM lemma="Ibiza_;R_^(vozidlo)" src="auto">NNFS1-----A----</AM>
+<AM lemma="Ibiza-2_;G" src="manual">NNFS1-----A----</AM>
+<AM lemma="Ibiza_;G_;R_^(vozidlo_ostrov)" src="manual" selected="1">NNFS1-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920923-058-p2s1w8">
 <src.rf>manual</src.rf>
@@ -477,6 +485,8 @@
 <AM lemma="Muresan-2_;G" src="orig">NNIS2-----A----</AM>
 <AM lemma="Muresan_;S" src="auto" recommended="1">NNMS3-----A---1</AM>
 <AM lemma="Muresan_;S" src="auto">NNMS6-----A---1</AM>
+<AM lemma="Muresanu-77" src="manual">F%-------------</AM>
+<AM lemma="Muresanu_;G" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920923-058-p2s3w8">
@@ -783,7 +793,10 @@
 <LM>w#w-mf920923-058-p2s4w23</LM>
 </w.rf>
 <form>Petrem</form>
-<tag lemma="Petr_;Y" src="orig" selected="1">NNMS7-----A----</tag>
+<tag>
+<AM lemma="Petr_;Y" src="orig">NNMS7-----A----</AM>
+<AM lemma="Petr_;S_;Y" src="manual" selected="1">NNMS7-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920923-058-p2s4w24">
 <src.rf>manual</src.rf>
@@ -839,7 +852,10 @@
 <LM>w#w-mf920923-058-p2s4w30</LM>
 </w.rf>
 <form>KB</form>
-<tag lemma="KB-1_:B_;K_^(Komerční_banka)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="KB-1_:B_;K_^(Komerční_banka)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="KB-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-mf920923-058-p2s4w31">
 <src.rf>manual</src.rf>
@@ -1273,7 +1289,10 @@
 <LM>w#w-mf920923-058-p2s8Bw12</LM>
 </w.rf>
 <form>Marek</form>
-<tag lemma="Marek_;Y" src="orig" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Marek_;Y" src="orig">NNMS1-----A----</AM>
+<AM lemma="Marek_;Y_;S" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920923-058-p2s8Bw13">
 <src.rf>manual</src.rf>
@@ -1355,7 +1374,10 @@
 <LM>w#w-mf920923-058-p2s9w9</LM>
 </w.rf>
 <form>Sunex</form>
-<tag lemma="Sunex_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="Sunex_;K" src="orig">NNIS1-----A----</AM>
+<AM lemma="Sunex-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-mf920923-058-p2s9w10">
 <src.rf>manual</src.rf>
@@ -1371,7 +1393,11 @@
 <LM>w#w-mf920923-058-p2s9w11</LM>
 </w.rf>
 <form>Bayer</form>
-<tag lemma="Bayer_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Bayer_;S" src="orig">NNMS1-----A----</AM>
+<AM lemma="Bayer-2_;K" src="manual">NNIS1-----A----</AM>
+<AM lemma="Bayer-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-mf920923-058-p2s9w12">
 <src.rf>manual</src.rf>

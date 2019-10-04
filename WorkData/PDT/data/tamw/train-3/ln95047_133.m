@@ -167,7 +167,10 @@
 <LM>w#w-ln95047-133-p2s1Bw8</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-2" src="auto" selected="1">Dg-------2A----</tag>
+<tag>
+<AM lemma="hodně-2" src="auto">Dg-------2A----</AM>
+<AM lemma="hodně-3" src="manual" selected="1">Dg-------2A----</AM>
+</tag>
 </m>
 <m id="m-ln95047-133-p2s1Bw9">
 <src.rf>manual</src.rf>
@@ -347,7 +350,7 @@
 <form>nevyhnutelně</form>
 <tag>
 <AM lemma="nevyhnutelně_^(*6out)" src="orig">Dg-------1A----</AM>
-<AM lemma="vyhnutelně_^(*1ý)" src="auto" recommended="1">Dg-------1N----</AM>
+<AM lemma="vyhnutelně_^(*1ý)" src="auto" recommended="1" selected="1">Dg-------1N----</AM>
 </tag>
 </m>
 <m id="m-ln95047-133-p3s1w18">
@@ -396,7 +399,10 @@
 <LM>w#w-ln95047-133-p3s1w23</LM>
 </w.rf>
 <form>mnoha</form>
-<tag lemma="mnoho-1" src="orig" selected="1">Ca--2----------</tag>
+<tag>
+<AM lemma="mnoho-1" src="orig">Ca--2----------</AM>
+<AM lemma="mnoho-1" src="manual" selected="1">Ca--X----------</AM>
+</tag>
 </m>
 <m id="m-ln95047-133-p3s1w24">
 <src.rf>manual</src.rf>
@@ -1037,7 +1043,10 @@
 <LM>w#w-ln95047-133-p4s4w4</LM>
 </w.rf>
 <form>psal</form>
-<tag lemma="psát" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag>
+<AM lemma="psát" src="orig">VpYS---XR-AA---</AM>
+<AM lemma="psát_:T" src="manual" selected="1">VpYS---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-ln95047-133-p4s4w5">
 <src.rf>manual</src.rf>
@@ -1053,7 +1062,10 @@
 <LM>w#w-ln95047-133-p4s4w6</LM>
 </w.rf>
 <form>China</form>
-<tag lemma="China_;G" src="orig" selected="1">NNFS1-----A----</tag>
+<tag>
+<AM lemma="China_;G" src="orig">NNFS1-----A----</AM>
+<AM lemma="China-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln95047-133-p4s4w7">
 <src.rf>manual</src.rf>
@@ -1061,7 +1073,10 @@
 <LM>w#w-ln95047-133-p4s4w7</LM>
 </w.rf>
 <form>Daily</form>
-<tag lemma="Daily-1_;K_,t_^(souč._názvů,_např._D._Telegraph)" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="Daily-1_;K_,t_^(souč._názvů,_např._D._Telegraph)" src="orig">AAXXX----1A----</AM>
+<AM lemma="Daily-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln95047-133-p4s4w8">
 <src.rf>manual</src.rf>
@@ -1425,7 +1440,10 @@
 <LM>w#w-ln95047-133-p5s1w1</LM>
 </w.rf>
 <form>Navzdory</form>
-<tag lemma="navzdory-2" src="auto" selected="1">Db-------------</tag>
+<tag>
+<AM lemma="navzdory-2" src="auto">Db-------------</AM>
+<AM lemma="navzdory-1" src="manual" selected="1">RR--3----------</AM>
+</tag>
 </m>
 <m id="m-ln95047-133-p5s1w2">
 <src.rf>manual</src.rf>

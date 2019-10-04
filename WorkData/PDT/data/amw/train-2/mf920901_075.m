@@ -64,6 +64,7 @@
 <tag>
 <AM lemma="sch-99_:B_;S" src="orig">NNXXX-----A---8</AM>
 <AM lemma="schnout" src="auto" recommended="1">VpYS---XR-AA--6</AM>
+<AM lemma="sch-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920901-075-p2s1w4">
@@ -228,7 +229,10 @@
 <LM>w#w-mf920901-075-p2s3w2</LM>
 </w.rf>
 <form>řekl</form>
-<tag lemma="říci" src="auto" selected="1">VpYS---XR-AA---</tag>
+<tag>
+<AM lemma="říci" src="auto">VpYS---XR-AA---</AM>
+<AM lemma="říci_:W" src="manual" selected="1">VpYS---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-mf920901-075-p2s3w3">
 <src.rf>manual</src.rf>
@@ -268,7 +272,10 @@
 <LM>w#w-mf920901-075-p2s3w7</LM>
 </w.rf>
 <form>Žáček</form>
-<tag lemma="žáček" src="orig" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="žáček" src="orig">NNMS1-----A----</AM>
+<AM lemma="Žáček_;S" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920901-075-p2s3w8">
 <src.rf>manual</src.rf>

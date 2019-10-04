@@ -45,7 +45,10 @@
 <LM>w#w-lnd92258-098-p2s1w1</LM>
 </w.rf>
 <form>Máme</form>
-<tag lemma="mít" src="orig" selected="1">VB-P---1P-AA---</tag>
+<tag>
+<AM lemma="mít" src="orig">VB-P---1P-AA---</AM>
+<AM lemma="mít_:T" src="manual" selected="1">VB-P---1P-AA---</AM>
+</tag>
 </m>
 <m id="m-lnd92258-098-p2s1w2">
 <src.rf>manual</src.rf>
@@ -165,7 +168,10 @@
 <LM>w#w-lnd92258-098-p2s1w16</LM>
 </w.rf>
 <form>vidět</form>
-<tag lemma="vidět" src="orig" selected="1">Vf--------A----</tag>
+<tag>
+<AM lemma="vidět" src="orig">Vf--------A----</AM>
+<AM lemma="vidět_:T" src="manual" selected="1">Vf--------A----</AM>
+</tag>
 </m>
 <m id="m-lnd92258-098-p2s1w17">
 <src.rf>manual</src.rf>
@@ -247,7 +253,10 @@
 <LM>w#w-lnd92258-098-p2s2w6</LM>
 </w.rf>
 <form>dal</form>
-<tag lemma="dát" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag>
+<AM lemma="dát" src="orig">VpYS---XR-AA---</AM>
+<AM lemma="dát_:W" src="manual" selected="1">VpYS---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-lnd92258-098-p2s2w7">
 <src.rf>manual</src.rf>
@@ -343,7 +352,10 @@
 <LM>w#w-lnd92258-098-p2s2w18</LM>
 </w.rf>
 <form>zahrána</form>
-<tag lemma="zahrát" src="orig" selected="1">VsQW---XX-AP---</tag>
+<tag>
+<AM lemma="zahrát" src="orig">VsQW---XX-AP---</AM>
+<AM lemma="zahrát_:W" src="manual" selected="1">VsQW---XX-AP---</AM>
+</tag>
 </m>
 <m id="m-lnd92258-098-p2s2w19">
 <src.rf>manual</src.rf>
@@ -377,7 +389,7 @@
 <form>ačkoli</form>
 <tag>
 <AM lemma="ačkoliv" src="orig">J,------------1</AM>
-<AM lemma="ačkoli" src="auto" recommended="1">J,-------------</AM>
+<AM lemma="ačkoli" src="auto" recommended="1" selected="1">J,-------------</AM>
 </tag>
 </m>
 <m id="m-lnd92258-098-p2s2w23">
@@ -418,7 +430,10 @@
 <LM>w#w-lnd92258-098-p2s2w27</LM>
 </w.rf>
 <form>říci</form>
-<tag lemma="říci" src="auto" selected="1">Vf--------A---1</tag>
+<tag>
+<AM lemma="říci" src="auto">Vf--------A---1</AM>
+<AM lemma="říci_:W" src="manual" selected="1">Vf--------A---1</AM>
+</tag>
 </m>
 <m id="m-lnd92258-098-p2s2w28">
 <src.rf>manual</src.rf>
@@ -426,7 +441,10 @@
 <LM>w#w-lnd92258-098-p2s2w28</LM>
 </w.rf>
 <form>právě</form>
-<tag lemma="právě-1" src="auto" selected="1">Db-------------</tag>
+<tag>
+<AM lemma="právě-1" src="auto">Db-------------</AM>
+<AM lemma="právě-2" src="manual" selected="1">TT-------------</AM>
+</tag>
 </m>
 <m id="m-lnd92258-098-p2s2w29">
 <src.rf>manual</src.rf>
@@ -442,7 +460,10 @@
 <LM>w#w-lnd92258-098-p2s2w30</LM>
 </w.rf>
 <form>milionům</form>
-<tag lemma="milión`1000000" src="orig" selected="1">NNIP3-----A----</tag>
+<tag>
+<AM lemma="milión`1000000" src="orig">NNIP3-----A----</AM>
+<AM lemma="milion`1000000_,s_^(^DD**milión)" src="manual" selected="1">NNIP3-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92258-098-p2s2w31">
 <src.rf>manual</src.rf>
@@ -918,7 +939,7 @@
 <form>totiž</form>
 <tag>
 <AM lemma="totiž" src="orig">Db-------------</AM>
-<AM lemma="totiž-1" src="auto" recommended="1">J^-------------</AM>
+<AM lemma="totiž-1" src="auto" recommended="1" selected="1">J^-------------</AM>
 <AM lemma="totiž-2" src="auto">TT-------------</AM>
 </tag>
 </m>
@@ -1224,7 +1245,7 @@
 <form>Ovšem</form>
 <tag>
 <AM lemma="ovšem-1_^(avšak,_však;_odporovací_spojka)" src="orig">J^-------------</AM>
-<AM lemma="ovšem" src="auto" recommended="1">TT-------------</AM>
+<AM lemma="ovšem" src="auto" recommended="1" selected="1">TT-------------</AM>
 </tag>
 </m>
 <m id="m-lnd92258-098-p4s3w2">
@@ -1257,7 +1278,10 @@
 <LM>w#w-lnd92258-098-p4s3w5</LM>
 </w.rf>
 <form>stojí</form>
-<tag lemma="stát-3_^(někdo/něco_stojí,_např._na_nohou)" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag>
+<AM lemma="stát-3_^(někdo/něco_stojí,_např._na_nohou)" src="orig">VB-S---3P-AA---</AM>
+<AM lemma="stát-3_:T_^(někdo/něco_stojí,_např._na_nohou)" src="manual" selected="1">VB-S---3P-AA---</AM>
+</tag>
 </m>
 <m id="m-lnd92258-098-p4s3w6">
 <src.rf>manual</src.rf>
@@ -1897,7 +1921,10 @@
 <LM>w#w-lnd92258-098-p5s3w11</LM>
 </w.rf>
 <form>brát</form>
-<tag lemma="brát" src="orig" selected="1">Vf--------A----</tag>
+<tag>
+<AM lemma="brát" src="orig">Vf--------A----</AM>
+<AM lemma="brát_:T" src="manual" selected="1">Vf--------A----</AM>
+</tag>
 </m>
 <m id="m-lnd92258-098-p5s3w12">
 <src.rf>manual</src.rf>

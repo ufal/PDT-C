@@ -27,7 +27,10 @@
 <LM>w#w-mf930708-080-p1s1w2</LM>
 </w.rf>
 <form>mají</form>
-<tag lemma="mít" src="orig" selected="1">VB-P---3P-AA---</tag>
+<tag>
+<AM lemma="mít" src="orig">VB-P---3P-AA---</AM>
+<AM lemma="mít_:T" src="manual" selected="1">VB-P---3P-AA---</AM>
+</tag>
 </m>
 <m id="m-mf930708-080-p1s1w3">
 <src.rf>manual</src.rf>
@@ -311,7 +314,10 @@
 <LM>w#w-mf930708-080-p2s2w4</LM>
 </w.rf>
 <form>má</form>
-<tag lemma="mít" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag>
+<AM lemma="mít" src="orig">VB-S---3P-AA---</AM>
+<AM lemma="mít_:T" src="manual" selected="1">VB-S---3P-AA---</AM>
+</tag>
 </m>
 <m id="m-mf930708-080-p2s2w5">
 <src.rf>manual</src.rf>
@@ -399,7 +405,10 @@
 <LM>w#w-mf930708-080-p2s2w15</LM>
 </w.rf>
 <form>mají</form>
-<tag lemma="mít" src="orig" selected="1">VB-P---3P-AA---</tag>
+<tag>
+<AM lemma="mít" src="orig">VB-P---3P-AA---</AM>
+<AM lemma="mít_:T" src="manual" selected="1">VB-P---3P-AA---</AM>
+</tag>
 </m>
 <m id="m-mf930708-080-p2s2w16">
 <src.rf>manual</src.rf>
@@ -465,7 +474,7 @@
 <form>sedmých</form>
 <tag>
 <AM lemma="sedmý" src="orig">AAFP2----1A----</AM>
-<AM lemma="sedmý" src="auto" recommended="1">CrFP2----------</AM>
+<AM lemma="sedmý" src="auto" recommended="1" selected="1">CrFP2----------</AM>
 <AM lemma="sedmý" src="auto">CrFP6----------</AM>
 <AM lemma="sedmý" src="auto">CrIP2----------</AM>
 <AM lemma="sedmý" src="auto">CrIP6----------</AM>
@@ -643,7 +652,10 @@
 <LM>w#w-mf930708-080-p2s3w19</LM>
 </w.rf>
 <form>Zachová</form>
-<tag lemma="zachovat_:T" src="auto" selected="1">VB-S---3P-AA---</tag>
+<tag>
+<AM lemma="zachovat_:T" src="auto">VB-S---3P-AA---</AM>
+<AM lemma="Zachová_;S" src="manual" selected="1">NNFS1-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930708-080-p2s3w20">
 <src.rf>manual</src.rf>
@@ -685,7 +697,10 @@
 <LM>w#w-mf930708-080-p2s4w4</LM>
 </w.rf>
 <form>zavést</form>
-<tag lemma="zavést" src="orig" selected="1">Vf--------A----</tag>
+<tag>
+<AM lemma="zavést" src="orig">Vf--------A----</AM>
+<AM lemma="zavést_:W" src="manual" selected="1">Vf--------A----</AM>
+</tag>
 </m>
 <m id="m-mf930708-080-p2s4w5">
 <src.rf>manual</src.rf>
@@ -783,7 +798,10 @@
 <LM>w#w-mf930708-080-p2s5w3</LM>
 </w.rf>
 <form>mít</form>
-<tag lemma="mít" src="orig" selected="1">Vf--------A----</tag>
+<tag>
+<AM lemma="mít" src="orig">Vf--------A----</AM>
+<AM lemma="mít_:T" src="manual" selected="1">Vf--------A----</AM>
+</tag>
 </m>
 <m id="m-mf930708-080-p2s5w4">
 <src.rf>manual</src.rf>
@@ -841,7 +859,10 @@
 <LM>w#w-mf930708-080-p2s6w2</LM>
 </w.rf>
 <form>má</form>
-<tag lemma="mít" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag>
+<AM lemma="mít" src="orig">VB-S---3P-AA---</AM>
+<AM lemma="mít_:T" src="manual" selected="1">VB-S---3P-AA---</AM>
+</tag>
 </m>
 <m id="m-mf930708-080-p2s6w3">
 <src.rf>manual</src.rf>
@@ -1133,7 +1154,7 @@
 <form>vůbec</form>
 <tag>
 <AM lemma="vůbec" src="orig">Db-------------</AM>
-<AM lemma="vůbec" src="auto" recommended="1">TT-------------</AM>
+<AM lemma="vůbec" src="auto" recommended="1" selected="1">TT-------------</AM>
 </tag>
 </m>
 <m id="m-mf930708-080-p2s7w32">
@@ -2670,7 +2691,10 @@
 <LM>w#w-mf930708-080-p6s1w2</LM>
 </w.rf>
 <form>Vím</form>
-<tag lemma="vědět" src="orig" selected="1">VB-S---1P-AA---</tag>
+<tag>
+<AM lemma="vědět" src="orig">VB-S---1P-AA---</AM>
+<AM lemma="vědět_:T" src="manual" selected="1">VB-S---1P-AA---</AM>
+</tag>
 </m>
 <m id="m-mf930708-080-p6s1w3">
 <src.rf>manual</src.rf>
@@ -2894,7 +2918,10 @@
 <LM>w#w-mf930708-080-p6s1w30</LM>
 </w.rf>
 <form>Zachová</form>
-<tag lemma="zachovat_:T" src="auto" selected="1">VB-S---3P-AA---</tag>
+<tag>
+<AM lemma="zachovat_:T" src="auto">VB-S---3P-AA---</AM>
+<AM lemma="Zachová_;S" src="manual" selected="1">NNFS1-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930708-080-p6s1w31">
 <src.rf>manual</src.rf>
@@ -3186,7 +3213,10 @@
 <LM>w#w-mf930708-080-p6s3w20</LM>
 </w.rf>
 <form>najde</form>
-<tag lemma="najít" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag>
+<AM lemma="najít" src="orig">VB-S---3P-AA---</AM>
+<AM lemma="najít_:W" src="manual" selected="1">VB-S---3P-AA---</AM>
+</tag>
 </m>
 <m id="m-mf930708-080-p6s3w21">
 <src.rf>manual</src.rf>
@@ -3266,7 +3296,10 @@
 <LM>w#w-mf930708-080-p6s3w30</LM>
 </w.rf>
 <form>Zachová</form>
-<tag lemma="zachovat_:T" src="auto" selected="1">VB-S---3P-AA---</tag>
+<tag>
+<AM lemma="zachovat_:T" src="auto">VB-S---3P-AA---</AM>
+<AM lemma="Zachová_;S" src="manual" selected="1">NNFS1-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930708-080-p6s3w31">
 <src.rf>manual</src.rf>

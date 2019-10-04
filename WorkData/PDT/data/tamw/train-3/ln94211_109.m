@@ -67,7 +67,10 @@
 <LM>w#w-ln94211-109-p1s1w7</LM>
 </w.rf>
 <form>Dolní</form>
-<tag lemma="Dolní_;G" src="orig" selected="1">AAFS6----1A----</tag>
+<tag>
+<AM lemma="Dolní_;G" src="orig">AAFS6----1A----</AM>
+<AM lemma="dolní" src="manual" selected="1">AAFS6----1A----</AM>
+</tag>
 </m>
 <m id="m-ln94211-109-p1s1w8">
 <src.rf>manual</src.rf>
@@ -165,7 +168,10 @@
 <LM>w#w-ln94211-109-p2s1w11</LM>
 </w.rf>
 <form>Dolní</form>
-<tag lemma="Dolní_;G" src="orig" selected="1">AAFS6----1A----</tag>
+<tag>
+<AM lemma="Dolní_;G" src="orig">AAFS6----1A----</AM>
+<AM lemma="dolní" src="manual" selected="1">AAFS6----1A----</AM>
+</tag>
 </m>
 <m id="m-ln94211-109-p2s1w12">
 <src.rf>manual</src.rf>
@@ -387,6 +393,7 @@
 <AM lemma="Amsterodam_;G_;K_,t" src="orig">AAXXX----1A----</AM>
 <AM lemma="Amsterodam_;G" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Amsterodam_;G" src="auto">NNIS4-----A----</AM>
+<AM lemma="Amsterdam-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-ln94211-109-p2s2w10">
@@ -401,6 +408,8 @@
 <AM lemma="fortepiano-1_,s_,t" src="auto">NNNS4-----A----</AM>
 <AM lemma="fortepiano-1_,s_,t" src="auto">NNNS5-----A----</AM>
 <AM lemma="fortepiano-2_;u_,t" src="auto" recommended="1">Db-------------</AM>
+<AM lemma="fortepiano_,t" src="manual">NNXXX-----A----</AM>
+<AM lemma="fortepiano-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-ln94211-109-p2s2w11">
@@ -409,7 +418,11 @@
 <LM>w#w-ln94211-109-p2s2w11</LM>
 </w.rf>
 <form>trio</form>
-<tag lemma="trio" src="orig" selected="1">NNNS1-----A----</tag>
+<tag>
+<AM lemma="trio" src="orig">NNNS1-----A----</AM>
+<AM lemma="trio_,t" src="manual">NNXXX-----A----</AM>
+<AM lemma="trio-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94211-109-p2s2w12">
 <src.rf>manual</src.rf>
@@ -426,11 +439,12 @@
 </w.rf>
 <form>Collegium</form>
 <tag>
-<AM lemma="Collegium_;K" src="orig">NNNS1-----A----</AM>
+<AM lemma="Collegium_;K" src="orig" selected="1">NNNS1-----A----</AM>
 <AM lemma="kolegium_,a_,x" src="auto">NNNP3-----A---6</AM>
 <AM lemma="kolegium_,a_,x" src="auto" recommended="1">NNNS1-----A----</AM>
 <AM lemma="kolegium_,a_,x" src="auto">NNNS4-----A----</AM>
 <AM lemma="kolegium_,a_,x" src="auto">NNNS5-----A----</AM>
+<AM lemma="collegium_,t" src="manual">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94211-109-p2s2w14">
@@ -455,7 +469,11 @@
 <LM>w#w-ln94211-109-p2s2w16</LM>
 </w.rf>
 <form>Musica</form>
-<tag lemma="Musica_;u_^(Musica_Bohemica)" src="auto" selected="1">NNFS1-----A----</tag>
+<tag>
+<AM lemma="Musica_;u_^(Musica_Bohemica)" src="auto">NNFS1-----A----</AM>
+<AM lemma="musica_,t" src="manual">NNXXX-----A----</AM>
+<AM lemma="Musica-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94211-109-p2s2w17">
 <src.rf>manual</src.rf>
@@ -463,7 +481,11 @@
 <LM>w#w-ln94211-109-p2s2w17</LM>
 </w.rf>
 <form>Historica</form>
-<tag lemma="Historica_;K_,t" src="orig" selected="1">AAFS1----1A----</tag>
+<tag>
+<AM lemma="Historica_;K_,t" src="orig">AAFS1----1A----</AM>
+<AM lemma="historica_,t" src="manual">AAXXX----1A----</AM>
+<AM lemma="Historica-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94211-109-p2s2w18">
 <src.rf>manual</src.rf>
@@ -474,6 +496,7 @@
 <tag>
 <AM lemma="Viva_;K_,t" src="orig">AAFS1----1A----</AM>
 <AM lemma="Viva_;K" src="auto" recommended="1">NNFS1-----A----</AM>
+<AM lemma="Viva-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-ln94211-109-p2s2w19">
@@ -516,7 +539,10 @@
 <LM>w#w-ln94211-109-p3s1w1</LM>
 </w.rf>
 <form>Joseph</form>
-<tag lemma="Joseph_;Y_,t" src="auto" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Joseph_;Y_,t" src="auto">NNMS1-----A----</AM>
+<AM lemma="Joseph_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94211-109-p3s1w2">
 <src.rf>manual</src.rf>
@@ -694,7 +720,10 @@
 <LM>w#w-ln94211-109-p3s2w10</LM>
 </w.rf>
 <form>Dolní</form>
-<tag lemma="Dolní_;G" src="orig" selected="1">AAFS6----1A----</tag>
+<tag>
+<AM lemma="Dolní_;G" src="orig">AAFS6----1A----</AM>
+<AM lemma="dolní" src="manual" selected="1">AAFS6----1A----</AM>
+</tag>
 </m>
 <m id="m-ln94211-109-p3s2w11">
 <src.rf>manual</src.rf>
@@ -962,7 +991,10 @@
 <LM>w#w-ln94211-109-p3s4w7</LM>
 </w.rf>
 <form>Dolní</form>
-<tag lemma="Dolní_;G" src="orig" selected="1">AAFS6----1A----</tag>
+<tag>
+<AM lemma="Dolní_;G" src="orig">AAFS6----1A----</AM>
+<AM lemma="dolní" src="manual" selected="1">AAFS6----1A----</AM>
+</tag>
 </m>
 <m id="m-ln94211-109-p3s4w8">
 <src.rf>manual</src.rf>
@@ -1196,7 +1228,10 @@
 <LM>w#w-ln94211-109-p3s5w17</LM>
 </w.rf>
 <form>Dolní</form>
-<tag lemma="Dolní_;G" src="orig" selected="1">AAFS1----1A----</tag>
+<tag>
+<AM lemma="Dolní_;G" src="orig">AAFS1----1A----</AM>
+<AM lemma="dolní" src="manual" selected="1">AAFS6----1A----</AM>
+</tag>
 </m>
 <m id="m-ln94211-109-p3s5w18">
 <src.rf>manual</src.rf>
@@ -1440,7 +1475,10 @@
 <LM>w#w-ln94211-109-p4s2w10</LM>
 </w.rf>
 <form>Josepha</form>
-<tag lemma="Joseph_;Y_,t" src="auto" selected="1">NNMS2-----A----</tag>
+<tag>
+<AM lemma="Joseph_;Y_,t" src="auto">NNMS2-----A----</AM>
+<AM lemma="Joseph_;Y" src="manual" selected="1">NNMS2-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94211-109-p4s2w11">
 <src.rf>manual</src.rf>
@@ -1594,7 +1632,10 @@
 <LM>w#w-ln94211-109-p4s3w17</LM>
 </w.rf>
 <form>diskuse</form>
-<tag lemma="diskuse" src="orig" selected="1">NNFS2-----A----</tag>
+<tag>
+<AM lemma="diskuse" src="orig">NNFS2-----A----</AM>
+<AM lemma="diskuse_,s_^(^DD**diskuze)" src="manual" selected="1">NNFS2-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94211-109-p4s3w18">
 <src.rf>manual</src.rf>
@@ -1980,6 +2021,7 @@
 <AM lemma="lub-99_:B_;S" src="orig">NNXXX-----A---8</AM>
 <AM lemma="lub" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="lub" src="auto">NNIS4-----A----</AM>
+<AM lemma="lub-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94211-109-p4s6w3">

@@ -135,7 +135,7 @@
 <form>mazdu</form>
 <tag>
 <AM lemma="Mazda-2_;R_^(vozidlo)" src="orig">NNFS4-----A----</AM>
-<AM lemma="mazda_;R" src="auto" recommended="1">NNFS4-----A----</AM>
+<AM lemma="mazda_;R" src="auto" recommended="1" selected="1">NNFS4-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930708-017-p2s1w10">
@@ -261,7 +261,7 @@
 <AM lemma="mazda_;R" src="auto">NNFP1-----A----</AM>
 <AM lemma="mazda_;R" src="auto">NNFP4-----A----</AM>
 <AM lemma="mazda_;R" src="auto">NNFP5-----A----</AM>
-<AM lemma="mazda_;R" src="auto" recommended="1">NNFS2-----A----</AM>
+<AM lemma="mazda_;R" src="auto" recommended="1" selected="1">NNFS2-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930708-017-p2s1w25">
@@ -1176,7 +1176,7 @@
 <form>mazdu</form>
 <tag>
 <AM lemma="Mazda-2_;R_^(vozidlo)" src="orig">NNFS4-----A----</AM>
-<AM lemma="mazda_;R" src="auto" recommended="1">NNFS4-----A----</AM>
+<AM lemma="mazda_;R" src="auto" recommended="1" selected="1">NNFS4-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930708-017-p4s3w7">
@@ -1193,7 +1193,7 @@
 <AM lemma="jedoucí-1_^(pohybovat_se,_ne_však_chůzí)_(*7t-1)" src="auto">AGFS1-----A----</AM>
 <AM lemma="jedoucí-1_^(pohybovat_se,_ne_však_chůzí)_(*7t-1)" src="auto">AGFS2-----A----</AM>
 <AM lemma="jedoucí-1_^(pohybovat_se,_ne_však_chůzí)_(*7t-1)" src="auto">AGFS3-----A----</AM>
-<AM lemma="jedoucí-1_^(pohybovat_se,_ne_však_chůzí)_(*7t-1)" src="auto">AGFS4-----A----</AM>
+<AM lemma="jedoucí-1_^(pohybovat_se,_ne_však_chůzí)_(*7t-1)" src="auto" selected="1">AGFS4-----A----</AM>
 <AM lemma="jedoucí-1_^(pohybovat_se,_ne_však_chůzí)_(*7t-1)" src="auto">AGFS5-----A----</AM>
 <AM lemma="jedoucí-1_^(pohybovat_se,_ne_však_chůzí)_(*7t-1)" src="auto">AGFS6-----A----</AM>
 <AM lemma="jedoucí-1_^(pohybovat_se,_ne_však_chůzí)_(*7t-1)" src="auto">AGFS7-----A----</AM>

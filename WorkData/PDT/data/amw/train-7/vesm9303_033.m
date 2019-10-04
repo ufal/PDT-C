@@ -189,7 +189,10 @@
 <LM>w#w-vesm9303-033-p2s1w16</LM>
 </w.rf>
 <form>P</form>
-<tag lemma="P-0_:B_;Y" src="orig" selected="1">NNMXX-----A---8</tag>
+<tag>
+<AM lemma="P-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
+<AM lemma="P-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-vesm9303-033-p2s1w17">
 <src.rf>manual</src.rf>
@@ -296,7 +299,7 @@
 <tag>
 <AM lemma="nalézt" src="orig">VpYS---XR-AA---</AM>
 <AM lemma="nalézt-1_^(někam)" src="auto" recommended="1">VpYS---XR-AA---</AM>
-<AM lemma="nalézt-2" src="auto">VpYS---XR-AA---</AM>
+<AM lemma="nalézt-2" src="auto" selected="1">VpYS---XR-AA---</AM>
 </tag>
 </m>
 <m id="m-vesm9303-033-p2s1w30">
@@ -541,7 +544,10 @@
 <LM>w#w-vesm9303-033-p2s3w11</LM>
 </w.rf>
 <form>sice</form>
-<tag lemma="sice-2" src="auto" selected="1">Db-------------</tag>
+<tag>
+<AM lemma="sice-2" src="auto">Db-------------</AM>
+<AM lemma="sice-1_^(spojka;_připouští_se_určitá_fakta)" src="manual" selected="1">J^-------------</AM>
+</tag>
 </m>
 <m id="m-vesm9303-033-p2s3w12">
 <src.rf>manual</src.rf>
@@ -849,7 +855,10 @@
 <LM>w#w-vesm9303-033-p2s5w3</LM>
 </w.rf>
 <form>li</form>
-<tag lemma="li-1" src="auto" selected="1">TT-------------</tag>
+<tag>
+<AM lemma="li-1" src="auto">TT-------------</AM>
+<AM lemma="li-2" src="manual" selected="1">J,-------------</AM>
+</tag>
 </m>
 <m id="m-vesm9303-033-p2s5w4">
 <src.rf>manual</src.rf>
@@ -1638,6 +1647,7 @@
 <AM lemma="Britský_:B_;m" src="auto">AAXXX----1A---9</AM>
 <AM lemma="Británie_:B_;m" src="auto">NNFXX-----A---9</AM>
 <AM lemma="britský_:B" src="auto" recommended="1">AAXXX----1A---8</AM>
+<AM lemma="Brit-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-vesm9303-033-p3s3w23">
@@ -1654,7 +1664,10 @@
 <LM>w#w-vesm9303-033-p3s3w24</LM>
 </w.rf>
 <form>J</form>
-<tag lemma="J-6_:B_;R" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="J-6_:B_;R" src="orig">NNXXX-----A---8</AM>
+<AM lemma="J-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-vesm9303-033-p3s3w25">
 <src.rf>manual</src.rf>
@@ -1673,6 +1686,7 @@
 <tag>
 <AM lemma="Psychology_:B_;K_,t" src="orig">NNFXX-----A---8</AM>
 <AM lemma="psycha_,a_^(duše;;zrcadlo_s_toaletním_stolkem)" src="auto" recommended="1">NNFP2-----A----</AM>
+<AM lemma="Psych-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-vesm9303-033-p3s3w27">

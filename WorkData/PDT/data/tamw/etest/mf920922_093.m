@@ -45,7 +45,10 @@
 <LM>w#w-mf920922-093-p2s1w1</LM>
 </w.rf>
 <form>České</form>
-<tag lemma="Český-1_;G_^(používá_se_i_pro_jména_org.,_výrobků_atd.)" src="auto" selected="1">AAFP1----1A----</tag>
+<tag>
+<AM lemma="Český-1_;G_^(používá_se_i_pro_jména_org.,_výrobků_atd.)" src="auto">AAFP1----1A----</AM>
+<AM lemma="český" src="manual" selected="1">AAFP1----1A----</AM>
+</tag>
 </m>
 <m id="m-mf920922-093-p2s1w2">
 <src.rf>manual</src.rf>
@@ -1056,7 +1059,10 @@
 <LM>w#w-mf920922-093-p2s6w32</LM>
 </w.rf>
 <form>J</form>
-<tag lemma="J-0_:B_;Y" src="orig" selected="1">NNMXX-----A---8</tag>
+<tag>
+<AM lemma="J-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
+<AM lemma="J-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-mf920922-093-p2s6w33">
 <src.rf>manual</src.rf>

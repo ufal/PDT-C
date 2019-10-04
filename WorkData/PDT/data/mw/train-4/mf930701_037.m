@@ -70,7 +70,7 @@
 </w.rf>
 <form>mas</form>
 <tag>
-<AM lemma="mas-99_:B_;S" src="orig">NNXXX-----A---8</AM>
+<AM lemma="mas-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</AM>
 <AM lemma="masa_^(velké_množství)" src="auto" recommended="1">NNFP2-----A----</AM>
 <AM lemma="maso_^(jídlo_apod.)" src="auto">NNNP2-----A----</AM>
 </tag>
@@ -291,7 +291,7 @@
 <form>Žďorp</form>
 <tag>
 <AM lemma="Žďorp_;K" src="orig">NNIS1-----A----</AM>
-<AM lemma="Žďorp" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Žďorp" src="auto" recommended="1" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930701-037-p2s1w32">
@@ -318,7 +318,10 @@
 <LM>w#w-mf930701-037-p2s2w2</LM>
 </w.rf>
 <form>M</form>
-<tag lemma="M-4_:B_;K" src="orig" selected="1">AAXXX----1A---8</tag>
+<tag>
+<AM lemma="M-4_:B_;K" src="orig">AAXXX----1A---8</AM>
+<AM lemma="M-33_^(označení_pomocí_písmene)" src="manual" selected="1">NNNXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930701-037-p2s2w3">
 <src.rf>manual</src.rf>
@@ -396,6 +399,7 @@
 <AM lemma="Lindsay_;S" src="auto">NNMS5-----A----</AM>
 <AM lemma="Lindsay_;Y" src="auto">NNMS1-----A---1</AM>
 <AM lemma="Lindsay_;Y" src="auto">NNMS5-----A---1</AM>
+<AM lemma="Lindsay-2_;Y" src="manual" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930701-037-p2s2w12">
@@ -404,7 +408,10 @@
 <LM>w#w-mf930701-037-p2s2w12</LM>
 </w.rf>
 <form>Cooper</form>
-<tag lemma="Cooper_;S" src="auto" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Cooper_;S" src="auto">NNMS1-----A----</AM>
+<AM lemma="Cooper-2_;S" src="manual" selected="1">NNFXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930701-037-p2s2w13">
 <src.rf>manual</src.rf>
@@ -422,7 +429,7 @@
 <form>zpěvačkou</form>
 <tag>
 <AM lemma="zpěvák" src="orig">NNFS7-----A----</AM>
-<AM lemma="zpěvačka" src="auto" recommended="1">NNFS7-----A----</AM>
+<AM lemma="zpěvačka" src="auto" recommended="1" selected="1">NNFS7-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930701-037-p2s2w15">

@@ -51,7 +51,10 @@
 <LM>w#w-ln94203-46-p1s1w5</LM>
 </w.rf>
 <form>E</form>
-<tag lemma="E-0_:B_;Y" src="orig" selected="1">NNMXX-----A---8</tag>
+<tag>
+<AM lemma="E-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
+<AM lemma="E-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94203-46-p1s1w6">
 <src.rf>manual</src.rf>
@@ -428,6 +431,7 @@
 <tag>
 <AM lemma="OSŽ_:B_;K" src="orig">NNNXX-----A---8</AM>
 <AM lemma="OSŽ_:B" src="auto" recommended="1">NNXXX-----A---8</AM>
+<AM lemma="OSŽ-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94203-46-p2s2w15">
@@ -622,7 +626,10 @@
 <LM>w#w-ln94203-46-p2s3w10</LM>
 </w.rf>
 <form>li</form>
-<tag lemma="li-1" src="auto" selected="1">TT-------------</tag>
+<tag>
+<AM lemma="li-1" src="auto">TT-------------</AM>
+<AM lemma="li-2" src="manual" selected="1">J,-------------</AM>
+</tag>
 </m>
 <m id="m-ln94203-46-p2s3w11">
 <src.rf>manual</src.rf>

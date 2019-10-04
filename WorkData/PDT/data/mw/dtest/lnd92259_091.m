@@ -43,7 +43,10 @@
 <LM>w#w-lnd92259-091-p1s1w4</LM>
 </w.rf>
 <form>MOV</form>
-<tag lemma="MOV_:B_;K_^(Mezinárodní_olympijský_výbor)" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="MOV_:B_;K_^(Mezinárodní_olympijský_výbor)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="MOV-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd92259-091-p1s1w5">
 <src.rf>manual</src.rf>
@@ -63,7 +66,7 @@
 <form>ACAPULCO</form>
 <tag>
 <AM lemma="Acapulco_;G" src="orig">NNNS1-----A----</AM>
-<AM lemma="Acapulco_;G" src="auto" recommended="1">NNNS1-----A---1</AM>
+<AM lemma="Acapulco_;G" src="auto" recommended="1" selected="1">NNNS1-----A---1</AM>
 <AM lemma="Acapulco_;G" src="auto">NNNS4-----A---1</AM>
 <AM lemma="Acapulco_;G" src="auto">NNNS5-----A---1</AM>
 </tag>
@@ -361,7 +364,10 @@
 <LM>w#w-lnd92259-091-p2s4w7</LM>
 </w.rf>
 <form>OH</form>
-<tag lemma="OH-2_:B_;w_^(Olympijské_hry)" src="orig" selected="1">NNFPX-----A---8</tag>
+<tag>
+<AM lemma="OH-2_:B_;w_^(Olympijské_hry)" src="orig">NNFPX-----A---8</AM>
+<AM lemma="OH-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd92259-091-p2s4w8">
 <src.rf>manual</src.rf>
@@ -677,7 +683,10 @@
 <LM>w#w-lnd92259-091-p2s6w8</LM>
 </w.rf>
 <form>AENOV</form>
-<tag lemma="AENOV_:B_;K_^(Asociace_evr._nár._olympijských_výborů)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="AENOV_:B_;K_^(Asociace_evr._nár._olympijských_výborů)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="AENOV-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd92259-091-p2s6w9">
 <src.rf>manual</src.rf>

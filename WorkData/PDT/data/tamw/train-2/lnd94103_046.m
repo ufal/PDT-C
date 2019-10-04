@@ -19,7 +19,10 @@
 <LM>w#w-lnd94103-046-p1s1w1</LM>
 </w.rf>
 <form>KLDR</form>
-<tag lemma="KLDR_:B_;G_^(Korejská_lidově-demokratická_republika)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="KLDR_:B_;G_^(Korejská_lidově-demokratická_republika)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="KLDR_:B_;G_^(Korejská_lidově-demokratická_republika)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd94103-046-p1s1w2">
 <src.rf>manual</src.rf>
@@ -321,7 +324,10 @@
 <LM>w#w-lnd94103-046-p1s4w9</LM>
 </w.rf>
 <form>OSN</form>
-<tag lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd94103-046-p1s4w10">
 <src.rf>manual</src.rf>
@@ -379,7 +385,12 @@
 <LM>w#w-lnd94103-046-p1s5w4</LM>
 </w.rf>
 <form>Kim</form>
-<tag lemma="Kim-1_;Y" src="auto" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Kim-1_;Y" src="auto">NNMS1-----A----</AM>
+<AM lemma="Kim-1_;YKim-2_;S_^(korejske_prijmeni)" src="manual">NNMS1-----A----</AM>
+<AM lemma="Kim-2_;S_^(korejske_prijmeni)" src="manual">NNMS1-----A----</AM>
+<AM lemma="Kim-3_;S" src="manual" selected="1">NNMXX-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd94103-046-p1s5w5">
 <src.rf>manual</src.rf>
@@ -391,6 +402,7 @@
 <AM lemma="Jong_;Y" src="orig">NNMS1-----A----</AM>
 <AM lemma="Jong_;G" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Jong_;G" src="auto">NNIS4-----A----</AM>
+<AM lemma="Jong_;Y" src="manual" selected="1">NNMXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94103-046-p1s5w6">
@@ -408,7 +420,7 @@
 </w.rf>
 <form>sam</form>
 <tag>
-<AM lemma="sam-2_;Y_^(v_korejských_jménech,_např._Kim_Jong-sam)" src="orig">NNMS1-----A----</AM>
+<AM lemma="sam-2_;Y_^(v_korejských_jménech,_např._Kim_Jong-sam)" src="orig" selected="1">NNMS1-----A----</AM>
 <AM lemma="samostatný_:B" src="auto" recommended="1">AAXXX----1A---8</AM>
 </tag>
 </m>
@@ -538,7 +550,10 @@
 <LM>w#w-lnd94103-046-p1s5w23</LM>
 </w.rf>
 <form>MAC</form>
-<tag lemma="MAC_:B_;K_,t_^(Vojenská_komise_pro_příměří_v_Koreji)" src="auto" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="MAC_:B_;K_,t_^(Vojenská_komise_pro_příměří_v_Koreji)" src="auto">NNFXX-----A---8</AM>
+<AM lemma="MAC-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd94103-046-p1s5w24">
 <src.rf>manual</src.rf>
@@ -628,7 +643,10 @@
 <LM>w#w-lnd94103-046-p1s6w6</LM>
 </w.rf>
 <form>KLDR</form>
-<tag lemma="KLDR_:B_;G_^(Korejská_lidově-demokratická_republika)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="KLDR_:B_;G_^(Korejská_lidově-demokratická_republika)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="KLDR_:B_;G_^(Korejská_lidově-demokratická_republika)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd94103-046-p1s6w7">
 <src.rf>manual</src.rf>

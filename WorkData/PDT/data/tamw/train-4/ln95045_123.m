@@ -175,7 +175,10 @@
 <LM>w#w-ln95045-123-p2s1Bw10</LM>
 </w.rf>
 <form>MIPIM</form>
-<tag lemma="MIPIM_:B_;m" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="MIPIM_:B_;m" src="orig">NNXXX-----A---8</AM>
+<AM lemma="MIPIM-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln95045-123-p2s1Bw11">
 <src.rf>manual</src.rf>
@@ -453,7 +456,10 @@
 <LM>w#w-ln95045-123-p3s1w4</LM>
 </w.rf>
 <form>MIPIM</form>
-<tag lemma="MIPIM_:B_;m" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="MIPIM_:B_;m" src="orig">NNXXX-----A---8</AM>
+<AM lemma="MIPIM-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln95045-123-p3s1w5">
 <src.rf>manual</src.rf>
@@ -567,7 +573,10 @@
 <LM>w#w-ln95045-123-p3s2w6</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-2" src="auto" selected="1">Dg-------2A----</tag>
+<tag>
+<AM lemma="hodně-2" src="auto">Dg-------2A----</AM>
+<AM lemma="hodně-3" src="manual" selected="1">Dg-------2A----</AM>
+</tag>
 </m>
 <m id="m-ln95045-123-p3s2w7">
 <src.rf>manual</src.rf>

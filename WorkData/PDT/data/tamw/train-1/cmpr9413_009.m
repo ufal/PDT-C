@@ -48,7 +48,10 @@
 <LM>w#w-cmpr9413-009-p3s1w2</LM>
 </w.rf>
 <form>Milionový</form>
-<tag lemma="miliónový" src="orig" selected="1">AAIS4----1A----</tag>
+<tag>
+<AM lemma="miliónový" src="orig">AAIS4----1A----</AM>
+<AM lemma="milionový_,s_^(^DD**miliónový)" src="manual" selected="1">AAIS4----1A----</AM>
+</tag>
 </m>
 <m id="m-cmpr9413-009-p3s1w3">
 <src.rf>manual</src.rf>
@@ -398,7 +401,10 @@
 <LM>w#w-cmpr9413-009-p3s4w3</LM>
 </w.rf>
 <form>milion</form>
-<tag lemma="milión`1000000" src="orig" selected="1">NNIS4-----A----</tag>
+<tag>
+<AM lemma="milión`1000000" src="orig">NNIS4-----A----</AM>
+<AM lemma="milion`1000000_,s_^(^DD**milión)" src="manual" selected="1">NNIS4-----A----</AM>
+</tag>
 </m>
 <m id="m-cmpr9413-009-p3s4w4">
 <src.rf>manual</src.rf>

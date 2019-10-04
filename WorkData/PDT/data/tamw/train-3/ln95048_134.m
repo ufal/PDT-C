@@ -119,7 +119,10 @@
 <LM>w#w-ln95048-134-p2s1Bw5</LM>
 </w.rf>
 <form>T</form>
-<tag lemma="T-0_:B_;Y" src="orig" selected="1">NNMXX-----A---8</tag>
+<tag>
+<AM lemma="T-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
+<AM lemma="T-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln95048-134-p2s1Bw6">
 <src.rf>manual</src.rf>
@@ -135,7 +138,10 @@
 <LM>w#w-ln95048-134-p2s1Bw7</LM>
 </w.rf>
 <form>G</form>
-<tag lemma="G-0_:B_;Y" src="orig" selected="1">NNMXX-----A---8</tag>
+<tag>
+<AM lemma="G-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
+<AM lemma="G-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln95048-134-p2s1Bw8">
 <src.rf>manual</src.rf>
@@ -703,7 +709,10 @@
 <LM>w#w-ln95048-134-p2s5w3</LM>
 </w.rf>
 <form>in</form>
-<tag lemma="in-1_,t_^(angl._v)" src="orig" selected="1">RR--X----------</tag>
+<tag>
+<AM lemma="in-1_,t_^(angl._v)" src="orig">RR--X----------</AM>
+<AM lemma="in-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln95048-134-p2s5w4">
 <src.rf>manual</src.rf>
@@ -711,7 +720,10 @@
 <LM>w#w-ln95048-134-p2s5w4</LM>
 </w.rf>
 <form>memoriam</form>
-<tag lemma="memoriam_,t" src="orig" selected="1">Db-------------</tag>
+<tag>
+<AM lemma="memoriam_,t" src="orig">Db-------------</AM>
+<AM lemma="memoriam-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln95048-134-p2s5w5">
 <src.rf>manual</src.rf>

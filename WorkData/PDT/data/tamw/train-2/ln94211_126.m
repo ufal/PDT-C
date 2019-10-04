@@ -70,9 +70,14 @@
 </w.rf>
 <form>ce</form>
 <tag>
-<AM lemma="ce-99_:B_;S" src="orig">NNXXX-----A---8</AM>
+<AM lemma="ce-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</AM>
 <AM lemma="ce-2_:B_,t_^(compass_error,_deklinač._a_deviační_odchylka)" src="auto" recommended="1">NNFXX-----A---8</AM>
 </tag>
+<comment>
+<LM type="Other">
+<text>ponechána původní "červená" analýza (autorská zkratka)</text>
+</LM>
+</comment>
 </m>
 <m id="m-ln94211-126-p2s1Aw4">
 <src.rf>manual</src.rf>
@@ -138,7 +143,11 @@
 <LM>w#w-ln94211-126-p2s1Bw6</LM>
 </w.rf>
 <form>sympozium</form>
-<tag lemma="sympózium" src="orig" selected="1">NNNS1-----A----</tag>
+<tag>
+<AM lemma="sympózium" src="orig">NNNS1-----A----</AM>
+<AM lemma="sympozium" src="manual">NNNS1-----A----</AM>
+<AM lemma="sympozium_,s_^(^DD**sympózium)" src="manual" selected="1">NNNS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94211-126-p2s1Bw7">
 <src.rf>manual</src.rf>
@@ -278,7 +287,7 @@
 <form>komponentů</form>
 <tag>
 <AM lemma="komponenta" src="orig">NNIP2-----A----</AM>
-<AM lemma="komponent" src="auto" recommended="1">NNIP2-----A----</AM>
+<AM lemma="komponent" src="auto" recommended="1" selected="1">NNIP2-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94211-126-p2s2w10">
@@ -417,7 +426,10 @@
 <LM>w#w-ln94211-126-p2s3w4</LM>
 </w.rf>
 <form>sympozia</form>
-<tag lemma="sympózium" src="orig" selected="1">NNNS2-----A----</tag>
+<tag>
+<AM lemma="sympózium" src="orig">NNNS2-----A----</AM>
+<AM lemma="sympozium_,s_^(^DD**sympózium)" src="manual" selected="1">NNNS2-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94211-126-p2s3w5">
 <src.rf>manual</src.rf>
@@ -433,7 +445,10 @@
 <LM>w#w-ln94211-126-p2s3w6</LM>
 </w.rf>
 <form>ČR</form>
-<tag lemma="ČR-1_:B_;G_^(Česká_republika)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94211-126-p2s3w7">
 <src.rf>manual</src.rf>

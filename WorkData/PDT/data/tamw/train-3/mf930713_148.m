@@ -59,7 +59,10 @@
 <LM>w#w-mf930713-148-p1s1w6</LM>
 </w.rf>
 <form>podepsán</form>
-<tag lemma="podepsat" src="orig" selected="1">VsYS---XX-AP---</tag>
+<tag>
+<AM lemma="podepsat" src="orig">VsYS---XX-AP---</AM>
+<AM lemma="podepsat_:W" src="manual" selected="1">VsYS---XX-AP---</AM>
+</tag>
 </m>
 </s>
 <s id="m-mf930713-148-p2s1A">
@@ -127,7 +130,10 @@
 <LM>w#w-mf930713-148-p2s1Bw6</LM>
 </w.rf>
 <form>podepsal</form>
-<tag lemma="podepsat" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag>
+<AM lemma="podepsat" src="orig">VpYS---XR-AA---</AM>
+<AM lemma="podepsat_:W" src="manual" selected="1">VpYS---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-mf930713-148-p2s1Bw7">
 <src.rf>manual</src.rf>
@@ -936,7 +942,10 @@
 <LM>w#w-mf930713-148-p3s3w20</LM>
 </w.rf>
 <form>milionu</form>
-<tag lemma="milión`1000000" src="orig" selected="1">NNIS2-----A----</tag>
+<tag>
+<AM lemma="milión`1000000" src="orig">NNIS2-----A----</AM>
+<AM lemma="milion`1000000_,s_^(^DD**milión)" src="manual" selected="1">NNIS2-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930713-148-p3s3w21">
 <src.rf>manual</src.rf>
@@ -1276,7 +1285,10 @@
 <LM>w#w-mf930713-148-p4s2w17</LM>
 </w.rf>
 <form>SSR</form>
-<tag lemma="SSR-1_:B_;G_^(Slovenská_socialistická_republika)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="SSR-1_:B_;G_^(Slovenská_socialistická_republika)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="SSR-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930713-148-p4s2w18">
 <src.rf>manual</src.rf>
@@ -1668,7 +1680,10 @@
 <LM>w#w-mf930713-148-p6s1w2</LM>
 </w.rf>
 <form>KBSE</form>
-<tag lemma="KBSE_:B_;K_;p" src="auto" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="KBSE_:B_;K_;p" src="auto">NNFXX-----A---8</AM>
+<AM lemma="KBSE-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930713-148-p6s1w3">
 <src.rf>manual</src.rf>
@@ -1774,7 +1789,7 @@
 <form>expertizu</form>
 <tag>
 <AM lemma="expertíza" src="orig">NNFS4-----A----</AM>
-<AM lemma="expertiza" src="auto" recommended="1">NNFS4-----A----</AM>
+<AM lemma="expertiza" src="auto" recommended="1" selected="1">NNFS4-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930713-148-p6s1w16">

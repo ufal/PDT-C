@@ -61,7 +61,10 @@
 <LM>w#w-cmpr9407-044-p3s1w5</LM>
 </w.rf>
 <form>intenzivní</form>
-<tag lemma="intenzívní" src="orig" selected="1">AAIS1----1A----</tag>
+<tag>
+<AM lemma="intenzívní" src="orig">AAIS1----1A----</AM>
+<AM lemma="intenzivní_,s_^(^DD**intenzívní)" src="manual" selected="1">AAIS1----1A----</AM>
+</tag>
 </m>
 <m id="m-cmpr9407-044-p3s1w6">
 <src.rf>manual</src.rf>

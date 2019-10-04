@@ -101,7 +101,10 @@
 <LM>w#w-mf930713-022-p2s1w10</LM>
 </w.rf>
 <form>Švéd</form>
-<tag lemma="Švédsko_:B_;G" src="orig" selected="1">NNNXX-----A---8</tag>
+<tag>
+<AM lemma="Švédsko_:B_;G" src="orig">NNNXX-----A---8</AM>
+<AM lemma="Švédsko_;G" src="manual" selected="1">NNNXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-mf930713-022-p2s1w11">
 <src.rf>manual</src.rf>
@@ -187,6 +190,7 @@
 <AM lemma="Rusedski_;S" src="orig">NNMS1-----A----</AM>
 <AM lemma="Rusedský_;S" src="auto" recommended="1">NNMS1-----A---1</AM>
 <AM lemma="Rusedský_;S" src="auto">NNMS5-----A---1</AM>
+<AM lemma="Rusedski_;S_,s_^(^DD**Rusedský)" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930713-022-p3s1w9">
@@ -203,7 +207,10 @@
 <LM>w#w-mf930713-022-p3s1w10</LM>
 </w.rf>
 <form>Kan</form>
-<tag lemma="Kanada_:B_;G" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="Kanada_:B_;G" src="orig">NNFXX-----A---8</AM>
+<AM lemma="Kanada_;G" src="manual" selected="1">NNFXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-mf930713-022-p3s1w11">
 <src.rf>manual</src.rf>
@@ -236,7 +243,7 @@
 </w.rf>
 <form>Frana</form>
 <tag>
-<AM lemma="Frana_;S" src="orig">NNMS1-----A----</AM>
+<AM lemma="Frana_;S" src="orig" selected="1">NNMS1-----A----</AM>
 <AM lemma="Fran_;S" src="auto" recommended="1">NNMS2-----A----</AM>
 <AM lemma="Fran_;S" src="auto">NNMS4-----A----</AM>
 <AM lemma="Frano_;S" src="auto">NNMS2-----A----</AM>
@@ -261,6 +268,7 @@
 <AM lemma="Argentina_:B_;G" src="orig">NNFXX-----A---8</AM>
 <AM lemma="Arga-2_;Y" src="auto">NNFP2-----A----</AM>
 <AM lemma="Argo-1_;K" src="auto" recommended="1">NNNP2-----A----</AM>
+<AM lemma="Argentina_;G" src="manual" selected="1">NNFXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-mf930713-022-p3s1w17">

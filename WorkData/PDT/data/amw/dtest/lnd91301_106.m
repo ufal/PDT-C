@@ -71,7 +71,11 @@
 <LM>w#w-lnd91301-106-p3s1w3</LM>
 </w.rf>
 <form>Francesco</form>
-<tag lemma="Francesco_;S" src="auto" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Francesco_;S" src="auto">NNMS1-----A----</AM>
+<AM lemma="Francesco_;Y" src="manual">NNMS1-----A----</AM>
+<AM lemma="Francesco_;Y_;S" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd91301-106-p3s1w4">
 <src.rf>manual</src.rf>
@@ -87,7 +91,11 @@
 <LM>w#w-lnd91301-106-p3s1w5</LM>
 </w.rf>
 <form>přijal</form>
-<tag lemma="přijmout" src="auto" selected="1">VpYS---XR-AA---</tag>
+<tag>
+<AM lemma="přijmout" src="auto">VpYS---XR-AA---</AM>
+<AM lemma="přijmout_:T" src="manual">VpYS---XR-AA---</AM>
+<AM lemma="přijmout_:W" src="manual" selected="1">VpYS---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-lnd91301-106-p3s1w6">
 <src.rf>manual</src.rf>
@@ -114,6 +122,7 @@
 <tag>
 <AM lemma="Quirinale_;m_,t" src="orig">NNNXX-----A----</AM>
 <AM lemma="Quirinal_;G" src="auto" recommended="1">NNIS5-----A----</AM>
+<AM lemma="Quirinale-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-lnd91301-106-p3s1w9">
@@ -133,6 +142,7 @@
 <tag>
 <AM lemma="vánoce" src="orig">NNFP6-----A----</AM>
 <AM lemma="Vánoce_,x" src="auto" recommended="1">NNFP6-----A----</AM>
+<AM lemma="vánoce_,i_^(^DS**Vánoce)" src="manual" selected="1">NNFP6-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd91301-106-p3s1w11">
@@ -303,7 +313,10 @@
 <LM>w#w-lnd91301-106-p3s2w6</LM>
 </w.rf>
 <form>civilu</form>
-<tag lemma="civil_^(nevoják)" src="auto" selected="1">NNMS6-----A---1</tag>
+<tag>
+<AM lemma="civil_^(nevoják)" src="auto">NNMS6-----A---1</AM>
+<AM lemma="civil_^(civilní_stav,_doba_mimo_voj._služby)" src="manual" selected="1">NNIS6-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd91301-106-p3s2w7">
 <src.rf>manual</src.rf>
@@ -361,7 +374,7 @@
 <form>vůbec</form>
 <tag>
 <AM lemma="vůbec" src="orig">Db-------------</AM>
-<AM lemma="vůbec" src="auto" recommended="1">TT-------------</AM>
+<AM lemma="vůbec" src="auto" recommended="1" selected="1">TT-------------</AM>
 </tag>
 </m>
 <m id="m-lnd91301-106-p3s2w15">
@@ -728,7 +741,10 @@
 <LM>w#w-lnd91301-106-p3s5w1</LM>
 </w.rf>
 <form>Ještě</form>
-<tag lemma="ještě-1" src="auto" selected="1">Db-------------</tag>
+<tag>
+<AM lemma="ještě-1" src="auto">Db-------------</AM>
+<AM lemma="ještě-2" src="manual" selected="1">TT-------------</AM>
+</tag>
 </m>
 <m id="m-lnd91301-106-p3s5w2">
 <src.rf>manual</src.rf>
@@ -787,6 +803,7 @@
 <tag>
 <AM lemma="Quirinale_;m_,t" src="orig">NNNXX-----A----</AM>
 <AM lemma="Quirinal_;G" src="auto" recommended="1">NNIS5-----A----</AM>
+<AM lemma="Quirinale-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-lnd91301-106-p3s5w9">

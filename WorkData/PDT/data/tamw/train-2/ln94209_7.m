@@ -589,7 +589,10 @@
 <LM>w#w-ln94209-7-p3s2w10</LM>
 </w.rf>
 <form>vzrostla</form>
-<tag lemma="vzrůst-1" src="auto" selected="1">VpQW---XR-AA---</tag>
+<tag>
+<AM lemma="vzrůst-1" src="auto">VpQW---XR-AA---</AM>
+<AM lemma="vzrůst-1_:T" src="manual" selected="1">VpQW---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-ln94209-7-p3s2w11">
 <src.rf>manual</src.rf>
@@ -727,7 +730,10 @@
 <LM>w#w-ln94209-7-p3s3w10</LM>
 </w.rf>
 <form>milionů</form>
-<tag lemma="milión`1000000" src="orig" selected="1">NNIP2-----A----</tag>
+<tag>
+<AM lemma="milión`1000000" src="orig">NNIP2-----A----</AM>
+<AM lemma="milion`1000000_,s" src="manual" selected="1">_^(^DD**milión)</AM>
+</tag>
 </m>
 <m id="m-ln94209-7-p3s3w11">
 <src.rf>manual</src.rf>
@@ -899,7 +905,10 @@
 <LM>w#w-ln94209-7-p4s2w4</LM>
 </w.rf>
 <form>mj</form>
-<tag lemma="mj-1_:B_^(mimo_jiné)" src="orig" selected="1">Db------------8</tag>
+<tag>
+<AM lemma="mj-1_:B_^(mimo_jiné)" src="orig">Db------------8</AM>
+<AM lemma="mj-1_:B_^(mimo_jiné)" src="manual" selected="1">Db-------------</AM>
+</tag>
 </m>
 <m id="m-ln94209-7-p4s2w5">
 <src.rf>manual</src.rf>
@@ -1077,7 +1086,10 @@
 <LM>w#w-ln94209-7-p4s3w6</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-2" src="auto" selected="1">Dg-------2A----</tag>
+<tag>
+<AM lemma="hodně-2" src="auto">Dg-------2A----</AM>
+<AM lemma="více_^(více_+_2._p.,_více_peněz)" src="manual" selected="1">Ca--4----------</AM>
+</tag>
 </m>
 <m id="m-ln94209-7-p4s3w7">
 <src.rf>manual</src.rf>
@@ -1465,7 +1477,10 @@
 <LM>w#w-ln94209-7-p5s2w21</LM>
 </w.rf>
 <form>Z</form>
-<tag lemma="Z-0_:B_;Y" src="orig" selected="1">NNMXX-----A---8</tag>
+<tag>
+<AM lemma="Z-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
+<AM lemma="Z-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94209-7-p5s2w22">
 <src.rf>manual</src.rf>
@@ -1653,7 +1668,7 @@
 <form>chemička</form>
 <tag>
 <AM lemma="chemička_^(továrna)" src="orig">NNFS1-----A----</AM>
-<AM lemma="chemička-1_^(továrna)" src="auto" recommended="1">NNFS1-----A----</AM>
+<AM lemma="chemička-1_^(továrna)" src="auto" recommended="1" selected="1">NNFS1-----A----</AM>
 <AM lemma="chemička-2_^(^FM*5k)" src="auto">NNFS1-----A----</AM>
 </tag>
 </m>

@@ -239,7 +239,10 @@
 <LM>w#w-ln95041-015-p2s1Bw17</LM>
 </w.rf>
 <form>skinheads</form>
-<tag lemma="skinheads_,t" src="auto" selected="1">NNNXX-----A----</tag>
+<tag>
+<AM lemma="skinheads_,t" src="auto">NNNXX-----A----</AM>
+<AM lemma="skinheads-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln95041-015-p2s1Bw18">
 <src.rf>manual</src.rf>
@@ -629,7 +632,7 @@
 <form>přičemž</form>
 <tag>
 <AM lemma="přičemž" src="orig">J,-------------</AM>
-<AM lemma="přičemž" src="auto" recommended="1">Db-------------</AM>
+<AM lemma="přičemž" src="auto" recommended="1" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m-ln95041-015-p4s1w16">
@@ -1723,7 +1726,7 @@
 <tag>
 <AM lemma="tedy" src="orig">Db-------------</AM>
 <AM lemma="tedy-1" src="auto">TT-------------</AM>
-<AM lemma="tedy-2" src="auto" recommended="1">J^-------------</AM>
+<AM lemma="tedy-2" src="auto" recommended="1" selected="1">J^-------------</AM>
 </tag>
 </m>
 <m id="m-ln95041-015-p5s3w4">

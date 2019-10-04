@@ -529,7 +529,10 @@
 <LM>w#w-vesm9212-040-p2s3w7</LM>
 </w.rf>
 <form>C</form>
-<tag lemma="C-0_:B_;Y" src="orig" selected="1">NNMXX-----A---8</tag>
+<tag>
+<AM lemma="C-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
+<AM lemma="C-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-vesm9212-040-p2s3w8">
 <src.rf>manual</src.rf>
@@ -545,7 +548,10 @@
 <LM>w#w-vesm9212-040-p2s3w9</LM>
 </w.rf>
 <form>G</form>
-<tag lemma="G-0_:B_;Y" src="orig" selected="1">NNMXX-----A---8</tag>
+<tag>
+<AM lemma="G-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
+<AM lemma="G-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-vesm9212-040-p2s3w10">
 <src.rf>manual</src.rf>
@@ -715,7 +721,10 @@
 <LM>w#w-vesm9212-040-p2s4w11</LM>
 </w.rf>
 <form>r</form>
-<tag lemma="rok_:B" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="rok_:B" src="orig">NNIXX-----A---8</AM>
+<AM lemma="rok" src="manual" selected="1">NNIXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-vesm9212-040-p2s4w12">
 <src.rf>manual</src.rf>
@@ -853,7 +862,10 @@
 <LM>w#w-vesm9212-040-p2s5w14</LM>
 </w.rf>
 <form>r</form>
-<tag lemma="rok_:B" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="rok_:B" src="orig">NNIXX-----A---8</AM>
+<AM lemma="rok" src="manual" selected="1">NNIXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-vesm9212-040-p2s5w15">
 <src.rf>manual</src.rf>
@@ -1171,7 +1183,10 @@
 <LM>w#w-vesm9212-040-p3s1w8</LM>
 </w.rf>
 <form>r</form>
-<tag lemma="rok_:B" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="rok_:B" src="orig">NNIXX-----A---8</AM>
+<AM lemma="rok" src="manual" selected="1">NNIXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-vesm9212-040-p3s1w9">
 <src.rf>manual</src.rf>
@@ -1211,7 +1226,10 @@
 <LM>w#w-vesm9212-040-p3s1w13</LM>
 </w.rf>
 <form>g</form>
-<tag lemma="g-1`gram_:B" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="g-1`gram_:B" src="orig">NNIXX-----A---8</AM>
+<AM lemma="gram" src="manual" selected="1">NNIXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-vesm9212-040-p3s1w14">
 <src.rf>manual</src.rf>
@@ -1236,6 +1254,7 @@
 <AM lemma="mimo-1_:B" src="auto">RR--4---------8</AM>
 <AM lemma="minuta_:B" src="auto">NNFXX-----A---8</AM>
 <AM lemma="město_:B" src="auto">NNNXX-----A---8</AM>
+<AM lemma="metr" src="manual" selected="1">NNIXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-vesm9212-040-p3s1w16">
@@ -1268,7 +1287,10 @@
 <LM>w#w-vesm9212-040-p3s1w19</LM>
 </w.rf>
 <form>víme</form>
-<tag lemma="vědět" src="orig" selected="1">VB-P---1P-AA---</tag>
+<tag>
+<AM lemma="vědět" src="orig">VB-P---1P-AA---</AM>
+<AM lemma="vědět_:T" src="manual" selected="1">VB-P---1P-AA---</AM>
+</tag>
 </m>
 <m id="m-vesm9212-040-p3s1w20">
 <src.rf>manual</src.rf>
@@ -1292,7 +1314,10 @@
 <LM>w#w-vesm9212-040-p3s1w22</LM>
 </w.rf>
 <form>r</form>
-<tag lemma="rok_:B" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="rok_:B" src="orig">NNIXX-----A---8</AM>
+<AM lemma="rok" src="manual" selected="1">NNIXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-vesm9212-040-p3s1w23">
 <src.rf>manual</src.rf>
@@ -1552,7 +1577,10 @@
 <LM>w#w-vesm9212-040-p3s3w1</LM>
 </w.rf>
 <form>Nejvíc</form>
-<tag lemma="hodně-2" src="auto" selected="1">Dg-------3A---1</tag>
+<tag>
+<AM lemma="hodně-2" src="auto">Dg-------3A---1</AM>
+<AM lemma="nejvíce_^(nejvíce_+_2._p.,_nejvíce_peněz)" src="manual" selected="1">Ca--4---------1</AM>
+</tag>
 </m>
 <m id="m-vesm9212-040-p3s3w2">
 <src.rf>manual</src.rf>
@@ -1964,7 +1992,10 @@
 <LM>w#w-vesm9212-040-p4s1w20</LM>
 </w.rf>
 <form>kryje</form>
-<tag lemma="krýt" src="auto" selected="1">VB-S---3P-AA---</tag>
+<tag>
+<AM lemma="krýt" src="auto">VB-S---3P-AA---</AM>
+<AM lemma="krýt_:T" src="manual" selected="1">VB-S---3P-AA---</AM>
+</tag>
 </m>
 <m id="m-vesm9212-040-p4s1w21">
 <src.rf>manual</src.rf>
@@ -2129,7 +2160,7 @@
 <tag>
 <AM lemma="přece" src="orig">Db------------1</AM>
 <AM lemma="přece-1" src="auto" recommended="1">J^------------1</AM>
-<AM lemma="přece-2" src="auto">TT------------1</AM>
+<AM lemma="přece-2" src="auto" selected="1">TT------------1</AM>
 </tag>
 </m>
 <m id="m-vesm9212-040-p5s1w10">
@@ -2260,7 +2291,10 @@
 <LM>w#w-vesm9212-040-p6s1w2</LM>
 </w.rf>
 <form>A</form>
-<tag lemma="A-0_:B_;Y" src="orig" selected="1">NNMXX-----A---8</tag>
+<tag>
+<AM lemma="A-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
+<AM lemma="A-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-vesm9212-040-p6s1w3">
 <src.rf>manual</src.rf>
@@ -2292,7 +2326,10 @@
 <LM>w#w-vesm9212-040-p6s1w6</LM>
 </w.rf>
 <form>Saharan</form>
-<tag lemma="saharan_,t" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="saharan_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="Saharan-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-vesm9212-040-p6s1w7">
 <src.rf>manual</src.rf>
@@ -2300,7 +2337,10 @@
 <LM>w#w-vesm9212-040-p6s1w7</LM>
 </w.rf>
 <form>Dust</form>
-<tag lemma="dust_,t" src="orig" selected="1">NNXXX-----A----</tag>
+<tag>
+<AM lemma="dust_,t" src="orig">NNXXX-----A----</AM>
+<AM lemma="Dust-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-vesm9212-040-p6s1w8">
 <src.rf>manual</src.rf>
@@ -2316,7 +2356,10 @@
 <LM>w#w-vesm9212-040-p6s1w9</LM>
 </w.rf>
 <form>Loess</form>
-<tag lemma="loess_,t" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="loess_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="Loess-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-vesm9212-040-p6s1w10">
 <src.rf>manual</src.rf>
@@ -2327,6 +2370,8 @@
 <tag>
 <AM lemma="letter_,t" src="orig">NNIXX-----A----</AM>
 <AM lemma="Letter_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="letter_,t" src="manual">NNXXX-----A----</AM>
+<AM lemma="Letter-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-vesm9212-040-p6s1w11">
@@ -2346,6 +2391,8 @@
 <tag>
 <AM lemma="April_,t" src="orig">NNXXX-----A----</AM>
 <AM lemma="April_;Y" src="auto" recommended="1">NNFXX-----A----</AM>
+<AM lemma="april_,t" src="manual">NNXXX-----A----</AM>
+<AM lemma="April-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-vesm9212-040-p6s1w13">

@@ -607,7 +607,7 @@
 <AM lemma="Visla_;G" src="auto">NNFP1-----A----</AM>
 <AM lemma="Visla_;G" src="auto">NNFP4-----A----</AM>
 <AM lemma="Visla_;G" src="auto">NNFP5-----A----</AM>
-<AM lemma="Visla_;G" src="auto" recommended="1">NNFS2-----A----</AM>
+<AM lemma="Visla_;G" src="auto" recommended="1" selected="1">NNFS2-----A----</AM>
 <AM lemma="visnout_:T_,s" src="auto">VpTP---XR-AA--1</AM>
 </tag>
 </m>
@@ -1017,7 +1017,7 @@
 <form>vůbec</form>
 <tag>
 <AM lemma="vůbec" src="orig">Db-------------</AM>
-<AM lemma="vůbec" src="auto" recommended="1">TT-------------</AM>
+<AM lemma="vůbec" src="auto" recommended="1" selected="1">TT-------------</AM>
 </tag>
 </m>
 <m id="m-ln94204-142-p2s5w11">
@@ -1692,7 +1692,10 @@
 <LM>w#w-ln94204-142-p2s9Aw21</LM>
 </w.rf>
 <form>Gazety</form>
-<tag lemma="Gazeta_;R_,t" src="orig" selected="1">NNFS2-----A----</tag>
+<tag>
+<AM lemma="Gazeta_;R_,t" src="orig">NNFS2-----A----</AM>
+<AM lemma="Gazeta_;R" src="manual" selected="1">NNFS2-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94204-142-p2s9Aw22">
 <src.rf>manual</src.rf>
@@ -1700,7 +1703,10 @@
 <LM>w#w-ln94204-142-p2s9Aw22</LM>
 </w.rf>
 <form>wyborczej</form>
-<tag lemma="wyborcza_;R_,t_^(pol._Gazeta_wyborcza)" src="orig" selected="1">AAFS2----1A----</tag>
+<tag>
+<AM lemma="wyborcza_;R_,t_^(pol._Gazeta_wyborcza)" src="orig">AAFS2----1A----</AM>
+<AM lemma="wyborczej-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94204-142-p2s9Aw23">
 <src.rf>manual</src.rf>
@@ -1824,7 +1830,10 @@
 <LM>w#w-ln94204-142-p2s10Aw4</LM>
 </w.rf>
 <form>Gazety</form>
-<tag lemma="Gazeta_;R_,t" src="orig" selected="1">NNFS2-----A----</tag>
+<tag>
+<AM lemma="Gazeta_;R_,t" src="orig">NNFS2-----A----</AM>
+<AM lemma="Gazeta_;R" src="manual" selected="1">NNFS2-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94204-142-p2s10Aw5">
 <src.rf>manual</src.rf>
@@ -1832,7 +1841,10 @@
 <LM>w#w-ln94204-142-p2s10Aw5</LM>
 </w.rf>
 <form>wyborczej</form>
-<tag lemma="wyborcza_;R_,t_^(pol._Gazeta_wyborcza)" src="orig" selected="1">AAFS2----1A----</tag>
+<tag>
+<AM lemma="wyborcza_;R_,t_^(pol._Gazeta_wyborcza)" src="orig">AAFS2----1A----</AM>
+<AM lemma="wyborczej-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94204-142-p2s10Aw6">
 <src.rf>manual</src.rf>
@@ -2058,7 +2070,10 @@
 <LM>w#w-ln94204-142-p2s10Bw14</LM>
 </w.rf>
 <form>Mariana</form>
-<tag lemma="Marián_;Y_,x" src="orig" selected="1">NNMS2-----A----</tag>
+<tag>
+<AM lemma="Marián_;Y_,x" src="orig">NNMS2-----A----</AM>
+<AM lemma="Marian_;Y" src="manual" selected="1">NNMS2-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94204-142-p2s10Bw15">
 <src.rf>manual</src.rf>
@@ -2066,7 +2081,10 @@
 <LM>w#w-ln94204-142-p2s10Bw15</LM>
 </w.rf>
 <form>Zacharského</form>
-<tag lemma="Zacharský_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag>
+<AM lemma="Zacharský_;S" src="orig">NNMS2-----A----</AM>
+<AM lemma="Zacharski_;S" src="manual" selected="1">NNMS2-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94204-142-p2s10Bw16">
 <src.rf>manual</src.rf>
@@ -2108,7 +2126,11 @@
 <LM>w#w-ln94204-142-p2s11w1</LM>
 </w.rf>
 <form>Zacharski</form>
-<tag lemma="Zacharský_;S" src="orig" selected="1">NNMS1-----A---1</tag>
+<tag>
+<AM lemma="Zacharský_;S" src="orig">NNMS1-----A---1</AM>
+<AM lemma="Zacharski_;S" src="manual">NNMS1-----A---1</AM>
+<AM lemma="Zacharski_;S" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94204-142-p2s11w2">
 <src.rf>manual</src.rf>
@@ -2172,7 +2194,10 @@
 <LM>w#w-ln94204-142-p2s11w9</LM>
 </w.rf>
 <form>komunismu</form>
-<tag lemma="komunismus" src="orig" selected="1">NNIS2-----A----</tag>
+<tag>
+<AM lemma="komunismus" src="orig">NNIS2-----A----</AM>
+<AM lemma="komunismus_,s_^(^DD**komunizmus)" src="manual" selected="1">NNIS2-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94204-142-p2s11w10">
 <src.rf>manual</src.rf>
@@ -2222,7 +2247,10 @@
 <LM>w#w-ln94204-142-p2s12w5</LM>
 </w.rf>
 <form>mj</form>
-<tag lemma="mj-1_:B_^(mimo_jiné)" src="orig" selected="1">Db------------8</tag>
+<tag>
+<AM lemma="mj-1_:B_^(mimo_jiné)" src="orig">Db------------8</AM>
+<AM lemma="mj-1_:B_^(mimo_jiné)" src="manual" selected="1">Db-------------</AM>
+</tag>
 </m>
 <m id="m-ln94204-142-p2s12w6">
 <src.rf>manual</src.rf>
@@ -2302,7 +2330,10 @@
 <LM>w#w-ln94204-142-p2s12w15</LM>
 </w.rf>
 <form>F</form>
-<tag lemma="f-3_^(označení_pomocí_písmene)" src="orig" selected="1">NNNXX-----A----</tag>
+<tag>
+<AM lemma="f-3_^(označení_pomocí_písmene)" src="orig">NNNXX-----A----</AM>
+<AM lemma="F-33_^(označení_pomocí_písmene)" src="manual" selected="1">NNNXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94204-142-p2s12w16">
 <src.rf>manual</src.rf>
@@ -2358,7 +2389,10 @@
 <LM>w#w-ln94204-142-p2s12w22</LM>
 </w.rf>
 <form>Stealth</form>
-<tag lemma="Stealth_;K_^(letoun)" src="orig" selected="1">NNIXX-----A----</tag>
+<tag>
+<AM lemma="Stealth_;K_^(letoun)" src="orig">NNIXX-----A----</AM>
+<AM lemma="Stealth-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94204-142-p2s12w23">
 <src.rf>manual</src.rf>
@@ -2387,6 +2421,7 @@
 <tag>
 <AM lemma="USA_;G" src="orig">NNIPX-----A----</AM>
 <AM lemma="USA_:B_;K_,t_^(United_States_of_America)" src="auto" recommended="1">NNIPX-----A---8</AM>
+<AM lemma="USA_:B_;K_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94204-142-p2s13w3">
@@ -2547,7 +2582,10 @@
 <LM>w#w-ln94204-142-p2s13w22</LM>
 </w.rf>
 <form>špiony</form>
-<tag lemma="špion" src="orig" selected="1">NNMP4-----A----</tag>
+<tag>
+<AM lemma="špion" src="orig">NNMP4-----A----</AM>
+<AM lemma="špion_,s_^(^DD**špión)" src="manual" selected="1">NNMP4-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94204-142-p2s13w23">
 <src.rf>manual</src.rf>
@@ -2637,7 +2675,10 @@
 <LM>w#w-ln94204-142-p2s14w10</LM>
 </w.rf>
 <form>Zacharského</form>
-<tag lemma="Zacharský_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag>
+<AM lemma="Zacharský_;S" src="orig">NNMS2-----A----</AM>
+<AM lemma="Zacharski_;S" src="manual" selected="1">NNMS2-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94204-142-p2s14w11">
 <src.rf>manual</src.rf>
@@ -2685,7 +2726,10 @@
 <LM>w#w-ln94204-142-p2s14w16</LM>
 </w.rf>
 <form>NATO</form>
-<tag lemma="NATO_:B_;K_^(North_Atlantic_Treaty_Organization)" src="auto" selected="1">NNNXX-----A---8</tag>
+<tag>
+<AM lemma="NATO_:B_;K_^(North_Atlantic_Treaty_Organization)" src="auto">NNNXX-----A---8</AM>
+<AM lemma="NATO_:B_;K_^(North_Atlantic_Treaty_Organization)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94204-142-p2s14w17">
 <src.rf>manual</src.rf>
@@ -2735,7 +2779,10 @@
 <LM>w#w-ln94204-142-p2s15w5</LM>
 </w.rf>
 <form>Lech</form>
-<tag lemma="Lech_;Y_,t" src="auto" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Lech_;Y_,t" src="auto">NNMS1-----A----</AM>
+<AM lemma="Lech_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94204-142-p2s15w6">
 <src.rf>manual</src.rf>
@@ -2881,7 +2928,10 @@
 <LM>w#w-ln94204-142-p2s16Aw5</LM>
 </w.rf>
 <form>Zacharski</form>
-<tag lemma="Zacharský_;S" src="orig" selected="1">NNMS1-----A---1</tag>
+<tag>
+<AM lemma="Zacharský_;S" src="orig">NNMS1-----A---1</AM>
+<AM lemma="Zacharski_;S" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94204-142-p2s16Aw6">
 <src.rf>manual</src.rf>
@@ -2987,7 +3037,10 @@
 <LM>w#w-ln94204-142-p2s16Bw10</LM>
 </w.rf>
 <form>komunismu</form>
-<tag lemma="komunismus" src="orig" selected="1">NNIS2-----A----</tag>
+<tag>
+<AM lemma="komunismus" src="orig">NNIS2-----A----</AM>
+<AM lemma="komunismus_,s_^(^DD**komunizmus)" src="manual" selected="1">NNIS2-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94204-142-p2s16Bw11">
 <src.rf>manual</src.rf>
@@ -3123,7 +3176,10 @@
 <LM>w#w-ln94204-142-p2s16Bw27</LM>
 </w.rf>
 <form>Jerzyho</form>
-<tag lemma="Jerzy_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag>
+<AM lemma="Jerzy_;S" src="orig">NNMS2-----A----</AM>
+<AM lemma="Jerzy_;S_;Y" src="manual" selected="1">NNMS2-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94204-142-p2s16Bw28">
 <src.rf>manual</src.rf>

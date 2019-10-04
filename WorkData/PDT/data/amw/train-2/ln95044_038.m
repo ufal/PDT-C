@@ -204,6 +204,7 @@
 <AM lemma="B-9_:B_;S" src="auto">NNXXX-----A---8</AM>
 <AM lemma="b-3_^(označení_pomocí_písmene)" src="auto" recommended="1">NNNXX-----A----</AM>
 <AM lemma="b-8_:B_^(ost._zkratka)" src="auto">XX------------8</AM>
+<AM lemma="B-33_^(označení_pomocí_písmene)" src="manual" selected="1">NNNXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95044-038-p2s1Bw19">
@@ -255,6 +256,7 @@
 <tag>
 <AM lemma="PF_:B_;K" src="orig">NNFXX-----A---8</AM>
 <AM lemma="PF_:B" src="auto" recommended="1">NNXXX-----A---8</AM>
+<AM lemma="PF-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95044-038-p2s1Bw25">
@@ -263,7 +265,10 @@
 <LM>w#w-ln95044-038-p2s1Bw25</LM>
 </w.rf>
 <form>ZČU</form>
-<tag lemma="ZČU-1_:B_;K_^(Západočeská_univerzita)" src="orig" selected="1">NNFXX-----A----</tag>
+<tag>
+<AM lemma="ZČU-1_:B_;K_^(Západočeská_univerzita)" src="orig">NNFXX-----A----</AM>
+<AM lemma="ZČU-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95044-038-p2s1Bw26">
 <src.rf>manual</src.rf>
@@ -319,7 +324,10 @@
 <LM>w#w-ln95044-038-p2s1Bw32</LM>
 </w.rf>
 <form>domácích</form>
-<tag lemma="domácí-1" src="auto" selected="1">AAMP2----1A----</tag>
+<tag>
+<AM lemma="domácí-1" src="auto">AAMP2----1A----</AM>
+<AM lemma="domácí-2" src="manual" selected="1">NNMP2-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95044-038-p2s1Bw33">
 <src.rf>manual</src.rf>

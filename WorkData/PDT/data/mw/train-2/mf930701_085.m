@@ -278,7 +278,7 @@
 </w.rf>
 <form>Kamenité</form>
 <tag>
-<AM lemma="Kamenitá_;G" src="orig">NNFS2-----A----</AM>
+<AM lemma="Kamenitá_;G" src="orig" selected="1">NNFS2-----A----</AM>
 <AM lemma="kamenitý" src="auto">AAFP1----1A----</AM>
 <AM lemma="kamenitý" src="auto">AAFP4----1A----</AM>
 <AM lemma="kamenitý" src="auto">AAFP5----1A----</AM>
@@ -335,7 +335,10 @@
 <LM>w#w-mf930701-085-p2s1w28</LM>
 </w.rf>
 <form>Dobrou</form>
-<tag lemma="dobrá-1_^(známka_ve_škole:_3)" src="auto" selected="1">NNFS7-----A----</tag>
+<tag>
+<AM lemma="dobrá-1_^(známka_ve_škole:_3)" src="auto">NNFS7-----A----</AM>
+<AM lemma="Dobrá-2_;G" src="manual" selected="1">NNFS7-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930701-085-p2s1w29">
 <src.rf>manual</src.rf>
@@ -920,7 +923,7 @@
 </w.rf>
 <form>Kamenité</form>
 <tag>
-<AM lemma="Kamenitá_;G" src="orig">NNFS2-----A----</AM>
+<AM lemma="Kamenitá_;G" src="orig" selected="1">NNFS2-----A----</AM>
 <AM lemma="kamenitý" src="auto">AAFP1----1A----</AM>
 <AM lemma="kamenitý" src="auto">AAFP4----1A----</AM>
 <AM lemma="kamenitý" src="auto">AAFP5----1A----</AM>
@@ -1043,7 +1046,10 @@
 <LM>w#w-mf930701-085-p3s3w10</LM>
 </w.rf>
 <form>Gigant</form>
-<tag lemma="gigant" src="orig" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="gigant" src="orig">NNIS1-----A----</AM>
+<AM lemma="Gigant-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-mf930701-085-p3s3w11">
 <src.rf>manual</src.rf>
@@ -1051,7 +1057,10 @@
 <LM>w#w-mf930701-085-p3s3w11</LM>
 </w.rf>
 <form>rock</form>
-<tag lemma="rock-1" src="orig" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="rock-1" src="orig">NNIS1-----A----</AM>
+<AM lemma="rock-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-mf930701-085-p3s3w12">
 <src.rf>manual</src.rf>
@@ -1139,6 +1148,7 @@
 <AM lemma="Frontier_;K" src="orig">NNIS1-----A----</AM>
 <AM lemma="frontier_,t" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="frontier_,t" src="auto">NNIS4-----A----</AM>
+<AM lemma="Frontier-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-mf930701-085-p3s5w7">
@@ -1159,6 +1169,7 @@
 <AM lemma="Bi_:B_;K" src="orig">AAXXX----1A----</AM>
 <AM lemma="Bi_:B" src="auto" recommended="1">NNXXX-----A---8</AM>
 <AM lemma="bismut_:B_;H" src="auto">NNIXX-----A---8</AM>
+<AM lemma="Bi-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-mf930701-085-p3s5w9">
@@ -1167,7 +1178,10 @@
 <LM>w#w-mf930701-085-p3s5w9</LM>
 </w.rf>
 <form>Metal</form>
-<tag lemma="metal" src="orig" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="metal" src="orig">NNIS1-----A----</AM>
+<AM lemma="Metal-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-mf930701-085-p3s5w10">
 <src.rf>manual</src.rf>
@@ -1183,7 +1197,10 @@
 <LM>w#w-mf930701-085-p3s5w11</LM>
 </w.rf>
 <form>Monster</form>
-<tag lemma="monstrum" src="orig" selected="1">NNNP2-----A----</tag>
+<tag>
+<AM lemma="monstrum" src="orig">NNNP2-----A----</AM>
+<AM lemma="Monster-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-mf930701-085-p3s5w12">
 <src.rf>manual</src.rf>
@@ -1277,6 +1294,8 @@
 <AM lemma="orgasmus" src="orig">NNIS1-----A----</AM>
 <AM lemma="orgazmus" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="orgazmus" src="auto">NNIS4-----A----</AM>
+<AM lemma=" orgasmus_,s_^(^DD**orgazmus)" src="manual">NNIS1-----A----</AM>
+<AM lemma="orgasmus_,s_^(^DD**orgazmus)" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930701-085-p3s6w11">
@@ -1349,7 +1368,10 @@
 <LM>w#w-mf930701-085-p3s6w19</LM>
 </w.rf>
 <form>Milion</form>
-<tag lemma="milión`1000000" src="orig" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="milión`1000000" src="orig">NNIS1-----A----</AM>
+<AM lemma="milion`1000000_,s_^(^DD**milión)" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930701-085-p3s6w20">
 <src.rf>manual</src.rf>

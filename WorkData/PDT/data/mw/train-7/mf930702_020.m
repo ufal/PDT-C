@@ -109,7 +109,10 @@
 <LM>w#w-mf930702-020-p2s1w7</LM>
 </w.rf>
 <form>Bundesbank</form>
-<tag lemma="Bundesbanka" src="orig" selected="1">NNFP2-----A----</tag>
+<tag>
+<AM lemma="Bundesbanka" src="orig">NNFP2-----A----</AM>
+<AM lemma="Bundesbank-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-mf930702-020-p2s1w8">
 <src.rf>manual</src.rf>

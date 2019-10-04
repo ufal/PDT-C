@@ -19,7 +19,10 @@
 <LM>w#w-lnd92252-019-p1s1w1</LM>
 </w.rf>
 <form>M</form>
-<tag lemma="M-0_:B_;Y" src="orig" selected="1">NNMXX-----A---8</tag>
+<tag>
+<AM lemma="M-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
+<AM lemma="M-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd92252-019-p1s1w2">
 <src.rf>manual</src.rf>
@@ -77,7 +80,10 @@
 <LM>w#w-lnd92252-019-p1s2w6</LM>
 </w.rf>
 <form>SR</form>
-<tag lemma="SR-1_:B_;G_^(Slovenská_republika)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="SR-1_:B_;G_^(Slovenská_republika)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="SR-1_:B_;G_^(Slovenská_republika)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 </s>
 <s id="m-lnd92252-019-p2s1">
@@ -227,7 +233,10 @@
 <LM>w#w-lnd92252-019-p3s2w11</LM>
 </w.rf>
 <form>Együttélés</form>
-<tag lemma="Együttélés_;K_;p_,t" src="auto" selected="1">NNNXX-----A----</tag>
+<tag>
+<AM lemma="Együttélés_;K_;p_,t" src="auto">NNNXX-----A----</AM>
+<AM lemma="Együttélés_;K" src="manual" selected="1">NNNXX-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92252-019-p3s2w12">
 <src.rf>manual</src.rf>
@@ -235,7 +244,10 @@
 <LM>w#w-lnd92252-019-p3s2w12</LM>
 </w.rf>
 <form>M</form>
-<tag lemma="M-0_:B_;Y" src="orig" selected="1">NNMXX-----A---8</tag>
+<tag>
+<AM lemma="M-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
+<AM lemma="M-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd92252-019-p3s2w13">
 <src.rf>manual</src.rf>
@@ -365,7 +377,10 @@
 <LM>w#w-lnd92252-019-p3s3w5</LM>
 </w.rf>
 <form>M</form>
-<tag lemma="M-0_:B_;Y" src="orig" selected="1">NNMXX-----A---8</tag>
+<tag>
+<AM lemma="M-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
+<AM lemma="M-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd92252-019-p3s3w6">
 <src.rf>manual</src.rf>

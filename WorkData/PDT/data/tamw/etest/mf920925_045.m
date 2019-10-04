@@ -127,7 +127,10 @@
 <LM>w#w-mf920925-045-p2s2w3</LM>
 </w.rf>
 <form>USK</form>
-<tag lemma="USK-1_:B_^(univerzitní_sportovní_klub)" src="auto" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="USK-1_:B_^(univerzitní_sportovní_klub)" src="auto">NNIXX-----A---8</AM>
+<AM lemma="USK-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-mf920925-045-p2s2w4">
 <src.rf>manual</src.rf>
@@ -469,7 +472,7 @@
 <form>cm</form>
 <tag>
 <AM lemma="cm-1`centimetr_:B" src="orig">NNIXX-----A---8</AM>
-<AM lemma="centimetr_:B" src="auto" recommended="1">NNIXX-----A---8</AM>
+<AM lemma="centimetr_:B" src="auto" recommended="1" selected="1">NNIXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-mf920925-045-p2s4w13">
@@ -520,7 +523,7 @@
 <form>cm</form>
 <tag>
 <AM lemma="cm-1`centimetr_:B" src="orig">NNIXX-----A---8</AM>
-<AM lemma="centimetr_:B" src="auto" recommended="1">NNIXX-----A---8</AM>
+<AM lemma="centimetr_:B" src="auto" recommended="1" selected="1">NNIXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-mf920925-045-p2s4w19">
@@ -565,6 +568,8 @@
 <AM lemma="RTI-3_;K_,t_^(sport._klub_RTI_Minsk)" src="orig">NNXXX-----A---8</AM>
 <AM lemma="RTI-1_:B_;K_,t_^(Round_Table_International)" src="auto" recommended="1">NNXXX-----A---8</AM>
 <AM lemma="RTI-2_:B_;K_,t_^(Rundfunktechnisches_Institut)" src="auto">NNXXX-----A---8</AM>
+<AM lemma="RTI-3_:B" src="manual">NNXXX-----A---8</AM>
+<AM lemma="RTI-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-mf920925-045-p2s4w24">
@@ -777,7 +782,10 @@
 <LM>w#w-mf920925-045-p2s6w1</LM>
 </w.rf>
 <form>NH</form>
-<tag lemma="NH_:B_;K" src="auto" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="NH_:B_;K" src="auto">NNXXX-----A---8</AM>
+<AM lemma="NH-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-mf920925-045-p2s6w2">
 <src.rf>manual</src.rf>
@@ -1024,7 +1032,7 @@
 <tag>
 <AM lemma="tady" src="orig">Db------------1</AM>
 <AM lemma="ten" src="auto" recommended="1">PDFS4----------</AM>
-<AM lemma="tu" src="auto">Db-------------</AM>
+<AM lemma="tu" src="auto" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m-mf920925-045-p2s8w7">
@@ -1105,7 +1113,10 @@
 <LM>w#w-mf920925-045-p2s8w16</LM>
 </w.rf>
 <form>Petr</form>
-<tag lemma="Petr_;Y" src="orig" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Petr_;Y" src="orig">NNMS1-----A----</AM>
+<AM lemma="Petr_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920925-045-p2s8w17">
 <src.rf>manual</src.rf>
@@ -1219,7 +1230,10 @@
 <LM>w#w-mf920925-045-p2s9w9</LM>
 </w.rf>
 <form>Petr</form>
-<tag lemma="Petr_;Y" src="orig" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Petr_;Y" src="orig">NNMS1-----A----</AM>
+<AM lemma="Petr_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920925-045-p2s9w10">
 <src.rf>manual</src.rf>
@@ -1296,6 +1310,7 @@
 <tag>
 <AM lemma="BC_:B_;K" src="orig">NNIXX-----A---8</AM>
 <AM lemma="BC_:B" src="auto" recommended="1">NNXXX-----A---8</AM>
+<AM lemma="BC-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-mf920925-045-p2s10w9">
@@ -1328,7 +1343,10 @@
 <LM>w#w-mf920925-045-p2s10w12</LM>
 </w.rf>
 <form>BVC</form>
-<tag lemma="BVC_:B_;K" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="BVC_:B_;K" src="orig">NNIXX-----A---8</AM>
+<AM lemma="BVC-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-mf920925-045-p2s10w13">
 <src.rf>manual</src.rf>
@@ -1490,7 +1508,10 @@
 <LM>w#w-mf920925-045-p2s11w14</LM>
 </w.rf>
 <form>ESSEX</form>
-<tag lemma="Essex-1_;G" src="auto" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="Essex-1_;G" src="auto">NNIS1-----A----</AM>
+<AM lemma="Essex-1_;G_;K" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920925-045-p2s11w15">
 <src.rf>manual</src.rf>

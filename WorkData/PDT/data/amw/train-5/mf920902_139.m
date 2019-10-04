@@ -35,7 +35,10 @@
 <LM>w#w-mf920902-139-p1s1w3</LM>
 </w.rf>
 <form>NDR</form>
-<tag lemma="NDR_:B_;G_;K" src="auto" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="NDR_:B_;G_;K" src="auto">NNFXX-----A---8</AM>
+<AM lemma="NDR-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-mf920902-139-p1s1w4">
 <src.rf>manual</src.rf>
@@ -123,6 +126,7 @@
 <AM lemma="ranění_^(poranit)_(*3it)" src="auto">NNNS4-----A----</AM>
 <AM lemma="ranění_^(poranit)_(*3it)" src="auto">NNNS5-----A----</AM>
 <AM lemma="ranění_^(poranit)_(*3it)" src="auto">NNNS6-----A----</AM>
+<AM lemma="ranění_^(poranit)_(*3it)" src="manual" selected="1">NNNP1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920902-139-p2s1w6">
@@ -191,7 +195,10 @@
 <LM>w#w-mf920902-139-p3s2w4</LM>
 </w.rf>
 <form>NDR</form>
-<tag lemma="NDR_:B_;G_;K" src="auto" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="NDR_:B_;G_;K" src="auto">NNFXX-----A---8</AM>
+<AM lemma="NDR-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-mf920902-139-p3s2w5">
 <src.rf>manual</src.rf>
@@ -357,6 +364,7 @@
 <AM lemma="Lindenthal_;G" src="orig">NNIS6-----A----</AM>
 <AM lemma="Lindenthal_;S" src="auto">NNMS3-----A---1</AM>
 <AM lemma="Lindenthal_;S" src="auto" recommended="1">NNMS6-----A---1</AM>
+<AM lemma="Lindenthal-2_;G" src="manual" selected="1">NNIS6-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920902-139-p3s3w9">
@@ -534,6 +542,7 @@
 <AM lemma="Lindenthal_;G" src="orig">NNIS2-----A----</AM>
 <AM lemma="Lindenthal_;S" src="auto" recommended="1">NNMS3-----A---1</AM>
 <AM lemma="Lindenthal_;S" src="auto">NNMS6-----A---1</AM>
+<AM lemma="Lindenthal-2_;G" src="manual" selected="1">NNIS2-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920902-139-p3s5w14">
@@ -618,6 +627,7 @@
 <AM lemma="Holzhausen_;G" src="orig">NNIS6-----A----</AM>
 <AM lemma="Holzhausen_;S" src="auto">NNMS3-----A---1</AM>
 <AM lemma="Holzhausen_;S" src="auto" recommended="1">NNMS6-----A---1</AM>
+<AM lemma="Holzhausen-2_;G" src="manual" selected="1">NNIS6-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920902-139-p3s5w24">
@@ -769,7 +779,7 @@
 <AM lemma="zárodek" src="auto">NNIS2-----A----</AM>
 <AM lemma="zárodek" src="auto">NNIS3-----A----</AM>
 <AM lemma="zárodek" src="auto">NNIS5-----A----</AM>
-<AM lemma="zárodek" src="auto" recommended="1">NNIS6-----A----</AM>
+<AM lemma="zárodek" src="auto" recommended="1" selected="1">NNIS6-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920902-139-p4s1w18">

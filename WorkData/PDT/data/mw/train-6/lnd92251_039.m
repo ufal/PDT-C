@@ -69,7 +69,10 @@
 <LM>w#w-lnd92251-039-p2s1w2</LM>
 </w.rf>
 <form>Čs</form>
-<tag lemma="československý_:B" src="orig" selected="1">AAXXX----1A---8</tag>
+<tag>
+<AM lemma="československý_:B" src="orig">AAXXX----1A---8</AM>
+<AM lemma="československý" src="manual" selected="1">AAXXX----1A---8</AM>
+</tag>
 </m>
 <m id="m-lnd92251-039-p2s1w3">
 <src.rf>manual</src.rf>
@@ -513,7 +516,12 @@
 <LM>w#w-lnd92251-039-p3s1w10</LM>
 </w.rf>
 <form>Bran</form>
-<tag lemma="Brany_;G" src="auto" selected="1">NNIP2-----A----</tag>
+<tag lemma="Brany_;G" src="auto">NNIP2-----A----</tag>
+<comment>
+<LM type="New Form">
+<text>Brna</text>
+</LM>
+</comment>
 </m>
 <m id="m-lnd92251-039-p3s1w11">
 <src.rf>manual</src.rf>

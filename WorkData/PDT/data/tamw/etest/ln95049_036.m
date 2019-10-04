@@ -686,7 +686,7 @@
 <tag>
 <AM lemma="Melánie_;Y" src="orig">NNFS7-----A----</AM>
 <AM lemma="Melanie_;Y" src="auto">NNFP2-----A----</AM>
-<AM lemma="Melanie_;Y" src="auto" recommended="1">NNFS7-----A----</AM>
+<AM lemma="Melanie_;Y" src="auto" recommended="1" selected="1">NNFS7-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95049-036-p3s1w10">
@@ -799,7 +799,10 @@
 <LM>w#w-ln95049-036-p3s1w23</LM>
 </w.rf>
 <form>French</form>
-<tag lemma="French_;m_,t" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="French_;m_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="French-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln95049-036-p3s1w24">
 <src.rf>manual</src.rf>
@@ -807,7 +810,10 @@
 <LM>w#w-ln95049-036-p3s1w24</LM>
 </w.rf>
 <form>Open</form>
-<tag lemma="Open-1_,t_^(v_názvu_např._sport._soutěží,_&quot;otevřený&quot;)" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="Open-1_,t_^(v_názvu_např._sport._soutěží,_&quot;otevřený&quot;)" src="orig">AAXXX----1A----</AM>
+<AM lemma="Open-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln95049-036-p3s1w25">
 <src.rf>manual</src.rf>
@@ -903,7 +909,10 @@
 <LM>w#w-ln95049-036-p3s1w36</LM>
 </w.rf>
 <form>US</form>
-<tag lemma="US-3_:B_;m_,t_^(americký)" src="orig" selected="1">AAXXX----1A---8</tag>
+<tag>
+<AM lemma="US-3_:B_;m_,t_^(americký)" src="orig">AAXXX----1A---8</AM>
+<AM lemma="US-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln95049-036-p3s1w37">
 <src.rf>manual</src.rf>
@@ -1282,6 +1291,7 @@
 <AM lemma="primum_,s" src="auto">NNNP4-----A----</AM>
 <AM lemma="primum_,s" src="auto">NNNP5-----A----</AM>
 <AM lemma="primum_,s" src="auto">NNNS2-----A----</AM>
+<AM lemma="prima-2" src="manual" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m-ln95049-036-p3s3w11">
@@ -2286,7 +2296,10 @@
 <LM>w#w-ln95049-036-p3s9w8</LM>
 </w.rf>
 <form>WTA</form>
-<tag lemma="WTA-1_:B_;K_,t_^(Women's_Tennis_Association)" src="auto" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="WTA-1_:B_;K_,t_^(Women's_Tennis_Association)" src="auto">NNFXX-----A---8</AM>
+<AM lemma="WTA-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln95049-036-p3s9w9">
 <src.rf>manual</src.rf>
@@ -4607,7 +4620,7 @@
 <tag>
 <AM lemma="tedy" src="orig">Db-------------</AM>
 <AM lemma="tedy-1" src="auto">TT-------------</AM>
-<AM lemma="tedy-2" src="auto" recommended="1">J^-------------</AM>
+<AM lemma="tedy-2" src="auto" recommended="1" selected="1">J^-------------</AM>
 </tag>
 </m>
 <m id="m-ln95049-036-p5s6w20">
@@ -5885,7 +5898,7 @@
 <form>nezasáhly</form>
 <tag>
 <AM lemma="zasáhnout" src="orig">VpTP---XR-NA---</AM>
-<AM lemma="zasáhnout_:W" src="auto" recommended="1">VpTP---XR-NA--1</AM>
+<AM lemma="zasáhnout_:W" src="auto" recommended="1" selected="1">VpTP---XR-NA--1</AM>
 </tag>
 </m>
 <m id="m-ln95049-036-p5s11w9">
@@ -6340,7 +6353,11 @@
 <LM>w#w-ln95049-036-p5s14w18</LM>
 </w.rf>
 <form>Rebound</form>
-<tag lemma="Rebound_,t" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="Rebound_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="rebound_,t" src="manual">NNXXX-----A----</AM>
+<AM lemma="Rebound-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln95049-036-p5s14w19">
 <src.rf>manual</src.rf>
@@ -6352,6 +6369,8 @@
 <AM lemma="Ace_,t" src="orig">NNIXX-----A----</AM>
 <AM lemma="Ace_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Ace_;Y" src="auto">NNMS5-----A----</AM>
+<AM lemma="ace_,t" src="manual">NNXXX-----A----</AM>
+<AM lemma="Ace-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-ln95049-036-p5s14w20">
@@ -7886,7 +7905,7 @@
 <form>přece</form>
 <tag>
 <AM lemma="přece" src="orig">Db-------------</AM>
-<AM lemma="přece-1" src="auto" recommended="1">J^-------------</AM>
+<AM lemma="přece-1" src="auto" recommended="1" selected="1">J^-------------</AM>
 <AM lemma="přece-2" src="auto">TT-------------</AM>
 </tag>
 </m>
@@ -8688,7 +8707,10 @@
 <LM>w#w-ln95049-036-p6s8w18</LM>
 </w.rf>
 <form>St</form>
-<tag lemma="St-6_:B_,t_^(saint,_svatý)" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="St-6_:B_,t_^(saint,_svatý)" src="orig">AAXXX----1A----</AM>
+<AM lemma="St-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln95049-036-p6s8w19">
 <src.rf>manual</src.rf>
@@ -8707,6 +8729,8 @@
 <tag>
 <AM lemma="Moritz-2_;G_,t" src="orig">NNNSX-----A----</AM>
 <AM lemma="Moritz_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Moritz-2_;Y" src="manual">NNMSX-----A----</AM>
+<AM lemma="Moritz-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-ln95049-036-p6s8w21">
@@ -8819,7 +8843,11 @@
 <LM>w#w-ln95049-036-p6s8w34</LM>
 </w.rf>
 <form>DJ</form>
-<tag lemma="DJ_:B_;u_,t_^(disc_jockey)" src="auto" selected="1">NNMXX-----A---8</tag>
+<tag>
+<AM lemma="DJ_:B_;u_,t_^(disc_jockey)" src="auto">NNMXX-----A---8</AM>
+<AM lemma="DJ-88_:B" src="manual">NNXXX-----A---8</AM>
+<AM lemma="DJ_:B_;u_^(disc_jockey)" src="manual" selected="1">NNMXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln95049-036-p6s8w35">
 <src.rf>manual</src.rf>

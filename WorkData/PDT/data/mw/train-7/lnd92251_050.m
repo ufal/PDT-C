@@ -105,7 +105,7 @@
 <form>em</form>
 <tag>
 <AM lemma="ema" src="orig">NNFP2-----A----</AM>
-<AM lemma="em-99_:B_;S" src="auto" recommended="1">NNXXX-----A---8</AM>
+<AM lemma="em-99_:B_;S" src="auto" recommended="1" selected="1">NNXXX-----A---8</AM>
 <AM lemma="emo-1_,h_,l_^(styl)" src="auto">NNNP2-----A----</AM>
 </tag>
 </m>
@@ -331,7 +331,7 @@
 <form>filozoficko</form>
 <tag>
 <AM lemma="filozoficko" src="orig">A2--------A----</AM>
-<AM lemma="filozofický" src="auto" recommended="1">A2--------A----</AM>
+<AM lemma="filozofický" src="auto" recommended="1" selected="1">A2--------A----</AM>
 </tag>
 </m>
 <m id="m-lnd92251-050-p3s4w8">
@@ -420,7 +420,10 @@
 <LM>w#w-lnd92251-050-p3s4w18</LM>
 </w.rf>
 <form>V</form>
-<tag lemma="V-0_:B_;Y" src="orig" selected="1">NNMXX-----A---8</tag>
+<tag>
+<AM lemma="V-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
+<AM lemma="V-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd92251-050-p3s4w19">
 <src.rf>manual</src.rf>
@@ -452,7 +455,10 @@
 <LM>w#w-lnd92251-050-p3s4w22</LM>
 </w.rf>
 <form>P</form>
-<tag lemma="P-0_:B_;Y" src="orig" selected="1">NNMXX-----A---8</tag>
+<tag>
+<AM lemma="P-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
+<AM lemma="P-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd92251-050-p3s4w23">
 <src.rf>manual</src.rf>
@@ -484,7 +490,10 @@
 <LM>w#w-lnd92251-050-p3s4w26</LM>
 </w.rf>
 <form>K</form>
-<tag lemma="K-0_:B_;Y" src="orig" selected="1">NNMXX-----A---8</tag>
+<tag>
+<AM lemma="K-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
+<AM lemma="K-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd92251-050-p3s4w27">
 <src.rf>manual</src.rf>
@@ -1125,7 +1134,7 @@
 <AM lemma="Jiří_;Y" src="auto">NNMP1-----A----</AM>
 <AM lemma="Jiří_;Y" src="auto">NNMP4-----A----</AM>
 <AM lemma="Jiří_;Y" src="auto">NNMP5-----A----</AM>
-<AM lemma="Jiří_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Jiří_;Y" src="auto" recommended="1" selected="1">NNMS1-----A----</AM>
 <AM lemma="Jiří_;Y" src="auto">NNMS2-----A---2</AM>
 <AM lemma="Jiří_;Y" src="auto">NNMS3-----A---2</AM>
 <AM lemma="Jiří_;Y" src="auto">NNMS4-----A---2</AM>

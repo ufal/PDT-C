@@ -61,7 +61,10 @@
 <LM>w#w-ln94205-119-p2s1Aw1</LM>
 </w.rf>
 <form>Tae</form>
-<tag lemma="tae_,t_^(tae-kwon-do)" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="tae_,t_^(tae-kwon-do)" src="orig">AAXXX----1A----</AM>
+<AM lemma="tae_^(tae-kwon-do)" src="manual" selected="1">A2--------A----</AM>
+</tag>
 </m>
 <m id="m-ln94205-119-p2s1Aw2">
 <src.rf>manual</src.rf>
@@ -77,7 +80,10 @@
 <LM>w#w-ln94205-119-p2s1Aw3</LM>
 </w.rf>
 <form>kwon</form>
-<tag lemma="kwon_,t_^(tae-kwon-do)" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="kwon_,t_^(tae-kwon-do)" src="orig">AAXXX----1A----</AM>
+<AM lemma="kwon_^(tae-kwon-do)" src="manual" selected="1">A2--------A----</AM>
+</tag>
 </m>
 <m id="m-ln94205-119-p2s1Aw4">
 <src.rf>manual</src.rf>
@@ -97,6 +103,7 @@
 <AM lemma="do-2_,t_^(tae-kwon-do)" src="orig">NNNS1-----A----</AM>
 <AM lemma="do-1" src="auto" recommended="1">RR--2----------</AM>
 <AM lemma="do-7_^(předpona,_sam.)" src="auto">A2--------A----</AM>
+<AM lemma="do-2_^(tae-kwon-do)" src="manual" selected="1">NNNS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94205-119-p2s1Aw6">
@@ -145,7 +152,10 @@
 <LM>w#w-ln94205-119-p2s1Aw11</LM>
 </w.rf>
 <form>OH</form>
-<tag lemma="OH-2_:B_;w_^(Olympijské_hry)" src="orig" selected="1">NNFPX-----A---8</tag>
+<tag>
+<AM lemma="OH-2_:B_;w_^(Olympijské_hry)" src="orig">NNFPX-----A---8</AM>
+<AM lemma="OH-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94205-119-p2s1Aw12">
 <src.rf>manual</src.rf>
@@ -269,7 +279,10 @@
 <LM>w#w-ln94205-119-p2s1Cw12</LM>
 </w.rf>
 <form>diskusních</form>
-<tag lemma="diskusní" src="orig" selected="1">AAIP2----1A----</tag>
+<tag>
+<AM lemma="diskusní" src="orig">AAIP2----1A----</AM>
+<AM lemma="diskusní_,s_^(^DD**diskuzní)" src="manual" selected="1">AAIP2----1A----</AM>
+</tag>
 </m>
 <m id="m-ln94205-119-p2s1Cw13">
 <src.rf>manual</src.rf>
@@ -667,7 +680,10 @@
 <LM>w#w-ln94205-119-p3s2w9</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-2" src="auto" selected="1">Dg-------2A----</tag>
+<tag>
+<AM lemma="hodně-2" src="auto">Dg-------2A----</AM>
+<AM lemma="více_^(více_+_2._p.,_více_peněz)" src="manual" selected="1">Ca--1----------</AM>
+</tag>
 </m>
 <m id="m-ln94205-119-p3s2w10">
 <src.rf>manual</src.rf>
@@ -717,7 +733,7 @@
 <form>přičemž</form>
 <tag>
 <AM lemma="přičemž" src="orig">J,-------------</AM>
-<AM lemma="přičemž" src="auto" recommended="1">Db-------------</AM>
+<AM lemma="přičemž" src="auto" recommended="1" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m-ln94205-119-p3s2w16">
@@ -930,7 +946,7 @@
 <form>nikoli</form>
 <tag>
 <AM lemma="nikoliv" src="orig">Db------------1</AM>
-<AM lemma="nikoli" src="auto" recommended="1">TT-------------</AM>
+<AM lemma="nikoli" src="auto" recommended="1" selected="1">TT-------------</AM>
 </tag>
 </m>
 <m id="m-ln94205-119-p3s3w14">
@@ -1101,7 +1117,10 @@
 <LM>w#w-ln94205-119-p4s1w8</LM>
 </w.rf>
 <form>MOV</form>
-<tag lemma="MOV_:B_;K_^(Mezinárodní_olympijský_výbor)" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="MOV_:B_;K_^(Mezinárodní_olympijský_výbor)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="MOV-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94205-119-p4s1w9">
 <src.rf>manual</src.rf>
@@ -1133,7 +1152,10 @@
 <LM>w#w-ln94205-119-p4s1w12</LM>
 </w.rf>
 <form>OH</form>
-<tag lemma="OH-2_:B_;w_^(Olympijské_hry)" src="orig" selected="1">NNFPX-----A---8</tag>
+<tag>
+<AM lemma="OH-2_:B_;w_^(Olympijské_hry)" src="orig">NNFPX-----A---8</AM>
+<AM lemma="OH-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94205-119-p4s1w13">
 <src.rf>manual</src.rf>
@@ -1167,7 +1189,10 @@
 <LM>w#w-ln94205-119-p4s2w2</LM>
 </w.rf>
 <form>MOV</form>
-<tag lemma="MOV_:B_;K_^(Mezinárodní_olympijský_výbor)" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="MOV_:B_;K_^(Mezinárodní_olympijský_výbor)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="MOV-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94205-119-p4s2w3">
 <src.rf>manual</src.rf>
@@ -1183,7 +1208,10 @@
 <LM>w#w-ln94205-119-p4s2w4</LM>
 </w.rf>
 <form>Antonio</form>
-<tag lemma="Antonio_;Y_,t" src="auto" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Antonio_;Y_,t" src="auto">NNMS1-----A----</AM>
+<AM lemma="Antonio_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94205-119-p4s2w5">
 <src.rf>manual</src.rf>
@@ -1319,7 +1347,10 @@
 <LM>w#w-ln94205-119-p4s2w21</LM>
 </w.rf>
 <form>tae</form>
-<tag lemma="tae_,t_^(tae-kwon-do)" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="tae_,t_^(tae-kwon-do)" src="orig">AAXXX----1A----</AM>
+<AM lemma="tae_^(tae-kwon-do)" src="manual" selected="1">A2--------A----</AM>
+</tag>
 </m>
 <m id="m-ln94205-119-p4s2w22">
 <src.rf>manual</src.rf>
@@ -1335,7 +1366,10 @@
 <LM>w#w-ln94205-119-p4s2w23</LM>
 </w.rf>
 <form>kwon</form>
-<tag lemma="kwon_,t_^(tae-kwon-do)" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="kwon_,t_^(tae-kwon-do)" src="orig">AAXXX----1A----</AM>
+<AM lemma="kwon_^(tae-kwon-do)" src="manual" selected="1">A2--------A----</AM>
+</tag>
 </m>
 <m id="m-ln94205-119-p4s2w24">
 <src.rf>manual</src.rf>
@@ -1355,6 +1389,7 @@
 <AM lemma="do-2_,t_^(tae-kwon-do)" src="orig">NNNS1-----A----</AM>
 <AM lemma="do-1" src="auto" recommended="1">RR--2----------</AM>
 <AM lemma="do-7_^(předpona,_sam.)" src="auto">A2--------A----</AM>
+<AM lemma="do-2_^(tae-kwon-do)" src="manual" selected="1">NNNS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94205-119-p4s2w26">

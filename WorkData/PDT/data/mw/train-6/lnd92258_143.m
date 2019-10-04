@@ -65,6 +65,7 @@
 <AM lemma="ha-99_:B_;S" src="orig">NNXXX-----A---8</AM>
 <AM lemma="ha-1`hektar_:B" src="auto" recommended="1">NNIXX-----A---8</AM>
 <AM lemma="ha-2" src="auto">II-------------</AM>
+<AM lemma="ha-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92258-143-p2s1w4">
@@ -203,7 +204,10 @@
 <LM>w#w-lnd92258-143-p2s2w15</LM>
 </w.rf>
 <form>UEFA</form>
-<tag lemma="UEFA-1_:B_;K_;w_^(Evr._fotbalová_federace)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="UEFA-1_:B_;K_;w_^(Evr._fotbalová_federace)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="UEFA-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92258-143-p2s2w16">
 <src.rf>manual</src.rf>
@@ -351,7 +355,10 @@
 <LM>w#w-lnd92258-143-p2s4w3</LM>
 </w.rf>
 <form>nezbytný</form>
-<tag lemma="zbytný" src="orig" selected="1">AAIS1----1N----</tag>
+<tag>
+<AM lemma="zbytný" src="orig">AAIS1----1N----</AM>
+<AM lemma="nezbytný" src="manual" selected="1">AAIS1----1A----</AM>
+</tag>
 </m>
 <m id="m-lnd92258-143-p2s4w4">
 <src.rf>manual</src.rf>
@@ -367,7 +374,10 @@
 <LM>w#w-lnd92258-143-p2s4w5</LM>
 </w.rf>
 <form>mají</form>
-<tag lemma="mít" src="orig" selected="1">VB-P---3P-AA---</tag>
+<tag>
+<AM lemma="mít" src="orig">VB-P---3P-AA---</AM>
+<AM lemma="mít_:T" src="manual" selected="1">VB-P---3P-AA---</AM>
+</tag>
 </m>
 <m id="m-lnd92258-143-p2s4w6">
 <src.rf>manual</src.rf>
@@ -626,7 +636,10 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>litovelský</form>
-<tag lemma="litovelský_;G" src="auto" selected="1">AAIS4----1A----</tag>
+<tag>
+<AM lemma="litovelský_;G" src="auto">AAIS4----1A----</AM>
+<AM lemma="litovelský" src="manual" selected="1">AAIS4----1A----</AM>
+</tag>
 </m>
 <m id="m-lnd92258-143-p2s5w27">
 <src.rf>manual</src.rf>

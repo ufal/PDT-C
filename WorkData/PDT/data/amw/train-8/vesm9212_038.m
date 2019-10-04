@@ -27,7 +27,10 @@
 <LM>w#w-vesm9212-038-p1s1w2</LM>
 </w.rf>
 <form>baktérie</form>
-<tag lemma="baktérie" src="orig" selected="1">NNFS1-----A----</tag>
+<tag>
+<AM lemma="baktérie" src="orig">NNFS1-----A----</AM>
+<AM lemma="baktérie_,s_^(^DD**bakterie)" src="manual" selected="1">NNFS1-----A----</AM>
+</tag>
 </m>
 </s>
 <s id="m-vesm9212-038-p2s1">
@@ -61,7 +64,10 @@
 <LM>w#w-vesm9212-038-p2s1w4</LM>
 </w.rf>
 <form>baktérie</form>
-<tag lemma="baktérie" src="orig" selected="1">NNFS1-----A----</tag>
+<tag>
+<AM lemma="baktérie" src="orig">NNFS1-----A----</AM>
+<AM lemma="baktérie_,s_^(^DD**bakterie)" src="manual" selected="1">NNFS1-----A----</AM>
+</tag>
 </m>
 <m id="m-vesm9212-038-p2s1w5">
 <src.rf>manual</src.rf>
@@ -101,7 +107,10 @@
 <LM>w#w-vesm9212-038-p2s1w9</LM>
 </w.rf>
 <form>hodně</form>
-<tag lemma="hodně-2_^(nezlobivý)_(*3ý-2)" src="auto" selected="1">Dg-------1A----</tag>
+<tag>
+<AM lemma="hodně-2_^(nezlobivý)_(*3ý-2)" src="auto">Dg-------1A----</AM>
+<AM lemma="hodně-3" src="manual" selected="1">Dg-------1A----</AM>
+</tag>
 </m>
 <m id="m-vesm9212-038-p2s1w10">
 <src.rf>manual</src.rf>
@@ -186,6 +195,7 @@
 <tag>
 <AM lemma="USA_;G" src="orig">NNIPX-----A----</AM>
 <AM lemma="USA_:B_;K_,t_^(United_States_of_America)" src="auto" recommended="1">NNIPX-----A---8</AM>
+<AM lemma="USA_:B_;K_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9212-038-p2s2w7">
@@ -234,7 +244,10 @@
 <LM>w#w-vesm9212-038-p2s2w12</LM>
 </w.rf>
 <form>baktérii</form>
-<tag lemma="baktérie" src="orig" selected="1">NNFS4-----A----</tag>
+<tag>
+<AM lemma="baktérie" src="orig">NNFS4-----A----</AM>
+<AM lemma="baktérie_,s_^(^DD**bakterie)" src="manual" selected="1">NNFS4-----A----</AM>
+</tag>
 </m>
 <m id="m-vesm9212-038-p2s2w13">
 <src.rf>manual</src.rf>
@@ -486,7 +499,10 @@
 <LM>w#w-vesm9212-038-p2s4w10</LM>
 </w.rf>
 <form>Acanthurus</form>
-<tag lemma="Acanthurus_;L_,t" src="orig" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Acanthurus_;L_,t" src="orig">NNMS1-----A----</AM>
+<AM lemma="Acanthurus_;L" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-vesm9212-038-p2s4w11">
 <src.rf>manual</src.rf>
@@ -720,7 +736,10 @@
 <LM>w#w-vesm9212-038-p2s5w20</LM>
 </w.rf>
 <form>baktérie</form>
-<tag lemma="baktérie" src="orig" selected="1">NNFS1-----A----</tag>
+<tag>
+<AM lemma="baktérie" src="orig">NNFS1-----A----</AM>
+<AM lemma="baktérie_,s_^(^DD**bakterie)" src="manual" selected="1">NNFS1-----A----</AM>
+</tag>
 </m>
 <m id="m-vesm9212-038-p2s5w21">
 <src.rf>manual</src.rf>
@@ -794,7 +813,10 @@
 <LM>w#w-vesm9212-038-p2s6w8</LM>
 </w.rf>
 <form>organismus</form>
-<tag lemma="organismus" src="orig" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="organismus" src="orig">NNIS1-----A----</AM>
+<AM lemma="organismus_,s_^(^DD**organizmus)" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-vesm9212-038-p2s6w9">
 <src.rf>manual</src.rf>
@@ -890,7 +912,10 @@
 <LM>w#w-vesm9212-038-p2s6w20</LM>
 </w.rf>
 <form>RNA</form>
-<tag lemma="RNA_:B_;L_^(molekula_RNA)" src="auto" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="RNA_:B_;L_^(molekula_RNA)" src="auto">NNFXX-----A---8</AM>
+<AM lemma="RNA_:B_;L_^(molekula_RNA)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-vesm9212-038-p2s6w21">
 <src.rf>manual</src.rf>
@@ -980,7 +1005,10 @@
 <LM>w#w-vesm9212-038-p2s7w10</LM>
 </w.rf>
 <form>Clostridium</form>
-<tag lemma="Clostridium" src="orig" selected="1">NNNS1-----A----</tag>
+<tag>
+<AM lemma="Clostridium" src="orig">NNNS1-----A----</AM>
+<AM lemma="Clostridium_;L" src="manual" selected="1">NNNS1-----A----</AM>
+</tag>
 </m>
 <m id="m-vesm9212-038-p2s7w11">
 <src.rf>manual</src.rf>
@@ -1006,7 +1034,10 @@
 <LM>w#w-vesm9212-038-p3s1w2</LM>
 </w.rf>
 <form>r</form>
-<tag lemma="rok_:B" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="rok_:B" src="orig">NNIXX-----A---8</AM>
+<AM lemma="rok" src="manual" selected="1">NNIXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-vesm9212-038-p3s1w3">
 <src.rf>manual</src.rf>
@@ -1054,7 +1085,10 @@
 <LM>w#w-vesm9212-038-p3s1w8</LM>
 </w.rf>
 <form>baktérií</form>
-<tag lemma="baktérie" src="orig" selected="1">NNFP2-----A----</tag>
+<tag>
+<AM lemma="baktérie" src="orig">NNFP2-----A----</AM>
+<AM lemma="baktérie_,s_^(^DD**bakterie)" src="manual" selected="1">NNFP2-----A----</AM>
+</tag>
 </m>
 <m id="m-vesm9212-038-p3s1w9">
 <src.rf>manual</src.rf>
@@ -1078,7 +1112,10 @@
 <LM>w#w-vesm9212-038-p3s1w11</LM>
 </w.rf>
 <form>Epulopiscium</form>
-<tag lemma="Epulopiscium_;L_,t" src="orig" selected="1">NNNS1-----A----</tag>
+<tag>
+<AM lemma="Epulopiscium_;L_,t" src="orig">NNNS1-----A----</AM>
+<AM lemma="Epulopiscium_;L" src="manual" selected="1">NNNS1-----A----</AM>
+</tag>
 </m>
 <m id="m-vesm9212-038-p3s1w12">
 <src.rf>manual</src.rf>
@@ -1142,7 +1179,10 @@
 <LM>w#w-vesm9212-038-p3s1w19</LM>
 </w.rf>
 <form>Rudého</form>
-<tag lemma="rudý" src="orig" selected="1">AANS2----1A----</tag>
+<tag>
+<AM lemma="rudý" src="orig">AANS2----1A----</AM>
+<AM lemma="rudý_;o" src="manual" selected="1">AANS2----1A----</AM>
+</tag>
 </m>
 <m id="m-vesm9212-038-p3s1w20">
 <src.rf>manual</src.rf>
@@ -1224,7 +1264,12 @@
 <LM>w#w-vesm9212-038-p3s2w7</LM>
 </w.rf>
 <form>zelenými</form>
-<tag lemma="zelený" src="orig" selected="1">AAFP7----1A----</tag>
+<tag>
+<AM lemma="zelený" src="orig">AAFP7----1A----</AM>
+<AM lemma="zelený_;O" src="manual">AAFP7----1A----</AM>
+<AM lemma="zelený_;Oo" src="manual">AAFP7----1A----</AM>
+<AM lemma="zelený_;o" src="manual" selected="1">AAFP7----1A----</AM>
+</tag>
 </m>
 <m id="m-vesm9212-038-p3s2w8">
 <src.rf>manual</src.rf>
@@ -1322,7 +1367,10 @@
 <LM>w#w-vesm9212-038-p3s3w5</LM>
 </w.rf>
 <form>epulo</form>
-<tag lemma="epulo_,t" src="orig" selected="1">NNXXX-----A----</tag>
+<tag>
+<AM lemma="epulo_,t" src="orig">NNXXX-----A----</AM>
+<AM lemma="epulo-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-vesm9212-038-p3s3w6">
 <src.rf>manual</src.rf>
@@ -1410,7 +1458,10 @@
 <LM>w#w-vesm9212-038-p3s3w16</LM>
 </w.rf>
 <form>piscis</form>
-<tag lemma="piscis_,t" src="orig" selected="1">NNXXX-----A----</tag>
+<tag>
+<AM lemma="piscis_,t" src="orig">NNXXX-----A----</AM>
+<AM lemma="piscis-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-vesm9212-038-p3s3w17">
 <src.rf>manual</src.rf>
@@ -1468,7 +1519,10 @@
 <LM>w#w-vesm9212-038-p3s4w3</LM>
 </w.rf>
 <form>baktérie</form>
-<tag lemma="baktérie" src="orig" selected="1">NNFS2-----A----</tag>
+<tag>
+<AM lemma="baktérie" src="orig">NNFS2-----A----</AM>
+<AM lemma="baktérie_,s_^(^DD**bakterie)" src="manual" selected="1">NNFS2-----A----</AM>
+</tag>
 </m>
 <m id="m-vesm9212-038-p3s4w4">
 <src.rf>manual</src.rf>
@@ -1516,7 +1570,10 @@
 <LM>w#w-vesm9212-038-p3s4w9</LM>
 </w.rf>
 <form>baktérie</form>
-<tag lemma="baktérie" src="orig" selected="1">NNFS1-----A----</tag>
+<tag>
+<AM lemma="baktérie" src="orig">NNFS1-----A----</AM>
+<AM lemma="baktérie_,s_^(^DD**bakterie)" src="manual" selected="1">NNFS1-----A----</AM>
+</tag>
 </m>
 <m id="m-vesm9212-038-p3s4w10">
 <src.rf>manual</src.rf>
@@ -1604,7 +1661,10 @@
 <LM>w#w-vesm9212-038-p3s4w20</LM>
 </w.rf>
 <form>Epulopiscium</form>
-<tag lemma="Epulopiscium_;L_,t" src="orig" selected="1">NNNS1-----A----</tag>
+<tag>
+<AM lemma="Epulopiscium_;L_,t" src="orig">NNNS1-----A----</AM>
+<AM lemma="Epulopiscium_;L" src="manual" selected="1">NNNS1-----A----</AM>
+</tag>
 </m>
 <m id="m-vesm9212-038-p3s4w21">
 <src.rf>manual</src.rf>
@@ -1620,7 +1680,10 @@
 <LM>w#w-vesm9212-038-p3s4w22</LM>
 </w.rf>
 <form>Science</form>
-<tag lemma="Science-1_;K_,t_^(souč._názvů,_např._Science)" src="orig" selected="1">NNFSX-----A----</tag>
+<tag>
+<AM lemma="Science-1_;K_,t_^(souč._názvů,_např._Science)" src="orig">NNFSX-----A----</AM>
+<AM lemma="Science-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-vesm9212-038-p3s4w23">
 <src.rf>manual</src.rf>

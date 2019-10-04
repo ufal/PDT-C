@@ -78,7 +78,7 @@
 </w.rf>
 <form>les</form>
 <tag>
-<AM lemma="les-99_:B_;S" src="orig">NNXXX-----A---8</AM>
+<AM lemma="les-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</AM>
 <AM lemma="le-1_,t_^(franc._člen,_ne_v_názvech)" src="auto">XX-------------</AM>
 <AM lemma="les" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="les" src="auto">NNIS4-----A----</AM>
@@ -846,7 +846,7 @@
 <AM lemma="důchod" src="orig">NNIS6-----A----</AM>
 <AM lemma="důchod" src="auto">NNIS2-----A----</AM>
 <AM lemma="důchod" src="auto">NNIS3-----A----</AM>
-<AM lemma="důchod" src="auto" recommended="1">NNIS6-----A---1</AM>
+<AM lemma="důchod" src="auto" recommended="1" selected="1">NNIS6-----A---1</AM>
 </tag>
 </m>
 <m id="m-mf930701-058-p2s5w6">

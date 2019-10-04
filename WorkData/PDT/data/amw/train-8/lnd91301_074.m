@@ -59,7 +59,10 @@
 <LM>w#w-lnd91301-074-p1s1w6</LM>
 </w.rf>
 <form>ČBD</form>
-<tag lemma="ČBD_:B_;K" src="orig" selected="1">NNNXX-----A---8</tag>
+<tag>
+<AM lemma="ČBD_:B_;K" src="orig">NNNXX-----A---8</AM>
+<AM lemma="ČBD-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd91301-074-p1s1w7">
 <src.rf>manual</src.rf>
@@ -141,7 +144,7 @@
 <form>FEČEM</form>
 <tag>
 <AM lemma="Feč_;S" src="orig">NNMS7-----A----</AM>
-<AM lemma="Fečo_;S" src="auto" recommended="1">NNMS7-----A----</AM>
+<AM lemma="Fečo_;S" src="auto" recommended="1" selected="1">NNMS7-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd91301-074-p1s1w17">
@@ -185,6 +188,7 @@
 <tag>
 <AM lemma="USA_;G" src="orig">NNIPX-----A----</AM>
 <AM lemma="USA_:B_;K_,t_^(United_States_of_America)" src="auto" recommended="1">NNIPX-----A---8</AM>
+<AM lemma="USA_:B_;K_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd91301-074-p1s1w22">
@@ -295,6 +299,7 @@
 <AM lemma="International-2_;K_,t" src="orig">NNXXX-----A---1</AM>
 <AM lemma="International_,t" src="auto">NNISX-----A----</AM>
 <AM lemma="international_,t" src="auto" recommended="1">AAXXX----1A----</AM>
+<AM lemma="International-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-lnd91301-074-p1s2w13">
@@ -308,7 +313,14 @@
 <AM lemma="Ballet_;K" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Ballet_;K" src="auto">NNIS4-----A----</AM>
 <AM lemma="Ballet_;S" src="auto">NNMS1-----A----</AM>
+<AM lemma="ballet_,t" src="manual">NNXXX-----A----</AM>
+<AM lemma="Ballet-77" src="manual" selected="1">F%-------------</AM>
 </tag>
+<comment>
+<LM type="Other">
+<text>nová analýza: cizí slovo</text>
+</LM>
+</comment>
 </m>
 <m id="m-lnd91301-074-p1s2w14">
 <src.rf>manual</src.rf>
@@ -316,7 +328,10 @@
 <LM>w#w-lnd91301-074-p1s2w14</LM>
 </w.rf>
 <form>Festival</form>
-<tag lemma="festival" src="orig" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="festival" src="orig">NNIS1-----A----</AM>
+<AM lemma="Festival-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-lnd91301-074-p1s2w15">
 <src.rf>manual</src.rf>
@@ -422,7 +437,10 @@
 <LM>w#w-lnd91301-074-p2s1w2</LM>
 </w.rf>
 <form>archív</form>
-<tag lemma="archív" src="orig" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="archív" src="orig">NNIS1-----A----</AM>
+<AM lemma="archív_,s_^(^DD**archiv)" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 </s>
 </mdata>

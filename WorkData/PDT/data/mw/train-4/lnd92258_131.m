@@ -19,7 +19,10 @@
 <LM>w#w-lnd92258-131-p1s1w1</LM>
 </w.rf>
 <form>Starý</form>
-<tag lemma="starý-1_^(manžel)" src="orig" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="starý-1_^(manžel)" src="orig">NNMS1-----A----</AM>
+<AM lemma="Starý_;S" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92258-131-p1s1w2">
 <src.rf>manual</src.rf>
@@ -193,7 +196,7 @@
 <form>vůbec</form>
 <tag>
 <AM lemma="vůbec" src="orig">Db-------------</AM>
-<AM lemma="vůbec" src="auto" recommended="1">TT-------------</AM>
+<AM lemma="vůbec" src="auto" recommended="1" selected="1">TT-------------</AM>
 </tag>
 </m>
 <m id="m-lnd92258-131-p2s2w14">
@@ -452,7 +455,10 @@
 <LM>w#w-lnd92258-131-p2s3w17</LM>
 </w.rf>
 <form>ČMFL</form>
-<tag lemma="ČMFL_:B_;K_;w_^(Č.-moravský_fotbalový_svaz)" src="auto" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="ČMFL_:B_;K_;w_^(Č.-moravský_fotbalový_svaz)" src="auto">NNIXX-----A---8</AM>
+<AM lemma="ČMFL-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd92258-131-p2s3w18">
 <src.rf>manual</src.rf>
@@ -504,7 +510,7 @@
 <form>vůbec</form>
 <tag>
 <AM lemma="vůbec" src="orig">Db-------------</AM>
-<AM lemma="vůbec" src="auto" recommended="1">TT-------------</AM>
+<AM lemma="vůbec" src="auto" recommended="1" selected="1">TT-------------</AM>
 </tag>
 </m>
 <m id="m-lnd92258-131-p2s4w6">
@@ -611,7 +617,10 @@
 <LM>w#w-lnd92258-131-p2s5w6</LM>
 </w.rf>
 <form>Starým</form>
-<tag lemma="starý-1_^(manžel)" src="orig" selected="1">NNMS7-----A----</tag>
+<tag>
+<AM lemma="starý-1_^(manžel)" src="orig">NNMS7-----A----</AM>
+<AM lemma="Starý_;S" src="manual" selected="1">NNMS7-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92258-131-p2s5w7">
 <src.rf>manual</src.rf>
@@ -887,7 +896,10 @@
 <LM>w#w-lnd92258-131-p2s7w14</LM>
 </w.rf>
 <form>Starým</form>
-<tag lemma="starý-1_^(manžel)" src="orig" selected="1">NNMS7-----A----</tag>
+<tag>
+<AM lemma="starý-1_^(manžel)" src="orig">NNMS7-----A----</AM>
+<AM lemma="Starý_;S" src="manual" selected="1">NNMS7-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92258-131-p2s7w15">
 <src.rf>manual</src.rf>
@@ -1130,7 +1142,10 @@
 <LM>w#w-lnd92258-131-p2s8w28</LM>
 </w.rf>
 <form>Starým</form>
-<tag lemma="starý-1_^(manžel)" src="orig" selected="1">NNMS7-----A----</tag>
+<tag>
+<AM lemma="starý-1_^(manžel)" src="orig">NNMS7-----A----</AM>
+<AM lemma="Starý_;S" src="manual" selected="1">NNMS7-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92258-131-p2s8w29">
 <src.rf>manual</src.rf>
@@ -1520,7 +1535,10 @@
 <LM>w#w-lnd92258-131-p2s11w21</LM>
 </w.rf>
 <form>Starý</form>
-<tag lemma="starý-1_^(manžel)" src="orig" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="starý-1_^(manžel)" src="orig">NNMS1-----A----</AM>
+<AM lemma="Starý_;S" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92258-131-p2s11w22">
 <src.rf>manual</src.rf>

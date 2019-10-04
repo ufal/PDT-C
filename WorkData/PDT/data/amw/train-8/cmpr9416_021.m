@@ -154,7 +154,7 @@
 <tag>
 <AM lemma="metronom" src="orig">NNMS3-----A---1</AM>
 <AM lemma="metronom" src="auto">NNIS2-----A----</AM>
-<AM lemma="metronom" src="auto" recommended="1">NNIS3-----A----</AM>
+<AM lemma="metronom" src="auto" recommended="1" selected="1">NNIS3-----A----</AM>
 <AM lemma="metronom" src="auto">NNIS6-----A----</AM>
 </tag>
 </m>
@@ -408,7 +408,7 @@
 <form>totiž</form>
 <tag>
 <AM lemma="totiž" src="orig">Db-------------</AM>
-<AM lemma="totiž-1" src="auto" recommended="1">J^-------------</AM>
+<AM lemma="totiž-1" src="auto" recommended="1" selected="1">J^-------------</AM>
 <AM lemma="totiž-2" src="auto">TT-------------</AM>
 </tag>
 </m>
@@ -612,7 +612,10 @@
 <LM>w#w-cmpr9416-021-p4s3w20</LM>
 </w.rf>
 <form>nechápou</form>
-<tag lemma="chápat" src="orig" selected="1">VB-P---3P-NA---</tag>
+<tag>
+<AM lemma="chápat" src="orig">VB-P---3P-NA---</AM>
+<AM lemma="chápat_:T" src="manual" selected="1">VB-P---3P-NA---</AM>
+</tag>
 </m>
 <m id="m-cmpr9416-021-p4s3w21">
 <src.rf>manual</src.rf>
@@ -660,7 +663,10 @@
 <LM>w#w-cmpr9416-021-p4s3w26</LM>
 </w.rf>
 <form>zprovozněn</form>
-<tag lemma="zprovoznit" src="orig" selected="1">VsYS---XX-AP---</tag>
+<tag>
+<AM lemma="zprovoznit" src="orig">VsYS---XX-AP---</AM>
+<AM lemma="zprovoznit_:W" src="manual" selected="1">VsYS---XX-AP---</AM>
+</tag>
 </m>
 <m id="m-cmpr9416-021-p4s3w27">
 <src.rf>manual</src.rf>
@@ -684,7 +690,10 @@
 <LM>w#w-cmpr9416-021-p4s3w29</LM>
 </w.rf>
 <form>odvezen</form>
-<tag lemma="odvézt" src="orig" selected="1">VsYS---XX-AP---</tag>
+<tag>
+<AM lemma="odvézt" src="orig">VsYS---XX-AP---</AM>
+<AM lemma="odvézt_:W" src="manual" selected="1">VsYS---XX-AP---</AM>
+</tag>
 </m>
 <m id="m-cmpr9416-021-p4s3w30">
 <src.rf>manual</src.rf>

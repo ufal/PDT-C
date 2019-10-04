@@ -165,7 +165,10 @@
 <LM>w#w-mf930702-128-p2s1w10</LM>
 </w.rf>
 <form>nejvíce</form>
-<tag lemma="hodně-2" src="auto" selected="1">Dg-------3A----</tag>
+<tag>
+<AM lemma="hodně-2" src="auto">Dg-------3A----</AM>
+<AM lemma="hodně-3" src="manual" selected="1">Dg-------3A----</AM>
+</tag>
 </m>
 <m id="m-mf930702-128-p2s1w11">
 <src.rf>manual</src.rf>
@@ -383,7 +386,10 @@
 <LM>w#w-mf930702-128-p2s2w18</LM>
 </w.rf>
 <form>Pannel</form>
-<tag lemma="Pannel_;K" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="Pannel_;K" src="orig">AAXXX----1A----</AM>
+<AM lemma="Pannel-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-mf930702-128-p2s2w19">
 <src.rf>manual</src.rf>
@@ -619,7 +625,10 @@
 <LM>w#w-mf930702-128-p2s4w8</LM>
 </w.rf>
 <form>nejvíce</form>
-<tag lemma="hodně-2" src="auto" selected="1">Dg-------3A----</tag>
+<tag>
+<AM lemma="hodně-2" src="auto">Dg-------3A----</AM>
+<AM lemma="hodně-3" src="manual" selected="1">Dg-------3A----</AM>
+</tag>
 </m>
 <m id="m-mf930702-128-p2s4w9">
 <src.rf>manual</src.rf>

@@ -1098,7 +1098,7 @@
 <form>ŽĎAS</form>
 <tag>
 <AM lemma="ŽĎAS-1_:B_;K_^(Žďárské_strojírny)" src="orig">NNIS1-----A----</AM>
-<AM lemma="ŽĎAS-1_:B_;K_^(Žďárské_strojírny)" src="auto">NNIS1-----A---8</AM>
+<AM lemma="ŽĎAS-1_:B_;K_^(Žďárské_strojírny)" src="auto" selected="1">NNIS1-----A---8</AM>
 <AM lemma="ŽĎAS-1_:B_;K_^(Žďárské_strojírny)" src="auto">NNIS4-----A---8</AM>
 <AM lemma="Žďas_;Y" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Žďas_;Y" src="auto">NNIS4-----A----</AM>
@@ -1509,6 +1509,7 @@
 <AM lemma="Celsius_:B" src="auto">NNMXX-----A---8</AM>
 <AM lemma="c-3_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
 <AM lemma="c-8_:B_^(ost._zkratka)" src="auto">XX------------8</AM>
+<AM lemma="C-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-cmpr9407-047-p6s1w78">
@@ -2414,7 +2415,7 @@
 <tag>
 <AM lemma="nalézt" src="orig">Vf--------A----</AM>
 <AM lemma="nalézt-1_^(někam)" src="auto" recommended="1">Vf--------A----</AM>
-<AM lemma="nalézt-2" src="auto">Vf--------A----</AM>
+<AM lemma="nalézt-2" src="auto" selected="1">Vf--------A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9407-047-p9s5w8">
@@ -2718,7 +2719,7 @@
 <tag>
 <AM lemma="nalézt" src="orig">Vf--------A----</AM>
 <AM lemma="nalézt-1_^(někam)" src="auto" recommended="1">Vf--------A----</AM>
-<AM lemma="nalézt-2" src="auto">Vf--------A----</AM>
+<AM lemma="nalézt-2" src="auto" selected="1">Vf--------A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9407-047-p10s2w6">
@@ -2892,7 +2893,7 @@
 <tag>
 <AM lemma="nalézt" src="orig">VpTP---XR-AA---</AM>
 <AM lemma="nalézt-1_^(někam)" src="auto" recommended="1">VpTP---XR-AA---</AM>
-<AM lemma="nalézt-2" src="auto">VpTP---XR-AA---</AM>
+<AM lemma="nalézt-2" src="auto" selected="1">VpTP---XR-AA---</AM>
 </tag>
 </m>
 <m id="m-cmpr9407-047-p10s3w4">
@@ -2903,7 +2904,7 @@
 <form>nejen</form>
 <tag>
 <AM lemma="nejen" src="orig">TT-------------</AM>
-<AM lemma="nejen" src="auto" recommended="1">Db-------------</AM>
+<AM lemma="nejen" src="auto" recommended="1" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m-cmpr9407-047-p10s3w5">
@@ -3764,7 +3765,7 @@
 <form>Kč</form>
 <tag>
 <AM lemma="Kč" src="orig">NNFXX-----A----</AM>
-<AM lemma="Kč_:B" src="auto" recommended="1">NNFXX-----A---8</AM>
+<AM lemma="Kč_:B" src="auto" recommended="1" selected="1">NNFXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-cmpr9407-047-p12s1w18">
@@ -3920,7 +3921,7 @@
 <form>Kč</form>
 <tag>
 <AM lemma="Kč" src="orig">NNFXX-----A----</AM>
-<AM lemma="Kč_:B" src="auto" recommended="1">NNFXX-----A---8</AM>
+<AM lemma="Kč_:B" src="auto" recommended="1" selected="1">NNFXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-cmpr9407-047-p12s1w37">
@@ -4256,7 +4257,7 @@
 <form>Kč</form>
 <tag>
 <AM lemma="Kč" src="orig">NNFXX-----A----</AM>
-<AM lemma="Kč_:B" src="auto" recommended="1">NNFXX-----A---8</AM>
+<AM lemma="Kč_:B" src="auto" recommended="1" selected="1">NNFXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-cmpr9407-047-p12s3w19">
@@ -4388,7 +4389,7 @@
 <form>Kč</form>
 <tag>
 <AM lemma="Kč" src="orig">NNFXX-----A----</AM>
-<AM lemma="Kč_:B" src="auto" recommended="1">NNFXX-----A---8</AM>
+<AM lemma="Kč_:B" src="auto" recommended="1" selected="1">NNFXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-cmpr9407-047-p12s3w35">
@@ -4611,7 +4612,7 @@
 <form>Kč</form>
 <tag>
 <AM lemma="Kč" src="orig">NNFXX-----A----</AM>
-<AM lemma="Kč_:B" src="auto" recommended="1">NNFXX-----A---8</AM>
+<AM lemma="Kč_:B" src="auto" recommended="1" selected="1">NNFXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-cmpr9407-047-p12s5w13">

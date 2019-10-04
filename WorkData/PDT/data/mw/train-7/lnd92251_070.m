@@ -27,7 +27,10 @@
 <LM>w#w-lnd92251-070-p1s1w2</LM>
 </w.rf>
 <form>LN</form>
-<tag lemma="LN-2_:B_;K_^(Lidové_noviny,_nakl.)" src="orig" selected="1">NNFPX-----A---8</tag>
+<tag>
+<AM lemma="LN-2_:B_;K_^(Lidové_noviny,_nakl.)" src="orig">NNFPX-----A---8</AM>
+<AM lemma="LN-1_:B_;K_;R_^(Lidové_noviny,_nakl.)" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 </s>
 <s id="m-lnd92251-070-p2s1">
@@ -807,7 +810,10 @@
 <LM>w#w-lnd92251-070-p3s1w14</LM>
 </w.rf>
 <form>Libri</form>
-<tag lemma="Libri_;m_,t" src="orig" selected="1">NNFPX-----A----</tag>
+<tag>
+<AM lemma="Libri_;m_,t" src="orig">NNFPX-----A----</AM>
+<AM lemma="Libri-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-lnd92251-070-p3s1w15">
 <src.rf>manual</src.rf>
@@ -974,6 +980,7 @@
 <AM lemma="Flor_;S" src="auto">NNMS2-----A----</AM>
 <AM lemma="Flor_;S" src="auto">NNMS4-----A----</AM>
 <AM lemma="flóra_,x" src="auto" recommended="1">NNFS1-----A----</AM>
+<AM lemma="Flora_;K" src="manual" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92251-070-p4s1w15">
@@ -1406,7 +1413,7 @@
 </w.rf>
 <form>l</form>
 <tag>
-<AM lemma="linka_:B" src="orig">NNFXX-----A---8</AM>
+<AM lemma="linka_:B" src="orig" selected="1">NNFXX-----A---8</AM>
 <AM lemma="l-3_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
 <AM lemma="l-4_^(graf._oddělovač)" src="auto">Z:-------------</AM>
 <AM lemma="l-8_:B_^(ost._zkratka)" src="auto">XX------------8</AM>

@@ -101,7 +101,10 @@
 <LM>w#w-mf930701-150-p2s1w5</LM>
 </w.rf>
 <form>mechanismu</form>
-<tag lemma="mechanismus" src="orig" selected="1">NNIS2-----A----</tag>
+<tag>
+<AM lemma="mechanismus" src="orig">NNIS2-----A----</AM>
+<AM lemma="mechanismus_,s_^(^DD**mechanizmus)" src="manual" selected="1">NNIS2-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930701-150-p2s1w6">
 <src.rf>manual</src.rf>
@@ -261,7 +264,10 @@
 <LM>w#w-mf930701-150-p2s1w25</LM>
 </w.rf>
 <form>OAJ</form>
-<tag lemma="OAJ-1_:B_;K_^(Organizace_africké_jednoty)" src="auto" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="OAJ-1_:B_;K_^(Organizace_africké_jednoty)" src="auto">NNFXX-----A---8</AM>
+<AM lemma="OAJ-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-mf930701-150-p2s1w26">
 <src.rf>manual</src.rf>
@@ -343,7 +349,10 @@
 <LM>w#w-mf930701-150-p2s2w8</LM>
 </w.rf>
 <form>OAJ</form>
-<tag lemma="OAJ-1_:B_;K_^(Organizace_africké_jednoty)" src="auto" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="OAJ-1_:B_;K_^(Organizace_africké_jednoty)" src="auto">NNFXX-----A---8</AM>
+<AM lemma="OAJ-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-mf930701-150-p2s2w9">
 <src.rf>manual</src.rf>
@@ -407,7 +416,10 @@
 <LM>w#w-mf930701-150-p2s2w16</LM>
 </w.rf>
 <form>přijali</form>
-<tag lemma="přijmout" src="auto" selected="1">VpMP---XR-AA---</tag>
+<tag>
+<AM lemma="přijmout" src="auto">VpMP---XR-AA---</AM>
+<AM lemma="přijmout_:W" src="manual" selected="1">VpMP---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-mf930701-150-p2s2w17">
 <src.rf>manual</src.rf>

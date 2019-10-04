@@ -178,6 +178,7 @@
 <AM lemma="International-1_;K" src="orig">NNIS1-----A----</AM>
 <AM lemma="International_,t" src="auto" recommended="1">NNISX-----A----</AM>
 <AM lemma="international_,t" src="auto">AAXXX----1A----</AM>
+<AM lemma="International-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-mf920902-110-p1s2w17">

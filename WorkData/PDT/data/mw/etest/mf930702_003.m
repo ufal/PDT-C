@@ -70,7 +70,7 @@
 </w.rf>
 <form>r</form>
 <tag>
-<AM lemma="r-99_:B_;S" src="orig">NNXXX-----A---8</AM>
+<AM lemma="r-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</AM>
 <AM lemma="r-3_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
 <AM lemma="r-8_:B_^(ost._zkratka)" src="auto">XX------------8</AM>
 <AM lemma="režie_:B" src="auto" recommended="1">NNFXX-----A---8</AM>
@@ -568,7 +568,10 @@
 <LM>w#w-mf930702-003-p2s3w15</LM>
 </w.rf>
 <form>li</form>
-<tag lemma="li-1" src="auto" selected="1">TT-------------</tag>
+<tag>
+<AM lemma="li-1" src="auto">TT-------------</AM>
+<AM lemma="li-2" src="manual" selected="1">J,-------------</AM>
+</tag>
 </m>
 <m id="m-mf930702-003-p2s3w16">
 <src.rf>manual</src.rf>

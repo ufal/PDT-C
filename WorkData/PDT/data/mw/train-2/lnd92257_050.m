@@ -121,7 +121,10 @@
 <LM>w#w-lnd92257-050-p3s2w3</LM>
 </w.rf>
 <form>Süleyman</form>
-<tag lemma="Süleyman_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Süleyman_;S" src="orig">NNMS1-----A----</AM>
+<AM lemma="Süleyman_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92257-050-p3s2w4">
 <src.rf>manual</src.rf>
@@ -193,7 +196,10 @@
 <LM>w#w-lnd92257-050-p3s2w12</LM>
 </w.rf>
 <form>PKK</form>
-<tag lemma="PKK-1_:B_;K_;p_^(Strana_kurdských_pracujících)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="PKK-1_:B_;K_;p_^(Strana_kurdských_pracujících)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="PKK-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd92257-050-p3s2w13">
 <src.rf>manual</src.rf>
@@ -467,7 +473,10 @@
 <LM>w#w-lnd92257-050-p3s3w19</LM>
 </w.rf>
 <form>jen</form>
-<tag lemma="jen-1" src="auto" selected="1">TT-------------</tag>
+<tag>
+<AM lemma="jen-1" src="auto">TT-------------</AM>
+<AM lemma="jen-4_^(pouze)" src="manual" selected="1">Db-------------</AM>
+</tag>
 </m>
 <m id="m-lnd92257-050-p3s3w20">
 <src.rf>manual</src.rf>
@@ -951,7 +960,10 @@
 <LM>w#w-lnd92257-050-p3s5w13</LM>
 </w.rf>
 <form>PKK</form>
-<tag lemma="PKK-1_:B_;K_;p_^(Strana_kurdských_pracujících)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="PKK-1_:B_;K_;p_^(Strana_kurdských_pracujících)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="PKK-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd92257-050-p3s5w14">
 <src.rf>manual</src.rf>
@@ -1057,7 +1069,10 @@
 <LM>w#w-lnd92257-050-p3s6w1</LM>
 </w.rf>
 <form>PKK</form>
-<tag lemma="PKK-1_:B_;K_;p_^(Strana_kurdských_pracujících)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="PKK-1_:B_;K_;p_^(Strana_kurdských_pracujících)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="PKK-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd92257-050-p3s6w2">
 <src.rf>manual</src.rf>

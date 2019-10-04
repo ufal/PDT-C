@@ -135,7 +135,10 @@
 <LM>w#w-ln94203-124-p2s1Bw3</LM>
 </w.rf>
 <form>ber</form>
-<tag lemma="ber-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="ber-99_:B_;S" src="orig">NNXXX-----A---8</AM>
+<AM lemma="ber-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94203-124-p2s1Bw4">
 <src.rf>manual</src.rf>
@@ -435,7 +438,10 @@
 <LM>w#w-ln94203-124-p2s2w10</LM>
 </w.rf>
 <form>vyhrát</form>
-<tag lemma="vyhrát" src="orig" selected="1">Vf--------A----</tag>
+<tag>
+<AM lemma="vyhrát" src="orig">Vf--------A----</AM>
+<AM lemma="vyhrát_:W" src="manual" selected="1">Vf--------A----</AM>
+</tag>
 </m>
 <m id="m-ln94203-124-p2s2w11">
 <src.rf>manual</src.rf>
@@ -467,7 +473,10 @@
 <LM>w#w-ln94203-124-p2s2w14</LM>
 </w.rf>
 <form>prohráli</form>
-<tag lemma="prohrát" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag>
+<AM lemma="prohrát" src="orig">VpMP---XR-AA---</AM>
+<AM lemma="prohrát_:W" src="manual" selected="1">VpMP---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-ln94203-124-p2s2w15">
 <src.rf>manual</src.rf>
@@ -591,7 +600,7 @@
 <form>nalezneme</form>
 <tag>
 <AM lemma="naleznout" src="orig">VB-P---1P-AA---</AM>
-<AM lemma="nalézt-2" src="auto" recommended="1">VB-P---1P-AA---</AM>
+<AM lemma="nalézt-2" src="auto" recommended="1" selected="1">VB-P---1P-AA---</AM>
 </tag>
 </m>
 <m id="m-ln94203-124-p2s3w15">
@@ -754,7 +763,10 @@
 <LM>w#w-ln94203-124-p3s1w6</LM>
 </w.rf>
 <form>úvodního</form>
-<tag lemma="úvodní_,s" src="auto" selected="1">AAIS2----1A----</tag>
+<tag>
+<AM lemma="úvodní_,s" src="auto">AAIS2----1A----</AM>
+<AM lemma="úvodní" src="manual" selected="1">AAIS2----1A----</AM>
+</tag>
 </m>
 <m id="m-ln94203-124-p3s1w7">
 <src.rf>manual</src.rf>
@@ -876,7 +888,10 @@
 <LM>w#w-ln94203-124-p3s2w11</LM>
 </w.rf>
 <form>chtěli</form>
-<tag lemma="chtít" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag>
+<AM lemma="chtít" src="orig">VpMP---XR-AA---</AM>
+<AM lemma="chtít_:T" src="manual" selected="1">VpMP---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-ln94203-124-p3s2w12">
 <src.rf>manual</src.rf>
@@ -1030,7 +1045,10 @@
 <LM>w#w-ln94203-124-p3s3w16</LM>
 </w.rf>
 <form>řekl</form>
-<tag lemma="říci" src="auto" selected="1">VpYS---XR-AA---</tag>
+<tag>
+<AM lemma="říci" src="auto">VpYS---XR-AA---</AM>
+<AM lemma="říci_:W" src="manual" selected="1">VpYS---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-ln94203-124-p3s3w17">
 <src.rf>manual</src.rf>
@@ -1340,7 +1358,10 @@
 <LM>w#w-ln94203-124-p3s6w1</LM>
 </w.rf>
 <form>Vedeme</form>
-<tag lemma="vést" src="auto" selected="1">VB-P---1P-AA---</tag>
+<tag>
+<AM lemma="vést" src="auto">VB-P---1P-AA---</AM>
+<AM lemma="vést_:T" src="manual" selected="1">VB-P---1P-AA---</AM>
+</tag>
 </m>
 <m id="m-ln94203-124-p3s6w2">
 <src.rf>manual</src.rf>
@@ -1812,7 +1833,10 @@
 <LM>w#w-ln94203-124-p4s2w1</LM>
 </w.rf>
 <form>Měli</form>
-<tag lemma="mít" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag>
+<AM lemma="mít" src="orig">VpMP---XR-AA---</AM>
+<AM lemma="mít_:T" src="manual" selected="1">VpMP---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-ln94203-124-p4s2w2">
 <src.rf>manual</src.rf>
@@ -1828,7 +1852,10 @@
 <LM>w#w-ln94203-124-p4s2w3</LM>
 </w.rf>
 <form>sice</form>
-<tag lemma="sice-2" src="auto" selected="1">Db-------------</tag>
+<tag>
+<AM lemma="sice-2" src="auto">Db-------------</AM>
+<AM lemma="sice-1_^(spojka;_připouští_se_určitá_fakta)" src="manual" selected="1">J^-------------</AM>
+</tag>
 </m>
 <m id="m-ln94203-124-p4s2w4">
 <src.rf>manual</src.rf>
@@ -2686,7 +2713,7 @@
 <form>raději</form>
 <tag>
 <AM lemma="raději" src="orig">Dg-------2A----</AM>
-<AM lemma="rád" src="auto" recommended="1">Dg-------2A----</AM>
+<AM lemma="rád" src="auto" recommended="1" selected="1">Dg-------2A----</AM>
 </tag>
 </m>
 <m id="m-ln94203-124-p4s6w4">
@@ -3115,7 +3142,10 @@
 <LM>w#w-ln94203-124-p4s8w10</LM>
 </w.rf>
 <form>vnese</form>
-<tag lemma="vnést" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag>
+<AM lemma="vnést" src="orig">VB-S---3P-AA---</AM>
+<AM lemma="vnést_:W" src="manual" selected="1">VB-S---3P-AA---</AM>
+</tag>
 </m>
 <m id="m-ln94203-124-p4s8w11">
 <src.rf>manual</src.rf>
@@ -3191,7 +3221,7 @@
 <form>Snad</form>
 <tag>
 <AM lemma="snad" src="orig">Db-------------</AM>
-<AM lemma="snad" src="auto" recommended="1">TT-------------</AM>
+<AM lemma="snad" src="auto" recommended="1" selected="1">TT-------------</AM>
 </tag>
 </m>
 <m id="m-ln94203-124-p4s9w2">

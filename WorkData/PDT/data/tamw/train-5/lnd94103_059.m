@@ -341,7 +341,10 @@
 <LM>w#w-lnd94103-059-p1s2w5</LM>
 </w.rf>
 <form>počátkem</form>
-<tag lemma="počátek" src="orig" selected="1">NNIS7-----A----</tag>
+<tag>
+<AM lemma="počátek" src="orig">NNIS7-----A----</AM>
+<AM lemma="počátkem" src="manual" selected="1">RR--2----------</AM>
+</tag>
 </m>
 <m id="m-lnd94103-059-p1s2w6">
 <src.rf>manual</src.rf>
@@ -429,7 +432,10 @@
 <LM>w#w-lnd94103-059-p1s2w16</LM>
 </w.rf>
 <form>ARENA</form>
-<tag lemma="ARENA-1_:B_;K_,t_^(Alianca_Renovadora_Nacional)" src="auto" selected="1">NNNXX-----A---8</tag>
+<tag>
+<AM lemma="ARENA-1_:B_;K_,t_^(Alianca_Renovadora_Nacional)" src="auto">NNNXX-----A---8</AM>
+<AM lemma="ARENA-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd94103-059-p1s2w17">
 <src.rf>manual</src.rf>
@@ -568,6 +574,8 @@
 <tag>
 <AM lemma="FMLN_:B_;K_,t" src="orig">NNFXX-----A---8</AM>
 <AM lemma="FMLN_:B_;K" src="auto" recommended="1">NNXXX-----A---8</AM>
+<AM lemma="FMLN_:B" src="manual">NNXXX-----A---8</AM>
+<AM lemma="FMLN-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94103-059-p1s2w34">
@@ -610,7 +618,10 @@
 <LM>w#w-lnd94103-059-p1s3w3</LM>
 </w.rf>
 <form>stal</form>
-<tag lemma="stát-2_^(něco_se_přihodilo)" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag>
+<AM lemma="stát-2_^(něco_se_přihodilo)" src="orig">VpYS---XR-AA---</AM>
+<AM lemma="stát-2_^(stanu_staneš)" src="manual" selected="1">VpYS---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-lnd94103-059-p1s3w4">
 <src.rf>manual</src.rf>
@@ -708,7 +719,10 @@
 <LM>w#w-lnd94103-059-p1s4w1</LM>
 </w.rf>
 <form>Prostřednictvím</form>
-<tag lemma="prostřednictví" src="orig" selected="1">NNNS7-----A----</tag>
+<tag>
+<AM lemma="prostřednictví" src="orig">NNNS7-----A----</AM>
+<AM lemma="prostřednictvím" src="manual" selected="1">RR--2----------</AM>
+</tag>
 </m>
 <m id="m-lnd94103-059-p1s4w2">
 <src.rf>manual</src.rf>
@@ -722,6 +736,7 @@
 <AM lemma="pětimiliónový_,x" src="auto">AAMS2----1A----</AM>
 <AM lemma="pětimiliónový_,x" src="auto">AAMS4----1A----</AM>
 <AM lemma="pětimiliónový_,x" src="auto">AANS2----1A----</AM>
+<AM lemma="pětimilionový_,s_^(^DD**pětimiliónový)" src="manual" selected="1">AANS2----1A----</AM>
 </tag>
 </m>
 <m id="m-lnd94103-059-p1s4w3">
@@ -749,7 +764,7 @@
 <tag>
 <AM lemma="tady" src="orig">Db------------1</AM>
 <AM lemma="ten" src="auto" recommended="1">PDFS4----------</AM>
-<AM lemma="tu" src="auto">Db-------------</AM>
+<AM lemma="tu" src="auto" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m-lnd94103-059-p1s4w6">
@@ -785,6 +800,7 @@
 <tag>
 <AM lemma="USA_;G" src="orig">NNIPX-----A----</AM>
 <AM lemma="USA_:B_;K_,t_^(United_States_of_America)" src="auto" recommended="1">NNIPX-----A---8</AM>
+<AM lemma="USA_:B_;K_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-lnd94103-059-p1s4w10">
@@ -801,7 +817,11 @@
 <LM>w#w-lnd94103-059-p1s4w11</LM>
 </w.rf>
 <form>SSSR</form>
-<tag lemma="SSSR_:B_;G_^(Svaz_sov._socialist._republik)" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="SSSR_:B_;G_^(Svaz_sov._socialist._republik)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="SSSR-88_:B" src="manual">NNXXX-----A---8</AM>
+<AM lemma="SSSR_:B_;G_^(Svaz_sov._socialist._republik)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd94103-059-p1s4w12">
 <src.rf>manual</src.rf>
@@ -819,7 +839,10 @@
 <LM>w#w-lnd94103-059-p1s5w1</LM>
 </w.rf>
 <form>OSN</form>
-<tag lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd94103-059-p1s5w2">
 <src.rf>manual</src.rf>
@@ -1029,7 +1052,10 @@
 <LM>w#w-lnd94103-059-p1s6w5</LM>
 </w.rf>
 <form>ARENA</form>
-<tag lemma="ARENA-1_:B_;K_,t_^(Alianca_Renovadora_Nacional)" src="auto" selected="1">NNNXX-----A---8</tag>
+<tag>
+<AM lemma="ARENA-1_:B_;K_,t_^(Alianca_Renovadora_Nacional)" src="auto">NNNXX-----A---8</AM>
+<AM lemma="ARENA-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd94103-059-p1s6w6">
 <src.rf>manual</src.rf>
@@ -1056,6 +1082,8 @@
 <tag>
 <AM lemma="FMLN_:B_;K_,t" src="orig">NNFXX-----A---8</AM>
 <AM lemma="FMLN_:B_;K" src="auto" recommended="1">NNXXX-----A---8</AM>
+<AM lemma="FMLN_:B" src="manual">NNXXX-----A---8</AM>
+<AM lemma="FMLN-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94103-059-p1s6w9">
@@ -1096,7 +1124,10 @@
 <LM>w#w-lnd94103-059-p1s6w13</LM>
 </w.rf>
 <form>stranu</form>
-<tag lemma="strana-2_^(politická)" src="orig" selected="1">NNFS4-----A----</tag>
+<tag>
+<AM lemma="strana-2_^(politická)" src="orig">NNFS4-----A----</AM>
+<AM lemma="strana" src="manual" selected="1">NNFS4-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd94103-059-p1s6w14">
 <src.rf>manual</src.rf>
@@ -1356,7 +1387,10 @@
 <LM>w#w-lnd94103-059-p1s8w19</LM>
 </w.rf>
 <form>ARENA</form>
-<tag lemma="ARENA-1_:B_;K_,t_^(Alianca_Renovadora_Nacional)" src="auto" selected="1">NNNXX-----A---8</tag>
+<tag>
+<AM lemma="ARENA-1_:B_;K_,t_^(Alianca_Renovadora_Nacional)" src="auto">NNNXX-----A---8</AM>
+<AM lemma="ARENA-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd94103-059-p1s8w20">
 <src.rf>manual</src.rf>
@@ -1380,7 +1414,10 @@
 <LM>w#w-lnd94103-059-p1s8w22</LM>
 </w.rf>
 <form>Rubén</form>
-<tag lemma="Rubén_;S" src="auto" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Rubén_;S" src="auto">NNMS1-----A----</AM>
+<AM lemma="Rubén_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd94103-059-p1s8w23">
 <src.rf>manual</src.rf>
@@ -1407,6 +1444,8 @@
 <tag>
 <AM lemma="FMLN_:B_;K_,t" src="orig">NNFXX-----A---8</AM>
 <AM lemma="FMLN_:B_;K" src="auto" recommended="1">NNXXX-----A---8</AM>
+<AM lemma="FMLN_:B" src="manual">NNXXX-----A---8</AM>
+<AM lemma="FMLN-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94103-059-p1s8w26">
@@ -1611,7 +1650,10 @@
 <LM>w#w-lnd94103-059-p1s10w12</LM>
 </w.rf>
 <form>ani</form>
-<tag lemma="ani-1" src="auto" selected="1">J^-------------</tag>
+<tag>
+<AM lemma="ani-1" src="auto">J^-------------</AM>
+<AM lemma="ani-2" src="manual" selected="1">TT-------------</AM>
+</tag>
 </m>
 <m id="m-lnd94103-059-p1s10w13">
 <src.rf>manual</src.rf>
@@ -1744,6 +1786,8 @@
 <tag>
 <AM lemma="FMLN_:B_;K_,t" src="orig">NNFXX-----A---8</AM>
 <AM lemma="FMLN_:B_;K" src="auto" recommended="1">NNXXX-----A---8</AM>
+<AM lemma="FMLN_:B" src="manual">NNXXX-----A---8</AM>
+<AM lemma="FMLN-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94103-059-p1s11Aw13">
@@ -1938,7 +1982,10 @@
 <LM>w#w-lnd94103-059-p1s11Bw8</LM>
 </w.rf>
 <form>jen</form>
-<tag lemma="jen-1" src="auto" selected="1">TT-------------</tag>
+<tag>
+<AM lemma="jen-1" src="auto">TT-------------</AM>
+<AM lemma="jen-4_^(pouze)" src="manual" selected="1">Db-------------</AM>
+</tag>
 </m>
 <m id="m-lnd94103-059-p1s11Bw9">
 <src.rf>manual</src.rf>
@@ -1996,7 +2043,10 @@
 <LM>w#w-lnd94103-059-p1s12w2</LM>
 </w.rf>
 <form>strana</form>
-<tag lemma="strana-2_^(politická)" src="orig" selected="1">NNFS1-----A----</tag>
+<tag>
+<AM lemma="strana-2_^(politická)" src="orig">NNFS1-----A----</AM>
+<AM lemma="strana" src="manual" selected="1">NNFS1-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd94103-059-p1s12w3">
 <src.rf>manual</src.rf>
@@ -2129,6 +2179,8 @@
 <tag>
 <AM lemma="FMLN_:B_;K_,t" src="orig">NNFXX-----A---8</AM>
 <AM lemma="FMLN_:B_;K" src="auto" recommended="1">NNXXX-----A---8</AM>
+<AM lemma="FMLN_:B" src="manual">NNXXX-----A---8</AM>
+<AM lemma="FMLN-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94103-059-p1s13w2">
@@ -2187,7 +2239,10 @@
 <LM>w#w-lnd94103-059-p1s14w2</LM>
 </w.rf>
 <form>nedávno</form>
-<tag lemma="nedávno-1" src="auto" selected="1">Db-------------</tag>
+<tag>
+<AM lemma="nedávno-1" src="auto">Db-------------</AM>
+<AM lemma="dávno-1" src="manual" selected="1">Dg-------1N----</AM>
+</tag>
 </m>
 <m id="m-lnd94103-059-p1s14w3">
 <src.rf>manual</src.rf>
@@ -2195,7 +2250,10 @@
 <LM>w#w-lnd94103-059-p1s14w3</LM>
 </w.rf>
 <form>řekl</form>
-<tag lemma="říci" src="auto" selected="1">VpYS---XR-AA---</tag>
+<tag>
+<AM lemma="říci" src="auto">VpYS---XR-AA---</AM>
+<AM lemma="říci_:W" src="manual" selected="1">VpYS---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-lnd94103-059-p1s14w4">
 <src.rf>manual</src.rf>
@@ -2251,7 +2309,10 @@
 <LM>w#w-lnd94103-059-p1s14w10</LM>
 </w.rf>
 <form>Ángel</form>
-<tag lemma="Ángel_;Y_,t" src="auto" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Ángel_;Y_,t" src="auto">NNMS1-----A----</AM>
+<AM lemma="Ángel_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd94103-059-p1s14w11">
 <src.rf>manual</src.rf>
@@ -2291,7 +2352,10 @@
 <LM>w#w-lnd94103-059-p1s14w15</LM>
 </w.rf>
 <form>strany</form>
-<tag lemma="strana-3_^(u_soudu,_na_úřadě,_smluvní_strany;_na_něčí_straně)" src="orig" selected="1">NNFP1-----A----</tag>
+<tag>
+<AM lemma="strana-3_^(u_soudu,_na_úřadě,_smluvní_strany;_na_něčí_straně)" src="orig">NNFP1-----A----</AM>
+<AM lemma="strana" src="manual" selected="1">NNFP1-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd94103-059-p1s14w16">
 <src.rf>manual</src.rf>
@@ -2405,7 +2469,10 @@
 <LM>w#w-lnd94103-059-p1s15w8</LM>
 </w.rf>
 <form>tzv</form>
-<tag lemma="takzvaný_:B" src="orig" selected="1">AAXXX----1A---8</tag>
+<tag>
+<AM lemma="takzvaný_:B" src="orig">AAXXX----1A---8</AM>
+<AM lemma="takzvaný" src="manual" selected="1">AAXXX----1A---8</AM>
+</tag>
 </m>
 <m id="m-lnd94103-059-p1s15w9">
 <src.rf>manual</src.rf>
@@ -2795,7 +2862,10 @@
 <LM>w#w-lnd94103-059-p1s18w7</LM>
 </w.rf>
 <form>jako</form>
-<tag lemma="jako-1" src="auto" selected="1">J,-------------</tag>
+<tag>
+<AM lemma="jako-1" src="auto" selected="1">J,-------------</AM>
+<AM lemma="jako-2" src="manual">Db-------------</AM>
+</tag>
 </m>
 <m id="m-lnd94103-059-p1s18w8">
 <src.rf>manual</src.rf>
@@ -3167,7 +3237,10 @@
 <LM>w#w-lnd94103-059-p1s20w25</LM>
 </w.rf>
 <form>ARENA</form>
-<tag lemma="ARENA-1_:B_;K_,t_^(Alianca_Renovadora_Nacional)" src="auto" selected="1">NNNXX-----A---8</tag>
+<tag>
+<AM lemma="ARENA-1_:B_;K_,t_^(Alianca_Renovadora_Nacional)" src="auto">NNNXX-----A---8</AM>
+<AM lemma="ARENA-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd94103-059-p1s20w26">
 <src.rf>manual</src.rf>

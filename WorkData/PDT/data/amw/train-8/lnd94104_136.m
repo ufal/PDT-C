@@ -206,7 +206,10 @@
 <LM>w#w-lnd94104-136-p1s1Bw18</LM>
 </w.rf>
 <form>zemřelo</form>
-<tag lemma="zemřít" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag>
+<AM lemma="zemřít" src="orig">VpNS---XR-AA---</AM>
+<AM lemma="zemřít_:W" src="manual" selected="1">VpNS---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-lnd94104-136-p1s1Bw19">
 <src.rf>manual</src.rf>
@@ -722,7 +725,10 @@
 <LM>w#w-lnd94104-136-p1s4w11</LM>
 </w.rf>
 <form>antibiotika</form>
-<tag lemma="antibiotikum_;U" src="orig" selected="1">NNNP1-----A----</tag>
+<tag>
+<AM lemma="antibiotikum_;U" src="orig">NNNP1-----A----</AM>
+<AM lemma="antibiotikum" src="manual" selected="1">NNNP1-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd94104-136-p1s4w12">
 <src.rf>manual</src.rf>
@@ -934,7 +940,10 @@
 <LM>w#w-lnd94104-136-p1s6w8</LM>
 </w.rf>
 <form>zaslat</form>
-<tag lemma="zaslat" src="orig" selected="1">Vf--------A----</tag>
+<tag>
+<AM lemma="zaslat" src="orig">Vf--------A----</AM>
+<AM lemma="zaslat_:W" src="manual" selected="1">Vf--------A----</AM>
+</tag>
 </m>
 <m id="m-lnd94104-136-p1s6w9">
 <src.rf>manual</src.rf>
@@ -997,6 +1006,8 @@
 <AM lemma="SOS_:B" src="auto">TT------------8</AM>
 <AM lemma="sos-1" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="sos-1" src="auto">NNIS4-----A----</AM>
+<AM lemma="SOS-2_:B" src="manual">NNXXX-----A---8</AM>
+<AM lemma="SOS-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94104-136-p1s7w5">
@@ -1069,7 +1080,10 @@
 <LM>w#w-lnd94104-136-p1s7w13</LM>
 </w.rf>
 <form>ČT</form>
-<tag lemma="ČT_:B_;K_^(Česká_televize)" src="auto" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="ČT_:B_;K_^(Česká_televize)" src="auto">NNXXX-----A---8</AM>
+<AM lemma="ČT_:B_;K_^(Česká_televize)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd94104-136-p1s7w14">
 <src.rf>manual</src.rf>

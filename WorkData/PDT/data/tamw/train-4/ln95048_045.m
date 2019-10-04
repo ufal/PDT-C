@@ -347,6 +347,7 @@
 <AM lemma="postmodernizmus" src="auto">NNIS2-----A----</AM>
 <AM lemma="postmodernizmus" src="auto" recommended="1">NNIS3-----A----</AM>
 <AM lemma="postmodernizmus" src="auto">NNIS6-----A----</AM>
+<AM lemma="postmodernismus_,s_^(^DD**postmodernizmus)" src="manual" selected="1">NNIS3-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95048-045-p2s2w42">
@@ -371,7 +372,11 @@
 <LM>w#w-ln95048-045-p2s2w44</LM>
 </w.rf>
 <form>Odeon</form>
-<tag lemma="Odeon_;Y" src="auto" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="Odeon_;Y" src="auto">NNIS1-----A----</AM>
+<AM lemma="Odeon_;K" src="manual">NNIS1-----A----</AM>
+<AM lemma="Odeon-2_;K" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95048-045-p2s2w45a">
 <src.rf>manual</src.rf>
@@ -389,7 +394,10 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>H</form>
-<tag lemma="h-3_^(označení_pomocí_písmene)" src="orig" selected="1">NNNXX-----A----</tag>
+<tag>
+<AM lemma="h-3_^(označení_pomocí_písmene)" src="orig">NNNXX-----A----</AM>
+<AM lemma="H-33_^(označení_pomocí_písmene)" src="manual" selected="1">NNNXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95048-045-p2s2w45c">
 <src.rf>manual</src.rf>
@@ -398,7 +406,10 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>and</form>
-<tag lemma="and-1_,t_^(obv._souč._anglických_názvů,_&quot;a&quot;)" src="orig" selected="1">J^-------------</tag>
+<tag>
+<AM lemma="and-1_,t_^(obv._souč._anglických_názvů,_&quot;a&quot;)" src="orig">J^-------------</AM>
+<AM lemma="and-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln95048-045-p2s2w46">
 <src.rf>manual</src.rf>
@@ -406,7 +417,10 @@
 <LM>w#w-ln95048-045-p2s2w46</LM>
 </w.rf>
 <form>H</form>
-<tag lemma="h-3_^(označení_pomocí_písmene)" src="orig" selected="1">NNNXX-----A----</tag>
+<tag>
+<AM lemma="h-3_^(označení_pomocí_písmene)" src="orig">NNNXX-----A----</AM>
+<AM lemma="H-33_^(označení_pomocí_písmene)" src="manual" selected="1">NNNXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95048-045-p2s2w47">
 <src.rf>manual</src.rf>
@@ -711,6 +725,7 @@
 <tag>
 <AM lemma="USA_;G" src="orig">NNIPX-----A----</AM>
 <AM lemma="USA_:B_;K_,t_^(United_States_of_America)" src="auto" recommended="1">NNIPX-----A---8</AM>
+<AM lemma="USA_:B_;K_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95048-045-p2s5w15">
@@ -955,7 +970,10 @@
 <LM>w#w-ln95048-045-p2s7w6</LM>
 </w.rf>
 <form>stojí</form>
-<tag lemma="stát-3_^(někdo/něco_stojí,_např._na_nohou)" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag>
+<AM lemma="stát-3_^(někdo/něco_stojí,_např._na_nohou)" src="orig">VB-S---3P-AA---</AM>
+<AM lemma="stát-3_:T_^(někdo/něco_stojí,_např._na_nohou)" src="manual" selected="1">VB-S---3P-AA---</AM>
+</tag>
 </m>
 <m id="m-ln95048-045-p2s7w7">
 <src.rf>manual</src.rf>
@@ -1127,7 +1145,10 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>odnesl</form>
-<tag lemma="odnést" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag>
+<AM lemma="odnést" src="orig">VpYS---XR-AA---</AM>
+<AM lemma="odnést_:W" src="manual" selected="1">VpYS---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-ln95048-045-p2s7w28">
 <src.rf>manual</src.rf>
@@ -1239,7 +1260,10 @@
 <LM>w#w-ln95048-045-p2s7w41</LM>
 </w.rf>
 <form>Trumana</form>
-<tag lemma="Truman_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag>
+<AM lemma="Truman_;S" src="orig">NNMS2-----A----</AM>
+<AM lemma="Truman_;S_;Y" src="manual" selected="1">NNMS2-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95048-045-p2s7w42">
 <src.rf>manual</src.rf>
@@ -1255,7 +1279,10 @@
 <LM>w#w-ln95048-045-p2s7w43</LM>
 </w.rf>
 <form>dokázal</form>
-<tag lemma="dokázat" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag>
+<AM lemma="dokázat" src="orig">VpYS---XR-AA---</AM>
+<AM lemma="dokázat_:W" src="manual" selected="1">VpYS---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-ln95048-045-p2s7w44">
 <src.rf>manual</src.rf>
@@ -1271,7 +1298,10 @@
 <LM>w#w-ln95048-045-p2s7w45</LM>
 </w.rf>
 <form>porvat</form>
-<tag lemma="porvat" src="orig" selected="1">Vf--------A----</tag>
+<tag>
+<AM lemma="porvat" src="orig">Vf--------A----</AM>
+<AM lemma="porvat_:W" src="manual" selected="1">Vf--------A----</AM>
+</tag>
 </m>
 <m id="m-ln95048-045-p2s7w46">
 <src.rf>manual</src.rf>
@@ -1461,7 +1491,10 @@
 <LM>w#w-ln95048-045-p2s8w13</LM>
 </w.rf>
 <form>Mc</form>
-<tag lemma="Mc_;S" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="Mc_;S" src="orig">AAXXX----1A----</AM>
+<AM lemma="Mc-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln95048-045-p2s8w14">
 <src.rf>manual</src.rf>
@@ -1493,7 +1526,10 @@
 <LM>w#w-ln95048-045-p2s8w17</LM>
 </w.rf>
 <form>Zkuste</form>
-<tag lemma="zkusit" src="orig" selected="1">Vi-P---2--A----</tag>
+<tag>
+<AM lemma="zkusit" src="orig">Vi-P---2--A----</AM>
+<AM lemma="zkusit_:W" src="manual" selected="1">Vi-P---2--A----</AM>
+</tag>
 </m>
 <m id="m-ln95048-045-p2s8w18">
 <src.rf>manual</src.rf>
@@ -1501,7 +1537,10 @@
 <LM>w#w-ln95048-045-p2s8w18</LM>
 </w.rf>
 <form>psát</form>
-<tag lemma="psát" src="orig" selected="1">Vf--------A----</tag>
+<tag>
+<AM lemma="psát" src="orig">Vf--------A----</AM>
+<AM lemma="psát_:T" src="manual" selected="1">Vf--------A----</AM>
+</tag>
 </m>
 <m id="m-ln95048-045-p2s8w19">
 <src.rf>manual</src.rf>
@@ -1550,7 +1589,10 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>prožil</form>
-<tag lemma="prožít" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag>
+<AM lemma="prožít" src="orig">VpYS---XR-AA---</AM>
+<AM lemma="prožít_:W" src="manual" selected="1">VpYS---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-ln95048-045-p2s8w25">
 <src.rf>manual</src.rf>
@@ -1579,7 +1621,7 @@
 <tag>
 <AM lemma="netřeba-1" src="orig">ACNS------N----</AM>
 <AM lemma="Netřeba_;G" src="auto" recommended="1">NNFS1-----A----</AM>
-<AM lemma="netřeba-2" src="auto">Db-------------</AM>
+<AM lemma="netřeba-2" src="auto" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m-ln95048-045-p2s14w2">

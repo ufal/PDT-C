@@ -61,7 +61,10 @@
 <LM>w#w-lnd91301-031-p3s1w1</LM>
 </w.rf>
 <form>M</form>
-<tag lemma="M-0_:B_;Y" src="orig" selected="1">NNMXX-----A---8</tag>
+<tag>
+<AM lemma="M-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
+<AM lemma="M-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd91301-031-p3s1w2">
 <src.rf>manual</src.rf>
@@ -393,7 +396,10 @@
 <LM>w#w-lnd91301-031-p5s1w32</LM>
 </w.rf>
 <form>ČSFR</form>
-<tag lemma="ČSFR-1_:B_;G_^(Čs._federativní_republika)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ČSFR-1_:B_;G_^(Čs._federativní_republika)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČSFR-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd91301-031-p5s1w33">
 <src.rf>manual</src.rf>
@@ -660,7 +666,10 @@
 <LM>w#w-lnd91301-031-p5s2w9</LM>
 </w.rf>
 <form>M</form>
-<tag lemma="M-0_:B_;Y" src="orig" selected="1">NNMXX-----A---8</tag>
+<tag>
+<AM lemma="M-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
+<AM lemma="M-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd91301-031-p5s2w10">
 <src.rf>manual</src.rf>
@@ -742,7 +751,10 @@
 <LM>w#w-lnd91301-031-p5s3w6</LM>
 </w.rf>
 <form>GP</form>
-<tag lemma="GP_:B_;K_^(Grand_Prix)" src="auto" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="GP_:B_;K_^(Grand_Prix)" src="auto">NNFXX-----A---8</AM>
+<AM lemma="GP-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd91301-031-p5s3w7">
 <src.rf>manual</src.rf>
@@ -1281,6 +1293,7 @@
 <tag>
 <AM lemma="Gn-98" src="orig">NNXXX-----A----</AM>
 <AM lemma="Gnaeus_:B_;Y_,t" src="auto" recommended="1">NNMXX-----A---8</AM>
+<AM lemma="Gn-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-lnd91301-031-p5s3w75">
@@ -1379,7 +1392,10 @@
 <LM>w#w-lnd91301-031-p5s4w1</LM>
 </w.rf>
 <form>M</form>
-<tag lemma="M-0_:B_;Y" src="orig" selected="1">NNMXX-----A---8</tag>
+<tag>
+<AM lemma="M-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
+<AM lemma="M-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd91301-031-p5s4w2">
 <src.rf>manual</src.rf>

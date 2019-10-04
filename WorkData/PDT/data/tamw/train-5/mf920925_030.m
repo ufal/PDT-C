@@ -64,6 +64,7 @@
 <tag>
 <AM lemma="sob-99_:B_;S" src="orig">NNXXX-----A---8</AM>
 <AM lemma="sob" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="sob-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920925-030-p2s1w4">
@@ -106,7 +107,10 @@
 <LM>w#w-mf920925-030-p2s2w3</LM>
 </w.rf>
 <form>BHT</form>
-<tag lemma="BHT_:B" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="BHT_:B" src="orig">NNIXX-----A---8</AM>
+<AM lemma="BHT-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920925-030-p2s2w4">
 <src.rf>manual</src.rf>
@@ -210,7 +214,10 @@
 <LM>w#w-mf920925-030-p2s2w16</LM>
 </w.rf>
 <form>Stoličnaja</form>
-<tag lemma="Stoličnaja-1_,t_^(vodka)" src="orig" selected="1">NNFS1-----A----</tag>
+<tag>
+<AM lemma="Stoličnaja-1_,t_^(vodka)" src="orig">NNFS1-----A----</AM>
+<AM lemma="Stoličnaja-1_^(vodka)" src="manual" selected="1">NNFS1-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920925-030-p2s2w17">
 <src.rf>manual</src.rf>
@@ -420,7 +427,10 @@
 <LM>w#w-mf920925-030-p2s3w12</LM>
 </w.rf>
 <form>diterc</form>
-<tag lemma="diterciální_:B" src="orig" selected="1">AAXXX----1A---8</tag>
+<tag>
+<AM lemma="diterciální_:B" src="orig">AAXXX----1A---8</AM>
+<AM lemma="diterciální" src="manual" selected="1">AAXXX----1A---8</AM>
+</tag>
 </m>
 <m id="m-mf920925-030-p2s3w13">
 <src.rf>manual</src.rf>
@@ -460,7 +470,10 @@
 <LM>w#w-mf920925-030-p2s3w17</LM>
 </w.rf>
 <form>BHT</form>
-<tag lemma="BHT_:B" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="BHT_:B" src="orig">NNIXX-----A---8</AM>
+<AM lemma="BHT-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920925-030-p2s3w18">
 <src.rf>manual</src.rf>
@@ -752,7 +765,10 @@
 <LM>w#w-mf920925-030-p3s1w18</LM>
 </w.rf>
 <form>řekla</form>
-<tag lemma="říci" src="auto" selected="1">VpQW---XR-AA---</tag>
+<tag>
+<AM lemma="říci" src="auto">VpQW---XR-AA---</AM>
+<AM lemma="říci_:W" src="manual" selected="1">VpQW---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-mf920925-030-p3s1w19">
 <src.rf>manual</src.rf>
@@ -776,7 +792,10 @@
 <LM>w#w-mf920925-030-p3s1w21</LM>
 </w.rf>
 <form>BHT</form>
-<tag lemma="BHT_:B" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="BHT_:B" src="orig">NNIXX-----A---8</AM>
+<AM lemma="BHT-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920925-030-p3s1w22">
 <src.rf>manual</src.rf>
@@ -1136,7 +1155,10 @@
 <LM>w#w-mf920925-030-p4s1w2</LM>
 </w.rf>
 <form>BHT</form>
-<tag lemma="BHT_:B" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="BHT_:B" src="orig">NNIXX-----A---8</AM>
+<AM lemma="BHT-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920925-030-p4s1w3">
 <src.rf>manual</src.rf>
@@ -1414,7 +1436,10 @@
 <LM>w#w-mf920925-030-p4s4w2</LM>
 </w.rf>
 <form>BHT</form>
-<tag lemma="BHT_:B" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="BHT_:B" src="orig">NNIXX-----A---8</AM>
+<AM lemma="BHT-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920925-030-p4s4w3">
 <src.rf>manual</src.rf>
@@ -1496,7 +1521,10 @@
 <LM>w#w-mf920925-030-p4s5w4</LM>
 </w.rf>
 <form>Sojuzplodoimport</form>
-<tag lemma="Sojuzplodoimport_;K_,t" src="orig" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="Sojuzplodoimport_;K_,t" src="orig">NNIS1-----A----</AM>
+<AM lemma="Sojuzplodoimport_;K" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920925-030-p4s5w5">
 <src.rf>manual</src.rf>
@@ -1568,7 +1596,10 @@
 <LM>w#w-mf920925-030-p4s5w13</LM>
 </w.rf>
 <form>Stoličnaja</form>
-<tag lemma="Stoličnaja-1_,t_^(vodka)" src="orig" selected="1">NNFS1-----A----</tag>
+<tag>
+<AM lemma="Stoličnaja-1_,t_^(vodka)" src="orig">NNFS1-----A----</AM>
+<AM lemma="Stoličnaja-1_^(vodka)" src="manual" selected="1">NNFS1-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920925-030-p4s5w14">
 <src.rf>manual</src.rf>
@@ -1648,7 +1679,10 @@
 <LM>w#w-mf920925-030-p4s5w23</LM>
 </w.rf>
 <form>ČSFR</form>
-<tag lemma="ČSFR-1_:B_;G_^(Čs._federativní_republika)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ČSFR-1_:B_;G_^(Čs._federativní_republika)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČSFR-1_:B_;G_^(Čs._federativní_republika)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920925-030-p4s5w24">
 <src.rf>manual</src.rf>
@@ -1672,7 +1706,10 @@
 <LM>w#w-mf920925-030-p4s5w26</LM>
 </w.rf>
 <form>Stoličnaja</form>
-<tag lemma="Stoličnaja-1_,t_^(vodka)" src="orig" selected="1">NNFS1-----A----</tag>
+<tag>
+<AM lemma="Stoličnaja-1_,t_^(vodka)" src="orig">NNFS1-----A----</AM>
+<AM lemma="Stoličnaja-1_^(vodka)" src="manual" selected="1">NNFS1-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920925-030-p4s5w27">
 <src.rf>manual</src.rf>
@@ -1762,7 +1799,10 @@
 <LM>w#w-mf920925-030-p4s6w3</LM>
 </w.rf>
 <form>ČSFR</form>
-<tag lemma="ČSFR-1_:B_;G_^(Čs._federativní_republika)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ČSFR-1_:B_;G_^(Čs._federativní_republika)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČSFR-1_:B_;G_^(Čs._federativní_republika)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920925-030-p4s6w4">
 <src.rf>manual</src.rf>
@@ -1794,7 +1834,10 @@
 <LM>w#w-mf920925-030-p4s6w7</LM>
 </w.rf>
 <form>ani</form>
-<tag lemma="ani-1" src="auto" selected="1">J^-------------</tag>
+<tag>
+<AM lemma="ani-1" src="auto">J^-------------</AM>
+<AM lemma="ani-2" src="manual" selected="1">TT-------------</AM>
+</tag>
 </m>
 <m id="m-mf920925-030-p4s6w8">
 <src.rf>manual</src.rf>
@@ -1842,7 +1885,10 @@
 <LM>w#w-mf920925-030-p4s6w13</LM>
 </w.rf>
 <form>Lev</form>
-<tag lemma="lev" src="orig" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="lev" src="orig">NNMS1-----A----</AM>
+<AM lemma="Lev_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920925-030-p4s6w14">
 <src.rf>manual</src.rf>
@@ -1882,7 +1928,10 @@
 <LM>w#w-mf920925-030-p4s6w18</LM>
 </w.rf>
 <form>Sojuzplodoimport</form>
-<tag lemma="Sojuzplodoimport_;K_,t" src="orig" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="Sojuzplodoimport_;K_,t" src="orig">NNIS1-----A----</AM>
+<AM lemma="Sojuzplodoimport_;K" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920925-030-p4s6w19">
 <src.rf>manual</src.rf>
@@ -1909,7 +1958,7 @@
 </w.rf>
 <form>Batova</form>
 <tag>
-<AM lemma="Batov_;S" src="orig">NNMS2-----A----</AM>
+<AM lemma="Batov_;S" src="orig" selected="1">NNMS2-----A----</AM>
 <AM lemma="Batův_;S_^(*2a)" src="auto">AUFS1M---------</AM>
 <AM lemma="Batův_;S_^(*2a)" src="auto">AUFS5M---------</AM>
 <AM lemma="Batův_;S_^(*2a)" src="auto">AUIS2M---------</AM>
@@ -2089,7 +2138,7 @@
 <form>kdekoli</form>
 <tag>
 <AM lemma="kdekoliv" src="orig">Db------------1</AM>
-<AM lemma="kdekoli" src="auto" recommended="1">Db-------------</AM>
+<AM lemma="kdekoli" src="auto" recommended="1" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m-mf920925-030-p4s7w24">

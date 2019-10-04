@@ -296,7 +296,10 @@
 <LM>w#w-ln95040-119-p2s2w4</LM>
 </w.rf>
 <form>J</form>
-<tag lemma="J-0_:B_;Y" src="orig" selected="1">NNMXX-----A---8</tag>
+<tag>
+<AM lemma="J-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
+<AM lemma="J-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95040-119-p2s2w5">
 <src.rf>manual</src.rf>
@@ -312,7 +315,10 @@
 <LM>w#w-ln95040-119-p2s2w6</LM>
 </w.rf>
 <form>Gebhard</form>
-<tag lemma="Gebhard_;Y_,t" src="auto" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Gebhard_;Y_,t" src="auto">NNMS1-----A----</AM>
+<AM lemma="Gebhard_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95040-119-p2s2w7">
 <src.rf>manual</src.rf>
@@ -346,7 +352,10 @@
 <LM>w#w-ln95040-119-p3s1Aw3</LM>
 </w.rf>
 <form>ČT</form>
-<tag lemma="ČT_:B_;K_^(Česká_televize)" src="auto" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="ČT_:B_;K_^(Česká_televize)" src="auto">NNXXX-----A---8</AM>
+<AM lemma="ČT_:B_;K_^(Česká_televize)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95040-119-p3s1Aw4">
 <src.rf>manual</src.rf>
@@ -494,6 +503,7 @@
 <AM lemma="v-8_:B_^(ost._zkratka)" src="auto">XX------------8</AM>
 <AM lemma="versus_:B_,t_,x" src="auto">RR--1---------8</AM>
 <AM lemma="veřejný_:B_^(v.o.s.)" src="auto">AAXXX----1A---8</AM>
+<AM lemma="V-33_^(označení_pomocí_písmene)" src="manual" selected="1">NNNXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95040-119-p3s1Aw20">
@@ -535,6 +545,7 @@
 <AM lemma="společnost_:B" src="auto">NNFXX-----A---8</AM>
 <AM lemma="strana-4_:B_^(v_knize,_rukopise,...)" src="auto">NNFXX-----A---8</AM>
 <AM lemma="státní_:B" src="auto">AAXXX----1A---8</AM>
+<AM lemma="S-33_^(označení_pomocí_písmene)" src="manual" selected="1">NNNXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95040-119-p3s1Aw22">
@@ -1017,7 +1028,10 @@
 <LM>w#w-ln95040-119-p5s1w12</LM>
 </w.rf>
 <form>straně</form>
-<tag lemma="strana-4_^(v_knize,_rukopise,...)" src="orig" selected="1">NNFS6-----A----</tag>
+<tag>
+<AM lemma="strana-4_^(v_knize,_rukopise,...)" src="orig">NNFS6-----A----</AM>
+<AM lemma="strana" src="manual" selected="1">NNFS6-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95040-119-p5s1w13">
 <src.rf>manual</src.rf>
@@ -1316,7 +1330,10 @@
 <LM>w#w-ln95040-119-p5s2w30</LM>
 </w.rf>
 <form>přešli</form>
-<tag lemma="přejít" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag>
+<AM lemma="přejít" src="orig">VpMP---XR-AA---</AM>
+<AM lemma="přejít_:W" src="manual" selected="1">VpMP---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-ln95040-119-p5s2w31">
 <src.rf>manual</src.rf>
@@ -1382,7 +1399,10 @@
 <LM>w#w-ln95040-119-p5s3w5</LM>
 </w.rf>
 <form>uvedeno</form>
-<tag lemma="uvést" src="orig" selected="1">VsNS---XX-AP---</tag>
+<tag>
+<AM lemma="uvést" src="orig">VsNS---XX-AP---</AM>
+<AM lemma="uvést_:W" src="manual" selected="1">VsNS---XX-AP---</AM>
+</tag>
 </m>
 <m id="m-ln95040-119-p5s3w6">
 <src.rf>manual</src.rf>

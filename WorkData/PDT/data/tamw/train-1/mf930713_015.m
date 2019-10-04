@@ -143,7 +143,10 @@
 <LM>w#w-mf930713-015-p2s1Bw11</LM>
 </w.rf>
 <form>Nigel</form>
-<tag lemma="Nigel_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Nigel_;S" src="orig">NNMS1-----A----</AM>
+<AM lemma="Nigel_;Y_;S" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930713-015-p2s1Bw12">
 <src.rf>manual</src.rf>
@@ -307,7 +310,7 @@
 <form>osmému</form>
 <tag>
 <AM lemma="osmý" src="orig">AAIS3----1A----</AM>
-<AM lemma="osmý" src="auto" recommended="1">CrIS3----------</AM>
+<AM lemma="osmý" src="auto" recommended="1" selected="1">CrIS3----------</AM>
 <AM lemma="osmý" src="auto">CrMS3----------</AM>
 <AM lemma="osmý" src="auto">CrNS3----------</AM>
 </tag>
@@ -462,7 +465,10 @@
 <LM>w#w-mf930713-015-p2s2w27</LM>
 </w.rf>
 <form>Grand</form>
-<tag lemma="Grand-1_;K_,t_^(v_názvech)" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="Grand-1_;K_,t_^(v_názvech)" src="orig">AAXXX----1A----</AM>
+<AM lemma="Grand-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-mf930713-015-p2s2w28">
 <src.rf>manual</src.rf>
@@ -470,7 +476,10 @@
 <LM>w#w-mf930713-015-p2s2w28</LM>
 </w.rf>
 <form>Prix</form>
-<tag lemma="Prix-2_;m_,t_^(cena)" src="orig" selected="1">NNFXX-----A----</tag>
+<tag>
+<AM lemma="Prix-2_;m_,t_^(cena)" src="orig">NNFXX-----A----</AM>
+<AM lemma="Prix-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-mf930713-015-p2s2w29">
 <src.rf>manual</src.rf>
@@ -518,7 +527,10 @@
 <LM>w#w-mf930713-015-p2s2w34</LM>
 </w.rf>
 <form>Tracym</form>
-<tag lemma="Tracy_;Y_,t" src="auto" selected="1">NNMS7-----A----</tag>
+<tag>
+<AM lemma="Tracy_;Y_,t" src="auto">NNMS7-----A----</AM>
+<AM lemma="Tracy_;S_;Y" src="manual" selected="1">NNMS7-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930713-015-p2s2w35">
 <src.rf>manual</src.rf>
@@ -558,7 +570,10 @@
 <LM>w#w-mf930713-015-p2s2w39</LM>
 </w.rf>
 <form>Emersonem</form>
-<tag lemma="Emerson_;S" src="orig" selected="1">NNMS7-----A----</tag>
+<tag>
+<AM lemma="Emerson_;S" src="orig">NNMS7-----A----</AM>
+<AM lemma="Emerson_;S_;Y" src="manual" selected="1">NNMS7-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930713-015-p2s2w40">
 <src.rf>manual</src.rf>
@@ -832,7 +847,11 @@
 <LM>w#w-mf930713-015-p3s7w1</LM>
 </w.rf>
 <form>Tracy</form>
-<tag lemma="Tracy_;Y_,t" src="auto" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Tracy_;Y_,t" src="auto">NNMS1-----A----</AM>
+<AM lemma="Tracy_;Y_;S" src="manual">NNMS1-----A----</AM>
+<AM lemma="Tracy_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930713-015-p3s7w2">
 <src.rf>manual</src.rf>

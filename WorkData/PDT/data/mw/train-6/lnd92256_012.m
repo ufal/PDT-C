@@ -22,6 +22,7 @@
 <tag>
 <AM lemma="USA_;G" src="orig">NNIPX-----A----</AM>
 <AM lemma="USA_:B_;K_,t_^(United_States_of_America)" src="auto" recommended="1">NNIPX-----A---8</AM>
+<AM lemma="USA_:B_;K_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92256-012-p1s1w2">
@@ -69,6 +70,7 @@
 <AM lemma="hoj" src="auto" recommended="1">II-------------</AM>
 <AM lemma="hojit_:T" src="auto">Vi-S---2--A----</AM>
 <AM lemma="hojit_:T" src="auto">Vi-S---3--A---4</AM>
+<AM lemma="hoj-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92256-012-p2s1w4">
@@ -127,7 +129,10 @@
 <LM>w#w-lnd92256-012-p2s2w5</LM>
 </w.rf>
 <form>H</form>
-<tag lemma="H-0_:B_;Y" src="orig" selected="1">NNMXX-----A---8</tag>
+<tag>
+<AM lemma="H-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
+<AM lemma="H-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92256-012-p2s2w6">
 <src.rf>manual</src.rf>
@@ -143,7 +148,10 @@
 <LM>w#w-lnd92256-012-p2s2w7</LM>
 </w.rf>
 <form>Clare</form>
-<tag lemma="Clare_;Y" src="orig" selected="1">NNFXX-----A----</tag>
+<tag>
+<AM lemma="Clare_;Y" src="orig">NNFXX-----A----</AM>
+<AM lemma="Clare-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-lnd92256-012-p2s2w8">
 <src.rf>manual</src.rf>
@@ -151,7 +159,10 @@
 <LM>w#w-lnd92256-012-p2s2w8</LM>
 </w.rf>
 <form>Holding</form>
-<tag lemma="holding" src="orig" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="holding" src="orig">NNIS1-----A----</AM>
+<AM lemma="Holding-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-lnd92256-012-p2s2w9">
 <src.rf>manual</src.rf>
@@ -171,6 +182,7 @@
 <AM lemma="Inc_:B_;K_,t_^(Incorporated)" src="orig">AAXXX----1A----</AM>
 <AM lemma="Incorporated_:B_,t" src="auto">TT------------8</AM>
 <AM lemma="incisit_:B" src="auto" recommended="1">NNIXX-----A---8</AM>
+<AM lemma="Inc-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-lnd92256-012-p2s2w11">
@@ -195,7 +207,10 @@
 <LM>w#w-lnd92256-012-p2s2w13</LM>
 </w.rf>
 <form>New</form>
-<tag lemma="New-1_;G_,t_^(součást_míst._jmen)" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="New-1_;G_,t_^(součást_míst._jmen)" src="orig">AAXXX----1A----</AM>
+<AM lemma="New-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-lnd92256-012-p2s2w14">
 <src.rf>manual</src.rf>
@@ -219,7 +234,10 @@
 <LM>w#w-lnd92256-012-p2s2w16</LM>
 </w.rf>
 <form>podepsalo</form>
-<tag lemma="podepsat" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag>
+<AM lemma="podepsat" src="orig">VpNS---XR-AA---</AM>
+<AM lemma="podepsat_:W" src="manual" selected="1">VpNS---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-lnd92256-012-p2s2w17">
 <src.rf>manual</src.rf>
@@ -463,6 +481,7 @@
 <AM lemma="mimo-1_:B" src="auto">RR--4---------8</AM>
 <AM lemma="minuta_:B" src="auto">NNFXX-----A---8</AM>
 <AM lemma="město_:B" src="auto">NNNXX-----A---8</AM>
+<AM lemma="metr" src="manual" selected="1">NNIXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92256-012-p2s3w27">
@@ -893,7 +912,10 @@
 <LM>w#w-lnd92256-012-p2s6w6</LM>
 </w.rf>
 <form>P</form>
-<tag lemma="P-0_:B_;Y" src="orig" selected="1">NNMXX-----A---8</tag>
+<tag>
+<AM lemma="P-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
+<AM lemma="P-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92256-012-p2s6w7">
 <src.rf>manual</src.rf>
@@ -1023,7 +1045,10 @@
 <LM>w#w-lnd92256-012-p2s7w6</LM>
 </w.rf>
 <form>mít</form>
-<tag lemma="mít" src="orig" selected="1">Vf--------A----</tag>
+<tag>
+<AM lemma="mít" src="orig">Vf--------A----</AM>
+<AM lemma="mít_:T" src="manual" selected="1">Vf--------A----</AM>
+</tag>
 </m>
 <m id="m-lnd92256-012-p2s7w7">
 <src.rf>manual</src.rf>
@@ -1039,7 +1064,10 @@
 <LM>w#w-lnd92256-012-p2s7w8</LM>
 </w.rf>
 <form>prominuty</form>
-<tag lemma="prominout" src="orig" selected="1">VsTP---XX-AP---</tag>
+<tag>
+<AM lemma="prominout" src="orig">VsTP---XX-AP---</AM>
+<AM lemma="prominout_:W" src="manual" selected="1">VsTP---XX-AP---</AM>
+</tag>
 </m>
 <m id="m-lnd92256-012-p2s7w9">
 <src.rf>manual</src.rf>

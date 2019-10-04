@@ -223,7 +223,10 @@
 <LM>w#w-ln95048-004-p2s1Bw16</LM>
 </w.rf>
 <form>Tchibo</form>
-<tag lemma="Tchibo_;Y" src="orig" selected="1">NNNS1-----A----</tag>
+<tag>
+<AM lemma="Tchibo_;Y" src="orig">NNNS1-----A----</AM>
+<AM lemma="Tchibo_;K_;Y" src="manual" selected="1">NNNS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95048-004-p2s1Bw17">
 <src.rf>manual</src.rf>
@@ -258,6 +261,9 @@
 <tag>
 <AM lemma="Douwe_;K_,t" src="orig">AAXXX----1A----</AM>
 <AM lemma="Douwe_;K_,t" src="auto" recommended="1">NNIXX-----A----</AM>
+<AM lemma="Douwe_;K" src="manual">NNIXX-----A----</AM>
+<AM lemma="Douwe-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="Douwe_;K" src="manual">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95048-004-p2s1Bw21">
@@ -266,7 +272,10 @@
 <LM>w#w-ln95048-004-p2s1Bw21</LM>
 </w.rf>
 <form>Egberts</form>
-<tag lemma="Egberts_;K" src="orig" selected="1">NNXXX-----A----</tag>
+<tag>
+<AM lemma="Egberts_;K" src="orig">NNXXX-----A----</AM>
+<AM lemma="Egberts-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln95048-004-p2s1Bw22">
 <src.rf>manual</src.rf>
@@ -372,7 +381,10 @@
 <LM>w#w-ln95048-004-p3s1w3</LM>
 </w.rf>
 <form>S</form>
-<tag lemma="S-0_:B_;Y" src="orig" selected="1">NNMXX-----A---8</tag>
+<tag>
+<AM lemma="S-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
+<AM lemma="S-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95048-004-p3s1w4">
 <src.rf>manual</src.rf>
@@ -914,7 +926,10 @@
 <LM>w#w-ln95048-004-p4s1w6</LM>
 </w.rf>
 <form>Tchibo</form>
-<tag lemma="Tchibo_;Y" src="orig" selected="1">NNNS1-----A----</tag>
+<tag>
+<AM lemma="Tchibo_;Y" src="orig">NNNS1-----A----</AM>
+<AM lemma="Tchibo_;K_;Y" src="manual" selected="1">NNNS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95048-004-p4s1w7">
 <src.rf>manual</src.rf>
@@ -1148,7 +1163,10 @@
 <LM>w#w-ln95048-004-p4s2w17</LM>
 </w.rf>
 <form>Tchibo</form>
-<tag lemma="Tchibo_;Y" src="orig" selected="1">NNNS1-----A----</tag>
+<tag>
+<AM lemma="Tchibo_;Y" src="orig">NNNS1-----A----</AM>
+<AM lemma="Tchibo_;K_;Y" src="manual" selected="1">NNNS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95048-004-p4s2w18">
 <src.rf>manual</src.rf>
@@ -1204,7 +1222,11 @@
 <LM>w#w-ln95048-004-p4s2w24</LM>
 </w.rf>
 <form>Tchibo</form>
-<tag lemma="Tchibo_;Y" src="orig" selected="1">NNNS1-----A----</tag>
+<tag>
+<AM lemma="Tchibo_;Y" src="orig">NNNS1-----A----</AM>
+<AM lemma="Tchibo_;K" src="manual">NNNS1-----A----</AM>
+<AM lemma="Tchibo_;K_;Y" src="manual" selected="1">NNNS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95048-004-p4s2w25">
 <src.rf>manual</src.rf>
@@ -1215,6 +1237,8 @@
 <tag>
 <AM lemma="Frisch-2_;K_,t" src="orig">AAXXX----1A----</AM>
 <AM lemma="Frisch_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="frisch_,t" src="manual">AAXXX----1A----</AM>
+<AM lemma="Frisch-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-ln95048-004-p4s2w26">
@@ -1226,6 +1250,8 @@
 <tag>
 <AM lemma="Rost_;K_,t" src="orig">AAXXX----1A----</AM>
 <AM lemma="Rost_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="rost_,t" src="manual">AAXXX----1A----</AM>
+<AM lemma="Rost-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-ln95048-004-p4s2w27">
@@ -1234,7 +1260,11 @@
 <LM>w#w-ln95048-004-p4s2w27</LM>
 </w.rf>
 <form>Kaffee</form>
-<tag lemma="Kaffee_;K_,t" src="orig" selected="1">NNNXX-----A----</tag>
+<tag>
+<AM lemma="Kaffee_;K_,t" src="orig">NNNXX-----A----</AM>
+<AM lemma="kaffee_,t" src="manual">NNXXX-----A----</AM>
+<AM lemma="Kaffee-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln95048-004-p4s2w28">
 <src.rf>manual</src.rf>
@@ -1306,7 +1336,10 @@
 <LM>w#w-ln95048-004-p4s2w36</LM>
 </w.rf>
 <form>Tchibo</form>
-<tag lemma="Tchibo_;Y" src="orig" selected="1">NNNS1-----A----</tag>
+<tag>
+<AM lemma="Tchibo_;Y" src="orig">NNNS1-----A----</AM>
+<AM lemma="Tchibo_;K_;Y" src="manual" selected="1">NNNS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95048-004-p4s2w37">
 <src.rf>manual</src.rf>

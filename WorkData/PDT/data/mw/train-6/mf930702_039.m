@@ -107,7 +107,10 @@
 <LM>w#w-mf930702-039-p5s1w1</LM>
 </w.rf>
 <form>tel</form>
-<tag lemma="telefon_:B" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="telefon_:B" src="orig">NNIXX-----A---8</AM>
+<AM lemma="telefon" src="manual" selected="1">NNIXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-mf930702-039-p5s1w2">
 <src.rf>manual</src.rf>
@@ -203,7 +206,10 @@
 <LM>w#w-mf930702-039-p8s2w1</LM>
 </w.rf>
 <form>MS</form>
-<tag lemma="MS-5_:B_;K_;p_^(ministerstvo_spravedlnosti)" src="orig" selected="1">NNNXX-----A---8</tag>
+<tag>
+<AM lemma="MS-5_:B_;K_;p_^(ministerstvo_spravedlnosti)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="MS-3_:B_^(mistrovství_světa)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930702-039-p8s2w2">
 <src.rf>manual</src.rf>
@@ -347,7 +353,10 @@
 <LM>w#w-mf930702-039-p13s1w3</LM>
 </w.rf>
 <form>hod</form>
-<tag lemma="hodina_:B" src="auto" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="hodina_:B" src="auto">NNFXX-----A---8</AM>
+<AM lemma="hodina" src="manual" selected="1">NNFXX-----A---9</AM>
+</tag>
 </m>
 <m id="m-mf930702-039-p13s1w4">
 <src.rf>manual</src.rf>
@@ -443,7 +452,10 @@
 <LM>w#w-mf930702-039-p16s1w2</LM>
 </w.rf>
 <form>bílé</form>
-<tag lemma="bílý" src="orig" selected="1">AANS1----1A----</tag>
+<tag>
+<AM lemma="bílý" src="orig">AANS1----1A----</AM>
+<AM lemma="bílý_;o" src="manual" selected="1">AANS1----1A----</AM>
+</tag>
 </m>
 </s>
 <s id="m-mf930702-039-p17s1">
@@ -479,7 +491,10 @@
 <LM>w#w-mf930702-039-p18s1w1</LM>
 </w.rf>
 <form>Ozbourne</form>
-<tag lemma="Ozbourne_;R_,t" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="Ozbourne_;R_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="Ozbourne-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-mf930702-039-p18s1w2">
 <src.rf>manual</src.rf>
@@ -487,7 +502,10 @@
 <LM>w#w-mf930702-039-p18s1w2</LM>
 </w.rf>
 <form>cream</form>
-<tag lemma="cream_;R_,t" src="orig" selected="1">NNIXX-----A----</tag>
+<tag>
+<AM lemma="cream_;R_,t" src="orig">NNIXX-----A----</AM>
+<AM lemma="cream-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 </s>
 <s id="m-mf930702-039-p19s1">
@@ -505,7 +523,10 @@
 <LM>w#w-mf930702-039-p19s1w2</LM>
 </w.rf>
 <form>Portugal</form>
-<tag lemma="portugal" src="orig" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="portugal" src="orig">NNIS1-----A----</AM>
+<AM lemma="Portugal-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-mf930702-039-p19s1w3">
 <src.rf>manual</src.rf>
@@ -609,7 +630,7 @@
 <form>tousty</form>
 <tag>
 <AM lemma="tousty" src="orig">NNIP1-----A----</AM>
-<AM lemma="toust" src="auto" recommended="1">NNIP1-----A----</AM>
+<AM lemma="toust" src="auto" recommended="1" selected="1">NNIP1-----A----</AM>
 <AM lemma="toust" src="auto">NNIP4-----A----</AM>
 <AM lemma="toust" src="auto">NNIP5-----A----</AM>
 <AM lemma="toust" src="auto">NNIP7-----A----</AM>
@@ -765,7 +786,10 @@
 <LM>w#w-mf930702-039-p31s1w2</LM>
 </w.rf>
 <form>růžové</form>
-<tag lemma="růžový" src="orig" selected="1">AANS1----1A----</tag>
+<tag>
+<AM lemma="růžový" src="orig">AANS1----1A----</AM>
+<AM lemma="růžový_;o" src="manual" selected="1">AANS1----1A----</AM>
+</tag>
 </m>
 </s>
 <s id="m-mf930702-039-p32s1">

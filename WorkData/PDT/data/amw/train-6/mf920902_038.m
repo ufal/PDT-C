@@ -141,7 +141,10 @@
 <LM>w#w-mf920902-038-p2s1w12</LM>
 </w.rf>
 <form>resortu</form>
-<tag lemma="resort" src="orig" selected="1">NNIS2-----A----</tag>
+<tag>
+<AM lemma="resort" src="orig">NNIS2-----A----</AM>
+<AM lemma="resort_,s_^(^DD**rezort)" src="manual" selected="1">NNIS2-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920902-038-p2s1w13">
 <src.rf>manual</src.rf>
@@ -807,7 +810,7 @@
 <form>Vůbec</form>
 <tag>
 <AM lemma="vůbec" src="orig">Db-------------</AM>
-<AM lemma="vůbec" src="auto" recommended="1">TT-------------</AM>
+<AM lemma="vůbec" src="auto" recommended="1" selected="1">TT-------------</AM>
 </tag>
 </m>
 <m id="m-mf920902-038-p3s5w2">
@@ -1074,7 +1077,10 @@
 <LM>w#w-mf920902-038-p4s1w23</LM>
 </w.rf>
 <form>galérie</form>
-<tag lemma="galérie" src="orig" selected="1">NNFP4-----A----</tag>
+<tag>
+<AM lemma="galérie" src="orig">NNFP4-----A----</AM>
+<AM lemma="galérie_,s_^(^DD**galerie)" src="manual" selected="1">NNFP4-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920902-038-p4s1w24">
 <src.rf>manual</src.rf>
@@ -1312,7 +1318,7 @@
 <form>nejen</form>
 <tag>
 <AM lemma="nejen" src="orig">TT-------------</AM>
-<AM lemma="nejen" src="auto" recommended="1">Db-------------</AM>
+<AM lemma="nejen" src="auto" recommended="1" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m-mf920902-038-p4s3w7">

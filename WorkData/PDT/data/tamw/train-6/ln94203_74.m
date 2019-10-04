@@ -19,7 +19,10 @@
 <LM>w#w-ln94203-74-p1s1w1</LM>
 </w.rf>
 <form>SPD</form>
-<tag lemma="SPD-1_:B_;K_,t_^(Sozial-Demokratische_Partei_v_SRN)" src="auto" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="SPD-1_:B_;K_,t_^(Sozial-Demokratische_Partei_v_SRN)" src="auto">NNFXX-----A---8</AM>
+<AM lemma="SPD-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94203-74-p1s1w2">
 <src.rf>manual</src.rf>
@@ -111,7 +114,10 @@
 <LM>w#w-ln94203-74-p2s1Bw6</LM>
 </w.rf>
 <form>převzal</form>
-<tag lemma="převzít_^(př._od_někoho_věc,_zodpovědnost...)" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag>
+<AM lemma="převzít_^(př._od_někoho_věc,_zodpovědnost...)" src="orig">VpYS---XR-AA---</AM>
+<AM lemma="převzít_:W_^(př._od_někoho_věc,_zodpovědnost...)" src="manual" selected="1">VpYS---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-ln94203-74-p2s1Bw7">
 <src.rf>manual</src.rf>
@@ -151,7 +157,10 @@
 <LM>w#w-ln94203-74-p2s1Bw11</LM>
 </w.rf>
 <form>SPD</form>
-<tag lemma="SPD-1_:B_;K_,t_^(Sozial-Demokratische_Partei_v_SRN)" src="auto" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="SPD-1_:B_;K_,t_^(Sozial-Demokratische_Partei_v_SRN)" src="auto">NNFXX-----A---8</AM>
+<AM lemma="SPD-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94203-74-p2s1Bw12">
 <src.rf>manual</src.rf>
@@ -255,7 +264,10 @@
 <LM>w#w-ln94203-74-p2s1Bw24</LM>
 </w.rf>
 <form>SPD</form>
-<tag lemma="SPD-1_:B_;K_,t_^(Sozial-Demokratische_Partei_v_SRN)" src="auto" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="SPD-1_:B_;K_,t_^(Sozial-Demokratische_Partei_v_SRN)" src="auto">NNFXX-----A---8</AM>
+<AM lemma="SPD-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94203-74-p2s1Bw25">
 <src.rf>manual</src.rf>
@@ -417,7 +429,10 @@
 <LM>w#w-ln94203-74-p2s2w16</LM>
 </w.rf>
 <form>SPD</form>
-<tag lemma="SPD-1_:B_;K_,t_^(Sozial-Demokratische_Partei_v_SRN)" src="auto" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="SPD-1_:B_;K_,t_^(Sozial-Demokratische_Partei_v_SRN)" src="auto">NNFXX-----A---8</AM>
+<AM lemma="SPD-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94203-74-p2s2w17">
 <src.rf>manual</src.rf>
@@ -531,7 +546,10 @@
 <LM>w#w-ln94203-74-p2s3w13</LM>
 </w.rf>
 <form>SPD</form>
-<tag lemma="SPD-1_:B_;K_,t_^(Sozial-Demokratische_Partei_v_SRN)" src="auto" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="SPD-1_:B_;K_,t_^(Sozial-Demokratische_Partei_v_SRN)" src="auto">NNFXX-----A---8</AM>
+<AM lemma="SPD-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94203-74-p2s3w14">
 <src.rf>manual</src.rf>
@@ -605,7 +623,10 @@
 <LM>w#w-ln94203-74-p2s4w4</LM>
 </w.rf>
 <form>přislíben</form>
-<tag lemma="přislíbit" src="orig" selected="1">VsYS---XX-AP---</tag>
+<tag>
+<AM lemma="přislíbit" src="orig">VsYS---XX-AP---</AM>
+<AM lemma="přislíbit_:W" src="manual" selected="1">VsYS---XX-AP---</AM>
+</tag>
 </m>
 <m id="m-ln94203-74-p2s4w5">
 <src.rf>manual</src.rf>
@@ -897,7 +918,10 @@
 <LM>w#w-ln94203-74-p2s6w10</LM>
 </w.rf>
 <form>SPD</form>
-<tag lemma="SPD-1_:B_;K_,t_^(Sozial-Demokratische_Partei_v_SRN)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="SPD-1_:B_;K_,t_^(Sozial-Demokratische_Partei_v_SRN)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="SPD-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94203-74-p2s6w11">
 <src.rf>manual</src.rf>
@@ -914,7 +938,7 @@
 </w.rf>
 <form>Thierse</form>
 <tag>
-<AM lemma="Thierse_;S" src="orig">NNMS1-----A----</AM>
+<AM lemma="Thierse_;S" src="orig" selected="1">NNMS1-----A----</AM>
 <AM lemma="Thiers_;S" src="auto">NNMP4-----A----</AM>
 <AM lemma="Thiers_;S" src="auto" recommended="1">NNMS2-----A----</AM>
 <AM lemma="Thiers_;S" src="auto">NNMS4-----A----</AM>
@@ -936,7 +960,10 @@
 <LM>w#w-ln94203-74-p2s7w1</LM>
 </w.rf>
 <form>SPD</form>
-<tag lemma="SPD-1_:B_;K_,t_^(Sozial-Demokratische_Partei_v_SRN)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="SPD-1_:B_;K_,t_^(Sozial-Demokratische_Partei_v_SRN)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="SPD-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94203-74-p2s7w2">
 <src.rf>manual</src.rf>

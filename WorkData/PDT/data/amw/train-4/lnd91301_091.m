@@ -101,7 +101,10 @@
 <LM>w#w-lnd91301-091-p2s1w8</LM>
 </w.rf>
 <form>V</form>
-<tag lemma="V-3`5" src="orig" selected="1">C}-------------</tag>
+<tag>
+<AM lemma="V-3`5" src="orig">C}-------------</AM>
+<AM lemma="V-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd91301-091-p2s1w9">
 <src.rf>manual</src.rf>
@@ -312,7 +315,7 @@
 <tag>
 <AM lemma="tady" src="orig">Db------------1</AM>
 <AM lemma="ten" src="auto">PDFS4----------</AM>
-<AM lemma="tu" src="auto" recommended="1">Db-------------</AM>
+<AM lemma="tu" src="auto" recommended="1" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m-lnd91301-091-p2s1w35">
@@ -555,7 +558,10 @@
 <LM>w#w-lnd91301-091-p2s2w27</LM>
 </w.rf>
 <form>Bubeníka</form>
-<tag lemma="bubeník" src="orig" selected="1">NNMS4-----A----</tag>
+<tag>
+<AM lemma="bubeník" src="orig">NNMS4-----A----</AM>
+<AM lemma="Bubeník_;S" src="manual" selected="1">NNMS4-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd91301-091-p2s2w28">
 <src.rf>manual</src.rf>
@@ -1035,7 +1041,10 @@
 <LM>w#w-lnd91301-091-p3s1w2</LM>
 </w.rf>
 <form>šv</form>
-<tag lemma="šv-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="šv-99_:B_;S" src="orig">NNXXX-----A---8</AM>
+<AM lemma="šv-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd91301-091-p3s1w3">
 <src.rf>manual</src.rf>

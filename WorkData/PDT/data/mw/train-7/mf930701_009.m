@@ -118,7 +118,7 @@
 </w.rf>
 <form>rep</form>
 <tag>
-<AM lemma="rep-99_:B_;S" src="orig">NNXXX-----A---8</AM>
+<AM lemma="rep-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</AM>
 <AM lemma="republika_:B" src="auto" recommended="1">NNFXX-----A---8</AM>
 </tag>
 </m>
@@ -449,6 +449,7 @@
 <AM lemma="rezortní_,s_,x" src="auto">AANS1----1A----</AM>
 <AM lemma="rezortní_,s_,x" src="auto">AANS4----1A----</AM>
 <AM lemma="rezortní_,s_,x" src="auto">AANS5----1A----</AM>
+<AM lemma="resortní_,s_^(^DD**rezortní)" src="manual" selected="1">AAMS1----1A----</AM>
 </tag>
 </m>
 <m id="m-mf930701-009-p2s3w4">

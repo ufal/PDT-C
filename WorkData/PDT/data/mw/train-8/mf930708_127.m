@@ -129,7 +129,7 @@
 <AM lemma="m-1`metr_:B" src="orig">NNIXX-----A---8</AM>
 <AM lemma="m-3_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
 <AM lemma="m-8_:B_^(ost._zkratka)" src="auto">XX------------8</AM>
-<AM lemma="metr_:B" src="auto" recommended="1">NNIXX-----A---8</AM>
+<AM lemma="metr_:B" src="auto" recommended="1" selected="1">NNIXX-----A---8</AM>
 <AM lemma="mimo-1_:B" src="auto">RR--2---------8</AM>
 <AM lemma="mimo-1_:B" src="auto">RR--4---------8</AM>
 <AM lemma="minuta_:B" src="auto">NNFXX-----A---8</AM>
@@ -324,7 +324,7 @@
 <form>EP</form>
 <tag>
 <AM lemma="EP_;K_^(evropský_pohár)" src="orig">NNIXX-----A---8</AM>
-<AM lemma="EP_:B_;K_^(evropský_pohár)" src="auto" recommended="1">NNXXX-----A---8</AM>
+<AM lemma="EP_:B_;K_^(evropský_pohár)" src="auto" recommended="1" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-mf930708-127-p3s1w7">
@@ -591,7 +591,10 @@
 <LM>w#w-mf930708-127-p4s1w7</LM>
 </w.rf>
 <form>NDR</form>
-<tag lemma="NDR_:B_;G_;K" src="auto" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="NDR_:B_;G_;K" src="auto">NNFXX-----A---8</AM>
+<AM lemma="NDR-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-mf930708-127-p4s1w8">
 <src.rf>manual</src.rf>
@@ -659,6 +662,7 @@
 <AM lemma="Stasi_:B_;K" src="orig">NNFXX-----A---8</AM>
 <AM lemma="Stasi_:B_;K" src="auto" recommended="1">NNFXX-----A----</AM>
 <AM lemma="Stasi_:B_;K" src="auto">NNXXX-----A---8</AM>
+<AM lemma="Stasi-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-mf930708-127-p4s1w16">
@@ -1395,7 +1399,10 @@
 <LM>w#w-mf930708-127-p7s1w28</LM>
 </w.rf>
 <form>San</form>
-<tag lemma="San-2_;G" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="San-2_;G" src="orig">AAXXX----1A----</AM>
+<AM lemma="San-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-mf930708-127-p7s1w29">
 <src.rf>manual</src.rf>
@@ -1404,7 +1411,7 @@
 </w.rf>
 <form>Antoniu</form>
 <tag>
-<AM lemma="Antonio-2_;G" src="orig">NNNS1-----A----</AM>
+<AM lemma="Antonio-2_;G" src="orig" selected="1">NNNS1-----A----</AM>
 <AM lemma="Antonio_;Y_,t" src="auto">NNMS3-----A---1</AM>
 <AM lemma="Antonio_;Y_,t" src="auto">NNMS6-----A---1</AM>
 <AM lemma="Antonius_;S" src="auto">NNMS3-----A---1</AM>
@@ -1471,7 +1478,7 @@
 <AM lemma="m-1`metr_:B" src="orig">NNIXX-----A---8</AM>
 <AM lemma="m-3_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
 <AM lemma="m-8_:B_^(ost._zkratka)" src="auto">XX------------8</AM>
-<AM lemma="metr_:B" src="auto" recommended="1">NNIXX-----A---8</AM>
+<AM lemma="metr_:B" src="auto" recommended="1" selected="1">NNIXX-----A---8</AM>
 <AM lemma="mimo-1_:B" src="auto">RR--2---------8</AM>
 <AM lemma="mimo-1_:B" src="auto">RR--4---------8</AM>
 <AM lemma="minuta_:B" src="auto">NNFXX-----A---8</AM>
@@ -1574,7 +1581,10 @@
 <LM>w#w-mf930708-127-p8s1w11</LM>
 </w.rf>
 <form>Kobe</form>
-<tag lemma="Kobe_;G" src="auto" selected="1">NNNSX-----A----</tag>
+<tag>
+<AM lemma="Kobe_;G" src="auto">NNNSX-----A----</AM>
+<AM lemma="Kobe_;G" src="manual" selected="1">NNNXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930708-127-p8s1w12">
 <src.rf>manual</src.rf>
@@ -1638,7 +1648,10 @@
 <LM>w#w-mf930708-127-p8s1w19</LM>
 </w.rf>
 <form>WBC</form>
-<tag lemma="WBC-1_:B_;K_,t_^(World_Box_Council)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="WBC-1_:B_;K_,t_^(World_Box_Council)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="WBC-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-mf930708-127-p8s1w20">
 <src.rf>manual</src.rf>
@@ -1720,7 +1733,10 @@
 <LM>w#w-mf930708-127-p8s2w6</LM>
 </w.rf>
 <form>SSSR</form>
-<tag lemma="SSSR_:B_;G_^(Svaz_sov._socialist._republik)" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="SSSR_:B_;G_^(Svaz_sov._socialist._republik)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="SSSR_:B_;G_^(Svaz_sov._socialist._republik)" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-mf930708-127-p8s2w7">
 <src.rf>manual</src.rf>
@@ -1850,7 +1866,10 @@
 <LM>w#w-mf930708-127-p9s1w5</LM>
 </w.rf>
 <form>VOKD</form>
-<tag lemma="VOKD_:B_;K" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="VOKD_:B_;K" src="orig">NNIXX-----A---8</AM>
+<AM lemma="VOKD-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-mf930708-127-p9s1w6">
 <src.rf>manual</src.rf>
@@ -1914,7 +1933,10 @@
 <LM>w#w-mf930708-127-p9s1w13</LM>
 </w.rf>
 <form>VOKD</form>
-<tag lemma="VOKD_:B_;K" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="VOKD_:B_;K" src="orig">NNIXX-----A---8</AM>
+<AM lemma="VOKD-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-mf930708-127-p9s1w14">
 <src.rf>manual</src.rf>
@@ -2327,6 +2349,7 @@
 <tag>
 <AM lemma="USA_;G" src="orig">NNIPX-----A----</AM>
 <AM lemma="USA_:B_;K_,t_^(United_States_of_America)" src="auto" recommended="1">NNIPX-----A---8</AM>
+<AM lemma="USA_:B_;K_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-mf930708-127-p10s1w7">
@@ -2343,7 +2366,10 @@
 <LM>w#w-mf930708-127-p10s1w8</LM>
 </w.rf>
 <form>Atlanta</form>
-<tag lemma="Atlanta_;G" src="orig" selected="1">NNFS1-----A----</tag>
+<tag>
+<AM lemma="Atlanta_;G" src="orig">NNFS1-----A----</AM>
+<AM lemma="Atlanta-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-mf930708-127-p10s1w9">
 <src.rf>manual</src.rf>
@@ -2354,6 +2380,7 @@
 <tag>
 <AM lemma="Hawks_;K" src="orig">NNMPX-----A----</AM>
 <AM lemma="Hawks_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Hawks-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-mf930708-127-p10s1w10">
@@ -2370,7 +2397,10 @@
 <LM>w#w-mf930708-127-p10s1w11</LM>
 </w.rf>
 <form>Orlando</form>
-<tag lemma="Orlando_;G" src="orig" selected="1">NNNS1-----A----</tag>
+<tag>
+<AM lemma="Orlando_;G" src="orig">NNNS1-----A----</AM>
+<AM lemma="Orlando-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-mf930708-127-p10s1w12">
 <src.rf>manual</src.rf>
@@ -2378,7 +2408,10 @@
 <LM>w#w-mf930708-127-p10s1w12</LM>
 </w.rf>
 <form>Magic</form>
-<tag lemma="Magica_;K_^(Laterna_Magica)" src="orig" selected="1">NNFP2-----A----</tag>
+<tag>
+<AM lemma="Magica_;K_^(Laterna_Magica)" src="orig">NNFP2-----A----</AM>
+<AM lemma="Magic-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-mf930708-127-p10s1w13">
 <src.rf>manual</src.rf>

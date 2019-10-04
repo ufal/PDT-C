@@ -45,7 +45,10 @@
 <LM>w#w-lnd92252-058-p2s1w2</LM>
 </w.rf>
 <form>LN</form>
-<tag lemma="LN-1_:B_;R_^(Lidové_noviny,_deník)" src="orig" selected="1">NNFPX-----A---8</tag>
+<tag>
+<AM lemma="LN-1_:B_;R_^(Lidové_noviny,_deník)" src="orig">NNFPX-----A---8</AM>
+<AM lemma="LN-1_:B_;K_;R_^(Lidové_noviny)" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd92252-058-p2s1w3">
 <src.rf>manual</src.rf>
@@ -119,7 +122,10 @@
 <LM>w#w-lnd92252-058-p3s1w3</LM>
 </w.rf>
 <form>V</form>
-<tag lemma="V-0_:B_;Y" src="orig" selected="1">NNMXX-----A---8</tag>
+<tag>
+<AM lemma="V-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
+<AM lemma="V-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92252-058-p3s1w4">
 <src.rf>manual</src.rf>
@@ -549,7 +555,10 @@
 <LM>w#w-lnd92252-058-p3s4w9</LM>
 </w.rf>
 <form>dáme</form>
-<tag lemma="dát" src="orig" selected="1">VB-P---1P-AA---</tag>
+<tag>
+<AM lemma="dát" src="orig">VB-P---1P-AA---</AM>
+<AM lemma="dát_:W" src="manual" selected="1">VB-P---1P-AA---</AM>
+</tag>
 </m>
 <m id="m-lnd92252-058-p3s4w10">
 <src.rf>manual</src.rf>
@@ -827,7 +836,7 @@
 <form>Vůbec</form>
 <tag>
 <AM lemma="vůbec" src="orig">Db-------------</AM>
-<AM lemma="vůbec" src="auto" recommended="1">TT-------------</AM>
+<AM lemma="vůbec" src="auto" recommended="1" selected="1">TT-------------</AM>
 </tag>
 </m>
 <m id="m-lnd92252-058-p3s6w2">
@@ -1300,7 +1309,10 @@
 <LM>w#w-lnd92252-058-p3s6w60</LM>
 </w.rf>
 <form>odpovědět</form>
-<tag lemma="odpovědět" src="orig" selected="1">Vf--------A----</tag>
+<tag>
+<AM lemma="odpovědět" src="orig">Vf--------A----</AM>
+<AM lemma="odpovědět_:W" src="manual" selected="1">Vf--------A----</AM>
+</tag>
 </m>
 <m id="m-lnd92252-058-p3s6w61">
 <src.rf>manual</src.rf>
@@ -1420,7 +1432,10 @@
 <LM>w#w-lnd92252-058-p3s6w75</LM>
 </w.rf>
 <form>pojata</form>
-<tag lemma="pojmout" src="orig" selected="1">VsQW---XX-AP---</tag>
+<tag>
+<AM lemma="pojmout" src="orig">VsQW---XX-AP---</AM>
+<AM lemma="pojmout_:W" src="manual" selected="1">VsQW---XX-AP---</AM>
+</tag>
 </m>
 <m id="m-lnd92252-058-p3s6w76">
 <src.rf>manual</src.rf>

@@ -207,7 +207,10 @@
 <LM>w#w-ln95049-101-p2s1Bw15</LM>
 </w.rf>
 <form>HTT</form>
-<tag lemma="HTT_:B_;K" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="HTT_:B_;K" src="orig">NNXXX-----A---8</AM>
+<AM lemma="HTT-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln95049-101-p2s1Bw16">
 <src.rf>manual</src.rf>
@@ -431,7 +434,10 @@
 <LM>w#w-ln95049-101-p2s1Bw43</LM>
 </w.rf>
 <form>LB</form>
-<tag lemma="LB-1_:B_;K_;p_^(Levý_Blok)" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="LB-1_:B_;K_;p_^(Levý_Blok)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="LB-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln95049-101-p2s1Bw44">
 <src.rf>manual</src.rf>
@@ -619,7 +625,10 @@
 <LM>w#w-ln95049-101-p2s3w5</LM>
 </w.rf>
 <form>HTT</form>
-<tag lemma="HTT_:B_;K" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="HTT_:B_;K" src="orig">NNXXX-----A---8</AM>
+<AM lemma="HTT-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln95049-101-p2s3w6">
 <src.rf>manual</src.rf>
@@ -723,7 +732,10 @@
 <LM>w#w-ln95049-101-p2s3w18</LM>
 </w.rf>
 <form>ani</form>
-<tag lemma="ani-1" src="auto" selected="1">J^-------------</tag>
+<tag>
+<AM lemma="ani-1" src="auto">J^-------------</AM>
+<AM lemma="ani-2" src="manual" selected="1">TT-------------</AM>
+</tag>
 </m>
 <m id="m-ln95049-101-p2s3w19">
 <src.rf>manual</src.rf>

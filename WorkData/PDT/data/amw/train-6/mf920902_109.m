@@ -35,7 +35,10 @@
 <LM>w#w-mf920902-109-p1s1Aw3</LM>
 </w.rf>
 <form>Sládka</form>
-<tag lemma="sládek" src="orig" selected="1">NNMS2-----A----</tag>
+<tag>
+<AM lemma="sládek" src="orig">NNMS2-----A----</AM>
+<AM lemma="Sládek_;S" src="manual" selected="1">NNMS2-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920902-109-p1s1Aw4">
 <src.rf>manual</src.rf>
@@ -158,7 +161,10 @@
 <LM>w#w-mf920902-109-p1s1Bw10</LM>
 </w.rf>
 <form>Gregora</form>
-<tag lemma="Gregor_;S" src="auto" selected="1">NNMS2-----A----</tag>
+<tag>
+<AM lemma="Gregor_;S" src="auto">NNMS2-----A----</AM>
+<AM lemma="Gregor_;S_;Y" src="manual" selected="1">NNMS2-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920902-109-p1s1Bw11">
 <src.rf>manual</src.rf>
@@ -270,7 +276,10 @@
 <LM>w#w-mf920902-109-p1s1Bw24</LM>
 </w.rf>
 <form>Sládek</form>
-<tag lemma="sládek" src="orig" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="sládek" src="orig">NNMS1-----A----</AM>
+<AM lemma="Sládek_;S" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920902-109-p1s1Bw25">
 <src.rf>manual</src.rf>

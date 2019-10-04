@@ -85,7 +85,10 @@
 <LM>w#w-ln95043-092-p2s1w6</LM>
 </w.rf>
 <form>staly</form>
-<tag lemma="stát-2_^(něco_se_přihodilo)" src="orig" selected="1">VpTP---XR-AA---</tag>
+<tag>
+<AM lemma="stát-2_^(něco_se_přihodilo)" src="orig">VpTP---XR-AA---</AM>
+<AM lemma="stát-2_^(stanu_staneš)" src="manual" selected="1">VpTP---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-ln95043-092-p2s1w7">
 <src.rf>manual</src.rf>
@@ -202,6 +205,8 @@
 <tag>
 <AM lemma="Bermuda_;K_,t" src="orig">AAXXX----1A----</AM>
 <AM lemma="Bermuda_;G" src="auto" recommended="1">NNFS1-----A----</AM>
+<AM lemma="Bermuda_;G_,t" src="manual">NNXXX-----A----</AM>
+<AM lemma="Bermuda-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-ln95043-092-p2s2w4">
@@ -214,6 +219,7 @@
 <AM lemma="International-2_;K_,t" src="orig">NNXXX-----A---1</AM>
 <AM lemma="International_,t" src="auto">NNISX-----A----</AM>
 <AM lemma="international_,t" src="auto" recommended="1">AAXXX----1A----</AM>
+<AM lemma="International-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-ln95043-092-p2s2w5">
@@ -226,6 +232,8 @@
 <AM lemma="Business_;K_,t" src="orig">AAXXX----1A----</AM>
 <AM lemma="business_,t" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="business_,t" src="auto">NNIS4-----A----</AM>
+<AM lemma="business_,t" src="manual">NNXXX-----A----</AM>
+<AM lemma="Business-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-ln95043-092-p2s2w6">
@@ -234,7 +242,11 @@
 <LM>w#w-ln95043-092-p2s2w6</LM>
 </w.rf>
 <form>Association</form>
-<tag lemma="Association_;K_,t" src="orig" selected="1">NNFXX-----A----</tag>
+<tag>
+<AM lemma="Association_;K_,t" src="orig">NNFXX-----A----</AM>
+<AM lemma="association_,t" src="manual">NNXXX-----A----</AM>
+<AM lemma="Association-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln95043-092-p2s2w7">
 <src.rf>manual</src.rf>
@@ -250,7 +262,11 @@
 <LM>w#w-ln95043-092-p2s2w8</LM>
 </w.rf>
 <form>BIBA</form>
-<tag lemma="BIBA_:B_;K_,t_^(Bermuda_International_Bussiness_Association)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="BIBA_:B_;K_,t_^(Bermuda_International_Bussiness_Association)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="BIBA_:B" src="manual">NNXXX-----A---8</AM>
+<AM lemma="BIBA-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95043-092-p2s2w9">
 <src.rf>manual</src.rf>
@@ -432,7 +448,7 @@
 <form>Snad</form>
 <tag>
 <AM lemma="snad" src="orig">Db-------------</AM>
-<AM lemma="snad" src="auto" recommended="1">TT-------------</AM>
+<AM lemma="snad" src="auto" recommended="1" selected="1">TT-------------</AM>
 </tag>
 </m>
 <m id="m-ln95043-092-p3s2w2">
@@ -749,7 +765,10 @@
 <LM>w#w-ln95043-092-p4s2w15</LM>
 </w.rf>
 <form>dolarů</form>
-<tag lemma="dolar_;b" src="orig" selected="1">NNIP2-----A----</tag>
+<tag>
+<AM lemma="dolar_;b" src="orig">NNIP2-----A----</AM>
+<AM lemma="dolar" src="manual" selected="1">NNIP2-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95043-092-p4s2w16">
 <src.rf>manual</src.rf>
@@ -807,7 +826,10 @@
 <LM>w#w-ln95043-092-p5s1w6</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-2" src="auto" selected="1">Dg-------2A----</tag>
+<tag>
+<AM lemma="hodně-2" src="auto">Dg-------2A----</AM>
+<AM lemma="hodně-3" src="manual" selected="1">Dg-------2A----</AM>
+</tag>
 </m>
 <m id="m-ln95043-092-p5s1w7">
 <src.rf>manual</src.rf>

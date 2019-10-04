@@ -27,7 +27,10 @@
 <LM>w#w-ln94210-147-p1s1w2</LM>
 </w.rf>
 <form>ČR</form>
-<tag lemma="ČR-1_:B_;G_^(Česká_republika)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94210-147-p1s1w3">
 <src.rf>manual</src.rf>
@@ -974,7 +977,10 @@
 <LM>w#w-ln94210-147-p3s3w4</LM>
 </w.rf>
 <form>world</form>
-<tag lemma="world_,t" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="world_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="world-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94210-147-p3s3w5">
 <src.rf>manual</src.rf>
@@ -982,7 +988,10 @@
 <LM>w#w-ln94210-147-p3s3w5</LM>
 </w.rf>
 <form>competitiveness</form>
-<tag lemma="competitiveness_,t" src="orig" selected="1">NNFXX-----A----</tag>
+<tag>
+<AM lemma="competitiveness_,t" src="orig">NNFXX-----A----</AM>
+<AM lemma="competitiveness-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94210-147-p3s3w6">
 <src.rf>manual</src.rf>
@@ -1070,7 +1079,10 @@
 <LM>w#w-ln94210-147-p3s3w16</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-2" src="auto" selected="1">Dg-------2A----</tag>
+<tag>
+<AM lemma="hodně-2" src="auto">Dg-------2A----</AM>
+<AM lemma="více" src="manual" selected="1">Ca--X----------</AM>
+</tag>
 </m>
 <m id="m-ln94210-147-p3s3w17">
 <src.rf>manual</src.rf>
@@ -1187,6 +1199,7 @@
 <tag>
 <AM lemma="USA_;G" src="orig">NNIPX-----A----</AM>
 <AM lemma="USA_:B_;K_,t_^(United_States_of_America)" src="auto" recommended="1">NNIPX-----A---8</AM>
+<AM lemma="USA_:B_;K_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94210-147-p4s1w7">
@@ -2098,7 +2111,10 @@
 <LM>w#w-ln94210-147-p6s1w2</LM>
 </w.rf>
 <form>ČR</form>
-<tag lemma="ČR-1_:B_;G_^(Česká_republika)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94210-147-p6s1w3">
 <src.rf>manual</src.rf>
@@ -2454,7 +2470,11 @@
 <LM>w#w-ln94210-147-p6s3w1</LM>
 </w.rf>
 <form>ČR</form>
-<tag lemma="ČR-1_:B_;G_^(Česká_republika)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="manual">NNFXX-----A----</AM>
+<AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94210-147-p6s3w2">
 <src.rf>manual</src.rf>
@@ -3084,7 +3104,11 @@
 <LM>w#w-ln94210-147-p7s3w2</LM>
 </w.rf>
 <form>ol</form>
-<tag lemma="ol-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="ol-99_:B_;S" src="orig">NNXXX-----A---8</AM>
+<AM lemma="olympijský" src="manual">AAXXX----1A---8</AM>
+<AM lemma="ol-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94210-147-p7s3w3">
 <src.rf>manual</src.rf>

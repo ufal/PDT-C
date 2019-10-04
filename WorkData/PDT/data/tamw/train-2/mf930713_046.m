@@ -217,7 +217,10 @@
 <LM>w#w-mf930713-046-p2s2w1</LM>
 </w.rf>
 <form>Řekla</form>
-<tag lemma="říci" src="auto" selected="1">VpQW---XR-AA---</tag>
+<tag>
+<AM lemma="říci" src="auto">VpQW---XR-AA---</AM>
+<AM lemma="říci_:W" src="manual" selected="1">VpQW---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-mf930713-046-p2s2w2">
 <src.rf>manual</src.rf>

@@ -43,7 +43,10 @@
 <LM>w#w-mf930713-065-p1s1w4</LM>
 </w.rf>
 <form>milion</form>
-<tag lemma="milión`1000000" src="orig" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="milión`1000000" src="orig">NNIS1-----A----</AM>
+<AM lemma="milion`1000000_,s_^(^DD**milión)" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 </s>
 <s id="m-mf930713-065-p2s1A">
@@ -72,6 +75,7 @@
 <tag>
 <AM lemma="rep-99_:B_;S" src="orig">NNXXX-----A---8</AM>
 <AM lemma="republika_:B" src="auto" recommended="1">NNFXX-----A---8</AM>
+<AM lemma="rep-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930713-065-p2s1Aw4">
@@ -428,7 +432,10 @@
 <LM>w#w-mf930713-065-p2s2w7</LM>
 </w.rf>
 <form>milion</form>
-<tag lemma="milión`1000000" src="orig" selected="1">NNIS4-----A----</tag>
+<tag>
+<AM lemma="milión`1000000" src="orig">NNIS4-----A----</AM>
+<AM lemma="milion`1000000_,s_^(^DD**milión)" src="manual" selected="1">NNIS4-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930713-065-p2s2w8">
 <src.rf>manual</src.rf>
@@ -557,7 +564,7 @@
 <AM lemma="přadlácký" src="auto">AAFP5----1A----</AM>
 <AM lemma="přadlácký" src="auto">AAFS2----1A----</AM>
 <AM lemma="přadlácký" src="auto">AAFS3----1A----</AM>
-<AM lemma="přadlácký" src="auto" recommended="1">AAFS6----1A----</AM>
+<AM lemma="přadlácký" src="auto" recommended="1" selected="1">AAFS6----1A----</AM>
 <AM lemma="přadlácký" src="auto">AAIP1----1A----</AM>
 <AM lemma="přadlácký" src="auto">AAIP4----1A----</AM>
 <AM lemma="přadlácký" src="auto">AAIP5----1A----</AM>
@@ -624,6 +631,7 @@
 <tag>
 <AM lemma="cm-1`centimetr_:B" src="orig">NNIXX-----A---8</AM>
 <AM lemma="centimetr_:B" src="auto" recommended="1">NNIXX-----A---8</AM>
+<AM lemma="centimetr" src="manual" selected="1">NNIXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-mf930713-065-p2s3w13">
@@ -887,7 +895,7 @@
 <tag>
 <AM lemma="mokasíny" src="orig">NNIP4-----A----</AM>
 <AM lemma="mokasín" src="auto">NNIP1-----A----</AM>
-<AM lemma="mokasín" src="auto" recommended="1">NNIP4-----A----</AM>
+<AM lemma="mokasín" src="auto" recommended="1" selected="1">NNIP4-----A----</AM>
 <AM lemma="mokasín" src="auto">NNIP5-----A----</AM>
 <AM lemma="mokasín" src="auto">NNIP7-----A----</AM>
 <AM lemma="mokasína" src="auto">NNFP1-----A----</AM>
@@ -1266,7 +1274,10 @@
 <LM>w#w-mf930713-065-p2s8w24</LM>
 </w.rf>
 <form>tel</form>
-<tag lemma="telefon_:B" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="telefon_:B" src="orig">NNIXX-----A---8</AM>
+<AM lemma="telefon" src="manual" selected="1">NNIXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-mf930713-065-p2s8w25">
 <src.rf>manual</src.rf>

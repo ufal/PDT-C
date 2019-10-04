@@ -35,7 +35,10 @@
 <LM>w#w-ln95047-016-p1s1w3</LM>
 </w.rf>
 <form>Zlatý</form>
-<tag lemma="zlatý_^(atribut;_z._řetízek,_poklad,...)" src="orig" selected="1">AAIS4----1A----</tag>
+<tag>
+<AM lemma="zlatý_^(atribut;_z._řetízek,_poklad,...)" src="orig">AAIS4----1A----</AM>
+<AM lemma="zlatý_^(atribut;_z._řetízek,_poklad,...)" src="manual" selected="1">AAIS4----1A----</AM>
+</tag>
 </m>
 <m id="m-ln95047-016-p1s1w4">
 <src.rf>manual</src.rf>
@@ -50,6 +53,8 @@
 <AM lemma="Gole_;S" src="auto" recommended="1">NNMS7-----A----</AM>
 <AM lemma="Golem_;S" src="auto">NNMS1-----A----</AM>
 <AM lemma="golem-1_;R" src="auto">NNMS1-----A----</AM>
+<AM lemma="Golem_;K" src="manual">NNIS4-----A----</AM>
+<AM lemma="Golem-2_;K" src="manual" selected="1">NNIS4-----A----</AM>
 </tag>
 </m>
 </s>
@@ -110,7 +115,10 @@
 <LM>w#w-ln95047-016-p2s1Bw5</LM>
 </w.rf>
 <form>A</form>
-<tag lemma="a-3_^(označení_pomocí_písmene)" src="orig" selected="1">NNNXX-----A----</tag>
+<tag>
+<AM lemma="a-3_^(označení_pomocí_písmene)" src="orig">NNNXX-----A----</AM>
+<AM lemma="A-33_^(označení_pomocí_písmene)" src="manual" selected="1">NNNXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95047-016-p2s1Bw6">
 <src.rf>manual</src.rf>
@@ -158,7 +166,10 @@
 <LM>w#w-ln95047-016-p2s1Bw11</LM>
 </w.rf>
 <form>Zlatý</form>
-<tag lemma="zlatý_^(atribut;_z._řetízek,_poklad,...)" src="orig" selected="1">AAMS1----1A----</tag>
+<tag>
+<AM lemma="zlatý_^(atribut;_z._řetízek,_poklad,...)" src="orig">AAMS1----1A----</AM>
+<AM lemma="zlatý_^(atribut;_z._řetízek,_poklad,...)" src="manual" selected="1">AAIS1----1A----</AM>
+</tag>
 </m>
 <m id="m-ln95047-016-p2s1Bw12">
 <src.rf>manual</src.rf>
@@ -166,7 +177,11 @@
 <LM>w#w-ln95047-016-p2s1Bw12</LM>
 </w.rf>
 <form>Golem</form>
-<tag lemma="Golem_;S" src="auto" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Golem_;S" src="auto">NNMS1-----A----</AM>
+<AM lemma="Golem_;K" src="manual">NNIS1-----A----</AM>
+<AM lemma="Golem-2_;K" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95047-016-p2s1Bw13">
 <src.rf>manual</src.rf>
@@ -556,7 +571,10 @@
 <LM>w#w-ln95047-016-p2s4w11</LM>
 </w.rf>
 <form>FIAPF</form>
-<tag lemma="FIAPF-1_:B_;K_,t_^(Fedér._Int._des_Assoc._de_Pr._de_Films)" src="auto" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="FIAPF-1_:B_;K_,t_^(Fedér._Int._des_Assoc._de_Pr._de_Films)" src="auto">NNFXX-----A---8</AM>
+<AM lemma="FIAPF-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95047-016-p2s4w12">
 <src.rf>manual</src.rf>
@@ -588,7 +606,10 @@
 <LM>w#w-ln95047-016-p2s4w15</LM>
 </w.rf>
 <form>Zlatý</form>
-<tag lemma="zlatý_^(atribut;_z._řetízek,_poklad,...)" src="orig" selected="1">AAMS1----1A----</tag>
+<tag>
+<AM lemma="zlatý_^(atribut;_z._řetízek,_poklad,...)" src="orig">AAMS1----1A----</AM>
+<AM lemma="zlatý_^(atribut;_z._řetízek,_poklad,...)" src="manual" selected="1">AAIS1----1A----</AM>
+</tag>
 </m>
 <m id="m-ln95047-016-p2s4w16">
 <src.rf>manual</src.rf>
@@ -596,7 +617,11 @@
 <LM>w#w-ln95047-016-p2s4w16</LM>
 </w.rf>
 <form>Golem</form>
-<tag lemma="Golem_;S" src="auto" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Golem_;S" src="auto">NNMS1-----A----</AM>
+<AM lemma="Golem-2_;K" src="manual">NNMS1-----A----</AM>
+<AM lemma="Golem-2_;K" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95047-016-p2s4w17">
 <src.rf>manual</src.rf>
@@ -620,7 +645,10 @@
 <LM>w#w-ln95047-016-p2s4w19</LM>
 </w.rf>
 <form>MFF</form>
-<tag lemma="MFF-1_:B_;K_;u_^(Matematicko-fyzikální_fakulta)" src="auto" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="MFF-1_:B_;K_;u_^(Matematicko-fyzikální_fakulta)" src="auto">NNIXX-----A---8</AM>
+<AM lemma="MFF-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95047-016-p2s4w20">
 <src.rf>manual</src.rf>
@@ -822,7 +850,10 @@
 <LM>w#w-ln95047-016-p2s5w22</LM>
 </w.rf>
 <form>Zlatému</form>
-<tag lemma="zlatý_^(atribut;_z._řetízek,_poklad,...)" src="orig" selected="1">AAMS3----1A----</tag>
+<tag>
+<AM lemma="zlatý_^(atribut;_z._řetízek,_poklad,...)" src="orig">AAMS3----1A----</AM>
+<AM lemma="zlatý_^(atribut;_z._řetízek,_poklad,...)" src="manual" selected="1">AAIS3----1A----</AM>
+</tag>
 </m>
 <m id="m-ln95047-016-p2s5w23">
 <src.rf>manual</src.rf>
@@ -830,7 +861,10 @@
 <LM>w#w-ln95047-016-p2s5w23</LM>
 </w.rf>
 <form>Golemu</form>
-<tag lemma="Golem_;S" src="auto" selected="1">NNMS3-----A---1</tag>
+<tag>
+<AM lemma="Golem_;S" src="auto">NNMS3-----A---1</AM>
+<AM lemma="Golem-2_;K" src="manual" selected="1">NNIS3-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95047-016-p2s5w24">
 <src.rf>manual</src.rf>
@@ -1042,7 +1076,10 @@
 <LM>w#w-ln95047-016-p2s7w8</LM>
 </w.rf>
 <form>ČR</form>
-<tag lemma="ČR-1_:B_;G_^(Česká_republika)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95047-016-p2s7w9">
 <src.rf>manual</src.rf>
@@ -1170,7 +1207,10 @@
 <LM>w#w-ln95047-016-p2s7w24</LM>
 </w.rf>
 <form>Zlatý</form>
-<tag lemma="zlatý_^(atribut;_z._řetízek,_poklad,...)" src="orig" selected="1">AAMS1----1A----</tag>
+<tag>
+<AM lemma="zlatý_^(atribut;_z._řetízek,_poklad,...)" src="orig">AAMS1----1A----</AM>
+<AM lemma="zlatý_^(atribut;_z._řetízek,_poklad,...)" src="manual" selected="1">AAIS1----1A----</AM>
+</tag>
 </m>
 <m id="m-ln95047-016-p2s7w25">
 <src.rf>manual</src.rf>
@@ -1178,7 +1218,10 @@
 <LM>w#w-ln95047-016-p2s7w25</LM>
 </w.rf>
 <form>Golem</form>
-<tag lemma="Golem_;S" src="auto" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Golem_;S" src="auto">NNMS1-----A----</AM>
+<AM lemma="Golem-2_;K" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95047-016-p2s7w26">
 <src.rf>manual</src.rf>

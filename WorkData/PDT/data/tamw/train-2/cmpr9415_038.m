@@ -183,7 +183,10 @@
 <LM>w#w-cmpr9415-038-p4s1w7</LM>
 </w.rf>
 <form>strana</form>
-<tag lemma="strana-3_^(u_soudu,_na_úřadě,_smluvní_strany;_na_něčí_straně)" src="orig" selected="1">NNFS1-----A----</tag>
+<tag>
+<AM lemma="strana-3_^(u_soudu,_na_úřadě,_smluvní_strany;_na_něčí_straně)" src="orig">NNFS1-----A----</AM>
+<AM lemma="strana" src="manual" selected="1">NNFS1-----A----</AM>
+</tag>
 </m>
 <m id="m-cmpr9415-038-p4s1w8">
 <src.rf>manual</src.rf>
@@ -534,7 +537,10 @@
 <LM>w#w-cmpr9415-038-p6s2w23</LM>
 </w.rf>
 <form>dolarů</form>
-<tag lemma="dolar_;b" src="orig" selected="1">NNIP2-----A----</tag>
+<tag>
+<AM lemma="dolar_;b" src="orig">NNIP2-----A----</AM>
+<AM lemma="dolar" src="manual" selected="1">NNIP2-----A----</AM>
+</tag>
 </m>
 <m id="m-cmpr9415-038-p6s2w24">
 <src.rf>manual</src.rf>
@@ -705,7 +711,10 @@
 <LM>w#w-cmpr9415-038-p6s3w20</LM>
 </w.rf>
 <form>dolarů</form>
-<tag lemma="dolar_;b" src="orig" selected="1">NNIP2-----A----</tag>
+<tag>
+<AM lemma="dolar_;b" src="orig">NNIP2-----A----</AM>
+<AM lemma="dolar" src="manual" selected="1">NNIP2-----A----</AM>
+</tag>
 </m>
 <m id="m-cmpr9415-038-p6s3w21">
 <src.rf>manual</src.rf>
@@ -1183,7 +1192,10 @@
 <LM>w#w-cmpr9415-038-p6s6w7</LM>
 </w.rf>
 <form>ČR</form>
-<tag lemma="ČR-1_:B_;G_^(Česká_republika)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-cmpr9415-038-p6s6w8">
 <src.rf>manual</src.rf>
@@ -1250,7 +1262,7 @@
 <form>přičemž</form>
 <tag>
 <AM lemma="přičemž" src="orig">J,-------------</AM>
-<AM lemma="přičemž" src="auto" recommended="1">Db-------------</AM>
+<AM lemma="přičemž" src="auto" recommended="1" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m-cmpr9415-038-p6s6w16">
@@ -1307,7 +1319,10 @@
 <LM>w#w-cmpr9415-038-p6s6w22</LM>
 </w.rf>
 <form>milionů</form>
-<tag lemma="milión`1000000" src="orig" selected="1">NNIP2-----A----</tag>
+<tag>
+<AM lemma="milión`1000000" src="orig">NNIP2-----A----</AM>
+<AM lemma="milion`1000000_,s_^(^DD**milión)" src="manual" selected="1">NNIP2-----A----</AM>
+</tag>
 </m>
 <m id="m-cmpr9415-038-p6s6w23">
 <src.rf>manual</src.rf>
@@ -1315,7 +1330,10 @@
 <LM>w#w-cmpr9415-038-p6s6w23</LM>
 </w.rf>
 <form>dolarů</form>
-<tag lemma="dolar_;b" src="orig" selected="1">NNIP2-----A----</tag>
+<tag>
+<AM lemma="dolar_;b" src="orig">NNIP2-----A----</AM>
+<AM lemma="dolar" src="manual" selected="1">NNIP2-----A----</AM>
+</tag>
 </m>
 <m id="m-cmpr9415-038-p6s6w24">
 <src.rf>manual</src.rf>
@@ -1375,7 +1393,10 @@
 <LM>w#w-cmpr9415-038-p8s1w2</LM>
 </w.rf>
 <form>strana</form>
-<tag lemma="strana-3_^(u_soudu,_na_úřadě,_smluvní_strany;_na_něčí_straně)" src="orig" selected="1">NNFS1-----A----</tag>
+<tag>
+<AM lemma="strana-3_^(u_soudu,_na_úřadě,_smluvní_strany;_na_něčí_straně)" src="orig">NNFS1-----A----</AM>
+<AM lemma="strana" src="manual" selected="1">NNFS1-----A----</AM>
+</tag>
 </m>
 <m id="m-cmpr9415-038-p8s1w3">
 <src.rf>manual</src.rf>
@@ -1987,7 +2008,10 @@
 <LM>w#w-cmpr9415-038-p8s3w17</LM>
 </w.rf>
 <form>strana</form>
-<tag lemma="strana-3_^(u_soudu,_na_úřadě,_smluvní_strany;_na_něčí_straně)" src="orig" selected="1">NNFS1-----A----</tag>
+<tag>
+<AM lemma="strana-3_^(u_soudu,_na_úřadě,_smluvní_strany;_na_něčí_straně)" src="orig">NNFS1-----A----</AM>
+<AM lemma="strana" src="manual" selected="1">NNFS1-----A----</AM>
+</tag>
 </m>
 <m id="m-cmpr9415-038-p8s3w18">
 <src.rf>manual</src.rf>
@@ -2433,7 +2457,10 @@
 <LM>w#w-cmpr9415-038-p9s2w5</LM>
 </w.rf>
 <form>impulzem</form>
-<tag lemma="impuls" src="orig" selected="1">NNIS7-----A----</tag>
+<tag>
+<AM lemma="impuls" src="orig">NNIS7-----A----</AM>
+<AM lemma="impulz" src="manual" selected="1">NNIS7-----A----</AM>
+</tag>
 </m>
 <m id="m-cmpr9415-038-p9s2w6">
 <src.rf>manual</src.rf>
@@ -2529,7 +2556,10 @@
 <LM>w#w-cmpr9415-038-p9s2w17</LM>
 </w.rf>
 <form>ČR</form>
-<tag lemma="ČR-1_:B_;G_^(Česká_republika)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-cmpr9415-038-p9s2w18">
 <src.rf>manual</src.rf>
@@ -2767,7 +2797,10 @@
 <LM>w#w-cmpr9415-038-p11s2w2</LM>
 </w.rf>
 <form>strana</form>
-<tag lemma="strana-3_^(u_soudu,_na_úřadě,_smluvní_strany;_na_něčí_straně)" src="orig" selected="1">NNFS1-----A----</tag>
+<tag>
+<AM lemma="strana-3_^(u_soudu,_na_úřadě,_smluvní_strany;_na_něčí_straně)" src="orig">NNFS1-----A----</AM>
+<AM lemma="strana" src="manual" selected="1">NNFS1-----A----</AM>
+</tag>
 </m>
 <m id="m-cmpr9415-038-p11s2w3">
 <src.rf>manual</src.rf>
@@ -3638,7 +3671,10 @@
 <LM>w#w-cmpr9415-038-p12s2w20</LM>
 </w.rf>
 <form>strana</form>
-<tag lemma="strana-3_^(u_soudu,_na_úřadě,_smluvní_strany;_na_něčí_straně)" src="orig" selected="1">NNFS1-----A----</tag>
+<tag>
+<AM lemma="strana-3_^(u_soudu,_na_úřadě,_smluvní_strany;_na_něčí_straně)" src="orig">NNFS1-----A----</AM>
+<AM lemma="strana" src="manual" selected="1">NNFS1-----A----</AM>
+</tag>
 </m>
 <m id="m-cmpr9415-038-p12s2w21">
 <src.rf>manual</src.rf>
@@ -4384,7 +4420,10 @@
 <LM>w#w-cmpr9415-038-p14s3w10</LM>
 </w.rf>
 <form>strany</form>
-<tag lemma="strana-3_^(u_soudu,_na_úřadě,_smluvní_strany;_na_něčí_straně)" src="orig" selected="1">NNFP1-----A----</tag>
+<tag>
+<AM lemma="strana-3_^(u_soudu,_na_úřadě,_smluvní_strany;_na_něčí_straně)" src="orig">NNFP1-----A----</AM>
+<AM lemma="strana" src="manual" selected="1">NNFP1-----A----</AM>
+</tag>
 </m>
 <m id="m-cmpr9415-038-p14s3w11">
 <src.rf>manual</src.rf>
@@ -4426,7 +4465,10 @@
 <LM>w#w-cmpr9415-038-p14s4w3</LM>
 </w.rf>
 <form>strany</form>
-<tag lemma="strana-3_^(u_soudu,_na_úřadě,_smluvní_strany;_na_něčí_straně)" src="orig" selected="1">NNFS2-----A----</tag>
+<tag>
+<AM lemma="strana-3_^(u_soudu,_na_úřadě,_smluvní_strany;_na_něčí_straně)" src="orig">NNFS2-----A----</AM>
+<AM lemma="strana" src="manual" selected="1">NNFS2-----A----</AM>
+</tag>
 </m>
 <m id="m-cmpr9415-038-p14s4w4">
 <src.rf>manual</src.rf>
@@ -4921,7 +4963,7 @@
 <tag>
 <AM lemma="třísměna_,x" src="orig">NNFP4-----A----</AM>
 <AM lemma="trojsměna_,x" src="auto" recommended="1">NNFP1-----A----</AM>
-<AM lemma="trojsměna_,x" src="auto">NNFP4-----A----</AM>
+<AM lemma="trojsměna_,x" src="auto" selected="1">NNFP4-----A----</AM>
 <AM lemma="trojsměna_,x" src="auto">NNFP5-----A----</AM>
 <AM lemma="trojsměna_,x" src="auto">NNFS2-----A----</AM>
 </tag>

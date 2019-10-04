@@ -247,7 +247,10 @@
 <LM>w#w-cmpr9416-040-p3s1Bw11</LM>
 </w.rf>
 <form>jen</form>
-<tag lemma="jen-1" src="auto" selected="1">TT-------------</tag>
+<tag>
+<AM lemma="jen-1" src="auto">TT-------------</AM>
+<AM lemma="jen-4_^(pouze)" src="manual" selected="1">Db-------------</AM>
+</tag>
 </m>
 <m id="m-cmpr9416-040-p3s1Bw12">
 <src.rf>manual</src.rf>
@@ -423,6 +426,7 @@
 <AM lemma="house-1" src="auto">NNNS4-----A----</AM>
 <AM lemma="house-1" src="auto">NNNS5-----A----</AM>
 <AM lemma="house-2_,t" src="auto">XX-------------</AM>
+<AM lemma="house-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-cmpr9416-040-p3s1Cw8">
@@ -431,7 +435,10 @@
 <LM>w#w-cmpr9416-040-p3s1Cw8</LM>
 </w.rf>
 <form>music</form>
-<tag lemma="music_,t_^(př._pop_music)" src="orig" selected="1">NNFXX-----A----</tag>
+<tag>
+<AM lemma="music_,t_^(př._pop_music)" src="orig">NNFXX-----A----</AM>
+<AM lemma="music-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-cmpr9416-040-p3s1Cw9">
 <src.rf>manual</src.rf>
@@ -807,7 +814,10 @@
 <LM>w#w-cmpr9416-040-p3s1Gw1</LM>
 </w.rf>
 <form>CAUSA</form>
-<tag lemma="kauza_,x" src="orig" selected="1">NNFS1-----A----</tag>
+<tag>
+<AM lemma="kauza_,x" src="orig">NNFS1-----A----</AM>
+<AM lemma="causa_,s_^(^DD**kauza)" src="manual" selected="1">NNFS1-----A----</AM>
+</tag>
 </m>
 <m id="m-cmpr9416-040-p3s1Gw2">
 <src.rf>manual</src.rf>
@@ -815,7 +825,10 @@
 <LM>w#w-cmpr9416-040-p3s1Gw2</LM>
 </w.rf>
 <form>N</form>
-<tag lemma="N-0_:B_;Y" src="orig" selected="1">NNMXX-----A---8</tag>
+<tag>
+<AM lemma="N-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
+<AM lemma="N-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-cmpr9416-040-p3s1Gw3">
 <src.rf>manual</src.rf>
@@ -831,7 +844,10 @@
 <LM>w#w-cmpr9416-040-p3s1Gw4</LM>
 </w.rf>
 <form>S</form>
-<tag lemma="S-0_:B_;Y" src="orig" selected="1">NNMXX-----A---8</tag>
+<tag>
+<AM lemma="S-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
+<AM lemma="S-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-cmpr9416-040-p3s1Gw5">
 <src.rf>manual</src.rf>

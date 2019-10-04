@@ -167,7 +167,10 @@
 <LM>w#w-ln94211-90-p2s1Bw6</LM>
 </w.rf>
 <form>milionů</form>
-<tag lemma="milión`1000000" src="orig" selected="1">NNIP2-----A----</tag>
+<tag>
+<AM lemma="milión`1000000" src="orig">NNIP2-----A----</AM>
+<AM lemma="milion`1000000_,s_^(^DD**milión) " src="manual" selected="1">NNIP2-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94211-90-p2s1Bw7">
 <src.rf>manual</src.rf>
@@ -425,7 +428,10 @@
 <LM>w#w-ln94211-90-p3s1w17</LM>
 </w.rf>
 <form>Sv</form>
-<tag lemma="svatý-1_:B" src="auto" selected="1">AAXXX----1A---8</tag>
+<tag>
+<AM lemma="svatý-1_:B" src="auto">AAXXX----1A---8</AM>
+<AM lemma="svatý-1" src="manual" selected="1">AAXXX----1A---8</AM>
+</tag>
 </m>
 <m id="m-ln94211-90-p3s1w18">
 <src.rf>manual</src.rf>
@@ -1435,7 +1441,10 @@
 <LM>w#w-ln94211-90-p7s2w14</LM>
 </w.rf>
 <form>aj</form>
-<tag lemma="aj-1_:B_^(a_jiný/á/é)" src="orig" selected="1">AAXXX----1A---8</tag>
+<tag>
+<AM lemma="aj-1_:B_^(a_jiný/á/é)" src="orig">AAXXX----1A---8</AM>
+<AM lemma="aj-1_:B_^(a_jiný/á/é)" src="manual" selected="1">AAXXX----1A----</AM>
+</tag>
 </m>
 <m id="m-ln94211-90-p7s2w15">
 <src.rf>manual</src.rf>
@@ -1985,7 +1994,10 @@
 <LM>w#w-ln94211-90-p9s1w6</LM>
 </w.rf>
 <form>začala</form>
-<tag lemma="začít-1_^(začnout)" src="auto" selected="1">VpQW---XR-AA---</tag>
+<tag>
+<AM lemma="začít-1_^(začnout)" src="auto">VpQW---XR-AA---</AM>
+<AM lemma="začít-1_:W_^(začnout)" src="manual" selected="1">VpQW---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-ln94211-90-p9s1w7">
 <src.rf>manual</src.rf>
@@ -1993,7 +2005,10 @@
 <LM>w#w-ln94211-90-p9s1w7</LM>
 </w.rf>
 <form>tzv</form>
-<tag lemma="takzvaný_:B" src="orig" selected="1">AAXXX----1A---8</tag>
+<tag>
+<AM lemma="takzvaný_:B" src="orig">AAXXX----1A---8</AM>
+<AM lemma="takzvaný" src="manual" selected="1">AAXXX----1A---8</AM>
+</tag>
 </m>
 <m id="m-ln94211-90-p9s1w8">
 <src.rf>manual</src.rf>
@@ -2617,7 +2632,10 @@
 <LM>w#w-ln94211-90-p11s1w10</LM>
 </w.rf>
 <form>Meech</form>
-<tag lemma="Meech_;G_,t" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="Meech_;G_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="Meech-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94211-90-p11s1w11">
 <src.rf>manual</src.rf>
@@ -2625,7 +2643,10 @@
 <LM>w#w-ln94211-90-p11s1w11</LM>
 </w.rf>
 <form>Lake</form>
-<tag lemma="Lake_;G_,t_^(jezero,_v_názvech_jezer)" src="auto" selected="1">NNNXX-----A----</tag>
+<tag>
+<AM lemma="Lake_;G_,t_^(jezero,_v_názvech_jezer)" src="auto">NNNXX-----A----</AM>
+<AM lemma="Lake-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94211-90-p11s1w12">
 <src.rf>manual</src.rf>

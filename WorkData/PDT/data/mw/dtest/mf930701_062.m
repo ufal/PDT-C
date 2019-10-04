@@ -85,7 +85,10 @@
 <LM>w#w-mf930701-062-p2s1w5</LM>
 </w.rf>
 <form>lík</form>
-<tag lemma="lík-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="lík-99_:B_;S" src="orig">NNXXX-----A---8</AM>
+<AM lemma="lík-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930701-062-p2s1w6">
 <src.rf>manual</src.rf>
@@ -285,7 +288,10 @@
 <LM>w#w-mf930701-062-p2s1w30</LM>
 </w.rf>
 <form>Peter</form>
-<tag lemma="Peter_;Y" src="orig" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Peter_;Y" src="orig">NNMS1-----A----</AM>
+<AM lemma="Peter_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930701-062-p2s1w31">
 <src.rf>manual</src.rf>
@@ -473,7 +479,7 @@
 <form>zasáhla</form>
 <tag>
 <AM lemma="zasáhnout" src="orig">VpQW---XR-AA---</AM>
-<AM lemma="zasáhnout_:W" src="auto" recommended="1">VpQW---XR-AA--1</AM>
+<AM lemma="zasáhnout_:W" src="auto" recommended="1" selected="1">VpQW---XR-AA--1</AM>
 </tag>
 </m>
 <m id="m-mf930701-062-p2s2w23">

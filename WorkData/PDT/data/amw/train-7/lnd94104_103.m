@@ -367,6 +367,7 @@
 <AM lemma="Galatasaray_;G" src="auto">NNIP4-----A----</AM>
 <AM lemma="Galatasaray_;G" src="auto">NNIP5-----A----</AM>
 <AM lemma="Galatasaray_;G" src="auto">NNIP7-----A----</AM>
+<AM lemma="Galatasaray_;G_;K" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94104-103-p1s4w8">
@@ -735,7 +736,7 @@
 <form>přesto</form>
 <tag>
 <AM lemma="přesto" src="orig">Dg-------1A----</AM>
-<AM lemma="přesto-1" src="auto" recommended="1">Db-------------</AM>
+<AM lemma="přesto-1" src="auto" recommended="1" selected="1">Db-------------</AM>
 <AM lemma="přesto-2" src="auto">J^-------------</AM>
 </tag>
 </m>

@@ -106,7 +106,7 @@
 <form>kamkoliv</form>
 <tag>
 <AM lemma="kamkoliv" src="orig">Db-------------</AM>
-<AM lemma="kamkoli" src="auto" recommended="1">Db------------1</AM>
+<AM lemma="kamkoli" src="auto" recommended="1" selected="1">Db------------1</AM>
 </tag>
 </m>
 <m id="m-cmpr9415-003-p3s1Bw3">
@@ -401,7 +401,10 @@
 <LM>w#w-cmpr9415-003-p4s3w4</LM>
 </w.rf>
 <form>nestalo</form>
-<tag lemma="stát-2_^(něco_se_přihodilo)" src="orig" selected="1">VpNS---XR-NA---</tag>
+<tag>
+<AM lemma="stát-2_^(něco_se_přihodilo)" src="orig">VpNS---XR-NA---</AM>
+<AM lemma="stát-2_^(stanu_staneš)" src="manual" selected="1">VpNS---XR-NA---</AM>
+</tag>
 </m>
 <m id="m-cmpr9415-003-p4s3w5">
 <src.rf>manual</src.rf>
@@ -545,7 +548,10 @@
 <LM>w#w-cmpr9415-003-p4s3w23</LM>
 </w.rf>
 <form>stává</form>
-<tag lemma="stávat-2_:T_^(něco_se_přihodilo)_(*5t-2)" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag>
+<AM lemma="stávat-2_:T_^(něco_se_přihodilo)_(*5t-2)" src="orig">VB-S---3P-AA---</AM>
+<AM lemma="stávat-2_:T_^(stanu_staneš)_(*5t-2)" src="manual" selected="1">VB-S---3P-AA---</AM>
+</tag>
 </m>
 <m id="m-cmpr9415-003-p4s3w24">
 <src.rf>manual</src.rf>
@@ -905,7 +911,10 @@
 <LM>w#w-cmpr9415-003-p5s2w5</LM>
 </w.rf>
 <form>milionů</form>
-<tag lemma="milión`1000000" src="orig" selected="1">NNIP2-----A----</tag>
+<tag>
+<AM lemma="milión`1000000" src="orig">NNIP2-----A----</AM>
+<AM lemma="milion`1000000_,s_^(^DD**milión)" src="manual" selected="1">NNIP2-----A----</AM>
+</tag>
 </m>
 <m id="m-cmpr9415-003-p5s2w6">
 <src.rf>manual</src.rf>
@@ -1035,7 +1044,10 @@
 <LM>w#w-cmpr9415-003-p5s3w9</LM>
 </w.rf>
 <form>Ottavě</form>
-<tag lemma="Ottawa_;G_,h" src="orig" selected="1">NNFS6-----A----</tag>
+<tag>
+<AM lemma="Ottawa_;G_,h" src="orig">NNFS6-----A----</AM>
+<AM lemma="Ottava_;G_,s_^(^DD**Ottawa)" src="manual" selected="1">NNFS6-----A----</AM>
+</tag>
 </m>
 <m id="m-cmpr9415-003-p5s3w10">
 <src.rf>manual</src.rf>
@@ -1297,7 +1309,10 @@
 <LM>w#w-cmpr9415-003-p7s2w6</LM>
 </w.rf>
 <form>kamionů</form>
-<tag lemma="kamión" src="orig" selected="1">NNIP2-----A----</tag>
+<tag>
+<AM lemma="kamión" src="orig">NNIP2-----A----</AM>
+<AM lemma="kamion_,s_^(^DD**kamión)" src="manual" selected="1">NNIP2-----A----</AM>
+</tag>
 </m>
 <m id="m-cmpr9415-003-p7s2w7">
 <src.rf>manual</src.rf>
@@ -1313,7 +1328,10 @@
 <LM>w#w-cmpr9415-003-p7s2w8</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-2" src="auto" selected="1">Dg-------2A----</tag>
+<tag>
+<AM lemma="hodně-2" src="auto">Dg-------2A----</AM>
+<AM lemma="hodně-3" src="manual" selected="1">Dg-------2A----</AM>
+</tag>
 </m>
 <m id="m-cmpr9415-003-p7s2w9">
 <src.rf>manual</src.rf>
@@ -1426,7 +1444,7 @@
 </w.rf>
 <form>Louise</form>
 <tag>
-<AM lemma="Louise_;Y" src="orig">NNFS1-----A----</AM>
+<AM lemma="Louise_;Y" src="orig" selected="1">NNFS1-----A----</AM>
 <AM lemma="Louis-2_;G_^(př._St._Louis)" src="auto">NNIS5-----A----</AM>
 <AM lemma="Louis-3_;Y" src="auto">NNMP4-----A----</AM>
 <AM lemma="Louis-3_;Y" src="auto">NNMS2-----A----</AM>
@@ -1718,7 +1736,10 @@
 <LM>w#w-cmpr9415-003-p7s4w5</LM>
 </w.rf>
 <form>stávalo</form>
-<tag lemma="stávat-2_:T_^(něco_se_přihodilo)_(*5t-2)" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag>
+<AM lemma="stávat-2_:T_^(něco_se_přihodilo)_(*5t-2)" src="orig">VpNS---XR-AA---</AM>
+<AM lemma="stávat-2_:T_^(stanu_staneš)_(*5t-2)" src="manual" selected="1">VpNS---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-cmpr9415-003-p7s4w6">
 <src.rf>manual</src.rf>
@@ -2083,7 +2104,10 @@
 <LM>w#w-cmpr9415-003-p7s6w13</LM>
 </w.rf>
 <form>stanou</form>
-<tag lemma="stát-2_^(něco_se_přihodilo)" src="orig" selected="1">VB-P---3P-AA---</tag>
+<tag>
+<AM lemma="stát-2_^(něco_se_přihodilo)" src="orig">VB-P---3P-AA---</AM>
+<AM lemma="stát-2_^(stanu_staneš)" src="manual" selected="1">VB-P---3P-AA---</AM>
+</tag>
 </m>
 <m id="m-cmpr9415-003-p7s6w14">
 <src.rf>manual</src.rf>
@@ -2425,7 +2449,10 @@
 <LM>w#w-cmpr9415-003-p9s2w17</LM>
 </w.rf>
 <form>kamionů</form>
-<tag lemma="kamión" src="orig" selected="1">NNIP2-----A----</tag>
+<tag>
+<AM lemma="kamión" src="orig">NNIP2-----A----</AM>
+<AM lemma="kamion_,s_^(^DD**kamión)" src="manual" selected="1">NNIP2-----A----</AM>
+</tag>
 </m>
 <m id="m-cmpr9415-003-p9s2w18">
 <src.rf>manual</src.rf>
@@ -2707,7 +2734,10 @@
 <LM>w#w-cmpr9415-003-p9s3w24</LM>
 </w.rf>
 <form>kamionu</form>
-<tag lemma="kamión" src="orig" selected="1">NNIS2-----A----</tag>
+<tag>
+<AM lemma="kamión" src="orig">NNIS2-----A----</AM>
+<AM lemma="kamion_,s_^(^DD**kamión)" src="manual" selected="1">NNIS2-----A----</AM>
+</tag>
 </m>
 <m id="m-cmpr9415-003-p9s3w25">
 <src.rf>manual</src.rf>
@@ -3221,7 +3251,10 @@
 <LM>w#w-cmpr9415-003-p11s2w1</LM>
 </w.rf>
 <form>Stává</form>
-<tag lemma="stávat-2_:T_^(něco_se_přihodilo)_(*5t-2)" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag>
+<AM lemma="stávat-2_:T_^(něco_se_přihodilo)_(*5t-2)" src="orig">VB-S---3P-AA---</AM>
+<AM lemma="stávat-2_:T_^(stanu_staneš)_(*5t-2)" src="manual" selected="1">VB-S---3P-AA---</AM>
+</tag>
 </m>
 <m id="m-cmpr9415-003-p11s2w2">
 <src.rf>manual</src.rf>
@@ -3369,7 +3402,7 @@
 <form>totiž</form>
 <tag>
 <AM lemma="totiž" src="orig">Db-------------</AM>
-<AM lemma="totiž-1" src="auto" recommended="1">J^-------------</AM>
+<AM lemma="totiž-1" src="auto" recommended="1" selected="1">J^-------------</AM>
 <AM lemma="totiž-2" src="auto">TT-------------</AM>
 </tag>
 </m>
@@ -3403,7 +3436,10 @@
 <LM>w#w-cmpr9415-003-p11s3w7</LM>
 </w.rf>
 <form>milionů</form>
-<tag lemma="milión`1000000" src="orig" selected="1">NNIP2-----A----</tag>
+<tag>
+<AM lemma="milión`1000000" src="orig">NNIP2-----A----</AM>
+<AM lemma="milion`1000000_,s_^(^DD**milión)" src="manual" selected="1">NNIP2-----A----</AM>
+</tag>
 </m>
 <m id="m-cmpr9415-003-p11s3w8">
 <src.rf>manual</src.rf>
@@ -3809,7 +3845,7 @@
 <form>nejen</form>
 <tag>
 <AM lemma="nejen" src="orig">TT-------------</AM>
-<AM lemma="nejen" src="auto" recommended="1">Db-------------</AM>
+<AM lemma="nejen" src="auto" recommended="1" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m-cmpr9415-003-p12s2w26">

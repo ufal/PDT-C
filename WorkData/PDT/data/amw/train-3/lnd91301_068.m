@@ -22,6 +22,7 @@
 <tag>
 <AM lemma="USA_;G" src="orig">NNIPX-----A----</AM>
 <AM lemma="USA_:B_;K_,t_^(United_States_of_America)" src="auto" recommended="1">NNIPX-----A---8</AM>
+<AM lemma="USA_:B_;K_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd91301-068-p1s1w2">
@@ -68,7 +69,10 @@
 <LM>w#w-lnd91301-068-p4s1w1</LM>
 </w.rf>
 <form>WASHINGTON</form>
-<tag lemma="Washington-1_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Washington-1_;S" src="orig">NNMS1-----A----</AM>
+<AM lemma="Washington-2_;G" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd91301-068-p4s1w2">
 <src.rf>manual</src.rf>
@@ -110,7 +114,10 @@
 <LM>w#w-lnd91301-068-p5s1w4</LM>
 </w.rf>
 <form>George</form>
-<tag lemma="George_;Y_,t" src="orig" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="George_;Y_,t" src="orig">NNMS1-----A----</AM>
+<AM lemma="George_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd91301-068-p5s1w5">
 <src.rf>manual</src.rf>
@@ -270,7 +277,10 @@
 <LM>w#w-lnd91301-068-p5s1w24</LM>
 </w.rf>
 <form>terorismu</form>
-<tag lemma="terorizmus" src="orig" selected="1">NNIS2-----A----</tag>
+<tag>
+<AM lemma="terorizmus" src="orig">NNIS2-----A----</AM>
+<AM lemma="terorismus_,s_^(^DD**terorizmus)" src="manual" selected="1">NNIS2-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd91301-068-p5s1w25">
 <src.rf>manual</src.rf>
@@ -352,7 +362,10 @@
 <LM>w#w-lnd91301-068-p5s2w9</LM>
 </w.rf>
 <form>uvedl</form>
-<tag lemma="uvést" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag>
+<AM lemma="uvést" src="orig">VpYS---XR-AA---</AM>
+<AM lemma="uvést_:W" src="manual" selected="1">VpYS---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-lnd91301-068-p5s2w10">
 <src.rf>manual</src.rf>

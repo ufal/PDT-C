@@ -393,7 +393,10 @@
 <LM>w#w-ln94211-32-p2s2w12</LM>
 </w.rf>
 <form>AISA</form>
-<tag lemma="AISA_:B_;K_,t_^(Assoc.for_Indepen.Social_Analysis)" src="auto" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="AISA_:B_;K_,t_^(Assoc.for_Indepen.Social_Analysis)" src="auto">NNFXX-----A---8</AM>
+<AM lemma="AISA-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln94211-32-p2s2w13">
 <src.rf>manual</src.rf>

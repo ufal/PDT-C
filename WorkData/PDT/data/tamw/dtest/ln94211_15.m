@@ -247,7 +247,11 @@
 <LM>w#w-ln94211-15-p2s1Bw19</LM>
 </w.rf>
 <form>kW</form>
-<tag lemma="kW-1`kilowatt_:B" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="kW-1`kilowatt_:B" src="orig">NNIXX-----A---8</AM>
+<AM lemma="kW-1`kilowatt" src="manual">NNIXX-----A---8</AM>
+<AM lemma="kilowatt" src="manual" selected="1">NNIXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln94211-15-p2s1Bw20">
 <src.rf>manual</src.rf>
@@ -321,7 +325,10 @@
 <LM>w#w-ln94211-15-p2s2w8</LM>
 </w.rf>
 <form>MW</form>
-<tag lemma="MW-1`megawatt_:B" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="MW-1`megawatt_:B" src="orig">NNIXX-----A---8</AM>
+<AM lemma="megawatt" src="manual" selected="1">NNIXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln94211-15-p2s2w9">
 <src.rf>manual</src.rf>
@@ -363,7 +370,10 @@
 <LM>w#w-ln94211-15-p2s3w3</LM>
 </w.rf>
 <form>řekl</form>
-<tag lemma="říci" src="auto" selected="1">VpYS---XR-AA---</tag>
+<tag>
+<AM lemma="říci" src="auto">VpYS---XR-AA---</AM>
+<AM lemma="říci_:W" src="manual" selected="1">VpYS---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-ln94211-15-p2s3w4">
 <src.rf>manual</src.rf>
@@ -427,7 +437,10 @@
 <LM>w#w-ln94211-15-p2s3w11</LM>
 </w.rf>
 <form>Štekl</form>
-<tag lemma="Štekl" src="auto" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Štekl" src="auto">NNMS1-----A----</AM>
+<AM lemma="Štekl_;S" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94211-15-p2s3w12">
 <src.rf>manual</src.rf>
@@ -583,7 +596,10 @@
 <LM>w#w-ln94211-15-p3s2w1</LM>
 </w.rf>
 <form>Štekl</form>
-<tag lemma="Štekl" src="auto" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Štekl" src="auto">NNMS1-----A----</AM>
+<AM lemma="Štekl_;S" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94211-15-p3s2w2">
 <src.rf>manual</src.rf>
@@ -897,7 +913,10 @@
 <LM>w#w-ln94211-15-p4s1w5</LM>
 </w.rf>
 <form>řekl</form>
-<tag lemma="říci" src="auto" selected="1">VpYS---XR-AA---</tag>
+<tag>
+<AM lemma="říci" src="auto">VpYS---XR-AA---</AM>
+<AM lemma="říci_:W" src="manual" selected="1">VpYS---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-ln94211-15-p4s1w6">
 <src.rf>manual</src.rf>
@@ -1089,7 +1108,10 @@
 <LM>w#w-ln94211-15-p4s1w30</LM>
 </w.rf>
 <form>kWh</form>
-<tag lemma="kWh-1`kilowatthodina_:B" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="kWh-1`kilowatthodina_:B" src="orig">NNFXX-----A---8</AM>
+<AM lemma="kilowatthodina" src="manual" selected="1">NNFXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln94211-15-p4s1w31">
 <src.rf>manual</src.rf>

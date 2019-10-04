@@ -51,7 +51,10 @@
 <LM>w#w-mf920902-154-p1s1Aw5</LM>
 </w.rf>
 <form>NDR</form>
-<tag lemma="NDR_:B_;G_;K" src="auto" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="NDR_:B_;G_;K" src="auto">NNFXX-----A---8</AM>
+<AM lemma="NDR-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920902-154-p1s1Aw6">
 <src.rf>manual</src.rf>
@@ -177,7 +180,10 @@
 <LM>w#w-mf920902-154-p2s2w4</LM>
 </w.rf>
 <form>NDR</form>
-<tag lemma="NDR_:B_;G_;K" src="auto" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="NDR_:B_;G_;K" src="auto">NNFXX-----A---8</AM>
+<AM lemma="NDR-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920902-154-p2s2w5">
 <src.rf>manual</src.rf>
@@ -307,7 +313,10 @@
 <LM>w#w-mf920902-154-p2s3w4</LM>
 </w.rf>
 <form>přepadli</form>
-<tag lemma="přepadnout" src="auto" selected="1">VpMP---XR-AA---</tag>
+<tag>
+<AM lemma="přepadnout" src="auto">VpMP---XR-AA---</AM>
+<AM lemma="přepadnout_:W" src="manual" selected="1">VpMP---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-mf920902-154-p2s3w5">
 <src.rf>manual</src.rf>
@@ -375,6 +384,7 @@
 <AM lemma="Lindenthal_;G" src="orig">NNIS6-----A----</AM>
 <AM lemma="Lindenthal_;S" src="auto">NNMS3-----A---1</AM>
 <AM lemma="Lindenthal_;S" src="auto" recommended="1">NNMS6-----A---1</AM>
+<AM lemma="Lindenthal-2_;G" src="manual" selected="1">NNIS6-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920902-154-p2s3w13">
@@ -739,6 +749,7 @@
 <AM lemma="Lindenthal_;G" src="orig">NNIS2-----A----</AM>
 <AM lemma="Lindenthal_;S" src="auto" recommended="1">NNMS3-----A---1</AM>
 <AM lemma="Lindenthal_;S" src="auto">NNMS6-----A---1</AM>
+<AM lemma="Lindenthal-2_;G" src="manual" selected="1">NNIS2-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920902-154-p3s1w16">
@@ -855,6 +866,7 @@
 <AM lemma="Holzhausen_;G" src="orig">NNIS6-----A----</AM>
 <AM lemma="Holzhausen_;S" src="auto">NNMS3-----A---1</AM>
 <AM lemma="Holzhausen_;S" src="auto" recommended="1">NNMS6-----A---1</AM>
+<AM lemma="Holzhausen-2_;G" src="manual" selected="1">NNIS6-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920902-154-p3s1w30">
@@ -1054,7 +1066,7 @@
 <AM lemma="zárodek" src="auto">NNIS2-----A----</AM>
 <AM lemma="zárodek" src="auto">NNIS3-----A----</AM>
 <AM lemma="zárodek" src="auto">NNIS5-----A----</AM>
-<AM lemma="zárodek" src="auto" recommended="1">NNIS6-----A----</AM>
+<AM lemma="zárodek" src="auto" recommended="1" selected="1">NNIS6-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920902-154-p4s1w20">
@@ -1493,7 +1505,10 @@
 <LM>w#w-mf920902-154-p5s2w18</LM>
 </w.rf>
 <form>sjede</form>
-<tag lemma="sjet" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag>
+<AM lemma="sjet" src="orig">VB-S---3P-AA---</AM>
+<AM lemma="sjet_:W" src="manual" selected="1">VB-S---3P-AA---</AM>
+</tag>
 </m>
 <m id="m-mf920902-154-p5s2w19">
 <src.rf>manual</src.rf>
@@ -1623,7 +1638,10 @@
 <LM>w#w-mf920902-154-p5s3w8</LM>
 </w.rf>
 <form>přepadena</form>
-<tag lemma="přepadnout" src="orig" selected="1">VsQW---XX-AP---</tag>
+<tag>
+<AM lemma="přepadnout" src="orig">VsQW---XX-AP---</AM>
+<AM lemma="přepadnout_:W" src="manual" selected="1">VsQW---XX-AP---</AM>
+</tag>
 </m>
 <m id="m-mf920902-154-p5s3w9">
 <src.rf>manual</src.rf>
@@ -1916,7 +1934,10 @@
 <LM>w#w-mf920902-154-p6s2w11</LM>
 </w.rf>
 <form>mají</form>
-<tag lemma="mít" src="orig" selected="1">VB-P---3P-AA---</tag>
+<tag>
+<AM lemma="mít" src="orig">VB-P---3P-AA---</AM>
+<AM lemma="mít_:T" src="manual" selected="1">VB-P---3P-AA---</AM>
+</tag>
 </m>
 <m id="m-mf920902-154-p6s2w12">
 <src.rf>manual</src.rf>
@@ -2007,7 +2028,10 @@
 <LM>w#w-mf920902-154-p6s3w7</LM>
 </w.rf>
 <form>mají</form>
-<tag lemma="mít" src="orig" selected="1">VB-P---3P-AA---</tag>
+<tag>
+<AM lemma="mít" src="orig">VB-P---3P-AA---</AM>
+<AM lemma="mít_:T" src="manual" selected="1">VB-P---3P-AA---</AM>
+</tag>
 </m>
 <m id="m-mf920902-154-p6s3w8">
 <src.rf>manual</src.rf>
@@ -2309,7 +2333,7 @@
 <form>totiž</form>
 <tag>
 <AM lemma="totiž" src="orig">Db-------------</AM>
-<AM lemma="totiž-1" src="auto" recommended="1">J^-------------</AM>
+<AM lemma="totiž-1" src="auto" recommended="1" selected="1">J^-------------</AM>
 <AM lemma="totiž-2" src="auto">TT-------------</AM>
 </tag>
 </m>

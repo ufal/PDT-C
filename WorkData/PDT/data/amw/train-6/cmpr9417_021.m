@@ -145,7 +145,7 @@
 <form>Přesto</form>
 <tag>
 <AM lemma="přesto" src="orig">Dg-------1A----</AM>
-<AM lemma="přesto-1" src="auto" recommended="1">Db-------------</AM>
+<AM lemma="přesto-1" src="auto" recommended="1" selected="1">Db-------------</AM>
 <AM lemma="přesto-2" src="auto">J^-------------</AM>
 </tag>
 </m>
@@ -616,7 +616,7 @@
 <AM lemma="řídicí_^(^IC**řídit)" src="orig">AGIP2-----A----</AM>
 <AM lemma="řídicí_^(^IC*2t)" src="auto">AAFP2----1A----</AM>
 <AM lemma="řídicí_^(^IC*2t)" src="auto">AAFP6----1A----</AM>
-<AM lemma="řídicí_^(^IC*2t)" src="auto" recommended="1">AAIP2----1A----</AM>
+<AM lemma="řídicí_^(^IC*2t)" src="auto" recommended="1" selected="1">AAIP2----1A----</AM>
 <AM lemma="řídicí_^(^IC*2t)" src="auto">AAIP6----1A----</AM>
 <AM lemma="řídicí_^(^IC*2t)" src="auto">AAMP2----1A----</AM>
 <AM lemma="řídicí_^(^IC*2t)" src="auto">AAMP6----1A----</AM>
@@ -702,7 +702,10 @@
 <LM>w#w-cmpr9417-021-p3s6w15</LM>
 </w.rf>
 <form>hodně</form>
-<tag lemma="hodně-2_^(nezlobivý)_(*3ý-2)" src="auto" selected="1">Dg-------1A----</tag>
+<tag>
+<AM lemma="hodně-2_^(nezlobivý)_(*3ý-2)" src="auto">Dg-------1A----</AM>
+<AM lemma="hodně-1_^(hodně_+_2._p.,_hodně_peněz)" src="manual" selected="1">Ca--4----------</AM>
+</tag>
 </m>
 <m id="m-cmpr9417-021-p3s6w16">
 <src.rf>manual</src.rf>
@@ -792,7 +795,10 @@
 <LM>w#w-cmpr9417-021-p4s1w7</LM>
 </w.rf>
 <form>Hansen</form>
-<tag lemma="Hansen_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Hansen_;S" src="orig">NNMS1-----A----</AM>
+<AM lemma="Hansen-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-cmpr9417-021-p4s1w8">
 <src.rf>manual</src.rf>
@@ -808,7 +814,10 @@
 <LM>w#w-cmpr9417-021-p4s1w9</LM>
 </w.rf>
 <form>Reinders</form>
-<tag lemma="Reinders_;K_,t" src="orig" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="Reinders_;K_,t" src="orig">NNIS1-----A----</AM>
+<AM lemma="Reinders-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 </s>
 </mdata>

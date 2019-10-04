@@ -85,7 +85,10 @@
 <LM>w#w-ln95041-002-p2s1Aw2</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-2" src="auto" selected="1">Dg-------2A----</tag>
+<tag>
+<AM lemma="hodně-2" src="auto">Dg-------2A----</AM>
+<AM lemma="více_^(více_+_2._p.,_více_peněz)" src="manual" selected="1">Ca--1----------</AM>
+</tag>
 </m>
 <m id="m-ln95041-002-p2s1Aw3">
 <src.rf>manual</src.rf>
@@ -713,7 +716,10 @@
 <LM>w#w-ln95041-002-p3s1w3</LM>
 </w.rf>
 <form>vydá</form>
-<tag lemma="vydat-4_:W_^(platit,_př._vydat_peníze,_v._se_ze_všeho)" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag>
+<AM lemma="vydat-4_:W_^(platit,_př._vydat_peníze,_v._se_ze_všeho)" src="orig">VB-S---3P-AA---</AM>
+<AM lemma="vydat_:W" src="manual" selected="1">VB-S---3P-AA---</AM>
+</tag>
 </m>
 <m id="m-ln95041-002-p3s1w4">
 <src.rf>manual</src.rf>
@@ -817,7 +823,10 @@
 <LM>w#w-ln95041-002-p3s1w16</LM>
 </w.rf>
 <form>jen</form>
-<tag lemma="jen-1" src="auto" selected="1">TT-------------</tag>
+<tag>
+<AM lemma="jen-1" src="auto">TT-------------</AM>
+<AM lemma="jen-4_^(pouze)" src="manual" selected="1">Db-------------</AM>
+</tag>
 </m>
 <m id="m-ln95041-002-p3s1w17">
 <src.rf>manual</src.rf>
@@ -1040,7 +1049,7 @@
 <tag>
 <AM lemma="přesto" src="orig">Dg-------1A----</AM>
 <AM lemma="přesto-1" src="auto">Db-------------</AM>
-<AM lemma="přesto-2" src="auto" recommended="1">J^-------------</AM>
+<AM lemma="přesto-2" src="auto" recommended="1" selected="1">J^-------------</AM>
 </tag>
 </m>
 <m id="m-ln95041-002-p3s3w9">
@@ -1243,7 +1252,10 @@
 <LM>w#w-ln95041-002-p3s4w15</LM>
 </w.rf>
 <form>jen</form>
-<tag lemma="jen-1" src="auto" selected="1">TT-------------</tag>
+<tag>
+<AM lemma="jen-1" src="auto">TT-------------</AM>
+<AM lemma="jen-4_^(pouze)" src="manual" selected="1">Db-------------</AM>
+</tag>
 </m>
 <m id="m-ln95041-002-p3s4w16">
 <src.rf>manual</src.rf>
@@ -1469,7 +1481,10 @@
 <LM>w#w-ln95041-002-p4s1w12</LM>
 </w.rf>
 <form>stojí</form>
-<tag lemma="stát-4_^(něco_stojí_peníze)" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag>
+<AM lemma="stát-4_^(něco_stojí_peníze)" src="orig">VB-S---3P-AA---</AM>
+<AM lemma="stát-3_^(stojím_stojíš)" src="manual" selected="1">VB-S---3P-AA---</AM>
+</tag>
 </m>
 <m id="m-ln95041-002-p4s1w13">
 <src.rf>manual</src.rf>
@@ -1575,7 +1590,10 @@
 <LM>w#w-ln95041-002-p4s2w10</LM>
 </w.rf>
 <form>jenom</form>
-<tag lemma="jenom-1" src="auto" selected="1">TT-------------</tag>
+<tag>
+<AM lemma="jenom-1" src="auto">TT-------------</AM>
+<AM lemma="jenom-2_^(pouze)" src="manual" selected="1">Db-------------</AM>
+</tag>
 </m>
 <m id="m-ln95041-002-p4s2w11">
 <src.rf>manual</src.rf>
@@ -2241,7 +2259,10 @@
 <LM>w#w-ln95041-002-p4s7w15</LM>
 </w.rf>
 <form>stojí</form>
-<tag lemma="stát-4_^(něco_stojí_peníze)" src="orig" selected="1">VB-P---3P-AA---</tag>
+<tag>
+<AM lemma="stát-4_^(něco_stojí_peníze)" src="orig">VB-P---3P-AA---</AM>
+<AM lemma="stát-3_^(stojím_stojíš)" src="manual" selected="1">VB-S---3P-AA---</AM>
+</tag>
 </m>
 <m id="m-ln95041-002-p4s7w16">
 <src.rf>manual</src.rf>
@@ -2443,7 +2464,10 @@
 <LM>w#w-ln95041-002-p4s8w23</LM>
 </w.rf>
 <form>ani</form>
-<tag lemma="ani-1" src="auto" selected="1">J^-------------</tag>
+<tag>
+<AM lemma="ani-1" src="auto">J^-------------</AM>
+<AM lemma="ani-2" src="manual" selected="1">TT-------------</AM>
+</tag>
 </m>
 <m id="m-ln95041-002-p4s8w24">
 <src.rf>manual</src.rf>
@@ -2687,7 +2711,10 @@
 <LM>w#w-ln95041-002-p5s1w13</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-2" src="auto" selected="1">Dg-------2A----</tag>
+<tag>
+<AM lemma="hodně-2" src="auto">Dg-------2A----</AM>
+<AM lemma="hodně-3" src="manual" selected="1">Dg-------2A----</AM>
+</tag>
 </m>
 <m id="m-ln95041-002-p5s1w14">
 <src.rf>manual</src.rf>
@@ -3013,7 +3040,10 @@
 <LM>w#w-ln95041-002-p5s3w11</LM>
 </w.rf>
 <form>jen</form>
-<tag lemma="jen-1" src="auto" selected="1">TT-------------</tag>
+<tag>
+<AM lemma="jen-1" src="auto">TT-------------</AM>
+<AM lemma="jen-4_^(pouze)" src="manual" selected="1">Db-------------</AM>
+</tag>
 </m>
 <m id="m-ln95041-002-p5s3w12">
 <src.rf>manual</src.rf>
@@ -3994,7 +4024,10 @@
 <LM>w#w-ln95041-002-p7s1w7</LM>
 </w.rf>
 <form>snědl</form>
-<tag lemma="sníst" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag>
+<AM lemma="sníst" src="orig">VpYS---XR-AA---</AM>
+<AM lemma="sníst_:W" src="manual" selected="1">VpYS---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-ln95041-002-p7s1w8">
 <src.rf>manual</src.rf>
@@ -4624,7 +4657,10 @@
 <LM>w#w-ln95041-002-p8s2w9</LM>
 </w.rf>
 <form>spíše</form>
-<tag lemma="spíše" src="orig" selected="1">Dg-------2A---1</tag>
+<tag>
+<AM lemma="spíše" src="orig">Dg-------2A---1</AM>
+<AM lemma="spíš" src="manual" selected="1">TT------------1</AM>
+</tag>
 </m>
 <m id="m-ln95041-002-p8s2w10">
 <src.rf>manual</src.rf>
@@ -4924,7 +4960,10 @@
 <LM>w#w-ln95041-002-p8s4w15</LM>
 </w.rf>
 <form>favorita</form>
-<tag lemma="favorit-2" src="orig" selected="1">NNMS4-----A----</tag>
+<tag>
+<AM lemma="favorit-2" src="orig">NNMS4-----A----</AM>
+<AM lemma="favorit-1_;R_^(vozidlo)" src="manual" selected="1">NNIS4-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95041-002-p8s4w16">
 <src.rf>manual</src.rf>
@@ -5376,7 +5415,7 @@
 <AM lemma="jateční" src="orig">AAMS2----1A----</AM>
 <AM lemma="jatečné_^(poplatek)" src="auto">NNNS2-----A----</AM>
 <AM lemma="jatečný" src="auto">AAIS2----1A----</AM>
-<AM lemma="jatečný" src="auto" recommended="1">AAMS2----1A----</AM>
+<AM lemma="jatečný" src="auto" recommended="1" selected="1">AAMS2----1A----</AM>
 <AM lemma="jatečný" src="auto">AAMS4----1A----</AM>
 <AM lemma="jatečný" src="auto">AANS2----1A----</AM>
 </tag>

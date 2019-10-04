@@ -51,7 +51,10 @@
 <LM>w#w-lnd92251-116-p1s1w5</LM>
 </w.rf>
 <form>AMATÉRISMEM</form>
-<tag lemma="amatérismus" src="orig" selected="1">NNIS7-----A----</tag>
+<tag>
+<AM lemma="amatérismus" src="orig">NNIS7-----A----</AM>
+<AM lemma="amatérismus_,s_^(^DD**amatérizmus)" src="manual" selected="1">NNIS7-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92251-116-p1s1w6">
 <src.rf>manual</src.rf>
@@ -241,7 +244,7 @@
 <form>nejen</form>
 <tag>
 <AM lemma="nejen" src="orig">TT-------------</AM>
-<AM lemma="nejen" src="auto" recommended="1">Db-------------</AM>
+<AM lemma="nejen" src="auto" recommended="1" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m-lnd92251-116-p3s1w12">
@@ -997,7 +1000,7 @@
 <tag>
 <AM lemma="tady" src="orig">Db------------1</AM>
 <AM lemma="ten" src="auto" recommended="1">PDFS4----------</AM>
-<AM lemma="tu" src="auto">Db-------------</AM>
+<AM lemma="tu" src="auto" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m-lnd92251-116-p4s3w6">
@@ -1050,7 +1053,7 @@
 <form>Nejen</form>
 <tag>
 <AM lemma="nejen" src="orig">TT-------------</AM>
-<AM lemma="nejen" src="auto" recommended="1">Db-------------</AM>
+<AM lemma="nejen" src="auto" recommended="1" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m-lnd92251-116-p4s4w2">
@@ -1227,7 +1230,10 @@
 <LM>w#w-lnd92251-116-p4s4w23</LM>
 </w.rf>
 <form>právě</form>
-<tag lemma="právě-1" src="auto" selected="1">Db-------------</tag>
+<tag>
+<AM lemma="právě-1" src="auto">Db-------------</AM>
+<AM lemma="právě-2" src="manual" selected="1">TT-------------</AM>
+</tag>
 </m>
 <m id="m-lnd92251-116-p4s4w24">
 <src.rf>manual</src.rf>
@@ -1905,7 +1911,10 @@
 <LM>w#w-lnd92251-116-p5s3w22</LM>
 </w.rf>
 <form>víc</form>
-<tag lemma="hodně-2" src="auto" selected="1">Dg-------2A---1</tag>
+<tag>
+<AM lemma="hodně-2" src="auto">Dg-------2A---1</AM>
+<AM lemma="hodně-3" src="manual" selected="1">Dg-------2A---1</AM>
+</tag>
 </m>
 <m id="m-lnd92251-116-p5s3w23">
 <src.rf>manual</src.rf>
@@ -2133,7 +2142,10 @@
 <LM>w#w-lnd92251-116-p5s5w7</LM>
 </w.rf>
 <form>víc</form>
-<tag lemma="hodně-2" src="auto" selected="1">Dg-------2A---1</tag>
+<tag>
+<AM lemma="hodně-2" src="auto">Dg-------2A---1</AM>
+<AM lemma="hodně-3" src="manual" selected="1">Dg-------2A---1</AM>
+</tag>
 </m>
 <m id="m-lnd92251-116-p5s5w8">
 <src.rf>manual</src.rf>
@@ -2141,7 +2153,10 @@
 <LM>w#w-lnd92251-116-p5s5w8</LM>
 </w.rf>
 <form>fair</form>
-<tag lemma="fair" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="fair" src="orig">AAXXX----1A----</AM>
+<AM lemma="fair-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-lnd92251-116-p5s5w9">
 <src.rf>manual</src.rf>
@@ -2149,7 +2164,10 @@
 <LM>w#w-lnd92251-116-p5s5w9</LM>
 </w.rf>
 <form>play</form>
-<tag lemma="play-1_,t" src="orig" selected="1">NNFXX-----A----</tag>
+<tag>
+<AM lemma="play-1_,t" src="orig">NNFXX-----A----</AM>
+<AM lemma="play-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-lnd92251-116-p5s5w10">
 <src.rf>manual</src.rf>
@@ -2317,7 +2335,10 @@
 <LM>w#w-lnd92251-116-p5s5w30</LM>
 </w.rf>
 <form>jen</form>
-<tag lemma="jen-1" src="auto" selected="1">TT-------------</tag>
+<tag>
+<AM lemma="jen-1" src="auto">TT-------------</AM>
+<AM lemma="jen-4_^(pouze)" src="manual" selected="1">Db-------------</AM>
+</tag>
 </m>
 <m id="m-lnd92251-116-p5s5w31">
 <src.rf>manual</src.rf>
@@ -2391,7 +2412,10 @@
 <LM>w#w-lnd92251-116-p5s6w2</LM>
 </w.rf>
 <form>amatérismus</form>
-<tag lemma="amatérismus" src="orig" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="amatérismus" src="orig">NNIS1-----A----</AM>
+<AM lemma="amatérismus_,s_^(^DD**amatérizmus)" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92251-116-p5s6w3">
 <src.rf>manual</src.rf>
@@ -2759,7 +2783,10 @@
 <LM>w#w-lnd92251-116-p5s10w6</LM>
 </w.rf>
 <form>jenom</form>
-<tag lemma="jenom-1" src="auto" selected="1">TT-------------</tag>
+<tag>
+<AM lemma="jenom-1" src="auto">TT-------------</AM>
+<AM lemma="jenom-2_^(pouze)" src="manual" selected="1">Db-------------</AM>
+</tag>
 </m>
 <m id="m-lnd92251-116-p5s10w7">
 <src.rf>manual</src.rf>
@@ -2931,7 +2958,10 @@
 <LM>w#w-lnd92251-116-p5s12w2</LM>
 </w.rf>
 <form>amatérismus</form>
-<tag lemma="amatérismus" src="orig" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="amatérismus" src="orig">NNIS1-----A----</AM>
+<AM lemma="amatérismus_,s_^(^DD**amatérizmus)" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92251-116-p5s12w3">
 <src.rf>manual</src.rf>
@@ -3217,7 +3247,7 @@
 <form>ryze</form>
 <tag>
 <AM lemma="ryzí" src="orig">Dg-------1A----</AM>
-<AM lemma="ryze" src="auto" recommended="1">Dg-------1A----</AM>
+<AM lemma="ryze" src="auto" recommended="1" selected="1">Dg-------1A----</AM>
 </tag>
 </m>
 <m id="m-lnd92251-116-p5s14w9">
@@ -3438,7 +3468,10 @@
 <LM>w#w-lnd92251-116-p5s16w9</LM>
 </w.rf>
 <form>hodně</form>
-<tag lemma="hodně-2_^(nezlobivý)_(*3ý-2)" src="auto" selected="1">Dg-------1A----</tag>
+<tag>
+<AM lemma="hodně-2_^(nezlobivý)_(*3ý-2)" src="auto">Dg-------1A----</AM>
+<AM lemma="hodně-3" src="manual" selected="1">Dg-------1A----</AM>
+</tag>
 </m>
 <m id="m-lnd92251-116-p5s16w10">
 <src.rf>manual</src.rf>
@@ -3864,7 +3897,10 @@
 <LM>w#w-lnd92251-116-p5s17w1</LM>
 </w.rf>
 <form>Třeba</form>
-<tag lemma="třeba-2" src="auto" selected="1">Db-------------</tag>
+<tag>
+<AM lemma="třeba-2" src="auto">Db-------------</AM>
+<AM lemma="třeba-3" src="manual" selected="1">TT-------------</AM>
+</tag>
 </m>
 <m id="m-lnd92251-116-p5s17w2">
 <src.rf>manual</src.rf>

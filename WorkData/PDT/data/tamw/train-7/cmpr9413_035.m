@@ -461,7 +461,10 @@
 <LM>w#w-cmpr9413-035-p3s4w3</LM>
 </w.rf>
 <form>li</form>
-<tag lemma="li-1" src="auto" selected="1">TT-------------</tag>
+<tag>
+<AM lemma="li-1" src="auto">TT-------------</AM>
+<AM lemma="li-2" src="manual" selected="1">J,-------------</AM>
+</tag>
 </m>
 <m id="m-cmpr9413-035-p3s4w4">
 <src.rf>manual</src.rf>
@@ -517,7 +520,10 @@
 <LM>w#w-cmpr9413-035-p3s4w10</LM>
 </w.rf>
 <form>stranu</form>
-<tag lemma="strana-4_^(v_knize,_rukopise,...)" src="orig" selected="1">NNFS4-----A----</tag>
+<tag>
+<AM lemma="strana-4_^(v_knize,_rukopise,...)" src="orig">NNFS4-----A----</AM>
+<AM lemma="strana" src="manual" selected="1">NNFS4-----A----</AM>
+</tag>
 </m>
 <m id="m-cmpr9413-035-p3s4w11">
 <src.rf>manual</src.rf>
@@ -559,7 +565,7 @@
 <form>dvoustranu</form>
 <tag>
 <AM lemma="dvojstrana_^(dvě_stránky)" src="orig">NNFS4-----A----</AM>
-<AM lemma="dvoustrana_^(dvě_stránky)" src="auto" recommended="1">NNFS4-----A----</AM>
+<AM lemma="dvoustrana_^(dvě_stránky)" src="auto" recommended="1" selected="1">NNFS4-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9413-035-p3s4w16">
@@ -736,7 +742,7 @@
 <form>přece</form>
 <tag>
 <AM lemma="přece" src="orig">Db-------------</AM>
-<AM lemma="přece-1" src="auto">J^-------------</AM>
+<AM lemma="přece-1" src="auto" selected="1">J^-------------</AM>
 <AM lemma="přece-2" src="auto" recommended="1">TT-------------</AM>
 </tag>
 </m>
@@ -868,7 +874,10 @@
 <LM>w#w-cmpr9413-035-p4s4w13</LM>
 </w.rf>
 <form>straně</form>
-<tag lemma="strana-4_^(v_knize,_rukopise,...)" src="orig" selected="1">NNFS6-----A----</tag>
+<tag>
+<AM lemma="strana-4_^(v_knize,_rukopise,...)" src="orig">NNFS6-----A----</AM>
+<AM lemma="strana" src="manual" selected="1">NNFS6-----A----</AM>
+</tag>
 </m>
 <m id="m-cmpr9413-035-p4s4w14">
 <src.rf>manual</src.rf>
@@ -1124,7 +1133,7 @@
 <form>bezesporu</form>
 <tag>
 <AM lemma="bezesporu" src="orig">Db-------------</AM>
-<AM lemma="bezesporu" src="auto" recommended="1">TT-------------</AM>
+<AM lemma="bezesporu" src="auto" recommended="1" selected="1">TT-------------</AM>
 </tag>
 </m>
 <m id="m-cmpr9413-035-p5s3w12">
@@ -1312,7 +1321,10 @@
 <LM>w#w-cmpr9413-035-p5s4w16</LM>
 </w.rf>
 <form>straně</form>
-<tag lemma="strana-4_^(v_knize,_rukopise,...)" src="orig" selected="1">NNFS6-----A----</tag>
+<tag>
+<AM lemma="strana-4_^(v_knize,_rukopise,...)" src="orig">NNFS6-----A----</AM>
+<AM lemma="strana" src="manual" selected="1">NNFS6-----A----</AM>
+</tag>
 </m>
 <m id="m-cmpr9413-035-p5s4w17">
 <src.rf>manual</src.rf>

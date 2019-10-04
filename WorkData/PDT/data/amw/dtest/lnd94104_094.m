@@ -37,7 +37,10 @@
 <LM>w#w-lnd94104-094-p1s3w1</LM>
 </w.rf>
 <form>Bohemians</form>
-<tag lemma="Bohemians_;Y" src="orig" selected="1">NNMPX-----A----</tag>
+<tag>
+<AM lemma="Bohemians_;Y" src="orig">NNMPX-----A----</AM>
+<AM lemma="Bohemians_;K" src="manual" selected="1">NNMPX-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd94104-094-p1s3w2">
 <src.rf>manual</src.rf>

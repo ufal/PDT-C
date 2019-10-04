@@ -27,7 +27,10 @@
 <LM>w#w-ln95041-091-p1s1w2</LM>
 </w.rf>
 <form>sv</form>
-<tag lemma="svatý-1_:B" src="auto" selected="1">AAXXX----1A---8</tag>
+<tag>
+<AM lemma="svatý-1_:B" src="auto">AAXXX----1A---8</AM>
+<AM lemma="svatý-1" src="manual" selected="1">AAXXX----1A---8</AM>
+</tag>
 </m>
 <m id="m-ln95041-091-p1s1w3">
 <src.rf>manual</src.rf>
@@ -442,7 +445,7 @@
 </w.rf>
 <form>Dema</form>
 <tag>
-<AM lemma="Dema_;K" src="orig">NNFS1-----A----</AM>
+<AM lemma="Dema_;K" src="orig" selected="1">NNFS1-----A----</AM>
 <AM lemma="dema" src="auto" recommended="1">NNFS1-----A----</AM>
 <AM lemma="demo_,h" src="auto">NNNP1-----A----</AM>
 <AM lemma="demo_,h" src="auto">NNNP4-----A----</AM>
@@ -548,7 +551,10 @@
 <LM>w#w-ln95041-091-p2s4w2</LM>
 </w.rf>
 <form>sv</form>
-<tag lemma="svatý-1_:B" src="auto" selected="1">AAXXX----1A---8</tag>
+<tag>
+<AM lemma="svatý-1_:B" src="auto">AAXXX----1A---8</AM>
+<AM lemma="svatý-1" src="manual" selected="1">AAXXX----1A---8</AM>
+</tag>
 </m>
 <m id="m-ln95041-091-p2s4w3">
 <src.rf>manual</src.rf>
@@ -1032,7 +1038,10 @@
 <LM>w#w-ln95041-091-p2s7w23</LM>
 </w.rf>
 <form>sv</form>
-<tag lemma="svatý-1_:B" src="auto" selected="1">AAXXX----1A---8</tag>
+<tag>
+<AM lemma="svatý-1_:B" src="auto">AAXXX----1A---8</AM>
+<AM lemma="svatý-1" src="manual" selected="1">AAXXX----1A---8</AM>
+</tag>
 </m>
 <m id="m-ln95041-091-p2s7w24">
 <src.rf>manual</src.rf>

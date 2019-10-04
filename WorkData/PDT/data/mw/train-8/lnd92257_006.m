@@ -873,7 +873,10 @@
 <LM>w#w-lnd92257-006-p5s1w14</LM>
 </w.rf>
 <form>ČSFR</form>
-<tag lemma="ČSFR-1_:B_;G_^(Čs._federativní_republika)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ČSFR-1_:B_;G_^(Čs._federativní_republika)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČSFR-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd92257-006-p5s1w15">
 <src.rf>manual</src.rf>
@@ -889,7 +892,10 @@
 <LM>w#w-lnd92257-006-p5s1w16</LM>
 </w.rf>
 <form>ES</form>
-<tag lemma="ES_:B_;K_^(Evropská_společenství)" src="orig" selected="1">NNNXX-----A---8</tag>
+<tag>
+<AM lemma="ES_:B_;K_^(Evropská_společenství)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="ES-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd92257-006-p5s1w17">
 <src.rf>manual</src.rf>
@@ -1229,7 +1235,10 @@
 <LM>w#w-lnd92257-006-p5s3w17</LM>
 </w.rf>
 <form>ES</form>
-<tag lemma="ES_:B_;K_^(Evropská_společenství)" src="orig" selected="1">NNNXX-----A---8</tag>
+<tag>
+<AM lemma="ES_:B_;K_^(Evropská_společenství)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="ES-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd92257-006-p5s3w18">
 <src.rf>manual</src.rf>
@@ -1813,7 +1822,10 @@
 <LM>w#w-lnd92257-006-p7s1w5</LM>
 </w.rf>
 <form>V</form>
-<tag lemma="V-0_:B_;Y" src="orig" selected="1">NNMXX-----A---8</tag>
+<tag>
+<AM lemma="V-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
+<AM lemma="V-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd92257-006-p7s1w6">
 <src.rf>manual</src.rf>
@@ -1961,6 +1973,7 @@
 <AM lemma="nacionalismus" src="orig">NNIS1-----A----</AM>
 <AM lemma="nacionalizmus" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="nacionalizmus" src="auto">NNIS4-----A----</AM>
+<AM lemma="nacionalismus_,s_^(^DD**nacionalizmus)" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92257-006-p7s1w24">
@@ -2381,7 +2394,7 @@
 </w.rf>
 <form>Gabčíkově</form>
 <tag>
-<AM lemma="Gabčíkovo_;G" src="orig">NNNS6-----A----</AM>
+<AM lemma="Gabčíkovo_;G" src="orig" selected="1">NNNS6-----A----</AM>
 <AM lemma="Gabčíkův_;S_^(*2)" src="auto">AUFS3M---------</AM>
 <AM lemma="Gabčíkův_;S_^(*2)" src="auto">AUFS6M---------</AM>
 <AM lemma="Gabčíkův_;S_^(*2)" src="auto">AUIS3M--------6</AM>
@@ -2668,7 +2681,7 @@
 <form>Jeszenszky</form>
 <tag>
 <AM lemma="Jeszenszky_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Jeszenszky_;S" src="auto" recommended="1">NNMS1-----A---1</AM>
+<AM lemma="Jeszenszky_;S" src="auto" recommended="1" selected="1">NNMS1-----A---1</AM>
 <AM lemma="Jeszenszky_;S" src="auto">NNMS5-----A---1</AM>
 </tag>
 </m>
@@ -2932,7 +2945,10 @@
 <LM>w#w-lnd92257-006-p8s3w1</LM>
 </w.rf>
 <form>Die</form>
-<tag lemma="die-1_;K_,t_^(souč._něm._názvů,_např._Die_Presse_[člen_f.])" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="die-1_;K_,t_^(souč._něm._názvů,_např._Die_Presse_[člen_f.])" src="orig">AAXXX----1A----</AM>
+<AM lemma="Die-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-lnd92257-006-p8s3w2">
 <src.rf>manual</src.rf>
@@ -2940,7 +2956,10 @@
 <LM>w#w-lnd92257-006-p8s3w2</LM>
 </w.rf>
 <form>Presse</form>
-<tag lemma="Presse-1_;K_,t_^(souč._názvu_Die_P.)" src="orig" selected="1">NNIXX-----A----</tag>
+<tag>
+<AM lemma="Presse-1_;K_,t_^(souč._názvu_Die_P.)" src="orig">NNIXX-----A----</AM>
+<AM lemma="Presse-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-lnd92257-006-p8s3w3">
 <src.rf>manual</src.rf>
@@ -3280,7 +3299,7 @@
 <form>starostí</form>
 <tag>
 <AM lemma="starost" src="orig">NNFP2-----A----</AM>
-<AM lemma="starost-1" src="auto" recommended="1">NNFP2-----A----</AM>
+<AM lemma="starost-1" src="auto" recommended="1" selected="1">NNFP2-----A----</AM>
 <AM lemma="starost-1" src="auto">NNFS7-----A----</AM>
 <AM lemma="starost-2_^(člověk,_věc)_(*5ý-2)" src="auto">NNFP2-----A----</AM>
 <AM lemma="starost-2_^(člověk,_věc)_(*5ý-2)" src="auto">NNFS7-----A----</AM>

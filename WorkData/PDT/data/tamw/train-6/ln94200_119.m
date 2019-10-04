@@ -441,7 +441,10 @@
 <LM>w#w-ln94200-119-p3s1w9</LM>
 </w.rf>
 <form>Bnai</form>
-<tag lemma="Bnai_;K_,t" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="Bnai_;K_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="Bnai-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94200-119-p3s1w10">
 <src.rf>manual</src.rf>
@@ -449,7 +452,10 @@
 <LM>w#w-ln94200-119-p3s1w10</LM>
 </w.rf>
 <form>Brith</form>
-<tag lemma="Brith_;K_,t" src="orig" selected="1">NNFXX-----A----</tag>
+<tag>
+<AM lemma="Brith_;K_,t" src="orig">NNFXX-----A----</AM>
+<AM lemma="Brith-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94200-119-p3s1w11">
 <src.rf>manual</src.rf>
@@ -553,7 +559,10 @@
 <LM>w#w-ln94200-119-p3s1w23</LM>
 </w.rf>
 <form>B</form>
-<tag lemma="B-0_:B_;Y" src="orig" selected="1">NNMXX-----A---8</tag>
+<tag>
+<AM lemma="B-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
+<AM lemma="B-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94200-119-p3s1w24">
 <src.rf>manual</src.rf>
@@ -1031,7 +1040,10 @@
 <LM>w#w-ln94200-119-p5s1w13</LM>
 </w.rf>
 <form>milionu</form>
-<tag lemma="milión`1000000" src="orig" selected="1">NNIS2-----A----</tag>
+<tag>
+<AM lemma="milión`1000000" src="orig">NNIS2-----A----</AM>
+<AM lemma="milion`1000000_,s_^(^DD**milión)" src="manual" selected="1">NNIS2-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94200-119-p5s1w14">
 <src.rf>manual</src.rf>
@@ -1063,7 +1075,10 @@
 <LM>w#w-ln94200-119-p5s1w17</LM>
 </w.rf>
 <form>HIV</form>
-<tag lemma="HIV_:B_;L_;U_^(lidský_virus_způsobující_AIDS)" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="HIV_:B_;L_;U_^(lidský_virus_způsobující_AIDS)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="HIV_:B_;L_;U_^(lidský_virus_způsobující_AIDS)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94200-119-p5s1w18">
 <src.rf>manual</src.rf>
@@ -1111,7 +1126,10 @@
 <LM>w#w-ln94200-119-p5s1w23</LM>
 </w.rf>
 <form>AIDS</form>
-<tag lemma="AIDS_:B_;U_,x_^(Syndrom_získaného_selhání_imunity)" src="orig" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="AIDS_:B_;U_,x_^(Syndrom_získaného_selhání_imunity)" src="orig">NNIS1-----A----</AM>
+<AM lemma="AIDS-1_;U_^(Syndrom_získaného_selhání_imunity)" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94200-119-p5s1w24">
 <src.rf>manual</src.rf>
@@ -1443,7 +1461,7 @@
 <AM lemma="Tokio_;G" src="auto">NNNP1-----A----</AM>
 <AM lemma="Tokio_;G" src="auto">NNNP4-----A----</AM>
 <AM lemma="Tokio_;G" src="auto">NNNP5-----A----</AM>
-<AM lemma="Tokio_;G" src="auto" recommended="1">NNNS2-----A----</AM>
+<AM lemma="Tokio_;G" src="auto" recommended="1" selected="1">NNNS2-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94200-119-p6s2w16">
@@ -1478,7 +1496,10 @@
 <LM>w#w-ln94200-119-p7s1w3</LM>
 </w.rf>
 <form>T</form>
-<tag lemma="T-0_:B_;Y" src="orig" selected="1">NNMXX-----A---8</tag>
+<tag>
+<AM lemma="T-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
+<AM lemma="T-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94200-119-p7s1w4">
 <src.rf>manual</src.rf>
@@ -1526,7 +1547,10 @@
 <LM>w#w-ln94200-119-p7s1w9</LM>
 </w.rf>
 <form>Manily</form>
-<tag lemma="manila" src="orig" selected="1">NNFS2-----A----</tag>
+<tag>
+<AM lemma="manila" src="orig">NNFS2-----A----</AM>
+<AM lemma="Manila_;G" src="manual" selected="1">NNFS2-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94200-119-p7s1w10">
 <src.rf>manual</src.rf>
@@ -1876,7 +1900,10 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>R</form>
-<tag lemma="R-0_:B_;Y" src="orig" selected="1">NNMXX-----A---8</tag>
+<tag>
+<AM lemma="R-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
+<AM lemma="R-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94200-119-p8s1w10">
 <src.rf>manual</src.rf>
@@ -2598,7 +2625,10 @@
 <LM>w#w-ln94200-119-p10s2w8</LM>
 </w.rf>
 <form>Sally</form>
-<tag lemma="Sally_;Y_,t" src="auto" selected="1">NNFXX-----A----</tag>
+<tag>
+<AM lemma="Sally_;Y_,t" src="auto">NNFXX-----A----</AM>
+<AM lemma="Sally-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94200-119-p10s2w9">
 <src.rf>manual</src.rf>
@@ -2611,6 +2641,7 @@
 <AM lemma="star" src="auto" recommended="1">NNFXX-----A----</AM>
 <AM lemma="star" src="auto">NNIS1-----A----</AM>
 <AM lemma="star" src="auto">NNIS4-----A----</AM>
+<AM lemma="Star-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-ln94200-119-p10s2w10">

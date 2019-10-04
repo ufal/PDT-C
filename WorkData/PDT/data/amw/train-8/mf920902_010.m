@@ -119,7 +119,7 @@
 <form>nalezen</form>
 <tag>
 <AM lemma="naleznout" src="orig">VsYS---XX-AP---</AM>
-<AM lemma="nalézt-2" src="auto" recommended="1">VsYS---XX-AP---</AM>
+<AM lemma="nalézt-2" src="auto" recommended="1" selected="1">VsYS---XX-AP---</AM>
 </tag>
 </m>
 <m id="m-mf920902-010-p1s2w9">
@@ -160,7 +160,10 @@
 <LM>w#w-mf920902-010-p1s2w13</LM>
 </w.rf>
 <form>Heřmánky</form>
-<tag lemma="heřmánek" src="auto" selected="1">NNIP1-----A----</tag>
+<tag>
+<AM lemma="heřmánek" src="auto">NNIP1-----A----</AM>
+<AM lemma="Heřmánky_;G" src="manual" selected="1">NNIP1-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920902-010-p1s2w14">
 <src.rf>manual</src.rf>
@@ -250,7 +253,10 @@
 <LM>w#w-mf920902-010-p1s3w6</LM>
 </w.rf>
 <form>P</form>
-<tag lemma="P-0_:B_;Y" src="orig" selected="1">NNMXX-----A---8</tag>
+<tag>
+<AM lemma="P-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
+<AM lemma="P-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920902-010-p1s3w7">
 <src.rf>manual</src.rf>
@@ -266,7 +272,10 @@
 <LM>w#w-mf920902-010-p1s3w8</LM>
 </w.rf>
 <form>D</form>
-<tag lemma="D-9_:B_;S" src="orig" selected="1">NNMXX-----A---8</tag>
+<tag>
+<AM lemma="D-9_:B_;S" src="orig">NNMXX-----A---8</AM>
+<AM lemma="D-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920902-010-p1s3w9">
 <src.rf>manual</src.rf>
@@ -766,7 +775,10 @@
 <LM>w#w-mf920902-010-p1s8w2</LM>
 </w.rf>
 <form>wil</form>
-<tag lemma="wil-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="wil-99_:B_;S" src="orig">NNXXX-----A---8</AM>
+<AM lemma="wil-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920902-010-p1s8w3">
 <src.rf>manual</src.rf>

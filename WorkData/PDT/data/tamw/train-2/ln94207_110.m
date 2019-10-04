@@ -402,7 +402,7 @@
 </w.rf>
 <form>André</form>
 <tag>
-<AM lemma="André_;Y" src="orig">NNMSX-----A----</AM>
+<AM lemma="André_;Y" src="orig" selected="1">NNMSX-----A----</AM>
 <AM lemma="André_;Y_,t" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="André_;Y_,t" src="auto">NNMS5-----A----</AM>
 </tag>
@@ -861,7 +861,10 @@
 <LM>w#w-ln94207-110-p3s6w2</LM>
 </w.rf>
 <form>ani</form>
-<tag lemma="ani-1" src="auto" selected="1">J^-------------</tag>
+<tag>
+<AM lemma="ani-1" src="auto">J^-------------</AM>
+<AM lemma="ani-2" src="manual" selected="1">TT-------------</AM>
+</tag>
 </m>
 <m id="m-ln94207-110-p3s6w3">
 <src.rf>manual</src.rf>
@@ -928,7 +931,7 @@
 </w.rf>
 <form>lin</form>
 <tag>
-<AM lemma="lin-99_:B_;S" src="orig">NNXXX-----A---8</AM>
+<AM lemma="lin-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</AM>
 <AM lemma="lino" src="auto" recommended="1">NNNP2-----A----</AM>
 </tag>
 </m>

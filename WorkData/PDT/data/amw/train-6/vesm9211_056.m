@@ -85,7 +85,10 @@
 <LM>w#w-vesm9211-056-p2s1w5</LM>
 </w.rf>
 <form>M</form>
-<tag lemma="M-0_:B_;Y" src="orig" selected="1">NNMXX-----A---8</tag>
+<tag>
+<AM lemma="M-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
+<AM lemma="M-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-vesm9211-056-p2s1w6">
 <src.rf>manual</src.rf>
@@ -270,7 +273,10 @@
 <LM>w#w-vesm9211-056-p2s1w28</LM>
 </w.rf>
 <form>COBE</form>
-<tag lemma="COBE-1_:B_,t_^(cosmic_bacground_explorer)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="COBE-1_:B_,t_^(cosmic_bacground_explorer)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="COBE-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-vesm9211-056-p2s1w29">
 <src.rf>manual</src.rf>
@@ -600,7 +606,7 @@
 <form>vůbec</form>
 <tag>
 <AM lemma="vůbec" src="orig">Db-------------</AM>
-<AM lemma="vůbec" src="auto" recommended="1">TT-------------</AM>
+<AM lemma="vůbec" src="auto" recommended="1" selected="1">TT-------------</AM>
 </tag>
 </m>
 <m id="m-vesm9211-056-p2s1w70">
@@ -699,7 +705,10 @@
 <LM>w#w-vesm9211-056-p2s2w10</LM>
 </w.rf>
 <form>C</form>
-<tag lemma="C-0_:B_;Y" src="orig" selected="1">NNMXX-----A---8</tag>
+<tag>
+<AM lemma="C-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
+<AM lemma="C-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-vesm9211-056-p2s2w11">
 <src.rf>manual</src.rf>
@@ -739,7 +748,10 @@
 <LM>w#w-vesm9211-056-p2s2w15</LM>
 </w.rf>
 <form>Astrophys</form>
-<tag lemma="Astrophysical_:B_;R_,t" src="orig" selected="1">AAXXX----1A---8</tag>
+<tag>
+<AM lemma="Astrophysical_:B_;R_,t" src="orig">AAXXX----1A---8</AM>
+<AM lemma="Astrophys-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-vesm9211-056-p2s2w16">
 <src.rf>manual</src.rf>
@@ -755,7 +767,10 @@
 <LM>w#w-vesm9211-056-p2s2w17</LM>
 </w.rf>
 <form>J</form>
-<tag lemma="J-6_:B_;R" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="J-6_:B_;R" src="orig">NNXXX-----A---8</AM>
+<AM lemma="J-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-vesm9211-056-p2s2w18">
 <src.rf>manual</src.rf>
@@ -806,6 +821,7 @@
 <AM lemma="l-8_:B_^(ost._zkratka)" src="auto">XX------------8</AM>
 <AM lemma="letopočet_:B_^(jen_př._n._l.,_před_naším_letopočtem)" src="auto">NNIS7-----A---8</AM>
 <AM lemma="litr_:B" src="auto">NNIXX-----A---8</AM>
+<AM lemma="L-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-vesm9211-056-p2s2w22">
@@ -849,6 +865,7 @@
 <AM lemma="l-8_:B_^(ost._zkratka)" src="auto">XX------------8</AM>
 <AM lemma="letopočet_:B_^(jen_př._n._l.,_před_naším_letopočtem)" src="auto">NNIS7-----A---8</AM>
 <AM lemma="litr_:B" src="auto">NNIXX-----A---8</AM>
+<AM lemma="L-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-vesm9211-056-p2s2w25">
@@ -961,7 +978,10 @@
 <LM>w#w-vesm9211-056-p2s2w38</LM>
 </w.rf>
 <form>COBE</form>
-<tag lemma="COBE-1_:B_,t_^(cosmic_bacground_explorer)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="COBE-1_:B_,t_^(cosmic_bacground_explorer)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="COBE-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-vesm9211-056-p2s2w39">
 <src.rf>manual</src.rf>
@@ -1357,7 +1377,10 @@
 <LM>w#w-vesm9211-056-p2s6w19</LM>
 </w.rf>
 <form>COBE</form>
-<tag lemma="COBE-1_:B_,t_^(cosmic_bacground_explorer)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="COBE-1_:B_,t_^(cosmic_bacground_explorer)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="COBE-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-vesm9211-056-p2s6w20">
 <src.rf>manual</src.rf>
@@ -1384,7 +1407,7 @@
 <tag>
 <AM lemma="tedy" src="orig">Db-------------</AM>
 <AM lemma="tedy-1" src="auto">TT-------------</AM>
-<AM lemma="tedy-2" src="auto" recommended="1">J^-------------</AM>
+<AM lemma="tedy-2" src="auto" recommended="1" selected="1">J^-------------</AM>
 </tag>
 </m>
 <m id="m-vesm9211-056-p2s6w23">
@@ -1435,7 +1458,10 @@
 <LM>w#w-vesm9211-056-p3s1w1</LM>
 </w.rf>
 <form>Nature</form>
-<tag lemma="Nature-1_;K_,t_^(časopis)" src="orig" selected="1">NNIXX-----A----</tag>
+<tag>
+<AM lemma="Nature-1_;K_,t_^(časopis)" src="orig">NNIXX-----A----</AM>
+<AM lemma="Nature-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-vesm9211-056-p3s1w2">
 <src.rf>manual</src.rf>

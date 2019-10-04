@@ -241,7 +241,10 @@
 <LM>w#w-lnd92259-047-p3s2w19</LM>
 </w.rf>
 <form>Jegora</form>
-<tag lemma="Jegor_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag>
+<AM lemma="Jegor_;S" src="orig">NNMS2-----A----</AM>
+<AM lemma="Jegor_;Y_;S" src="manual" selected="1">NNMS2-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92259-047-p3s2w20">
 <src.rf>manual</src.rf>
@@ -291,7 +294,10 @@
 <LM>w#w-lnd92259-047-p3s3w4</LM>
 </w.rf>
 <form>AFP</form>
-<tag lemma="AFP_:B_;K" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="AFP_:B_;K" src="orig">NNIXX-----A---8</AM>
+<AM lemma="AFP-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd92259-047-p3s3w5">
 <src.rf>manual</src.rf>
@@ -457,6 +463,7 @@
 <AM lemma="Ruckoj_;S" src="orig">NNMS1-----A----</AM>
 <AM lemma="Rucký_;S" src="auto" recommended="1">NNMS1-----A---2</AM>
 <AM lemma="Rucký_;S" src="auto">NNMS5-----A---2</AM>
+<AM lemma="Ruckoj_;S_,s_^(^DD**Rucký)" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92259-047-p3s4w9">
@@ -643,7 +650,10 @@
 <LM>w#w-lnd92259-047-p3s5w11</LM>
 </w.rf>
 <form>Gennadij</form>
-<tag lemma="Gennadij_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Gennadij_;S" src="orig">NNMS1-----A----</AM>
+<AM lemma="Gennadij_;Y_;S" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92259-047-p3s5w12">
 <src.rf>manual</src.rf>
@@ -700,7 +710,10 @@
 <LM>w#w-lnd92259-047-p3s5w18</LM>
 </w.rf>
 <form>B</form>
-<tag lemma="B-0_:B_;Y" src="orig" selected="1">NNMXX-----A---8</tag>
+<tag>
+<AM lemma="B-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
+<AM lemma="B-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd92259-047-p3s5w19">
 <src.rf>manual</src.rf>

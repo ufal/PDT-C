@@ -90,6 +90,7 @@
 <AM lemma="mat" src="auto">NNIS1-----A----</AM>
 <AM lemma="mat" src="auto">NNIS4-----A----</AM>
 <AM lemma="materiál_:B" src="auto" recommended="1">NNIXX-----A---8</AM>
+<AM lemma="mat-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930703-028-p2s1w4">
@@ -492,7 +493,10 @@
 <LM>w#w-mf930703-028-p2s2w18</LM>
 </w.rf>
 <form>causy</form>
-<tag lemma="kauza_,x" src="orig" selected="1">NNFS2-----A----</tag>
+<tag>
+<AM lemma="kauza_,x" src="orig">NNFS2-----A----</AM>
+<AM lemma="causa_,i_^(^DS**kauza)" src="manual" selected="1">NNFS2-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930703-028-p2s2w19">
 <src.rf>manual</src.rf>
@@ -508,7 +512,10 @@
 <LM>w#w-mf930703-028-p2s2w20</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-2" src="auto" selected="1">Dg-------2A----</tag>
+<tag>
+<AM lemma="hodně-2" src="auto">Dg-------2A----</AM>
+<AM lemma="hodně-3" src="manual" selected="1">Dg-------2A----</AM>
+</tag>
 </m>
 <m id="m-mf930703-028-p2s2w21">
 <src.rf>manual</src.rf>
@@ -664,7 +671,10 @@
 <LM>w#w-mf930703-028-p3s2w4</LM>
 </w.rf>
 <form>li</form>
-<tag lemma="li-1" src="auto" selected="1">TT-------------</tag>
+<tag>
+<AM lemma="li-1" src="auto">TT-------------</AM>
+<AM lemma="li-2" src="manual" selected="1">J,-------------</AM>
+</tag>
 </m>
 <m id="m-mf930703-028-p3s2w5">
 <src.rf>manual</src.rf>
@@ -1646,7 +1656,10 @@
 <LM>w#w-mf930703-028-p5s2w4</LM>
 </w.rf>
 <form>ani</form>
-<tag lemma="ani-1" src="auto" selected="1">J^-------------</tag>
+<tag>
+<AM lemma="ani-1" src="auto">J^-------------</AM>
+<AM lemma="ani-2" src="manual" selected="1">TT-------------</AM>
+</tag>
 </m>
 <m id="m-mf930703-028-p5s2w5">
 <src.rf>manual</src.rf>
@@ -2222,7 +2235,10 @@
 <LM>w#w-mf930703-028-p6s3w6</LM>
 </w.rf>
 <form>ODS</form>
-<tag lemma="ODS-1_:B_;K_;p_^(Občanská_demokratická_strana)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ODS-1_:B_;K_;p_^(Občanská_demokratická_strana)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ODS-1_:B_;K_^(Občanská_demokratická_strana)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930703-028-p6s3w7">
 <src.rf>manual</src.rf>
@@ -2302,7 +2318,10 @@
 <LM>w#w-mf930703-028-p6s3w16</LM>
 </w.rf>
 <form>impulsy</form>
-<tag lemma="impuls" src="orig" selected="1">NNIP1-----A----</tag>
+<tag>
+<AM lemma="impuls" src="orig">NNIP1-----A----</AM>
+<AM lemma="impuls_,s_^(^DD**impulz)" src="manual" selected="1">NNIP1-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930703-028-p6s3w17">
 <src.rf>manual</src.rf>

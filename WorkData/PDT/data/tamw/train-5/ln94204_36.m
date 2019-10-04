@@ -37,7 +37,10 @@
 <LM>w#w-ln94204-36-p2s1Aw2</LM>
 </w.rf>
 <form>Hanák</form>
-<tag lemma="Hanák_;E" src="auto" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Hanák_;E" src="auto">NNMS1-----A----</AM>
+<AM lemma="Hanák_;E_;S" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 </s>
 <s id="m-ln94204-36-p2s1B">
@@ -55,7 +58,10 @@
 <LM>w#w-ln94204-36-p2s1Bw2</LM>
 </w.rf>
 <form>poslednyj</form>
-<tag lemma="poslednyj_,t" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="poslednyj_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="poslednyj-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94204-36-p2s1Bw3">
 <src.rf>manual</src.rf>
@@ -63,7 +69,10 @@
 <LM>w#w-ln94204-36-p2s1Bw3</LM>
 </w.rf>
 <form>parad</form>
-<tag lemma="parad_,t" src="orig" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="parad_,t" src="orig">NNIS1-----A----</AM>
+<AM lemma="parad-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94204-36-p2s1Bw4">
 <src.rf>manual</src.rf>
@@ -1769,7 +1778,10 @@
 <LM>w#w-ln94204-36-p4s3w6</LM>
 </w.rf>
 <form>NDR</form>
-<tag lemma="NDR_:B_;G_;K" src="auto" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="NDR_:B_;G_;K" src="auto">NNFXX-----A---8</AM>
+<AM lemma="NDR-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln94204-36-p4s3w7">
 <src.rf>manual</src.rf>
@@ -2295,7 +2307,10 @@
 <LM>w#w-ln94204-36-p4s6w6</LM>
 </w.rf>
 <form>NDR</form>
-<tag lemma="NDR_:B_;G_;K" src="auto" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="NDR_:B_;G_;K" src="auto">NNFXX-----A---8</AM>
+<AM lemma="NDR-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln94204-36-p4s6w7">
 <src.rf>manual</src.rf>

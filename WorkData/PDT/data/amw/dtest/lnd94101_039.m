@@ -43,7 +43,10 @@
 <LM>w#w-lnd94101-039-p1s1w4</LM>
 </w.rf>
 <form>UNPROFOR</form>
-<tag lemma="UNPROFOR_:B" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="UNPROFOR_:B" src="orig">NNFXX-----A---8</AM>
+<AM lemma="UNPROFOR-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd94101-039-p1s1w5">
 <src.rf>manual</src.rf>
@@ -179,7 +182,10 @@
 <LM>w#w-lnd94101-039-p1s1w21</LM>
 </w.rf>
 <form>Gornji</form>
-<tag lemma="Gornji_;G_,t" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="Gornji_;G_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="Gornji-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-lnd94101-039-p1s1w22">
 <src.rf>manual</src.rf>
@@ -187,7 +193,10 @@
 <LM>w#w-lnd94101-039-p1s1w22</LM>
 </w.rf>
 <form>Vakuf</form>
-<tag lemma="Vakuf_;G" src="orig" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="Vakuf_;G" src="orig">NNIS1-----A----</AM>
+<AM lemma="Vakuf-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-lnd94101-039-p1s1w23">
 <src.rf>manual</src.rf>

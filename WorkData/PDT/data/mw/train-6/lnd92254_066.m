@@ -37,7 +37,7 @@
 <form>MILOŠEVIČ</form>
 <tag>
 <AM lemma="Milošević_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Miloševič_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Miloševič_;S" src="auto" recommended="1" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92254-066-p1s1w4">
@@ -2293,7 +2293,7 @@
 <tag>
 <AM lemma="přece" src="orig">Db-------------</AM>
 <AM lemma="přece-1" src="auto" recommended="1">J^-------------</AM>
-<AM lemma="přece-2" src="auto">TT-------------</AM>
+<AM lemma="přece-2" src="auto" selected="1">TT-------------</AM>
 </tag>
 </m>
 <m id="m-lnd92254-066-p6s1w4">
@@ -2997,7 +2997,7 @@
 <tag>
 <AM lemma="tedy" src="orig">Db-------------</AM>
 <AM lemma="tedy-1" src="auto">TT-------------</AM>
-<AM lemma="tedy-2" src="auto" recommended="1">J^-------------</AM>
+<AM lemma="tedy-2" src="auto" recommended="1" selected="1">J^-------------</AM>
 </tag>
 </m>
 <m id="m-lnd92254-066-p7s2w24">
@@ -3322,7 +3322,10 @@
 <LM>w#w-lnd92254-066-p8s2w5</LM>
 </w.rf>
 <form>UDBA</form>
-<tag lemma="UDBA_:B_;K" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="UDBA_:B_;K" src="orig">NNFXX-----A---8</AM>
+<AM lemma="UDBA-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd92254-066-p8s2w6">
 <src.rf>manual</src.rf>
@@ -3403,6 +3406,7 @@
 <AM lemma="kosa" src="auto">NNFP2-----A----</AM>
 <AM lemma="kosit" src="auto">Vi-S---2--A----</AM>
 <AM lemma="kosit" src="auto">Vi-S---3--A---4</AM>
+<AM lemma="KOS-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-lnd92254-066-p8s2w15">
@@ -3933,7 +3937,7 @@
 <form>nikoli</form>
 <tag>
 <AM lemma="nikoliv" src="orig">Db------------1</AM>
-<AM lemma="nikoli" src="auto" recommended="1">TT-------------</AM>
+<AM lemma="nikoli" src="auto" recommended="1" selected="1">TT-------------</AM>
 </tag>
 </m>
 <m id="m-lnd92254-066-p8s6w17">

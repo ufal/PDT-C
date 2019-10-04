@@ -69,7 +69,10 @@
 <LM>w#w-mf930709-037-p2s1Aw3</LM>
 </w.rf>
 <form>or</form>
-<tag lemma="or-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="or-99_:B_;S" src="orig">NNXXX-----A---8</AM>
+<AM lemma="or-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930709-037-p2s1Aw4">
 <src.rf>manual</src.rf>
@@ -817,7 +820,10 @@
 <LM>w#w-mf930709-037-p2s6w6</LM>
 </w.rf>
 <form>tzv</form>
-<tag lemma="takzvaný_:B" src="orig" selected="1">AAXXX----1A---8</tag>
+<tag>
+<AM lemma="takzvaný_:B" src="orig">AAXXX----1A---8</AM>
+<AM lemma="takzvaný" src="manual" selected="1">AAXXX----1A---8</AM>
+</tag>
 </m>
 <m id="m-mf930709-037-p2s6w7">
 <src.rf>manual</src.rf>
@@ -836,6 +842,7 @@
 <tag>
 <AM lemma="prime_,t" src="orig">AAXXX----1A----</AM>
 <AM lemma="prim" src="auto" recommended="1">NNIS5-----A----</AM>
+<AM lemma="prime-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-mf930709-037-p2s6w9">
@@ -844,7 +851,11 @@
 <LM>w#w-mf930709-037-p2s6w9</LM>
 </w.rf>
 <form>rate</form>
-<tag lemma="rate_,t" src="orig" selected="1">NNFXX-----A----</tag>
+<tag>
+<AM lemma="rate_,t" src="orig">NNFXX-----A----</AM>
+<AM lemma="rate_,t" src="manual">NNXXX-----A----</AM>
+<AM lemma="rate-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-mf930709-037-p2s6w10">
 <src.rf>manual</src.rf>

@@ -319,7 +319,10 @@
 <LM>w#w-mf930703-097-p2s2w10</LM>
 </w.rf>
 <form>OH</form>
-<tag lemma="OH-2_:B_;w_^(Olympijské_hry)" src="orig" selected="1">NNFPX-----A---8</tag>
+<tag>
+<AM lemma="OH-2_:B_;w_^(Olympijské_hry)" src="orig">NNFPX-----A---8</AM>
+<AM lemma="OH-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-mf930703-097-p2s2w11">
 <src.rf>manual</src.rf>
@@ -657,7 +660,10 @@
 <LM>w#w-mf930703-097-p3s1w4</LM>
 </w.rf>
 <form>MS</form>
-<tag lemma="MS-5_:B_;K_;p_^(ministerstvo_spravedlnosti)" src="orig" selected="1">NNNXX-----A---8</tag>
+<tag>
+<AM lemma="MS-5_:B_;K_;p_^(ministerstvo_spravedlnosti)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="MS-3_:B_;w_^(mistrovství_světa)" src="manual" selected="1">NNNXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-mf930703-097-p3s1w5">
 <src.rf>manual</src.rf>
@@ -1037,7 +1043,10 @@
 <LM>w#w-mf930703-097-p4s4w3</LM>
 </w.rf>
 <form>Fr</form>
-<tag lemma="Francie_:B_;G" src="auto" selected="1">NNFSX-----A----</tag>
+<tag>
+<AM lemma="Francie_:B_;G" src="auto">NNFSX-----A----</AM>
+<AM lemma="Francie_:B_;G" src="manual" selected="1">NNFXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930703-097-p4s4w4">
 <src.rf>manual</src.rf>
@@ -1238,7 +1247,7 @@
 </w.rf>
 <form>Christin</form>
 <tag>
-<AM lemma="Christin_;S" src="orig">NNMS1-----A----</AM>
+<AM lemma="Christin_;S" src="orig" selected="1">NNMS1-----A----</AM>
 <AM lemma="Christina_;S_;Y_,t" src="auto" recommended="1">NNFP2-----A----</AM>
 </tag>
 </m>
@@ -1256,7 +1265,10 @@
 <LM>w#w-mf930703-097-p4s8w3</LM>
 </w.rf>
 <form>Fr</form>
-<tag lemma="Francie_:B_;G" src="auto" selected="1">NNFSX-----A----</tag>
+<tag>
+<AM lemma="Francie_:B_;G" src="auto">NNFSX-----A----</AM>
+<AM lemma="Francie_:B_;G" src="manual" selected="1">NNFXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930703-097-p4s8w4">
 <src.rf>manual</src.rf>
@@ -1364,7 +1376,10 @@
 <LM>w#w-mf930703-097-p4s10w5</LM>
 </w.rf>
 <form>Fr</form>
-<tag lemma="Francie_:B_;G" src="auto" selected="1">NNFSX-----A----</tag>
+<tag>
+<AM lemma="Francie_:B_;G" src="auto">NNFSX-----A----</AM>
+<AM lemma="Francie_:B_;G" src="manual" selected="1">NNFXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930703-097-p4s10w6">
 <src.rf>manual</src.rf>

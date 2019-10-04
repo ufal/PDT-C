@@ -1027,7 +1027,10 @@
 <LM>w#w-ln95048-094-p3s5w14</LM>
 </w.rf>
 <form>Frýdkem</form>
-<tag lemma="Frýdek-2_;G" src="orig" selected="1">NNIS7-----A----</tag>
+<tag>
+<AM lemma="Frýdek-2_;G" src="orig">NNIS7-----A----</AM>
+<AM lemma="Frýdek-1_;S" src="manual" selected="1">NNMS7-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95048-094-p3s5w15">
 <src.rf>manual</src.rf>
@@ -1443,7 +1446,10 @@
 <LM>w#w-ln95048-094-p4s3w1</LM>
 </w.rf>
 <form>Bohemians</form>
-<tag lemma="Bohemians_;Y" src="orig" selected="1">NNMPX-----A----</tag>
+<tag>
+<AM lemma="Bohemians_;Y" src="orig">NNMPX-----A----</AM>
+<AM lemma="Bohemians_;K" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95048-094-p4s3w2">
 <src.rf>manual</src.rf>
@@ -1703,7 +1709,10 @@
 <LM>w#w-ln95048-094-p4s5w10</LM>
 </w.rf>
 <form>sice</form>
-<tag lemma="sice-2" src="auto" selected="1">Db-------------</tag>
+<tag>
+<AM lemma="sice-2" src="auto">Db-------------</AM>
+<AM lemma="sice-1_^(spojka;_připouští_se_určitá_fakta)" src="manual" selected="1">J^-------------</AM>
+</tag>
 </m>
 <m id="m-ln95048-094-p4s5w11">
 <src.rf>manual</src.rf>
@@ -2049,7 +2058,10 @@
 <LM>w#w-ln95048-094-p4s6w13</LM>
 </w.rf>
 <form>Admirou</form>
-<tag lemma="Admira_;Y" src="orig" selected="1">NNFS7-----A----</tag>
+<tag>
+<AM lemma="Admira_;Y" src="orig">NNFS7-----A----</AM>
+<AM lemma="Admira-2_;K" src="manual" selected="1">NNFS7-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95048-094-p4s6w14">
 <src.rf>manual</src.rf>
@@ -2501,7 +2513,7 @@
 <form>totiž</form>
 <tag>
 <AM lemma="totiž" src="orig">Db-------------</AM>
-<AM lemma="totiž-1" src="auto" recommended="1">J^-------------</AM>
+<AM lemma="totiž-1" src="auto" recommended="1" selected="1">J^-------------</AM>
 <AM lemma="totiž-2" src="auto">TT-------------</AM>
 </tag>
 </m>
@@ -2551,7 +2563,10 @@
 <LM>w#w-ln95048-094-p4s11w8</LM>
 </w.rf>
 <form>Šedivého</form>
-<tag lemma="šedivý" src="orig" selected="1">AAMS4----1A----</tag>
+<tag>
+<AM lemma="šedivý" src="orig">AAMS4----1A----</AM>
+<AM lemma="Šedivý_;S" src="manual" selected="1">NNMS4-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95048-094-p4s11w9">
 <src.rf>manual</src.rf>
@@ -2737,7 +2752,10 @@
 <LM>w#w-ln95048-094-p4s12w5</LM>
 </w.rf>
 <form>jen</form>
-<tag lemma="jen-1" src="auto" selected="1">TT-------------</tag>
+<tag>
+<AM lemma="jen-1" src="auto">TT-------------</AM>
+<AM lemma="jen-4_^(pouze)" src="manual" selected="1">Db-------------</AM>
+</tag>
 </m>
 <m id="m-ln95048-094-p4s12w6">
 <src.rf>manual</src.rf>
@@ -2835,7 +2853,10 @@
 <LM>w#w-ln95048-094-p5s1w7</LM>
 </w.rf>
 <form>jak</form>
-<tag lemma="jak-3" src="orig" selected="1">Db-------------</tag>
+<tag>
+<AM lemma="jak-3" src="orig">Db-------------</AM>
+<AM lemma="jak-2" src="manual" selected="1">J,-------------</AM>
+</tag>
 </m>
 <m id="m-ln95048-094-p5s1w8">
 <src.rf>manual</src.rf>
@@ -3587,7 +3608,10 @@
 <LM>w#w-ln95048-094-p6s1w9</LM>
 </w.rf>
 <form>hod</form>
-<tag lemma="hodina_:B" src="auto" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="hodina_:B" src="auto">NNFXX-----A---8</AM>
+<AM lemma="hodina" src="manual" selected="1">NNFXX-----A---9</AM>
+</tag>
 </m>
 <m id="m-ln95048-094-p6s1w10">
 <src.rf>manual</src.rf>

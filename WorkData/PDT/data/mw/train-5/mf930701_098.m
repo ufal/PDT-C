@@ -19,7 +19,11 @@
 <LM>w#w-mf930701-098-p1s1w1</LM>
 </w.rf>
 <form>Zelení</form>
-<tag lemma="zelený" src="orig" selected="1">AAMP1----1A----</tag>
+<tag>
+<AM lemma="zelený" src="orig">AAMP1----1A----</AM>
+<AM lemma="zelený" src="manual">NNMP1-----A----</AM>
+<AM lemma="zelený_;o" src="manual" selected="1">AAMP1----1A----</AM>
+</tag>
 </m>
 <m id="m-mf930701-098-p1s1w2">
 <src.rf>manual</src.rf>
@@ -749,7 +753,7 @@
 <form>táboře</form>
 <tag>
 <AM lemma="tábor" src="orig">NNIS6-----A----</AM>
-<AM lemma="tábor-1" src="auto" recommended="1">NNIS6-----A---1</AM>
+<AM lemma="tábor-1" src="auto" recommended="1" selected="1">NNIS6-----A---1</AM>
 <AM lemma="tábořit_:T" src="auto">VeYS------A----</AM>
 </tag>
 </m>

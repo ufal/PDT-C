@@ -139,7 +139,10 @@
 <LM>w#w-ln94205-97-p1s1Aw16</LM>
 </w.rf>
 <form>femme</form>
-<tag lemma="femme_,t" src="orig" selected="1">NNFXX-----A----</tag>
+<tag>
+<AM lemma="femme_,t" src="orig">NNFXX-----A----</AM>
+<AM lemma="femme-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94205-97-p1s1Aw17">
 <src.rf>manual</src.rf>
@@ -147,7 +150,10 @@
 <LM>w#w-ln94205-97-p1s1Aw17</LM>
 </w.rf>
 <form>fatale</form>
-<tag lemma="fatale_,t" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="fatale_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="fatale-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94205-97-p1s1Aw18">
 <src.rf>manual</src.rf>
@@ -174,7 +180,7 @@
 <tag>
 <AM lemma="Kim_;Y" src="orig">NNFXX-----A----</AM>
 <AM lemma="Kim-1_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Kim-2_;Y" src="auto" recommended="1">NNFSX-----A----</AM>
+<AM lemma="Kim-2_;Y" src="auto" recommended="1" selected="1">NNFSX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94205-97-p1s1Aw21">
@@ -211,8 +217,9 @@
 <form>Gemini</form>
 <tag>
 <AM lemma="Gemini_;K_^(nakladatelství)" src="orig">AAXXX----1A----</AM>
-<AM lemma="Gemini_;K_^(nakladatelství)" src="auto" recommended="1">NNNXX-----A----</AM>
+<AM lemma="Gemini_;K_^(nakladatelství)" src="auto" recommended="1" selected="1">NNNXX-----A----</AM>
 <AM lemma="gemini_,t_^(dvojčata)" src="auto">NNNPX-----A----</AM>
+<AM lemma="Gemini-77" src="manual">F%-------------</AM>
 </tag>
 </m>
 <m id="m-ln94205-97-p1s1Bw3">

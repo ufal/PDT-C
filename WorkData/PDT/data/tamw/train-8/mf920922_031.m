@@ -195,7 +195,10 @@
 <LM>w#w-mf920922-031-p1s1w23</LM>
 </w.rf>
 <form>Galérii</form>
-<tag lemma="galérie" src="orig" selected="1">NNFS6-----A----</tag>
+<tag>
+<AM lemma="galérie" src="orig">NNFS6-----A----</AM>
+<AM lemma="galérie_,s_^(^DD**galerie)" src="manual" selected="1">NNFS6-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920922-031-p1s1w24">
 <src.rf>manual</src.rf>
@@ -203,7 +206,10 @@
 <LM>w#w-mf920922-031-p1s1w24</LM>
 </w.rf>
 <form>Vyšehrad</form>
-<tag lemma="Vyšehrad" src="orig" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="Vyšehrad" src="orig">NNIS1-----A----</AM>
+<AM lemma="Vyšehrad_;G" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920922-031-p1s1w25">
 <src.rf>manual</src.rf>
@@ -375,7 +381,11 @@
 <LM>w#w-mf920922-031-p1s3w14</LM>
 </w.rf>
 <form>hod</form>
-<tag lemma="hodina_:B" src="auto" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="hodina_:B" src="auto">NNFXX-----A---8</AM>
+<AM lemma="hodina" src="manual">NNFXX-----A---8</AM>
+<AM lemma="hodina" src="manual" selected="1">NNFXX-----A---9</AM>
+</tag>
 </m>
 <m id="m-mf920922-031-p1s3w15">
 <src.rf>manual</src.rf>
@@ -399,7 +409,10 @@
 <LM>w#w-mf920922-031-p1s3w17</LM>
 </w.rf>
 <form>ABC</form>
-<tag lemma="ABC-2_:B_;K_^(divadlo)" src="orig" selected="1">NNNXX-----A---8</tag>
+<tag>
+<AM lemma="ABC-2_:B_;K_^(divadlo)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="ABC-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-mf920922-031-p1s3w18">
 <src.rf>manual</src.rf>
@@ -425,7 +438,10 @@
 <LM>w#w-mf920922-031-p1s4w2</LM>
 </w.rf>
 <form>Luba</form>
-<tag lemma="Luba_;G" src="orig" selected="1">NNFS1-----A----</tag>
+<tag>
+<AM lemma="Luba_;G" src="orig">NNFS1-----A----</AM>
+<AM lemma="Luba-2_;Y" src="manual" selected="1">NNFS1-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920922-031-p1s4w3">
 <src.rf>manual</src.rf>

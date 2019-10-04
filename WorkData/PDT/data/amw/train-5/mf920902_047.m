@@ -249,7 +249,10 @@
 <LM>w#w-mf920902-047-p2s3w3</LM>
 </w.rf>
 <form>Free</form>
-<tag lemma="Free_;K_,t" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="Free_;K_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="Free-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-mf920902-047-p2s3w4">
 <src.rf>manual</src.rf>
@@ -257,7 +260,10 @@
 <LM>w#w-mf920902-047-p2s3w4</LM>
 </w.rf>
 <form>zone</form>
-<tag lemma="zone_;K_,t" src="orig" selected="1">NNFXX-----A----</tag>
+<tag>
+<AM lemma="zone_;K_,t" src="orig">NNFXX-----A----</AM>
+<AM lemma="zone-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-mf920902-047-p2s3w5">
 <src.rf>manual</src.rf>
@@ -289,7 +295,10 @@
 <LM>w#w-mf920902-047-p2s3w8</LM>
 </w.rf>
 <form>jen</form>
-<tag lemma="jen-1" src="auto" selected="1">TT-------------</tag>
+<tag>
+<AM lemma="jen-1" src="auto">TT-------------</AM>
+<AM lemma="jen-4_^(pouze)" src="manual" selected="1">Db-------------</AM>
+</tag>
 </m>
 <m id="m-mf920902-047-p2s3w9">
 <src.rf>manual</src.rf>
@@ -654,7 +663,10 @@
 <LM>w#w-mf920902-047-p2s5w24</LM>
 </w.rf>
 <form>Free</form>
-<tag lemma="Free_;K_,t" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="Free_;K_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="Free-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-mf920902-047-p2s5w25">
 <src.rf>manual</src.rf>
@@ -662,7 +674,10 @@
 <LM>w#w-mf920902-047-p2s5w25</LM>
 </w.rf>
 <form>zone</form>
-<tag lemma="zone_;K_,t" src="orig" selected="1">NNFXX-----A----</tag>
+<tag>
+<AM lemma="zone_;K_,t" src="orig">NNFXX-----A----</AM>
+<AM lemma="zone-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-mf920902-047-p2s5w26">
 <src.rf>manual</src.rf>

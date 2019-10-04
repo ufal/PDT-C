@@ -35,7 +35,10 @@
 <LM>w#w-mf930713-083-p1s1w3</LM>
 </w.rf>
 <form>vedla</form>
-<tag lemma="vést" src="auto" selected="1">VpQW---XR-AA---</tag>
+<tag>
+<AM lemma="vést" src="auto">VpQW---XR-AA---</AM>
+<AM lemma="vést_:T" src="manual" selected="1">VpQW---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-mf930713-083-p1s1w4">
 <src.rf>manual</src.rf>
@@ -651,7 +654,10 @@
 <LM>w#w-mf930713-083-p3s1w17</LM>
 </w.rf>
 <form>Pearl</form>
-<tag lemma="Pearl_;G_,t_^(Pearl_Harbor)" src="auto" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="Pearl_;G_,t_^(Pearl_Harbor)" src="auto">AAXXX----1A----</AM>
+<AM lemma="Pearl-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-mf930713-083-p3s1w18">
 <src.rf>manual</src.rf>
@@ -659,7 +665,10 @@
 <LM>w#w-mf930713-083-p3s1w18</LM>
 </w.rf>
 <form>Harbor</form>
-<tag lemma="Harbor_;G_^(součást_názvu_např._Pearl_Harbor)" src="orig" selected="1">NNIS4-----A----</tag>
+<tag>
+<AM lemma="Harbor_;G_^(součást_názvu_např._Pearl_Harbor)" src="orig">NNIS4-----A----</AM>
+<AM lemma="Harbor-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-mf930713-083-p3s1w19">
 <src.rf>manual</src.rf>
@@ -776,6 +785,7 @@
 <tag>
 <AM lemma="USA_;G" src="orig">NNIPX-----A----</AM>
 <AM lemma="USA_:B_;K_,t_^(United_States_of_America)" src="auto" recommended="1">NNIPX-----A---8</AM>
+<AM lemma="USA_:B_;K_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930713-083-p3s2w10">
@@ -870,7 +880,7 @@
 <AM lemma="jakýkoli" src="auto">PZFP4---------1</AM>
 <AM lemma="jakýkoli" src="auto">PZFP5---------1</AM>
 <AM lemma="jakýkoli" src="auto">PZFS2---------1</AM>
-<AM lemma="jakýkoli" src="auto" recommended="1">PZFS3---------1</AM>
+<AM lemma="jakýkoli" src="auto" recommended="1" selected="1">PZFS3---------1</AM>
 <AM lemma="jakýkoli" src="auto">PZFS6---------1</AM>
 <AM lemma="jakýkoli" src="auto">PZIP1---------1</AM>
 <AM lemma="jakýkoli" src="auto">PZIP5---------1</AM>

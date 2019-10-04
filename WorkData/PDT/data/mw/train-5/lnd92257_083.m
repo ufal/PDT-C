@@ -621,7 +621,10 @@
 <LM>w#w-lnd92257-083-p3s4w13</LM>
 </w.rf>
 <form>čs</form>
-<tag lemma="československý_:B" src="orig" selected="1">AAXXX----1A---8</tag>
+<tag>
+<AM lemma="československý_:B" src="orig">AAXXX----1A---8</AM>
+<AM lemma="československý" src="manual" selected="1">AAXXX----1A---8</AM>
+</tag>
 </m>
 <m id="m-lnd92257-083-p3s4w14">
 <src.rf>manual</src.rf>
@@ -1113,7 +1116,10 @@
 <LM>w#w-lnd92257-083-p4s1w17</LM>
 </w.rf>
 <form>Vyšné</form>
-<tag lemma="Vyšný_;G" src="orig" selected="1">AANS1----1A----</tag>
+<tag>
+<AM lemma="Vyšný_;G" src="orig">AANS1----1A----</AM>
+<AM lemma="Vyšné-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-lnd92257-083-p4s1w18">
 <src.rf>manual</src.rf>
@@ -1136,6 +1142,7 @@
 <AM lemma="mecký" src="auto">AANS1----1N----</AM>
 <AM lemma="mecký" src="auto">AANS4----1N----</AM>
 <AM lemma="mecký" src="auto">AANS5----1N----</AM>
+<AM lemma="Nemecké-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-lnd92257-083-p4s1w19">
@@ -1386,7 +1393,10 @@
 <LM>w#w-lnd92257-083-p4s2w26</LM>
 </w.rf>
 <form>P</form>
-<tag lemma="P-0_:B_;Y" src="orig" selected="1">NNMXX-----A---8</tag>
+<tag>
+<AM lemma="P-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
+<AM lemma="P-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd92257-083-p4s2w27">
 <src.rf>manual</src.rf>
@@ -1482,7 +1492,10 @@
 <LM>w#w-lnd92257-083-p4s2w38</LM>
 </w.rf>
 <form>ODS</form>
-<tag lemma="ODS-1_:B_;K_;p_^(Občanská_demokratická_strana)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ODS-1_:B_;K_;p_^(Občanská_demokratická_strana)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ODS-1_:B_;K_^(Občanská_demokratická_strana)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92257-083-p4s2w39">
 <src.rf>manual</src.rf>

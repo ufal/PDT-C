@@ -727,7 +727,10 @@
 <LM>w#w-cmpr9406-041-p5s1w9</LM>
 </w.rf>
 <form>Post</form>
-<tag lemma="post-1_^(pozice)" src="orig" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="post-1_^(pozice)" src="orig">NNIS1-----A----</AM>
+<AM lemma="Post-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-cmpr9406-041-p5s1w10">
 <src.rf>manual</src.rf>
@@ -735,7 +738,10 @@
 <LM>w#w-cmpr9406-041-p5s1w10</LM>
 </w.rf>
 <form>Box</form>
-<tag lemma="box-1" src="auto" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="box-1" src="auto">NNIS1-----A----</AM>
+<AM lemma="Box-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-cmpr9406-041-p5s1w11">
 <src.rf>manual</src.rf>
@@ -791,7 +797,10 @@
 <LM>w#w-cmpr9406-041-p5s1w17</LM>
 </w.rf>
 <form>tel</form>
-<tag lemma="telefon_:B" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="telefon_:B" src="orig">NNIXX-----A---8</AM>
+<AM lemma="telefon" src="manual" selected="1">NNIXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-cmpr9406-041-p5s1w18">
 <src.rf>manual</src.rf>

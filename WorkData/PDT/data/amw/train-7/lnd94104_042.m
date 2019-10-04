@@ -91,7 +91,10 @@
 <LM>w#w-lnd94104-042-p1s1w10</LM>
 </w.rf>
 <form>milionů</form>
-<tag lemma="milión`1000000" src="orig" selected="1">NNIP2-----A----</tag>
+<tag>
+<AM lemma="milión`1000000" src="orig">NNIP2-----A----</AM>
+<AM lemma="milion`1000000_,s_^(^DD**milión)" src="manual" selected="1">NNIP2-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd94104-042-p1s1w11">
 <src.rf>manual</src.rf>
@@ -223,7 +226,10 @@
 <LM>w#w-lnd94104-042-p1s3w7</LM>
 </w.rf>
 <form>LTO</form>
-<tag lemma="LTO-1_:B_^(lehký_topný_olej)" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="LTO-1_:B_^(lehký_topný_olej)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="LTO-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd94104-042-p1s3w8">
 <src.rf>manual</src.rf>
@@ -637,7 +643,10 @@
 <LM>w#w-lnd94104-042-p1s6w7</LM>
 </w.rf>
 <form>LTO</form>
-<tag lemma="LTO-1_:B_^(lehký_topný_olej)" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="LTO-1_:B_^(lehký_topný_olej)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="LTO-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd94104-042-p1s6w8">
 <src.rf>manual</src.rf>
@@ -669,7 +678,10 @@
 <LM>w#w-lnd94104-042-p1s6w11</LM>
 </w.rf>
 <form>jen</form>
-<tag lemma="jen-1" src="auto" selected="1">TT-------------</tag>
+<tag>
+<AM lemma="jen-1" src="auto">TT-------------</AM>
+<AM lemma="jen-4_^(pouze)" src="manual" selected="1">Db-------------</AM>
+</tag>
 </m>
 <m id="m-lnd94104-042-p1s6w12">
 <src.rf>manual</src.rf>
@@ -1545,7 +1557,7 @@
 <form>nikoli</form>
 <tag>
 <AM lemma="nikoliv" src="orig">Db------------1</AM>
-<AM lemma="nikoli" src="auto" recommended="1">TT-------------</AM>
+<AM lemma="nikoli" src="auto" recommended="1" selected="1">TT-------------</AM>
 </tag>
 </m>
 <m id="m-lnd94104-042-p1s11w35">
@@ -2113,7 +2125,10 @@
 <LM>w#w-lnd94104-042-p1s14w10</LM>
 </w.rf>
 <form>milionů</form>
-<tag lemma="milión`1000000" src="orig" selected="1">NNIP2-----A----</tag>
+<tag>
+<AM lemma="milión`1000000" src="orig">NNIP2-----A----</AM>
+<AM lemma="milion`1000000_,s_^(^DD**milión)" src="manual" selected="1">NNIP2-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd94104-042-p1s14w11">
 <src.rf>manual</src.rf>

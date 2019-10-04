@@ -106,6 +106,7 @@
 <AM lemma="AB_:B_;K_;b_^(společnost,_v_sev._zemích)" src="auto" recommended="1">NNFXX-----A---8</AM>
 <AM lemma="Aba_;Y" src="auto">NNFP2-----A----</AM>
 <AM lemma="aba_,t_^(arabský_plášť)" src="auto">NNFP2-----A----</AM>
+<AM lemma="AB-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-ln94201-129-p2s1w8">
@@ -114,7 +115,10 @@
 <LM>w#w-ln94201-129-p2s1w8</LM>
 </w.rf>
 <form>Barrandov</form>
-<tag lemma="Barrandov_;G" src="orig" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="Barrandov_;G" src="orig">NNIS1-----A----</AM>
+<AM lemma="Barrandov_;G_;K" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94201-129-p2s1w9">
 <src.rf>manual</src.rf>
@@ -220,7 +224,10 @@
 <LM>w#w-ln94201-129-p2s2w5</LM>
 </w.rf>
 <form>Barrandova</form>
-<tag lemma="Barrandov_;G" src="orig" selected="1">NNIS2-----A----</tag>
+<tag>
+<AM lemma="Barrandov_;G" src="orig">NNIS2-----A----</AM>
+<AM lemma="Barrandov_;G_;K" src="manual" selected="1">NNIS2-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94201-129-p2s2w6">
 <src.rf>manual</src.rf>
@@ -937,6 +944,7 @@
 <AM lemma="AB_:B_;K_;b_^(společnost,_v_sev._zemích)" src="auto" recommended="1">NNFXX-----A---8</AM>
 <AM lemma="Aba_;Y" src="auto">NNFP2-----A----</AM>
 <AM lemma="aba_,t_^(arabský_plášť)" src="auto">NNFP2-----A----</AM>
+<AM lemma="AB-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-ln94201-129-p4s1w20">
@@ -945,7 +953,10 @@
 <LM>w#w-ln94201-129-p4s1w20</LM>
 </w.rf>
 <form>Barrandov</form>
-<tag lemma="Barrandov_;G" src="orig" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="Barrandov_;G" src="orig">NNIS1-----A----</AM>
+<AM lemma="Barrandov_;G_;K" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94201-129-p4s1w21">
 <src.rf>manual</src.rf>
@@ -1505,7 +1516,10 @@
 <LM>w#w-ln94201-129-p4s5w2</LM>
 </w.rf>
 <form>čtk</form>
-<tag lemma="ČTK-1_:B_;K_^(Čs./Česká_tisková_kancelář)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ČTK-1_:B_;K_^(Čs./Česká_tisková_kancelář)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČTK-1_:B_;K_^(Čs./Česká_tisková_kancelář)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94201-129-p4s5w3">
 <src.rf>manual</src.rf>

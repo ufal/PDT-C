@@ -168,7 +168,7 @@
 </w.rf>
 <form>Halil</form>
 <tag>
-<AM lemma="Halil_;Y" src="orig">NNMS1-----A----</AM>
+<AM lemma="Halil_;Y" src="orig" selected="1">NNMS1-----A----</AM>
 <AM lemma="halit_:T" src="auto" recommended="1">VpYS---XR-AA---</AM>
 </tag>
 </m>
@@ -179,7 +179,7 @@
 </w.rf>
 <form>Mutlu</form>
 <tag>
-<AM lemma="Mutlu_;S" src="orig">NNMS1-----A----</AM>
+<AM lemma="Mutlu_;S" src="orig" selected="1">NNMS1-----A----</AM>
 <AM lemma="Mutl_;S" src="auto" recommended="1">NNMS3-----A---1</AM>
 <AM lemma="Mutl_;S" src="auto">NNMS6-----A---1</AM>
 </tag>
@@ -232,7 +232,10 @@
 <LM>w#w-lnd94105-102-p1s4w5</LM>
 </w.rf>
 <form>kg</form>
-<tag lemma="kg-1`kilogram_:B" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="kg-1`kilogram_:B" src="orig">NNIXX-----A---8</AM>
+<AM lemma="kilogram" src="manual" selected="1">NNIXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd94105-102-p1s4w6">
 <src.rf>manual</src.rf>
@@ -273,7 +276,10 @@
 <LM>w#w-lnd94105-102-p1s4w10</LM>
 </w.rf>
 <form>kg</form>
-<tag lemma="kg-1`kilogram_:B" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="kg-1`kilogram_:B" src="orig">NNIXX-----A---8</AM>
+<AM lemma="kilogram" src="manual" selected="1">NNIXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd94105-102-p1s4w11">
 <src.rf>manual</src.rf>
@@ -356,7 +362,10 @@
 <LM>w#w-lnd94105-102-p1s5w9</LM>
 </w.rf>
 <form>kg</form>
-<tag lemma="kg-1`kilogram_:B" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="kg-1`kilogram_:B" src="orig">NNIXX-----A---8</AM>
+<AM lemma="kilogram" src="manual" selected="1">NNIXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd94105-102-p1s5w10">
 <src.rf>manual</src.rf>
@@ -500,7 +509,10 @@
 <LM>w#w-lnd94105-102-p1s5w27</LM>
 </w.rf>
 <form>kg</form>
-<tag lemma="kg-1`kilogram_:B" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="kg-1`kilogram_:B" src="orig">NNIXX-----A---8</AM>
+<AM lemma="kilogram" src="manual" selected="1">NNIXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd94105-102-p1s5w28">
 <src.rf>manual</src.rf>
@@ -778,7 +790,10 @@
 <LM>w#w-lnd94105-102-p1s8w6</LM>
 </w.rf>
 <form>kg</form>
-<tag lemma="kg-1`kilogram_:B" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="kg-1`kilogram_:B" src="orig">NNIXX-----A---8</AM>
+<AM lemma="kilogram" src="manual" selected="1">NNIXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd94105-102-p1s8w7">
 <src.rf>manual</src.rf>
@@ -998,7 +1013,10 @@
 <LM>w#w-lnd94105-102-p1s10w4</LM>
 </w.rf>
 <form>Stanislav</form>
-<tag lemma="Stanislav_;Y" src="orig" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Stanislav_;Y" src="orig">NNMS1-----A----</AM>
+<AM lemma="Stanislav_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd94105-102-p1s10w5">
 <src.rf>manual</src.rf>

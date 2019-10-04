@@ -77,7 +77,10 @@
 <LM>w#w-ln94208-134-p2s1Aw4</LM>
 </w.rf>
 <form>Wild</form>
-<tag lemma="Wild_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Wild_;S" src="orig">NNMS1-----A----</AM>
+<AM lemma="Wild-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94208-134-p2s1Aw5">
 <src.rf>manual</src.rf>
@@ -85,7 +88,10 @@
 <LM>w#w-ln94208-134-p2s1Aw5</LM>
 </w.rf>
 <form>Duck</form>
-<tag lemma="Duck_;G" src="auto" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="Duck_;G" src="auto">NNIS1-----A----</AM>
+<AM lemma="Duck-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94208-134-p2s1Aw6">
 <src.rf>manual</src.rf>
@@ -443,7 +449,10 @@
 <LM>w#w-ln94208-134-p2s3w12</LM>
 </w.rf>
 <form>píší</form>
-<tag lemma="psát" src="orig" selected="1">VB-P---3P-AA--1</tag>
+<tag>
+<AM lemma="psát" src="orig">VB-P---3P-AA--1</AM>
+<AM lemma="psát_:T" src="manual" selected="1">VB-P---3P-AA--1</AM>
+</tag>
 </m>
 <m id="m-ln94208-134-p2s3w13">
 <src.rf>manual</src.rf>
@@ -517,7 +526,10 @@
 <LM>w#w-ln94208-134-p2s4w4</LM>
 </w.rf>
 <form>strany</form>
-<tag lemma="strana-2_^(politická)" src="orig" selected="1">NNFS2-----A----</tag>
+<tag>
+<AM lemma="strana-2_^(politická)" src="orig">NNFS2-----A----</AM>
+<AM lemma="strana" src="manual" selected="1">NNFS2-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94208-134-p2s4w5">
 <src.rf>manual</src.rf>
@@ -801,7 +813,7 @@
 <form>kdykoli</form>
 <tag>
 <AM lemma="kdykoliv" src="orig">Db------------1</AM>
-<AM lemma="kdykoli" src="auto" recommended="1">Db-------------</AM>
+<AM lemma="kdykoli" src="auto" recommended="1" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m-ln94208-134-p2s5w19">

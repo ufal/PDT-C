@@ -87,7 +87,11 @@
 <LM>w#w-cmpr9410-009-p5s2w1</LM>
 </w.rf>
 <form>Nevíte</form>
-<tag lemma="vědět" src="orig" selected="1">VB-P---2P-NA---</tag>
+<tag>
+<AM lemma="vědět" src="orig">VB-P---2P-NA---</AM>
+<AM lemma="vědět:T" src="manual">VB-P---2P-NA---</AM>
+<AM lemma="vědět_:T" src="manual" selected="1">VB-P---2P-NA---</AM>
+</tag>
 </m>
 <m id="m-cmpr9410-009-p5s2w2">
 <src.rf>manual</src.rf>
@@ -296,7 +300,7 @@
 <tag>
 <AM lemma="tady" src="orig">Db------------1</AM>
 <AM lemma="ten" src="auto">PDFS4----------</AM>
-<AM lemma="tu" src="auto" recommended="1">Db-------------</AM>
+<AM lemma="tu" src="auto" recommended="1" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m-cmpr9410-009-p5s5w3">
@@ -585,7 +589,10 @@
 <LM>w#w-cmpr9410-009-p7s2w8</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-2" src="auto" selected="1">Dg-------2A----</tag>
+<tag>
+<AM lemma="hodně-2" src="auto">Dg-------2A----</AM>
+<AM lemma="více_^(více_+_2._p.,_více_peněz)" src="manual" selected="1">Ca--1----------</AM>
+</tag>
 </m>
 <m id="m-cmpr9410-009-p7s2w9">
 <src.rf>manual</src.rf>
@@ -765,7 +772,10 @@
 <LM>w#w-cmpr9410-009-p7s4w1</LM>
 </w.rf>
 <form>Víme</form>
-<tag lemma="vědět" src="orig" selected="1">VB-P---1P-AA---</tag>
+<tag>
+<AM lemma="vědět" src="orig">VB-P---1P-AA---</AM>
+<AM lemma="vědět_:T" src="manual" selected="1">VB-P---1P-AA---</AM>
+</tag>
 </m>
 <m id="m-cmpr9410-009-p7s4w2">
 <src.rf>manual</src.rf>
@@ -1277,6 +1287,8 @@
 <AM lemma="j-3_^(označení_pomocí_písmene)" src="auto" recommended="1">NNNXX-----A----</AM>
 <AM lemma="j-8_:B_^(ost._zkratka)" src="auto">XX------------8</AM>
 <AM lemma="jako-1_:B" src="auto">J,------------8</AM>
+<AM lemma="J-2_:B" src="manual">NNXXX-----A---8</AM>
+<AM lemma="J-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9410-009-p10s1w4">
@@ -1307,6 +1319,8 @@
 <AM lemma="g-1`gram_:B" src="auto">NNIXX-----A---8</AM>
 <AM lemma="g-3_^(označení_pomocí_písmene)" src="auto" recommended="1">NNNXX-----A----</AM>
 <AM lemma="g-8_:B_^(ost._zkratka)" src="auto">XX------------8</AM>
+<AM lemma="G-2_:B" src="manual">NNXXX-----A---8</AM>
+<AM lemma="G-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9410-009-p10s1w6">
@@ -1411,7 +1425,10 @@
 <LM>w#w-cmpr9410-009-p10s1w18</LM>
 </w.rf>
 <form>tel</form>
-<tag lemma="telefon_:B" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="telefon_:B" src="orig">NNIXX-----A---8</AM>
+<AM lemma="telefon" src="manual" selected="1">NNIXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-cmpr9410-009-p10s1w19">
 <src.rf>manual</src.rf>

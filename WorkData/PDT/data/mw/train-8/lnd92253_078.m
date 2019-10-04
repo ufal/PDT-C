@@ -19,7 +19,10 @@
 <LM>w#w-lnd92253-078-p1s1w1</LM>
 </w.rf>
 <form>TOP</form>
-<tag lemma="top-1_,h_,t" src="auto" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="top-1_,h_,t" src="auto">AAXXX----1A----</AM>
+<AM lemma="top-1" src="manual" selected="1">AAXXX----1A----</AM>
+</tag>
 </m>
 <m id="m-lnd92253-078-p1s1w2">
 <src.rf>manual</src.rf>
@@ -71,7 +74,10 @@
 <LM>w#w-lnd92253-078-p2s2w1</LM>
 </w.rf>
 <form>TOP</form>
-<tag lemma="top-1_,h_,t" src="auto" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="top-1_,h_,t" src="auto">AAXXX----1A----</AM>
+<AM lemma="top-1" src="manual" selected="1">AAXXX----1A----</AM>
+</tag>
 </m>
 <m id="m-lnd92253-078-p2s2w2">
 <src.rf>manual</src.rf>
@@ -199,7 +205,10 @@
 <LM>w#w-lnd92253-078-p2s2w17</LM>
 </w.rf>
 <form>ČSFR</form>
-<tag lemma="ČSFR-1_:B_;G_^(Čs._federativní_republika)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ČSFR-1_:B_;G_^(Čs._federativní_republika)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČSFR-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd92253-078-p2s2w18">
 <src.rf>manual</src.rf>
@@ -249,7 +258,10 @@
 <LM>w#w-lnd92253-078-p2s3w5</LM>
 </w.rf>
 <form>Art</form>
-<tag lemma="Art-2_;K_,t" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="Art-2_;K_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="Art-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-lnd92253-078-p2s3w6">
 <src.rf>manual</src.rf>
@@ -257,7 +269,10 @@
 <LM>w#w-lnd92253-078-p2s3w6</LM>
 </w.rf>
 <form>Production</form>
-<tag lemma="Production_;K" src="orig" selected="1">NNFXX-----A----</tag>
+<tag>
+<AM lemma="Production_;K" src="orig">NNFXX-----A----</AM>
+<AM lemma="Production-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-lnd92253-078-p2s3w7">
 <src.rf>manual</src.rf>
@@ -265,7 +280,10 @@
 <LM>w#w-lnd92253-078-p2s3w7</LM>
 </w.rf>
 <form>K</form>
-<tag lemma="k-3_^(označení_pomocí_písmene)" src="orig" selected="1">NNNXX-----A----</tag>
+<tag>
+<AM lemma="k-3_^(označení_pomocí_písmene)" src="orig">NNNXX-----A----</AM>
+<AM lemma="K-33_^(označení_pomocí_písmene)" src="manual" selected="1">NNNXX-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92253-078-p2s3w8">
 <src.rf>manual</src.rf>
@@ -823,7 +841,10 @@
 <LM>w#w-lnd92253-078-p2s5w28</LM>
 </w.rf>
 <form>TOP</form>
-<tag lemma="top-1_,h_,t" src="auto" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="top-1_,h_,t" src="auto">AAXXX----1A----</AM>
+<AM lemma="top-1" src="manual" selected="1">AAXXX----1A----</AM>
+</tag>
 </m>
 <m id="m-lnd92253-078-p2s5w29">
 <src.rf>manual</src.rf>
@@ -913,7 +934,7 @@
 <form>Audi</form>
 <tag>
 <AM lemma="Audi-2_;R_^(vozidlo)" src="orig">NNFXX-----A----</AM>
-<AM lemma="Audi_;K_;R_^(vozidlo)" src="auto" recommended="1">NNXXX-----A----</AM>
+<AM lemma="Audi_;K_;R_^(vozidlo)" src="auto" recommended="1" selected="1">NNXXX-----A----</AM>
 <AM lemma="audi_^(vozidlo)" src="auto">NNXXX-----A----</AM>
 </tag>
 </m>
@@ -947,7 +968,10 @@
 <LM>w#w-lnd92253-078-p2s5w43</LM>
 </w.rf>
 <form>XM</form>
-<tag lemma="XM_:B_;R" src="orig" selected="1">NNNXX-----A----</tag>
+<tag>
+<AM lemma="XM_:B_;R" src="orig">NNNXX-----A----</AM>
+<AM lemma="XM-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd92253-078-p2s5w44">
 <src.rf>manual</src.rf>
@@ -970,6 +994,7 @@
 <AM lemma="d-3_^(označení_pomocí_písmene)" src="auto" recommended="1">NNNXX-----A----</AM>
 <AM lemma="d-4_^(př._d'Artagnan,_stažený_tvar_fr._předl.)" src="auto">AAXXX----1A----</AM>
 <AM lemma="d-8_:B_^(ost._zkratka)" src="auto">XX------------8</AM>
+<AM lemma="D-33_^(označení_pomocí_písmene)" src="manual" selected="1">NNNXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92253-078-p2s5w45">
@@ -1013,6 +1038,7 @@
 <tag>
 <AM lemma="LX-4_;R" src="orig">NNXXX-----A----</AM>
 <AM lemma="LX-3`60" src="auto" recommended="1">C}-------------</AM>
+<AM lemma="LX-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-lnd92253-078-p2s5w50">
@@ -1086,7 +1112,10 @@
 <LM>w#w-lnd92253-078-p2s5w58</LM>
 </w.rf>
 <form>GLX</form>
-<tag lemma="GLX_;R" src="orig" selected="1">NNNXX-----A----</tag>
+<tag>
+<AM lemma="GLX_;R" src="orig">NNNXX-----A----</AM>
+<AM lemma="GLX-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd92253-078-p2s5w59">
 <src.rf>manual</src.rf>
@@ -1158,7 +1187,10 @@
 <LM>w#w-lnd92253-078-p2s5w67</LM>
 </w.rf>
 <form>SRDT</form>
-<tag lemma="SRDT_;R" src="orig" selected="1">NNNXX-----A----</tag>
+<tag>
+<AM lemma="SRDT_;R" src="orig">NNNXX-----A----</AM>
+<AM lemma="SRDT-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd92253-078-p2s5w68">
 <src.rf>manual</src.rf>
@@ -1222,7 +1254,10 @@
 <LM>w#w-lnd92253-078-p2s5w75</LM>
 </w.rf>
 <form>GLX</form>
-<tag lemma="GLX_;R" src="orig" selected="1">NNNXX-----A----</tag>
+<tag>
+<AM lemma="GLX_;R" src="orig">NNNXX-----A----</AM>
+<AM lemma="GLX-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd92253-078-p2s5w76">
 <src.rf>manual</src.rf>
@@ -1242,7 +1277,7 @@
 <AM lemma="Suzuki-2_;R_^(vozidlo)" src="orig">NNNXX-----A----</AM>
 <AM lemma="Suzuki-3_;S" src="auto">NNMS1-----A----</AM>
 <AM lemma="Suzuki-3_;S" src="auto">NNMS5-----A----</AM>
-<AM lemma="Suzuki_;K_;R" src="auto">NNXXX-----A----</AM>
+<AM lemma="Suzuki_;K_;R" src="auto" selected="1">NNXXX-----A----</AM>
 <AM lemma="suzuki_;R_^(vozidlo)" src="auto" recommended="1">NNXXX-----A----</AM>
 </tag>
 </m>
@@ -1268,7 +1303,10 @@
 <LM>w#w-lnd92253-078-p2s5w80</LM>
 </w.rf>
 <form>VW</form>
-<tag lemma="VW_:B_;K_;R_,t_^(název_firmy/auta_Volkswagen)" src="auto" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="VW_:B_;K_;R_,t_^(název_firmy/auta_Volkswagen)" src="auto">NNIXX-----A---8</AM>
+<AM lemma="VW_:B_;K_;R_^(název_firmy/auta_Volkswagen)" src="manual" selected="1">NNIXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd92253-078-p2s5w81">
 <src.rf>manual</src.rf>
@@ -1284,7 +1322,10 @@
 <LM>w#w-lnd92253-078-p2s5w82</LM>
 </w.rf>
 <form>Variant</form>
-<tag lemma="varianta" src="orig" selected="1">NNFP2-----A----</tag>
+<tag>
+<AM lemma="varianta" src="orig">NNFP2-----A----</AM>
+<AM lemma="Variant_;R_^(vozidlo)" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92253-078-p2s5w83">
 <src.rf>manual</src.rf>
@@ -1296,6 +1337,7 @@
 <AM lemma="CL-2_;R" src="orig">NNNXX-----A----</AM>
 <AM lemma="CL_:B_^(Chile)" src="auto" recommended="1">NNXXX-----A---8</AM>
 <AM lemma="centilitr_:B" src="auto">NNIXX-----A---8</AM>
+<AM lemma="CL-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-lnd92253-078-p2s5w84">
@@ -1312,7 +1354,10 @@
 <LM>w#w-lnd92253-078-p2s5w85</LM>
 </w.rf>
 <form>VW</form>
-<tag lemma="VW_:B_;K_;R_,t_^(název_firmy/auta_Volkswagen)" src="auto" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="VW_:B_;K_;R_,t_^(název_firmy/auta_Volkswagen)" src="auto">NNIXX-----A---8</AM>
+<AM lemma="VW_:B_;K_;R_^(název_firmy/auta_Volkswagen)" src="manual" selected="1">NNIXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd92253-078-p2s5w86">
 <src.rf>manual</src.rf>
@@ -1320,7 +1365,10 @@
 <LM>w#w-lnd92253-078-p2s5w86</LM>
 </w.rf>
 <form>vento</form>
-<tag lemma="vento_;R_,t" src="orig" selected="1">NNNS1-----A----</tag>
+<tag>
+<AM lemma="vento_;R_,t" src="orig">NNNS1-----A----</AM>
+<AM lemma="vento_;R_^(vozidlo)" src="manual" selected="1">NNNS1-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92253-078-p2s5w87">
 <src.rf>manual</src.rf>
@@ -1331,6 +1379,7 @@
 <tag>
 <AM lemma="GL-2_:B_;R" src="orig">NNNXX-----A---8</AM>
 <AM lemma="GL-1_:B_^(glejová_půda)" src="auto" recommended="1">NNFXX-----A---8</AM>
+<AM lemma="GL-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-lnd92253-078-p2s5w88">

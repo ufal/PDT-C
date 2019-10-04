@@ -19,7 +19,10 @@
 <LM>w#w-ln94203-44-p1s1w1</LM>
 </w.rf>
 <form>Přijela</form>
-<tag lemma="přijet" src="auto" selected="1">VpQW---XR-AA---</tag>
+<tag>
+<AM lemma="přijet" src="auto">VpQW---XR-AA---</AM>
+<AM lemma="přijet_:W" src="manual" selected="1">VpQW---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-ln94203-44-p1s1w2">
 <src.rf>manual</src.rf>
@@ -207,7 +210,10 @@
 <LM>w#w-ln94203-44-p2s1Bw17</LM>
 </w.rf>
 <form>Maruta</form>
-<tag lemma="Marut_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag>
+<AM lemma="Marut_;S" src="orig">NNMS2-----A----</AM>
+<AM lemma="Marut_;S_;Y" src="manual" selected="1">NNMS2-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94203-44-p2s1Bw18">
 <src.rf>manual</src.rf>

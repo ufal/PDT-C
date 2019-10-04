@@ -19,7 +19,10 @@
 <LM>w#w-ln95047-112-p1s1w1</LM>
 </w.rf>
 <form>Více</form>
-<tag lemma="hodně-2" src="auto" selected="1">Dg-------2A----</tag>
+<tag>
+<AM lemma="hodně-2" src="auto">Dg-------2A----</AM>
+<AM lemma="více_^(více_+_2._p.,_více_peněz)" src="manual" selected="1">Ca--4----------</AM>
+</tag>
 </m>
 <m id="m-ln95047-112-p1s1w2">
 <src.rf>manual</src.rf>
@@ -613,7 +616,10 @@
 <LM>w#w-ln95047-112-p2s4w20</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-2" src="auto" selected="1">Dg-------2A----</tag>
+<tag>
+<AM lemma="hodně-2" src="auto">Dg-------2A----</AM>
+<AM lemma="více_^(více_+_2._p.,_více_peněz)" src="manual" selected="1">Ca--4----------</AM>
+</tag>
 </m>
 <m id="m-ln95047-112-p2s4w21">
 <src.rf>manual</src.rf>
@@ -767,7 +773,10 @@
 <LM>w#w-ln95047-112-p2s5w12</LM>
 </w.rf>
 <form>přijmou</form>
-<tag lemma="přijmout" src="auto" selected="1">VB-P---3P-AA---</tag>
+<tag>
+<AM lemma="přijmout" src="auto">VB-P---3P-AA---</AM>
+<AM lemma="přijmout_:W" src="manual" selected="1">VB-P---3P-AA---</AM>
+</tag>
 </m>
 <m id="m-ln95047-112-p2s5w13">
 <src.rf>manual</src.rf>

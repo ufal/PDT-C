@@ -243,7 +243,7 @@
 <AM lemma="neznámo_^(neznámé_místo)" src="auto">NNNP4-----A----</AM>
 <AM lemma="neznámo_^(neznámé_místo)" src="auto">NNNP5-----A----</AM>
 <AM lemma="neznámo_^(neznámé_místo)" src="auto">NNNS2-----A----</AM>
-<AM lemma="známý-2_^(co_známe)" src="auto" recommended="1">ACQW------N----</AM>
+<AM lemma="známý-2_^(co_známe)" src="auto" recommended="1" selected="1">ACQW------N----</AM>
 </tag>
 </m>
 <m id="m-ln95040-057-p2s1w26">
@@ -382,7 +382,10 @@
 <LM>w#w-ln95040-057-p2s2w16</LM>
 </w.rf>
 <form>li</form>
-<tag lemma="li-1" src="auto" selected="1">TT-------------</tag>
+<tag>
+<AM lemma="li-1" src="auto">TT-------------</AM>
+<AM lemma="li-2" src="manual" selected="1">J,-------------</AM>
+</tag>
 </m>
 <m id="m-ln95040-057-p2s2w17">
 <src.rf>manual</src.rf>
@@ -496,7 +499,10 @@
 <LM>w#w-ln95040-057-p2s3w7</LM>
 </w.rf>
 <form>Porta</form>
-<tag lemma="porta" src="orig" selected="1">NNFS1-----A----</tag>
+<tag>
+<AM lemma="porta" src="orig">NNFS1-----A----</AM>
+<AM lemma="Porta-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln95040-057-p2s3w8">
 <src.rf>manual</src.rf>
@@ -504,7 +510,10 @@
 <LM>w#w-ln95040-057-p2s3w8</LM>
 </w.rf>
 <form>coeli</form>
-<tag lemma="coeli_,t" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="coeli_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="coeli-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln95040-057-p2s3w9">
 <src.rf>manual</src.rf>
@@ -980,7 +989,10 @@
 <LM>w#w-ln95040-057-p3s2w9</LM>
 </w.rf>
 <form>Porta</form>
-<tag lemma="porta" src="orig" selected="1">NNFS1-----A----</tag>
+<tag>
+<AM lemma="porta" src="orig">NNFS1-----A----</AM>
+<AM lemma="Porta-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln95040-057-p3s2w10">
 <src.rf>manual</src.rf>
@@ -988,7 +1000,10 @@
 <LM>w#w-ln95040-057-p3s2w10</LM>
 </w.rf>
 <form>coeli</form>
-<tag lemma="coeli_,t" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="coeli_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="coeli-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln95040-057-p3s2w11">
 <src.rf>manual</src.rf>
@@ -1556,7 +1571,7 @@
 <form>třeba</form>
 <tag>
 <AM lemma="třeba-1" src="orig">ACNS------A----</AM>
-<AM lemma="třeba-2" src="auto" recommended="1">Db-------------</AM>
+<AM lemma="třeba-2" src="auto" recommended="1" selected="1">Db-------------</AM>
 <AM lemma="třeba-3" src="auto">TT-------------</AM>
 </tag>
 </m>
@@ -1566,7 +1581,10 @@
 <LM>w#w-ln95040-057-p4s2w20</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-2" src="auto" selected="1">Dg-------2A----</tag>
+<tag>
+<AM lemma="hodně-2" src="auto">Dg-------2A----</AM>
+<AM lemma="více_^(více_+_2._p.,_více_peněz)" src="manual" selected="1">Ca--2----------</AM>
+</tag>
 </m>
 <m id="m-ln95040-057-p4s2w21">
 <src.rf>manual</src.rf>
@@ -1776,7 +1794,10 @@
 <LM>w#w-ln95040-057-p4s3w20</LM>
 </w.rf>
 <form>V</form>
-<tag lemma="V-0_:B_;Y" src="orig" selected="1">NNMXX-----A---8</tag>
+<tag>
+<AM lemma="V-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
+<AM lemma="V-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln95040-057-p4s3w21">
 <src.rf>manual</src.rf>
@@ -1930,7 +1951,10 @@
 <LM>w#w-ln95040-057-p4s4w11</LM>
 </w.rf>
 <form>L</form>
-<tag lemma="L-0_:B_;Y" src="orig" selected="1">NNMXX-----A---8</tag>
+<tag>
+<AM lemma="L-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
+<AM lemma="L-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln95040-057-p4s4w12">
 <src.rf>manual</src.rf>
@@ -1986,7 +2010,10 @@
 <LM>w#w-ln95040-057-p4s4w18</LM>
 </w.rf>
 <form>jen</form>
-<tag lemma="jen-1" src="auto" selected="1">TT-------------</tag>
+<tag>
+<AM lemma="jen-1" src="auto">TT-------------</AM>
+<AM lemma="jen-4_^(pouze)" src="manual" selected="1">Db-------------</AM>
+</tag>
 </m>
 <m id="m-ln95040-057-p4s4w19">
 <src.rf>manual</src.rf>
@@ -2620,7 +2647,10 @@
 <LM>w#w-ln95040-057-p5s5w2</LM>
 </w.rf>
 <form>Rejčka</form>
-<tag lemma="Rejčka_;S" src="orig" selected="1">NNFS1-----A----</tag>
+<tag>
+<AM lemma="Rejčka_;S" src="orig">NNFS1-----A----</AM>
+<AM lemma="Rejčka_;Y" src="manual" selected="1">NNFS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95040-057-p5s5w3">
 <src.rf>manual</src.rf>
@@ -2864,7 +2894,10 @@
 <LM>w#w-ln95040-057-p6s1w8</LM>
 </w.rf>
 <form>Porta</form>
-<tag lemma="porta" src="orig" selected="1">NNFS1-----A----</tag>
+<tag>
+<AM lemma="porta" src="orig">NNFS1-----A----</AM>
+<AM lemma="Porta-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln95040-057-p6s1w9">
 <src.rf>manual</src.rf>
@@ -2872,7 +2905,10 @@
 <LM>w#w-ln95040-057-p6s1w9</LM>
 </w.rf>
 <form>coeli</form>
-<tag lemma="coeli_,t" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="coeli_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="coeli-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln95040-057-p6s1w10">
 <src.rf>manual</src.rf>

@@ -111,7 +111,10 @@
 <LM>w#w-mf920924-060-p2s1w3</LM>
 </w.rf>
 <form>brp</form>
-<tag lemma="brp-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="brp-99_:B_;S" src="orig">NNXXX-----A---8</AM>
+<AM lemma="brp-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920924-060-p2s1w4">
 <src.rf>manual</src.rf>
@@ -487,7 +490,7 @@
 <AM lemma="Fiat-2_;K_;R_^(vozidlo)" src="orig">NNIS2-----A----</AM>
 <AM lemma="Fiat_;K_;R" src="auto">NNIS3-----A----</AM>
 <AM lemma="Fiat_;K_;R" src="auto">NNIS6-----A---1</AM>
-<AM lemma="fiat-1_;R" src="auto" recommended="1">NNIS2-----A----</AM>
+<AM lemma="fiat-1_;R" src="auto" recommended="1" selected="1">NNIS2-----A----</AM>
 <AM lemma="fiat-1_;R" src="auto">NNIS3-----A----</AM>
 <AM lemma="fiat-1_;R" src="auto">NNIS6-----A---1</AM>
 <AM lemma="fiat_^(vozidlo)" src="auto">NNIS3-----A----</AM>
@@ -620,7 +623,10 @@
 <LM>w#w-mf920924-060-p2s3w23</LM>
 </w.rf>
 <form>Premier</form>
-<tag lemma="premiéra_,x" src="orig" selected="1">NNFP2-----A----</tag>
+<tag>
+<AM lemma="premiéra_,x" src="orig">NNFP2-----A----</AM>
+<AM lemma="Premier-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-mf920924-060-p2s3w24">
 <src.rf>manual</src.rf>
@@ -758,7 +764,10 @@
 <LM>w#w-mf920924-060-p2s4w16</LM>
 </w.rf>
 <form>ccm</form>
-<tag lemma="ccm_:B_^(centimetr_krychlový)" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="ccm_:B_^(centimetr_krychlový)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="ccm_:B_^(centimetr_krychlový)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920924-060-p2s4w17">
 <src.rf>manual</src.rf>
@@ -856,7 +865,10 @@
 <LM>w#w-mf920924-060-p2s5w8</LM>
 </w.rf>
 <form>přijelo</form>
-<tag lemma="přijet" src="auto" selected="1">VpNS---XR-AA---</tag>
+<tag>
+<AM lemma="přijet" src="auto">VpNS---XR-AA---</AM>
+<AM lemma="přijet_:W" src="manual" selected="1">VpNS---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-mf920924-060-p2s5w9">
 <src.rf>manual</src.rf>
@@ -900,7 +912,7 @@
 <form>ovšem</form>
 <tag>
 <AM lemma="ovšem-1_^(avšak,_však;_odporovací_spojka)" src="orig">J^-------------</AM>
-<AM lemma="ovšem" src="auto" recommended="1">TT-------------</AM>
+<AM lemma="ovšem" src="auto" recommended="1" selected="1">TT-------------</AM>
 </tag>
 </m>
 <m id="m-mf920924-060-p2s6w3">
@@ -1511,6 +1523,7 @@
 <AM lemma="začít-1" src="orig">Vf--------A----</AM>
 <AM lemma="začít-1_^(začnout)" src="auto" recommended="1">Vf--------A----</AM>
 <AM lemma="začít-2_^(pocítit)" src="auto">Vf--------A----</AM>
+<AM lemma="začít-1_:W_^(začnout)" src="manual" selected="1">Vf--------A----</AM>
 </tag>
 </m>
 <m id="m-mf920924-060-p2s9w19">
@@ -1685,7 +1698,7 @@
 <form>favoritů</form>
 <tag>
 <AM lemma="Favorit-2_;R_^(vozidlo)" src="orig">NNIP2-----A----</AM>
-<AM lemma="favorit-1_;R" src="auto" recommended="1">NNIP2-----A----</AM>
+<AM lemma="favorit-1_;R" src="auto" recommended="1" selected="1">NNIP2-----A----</AM>
 <AM lemma="favorit-2" src="auto">NNMP2-----A----</AM>
 </tag>
 </m>
@@ -1719,7 +1732,11 @@
 <LM>w#w-mf920924-060-p2s11w8</LM>
 </w.rf>
 <form>Prima</form>
-<tag lemma="Prima_;K_^(čes._TV_stanice)" src="auto" selected="1">NNFS1-----A----</tag>
+<tag>
+<AM lemma="Prima_;K_^(čes._TV_stanice)" src="auto">NNFS1-----A----</AM>
+<AM lemma="prima-2_,t" src="manual">NNXXX-----A----</AM>
+<AM lemma="Prima-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-mf920924-060-p2s11w9">
 <src.rf>manual</src.rf>
@@ -1743,7 +1760,12 @@
 <LM>w#w-mf920924-060-p2s11w11</LM>
 </w.rf>
 <form>Prima</form>
-<tag lemma="Prima_;K_^(čes._TV_stanice)" src="auto" selected="1">NNFS1-----A----</tag>
+<tag>
+<AM lemma="Prima_;K_^(čes._TV_stanice)" src="auto">NNFS1-----A----</AM>
+<AM lemma="prima_,t" src="manual">NNXXX-----A----</AM>
+<AM lemma="prima-2_,t" src="manual">NNXXX-----A----</AM>
+<AM lemma="Prima-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-mf920924-060-p2s11w12">
 <src.rf>manual</src.rf>
@@ -1771,6 +1793,8 @@
 <AM lemma="Excellent_;K_,t" src="orig">NNIXX-----A----</AM>
 <AM lemma="Excellent_;K" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Excellent_;K" src="auto">NNIS4-----A----</AM>
+<AM lemma="excellent_,t" src="manual">AAXXX----1A----</AM>
+<AM lemma="Excellent-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-mf920924-060-p2s11w15">
@@ -1797,8 +1821,9 @@
 <form>Motor</form>
 <tag>
 <AM lemma="motor-2_,t" src="orig">AAXXX----1A----</AM>
-<AM lemma="motor" src="auto" recommended="1">NNIS1-----A----</AM>
+<AM lemma="motor" src="auto" recommended="1" selected="1">NNIS1-----A----</AM>
 <AM lemma="motor" src="auto">NNIS4-----A----</AM>
+<AM lemma="motor_,t" src="manual">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920924-060-p2s11w18">
@@ -1863,6 +1888,7 @@
 <AM lemma="CS-2_:B_,t_^(Computer_Science)" src="auto" recommended="1">NNXXX-----A---8</AM>
 <AM lemma="cesium_:B_;H" src="auto">NNNXX-----A---8</AM>
 <AM lemma="cirrostratus_:B" src="auto">NNIXX-----A---8</AM>
+<AM lemma="CS-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920924-060-p2s12w3">
@@ -1919,7 +1945,10 @@
 <LM>w#w-mf920924-060-p2s12w9</LM>
 </w.rf>
 <form>ccm</form>
-<tag lemma="ccm_:B_^(centimetr_krychlový)" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="ccm_:B_^(centimetr_krychlový)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="ccm_:B_^(centimetr_krychlový)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920924-060-p2s12w10">
 <src.rf>manual</src.rf>
@@ -2011,7 +2040,7 @@
 <form>ovšem</form>
 <tag>
 <AM lemma="ovšem-1_^(avšak,_však;_odporovací_spojka)" src="orig">J^-------------</AM>
-<AM lemma="ovšem" src="auto" recommended="1">TT-------------</AM>
+<AM lemma="ovšem" src="auto" recommended="1" selected="1">TT-------------</AM>
 </tag>
 </m>
 <m id="m-mf920924-060-p2s13w5">
@@ -2134,7 +2163,10 @@
 <LM>w#w-mf920924-060-p2s14w7</LM>
 </w.rf>
 <form>BESO</form>
-<tag lemma="Beso_;K" src="orig" selected="1">NNNS1-----A----</tag>
+<tag>
+<AM lemma="Beso_;K" src="orig">NNNS1-----A----</AM>
+<AM lemma="BESO-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920924-060-p2s14w8">
 <src.rf>manual</src.rf>
@@ -2230,7 +2262,10 @@
 <LM>w#w-mf920924-060-p2s14w19</LM>
 </w.rf>
 <form>Corvette</form>
-<tag lemma="Corvette_;R_,t" src="orig" selected="1">NNFXX-----A----</tag>
+<tag>
+<AM lemma="Corvette_;R_,t" src="orig">NNFXX-----A----</AM>
+<AM lemma="Corvette_;R" src="manual" selected="1">NNFXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920924-060-p2s14w20">
 <src.rf>manual</src.rf>

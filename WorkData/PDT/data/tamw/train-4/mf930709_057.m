@@ -167,7 +167,7 @@
 <form>ovšem</form>
 <tag>
 <AM lemma="ovšem-1_^(avšak,_však;_odporovací_spojka)" src="orig">J^-------------</AM>
-<AM lemma="ovšem" src="auto" recommended="1">TT-------------</AM>
+<AM lemma="ovšem" src="auto" recommended="1" selected="1">TT-------------</AM>
 </tag>
 </m>
 <m id="m-mf930709-057-p2s1w17">
@@ -176,7 +176,10 @@
 <LM>w#w-mf930709-057-p2s1w17</LM>
 </w.rf>
 <form>hrálo</form>
-<tag lemma="hrát" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag>
+<AM lemma="hrát" src="orig">VpNS---XR-AA---</AM>
+<AM lemma="hrát_:T" src="manual" selected="1">VpNS---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-mf930709-057-p2s1w18">
 <src.rf>manual</src.rf>
@@ -285,7 +288,7 @@
 <tag>
 <AM lemma="tady" src="orig">Db------------1</AM>
 <AM lemma="ten" src="auto" recommended="1">PDFS4----------</AM>
-<AM lemma="tu" src="auto">Db-------------</AM>
+<AM lemma="tu" src="auto" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m-mf930709-057-p2s2w6">
@@ -354,6 +357,8 @@
 <AM lemma="Cosi_;m_,t" src="orig">Db-------------</AM>
 <AM lemma="cosi" src="auto" recommended="1">PZ--1----------</AM>
 <AM lemma="cosi" src="auto">PZ--4----------</AM>
+<AM lemma="cosi_,t" src="manual">Db-------------</AM>
+<AM lemma="COSI-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-mf930709-057-p2s2w14">
@@ -369,6 +374,8 @@
 <AM lemma="fan_,l" src="auto">NNIS1-----A----</AM>
 <AM lemma="fan_,l" src="auto">NNIS4-----A----</AM>
 <AM lemma="fana_,l_^(pánev)" src="auto">NNFP2-----A----</AM>
+<AM lemma="fan_,t" src="manual">NNXXX-----A----</AM>
+<AM lemma="FAN-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-mf930709-057-p2s2w15">
@@ -383,6 +390,7 @@
 <AM lemma="Tutte_;S" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Tutte_;S" src="auto">NNMS5-----A----</AM>
 <AM lemma="tutte_,t_^(jen_Cosi_fan_tutte,_it.)" src="auto">PLFP1----------</AM>
+<AM lemma="TUTTE-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-mf930709-057-p2s2w16">
@@ -463,7 +471,10 @@
 <LM>w#w-mf930709-057-p2s2w25</LM>
 </w.rf>
 <form>víc</form>
-<tag lemma="hodně-2" src="auto" selected="1">Dg-------2A---1</tag>
+<tag>
+<AM lemma="hodně-2" src="auto">Dg-------2A---1</AM>
+<AM lemma="hodně-3" src="manual" selected="1">Dg-------2A---1</AM>
+</tag>
 </m>
 <m id="m-mf930709-057-p2s2w26">
 <src.rf>manual</src.rf>
@@ -763,7 +774,10 @@
 <LM>w#w-mf930709-057-p2s4w1</LM>
 </w.rf>
 <form>Nehraje</form>
-<tag lemma="hrát" src="auto" selected="1">VB-S---3P-NA---</tag>
+<tag>
+<AM lemma="hrát" src="auto">VB-S---3P-NA---</AM>
+<AM lemma="hrát_:T" src="manual" selected="1">VB-S---3P-NA---</AM>
+</tag>
 </m>
 <m id="m-mf930709-057-p2s4w2">
 <src.rf>manual</src.rf>

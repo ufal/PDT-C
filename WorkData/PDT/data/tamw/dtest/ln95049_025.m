@@ -111,7 +111,7 @@
 <form>Ačkoliv</form>
 <tag>
 <AM lemma="ačkoliv" src="orig">J,-------------</AM>
-<AM lemma="ačkoli" src="auto" recommended="1">J,------------1</AM>
+<AM lemma="ačkoli" src="auto" recommended="1" selected="1">J,------------1</AM>
 </tag>
 </m>
 <m id="m-ln95049-025-p2s1w2">
@@ -160,7 +160,11 @@
 <LM>w#w-ln95049-025-p2s1w7</LM>
 </w.rf>
 <form>Olympique</form>
-<tag lemma="Olympique-1_;K_,t_^(souč._názvu_franc._sport._klubů)" src="orig" selected="1">NNIXX-----A----</tag>
+<tag>
+<AM lemma="Olympique-1_;K_,t_^(souč._názvu_franc._sport._klubů)" src="orig">NNIXX-----A----</AM>
+<AM lemma="Olympique-77" src="manual">F%-------------</AM>
+<AM lemma="Olympique-1_;K_^(souč._názvu_franc._sport._klubů)" src="manual" selected="1">NNIXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95049-025-p2s1w8">
 <src.rf>manual</src.rf>
@@ -168,7 +172,10 @@
 <LM>w#w-ln95049-025-p2s1w8</LM>
 </w.rf>
 <form>Marseille</form>
-<tag lemma="Marseille_;G" src="orig" selected="1">NNNXX-----A----</tag>
+<tag>
+<AM lemma="Marseille_;G" src="orig" selected="1">NNNXX-----A----</AM>
+<AM lemma="Marseille-77" src="manual">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln95049-025-p2s1w9">
 <src.rf>manual</src.rf>
@@ -187,6 +194,8 @@
 <tag>
 <AM lemma="OM-2_:B_;K_,t_^(Olympique_Marseille)" src="orig">NNIXX-----A----</AM>
 <AM lemma="OM-1_:B_^(okresní_muzeum)" src="auto" recommended="1">NNNXX-----A----</AM>
+<AM lemma="OM-2_:B" src="manual">NNXXX-----A---8</AM>
+<AM lemma="OM-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95049-025-p2s1w11">
@@ -358,7 +367,7 @@
 </w.rf>
 <form>Valenciennes</form>
 <tag>
-<AM lemma="Valenciennes_;K" src="orig">NNIXX-----A----</AM>
+<AM lemma="Valenciennes_;K" src="orig" selected="1">NNIXX-----A----</AM>
 <AM lemma="Valenciennes_;K" src="auto">NNIS1-----A----</AM>
 <AM lemma="Valenciennes_;K" src="auto" recommended="1">NNIS4-----A----</AM>
 </tag>
@@ -369,7 +378,10 @@
 <LM>w#w-ln95049-025-p2s2w4</LM>
 </w.rf>
 <form>začne</form>
-<tag lemma="začít-1_^(začnout)" src="auto" selected="1">VB-S---3P-AA---</tag>
+<tag>
+<AM lemma="začít-1_^(začnout)" src="auto">VB-S---3P-AA---</AM>
+<AM lemma="začít-1_:W_^(začnout)" src="manual" selected="1">VB-S---3P-AA---</AM>
+</tag>
 </m>
 <m id="m-ln95049-025-p2s2w5">
 <src.rf>manual</src.rf>
@@ -526,7 +538,7 @@
 </w.rf>
 <form>Valenciennes</form>
 <tag>
-<AM lemma="Valenciennes_;K" src="orig">NNIXX-----A----</AM>
+<AM lemma="Valenciennes_;K" src="orig" selected="1">NNIXX-----A----</AM>
 <AM lemma="Valenciennes_;K" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Valenciennes_;K" src="auto">NNIS4-----A----</AM>
 </tag>
@@ -601,7 +613,10 @@
 <LM>w#w-ln95049-025-p3s1w15</LM>
 </w.rf>
 <form>Olympique</form>
-<tag lemma="Olympique-1_;K_,t_^(souč._názvu_franc._sport._klubů)" src="orig" selected="1">NNIXX-----A----</tag>
+<tag>
+<AM lemma="Olympique-1_;K_,t_^(souč._názvu_franc._sport._klubů)" src="orig">NNIXX-----A----</AM>
+<AM lemma="Olympique-1_;K_^(souč._názvu_franc._sport._klubů)" src="manual" selected="1">NNIXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95049-025-p3s1w16">
 <src.rf>manual</src.rf>
@@ -634,7 +649,7 @@
 </w.rf>
 <form>Valenciennes</form>
 <tag>
-<AM lemma="Valenciennes_;K" src="orig">NNIXX-----A----</AM>
+<AM lemma="Valenciennes_;K" src="orig" selected="1">NNIXX-----A----</AM>
 <AM lemma="Valenciennes_;K" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Valenciennes_;K" src="auto">NNIS4-----A----</AM>
 </tag>
@@ -704,7 +719,7 @@
 </w.rf>
 <form>Valenciennes</form>
 <tag>
-<AM lemma="Valenciennes_;K" src="orig">NNIXX-----A----</AM>
+<AM lemma="Valenciennes_;K" src="orig" selected="1">NNIXX-----A----</AM>
 <AM lemma="Valenciennes_;K" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Valenciennes_;K" src="auto">NNIS4-----A----</AM>
 </tag>
@@ -1001,7 +1016,10 @@
 <LM>w#w-ln95049-025-p3s5w4</LM>
 </w.rf>
 <form>nedávno</form>
-<tag lemma="nedávno-1" src="auto" selected="1">Db-------------</tag>
+<tag>
+<AM lemma="nedávno-1" src="auto">Db-------------</AM>
+<AM lemma="dávno-1" src="manual" selected="1">Dg-------1N----</AM>
+</tag>
 </m>
 <m id="m-ln95049-025-p3s5w5">
 <src.rf>manual</src.rf>
@@ -1150,6 +1168,8 @@
 <tag>
 <AM lemma="OM-2_:B_;K_,t_^(Olympique_Marseille)" src="orig">NNIXX-----A----</AM>
 <AM lemma="OM-1_:B_^(okresní_muzeum)" src="auto" recommended="1">NNNXX-----A----</AM>
+<AM lemma="OM-2_:B" src="manual">NNXXX-----A---8</AM>
+<AM lemma="OM-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95049-025-p4s1w9">
@@ -1363,7 +1383,7 @@
 </w.rf>
 <form>Valenciennes</form>
 <tag>
-<AM lemma="Valenciennes_;K" src="orig">NNIXX-----A----</AM>
+<AM lemma="Valenciennes_;K" src="orig" selected="1">NNIXX-----A----</AM>
 <AM lemma="Valenciennes_;K" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Valenciennes_;K" src="auto">NNIS4-----A----</AM>
 </tag>
@@ -1462,7 +1482,10 @@
 <LM>w#w-ln95049-025-p4s3w16</LM>
 </w.rf>
 <form>nechtěl</form>
-<tag lemma="chtít" src="orig" selected="1">VpYS---XR-NA---</tag>
+<tag>
+<AM lemma="chtít" src="orig">VpYS---XR-NA---</AM>
+<AM lemma="chtít_:T" src="manual" selected="1">VpYS---XR-NA---</AM>
+</tag>
 </m>
 <m id="m-ln95049-025-p4s3w17">
 <src.rf>manual</src.rf>
@@ -1905,7 +1928,7 @@
 <tag>
 <AM lemma="tady" src="orig">Db------------1</AM>
 <AM lemma="ten" src="auto">PDFS4----------</AM>
-<AM lemma="tu" src="auto" recommended="1">Db-------------</AM>
+<AM lemma="tu" src="auto" recommended="1" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m-ln95049-025-p4s7w8">
@@ -2062,7 +2085,7 @@
 <form>nenadálém</form>
 <tag>
 <AM lemma="nenadálý" src="orig">AAIS6----1N----</AM>
-<AM lemma="nenadálý" src="auto" recommended="1">AAIS6----1A----</AM>
+<AM lemma="nenadálý" src="auto" recommended="1" selected="1">AAIS6----1A----</AM>
 <AM lemma="nenadálý" src="auto">AAMS6----1A----</AM>
 <AM lemma="nenadálý" src="auto">AANS6----1A----</AM>
 </tag>
@@ -3309,7 +3332,11 @@
 <LM>w#w-ln95049-025-p6s7w10</LM>
 </w.rf>
 <form>Sainte</form>
-<tag lemma="Sainte_;K_,t" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="Sainte_;K_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="sainte_,t" src="manual">AAXXX----1A----</AM>
+<AM lemma="Sainte-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln95049-025-p6s7w11">
 <src.rf>manual</src.rf>
@@ -3324,6 +3351,8 @@
 <AM lemma="rosa" src="auto">NNFS3-----A----</AM>
 <AM lemma="rosa" src="auto">NNFS6-----A----</AM>
 <AM lemma="rosit_:T" src="auto">VeYS------A----</AM>
+<AM lemma="rose_,t" src="manual">NNXXX-----A----</AM>
+<AM lemma="Rose-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-ln95049-025-p6s7w12">
@@ -3456,7 +3485,7 @@
 <form>vůbec</form>
 <tag>
 <AM lemma="vůbec" src="orig">Db-------------</AM>
-<AM lemma="vůbec" src="auto" recommended="1">TT-------------</AM>
+<AM lemma="vůbec" src="auto" recommended="1" selected="1">TT-------------</AM>
 </tag>
 </m>
 <m id="m-ln95049-025-p7s1w7">
@@ -3539,7 +3568,10 @@
 <LM>w#w-ln95049-025-p7s2w8</LM>
 </w.rf>
 <form>Olympique</form>
-<tag lemma="Olympique-1_;K_,t_^(souč._názvu_franc._sport._klubů)" src="orig" selected="1">NNIXX-----A----</tag>
+<tag>
+<AM lemma="Olympique-1_;K_,t_^(souč._názvu_franc._sport._klubů)" src="orig">NNIXX-----A----</AM>
+<AM lemma="Olympique-1_;K_^(souč._názvu_franc._sport._klubů)" src="manual" selected="1">NNIXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95049-025-p7s2w9">
 <src.rf>manual</src.rf>
@@ -3783,7 +3815,10 @@
 <LM>w#w-ln95049-025-p7s4w5</LM>
 </w.rf>
 <form>PMEZ</form>
-<tag lemma="PMEZ_:B_;K_^(Pohár_mistrů_evropských_zemí)" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="PMEZ_:B_;K_^(Pohár_mistrů_evropských_zemí)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="PMEZ-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95049-025-p7s4w6">
 <src.rf>manual</src.rf>
@@ -3953,7 +3988,10 @@
 <LM>w#w-ln95049-025-p7s5w4</LM>
 </w.rf>
 <form>hraje</form>
-<tag lemma="hrát" src="auto" selected="1">VB-S---3P-AA---</tag>
+<tag>
+<AM lemma="hrát" src="auto">VB-S---3P-AA---</AM>
+<AM lemma="hrát_:T" src="manual" selected="1">VB-S---3P-AA---</AM>
+</tag>
 </m>
 <m id="m-ln95049-025-p7s5w5">
 <src.rf>manual</src.rf>

@@ -239,7 +239,10 @@
 <LM>w#w-ln94200-17-p2s2w5</LM>
 </w.rf>
 <form>American</form>
-<tag lemma="American-1_;K_,t_^(souč._názvů,_např._A._Airlines)" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="American-1_;K_,t_^(souč._názvů,_např._A._Airlines)" src="orig">AAXXX----1A----</AM>
+<AM lemma="American-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94200-17-p2s2w6">
 <src.rf>manual</src.rf>
@@ -247,7 +250,10 @@
 <LM>w#w-ln94200-17-p2s2w6</LM>
 </w.rf>
 <form>University</form>
-<tag lemma="University_;K_,t_^(angl.,_v_názvech)" src="orig" selected="1">NNFSX-----A----</tag>
+<tag>
+<AM lemma="University_;K_,t_^(angl.,_v_názvech)" src="orig">NNFSX-----A----</AM>
+<AM lemma="University-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94200-17-p2s2w7">
 <src.rf>manual</src.rf>
@@ -654,9 +660,14 @@
 </w.rf>
 <form>ap</form>
 <tag>
-<AM lemma="ap-99_:B_;S" src="orig">NNXXX-----A---8</AM>
+<AM lemma="ap-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</AM>
 <AM lemma="apod_:B_^(a_podobně)" src="auto" recommended="1">Db------------9</AM>
 </tag>
+<comment>
+<LM type="Other">
+<text>ponechána původní "červená" analýza (autorská zkratka)</text>
+</LM>
+</comment>
 </m>
 <m id="m-ln94200-17-p2s5w3">
 <src.rf>manual</src.rf>
@@ -680,7 +691,10 @@
 <LM>w#w-ln94200-17-p2s5w5</LM>
 </w.rf>
 <form>ČT</form>
-<tag lemma="ČT_:B_;K_^(Česká_televize)" src="auto" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="ČT_:B_;K_^(Česká_televize)" src="auto">NNXXX-----A---8</AM>
+<AM lemma="ČT_:B_;K_^(Česká_televize)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94200-17-p2s5w6">
 <src.rf>manual</src.rf>

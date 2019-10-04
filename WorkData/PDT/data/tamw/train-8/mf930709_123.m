@@ -85,7 +85,10 @@
 <LM>w#w-mf930709-123-p2s1Aw3</LM>
 </w.rf>
 <form>hai</form>
-<tag lemma="hai-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="hai-99_:B_;S" src="orig">NNXXX-----A---8</AM>
+<AM lemma="hai-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930709-123-p2s1Aw4">
 <src.rf>manual</src.rf>
@@ -223,7 +226,10 @@
 <LM>w#w-mf930709-123-p2s1Bw15</LM>
 </w.rf>
 <form>H</form>
-<tag lemma="H-9_:B_;S" src="orig" selected="1">NNMXX-----A---8</tag>
+<tag>
+<AM lemma="H-9_:B_;S" src="orig">NNMXX-----A---8</AM>
+<AM lemma="H-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-mf930709-123-p2s1Bw16">
 <src.rf>manual</src.rf>
@@ -287,7 +293,10 @@
 <LM>w#w-mf930709-123-p2s1Bw23</LM>
 </w.rf>
 <form>G</form>
-<tag lemma="G-9_:B_;S" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="G-9_:B_;S" src="orig">NNFXX-----A---8</AM>
+<AM lemma="G-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-mf930709-123-p2s1Bw24">
 <src.rf>manual</src.rf>
@@ -767,7 +776,10 @@
 <LM>w#w-mf930709-123-p2s5w4</LM>
 </w.rf>
 <form>H</form>
-<tag lemma="H-9_:B_;S" src="orig" selected="1">NNMXX-----A---8</tag>
+<tag>
+<AM lemma="H-9_:B_;S" src="orig">NNMXX-----A---8</AM>
+<AM lemma="H-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-mf930709-123-p2s5w5">
 <src.rf>manual</src.rf>
@@ -937,7 +949,10 @@
 <LM>w#w-mf930709-123-p2s6w4</LM>
 </w.rf>
 <form>H</form>
-<tag lemma="H-9_:B_;S" src="orig" selected="1">NNMXX-----A---8</tag>
+<tag>
+<AM lemma="H-9_:B_;S" src="orig">NNMXX-----A---8</AM>
+<AM lemma="H-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-mf930709-123-p2s6w5">
 <src.rf>manual</src.rf>

@@ -67,7 +67,10 @@
 <LM>w#w-vesm9301-038-p1s1w7</LM>
 </w.rf>
 <form>New</form>
-<tag lemma="New-1_;G_,t_^(součást_míst._jmen)" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="New-1_;G_,t_^(součást_míst._jmen)" src="orig">AAXXX----1A----</AM>
+<AM lemma="New-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-vesm9301-038-p1s1w8">
 <src.rf>manual</src.rf>
@@ -75,7 +78,10 @@
 <LM>w#w-vesm9301-038-p1s1w8</LM>
 </w.rf>
 <form>England</form>
-<tag lemma="England_;R_,t" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="England_;R_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="England-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-vesm9301-038-p1s1w9">
 <src.rf>manual</src.rf>
@@ -83,7 +89,10 @@
 <LM>w#w-vesm9301-038-p1s1w9</LM>
 </w.rf>
 <form>J</form>
-<tag lemma="J-6_:B_;R" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="J-6_:B_;R" src="orig">NNXXX-----A---8</AM>
+<AM lemma="J-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-vesm9301-038-p1s1w10">
 <src.rf>manual</src.rf>
@@ -99,7 +108,10 @@
 <LM>w#w-vesm9301-038-p1s1w11</LM>
 </w.rf>
 <form>of</form>
-<tag lemma="of-1_,t_^(obv._souč._anglických_názvů,_předl._2._p.)" src="orig" selected="1">RR--X----------</tag>
+<tag>
+<AM lemma="of-1_,t_^(obv._souč._anglických_názvů,_předl._2._p.)" src="orig">RR--X----------</AM>
+<AM lemma="of-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-vesm9301-038-p1s1w12">
 <src.rf>manual</src.rf>
@@ -113,6 +125,7 @@
 <AM lemma="Meda_;G_;Y" src="auto">NNFP2-----A----</AM>
 <AM lemma="med" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="med" src="auto">NNIS4-----A----</AM>
+<AM lemma="Med-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-vesm9301-038-p1s1w13">
@@ -300,6 +313,7 @@
 <tag>
 <AM lemma="USA_;G" src="orig">NNIPX-----A----</AM>
 <AM lemma="USA_:B_;K_,t_^(United_States_of_America)" src="auto" recommended="1">NNIPX-----A---8</AM>
+<AM lemma="USA_:B_;K_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-vesm9301-038-p1s1w36">
@@ -342,7 +356,7 @@
 <AM lemma="poslední" src="auto">AAIP6----1A----</AM>
 <AM lemma="poslední" src="auto">AAMP2----1A----</AM>
 <AM lemma="poslední" src="auto">AAMP6----1A----</AM>
-<AM lemma="poslední" src="auto" recommended="1">AANP2----1A----</AM>
+<AM lemma="poslední" src="auto" recommended="1" selected="1">AANP2----1A----</AM>
 <AM lemma="poslední" src="auto">AANP6----1A----</AM>
 </tag>
 </m>
@@ -426,7 +440,7 @@
 <form>ačkoliv</form>
 <tag>
 <AM lemma="ačkoliv" src="orig">J,-------------</AM>
-<AM lemma="ačkoli" src="auto" recommended="1">J,------------1</AM>
+<AM lemma="ačkoli" src="auto" recommended="1" selected="1">J,------------1</AM>
 </tag>
 </m>
 <m id="m-vesm9301-038-p2s3w14">
@@ -541,7 +555,10 @@
 <LM>w#w-vesm9301-038-p2s4w2</LM>
 </w.rf>
 <form>Jen</form>
-<tag lemma="jen-1" src="auto" selected="1">TT-------------</tag>
+<tag>
+<AM lemma="jen-1" src="auto">TT-------------</AM>
+<AM lemma="jen-4_^(pouze)" src="manual" selected="1">Db-------------</AM>
+</tag>
 </m>
 <m id="m-vesm9301-038-p2s4w3">
 <src.rf>manual</src.rf>
@@ -637,7 +654,10 @@
 <LM>w#w-vesm9301-038-p2s4w14</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-2" src="auto" selected="1">Dg-------2A----</tag>
+<tag>
+<AM lemma="hodně-2" src="auto">Dg-------2A----</AM>
+<AM lemma="více_^(více_+_2._p.,_více_peněz)" src="manual" selected="1">Ca--4----------</AM>
+</tag>
 </m>
 <m id="m-vesm9301-038-p2s4w15">
 <src.rf>manual</src.rf>
@@ -964,7 +984,7 @@
 <tag>
 <AM lemma="tedy" src="orig">Db-------------</AM>
 <AM lemma="tedy-1" src="auto">TT-------------</AM>
-<AM lemma="tedy-2" src="auto" recommended="1">J^-------------</AM>
+<AM lemma="tedy-2" src="auto" recommended="1" selected="1">J^-------------</AM>
 </tag>
 </m>
 <m id="m-vesm9301-038-p2s6w11">
@@ -1094,7 +1114,10 @@
 <LM>w#w-vesm9301-038-p2s6w26</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-2" src="auto" selected="1">Dg-------2A----</tag>
+<tag>
+<AM lemma="hodně-2" src="auto">Dg-------2A----</AM>
+<AM lemma="více_^(více_+_2._p.,_více_peněz)" src="manual" selected="1">Ca--4----------</AM>
+</tag>
 </m>
 <m id="m-vesm9301-038-p2s6w27">
 <src.rf>manual</src.rf>

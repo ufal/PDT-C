@@ -43,7 +43,10 @@
 <LM>w#w-mf930701-008-p1s1w4</LM>
 </w.rf>
 <form>vzrostou</form>
-<tag lemma="vzrůst-1" src="auto" selected="1">VB-P---3P-AA---</tag>
+<tag>
+<AM lemma="vzrůst-1" src="auto">VB-P---3P-AA---</AM>
+<AM lemma="vzrůst-1_:W" src="manual" selected="1">VB-P---3P-AA---</AM>
+</tag>
 </m>
 <m id="m-mf930701-008-p1s1w5">
 <src.rf>manual</src.rf>
@@ -80,6 +83,7 @@
 <tag>
 <AM lemma="tk-99_:B_;S" src="orig">NNXXX-----A---8</AM>
 <AM lemma="tknout" src="auto" recommended="1">VpYS---XR-AA--6</AM>
+<AM lemma="tk-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930701-008-p2s1w4">
@@ -495,7 +499,10 @@
 <LM>w#w-mf930701-008-p3s1w4</LM>
 </w.rf>
 <form>převezen</form>
-<tag lemma="převézt" src="orig" selected="1">VsYS---XX-AP---</tag>
+<tag>
+<AM lemma="převézt" src="orig">VsYS---XX-AP---</AM>
+<AM lemma="převézt_:W" src="manual" selected="1">VsYS---XX-AP---</AM>
+</tag>
 </m>
 <m id="m-mf930701-008-p3s1w5">
 <src.rf>manual</src.rf>
@@ -540,6 +547,7 @@
 <tag>
 <AM lemma="rep-99_:B_;S" src="orig">NNXXX-----A---8</AM>
 <AM lemma="republika_:B" src="auto" recommended="1">NNFXX-----A---8</AM>
+<AM lemma="rep-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930701-008-p4s1w4">
@@ -700,7 +708,10 @@
 <LM>w#w-mf930701-008-p4s1w23</LM>
 </w.rf>
 <form>převezl</form>
-<tag lemma="převézt" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag>
+<AM lemma="převézt" src="orig">VpYS---XR-AA---</AM>
+<AM lemma="převézt_:W" src="manual" selected="1">VpYS---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-mf930701-008-p4s1w24">
 <src.rf>manual</src.rf>

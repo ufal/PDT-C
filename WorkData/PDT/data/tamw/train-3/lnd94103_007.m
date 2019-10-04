@@ -51,7 +51,10 @@
 <LM>w#w-lnd94103-007-p1s1w5</LM>
 </w.rf>
 <form>Brčkem</form>
-<tag lemma="brčko" src="orig" selected="1">NNNS7-----A----</tag>
+<tag>
+<AM lemma="brčko" src="orig">NNNS7-----A----</AM>
+<AM lemma="Brčko_;G" src="manual" selected="1">NNNS7-----A----</AM>
+</tag>
 </m>
 </s>
 <s id="m-lnd94103-007-p1s2">
@@ -151,7 +154,10 @@
 <LM>w#w-lnd94103-007-p1s3w11</LM>
 </w.rf>
 <form>OSN</form>
-<tag lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd94103-007-p1s3w12">
 <src.rf>manual</src.rf>
@@ -175,7 +181,10 @@
 <LM>w#w-lnd94103-007-p1s3w14</LM>
 </w.rf>
 <form>tzv</form>
-<tag lemma="takzvaný_:B" src="orig" selected="1">AAXXX----1A---8</tag>
+<tag>
+<AM lemma="takzvaný_:B" src="orig">AAXXX----1A---8</AM>
+<AM lemma="takzvaný" src="manual" selected="1">AAXXX----1A---8</AM>
+</tag>
 </m>
 <m id="m-lnd94103-007-p1s3w15">
 <src.rf>manual</src.rf>
@@ -271,7 +280,10 @@
 <LM>w#w-lnd94103-007-p1s3w26</LM>
 </w.rf>
 <form>Brčko</form>
-<tag lemma="brčko" src="orig" selected="1">NNNS1-----A----</tag>
+<tag>
+<AM lemma="brčko" src="orig">NNNS1-----A----</AM>
+<AM lemma="Brčko_;G" src="manual" selected="1">NNNS1-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd94103-007-p1s3w27">
 <src.rf>manual</src.rf>
@@ -603,7 +615,10 @@
 <LM>w#w-lnd94103-007-p1s5w2</LM>
 </w.rf>
 <form>Brčku</form>
-<tag lemma="brčko" src="orig" selected="1">NNNS3-----A----</tag>
+<tag>
+<AM lemma="brčko" src="orig">NNNS3-----A----</AM>
+<AM lemma="Brčko_;G" src="manual" selected="1">NNNS3-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd94103-007-p1s5w3">
 <src.rf>manual</src.rf>
@@ -691,7 +706,10 @@
 <LM>w#w-lnd94103-007-p1s5w13</LM>
 </w.rf>
 <form>NATO</form>
-<tag lemma="NATO_:B_;K_^(North_Atlantic_Treaty_Organization)" src="auto" selected="1">NNNXX-----A---8</tag>
+<tag>
+<AM lemma="NATO_:B_;K_^(North_Atlantic_Treaty_Organization)" src="auto">NNNXX-----A---8</AM>
+<AM lemma="NATO_:B_;K_^(North_Atlantic_Treaty_Organization)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd94103-007-p1s5w14">
 <src.rf>manual</src.rf>
@@ -781,7 +799,10 @@
 <LM>w#w-lnd94103-007-p1s6Aw1</LM>
 </w.rf>
 <form>Více</form>
-<tag lemma="hodně-2" src="auto" selected="1">Dg-------2A----</tag>
+<tag>
+<AM lemma="hodně-2" src="auto">Dg-------2A----</AM>
+<AM lemma="hodně-3" src="manual" selected="1">Dg-------2A----</AM>
+</tag>
 </m>
 <m id="m-lnd94103-007-p1s6Aw2">
 <src.rf>manual</src.rf>
@@ -847,7 +868,10 @@
 <LM>w#w-lnd94103-007-p1s6Bw1</LM>
 </w.rf>
 <form>OSN</form>
-<tag lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd94103-007-p1s6Bw2">
 <src.rf>manual</src.rf>

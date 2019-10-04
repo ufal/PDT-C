@@ -209,7 +209,12 @@
 <LM>w#w-lnd92254-050-p3s2w15</LM>
 </w.rf>
 <form>KOnstatovala</form>
-<tag lemma="konstatovat_:T_:W" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="konstatovat_:T_:W" src="orig">VpQW---XR-AA---</tag>
+<comment>
+<LM type="New Form">
+<text>Konstatovala</text>
+</LM>
+</comment>
 </m>
 <m id="m-lnd92254-050-p3s2w16">
 <src.rf>manual</src.rf>
@@ -671,7 +676,10 @@
 <LM>w#w-lnd92254-050-p3s5w15</LM>
 </w.rf>
 <form>L</form>
-<tag lemma="L-0_:B_;Y" src="orig" selected="1">NNMXX-----A---8</tag>
+<tag>
+<AM lemma="L-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
+<AM lemma="L-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd92254-050-p3s5w16">
 <src.rf>manual</src.rf>
@@ -887,7 +895,10 @@
 <LM>w#w-lnd92254-050-p3s5w42</LM>
 </w.rf>
 <form>ES</form>
-<tag lemma="ES_:B_;K_^(Evropská_společenství)" src="orig" selected="1">NNNXX-----A---8</tag>
+<tag>
+<AM lemma="ES_:B_;K_^(Evropská_společenství)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="ES-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd92254-050-p3s5w43">
 <src.rf>manual</src.rf>

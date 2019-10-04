@@ -157,7 +157,10 @@
 <LM>w#w-ln94201-72-p2s1w14</LM>
 </w.rf>
 <form>Švéd</form>
-<tag lemma="Švéd_;E" src="orig" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Švéd_;E" src="orig">NNMS1-----A----</AM>
+<AM lemma="Švéd_;E_;S" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94201-72-p2s1w15">
 <src.rf>manual</src.rf>
@@ -453,7 +456,10 @@
 <LM>w#w-ln94201-72-p2s1w51</LM>
 </w.rf>
 <form>PMEZ</form>
-<tag lemma="PMEZ_:B_;K_^(Pohár_mistrů_evropských_zemí)" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="PMEZ_:B_;K_^(Pohár_mistrů_evropských_zemí)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="PMEZ-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln94201-72-p2s1w52">
 <src.rf>manual</src.rf>
@@ -567,7 +573,10 @@
 <LM>w#w-ln94201-72-p2s2w13</LM>
 </w.rf>
 <form>UEFA</form>
-<tag lemma="UEFA-1_:B_;K_;w_^(Evr._fotbalová_federace)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="UEFA-1_:B_;K_;w_^(Evr._fotbalová_federace)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="UEFA-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln94201-72-p2s2w14">
 <src.rf>manual</src.rf>
@@ -663,7 +672,10 @@
 <LM>w#w-ln94201-72-p2s2w25</LM>
 </w.rf>
 <form>Cork</form>
-<tag lemma="Cork_;G" src="orig" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="Cork_;G" src="orig">NNIS1-----A----</AM>
+<AM lemma="Cork-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94201-72-p2s2w26">
 <src.rf>manual</src.rf>
@@ -685,6 +697,7 @@
 <AM lemma="cit" src="auto">NNIP4-----A----</AM>
 <AM lemma="cit" src="auto">NNIP5-----A----</AM>
 <AM lemma="cit" src="auto">NNIP7-----A----</AM>
+<AM lemma="City-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-ln94201-72-p2s2w27">
@@ -783,7 +796,10 @@
 <LM>w#w-ln94201-72-p2s3w7</LM>
 </w.rf>
 <form>PVP</form>
-<tag lemma="PVP-2_:B_;m_^(Pohár_výherců_pohárů)" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="PVP-2_:B_;m_^(Pohár_výherců_pohárů)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="PVP-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln94201-72-p2s3w8">
 <src.rf>manual</src.rf>
@@ -947,7 +963,7 @@
 <form>ovšem</form>
 <tag>
 <AM lemma="ovšem-1_^(avšak,_však;_odporovací_spojka)" src="orig">J^-------------</AM>
-<AM lemma="ovšem" src="auto" recommended="1">TT-------------</AM>
+<AM lemma="ovšem" src="auto" recommended="1" selected="1">TT-------------</AM>
 </tag>
 </m>
 <m id="m-ln94201-72-p3s1w17">
@@ -2058,7 +2074,10 @@
 <LM>w#w-ln94201-72-p3s8w4</LM>
 </w.rf>
 <form>lpěla</form>
-<tag lemma="lpět" src="auto" selected="1">VpQW---XR-AA---</tag>
+<tag>
+<AM lemma="lpět" src="auto">VpQW---XR-AA---</AM>
+<AM lemma="lpět_:T" src="manual" selected="1">VpQW---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-ln94201-72-p3s8w5">
 <src.rf>manual</src.rf>
@@ -2196,7 +2215,10 @@
 <LM>w#w-ln94201-72-p3s9w13</LM>
 </w.rf>
 <form>Vrabec</form>
-<tag lemma="vrabec" src="orig" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="vrabec" src="orig">NNMS1-----A----</AM>
+<AM lemma="Vrabec_;S" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94201-72-p3s9w14">
 <src.rf>manual</src.rf>

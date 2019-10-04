@@ -55,7 +55,10 @@
 <LM>w#w-mf920922-066-p2s2w2</LM>
 </w.rf>
 <form>WTA</form>
-<tag lemma="WTA-1_:B_;K_,t_^(Women's_Tennis_Association)" src="auto" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="WTA-1_:B_;K_,t_^(Women's_Tennis_Association)" src="auto">NNFXX-----A---8</AM>
+<AM lemma="WTA-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920922-066-p2s2w3">
 <src.rf>manual</src.rf>
@@ -183,7 +186,10 @@
 <LM>w#w-mf920922-066-p2s3w13</LM>
 </w.rf>
 <form>Navrátilová</form>
-<tag lemma="Navrátilová_;S_;w" src="orig" selected="1">NNFS1-----A----</tag>
+<tag>
+<AM lemma="Navrátilová_;S_;w" src="orig">NNFS1-----A----</AM>
+<AM lemma="Navrátilová_;S" src="manual" selected="1">NNFS1-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920922-066-p2s3w14">
 <src.rf>manual</src.rf>
@@ -215,7 +221,10 @@
 <LM>w#w-mf920922-066-p2s3w17</LM>
 </w.rf>
 <form>Sanchezová</form>
-<tag lemma="Sanchezová_;S_;w" src="orig" selected="1">NNFS1-----A----</tag>
+<tag>
+<AM lemma="Sanchezová_;S_;w" src="orig">NNFS1-----A----</AM>
+<AM lemma="Sanchezová_;S" src="manual" selected="1">NNFS1-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920922-066-p2s3w18">
 <src.rf>manual</src.rf>
@@ -279,7 +288,10 @@
 <LM>w#w-mf920922-066-p2s3w25</LM>
 </w.rf>
 <form>M</form>
-<tag lemma="M-0_:B_;Y" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="M-0_:B_;Y" src="orig">NNFXX-----A---8</AM>
+<AM lemma="M-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920922-066-p2s3w26">
 <src.rf>manual</src.rf>
@@ -295,7 +307,10 @@
 <LM>w#w-mf920922-066-p2s3w27</LM>
 </w.rf>
 <form>J</form>
-<tag lemma="J-0_:B_;Y" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="J-0_:B_;Y" src="orig">NNFXX-----A---8</AM>
+<AM lemma="J-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920922-066-p2s3w28">
 <src.rf>manual</src.rf>
@@ -417,7 +432,10 @@
 <LM>w#w-mf920922-066-p2s13w2</LM>
 </w.rf>
 <form>ATP</form>
-<tag lemma="ATP-1_:B_;K_;w_,t_^(Prof._sv._asociace_tenisových_hráčů)" src="auto" selected="1">NNNXX-----A---8</tag>
+<tag>
+<AM lemma="ATP-1_:B_;K_;w_,t_^(Prof._sv._asociace_tenisových_hráčů)" src="auto">NNNXX-----A---8</AM>
+<AM lemma="ATP-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920922-066-p2s13w3">
 <src.rf>manual</src.rf>
@@ -1085,7 +1103,10 @@
 <LM>w#w-mf920922-066-p3s2w6</LM>
 </w.rf>
 <form>ČSFR</form>
-<tag lemma="ČSFR-1_:B_;G_^(Čs._federativní_republika)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ČSFR-1_:B_;G_^(Čs._federativní_republika)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČSFR-1_:B_;G_^(Čs._federativní_republika)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920922-066-p3s2w7">
 <src.rf>manual</src.rf>
@@ -1138,6 +1159,8 @@
 <AM lemma="Stu_;Y" src="auto" recommended="1">NNMSX-----A----</AM>
 <AM lemma="sto-2`100" src="auto">NNNS3-----A----</AM>
 <AM lemma="sto-2`100" src="auto">NNNS6-----A----</AM>
+<AM lemma="STU_:B" src="manual">NNXXX-----A---8</AM>
+<AM lemma="STU-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920922-066-p3s2w13">
@@ -1346,7 +1369,10 @@
 <LM>w#w-mf920922-066-p3s2w38</LM>
 </w.rf>
 <form>LTC</form>
-<tag lemma="LTC-2_:B_^(letecké_taktické_cvičení)" src="auto" selected="1">NNNXX-----A---8</tag>
+<tag>
+<AM lemma="LTC-2_:B_^(letecké_taktické_cvičení)" src="auto">NNNXX-----A---8</AM>
+<AM lemma="LTC-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920922-066-p3s2w39">
 <src.rf>manual</src.rf>
@@ -1553,6 +1579,7 @@
 <tag>
 <AM lemma="ITF_:B_;K_,t" src="orig">NNFXX-----A---8</AM>
 <AM lemma="ITF_:B" src="auto" recommended="1">NNXXX-----A---8</AM>
+<AM lemma="ITF-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920922-066-p4s2w5">
@@ -1659,7 +1686,10 @@
 <LM>w#w-mf920922-066-p5s1w1</LM>
 </w.rf>
 <form>SANTO</form>
-<tag lemma="Santo_;G_,t" src="auto" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="Santo_;G_,t" src="auto">AAXXX----1A----</AM>
+<AM lemma="SANTO-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-mf920922-066-p5s1w2">
 <src.rf>manual</src.rf>
@@ -1667,7 +1697,10 @@
 <LM>w#w-mf920922-066-p5s1w2</LM>
 </w.rf>
 <form>DOMINGO</form>
-<tag lemma="Domingo_;G" src="auto" selected="1">NNNS1-----A----</tag>
+<tag>
+<AM lemma="Domingo_;G" src="auto">NNNS1-----A----</AM>
+<AM lemma="DOMINGO-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-mf920922-066-p5s1w3">
 <src.rf>manual</src.rf>
@@ -1704,6 +1737,7 @@
 <tag>
 <AM lemma="ITF_:B_;K_,t" src="orig">NNFXX-----A---8</AM>
 <AM lemma="ITF_:B" src="auto" recommended="1">NNXXX-----A---8</AM>
+<AM lemma="ITF-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920922-066-p5s2w4">

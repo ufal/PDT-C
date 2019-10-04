@@ -119,7 +119,10 @@
 <LM>w#w-cmpr9415-011-p3s1w7</LM>
 </w.rf>
 <form>Bitez</form>
-<tag lemma="Bitez_;G_;K" src="auto" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="Bitez_;G_;K" src="auto">NNIS1-----A----</AM>
+<AM lemma="Bitez-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 </s>
 <s id="m-cmpr9415-011-p4s1">
@@ -165,6 +168,7 @@
 <AM lemma="Bitez_;K" src="orig">AAXXX----1A----</AM>
 <AM lemma="Bitez_;G_;K" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Bitez_;G_;K" src="auto">NNIS4-----A----</AM>
+<AM lemma="Bitez-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-cmpr9415-011-p4s1w6">
@@ -173,7 +177,11 @@
 <LM>w#w-cmpr9415-011-p4s1w6</LM>
 </w.rf>
 <form>Han</form>
-<tag lemma="hana_^(pohana)" src="orig" selected="1">NNFP2-----A----</tag>
+<tag>
+<AM lemma="hana_^(pohana)" src="orig">NNFP2-----A----</AM>
+<AM lemma="Han_;K" src="manual">NNXXX-----A----</AM>
+<AM lemma="Han-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-cmpr9415-011-p4s1w7">
 <src.rf>manual</src.rf>
@@ -234,6 +242,7 @@
 <tag>
 <AM lemma="Kč" src="orig">NNFXX-----A----</AM>
 <AM lemma="Kč_:B" src="auto" recommended="1">NNFXX-----A---8</AM>
+<AM lemma="Kč_:B" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9415-011-p5s1w5">
@@ -607,6 +616,7 @@
 <AM lemma="Halikarnass_;G" src="orig">NNIS1-----A----</AM>
 <AM lemma="Halikarnássos_;G_,x" src="auto" recommended="1">NNIS1-----A---1</AM>
 <AM lemma="Halikarnássos_;G_,x" src="auto">NNIS4-----A---1</AM>
+<AM lemma="Halikarnassos_;G_,s_^(^DD**Halikarnássos)" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9415-011-p9s1w11">
@@ -806,7 +816,10 @@
 <LM>w#w-cmpr9415-011-p10s1w2</LM>
 </w.rf>
 <form>Bitez</form>
-<tag lemma="Bitez_;G_;K" src="auto" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="Bitez_;G_;K" src="auto">NNIS1-----A----</AM>
+<AM lemma="Bitez-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-cmpr9415-011-p10s1w3">
 <src.rf>manual</src.rf>
@@ -902,7 +915,10 @@
 <LM>w#w-cmpr9415-011-p10s1w14</LM>
 </w.rf>
 <form>km</form>
-<tag lemma="km-1`kilometr_:B" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="km-1`kilometr_:B" src="orig">NNIXX-----A---8</AM>
+<AM lemma="kilometr" src="manual" selected="1">NNIXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-cmpr9415-011-p10s1w15">
 <src.rf>manual</src.rf>
@@ -1100,7 +1116,10 @@
 <LM>w#w-cmpr9415-011-p10s4w6</LM>
 </w.rf>
 <form>kurs</form>
-<tag lemma="kurs" src="auto" selected="1">NNIS4-----A----</tag>
+<tag>
+<AM lemma="kurs" src="auto">NNIS4-----A----</AM>
+<AM lemma="kurs_,s_^(^DD**kurz)" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-cmpr9415-011-p10s4w7">
 <src.rf>manual</src.rf>
@@ -1175,6 +1194,7 @@
 <AM lemma="mimo-1_:B" src="auto">RR--4---------8</AM>
 <AM lemma="minuta_:B" src="auto">NNFXX-----A---8</AM>
 <AM lemma="město_:B" src="auto">NNNXX-----A---8</AM>
+<AM lemma="metr" src="manual" selected="1">NNIXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-cmpr9415-011-p11s1w8">
@@ -1626,7 +1646,11 @@
 <LM>w#w-cmpr9415-011-p13s1w7</LM>
 </w.rf>
 <form>vizum</form>
-<tag lemma="vízum_,x_^(cest._formalita)" src="orig" selected="1">NNNS4-----A----</tag>
+<tag>
+<AM lemma="vízum_,x_^(cest._formalita)" src="orig">NNNS4-----A----</AM>
+<AM lemma="vizum_,s_^(^DD**vízum)" src="manual">NNNS4-----A----</AM>
+<AM lemma="vizum_,i_^(^DS**vízum)_^(cest._formalita)" src="manual" selected="1">NNNS4-----A----</AM>
+</tag>
 </m>
 <m id="m-cmpr9415-011-p13s1w8">
 <src.rf>manual</src.rf>
@@ -1722,7 +1746,10 @@
 <LM>w#w-cmpr9415-011-p13s1w19</LM>
 </w.rf>
 <form>USD</form>
-<tag lemma="USD_:B_;b_^(U.S._dolar)" src="auto" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="USD_:B_;b_^(U.S._dolar)" src="auto">NNIXX-----A---8</AM>
+<AM lemma="USD_:B_^(U.S._dolar)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-cmpr9415-011-p13s1w20">
 <src.rf>manual</src.rf>
@@ -1746,7 +1773,10 @@
 <LM>w#w-cmpr9415-011-p13s1w22</LM>
 </w.rf>
 <form>DEM</form>
-<tag lemma="DEM_:B_;b_^(německá_marka)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="DEM_:B_;b_^(německá_marka)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="DEM-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-cmpr9415-011-p13s1w23">
 <src.rf>manual</src.rf>

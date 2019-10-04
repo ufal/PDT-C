@@ -24,7 +24,7 @@
 <AM lemma="slonice" src="auto">NNFP1-----A----</AM>
 <AM lemma="slonice" src="auto">NNFP4-----A----</AM>
 <AM lemma="slonice" src="auto">NNFP5-----A----</AM>
-<AM lemma="slonice" src="auto" recommended="1">NNFS1-----A----</AM>
+<AM lemma="slonice" src="auto" recommended="1" selected="1">NNFS1-----A----</AM>
 <AM lemma="slonice" src="auto">NNFS2-----A----</AM>
 <AM lemma="slonice" src="auto">NNFS5-----A----</AM>
 </tag>
@@ -174,7 +174,7 @@
 <AM lemma="slonice" src="auto">NNFP1-----A----</AM>
 <AM lemma="slonice" src="auto">NNFP4-----A----</AM>
 <AM lemma="slonice" src="auto">NNFP5-----A----</AM>
-<AM lemma="slonice" src="auto" recommended="1">NNFS1-----A----</AM>
+<AM lemma="slonice" src="auto" recommended="1" selected="1">NNFS1-----A----</AM>
 <AM lemma="slonice" src="auto">NNFS2-----A----</AM>
 <AM lemma="slonice" src="auto">NNFS5-----A----</AM>
 </tag>
@@ -371,7 +371,7 @@
 <form>zoo</form>
 <tag>
 <AM lemma="ZOO_:B" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ZOO_:B" src="auto">NNFXX-----A----</AM>
+<AM lemma="ZOO_:B" src="auto" selected="1">NNFXX-----A----</AM>
 <AM lemma="ZOO_:B" src="auto" recommended="1">NNNXX-----A----</AM>
 </tag>
 </m>
@@ -513,7 +513,10 @@
 <LM>w#w-lnd92257-053-p3s4w2</LM>
 </w.rf>
 <form>Rosa</form>
-<tag lemma="rosa" src="orig" selected="1">NNFS1-----A----</tag>
+<tag>
+<AM lemma="rosa" src="orig">NNFS1-----A----</AM>
+<AM lemma="Rosa_;Y" src="manual" selected="1">NNFS1-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92257-053-p3s4w3">
 <src.rf>manual</src.rf>
@@ -524,6 +527,7 @@
 <tag>
 <AM lemma="María_;Y" src="orig">NNFS1-----A----</AM>
 <AM lemma="María_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="María-2_;Y" src="manual" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92257-053-p3s4w4">
@@ -582,7 +586,7 @@
 <form>slonici</form>
 <tag>
 <AM lemma="slon" src="orig">NNFS3-----A----</AM>
-<AM lemma="slonice" src="auto" recommended="1">NNFS3-----A----</AM>
+<AM lemma="slonice" src="auto" recommended="1" selected="1">NNFS3-----A----</AM>
 <AM lemma="slonice" src="auto">NNFS4-----A----</AM>
 <AM lemma="slonice" src="auto">NNFS6-----A----</AM>
 </tag>

@@ -27,7 +27,10 @@
 <LM>w#w-lnd92256-083-p1s1w2</LM>
 </w.rf>
 <form>LN</form>
-<tag lemma="LN-2_:B_;K_^(Lidové_noviny,_nakl.)" src="orig" selected="1">NNFPX-----A---8</tag>
+<tag>
+<AM lemma="LN-2_:B_;K_^(Lidové_noviny,_nakl.)" src="orig">NNFPX-----A---8</AM>
+<AM lemma="LN-1_:B_;K_;R_^(Lidové_noviny)" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 </s>
 <s id="m-lnd92256-083-p2s1">
@@ -76,7 +79,7 @@
 <AM lemma="osmý" src="auto">CrNP1---------6</AM>
 <AM lemma="osmý" src="auto">CrNP4---------6</AM>
 <AM lemma="osmý" src="auto">CrNP5---------6</AM>
-<AM lemma="osmý" src="auto" recommended="1">CrNS1----------</AM>
+<AM lemma="osmý" src="auto" recommended="1" selected="1">CrNS1----------</AM>
 <AM lemma="osmý" src="auto">CrNS4----------</AM>
 <AM lemma="osmý" src="auto">CrNS5----------</AM>
 </tag>
@@ -631,7 +634,10 @@
 <LM>w#w-lnd92256-083-p3s1w12</LM>
 </w.rf>
 <form>QUEEN</form>
-<tag lemma="Queen_;S" src="auto" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Queen_;S" src="auto">NNMS1-----A----</AM>
+<AM lemma="QUEEN-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-lnd92256-083-p3s1w13">
 <src.rf>manual</src.rf>
@@ -769,7 +775,10 @@
 <LM>w#w-lnd92256-083-p3s2w9</LM>
 </w.rf>
 <form>P</form>
-<tag lemma="P-0_:B_;Y" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="P-0_:B_;Y" src="orig">NNFXX-----A---8</AM>
+<AM lemma="P-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd92256-083-p3s2w10">
 <src.rf>manual</src.rf>
@@ -785,7 +794,10 @@
 <LM>w#w-lnd92256-083-p3s2w11</LM>
 </w.rf>
 <form>D</form>
-<tag lemma="D-0_:B_;Y" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="D-0_:B_;Y" src="orig">NNFXX-----A---8</AM>
+<AM lemma="D-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd92256-083-p3s2w12">
 <src.rf>manual</src.rf>
@@ -817,7 +829,10 @@
 <LM>w#w-lnd92256-083-p3s2w15</LM>
 </w.rf>
 <form>E</form>
-<tag lemma="E-0_:B_;Y" src="orig" selected="1">NNMXX-----A---8</tag>
+<tag>
+<AM lemma="E-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
+<AM lemma="E-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd92256-083-p3s2w16">
 <src.rf>manual</src.rf>
@@ -1077,7 +1092,10 @@
 <LM>w#w-lnd92256-083-p3s4w14</LM>
 </w.rf>
 <form>QUEEN</form>
-<tag lemma="Queen_;S" src="auto" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Queen_;S" src="auto">NNMS1-----A----</AM>
+<AM lemma="QUEEN-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-lnd92256-083-p3s4w15">
 <src.rf>manual</src.rf>
@@ -1411,7 +1429,7 @@
 </w.rf>
 <form>l</form>
 <tag>
-<AM lemma="linka_:B" src="orig">NNFXX-----A---1</AM>
+<AM lemma="linka_:B" src="orig" selected="1">NNFXX-----A---1</AM>
 <AM lemma="l-3_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
 <AM lemma="l-4_^(graf._oddělovač)" src="auto">Z:-------------</AM>
 <AM lemma="l-8_:B_^(ost._zkratka)" src="auto">XX------------8</AM>

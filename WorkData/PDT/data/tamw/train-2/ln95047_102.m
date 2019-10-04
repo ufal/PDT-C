@@ -505,7 +505,10 @@
 <LM>w#w-ln95047-102-p3s1w22</LM>
 </w.rf>
 <form>UK</form>
-<tag lemma="UK-1_:B_;K_^(Univerzita_Karlova_Praha)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="UK-1_:B_;K_^(Univerzita_Karlova_Praha)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="UK-1_:B_;K_^(Univerzita_Karlova_Praha)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95047-102-p3s1w23">
 <src.rf>manual</src.rf>
@@ -577,7 +580,10 @@
 <LM>w#w-ln95047-102-p3s1w31</LM>
 </w.rf>
 <form>Byung</form>
-<tag lemma="Byung_;S" src="auto" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Byung_;S" src="auto">NNMS1-----A----</AM>
+<AM lemma="Byung_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95047-102-p3s1w32">
 <src.rf>manual</src.rf>
@@ -585,7 +591,10 @@
 <LM>w#w-ln95047-102-p3s1w32</LM>
 </w.rf>
 <form>Suk</form>
-<tag lemma="Suk_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Suk_;S" src="orig">NNMS1-----A----</AM>
+<AM lemma="Suk_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95047-102-p3s1w33">
 <src.rf>manual</src.rf>
@@ -627,7 +636,10 @@
 <LM>w#w-ln95047-102-p4s1w3</LM>
 </w.rf>
 <form>komunismu</form>
-<tag lemma="komunismus" src="orig" selected="1">NNIS2-----A----</tag>
+<tag>
+<AM lemma="komunismus" src="orig">NNIS2-----A----</AM>
+<AM lemma="komunismus_,s_^(^DD**komunizmus)" src="manual" selected="1">NNIS2-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95047-102-p4s1w4">
 <src.rf>manual</src.rf>
@@ -861,7 +873,10 @@
 <LM>w#w-ln95047-102-p4s2w6</LM>
 </w.rf>
 <form>mj</form>
-<tag lemma="mj-1_:B_^(mimo_jiné)" src="orig" selected="1">Db------------8</tag>
+<tag>
+<AM lemma="mj-1_:B_^(mimo_jiné)" src="orig">Db------------8</AM>
+<AM lemma="mj-1_:B_^(mimo_jiné)" src="manual" selected="1">Db-------------</AM>
+</tag>
 </m>
 <m id="m-ln95047-102-p4s2w7">
 <src.rf>manual</src.rf>
@@ -949,7 +964,10 @@
 <LM>w#w-ln95047-102-p4s2w17</LM>
 </w.rf>
 <form>KAN</form>
-<tag lemma="KAN_:B_;K_;p_^(Klub_angažovaných_nestraníků)" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="KAN_:B_;K_;p_^(Klub_angažovaných_nestraníků)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="KAN-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln95047-102-p4s2w18">
 <src.rf>manual</src.rf>

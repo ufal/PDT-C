@@ -215,7 +215,10 @@
 <LM>w#w-cmpr9415-019-p4s1w21</LM>
 </w.rf>
 <form>RM</form>
-<tag lemma="RM_:B_;K_;b_^(RM-systém)" src="auto" selected="1">AAXXX----1A---8</tag>
+<tag>
+<AM lemma="RM_:B_;K_;b_^(RM-systém)" src="auto">AAXXX----1A---8</AM>
+<AM lemma="RM-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-cmpr9415-019-p4s1w22">
 <src.rf>manual</src.rf>
@@ -571,7 +574,10 @@
 <LM>w#w-cmpr9415-019-p4s3w23</LM>
 </w.rf>
 <form>milionové</form>
-<tag lemma="miliónový" src="orig" selected="1">AAFP1----1A----</tag>
+<tag>
+<AM lemma="miliónový" src="orig">AAFP1----1A----</AM>
+<AM lemma="milionový_,s_^(^DD**miliónový)" src="manual" selected="1">AAFP1----1A----</AM>
+</tag>
 </m>
 <m id="m-cmpr9415-019-p4s3w24">
 <src.rf>manual</src.rf>
@@ -885,7 +891,10 @@
 <LM>w#w-cmpr9415-019-p4s4w30</LM>
 </w.rf>
 <form>milionů</form>
-<tag lemma="milión`1000000" src="orig" selected="1">NNIP2-----A----</tag>
+<tag>
+<AM lemma="milión`1000000" src="orig">NNIP2-----A----</AM>
+<AM lemma="milion_,s_^(^DD**milión)" src="manual" selected="1">NNIP2-----A----</AM>
+</tag>
 </m>
 <m id="m-cmpr9415-019-p4s4w31">
 <src.rf>manual</src.rf>

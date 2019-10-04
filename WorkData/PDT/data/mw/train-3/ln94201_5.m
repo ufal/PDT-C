@@ -133,7 +133,10 @@
 <LM>w#w-ln94201-5-p2s1w9</LM>
 </w.rf>
 <form>třistapadesátimilionového</form>
-<tag lemma="třistapadesátimilionový" src="orig" selected="1">AAIS2----1A----</tag>
+<tag>
+<AM lemma="třistapadesátimilionový" src="orig">AAIS2----1A----</AM>
+<AM lemma="třistapadesátimilionový_,s_^(^DD**třistapadesátimiliónový)" src="manual" selected="1">AAIS2----1A----</AM>
+</tag>
 </m>
 <m id="m-ln94201-5-p2s1w10">
 <src.rf>manual</src.rf>
@@ -213,7 +216,10 @@
 <LM>w#w-ln94201-5-p2s1w19</LM>
 </w.rf>
 <form>KB</form>
-<tag lemma="KB-1_:B_;K_^(Komerční_banka)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="KB-1_:B_;K_^(Komerční_banka)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="KB-1_:B_;K_^(Komerční_banka)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94201-5-p2s1w20">
 <src.rf>manual</src.rf>
@@ -466,7 +472,10 @@
 <LM>w#w-ln94201-5-p2s3w5</LM>
 </w.rf>
 <form>LN</form>
-<tag lemma="LN-1_:B_;R_^(Lidové_noviny,_deník)" src="orig" selected="1">NNFPX-----A---8</tag>
+<tag>
+<AM lemma="LN-1_:B_;R_^(Lidové_noviny,_deník)" src="orig">NNFPX-----A---8</AM>
+<AM lemma="LN-1_:B_;K_;R_^(Lidové_noviny,_deník)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94201-5-p2s3w6">
 <src.rf>manual</src.rf>
@@ -500,7 +509,10 @@
 <LM>w#w-ln94201-5-p2s4w3</LM>
 </w.rf>
 <form>KB</form>
-<tag lemma="KB-1_:B_;K_^(Komerční_banka)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="KB-1_:B_;K_^(Komerční_banka)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="KB-1_:B_;K_^(Komerční_banka)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94201-5-p2s4w4">
 <src.rf>manual</src.rf>
@@ -516,7 +528,10 @@
 <LM>w#w-ln94201-5-p2s4w5</LM>
 </w.rf>
 <form>Pražák</form>
-<tag lemma="Pražák_;E" src="auto" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Pražák_;E" src="auto">NNMS1-----A----</AM>
+<AM lemma="Pražák_;E_;S" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94201-5-p2s4w6">
 <src.rf>manual</src.rf>
@@ -612,7 +627,10 @@
 <LM>w#w-ln94201-5-p2s4w17</LM>
 </w.rf>
 <form>LN</form>
-<tag lemma="LN-1_:B_;R_^(Lidové_noviny,_deník)" src="orig" selected="1">NNFPX-----A---8</tag>
+<tag>
+<AM lemma="LN-1_:B_;R_^(Lidové_noviny,_deník)" src="orig">NNFPX-----A---8</AM>
+<AM lemma="LN-1_:B_;K_;R_^(Lidové_noviny,_deník)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94201-5-p2s4w18">
 <src.rf>manual</src.rf>
@@ -896,7 +914,10 @@
 <LM>w#w-ln94201-5-p2s6w13</LM>
 </w.rf>
 <form>KB</form>
-<tag lemma="KB-1_:B_;K_^(Komerční_banka)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="KB-1_:B_;K_^(Komerční_banka)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="KB-1_:B_;K_^(Komerční_banka)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94201-5-p2s6w14">
 <src.rf>manual</src.rf>
@@ -970,7 +991,10 @@
 <LM>w#w-ln94201-5-p3s1w1</LM>
 </w.rf>
 <form>Více</form>
-<tag lemma="hodně-2" src="auto" selected="1">Dg-------2A----</tag>
+<tag>
+<AM lemma="hodně-2" src="auto">Dg-------2A----</AM>
+<AM lemma="hodně-3" src="manual" selected="1">Dg-------2A----</AM>
+</tag>
 </m>
 <m id="m-ln94201-5-p3s1w2">
 <src.rf>manual</src.rf>

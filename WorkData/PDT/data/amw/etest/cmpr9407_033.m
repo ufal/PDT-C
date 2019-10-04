@@ -2594,7 +2594,10 @@
 <LM>w#w-cmpr9407-033-p7s2w26</LM>
 </w.rf>
 <form>DKP</form>
-<tag lemma="DKP_:B" src="auto" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="DKP_:B" src="auto">NNXXX-----A---8</AM>
+<AM lemma="DKP-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-cmpr9407-033-p7s2w27">
 <src.rf>manual</src.rf>
@@ -4050,7 +4053,7 @@
 <tag>
 <AM lemma="tedy" src="orig">Db-------------</AM>
 <AM lemma="tedy-1" src="auto">TT-------------</AM>
-<AM lemma="tedy-2" src="auto" recommended="1">J^-------------</AM>
+<AM lemma="tedy-2" src="auto" recommended="1" selected="1">J^-------------</AM>
 </tag>
 </m>
 <m id="m-cmpr9407-033-p11s1w3">

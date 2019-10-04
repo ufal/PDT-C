@@ -975,7 +975,7 @@
 </w.rf>
 <form>Kadera</form>
 <tag>
-<AM lemma="Kadera_;S" src="orig">NNMS1-----A----</AM>
+<AM lemma="Kadera_;S" src="orig" selected="1">NNMS1-----A----</AM>
 <AM lemma="Kader_;S" src="auto">NNMS2-----A----</AM>
 <AM lemma="Kader_;S" src="auto" recommended="1">NNMS4-----A----</AM>
 </tag>
@@ -1122,7 +1122,10 @@
 <LM>w#w-lnd92252-079-p6s9w1</LM>
 </w.rf>
 <form>Vyloučení</form>
-<tag lemma="vyloučení_^(*3it)" src="orig" selected="1">NNNS1-----A----</tag>
+<tag>
+<AM lemma="vyloučení_^(*3it)" src="orig">NNNS1-----A----</AM>
+<AM lemma="vyloučení_^(*3it)" src="manual" selected="1">NNNP1-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92252-079-p6s9w2">
 <src.rf>manual</src.rf>
@@ -1162,7 +1165,10 @@
 <LM>w#w-lnd92252-079-p6s9w6</LM>
 </w.rf>
 <form>využití</form>
-<tag lemma="využití_^(*3ít)" src="orig" selected="1">NNNS1-----A----</tag>
+<tag>
+<AM lemma="využití_^(*3ít)" src="orig">NNNS1-----A----</AM>
+<AM lemma="využití_^(*3ít)" src="manual" selected="1">NNNP1-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92252-079-p6s9w7">
 <src.rf>manual</src.rf>
@@ -2065,7 +2071,10 @@
 <LM>w#w-lnd92252-079-p12s3w1</LM>
 </w.rf>
 <form>R</form>
-<tag lemma="R-0_:B_;Y" src="orig" selected="1">NNMXX-----A---8</tag>
+<tag>
+<AM lemma="R-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
+<AM lemma="R-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd92252-079-p12s3w2">
 <src.rf>manual</src.rf>
@@ -2225,7 +2234,10 @@
 <LM>w#w-lnd92252-079-p12s7w1</LM>
 </w.rf>
 <form>Vyloučení</form>
-<tag lemma="vyloučení_^(*3it)" src="orig" selected="1">NNNS1-----A----</tag>
+<tag>
+<AM lemma="vyloučení_^(*3it)" src="orig">NNNS1-----A----</AM>
+<AM lemma="vyloučení_^(*3it)" src="manual" selected="1">NNNP1-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92252-079-p12s7w2">
 <src.rf>manual</src.rf>
@@ -2289,7 +2301,10 @@
 <LM>w#w-lnd92252-079-p12s7w9</LM>
 </w.rf>
 <form>Č</form>
-<tag lemma="český_:B" src="orig" selected="1">AAXXX----1A---8</tag>
+<tag>
+<AM lemma="český_:B" src="orig">AAXXX----1A---8</AM>
+<AM lemma="Č-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd92252-079-p12s7w10">
 <src.rf>manual</src.rf>
@@ -2318,6 +2333,7 @@
 <AM lemma="B-9_:B_;S" src="auto">NNXXX-----A---8</AM>
 <AM lemma="b-3_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
 <AM lemma="b-8_:B_^(ost._zkratka)" src="auto">XX------------8</AM>
+<AM lemma="B-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-lnd92252-079-p12s7w12">

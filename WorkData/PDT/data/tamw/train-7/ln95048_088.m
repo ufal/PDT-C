@@ -183,7 +183,10 @@
 <LM>w#w-ln95048-088-p2s1Bw16</LM>
 </w.rf>
 <form>Atletico</form>
-<tag lemma="Atletico_;K" src="orig" selected="1">NNNS1-----A----</tag>
+<tag>
+<AM lemma="Atletico_;K" src="orig">NNNS1-----A----</AM>
+<AM lemma="Atletico-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln95048-088-p2s1Bw17">
 <src.rf>manual</src.rf>
@@ -191,7 +194,10 @@
 <LM>w#w-ln95048-088-p2s1Bw17</LM>
 </w.rf>
 <form>Madrid</form>
-<tag lemma="Madrid_;G" src="orig" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="Madrid_;G" src="orig">NNIS1-----A----</AM>
+<AM lemma="Madrid-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln95048-088-p2s1Bw18">
 <src.rf>manual</src.rf>
@@ -321,7 +327,10 @@
 <LM>w#w-ln95048-088-p2s2w15</LM>
 </w.rf>
 <form>d</form>
-<tag lemma="d-4_^(př._d'Artagnan,_stažený_tvar_fr._předl.)" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="d-4_^(př._d'Artagnan,_stažený_tvar_fr._předl.)" src="orig">AAXXX----1A----</AM>
+<AM lemma="d-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln95048-088-p2s2w16">
 <src.rf>manual</src.rf>
@@ -337,7 +346,10 @@
 <LM>w#w-ln95048-088-p2s2w17</LM>
 </w.rf>
 <form>Alessandra</form>
-<tag lemma="Alessandro_;Y_,t" src="auto" selected="1">NNMS4-----A----</tag>
+<tag>
+<AM lemma="Alessandro_;Y_,t" src="auto">NNMS4-----A----</AM>
+<AM lemma="Alessandro_;S_;Y" src="manual" selected="1">NNMS4-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95048-088-p2s2w18">
 <src.rf>manual</src.rf>

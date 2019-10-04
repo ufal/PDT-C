@@ -135,7 +135,10 @@
 <LM>w#w-mf920922-039-p2s2w11</LM>
 </w.rf>
 <form>ČZPI</form>
-<tag lemma="ČZPI_:B_;K" src="auto" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="ČZPI_:B_;K" src="auto">NNXXX-----A---8</AM>
+<AM lemma="ČZPI-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-mf920922-039-p2s2w12">
 <src.rf>manual</src.rf>

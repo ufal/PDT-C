@@ -555,7 +555,10 @@
 <LM>w#w-cmpr9413-028-p6s1w4</LM>
 </w.rf>
 <form>L</form>
-<tag lemma="L-10_^(př._L'Aqua,_stažený_tvar_fr._členu)" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="L-10_^(př._L'Aqua,_stažený_tvar_fr._členu)" src="orig">AAXXX----1A----</AM>
+<AM lemma="L-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-cmpr9413-028-p6s1w5">
 <src.rf>manual</src.rf>
@@ -572,7 +575,10 @@
 <LM>w#w-cmpr9413-028-p6s1w6</LM>
 </w.rf>
 <form>Expansion</form>
-<tag lemma="Expansion_;R_,t" src="orig" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="Expansion_;R_,t" src="orig">NNIS1-----A----</AM>
+<AM lemma="Expansion-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-cmpr9413-028-p6s1w7">
 <src.rf>manual</src.rf>
@@ -859,6 +865,7 @@
 <tag>
 <AM lemma="TÚ_:B" src="orig">NNXXX-----A---8</AM>
 <AM lemma="tú" src="auto" recommended="1">II-------------</AM>
+<AM lemma="TÚ-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 </s>

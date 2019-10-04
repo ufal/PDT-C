@@ -135,7 +135,10 @@
 <LM>w#w-ln94211-36-p2s1Bw5</LM>
 </w.rf>
 <form>ČR</form>
-<tag lemma="ČR-1_:B_;G_^(Česká_republika)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94211-36-p2s1Bw6">
 <src.rf>manual</src.rf>
@@ -863,7 +866,10 @@
 <LM>w#w-ln94211-36-p3s3w14</LM>
 </w.rf>
 <form>New</form>
-<tag lemma="New-1_;G_,t_^(součást_míst._jmen)" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="New-1_;G_,t_^(součást_míst._jmen)" src="orig">AAXXX----1A----</AM>
+<AM lemma="New-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94211-36-p3s3w15">
 <src.rf>manual</src.rf>
@@ -939,7 +945,7 @@
 <form>Djakarta</form>
 <tag>
 <AM lemma="Jakarta_;G" src="orig">NNFS1-----A----</AM>
-<AM lemma="Djakarta_;G" src="auto" recommended="1">NNFS1-----A----</AM>
+<AM lemma="Djakarta_;G" src="auto" recommended="1" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94211-36-p3s4w6">
@@ -1264,7 +1270,10 @@
 <LM>w#w-ln94211-36-p4s2w10</LM>
 </w.rf>
 <form>CD</form>
-<tag lemma="CD-2_:B_;b_,t_^(Cash_Deposit)" src="auto" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="CD-2_:B_;b_,t_^(Cash_Deposit)" src="auto">NNIXX-----A---8</AM>
+<AM lemma="CD-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94211-36-p4s2w11">
 <src.rf>manual</src.rf>
@@ -1712,7 +1721,10 @@
 <LM>w#w-ln94211-36-p5s2w9</LM>
 </w.rf>
 <form>milionů</form>
-<tag lemma="milión`1000000" src="orig" selected="1">NNIP2-----A----</tag>
+<tag>
+<AM lemma="milión`1000000" src="orig">NNIP2-----A----</AM>
+<AM lemma="milion`1000000_,s_^(^DD**milión)" src="manual" selected="1">NNIP2-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94211-36-p5s2w10">
 <src.rf>manual</src.rf>

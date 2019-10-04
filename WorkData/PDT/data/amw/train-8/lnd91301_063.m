@@ -657,7 +657,10 @@
 <LM>w#w-lnd91301-063-p1s4w2</LM>
 </w.rf>
 <form>říci</form>
-<tag lemma="říci" src="auto" selected="1">Vf--------A---1</tag>
+<tag>
+<AM lemma="říci" src="auto">Vf--------A---1</AM>
+<AM lemma="říci_:W" src="manual" selected="1">Vf--------A---1</AM>
+</tag>
 </m>
 <m id="m-lnd91301-063-p1s4w3">
 <src.rf>manual</src.rf>

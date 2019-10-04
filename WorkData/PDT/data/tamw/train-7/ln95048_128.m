@@ -75,7 +75,10 @@
 <LM>w#w-ln95048-128-p1s1w8</LM>
 </w.rf>
 <form>strany</form>
-<tag lemma="strana-2_^(politická)" src="orig" selected="1">NNFS2-----A----</tag>
+<tag>
+<AM lemma="strana-2_^(politická)" src="orig">NNFS2-----A----</AM>
+<AM lemma="strana" src="manual" selected="1">NNFS2-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95048-128-p1s1w9">
 <src.rf>manual</src.rf>
@@ -301,7 +304,10 @@
 <LM>w#w-ln95048-128-p1s2w1</LM>
 </w.rf>
 <form>Stalo</form>
-<tag lemma="stát-2_^(něco_se_přihodilo)" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag>
+<AM lemma="stát-2_^(něco_se_přihodilo)" src="orig">VpNS---XR-AA---</AM>
+<AM lemma="stát-2_^(stanu_staneš)" src="manual" selected="1">VpNS---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-ln95048-128-p1s2w2">
 <src.rf>manual</src.rf>
@@ -386,6 +392,7 @@
 <AM lemma="Duc_;S" src="auto" recommended="1">NNMSX-----A----</AM>
 <AM lemma="duc" src="auto">II-------------</AM>
 <AM lemma="ducnout_:W" src="auto">VpYS---XR-AA--6</AM>
+<AM lemma="Duc_;Y" src="manual" selected="1">NNMXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95048-128-p1s2w12">

@@ -619,7 +619,10 @@
 <LM>w#w-ln95043-103-p3s2w8</LM>
 </w.rf>
 <form>ABF</form>
-<tag lemma="ABF_:B_;K" src="auto" selected="1">NNFSX-----A---8</tag>
+<tag>
+<AM lemma="ABF_:B_;K" src="auto">NNFSX-----A---8</AM>
+<AM lemma="ABF-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln95043-103-p3s2w9">
 <src.rf>manual</src.rf>

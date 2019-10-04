@@ -173,7 +173,10 @@
 <LM>w#w-lnd92258-110-p2s1w15</LM>
 </w.rf>
 <form>hod</form>
-<tag lemma="hodina_:B" src="auto" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="hodina_:B" src="auto">NNFXX-----A---8</AM>
+<AM lemma="hodina" src="manual" selected="1">NNFXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd92258-110-p2s1w16">
 <src.rf>manual</src.rf>
@@ -237,7 +240,10 @@
 <LM>w#w-lnd92258-110-p2s1w23</LM>
 </w.rf>
 <form>nám</form>
-<tag lemma="náměstí_:B" src="orig" selected="1">NNNXX-----A---8</tag>
+<tag>
+<AM lemma="náměstí_:B" src="orig">NNNXX-----A---8</AM>
+<AM lemma="náměstí" src="manual" selected="1">NNNXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd92258-110-p2s1w24">
 <src.rf>manual</src.rf>
@@ -311,7 +317,10 @@
 <LM>w#w-lnd92258-110-p3s1w3</LM>
 </w.rf>
 <form>Alfreda</form>
-<tag lemma="Alfréd_;Y" src="orig" selected="1">NNMS2-----A----</tag>
+<tag>
+<AM lemma="Alfréd_;Y" src="orig">NNMS2-----A----</AM>
+<AM lemma="Alfred_;Y_,s_^(^DD**Alfréd)" src="manual" selected="1">NNMS2-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92258-110-p3s1w4">
 <src.rf>manual</src.rf>
@@ -440,7 +449,10 @@
 <LM>w#w-lnd92258-110-p3s1w19</LM>
 </w.rf>
 <form>nám</form>
-<tag lemma="náměstí_:B" src="orig" selected="1">NNNXX-----A---8</tag>
+<tag>
+<AM lemma="náměstí_:B" src="orig">NNNXX-----A---8</AM>
+<AM lemma="náměstí" src="manual" selected="1">NNNXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd92258-110-p3s1w20">
 <src.rf>manual</src.rf>
@@ -546,7 +558,10 @@
 <LM>w#w-lnd92258-110-p4s1w9</LM>
 </w.rf>
 <form>J</form>
-<tag lemma="J-0_:B_;Y" src="orig" selected="1">NNMXX-----A---8</tag>
+<tag>
+<AM lemma="J-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
+<AM lemma="J-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd92258-110-p4s1w10">
 <src.rf>manual</src.rf>
@@ -733,7 +748,10 @@
 <LM>w#w-lnd92258-110-p5s1w11</LM>
 </w.rf>
 <form>prof</form>
-<tag lemma="profesor_:B" src="orig" selected="1">NNMXX-----A---8</tag>
+<tag>
+<AM lemma="profesor_:B" src="orig">NNMXX-----A---8</AM>
+<AM lemma="prof_^(profesor)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92258-110-p5s1w12">
 <src.rf>manual</src.rf>
@@ -853,7 +871,10 @@
 <LM>w#w-lnd92258-110-p5s1w26</LM>
 </w.rf>
 <form>B</form>
-<tag lemma="B-0_:B_;Y" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="B-0_:B_;Y" src="orig">NNFXX-----A---8</AM>
+<AM lemma="B-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd92258-110-p5s1w27">
 <src.rf>manual</src.rf>
@@ -933,7 +954,10 @@
 <LM>w#w-lnd92258-110-p5s1w36</LM>
 </w.rf>
 <form>hod</form>
-<tag lemma="hodina_:B" src="auto" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="hodina_:B" src="auto">NNFXX-----A---8</AM>
+<AM lemma="hodina" src="manual" selected="1">NNFXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd92258-110-p5s1w37">
 <src.rf>manual</src.rf>
@@ -1291,7 +1315,10 @@
 <LM>w#w-lnd92258-110-p7s1w3</LM>
 </w.rf>
 <form>R</form>
-<tag lemma="R-0_:B_;Y" src="orig" selected="1">NNMXX-----A---8</tag>
+<tag>
+<AM lemma="R-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
+<AM lemma="R-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd92258-110-p7s1w4">
 <src.rf>manual</src.rf>
@@ -1420,7 +1447,10 @@
 <LM>w#w-lnd92258-110-p7s1w19</LM>
 </w.rf>
 <form>Pragensis</form>
-<tag lemma="Pragensis_,t" src="auto" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="Pragensis_,t" src="auto">AAXXX----1A----</AM>
+<AM lemma="Pragensis-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-lnd92258-110-p7s1w20">
 <src.rf>manual</src.rf>
@@ -1510,7 +1540,10 @@
 <LM>w#w-lnd92258-110-p8s1w3</LM>
 </w.rf>
 <form>Gerta</form>
-<tag lemma="Gert_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag>
+<AM lemma="Gert_;S" src="orig">NNMS2-----A----</AM>
+<AM lemma="Gert_;S_;Y" src="manual" selected="1">NNMS2-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92258-110-p8s1w4">
 <src.rf>manual</src.rf>
@@ -1606,7 +1639,10 @@
 <LM>w#w-lnd92258-110-p8s1w15</LM>
 </w.rf>
 <form>UK</form>
-<tag lemma="UK-1_:B_;K_^(Univerzita_Karlova_Praha)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="UK-1_:B_;K_^(Univerzita_Karlova_Praha)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="UK-1_:B_;K_^(Univerzita_Karlova_Praha)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92258-110-p8s1w16">
 <src.rf>manual</src.rf>
@@ -1622,7 +1658,10 @@
 <LM>w#w-lnd92258-110-p8s1w17</LM>
 </w.rf>
 <form>nám</form>
-<tag lemma="náměstí_:B" src="orig" selected="1">NNNXX-----A---8</tag>
+<tag>
+<AM lemma="náměstí_:B" src="orig">NNNXX-----A---8</AM>
+<AM lemma="náměstí" src="manual" selected="1">NNNXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd92258-110-p8s1w18">
 <src.rf>manual</src.rf>
@@ -1638,7 +1677,10 @@
 <LM>w#w-lnd92258-110-p8s1w19</LM>
 </w.rf>
 <form>J</form>
-<tag lemma="J-0_:B_;Y" src="orig" selected="1">NNMXX-----A---8</tag>
+<tag>
+<AM lemma="J-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
+<AM lemma="J-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd92258-110-p8s1w20">
 <src.rf>manual</src.rf>
@@ -1710,7 +1752,10 @@
 <LM>w#w-lnd92258-110-p8s1w28</LM>
 </w.rf>
 <form>č</form>
-<tag lemma="číslo_:B" src="orig" selected="1">NNNXX-----A---8</tag>
+<tag>
+<AM lemma="číslo_:B" src="orig">NNNXX-----A---8</AM>
+<AM lemma="číslo" src="manual" selected="1">NNNXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd92258-110-p8s1w29">
 <src.rf>manual</src.rf>
@@ -1758,7 +1803,10 @@
 <LM>w#w-lnd92258-110-p8s1w34</LM>
 </w.rf>
 <form>hod</form>
-<tag lemma="hodina_:B" src="auto" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="hodina_:B" src="auto">NNFXX-----A---8</AM>
+<AM lemma="hodina" src="manual" selected="1">NNFXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd92258-110-p8s1w35">
 <src.rf>manual</src.rf>
@@ -1888,7 +1936,10 @@
 <LM>w#w-lnd92258-110-p9s1w13</LM>
 </w.rf>
 <form>hod</form>
-<tag lemma="hodina_:B" src="auto" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="hodina_:B" src="auto">NNFXX-----A---8</AM>
+<AM lemma="hodina" src="manual" selected="1">NNFXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd92258-110-p9s1w14">
 <src.rf>manual</src.rf>

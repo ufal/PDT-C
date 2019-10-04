@@ -69,7 +69,10 @@
 <LM>w#w-lnd94103-075-p1s2w3</LM>
 </w.rf>
 <form>ol</form>
-<tag lemma="ol-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="ol-99_:B_;S" src="orig">NNXXX-----A---8</AM>
+<AM lemma="ol-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd94103-075-p1s2w4">
 <src.rf>manual</src.rf>
@@ -659,7 +662,10 @@
 <LM>w#w-lnd94103-075-p1s7w9</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-2" src="auto" selected="1">Dg-------2A----</tag>
+<tag>
+<AM lemma="hodně-2" src="auto">Dg-------2A----</AM>
+<AM lemma="více_^(více_+_2._p.,_více_peněz)" src="manual" selected="1">Ca--7----------</AM>
+</tag>
 </m>
 <m id="m-lnd94103-075-p1s7w10">
 <src.rf>manual</src.rf>
@@ -750,6 +756,7 @@
 <tag>
 <AM lemma="Kč" src="orig">NNFXX-----A----</AM>
 <AM lemma="Kč_:B" src="auto" recommended="1">NNFXX-----A---8</AM>
+<AM lemma="Kč_:B" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94103-075-p1s7w21">
@@ -833,6 +840,7 @@
 <tag>
 <AM lemma="Kč" src="orig">NNFXX-----A----</AM>
 <AM lemma="Kč_:B" src="auto" recommended="1">NNFXX-----A---8</AM>
+<AM lemma="Kč_:B" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94103-075-p1s7w31">

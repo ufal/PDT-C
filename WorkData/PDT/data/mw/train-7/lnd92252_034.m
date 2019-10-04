@@ -273,7 +273,10 @@
 <LM>w#w-lnd92252-034-p3s2w24</LM>
 </w.rf>
 <form>ČLR</form>
-<tag lemma="ČLR_:B_;G" src="auto" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="ČLR_:B_;G" src="auto">NNXXX-----A---8</AM>
+<AM lemma="ČLR-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd92252-034-p3s2w25">
 <src.rf>manual</src.rf>
@@ -289,7 +292,10 @@
 <LM>w#w-lnd92252-034-p3s2w26</LM>
 </w.rf>
 <form>Šang</form>
-<tag lemma="Šang_;S" src="auto" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Šang_;S" src="auto">NNMS1-----A----</AM>
+<AM lemma="Šang_;S_;Y" src="manual" selected="1">NNMXX-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92252-034-p3s2w27">
 <src.rf>manual</src.rf>
@@ -429,6 +435,7 @@
 <AM lemma="Si_;G" src="orig">NNIXX-----A----</AM>
 <AM lemma="se_^(zvr._zájmeno/částice)" src="auto">P7-X3----------</AM>
 <AM lemma="být" src="auto" recommended="1">VB-S---2P-AA--7</AM>
+<AM lemma="Si-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-lnd92252-034-p3s2w44">
@@ -446,7 +453,7 @@
 </w.rf>
 <form>anu</form>
 <tag>
-<AM lemma="an_;G" src="orig">NNIS2-----A----</AM>
+<AM lemma="an_;G" src="orig" selected="1">NNIS2-----A----</AM>
 <AM lemma="anus" src="auto" recommended="1">NNIS2-----A----</AM>
 <AM lemma="anus" src="auto">NNIS3-----A----</AM>
 <AM lemma="anus" src="auto">NNIS6-----A----</AM>

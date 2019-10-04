@@ -848,6 +848,7 @@
 <tag>
 <AM lemma="TNP-2_:B" src="orig">NNXXX-----A---8</AM>
 <AM lemma="TNP-1_:B_;K_,t_^(Théátre_National_Populaire)" src="auto" recommended="1">NNNXX-----A---8</AM>
+<AM lemma="TNP-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-ln94200-164-p3s1w36">
@@ -882,7 +883,7 @@
 <form>přičemž</form>
 <tag>
 <AM lemma="přičemž" src="orig">J,-------------</AM>
-<AM lemma="přičemž" src="auto" recommended="1">Db-------------</AM>
+<AM lemma="přičemž" src="auto" recommended="1" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m-ln94200-164-p3s1w40">
@@ -1289,7 +1290,10 @@
 <LM>w#w-ln94200-164-p4s1w12</LM>
 </w.rf>
 <form>gen</form>
-<tag lemma="generál_:B" src="orig" selected="1">NNMXX-----A---8</tag>
+<tag>
+<AM lemma="generál_:B" src="orig">NNMXX-----A---8</AM>
+<AM lemma="gen_:B_^(generál)" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln94200-164-p4s1w13">
 <src.rf>manual</src.rf>
@@ -1533,7 +1537,7 @@
 <form>přičemž</form>
 <tag>
 <AM lemma="přičemž" src="orig">J,-------------</AM>
-<AM lemma="přičemž" src="auto" recommended="1">Db-------------</AM>
+<AM lemma="přičemž" src="auto" recommended="1" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m-ln94200-164-p4s3w9">
@@ -1895,6 +1899,14 @@
 <AM lemma="Carbol_;S" src="auto" recommended="1">NNMP4-----A----</AM>
 <AM lemma="Carbol_;S" src="auto">NNMP7-----A----</AM>
 </tag>
+<comment>
+<LM type="New Form">
+<text>Carbola</text>
+</LM>
+<LM type="Other">
+<text>špatné skloňování - jmenuje se Carbol, ne Carbola, proto jsem opravil formu, jinak to nebude dávat smysl</text>
+</LM>
+</comment>
 </m>
 <m id="m-ln94200-164-p5s2w6">
 <src.rf>manual</src.rf>
@@ -3018,7 +3030,10 @@
 <LM>w#w-ln94200-164-p6s2w1</LM>
 </w.rf>
 <form>O</form>
-<tag lemma="O-0_:B_;Y" src="orig" selected="1">NNMXX-----A---8</tag>
+<tag>
+<AM lemma="O-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
+<AM lemma="O-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln94200-164-p6s2w2">
 <src.rf>manual</src.rf>
@@ -3042,7 +3057,10 @@
 <LM>w#w-ln94200-164-p6s2w4</LM>
 </w.rf>
 <form>žije</form>
-<tag lemma="žít" src="auto" selected="1">VB-S---3P-AA---</tag>
+<tag>
+<AM lemma="žít" src="auto">VB-S---3P-AA---</AM>
+<AM lemma="žít_:T" src="manual" selected="1">VB-S---3P-AA---</AM>
+</tag>
 </m>
 <m id="m-ln94200-164-p6s2w5">
 <src.rf>manual</src.rf>

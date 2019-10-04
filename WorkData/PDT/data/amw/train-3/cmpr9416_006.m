@@ -743,7 +743,10 @@
 <LM>w#w-cmpr9416-006-p5s1w7</LM>
 </w.rf>
 <form>víc</form>
-<tag lemma="hodně-2" src="auto" selected="1">Dg-------2A---1</tag>
+<tag>
+<AM lemma="hodně-2" src="auto">Dg-------2A---1</AM>
+<AM lemma="hodně-3" src="manual" selected="1">Dg-------2A---1</AM>
+</tag>
 </m>
 <m id="m-cmpr9416-006-p5s1w8">
 <src.rf>manual</src.rf>
@@ -783,7 +786,10 @@
 <LM>w#w-cmpr9416-006-p5s1w12</LM>
 </w.rf>
 <form>vydat</form>
-<tag lemma="vydat-4_:W_^(platit,_př._vydat_peníze,_v._se_ze_všeho)" src="orig" selected="1">Vf--------A----</tag>
+<tag>
+<AM lemma="vydat-4_:W_^(platit,_př._vydat_peníze,_v._se_ze_všeho)" src="orig">Vf--------A----</AM>
+<AM lemma="vydat_:W" src="manual" selected="1">Vf--------A----</AM>
+</tag>
 </m>
 <m id="m-cmpr9416-006-p5s1w13">
 <src.rf>manual</src.rf>
@@ -1233,7 +1239,10 @@
 <LM>w#w-cmpr9416-006-p6s1w4</LM>
 </w.rf>
 <form>začala</form>
-<tag lemma="začít-1_^(začnout)" src="auto" selected="1">VpQW---XR-AA---</tag>
+<tag>
+<AM lemma="začít-1_^(začnout)" src="auto">VpQW---XR-AA---</AM>
+<AM lemma="začít-1_:W_^(začnout)" src="manual" selected="1">VpQW---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-cmpr9416-006-p6s1w5">
 <src.rf>manual</src.rf>
@@ -1941,7 +1950,10 @@
 <LM>w#w-cmpr9416-006-p7s4w13</LM>
 </w.rf>
 <form>jenom</form>
-<tag lemma="jenom-1" src="auto" selected="1">TT-------------</tag>
+<tag>
+<AM lemma="jenom-1" src="auto">TT-------------</AM>
+<AM lemma="jenom--2_^(pouze)" src="manual" selected="1">Db-------------</AM>
+</tag>
 </m>
 <m id="m-cmpr9416-006-p7s4w14">
 <src.rf>manual</src.rf>
@@ -1949,7 +1961,10 @@
 <LM>w#w-cmpr9416-006-p7s4w14</LM>
 </w.rf>
 <form>řekli</form>
-<tag lemma="říci" src="auto" selected="1">VpMP---XR-AA---</tag>
+<tag>
+<AM lemma="říci" src="auto">VpMP---XR-AA---</AM>
+<AM lemma="říci_:W" src="manual" selected="1">VpMP---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-cmpr9416-006-p7s4w15">
 <src.rf>manual</src.rf>
@@ -2690,6 +2705,7 @@
 <tag>
 <AM lemma="Kč" src="orig">NNFXX-----A----</AM>
 <AM lemma="Kč_:B" src="auto" recommended="1">NNFXX-----A---8</AM>
+<AM lemma="Kč_:B" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9416-006-p11s1w22">
@@ -2756,7 +2772,12 @@
 <LM>w#w-cmpr9416-006-p11s2w7</LM>
 </w.rf>
 <form>O</form>
-<tag lemma="o-1" src="orig" selected="1">RR--4----------</tag>
+<tag lemma="o-1" src="orig">RR--4----------</tag>
+<comment>
+<LM type="New Form">
+<text>o</text>
+</LM>
+</comment>
 </m>
 <m id="m-cmpr9416-006-p11s2w8">
 <src.rf>manual</src.rf>
@@ -2918,7 +2939,10 @@
 <LM>w#w-cmpr9416-006-p11s3w17</LM>
 </w.rf>
 <form>plyne</form>
-<tag lemma="plynout" src="auto" selected="1">VB-S---3P-AA---</tag>
+<tag>
+<AM lemma="plynout" src="auto">VB-S---3P-AA---</AM>
+<AM lemma="plynout_:T" src="manual" selected="1">VB-S---3P-AA---</AM>
+</tag>
 </m>
 <m id="m-cmpr9416-006-p11s3w18">
 <src.rf>manual</src.rf>

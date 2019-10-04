@@ -220,6 +220,7 @@
 <tag>
 <AM lemma="lei_^(platidlo)" src="orig">NNNXX-----A----</AM>
 <AM lemma="lei_;b_,t" src="auto" recommended="1">NNIXX-----A----</AM>
+<AM lemma="lei" src="manual" selected="1">NNIXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94203-135-p2s1Bw18">
@@ -410,7 +411,7 @@
 <form>meziměsíčně</form>
 <tag>
 <AM lemma="meziměsíčně" src="orig">Db-------------</AM>
-<AM lemma="meziměsíčně_^(*1í)" src="auto" recommended="1">Dg-------1A----</AM>
+<AM lemma="meziměsíčně_^(*1í)" src="auto" recommended="1" selected="1">Dg-------1A----</AM>
 </tag>
 </m>
 <m id="m-ln94203-135-p3s1w7">

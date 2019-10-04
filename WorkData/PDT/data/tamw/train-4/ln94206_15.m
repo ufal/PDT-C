@@ -71,7 +71,10 @@
 <LM>w#w-ln94206-15-p2s1Bw3</LM>
 </w.rf>
 <form>Pansy</form>
-<tag lemma="Pansy_;K" src="orig" selected="1">NNNXX-----A----</tag>
+<tag>
+<AM lemma="Pansy_;K" src="orig">NNNXX-----A----</AM>
+<AM lemma="Pansy_;K" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94206-15-p2s1Bw4">
 <src.rf>manual</src.rf>
@@ -95,6 +98,7 @@
 <AM lemma="role-2_^(herecká_úloha;_poslání)" src="auto">NNFS3-----A----</AM>
 <AM lemma="role-2_^(herecká_úloha;_poslání)" src="auto" recommended="1">NNFS4-----A----</AM>
 <AM lemma="role-2_^(herecká_úloha;_poslání)" src="auto">NNFS6-----A----</AM>
+<AM lemma="Roli_;K" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94206-15-p2s1Bw6">
@@ -773,7 +777,10 @@
 <LM>w#w-ln94206-15-p3s2w11</LM>
 </w.rf>
 <form>např</form>
-<tag lemma="například_:B" src="orig" selected="1">Db------------8</tag>
+<tag>
+<AM lemma="například_:B" src="orig">Db------------8</AM>
+<AM lemma="například" src="manual" selected="1">Db------------8</AM>
+</tag>
 </m>
 <m id="m-ln94206-15-p3s2w12">
 <src.rf>manual</src.rf>
@@ -845,7 +852,10 @@
 <LM>w#w-ln94206-15-p3s2w20</LM>
 </w.rf>
 <form>apod</form>
-<tag lemma="apod_:B_^(a_podobně)" src="auto" selected="1">Db------------8</tag>
+<tag>
+<AM lemma="apod_:B_^(a_podobně)" src="auto">Db------------8</AM>
+<AM lemma="apod_:B_^(a_podobně)" src="manual" selected="1">Db-------------</AM>
+</tag>
 </m>
 <m id="m-ln94206-15-p3s2w21">
 <src.rf>manual</src.rf>
@@ -946,6 +956,8 @@
 <tag>
 <AM lemma="Kč" src="orig">NNFXX-----A----</AM>
 <AM lemma="Kč_:B" src="auto" recommended="1">NNFXX-----A---8</AM>
+<AM lemma="Kč_:B" src="manual">NNXXX-----A----</AM>
+<AM lemma="Kč_:B_^(koruna_česká)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94206-15-p3s3w12">
@@ -1060,7 +1072,10 @@
 <LM>w#w-ln94206-15-p4s1w13</LM>
 </w.rf>
 <form>Modrá</form>
-<tag lemma="modrý" src="orig" selected="1">AAFS1----1A----</tag>
+<tag>
+<AM lemma="modrý" src="orig">AAFS1----1A----</AM>
+<AM lemma="modrý_;o" src="manual" selected="1">AAFS1----1A----</AM>
+</tag>
 </m>
 <m id="m-ln94206-15-p4s1w14">
 <src.rf>manual</src.rf>
@@ -1076,7 +1091,10 @@
 <LM>w#w-ln94206-15-p4s1w15</LM>
 </w.rf>
 <form>Tamp</form>
-<tag lemma="Tampa_;G" src="orig" selected="1">NNFP2-----A----</tag>
+<tag>
+<AM lemma="Tampa_;G" src="orig">NNFP2-----A----</AM>
+<AM lemma="Tamp_;K" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94206-15-p4s1w16">
 <src.rf>manual</src.rf>
@@ -1638,7 +1656,10 @@
 <LM>w#w-ln94206-15-p6s1w9</LM>
 </w.rf>
 <form>kurzy</form>
-<tag lemma="kurs" src="auto" selected="1">NNIP4-----A----</tag>
+<tag>
+<AM lemma="kurs" src="auto">NNIP4-----A----</AM>
+<AM lemma="kurz" src="manual" selected="1">NNIP4-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94206-15-p6s1w10">
 <src.rf>manual</src.rf>

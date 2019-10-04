@@ -51,7 +51,10 @@
 <LM>w#w-cmpr9406-010-p2s1w5</LM>
 </w.rf>
 <form>VĚDĚT</form>
-<tag lemma="vědět" src="orig" selected="1">Vf--------A----</tag>
+<tag>
+<AM lemma="vědět" src="orig">Vf--------A----</AM>
+<AM lemma="vědět_:T" src="manual" selected="1">Vf--------A----</AM>
+</tag>
 </m>
 </s>
 <s id="m-cmpr9406-010-p3s1">
@@ -159,7 +162,10 @@
 <LM>w#w-cmpr9406-010-p4s1w10</LM>
 </w.rf>
 <form>mají</form>
-<tag lemma="mít" src="orig" selected="1">VB-P---3P-AA---</tag>
+<tag>
+<AM lemma="mít" src="orig">VB-P---3P-AA---</AM>
+<AM lemma="mít_:T" src="manual" selected="1">VB-P---3P-AA---</AM>
+</tag>
 </m>
 <m id="m-cmpr9406-010-p4s1w11">
 <src.rf>manual</src.rf>
@@ -283,7 +289,10 @@
 <LM>w#w-cmpr9406-010-p4s3w1</LM>
 </w.rf>
 <form>Má</form>
-<tag lemma="mít" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag>
+<AM lemma="mít" src="orig">VB-S---3P-AA---</AM>
+<AM lemma="mít_:T" src="manual" selected="1">VB-S---3P-AA---</AM>
+</tag>
 </m>
 <m id="m-cmpr9406-010-p4s3w2">
 <src.rf>manual</src.rf>
@@ -374,7 +383,7 @@
 <AM lemma="dřívější" src="auto">AAMP5----2A----</AM>
 <AM lemma="dřívější" src="auto">AAMS1----2A----</AM>
 <AM lemma="dřívější" src="auto">AAMS5----2A----</AM>
-<AM lemma="dřívější" src="auto" recommended="1">AANP1----2A----</AM>
+<AM lemma="dřívější" src="auto" recommended="1" selected="1">AANP1----2A----</AM>
 <AM lemma="dřívější" src="auto">AANP4----2A----</AM>
 <AM lemma="dřívější" src="auto">AANP5----2A----</AM>
 <AM lemma="dřívější" src="auto">AANS1----2A----</AM>
@@ -635,7 +644,10 @@
 <LM>w#w-cmpr9406-010-p6s2w10</LM>
 </w.rf>
 <form>provedeny</form>
-<tag lemma="provést" src="orig" selected="1">VsTP---XX-AP---</tag>
+<tag>
+<AM lemma="provést" src="orig">VsTP---XX-AP---</AM>
+<AM lemma="provést_:W" src="manual" selected="1">VsTP---XX-AP---</AM>
+</tag>
 </m>
 <m id="m-cmpr9406-010-p6s2w11">
 <src.rf>manual</src.rf>
@@ -675,7 +687,10 @@
 <LM>w#w-cmpr9406-010-p6s2w15</LM>
 </w.rf>
 <form>ČSN</form>
-<tag lemma="ČSN-1_:B_^(čs./česká_státní_norma)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ČSN-1_:B_^(čs./česká_státní_norma)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČSN-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-cmpr9406-010-p6s2w16">
 <src.rf>manual</src.rf>
@@ -707,7 +722,10 @@
 <LM>w#w-cmpr9406-010-p6s2w19</LM>
 </w.rf>
 <form>ČSN</form>
-<tag lemma="ČSN-1_:B_^(čs./česká_státní_norma)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ČSN-1_:B_^(čs./česká_státní_norma)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČSN-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-cmpr9406-010-p6s2w20">
 <src.rf>manual</src.rf>
@@ -779,7 +797,10 @@
 <LM>w#w-cmpr9406-010-p6s2w28</LM>
 </w.rf>
 <form>ČSN</form>
-<tag lemma="ČSN-1_:B_^(čs./česká_státní_norma)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ČSN-1_:B_^(čs./česká_státní_norma)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČSN-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-cmpr9406-010-p6s2w29">
 <src.rf>manual</src.rf>
@@ -851,7 +872,10 @@
 <LM>w#w-cmpr9406-010-p6s2w37</LM>
 </w.rf>
 <form>ČSN</form>
-<tag lemma="ČSN-1_:B_^(čs./česká_státní_norma)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ČSN-1_:B_^(čs./česká_státní_norma)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČSN-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-cmpr9406-010-p6s2w38">
 <src.rf>manual</src.rf>
@@ -909,7 +933,10 @@
 <LM>w#w-cmpr9406-010-p6s3w3</LM>
 </w.rf>
 <form>mají</form>
-<tag lemma="mít" src="orig" selected="1">VB-P---3P-AA---</tag>
+<tag>
+<AM lemma="mít" src="orig">VB-P---3P-AA---</AM>
+<AM lemma="mít_:T" src="manual" selected="1">VB-P---3P-AA---</AM>
+</tag>
 </m>
 <m id="m-cmpr9406-010-p6s3w4">
 <src.rf>manual</src.rf>
@@ -1906,7 +1933,10 @@
 <LM>w#w-cmpr9406-010-p17s1w4</LM>
 </w.rf>
 <form>g</form>
-<tag lemma="g-1`gram_:B" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="g-1`gram_:B" src="orig">NNIXX-----A---8</AM>
+<AM lemma="gram" src="manual" selected="1">NNIXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-cmpr9406-010-p17s1w5">
 <src.rf>manual</src.rf>
@@ -2006,7 +2036,10 @@
 <LM>w#w-cmpr9406-010-p19s1w3</LM>
 </w.rf>
 <form>g</form>
-<tag lemma="g-1`gram_:B" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="g-1`gram_:B" src="orig">NNIXX-----A---8</AM>
+<AM lemma="gram" src="manual" selected="1">NNIXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-cmpr9406-010-p19s1w4">
 <src.rf>manual</src.rf>
@@ -2462,7 +2495,10 @@
 <LM>w#w-cmpr9406-010-p23s2w17</LM>
 </w.rf>
 <form>č</form>
-<tag lemma="číslo_:B" src="orig" selected="1">NNNXX-----A---8</tag>
+<tag>
+<AM lemma="číslo_:B" src="orig">NNNXX-----A---8</AM>
+<AM lemma="číslo" src="manual" selected="1">NNNXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-cmpr9406-010-p23s2w18">
 <src.rf>manual</src.rf>
@@ -2502,7 +2538,10 @@
 <LM>w#w-cmpr9406-010-p23s2w22</LM>
 </w.rf>
 <form>Sb</form>
-<tag lemma="Sb-1_:B_;j_^(Sbírka,_např._zákonů)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="Sb-1_:B_;j_^(Sbírka,_např._zákonů)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="sbírka" src="manual" selected="1">NNFXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-cmpr9406-010-p23s2w23">
 <src.rf>manual</src.rf>
@@ -2586,7 +2625,7 @@
 <form>§</form>
 <tag>
 <AM lemma="§_^(paragraf)" src="orig">NNIXX-----A---1</AM>
-<AM lemma="paragraf" src="auto" recommended="1">NNIXX-----A---1</AM>
+<AM lemma="paragraf" src="auto" recommended="1" selected="1">NNIXX-----A---1</AM>
 </tag>
 </m>
 <m id="m-cmpr9406-010-p24s1w2">
@@ -2759,7 +2798,7 @@
 <form>§</form>
 <tag>
 <AM lemma="§_^(paragraf)" src="orig">NNIXX-----A---1</AM>
-<AM lemma="paragraf" src="auto" recommended="1">NNIXX-----A---1</AM>
+<AM lemma="paragraf" src="auto" recommended="1" selected="1">NNIXX-----A---1</AM>
 </tag>
 </m>
 <m id="m-cmpr9406-010-p25s1w2">
@@ -2880,7 +2919,10 @@
 <LM>w#w-cmpr9406-010-p25s1w16</LM>
 </w.rf>
 <form>atd</form>
-<tag lemma="atd-1_:B_^(a_tak_dále)" src="orig" selected="1">Db------------8</tag>
+<tag>
+<AM lemma="atd-1_:B_^(a_tak_dále)" src="orig">Db------------8</AM>
+<AM lemma="atd-1_:B_^(a_tak_dále)" src="manual" selected="1">Db-------------</AM>
+</tag>
 </m>
 <m id="m-cmpr9406-010-p25s1w17">
 <src.rf>manual</src.rf>
@@ -2940,7 +2982,7 @@
 <form>§</form>
 <tag>
 <AM lemma="§_^(paragraf)" src="orig">NNIXX-----A---1</AM>
-<AM lemma="paragraf" src="auto" recommended="1">NNIXX-----A---1</AM>
+<AM lemma="paragraf" src="auto" recommended="1" selected="1">NNIXX-----A---1</AM>
 </tag>
 </m>
 <m id="m-cmpr9406-010-p26s1w2">
@@ -3113,7 +3155,7 @@
 <form>§</form>
 <tag>
 <AM lemma="§_^(paragraf)" src="orig">NNIXX-----A---1</AM>
-<AM lemma="paragraf" src="auto" recommended="1">NNIXX-----A---1</AM>
+<AM lemma="paragraf" src="auto" recommended="1" selected="1">NNIXX-----A---1</AM>
 </tag>
 </m>
 <m id="m-cmpr9406-010-p27s1w7">
@@ -3194,7 +3236,10 @@
 <LM>w#w-cmpr9406-010-p27s1w16</LM>
 </w.rf>
 <form>Sb</form>
-<tag lemma="Sb-1_:B_;j_^(Sbírka,_např._zákonů)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="Sb-1_:B_;j_^(Sbírka,_např._zákonů)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="sbírka" src="manual" selected="1">NNFXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-cmpr9406-010-p27s1w17">
 <src.rf>manual</src.rf>
@@ -3291,7 +3336,10 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>mít</form>
-<tag lemma="mít" src="orig" selected="1">Vf--------A----</tag>
+<tag>
+<AM lemma="mít" src="orig">Vf--------A----</AM>
+<AM lemma="mít_:T" src="manual" selected="1">Vf--------A----</AM>
+</tag>
 </m>
 <m id="m-cmpr9406-010-p27s1w29">
 <src.rf>manual</src.rf>
@@ -3485,7 +3533,10 @@
 <LM>w#w-cmpr9406-010-p27s2w2</LM>
 </w.rf>
 <form>má</form>
-<tag lemma="mít" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag>
+<AM lemma="mít" src="orig">VB-S---3P-AA---</AM>
+<AM lemma="mít_:T" src="manual" selected="1">VB-S---3P-AA---</AM>
+</tag>
 </m>
 <m id="m-cmpr9406-010-p27s2w3">
 <src.rf>manual</src.rf>
@@ -3657,7 +3708,10 @@
 <LM>w#w-cmpr9406-010-p28s1w5</LM>
 </w.rf>
 <form>ČZPI</form>
-<tag lemma="ČZPI_:B_;K" src="auto" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="ČZPI_:B_;K" src="auto">NNXXX-----A---8</AM>
+<AM lemma="ČZPI-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 </s>
 </mdata>

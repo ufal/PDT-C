@@ -48,6 +48,7 @@
 <tag>
 <AM lemma="DK_:B_;K" src="orig">NNFXX-----A---8</AM>
 <AM lemma="DK_:B" src="auto" recommended="1">NNXXX-----A---8</AM>
+<AM lemma="DK-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94204-117-p2s2w2">

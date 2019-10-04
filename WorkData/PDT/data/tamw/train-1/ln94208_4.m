@@ -72,7 +72,7 @@
 <AM lemma="polo_;R_^(vozidlo)" src="auto">NNNP1-----A----</AM>
 <AM lemma="polo_;R_^(vozidlo)" src="auto">NNNP4-----A----</AM>
 <AM lemma="polo_;R_^(vozidlo)" src="auto">NNNP5-----A----</AM>
-<AM lemma="polo_;R_^(vozidlo)" src="auto">NNNS2-----A----</AM>
+<AM lemma="polo_;R_^(vozidlo)" src="auto" selected="1">NNNS2-----A----</AM>
 <AM lemma="pólo" src="auto">NNNP1-----A----</AM>
 <AM lemma="pólo" src="auto">NNNP4-----A----</AM>
 <AM lemma="pólo" src="auto">NNNP5-----A----</AM>
@@ -104,7 +104,7 @@
 <tag>
 <AM lemma="tedy" src="orig">Db-------------</AM>
 <AM lemma="tedy-1" src="auto">TT-------------</AM>
-<AM lemma="tedy-2" src="auto" recommended="1">J^-------------</AM>
+<AM lemma="tedy-2" src="auto" recommended="1" selected="1">J^-------------</AM>
 </tag>
 </m>
 <m id="m-ln94208-4-p1s1w11">
@@ -171,7 +171,10 @@
 <LM>w#w-ln94208-4-p1s2w4</LM>
 </w.rf>
 <form>čtyřdveřová</form>
-<tag lemma="čtyřdveřový_,x" src="orig" selected="1">AAFS1----1A----</tag>
+<tag>
+<AM lemma="čtyřdveřový_,x" src="orig">AAFS1----1A----</AM>
+<AM lemma="čtyřdveřový_,s_^(^DD**čtyřdvéřový)" src="manual" selected="1">AAFS1----1A----</AM>
+</tag>
 </m>
 <m id="m-ln94208-4-p1s2w5">
 <src.rf>manual</src.rf>

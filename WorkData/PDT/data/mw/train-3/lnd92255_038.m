@@ -38,7 +38,7 @@
 <tag>
 <AM lemma="pátečník" src="orig">NNIS2-----A----</AM>
 <AM lemma="pátečník" src="auto">NNMS3-----A---1</AM>
-<AM lemma="pátečník" src="auto" recommended="1">NNMS5-----A----</AM>
+<AM lemma="pátečník" src="auto" recommended="1" selected="1">NNMS5-----A----</AM>
 <AM lemma="pátečník" src="auto">NNMS6-----A---1</AM>
 </tag>
 </m>
@@ -202,7 +202,10 @@
 <LM>w#w-lnd92255-038-p2s1w20</LM>
 </w.rf>
 <form>uzavřeli</form>
-<tag lemma="uzavřít" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag>
+<AM lemma="uzavřít" src="orig">VpMP---XR-AA---</AM>
+<AM lemma="uzavřít_:W" src="manual" selected="1">VpMP---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-lnd92255-038-p2s1w21">
 <src.rf>manual</src.rf>
@@ -418,7 +421,10 @@
 <LM>w#w-lnd92255-038-p2s1w47</LM>
 </w.rf>
 <form>Kčs</form>
-<tag lemma="Kčs-1_:B_^(Koruna_čs.)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="Kčs-1_:B_^(Koruna_čs.)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="Kčs-1_:B_^(Koruna_čs.)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92255-038-p2s1w48">
 <src.rf>manual</src.rf>

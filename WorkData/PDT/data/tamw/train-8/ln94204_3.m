@@ -2563,7 +2563,10 @@
 <LM>w#w-ln94204-3-p11s6w3</LM>
 </w.rf>
 <form>li</form>
-<tag lemma="li-1" src="auto" selected="1">TT-------------</tag>
+<tag>
+<AM lemma="li-1" src="auto">TT-------------</AM>
+<AM lemma="li-2" src="manual" selected="1">J,-------------</AM>
+</tag>
 </m>
 <m id="m-ln94204-3-p11s6w4">
 <src.rf>manual</src.rf>
@@ -3457,7 +3460,10 @@
 <LM>w#w-ln94204-3-p17s2w2</LM>
 </w.rf>
 <form>sf</form>
-<tag lemma="sf-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="sf-99_:B_;S" src="orig">NNXXX-----A---8</AM>
+<AM lemma="sf-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94204-3-p17s2w3">
 <src.rf>manual</src.rf>

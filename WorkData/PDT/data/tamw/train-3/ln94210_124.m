@@ -75,6 +75,7 @@
 <AM lemma="nov_^(pozice_Měsíce)" src="auto">NNIS4-----A----</AM>
 <AM lemma="nova" src="auto">NNFP2-----A----</AM>
 <AM lemma="novum" src="auto">NNNP2-----A----</AM>
+<AM lemma="nov-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94210-124-p2s1Aw4">
@@ -197,7 +198,10 @@
 <LM>w#w-ln94210-124-p2s1Bw13</LM>
 </w.rf>
 <form>ČR</form>
-<tag lemma="ČR-1_:B_;G_^(Česká_republika)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94210-124-p2s1Bw14">
 <src.rf>manual</src.rf>
@@ -423,7 +427,10 @@
 <LM>w#w-ln94210-124-p2s2w24</LM>
 </w.rf>
 <form>MS</form>
-<tag lemma="MS-3_:B_;w_^(mistrovství_světa)" src="orig" selected="1">NNNXX-----A---8</tag>
+<tag>
+<AM lemma="MS-3_:B_;w_^(mistrovství_světa)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="MS-3_:B_^(mistrovství_světa)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94210-124-p2s2w25">
 <src.rf>manual</src.rf>
@@ -630,7 +637,7 @@
 <AM lemma="Jawa_;K_;R" src="auto">NNFP1-----A----</AM>
 <AM lemma="Jawa_;K_;R" src="auto">NNFP4-----A----</AM>
 <AM lemma="Jawa_;K_;R" src="auto">NNFP5-----A----</AM>
-<AM lemma="Jawa_;K_;R" src="auto" recommended="1">NNFS2-----A----</AM>
+<AM lemma="Jawa_;K_;R" src="auto" recommended="1" selected="1">NNFS2-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94210-124-p2s3w25">
@@ -712,7 +719,7 @@
 </w.rf>
 <form>Boyce</form>
 <tag>
-<AM lemma="Boyce_;S" src="orig">NNMS1-----A----</AM>
+<AM lemma="Boyce_;S" src="orig" selected="1">NNMS1-----A----</AM>
 <AM lemma="Boyc_;S" src="auto">NNMP4-----A----</AM>
 <AM lemma="Boyc_;S" src="auto">NNMS2-----A----</AM>
 <AM lemma="Boyc_;S" src="auto">NNMS4-----A----</AM>
@@ -765,7 +772,10 @@
 <LM>w#w-ln94210-124-p2s3w40</LM>
 </w.rf>
 <form>sezony</form>
-<tag lemma="sezona" src="orig" selected="1">NNFS2-----A----</tag>
+<tag>
+<AM lemma="sezona" src="orig">NNFS2-----A----</AM>
+<AM lemma="sezona_,s_^(^DD**sezóna)" src="manual" selected="1">NNFS2-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94210-124-p2s3w41">
 <src.rf>manual</src.rf>
@@ -848,7 +858,7 @@
 </w.rf>
 <form>Doncaster</form>
 <tag>
-<AM lemma="Doncaster_;S" src="orig">NNMS1-----A----</AM>
+<AM lemma="Doncaster_;S" src="orig" selected="1">NNMS1-----A----</AM>
 <AM lemma="Doncaster_;G" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Doncaster_;G" src="auto">NNIS4-----A----</AM>
 </tag>
@@ -1112,6 +1122,7 @@
 <tag>
 <AM lemma="USA_;G" src="orig">NNIPX-----A----</AM>
 <AM lemma="USA_:B_;K_,t_^(United_States_of_America)" src="auto" recommended="1">NNIPX-----A---8</AM>
+<AM lemma="USA_:B_;K_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94210-124-p2s4Bw24">
@@ -1662,7 +1673,10 @@
 <LM>w#w-ln94210-124-p3s3w4</LM>
 </w.rf>
 <form>ZP</form>
-<tag lemma="ZP-3_:B_^(zdravotní_pojišťovna)" src="auto" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ZP-3_:B_^(zdravotní_pojišťovna)" src="auto">NNFXX-----A---8</AM>
+<AM lemma="ZP-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94210-124-p3s3w5">
 <src.rf>manual</src.rf>

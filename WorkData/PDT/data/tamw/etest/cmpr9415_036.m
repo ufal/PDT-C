@@ -65,7 +65,7 @@
 <form>Santal</form>
 <tag>
 <AM lemma="Santal_;K" src="orig">NNIS1-----A----</AM>
-<AM lemma="santal_^(strom;;dřevo_ze_stromu_santal)" src="auto" recommended="1">NNIS1-----A----</AM>
+<AM lemma="santal_^(strom;;dřevo_ze_stromu_santal)" src="auto" recommended="1" selected="1">NNIS1-----A----</AM>
 <AM lemma="santal_^(strom;;dřevo_ze_stromu_santal)" src="auto">NNIS4-----A----</AM>
 </tag>
 </m>
@@ -205,7 +205,10 @@
 <LM>w#w-cmpr9415-036-p4s3w6</LM>
 </w.rf>
 <form>jen</form>
-<tag lemma="jen-1" src="auto" selected="1">TT-------------</tag>
+<tag>
+<AM lemma="jen-1" src="auto">TT-------------</AM>
+<AM lemma="jen-4_^(pouze)" src="manual" selected="1">Db-------------</AM>
+</tag>
 </m>
 <m id="m-cmpr9415-036-p4s3w7">
 <src.rf>manual</src.rf>
@@ -257,7 +260,7 @@
 <form>Santal</form>
 <tag>
 <AM lemma="Santal_;K" src="orig">NNIS1-----A----</AM>
-<AM lemma="santal_^(strom;;dřevo_ze_stromu_santal)" src="auto" recommended="1">NNIS1-----A----</AM>
+<AM lemma="santal_^(strom;;dřevo_ze_stromu_santal)" src="auto" recommended="1" selected="1">NNIS1-----A----</AM>
 <AM lemma="santal_^(strom;;dřevo_ze_stromu_santal)" src="auto">NNIS4-----A----</AM>
 </tag>
 </m>
@@ -315,7 +318,10 @@
 <LM>w#w-cmpr9415-036-p5s1w10</LM>
 </w.rf>
 <form>tel</form>
-<tag lemma="telefon_:B" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="telefon_:B" src="orig">NNIXX-----A---8</AM>
+<AM lemma="telefon" src="manual" selected="1">NNIXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-cmpr9415-036-p5s1w11">
 <src.rf>manual</src.rf>

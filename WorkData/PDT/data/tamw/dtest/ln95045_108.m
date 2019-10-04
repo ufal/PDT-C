@@ -315,7 +315,7 @@
 <AM lemma="Ivo_;Y" src="orig">NNMXX-----A----</AM>
 <AM lemma="Iva_;Y" src="auto">NNFS5-----A----</AM>
 <AM lemma="Ivo_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Ivo_;Y" src="auto" recommended="1">NNMS2-----A---1</AM>
+<AM lemma="Ivo_;Y" src="auto" recommended="1" selected="1">NNMS2-----A---1</AM>
 <AM lemma="Ivo_;Y" src="auto">NNMS3-----A---1</AM>
 <AM lemma="Ivo_;Y" src="auto">NNMS5-----A----</AM>
 <AM lemma="Ivo_;Y" src="auto">NNMS6-----A---1</AM>
@@ -1146,7 +1146,10 @@
 <LM>w#w-ln95045-108-p3s3w12</LM>
 </w.rf>
 <form>ČEZ</form>
-<tag lemma="ČEZ-1_:B_;K_^(České_energetické_závody)" src="orig" selected="1">NNIPX-----A---8</tag>
+<tag>
+<AM lemma="ČEZ-1_:B_;K_^(České_energetické_závody)" src="orig">NNIPX-----A---8</AM>
+<AM lemma="ČEZ-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95045-108-p3s3w13">
 <src.rf>manual</src.rf>
@@ -1220,7 +1223,10 @@
 <LM>w#w-ln95045-108-p3s4w8</LM>
 </w.rf>
 <form>uvedl</form>
-<tag lemma="uvést" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag>
+<AM lemma="uvést" src="orig">VpYS---XR-AA---</AM>
+<AM lemma="uvést_:W" src="manual" selected="1">VpYS---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-ln95045-108-p3s4w9">
 <src.rf>manual</src.rf>
@@ -1990,7 +1996,10 @@
 <LM>w#w-ln95045-108-p4s1w24</LM>
 </w.rf>
 <form>řekl</form>
-<tag lemma="říci" src="auto" selected="1">VpYS---XR-AA---</tag>
+<tag>
+<AM lemma="říci" src="auto">VpYS---XR-AA---</AM>
+<AM lemma="říci_:W" src="manual" selected="1">VpYS---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-ln95045-108-p4s1w25">
 <src.rf>manual</src.rf>
@@ -1998,7 +2007,10 @@
 <LM>w#w-ln95045-108-p4s1w25</LM>
 </w.rf>
 <form>I</form>
-<tag lemma="I-0_:B_;Y" src="orig" selected="1">NNMXX-----A---8</tag>
+<tag>
+<AM lemma="I-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
+<AM lemma="I-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95045-108-p4s1w26">
 <src.rf>manual</src.rf>
@@ -2420,7 +2432,10 @@
 <LM>w#w-ln95045-108-p5s2w13</LM>
 </w.rf>
 <form>DPH</form>
-<tag lemma="DPH-1_:B_;b" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="DPH-1_:B_;b" src="orig">NNFXX-----A---8</AM>
+<AM lemma="DPH-1_:B_^(daň_z_přidané_hodnoty)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95045-108-p5s2w14">
 <src.rf>manual</src.rf>
@@ -2718,7 +2733,10 @@
 <LM>w#w-ln95045-108-p6s1w32</LM>
 </w.rf>
 <form>FRYMA</form>
-<tag lemma="FRYMA_:B_;K" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="FRYMA_:B_;K" src="orig">NNFXX-----A---8</AM>
+<AM lemma="FRYMA-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95045-108-p6s1w33">
 <src.rf>manual</src.rf>

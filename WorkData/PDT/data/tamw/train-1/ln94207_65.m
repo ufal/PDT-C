@@ -115,6 +115,7 @@
 <AM lemma="profesionalismus" src="auto">NNIS4-----A----</AM>
 <AM lemma="profesionalizmus_,x" src="auto">NNIS1-----A----</AM>
 <AM lemma="profesionalizmus_,x" src="auto" recommended="1">NNIS4-----A----</AM>
+<AM lemma="profesionalismus_,s_^(^DD**profesionalizmus)" src="manual" selected="1">NNIS4-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94207-65-p2s1Aw7">
@@ -123,7 +124,10 @@
 <LM>w#w-ln94207-65-p2s1Aw7</LM>
 </w.rf>
 <form>jen</form>
-<tag lemma="jen-1" src="auto" selected="1">TT-------------</tag>
+<tag>
+<AM lemma="jen-1" src="auto">TT-------------</AM>
+<AM lemma="jen-4_^(pouze)" src="manual" selected="1">Db-------------</AM>
+</tag>
 </m>
 <m id="m-ln94207-65-p2s1Aw8">
 <src.rf>manual</src.rf>
@@ -203,7 +207,10 @@
 <LM>w#w-ln94207-65-p2s1Aw17</LM>
 </w.rf>
 <form>Tobiáš</form>
-<tag lemma="Tobiáš_;Y" src="orig" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Tobiáš_;Y" src="orig">NNMS1-----A----</AM>
+<AM lemma="Tobiáš_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94207-65-p2s1Aw18">
 <src.rf>manual</src.rf>
@@ -813,7 +820,10 @@
 <LM>w#w-ln94207-65-p2s5w17</LM>
 </w.rf>
 <form>SSSR</form>
-<tag lemma="SSSR_:B_;G_^(Svaz_sov._socialist._republik)" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="SSSR_:B_;G_^(Svaz_sov._socialist._republik)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="SSSR_:B_;G_^(Svaz_sov._socialist._republik)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94207-65-p2s5w18">
 <src.rf>manual</src.rf>
@@ -1517,7 +1527,10 @@
 <LM>w#w-ln94207-65-p4s3w18</LM>
 </w.rf>
 <form>ČSSR</form>
-<tag lemma="ČSSR-1_:B_;G_^(Čs._socialistická_republika)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ČSSR-1_:B_;G_^(Čs._socialistická_republika)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČSSR-1_:B_;G_^(Čs._socialistická_republika)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94207-65-p4s3w19">
 <src.rf>manual</src.rf>
@@ -1541,7 +1554,10 @@
 <LM>w#w-ln94207-65-p4s3w21</LM>
 </w.rf>
 <form>SSSR</form>
-<tag lemma="SSSR_:B_;G_^(Svaz_sov._socialist._republik)" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="SSSR_:B_;G_^(Svaz_sov._socialist._republik)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="SSSR_:B_;G_^(Svaz_sov._socialist._republik)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94207-65-p4s3w22">
 <src.rf>manual</src.rf>
@@ -1914,7 +1930,7 @@
 <tag>
 <AM lemma="tedy" src="orig">Db-------------</AM>
 <AM lemma="tedy-1" src="auto">TT-------------</AM>
-<AM lemma="tedy-2" src="auto" recommended="1">J^-------------</AM>
+<AM lemma="tedy-2" src="auto" recommended="1" selected="1">J^-------------</AM>
 </tag>
 </m>
 <m id="m-ln94207-65-p5s3Bw6">
@@ -3003,7 +3019,7 @@
 </w.rf>
 <form>Syč</form>
 <tag>
-<AM lemma="Syč_;S" src="orig">NNMS1-----A----</AM>
+<AM lemma="Syč_;S" src="orig" selected="1">NNMS1-----A----</AM>
 <AM lemma="syčet" src="auto" recommended="1">Vi-S---2--A----</AM>
 <AM lemma="syčet" src="auto">Vi-S---3--A---4</AM>
 </tag>
@@ -3172,7 +3188,10 @@
 <LM>w#w-ln94207-65-p8s2w3</LM>
 </w.rf>
 <form>jen</form>
-<tag lemma="jen-1" src="auto" selected="1">TT-------------</tag>
+<tag>
+<AM lemma="jen-1" src="auto">TT-------------</AM>
+<AM lemma="jen-4_^(pouze)" src="manual" selected="1">Db-------------</AM>
+</tag>
 </m>
 <m id="m-ln94207-65-p8s2w4">
 <src.rf>manual</src.rf>
@@ -3329,7 +3348,10 @@
 <LM>w#w-ln94207-65-p8s4Aw2</LM>
 </w.rf>
 <form>jen</form>
-<tag lemma="jen-1" src="auto" selected="1">TT-------------</tag>
+<tag>
+<AM lemma="jen-1" src="auto">TT-------------</AM>
+<AM lemma="jen-4_^(pouze)" src="manual" selected="1">Db-------------</AM>
+</tag>
 </m>
 <m id="m-ln94207-65-p8s4Aw3">
 <src.rf>manual</src.rf>
@@ -3386,7 +3408,7 @@
 </w.rf>
 <form>Syč</form>
 <tag>
-<AM lemma="Syč_;S" src="orig">NNMS1-----A----</AM>
+<AM lemma="Syč_;S" src="orig" selected="1">NNMS1-----A----</AM>
 <AM lemma="syčet" src="auto" recommended="1">Vi-S---2--A----</AM>
 <AM lemma="syčet" src="auto">Vi-S---3--A---4</AM>
 </tag>
@@ -3641,7 +3663,10 @@
 <LM>w#w-ln94207-65-p9s1w9</LM>
 </w.rf>
 <form>Sankt</form>
-<tag lemma="Sankt_;G_,t_^(jako_součást_názvu)" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="Sankt_;G_,t_^(jako_součást_názvu)" src="orig">AAXXX----1A----</AM>
+<AM lemma="Sankt-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94207-65-p9s1w10">
 <src.rf>manual</src.rf>
@@ -4219,7 +4244,10 @@
 <LM>w#w-ln94207-65-p10s2w10</LM>
 </w.rf>
 <form>tovaryšč</form>
-<tag lemma="tovaryšč_,t" src="orig" selected="1">NNMS5-----A----</tag>
+<tag>
+<AM lemma="tovaryšč_,t" src="orig">NNMS5-----A----</AM>
+<AM lemma="tovaryšč-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94207-65-p10s2w11">
 <src.rf>manual</src.rf>
@@ -4945,7 +4973,10 @@
 <LM>w#w-ln94207-65-p11s4Bw9</LM>
 </w.rf>
 <form>NHL</form>
-<tag lemma="NHL-1_:B_;K_;w_^(Nár._hokejová_liga)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="NHL-1_:B_;K_;w_^(Nár._hokejová_liga)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="NHL-1_:B_;K_^(Nár._hokejová_liga)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94207-65-p11s4Bw10">
 <src.rf>manual</src.rf>
@@ -4963,7 +4994,10 @@
 <LM>w#w-ln94207-65-p12s1w1</LM>
 </w.rf>
 <form>Ani</form>
-<tag lemma="ani-1" src="auto" selected="1">J^-------------</tag>
+<tag>
+<AM lemma="ani-1" src="auto">J^-------------</AM>
+<AM lemma="ani-2" src="manual" selected="1">TT-------------</AM>
+</tag>
 </m>
 <m id="m-ln94207-65-p12s1w2">
 <src.rf>manual</src.rf>
@@ -5123,7 +5157,10 @@
 <LM>w#w-ln94207-65-p12s1w22</LM>
 </w.rf>
 <form>sezony</form>
-<tag lemma="sezona" src="orig" selected="1">NNFS2-----A----</tag>
+<tag>
+<AM lemma="sezona" src="orig">NNFS2-----A----</AM>
+<AM lemma="sezona_,s_^(^DD**sezóna)" src="manual" selected="1">NNFS2-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94207-65-p12s1w23">
 <src.rf>manual</src.rf>
@@ -5165,7 +5202,10 @@
 <LM>w#w-ln94207-65-p12s2Aw1</LM>
 </w.rf>
 <form>NHL</form>
-<tag lemma="NHL-1_:B_;K_;w_^(Nár._hokejová_liga)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="NHL-1_:B_;K_;w_^(Nár._hokejová_liga)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="NHL-1_:B_;K_^(Nár._hokejová_liga)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94207-65-p12s2Aw2">
 <src.rf>manual</src.rf>
@@ -5301,7 +5341,10 @@
 <LM>w#w-ln94207-65-p12s2Aw18</LM>
 </w.rf>
 <form>hodně</form>
-<tag lemma="hodně-2_^(nezlobivý)_(*3ý-2)" src="auto" selected="1">Dg-------1A----</tag>
+<tag>
+<AM lemma="hodně-2_^(nezlobivý)_(*3ý-2)" src="auto">Dg-------1A----</AM>
+<AM lemma="hodně-3" src="manual" selected="1">Dg-------1A----</AM>
+</tag>
 </m>
 <m id="m-ln94207-65-p12s2Aw19">
 <src.rf>manual</src.rf>
@@ -6133,6 +6176,7 @@
 <AM lemma="profesionalismus" src="auto">NNIS4-----A----</AM>
 <AM lemma="profesionalizmus_,x" src="auto">NNIS1-----A----</AM>
 <AM lemma="profesionalizmus_,x" src="auto" recommended="1">NNIS4-----A----</AM>
+<AM lemma="profesionalismus_,s_^(^DD**profesionalizmus)" src="manual" selected="1">NNIS4-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94207-65-p13s7Aw7">
@@ -6223,7 +6267,10 @@
 <LM>w#w-ln94207-65-p13s7Bw6</LM>
 </w.rf>
 <form>Cup</form>
-<tag lemma="Cup-1_;m_;w_,t_^(pohár,_soutěž;_v_názvech)" src="auto" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="Cup-1_;m_;w_,t_^(pohár,_soutěž;_v_názvech)" src="auto">NNIS1-----A----</AM>
+<AM lemma="Cup-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94207-65-p13s7Bw7">
 <src.rf>manual</src.rf>
@@ -6469,7 +6516,10 @@
 <LM>w#w-ln94207-65-p14s3Aw7</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-2" src="auto" selected="1">Dg-------2A----</tag>
+<tag>
+<AM lemma="hodně-2" src="auto">Dg-------2A----</AM>
+<AM lemma="hodně-3" src="manual" selected="1">Dg-------2A----</AM>
+</tag>
 </m>
 <m id="m-ln94207-65-p14s3Aw8">
 <src.rf>manual</src.rf>
@@ -7295,7 +7345,7 @@
 </w.rf>
 <form>Kariya</form>
 <tag>
-<AM lemma="Kariya_;S" src="orig">NNMS1-----A----</AM>
+<AM lemma="Kariya_;S" src="orig" selected="1">NNMS1-----A----</AM>
 <AM lemma="Kariya_;G" src="auto" recommended="1">NNFS1-----A----</AM>
 </tag>
 </m>

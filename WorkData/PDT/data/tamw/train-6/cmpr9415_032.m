@@ -719,7 +719,10 @@
 <LM>w#w-cmpr9415-032-p5s3w11</LM>
 </w.rf>
 <form>třeba</form>
-<tag lemma="třeba-2" src="auto" selected="1">Db-------------</tag>
+<tag>
+<AM lemma="třeba-2" src="auto">Db-------------</AM>
+<AM lemma="třeba-3" src="manual" selected="1">TT-------------</AM>
+</tag>
 </m>
 <m id="m-cmpr9415-032-p5s3w12">
 <src.rf>manual</src.rf>
@@ -1295,7 +1298,10 @@
 <LM>w#w-cmpr9415-032-p7s1w13</LM>
 </w.rf>
 <form>premií</form>
-<tag lemma="prémie_,x" src="orig" selected="1">NNFS7-----A----</tag>
+<tag>
+<AM lemma="prémie_,x" src="orig">NNFS7-----A----</AM>
+<AM lemma="premie_,i_^(^DS**prémie)" src="manual" selected="1">NNFS7-----A----</AM>
+</tag>
 </m>
 <m id="m-cmpr9415-032-p7s1w14">
 <src.rf>manual</src.rf>
@@ -1323,7 +1329,7 @@
 <form>nejen</form>
 <tag>
 <AM lemma="nejen" src="orig">TT-------------</AM>
-<AM lemma="nejen" src="auto" recommended="1">Db-------------</AM>
+<AM lemma="nejen" src="auto" recommended="1" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m-cmpr9415-032-p7s3w3">

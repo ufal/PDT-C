@@ -126,6 +126,7 @@
 <AM lemma="Reggio_;G" src="auto">NNNS1-----A----</AM>
 <AM lemma="Reggio_;G" src="auto" recommended="1">NNNS4-----A----</AM>
 <AM lemma="Reggio_;G" src="auto">NNNS5-----A----</AM>
+<AM lemma="Reggio-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-lnd91303-102-p5s1w10">
@@ -140,6 +141,7 @@
 <AM lemma="Emilio_;Y_,t" src="auto">NNMS5-----A----</AM>
 <AM lemma="Emílio_;Y_,t_,x" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Emílio_;Y_,t_,x" src="auto">NNMS5-----A----</AM>
+<AM lemma="Emilio-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-lnd91303-102-p5s1w11">
@@ -301,7 +303,10 @@
 <LM>w#w-lnd91303-102-p9s1w1</LM>
 </w.rf>
 <form>ad</form>
-<tag lemma="ad_,t" src="orig" selected="1">RR--1----------</tag>
+<tag>
+<AM lemma="ad_,t" src="orig">RR--1----------</AM>
+<AM lemma="ad-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-lnd91303-102-p9s1w2">
 <src.rf>manual</src.rf>
@@ -327,7 +332,10 @@
 <LM>w#w-lnd91303-102-p11s1w1</LM>
 </w.rf>
 <form>ad</form>
-<tag lemma="ad_,t" src="orig" selected="1">RR--1----------</tag>
+<tag>
+<AM lemma="ad_,t" src="orig">RR--1----------</AM>
+<AM lemma="ad-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-lnd91303-102-p11s1w2">
 <src.rf>manual</src.rf>
@@ -335,7 +343,10 @@
 <LM>w#w-lnd91303-102-p11s1w2</LM>
 </w.rf>
 <form>PMEZ</form>
-<tag lemma="PMEZ_:B_;K_^(Pohár_mistrů_evropských_zemí)" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="PMEZ_:B_;K_^(Pohár_mistrů_evropských_zemí)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="PMEZ-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 </s>
 </mdata>

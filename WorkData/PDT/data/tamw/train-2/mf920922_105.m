@@ -211,7 +211,7 @@
 <form>totiž</form>
 <tag>
 <AM lemma="totiž" src="orig">Db-------------</AM>
-<AM lemma="totiž-1" src="auto" recommended="1">J^-------------</AM>
+<AM lemma="totiž-1" src="auto" recommended="1" selected="1">J^-------------</AM>
 <AM lemma="totiž-2" src="auto">TT-------------</AM>
 </tag>
 </m>
@@ -353,7 +353,7 @@
 <form>Ovšem</form>
 <tag>
 <AM lemma="ovšem-1_^(avšak,_však;_odporovací_spojka)" src="orig">J^-------------</AM>
-<AM lemma="ovšem" src="auto" recommended="1">TT-------------</AM>
+<AM lemma="ovšem" src="auto" recommended="1" selected="1">TT-------------</AM>
 </tag>
 </m>
 <m id="m-mf920922-105-p2s3w2">
@@ -362,7 +362,10 @@
 <LM>w#w-mf920922-105-p2s3w2</LM>
 </w.rf>
 <form>jenom</form>
-<tag lemma="jenom-1" src="auto" selected="1">TT-------------</tag>
+<tag>
+<AM lemma="jenom-1" src="auto">TT-------------</AM>
+<AM lemma="jenom-2_^(pouze)" src="manual" selected="1">Db-------------</AM>
+</tag>
 </m>
 <m id="m-mf920922-105-p2s3w3">
 <src.rf>manual</src.rf>
@@ -388,7 +391,10 @@
 <LM>w#w-mf920922-105-p2s4w1</LM>
 </w.rf>
 <form>Perceptual</form>
-<tag lemma="Perceptual_;m_,t" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="Perceptual_;m_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="Perceptual-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-mf920922-105-p2s4w2">
 <src.rf>manual</src.rf>
@@ -396,7 +402,10 @@
 <LM>w#w-mf920922-105-p2s4w2</LM>
 </w.rf>
 <form>Cells</form>
-<tag lemma="Cell_;m_,t" src="orig" selected="1">NNFPX-----A----</tag>
+<tag>
+<AM lemma="Cell_;m_,t" src="orig">NNFPX-----A----</AM>
+<AM lemma="Cells-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-mf920922-105-p2s4w3">
 <src.rf>manual</src.rf>
@@ -517,6 +526,7 @@
 <AM lemma="renezanční" src="auto">AANS1----1A----</AM>
 <AM lemma="renezanční" src="auto">AANS4----1A----</AM>
 <AM lemma="renezanční" src="auto">AANS5----1A----</AM>
+<AM lemma="renesanční_,s_^(^DD**renezanční)" src="manual" selected="1">AAFS2----1A----</AM>
 </tag>
 </m>
 <m id="m-mf920922-105-p2s6w4">
@@ -671,7 +681,10 @@
 <LM>w#w-mf920922-105-p2s7w13</LM>
 </w.rf>
 <form>WC</form>
-<tag lemma="WC_:B" src="orig" selected="1">NNNXX-----A---8</tag>
+<tag>
+<AM lemma="WC_:B" src="orig">NNNXX-----A---8</AM>
+<AM lemma="WC-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920922-105-p2s7w14">
 <src.rf>manual</src.rf>
@@ -703,7 +716,10 @@
 <LM>w#w-mf920922-105-p2s7w17</LM>
 </w.rf>
 <form>peep</form>
-<tag lemma="peep_,t" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="peep_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="peep-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-mf920922-105-p2s7w18">
 <src.rf>manual</src.rf>
@@ -711,7 +727,10 @@
 <LM>w#w-mf920922-105-p2s7w18</LM>
 </w.rf>
 <form>show</form>
-<tag lemma="show" src="orig" selected="1">NNFXX-----A----</tag>
+<tag>
+<AM lemma="show" src="orig">NNFXX-----A----</AM>
+<AM lemma="show-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-mf920922-105-p2s7w19">
 <src.rf>manual</src.rf>
@@ -788,7 +807,7 @@
 <tag>
 <AM lemma="tedy" src="orig">Db-------------</AM>
 <AM lemma="tedy-1" src="auto">TT-------------</AM>
-<AM lemma="tedy-2" src="auto" recommended="1">J^-------------</AM>
+<AM lemma="tedy-2" src="auto" recommended="1" selected="1">J^-------------</AM>
 </tag>
 </m>
 <m id="m-mf920922-105-p2s8w3">
@@ -1474,6 +1493,7 @@
 <AM lemma="Clos_;S" src="auto">NNMS4-----A----</AM>
 <AM lemma="Close_;S" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Close_;S" src="auto">NNMS5-----A----</AM>
+<AM lemma="Close-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-mf920922-105-p2s15w6">
@@ -1482,7 +1502,10 @@
 <LM>w#w-mf920922-105-p2s15w6</LM>
 </w.rf>
 <form>Call</form>
-<tag lemma="call_,t" src="orig" selected="1">NNIXX-----A----</tag>
+<tag>
+<AM lemma="call_,t" src="orig">NNIXX-----A----</AM>
+<AM lemma="Call-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-mf920922-105-p2s15w7">
 <src.rf>manual</src.rf>
@@ -2262,7 +2285,10 @@
 <LM>w#w-mf920922-105-p2s21w6</LM>
 </w.rf>
 <form>li</form>
-<tag lemma="li-1" src="auto" selected="1">TT-------------</tag>
+<tag>
+<AM lemma="li-1" src="auto">TT-------------</AM>
+<AM lemma="li-2" src="manual" selected="1">J,-------------</AM>
+</tag>
 </m>
 <m id="m-mf920922-105-p2s21w7">
 <src.rf>manual</src.rf>

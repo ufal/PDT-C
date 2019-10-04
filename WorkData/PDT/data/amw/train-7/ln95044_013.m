@@ -66,7 +66,7 @@
 <AM lemma="salmovský" src="auto">AAIP4----1A---6</AM>
 <AM lemma="salmovský" src="auto">AAIP5----1A---6</AM>
 <AM lemma="salmovský" src="auto">AAIS1----1A----</AM>
-<AM lemma="salmovský" src="auto" recommended="1">AAIS4----1A----</AM>
+<AM lemma="salmovský" src="auto" recommended="1" selected="1">AAIS4----1A----</AM>
 <AM lemma="salmovský" src="auto">AAIS5----1A----</AM>
 <AM lemma="salmovský" src="auto">AAMP1----1A---6</AM>
 <AM lemma="salmovský" src="auto">AAMP4----1A---6</AM>
@@ -247,7 +247,7 @@
 <AM lemma="Salmovský-2_^(palác)" src="orig">AAIS2----1A----</AM>
 <AM lemma="Salmovský_;S" src="auto">NNMS2-----A----</AM>
 <AM lemma="Salmovský_;S" src="auto">NNMS4-----A----</AM>
-<AM lemma="salmovský" src="auto" recommended="1">AAIS2----1A----</AM>
+<AM lemma="salmovský" src="auto" recommended="1" selected="1">AAIS2----1A----</AM>
 <AM lemma="salmovský" src="auto">AAMS2----1A----</AM>
 <AM lemma="salmovský" src="auto">AAMS4----1A----</AM>
 <AM lemma="salmovský" src="auto">AANS2----1A----</AM>
@@ -293,7 +293,10 @@
 <LM>w#w-ln95044-013-p2s2w1</LM>
 </w.rf>
 <form>LN</form>
-<tag lemma="LN-1_:B_;R_^(Lidové_noviny,_deník)" src="orig" selected="1">NNFPX-----A---8</tag>
+<tag>
+<AM lemma="LN-1_:B_;R_^(Lidové_noviny,_deník)" src="orig">NNFPX-----A---8</AM>
+<AM lemma="LN-1_:B_;K_;R_^(Lidové_noviny)" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln95044-013-p2s2w2">
 <src.rf>manual</src.rf>
@@ -471,7 +474,10 @@
 <LM>w#w-ln95044-013-p3s1w11</LM>
 </w.rf>
 <form>A</form>
-<tag lemma="A-0_:B_;Y" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="A-0_:B_;Y" src="orig">NNFXX-----A---8</AM>
+<AM lemma="A-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln95044-013-p3s1w12">
 <src.rf>manual</src.rf>
@@ -783,7 +789,7 @@
 <AM lemma="salmovský" src="auto">AAIP1----1A---6</AM>
 <AM lemma="salmovský" src="auto">AAIP4----1A---6</AM>
 <AM lemma="salmovský" src="auto">AAIP5----1A---6</AM>
-<AM lemma="salmovský" src="auto" recommended="1">AAIS1----1A----</AM>
+<AM lemma="salmovský" src="auto" recommended="1" selected="1">AAIS1----1A----</AM>
 <AM lemma="salmovský" src="auto">AAIS4----1A----</AM>
 <AM lemma="salmovský" src="auto">AAIS5----1A----</AM>
 <AM lemma="salmovský" src="auto">AAMP1----1A---6</AM>
@@ -1143,7 +1149,7 @@
 <AM lemma="řád-1_^(právní;_pořádek;_úroveň)" src="orig">NNIS6-----A----</AM>
 <AM lemma="řád" src="auto">NNIS2-----A----</AM>
 <AM lemma="řád" src="auto">NNIS3-----A----</AM>
-<AM lemma="řád" src="auto" recommended="1">NNIS6-----A---1</AM>
+<AM lemma="řád" src="auto" recommended="1" selected="1">NNIS6-----A---1</AM>
 </tag>
 </m>
 <m id="m-ln95044-013-p4s3w23">
@@ -1282,7 +1288,10 @@
 <LM>w#w-ln95044-013-p4s4w13</LM>
 </w.rf>
 <form>JUDr</form>
-<tag lemma="JUDr-2_:B_^(doktorka_práv)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="JUDr-2_:B_^(doktorka_práv)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="JUDr_:B_^(doktor_práv)" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln95044-013-p4s4w14">
 <src.rf>manual</src.rf>
@@ -1398,7 +1407,7 @@
 <form>mnohamiliardového</form>
 <tag>
 <AM lemma="mnohomiliardový" src="orig">AAIS2----1A----</AM>
-<AM lemma="mnohamiliardový" src="auto" recommended="1">AAIS2----1A----</AM>
+<AM lemma="mnohamiliardový" src="auto" recommended="1" selected="1">AAIS2----1A----</AM>
 <AM lemma="mnohamiliardový" src="auto">AAMS2----1A----</AM>
 <AM lemma="mnohamiliardový" src="auto">AAMS4----1A----</AM>
 <AM lemma="mnohamiliardový" src="auto">AANS2----1A----</AM>
@@ -1676,7 +1685,10 @@
 <LM>w#w-ln95044-013-p5s2w21</LM>
 </w.rf>
 <form>A</form>
-<tag lemma="A-0_:B_;Y" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="A-0_:B_;Y" src="orig">NNFXX-----A---8</AM>
+<AM lemma="A-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln95044-013-p5s2w22">
 <src.rf>manual</src.rf>

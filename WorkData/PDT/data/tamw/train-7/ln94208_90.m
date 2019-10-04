@@ -698,6 +698,8 @@
 <AM lemma="UNESCO_:B_;K" src="orig">NNNXX-----A---8</AM>
 <AM lemma="UNESCO_:B" src="auto">NNXXX-----A---8</AM>
 <AM lemma="Unesco_:B_;K_,t" src="auto" recommended="1">NNNXX-----A----</AM>
+<AM lemma="UNESCO-88_:B" src="manual">NNXXX-----A----</AM>
+<AM lemma="UNESCO_:B_^(United_Nations_Educational_Scientific_and_Cultural_Organization)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94208-90-p3s1w33">
@@ -1333,7 +1335,7 @@
 <AM lemma="dřívější" src="auto">AAFS4----2A----</AM>
 <AM lemma="dřívější" src="auto">AAFS5----2A----</AM>
 <AM lemma="dřívější" src="auto">AAFS6----2A----</AM>
-<AM lemma="dřívější" src="auto" recommended="1">AAFS7----2A----</AM>
+<AM lemma="dřívější" src="auto" recommended="1" selected="1">AAFS7----2A----</AM>
 <AM lemma="dřívější" src="auto">AAIP1----2A----</AM>
 <AM lemma="dřívější" src="auto">AAIP4----2A----</AM>
 <AM lemma="dřívější" src="auto">AAIP5----2A----</AM>
@@ -1449,7 +1451,10 @@
 <LM>w#w-ln94208-90-p5s4w4</LM>
 </w.rf>
 <form>přijel</form>
-<tag lemma="přijet" src="auto" selected="1">VpYS---XR-AA---</tag>
+<tag>
+<AM lemma="přijet" src="auto">VpYS---XR-AA---</AM>
+<AM lemma="přijet_:W" src="manual" selected="1">VpYS---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-ln94208-90-p5s4w5">
 <src.rf>manual</src.rf>
@@ -1651,7 +1656,10 @@
 <LM>w#w-ln94208-90-p5s5w4</LM>
 </w.rf>
 <form>jako</form>
-<tag lemma="jako-1" src="auto" selected="1">J,-------------</tag>
+<tag>
+<AM lemma="jako-1" src="auto" selected="1">J,-------------</AM>
+<AM lemma="jako-2" src="manual">Db-------------</AM>
+</tag>
 </m>
 <m id="m-ln94208-90-p5s5w5">
 <src.rf>manual</src.rf>

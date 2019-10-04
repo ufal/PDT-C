@@ -191,7 +191,10 @@
 <LM>w#w-lnd92256-057-p3s1w11</LM>
 </w.rf>
 <form>ČSFR</form>
-<tag lemma="ČSFR-1_:B_;G_^(Čs._federativní_republika)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ČSFR-1_:B_;G_^(Čs._federativní_republika)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČSFR-1_:B_;G_^(Čs._federativní_republika)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92256-057-p3s1w12">
 <src.rf>manual</src.rf>
@@ -247,7 +250,10 @@
 <LM>w#w-lnd92256-057-p3s1w18</LM>
 </w.rf>
 <form>MSD</form>
-<tag lemma="MSD-1_:B_;R_,t_^(Microsoft_Diagnostic)" src="auto" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="MSD-1_:B_;R_,t_^(Microsoft_Diagnostic)" src="auto">NNIXX-----A---8</AM>
+<AM lemma="MSD-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92256-057-p3s1w19">
 <src.rf>manual</src.rf>
@@ -369,7 +375,10 @@
 <LM>w#w-lnd92256-057-p3s2w11</LM>
 </w.rf>
 <form>JUDr</form>
-<tag lemma="JUDr-1_:B_^(doktor_práv)" src="orig" selected="1">NNMXX-----A---8</tag>
+<tag>
+<AM lemma="JUDr-1_:B_^(doktor_práv)" src="orig">NNMXX-----A---8</AM>
+<AM lemma="JUDr_:B_^(doktor_práv)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92256-057-p3s2w12">
 <src.rf>manual</src.rf>
@@ -441,7 +450,10 @@
 <LM>w#w-lnd92256-057-p3s2w20</LM>
 </w.rf>
 <form>ČSAV</form>
-<tag lemma="ČSAV-1_:B_;K_^(Čs._akademie_věd)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ČSAV-1_:B_;K_^(Čs._akademie_věd)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČSAV-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92256-057-p3s2w21">
 <src.rf>manual</src.rf>
@@ -523,7 +535,10 @@
 <LM>w#w-lnd92256-057-p4s1w9</LM>
 </w.rf>
 <form>OSN</form>
-<tag lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92256-057-p4s1w10">
 <src.rf>manual</src.rf>
@@ -653,7 +668,10 @@
 <LM>w#w-lnd92256-057-p4s2w15</LM>
 </w.rf>
 <form>ČSFR</form>
-<tag lemma="ČSFR-1_:B_;G_^(Čs._federativní_republika)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ČSFR-1_:B_;G_^(Čs._federativní_republika)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČSFR-1_:B_;G_^(Čs._federativní_republika)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92256-057-p4s2w16">
 <src.rf>manual</src.rf>
@@ -765,7 +783,10 @@
 <LM>w#w-lnd92256-057-p4s2w29</LM>
 </w.rf>
 <form>OSN</form>
-<tag lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92256-057-p4s2w30">
 <src.rf>manual</src.rf>
@@ -887,7 +908,10 @@
 <LM>w#w-lnd92256-057-p4s3w10</LM>
 </w.rf>
 <form>MSD</form>
-<tag lemma="MSD-1_:B_;R_,t_^(Microsoft_Diagnostic)" src="auto" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="MSD-1_:B_;R_,t_^(Microsoft_Diagnostic)" src="auto">NNIXX-----A---8</AM>
+<AM lemma="MSD-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92256-057-p4s3w11">
 <src.rf>manual</src.rf>
@@ -1093,7 +1117,10 @@
 <LM>w#w-lnd92256-057-p5s3w5</LM>
 </w.rf>
 <form>MSD</form>
-<tag lemma="MSD-1_:B_;R_,t_^(Microsoft_Diagnostic)" src="auto" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="MSD-1_:B_;R_,t_^(Microsoft_Diagnostic)" src="auto">NNIXX-----A---8</AM>
+<AM lemma="MSD-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92256-057-p5s3w6">
 <src.rf>manual</src.rf>
@@ -1157,7 +1184,10 @@
 <LM>w#w-lnd92256-057-p5s3w13</LM>
 </w.rf>
 <form>stran</form>
-<tag lemma="strana-3_^(u_soudu,_na_úřadě,_smluvní_strany;_na_něčí_straně)" src="orig" selected="1">NNFP2-----A----</tag>
+<tag>
+<AM lemma="strana-3_^(u_soudu,_na_úřadě,_smluvní_strany;_na_něčí_straně)" src="orig">NNFP2-----A----</AM>
+<AM lemma="strana" src="manual" selected="1">NNFP2-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92256-057-p5s3w14">
 <src.rf>manual</src.rf>
@@ -1625,7 +1655,10 @@
 <LM>w#w-lnd92256-057-p5s5w20</LM>
 </w.rf>
 <form>strany</form>
-<tag lemma="strana-3_^(u_soudu,_na_úřadě,_smluvní_strany;_na_něčí_straně)" src="orig" selected="1">NNFS2-----A----</tag>
+<tag>
+<AM lemma="strana-3_^(u_soudu,_na_úřadě,_smluvní_strany;_na_něčí_straně)" src="orig">NNFS2-----A----</AM>
+<AM lemma="strana" src="manual" selected="1">NNFS2-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92256-057-p5s5w21">
 <src.rf>manual</src.rf>
@@ -1659,7 +1692,10 @@
 <LM>w#w-lnd92256-057-p5s6w3</LM>
 </w.rf>
 <form>ČSFR</form>
-<tag lemma="ČSFR-1_:B_;G_^(Čs._federativní_republika)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ČSFR-1_:B_;G_^(Čs._federativní_republika)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČSFR-1_:B_;G_^(Čs._federativní_republika)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92256-057-p5s6w4">
 <src.rf>manual</src.rf>
@@ -1691,7 +1727,10 @@
 <LM>w#w-lnd92256-057-p5s6w7</LM>
 </w.rf>
 <form>MSD</form>
-<tag lemma="MSD-1_:B_;R_,t_^(Microsoft_Diagnostic)" src="auto" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="MSD-1_:B_;R_,t_^(Microsoft_Diagnostic)" src="auto">NNIXX-----A---8</AM>
+<AM lemma="MSD-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92256-057-p5s6w8">
 <src.rf>manual</src.rf>
@@ -1723,7 +1762,10 @@
 <LM>w#w-lnd92256-057-p5s6w11</LM>
 </w.rf>
 <form>přijme</form>
-<tag lemma="přijmout" src="auto" selected="1">VB-S---3P-AA---</tag>
+<tag>
+<AM lemma="přijmout" src="auto">VB-S---3P-AA---</AM>
+<AM lemma="přijmout_:W" src="manual" selected="1">VB-S---3P-AA---</AM>
+</tag>
 </m>
 <m id="m-lnd92256-057-p5s6w12">
 <src.rf>manual</src.rf>
@@ -1749,7 +1791,10 @@
 <LM>w#w-lnd92256-057-p5s7w2</LM>
 </w.rf>
 <form>ČSFR</form>
-<tag lemma="ČSFR-1_:B_;G_^(Čs._federativní_republika)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ČSFR-1_:B_;G_^(Čs._federativní_republika)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČSFR-1_:B_;G_^(Čs._federativní_republika)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92256-057-p5s7w3">
 <src.rf>manual</src.rf>
@@ -1805,7 +1850,10 @@
 <LM>w#w-lnd92256-057-p5s7w9</LM>
 </w.rf>
 <form>MSD</form>
-<tag lemma="MSD-1_:B_;R_,t_^(Microsoft_Diagnostic)" src="auto" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="MSD-1_:B_;R_,t_^(Microsoft_Diagnostic)" src="auto">NNIXX-----A---8</AM>
+<AM lemma="MSD-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92256-057-p5s7w10">
 <src.rf>manual</src.rf>
@@ -1861,7 +1909,10 @@
 <LM>w#w-lnd92256-057-p5s7w16</LM>
 </w.rf>
 <form>vymezeny</form>
-<tag lemma="vymezit" src="orig" selected="1">VsTP---XX-AP---</tag>
+<tag>
+<AM lemma="vymezit" src="orig">VsTP---XX-AP---</AM>
+<AM lemma="vymezit_:W" src="manual" selected="1">VsTP---XX-AP---</AM>
+</tag>
 </m>
 <m id="m-lnd92256-057-p5s7w17">
 <src.rf>manual</src.rf>
@@ -1877,7 +1928,10 @@
 <LM>w#w-lnd92256-057-p5s7w18</LM>
 </w.rf>
 <form>čl</form>
-<tag lemma="článek_:B" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="článek_:B" src="orig">NNIXX-----A---8</AM>
+<AM lemma="článek" src="manual" selected="1">NNIXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd92256-057-p5s7w19">
 <src.rf>manual</src.rf>
@@ -1951,7 +2005,10 @@
 <LM>w#w-lnd92256-057-p5s8w5</LM>
 </w.rf>
 <form>MSD</form>
-<tag lemma="MSD-1_:B_;R_,t_^(Microsoft_Diagnostic)" src="auto" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="MSD-1_:B_;R_,t_^(Microsoft_Diagnostic)" src="auto">NNIXX-----A---8</AM>
+<AM lemma="MSD-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92256-057-p5s8w6">
 <src.rf>manual</src.rf>
@@ -2057,7 +2114,10 @@
 <LM>w#w-lnd92256-057-p6s1w2</LM>
 </w.rf>
 <form>ČSFR</form>
-<tag lemma="ČSFR-1_:B_;G_^(Čs._federativní_republika)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ČSFR-1_:B_;G_^(Čs._federativní_republika)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČSFR-1_:B_;G_^(Čs._federativní_republika)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92256-057-p6s1w3">
 <src.rf>manual</src.rf>
@@ -2230,7 +2290,7 @@
 <tag>
 <AM lemma="tedy" src="orig">Db-------------</AM>
 <AM lemma="tedy-1" src="auto">TT-------------</AM>
-<AM lemma="tedy-2" src="auto" recommended="1">J^-------------</AM>
+<AM lemma="tedy-2" src="auto" recommended="1" selected="1">J^-------------</AM>
 </tag>
 </m>
 <m id="m-lnd92256-057-p6s2w13">
@@ -2271,7 +2331,10 @@
 <LM>w#w-lnd92256-057-p6s2w17</LM>
 </w.rf>
 <form>C</form>
-<tag lemma="c-3_^(označení_pomocí_písmene)" src="orig" selected="1">NNNXX-----A----</tag>
+<tag>
+<AM lemma="c-3_^(označení_pomocí_písmene)" src="orig">NNNXX-----A----</AM>
+<AM lemma="C-33_^(označení_pomocí_písmene)" src="manual" selected="1">NNNXX-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92256-057-p6s2w18">
 <src.rf>manual</src.rf>
@@ -2305,7 +2368,10 @@
 <LM>w#w-lnd92256-057-p6s3w2</LM>
 </w.rf>
 <form>ČSFR</form>
-<tag lemma="ČSFR-1_:B_;G_^(Čs._federativní_republika)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ČSFR-1_:B_;G_^(Čs._federativní_republika)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČSFR-1_:B_;G_^(Čs._federativní_republika)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92256-057-p6s3w3">
 <src.rf>manual</src.rf>
@@ -2321,7 +2387,10 @@
 <LM>w#w-lnd92256-057-p6s3w4</LM>
 </w.rf>
 <form>MSD</form>
-<tag lemma="MSD-1_:B_;R_,t_^(Microsoft_Diagnostic)" src="auto" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="MSD-1_:B_;R_,t_^(Microsoft_Diagnostic)" src="auto">NNIXX-----A---8</AM>
+<AM lemma="MSD-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92256-057-p6s3w5">
 <src.rf>manual</src.rf>
@@ -2329,7 +2398,10 @@
 <LM>w#w-lnd92256-057-p6s3w5</LM>
 </w.rf>
 <form>přijme</form>
-<tag lemma="přijmout" src="auto" selected="1">VB-S---3P-AA---</tag>
+<tag>
+<AM lemma="přijmout" src="auto">VB-S---3P-AA---</AM>
+<AM lemma="přijmout_:W" src="manual" selected="1">VB-S---3P-AA---</AM>
+</tag>
 </m>
 <m id="m-lnd92256-057-p6s3w6">
 <src.rf>manual</src.rf>
@@ -2457,7 +2529,10 @@
 <LM>w#w-lnd92256-057-p6s3w21</LM>
 </w.rf>
 <form>r</form>
-<tag lemma="rok_:B" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="rok_:B" src="orig">NNIXX-----A---8</AM>
+<AM lemma="rok" src="manual" selected="1">NNIXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd92256-057-p6s3w22">
 <src.rf>manual</src.rf>
@@ -2515,7 +2590,10 @@
 <LM>w#w-lnd92256-057-p6s4w4</LM>
 </w.rf>
 <form>MSD</form>
-<tag lemma="MSD-1_:B_;R_,t_^(Microsoft_Diagnostic)" src="auto" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="MSD-1_:B_;R_,t_^(Microsoft_Diagnostic)" src="auto">NNIXX-----A---8</AM>
+<AM lemma="MSD-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92256-057-p6s4w5">
 <src.rf>manual</src.rf>
@@ -2669,7 +2747,10 @@
 <LM>w#w-lnd92256-057-p7s1w6</LM>
 </w.rf>
 <form>MSD</form>
-<tag lemma="MSD-1_:B_;R_,t_^(Microsoft_Diagnostic)" src="auto" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="MSD-1_:B_;R_,t_^(Microsoft_Diagnostic)" src="auto">NNIXX-----A---8</AM>
+<AM lemma="MSD-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92256-057-p7s1w7">
 <src.rf>manual</src.rf>
@@ -2717,7 +2798,11 @@
 <LM>w#w-lnd92256-057-p7s1w12</LM>
 </w.rf>
 <form>ČSFR</form>
-<tag lemma="ČSFR-1_:B_;G_^(Čs._federativní_republika)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ČSFR-1_:B_;G_^(Čs._federativní_republika)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČSFR-88_:B" src="manual">NNXXX-----A----</AM>
+<AM lemma="ČSFR-1_:B_;G_^(Čs._federativní_republika)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92256-057-p7s1w13">
 <src.rf>manual</src.rf>
@@ -2791,7 +2876,10 @@
 <LM>w#w-lnd92256-057-p7s2w8</LM>
 </w.rf>
 <form>strana</form>
-<tag lemma="strana-3_^(u_soudu,_na_úřadě,_smluvní_strany;_na_něčí_straně)" src="orig" selected="1">NNFS1-----A----</tag>
+<tag>
+<AM lemma="strana-3_^(u_soudu,_na_úřadě,_smluvní_strany;_na_něčí_straně)" src="orig">NNFS1-----A----</AM>
+<AM lemma="strana" src="manual" selected="1">NNFS1-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92256-057-p7s2w9">
 <src.rf>manual</src.rf>
@@ -2905,7 +2993,10 @@
 <LM>w#w-lnd92256-057-p7s3w7</LM>
 </w.rf>
 <form>MSD</form>
-<tag lemma="MSD-1_:B_;R_,t_^(Microsoft_Diagnostic)" src="auto" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="MSD-1_:B_;R_,t_^(Microsoft_Diagnostic)" src="auto">NNIXX-----A---8</AM>
+<AM lemma="MSD-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92256-057-p7s3w8">
 <src.rf>manual</src.rf>
@@ -2913,7 +3004,10 @@
 <LM>w#w-lnd92256-057-p7s3w8</LM>
 </w.rf>
 <form>začne</form>
-<tag lemma="začít-1_^(začnout)" src="auto" selected="1">VB-S---3P-AA---</tag>
+<tag>
+<AM lemma="začít-1_^(začnout)" src="auto">VB-S---3P-AA---</AM>
+<AM lemma="začít-1_:W_^(začnout)" src="manual" selected="1">VB-S---3P-AA---</AM>
+</tag>
 </m>
 <m id="m-lnd92256-057-p7s3w9">
 <src.rf>manual</src.rf>
@@ -2945,7 +3039,10 @@
 <LM>w#w-lnd92256-057-p7s3w12</LM>
 </w.rf>
 <form>ČSFR</form>
-<tag lemma="ČSFR-1_:B_;G_^(Čs._federativní_republika)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ČSFR-1_:B_;G_^(Čs._federativní_republika)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČSFR-1_:B_;G_^(Čs._federativní_republika)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92256-057-p7s3w13">
 <src.rf>manual</src.rf>
@@ -2979,7 +3076,10 @@
 <LM>w#w-lnd92256-057-p7s4w3</LM>
 </w.rf>
 <form>MSD</form>
-<tag lemma="MSD-1_:B_;R_,t_^(Microsoft_Diagnostic)" src="auto" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="MSD-1_:B_;R_,t_^(Microsoft_Diagnostic)" src="auto">NNIXX-----A---8</AM>
+<AM lemma="MSD-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92256-057-p7s4w4">
 <src.rf>manual</src.rf>
@@ -3093,7 +3193,10 @@
 <LM>w#w-lnd92256-057-p7s5w5</LM>
 </w.rf>
 <form>MSD</form>
-<tag lemma="MSD-1_:B_;R_,t_^(Microsoft_Diagnostic)" src="auto" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="MSD-1_:B_;R_,t_^(Microsoft_Diagnostic)" src="auto">NNIXX-----A---8</AM>
+<AM lemma="MSD-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92256-057-p7s5w6">
 <src.rf>manual</src.rf>
@@ -3105,6 +3208,7 @@
 <AM lemma="začít-1" src="orig">Vf--------A----</AM>
 <AM lemma="začít-1_^(začnout)" src="auto" recommended="1">Vf--------A----</AM>
 <AM lemma="začít-2_^(pocítit)" src="auto">Vf--------A----</AM>
+<AM lemma="začít-1_:W_^(začnout)" src="manual" selected="1">Vf--------A----</AM>
 </tag>
 </m>
 <m id="m-lnd92256-057-p7s5w7">
@@ -3446,7 +3550,10 @@
 <LM>w#w-lnd92256-057-p7s7w24</LM>
 </w.rf>
 <form>MSD</form>
-<tag lemma="MSD-1_:B_;R_,t_^(Microsoft_Diagnostic)" src="auto" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="MSD-1_:B_;R_,t_^(Microsoft_Diagnostic)" src="auto">NNIXX-----A---8</AM>
+<AM lemma="MSD-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92256-057-p7s7w25">
 <src.rf>manual</src.rf>
@@ -3512,7 +3619,10 @@
 <LM>w#w-lnd92256-057-p8s1w4</LM>
 </w.rf>
 <form>ČSFR</form>
-<tag lemma="ČSFR-1_:B_;G_^(Čs._federativní_republika)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ČSFR-1_:B_;G_^(Čs._federativní_republika)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČSFR-1_:B_;G_^(Čs._federativní_republika)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92256-057-p8s1w5">
 <src.rf>manual</src.rf>
@@ -3688,7 +3798,10 @@
 <LM>w#w-lnd92256-057-p8s1w26</LM>
 </w.rf>
 <form>nepřevezme</form>
-<tag lemma="převzít_^(př._od_někoho_věc,_zodpovědnost...)" src="orig" selected="1">VB-S---3P-NA---</tag>
+<tag>
+<AM lemma="převzít_^(př._od_někoho_věc,_zodpovědnost...)" src="orig">VB-S---3P-NA---</AM>
+<AM lemma="převzít_:W_^(př._od_někoho_věc,_zodpovědnost...)" src="manual" selected="1">VB-S---3P-NA---</AM>
+</tag>
 </m>
 <m id="m-lnd92256-057-p8s1w27">
 <src.rf>manual</src.rf>
@@ -3704,7 +3817,10 @@
 <LM>w#w-lnd92256-057-p8s1w28</LM>
 </w.rf>
 <form>nedojde</form>
-<tag lemma="dojít" src="orig" selected="1">VB-S---3P-NA---</tag>
+<tag>
+<AM lemma="dojít" src="orig">VB-S---3P-NA---</AM>
+<AM lemma="dojít_:W" src="manual" selected="1">VB-S---3P-NA---</AM>
+</tag>
 </m>
 <m id="m-lnd92256-057-p8s1w29">
 <src.rf>manual</src.rf>
@@ -3890,7 +4006,10 @@
 <LM>w#w-lnd92256-057-p8s2w17</LM>
 </w.rf>
 <form>mj</form>
-<tag lemma="mj-1_:B_^(mimo_jiné)" src="orig" selected="1">Db------------8</tag>
+<tag>
+<AM lemma="mj-1_:B_^(mimo_jiné)" src="orig">Db------------8</AM>
+<AM lemma="mj-1_:B_^(mimo_jiné)" src="manual" selected="1">Db-------------</AM>
+</tag>
 </m>
 <m id="m-lnd92256-057-p8s2w18">
 <src.rf>manual</src.rf>
@@ -4004,7 +4123,10 @@
 <LM>w#w-lnd92256-057-p9s1w2</LM>
 </w.rf>
 <form>nel</form>
-<tag lemma="nel-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="nel-99_:B_;S" src="orig">NNXXX-----A---8</AM>
+<AM lemma="nel-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92256-057-p9s1w3">
 <src.rf>manual</src.rf>

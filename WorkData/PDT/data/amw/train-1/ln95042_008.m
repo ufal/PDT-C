@@ -59,7 +59,10 @@
 <LM>w#w-ln95042-008-p1s1w6</LM>
 </w.rf>
 <form>ČEZ</form>
-<tag lemma="ČEZ-1_:B_;K_^(České_energetické_závody)" src="orig" selected="1">NNIPX-----A---8</tag>
+<tag>
+<AM lemma="ČEZ-1_:B_;K_^(České_energetické_závody)" src="orig">NNIPX-----A---8</AM>
+<AM lemma="ČEZ-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln95042-008-p1s1w7">
 <src.rf>manual</src.rf>
@@ -181,7 +184,10 @@
 <LM>w#w-ln95042-008-p2s1w14</LM>
 </w.rf>
 <form>National</form>
-<tag lemma="National-1_;K_,t_^(souč._názvů,_např._N._Semiconductor)" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="National-1_;K_,t_^(souč._názvů,_např._N._Semiconductor)" src="orig">AAXXX----1A----</AM>
+<AM lemma="National-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln95042-008-p2s1w15">
 <src.rf>manual</src.rf>
@@ -189,7 +195,10 @@
 <LM>w#w-ln95042-008-p2s1w15</LM>
 </w.rf>
 <form>Power</form>
-<tag lemma="Power_;G" src="orig" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="Power_;G" src="orig">NNIS1-----A----</AM>
+<AM lemma="Power-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln95042-008-p2s1w16">
 <src.rf>manual</src.rf>
@@ -205,7 +214,10 @@
 <LM>w#w-ln95042-008-p2s1w17</LM>
 </w.rf>
 <form>PowerGen</form>
-<tag lemma="PowerGen_;K_,t" src="orig" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="PowerGen_;K_,t" src="orig">NNIS1-----A----</AM>
+<AM lemma="PowerGen_;K" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95042-008-p2s1w18">
 <src.rf>manual</src.rf>
@@ -335,7 +347,10 @@
 <LM>w#w-ln95042-008-p2s2w15</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-2" src="auto" selected="1">Dg-------2A----</tag>
+<tag>
+<AM lemma="hodně-2" src="auto">Dg-------2A----</AM>
+<AM lemma="hodně-3" src="manual" selected="1">Dg-------2A----</AM>
+</tag>
 </m>
 <m id="m-ln95042-008-p2s2w16">
 <src.rf>manual</src.rf>
@@ -466,7 +481,10 @@
 <LM>w#w-ln95042-008-p2s3w4</LM>
 </w.rf>
 <form>Financial</form>
-<tag lemma="Financial_;R_,t" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="Financial_;R_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="Financial-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln95042-008-p2s3w5">
 <src.rf>manual</src.rf>
@@ -474,7 +492,10 @@
 <LM>w#w-ln95042-008-p2s3w5</LM>
 </w.rf>
 <form>Times</form>
-<tag lemma="Times-1_;K_,t_^(souč._názvů,_např._The_Times)" src="orig" selected="1">NNIPX-----A----</tag>
+<tag>
+<AM lemma="Times-1_;K_,t_^(souč._názvů,_např._The_Times)" src="orig">NNIPX-----A----</AM>
+<AM lemma="Times-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln95042-008-p2s3w6">
 <src.rf>manual</src.rf>

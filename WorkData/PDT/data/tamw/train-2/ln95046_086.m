@@ -383,7 +383,10 @@
 <LM>w#w-ln95046-086-p2s1Bw36</LM>
 </w.rf>
 <form>ODS</form>
-<tag lemma="ODS-1_:B_;K_;p_^(Občanská_demokratická_strana)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ODS-1_:B_;K_;p_^(Občanská_demokratická_strana)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ODS-1_:B_;K_^(Občanská_demokratická_strana)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95046-086-p2s1Bw37">
 <src.rf>manual</src.rf>
@@ -661,7 +664,7 @@
 <form>třeba</form>
 <tag>
 <AM lemma="třeba-1" src="orig">ACNS------A----</AM>
-<AM lemma="třeba-2" src="auto" recommended="1">Db-------------</AM>
+<AM lemma="třeba-2" src="auto" recommended="1" selected="1">Db-------------</AM>
 <AM lemma="třeba-3" src="auto">TT-------------</AM>
 </tag>
 </m>
@@ -809,7 +812,10 @@
 <LM>w#w-ln95046-086-p3s2w4</LM>
 </w.rf>
 <form>ČMUS</form>
-<tag lemma="ČMUS_:B_;K_^(polit._strana_Českomoravská_unie_středu)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ČMUS_:B_;K_^(polit._strana_Českomoravská_unie_středu)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČMUS-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95046-086-p3s2w5">
 <src.rf>manual</src.rf>
@@ -1059,7 +1065,10 @@
 <LM>w#w-ln95046-086-p3s3w8</LM>
 </w.rf>
 <form>ČR</form>
-<tag lemma="ČR-1_:B_;G_^(Česká_republika)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95046-086-p3s3w9">
 <src.rf>manual</src.rf>
@@ -1751,7 +1760,10 @@
 <LM>w#w-ln95046-086-p3s5w29</LM>
 </w.rf>
 <form>ODS</form>
-<tag lemma="ODS-1_:B_;K_;p_^(Občanská_demokratická_strana)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ODS-1_:B_;K_;p_^(Občanská_demokratická_strana)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ODS-1_:B_;K_^(Občanská_demokratická_strana)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95046-086-p3s5w30">
 <src.rf>manual</src.rf>
@@ -2051,7 +2063,10 @@
 <LM>w#w-ln95046-086-p4s1w18</LM>
 </w.rf>
 <form>ČMUS</form>
-<tag lemma="ČMUS_:B_;K_^(polit._strana_Českomoravská_unie_středu)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ČMUS_:B_;K_^(polit._strana_Českomoravská_unie_středu)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČMUS-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95046-086-p4s1w19">
 <src.rf>manual</src.rf>

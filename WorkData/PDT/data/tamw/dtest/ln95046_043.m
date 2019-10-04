@@ -1520,7 +1520,7 @@
 <form>totiž</form>
 <tag>
 <AM lemma="totiž" src="orig">Db-------------</AM>
-<AM lemma="totiž-1" src="auto" recommended="1">J^-------------</AM>
+<AM lemma="totiž-1" src="auto" recommended="1" selected="1">J^-------------</AM>
 <AM lemma="totiž-2" src="auto">TT-------------</AM>
 </tag>
 </m>
@@ -1853,7 +1853,10 @@
 <LM>w#w-ln95046-043-p4s3w26</LM>
 </w.rf>
 <form>může</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag>
+<AM lemma="moci_^(mít_možnost_[něco_dělat])" src="orig">VB-S---3P-AA---</AM>
+<AM lemma="moci_:T_^(mít_možnost_[něco_dělat])" src="manual" selected="1">VB-S---3P-AA---</AM>
+</tag>
 </m>
 <m id="m-ln95046-043-p4s3w27">
 <src.rf>manual</src.rf>
@@ -2047,7 +2050,10 @@
 <LM>w#w-ln95046-043-p4s4w10</LM>
 </w.rf>
 <form>povedou</form>
-<tag lemma="povést" src="orig" selected="1">VB-P---3P-AA---</tag>
+<tag>
+<AM lemma="povést" src="orig">VB-P---3P-AA---</AM>
+<AM lemma="povést_:W" src="manual" selected="1">VB-P---3P-AA---</AM>
+</tag>
 </m>
 <m id="m-ln95046-043-p4s4w11">
 <src.rf>manual</src.rf>
@@ -2095,7 +2101,10 @@
 <LM>w#w-ln95046-043-p4s4w16</LM>
 </w.rf>
 <form>hraje</form>
-<tag lemma="hrát" src="auto" selected="1">VB-S---3P-AA---</tag>
+<tag>
+<AM lemma="hrát" src="auto">VB-S---3P-AA---</AM>
+<AM lemma="hrát_:T" src="manual" selected="1">VB-S---3P-AA---</AM>
+</tag>
 </m>
 <m id="m-ln95046-043-p4s4w17">
 <src.rf>manual</src.rf>
@@ -2153,7 +2162,10 @@
 <LM>w#w-ln95046-043-p4s5w3</LM>
 </w.rf>
 <form>li</form>
-<tag lemma="li-1" src="auto" selected="1">TT-------------</tag>
+<tag>
+<AM lemma="li-1" src="auto">TT-------------</AM>
+<AM lemma="li-2" src="manual" selected="1">J,-------------</AM>
+</tag>
 </m>
 <m id="m-ln95046-043-p4s5w4">
 <src.rf>manual</src.rf>
@@ -2798,6 +2810,7 @@
 <tag>
 <AM lemma="Indian-2_;Y" src="orig">NNMS6-----A----</AM>
 <AM lemma="Indiana_;G" src="auto" recommended="1">NNFS4-----A----</AM>
+<AM lemma="Indiana-2_;Y" src="manual" selected="1">NNMS6-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95046-043-p5s1w49">
@@ -2955,7 +2968,7 @@
 <tag>
 <AM lemma="surrealismus" src="orig">NNIS3-----A----</AM>
 <AM lemma="surrealizmus" src="auto">NNIS2-----A----</AM>
-<AM lemma="surrealizmus" src="auto" recommended="1">NNIS3-----A----</AM>
+<AM lemma="surrealizmus" src="auto" recommended="1" selected="1">NNIS3-----A----</AM>
 <AM lemma="surrealizmus" src="auto">NNIS6-----A----</AM>
 </tag>
 </m>
@@ -3557,7 +3570,10 @@
 <LM>w#w-ln95046-043-p5s6w4</LM>
 </w.rf>
 <form>najde</form>
-<tag lemma="najít" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag>
+<AM lemma="najít" src="orig">VB-S---3P-AA---</AM>
+<AM lemma="najít_:W" src="manual" selected="1">VB-S---3P-AA---</AM>
+</tag>
 </m>
 <m id="m-ln95046-043-p5s6w5">
 <src.rf>manual</src.rf>

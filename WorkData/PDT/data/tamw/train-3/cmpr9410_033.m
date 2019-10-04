@@ -121,7 +121,10 @@
 <LM>w#w-cmpr9410-033-p4s1w4</LM>
 </w.rf>
 <form>vře</form>
-<tag lemma="vřít" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag>
+<AM lemma="vřít" src="orig">VB-S---3P-AA---</AM>
+<AM lemma="vřít_:T" src="manual" selected="1">VB-S---3P-AA---</AM>
+</tag>
 </m>
 <m id="m-cmpr9410-033-p4s1w5">
 <src.rf>manual</src.rf>
@@ -1642,7 +1645,10 @@
 <LM>w#w-cmpr9410-033-p8s3w2</LM>
 </w.rf>
 <form>nastane</form>
-<tag lemma="nastat" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag>
+<AM lemma="nastat" src="orig">VB-S---3P-AA---</AM>
+<AM lemma="nastat_:W" src="manual" selected="1">VB-S---3P-AA---</AM>
+</tag>
 </m>
 <m id="m-cmpr9410-033-p8s3w3">
 <src.rf>manual</src.rf>
@@ -2280,7 +2286,7 @@
 <form>§</form>
 <tag>
 <AM lemma="§_^(paragraf)" src="orig">NNIXX-----A---1</AM>
-<AM lemma="paragraf" src="auto" recommended="1">NNIXX-----A---1</AM>
+<AM lemma="paragraf" src="auto" recommended="1" selected="1">NNIXX-----A---1</AM>
 </tag>
 </m>
 <m id="m-cmpr9410-033-p10s2w2">
@@ -2559,7 +2565,7 @@
 <form>ovšem</form>
 <tag>
 <AM lemma="ovšem-1_^(avšak,_však;_odporovací_spojka)" src="orig">J^-------------</AM>
-<AM lemma="ovšem" src="auto" recommended="1">TT-------------</AM>
+<AM lemma="ovšem" src="auto" recommended="1" selected="1">TT-------------</AM>
 </tag>
 </m>
 <m id="m-cmpr9410-033-p11s1w4">
@@ -2932,7 +2938,7 @@
 <form>§</form>
 <tag>
 <AM lemma="§_^(paragraf)" src="orig">NNIXX-----A---1</AM>
-<AM lemma="paragraf" src="auto" recommended="1">NNIXX-----A---1</AM>
+<AM lemma="paragraf" src="auto" recommended="1" selected="1">NNIXX-----A---1</AM>
 </tag>
 </m>
 <m id="m-cmpr9410-033-p11s3w10">

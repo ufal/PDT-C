@@ -19,7 +19,10 @@
 <LM>w#w-lnd92252-054-p1s1w1</LM>
 </w.rf>
 <form>A</form>
-<tag lemma="A-0_:B_;Y" src="orig" selected="1">NNMXX-----A---8</tag>
+<tag>
+<AM lemma="A-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
+<AM lemma="A-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd92252-054-p1s1w2">
 <src.rf>manual</src.rf>
@@ -265,7 +268,10 @@
 <LM>w#w-lnd92252-054-p3s1w21</LM>
 </w.rf>
 <form>böhmisch</form>
-<tag lemma="böhmisch_,t" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="böhmisch_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="böhmisch-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-lnd92252-054-p3s1w22">
 <src.rf>manual</src.rf>
@@ -977,7 +983,10 @@
 <LM>w#w-lnd92252-054-p4s2w13</LM>
 </w.rf>
 <form>J</form>
-<tag lemma="J-0_:B_;Y" src="orig" selected="1">NNMXX-----A---8</tag>
+<tag>
+<AM lemma="J-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
+<AM lemma="J-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd92252-054-p4s2w14">
 <src.rf>manual</src.rf>
@@ -993,7 +1002,10 @@
 <LM>w#w-lnd92252-054-p4s2w15</LM>
 </w.rf>
 <form>A</form>
-<tag lemma="A-0_:B_;Y" src="orig" selected="1">NNMXX-----A---8</tag>
+<tag>
+<AM lemma="A-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
+<AM lemma="A-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd92252-054-p4s2w16">
 <src.rf>manual</src.rf>
@@ -1565,7 +1577,10 @@
 <LM>w#w-lnd92252-054-p4s4w16</LM>
 </w.rf>
 <form>und</form>
-<tag lemma="und_,t" src="orig" selected="1">J^-------------</tag>
+<tag>
+<AM lemma="und_,t" src="orig">J^-------------</AM>
+<AM lemma="und-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-lnd92252-054-p4s4w17">
 <src.rf>manual</src.rf>
@@ -1573,7 +1588,10 @@
 <LM>w#w-lnd92252-054-p4s4w17</LM>
 </w.rf>
 <form>seine</form>
-<tag lemma="sein_,t" src="orig" selected="1">PSXXXZS3-------</tag>
+<tag>
+<AM lemma="sein_,t" src="orig">PSXXXZS3-------</AM>
+<AM lemma="seine-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-lnd92252-054-p4s4w18">
 <src.rf>manual</src.rf>
@@ -1581,7 +1599,10 @@
 <LM>w#w-lnd92252-054-p4s4w18</LM>
 </w.rf>
 <form>Zeit</form>
-<tag lemma="Zeit_,t" src="orig" selected="1">NNFS1-----A----</tag>
+<tag>
+<AM lemma="Zeit_,t" src="orig">NNFS1-----A----</AM>
+<AM lemma="Zeit-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-lnd92252-054-p4s4w19">
 <src.rf>manual</src.rf>
@@ -2017,7 +2038,10 @@
 <LM>w#w-lnd92252-054-p5s1w1</LM>
 </w.rf>
 <form>A</form>
-<tag lemma="A-0_:B_;Y" src="orig" selected="1">NNMXX-----A---8</tag>
+<tag>
+<AM lemma="A-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
+<AM lemma="A-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd92252-054-p5s1w2">
 <src.rf>manual</src.rf>
@@ -2907,7 +2931,10 @@
 <LM>w#w-lnd92252-054-p6s1w22</LM>
 </w.rf>
 <form>liberalismu</form>
-<tag lemma="liberalismus" src="orig" selected="1">NNIS3-----A----</tag>
+<tag>
+<AM lemma="liberalismus" src="orig">NNIS3-----A----</AM>
+<AM lemma="liberalismus_,s_^(^DD**liberalizmus)" src="manual" selected="1">NNIS3-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92252-054-p6s1w23">
 <src.rf>manual</src.rf>

@@ -101,7 +101,10 @@
 <LM>w#w-mf920902-082-p4s3w9</LM>
 </w.rf>
 <form>Turek</form>
-<tag lemma="Turek_;E" src="orig" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Turek_;E" src="orig">NNMS1-----A----</AM>
+<AM lemma="Turek_;E_;S" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920902-082-p4s3w10">
 <src.rf>manual</src.rf>

@@ -203,7 +203,10 @@
 <LM>w#w-lnd92258-149-p3s3w4</LM>
 </w.rf>
 <form>Tanjug</form>
-<tag lemma="Tanjug_:B_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="Tanjug_:B_;K" src="orig">NNIS1-----A----</AM>
+<AM lemma="Tanjug_;K" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92258-149-p3s3w5">
 <src.rf>manual</src.rf>
@@ -263,6 +266,7 @@
 <AM lemma="Banja_;G" src="orig">AAXXX----1A----</AM>
 <AM lemma="Banja_;G" src="auto" recommended="1">NNFS1-----A----</AM>
 <AM lemma="bendžo" src="auto">NNNS2-----A----</AM>
+<AM lemma="Banja-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-lnd92258-149-p3s3w12">

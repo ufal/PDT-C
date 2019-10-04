@@ -99,7 +99,10 @@
 <LM>w#w-mf920924-095-p3s1w11</LM>
 </w.rf>
 <form>DC</form>
-<tag lemma="DC_:B" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="DC_:B" src="orig">NNXXX-----A---8</AM>
+<AM lemma="DC-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920924-095-p3s1w12">
 <src.rf>manual</src.rf>
@@ -168,6 +171,7 @@
 <tag>
 <AM lemma="USA_;G" src="orig">NNIPX-----A----</AM>
 <AM lemma="USA_:B_;K_,t_^(United_States_of_America)" src="auto" recommended="1">NNIPX-----A---8</AM>
+<AM lemma="USA_:B_;K_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920924-095-p3s2w8">
@@ -216,7 +220,10 @@
 <LM>w#w-mf920924-095-p3s2w13</LM>
 </w.rf>
 <form>J</form>
-<tag lemma="J-0_:B_;Y" src="orig" selected="1">NNMXX-----A---8</tag>
+<tag>
+<AM lemma="J-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
+<AM lemma="J-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920924-095-p3s2w14">
 <src.rf>manual</src.rf>
@@ -554,7 +561,10 @@
 <LM>w#w-mf920924-095-p3s3w1</LM>
 </w.rf>
 <form>Hraje</form>
-<tag lemma="hrát" src="auto" selected="1">VB-S---3P-AA---</tag>
+<tag>
+<AM lemma="hrát" src="auto">VB-S---3P-AA---</AM>
+<AM lemma="hrát_:T" src="manual" selected="1">VB-S---3P-AA---</AM>
+</tag>
 </m>
 <m id="m-mf920924-095-p3s3w2">
 <src.rf>manual</src.rf>
@@ -642,7 +652,10 @@
 <LM>w#w-mf920924-095-p3s3w12</LM>
 </w.rf>
 <form>DC</form>
-<tag lemma="DC_:B" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="DC_:B" src="orig">NNXXX-----A---8</AM>
+<AM lemma="DC-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920924-095-p3s3w13">
 <src.rf>manual</src.rf>

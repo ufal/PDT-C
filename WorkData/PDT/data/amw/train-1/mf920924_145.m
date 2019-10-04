@@ -43,7 +43,10 @@
 <LM>w#w-mf920924-145-p1s1w4</LM>
 </w.rf>
 <form>OSN</form>
-<tag lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 </s>
 <s id="m-mf920924-145-p2s1">
@@ -56,6 +59,7 @@
 <tag>
 <AM lemma="USA_;G" src="orig">NNIPX-----A----</AM>
 <AM lemma="USA_:B_;K_,t_^(United_States_of_America)" src="auto" recommended="1">NNIPX-----A---8</AM>
+<AM lemma="USA_:B_;K_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920924-145-p2s1w2">
@@ -98,7 +102,10 @@
 <LM>w#w-mf920924-145-p3s1w4</LM>
 </w.rf>
 <form>OSN</form>
-<tag lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920924-145-p3s1w5">
 <src.rf>manual</src.rf>
@@ -106,7 +113,10 @@
 <LM>w#w-mf920924-145-p3s1w5</LM>
 </w.rf>
 <form>New</form>
-<tag lemma="New-1_;G_,t_^(součást_míst._jmen)" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="New-1_;G_,t_^(součást_míst._jmen)" src="orig">AAXXX----1A----</AM>
+<AM lemma="New-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-mf920924-145-p3s1w6">
 <src.rf>manual</src.rf>
@@ -114,7 +124,10 @@
 <LM>w#w-mf920924-145-p3s1w6</LM>
 </w.rf>
 <form>York</form>
-<tag lemma="York-2_;G" src="orig" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="York-2_;G" src="orig">NNIS1-----A----</AM>
+<AM lemma="York-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-mf920924-145-p3s1w7">
 <src.rf>manual</src.rf>
@@ -178,7 +191,10 @@
 <LM>w#w-mf920924-145-p3s1w14</LM>
 </w.rf>
 <form>af</form>
-<tag lemma="af_,t" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="af_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="af-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-mf920924-145-p3s1w15">
 <src.rf>manual</src.rf>
@@ -258,7 +274,10 @@
 <LM>w#w-mf920924-145-p3s1w24</LM>
 </w.rf>
 <form>New</form>
-<tag lemma="New-1_;G_,t_^(součást_míst._jmen)" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="New-1_;G_,t_^(součást_míst._jmen)" src="orig">AAXXX----1A----</AM>
+<AM lemma="New-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-mf920924-145-p3s1w25">
 <src.rf>manual</src.rf>
@@ -370,7 +389,10 @@
 <LM>w#w-mf920924-145-p3s1w38</LM>
 </w.rf>
 <form>OSN</form>
-<tag lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920924-145-p3s1w39">
 <src.rf>manual</src.rf>
@@ -438,6 +460,7 @@
 <AM lemma="VS_:B_;K_^(Valné_shromáždění)" src="orig">NNIXX-----A---8</AM>
 <AM lemma="VS_:B" src="auto" recommended="1">NNXXX-----A---8</AM>
 <AM lemma="versus_:B_,t" src="auto">RR--1---------8</AM>
+<AM lemma="VS-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920924-145-p3s1w47">
@@ -446,7 +469,10 @@
 <LM>w#w-mf920924-145-p3s1w47</LM>
 </w.rf>
 <form>OSN</form>
-<tag lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920924-145-p3s1w48">
 <src.rf>manual</src.rf>
@@ -474,7 +500,7 @@
 <form>Dvoustranné</form>
 <tag>
 <AM lemma="dvojstranný" src="orig">AAFP1----1A----</AM>
-<AM lemma="dvoustranný" src="auto" recommended="1">AAFP1----1A----</AM>
+<AM lemma="dvoustranný" src="auto" recommended="1" selected="1">AAFP1----1A----</AM>
 <AM lemma="dvoustranný" src="auto">AAFP4----1A----</AM>
 <AM lemma="dvoustranný" src="auto">AAFP5----1A----</AM>
 <AM lemma="dvoustranný" src="auto">AAFS2----1A----</AM>
@@ -554,7 +580,10 @@
 <LM>w#w-mf920924-145-p3s2w10</LM>
 </w.rf>
 <form>KBSE</form>
-<tag lemma="KBSE_:B_;K_;p" src="auto" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="KBSE_:B_;K_;p" src="auto">NNFXX-----A---8</AM>
+<AM lemma="KBSE-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920924-145-p3s2w11">
 <src.rf>manual</src.rf>
@@ -666,7 +695,10 @@
 <LM>w#w-mf920924-145-p3s2w24</LM>
 </w.rf>
 <form>řekl</form>
-<tag lemma="říci" src="auto" selected="1">VpYS---XR-AA---</tag>
+<tag>
+<AM lemma="říci" src="auto">VpYS---XR-AA---</AM>
+<AM lemma="říci_:W" src="manual" selected="1">VpYS---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-mf920924-145-p3s2w25">
 <src.rf>manual</src.rf>

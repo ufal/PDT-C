@@ -19,7 +19,10 @@
 <LM>w#w-ln95044-139-p1s1w1</LM>
 </w.rf>
 <form>F</form>
-<tag lemma="F-4_:B_;K" src="orig" selected="1">AAXXX----1A---8</tag>
+<tag>
+<AM lemma="F-4_:B_;K" src="orig">AAXXX----1A---8</AM>
+<AM lemma="F-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95044-139-p1s1w2">
 <src.rf>manual</src.rf>
@@ -37,7 +40,7 @@
 <form>INVEST</form>
 <tag>
 <AM lemma="Invest_;K" src="orig">NNIXX-----A----</AM>
-<AM lemma="Invest_;K" src="auto" recommended="1">NNIS1-----A----</AM>
+<AM lemma="Invest_;K" src="auto" recommended="1" selected="1">NNIS1-----A----</AM>
 <AM lemma="Invest_;K" src="auto">NNIS4-----A----</AM>
 <AM lemma="Investa_;K" src="auto">NNFP2-----A----</AM>
 <AM lemma="invest_,t" src="auto">NNIS1-----A----</AM>
@@ -58,7 +61,10 @@
 <LM>w#w-ln95044-139-p1s1w5</LM>
 </w.rf>
 <form>stal</form>
-<tag lemma="stát-2_^(něco_se_přihodilo)" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag>
+<AM lemma="stát-2_^(něco_se_přihodilo)" src="orig">VpYS---XR-AA---</AM>
+<AM lemma="stát-2_^(stanu_staneš)" src="manual" selected="1">VpYS---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-ln95044-139-p1s1w6">
 <src.rf>manual</src.rf>
@@ -110,7 +116,10 @@
 <LM>w#w-ln95044-139-p2s1Bw2</LM>
 </w.rf>
 <form>F</form>
-<tag lemma="F-4_:B_;K" src="orig" selected="1">AAXXX----1A---8</tag>
+<tag>
+<AM lemma="F-4_:B_;K" src="orig">AAXXX----1A---8</AM>
+<AM lemma="F-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95044-139-p2s1Bw3">
 <src.rf>manual</src.rf>
@@ -128,7 +137,7 @@
 <form>INVEST</form>
 <tag>
 <AM lemma="Invest_;K" src="orig">NNIXX-----A----</AM>
-<AM lemma="Invest_;K" src="auto" recommended="1">NNIS1-----A----</AM>
+<AM lemma="Invest_;K" src="auto" recommended="1" selected="1">NNIS1-----A----</AM>
 <AM lemma="Invest_;K" src="auto">NNIS4-----A----</AM>
 <AM lemma="Investa_;K" src="auto">NNFP2-----A----</AM>
 <AM lemma="invest_,t" src="auto">NNIS1-----A----</AM>
@@ -149,7 +158,10 @@
 <LM>w#w-ln95044-139-p2s1Bw6</LM>
 </w.rf>
 <form>stala</form>
-<tag lemma="stát-2_^(něco_se_přihodilo)" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag>
+<AM lemma="stát-2_^(něco_se_přihodilo)" src="orig">VpQW---XR-AA---</AM>
+<AM lemma="stát-2_^(stanu_staneš)" src="manual" selected="1">VpQW---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-ln95044-139-p2s1Bw7">
 <src.rf>manual</src.rf>
@@ -287,7 +299,10 @@
 <LM>w#w-ln95044-139-p2s2w4</LM>
 </w.rf>
 <form>podepsala</form>
-<tag lemma="podepsat" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag>
+<AM lemma="podepsat" src="orig">VpQW---XR-AA---</AM>
+<AM lemma="podepsat_:W" src="manual" selected="1">VpQW---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-ln95044-139-p2s2w5">
 <src.rf>manual</src.rf>
@@ -417,7 +432,10 @@
 <LM>w#w-ln95044-139-p2s3w3</LM>
 </w.rf>
 <form>uvedl</form>
-<tag lemma="uvést" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag>
+<AM lemma="uvést" src="orig">VpYS---XR-AA---</AM>
+<AM lemma="uvést_:W" src="manual" selected="1">VpYS---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-ln95044-139-p2s3w4">
 <src.rf>manual</src.rf>
@@ -531,7 +549,10 @@
 <LM>w#w-ln95044-139-p3s1w8</LM>
 </w.rf>
 <form>F</form>
-<tag lemma="F-4_:B_;K" src="orig" selected="1">AAXXX----1A---8</tag>
+<tag>
+<AM lemma="F-4_:B_;K" src="orig">AAXXX----1A---8</AM>
+<AM lemma="F-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95044-139-p3s1w9">
 <src.rf>manual</src.rf>
@@ -549,7 +570,7 @@
 <form>INVEST</form>
 <tag>
 <AM lemma="Invest_;K" src="orig">NNIXX-----A----</AM>
-<AM lemma="Invest_;K" src="auto" recommended="1">NNIS1-----A----</AM>
+<AM lemma="Invest_;K" src="auto" recommended="1" selected="1">NNIS1-----A----</AM>
 <AM lemma="Invest_;K" src="auto">NNIS4-----A----</AM>
 <AM lemma="Investa_;K" src="auto">NNFP2-----A----</AM>
 <AM lemma="invest_,t" src="auto">NNIS1-----A----</AM>

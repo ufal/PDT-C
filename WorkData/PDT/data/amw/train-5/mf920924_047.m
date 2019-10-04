@@ -125,7 +125,10 @@
 <LM>w#w-mf920924-047-p2s1w10</LM>
 </w.rf>
 <form>Nuclear</form>
-<tag lemma="Nuclear_;K_,t" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="Nuclear_;K_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="Nuclear-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-mf920924-047-p2s1w11">
 <src.rf>manual</src.rf>
@@ -133,7 +136,10 @@
 <LM>w#w-mf920924-047-p2s1w11</LM>
 </w.rf>
 <form>Blast</form>
-<tag lemma="Blast_;K_,t" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="Blast_;K_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="Blast-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-mf920924-047-p2s1w12">
 <src.rf>manual</src.rf>
@@ -141,7 +147,10 @@
 <LM>w#w-mf920924-047-p2s1w12</LM>
 </w.rf>
 <form>Records</form>
-<tag lemma="Record_;K_,t" src="orig" selected="1">NNIPX-----A----</tag>
+<tag>
+<AM lemma="Record_;K_,t" src="orig">NNIPX-----A----</AM>
+<AM lemma="Record-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-mf920924-047-p2s1w13">
 <src.rf>manual</src.rf>
@@ -181,7 +190,10 @@
 <LM>w#w-mf920924-047-p2s1w17</LM>
 </w.rf>
 <form>death</form>
-<tag lemma="death_,t" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="death_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="death-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-mf920924-047-p2s1w18">
 <src.rf>manual</src.rf>
@@ -189,7 +201,10 @@
 <LM>w#w-mf920924-047-p2s1w18</LM>
 </w.rf>
 <form>metal</form>
-<tag lemma="metal" src="orig" selected="1">NNIS4-----A----</tag>
+<tag>
+<AM lemma="metal" src="orig">NNIS4-----A----</AM>
+<AM lemma="metal-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-mf920924-047-p2s1w19">
 <src.rf>manual</src.rf>
@@ -207,7 +222,7 @@
 <form>nejen</form>
 <tag>
 <AM lemma="nejen" src="orig">TT-------------</AM>
-<AM lemma="nejen" src="auto" recommended="1">Db-------------</AM>
+<AM lemma="nejen" src="auto" recommended="1" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m-mf920924-047-p2s1w21">
@@ -256,7 +271,10 @@
 <LM>w#w-mf920924-047-p2s1w26</LM>
 </w.rf>
 <form>INCUBUS</form>
-<tag lemma="Incubus_;K_,t" src="orig" selected="1">NNXXX-----A----</tag>
+<tag>
+<AM lemma="Incubus_;K_,t" src="orig">NNXXX-----A----</AM>
+<AM lemma="Incubus-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-mf920924-047-p2s1w27">
 <src.rf>manual</src.rf>
@@ -264,7 +282,10 @@
 <LM>w#w-mf920924-047-p2s1w27</LM>
 </w.rf>
 <form>BEYOND</form>
-<tag lemma="beyond_,t" src="orig" selected="1">RR--X----------</tag>
+<tag>
+<AM lemma="beyond_,t" src="orig">RR--X----------</AM>
+<AM lemma="Beyond-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-mf920924-047-p2s1w28">
 <src.rf>manual</src.rf>
@@ -272,7 +293,10 @@
 <LM>w#w-mf920924-047-p2s1w28</LM>
 </w.rf>
 <form>THE</form>
-<tag lemma="the-1_,t_^(obv._souč._anglických_názvů,_urč._člen)" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="the-1_,t_^(obv._souč._anglických_názvů,_urč._člen)" src="orig">AAXXX----1A----</AM>
+<AM lemma="the-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-mf920924-047-p2s1w29">
 <src.rf>manual</src.rf>
@@ -280,7 +304,10 @@
 <LM>w#w-mf920924-047-p2s1w29</LM>
 </w.rf>
 <form>UNKNOWN</form>
-<tag lemma="unknown_,t" src="orig" selected="1">NNNXX-----A----</tag>
+<tag>
+<AM lemma="unknown_,t" src="orig">NNNXX-----A----</AM>
+<AM lemma="Unknown-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-mf920924-047-p2s1w30">
 <src.rf>manual</src.rf>
@@ -338,7 +365,10 @@
 <LM>w#w-mf920924-047-p2s2w2</LM>
 </w.rf>
 <form>Incubus</form>
-<tag lemma="Incubus_;K_,t" src="orig" selected="1">NNXXX-----A----</tag>
+<tag>
+<AM lemma="Incubus_;K_,t" src="orig">NNXXX-----A----</AM>
+<AM lemma="Incubus-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-mf920924-047-p2s2w3">
 <src.rf>manual</src.rf>
@@ -508,7 +538,7 @@
 <form>grindcore</form>
 <tag>
 <AM lemma="grindcore_,t" src="orig">AAXXX----1A----</AM>
-<AM lemma="grindcore_;u_,l_,t_^(hudební_styl)" src="auto" recommended="1">NNIXX-----A----</AM>
+<AM lemma="grindcore_;u_,l_,t_^(hudební_styl)" src="auto" recommended="1" selected="1">NNIXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920924-047-p2s2w24">
@@ -525,7 +555,10 @@
 <LM>w#w-mf920924-047-p2s2w25</LM>
 </w.rf>
 <form>death</form>
-<tag lemma="death_,t" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="death_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="death-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-mf920924-047-p2s2w26">
 <src.rf>manual</src.rf>
@@ -639,7 +672,10 @@
 <LM>w#w-mf920924-047-p2s3w5</LM>
 </w.rf>
 <form>Incubus</form>
-<tag lemma="Incubus_;K_,t" src="orig" selected="1">NNMPX-----A----</tag>
+<tag>
+<AM lemma="Incubus_;K_,t" src="orig">NNMPX-----A----</AM>
+<AM lemma="Incubus-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-mf920924-047-p2s3w6">
 <src.rf>manual</src.rf>
@@ -867,7 +903,10 @@
 <LM>w#w-mf920924-047-p2s5w9</LM>
 </w.rf>
 <form>však</form>
-<tag lemma="však-1" src="auto" selected="1">J^-------------</tag>
+<tag>
+<AM lemma="však-1" src="auto">J^-------------</AM>
+<AM lemma="však-2" src="manual" selected="1">TT-------------</AM>
+</tag>
 </m>
 <m id="m-mf920924-047-p2s5w10">
 <src.rf>manual</src.rf>
@@ -999,7 +1038,10 @@
 <LM>w#w-mf920924-047-p2s7w1</LM>
 </w.rf>
 <form>Moyses</form>
-<tag lemma="Moyses_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Moyses_;S" src="orig">NNMS1-----A----</AM>
+<AM lemma="Moyses_;Y_;S" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920924-047-p2s7w2">
 <src.rf>manual</src.rf>
@@ -1105,7 +1147,7 @@
 <form>nejen</form>
 <tag>
 <AM lemma="nejen" src="orig">TT-------------</AM>
-<AM lemma="nejen" src="auto" recommended="1">Db-------------</AM>
+<AM lemma="nejen" src="auto" recommended="1" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m-mf920924-047-p2s7w15">
@@ -1214,7 +1256,7 @@
 <form>grindcore</form>
 <tag>
 <AM lemma="grindcore_,t" src="orig">AAXXX----1A----</AM>
-<AM lemma="grindcore_;u_,l_,t_^(hudební_styl)" src="auto" recommended="1">NNIXX-----A----</AM>
+<AM lemma="grindcore_;u_,l_,t_^(hudební_styl)" src="auto" recommended="1" selected="1">NNIXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920924-047-p2s8w6">
@@ -1637,7 +1679,10 @@
 <LM>w#w-mf920924-047-p2s11w1</LM>
 </w.rf>
 <form>Beyond</form>
-<tag lemma="beyond_,t" src="orig" selected="1">RR--X----------</tag>
+<tag>
+<AM lemma="beyond_,t" src="orig">RR--X----------</AM>
+<AM lemma="Beyond-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-mf920924-047-p2s11w2">
 <src.rf>manual</src.rf>
@@ -1645,7 +1690,10 @@
 <LM>w#w-mf920924-047-p2s11w2</LM>
 </w.rf>
 <form>The</form>
-<tag lemma="the-1_,t_^(obv._souč._anglických_názvů,_urč._člen)" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="the-1_,t_^(obv._souč._anglických_názvů,_urč._člen)" src="orig">AAXXX----1A----</AM>
+<AM lemma="The-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-mf920924-047-p2s11w3">
 <src.rf>manual</src.rf>
@@ -1653,7 +1701,10 @@
 <LM>w#w-mf920924-047-p2s11w3</LM>
 </w.rf>
 <form>Unknow</form>
-<tag lemma="unknow_,t" src="orig" selected="1">NNNXX-----A----</tag>
+<tag>
+<AM lemma="unknow_,t" src="orig">NNNXX-----A----</AM>
+<AM lemma="Unknow-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-mf920924-047-p2s11w4">
 <src.rf>manual</src.rf>
@@ -1923,7 +1974,10 @@
 <LM>w#w-mf920924-047-p2s14w6</LM>
 </w.rf>
 <form>On</form>
-<tag lemma="on-1" src="orig" selected="1">PPYS1--3-------</tag>
+<tag>
+<AM lemma="on-1" src="orig">PPYS1--3-------</AM>
+<AM lemma="On-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-mf920924-047-p2s14w7">
 <src.rf>manual</src.rf>
@@ -1931,7 +1985,10 @@
 <LM>w#w-mf920924-047-p2s14w7</LM>
 </w.rf>
 <form>The</form>
-<tag lemma="the-1_,t_^(obv._souč._anglických_názvů,_urč._člen)" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="the-1_,t_^(obv._souč._anglických_názvů,_urč._člen)" src="orig">AAXXX----1A----</AM>
+<AM lemma="The-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-mf920924-047-p2s14w8">
 <src.rf>manual</src.rf>
@@ -1942,6 +1999,7 @@
 <tag>
 <AM lemma="burial_,t" src="orig">AAXXX----1A----</AM>
 <AM lemma="Burial_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Burial-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-mf920924-047-p2s14w9">
@@ -1950,7 +2008,10 @@
 <LM>w#w-mf920924-047-p2s14w9</LM>
 </w.rf>
 <form>Ground</form>
-<tag lemma="ground_,t" src="orig" selected="1">NNIXX-----A----</tag>
+<tag>
+<AM lemma="ground_,t" src="orig">NNIXX-----A----</AM>
+<AM lemma="Ground-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-mf920924-047-p2s14w10">
 <src.rf>manual</src.rf>

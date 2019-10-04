@@ -215,7 +215,10 @@
 <LM>w#w-ln95041-010-p2s1Bw19</LM>
 </w.rf>
 <form>ČR</form>
-<tag lemma="ČR-1_:B_;G_^(Česká_republika)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95041-010-p2s1Bw20">
 <src.rf>manual</src.rf>
@@ -241,7 +244,10 @@
 <LM>w#w-ln95041-010-p2s2w2</LM>
 </w.rf>
 <form>LN</form>
-<tag lemma="LN-1_:B_;R_^(Lidové_noviny,_deník)" src="orig" selected="1">NNFPX-----A---8</tag>
+<tag>
+<AM lemma="LN-1_:B_;R_^(Lidové_noviny,_deník)" src="orig">NNFPX-----A---8</AM>
+<AM lemma="LN-1_:B_;K_;R_^(Lidové_noviny)" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln95041-010-p2s2w3">
 <src.rf>manual</src.rf>
@@ -265,7 +271,10 @@
 <LM>w#w-ln95041-010-p2s2w5</LM>
 </w.rf>
 <form>uvedl</form>
-<tag lemma="uvést" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag>
+<AM lemma="uvést" src="orig">VpYS---XR-AA---</AM>
+<AM lemma="uvést_:W" src="manual" selected="1">VpYS---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-ln95041-010-p2s2w6">
 <src.rf>manual</src.rf>
@@ -581,7 +590,10 @@
 <LM>w#w-ln95041-010-p4s1w10</LM>
 </w.rf>
 <form>PIAT</form>
-<tag lemma="PIAT_:B_;K" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="PIAT_:B_;K" src="orig">NNXXX-----A---8</AM>
+<AM lemma="PIAT-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95041-010-p4s1w11">
 <src.rf>manual</src.rf>
@@ -655,7 +667,11 @@
 <LM>w#w-ln95041-010-p4s2w8</LM>
 </w.rf>
 <form>PIADC</form>
-<tag lemma="PIADC_:B_;K" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="PIADC_:B_;K" src="orig">NNXXX-----A---8</AM>
+<AM lemma="PIADC_:B" src="manual">NNXXX-----A---8</AM>
+<AM lemma="PIADC-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95041-010-p4s2w9">
 <src.rf>manual</src.rf>
@@ -690,6 +706,8 @@
 <tag>
 <AM lemma="Bouygues_;K_,t" src="orig">NNXXX-----A----</AM>
 <AM lemma="Bouygues_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Bouygues-2_;K_,t" src="manual">NNXXX-----A----</AM>
+<AM lemma="Bouygues-2_;K" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95041-010-p4s2w13">
@@ -706,7 +724,10 @@
 <LM>w#w-ln95041-010-p4s2w14</LM>
 </w.rf>
 <form>British</form>
-<tag lemma="British_;K_,t_^(souč._názvů,_např._B._Airways)" src="auto" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="British_;K_,t_^(souč._názvů,_např._B._Airways)" src="auto">AAXXX----1A----</AM>
+<AM lemma="British-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln95041-010-p4s2w15">
 <src.rf>manual</src.rf>
@@ -714,7 +735,10 @@
 <LM>w#w-ln95041-010-p4s2w15</LM>
 </w.rf>
 <form>Aerospace</form>
-<tag lemma="Aerospace_;K_,t_^(British_Aerospace)" src="orig" selected="1">NNIXX-----A----</tag>
+<tag>
+<AM lemma="Aerospace_;K_,t_^(British_Aerospace)" src="orig">NNIXX-----A----</AM>
+<AM lemma="Aerospace-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln95041-010-p4s2w16">
 <src.rf>manual</src.rf>
@@ -852,7 +876,10 @@
 <LM>w#w-ln95041-010-p5s1w7</LM>
 </w.rf>
 <form>PIAT</form>
-<tag lemma="PIAT_:B_;K" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="PIAT_:B_;K" src="orig">NNXXX-----A---8</AM>
+<AM lemma="PIAT-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95041-010-p5s1w8">
 <src.rf>manual</src.rf>
@@ -1291,7 +1318,10 @@
 <LM>w#w-ln95041-010-p6s2w8</LM>
 </w.rf>
 <form>dolarů</form>
-<tag lemma="dolar_;b" src="orig" selected="1">NNIP2-----A----</tag>
+<tag>
+<AM lemma="dolar_;b" src="orig">NNIP2-----A----</AM>
+<AM lemma="dolar" src="manual" selected="1">NNIP2-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95041-010-p6s2w9">
 <src.rf>manual</src.rf>
@@ -1309,7 +1339,7 @@
 <form>přičemž</form>
 <tag>
 <AM lemma="přičemž" src="orig">J,-------------</AM>
-<AM lemma="přičemž" src="auto" recommended="1">Db-------------</AM>
+<AM lemma="přičemž" src="auto" recommended="1" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m-ln95041-010-p6s2w11">

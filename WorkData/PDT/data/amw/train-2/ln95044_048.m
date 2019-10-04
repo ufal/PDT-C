@@ -127,7 +127,10 @@
 <LM>w#w-ln95044-048-p2s1Bw11</LM>
 </w.rf>
 <form>Verklärte</form>
-<tag lemma="verklärte_,t" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="verklärte_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="Verklärte-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln95044-048-p2s1Bw12">
 <src.rf>manual</src.rf>
@@ -135,7 +138,10 @@
 <LM>w#w-ln95044-048-p2s1Bw12</LM>
 </w.rf>
 <form>Nacht</form>
-<tag lemma="Nacht_,t" src="orig" selected="1">NNFXX-----A----</tag>
+<tag>
+<AM lemma="Nacht_,t" src="orig">NNFXX-----A----</AM>
+<AM lemma="Nacht-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln95044-048-p2s1Bw13">
 <src.rf>manual</src.rf>
@@ -605,7 +611,10 @@
 <LM>w#w-ln95044-048-p3s1w7</LM>
 </w.rf>
 <form>expresionismu</form>
-<tag lemma="expresionismus" src="orig" selected="1">NNIS2-----A----</tag>
+<tag>
+<AM lemma="expresionismus" src="orig">NNIS2-----A----</AM>
+<AM lemma="expresionismus_,s_^(^DD**expresionizmus)" src="manual" selected="1">NNIS2-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95044-048-p3s1w8">
 <src.rf>manual</src.rf>
@@ -2133,7 +2142,10 @@
 <LM>w#w-ln95044-048-p4s5w3</LM>
 </w.rf>
 <form>Verklärte</form>
-<tag lemma="verklärte_,t" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="verklärte_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="Verklärte-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln95044-048-p4s5w4">
 <src.rf>manual</src.rf>
@@ -2141,7 +2153,10 @@
 <LM>w#w-ln95044-048-p4s5w4</LM>
 </w.rf>
 <form>Nacht</form>
-<tag lemma="Nacht_,t" src="orig" selected="1">NNFXX-----A----</tag>
+<tag>
+<AM lemma="Nacht_,t" src="orig">NNFXX-----A----</AM>
+<AM lemma="Nacht-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln95044-048-p4s5w5">
 <src.rf>manual</src.rf>
@@ -2213,7 +2228,10 @@
 <LM>w#w-ln95044-048-p4s5w13</LM>
 </w.rf>
 <form>CD</form>
-<tag lemma="CD-1_:B_;c_;u_;y_,t_^(Audio/Data,_Compact_Disc)" src="auto" selected="1">NNNXX-----A---8</tag>
+<tag>
+<AM lemma="CD-1_:B_;c_;u_;y_,t_^(Audio/Data,_Compact_Disc)" src="auto">NNNXX-----A---8</AM>
+<AM lemma="CD-1_:B_^(Audio/Data,_Compact_Disc)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95044-048-p4s5w14">
 <src.rf>manual</src.rf>

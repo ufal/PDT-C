@@ -37,7 +37,10 @@
 <LM>w#w-mf930713-029-p2s1Aw1</LM>
 </w.rf>
 <form>Owens</form>
-<tag lemma="Owens_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Owens_;S" src="orig">NNMS1-----A----</AM>
+<AM lemma="Owens-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-mf930713-029-p2s1Aw2">
 <src.rf>manual</src.rf>
@@ -45,7 +48,10 @@
 <LM>w#w-mf930713-029-p2s1Aw2</LM>
 </w.rf>
 <form>Valley</form>
-<tag lemma="Valley_;G_,t_^(např.Silicon_Valley)" src="auto" selected="1">NNNXX-----A----</tag>
+<tag>
+<AM lemma="Valley_;G_,t_^(např.Silicon_Valley)" src="auto">NNNXX-----A----</AM>
+<AM lemma="Valley-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-mf930713-029-p2s1Aw3">
 <src.rf>manual</src.rf>
@@ -111,7 +117,10 @@
 <LM>w#w-mf930713-029-p2s1Bw7</LM>
 </w.rf>
 <form>stal</form>
-<tag lemma="stát-2_^(něco_se_přihodilo)" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag>
+<AM lemma="stát-2_^(něco_se_přihodilo)" src="orig">VpYS---XR-AA---</AM>
+<AM lemma="stát-2_^(stanu_staneš)" src="manual" selected="1">VpYS---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-mf930713-029-p2s1Bw8">
 <src.rf>manual</src.rf>
@@ -183,7 +192,10 @@
 <LM>w#w-mf930713-029-p2s1Bw16</LM>
 </w.rf>
 <form>Owens</form>
-<tag lemma="Owens_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Owens_;S" src="orig">NNMS1-----A----</AM>
+<AM lemma="Owens-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-mf930713-029-p2s1Bw17">
 <src.rf>manual</src.rf>
@@ -191,7 +203,10 @@
 <LM>w#w-mf930713-029-p2s1Bw17</LM>
 </w.rf>
 <form>Valley</form>
-<tag lemma="Valley_;G_,t_^(např.Silicon_Valley)" src="auto" selected="1">NNNXX-----A----</tag>
+<tag>
+<AM lemma="Valley_;G_,t_^(např.Silicon_Valley)" src="auto">NNNXX-----A----</AM>
+<AM lemma="Valley-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-mf930713-029-p2s1Bw18">
 <src.rf>manual</src.rf>
@@ -382,6 +397,7 @@
 <tag>
 <AM lemma="USA_;G" src="orig">NNIPX-----A----</AM>
 <AM lemma="USA_:B_;K_,t_^(United_States_of_America)" src="auto" recommended="1">NNIPX-----A---8</AM>
+<AM lemma="USA_:B_;K_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-mf930713-029-p2s3w7">

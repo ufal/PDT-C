@@ -398,6 +398,7 @@
 <AM lemma="renezanční" src="auto">AANS1----1A----</AM>
 <AM lemma="renezanční" src="auto">AANS4----1A----</AM>
 <AM lemma="renezanční" src="auto">AANS5----1A----</AM>
+<AM lemma="renesanční_,s_^(^DD**renezanční)" src="manual" selected="1">AAFS2----1A----</AM>
 </tag>
 </m>
 <m id="m-mf920924-049-p2s2w4">
@@ -470,7 +471,10 @@
 <LM>w#w-mf920924-049-p2s2w12</LM>
 </w.rf>
 <form>Giordana</form>
-<tag lemma="Giordano_;S" src="auto" selected="1">NNMS2-----A----</tag>
+<tag>
+<AM lemma="Giordano_;S" src="auto">NNMS2-----A----</AM>
+<AM lemma="Giordano_;Y_;S" src="manual" selected="1">NNMS2-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920924-049-p2s2w13">
 <src.rf>manual</src.rf>
@@ -478,7 +482,10 @@
 <LM>w#w-mf920924-049-p2s2w13</LM>
 </w.rf>
 <form>Bruna</form>
-<tag lemma="Bruno_;Y" src="auto" selected="1">NNMS2-----A----</tag>
+<tag>
+<AM lemma="Bruno_;Y" src="auto">NNMS2-----A----</AM>
+<AM lemma="Bruno_;Y_;S" src="manual" selected="1">NNMS2-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920924-049-p2s2w14">
 <src.rf>manual</src.rf>
@@ -992,7 +999,7 @@
 <AM lemma="leč-2_^(kniž.;_leč_by...)" src="orig">J,-------------</AM>
 <AM lemma="leč-1_^(lov;_poslední_leč...)" src="auto">NNFS1-----A----</AM>
 <AM lemma="leč-1_^(lov;_poslední_leč...)" src="auto">NNFS4-----A----</AM>
-<AM lemma="leč-3_^(ale)" src="auto" recommended="1">J^-------------</AM>
+<AM lemma="leč-3_^(ale)" src="auto" recommended="1" selected="1">J^-------------</AM>
 <AM lemma="lečo_^(jídlo)" src="auto">NNNP2-----A----</AM>
 <AM lemma="léčit" src="auto">Vi-S---2--A----</AM>
 <AM lemma="léčit" src="auto">Vi-S---3--A---4</AM>
@@ -1142,7 +1149,10 @@
 <LM>w#w-mf920924-049-p2s6w13</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-2" src="auto" selected="1">Dg-------2A----</tag>
+<tag>
+<AM lemma="hodně-2" src="auto">Dg-------2A----</AM>
+<AM lemma="hodně-3" src="manual" selected="1">Dg-------2A----</AM>
+</tag>
 </m>
 <m id="m-mf920924-049-p2s6w14">
 <src.rf>manual</src.rf>
@@ -1668,7 +1678,10 @@
 <LM>w#w-mf920924-049-p2s9w19</LM>
 </w.rf>
 <form>Dietrich</form>
-<tag lemma="Dietrich_;S_;Y" src="auto" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Dietrich_;S_;Y" src="auto">NNMS1-----A----</AM>
+<AM lemma="Dietrich_;Y_;S" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920924-049-p2s9w20">
 <src.rf>manual</src.rf>
@@ -1967,7 +1980,7 @@
 </w.rf>
 <form>Donu</form>
 <tag>
-<AM lemma="dona" src="orig">NNFS4-----A----</AM>
+<AM lemma="dona" src="orig" selected="1">NNFS4-----A----</AM>
 <AM lemma="Don-1_;Y" src="auto">NNMS3-----A---1</AM>
 <AM lemma="Don-1_;Y" src="auto">NNMS6-----A---1</AM>
 <AM lemma="Don-2_;G" src="auto" recommended="1">NNIS2-----A----</AM>
@@ -2026,7 +2039,7 @@
 <tag>
 <AM lemma="přece" src="orig">Db-------------</AM>
 <AM lemma="přece-1" src="auto" recommended="1">J^-------------</AM>
-<AM lemma="přece-2" src="auto">TT-------------</AM>
+<AM lemma="přece-2" src="auto" selected="1">TT-------------</AM>
 </tag>
 </m>
 <m id="m-mf920924-049-p2s10w14">
@@ -2147,7 +2160,10 @@
 <LM>w#w-mf920924-049-p2s10w28</LM>
 </w.rf>
 <form>Montblanku</form>
-<tag lemma="Montblank_;G" src="orig" selected="1">NNIS2-----A----</tag>
+<tag>
+<AM lemma="Montblank_;G" src="orig">NNIS2-----A----</AM>
+<AM lemma="Montblank_;G_,s_^(^DD**Montblanc)" src="manual" selected="1">NNIS2-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920924-049-p2s10w29">
 <src.rf>manual</src.rf>
@@ -2344,7 +2360,7 @@
 <tag>
 <AM lemma="přece" src="orig">Db-------------</AM>
 <AM lemma="přece-1" src="auto" recommended="1">J^-------------</AM>
-<AM lemma="přece-2" src="auto">TT-------------</AM>
+<AM lemma="přece-2" src="auto" selected="1">TT-------------</AM>
 </tag>
 </m>
 <m id="m-mf920924-049-p2s11w21">
@@ -2370,7 +2386,7 @@
 <AM lemma="smiřitelný_^(*8ířit)" src="auto">AAMP1----1N---6</AM>
 <AM lemma="smiřitelný_^(*8ířit)" src="auto">AAMP4----1N---6</AM>
 <AM lemma="smiřitelný_^(*8ířit)" src="auto">AAMP5----1N---6</AM>
-<AM lemma="smiřitelný_^(*8ířit)" src="auto">AAMS1----1N----</AM>
+<AM lemma="smiřitelný_^(*8ířit)" src="auto" selected="1">AAMS1----1N----</AM>
 <AM lemma="smiřitelný_^(*8ířit)" src="auto">AAMS5----1N----</AM>
 <AM lemma="smiřitelný_^(*8ířit)" src="auto">AANP1----1N---6</AM>
 <AM lemma="smiřitelný_^(*8ířit)" src="auto">AANP4----1N---6</AM>
@@ -2896,7 +2912,10 @@
 <LM>w#w-mf920924-049-p2s14w19</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-2" src="auto" selected="1">Dg-------2A----</tag>
+<tag>
+<AM lemma="hodně-2" src="auto">Dg-------2A----</AM>
+<AM lemma="hodně-3" src="manual" selected="1">Dg-------2A----</AM>
+</tag>
 </m>
 <m id="m-mf920924-049-p2s14w20">
 <src.rf>manual</src.rf>
@@ -3011,7 +3030,7 @@
 <tag>
 <AM lemma="přece" src="orig">Db-------------</AM>
 <AM lemma="přece-1" src="auto" recommended="1">J^-------------</AM>
-<AM lemma="přece-2" src="auto">TT-------------</AM>
+<AM lemma="přece-2" src="auto" selected="1">TT-------------</AM>
 </tag>
 </m>
 <m id="m-mf920924-049-p2s14w34">
@@ -3044,7 +3063,10 @@
 <LM>w#w-mf920924-049-p2s14w37</LM>
 </w.rf>
 <form>Leporello</form>
-<tag lemma="Leporello_;S" src="auto" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Leporello_;S" src="auto">NNMS1-----A----</AM>
+<AM lemma="Leporello_;Y_;S" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920924-049-p2s14w38">
 <src.rf>manual</src.rf>
@@ -3148,7 +3170,10 @@
 <LM>w#w-mf920924-049-p2s14w50</LM>
 </w.rf>
 <form>Turka</form>
-<tag lemma="Turek_;E" src="orig" selected="1">NNMS2-----A----</tag>
+<tag>
+<AM lemma="Turek_;E" src="orig">NNMS2-----A----</AM>
+<AM lemma="Turek_;S_;E" src="manual" selected="1">NNMS2-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920924-049-p2s14w51">
 <src.rf>manual</src.rf>
@@ -3272,7 +3297,7 @@
 <form>modro</form>
 <tag>
 <AM lemma="modrý" src="orig">A2--------A----</AM>
-<AM lemma="modro" src="auto" recommended="1">NNNS1-----A----</AM>
+<AM lemma="modro" src="auto" recommended="1" selected="1">NNNS1-----A----</AM>
 <AM lemma="modro" src="auto">NNNS4-----A----</AM>
 <AM lemma="modro" src="auto">NNNS5-----A----</AM>
 </tag>

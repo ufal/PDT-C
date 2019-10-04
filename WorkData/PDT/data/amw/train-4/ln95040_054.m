@@ -670,7 +670,10 @@
 <LM>w#w-ln95040-054-p2s4Bw3</LM>
 </w.rf>
 <form>li</form>
-<tag lemma="li-1" src="auto" selected="1">TT-------------</tag>
+<tag>
+<AM lemma="li-1" src="auto">TT-------------</AM>
+<AM lemma="li-2" src="manual" selected="1">J,-------------</AM>
+</tag>
 </m>
 <m id="m-ln95040-054-p2s4Bw4">
 <src.rf>manual</src.rf>
@@ -880,7 +883,7 @@
 <form>nikoliv</form>
 <tag>
 <AM lemma="nikoliv" src="orig">Db-------------</AM>
-<AM lemma="nikoli" src="auto" recommended="1">TT------------1</AM>
+<AM lemma="nikoli" src="auto" recommended="1" selected="1">TT------------1</AM>
 </tag>
 </m>
 <m id="m-ln95040-054-p2s4Bw30">
@@ -1076,7 +1079,7 @@
 </w.rf>
 <form>Lucemburský</form>
 <tag>
-<AM lemma="Lucemburský_;S" src="orig">NNMS1-----A----</AM>
+<AM lemma="Lucemburský_;S" src="orig" selected="1">NNMS1-----A----</AM>
 <AM lemma="lucemburský" src="auto">AAFP1----1A---6</AM>
 <AM lemma="lucemburský" src="auto">AAFP4----1A---6</AM>
 <AM lemma="lucemburský" src="auto">AAFP5----1A---6</AM>
@@ -1134,7 +1137,7 @@
 <form>nikoli</form>
 <tag>
 <AM lemma="nikoliv" src="orig">Db------------1</AM>
-<AM lemma="nikoli" src="auto" recommended="1">TT-------------</AM>
+<AM lemma="nikoli" src="auto" recommended="1" selected="1">TT-------------</AM>
 </tag>
 </m>
 <m id="m-ln95040-054-p2s5Aw19">
@@ -1418,7 +1421,7 @@
 </w.rf>
 <form>Habsburský</form>
 <tag>
-<AM lemma="Habsburský_;S" src="orig">NNMS1-----A----</AM>
+<AM lemma="Habsburský_;S" src="orig" selected="1">NNMS1-----A----</AM>
 <AM lemma="habsburský" src="auto">AAFP1----1A---6</AM>
 <AM lemma="habsburský" src="auto">AAFP4----1A---6</AM>
 <AM lemma="habsburský" src="auto">AAFP5----1A---6</AM>
@@ -2387,7 +2390,7 @@
 <AM lemma="Kristův-1_;S_^(*4-1)" src="auto">AUMS6M--------1</AM>
 <AM lemma="Kristův-1_;S_^(*4-1)" src="auto">AUNS3M---------</AM>
 <AM lemma="Kristův-1_;S_^(*4-1)" src="auto">AUNS6M--------1</AM>
-<AM lemma="Kristův-3_;Y_^(*4us-3)" src="auto" recommended="1">AUFS4M---------</AM>
+<AM lemma="Kristův-3_;Y_^(*4us-3)" src="auto" recommended="1" selected="1">AUFS4M---------</AM>
 <AM lemma="Kristův-3_;Y_^(*4us-3)" src="auto">AUIS3M---------</AM>
 <AM lemma="Kristův-3_;Y_^(*4us-3)" src="auto">AUIS6M--------1</AM>
 <AM lemma="Kristův-3_;Y_^(*4us-3)" src="auto">AUMS3M---------</AM>
@@ -2757,7 +2760,7 @@
 <form>nikoli</form>
 <tag>
 <AM lemma="nikoliv" src="orig">Db------------1</AM>
-<AM lemma="nikoli" src="auto" recommended="1">TT-------------</AM>
+<AM lemma="nikoli" src="auto" recommended="1" selected="1">TT-------------</AM>
 </tag>
 </m>
 <m id="m-ln95040-054-p2s11Aw30">
@@ -2801,7 +2804,7 @@
 <tag>
 <AM lemma="tady" src="orig">Db------------1</AM>
 <AM lemma="ten" src="auto">PDFS4----------</AM>
-<AM lemma="tu" src="auto" recommended="1">Db-------------</AM>
+<AM lemma="tu" src="auto" recommended="1" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m-ln95040-054-p2s11Aw35">
@@ -2950,7 +2953,7 @@
 <form>nikoli</form>
 <tag>
 <AM lemma="nikoliv" src="orig">Db------------1</AM>
-<AM lemma="nikoli" src="auto" recommended="1">TT-------------</AM>
+<AM lemma="nikoli" src="auto" recommended="1" selected="1">TT-------------</AM>
 </tag>
 </m>
 <m id="m-ln95040-054-p2s11Bw17">
@@ -3341,7 +3344,7 @@
 <form>Snad</form>
 <tag>
 <AM lemma="snad" src="orig">Db-------------</AM>
-<AM lemma="snad" src="auto" recommended="1">TT-------------</AM>
+<AM lemma="snad" src="auto" recommended="1" selected="1">TT-------------</AM>
 </tag>
 </m>
 <m id="m-ln95040-054-p2s13w2">
@@ -3539,7 +3542,7 @@
 <tag>
 <AM lemma="přece" src="orig">Db-------------</AM>
 <AM lemma="přece-1" src="auto" recommended="1">J^-------------</AM>
-<AM lemma="přece-2" src="auto">TT-------------</AM>
+<AM lemma="přece-2" src="auto" selected="1">TT-------------</AM>
 </tag>
 </m>
 <m id="m-ln95040-054-p2s14w6">
@@ -4130,7 +4133,7 @@
 <form>nikoli</form>
 <tag>
 <AM lemma="nikoliv" src="orig">Db------------1</AM>
-<AM lemma="nikoli" src="auto" recommended="1">TT-------------</AM>
+<AM lemma="nikoli" src="auto" recommended="1" selected="1">TT-------------</AM>
 </tag>
 </m>
 <m id="m-ln95040-054-p2s17Aw27">
@@ -4794,7 +4797,7 @@
 </w.rf>
 <form>Beckovský</form>
 <tag>
-<AM lemma="Beckovský_;S" src="orig">NNMS1-----A----</AM>
+<AM lemma="Beckovský_;S" src="orig" selected="1">NNMS1-----A----</AM>
 <AM lemma="beckovský" src="auto">AAFP1----1A---6</AM>
 <AM lemma="beckovský" src="auto">AAFP4----1A---6</AM>
 <AM lemma="beckovský" src="auto">AAFP5----1A---6</AM>
@@ -4867,7 +4870,7 @@
 </w.rf>
 <form>Nižborský</form>
 <tag>
-<AM lemma="Nižborský_;S" src="orig">NNMS1-----A----</AM>
+<AM lemma="Nižborský_;S" src="orig" selected="1">NNMS1-----A----</AM>
 <AM lemma="nižborský" src="auto">AAFP1----1A---6</AM>
 <AM lemma="nižborský" src="auto">AAFP4----1A---6</AM>
 <AM lemma="nižborský" src="auto">AAFP5----1A---6</AM>
@@ -5159,7 +5162,7 @@
 <form>nikoli</form>
 <tag>
 <AM lemma="nikoliv" src="orig">Db------------1</AM>
-<AM lemma="nikoli" src="auto" recommended="1">TT-------------</AM>
+<AM lemma="nikoli" src="auto" recommended="1" selected="1">TT-------------</AM>
 </tag>
 </m>
 <m id="m-ln95040-054-p2s19w22">
@@ -5470,7 +5473,7 @@
 <form>nikoli</form>
 <tag>
 <AM lemma="nikoliv" src="orig">Db------------1</AM>
-<AM lemma="nikoli" src="auto" recommended="1">TT-------------</AM>
+<AM lemma="nikoli" src="auto" recommended="1" selected="1">TT-------------</AM>
 </tag>
 </m>
 <m id="m-ln95040-054-p2s21w13">

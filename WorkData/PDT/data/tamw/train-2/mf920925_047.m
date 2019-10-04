@@ -249,7 +249,10 @@
 <LM>w#w-mf920925-047-p2s2Bw19</LM>
 </w.rf>
 <form>Broken</form>
-<tag lemma="Broken_;G_,t_^(Broken_Hill)" src="auto" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="Broken_;G_,t_^(Broken_Hill)" src="auto">AAXXX----1A----</AM>
+<AM lemma="Broken-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-mf920925-047-p2s2Bw20">
 <src.rf>manual</src.rf>
@@ -257,7 +260,10 @@
 <LM>w#w-mf920925-047-p2s2Bw20</LM>
 </w.rf>
 <form>Arms</form>
-<tag lemma="Arm_;K_,t" src="orig" selected="1">NNXPX-----A----</tag>
+<tag>
+<AM lemma="Arm_;K_,t" src="orig">NNXPX-----A----</AM>
+<AM lemma="Arms-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-mf920925-047-p2s2Bw21">
 <src.rf>manual</src.rf>
@@ -331,7 +337,10 @@
 <LM>w#w-mf920925-047-p2s3w5</LM>
 </w.rf>
 <form>nečekaně</form>
-<tag lemma="nečekaně_^(*1ý)" src="auto" selected="1">Dg-------1A----</tag>
+<tag>
+<AM lemma="nečekaně_^(*1ý)" src="auto">Dg-------1A----</AM>
+<AM lemma="čekaně_^(*1ý)" src="manual" selected="1">Dg-------1N----</AM>
+</tag>
 </m>
 <m id="m-mf920925-047-p2s3w6">
 <src.rf>manual</src.rf>
@@ -421,7 +430,10 @@
 <LM>w#w-mf920925-047-p2s4w8</LM>
 </w.rf>
 <form>Belg</form>
-<tag lemma="Belg_;E" src="orig" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Belg_;E" src="orig">NNMS1-----A----</AM>
+<AM lemma="Belgie" src="manual" selected="1">NNFXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-mf920925-047-p2s4w9">
 <src.rf>manual</src.rf>

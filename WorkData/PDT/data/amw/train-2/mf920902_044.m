@@ -82,6 +82,7 @@
 <AM lemma="můj_^(přivlast.)" src="auto">PSNS5-S1------6</AM>
 <AM lemma="můj_^(přivlast.)" src="auto">PSXP4-S1------7</AM>
 <AM lemma="můj_^(přivlast.)" src="auto">PSYP4-S1------7</AM>
+<AM lemma="mý-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920902-044-p1s1Aw8">
@@ -180,7 +181,10 @@
 <LM>w#w-mf920902-044-p1s1Bw10</LM>
 </w.rf>
 <form>stal</form>
-<tag lemma="stát-2_^(něco_se_přihodilo)" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag>
+<AM lemma="stát-2_^(něco_se_přihodilo)" src="orig">VpYS---XR-AA---</AM>
+<AM lemma="stát-2_^(stanu_staneš)" src="manual" selected="1">VpYS---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-mf920902-044-p1s1Bw11">
 <src.rf>manual</src.rf>
@@ -196,7 +200,10 @@
 <LM>w#w-mf920902-044-p1s1Bw12</LM>
 </w.rf>
 <form>Šmolka</form>
-<tag lemma="šmolka" src="orig" selected="1">NNFS1-----A----</tag>
+<tag>
+<AM lemma="šmolka" src="orig">NNFS1-----A----</AM>
+<AM lemma="Šmolka_;S" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920902-044-p1s1Bw13">
 <src.rf>manual</src.rf>
@@ -294,7 +301,10 @@
 <LM>w#w-mf920902-044-p1s2w6</LM>
 </w.rf>
 <form>zejména</form>
-<tag lemma="zejména-1" src="auto" selected="1">Db-------------</tag>
+<tag>
+<AM lemma="zejména-1" src="auto">Db-------------</AM>
+<AM lemma="zejména-2" src="manual" selected="1">TT-------------</AM>
+</tag>
 </m>
 <m id="m-mf920902-044-p1s2w7">
 <src.rf>manual</src.rf>
@@ -392,7 +402,10 @@
 <LM>w#w-mf920902-044-p1s3w6</LM>
 </w.rf>
 <form>zejména</form>
-<tag lemma="zejména-1" src="auto" selected="1">Db-------------</tag>
+<tag>
+<AM lemma="zejména-1" src="auto">Db-------------</AM>
+<AM lemma="zejména-2" src="manual" selected="1">TT-------------</AM>
+</tag>
 </m>
 <m id="m-mf920902-044-p1s3w7">
 <src.rf>manual</src.rf>
@@ -480,7 +493,10 @@
 <LM>w#w-mf920902-044-p1s3w17</LM>
 </w.rf>
 <form>řekl</form>
-<tag lemma="říci" src="auto" selected="1">VpYS---XR-AA---</tag>
+<tag>
+<AM lemma="říci" src="auto">VpYS---XR-AA---</AM>
+<AM lemma="říci_:W" src="manual" selected="1">VpYS---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-mf920902-044-p1s3w18">
 <src.rf>manual</src.rf>
@@ -496,7 +512,10 @@
 <LM>w#w-mf920902-044-p1s3w19</LM>
 </w.rf>
 <form>Šmolka</form>
-<tag lemma="šmolka" src="orig" selected="1">NNFS1-----A----</tag>
+<tag>
+<AM lemma="šmolka" src="orig">NNFS1-----A----</AM>
+<AM lemma="Šmolka_;S" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920902-044-p1s3w20">
 <src.rf>manual</src.rf>

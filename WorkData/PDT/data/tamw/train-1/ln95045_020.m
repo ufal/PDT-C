@@ -419,7 +419,10 @@
 <LM>w#w-ln95045-020-p2s3w7</LM>
 </w.rf>
 <form>rowdies</form>
-<tag lemma="rowdies" src="orig" selected="1">NNMPX-----A----</tag>
+<tag>
+<AM lemma="rowdies" src="orig">NNMPX-----A----</AM>
+<AM lemma="rowdies-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln95045-020-p2s3w8">
 <src.rf>manual</src.rf>

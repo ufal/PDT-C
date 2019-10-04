@@ -43,7 +43,10 @@
 <LM>w#w-ln94202-119-p1s1w4</LM>
 </w.rf>
 <form>La</form>
-<tag lemma="Le-1_,t_^(franc._člen_jako_souč._jmen_a_názvů)" src="orig" selected="1">AAFSX----1A----</tag>
+<tag>
+<AM lemma="Le-1_,t_^(franc._člen_jako_souč._jmen_a_názvů)" src="orig">AAFSX----1A----</AM>
+<AM lemma="La-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94202-119-p1s1w5">
 <src.rf>manual</src.rf>
@@ -55,6 +58,7 @@
 <AM lemma="Coruňa_;G" src="orig">NNFS2-----A----</AM>
 <AM lemma="Coruňa_;G" src="auto" recommended="1">NNFS3-----A----</AM>
 <AM lemma="Coruňa_;G" src="auto">NNFS6-----A----</AM>
+<AM lemma="Coruňa_;G_;K" src="manual" selected="1">NNFS2-----A----</AM>
 </tag>
 </m>
 </s>
@@ -65,7 +69,10 @@
 <LM>w#w-ln94202-119-p2s1Aw1</LM>
 </w.rf>
 <form>La</form>
-<tag lemma="Le-1_,t_^(franc._člen_jako_souč._jmen_a_názvů)" src="orig" selected="1">AAFSX----1A----</tag>
+<tag>
+<AM lemma="Le-1_,t_^(franc._člen_jako_souč._jmen_a_názvů)" src="orig">AAFSX----1A----</AM>
+<AM lemma="La-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94202-119-p2s1Aw2">
 <src.rf>manual</src.rf>
@@ -74,7 +81,10 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>Coruňa</form>
-<tag lemma="Coruňa_;G" src="orig" selected="1">NNFS1-----A----</tag>
+<tag>
+<AM lemma="Coruňa_;G" src="orig">NNFS1-----A----</AM>
+<AM lemma="Coruňa-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94202-119-p2s1Aw3">
 <src.rf>manual</src.rf>
@@ -406,7 +416,10 @@
 <LM>w#w-ln94202-119-p2s2w21</LM>
 </w.rf>
 <form>Silva</form>
-<tag lemma="Silva_;Y" src="orig" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Silva_;Y" src="orig">NNMS1-----A----</AM>
+<AM lemma="Silva_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94202-119-p2s2w22">
 <src.rf>manual</src.rf>
@@ -744,7 +757,10 @@
 <LM>w#w-ln94202-119-p2s3w31</LM>
 </w.rf>
 <form>Rubena</form>
-<tag lemma="Ruben_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag>
+<AM lemma="Ruben_;S" src="orig">NNMS2-----A----</AM>
+<AM lemma="Ruben_;S_;Y" src="manual" selected="1">NNMS2-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94202-119-p2s3w32">
 <src.rf>manual</src.rf>
@@ -753,7 +769,7 @@
 </w.rf>
 <form>Sosy</form>
 <tag>
-<AM lemma="Sosa_;S" src="orig">NNMS2-----A----</AM>
+<AM lemma="Sosa_;S" src="orig" selected="1">NNMS2-----A----</AM>
 <AM lemma="sos-1" src="auto" recommended="1">NNIP1-----A----</AM>
 <AM lemma="sos-1" src="auto">NNIP4-----A----</AM>
 <AM lemma="sos-1" src="auto">NNIP5-----A----</AM>
@@ -1064,7 +1080,10 @@
 <LM>w#w-ln94202-119-p3s1w34</LM>
 </w.rf>
 <form>milionů</form>
-<tag lemma="milión`1000000" src="orig" selected="1">NNIP2-----A----</tag>
+<tag>
+<AM lemma="milión`1000000" src="orig">NNIP2-----A----</AM>
+<AM lemma="milion`1000000_,s_^(^DD**milión)" src="manual" selected="1">NNIP2-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94202-119-p3s1w35">
 <src.rf>manual</src.rf>
@@ -1340,7 +1359,10 @@
 <LM>w#w-ln94202-119-p3s3w20</LM>
 </w.rf>
 <form>milionů</form>
-<tag lemma="milión`1000000" src="orig" selected="1">NNIP2-----A----</tag>
+<tag>
+<AM lemma="milión`1000000" src="orig">NNIP2-----A----</AM>
+<AM lemma="milion`1000000_,s_^(^DD**milión)" src="manual" selected="1">NNIP2-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94202-119-p3s3w21">
 <src.rf>manual</src.rf>

@@ -51,7 +51,10 @@
 <LM>w#w-ln94203-33-p1s1w5</LM>
 </w.rf>
 <form>hodně</form>
-<tag lemma="hodně-2_^(nezlobivý)_(*3ý-2)" src="auto" selected="1">Dg-------1A----</tag>
+<tag>
+<AM lemma="hodně-2_^(nezlobivý)_(*3ý-2)" src="auto">Dg-------1A----</AM>
+<AM lemma="hodně-1_^(hodně_+_2._p.,_hodně_peněz)" src="manual" selected="1">Ca--4----------</AM>
+</tag>
 </m>
 <m id="m-ln94203-33-p1s1w6">
 <src.rf>manual</src.rf>
@@ -93,7 +96,10 @@
 <LM>w#w-ln94203-33-p2s1Aw4</LM>
 </w.rf>
 <form>dan</form>
-<tag lemma="dan-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="dan-99_:B_;S" src="orig">NNXXX-----A---8</AM>
+<AM lemma="dan-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94203-33-p2s1Aw5">
 <src.rf>manual</src.rf>
@@ -239,7 +245,10 @@
 <LM>w#w-ln94203-33-p2s1Bw16</LM>
 </w.rf>
 <form>agrosalonu</form>
-<tag lemma="agrosalon" src="orig" selected="1">NNIS6-----A---1</tag>
+<tag>
+<AM lemma="agrosalon" src="orig">NNIS6-----A---1</AM>
+<AM lemma="agrosalon_,s_^(^DD**agrosalón)" src="manual" selected="1">NNIS6-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94203-33-p2s1Bw17">
 <src.rf>manual</src.rf>
@@ -709,7 +718,10 @@
 <LM>w#w-ln94203-33-p2s4w15</LM>
 </w.rf>
 <form>atd</form>
-<tag lemma="atd-1_:B_^(a_tak_dále)" src="orig" selected="1">Db------------8</tag>
+<tag>
+<AM lemma="atd-1_:B_^(a_tak_dále)" src="orig">Db------------8</AM>
+<AM lemma="atd-1_:B_^(a_tak_dále)" src="manual" selected="1">Db-------------</AM>
+</tag>
 </m>
 <m id="m-ln94203-33-p2s4w16">
 <src.rf>manual</src.rf>
@@ -773,7 +785,10 @@
 <LM>w#w-ln94203-33-p2s4w23</LM>
 </w.rf>
 <form>KHS</form>
-<tag lemma="KHS-1_:B_;K_^(krajská_hygienická_stanice)" src="auto" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="KHS-1_:B_;K_^(krajská_hygienická_stanice)" src="auto">NNFXX-----A---8</AM>
+<AM lemma="KHS-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94203-33-p2s4w24">
 <src.rf>manual</src.rf>
@@ -781,7 +796,10 @@
 <LM>w#w-ln94203-33-p2s4w24</LM>
 </w.rf>
 <form>Č</form>
-<tag lemma="Český_:B_;G" src="orig" selected="1">AAXXX----1A---8</tag>
+<tag>
+<AM lemma="Český_:B_;G" src="orig">AAXXX----1A---8</AM>
+<AM lemma="Č-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94203-33-p2s4w25">
 <src.rf>manual</src.rf>
@@ -955,7 +973,7 @@
 <tag>
 <AM lemma="l-1`litr" src="orig">NNIS4-----A----</AM>
 <AM lemma="litr" src="auto">NNIS1-----A----</AM>
-<AM lemma="litr" src="auto" recommended="1">NNIS4-----A----</AM>
+<AM lemma="litr" src="auto" recommended="1" selected="1">NNIS4-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94203-33-p2s5w17">
@@ -1088,7 +1106,7 @@
 <tag>
 <AM lemma="l-1`litr" src="orig">NNIS4-----A----</AM>
 <AM lemma="litr" src="auto">NNIS1-----A----</AM>
-<AM lemma="litr" src="auto" recommended="1">NNIS4-----A----</AM>
+<AM lemma="litr" src="auto" recommended="1" selected="1">NNIS4-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94203-33-p2s5w33">
@@ -1163,7 +1181,10 @@
 <LM>w#w-ln94203-33-p2s6w8</LM>
 </w.rf>
 <form>KHS</form>
-<tag lemma="KHS-1_:B_;K_^(krajská_hygienická_stanice)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="KHS-1_:B_;K_^(krajská_hygienická_stanice)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="KHS-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94203-33-p2s6w9">
 <src.rf>manual</src.rf>
@@ -1325,7 +1346,10 @@
 <LM>w#w-ln94203-33-p2s7w3</LM>
 </w.rf>
 <form>P</form>
-<tag lemma="P-0_:B_;Y" src="orig" selected="1">NNMXX-----A---8</tag>
+<tag>
+<AM lemma="P-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
+<AM lemma="P-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94203-33-p2s7w4">
 <src.rf>manual</src.rf>

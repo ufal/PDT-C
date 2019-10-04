@@ -135,7 +135,10 @@
 <LM>w#w-mf930713-131-p2s1Bw7</LM>
 </w.rf>
 <form>JLV</form>
-<tag lemma="JLV-1_:B_^(jídelní_a_lůžkový_vůz)" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="JLV-1_:B_^(jídelní_a_lůžkový_vůz)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="JLV-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-mf930713-131-p2s1Bw8">
 <src.rf>manual</src.rf>
@@ -313,7 +316,10 @@
 <LM>w#w-mf930713-131-p2s2w10</LM>
 </w.rf>
 <form>Paul</form>
-<tag lemma="Paul_;Y" src="auto" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Paul_;Y" src="auto">NNMS1-----A----</AM>
+<AM lemma="Paul_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930713-131-p2s2w11">
 <src.rf>manual</src.rf>
@@ -451,7 +457,10 @@
 <LM>w#w-mf930713-131-p2s3w16</LM>
 </w.rf>
 <form>SR</form>
-<tag lemma="SR-1_:B_;G_^(Slovenská_republika)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="SR-1_:B_;G_^(Slovenská_republika)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="SR-1_:B_;G_^(Slovenská_republika)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930713-131-p2s3w17">
 <src.rf>manual</src.rf>
@@ -694,7 +703,10 @@
 <LM>w#w-mf930713-131-p2s4w14</LM>
 </w.rf>
 <form>milionu</form>
-<tag lemma="milión`1000000" src="orig" selected="1">NNIS2-----A----</tag>
+<tag>
+<AM lemma="milión`1000000" src="orig">NNIS2-----A----</AM>
+<AM lemma="milion`1000000_,s_^(^DD**milión)" src="manual" selected="1">NNIS2-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930713-131-p2s4w15">
 <src.rf>manual</src.rf>
@@ -906,7 +918,10 @@
 <LM>w#w-mf930713-131-p2s6w2</LM>
 </w.rf>
 <form>JLV</form>
-<tag lemma="JLV-1_:B_^(jídelní_a_lůžkový_vůz)" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="JLV-1_:B_^(jídelní_a_lůžkový_vůz)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="JLV-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-mf930713-131-p2s6w3">
 <src.rf>manual</src.rf>
@@ -938,7 +953,10 @@
 <LM>w#w-mf930713-131-p2s6w6</LM>
 </w.rf>
 <form>ČSD</form>
-<tag lemma="ČSD-1_:B_;K_^(Čs._státní_dráhy)" src="orig" selected="1">NNFPX-----A---8</tag>
+<tag>
+<AM lemma="ČSD-1_:B_;K_^(Čs._státní_dráhy)" src="orig">NNFPX-----A---8</AM>
+<AM lemma="ČSD-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-mf930713-131-p2s6w7">
 <src.rf>manual</src.rf>
@@ -1060,7 +1078,10 @@
 <LM>w#w-mf930713-131-p2s7w11</LM>
 </w.rf>
 <form>JLV</form>
-<tag lemma="JLV-1_:B_^(jídelní_a_lůžkový_vůz)" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="JLV-1_:B_^(jídelní_a_lůžkový_vůz)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="JLV-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-mf930713-131-p2s7w12">
 <src.rf>manual</src.rf>
@@ -1457,7 +1478,10 @@
 <LM>w#w-mf930713-131-p2s9w13</LM>
 </w.rf>
 <form>RM</form>
-<tag lemma="RM_:B_;K_;b_^(RM-systém)" src="auto" selected="1">AAXXX----1A---8</tag>
+<tag>
+<AM lemma="RM_:B_;K_;b_^(RM-systém)" src="auto">AAXXX----1A---8</AM>
+<AM lemma="RM-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-mf930713-131-p2s9w14">
 <src.rf>manual</src.rf>

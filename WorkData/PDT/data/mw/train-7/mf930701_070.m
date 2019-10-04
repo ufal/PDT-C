@@ -161,7 +161,11 @@
 <LM>w#w-mf930701-070-p3s2w9</LM>
 </w.rf>
 <form>NOSPAS</form>
-<tag lemma="NOSPAS_:B_;K" src="orig" selected="1">NNNXX-----A---8</tag>
+<tag>
+<AM lemma="NOSPAS_:B_;K" src="orig">NNNXX-----A---8</AM>
+<AM lemma="NOSPAS_:B" src="manual">NNXXX-----A---8</AM>
+<AM lemma="NOSPAS-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930701-070-p3s2w10">
 <src.rf>manual</src.rf>
@@ -531,7 +535,10 @@
 <LM>w#w-mf930701-070-p3s3w7</LM>
 </w.rf>
 <form>DPMO</form>
-<tag lemma="DPMO-1_:B_;K_^(Dopravní_podnik_města_Ostravy)" src="auto" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="DPMO-1_:B_;K_^(Dopravní_podnik_města_Ostravy)" src="auto">NNIXX-----A---8</AM>
+<AM lemma="DPMO-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930701-070-p3s3w8">
 <src.rf>manual</src.rf>
@@ -571,7 +578,10 @@
 <LM>w#w-mf930701-070-p3s3w12</LM>
 </w.rf>
 <form>má</form>
-<tag lemma="mít" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag>
+<AM lemma="mít" src="orig">VB-S---3P-AA---</AM>
+<AM lemma="mít_:T" src="manual" selected="1">VB-S---3P-AA---</AM>
+</tag>
 </m>
 <m id="m-mf930701-070-p3s3w13">
 <src.rf>manual</src.rf>
@@ -723,7 +733,10 @@
 <LM>w#w-mf930701-070-p3s3w31</LM>
 </w.rf>
 <form>DPMO</form>
-<tag lemma="DPMO-1_:B_;K_^(Dopravní_podnik_města_Ostravy)" src="auto" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="DPMO-1_:B_;K_^(Dopravní_podnik_města_Ostravy)" src="auto">NNIXX-----A---8</AM>
+<AM lemma="DPMO-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930701-070-p3s3w32">
 <src.rf>manual</src.rf>
@@ -1033,7 +1046,10 @@
 <LM>w#w-mf930701-070-p3s6w6</LM>
 </w.rf>
 <form>miliony</form>
-<tag lemma="milión`1000000" src="orig" selected="1">NNIP4-----A----</tag>
+<tag>
+<AM lemma="milión`1000000" src="orig">NNIP4-----A----</AM>
+<AM lemma="milion`1000000_,s_^(^DD**milión)" src="manual" selected="1">NNIP4-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930701-070-p3s6w7">
 <src.rf>manual</src.rf>
@@ -1097,7 +1113,11 @@
 <LM>w#w-mf930701-070-p3s6w14</LM>
 </w.rf>
 <form>SNIP</form>
-<tag lemma="SNIP_:B_;K" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="SNIP_:B_;K" src="orig">NNXXX-----A---8</AM>
+<AM lemma="SNIP_:B" src="manual">NNXXX-----A---8</AM>
+<AM lemma="SNIP-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930701-070-p3s6w15">
 <src.rf>manual</src.rf>
@@ -1229,7 +1249,10 @@
 <LM>w#w-mf930701-070-p3s8w5</LM>
 </w.rf>
 <form>DPMO</form>
-<tag lemma="DPMO-1_:B_;K_^(Dopravní_podnik_města_Ostravy)" src="auto" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="DPMO-1_:B_;K_^(Dopravní_podnik_města_Ostravy)" src="auto">NNIXX-----A---8</AM>
+<AM lemma="DPMO-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930701-070-p3s8w6">
 <src.rf>manual</src.rf>
@@ -1293,7 +1316,10 @@
 <LM>w#w-mf930701-070-p3s8w13</LM>
 </w.rf>
 <form>DPMO</form>
-<tag lemma="DPMO-1_:B_;K_^(Dopravní_podnik_města_Ostravy)" src="auto" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="DPMO-1_:B_;K_^(Dopravní_podnik_města_Ostravy)" src="auto">NNIXX-----A---8</AM>
+<AM lemma="DPMO-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930701-070-p3s8w14">
 <src.rf>manual</src.rf>
@@ -1353,7 +1379,7 @@
 <form>Přesto</form>
 <tag>
 <AM lemma="přesto" src="orig">Dg-------1A----</AM>
-<AM lemma="přesto-1" src="auto" recommended="1">Db-------------</AM>
+<AM lemma="přesto-1" src="auto" recommended="1" selected="1">Db-------------</AM>
 <AM lemma="přesto-2" src="auto">J^-------------</AM>
 </tag>
 </m>
@@ -1381,7 +1407,7 @@
 <form>snad</form>
 <tag>
 <AM lemma="snad" src="orig">Db-------------</AM>
-<AM lemma="snad" src="auto" recommended="1">TT-------------</AM>
+<AM lemma="snad" src="auto" recommended="1" selected="1">TT-------------</AM>
 </tag>
 </m>
 <m id="m-mf930701-070-p3s9w5">
@@ -1560,7 +1586,11 @@
 <LM>w#w-mf930701-070-p3s10w15</LM>
 </w.rf>
 <form>SNIP</form>
-<tag lemma="SNIP_:B_;K" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="SNIP_:B_;K" src="orig">NNXXX-----A---8</AM>
+<AM lemma="SNIP_:B" src="manual">NNXXX-----A---8</AM>
+<AM lemma="SNIP-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930701-070-p3s10w16">
 <src.rf>manual</src.rf>
@@ -1602,7 +1632,10 @@
 <LM>w#w-mf930701-070-p3s11w4</LM>
 </w.rf>
 <form>podepsal</form>
-<tag lemma="podepsat" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag>
+<AM lemma="podepsat" src="orig">VpYS---XR-AA---</AM>
+<AM lemma="podepsat_:W" src="manual" selected="1">VpYS---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-mf930701-070-p3s11w5">
 <src.rf>manual</src.rf>
@@ -1644,7 +1677,10 @@
 <LM>w#w-mf930701-070-p3s12w1</LM>
 </w.rf>
 <form>Ukázala</form>
-<tag lemma="ukázat" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag>
+<AM lemma="ukázat" src="orig">VpQW---XR-AA---</AM>
+<AM lemma="ukázat_:W" src="manual" selected="1">VpQW---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-mf930701-070-p3s12w2">
 <src.rf>manual</src.rf>
@@ -1668,7 +1704,10 @@
 <LM>w#w-mf930701-070-p3s12w4</LM>
 </w.rf>
 <form>DPMO</form>
-<tag lemma="DPMO-1_:B_;K_^(Dopravní_podnik_města_Ostravy)" src="auto" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="DPMO-1_:B_;K_^(Dopravní_podnik_města_Ostravy)" src="auto">NNIXX-----A---8</AM>
+<AM lemma="DPMO-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930701-070-p3s12w5">
 <src.rf>manual</src.rf>
@@ -1702,7 +1741,7 @@
 <form>ovšem</form>
 <tag>
 <AM lemma="ovšem-1_^(avšak,_však;_odporovací_spojka)" src="orig">J^-------------</AM>
-<AM lemma="ovšem" src="auto" recommended="1">TT-------------</AM>
+<AM lemma="ovšem" src="auto" recommended="1" selected="1">TT-------------</AM>
 </tag>
 </m>
 <m id="m-mf930701-070-p3s12w9">
@@ -1769,7 +1808,10 @@
 <LM>w#w-mf930701-070-p3s13w3</LM>
 </w.rf>
 <form>viděli</form>
-<tag lemma="vidět" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag>
+<AM lemma="vidět" src="orig">VpMP---XR-AA---</AM>
+<AM lemma="vidět_:T" src="manual" selected="1">VpMP---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-mf930701-070-p3s13w4">
 <src.rf>manual</src.rf>
@@ -1901,7 +1943,7 @@
 <form>nejen</form>
 <tag>
 <AM lemma="nejen" src="orig">TT-------------</AM>
-<AM lemma="nejen" src="auto" recommended="1">Db-------------</AM>
+<AM lemma="nejen" src="auto" recommended="1" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m-mf930701-070-p3s14w5">
@@ -1950,7 +1992,10 @@
 <LM>w#w-mf930701-070-p3s14w10</LM>
 </w.rf>
 <form>SNIP</form>
-<tag lemma="SNIP_:B_;K" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="SNIP_:B_;K" src="orig">NNXXX-----A---8</AM>
+<AM lemma="SNIP-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930701-070-p3s14w11">
 <src.rf>manual</src.rf>
@@ -1982,7 +2027,10 @@
 <LM>w#w-mf930701-070-p3s14w14</LM>
 </w.rf>
 <form>prohrál</form>
-<tag lemma="prohrát" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag>
+<AM lemma="prohrát" src="orig">VpYS---XR-AA---</AM>
+<AM lemma="prohrát_:W" src="manual" selected="1">VpYS---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-mf930701-070-p3s14w15">
 <src.rf>manual</src.rf>
@@ -1998,7 +2046,10 @@
 <LM>w#w-mf930701-070-p3s14w16</LM>
 </w.rf>
 <form>miliony</form>
-<tag lemma="milión`1000000" src="orig" selected="1">NNIP4-----A----</tag>
+<tag>
+<AM lemma="milión`1000000" src="orig">NNIP4-----A----</AM>
+<AM lemma="milion`1000000_,s_^(^DD**milión)" src="manual" selected="1">NNIP4-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930701-070-p3s14w17">
 <src.rf>manual</src.rf>
@@ -2048,7 +2099,10 @@
 <LM>w#w-mf930701-070-p3s15w5</LM>
 </w.rf>
 <form>DPMO</form>
-<tag lemma="DPMO-1_:B_;K_^(Dopravní_podnik_města_Ostravy)" src="auto" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="DPMO-1_:B_;K_^(Dopravní_podnik_města_Ostravy)" src="auto">NNIXX-----A---8</AM>
+<AM lemma="DPMO-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930701-070-p3s15w6">
 <src.rf>manual</src.rf>
@@ -2088,7 +2142,10 @@
 <LM>w#w-mf930701-070-p3s15w10</LM>
 </w.rf>
 <form>milionů</form>
-<tag lemma="milión`1000000" src="orig" selected="1">NNIP2-----A----</tag>
+<tag>
+<AM lemma="milión`1000000" src="orig">NNIP2-----A----</AM>
+<AM lemma="milion`1000000_,s_^(^DD**milión)" src="manual" selected="1">NNIP2-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930701-070-p3s15w11">
 <src.rf>manual</src.rf>
@@ -2138,7 +2195,10 @@
 <LM>w#w-mf930701-070-p3s16w4</LM>
 </w.rf>
 <form>strany</form>
-<tag lemma="strana-3_^(u_soudu,_na_úřadě,_smluvní_strany;_na_něčí_straně)" src="orig" selected="1">NNFP1-----A----</tag>
+<tag>
+<AM lemma="strana-3_^(u_soudu,_na_úřadě,_smluvní_strany;_na_něčí_straně)" src="orig">NNFP1-----A----</AM>
+<AM lemma="strana" src="manual" selected="1">NNFP1-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930701-070-p3s16w5">
 <src.rf>manual</src.rf>
@@ -2196,7 +2256,7 @@
 <form>nejen</form>
 <tag>
 <AM lemma="nejen" src="orig">TT-------------</AM>
-<AM lemma="nejen" src="auto" recommended="1">Db-------------</AM>
+<AM lemma="nejen" src="auto" recommended="1" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m-mf930701-070-p3s16w12">
@@ -2213,7 +2273,10 @@
 <LM>w#w-mf930701-070-p3s16w13</LM>
 </w.rf>
 <form>DPMO</form>
-<tag lemma="DPMO-1_:B_;K_^(Dopravní_podnik_města_Ostravy)" src="auto" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="DPMO-1_:B_;K_^(Dopravní_podnik_města_Ostravy)" src="auto">NNIXX-----A---8</AM>
+<AM lemma="DPMO-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930701-070-p3s16w14">
 <src.rf>manual</src.rf>
@@ -2301,7 +2364,10 @@
 <LM>w#w-mf930701-070-p3s16w24</LM>
 </w.rf>
 <form>miliony</form>
-<tag lemma="milión`1000000" src="orig" selected="1">NNIP4-----A----</tag>
+<tag>
+<AM lemma="milión`1000000" src="orig">NNIP4-----A----</AM>
+<AM lemma="milion`1000000_,s_^(^DD**milión)" src="manual" selected="1">NNIP4-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930701-070-p3s16w25">
 <src.rf>manual</src.rf>
@@ -2383,7 +2449,10 @@
 <LM>w#w-mf930701-070-p3s17w9</LM>
 </w.rf>
 <form>slyšet</form>
-<tag lemma="slyšet" src="orig" selected="1">Vf--------A----</tag>
+<tag>
+<AM lemma="slyšet" src="orig">Vf--------A----</AM>
+<AM lemma="slyšet_:T" src="manual" selected="1">Vf--------A----</AM>
+</tag>
 </m>
 <m id="m-mf930701-070-p3s17w10">
 <src.rf>manual</src.rf>
@@ -2566,6 +2635,7 @@
 <tag>
 <AM lemma="netřeba-1" src="orig">ACNS------N----</AM>
 <AM lemma="netřeba-2" src="auto" recommended="1">Db-------------</AM>
+<AM lemma="třeba-2" src="manual" selected="1">Db--------N----</AM>
 </tag>
 </m>
 <m id="m-mf930701-070-p3s19w8">
@@ -2802,7 +2872,10 @@
 <LM>w#w-mf930701-070-p3s21w16</LM>
 </w.rf>
 <form>nedošlo</form>
-<tag lemma="dojít" src="orig" selected="1">VpNS---XR-NA---</tag>
+<tag>
+<AM lemma="dojít" src="orig">VpNS---XR-NA---</AM>
+<AM lemma="dojít_:W" src="manual" selected="1">VpNS---XR-NA---</AM>
+</tag>
 </m>
 <m id="m-mf930701-070-p3s21w17">
 <src.rf>manual</src.rf>

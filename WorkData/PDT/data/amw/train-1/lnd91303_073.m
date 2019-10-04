@@ -53,7 +53,10 @@
 <LM>w#w-lnd91303-073-p2s1w2</LM>
 </w.rf>
 <form>LN</form>
-<tag lemma="LN-1_:B_;R_^(Lidové_noviny,_deník)" src="orig" selected="1">NNFPX-----A---8</tag>
+<tag>
+<AM lemma="LN-1_:B_;R_^(Lidové_noviny,_deník)" src="orig">NNFPX-----A---8</AM>
+<AM lemma="LN-1_:B_;K_;R_^(Lidové_noviny)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd91303-073-p2s1w3">
 <src.rf>manual</src.rf>
@@ -61,7 +64,10 @@
 <LM>w#w-lnd91303-073-p2s1w3</LM>
 </w.rf>
 <form>č</form>
-<tag lemma="číslo_:B" src="orig" selected="1">NNNXX-----A---8</tag>
+<tag>
+<AM lemma="číslo_:B" src="orig">NNNXX-----A---8</AM>
+<AM lemma="číslo" src="manual" selected="1">NNNXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd91303-073-p2s1w4">
 <src.rf>manual</src.rf>
@@ -335,7 +341,10 @@
 <LM>w#w-lnd91303-073-p3s1w31</LM>
 </w.rf>
 <form>FS</form>
-<tag lemma="FS_:B_;K_^(Federální_shromáždění)" src="orig" selected="1">NNNXX-----A---8</tag>
+<tag>
+<AM lemma="FS_:B_;K_^(Federální_shromáždění)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="FS-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd91303-073-p3s1w32">
 <src.rf>manual</src.rf>
@@ -425,7 +434,10 @@
 <LM>w#w-lnd91303-073-p3s2w3</LM>
 </w.rf>
 <form>li</form>
-<tag lemma="li-1" src="auto" selected="1">TT-------------</tag>
+<tag>
+<AM lemma="li-1" src="auto">TT-------------</AM>
+<AM lemma="li-2" src="manual" selected="1">J,-------------</AM>
+</tag>
 </m>
 <m id="m-lnd91303-073-p3s2w4">
 <src.rf>manual</src.rf>
@@ -601,7 +613,10 @@
 <LM>w#w-lnd91303-073-p3s2w25</LM>
 </w.rf>
 <form>festine</form>
-<tag lemma="festine_,t" src="orig" selected="1">NNXXX-----A----</tag>
+<tag>
+<AM lemma="festine_,t" src="orig">NNXXX-----A----</AM>
+<AM lemma="festine-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-lnd91303-073-p3s2w26">
 <src.rf>manual</src.rf>
@@ -609,7 +624,10 @@
 <LM>w#w-lnd91303-073-p3s2w26</LM>
 </w.rf>
 <form>lente</form>
-<tag lemma="lente_,t" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="lente_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="lente-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-lnd91303-073-p3s2w27">
 <src.rf>manual</src.rf>
@@ -723,7 +741,10 @@
 <LM>w#w-lnd91303-073-p4s1w1</LM>
 </w.rf>
 <form>Dále</form>
-<tag lemma="daleko-1" src="orig" selected="1">Dg-------2A---1</tag>
+<tag>
+<AM lemma="daleko-1" src="orig">Dg-------2A---1</AM>
+<AM lemma="dále-3_^(také,_za_další,_popořadě;_čas._i_míst.;_nestupňuje_se)" src="manual" selected="1">Db-------------</AM>
+</tag>
 </m>
 <m id="m-lnd91303-073-p4s1w2">
 <src.rf>manual</src.rf>
@@ -871,7 +892,7 @@
 <form>tedy</form>
 <tag>
 <AM lemma="tedy" src="orig">Db-------------</AM>
-<AM lemma="tedy-1" src="auto">TT-------------</AM>
+<AM lemma="tedy-1" src="auto" selected="1">TT-------------</AM>
 <AM lemma="tedy-2" src="auto" recommended="1">J^-------------</AM>
 </tag>
 </m>
@@ -961,7 +982,10 @@
 <LM>w#w-lnd91303-073-p4s2w18</LM>
 </w.rf>
 <form>očích</form>
-<tag lemma="oko" src="orig" selected="1">NNFP6-----A----</tag>
+<tag>
+<AM lemma="oko" src="orig">NNFP6-----A----</AM>
+<AM lemma="oko-2" src="manual" selected="1">NNFP6-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd91303-073-p4s2w19">
 <src.rf>manual</src.rf>
@@ -1147,7 +1171,10 @@
 <LM>w#w-lnd91303-073-p4s3w10</LM>
 </w.rf>
 <form>stran</form>
-<tag lemma="strana-2_^(politická)" src="orig" selected="1">NNFP2-----A----</tag>
+<tag>
+<AM lemma="strana-2_^(politická)" src="orig">NNFP2-----A----</AM>
+<AM lemma="strana" src="manual" selected="1">NNFP2-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd91303-073-p4s3w11">
 <src.rf>manual</src.rf>
@@ -1427,7 +1454,10 @@
 <LM>w#w-lnd91303-073-p4s7w3</LM>
 </w.rf>
 <form>li</form>
-<tag lemma="li-1" src="auto" selected="1">TT-------------</tag>
+<tag>
+<AM lemma="li-1" src="auto">TT-------------</AM>
+<AM lemma="li-2" src="manual" selected="1">J,-------------</AM>
+</tag>
 </m>
 <m id="m-lnd91303-073-p4s7w4">
 <src.rf>manual</src.rf>
@@ -2042,7 +2072,10 @@
 <LM>w#w-lnd91303-073-p5s1w23</LM>
 </w.rf>
 <form>vlastně</form>
-<tag lemma="vlastně_^(příslušný_k_něčemu)_(*1í)" src="auto" selected="1">Dg-------1A----</tag>
+<tag>
+<AM lemma="vlastně_^(příslušný_k_něčemu)_(*1í)" src="auto">Dg-------1A----</AM>
+<AM lemma="vlastně-3" src="manual" selected="1">TT-------------</AM>
+</tag>
 </m>
 <m id="m-lnd91303-073-p5s1w24">
 <src.rf>manual</src.rf>

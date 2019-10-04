@@ -242,7 +242,7 @@
 <AM lemma="Červený_;S" src="auto">NNMP2-----A----</AM>
 <AM lemma="Červený_;S" src="auto">NNMP6-----A----</AM>
 <AM lemma="červený-1_;o" src="auto">AAFP2----1A----</AM>
-<AM lemma="červený-1_;o" src="auto" recommended="1">AAFP6----1A----</AM>
+<AM lemma="červený-1_;o" src="auto" recommended="1" selected="1">AAFP6----1A----</AM>
 <AM lemma="červený-1_;o" src="auto">AAIP2----1A----</AM>
 <AM lemma="červený-1_;o" src="auto">AAIP6----1A----</AM>
 <AM lemma="červený-1_;o" src="auto">AAMP2----1A----</AM>

@@ -269,7 +269,13 @@
 <LM>w#w-mf920922-076-p2s1w29</LM>
 </w.rf>
 <form>FIL</form>
-<tag lemma="Fil_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Fil_;S" src="orig">NNMS1-----A----</AM>
+<AM lemma="Fil_;SFIL-1_:B_;K_,t_^(Fédération_Internat._de_Luige_de_Course)" src="manual">NNXXX-----A---8</AM>
+<AM lemma="Fil_;SFIL-1_:B_;K_,t_^(Fédération_Internat._de_Luige_de_Course)" src="manual">NNFXX-----A---8</AM>
+<AM lemma="FIL-1_:B_;K_,t_^(Fédération_Internat._de_Luige_de_Course)" src="manual">NNFXX-----A---8</AM>
+<AM lemma="FIL-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920922-076-p2s1w30">
 <src.rf>manual</src.rf>
@@ -523,6 +529,7 @@
 <AM lemma="filiálka_:B" src="auto">NNFXX-----A---8</AM>
 <AM lemma="filozofický_:B" src="auto">AAXXX----1A---8</AM>
 <AM lemma="filozofie_:B" src="auto">NNFXX-----A---8</AM>
+<AM lemma="FIL-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920922-076-p2s3w9">
@@ -531,7 +538,10 @@
 <LM>w#w-mf920922-076-p2s3w9</LM>
 </w.rf>
 <form>dr</form>
-<tag lemma="doktor_:B_^(doktor,_akad._titul)" src="orig" selected="1">NNMXX-----A---8</tag>
+<tag>
+<AM lemma="doktor_:B_^(doktor,_akad._titul)" src="orig">NNMXX-----A---8</AM>
+<AM lemma="dr_:B_^(doktor)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920922-076-p2s3w10">
 <src.rf>manual</src.rf>
@@ -645,7 +655,10 @@
 <LM>w#w-mf920922-076-p2s4w1</LM>
 </w.rf>
 <form>Prof</form>
-<tag lemma="profesor_:B" src="orig" selected="1">NNMXX-----A---8</tag>
+<tag>
+<AM lemma="profesor_:B" src="orig">NNMXX-----A---8</AM>
+<AM lemma="prof_:B_^(profesor)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920922-076-p2s4w2">
 <src.rf>manual</src.rf>

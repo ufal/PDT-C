@@ -207,7 +207,10 @@
 <LM>w#w-lnd91303-027-p3s1w18</LM>
 </w.rf>
 <form>řine</form>
-<tag lemma="řinout" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag>
+<AM lemma="řinout" src="orig">VB-S---3P-AA---</AM>
+<AM lemma="řinout_:T" src="manual" selected="1">VB-S---3P-AA---</AM>
+</tag>
 </m>
 <m id="m-lnd91303-027-p3s1w19">
 <src.rf>manual</src.rf>
@@ -223,7 +226,10 @@
 <LM>w#w-lnd91303-027-p3s1w20</LM>
 </w.rf>
 <form>vulgarismů</form>
-<tag lemma="vulgarismus" src="orig" selected="1">NNIP2-----A----</tag>
+<tag>
+<AM lemma="vulgarismus" src="orig">NNIP2-----A----</AM>
+<AM lemma="vulgarismus_^(^DD**vulgarizmus)" src="manual" selected="1">NNIP2-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd91303-027-p3s1w21">
 <src.rf>manual</src.rf>
@@ -722,7 +728,7 @@
 <AM lemma="sedmý" src="auto">CrFP1----------</AM>
 <AM lemma="sedmý" src="auto">CrFP4----------</AM>
 <AM lemma="sedmý" src="auto">CrFP5----------</AM>
-<AM lemma="sedmý" src="auto" recommended="1">CrFS2----------</AM>
+<AM lemma="sedmý" src="auto" recommended="1" selected="1">CrFS2----------</AM>
 <AM lemma="sedmý" src="auto">CrFS3----------</AM>
 <AM lemma="sedmý" src="auto">CrFS6----------</AM>
 <AM lemma="sedmý" src="auto">CrIP1----------</AM>
@@ -1043,7 +1049,10 @@
 <LM>w#w-lnd91303-027-p3s6w5</LM>
 </w.rf>
 <form>vyspí</form>
-<tag lemma="vyspat" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag>
+<AM lemma="vyspat" src="orig">VB-S---3P-AA---</AM>
+<AM lemma="vyspat_:W" src="manual" selected="1">VB-S---3P-AA---</AM>
+</tag>
 </m>
 <m id="m-lnd91303-027-p3s6w6">
 <src.rf>manual</src.rf>
@@ -1091,7 +1100,10 @@
 <LM>w#w-lnd91303-027-p3s6w11</LM>
 </w.rf>
 <form>rostou</form>
-<tag lemma="růst-2" src="orig" selected="1">VB-P---3P-AA---</tag>
+<tag>
+<AM lemma="růst-2" src="orig">VB-P---3P-AA---</AM>
+<AM lemma="růst-2_:T" src="manual" selected="1">VB-P---3P-AA---</AM>
+</tag>
 </m>
 <m id="m-lnd91303-027-p3s6w12">
 <src.rf>manual</src.rf>
@@ -1383,6 +1395,8 @@
 <AM lemma="podnik_:B" src="auto">NNIXX-----A---8</AM>
 <AM lemma="popisný_:B" src="auto">AAXXX----1A---8</AM>
 <AM lemma="post-2_:B_,t_^(lat.,_po,_např._P.S.)" src="auto">RR--X---------8</AM>
+<AM lemma="p-1_:B" src="manual">NNXXX-----A---8</AM>
+<AM lemma="p-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd91303-027-p3s7Aw31">
@@ -1489,7 +1503,10 @@
 <LM>w#w-lnd91303-027-p3s7Bw11</LM>
 </w.rf>
 <form>vulgarismy</form>
-<tag lemma="vulgarismus" src="orig" selected="1">NNIP7-----A----</tag>
+<tag>
+<AM lemma="vulgarismus" src="orig">NNIP7-----A----</AM>
+<AM lemma="vulgarismus_^(^DD**vulgarizmus)" src="manual" selected="1">NNIP7-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd91303-027-p3s7Bw12">
 <src.rf>manual</src.rf>
@@ -2087,7 +2104,10 @@
 <LM>w#w-lnd91303-027-p4s2w4</LM>
 </w.rf>
 <form>mají</form>
-<tag lemma="mít" src="orig" selected="1">VB-P---3P-AA---</tag>
+<tag>
+<AM lemma="mít" src="orig">VB-P---3P-AA---</AM>
+<AM lemma="mít_:T" src="manual" selected="1">VB-P---3P-AA---</AM>
+</tag>
 </m>
 <m id="m-lnd91303-027-p4s2w5">
 <src.rf>manual</src.rf>
@@ -2329,7 +2349,10 @@
 <LM>w#w-lnd91303-027-p4s3w8</LM>
 </w.rf>
 <form>kpt</form>
-<tag lemma="kapitán_:B" src="orig" selected="1">NNMXX-----A---8</tag>
+<tag>
+<AM lemma="kapitán_:B" src="orig">NNMXX-----A---8</AM>
+<AM lemma="kpt_:B_^(kapitán)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd91303-027-p4s3w9">
 <src.rf>manual</src.rf>
@@ -2345,7 +2368,10 @@
 <LM>w#w-lnd91303-027-p4s3w10</LM>
 </w.rf>
 <form>M</form>
-<tag lemma="M-0_:B_;Y" src="orig" selected="1">NNMXX-----A---8</tag>
+<tag>
+<AM lemma="M-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
+<AM lemma="M-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd91303-027-p4s3w11">
 <src.rf>manual</src.rf>

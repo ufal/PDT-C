@@ -1811,6 +1811,7 @@
 <AM lemma="le-1_,t_^(franc._člen,_ne_v_názvech)" src="auto">XX-------------</AM>
 <AM lemma="les" src="auto">NNIS1-----A----</AM>
 <AM lemma="les" src="auto">NNIS4-----A----</AM>
+<AM lemma="Les-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-lnd91303-090-p8s1w39">
@@ -1819,7 +1820,11 @@
 <LM>w#w-lnd91303-090-p8s1w39</LM>
 </w.rf>
 <form>Saises</form>
-<tag lemma="Saises_;G" src="orig" selected="1">NNXXX-----A----</tag>
+<tag>
+<AM lemma="Saises_;G" src="orig">NNXXX-----A----</AM>
+<AM lemma="Saises_;G" src="manual">NNXXX-----A----</AM>
+<AM lemma="Saises-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-lnd91303-090-p8s1w40">
 <src.rf>manual</src.rf>

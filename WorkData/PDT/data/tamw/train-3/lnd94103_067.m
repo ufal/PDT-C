@@ -19,7 +19,10 @@
 <LM>w#w-lnd94103-067-p1s1w1</LM>
 </w.rf>
 <form>Dolar</form>
-<tag lemma="dolar_;b" src="orig" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="dolar_;b" src="orig">NNIS1-----A----</AM>
+<AM lemma="dolar" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd94103-067-p1s1w2">
 <src.rf>manual</src.rf>
@@ -181,7 +184,10 @@
 <LM>w#w-lnd94103-067-p1s1w21</LM>
 </w.rf>
 <form>dolaru</form>
-<tag lemma="dolar_;b" src="orig" selected="1">NNIS2-----A----</tag>
+<tag>
+<AM lemma="dolar_;b" src="orig">NNIS2-----A----</AM>
+<AM lemma="dolar" src="manual" selected="1">NNIS2-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd94103-067-p1s1w22">
 <src.rf>manual</src.rf>
@@ -311,7 +317,10 @@
 <LM>w#w-lnd94103-067-p1s2w7</LM>
 </w.rf>
 <form>kurz</form>
-<tag lemma="kurs" src="auto" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="kurs" src="auto">NNIS1-----A----</AM>
+<AM lemma="kurs_,s_^(^DD**kurz)" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd94103-067-p1s2w8">
 <src.rf>manual</src.rf>
@@ -319,7 +328,10 @@
 <LM>w#w-lnd94103-067-p1s2w8</LM>
 </w.rf>
 <form>dolaru</form>
-<tag lemma="dolar_;b" src="orig" selected="1">NNIS2-----A----</tag>
+<tag>
+<AM lemma="dolar_;b" src="orig">NNIS2-----A----</AM>
+<AM lemma="dolar" src="manual" selected="1">NNIS2-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd94103-067-p1s2w9">
 <src.rf>manual</src.rf>
@@ -442,6 +454,7 @@
 <tag>
 <AM lemma="USA_;G" src="orig">NNIPX-----A----</AM>
 <AM lemma="USA_:B_;K_,t_^(United_States_of_America)" src="auto" recommended="1">NNIPX-----A---8</AM>
+<AM lemma="USA_:B_;K_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94103-067-p1s2w24">
@@ -581,7 +594,10 @@
 <LM>w#w-lnd94103-067-p1s3w3</LM>
 </w.rf>
 <form>dolaru</form>
-<tag lemma="dolar_;b" src="orig" selected="1">NNIS2-----A----</tag>
+<tag>
+<AM lemma="dolar_;b" src="orig">NNIS2-----A----</AM>
+<AM lemma="dolar_" src="manual" selected="1">NNIS2-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd94103-067-p1s3w4">
 <src.rf>manual</src.rf>
@@ -655,7 +671,7 @@
 <form>přičemž</form>
 <tag>
 <AM lemma="přičemž" src="orig">J,-------------</AM>
-<AM lemma="přičemž" src="auto" recommended="1">Db-------------</AM>
+<AM lemma="přičemž" src="auto" recommended="1" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m-lnd94103-067-p1s3w13">
@@ -874,7 +890,10 @@
 <LM>w#w-lnd94103-067-p1s4w10</LM>
 </w.rf>
 <form>FED</form>
-<tag lemma="Fed_;Y" src="orig" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Fed_;Y" src="orig">NNMS1-----A----</AM>
+<AM lemma="FED-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd94103-067-p1s4w11">
 <src.rf>manual</src.rf>
@@ -1078,7 +1097,10 @@
 <LM>w#w-lnd94103-067-p1s5w6</LM>
 </w.rf>
 <form>dolaru</form>
-<tag lemma="dolar_;b" src="orig" selected="1">NNIS2-----A----</tag>
+<tag>
+<AM lemma="dolar_;b" src="orig">NNIS2-----A----</AM>
+<AM lemma="dolar" src="manual" selected="1">NNIS2-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd94103-067-p1s5w7">
 <src.rf>manual</src.rf>
@@ -1315,6 +1337,7 @@
 <tag>
 <AM lemma="USA_;G" src="orig">NNIPX-----A----</AM>
 <AM lemma="USA_:B_;K_,t_^(United_States_of_America)" src="auto" recommended="1">NNIPX-----A---8</AM>
+<AM lemma="USA_:B_;K_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94103-067-p1s6w11">
@@ -1367,7 +1390,7 @@
 <form>totiž</form>
 <tag>
 <AM lemma="totiž" src="orig">Db-------------</AM>
-<AM lemma="totiž-1" src="auto" recommended="1">J^-------------</AM>
+<AM lemma="totiž-1" src="auto" recommended="1" selected="1">J^-------------</AM>
 <AM lemma="totiž-2" src="auto">TT-------------</AM>
 </tag>
 </m>
@@ -1595,7 +1618,10 @@
 <LM>w#w-lnd94103-067-p1s8w21</LM>
 </w.rf>
 <form>FED</form>
-<tag lemma="Fed_;Y" src="auto" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Fed_;Y" src="auto">NNMS1-----A----</AM>
+<AM lemma="FED-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd94103-067-p1s8w22">
 <src.rf>manual</src.rf>
@@ -1757,7 +1783,10 @@
 <LM>w#w-lnd94103-067-p1s9w18</LM>
 </w.rf>
 <form>dolar</form>
-<tag lemma="dolar_;b" src="orig" selected="1">NNIS4-----A----</tag>
+<tag>
+<AM lemma="dolar_;b" src="orig">NNIS4-----A----</AM>
+<AM lemma="dolar" src="manual" selected="1">NNIS4-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd94103-067-p1s9w19">
 <src.rf>manual</src.rf>
@@ -1799,7 +1828,7 @@
 <form>vůbec</form>
 <tag>
 <AM lemma="vůbec" src="orig">Db-------------</AM>
-<AM lemma="vůbec" src="auto" recommended="1">TT-------------</AM>
+<AM lemma="vůbec" src="auto" recommended="1" selected="1">TT-------------</AM>
 </tag>
 </m>
 <m id="m-lnd94103-067-p1s9w24">
@@ -2438,7 +2467,11 @@
 <LM>w#w-lnd94103-067-p1s12w6</LM>
 </w.rf>
 <form>dolaru</form>
-<tag lemma="dolar_;b" src="orig" selected="1">NNIS2-----A----</tag>
+<tag>
+<AM lemma="dolar_;b" src="orig">NNIS2-----A----</AM>
+<AM lemma="dolaru-88_:B" src="manual">NNXXX-----A----</AM>
+<AM lemma="dolar" src="manual" selected="1">NNIS2-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd94103-067-p1s12w7">
 <src.rf>manual</src.rf>
@@ -2715,6 +2748,7 @@
 <tag>
 <AM lemma="USA_;G" src="orig">NNIPX-----A----</AM>
 <AM lemma="USA_:B_;K_,t_^(United_States_of_America)" src="auto" recommended="1">NNIPX-----A---8</AM>
+<AM lemma="USA_:B_;K_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94103-067-p1s13w18">
@@ -2927,7 +2961,10 @@
 <LM>w#w-lnd94103-067-p1s15w2</LM>
 </w.rf>
 <form>dolar</form>
-<tag lemma="dolar_;b" src="orig" selected="1">NNIS4-----A----</tag>
+<tag>
+<AM lemma="dolar_;b" src="orig">NNIS4-----A----</AM>
+<AM lemma="dolar" src="manual" selected="1">NNIS4-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd94103-067-p1s15w3">
 <src.rf>manual</src.rf>
@@ -3212,6 +3249,7 @@
 <tag>
 <AM lemma="am-99_:B_;S" src="orig">NNXXX-----A---8</AM>
 <AM lemma="be_,t_^(angl._jsem,_v_názvech_apod.)" src="auto" recommended="1">VB-S---1P-AA---</AM>
+<AM lemma="am-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94103-067-p1s16w3">

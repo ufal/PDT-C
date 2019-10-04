@@ -108,7 +108,7 @@
 </w.rf>
 <form>tma</form>
 <tag>
-<AM lemma="tma-99_:B_;S" src="orig">NNXXX-----A---8</AM>
+<AM lemma="tma-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</AM>
 <AM lemma="tma" src="auto" recommended="1">NNFS1-----A----</AM>
 </tag>
 </m>
@@ -290,7 +290,7 @@
 <form>totiž</form>
 <tag>
 <AM lemma="totiž" src="orig">Db-------------</AM>
-<AM lemma="totiž-1" src="auto" recommended="1">J^-------------</AM>
+<AM lemma="totiž-1" src="auto" recommended="1" selected="1">J^-------------</AM>
 <AM lemma="totiž-2" src="auto">TT-------------</AM>
 </tag>
 </m>
@@ -568,7 +568,10 @@
 <LM>w#w-mf930703-130-p1s4w7</LM>
 </w.rf>
 <form>Verlagsgruppe</form>
-<tag lemma="Verlagsgruppe_;K_,t" src="orig" selected="1">NNFXX-----A----</tag>
+<tag>
+<AM lemma="Verlagsgruppe_;K_,t" src="orig">NNFXX-----A----</AM>
+<AM lemma="Verlagsgruppe-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-mf930703-130-p1s4w8">
 <src.rf>manual</src.rf>
@@ -579,6 +582,7 @@
 <tag>
 <AM lemma="Passau_;K_,t" src="orig">NNNXX-----A----</AM>
 <AM lemma="Passau_;G" src="auto" recommended="1">NNNSX-----A----</AM>
+<AM lemma="Passau_;G_;K" src="manual" selected="1">NNNXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930703-130-p1s4w9">
@@ -603,7 +607,10 @@
 <LM>w#w-mf930703-130-p1s4w11</LM>
 </w.rf>
 <form>Kapfinger</form>
-<tag lemma="Kapfinger_;K" src="orig" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Kapfinger_;K" src="orig">NNMS1-----A----</AM>
+<AM lemma="Kapfinger_;S" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930703-130-p1s4w12">
 <src.rf>manual</src.rf>
@@ -611,7 +618,10 @@
 <LM>w#w-mf930703-130-p1s4w12</LM>
 </w.rf>
 <form>Mediengesellschaft</form>
-<tag lemma="Mediengesellschaft_;K_,t" src="orig" selected="1">NNFXX-----A----</tag>
+<tag>
+<AM lemma="Mediengesellschaft_;K_,t" src="orig">NNFXX-----A----</AM>
+<AM lemma="Mediengesellschaft-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-mf930703-130-p1s4w13">
 <src.rf>manual</src.rf>
@@ -620,7 +630,10 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>GmbH</form>
-<tag lemma="Gmbh_:B_,t_,x_^(Gesellschaft_mit_beschränke_Haftung)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="Gmbh_:B_,t_,x_^(Gesellschaft_mit_beschränke_Haftung)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="GmbH-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-mf930703-130-p1s4w14">
 <src.rf>manual</src.rf>
@@ -774,7 +787,10 @@
 <LM>w#w-mf930703-130-p1s5w18</LM>
 </w.rf>
 <form>Bednáře</form>
-<tag lemma="bednář" src="orig" selected="1">NNMS2-----A----</tag>
+<tag>
+<AM lemma="bednář" src="orig">NNMS2-----A----</AM>
+<AM lemma="Bednář_;S" src="manual" selected="1">NNMS2-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930703-130-p1s5w19">
 <src.rf>manual</src.rf>
@@ -952,7 +968,10 @@
 <LM>w#w-mf930703-130-p1s6w12</LM>
 </w.rf>
 <form>Bednář</form>
-<tag lemma="bednář" src="orig" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="bednář" src="orig">NNMS1-----A----</AM>
+<AM lemma="Bednář_;S" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930703-130-p1s6w13">
 <src.rf>manual</src.rf>
@@ -1406,7 +1425,10 @@
 <LM>w#w-mf930703-130-p1s9w3</LM>
 </w.rf>
 <form>Kapfinger</form>
-<tag lemma="Kapfinger_;K" src="orig" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Kapfinger_;K" src="orig">NNMS1-----A----</AM>
+<AM lemma="Kapfinger_;S" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930703-130-p1s9w4">
 <src.rf>manual</src.rf>
@@ -1414,7 +1436,10 @@
 <LM>w#w-mf930703-130-p1s9w4</LM>
 </w.rf>
 <form>GmbH</form>
-<tag lemma="Gmbh_:B_,t_,x_^(Gesellschaft_mit_beschränke_Haftung)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="Gmbh_:B_,t_,x_^(Gesellschaft_mit_beschränke_Haftung)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="GmbH-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-mf930703-130-p1s9w5">
 <src.rf>manual</src.rf>
@@ -2390,7 +2415,10 @@
 <LM>w#w-mf930703-130-p1s17w8</LM>
 </w.rf>
 <form>Verlagspresse</form>
-<tag lemma="Verlagspresse_;K_,t" src="orig" selected="1">NNNXX-----A----</tag>
+<tag>
+<AM lemma="Verlagspresse_;K_,t" src="orig">NNNXX-----A----</AM>
+<AM lemma="Verlagspresse-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-mf930703-130-p1s17w9">
 <src.rf>manual</src.rf>
@@ -2401,6 +2429,7 @@
 <tag>
 <AM lemma="Passau_;K_,t" src="orig">NNNXX-----A----</AM>
 <AM lemma="Passau_;G" src="auto" recommended="1">NNNSX-----A----</AM>
+<AM lemma="Passau_;G_;K" src="manual" selected="1">NNNXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930703-130-p1s17w10">
@@ -2861,7 +2890,10 @@
 <LM>w#w-mf930703-130-p1s19w46</LM>
 </w.rf>
 <form>Verlagsgruppe</form>
-<tag lemma="Verlagsgruppe_;K_,t" src="orig" selected="1">NNFXX-----A----</tag>
+<tag>
+<AM lemma="Verlagsgruppe_;K_,t" src="orig">NNFXX-----A----</AM>
+<AM lemma="Verlagsgruppe-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-mf930703-130-p1s19w47">
 <src.rf>manual</src.rf>
@@ -2872,6 +2904,7 @@
 <tag>
 <AM lemma="Passau_;K_,t" src="orig">NNNXX-----A----</AM>
 <AM lemma="Passau_;G" src="auto" recommended="1">NNNSX-----A----</AM>
+<AM lemma="Passau_;G_;K" src="manual" selected="1">NNNXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930703-130-p1s19w48">
@@ -2912,7 +2945,10 @@
 <LM>w#w-mf930703-130-p1s19w52</LM>
 </w.rf>
 <form>F</form>
-<tag lemma="F-0_:B_;Y" src="orig" selected="1">NNMXX-----A---8</tag>
+<tag>
+<AM lemma="F-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
+<AM lemma="F-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-mf930703-130-p1s19w53">
 <src.rf>manual</src.rf>
@@ -3148,7 +3184,10 @@
 <LM>w#w-mf930703-130-p1s21w2</LM>
 </w.rf>
 <form>Kapfinger</form>
-<tag lemma="Kapfinger_;K" src="orig" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Kapfinger_;K" src="orig">NNMS1-----A----</AM>
+<AM lemma="Kapfinger_;S" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930703-130-p1s21w3">
 <src.rf>manual</src.rf>
@@ -3156,7 +3195,10 @@
 <LM>w#w-mf930703-130-p1s21w3</LM>
 </w.rf>
 <form>Mediengesellschaft</form>
-<tag lemma="Mediengesellschaft_;K_,t" src="orig" selected="1">NNFXX-----A----</tag>
+<tag>
+<AM lemma="Mediengesellschaft_;K_,t" src="orig">NNFXX-----A----</AM>
+<AM lemma="Mediengesellschaft-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-mf930703-130-p1s21w4">
 <src.rf>manual</src.rf>
@@ -3354,7 +3396,7 @@
 <form>třeba</form>
 <tag>
 <AM lemma="třeba-1" src="orig">ACNS------A----</AM>
-<AM lemma="třeba-2" src="auto" recommended="1">Db-------------</AM>
+<AM lemma="třeba-2" src="auto" recommended="1" selected="1">Db-------------</AM>
 <AM lemma="třeba-3" src="auto">TT-------------</AM>
 </tag>
 </m>

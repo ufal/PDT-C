@@ -51,7 +51,10 @@
 <LM>w#w-mf930709-150-p1s1w5</LM>
 </w.rf>
 <form>SR</form>
-<tag lemma="SR-1_:B_;G_^(Slovenská_republika)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="SR-1_:B_;G_^(Slovenská_republika)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="SR-1_:B_;G_^(Slovenská_republika)" src="manual" selected="1">NNNXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930709-150-p1s1w6">
 <src.rf>manual</src.rf>
@@ -196,6 +199,7 @@
 <AM lemma="rezortní_,s_,x" src="auto">AANS1----1A----</AM>
 <AM lemma="rezortní_,s_,x" src="auto">AANS4----1A----</AM>
 <AM lemma="rezortní_,s_,x" src="auto">AANS5----1A----</AM>
+<AM lemma="resortní_,s_^(^DD**rezortní)" src="manual" selected="1">AAMS1----1A----</AM>
 </tag>
 </m>
 <m id="m-mf930709-150-p2s1Bw11">
@@ -326,7 +330,10 @@
 <LM>w#w-mf930709-150-p3s1w3</LM>
 </w.rf>
 <form>řekl</form>
-<tag lemma="říci" src="auto" selected="1">VpYS---XR-AA---</tag>
+<tag>
+<AM lemma="říci" src="auto">VpYS---XR-AA---</AM>
+<AM lemma="říci_:W" src="manual" selected="1">VpYS---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-mf930709-150-p3s1w4">
 <src.rf>manual</src.rf>
@@ -707,7 +714,10 @@
 <LM>w#w-mf930709-150-p3s3w13</LM>
 </w.rf>
 <form>J</form>
-<tag lemma="J-0_:B_;Y" src="orig" selected="1">NNMXX-----A---8</tag>
+<tag>
+<AM lemma="J-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
+<AM lemma="J-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930709-150-p3s3w14">
 <src.rf>manual</src.rf>

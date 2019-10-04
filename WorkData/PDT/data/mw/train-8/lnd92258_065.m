@@ -271,7 +271,10 @@
 <LM>w#w-lnd92258-065-p2s2w28</LM>
 </w.rf>
 <form>ČSTK</form>
-<tag lemma="ČSTK-1_:B_;K_^(Československá_tisková_kancelář)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ČSTK-1_:B_;K_^(Československá_tisková_kancelář)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČSTK-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd92258-065-p2s2w29">
 <src.rf>manual</src.rf>
@@ -331,6 +334,7 @@
 <AM lemma="Bennie_;Y" src="orig">NNFS1-----A----</AM>
 <AM lemma="Bennie_;S" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Bennie_;S" src="auto">NNMS5-----A----</AM>
+<AM lemma="Bennie-2_;Y" src="manual" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92258-065-p2s2w36">

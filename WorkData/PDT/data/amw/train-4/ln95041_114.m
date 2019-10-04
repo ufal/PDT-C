@@ -19,7 +19,10 @@
 <LM>w#w-ln95041-114-p1s1w1</LM>
 </w.rf>
 <form>Dolar</form>
-<tag lemma="dolar_;b" src="orig" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="dolar_;b" src="orig">NNIS1-----A----</AM>
+<AM lemma="dolar" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95041-114-p1s1w2">
 <src.rf>manual</src.rf>
@@ -55,7 +58,10 @@
 <LM>w#w-ln95041-114-p2s1Bw1</LM>
 </w.rf>
 <form>Kurs</form>
-<tag lemma="kurs" src="auto" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="kurs" src="auto">NNIS1-----A----</AM>
+<AM lemma="kurs_,s_^(^DD**kurz)" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95041-114-p2s1Bw2">
 <src.rf>manual</src.rf>
@@ -71,7 +77,10 @@
 <LM>w#w-ln95041-114-p2s1Bw3</LM>
 </w.rf>
 <form>dolaru</form>
-<tag lemma="dolar_;b" src="orig" selected="1">NNIS2-----A----</tag>
+<tag>
+<AM lemma="dolar_;b" src="orig">NNIS2-----A----</AM>
+<AM lemma="dolar" src="manual" selected="1">NNIS2-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95041-114-p2s1Bw4">
 <src.rf>manual</src.rf>
@@ -257,7 +266,10 @@
 <LM>w#w-ln95041-114-p2s2w6</LM>
 </w.rf>
 <form>dolar</form>
-<tag lemma="dolar_;b" src="orig" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="dolar_;b" src="orig">NNIS1-----A----</AM>
+<AM lemma="dolar" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95041-114-p2s2w7">
 <src.rf>manual</src.rf>
@@ -349,7 +361,7 @@
 <form>1.4972</form>
 <tag>
 <AM lemma="14972" src="orig">C=-------------</AM>
-<AM lemma="1.4972" src="auto" recommended="1">C=-------------</AM>
+<AM lemma="1.4972" src="auto" recommended="1" selected="1">C=-------------</AM>
 </tag>
 </m>
 <m id="m-ln95041-114-p2s2w18">
@@ -384,7 +396,10 @@
 <LM>w#w-ln95041-114-p2s3w1</LM>
 </w.rf>
 <form>Dolar</form>
-<tag lemma="dolar_;b" src="orig" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="dolar_;b" src="orig">NNIS1-----A----</AM>
+<AM lemma="dolar" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95041-114-p2s3w2">
 <src.rf>manual</src.rf>
@@ -441,7 +456,10 @@
 <LM>w#w-ln95041-114-p2s3w8</LM>
 </w.rf>
 <form>DEM</form>
-<tag lemma="DEM_:B_;b_^(německá_marka)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="DEM_:B_;b_^(německá_marka)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="DEM-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95041-114-p2s3w9">
 <src.rf>manual</src.rf>

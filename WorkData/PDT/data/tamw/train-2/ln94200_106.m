@@ -369,7 +369,10 @@
 <LM>w#w-ln94200-106-p2s2w4</LM>
 </w.rf>
 <form>OSN</form>
-<tag lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94200-106-p2s2w5">
 <src.rf>manual</src.rf>
@@ -579,7 +582,10 @@
 <LM>w#w-ln94200-106-p2s3w5</LM>
 </w.rf>
 <form>OSN</form>
-<tag lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94200-106-p2s3w6">
 <src.rf>manual</src.rf>
@@ -587,7 +593,10 @@
 <LM>w#w-ln94200-106-p2s3w6</LM>
 </w.rf>
 <form>Butruse</form>
-<tag lemma="Butrus_;S" src="auto" selected="1">NNMS4-----A----</tag>
+<tag>
+<AM lemma="Butrus_;S" src="auto">NNMS4-----A----</AM>
+<AM lemma="Butrus_;S_;Y" src="manual" selected="1">NNMS4-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94200-106-p2s3w7">
 <src.rf>manual</src.rf>
@@ -603,7 +612,10 @@
 <LM>w#w-ln94200-106-p2s3w8</LM>
 </w.rf>
 <form>Butruse</form>
-<tag lemma="Butrus_;S" src="auto" selected="1">NNMS4-----A----</tag>
+<tag>
+<AM lemma="Butrus_;S" src="auto">NNMS4-----A----</AM>
+<AM lemma="Butrus_;S_;Y" src="manual" selected="1">NNMS4-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94200-106-p2s3w9">
 <src.rf>manual</src.rf>
@@ -635,7 +647,10 @@
 <LM>w#w-ln94200-106-p2s3w13</LM>
 </w.rf>
 <form>OSN</form>
-<tag lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94200-106-p2s3w14">
 <src.rf>manual</src.rf>

@@ -1148,7 +1148,7 @@
 <form>nejen</form>
 <tag>
 <AM lemma="nejen" src="orig">TT-------------</AM>
-<AM lemma="nejen" src="auto" recommended="1">Db-------------</AM>
+<AM lemma="nejen" src="auto" recommended="1" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m-ln94211-18-p5s1w31">
@@ -1903,7 +1903,10 @@
 <LM>w#w-ln94211-18-p7s2w10</LM>
 </w.rf>
 <form>Deutschland</form>
-<tag lemma="Deutschland_;G_,t" src="auto" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="Deutschland_;G_,t" src="auto">NNIS1-----A----</AM>
+<AM lemma="Deutschland-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94211-18-p7s2w11">
 <src.rf>manual</src.rf>

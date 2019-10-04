@@ -267,7 +267,10 @@
 <LM>w#w-mf930702-112-p1s1w32</LM>
 </w.rf>
 <form>stol</form>
-<tag lemma="století_:B" src="orig" selected="1">NNNXX-----A---8</tag>
+<tag>
+<AM lemma="století_:B" src="orig">NNNXX-----A---8</AM>
+<AM lemma="století" src="manual" selected="1">NNNXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-mf930702-112-p1s1w33">
 <src.rf>manual</src.rf>

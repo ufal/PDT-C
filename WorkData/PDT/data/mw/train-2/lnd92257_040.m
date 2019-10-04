@@ -169,7 +169,10 @@
 <LM>w#w-lnd92257-040-p3s2w12</LM>
 </w.rf>
 <form>otevřeno</form>
-<tag lemma="otevřít" src="orig" selected="1">VsNS---XX-AP---</tag>
+<tag>
+<AM lemma="otevřít" src="orig">VsNS---XX-AP---</AM>
+<AM lemma="otevřít_:W" src="manual" selected="1">VsNS---XX-AP---</AM>
+</tag>
 </m>
 <m id="m-lnd92257-040-p3s2w13">
 <src.rf>manual</src.rf>
@@ -205,7 +208,7 @@
 <AM lemma="Borovský_;S" src="orig">AAMS2----1A----</AM>
 <AM lemma="Borovski_;S" src="auto">NNMS2-----A----</AM>
 <AM lemma="Borovski_;S" src="auto">NNMS4-----A----</AM>
-<AM lemma="Borovský_;S" src="auto">NNMS2-----A----</AM>
+<AM lemma="Borovský_;S" src="auto" selected="1">NNMS2-----A----</AM>
 <AM lemma="Borovský_;S" src="auto">NNMS4-----A----</AM>
 <AM lemma="borovský" src="auto">AAIS2----1A----</AM>
 <AM lemma="borovský" src="auto" recommended="1">AAMS2----1A----</AM>
@@ -269,7 +272,10 @@
 <LM>w#w-lnd92257-040-p3s3w6</LM>
 </w.rf>
 <form>ČNR</form>
-<tag lemma="ČNR-1_:B_;K_^(Česká_národní_rada)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ČNR-1_:B_;K_^(Česká_národní_rada)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČNR-1_:B_;K_^(Česká_národní_rada)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92257-040-p3s3w7">
 <src.rf>manual</src.rf>
@@ -423,7 +429,10 @@
 <LM>w#w-lnd92257-040-p3s4w16</LM>
 </w.rf>
 <form>právě</form>
-<tag lemma="právě-1" src="auto" selected="1">Db-------------</tag>
+<tag>
+<AM lemma="právě-1" src="auto">Db-------------</AM>
+<AM lemma="právě-2" src="manual" selected="1">TT-------------</AM>
+</tag>
 </m>
 <m id="m-lnd92257-040-p3s4w17">
 <src.rf>manual</src.rf>

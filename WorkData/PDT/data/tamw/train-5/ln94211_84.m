@@ -191,7 +191,10 @@
 <LM>w#w-ln94211-84-p2s1Bw16</LM>
 </w.rf>
 <form>Tansu</form>
-<tag lemma="Tansa_;G" src="orig" selected="1">NNFS4-----A----</tag>
+<tag>
+<AM lemma="Tansa_;G" src="orig">NNFS4-----A----</AM>
+<AM lemma="Tansu_;Y" src="manual" selected="1">NNFS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94211-84-p2s1Bw17">
 <src.rf>manual</src.rf>
@@ -659,7 +662,10 @@
 <LM>w#w-ln94211-84-p2s3w40</LM>
 </w.rf>
 <form>jen</form>
-<tag lemma="jen-1" src="auto" selected="1">TT-------------</tag>
+<tag>
+<AM lemma="jen-1" src="auto">TT-------------</AM>
+<AM lemma="jen-4_^(pouze)" src="manual" selected="1">Db-------------</AM>
+</tag>
 </m>
 <m id="m-ln94211-84-p2s3w41">
 <src.rf>manual</src.rf>

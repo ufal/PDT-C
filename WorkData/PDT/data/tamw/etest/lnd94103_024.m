@@ -27,7 +27,10 @@
 <LM>w#w-lnd94103-024-p1s1w2</LM>
 </w.rf>
 <form>kamionů</form>
-<tag lemma="kamión" src="orig" selected="1">NNIP2-----A----</tag>
+<tag>
+<AM lemma="kamión" src="orig">NNIP2-----A----</AM>
+<AM lemma="kamion_,s_^(^DD**kamión)" src="manual" selected="1">NNIP2-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd94103-024-p1s1w3">
 <src.rf>manual</src.rf>
@@ -213,7 +216,10 @@
 <LM>w#w-lnd94103-024-p1s2w1</LM>
 </w.rf>
 <form>Kamiony</form>
-<tag lemma="kamión" src="orig" selected="1">NNIP1-----A----</tag>
+<tag>
+<AM lemma="kamión" src="orig">NNIP1-----A----</AM>
+<AM lemma="kamion_,s_^(^DD**kamión)" src="manual" selected="1">NNIP1-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd94103-024-p1s2w2">
 <src.rf>manual</src.rf>
@@ -415,7 +421,10 @@
 <LM>w#w-lnd94103-024-p1s3w2</LM>
 </w.rf>
 <form>ČTK</form>
-<tag lemma="ČTK-1_:B_;K_^(Čs./Česká_tisková_kancelář)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ČTK-1_:B_;K_^(Čs./Česká_tisková_kancelář)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČTK_:B_;K_^(Čs./Česká_tisková_kancelář)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd94103-024-p1s3w3">
 <src.rf>manual</src.rf>
@@ -439,7 +448,10 @@
 <LM>w#w-lnd94103-024-p1s3w5</LM>
 </w.rf>
 <form>Vítek</form>
-<tag lemma="Vítek_;Y" src="orig" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Vítek_;Y" src="orig">NNMS1-----A----</AM>
+<AM lemma="Vítek_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 </s>
 </mdata>

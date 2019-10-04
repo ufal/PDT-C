@@ -416,7 +416,7 @@
 </w.rf>
 <form>středo</form>
 <tag>
-<AM lemma="střední" src="orig">A2--------A----</AM>
+<AM lemma="střední" src="orig" selected="1">A2--------A----</AM>
 <AM lemma="středa" src="auto" recommended="1">NNFS5-----A----</AM>
 </tag>
 </m>
@@ -862,7 +862,7 @@
 <form>třeba</form>
 <tag>
 <AM lemma="třeba-1" src="orig">ACNS------A----</AM>
-<AM lemma="třeba-2" src="auto" recommended="1">Db-------------</AM>
+<AM lemma="třeba-2" src="auto" recommended="1" selected="1">Db-------------</AM>
 <AM lemma="třeba-3" src="auto">TT-------------</AM>
 </tag>
 </m>
@@ -880,7 +880,10 @@
 <LM>w#w-mf930713-151-p2s7w10</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-2" src="auto" selected="1">Dg-------2A----</tag>
+<tag>
+<AM lemma="hodně-2" src="auto">Dg-------2A----</AM>
+<AM lemma="více_^(více_+_2._p.,_více_peněz)" src="manual" selected="1">Ca--4----------</AM>
+</tag>
 </m>
 <m id="m-mf930713-151-p2s7w11">
 <src.rf>manual</src.rf>
@@ -912,7 +915,10 @@
 <LM>w#w-mf930713-151-p2s7w14</LM>
 </w.rf>
 <form>dolarů</form>
-<tag lemma="dolar_;b" src="orig" selected="1">NNIP2-----A----</tag>
+<tag>
+<AM lemma="dolar_;b" src="orig">NNIP2-----A----</AM>
+<AM lemma="dolar" src="manual" selected="1">NNIP2-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930713-151-p2s7w15">
 <src.rf>manual</src.rf>
@@ -1047,7 +1053,7 @@
 <tag>
 <AM lemma="tady" src="orig">Db------------1</AM>
 <AM lemma="ten" src="auto">PDFS4----------</AM>
-<AM lemma="tu" src="auto" recommended="1">Db-------------</AM>
+<AM lemma="tu" src="auto" recommended="1" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m-mf930713-151-p2s9w3">
@@ -1234,7 +1240,10 @@
 <LM>w#w-mf930713-151-p2s10w7</LM>
 </w.rf>
 <form>ani</form>
-<tag lemma="ani-1" src="auto" selected="1">J^-------------</tag>
+<tag>
+<AM lemma="ani-1" src="auto">J^-------------</AM>
+<AM lemma="ani-2" src="manual" selected="1">TT-------------</AM>
+</tag>
 </m>
 <m id="m-mf930713-151-p2s10w8">
 <src.rf>manual</src.rf>
@@ -1802,7 +1811,7 @@
 <form>třeba</form>
 <tag>
 <AM lemma="třeba-1" src="orig">ACNS------A----</AM>
-<AM lemma="třeba-2" src="auto" recommended="1">Db-------------</AM>
+<AM lemma="třeba-2" src="auto" recommended="1" selected="1">Db-------------</AM>
 <AM lemma="třeba-3" src="auto">TT-------------</AM>
 </tag>
 </m>
@@ -2096,7 +2105,10 @@
 <LM>w#w-mf930713-151-p2s15w6</LM>
 </w.rf>
 <form>SALT</form>
-<tag lemma="salto" src="orig" selected="1">NNNP2-----A----</tag>
+<tag>
+<AM lemma="salto" src="orig">NNNP2-----A----</AM>
+<AM lemma="SALT-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930713-151-p2s15w7">
 <src.rf>manual</src.rf>
@@ -2154,7 +2166,10 @@
 <LM>w#w-mf930713-151-p2s16w5</LM>
 </w.rf>
 <form>SALT</form>
-<tag lemma="salto" src="orig" selected="1">NNNP2-----A----</tag>
+<tag>
+<AM lemma="salto" src="orig">NNNP2-----A----</AM>
+<AM lemma="SALT-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930713-151-p2s16w6">
 <src.rf>manual</src.rf>
@@ -2399,7 +2414,10 @@
 <LM>w#w-mf930713-151-p2s18w13</LM>
 </w.rf>
 <form>dolarů</form>
-<tag lemma="dolar_;b" src="orig" selected="1">NNIP2-----A----</tag>
+<tag>
+<AM lemma="dolar_;b" src="orig">NNIP2-----A----</AM>
+<AM lemma="dolar" src="manual" selected="1">NNIP2-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930713-151-p2s18w14">
 <src.rf>manual</src.rf>
@@ -2688,7 +2706,7 @@
 <tag>
 <AM lemma="tady" src="orig">Db------------1</AM>
 <AM lemma="ten" src="auto" recommended="1">PDFS4----------</AM>
-<AM lemma="tu" src="auto">Db-------------</AM>
+<AM lemma="tu" src="auto" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m-mf930713-151-p2s21w5">
@@ -3775,7 +3793,10 @@
 <LM>w#w-mf930713-151-p2s28w35</LM>
 </w.rf>
 <form>strany</form>
-<tag lemma="strana-3_^(u_soudu,_na_úřadě,_smluvní_strany;_na_něčí_straně)" src="orig" selected="1">NNFS2-----A----</tag>
+<tag>
+<AM lemma="strana-3_^(u_soudu,_na_úřadě,_smluvní_strany;_na_něčí_straně)" src="orig">NNFS2-----A----</AM>
+<AM lemma="strana" src="manual" selected="1">NNFS2-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930713-151-p2s28w36">
 <src.rf>manual</src.rf>
@@ -4439,7 +4460,10 @@
 <LM>w#w-mf930713-151-p2s32w7</LM>
 </w.rf>
 <form>kursu</form>
-<tag lemma="kurs" src="auto" selected="1">NNIS2-----A----</tag>
+<tag>
+<AM lemma="kurs" src="auto">NNIS2-----A----</AM>
+<AM lemma="kurs_,s_^(^DD**kurz)" src="manual" selected="1">NNIS2-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930713-151-p2s32w8">
 <src.rf>manual</src.rf>
@@ -4725,7 +4749,10 @@
 <LM>w#w-mf930713-151-p2s35w2</LM>
 </w.rf>
 <form>jen</form>
-<tag lemma="jen-1" src="auto" selected="1">TT-------------</tag>
+<tag>
+<AM lemma="jen-1" src="auto">TT-------------</AM>
+<AM lemma="jen-4_^(pouze)" src="manual" selected="1">Db-------------</AM>
+</tag>
 </m>
 <m id="m-mf930713-151-p2s35w3">
 <src.rf>manual</src.rf>

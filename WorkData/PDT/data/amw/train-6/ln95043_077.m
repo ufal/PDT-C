@@ -838,6 +838,7 @@
 <tag>
 <AM lemma="Brucella_,t" src="orig">NNFS1-----A----</AM>
 <AM lemma="Brucella_;U_,t" src="auto" recommended="1">NNFXX-----A----</AM>
+<AM lemma="Brucella-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-ln95043-077-p2s7w11">
@@ -849,6 +850,7 @@
 <tag>
 <AM lemma="Suis_,t" src="orig">AAXXX----1A----</AM>
 <AM lemma="suis_;L_,t" src="auto" recommended="1">AAXXX----1A----</AM>
+<AM lemma="Suis-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-ln95043-077-p2s7w12">

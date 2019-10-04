@@ -147,7 +147,10 @@
 <LM>w#w-lnd92257-025-p1s1w17</LM>
 </w.rf>
 <form>kursu</form>
-<tag lemma="kurs" src="auto" selected="1">NNIS2-----A----</tag>
+<tag>
+<AM lemma="kurs" src="auto">NNIS2-----A----</AM>
+<AM lemma="kurs_,s_^(^DD**kurz)" src="manual" selected="1">NNIS2-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92257-025-p1s1w18">
 <src.rf>manual</src.rf>
@@ -245,7 +248,7 @@
 <form>Boiron</form>
 <tag>
 <AM lemma="Boiron_;K" src="orig">NNFXX-----A----</AM>
-<AM lemma="Boiron_;K" src="auto" recommended="1">NNIS1-----A----</AM>
+<AM lemma="Boiron_;K" src="auto" recommended="1" selected="1">NNIS1-----A----</AM>
 <AM lemma="Boiron_;K" src="auto">NNIS4-----A----</AM>
 </tag>
 </m>
@@ -595,7 +598,10 @@
 <LM>w#w-lnd92257-025-p1s3w19</LM>
 </w.rf>
 <form>jen</form>
-<tag lemma="jen-1" src="auto" selected="1">TT-------------</tag>
+<tag>
+<AM lemma="jen-1" src="auto">TT-------------</AM>
+<AM lemma="jen-4_^(pouze)" src="manual" selected="1">Db-------------</AM>
+</tag>
 </m>
 <m id="m-lnd92257-025-p1s3w20">
 <src.rf>manual</src.rf>
@@ -677,7 +683,10 @@
 <LM>w#w-lnd92257-025-p2s1w2</LM>
 </w.rf>
 <form>ria</form>
-<tag lemma="ria_,t_^(záliv_podobný_fjordu)" src="orig" selected="1">NNFS1-----A----</tag>
+<tag>
+<AM lemma="ria_,t_^(záliv_podobný_fjordu)" src="orig">NNFS1-----A----</AM>
+<AM lemma="ria-99_:B_;S" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd92257-025-p2s1w3">
 <src.rf>manual</src.rf>
@@ -725,7 +734,10 @@
 <LM>w#w-lnd92257-025-p2s1w8</LM>
 </w.rf>
 <form>LN</form>
-<tag lemma="LN-1_:B_;R_^(Lidové_noviny,_deník)" src="orig" selected="1">NNFPX-----A---8</tag>
+<tag>
+<AM lemma="LN-1_:B_;R_^(Lidové_noviny,_deník)" src="orig">NNFPX-----A---8</AM>
+<AM lemma="LN-1_:B_;K_;R_^(Lidové_noviny)" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 </s>
 </mdata>

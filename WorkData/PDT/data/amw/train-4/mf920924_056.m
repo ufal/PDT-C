@@ -1195,7 +1195,7 @@
 <form>třeba</form>
 <tag>
 <AM lemma="třeba-1" src="orig">ACNS------A----</AM>
-<AM lemma="třeba-2" src="auto" recommended="1">Db-------------</AM>
+<AM lemma="třeba-2" src="auto" recommended="1" selected="1">Db-------------</AM>
 <AM lemma="třeba-3" src="auto">TT-------------</AM>
 </tag>
 </m>
@@ -2048,7 +2048,7 @@
 </w.rf>
 <form>NETOČNÝ</form>
 <tag>
-<AM lemma="Netočný_;S" src="orig">NNMS1-----A----</AM>
+<AM lemma="Netočný_;S" src="orig" selected="1">NNMS1-----A----</AM>
 <AM lemma="točný" src="auto">AAFP1----1N---6</AM>
 <AM lemma="točný" src="auto">AAFP4----1N---6</AM>
 <AM lemma="točný" src="auto">AAFP5----1N---6</AM>

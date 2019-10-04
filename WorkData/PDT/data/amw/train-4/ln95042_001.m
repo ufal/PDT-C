@@ -45,7 +45,11 @@
 <LM>w#w-ln95042-001-p2s1Aw1</LM>
 </w.rf>
 <form>Konkursní</form>
-<tag lemma="konkursní_^(týkající_se_úpadku,_soutěže)" src="auto" selected="1">AANP1----1A----</tag>
+<tag>
+<AM lemma="konkursní_^(týkající_se_úpadku,_soutěže)" src="auto">AANP1----1A----</AM>
+<AM lemma="	konkursní_,s_^(^DD**konkurzní)" src="manual">AANP1----1A----</AM>
+<AM lemma="konkursní_,s_^(^DD**konkurzní)" src="manual" selected="1">AANP1----1A----</AM>
+</tag>
 </m>
 <m id="m-ln95042-001-p2s1Aw2">
 <src.rf>manual</src.rf>
@@ -241,7 +245,11 @@
 <LM>w#w-ln95042-001-p2s1Cw13</LM>
 </w.rf>
 <form>konkurs</form>
-<tag lemma="konkurs_^(úpadek;;soutěž)" src="auto" selected="1">NNIS4-----A----</tag>
+<tag>
+<AM lemma="konkurs_^(úpadek;;soutěž)" src="auto">NNIS4-----A----</AM>
+<AM lemma="konkurs_,s_^(^DD**konkurz)_^(úpadek;;soutěž)" src="manual">NNIS4-----A----</AM>
+<AM lemma="konkurs_,s_^(^DD**konkurz)" src="manual" selected="1">NNIS4-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95042-001-p2s1Cw14">
 <src.rf>manual</src.rf>
@@ -290,7 +298,10 @@
 <LM>w#w-ln95042-001-p2s1Cw19</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-2" src="auto" selected="1">Dg-------2A----</tag>
+<tag>
+<AM lemma="hodně-2" src="auto">Dg-------2A----</AM>
+<AM lemma="hodně-3" src="manual" selected="1">Dg-------2A----</AM>
+</tag>
 </m>
 <m id="m-ln95042-001-p2s1Cw20">
 <src.rf>manual</src.rf>
@@ -412,7 +423,10 @@
 <LM>w#w-ln95042-001-p2s2w10</LM>
 </w.rf>
 <form>konkursů</form>
-<tag lemma="konkurs_^(úpadek;;soutěž)" src="auto" selected="1">NNIP2-----A----</tag>
+<tag>
+<AM lemma="konkurs_^(úpadek;;soutěž)" src="auto">NNIP2-----A----</AM>
+<AM lemma="konkurs_,s_^(^DD**konkurz)" src="manual" selected="1">NNIP2-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95042-001-p2s2w11">
 <src.rf>manual</src.rf>
@@ -1047,7 +1061,7 @@
 <form>přičemž</form>
 <tag>
 <AM lemma="přičemž" src="orig">J,-------------</AM>
-<AM lemma="přičemž" src="auto" recommended="1">Db-------------</AM>
+<AM lemma="přičemž" src="auto" recommended="1" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m-ln95042-001-p3s1w17">
@@ -1528,7 +1542,10 @@
 <LM>w#w-ln95042-001-p4s1w1</LM>
 </w.rf>
 <form>Konkursní</form>
-<tag lemma="konkursní_^(týkající_se_úpadku,_soutěže)" src="auto" selected="1">AANP1----1A----</tag>
+<tag>
+<AM lemma="konkursní_^(týkající_se_úpadku,_soutěže)" src="auto">AANP1----1A----</AM>
+<AM lemma="konkursní_,s_^(^DD**konkurzní)" src="manual" selected="1">AANP1----1A----</AM>
+</tag>
 </m>
 <m id="m-ln95042-001-p4s1w2">
 <src.rf>manual</src.rf>
@@ -1848,7 +1865,7 @@
 <form>Přesto</form>
 <tag>
 <AM lemma="přesto" src="orig">Dg-------1A----</AM>
-<AM lemma="přesto-1" src="auto" recommended="1">Db-------------</AM>
+<AM lemma="přesto-1" src="auto" recommended="1" selected="1">Db-------------</AM>
 <AM lemma="přesto-2" src="auto">J^-------------</AM>
 </tag>
 </m>
@@ -1882,7 +1899,10 @@
 <LM>w#w-ln95042-001-p5s2w5</LM>
 </w.rf>
 <form>konkursů</form>
-<tag lemma="konkurs_^(úpadek;;soutěž)" src="auto" selected="1">NNIP2-----A----</tag>
+<tag>
+<AM lemma="konkurs_^(úpadek;;soutěž)" src="auto">NNIP2-----A----</AM>
+<AM lemma="konkurs_,s_^(^DD**konkurz)" src="manual" selected="1">NNIP2-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95042-001-p5s2w6">
 <src.rf>manual</src.rf>
@@ -2044,7 +2064,10 @@
 <LM>w#w-ln95042-001-p6s1w7</LM>
 </w.rf>
 <form>konkurs</form>
-<tag lemma="konkurs_^(úpadek;;soutěž)" src="auto" selected="1">NNIS4-----A----</tag>
+<tag>
+<AM lemma="konkurs_^(úpadek;;soutěž)" src="auto">NNIS4-----A----</AM>
+<AM lemma="konkurs_,s_^(^DD**konkurz)" src="manual" selected="1">NNIS4-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95042-001-p6s1w8">
 <src.rf>manual</src.rf>
@@ -2143,7 +2166,7 @@
 <tag>
 <AM lemma="tedy" src="orig">Db-------------</AM>
 <AM lemma="tedy-1" src="auto">TT-------------</AM>
-<AM lemma="tedy-2" src="auto" recommended="1">J^-------------</AM>
+<AM lemma="tedy-2" src="auto" recommended="1" selected="1">J^-------------</AM>
 </tag>
 </m>
 <m id="m-ln95042-001-p6s1w20">
@@ -2314,7 +2337,10 @@
 <LM>w#w-ln95042-001-p6s2w18</LM>
 </w.rf>
 <form>Sb</form>
-<tag lemma="Sb-1_:B_;j_^(Sbírka,_např._zákonů)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="Sb-1_:B_;j_^(Sbírka,_např._zákonů)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="sbírka" src="manual" selected="1">NNFXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln95042-001-p6s2w19">
 <src.rf>manual</src.rf>
@@ -2338,7 +2364,10 @@
 <LM>w#w-ln95042-001-p6s2w21</LM>
 </w.rf>
 <form>konkursu</form>
-<tag lemma="konkurs_^(úpadek;;soutěž)" src="auto" selected="1">NNIS6-----A---1</tag>
+<tag>
+<AM lemma="konkurs_^(úpadek;;soutěž)" src="auto">NNIS6-----A---1</AM>
+<AM lemma="konkurs_,s_^(^DD**konkurz)" src="manual" selected="1">NNIS6-----A---1</AM>
+</tag>
 </m>
 <m id="m-ln95042-001-p6s2w22">
 <src.rf>manual</src.rf>
@@ -2394,7 +2423,10 @@
 <LM>w#w-ln95042-001-p6s2w28</LM>
 </w.rf>
 <form>konkursní</form>
-<tag lemma="konkursní_^(týkající_se_úpadku,_soutěže)" src="auto" selected="1">AAFS2----1A----</tag>
+<tag>
+<AM lemma="konkursní_^(týkající_se_úpadku,_soutěže)" src="auto">AAFS2----1A----</AM>
+<AM lemma="konkursní_,s_^(^DD**konkurzní)" src="manual" selected="1">AAFS2----1A----</AM>
+</tag>
 </m>
 <m id="m-ln95042-001-p6s2w29">
 <src.rf>manual</src.rf>
@@ -2712,7 +2744,10 @@
 <LM>w#w-ln95042-001-p8s1w4</LM>
 </w.rf>
 <form>konkursů</form>
-<tag lemma="konkurs_^(úpadek;;soutěž)" src="auto" selected="1">NNIP2-----A----</tag>
+<tag>
+<AM lemma="konkurs_^(úpadek;;soutěž)" src="auto">NNIP2-----A----</AM>
+<AM lemma="konkurs_,s_^(^DD**konkurz)" src="manual" selected="1">NNIP2-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95042-001-p8s1w5">
 <src.rf>manual</src.rf>

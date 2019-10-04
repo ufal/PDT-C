@@ -140,7 +140,7 @@
 </w.rf>
 <form>Mitta</form>
 <tag>
-<AM lemma="Mitta_;G" src="orig">NNFS1-----A----</AM>
+<AM lemma="Mitta_;G" src="orig" selected="1">NNFS1-----A----</AM>
 <AM lemma="Mitt_;Y" src="auto">NNMS2-----A----</AM>
 <AM lemma="Mitt_;Y" src="auto" recommended="1">NNMS4-----A----</AM>
 </tag>
@@ -151,7 +151,10 @@
 <LM>w#w-lnd92256-073-p1s1w17</LM>
 </w.rf>
 <form>di</form>
-<tag lemma="di_;G_;S_;Y_,t" src="auto" selected="1">RR--X----------</tag>
+<tag>
+<AM lemma="di_;G_;S_;Y_,t" src="auto">RR--X----------</AM>
+<AM lemma="di-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-lnd92256-073-p1s1w18">
 <src.rf>manual</src.rf>

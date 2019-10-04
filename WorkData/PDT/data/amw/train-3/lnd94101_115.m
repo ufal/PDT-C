@@ -99,7 +99,10 @@
 <LM>w#w-lnd94101-115-p1s1w11</LM>
 </w.rf>
 <form>Kliment</form>
-<tag lemma="kliment" src="orig" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="kliment" src="orig">NNMS1-----A----</AM>
+<AM lemma="Kliment_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd94101-115-p1s1w12">
 <src.rf>manual</src.rf>

@@ -101,7 +101,10 @@
 <LM>w#w-ln94204-134-p2s1Aw3</LM>
 </w.rf>
 <form>js</form>
-<tag lemma="js-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="js-99_:B_;S" src="orig">NNXXX-----A---8</AM>
+<AM lemma="js-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94204-134-p2s1Aw4">
 <src.rf>manual</src.rf>
@@ -723,7 +726,11 @@
 <LM>w#w-ln94204-134-p4s1w11</LM>
 </w.rf>
 <form>ČTK</form>
-<tag lemma="ČTK-1_:B_;K_^(Čs./Česká_tisková_kancelář)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ČTK-1_:B_;K_^(Čs./Česká_tisková_kancelář)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČTK-1_:B_;K_^(Čs./Česká_tisková_kancelář)" src="manual">NNXXX-----A----</AM>
+<AM lemma="ČTK_:B_;K_^(Čs./Česká_tisková_kancelář)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94204-134-p4s1w12">
 <src.rf>manual</src.rf>
@@ -789,7 +796,7 @@
 <form>Vilímek</form>
 <tag>
 <AM lemma="Vilímek-3_;K" src="orig">NNIS1-----A----</AM>
-<AM lemma="Vilímek_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Vilímek_;S" src="auto" recommended="1" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94204-134-p4s1w20">
@@ -832,7 +839,7 @@
 <form>Uhdeových</form>
 <tag>
 <AM lemma="Uhdeův_;S_^(*2)" src="orig">AUMP2M---------</AM>
-<AM lemma="Uhdeová_;S" src="auto" recommended="1">NNFP2-----A----</AM>
+<AM lemma="Uhdeová_;S" src="auto" recommended="1" selected="1">NNFP2-----A----</AM>
 <AM lemma="Uhdeová_;S" src="auto">NNFP6-----A----</AM>
 </tag>
 </m>
@@ -1195,7 +1202,7 @@
 <AM lemma="žalovaný_^(*2t)" src="auto">AAIP1----1A---6</AM>
 <AM lemma="žalovaný_^(*2t)" src="auto">AAIP4----1A---6</AM>
 <AM lemma="žalovaný_^(*2t)" src="auto">AAIP5----1A---6</AM>
-<AM lemma="žalovaný_^(*2t)" src="auto" recommended="1">AAIS1----1A----</AM>
+<AM lemma="žalovaný_^(*2t)" src="auto" recommended="1" selected="1">AAIS1----1A----</AM>
 <AM lemma="žalovaný_^(*2t)" src="auto">AAIS4----1A----</AM>
 <AM lemma="žalovaný_^(*2t)" src="auto">AAIS5----1A----</AM>
 <AM lemma="žalovaný_^(*2t)" src="auto">AAMP1----1A---6</AM>
@@ -1446,7 +1453,11 @@
 <LM>w#w-ln94204-134-p6s1w13</LM>
 </w.rf>
 <form>ČTK</form>
-<tag lemma="ČTK-1_:B_;K_^(Čs./Česká_tisková_kancelář)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ČTK-1_:B_;K_^(Čs./Česká_tisková_kancelář)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČTK-1_:B_;K_^(Čs./Česká_tisková_kancelář)" src="manual">NNXXX-----A----</AM>
+<AM lemma="ČTK_:B_;K_^(Čs./Česká_tisková_kancelář)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94204-134-p6s1w14">
 <src.rf>manual</src.rf>
@@ -2166,7 +2177,10 @@
 <LM>w#w-ln94204-134-p6s5w4</LM>
 </w.rf>
 <form>mj</form>
-<tag lemma="mj-1_:B_^(mimo_jiné)" src="orig" selected="1">Db------------8</tag>
+<tag>
+<AM lemma="mj-1_:B_^(mimo_jiné)" src="orig">Db------------8</AM>
+<AM lemma="mj-1_:B_^(mimo_jiné)" src="manual" selected="1">Db-------------</AM>
+</tag>
 </m>
 <m id="m-ln94204-134-p6s5w5">
 <src.rf>manual</src.rf>
@@ -2206,7 +2220,10 @@
 <LM>w#w-ln94204-134-p6s5w9</LM>
 </w.rf>
 <form>ČTK</form>
-<tag lemma="ČTK-1_:B_;K_^(Čs./Česká_tisková_kancelář)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ČTK-1_:B_;K_^(Čs./Česká_tisková_kancelář)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČTK_:B_;K_^(Čs./Česká_tisková_kancelář)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94204-134-p6s5w10">
 <src.rf>manual</src.rf>
@@ -2319,7 +2336,7 @@
 <AM lemma="žalovaný_^(*2t)" src="auto">AAMP1----1A---6</AM>
 <AM lemma="žalovaný_^(*2t)" src="auto">AAMP4----1A---6</AM>
 <AM lemma="žalovaný_^(*2t)" src="auto">AAMP5----1A---6</AM>
-<AM lemma="žalovaný_^(*2t)" src="auto" recommended="1">AAMS1----1A----</AM>
+<AM lemma="žalovaný_^(*2t)" src="auto" recommended="1" selected="1">AAMS1----1A----</AM>
 <AM lemma="žalovaný_^(*2t)" src="auto">AAMS5----1A----</AM>
 <AM lemma="žalovaný_^(*2t)" src="auto">AANP1----1A---6</AM>
 <AM lemma="žalovaný_^(*2t)" src="auto">AANP4----1A---6</AM>
@@ -2351,7 +2368,10 @@
 <LM>w#w-ln94204-134-p6s5w24</LM>
 </w.rf>
 <form>ČTK</form>
-<tag lemma="ČTK-1_:B_;K_^(Čs./Česká_tisková_kancelář)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ČTK-1_:B_;K_^(Čs./Česká_tisková_kancelář)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČTK_:B_;K_^(Čs./Česká_tisková_kancelář)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94204-134-p6s5w25">
 <src.rf>manual</src.rf>

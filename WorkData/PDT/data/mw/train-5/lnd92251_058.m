@@ -108,6 +108,8 @@
 <tag>
 <AM lemma="Lu-2_;Y" src="orig">NNMXX-----A----</AM>
 <AM lemma="Lu-1_:B_;H_^(lutecium)" src="auto" recommended="1">NNNSX-----A----</AM>
+<AM lemma="Lu-2_;Y" src="manual">NNMS1-----A----</AM>
+<AM lemma="Lu-2_;S" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92251-058-p3s2w5">
@@ -116,7 +118,10 @@
 <LM>w#w-lnd92251-058-p3s2w5</LM>
 </w.rf>
 <form>Pching</form>
-<tag lemma="Pching_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Pching_;S" src="orig">NNMS1-----A----</AM>
+<AM lemma="Pching_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92251-058-p3s2w6">
 <src.rf>manual</src.rf>
@@ -369,6 +374,7 @@
 <tag>
 <AM lemma="Lu-2_;Y" src="orig">NNMXX-----A----</AM>
 <AM lemma="Lu-1_:B_;H_^(lutecium)" src="auto" recommended="1">NNNSX-----A----</AM>
+<AM lemma="Lu-2_;S" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92251-058-p3s3w2">
@@ -377,7 +383,10 @@
 <LM>w#w-lnd92251-058-p3s3w2</LM>
 </w.rf>
 <form>Pching</form>
-<tag lemma="Pching_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Pching_;S" src="orig">NNMS1-----A----</AM>
+<AM lemma="Pching_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92251-058-p3s3w3">
 <src.rf>manual</src.rf>
@@ -774,6 +783,7 @@
 <tag>
 <AM lemma="Lu-2_;Y" src="orig">NNMXX-----A----</AM>
 <AM lemma="Lu-1_:B_;H_^(lutecium)" src="auto" recommended="1">NNNSX-----A----</AM>
+<AM lemma="Lu-2_;S" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92251-058-p3s4w18">
@@ -782,7 +792,10 @@
 <LM>w#w-lnd92251-058-p3s4w18</LM>
 </w.rf>
 <form>Pching</form>
-<tag lemma="Pching_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Pching_;S" src="orig">NNMS1-----A----</AM>
+<AM lemma="Pching_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92251-058-p3s4w19">
 <src.rf>manual</src.rf>

@@ -194,6 +194,8 @@
 <tag>
 <AM lemma="NDIS-2_:B_;K_^(Národní_drogová_informační_služba)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="NDIS-1_:B_,t_^(network_driver_interface_specification)" src="auto" recommended="1">NNFXX-----A----</AM>
+<AM lemma="NDIS-2_:B" src="manual">NNXXX-----A---8</AM>
+<AM lemma="NDIS-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-lnd94103-146-p1s3w12">
@@ -351,6 +353,8 @@
 <tag>
 <AM lemma="NDIS-2_:B_;K_^(Národní_drogová_informační_služba)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="NDIS-1_:B_,t_^(network_driver_interface_specification)" src="auto" recommended="1">NNFXX-----A----</AM>
+<AM lemma="NDIS-2_:B" src="manual">NNXXX-----A---8</AM>
+<AM lemma="NDIS-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-lnd94103-146-p1s4w3">
@@ -370,7 +374,7 @@
 <tag>
 <AM lemma="Richter_;S" src="orig">NNMS4-----A----</AM>
 <AM lemma="Richter_;S" src="auto" recommended="1">NNMS2-----A---2</AM>
-<AM lemma="Richter_;S" src="auto">NNMS4-----A---2</AM>
+<AM lemma="Richter_;S" src="auto" selected="1">NNMS4-----A---2</AM>
 </tag>
 </m>
 <m id="m-lnd94103-146-p1s4w5">
@@ -621,7 +625,10 @@
 <LM>w#w-lnd94103-146-p1s5w9</LM>
 </w.rf>
 <form>ÚKP</form>
-<tag lemma="ÚKP_:B_;K" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ÚKP_:B_;K" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ÚKP-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd94103-146-p1s5w10">
 <src.rf>manual</src.rf>
@@ -728,6 +735,8 @@
 <tag>
 <AM lemma="NDIS-2_:B_;K_^(Národní_drogová_informační_služba)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="NDIS-1_:B_,t_^(network_driver_interface_specification)" src="auto" recommended="1">NNFXX-----A----</AM>
+<AM lemma="NDIS-2_:B" src="manual">NNXXX-----A---8</AM>
+<AM lemma="NDIS-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-lnd94103-146-p1s5w23">
@@ -1033,6 +1042,7 @@
 <AM lemma="mezirezortní" src="auto">AANS1----1A----</AM>
 <AM lemma="mezirezortní" src="auto">AANS4----1A----</AM>
 <AM lemma="mezirezortní" src="auto">AANS5----1A----</AM>
+<AM lemma="meziresortní_,s_^(^DD**mezirezortní)" src="manual" selected="1">AAFS7----1A----</AM>
 </tag>
 </m>
 <m id="m-lnd94103-146-p1s7w21">
@@ -1057,7 +1067,10 @@
 <LM>w#w-lnd94103-146-p1s7w23</LM>
 </w.rf>
 <form>SMV</form>
-<tag lemma="SMV-1_:B_^(středisko_místního_významu)" src="auto" selected="1">NNNXX-----A---8</tag>
+<tag>
+<AM lemma="SMV-1_:B_^(středisko_místního_významu)" src="auto">NNNXX-----A---8</AM>
+<AM lemma="SMV-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd94103-146-p1s7w24">
 <src.rf>manual</src.rf>
@@ -1076,6 +1089,8 @@
 <tag>
 <AM lemma="MVČR_^(Ministerstvo_vnitra_ČR)" src="orig">NNIXX-----A----</AM>
 <AM lemma="MVČK-1_:B_;K_^(Mezinárodní_výbor_Červeného_kříže)" src="auto" recommended="1">NNIXX-----A---8</AM>
+<AM lemma="MVČR_:B" src="manual">NNXXX-----A---8</AM>
+<AM lemma="MVČR-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-lnd94103-146-p1s7w26">
@@ -1092,7 +1107,11 @@
 <LM>w#w-lnd94103-146-p1s7w27</LM>
 </w.rf>
 <form>MVSR</form>
-<tag lemma="MVSR_:B_;K" src="orig" selected="1">NNNXX-----A---8</tag>
+<tag>
+<AM lemma="MVSR_:B_;K" src="orig">NNNXX-----A---8</AM>
+<AM lemma="MVSR_:B" src="manual">NNXXX-----A---8</AM>
+<AM lemma="MVSR-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd94103-146-p1s7w28">
 <src.rf>manual</src.rf>
@@ -1347,6 +1366,8 @@
 <tag>
 <AM lemma="NDIS-2_:B_;K_^(Národní_drogová_informační_služba)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="NDIS-1_:B_,t_^(network_driver_interface_specification)" src="auto" recommended="1">NNFXX-----A----</AM>
+<AM lemma="NDIS-2_:B" src="manual">NNXXX-----A---8</AM>
+<AM lemma="NDIS-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-lnd94103-146-p1s9w3">
@@ -1422,7 +1443,7 @@
 <tag>
 <AM lemma="tedy" src="orig">Db-------------</AM>
 <AM lemma="tedy-1" src="auto">TT-------------</AM>
-<AM lemma="tedy-2" src="auto" recommended="1">J^-------------</AM>
+<AM lemma="tedy-2" src="auto" recommended="1" selected="1">J^-------------</AM>
 </tag>
 </m>
 <m id="m-lnd94103-146-p1s9w12">

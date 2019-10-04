@@ -123,7 +123,10 @@
 <LM>w#w-mf920925-102-p1s1w14</LM>
 </w.rf>
 <form>Roman</form>
-<tag lemma="Roman_;Y" src="orig" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Roman_;Y" src="orig">NNMS1-----A----</AM>
+<AM lemma="Roman_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920925-102-p1s1w15">
 <src.rf>manual</src.rf>
@@ -195,7 +198,10 @@
 <LM>w#w-mf920925-102-p1s1w23</LM>
 </w.rf>
 <form>FNS</form>
-<tag lemma="FNS_:B_;K_^(Fronta_nár._spásy)" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="FNS_:B_;K_^(Fronta_nár._spásy)" src="orig">NNXXX-----A---8</AM>
+<AM lemma="FNS-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920925-102-p1s1w24">
 <src.rf>manual</src.rf>
@@ -220,7 +226,7 @@
 </w.rf>
 <form>Dragomir</form>
 <tag>
-<AM lemma="Dragomir-2_;S" src="orig">NNMS1-----A----</AM>
+<AM lemma="Dragomir-2_;S" src="orig" selected="1">NNMS1-----A----</AM>
 <AM lemma="Dragomir_;G" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Dragomir_;G" src="auto">NNIS4-----A----</AM>
 </tag>

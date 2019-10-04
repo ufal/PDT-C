@@ -714,6 +714,7 @@
 <AM lemma="mezirezortní" src="auto">AANS1----1A----</AM>
 <AM lemma="mezirezortní" src="auto">AANS4----1A----</AM>
 <AM lemma="mezirezortní" src="auto">AANS5----1A----</AM>
+<AM lemma="meziresortní_,s_^(^DD**mezirezortní)" src="manual" selected="1">AAFP1----1A----</AM>
 </tag>
 </m>
 <m id="m-lnd94105-038-p1s5w9">

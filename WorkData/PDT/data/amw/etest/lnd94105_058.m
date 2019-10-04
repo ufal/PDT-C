@@ -359,7 +359,10 @@
 <LM>w#w-lnd94105-058-p1s3w4</LM>
 </w.rf>
 <form>Douglas</form>
-<tag lemma="Douglas-2_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Douglas-2_;S" src="orig">NNMS1-----A----</AM>
+<AM lemma="Douglas-2_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd94105-058-p1s3w5">
 <src.rf>manual</src.rf>

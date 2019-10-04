@@ -249,7 +249,10 @@
 <LM>w#w-ln95046-061-p2s2w1</LM>
 </w.rf>
 <form>Judaismus</form>
-<tag lemma="judaismus" src="orig" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="judaismus" src="orig">NNIS1-----A----</AM>
+<AM lemma="judaismus_,s_^(^DD**judaizmus)" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95046-061-p2s2w2">
 <src.rf>manual</src.rf>
@@ -257,7 +260,10 @@
 <LM>w#w-ln95046-061-p2s2w2</LM>
 </w.rf>
 <form>sice</form>
-<tag lemma="sice-2" src="auto" selected="1">Db-------------</tag>
+<tag>
+<AM lemma="sice-2" src="auto">Db-------------</AM>
+<AM lemma="sice-1_^(spojka;_připouští_se_určitá_fakta)" src="manual" selected="1">J^-------------</AM>
+</tag>
 </m>
 <m id="m-ln95046-061-p2s2w3">
 <src.rf>manual</src.rf>

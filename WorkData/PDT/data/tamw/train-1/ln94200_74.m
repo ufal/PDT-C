@@ -479,7 +479,15 @@
 <LM>w#w-ln94200-74-p3s1w27</LM>
 </w.rf>
 <form>akt</form>
-<tag lemma="akt_^(čin;;obraz_nahého_těla)" src="auto" selected="1">NNIS4-----A----</tag>
+<tag>
+<AM lemma="akt_^(čin;;obraz_nahého_těla)" src="auto">NNIS4-----A----</AM>
+<AM lemma="akt" src="manual" selected="1">NNIS4-----A----</AM>
+</tag>
+<comment>
+<LM type="Other">
+<text>umazána poznámka o významu - málo obecná</text>
+</LM>
+</comment>
 </m>
 <m id="m-ln94200-74-p3s1w28">
 <src.rf>manual</src.rf>
@@ -537,7 +545,10 @@
 <LM>w#w-ln94200-74-p4s1w3</LM>
 </w.rf>
 <form>sci</form>
-<tag lemma="science-2_:B_,t_^(angl._vědecký)" src="orig" selected="1">AAXXX----1A---8</tag>
+<tag>
+<AM lemma="science-2_:B_,t_^(angl._vědecký)" src="orig">AAXXX----1A---8</AM>
+<AM lemma="sci-1_^(jen_ve_spojení_sci-fi)" src="manual" selected="1">A2--------A----</AM>
+</tag>
 </m>
 <m id="m-ln94200-74-p4s1w4">
 <src.rf>manual</src.rf>
@@ -557,6 +568,7 @@
 <AM lemma="fiction-1_:B_,t_^(angl._fantastický,_sci-fi)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="fi-1" src="auto">II-------------</AM>
 <AM lemma="fi-2_:B_,t_^(fiction,_angl._fantastický,_sci-fi)" src="auto" recommended="1">NNFXX-----A---8</AM>
+<AM lemma="fi-2_^(jen_ve_spojení_sci-fi)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94200-74-p4s1w6">

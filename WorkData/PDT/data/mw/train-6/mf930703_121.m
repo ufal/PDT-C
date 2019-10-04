@@ -77,6 +77,7 @@
 <AM lemma="lup" src="auto">NNIS4-----A----</AM>
 <AM lemma="lupa" src="auto">NNFP2-----A----</AM>
 <AM lemma="lupnout_:W" src="auto">VpYS---XR-AA--6</AM>
+<AM lemma="lup-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930703-121-p2s1w4">
@@ -305,7 +306,7 @@
 <form>třeba</form>
 <tag>
 <AM lemma="třeba-1" src="orig">ACNS------A----</AM>
-<AM lemma="třeba-2" src="auto" recommended="1">Db-------------</AM>
+<AM lemma="třeba-2" src="auto" recommended="1" selected="1">Db-------------</AM>
 <AM lemma="třeba-3" src="auto">TT-------------</AM>
 </tag>
 </m>
@@ -363,7 +364,10 @@
 <LM>w#w-mf930703-121-p2s2w15</LM>
 </w.rf>
 <form>došlo</form>
-<tag lemma="dojít" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag>
+<AM lemma="dojít" src="orig">VpNS---XR-AA---</AM>
+<AM lemma="dojít_:W" src="manual" selected="1">VpNS---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-mf930703-121-p2s2w16">
 <src.rf>manual</src.rf>
@@ -419,7 +423,10 @@
 <LM>w#w-mf930703-121-p2s2w22</LM>
 </w.rf>
 <form>stranou</form>
-<tag lemma="strana-3_^(u_soudu,_na_úřadě,_smluvní_strany;_na_něčí_straně)" src="orig" selected="1">NNFS7-----A----</tag>
+<tag>
+<AM lemma="strana-3_^(u_soudu,_na_úřadě,_smluvní_strany;_na_něčí_straně)" src="orig">NNFS7-----A----</AM>
+<AM lemma="strana" src="manual" selected="1">NNFS7-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930703-121-p2s2w23">
 <src.rf>manual</src.rf>
@@ -437,7 +444,10 @@
 <LM>w#w-mf930703-121-p3s1w1</LM>
 </w.rf>
 <form>ODA</form>
-<tag lemma="ODA-2_:B_;K_;p_^(Občanská_demokratická_aliance)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ODA-2_:B_;K_;p_^(Občanská_demokratická_aliance)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ODA-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930703-121-p3s1w2">
 <src.rf>manual</src.rf>
@@ -469,7 +479,10 @@
 <LM>w#w-mf930703-121-p3s1w5</LM>
 </w.rf>
 <form>chtít</form>
-<tag lemma="chtít" src="orig" selected="1">Vf--------A----</tag>
+<tag>
+<AM lemma="chtít" src="orig">Vf--------A----</AM>
+<AM lemma="chtít_:T" src="manual" selected="1">Vf--------A----</AM>
+</tag>
 </m>
 <m id="m-mf930703-121-p3s1w6">
 <src.rf>manual</src.rf>
@@ -506,6 +519,7 @@
 <tag>
 <AM lemma="tk-99_:B_;S" src="orig">NNXXX-----A---8</AM>
 <AM lemma="tknout" src="auto" recommended="1">VpYS---XR-AA--6</AM>
+<AM lemma="tk-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930703-121-p4s1w4">
@@ -530,7 +544,10 @@
 <LM>w#w-mf930703-121-p4s1w6</LM>
 </w.rf>
 <form>Nesouhlas</form>
-<tag lemma="nesouhlas" src="orig" selected="1">NNIS4-----A----</tag>
+<tag>
+<AM lemma="nesouhlas" src="orig">NNIS4-----A----</AM>
+<AM lemma="souhlas" src="manual" selected="1">NNIS4-----N----</AM>
+</tag>
 </m>
 <m id="m-mf930703-121-p4s1w7">
 <src.rf>manual</src.rf>
@@ -772,7 +789,10 @@
 <LM>w#w-mf930703-121-p4s2w10</LM>
 </w.rf>
 <form>strana</form>
-<tag lemma="strana-2_^(politická)" src="orig" selected="1">NNFS1-----A----</tag>
+<tag>
+<AM lemma="strana-2_^(politická)" src="orig">NNFS1-----A----</AM>
+<AM lemma="strana" src="manual" selected="1">NNFS1-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930703-121-p4s2w11">
 <src.rf>manual</src.rf>
@@ -822,7 +842,10 @@
 <LM>w#w-mf930703-121-p4s3w1</LM>
 </w.rf>
 <form>ODA</form>
-<tag lemma="ODA-2_:B_;K_;p_^(Občanská_demokratická_aliance)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ODA-2_:B_;K_;p_^(Občanská_demokratická_aliance)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ODA-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930703-121-p4s3w2">
 <src.rf>manual</src.rf>
@@ -1198,7 +1221,10 @@
 <LM>w#w-mf930703-121-p6s3w1</LM>
 </w.rf>
 <form>Má</form>
-<tag lemma="mít" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag>
+<AM lemma="mít" src="orig">VB-S---3P-AA---</AM>
+<AM lemma="mít_:T" src="manual" selected="1">VB-S---3P-AA---</AM>
+</tag>
 </m>
 <m id="m-mf930703-121-p6s3w2">
 <src.rf>manual</src.rf>

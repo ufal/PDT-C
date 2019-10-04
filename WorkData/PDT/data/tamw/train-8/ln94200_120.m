@@ -59,7 +59,10 @@
 <LM>w#w-ln94200-120-p1s1w6</LM>
 </w.rf>
 <form>PRI</form>
-<tag lemma="PRI-1_:B_;K_,t_^(Partito_Repubblicano_Italiano)" src="auto" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="PRI-1_:B_;K_,t_^(Partito_Repubblicano_Italiano)" src="auto">NNFXX-----A---8</AM>
+<AM lemma="PRI-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 </s>
 <s id="m-ln94200-120-p2s1A">
@@ -313,7 +316,10 @@
 <LM>w#w-ln94200-120-p2s2w13</LM>
 </w.rf>
 <form>PRI</form>
-<tag lemma="PRI-1_:B_;K_,t_^(Partito_Repubblicano_Italiano)" src="auto" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="PRI-1_:B_;K_,t_^(Partito_Repubblicano_Italiano)" src="auto">NNFXX-----A---8</AM>
+<AM lemma="PRI-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln94200-120-p2s2w14">
 <src.rf>manual</src.rf>
@@ -1297,6 +1303,7 @@
 <AM lemma="PAN_:B_;K_,t_^(Partido_Acción_Nacional,_strana_v_Mexiku)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="Pan-1_;S" src="auto">NNMS1-----A----</AM>
 <AM lemma="pan_^(oslovení)" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="PAN-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-ln94200-120-p4s1w12">
@@ -1547,7 +1554,10 @@
 <LM>w#w-ln94200-120-p4s2w15</LM>
 </w.rf>
 <form>PRI</form>
-<tag lemma="PRI-1_:B_;K_,t_^(Partito_Repubblicano_Italiano)" src="auto" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="PRI-1_:B_;K_,t_^(Partito_Repubblicano_Italiano)" src="auto">NNFXX-----A---8</AM>
+<AM lemma="PRI-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln94200-120-p4s2w16">
 <src.rf>manual</src.rf>
@@ -1581,7 +1591,7 @@
 <form>nejen</form>
 <tag>
 <AM lemma="nejen" src="orig">TT-------------</AM>
-<AM lemma="nejen" src="auto" recommended="1">Db-------------</AM>
+<AM lemma="nejen" src="auto" recommended="1" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m-ln94200-120-p4s2w20">
@@ -1762,7 +1772,10 @@
 <LM>w#w-ln94200-120-p5s1w1</LM>
 </w.rf>
 <form>Více</form>
-<tag lemma="hodně-2" src="auto" selected="1">Dg-------2A----</tag>
+<tag>
+<AM lemma="hodně-2" src="auto">Dg-------2A----</AM>
+<AM lemma="hodně-3" src="manual" selected="1">Dg-------2A----</AM>
+</tag>
 </m>
 <m id="m-ln94200-120-p5s1w2">
 <src.rf>manual</src.rf>
@@ -2226,7 +2239,10 @@
 <LM>w#w-ln94200-120-p6s3w1</LM>
 </w.rf>
 <form>Ernesto</form>
-<tag lemma="Ernesto_;Y_,t" src="auto" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Ernesto_;Y_,t" src="auto">NNMS1-----A----</AM>
+<AM lemma="Ernesto_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94200-120-p6s3w2">
 <src.rf>manual</src.rf>
@@ -2234,7 +2250,10 @@
 <LM>w#w-ln94200-120-p6s3w2</LM>
 </w.rf>
 <form>Zedillo</form>
-<tag lemma="Zedillo_;S" src="auto" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Zedillo_;S" src="auto">NNMS1-----A----</AM>
+<AM lemma="Zedillo_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94200-120-p6s3w3">
 <src.rf>manual</src.rf>
@@ -2243,7 +2262,7 @@
 </w.rf>
 <form>Ponce</form>
 <tag>
-<AM lemma="Ponce_;S" src="orig">NNMS1-----A----</AM>
+<AM lemma="Ponce_;S" src="orig" selected="1">NNMS1-----A----</AM>
 <AM lemma="Ponec_;S" src="auto" recommended="1">NNMP4-----A----</AM>
 <AM lemma="Ponec_;S" src="auto">NNMS2-----A----</AM>
 <AM lemma="Ponec_;S" src="auto">NNMS4-----A----</AM>
@@ -2271,7 +2290,10 @@
 <LM>w#w-ln94200-120-p6s3w6</LM>
 </w.rf>
 <form>PRI</form>
-<tag lemma="PRI-1_:B_;K_,t_^(Partito_Repubblicano_Italiano)" src="auto" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="PRI-1_:B_;K_,t_^(Partito_Repubblicano_Italiano)" src="auto">NNFXX-----A---8</AM>
+<AM lemma="PRI-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln94200-120-p6s3w7">
 <src.rf>manual</src.rf>
@@ -2359,7 +2381,11 @@
 <LM>w#w-ln94200-120-p6s3w17</LM>
 </w.rf>
 <form>de</form>
-<tag lemma="de_,t_^(z_franc._de,_zejm._ve_jménech)" src="orig" selected="1">RR--1----------</tag>
+<tag>
+<AM lemma="de_,t_^(z_franc._de,_zejm._ve_jménech)" src="orig">RR--1----------</AM>
+<AM lemma="de-88_:B" src="manual">NNXXX-----A---8</AM>
+<AM lemma="de-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94200-120-p6s3w18">
 <src.rf>manual</src.rf>
@@ -2505,7 +2531,10 @@
 <LM>w#w-ln94200-120-p6s4w13</LM>
 </w.rf>
 <form>PRI</form>
-<tag lemma="PRI-1_:B_;K_,t_^(Partito_Repubblicano_Italiano)" src="auto" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="PRI-1_:B_;K_,t_^(Partito_Repubblicano_Italiano)" src="auto">NNFXX-----A---8</AM>
+<AM lemma="PRI-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln94200-120-p6s4w14">
 <src.rf>manual</src.rf>
@@ -2621,7 +2650,10 @@
 <LM>w#w-ln94200-120-p6s6w5</LM>
 </w.rf>
 <form>PRI</form>
-<tag lemma="PRI-1_:B_;K_,t_^(Partito_Repubblicano_Italiano)" src="auto" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="PRI-1_:B_;K_,t_^(Partito_Repubblicano_Italiano)" src="auto">NNFXX-----A---8</AM>
+<AM lemma="PRI-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln94200-120-p6s6w6">
 <src.rf>manual</src.rf>
@@ -2971,7 +3003,10 @@
 <LM>w#w-ln94200-120-p7s3w4</LM>
 </w.rf>
 <form>Zedilla</form>
-<tag lemma="Zedillo_;S" src="auto" selected="1">NNMS2-----A----</tag>
+<tag>
+<AM lemma="Zedillo_;S" src="auto">NNMS2-----A----</AM>
+<AM lemma="Zedillo_;S_;Y" src="manual" selected="1">NNMS2-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94200-120-p7s3w5">
 <src.rf>manual</src.rf>
@@ -3489,7 +3524,10 @@
 <LM>w#w-ln94200-120-p8s3w21</LM>
 </w.rf>
 <form>Zedillo</form>
-<tag lemma="Zedillo_;S" src="auto" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Zedillo_;S" src="auto">NNMS1-----A----</AM>
+<AM lemma="Zedillo_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94200-120-p8s3w22">
 <src.rf>manual</src.rf>
@@ -3498,7 +3536,7 @@
 </w.rf>
 <form>Ponce</form>
 <tag>
-<AM lemma="Ponce_;S" src="orig">NNMS1-----A----</AM>
+<AM lemma="Ponce_;S" src="orig" selected="1">NNMS1-----A----</AM>
 <AM lemma="Ponec_;S" src="auto">NNMP4-----A----</AM>
 <AM lemma="Ponec_;S" src="auto">NNMS2-----A----</AM>
 <AM lemma="Ponec_;S" src="auto" recommended="1">NNMS4-----A----</AM>
@@ -3526,7 +3564,10 @@
 <LM>w#w-ln94200-120-p8s3w25</LM>
 </w.rf>
 <form>Diegem</form>
-<tag lemma="Diego_;S_;Y_,t" src="auto" selected="1">NNMS7-----A----</tag>
+<tag>
+<AM lemma="Diego_;S_;Y_,t" src="auto">NNMS7-----A----</AM>
+<AM lemma="Diego_;S_;Y" src="manual" selected="1">NNMS7-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94200-120-p8s3w26">
 <src.rf>manual</src.rf>
@@ -3542,7 +3583,10 @@
 <LM>w#w-ln94200-120-p8s3w27</LM>
 </w.rf>
 <form>de</form>
-<tag lemma="de_,t_^(z_franc._de,_zejm._ve_jménech)" src="orig" selected="1">RR--1----------</tag>
+<tag>
+<AM lemma="de_,t_^(z_franc._de,_zejm._ve_jménech)" src="orig">RR--1----------</AM>
+<AM lemma="de-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94200-120-p8s3w28">
 <src.rf>manual</src.rf>
@@ -3570,6 +3614,7 @@
 <AM lemma="PAN_:B_;K_,t_^(Partido_Acción_Nacional,_strana_v_Mexiku)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="Pan-1_;S" src="auto">NNMS1-----A----</AM>
 <AM lemma="pan_^(oslovení)" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="PAN-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-ln94200-120-p8s3w31">
@@ -3670,7 +3715,7 @@
 <form>ovšem</form>
 <tag>
 <AM lemma="ovšem-1_^(avšak,_však;_odporovací_spojka)" src="orig">J^-------------</AM>
-<AM lemma="ovšem" src="auto" recommended="1">TT-------------</AM>
+<AM lemma="ovšem" src="auto" recommended="1" selected="1">TT-------------</AM>
 </tag>
 </m>
 <m id="m-ln94200-120-p8s4w4">
@@ -3820,7 +3865,7 @@
 <tag>
 <AM lemma="tedy" src="orig">Db-------------</AM>
 <AM lemma="tedy-1" src="auto">TT-------------</AM>
-<AM lemma="tedy-2" src="auto" recommended="1">J^-------------</AM>
+<AM lemma="tedy-2" src="auto" recommended="1" selected="1">J^-------------</AM>
 </tag>
 </m>
 <m id="m-ln94200-120-p8s5w10">
@@ -3968,7 +4013,7 @@
 </w.rf>
 <form>Cárdenas</form>
 <tag>
-<AM lemma="Cárdenas-2_;Y" src="orig">NNMS1-----A----</AM>
+<AM lemma="Cárdenas-2_;Y" src="orig" selected="1">NNMS1-----A----</AM>
 <AM lemma="Cárdenas_;G" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Cárdenas_;G" src="auto">NNIS4-----A----</AM>
 </tag>
@@ -4388,7 +4433,7 @@
 <form>Ačkoliv</form>
 <tag>
 <AM lemma="ačkoliv" src="orig">J,-------------</AM>
-<AM lemma="ačkoli" src="auto" recommended="1">J,------------1</AM>
+<AM lemma="ačkoli" src="auto" recommended="1" selected="1">J,------------1</AM>
 </tag>
 </m>
 <m id="m-ln94200-120-p10s1w2">
@@ -4439,7 +4484,7 @@
 <form>přece</form>
 <tag>
 <AM lemma="přece" src="orig">Db-------------</AM>
-<AM lemma="přece-1" src="auto" recommended="1">J^-------------</AM>
+<AM lemma="přece-1" src="auto" recommended="1" selected="1">J^-------------</AM>
 <AM lemma="přece-2" src="auto">TT-------------</AM>
 </tag>
 </m>
@@ -4888,7 +4933,7 @@
 </w.rf>
 <form>Cárdenas</form>
 <tag>
-<AM lemma="Cárdenas-2_;Y" src="orig">NNMS1-----A----</AM>
+<AM lemma="Cárdenas-2_;Y" src="orig" selected="1">NNMS1-----A----</AM>
 <AM lemma="Cárdenas_;G" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Cárdenas_;G" src="auto">NNIS4-----A----</AM>
 </tag>

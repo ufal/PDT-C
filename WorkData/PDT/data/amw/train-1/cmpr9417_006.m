@@ -414,7 +414,10 @@
 <LM>w#w-cmpr9417-006-p5s2w6</LM>
 </w.rf>
 <form>ČSN</form>
-<tag lemma="ČSN-1_:B_^(čs./česká_státní_norma)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ČSN-1_:B_^(čs./česká_státní_norma)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČSN-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-cmpr9417-006-p5s2w7">
 <src.rf>manual</src.rf>
@@ -2142,7 +2145,10 @@
 <LM>w#w-cmpr9417-006-p16s3w11</LM>
 </w.rf>
 <form>jen</form>
-<tag lemma="jen-1" src="auto" selected="1">TT-------------</tag>
+<tag>
+<AM lemma="jen-1" src="auto">TT-------------</AM>
+<AM lemma="jen-4_^(pouze)" src="manual" selected="1">Db-------------</AM>
+</tag>
 </m>
 <m id="m-cmpr9417-006-p16s3w12">
 <src.rf>manual</src.rf>
@@ -2264,7 +2270,10 @@
 <LM>w#w-cmpr9417-006-p16s4w12</LM>
 </w.rf>
 <form>g</form>
-<tag lemma="g-1`gram_:B" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="g-1`gram_:B" src="orig">NNIXX-----A---8</AM>
+<AM lemma="g-1`gram" src="manual" selected="1">NNIXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-cmpr9417-006-p16s4w13">
 <src.rf>manual</src.rf>
@@ -3132,7 +3141,10 @@
 <LM>w#w-cmpr9417-006-p18s2w6</LM>
 </w.rf>
 <form>mm</form>
-<tag lemma="mm-1`milimetr_:B" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="mm-1`milimetr_:B" src="orig">NNIXX-----A---8</AM>
+<AM lemma="mm-1`milimetr" src="manual" selected="1">NNIXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-cmpr9417-006-p18s2w7">
 <src.rf>manual</src.rf>
@@ -3286,7 +3298,10 @@
 <LM>w#w-cmpr9417-006-p19s1w16</LM>
 </w.rf>
 <form>g</form>
-<tag lemma="g-1`gram_:B" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="g-1`gram_:B" src="orig">NNIXX-----A---8</AM>
+<AM lemma="g-1`gram" src="manual" selected="1">NNIXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-cmpr9417-006-p19s1w17">
 <src.rf>manual</src.rf>
@@ -3350,7 +3365,10 @@
 <LM>w#w-cmpr9417-006-p19s1w24</LM>
 </w.rf>
 <form>g</form>
-<tag lemma="g-1`gram_:B" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="g-1`gram_:B" src="orig">NNIXX-----A---8</AM>
+<AM lemma="g-1`gram" src="manual" selected="1">NNIXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-cmpr9417-006-p19s1w25">
 <src.rf>manual</src.rf>
@@ -3497,7 +3515,10 @@
 <LM>w#w-cmpr9417-006-p20s1w17</LM>
 </w.rf>
 <form>g</form>
-<tag lemma="g-1`gram_:B" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="g-1`gram_:B" src="orig">NNIXX-----A---8</AM>
+<AM lemma="g-1`gram" src="manual" selected="1">NNIXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-cmpr9417-006-p20s1w18">
 <src.rf>manual</src.rf>

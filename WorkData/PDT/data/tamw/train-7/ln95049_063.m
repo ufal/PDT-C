@@ -137,6 +137,7 @@
 <AM lemma="ex-3_,t_^(ex_libris)" src="orig">AAXXX----1A----</AM>
 <AM lemma="ex-1_^(vypít_na_ex,_můj_ex[manžel])" src="auto">NNXXX-----A----</AM>
 <AM lemma="ex-2_;R_,t_^(lat.,_advokát_ex_offo)" src="auto" recommended="1">RR--X----------</AM>
+<AM lemma="Ex-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-ln95049-063-p2s1w11">
@@ -145,7 +146,10 @@
 <LM>w#w-ln95049-063-p2s1w11</LM>
 </w.rf>
 <form>libris</form>
-<tag lemma="libris_^(pouze_ve_spojení_ex_libris)" src="auto" selected="1">NNNXX-----A----</tag>
+<tag>
+<AM lemma="libris_^(pouze_ve_spojení_ex_libris)" src="auto">NNNXX-----A----</AM>
+<AM lemma="libris-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln95049-063-p2s1w12">
 <src.rf>manual</src.rf>
@@ -302,7 +306,10 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>poémes</form>
-<tag lemma="poémes_,t" src="orig" selected="1">NNFPX-----A----</tag>
+<tag>
+<AM lemma="poémes_,t" src="orig">NNFPX-----A----</AM>
+<AM lemma="poémes-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln95049-063-p3s1w13">
 <src.rf>manual</src.rf>
@@ -310,7 +317,10 @@
 <LM>w#w-ln95049-063-p3s1w13</LM>
 </w.rf>
 <form>physiques</form>
-<tag lemma="physiques" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="physiques" src="orig">AAXXX----1A----</AM>
+<AM lemma="physiques-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln95049-063-p3s1w14">
 <src.rf>manual</src.rf>
@@ -326,7 +336,10 @@
 <LM>w#w-ln95049-063-p3s1w15</LM>
 </w.rf>
 <form>visuels</form>
-<tag lemma="visuels_,t" src="orig" selected="1">NNNXX-----A----</tag>
+<tag>
+<AM lemma="visuels_,t" src="orig">NNNXX-----A----</AM>
+<AM lemma="visuels-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln95049-063-p3s1w16">
 <src.rf>manual</src.rf>
@@ -406,7 +419,10 @@
 <LM>w#w-ln95049-063-p3s1w25</LM>
 </w.rf>
 <form>hod</form>
-<tag lemma="hodina_:B" src="auto" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="hodina_:B" src="auto">NNFXX-----A---8</AM>
+<AM lemma="hodina" src="manual" selected="1">NNFXX-----A---9</AM>
+</tag>
 </m>
 <m id="m-ln95049-063-p3s1w26">
 <src.rf>manual</src.rf>

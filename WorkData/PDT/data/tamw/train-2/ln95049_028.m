@@ -102,7 +102,10 @@
 <LM>w#w-ln95049-028-p2s1w8</LM>
 </w.rf>
 <form>Pico</form>
-<tag lemma="Pico_;G" src="auto" selected="1">NNNSX-----A----</tag>
+<tag>
+<AM lemma="Pico_;G" src="auto">NNNSX-----A----</AM>
+<AM lemma="Pico-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln95049-028-p2s1w9">
 <src.rf>manual</src.rf>
@@ -110,7 +113,10 @@
 <LM>w#w-ln95049-028-p2s1w9</LM>
 </w.rf>
 <form>de</form>
-<tag lemma="de_,t_^(z_franc._de,_zejm._ve_jménech)" src="orig" selected="1">RR--1----------</tag>
+<tag>
+<AM lemma="de_,t_^(z_franc._de,_zejm._ve_jménech)" src="orig">RR--1----------</AM>
+<AM lemma="de-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln95049-028-p2s1w10">
 <src.rf>manual</src.rf>
@@ -118,7 +124,10 @@
 <LM>w#w-ln95049-028-p2s1w10</LM>
 </w.rf>
 <form>Regalados</form>
-<tag lemma="Regalados_;G" src="orig" selected="1">NNNXX-----A----</tag>
+<tag>
+<AM lemma="Regalados_;G" src="orig">NNNXX-----A----</AM>
+<AM lemma="Regalados-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln95049-028-p2s1w11">
 <src.rf>manual</src.rf>
@@ -560,7 +569,10 @@
 <LM>w#w-ln95049-028-p3s2w8</LM>
 </w.rf>
 <form>Premiere</form>
-<tag lemma="Premiere_;K_,t" src="auto" selected="1">NNFSX-----A----</tag>
+<tag>
+<AM lemma="Premiere_;K_,t" src="auto">NNFSX-----A----</AM>
+<AM lemma="Premiere_;K" src="manual" selected="1">NNFSX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95049-028-p3s2w9">
 <src.rf>manual</src.rf>
@@ -645,7 +657,7 @@
 <tag>
 <AM lemma="Arminia_;K_,t" src="orig">NNFS7-----A----</AM>
 <AM lemma="Arminie_;K" src="auto">NNFP2-----A----</AM>
-<AM lemma="Arminie_;K" src="auto" recommended="1">NNFS7-----A----</AM>
+<AM lemma="Arminie_;K" src="auto" recommended="1" selected="1">NNFS7-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95049-028-p3s3w10">

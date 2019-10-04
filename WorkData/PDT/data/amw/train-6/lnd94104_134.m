@@ -418,6 +418,7 @@
 <tag>
 <AM lemma="sim-99_:B_;S" src="orig">NNXXX-----A---8</AM>
 <AM lemma="sima_;L_,a_^(vrstva_zemského_pláště;;prvek_antické_architektury)" src="auto" recommended="1">NNFP2-----A----</AM>
+<AM lemma="sim-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94104-134-p1s3w3">

@@ -275,6 +275,7 @@
 <AM lemma="Volvox_;K" src="orig">AAXXX----1A----</AM>
 <AM lemma="Volvox_;K_^(nakl_Volvox_Globator)" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Volvox_;K_^(nakl_Volvox_Globator)" src="auto">NNIS4-----A----</AM>
+<AM lemma="Volvox-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-ln95044-053-p3s1w7">
@@ -283,7 +284,10 @@
 <LM>w#w-ln95044-053-p3s1w7</LM>
 </w.rf>
 <form>Globator</form>
-<tag lemma="Globator_;K_^(nakl._Volvox_Globator)" src="auto" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="Globator_;K_^(nakl._Volvox_Globator)" src="auto">NNIS1-----A----</AM>
+<AM lemma="Globator-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln95044-053-p3s1w8">
 <src.rf>manual</src.rf>
@@ -339,7 +343,10 @@
 <LM>w#w-ln95044-053-p3s1w14</LM>
 </w.rf>
 <form>Štolba</form>
-<tag lemma="štolba" src="orig" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="štolba" src="orig">NNMS1-----A----</AM>
+<AM lemma="Štolba_;S" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95044-053-p3s1w15">
 <src.rf>manual</src.rf>
@@ -399,6 +406,7 @@
 <AM lemma="Volvox_;K" src="orig">AAXXX----1A----</AM>
 <AM lemma="Volvox_;K_^(nakl_Volvox_Globator)" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Volvox_;K_^(nakl_Volvox_Globator)" src="auto">NNIS4-----A----</AM>
+<AM lemma="Volvox-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-ln95044-053-p3s1w22">
@@ -407,7 +415,10 @@
 <LM>w#w-ln95044-053-p3s1w22</LM>
 </w.rf>
 <form>Globator</form>
-<tag lemma="Globator_;K_^(nakl._Volvox_Globator)" src="auto" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="Globator_;K_^(nakl._Volvox_Globator)" src="auto">NNIS1-----A----</AM>
+<AM lemma="Globator-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln95044-053-p3s1w23">
 <src.rf>manual</src.rf>
@@ -566,7 +577,7 @@
 <tag>
 <AM lemma="Inez_;Y" src="orig">NNFXX-----A----</AM>
 <AM lemma="Inez-1_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Inez-2_;Y" src="auto" recommended="1">NNFSX-----A----</AM>
+<AM lemma="Inez-2_;Y" src="auto" recommended="1" selected="1">NNFSX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95044-053-p4s1w6">

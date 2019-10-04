@@ -27,7 +27,10 @@
 <LM>w#w-mf930703-017-p1s1w2</LM>
 </w.rf>
 <form>Rovná</form>
-<tag lemma="Rovná_;S_^(*1ý)" src="auto" selected="1">NNFS1-----A----</tag>
+<tag>
+<AM lemma="Rovná_;S_^(*1ý)" src="auto">NNFS1-----A----</AM>
+<AM lemma="Rovná-2_;G" src="manual" selected="1">NNFS1-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930703-017-p1s1w3">
 <src.rf>manual</src.rf>
@@ -85,7 +88,10 @@
 <LM>w#w-mf930703-017-p2s1w1</LM>
 </w.rf>
 <form>Rovná</form>
-<tag lemma="Rovná_;S_^(*1ý)" src="auto" selected="1">NNFS1-----A----</tag>
+<tag>
+<AM lemma="Rovná_;S_^(*1ý)" src="auto">NNFS1-----A----</AM>
+<AM lemma="Rovná-2_;G" src="manual" selected="1">NNFS1-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930703-017-p2s1w2">
 <src.rf>manual</src.rf>
@@ -101,7 +107,10 @@
 <LM>w#w-mf930703-017-p2s1w3</LM>
 </w.rf>
 <form>bar</form>
-<tag lemma="bar-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="bar-99_:B_;S" src="orig">NNXXX-----A---8</AM>
+<AM lemma="bar-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930703-017-p2s1w4">
 <src.rf>manual</src.rf>
@@ -197,7 +206,10 @@
 <LM>w#w-mf930703-017-p2s1w15</LM>
 </w.rf>
 <form>Rovná</form>
-<tag lemma="Rovná_;S_^(*1ý)" src="auto" selected="1">NNFS1-----A----</tag>
+<tag>
+<AM lemma="Rovná_;S_^(*1ý)" src="auto">NNFS1-----A----</AM>
+<AM lemma="Rovná-2_;G" src="manual" selected="1">NNFS1-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930703-017-p2s1w16">
 <src.rf>manual</src.rf>
@@ -216,7 +228,7 @@
 <tag>
 <AM lemma="sokolovsko_;G" src="orig">NNNS6-----A----</AM>
 <AM lemma="Sokolovsko_;G" src="auto">NNNS3-----A----</AM>
-<AM lemma="Sokolovsko_;G" src="auto" recommended="1">NNNS6-----A----</AM>
+<AM lemma="Sokolovsko_;G" src="auto" recommended="1" selected="1">NNNS6-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930703-017-p2s1w18">
@@ -355,7 +367,10 @@
 <LM>w#w-mf930703-017-p2s2w11</LM>
 </w.rf>
 <form>vypověděl</form>
-<tag lemma="vypovědět" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag>
+<AM lemma="vypovědět" src="orig">VpYS---XR-AA---</AM>
+<AM lemma="vypovědět_:W" src="manual" selected="1">VpYS---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-mf930703-017-p2s2w12">
 <src.rf>manual</src.rf>
@@ -533,7 +548,10 @@
 <LM>w#w-mf930703-017-p3s1w5</LM>
 </w.rf>
 <form>Rovné</form>
-<tag lemma="Rovná_;S_^(*1ý)" src="auto" selected="1">NNFS2-----A----</tag>
+<tag>
+<AM lemma="Rovná_;S_^(*1ý)" src="auto">NNFS2-----A----</AM>
+<AM lemma="Rovná-2_;G" src="manual" selected="1">NNFS2-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930703-017-p3s1w6">
 <src.rf>manual</src.rf>
@@ -623,7 +641,10 @@
 <LM>w#w-mf930703-017-p3s2w5</LM>
 </w.rf>
 <form>převést</form>
-<tag lemma="převést" src="orig" selected="1">Vf--------A----</tag>
+<tag>
+<AM lemma="převést" src="orig">Vf--------A----</AM>
+<AM lemma="převést_:W" src="manual" selected="1">Vf--------A----</AM>
+</tag>
 </m>
 <m id="m-mf930703-017-p3s2w6">
 <src.rf>manual</src.rf>
@@ -825,7 +846,10 @@
 <LM>w#w-mf930703-017-p3s3w4</LM>
 </w.rf>
 <form>Rovné</form>
-<tag lemma="Rovná_;S_^(*1ý)" src="auto" selected="1">NNFS2-----A----</tag>
+<tag>
+<AM lemma="Rovná_;S_^(*1ý)" src="auto">NNFS2-----A----</AM>
+<AM lemma="Rovná-2_;G" src="manual" selected="1">NNFS2-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930703-017-p3s3w5">
 <src.rf>manual</src.rf>
@@ -849,7 +873,10 @@
 <LM>w#w-mf930703-017-p3s3w7</LM>
 </w.rf>
 <form>podepsal</form>
-<tag lemma="podepsat" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag>
+<AM lemma="podepsat" src="orig">VpYS---XR-AA---</AM>
+<AM lemma="podepsat_:W" src="manual" selected="1">VpYS---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-mf930703-017-p3s3w8">
 <src.rf>manual</src.rf>
@@ -931,7 +958,10 @@
 <LM>w#w-mf930703-017-p3s4w5</LM>
 </w.rf>
 <form>Rovná</form>
-<tag lemma="Rovná_;S_^(*1ý)" src="auto" selected="1">NNFS1-----A----</tag>
+<tag>
+<AM lemma="Rovná_;S_^(*1ý)" src="auto">NNFS1-----A----</AM>
+<AM lemma="Rovná-2_;G" src="manual" selected="1">NNFS1-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930703-017-p3s4w6">
 <src.rf>manual</src.rf>
@@ -955,7 +985,10 @@
 <LM>w#w-mf930703-017-p3s4w8</LM>
 </w.rf>
 <form>nevyhne</form>
-<tag lemma="vyhnout" src="orig" selected="1">VB-S---3P-NA---</tag>
+<tag>
+<AM lemma="vyhnout" src="orig">VB-S---3P-NA---</AM>
+<AM lemma="vyhnout_:W" src="manual" selected="1">VB-S---3P-NA---</AM>
+</tag>
 </m>
 <m id="m-mf930703-017-p3s4w9">
 <src.rf>manual</src.rf>
@@ -1069,7 +1102,10 @@
 <LM>w#w-mf930703-017-p4s1w7</LM>
 </w.rf>
 <form>stát</form>
-<tag lemma="stát-4_^(něco_stojí_peníze)" src="orig" selected="1">Vf--------A----</tag>
+<tag>
+<AM lemma="stát-4_^(něco_stojí_peníze)" src="orig">Vf--------A----</AM>
+<AM lemma="stát-4_:T_^(něco_stojí_peníze)" src="manual" selected="1">Vf--------A----</AM>
+</tag>
 </m>
 <m id="m-mf930703-017-p4s1w8">
 <src.rf>manual</src.rf>
@@ -1279,7 +1315,10 @@
 <LM>w#w-mf930703-017-p4s2w1</LM>
 </w.rf>
 <form>Rovná</form>
-<tag lemma="Rovná_;S_^(*1ý)" src="auto" selected="1">NNFS1-----A----</tag>
+<tag>
+<AM lemma="Rovná_;S_^(*1ý)" src="auto">NNFS1-----A----</AM>
+<AM lemma="Rovná-2_;G" src="manual" selected="1">NNFS1-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930703-017-p4s2w2">
 <src.rf>manual</src.rf>

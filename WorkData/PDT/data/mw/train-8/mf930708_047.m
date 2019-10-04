@@ -780,7 +780,7 @@
 <tag>
 <AM lemma="tady" src="orig">Db------------1</AM>
 <AM lemma="ten" src="auto">PDFS4----------</AM>
-<AM lemma="tu" src="auto" recommended="1">Db-------------</AM>
+<AM lemma="tu" src="auto" recommended="1" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m-mf930708-047-p5s1w4">
@@ -837,7 +837,10 @@
 <LM>w#w-mf930708-047-p5s1w10</LM>
 </w.rf>
 <form>Vlčka</form>
-<tag lemma="vlček" src="orig" selected="1">NNMS2-----A----</tag>
+<tag>
+<AM lemma="vlček" src="orig">NNMS2-----A----</AM>
+<AM lemma="Vlček_;S" src="manual" selected="1">NNMS2-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930708-047-p5s1w11">
 <src.rf>manual</src.rf>
@@ -893,7 +896,10 @@
 <LM>w#w-mf930708-047-p5s1w17</LM>
 </w.rf>
 <form>hraje</form>
-<tag lemma="hrát" src="auto" selected="1">VB-S---3P-AA---</tag>
+<tag>
+<AM lemma="hrát" src="auto">VB-S---3P-AA---</AM>
+<AM lemma="hrát_:T" src="manual" selected="1">VB-S---3P-AA---</AM>
+</tag>
 </m>
 <m id="m-mf930708-047-p5s1w18">
 <src.rf>manual</src.rf>
@@ -1031,7 +1037,10 @@
 <LM>w#w-mf930708-047-p5s2w14</LM>
 </w.rf>
 <form>Yo</form>
-<tag lemma="Yo_;K" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="Yo_;K" src="orig">AAXXX----1A----</AM>
+<AM lemma="Yo-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-mf930708-047-p5s2w15">
 <src.rf>manual</src.rf>
@@ -1039,7 +1048,10 @@
 <LM>w#w-mf930708-047-p5s2w15</LM>
 </w.rf>
 <form>Yo</form>
-<tag lemma="Yo_;K" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="Yo_;K" src="orig">AAXXX----1A----</AM>
+<AM lemma="Yo-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-mf930708-047-p5s2w16">
 <src.rf>manual</src.rf>
@@ -1047,7 +1059,10 @@
 <LM>w#w-mf930708-047-p5s2w16</LM>
 </w.rf>
 <form>band</form>
-<tag lemma="band" src="orig" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="band" src="orig">NNIS1-----A----</AM>
+<AM lemma="band-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-mf930708-047-p5s2w17">
 <src.rf>manual</src.rf>
@@ -1141,6 +1156,7 @@
 <AM lemma="jam" src="auto" recommended="1">NNIS4-----A----</AM>
 <AM lemma="jamo" src="auto">NNNP2-----A----</AM>
 <AM lemma="jáma" src="auto">NNFP2-----A----</AM>
+<AM lemma="jam-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-mf930708-047-p5s2w28">

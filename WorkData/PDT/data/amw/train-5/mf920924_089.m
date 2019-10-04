@@ -203,7 +203,10 @@
 <LM>w#w-mf920924-089-p2s1w24</LM>
 </w.rf>
 <form>ZX</form>
-<tag lemma="ZX_:B_;R" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="ZX_:B_;R" src="orig">NNXXX-----A---8</AM>
+<AM lemma="ZX-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-mf920924-089-p2s1w25">
 <src.rf>manual</src.rf>
@@ -255,7 +258,7 @@
 <form>Přesto</form>
 <tag>
 <AM lemma="přesto" src="orig">Dg-------1A----</AM>
-<AM lemma="přesto-1" src="auto" recommended="1">Db-------------</AM>
+<AM lemma="přesto-1" src="auto" recommended="1" selected="1">Db-------------</AM>
 <AM lemma="přesto-2" src="auto">J^-------------</AM>
 </tag>
 </m>
@@ -305,7 +308,10 @@
 <LM>w#w-mf920924-089-p2s2w7</LM>
 </w.rf>
 <form>ZX</form>
-<tag lemma="ZX_:B_;R" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="ZX_:B_;R" src="orig">NNXXX-----A---8</AM>
+<AM lemma="ZX-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-mf920924-089-p2s2w8">
 <src.rf>manual</src.rf>

@@ -172,7 +172,7 @@
 <tag>
 <AM lemma="Sarajevo_;G" src="orig">NNNS6-----A----</AM>
 <AM lemma="Sarajevo_;G" src="auto">NNNS3-----A----</AM>
-<AM lemma="Sarajevo_;G" src="auto" recommended="1">NNNS6-----A---1</AM>
+<AM lemma="Sarajevo_;G" src="auto" recommended="1" selected="1">NNNS6-----A---1</AM>
 </tag>
 </m>
 <m id="m-mf920923-122-p2s2w8">
@@ -399,7 +399,10 @@
 <LM>w#w-mf920923-122-p2s3w11</LM>
 </w.rf>
 <form>Stup</form>
-<tag lemma="stoupa_,n" src="orig" selected="1">NNFP2-----A----</tag>
+<tag>
+<AM lemma="stoupa_,n" src="orig">NNFP2-----A----</AM>
+<AM lemma="Stup_;G" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920923-122-p2s3w12">
 <src.rf>manual</src.rf>
@@ -611,7 +614,10 @@
 <LM>w#w-mf920923-122-p2s5w1</LM>
 </w.rf>
 <form>Intenzívní</form>
-<tag lemma="intenzívní" src="orig" selected="1">AAFP1----1A----</tag>
+<tag>
+<AM lemma="intenzívní" src="orig">AAFP1----1A----</AM>
+<AM lemma="intenzívní_,s_^(^DD**intenzivní)" src="manual" selected="1">AAFP1----1A----</AM>
+</tag>
 </m>
 <m id="m-mf920923-122-p2s5w2">
 <src.rf>manual</src.rf>
@@ -703,6 +709,8 @@
 <AM lemma="Bosanski_;G_,t" src="orig">AAXXX----1A----</AM>
 <AM lemma="Bosanský_;S" src="auto" recommended="1">NNMS1-----A---1</AM>
 <AM lemma="Bosanský_;S" src="auto">NNMS5-----A---1</AM>
+<AM lemma="bosanský_,t" src="manual">AAXXX----1A---1</AM>
+<AM lemma="Bosanski-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-mf920923-122-p2s5w13">
@@ -727,7 +735,10 @@
 <LM>w#w-mf920923-122-p2s5w15</LM>
 </w.rf>
 <form>Brčko</form>
-<tag lemma="brčko" src="orig" selected="1">NNNS1-----A----</tag>
+<tag>
+<AM lemma="brčko" src="orig">NNNS1-----A----</AM>
+<AM lemma="Brčko_;G" src="manual" selected="1">NNNS1-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920923-122-p2s5w16">
 <src.rf>manual</src.rf>

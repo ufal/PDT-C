@@ -85,7 +85,10 @@
 <LM>w#w-mf930709-004-p2s1Aw3</LM>
 </w.rf>
 <form>rg</form>
-<tag lemma="rg-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="rg-99_:B_;S" src="orig">NNXXX-----A---8</AM>
+<AM lemma="rg-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930709-004-p2s1Aw4">
 <src.rf>manual</src.rf>
@@ -437,7 +440,7 @@
 <form>totiž</form>
 <tag>
 <AM lemma="totiž" src="orig">Db-------------</AM>
-<AM lemma="totiž-1" src="auto" recommended="1">J^-------------</AM>
+<AM lemma="totiž-1" src="auto" recommended="1" selected="1">J^-------------</AM>
 <AM lemma="totiž-2" src="auto">TT-------------</AM>
 </tag>
 </m>
@@ -1063,7 +1066,10 @@
 <LM>w#w-mf930709-004-p2s9w1</LM>
 </w.rf>
 <form>Řekl</form>
-<tag lemma="říci" src="auto" selected="1">VpYS---XR-AA---</tag>
+<tag>
+<AM lemma="říci" src="auto">VpYS---XR-AA---</AM>
+<AM lemma="říci_:W" src="manual" selected="1">VpYS---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-mf930709-004-p2s9w2">
 <src.rf>manual</src.rf>

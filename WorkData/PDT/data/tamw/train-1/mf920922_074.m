@@ -166,7 +166,7 @@
 </w.rf>
 <form>Terno</form>
 <tag>
-<AM lemma="Terno_;K" src="orig">NNNS1-----A----</AM>
+<AM lemma="Terno_;K" src="orig" selected="1">NNNS1-----A----</AM>
 <AM lemma="terno" src="auto" recommended="1">NNNS1-----A----</AM>
 <AM lemma="terno" src="auto">NNNS4-----A----</AM>
 <AM lemma="terno" src="auto">NNNS5-----A----</AM>
@@ -332,7 +332,10 @@
 <LM>w#w-mf920922-074-p2s2w15</LM>
 </w.rf>
 <form>a</form>
-<tag lemma="akciový_:B_^(jen_akciová_společnost)" src="orig" selected="1">AAXXX----1A---8</tag>
+<tag>
+<AM lemma="akciový_:B_^(jen_akciová_společnost)" src="orig">AAXXX----1A---8</AM>
+<AM lemma="akciový" src="manual" selected="1">AAFXX----1A---8</AM>
+</tag>
 </m>
 <m id="m-mf920922-074-p2s2w16">
 <src.rf>manual</src.rf>
@@ -348,7 +351,10 @@
 <LM>w#w-mf920922-074-p2s2w17</LM>
 </w.rf>
 <form>s</form>
-<tag lemma="společnost_:B" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="společnost_:B" src="orig">NNFXX-----A---8</AM>
+<AM lemma="společnost" src="manual" selected="1">NNFXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-mf920922-074-p2s2w18">
 <src.rf>manual</src.rf>
@@ -719,7 +725,7 @@
 <tag>
 <AM lemma="tady" src="orig">Db------------1</AM>
 <AM lemma="ten" src="auto">PDFS4----------</AM>
-<AM lemma="tu" src="auto" recommended="1">Db-------------</AM>
+<AM lemma="tu" src="auto" recommended="1" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m-mf920922-074-p2s6Aw10">
@@ -728,7 +734,10 @@
 <LM>w#w-mf920922-074-p2s6Aw10</LM>
 </w.rf>
 <form>proto</form>
-<tag lemma="proto-2_^(dal_mu_co_proto,_tak_proto!)" src="orig" selected="1">Db-------------</tag>
+<tag>
+<AM lemma="proto-2_^(dal_mu_co_proto,_tak_proto!)" src="orig">Db-------------</AM>
+<AM lemma="proto-1_^(proto;_a_proto,_ale_proto,...)" src="manual" selected="1">J^-------------</AM>
+</tag>
 </m>
 <m id="m-mf920922-074-p2s6Aw11">
 <src.rf>manual</src.rf>
@@ -941,7 +950,7 @@
 <tag>
 <AM lemma="za-1" src="orig">RR--6----------</AM>
 <AM lemma="za" src="auto">RR--2----------</AM>
-<AM lemma="za" src="auto" recommended="1">RR--4----------</AM>
+<AM lemma="za" src="auto" recommended="1" selected="1">RR--4----------</AM>
 <AM lemma="za" src="auto">RR--7----------</AM>
 </tag>
 </m>
@@ -1055,7 +1064,10 @@
 <LM>w#w-mf920922-074-p2s6Bw16</LM>
 </w.rf>
 <form>Czechoslovak</form>
-<tag lemma="Czechoslovak_;K_,t" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="Czechoslovak_;K_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="Czechoslovak-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-mf920922-074-p2s6Bw17">
 <src.rf>manual</src.rf>
@@ -1063,7 +1075,10 @@
 <LM>w#w-mf920922-074-p2s6Bw17</LM>
 </w.rf>
 <form>Open</form>
-<tag lemma="Open-1_,t_^(v_názvu_např._sport._soutěží,_&quot;otevřený&quot;)" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="Open-1_,t_^(v_názvu_např._sport._soutěží,_&quot;otevřený&quot;)" src="orig">AAXXX----1A----</AM>
+<AM lemma="Open-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-mf920922-074-p2s6Bw18">
 <src.rf>manual</src.rf>
@@ -1105,7 +1120,10 @@
 <LM>w#w-mf920922-074-p2s7w4</LM>
 </w.rf>
 <form>ME</form>
-<tag lemma="ME-1_:B_;w_^(mistrovství_Evropy)" src="orig" selected="1">NNNXX-----A---8</tag>
+<tag>
+<AM lemma="ME-1_:B_;w_^(mistrovství_Evropy)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="ME-1_:B_^(mistrovství_Evropy)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920922-074-p2s7w5">
 <src.rf>manual</src.rf>
@@ -1161,7 +1179,10 @@
 <LM>w#w-mf920922-074-p2s7w11</LM>
 </w.rf>
 <form>MS</form>
-<tag lemma="MS-3_:B_;w_^(mistrovství_světa)" src="orig" selected="1">NNNXX-----A---8</tag>
+<tag>
+<AM lemma="MS-3_:B_;w_^(mistrovství_světa)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="MS-3_:B_^(mistrovství_světa)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920922-074-p2s7w12">
 <src.rf>manual</src.rf>

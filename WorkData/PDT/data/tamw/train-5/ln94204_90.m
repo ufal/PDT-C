@@ -35,7 +35,10 @@
 <LM>w#w-ln94204-90-p1s1w3</LM>
 </w.rf>
 <form>Husajn</form>
-<tag lemma="Husajn_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Husajn_;S" src="orig">NNMS1-----A----</AM>
+<AM lemma="Husajn_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94204-90-p1s1w4">
 <src.rf>manual</src.rf>
@@ -407,7 +410,10 @@
 <LM>w#w-ln94204-90-p1s3Aw8</LM>
 </w.rf>
 <form>SRN</form>
-<tag lemma="SRN_:B_;G" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="SRN_:B_;G" src="orig">NNFXX-----A---8</AM>
+<AM lemma="SRN-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln94204-90-p1s3Aw9">
 <src.rf>manual</src.rf>

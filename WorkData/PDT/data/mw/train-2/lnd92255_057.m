@@ -91,7 +91,7 @@
 <form>Abchazové</form>
 <tag>
 <AM lemma="Abchaz_;E" src="orig">NNMP1-----A---1</AM>
-<AM lemma="Abchaz_;E" src="auto" recommended="1">NNMP1-----A----</AM>
+<AM lemma="Abchaz_;E" src="auto" recommended="1" selected="1">NNMP1-----A----</AM>
 <AM lemma="Abchaz_;E" src="auto">NNMP1-----A---6</AM>
 <AM lemma="Abchaz_;E" src="auto">NNMP5-----A----</AM>
 <AM lemma="Abchaz_;E" src="auto">NNMP5-----A---6</AM>
@@ -127,7 +127,10 @@
 <LM>w#w-lnd92255-057-p3s2w6</LM>
 </w.rf>
 <form>mít</form>
-<tag lemma="mít" src="orig" selected="1">Vf--------A----</tag>
+<tag>
+<AM lemma="mít" src="orig">Vf--------A----</AM>
+<AM lemma="mít_:T" src="manual" selected="1">Vf--------A----</AM>
+</tag>
 </m>
 <m id="m-lnd92255-057-p3s2w7">
 <src.rf>manual</src.rf>
@@ -185,7 +188,10 @@
 <LM>w#w-lnd92255-057-p3s3w5</LM>
 </w.rf>
 <form>nezbytná</form>
-<tag lemma="zbytný" src="orig" selected="1">AAFS1----1N----</tag>
+<tag>
+<AM lemma="zbytný" src="orig">AAFS1----1N----</AM>
+<AM lemma="nezbytný" src="manual" selected="1">AAFS1----1A----</AM>
+</tag>
 </m>
 <m id="m-lnd92255-057-p3s3w6">
 <src.rf>manual</src.rf>
@@ -209,7 +215,10 @@
 <LM>w#w-lnd92255-057-p3s3w8</LM>
 </w.rf>
 <form>uvedl</form>
-<tag lemma="uvést" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag>
+<AM lemma="uvést" src="orig">VpYS---XR-AA---</AM>
+<AM lemma="uvést_:W" src="manual" selected="1">VpYS---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-lnd92255-057-p3s3w9">
 <src.rf>manual</src.rf>
@@ -273,7 +282,10 @@
 <LM>w#w-lnd92255-057-p3s3w16</LM>
 </w.rf>
 <form>Krasnaja</form>
-<tag lemma="Krasnaja_;R_,t" src="orig" selected="1">AAFS1----1A----</tag>
+<tag>
+<AM lemma="Krasnaja_;R_,t" src="orig">AAFS1----1A----</AM>
+<AM lemma="Krasnaja-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-lnd92255-057-p3s3w17">
 <src.rf>manual</src.rf>
@@ -281,7 +293,10 @@
 <LM>w#w-lnd92255-057-p3s3w17</LM>
 </w.rf>
 <form>zvězda</form>
-<tag lemma="zvězda_;R_,t" src="orig" selected="1">NNFS1-----A----</tag>
+<tag>
+<AM lemma="zvězda_;R_,t" src="orig">NNFS1-----A----</AM>
+<AM lemma="zvězda-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-lnd92255-057-p3s3w18">
 <src.rf>manual</src.rf>
@@ -727,7 +742,10 @@
 <LM>w#w-lnd92255-057-p3s6w11</LM>
 </w.rf>
 <form>uvedl</form>
-<tag lemma="uvést" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag>
+<AM lemma="uvést" src="orig">VpYS---XR-AA---</AM>
+<AM lemma="uvést_:W" src="manual" selected="1">VpYS---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-lnd92255-057-p3s6w12">
 <src.rf>manual</src.rf>
@@ -791,7 +809,10 @@
 <LM>w#w-lnd92255-057-p3s6w19</LM>
 </w.rf>
 <form>Komsomolskaja</form>
-<tag lemma="Komsomolskaja_;K_^(šachta)" src="orig" selected="1">NNFXX-----A----</tag>
+<tag>
+<AM lemma="Komsomolskaja_;K_^(šachta)" src="orig">NNFXX-----A----</AM>
+<AM lemma="Komsomolskaja-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-lnd92255-057-p3s6w20">
 <src.rf>manual</src.rf>
@@ -799,7 +820,10 @@
 <LM>w#w-lnd92255-057-p3s6w20</LM>
 </w.rf>
 <form>pravda</form>
-<tag lemma="pravda-1" src="auto" selected="1">NNFS1-----A----</tag>
+<tag>
+<AM lemma="pravda-1" src="auto">NNFS1-----A----</AM>
+<AM lemma="pravda-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-lnd92255-057-p3s6w21">
 <src.rf>manual</src.rf>
@@ -831,7 +855,10 @@
 <LM>w#w-lnd92255-057-p3s6w24</LM>
 </w.rf>
 <form>Zviad</form>
-<tag lemma="Zviad_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Zviad_;S" src="orig">NNMS1-----A----</AM>
+<AM lemma="Zviad_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92255-057-p3s6w25">
 <src.rf>manual</src.rf>

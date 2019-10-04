@@ -27,7 +27,10 @@
 <LM>w#w-cmpr9407-018-p2s1w2</LM>
 </w.rf>
 <form>jawy</form>
-<tag lemma="Jawa_;K_;R" src="auto" selected="1">NNFP1-----A----</tag>
+<tag>
+<AM lemma="Jawa_;K_;R" src="auto">NNFP1-----A----</AM>
+<AM lemma="jawa_;R" src="manual" selected="1">NNFP1-----A----</AM>
+</tag>
 </m>
 <m id="m-cmpr9407-018-p2s1w3">
 <src.rf>manual</src.rf>
@@ -169,7 +172,7 @@
 <form>Jawy</form>
 <tag>
 <AM lemma="Jawa-1_;K" src="orig">NNFP1-----A----</AM>
-<AM lemma="Jawa_;K_;R" src="auto" recommended="1">NNFP1-----A----</AM>
+<AM lemma="Jawa_;K_;R" src="auto" recommended="1" selected="1">NNFP1-----A----</AM>
 <AM lemma="Jawa_;K_;R" src="auto">NNFP4-----A----</AM>
 <AM lemma="Jawa_;K_;R" src="auto">NNFP5-----A----</AM>
 <AM lemma="Jawa_;K_;R" src="auto">NNFS2-----A----</AM>
@@ -589,7 +592,7 @@
 <form>Jawa</form>
 <tag>
 <AM lemma="Jawa-1_;K" src="orig">NNFS1-----A----</AM>
-<AM lemma="Jawa_;K_;R" src="auto" recommended="1">NNFS1-----A----</AM>
+<AM lemma="Jawa_;K_;R" src="auto" recommended="1" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9407-018-p5s1w2">
@@ -1161,7 +1164,10 @@
 <LM>w#w-cmpr9407-018-p5s5w1</LM>
 </w.rf>
 <form>Více</form>
-<tag lemma="hodně-2" src="auto" selected="1">Dg-------2A----</tag>
+<tag>
+<AM lemma="hodně-2" src="auto">Dg-------2A----</AM>
+<AM lemma="hodně-3" src="manual" selected="1">Dg-------2A----</AM>
+</tag>
 </m>
 <m id="m-cmpr9407-018-p5s5w2">
 <src.rf>manual</src.rf>
@@ -1950,7 +1956,10 @@
 <LM>w#w-cmpr9407-018-p8s2w17</LM>
 </w.rf>
 <form>milionů</form>
-<tag lemma="milión`1000000" src="orig" selected="1">NNIP2-----A----</tag>
+<tag>
+<AM lemma="milión`1000000" src="orig">NNIP2-----A----</AM>
+<AM lemma="milion`1000000_,s_^(^DD**milión)" src="manual" selected="1">NNIP2-----A----</AM>
+</tag>
 </m>
 <m id="m-cmpr9407-018-p8s2w18">
 <src.rf>manual</src.rf>
@@ -2008,7 +2017,10 @@
 <LM>w#w-cmpr9407-018-p8s3w5</LM>
 </w.rf>
 <form>milionů</form>
-<tag lemma="milión`1000000" src="orig" selected="1">NNIP2-----A----</tag>
+<tag>
+<AM lemma="milión`1000000" src="orig">NNIP2-----A----</AM>
+<AM lemma="milion`1000000_,s_^(^DD**milión)" src="manual" selected="1">NNIP2-----A----</AM>
+</tag>
 </m>
 <m id="m-cmpr9407-018-p8s3w6">
 <src.rf>manual</src.rf>
@@ -2123,7 +2135,10 @@
 <LM>w#w-cmpr9407-018-p8s4w12</LM>
 </w.rf>
 <form>milionů</form>
-<tag lemma="milión`1000000" src="orig" selected="1">NNIP2-----A----</tag>
+<tag>
+<AM lemma="milión`1000000" src="orig">NNIP2-----A----</AM>
+<AM lemma="milion`1000000_,s_^(^DD**milión)" src="manual" selected="1">NNIP2-----A----</AM>
+</tag>
 </m>
 <m id="m-cmpr9407-018-p8s4w13">
 <src.rf>manual</src.rf>
@@ -2308,7 +2323,7 @@
 <AM lemma="Jawa_;K_;R" src="auto">NNFP1-----A----</AM>
 <AM lemma="Jawa_;K_;R" src="auto">NNFP4-----A----</AM>
 <AM lemma="Jawa_;K_;R" src="auto">NNFP5-----A----</AM>
-<AM lemma="Jawa_;K_;R" src="auto" recommended="1">NNFS2-----A----</AM>
+<AM lemma="Jawa_;K_;R" src="auto" recommended="1" selected="1">NNFS2-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9407-018-p8s6Aw5">
@@ -2433,7 +2448,10 @@
 <LM>w#w-cmpr9407-018-p8s7w3</LM>
 </w.rf>
 <form>li</form>
-<tag lemma="li-1" src="auto" selected="1">TT-------------</tag>
+<tag>
+<AM lemma="li-1" src="auto">TT-------------</AM>
+<AM lemma="li-2" src="manual" selected="1">J,-------------</AM>
+</tag>
 </m>
 <m id="m-cmpr9407-018-p8s7w4">
 <src.rf>manual</src.rf>
@@ -3057,7 +3075,7 @@
 <form>USA</form>
 <tag>
 <AM lemma="USA_;G" src="orig">NNIPX-----A----</AM>
-<AM lemma="USA_:B_;K_,t_^(United_States_of_America)" src="auto" recommended="1">NNIPX-----A---8</AM>
+<AM lemma="USA_:B_;K_,t_^(United_States_of_America)" src="auto" recommended="1" selected="1">NNIPX-----A---8</AM>
 </tag>
 </m>
 <m id="m-cmpr9407-018-p9s1w14">
@@ -3435,7 +3453,10 @@
 <LM>w#w-cmpr9407-018-p11s1w1</LM>
 </w.rf>
 <form>Více</form>
-<tag lemma="hodně-2" src="auto" selected="1">Dg-------2A----</tag>
+<tag>
+<AM lemma="hodně-2" src="auto">Dg-------2A----</AM>
+<AM lemma="hodně-3" src="manual" selected="1">Dg-------2A----</AM>
+</tag>
 </m>
 <m id="m-cmpr9407-018-p11s1w2">
 <src.rf>manual</src.rf>
@@ -3843,7 +3864,10 @@
 <LM>w#w-cmpr9407-018-p11s4w25</LM>
 </w.rf>
 <form>milionů</form>
-<tag lemma="milión`1000000" src="orig" selected="1">NNIP2-----A----</tag>
+<tag>
+<AM lemma="milión`1000000" src="orig">NNIP2-----A----</AM>
+<AM lemma="milion`1000000_,s_^(^DD**milión)" src="manual" selected="1">NNIP2-----A----</AM>
+</tag>
 </m>
 <m id="m-cmpr9407-018-p11s4w26">
 <src.rf>manual</src.rf>
@@ -3984,7 +4008,7 @@
 <form>Jawu</form>
 <tag>
 <AM lemma="Jawa-1_;K" src="orig">NNFS4-----A----</AM>
-<AM lemma="Jawa_;K_;R" src="auto" recommended="1">NNFS4-----A----</AM>
+<AM lemma="Jawa_;K_;R" src="auto" recommended="1" selected="1">NNFS4-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9407-018-p11s5w14">
@@ -4001,7 +4025,10 @@
 <LM>w#w-cmpr9407-018-p11s5w15</LM>
 </w.rf>
 <form>R</form>
-<tag lemma="R-0_:B_;Y" src="orig" selected="1">NNMXX-----A---8</tag>
+<tag>
+<AM lemma="R-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
+<AM lemma="R-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-cmpr9407-018-p11s5w16">
 <src.rf>manual</src.rf>
@@ -4893,7 +4920,7 @@
 <tag>
 <AM lemma="Jawa-1_;K" src="orig">NNFS6-----A----</AM>
 <AM lemma="Jawa_;K_;R" src="auto">NNFS3-----A----</AM>
-<AM lemma="Jawa_;K_;R" src="auto" recommended="1">NNFS6-----A----</AM>
+<AM lemma="Jawa_;K_;R" src="auto" recommended="1" selected="1">NNFS6-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9407-018-p14s1w11">
@@ -5394,7 +5421,10 @@
 <LM>w#w-cmpr9407-018-p15s2w8</LM>
 </w.rf>
 <form>milionů</form>
-<tag lemma="milión`1000000" src="orig" selected="1">NNIP2-----A----</tag>
+<tag>
+<AM lemma="milión`1000000" src="orig">NNIP2-----A----</AM>
+<AM lemma="milion`1000000_,s_^(^DD**milión)" src="manual" selected="1">NNIP2-----A----</AM>
+</tag>
 </m>
 <m id="m-cmpr9407-018-p15s2w9">
 <src.rf>manual</src.rf>
@@ -5616,7 +5646,7 @@
 <form>začít</form>
 <tag>
 <AM lemma="začít-1" src="orig">Vf--------A----</AM>
-<AM lemma="začít-1_^(začnout)" src="auto" recommended="1">Vf--------A----</AM>
+<AM lemma="začít-1_^(začnout)" src="auto" recommended="1" selected="1">Vf--------A----</AM>
 <AM lemma="začít-2_^(pocítit)" src="auto">Vf--------A----</AM>
 </tag>
 </m>
@@ -6302,7 +6332,7 @@
 <form>Jawa</form>
 <tag>
 <AM lemma="Jawa-1_;K" src="orig">NNFS1-----A----</AM>
-<AM lemma="Jawa_;K_;R" src="auto" recommended="1">NNFS1-----A----</AM>
+<AM lemma="Jawa_;K_;R" src="auto" recommended="1" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9407-018-p18s1w12">
@@ -6573,7 +6603,7 @@
 <form>Jawu</form>
 <tag>
 <AM lemma="Jawa-1_;K" src="orig">NNFS4-----A----</AM>
-<AM lemma="Jawa_;K_;R" src="auto" recommended="1">NNFS4-----A----</AM>
+<AM lemma="Jawa_;K_;R" src="auto" recommended="1" selected="1">NNFS4-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9407-018-p20s1w20">
@@ -6640,7 +6670,7 @@
 <form>Jawou</form>
 <tag>
 <AM lemma="Jawa-1_;K" src="orig">NNFS7-----A----</AM>
-<AM lemma="Jawa_;K_;R" src="auto" recommended="1">NNFS7-----A----</AM>
+<AM lemma="Jawa_;K_;R" src="auto" recommended="1" selected="1">NNFS7-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9407-018-p20s1w28">
@@ -6676,6 +6706,7 @@
 <tag>
 <AM lemma="ČZ-1_:B_;K" src="orig">NNFXX-----A---8</AM>
 <AM lemma="ČZ_:B_;K_;R_^(vozidlo)" src="auto" recommended="1">NNFXX-----A----</AM>
+<AM lemma="ČZ-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-cmpr9407-018-p20s1w32">
@@ -6758,7 +6789,10 @@
 <LM>w#w-cmpr9407-018-p20s2w8</LM>
 </w.rf>
 <form>Cagiva</form>
-<tag lemma="Cagiva_;R" src="auto" selected="1">NNFS1-----A----</tag>
+<tag>
+<AM lemma="Cagiva_;R" src="auto">NNFS1-----A----</AM>
+<AM lemma="Cagiva_;K_;R" src="manual" selected="1">NNFS1-----A----</AM>
+</tag>
 </m>
 <m id="m-cmpr9407-018-p20s2w9">
 <src.rf>manual</src.rf>
@@ -6883,7 +6917,7 @@
 <form>Jawa</form>
 <tag>
 <AM lemma="Jawa-1_;K" src="orig">NNFS1-----A----</AM>
-<AM lemma="Jawa_;K_;R" src="auto" recommended="1">NNFS1-----A----</AM>
+<AM lemma="Jawa_;K_;R" src="auto" recommended="1" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9407-018-p20s3w9">
@@ -6953,7 +6987,7 @@
 <AM lemma="Jawa_;K_;R" src="auto">NNFP1-----A----</AM>
 <AM lemma="Jawa_;K_;R" src="auto">NNFP4-----A----</AM>
 <AM lemma="Jawa_;K_;R" src="auto">NNFP5-----A----</AM>
-<AM lemma="Jawa_;K_;R" src="auto" recommended="1">NNFS2-----A----</AM>
+<AM lemma="Jawa_;K_;R" src="auto" recommended="1" selected="1">NNFS2-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9407-018-p20s3w17">
@@ -7253,7 +7287,7 @@
 <tag>
 <AM lemma="přece" src="orig">Db-------------</AM>
 <AM lemma="přece-1" src="auto" recommended="1">J^-------------</AM>
-<AM lemma="přece-2" src="auto">TT-------------</AM>
+<AM lemma="přece-2" src="auto" selected="1">TT-------------</AM>
 </tag>
 </m>
 <m id="m-cmpr9407-018-p22s1w6">
@@ -7576,7 +7610,7 @@
 <AM lemma="dvoutaktní" src="auto">AAFP3----1A----</AM>
 <AM lemma="dvoutaktní" src="auto">AAIP3----1A----</AM>
 <AM lemma="dvoutaktní" src="auto">AAIS6----1A----</AM>
-<AM lemma="dvoutaktní" src="auto" recommended="1">AAIS7----1A----</AM>
+<AM lemma="dvoutaktní" src="auto" recommended="1" selected="1">AAIS7----1A----</AM>
 <AM lemma="dvoutaktní" src="auto">AAMP3----1A----</AM>
 <AM lemma="dvoutaktní" src="auto">AAMS6----1A----</AM>
 <AM lemma="dvoutaktní" src="auto">AAMS7----1A----</AM>
@@ -7928,7 +7962,7 @@
 <form>Jawa</form>
 <tag>
 <AM lemma="Jawa-2_;K_;R_^(vozidlo)" src="orig">NNFS1-----A----</AM>
-<AM lemma="Jawa_;K_;R" src="auto" recommended="1">NNFS1-----A----</AM>
+<AM lemma="Jawa_;K_;R" src="auto" recommended="1" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9407-018-p23s2w10">
@@ -8439,7 +8473,10 @@
 <LM>w#w-cmpr9407-018-p26s2w5</LM>
 </w.rf>
 <form>Bohemia</form>
-<tag lemma="Bohemia_;K" src="orig" selected="1">NNFXX-----A----</tag>
+<tag>
+<AM lemma="Bohemia_;K" src="orig">NNFXX-----A----</AM>
+<AM lemma="Bohemia-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-cmpr9407-018-p26s2w6">
 <src.rf>manual</src.rf>
@@ -8447,7 +8484,10 @@
 <LM>w#w-cmpr9407-018-p26s2w6</LM>
 </w.rf>
 <form>Art</form>
-<tag lemma="Art-1_;Y" src="orig" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Art-1_;Y" src="orig">NNMS1-----A----</AM>
+<AM lemma="Art-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-cmpr9407-018-p26s2w7">
 <src.rf>manual</src.rf>
@@ -8513,7 +8553,7 @@
 <form>Jawu</form>
 <tag>
 <AM lemma="Jawa-1_;K" src="orig">NNFS4-----A----</AM>
-<AM lemma="Jawa_;K_;R" src="auto" recommended="1">NNFS4-----A----</AM>
+<AM lemma="Jawa_;K_;R" src="auto" recommended="1" selected="1">NNFS4-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9407-018-p26s2w15">
@@ -8884,7 +8924,7 @@
 <form>Jawu</form>
 <tag>
 <AM lemma="Jawa-1_;K" src="orig">NNFS4-----A----</AM>
-<AM lemma="Jawa_;K_;R" src="auto" recommended="1">NNFS4-----A----</AM>
+<AM lemma="Jawa_;K_;R" src="auto" recommended="1" selected="1">NNFS4-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9407-018-p28s3w5">
@@ -9137,7 +9177,7 @@
 <form>Jawu</form>
 <tag>
 <AM lemma="Jawa-1_;K" src="orig">NNFS4-----A----</AM>
-<AM lemma="Jawa_;K_;R" src="auto" recommended="1">NNFS4-----A----</AM>
+<AM lemma="Jawa_;K_;R" src="auto" recommended="1" selected="1">NNFS4-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9407-018-p28s4w13">
@@ -9728,7 +9768,7 @@
 <form>přesto</form>
 <tag>
 <AM lemma="přesto" src="orig">Dg-------1A----</AM>
-<AM lemma="přesto-1" src="auto">Db-------------</AM>
+<AM lemma="přesto-1" src="auto" selected="1">Db-------------</AM>
 <AM lemma="přesto-2" src="auto" recommended="1">J^-------------</AM>
 </tag>
 </m>

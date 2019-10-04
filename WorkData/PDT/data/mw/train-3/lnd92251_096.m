@@ -89,7 +89,7 @@
 <form>TOKIO</form>
 <tag>
 <AM lemma="Tokyo_;G" src="orig">NNNS1-----A----</AM>
-<AM lemma="Tokio_;G" src="auto" recommended="1">NNNS1-----A----</AM>
+<AM lemma="Tokio_;G" src="auto" recommended="1" selected="1">NNNS1-----A----</AM>
 <AM lemma="Tokio_;G" src="auto">NNNS4-----A----</AM>
 <AM lemma="Tokio_;G" src="auto">NNNS5-----A----</AM>
 </tag>
@@ -134,7 +134,10 @@
 <LM>w#w-lnd92251-096-p3s2w4</LM>
 </w.rf>
 <form>Šang</form>
-<tag lemma="Šang_;S" src="auto" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Šang_;S" src="auto">NNMS1-----A----</AM>
+<AM lemma="Šang_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92251-096-p3s2w5">
 <src.rf>manual</src.rf>
@@ -418,7 +421,7 @@
 <form>vůbec</form>
 <tag>
 <AM lemma="vůbec" src="orig">Db-------------</AM>
-<AM lemma="vůbec" src="auto" recommended="1">TT-------------</AM>
+<AM lemma="vůbec" src="auto" recommended="1" selected="1">TT-------------</AM>
 </tag>
 </m>
 <m id="m-lnd92251-096-p4s1w5">
@@ -459,7 +462,10 @@
 <LM>w#w-lnd92251-096-p4s1w9</LM>
 </w.rf>
 <form>ČLR</form>
-<tag lemma="ČLR_:B_;G" src="auto" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="ČLR_:B_;G" src="auto">NNXXX-----A---8</AM>
+<AM lemma="ČLR-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd92251-096-p4s1w10">
 <src.rf>manual</src.rf>

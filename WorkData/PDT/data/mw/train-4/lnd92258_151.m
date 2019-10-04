@@ -54,7 +54,7 @@
 <tag>
 <AM lemma="Velo_;m_^(velocipéd)" src="orig">NNNXX-----A----</AM>
 <AM lemma="Vela_;G" src="auto">NNFS5-----A----</AM>
-<AM lemma="Velo-1_;K" src="auto" recommended="1">NNNS1-----A----</AM>
+<AM lemma="Velo-1_;K" src="auto" recommended="1" selected="1">NNNS1-----A----</AM>
 <AM lemma="Velo-1_;K" src="auto">NNNS4-----A----</AM>
 <AM lemma="Velo-1_;K" src="auto">NNNS5-----A----</AM>
 <AM lemma="Velo-2_;S" src="auto">NNMS1-----A----</AM>
@@ -128,6 +128,7 @@
 <AM lemma="GTS-3_:B_;R" src="orig">NNNXX-----A---8</AM>
 <AM lemma="GTS-1_:B_;R_,t_^(Global_Telecommunication_System)" src="auto">NNIXX-----A---8</AM>
 <AM lemma="GTS-2_:B_;K_,t_^(Guide_Travel_Service)" src="auto" recommended="1">NNIXX-----A---8</AM>
+<AM lemma="GTS-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-lnd92258-151-p1s1w14">
@@ -144,7 +145,10 @@
 <LM>w#w-lnd92258-151-p1s1w15</LM>
 </w.rf>
 <form>A</form>
-<tag lemma="a-3_^(označení_pomocí_písmene)" src="orig" selected="1">NNNXX-----A----</tag>
+<tag>
+<AM lemma="a-3_^(označení_pomocí_písmene)" src="orig">NNNXX-----A----</AM>
+<AM lemma="A-33_^(označení_pomocí_písmene)" src="manual" selected="1">NNNXX-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92258-151-p1s1w16">
 <src.rf>manual</src.rf>
@@ -437,7 +441,10 @@
 <LM>w#w-lnd92258-151-p2s1w5</LM>
 </w.rf>
 <form>LN</form>
-<tag lemma="LN-1_:B_;R_^(Lidové_noviny,_deník)" src="orig" selected="1">NNFPX-----A---8</tag>
+<tag>
+<AM lemma="LN-1_:B_;R_^(Lidové_noviny,_deník)" src="orig">NNFPX-----A---8</AM>
+<AM lemma="LN-1_:B_;K_;R_^(Lidové_noviny)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 </s>
 </mdata>

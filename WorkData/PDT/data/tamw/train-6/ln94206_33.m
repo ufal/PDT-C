@@ -147,7 +147,10 @@
 <LM>w#w-ln94206-33-p1s1w17</LM>
 </w.rf>
 <form>Perla</form>
-<tag lemma="Perla_;K_;Y" src="auto" selected="1">NNFS1-----A----</tag>
+<tag>
+<AM lemma="Perla_;K_;Y" src="auto">NNFS1-----A----</AM>
+<AM lemma="perla" src="manual" selected="1">NNFS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94206-33-p1s1w18">
 <src.rf>manual</src.rf>
@@ -367,7 +370,10 @@
 <LM>w#w-ln94206-33-p1s3w5</LM>
 </w.rf>
 <form>LN</form>
-<tag lemma="LN-1_:B_;R_^(Lidové_noviny,_deník)" src="orig" selected="1">NNFPX-----A---8</tag>
+<tag>
+<AM lemma="LN-1_:B_;R_^(Lidové_noviny,_deník)" src="orig">NNFPX-----A---8</AM>
+<AM lemma="LN-1_:B_;K_;R_^(Lidové_noviny,_deník)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 </s>
 </mdata>

@@ -549,7 +549,10 @@
 <LM>w#w-cmpr9413-002-p4s3w11</LM>
 </w.rf>
 <form>nejvíce</form>
-<tag lemma="hodně-2" src="auto" selected="1">Dg-------3A----</tag>
+<tag>
+<AM lemma="hodně-2" src="auto">Dg-------3A----</AM>
+<AM lemma="hodně-3" src="manual" selected="1">Dg-------3A----</AM>
+</tag>
 </m>
 <m id="m-cmpr9413-002-p4s3w12">
 <src.rf>manual</src.rf>
@@ -1323,7 +1326,10 @@
 <LM>w#w-cmpr9413-002-p7s1w4</LM>
 </w.rf>
 <form>ETS</form>
-<tag lemma="ETS-1_:B_;K_,t_^(Educational_Testing_Service)" src="auto" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="ETS-1_:B_;K_,t_^(Educational_Testing_Service)" src="auto">NNIXX-----A---8</AM>
+<AM lemma="ETS-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-cmpr9413-002-p7s1w5">
 <src.rf>manual</src.rf>
@@ -1901,7 +1907,11 @@
 <LM>w#w-cmpr9413-002-p8s4w25</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-2" src="auto" selected="1">Dg-------2A----</tag>
+<tag>
+<AM lemma="hodně-2" src="auto">Dg-------2A----</AM>
+<AM lemma="	více_^(více_+_2._p.,_více_peněz)" src="manual">Ca--1----------</AM>
+<AM lemma="více_^(více_+_2._p.,_více_peněz)" src="manual" selected="1">Ca--1----------</AM>
+</tag>
 </m>
 <m id="m-cmpr9413-002-p8s4w26">
 <src.rf>manual</src.rf>
@@ -2312,7 +2322,10 @@
 <LM>w#w-cmpr9413-002-p10s3w9</LM>
 </w.rf>
 <form>nejvíce</form>
-<tag lemma="hodně-2" src="auto" selected="1">Dg-------3A----</tag>
+<tag>
+<AM lemma="hodně-2" src="auto">Dg-------3A----</AM>
+<AM lemma="hodně-3" src="manual" selected="1">Dg-------3A----</AM>
+</tag>
 </m>
 <m id="m-cmpr9413-002-p10s3w10">
 <src.rf>manual</src.rf>
@@ -2428,7 +2441,10 @@
 <LM>w#w-cmpr9413-002-p12s1w4</LM>
 </w.rf>
 <form>nejvíce</form>
-<tag lemma="hodně-2" src="auto" selected="1">Dg-------3A----</tag>
+<tag>
+<AM lemma="hodně-2" src="auto">Dg-------3A----</AM>
+<AM lemma="hodně-3" src="manual" selected="1">Dg-------3A----</AM>
+</tag>
 </m>
 <m id="m-cmpr9413-002-p12s1w5">
 <src.rf>manual</src.rf>

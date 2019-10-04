@@ -701,7 +701,10 @@
 <LM>w#w-ln94200-37-p3s1w5</LM>
 </w.rf>
 <form>A</form>
-<tag lemma="A-0_:B_;Y" src="orig" selected="1">NNMXX-----A---8</tag>
+<tag>
+<AM lemma="A-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
+<AM lemma="A-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln94200-37-p3s1w6">
 <src.rf>manual</src.rf>
@@ -779,6 +782,7 @@
 <AM lemma="Apple_;K" src="auto">NNIS4-----A----</AM>
 <AM lemma="Apple_;K" src="auto">NNIS5-----A----</AM>
 <AM lemma="Apple_;K" src="auto">NNISX-----A----</AM>
+<AM lemma="Apple_;K" src="manual" selected="1">NNIXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94200-37-p3s1w15">
@@ -803,7 +807,10 @@
 <LM>w#w-ln94200-37-p3s1w17</LM>
 </w.rf>
 <form>Management</form>
-<tag lemma="management_,t_^(vedení,_manažment;_angl.)" src="orig" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="management_,t_^(vedení,_manažment;_angl.)" src="orig">NNIS1-----A----</AM>
+<AM lemma="Management-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94200-37-p3s1w18">
 <src.rf>manual</src.rf>
@@ -811,7 +818,10 @@
 <LM>w#w-ln94200-37-p3s1w18</LM>
 </w.rf>
 <form>Press</form>
-<tag lemma="Press-1_;K_,t_^(souč._názvů,_např._tisk._agentur)" src="orig" selected="1">NNIXX-----A----</tag>
+<tag>
+<AM lemma="Press-1_;K_,t_^(souč._názvů,_např._tisk._agentur)" src="orig">NNIXX-----A----</AM>
+<AM lemma="Press-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94200-37-p3s1w19">
 <src.rf>manual</src.rf>
@@ -1437,6 +1447,8 @@
 <AM lemma="cok_^(cokna)" src="auto">NNIP4-----A----</AM>
 <AM lemma="cok_^(cokna)" src="auto">NNIP5-----A----</AM>
 <AM lemma="cok_^(cokna)" src="auto">NNIP7-----A----</AM>
+<AM lemma="Coka-2_;R" src="manual">NNFS2-----A----</AM>
+<AM lemma="Coka_;R" src="manual" selected="1">NNFS2-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94200-37-p3s3w40">
@@ -1517,6 +1529,8 @@
 <AM lemma="Apple_;K" src="auto">NNIS4-----A----</AM>
 <AM lemma="Apple_;K" src="auto">NNIS5-----A----</AM>
 <AM lemma="Apple_;K" src="auto">NNISX-----A----</AM>
+<AM lemma="Apple_;K" src="manual">NNIXX-----A----</AM>
+<AM lemma="Apple_;K" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94200-37-p3s4w9">
@@ -1549,7 +1563,10 @@
 <LM>w#w-ln94200-37-p3s4w12</LM>
 </w.rf>
 <form>Silicon</form>
-<tag lemma="Silicon_;G_,t_^(Silicon_Valley)" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="Silicon_;G_,t_^(Silicon_Valley)" src="orig">AAXXX----1A----</AM>
+<AM lemma="Silicon-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94200-37-p3s4w13">
 <src.rf>manual</src.rf>
@@ -1557,7 +1574,10 @@
 <LM>w#w-ln94200-37-p3s4w13</LM>
 </w.rf>
 <form>Valley</form>
-<tag lemma="Valley_;G_,t_^(např.Silicon_Valley)" src="auto" selected="1">NNNXX-----A----</tag>
+<tag>
+<AM lemma="Valley_;G_,t_^(např.Silicon_Valley)" src="auto">NNNXX-----A----</AM>
+<AM lemma="Valley-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94200-37-p3s4w14">
 <src.rf>manual</src.rf>
@@ -1594,7 +1614,7 @@
 <AM lemma="Apple_;K" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Apple_;K" src="auto">NNIS4-----A----</AM>
 <AM lemma="Apple_;K" src="auto">NNIS5-----A----</AM>
-<AM lemma="Apple_;K" src="auto">NNISX-----A----</AM>
+<AM lemma="Apple_;K" src="auto" selected="1">NNISX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94200-37-p3s4w18">
@@ -2047,6 +2067,7 @@
 <AM lemma="Apple_;K" src="auto">NNIS4-----A----</AM>
 <AM lemma="Apple_;K" src="auto">NNIS5-----A----</AM>
 <AM lemma="Apple_;K" src="auto">NNISX-----A----</AM>
+<AM lemma="Apple_;K" src="manual" selected="1">NNIXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94200-37-p3s7w4">
@@ -2249,7 +2270,7 @@
 <form>Apple</form>
 <tag>
 <AM lemma="Apple_;K_,t" src="orig">NNIXX-----A----</AM>
-<AM lemma="Apple_;K" src="auto" recommended="1">NNIS1-----A----</AM>
+<AM lemma="Apple_;K" src="auto" recommended="1" selected="1">NNIS1-----A----</AM>
 <AM lemma="Apple_;K" src="auto">NNIS4-----A----</AM>
 <AM lemma="Apple_;K" src="auto">NNIS5-----A----</AM>
 <AM lemma="Apple_;K" src="auto">NNISX-----A----</AM>

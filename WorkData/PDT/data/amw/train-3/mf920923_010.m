@@ -459,7 +459,10 @@
 <LM>w#w-mf920923-010-p2s3w7</LM>
 </w.rf>
 <form>Škodovku</form>
-<tag lemma="škodovka" src="orig" selected="1">NNFS4-----A----</tag>
+<tag>
+<AM lemma="škodovka" src="orig">NNFS4-----A----</AM>
+<AM lemma="Škodovka_;K" src="manual" selected="1">NNFS4-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920923-010-p2s3w8">
 <src.rf>manual</src.rf>
@@ -661,7 +664,7 @@
 <form>totiž</form>
 <tag>
 <AM lemma="totiž" src="orig">Db-------------</AM>
-<AM lemma="totiž-1" src="auto" recommended="1">J^-------------</AM>
+<AM lemma="totiž-1" src="auto" recommended="1" selected="1">J^-------------</AM>
 <AM lemma="totiž-2" src="auto">TT-------------</AM>
 </tag>
 </m>
@@ -943,7 +946,7 @@
 <form>Přesto</form>
 <tag>
 <AM lemma="přesto" src="orig">Dg-------1A----</AM>
-<AM lemma="přesto-1" src="auto" recommended="1">Db-------------</AM>
+<AM lemma="přesto-1" src="auto" recommended="1" selected="1">Db-------------</AM>
 <AM lemma="přesto-2" src="auto">J^-------------</AM>
 </tag>
 </m>
@@ -1203,7 +1206,10 @@
 <LM>w#w-mf920923-010-p2s7w8</LM>
 </w.rf>
 <form>Škodovce</form>
-<tag lemma="škodovka" src="orig" selected="1">NNFS6-----A----</tag>
+<tag>
+<AM lemma="škodovka" src="orig">NNFS6-----A----</AM>
+<AM lemma="Škodovka_;K" src="manual" selected="1">NNFS6-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920923-010-p2s7w9">
 <src.rf>manual</src.rf>
@@ -1617,7 +1623,10 @@
 <LM>w#w-mf920923-010-p4s1w31</LM>
 </w.rf>
 <form>uvedl</form>
-<tag lemma="uvést" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag>
+<AM lemma="uvést" src="orig">VpYS---XR-AA---</AM>
+<AM lemma="uvést_:W" src="manual" selected="1">VpYS---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-mf920923-010-p4s1w32">
 <src.rf>manual</src.rf>
@@ -1732,7 +1741,7 @@
 <AM lemma="Novotný_;S" src="auto">NNMP1-----A---6</AM>
 <AM lemma="Novotný_;S" src="auto">NNMP4-----A---6</AM>
 <AM lemma="Novotný_;S" src="auto">NNMP5-----A---6</AM>
-<AM lemma="Novotný_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Novotný_;S" src="auto" recommended="1" selected="1">NNMS1-----A----</AM>
 <AM lemma="Novotný_;S" src="auto">NNMS5-----A----</AM>
 <AM lemma="novotný_,a" src="auto">AAFP1----1A---6</AM>
 <AM lemma="novotný_,a" src="auto">AAFP4----1A---6</AM>
@@ -2042,7 +2051,10 @@
 <LM>w#w-mf920923-010-p4s3w8</LM>
 </w.rf>
 <form>zejména</form>
-<tag lemma="zejména-1" src="auto" selected="1">Db-------------</tag>
+<tag>
+<AM lemma="zejména-1" src="auto">Db-------------</AM>
+<AM lemma="zejména-2" src="manual" selected="1">TT-------------</AM>
+</tag>
 </m>
 <m id="m-mf920923-010-p4s3w9">
 <src.rf>manual</src.rf>
@@ -2110,7 +2122,7 @@
 <form>nalezeno</form>
 <tag>
 <AM lemma="naleznout" src="orig">VsNS---XX-AP---</AM>
-<AM lemma="nalézt-2" src="auto" recommended="1">VsNS---XX-AP---</AM>
+<AM lemma="nalézt-2" src="auto" recommended="1" selected="1">VsNS---XX-AP---</AM>
 </tag>
 </m>
 <m id="m-mf920923-010-p4s4w4">
@@ -2481,7 +2493,10 @@
 <LM>w#w-mf920923-010-p5s1w3</LM>
 </w.rf>
 <form>lh</form>
-<tag lemma="lh-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="lh-99_:B_;S" src="orig">NNXXX-----A---8</AM>
+<AM lemma="lh-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920923-010-p5s1w4">
 <src.rf>manual</src.rf>
@@ -2579,7 +2594,10 @@
 <LM>w#w-mf920923-010-p6s1w11</LM>
 </w.rf>
 <form>Škodovky</form>
-<tag lemma="škodovka" src="orig" selected="1">NNFS2-----A----</tag>
+<tag>
+<AM lemma="škodovka" src="orig">NNFS2-----A----</AM>
+<AM lemma="Škodovka_;K" src="manual" selected="1">NNFS2-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920923-010-p6s1w12">
 <src.rf>manual</src.rf>
@@ -2613,7 +2631,10 @@
 <LM>w#w-mf920923-010-p6s2w1</LM>
 </w.rf>
 <form>Uvedl</form>
-<tag lemma="uvést" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag>
+<AM lemma="uvést" src="orig">VpYS---XR-AA---</AM>
+<AM lemma="uvést_:W" src="manual" selected="1">VpYS---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-mf920923-010-p6s2w2">
 <src.rf>manual</src.rf>
@@ -2735,7 +2756,10 @@
 <LM>w#w-mf920923-010-p6s3w7</LM>
 </w.rf>
 <form>Škodovky</form>
-<tag lemma="škodovka" src="orig" selected="1">NNFS2-----A----</tag>
+<tag>
+<AM lemma="škodovka" src="orig">NNFS2-----A----</AM>
+<AM lemma="Škodovka_;K" src="manual" selected="1">NNFS2-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920923-010-p6s3w8">
 <src.rf>manual</src.rf>
@@ -2783,7 +2807,10 @@
 <LM>w#w-mf920923-010-p6s3w13</LM>
 </w.rf>
 <form>FNM</form>
-<tag lemma="FNM-1_:B_;K_;p_^(Fond_národního_majetku)" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="FNM-1_:B_;K_;p_^(Fond_národního_majetku)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="FNM-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920923-010-p6s3w14">
 <src.rf>manual</src.rf>
@@ -2905,7 +2932,10 @@
 <LM>w#w-mf920923-010-p6s4Aw4</LM>
 </w.rf>
 <form>vydání</form>
-<tag lemma="vydání-1_^(emitovat:_cenné_papíry,_knihu,_zvuk,...)_(*5at-1)" src="orig" selected="1">NNNS4-----A----</tag>
+<tag>
+<AM lemma="vydání-1_^(emitovat:_cenné_papíry,_knihu,_zvuk,...)_(*5at-1)" src="orig">NNNS4-----A----</AM>
+<AM lemma="vydání_^(*3at)" src="manual" selected="1">NNNS4-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920923-010-p6s4Aw5">
 <src.rf>manual</src.rf>

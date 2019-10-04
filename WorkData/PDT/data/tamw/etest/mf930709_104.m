@@ -109,7 +109,10 @@
 <LM>w#w-mf930709-104-p2s1w5</LM>
 </w.rf>
 <form>Beata</form>
-<tag lemma="Beata_;Y" src="orig" selected="1">NNFS1-----A----</tag>
+<tag>
+<AM lemma="Beata_;Y" src="orig">NNFS1-----A----</AM>
+<AM lemma="Beata_;Y_,s_^(^DD**Beáta)" src="manual" selected="1">NNFS1-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930709-104-p2s1w6">
 <src.rf>manual</src.rf>
@@ -425,7 +428,10 @@
 <LM>w#w-mf930709-104-p2s3w3</LM>
 </w.rf>
 <form>vydává</form>
-<tag lemma="vydávat-2_:T_^(někomu_konkrétnímu:_př._zločince,_v._věc_zpět)_(*6at-2)" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag>
+<AM lemma="vydávat-2_:T_^(někomu_konkrétnímu:_př._zločince,_v._věc_zpět)_(*6at-2)" src="orig">VB-S---3P-AA---</AM>
+<AM lemma="vydávat_:T_^(*4at)" src="manual" selected="1">VB-S---3P-AA---</AM>
+</tag>
 </m>
 <m id="m-mf930709-104-p2s3w4">
 <src.rf>manual</src.rf>
@@ -489,7 +495,10 @@
 <LM>w#w-mf930709-104-p2s3w11</LM>
 </w.rf>
 <form>B</form>
-<tag lemma="b-3_^(označení_pomocí_písmene)" src="orig" selected="1">NNNXX-----A----</tag>
+<tag>
+<AM lemma="b-3_^(označení_pomocí_písmene)" src="orig">NNNXX-----A----</AM>
+<AM lemma="B-33_^(označení_pomocí_písmene)" src="manual" selected="1">NNNXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930709-104-p2s3w12">
 <src.rf>manual</src.rf>
@@ -824,7 +833,7 @@
 <AM lemma="laterna" src="auto">NNFP1-----A----</AM>
 <AM lemma="laterna" src="auto">NNFP4-----A----</AM>
 <AM lemma="laterna" src="auto">NNFP5-----A----</AM>
-<AM lemma="laterna" src="auto" recommended="1">NNFS2-----A----</AM>
+<AM lemma="laterna" src="auto" recommended="1" selected="1">NNFS2-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930709-104-p3s1w32">
@@ -1366,7 +1375,7 @@
 <tag>
 <AM lemma="Laterna_;K" src="orig">NNFS6-----A----</AM>
 <AM lemma="laterna" src="auto">NNFS3-----A----</AM>
-<AM lemma="laterna" src="auto" recommended="1">NNFS6-----A----</AM>
+<AM lemma="laterna" src="auto" recommended="1" selected="1">NNFS6-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930709-104-p3s7w13">
@@ -1519,7 +1528,10 @@
 <LM>w#w-mf930709-104-p3s7w31</LM>
 </w.rf>
 <form>J</form>
-<tag lemma="J-0_:B_;Y" src="orig" selected="1">NNMXX-----A---8</tag>
+<tag>
+<AM lemma="J-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
+<AM lemma="J-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930709-104-p3s7w32">
 <src.rf>manual</src.rf>
@@ -1601,6 +1613,7 @@
 <AM lemma="stání_^(vyhrazené_místo,_př._pro_koně,_auta,...)" src="auto">NNNS4-----A----</AM>
 <AM lemma="stání_^(vyhrazené_místo,_př._pro_koně,_auta,...)" src="auto">NNNS5-----A----</AM>
 <AM lemma="stání_^(vyhrazené_místo,_př._pro_koně,_auta,...)" src="auto">NNNS6-----A----</AM>
+<AM lemma="stání" src="manual" selected="1">NNNS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930709-104-p3s8w4">

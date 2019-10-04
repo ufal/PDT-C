@@ -35,7 +35,10 @@
 <LM>w#w-ln94209-94-p1s1w3</LM>
 </w.rf>
 <form>přijede</form>
-<tag lemma="přijet" src="auto" selected="1">VB-S---3P-AA---</tag>
+<tag>
+<AM lemma="přijet" src="auto">VB-S---3P-AA---</AM>
+<AM lemma="přijet_:W" src="manual" selected="1">VB-S---3P-AA---</AM>
+</tag>
 </m>
 <m id="m-ln94209-94-p1s1w4">
 <src.rf>manual</src.rf>
@@ -51,7 +54,10 @@
 <LM>w#w-ln94209-94-p1s1w5</LM>
 </w.rf>
 <form>O</form>
-<tag lemma="O-2_;S_^(v_irských_jménech,_př._O'Connor)" src="orig" selected="1">NNXXX-----A----</tag>
+<tag>
+<AM lemma="O-2_;S_^(v_irských_jménech,_př._O'Connor)" src="orig">NNXXX-----A----</AM>
+<AM lemma="O-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94209-94-p1s1w6">
 <src.rf>manual</src.rf>
@@ -93,7 +99,10 @@
 <LM>w#w-ln94209-94-p2s1Aw3</LM>
 </w.rf>
 <form>sn</form>
-<tag lemma="sn-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="sn-99_:B_;S" src="orig">NNXXX-----A---8</AM>
+<AM lemma="sn-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94209-94-p2s1Aw4">
 <src.rf>manual</src.rf>
@@ -159,7 +168,10 @@
 <LM>w#w-ln94209-94-p2s1Bw6</LM>
 </w.rf>
 <form>DECARO</form>
-<tag lemma="Decaro_;w_,t" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="Decaro_;w_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="DECARO-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94209-94-p2s1Bw7">
 <src.rf>manual</src.rf>
@@ -167,7 +179,10 @@
 <LM>w#w-ln94209-94-p2s1Bw7</LM>
 </w.rf>
 <form>CUP</form>
-<tag lemma="Cup-1_;m_;w_,t_^(pohár,_soutěž;_v_názvech)" src="auto" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="Cup-1_;m_;w_,t_^(pohár,_soutěž;_v_názvech)" src="auto">NNIS1-----A----</AM>
+<AM lemma="CUP-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94209-94-p2s1Bw8">
 <src.rf>manual</src.rf>
@@ -271,7 +286,10 @@
 <LM>w#w-ln94209-94-p2s1Bw20</LM>
 </w.rf>
 <form>SSK</form>
-<tag lemma="SSK-1_:B_;K_,t_^(Sojuz_sovětskich_kompozitorov)" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="SSK-1_:B_;K_,t_^(Sojuz_sovětskich_kompozitorov)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="SSK-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94209-94-p2s1Bw21">
 <src.rf>manual</src.rf>
@@ -425,7 +443,10 @@
 <LM>w#w-ln94209-94-p2s2w4</LM>
 </w.rf>
 <form>O</form>
-<tag lemma="O-2_;S_^(v_irských_jménech,_př._O'Connor)" src="orig" selected="1">NNXXX-----A----</tag>
+<tag>
+<AM lemma="O-2_;S_^(v_irských_jménech,_př._O'Connor)" src="orig">NNXXX-----A----</AM>
+<AM lemma="O-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94209-94-p2s2w5">
 <src.rf>manual</src.rf>
@@ -473,7 +494,10 @@
 <LM>w#w-ln94209-94-p2s2w10</LM>
 </w.rf>
 <form>přijede</form>
-<tag lemma="přijet" src="auto" selected="1">VB-S---3P-AA---</tag>
+<tag>
+<AM lemma="přijet" src="auto">VB-S---3P-AA---</AM>
+<AM lemma="přijet_:W" src="manual" selected="1">VB-S---3P-AA---</AM>
+</tag>
 </m>
 <m id="m-ln94209-94-p2s2w11">
 <src.rf>manual</src.rf>
@@ -1033,7 +1057,10 @@
 <LM>w#w-ln94209-94-p3s2w3</LM>
 </w.rf>
 <form>sice</form>
-<tag lemma="sice-2" src="auto" selected="1">Db-------------</tag>
+<tag>
+<AM lemma="sice-2" src="auto">Db-------------</AM>
+<AM lemma="sice-1_^(spojka;_připouští_se_určitá_fakta)" src="manual" selected="1">J^-------------</AM>
+</tag>
 </m>
 <m id="m-ln94209-94-p3s2w4">
 <src.rf>manual</src.rf>
@@ -1133,7 +1160,7 @@
 <AM lemma="Lee_;Y" src="orig">NNMXX-----A----</AM>
 <AM lemma="Lea_;Y" src="auto">NNFS3-----A---1</AM>
 <AM lemma="Lea_;Y" src="auto">NNFS6-----A---1</AM>
-<AM lemma="Lee_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Lee_;Y" src="auto" recommended="1" selected="1">NNMS1-----A----</AM>
 <AM lemma="Lee_;Y" src="auto">NNMS5-----A----</AM>
 </tag>
 </m>
@@ -1144,7 +1171,7 @@
 </w.rf>
 <form>Kwanga</form>
 <tag>
-<AM lemma="Kwang_;S" src="orig">NNMS2-----A----</AM>
+<AM lemma="Kwang_;S" src="orig" selected="1">NNMS2-----A----</AM>
 <AM lemma="Kwango_;G" src="auto">NNNP1-----A----</AM>
 <AM lemma="Kwango_;G" src="auto">NNNP4-----A----</AM>
 <AM lemma="Kwango_;G" src="auto">NNNP5-----A----</AM>
@@ -1168,6 +1195,7 @@
 <tag>
 <AM lemma="USA_;G" src="orig">NNIPX-----A----</AM>
 <AM lemma="USA_:B_;K_,t_^(United_States_of_America)" src="auto" recommended="1">NNIPX-----A---8</AM>
+<AM lemma="USA_:B_;K_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94209-94-p3s2w19">

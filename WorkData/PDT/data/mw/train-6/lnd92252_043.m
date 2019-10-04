@@ -154,7 +154,10 @@
 <LM>w#w-lnd92252-043-p3s2w4</LM>
 </w.rf>
 <form>dobyly</form>
-<tag lemma="dobýt" src="orig" selected="1">VpTP---XR-AA---</tag>
+<tag>
+<AM lemma="dobýt" src="orig">VpTP---XR-AA---</AM>
+<AM lemma="dobýt_:W" src="manual" selected="1">VpTP---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-lnd92252-043-p3s2w5">
 <src.rf>manual</src.rf>
@@ -348,7 +351,10 @@
 <LM>w#w-lnd92252-043-p3s3w8</LM>
 </w.rf>
 <form>začal</form>
-<tag lemma="začít-1_^(začnout)" src="auto" selected="1">VpYS---XR-AA---</tag>
+<tag>
+<AM lemma="začít-1_^(začnout)" src="auto">VpYS---XR-AA---</AM>
+<AM lemma="začít-1_:W_^(začnout)" src="manual" selected="1">VpYS---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-lnd92252-043-p3s3w9">
 <src.rf>manual</src.rf>
@@ -534,7 +540,10 @@
 <LM>w#w-lnd92252-043-p4s1w12</LM>
 </w.rf>
 <form>stojí</form>
-<tag lemma="stát-3_^(někdo/něco_stojí,_např._na_nohou)" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag>
+<AM lemma="stát-3_^(někdo/něco_stojí,_např._na_nohou)" src="orig">VB-S---3P-AA---</AM>
+<AM lemma="stát-3_:T_^(někdo/něco_stojí,_např._na_nohou)" src="manual" selected="1">VB-S---3P-AA---</AM>
+</tag>
 </m>
 <m id="m-lnd92252-043-p4s1w13">
 <src.rf>manual</src.rf>
@@ -542,7 +551,10 @@
 <LM>w#w-lnd92252-043-p4s1w13</LM>
 </w.rf>
 <form>Safarali</form>
-<tag lemma="Safarali_;S" src="auto" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Safarali_;S" src="auto">NNMS1-----A----</AM>
+<AM lemma="Safarali_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92252-043-p4s1w14">
 <src.rf>manual</src.rf>
@@ -816,7 +828,10 @@
 <LM>w#w-lnd92252-043-p4s2w23</LM>
 </w.rf>
 <form>odejít</form>
-<tag lemma="odejít" src="orig" selected="1">Vf--------A----</tag>
+<tag>
+<AM lemma="odejít" src="orig">Vf--------A----</AM>
+<AM lemma="odejít_:W" src="manual" selected="1">Vf--------A----</AM>
+</tag>
 </m>
 <m id="m-lnd92252-043-p4s2w24">
 <src.rf>manual</src.rf>
@@ -922,7 +937,10 @@
 <LM>w#w-lnd92252-043-p4s3w2</LM>
 </w.rf>
 <form>řekl</form>
-<tag lemma="říci" src="auto" selected="1">VpYS---XR-AA---</tag>
+<tag>
+<AM lemma="říci" src="auto">VpYS---XR-AA---</AM>
+<AM lemma="říci_:W" src="manual" selected="1">VpYS---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-lnd92252-043-p4s3w3">
 <src.rf>manual</src.rf>
@@ -1222,7 +1240,10 @@
 <LM>w#w-lnd92252-043-p5s1w5</LM>
 </w.rf>
 <form>stran</form>
-<tag lemma="strana-2_^(politická)" src="orig" selected="1">NNFP2-----A----</tag>
+<tag>
+<AM lemma="strana-2_^(politická)" src="orig">NNFP2-----A----</AM>
+<AM lemma="strana" src="manual" selected="1">NNFP2-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92252-043-p5s1w6">
 <src.rf>manual</src.rf>
@@ -1472,7 +1493,10 @@
 <LM>w#w-lnd92252-043-p5s2w6</LM>
 </w.rf>
 <form>vyjely</form>
-<tag lemma="vyjet" src="orig" selected="1">VpTP---XR-AA---</tag>
+<tag>
+<AM lemma="vyjet" src="orig">VpTP---XR-AA---</AM>
+<AM lemma="vyjet_:W" src="manual" selected="1">VpTP---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-lnd92252-043-p5s2w7">
 <src.rf>manual</src.rf>
@@ -1525,7 +1549,7 @@
 <AM lemma="badachšanský" src="auto">AAFP1----1A----</AM>
 <AM lemma="badachšanský" src="auto">AAFP4----1A----</AM>
 <AM lemma="badachšanský" src="auto">AAFP5----1A----</AM>
-<AM lemma="badachšanský" src="auto" recommended="1">AAFS2----1A----</AM>
+<AM lemma="badachšanský" src="auto" recommended="1" selected="1">AAFS2----1A----</AM>
 <AM lemma="badachšanský" src="auto">AAFS3----1A----</AM>
 <AM lemma="badachšanský" src="auto">AAFS6----1A----</AM>
 <AM lemma="badachšanský" src="auto">AAIP1----1A----</AM>
@@ -1707,7 +1731,10 @@
 <LM>w#w-lnd92252-043-p6s2w5</LM>
 </w.rf>
 <form>vyzval</form>
-<tag lemma="vyzvat_^(někoho_vyzvat_k_něčemu)" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag>
+<AM lemma="vyzvat_^(někoho_vyzvat_k_něčemu)" src="orig">VpYS---XR-AA---</AM>
+<AM lemma="vyzvat_:W_^(někoho_vyzvat_k_něčemu)" src="manual" selected="1">VpYS---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-lnd92252-043-p6s2w6">
 <src.rf>manual</src.rf>
@@ -1877,7 +1904,10 @@
 <LM>w#w-lnd92252-043-p6s3w5</LM>
 </w.rf>
 <form>vyzval</form>
-<tag lemma="vyzvat_^(někoho_vyzvat_k_něčemu)" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag>
+<AM lemma="vyzvat_^(někoho_vyzvat_k_něčemu)" src="orig">VpYS---XR-AA---</AM>
+<AM lemma="vyzvat_:W_^(někoho_vyzvat_k_něčemu)" src="manual" selected="1">VpYS---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-lnd92252-043-p6s3w6">
 <src.rf>manual</src.rf>
@@ -1901,7 +1931,10 @@
 <LM>w#w-lnd92252-043-p6s3w8</LM>
 </w.rf>
 <form>SNS</form>
-<tag lemma="SNS-2_:B_;G_^(Sdr._nezávislých_států)" src="orig" selected="1">NNNXX-----A---8</tag>
+<tag>
+<AM lemma="SNS-2_:B_;G_^(Sdr._nezávislých_států)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="SNS-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92252-043-p6s3w9">
 <src.rf>manual</src.rf>
@@ -2411,7 +2444,10 @@
 <LM>w#w-lnd92252-043-p7s2w21</LM>
 </w.rf>
 <form>stran</form>
-<tag lemma="strana-3_^(u_soudu,_na_úřadě,_smluvní_strany;_na_něčí_straně)" src="orig" selected="1">NNFP2-----A----</tag>
+<tag>
+<AM lemma="strana-3_^(u_soudu,_na_úřadě,_smluvní_strany;_na_něčí_straně)" src="orig">NNFP2-----A----</AM>
+<AM lemma="strana" src="manual" selected="1">NNFP2-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92252-043-p7s2w22">
 <src.rf>manual</src.rf>
@@ -2971,7 +3007,10 @@
 <LM>w#w-lnd92252-043-p9s3w15</LM>
 </w.rf>
 <form>straně</form>
-<tag lemma="strana-3_^(u_soudu,_na_úřadě,_smluvní_strany;_na_něčí_straně)" src="orig" selected="1">NNFS6-----A----</tag>
+<tag>
+<AM lemma="strana-3_^(u_soudu,_na_úřadě,_smluvní_strany;_na_něčí_straně)" src="orig">NNFS6-----A----</AM>
+<AM lemma="strana" src="manual" selected="1">NNFS6-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92252-043-p9s3w16">
 <src.rf>manual</src.rf>
@@ -2995,7 +3034,11 @@
 <LM>w#w-lnd92252-043-p9s3w18</LM>
 </w.rf>
 <form>odražen</form>
-<tag lemma="odrazit" src="orig" selected="1">VsYS---XX-AP---</tag>
+<tag>
+<AM lemma="odrazit" src="orig">VsYS---XX-AP---</AM>
+<AM lemma="odrazit_:" src="manual">VsYS---XX-AP---</AM>
+<AM lemma="odrazit_:W" src="manual" selected="1">VsYS---XX-AP---</AM>
+</tag>
 </m>
 <m id="m-lnd92252-043-p9s3w19">
 <src.rf>manual</src.rf>

@@ -225,7 +225,10 @@
 <LM>w#w-ln95048-041-p2s3w5</LM>
 </w.rf>
 <form>pop</form>
-<tag lemma="pop-3_,t_^(př._ve_spojení_pop_music)" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="pop-3_,t_^(př._ve_spojení_pop_music)" src="orig">AAXXX----1A----</AM>
+<AM lemma="pop-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln95048-041-p2s3w6">
 <src.rf>manual</src.rf>
@@ -233,7 +236,10 @@
 <LM>w#w-ln95048-041-p2s3w6</LM>
 </w.rf>
 <form>art</form>
-<tag lemma="art" src="orig" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="art" src="orig">NNIS1-----A----</AM>
+<AM lemma="art-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln95048-041-p2s3w7">
 <src.rf>manual</src.rf>
@@ -273,7 +279,10 @@
 <LM>w#w-ln95048-041-p2s3w11</LM>
 </w.rf>
 <form>minimal</form>
-<tag lemma="minimal_;u_,t_^(pouze_ve_spojení_minimal_art)" src="auto" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="minimal_;u_,t_^(pouze_ve_spojení_minimal_art)" src="auto">AAXXX----1A----</AM>
+<AM lemma="minimal-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln95048-041-p2s3w12">
 <src.rf>manual</src.rf>
@@ -281,7 +290,10 @@
 <LM>w#w-ln95048-041-p2s3w12</LM>
 </w.rf>
 <form>art</form>
-<tag lemma="art" src="orig" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="art" src="orig">NNIS1-----A----</AM>
+<AM lemma="art-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln95048-041-p2s3w13">
 <src.rf>manual</src.rf>
@@ -747,7 +759,10 @@
 <LM>w#w-ln95048-041-p2s8w7</LM>
 </w.rf>
 <form>AIDS</form>
-<tag lemma="AIDS_:B_;U_,x_^(Syndrom_získaného_selhání_imunity)" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="AIDS_:B_;U_,x_^(Syndrom_získaného_selhání_imunity)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="AIDS_:B_;U_^(Syndrom_získaného_selhání_imunity)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95048-041-p2s8w8">
 <src.rf>manual</src.rf>
@@ -1302,7 +1317,7 @@
 </w.rf>
 <form>Poeovi</form>
 <tag>
-<AM lemma="Poe_;S" src="orig">NNMS3-----A----</AM>
+<AM lemma="Poe_;S" src="orig" selected="1">NNMS3-----A----</AM>
 <AM lemma="Poeův_;S_^(*2)" src="auto">AUMP1M---------</AM>
 <AM lemma="Poeův_;S_^(*2)" src="auto" recommended="1">AUMP5M---------</AM>
 </tag>

@@ -363,7 +363,10 @@
 <LM>w#w-mf920901-061-p2s4w1</LM>
 </w.rf>
 <form>Neuplynul</form>
-<tag lemma="uplynout" src="orig" selected="1">VpYS---XR-NA---</tag>
+<tag>
+<AM lemma="uplynout" src="orig">VpYS---XR-NA---</AM>
+<AM lemma="uplynout_:W" src="manual" selected="1">VpYS---XR-NA---</AM>
+</tag>
 </m>
 <m id="m-mf920901-061-p2s4w2">
 <src.rf>manual</src.rf>
@@ -443,7 +446,10 @@
 <LM>w#w-mf920901-061-p2s4w12</LM>
 </w.rf>
 <form>nepřišli</form>
-<tag lemma="přijít" src="orig" selected="1">VpMP---XR-NA---</tag>
+<tag>
+<AM lemma="přijít" src="orig">VpMP---XR-NA---</AM>
+<AM lemma="přijít_:W" src="manual" selected="1">VpMP---XR-NA---</AM>
+</tag>
 </m>
 <m id="m-mf920901-061-p2s4w13">
 <src.rf>manual</src.rf>
@@ -509,7 +515,10 @@
 <LM>w#w-mf920901-061-p2s5w7</LM>
 </w.rf>
 <form>sehnat</form>
-<tag lemma="sehnat" src="orig" selected="1">Vf--------A----</tag>
+<tag>
+<AM lemma="sehnat" src="orig">Vf--------A----</AM>
+<AM lemma="sehnat_:W" src="manual" selected="1">Vf--------A----</AM>
+</tag>
 </m>
 <m id="m-mf920901-061-p2s5w8">
 <src.rf>manual</src.rf>
@@ -607,7 +616,10 @@
 <LM>w#w-mf920901-061-p2s6w9</LM>
 </w.rf>
 <form>nenajdete</form>
-<tag lemma="najít" src="orig" selected="1">VB-P---2P-NA---</tag>
+<tag>
+<AM lemma="najít" src="orig">VB-P---2P-NA---</AM>
+<AM lemma="najít_:W" src="manual" selected="1">VB-P---2P-NA---</AM>
+</tag>
 </m>
 <m id="m-mf920901-061-p2s6w10">
 <src.rf>manual</src.rf>
@@ -625,7 +637,10 @@
 <LM>w#w-mf920901-061-p2s7w1</LM>
 </w.rf>
 <form>Nedávno</form>
-<tag lemma="nedávno-1" src="auto" selected="1">Db-------------</tag>
+<tag>
+<AM lemma="nedávno-1" src="auto">Db-------------</AM>
+<AM lemma="dávno-1" src="manual" selected="1">Dg-------1N----</AM>
+</tag>
 </m>
 <m id="m-mf920901-061-p2s7w2">
 <src.rf>manual</src.rf>
@@ -644,7 +659,7 @@
 <form>totiž</form>
 <tag>
 <AM lemma="totiž" src="orig">Db-------------</AM>
-<AM lemma="totiž-1" src="auto" recommended="1">J^-------------</AM>
+<AM lemma="totiž-1" src="auto" recommended="1" selected="1">J^-------------</AM>
 <AM lemma="totiž-2" src="auto">TT-------------</AM>
 </tag>
 </m>

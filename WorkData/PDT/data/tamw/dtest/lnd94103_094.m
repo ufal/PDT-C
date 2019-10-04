@@ -97,7 +97,10 @@
 <LM>w#w-lnd94103-094-p1s1w10</LM>
 </w.rf>
 <form>NETOPÝR</form>
-<tag lemma="netopýr" src="orig" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="netopýr" src="orig">NNMS1-----A----</AM>
+<AM lemma="Netopýr_;R" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd94103-094-p1s1w11">
 <src.rf>manual</src.rf>
@@ -447,7 +450,10 @@
 <LM>w#w-lnd94103-094-p1s4w4</LM>
 </w.rf>
 <form>závidět</form>
-<tag lemma="závidět" src="orig" selected="1">Vf--------A----</tag>
+<tag>
+<AM lemma="závidět" src="orig">Vf--------A----</AM>
+<AM lemma="závidět_:T" src="manual" selected="1">Vf--------A----</AM>
+</tag>
 </m>
 <m id="m-lnd94103-094-p1s4w5">
 <src.rf>manual</src.rf>
@@ -575,7 +581,10 @@
 <LM>w#w-lnd94103-094-p1s4w20</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-2" src="auto" selected="1">Dg-------2A----</tag>
+<tag>
+<AM lemma="hodně-2" src="auto">Dg-------2A----</AM>
+<AM lemma="hodně-3" src="manual" selected="1">Dg-------2A----</AM>
+</tag>
 </m>
 <m id="m-lnd94103-094-p1s4w21">
 <src.rf>manual</src.rf>
@@ -660,7 +669,7 @@
 <tag>
 <AM lemma="tady" src="orig">Db------------1</AM>
 <AM lemma="ten" src="auto">PDFS4----------</AM>
-<AM lemma="tu" src="auto" recommended="1">Db-------------</AM>
+<AM lemma="tu" src="auto" recommended="1" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m-lnd94103-094-p1s5w6">
@@ -1065,7 +1074,7 @@
 <form>nikoli</form>
 <tag>
 <AM lemma="nikoliv" src="orig">Db------------1</AM>
-<AM lemma="nikoli" src="auto" recommended="1">TT-------------</AM>
+<AM lemma="nikoli" src="auto" recommended="1" selected="1">TT-------------</AM>
 </tag>
 </m>
 <m id="m-lnd94103-094-p1s6w23">
@@ -1544,7 +1553,10 @@
 <LM>w#w-lnd94103-094-p1s9w1</LM>
 </w.rf>
 <form>Čteme</form>
-<tag lemma="číst" src="orig" selected="1">VB-P---1P-AA---</tag>
+<tag>
+<AM lemma="číst" src="orig">VB-P---1P-AA---</AM>
+<AM lemma="číst-:T" src="manual" selected="1">VB-P---1P-AA---</AM>
+</tag>
 </m>
 <m id="m-lnd94103-094-p1s9w2">
 <src.rf>manual</src.rf>
@@ -1560,7 +1572,10 @@
 <LM>w#w-lnd94103-094-p1s9w3</LM>
 </w.rf>
 <form>li</form>
-<tag lemma="li-1" src="auto" selected="1">TT-------------</tag>
+<tag>
+<AM lemma="li-1" src="auto">TT-------------</AM>
+<AM lemma="li-2" src="manual" selected="1">J,-------------</AM>
+</tag>
 </m>
 <m id="m-lnd94103-094-p1s9w4">
 <src.rf>manual</src.rf>
@@ -1902,7 +1917,7 @@
 <form>jakkoli</form>
 <tag>
 <AM lemma="jakkoliv" src="orig">Db------------1</AM>
-<AM lemma="jakkoli-1" src="auto">Db-------------</AM>
+<AM lemma="jakkoli-1" src="auto" selected="1">Db-------------</AM>
 <AM lemma="jakkoli-2" src="auto" recommended="1">J,-------------</AM>
 </tag>
 </m>
@@ -2082,7 +2097,10 @@
 <LM>w#w-lnd94103-094-p1s12w9</LM>
 </w.rf>
 <form>Netopýru</form>
-<tag lemma="netopýr" src="orig" selected="1">NNMS6-----A---1</tag>
+<tag>
+<AM lemma="netopýr" src="orig">NNMS6-----A---1</AM>
+<AM lemma="Netopýr_;R" src="manual" selected="1">NNIS6-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd94103-094-p1s12w10">
 <src.rf>manual</src.rf>
@@ -2449,7 +2467,7 @@
 <tag>
 <AM lemma="tady" src="orig">Db------------1</AM>
 <AM lemma="ten" src="auto">PDFS4----------</AM>
-<AM lemma="tu" src="auto" recommended="1">Db-------------</AM>
+<AM lemma="tu" src="auto" recommended="1" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m-lnd94103-094-p1s14w5">
@@ -2458,7 +2476,10 @@
 <LM>w#w-lnd94103-094-p1s14w5</LM>
 </w.rf>
 <form>nezaznělo</form>
-<tag lemma="zaznít" src="orig" selected="1">VpNS---XR-NA---</tag>
+<tag>
+<AM lemma="zaznít" src="orig">VpNS---XR-NA---</AM>
+<AM lemma="zaznít_:W" src="manual" selected="1">VpNS---XR-NA---</AM>
+</tag>
 </m>
 <m id="m-lnd94103-094-p1s14w6">
 <src.rf>manual</src.rf>
@@ -2596,7 +2617,7 @@
 <form>ačkoli</form>
 <tag>
 <AM lemma="ačkoliv" src="orig">J,------------1</AM>
-<AM lemma="ačkoli" src="auto" recommended="1">J,-------------</AM>
+<AM lemma="ačkoli" src="auto" recommended="1" selected="1">J,-------------</AM>
 </tag>
 </m>
 <m id="m-lnd94103-094-p1s14w23">
@@ -3633,7 +3654,10 @@
 <LM>w#w-lnd94103-094-p1s19w5</LM>
 </w.rf>
 <form>vedl</form>
-<tag lemma="vést" src="auto" selected="1">VpYS---XR-AA---</tag>
+<tag>
+<AM lemma="vést" src="auto">VpYS---XR-AA---</AM>
+<AM lemma="vést_:T" src="manual" selected="1">VpYS---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-lnd94103-094-p1s19w6">
 <src.rf>manual</src.rf>
@@ -3831,6 +3855,8 @@
 <AM lemma="netopýr" src="orig">NNMS2-----A---1</AM>
 <AM lemma="netopýr" src="auto" recommended="1">NNMS3-----A---1</AM>
 <AM lemma="netopýr" src="auto">NNMS6-----A---1</AM>
+<AM lemma="netopýr" src="manual">NNIS2-----A----</AM>
+<AM lemma="Netopýr_;R" src="manual" selected="1">NNIS2-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94103-094-p1s20w12">

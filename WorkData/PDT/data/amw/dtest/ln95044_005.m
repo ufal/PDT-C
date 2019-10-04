@@ -27,7 +27,10 @@
 <LM>w#w-ln95044-005-p1s1w2</LM>
 </w.rf>
 <form>SR</form>
-<tag lemma="SR-1_:B_;G_^(Slovenská_republika)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="SR-1_:B_;G_^(Slovenská_republika)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="SR-1_:B_;G_^(Slovenská_republika)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95044-005-p1s1w3">
 <src.rf>manual</src.rf>
@@ -77,7 +80,10 @@
 <LM>w#w-ln95044-005-p2s1Aw3</LM>
 </w.rf>
 <form>začne</form>
-<tag lemma="začít-1_^(začnout)" src="auto" selected="1">VB-S---3P-AA---</tag>
+<tag>
+<AM lemma="začít-1_^(začnout)" src="auto">VB-S---3P-AA---</AM>
+<AM lemma="začít-1_:W_^(začnout)" src="manual" selected="1">VB-S---3P-AA---</AM>
+</tag>
 </m>
 <m id="m-ln95044-005-p2s1Aw4">
 <src.rf>manual</src.rf>
@@ -371,7 +377,10 @@
 <LM>w#w-ln95044-005-p2s2w5</LM>
 </w.rf>
 <form>LN</form>
-<tag lemma="LN-1_:B_;R_^(Lidové_noviny,_deník)" src="orig" selected="1">NNFPX-----A---8</tag>
+<tag>
+<AM lemma="LN-1_:B_;R_^(Lidové_noviny,_deník)" src="orig">NNFPX-----A---8</AM>
+<AM lemma="LN-1_:B_;K_;R_^(Lidové_noviny)" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln95044-005-p2s2w6">
 <src.rf>manual</src.rf>
@@ -387,7 +396,10 @@
 <LM>w#w-ln95044-005-p2s2w7</LM>
 </w.rf>
 <form>uvedl</form>
-<tag lemma="uvést" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag>
+<AM lemma="uvést" src="orig">VpYS---XR-AA---</AM>
+<AM lemma="uvést_:W" src="manual" selected="1">VpYS---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-ln95044-005-p2s2w8">
 <src.rf>manual</src.rf>
@@ -469,7 +481,7 @@
 </w.rf>
 <form>Šutek</form>
 <tag>
-<AM lemma="Šutek_;S" src="orig">NNMS1-----A----</AM>
+<AM lemma="Šutek_;S" src="orig" selected="1">NNMS1-----A----</AM>
 <AM lemma="Šutka_;G" src="auto" recommended="1">NNFP2-----A----</AM>
 </tag>
 </m>
@@ -625,7 +637,10 @@
 <LM>w#w-ln95044-005-p2s3w18</LM>
 </w.rf>
 <form>zavedeno</form>
-<tag lemma="zavést" src="orig" selected="1">VsNS---XX-AP---</tag>
+<tag>
+<AM lemma="zavést" src="orig">VsNS---XX-AP---</AM>
+<AM lemma="zavést_:W" src="manual" selected="1">VsNS---XX-AP---</AM>
+</tag>
 </m>
 <m id="m-ln95044-005-p2s3w19">
 <src.rf>manual</src.rf>
@@ -1119,7 +1134,10 @@
 <LM>w#w-ln95044-005-p4s2w3</LM>
 </w.rf>
 <form>má</form>
-<tag lemma="mít" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag>
+<AM lemma="mít" src="orig">VB-S---3P-AA---</AM>
+<AM lemma="mít_:T" src="manual" selected="1">VB-S---3P-AA---</AM>
+</tag>
 </m>
 <m id="m-ln95044-005-p4s2w4">
 <src.rf>manual</src.rf>
@@ -1861,7 +1879,10 @@
 <LM>w#w-ln95044-005-p5s2w21</LM>
 </w.rf>
 <form>mj</form>
-<tag lemma="mj-1_:B_^(mimo_jiné)" src="orig" selected="1">Db------------8</tag>
+<tag>
+<AM lemma="mj-1_:B_^(mimo_jiné)" src="orig">Db------------8</AM>
+<AM lemma="mj-1_:B_^(mimo_jiné)" src="manual" selected="1">Db-------------</AM>
+</tag>
 </m>
 <m id="m-ln95044-005-p5s2w22">
 <src.rf>manual</src.rf>
@@ -1933,7 +1954,10 @@
 <LM>w#w-ln95044-005-p5s2w30</LM>
 </w.rf>
 <form>uvedl</form>
-<tag lemma="uvést" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag>
+<AM lemma="uvést" src="orig">VpYS---XR-AA---</AM>
+<AM lemma="uvést_:W" src="manual" selected="1">VpYS---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-ln95044-005-p5s2w31">
 <src.rf>manual</src.rf>
@@ -2321,7 +2345,10 @@
 <LM>w#w-ln95044-005-p6s2w9</LM>
 </w.rf>
 <form>určena</form>
-<tag lemma="určit" src="orig" selected="1">VsQW---XX-AP---</tag>
+<tag>
+<AM lemma="určit" src="orig">VsQW---XX-AP---</AM>
+<AM lemma="určit_:W" src="manual" selected="1">VsQW---XX-AP---</AM>
+</tag>
 </m>
 <m id="m-ln95044-005-p6s2w10">
 <src.rf>manual</src.rf>
@@ -2393,7 +2420,10 @@
 <LM>w#w-ln95044-005-p6s2w18</LM>
 </w.rf>
 <form>řekl</form>
-<tag lemma="říci" src="auto" selected="1">VpYS---XR-AA---</tag>
+<tag>
+<AM lemma="říci" src="auto">VpYS---XR-AA---</AM>
+<AM lemma="říci_:W" src="manual" selected="1">VpYS---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-ln95044-005-p6s2w19">
 <src.rf>manual</src.rf>
@@ -2443,7 +2473,7 @@
 </w.rf>
 <form>Šutek</form>
 <tag>
-<AM lemma="Šutek_;S" src="orig">NNMS1-----A----</AM>
+<AM lemma="Šutek_;S" src="orig" selected="1">NNMS1-----A----</AM>
 <AM lemma="Šutka_;G" src="auto" recommended="1">NNFP2-----A----</AM>
 </tag>
 </m>

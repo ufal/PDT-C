@@ -109,7 +109,10 @@
 <LM>w#w-mf930708-142-p2s1w5</LM>
 </w.rf>
 <form>li</form>
-<tag lemma="li-1" src="auto" selected="1">TT-------------</tag>
+<tag>
+<AM lemma="li-1" src="auto">TT-------------</AM>
+<AM lemma="li-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930708-142-p2s1w6">
 <src.rf>manual</src.rf>
@@ -319,7 +322,10 @@
 <LM>w#w-mf930708-142-p2s2w1</LM>
 </w.rf>
 <form>MF</form>
-<tag lemma="MF-1_:B_;R_;b_^(Mladá_Fronta,_deník)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="MF-1_:B_;R_;b_^(Mladá_Fronta,_deník)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="MF-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-mf930708-142-p2s2w2">
 <src.rf>manual</src.rf>
@@ -571,7 +577,10 @@
 <LM>w#w-mf930708-142-p3s1w6</LM>
 </w.rf>
 <form>SEI</form>
-<tag lemma="SEI-3_:B_;K_^(Středoevropská_iniciativa)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="SEI-3_:B_;K_^(Středoevropská_iniciativa)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="SEI-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-mf930708-142-p3s1w7">
 <src.rf>manual</src.rf>

@@ -196,7 +196,7 @@
 </w.rf>
 <form>Sajdy</form>
 <tag>
-<AM lemma="Sajdá_;G" src="orig">NNFS2-----A----</AM>
+<AM lemma="Sajdá_;G" src="orig" selected="1">NNFS2-----A----</AM>
 <AM lemma="Sajdy_;G" src="auto" recommended="1">NNIP1-----A----</AM>
 <AM lemma="Sajdy_;G" src="auto">NNIP4-----A----</AM>
 <AM lemma="Sajdy_;G" src="auto">NNIP5-----A----</AM>

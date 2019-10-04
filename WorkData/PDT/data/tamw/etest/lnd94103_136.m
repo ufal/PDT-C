@@ -98,6 +98,7 @@
 <AM lemma="mela" src="auto" recommended="1">NNFP2-----A----</AM>
 <AM lemma="mlít" src="auto">Vi-S---2--A----</AM>
 <AM lemma="mlít" src="auto">Vi-S---3--A---4</AM>
+<AM lemma="mel-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94103-136-p1s2w4">
@@ -352,7 +353,10 @@
 <LM>w#w-lnd94103-136-p1s5w5</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-2" src="auto" selected="1">Dg-------2A----</tag>
+<tag>
+<AM lemma="hodně-2" src="auto">Dg-------2A----</AM>
+<AM lemma="více_^(více_+_2._p.,_více_peněz)" src="manual" selected="1">Ca--1----------</AM>
+</tag>
 </m>
 <m id="m-lnd94103-136-p1s5w6">
 <src.rf>manual</src.rf>
@@ -1318,7 +1322,10 @@
 <LM>w#w-lnd94103-136-p1s11Bw22</LM>
 </w.rf>
 <form>PVP</form>
-<tag lemma="PVP-2_:B_;m_^(Pohár_výherců_pohárů)" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="PVP-2_:B_;m_^(Pohár_výherců_pohárů)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="PVP-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd94103-136-p1s11Bw23">
 <src.rf>manual</src.rf>
@@ -1432,7 +1439,10 @@
 <LM>w#w-lnd94103-136-p1s12w7</LM>
 </w.rf>
 <form>Rada</form>
-<tag lemma="rada-2_^(člověk;_např._soudní_rada)" src="orig" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="rada-2_^(člověk;_např._soudní_rada)" src="orig">NNMS1-----A----</AM>
+<AM lemma="Rada_;S" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd94103-136-p1s12w8">
 <src.rf>manual</src.rf>

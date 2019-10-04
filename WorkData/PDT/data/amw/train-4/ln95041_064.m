@@ -103,7 +103,10 @@
 <LM>w#w-ln95041-064-p2s1Bw3</LM>
 </w.rf>
 <form>Sixto</form>
-<tag lemma="Sixto_;S" src="auto" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Sixto_;S" src="auto">NNMS1-----A----</AM>
+<AM lemma="Sixto_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95041-064-p2s1Bw4">
 <src.rf>manual</src.rf>

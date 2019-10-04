@@ -1042,7 +1042,10 @@
 <LM>w#w-mf920924-096-p6s1w16</LM>
 </w.rf>
 <form>spíš</form>
-<tag lemma="spíše" src="orig" selected="1">Dg-------2A----</tag>
+<tag>
+<AM lemma="spíše" src="orig">Dg-------2A----</AM>
+<AM lemma="spíš" src="manual" selected="1">TT-------------</AM>
+</tag>
 </m>
 <m id="m-mf920924-096-p6s1w17">
 <src.rf>manual</src.rf>
@@ -1188,7 +1191,10 @@
 <LM>w#w-mf920924-096-p7s1w14</LM>
 </w.rf>
 <form>jenom</form>
-<tag lemma="jenom-1" src="auto" selected="1">TT-------------</tag>
+<tag>
+<AM lemma="jenom-1" src="auto">TT-------------</AM>
+<AM lemma="jenom-2_^(pouze)" src="manual" selected="1">Db-------------</AM>
+</tag>
 </m>
 <m id="m-mf920924-096-p7s1w15">
 <src.rf>manual</src.rf>
@@ -1426,7 +1432,10 @@
 <LM>w#w-mf920924-096-p8s2w1</LM>
 </w.rf>
 <form>Nejvíc</form>
-<tag lemma="hodně-2" src="auto" selected="1">Dg-------3A---1</tag>
+<tag>
+<AM lemma="hodně-2" src="auto">Dg-------3A---1</AM>
+<AM lemma="hodně-3" src="manual" selected="1">Dg-------3A---1</AM>
+</tag>
 </m>
 <m id="m-mf920924-096-p8s2w2">
 <src.rf>manual</src.rf>

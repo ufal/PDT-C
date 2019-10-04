@@ -43,7 +43,10 @@
 <LM>w#w-vesm9211-049-p1s1w4</LM>
 </w.rf>
 <form>pozbylo</form>
-<tag lemma="pozbýt" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag>
+<AM lemma="pozbýt" src="orig">VpNS---XR-AA---</AM>
+<AM lemma="pozbýt_:W" src="manual" selected="1">VpNS---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-vesm9211-049-p1s1w5">
 <src.rf>manual</src.rf>
@@ -358,7 +361,10 @@
 <LM>w#w-vesm9211-049-p1s2w32</LM>
 </w.rf>
 <form>přičíněl</form>
-<tag lemma="přičínět" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag>
+<AM lemma="přičínět" src="orig">VpYS---XR-AA---</AM>
+<AM lemma="přičínět_:T" src="manual" selected="1">VpYS---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-vesm9211-049-p1s2w33">
 <src.rf>manual</src.rf>
@@ -499,7 +505,7 @@
 <tag>
 <AM lemma="tedy" src="orig">Db-------------</AM>
 <AM lemma="tedy-1" src="auto">TT-------------</AM>
-<AM lemma="tedy-2" src="auto" recommended="1">J^-------------</AM>
+<AM lemma="tedy-2" src="auto" recommended="1" selected="1">J^-------------</AM>
 </tag>
 </m>
 <m id="m-vesm9211-049-p1s3w3">
@@ -843,7 +849,7 @@
 <AM lemma="Borovský_;S" src="auto">NNMP1-----A---6</AM>
 <AM lemma="Borovský_;S" src="auto">NNMP4-----A---6</AM>
 <AM lemma="Borovský_;S" src="auto">NNMP5-----A---6</AM>
-<AM lemma="Borovský_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Borovský_;S" src="auto" recommended="1" selected="1">NNMS1-----A----</AM>
 <AM lemma="Borovský_;S" src="auto">NNMS5-----A----</AM>
 <AM lemma="borovský" src="auto">AAFP1----1A---6</AM>
 <AM lemma="borovský" src="auto">AAFP4----1A---6</AM>
@@ -942,7 +948,10 @@
 <LM>w#w-vesm9211-049-p3s1w6</LM>
 </w.rf>
 <form>str</form>
-<tag lemma="strana-4_:B" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="strana-4_:B" src="orig">NNFXX-----A---8</AM>
+<AM lemma="strana-4_^(v_knize,_rukopise,...)" src="manual" selected="1">NNFXX-----A---9</AM>
+</tag>
 </m>
 <m id="m-vesm9211-049-p3s1w7">
 <src.rf>manual</src.rf>

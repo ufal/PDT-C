@@ -231,7 +231,11 @@
 <LM>w#w-ln95046-070-p2s2w5</LM>
 </w.rf>
 <form>KP</form>
-<tag lemma="KP_:B_;K" src="auto" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="KP_:B_;K" src="auto">NNXXX-----A---8</AM>
+<AM lemma="KP-88_:B" src="manual">NNXXX-----A---8</AM>
+<AM lemma="KP-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95046-070-p2s2w6">
 <src.rf>manual</src.rf>
@@ -311,7 +315,11 @@
 <LM>w#w-ln95046-070-p2s2w15</LM>
 </w.rf>
 <form>V</form>
-<tag lemma="V-0_:B_;Y" src="orig" selected="1">NNMXX-----A---8</tag>
+<tag>
+<AM lemma="V-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
+<AM lemma="V-88_:B" src="manual">NNXXX-----A---8</AM>
+<AM lemma="V-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95046-070-p2s2w16">
 <src.rf>manual</src.rf>
@@ -471,7 +479,11 @@
 <LM>w#w-ln95046-070-p2s2w35</LM>
 </w.rf>
 <form>KP</form>
-<tag lemma="KP_:B_;K" src="auto" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="KP_:B_;K" src="auto">NNXXX-----A---8</AM>
+<AM lemma="KP-88_:B" src="manual">NNXXX-----A---8</AM>
+<AM lemma="KP-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95046-070-p2s2w36">
 <src.rf>manual</src.rf>
@@ -769,6 +781,8 @@
 <AM lemma="SIS-2_:B_;K_^(Slovenská_informačná_služba)" src="auto" recommended="1">NNFXX-----A---8</AM>
 <AM lemma="Sisa_;Y" src="auto">NNFP2-----A----</AM>
 <AM lemma="se_^(zvr._zájmeno/částice)" src="auto">P7-S3--2-------</AM>
+<AM lemma="SIS-88_:B" src="manual">NNXXX-----A---8</AM>
+<AM lemma="SIS-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95046-070-p3s1w14">
@@ -786,7 +800,7 @@
 </w.rf>
 <form>Mitra</form>
 <tag>
-<AM lemma="Mitro_;S" src="orig">NNMS2-----A----</AM>
+<AM lemma="Mitro_;S" src="orig" selected="1">NNMS2-----A----</AM>
 <AM lemma="mitra" src="auto" recommended="1">NNFS1-----A----</AM>
 </tag>
 </m>
@@ -945,7 +959,7 @@
 </w.rf>
 <form>Mitra</form>
 <tag>
-<AM lemma="Mitro_;S" src="orig">NNMS4-----A----</AM>
+<AM lemma="Mitro_;S" src="orig" selected="1">NNMS4-----A----</AM>
 <AM lemma="mitra" src="auto" recommended="1">NNFS1-----A----</AM>
 </tag>
 </m>

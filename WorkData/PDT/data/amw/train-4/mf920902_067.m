@@ -515,7 +515,7 @@
 <form>totiž</form>
 <tag>
 <AM lemma="totiž" src="orig">Db-------------</AM>
-<AM lemma="totiž-1" src="auto" recommended="1">J^-------------</AM>
+<AM lemma="totiž-1" src="auto" recommended="1" selected="1">J^-------------</AM>
 <AM lemma="totiž-2" src="auto">TT-------------</AM>
 </tag>
 </m>
@@ -1076,7 +1076,7 @@
 <form>USA</form>
 <tag>
 <AM lemma="USA_;G" src="orig">NNIPX-----A----</AM>
-<AM lemma="USA_:B_;K_,t_^(United_States_of_America)" src="auto" recommended="1">NNIPX-----A---8</AM>
+<AM lemma="USA_:B_;K_,t_^(United_States_of_America)" src="auto" recommended="1" selected="1">NNIPX-----A---8</AM>
 </tag>
 </m>
 <m id="m-mf920902-067-p2s4w27">
@@ -1513,7 +1513,10 @@
 <LM>w#w-mf920902-067-p2s6w25</LM>
 </w.rf>
 <form>optimismus</form>
-<tag lemma="optimismus" src="orig" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="optimismus" src="orig">NNIS1-----A----</AM>
+<AM lemma="optimismus_,s_^(^DD**optimizmus)" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920902-067-p2s6w26">
 <src.rf>manual</src.rf>
@@ -2936,7 +2939,7 @@
 <tag>
 <AM lemma="přece" src="orig">Db-------------</AM>
 <AM lemma="přece-1" src="auto" recommended="1">J^-------------</AM>
-<AM lemma="přece-2" src="auto">TT-------------</AM>
+<AM lemma="přece-2" src="auto" selected="1">TT-------------</AM>
 </tag>
 </m>
 <m id="m-mf920902-067-p2s12Cw16">
@@ -3081,7 +3084,10 @@
 <LM>w#w-mf920902-067-p2s12Cw33</LM>
 </w.rf>
 <form>van</form>
-<tag lemma="vana" src="orig" selected="1">NNFP2-----A----</tag>
+<tag>
+<AM lemma="vana" src="orig">NNFP2-----A----</AM>
+<AM lemma="van-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-mf920902-067-p2s12Cw34">
 <src.rf>manual</src.rf>
@@ -3348,7 +3354,7 @@
 </w.rf>
 <form>Medveda</form>
 <tag>
-<AM lemma="Medved_;S" src="orig">NNMS4-----A----</AM>
+<AM lemma="Medved_;S" src="orig" selected="1">NNMS4-----A----</AM>
 <AM lemma="Medveda_;G" src="auto" recommended="1">NNFS1-----A----</AM>
 </tag>
 </m>

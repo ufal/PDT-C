@@ -51,6 +51,7 @@
 <AM lemma="srát" src="auto">Vi-S---2--A----</AM>
 <AM lemma="srát" src="auto">Vi-S---3--A---4</AM>
 <AM lemma="sérum" src="auto">NNNP2-----A----</AM>
+<AM lemma="Ser-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-mf930701-066-p1s1w5">
@@ -65,6 +66,7 @@
 <AM lemma="Uno_;R_^(vozidlo)" src="auto">NNNP2-----A----</AM>
 <AM lemma="un-1_,t_^(franc._člen,_souč._názvů_apod.)" src="auto" recommended="1">AAXXX----1A----</AM>
 <AM lemma="uno_;R_^(vozidlo)" src="auto">NNNP2-----A----</AM>
+<AM lemma="Un-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-mf930701-066-p1s1w6">
@@ -73,7 +75,10 @@
 <LM>w#w-mf930701-066-p1s1w6</LM>
 </w.rf>
 <form>Peyjalero</form>
-<tag lemma="Peyjalero_;K" src="orig" selected="1">NNNS1-----A----</tag>
+<tag>
+<AM lemma="Peyjalero_;K" src="orig">NNNS1-----A----</AM>
+<AM lemma="Peyjalero-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-mf930701-066-p1s1w7">
 <src.rf>manual</src.rf>

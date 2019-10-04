@@ -1196,7 +1196,10 @@
 <LM>w#w-ln94201-74-p4s1w21</LM>
 </w.rf>
 <form>L</form>
-<tag lemma="L-0_:B_;Y" src="orig" selected="1">NNMXX-----A---8</tag>
+<tag>
+<AM lemma="L-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
+<AM lemma="L-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln94201-74-p4s1w22">
 <src.rf>manual</src.rf>
@@ -1276,7 +1279,10 @@
 <LM>w#w-ln94201-74-p4s1w31</LM>
 </w.rf>
 <form>M</form>
-<tag lemma="M-0_:B_;Y" src="orig" selected="1">NNMXX-----A---8</tag>
+<tag>
+<AM lemma="M-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
+<AM lemma="M-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln94201-74-p4s1w32">
 <src.rf>manual</src.rf>
@@ -1630,7 +1636,10 @@
 <LM>w#w-ln94201-74-p4s2w21</LM>
 </w.rf>
 <form>Turek</form>
-<tag lemma="Turek_;E" src="auto" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Turek_;E" src="auto">NNMS1-----A----</AM>
+<AM lemma="Turek_;S_;E" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94201-74-p4s2w22">
 <src.rf>manual</src.rf>
@@ -1681,7 +1690,7 @@
 </w.rf>
 <form>Kingston</form>
 <tag>
-<AM lemma="Kingston_;S" src="orig">NNMS1-----A----</AM>
+<AM lemma="Kingston_;S" src="orig" selected="1">NNMS1-----A----</AM>
 <AM lemma="kingston" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="kingston" src="auto">NNIS4-----A----</AM>
 </tag>

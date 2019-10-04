@@ -281,7 +281,11 @@
 <LM>w#w-lnd92258-064-p3s2w26</LM>
 </w.rf>
 <form>Tchung</form>
-<tag lemma="Tchung_;Y" src="orig" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Tchung_;Y" src="orig">NNMS1-----A----</AM>
+<AM lemma="Tchung_;Y_;S" src="manual">NNMS1-----A----</AM>
+<AM lemma="Tchung_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92258-064-p3s2w27">
 <src.rf>manual</src.rf>
@@ -483,7 +487,10 @@
 <LM>w#w-lnd92258-064-p3s3w1</LM>
 </w.rf>
 <form>Uvedl</form>
-<tag lemma="uvést" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag>
+<AM lemma="uvést" src="orig">VpYS---XR-AA---</AM>
+<AM lemma="uvést_:W" src="manual" selected="1">VpYS---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-lnd92258-064-p3s3w2">
 <src.rf>manual</src.rf>
@@ -598,7 +605,7 @@
 <tag>
 <AM lemma="Tokyo_;G" src="orig">NNNS4-----A----</AM>
 <AM lemma="Tokio_;G" src="auto">NNNS1-----A----</AM>
-<AM lemma="Tokio_;G" src="auto" recommended="1">NNNS4-----A----</AM>
+<AM lemma="Tokio_;G" src="auto" recommended="1" selected="1">NNNS4-----A----</AM>
 <AM lemma="Tokio_;G" src="auto">NNNS5-----A----</AM>
 </tag>
 </m>
@@ -608,7 +615,10 @@
 <LM>w#w-lnd92258-064-p3s3w16</LM>
 </w.rf>
 <form>přimět</form>
-<tag lemma="přimět" src="orig" selected="1">Vf--------A----</tag>
+<tag>
+<AM lemma="přimět" src="orig">Vf--------A----</AM>
+<AM lemma="přimět_:W" src="manual" selected="1">Vf--------A----</AM>
+</tag>
 </m>
 <m id="m-lnd92258-064-p3s3w17">
 <src.rf>manual</src.rf>

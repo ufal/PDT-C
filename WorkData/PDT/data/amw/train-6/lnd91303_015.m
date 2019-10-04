@@ -20,7 +20,10 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>F</form>
-<tag lemma="F-0_:B_;Y" src="orig" selected="1">NNMXX-----A---8</tag>
+<tag>
+<AM lemma="F-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
+<AM lemma="F-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd91303-015-p1s1w2">
 <src.rf>manual</src.rf>
@@ -256,6 +259,7 @@
 <tag>
 <AM lemma="pesimismus" src="orig">NNIS7-----A----</AM>
 <AM lemma="pesimizmus" src="auto" recommended="1">NNIS7-----A----</AM>
+<AM lemma="pesimismus_,s_^(^DD**pesimizmus)" src="manual" selected="1">NNIS7-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd91303-015-p2s1Cw21">
@@ -461,7 +465,7 @@
 <AM lemma="dvoustranný" src="auto">AAIP1----1A---6</AM>
 <AM lemma="dvoustranný" src="auto">AAIP4----1A---6</AM>
 <AM lemma="dvoustranný" src="auto">AAIP5----1A---6</AM>
-<AM lemma="dvoustranný" src="auto" recommended="1">AAIS1----1A----</AM>
+<AM lemma="dvoustranný" src="auto" recommended="1" selected="1">AAIS1----1A----</AM>
 <AM lemma="dvoustranný" src="auto">AAIS4----1A----</AM>
 <AM lemma="dvoustranný" src="auto">AAIS5----1A----</AM>
 <AM lemma="dvoustranný" src="auto">AAMP1----1A---6</AM>
@@ -499,7 +503,10 @@
 <LM>w#w-lnd91303-015-p2s2w16</LM>
 </w.rf>
 <form>sice</form>
-<tag lemma="sice-2" src="auto" selected="1">Db-------------</tag>
+<tag>
+<AM lemma="sice-2" src="auto">Db-------------</AM>
+<AM lemma="sice-1_^(spojka;_připouští_se_určitá_fakta)" src="manual" selected="1">J^-------------</AM>
+</tag>
 </m>
 <m id="m-lnd91303-015-p2s2w17">
 <src.rf>manual</src.rf>
@@ -853,7 +860,10 @@
 <LM>w#w-lnd91303-015-p2s3w33</LM>
 </w.rf>
 <form>Sudetendeutsche</form>
-<tag lemma="Sudetendeutsche_;R_,t" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="Sudetendeutsche_;R_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="Sudetendeutsche-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-lnd91303-015-p2s3w34">
 <src.rf>manual</src.rf>
@@ -861,7 +871,10 @@
 <LM>w#w-lnd91303-015-p2s3w34</LM>
 </w.rf>
 <form>Zeitung</form>
-<tag lemma="Zeitung-1_;K_,t_^(souč._názvu_něm._novin)" src="orig" selected="1">NNFPX-----A----</tag>
+<tag>
+<AM lemma="Zeitung-1_;K_,t_^(souč._názvu_něm._novin)" src="orig">NNFPX-----A----</AM>
+<AM lemma="Zeitung-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-lnd91303-015-p2s3w35">
 <src.rf>manual</src.rf>

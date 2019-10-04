@@ -59,7 +59,10 @@
 <LM>w#w-ln94207-71-p1s1w6</LM>
 </w.rf>
 <form>NG</form>
-<tag lemma="NG_:B_;K_^(Národní_Galerie)" src="auto" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="NG_:B_;K_^(Národní_Galerie)" src="auto">NNFXX-----A---8</AM>
+<AM lemma="NG-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln94207-71-p1s1w7">
 <src.rf>manual</src.rf>
@@ -102,7 +105,7 @@
 </w.rf>
 <form>lin</form>
 <tag>
-<AM lemma="lin-99_:B_;S" src="orig">NNXXX-----A---8</AM>
+<AM lemma="lin-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</AM>
 <AM lemma="lino" src="auto" recommended="1">NNNP2-----A----</AM>
 </tag>
 </m>
@@ -810,7 +813,7 @@
 <form>ovšem</form>
 <tag>
 <AM lemma="ovšem-1_^(avšak,_však;_odporovací_spojka)" src="orig">J^-------------</AM>
-<AM lemma="ovšem" src="auto" recommended="1">TT-------------</AM>
+<AM lemma="ovšem" src="auto" recommended="1" selected="1">TT-------------</AM>
 </tag>
 </m>
 <m id="m-ln94207-71-p3s3w9">
@@ -1353,7 +1356,10 @@
 <LM>w#w-ln94207-71-p3s6w17</LM>
 </w.rf>
 <form>J</form>
-<tag lemma="J-0_:B_;Y" src="orig" selected="1">NNMXX-----A---8</tag>
+<tag>
+<AM lemma="J-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
+<AM lemma="J-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln94207-71-p3s6w18">
 <src.rf>manual</src.rf>
@@ -1475,7 +1481,10 @@
 <LM>w#w-ln94207-71-p4s1w12</LM>
 </w.rf>
 <form>NG</form>
-<tag lemma="NG_:B_;K_^(Národní_Galerie)" src="auto" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="NG_:B_;K_^(Národní_Galerie)" src="auto">NNFXX-----A---8</AM>
+<AM lemma="NG-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln94207-71-p4s1w13">
 <src.rf>manual</src.rf>
@@ -1501,7 +1510,10 @@
 <LM>w#w-ln94207-71-p4s2w2</LM>
 </w.rf>
 <form>NG</form>
-<tag lemma="NG_:B_;K_^(Národní_Galerie)" src="auto" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="NG_:B_;K_^(Národní_Galerie)" src="auto">NNFXX-----A---8</AM>
+<AM lemma="NG-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln94207-71-p4s2w3">
 <src.rf>manual</src.rf>

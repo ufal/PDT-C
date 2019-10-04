@@ -51,7 +51,10 @@
 <LM>w#w-ln94207-77-p1s1w5</LM>
 </w.rf>
 <form>stojí</form>
-<tag lemma="stát-3_^(někdo/něco_stojí,_např._na_nohou)" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag>
+<AM lemma="stát-3_^(někdo/něco_stojí,_např._na_nohou)" src="orig">VB-S---3P-AA---</AM>
+<AM lemma="stát-3_:T_^(někdo/něco_stojí,_např._na_nohou)" src="manual" selected="1">VB-S---3P-AA---</AM>
+</tag>
 </m>
 <m id="m-ln94207-77-p1s1w6">
 <src.rf>manual</src.rf>
@@ -99,7 +102,10 @@
 <LM>w#w-ln94207-77-p1s1w11</LM>
 </w.rf>
 <form>NDR</form>
-<tag lemma="NDR_:B_;G_;K" src="auto" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="NDR_:B_;G_;K" src="auto">NNFXX-----A---8</AM>
+<AM lemma="NDR-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94207-77-p1s1w12">
 <src.rf>manual</src.rf>
@@ -219,7 +225,10 @@
 <LM>w#w-ln94207-77-p1s1w26</LM>
 </w.rf>
 <form>umístěn</form>
-<tag lemma="umístit" src="orig" selected="1">VsYS---XX-AP---</tag>
+<tag>
+<AM lemma="umístit" src="orig">VsYS---XX-AP---</AM>
+<AM lemma="umístit_:W" src="manual" selected="1">VsYS---XX-AP---</AM>
+</tag>
 </m>
 <m id="m-ln94207-77-p1s1w27">
 <src.rf>manual</src.rf>
@@ -333,7 +342,10 @@
 <LM>w#w-ln94207-77-p1s2w10</LM>
 </w.rf>
 <form>vystavět</form>
-<tag lemma="vystavět" src="auto" selected="1">Vf--------A----</tag>
+<tag>
+<AM lemma="vystavět" src="auto">Vf--------A----</AM>
+<AM lemma="vystavět_:W" src="manual" selected="1">Vf--------A----</AM>
+</tag>
 </m>
 <m id="m-ln94207-77-p1s2w11">
 <src.rf>manual</src.rf>
@@ -416,6 +428,8 @@
 <AM lemma="mimo-1_:B" src="auto">RR--4---------8</AM>
 <AM lemma="minuta_:B" src="auto">NNFXX-----A---8</AM>
 <AM lemma="město_:B" src="auto">NNNXX-----A---8</AM>
+<AM lemma="metr" src="manual">NNIXX-----A----</AM>
+<AM lemma="metr" src="manual" selected="1">NNIXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-ln94207-77-p1s3w5">
@@ -464,7 +478,10 @@
 <LM>w#w-ln94207-77-p1s3w10</LM>
 </w.rf>
 <form>milionů</form>
-<tag lemma="milión`1000000" src="orig" selected="1">NNIP2-----A----</tag>
+<tag>
+<AM lemma="milión`1000000" src="orig">NNIP2-----A----</AM>
+<AM lemma="milion`1000000_,s_^(^DD**milión)" src="manual" selected="1">NNIP2-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94207-77-p1s3w11">
 <src.rf>manual</src.rf>

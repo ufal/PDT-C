@@ -77,7 +77,10 @@
 <LM>w#w-cmpr9416-027-p3s1w6</LM>
 </w.rf>
 <form>kuponová</form>
-<tag lemma="kupónový" src="orig" selected="1">AAFS1----1A----</tag>
+<tag>
+<AM lemma="kupónový" src="orig">AAFS1----1A----</AM>
+<AM lemma="kuponový_,s_^(^DD**kupónový)" src="manual" selected="1">AAFS1----1A----</AM>
+</tag>
 </m>
 <m id="m-cmpr9416-027-p3s1w7">
 <src.rf>manual</src.rf>
@@ -231,7 +234,10 @@
 <LM>w#w-cmpr9416-027-p3s2w11</LM>
 </w.rf>
 <form>kurz</form>
-<tag lemma="kurs" src="auto" selected="1">NNIS4-----A----</tag>
+<tag>
+<AM lemma="kurs" src="auto">NNIS4-----A----</AM>
+<AM lemma="kurz" src="manual" selected="1">NNIS4-----A----</AM>
+</tag>
 </m>
 <m id="m-cmpr9416-027-p3s2w12">
 <src.rf>manual</src.rf>
@@ -1121,7 +1127,10 @@
 <LM>w#w-cmpr9416-027-p4s5w12</LM>
 </w.rf>
 <form>mld</form>
-<tag lemma="miliarda`1000000000_:B" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="miliarda`1000000000_:B" src="orig">NNFXX-----A---8</AM>
+<AM lemma="miliarda`1000000000" src="manual" selected="1">NNFXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-cmpr9416-027-p4s5w13">
 <src.rf>manual</src.rf>
@@ -1178,7 +1187,10 @@
 <LM>w#w-cmpr9416-027-p4s5w19</LM>
 </w.rf>
 <form>milionu</form>
-<tag lemma="milión`1000000" src="orig" selected="1">NNIS2-----A----</tag>
+<tag>
+<AM lemma="milión`1000000" src="orig">NNIS2-----A----</AM>
+<AM lemma="milion`1000000_,s_^(^DD**milión)" src="manual" selected="1">NNIS2-----A----</AM>
+</tag>
 </m>
 <m id="m-cmpr9416-027-p4s5w20">
 <src.rf>manual</src.rf>

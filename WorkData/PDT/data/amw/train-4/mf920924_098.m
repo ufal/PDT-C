@@ -526,6 +526,7 @@
 <AM lemma="Hilton_;S" src="auto">NNMS1-----A----</AM>
 <AM lemma="Hilton_^(hotel)" src="auto">NNIS1-----A----</AM>
 <AM lemma="Hilton_^(hotel)" src="auto" recommended="1">NNIS4-----A----</AM>
+<AM lemma="Hilton-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-mf920924-098-p4s1w24">
@@ -534,7 +535,10 @@
 <LM>w#w-mf920924-098-p4s1w24</LM>
 </w.rf>
 <form>Headu</form>
-<tag lemma="Head_;G_,t" src="orig" selected="1">NNIS6-----A----</tag>
+<tag>
+<AM lemma="Head_;G_,t" src="orig">NNIS6-----A----</AM>
+<AM lemma="Head_;G" src="manual" selected="1">NNIS6-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920924-098-p4s1w25">
 <src.rf>manual</src.rf>
@@ -804,7 +808,10 @@
 <LM>w#w-mf920924-098-p5s1w4</LM>
 </w.rf>
 <form>NBA</form>
-<tag lemma="NBA_:B_;K" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="NBA_:B_;K" src="orig">NNFXX-----A---8</AM>
+<AM lemma="NBA-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-mf920924-098-p5s1w5">
 <src.rf>manual</src.rf>
@@ -812,7 +819,11 @@
 <LM>w#w-mf920924-098-p5s1w5</LM>
 </w.rf>
 <form>Golden</form>
-<tag lemma="Golden_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Golden_;S" src="orig">NNMS1-----A----</AM>
+<AM lemma="golden_,t" src="manual">AAXXX----1A----</AM>
+<AM lemma="Golden-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-mf920924-098-p5s1w6">
 <src.rf>manual</src.rf>
@@ -824,6 +835,7 @@
 <AM lemma="State_;K_,t" src="orig">AAXXX----1A----</AM>
 <AM lemma="State_;G_;K" src="auto" recommended="1">NNISX-----A----</AM>
 <AM lemma="status" src="auto">NNIS5-----A----</AM>
+<AM lemma="State-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-mf920924-098-p5s1w7">
@@ -832,7 +844,11 @@
 <LM>w#w-mf920924-098-p5s1w7</LM>
 </w.rf>
 <form>Warriors</form>
-<tag lemma="Warrior_;K_,t" src="orig" selected="1">NNMPX-----A----</tag>
+<tag>
+<AM lemma="Warrior_;K_,t" src="orig">NNMPX-----A----</AM>
+<AM lemma="warriors_,t" src="manual">NNXXX-----A----</AM>
+<AM lemma="Warriors-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-mf920924-098-p5s1w8">
 <src.rf>manual</src.rf>
@@ -1452,7 +1468,10 @@
 <LM>w#w-mf920924-098-p6s1w37</LM>
 </w.rf>
 <form>S</form>
-<tag lemma="S-0_:B_;Y" src="orig" selected="1">NNMXX-----A---8</tag>
+<tag>
+<AM lemma="S-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
+<AM lemma="S-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-mf920924-098-p6s1w38">
 <src.rf>manual</src.rf>
@@ -1817,6 +1836,7 @@
 <tag>
 <AM lemma="BK_:B_;K" src="orig">NNIXX-----A---8</AM>
 <AM lemma="BK_:B" src="auto" recommended="1">NNXXX-----A---8</AM>
+<AM lemma="BK-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-mf920924-098-p7s1w21">

@@ -170,6 +170,8 @@
 <AM lemma="Mandel_;S" src="auto">NNMS1-----A----</AM>
 <AM lemma="mandel" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="mandel" src="auto">NNIS4-----A----</AM>
+<AM lemma="Mandel_;S_,t" src="manual">NNMXX-----A----</AM>
+<AM lemma="Mandel-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-ln94207-108-p2s1w15">
@@ -178,7 +180,11 @@
 <LM>w#w-ln94207-108-p2s1w15</LM>
 </w.rf>
 <form>Quartet</form>
-<tag lemma="Quartet_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="Quartet_;K" src="orig">NNIS1-----A----</AM>
+<AM lemma="quartet_,t" src="manual">NNXXX-----A----</AM>
+<AM lemma="Quartet-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94207-108-p2s1w16">
 <src.rf>manual</src.rf>
@@ -372,7 +378,11 @@
 <LM>w#w-ln94207-108-p2s2w17</LM>
 </w.rf>
 <form>Niederösterreichsches</form>
-<tag lemma="Niederösterreichsches_;K" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="Niederösterreichsches_;K" src="orig">AAXXX----1A----</AM>
+<AM lemma="niederösterreichsches_,t" src="manual">AAXXX----1A----</AM>
+<AM lemma="Niederösterreichsches-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94207-108-p2s2w18">
 <src.rf>manual</src.rf>
@@ -380,7 +390,12 @@
 <LM>w#w-ln94207-108-p2s2w18</LM>
 </w.rf>
 <form>Tonkünstlerorchester</form>
-<tag lemma="Tonkünstlerorchester_;K" src="orig" selected="1">NNIXX-----A----</tag>
+<tag>
+<AM lemma="Tonkünstlerorchester_;K" src="orig">NNIXX-----A----</AM>
+<AM lemma="Tonkünstlerorchester_,t" src="manual">NNIXX-----A----</AM>
+<AM lemma="Tonkünstlerorchester_,t" src="manual">NNXXX-----A----</AM>
+<AM lemma="Tonkünstlerorchester-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94207-108-p2s2w19">
 <src.rf>manual</src.rf>
@@ -392,6 +407,8 @@
 <AM lemma="Wien_;G_;K" src="orig">NNFXX-----A----</AM>
 <AM lemma="Wien_;G" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Wien_;G" src="auto">NNIS4-----A----</AM>
+<AM lemma="Wien_;G_,t" src="manual">NNXXX-----A----</AM>
+<AM lemma="Wien-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-ln94207-108-p2s2w20">
@@ -549,6 +566,7 @@
 <tag>
 <AM lemma="Etc_:B_;K_,t" src="orig">NNNXX-----A---8</AM>
 <AM lemma="etc_:B_,t" src="auto" recommended="1">Db------------8</AM>
+<AM lemma="etc_:B" src="manual" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m-ln94207-108-p3s1w14">
@@ -605,7 +623,10 @@
 <LM>w#w-ln94207-108-p3s1w20</LM>
 </w.rf>
 <form>MCH</form>
-<tag lemma="MCH_:B_;K" src="orig" selected="1">AAXXX----1A---8</tag>
+<tag>
+<AM lemma="MCH_:B_;K" src="orig">AAXXX----1A---8</AM>
+<AM lemma="MCH-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94207-108-p3s1w21">
 <src.rf>manual</src.rf>
@@ -613,7 +634,10 @@
 <LM>w#w-ln94207-108-p3s1w21</LM>
 </w.rf>
 <form>Band</form>
-<tag lemma="Band_;K_;R" src="auto" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="Band_;K_;R" src="auto">NNIS1-----A----</AM>
+<AM lemma="Band-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94207-108-p3s1w22">
 <src.rf>manual</src.rf>
@@ -741,7 +765,10 @@
 <LM>w#w-ln94207-108-p3s1w37</LM>
 </w.rf>
 <form>FTVS</form>
-<tag lemma="FTVS-1_:B_^(fakulta_tělesné_výchovy_a_sportu)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="FTVS-1_:B_^(fakulta_tělesné_výchovy_a_sportu)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="FTVS-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94207-108-p3s1w38">
 <src.rf>manual</src.rf>

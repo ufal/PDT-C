@@ -83,7 +83,10 @@
 <LM>w#w-ln95047-060-p1s1w9</LM>
 </w.rf>
 <form>neslyšící</form>
-<tag lemma="slyšící_^(*3et)" src="orig" selected="1">AGMP4-----N----</tag>
+<tag>
+<AM lemma="slyšící_^(*3et)" src="orig">AGMP4-----N----</AM>
+<AM lemma="neslyšící-1" src="manual" selected="1">NNMP4-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95047-060-p1s1w10">
 <src.rf>manual</src.rf>
@@ -109,7 +112,10 @@
 <LM>w#w-ln95047-060-p2s1w2</LM>
 </w.rf>
 <form>č</form>
-<tag lemma="číslo_:B" src="orig" selected="1">NNNXX-----A---8</tag>
+<tag>
+<AM lemma="číslo_:B" src="orig">NNNXX-----A---8</AM>
+<AM lemma="číslo" src="manual" selected="1">NNNXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln95047-060-p2s1w3">
 <src.rf>manual</src.rf>
@@ -189,7 +195,10 @@
 <LM>w#w-ln95047-060-p2s1w12</LM>
 </w.rf>
 <form>neslyšícím</form>
-<tag lemma="slyšící_^(*3et)" src="orig" selected="1">AGMP3-----N----</tag>
+<tag>
+<AM lemma="slyšící_^(*3et)" src="orig">AGMP3-----N----</AM>
+<AM lemma="neslyšící-1" src="manual" selected="1">NNMP3-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95047-060-p2s1w13">
 <src.rf>manual</src.rf>
@@ -229,7 +238,10 @@
 <LM>w#w-ln95047-060-p2s1w17</LM>
 </w.rf>
 <form>tj</form>
-<tag lemma="tj-1_:B_^(to_je/jest)" src="orig" selected="1">J^------------8</tag>
+<tag>
+<AM lemma="tj-1_:B_^(to_je/jest)" src="orig">J^------------8</AM>
+<AM lemma="tj-1_:B_^(to_je/jest)" src="manual" selected="1">J^-------------</AM>
+</tag>
 </m>
 <m id="m-ln95047-060-p2s1w18">
 <src.rf>manual</src.rf>
@@ -343,7 +355,10 @@
 <LM>w#w-ln95047-060-p3s1w8</LM>
 </w.rf>
 <form>neslyšícím</form>
-<tag lemma="slyšící_^(*3et)" src="orig" selected="1">AGMP3-----N----</tag>
+<tag>
+<AM lemma="slyšící_^(*3et)" src="orig">AGMP3-----N----</AM>
+<AM lemma="neslyšící-1" src="manual" selected="1">NNMP3-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95047-060-p3s1w9">
 <src.rf>manual</src.rf>
@@ -745,7 +760,10 @@
 <LM>w#w-ln95047-060-p3s2w22</LM>
 </w.rf>
 <form>neslyšících</form>
-<tag lemma="slyšící_^(*3et)" src="orig" selected="1">AGMP2-----N----</tag>
+<tag>
+<AM lemma="slyšící_^(*3et)" src="orig">AGMP2-----N----</AM>
+<AM lemma="neslyšící-1" src="manual" selected="1">NNMP2-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95047-060-p3s2w23">
 <src.rf>manual</src.rf>
@@ -1139,7 +1157,10 @@
 <LM>w#w-ln95047-060-p3s3w18</LM>
 </w.rf>
 <form>neslyšících</form>
-<tag lemma="slyšící_^(*3et)" src="orig" selected="1">AGMP2-----N----</tag>
+<tag>
+<AM lemma="slyšící_^(*3et)" src="orig">AGMP2-----N----</AM>
+<AM lemma="neslyšící-1" src="manual" selected="1">NNMP2-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95047-060-p3s3w19">
 <src.rf>manual</src.rf>
@@ -1917,7 +1938,7 @@
 <form>třeba</form>
 <tag>
 <AM lemma="třeba-1" src="orig">ACNS------A----</AM>
-<AM lemma="třeba-2" src="auto" recommended="1">Db-------------</AM>
+<AM lemma="třeba-2" src="auto" recommended="1" selected="1">Db-------------</AM>
 <AM lemma="třeba-3" src="auto">TT-------------</AM>
 </tag>
 </m>
@@ -2291,7 +2312,10 @@
 <LM>w#w-ln95047-060-p4s3Aw4</LM>
 </w.rf>
 <form>versus</form>
-<tag lemma="versus_,t" src="orig" selected="1">RR--1----------</tag>
+<tag>
+<AM lemma="versus_,t" src="orig">RR--1----------</AM>
+<AM lemma="versus" src="manual" selected="1">RR--1----------</AM>
+</tag>
 </m>
 <m id="m-ln95047-060-p4s3Aw5">
 <src.rf>manual</src.rf>
@@ -2357,7 +2381,10 @@
 <LM>w#w-ln95047-060-p4s3Bw5</LM>
 </w.rf>
 <form>neslyšících</form>
-<tag lemma="slyšící_^(*3et)" src="orig" selected="1">AGMP2-----N----</tag>
+<tag>
+<AM lemma="slyšící_^(*3et)" src="orig">AGMP2-----N----</AM>
+<AM lemma="neslyšící-1" src="manual" selected="1">NNMP2-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95047-060-p4s3Bw6">
 <src.rf>manual</src.rf>
@@ -2453,7 +2480,10 @@
 <LM>w#w-ln95047-060-p4s3Bw17</LM>
 </w.rf>
 <form>neslyšících</form>
-<tag lemma="slyšící_^(*3et)" src="orig" selected="1">AGMP2-----N----</tag>
+<tag>
+<AM lemma="slyšící_^(*3et)" src="orig">AGMP2-----N----</AM>
+<AM lemma="neslyšící-1" src="manual" selected="1">NNMP2-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95047-060-p4s3Bw18">
 <src.rf>manual</src.rf>
@@ -2479,7 +2509,10 @@
 <LM>w#w-ln95047-060-p4s4w2</LM>
 </w.rf>
 <form>oralismu</form>
-<tag lemma="oralismus" src="orig" selected="1">NNIS2-----A----</tag>
+<tag>
+<AM lemma="oralismus" src="orig">NNIS2-----A----</AM>
+<AM lemma="oralismus_,s_^(^DD**oralizmus)" src="manual" selected="1">NNIS2-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95047-060-p4s4w3">
 <src.rf>manual</src.rf>
@@ -2567,7 +2600,10 @@
 <LM>w#w-ln95047-060-p4s4w13</LM>
 </w.rf>
 <form>neslyšících</form>
-<tag lemma="slyšící_^(*3et)" src="orig" selected="1">AGMP2-----N----</tag>
+<tag>
+<AM lemma="slyšící_^(*3et)" src="orig">AGMP2-----N----</AM>
+<AM lemma="neslyšící-1" src="manual" selected="1">NNMP2-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95047-060-p4s4w14">
 <src.rf>manual</src.rf>
@@ -2915,7 +2951,7 @@
 <form>vůbec</form>
 <tag>
 <AM lemma="vůbec" src="orig">Db-------------</AM>
-<AM lemma="vůbec" src="auto" recommended="1">TT-------------</AM>
+<AM lemma="vůbec" src="auto" recommended="1" selected="1">TT-------------</AM>
 </tag>
 </m>
 <m id="m-ln95047-060-p4s5w29">
@@ -3312,7 +3348,11 @@
 <LM>w#w-ln95047-060-p4s7w13</LM>
 </w.rf>
 <form>neslyšících</form>
-<tag lemma="slyšící_^(*3et)" src="orig" selected="1">AGMP2-----N----</tag>
+<tag>
+<AM lemma="slyšící_^(*3et)" src="orig">AGMP2-----N----</AM>
+<AM lemma="neslyšící" src="manual">NNMP2-----A----</AM>
+<AM lemma="neslyšící-1" src="manual" selected="1">NNMP2-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95047-060-p4s7w14">
 <src.rf>manual</src.rf>
@@ -3370,7 +3410,10 @@
 <LM>w#w-ln95047-060-p4s8w6</LM>
 </w.rf>
 <form>neslyšícím</form>
-<tag lemma="slyšící_^(*3et)" src="orig" selected="1">AGMP3-----N----</tag>
+<tag>
+<AM lemma="slyšící_^(*3et)" src="orig">AGMP3-----N----</AM>
+<AM lemma="neslyšící-1" src="manual" selected="1">NNMP3-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95047-060-p4s8w7">
 <src.rf>manual</src.rf>
@@ -3729,7 +3772,7 @@
 <tag>
 <AM lemma="tedy" src="orig">Db-------------</AM>
 <AM lemma="tedy-1" src="auto">TT-------------</AM>
-<AM lemma="tedy-2" src="auto" recommended="1">J^-------------</AM>
+<AM lemma="tedy-2" src="auto" recommended="1" selected="1">J^-------------</AM>
 </tag>
 </m>
 <m id="m-ln95047-060-p4s10w4">
@@ -3876,7 +3919,10 @@
 <LM>w#w-ln95047-060-p4s11w3</LM>
 </w.rf>
 <form>neslyšících</form>
-<tag lemma="slyšící_^(*3et)" src="orig" selected="1">AGMP2-----N----</tag>
+<tag>
+<AM lemma="slyšící_^(*3et)" src="orig">AGMP2-----N----</AM>
+<AM lemma="neslyšící-1" src="manual" selected="1">NNMP2-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95047-060-p4s11w4">
 <src.rf>manual</src.rf>
@@ -4216,7 +4262,10 @@
 <LM>w#w-ln95047-060-p4s13w9</LM>
 </w.rf>
 <form>neslyšící</form>
-<tag lemma="slyšící_^(*3et)" src="orig" selected="1">AGMP1-----N----</tag>
+<tag>
+<AM lemma="slyšící_^(*3et)" src="orig">AGMP1-----N----</AM>
+<AM lemma="neslyšící-1" src="manual" selected="1">NNMP1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95047-060-p4s13w10">
 <src.rf>manual</src.rf>
@@ -4308,7 +4357,10 @@
 <LM>w#w-ln95047-060-p4s15w2</LM>
 </w.rf>
 <form>neslyšících</form>
-<tag lemma="slyšící_^(*3et)" src="orig" selected="1">AGMP2-----N----</tag>
+<tag>
+<AM lemma="slyšící_^(*3et)" src="orig">AGMP2-----N----</AM>
+<AM lemma="neslyšící-1" src="manual" selected="1">NNMP2-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95047-060-p4s15w3">
 <src.rf>manual</src.rf>
@@ -4960,7 +5012,7 @@
 <AM lemma="taka-1_;L" src="auto">NNFP4-----A----</AM>
 <AM lemma="taka-1_;L" src="auto">NNFP5-----A----</AM>
 <AM lemma="taka-1_;L" src="auto">NNFS2-----A----</AM>
-<AM lemma="taky" src="auto" recommended="1">Db-------------</AM>
+<AM lemma="taky" src="auto" recommended="1" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m-ln95047-060-p4s18w32">
@@ -5313,7 +5365,7 @@
 <form>totiž</form>
 <tag>
 <AM lemma="totiž" src="orig">Db-------------</AM>
-<AM lemma="totiž-1" src="auto" recommended="1">J^-------------</AM>
+<AM lemma="totiž-1" src="auto" recommended="1" selected="1">J^-------------</AM>
 <AM lemma="totiž-2" src="auto">TT-------------</AM>
 </tag>
 </m>
@@ -5413,7 +5465,7 @@
 <form>nejen</form>
 <tag>
 <AM lemma="nejen" src="orig">TT-------------</AM>
-<AM lemma="nejen" src="auto" recommended="1">Db-------------</AM>
+<AM lemma="nejen" src="auto" recommended="1" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m-ln95047-060-p5s2w17">
@@ -5834,7 +5886,10 @@
 <LM>w#w-ln95047-060-p5s4w7</LM>
 </w.rf>
 <form>kursech</form>
-<tag lemma="kurs" src="auto" selected="1">NNIP6-----A----</tag>
+<tag>
+<AM lemma="kurs" src="auto">NNIP6-----A----</AM>
+<AM lemma="kurs_,s_^(^DD**kurz)" src="manual" selected="1">NNIP6-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95047-060-p5s4w8">
 <src.rf>manual</src.rf>
@@ -5866,7 +5921,10 @@
 <LM>w#w-ln95047-060-p5s4w11</LM>
 </w.rf>
 <form>neslyšících</form>
-<tag lemma="slyšící_^(*3et)" src="orig" selected="1">AGMP2-----N----</tag>
+<tag>
+<AM lemma="slyšící_^(*3et)" src="orig">AGMP2-----N----</AM>
+<AM lemma="neslyšící-1" src="manual" selected="1">NNMP2-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95047-060-p5s4w12">
 <src.rf>manual</src.rf>
@@ -5890,7 +5948,10 @@
 <LM>w#w-ln95047-060-p5s4w14</LM>
 </w.rf>
 <form>neslyšících</form>
-<tag lemma="slyšící_^(*3et)" src="orig" selected="1">AGMP2-----N----</tag>
+<tag>
+<AM lemma="slyšící_^(*3et)" src="orig">AGMP2-----N----</AM>
+<AM lemma="neslyšící-1" src="manual" selected="1">NNMP2-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95047-060-p5s4w15">
 <src.rf>manual</src.rf>
@@ -6306,7 +6367,10 @@
 <LM>w#w-ln95047-060-p5s5w23</LM>
 </w.rf>
 <form>mj</form>
-<tag lemma="mj-1_:B_^(mimo_jiné)" src="orig" selected="1">Db------------8</tag>
+<tag>
+<AM lemma="mj-1_:B_^(mimo_jiné)" src="orig">Db------------8</AM>
+<AM lemma="mj-1_:B_^(mimo_jiné)" src="manual" selected="1">Db-------------</AM>
+</tag>
 </m>
 <m id="m-ln95047-060-p5s5w24">
 <src.rf>manual</src.rf>
@@ -6426,7 +6490,10 @@
 <LM>w#w-ln95047-060-p5s5w38</LM>
 </w.rf>
 <form>FF</form>
-<tag lemma="FF_:B_;K_;u_^(Fil._fakulta)" src="auto" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="FF_:B_;K_;u_^(Fil._fakulta)" src="auto">NNFXX-----A---8</AM>
+<AM lemma="FF_:B_;K_^(Fil._fakulta)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95047-060-p5s5w39">
 <src.rf>manual</src.rf>
@@ -6434,7 +6501,10 @@
 <LM>w#w-ln95047-060-p5s5w39</LM>
 </w.rf>
 <form>UK</form>
-<tag lemma="UK-1_:B_;K_^(Univerzita_Karlova_Praha)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="UK-1_:B_;K_^(Univerzita_Karlova_Praha)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="UK-1_:B_;K_^(Univerzita_Karlova_Praha)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95047-060-p5s5w40">
 <src.rf>manual</src.rf>
@@ -6508,7 +6578,10 @@
 <LM>w#w-ln95047-060-p6s1w9</LM>
 </w.rf>
 <form>neslyšící</form>
-<tag lemma="slyšící_^(*3et)" src="orig" selected="1">AGMP1-----N----</tag>
+<tag>
+<AM lemma="slyšící_^(*3et)" src="orig">AGMP1-----N----</AM>
+<AM lemma="neslyšící-1" src="manual" selected="1">NNMP1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95047-060-p6s1w10">
 <src.rf>manual</src.rf>

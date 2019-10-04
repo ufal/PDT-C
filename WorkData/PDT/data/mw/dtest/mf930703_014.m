@@ -27,7 +27,10 @@
 <LM>w#w-mf930703-014-p1s1w2</LM>
 </w.rf>
 <form>ČSSD</form>
-<tag lemma="ČSSD-1_:B_;K_;p_^(Česká_strana_sociálně-demokratická)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ČSSD-1_:B_;K_;p_^(Česká_strana_sociálně-demokratická)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČSSD-1_:B_;K_^(Česká_strana_sociálně-demokratická)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930703-014-p1s1w3">
 <src.rf>manual</src.rf>
@@ -192,6 +195,7 @@
 <tag>
 <AM lemma="Prager_;R" src="orig">AAXXX----1A----</AM>
 <AM lemma="Prager_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Prager-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-mf930703-014-p1s2w8">
@@ -200,7 +204,10 @@
 <LM>w#w-mf930703-014-p1s2w8</LM>
 </w.rf>
 <form>Wochenblatt</form>
-<tag lemma="Wochenblatt_;R" src="orig" selected="1">NNIXX-----A----</tag>
+<tag>
+<AM lemma="Wochenblatt_;R" src="orig">NNIXX-----A----</AM>
+<AM lemma="Wochenblatt-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-mf930703-014-p1s2w9">
 <src.rf>manual</src.rf>

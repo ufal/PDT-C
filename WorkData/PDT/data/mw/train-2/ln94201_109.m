@@ -851,7 +851,11 @@
 <LM>w#w-ln94201-109-p3s4w9</LM>
 </w.rf>
 <form>The</form>
-<tag lemma="the-1_,t_^(obv._souč._anglických_názvů,_urč._člen)" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="the-1_,t_^(obv._souč._anglických_názvů,_urč._člen)" src="orig">AAXXX----1A----</AM>
+<AM lemma="the-1_,t_^(angl._urč._člen)" src="manual">AAXXX----1A----</AM>
+<AM lemma="The-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94201-109-p3s4w10">
 <src.rf>manual</src.rf>
@@ -864,6 +868,7 @@
 <AM lemma="New-1_;G_,t_^(součást_míst._jmen)" src="auto" recommended="1">AAXXX----1A----</AM>
 <AM lemma="New-2_;m_,t_^(angl._nový,_souč._ost._názvů)" src="auto">AAXXX----1A----</AM>
 <AM lemma="new-2_,t_^(angl._nový)" src="auto">AAXXX----1A----</AM>
+<AM lemma="New-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-ln94201-109-p3s4w11">
@@ -872,7 +877,11 @@
 <LM>w#w-ln94201-109-p3s4w11</LM>
 </w.rf>
 <form>Republic</form>
-<tag lemma="Republic_;R_,t" src="orig" selected="1">NNFXX-----A----</tag>
+<tag>
+<AM lemma="Republic_;R_,t" src="orig">NNFXX-----A----</AM>
+<AM lemma="republic_,t" src="manual">NNXXX-----A----</AM>
+<AM lemma="Republic-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94201-109-p3s4w12">
 <src.rf>manual</src.rf>
@@ -888,7 +897,11 @@
 <LM>w#w-ln94201-109-p3s4w13</LM>
 </w.rf>
 <form>The</form>
-<tag lemma="the-1_,t_^(obv._souč._anglických_názvů,_urč._člen)" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="the-1_,t_^(obv._souč._anglických_názvů,_urč._člen)" src="orig">AAXXX----1A----</AM>
+<AM lemma="the-1_,t_^(angl._urč._člen)" src="manual">AAXXX----1A----</AM>
+<AM lemma="The-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94201-109-p3s4w14">
 <src.rf>manual</src.rf>
@@ -896,7 +909,10 @@
 <LM>w#w-ln94201-109-p3s4w14</LM>
 </w.rf>
 <form>New</form>
-<tag lemma="New-1_;G_,t_^(součást_míst._jmen)" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="New-1_;G_,t_^(součást_míst._jmen)" src="orig">AAXXX----1A----</AM>
+<AM lemma="New-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94201-109-p3s4w15">
 <src.rf>manual</src.rf>
@@ -909,6 +925,7 @@
 <AM lemma="York-1_;S" src="auto">NNMS1-----A----</AM>
 <AM lemma="York-2_;G" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="York-2_;G" src="auto">NNIS4-----A----</AM>
+<AM lemma="York-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-ln94201-109-p3s4w16">
@@ -917,7 +934,10 @@
 <LM>w#w-ln94201-109-p3s4w16</LM>
 </w.rf>
 <form>Review</form>
-<tag lemma="Review-1_;K_,t_^(souč._názvu_časopisů)" src="orig" selected="1">NNIXX-----A----</tag>
+<tag>
+<AM lemma="Review-1_;K_,t_^(souč._názvu_časopisů)" src="orig">NNIXX-----A----</AM>
+<AM lemma="Review-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94201-109-p3s4w17">
 <src.rf>manual</src.rf>
@@ -925,7 +945,10 @@
 <LM>w#w-ln94201-109-p3s4w17</LM>
 </w.rf>
 <form>of</form>
-<tag lemma="of-1_,t_^(obv._souč._anglických_názvů,_předl._2._p.)" src="orig" selected="1">RR--X----------</tag>
+<tag>
+<AM lemma="of-1_,t_^(obv._souč._anglických_názvů,_předl._2._p.)" src="orig">RR--X----------</AM>
+<AM lemma="of-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94201-109-p3s4w18">
 <src.rf>manual</src.rf>
@@ -933,7 +956,10 @@
 <LM>w#w-ln94201-109-p3s4w18</LM>
 </w.rf>
 <form>Books</form>
-<tag lemma="Book_;R_,t" src="orig" selected="1">NNFPX-----A----</tag>
+<tag>
+<AM lemma="Book_;R_,t" src="orig">NNFPX-----A----</AM>
+<AM lemma="Books-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94201-109-p3s4w19">
 <src.rf>manual</src.rf>
@@ -1081,7 +1107,10 @@
 <LM>w#w-ln94201-109-p4s2w8</LM>
 </w.rf>
 <form>New</form>
-<tag lemma="New-1_;G_,t_^(součást_míst._jmen)" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="New-1_;G_,t_^(součást_míst._jmen)" src="orig">AAXXX----1A----</AM>
+<AM lemma="New-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94201-109-p4s2w9">
 <src.rf>manual</src.rf>
@@ -1265,7 +1294,10 @@
 <LM>w#w-ln94201-109-p4s2w31</LM>
 </w.rf>
 <form>komunismu</form>
-<tag lemma="komunismus" src="orig" selected="1">NNIS2-----A----</tag>
+<tag>
+<AM lemma="komunismus" src="orig">NNIS2-----A----</AM>
+<AM lemma="komunismus_,s_^(^DD**komunizmus)" src="manual" selected="1">NNIS2-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94201-109-p4s2w32">
 <src.rf>manual</src.rf>
@@ -2127,7 +2159,10 @@
 <LM>w#w-ln94201-109-p6s3w5</LM>
 </w.rf>
 <form>komunismus</form>
-<tag lemma="komunismus" src="orig" selected="1">NNIS4-----A----</tag>
+<tag>
+<AM lemma="komunismus" src="orig">NNIS4-----A----</AM>
+<AM lemma="komunismus_,s_^(^DD**komunizmus)" src="manual" selected="1">NNIS4-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94201-109-p6s3w6">
 <src.rf>manual</src.rf>
@@ -3067,7 +3102,10 @@
 <LM>w#w-ln94201-109-p6s9w4</LM>
 </w.rf>
 <form>prostě</form>
-<tag lemma="prostě-1" src="auto" selected="1">Dg-------1A----</tag>
+<tag>
+<AM lemma="prostě-1" src="auto">Dg-------1A----</AM>
+<AM lemma="prostě-2" src="manual" selected="1">TT-------------</AM>
+</tag>
 </m>
 <m id="m-ln94201-109-p6s9w5">
 <src.rf>manual</src.rf>
@@ -3230,6 +3268,7 @@
 <AM lemma="stalinizmus" src="auto" recommended="1">NNIS2-----A----</AM>
 <AM lemma="stalinizmus" src="auto">NNIS3-----A----</AM>
 <AM lemma="stalinizmus" src="auto">NNIS6-----A----</AM>
+<AM lemma="stalinismus_,s_^(^DD**stalinizmus)" src="manual" selected="1">NNIS2-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94201-109-p6s12w8">
@@ -3659,6 +3698,7 @@
 <AM lemma="stalinizmus" src="auto" recommended="1">NNIS2-----A----</AM>
 <AM lemma="stalinizmus" src="auto">NNIS3-----A----</AM>
 <AM lemma="stalinizmus" src="auto">NNIS6-----A----</AM>
+<AM lemma="stalinismus_,s_^(^DD**stalinizmus)" src="manual" selected="1">NNIS2-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94201-109-p6s16w3">

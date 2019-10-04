@@ -35,7 +35,10 @@
 <LM>w#w-mf920902-140-p1s1Aw3</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-2" src="auto" selected="1">Dg-------2A----</tag>
+<tag>
+<AM lemma="hodně-2" src="auto">Dg-------2A----</AM>
+<AM lemma="hodně-3" src="manual" selected="1">Dg-------2A----</AM>
+</tag>
 </m>
 <m id="m-mf920902-140-p1s1Aw4">
 <src.rf>manual</src.rf>
@@ -119,7 +122,10 @@
 <LM>w#w-mf920902-140-p2s1w1</LM>
 </w.rf>
 <form>Sofia</form>
-<tag lemma="Sofie-1_;G" src="orig" selected="1">NNFS1-----A---1</tag>
+<tag>
+<AM lemma="Sofie-1_;G" src="orig">NNFS1-----A---1</AM>
+<AM lemma="Sofia_;G_,s_^(^DD**Sofie)" src="manual" selected="1">NNFS1-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920902-140-p2s1w2">
 <src.rf>manual</src.rf>
@@ -169,7 +175,10 @@
 <LM>w#w-mf920902-140-p2s2w5</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-2" src="auto" selected="1">Dg-------2A----</tag>
+<tag>
+<AM lemma="hodně-2" src="auto">Dg-------2A----</AM>
+<AM lemma="hodně-3" src="manual" selected="1">Dg-------2A----</AM>
+</tag>
 </m>
 <m id="m-mf920902-140-p2s2w6">
 <src.rf>manual</src.rf>
@@ -245,7 +254,7 @@
 <AM lemma="Trud-2_;R_^(noviny)" src="orig">NNIS1-----A----</AM>
 <AM lemma="Trud-1_;G" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Trud-1_;G" src="auto">NNIS4-----A----</AM>
-<AM lemma="Trud_;R_^(noviny)" src="auto">NNIS1-----A----</AM>
+<AM lemma="Trud_;R_^(noviny)" src="auto" selected="1">NNIS1-----A----</AM>
 <AM lemma="Trud_;R_^(noviny)" src="auto">NNIS4-----A----</AM>
 <AM lemma="Truda_;Y" src="auto">NNFP2-----A----</AM>
 <AM lemma="trud_,a_^(zármutek;;námaha;;zánětlivý_pupínek)" src="auto">NNIS1-----A----</AM>
@@ -350,7 +359,7 @@
 <form>přičemž</form>
 <tag>
 <AM lemma="přičemž" src="orig">J,-------------</AM>
-<AM lemma="přičemž" src="auto" recommended="1">Db-------------</AM>
+<AM lemma="přičemž" src="auto" recommended="1" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m-mf920902-140-p2s3w12">
@@ -375,7 +384,10 @@
 <LM>w#w-mf920902-140-p2s3w14</LM>
 </w.rf>
 <form>jen</form>
-<tag lemma="jen-1" src="auto" selected="1">TT-------------</tag>
+<tag>
+<AM lemma="jen-1" src="auto">TT-------------</AM>
+<AM lemma="jen-4_^(pouze)" src="manual" selected="1">Db-------------</AM>
+</tag>
 </m>
 <m id="m-mf920902-140-p2s3w15">
 <src.rf>manual</src.rf>

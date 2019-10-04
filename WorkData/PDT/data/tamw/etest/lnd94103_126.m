@@ -27,7 +27,10 @@
 <LM>w#w-lnd94103-126-p1s1w2</LM>
 </w.rf>
 <form>B</form>
-<tag lemma="b-3_^(označení_pomocí_písmene)" src="orig" selected="1">NNNXX-----A----</tag>
+<tag>
+<AM lemma="b-3_^(označení_pomocí_písmene)" src="orig">NNNXX-----A----</AM>
+<AM lemma="B-33_^(označení_pomocí_písmene)" src="manual" selected="1">NNNXX-----A----</AM>
+</tag>
 </m>
 </s>
 <s id="m-lnd94103-126-p1s3A">
@@ -103,7 +106,10 @@
 <LM>w#w-lnd94103-126-p1s3Bw6</LM>
 </w.rf>
 <form>ČR</form>
-<tag lemma="ČR-1_:B_;G_^(Česká_republika)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd94103-126-p1s3Bw7">
 <src.rf>manual</src.rf>
@@ -221,7 +227,7 @@
 <tag>
 <AM lemma="čtvrtfinále" src="orig">NNNP7-----A----</AM>
 <AM lemma="čtvrtfinále" src="auto">NNNP3-----A----</AM>
-<AM lemma="čtvrtfinále" src="auto" recommended="1">NNNS7-----A----</AM>
+<AM lemma="čtvrtfinále" src="auto" recommended="1" selected="1">NNNS7-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94103-126-p1s4Aw7">
@@ -254,7 +260,10 @@
 <LM>w#w-lnd94103-126-p1s4Aw10</LM>
 </w.rf>
 <form>optimismus</form>
-<tag lemma="optimismus" src="orig" selected="1">NNIS4-----A----</tag>
+<tag>
+<AM lemma="optimismus" src="orig">NNIS4-----A----</AM>
+<AM lemma="optimismus_,s_^(^DD**optimizmus)" src="manual" selected="1">NNIS4-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd94103-126-p1s4Aw11">
 <src.rf>manual</src.rf>
@@ -456,7 +465,10 @@
 <LM>w#w-lnd94103-126-p1s4Bw24</LM>
 </w.rf>
 <form>Nicklase</form>
-<tag lemma="Nicklas_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag>
+<AM lemma="Nicklas_;S" src="orig">NNMS2-----A----</AM>
+<AM lemma="Nicklas_;S_Y" src="manual" selected="1">NNMS2-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd94103-126-p1s4Bw25">
 <src.rf>manual</src.rf>
@@ -594,7 +606,10 @@
 <LM>w#w-lnd94103-126-p1s5w7</LM>
 </w.rf>
 <form>defenzívě</form>
-<tag lemma="defenzíva" src="orig" selected="1">NNFS6-----A----</tag>
+<tag>
+<AM lemma="defenzíva" src="orig">NNFS6-----A----</AM>
+<AM lemma="defenzíva_,s_^(^DD**defenziva)" src="manual" selected="1">NNFS6-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd94103-126-p1s5w8">
 <src.rf>manual</src.rf>

@@ -109,7 +109,10 @@
 <LM>w#w-ln95049-040-p2s1w6</LM>
 </w.rf>
 <form>má</form>
-<tag lemma="mít" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag>
+<AM lemma="mít" src="orig">VB-S---3P-AA---</AM>
+<AM lemma="mít_:T" src="manual" selected="1">VB-S---3P-AA---</AM>
+</tag>
 </m>
 <m id="m-ln95049-040-p2s1w7">
 <src.rf>manual</src.rf>
@@ -205,7 +208,10 @@
 <LM>w#w-ln95049-040-p2s1w18</LM>
 </w.rf>
 <form>uspět</form>
-<tag lemma="uspět" src="orig" selected="1">Vf--------A----</tag>
+<tag>
+<AM lemma="uspět" src="orig">Vf--------A----</AM>
+<AM lemma="uspět_:W" src="manual" selected="1">Vf--------A----</AM>
+</tag>
 </m>
 <m id="m-ln95049-040-p2s1w19">
 <src.rf>manual</src.rf>
@@ -773,6 +779,8 @@
 <AM lemma="Viper_;K_,t" src="orig">NNMPX-----A----</AM>
 <AM lemma="Vipers_;K" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Vipers_;K" src="auto">NNIS4-----A----</AM>
+<AM lemma="viper_,t" src="manual">NNXXX-----A----</AM>
+<AM lemma="Vipers-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-ln95049-040-p2s5w17">
@@ -789,7 +797,11 @@
 <LM>w#w-ln95049-040-p2s5w18</LM>
 </w.rf>
 <form>IHL</form>
-<tag lemma="IHL_:B_;m_,t" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="IHL_:B_;m_,t" src="orig">NNFXX-----A---8</AM>
+<AM lemma="IHL_:B" src="manual">NNXXX-----A---8</AM>
+<AM lemma="IHL-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95049-040-p2s5w19">
 <src.rf>manual</src.rf>
@@ -984,7 +996,10 @@
 <LM>w#w-ln95049-040-p2s6Aw13</LM>
 </w.rf>
 <form>hraje</form>
-<tag lemma="hrát" src="auto" selected="1">VB-S---3P-AA---</tag>
+<tag>
+<AM lemma="hrát" src="auto">VB-S---3P-AA---</AM>
+<AM lemma="hrát_:T" src="manual" selected="1">VB-S---3P-AA---</AM>
+</tag>
 </m>
 <m id="m-ln95049-040-p2s6Aw14">
 <src.rf>manual</src.rf>
@@ -1026,7 +1041,10 @@
 <LM>w#w-ln95049-040-p2s6Bw2</LM>
 </w.rf>
 <form>bra</form>
-<tag lemma="bra-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="bra-99_:B_;S" src="orig">NNXXX-----A---8</AM>
+<AM lemma="bra-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95049-040-p2s6Bw3">
 <src.rf>manual</src.rf>

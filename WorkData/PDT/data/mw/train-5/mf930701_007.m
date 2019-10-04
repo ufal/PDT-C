@@ -87,7 +87,7 @@
 <form>ovšem</form>
 <tag>
 <AM lemma="ovšem-1_^(avšak,_však;_odporovací_spojka)" src="orig">J^-------------</AM>
-<AM lemma="ovšem" src="auto" recommended="1">TT-------------</AM>
+<AM lemma="ovšem" src="auto" recommended="1" selected="1">TT-------------</AM>
 </tag>
 </m>
 <m id="m-mf930701-007-p2s1w5">
@@ -412,7 +412,10 @@
 <LM>w#w-mf930701-007-p3s2w4</LM>
 </w.rf>
 <form>a</form>
-<tag lemma="akciový_:B_^(jen_akciová_společnost)" src="orig" selected="1">AAXXX----1A---8</tag>
+<tag>
+<AM lemma="akciový_:B_^(jen_akciová_společnost)" src="orig">AAXXX----1A---8</AM>
+<AM lemma="akciový" src="manual" selected="1">AAFXX----1A---8</AM>
+</tag>
 </m>
 <m id="m-mf930701-007-p3s2w5">
 <src.rf>manual</src.rf>
@@ -428,7 +431,10 @@
 <LM>w#w-mf930701-007-p3s2w6</LM>
 </w.rf>
 <form>s</form>
-<tag lemma="společnost_:B" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="společnost_:B" src="orig">NNFXX-----A---8</AM>
+<AM lemma="společnost" src="manual" selected="1">NNFXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-mf930701-007-p3s2w7">
 <src.rf>manual</src.rf>
@@ -470,7 +476,10 @@
 <LM>w#w-mf930701-007-p3s3w4</LM>
 </w.rf>
 <form>Prášila</form>
-<tag lemma="prášil" src="orig" selected="1">NNMS2-----A----</tag>
+<tag>
+<AM lemma="prášil" src="orig">NNMS2-----A----</AM>
+<AM lemma="Prášil_;S" src="manual" selected="1">NNMS2-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930701-007-p3s3w5">
 <src.rf>manual</src.rf>
@@ -768,7 +777,10 @@
 <LM>w#w-mf930701-007-p4s1w15</LM>
 </w.rf>
 <form>a</form>
-<tag lemma="akciový_:B_^(jen_akciová_společnost)" src="orig" selected="1">AAXXX----1A---8</tag>
+<tag>
+<AM lemma="akciový_:B_^(jen_akciová_společnost)" src="orig">AAXXX----1A---8</AM>
+<AM lemma="akciový" src="manual" selected="1">AAFXX----1A---8</AM>
+</tag>
 </m>
 <m id="m-mf930701-007-p4s1w16">
 <src.rf>manual</src.rf>
@@ -784,7 +796,10 @@
 <LM>w#w-mf930701-007-p4s1w17</LM>
 </w.rf>
 <form>s</form>
-<tag lemma="společnost_:B" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="společnost_:B" src="orig">NNFXX-----A---8</AM>
+<AM lemma="společnost" src="manual" selected="1">NNFXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-mf930701-007-p4s1w18">
 <src.rf>manual</src.rf>

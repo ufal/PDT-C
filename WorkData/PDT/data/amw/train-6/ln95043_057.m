@@ -259,7 +259,7 @@
 <form>Plzeňačka</form>
 <tag>
 <AM lemma="Plzeňák_;E" src="orig">NNFS1-----A----</AM>
-<AM lemma="Plzeňačka_;E_^(^FM*4ák)" src="auto">NNFS1-----A----</AM>
+<AM lemma="Plzeňačka_;E_^(^FM*4ák)" src="auto" selected="1">NNFS1-----A----</AM>
 <AM lemma="plzeňačka" src="auto" recommended="1">NNFS1-----A----</AM>
 </tag>
 </m>
@@ -409,7 +409,7 @@
 <form>prsou</form>
 <tag>
 <AM lemma="prsa" src="orig">NNNP2-----A----</AM>
-<AM lemma="prsa" src="auto" recommended="1">NNNP2-----A---1</AM>
+<AM lemma="prsa" src="auto" recommended="1" selected="1">NNNP2-----A---1</AM>
 <AM lemma="prsa" src="auto">NNNP6-----A---1</AM>
 </tag>
 </m>

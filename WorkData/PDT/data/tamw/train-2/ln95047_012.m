@@ -385,7 +385,10 @@
 <LM>w#w-ln95047-012-p2s2w1</LM>
 </w.rf>
 <form>LN</form>
-<tag lemma="LN-1_:B_;R_^(Lidové_noviny,_deník)" src="orig" selected="1">NNFPX-----A---8</tag>
+<tag>
+<AM lemma="LN-1_:B_;R_^(Lidové_noviny,_deník)" src="orig">NNFPX-----A---8</AM>
+<AM lemma="LN-1_:B_;K_;R_^(Lidové_noviny)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95047-012-p2s2w2">
 <src.rf>manual</src.rf>
@@ -1482,7 +1485,10 @@
 <LM>w#w-ln95047-012-p2s10w3</LM>
 </w.rf>
 <form>č</form>
-<tag lemma="číslo_:B" src="orig" selected="1">NNNXX-----A---8</tag>
+<tag>
+<AM lemma="číslo_:B" src="orig">NNNXX-----A---8</AM>
+<AM lemma="číslo" src="manual" selected="1">NNNXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln95047-012-p2s10w4">
 <src.rf>manual</src.rf>
@@ -1883,7 +1889,7 @@
 <AM lemma="zkušená_^(jít_na_z._do_světa)" src="auto">NNFP7-----A----</AM>
 <AM lemma="zkušený" src="auto">AAFP7----1A----</AM>
 <AM lemma="zkušený" src="auto">AAIP7----1A----</AM>
-<AM lemma="zkušený" src="auto" recommended="1">AAMP7----1A----</AM>
+<AM lemma="zkušený" src="auto" recommended="1" selected="1">AAMP7----1A----</AM>
 <AM lemma="zkušený" src="auto">AANP7----1A----</AM>
 </tag>
 </m>

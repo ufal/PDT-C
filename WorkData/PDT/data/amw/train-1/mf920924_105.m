@@ -517,7 +517,10 @@
 <LM>w#w-mf920924-105-p4s2w16</LM>
 </w.rf>
 <form>min</form>
-<tag lemma="minuta_:B" src="auto" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="minuta_:B" src="auto">NNFXX-----A---8</AM>
+<AM lemma="minuta" src="manual" selected="1">NNFXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-mf920924-105-p4s2w17">
 <src.rf>manual</src.rf>
@@ -721,7 +724,10 @@
 <LM>w#w-mf920924-105-p5s1w2</LM>
 </w.rf>
 <form>Fiorentina</form>
-<tag lemma="Fiorentina_;K_;w_,t" src="auto" selected="1">NNFS1-----A----</tag>
+<tag>
+<AM lemma="Fiorentina_;K_;w_,t" src="auto">NNFS1-----A----</AM>
+<AM lemma="Fiorentina_;K" src="manual" selected="1">NNFS1-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920924-105-p5s1w3">
 <src.rf>manual</src.rf>
@@ -745,7 +751,10 @@
 <LM>w#w-mf920924-105-p5s1w5</LM>
 </w.rf>
 <form>Diega</form>
-<tag lemma="Diego_;S_;Y_,t" src="auto" selected="1">NNMS4-----A----</tag>
+<tag>
+<AM lemma="Diego_;S_;Y_,t" src="auto">NNMS4-----A----</AM>
+<AM lemma="Diego_;S_;Y" src="manual" selected="1">NNMS4-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920924-105-p5s1w6">
 <src.rf>manual</src.rf>

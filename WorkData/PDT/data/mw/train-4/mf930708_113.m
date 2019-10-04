@@ -53,7 +53,10 @@
 <LM>w#w-mf930708-113-p2s1w2</LM>
 </w.rf>
 <form>n</form>
-<tag lemma="nad-1_:B" src="orig" selected="1">RR--7---------8</tag>
+<tag>
+<AM lemma="nad-1_:B" src="orig">RR--7---------8</AM>
+<AM lemma="nad-1" src="manual" selected="1">RR--7---------8</AM>
+</tag>
 </m>
 <m id="m-mf930708-113-p2s1w3">
 <src.rf>manual</src.rf>
@@ -90,6 +93,7 @@
 <AM lemma="mimo-1_:B" src="auto">RR--4---------8</AM>
 <AM lemma="minuta_:B" src="auto">NNFXX-----A---8</AM>
 <AM lemma="město_:B" src="auto">NNNXX-----A---8</AM>
+<AM lemma="Mohan_;G" src="manual" selected="1">NNIXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-mf930708-113-p2s2w2">
@@ -593,7 +597,7 @@
 <tag>
 <AM lemma="tedy" src="orig">Db-------------</AM>
 <AM lemma="tedy-1" src="auto">TT-------------</AM>
-<AM lemma="tedy-2" src="auto" recommended="1">J^-------------</AM>
+<AM lemma="tedy-2" src="auto" recommended="1" selected="1">J^-------------</AM>
 </tag>
 </m>
 <m id="m-mf930708-113-p2s4w3">
@@ -757,6 +761,7 @@
 <tag>
 <AM lemma="USA_;G" src="orig">NNIPX-----A----</AM>
 <AM lemma="USA_:B_;K_,t_^(United_States_of_America)" src="auto" recommended="1">NNIPX-----A---8</AM>
+<AM lemma="USA_:B_;K_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-mf930708-113-p2s4w23">

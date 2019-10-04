@@ -189,7 +189,10 @@
 <LM>w#w-mf930708-174-p2s1w17</LM>
 </w.rf>
 <form>Dolomitech</form>
-<tag lemma="dolomit-1_,t_^(hornina)" src="auto" selected="1">NNIP6-----A----</tag>
+<tag>
+<AM lemma="dolomit-1_,t_^(hornina)" src="auto">NNIP6-----A----</AM>
+<AM lemma="Dolomity_;G" src="manual" selected="1">NNIP6-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930708-174-p2s1w18">
 <src.rf>manual</src.rf>
@@ -439,7 +442,10 @@
 <LM>w#w-mf930708-174-p2s2w19</LM>
 </w.rf>
 <form>km</form>
-<tag lemma="km-1`kilometr_:B" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="km-1`kilometr_:B" src="orig">NNIXX-----A---8</AM>
+<AM lemma="km-1`kilometr" src="manual" selected="1">NNIXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-mf930708-174-p2s2w20">
 <src.rf>manual</src.rf>
@@ -548,7 +554,7 @@
 <tag>
 <AM lemma="nalézt" src="orig">Vf--------A----</AM>
 <AM lemma="nalézt-1_^(někam)" src="auto" recommended="1">Vf--------A----</AM>
-<AM lemma="nalézt-2" src="auto">Vf--------A----</AM>
+<AM lemma="nalézt-2" src="auto" selected="1">Vf--------A----</AM>
 </tag>
 </m>
 <m id="m-mf930708-174-p2s3w10">

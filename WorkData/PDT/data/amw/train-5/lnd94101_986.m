@@ -153,7 +153,7 @@
 <form>totiž</form>
 <tag>
 <AM lemma="totiž" src="orig">Db-------------</AM>
-<AM lemma="totiž-1" src="auto" recommended="1">J^-------------</AM>
+<AM lemma="totiž-1" src="auto" recommended="1" selected="1">J^-------------</AM>
 <AM lemma="totiž-2" src="auto">TT-------------</AM>
 </tag>
 </m>
@@ -579,6 +579,11 @@
 <AM lemma="kůň" src="auto">NNMS5-----A----</AM>
 <AM lemma="kůň" src="auto">NNMS6-----A----</AM>
 </tag>
+<comment>
+<LM type="New Form">
+<text>koňmi</text>
+</LM>
+</comment>
 </m>
 <m id="m-lnd94101-986-p1s3w11">
 <src.rf>manual</src.rf>
@@ -746,7 +751,10 @@
 <LM>w#w-lnd94101-986-p1s3w31</LM>
 </w.rf>
 <form>Law</form>
-<tag lemma="Law_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Law_;S" src="orig">NNMS1-----A----</AM>
+<AM lemma="Law-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-lnd94101-986-p1s3w32">
 <src.rf>manual</src.rf>
@@ -754,7 +762,10 @@
 <LM>w#w-lnd94101-986-p1s3w32</LM>
 </w.rf>
 <form>Soziri</form>
-<tag lemma="Soziri_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Soziri_;S" src="orig">NNMS1-----A----</AM>
+<AM lemma="Soziri-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-lnd94101-986-p1s3w33">
 <src.rf>manual</src.rf>
@@ -794,7 +805,10 @@
 <LM>w#w-lnd94101-986-p1s3w37</LM>
 </w.rf>
 <form>Country</form>
-<tag lemma="country" src="orig" selected="1">NNFXX-----A----</tag>
+<tag>
+<AM lemma="country" src="orig">NNFXX-----A----</AM>
+<AM lemma="Country-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-lnd94101-986-p1s3w38">
 <src.rf>manual</src.rf>
@@ -802,7 +816,10 @@
 <LM>w#w-lnd94101-986-p1s3w38</LM>
 </w.rf>
 <form>Man</form>
-<tag lemma="man" src="orig" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="man" src="orig">NNMS1-----A----</AM>
+<AM lemma="Man-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-lnd94101-986-p1s3w39">
 <src.rf>manual</src.rf>
@@ -935,7 +952,7 @@
 <tag>
 <AM lemma="všechno" src="orig">PLXP6----------</AM>
 <AM lemma="všechen" src="auto">PLXP2----------</AM>
-<AM lemma="všechen" src="auto" recommended="1">PLXP6----------</AM>
+<AM lemma="všechen" src="auto" recommended="1" selected="1">PLXP6----------</AM>
 </tag>
 </m>
 <m id="m-lnd94101-986-p1s4w3">

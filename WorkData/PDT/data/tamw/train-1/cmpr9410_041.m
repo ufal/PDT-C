@@ -653,7 +653,10 @@
 <LM>w#w-cmpr9410-041-p6s1w10</LM>
 </w.rf>
 <form>jen</form>
-<tag lemma="jen-1" src="auto" selected="1">TT-------------</tag>
+<tag>
+<AM lemma="jen-1" src="auto">TT-------------</AM>
+<AM lemma="jen-4_^(pouze)" src="manual" selected="1">Db-------------</AM>
+</tag>
 </m>
 <m id="m-cmpr9410-041-p6s1w11">
 <src.rf>manual</src.rf>
@@ -1035,7 +1038,10 @@
 <LM>w#w-cmpr9410-041-p6s4w16</LM>
 </w.rf>
 <form>víc</form>
-<tag lemma="hodně-2" src="auto" selected="1">Dg-------2A---1</tag>
+<tag>
+<AM lemma="hodně-2" src="auto">Dg-------2A---1</AM>
+<AM lemma="hodně-3" src="manual" selected="1">Dg-------2A---1</AM>
+</tag>
 </m>
 <m id="m-cmpr9410-041-p6s4w17">
 <src.rf>manual</src.rf>
@@ -1313,7 +1319,10 @@
 <LM>w#w-cmpr9410-041-p8s1w2</LM>
 </w.rf>
 <form>kriteriem</form>
-<tag lemma="kritérium" src="orig" selected="1">NNNS7-----A----</tag>
+<tag>
+<AM lemma="kritérium" src="orig">NNNS7-----A----</AM>
+<AM lemma="kriterium_,s_^(^DD**kritérium)" src="manual" selected="1">NNNS7-----A----</AM>
+</tag>
 </m>
 <m id="m-cmpr9410-041-p8s1w3">
 <src.rf>manual</src.rf>
@@ -1421,7 +1430,10 @@
 <LM>w#w-cmpr9410-041-p8s3w2</LM>
 </w.rf>
 <form>sice</form>
-<tag lemma="sice-2" src="auto" selected="1">Db-------------</tag>
+<tag>
+<AM lemma="sice-2" src="auto">Db-------------</AM>
+<AM lemma="sice-1_^(spojka;_připouští_se_určitá_fakta)" src="manual" selected="1">J^-------------</AM>
+</tag>
 </m>
 <m id="m-cmpr9410-041-p8s3w3">
 <src.rf>manual</src.rf>
@@ -1713,7 +1725,10 @@
 <LM>w#w-cmpr9410-041-p8s5w15</LM>
 </w.rf>
 <form>ani</form>
-<tag lemma="ani-1" src="auto" selected="1">J^-------------</tag>
+<tag>
+<AM lemma="ani-1" src="auto">J^-------------</AM>
+<AM lemma="ani-2" src="manual" selected="1">TT-------------</AM>
+</tag>
 </m>
 <m id="m-cmpr9410-041-p8s5w16">
 <src.rf>manual</src.rf>
@@ -1886,7 +1901,10 @@
 <LM>w#w-cmpr9410-041-p8s7w2</LM>
 </w.rf>
 <form>margarin</form>
-<tag lemma="margarin" src="orig" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="margarin" src="orig">NNIS1-----A----</AM>
+<AM lemma="margarin_,s_^(^DD**margarín)" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-cmpr9410-041-p8s7w3">
 <src.rf>manual</src.rf>
@@ -1894,7 +1912,10 @@
 <LM>w#w-cmpr9410-041-p8s7w3</LM>
 </w.rf>
 <form>Rama</form>
-<tag lemma="Rama-1_;G" src="orig" selected="1">NNFS1-----A----</tag>
+<tag>
+<AM lemma="Rama-1_;G" src="orig">NNFS1-----A----</AM>
+<AM lemma="Rama-2_;R" src="manual" selected="1">NNFS1-----A----</AM>
+</tag>
 </m>
 <m id="m-cmpr9410-041-p8s7w4">
 <src.rf>manual</src.rf>
@@ -2000,7 +2021,10 @@
 <LM>w#w-cmpr9410-041-p9s1w5</LM>
 </w.rf>
 <form>hodně</form>
-<tag lemma="hodně-2_^(nezlobivý)_(*3ý-2)" src="auto" selected="1">Dg-------1A----</tag>
+<tag>
+<AM lemma="hodně-2_^(nezlobivý)_(*3ý-2)" src="auto">Dg-------1A----</AM>
+<AM lemma="hodně-1_^(hodně_+_2._p.,_hodně_peněz)" src="manual" selected="1">Ca--4----------</AM>
+</tag>
 </m>
 <m id="m-cmpr9410-041-p9s1w6">
 <src.rf>manual</src.rf>
@@ -2140,7 +2164,10 @@
 <LM>w#w-cmpr9410-041-p10s2w6</LM>
 </w.rf>
 <form>jen</form>
-<tag lemma="jen-1" src="auto" selected="1">TT-------------</tag>
+<tag>
+<AM lemma="jen-1" src="auto">TT-------------</AM>
+<AM lemma="jen-4_^(pouze)" src="manual" selected="1">Db-------------</AM>
+</tag>
 </m>
 <m id="m-cmpr9410-041-p10s2w7">
 <src.rf>manual</src.rf>
@@ -2452,7 +2479,10 @@
 <LM>w#w-cmpr9410-041-p10s6w3</LM>
 </w.rf>
 <form>Toto</form>
-<tag lemma="tento" src="orig" selected="1">PDNS1----------</tag>
+<tag>
+<AM lemma="tento" src="orig">PDNS1----------</AM>
+<AM lemma="Toto-2_,m" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-cmpr9410-041-p10s6w4">
 <src.rf>manual</src.rf>
@@ -2606,7 +2636,10 @@
 <LM>w#w-cmpr9410-041-p10s7w4</LM>
 </w.rf>
 <form>miliony</form>
-<tag lemma="milión`1000000" src="orig" selected="1">NNIP4-----A----</tag>
+<tag>
+<AM lemma="milión`1000000" src="orig">NNIP4-----A----</AM>
+<AM lemma="milion`1000000_,s_^(^DD**milión)" src="manual" selected="1">NNIP4-----A----</AM>
+</tag>
 </m>
 <m id="m-cmpr9410-041-p10s7w5">
 <src.rf>manual</src.rf>
@@ -3235,7 +3268,10 @@
 <LM>w#w-cmpr9410-041-p12s5w8</LM>
 </w.rf>
 <form>miliony</form>
-<tag lemma="milión`1000000" src="orig" selected="1">NNIP7-----A----</tag>
+<tag>
+<AM lemma="milión`1000000" src="orig">NNIP7-----A----</AM>
+<AM lemma="milion`1000000_,s_^(^DD**milión)" src="manual" selected="1">NNIP7-----A----</AM>
+</tag>
 </m>
 <m id="m-cmpr9410-041-p12s5w9">
 <src.rf>manual</src.rf>
@@ -3277,7 +3313,10 @@
 <LM>w#w-cmpr9410-041-p12s6w3</LM>
 </w.rf>
 <form>miliony</form>
-<tag lemma="milión`1000000" src="orig" selected="1">NNIP4-----A----</tag>
+<tag>
+<AM lemma="milión`1000000" src="orig">NNIP4-----A----</AM>
+<AM lemma="milion`1000000_,s_^(^DD**milión)" src="manual" selected="1">NNIP4-----A----</AM>
+</tag>
 </m>
 <m id="m-cmpr9410-041-p12s6w4">
 <src.rf>manual</src.rf>
@@ -3706,7 +3745,7 @@
 <AM lemma="Holický_;S" src="auto">NNMP1-----A---6</AM>
 <AM lemma="Holický_;S" src="auto">NNMP4-----A---6</AM>
 <AM lemma="Holický_;S" src="auto">NNMP5-----A---6</AM>
-<AM lemma="Holický_;S" src="auto">NNMS1-----A----</AM>
+<AM lemma="Holický_;S" src="auto" selected="1">NNMS1-----A----</AM>
 <AM lemma="Holický_;S" src="auto">NNMS5-----A----</AM>
 <AM lemma="holický" src="auto">AAFP1----1A---6</AM>
 <AM lemma="holický" src="auto">AAFP4----1A---6</AM>

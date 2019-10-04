@@ -79,7 +79,10 @@
 <LM>w#w-ln94209-82-p2s1Bw4</LM>
 </w.rf>
 <form>přijal</form>
-<tag lemma="přijmout" src="auto" selected="1">VpYS---XR-AA---</tag>
+<tag>
+<AM lemma="přijmout" src="auto">VpYS---XR-AA---</AM>
+<AM lemma="přijmout_:W" src="manual" selected="1">VpYS---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-ln94209-82-p2s1Bw5">
 <src.rf>manual</src.rf>
@@ -499,7 +502,10 @@
 <LM>w#w-ln94209-82-p2s3w3</LM>
 </w.rf>
 <form>MOV</form>
-<tag lemma="MOV_:B_;K_^(Mezinárodní_olympijský_výbor)" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="MOV_:B_;K_^(Mezinárodní_olympijský_výbor)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="MOV-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln94209-82-p2s3w4">
 <src.rf>manual</src.rf>
@@ -534,7 +540,7 @@
 <tag>
 <AM lemma="Alexandre_;Y" src="orig">NNMS1-----A---1</AM>
 <AM lemma="Alexandr_;Y" src="auto">NNMS5-----A----</AM>
-<AM lemma="Alexandre_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Alexandre_;Y" src="auto" recommended="1" selected="1">NNMS1-----A----</AM>
 <AM lemma="Alexandre_;Y" src="auto">NNMS5-----A----</AM>
 </tag>
 </m>
@@ -544,7 +550,10 @@
 <LM>w#w-ln94209-82-p2s3w8</LM>
 </w.rf>
 <form>de</form>
-<tag lemma="de_,t_^(z_franc._de,_zejm._ve_jménech)" src="orig" selected="1">RR--1----------</tag>
+<tag>
+<AM lemma="de_,t_^(z_franc._de,_zejm._ve_jménech)" src="orig">RR--1----------</AM>
+<AM lemma="de-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94209-82-p2s3w9">
 <src.rf>manual</src.rf>
@@ -555,6 +564,7 @@
 <tag>
 <AM lemma="Merode_;S" src="orig">NNMS1-----A----</AM>
 <AM lemma="Merode_;G" src="auto" recommended="1">NNNXX-----A----</AM>
+<AM lemma="Merode-2_;S" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94209-82-p2s3w10">

@@ -138,7 +138,10 @@
 <LM>w#w-ln95042-042-p2s1Cw3</LM>
 </w.rf>
 <form>fakt</form>
-<tag lemma="fakt-1" src="auto" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="fakt-1" src="auto">NNIS1-----A----</AM>
+<AM lemma="fakt-2" src="manual" selected="1">TT-------------</AM>
+</tag>
 </m>
 <m id="m-ln95042-042-p2s1Cw4">
 <src.rf>manual</src.rf>
@@ -272,6 +275,7 @@
 <AM lemma="Paris-2_;G" src="auto">NNFSX-----A----</AM>
 <AM lemma="Paris-3_;Y" src="auto" recommended="1">NNFSX-----A----</AM>
 <AM lemma="Paris_;S" src="auto">NNMS1-----A----</AM>
+<AM lemma="Paris-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-ln95042-042-p2s1Cw20">
@@ -283,6 +287,7 @@
 <tag>
 <AM lemma="Open-2_;m_,t" src="orig">NNNXX-----A----</AM>
 <AM lemma="Open-1_,t_^(v_názvu_např._sport._soutěží,_&quot;otevřený&quot;)" src="auto" recommended="1">AAXXX----1A----</AM>
+<AM lemma="Open-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-ln95042-042-p2s1Cw21">
@@ -573,7 +578,11 @@
 <LM>w#w-ln95042-042-p3s1w22</LM>
 </w.rf>
 <form>WTA</form>
-<tag lemma="WTA-1_:B_;K_,t_^(Women's_Tennis_Association)" src="auto" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="WTA-1_:B_;K_,t_^(Women's_Tennis_Association)" src="auto">NNFXX-----A---8</AM>
+<AM lemma="WTA-88_:B" src="manual">NNXXX-----A---8</AM>
+<AM lemma="WTA-1_:B_;K_^(Women's_Tennis_Association)" src="manual" selected="1">NNFXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln95042-042-p3s1w23">
 <src.rf>manual</src.rf>
@@ -1920,6 +1929,7 @@
 <tag>
 <AM lemma="Nokia_;K" src="orig">AAXXX----1A----</AM>
 <AM lemma="Nokia_;K" src="auto" recommended="1">NNFS1-----A----</AM>
+<AM lemma="Nokia-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-ln95042-042-p4s3w27">
@@ -1928,7 +1938,10 @@
 <LM>w#w-ln95042-042-p4s3w27</LM>
 </w.rf>
 <form>Cup</form>
-<tag lemma="Cup-1_;m_;w_,t_^(pohár,_soutěž;_v_názvech)" src="auto" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="Cup-1_;m_;w_,t_^(pohár,_soutěž;_v_názvech)" src="auto">NNIS1-----A----</AM>
+<AM lemma="Cup-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln95042-042-p4s3w28">
 <src.rf>manual</src.rf>

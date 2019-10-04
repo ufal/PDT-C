@@ -19,7 +19,10 @@
 <LM>w#w-mf930703-087-p1s1w1</LM>
 </w.rf>
 <form>Benfica</form>
-<tag lemma="Benfica_;K_;w" src="auto" selected="1">NNFS1-----A----</tag>
+<tag>
+<AM lemma="Benfica_;K_;w" src="auto">NNFS1-----A----</AM>
+<AM lemma="Benfica_;K" src="manual" selected="1">NNFS1-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930703-087-p1s1w2">
 <src.rf>manual</src.rf>
@@ -117,7 +120,10 @@
 <LM>w#w-mf930703-087-p2s1w11</LM>
 </w.rf>
 <form>Benfica</form>
-<tag lemma="Benfica_;K_;w" src="auto" selected="1">NNFS1-----A----</tag>
+<tag>
+<AM lemma="Benfica_;K_;w" src="auto">NNFS1-----A----</AM>
+<AM lemma="Benfica_;K" src="manual" selected="1">NNFS1-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930703-087-p2s1w12">
 <src.rf>manual</src.rf>
@@ -179,6 +185,7 @@
 <AM lemma="mostový" src="auto">AAMS2----1A----</AM>
 <AM lemma="mostový" src="auto" recommended="1">AAMS4----1A----</AM>
 <AM lemma="mostový" src="auto">AANS2----1A----</AM>
+<AM lemma="Mostový_;S" src="manual" selected="1">NNMS4-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930703-087-p2s1w19">
@@ -229,7 +236,10 @@
 <LM>w#w-mf930703-087-p2s2w3</LM>
 </w.rf>
 <form>má</form>
-<tag lemma="mít" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag>
+<AM lemma="mít" src="orig">VB-S---3P-AA---</AM>
+<AM lemma="mít_:T" src="manual" selected="1">VB-S---3P-AA---</AM>
+</tag>
 </m>
 <m id="m-mf930703-087-p2s2w4">
 <src.rf>manual</src.rf>
@@ -1153,7 +1163,10 @@
 <LM>w#w-mf930703-087-p5s2w11</LM>
 </w.rf>
 <form>sehrají</form>
-<tag lemma="sehrát" src="orig" selected="1">VB-P---3P-AA--1</tag>
+<tag>
+<AM lemma="sehrát" src="orig">VB-P---3P-AA--1</AM>
+<AM lemma="sehrát_:W" src="manual" selected="1">VB-P---3P-AA--1</AM>
+</tag>
 </m>
 <m id="m-mf930703-087-p5s2w12">
 <src.rf>manual</src.rf>
@@ -1177,7 +1190,10 @@
 <LM>w#w-mf930703-087-p5s2w14</LM>
 </w.rf>
 <form>MS</form>
-<tag lemma="MS-5_:B_;K_;p_^(ministerstvo_spravedlnosti)" src="orig" selected="1">NNNXX-----A---8</tag>
+<tag>
+<AM lemma="MS-5_:B_;K_;p_^(ministerstvo_spravedlnosti)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="MS-3_:B_^(mistrovství_světa)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930703-087-p5s2w15">
 <src.rf>manual</src.rf>
@@ -1196,6 +1212,7 @@
 <tag>
 <AM lemma="USA_;G" src="orig">NNIPX-----A----</AM>
 <AM lemma="USA_:B_;K_,t_^(United_States_of_America)" src="auto" recommended="1">NNIPX-----A---8</AM>
+<AM lemma="USA_:B_;K_^(United_States_of_America)" src="manual" selected="1">NNIXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-mf930703-087-p5s2w17">
@@ -1236,7 +1253,10 @@
 <LM>w#w-mf930703-087-p5s2w21</LM>
 </w.rf>
 <form>mj</form>
-<tag lemma="mj-1_:B_^(mimo_jiné)" src="orig" selected="1">Db------------8</tag>
+<tag>
+<AM lemma="mj-1_:B_^(mimo_jiné)" src="orig">Db------------8</AM>
+<AM lemma="mj-1_:B_^(mimo_jiné)" src="manual" selected="1">Db-------------</AM>
+</tag>
 </m>
 <m id="m-mf930703-087-p5s2w22">
 <src.rf>manual</src.rf>

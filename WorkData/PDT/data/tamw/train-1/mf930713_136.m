@@ -65,6 +65,7 @@
 <AM lemma="kar-99_:B_;S" src="orig">NNXXX-----A---8</AM>
 <AM lemma="kar" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="kar" src="auto">NNIS4-----A----</AM>
+<AM lemma="kar-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930713-136-p2s1Aw4">
@@ -288,7 +289,7 @@
 <tag>
 <AM lemma="Horka_;G" src="orig">NNFS6-----A----</AM>
 <AM lemma="horka_;G_^(menší_hora)" src="auto">NNFS3-----A----</AM>
-<AM lemma="horka_;G_^(menší_hora)" src="auto" recommended="1">NNFS6-----A----</AM>
+<AM lemma="horka_;G_^(menší_hora)" src="auto" recommended="1" selected="1">NNFS6-----A----</AM>
 <AM lemma="horce" src="auto">Db-------------</AM>
 </tag>
 </m>
@@ -494,7 +495,10 @@
 <LM>w#w-mf930713-136-p2s4w7</LM>
 </w.rf>
 <form>ČČK</form>
-<tag lemma="ČČK_:B_;K" src="auto" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="ČČK_:B_;K" src="auto">NNXXX-----A---8</AM>
+<AM lemma="ČČK-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930713-136-p2s4w8">
 <src.rf>manual</src.rf>
@@ -651,7 +655,7 @@
 <tag>
 <AM lemma="Horka_;G" src="orig">NNFS6-----A----</AM>
 <AM lemma="horka_;G_^(menší_hora)" src="auto">NNFS3-----A----</AM>
-<AM lemma="horka_;G_^(menší_hora)" src="auto" recommended="1">NNFS6-----A----</AM>
+<AM lemma="horka_;G_^(menší_hora)" src="auto" recommended="1" selected="1">NNFS6-----A----</AM>
 <AM lemma="horce" src="auto">Db-------------</AM>
 </tag>
 </m>
@@ -749,7 +753,10 @@
 <LM>w#w-mf930713-136-p2s5w15</LM>
 </w.rf>
 <form>ČČK</form>
-<tag lemma="ČČK_:B_;K" src="auto" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="ČČK_:B_;K" src="auto">NNXXX-----A---8</AM>
+<AM lemma="ČČK-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930713-136-p2s5w16">
 <src.rf>manual</src.rf>

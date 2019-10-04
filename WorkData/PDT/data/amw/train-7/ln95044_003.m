@@ -47,6 +47,7 @@
 <AM lemma="protekcionismus" src="orig">NNIS1-----A----</AM>
 <AM lemma="protekcionizmus" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="protekcionizmus" src="auto">NNIS4-----A----</AM>
+<AM lemma="protekcionismus_,s_^(^DD**protekcionizmus)" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 </s>
@@ -179,7 +180,10 @@
 <LM>w#w-ln95044-003-p2s1Bw14</LM>
 </w.rf>
 <form>Morris</form>
-<tag lemma="Morris-2_;R_^(vozidlo;;cigarety)" src="auto" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="Morris-2_;R_^(vozidlo;;cigarety)" src="auto">NNIS1-----A----</AM>
+<AM lemma="Morris-1_;S" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95044-003-p2s1Bw15">
 <src.rf>manual</src.rf>
@@ -443,7 +447,10 @@
 <LM>w#w-ln95044-003-p2s1Bw47</LM>
 </w.rf>
 <form>Slovak</form>
-<tag lemma="Slovak_;K_,t" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="Slovak_;K_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="Slovak-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln95044-003-p2s1Bw48">
 <src.rf>manual</src.rf>
@@ -455,6 +462,7 @@
 <AM lemma="International-2_;K_,t" src="orig">NNXXX-----A---1</AM>
 <AM lemma="International_,t" src="auto">NNISX-----A----</AM>
 <AM lemma="international_,t" src="auto" recommended="1">AAXXX----1A----</AM>
+<AM lemma="International-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-ln95044-003-p2s1Bw49">
@@ -463,7 +471,10 @@
 <LM>w#w-ln95044-003-p2s1Bw49</LM>
 </w.rf>
 <form>Tabacco</form>
-<tag lemma="Tabacco_;K_,t" src="orig" selected="1">NNNS1-----A----</tag>
+<tag>
+<AM lemma="Tabacco_;K_,t" src="orig">NNNS1-----A----</AM>
+<AM lemma="Tabacco-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln95044-003-p2s1Bw50">
 <src.rf>manual</src.rf>
@@ -806,7 +817,7 @@
 <AM lemma="zaměstnanost-1_^(všeob._význam:_činnost,_zaměstnání)_(*5ý-1)" src="auto">NNFS1-----A----</AM>
 <AM lemma="zaměstnanost-1_^(všeob._význam:_činnost,_zaměstnání)_(*5ý-1)" src="auto" recommended="1">NNFS4-----A----</AM>
 <AM lemma="zaměstnanost-2_^(politika_z.;_přednost_před_odvoz.)" src="auto">NNFS1-----A----</AM>
-<AM lemma="zaměstnanost-2_^(politika_z.;_přednost_před_odvoz.)" src="auto">NNFS4-----A----</AM>
+<AM lemma="zaměstnanost-2_^(politika_z.;_přednost_před_odvoz.)" src="auto" selected="1">NNFS4-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95044-003-p2s2w42">
@@ -825,7 +836,7 @@
 <form>přičemž</form>
 <tag>
 <AM lemma="přičemž" src="orig">J,-------------</AM>
-<AM lemma="přičemž" src="auto" recommended="1">Db-------------</AM>
+<AM lemma="přičemž" src="auto" recommended="1" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m-ln95044-003-p2s2w44">

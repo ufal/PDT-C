@@ -271,7 +271,10 @@
 <LM>w#w-mf930701-117-p2s2w14</LM>
 </w.rf>
 <form>El</form>
-<tag lemma="El_;K" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="El_;K" src="orig">AAXXX----1A----</AM>
+<AM lemma="El-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-mf930701-117-p2s2w15">
 <src.rf>manual</src.rf>
@@ -296,7 +299,7 @@
 </w.rf>
 <form>Mar</form>
 <tag>
-<AM lemma="Maroko_:B_;G" src="orig">NNNXX-----A---8</AM>
+<AM lemma="Maroko_:B_;G" src="orig" selected="1">NNNXX-----A---8</AM>
 <AM lemma="Mar_:B" src="auto">Xx-------------</AM>
 <AM lemma="Mar_;G" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Mar_;G" src="auto">NNIS4-----A----</AM>
@@ -620,7 +623,10 @@
 <LM>w#w-mf930701-117-p2s5w14</LM>
 </w.rf>
 <form>Střelba</form>
-<tag lemma="střelba" src="orig" selected="1">NNFS1-----A----</tag>
+<tag>
+<AM lemma="střelba" src="orig">NNFS1-----A----</AM>
+<AM lemma="Střelba_;S" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930701-117-p2s5w15">
 <src.rf>manual</src.rf>
@@ -1247,7 +1253,10 @@
 <LM>w#w-mf930701-117-p4s2w11</LM>
 </w.rf>
 <form>FC</form>
-<tag lemma="FC-1_:B_;K_;w_^(Football_Club,_př._FC_Sparta)" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="FC-1_:B_;K_;w_^(Football_Club,_př._FC_Sparta)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="FC-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-mf930701-117-p4s2w12">
 <src.rf>manual</src.rf>
@@ -1305,7 +1314,10 @@
 <LM>w#w-mf930701-117-p4s3w5</LM>
 </w.rf>
 <form>jen</form>
-<tag lemma="jen-1" src="auto" selected="1">TT-------------</tag>
+<tag>
+<AM lemma="jen-1" src="auto">TT-------------</AM>
+<AM lemma="jen-4_^(pouze)" src="manual" selected="1">Db-------------</AM>
+</tag>
 </m>
 <m id="m-mf930701-117-p4s3w6">
 <src.rf>manual</src.rf>
@@ -1785,7 +1797,10 @@
 <LM>w#w-mf930701-117-p5s2w13</LM>
 </w.rf>
 <form>SRN</form>
-<tag lemma="SRN_:B_;G" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="SRN_:B_;G" src="orig">NNFXX-----A---8</AM>
+<AM lemma="SRN-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-mf930701-117-p5s2w14">
 <src.rf>manual</src.rf>

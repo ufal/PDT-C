@@ -409,7 +409,7 @@
 <form>Mircea</form>
 <tag>
 <AM lemma="Mircea_;Y" src="orig">NNMS1-----A----</AM>
-<AM lemma="Mircea_;Y_,t" src="auto" recommended="1">NNMXX-----A----</AM>
+<AM lemma="Mircea_;Y_,t" src="auto" recommended="1" selected="1">NNMXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930702-084-p2s2w17">
@@ -419,7 +419,7 @@
 </w.rf>
 <form>Sandu</form>
 <tag>
-<AM lemma="Sandu-2_;S" src="orig">NNMS1-----A----</AM>
+<AM lemma="Sandu-2_;S" src="orig" selected="1">NNMS1-----A----</AM>
 <AM lemma="Sand_;S" src="auto">NNMS3-----A---1</AM>
 <AM lemma="Sand_;S" src="auto">NNMS6-----A---1</AM>
 <AM lemma="Sanda_;G" src="auto">NNFS4-----A----</AM>

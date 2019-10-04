@@ -103,7 +103,10 @@
 <LM>w#w-ln94208-42-p2s1Bw4</LM>
 </w.rf>
 <form>obešlo</form>
-<tag lemma="obejít" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag>
+<AM lemma="obejít" src="orig">VpNS---XR-AA---</AM>
+<AM lemma="obejít_:W" src="manual" selected="1">VpNS---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-ln94208-42-p2s1Bw5">
 <src.rf>manual</src.rf>
@@ -395,7 +398,7 @@
 <form>totiž</form>
 <tag>
 <AM lemma="totiž" src="orig">Db-------------</AM>
-<AM lemma="totiž-1" src="auto" recommended="1">J^-------------</AM>
+<AM lemma="totiž-1" src="auto" recommended="1" selected="1">J^-------------</AM>
 <AM lemma="totiž-2" src="auto">TT-------------</AM>
 </tag>
 </m>
@@ -405,7 +408,10 @@
 <LM>w#w-ln94208-42-p2s2w8</LM>
 </w.rf>
 <form>zakázal</form>
-<tag lemma="zakázat" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag>
+<AM lemma="zakázat" src="orig">VpYS---XR-AA---</AM>
+<AM lemma="zakázat_:W" src="manual" selected="1">VpYS---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-ln94208-42-p2s2w9">
 <src.rf>manual</src.rf>
@@ -973,7 +979,10 @@
 <LM>w#w-ln94208-42-p2s6w12</LM>
 </w.rf>
 <form>Ernsta</form>
-<tag lemma="Ernst_;S" src="auto" selected="1">NNMS2-----A----</tag>
+<tag>
+<AM lemma="Ernst_;S" src="auto">NNMS2-----A----</AM>
+<AM lemma="Ernst_;S_;Y" src="manual" selected="1">NNMS2-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94208-42-p2s6w13">
 <src.rf>manual</src.rf>
@@ -1014,7 +1023,7 @@
 </w.rf>
 <form>Thälmannové</form>
 <tag>
-<AM lemma="Thälmannová_;S" src="orig">NNFS2-----A----</AM>
+<AM lemma="Thälmannová_;S" src="orig" selected="1">NNFS2-----A----</AM>
 <AM lemma="Thälmann_;S" src="auto" recommended="1">NNMP1-----A----</AM>
 <AM lemma="Thälmann_;S" src="auto">NNMP5-----A----</AM>
 </tag>

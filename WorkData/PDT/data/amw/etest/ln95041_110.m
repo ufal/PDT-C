@@ -207,7 +207,10 @@
 <LM>w#w-ln95041-110-p2s1Bw18</LM>
 </w.rf>
 <form>Det</form>
-<tag lemma="Det_;K_,t" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="Det_;K_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="Det-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln95041-110-p2s1Bw19">
 <src.rf>manual</src.rf>
@@ -215,7 +218,10 @@
 <LM>w#w-ln95041-110-p2s1Bw19</LM>
 </w.rf>
 <form>Norske</form>
-<tag lemma="Norske_;K_,t" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="Norske_;K_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="Norske-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln95041-110-p2s1Bw20">
 <src.rf>manual</src.rf>
@@ -227,6 +233,7 @@
 <AM lemma="Veritas_;K_,t" src="orig">NNFXX-----A----</AM>
 <AM lemma="Veritas_;R" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Veritas_;R" src="auto">NNIS4-----A----</AM>
+<AM lemma="Veritas_;K_;R" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95041-110-p2s1Bw21">

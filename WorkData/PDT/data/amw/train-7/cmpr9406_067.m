@@ -1255,6 +1255,7 @@
 <AM lemma="renezance" src="auto">NNFS1-----A----</AM>
 <AM lemma="renezance" src="auto" recommended="1">NNFS2-----A----</AM>
 <AM lemma="renezance" src="auto">NNFS5-----A----</AM>
+<AM lemma="renesance_,s_^(^DD**renezance)" src="manual" selected="1">NNFS2-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9406-067-p10s2w18">
@@ -1427,7 +1428,7 @@
 <form>Gymnasion</form>
 <tag>
 <AM lemma="Gymnasion_;m" src="orig">NNIS1-----A----</AM>
-<AM lemma="gymnasion" src="auto" recommended="1">NNIS1-----A----</AM>
+<AM lemma="gymnasion" src="auto" recommended="1" selected="1">NNIS1-----A----</AM>
 <AM lemma="gymnasion" src="auto">NNIS4-----A----</AM>
 </tag>
 </m>

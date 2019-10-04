@@ -377,7 +377,10 @@
 <LM>w#w-ln95042-019-p2s3w7</LM>
 </w.rf>
 <form>vydává</form>
-<tag lemma="vydávat-1_:T_^(emitovat:_cenné_papíry,_knihu,_zvuk,...)_(*6at-1)" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag>
+<AM lemma="vydávat-1_:T_^(emitovat:_cenné_papíry,_knihu,_zvuk,...)_(*6at-1)" src="orig">VB-S---3P-AA---</AM>
+<AM lemma="vydávat_:T_^(*4at)" src="manual" selected="1">VB-S---3P-AA---</AM>
+</tag>
 </m>
 <m id="m-ln95042-019-p2s3w8">
 <src.rf>manual</src.rf>
@@ -975,7 +978,10 @@
 <LM>w#w-ln95042-019-p3s3w4</LM>
 </w.rf>
 <form>vydává</form>
-<tag lemma="vydávat-1_:T_^(emitovat:_cenné_papíry,_knihu,_zvuk,...)_(*6at-1)" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag>
+<AM lemma="vydávat-1_:T_^(emitovat:_cenné_papíry,_knihu,_zvuk,...)_(*6at-1)" src="orig">VB-S---3P-AA---</AM>
+<AM lemma="vydávat_:T_^(*4at)" src="manual" selected="1">VB-S---3P-AA---</AM>
+</tag>
 </m>
 <m id="m-ln95042-019-p3s3w5">
 <src.rf>manual</src.rf>
@@ -1245,7 +1251,10 @@
 <LM>w#w-ln95042-019-p5s1w1</LM>
 </w.rf>
 <form>Dorothy</form>
-<tag lemma="Dorothy_;Y_,t" src="auto" selected="1">NNFXX-----A----</tag>
+<tag>
+<AM lemma="Dorothy_;Y_,t" src="auto">NNFXX-----A----</AM>
+<AM lemma="Dorothy_;Y" src="manual" selected="1">NNFXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95042-019-p5s1w2">
 <src.rf>manual</src.rf>
@@ -1253,7 +1262,10 @@
 <LM>w#w-ln95042-019-p5s1w2</LM>
 </w.rf>
 <form>L</form>
-<tag lemma="L-0_:B_;Y" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="L-0_:B_;Y" src="orig">NNFXX-----A---8</AM>
+<AM lemma="L-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95042-019-p5s1w3">
 <src.rf>manual</src.rf>
@@ -1466,7 +1478,7 @@
 </w.rf>
 <form>Gaji</form>
 <tag>
-<AM lemma="Gaja_;S" src="orig">NNMS2-----A----</AM>
+<AM lemma="Gaja_;S" src="orig" selected="1">NNMS2-----A----</AM>
 <AM lemma="Gaj-1_;G" src="auto" recommended="1">NNFS3-----A----</AM>
 <AM lemma="Gaj-1_;G" src="auto">NNFS5-----A----</AM>
 <AM lemma="Gaj-1_;G" src="auto">NNFS6-----A----</AM>
@@ -1579,6 +1591,7 @@
 <AM lemma="Ellis-1_;S" src="auto">NNMS1-----A----</AM>
 <AM lemma="Ellis-2_;G" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Ellis-2_;G" src="auto">NNIS4-----A----</AM>
+<AM lemma="Ellis-3_;Y" src="manual" selected="1">NNFXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95042-019-p6s1w2">
@@ -1863,7 +1876,10 @@
 <LM>w#w-ln95042-019-p6s3w5</LM>
 </w.rf>
 <form>vydává</form>
-<tag lemma="vydávat-1_:T_^(emitovat:_cenné_papíry,_knihu,_zvuk,...)_(*6at-1)" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag>
+<AM lemma="vydávat-1_:T_^(emitovat:_cenné_papíry,_knihu,_zvuk,...)_(*6at-1)" src="orig">VB-S---3P-AA---</AM>
+<AM lemma="vydávat_:T_^(*4at)" src="manual" selected="1">VB-S---3P-AA---</AM>
+</tag>
 </m>
 <m id="m-ln95042-019-p6s3w6">
 <src.rf>manual</src.rf>

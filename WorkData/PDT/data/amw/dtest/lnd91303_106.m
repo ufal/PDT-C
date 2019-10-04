@@ -219,6 +219,7 @@
 <AM lemma="POA_:B_;K_^(Pražská_obchodní_asociace)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="Poe-1_;S" src="auto" recommended="1">NNMS2-----A---1</AM>
 <AM lemma="Poe-1_;S" src="auto">NNMS4-----A---1</AM>
+<AM lemma="POA-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-lnd91303-106-p3s1w22">
@@ -408,7 +409,7 @@
 <tag>
 <AM lemma="tady" src="orig">Db------------1</AM>
 <AM lemma="ten" src="auto" recommended="1">PDFS4----------</AM>
-<AM lemma="tu" src="auto">Db-------------</AM>
+<AM lemma="tu" src="auto" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m-lnd91303-106-p3s2w8">
@@ -550,7 +551,7 @@
 <tag>
 <AM lemma="tady" src="orig">Db------------1</AM>
 <AM lemma="ten" src="auto">PDFS4----------</AM>
-<AM lemma="tu" src="auto" recommended="1">Db-------------</AM>
+<AM lemma="tu" src="auto" recommended="1" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m-lnd91303-106-p3s3w3">
@@ -613,6 +614,7 @@
 <AM lemma="POA_:B_;K_^(Pražská_obchodní_asociace)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="Poe-1_;S" src="auto" recommended="1">NNMS2-----A---1</AM>
 <AM lemma="Poe-1_;S" src="auto">NNMS4-----A---1</AM>
+<AM lemma="POA-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-lnd91303-106-p3s4w3">

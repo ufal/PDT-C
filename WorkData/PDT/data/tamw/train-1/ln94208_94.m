@@ -187,7 +187,7 @@
 <AM lemma="odchod" src="orig">NNIS6-----A----</AM>
 <AM lemma="odchod" src="auto">NNIS2-----A----</AM>
 <AM lemma="odchod" src="auto">NNIS3-----A----</AM>
-<AM lemma="odchod" src="auto" recommended="1">NNIS6-----A---1</AM>
+<AM lemma="odchod" src="auto" recommended="1" selected="1">NNIS6-----A---1</AM>
 </tag>
 </m>
 <m id="m-ln94208-94-p2s2w3">
@@ -453,7 +453,10 @@
 <LM>w#w-ln94208-94-p2s2w35</LM>
 </w.rf>
 <form>LN</form>
-<tag lemma="LN-1_:B_;R_^(Lidové_noviny,_deník)" src="orig" selected="1">NNFPX-----A---8</tag>
+<tag>
+<AM lemma="LN-1_:B_;R_^(Lidové_noviny,_deník)" src="orig">NNFPX-----A---8</AM>
+<AM lemma="LN-1_:B_;K_;R_^(Lidové_noviny)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94208-94-p2s2w36">
 <src.rf>manual</src.rf>
@@ -461,7 +464,10 @@
 <LM>w#w-ln94208-94-p2s2w36</LM>
 </w.rf>
 <form>O</form>
-<tag lemma="O-0_:B_;Y" src="orig" selected="1">NNMXX-----A---8</tag>
+<tag>
+<AM lemma="O-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
+<AM lemma="O-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94208-94-p2s2w37">
 <src.rf>manual</src.rf>
@@ -478,7 +484,7 @@
 </w.rf>
 <form>Podgorný</form>
 <tag>
-<AM lemma="Podgorný_;S" src="orig">NNMS1-----A----</AM>
+<AM lemma="Podgorný_;S" src="orig" selected="1">NNMS1-----A----</AM>
 <AM lemma="Podgorné_;G" src="auto">NNNP1-----A---6</AM>
 <AM lemma="Podgorné_;G" src="auto">NNNP4-----A---6</AM>
 <AM lemma="Podgorné_;G" src="auto">NNNP5-----A---6</AM>

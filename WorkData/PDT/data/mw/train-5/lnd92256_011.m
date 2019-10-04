@@ -19,7 +19,10 @@
 <LM>w#w-lnd92256-011-p1s1w1</LM>
 </w.rf>
 <form>NEJVÍC</form>
-<tag lemma="hodně-2" src="auto" selected="1">Dg-------3A---1</tag>
+<tag>
+<AM lemma="hodně-2" src="auto">Dg-------3A---1</AM>
+<AM lemma="hodně-3" src="manual" selected="1">Dg-------3A---1</AM>
+</tag>
 </m>
 <m id="m-lnd92256-011-p1s1w2">
 <src.rf>manual</src.rf>
@@ -40,6 +43,7 @@
 <AM lemma="Nera_;G" src="auto">NNFS5-----A----</AM>
 <AM lemma="Nero_;S" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Nero_;S" src="auto">NNMS5-----A----</AM>
+<AM lemma="Nero-2_;K" src="manual" selected="1">NNNS1-----A----</AM>
 </tag>
 </m>
 </s>
@@ -155,6 +159,7 @@
 <AM lemma="Nera_;G" src="auto">NNFS5-----A----</AM>
 <AM lemma="Nero_;S" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Nero_;S" src="auto">NNMS5-----A----</AM>
+<AM lemma="Nero-2_;K" src="manual" selected="1">NNNS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92256-011-p3s2w3">
@@ -245,7 +250,10 @@
 <LM>w#w-lnd92256-011-p3s3w3</LM>
 </w.rf>
 <form>ing</form>
-<tag lemma="Ing-1_:B_^(inženýr)" src="orig" selected="1">NNMXX-----A---8</tag>
+<tag>
+<AM lemma="Ing-1_:B_^(inženýr)" src="orig">NNMXX-----A---8</AM>
+<AM lemma="ing_:B_^(inženýr)" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd92256-011-p3s3w4">
 <src.rf>manual</src.rf>
@@ -1689,7 +1697,10 @@
 <LM>w#w-lnd92256-011-p4s5w23</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-2" src="auto" selected="1">Dg-------2A----</tag>
+<tag>
+<AM lemma="hodně-2" src="auto">Dg-------2A----</AM>
+<AM lemma="hodně-3" src="manual" selected="1">Dg-------2A----</AM>
+</tag>
 </m>
 <m id="m-lnd92256-011-p4s5w24">
 <src.rf>manual</src.rf>

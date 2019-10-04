@@ -189,7 +189,10 @@
 <LM>w#w-mf920902-065-p2s1w20</LM>
 </w.rf>
 <form>Kčs</form>
-<tag lemma="Kčs-1_:B_^(Koruna_čs.)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="Kčs-1_:B_^(Koruna_čs.)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="Kčs-1_:B_^(Koruna_čs.)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920902-065-p2s1w21">
 <src.rf>manual</src.rf>
@@ -255,7 +258,10 @@
 <LM>w#w-mf920902-065-p2s2w7</LM>
 </w.rf>
 <form>Kčs</form>
-<tag lemma="Kčs-1_:B_^(Koruna_čs.)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="Kčs-1_:B_^(Koruna_čs.)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="Kčs-1_:B_^(Koruna_čs.)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920902-065-p2s2w8">
 <src.rf>manual</src.rf>
@@ -316,6 +322,7 @@
 <tag>
 <AM lemma="CK_:B_;K" src="orig">NNFXX-----A---8</AM>
 <AM lemma="CK_:B" src="auto" recommended="1">NNXXX-----A---8</AM>
+<AM lemma="CK-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920902-065-p2s3w7">
@@ -346,6 +353,7 @@
 <AM lemma="Oda-1_;G" src="auto">NNFP2-----A----</AM>
 <AM lemma="od-1" src="auto">RR--2----------</AM>
 <AM lemma="od-7_^(předpona,_sam.)" src="auto">A2--------A----</AM>
+<AM lemma="OD-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920902-065-p2s3w10">
@@ -354,7 +362,10 @@
 <LM>w#w-mf920902-065-p2s3w10</LM>
 </w.rf>
 <form>Prior</form>
-<tag lemma="Prior_;Y" src="orig" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="Prior_;Y" src="orig">NNIS1-----A----</AM>
+<AM lemma="Prior_;K" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920902-065-p2s3w11">
 <src.rf>manual</src.rf>

@@ -51,7 +51,10 @@
 <LM>w#w-vesm9301-011-p1s1w5</LM>
 </w.rf>
 <form>nestane</form>
-<tag lemma="stát-2_^(něco_se_přihodilo)" src="orig" selected="1">VB-S---3P-NA---</tag>
+<tag>
+<AM lemma="stát-2_^(něco_se_přihodilo)" src="orig">VB-S---3P-NA---</AM>
+<AM lemma="stát-2_^(stanu_staneš)" src="manual" selected="1">VB-S---3P-NA---</AM>
+</tag>
 </m>
 <m id="m-vesm9301-011-p1s1w6">
 <src.rf>manual</src.rf>
@@ -359,7 +362,10 @@
 <LM>w#w-vesm9301-011-p1s3w2</LM>
 </w.rf>
 <form>stojí</form>
-<tag lemma="stát-3_^(někdo/něco_stojí,_např._na_nohou)" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag>
+<AM lemma="stát-3_^(někdo/něco_stojí,_např._na_nohou)" src="orig">VB-S---3P-AA---</AM>
+<AM lemma="stát-3_^(stojím_stojíš)" src="manual" selected="1">VB-S---3P-AA---</AM>
+</tag>
 </m>
 <m id="m-vesm9301-011-p1s3w3">
 <src.rf>manual</src.rf>
@@ -683,7 +689,10 @@
 <LM>w#w-vesm9301-011-p1s5w6</LM>
 </w.rf>
 <form>začne</form>
-<tag lemma="začít-1_^(začnout)" src="auto" selected="1">VB-S---3P-AA---</tag>
+<tag>
+<AM lemma="začít-1_^(začnout)" src="auto">VB-S---3P-AA---</AM>
+<AM lemma="začít-1_:W_^(začnout)" src="manual" selected="1">VB-S---3P-AA---</AM>
+</tag>
 </m>
 <m id="m-vesm9301-011-p1s5w7">
 <src.rf>manual</src.rf>
@@ -709,7 +718,7 @@
 <form>snad</form>
 <tag>
 <AM lemma="snad" src="orig">Db-------------</AM>
-<AM lemma="snad" src="auto" recommended="1">TT-------------</AM>
+<AM lemma="snad" src="auto" recommended="1" selected="1">TT-------------</AM>
 </tag>
 </m>
 <m id="m-vesm9301-011-p1s5w10">
@@ -718,7 +727,10 @@
 <LM>w#w-vesm9301-011-p1s5w10</LM>
 </w.rf>
 <form>intenzívněji</form>
-<tag lemma="intenzívně_^(*1í)" src="orig" selected="1">Dg-------2A----</tag>
+<tag>
+<AM lemma="intenzívně_^(*1í)" src="orig">Dg-------2A----</AM>
+<AM lemma="intenzívně_,s_^(^DD**intenzivně)_^(*1í)" src="manual" selected="1">Dg-------2A----</AM>
+</tag>
 </m>
 <m id="m-vesm9301-011-p1s5w11">
 <src.rf>manual</src.rf>
@@ -864,7 +876,7 @@
 <AM lemma="škodění" src="auto">NNNP2-----A----</AM>
 <AM lemma="škodění" src="auto">NNNP4-----A----</AM>
 <AM lemma="škodění" src="auto">NNNP5-----A----</AM>
-<AM lemma="škodění" src="auto" recommended="1">NNNS1-----A----</AM>
+<AM lemma="škodění" src="auto" recommended="1" selected="1">NNNS1-----A----</AM>
 <AM lemma="škodění" src="auto">NNNS2-----A----</AM>
 <AM lemma="škodění" src="auto">NNNS3-----A----</AM>
 <AM lemma="škodění" src="auto">NNNS4-----A----</AM>
@@ -944,7 +956,10 @@
 <LM>w#w-vesm9301-011-p2s1w2</LM>
 </w.rf>
 <form>KOLÁŘ</form>
-<tag lemma="kolář" src="orig" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="kolář" src="orig">NNMS1-----A----</AM>
+<AM lemma="Kolář_;S" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-vesm9301-011-p2s1w3">
 <src.rf>manual</src.rf>
@@ -976,7 +991,10 @@
 <LM>w#w-vesm9301-011-p2s1w6</LM>
 </w.rf>
 <form>sv</form>
-<tag lemma="svazek_:B" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="svazek_:B" src="orig">NNIXX-----A---8</AM>
+<AM lemma="svazek" src="manual" selected="1">NNIXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-vesm9301-011-p2s1w7">
 <src.rf>manual</src.rf>
@@ -1010,7 +1028,10 @@
 <LM>w#w-vesm9301-011-p2s2w3</LM>
 </w.rf>
 <form>str</form>
-<tag lemma="strana-4_:B" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="strana-4_:B" src="orig">NNFXX-----A---8</AM>
+<AM lemma="strana" src="manual" selected="1">NNFXX-----A---9</AM>
+</tag>
 </m>
 <m id="m-vesm9301-011-p2s2w4">
 <src.rf>manual</src.rf>

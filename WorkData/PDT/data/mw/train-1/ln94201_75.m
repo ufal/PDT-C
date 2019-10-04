@@ -85,7 +85,10 @@
 <LM>w#w-ln94201-75-p2s1w5</LM>
 </w.rf>
 <form>ČMFS</form>
-<tag lemma="ČMFS-1_:B_;K_;w_^(Českomoravský_fotbalový_svaz)" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="ČMFS-1_:B_;K_;w_^(Českomoravský_fotbalový_svaz)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="ČMFS-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94201-75-p2s1w6">
 <src.rf>manual</src.rf>
@@ -104,7 +107,7 @@
 <tag>
 <AM lemma="Terrex_;K" src="orig">NNIS4-----A----</AM>
 <AM lemma="Terex_;K" src="auto">NNIS1-----A----</AM>
-<AM lemma="Terex_;K" src="auto" recommended="1">NNIS4-----A----</AM>
+<AM lemma="Terex_;K" src="auto" recommended="1" selected="1">NNIS4-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94201-75-p2s1w8">
@@ -227,7 +230,10 @@
 <LM>w#w-ln94201-75-p2s2w3</LM>
 </w.rf>
 <form>hrál</form>
-<tag lemma="hrát" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag>
+<AM lemma="hrát" src="orig">VpYS---XR-AA---</AM>
+<AM lemma="hrát_:T" src="manual" selected="1">VpYS---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-ln94201-75-p2s2w4">
 <src.rf>manual</src.rf>
@@ -339,7 +345,10 @@
 <LM>w#w-ln94201-75-p2s2w17</LM>
 </w.rf>
 <form>měl</form>
-<tag lemma="mít" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag>
+<AM lemma="mít" src="orig">VpYS---XR-AA---</AM>
+<AM lemma="mít_:T" src="manual" selected="1">VpYS---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-ln94201-75-p2s2w18">
 <src.rf>manual</src.rf>
@@ -599,7 +608,10 @@
 <LM>w#w-ln94201-75-p2s5w5</LM>
 </w.rf>
 <form>AC</form>
-<tag lemma="AC-1_:B_;K_;w_^(př._AC_Sparta_Praha)" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="AC-1_:B_;K_;w_^(př._AC_Sparta_Praha)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="AC-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94201-75-p2s5w6">
 <src.rf>manual</src.rf>

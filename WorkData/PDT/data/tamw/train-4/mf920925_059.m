@@ -27,7 +27,10 @@
 <LM>w#w-mf920925-059-p1s1w2</LM>
 </w.rf>
 <form>Suková</form>
-<tag lemma="Suková_;S_;w" src="orig" selected="1">NNFS1-----A----</tag>
+<tag>
+<AM lemma="Suková_;S_;w" src="orig">NNFS1-----A----</AM>
+<AM lemma="Suková_;S" src="manual" selected="1">NNFS1-----A----</AM>
+</tag>
 </m>
 </s>
 <s id="m-mf920925-059-p2s1">
@@ -149,7 +152,10 @@
 <LM>w#w-mf920925-059-p2s1w15</LM>
 </w.rf>
 <form>Suková</form>
-<tag lemma="Suková_;S_;w" src="orig" selected="1">NNFS1-----A----</tag>
+<tag>
+<AM lemma="Suková_;S_;w" src="orig">NNFS1-----A----</AM>
+<AM lemma="Suková_;S" src="manual" selected="1">NNFS1-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920925-059-p2s1w16">
 <src.rf>manual</src.rf>
@@ -181,7 +187,10 @@
 <LM>w#w-mf920925-059-p2s1w19</LM>
 </w.rf>
 <form>WTA</form>
-<tag lemma="WTA-1_:B_;K_,t_^(Women's_Tennis_Association)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="WTA-1_:B_;K_,t_^(Women's_Tennis_Association)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="WTA-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920925-059-p2s1w20">
 <src.rf>manual</src.rf>
@@ -237,7 +246,10 @@
 <LM>w#w-mf920925-059-p2s1w26</LM>
 </w.rf>
 <form>tak</form>
-<tag lemma="tak-3" src="orig" selected="1">Db-------------</tag>
+<tag>
+<AM lemma="tak-3" src="orig">Db-------------</AM>
+<AM lemma="tak-2" src="manual" selected="1">J^-------------</AM>
+</tag>
 </m>
 <m id="m-mf920925-059-p2s1w27">
 <src.rf>manual</src.rf>
@@ -277,7 +289,10 @@
 <LM>w#w-mf920925-059-p2s1w31</LM>
 </w.rf>
 <form>stala</form>
-<tag lemma="stát-2_^(něco_se_přihodilo)" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag>
+<AM lemma="stát-2_^(něco_se_přihodilo)" src="orig">VpQW---XR-AA---</AM>
+<AM lemma="stát-2_^(stanu_staneš)" src="manual" selected="1">VpQW---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-mf920925-059-p2s1w32">
 <src.rf>manual</src.rf>
@@ -405,7 +420,10 @@
 <LM>w#w-mf920925-059-p2s1w47</LM>
 </w.rf>
 <form>WTA</form>
-<tag lemma="WTA-1_:B_;K_,t_^(Women's_Tennis_Association)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="WTA-1_:B_;K_,t_^(Women's_Tennis_Association)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="WTA-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920925-059-p2s1w48">
 <src.rf>manual</src.rf>
@@ -445,7 +463,10 @@
 <LM>w#w-mf920925-059-p2s1w52</LM>
 </w.rf>
 <form>Suková</form>
-<tag lemma="Suková_;S_;w" src="orig" selected="1">NNFS1-----A----</tag>
+<tag>
+<AM lemma="Suková_;S_;w" src="orig">NNFS1-----A----</AM>
+<AM lemma="Suková_;S" src="manual" selected="1">NNFS1-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920925-059-p2s1w53">
 <src.rf>manual</src.rf>
@@ -599,7 +620,10 @@
 <LM>w#w-mf920925-059-p2s2w15</LM>
 </w.rf>
 <form>Suková</form>
-<tag lemma="Suková_;S_;w" src="orig" selected="1">NNFS1-----A----</tag>
+<tag>
+<AM lemma="Suková_;S_;w" src="orig">NNFS1-----A----</AM>
+<AM lemma="Suková_;S" src="manual" selected="1">NNFS1-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920925-059-p2s2w16">
 <src.rf>manual</src.rf>
@@ -652,7 +676,7 @@
 <tag>
 <AM lemma="přece" src="orig">Db-------------</AM>
 <AM lemma="přece-1" src="auto" recommended="1">J^-------------</AM>
-<AM lemma="přece-2" src="auto">TT-------------</AM>
+<AM lemma="přece-2" src="auto" selected="1">TT-------------</AM>
 </tag>
 </m>
 <m id="m-mf920925-059-p2s3w6">
@@ -703,7 +727,10 @@
 <LM>w#w-mf920925-059-p2s4w2</LM>
 </w.rf>
 <form>zrovna</form>
-<tag lemma="zrovna-1" src="auto" selected="1">Db-------------</tag>
+<tag>
+<AM lemma="zrovna-1" src="auto">Db-------------</AM>
+<AM lemma="zrovna-2" src="manual" selected="1">TT-------------</AM>
+</tag>
 </m>
 <m id="m-mf920925-059-p2s4w3">
 <src.rf>manual</src.rf>
@@ -777,7 +804,10 @@
 <LM>w#w-mf920925-059-p2s5Aw1</LM>
 </w.rf>
 <form>Spíš</form>
-<tag lemma="spíše" src="orig" selected="1">Dg-------2A----</tag>
+<tag>
+<AM lemma="spíše" src="orig">Dg-------2A----</AM>
+<AM lemma="spíš" src="manual" selected="1">TT-------------</AM>
+</tag>
 </m>
 <m id="m-mf920925-059-p2s5Aw2">
 <src.rf>manual</src.rf>
@@ -859,7 +889,10 @@
 <LM>w#w-mf920925-059-p2s5Bw3</LM>
 </w.rf>
 <form>Suková</form>
-<tag lemma="Suková_;S_;w" src="orig" selected="1">NNFS1-----A----</tag>
+<tag>
+<AM lemma="Suková_;S_;w" src="orig">NNFS1-----A----</AM>
+<AM lemma="Suková_;S" src="manual" selected="1">NNFS1-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920925-059-p2s5Bw4">
 <src.rf>manual</src.rf>
@@ -867,7 +900,10 @@
 <LM>w#w-mf920925-059-p2s5Bw4</LM>
 </w.rf>
 <form>vlastně</form>
-<tag lemma="vlastně-2_^(totiž)" src="orig" selected="1">Db-------------</tag>
+<tag>
+<AM lemma="vlastně-2_^(totiž)" src="orig">Db-------------</AM>
+<AM lemma="vlastně-3" src="manual" selected="1">TT-------------</AM>
+</tag>
 </m>
 <m id="m-mf920925-059-p2s5Bw5">
 <src.rf>manual</src.rf>
@@ -1010,7 +1046,7 @@
 <AM lemma="Javorská_;S" src="auto">NNFP3-----A----</AM>
 <AM lemma="Javorský_;S" src="auto">NNMP3-----A----</AM>
 <AM lemma="Javorský_;S" src="auto">NNMS6-----A---7</AM>
-<AM lemma="Javorský_;S" src="auto">NNMS7-----A----</AM>
+<AM lemma="Javorský_;S" src="auto" selected="1">NNMS7-----A----</AM>
 <AM lemma="javorský" src="auto">AAFP3----1A----</AM>
 <AM lemma="javorský" src="auto">AAIP3----1A----</AM>
 <AM lemma="javorský" src="auto">AAIS6----1A---7</AM>
@@ -1029,7 +1065,10 @@
 <LM>w#w-mf920925-059-p2s6w13</LM>
 </w.rf>
 <form>ml</form>
-<tag lemma="mladý_:B" src="orig" selected="1">AAXXX----2A---8</tag>
+<tag>
+<AM lemma="mladý_:B" src="orig">AAXXX----2A---8</AM>
+<AM lemma="mladý" src="manual" selected="1">AAXXX----2A---8</AM>
+</tag>
 </m>
 <m id="m-mf920925-059-p2s6w14">
 <src.rf>manual</src.rf>
@@ -1069,7 +1108,10 @@
 <LM>w#w-mf920925-059-p2s6w18</LM>
 </w.rf>
 <form>TGT</form>
-<tag lemma="TGT_:B_;K" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="TGT_:B_;K" src="orig">NNXXX-----A---8</AM>
+<AM lemma="TGT-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920925-059-p2s6w19">
 <src.rf>manual</src.rf>
@@ -1077,7 +1119,10 @@
 <LM>w#w-mf920925-059-p2s6w19</LM>
 </w.rf>
 <form>Marketing</form>
-<tag lemma="marketing" src="orig" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="marketing" src="orig">NNIS1-----A----</AM>
+<AM lemma="Marketing-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-mf920925-059-p2s6w20">
 <src.rf>manual</src.rf>
@@ -1408,7 +1453,7 @@
 <AM lemma="Ted_;Y_,t" src="auto">NNMP4-----A----</AM>
 <AM lemma="Ted_;Y_,t" src="auto">NNMP7-----A----</AM>
 <AM lemma="tedy-1" src="auto">TT-------------</AM>
-<AM lemma="tedy-2" src="auto" recommended="1">J^-------------</AM>
+<AM lemma="tedy-2" src="auto" recommended="1" selected="1">J^-------------</AM>
 </tag>
 </m>
 <m id="m-mf920925-059-p2s8Bw2">
@@ -1501,7 +1546,7 @@
 <form>Vůbec</form>
 <tag>
 <AM lemma="vůbec" src="orig">Db-------------</AM>
-<AM lemma="vůbec" src="auto" recommended="1">TT-------------</AM>
+<AM lemma="vůbec" src="auto" recommended="1" selected="1">TT-------------</AM>
 </tag>
 </m>
 <m id="m-mf920925-059-p2s9w3">
@@ -1534,7 +1579,10 @@
 <LM>w#w-mf920925-059-p2s9w6</LM>
 </w.rf>
 <form>roli</form>
-<tag lemma="role-2_^(herecká_úloha;_poslání)" src="orig" selected="1">NNFS4-----A----</tag>
+<tag>
+<AM lemma="role-2_^(herecká_úloha;_poslání)" src="orig">NNFS4-----A----</AM>
+<AM lemma="role-1_^(svitek_poslání_pozemek)" src="manual" selected="1">NNFS4-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920925-059-p2s9w7">
 <src.rf>manual</src.rf>

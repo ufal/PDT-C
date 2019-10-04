@@ -35,7 +35,10 @@
 <LM>w#w-ln94204-80-p1s1w3</LM>
 </w.rf>
 <form>L</form>
-<tag lemma="L-0_:B_;Y" src="orig" selected="1">NNMXX-----A---8</tag>
+<tag>
+<AM lemma="L-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
+<AM lemma="L-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln94204-80-p1s1w4">
 <src.rf>manual</src.rf>
@@ -77,7 +80,10 @@
 <LM>w#w-ln94204-80-p2s1Aw3</LM>
 </w.rf>
 <form>miš</form>
-<tag lemma="miš-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="miš-99_:B_;S" src="orig">NNXXX-----A---8</AM>
+<AM lemma="miš-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94204-80-p2s1Aw4">
 <src.rf>manual</src.rf>
@@ -347,7 +353,10 @@
 <LM>w#w-ln94204-80-p2s2w17</LM>
 </w.rf>
 <form>SR</form>
-<tag lemma="SR-1_:B_;G_^(Slovenská_republika)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="SR-1_:B_;G_^(Slovenská_republika)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="SR-1_:B_;G_^(Slovenská_republika)" src="manual" selected="1">NNFXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94204-80-p2s2w18">
 <src.rf>manual</src.rf>
@@ -437,7 +446,10 @@
 <LM>w#w-ln94204-80-p2s3w4</LM>
 </w.rf>
 <form>HZDS</form>
-<tag lemma="HZDS-1_:B_;K_;p_,t_^(Hnutie_za_demokratické_Slovensko)" src="orig" selected="1">NNNXX-----A---8</tag>
+<tag>
+<AM lemma="HZDS-1_:B_;K_;p_,t_^(Hnutie_za_demokratické_Slovensko)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="HZDS-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln94204-80-p2s3w5">
 <src.rf>manual</src.rf>
@@ -541,7 +553,10 @@
 <LM>w#w-ln94204-80-p2s3w17</LM>
 </w.rf>
 <form>SNP</form>
-<tag lemma="SNP-1_:B_;K_;p_^(Slovenské_národní_povstání)" src="orig" selected="1">NNNXX-----A---8</tag>
+<tag>
+<AM lemma="SNP-1_:B_;K_;p_^(Slovenské_národní_povstání)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="SNP-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln94204-80-p2s3w18">
 <src.rf>manual</src.rf>
@@ -575,7 +590,10 @@
 <LM>w#w-ln94204-80-p2s4w3</LM>
 </w.rf>
 <form>HZDS</form>
-<tag lemma="HZDS-1_:B_;K_;p_,t_^(Hnutie_za_demokratické_Slovensko)" src="orig" selected="1">NNNXX-----A---8</tag>
+<tag>
+<AM lemma="HZDS-1_:B_;K_;p_,t_^(Hnutie_za_demokratické_Slovensko)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="HZDS-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln94204-80-p2s4w4">
 <src.rf>manual</src.rf>
@@ -639,7 +657,10 @@
 <LM>w#w-ln94204-80-p2s4w11</LM>
 </w.rf>
 <form>nevoják</form>
-<tag lemma="nevoják" src="orig" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="nevoják" src="orig">NNMS1-----A----</AM>
+<AM lemma="voják" src="manual" selected="1">NNMS1-----N----</AM>
+</tag>
 </m>
 <m id="m-ln94204-80-p2s4w12">
 <src.rf>manual</src.rf>
@@ -921,7 +942,10 @@
 <LM>w#w-ln94204-80-p2s5w2</LM>
 </w.rf>
 <form>přijala</form>
-<tag lemma="přijmout" src="auto" selected="1">VpQW---XR-AA---</tag>
+<tag>
+<AM lemma="přijmout" src="auto">VpQW---XR-AA---</AM>
+<AM lemma="přijmout_:W" src="manual" selected="1">VpQW---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-ln94204-80-p2s5w3">
 <src.rf>manual</src.rf>
@@ -1011,7 +1035,10 @@
 <LM>w#w-ln94204-80-p2s6w5</LM>
 </w.rf>
 <form>řekl</form>
-<tag lemma="říci" src="auto" selected="1">VpYS---XR-AA---</tag>
+<tag>
+<AM lemma="říci" src="auto">VpYS---XR-AA---</AM>
+<AM lemma="říci_:W" src="manual" selected="1">VpYS---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-ln94204-80-p2s6w6">
 <src.rf>manual</src.rf>

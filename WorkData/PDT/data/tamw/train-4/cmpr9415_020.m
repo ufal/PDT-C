@@ -127,7 +127,10 @@
 <LM>w#w-cmpr9415-020-p7s1w7</LM>
 </w.rf>
 <form>nepřesáhly</form>
-<tag lemma="přesáhnout" src="orig" selected="1">VpTP---XR-NA---</tag>
+<tag>
+<AM lemma="přesáhnout" src="orig">VpTP---XR-NA---</AM>
+<AM lemma="přesáhnout_:W" src="manual" selected="1">VpTP---XR-NA---</AM>
+</tag>
 </m>
 <m id="m-cmpr9415-020-p7s1w8">
 <src.rf>manual</src.rf>
@@ -155,6 +158,7 @@
 <tag>
 <AM lemma="Kč" src="orig">NNFXX-----A----</AM>
 <AM lemma="Kč_:B" src="auto" recommended="1">NNFXX-----A---8</AM>
+<AM lemma="Kč_:B" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9415-020-p7s1w11">
@@ -279,7 +283,10 @@
 <LM>w#w-cmpr9415-020-p7s3w2</LM>
 </w.rf>
 <form>nemáme</form>
-<tag lemma="mít" src="orig" selected="1">VB-P---1P-NA---</tag>
+<tag>
+<AM lemma="mít" src="orig">VB-P---1P-NA---</AM>
+<AM lemma="mít_:T" src="manual" selected="1">VB-P---1P-NA---</AM>
+</tag>
 </m>
 <m id="m-cmpr9415-020-p7s3w3">
 <src.rf>manual</src.rf>
@@ -517,6 +524,7 @@
 <tag>
 <AM lemma="Kč" src="orig">NNFXX-----A----</AM>
 <AM lemma="Kč_:B" src="auto" recommended="1">NNFXX-----A---8</AM>
+<AM lemma="Kč_:B" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9415-020-p8s1w29">
@@ -607,7 +615,10 @@
 <LM>w#w-cmpr9415-020-p9s1w7</LM>
 </w.rf>
 <form>nepřesáhl</form>
-<tag lemma="přesáhnout" src="orig" selected="1">VpYS---XR-NA---</tag>
+<tag>
+<AM lemma="přesáhnout" src="orig">VpYS---XR-NA---</AM>
+<AM lemma="přesáhnout_:W" src="manual" selected="1">VpYS---XR-NA---</AM>
+</tag>
 </m>
 <m id="m-cmpr9415-020-p9s1w8">
 <src.rf>manual</src.rf>
@@ -635,6 +646,7 @@
 <tag>
 <AM lemma="Kč" src="orig">NNFXX-----A----</AM>
 <AM lemma="Kč_:B" src="auto" recommended="1">NNFXX-----A---8</AM>
+<AM lemma="Kč_:B" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9415-020-p9s1w11">
@@ -785,7 +797,10 @@
 <LM>w#w-cmpr9415-020-p11s1w2</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-2" src="auto" selected="1">Dg-------2A----</tag>
+<tag>
+<AM lemma="hodně-2" src="auto">Dg-------2A----</AM>
+<AM lemma="více_^(více_+_2._p.,_více_peněz)" src="manual" selected="1">Ca--2----------</AM>
+</tag>
 </m>
 <m id="m-cmpr9415-020-p11s1w3">
 <src.rf>manual</src.rf>
@@ -841,7 +856,10 @@
 <LM>w#w-cmpr9415-020-p11s1w9</LM>
 </w.rf>
 <form>zapomenout</form>
-<tag lemma="zapomenout" src="orig" selected="1">Vf--------A----</tag>
+<tag>
+<AM lemma="zapomenout" src="orig">Vf--------A----</AM>
+<AM lemma="zapomenout_:W" src="manual" selected="1">Vf--------A----</AM>
+</tag>
 </m>
 <m id="m-cmpr9415-020-p11s1w10">
 <src.rf>manual</src.rf>

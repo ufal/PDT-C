@@ -677,7 +677,10 @@
 <LM>w#w-cmpr9415-034-p3s5w16</LM>
 </w.rf>
 <form>ČR</form>
-<tag lemma="ČR-1_:B_;G_^(Česká_republika)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-cmpr9415-034-p3s5w17">
 <src.rf>manual</src.rf>
@@ -783,7 +786,10 @@
 <LM>w#w-cmpr9415-034-p4s1w1</LM>
 </w.rf>
 <form>Ulrich</form>
-<tag lemma="Ulrich_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Ulrich_;S" src="orig">NNMS1-----A----</AM>
+<AM lemma="Ulrich_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-cmpr9415-034-p4s1w2">
 <src.rf>manual</src.rf>
@@ -791,7 +797,10 @@
 <LM>w#w-cmpr9415-034-p4s1w2</LM>
 </w.rf>
 <form>Neumann</form>
-<tag lemma="Neumann_;G" src="auto" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Neumann_;G" src="auto">NNMS1-----A----</AM>
+<AM lemma="Neumann_;G_;S" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-cmpr9415-034-p4s1w3">
 <src.rf>manual</src.rf>

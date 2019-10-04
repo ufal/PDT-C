@@ -19,7 +19,10 @@
 <LM>w#w-ln94206-13-p1s1w1</LM>
 </w.rf>
 <form>Kurzy</form>
-<tag lemma="kurs" src="auto" selected="1">NNIP1-----A----</tag>
+<tag>
+<AM lemma="kurs" src="auto">NNIP1-----A----</AM>
+<AM lemma="kurs_,s_^(^DD**kurz) " src="manual" selected="1">NNIP1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94206-13-p1s1w2">
 <src.rf>manual</src.rf>
@@ -125,7 +128,10 @@
 <LM>w#w-ln94206-13-p2s1w11</LM>
 </w.rf>
 <form>kurzů</form>
-<tag lemma="kurs" src="auto" selected="1">NNIP2-----A----</tag>
+<tag>
+<AM lemma="kurs" src="auto">NNIP2-----A----</AM>
+<AM lemma="kurs_,s_^(^DD**kurz) " src="manual" selected="1">NNIP2-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94206-13-p2s1w12">
 <src.rf>manual</src.rf>
@@ -313,7 +319,10 @@
 <LM>w#w-ln94206-13-p2s3w5</LM>
 </w.rf>
 <form>s</form>
-<tag lemma="společnost_:B" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="společnost_:B" src="orig">NNFXX-----A---8</AM>
+<AM lemma="společnost" src="manual" selected="1">NNFXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln94206-13-p2s3w6">
 <src.rf>manual</src.rf>
@@ -329,7 +338,10 @@
 <LM>w#w-ln94206-13-p2s3w7</LM>
 </w.rf>
 <form>r</form>
-<tag lemma="ručení_:B" src="orig" selected="1">NNNS7-----A---8</tag>
+<tag>
+<AM lemma="ručení_:B" src="orig">NNNS7-----A---8</AM>
+<AM lemma="ručení" src="manual" selected="1">NNNS7-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln94206-13-p2s3w8">
 <src.rf>manual</src.rf>
@@ -345,7 +357,10 @@
 <LM>w#w-ln94206-13-p2s3w9</LM>
 </w.rf>
 <form>o</form>
-<tag lemma="omezený_:B" src="orig" selected="1">AANS7----1A---8</tag>
+<tag>
+<AM lemma="omezený_:B" src="orig">AANS7----1A---8</AM>
+<AM lemma="omezený" src="manual" selected="1">AANS7----1A---8</AM>
+</tag>
 </m>
 <m id="m-ln94206-13-p2s3w10">
 <src.rf>manual</src.rf>
@@ -433,7 +448,10 @@
 <LM>w#w-ln94206-13-p2s3w20</LM>
 </w.rf>
 <form>tel</form>
-<tag lemma="telefon_:B" src="auto" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="telefon_:B" src="auto">NNIXX-----A---8</AM>
+<AM lemma="telefon" src="manual" selected="1">NNIXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln94206-13-p2s3w21">
 <src.rf>manual</src.rf>
@@ -611,7 +629,11 @@
 <LM>w#w-ln94206-13-p3s1w6</LM>
 </w.rf>
 <form>A</form>
-<tag lemma="A-4_:B_;K" src="orig" selected="1">AAXXX----1A---8</tag>
+<tag>
+<AM lemma="A-4_:B_;K" src="orig">AAXXX----1A---8</AM>
+<AM lemma="A-4_:B_;K	A-33_^(označení_pomocí_písmene)" src="manual">NNNXX-----A----</AM>
+<AM lemma="A-33_^(označení_pomocí_písmene)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94206-13-p3s1w7">
 <src.rf>manual</src.rf>
@@ -627,7 +649,10 @@
 <LM>w#w-ln94206-13-p3s1w8</LM>
 </w.rf>
 <form>Consult</form>
-<tag lemma="Consult_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="Consult_;K" src="orig">NNIS1-----A----</AM>
+<AM lemma="Consult-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94206-13-p3s1w9">
 <src.rf>manual</src.rf>
@@ -635,7 +660,10 @@
 <LM>w#w-ln94206-13-p3s1w9</LM>
 </w.rf>
 <form>plus</form>
-<tag lemma="plus-1_^(znaménko_plus;_vyjádření_kladné_vlastnosti)" src="orig" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="plus-1_^(znaménko_plus;_vyjádření_kladné_vlastnosti)" src="orig">NNIS1-----A----</AM>
+<AM lemma="plus-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94206-13-p3s1w10">
 <src.rf>manual</src.rf>
@@ -998,7 +1026,10 @@
 <LM>w#w-ln94206-13-p3s2w9</LM>
 </w.rf>
 <form>A</form>
-<tag lemma="A-4_:B_;K" src="orig" selected="1">AAXXX----1A---8</tag>
+<tag>
+<AM lemma="A-4_:B_;K" src="orig">AAXXX----1A---8</AM>
+<AM lemma="A-33_^(označení_pomocí_písmene)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94206-13-p3s2w10">
 <src.rf>manual</src.rf>
@@ -1014,7 +1045,10 @@
 <LM>w#w-ln94206-13-p3s2w11</LM>
 </w.rf>
 <form>Consult</form>
-<tag lemma="Consult_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="Consult_;K" src="orig">NNIS1-----A----</AM>
+<AM lemma="Consult-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94206-13-p3s2w12">
 <src.rf>manual</src.rf>
@@ -1022,7 +1056,10 @@
 <LM>w#w-ln94206-13-p3s2w12</LM>
 </w.rf>
 <form>plus</form>
-<tag lemma="plus-1_^(znaménko_plus;_vyjádření_kladné_vlastnosti)" src="orig" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="plus-1_^(znaménko_plus;_vyjádření_kladné_vlastnosti)" src="orig">NNIS1-----A----</AM>
+<AM lemma="plus-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94206-13-p3s2w13">
 <src.rf>manual</src.rf>
@@ -1210,7 +1247,10 @@
 <LM>w#w-ln94206-13-p3s4w5</LM>
 </w.rf>
 <form>s</form>
-<tag lemma="společnost_:B" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="společnost_:B" src="orig">NNFXX-----A---8</AM>
+<AM lemma="společnost" src="manual" selected="1">NNFXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln94206-13-p3s4w6">
 <src.rf>manual</src.rf>
@@ -1226,7 +1266,10 @@
 <LM>w#w-ln94206-13-p3s4w7</LM>
 </w.rf>
 <form>r</form>
-<tag lemma="ručení_:B" src="orig" selected="1">NNNS7-----A---8</tag>
+<tag>
+<AM lemma="ručení_:B" src="orig">NNNS7-----A---8</AM>
+<AM lemma="ručení" src="manual" selected="1">NNNS7-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln94206-13-p3s4w8">
 <src.rf>manual</src.rf>
@@ -1242,7 +1285,10 @@
 <LM>w#w-ln94206-13-p3s4w9</LM>
 </w.rf>
 <form>o</form>
-<tag lemma="omezený_:B" src="orig" selected="1">AANS7----1A---8</tag>
+<tag>
+<AM lemma="omezený_:B" src="orig">AANS7----1A---8</AM>
+<AM lemma="omezený" src="manual" selected="1">AANS7----1A---8</AM>
+</tag>
 </m>
 <m id="m-ln94206-13-p3s4w10">
 <src.rf>manual</src.rf>
@@ -1454,7 +1500,10 @@
 <LM>w#w-ln94206-13-p4s2w10</LM>
 </w.rf>
 <form>TMI</form>
-<tag lemma="TMI_:B_;K_^(eletrárna_Three_Mile_Island)" src="auto" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="TMI_:B_;K_^(eletrárna_Three_Mile_Island)" src="auto">NNFXX-----A---8</AM>
+<AM lemma="TMI-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln94206-13-p4s2w11">
 <src.rf>manual</src.rf>
@@ -1818,7 +1867,10 @@
 <LM>w#w-ln94206-13-p4s4w3</LM>
 </w.rf>
 <form>TMI</form>
-<tag lemma="TMI_:B_;K_^(eletrárna_Three_Mile_Island)" src="auto" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="TMI_:B_;K_^(eletrárna_Three_Mile_Island)" src="auto">NNFXX-----A---8</AM>
+<AM lemma="TMI-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln94206-13-p4s4w4">
 <src.rf>manual</src.rf>
@@ -1834,7 +1886,10 @@
 <LM>w#w-ln94206-13-p4s4w5</LM>
 </w.rf>
 <form>a</form>
-<tag lemma="akciový_:B_^(jen_akciová_společnost)" src="orig" selected="1">AAXXX----1A---8</tag>
+<tag>
+<AM lemma="akciový_:B_^(jen_akciová_společnost)" src="orig">AAXXX----1A---8</AM>
+<AM lemma="akciový_^(jen_akciová_společnost)" src="manual" selected="1">AAXXX----1A---8</AM>
+</tag>
 </m>
 <m id="m-ln94206-13-p4s4w6">
 <src.rf>manual</src.rf>
@@ -1850,7 +1905,10 @@
 <LM>w#w-ln94206-13-p4s4w7</LM>
 </w.rf>
 <form>s</form>
-<tag lemma="společnost_:B" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="společnost_:B" src="orig">NNFXX-----A---8</AM>
+<AM lemma="společnost" src="manual" selected="1">NNFXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln94206-13-p4s4w8">
 <src.rf>manual</src.rf>
@@ -1874,7 +1932,10 @@
 <LM>w#w-ln94206-13-p4s4w10</LM>
 </w.rf>
 <form>V</form>
-<tag lemma="V-0_:B_;Y" src="orig" selected="1">NNMXX-----A---8</tag>
+<tag>
+<AM lemma="V-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
+<AM lemma="V-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln94206-13-p4s4w11">
 <src.rf>manual</src.rf>
@@ -1890,7 +1951,10 @@
 <LM>w#w-ln94206-13-p4s4w12</LM>
 </w.rf>
 <form>P</form>
-<tag lemma="P-0_:B_;Y" src="orig" selected="1">NNMXX-----A---8</tag>
+<tag>
+<AM lemma="P-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
+<AM lemma="P-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln94206-13-p4s4w13">
 <src.rf>manual</src.rf>
@@ -1970,7 +2034,10 @@
 <LM>w#w-ln94206-13-p4s4w22</LM>
 </w.rf>
 <form>tel</form>
-<tag lemma="telefon_:B" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="telefon_:B" src="orig">NNIXX-----A---8</AM>
+<AM lemma="telefon" src="manual" selected="1">NNIXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln94206-13-p4s4w23">
 <src.rf>manual</src.rf>

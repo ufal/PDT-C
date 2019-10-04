@@ -181,7 +181,10 @@
 <LM>w#w-ln95045-053-p2s1w16</LM>
 </w.rf>
 <form>NDR</form>
-<tag lemma="NDR_:B_;G_;K" src="auto" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="NDR_:B_;G_;K" src="auto">NNFXX-----A---8</AM>
+<AM lemma="NDR-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95045-053-p2s1w17">
 <src.rf>manual</src.rf>
@@ -253,7 +256,10 @@
 <LM>w#w-ln95045-053-p2s1w25</LM>
 </w.rf>
 <form>začne</form>
-<tag lemma="začít-1_^(začnout)" src="auto" selected="1">VB-S---3P-AA---</tag>
+<tag>
+<AM lemma="začít-1_^(začnout)" src="auto">VB-S---3P-AA---</AM>
+<AM lemma="začít-1_:W_^(začnout)" src="manual" selected="1">VB-S---3P-AA---</AM>
+</tag>
 </m>
 <m id="m-ln95045-053-p2s1w26">
 <src.rf>manual</src.rf>
@@ -543,7 +549,10 @@
 <LM>w#w-ln95045-053-p3s1w21</LM>
 </w.rf>
 <form>NDR</form>
-<tag lemma="NDR_:B_;G_;K" src="auto" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="NDR_:B_;G_;K" src="auto">NNFXX-----A---8</AM>
+<AM lemma="NDR-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95045-053-p3s1w22">
 <src.rf>manual</src.rf>
@@ -641,7 +650,10 @@
 <LM>w#w-ln95045-053-p3s2w1</LM>
 </w.rf>
 <form>Klade</form>
-<tag lemma="klást" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag>
+<AM lemma="klást" src="orig">VB-S---3P-AA---</AM>
+<AM lemma="klást_:T" src="manual" selected="1">VB-S---3P-AA---</AM>
+</tag>
 </m>
 <m id="m-ln95045-053-p3s2w2">
 <src.rf>manual</src.rf>
@@ -981,7 +993,10 @@
 <LM>w#w-ln95045-053-p3s4w8</LM>
 </w.rf>
 <form>souzen</form>
-<tag lemma="soudit" src="orig" selected="1">VsYS---XX-AP---</tag>
+<tag>
+<AM lemma="soudit" src="orig">VsYS---XX-AP---</AM>
+<AM lemma="soudit_:T" src="manual" selected="1">VsYS---XX-AP---</AM>
+</tag>
 </m>
 <m id="m-ln95045-053-p3s4w9">
 <src.rf>manual</src.rf>
@@ -1049,6 +1064,7 @@
 <AM lemma="Stasi_:B_;K_,t" src="orig">NNFXX-----A---8</AM>
 <AM lemma="Stasi_:B_;K" src="auto" recommended="1">NNFXX-----A----</AM>
 <AM lemma="Stasi_:B_;K" src="auto">NNXXX-----A---8</AM>
+<AM lemma="Stasi-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-ln95045-053-p3s4w17">
@@ -2030,7 +2046,10 @@
 <LM>w#w-ln95045-053-p5s4w12</LM>
 </w.rf>
 <form>vykoupeno</form>
-<tag lemma="vykoupit" src="orig" selected="1">VsNS---XX-AP---</tag>
+<tag>
+<AM lemma="vykoupit" src="orig">VsNS---XX-AP---</AM>
+<AM lemma="vykoupit_:W" src="manual" selected="1">VsNS---XX-AP---</AM>
+</tag>
 </m>
 <m id="m-ln95045-053-p5s4w13">
 <src.rf>manual</src.rf>

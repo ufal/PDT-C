@@ -183,7 +183,10 @@
 <LM>w#w-mf920923-116-p2s2w11</LM>
 </w.rf>
 <form>jen</form>
-<tag lemma="jen-1" src="auto" selected="1">TT-------------</tag>
+<tag>
+<AM lemma="jen-1" src="auto">TT-------------</AM>
+<AM lemma="jen-4_^(pouze)" src="manual" selected="1">Db-------------</AM>
+</tag>
 </m>
 <m id="m-mf920923-116-p2s2w12">
 <src.rf>manual</src.rf>
@@ -429,7 +432,11 @@
 <LM>w#w-mf920923-116-p2s5w3</LM>
 </w.rf>
 <form>intenzívně</form>
-<tag lemma="intenzívně_^(*1í)" src="orig" selected="1">Dg-------1A----</tag>
+<tag>
+<AM lemma="intenzívně_^(*1í)" src="orig">Dg-------1A----</AM>
+<AM lemma="intenzívně_^(*1í)_,s_^(^DD**intenzivně)" src="manual">Dg-------1A----</AM>
+<AM lemma="intenzívně_,s_^(^DD**intenzivně)_^(*1í)" src="manual" selected="1">Dg-------1A----</AM>
+</tag>
 </m>
 <m id="m-mf920923-116-p2s5w4">
 <src.rf>manual</src.rf>
@@ -800,7 +807,10 @@
 <LM>w#w-mf920923-116-p3s1w30</LM>
 </w.rf>
 <form>ČSFR</form>
-<tag lemma="ČSFR-1_:B_;G_^(Čs._federativní_republika)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ČSFR-1_:B_;G_^(Čs._federativní_republika)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČSFR-1_:B_;G_^(Čs._federativní_republika)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920923-116-p3s1w31">
 <src.rf>manual</src.rf>
@@ -1058,7 +1068,10 @@
 <LM>w#w-mf920923-116-p4s1w22</LM>
 </w.rf>
 <form>MDF</form>
-<tag lemma="MDF-1_:B_;K_,t_^(Magyar_Demokrata_Fórum)" src="auto" selected="1">NNNXX-----A---8</tag>
+<tag>
+<AM lemma="MDF-1_:B_;K_,t_^(Magyar_Demokrata_Fórum)" src="auto">NNNXX-----A---8</AM>
+<AM lemma="MDF-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-mf920923-116-p4s1w23">
 <src.rf>manual</src.rf>
@@ -1082,7 +1095,10 @@
 <LM>w#w-mf920923-116-p4s1w25</LM>
 </w.rf>
 <form>Antall</form>
-<tag lemma="Antall_;Y" src="orig" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Antall_;Y" src="orig">NNMS1-----A----</AM>
+<AM lemma="Antall_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920923-116-p4s1w26">
 <src.rf>manual</src.rf>
@@ -1178,7 +1194,10 @@
 <LM>w#w-mf920923-116-p4s1w37</LM>
 </w.rf>
 <form>Newsweek</form>
-<tag lemma="Newsweek_;R" src="orig" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="Newsweek_;R" src="orig">NNIS1-----A----</AM>
+<AM lemma="Newsweek-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-mf920923-116-p4s1w38">
 <src.rf>manual</src.rf>

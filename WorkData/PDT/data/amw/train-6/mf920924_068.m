@@ -27,7 +27,11 @@
 <LM>w#w-mf920924-068-p1s1w2</LM>
 </w.rf>
 <form>stoličnaja</form>
-<tag lemma="stoličnij_;R_,t" src="orig" selected="1">NNFS1-----A----</tag>
+<tag>
+<AM lemma="stoličnij_;R_,t" src="orig">NNFS1-----A----</AM>
+<AM lemma="stoličnaja-77" src="manual">F%-------------</AM>
+<AM lemma="stoličnaja-1_^(vodka)" src="manual" selected="1">NNFS1-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920924-068-p1s1w3">
 <src.rf>manual</src.rf>
@@ -88,6 +92,7 @@
 <tag>
 <AM lemma="sob-99_:B_;S" src="orig">NNXXX-----A---8</AM>
 <AM lemma="sob" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="sob-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920924-068-p2s1w4">
@@ -388,7 +393,10 @@
 <LM>w#w-mf920924-068-p2s3w24</LM>
 </w.rf>
 <form>Stoličnaja</form>
-<tag lemma="Stoličnaja-1_,t_^(vodka)" src="orig" selected="1">NNFS1-----A----</tag>
+<tag>
+<AM lemma="Stoličnaja-1_,t_^(vodka)" src="orig">NNFS1-----A----</AM>
+<AM lemma="Stoličnaja-1_^(vodka)" src="manual" selected="1">NNFS1-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920924-068-p2s3w25">
 <src.rf>manual</src.rf>
@@ -834,7 +842,7 @@
 <form>vůbec</form>
 <tag>
 <AM lemma="vůbec" src="orig">Db-------------</AM>
-<AM lemma="vůbec" src="auto" recommended="1">TT-------------</AM>
+<AM lemma="vůbec" src="auto" recommended="1" selected="1">TT-------------</AM>
 </tag>
 </m>
 <m id="m-mf920924-068-p2s5w23">
@@ -1329,7 +1337,10 @@
 <LM>w#w-mf920924-068-p2s8w11</LM>
 </w.rf>
 <form>Stoličnaja</form>
-<tag lemma="Stoličnaja-1_,t_^(vodka)" src="orig" selected="1">NNFS1-----A----</tag>
+<tag>
+<AM lemma="Stoličnaja-1_,t_^(vodka)" src="orig">NNFS1-----A----</AM>
+<AM lemma="Stoličnaja-1_^(vodka)" src="manual" selected="1">NNFS1-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920924-068-p2s8w12">
 <src.rf>manual</src.rf>

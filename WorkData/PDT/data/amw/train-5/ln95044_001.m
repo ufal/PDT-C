@@ -85,7 +85,10 @@
 <LM>w#w-ln95044-001-p2s1w8</LM>
 </w.rf>
 <form>Certum</form>
-<tag lemma="Certum_;K_,t" src="orig" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="Certum_;K_,t" src="orig">NNIS1-----A----</AM>
+<AM lemma="Certum_;K" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95044-001-p2s1w9">
 <src.rf>manual</src.rf>
@@ -344,7 +347,10 @@
 <LM>w#w-ln95044-001-p3s1w18</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-2" src="auto" selected="1">Dg-------2A----</tag>
+<tag>
+<AM lemma="hodně-2" src="auto">Dg-------2A----</AM>
+<AM lemma="hodně-3" src="manual" selected="1">Dg-------2A----</AM>
+</tag>
 </m>
 <m id="m-ln95044-001-p3s1w19">
 <src.rf>manual</src.rf>
@@ -996,7 +1002,10 @@
 <LM>w#w-ln95044-001-p6s1w17</LM>
 </w.rf>
 <form>OSN</form>
-<tag lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95044-001-p6s1w18">
 <src.rf>manual</src.rf>

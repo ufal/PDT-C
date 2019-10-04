@@ -400,6 +400,7 @@
 <AM lemma="Patricie_;Y" src="auto">NNFS4-----A----</AM>
 <AM lemma="Patricie_;Y" src="auto">NNFS6-----A----</AM>
 <AM lemma="patricius" src="auto">NNMP7-----A----</AM>
+<AM lemma="Patricia_;Y_,t" src="manual" selected="1">NNFS3-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930709-086-p1s3w6">
@@ -558,7 +559,7 @@
 <AM lemma="Indianapolis_;G" src="orig">NNIS6-----A----</AM>
 <AM lemma="Indianapolis_;G" src="auto">NNIS2-----A---1</AM>
 <AM lemma="Indianapolis_;G" src="auto">NNIS3-----A---1</AM>
-<AM lemma="Indianapolis_;G" src="auto" recommended="1">NNIS6-----A---1</AM>
+<AM lemma="Indianapolis_;G" src="auto" recommended="1" selected="1">NNIS6-----A---1</AM>
 </tag>
 </m>
 <m id="m-mf930709-086-p1s4w10">
@@ -753,6 +754,8 @@
 <tag>
 <AM lemma="Olympique_:B_;K_,t_^(souč._názvu_franc._sport._klubů)" src="orig">NNIXX-----A---8</AM>
 <AM lemma="Ola_;G_;Y_^(i_Joškar-Ola)" src="auto" recommended="1">NNFP2-----A----</AM>
+<AM lemma="olympique_:B_,t" src="manual">NNXXX-----A---8</AM>
+<AM lemma="Ol-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-mf930709-086-p2s2Bw11">

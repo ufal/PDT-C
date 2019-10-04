@@ -102,6 +102,7 @@
 <tag>
 <AM lemma="Prague_;K_,t" src="orig">AAXXX----1A----</AM>
 <AM lemma="Prague_;G" src="auto" recommended="1">NNXXX-----A----</AM>
+<AM lemma="Prague-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-ln94208-115-p1s1w12">
@@ -114,6 +115,7 @@
 <AM lemma="Panthers_;K_,t" src="orig">NNMPX-----A----</AM>
 <AM lemma="Panthers_;K" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Panthers_;K" src="auto">NNIS4-----A----</AM>
+<AM lemma="Panthers-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-ln94208-115-p1s1w13">
@@ -133,6 +135,7 @@
 <tag>
 <AM lemma="Prague_;K_,t" src="orig">AAXXX----1A----</AM>
 <AM lemma="Prague_;G" src="auto" recommended="1">NNXXX-----A----</AM>
+<AM lemma="Prague-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-ln94208-115-p1s1w15">
@@ -145,6 +148,7 @@
 <AM lemma="Lions_;K_,t" src="orig">NNMPX-----A----</AM>
 <AM lemma="Lions_;K" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Lions_;K" src="auto">NNIS4-----A----</AM>
+<AM lemma="Lions-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-ln94208-115-p1s1w16">
@@ -365,7 +369,10 @@
 <LM>w#w-ln94208-115-p1s3Aw5</LM>
 </w.rf>
 <form>ČAAF</form>
-<tag lemma="ČAAF_:B_;K" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ČAAF_:B_;K" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČAAF-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94208-115-p1s3Aw6">
 <src.rf>manual</src.rf>
@@ -415,7 +422,10 @@
 <LM>w#w-ln94208-115-p1s3Bw5</LM>
 </w.rf>
 <form>LN</form>
-<tag lemma="LN-1_:B_;R_^(Lidové_noviny,_deník)" src="orig" selected="1">NNFPX-----A---8</tag>
+<tag>
+<AM lemma="LN-1_:B_;R_^(Lidové_noviny,_deník)" src="orig">NNFPX-----A---8</AM>
+<AM lemma="LN-1_:B_;K_;R_^(Lidové_noviny)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 </s>
 </mdata>

@@ -363,7 +363,10 @@
 <LM>w#w-ln94211-46-p2s2w4</LM>
 </w.rf>
 <form>ČMSS</form>
-<tag lemma="ČMSS_:B_;K" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ČMSS_:B_;K" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČMSS-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln94211-46-p2s2w5">
 <src.rf>manual</src.rf>

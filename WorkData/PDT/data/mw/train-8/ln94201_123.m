@@ -19,7 +19,10 @@
 <LM>w#w-ln94201-123-p1s1w1</LM>
 </w.rf>
 <form>Kubismus</form>
-<tag lemma="kubismus" src="orig" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="kubismus" src="orig">NNIS1-----A----</AM>
+<AM lemma="kubismus_,s_^(^DD**kubizmus)" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94201-123-p1s1w2">
 <src.rf>manual</src.rf>
@@ -200,7 +203,7 @@
 <AM lemma="matka-2_^(maminka)" src="auto">NNFP1-----A----</AM>
 <AM lemma="matka-2_^(maminka)" src="auto">NNFP4-----A----</AM>
 <AM lemma="matka-2_^(maminka)" src="auto">NNFP5-----A----</AM>
-<AM lemma="matka-2_^(maminka)" src="auto">NNFS2-----A----</AM>
+<AM lemma="matka-2_^(maminka)" src="auto" selected="1">NNFS2-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94201-123-p2s1w17">
@@ -307,7 +310,10 @@
 <LM>w#w-ln94201-123-p2s2w11</LM>
 </w.rf>
 <form>Sekera</form>
-<tag lemma="sekera" src="orig" selected="1">NNFS1-----A----</tag>
+<tag>
+<AM lemma="sekera" src="orig">NNFS1-----A----</AM>
+<AM lemma="Sekera_;S" src="manual" selected="1">NNFS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94201-123-p2s2w12">
 <src.rf>manual</src.rf>
@@ -365,7 +371,10 @@
 <LM>w#w-ln94201-123-p3s1w6</LM>
 </w.rf>
 <form>jen</form>
-<tag lemma="jen-1" src="auto" selected="1">TT-------------</tag>
+<tag>
+<AM lemma="jen-1" src="auto">TT-------------</AM>
+<AM lemma="jen-4_^(pouze)" src="manual" selected="1">Db-------------</AM>
+</tag>
 </m>
 <m id="m-ln94201-123-p3s1w7">
 <src.rf>manual</src.rf>
@@ -577,7 +586,10 @@
 <LM>w#w-ln94201-123-p3s3w5</LM>
 </w.rf>
 <form>kubismu</form>
-<tag lemma="kubismus" src="orig" selected="1">NNIS2-----A----</tag>
+<tag>
+<AM lemma="kubismus" src="orig">NNIS2-----A----</AM>
+<AM lemma="kubismus_,s_^(^DD**kubizmus)" src="manual" selected="1">NNIS2-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94201-123-p3s3w6">
 <src.rf>manual</src.rf>
@@ -697,7 +709,10 @@
 <LM>w#w-ln94201-123-p3s3w20</LM>
 </w.rf>
 <form>kubismus</form>
-<tag lemma="kubismus" src="orig" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="kubismus" src="orig">NNIS1-----A----</AM>
+<AM lemma="kubismus_,s_^(^DD**kubizmus)" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94201-123-p3s3w21">
 <src.rf>manual</src.rf>
@@ -878,7 +893,7 @@
 <AM lemma="matka-2_^(maminka)" src="auto">NNFP1-----A----</AM>
 <AM lemma="matka-2_^(maminka)" src="auto">NNFP4-----A----</AM>
 <AM lemma="matka-2_^(maminka)" src="auto">NNFP5-----A----</AM>
-<AM lemma="matka-2_^(maminka)" src="auto">NNFS2-----A----</AM>
+<AM lemma="matka-2_^(maminka)" src="auto" selected="1">NNFS2-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94201-123-p3s4w15">
@@ -911,7 +926,10 @@
 <LM>w#w-ln94201-123-p3s4w18</LM>
 </w.rf>
 <form>Sekera</form>
-<tag lemma="sekera" src="orig" selected="1">NNFS1-----A----</tag>
+<tag>
+<AM lemma="sekera" src="orig">NNFS1-----A----</AM>
+<AM lemma="Sekera_;S" src="manual" selected="1">NNFS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94201-123-p3s4w19">
 <src.rf>manual</src.rf>
@@ -1001,7 +1019,10 @@
 <LM>w#w-ln94201-123-p4s1w10</LM>
 </w.rf>
 <form>Koláře</form>
-<tag lemma="kolář" src="orig" selected="1">NNMS2-----A----</tag>
+<tag>
+<AM lemma="kolář" src="orig">NNMS2-----A----</AM>
+<AM lemma="Kolář_;S" src="manual" selected="1">NNMS2-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94201-123-p4s1w11">
 <src.rf>manual</src.rf>
@@ -1334,7 +1355,10 @@
 <LM>w#w-ln94201-123-p4s3w16</LM>
 </w.rf>
 <form>Sekera</form>
-<tag lemma="sekera" src="orig" selected="1">NNFS1-----A----</tag>
+<tag>
+<AM lemma="sekera" src="orig">NNFS1-----A----</AM>
+<AM lemma="Sekera_;S" src="manual" selected="1">NNFS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94201-123-p4s3w17">
 <src.rf>manual</src.rf>
@@ -1493,7 +1517,7 @@
 <AM lemma="matka-2_^(maminka)" src="auto">NNFP1-----A----</AM>
 <AM lemma="matka-2_^(maminka)" src="auto">NNFP4-----A----</AM>
 <AM lemma="matka-2_^(maminka)" src="auto">NNFP5-----A----</AM>
-<AM lemma="matka-2_^(maminka)" src="auto">NNFS2-----A----</AM>
+<AM lemma="matka-2_^(maminka)" src="auto" selected="1">NNFS2-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94201-123-p5s1w5">
@@ -1683,7 +1707,7 @@
 <AM lemma="matka-2_^(maminka)" src="auto">NNFP1-----A----</AM>
 <AM lemma="matka-2_^(maminka)" src="auto">NNFP4-----A----</AM>
 <AM lemma="matka-2_^(maminka)" src="auto">NNFP5-----A----</AM>
-<AM lemma="matka-2_^(maminka)" src="auto">NNFS2-----A----</AM>
+<AM lemma="matka-2_^(maminka)" src="auto" selected="1">NNFS2-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94201-123-p5s2w12">
@@ -1992,7 +2016,10 @@
 <LM>w#w-ln94201-123-p5s4w13</LM>
 </w.rf>
 <form>Sekera</form>
-<tag lemma="sekera" src="orig" selected="1">NNFS1-----A----</tag>
+<tag>
+<AM lemma="sekera" src="orig">NNFS1-----A----</AM>
+<AM lemma="Sekera_;S" src="manual" selected="1">NNFS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94201-123-p5s4w14">
 <src.rf>manual</src.rf>
@@ -2069,7 +2096,7 @@
 <AM lemma="matka-2_^(maminka)" src="auto">NNFP1-----A----</AM>
 <AM lemma="matka-2_^(maminka)" src="auto">NNFP4-----A----</AM>
 <AM lemma="matka-2_^(maminka)" src="auto">NNFP5-----A----</AM>
-<AM lemma="matka-2_^(maminka)" src="auto">NNFS2-----A----</AM>
+<AM lemma="matka-2_^(maminka)" src="auto" selected="1">NNFS2-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94201-123-p6s1w8">
@@ -2216,7 +2243,10 @@
 <LM>w#w-ln94201-123-p6s2w6</LM>
 </w.rf>
 <form>Signum</form>
-<tag lemma="signum" src="orig" selected="1">NNNS1-----A----</tag>
+<tag>
+<AM lemma="signum" src="orig">NNNS1-----A----</AM>
+<AM lemma="Signum-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94201-123-p6s2w7">
 <src.rf>manual</src.rf>
@@ -2224,7 +2254,10 @@
 <LM>w#w-ln94201-123-p6s2w7</LM>
 </w.rf>
 <form>artis</form>
-<tag lemma="artis" src="orig" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="artis" src="orig">NNIS1-----A----</AM>
+<AM lemma="artis-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94201-123-p6s2w8">
 <src.rf>manual</src.rf>
@@ -2477,7 +2510,7 @@
 <AM lemma="matka-2_^(maminka)" src="auto">NNFP1-----A----</AM>
 <AM lemma="matka-2_^(maminka)" src="auto">NNFP4-----A----</AM>
 <AM lemma="matka-2_^(maminka)" src="auto">NNFP5-----A----</AM>
-<AM lemma="matka-2_^(maminka)" src="auto">NNFS2-----A----</AM>
+<AM lemma="matka-2_^(maminka)" src="auto" selected="1">NNFS2-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94201-123-p6s3w21">
@@ -2608,7 +2641,10 @@
 <LM>w#w-ln94201-123-p6s4w13</LM>
 </w.rf>
 <form>Sekera</form>
-<tag lemma="sekera" src="orig" selected="1">NNFS1-----A----</tag>
+<tag>
+<AM lemma="sekera" src="orig">NNFS1-----A----</AM>
+<AM lemma="Sekera_;S" src="manual" selected="1">NNFS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94201-123-p6s4w14">
 <src.rf>manual</src.rf>

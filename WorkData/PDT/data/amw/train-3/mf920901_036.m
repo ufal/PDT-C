@@ -315,7 +315,10 @@
 <LM>w#w-mf920901-036-p1s1w38</LM>
 </w.rf>
 <form>kpt</form>
-<tag lemma="kapitán_:B" src="orig" selected="1">NNMXX-----A---8</tag>
+<tag>
+<AM lemma="kapitán_:B" src="orig">NNMXX-----A---8</AM>
+<AM lemma="kapitán" src="manual" selected="1">NNMXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-mf920901-036-p1s1w39">
 <src.rf>manual</src.rf>
@@ -339,7 +342,10 @@
 <LM>w#w-mf920901-036-p1s1w41</LM>
 </w.rf>
 <form>Ležáka</form>
-<tag lemma="ležák-1_,h" src="orig" selected="1">NNMS2-----A----</tag>
+<tag>
+<AM lemma="ležák-1_,h" src="orig">NNMS2-----A----</AM>
+<AM lemma="Ležák_;S" src="manual" selected="1">NNMS2-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920901-036-p1s1w42">
 <src.rf>manual</src.rf>
@@ -593,7 +599,10 @@
 <LM>w#w-mf920901-036-p1s5w4</LM>
 </w.rf>
 <form>Ležáka</form>
-<tag lemma="ležák-1_,h" src="orig" selected="1">NNMS2-----A----</tag>
+<tag>
+<AM lemma="ležák-1_,h" src="orig">NNMS2-----A----</AM>
+<AM lemma="Ležák_;S" src="manual" selected="1">NNMS2-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920901-036-p1s5w5">
 <src.rf>manual</src.rf>

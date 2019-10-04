@@ -135,7 +135,10 @@
 <LM>w#w-lnd91301-090-p3s1w9</LM>
 </w.rf>
 <form>ZOH</form>
-<tag lemma="ZOH-1_:B_;w_^(Zimní_olympijské_hry)" src="orig" selected="1">NNFPX-----A---8</tag>
+<tag>
+<AM lemma="ZOH-1_:B_;w_^(Zimní_olympijské_hry)" src="orig">NNFPX-----A---8</AM>
+<AM lemma="ZOH-1_:B_^(Zimní_olympijské_hry)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd91301-090-p3s1w10">
 <src.rf>manual</src.rf>
@@ -307,7 +310,7 @@
 <form>přesto</form>
 <tag>
 <AM lemma="přesto" src="orig">Dg-------1A----</AM>
-<AM lemma="přesto-1" src="auto" recommended="1">Db-------------</AM>
+<AM lemma="přesto-1" src="auto" recommended="1" selected="1">Db-------------</AM>
 <AM lemma="přesto-2" src="auto">J^-------------</AM>
 </tag>
 </m>
@@ -375,7 +378,10 @@
 <LM>w#w-lnd91301-090-p3s3w3</LM>
 </w.rf>
 <form>Claude</form>
-<tag lemma="Claude_;Y_,t" src="auto" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Claude_;Y_,t" src="auto">NNMS1-----A----</AM>
+<AM lemma="Claude_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd91301-090-p3s3w4">
 <src.rf>manual</src.rf>
@@ -385,7 +391,7 @@
 <form>Killy</form>
 <tag>
 <AM lemma="Killy_;S" src="orig">NNMP1-----A----</AM>
-<AM lemma="Killy_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Killy_;S" src="auto" recommended="1" selected="1">NNMS1-----A----</AM>
 <AM lemma="Killy_;S" src="auto">NNMS5-----A----</AM>
 </tag>
 </m>
@@ -653,7 +659,10 @@
 <LM>w#w-lnd91301-090-p3s4w5</LM>
 </w.rf>
 <form>Roche</form>
-<tag lemma="Roche_;S" src="auto" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Roche_;S" src="auto">NNMS1-----A----</AM>
+<AM lemma="Roche-1_;S" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd91301-090-p3s4w6">
 <src.rf>manual</src.rf>

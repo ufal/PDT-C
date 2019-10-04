@@ -419,6 +419,7 @@
 <tag>
 <AM lemma="Kč" src="orig">NNFXX-----A----</AM>
 <AM lemma="Kč_:B" src="auto" recommended="1">NNFXX-----A---8</AM>
+<AM lemma="Kč_:B" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95046-056-p2s2w13">
@@ -632,7 +633,7 @@
 <tag>
 <AM lemma="Motol_;G" src="orig">NNIS6-----A----</AM>
 <AM lemma="Motol_;G" src="auto">NNIS5-----A----</AM>
-<AM lemma="Motol_;G" src="auto" recommended="1">NNIS6-----A---1</AM>
+<AM lemma="Motol_;G" src="auto" recommended="1" selected="1">NNIS6-----A---1</AM>
 </tag>
 </m>
 <m id="m-ln95046-056-p2s3w18">
@@ -739,7 +740,10 @@
 <LM>w#w-ln95046-056-p3s1w12</LM>
 </w.rf>
 <form>Top</form>
-<tag lemma="top-1_,h_,t" src="auto" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="top-1_,h_,t" src="auto">AAXXX----1A----</AM>
+<AM lemma="Top-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln95046-056-p3s1w13">
 <src.rf>manual</src.rf>
@@ -750,6 +754,8 @@
 <tag>
 <AM lemma="gun_,t" src="orig">NNFXX-----A----</AM>
 <AM lemma="Guna_;G" src="auto" recommended="1">NNFP2-----A----</AM>
+<AM lemma="gun_,t" src="manual">NNXXX-----A----</AM>
+<AM lemma="Gun-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-ln95046-056-p3s1w14">
@@ -772,6 +778,7 @@
 <AM lemma="Rain-1_;G" src="auto">NNIS4-----A----</AM>
 <AM lemma="Rain-2_;Y_,t_^(angl.,_déšť,_v_názvech)" src="auto">NNIXX-----A----</AM>
 <AM lemma="Rain_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Rain-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-ln95046-056-p3s1w16">
@@ -789,6 +796,8 @@
 <AM lemma="Man-3_;S" src="auto">NNMS1-----A----</AM>
 <AM lemma="man" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="mana" src="auto">NNFP2-----A----</AM>
+<AM lemma="man_,t" src="manual">NNXXX-----A----</AM>
+<AM lemma="Man-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-ln95046-056-p3s1w17">
@@ -1005,7 +1014,10 @@
 <LM>w#w-ln95046-056-p3s1w43</LM>
 </w.rf>
 <form>Briana</form>
-<tag lemma="Brian_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag>
+<AM lemma="Brian_;S" src="orig">NNMS2-----A----</AM>
+<AM lemma="Brian_;S_;Y" src="manual" selected="1">NNMS2-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95046-056-p3s1w44">
 <src.rf>manual</src.rf>
@@ -1013,7 +1025,10 @@
 <LM>w#w-ln95046-056-p3s1w44</LM>
 </w.rf>
 <form>De</form>
-<tag lemma="de_,t_^(z_franc._de,_zejm._ve_jménech)" src="orig" selected="1">RR--1----------</tag>
+<tag>
+<AM lemma="de_,t_^(z_franc._de,_zejm._ve_jménech)" src="orig">RR--1----------</AM>
+<AM lemma="De-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln95046-056-p3s1w45">
 <src.rf>manual</src.rf>
@@ -1045,7 +1060,10 @@
 <LM>w#w-ln95046-056-p3s1w48</LM>
 </w.rf>
 <form>Mission</form>
-<tag lemma="mission_,t" src="orig" selected="1">NNFXX-----A----</tag>
+<tag>
+<AM lemma="mission_,t" src="orig">NNFXX-----A----</AM>
+<AM lemma="Mission-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln95046-056-p3s1w49">
 <src.rf>manual</src.rf>
@@ -1053,7 +1071,10 @@
 <LM>w#w-ln95046-056-p3s1w49</LM>
 </w.rf>
 <form>Impossible</form>
-<tag lemma="impossible_,t" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="impossible_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="Impossible-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln95046-056-p3s1w50">
 <src.rf>manual</src.rf>
@@ -1135,7 +1156,10 @@
 <LM>w#w-ln95046-056-p3s2w9</LM>
 </w.rf>
 <form>Jon</form>
-<tag lemma="Jon_;Y_,t" src="auto" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Jon_;Y_,t" src="auto">NNMS1-----A----</AM>
+<AM lemma="Jon_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95046-056-p3s2w10">
 <src.rf>manual</src.rf>
@@ -1344,6 +1368,9 @@
 <AM lemma="la-1" src="auto">II-------------</AM>
 <AM lemma="la-2_,t" src="auto" recommended="1">AAXXX----1A----</AM>
 <AM lemma="la-3_,t" src="auto">RF-------------</AM>
+<AM lemma="La-4_,t_^(fr._člen)" src="manual">AAXXX----1A----</AM>
+<AM lemma="la-4_,t_^(fr._člen)" src="manual">AAXXX----1A----</AM>
+<AM lemma="La-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-ln95046-056-p3s3w16">
@@ -1355,6 +1382,7 @@
 <tag>
 <AM lemma="Manche_;G" src="orig">NNIS1-----A----</AM>
 <AM lemma="Manche_;G_^(La_Manche)" src="auto" recommended="1">NNISX-----A----</AM>
+<AM lemma="Manche-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-ln95046-056-p3s3w17">

@@ -143,7 +143,10 @@
 <LM>w#w-ln94202-110-p3s1w6</LM>
 </w.rf>
 <form>WBC</form>
-<tag lemma="WBC-1_:B_;K_,t_^(World_Box_Council)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="WBC-1_:B_;K_,t_^(World_Box_Council)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="WBC-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94202-110-p3s1w7">
 <src.rf>manual</src.rf>
@@ -191,7 +194,10 @@
 <LM>w#w-ln94202-110-p3s1w12</LM>
 </w.rf>
 <form>Hector</form>
-<tag lemma="Hector" src="orig" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Hector" src="orig">NNMS1-----A----</AM>
+<AM lemma="Hector_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94202-110-p3s1w13">
 <src.rf>manual</src.rf>
@@ -200,7 +206,7 @@
 </w.rf>
 <form>Acero</form>
 <tag>
-<AM lemma="Acero_;S" src="orig">NNMS1-----A----</AM>
+<AM lemma="Acero_;S" src="orig" selected="1">NNMS1-----A----</AM>
 <AM lemma="Acera_;R_^(Shimano_Acera)" src="auto" recommended="1">NNFS5-----A----</AM>
 </tag>
 </m>
@@ -240,6 +246,8 @@
 <AM lemma="Atlantic_;G" src="orig">AAXXX----1A----</AM>
 <AM lemma="Atlantik_;G_,t_,x" src="auto">NNIS1-----A---1</AM>
 <AM lemma="Atlantik_;G_,t_,x" src="auto" recommended="1">NNIS4-----A---1</AM>
+<AM lemma="Atlantic_,t" src="manual">AAXXX----1A----</AM>
+<AM lemma="Atlantic-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-ln94202-110-p3s2w3">
@@ -262,6 +270,7 @@
 <AM lemma="cit" src="auto">NNIP4-----A----</AM>
 <AM lemma="cit" src="auto">NNIP5-----A----</AM>
 <AM lemma="cit" src="auto">NNIP7-----A----</AM>
+<AM lemma="City-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-ln94202-110-p3s2w4">
@@ -302,7 +311,10 @@
 <LM>w#w-ln94202-110-p3s2w8</LM>
 </w.rf>
 <form>Tracyho</form>
-<tag lemma="Tracy_;Y_,t" src="auto" selected="1">NNMS4-----A----</tag>
+<tag>
+<AM lemma="Tracy_;Y_,t" src="auto">NNMS4-----A----</AM>
+<AM lemma="Tracy_;Y" src="manual" selected="1">NNMS4-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94202-110-p3s2w9">
 <src.rf>manual</src.rf>
@@ -460,6 +472,8 @@
 <AM lemma="IBF-3_:B_;K_,t_^(International_Box_Federation)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="IBF-1_:B_;K_,t_^(International_Badminton_Federation)" src="auto" recommended="1">NNFXX-----A---8</AM>
 <AM lemma="IBF-2_:B_;K_,t_^(International_Bowling_Federation)" src="auto">NNFXX-----A---8</AM>
+<AM lemma="IBF-3_:B" src="manual">NNXXX-----A---8</AM>
+<AM lemma="IBF-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94202-110-p4s1w12">
@@ -484,7 +498,10 @@
 <LM>w#w-ln94202-110-p4s1w14</LM>
 </w.rf>
 <form>Jake</form>
-<tag lemma="Jake_;Y_,t" src="orig" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Jake_;Y_,t" src="orig">NNMS1-----A----</AM>
+<AM lemma="Jake_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94202-110-p4s1w15">
 <src.rf>manual</src.rf>
@@ -540,7 +557,10 @@
 <LM>w#w-ln94202-110-p4s1w21</LM>
 </w.rf>
 <form>Pennsylvania</form>
-<tag lemma="Pennsylvanie_;G" src="orig" selected="1">NNFS1-----A---1</tag>
+<tag>
+<AM lemma="Pennsylvanie_;G" src="orig">NNFS1-----A---1</AM>
+<AM lemma="Pennsylvania_;G_^(^DD**Pennsylvanie)" src="manual" selected="1">NNFS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94202-110-p4s1w22">
 <src.rf>manual</src.rf>
@@ -729,6 +749,8 @@
 <tag>
 <AM lemma="WBO_:B_;K_,t" src="orig">NNFXX-----A---8</AM>
 <AM lemma="WBO_:B_;K_,t_^(Western_Buddhists_Order)" src="auto" recommended="1">NNIXX-----A---8</AM>
+<AM lemma="WBO_:B" src="manual">NNXXX-----A---8</AM>
+<AM lemma="WBO-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94202-110-p5s1w21">

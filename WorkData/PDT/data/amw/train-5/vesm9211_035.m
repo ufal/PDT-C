@@ -349,7 +349,10 @@
 <LM>w#w-vesm9211-035-p1s1Bw37</LM>
 </w.rf>
 <form>Science</form>
-<tag lemma="Science-1_;K_,t_^(souč._názvů,_např._Science)" src="orig" selected="1">NNFSX-----A----</tag>
+<tag>
+<AM lemma="Science-1_;K_,t_^(souč._názvů,_např._Science)" src="orig">NNFSX-----A----</AM>
+<AM lemma="Science-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-vesm9211-035-p1s1Bw38">
 <src.rf>manual</src.rf>
@@ -423,7 +426,10 @@
 <LM>w#w-vesm9211-035-p2s1w2</LM>
 </w.rf>
 <form>J</form>
-<tag lemma="J-0_:B_;Y" src="orig" selected="1">NNMXX-----A---8</tag>
+<tag>
+<AM lemma="J-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
+<AM lemma="J-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-vesm9211-035-p2s1w3">
 <src.rf>manual</src.rf>
@@ -463,7 +469,10 @@
 <LM>w#w-vesm9211-035-p2s1w7</LM>
 </w.rf>
 <form>university</form>
-<tag lemma="univerzita" src="orig" selected="1">NNFS2-----A----</tag>
+<tag>
+<AM lemma="univerzita" src="orig">NNFS2-----A----</AM>
+<AM lemma="universita_,s_^(^DD**univerzita)" src="manual" selected="1">NNFS2-----A----</AM>
+</tag>
 </m>
 <m id="m-vesm9211-035-p2s1w8">
 <src.rf>manual</src.rf>
@@ -1295,7 +1304,10 @@
 <LM>w#w-vesm9211-035-p3s4w18</LM>
 </w.rf>
 <form>Chem</form>
-<tag lemma="Chem_:B_;K_,t" src="orig" selected="1">AAXXX----1A---8</tag>
+<tag>
+<AM lemma="Chem_:B_;K_,t" src="orig">AAXXX----1A---8</AM>
+<AM lemma="Chem-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-vesm9211-035-p3s4w19">
 <src.rf>manual</src.rf>
@@ -1311,7 +1323,10 @@
 <LM>w#w-vesm9211-035-p3s4w20</LM>
 </w.rf>
 <form>and</form>
-<tag lemma="and-1_,t_^(obv._souč._anglických_názvů,_&quot;a&quot;)" src="auto" selected="1">J^-------------</tag>
+<tag>
+<AM lemma="and-1_,t_^(obv._souč._anglických_názvů,_&quot;a&quot;)" src="auto">J^-------------</AM>
+<AM lemma="and-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-vesm9211-035-p3s4w21">
 <src.rf>manual</src.rf>
@@ -1322,6 +1337,7 @@
 <tag>
 <AM lemma="Eng_:B_;K_,t" src="orig">AAXXX----1A---8</AM>
 <AM lemma="Eng_;Y_,t" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Eng-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-vesm9211-035-p3s4w22">
@@ -1338,7 +1354,10 @@
 <LM>w#w-vesm9211-035-p3s4w23</LM>
 </w.rf>
 <form>News</form>
-<tag lemma="News-1_;K_,t_^(souč._názvů,_např._Daily_N.)" src="orig" selected="1">NNFPX-----A----</tag>
+<tag>
+<AM lemma="News-1_;K_,t_^(souč._názvů,_např._Daily_N.)" src="orig">NNFPX-----A----</AM>
+<AM lemma="News-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-vesm9211-035-p3s4w24">
 <src.rf>manual</src.rf>

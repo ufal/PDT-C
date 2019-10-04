@@ -319,7 +319,10 @@
 <LM>w#w-lnd92252-001-p1s3w16</LM>
 </w.rf>
 <form>jen</form>
-<tag lemma="jen-1" src="auto" selected="1">TT-------------</tag>
+<tag>
+<AM lemma="jen-1" src="auto">TT-------------</AM>
+<AM lemma="jen-4_^(pouze)" src="manual" selected="1">Db-------------</AM>
+</tag>
 </m>
 <m id="m-lnd92252-001-p1s3w17">
 <src.rf>manual</src.rf>
@@ -560,7 +563,7 @@
 </w.rf>
 <form>Oldenburgu</form>
 <tag>
-<AM lemma="Oldenburg-2_;G" src="orig">NNIS6-----A---1</AM>
+<AM lemma="Oldenburg-2_;G" src="orig" selected="1">NNIS6-----A---1</AM>
 <AM lemma="Oldenburg_;S" src="auto">NNMS3-----A---1</AM>
 <AM lemma="Oldenburg_;S" src="auto">NNMS5-----A----</AM>
 <AM lemma="Oldenburg_;S" src="auto" recommended="1">NNMS6-----A---1</AM>

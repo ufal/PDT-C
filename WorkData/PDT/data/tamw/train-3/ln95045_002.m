@@ -75,7 +75,10 @@
 <LM>w#w-ln95045-002-p1s1w8</LM>
 </w.rf>
 <form>pasíva</form>
-<tag lemma="pasívum_,x" src="auto" selected="1">NNNS2-----A----</tag>
+<tag>
+<AM lemma="pasívum_,x" src="auto">NNNS2-----A----</AM>
+<AM lemma="pasívum_,s_^(^DD**pasivum)" src="manual" selected="1">NNNS2-----A----</AM>
+</tag>
 </m>
 </s>
 <s id="m-ln95045-002-p2s1A">
@@ -577,6 +580,7 @@
 <tag>
 <AM lemma="ESVO_:B_;K_^(Evropské_sdružení_volného_obchodu)" src="orig">NNNXX-----A---8</AM>
 <AM lemma="ESVO_:B" src="auto" recommended="1">NNXXX-----A---8</AM>
+<AM lemma="ESVO-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95045-002-p4s2w5">
@@ -739,7 +743,10 @@
 <LM>w#w-ln95045-002-p4s2w24</LM>
 </w.rf>
 <form>mld</form>
-<tag lemma="miliarda`1000000000_:B" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="miliarda`1000000000_:B" src="orig">NNFXX-----A---8</AM>
+<AM lemma="miliarda`1000000000" src="manual" selected="1">NNFXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln95045-002-p4s2w25">
 <src.rf>manual</src.rf>
@@ -750,6 +757,7 @@
 <tag>
 <AM lemma="Kč" src="orig">NNFXX-----A----</AM>
 <AM lemma="Kč_:B" src="auto" recommended="1">NNFXX-----A---8</AM>
+<AM lemma="Kč_:B" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95045-002-p4s2w26">
@@ -968,6 +976,7 @@
 <tag>
 <AM lemma="Kč" src="orig">NNFXX-----A----</AM>
 <AM lemma="Kč_:B" src="auto" recommended="1">NNFXX-----A---8</AM>
+<AM lemma="Kč_:B" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95045-002-p5s2w5">
@@ -1104,7 +1113,10 @@
 <LM>w#w-ln95045-002-p5s2w21</LM>
 </w.rf>
 <form>SSSR</form>
-<tag lemma="SSSR_:B_;G_^(Svaz_sov._socialist._republik)" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="SSSR_:B_;G_^(Svaz_sov._socialist._republik)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="SSSR_:B_;G_^(Svaz_sov._socialist._republik)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95045-002-p5s2w22">
 <src.rf>manual</src.rf>

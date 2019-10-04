@@ -133,7 +133,10 @@
 <LM>w#w-vesm9212-010-p2s1w11</LM>
 </w.rf>
 <form>uštván</form>
-<tag lemma="uštvat" src="orig" selected="1">VsYS---XX-AP---</tag>
+<tag>
+<AM lemma="uštvat" src="orig">VsYS---XX-AP---</AM>
+<AM lemma="uštvat_:W" src="manual" selected="1">VsYS---XX-AP---</AM>
+</tag>
 </m>
 <m id="m-vesm9212-010-p2s1w12">
 <src.rf>manual</src.rf>
@@ -157,7 +160,10 @@
 <LM>w#w-vesm9212-010-p2s1w14</LM>
 </w.rf>
 <form>r</form>
-<tag lemma="rok_:B" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="rok_:B" src="orig">NNIXX-----A---8</AM>
+<AM lemma="rok" src="manual" selected="1">NNIXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-vesm9212-010-p2s1w15">
 <src.rf>manual</src.rf>
@@ -295,7 +301,10 @@
 <LM>w#w-vesm9212-010-p2s2w14</LM>
 </w.rf>
 <form>černých</form>
-<tag lemma="černý" src="auto" selected="1">AAFP2----1A----</tag>
+<tag>
+<AM lemma="černý" src="auto">AAFP2----1A----</AM>
+<AM lemma="černý_;o" src="manual" selected="1">AAFP2----1A----</AM>
+</tag>
 </m>
 <m id="m-vesm9212-010-p2s2w15">
 <src.rf>manual</src.rf>
@@ -1141,7 +1150,10 @@
 <LM>w#w-vesm9212-010-p2s5w16</LM>
 </w.rf>
 <form>r</form>
-<tag lemma="rok_:B" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="rok_:B" src="orig">NNIXX-----A---8</AM>
+<AM lemma="rok" src="manual" selected="1">NNIXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-vesm9212-010-p2s5w17">
 <src.rf>manual</src.rf>
@@ -1351,7 +1363,10 @@
 <LM>w#w-vesm9212-010-p3s1Aw10</LM>
 </w.rf>
 <form>černá</form>
-<tag lemma="černý" src="auto" selected="1">AAFS1----1A----</tag>
+<tag>
+<AM lemma="černý" src="auto">AAFS1----1A----</AM>
+<AM lemma="černý_;o" src="manual" selected="1">AAFS1----1A----</AM>
+</tag>
 </m>
 <m id="m-vesm9212-010-p3s1Aw11">
 <src.rf>manual</src.rf>
@@ -1409,7 +1424,7 @@
 <form>matkami</form>
 <tag>
 <AM lemma="matka" src="orig">NNFP7-----A----</AM>
-<AM lemma="matka-1_^(malá_součástka)" src="auto" recommended="1">NNFP7-----A----</AM>
+<AM lemma="matka-1_^(malá_součástka)" src="auto" recommended="1" selected="1">NNFP7-----A----</AM>
 <AM lemma="matka-2_^(maminka)" src="auto">NNFP7-----A----</AM>
 </tag>
 </m>
@@ -1459,7 +1474,10 @@
 <LM>w#w-vesm9212-010-p3s1Aw23</LM>
 </w.rf>
 <form>černé</form>
-<tag lemma="černý" src="auto" selected="1">AAIP1----1A----</tag>
+<tag>
+<AM lemma="černý" src="auto">AAIP1----1A----</AM>
+<AM lemma="černý_;o" src="manual" selected="1">AAIP1----1A----</AM>
+</tag>
 </m>
 <m id="m-vesm9212-010-p3s1Aw24">
 <src.rf>manual</src.rf>
@@ -1499,7 +1517,10 @@
 <LM>w#w-vesm9212-010-p3s1Aw28</LM>
 </w.rf>
 <form>X</form>
-<tag lemma="x-3_^(označení_pomocí_písmene)" src="orig" selected="1">NNNXX-----A----</tag>
+<tag>
+<AM lemma="x-3_^(označení_pomocí_písmene)" src="orig">NNNXX-----A----</AM>
+<AM lemma="X-33_^(označení_pomocí_písmene)" src="manual" selected="1">NNNXX-----A----</AM>
+</tag>
 </m>
 <m id="m-vesm9212-010-p3s1Aw29">
 <src.rf>manual</src.rf>
@@ -1867,7 +1888,7 @@
 <form>matkami</form>
 <tag>
 <AM lemma="matka" src="orig">NNFP7-----A----</AM>
-<AM lemma="matka-1_^(malá_součástka)" src="auto" recommended="1">NNFP7-----A----</AM>
+<AM lemma="matka-1_^(malá_součástka)" src="auto" recommended="1" selected="1">NNFP7-----A----</AM>
 <AM lemma="matka-2_^(maminka)" src="auto">NNFP7-----A----</AM>
 </tag>
 </m>
@@ -2355,7 +2376,10 @@
 <LM>w#w-vesm9212-010-p4s5w22</LM>
 </w.rf>
 <form>Mene</form>
-<tag lemma="mene_,t" src="orig" selected="1">NNXXX-----A----</tag>
+<tag>
+<AM lemma="mene_,t" src="orig">NNXXX-----A----</AM>
+<AM lemma="Mene-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-vesm9212-010-p4s5w23">
 <src.rf>manual</src.rf>
@@ -2363,7 +2387,10 @@
 <LM>w#w-vesm9212-010-p4s5w23</LM>
 </w.rf>
 <form>tekel</form>
-<tag lemma="tekel_,t" src="orig" selected="1">NNXXX-----A----</tag>
+<tag>
+<AM lemma="tekel_,t" src="orig">NNXXX-----A----</AM>
+<AM lemma="tekel-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-vesm9212-010-p4s5w24">
 <src.rf>manual</src.rf>
@@ -2586,6 +2613,7 @@
 <AM lemma="pesimizmus" src="auto" recommended="1">NNIS2-----A----</AM>
 <AM lemma="pesimizmus" src="auto">NNIS3-----A----</AM>
 <AM lemma="pesimizmus" src="auto">NNIS6-----A----</AM>
+<AM lemma="pesimismus_,s_^(^DD**pesimizmus)" src="manual" selected="1">NNIS2-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9212-010-p4s6w9">
@@ -2751,7 +2779,7 @@
 <tag>
 <AM lemma="přesto" src="orig">Dg-------1A----</AM>
 <AM lemma="přesto-1" src="auto">Db-------------</AM>
-<AM lemma="přesto-2" src="auto" recommended="1">J^-------------</AM>
+<AM lemma="přesto-2" src="auto" recommended="1" selected="1">J^-------------</AM>
 </tag>
 </m>
 <m id="m-vesm9212-010-p5s1w9">
@@ -2768,7 +2796,10 @@
 <LM>w#w-vesm9212-010-p5s1w10</LM>
 </w.rf>
 <form>chci</form>
-<tag lemma="chtít" src="orig" selected="1">VB-S---1P-AA---</tag>
+<tag>
+<AM lemma="chtít" src="orig">VB-S---1P-AA---</AM>
+<AM lemma="chtít_:T" src="manual" selected="1">VB-S---1P-AA---</AM>
+</tag>
 </m>
 <m id="m-vesm9212-010-p5s1w11">
 <src.rf>manual</src.rf>
@@ -2784,7 +2815,10 @@
 <LM>w#w-vesm9212-010-p5s1w12</LM>
 </w.rf>
 <form>vzepřít</form>
-<tag lemma="vzepřít" src="orig" selected="1">Vf--------A----</tag>
+<tag>
+<AM lemma="vzepřít" src="orig">Vf--------A----</AM>
+<AM lemma="vzepřít_:W" src="manual" selected="1">Vf--------A----</AM>
+</tag>
 </m>
 <m id="m-vesm9212-010-p5s1w13">
 <src.rf>manual</src.rf>
@@ -2805,7 +2839,7 @@
 <tag>
 <AM lemma="přece" src="orig">Db-------------</AM>
 <AM lemma="přece-1" src="auto" recommended="1">J^-------------</AM>
-<AM lemma="přece-2" src="auto">TT-------------</AM>
+<AM lemma="přece-2" src="auto" selected="1">TT-------------</AM>
 </tag>
 </m>
 <m id="m-vesm9212-010-p5s2w2">
@@ -2834,6 +2868,8 @@
 <AM lemma="pesimismus" src="orig">NNIS1-----A----</AM>
 <AM lemma="pesimizmus" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="pesimizmus" src="auto">NNIS4-----A----</AM>
+<AM lemma="pesimismus_,s_^(^DD**pesimizmus)" src="manual">NNIS4-----A----</AM>
+<AM lemma="pesimismus_,s_^(^DD**pesimizmus)" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9212-010-p5s2w5">
@@ -3178,6 +3214,7 @@
 <AM lemma="pesimismus" src="orig">NNIS1-----A----</AM>
 <AM lemma="pesimizmus" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="pesimizmus" src="auto">NNIS4-----A----</AM>
+<AM lemma="pesimismus_,s_^(^DD**pesimizmus)" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9212-010-p5s4w5">
@@ -3324,7 +3361,10 @@
 <LM>w#w-vesm9212-010-p6s1w1</LM>
 </w.rf>
 <form>Zdá</form>
-<tag lemma="zdát" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag>
+<AM lemma="zdát" src="orig">VB-S---3P-AA---</AM>
+<AM lemma="zdát_:T" src="manual" selected="1">VB-S---3P-AA---</AM>
+</tag>
 </m>
 <m id="m-vesm9212-010-p6s1w2">
 <src.rf>manual</src.rf>
@@ -3486,7 +3526,7 @@
 <form>snad</form>
 <tag>
 <AM lemma="snad" src="orig">Db-------------</AM>
-<AM lemma="snad" src="auto" recommended="1">TT-------------</AM>
+<AM lemma="snad" src="auto" recommended="1" selected="1">TT-------------</AM>
 </tag>
 </m>
 <m id="m-vesm9212-010-p6s1w22">
@@ -4051,7 +4091,10 @@
 <LM>w#w-vesm9212-010-p6s3w7</LM>
 </w.rf>
 <form>zůstalo</form>
-<tag lemma="zůstat" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag>
+<AM lemma="zůstat" src="orig">VpNS---XR-AA---</AM>
+<AM lemma="zůstat_:W" src="manual" selected="1">VpNS---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-vesm9212-010-p6s3w8">
 <src.rf>manual</src.rf>
@@ -4059,7 +4102,10 @@
 <LM>w#w-vesm9212-010-p6s3w8</LM>
 </w.rf>
 <form>nedokončeno</form>
-<tag lemma="dokončit" src="orig" selected="1">VsNS---XX-NP---</tag>
+<tag>
+<AM lemma="dokončit" src="orig">VsNS---XX-NP---</AM>
+<AM lemma="dokončit_:W" src="manual" selected="1">VsNS---XX-NP---</AM>
+</tag>
 </m>
 <m id="m-vesm9212-010-p6s3w9">
 <src.rf>manual</src.rf>
@@ -4237,7 +4283,10 @@
 <LM>w#w-vesm9212-010-p6s4w21</LM>
 </w.rf>
 <form>dospět</form>
-<tag lemma="dospět" src="orig" selected="1">Vf--------A----</tag>
+<tag>
+<AM lemma="dospět" src="orig">Vf--------A----</AM>
+<AM lemma="dospět_:W" src="manual" selected="1">Vf--------A----</AM>
+</tag>
 </m>
 <m id="m-vesm9212-010-p6s4w22">
 <src.rf>manual</src.rf>
@@ -4311,7 +4360,10 @@
 <LM>w#w-vesm9212-010-p7s1w3</LM>
 </w.rf>
 <form>nestojíme</form>
-<tag lemma="stát-3_^(někdo/něco_stojí,_např._na_nohou)" src="orig" selected="1">VB-P---1P-NA---</tag>
+<tag>
+<AM lemma="stát-3_^(někdo/něco_stojí,_např._na_nohou)" src="orig">VB-P---1P-NA---</AM>
+<AM lemma="stát-3_:T_^(někdo/něco_stojí,_např._na_nohou)" src="manual" selected="1">VB-P---1P-NA---</AM>
+</tag>
 </m>
 <m id="m-vesm9212-010-p7s1w4">
 <src.rf>manual</src.rf>
@@ -4380,6 +4432,7 @@
 <AM lemma="pesimizmus" src="auto" recommended="1">NNIS2-----A----</AM>
 <AM lemma="pesimizmus" src="auto">NNIS3-----A----</AM>
 <AM lemma="pesimizmus" src="auto">NNIS6-----A----</AM>
+<AM lemma="pesimismus_,s_^(^DD**pesimizmus)" src="manual" selected="1">NNIS2-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9212-010-p7s1w12">

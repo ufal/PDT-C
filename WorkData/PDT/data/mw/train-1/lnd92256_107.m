@@ -35,7 +35,10 @@
 <LM>w#w-lnd92256-107-p1s1w3</LM>
 </w.rf>
 <form>vyhrály</form>
-<tag lemma="vyhrát" src="orig" selected="1">VpTP---XR-AA---</tag>
+<tag>
+<AM lemma="vyhrát" src="orig">VpTP---XR-AA---</AM>
+<AM lemma="vyhrát_:W" src="manual" selected="1">VpTP---XR-AA---</AM>
+</tag>
 </m>
 </s>
 <s id="m-lnd92256-107-p2s1">
@@ -111,7 +114,10 @@
 <LM>w#w-lnd92256-107-p2s2w7</LM>
 </w.rf>
 <form>dát</form>
-<tag lemma="dát" src="orig" selected="1">Vf--------A----</tag>
+<tag>
+<AM lemma="dát" src="orig">Vf--------A----</AM>
+<AM lemma="dát_:W" src="manual" selected="1">Vf--------A----</AM>
+</tag>
 </m>
 <m id="m-lnd92256-107-p2s2w8">
 <src.rf>manual</src.rf>
@@ -143,7 +149,10 @@
 <LM>w#w-lnd92256-107-p2s2w11</LM>
 </w.rf>
 <form>PVP</form>
-<tag lemma="PVP-2_:B_;m_^(Pohár_výherců_pohárů)" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="PVP-2_:B_;m_^(Pohár_výherců_pohárů)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="PVP-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92256-107-p2s2w12">
 <src.rf>manual</src.rf>
@@ -195,7 +204,7 @@
 <form>totiž</form>
 <tag>
 <AM lemma="totiž" src="orig">Db-------------</AM>
-<AM lemma="totiž-1" src="auto" recommended="1">J^-------------</AM>
+<AM lemma="totiž-1" src="auto" recommended="1" selected="1">J^-------------</AM>
 <AM lemma="totiž-2" src="auto">TT-------------</AM>
 </tag>
 </m>
@@ -456,7 +465,10 @@
 <LM>w#w-lnd92256-107-p2s4w9</LM>
 </w.rf>
 <form>min</form>
-<tag lemma="minuta_:B" src="auto" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="minuta_:B" src="auto">NNFXX-----A---8</AM>
+<AM lemma="minuta" src="manual" selected="1">NNFXX-----A---9</AM>
+</tag>
 </m>
 <m id="m-lnd92256-107-p2s4w10">
 <src.rf>manual</src.rf>
@@ -576,7 +588,10 @@
 <LM>w#w-lnd92256-107-p2s4w24</LM>
 </w.rf>
 <form>min</form>
-<tag lemma="minuta_:B" src="auto" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="minuta_:B" src="auto">NNFXX-----A---8</AM>
+<AM lemma="minuta" src="manual" selected="1">NNFXX-----A---9</AM>
+</tag>
 </m>
 <m id="m-lnd92256-107-p2s4w25">
 <src.rf>manual</src.rf>

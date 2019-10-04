@@ -438,7 +438,7 @@
 <tag>
 <AM lemma="tedy" src="orig">Db-------------</AM>
 <AM lemma="tedy-1" src="auto">TT-------------</AM>
-<AM lemma="tedy-2" src="auto" recommended="1">J^-------------</AM>
+<AM lemma="tedy-2" src="auto" recommended="1" selected="1">J^-------------</AM>
 </tag>
 </m>
 <m id="m-cmpr9417-013-p7s1w12">
@@ -1057,7 +1057,7 @@
 <tag>
 <AM lemma="tady" src="orig">Db------------1</AM>
 <AM lemma="ten" src="auto">PDFS4----------</AM>
-<AM lemma="tu" src="auto" recommended="1">Db-------------</AM>
+<AM lemma="tu" src="auto" recommended="1" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m-cmpr9417-013-p7s4w4">
@@ -2276,6 +2276,7 @@
 <AM lemma="EUR_:B_^(certifikát)" src="orig">NNIXX-----A---8</AM>
 <AM lemma="euro-2_:B_;b_^(evr._měna)" src="auto">Xx-------------</AM>
 <AM lemma="euro-2_;b_^(evr._měna)" src="auto" recommended="1">NNNP2-----A----</AM>
+<AM lemma="EUR-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-cmpr9417-013-p9s3w17">
@@ -2304,6 +2305,7 @@
 <AM lemma="EUR_:B_^(certifikát)" src="orig">NNIXX-----A---8</AM>
 <AM lemma="euro-2_:B_;b_^(evr._měna)" src="auto">Xx-------------</AM>
 <AM lemma="euro-2_;b_^(evr._měna)" src="auto" recommended="1">NNNP2-----A----</AM>
+<AM lemma="EUR-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-cmpr9417-013-p9s3w20">
@@ -2365,6 +2367,7 @@
 <tag>
 <AM lemma="ATA_:B" src="orig">NNXXX-----A---8</AM>
 <AM lemma="Ata_;G" src="auto" recommended="1">NNFS1-----A----</AM>
+<AM lemma="ATA-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-cmpr9417-013-p10s1w6">
@@ -2771,7 +2774,10 @@
 <LM>w#w-cmpr9417-013-p12s1w8</LM>
 </w.rf>
 <form>Eotel</form>
-<tag lemma="Eotel_;m_,t" src="orig" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="Eotel_;m_,t" src="orig">NNIS1-----A----</AM>
+<AM lemma="Eotel-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-cmpr9417-013-p12s1w9">
 <src.rf>manual</src.rf>
@@ -2779,7 +2785,10 @@
 <LM>w#w-cmpr9417-013-p12s1w9</LM>
 </w.rf>
 <form>On</form>
-<tag lemma="on-2_,t_^(angl._předl._na_aj.)" src="orig" selected="1">RR--X----------</tag>
+<tag>
+<AM lemma="on-2_,t_^(angl._předl._na_aj.)" src="orig">RR--X----------</AM>
+<AM lemma="On-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-cmpr9417-013-p12s1w10">
 <src.rf>manual</src.rf>
@@ -2799,6 +2808,7 @@
 <AM lemma="line_;m_,t" src="orig">NNFXX-----A----</AM>
 <AM lemma="linout" src="auto">VB-S---3P-AA---</AM>
 <AM lemma="line_,t_^(angl._čára)" src="auto" recommended="1">NNXXX-----A----</AM>
+<AM lemma="line-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-cmpr9417-013-p12s1w12">

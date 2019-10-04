@@ -301,7 +301,10 @@
 <LM>w#w-ln95046-053-p2s1w31</LM>
 </w.rf>
 <form>hod</form>
-<tag lemma="hodina_:B" src="auto" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="hodina_:B" src="auto">NNFXX-----A---8</AM>
+<AM lemma="hodina" src="manual" selected="1">NNFXX-----A---9</AM>
+</tag>
 </m>
 <m id="m-ln95046-053-p2s1w32">
 <src.rf>manual</src.rf>
@@ -903,7 +906,7 @@
 <form>Vůbec</form>
 <tag>
 <AM lemma="vůbec" src="orig">Db-------------</AM>
-<AM lemma="vůbec" src="auto" recommended="1">TT-------------</AM>
+<AM lemma="vůbec" src="auto" recommended="1" selected="1">TT-------------</AM>
 </tag>
 </m>
 <m id="m-ln95046-053-p2s5w2">
@@ -1215,6 +1218,7 @@
 <tag>
 <AM lemma="USA_;G" src="orig">NNIPX-----A----</AM>
 <AM lemma="USA_:B_;K_,t_^(United_States_of_America)" src="auto" recommended="1">NNIPX-----A---8</AM>
+<AM lemma="USA_:B_;K_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95046-053-p2s7w18">
@@ -1671,7 +1675,10 @@
 <LM>w#w-ln95046-053-p3s2w1</LM>
 </w.rf>
 <form>Dokáže</form>
-<tag lemma="dokázat" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag>
+<AM lemma="dokázat" src="orig">VB-S---3P-AA---</AM>
+<AM lemma="dokázat_:W" src="manual" selected="1">VB-S---3P-AA---</AM>
+</tag>
 </m>
 <m id="m-ln95046-053-p3s2w2">
 <src.rf>manual</src.rf>
@@ -1889,7 +1896,10 @@
 <LM>w#w-ln95046-053-p3s3w11</LM>
 </w.rf>
 <form>medailon</form>
-<tag lemma="medailón_,x" src="auto" selected="1">NNIS4-----A----</tag>
+<tag>
+<AM lemma="medailón_,x" src="auto">NNIS4-----A----</AM>
+<AM lemma="medailon_,s_^(^DD**medailón) " src="manual" selected="1">NNIS4-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95046-053-p3s3w12">
 <src.rf>manual</src.rf>

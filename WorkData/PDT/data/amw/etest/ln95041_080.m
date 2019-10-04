@@ -319,7 +319,10 @@
 <LM>w#w-ln95041-080-p3s1w5</LM>
 </w.rf>
 <form>R</form>
-<tag lemma="R-4_:B_;K" src="orig" selected="1">AAXXX----1A---8</tag>
+<tag>
+<AM lemma="R-4_:B_;K" src="orig">AAXXX----1A---8</AM>
+<AM lemma="R-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln95041-080-p3s1w6">
 <src.rf>manual</src.rf>
@@ -335,7 +338,10 @@
 <LM>w#w-ln95041-080-p3s1w7</LM>
 </w.rf>
 <form>I</form>
-<tag lemma="I-4_:B_;K" src="orig" selected="1">AAXXX----1A---8</tag>
+<tag>
+<AM lemma="I-4_:B_;K" src="orig">AAXXX----1A---8</AM>
+<AM lemma="I-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln95041-080-p3s1w8">
 <src.rf>manual</src.rf>
@@ -372,6 +378,7 @@
 <AM lemma="obchodní_:B_^(jen_obch._společnost)" src="auto">AAFXX----1A---8</AM>
 <AM lemma="okresní_:B" src="auto">AAXXX----1A---8</AM>
 <AM lemma="omezený_:B" src="auto">AANS7----1A---8</AM>
+<AM lemma="O-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-ln95041-080-p3s1w10">
@@ -478,7 +485,10 @@
 <LM>w#w-ln95041-080-p3s2w7</LM>
 </w.rf>
 <form>hodně</form>
-<tag lemma="hodně-2_^(nezlobivý)_(*3ý-2)" src="auto" selected="1">Dg-------1A----</tag>
+<tag>
+<AM lemma="hodně-2_^(nezlobivý)_(*3ý-2)" src="auto">Dg-------1A----</AM>
+<AM lemma="hodně-1_^(hodně_+_2._p.,_hodně_peněz)" src="manual" selected="1">Ca--1----------</AM>
+</tag>
 </m>
 <m id="m-ln95041-080-p3s2w8">
 <src.rf>manual</src.rf>
@@ -815,7 +825,10 @@
 <LM>w#w-ln95041-080-p3s6w9</LM>
 </w.rf>
 <form>jen</form>
-<tag lemma="jen-1" src="auto" selected="1">TT-------------</tag>
+<tag>
+<AM lemma="jen-1" src="auto">TT-------------</AM>
+<AM lemma="jen-4_^(pouze)" src="manual" selected="1">Db-------------</AM>
+</tag>
 </m>
 <m id="m-ln95041-080-p3s6w10">
 <src.rf>manual</src.rf>
@@ -1109,7 +1122,10 @@
 <LM>w#w-ln95041-080-p3s9w4</LM>
 </w.rf>
 <form>Radio</form>
-<tag lemma="rádio_,a" src="orig" selected="1">NNNS1-----A----</tag>
+<tag>
+<AM lemma="rádio_,a" src="orig">NNNS1-----A----</AM>
+<AM lemma="radio_,s_^(^DD**rádio)" src="manual" selected="1">NNNS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95041-080-p3s9w5">
 <src.rf>manual</src.rf>
@@ -1123,6 +1139,7 @@
 <AM lemma="kolegium_,a_,x" src="auto" recommended="1">NNNS1-----A----</AM>
 <AM lemma="kolegium_,a_,x" src="auto">NNNS4-----A----</AM>
 <AM lemma="kolegium_,a_,x" src="auto">NNNS5-----A----</AM>
+<AM lemma="Collegium_;K" src="manual" selected="1">NNNS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95041-080-p3s9w6">
@@ -1277,7 +1294,10 @@
 <LM>w#w-ln95041-080-p3s10w13</LM>
 </w.rf>
 <form>hodně</form>
-<tag lemma="hodně-2_^(nezlobivý)_(*3ý-2)" src="auto" selected="1">Dg-------1A----</tag>
+<tag>
+<AM lemma="hodně-2_^(nezlobivý)_(*3ý-2)" src="auto">Dg-------1A----</AM>
+<AM lemma="hodně-1_^(hodně_+_2._p.,_hodně_peněz)" src="manual" selected="1">Ca--1----------</AM>
+</tag>
 </m>
 <m id="m-ln95041-080-p3s10w14">
 <src.rf>manual</src.rf>
@@ -1457,7 +1477,10 @@
 <LM>w#w-ln95041-080-p3s12w6</LM>
 </w.rf>
 <form>hodně</form>
-<tag lemma="hodně-2_^(nezlobivý)_(*3ý-2)" src="auto" selected="1">Dg-------1A----</tag>
+<tag>
+<AM lemma="hodně-2_^(nezlobivý)_(*3ý-2)" src="auto">Dg-------1A----</AM>
+<AM lemma="hodně-3" src="manual" selected="1">Dg-------1A----</AM>
+</tag>
 </m>
 <m id="m-ln95041-080-p3s12w7">
 <src.rf>manual</src.rf>
@@ -1588,7 +1611,10 @@
 <LM>w#w-ln95041-080-p3s13w4</LM>
 </w.rf>
 <form>Radio</form>
-<tag lemma="rádio_,a" src="orig" selected="1">NNNS1-----A----</tag>
+<tag>
+<AM lemma="rádio_,a" src="orig">NNNS1-----A----</AM>
+<AM lemma="radio_,s_^(^DD**rádio)" src="manual" selected="1">NNNS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95041-080-p3s13w5">
 <src.rf>manual</src.rf>
@@ -1694,7 +1720,10 @@
 <LM>w#w-ln95041-080-p3s14w6</LM>
 </w.rf>
 <form>hodně</form>
-<tag lemma="hodně-2_^(nezlobivý)_(*3ý-2)" src="auto" selected="1">Dg-------1A----</tag>
+<tag>
+<AM lemma="hodně-2_^(nezlobivý)_(*3ý-2)" src="auto">Dg-------1A----</AM>
+<AM lemma="hodně-3" src="manual" selected="1">Dg-------1A----</AM>
+</tag>
 </m>
 <m id="m-ln95041-080-p3s14w7">
 <src.rf>manual</src.rf>
@@ -1834,7 +1863,10 @@
 <LM>w#w-ln95041-080-p3s16w9</LM>
 </w.rf>
 <form>jen</form>
-<tag lemma="jen-1" src="auto" selected="1">TT-------------</tag>
+<tag>
+<AM lemma="jen-1" src="auto">TT-------------</AM>
+<AM lemma="jen-4_^(pouze)" src="manual" selected="1">Db-------------</AM>
+</tag>
 </m>
 <m id="m-ln95041-080-p3s16w10">
 <src.rf>manual</src.rf>
@@ -1948,7 +1980,10 @@
 <LM>w#w-ln95041-080-p3s17w7</LM>
 </w.rf>
 <form>méně</form>
-<tag lemma="málo-3" src="orig" selected="1">Dg-------2A----</tag>
+<tag>
+<AM lemma="málo-3" src="orig">Dg-------2A----</AM>
+<AM lemma="méně_^(méně_+_2._p.,_méně_peněz)" src="manual" selected="1">Ca--1----------</AM>
+</tag>
 </m>
 <m id="m-ln95041-080-p3s17w8">
 <src.rf>manual</src.rf>
@@ -2076,7 +2111,10 @@
 <LM>w#w-ln95041-080-p3s18w4</LM>
 </w.rf>
 <form>Radio</form>
-<tag lemma="rádio_,a" src="orig" selected="1">NNNS1-----A----</tag>
+<tag>
+<AM lemma="rádio_,a" src="orig">NNNS1-----A----</AM>
+<AM lemma="radio_,s_^(^DD**rádio)" src="manual" selected="1">NNNS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95041-080-p3s18w5">
 <src.rf>manual</src.rf>
@@ -2084,7 +2122,10 @@
 <LM>w#w-ln95041-080-p3s18w5</LM>
 </w.rf>
 <form>Metropolis</form>
-<tag lemma="Metropolis_;G" src="orig" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="Metropolis_;G" src="orig">NNIS1-----A----</AM>
+<AM lemma="Metropolis_;G_;K" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95041-080-p3s18w6">
 <src.rf>manual</src.rf>
@@ -2329,7 +2370,7 @@
 <tag>
 <AM lemma="tedy" src="orig">Db-------------</AM>
 <AM lemma="tedy-1" src="auto">TT-------------</AM>
-<AM lemma="tedy-2" src="auto" recommended="1">J^-------------</AM>
+<AM lemma="tedy-2" src="auto" recommended="1" selected="1">J^-------------</AM>
 </tag>
 </m>
 <m id="m-ln95041-080-p3s19w6">
@@ -2558,7 +2599,7 @@
 <form>nejen</form>
 <tag>
 <AM lemma="nejen" src="orig">TT-------------</AM>
-<AM lemma="nejen" src="auto" recommended="1">Db-------------</AM>
+<AM lemma="nejen" src="auto" recommended="1" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m-ln95041-080-p3s20w8">

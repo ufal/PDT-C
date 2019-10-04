@@ -327,7 +327,10 @@
 <LM>w#w-mf920922-054-p2s2w16</LM>
 </w.rf>
 <form>ani</form>
-<tag lemma="ani-1" src="auto" selected="1">J^-------------</tag>
+<tag>
+<AM lemma="ani-1" src="auto">J^-------------</AM>
+<AM lemma="ani-2" src="manual" selected="1">TT-------------</AM>
+</tag>
 </m>
 <m id="m-mf920922-054-p2s2w17">
 <src.rf>manual</src.rf>
@@ -2253,7 +2256,10 @@
 <LM>w#w-mf920922-054-p5s1w50</LM>
 </w.rf>
 <form>Č</form>
-<tag lemma="český_:B" src="orig" selected="1">AAXXX----1A---8</tag>
+<tag>
+<AM lemma="český_:B" src="orig">AAXXX----1A---8</AM>
+<AM lemma="český" src="manual" selected="1">AAXXX----1A---8</AM>
+</tag>
 </m>
 <m id="m-mf920922-054-p5s1w51">
 <src.rf>manual</src.rf>
@@ -2285,7 +2291,10 @@
 <LM>w#w-mf920922-054-p5s1w54</LM>
 </w.rf>
 <form>Kuba</form>
-<tag lemma="kuba" src="orig" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="kuba" src="orig">NNMS1-----A----</AM>
+<AM lemma="Kuba_;S" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920922-054-p5s1w55">
 <src.rf>manual</src.rf>

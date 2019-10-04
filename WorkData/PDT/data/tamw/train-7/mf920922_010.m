@@ -203,7 +203,7 @@
 <form>snad</form>
 <tag>
 <AM lemma="snad" src="orig">Db-------------</AM>
-<AM lemma="snad" src="auto" recommended="1">TT-------------</AM>
+<AM lemma="snad" src="auto" recommended="1" selected="1">TT-------------</AM>
 </tag>
 </m>
 <m id="m-mf920922-010-p1s3w7">
@@ -334,7 +334,10 @@
 <LM>w#w-mf920922-010-p2s1w1</LM>
 </w.rf>
 <form>M</form>
-<tag lemma="M-0_:B_;Y" src="orig" selected="1">NNMXX-----A---8</tag>
+<tag>
+<AM lemma="M-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
+<AM lemma="M-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920922-010-p2s1w2">
 <src.rf>manual</src.rf>
@@ -350,7 +353,10 @@
 <LM>w#w-mf920922-010-p2s1w3</LM>
 </w.rf>
 <form>K</form>
-<tag lemma="K-9_:B_;S" src="orig" selected="1">NNMXX-----A---8</tag>
+<tag>
+<AM lemma="K-9_:B_;S" src="orig">NNMXX-----A---8</AM>
+<AM lemma="K-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920922-010-p2s1w4">
 <src.rf>manual</src.rf>
@@ -588,7 +594,10 @@
 <LM>w#w-mf920922-010-p2s3w3</LM>
 </w.rf>
 <form>li</form>
-<tag lemma="li-1" src="auto" selected="1">TT-------------</tag>
+<tag>
+<AM lemma="li-1" src="auto">TT-------------</AM>
+<AM lemma="li-2" src="manual" selected="1">J,-------------</AM>
+</tag>
 </m>
 <m id="m-mf920922-010-p2s3w4">
 <src.rf>manual</src.rf>
@@ -769,6 +778,7 @@
 <tag>
 <AM lemma="kor-99_:B_;S" src="orig">NNXXX-----A---8</AM>
 <AM lemma="kora_,a" src="auto" recommended="1">NNFP2-----A----</AM>
+<AM lemma="kor-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920922-010-p3s1w3">

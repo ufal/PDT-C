@@ -35,7 +35,10 @@
 <LM>w#w-cmpr9407-043-p2s1w3</LM>
 </w.rf>
 <form>č</form>
-<tag lemma="číslo_:B" src="orig" selected="1">NNNXX-----A---8</tag>
+<tag>
+<AM lemma="číslo_:B" src="orig">NNNXX-----A---8</AM>
+<AM lemma="číslo" src="manual" selected="1">NNNXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-cmpr9407-043-p2s1w4">
 <src.rf>manual</src.rf>
@@ -581,7 +584,10 @@
 <LM>w#w-cmpr9407-043-p3s3Bw14</LM>
 </w.rf>
 <form>KRUMLESCO</form>
-<tag lemma="Krumlesco" src="orig" selected="1">NNNS1-----A----</tag>
+<tag>
+<AM lemma="Krumlesco" src="orig">NNNS1-----A----</AM>
+<AM lemma="Krumlesco_,m" src="manual" selected="1">NNNS1-----A----</AM>
+</tag>
 </m>
 <m id="m-cmpr9407-043-p3s3Bw15">
 <src.rf>manual</src.rf>
@@ -919,7 +925,10 @@
 <LM>w#w-cmpr9407-043-p3s5Cw1</LM>
 </w.rf>
 <form>CAUSA</form>
-<tag lemma="kauza_,x" src="orig" selected="1">NNFS1-----A----</tag>
+<tag>
+<AM lemma="kauza_,x" src="orig">NNFS1-----A----</AM>
+<AM lemma="cauza_,s_^(^DD**kauza)" src="manual" selected="1">NNFS1-----A----</AM>
+</tag>
 </m>
 <m id="m-cmpr9407-043-p3s5Cw2">
 <src.rf>manual</src.rf>

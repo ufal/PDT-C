@@ -997,7 +997,11 @@
 <LM>w#w-lnd92251-062-p4s5w3</LM>
 </w.rf>
 <form>D</form>
-<tag lemma="D-0_:B_;Y" src="orig" selected="1">NNMXX-----A---8</tag>
+<tag>
+<AM lemma="D-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
+<AM lemma="D-88_:B" src="manual">NNXXX-----A---8</AM>
+<AM lemma="D-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92251-062-p4s5w4">
 <src.rf>manual</src.rf>
@@ -1223,7 +1227,11 @@
 <LM>w#w-lnd92251-062-p4s6w8</LM>
 </w.rf>
 <form>E</form>
-<tag lemma="E-0_:B_;Y" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="E-0_:B_;Y" src="orig">NNFXX-----A---8</AM>
+<AM lemma="E-88_:B" src="manual">NNXXX-----A---8</AM>
+<AM lemma="E-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92251-062-p4s6w9">
 <src.rf>manual</src.rf>
@@ -1635,7 +1643,11 @@
 <LM>w#w-lnd92251-062-p5s1w13</LM>
 </w.rf>
 <form>ES</form>
-<tag lemma="ES_:B_;K_^(Evropská_společenství)" src="orig" selected="1">NNNXX-----A---8</tag>
+<tag>
+<AM lemma="ES_:B_;K_^(Evropská_společenství)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="ES-88_:B" src="manual">NNXXX-----A---8</AM>
+<AM lemma="ES-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92251-062-p5s1w14">
 <src.rf>manual</src.rf>
@@ -1829,7 +1841,11 @@
 <LM>w#w-lnd92251-062-p5s2w13</LM>
 </w.rf>
 <form>G</form>
-<tag lemma="G-0_:B_;Y" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="G-0_:B_;Y" src="orig">NNFXX-----A---8</AM>
+<AM lemma="G-88_:B" src="manual">NNXXX-----A---8</AM>
+<AM lemma="G-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92251-062-p5s2w14">
 <src.rf>manual</src.rf>
@@ -1932,6 +1948,7 @@
 <AM lemma="Lux_;S" src="auto">NNMS1-----A----</AM>
 <AM lemma="lux" src="auto">NNIS1-----A----</AM>
 <AM lemma="lux" src="auto" recommended="1">NNIS4-----A----</AM>
+<AM lemma="Lux-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-lnd92251-062-p5s3w8">
@@ -1940,7 +1957,10 @@
 <LM>w#w-lnd92251-062-p5s3w8</LM>
 </w.rf>
 <form>Europae</form>
-<tag lemma="Europa_;G_,t" src="orig" selected="1">NNFS2-----A----</tag>
+<tag>
+<AM lemma="Europa_;G_,t" src="orig">NNFS2-----A----</AM>
+<AM lemma="Europae-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-lnd92251-062-p5s3w9">
 <src.rf>manual</src.rf>

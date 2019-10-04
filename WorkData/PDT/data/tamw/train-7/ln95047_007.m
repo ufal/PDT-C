@@ -29,7 +29,10 @@
 <LM>w#w-ln95047-007-p2s1w1</LM>
 </w.rf>
 <form>FMN</form>
-<tag lemma="FNM_:B_;K" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="FNM_:B_;K" src="orig">NNIXX-----A---8</AM>
+<AM lemma="FMN-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95047-007-p2s1w2">
 <src.rf>manual</src.rf>
@@ -85,7 +88,10 @@
 <LM>w#w-ln95047-007-p2s1w8</LM>
 </w.rf>
 <form>mld</form>
-<tag lemma="miliarda`1000000000_:B" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="miliarda`1000000000_:B" src="orig">NNFXX-----A---8</AM>
+<AM lemma="miliarda`1000000000" src="manual" selected="1">NNFXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln95047-007-p2s1w9">
 <src.rf>manual</src.rf>
@@ -104,6 +110,7 @@
 <tag>
 <AM lemma="Kč" src="orig">NNFXX-----A----</AM>
 <AM lemma="Kč_:B" src="auto" recommended="1">NNFXX-----A---8</AM>
+<AM lemma="Kč_:B" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95047-007-p2s1w11">
@@ -236,6 +243,8 @@
 <AM lemma="TOZ-3_^(druh_úvěrů)" src="orig">AAXXX----1A---8</AM>
 <AM lemma="TOZ-1_:B_^(Tyršův_odznak_zdatnosti)" src="auto" recommended="1">NNIXX-----A---8</AM>
 <AM lemma="TOZ-2_:B_;K_,t_^(Tovarišč._po_sovmestnoj_obrabotke_zemli)" src="auto">NNNXX-----A---8</AM>
+<AM lemma="TOZ-3_:B" src="manual">NNXXX-----A---8</AM>
+<AM lemma="TOZ-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95047-007-p2s1w27">

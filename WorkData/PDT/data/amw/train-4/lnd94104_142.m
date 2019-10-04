@@ -159,7 +159,10 @@
 <LM>w#w-lnd94104-142-p1s3w12</LM>
 </w.rf>
 <form>ČR</form>
-<tag lemma="ČR-1_:B_;G_^(Česká_republika)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd94104-142-p1s3w13">
 <src.rf>manual</src.rf>
@@ -711,7 +714,10 @@
 <LM>w#w-lnd94104-142-p1s7w13</LM>
 </w.rf>
 <form>půlmilionové</form>
-<tag lemma="půlmiliónový" src="orig" selected="1">AAFS2----1A----</tag>
+<tag>
+<AM lemma="půlmiliónový" src="orig">AAFS2----1A----</AM>
+<AM lemma="půlmilionový_,s_^(^DD**půlmiliónový)" src="manual" selected="1">AAFS2----1A----</AM>
+</tag>
 </m>
 <m id="m-lnd94104-142-p1s7w14">
 <src.rf>manual</src.rf>

@@ -45,7 +45,10 @@
 <LM>w#w-lnd94103-120-p1s2w1</LM>
 </w.rf>
 <form>Val</form>
-<tag lemma="Val-1_;G_,t_^(údolí)" src="auto" selected="1">NNNXX-----A----</tag>
+<tag>
+<AM lemma="Val-1_;G_,t_^(údolí)" src="auto">NNNXX-----A----</AM>
+<AM lemma="Val-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-lnd94103-120-p1s2w2">
 <src.rf>manual</src.rf>
@@ -53,7 +56,10 @@
 <LM>w#w-lnd94103-120-p1s2w2</LM>
 </w.rf>
 <form>di</form>
-<tag lemma="di_;G_;S_;Y_,t" src="auto" selected="1">RR--X----------</tag>
+<tag>
+<AM lemma="di_;G_;S_;Y_,t" src="auto">RR--X----------</AM>
+<AM lemma="di-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-lnd94103-120-p1s2w3">
 <src.rf>manual</src.rf>
@@ -61,7 +67,10 @@
 <LM>w#w-lnd94103-120-p1s2w3</LM>
 </w.rf>
 <form>Fassa</form>
-<tag lemma="Fassa_;G_,t" src="orig" selected="1">NNNXX-----A----</tag>
+<tag>
+<AM lemma="Fassa_;G_,t" src="orig">NNNXX-----A----</AM>
+<AM lemma="Fassa-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-lnd94103-120-p1s2w4">
 <src.rf>manual</src.rf>
@@ -233,7 +242,7 @@
 <form>Norové</form>
 <tag>
 <AM lemma="Nor_;E" src="orig">NNMP1-----A----</AM>
-<AM lemma="Nor_;E" src="auto">NNMP1-----A---1</AM>
+<AM lemma="Nor_;E" src="auto" selected="1">NNMP1-----A---1</AM>
 <AM lemma="Nor_;E" src="auto">NNMP5-----A---1</AM>
 <AM lemma="Noro_;Y" src="auto" recommended="1">NNMP1-----A----</AM>
 <AM lemma="Noro_;Y" src="auto">NNMP5-----A----</AM>
@@ -786,7 +795,7 @@
 <form>Galinovskij</form>
 <tag>
 <AM lemma="Galinovský_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Galinovský_;S" src="auto" recommended="1">NNMS1-----A---1</AM>
+<AM lemma="Galinovský_;S" src="auto" recommended="1" selected="1">NNMS1-----A---1</AM>
 <AM lemma="Galinovský_;S" src="auto">NNMS5-----A---1</AM>
 </tag>
 </m>
@@ -828,7 +837,11 @@
 <LM>w#w-lnd94103-120-p1s11w8</LM>
 </w.rf>
 <form>Rus</form>
-<tag lemma="Rus_;E" src="orig" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Rus_;E" src="orig">NNMS1-----A----</AM>
+<AM lemma="Rus_;E" src="manual">NNMP1-----A---8</AM>
+<AM lemma="Rusko_;G" src="manual" selected="1">NNNXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd94103-120-p1s11w9">
 <src.rf>manual</src.rf>
@@ -876,7 +889,11 @@
 <LM>w#w-lnd94103-120-p1s11w14</LM>
 </w.rf>
 <form>Brit</form>
-<tag lemma="Brit_;E" src="orig" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Brit_;E" src="orig">NNMS1-----A----</AM>
+<AM lemma="Brit_;E" src="manual">NNMS1-----A---8</AM>
+<AM lemma="Británie_;G" src="manual" selected="1">NNFXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd94103-120-p1s11w15">
 <src.rf>manual</src.rf>

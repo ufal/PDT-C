@@ -72,6 +72,7 @@
 <tag>
 <AM lemma="is-99_:B_;S" src="orig">NNXXX-----A---8</AM>
 <AM lemma="be_,t_^(angl._je,_v_názvech_apod.)" src="auto" recommended="1">VB-S---3P-AA---</AM>
+<AM lemma="is-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930713-125-p2s1Aw4">
@@ -186,7 +187,10 @@
 <LM>w#w-mf930713-125-p2s1Bw12</LM>
 </w.rf>
 <form>konkursního</form>
-<tag lemma="konkursní_^(týkající_se_úpadku,_soutěže)" src="auto" selected="1">AANS2----1A----</tag>
+<tag>
+<AM lemma="konkursní_^(týkající_se_úpadku,_soutěže)" src="auto">AANS2----1A----</AM>
+<AM lemma="konkursní_,s_^(^DD**konkurzní)_(týkající_se_úpadku,_soutěže)" src="manual" selected="1">AANS2----1A----</AM>
+</tag>
 </m>
 <m id="m-mf930713-125-p2s1Bw13">
 <src.rf>manual</src.rf>
@@ -210,7 +214,10 @@
 <LM>w#w-mf930713-125-p2s1Bw15</LM>
 </w.rf>
 <form>tzv</form>
-<tag lemma="takzvaný_:B" src="orig" selected="1">AAXXX----1A---8</tag>
+<tag>
+<AM lemma="takzvaný_:B" src="orig">AAXXX----1A---8</AM>
+<AM lemma="takzvaný" src="manual" selected="1">AAXXX----1A---8</AM>
+</tag>
 </m>
 <m id="m-mf930713-125-p2s1Bw16">
 <src.rf>manual</src.rf>
@@ -520,7 +527,10 @@
 <LM>w#w-mf930713-125-p2s4w1</LM>
 </w.rf>
 <form>Jen</form>
-<tag lemma="jen-1" src="auto" selected="1">TT-------------</tag>
+<tag>
+<AM lemma="jen-1" src="auto">TT-------------</AM>
+<AM lemma="jen-4_^(pouze)" src="manual" selected="1">Db-------------</AM>
+</tag>
 </m>
 <m id="m-mf930713-125-p2s4w2">
 <src.rf>manual</src.rf>

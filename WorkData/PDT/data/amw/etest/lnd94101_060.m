@@ -555,7 +555,10 @@
 <LM>w#w-lnd94101-060-p1s5w8</LM>
 </w.rf>
 <form>Abdalláhu</form>
-<tag lemma="Abdalláh_;S" src="auto" selected="1">NNMS3-----A----</tag>
+<tag>
+<AM lemma="Abdalláh_;S" src="auto">NNMS3-----A----</AM>
+<AM lemma="Abdalláh_;S_;Y" src="manual" selected="1">NNMS3-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd94101-060-p1s5w9">
 <src.rf>manual</src.rf>
@@ -627,7 +630,10 @@
 <LM>w#w-lnd94101-060-p1s5w17</LM>
 </w.rf>
 <form>Sálima</form>
-<tag lemma="Sálim_;S" src="orig" selected="1">NNMS4-----A----</tag>
+<tag>
+<AM lemma="Sálim_;S" src="orig">NNMS4-----A----</AM>
+<AM lemma="Sálim_;S_;Y" src="manual" selected="1">NNMS4-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd94101-060-p1s5w18">
 <src.rf>manual</src.rf>

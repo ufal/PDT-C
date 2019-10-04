@@ -589,7 +589,10 @@
 <LM>w#w-ln94206-142-p3s1w18</LM>
 </w.rf>
 <form>li</form>
-<tag lemma="li-1" src="auto" selected="1">TT-------------</tag>
+<tag>
+<AM lemma="li-1" src="auto">TT-------------</AM>
+<AM lemma="li-2" src="manual" selected="1">J,-------------</AM>
+</tag>
 </m>
 <m id="m-ln94206-142-p3s1w19">
 <src.rf>manual</src.rf>
@@ -779,7 +782,7 @@
 <AM lemma="dvoustránkový" src="auto">AAIP4----1A---6</AM>
 <AM lemma="dvoustránkový" src="auto">AAIP5----1A---6</AM>
 <AM lemma="dvoustránkový" src="auto">AAIS1----1A----</AM>
-<AM lemma="dvoustránkový" src="auto" recommended="1">AAIS4----1A----</AM>
+<AM lemma="dvoustránkový" src="auto" recommended="1" selected="1">AAIS4----1A----</AM>
 <AM lemma="dvoustránkový" src="auto">AAIS5----1A----</AM>
 <AM lemma="dvoustránkový" src="auto">AAMP1----1A---6</AM>
 <AM lemma="dvoustránkový" src="auto">AAMP4----1A---6</AM>
@@ -1044,7 +1047,10 @@
 <LM>w#w-ln94206-142-p4s3w7</LM>
 </w.rf>
 <form>DPH</form>
-<tag lemma="DPH-1_:B_;b" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="DPH-1_:B_;b" src="orig">NNFXX-----A---8</AM>
+<AM lemma="DPH-1_:B_^(daň_z_přidané_hodnoty)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94206-142-p4s3w8">
 <src.rf>manual</src.rf>

@@ -171,7 +171,10 @@
 <LM>w#w-ln95048-073-p1s1w20</LM>
 </w.rf>
 <form>diskusní</form>
-<tag lemma="diskusní" src="orig" selected="1">AANS4----1A----</tag>
+<tag>
+<AM lemma="diskusní" src="orig">AANS4----1A----</AM>
+<AM lemma="diskusní_,s_^(^DD**diskuzní)" src="manual" selected="1">AANS4----1A----</AM>
+</tag>
 </m>
 <m id="m-ln95048-073-p1s1w21">
 <src.rf>manual</src.rf>
@@ -506,7 +509,7 @@
 <tag>
 <AM lemma="tady" src="orig">Db------------1</AM>
 <AM lemma="ten" src="auto" recommended="1">PDFS4----------</AM>
-<AM lemma="tu" src="auto">Db-------------</AM>
+<AM lemma="tu" src="auto" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m-ln95048-073-p1s3w3">
@@ -611,7 +614,10 @@
 <LM>w#w-ln95048-073-p1s3w15</LM>
 </w.rf>
 <form>strany</form>
-<tag lemma="strana-3_^(u_soudu,_na_úřadě,_smluvní_strany;_na_něčí_straně)" src="orig" selected="1">NNFS2-----A----</tag>
+<tag>
+<AM lemma="strana-3_^(u_soudu,_na_úřadě,_smluvní_strany;_na_něčí_straně)" src="orig">NNFS2-----A----</AM>
+<AM lemma="strana" src="manual" selected="1">NNFS2-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95048-073-p1s3w16">
 <src.rf>manual</src.rf>
@@ -1177,7 +1183,10 @@
 <LM>w#w-ln95048-073-p1s6w28</LM>
 </w.rf>
 <form>M</form>
-<tag lemma="M-0_:B_;Y" src="orig" selected="1">NNMXX-----A---8</tag>
+<tag>
+<AM lemma="M-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
+<AM lemma="M-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95048-073-p1s6w29">
 <src.rf>manual</src.rf>

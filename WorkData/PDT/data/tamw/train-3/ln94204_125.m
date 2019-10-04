@@ -53,7 +53,10 @@
 <LM>w#w-ln94204-125-p2s1Aw2</LM>
 </w.rf>
 <form>Švéd</form>
-<tag lemma="Švéd_;E" src="auto" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Švéd_;E" src="auto">NNMS1-----A----</AM>
+<AM lemma="Švéd_;E_;S" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 </s>
 <s id="m-ln94204-125-p2s1B">

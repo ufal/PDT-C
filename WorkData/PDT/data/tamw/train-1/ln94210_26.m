@@ -103,7 +103,10 @@
 <LM>w#w-ln94210-26-p2s1Bw3</LM>
 </w.rf>
 <form>UNPROFOR</form>
-<tag lemma="UNPROFOR_:B" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="UNPROFOR_:B" src="orig">NNFXX-----A---8</AM>
+<AM lemma="UNPROFOR-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94210-26-p2s1Bw4">
 <src.rf>manual</src.rf>
@@ -273,7 +276,10 @@
 <LM>w#w-ln94210-26-p2s2w9</LM>
 </w.rf>
 <form>OSN</form>
-<tag lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94210-26-p2s2w10">
 <src.rf>manual</src.rf>
@@ -411,7 +417,10 @@
 <LM>w#w-ln94210-26-p2s3w8</LM>
 </w.rf>
 <form>ČR</form>
-<tag lemma="ČR-1_:B_;G_^(Česká_republika)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94210-26-p2s3w9">
 <src.rf>manual</src.rf>
@@ -719,7 +728,10 @@
 <LM>w#w-ln94210-26-p2s5w9</LM>
 </w.rf>
 <form>mj</form>
-<tag lemma="mj-1_:B_^(mimo_jiné)" src="orig" selected="1">Db------------8</tag>
+<tag>
+<AM lemma="mj-1_:B_^(mimo_jiné)" src="orig">Db------------8</AM>
+<AM lemma="mj-1_:B_^(mimo_jiné)" src="manual" selected="1">Db-------------</AM>
+</tag>
 </m>
 <m id="m-ln94210-26-p2s5w10">
 <src.rf>manual</src.rf>
@@ -1093,6 +1105,7 @@
 <AM lemma="mnohamiliónový" src="auto">AANS1----1A----</AM>
 <AM lemma="mnohamiliónový" src="auto">AANS4----1A----</AM>
 <AM lemma="mnohamiliónový" src="auto">AANS5----1A----</AM>
+<AM lemma="mnohamilionový_,s_^(^DD**mnohamiliónový)" src="manual" selected="1">AAIP1----1A----</AM>
 </tag>
 </m>
 <m id="m-ln94210-26-p2s7w7">

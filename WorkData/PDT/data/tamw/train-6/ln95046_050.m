@@ -69,7 +69,10 @@
 <LM>w#w-ln95046-050-p2s1w2</LM>
 </w.rf>
 <form>umění</form>
-<tag lemma="umění_^(mít_schopnost_něco_dělat)_(*2t)" src="orig" selected="1">NNNS2-----A----</tag>
+<tag>
+<AM lemma="umění_^(mít_schopnost_něco_dělat)_(*2t)" src="orig">NNNS2-----A----</AM>
+<AM lemma="umění_^(*2t)" src="manual" selected="1">NNNS2-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95046-050-p2s1w3">
 <src.rf>manual</src.rf>
@@ -218,6 +221,8 @@
 <tag>
 <AM lemma="Angelus_;m" src="orig">NNIS1-----A----</AM>
 <AM lemma="Angelus_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="angelus_,t" src="manual">NNXXX-----A----</AM>
+<AM lemma="Angelus-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-ln95046-050-p3s1w5">
@@ -229,6 +234,8 @@
 <tag>
 <AM lemma="novus_,t" src="orig">AAIS1----1A----</AM>
 <AM lemma="novus_;L_,t" src="auto" recommended="1">AAXXX----1A----</AM>
+<AM lemma="novus_,t" src="manual">AAXXX----1A----</AM>
+<AM lemma="novus-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-ln95046-050-p3s1w6">
@@ -527,7 +534,10 @@
 <LM>w#w-ln95046-050-p4s1w25</LM>
 </w.rf>
 <form>umění</form>
-<tag lemma="umění_^(mít_schopnost_něco_dělat)_(*2t)" src="orig" selected="1">NNNS2-----A----</tag>
+<tag>
+<AM lemma="umění_^(mít_schopnost_něco_dělat)_(*2t)" src="orig">NNNS2-----A----</AM>
+<AM lemma="umění_^(*2t)" src="manual" selected="1">NNNS2-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95046-050-p4s1w26">
 <src.rf>manual</src.rf>

@@ -27,7 +27,10 @@
 <LM>w#w-ln95049-111-p1s1w2</LM>
 </w.rf>
 <form>vicemiss</form>
-<tag lemma="vicemiss_,t" src="auto" selected="1">NNFXX-----A----</tag>
+<tag>
+<AM lemma="vicemiss_,t" src="auto">NNFXX-----A----</AM>
+<AM lemma="vicemiss-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln95049-111-p1s1w3">
 <src.rf>manual</src.rf>
@@ -123,7 +126,10 @@
 <LM>w#w-ln95049-111-p1s1w14</LM>
 </w.rf>
 <form>vicemiss</form>
-<tag lemma="vicemiss_,t" src="auto" selected="1">NNFXX-----A----</tag>
+<tag>
+<AM lemma="vicemiss_,t" src="auto">NNFXX-----A----</AM>
+<AM lemma="vicemiss-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln95049-111-p1s1w15">
 <src.rf>manual</src.rf>

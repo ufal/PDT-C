@@ -79,7 +79,10 @@
 <LM>w#w-ln95045-034-p2s1Bw4</LM>
 </w.rf>
 <form>United</form>
-<tag lemma="United_;K_,t_^(souč._angl._názvu)" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="United_;K_,t_^(souč._angl._názvu)" src="orig">AAXXX----1A----</AM>
+<AM lemma="United-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln95045-034-p2s1Bw5">
 <src.rf>manual</src.rf>
@@ -199,7 +202,10 @@
 <LM>w#w-ln95045-034-p2s1Bw19</LM>
 </w.rf>
 <form>United</form>
-<tag lemma="United_;K_,t_^(souč._angl._názvu)" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="United_;K_,t_^(souč._angl._názvu)" src="orig">AAXXX----1A----</AM>
+<AM lemma="United-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln95045-034-p2s1Bw20">
 <src.rf>manual</src.rf>
@@ -223,7 +229,10 @@
 <LM>w#w-ln95045-034-p2s1Bw22</LM>
 </w.rf>
 <form>Crystal</form>
-<tag lemma="Crystal_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="Crystal_;K" src="orig">NNIS1-----A----</AM>
+<AM lemma="Crystal-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln95045-034-p2s1Bw23">
 <src.rf>manual</src.rf>
@@ -231,7 +240,10 @@
 <LM>w#w-ln95045-034-p2s1Bw23</LM>
 </w.rf>
 <form>Palace</form>
-<tag lemma="Palace-1_;K_^(př._hotel_Palace)" src="auto" selected="1">NNIXX-----A----</tag>
+<tag>
+<AM lemma="Palace-1_;K_^(př._hotel_Palace)" src="auto">NNIXX-----A----</AM>
+<AM lemma="Palace-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln95045-034-p2s1Bw24">
 <src.rf>manual</src.rf>
@@ -277,6 +289,8 @@
 <AM lemma="Scotland_;G_;K_,t" src="orig">AAXXX----1A----</AM>
 <AM lemma="Scotland_;G_;K" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Scotland_;G_;K" src="auto">NNIS4-----A----</AM>
+<AM lemma="Scotland_,t" src="manual">AAXXX----1A----</AM>
+<AM lemma="Scotland-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-ln95045-034-p2s2w2">
@@ -285,7 +299,10 @@
 <LM>w#w-ln95045-034-p2s2w2</LM>
 </w.rf>
 <form>Yard</form>
-<tag lemma="yard" src="orig" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="yard" src="orig">NNIS1-----A----</AM>
+<AM lemma="Yard-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln95045-034-p2s2w3">
 <src.rf>manual</src.rf>
@@ -537,7 +554,10 @@
 <LM>w#w-ln95045-034-p2s4w10</LM>
 </w.rf>
 <form>dolarů</form>
-<tag lemma="dolar_;b" src="orig" selected="1">NNIP2-----A----</tag>
+<tag>
+<AM lemma="dolar_;b" src="orig">NNIP2-----A----</AM>
+<AM lemma="dolar" src="manual" selected="1">NNIP2-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95045-034-p2s4w11">
 <src.rf>manual</src.rf>

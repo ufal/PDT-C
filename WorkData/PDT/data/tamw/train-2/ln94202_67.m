@@ -281,7 +281,10 @@
 <LM>w#w-ln94202-67-p2s2w8</LM>
 </w.rf>
 <form>APS</form>
-<tag lemma="APS-4_:B_;K_,t_^(Algérie_Presse_Service)" src="auto" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="APS-4_:B_;K_,t_^(Algérie_Presse_Service)" src="auto">NNFXX-----A---8</AM>
+<AM lemma="APS-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln94202-67-p2s2w9">
 <src.rf>manual</src.rf>
@@ -549,7 +552,10 @@
 <LM>w#w-ln94202-67-p3s1w3</LM>
 </w.rf>
 <form>Air</form>
-<tag lemma="Air_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="Air_;K" src="orig">NNIS1-----A----</AM>
+<AM lemma="Air-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94202-67-p3s1w4">
 <src.rf>manual</src.rf>
@@ -557,7 +563,10 @@
 <LM>w#w-ln94202-67-p3s1w4</LM>
 </w.rf>
 <form>Algérie</form>
-<tag lemma="Algérie_;K_,t" src="orig" selected="1">NNFS1-----A----</tag>
+<tag>
+<AM lemma="Algérie_;K_,t" src="orig">NNFS1-----A----</AM>
+<AM lemma="Algérie-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94202-67-p3s1w5">
 <src.rf>manual</src.rf>

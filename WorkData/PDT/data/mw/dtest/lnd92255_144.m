@@ -237,7 +237,10 @@
 <LM>w#w-lnd92255-144-p1s2w11</LM>
 </w.rf>
 <form>Der</form>
-<tag lemma="der-1_;K_,t_^(souč._něm._názvů,_např._Der_Spiegel_[člen_m.])" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="der-1_;K_,t_^(souč._něm._názvů,_např._Der_Spiegel_[člen_m.])" src="orig">AAXXX----1A----</AM>
+<AM lemma="Der-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-lnd92255-144-p1s2w12">
 <src.rf>manual</src.rf>
@@ -245,7 +248,10 @@
 <LM>w#w-lnd92255-144-p1s2w12</LM>
 </w.rf>
 <form>Spiegel</form>
-<tag lemma="Spiegel-1_;K_,t_^(souč._názvu_Der_S.)" src="orig" selected="1">NNIXX-----A----</tag>
+<tag>
+<AM lemma="Spiegel-1_;K_,t_^(souč._názvu_Der_S.)" src="orig">NNIXX-----A----</AM>
+<AM lemma="Spiegel-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-lnd92255-144-p1s2w13">
 <src.rf>manual</src.rf>
@@ -272,6 +278,7 @@
 <tag>
 <AM lemma="Gruner_;K" src="orig">NNIS1-----A----</AM>
 <AM lemma="Gruner_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Gruner-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-lnd92255-144-p1s2w16">
@@ -291,6 +298,7 @@
 <tag>
 <AM lemma="Jahr_;K" src="orig">NNIS1-----A----</AM>
 <AM lemma="Jahr_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Jahr-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-lnd92255-144-p1s2w18">
@@ -339,7 +347,10 @@
 <LM>w#w-lnd92255-144-p1s2w23</LM>
 </w.rf>
 <form>Stern</form>
-<tag lemma="Stern_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Stern_;S" src="orig">NNMS1-----A----</AM>
+<AM lemma="Stern-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-lnd92255-144-p1s2w24">
 <src.rf>manual</src.rf>
@@ -395,7 +406,10 @@
 <LM>w#w-lnd92255-144-p1s2w30</LM>
 </w.rf>
 <form>E</form>
-<tag lemma="E-0_:B_;Y" src="orig" selected="1">NNMXX-----A---8</tag>
+<tag>
+<AM lemma="E-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
+<AM lemma="E-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd92255-144-p1s2w31">
 <src.rf>manual</src.rf>
@@ -411,7 +425,10 @@
 <LM>w#w-lnd92255-144-p1s2w32</LM>
 </w.rf>
 <form>E</form>
-<tag lemma="E-0_:B_;Y" src="orig" selected="1">NNMXX-----A---8</tag>
+<tag>
+<AM lemma="E-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
+<AM lemma="E-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd92255-144-p1s2w33">
 <src.rf>manual</src.rf>
@@ -477,7 +494,12 @@
 <LM>w#w-lnd92255-144-p1s3w5</LM>
 </w.rf>
 <form>Dr</form>
-<tag lemma="doktor_:B_^(doktor,_akad._titul)" src="orig" selected="1">NNMXX-----A---8</tag>
+<tag>
+<AM lemma="doktor_:B_^(doktor,_akad._titul)" src="orig">NNMXX-----A---8</AM>
+<AM lemma="doktor_^(doktor,_akad._titul)" src="manual">NNXXX-----A---8</AM>
+<AM lemma="Dr_:B_^(doktor,_akad._titul)" src="manual">NNXXX-----A----</AM>
+<AM lemma="Dr_:B_^(doktor)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92255-144-p1s3w6">
 <src.rf>manual</src.rf>
@@ -553,7 +575,10 @@
 <LM>w#w-lnd92255-144-p2s2w1</LM>
 </w.rf>
 <form>LN</form>
-<tag lemma="LN-1_:B_;R_^(Lidové_noviny,_deník)" src="orig" selected="1">NNFPX-----A---8</tag>
+<tag>
+<AM lemma="LN-1_:B_;R_^(Lidové_noviny,_deník)" src="orig">NNFPX-----A---8</AM>
+<AM lemma="LN-1_:B_;K_;R_^(Lidové_noviny)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 </s>
 </mdata>

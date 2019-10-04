@@ -373,7 +373,7 @@
 <form>pepsi</form>
 <tag>
 <AM lemma="pepsi_;R" src="orig">AAXXX----1A----</AM>
-<AM lemma="pepsi_;R" src="auto" recommended="1">NNFSX-----A----</AM>
+<AM lemma="pepsi_;R" src="auto" recommended="1" selected="1">NNFSX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920925-101-p4s1w13">
@@ -398,7 +398,10 @@
 <LM>w#w-mf920925-101-p4s1w15</LM>
 </w.rf>
 <form>coca</form>
-<tag lemma="coca_;L_,t" src="auto" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="coca_;L_,t" src="auto">AAXXX----1A----</AM>
+<AM lemma="coca" src="manual" selected="1">A2--------A----</AM>
+</tag>
 </m>
 <m id="m-mf920925-101-p4s1w16">
 <src.rf>manual</src.rf>
@@ -520,7 +523,10 @@
 <LM>w#w-mf920925-101-p4s2w3</LM>
 </w.rf>
 <form>li</form>
-<tag lemma="li-1" src="auto" selected="1">TT-------------</tag>
+<tag>
+<AM lemma="li-1" src="auto">TT-------------</AM>
+<AM lemma="li-2" src="manual" selected="1">J,-------------</AM>
+</tag>
 </m>
 <m id="m-mf920925-101-p4s2w4">
 <src.rf>manual</src.rf>
@@ -560,7 +566,10 @@
 <LM>w#w-mf920925-101-p4s2w8</LM>
 </w.rf>
 <form>Jicchak</form>
-<tag lemma="Jicchak_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Jicchak_;S" src="orig">NNMS1-----A----</AM>
+<AM lemma="Jicchak_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920925-101-p4s2w9">
 <src.rf>manual</src.rf>
@@ -940,6 +949,8 @@
 <AM lemma="Campo_;G" src="auto">NNNP2-----A----</AM>
 <AM lemma="camp" src="auto">NNIS1-----A----</AM>
 <AM lemma="camp" src="auto">NNIS4-----A----</AM>
+<AM lemma="camp_,t" src="manual">NNXXX-----A----</AM>
+<AM lemma="Camp-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-mf920925-101-p5s1w5">
@@ -952,6 +963,7 @@
 <AM lemma="David-3_;G" src="orig">NNIS6-----A----</AM>
 <AM lemma="David_;Y" src="auto">NNMS3-----A---1</AM>
 <AM lemma="David_;Y" src="auto" recommended="1">NNMS6-----A---1</AM>
+<AM lemma="David-2_;G" src="manual" selected="1">NNIS6-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920925-101-p5s1w6">
@@ -1088,7 +1100,10 @@
 <LM>w#w-mf920925-101-p5s1w22</LM>
 </w.rf>
 <form>jen</form>
-<tag lemma="jen-1" src="auto" selected="1">TT-------------</tag>
+<tag>
+<AM lemma="jen-1" src="auto">TT-------------</AM>
+<AM lemma="jen-4_^(pouze)" src="manual" selected="1">Db-------------</AM>
+</tag>
 </m>
 <m id="m-mf920925-101-p5s1w23">
 <src.rf>manual</src.rf>
@@ -1245,6 +1260,7 @@
 <tag>
 <AM lemma="USA_;G" src="orig">NNIPX-----A----</AM>
 <AM lemma="USA_:B_;K_,t_^(United_States_of_America)" src="auto" recommended="1">NNIPX-----A---8</AM>
+<AM lemma="USA_:B_;K_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920925-101-p6s1w2">
@@ -1645,7 +1661,7 @@
 <form>Jakákoli</form>
 <tag>
 <AM lemma="jakýkoliv" src="orig">PZFS1---------1</AM>
-<AM lemma="jakýkoli" src="auto" recommended="1">PZFS1----------</AM>
+<AM lemma="jakýkoli" src="auto" recommended="1" selected="1">PZFS1----------</AM>
 <AM lemma="jakýkoli" src="auto">PZFS5----------</AM>
 <AM lemma="jakýkoli" src="auto">PZNP1----------</AM>
 <AM lemma="jakýkoli" src="auto">PZNP4----------</AM>
@@ -1788,7 +1804,10 @@
 <LM>w#w-mf920925-101-p7s1w4</LM>
 </w.rf>
 <form>Damaškem</form>
-<tag lemma="damašek" src="orig" selected="1">NNIS7-----A----</tag>
+<tag>
+<AM lemma="damašek" src="orig">NNIS7-----A----</AM>
+<AM lemma="Damašek_;G" src="manual" selected="1">NNIS7-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920925-101-p7s1w5">
 <src.rf>manual</src.rf>
@@ -1813,6 +1832,7 @@
 <AM lemma="telit_:T" src="auto">Vi-S---2--A----</AM>
 <AM lemma="telit_:T" src="auto">Vi-S---3--A---4</AM>
 <AM lemma="tlo_,n" src="auto">NNNP2-----A----</AM>
+<AM lemma="Tel-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-mf920925-101-p7s1w7">
@@ -2381,7 +2401,10 @@
 <LM>w#w-mf920925-101-p9s2w7</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-2" src="auto" selected="1">Dg-------2A----</tag>
+<tag>
+<AM lemma="hodně-2" src="auto">Dg-------2A----</AM>
+<AM lemma="více_^(více_+_2._p.,_více_peněz)" src="manual" selected="1">Ca--4----------</AM>
+</tag>
 </m>
 <m id="m-mf920925-101-p9s2w8">
 <src.rf>manual</src.rf>

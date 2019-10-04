@@ -453,7 +453,7 @@
 <form>třeba</form>
 <tag>
 <AM lemma="třeba-1" src="orig">ACNS------A----</AM>
-<AM lemma="třeba-2" src="auto" recommended="1">Db-------------</AM>
+<AM lemma="třeba-2" src="auto" recommended="1" selected="1">Db-------------</AM>
 <AM lemma="třeba-3" src="auto">TT-------------</AM>
 </tag>
 </m>
@@ -516,6 +516,7 @@
 <tag>
 <AM lemma="USA_;G" src="orig">NNIPX-----A----</AM>
 <AM lemma="USA_:B_;K_,t_^(United_States_of_America)" src="auto" recommended="1">NNIPX-----A---8</AM>
+<AM lemma="USA_:B_;K_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930709-093-p2s4w4">
@@ -710,7 +711,10 @@
 <LM>w#w-mf930709-093-p2s5w4</LM>
 </w.rf>
 <form>úvodním</form>
-<tag lemma="úvodní_,s" src="auto" selected="1">AANS6----1A----</tag>
+<tag>
+<AM lemma="úvodní_,s" src="auto">AANS6----1A----</AM>
+<AM lemma="úvodní" src="manual" selected="1">AAIS6----1A----</AM>
+</tag>
 </m>
 <m id="m-mf930709-093-p2s5w5">
 <src.rf>manual</src.rf>
@@ -914,7 +918,10 @@
 <LM>w#w-mf930709-093-p2s8w3</LM>
 </w.rf>
 <form>hrálo</form>
-<tag lemma="hrát" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag>
+<AM lemma="hrát" src="orig">VpNS---XR-AA---</AM>
+<AM lemma="hrát_:T" src="manual" selected="1">VpNS---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-mf930709-093-p2s8w4">
 <src.rf>manual</src.rf>
@@ -1628,7 +1635,10 @@
 <LM>w#w-mf930709-093-p2s13w3</LM>
 </w.rf>
 <form>začalo</form>
-<tag lemma="začít-1_^(začnout)" src="auto" selected="1">VpNS---XR-AA---</tag>
+<tag>
+<AM lemma="začít-1_^(začnout)" src="auto">VpNS---XR-AA---</AM>
+<AM lemma="začít-1_:W_^(začnout)" src="manual" selected="1">VpNS---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-mf930709-093-p2s13w4">
 <src.rf>manual</src.rf>

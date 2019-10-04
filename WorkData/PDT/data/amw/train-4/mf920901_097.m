@@ -63,7 +63,7 @@
 <form>ABCHAZOVÉ</form>
 <tag>
 <AM lemma="Abchaz_;E" src="orig">NNMP1-----A---1</AM>
-<AM lemma="Abchaz_;E" src="auto" recommended="1">NNMP1-----A----</AM>
+<AM lemma="Abchaz_;E" src="auto" recommended="1" selected="1">NNMP1-----A----</AM>
 <AM lemma="Abchaz_;E" src="auto">NNMP1-----A---6</AM>
 <AM lemma="Abchaz_;E" src="auto">NNMP5-----A----</AM>
 <AM lemma="Abchaz_;E" src="auto">NNMP5-----A---6</AM>
@@ -402,7 +402,7 @@
 </w.rf>
 <form>Ešera</form>
 <tag>
-<AM lemma="Ešera_;G" src="orig">NNFS1-----A----</AM>
+<AM lemma="Ešera_;G" src="orig" selected="1">NNFS1-----A----</AM>
 <AM lemma="Ešer_;S" src="auto" recommended="1">NNMS2-----A----</AM>
 <AM lemma="Ešer_;S" src="auto">NNMS4-----A----</AM>
 </tag>
@@ -441,7 +441,7 @@
 <form>Abchazové</form>
 <tag>
 <AM lemma="Abchaz_;E" src="orig">NNMP1-----A---1</AM>
-<AM lemma="Abchaz_;E" src="auto" recommended="1">NNMP1-----A----</AM>
+<AM lemma="Abchaz_;E" src="auto" recommended="1" selected="1">NNMP1-----A----</AM>
 <AM lemma="Abchaz_;E" src="auto">NNMP1-----A---6</AM>
 <AM lemma="Abchaz_;E" src="auto">NNMP5-----A----</AM>
 <AM lemma="Abchaz_;E" src="auto">NNMP5-----A---6</AM>

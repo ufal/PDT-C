@@ -43,7 +43,10 @@
 <LM>w#w-ln94206-43-p1s1w4</LM>
 </w.rf>
 <form>Mladé</form>
-<tag lemma="Mladá_;S" src="auto" selected="1">NNFS6-----A----</tag>
+<tag>
+<AM lemma="Mladá_;S" src="auto">NNFS6-----A----</AM>
+<AM lemma="Mladá_;G_;S" src="manual" selected="1">NNFS6-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94206-43-p1s1w5">
 <src.rf>manual</src.rf>
@@ -117,7 +120,10 @@
 <LM>w#w-ln94206-43-p2s1Aw3</LM>
 </w.rf>
 <form>ika</form>
-<tag lemma="ika-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="ika-99_:B_;S" src="orig">NNXXX-----A---8</AM>
+<AM lemma="ika-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94206-43-p2s1Aw4">
 <src.rf>manual</src.rf>
@@ -175,7 +181,10 @@
 <LM>w#w-ln94206-43-p2s1Bw5</LM>
 </w.rf>
 <form>Mladá</form>
-<tag lemma="Mladá_;S" src="auto" selected="1">NNFS1-----A----</tag>
+<tag>
+<AM lemma="Mladá_;S" src="auto">NNFS1-----A----</AM>
+<AM lemma="Mladá_;G_;S" src="manual" selected="1">NNFS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94206-43-p2s1Bw6">
 <src.rf>manual</src.rf>
@@ -393,7 +402,10 @@
 <LM>w#w-ln94206-43-p2s2w8</LM>
 </w.rf>
 <form>SOH</form>
-<tag lemma="Soho_;G" src="orig" selected="1">NNNP2-----A----</tag>
+<tag>
+<AM lemma="Soho_;G" src="orig">NNNP2-----A----</AM>
+<AM lemma="SOH-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94206-43-p2s2w9">
 <src.rf>manual</src.rf>
@@ -401,7 +413,10 @@
 <LM>w#w-ln94206-43-p2s2w9</LM>
 </w.rf>
 <form>s</form>
-<tag lemma="společnost_:B" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="společnost_:B" src="orig">NNFXX-----A---8</AM>
+<AM lemma="společnost" src="manual" selected="1">NNFXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln94206-43-p2s2w10">
 <src.rf>manual</src.rf>
@@ -417,7 +432,10 @@
 <LM>w#w-ln94206-43-p2s2w11</LM>
 </w.rf>
 <form>r</form>
-<tag lemma="ručení_:B" src="orig" selected="1">NNNS7-----A---8</tag>
+<tag>
+<AM lemma="ručení_:B" src="orig">NNNS7-----A---8</AM>
+<AM lemma="ručení" src="manual" selected="1">NNNXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln94206-43-p2s2w12">
 <src.rf>manual</src.rf>
@@ -433,7 +451,10 @@
 <LM>w#w-ln94206-43-p2s2w13</LM>
 </w.rf>
 <form>o</form>
-<tag lemma="omezený_:B" src="orig" selected="1">AANS7----1A---8</tag>
+<tag>
+<AM lemma="omezený_:B" src="orig">AANS7----1A---8</AM>
+<AM lemma="omezený" src="manual" selected="1">AANXX----1A---8</AM>
+</tag>
 </m>
 <m id="m-ln94206-43-p2s2w14">
 <src.rf>manual</src.rf>
@@ -502,6 +523,8 @@
 <AM lemma="Reo_;G" src="auto" recommended="1">NNNS1-----A----</AM>
 <AM lemma="Reo_;G" src="auto">NNNS4-----A----</AM>
 <AM lemma="Reo_;G" src="auto">NNNS5-----A----</AM>
+<AM lemma="REO_:B" src="manual">NNXXX-----A---8</AM>
+<AM lemma="REO-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94206-43-p2s2w22">
@@ -521,6 +544,7 @@
 <tag>
 <AM lemma="RWE_:B_;K" src="orig">AAXXX----1A---8</AM>
 <AM lemma="RWE_:B_;K_,t" src="auto" recommended="1">NNFSX-----A---8</AM>
+<AM lemma="RWE-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94206-43-p2s2w24">
@@ -529,7 +553,10 @@
 <LM>w#w-ln94206-43-p2s2w24</LM>
 </w.rf>
 <form>Entsorgung</form>
-<tag lemma="Entsorgung_;K_,t" src="orig" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="Entsorgung_;K_,t" src="orig">NNIS1-----A----</AM>
+<AM lemma="Entsorgung_;K" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94206-43-p2s2w25">
 <src.rf>manual</src.rf>
@@ -1163,7 +1190,10 @@
 <LM>w#w-ln94206-43-p3s2w30</LM>
 </w.rf>
 <form>řekl</form>
-<tag lemma="říci" src="auto" selected="1">VpYS---XR-AA---</tag>
+<tag>
+<AM lemma="říci" src="auto">VpYS---XR-AA---</AM>
+<AM lemma="říci_:W" src="manual" selected="1">VpYS---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-ln94206-43-p3s2w31">
 <src.rf>manual</src.rf>
@@ -1303,7 +1333,10 @@
 <LM>w#w-ln94206-43-p4s1w8</LM>
 </w.rf>
 <form>milionu</form>
-<tag lemma="milión`1000000" src="orig" selected="1">NNIS2-----A----</tag>
+<tag>
+<AM lemma="milión`1000000" src="orig">NNIS2-----A----</AM>
+<AM lemma="milion`1000000_,s_^(^DD**milión)" src="manual" selected="1">NNIS2-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94206-43-p4s1w9">
 <src.rf>manual</src.rf>

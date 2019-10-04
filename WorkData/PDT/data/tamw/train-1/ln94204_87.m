@@ -215,7 +215,10 @@
 <LM>w#w-ln94204-87-p2s1Bw19</LM>
 </w.rf>
 <form>li</form>
-<tag lemma="li-1" src="auto" selected="1">TT-------------</tag>
+<tag>
+<AM lemma="li-1" src="auto">TT-------------</AM>
+<AM lemma="li-2" src="manual" selected="1">J,-------------</AM>
+</tag>
 </m>
 <m id="m-ln94204-87-p2s1Bw20">
 <src.rf>manual</src.rf>
@@ -337,7 +340,10 @@
 <LM>w#w-ln94204-87-p2s2w7</LM>
 </w.rf>
 <form>FIS</form>
-<tag lemma="FIS_:B_;K" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="FIS_:B_;K" src="orig">NNXXX-----A---8</AM>
+<AM lemma="FIS-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln94204-87-p2s2w8">
 <src.rf>manual</src.rf>
@@ -829,7 +835,10 @@
 <LM>w#w-ln94204-87-p2s4w23</LM>
 </w.rf>
 <form>Rabatu</form>
-<tag lemma="rabat" src="orig" selected="1">NNIS6-----A----</tag>
+<tag>
+<AM lemma="rabat" src="orig">NNIS6-----A----</AM>
+<AM lemma="Rabat_;G" src="manual" selected="1">NNIS6-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94204-87-p2s4w24">
 <src.rf>manual</src.rf>

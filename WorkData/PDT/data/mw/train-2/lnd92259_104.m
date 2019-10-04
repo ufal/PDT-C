@@ -161,7 +161,10 @@
 <LM>w#w-lnd92259-104-p3s2w8</LM>
 </w.rf>
 <form>provedli</form>
-<tag lemma="provést" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag>
+<AM lemma="provést" src="orig">VpMP---XR-AA---</AM>
+<AM lemma="provést_:W" src="manual" selected="1">VpMP---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-lnd92259-104-p3s2w9">
 <src.rf>manual</src.rf>
@@ -352,6 +355,7 @@
 <AM lemma="APA_:B" src="auto" recommended="1">NNXXX-----A---8</AM>
 <AM lemma="Apa_;G" src="auto">NNFS1-----A----</AM>
 <AM lemma="Apo_;G" src="auto">NNNS2-----A----</AM>
+<AM lemma="APA-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92259-104-p3s3w6">
@@ -368,7 +372,10 @@
 <LM>w#w-lnd92259-104-p3s3w7</LM>
 </w.rf>
 <form>MAAE</form>
-<tag lemma="MAAE_:B_;K_;p_^(Mezinárodní_agentura_pro_atomovou_energii)" src="auto" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="MAAE_:B_;K_;p_^(Mezinárodní_agentura_pro_atomovou_energii)" src="auto">NNFXX-----A---8</AM>
+<AM lemma="MAAE-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92259-104-p3s3w8">
 <src.rf>manual</src.rf>
@@ -860,7 +867,10 @@
 <LM>w#w-lnd92259-104-p3s5w14</LM>
 </w.rf>
 <form>zdrželo</form>
-<tag lemma="zdržet" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag>
+<AM lemma="zdržet" src="orig">VpNS---XR-AA---</AM>
+<AM lemma="zdržet_:W" src="manual" selected="1">VpNS---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-lnd92259-104-p3s5w15">
 <src.rf>manual</src.rf>

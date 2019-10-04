@@ -37,7 +37,10 @@
 <LM>w#w-lnd92252-041-p2s1w1</LM>
 </w.rf>
 <form>Major</form>
-<tag lemma="major" src="orig" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="major" src="orig">NNMS1-----A----</AM>
+<AM lemma="Major_;S" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92252-041-p2s1w2">
 <src.rf>manual</src.rf>
@@ -89,7 +92,10 @@
 <LM>w#w-lnd92252-041-p3s2w3</LM>
 </w.rf>
 <form>Major</form>
-<tag lemma="major" src="orig" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="major" src="orig">NNMS1-----A----</AM>
+<AM lemma="Major_;S" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92252-041-p3s2w4">
 <src.rf>manual</src.rf>
@@ -234,6 +240,7 @@
 <AM lemma="lada-2_;R_^(vozidlo)" src="auto">NNFP5-----A----</AM>
 <AM lemma="lada-2_;R_^(vozidlo)" src="auto">NNFS2-----A----</AM>
 <AM lemma="lady_,t" src="auto" recommended="1">NNFXX-----A----</AM>
+<AM lemma="lady" src="manual" selected="1">NNFXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92252-041-p3s3w2">
@@ -584,7 +591,10 @@
 <LM>w#w-lnd92252-041-p3s6w7</LM>
 </w.rf>
 <form>Major</form>
-<tag lemma="major" src="orig" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="major" src="orig">NNMS1-----A----</AM>
+<AM lemma="Major_;S" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92252-041-p3s6w8">
 <src.rf>manual</src.rf>
@@ -1024,7 +1034,10 @@
 <LM>w#w-lnd92252-041-p3s10w9</LM>
 </w.rf>
 <form>Majora</form>
-<tag lemma="major" src="orig" selected="1">NNMS4-----A----</tag>
+<tag>
+<AM lemma="major" src="orig">NNMS4-----A----</AM>
+<AM lemma="Major_;S" src="manual" selected="1">NNMS4-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92252-041-p3s10w10">
 <src.rf>manual</src.rf>

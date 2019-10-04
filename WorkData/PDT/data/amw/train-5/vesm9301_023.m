@@ -19,7 +19,10 @@
 <LM>w#w-vesm9301-023-p1s1w1</LM>
 </w.rf>
 <form>Karoshi</form>
-<tag lemma="karoshi_,t" src="orig" selected="1">NNNS1-----A----</tag>
+<tag>
+<AM lemma="karoshi_,t" src="orig">NNNS1-----A----</AM>
+<AM lemma="karoshi-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-vesm9301-023-p1s1w2">
 <src.rf>manual</src.rf>
@@ -38,7 +41,7 @@
 <tag>
 <AM lemma="přece" src="orig">Db-------------</AM>
 <AM lemma="přece-1" src="auto" recommended="1">J^-------------</AM>
-<AM lemma="přece-2" src="auto">TT-------------</AM>
+<AM lemma="přece-2" src="auto" selected="1">TT-------------</AM>
 </tag>
 </m>
 <m id="m-vesm9301-023-p1s1w4">
@@ -284,7 +287,7 @@
 <tag>
 <AM lemma="tedy" src="orig">Db-------------</AM>
 <AM lemma="tedy-1" src="auto">TT-------------</AM>
-<AM lemma="tedy-2" src="auto" recommended="1">J^-------------</AM>
+<AM lemma="tedy-2" src="auto" recommended="1" selected="1">J^-------------</AM>
 </tag>
 </m>
 <m id="m-vesm9301-023-p2s1w26">
@@ -473,7 +476,10 @@
 <LM>w#w-vesm9301-023-p2s3w11</LM>
 </w.rf>
 <form>workaholismem</form>
-<tag lemma="workaholismus" src="orig" selected="1">NNIS7-----A----</tag>
+<tag>
+<AM lemma="workaholismus" src="orig">NNIS7-----A----</AM>
+<AM lemma="workaholismus_i_^(^DS**workoholismus)" src="manual" selected="1">NNIS7-----A----</AM>
+</tag>
 </m>
 <m id="m-vesm9301-023-p2s3w12">
 <src.rf>manual</src.rf>
@@ -555,7 +561,10 @@
 <LM>w#w-vesm9301-023-p3s1w3</LM>
 </w.rf>
 <form>karoshi</form>
-<tag lemma="karoshi_,t" src="orig" selected="1">NNNS1-----A----</tag>
+<tag>
+<AM lemma="karoshi_,t" src="orig">NNNS1-----A----</AM>
+<AM lemma="karoshi-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-vesm9301-023-p3s1w4">
 <src.rf>manual</src.rf>
@@ -611,7 +620,10 @@
 <LM>w#w-vesm9301-023-p3s1w10</LM>
 </w.rf>
 <form>The</form>
-<tag lemma="the-1_,t_^(obv._souč._anglických_názvů,_urč._člen)" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="the-1_,t_^(obv._souč._anglických_názvů,_urč._člen)" src="orig">AAXXX----1A----</AM>
+<AM lemma="The-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-vesm9301-023-p3s1w11">
 <src.rf>manual</src.rf>
@@ -622,6 +634,7 @@
 <tag>
 <AM lemma="Lancet_;R_,t" src="orig">NNFSX-----A----</AM>
 <AM lemma="lanceta" src="auto" recommended="1">NNFP2-----A----</AM>
+<AM lemma="Lancet-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-vesm9301-023-p3s1w12">
@@ -825,7 +838,7 @@
 <tag>
 <AM lemma="tedy" src="orig">Db-------------</AM>
 <AM lemma="tedy-1" src="auto">TT-------------</AM>
-<AM lemma="tedy-2" src="auto" recommended="1">J^-------------</AM>
+<AM lemma="tedy-2" src="auto" recommended="1" selected="1">J^-------------</AM>
 </tag>
 </m>
 <m id="m-vesm9301-023-p3s1w37">
@@ -1444,6 +1457,7 @@
 <tag>
 <AM lemma="Lancet_;R_,t" src="orig">NNFSX-----A----</AM>
 <AM lemma="lanceta" src="auto" recommended="1">NNFP2-----A----</AM>
+<AM lemma="Lancet-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-vesm9301-023-p3s4w7">
@@ -1516,7 +1530,10 @@
 <LM>w#w-vesm9301-023-p3s4w15</LM>
 </w.rf>
 <form>workaholismu</form>
-<tag lemma="workaholismus" src="orig" selected="1">NNIS3-----A----</tag>
+<tag>
+<AM lemma="workaholismus" src="orig">NNIS3-----A----</AM>
+<AM lemma="workaholismus_i_^(^DS**workoholismus)" src="manual" selected="1">NNIS3-----A----</AM>
+</tag>
 </m>
 <m id="m-vesm9301-023-p3s4w16">
 <src.rf>manual</src.rf>
@@ -2048,7 +2065,10 @@
 <LM>w#w-vesm9301-023-p4s2w29</LM>
 </w.rf>
 <form>karoshi</form>
-<tag lemma="karoshi_,t" src="orig" selected="1">NNNS4-----A----</tag>
+<tag>
+<AM lemma="karoshi_,t" src="orig">NNNS4-----A----</AM>
+<AM lemma="karoshi-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-vesm9301-023-p4s2w30">
 <src.rf>manual</src.rf>
@@ -2072,7 +2092,10 @@
 <LM>w#w-vesm9301-023-p4s2w32</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-2" src="auto" selected="1">Dg-------2A----</tag>
+<tag>
+<AM lemma="hodně-2" src="auto">Dg-------2A----</AM>
+<AM lemma="hodně-3" src="manual" selected="1">Dg-------2A----</AM>
+</tag>
 </m>
 <m id="m-vesm9301-023-p4s2w33">
 <src.rf>manual</src.rf>

@@ -19,7 +19,10 @@
 <LM>w#w-ln95047-075-p1s1w1</LM>
 </w.rf>
 <form>Willy</form>
-<tag lemma="Willy_;Y_,t" src="auto" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Willy_;Y_,t" src="auto">NNMS1-----A----</AM>
+<AM lemma="Willy_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95047-075-p1s1w2">
 <src.rf>manual</src.rf>
@@ -287,7 +290,10 @@
 <LM>w#w-ln95047-075-p2s1Bw26</LM>
 </w.rf>
 <form>NATO</form>
-<tag lemma="NATO_:B_;K_^(North_Atlantic_Treaty_Organization)" src="auto" selected="1">NNNXX-----A---8</tag>
+<tag>
+<AM lemma="NATO_:B_;K_^(North_Atlantic_Treaty_Organization)" src="auto">NNNXX-----A---8</AM>
+<AM lemma="NATO_:B_;K_^(North_Atlantic_Treaty_Organization)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95047-075-p2s1Bw27">
 <src.rf>manual</src.rf>
@@ -295,7 +301,10 @@
 <LM>w#w-ln95047-075-p2s1Bw27</LM>
 </w.rf>
 <form>Willy</form>
-<tag lemma="Willy_;Y_,t" src="auto" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Willy_;Y_,t" src="auto">NNMS1-----A----</AM>
+<AM lemma="Willy_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95047-075-p2s1Bw28">
 <src.rf>manual</src.rf>
@@ -467,7 +476,10 @@
 <LM>w#w-ln95047-075-p2s3w8</LM>
 </w.rf>
 <form>Willy</form>
-<tag lemma="Willy_;Y_,t" src="auto" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Willy_;Y_,t" src="auto">NNMS1-----A----</AM>
+<AM lemma="Willy_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95047-075-p2s3w9">
 <src.rf>manual</src.rf>
@@ -645,7 +657,10 @@
 <LM>w#w-ln95047-075-p2s4w4</LM>
 </w.rf>
 <form>La</form>
-<tag lemma="Le-1_,t_^(franc._člen_jako_souč._jmen_a_názvů)" src="orig" selected="1">AAFSX----1A----</tag>
+<tag>
+<AM lemma="Le-1_,t_^(franc._člen_jako_souč._jmen_a_názvů)" src="orig">AAFSX----1A----</AM>
+<AM lemma="La-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln95047-075-p2s4w5">
 <src.rf>manual</src.rf>
@@ -653,7 +668,10 @@
 <LM>w#w-ln95047-075-p2s4w5</LM>
 </w.rf>
 <form>Libre</form>
-<tag lemma="Libre_;R_,t" src="orig" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="Libre_;R_,t" src="orig">NNIS1-----A----</AM>
+<AM lemma="Libre-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln95047-075-p2s4w6">
 <src.rf>manual</src.rf>
@@ -661,7 +679,10 @@
 <LM>w#w-ln95047-075-p2s4w6</LM>
 </w.rf>
 <form>Belgique</form>
-<tag lemma="Belgique_;R_,t" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="Belgique_;R_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="Belgique-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln95047-075-p2s4w7">
 <src.rf>manual</src.rf>
@@ -797,7 +818,10 @@
 <LM>w#w-ln95047-075-p2s4w23</LM>
 </w.rf>
 <form>Franckovi</form>
-<tag lemma="Franck_;S" src="auto" selected="1">NNMS3-----A----</tag>
+<tag>
+<AM lemma="Franck_;S" src="auto">NNMS3-----A----</AM>
+<AM lemma="Franck_;S_;Y" src="manual" selected="1">NNMS3-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95047-075-p2s4w24">
 <src.rf>manual</src.rf>

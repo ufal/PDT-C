@@ -59,7 +59,10 @@
 <LM>w#w-ln95046-063-p1s1w6</LM>
 </w.rf>
 <form>NATO</form>
-<tag lemma="NATO_:B_;K_^(North_Atlantic_Treaty_Organization)" src="auto" selected="1">NNNXX-----A---8</tag>
+<tag>
+<AM lemma="NATO_:B_;K_^(North_Atlantic_Treaty_Organization)" src="auto">NNNXX-----A---8</AM>
+<AM lemma="NATO_:B_;K_^(North_Atlantic_Treaty_Organization)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 </s>
 <s id="m-ln95046-063-p2s1A">
@@ -319,7 +322,10 @@
 <LM>w#w-ln95046-063-p2s1Bw30</LM>
 </w.rf>
 <form>NATO</form>
-<tag lemma="NATO_:B_;K_^(North_Atlantic_Treaty_Organization)" src="auto" selected="1">NNNXX-----A---8</tag>
+<tag>
+<AM lemma="NATO_:B_;K_^(North_Atlantic_Treaty_Organization)" src="auto">NNNXX-----A---8</AM>
+<AM lemma="NATO_:B_;K_^(North_Atlantic_Treaty_Organization)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95046-063-p2s1Bw31">
 <src.rf>manual</src.rf>
@@ -425,7 +431,10 @@
 <LM>w#w-ln95046-063-p2s2w4</LM>
 </w.rf>
 <form>li</form>
-<tag lemma="li-1" src="auto" selected="1">TT-------------</tag>
+<tag>
+<AM lemma="li-1" src="auto">TT-------------</AM>
+<AM lemma="li-2" src="manual" selected="1">J,-------------</AM>
+</tag>
 </m>
 <m id="m-ln95046-063-p2s2w5">
 <src.rf>manual</src.rf>
@@ -481,7 +490,10 @@
 <LM>w#w-ln95046-063-p2s2w11</LM>
 </w.rf>
 <form>atd</form>
-<tag lemma="atd-1_:B_^(a_tak_dále)" src="orig" selected="1">Db------------8</tag>
+<tag>
+<AM lemma="atd-1_:B_^(a_tak_dále)" src="orig">Db------------8</AM>
+<AM lemma="atd-1_:B_^(a_tak_dále)" src="manual" selected="1">Db-------------</AM>
+</tag>
 </m>
 <m id="m-ln95046-063-p2s2w12">
 <src.rf>manual</src.rf>
@@ -505,7 +517,10 @@
 <LM>w#w-ln95046-063-p2s2w14</LM>
 </w.rf>
 <form>přijaty</form>
-<tag lemma="přijmout" src="auto" selected="1">VsTP---XX-AP---</tag>
+<tag>
+<AM lemma="přijmout" src="auto">VsTP---XX-AP---</AM>
+<AM lemma="přijmout_:W" src="manual" selected="1">VsTP---XX-AP---</AM>
+</tag>
 </m>
 <m id="m-ln95046-063-p2s2w15">
 <src.rf>manual</src.rf>
@@ -521,7 +536,10 @@
 <LM>w#w-ln95046-063-p2s2w16</LM>
 </w.rf>
 <form>NATO</form>
-<tag lemma="NATO_:B_;K_^(North_Atlantic_Treaty_Organization)" src="auto" selected="1">NNNXX-----A---8</tag>
+<tag>
+<AM lemma="NATO_:B_;K_^(North_Atlantic_Treaty_Organization)" src="auto">NNNXX-----A---8</AM>
+<AM lemma="NATO_:B_;K_^(North_Atlantic_Treaty_Organization)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95046-063-p2s2w17">
 <src.rf>manual</src.rf>
@@ -785,7 +803,10 @@
 <LM>w#w-ln95046-063-p2s2w49</LM>
 </w.rf>
 <form>řekl</form>
-<tag lemma="říci" src="auto" selected="1">VpYS---XR-AA---</tag>
+<tag>
+<AM lemma="říci" src="auto">VpYS---XR-AA---</AM>
+<AM lemma="říci_:W" src="manual" selected="1">VpYS---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-ln95046-063-p2s2w50">
 <src.rf>manual</src.rf>
@@ -1061,7 +1082,11 @@
 <LM>w#w-ln95046-063-p2s4w12</LM>
 </w.rf>
 <form>Muslimům</form>
-<tag lemma="muslim" src="orig" selected="1">NNMP3-----A----</tag>
+<tag>
+<AM lemma="muslim" src="orig">NNMP3-----A----</AM>
+<AM lemma="_,i_^(^DS**muslim)" src="manual">NNMP3-----A----</AM>
+<AM lemma="Muslim_,i_^(^DS**muslim)" src="manual" selected="1">NNMP3-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95046-063-p2s4w13">
 <src.rf>manual</src.rf>

@@ -93,7 +93,11 @@
 <LM>w#w-mf930709-097-p2s1w5</LM>
 </w.rf>
 <form>RALLYE</form>
-<tag lemma="rallye" src="orig" selected="1">NNFXX-----A----</tag>
+<tag>
+<AM lemma="rallye" src="orig">NNFXX-----A----</AM>
+<AM lemma="RALLYE-77" src="manual">F%-------------</AM>
+<AM lemma="Rallye-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-mf930709-097-p2s1w6">
 <src.rf>manual</src.rf>
@@ -101,7 +105,11 @@
 <LM>w#w-mf930709-097-p2s1w6</LM>
 </w.rf>
 <form>BOHEMIA</form>
-<tag lemma="Bohemia_;K" src="orig" selected="1">NNFXX-----A----</tag>
+<tag>
+<AM lemma="Bohemia_;K" src="orig">NNFXX-----A----</AM>
+<AM lemma="BOHEMIA-77" src="manual">F%-------------</AM>
+<AM lemma="Bohemia-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 </s>
 <s id="m-mf930709-097-p2s2A">
@@ -140,6 +148,7 @@
 <tag>
 <AM lemma="vit-99_:B_;S" src="orig">NNXXX-----A---8</AM>
 <AM lemma="vít" src="auto" recommended="1">VsYS---XX-AP---</AM>
+<AM lemma="vit-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930709-097-p2s2Aw5">
@@ -198,7 +207,10 @@
 <LM>w#w-mf930709-097-p2s2Bw5</LM>
 </w.rf>
 <form>Rallye</form>
-<tag lemma="rallye" src="orig" selected="1">NNFXX-----A----</tag>
+<tag>
+<AM lemma="rallye" src="orig">NNFXX-----A----</AM>
+<AM lemma="Rallye-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-mf930709-097-p2s2Bw6">
 <src.rf>manual</src.rf>
@@ -206,7 +218,10 @@
 <LM>w#w-mf930709-097-p2s2Bw6</LM>
 </w.rf>
 <form>Bohemia</form>
-<tag lemma="Bohemia_;K" src="orig" selected="1">NNFXX-----A----</tag>
+<tag>
+<AM lemma="Bohemia_;K" src="orig">NNFXX-----A----</AM>
+<AM lemma="Bohemia-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-mf930709-097-p2s2Bw7">
 <src.rf>manual</src.rf>
@@ -342,7 +357,10 @@
 <LM>w#w-mf930709-097-p2s2Bw23</LM>
 </w.rf>
 <form>h</form>
-<tag lemma="hodina_:B" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="hodina_:B" src="orig">NNFXX-----A---8</AM>
+<AM lemma="hodina" src="manual" selected="1">NNFXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-mf930709-097-p2s2Bw24">
 <src.rf>manual</src.rf>
@@ -586,7 +604,10 @@
 <LM>w#w-mf930709-097-p2s4w10</LM>
 </w.rf>
 <form>Barum</form>
-<tag lemma="Barum_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="Barum_;K" src="orig">NNIS1-----A----</AM>
+<AM lemma="Barum-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-mf930709-097-p2s4w11">
 <src.rf>manual</src.rf>
@@ -594,7 +615,10 @@
 <LM>w#w-mf930709-097-p2s4w11</LM>
 </w.rf>
 <form>rallye</form>
-<tag lemma="rallye" src="orig" selected="1">NNFXX-----A----</tag>
+<tag>
+<AM lemma="rallye" src="orig">NNFXX-----A----</AM>
+<AM lemma="rallye-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-mf930709-097-p2s4w12">
 <src.rf>manual</src.rf>
@@ -662,7 +686,7 @@
 <form>totiž</form>
 <tag>
 <AM lemma="totiž" src="orig">Db-------------</AM>
-<AM lemma="totiž-1" src="auto" recommended="1">J^-------------</AM>
+<AM lemma="totiž-1" src="auto" recommended="1" selected="1">J^-------------</AM>
 <AM lemma="totiž-2" src="auto">TT-------------</AM>
 </tag>
 </m>
@@ -712,7 +736,10 @@
 <LM>w#w-mf930709-097-p2s5w8</LM>
 </w.rf>
 <form>Deutschland</form>
-<tag lemma="Deutschland_;G_,t" src="orig" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="Deutschland_;G_,t" src="orig">NNIS1-----A----</AM>
+<AM lemma="Deutschland-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-mf930709-097-p2s5w9">
 <src.rf>manual</src.rf>
@@ -720,7 +747,10 @@
 <LM>w#w-mf930709-097-p2s5w9</LM>
 </w.rf>
 <form>rallye</form>
-<tag lemma="rallye" src="orig" selected="1">NNFXX-----A----</tag>
+<tag>
+<AM lemma="rallye" src="orig">NNFXX-----A----</AM>
+<AM lemma="rallye-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-mf930709-097-p2s5w10">
 <src.rf>manual</src.rf>
@@ -773,7 +803,7 @@
 <tag>
 <AM lemma="tedy" src="orig">Db-------------</AM>
 <AM lemma="tedy-1" src="auto">TT-------------</AM>
-<AM lemma="tedy-2" src="auto" recommended="1">J^-------------</AM>
+<AM lemma="tedy-2" src="auto" recommended="1" selected="1">J^-------------</AM>
 </tag>
 </m>
 <m id="m-mf930709-097-p2s6w6">
@@ -814,7 +844,10 @@
 <LM>w#w-mf930709-097-p2s6w10</LM>
 </w.rf>
 <form>ČR</form>
-<tag lemma="ČR-1_:B_;G_^(Česká_republika)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930709-097-p2s6w11">
 <src.rf>manual</src.rf>
@@ -1000,7 +1033,10 @@
 <LM>w#w-mf930709-097-p2s7w15</LM>
 </w.rf>
 <form>atd</form>
-<tag lemma="atd-1_:B_^(a_tak_dále)" src="orig" selected="1">Db------------8</tag>
+<tag>
+<AM lemma="atd-1_:B_^(a_tak_dále)" src="orig">Db------------8</AM>
+<AM lemma="atd-1_:B_^(a_tak_dále)" src="manual" selected="1">Db-------------</AM>
+</tag>
 </m>
 <m id="m-mf930709-097-p2s7w16">
 <src.rf>manual</src.rf>
@@ -1140,7 +1176,10 @@
 <LM>w#w-mf930709-097-p2s9w6</LM>
 </w.rf>
 <form>Motorsportu</form>
-<tag lemma="motorsport_;K" src="orig" selected="1">NNIS2-----A----</tag>
+<tag>
+<AM lemma="motorsport_;K" src="orig">NNIS2-----A----</AM>
+<AM lemma="Motorsport_;K" src="manual" selected="1">NNIS2-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930709-097-p2s9w7">
 <src.rf>manual</src.rf>
@@ -1342,7 +1381,10 @@
 <LM>w#w-mf930709-097-p2s10w2</LM>
 </w.rf>
 <form>Rallye</form>
-<tag lemma="rallye" src="orig" selected="1">NNFXX-----A----</tag>
+<tag>
+<AM lemma="rallye" src="orig">NNFXX-----A----</AM>
+<AM lemma="Rallye-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-mf930709-097-p2s10w3">
 <src.rf>manual</src.rf>
@@ -1350,7 +1392,10 @@
 <LM>w#w-mf930709-097-p2s10w3</LM>
 </w.rf>
 <form>Bohemia</form>
-<tag lemma="Bohemia_;K" src="orig" selected="1">NNFXX-----A----</tag>
+<tag>
+<AM lemma="Bohemia_;K" src="orig">NNFXX-----A----</AM>
+<AM lemma="Bohemia-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-mf930709-097-p2s10w4">
 <src.rf>manual</src.rf>
@@ -1417,6 +1462,8 @@
 <tag>
 <AM lemma="BMW-2_:B_;R_^(vozidlo)" src="orig">NNNXX-----A---8</AM>
 <AM lemma="BMW_:B_;K_;R_^(vozidlo)" src="auto" recommended="1">NNNXX-----A----</AM>
+<AM lemma="BMW_:B_;K_;R_^(vozidlo)" src="manual">NNNXX-----A---8</AM>
+<AM lemma="BMW_:B_;K_;R_^(vozidlo)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930709-097-p2s10w12">
@@ -1425,7 +1472,10 @@
 <LM>w#w-mf930709-097-p2s10w12</LM>
 </w.rf>
 <form>M</form>
-<tag lemma="m-3_^(označení_pomocí_písmene)" src="orig" selected="1">NNNXX-----A----</tag>
+<tag>
+<AM lemma="m-3_^(označení_pomocí_písmene)" src="orig">NNNXX-----A----</AM>
+<AM lemma="M-33_^(označení_pomocí_písmene)" src="manual" selected="1">NNNXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930709-097-p2s10w13">
 <src.rf>manual</src.rf>
@@ -1475,7 +1525,7 @@
 <form>Subaru</form>
 <tag>
 <AM lemma="Subaru-2_;R_^(vozidlo)" src="orig">NNNXX-----A----</AM>
-<AM lemma="Subaru-1_;K_;R" src="auto">NNXXX-----A----</AM>
+<AM lemma="Subaru-1_;K_;R" src="auto" selected="1">NNXXX-----A----</AM>
 <AM lemma="Subaru-3_;S" src="auto" recommended="1">NNMXX-----A----</AM>
 <AM lemma="subaru_;R_^(vozidlo)" src="auto">NNXXX-----A----</AM>
 </tag>
@@ -1502,7 +1552,10 @@
 <LM>w#w-mf930709-097-p2s10w21</LM>
 </w.rf>
 <form>van</form>
-<tag lemma="van-2_,t_^(v_hol._jménech)" src="orig" selected="1">RR--X----------</tag>
+<tag>
+<AM lemma="van-2_,t_^(v_hol._jménech)" src="orig">RR--X----------</AM>
+<AM lemma="van-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-mf930709-097-p2s10w22">
 <src.rf>manual</src.rf>
@@ -1545,7 +1598,7 @@
 <form>Cosworth</form>
 <tag>
 <AM lemma="Cosworth_;R" src="orig">NNIXX-----A----</AM>
-<AM lemma="Cosworth_;R" src="auto" recommended="1">NNIS1-----A----</AM>
+<AM lemma="Cosworth_;R" src="auto" recommended="1" selected="1">NNIS1-----A----</AM>
 <AM lemma="Cosworth_;R" src="auto">NNIS4-----A----</AM>
 </tag>
 </m>
@@ -1713,7 +1766,10 @@
 <LM>w#w-mf930709-097-p2s13w1</LM>
 </w.rf>
 <form>Rallye</form>
-<tag lemma="rallye" src="orig" selected="1">NNFXX-----A----</tag>
+<tag>
+<AM lemma="rallye" src="orig">NNFXX-----A----</AM>
+<AM lemma="Rallye-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-mf930709-097-p2s13w2">
 <src.rf>manual</src.rf>
@@ -1721,7 +1777,10 @@
 <LM>w#w-mf930709-097-p2s13w2</LM>
 </w.rf>
 <form>Bohemia</form>
-<tag lemma="Bohemia_;K" src="orig" selected="1">NNFXX-----A----</tag>
+<tag>
+<AM lemma="Bohemia_;K" src="orig">NNFXX-----A----</AM>
+<AM lemma="Bohemia-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-mf930709-097-p2s13w3">
 <src.rf>manual</src.rf>
@@ -1753,7 +1812,10 @@
 <LM>w#w-mf930709-097-p2s13w6</LM>
 </w.rf>
 <form>km</form>
-<tag lemma="km-1`kilometr_:B" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="km-1`kilometr_:B" src="orig">NNIXX-----A---8</AM>
+<AM lemma="kilometr" src="manual" selected="1">NNIXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-mf930709-097-p2s13w7">
 <src.rf>manual</src.rf>
@@ -1817,7 +1879,10 @@
 <LM>w#w-mf930709-097-p2s13w14</LM>
 </w.rf>
 <form>km</form>
-<tag lemma="km-1`kilometr_:B" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="km-1`kilometr_:B" src="orig">NNIXX-----A---8</AM>
+<AM lemma="kilometr" src="manual" selected="1">NNIXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-mf930709-097-p2s13w15">
 <src.rf>manual</src.rf>
@@ -2011,7 +2076,10 @@
 <LM>w#w-mf930709-097-p2s14w14</LM>
 </w.rf>
 <form>h</form>
-<tag lemma="hodina_:B" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="hodina_:B" src="orig">NNFXX-----A---8</AM>
+<AM lemma="hodina" src="manual" selected="1">NNFXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-mf930709-097-p2s14w15">
 <src.rf>manual</src.rf>

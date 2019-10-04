@@ -19,7 +19,10 @@
 <LM>w#w-mf930709-050-p1s1w1</LM>
 </w.rf>
 <form>Šemíkův</form>
-<tag lemma="Šemíkův_;S_^(*2)" src="auto" selected="1">AUIS1M---------</tag>
+<tag>
+<AM lemma="Šemíkův_;S_^(*2)" src="auto">AUIS1M---------</AM>
+<AM lemma="Šemíkův_;S_;Y_^(*2)" src="manual" selected="1">AUIS1M---------</AM>
+</tag>
 </m>
 <m id="m-mf930709-050-p1s1w2">
 <src.rf>manual</src.rf>
@@ -61,7 +64,10 @@
 <LM>w#w-mf930709-050-p2s1w3</LM>
 </w.rf>
 <form>Šemík</form>
-<tag lemma="Šemík_;S" src="auto" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Šemík_;S" src="auto">NNMS1-----A----</AM>
+<AM lemma="Šemík_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930709-050-p2s1w4">
 <src.rf>manual</src.rf>
@@ -85,7 +91,10 @@
 <LM>w#w-mf930709-050-p2s1w6</LM>
 </w.rf>
 <form>Vyšehrad</form>
-<tag lemma="Vyšehrad" src="auto" selected="1">NNIS4-----A----</tag>
+<tag>
+<AM lemma="Vyšehrad" src="auto">NNIS4-----A----</AM>
+<AM lemma="Vyšehrad_;G" src="manual" selected="1">NNIS4-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930709-050-p2s1w7">
 <src.rf>manual</src.rf>
@@ -127,7 +136,10 @@
 <LM>w#w-mf930709-050-p3s2Aw3</LM>
 </w.rf>
 <form>md</form>
-<tag lemma="md-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="md-99_:B_;S" src="orig">NNXXX-----A---8</AM>
+<AM lemma="md-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930709-050-p3s2Aw4">
 <src.rf>manual</src.rf>
@@ -143,7 +155,10 @@
 <LM>w#w-mf930709-050-p3s2Aw5</LM>
 </w.rf>
 <form>spa</form>
-<tag lemma="spa-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="spa-99_:B_;S" src="orig">NNXXX-----A---8</AM>
+<AM lemma="spa-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930709-050-p3s2Aw6">
 <src.rf>manual</src.rf>
@@ -241,7 +256,10 @@
 <LM>w#w-mf930709-050-p3s2Bw10</LM>
 </w.rf>
 <form>Vyšehrad</form>
-<tag lemma="Vyšehrad" src="auto" selected="1">NNIS4-----A----</tag>
+<tag>
+<AM lemma="Vyšehrad" src="auto">NNIS4-----A----</AM>
+<AM lemma="Vyšehrad_;G" src="manual" selected="1">NNIS4-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930709-050-p3s2Bw11">
 <src.rf>manual</src.rf>
@@ -265,7 +283,10 @@
 <LM>w#w-mf930709-050-p3s2Bw13</LM>
 </w.rf>
 <form>Šemík</form>
-<tag lemma="Šemík_;S" src="auto" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Šemík_;S" src="auto">NNMS1-----A----</AM>
+<AM lemma="Šemík_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930709-050-p3s2Bw14">
 <src.rf>manual</src.rf>
@@ -421,7 +442,10 @@
 <LM>w#w-mf930709-050-p3s4w4</LM>
 </w.rf>
 <form>prostřednictvím</form>
-<tag lemma="prostřednictví" src="orig" selected="1">NNNS7-----A----</tag>
+<tag>
+<AM lemma="prostřednictví" src="orig">NNNS7-----A----</AM>
+<AM lemma="prostřednictvím" src="manual" selected="1">RR--2----------</AM>
+</tag>
 </m>
 <m id="m-mf930709-050-p3s4w5">
 <src.rf>manual</src.rf>
@@ -743,7 +767,10 @@
 <LM>w#w-mf930709-050-p3s5w24</LM>
 </w.rf>
 <form>fenomén</form>
-<tag lemma="fenomén" src="auto" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="fenomén" src="auto">NNMS1-----A----</AM>
+<AM lemma="fenomén-1" src="manual" selected="1">NNIS4-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930709-050-p3s5w25">
 <src.rf>manual</src.rf>
@@ -827,7 +854,7 @@
 <form>Nejen</form>
 <tag>
 <AM lemma="nejen" src="orig">TT-------------</AM>
-<AM lemma="nejen" src="auto" recommended="1">Db-------------</AM>
+<AM lemma="nejen" src="auto" recommended="1" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m-mf930709-050-p3s6w2">
@@ -988,7 +1015,10 @@
 <LM>w#w-mf930709-050-p3s6w21</LM>
 </w.rf>
 <form>Vyšehrad</form>
-<tag lemma="Vyšehrad" src="auto" selected="1">NNIS4-----A----</tag>
+<tag>
+<AM lemma="Vyšehrad" src="auto">NNIS4-----A----</AM>
+<AM lemma="Vyšehrad_;G" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930709-050-p3s6w22">
 <src.rf>manual</src.rf>
@@ -1134,7 +1164,7 @@
 <form>přesto</form>
 <tag>
 <AM lemma="přesto" src="orig">Dg-------1A----</AM>
-<AM lemma="přesto-1" src="auto">Db-------------</AM>
+<AM lemma="přesto-1" src="auto" selected="1">Db-------------</AM>
 <AM lemma="přesto-2" src="auto" recommended="1">J^-------------</AM>
 </tag>
 </m>

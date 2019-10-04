@@ -241,7 +241,10 @@
 <LM>w#w-ln95041-025-p2s2w4</LM>
 </w.rf>
 <form>Dannyho</form>
-<tag lemma="Danny_;Y_,t" src="auto" selected="1">NNMS2-----A----</tag>
+<tag>
+<AM lemma="Danny_;Y_,t" src="auto">NNMS2-----A----</AM>
+<AM lemma="Danny_;Y" src="manual" selected="1">NNMS2-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95041-025-p2s2w5">
 <src.rf>manual</src.rf>

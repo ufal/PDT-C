@@ -258,7 +258,10 @@
 <LM>w#w-ln95044-127-p2s1Cw13</LM>
 </w.rf>
 <form>uvedl</form>
-<tag lemma="uvést" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag>
+<AM lemma="uvést" src="orig">VpYS---XR-AA---</AM>
+<AM lemma="uvést_:W" src="manual" selected="1">VpYS---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-ln95044-127-p2s1Cw14">
 <src.rf>manual</src.rf>
@@ -348,7 +351,10 @@
 <LM>w#w-ln95044-127-p2s2w4</LM>
 </w.rf>
 <form>management</form>
-<tag lemma="management_,t_^(vedení,_manažment;_angl.)" src="orig" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="management_,t_^(vedení,_manažment;_angl.)" src="orig">NNIS1-----A----</AM>
+<AM lemma="management" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95044-127-p2s2w5">
 <src.rf>manual</src.rf>
@@ -518,7 +524,10 @@
 <LM>w#w-ln95044-127-p2s3w16</LM>
 </w.rf>
 <form>přineslo</form>
-<tag lemma="přinést" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag>
+<AM lemma="přinést" src="orig">VpNS---XR-AA---</AM>
+<AM lemma="přinést_:W" src="manual" selected="1">VpNS---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-ln95044-127-p2s3w17">
 <src.rf>manual</src.rf>
@@ -578,7 +587,7 @@
 <form>nejen</form>
 <tag>
 <AM lemma="nejen" src="orig">TT-------------</AM>
-<AM lemma="nejen" src="auto" recommended="1">Db-------------</AM>
+<AM lemma="nejen" src="auto" recommended="1" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m-ln95044-127-p2s4w5">
@@ -995,7 +1004,10 @@
 <LM>w#w-ln95044-127-p3s4w11</LM>
 </w.rf>
 <form>chce</form>
-<tag lemma="chtít" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag>
+<AM lemma="chtít" src="orig">VB-S---3P-AA---</AM>
+<AM lemma="chtít_:T" src="manual" selected="1">VB-S---3P-AA---</AM>
+</tag>
 </m>
 <m id="m-ln95044-127-p3s4w12">
 <src.rf>manual</src.rf>
@@ -1003,7 +1015,10 @@
 <LM>w#w-ln95044-127-p3s4w12</LM>
 </w.rf>
 <form>mít</form>
-<tag lemma="mít" src="orig" selected="1">Vf--------A----</tag>
+<tag>
+<AM lemma="mít" src="orig">Vf--------A----</AM>
+<AM lemma="mít_:T" src="manual" selected="1">Vf--------A----</AM>
+</tag>
 </m>
 <m id="m-ln95044-127-p3s4w13">
 <src.rf>manual</src.rf>
@@ -1077,7 +1092,10 @@
 <LM>w#w-ln95044-127-p4s1w4</LM>
 </w.rf>
 <form>V</form>
-<tag lemma="V-0_:B_;Y" src="orig" selected="1">NNMXX-----A---8</tag>
+<tag>
+<AM lemma="V-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
+<AM lemma="V-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95044-127-p4s1w5">
 <src.rf>manual</src.rf>
@@ -1427,7 +1445,10 @@
 <LM>w#w-ln95044-127-p5s1w12</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-2" src="auto" selected="1">Dg-------2A----</tag>
+<tag>
+<AM lemma="hodně-2" src="auto">Dg-------2A----</AM>
+<AM lemma="hodně-3" src="manual" selected="1">Dg-------2A----</AM>
+</tag>
 </m>
 <m id="m-ln95044-127-p5s1w13">
 <src.rf>manual</src.rf>
@@ -1504,6 +1525,7 @@
 <tag>
 <AM lemma="KP-1_:B_;K_^(Karlovarský_Porcelán)" src="orig">NNIXX-----A---8</AM>
 <AM lemma="KP_:B_;K" src="auto" recommended="1">NNXXX-----A---8</AM>
+<AM lemma="KP-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95044-127-p5s2w5">
@@ -1562,9 +1584,10 @@
 <form>Plus</form>
 <tag>
 <AM lemma="Plus-3_;K" src="orig">NNXXX-----A----</AM>
-<AM lemma="plus-1_^(znaménko_plus;_vyjádření_kladné_vlastnosti)" src="auto" recommended="1">NNIS1-----A----</AM>
+<AM lemma="plus-1_^(znaménko_plus;_vyjádření_kladné_vlastnosti)" src="auto" recommended="1" selected="1">NNIS1-----A----</AM>
 <AM lemma="plus-1_^(znaménko_plus;_vyjádření_kladné_vlastnosti)" src="auto">NNIS4-----A----</AM>
 <AM lemma="plus-2_^(mat._operace;_1_plus_1,_též_plus_dva_stupně)" src="auto">J*-------------</AM>
+<AM lemma="plus-3_,t" src="manual">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95044-127-p5s2w12">
@@ -1581,7 +1604,10 @@
 <LM>w#w-ln95044-127-p5s2w13</LM>
 </w.rf>
 <form>s</form>
-<tag lemma="společnost_:B" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="společnost_:B" src="orig">NNFXX-----A---8</AM>
+<AM lemma="společnost" src="manual" selected="1">NNFXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln95044-127-p5s2w14">
 <src.rf>manual</src.rf>
@@ -1597,7 +1623,11 @@
 <LM>w#w-ln95044-127-p5s2w15</LM>
 </w.rf>
 <form>r</form>
-<tag lemma="ručení_:B" src="orig" selected="1">NNNS7-----A---8</tag>
+<tag>
+<AM lemma="ručení_:B" src="orig">NNNS7-----A---8</AM>
+<AM lemma="režie" src="manual">NNFXX-----A---8</AM>
+<AM lemma="ručení" src="manual" selected="1">NNNS7-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln95044-127-p5s2w16">
 <src.rf>manual</src.rf>
@@ -1613,7 +1643,10 @@
 <LM>w#w-ln95044-127-p5s2w17</LM>
 </w.rf>
 <form>o</form>
-<tag lemma="omezený_:B" src="orig" selected="1">AANS7----1A---8</tag>
+<tag>
+<AM lemma="omezený_:B" src="orig">AANS7----1A---8</AM>
+<AM lemma="omezený" src="manual" selected="1">AANS7----1A---8</AM>
+</tag>
 </m>
 <m id="m-ln95044-127-p5s2w18">
 <src.rf>manual</src.rf>
@@ -1680,6 +1713,7 @@
 <tag>
 <AM lemma="KP-1_:B_;K_^(Karlovarský_Porcelán)" src="orig">NNIXX-----A---8</AM>
 <AM lemma="KP_:B_;K" src="auto" recommended="1">NNXXX-----A---8</AM>
+<AM lemma="KP-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95044-127-p5s2w26">
@@ -1722,7 +1756,10 @@
 <LM>w#w-ln95044-127-p5s3w4</LM>
 </w.rf>
 <form>vyveze</form>
-<tag lemma="vyvézt" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag>
+<AM lemma="vyvézt" src="orig">VB-S---3P-AA---</AM>
+<AM lemma="vyvézt_:W" src="manual" selected="1">VB-S---3P-AA---</AM>
+</tag>
 </m>
 <m id="m-ln95044-127-p5s3w5">
 <src.rf>manual</src.rf>
@@ -1818,7 +1855,10 @@
 <LM>w#w-ln95044-127-p5s3w16</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-2" src="auto" selected="1">Dg-------2A----</tag>
+<tag>
+<AM lemma="hodně-2" src="auto">Dg-------2A----</AM>
+<AM lemma="hodně-3" src="manual" selected="1">Dg-------2A----</AM>
+</tag>
 </m>
 <m id="m-ln95044-127-p5s3w17">
 <src.rf>manual</src.rf>
@@ -2145,6 +2185,7 @@
 <tag>
 <AM lemma="KP-1_:B_;K_^(Karlovarský_Porcelán)" src="orig">NNIXX-----A---8</AM>
 <AM lemma="KP_:B_;K" src="auto" recommended="1">NNXXX-----A---8</AM>
+<AM lemma="KP-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95044-127-p6s2w14">
@@ -2170,7 +2211,7 @@
 </w.rf>
 <form>Roli</form>
 <tag>
-<AM lemma="Role_;G" src="orig">NNFS6-----A----</AM>
+<AM lemma="Role_;G" src="orig" selected="1">NNFS6-----A----</AM>
 <AM lemma="role-1_^(kotouč;_svitek)" src="auto">NNFS3-----A----</AM>
 <AM lemma="role-1_^(kotouč;_svitek)" src="auto">NNFS4-----A----</AM>
 <AM lemma="role-1_^(kotouč;_svitek)" src="auto">NNFS6-----A----</AM>

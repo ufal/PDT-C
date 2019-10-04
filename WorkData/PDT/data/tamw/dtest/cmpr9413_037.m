@@ -35,7 +35,10 @@
 <LM>w#w-cmpr9413-037-p2s1w3</LM>
 </w.rf>
 <form>č</form>
-<tag lemma="číslo_:B" src="orig" selected="1">NNNXX-----A---8</tag>
+<tag>
+<AM lemma="číslo_:B" src="orig">NNNXX-----A---8</AM>
+<AM lemma="číslo" src="manual" selected="1">NNNXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-cmpr9413-037-p2s1w4">
 <src.rf>manual</src.rf>
@@ -102,6 +105,11 @@
 <AM lemma="gram" src="auto">NNIP5-----A----</AM>
 <AM lemma="gram" src="auto" recommended="1">NNIP7-----A----</AM>
 </tag>
+<comment>
+<LM type="New Form">
+<text>Grammy</text>
+</LM>
+</comment>
 </m>
 <m id="m-cmpr9413-037-p3s1Aw6">
 <src.rf>manual</src.rf>
@@ -125,7 +133,10 @@
 <LM>w#w-cmpr9413-037-p3s1Aw8</LM>
 </w.rf>
 <form>Yo</form>
-<tag lemma="Yo_;K" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="Yo_;K" src="orig">AAXXX----1A----</AM>
+<AM lemma="Yo-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-cmpr9413-037-p3s1Aw9">
 <src.rf>manual</src.rf>
@@ -133,7 +144,10 @@
 <LM>w#w-cmpr9413-037-p3s1Aw9</LM>
 </w.rf>
 <form>Yo</form>
-<tag lemma="Yo_;K" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="Yo_;K" src="orig">AAXXX----1A----</AM>
+<AM lemma="Yo-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-cmpr9413-037-p3s1Aw10">
 <src.rf>manual</src.rf>
@@ -141,7 +155,10 @@
 <LM>w#w-cmpr9413-037-p3s1Aw10</LM>
 </w.rf>
 <form>Band</form>
-<tag lemma="band" src="orig" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="band" src="orig">NNIS1-----A----</AM>
+<AM lemma="Band-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-cmpr9413-037-p3s1Aw11">
 <src.rf>manual</src.rf>
@@ -901,7 +918,10 @@
 <LM>w#w-cmpr9413-037-p3s6w5</LM>
 </w.rf>
 <form>CAUSA</form>
-<tag lemma="kauza_,x" src="orig" selected="1">NNFS1-----A----</tag>
+<tag>
+<AM lemma="kauza_,x" src="orig">NNFS1-----A----</AM>
+<AM lemma="causa_,s_^(^DD**kauza)" src="manual" selected="1">NNFS1-----A----</AM>
+</tag>
 </m>
 <m id="m-cmpr9413-037-p3s6w6">
 <src.rf>manual</src.rf>

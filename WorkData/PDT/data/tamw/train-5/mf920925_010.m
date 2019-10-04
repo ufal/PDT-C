@@ -87,6 +87,7 @@
 <AM lemma="International-2_;K_,t" src="orig">NNXXX-----A---1</AM>
 <AM lemma="International_,t" src="auto">NNISX-----A----</AM>
 <AM lemma="international_,t" src="auto" recommended="1">AAXXX----1A----</AM>
+<AM lemma="International-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-mf920925-010-p1s1w10">
@@ -95,7 +96,11 @@
 <LM>w#w-mf920925-010-p1s1w10</LM>
 </w.rf>
 <form>Herald</form>
-<tag lemma="Herald_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Herald_;S" src="orig">NNMS1-----A----</AM>
+<AM lemma="herald_,t" src="manual">NNXXX-----A----</AM>
+<AM lemma="Herald-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-mf920925-010-p1s1w11">
 <src.rf>manual</src.rf>
@@ -107,6 +112,8 @@
 <AM lemma="Tribune_;R_,t" src="orig">NNFXX-----A----</AM>
 <AM lemma="Tribune_;K_,t" src="auto" recommended="1">NNFSX-----A----</AM>
 <AM lemma="tribun" src="auto">NNMS5-----A----</AM>
+<AM lemma="tribune_,t" src="manual">NNXXX-----A----</AM>
+<AM lemma="Tribune-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-mf920925-010-p1s1w12">
@@ -199,7 +206,7 @@
 <form>přesto</form>
 <tag>
 <AM lemma="přesto" src="orig">Dg-------1A----</AM>
-<AM lemma="přesto-1" src="auto" recommended="1">Db-------------</AM>
+<AM lemma="přesto-1" src="auto" recommended="1" selected="1">Db-------------</AM>
 <AM lemma="přesto-2" src="auto">J^-------------</AM>
 </tag>
 </m>
@@ -227,7 +234,7 @@
 <form>snad</form>
 <tag>
 <AM lemma="snad" src="orig">Db-------------</AM>
-<AM lemma="snad" src="auto" recommended="1">TT-------------</AM>
+<AM lemma="snad" src="auto" recommended="1" selected="1">TT-------------</AM>
 </tag>
 </m>
 <m id="m-mf920925-010-p1s2w14">
@@ -292,7 +299,10 @@
 <LM>w#w-mf920925-010-p1s2w21</LM>
 </w.rf>
 <form>Giuliano</form>
-<tag lemma="Giuliano_;Y_,t" src="auto" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Giuliano_;Y_,t" src="auto">NNMS1-----A----</AM>
+<AM lemma="Giuliano_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920925-010-p1s2w22">
 <src.rf>manual</src.rf>

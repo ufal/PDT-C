@@ -125,6 +125,9 @@
 <AM lemma="u-1" src="auto">RR--2----------</AM>
 <AM lemma="u-3_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
 <AM lemma="u-8_:B_^(ost._zkratka)" src="auto">XX------------8</AM>
+<AM lemma="united_:B_,t" src="manual">AAXXX----1A---8</AM>
+<AM lemma="U-77" src="manual">F%-------------</AM>
+<AM lemma="U-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94202-120-p1s1Aw13">

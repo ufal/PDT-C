@@ -101,7 +101,10 @@
 <LM>w#w-ln94205-66-p2s1w10</LM>
 </w.rf>
 <form>č</form>
-<tag lemma="číslo_:B" src="orig" selected="1">NNNXX-----A---8</tag>
+<tag>
+<AM lemma="číslo_:B" src="orig">NNNXX-----A---8</AM>
+<AM lemma="číslo" src="manual" selected="1">NNNXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln94205-66-p2s1w11">
 <src.rf>manual</src.rf>
@@ -181,7 +184,10 @@
 <LM>w#w-ln94205-66-p2s1w20</LM>
 </w.rf>
 <form>hod</form>
-<tag lemma="hodina_:B" src="auto" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="hodina_:B" src="auto">NNFXX-----A---8</AM>
+<AM lemma="hodina" src="manual" selected="1">NNFXX-----A---9</AM>
+</tag>
 </m>
 <m id="m-ln94205-66-p2s1w21">
 <src.rf>manual</src.rf>
@@ -213,7 +219,10 @@
 <LM>w#w-ln94205-66-p2s1w24</LM>
 </w.rf>
 <form>ul</form>
-<tag lemma="ulice_:B" src="auto" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ulice_:B" src="auto">NNFXX-----A---8</AM>
+<AM lemma="ulice" src="manual" selected="1">NNFXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln94205-66-p2s1w25">
 <src.rf>manual</src.rf>
@@ -327,7 +336,10 @@
 <LM>w#w-ln94205-66-p2s2w8</LM>
 </w.rf>
 <form>tel</form>
-<tag lemma="telefonní_:B" src="orig" selected="1">AAXXX----1A---8</tag>
+<tag>
+<AM lemma="telefonní_:B" src="orig">AAXXX----1A---8</AM>
+<AM lemma="telefonní" src="manual" selected="1">AAXXX----1A---8</AM>
+</tag>
 </m>
 <m id="m-ln94205-66-p2s2w9">
 <src.rf>manual</src.rf>
@@ -343,7 +355,10 @@
 <LM>w#w-ln94205-66-p2s2w10</LM>
 </w.rf>
 <form>č</form>
-<tag lemma="číslo_:B" src="orig" selected="1">NNNXX-----A---8</tag>
+<tag>
+<AM lemma="číslo_:B" src="orig">NNNXX-----A---8</AM>
+<AM lemma="číslo" src="manual" selected="1">NNNXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln94205-66-p2s2w11">
 <src.rf>manual</src.rf>

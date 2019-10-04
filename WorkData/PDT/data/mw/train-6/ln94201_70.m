@@ -117,7 +117,10 @@
 <LM>w#w-ln94201-70-p2s1w10</LM>
 </w.rf>
 <form>Švéd</form>
-<tag lemma="Švéd_;E" src="orig" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Švéd_;E" src="orig">NNMS1-----A----</AM>
+<AM lemma="Švéd_;E_;S" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94201-70-p2s1w11">
 <src.rf>manual</src.rf>
@@ -181,7 +184,10 @@
 <LM>w#w-ln94201-70-p2s1w18</LM>
 </w.rf>
 <form>IFK</form>
-<tag lemma="IFK_:B_;K_;w_^(švédký_sport._klub)" src="orig" selected="1">NNNXX-----A---8</tag>
+<tag>
+<AM lemma="IFK_:B_;K_;w_^(švédký_sport._klub)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="IFK-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln94201-70-p2s1w19">
 <src.rf>manual</src.rf>
@@ -402,7 +408,7 @@
 <tag>
 <AM lemma="Viktorka_;K" src="orig">NNFS1-----A----</AM>
 <AM lemma="Viktorka-1_;Y_^(ženské_jméno)" src="auto" recommended="1">NNFS1-----A----</AM>
-<AM lemma="Viktorka-2_;K_,l_^(jméno_sport.klubu)" src="auto">NNFS1-----A----</AM>
+<AM lemma="Viktorka-2_;K_,l_^(jméno_sport.klubu)" src="auto" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94201-70-p2s2w2">
@@ -438,7 +444,7 @@
 <tag>
 <AM lemma="Viktorka_;K" src="orig">NNFS1-----A----</AM>
 <AM lemma="Viktorka-1_;Y_^(ženské_jméno)" src="auto" recommended="1">NNFS1-----A----</AM>
-<AM lemma="Viktorka-2_;K_,l_^(jméno_sport.klubu)" src="auto">NNFS1-----A----</AM>
+<AM lemma="Viktorka-2_;K_,l_^(jméno_sport.klubu)" src="auto" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94201-70-p2s2w6">
@@ -949,7 +955,10 @@
 <LM>w#w-ln94201-70-p3s2w20</LM>
 </w.rf>
 <form>PVP</form>
-<tag lemma="PVP-2_:B_;m_^(Pohár_výherců_pohárů)" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="PVP-2_:B_;m_^(Pohár_výherců_pohárů)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="PVP-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln94201-70-p3s2w21">
 <src.rf>manual</src.rf>
@@ -1193,7 +1202,10 @@
 <LM>w#w-ln94201-70-p4s2w12</LM>
 </w.rf>
 <form>non</form>
-<tag lemma="non_,t" src="orig" selected="1">TT-------------</tag>
+<tag>
+<AM lemma="non_,t" src="orig">TT-------------</AM>
+<AM lemma="non-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94201-70-p4s2w13">
 <src.rf>manual</src.rf>
@@ -1206,6 +1218,7 @@
 <AM lemma="plus-1_^(znaménko_plus;_vyjádření_kladné_vlastnosti)" src="auto">NNIS1-----A----</AM>
 <AM lemma="plus-1_^(znaménko_plus;_vyjádření_kladné_vlastnosti)" src="auto">NNIS4-----A----</AM>
 <AM lemma="plus-2_^(mat._operace;_1_plus_1,_též_plus_dva_stupně)" src="auto" recommended="1">J*-------------</AM>
+<AM lemma="plus-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-ln94201-70-p4s2w14">
@@ -1218,6 +1231,7 @@
 <AM lemma="ultra_,t" src="orig">Db-------------</AM>
 <AM lemma="ultra" src="auto" recommended="1">AAXXX----1A----</AM>
 <AM lemma="ultra_,h_,s" src="auto">A2--------A----</AM>
+<AM lemma="ultra-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-ln94201-70-p4s2w15">
@@ -1435,7 +1449,7 @@
 <AM lemma="Viktorka-2_;K_,l_^(jméno_sport.klubu)" src="auto">NNFP1-----A----</AM>
 <AM lemma="Viktorka-2_;K_,l_^(jméno_sport.klubu)" src="auto">NNFP4-----A----</AM>
 <AM lemma="Viktorka-2_;K_,l_^(jméno_sport.klubu)" src="auto">NNFP5-----A----</AM>
-<AM lemma="Viktorka-2_;K_,l_^(jméno_sport.klubu)" src="auto">NNFS2-----A----</AM>
+<AM lemma="Viktorka-2_;K_,l_^(jméno_sport.klubu)" src="auto" selected="1">NNFS2-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94201-70-p4s2w41">
@@ -1560,7 +1574,7 @@
 <form>nejen</form>
 <tag>
 <AM lemma="nejen" src="orig">TT-------------</AM>
-<AM lemma="nejen" src="auto" recommended="1">Db-------------</AM>
+<AM lemma="nejen" src="auto" recommended="1" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m-ln94201-70-p5s1w15">
@@ -1748,7 +1762,7 @@
 </w.rf>
 <form>tří</form>
 <tag>
-<AM lemma="tři`3" src="orig">A2--------A----</AM>
+<AM lemma="tři`3" src="orig" selected="1">A2--------A----</AM>
 <AM lemma="tři`3" src="auto" recommended="1">ClXP2----------</AM>
 </tag>
 </m>
@@ -2127,7 +2141,7 @@
 <AM lemma="Viktorka-1_;Y_^(ženské_jméno)" src="auto">NNFS3-----A----</AM>
 <AM lemma="Viktorka-1_;Y_^(ženské_jméno)" src="auto" recommended="1">NNFS6-----A----</AM>
 <AM lemma="Viktorka-2_;K_,l_^(jméno_sport.klubu)" src="auto">NNFS3-----A----</AM>
-<AM lemma="Viktorka-2_;K_,l_^(jméno_sport.klubu)" src="auto">NNFS6-----A----</AM>
+<AM lemma="Viktorka-2_;K_,l_^(jméno_sport.klubu)" src="auto" selected="1">NNFS6-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94201-70-p5s4w22">

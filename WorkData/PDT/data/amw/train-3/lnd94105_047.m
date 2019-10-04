@@ -19,7 +19,10 @@
 <LM>w#w-lnd94105-047-p1s1w1</LM>
 </w.rf>
 <form>Rudým</form>
-<tag lemma="rudý" src="orig" selected="1">AAMP3----1A----</tag>
+<tag>
+<AM lemma="rudý" src="orig">AAMP3----1A----</AM>
+<AM lemma="rudý_;o" src="manual" selected="1">AAMP3----1A----</AM>
+</tag>
 </m>
 <m id="m-lnd94105-047-p1s1w2">
 <src.rf>manual</src.rf>
@@ -27,7 +30,11 @@
 <LM>w#w-lnd94105-047-p1s1w2</LM>
 </w.rf>
 <form>Khmerům</form>
-<tag lemma="Khmer" src="orig" selected="1">NNMP3-----A----</tag>
+<tag>
+<AM lemma="Khmer" src="orig">NNMP3-----A----</AM>
+<AM lemma="Khmer_;E" src="manual">NNMP3-----A----</AM>
+<AM lemma="Khmer_;E_,s_^(^DD**Khmér)" src="manual" selected="1">NNMP3-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd94105-047-p1s1w3">
 <src.rf>manual</src.rf>
@@ -143,7 +150,10 @@
 <LM>w#w-lnd94105-047-p1s3w9</LM>
 </w.rf>
 <form>straně</form>
-<tag lemma="strana-3_^(u_soudu,_na_úřadě,_smluvní_strany;_na_něčí_straně)" src="orig" selected="1">NNFS6-----A----</tag>
+<tag>
+<AM lemma="strana-3_^(u_soudu,_na_úřadě,_smluvní_strany;_na_něčí_straně)" src="orig">NNFS6-----A----</AM>
+<AM lemma="strana" src="manual" selected="1">NNFS6-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd94105-047-p1s3w10">
 <src.rf>manual</src.rf>
@@ -151,7 +161,10 @@
 <LM>w#w-lnd94105-047-p1s3w10</LM>
 </w.rf>
 <form>Rudých</form>
-<tag lemma="rudý" src="orig" selected="1">AAMP2----1A----</tag>
+<tag>
+<AM lemma="rudý" src="orig">AAMP2----1A----</AM>
+<AM lemma="rudý_;o" src="manual" selected="1">AAMP2----1A----</AM>
+</tag>
 </m>
 <m id="m-lnd94105-047-p1s3w11">
 <src.rf>manual</src.rf>
@@ -159,7 +172,10 @@
 <LM>w#w-lnd94105-047-p1s3w11</LM>
 </w.rf>
 <form>Khmerů</form>
-<tag lemma="Khmer" src="orig" selected="1">NNMP2-----A----</tag>
+<tag>
+<AM lemma="Khmer" src="orig">NNMP2-----A----</AM>
+<AM lemma="Khmer_;E_,s_^(^DD**Khmér)" src="manual" selected="1">NNMP2-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd94105-047-p1s3w12">
 <src.rf>manual</src.rf>
@@ -273,7 +289,10 @@
 <LM>w#w-lnd94105-047-p1s4w2</LM>
 </w.rf>
 <form>Sieng</form>
-<tag lemma="Sieng_;K_,t" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="Sieng_;K_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="Sieng-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-lnd94105-047-p1s4w3">
 <src.rf>manual</src.rf>
@@ -281,7 +300,10 @@
 <LM>w#w-lnd94105-047-p1s4w3</LM>
 </w.rf>
 <form>La</form>
-<tag lemma="Le-1_,t_^(franc._člen_jako_souč._jmen_a_názvů)" src="orig" selected="1">AAFSX----1A----</tag>
+<tag>
+<AM lemma="Le-1_,t_^(franc._člen_jako_souč._jmen_a_názvů)" src="orig">AAFSX----1A----</AM>
+<AM lemma="La-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-lnd94105-047-p1s4w4">
 <src.rf>manual</src.rf>
@@ -289,7 +311,10 @@
 <LM>w#w-lnd94105-047-p1s4w4</LM>
 </w.rf>
 <form>Presse</form>
-<tag lemma="Presse-1_;K_,t_^(souč._názvu_Die_P.)" src="orig" selected="1">NNIXX-----A----</tag>
+<tag>
+<AM lemma="Presse-1_;K_,t_^(souč._názvu_Die_P.)" src="orig">NNIXX-----A----</AM>
+<AM lemma="Presse-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-lnd94105-047-p1s4w5">
 <src.rf>manual</src.rf>
@@ -308,7 +333,7 @@
 <tag>
 <AM lemma="jakýkoliv" src="orig">PZFP4---------1</AM>
 <AM lemma="jakýkoli" src="auto">PZFP1----------</AM>
-<AM lemma="jakýkoli" src="auto" recommended="1">PZFP4----------</AM>
+<AM lemma="jakýkoli" src="auto" recommended="1" selected="1">PZFP4----------</AM>
 <AM lemma="jakýkoli" src="auto">PZFP5----------</AM>
 <AM lemma="jakýkoli" src="auto">PZFS2----------</AM>
 <AM lemma="jakýkoli" src="auto">PZFS3----------</AM>
@@ -409,7 +434,10 @@
 <LM>w#w-lnd94105-047-p1s5w2</LM>
 </w.rf>
 <form>jen</form>
-<tag lemma="jen-1" src="auto" selected="1">TT-------------</tag>
+<tag>
+<AM lemma="jen-1" src="auto">TT-------------</AM>
+<AM lemma="jen-4_^(pouze)" src="manual" selected="1">Db-------------</AM>
+</tag>
 </m>
 <m id="m-lnd94105-047-p1s5w3">
 <src.rf>manual</src.rf>
@@ -441,7 +469,10 @@
 <LM>w#w-lnd94105-047-p1s5w6</LM>
 </w.rf>
 <form>černé</form>
-<tag lemma="černý" src="auto" selected="1">AAFP4----1A----</tag>
+<tag>
+<AM lemma="černý" src="auto">AAFP4----1A----</AM>
+<AM lemma="černý_;o" src="manual" selected="1">AAFP4----1A----</AM>
+</tag>
 </m>
 <m id="m-lnd94105-047-p1s5w7">
 <src.rf>manual</src.rf>
@@ -727,7 +758,10 @@
 <LM>w#w-lnd94105-047-p1s8w9</LM>
 </w.rf>
 <form>Rudým</form>
-<tag lemma="rudý" src="orig" selected="1">AAMP3----1A----</tag>
+<tag>
+<AM lemma="rudý" src="orig">AAMP3----1A----</AM>
+<AM lemma="rudý_;o" src="manual" selected="1">AAMP3----1A----</AM>
+</tag>
 </m>
 <m id="m-lnd94105-047-p1s8w10">
 <src.rf>manual</src.rf>
@@ -735,7 +769,10 @@
 <LM>w#w-lnd94105-047-p1s8w10</LM>
 </w.rf>
 <form>Khmerům</form>
-<tag lemma="Khmer" src="orig" selected="1">NNMP3-----A----</tag>
+<tag>
+<AM lemma="Khmer" src="orig">NNMP3-----A----</AM>
+<AM lemma="Khmer_;E_,s_^(^DD**Khmér)" src="manual" selected="1">NNMP3-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd94105-047-p1s8w11">
 <src.rf>manual</src.rf>
@@ -801,7 +838,10 @@
 <LM>w#w-lnd94105-047-p1s9w5</LM>
 </w.rf>
 <form>černé</form>
-<tag lemma="černý" src="auto" selected="1">AAFP4----1A----</tag>
+<tag>
+<AM lemma="černý" src="auto">AAFP4----1A----</AM>
+<AM lemma="černý_;o" src="manual" selected="1">AAFP4----1A----</AM>
+</tag>
 </m>
 <m id="m-lnd94105-047-p1s9w6">
 <src.rf>manual</src.rf>
@@ -827,7 +867,10 @@
 <LM>w#w-lnd94105-047-p1s10w1</LM>
 </w.rf>
 <form>Rudí</form>
-<tag lemma="rudý" src="orig" selected="1">AAMP1----1A----</tag>
+<tag>
+<AM lemma="rudý" src="orig">AAMP1----1A----</AM>
+<AM lemma="rudý_;o" src="manual" selected="1">AAMP1----1A----</AM>
+</tag>
 </m>
 <m id="m-lnd94105-047-p1s10w2">
 <src.rf>manual</src.rf>
@@ -835,7 +878,10 @@
 <LM>w#w-lnd94105-047-p1s10w2</LM>
 </w.rf>
 <form>Khmerové</form>
-<tag lemma="Khmer" src="orig" selected="1">NNMP1-----A----</tag>
+<tag>
+<AM lemma="Khmer" src="orig">NNMP1-----A----</AM>
+<AM lemma="Khmer_;E_,s_^(^DD**Khmér)" src="manual" selected="1">NNMP1-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd94105-047-p1s10w3">
 <src.rf>manual</src.rf>

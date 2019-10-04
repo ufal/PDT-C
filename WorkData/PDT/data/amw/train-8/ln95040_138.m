@@ -51,7 +51,10 @@
 <LM>w#w-ln95040-138-p1s1w5</LM>
 </w.rf>
 <form>nedostane</form>
-<tag lemma="dostat" src="orig" selected="1">VB-S---3P-NA---</tag>
+<tag>
+<AM lemma="dostat" src="orig">VB-S---3P-NA---</AM>
+<AM lemma="dostat_:W" src="manual" selected="1">VB-S---3P-NA---</AM>
+</tag>
 </m>
 </s>
 <s id="m-ln95040-138-p2s1">
@@ -297,7 +300,10 @@
 <LM>w#w-ln95040-138-p3s1Bw23</LM>
 </w.rf>
 <form>KGB</form>
-<tag lemma="KGB_:B_;K_;p_^(Sov._státní_tajná_bezpečnost)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="KGB_:B_;K_;p_^(Sov._státní_tajná_bezpečnost)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="KGB_:B_;K_^(Sov._státní_tajná_bezpečnost)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95040-138-p3s1Bw24">
 <src.rf>manual</src.rf>
@@ -315,7 +321,10 @@
 <LM>w#w-ln95040-138-p4s1w1</LM>
 </w.rf>
 <form>Prohrála</form>
-<tag lemma="prohrát" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag>
+<AM lemma="prohrát" src="orig">VpQW---XR-AA---</AM>
+<AM lemma="prohrát_:W" src="manual" selected="1">VpQW---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-ln95040-138-p4s1w2">
 <src.rf>manual</src.rf>
@@ -379,7 +388,10 @@
 <LM>w#w-ln95040-138-p4s1w9</LM>
 </w.rf>
 <form>Prognosis</form>
-<tag lemma="Prognosis_;R_,t" src="orig" selected="1">NNIXX-----A----</tag>
+<tag>
+<AM lemma="Prognosis_;R_,t" src="orig">NNIXX-----A----</AM>
+<AM lemma="Prognosis_;R" src="manual" selected="1">NNIXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95040-138-p4s1w10">
 <src.rf>manual</src.rf>
@@ -461,7 +473,10 @@
 <LM>w#w-ln95040-138-p4s2w9</LM>
 </w.rf>
 <form>CIA</form>
-<tag lemma="CIA-1_:B_;K_;p_,t_^(Central_Intelligence_Agency,_USA)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="CIA-1_:B_;K_;p_,t_^(Central_Intelligence_Agency,_USA)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="CIA-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95040-138-p4s2w10">
 <src.rf>manual</src.rf>
@@ -704,7 +719,10 @@
 <LM>w#w-ln95040-138-p5s1w4</LM>
 </w.rf>
 <form>Prognosis</form>
-<tag lemma="Prognosis_;R_,t" src="orig" selected="1">NNIXX-----A----</tag>
+<tag>
+<AM lemma="Prognosis_;R_,t" src="orig">NNIXX-----A----</AM>
+<AM lemma="Prognosis_;R" src="manual" selected="1">NNIXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95040-138-p5s1w5">
 <src.rf>manual</src.rf>
@@ -832,7 +850,10 @@
 <LM>w#w-ln95040-138-p5s1w20</LM>
 </w.rf>
 <form>KGB</form>
-<tag lemma="KGB_:B_;K_;p_^(Sov._státní_tajná_bezpečnost)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="KGB_:B_;K_;p_^(Sov._státní_tajná_bezpečnost)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="KGB_:B_;K_^(Sov._státní_tajná_bezpečnost)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95040-138-p5s1w21">
 <src.rf>manual</src.rf>
@@ -875,6 +896,7 @@
 <tag>
 <AM lemma="USA_;G" src="orig">NNIPX-----A----</AM>
 <AM lemma="USA_:B_;K_,t_^(United_States_of_America)" src="auto" recommended="1">NNIPX-----A---8</AM>
+<AM lemma="USA_:B_;K_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95040-138-p5s1w26">
@@ -883,7 +905,10 @@
 <LM>w#w-ln95040-138-p5s1w26</LM>
 </w.rf>
 <form>odsouzena</form>
-<tag lemma="odsoudit" src="orig" selected="1">VsQW---XX-AP---</tag>
+<tag>
+<AM lemma="odsoudit" src="orig">VsQW---XX-AP---</AM>
+<AM lemma="odsoudit_:W" src="manual" selected="1">VsQW---XX-AP---</AM>
+</tag>
 </m>
 <m id="m-ln95040-138-p5s1w27">
 <src.rf>manual</src.rf>
@@ -959,7 +984,7 @@
 <form>Lánského</form>
 <tag>
 <AM lemma="lánský" src="orig">NNMS2-----A----</AM>
-<AM lemma="Lánský_;S" src="auto" recommended="1">NNMS2-----A----</AM>
+<AM lemma="Lánský_;S" src="auto" recommended="1" selected="1">NNMS2-----A----</AM>
 <AM lemma="Lánský_;S" src="auto">NNMS4-----A----</AM>
 <AM lemma="lánský" src="auto">AAIS2----1A----</AM>
 <AM lemma="lánský" src="auto">AAMS2----1A----</AM>
@@ -1395,7 +1420,10 @@
 <LM>w#w-ln95040-138-p5s5w9</LM>
 </w.rf>
 <form>StB</form>
-<tag lemma="StB_:B_;K" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="StB_:B_;K" src="orig">NNFXX-----A---8</AM>
+<AM lemma="StB-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95040-138-p5s5w10">
 <src.rf>manual</src.rf>
@@ -1424,6 +1452,7 @@
 <tag>
 <AM lemma="USA_;G" src="orig">NNIPX-----A----</AM>
 <AM lemma="USA_:B_;K_,t_^(United_States_of_America)" src="auto" recommended="1">NNIPX-----A---8</AM>
+<AM lemma="USA_:B_;K_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95040-138-p5s6w3">
@@ -1440,7 +1469,10 @@
 <LM>w#w-ln95040-138-p5s6w4</LM>
 </w.rf>
 <form>odsouzena</form>
-<tag lemma="odsoudit" src="orig" selected="1">VsQW---XX-AP---</tag>
+<tag>
+<AM lemma="odsoudit" src="orig">VsQW---XX-AP---</AM>
+<AM lemma="odsoudit_:W" src="manual" selected="1">VsQW---XX-AP---</AM>
+</tag>
 </m>
 <m id="m-ln95040-138-p5s6w5">
 <src.rf>manual</src.rf>
@@ -1813,7 +1845,10 @@
 <LM>w#w-ln95040-138-p6s2w15</LM>
 </w.rf>
 <form>komunismu</form>
-<tag lemma="komunismus" src="orig" selected="1">NNIS2-----A----</tag>
+<tag>
+<AM lemma="komunismus" src="orig">NNIS2-----A----</AM>
+<AM lemma="komunismus_,s_^(^DD**komunizmus)" src="manual" selected="1">NNIS2-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95040-138-p6s2w16">
 <src.rf>manual</src.rf>
@@ -1921,7 +1956,10 @@
 <LM>w#w-ln95040-138-p6s4w1</LM>
 </w.rf>
 <form>Vyplynulo</form>
-<tag lemma="vyplynout" src="auto" selected="1">VpNS---XR-AA---</tag>
+<tag>
+<AM lemma="vyplynout" src="auto">VpNS---XR-AA---</AM>
+<AM lemma="vyplynout_:W" src="manual" selected="1">VpNS---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-ln95040-138-p6s4w2">
 <src.rf>manual</src.rf>
@@ -2041,7 +2079,10 @@
 <LM>w#w-ln95040-138-p6s4w16</LM>
 </w.rf>
 <form>CIA</form>
-<tag lemma="CIA-1_:B_;K_;p_,t_^(Central_Intelligence_Agency,_USA)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="CIA-1_:B_;K_;p_,t_^(Central_Intelligence_Agency,_USA)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="CIA-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95040-138-p6s4w17">
 <src.rf>manual</src.rf>
@@ -2181,7 +2222,10 @@
 <LM>w#w-ln95040-138-p6s6w4</LM>
 </w.rf>
 <form>CIA</form>
-<tag lemma="CIA-1_:B_;K_;p_,t_^(Central_Intelligence_Agency,_USA)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="CIA-1_:B_;K_;p_,t_^(Central_Intelligence_Agency,_USA)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="CIA-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95040-138-p6s6w5">
 <src.rf>manual</src.rf>
@@ -2205,7 +2249,10 @@
 <LM>w#w-ln95040-138-p6s6w7</LM>
 </w.rf>
 <form>KGB</form>
-<tag lemma="KGB_:B_;K_;p_^(Sov._státní_tajná_bezpečnost)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="KGB_:B_;K_;p_^(Sov._státní_tajná_bezpečnost)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="KGB_:B_;K_^(Sov._státní_tajná_bezpečnost)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95040-138-p6s6w8">
 <src.rf>manual</src.rf>
@@ -2239,7 +2286,10 @@
 <LM>w#w-ln95040-138-p6s7w3</LM>
 </w.rf>
 <form>řekla</form>
-<tag lemma="říci" src="auto" selected="1">VpQW---XR-AA---</tag>
+<tag>
+<AM lemma="říci" src="auto">VpQW---XR-AA---</AM>
+<AM lemma="říci_:W" src="manual" selected="1">VpQW---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-ln95040-138-p6s7w4">
 <src.rf>manual</src.rf>
@@ -2279,7 +2329,10 @@
 <LM>w#w-ln95040-138-p6s7w8</LM>
 </w.rf>
 <form>nenapsal</form>
-<tag lemma="napsat" src="orig" selected="1">VpYS---XR-NA---</tag>
+<tag>
+<AM lemma="napsat" src="orig">VpYS---XR-NA---</AM>
+<AM lemma="napsat_:W" src="manual" selected="1">VpYS---XR-NA---</AM>
+</tag>
 </m>
 <m id="m-ln95040-138-p6s7w9">
 <src.rf>manual</src.rf>
@@ -2327,7 +2380,10 @@
 <LM>w#w-ln95040-138-p6s7w14</LM>
 </w.rf>
 <form>odsouzena</form>
-<tag lemma="odsoudit" src="orig" selected="1">VsQW---XX-AP---</tag>
+<tag>
+<AM lemma="odsoudit" src="orig">VsQW---XX-AP---</AM>
+<AM lemma="odsoudit_:W" src="manual" selected="1">VsQW---XX-AP---</AM>
+</tag>
 </m>
 <m id="m-ln95040-138-p6s7w15">
 <src.rf>manual</src.rf>
@@ -2428,6 +2484,7 @@
 <tag>
 <AM lemma="USA_;G" src="orig">NNIPX-----A----</AM>
 <AM lemma="USA_:B_;K_,t_^(United_States_of_America)" src="auto" recommended="1">NNIPX-----A---8</AM>
+<AM lemma="USA_:B_;K_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95040-138-p6s8w10">
@@ -2444,7 +2501,11 @@
 <LM>w#w-ln95040-138-p6s8w11</LM>
 </w.rf>
 <form>SSSR</form>
-<tag lemma="SSSR_:B_;G_^(Svaz_sov._socialist._republik)" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="SSSR_:B_;G_^(Svaz_sov._socialist._republik)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="SSSR_:B_;G_^(Svaz_sov._socialist._republik)" src="manual">NNXXX-----A----</AM>
+<AM lemma="SSSR-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95040-138-p6s8w12">
 <src.rf>manual</src.rf>
@@ -2484,7 +2545,10 @@
 <LM>w#w-ln95040-138-p6s8w16</LM>
 </w.rf>
 <form>uvedla</form>
-<tag lemma="uvést" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag>
+<AM lemma="uvést" src="orig">VpQW---XR-AA---</AM>
+<AM lemma="uvést_:W" src="manual" selected="1">VpQW---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-ln95040-138-p6s8w17">
 <src.rf>manual</src.rf>
@@ -2579,6 +2643,7 @@
 <tag>
 <AM lemma="USA_;G" src="orig">NNIPX-----A----</AM>
 <AM lemma="USA_:B_;K_,t_^(United_States_of_America)" src="auto" recommended="1">NNIPX-----A---8</AM>
+<AM lemma="USA_:B_;K_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95040-138-p7s1w6">
@@ -2829,7 +2894,10 @@
 <LM>w#w-ln95040-138-p7s2w19</LM>
 </w.rf>
 <form>CIA</form>
-<tag lemma="CIA-1_:B_;K_;p_,t_^(Central_Intelligence_Agency,_USA)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="CIA-1_:B_;K_;p_,t_^(Central_Intelligence_Agency,_USA)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="CIA-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95040-138-p7s2w20">
 <src.rf>manual</src.rf>

@@ -276,6 +276,7 @@
 <tag>
 <AM lemma="CEV_:B" src="orig">NNXXX-----A---8</AM>
 <AM lemma="Ceva_;K" src="auto" recommended="1">NNFP2-----A----</AM>
+<AM lemma="CEV-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-ln95044-023-p2s1Cw18">
@@ -340,7 +341,10 @@
 <LM>w#w-ln95044-023-p2s1Cw25</LM>
 </w.rf>
 <form>play</form>
-<tag lemma="play-1_,t" src="orig" selected="1">NNFXX-----A----</tag>
+<tag>
+<AM lemma="play-1_,t" src="orig">NNFXX-----A----</AM>
+<AM lemma="play-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln95044-023-p2s1Cw26">
 <src.rf>manual</src.rf>
@@ -348,7 +352,10 @@
 <LM>w#w-ln95044-023-p2s1Cw26</LM>
 </w.rf>
 <form>off</form>
-<tag lemma="off-1_,t_^(angl._&quot;vypnuto&quot;,_hlavně_souč._názvů)" src="orig" selected="1">TT-------------</tag>
+<tag>
+<AM lemma="off-1_,t_^(angl._&quot;vypnuto&quot;,_hlavně_souč._názvů)" src="orig">TT-------------</AM>
+<AM lemma="off-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln95044-023-p2s1Cw27">
 <src.rf>manual</src.rf>
@@ -473,6 +480,7 @@
 <AM lemma="a-8_:B_^(ost._zkratka)" src="auto">XX------------8</AM>
 <AM lemma="akciový_:B_^(jen_akciová_společnost)" src="auto">AAXXX----1A---8</AM>
 <AM lemma="á_,t" src="auto">RF------------1</AM>
+<AM lemma="A-33_^(označení_pomocí_písmene)" src="manual" selected="1">NNNXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95044-023-p3s1w13">
@@ -620,6 +628,7 @@
 <AM lemma="a-8_:B_^(ost._zkratka)" src="auto">XX------------8</AM>
 <AM lemma="akciový_:B_^(jen_akciová_společnost)" src="auto">AAXXX----1A---8</AM>
 <AM lemma="á_,t" src="auto">RF------------1</AM>
+<AM lemma="A-33_^(označení_pomocí_písmene)" src="manual" selected="1">NNNXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95044-023-p3s1w29">
@@ -644,7 +653,10 @@
 <LM>w#w-ln95044-023-p3s1w31</LM>
 </w.rf>
 <form>Schenk</form>
-<tag lemma="Schenk_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Schenk_;S" src="orig">NNMS1-----A----</AM>
+<AM lemma="Schenk-2_;K" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95044-023-p3s1w32">
 <src.rf>manual</src.rf>
@@ -668,7 +680,10 @@
 <LM>w#w-ln95044-023-p3s1w34</LM>
 </w.rf>
 <form>Č</form>
-<tag lemma="Č-5_:B_;G" src="orig" selected="1">AAXXX----1A---8</tag>
+<tag>
+<AM lemma="Č-5_:B_;G" src="orig">AAXXX----1A---8</AM>
+<AM lemma="Český_:B" src="manual" selected="1">AAXXX----1A---8</AM>
+</tag>
 </m>
 <m id="m-ln95044-023-p3s1w35">
 <src.rf>manual</src.rf>
@@ -729,6 +744,7 @@
 <AM lemma="B-9_:B_;S" src="auto">NNXXX-----A---8</AM>
 <AM lemma="b-3_^(označení_pomocí_písmene)" src="auto" recommended="1">NNNXX-----A----</AM>
 <AM lemma="b-8_:B_^(ost._zkratka)" src="auto">XX------------8</AM>
+<AM lemma="B-33_^(označení_pomocí_písmene)" src="manual" selected="1">NNNXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95044-023-p3s1w41">
@@ -753,7 +769,10 @@
 <LM>w#w-ln95044-023-p3s1w43</LM>
 </w.rf>
 <form>USK</form>
-<tag lemma="USK-1_:B_^(univerzitní_sportovní_klub)" src="auto" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="USK-1_:B_^(univerzitní_sportovní_klub)" src="auto">NNIXX-----A---8</AM>
+<AM lemma="USK-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln95044-023-p3s1w44">
 <src.rf>manual</src.rf>
@@ -981,7 +1000,10 @@
 <LM>w#w-ln95044-023-p3s3w8</LM>
 </w.rf>
 <form>Schenk</form>
-<tag lemma="Schenk_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Schenk_;S" src="orig">NNMS1-----A----</AM>
+<AM lemma="Schenk-2_;K" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95044-023-p3s3w9">
 <src.rf>manual</src.rf>
@@ -1077,7 +1099,10 @@
 <LM>w#w-ln95044-023-p3s3w20</LM>
 </w.rf>
 <form>USK</form>
-<tag lemma="USK-1_:B_^(univerzitní_sportovní_klub)" src="auto" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="USK-1_:B_^(univerzitní_sportovní_klub)" src="auto">NNIXX-----A---8</AM>
+<AM lemma="USK-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln95044-023-p3s3w21">
 <src.rf>manual</src.rf>
@@ -1109,7 +1134,10 @@
 <LM>w#w-ln95044-023-p3s3w24</LM>
 </w.rf>
 <form>Č</form>
-<tag lemma="Č-5_:B_;G" src="orig" selected="1">AAXXX----1A---8</tag>
+<tag>
+<AM lemma="Č-5_:B_;G" src="orig">AAXXX----1A---8</AM>
+<AM lemma="Český_:B" src="manual" selected="1">AAXXX----1A---8</AM>
+</tag>
 </m>
 <m id="m-ln95044-023-p3s3w25">
 <src.rf>manual</src.rf>
@@ -1330,6 +1358,7 @@
 <AM lemma="a-8_:B_^(ost._zkratka)" src="auto">XX------------8</AM>
 <AM lemma="akciový_:B_^(jen_akciová_společnost)" src="auto">AAXXX----1A---8</AM>
 <AM lemma="á_,t" src="auto">RF------------1</AM>
+<AM lemma="A-33_^(označení_pomocí_písmene)" src="manual" selected="1">NNNXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95044-023-p3s4w23">

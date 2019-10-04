@@ -91,7 +91,10 @@
 <LM>w#w-ln94202-138-p1s1Aw10</LM>
 </w.rf>
 <form>dovážených</form>
-<tag lemma="dovážený_^(dokončit_vážení)_(*2t)" src="auto" selected="1">AAFP2----1A----</tag>
+<tag>
+<AM lemma="dovážený_^(dokončit_vážení)_(*2t)" src="auto">AAFP2----1A----</AM>
+<AM lemma="dovážený-1_^(z_ciziny)_(*2t)" src="manual" selected="1">AAFP2----1A----</AM>
+</tag>
 </m>
 <m id="m-ln94202-138-p1s1Aw11">
 <src.rf>manual</src.rf>

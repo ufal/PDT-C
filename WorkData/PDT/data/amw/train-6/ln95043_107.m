@@ -47,7 +47,7 @@
 <form>Hamburg</form>
 <tag>
 <AM lemma="Hamburk_;G" src="orig">NNIS1-----A----</AM>
-<AM lemma="Hamburg_;G" src="auto" recommended="1">NNIS1-----A----</AM>
+<AM lemma="Hamburg_;G" src="auto" recommended="1" selected="1">NNIS1-----A----</AM>
 <AM lemma="Hamburg_;G" src="auto">NNIS4-----A----</AM>
 </tag>
 </m>
@@ -197,7 +197,10 @@
 <LM>w#w-ln95043-107-p2s1Bw17</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-2" src="auto" selected="1">Dg-------2A----</tag>
+<tag>
+<AM lemma="hodně-2" src="auto">Dg-------2A----</AM>
+<AM lemma="hodně-3" src="manual" selected="1">Dg-------2A----</AM>
+</tag>
 </m>
 <m id="m-ln95043-107-p2s1Bw18">
 <src.rf>manual</src.rf>
@@ -617,7 +620,10 @@
 <LM>w#w-ln95043-107-p3s1w39</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-2" src="auto" selected="1">Dg-------2A----</tag>
+<tag>
+<AM lemma="hodně-2" src="auto">Dg-------2A----</AM>
+<AM lemma="hodně-3" src="manual" selected="1">Dg-------2A----</AM>
+</tag>
 </m>
 <m id="m-ln95043-107-p3s1w40">
 <src.rf>manual</src.rf>
@@ -1054,6 +1060,7 @@
 <AM lemma="Irán_;G" src="orig">NNIS1-----A----</AM>
 <AM lemma="Írán_;G_,h" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Írán_;G_,h" src="auto">NNIS4-----A----</AM>
+<AM lemma="Irán_,s_^(^DD**Írán)" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95043-107-p4s3w4">

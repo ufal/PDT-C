@@ -577,7 +577,7 @@
 <AM lemma="brzký" src="orig">AANP2----2A----</AM>
 <AM lemma="dřívější" src="auto">AAFP2----2A----</AM>
 <AM lemma="dřívější" src="auto">AAFP6----2A----</AM>
-<AM lemma="dřívější" src="auto" recommended="1">AAIP2----2A----</AM>
+<AM lemma="dřívější" src="auto" recommended="1" selected="1">AAIP2----2A----</AM>
 <AM lemma="dřívější" src="auto">AAIP6----2A----</AM>
 <AM lemma="dřívější" src="auto">AAMP2----2A----</AM>
 <AM lemma="dřívější" src="auto">AAMP6----2A----</AM>
@@ -663,7 +663,10 @@
 <LM>w#w-ln94206-44-p3s2w19</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-2" src="auto" selected="1">Dg-------2A----</tag>
+<tag>
+<AM lemma="hodně-2" src="auto">Dg-------2A----</AM>
+<AM lemma="hodně-3" src="manual" selected="1">Dg-------2A----</AM>
+</tag>
 </m>
 <m id="m-ln94206-44-p3s2w20">
 <src.rf>manual</src.rf>
@@ -2017,7 +2020,10 @@
 <LM>w#w-ln94206-44-p6s2w2</LM>
 </w.rf>
 <form>resortu</form>
-<tag lemma="resort" src="orig" selected="1">NNIS2-----A----</tag>
+<tag>
+<AM lemma="resort" src="orig">NNIS2-----A----</AM>
+<AM lemma="resort_,s_^(^DD**rezort)" src="manual" selected="1">NNIS2-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94206-44-p6s2w3">
 <src.rf>manual</src.rf>

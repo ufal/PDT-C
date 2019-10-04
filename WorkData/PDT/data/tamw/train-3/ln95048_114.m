@@ -91,7 +91,10 @@
 <LM>w#w-ln95048-114-p1s1w10</LM>
 </w.rf>
 <form>Rio</form>
-<tag lemma="Rio_;G" src="orig" selected="1">NNNS1-----A----</tag>
+<tag>
+<AM lemma="Rio_;G" src="orig">NNNS1-----A----</AM>
+<AM lemma="Rio-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln95048-114-p1s1w11">
 <src.rf>manual</src.rf>
@@ -99,7 +102,10 @@
 <LM>w#w-ln95048-114-p1s1w11</LM>
 </w.rf>
 <form>de</form>
-<tag lemma="de_,t_^(z_franc._de,_zejm._ve_jménech)" src="orig" selected="1">RR--1----------</tag>
+<tag>
+<AM lemma="de_,t_^(z_franc._de,_zejm._ve_jménech)" src="orig">RR--1----------</AM>
+<AM lemma="de-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln95048-114-p1s1w12">
 <src.rf>manual</src.rf>
@@ -115,7 +121,10 @@
 <LM>w#w-ln95048-114-p1s1w13</LM>
 </w.rf>
 <form>Reynaldovi</form>
-<tag lemma="Reynald_;S" src="orig" selected="1">NNMS3-----A----</tag>
+<tag>
+<AM lemma="Reynald_;S" src="orig">NNMS3-----A----</AM>
+<AM lemma="Reynald_;S_;Y" src="manual" selected="1">NNMS3-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95048-114-p1s1w14">
 <src.rf>manual</src.rf>
@@ -123,7 +132,10 @@
 <LM>w#w-ln95048-114-p1s1w14</LM>
 </w.rf>
 <form>de</form>
-<tag lemma="de_,t_^(z_franc._de,_zejm._ve_jménech)" src="orig" selected="1">RR--1----------</tag>
+<tag>
+<AM lemma="de_,t_^(z_franc._de,_zejm._ve_jménech)" src="orig">RR--1----------</AM>
+<AM lemma="de-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln95048-114-p1s1w15">
 <src.rf>manual</src.rf>

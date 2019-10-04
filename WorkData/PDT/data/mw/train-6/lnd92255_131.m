@@ -79,7 +79,10 @@
 <LM>w#w-lnd92255-131-p2s2w4</LM>
 </w.rf>
 <form>Bobby</form>
-<tag lemma="Bobby_;Y_,t" src="auto" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Bobby_;Y_,t" src="auto">NNMS1-----A----</AM>
+<AM lemma="Bobby_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92255-131-p2s2w5">
 <src.rf>manual</src.rf>
@@ -297,7 +300,10 @@
 <LM>w#w-lnd92255-131-p2s3w5</LM>
 </w.rf>
 <form>de</form>
-<tag lemma="de_,t_^(z_franc._de,_zejm._ve_jménech)" src="orig" selected="1">RR--1----------</tag>
+<tag>
+<AM lemma="de_,t_^(z_franc._de,_zejm._ve_jménech)" src="orig">RR--1----------</AM>
+<AM lemma="de-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-lnd92255-131-p2s3w6">
 <src.rf>manual</src.rf>
@@ -305,7 +311,10 @@
 <LM>w#w-lnd92255-131-p2s3w6</LM>
 </w.rf>
 <form>facto</form>
-<tag lemma="facto_,t" src="orig" selected="1">NNNXX-----A----</tag>
+<tag>
+<AM lemma="facto_,t" src="orig">NNNXX-----A----</AM>
+<AM lemma="facto-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-lnd92255-131-p2s3w7">
 <src.rf>manual</src.rf>

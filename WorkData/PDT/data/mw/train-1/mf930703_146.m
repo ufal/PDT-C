@@ -35,7 +35,10 @@
 <LM>w#w-mf930703-146-p1s1w3</LM>
 </w.rf>
 <form>zadrží</form>
-<tag lemma="zadržet" src="orig" selected="1">VB-P---3P-AA---</tag>
+<tag>
+<AM lemma="zadržet" src="orig">VB-P---3P-AA---</AM>
+<AM lemma="zadržet_:W" src="manual" selected="1">VB-P---3P-AA---</AM>
+</tag>
 </m>
 <m id="m-mf930703-146-p1s1w4">
 <src.rf>manual</src.rf>
@@ -277,7 +280,10 @@
 <LM>w#w-mf930703-146-p2s1w27</LM>
 </w.rf>
 <form>New</form>
-<tag lemma="New-1_;G_,t_^(součást_míst._jmen)" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="New-1_;G_,t_^(součást_míst._jmen)" src="orig">AAXXX----1A----</AM>
+<AM lemma="New-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-mf930703-146-p2s1w28">
 <src.rf>manual</src.rf>
@@ -564,6 +570,7 @@
 <tag>
 <AM lemma="USA_;G" src="orig">NNIPX-----A----</AM>
 <AM lemma="USA_:B_;K_,t_^(United_States_of_America)" src="auto" recommended="1">NNIPX-----A---8</AM>
+<AM lemma="USA_:B_;K_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930703-146-p2s3w13">
@@ -680,7 +687,10 @@
 <LM>w#w-mf930703-146-p2s5w4</LM>
 </w.rf>
 <form>nedávno</form>
-<tag lemma="nedávno-1" src="auto" selected="1">Db-------------</tag>
+<tag>
+<AM lemma="nedávno-1" src="auto">Db-------------</AM>
+<AM lemma="dávno-1" src="manual" selected="1">Dg-------1N----</AM>
+</tag>
 </m>
 <m id="m-mf930703-146-p2s5w5">
 <src.rf>manual</src.rf>
@@ -699,6 +709,7 @@
 <tag>
 <AM lemma="USA_;G" src="orig">NNIPX-----A----</AM>
 <AM lemma="USA_:B_;K_,t_^(United_States_of_America)" src="auto" recommended="1">NNIPX-----A---8</AM>
+<AM lemma="USA_:B_;K_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930703-146-p2s5w7">
@@ -787,7 +798,10 @@
 <LM>w#w-mf930703-146-p2s5w17</LM>
 </w.rf>
 <form>OSN</form>
-<tag lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930703-146-p2s5w18">
 <src.rf>manual</src.rf>
@@ -859,7 +873,10 @@
 <LM>w#w-mf930703-146-p2s5w26</LM>
 </w.rf>
 <form>OSN</form>
-<tag lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930703-146-p2s5w27">
 <src.rf>manual</src.rf>
@@ -944,6 +961,7 @@
 <tag>
 <AM lemma="FBI_:B_;K" src="orig">NNIXX-----A---8</AM>
 <AM lemma="FBI_:B_;K_,t_^(Fed._Bureau_of_Investigation)" src="auto" recommended="1">NNFXX-----A---8</AM>
+<AM lemma="FBI-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930703-146-p2s6w6">
@@ -1084,7 +1102,10 @@
 <LM>w#w-mf930703-146-p2s8w5</LM>
 </w.rf>
 <form>souzen</form>
-<tag lemma="soudit" src="orig" selected="1">VsYS---XX-AP---</tag>
+<tag>
+<AM lemma="soudit" src="orig">VsYS---XX-AP---</AM>
+<AM lemma="soudit_:T" src="manual" selected="1">VsYS---XX-AP---</AM>
+</tag>
 </m>
 <m id="m-mf930703-146-p2s8w6">
 <src.rf>manual</src.rf>

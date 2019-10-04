@@ -223,7 +223,10 @@
 <LM>w#w-ln95047-139-p2s1Bw20</LM>
 </w.rf>
 <form>zahr</form>
-<tag lemma="zahraniční_:B" src="orig" selected="1">AAXXX----1A---8</tag>
+<tag>
+<AM lemma="zahraniční_:B" src="orig">AAXXX----1A---8</AM>
+<AM lemma="zahraniční" src="manual" selected="1">AAXXX----1A---8</AM>
+</tag>
 </m>
 <m id="m-ln95047-139-p2s1Bw21">
 <src.rf>manual</src.rf>
@@ -311,7 +314,10 @@
 <LM>w#w-ln95047-139-p2s1Bw31</LM>
 </w.rf>
 <form>ČR</form>
-<tag lemma="ČR-1_:B_;G_^(Česká_republika)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95047-139-p2s1Bw32">
 <src.rf>manual</src.rf>
@@ -833,7 +839,10 @@
 <LM>w#w-ln95047-139-p4s1w8</LM>
 </w.rf>
 <form>ČR</form>
-<tag lemma="ČR-1_:B_;G_^(Česká_republika)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95047-139-p4s1w9">
 <src.rf>manual</src.rf>
@@ -909,6 +918,7 @@
 <AM lemma="Servus_;K" src="orig">NNIS1-----A----</AM>
 <AM lemma="servus" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="servus_,h_,s" src="auto">II-------------</AM>
+<AM lemma="servus_,t" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95047-139-p4s1w18">

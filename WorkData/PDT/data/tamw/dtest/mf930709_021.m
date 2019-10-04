@@ -1327,7 +1327,10 @@
 <LM>w#w-mf930709-021-p2s9w3</LM>
 </w.rf>
 <form>nedávnem</form>
-<tag lemma="nedávno-2" src="auto" selected="1">NNNS7-----A----</tag>
+<tag>
+<AM lemma="nedávno-2" src="auto">NNNS7-----A----</AM>
+<AM lemma="dávno-2" src="manual" selected="1">NNNS7-----N----</AM>
+</tag>
 </m>
 <m id="m-mf930709-021-p2s9w4">
 <src.rf>manual</src.rf>
@@ -1901,7 +1904,10 @@
 <LM>w#w-mf930709-021-p2s12w7</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-2" src="auto" selected="1">Dg-------2A----</tag>
+<tag>
+<AM lemma="hodně-2" src="auto">Dg-------2A----</AM>
+<AM lemma="hodně-3" src="manual" selected="1">Dg-------2A----</AM>
+</tag>
 </m>
 <m id="m-mf930709-021-p2s12w8">
 <src.rf>manual</src.rf>

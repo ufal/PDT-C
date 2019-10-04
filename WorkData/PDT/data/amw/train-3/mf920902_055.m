@@ -95,7 +95,10 @@
 <LM>w#w-mf920902-055-p2s1Bw7</LM>
 </w.rf>
 <form>rada</form>
-<tag lemma="rada-3_^(poradní_sbor;_př._Česká_národní_r.)" src="orig" selected="1">NNFS1-----A----</tag>
+<tag>
+<AM lemma="rada-3_^(poradní_sbor;_př._Česká_národní_r.)" src="orig">NNFS1-----A----</AM>
+<AM lemma="rada-1_^(př._dát_někomu_dobrou_radu;poradní_sbor)" src="manual" selected="1">NNFS1-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920902-055-p2s1Bw8">
 <src.rf>manual</src.rf>
@@ -1017,7 +1020,7 @@
 <form>koneckonců</form>
 <tag>
 <AM lemma="koneckonců" src="orig">Db-------------</AM>
-<AM lemma="koneckonců" src="auto" recommended="1">TT-------------</AM>
+<AM lemma="koneckonců" src="auto" recommended="1" selected="1">TT-------------</AM>
 </tag>
 </m>
 <m id="m-mf920902-055-p2s9w18">
@@ -1196,7 +1199,10 @@
 <LM>w#w-mf920902-055-p2s10w8</LM>
 </w.rf>
 <form>diskusi</form>
-<tag lemma="diskuse" src="orig" selected="1">NNFS6-----A----</tag>
+<tag>
+<AM lemma="diskuse" src="orig">NNFS6-----A----</AM>
+<AM lemma="diskuse_,s_^(^DD**diskuze)" src="manual" selected="1">NNFS6-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920902-055-p2s10w9">
 <src.rf>manual</src.rf>
@@ -1456,7 +1462,7 @@
 <form>trpce</form>
 <tag>
 <AM lemma="trpký" src="orig">Dg-------1A----</AM>
-<AM lemma="trpce" src="auto" recommended="1">Dg-------1A----</AM>
+<AM lemma="trpce" src="auto" recommended="1" selected="1">Dg-------1A----</AM>
 </tag>
 </m>
 <m id="m-mf920902-055-p2s11w27">

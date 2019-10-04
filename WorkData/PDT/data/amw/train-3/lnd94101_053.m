@@ -167,7 +167,10 @@
 <LM>w#w-lnd94101-053-p1s3w13</LM>
 </w.rf>
 <form>Tibetu</form>
-<tag lemma="tibet" src="orig" selected="1">NNIS2-----A----</tag>
+<tag>
+<AM lemma="tibet" src="orig">NNIS2-----A----</AM>
+<AM lemma="Tibet_;G_;K" src="manual" selected="1">NNIS2-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd94101-053-p1s3w14">
 <src.rf>manual</src.rf>
@@ -289,7 +292,10 @@
 <LM>w#w-lnd94101-053-p1s4w3</LM>
 </w.rf>
 <form>Bílého</form>
-<tag lemma="bílý" src="orig" selected="1">AAIS2----1A----</tag>
+<tag>
+<AM lemma="bílý" src="orig">AAIS2----1A----</AM>
+<AM lemma="bílý_;o" src="manual" selected="1">AAIS2----1A----</AM>
+</tag>
 </m>
 <m id="m-lnd94101-053-p1s4w4">
 <src.rf>manual</src.rf>
@@ -337,7 +343,10 @@
 <LM>w#w-lnd94101-053-p1s4w9</LM>
 </w.rf>
 <form>Tibet</form>
-<tag lemma="tibet" src="orig" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="tibet" src="orig">NNIS1-----A----</AM>
+<AM lemma="Tibet_;G_;K" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd94101-053-p1s4w10">
 <src.rf>manual</src.rf>
@@ -345,7 +354,10 @@
 <LM>w#w-lnd94101-053-p1s4w10</LM>
 </w.rf>
 <form>stojí</form>
-<tag lemma="stát-3_^(někdo/něco_stojí,_např._na_nohou)" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag>
+<AM lemma="stát-3_^(někdo/něco_stojí,_např._na_nohou)" src="orig">VB-S---3P-AA---</AM>
+<AM lemma="stát-3_^(stojím_stojíš)" src="manual" selected="1">VB-S---3P-AA---</AM>
+</tag>
 </m>
 <m id="m-lnd94101-053-p1s4w11">
 <src.rf>manual</src.rf>
@@ -380,6 +392,7 @@
 <tag>
 <AM lemma="USA_;G" src="orig">NNIPX-----A----</AM>
 <AM lemma="USA_:B_;K_,t_^(United_States_of_America)" src="auto" recommended="1">NNIPX-----A---8</AM>
+<AM lemma="USA_:B_;K_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94101-053-p1s4w15">
@@ -553,6 +566,7 @@
 <tag>
 <AM lemma="USA_;G" src="orig">NNIPX-----A----</AM>
 <AM lemma="USA_:B_;K_,t_^(United_States_of_America)" src="auto" recommended="1">NNIPX-----A---8</AM>
+<AM lemma="USA_:B_;K_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94101-053-p1s5w2">
@@ -723,7 +737,10 @@
 <LM>w#w-lnd94101-053-p1s6w12</LM>
 </w.rf>
 <form>New</form>
-<tag lemma="New-1_;G_,t_^(součást_míst._jmen)" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="New-1_;G_,t_^(součást_míst._jmen)" src="orig">AAXXX----1A----</AM>
+<AM lemma="New-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-lnd94101-053-p1s6w13">
 <src.rf>manual</src.rf>

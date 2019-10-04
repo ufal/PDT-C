@@ -743,7 +743,7 @@
 <form>komukoli</form>
 <tag>
 <AM lemma="kdokoliv" src="orig">PZM-3---------1</AM>
-<AM lemma="kdokoli" src="auto" recommended="1">PZM-3----------</AM>
+<AM lemma="kdokoli" src="auto" recommended="1" selected="1">PZM-3----------</AM>
 </tag>
 </m>
 <m id="m-ln95042-050-p2s4w17">
@@ -1037,6 +1037,7 @@
 <tag>
 <AM lemma="USA_;G" src="orig">NNIPX-----A----</AM>
 <AM lemma="USA_:B_;K_,t_^(United_States_of_America)" src="auto" recommended="1">NNIPX-----A---8</AM>
+<AM lemma="USA_:B_;K_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95042-050-p2s5w22">

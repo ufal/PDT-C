@@ -185,7 +185,10 @@
 <LM>w#w-lnd92256-041-p3s2w13</LM>
 </w.rf>
 <form>Mariana</form>
-<tag lemma="Marián_;Y_,x" src="orig" selected="1">NNMS2-----A----</tag>
+<tag>
+<AM lemma="Marián_;Y_,x" src="orig">NNMS2-----A----</AM>
+<AM lemma="Marian_;Y_,s_^(^DD**Marián)" src="manual" selected="1">NNMS2-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92256-041-p3s2w14">
 <src.rf>manual</src.rf>
@@ -499,7 +502,10 @@
 <LM>w#w-lnd92256-041-p3s3w32</LM>
 </w.rf>
 <form>M</form>
-<tag lemma="M-0_:B_;Y" src="orig" selected="1">NNMXX-----A---8</tag>
+<tag>
+<AM lemma="M-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
+<AM lemma="M-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd92256-041-p3s3w33">
 <src.rf>manual</src.rf>

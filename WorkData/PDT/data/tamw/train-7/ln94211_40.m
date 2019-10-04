@@ -139,6 +139,7 @@
 <AM lemma="pech-99_:B_;S" src="orig">NNXXX-----A---8</AM>
 <AM lemma="pech" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="pech" src="auto">NNIS4-----A----</AM>
+<AM lemma="pech-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94211-40-p2s1Bw4">
@@ -155,7 +156,10 @@
 <LM>w#w-ln94211-40-p2s1Bw5</LM>
 </w.rf>
 <form>čtk</form>
-<tag lemma="ČTK-1_:B_;K_^(Čs./Česká_tisková_kancelář)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ČTK-1_:B_;K_^(Čs./Česká_tisková_kancelář)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČTK-1_:B_;K_^(Čs./Česká_tisková_kancelář)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94211-40-p2s1Bw6">
 <src.rf>manual</src.rf>
@@ -317,7 +321,10 @@
 <LM>w#w-ln94211-40-p2s1Cw18</LM>
 </w.rf>
 <form>alkoholismem</form>
-<tag lemma="alkoholismus" src="orig" selected="1">NNIS7-----A----</tag>
+<tag>
+<AM lemma="alkoholismus" src="orig">NNIS7-----A----</AM>
+<AM lemma="alkoholismus_,s_^(^DD**alkoholizmus)" src="manual" selected="1">NNIS7-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94211-40-p2s1Cw19">
 <src.rf>manual</src.rf>
@@ -357,7 +364,10 @@
 <LM>w#w-ln94211-40-p2s1Cw23</LM>
 </w.rf>
 <form>toxikomaniemi</form>
-<tag lemma="toxikománie" src="orig" selected="1">NNFP7-----A----</tag>
+<tag>
+<AM lemma="toxikománie" src="orig">NNFP7-----A----</AM>
+<AM lemma="toxikomanie_,s_^(^DD**toxikománie)" src="manual" selected="1">NNFP7-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94211-40-p2s1Cw24">
 <src.rf>manual</src.rf>
@@ -1969,7 +1979,7 @@
 <form>nikoli</form>
 <tag>
 <AM lemma="nikoliv" src="orig">Db------------1</AM>
-<AM lemma="nikoli" src="auto" recommended="1">TT-------------</AM>
+<AM lemma="nikoli" src="auto" recommended="1" selected="1">TT-------------</AM>
 </tag>
 </m>
 <m id="m-ln94211-40-p9s1w21">
@@ -2086,7 +2096,7 @@
 <form>třeba</form>
 <tag>
 <AM lemma="třeba-1" src="orig">ACNS------A----</AM>
-<AM lemma="třeba-2" src="auto" recommended="1">Db-------------</AM>
+<AM lemma="třeba-2" src="auto" recommended="1" selected="1">Db-------------</AM>
 <AM lemma="třeba-3" src="auto">TT-------------</AM>
 </tag>
 </m>

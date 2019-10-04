@@ -89,7 +89,10 @@
 <LM>w#w-ln95043-019-p2s1Bw2</LM>
 </w.rf>
 <form>All</form>
-<tag lemma="All_;K_,t" src="orig" selected="1">PLXXX----------</tag>
+<tag>
+<AM lemma="All_;K_,t" src="orig">PLXXX----------</AM>
+<AM lemma="All-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln95043-019-p2s1Bw3">
 <src.rf>manual</src.rf>
@@ -97,7 +100,10 @@
 <LM>w#w-ln95043-019-p2s1Bw3</LM>
 </w.rf>
 <form>Stars</form>
-<tag lemma="Star_;K_,t" src="orig" selected="1">NNFPX-----A----</tag>
+<tag>
+<AM lemma="Star_;K_,t" src="orig">NNFPX-----A----</AM>
+<AM lemma="Stars-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln95043-019-p2s1Bw4">
 <src.rf>manual</src.rf>
@@ -121,7 +127,10 @@
 <LM>w#w-ln95043-019-p2s1Bw6</LM>
 </w.rf>
 <form>NBA</form>
-<tag lemma="NBA_:B_;K" src="auto" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="NBA_:B_;K" src="auto">NNFXX-----A---8</AM>
+<AM lemma="NBA-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln95043-019-p2s1Bw7">
 <src.rf>manual</src.rf>
@@ -137,7 +146,10 @@
 <LM>w#w-ln95043-019-p2s1Bw8</LM>
 </w.rf>
 <form>tzv</form>
-<tag lemma="takzvaný_:B" src="orig" selected="1">AAXXX----1A---8</tag>
+<tag>
+<AM lemma="takzvaný_:B" src="orig">AAXXX----1A---8</AM>
+<AM lemma="takzvaný" src="manual" selected="1">AAXXX----1A---8</AM>
+</tag>
 </m>
 <m id="m-ln95043-019-p2s1Bw9">
 <src.rf>manual</src.rf>
@@ -355,7 +367,10 @@
 <LM>w#w-ln95043-019-p2s2w5</LM>
 </w.rf>
 <form>ČBF</form>
-<tag lemma="ČBF-1_:B_;K_^(Česká_basketbalová_federace)" src="auto" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ČBF-1_:B_;K_^(Česká_basketbalová_federace)" src="auto">NNFXX-----A---8</AM>
+<AM lemma="ČBF-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln95043-019-p2s2w6">
 <src.rf>manual</src.rf>
@@ -654,7 +669,10 @@
 <LM>w#w-ln95043-019-p2s3w25</LM>
 </w.rf>
 <form>USK</form>
-<tag lemma="USK-1_:B_^(univerzitní_sportovní_klub)" src="auto" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="USK-1_:B_^(univerzitní_sportovní_klub)" src="auto">NNIXX-----A---8</AM>
+<AM lemma="USK-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln95043-019-p2s3w26">
 <src.rf>manual</src.rf>
@@ -848,7 +866,10 @@
 <LM>w#w-ln95043-019-p2s4w8</LM>
 </w.rf>
 <form>NBA</form>
-<tag lemma="NBA_:B_;K" src="auto" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="NBA_:B_;K" src="auto">NNFXX-----A---8</AM>
+<AM lemma="NBA-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln95043-019-p2s4w9">
 <src.rf>manual</src.rf>
@@ -1082,7 +1103,10 @@
 <LM>w#w-ln95043-019-p2s5w18</LM>
 </w.rf>
 <form>ALK</form>
-<tag lemma="ALK_:B_;K" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="ALK_:B_;K" src="orig">NNXXX-----A---8</AM>
+<AM lemma="ALK-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln95043-019-p2s5w19">
 <src.rf>manual</src.rf>
@@ -1090,7 +1114,10 @@
 <LM>w#w-ln95043-019-p2s5w19</LM>
 </w.rf>
 <form>ČBF</form>
-<tag lemma="ČBF-1_:B_;K_^(Česká_basketbalová_federace)" src="auto" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ČBF-1_:B_;K_^(Česká_basketbalová_federace)" src="auto">NNFXX-----A---8</AM>
+<AM lemma="ČBF-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln95043-019-p2s5w20">
 <src.rf>manual</src.rf>
@@ -1106,7 +1133,10 @@
 <LM>w#w-ln95043-019-p2s5w21</LM>
 </w.rf>
 <form>PO</form>
-<tag lemma="PO-1_:B_,t_^(Post-Office)" src="orig" selected="1">AAXXX----1A---8</tag>
+<tag>
+<AM lemma="PO-1_:B_,t_^(Post-Office)" src="orig">AAXXX----1A---8</AM>
+<AM lemma="PO-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln95043-019-p2s5w22">
 <src.rf>manual</src.rf>

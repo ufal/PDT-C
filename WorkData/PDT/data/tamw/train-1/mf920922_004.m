@@ -19,7 +19,10 @@
 <LM>w#w-mf920922-004-p1s1w1</LM>
 </w.rf>
 <form>Židé</form>
-<tag lemma="žid" src="orig" selected="1">NNMP1-----A----</tag>
+<tag>
+<AM lemma="žid" src="orig" selected="1">NNMP1-----A----</AM>
+<AM lemma="Žid_;E" src="manual">NNMP1-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920922-004-p1s1w2">
 <src.rf>manual</src.rf>
@@ -85,7 +88,10 @@
 <LM>w#w-mf920922-004-p2s1w3</LM>
 </w.rf>
 <form>jsl</form>
-<tag lemma="jsl-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="jsl-99_:B_;S" src="orig">NNXXX-----A---8</AM>
+<AM lemma="jsl-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920922-004-p2s1w4">
 <src.rf>manual</src.rf>
@@ -327,7 +333,10 @@
 <LM>w#w-mf920922-004-p2s2w28</LM>
 </w.rf>
 <form>ČSFR</form>
-<tag lemma="ČSFR-1_:B_;G_^(Čs._federativní_republika)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ČSFR-1_:B_;G_^(Čs._federativní_republika)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČSFR-1_:B_;G_^(Čs._federativní_republika)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920922-004-p2s2w29">
 <src.rf>manual</src.rf>
@@ -570,7 +579,10 @@
 <LM>w#w-mf920922-004-p2s3w20</LM>
 </w.rf>
 <form>židů</form>
-<tag lemma="žid" src="orig" selected="1">NNMP2-----A----</tag>
+<tag>
+<AM lemma="žid" src="orig" selected="1">NNMP2-----A----</AM>
+<AM lemma="Žid_;E" src="manual">NNMP2-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920922-004-p2s3w21">
 <src.rf>manual</src.rf>
@@ -647,7 +659,7 @@
 <AM lemma="moravský" src="auto">AAFP1----1A----</AM>
 <AM lemma="moravský" src="auto">AAFP4----1A----</AM>
 <AM lemma="moravský" src="auto">AAFP5----1A----</AM>
-<AM lemma="moravský" src="auto" recommended="1">AAFS2----1A----</AM>
+<AM lemma="moravský" src="auto" recommended="1" selected="1">AAFS2----1A----</AM>
 <AM lemma="moravský" src="auto">AAFS3----1A----</AM>
 <AM lemma="moravský" src="auto">AAFS6----1A----</AM>
 <AM lemma="moravský" src="auto">AAIP1----1A----</AM>
@@ -837,7 +849,10 @@
 <LM>w#w-mf920922-004-p2s5w5</LM>
 </w.rf>
 <form>židy</form>
-<tag lemma="žid" src="orig" selected="1">NNMP4-----A----</tag>
+<tag>
+<AM lemma="žid" src="orig" selected="1">NNMP4-----A----</AM>
+<AM lemma="Žid_;E" src="manual">NNMP4-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920922-004-p2s5w6">
 <src.rf>manual</src.rf>

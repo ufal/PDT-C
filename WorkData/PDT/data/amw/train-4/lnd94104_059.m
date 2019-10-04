@@ -393,7 +393,10 @@
 <LM>w#w-lnd94104-059-p1s4w14</LM>
 </w.rf>
 <form>RPF</form>
-<tag lemma="RPF-1_:B_;K_,t_^(Rassemblement_du_Peuple_Francais)" src="auto" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="RPF-1_:B_;K_,t_^(Rassemblement_du_Peuple_Francais)" src="auto">NNXXX-----A---8</AM>
+<AM lemma="RPF-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd94104-059-p1s4w15">
 <src.rf>manual</src.rf>
@@ -481,7 +484,10 @@
 <LM>w#w-lnd94104-059-p1s4w25</LM>
 </w.rf>
 <form>RPF</form>
-<tag lemma="RPF-1_:B_;K_,t_^(Rassemblement_du_Peuple_Francais)" src="auto" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="RPF-1_:B_;K_,t_^(Rassemblement_du_Peuple_Francais)" src="auto">NNXXX-----A---8</AM>
+<AM lemma="RPF-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd94104-059-p1s4w26">
 <src.rf>manual</src.rf>
@@ -582,6 +588,7 @@
 <tag>
 <AM lemma="RPF-2_:B_;K_,t_^(Rwandan_Patriotic_Front)" src="orig">NNNXX-----A----</AM>
 <AM lemma="RPF-1_:B_;K_,t_^(Rassemblement_du_Peuple_Francais)" src="auto" recommended="1">NNXXX-----A---8</AM>
+<AM lemma="RPF-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-lnd94104-059-p1s5w2">
@@ -850,7 +857,7 @@
 <AM lemma="Hutu_;E" src="orig">NNMP1-----A----</AM>
 <AM lemma="Hut_;S" src="auto" recommended="1">NNMP1-----A----</AM>
 <AM lemma="Hut_;S" src="auto">NNMP5-----A----</AM>
-<AM lemma="Hutu_;E" src="auto">NNMP1-----A---1</AM>
+<AM lemma="Hutu_;E" src="auto" selected="1">NNMP1-----A---1</AM>
 <AM lemma="Hutu_;E" src="auto">NNMP5-----A---1</AM>
 </tag>
 </m>
@@ -1258,7 +1265,10 @@
 <LM>w#w-lnd94104-059-p1s8w4</LM>
 </w.rf>
 <form>MVČK</form>
-<tag lemma="MVČK_:B_;K" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="MVČK_:B_;K" src="orig">NNIXX-----A---8</AM>
+<AM lemma="MVČK-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd94104-059-p1s8w5">
 <src.rf>manual</src.rf>
@@ -1769,7 +1779,7 @@
 <form>ovšem</form>
 <tag>
 <AM lemma="ovšem-1_^(avšak,_však;_odporovací_spojka)" src="orig">J^-------------</AM>
-<AM lemma="ovšem" src="auto" recommended="1">TT-------------</AM>
+<AM lemma="ovšem" src="auto" recommended="1" selected="1">TT-------------</AM>
 </tag>
 </m>
 <m id="m-lnd94104-059-p1s10w29">
@@ -1884,7 +1894,10 @@
 <LM>w#w-lnd94104-059-p1s11w10</LM>
 </w.rf>
 <form>The</form>
-<tag lemma="the-1_,t_^(obv._souč._anglických_názvů,_urč._člen)" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="the-1_,t_^(obv._souč._anglických_názvů,_urč._člen)" src="orig">AAXXX----1A----</AM>
+<AM lemma="The-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-lnd94104-059-p1s11w11">
 <src.rf>manual</src.rf>
@@ -1892,7 +1905,10 @@
 <LM>w#w-lnd94104-059-p1s11w11</LM>
 </w.rf>
 <form>Los</form>
-<tag lemma="Los-1_;G_,t_^(součást_cizích_jmen)" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="Los-1_;G_,t_^(součást_cizích_jmen)" src="orig">AAXXX----1A----</AM>
+<AM lemma="Los-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-lnd94104-059-p1s11w12">
 <src.rf>manual</src.rf>
@@ -1900,7 +1916,10 @@
 <LM>w#w-lnd94104-059-p1s11w12</LM>
 </w.rf>
 <form>Angeles</form>
-<tag lemma="Angeles_;G_,t" src="orig" selected="1">NNNXX-----A----</tag>
+<tag>
+<AM lemma="Angeles_;G_,t" src="orig">NNNXX-----A----</AM>
+<AM lemma="Angeles-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-lnd94104-059-p1s11w13">
 <src.rf>manual</src.rf>
@@ -1908,7 +1927,10 @@
 <LM>w#w-lnd94104-059-p1s11w13</LM>
 </w.rf>
 <form>Times</form>
-<tag lemma="Times-1_;K_,t_^(souč._názvů,_např._The_Times)" src="orig" selected="1">NNIPX-----A----</tag>
+<tag>
+<AM lemma="Times-1_;K_,t_^(souč._názvů,_např._The_Times)" src="orig">NNIPX-----A----</AM>
+<AM lemma="Times-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-lnd94104-059-p1s11w14">
 <src.rf>manual</src.rf>

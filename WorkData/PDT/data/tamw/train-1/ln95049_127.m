@@ -445,7 +445,10 @@
 <LM>w#w-ln95049-127-p3s1w9</LM>
 </w.rf>
 <form>HUF</form>
-<tag lemma="HUF_:B_;b_^(maď._forint)" src="auto" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="HUF_:B_;b_^(maď._forint)" src="auto">NNXXX-----A---8</AM>
+<AM lemma="HUF-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln95049-127-p3s1w10">
 <src.rf>manual</src.rf>
@@ -477,7 +480,10 @@
 <LM>w#w-ln95049-127-p3s1w13</LM>
 </w.rf>
 <form>ATS</form>
-<tag lemma="ATS_:B_;b_^(rakouský_šilink)" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="ATS_:B_;b_^(rakouský_šilink)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="ATS-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln95049-127-p3s1w14">
 <src.rf>manual</src.rf>
@@ -565,7 +571,10 @@
 <LM>w#w-ln95049-127-p3s1w24</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-2" src="auto" selected="1">Dg-------2A----</tag>
+<tag>
+<AM lemma="hodně-2" src="auto">Dg-------2A----</AM>
+<AM lemma="hodně-3" src="manual" selected="1">Dg-------2A----</AM>
+</tag>
 </m>
 <m id="m-ln95049-127-p3s1w25">
 <src.rf>manual</src.rf>
@@ -1464,7 +1473,10 @@
 <LM>w#w-ln95049-127-p5s1w19</LM>
 </w.rf>
 <form>HUF</form>
-<tag lemma="HUF_:B_;b_^(maď._forint)" src="auto" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="HUF_:B_;b_^(maď._forint)" src="auto">NNXXX-----A---8</AM>
+<AM lemma="HUF-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln95049-127-p5s1w20">
 <src.rf>manual</src.rf>
@@ -1528,7 +1540,10 @@
 <LM>w#w-ln95049-127-p5s1w27</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-2" src="auto" selected="1">Dg-------2A----</tag>
+<tag>
+<AM lemma="hodně-2" src="auto">Dg-------2A----</AM>
+<AM lemma="hodně-3" src="manual" selected="1">Dg-------2A----</AM>
+</tag>
 </m>
 <m id="m-ln95049-127-p5s1w28">
 <src.rf>manual</src.rf>
@@ -1763,7 +1778,10 @@
 <LM>w#w-ln95049-127-p5s2w24</LM>
 </w.rf>
 <form>USD</form>
-<tag lemma="USD_:B_;b_^(U.S._dolar)" src="auto" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="USD_:B_;b_^(U.S._dolar)" src="auto">NNIXX-----A---8</AM>
+<AM lemma="USD_:B_^(U.S._dolar)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95049-127-p5s2w25">
 <src.rf>manual</src.rf>

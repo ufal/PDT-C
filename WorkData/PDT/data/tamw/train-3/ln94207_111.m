@@ -301,7 +301,10 @@
 <LM>w#w-ln94207-111-p1s2w18</LM>
 </w.rf>
 <form>Jasana</form>
-<tag lemma="Jasan_;S" src="auto" selected="1">NNMS2-----A----</tag>
+<tag>
+<AM lemma="Jasan_;S" src="auto">NNMS2-----A----</AM>
+<AM lemma="Jasan_;S_;Y" src="manual" selected="1">NNMS2-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94207-111-p1s2w19">
 <src.rf>manual</src.rf>
@@ -527,7 +530,10 @@
 <LM>w#w-ln94207-111-p1s3w22</LM>
 </w.rf>
 <form>Gabriel</form>
-<tag lemma="Gabriel_;Y" src="auto" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Gabriel_;Y" src="auto">NNMS1-----A----</AM>
+<AM lemma="Gabriel_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94207-111-p1s3w23">
 <src.rf>manual</src.rf>
@@ -662,6 +668,8 @@
 <tag>
 <AM lemma="lin-99_:B_;S" src="orig">NNXXX-----A---8</AM>
 <AM lemma="lino" src="auto" recommended="1">NNNP2-----A----</AM>
+<AM lemma="lin-99_:B" src="manual">NNXXX-----A----</AM>
+<AM lemma="lin-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94207-111-p1s5Aw3">
@@ -712,7 +720,10 @@
 <LM>w#w-ln94207-111-p1s5Bw5</LM>
 </w.rf>
 <form>LN</form>
-<tag lemma="LN-1_:B_;R_^(Lidové_noviny,_deník)" src="orig" selected="1">NNFPX-----A---8</tag>
+<tag>
+<AM lemma="LN-1_:B_;R_^(Lidové_noviny,_deník)" src="orig">NNFPX-----A---8</AM>
+<AM lemma="LN-1_:B_;K_;R_^(Lidové_noviny)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 </s>
 </mdata>

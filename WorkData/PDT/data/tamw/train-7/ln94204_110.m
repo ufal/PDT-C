@@ -199,7 +199,10 @@
 <LM>w#w-ln94204-110-p2s1Bw18</LM>
 </w.rf>
 <form>UEFA</form>
-<tag lemma="UEFA-1_:B_;K_;w_^(Evr._fotbalová_federace)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="UEFA-1_:B_;K_;w_^(Evr._fotbalová_federace)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="UEFA-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94204-110-p2s1Bw19">
 <src.rf>manual</src.rf>
@@ -231,7 +234,10 @@
 <LM>w#w-ln94204-110-p2s1Bw22</LM>
 </w.rf>
 <form>FC</form>
-<tag lemma="FC-1_:B_;K_;w_^(Football_Club,_př._FC_Sparta)" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="FC-1_:B_;K_;w_^(Football_Club,_př._FC_Sparta)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="FC-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94204-110-p2s1Bw23">
 <src.rf>manual</src.rf>
@@ -239,7 +245,10 @@
 <LM>w#w-ln94204-110-p2s1Bw23</LM>
 </w.rf>
 <form>Hibernians</form>
-<tag lemma="Hibernian_;K_,t" src="orig" selected="1">NNMPX-----A----</tag>
+<tag>
+<AM lemma="Hibernian_;K_,t" src="orig">NNMPX-----A----</AM>
+<AM lemma="Hibernian_;K" src="manual" selected="1">NNMPX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94204-110-p2s1Bw24">
 <src.rf>manual</src.rf>
@@ -255,7 +264,10 @@
 <LM>w#w-ln94204-110-p2s1Bw25</LM>
 </w.rf>
 <form>Malta</form>
-<tag lemma="malta" src="orig" selected="1">NNFS1-----A----</tag>
+<tag>
+<AM lemma="malta" src="orig">NNFS1-----A----</AM>
+<AM lemma="Malta_;G" src="manual" selected="1">NNFS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94204-110-p2s1Bw26">
 <src.rf>manual</src.rf>
@@ -305,7 +317,10 @@
 <LM>w#w-ln94204-110-p2s2w1</LM>
 </w.rf>
 <form>Kontraexpertiza</form>
-<tag lemma="kontraexpertiza" src="orig" selected="1">NNFS1-----A----</tag>
+<tag>
+<AM lemma="kontraexpertiza" src="orig">NNFS1-----A----</AM>
+<AM lemma="kontraexpertiza_,s_^(^DD**kontraexpertýza)" src="manual" selected="1">NNFS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94204-110-p2s2w2">
 <src.rf>manual</src.rf>
@@ -395,7 +410,7 @@
 <form>moči</form>
 <tag>
 <AM lemma="moč" src="orig">NNFS2-----A----</AM>
-<AM lemma="moč" src="auto" recommended="1">NNFS2-----A---1</AM>
+<AM lemma="moč" src="auto" recommended="1" selected="1">NNFS2-----A---1</AM>
 <AM lemma="moč" src="auto">NNFS3-----A----</AM>
 <AM lemma="moč" src="auto">NNFS5-----A----</AM>
 <AM lemma="moč" src="auto">NNFS6-----A----</AM>
@@ -465,7 +480,10 @@
 <LM>w#w-ln94204-110-p2s3w5</LM>
 </w.rf>
 <form>UEFA</form>
-<tag lemma="UEFA-1_:B_;K_;w_^(Evr._fotbalová_federace)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="UEFA-1_:B_;K_;w_^(Evr._fotbalová_federace)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="UEFA-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94204-110-p2s3w6">
 <src.rf>manual</src.rf>

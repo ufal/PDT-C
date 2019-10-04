@@ -213,7 +213,10 @@
 <LM>w#w-mf930702-046-p2s1w23</LM>
 </w.rf>
 <form>Marlene</form>
-<tag lemma="Marlene_;Y_,t" src="auto" selected="1">NNFXX-----A----</tag>
+<tag>
+<AM lemma="Marlene_;Y_,t" src="auto">NNFXX-----A----</AM>
+<AM lemma="Marlene_;Y" src="manual" selected="1">NNFXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930702-046-p2s1w24">
 <src.rf>manual</src.rf>
@@ -333,7 +336,10 @@
 <LM>w#w-mf930702-046-p2s1w38</LM>
 </w.rf>
 <form>J</form>
-<tag lemma="J-0_:B_;Y" src="orig" selected="1">NNMXX-----A---8</tag>
+<tag>
+<AM lemma="J-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
+<AM lemma="J-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-mf930702-046-p2s1w39">
 <src.rf>manual</src.rf>
@@ -357,7 +363,10 @@
 <LM>w#w-mf930702-046-p2s1w41</LM>
 </w.rf>
 <form>P</form>
-<tag lemma="P-0_:B_;Y" src="orig" selected="1">NNMXX-----A---8</tag>
+<tag>
+<AM lemma="P-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
+<AM lemma="P-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-mf930702-046-p2s1w42">
 <src.rf>manual</src.rf>
@@ -617,7 +626,10 @@
 <LM>w#w-mf930702-046-p3s1w2</LM>
 </w.rf>
 <form>spa</form>
-<tag lemma="spa-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="spa-99_:B_;S" src="orig">NNXXX-----A---8</AM>
+<AM lemma="spa-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930702-046-p3s1w3">
 <src.rf>manual</src.rf>
@@ -771,7 +783,10 @@
 <LM>w#w-mf930702-046-p4s1w18</LM>
 </w.rf>
 <form>Albertem</form>
-<tag lemma="Albert-1_;Y_,t" src="auto" selected="1">NNMS7-----A----</tag>
+<tag>
+<AM lemma="Albert-1_;Y_,t" src="auto">NNMS7-----A----</AM>
+<AM lemma="Albert-1_;Y" src="manual" selected="1">NNMS7-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930702-046-p4s1w19">
 <src.rf>manual</src.rf>
@@ -803,7 +818,10 @@
 <LM>w#w-mf930702-046-p4s1w22</LM>
 </w.rf>
 <form>roli</form>
-<tag lemma="role-2_^(herecká_úloha;_poslání)" src="orig" selected="1">NNFS6-----A----</tag>
+<tag>
+<AM lemma="role-2_^(herecká_úloha;_poslání)" src="orig">NNFS6-----A----</AM>
+<AM lemma="role-1_^(svitek_poslání_pozemek)" src="manual" selected="1">NNFS6-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930702-046-p4s1w23">
 <src.rf>manual</src.rf>
@@ -909,7 +927,10 @@
 <LM>w#w-mf930702-046-p4s2w12</LM>
 </w.rf>
 <form>přepsal</form>
-<tag lemma="přepsat" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag>
+<AM lemma="přepsat" src="orig">VpYS---XR-AA---</AM>
+<AM lemma="přepsat_:W" src="manual" selected="1">VpYS---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-mf930702-046-p4s2w13">
 <src.rf>manual</src.rf>
@@ -997,7 +1018,10 @@
 <LM>w#w-mf930702-046-p4s2w23</LM>
 </w.rf>
 <form>Lee</form>
-<tag lemma="Lee_;Y" src="orig" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Lee_;Y" src="orig">NNMS1-----A----</AM>
+<AM lemma="Lee_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930702-046-p4s2w24">
 <src.rf>manual</src.rf>
@@ -1021,6 +1045,7 @@
 <AM lemma="Lucio_;Y" src="auto">NNMS4-----A----</AM>
 <AM lemma="Lucius_;S" src="auto">NNMS2-----A----</AM>
 <AM lemma="Lucius_;S" src="auto">NNMS4-----A----</AM>
+<AM lemma="Lucia_;Y" src="manual" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930702-046-p4s2w26">
@@ -1030,7 +1055,7 @@
 </w.rf>
 <form>Bosé</form>
 <tag>
-<AM lemma="Bosé_;S" src="orig">NNFXX-----A----</AM>
+<AM lemma="Bosé_;S" src="orig" selected="1">NNFXX-----A----</AM>
 <AM lemma="bosý" src="auto" recommended="1">AAFP1----1A----</AM>
 <AM lemma="bosý" src="auto">AAFP4----1A----</AM>
 <AM lemma="bosý" src="auto">AAFP5----1A----</AM>
@@ -1089,7 +1114,10 @@
 <LM>w#w-mf930702-046-p4s3w4</LM>
 </w.rf>
 <form>ČT</form>
-<tag lemma="ČT_:B_;K_^(Česká_televize)" src="auto" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="ČT_:B_;K_^(Česká_televize)" src="auto">NNXXX-----A---8</AM>
+<AM lemma="ČT_:B_;K_^(Česká_televize)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930702-046-p4s3w5">
 <src.rf>manual</src.rf>
@@ -1147,7 +1175,10 @@
 <LM>w#w-mf930702-046-p5s1w2</LM>
 </w.rf>
 <form>zat</form>
-<tag lemma="zat-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="zat-99_:B_;S" src="orig">NNXXX-----A---8</AM>
+<AM lemma="zat-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930702-046-p5s1w3">
 <src.rf>manual</src.rf>

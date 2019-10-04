@@ -149,7 +149,7 @@
 <form>vůbec</form>
 <tag>
 <AM lemma="vůbec" src="orig">Db-------------</AM>
-<AM lemma="vůbec" src="auto" recommended="1">TT-------------</AM>
+<AM lemma="vůbec" src="auto" recommended="1" selected="1">TT-------------</AM>
 </tag>
 </m>
 <m id="m-ln94207-80-p1s1w18">
@@ -184,7 +184,10 @@
 <LM>w#w-ln94207-80-p1s2w2</LM>
 </w.rf>
 <form>lavičkách</form>
-<tag lemma="lavička-2" src="auto" selected="1">NNFP6-----A----</tag>
+<tag>
+<AM lemma="lavička-2" src="auto">NNFP6-----A----</AM>
+<AM lemma="lavička" src="manual" selected="1">NNFP6-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94207-80-p1s2w3">
 <src.rf>manual</src.rf>
@@ -227,6 +230,7 @@
 <tag>
 <AM lemma="Karl_;Y_;G" src="orig">AAXXX----1A----</AM>
 <AM lemma="Karl_;Y_,t" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Karl-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-ln94207-80-p1s2w8">
@@ -247,6 +251,7 @@
 <AM lemma="Marx_;S_;G" src="orig">AAXXX----1A----</AM>
 <AM lemma="Marx_;S" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="marx_^(marx-leninský)" src="auto">A2--------A----</AM>
+<AM lemma="Marx-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-ln94207-80-p1s2w10">
@@ -263,7 +268,10 @@
 <LM>w#w-ln94207-80-p1s2w11</LM>
 </w.rf>
 <form>Allee</form>
-<tag lemma="Allee_;G" src="orig" selected="1">NNFXX-----A----</tag>
+<tag>
+<AM lemma="Allee_;G" src="orig">NNFXX-----A----</AM>
+<AM lemma="Allee-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94207-80-p1s2w12">
 <src.rf>manual</src.rf>

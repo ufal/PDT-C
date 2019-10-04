@@ -103,7 +103,10 @@
 <LM>w#w-cmpr9415-040-p6s1w5</LM>
 </w.rf>
 <form>ČR</form>
-<tag lemma="ČR-1_:B_;G_^(Česká_republika)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-cmpr9415-040-p6s1w6">
 <src.rf>manual</src.rf>
@@ -209,7 +212,10 @@
 <LM>w#w-cmpr9415-040-p6s2w1</LM>
 </w.rf>
 <form>Nejvíc</form>
-<tag lemma="hodně-2" src="auto" selected="1">Dg-------3A---1</tag>
+<tag>
+<AM lemma="hodně-2" src="auto">Dg-------3A---1</AM>
+<AM lemma="hodně-3" src="manual" selected="1">Dg-------3A---1</AM>
+</tag>
 </m>
 <m id="m-cmpr9415-040-p6s2w2">
 <src.rf>manual</src.rf>
@@ -340,7 +346,7 @@
 <tag>
 <AM lemma="tady" src="orig">Db------------1</AM>
 <AM lemma="ten" src="auto">PDFS4----------</AM>
-<AM lemma="tu" src="auto" recommended="1">Db-------------</AM>
+<AM lemma="tu" src="auto" recommended="1" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m-cmpr9415-040-p6s2w18">
@@ -487,7 +493,11 @@
 <LM>w#w-cmpr9415-040-p7s1w4</LM>
 </w.rf>
 <form>Executive</form>
-<tag lemma="executive_;m_,t" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="executive_;m_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="executive_,t" src="manual">AAXXX----1A----</AM>
+<AM lemma="Executive-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-cmpr9415-040-p7s1w5">
 <src.rf>manual</src.rf>
@@ -495,7 +505,11 @@
 <LM>w#w-cmpr9415-040-p7s1w5</LM>
 </w.rf>
 <form>educational</form>
-<tag lemma="educational_;m_,t" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="educational_;m_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="educational_,t" src="manual">AAXXX----1A----</AM>
+<AM lemma="educational-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-cmpr9415-040-p7s1w6">
 <src.rf>manual</src.rf>
@@ -503,7 +517,10 @@
 <LM>w#w-cmpr9415-040-p7s1w6</LM>
 </w.rf>
 <form>program</form>
-<tag lemma="program-1" src="orig" selected="1">NNIS4-----A----</tag>
+<tag>
+<AM lemma="program-1" src="orig">NNIS4-----A----</AM>
+<AM lemma="program-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-cmpr9415-040-p7s1w7">
 <src.rf>manual</src.rf>
@@ -514,6 +531,8 @@
 <tag>
 <AM lemma="for_;m_,t" src="orig">RR--X----------</AM>
 <AM lemma="fórum" src="auto" recommended="1">NNNP2-----A----</AM>
+<AM lemma="for_,t" src="manual">RR--X----------</AM>
+<AM lemma="for-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-cmpr9415-040-p7s1w8">
@@ -522,7 +541,10 @@
 <LM>w#w-cmpr9415-040-p7s1w8</LM>
 </w.rf>
 <form>central</form>
-<tag lemma="central_;m_,t" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="central_;m_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="central-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-cmpr9415-040-p7s1w9">
 <src.rf>manual</src.rf>
@@ -531,7 +553,10 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>European</form>
-<tag lemma="European_;m_,t" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="European_;m_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="European-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-cmpr9415-040-p7s1w10">
 <src.rf>manual</src.rf>
@@ -539,7 +564,11 @@
 <LM>w#w-cmpr9415-040-p7s1w10</LM>
 </w.rf>
 <form>professional</form>
-<tag lemma="professional_;m_,t" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="professional_;m_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="professional_,t" src="manual">AAXXX----1A----</AM>
+<AM lemma="professional-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-cmpr9415-040-p7s1w11">
 <src.rf>manual</src.rf>
@@ -547,7 +576,10 @@
 <LM>w#w-cmpr9415-040-p7s1w11</LM>
 </w.rf>
 <form>leaders</form>
-<tag lemma="leader_;m_,t" src="orig" selected="1">NNMPX-----A----</tag>
+<tag>
+<AM lemma="leader_;m_,t" src="orig">NNMPX-----A----</AM>
+<AM lemma="leaders-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-cmpr9415-040-p7s1w12">
 <src.rf>manual</src.rf>
@@ -678,6 +710,7 @@
 <tag>
 <AM lemma="USA_;G" src="orig">NNIPX-----A----</AM>
 <AM lemma="USA_:B_;K_,t_^(United_States_of_America)" src="auto" recommended="1">NNIPX-----A---8</AM>
+<AM lemma="USA_:B_;K_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9415-040-p7s1w28">
@@ -752,7 +785,10 @@
 <LM>w#w-cmpr9415-040-p7s2w8</LM>
 </w.rf>
 <form>straně</form>
-<tag lemma="strana-3_^(u_soudu,_na_úřadě,_smluvní_strany;_na_něčí_straně)" src="orig" selected="1">NNFS6-----A----</tag>
+<tag>
+<AM lemma="strana-3_^(u_soudu,_na_úřadě,_smluvní_strany;_na_něčí_straně)" src="orig">NNFS6-----A----</AM>
+<AM lemma="strana" src="manual" selected="1">NNFS6-----A----</AM>
+</tag>
 </m>
 <m id="m-cmpr9415-040-p7s2w9">
 <src.rf>manual</src.rf>
@@ -800,7 +836,10 @@
 <LM>w#w-cmpr9415-040-p7s2w14</LM>
 </w.rf>
 <form>ČR</form>
-<tag lemma="ČR-1_:B_;G_^(Česká_republika)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-cmpr9415-040-p7s2w15">
 <src.rf>manual</src.rf>
@@ -856,7 +895,10 @@
 <LM>w#w-cmpr9415-040-p7s2w21</LM>
 </w.rf>
 <form>Training</form>
-<tag lemma="Training_;K_,t" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="Training_;K_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="Training-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-cmpr9415-040-p7s2w22">
 <src.rf>manual</src.rf>
@@ -869,6 +911,8 @@
 <AM lemma="Centre_;K" src="auto" recommended="1">NNNSX-----A----</AM>
 <AM lemma="centr_^(sport:_přihrávka)" src="auto">NNIS5-----A----</AM>
 <AM lemma="centre_,t" src="auto">XX-------------</AM>
+<AM lemma="centre_,t" src="manual">NNXXX-----A----</AM>
+<AM lemma="Centre-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-cmpr9415-040-p7s2w23">
@@ -901,7 +945,10 @@
 <LM>w#w-cmpr9415-040-p7s2w26</LM>
 </w.rf>
 <form>straně</form>
-<tag lemma="strana-3_^(u_soudu,_na_úřadě,_smluvní_strany;_na_něčí_straně)" src="orig" selected="1">NNFS6-----A----</tag>
+<tag>
+<AM lemma="strana-3_^(u_soudu,_na_úřadě,_smluvní_strany;_na_něčí_straně)" src="orig">NNFS6-----A----</AM>
+<AM lemma="strana" src="manual" selected="1">NNFS6-----A----</AM>
+</tag>
 </m>
 <m id="m-cmpr9415-040-p7s2w27">
 <src.rf>manual</src.rf>
@@ -925,7 +972,10 @@
 <LM>w#w-cmpr9415-040-p7s2w29</LM>
 </w.rf>
 <form>Jacksonville</form>
-<tag lemma="Jacksonvill_;G" src="auto" selected="1">NNIS5-----A----</tag>
+<tag>
+<AM lemma="Jacksonvill_;G" src="auto">NNIS5-----A----</AM>
+<AM lemma="Jacksonville-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-cmpr9415-040-p7s2w30">
 <src.rf>manual</src.rf>
@@ -969,6 +1019,7 @@
 <AM lemma="International-2_;K_,t" src="orig">NNXXX-----A---1</AM>
 <AM lemma="International_,t" src="auto">NNISX-----A----</AM>
 <AM lemma="international_,t" src="auto" recommended="1">AAXXX----1A----</AM>
+<AM lemma="International-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-cmpr9415-040-p7s2w35">
@@ -977,7 +1028,10 @@
 <LM>w#w-cmpr9415-040-p7s2w35</LM>
 </w.rf>
 <form>Leadership</form>
-<tag lemma="Leadership_;K_,t" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="Leadership_;K_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="Leadership-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-cmpr9415-040-p7s2w36">
 <src.rf>manual</src.rf>
@@ -989,6 +1043,8 @@
 <AM lemma="Institute_;K_,t" src="orig">NNIXX-----A----</AM>
 <AM lemma="institut" src="auto">NNIS5-----A----</AM>
 <AM lemma="institute_,t" src="auto" recommended="1">NNISX-----A----</AM>
+<AM lemma="institute_,t" src="manual">NNXXX-----A----</AM>
+<AM lemma="Institute-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-cmpr9415-040-p7s2w37">
@@ -1114,6 +1170,7 @@
 <tag>
 <AM lemma="USA_;G" src="orig">NNIPX-----A----</AM>
 <AM lemma="USA_:B_;K_,t_^(United_States_of_America)" src="auto" recommended="1">NNIPX-----A---8</AM>
+<AM lemma="USA_:B_;K_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9415-040-p8s1w15">
@@ -1367,6 +1424,7 @@
 <tag>
 <AM lemma="USA_;G" src="orig">NNIPX-----A----</AM>
 <AM lemma="USA_:B_;K_,t_^(United_States_of_America)" src="auto" recommended="1">NNIPX-----A---8</AM>
+<AM lemma="USA_:B_;K_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9415-040-p8s2w22">
@@ -1865,7 +1923,10 @@
 <LM>w#w-cmpr9415-040-p10s1w3</LM>
 </w.rf>
 <form>vyjedou</form>
-<tag lemma="vyjet" src="orig" selected="1">VB-P---3P-AA---</tag>
+<tag>
+<AM lemma="vyjet" src="orig">VB-P---3P-AA---</AM>
+<AM lemma="vyjet_:W" src="manual" selected="1">VB-P---3P-AA---</AM>
+</tag>
 </m>
 <m id="m-cmpr9415-040-p10s1w4">
 <src.rf>manual</src.rf>
@@ -1884,6 +1945,7 @@
 <tag>
 <AM lemma="USA_;G" src="orig">NNIPX-----A----</AM>
 <AM lemma="USA_:B_;K_,t_^(United_States_of_America)" src="auto" recommended="1">NNIPX-----A---8</AM>
+<AM lemma="USA_:B_;K_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9415-040-p10s1w6">
@@ -1992,7 +2054,10 @@
 <LM>w#w-cmpr9415-040-p12s1w5</LM>
 </w.rf>
 <form>ČR</form>
-<tag lemma="ČR-1_:B_;G_^(Česká_republika)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-cmpr9415-040-p12s1w6">
 <src.rf>manual</src.rf>
@@ -2072,7 +2137,10 @@
 <LM>w#w-cmpr9415-040-p12s1w15</LM>
 </w.rf>
 <form>tel</form>
-<tag lemma="telefon_:B" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="telefon_:B" src="orig">NNIXX-----A---8</AM>
+<AM lemma="telefon" src="manual" selected="1">NNIXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-cmpr9415-040-p12s1w16">
 <src.rf>manual</src.rf>

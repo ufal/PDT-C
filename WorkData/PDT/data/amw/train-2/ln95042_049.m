@@ -103,7 +103,10 @@
 <LM>w#w-ln95042-049-p2s1Bw4</LM>
 </w.rf>
 <form>strany</form>
-<tag lemma="strana-2_^(politická)" src="orig" selected="1">NNFS2-----A----</tag>
+<tag>
+<AM lemma="strana-2_^(politická)" src="orig">NNFS2-----A----</AM>
+<AM lemma="strana" src="manual" selected="1">NNFS2-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95042-049-p2s1Bw5">
 <src.rf>manual</src.rf>
@@ -111,7 +114,10 @@
 <LM>w#w-ln95042-049-p2s1Bw5</LM>
 </w.rf>
 <form>Henri</form>
-<tag lemma="Henri_;Y_,t" src="auto" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Henri_;Y_,t" src="auto">NNMS1-----A----</AM>
+<AM lemma="Henri_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95042-049-p2s1Bw6">
 <src.rf>manual</src.rf>
@@ -207,7 +213,10 @@
 <LM>w#w-ln95042-049-p2s1Bw17</LM>
 </w.rf>
 <form>straně</form>
-<tag lemma="strana-2_^(politická)" src="orig" selected="1">NNFS3-----A----</tag>
+<tag>
+<AM lemma="strana-2_^(politická)" src="orig">NNFS3-----A----</AM>
+<AM lemma="strana" src="manual" selected="1">NNFS3-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95042-049-p2s1Bw18">
 <src.rf>manual</src.rf>
@@ -395,7 +404,10 @@
 <LM>w#w-ln95042-049-p2s3w11</LM>
 </w.rf>
 <form>strany</form>
-<tag lemma="strana-2_^(politická)" src="orig" selected="1">NNFS2-----A----</tag>
+<tag>
+<AM lemma="strana-2_^(politická)" src="orig">NNFS2-----A----</AM>
+<AM lemma="strana" src="manual" selected="1">NNFS2-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95042-049-p2s3w12">
 <src.rf>manual</src.rf>
@@ -404,9 +416,10 @@
 </w.rf>
 <form>André</form>
 <tag>
-<AM lemma="André_;Y" src="orig">NNMXX-----A----</AM>
+<AM lemma="André_;Y" src="orig" selected="1">NNMXX-----A----</AM>
 <AM lemma="André_;Y_,t" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="André_;Y_,t" src="auto">NNMS5-----A----</AM>
+<AM lemma="André_;Y_,t" src="manual">NNMXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95042-049-p2s3w13">
@@ -691,7 +704,10 @@
 <LM>w#w-ln95042-049-p2s5w13</LM>
 </w.rf>
 <form>strany</form>
-<tag lemma="strana-2_^(politická)" src="orig" selected="1">NNFS2-----A----</tag>
+<tag>
+<AM lemma="strana-2_^(politická)" src="orig">NNFS2-----A----</AM>
+<AM lemma="strana" src="manual" selected="1">NNFS2-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95042-049-p2s5w14">
 <src.rf>manual</src.rf>

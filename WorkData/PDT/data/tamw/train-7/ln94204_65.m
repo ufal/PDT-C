@@ -61,7 +61,10 @@
 <LM>w#w-ln94204-65-p2s1Aw4</LM>
 </w.rf>
 <form>mot</form>
-<tag lemma="mot-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="mot-99_:B_;S" src="orig">NNXXX-----A---8</AM>
+<AM lemma="mot-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94204-65-p2s1Aw5">
 <src.rf>manual</src.rf>
@@ -247,7 +250,10 @@
 <LM>w#w-ln94204-65-p2s1Bw21</LM>
 </w.rf>
 <form>Tichá</form>
-<tag lemma="Tichá_;S" src="auto" selected="1">NNFS1-----A----</tag>
+<tag>
+<AM lemma="Tichá_;S" src="auto">NNFS1-----A----</AM>
+<AM lemma="Tichá-2_;G" src="manual" selected="1">NNFS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94204-65-p2s1Bw22">
 <src.rf>manual</src.rf>
@@ -445,6 +451,7 @@
 <tag>
 <AM lemma="Kč" src="orig">NNFXX-----A----</AM>
 <AM lemma="Kč_:B" src="auto" recommended="1">NNFXX-----A---8</AM>
+<AM lemma="Kč_:B" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94204-65-p2s2w24">
@@ -463,7 +470,10 @@
 <LM>w#w-ln94204-65-p2s3w1</LM>
 </w.rf>
 <form>Jako</form>
-<tag lemma="jako-1" src="auto" selected="1">J,-------------</tag>
+<tag>
+<AM lemma="jako-1" src="auto" selected="1">J,-------------</AM>
+<AM lemma="jako-2" src="manual">Db-------------</AM>
+</tag>
 </m>
 <m id="m-ln94204-65-p2s3w2">
 <src.rf>manual</src.rf>
@@ -505,7 +515,7 @@
 <form>mazdu</form>
 <tag>
 <AM lemma="Mazda-2_;R_^(vozidlo)" src="orig">NNFS4-----A----</AM>
-<AM lemma="mazda_;R" src="auto" recommended="1">NNFS4-----A----</AM>
+<AM lemma="mazda_;R" src="auto" recommended="1" selected="1">NNFS4-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94204-65-p2s3w7">
@@ -564,7 +574,10 @@
 <LM>w#w-ln94204-65-p2s4w6</LM>
 </w.rf>
 <form>ČR</form>
-<tag lemma="ČR-1_:B_;G_^(Česká_republika)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94204-65-p2s4w7">
 <src.rf>manual</src.rf>

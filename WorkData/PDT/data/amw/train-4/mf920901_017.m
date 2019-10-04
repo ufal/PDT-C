@@ -115,7 +115,10 @@
 <LM>w#w-mf920901-017-p1s1w13</LM>
 </w.rf>
 <form>nám</form>
-<tag lemma="já" src="orig" selected="1">PP-P3--1-------</tag>
+<tag>
+<AM lemma="já" src="orig">PP-P3--1-------</AM>
+<AM lemma="náměstí" src="manual" selected="1">NNNXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-mf920901-017-p1s1w14">
 <src.rf>manual</src.rf>
@@ -195,7 +198,10 @@
 <LM>w#w-mf920901-017-p1s1w23</LM>
 </w.rf>
 <form>Zn</form>
-<tag lemma="značka_:B" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="značka_:B" src="orig">NNFXX-----A---8</AM>
+<AM lemma="značka" src="manual" selected="1">NNFXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-mf920901-017-p1s1w24">
 <src.rf>manual</src.rf>

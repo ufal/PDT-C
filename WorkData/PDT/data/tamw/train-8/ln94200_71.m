@@ -27,7 +27,10 @@
 <LM>w#w-ln94200-71-p1s1w2</LM>
 </w.rf>
 <form>i</form>
-<tag lemma="i-1" src="orig" selected="1">J^-------------</tag>
+<tag>
+<AM lemma="i-1" src="orig">J^-------------</AM>
+<AM lemma="i-2" src="manual" selected="1">TT-------------</AM>
+</tag>
 </m>
 <m id="m-ln94200-71-p1s1w3">
 <src.rf>manual</src.rf>
@@ -239,7 +242,10 @@
 <LM>w#w-ln94200-71-p2s1Bw20</LM>
 </w.rf>
 <form>Karolina</form>
-<tag lemma="Karolínum" src="orig" selected="1">NNNS2-----A----</tag>
+<tag>
+<AM lemma="Karolínum" src="orig">NNNS2-----A----</AM>
+<AM lemma="Karolinum" src="manual" selected="1">NNNS2-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94200-71-p2s1Bw21">
 <src.rf>manual</src.rf>
@@ -417,7 +423,10 @@
 <LM>w#w-ln94200-71-p2s2w9</LM>
 </w.rf>
 <form>kurzu</form>
-<tag lemma="kurs" src="auto" selected="1">NNIS2-----A----</tag>
+<tag>
+<AM lemma="kurs" src="auto">NNIS2-----A----</AM>
+<AM lemma="kurz" src="manual" selected="1">NNIS2-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94200-71-p2s2w10">
 <src.rf>manual</src.rf>
@@ -499,7 +508,10 @@
 <LM>w#w-ln94200-71-p2s3w9</LM>
 </w.rf>
 <form>již</form>
-<tag lemma="již-1" src="auto" selected="1">Db-------------</tag>
+<tag>
+<AM lemma="již-1" src="auto">Db-------------</AM>
+<AM lemma="již-2" src="manual" selected="1">TT-------------</AM>
+</tag>
 </m>
 <m id="m-ln94200-71-p2s3w10">
 <src.rf>manual</src.rf>
@@ -693,7 +705,10 @@
 <LM>w#w-ln94200-71-p2s4w13</LM>
 </w.rf>
 <form>i</form>
-<tag lemma="i-1" src="orig" selected="1">J^-------------</tag>
+<tag>
+<AM lemma="i-1" src="orig">J^-------------</AM>
+<AM lemma="i-2" src="manual" selected="1">TT-------------</AM>
+</tag>
 </m>
 <m id="m-ln94200-71-p2s4w14">
 <src.rf>manual</src.rf>
@@ -735,7 +750,10 @@
 <LM>w#w-ln94200-71-p2s5w3</LM>
 </w.rf>
 <form>přijely</form>
-<tag lemma="přijet" src="auto" selected="1">VpTP---XR-AA---</tag>
+<tag>
+<AM lemma="přijet" src="auto">VpTP---XR-AA---</AM>
+<AM lemma="přijet_:W" src="manual" selected="1">VpTP---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-ln94200-71-p2s5w4">
 <src.rf>manual</src.rf>
@@ -810,6 +828,7 @@
 <tag>
 <AM lemma="USA_;G" src="orig">NNIPX-----A----</AM>
 <AM lemma="USA_:B_;K_,t_^(United_States_of_America)" src="auto" recommended="1">NNIPX-----A---8</AM>
+<AM lemma="USA_:B_;K_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94200-71-p2s5w13">

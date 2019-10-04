@@ -167,7 +167,10 @@
 <LM>w#w-ln94208-37-p2s1Bw9</LM>
 </w.rf>
 <form>Vorálka</form>
-<tag lemma="Vorálek" src="auto" selected="1">NNMS2-----A----</tag>
+<tag>
+<AM lemma="Vorálek" src="auto">NNMS2-----A----</AM>
+<AM lemma="Vorálek_;S" src="manual" selected="1">NNMS2-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94208-37-p2s1Bw10">
 <src.rf>manual</src.rf>
@@ -345,7 +348,10 @@
 <LM>w#w-ln94208-37-p2s2w5</LM>
 </w.rf>
 <form>SPR</form>
-<tag lemma="SPR-1_:B_;K_;p_^(Sdružení_pro_republiku)" src="orig" selected="1">NNNXX-----A---8</tag>
+<tag>
+<AM lemma="SPR-1_:B_;K_;p_^(Sdružení_pro_republiku)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="SPR-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94208-37-p2s2w6">
 <src.rf>manual</src.rf>
@@ -361,7 +367,10 @@
 <LM>w#w-ln94208-37-p2s2w7</LM>
 </w.rf>
 <form>RSČ</form>
-<tag lemma="RSČ-1_:B_;K_;p_^(Republikánská_strana_Československa)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="RSČ-1_:B_;K_;p_^(Republikánská_strana_Československa)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="RSČ-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94208-37-p2s2w8">
 <src.rf>manual</src.rf>
@@ -477,7 +486,7 @@
 <form>nejen</form>
 <tag>
 <AM lemma="nejen" src="orig">TT-------------</AM>
-<AM lemma="nejen" src="auto" recommended="1">Db-------------</AM>
+<AM lemma="nejen" src="auto" recommended="1" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m-ln94208-37-p2s3w11">
@@ -856,7 +865,10 @@
 <LM>w#w-ln94208-37-p2s4w3</LM>
 </w.rf>
 <form>li</form>
-<tag lemma="li-1" src="auto" selected="1">TT-------------</tag>
+<tag>
+<AM lemma="li-1" src="auto">TT-------------</AM>
+<AM lemma="li-2" src="manual" selected="1">J,-------------</AM>
+</tag>
 </m>
 <m id="m-ln94208-37-p2s4w4">
 <src.rf>manual</src.rf>
@@ -896,7 +908,10 @@
 <LM>w#w-ln94208-37-p2s4w8</LM>
 </w.rf>
 <form>Vorálek</form>
-<tag lemma="Vorálek" src="auto" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Vorálek" src="auto">NNMS1-----A----</AM>
+<AM lemma="Vorálek_;S" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94208-37-p2s4w9">
 <src.rf>manual</src.rf>

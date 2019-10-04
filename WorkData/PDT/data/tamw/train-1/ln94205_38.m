@@ -35,7 +35,10 @@
 <LM>w#w-ln94205-38-p1s1w3</LM>
 </w.rf>
 <form>oči</form>
-<tag lemma="oko" src="orig" selected="1">NNFP4-----A----</tag>
+<tag>
+<AM lemma="oko" src="orig">NNFP4-----A----</AM>
+<AM lemma="oko-2" src="manual" selected="1">NNFP4-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94205-38-p1s1w4">
 <src.rf>manual</src.rf>
@@ -98,7 +101,7 @@
 <AM lemma="Sedlčany_;G" src="auto" recommended="1">NNIP1-----A----</AM>
 <AM lemma="Sedlčany_;G" src="auto">NNIP4-----A----</AM>
 <AM lemma="Sedlčany_;G" src="auto">NNIP5-----A----</AM>
-<AM lemma="Sedlčany_;G" src="auto">NNIP7-----A----</AM>
+<AM lemma="Sedlčany_;G" src="auto" selected="1">NNIP7-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94205-38-p2s1w6">
@@ -181,7 +184,10 @@
 <LM>w#w-ln94205-38-p2s2w5</LM>
 </w.rf>
 <form>maraton</form>
-<tag lemma="maraton" src="orig" selected="1">NNIS4-----A----</tag>
+<tag>
+<AM lemma="maraton" src="orig">NNIS4-----A----</AM>
+<AM lemma="maraton_,s_^(^DD**maratón)" src="manual" selected="1">NNIS4-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94205-38-p2s2w6">
 <src.rf>manual</src.rf>
@@ -997,7 +1003,10 @@
 <LM>w#w-ln94205-38-p2s6w41</LM>
 </w.rf>
 <form>oči</form>
-<tag lemma="oko" src="orig" selected="1">NNFP4-----A----</tag>
+<tag>
+<AM lemma="oko" src="orig">NNFP4-----A----</AM>
+<AM lemma="oko-2" src="manual" selected="1">NNFP4-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94205-38-p2s6w42">
 <src.rf>manual</src.rf>
@@ -1151,7 +1160,10 @@
 <LM>w#w-ln94205-38-p2s7w2</LM>
 </w.rf>
 <form>okř</form>
-<tag lemma="okř-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="okř-99_:B_;S" src="orig">NNXXX-----A---8</AM>
+<AM lemma="okř-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94205-38-p2s7w3">
 <src.rf>manual</src.rf>

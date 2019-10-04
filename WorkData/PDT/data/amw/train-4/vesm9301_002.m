@@ -751,7 +751,7 @@
 <form>jakákoliv</form>
 <tag>
 <AM lemma="jakýkoliv" src="orig">PZFS1----------</AM>
-<AM lemma="jakýkoli" src="auto" recommended="1">PZFS1---------1</AM>
+<AM lemma="jakýkoli" src="auto" recommended="1" selected="1">PZFS1---------1</AM>
 <AM lemma="jakýkoli" src="auto">PZFS5---------1</AM>
 <AM lemma="jakýkoli" src="auto">PZNP1---------1</AM>
 <AM lemma="jakýkoli" src="auto">PZNP4---------1</AM>
@@ -852,7 +852,7 @@
 <AM lemma="únosný" src="auto">AANP1----1N---6</AM>
 <AM lemma="únosný" src="auto">AANP4----1N---6</AM>
 <AM lemma="únosný" src="auto">AANP5----1N---6</AM>
-<AM lemma="únosný" src="auto" recommended="1">AANS1----1N----</AM>
+<AM lemma="únosný" src="auto" recommended="1" selected="1">AANS1----1N----</AM>
 <AM lemma="únosný" src="auto">AANS4----1N----</AM>
 <AM lemma="únosný" src="auto">AANS5----1N----</AM>
 </tag>
@@ -2297,7 +2297,7 @@
 <form>Antarktidu</form>
 <tag>
 <AM lemma="antarktida" src="orig">NNFS4-----A----</AM>
-<AM lemma="Antarktida" src="auto" recommended="1">NNFS4-----A----</AM>
+<AM lemma="Antarktida" src="auto" recommended="1" selected="1">NNFS4-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9301-002-p5s5w5">
@@ -3500,7 +3500,10 @@
 <LM>w#w-vesm9301-002-p7s1w14</LM>
 </w.rf>
 <form>prof</form>
-<tag lemma="profesor_:B" src="orig" selected="1">NNMXX-----A---8</tag>
+<tag>
+<AM lemma="profesor_:B" src="orig">NNMXX-----A---8</AM>
+<AM lemma="prof_:B_^(profesor)" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-vesm9301-002-p7s1w15">
 <src.rf>manual</src.rf>
@@ -4041,7 +4044,7 @@
 <tag>
 <AM lemma="tedy" src="orig">Db-------------</AM>
 <AM lemma="tedy-1" src="auto">TT-------------</AM>
-<AM lemma="tedy-2" src="auto" recommended="1">J^-------------</AM>
+<AM lemma="tedy-2" src="auto" recommended="1" selected="1">J^-------------</AM>
 </tag>
 </m>
 <m id="m-vesm9301-002-p12s1w4">

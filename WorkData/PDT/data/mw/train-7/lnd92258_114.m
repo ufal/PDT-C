@@ -109,7 +109,10 @@
 <LM>w#w-lnd92258-114-p2s1w10</LM>
 </w.rf>
 <form>DANIELLE</form>
-<tag lemma="Danielle_;Y_,t" src="orig" selected="1">NNFXX-----A----</tag>
+<tag>
+<AM lemma="Danielle_;Y_,t" src="orig">NNFXX-----A----</AM>
+<AM lemma="Danielle_;Y" src="manual" selected="1">NNFXX-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92258-114-p2s1w11">
 <src.rf>manual</src.rf>
@@ -530,7 +533,10 @@
 <LM>w#w-lnd92258-114-p2s3w6</LM>
 </w.rf>
 <form>D</form>
-<tag lemma="D-0_:B_;Y" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="D-0_:B_;Y" src="orig">NNFXX-----A---8</AM>
+<AM lemma="D-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd92258-114-p2s3w7">
 <src.rf>manual</src.rf>
@@ -1506,7 +1512,10 @@
 <LM>w#w-lnd92258-114-p2s7w20</LM>
 </w.rf>
 <form>D</form>
-<tag lemma="D-0_:B_;Y" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="D-0_:B_;Y" src="orig">NNFXX-----A---8</AM>
+<AM lemma="D-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd92258-114-p2s7w21">
 <src.rf>manual</src.rf>

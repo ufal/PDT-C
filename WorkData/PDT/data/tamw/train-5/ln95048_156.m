@@ -209,7 +209,10 @@
 <LM>w#w-ln95048-156-p2s2w4</LM>
 </w.rf>
 <form>Financial</form>
-<tag lemma="Financial_;R_,t" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="Financial_;R_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="Financial-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln95048-156-p2s2w5">
 <src.rf>manual</src.rf>
@@ -217,7 +220,10 @@
 <LM>w#w-ln95048-156-p2s2w5</LM>
 </w.rf>
 <form>Times</form>
-<tag lemma="Times-1_;K_,t_^(souč._názvů,_např._The_Times)" src="orig" selected="1">NNIPX-----A----</tag>
+<tag>
+<AM lemma="Times-1_;K_,t_^(souč._názvů,_např._The_Times)" src="orig">NNIPX-----A----</AM>
+<AM lemma="Times-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln95048-156-p2s2w6">
 <src.rf>manual</src.rf>
@@ -298,7 +304,10 @@
 <LM>w#w-ln95048-156-p2s2w15</LM>
 </w.rf>
 <form>USD</form>
-<tag lemma="USD_:B_;b_^(U.S._dolar)" src="auto" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="USD_:B_;b_^(U.S._dolar)" src="auto">NNIXX-----A---8</AM>
+<AM lemma="USD_:B_^(U.S._dolar)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95048-156-p2s2w16">
 <src.rf>manual</src.rf>
@@ -715,7 +724,7 @@
 </w.rf>
 <form>Timer</form>
 <tag>
-<AM lemma="Timer_;S" src="orig">NNMS1-----A----</AM>
+<AM lemma="Timer_;S" src="orig" selected="1">NNMS1-----A----</AM>
 <AM lemma="timer" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="timer" src="auto">NNIS4-----A----</AM>
 </tag>

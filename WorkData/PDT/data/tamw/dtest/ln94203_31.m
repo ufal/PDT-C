@@ -91,7 +91,10 @@
 <LM>w#w-ln94203-31-p1s1w10</LM>
 </w.rf>
 <form>COMPACTA</form>
-<tag lemma="Compacta_;R_,t" src="orig" selected="1">NNFS1-----A----</tag>
+<tag>
+<AM lemma="Compacta_;R_,t" src="orig">NNFS1-----A----</AM>
+<AM lemma="Compacta_;R" src="manual" selected="1">NNFS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94203-31-p1s1w11">
 <src.rf>manual</src.rf>
@@ -147,7 +150,10 @@
 <LM>w#w-ln94203-31-p1s1w17</LM>
 </w.rf>
 <form>Albert</form>
-<tag lemma="Albert-1_;Y_,t" src="auto" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Albert-1_;Y_,t" src="auto">NNMS1-----A----</AM>
+<AM lemma="Albert-1_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94203-31-p1s1w18">
 <src.rf>manual</src.rf>
@@ -253,7 +259,10 @@
 <LM>w#w-ln94203-31-p1s2w12</LM>
 </w.rf>
 <form>zahájen</form>
-<tag lemma="zahájit" src="auto" selected="1">VsYS---XX-AP---</tag>
+<tag>
+<AM lemma="zahájit" src="auto">VsYS---XX-AP---</AM>
+<AM lemma="zahájit_:W" src="manual" selected="1">VsYS---XX-AP---</AM>
+</tag>
 </m>
 <m id="m-ln94203-31-p1s2w13">
 <src.rf>manual</src.rf>
@@ -303,7 +312,10 @@
 <LM>w#w-ln94203-31-p1s3w5</LM>
 </w.rf>
 <form>LN</form>
-<tag lemma="LN-1_:B_;R_^(Lidové_noviny,_deník)" src="orig" selected="1">NNFPX-----A---8</tag>
+<tag>
+<AM lemma="LN-1_:B_;R_^(Lidové_noviny,_deník)" src="orig">NNFPX-----A---8</AM>
+<AM lemma="LN-1_:B_;K_;R_^(Lidové_noviny,_deník)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 </s>
 </mdata>

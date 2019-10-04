@@ -269,7 +269,10 @@
 <LM>w#w-mf920922-132-p3s1Cw19</LM>
 </w.rf>
 <form>Akbar</form>
-<tag lemma="Akbar_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Akbar_;S" src="orig">NNMS1-----A----</AM>
+<AM lemma="Akbar_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920922-132-p3s1Cw20">
 <src.rf>manual</src.rf>

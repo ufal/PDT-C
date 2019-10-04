@@ -83,7 +83,10 @@
 <LM>w#w-lnd92253-043-p1s1w9</LM>
 </w.rf>
 <form>UNITA</form>
-<tag lemma="UNITA_:B_;K_;p_^(partyz._org._v_Angole)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="UNITA_:B_;K_;p_^(partyz._org._v_Angole)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="UNITA-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd92253-043-p1s1w10">
 <src.rf>manual</src.rf>
@@ -147,7 +150,10 @@
 <LM>w#w-lnd92253-043-p1s1w17</LM>
 </w.rf>
 <form>Jonas</form>
-<tag lemma="Jonas_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Jonas_;S" src="orig">NNMS1-----A----</AM>
+<AM lemma="Jonas_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92253-043-p1s1w18">
 <src.rf>manual</src.rf>
@@ -323,7 +329,10 @@
 <LM>w#w-lnd92253-043-p1s1w39</LM>
 </w.rf>
 <form>OSN</form>
-<tag lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92253-043-p1s1w40">
 <src.rf>manual</src.rf>

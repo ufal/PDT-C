@@ -69,7 +69,10 @@
 <LM>w#w-ln94201-63-p1s2w2</LM>
 </w.rf>
 <form>LN</form>
-<tag lemma="LN-1_:B_;R_^(Lidové_noviny,_deník)" src="orig" selected="1">NNFPX-----A---8</tag>
+<tag>
+<AM lemma="LN-1_:B_;R_^(Lidové_noviny,_deník)" src="orig">NNFPX-----A---8</AM>
+<AM lemma="LN-1_:B_;K_;R_^(Lidové_noviny)" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln94201-63-p1s2w3">
 <src.rf>manual</src.rf>
@@ -769,7 +772,10 @@
 <LM>w#w-ln94201-63-p3s4w3</LM>
 </w.rf>
 <form>NsP</form>
-<tag lemma="NsP_:B" src="auto" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="NsP_:B" src="auto">NNXXX-----A---8</AM>
+<AM lemma="NsP-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln94201-63-p3s4w4">
 <src.rf>manual</src.rf>
@@ -1021,7 +1027,7 @@
 <form>snad</form>
 <tag>
 <AM lemma="snad" src="orig">Db-------------</AM>
-<AM lemma="snad" src="auto" recommended="1">TT-------------</AM>
+<AM lemma="snad" src="auto" recommended="1" selected="1">TT-------------</AM>
 </tag>
 </m>
 <m id="m-ln94201-63-p4s1w19">

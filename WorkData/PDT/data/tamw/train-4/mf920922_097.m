@@ -59,7 +59,10 @@
 <LM>w#w-mf920922-097-p1s1w6</LM>
 </w.rf>
 <form>jen</form>
-<tag lemma="jen-1" src="auto" selected="1">TT-------------</tag>
+<tag>
+<AM lemma="jen-1" src="auto">TT-------------</AM>
+<AM lemma="jen-4_^(pouze)" src="manual" selected="1">Db-------------</AM>
+</tag>
 </m>
 <m id="m-mf920922-097-p1s1w7">
 <src.rf>manual</src.rf>
@@ -109,7 +112,10 @@
 <LM>w#w-mf920922-097-p2s1w3</LM>
 </w.rf>
 <form>kw</form>
-<tag lemma="kw-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="kw-99_:B_;S" src="orig">NNXXX-----A---8</AM>
+<AM lemma="kw-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920922-097-p2s1w4">
 <src.rf>manual</src.rf>
@@ -255,7 +261,10 @@
 <LM>w#w-mf920922-097-p2s2w16</LM>
 </w.rf>
 <form>SNR</form>
-<tag lemma="SNR-1_:B_;K_^(Slovenská_národní_rada)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="SNR-1_:B_;K_^(Slovenská_národní_rada)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="SNR-1_:B_;K_^(Slovenská_národní_rada)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920922-097-p2s2w17">
 <src.rf>manual</src.rf>
@@ -361,7 +370,10 @@
 <LM>w#w-mf920922-097-p2s3w5</LM>
 </w.rf>
 <form>SNR</form>
-<tag lemma="SNR-1_:B_;K_^(Slovenská_národní_rada)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="SNR-1_:B_;K_^(Slovenská_národní_rada)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="SNR-1_:B_;K_^(Slovenská_národní_rada)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920922-097-p2s3w6">
 <src.rf>manual</src.rf>
@@ -418,7 +430,7 @@
 </w.rf>
 <form>Polka</form>
 <tag>
-<AM lemma="Polka_;S" src="orig">NNMS1-----A----</AM>
+<AM lemma="Polka_;S" src="orig" selected="1">NNMS1-----A----</AM>
 <AM lemma="Polk_;S" src="auto">NNMS2-----A----</AM>
 <AM lemma="Polk_;S" src="auto">NNMS4-----A----</AM>
 <AM lemma="Polka_;E" src="auto">NNFS1-----A----</AM>
@@ -465,7 +477,10 @@
 <LM>w#w-mf920922-097-p2s4w4</LM>
 </w.rf>
 <form>L</form>
-<tag lemma="L-0_:B_;Y" src="orig" selected="1">NNMXX-----A---8</tag>
+<tag>
+<AM lemma="L-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
+<AM lemma="L-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920922-097-p2s4w5">
 <src.rf>manual</src.rf>
@@ -482,7 +497,7 @@
 </w.rf>
 <form>Polka</form>
 <tag>
-<AM lemma="Polka_;S" src="orig">NNMS1-----A----</AM>
+<AM lemma="Polka_;S" src="orig" selected="1">NNMS1-----A----</AM>
 <AM lemma="Polk_;S" src="auto">NNMS2-----A----</AM>
 <AM lemma="Polk_;S" src="auto" recommended="1">NNMS4-----A----</AM>
 <AM lemma="Polka_;E" src="auto">NNFS1-----A----</AM>
@@ -559,7 +574,10 @@
 <LM>w#w-mf920922-097-p2s4w15</LM>
 </w.rf>
 <form>rowdies</form>
-<tag lemma="rowdies" src="orig" selected="1">NNMPX-----A----</tag>
+<tag>
+<AM lemma="rowdies" src="orig">NNMPX-----A----</AM>
+<AM lemma="rowdies-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-mf920922-097-p2s4w16">
 <src.rf>manual</src.rf>
@@ -603,7 +621,7 @@
 <form>třeba</form>
 <tag>
 <AM lemma="třeba-1" src="orig">ACNS------A----</AM>
-<AM lemma="třeba-2" src="auto" recommended="1">Db-------------</AM>
+<AM lemma="třeba-2" src="auto" recommended="1" selected="1">Db-------------</AM>
 <AM lemma="třeba-3" src="auto">TT-------------</AM>
 </tag>
 </m>
@@ -719,7 +737,10 @@
 <LM>w#w-mf920922-097-p2s5Bw4</LM>
 </w.rf>
 <form>řekl</form>
-<tag lemma="říci" src="auto" selected="1">VpYS---XR-AA---</tag>
+<tag>
+<AM lemma="říci" src="auto">VpYS---XR-AA---</AM>
+<AM lemma="říci_:W" src="manual" selected="1">VpYS---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-mf920922-097-p2s5Bw5">
 <src.rf>manual</src.rf>
@@ -1001,7 +1022,10 @@
 <LM>w#w-mf920922-097-p2s6Aw10</LM>
 </w.rf>
 <form>nejvíc</form>
-<tag lemma="hodně-2" src="auto" selected="1">Dg-------3A---1</tag>
+<tag>
+<AM lemma="hodně-2" src="auto">Dg-------3A---1</AM>
+<AM lemma="hodně-3" src="manual" selected="1">Dg-------3A---1</AM>
+</tag>
 </m>
 <m id="m-mf920922-097-p2s6Aw11">
 <src.rf>manual</src.rf>
@@ -1060,7 +1084,7 @@
 </w.rf>
 <form>Polka</form>
 <tag>
-<AM lemma="Polka_;S" src="orig">NNMS1-----A----</AM>
+<AM lemma="Polka_;S" src="orig" selected="1">NNMS1-----A----</AM>
 <AM lemma="Polk_;S" src="auto">NNMS2-----A----</AM>
 <AM lemma="Polk_;S" src="auto">NNMS4-----A----</AM>
 <AM lemma="Polka_;E" src="auto" recommended="1">NNFS1-----A----</AM>
@@ -1220,7 +1244,7 @@
 <tag>
 <AM lemma="tedy" src="orig">Db-------------</AM>
 <AM lemma="tedy-1" src="auto">TT-------------</AM>
-<AM lemma="tedy-2" src="auto" recommended="1">J^-------------</AM>
+<AM lemma="tedy-2" src="auto" recommended="1" selected="1">J^-------------</AM>
 </tag>
 </m>
 <m id="m-mf920922-097-p2s6Bw22">
@@ -1425,7 +1449,10 @@
 <LM>w#w-mf920922-097-p2s8w2</LM>
 </w.rf>
 <form>uvedl</form>
-<tag lemma="uvést" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag>
+<AM lemma="uvést" src="orig">VpYS---XR-AA---</AM>
+<AM lemma="uvést_:W" src="manual" selected="1">VpYS---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-mf920922-097-p2s8w3">
 <src.rf>manual</src.rf>
@@ -1489,7 +1516,10 @@
 <LM>w#w-mf920922-097-p2s8w10</LM>
 </w.rf>
 <form>jen</form>
-<tag lemma="jen-1" src="auto" selected="1">TT-------------</tag>
+<tag>
+<AM lemma="jen-1" src="auto">TT-------------</AM>
+<AM lemma="jen-4_^(pouze)" src="manual" selected="1">Db-------------</AM>
+</tag>
 </m>
 <m id="m-mf920922-097-p2s8w11">
 <src.rf>manual</src.rf>
@@ -1589,7 +1619,7 @@
 <form>ovšem</form>
 <tag>
 <AM lemma="ovšem-1_^(avšak,_však;_odporovací_spojka)" src="orig">J^-------------</AM>
-<AM lemma="ovšem" src="auto" recommended="1">TT-------------</AM>
+<AM lemma="ovšem" src="auto" recommended="1" selected="1">TT-------------</AM>
 </tag>
 </m>
 <m id="m-mf920922-097-p2s9w4">
@@ -1854,7 +1884,10 @@
 <LM>w#w-mf920922-097-p2s9w36</LM>
 </w.rf>
 <form>L</form>
-<tag lemma="L-0_:B_;Y" src="orig" selected="1">NNMXX-----A---8</tag>
+<tag>
+<AM lemma="L-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
+<AM lemma="L-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920922-097-p2s9w37">
 <src.rf>manual</src.rf>
@@ -1871,7 +1904,7 @@
 </w.rf>
 <form>Polka</form>
 <tag>
-<AM lemma="Polka_;S" src="orig">NNMS1-----A----</AM>
+<AM lemma="Polka_;S" src="orig" selected="1">NNMS1-----A----</AM>
 <AM lemma="Polk_;S" src="auto" recommended="1">NNMS2-----A----</AM>
 <AM lemma="Polk_;S" src="auto">NNMS4-----A----</AM>
 <AM lemma="Polka_;E" src="auto">NNFS1-----A----</AM>

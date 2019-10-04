@@ -603,7 +603,10 @@
 <LM>w#w-mf920922-135-p2s4w4</LM>
 </w.rf>
 <form>Douglas</form>
-<tag lemma="Douglas-2_;S" src="auto" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Douglas-2_;S" src="auto">NNMS1-----A----</AM>
+<AM lemma="Douglas-2_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920922-135-p2s4w5">
 <src.rf>manual</src.rf>
@@ -667,7 +670,10 @@
 <LM>w#w-mf920922-135-p2s4w12</LM>
 </w.rf>
 <form>vyhnout</form>
-<tag lemma="vyhnout" src="orig" selected="1">Vf--------A----</tag>
+<tag>
+<AM lemma="vyhnout" src="orig">Vf--------A----</AM>
+<AM lemma="vyhnout_:W" src="manual" selected="1">Vf--------A----</AM>
+</tag>
 </m>
 <m id="m-mf920922-135-p2s4w13">
 <src.rf>manual</src.rf>
@@ -842,7 +848,7 @@
 <tag>
 <AM lemma="tedy" src="orig">Db-------------</AM>
 <AM lemma="tedy-1" src="auto" recommended="1">TT-------------</AM>
-<AM lemma="tedy-2" src="auto">J^-------------</AM>
+<AM lemma="tedy-2" src="auto" selected="1">J^-------------</AM>
 </tag>
 </m>
 <m id="m-mf920922-135-p2s6w3">
@@ -2147,7 +2153,10 @@
 <LM>w#w-mf920922-135-p2s14w17</LM>
 </w.rf>
 <form>ES</form>
-<tag lemma="ES_:B_;K_^(Evropská_společenství)" src="orig" selected="1">NNNXX-----A---8</tag>
+<tag>
+<AM lemma="ES_:B_;K_^(Evropská_společenství)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="ES-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920922-135-p2s14w18">
 <src.rf>manual</src.rf>

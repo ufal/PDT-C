@@ -231,7 +231,10 @@
 <LM>w#w-cmpr9406-062-p3s1Bw10</LM>
 </w.rf>
 <form>nejvíce</form>
-<tag lemma="hodně-2" src="auto" selected="1">Dg-------3A----</tag>
+<tag>
+<AM lemma="hodně-2" src="auto">Dg-------3A----</AM>
+<AM lemma="hodně-3" src="manual" selected="1">Dg-------3A----</AM>
+</tag>
 </m>
 <m id="m-cmpr9406-062-p3s1Bw11">
 <src.rf>manual</src.rf>

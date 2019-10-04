@@ -120,7 +120,10 @@
 <LM>w#w-ln95049-124-p2s1Bw3</LM>
 </w.rf>
 <form>Lech</form>
-<tag lemma="Lech_;Y_,t" src="auto" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Lech_;Y_,t" src="auto">NNMS1-----A----</AM>
+<AM lemma="Lech_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95049-124-p2s1Bw4">
 <src.rf>manual</src.rf>
@@ -257,7 +260,10 @@
 <LM>w#w-ln95049-124-p2s1Bw20</LM>
 </w.rf>
 <form>Sejmu</form>
-<tag lemma="Sejm_;K_,t" src="orig" selected="1">NNIS2-----A----</tag>
+<tag>
+<AM lemma="Sejm_;K_,t" src="orig">NNIS2-----A----</AM>
+<AM lemma="Sejm_;K" src="manual" selected="1">NNIS2-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95049-124-p2s1Bw21">
 <src.rf>manual</src.rf>
@@ -443,7 +449,10 @@
 <LM>w#w-ln95049-124-p2s2w20</LM>
 </w.rf>
 <form>resortů</form>
-<tag lemma="resort" src="orig" selected="1">NNIP2-----A----</tag>
+<tag>
+<AM lemma="resort" src="orig">NNIP2-----A----</AM>
+<AM lemma="resort_,s_^(^DD**rezort)" src="manual" selected="1">NNIP2-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95049-124-p2s2w21">
 <src.rf>manual</src.rf>
@@ -632,7 +641,7 @@
 <form>třeba</form>
 <tag>
 <AM lemma="třeba-1" src="orig">ACNS------A----</AM>
-<AM lemma="třeba-2" src="auto" recommended="1">Db-------------</AM>
+<AM lemma="třeba-2" src="auto" recommended="1" selected="1">Db-------------</AM>
 <AM lemma="třeba-3" src="auto">TT-------------</AM>
 </tag>
 </m>
@@ -666,7 +675,10 @@
 <LM>w#w-ln95049-124-p2s3w27</LM>
 </w.rf>
 <form>resorty</form>
-<tag lemma="resort" src="orig" selected="1">NNIP4-----A----</tag>
+<tag>
+<AM lemma="resort" src="orig">NNIP4-----A----</AM>
+<AM lemma="resort_,s_^(^DD**rezort)" src="manual" selected="1">NNIP4-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95049-124-p2s3w28">
 <src.rf>manual</src.rf>
@@ -959,7 +971,10 @@
 <LM>w#w-ln95049-124-p2s5w19</LM>
 </w.rf>
 <form>Lechem</form>
-<tag lemma="Lech_;Y_,t" src="auto" selected="1">NNMS7-----A----</tag>
+<tag>
+<AM lemma="Lech_;Y_,t" src="auto">NNMS7-----A----</AM>
+<AM lemma="Lech_;Y" src="manual" selected="1">NNMS7-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95049-124-p2s5w20">
 <src.rf>manual</src.rf>
@@ -1157,7 +1172,10 @@
 <LM>w#w-ln95049-124-p2s7w8</LM>
 </w.rf>
 <form>Sejm</form>
-<tag lemma="Sejm_;K_,t" src="orig" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="Sejm_;K_,t" src="orig">NNIS1-----A----</AM>
+<AM lemma="Sejm_;K" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95049-124-p2s7w9">
 <src.rf>manual</src.rf>
@@ -1239,7 +1257,10 @@
 <LM>w#w-ln95049-124-p2s8w6</LM>
 </w.rf>
 <form>tzv</form>
-<tag lemma="takzvaný_:B" src="orig" selected="1">AAXXX----1A---8</tag>
+<tag>
+<AM lemma="takzvaný_:B" src="orig">AAXXX----1A---8</AM>
+<AM lemma="takzvaný" src="manual" selected="1">AAXXX----1A---8</AM>
+</tag>
 </m>
 <m id="m-ln95049-124-p2s8w7">
 <src.rf>manual</src.rf>

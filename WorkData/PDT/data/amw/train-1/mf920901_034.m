@@ -61,7 +61,10 @@
 <LM>w#w-mf920901-034-p2s1w3</LM>
 </w.rf>
 <form>nak</form>
-<tag lemma="nak-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="nak-99_:B_;S" src="orig">NNXXX-----A---8</AM>
+<AM lemma="nak-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920901-034-p2s1w4">
 <src.rf>manual</src.rf>
@@ -178,6 +181,7 @@
 <tag>
 <AM lemma="Bors_;S" src="orig">NNMS2-----A----</AM>
 <AM lemma="Bors_;Y" src="auto" recommended="1">NNMS5-----A----</AM>
+<AM lemma="Bors-2_;S" src="manual" selected="1">NNMS2-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920901-034-p2s2w13">
@@ -879,6 +883,7 @@
 <AM lemma="nacizmus" src="auto" recommended="1">NNIS2-----A----</AM>
 <AM lemma="nacizmus" src="auto">NNIS3-----A----</AM>
 <AM lemma="nacizmus" src="auto">NNIS6-----A----</AM>
+<AM lemma="nacismus_,s_^(^DD**nacizmus)" src="manual" selected="1">NNIS2-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920901-034-p3s1w19">

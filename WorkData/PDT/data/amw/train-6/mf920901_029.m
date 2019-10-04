@@ -433,7 +433,10 @@
 <LM>w#w-mf920901-029-p3s3w20</LM>
 </w.rf>
 <form>Young</form>
-<tag lemma="Young_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Young_;S" src="orig">NNMS1-----A----</AM>
+<AM lemma="Young-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-mf920901-029-p3s3w21">
 <src.rf>manual</src.rf>
@@ -441,7 +444,10 @@
 <LM>w#w-mf920901-029-p3s3w21</LM>
 </w.rf>
 <form>Gods</form>
-<tag lemma="God_;K_,t" src="orig" selected="1">NNMPX-----A----</tag>
+<tag>
+<AM lemma="God_;K_,t" src="orig">NNMPX-----A----</AM>
+<AM lemma="Gods-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-mf920901-029-p3s3w22">
 <src.rf>manual</src.rf>
@@ -632,6 +638,7 @@
 <tag>
 <AM lemma="Faith_;K_,t" src="orig">NNFXX-----A----</AM>
 <AM lemma="Faith_;Y" src="auto" recommended="1">NNFSX-----A----</AM>
+<AM lemma="Faith-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-mf920901-029-p3s5w11">
@@ -640,7 +647,10 @@
 <LM>w#w-mf920901-029-p3s5w11</LM>
 </w.rf>
 <form>No</form>
-<tag lemma="no" src="orig" selected="1">TT-------------</tag>
+<tag>
+<AM lemma="no" src="orig">TT-------------</AM>
+<AM lemma="No-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-mf920901-029-p3s5w12">
 <src.rf>manual</src.rf>
@@ -655,6 +665,7 @@
 <AM lemma="More_;S" src="auto">NNMS1-----A----</AM>
 <AM lemma="More_;S" src="auto">NNMS5-----A----</AM>
 <AM lemma="mor" src="auto">NNIS5-----A----</AM>
+<AM lemma="More-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-mf920901-029-p3s5w13">
@@ -690,6 +701,7 @@
 <AM lemma="l-8_:B_^(ost._zkratka)" src="auto">XX------------8</AM>
 <AM lemma="letopočet_:B_^(jen_př._n._l.,_před_naším_letopočtem)" src="auto">NNIS7-----A---8</AM>
 <AM lemma="litr_:B" src="auto">NNIXX-----A---8</AM>
+<AM lemma="L-33_^(označení_pomocí_písmene)" src="manual" selected="1">NNNXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920901-029-p3s5w15">
@@ -898,7 +910,10 @@
 <LM>w#w-mf920901-029-p3s5w40</LM>
 </w.rf>
 <form>Sonic</form>
-<tag lemma="Sonic_;K_,t" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="Sonic_;K_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="Sonic-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-mf920901-029-p3s5w41">
 <src.rf>manual</src.rf>
@@ -906,7 +921,10 @@
 <LM>w#w-mf920901-029-p3s5w41</LM>
 </w.rf>
 <form>Youth</form>
-<tag lemma="Youth_;K_,t" src="orig" selected="1">NNFXX-----A----</tag>
+<tag>
+<AM lemma="Youth_;K_,t" src="orig">NNFXX-----A----</AM>
+<AM lemma="Youth-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-mf920901-029-p3s5w42">
 <src.rf>manual</src.rf>

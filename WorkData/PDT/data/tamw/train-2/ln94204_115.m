@@ -21,7 +21,7 @@
 <form>Nalezeno</form>
 <tag>
 <AM lemma="naleznout" src="orig">VsNS---XX-AP---</AM>
-<AM lemma="nalézt-2" src="auto" recommended="1">VsNS---XX-AP---</AM>
+<AM lemma="nalézt-2" src="auto" recommended="1" selected="1">VsNS---XX-AP---</AM>
 </tag>
 </m>
 <m id="m-ln94204-115-p1s1w2">
@@ -38,7 +38,10 @@
 <LM>w#w-ln94204-115-p1s1w3</LM>
 </w.rf>
 <form>Ketila</form>
-<tag lemma="Ketil_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag>
+<AM lemma="Ketil_;S" src="orig">NNMS2-----A----</AM>
+<AM lemma="Ketil_;S_;Y" src="manual" selected="1">NNMS2-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94204-115-p1s1w4">
 <src.rf>manual</src.rf>
@@ -146,7 +149,10 @@
 <LM>w#w-ln94204-115-p2s1Bw10</LM>
 </w.rf>
 <form>Vegarda</form>
-<tag lemma="Vegard_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag>
+<AM lemma="Vegard_;S" src="orig">NNMS2-----A----</AM>
+<AM lemma="Vegard_;S_;Y" src="manual" selected="1">NNMS2-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94204-115-p2s1Bw11">
 <src.rf>manual</src.rf>
@@ -162,7 +168,10 @@
 <LM>w#w-ln94204-115-p2s1Bw12</LM>
 </w.rf>
 <form>Ketilovi</form>
-<tag lemma="Ketil_;S" src="orig" selected="1">NNMS6-----A----</tag>
+<tag>
+<AM lemma="Ketil_;S" src="orig">NNMS6-----A----</AM>
+<AM lemma="Ketil_;S_;Y" src="manual" selected="1">NNMS6-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94204-115-p2s1Bw13">
 <src.rf>manual</src.rf>
@@ -351,7 +360,7 @@
 <tag>
 <AM lemma="nalézt" src="orig">VpMP---XR-AA---</AM>
 <AM lemma="nalézt-1_^(někam)" src="auto" recommended="1">VpMP---XR-AA---</AM>
-<AM lemma="nalézt-2" src="auto">VpMP---XR-AA---</AM>
+<AM lemma="nalézt-2" src="auto" selected="1">VpMP---XR-AA---</AM>
 </tag>
 </m>
 <m id="m-ln94204-115-p2s2w6">
@@ -376,7 +385,10 @@
 <LM>w#w-ln94204-115-p2s2w8</LM>
 </w.rf>
 <form>Ketila</form>
-<tag lemma="Ketil_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag>
+<AM lemma="Ketil_;S" src="orig">NNMS2-----A----</AM>
+<AM lemma="Ketil_;S_;Y" src="manual" selected="1">NNMS2-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94204-115-p2s2w9">
 <src.rf>manual</src.rf>
@@ -546,7 +558,10 @@
 <LM>w#w-ln94204-115-p2s3w3</LM>
 </w.rf>
 <form>Ketilu</form>
-<tag lemma="Ketil_;S" src="orig" selected="1">NNMS6-----A---1</tag>
+<tag>
+<AM lemma="Ketil_;S" src="orig">NNMS6-----A---1</AM>
+<AM lemma="Ketil_;S_;Y" src="manual" selected="1">NNMS6-----A---1</AM>
+</tag>
 </m>
 <m id="m-ln94204-115-p2s3w4">
 <src.rf>manual</src.rf>
@@ -756,7 +771,10 @@
 <LM>w#w-ln94204-115-p2s4w5</LM>
 </w.rf>
 <form>km</form>
-<tag lemma="km-1`kilometr_:B" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="km-1`kilometr_:B" src="orig">NNIXX-----A---8</AM>
+<AM lemma="kilometr" src="manual" selected="1">NNIXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln94204-115-p2s4w6">
 <src.rf>manual</src.rf>

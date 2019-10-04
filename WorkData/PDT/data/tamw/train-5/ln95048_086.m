@@ -20,7 +20,7 @@
 </w.rf>
 <form>Kamský</form>
 <tag>
-<AM lemma="Kamský_;S" src="orig">NNMS1-----A----</AM>
+<AM lemma="Kamský_;S" src="orig" selected="1">NNMS1-----A----</AM>
 <AM lemma="kamský" src="auto">AAFP1----1A---6</AM>
 <AM lemma="kamský" src="auto">AAFP4----1A---6</AM>
 <AM lemma="kamský" src="auto">AAFP5----1A---6</AM>
@@ -120,7 +120,10 @@
 <LM>w#w-ln95048-086-p2s1w5</LM>
 </w.rf>
 <form>Sanghi</form>
-<tag lemma="Sanghi_;G" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="Sanghi_;G" src="orig">AAXXX----1A----</AM>
+<AM lemma="Sanghi-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln95048-086-p2s1w6">
 <src.rf>manual</src.rf>
@@ -134,6 +137,7 @@
 <AM lemma="Nagar_;G" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Nagar_;G" src="auto">NNIS4-----A----</AM>
 <AM lemma="nagara_;u_,t" src="auto">NNFP2-----A----</AM>
+<AM lemma="Nagar-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-ln95048-086-p2s1w7">
@@ -198,7 +202,10 @@
 <LM>w#w-ln95048-086-p2s1w14</LM>
 </w.rf>
 <form>FIDE</form>
-<tag lemma="FIDE_:B_;K_,t_^(šachová_federace)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="FIDE_:B_;K_,t_^(šachová_federace)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="FIDE-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95048-086-p2s1w15">
 <src.rf>manual</src.rf>
@@ -241,7 +248,7 @@
 </w.rf>
 <form>Kamský</form>
 <tag>
-<AM lemma="Kamský_;S" src="orig">NNMS1-----A----</AM>
+<AM lemma="Kamský_;S" src="orig" selected="1">NNMS1-----A----</AM>
 <AM lemma="kamský" src="auto">AAFP1----1A---6</AM>
 <AM lemma="kamský" src="auto">AAFP4----1A---6</AM>
 <AM lemma="kamský" src="auto">AAFP5----1A---6</AM>
@@ -407,7 +414,7 @@
 <form>Bělorusem</form>
 <tag>
 <AM lemma="bělorus" src="orig">NNMS7-----A----</AM>
-<AM lemma="Bělorus_;E" src="auto" recommended="1">NNMS7-----A----</AM>
+<AM lemma="Bělorus_;E" src="auto" recommended="1" selected="1">NNMS7-----A----</AM>
 <AM lemma="bělorus_^(zemní_stroj)" src="auto">NNIS7-----A----</AM>
 </tag>
 </m>
@@ -441,7 +448,10 @@
 <LM>w#w-ln95048-086-p2s3w10</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-2" src="auto" selected="1">Dg-------2A----</tag>
+<tag>
+<AM lemma="hodně-2" src="auto">Dg-------2A----</AM>
+<AM lemma="hodně-3" src="manual" selected="1">Dg-------2A----</AM>
+</tag>
 </m>
 <m id="m-ln95048-086-p2s3w11">
 <src.rf>manual</src.rf>
@@ -663,7 +673,10 @@
 <LM>w#w-ln95048-086-p3s1w5</LM>
 </w.rf>
 <form>FIDE</form>
-<tag lemma="FIDE_:B_;K_,t_^(šachová_federace)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="FIDE_:B_;K_,t_^(šachová_federace)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="FIDE-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95048-086-p3s1w6">
 <src.rf>manual</src.rf>
@@ -704,7 +717,7 @@
 </w.rf>
 <form>Kamský</form>
 <tag>
-<AM lemma="Kamský_;S" src="orig">NNMS1-----A----</AM>
+<AM lemma="Kamský_;S" src="orig" selected="1">NNMS1-----A----</AM>
 <AM lemma="kamský" src="auto">AAFP1----1A---6</AM>
 <AM lemma="kamský" src="auto">AAFP4----1A---6</AM>
 <AM lemma="kamský" src="auto">AAFP5----1A---6</AM>
@@ -810,7 +823,10 @@
 <LM>w#w-ln95048-086-p3s2w7</LM>
 </w.rf>
 <form>FIDE</form>
-<tag lemma="FIDE_:B_;K_,t_^(šachová_federace)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="FIDE_:B_;K_,t_^(šachová_federace)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="FIDE-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95048-086-p3s2w8">
 <src.rf>manual</src.rf>
@@ -853,6 +869,8 @@
 <tag>
 <AM lemma="PCA-2_:B_;K_,t_^(šachová_organizace)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="PCA-1_:B_,t_^(personal_communication_assistent)" src="auto" recommended="1">NNIXX-----A---8</AM>
+<AM lemma="PCA_:B" src="manual">NNXXX-----A---8</AM>
+<AM lemma="PCA-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95048-086-p3s2w13">
@@ -943,7 +961,7 @@
 <form>Ind</form>
 <tag>
 <AM lemma="ind" src="orig">NNMS1-----A----</AM>
-<AM lemma="Ind_;E" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Ind_;E" src="auto" recommended="1" selected="1">NNMS1-----A----</AM>
 <AM lemma="individuální_:B" src="auto">AAXXX----1A---8</AM>
 </tag>
 </m>
@@ -981,6 +999,7 @@
 <AM lemma="kamský" src="auto">AANP3----1A----</AM>
 <AM lemma="kamský" src="auto">AANS6----1A---7</AM>
 <AM lemma="kamský" src="auto">AANS7----1A----</AM>
+<AM lemma="Kamský_;S" src="manual" selected="1">NNMS7-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95048-086-p3s2w27">
@@ -1032,6 +1051,8 @@
 <tag>
 <AM lemma="PCA-2_:B_;K_,t_^(šachová_organizace)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="PCA-1_:B_,t_^(personal_communication_assistent)" src="auto" recommended="1">NNIXX-----A---8</AM>
+<AM lemma="PCA_:B" src="manual">NNXXX-----A---8</AM>
+<AM lemma="PCA-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95048-086-p3s2w33">
@@ -1048,7 +1069,11 @@
 <LM>w#w-ln95048-086-p3s2w34</LM>
 </w.rf>
 <form>Las</form>
-<tag lemma="laso" src="orig" selected="1">NNNP2-----A----</tag>
+<tag>
+<AM lemma="laso" src="orig">NNNP2-----A----</AM>
+<AM lemma="las-1_,t_^(šp.člen)" src="manual">AAXXX----1A----</AM>
+<AM lemma="Las-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln95048-086-p3s2w35">
 <src.rf>manual</src.rf>
@@ -1060,6 +1085,8 @@
 <AM lemma="Palmas_;G" src="orig">NNISX-----A----</AM>
 <AM lemma="Palmas_;G" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Palmas_;G" src="auto">NNIS4-----A----</AM>
+<AM lemma="Palmas_;G" src="manual">NNXXX-----A----</AM>
+<AM lemma="Palmas-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-ln95048-086-p3s2w36">
@@ -1256,7 +1283,10 @@
 <LM>w#w-ln95048-086-p3s4w5</LM>
 </w.rf>
 <form>stane</form>
-<tag lemma="stát-2_^(něco_se_přihodilo)" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag>
+<AM lemma="stát-2_^(něco_se_přihodilo)" src="orig">VB-S---3P-AA---</AM>
+<AM lemma="stát-2_^(stanu_staneš)" src="manual" selected="1">VB-S---3P-AA---</AM>
+</tag>
 </m>
 <m id="m-ln95048-086-p3s4w6">
 <src.rf>manual</src.rf>
@@ -1324,7 +1354,7 @@
 <form>ovšem</form>
 <tag>
 <AM lemma="ovšem-1_^(avšak,_však;_odporovací_spojka)" src="orig">J^-------------</AM>
-<AM lemma="ovšem" src="auto" recommended="1">TT-------------</AM>
+<AM lemma="ovšem" src="auto" recommended="1" selected="1">TT-------------</AM>
 </tag>
 </m>
 <m id="m-ln95048-086-p3s5w4">
@@ -1400,7 +1430,7 @@
 </w.rf>
 <form>Kamský</form>
 <tag>
-<AM lemma="Kamský_;S" src="orig">NNMS1-----A----</AM>
+<AM lemma="Kamský_;S" src="orig" selected="1">NNMS1-----A----</AM>
 <AM lemma="kamský" src="auto">AAFP1----1A---6</AM>
 <AM lemma="kamský" src="auto">AAFP4----1A---6</AM>
 <AM lemma="kamský" src="auto">AAFP5----1A---6</AM>
@@ -1506,7 +1536,10 @@
 <LM>w#w-ln95048-086-p4s1w3</LM>
 </w.rf>
 <form>FIDE</form>
-<tag lemma="FIDE_:B_;K_,t_^(šachová_federace)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="FIDE_:B_;K_,t_^(šachová_federace)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="FIDE-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95048-086-p4s1w4">
 <src.rf>manual</src.rf>
@@ -1525,6 +1558,8 @@
 <tag>
 <AM lemma="PCA-2_:B_;K_,t_^(šachová_organizace)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="PCA-1_:B_,t_^(personal_communication_assistent)" src="auto" recommended="1">NNIXX-----A---8</AM>
+<AM lemma="PCA_:B" src="manual">NNXXX-----A---8</AM>
+<AM lemma="PCA-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95048-086-p4s1w6">
@@ -1597,7 +1632,10 @@
 <LM>w#w-ln95048-086-p4s1w14</LM>
 </w.rf>
 <form>FIDE</form>
-<tag lemma="FIDE_:B_;K_,t_^(šachová_federace)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="FIDE_:B_;K_,t_^(šachová_federace)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="FIDE-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95048-086-p4s1w15">
 <src.rf>manual</src.rf>
@@ -1634,7 +1672,7 @@
 <tag>
 <AM lemma="tedy" src="orig">Db-------------</AM>
 <AM lemma="tedy-1" src="auto">TT-------------</AM>
-<AM lemma="tedy-2" src="auto" recommended="1">J^-------------</AM>
+<AM lemma="tedy-2" src="auto" recommended="1" selected="1">J^-------------</AM>
 </tag>
 </m>
 <m id="m-ln95048-086-p4s2w4">
@@ -1643,7 +1681,10 @@
 <LM>w#w-ln95048-086-p4s2w4</LM>
 </w.rf>
 <form>stát</form>
-<tag lemma="stát-2_^(něco_se_přihodilo)" src="orig" selected="1">Vf--------A----</tag>
+<tag>
+<AM lemma="stát-2_^(něco_se_přihodilo)" src="orig">Vf--------A----</AM>
+<AM lemma="stát-2_^(stanu_staneš)" src="manual" selected="1">Vf--------A----</AM>
+</tag>
 </m>
 <m id="m-ln95048-086-p4s2w5">
 <src.rf>manual</src.rf>
@@ -1668,7 +1709,7 @@
 </w.rf>
 <form>Kamský</form>
 <tag>
-<AM lemma="Kamský_;S" src="orig">NNMS1-----A----</AM>
+<AM lemma="Kamský_;S" src="orig" selected="1">NNMS1-----A----</AM>
 <AM lemma="kamský" src="auto">AAFP1----1A---6</AM>
 <AM lemma="kamský" src="auto">AAFP4----1A---6</AM>
 <AM lemma="kamský" src="auto">AAFP5----1A---6</AM>
@@ -1910,7 +1951,10 @@
 <LM>w#w-ln95048-086-p4s3w18</LM>
 </w.rf>
 <form>jako</form>
-<tag lemma="jako-1" src="auto" selected="1">J,-------------</tag>
+<tag>
+<AM lemma="jako-1" src="auto" selected="1">J,-------------</AM>
+<AM lemma="jako-2" src="manual">Db-------------</AM>
+</tag>
 </m>
 <m id="m-ln95048-086-p4s3w19">
 <src.rf>manual</src.rf>
@@ -1934,7 +1978,10 @@
 <LM>w#w-ln95048-086-p4s3w21</LM>
 </w.rf>
 <form>FIDE</form>
-<tag lemma="FIDE_:B_;K_,t_^(šachová_federace)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="FIDE_:B_;K_,t_^(šachová_federace)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="FIDE-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95048-086-p4s3w22">
 <src.rf>manual</src.rf>
@@ -2172,7 +2219,7 @@
 <form>Garri</form>
 <tag>
 <AM lemma="Garri_;Y" src="orig">NNMXX-----A----</AM>
-<AM lemma="Garri_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Garri_;Y" src="auto" recommended="1" selected="1">NNMS1-----A----</AM>
 <AM lemma="Garri_;Y" src="auto">NNMS5-----A----</AM>
 </tag>
 </m>
@@ -2232,7 +2279,7 @@
 <form>komukoliv</form>
 <tag>
 <AM lemma="kdokoliv" src="orig">PZM-3----------</AM>
-<AM lemma="kdokoli" src="auto" recommended="1">PZM-3---------1</AM>
+<AM lemma="kdokoli" src="auto" recommended="1" selected="1">PZM-3---------1</AM>
 </tag>
 </m>
 <m id="m-ln95048-086-p4s5w23">
@@ -2258,7 +2305,7 @@
 </w.rf>
 <form>Kamský</form>
 <tag>
-<AM lemma="Kamský_;S" src="orig">NNMS1-----A----</AM>
+<AM lemma="Kamský_;S" src="orig" selected="1">NNMS1-----A----</AM>
 <AM lemma="kamský" src="auto">AAFP1----1A---6</AM>
 <AM lemma="kamský" src="auto">AAFP4----1A---6</AM>
 <AM lemma="kamský" src="auto">AAFP5----1A---6</AM>

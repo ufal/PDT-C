@@ -91,6 +91,7 @@
 <AM lemma="SF-3_:B_;K_,t_^(Slovenská_filharmónia)" src="auto">NNFXX-----A---8</AM>
 <AM lemma="SF-4_:B_,t_^(single_frequency)" src="auto" recommended="1">NNFXX-----A---8</AM>
 <AM lemma="SF_:B_;K_,t_^(Sinn_Fein)" src="auto">NNFXX-----A---8</AM>
+<AM lemma="SF-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-cmpr9406-020-p2s1w7">
@@ -136,6 +137,8 @@
 <tag>
 <AM lemma="TZ-2_:B_^(tepelný_záznam)" src="orig">NNIXX-----A---8</AM>
 <AM lemma="TZ-1_:B_;K_^(Tepelné_zásobování)" src="auto" recommended="1">NNNXX-----A---8</AM>
+<AM lemma="TZ-2_:B" src="manual">NNXXX-----A---8</AM>
+<AM lemma="TZ-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 </s>
@@ -178,7 +181,10 @@
 <LM>w#w-cmpr9406-020-p4s1w5</LM>
 </w.rf>
 <form>A</form>
-<tag lemma="A-0_:B_;Y" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="A-0_:B_;Y" src="orig">NNFXX-----A---8</AM>
+<AM lemma="A-33_^(označení_pomocí_písmene)" src="manual" selected="1">NNNXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-cmpr9406-020-p4s1w6">
 <src.rf>manual</src.rf>
@@ -336,7 +342,7 @@
 <form>Kč</form>
 <tag>
 <AM lemma="Kč" src="orig">NNFXX-----A----</AM>
-<AM lemma="Kč_:B" src="auto" recommended="1">NNFXX-----A---8</AM>
+<AM lemma="Kč_:B" src="auto" recommended="1" selected="1">NNFXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-cmpr9406-020-p7s1w5">

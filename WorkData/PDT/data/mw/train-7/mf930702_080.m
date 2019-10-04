@@ -93,7 +93,10 @@
 <LM>w#w-mf930702-080-p2s1w6</LM>
 </w.rf>
 <form>Randolph</form>
-<tag lemma="Randolph_;Y_,t" src="auto" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Randolph_;Y_,t" src="auto">NNMS1-----A----</AM>
+<AM lemma="Randolph_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930702-080-p2s1w7">
 <src.rf>manual</src.rf>

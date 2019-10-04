@@ -501,7 +501,10 @@
 <LM>w#w-ln94211-100-p2s4w2</LM>
 </w.rf>
 <form>měla</form>
-<tag lemma="mít" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag>
+<AM lemma="mít" src="orig">VpQW---XR-AA---</AM>
+<AM lemma="mít_:T" src="manual" selected="1">VpQW---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-ln94211-100-p2s4w3">
 <src.rf>manual</src.rf>
@@ -711,7 +714,10 @@
 <LM>w#w-ln94211-100-p3s1w19</LM>
 </w.rf>
 <form>Covent</form>
-<tag lemma="Covent_;G_;K_,t" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="Covent_;G_;K_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="Covent-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94211-100-p3s1w20">
 <src.rf>manual</src.rf>
@@ -719,7 +725,10 @@
 <LM>w#w-ln94211-100-p3s1w20</LM>
 </w.rf>
 <form>Garden</form>
-<tag lemma="Garden-1_;G" src="orig" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="Garden-1_;G" src="orig">NNIS1-----A----</AM>
+<AM lemma="Garden-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94211-100-p3s1w21">
 <src.rf>manual</src.rf>
@@ -1451,7 +1460,10 @@
 <LM>w#w-ln94211-100-p3s7w12</LM>
 </w.rf>
 <form>přinesl</form>
-<tag lemma="přinést" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag>
+<AM lemma="přinést" src="orig">VpYS---XR-AA---</AM>
+<AM lemma="přinést_:W" src="manual" selected="1">VpYS---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-ln94211-100-p3s7w13">
 <src.rf>manual</src.rf>
@@ -1631,7 +1643,7 @@
 <form>nejen</form>
 <tag>
 <AM lemma="nejen" src="orig">TT-------------</AM>
-<AM lemma="nejen" src="auto" recommended="1">Db-------------</AM>
+<AM lemma="nejen" src="auto" recommended="1" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m-ln94211-100-p3s8w4">
@@ -1906,7 +1918,10 @@
 <LM>w#w-ln94211-100-p3s9w11</LM>
 </w.rf>
 <form>Anthony</form>
-<tag lemma="Anthony_;Y_,t" src="auto" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Anthony_;Y_,t" src="auto">NNMS1-----A----</AM>
+<AM lemma="Anthony_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94211-100-p3s9w12">
 <src.rf>manual</src.rf>
@@ -1915,7 +1930,7 @@
 </w.rf>
 <form>Rolfe</form>
 <tag>
-<AM lemma="Rolfe_;Y" src="orig">NNMS1-----A----</AM>
+<AM lemma="Rolfe_;Y" src="orig" selected="1">NNMS1-----A----</AM>
 <AM lemma="Rolf_;Y" src="auto" recommended="1">NNMS5-----A----</AM>
 </tag>
 </m>
@@ -1950,7 +1965,7 @@
 </w.rf>
 <form>Felicity</form>
 <tag>
-<AM lemma="Felicity_;Y" src="orig">NNFS1-----A----</AM>
+<AM lemma="Felicity_;Y" src="orig" selected="1">NNFS1-----A----</AM>
 <AM lemma="Felicita_;Y" src="auto">NNFP1-----A----</AM>
 <AM lemma="Felicita_;Y" src="auto">NNFP4-----A----</AM>
 <AM lemma="Felicita_;Y" src="auto">NNFP5-----A----</AM>
@@ -1987,7 +2002,10 @@
 <LM>w#w-ln94211-100-p3s9w20</LM>
 </w.rf>
 <form>Thomas</form>
-<tag lemma="Thomas_;S" src="auto" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Thomas_;S" src="auto">NNMS1-----A----</AM>
+<AM lemma="Thomas_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94211-100-p3s9w21">
 <src.rf>manual</src.rf>
@@ -2053,7 +2071,10 @@
 <LM>w#w-ln94211-100-p3s10w6</LM>
 </w.rf>
 <form>vedeni</form>
-<tag lemma="vést" src="auto" selected="1">VsMP---XX-AP---</tag>
+<tag>
+<AM lemma="vést" src="auto">VsMP---XX-AP---</AM>
+<AM lemma="vést_:T" src="manual" selected="1">VsMP---XX-AP---</AM>
+</tag>
 </m>
 <m id="m-ln94211-100-p3s10w7">
 <src.rf>manual</src.rf>
@@ -2159,7 +2180,10 @@
 <LM>w#w-ln94211-100-p4s1w4</LM>
 </w.rf>
 <form>EMI</form>
-<tag lemma="EMI_:B_;K" src="auto" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="EMI_:B_;K" src="auto">NNXXX-----A---8</AM>
+<AM lemma="EMI-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94211-100-p4s1w5">
 <src.rf>manual</src.rf>
@@ -2297,7 +2321,10 @@
 <LM>w#w-ln94211-100-p4s2w7</LM>
 </w.rf>
 <form>CD</form>
-<tag lemma="CD-1_:B_;c_;u_;y_,t_^(Audio/Data,_Compact_Disc)" src="auto" selected="1">NNNXX-----A---8</tag>
+<tag>
+<AM lemma="CD-1_:B_;c_;u_;y_,t_^(Audio/Data,_Compact_Disc)" src="auto">NNNXX-----A---8</AM>
+<AM lemma="CD-1_:B_^(Audio/Data,_Compact_Disc)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94211-100-p4s2w8">
 <src.rf>manual</src.rf>
@@ -2305,7 +2332,10 @@
 <LM>w#w-ln94211-100-p4s2w8</LM>
 </w.rf>
 <form>nahrána</form>
-<tag lemma="nahrát" src="orig" selected="1">VsQW---XX-AP---</tag>
+<tag>
+<AM lemma="nahrát" src="orig">VsQW---XX-AP---</AM>
+<AM lemma="nahrát_:W" src="manual" selected="1">VsQW---XX-AP---</AM>
+</tag>
 </m>
 <m id="m-ln94211-100-p4s2w9">
 <src.rf>manual</src.rf>
@@ -2559,7 +2589,10 @@
 <LM>w#w-ln94211-100-p4s5w4</LM>
 </w.rf>
 <form>Covent</form>
-<tag lemma="Covent_;G_;K_,t" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="Covent_;G_;K_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="Covent-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94211-100-p4s5w5">
 <src.rf>manual</src.rf>
@@ -2567,7 +2600,10 @@
 <LM>w#w-ln94211-100-p4s5w5</LM>
 </w.rf>
 <form>Garden</form>
-<tag lemma="Garden-1_;G" src="orig" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="Garden-1_;G" src="orig">NNIS1-----A----</AM>
+<AM lemma="Garden-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94211-100-p4s5w6">
 <src.rf>manual</src.rf>
@@ -2625,7 +2661,10 @@
 <LM>w#w-ln94211-100-p4s6w2</LM>
 </w.rf>
 <form>CD</form>
-<tag lemma="CD-1_:B_;c_;u_;y_,t_^(Audio/Data,_Compact_Disc)" src="auto" selected="1">NNNXX-----A---8</tag>
+<tag>
+<AM lemma="CD-1_:B_;c_;u_;y_,t_^(Audio/Data,_Compact_Disc)" src="auto">NNNXX-----A---8</AM>
+<AM lemma="CD-1_:B_^(Audio/Data,_Compact_Disc)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94211-100-p4s6w3">
 <src.rf>manual</src.rf>
@@ -2649,7 +2688,10 @@
 <LM>w#w-ln94211-100-p4s6w5</LM>
 </w.rf>
 <form>EMI</form>
-<tag lemma="EMI_:B_;K" src="auto" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="EMI_:B_;K" src="auto">NNXXX-----A---8</AM>
+<AM lemma="EMI-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94211-100-p4s6w6">
 <src.rf>manual</src.rf>

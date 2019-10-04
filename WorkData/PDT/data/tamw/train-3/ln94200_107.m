@@ -159,7 +159,10 @@
 <LM>w#w-ln94200-107-p2s1Bw12</LM>
 </w.rf>
 <form>CDU</form>
-<tag lemma="CDU-1_:B_;K_;p_,t_^(Christianisch-Demokratische_Union)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="CDU-1_:B_;K_;p_,t_^(Christianisch-Demokratische_Union)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="CDU-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94200-107-p2s1Bw13">
 <src.rf>manual</src.rf>
@@ -369,7 +372,10 @@
 <LM>w#w-ln94200-107-p2s2w8</LM>
 </w.rf>
 <form>Tiny</form>
-<tag lemma="Tina_;K" src="auto" selected="1">NNFS2-----A----</tag>
+<tag>
+<AM lemma="Tina_;K" src="auto">NNFS2-----A----</AM>
+<AM lemma="Tina-2_;Y" src="manual" selected="1">NNFS2-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94200-107-p2s2w9">
 <src.rf>manual</src.rf>
@@ -389,6 +395,7 @@
 <AM lemma="simply_,t" src="orig">Db-------------</AM>
 <AM lemma="Simple_;S" src="auto">NNMP4-----A----</AM>
 <AM lemma="Simple_;S" src="auto" recommended="1">NNMP7-----A----</AM>
+<AM lemma="Simply-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-ln94200-107-p2s2w11">
@@ -397,7 +404,10 @@
 <LM>w#w-ln94200-107-p2s2w11</LM>
 </w.rf>
 <form>the</form>
-<tag lemma="the-1_,t_^(obv._souč._anglických_názvů,_urč._člen)" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="the-1_,t_^(obv._souč._anglických_názvů,_urč._člen)" src="orig">AAXXX----1A----</AM>
+<AM lemma="the-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94200-107-p2s2w12">
 <src.rf>manual</src.rf>
@@ -405,7 +415,10 @@
 <LM>w#w-ln94200-107-p2s2w12</LM>
 </w.rf>
 <form>best</form>
-<tag lemma="good_,t" src="orig" selected="1">Dg-------3A----</tag>
+<tag>
+<AM lemma="good_,t" src="orig">Dg-------3A----</AM>
+<AM lemma="best-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94200-107-p2s2w13">
 <src.rf>manual</src.rf>
@@ -503,7 +516,10 @@
 <LM>w#w-ln94200-107-p2s3w7</LM>
 </w.rf>
 <form>B</form>
-<tag lemma="B-0_:B_;Y" src="orig" selected="1">NNMXX-----A---8</tag>
+<tag>
+<AM lemma="B-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
+<AM lemma="B-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94200-107-p2s3w8">
 <src.rf>manual</src.rf>
@@ -570,6 +586,7 @@
 <tag>
 <AM lemma="USA_;G" src="orig">NNIPX-----A----</AM>
 <AM lemma="USA_:B_;K_,t_^(United_States_of_America)" src="auto" recommended="1">NNIPX-----A---8</AM>
+<AM lemma="USA_:B_;K_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94200-107-p2s3w16">
@@ -944,7 +961,10 @@
 <LM>w#w-ln94200-107-p2s6w1</LM>
 </w.rf>
 <form>SPD</form>
-<tag lemma="SPD-1_:B_;K_,t_^(Sozial-Demokratische_Partei_v_SRN)" src="auto" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="SPD-1_:B_;K_,t_^(Sozial-Demokratische_Partei_v_SRN)" src="auto">NNFXX-----A---8</AM>
+<AM lemma="SPD-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94200-107-p2s6w2">
 <src.rf>manual</src.rf>

@@ -43,7 +43,10 @@
 <LM>w#w-mf930709-101-p1s1w4</LM>
 </w.rf>
 <form>víc</form>
-<tag lemma="hodně-2" src="auto" selected="1">Dg-------2A---1</tag>
+<tag>
+<AM lemma="hodně-2" src="auto">Dg-------2A---1</AM>
+<AM lemma="hodně-3" src="manual" selected="1">Dg-------2A---1</AM>
+</tag>
 </m>
 <m id="m-mf930709-101-p1s1w5">
 <src.rf>manual</src.rf>
@@ -186,7 +189,10 @@
 <LM>w#w-mf930709-101-p2s1Cw8</LM>
 </w.rf>
 <form>zastavil</form>
-<tag lemma="zastavit-1_:W_^([také_z._se];_uvést_do_klidu:_auto,...)" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag>
+<AM lemma="zastavit-1_:W_^([také_z._se];_uvést_do_klidu:_auto,...)" src="orig">VpYS---XR-AA---</AM>
+<AM lemma="zastavit_:W" src="manual" selected="1">VpYS---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-mf930709-101-p2s1Cw9">
 <src.rf>manual</src.rf>
@@ -452,7 +458,10 @@
 <LM>w#w-mf930709-101-p2s2w15</LM>
 </w.rf>
 <form>kg</form>
-<tag lemma="kg-1`kilogram_:B" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="kg-1`kilogram_:B" src="orig">NNIXX-----A---8</AM>
+<AM lemma="kilogram" src="manual" selected="1">NNIXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-mf930709-101-p2s2w16">
 <src.rf>manual</src.rf>
@@ -661,7 +670,7 @@
 <tag>
 <AM lemma="tady" src="orig">Db------------1</AM>
 <AM lemma="ten" src="auto" recommended="1">PDFS4----------</AM>
-<AM lemma="tu" src="auto">Db-------------</AM>
+<AM lemma="tu" src="auto" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m-mf930709-101-p2s5w4">
@@ -1047,7 +1056,12 @@
 </w.rf>
 <form_change>num_normalization</form_change>
 <form>8970</form>
-<tag lemma="8970" src="orig" selected="1">C=-------------</tag>
+<tag lemma="8970" src="orig">C=-------------</tag>
+<comment>
+<LM type="New Form">
+<text>8,970</text>
+</LM>
+</comment>
 </m>
 <m id="m-mf930709-101-p2s8w9">
 <src.rf>manual</src.rf>
@@ -1055,7 +1069,10 @@
 <LM>w#w-mf930709-101-p2s8w9</LM>
 </w.rf>
 <form>kg</form>
-<tag lemma="kg-1`kilogram_:B" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="kg-1`kilogram_:B" src="orig">NNIXX-----A---8</AM>
+<AM lemma="kilogram" src="manual" selected="1">NNIXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-mf930709-101-p2s8w10">
 <src.rf>manual</src.rf>
@@ -1112,7 +1129,12 @@
 </w.rf>
 <form_change>num_normalization</form_change>
 <form>9110</form>
-<tag lemma="9110" src="orig" selected="1">C=-------------</tag>
+<tag lemma="9110" src="orig">C=-------------</tag>
+<comment>
+<LM type="New Form">
+<text>9,110</text>
+</LM>
+</comment>
 </m>
 <m id="m-mf930709-101-p2s8w17">
 <src.rf>manual</src.rf>
@@ -1120,7 +1142,10 @@
 <LM>w#w-mf930709-101-p2s8w17</LM>
 </w.rf>
 <form>kg</form>
-<tag lemma="kg-1`kilogram_:B" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="kg-1`kilogram_:B" src="orig">NNIXX-----A---8</AM>
+<AM lemma="kilogram" src="manual" selected="1">NNIXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-mf930709-101-p2s8w18">
 <src.rf>manual</src.rf>
@@ -1144,7 +1169,10 @@
 <LM>w#w-mf930709-101-p2s8w20</LM>
 </w.rf>
 <form>řekl</form>
-<tag lemma="říci" src="auto" selected="1">VpYS---XR-AA---</tag>
+<tag>
+<AM lemma="říci" src="auto">VpYS---XR-AA---</AM>
+<AM lemma="říci_:W" src="manual" selected="1">VpYS---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-mf930709-101-p2s8w21">
 <src.rf>manual</src.rf>
@@ -1308,7 +1336,10 @@
 <LM>w#w-mf930709-101-p2s10w3</LM>
 </w.rf>
 <form>nestalo</form>
-<tag lemma="stát-2_^(něco_se_přihodilo)" src="orig" selected="1">VpNS---XR-NA---</tag>
+<tag>
+<AM lemma="stát-2_^(něco_se_přihodilo)" src="orig">VpNS---XR-NA---</AM>
+<AM lemma="stát-2_^(stanu_staneš)" src="manual" selected="1">VpNS---XR-NA---</AM>
+</tag>
 </m>
 <m id="m-mf930709-101-p2s10w4">
 <src.rf>manual</src.rf>
@@ -1870,7 +1901,10 @@
 <LM>w#w-mf930709-101-p2s15w11</LM>
 </w.rf>
 <form>hodně</form>
-<tag lemma="hodně-2_^(nezlobivý)_(*3ý-2)" src="auto" selected="1">Dg-------1A----</tag>
+<tag>
+<AM lemma="hodně-2_^(nezlobivý)_(*3ý-2)" src="auto">Dg-------1A----</AM>
+<AM lemma="hodně-3" src="manual" selected="1">Dg-------1A----</AM>
+</tag>
 </m>
 <m id="m-mf930709-101-p2s15w12">
 <src.rf>manual</src.rf>
@@ -2048,7 +2082,10 @@
 <LM>w#w-mf930709-101-p2s16w11</LM>
 </w.rf>
 <form>jen</form>
-<tag lemma="jen-1" src="auto" selected="1">TT-------------</tag>
+<tag>
+<AM lemma="jen-1" src="auto">TT-------------</AM>
+<AM lemma="jen-4_^(pouze)" src="manual" selected="1">Db-------------</AM>
+</tag>
 </m>
 <m id="m-mf930709-101-p2s16w12">
 <src.rf>manual</src.rf>
@@ -2416,6 +2453,7 @@
 <AM lemma="kánoe" src="auto" recommended="1">NNFS1-----A----</AM>
 <AM lemma="kánoe" src="auto">NNFS2-----A----</AM>
 <AM lemma="kánoe" src="auto">NNFS5-----A----</AM>
+<AM lemma="kanoe_,s_^(^DD**kánoe)" src="manual" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930709-101-p2s20w3">
@@ -2834,7 +2872,7 @@
 <form>jakákoli</form>
 <tag>
 <AM lemma="jakýkoliv" src="orig">PZFS1---------1</AM>
-<AM lemma="jakýkoli" src="auto" recommended="1">PZFS1----------</AM>
+<AM lemma="jakýkoli" src="auto" recommended="1" selected="1">PZFS1----------</AM>
 <AM lemma="jakýkoli" src="auto">PZFS5----------</AM>
 <AM lemma="jakýkoli" src="auto">PZNP1----------</AM>
 <AM lemma="jakýkoli" src="auto">PZNP4----------</AM>
@@ -3159,7 +3197,10 @@
 <LM>w#w-mf930709-101-p2s29w3</LM>
 </w.rf>
 <form>HIKO</form>
-<tag lemma="Hiko_;G" src="auto" selected="1">NNNS1-----A----</tag>
+<tag>
+<AM lemma="Hiko_;G" src="auto">NNNS1-----A----</AM>
+<AM lemma="Hiko_;G_;K" src="manual" selected="1">NNNS1-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930709-101-p2s29w4">
 <src.rf>manual</src.rf>
@@ -3519,7 +3560,7 @@
 <form>bratří</form>
 <tag>
 <AM lemma="bratr" src="orig">NNMP1-----A---1</AM>
-<AM lemma="bratr" src="auto">NNMP1-----A---2</AM>
+<AM lemma="bratr" src="auto" selected="1">NNMP1-----A---2</AM>
 <AM lemma="bratr" src="auto">NNMP2-----A---1</AM>
 <AM lemma="bratr" src="auto">NNMP4-----A---1</AM>
 <AM lemma="bratřit_:T" src="auto" recommended="1">VB-P---3P-AA---</AM>
@@ -3584,6 +3625,8 @@
 <AM lemma="debl_,t" src="orig">AAXXX----1A----</AM>
 <AM lemma="debl" src="auto">NNIS1-----A----</AM>
 <AM lemma="debl" src="auto" recommended="1">NNIS4-----A----</AM>
+<AM lemma="debl-2_,t" src="manual">AAXXX----1A----</AM>
+<AM lemma="debl-2" src="manual" selected="1">AAXXX----1A----</AM>
 </tag>
 </m>
 <m id="m-mf930709-101-p2s32w20">
@@ -3597,6 +3640,7 @@
 <AM lemma="kánoe" src="auto">NNFS3-----A----</AM>
 <AM lemma="kánoe" src="auto" recommended="1">NNFS4-----A----</AM>
 <AM lemma="kánoe" src="auto">NNFS6-----A----</AM>
+<AM lemma="kanoe_,s_^(^DD**kánoe)" src="manual" selected="1">NNFS4-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930709-101-p2s32w21">
@@ -3976,7 +4020,7 @@
 <form>bratří</form>
 <tag>
 <AM lemma="bratr" src="orig">NNMP1-----A---1</AM>
-<AM lemma="bratr" src="auto">NNMP1-----A---2</AM>
+<AM lemma="bratr" src="auto" selected="1">NNMP1-----A---2</AM>
 <AM lemma="bratr" src="auto" recommended="1">NNMP2-----A---1</AM>
 <AM lemma="bratr" src="auto">NNMP4-----A---1</AM>
 <AM lemma="bratřit_:T" src="auto">VB-P---3P-AA---</AM>
@@ -4455,6 +4499,8 @@
 <AM lemma="debl_,t" src="orig">AAXXX----1A----</AM>
 <AM lemma="debl" src="auto">NNIS1-----A----</AM>
 <AM lemma="debl" src="auto" recommended="1">NNIS4-----A----</AM>
+<AM lemma="debl-2_,t" src="manual">AAXXX----1A----</AM>
+<AM lemma="debl-2" src="manual" selected="1">AAXXX----1A----</AM>
 </tag>
 </m>
 <m id="m-mf930709-101-p2s39w10">
@@ -4468,6 +4514,7 @@
 <AM lemma="kánoe" src="auto">NNFS3-----A----</AM>
 <AM lemma="kánoe" src="auto">NNFS4-----A----</AM>
 <AM lemma="kánoe" src="auto" recommended="1">NNFS6-----A----</AM>
+<AM lemma="kanoe_,s_^(^DD**kánoe)" src="manual" selected="1">NNFS6-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930709-101-p2s39w11">
@@ -5035,6 +5082,8 @@
 <AM lemma="debl_,t" src="orig">AAXXX----1A----</AM>
 <AM lemma="debl" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="debl" src="auto">NNIS4-----A----</AM>
+<AM lemma="debl-2_,t" src="manual">AAXXX----1A----</AM>
+<AM lemma="debl-2" src="manual" selected="1">AAXXX----1A----</AM>
 </tag>
 </m>
 <m id="m-mf930709-101-p2s44w11">
@@ -5051,6 +5100,7 @@
 <AM lemma="kánoe" src="auto">NNFS1-----A----</AM>
 <AM lemma="kánoe" src="auto" recommended="1">NNFS2-----A----</AM>
 <AM lemma="kánoe" src="auto">NNFS5-----A----</AM>
+<AM lemma="kanoe_,s_^(^DD**kánoe)" src="manual" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930709-101-p2s44w12">

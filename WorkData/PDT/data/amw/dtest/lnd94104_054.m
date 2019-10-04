@@ -239,7 +239,10 @@
 <LM>w#w-lnd94104-054-p1s3w22</LM>
 </w.rf>
 <form>říci</form>
-<tag lemma="říci" src="auto" selected="1">Vf--------A---1</tag>
+<tag>
+<AM lemma="říci" src="auto">Vf--------A---1</AM>
+<AM lemma="říci_:W" src="manual" selected="1">Vf--------A---1</AM>
+</tag>
 </m>
 <m id="m-lnd94104-054-p1s3w23">
 <src.rf>manual</src.rf>
@@ -361,7 +364,10 @@
 <LM>w#w-lnd94104-054-p1s4w7</LM>
 </w.rf>
 <form>El</form>
-<tag lemma="El_;K" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="El_;K" src="orig">AAXXX----1A----</AM>
+<AM lemma="El-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-lnd94104-054-p1s4w8">
 <src.rf>manual</src.rf>
@@ -369,7 +375,10 @@
 <LM>w#w-lnd94104-054-p1s4w8</LM>
 </w.rf>
 <form>Mundo</form>
-<tag lemma="Mundo_;G" src="orig" selected="1">NNNS1-----A----</tag>
+<tag>
+<AM lemma="Mundo_;G" src="orig">NNNS1-----A----</AM>
+<AM lemma="Mundo-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-lnd94104-054-p1s4w9">
 <src.rf>manual</src.rf>

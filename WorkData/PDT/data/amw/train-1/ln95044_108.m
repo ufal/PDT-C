@@ -59,7 +59,10 @@
 <LM>w#w-ln95044-108-p1s1w6</LM>
 </w.rf>
 <form>jen</form>
-<tag lemma="jen-1" src="auto" selected="1">TT-------------</tag>
+<tag>
+<AM lemma="jen-1" src="auto">TT-------------</AM>
+<AM lemma="jen-4_^(pouze)" src="manual" selected="1">Db-------------</AM>
+</tag>
 </m>
 <m id="m-ln95044-108-p1s1w7">
 <src.rf>manual</src.rf>
@@ -313,7 +316,10 @@
 <LM>w#w-ln95044-108-p3s1w1</LM>
 </w.rf>
 <form>I</form>
-<tag lemma="I-0_:B_;Y" src="orig" selected="1">NNMXX-----A---8</tag>
+<tag>
+<AM lemma="I-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
+<AM lemma="I-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95044-108-p3s1w2">
 <src.rf>manual</src.rf>
@@ -663,7 +669,10 @@
 <LM>w#w-ln95044-108-p3s4w5</LM>
 </w.rf>
 <form>V</form>
-<tag lemma="V-0_:B_;Y" src="orig" selected="1">NNMXX-----A---8</tag>
+<tag>
+<AM lemma="V-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
+<AM lemma="V-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95044-108-p3s4w6">
 <src.rf>manual</src.rf>
@@ -695,7 +704,10 @@
 <LM>w#w-ln95044-108-p3s4w9</LM>
 </w.rf>
 <form>řekl</form>
-<tag lemma="říci" src="auto" selected="1">VpYS---XR-AA---</tag>
+<tag>
+<AM lemma="říci" src="auto">VpYS---XR-AA---</AM>
+<AM lemma="říci_:W" src="manual" selected="1">VpYS---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-ln95044-108-p3s4w10">
 <src.rf>manual</src.rf>
@@ -857,7 +869,10 @@
 <LM>w#w-ln95044-108-p3s5w11</LM>
 </w.rf>
 <form>diskusí</form>
-<tag lemma="diskuse" src="orig" selected="1">NNFS7-----A----</tag>
+<tag>
+<AM lemma="diskuse" src="orig">NNFS7-----A----</AM>
+<AM lemma="diskuse_,s_^(^DD**diskuze)" src="manual" selected="1">NNFS7-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95044-108-p3s5w12">
 <src.rf>manual</src.rf>
@@ -924,6 +939,8 @@
 <tag>
 <AM lemma="ČKR-2_:B_;K_^(Česká_konference_rektorů)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="ČKR-1_:B_;K_^(Český_klub_ringa)" src="auto" recommended="1">NNIXX-----A---8</AM>
+<AM lemma="ČKR-2_:B" src="manual">NNXXX-----A---8</AM>
+<AM lemma="ČKR-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95044-108-p3s5w20">
@@ -1025,6 +1042,8 @@
 <tag>
 <AM lemma="ČKR-2_:B_;K_^(Česká_konference_rektorů)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="ČKR-1_:B_;K_^(Český_klub_ringa)" src="auto" recommended="1">NNIXX-----A---8</AM>
+<AM lemma="ČKR-2_:B" src="manual">NNXXX-----A---8</AM>
+<AM lemma="ČKR-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95044-108-p3s6w11">
@@ -1246,6 +1265,8 @@
 <tag>
 <AM lemma="ČKR-2_:B_;K_^(Česká_konference_rektorů)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="ČKR-1_:B_;K_^(Český_klub_ringa)" src="auto" recommended="1">NNIXX-----A---8</AM>
+<AM lemma="ČKR-2_:B" src="manual">NNXXX-----A---8</AM>
+<AM lemma="ČKR-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95044-108-p3s7w4">
@@ -1331,6 +1352,8 @@
 <tag>
 <AM lemma="ČKR-2_:B_;K_^(Česká_konference_rektorů)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="ČKR-1_:B_;K_^(Český_klub_ringa)" src="auto" recommended="1">NNIXX-----A---8</AM>
+<AM lemma="ČKR-2_:B" src="manual">NNXXX-----A---8</AM>
+<AM lemma="ČKR-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95044-108-p4s1w2">
@@ -1347,7 +1370,10 @@
 <LM>w#w-ln95044-108-p4s1w3</LM>
 </w.rf>
 <form>sice</form>
-<tag lemma="sice-2" src="auto" selected="1">Db-------------</tag>
+<tag>
+<AM lemma="sice-2" src="auto">Db-------------</AM>
+<AM lemma="sice-1_^(spojka;_připouští_se_určitá_fakta)" src="manual" selected="1">J^-------------</AM>
+</tag>
 </m>
 <m id="m-ln95044-108-p4s1w4">
 <src.rf>manual</src.rf>

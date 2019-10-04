@@ -357,7 +357,10 @@
 <LM>w#w-ln94202-42-p1s2w23</LM>
 </w.rf>
 <form>Art</form>
-<tag lemma="Art-2_;K_,t" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="Art-2_;K_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="Art-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94202-42-p1s2w24">
 <src.rf>manual</src.rf>
@@ -373,7 +376,10 @@
 <LM>w#w-ln94202-42-p1s2w25</LM>
 </w.rf>
 <form>Fashion</form>
-<tag lemma="Fashion_;K_,t" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="Fashion_;K_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="Fashion-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94202-42-p1s2w26">
 <src.rf>manual</src.rf>
@@ -385,6 +391,8 @@
 <AM lemma="Gallery_;K_,t" src="orig">NNFXX-----A----</AM>
 <AM lemma="Galler_;S" src="auto">NNMP4-----A----</AM>
 <AM lemma="Galler_;S" src="auto" recommended="1">NNMP7-----A----</AM>
+<AM lemma="gallery_,t" src="manual">NNXXX-----A----</AM>
+<AM lemma="Gallery-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-ln94202-42-p1s2w27">
@@ -472,6 +480,8 @@
 <AM lemma="OP-1_:B_;K_^(operační_program;_oděvní_podnik)" src="auto">NNIXX-----A---8</AM>
 <AM lemma="OP-2_:B_;K_^(občanská_platforma)" src="auto" recommended="1">NNFSX-----A---8</AM>
 <AM lemma="op" src="auto">NNMS1-----A----</AM>
+<AM lemma="OP_:B" src="manual">NNXXX-----A----</AM>
+<AM lemma="OP-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94202-42-p1s3w8">
@@ -583,6 +593,7 @@
 <AM lemma="kout_^(např._železo)" src="auto" recommended="1">VpYS---XR-AA---</AM>
 <AM lemma="kulit_:T" src="auto">Vi-S---2--A----</AM>
 <AM lemma="kulit_:T" src="auto">Vi-S---3--A---4</AM>
+<AM lemma="kul-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94202-42-p1s4w3">
@@ -633,7 +644,10 @@
 <LM>w#w-ln94202-42-p1s4w8</LM>
 </w.rf>
 <form>LN</form>
-<tag lemma="LN-1_:B_;R_^(Lidové_noviny,_deník)" src="orig" selected="1">NNFPX-----A---8</tag>
+<tag>
+<AM lemma="LN-1_:B_;R_^(Lidové_noviny,_deník)" src="orig">NNFPX-----A---8</AM>
+<AM lemma="LN-1_:B_;K_;R_^(Lidové_noviny)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 </s>
 </mdata>

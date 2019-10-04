@@ -38,6 +38,7 @@
 <tag>
 <AM lemma="Music-2_;K_,t" src="orig">AAXXX----1A----</AM>
 <AM lemma="music_,t_^(př._pop_music)" src="auto" recommended="1">NNFXX-----A----</AM>
+<AM lemma="MUSIC-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-lnd91301-046-p1s1w4">
@@ -46,7 +47,10 @@
 <LM>w#w-lnd91301-046-p1s1w4</LM>
 </w.rf>
 <form>VARS</form>
-<tag lemma="Var_;K_,t" src="orig" selected="1">NNXPX-----A----</tag>
+<tag>
+<AM lemma="Var_;K_,t" src="orig">NNXPX-----A----</AM>
+<AM lemma="Vars_;K" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd91301-046-p1s1w5">
 <src.rf>manual</src.rf>
@@ -150,7 +154,10 @@
 <LM>w#w-lnd91301-046-p1s1w17</LM>
 </w.rf>
 <form>Cantabile</form>
-<tag lemma="cantabile_,t" src="orig" selected="1">NNNXX-----A----</tag>
+<tag>
+<AM lemma="cantabile_,t" src="orig">NNNXX-----A----</AM>
+<AM lemma="Cantabile-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-lnd91301-046-p1s1w18">
 <src.rf>manual</src.rf>
@@ -208,7 +215,10 @@
 <LM>w#w-lnd91301-046-p1s2w5</LM>
 </w.rf>
 <form>stal</form>
-<tag lemma="stát-2_^(něco_se_přihodilo)" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag>
+<AM lemma="stát-2_^(něco_se_přihodilo)" src="orig">VpYS---XR-AA---</AM>
+<AM lemma="stát-2_^(stanu_staneš)" src="manual" selected="1">VpYS---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-lnd91301-046-p1s2w6">
 <src.rf>manual</src.rf>
@@ -298,7 +308,10 @@
 <LM>w#w-lnd91301-046-p2s1w5</LM>
 </w.rf>
 <form>LN</form>
-<tag lemma="LN-1_:B_;R_^(Lidové_noviny,_deník)" src="orig" selected="1">NNFPX-----A---8</tag>
+<tag>
+<AM lemma="LN-1_:B_;R_^(Lidové_noviny,_deník)" src="orig">NNFPX-----A---8</AM>
+<AM lemma="LN-1_:B_;K_;R_^(Lidové_noviny)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 </s>
 </mdata>

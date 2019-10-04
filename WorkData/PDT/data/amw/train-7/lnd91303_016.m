@@ -27,7 +27,10 @@
 <LM>w#w-lnd91303-016-p1s1w2</LM>
 </w.rf>
 <form>SSSR</form>
-<tag lemma="SSSR_:B_;G_^(Svaz_sov._socialist._republik)" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="SSSR_:B_;G_^(Svaz_sov._socialist._republik)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="SSSR_:B_;G_^(Svaz_sov._socialist._republik)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 </s>
 <s id="m-lnd91303-016-p2s1">
@@ -113,7 +116,10 @@
 <LM>w#w-lnd91303-016-p4s1w6</LM>
 </w.rf>
 <form>SSSR</form>
-<tag lemma="SSSR_:B_;G_^(Svaz_sov._socialist._republik)" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="SSSR_:B_;G_^(Svaz_sov._socialist._republik)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="SSSR_:B_;G_^(Svaz_sov._socialist._republik)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd91303-016-p4s1w7">
 <src.rf>manual</src.rf>
@@ -267,7 +273,10 @@
 <LM>w#w-lnd91303-016-p4s2w5</LM>
 </w.rf>
 <form>Haarec</form>
-<tag lemma="Haarec_;R" src="orig" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="Haarec_;R" src="orig">NNIS1-----A----</AM>
+<AM lemma="Haarec-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-lnd91303-016-p4s2w6">
 <src.rf>manual</src.rf>
@@ -455,7 +464,10 @@
 <LM>w#w-lnd91303-016-p4s4w10</LM>
 </w.rf>
 <form>MiG</form>
-<tag lemma="mig_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="mig_;K" src="orig">NNIS1-----A----</AM>
+<AM lemma="MiG-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd91303-016-p4s4w11">
 <src.rf>manual</src.rf>

@@ -37,7 +37,11 @@
 <LM>w#w-mf930713-032-p2s1Aw1</LM>
 </w.rf>
 <form>México</form>
-<tag lemma="Mexiko_;G_,t_,x" src="auto" selected="1">NNNS1-----A----</tag>
+<tag>
+<AM lemma="Mexiko_;G_,t_,x" src="auto">NNNS1-----A----</AM>
+<AM lemma="México_;G_,s_^(^DD** Mexiko)" src="manual">NNNS1-----A----</AM>
+<AM lemma="México_;G_,s_^(^DD**Mexiko)" src="manual" selected="1">NNNS1-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930713-032-p2s1Aw2">
 <src.rf>manual</src.rf>
@@ -55,7 +59,10 @@
 <LM>w#w-mf930713-032-p2s1Bw1</LM>
 </w.rf>
 <form>Alberto</form>
-<tag lemma="Alberto_;Y_,t" src="auto" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Alberto_;Y_,t" src="auto">NNMS1-----A----</AM>
+<AM lemma="Alberto_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930713-032-p2s1Bw2">
 <src.rf>manual</src.rf>
@@ -441,7 +448,10 @@
 <LM>w#w-mf930713-032-p2s2w31</LM>
 </w.rf>
 <form>MS</form>
-<tag lemma="MS-3_:B_;w_^(mistrovství_světa)" src="orig" selected="1">NNNXX-----A---8</tag>
+<tag>
+<AM lemma="MS-3_:B_;w_^(mistrovství_světa)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="MS-3_:B_^(mistrovství_světa)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930713-032-p2s2w32">
 <src.rf>manual</src.rf>

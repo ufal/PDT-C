@@ -853,7 +853,10 @@
 <LM>w#w-mf920902-009-p1s5Bw7</LM>
 </w.rf>
 <form>jen</form>
-<tag lemma="jen-1" src="auto" selected="1">TT-------------</tag>
+<tag>
+<AM lemma="jen-1" src="auto">TT-------------</AM>
+<AM lemma="jen-4_^(pouze)" src="manual" selected="1">Db-------------</AM>
+</tag>
 </m>
 <m id="m-mf920902-009-p1s5Bw8">
 <src.rf>manual</src.rf>

@@ -651,7 +651,10 @@
 <LM>w#w-ln94208-140-p2s4w18</LM>
 </w.rf>
 <form>OSN</form>
-<tag lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94208-140-p2s4w19">
 <src.rf>manual</src.rf>
@@ -749,7 +752,10 @@
 <LM>w#w-ln94208-140-p2s5w11</LM>
 </w.rf>
 <form>OSN</form>
-<tag lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94208-140-p2s5w12">
 <src.rf>manual</src.rf>
@@ -1137,7 +1143,10 @@
 <LM>w#w-ln94208-140-p2s7w25</LM>
 </w.rf>
 <form>mechanismů</form>
-<tag lemma="mechanismus" src="orig" selected="1">NNIP2-----A----</tag>
+<tag>
+<AM lemma="mechanismus" src="orig">NNIP2-----A----</AM>
+<AM lemma="mechanismus_,s_^(^DD**mechanizmus)" src="manual" selected="1">NNIP2-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94208-140-p2s7w26">
 <src.rf>manual</src.rf>
@@ -1405,7 +1414,10 @@
 <LM>w#w-ln94208-140-p3s2w1</LM>
 </w.rf>
 <form>Měl</form>
-<tag lemma="mít" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag>
+<AM lemma="mít" src="orig">VpYS---XR-AA---</AM>
+<AM lemma="mít_:T" src="manual" selected="1">VpYS---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-ln94208-140-p3s2w2">
 <src.rf>manual</src.rf>
@@ -2253,7 +2265,10 @@
 <LM>w#w-ln94208-140-p4s1w5</LM>
 </w.rf>
 <form>Rada</form>
-<tag lemma="rada-3_^(poradní_sbor;_př._Česká_národní_r.)" src="orig" selected="1">NNFS1-----A----</tag>
+<tag>
+<AM lemma="rada-3_^(poradní_sbor;_př._Česká_národní_r.)" src="orig">NNFS1-----A----</AM>
+<AM lemma="rada-1_^(př._dát_někomu_dobrou_radu_poradní_sbor)" src="manual" selected="1">NNFS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94208-140-p4s1w6">
 <src.rf>manual</src.rf>
@@ -2479,7 +2494,11 @@
 <LM>w#w-ln94208-140-p4s2w17</LM>
 </w.rf>
 <form>stály</form>
-<tag lemma="stát-3_^(někdo/něco_stojí,_např._na_nohou)" src="orig" selected="1">VpTP---XR-AA---</tag>
+<tag>
+<AM lemma="stát-3_^(někdo/něco_stojí,_např._na_nohou)" src="orig">VpTP---XR-AA---</AM>
+<AM lemma="stát-4_:T_^(něco_stojí_peníze)" src="manual">VpTP---XR-AA---</AM>
+<AM lemma="stát-3_:T_^(někdo/něco_stojí,_např._na_nohou)" src="manual" selected="1">VpTP---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-ln94208-140-p4s2w18">
 <src.rf>manual</src.rf>
@@ -2503,7 +2522,10 @@
 <LM>w#w-ln94208-140-p4s2w20</LM>
 </w.rf>
 <form>OSN</form>
-<tag lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94208-140-p4s2w21">
 <src.rf>manual</src.rf>
@@ -2647,7 +2669,10 @@
 <LM>w#w-ln94208-140-p4s2w38</LM>
 </w.rf>
 <form>zastoupeny</form>
-<tag lemma="zastoupit" src="orig" selected="1">VsTP---XX-AP---</tag>
+<tag>
+<AM lemma="zastoupit" src="orig">VsTP---XX-AP---</AM>
+<AM lemma="zastoupit_:W" src="manual" selected="1">VsTP---XX-AP---</AM>
+</tag>
 </m>
 <m id="m-ln94208-140-p4s2w39">
 <src.rf>manual</src.rf>
@@ -2785,7 +2810,10 @@
 <LM>w#w-ln94208-140-p4s3w8</LM>
 </w.rf>
 <form>Madeleine</form>
-<tag lemma="Madeleine_;Y_,t" src="auto" selected="1">NNFXX-----A----</tag>
+<tag>
+<AM lemma="Madeleine_;Y_,t" src="auto">NNFXX-----A----</AM>
+<AM lemma="Madeleine_;Y" src="manual" selected="1">NNFXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94208-140-p4s3w9">
 <src.rf>manual</src.rf>
@@ -3127,7 +3155,7 @@
 <form>nepochybně</form>
 <tag>
 <AM lemma="nepochybně_^(*2ovat)" src="orig">Dg-------1N----</AM>
-<AM lemma="nepochybně" src="auto">Dg-------1A----</AM>
+<AM lemma="nepochybně" src="auto" selected="1">Dg-------1A----</AM>
 <AM lemma="pochybně_^(*1ý)" src="auto" recommended="1">Dg-------1N----</AM>
 </tag>
 </m>
@@ -3393,7 +3421,10 @@
 <LM>w#w-ln94208-140-p4s9w7</LM>
 </w.rf>
 <form>Rady</form>
-<tag lemma="rada-3_^(poradní_sbor;_př._Česká_národní_r.)" src="orig" selected="1">NNFS2-----A----</tag>
+<tag>
+<AM lemma="rada-3_^(poradní_sbor;_př._Česká_národní_r.)" src="orig">NNFS2-----A----</AM>
+<AM lemma="rada-1_^(př._dát_někomu_dobrou_radu_poradní_sbor) " src="manual" selected="1">NNFS2-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94208-140-p4s9w8">
 <src.rf>manual</src.rf>
@@ -3479,6 +3510,7 @@
 <AM lemma="mechanismus" src="auto">NNIP4-----A----</AM>
 <AM lemma="mechanismus" src="auto">NNIP5-----A----</AM>
 <AM lemma="mechanismus" src="auto" recommended="1">NNIP7-----A----</AM>
+<AM lemma="mechanismus_,s_^(^DD**mechanizmus)" src="manual" selected="1">NNIP1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94208-140-p4s9w18">
@@ -3737,7 +3769,10 @@
 <LM>w#w-ln94208-140-p4s10w17</LM>
 </w.rf>
 <form>OSN</form>
-<tag lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94208-140-p4s10w18">
 <src.rf>manual</src.rf>
@@ -3825,7 +3860,10 @@
 <LM>w#w-ln94208-140-p4s10w28</LM>
 </w.rf>
 <form>Rady</form>
-<tag lemma="rada-3_^(poradní_sbor;_př._Česká_národní_r.)" src="orig" selected="1">NNFS2-----A----</tag>
+<tag>
+<AM lemma="rada-3_^(poradní_sbor;_př._Česká_národní_r.)" src="orig">NNFS2-----A----</AM>
+<AM lemma="rada-1_^(př._dát_někomu_dobrou_radu_poradní_sbor)" src="manual" selected="1">NNFS2-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94208-140-p4s10w29">
 <src.rf>manual</src.rf>
@@ -4027,6 +4065,7 @@
 <AM lemma="organismus" src="auto" recommended="1">NNIP4-----A----</AM>
 <AM lemma="organismus" src="auto">NNIP5-----A----</AM>
 <AM lemma="organismus" src="auto">NNIP7-----A----</AM>
+<AM lemma="organismus_,s_^(^DD**organizmus)" src="manual" selected="1">NNIP4-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94208-140-p4s12w11">
@@ -4141,7 +4180,10 @@
 <LM>w#w-ln94208-140-p4s13w13</LM>
 </w.rf>
 <form>stát</form>
-<tag lemma="stát-2_^(něco_se_přihodilo)" src="orig" selected="1">Vf--------A----</tag>
+<tag>
+<AM lemma="stát-2_^(něco_se_přihodilo)" src="orig">Vf--------A----</AM>
+<AM lemma="stát-2_:W_^(něco_se_přihodilo)" src="manual" selected="1">Vf--------A----</AM>
+</tag>
 </m>
 <m id="m-ln94208-140-p4s13w14">
 <src.rf>manual</src.rf>
@@ -4207,7 +4249,7 @@
 <form>nejen</form>
 <tag>
 <AM lemma="nejen" src="orig">TT-------------</AM>
-<AM lemma="nejen" src="auto" recommended="1">Db-------------</AM>
+<AM lemma="nejen" src="auto" recommended="1" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m-ln94208-140-p4s13w22">
@@ -4216,7 +4258,10 @@
 <LM>w#w-ln94208-140-p4s13w22</LM>
 </w.rf>
 <form>Radu</form>
-<tag lemma="rada-3_^(poradní_sbor;_př._Česká_národní_r.)" src="orig" selected="1">NNFS4-----A----</tag>
+<tag>
+<AM lemma="rada-3_^(poradní_sbor;_př._Česká_národní_r.)" src="orig">NNFS4-----A----</AM>
+<AM lemma="rada-1_^(př._dát_někomu_dobrou_radu_poradní_sbor)" src="manual" selected="1">NNFS4-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94208-140-p4s13w23">
 <src.rf>manual</src.rf>
@@ -4250,7 +4295,7 @@
 <form>vůbec</form>
 <tag>
 <AM lemma="vůbec" src="orig">Db-------------</AM>
-<AM lemma="vůbec" src="auto" recommended="1">TT-------------</AM>
+<AM lemma="vůbec" src="auto" recommended="1" selected="1">TT-------------</AM>
 </tag>
 </m>
 <m id="m-ln94208-140-p4s13w27">
@@ -4275,7 +4320,10 @@
 <LM>w#w-ln94208-140-p4s13w29</LM>
 </w.rf>
 <form>OSN</form>
-<tag lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94208-140-p4s13w30">
 <src.rf>manual</src.rf>
@@ -4453,7 +4501,10 @@
 <LM>w#w-ln94208-140-p4s14w3</LM>
 </w.rf>
 <form>li</form>
-<tag lemma="li-1" src="auto" selected="1">TT-------------</tag>
+<tag>
+<AM lemma="li-1" src="auto">TT-------------</AM>
+<AM lemma="li-2" src="manual" selected="1">J,-------------</AM>
+</tag>
 </m>
 <m id="m-ln94208-140-p4s14w4">
 <src.rf>manual</src.rf>
@@ -4477,7 +4528,10 @@
 <LM>w#w-ln94208-140-p4s14w6</LM>
 </w.rf>
 <form>převzít</form>
-<tag lemma="převzít_^(př._od_někoho_věc,_zodpovědnost...)" src="orig" selected="1">Vf--------A----</tag>
+<tag>
+<AM lemma="převzít_^(př._od_někoho_věc,_zodpovědnost...)" src="orig">Vf--------A----</AM>
+<AM lemma="převzít_:W_^(př._od_někoho_věc,_zodpovědnost...)" src="manual" selected="1">Vf--------A----</AM>
+</tag>
 </m>
 <m id="m-ln94208-140-p4s14w7">
 <src.rf>manual</src.rf>
@@ -4557,7 +4611,10 @@
 <LM>w#w-ln94208-140-p4s14w16</LM>
 </w.rf>
 <form>najdou</form>
-<tag lemma="najít" src="orig" selected="1">VB-P---3P-AA---</tag>
+<tag>
+<AM lemma="najít" src="orig">VB-P---3P-AA---</AM>
+<AM lemma="najít_:W" src="manual" selected="1">VB-P---3P-AA---</AM>
+</tag>
 </m>
 <m id="m-ln94208-140-p4s14w17">
 <src.rf>manual</src.rf>
@@ -4607,7 +4664,10 @@
 <LM>w#w-ln94208-140-p4s15w3</LM>
 </w.rf>
 <form>li</form>
-<tag lemma="li-1" src="auto" selected="1">TT-------------</tag>
+<tag>
+<AM lemma="li-1" src="auto">TT-------------</AM>
+<AM lemma="li-2" src="manual" selected="1">J,-------------</AM>
+</tag>
 </m>
 <m id="m-ln94208-140-p4s15w4">
 <src.rf>manual</src.rf>

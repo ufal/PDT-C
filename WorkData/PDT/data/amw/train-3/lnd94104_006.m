@@ -525,7 +525,10 @@
 <LM>w#w-lnd94104-006-p1s6w2</LM>
 </w.rf>
 <form>Ruud</form>
-<tag lemma="Ruud_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Ruud_;S" src="orig">NNMS1-----A----</AM>
+<AM lemma="Ruud_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd94104-006-p1s6w3">
 <src.rf>manual</src.rf>
@@ -729,7 +732,10 @@
 <LM>w#w-lnd94104-006-p1s8w4</LM>
 </w.rf>
 <form>Ruud</form>
-<tag lemma="Ruud_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Ruud_;S" src="orig">NNMS1-----A----</AM>
+<AM lemma="Ruud_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd94104-006-p1s8w5">
 <src.rf>manual</src.rf>
@@ -761,7 +767,10 @@
 <LM>w#w-lnd94104-006-p1s8w8</LM>
 </w.rf>
 <form>Beatrix</form>
-<tag lemma="Beatrix_;Y_,t" src="auto" selected="1">NNFXX-----A----</tag>
+<tag>
+<AM lemma="Beatrix_;Y_,t" src="auto">NNFXX-----A----</AM>
+<AM lemma="Beatrix_;Y" src="manual" selected="1">NNFXX-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd94104-006-p1s8w9">
 <src.rf>manual</src.rf>
@@ -1079,7 +1088,10 @@
 <LM>w#w-lnd94104-006-p1s11w5</LM>
 </w.rf>
 <form>straně</form>
-<tag lemma="strana-1_^(v_prostoru)" src="orig" selected="1">NNFS6-----A----</tag>
+<tag>
+<AM lemma="strana-1_^(v_prostoru)" src="orig">NNFS6-----A----</AM>
+<AM lemma="strana" src="manual" selected="1">NNFS6-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd94104-006-p1s11w6">
 <src.rf>manual</src.rf>

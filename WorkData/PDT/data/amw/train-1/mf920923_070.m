@@ -203,7 +203,10 @@
 <LM>w#w-mf920923-070-p1s1w24</LM>
 </w.rf>
 <form>ČSKOS</form>
-<tag lemma="ČSKOS_:B_;K" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="ČSKOS_:B_;K" src="orig">NNXXX-----A---8</AM>
+<AM lemma="ČSKOS-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-mf920923-070-p1s1w25">
 <src.rf>manual</src.rf>
@@ -293,7 +296,10 @@
 <LM>w#w-mf920923-070-p1s2w3</LM>
 </w.rf>
 <form>ČSKOS</form>
-<tag lemma="ČSKOS_:B_;K" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="ČSKOS_:B_;K" src="orig">NNXXX-----A---8</AM>
+<AM lemma="ČSKOS-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-mf920923-070-p1s2w4">
 <src.rf>manual</src.rf>

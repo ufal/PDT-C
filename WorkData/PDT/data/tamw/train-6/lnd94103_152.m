@@ -103,7 +103,10 @@
 <LM>w#w-lnd94103-152-p1s3w2</LM>
 </w.rf>
 <form>kamionů</form>
-<tag lemma="kamión" src="orig" selected="1">NNIP2-----A----</tag>
+<tag>
+<AM lemma="kamión" src="orig">NNIP2-----A----</AM>
+<AM lemma="kamion_,s_^(^DD**kamión)" src="manual" selected="1">NNIP2-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd94103-152-p1s3w3">
 <src.rf>manual</src.rf>
@@ -369,7 +372,10 @@
 <LM>w#w-lnd94103-152-p1s4w1</LM>
 </w.rf>
 <form>Kamiony</form>
-<tag lemma="kamión" src="orig" selected="1">NNIP1-----A----</tag>
+<tag>
+<AM lemma="kamión" src="orig">NNIP1-----A----</AM>
+<AM lemma="kamion_,s_^(^DD**kamión)" src="manual" selected="1">NNIP1-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd94103-152-p1s4w2">
 <src.rf>manual</src.rf>
@@ -901,7 +907,10 @@
 <LM>w#w-lnd94103-152-p1s6w26</LM>
 </w.rf>
 <form>kamionů</form>
-<tag lemma="kamión" src="orig" selected="1">NNIP2-----A----</tag>
+<tag>
+<AM lemma="kamión" src="orig">NNIP2-----A----</AM>
+<AM lemma="kamion_,s_^(^DD**kamión)" src="manual" selected="1">NNIP2-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd94103-152-p1s6w27">
 <src.rf>manual</src.rf>

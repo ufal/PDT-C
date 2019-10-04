@@ -643,7 +643,10 @@
 <LM>w#w-mf920902-142-p3s1w25</LM>
 </w.rf>
 <form>třeba</form>
-<tag lemma="třeba-2" src="auto" selected="1">Db-------------</tag>
+<tag>
+<AM lemma="třeba-2" src="auto">Db-------------</AM>
+<AM lemma="třeba-3" src="manual" selected="1">TT-------------</AM>
+</tag>
 </m>
 <m id="m-mf920902-142-p3s1w26">
 <src.rf>manual</src.rf>
@@ -1357,7 +1360,7 @@
 <form>starosti</form>
 <tag>
 <AM lemma="starost" src="orig">NNFP1-----A----</AM>
-<AM lemma="starost-1" src="auto">NNFP1-----A----</AM>
+<AM lemma="starost-1" src="auto" selected="1">NNFP1-----A----</AM>
 <AM lemma="starost-1" src="auto" recommended="1">NNFP4-----A----</AM>
 <AM lemma="starost-1" src="auto">NNFP5-----A----</AM>
 <AM lemma="starost-1" src="auto">NNFS2-----A----</AM>
@@ -1737,7 +1740,10 @@
 <LM>w#w-mf920902-142-p5s2w1</LM>
 </w.rf>
 <form>Nakonec</form>
-<tag lemma="nakonec-1" src="auto" selected="1">Db-------------</tag>
+<tag>
+<AM lemma="nakonec-1" src="auto">Db-------------</AM>
+<AM lemma="nakonec-2" src="manual" selected="1">TT-------------</AM>
+</tag>
 </m>
 <m id="m-mf920902-142-p5s2w2">
 <src.rf>manual</src.rf>
@@ -2257,7 +2263,7 @@
 <form>nejen</form>
 <tag>
 <AM lemma="nejen" src="orig">TT-------------</AM>
-<AM lemma="nejen" src="auto" recommended="1">Db-------------</AM>
+<AM lemma="nejen" src="auto" recommended="1" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m-mf920902-142-p6s2w24">
@@ -2468,7 +2474,10 @@
 <LM>w#w-mf920902-142-p7s1w13</LM>
 </w.rf>
 <form>Rachmana</form>
-<tag lemma="Rachman_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag>
+<AM lemma="Rachman_;S" src="orig">NNMS2-----A----</AM>
+<AM lemma="Rachman_;S_;Y" src="manual" selected="1">NNMS2-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920902-142-p7s1w14">
 <src.rf>manual</src.rf>
@@ -2564,7 +2573,10 @@
 <LM>w#w-mf920902-142-p7s1w25</LM>
 </w.rf>
 <form>strany</form>
-<tag lemma="strana-2_^(politická)" src="orig" selected="1">NNFS2-----A----</tag>
+<tag>
+<AM lemma="strana-2_^(politická)" src="orig">NNFS2-----A----</AM>
+<AM lemma="strana" src="manual" selected="1">NNFS2-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920902-142-p7s1w26">
 <src.rf>manual</src.rf>
@@ -2606,6 +2618,8 @@
 <AM lemma="dobro-2_^(hudební_nástroj)" src="auto">NNNP4-----A----</AM>
 <AM lemma="dobro-2_^(hudební_nástroj)" src="auto">NNNP5-----A----</AM>
 <AM lemma="dobro-2_^(hudební_nástroj)" src="auto">NNNS2-----A----</AM>
+<AM lemma="	dobro_^(prospěch;;hudební_nástroj)" src="manual">NNNS2-----A----</AM>
+<AM lemma="dobro_^(prospěch;;hudební_nástroj)" src="manual" selected="1">NNNS2-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920902-142-p7s1w30">
@@ -2916,7 +2930,7 @@
 <form>vůbec</form>
 <tag>
 <AM lemma="vůbec" src="orig">Db-------------</AM>
-<AM lemma="vůbec" src="auto" recommended="1">TT-------------</AM>
+<AM lemma="vůbec" src="auto" recommended="1" selected="1">TT-------------</AM>
 </tag>
 </m>
 <m id="m-mf920902-142-p8s1w11">
@@ -3261,7 +3275,10 @@
 <LM>w#w-mf920902-142-p9s1w2</LM>
 </w.rf>
 <form>sice</form>
-<tag lemma="sice-2" src="auto" selected="1">Db-------------</tag>
+<tag>
+<AM lemma="sice-2" src="auto">Db-------------</AM>
+<AM lemma="sice-1_^(spojka;_připouští_se_určitá_fakta)" src="manual" selected="1">J^-------------</AM>
+</tag>
 </m>
 <m id="m-mf920902-142-p9s1w3">
 <src.rf>manual</src.rf>

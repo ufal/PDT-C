@@ -27,7 +27,10 @@
 <LM>w#w-mf920924-132-p1s1w2</LM>
 </w.rf>
 <form>Perot</form>
-<tag lemma="Perota_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Perota_;S" src="orig">NNMS1-----A----</AM>
+<AM lemma="Perot_;S" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920924-132-p1s1w3">
 <src.rf>manual</src.rf>
@@ -64,6 +67,7 @@
 <tag>
 <AM lemma="USA_;G" src="orig">NNIPX-----A----</AM>
 <AM lemma="USA_:B_;K_,t_^(United_States_of_America)" src="auto" recommended="1">NNIPX-----A---8</AM>
+<AM lemma="USA_:B_;K_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920924-132-p2s1w2">
@@ -90,7 +94,10 @@
 <LM>w#w-mf920924-132-p3s1Aw2</LM>
 </w.rf>
 <form>Perot</form>
-<tag lemma="Perota_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Perota_;S" src="orig">NNMS1-----A----</AM>
+<AM lemma="Perot_;S" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920924-132-p3s1Aw3">
 <src.rf>manual</src.rf>
@@ -166,7 +173,10 @@
 <LM>w#w-mf920924-132-p3s1Cw4</LM>
 </w.rf>
 <form>Rosse</form>
-<tag lemma="Ross_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag>
+<AM lemma="Ross_;S" src="orig">NNMS2-----A----</AM>
+<AM lemma="Ross_;S_;Y" src="manual" selected="1">NNMS2-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920924-132-p3s1Cw5">
 <src.rf>manual</src.rf>
@@ -174,7 +184,10 @@
 <LM>w#w-mf920924-132-p3s1Cw5</LM>
 </w.rf>
 <form>Perota</form>
-<tag lemma="Perota_;S" src="auto" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Perota_;S" src="auto">NNMS1-----A----</AM>
+<AM lemma="Perot_;S" src="manual" selected="1">NNMS2-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920924-132-p3s1Cw6">
 <src.rf>manual</src.rf>
@@ -286,7 +299,10 @@
 <LM>w#w-mf920924-132-p3s1Cw19</LM>
 </w.rf>
 <form>Perot</form>
-<tag lemma="Perota_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Perota_;S" src="orig">NNMS1-----A----</AM>
+<AM lemma="Perot_;S" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920924-132-p3s1Cw20">
 <src.rf>manual</src.rf>
@@ -368,7 +384,10 @@
 <LM>w#w-mf920924-132-p3s2w1</LM>
 </w.rf>
 <form>Perot</form>
-<tag lemma="Perota_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Perota_;S" src="orig">NNMS1-----A----</AM>
+<AM lemma="Perot_;S" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920924-132-p3s2w2">
 <src.rf>manual</src.rf>
@@ -400,7 +419,10 @@
 <LM>w#w-mf920924-132-p3s2w5</LM>
 </w.rf>
 <form>nedávno</form>
-<tag lemma="nedávno-1" src="auto" selected="1">Db-------------</tag>
+<tag>
+<AM lemma="nedávno-1" src="auto">Db-------------</AM>
+<AM lemma="dávno-1" src="manual" selected="1">Dg-------1N----</AM>
+</tag>
 </m>
 <m id="m-mf920924-132-p3s2w6">
 <src.rf>manual</src.rf>
@@ -536,7 +558,10 @@
 <LM>w#w-mf920924-132-p3s2w22</LM>
 </w.rf>
 <form>Bílém</form>
-<tag lemma="bílý" src="orig" selected="1">AAIS6----1A----</tag>
+<tag>
+<AM lemma="bílý" src="orig">AAIS6----1A----</AM>
+<AM lemma="bílý_;o" src="manual" selected="1">AAIS6----1A----</AM>
+</tag>
 </m>
 <m id="m-mf920924-132-p3s2w23">
 <src.rf>manual</src.rf>
@@ -586,7 +611,10 @@
 <LM>w#w-mf920924-132-p3s3w3</LM>
 </w.rf>
 <form>NBC</form>
-<tag lemma="NBC_:B_;K_^(National_Broadcasting_Corp.;_TV_spol.)" src="auto" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="NBC_:B_;K_^(National_Broadcasting_Corp.;_TV_spol.)" src="auto">NNFXX-----A---8</AM>
+<AM lemma="NBC-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920924-132-p3s3w4">
 <src.rf>manual</src.rf>
@@ -602,7 +630,10 @@
 <LM>w#w-mf920924-132-p3s3w5</LM>
 </w.rf>
 <form>J</form>
-<tag lemma="J-0_:B_;Y" src="orig" selected="1">NNMXX-----A---8</tag>
+<tag>
+<AM lemma="J-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
+<AM lemma="J-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920924-132-p3s3w6">
 <src.rf>manual</src.rf>
@@ -621,7 +652,7 @@
 <tag>
 <AM lemma="Baker_;S" src="orig">NNMS4-----A----</AM>
 <AM lemma="Baker_;S" src="auto">NNMS2-----A---2</AM>
-<AM lemma="Baker_;S" src="auto" recommended="1">NNMS4-----A---2</AM>
+<AM lemma="Baker_;S" src="auto" recommended="1" selected="1">NNMS4-----A---2</AM>
 </tag>
 </m>
 <m id="m-mf920924-132-p3s3w8">
@@ -678,7 +709,10 @@
 <LM>w#w-mf920924-132-p3s3w14</LM>
 </w.rf>
 <form>Bílého</form>
-<tag lemma="bílý" src="orig" selected="1">AAIS2----1A----</tag>
+<tag>
+<AM lemma="bílý" src="orig">AAIS2----1A----</AM>
+<AM lemma="bílý_;o" src="manual" selected="1">AAIS2----1A----</AM>
+</tag>
 </m>
 <m id="m-mf920924-132-p3s3w15">
 <src.rf>manual</src.rf>
@@ -750,7 +784,11 @@
 <LM>w#w-mf920924-132-p3s3w23</LM>
 </w.rf>
 <form>Perotova</form>
-<tag lemma="Perotův_;S_^(*2a)" src="orig" selected="1">AUIS2M---------</tag>
+<tag>
+<AM lemma="Perotův_;S_^(*2a)" src="orig">AUIS2M---------</AM>
+<AM lemma="Perotův_;S_^(*2)" src="manual">AUFS1M---------</AM>
+<AM lemma="Perotův_;S_^(*2)" src="manual" selected="1">AUIS2M---------</AM>
+</tag>
 </m>
 <m id="m-mf920924-132-p3s3w24">
 <src.rf>manual</src.rf>

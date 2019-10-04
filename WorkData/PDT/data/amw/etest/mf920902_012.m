@@ -61,7 +61,10 @@
 <LM>w#w-mf920902-012-p1s1Bw3</LM>
 </w.rf>
 <form>tnt</form>
-<tag lemma="tnt-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="tnt-99_:B_;S" src="orig">NNXXX-----A---8</AM>
+<AM lemma="tnt-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920902-012-p1s1Bw4">
 <src.rf>manual</src.rf>
@@ -135,7 +138,12 @@
 <LM>w#w-mf920902-012-p1s1Cw7</LM>
 </w.rf>
 <form>zdražili</form>
-<tag lemma="zdražit_:W" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="zdražit_:W" src="orig">VpMP---XR-AA---</tag>
+<comment>
+<LM type="New Form">
+<text>zdražily</text>
+</LM>
+</comment>
 </m>
 <m id="m-mf920902-012-p1s1Cw8">
 <src.rf>manual</src.rf>
@@ -322,7 +330,10 @@
 <LM>w#w-mf920902-012-p1s2w14</LM>
 </w.rf>
 <form>už</form>
-<tag lemma="už-1" src="auto" selected="1">Db-------------</tag>
+<tag>
+<AM lemma="už-1" src="auto">Db-------------</AM>
+<AM lemma="už-2" src="manual" selected="1">TT-------------</AM>
+</tag>
 </m>
 <m id="m-mf920902-012-p1s2w15">
 <src.rf>manual</src.rf>
@@ -572,7 +583,10 @@
 <LM>w#w-mf920902-012-p1s3w25</LM>
 </w.rf>
 <form>OVaK</form>
-<tag lemma="OVaK_:B_;K" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="OVaK_:B_;K" src="orig">NNXXX-----A---8</AM>
+<AM lemma="OVaK-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-mf920902-012-p1s3w26">
 <src.rf>manual</src.rf>

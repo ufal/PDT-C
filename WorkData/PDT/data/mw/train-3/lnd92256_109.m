@@ -90,6 +90,7 @@
 <AM lemma="Hradec-2_:B_;G" src="auto" recommended="1">NNIXX-----A---8</AM>
 <AM lemma="hr-1" src="auto">Db-------------</AM>
 <AM lemma="hr-2" src="auto">II-------------</AM>
+<AM lemma="Hr-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-lnd92256-109-p2s1w9">
@@ -122,7 +123,10 @@
 <LM>w#w-lnd92256-109-p2s2w3</LM>
 </w.rf>
 <form>Loko</form>
-<tag lemma="Loko_;G" src="orig" selected="1">NNNS1-----A----</tag>
+<tag>
+<AM lemma="Loko_;G" src="orig">NNNS1-----A----</AM>
+<AM lemma="Loko_;G_;K" src="manual" selected="1">NNNS1-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92256-109-p2s2w4">
 <src.rf>manual</src.rf>

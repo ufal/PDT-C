@@ -347,7 +347,10 @@
 <LM>w#w-ln95045-028-p2s3w4</LM>
 </w.rf>
 <form>Népszábadság</form>
-<tag lemma="Népszábadság_;R_,t" src="orig" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="Népszábadság_;R_,t" src="orig">NNIS1-----A----</AM>
+<AM lemma="Népszábadság_;R" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95045-028-p2s3w5">
 <src.rf>manual</src.rf>
@@ -712,7 +715,10 @@
 <LM>w#w-ln95045-028-p2s5w8</LM>
 </w.rf>
 <form>řekli</form>
-<tag lemma="říci" src="auto" selected="1">VpMP---XR-AA---</tag>
+<tag>
+<AM lemma="říci" src="auto">VpMP---XR-AA---</AM>
+<AM lemma="říci_:W" src="manual" selected="1">VpMP---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-ln95045-028-p2s5w9">
 <src.rf>manual</src.rf>
@@ -956,7 +962,10 @@
 <LM>w#w-ln95045-028-p3s2w11</LM>
 </w.rf>
 <form>kg</form>
-<tag lemma="kg-1`kilogram_:B" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="kg-1`kilogram_:B" src="orig">NNIXX-----A---8</AM>
+<AM lemma="kilogram" src="manual" selected="1">NNIXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln95045-028-p3s2w12">
 <src.rf>manual</src.rf>
@@ -1168,7 +1177,10 @@
 <LM>w#w-ln95045-028-p3s4w12</LM>
 </w.rf>
 <form>ME</form>
-<tag lemma="ME-1_:B_;w_^(mistrovství_Evropy)" src="orig" selected="1">NNNXX-----A---8</tag>
+<tag>
+<AM lemma="ME-1_:B_;w_^(mistrovství_Evropy)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="ME-1_:B_^(mistrovství_Evropy)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95045-028-p3s4w13">
 <src.rf>manual</src.rf>
@@ -1184,7 +1196,10 @@
 <LM>w#w-ln95045-028-p3s4w14</LM>
 </w.rf>
 <form>MS</form>
-<tag lemma="MS-3_:B_;w_^(mistrovství_světa)" src="orig" selected="1">NNNXX-----A---8</tag>
+<tag>
+<AM lemma="MS-3_:B_;w_^(mistrovství_světa)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="MS-3_:B_^(mistrovství_světa)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95045-028-p3s4w15">
 <src.rf>manual</src.rf>

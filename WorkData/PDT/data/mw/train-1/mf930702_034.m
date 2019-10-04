@@ -19,7 +19,10 @@
 <LM>w#w-mf930702-034-p1s1w1</LM>
 </w.rf>
 <form>ČEZ</form>
-<tag lemma="ČEZ-1_:B_;K_^(České_energetické_závody)" src="orig" selected="1">NNIPX-----A---8</tag>
+<tag>
+<AM lemma="ČEZ-1_:B_;K_^(České_energetické_závody)" src="orig">NNIPX-----A---8</AM>
+<AM lemma="ČEZ-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930702-034-p1s1w2">
 <src.rf>manual</src.rf>
@@ -69,7 +72,10 @@
 <LM>w#w-mf930702-034-p2s1w3</LM>
 </w.rf>
 <form>lh</form>
-<tag lemma="lh-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="lh-99_:B_;S" src="orig">NNXXX-----A---8</AM>
+<AM lemma="lh-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930702-034-p2s1w4">
 <src.rf>manual</src.rf>
@@ -151,6 +157,8 @@
 <AM lemma="i-3_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
 <AM lemma="i-4_^(graf._oddělovač)" src="auto">Z:-------------</AM>
 <AM lemma="i-8_:B_^(ost._zkratka)" src="auto">XX------------8</AM>
+<AM lemma="I-1_:B" src="manual">NNXXX-----A---8</AM>
+<AM lemma="I-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930702-034-p2s1w12">
@@ -182,6 +190,8 @@
 <AM lemma="Celsius_:B" src="auto">NNMXX-----A---8</AM>
 <AM lemma="c-3_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
 <AM lemma="c-8_:B_^(ost._zkratka)" src="auto">XX------------8</AM>
+<AM lemma="C-2_:B" src="manual">NNXXX-----A---8</AM>
+<AM lemma="C-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930702-034-p2s1w14">
@@ -222,7 +232,10 @@
 <LM>w#w-mf930702-034-p2s1w18</LM>
 </w.rf>
 <form>ČEZ</form>
-<tag lemma="ČEZ-1_:B_;K_^(České_energetické_závody)" src="orig" selected="1">NNIPX-----A---8</tag>
+<tag>
+<AM lemma="ČEZ-1_:B_;K_^(České_energetické_závody)" src="orig">NNIPX-----A---8</AM>
+<AM lemma="ČEZ-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930702-034-p2s1w19">
 <src.rf>manual</src.rf>
@@ -294,7 +307,11 @@
 <LM>w#w-mf930702-034-p2s1w27</LM>
 </w.rf>
 <form>C</form>
-<tag lemma="C-4_:B_;K" src="orig" selected="1">AAXXX----1A---8</tag>
+<tag>
+<AM lemma="C-4_:B_;K" src="orig">AAXXX----1A---8</AM>
+<AM lemma="C-2_:B" src="manual">NNXXX-----A---8</AM>
+<AM lemma="C-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930702-034-p2s1w28">
 <src.rf>manual</src.rf>
@@ -310,7 +327,11 @@
 <LM>w#w-mf930702-034-p2s1w29</LM>
 </w.rf>
 <form>M</form>
-<tag lemma="M-4_:B_;K" src="orig" selected="1">AAXXX----1A---8</tag>
+<tag>
+<AM lemma="M-4_:B_;K" src="orig">AAXXX----1A---8</AM>
+<AM lemma="M-1_:B" src="manual">NNXXX-----A---8</AM>
+<AM lemma="M-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930702-034-p2s1w30">
 <src.rf>manual</src.rf>
@@ -341,6 +362,8 @@
 <AM lemma="e-1" src="auto">II-------------</AM>
 <AM lemma="e-3_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
 <AM lemma="e-8_:B_^(ost._zkratka)" src="auto">XX------------8</AM>
+<AM lemma="E-2_:B" src="manual">NNXXX-----A---8</AM>
+<AM lemma="E-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930702-034-p2s1w32">
@@ -381,7 +404,10 @@
 <LM>w#w-mf930702-034-p2s1w36</LM>
 </w.rf>
 <form>podepsali</form>
-<tag lemma="podepsat" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag>
+<AM lemma="podepsat" src="orig">VpMP---XR-AA---</AM>
+<AM lemma="podepsat_:W" src="manual" selected="1">VpMP---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-mf930702-034-p2s1w37">
 <src.rf>manual</src.rf>
@@ -723,7 +749,10 @@
 <LM>w#w-mf930702-034-p2s6w2</LM>
 </w.rf>
 <form>ČEZ</form>
-<tag lemma="ČEZ-1_:B_;K_^(České_energetické_závody)" src="orig" selected="1">NNIPX-----A---8</tag>
+<tag>
+<AM lemma="ČEZ-1_:B_;K_^(České_energetické_závody)" src="orig">NNIPX-----A---8</AM>
+<AM lemma="ČEZ-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930702-034-p2s6w3">
 <src.rf>manual</src.rf>
@@ -779,7 +808,10 @@
 <LM>w#w-mf930702-034-p2s6w9</LM>
 </w.rf>
 <form>mají</form>
-<tag lemma="mít" src="orig" selected="1">VB-P---3P-AA---</tag>
+<tag>
+<AM lemma="mít" src="orig">VB-P---3P-AA---</AM>
+<AM lemma="mít_:T" src="manual" selected="1">VB-P---3P-AA---</AM>
+</tag>
 </m>
 <m id="m-mf930702-034-p2s6w10">
 <src.rf>manual</src.rf>

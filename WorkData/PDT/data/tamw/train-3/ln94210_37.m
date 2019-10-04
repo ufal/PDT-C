@@ -81,6 +81,7 @@
 <AM lemma="pech-99_:B_;S" src="orig">NNXXX-----A---8</AM>
 <AM lemma="pech" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="pech" src="auto">NNIS4-----A----</AM>
+<AM lemma="pech-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94210-37-p2s1Aw4">
@@ -259,7 +260,10 @@
 <LM>w#w-ln94210-37-p2s1Bw20</LM>
 </w.rf>
 <form>ČNZP</form>
-<tag lemma="ČNZP-1_:B_;K_^(Česká_národní_zdravotní_pojišťovna)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ČNZP-1_:B_;K_^(Česká_národní_zdravotní_pojišťovna)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČNZP-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94210-37-p2s1Bw21">
 <src.rf>manual</src.rf>
@@ -569,7 +573,11 @@
 <LM>w#w-ln94210-37-p2s4w5</LM>
 </w.rf>
 <form>ČNZP</form>
-<tag lemma="ČNZP-1_:B_;K_^(Česká_národní_zdravotní_pojišťovna)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ČNZP-1_:B_;K_^(Česká_národní_zdravotní_pojišťovna)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČNZP-77" src="manual">F%-------------</AM>
+<AM lemma="ČNZP-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94210-37-p2s4w6">
 <src.rf>manual</src.rf>
@@ -919,7 +927,10 @@
 <LM>w#w-ln94210-37-p2s7w1</LM>
 </w.rf>
 <form>ČNZP</form>
-<tag lemma="ČNZP-1_:B_;K_^(Česká_národní_zdravotní_pojišťovna)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ČNZP-1_:B_;K_^(Česká_národní_zdravotní_pojišťovna)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČNZP-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94210-37-p2s7w2">
 <src.rf>manual</src.rf>
@@ -935,7 +946,10 @@
 <LM>w#w-ln94210-37-p2s7w3</LM>
 </w.rf>
 <form>tzv</form>
-<tag lemma="takzvaný_:B" src="orig" selected="1">AAXXX----1A---8</tag>
+<tag>
+<AM lemma="takzvaný_:B" src="orig">AAXXX----1A---8</AM>
+<AM lemma="takzvaný" src="manual" selected="1">AAXXX----1A---8</AM>
+</tag>
 </m>
 <m id="m-ln94210-37-p2s7w4">
 <src.rf>manual</src.rf>
@@ -1137,7 +1151,10 @@
 <LM>w#w-ln94210-37-p2s8w1</LM>
 </w.rf>
 <form>ČNZP</form>
-<tag lemma="ČNZP-1_:B_;K_^(Česká_národní_zdravotní_pojišťovna)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ČNZP-1_:B_;K_^(Česká_národní_zdravotní_pojišťovna)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČNZP-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94210-37-p2s8w2">
 <src.rf>manual</src.rf>
@@ -1265,7 +1282,10 @@
 <LM>w#w-ln94210-37-p2s8w17</LM>
 </w.rf>
 <form>kuponová</form>
-<tag lemma="kuponový" src="orig" selected="1">AAFS1----1A----</tag>
+<tag>
+<AM lemma="kuponový" src="orig">AAFS1----1A----</AM>
+<AM lemma="kuponový_,s_^(^DD**kupónový)" src="manual" selected="1">AAFS1----1A----</AM>
+</tag>
 </m>
 <m id="m-ln94210-37-p2s8w18">
 <src.rf>manual</src.rf>
@@ -1305,7 +1325,10 @@
 <LM>w#w-ln94210-37-p2s8w22</LM>
 </w.rf>
 <form>RM</form>
-<tag lemma="RM_:B_;K_;b_^(RM-systém)" src="auto" selected="1">AAXXX----1A---8</tag>
+<tag>
+<AM lemma="RM_:B_;K_;b_^(RM-systém)" src="auto">AAXXX----1A---8</AM>
+<AM lemma="RM-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94210-37-p2s8w23">
 <src.rf>manual</src.rf>
@@ -1477,7 +1500,7 @@
 <form>kdykoli</form>
 <tag>
 <AM lemma="kdykoliv" src="orig">Db------------1</AM>
-<AM lemma="kdykoli" src="auto" recommended="1">Db-------------</AM>
+<AM lemma="kdykoli" src="auto" recommended="1" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m-ln94210-37-p2s9w19">
@@ -1706,7 +1729,10 @@
 <LM>w#w-ln94210-37-p2s11w1</LM>
 </w.rf>
 <form>LN</form>
-<tag lemma="LN-1_:B_;R_^(Lidové_noviny,_deník)" src="orig" selected="1">NNFPX-----A---8</tag>
+<tag>
+<AM lemma="LN-1_:B_;R_^(Lidové_noviny,_deník)" src="orig">NNFPX-----A---8</AM>
+<AM lemma="LN-1_:B_;K_;R_^(Lidové_noviny)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94210-37-p2s11w2">
 <src.rf>manual</src.rf>

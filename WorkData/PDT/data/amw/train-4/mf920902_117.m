@@ -43,7 +43,10 @@
 <LM>w#w-mf920902-117-p1s1w4</LM>
 </w.rf>
 <form>Svitu</form>
-<tag lemma="svit" src="orig" selected="1">NNIS6-----A---1</tag>
+<tag>
+<AM lemma="svit" src="orig">NNIS6-----A---1</AM>
+<AM lemma="Svit_;K" src="manual" selected="1">NNIS6-----A---1</AM>
+</tag>
 </m>
 </s>
 <s id="m-mf920902-117-p2s1">
@@ -73,6 +76,7 @@
 <AM lemma="do-99_:B_;S" src="orig">NNXXX-----A---8</AM>
 <AM lemma="do-1" src="auto" recommended="1">RR--2----------</AM>
 <AM lemma="do-7_^(předpona,_sam.)" src="auto">A2--------A----</AM>
+<AM lemma="do-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920902-117-p2s1w4">
@@ -163,7 +167,10 @@
 <LM>w#w-mf920902-117-p2s2w9</LM>
 </w.rf>
 <form>a</form>
-<tag lemma="akciový_:B_^(jen_akciová_společnost)" src="orig" selected="1">AAXXX----1A---8</tag>
+<tag>
+<AM lemma="akciový_:B_^(jen_akciová_společnost)" src="orig">AAXXX----1A---8</AM>
+<AM lemma="akciový" src="manual" selected="1">AAXXX----1A---8</AM>
+</tag>
 </m>
 <m id="m-mf920902-117-p2s2w10">
 <src.rf>manual</src.rf>
@@ -179,7 +186,10 @@
 <LM>w#w-mf920902-117-p2s2w11</LM>
 </w.rf>
 <form>s</form>
-<tag lemma="společnost_:B" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="společnost_:B" src="orig">NNFXX-----A---8</AM>
+<AM lemma="společnost" src="manual" selected="1">NNFXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-mf920902-117-p2s2w12">
 <src.rf>manual</src.rf>
@@ -195,7 +205,10 @@
 <LM>w#w-mf920902-117-p2s2w13</LM>
 </w.rf>
 <form>Svit</form>
-<tag lemma="svit" src="orig" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="svit" src="orig">NNIS1-----A----</AM>
+<AM lemma="Svit_;K" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920902-117-p2s2w14">
 <src.rf>manual</src.rf>
@@ -277,7 +290,10 @@
 <LM>w#w-mf920902-117-p2s4w8</LM>
 </w.rf>
 <form>Gutal</form>
-<tag lemma="Gutal_;K_,t" src="orig" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="Gutal_;K_,t" src="orig">NNIS1-----A----</AM>
+<AM lemma="Gutal_;K" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920902-117-p2s4w9">
 <src.rf>manual</src.rf>
@@ -383,7 +399,10 @@
 <LM>w#w-mf920902-117-p2s5w3</LM>
 </w.rf>
 <form>Svit</form>
-<tag lemma="svit" src="orig" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="svit" src="orig">NNIS1-----A----</AM>
+<AM lemma="Svit_;K" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920902-117-p2s5w4">
 <src.rf>manual</src.rf>
@@ -747,7 +766,10 @@
 <LM>w#w-mf920902-117-p2s7w14</LM>
 </w.rf>
 <form>Svitu</form>
-<tag lemma="svit" src="orig" selected="1">NNIS3-----A----</tag>
+<tag>
+<AM lemma="svit" src="orig">NNIS3-----A----</AM>
+<AM lemma="Svit_;K" src="manual" selected="1">NNIS3-----A---1</AM>
+</tag>
 </m>
 <m id="m-mf920902-117-p2s7w15">
 <src.rf>manual</src.rf>
@@ -1049,7 +1071,7 @@
 <form>ovšem</form>
 <tag>
 <AM lemma="ovšem-1_^(avšak,_však;_odporovací_spojka)" src="orig">J^-------------</AM>
-<AM lemma="ovšem" src="auto" recommended="1">TT-------------</AM>
+<AM lemma="ovšem" src="auto" recommended="1" selected="1">TT-------------</AM>
 </tag>
 </m>
 <m id="m-mf920902-117-p2s9w4">
@@ -1074,7 +1096,10 @@
 <LM>w#w-mf920902-117-p2s9w6</LM>
 </w.rf>
 <form>nečekaně</form>
-<tag lemma="čekaně_^(*1ý)" src="auto" selected="1">Dg-------1N----</tag>
+<tag>
+<AM lemma="čekaně_^(*1ý)" src="auto">Dg-------1N----</AM>
+<AM lemma="nečekaně_^(*1ý)" src="manual" selected="1">Dg-------1A----</AM>
+</tag>
 </m>
 <m id="m-mf920902-117-p2s9w7">
 <src.rf>manual</src.rf>

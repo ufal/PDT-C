@@ -530,7 +530,10 @@
 <LM>w#w-ln94202-9-p4s1w1</LM>
 </w.rf>
 <form>Nejvíce</form>
-<tag lemma="hodně-2" src="auto" selected="1">Dg-------3A----</tag>
+<tag>
+<AM lemma="hodně-2" src="auto">Dg-------3A----</AM>
+<AM lemma="nejvíce_^(nejvíce_+_2._p.,_nejvíce_peněz)" src="manual" selected="1">Ca--1----------</AM>
+</tag>
 </m>
 <m id="m-ln94202-9-p4s1w2">
 <src.rf>manual</src.rf>
@@ -591,6 +594,7 @@
 <AM lemma="ho" src="auto" recommended="1">II-------------</AM>
 <AM lemma="on-1" src="auto">PHZS2--3-------</AM>
 <AM lemma="on-1" src="auto">PHZS4--3-------</AM>
+<AM lemma="Ho_;S" src="manual" selected="1">NNMXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94202-9-p4s1w9">
@@ -608,6 +612,8 @@
 <AM lemma="ča_^(ča-ča)" src="auto">NNFS3-----A---1</AM>
 <AM lemma="ča_^(ča-ča)" src="auto">NNFS6-----A---1</AM>
 <AM lemma="či" src="auto" recommended="1">J^-------------</AM>
+<AM lemma="Či_;Y" src="manual">NNMXX-----A----</AM>
+<AM lemma="Či_;S_;Y" src="manual" selected="1">NNMXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94202-9-p4s1w10">
@@ -616,7 +622,10 @@
 <LM>w#w-ln94202-9-p4s1w10</LM>
 </w.rf>
 <form>Minově</form>
-<tag lemma="Minův_;S_^(*2o)" src="auto" selected="1">AUNS6M---------</tag>
+<tag>
+<AM lemma="Minův_;S_^(*2o)" src="auto">AUNS6M---------</AM>
+<AM lemma="Minův_;S_;Y" src="manual" selected="1">AUNS6M---------</AM>
+</tag>
 </m>
 <m id="m-ln94202-9-p4s1w11">
 <src.rf>manual</src.rf>
@@ -626,7 +635,7 @@
 <form>Městě</form>
 <tag>
 <AM lemma="Město-2_;G_^(součást_názvů_měst)" src="orig">NNNS6-----A----</AM>
-<AM lemma="město" src="auto" recommended="1">NNNS6-----A----</AM>
+<AM lemma="město" src="auto" recommended="1" selected="1">NNNS6-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94202-9-p4s1w12">
@@ -659,7 +668,10 @@
 <LM>w#w-ln94202-9-p4s1w15</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-2" src="auto" selected="1">Dg-------2A----</tag>
+<tag>
+<AM lemma="hodně-2" src="auto">Dg-------2A----</AM>
+<AM lemma="hodně-3" src="manual" selected="1">Dg-------2A----</AM>
+</tag>
 </m>
 <m id="m-ln94202-9-p4s1w16">
 <src.rf>manual</src.rf>
@@ -707,7 +719,10 @@
 <LM>w#w-ln94202-9-p4s1w21</LM>
 </w.rf>
 <form>milionů</form>
-<tag lemma="milión`1000000" src="orig" selected="1">NNIP2-----A----</tag>
+<tag>
+<AM lemma="milión`1000000" src="orig">NNIP2-----A----</AM>
+<AM lemma="milion`1000000_,s_^(^DD**milión)" src="manual" selected="1">NNIP2-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94202-9-p4s1w22">
 <src.rf>manual</src.rf>

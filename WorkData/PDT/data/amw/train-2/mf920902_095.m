@@ -61,7 +61,10 @@
 <LM>w#w-mf920902-095-p2s1Aw3</LM>
 </w.rf>
 <form>str</form>
-<tag lemma="strana-4_:B" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="strana-4_:B" src="orig">NNFXX-----A---8</AM>
+<AM lemma="strana" src="manual" selected="1">NNFXX-----A---9</AM>
+</tag>
 </m>
 <m id="m-mf920902-095-p2s1Aw4">
 <src.rf>manual</src.rf>
@@ -765,7 +768,10 @@
 <LM>w#w-mf920902-095-p2s4w7</LM>
 </w.rf>
 <form>T</form>
-<tag lemma="t-1`tuna_:B" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="t-1`tuna_:B" src="orig">NNFXX-----A---8</AM>
+<AM lemma="T-33_^(označení_pomocí_písmene)" src="manual" selected="1">NNNXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920902-095-p2s4w8">
 <src.rf>manual</src.rf>
@@ -797,7 +803,10 @@
 <LM>w#w-mf920902-095-p2s4w11</LM>
 </w.rf>
 <form>MiG</form>
-<tag lemma="mig_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="mig_;K" src="orig">NNIS1-----A----</AM>
+<AM lemma="MiG-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-mf920902-095-p2s4w12">
 <src.rf>manual</src.rf>
@@ -1132,7 +1141,10 @@
 <LM>w#w-mf920902-095-p3s3w3</LM>
 </w.rf>
 <form>Čs</form>
-<tag lemma="československý_:B" src="orig" selected="1">AAXXX----1A---8</tag>
+<tag>
+<AM lemma="československý_:B" src="orig">AAXXX----1A---8</AM>
+<AM lemma="československý" src="manual" selected="1">AAXXX----1A---8</AM>
+</tag>
 </m>
 <m id="m-mf920902-095-p3s3w4">
 <src.rf>manual</src.rf>
@@ -1268,7 +1280,10 @@
 <LM>w#w-mf920902-095-p3s3w20</LM>
 </w.rf>
 <form>čs</form>
-<tag lemma="československý_:B" src="orig" selected="1">AAXXX----1A---8</tag>
+<tag>
+<AM lemma="československý_:B" src="orig">AAXXX----1A---8</AM>
+<AM lemma="československý" src="manual" selected="1">AAXXX----1A---8</AM>
+</tag>
 </m>
 <m id="m-mf920902-095-p3s3w21">
 <src.rf>manual</src.rf>
@@ -1519,7 +1534,10 @@
 <LM>w#w-mf920902-095-p3s4w27</LM>
 </w.rf>
 <form>např</form>
-<tag lemma="například_:B" src="orig" selected="1">Db------------8</tag>
+<tag>
+<AM lemma="například_:B" src="orig">Db------------8</AM>
+<AM lemma="například" src="manual" selected="1">Db------------8</AM>
+</tag>
 </m>
 <m id="m-mf920902-095-p3s4w28">
 <src.rf>manual</src.rf>

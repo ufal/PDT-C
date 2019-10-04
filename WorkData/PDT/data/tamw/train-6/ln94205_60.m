@@ -19,7 +19,10 @@
 <LM>w#w-ln94205-60-p1s1w1</LM>
 </w.rf>
 <form>ČMSS</form>
-<tag lemma="ČMSS_:B_;K" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ČMSS_:B_;K" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČMSS-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln94205-60-p1s1w2">
 <src.rf>manual</src.rf>
@@ -177,7 +180,10 @@
 <LM>w#w-ln94205-60-p2s1Cw5</LM>
 </w.rf>
 <form>ČMSS</form>
-<tag lemma="ČMSS_:B_;K" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ČMSS_:B_;K" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČMSS-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln94205-60-p2s1Cw6">
 <src.rf>manual</src.rf>
@@ -297,7 +303,10 @@
 <LM>w#w-ln94205-60-p2s1Cw20</LM>
 </w.rf>
 <form>HSMS</form>
-<tag lemma="HSMS_:B_;K" src="orig" selected="1">NNNXX-----A---8</tag>
+<tag>
+<AM lemma="HSMS_:B_;K" src="orig">NNNXX-----A---8</AM>
+<AM lemma="HSMS-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln94205-60-p2s1Cw21">
 <src.rf>manual</src.rf>
@@ -345,7 +354,10 @@
 <LM>w#w-ln94205-60-p2s1Cw26</LM>
 </w.rf>
 <form>ČMSS</form>
-<tag lemma="ČMSS_:B_;K" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ČMSS_:B_;K" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČMSS-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln94205-60-p2s1Cw27">
 <src.rf>manual</src.rf>
@@ -417,7 +429,10 @@
 <LM>w#w-ln94205-60-p2s1Cw35</LM>
 </w.rf>
 <form>MNS</form>
-<tag lemma="MNS_:B_;K_^(Moravská_národní_strana)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="MNS_:B_;K_^(Moravská_národní_strana)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="MNS-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln94205-60-p2s1Cw36">
 <src.rf>manual</src.rf>
@@ -491,7 +506,10 @@
 <LM>w#w-ln94205-60-p2s2w1</LM>
 </w.rf>
 <form>LN</form>
-<tag lemma="LN-1_:B_;R_^(Lidové_noviny,_deník)" src="orig" selected="1">NNFPX-----A---8</tag>
+<tag>
+<AM lemma="LN-1_:B_;R_^(Lidové_noviny,_deník)" src="orig">NNFPX-----A---8</AM>
+<AM lemma="LN-1_:B_;K_;R_^(Lidové_noviny,_deník)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94205-60-p2s2w2">
 <src.rf>manual</src.rf>
@@ -531,7 +549,10 @@
 <LM>w#w-ln94205-60-p2s2w6</LM>
 </w.rf>
 <form>ČMSS</form>
-<tag lemma="ČMSS_:B_;K" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ČMSS_:B_;K" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČMSS-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln94205-60-p2s2w7">
 <src.rf>manual</src.rf>
@@ -539,7 +560,10 @@
 <LM>w#w-ln94205-60-p2s2w7</LM>
 </w.rf>
 <form>J</form>
-<tag lemma="J-0_:B_;Y" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="J-0_:B_;Y" src="orig">NNFXX-----A---8</AM>
+<AM lemma="J-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln94205-60-p2s2w8">
 <src.rf>manual</src.rf>
@@ -621,7 +645,10 @@
 <LM>w#w-ln94205-60-p2s3w7</LM>
 </w.rf>
 <form>HSMS</form>
-<tag lemma="HSMS_:B_;K" src="orig" selected="1">NNNXX-----A---8</tag>
+<tag>
+<AM lemma="HSMS_:B_;K" src="orig">NNNXX-----A---8</AM>
+<AM lemma="HSMS-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln94205-60-p2s3w8">
 <src.rf>manual</src.rf>
@@ -629,7 +656,10 @@
 <LM>w#w-ln94205-60-p2s3w8</LM>
 </w.rf>
 <form>V</form>
-<tag lemma="V-0_:B_;Y" src="orig" selected="1">NNMXX-----A---8</tag>
+<tag>
+<AM lemma="V-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
+<AM lemma="V-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln94205-60-p2s3w9">
 <src.rf>manual</src.rf>
@@ -765,7 +795,10 @@
 <LM>w#w-ln94205-60-p2s3w25</LM>
 </w.rf>
 <form>MNS</form>
-<tag lemma="MNS_:B_;K_^(Moravská_národní_strana)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="MNS_:B_;K_^(Moravská_národní_strana)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="MNS-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln94205-60-p2s3w26">
 <src.rf>manual</src.rf>
@@ -781,7 +814,10 @@
 <LM>w#w-ln94205-60-p2s3w27</LM>
 </w.rf>
 <form>HSMS</form>
-<tag lemma="HSMS_:B_;K" src="orig" selected="1">NNNXX-----A---8</tag>
+<tag>
+<AM lemma="HSMS_:B_;K" src="orig">NNNXX-----A---8</AM>
+<AM lemma="HSMS-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln94205-60-p2s3w28">
 <src.rf>manual</src.rf>
@@ -903,7 +939,10 @@
 <LM>w#w-ln94205-60-p2s4w14</LM>
 </w.rf>
 <form>ČMSS</form>
-<tag lemma="ČMSS_:B_;K" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ČMSS_:B_;K" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČMSS-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln94205-60-p2s4w15">
 <src.rf>manual</src.rf>
@@ -1065,7 +1104,10 @@
 <LM>w#w-ln94205-60-p2s5w11</LM>
 </w.rf>
 <form>ČMSS</form>
-<tag lemma="ČMSS_:B_;K" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ČMSS_:B_;K" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČMSS-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln94205-60-p2s5w12">
 <src.rf>manual</src.rf>

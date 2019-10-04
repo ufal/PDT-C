@@ -181,7 +181,10 @@
 <LM>w#w-lnd91303-095-p2s1w18</LM>
 </w.rf>
 <form>Skogsport</form>
-<tag lemma="Skogsport_;R_,t" src="orig" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="Skogsport_;R_,t" src="orig">NNIS1-----A----</AM>
+<AM lemma="Skogsport_;R" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd91303-095-p2s1w19">
 <src.rf>manual</src.rf>

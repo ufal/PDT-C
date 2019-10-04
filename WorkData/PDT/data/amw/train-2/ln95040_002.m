@@ -53,7 +53,10 @@
 <LM>w#w-ln95040-002-p2s1Aw1</LM>
 </w.rf>
 <form>Microsoft</form>
-<tag lemma="Microsoft_;K_;b_;c" src="orig" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="Microsoft_;K_;b_;c" src="orig">NNIS1-----A----</AM>
+<AM lemma="Microsoft_;K" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95040-002-p2s1Aw2">
 <src.rf>manual</src.rf>
@@ -119,7 +122,10 @@
 <LM>w#w-ln95040-002-p2s1Bw1</LM>
 </w.rf>
 <form>Více</form>
-<tag lemma="hodně-2" src="auto" selected="1">Dg-------2A----</tag>
+<tag>
+<AM lemma="hodně-2" src="auto">Dg-------2A----</AM>
+<AM lemma="hodně-3" src="manual" selected="1">Dg-------2A----</AM>
+</tag>
 </m>
 <m id="m-ln95040-002-p2s1Bw2">
 <src.rf>manual</src.rf>
@@ -175,7 +181,10 @@
 <LM>w#w-ln95040-002-p2s1Bw8</LM>
 </w.rf>
 <form>včetně</form>
-<tag lemma="včetně-1" src="orig" selected="1">Db-------------</tag>
+<tag>
+<AM lemma="včetně-1" src="orig">Db-------------</AM>
+<AM lemma="včetně-2" src="manual" selected="1">RR--2----------</AM>
+</tag>
 </m>
 <m id="m-ln95040-002-p2s1Bw9">
 <src.rf>manual</src.rf>
@@ -242,6 +251,7 @@
 <tag>
 <AM lemma="Dell_;K" src="orig">NNMS1-----A----</AM>
 <AM lemma="Della_;Y" src="auto" recommended="1">NNFP2-----A----</AM>
+<AM lemma="Dell_;K" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95040-002-p2s1Bw17">
@@ -250,7 +260,10 @@
 <LM>w#w-ln95040-002-p2s1Bw17</LM>
 </w.rf>
 <form>Computer</form>
-<tag lemma="computer" src="auto" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="computer" src="auto">NNIS1-----A----</AM>
+<AM lemma="Computer-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln95040-002-p2s1Bw18">
 <src.rf>manual</src.rf>
@@ -302,6 +315,7 @@
 <AM lemma="Development_;K_,t" src="orig">NNIS1-----A----</AM>
 <AM lemma="development_,t_^(rozvoj)" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="development_,t_^(rozvoj)" src="auto">NNIS4-----A----</AM>
+<AM lemma="Development-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-ln95040-002-p2s1Bw24">
@@ -382,7 +396,10 @@
 <LM>w#w-ln95040-002-p2s1Bw33</LM>
 </w.rf>
 <form>on</form>
-<tag lemma="on-2_,t_^(angl._předl._na_aj.)" src="orig" selected="1">RR--X----------</tag>
+<tag>
+<AM lemma="on-2_,t_^(angl._předl._na_aj.)" src="orig">RR--X----------</AM>
+<AM lemma="on_^(on-line)" src="manual" selected="1">A2--------A----</AM>
+</tag>
 </m>
 <m id="m-ln95040-002-p2s1Bw34">
 <src.rf>manual</src.rf>
@@ -402,6 +419,7 @@
 <AM lemma="line_;m_,t" src="orig">NNFXX-----A----</AM>
 <AM lemma="linout" src="auto">VB-S---3P-AA---</AM>
 <AM lemma="line_,t_^(angl._čára)" src="auto" recommended="1">NNXXX-----A----</AM>
+<AM lemma="line-2" src="manual" selected="1">AAXXX----1A----</AM>
 </tag>
 </m>
 <m id="m-ln95040-002-p2s1Bw36">
@@ -418,7 +436,10 @@
 <LM>w#w-ln95040-002-p2s1Bw37</LM>
 </w.rf>
 <form>Microsoft</form>
-<tag lemma="Microsoft_;K_;b_;c" src="orig" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="Microsoft_;K_;b_;c" src="orig">NNIS1-----A----</AM>
+<AM lemma="Microsoft_;K" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95040-002-p2s1Bw38">
 <src.rf>manual</src.rf>
@@ -426,7 +447,10 @@
 <LM>w#w-ln95040-002-p2s1Bw38</LM>
 </w.rf>
 <form>Network</form>
-<tag lemma="Network_;K_,t" src="orig" selected="1">NNIXX-----A----</tag>
+<tag>
+<AM lemma="Network_;K_,t" src="orig">NNIXX-----A----</AM>
+<AM lemma="Network_;K" src="manual" selected="1">NNIXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95040-002-p2s1Bw39">
 <src.rf>manual</src.rf>
@@ -460,7 +484,10 @@
 <LM>w#w-ln95040-002-p3s1w3</LM>
 </w.rf>
 <form>Microsoftu</form>
-<tag lemma="Microsoft_;K_;b_;c" src="orig" selected="1">NNIS2-----A----</tag>
+<tag>
+<AM lemma="Microsoft_;K_;b_;c" src="orig">NNIS2-----A----</AM>
+<AM lemma="Microsoft_;K" src="manual" selected="1">NNIS2-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95040-002-p3s1w4">
 <src.rf>manual</src.rf>
@@ -678,7 +705,10 @@
 <LM>w#w-ln95040-002-p3s2w13</LM>
 </w.rf>
 <form>prostřednictvím</form>
-<tag lemma="prostřednictví" src="orig" selected="1">NNNS7-----A----</tag>
+<tag>
+<AM lemma="prostřednictví" src="orig">NNNS7-----A----</AM>
+<AM lemma="prostřednictvím" src="manual" selected="1">RR--2----------</AM>
+</tag>
 </m>
 <m id="m-ln95040-002-p3s2w14">
 <src.rf>manual</src.rf>
@@ -702,7 +732,10 @@
 <LM>w#w-ln95040-002-p3s2w16</LM>
 </w.rf>
 <form>Windows</form>
-<tag lemma="Windows" src="orig" selected="1">NNIPX-----A----</tag>
+<tag>
+<AM lemma="Windows" src="orig">NNIPX-----A----</AM>
+<AM lemma="Windows_;R" src="manual" selected="1">NNIPX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95040-002-p3s2w17">
 <src.rf>manual</src.rf>
@@ -728,7 +761,10 @@
 <LM>w#w-ln95040-002-p4s1w1</LM>
 </w.rf>
 <form>Microsoft</form>
-<tag lemma="Microsoft_;K_;b_;c" src="orig" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="Microsoft_;K_;b_;c" src="orig">NNIS1-----A----</AM>
+<AM lemma="Microsoft_;K" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95040-002-p4s1w2">
 <src.rf>manual</src.rf>
@@ -808,7 +844,10 @@
 <LM>w#w-ln95040-002-p4s1w11</LM>
 </w.rf>
 <form>on</form>
-<tag lemma="on-2_,t_^(angl._předl._na_aj.)" src="orig" selected="1">RR--X----------</tag>
+<tag>
+<AM lemma="on-2_,t_^(angl._předl._na_aj.)" src="orig">RR--X----------</AM>
+<AM lemma="on_^(on-line)" src="manual" selected="1">A2--------A----</AM>
+</tag>
 </m>
 <m id="m-ln95040-002-p4s1w12">
 <src.rf>manual</src.rf>
@@ -828,6 +867,7 @@
 <AM lemma="line_;m_,t" src="orig">NNFXX-----A----</AM>
 <AM lemma="linout" src="auto">VB-S---3P-AA---</AM>
 <AM lemma="line_,t_^(angl._čára)" src="auto" recommended="1">NNXXX-----A----</AM>
+<AM lemma="line-2" src="manual" selected="1">AAXXX----1A----</AM>
 </tag>
 </m>
 <m id="m-ln95040-002-p4s1w14">
@@ -892,7 +932,10 @@
 <LM>w#w-ln95040-002-p4s1w21</LM>
 </w.rf>
 <form>datum</form>
-<tag lemma="datum_,h_,x" src="auto" selected="1">NNIS4-----A----</tag>
+<tag>
+<AM lemma="datum_,h_,x" src="auto">NNIS4-----A----</AM>
+<AM lemma="datum_^(kalendářní)" src="manual" selected="1">NNNS4-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95040-002-p4s1w22">
 <src.rf>manual</src.rf>
@@ -942,7 +985,10 @@
 <LM>w#w-ln95040-002-p5s1w2</LM>
 </w.rf>
 <form>Microsoft</form>
-<tag lemma="Microsoft_;K_;b_;c" src="orig" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="Microsoft_;K_;b_;c" src="orig">NNIS1-----A----</AM>
+<AM lemma="Microsoft_;K" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95040-002-p5s1w3">
 <src.rf>manual</src.rf>
@@ -1232,7 +1278,10 @@
 <LM>w#w-ln95040-002-p5s2w16</LM>
 </w.rf>
 <form>diskuse</form>
-<tag lemma="diskuse" src="orig" selected="1">NNFP4-----A----</tag>
+<tag>
+<AM lemma="diskuse" src="orig">NNFP4-----A----</AM>
+<AM lemma="diskuse_,s_^(^DD**diskuze)" src="manual" selected="1">NNFP4-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95040-002-p5s2w17">
 <src.rf>manual</src.rf>
@@ -1362,7 +1411,10 @@
 <LM>w#w-ln95040-002-p5s3w13</LM>
 </w.rf>
 <form>Microsoftu</form>
-<tag lemma="Microsoft_;K_;b_;c" src="orig" selected="1">NNIS2-----A----</tag>
+<tag>
+<AM lemma="Microsoft_;K_;b_;c" src="orig">NNIS2-----A----</AM>
+<AM lemma="Microsoft_;K" src="manual" selected="1">NNIS2-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95040-002-p5s3w14">
 <src.rf>manual</src.rf>

@@ -649,7 +649,10 @@
 <LM>w#w-ln94202-11-p2s4w20</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-2" src="auto" selected="1">Dg-------2A----</tag>
+<tag>
+<AM lemma="hodně-2" src="auto">Dg-------2A----</AM>
+<AM lemma="hodně-3" src="manual" selected="1">Dg-------2A----</AM>
+</tag>
 </m>
 <m id="m-ln94202-11-p2s4w21">
 <src.rf>manual</src.rf>
@@ -855,7 +858,10 @@
 <LM>w#w-ln94202-11-p3s1w5</LM>
 </w.rf>
 <form>Harley</form>
-<tag lemma="Harley_;G" src="orig" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Harley_;G" src="orig">NNMS1-----A----</AM>
+<AM lemma="Harley-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94202-11-p3s1w6">
 <src.rf>manual</src.rf>
@@ -871,7 +877,10 @@
 <LM>w#w-ln94202-11-p3s1w7</LM>
 </w.rf>
 <form>Davidson</form>
-<tag lemma="Davidson_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Davidson_;S" src="orig">NNMS1-----A----</AM>
+<AM lemma="Davidson-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94202-11-p3s1w8">
 <src.rf>manual</src.rf>
@@ -1045,7 +1054,7 @@
 <AM lemma="sedmý" src="auto">CrIP4---------6</AM>
 <AM lemma="sedmý" src="auto">CrIP5---------6</AM>
 <AM lemma="sedmý" src="auto">CrIS1----------</AM>
-<AM lemma="sedmý" src="auto" recommended="1">CrIS4----------</AM>
+<AM lemma="sedmý" src="auto" recommended="1" selected="1">CrIS4----------</AM>
 <AM lemma="sedmý" src="auto">CrIS5----------</AM>
 <AM lemma="sedmý" src="auto">CrMP1---------6</AM>
 <AM lemma="sedmý" src="auto">CrMP4---------6</AM>
@@ -1174,7 +1183,10 @@
 <LM>w#w-ln94202-11-p3s3w3</LM>
 </w.rf>
 <form>Free</form>
-<tag lemma="Free_;m_,t" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="Free_;m_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="Free-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94202-11-p3s3w4">
 <src.rf>manual</src.rf>
@@ -1182,7 +1194,10 @@
 <LM>w#w-ln94202-11-p3s3w4</LM>
 </w.rf>
 <form>Wheels</form>
-<tag lemma="Wheel_;m_,t" src="orig" selected="1">NNIPX-----A----</tag>
+<tag>
+<AM lemma="Wheel_;m_,t" src="orig">NNIPX-----A----</AM>
+<AM lemma="Wheels-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94202-11-p3s3w5">
 <src.rf>manual</src.rf>
@@ -1512,7 +1527,10 @@
 <LM>w#w-ln94202-11-p3s4w28</LM>
 </w.rf>
 <form>hodně</form>
-<tag lemma="hodně-2_^(nezlobivý)_(*3ý-2)" src="auto" selected="1">Dg-------1A----</tag>
+<tag>
+<AM lemma="hodně-2_^(nezlobivý)_(*3ý-2)" src="auto">Dg-------1A----</AM>
+<AM lemma="hodně-1_^(hodně_+_2._p.,_hodně_peněz)" src="manual" selected="1">Ca--4----------</AM>
+</tag>
 </m>
 <m id="m-ln94202-11-p3s4w29">
 <src.rf>manual</src.rf>
@@ -1538,7 +1556,10 @@
 <LM>w#w-ln94202-11-p4s1w1</LM>
 </w.rf>
 <form>Více</form>
-<tag lemma="hodně-2" src="auto" selected="1">Dg-------2A----</tag>
+<tag>
+<AM lemma="hodně-2" src="auto">Dg-------2A----</AM>
+<AM lemma="hodně-3" src="manual" selected="1">Dg-------2A----</AM>
+</tag>
 </m>
 <m id="m-ln94202-11-p4s1w2">
 <src.rf>manual</src.rf>
@@ -1562,7 +1583,10 @@
 <LM>w#w-ln94202-11-p4s1w4</LM>
 </w.rf>
 <form>milionů</form>
-<tag lemma="milión`1000000" src="orig" selected="1">NNIP2-----A----</tag>
+<tag>
+<AM lemma="milión`1000000" src="orig">NNIP2-----A----</AM>
+<AM lemma="milion`1000000_,s_^(^DD**milión)" src="manual" selected="1">NNIP2-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94202-11-p4s1w5">
 <src.rf>manual</src.rf>
@@ -1658,7 +1682,11 @@
 <LM>w#w-ln94202-11-p4s1w16</LM>
 </w.rf>
 <form>O</form>
-<tag lemma="O-6_:B_;R" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="O-6_:B_;R" src="orig">NNXXX-----A---8</AM>
+<AM lemma="	O-33_^(označení_pomocí_písmene)" src="manual">NNNXX-----A----</AM>
+<AM lemma="O-33_^(označení_pomocí_písmene)" src="manual" selected="1">NNNXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94202-11-p4s1w17">
 <src.rf>manual</src.rf>
@@ -1702,7 +1730,7 @@
 <form>ovšem</form>
 <tag>
 <AM lemma="ovšem-1_^(avšak,_však;_odporovací_spojka)" src="orig">J^-------------</AM>
-<AM lemma="ovšem" src="auto" recommended="1">TT-------------</AM>
+<AM lemma="ovšem" src="auto" recommended="1" selected="1">TT-------------</AM>
 </tag>
 </m>
 <m id="m-ln94202-11-p4s2w4">
@@ -1711,7 +1739,10 @@
 <LM>w#w-ln94202-11-p4s2w4</LM>
 </w.rf>
 <form>jen</form>
-<tag lemma="jen-1" src="auto" selected="1">TT-------------</tag>
+<tag>
+<AM lemma="jen-1" src="auto">TT-------------</AM>
+<AM lemma="jen-4_^(pouze)" src="manual" selected="1">Db-------------</AM>
+</tag>
 </m>
 <m id="m-ln94202-11-p4s2w5">
 <src.rf>manual</src.rf>

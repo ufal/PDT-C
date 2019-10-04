@@ -21,7 +21,7 @@
 <form>starosti</form>
 <tag>
 <AM lemma="starost" src="orig">NNFP1-----A----</AM>
-<AM lemma="starost-1" src="auto" recommended="1">NNFP1-----A----</AM>
+<AM lemma="starost-1" src="auto" recommended="1" selected="1">NNFP1-----A----</AM>
 <AM lemma="starost-1" src="auto">NNFP4-----A----</AM>
 <AM lemma="starost-1" src="auto">NNFP5-----A----</AM>
 <AM lemma="starost-1" src="auto">NNFS2-----A----</AM>
@@ -43,7 +43,10 @@
 <LM>w#w-mf920924-075-p1s1w2</LM>
 </w.rf>
 <form>radních</form>
-<tag lemma="radní-1_^(poradní,_i_radniční)" src="orig" selected="1">AAMP2----1A----</tag>
+<tag>
+<AM lemma="radní-1_^(poradní,_i_radniční)" src="orig">AAMP2----1A----</AM>
+<AM lemma="radní-2_^(zvolený_zástupce_na_radnici)" src="manual" selected="1">NNMP2-----A----</AM>
+</tag>
 </m>
 </s>
 <s id="m-mf920924-075-p2s1">
@@ -153,7 +156,7 @@
 <form>starostí</form>
 <tag>
 <AM lemma="starost" src="orig">NNFP2-----A----</AM>
-<AM lemma="starost-1" src="auto" recommended="1">NNFP2-----A----</AM>
+<AM lemma="starost-1" src="auto" recommended="1" selected="1">NNFP2-----A----</AM>
 <AM lemma="starost-1" src="auto">NNFS7-----A----</AM>
 <AM lemma="starost-2_^(člověk,_věc)_(*5ý-2)" src="auto">NNFP2-----A----</AM>
 <AM lemma="starost-2_^(člověk,_věc)_(*5ý-2)" src="auto">NNFS7-----A----</AM>
@@ -351,7 +354,10 @@
 <LM>w#w-mf920924-075-p3s2w18</LM>
 </w.rf>
 <form>jen</form>
-<tag lemma="jen-1" src="auto" selected="1">TT-------------</tag>
+<tag>
+<AM lemma="jen-1" src="auto">TT-------------</AM>
+<AM lemma="jen-4_^(pouze)" src="manual" selected="1">Db-------------</AM>
+</tag>
 </m>
 <m id="m-mf920924-075-p3s2w19">
 <src.rf>manual</src.rf>
@@ -483,7 +489,10 @@
 <LM>w#w-mf920924-075-p3s4w8</LM>
 </w.rf>
 <form>jen</form>
-<tag lemma="jen-1" src="auto" selected="1">TT-------------</tag>
+<tag>
+<AM lemma="jen-1" src="auto">TT-------------</AM>
+<AM lemma="jen-4_^(pouze)" src="manual" selected="1">Db-------------</AM>
+</tag>
 </m>
 <m id="m-mf920924-075-p3s4w9">
 <src.rf>manual</src.rf>

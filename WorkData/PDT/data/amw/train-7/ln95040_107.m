@@ -19,7 +19,10 @@
 <LM>w#w-ln95040-107-p1s1w1</LM>
 </w.rf>
 <form>ABB</form>
-<tag lemma="ABB_:B_;K_,t_^(Asea_Brown_Boveri,_evr._společnost)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ABB_:B_;K_,t_^(Asea_Brown_Boveri,_evr._společnost)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ABB-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln95040-107-p1s1w2">
 <src.rf>manual</src.rf>
@@ -216,7 +219,10 @@
 <LM>w#w-ln95040-107-p2s1Bw17</LM>
 </w.rf>
 <form>ABB</form>
-<tag lemma="ABB_:B_;K_,t_^(Asea_Brown_Boveri,_evr._společnost)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ABB_:B_;K_,t_^(Asea_Brown_Boveri,_evr._společnost)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ABB-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln95040-107-p2s1Bw18">
 <src.rf>manual</src.rf>
@@ -266,7 +272,10 @@
 <LM>w#w-ln95040-107-p2s2w5</LM>
 </w.rf>
 <form>ABB</form>
-<tag lemma="ABB_:B_;K_,t_^(Asea_Brown_Boveri,_evr._společnost)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ABB_:B_;K_,t_^(Asea_Brown_Boveri,_evr._společnost)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ABB-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln95040-107-p2s2w6">
 <src.rf>manual</src.rf>
@@ -292,7 +301,7 @@
 <form>Nikolská</form>
 <tag>
 <AM lemma="Nikolský_;S" src="orig">NNFS1-----A----</AM>
-<AM lemma="Nikolská_;S" src="auto" recommended="1">NNFS1-----A----</AM>
+<AM lemma="Nikolská_;S" src="auto" recommended="1" selected="1">NNFS1-----A----</AM>
 <AM lemma="Nikolská_;S" src="auto">NNFS5-----A----</AM>
 </tag>
 </m>
@@ -920,7 +929,10 @@
 <LM>w#w-ln95040-107-p2s7w1</LM>
 </w.rf>
 <form>ABB</form>
-<tag lemma="ABB_:B_;K_,t_^(Asea_Brown_Boveri,_evr._společnost)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ABB_:B_;K_,t_^(Asea_Brown_Boveri,_evr._společnost)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ABB-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln95040-107-p2s7w2">
 <src.rf>manual</src.rf>
@@ -928,7 +940,10 @@
 <LM>w#w-ln95040-107-p2s7w2</LM>
 </w.rf>
 <form>Group</form>
-<tag lemma="Group-1_;K_,t_^(obv._souč._názvu_firem,_&quot;skupina&quot;)" src="orig" selected="1">NNFXX-----A----</tag>
+<tag>
+<AM lemma="Group-1_;K_,t_^(obv._souč._názvu_firem,_&quot;skupina&quot;)" src="orig">NNFXX-----A----</AM>
+<AM lemma="Group-1_;K_^(obv._souč._názvu_firem,_&quot;skupina&quot;)" src="manual" selected="1">NNFXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95040-107-p2s7w3">
 <src.rf>manual</src.rf>

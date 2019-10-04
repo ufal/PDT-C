@@ -109,7 +109,10 @@
 <LM>w#w-lnd92259-025-p2s1w9</LM>
 </w.rf>
 <form>dr</form>
-<tag lemma="doktorka_:B_^(doktorka,_akad._titul)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="doktorka_:B_^(doktorka,_akad._titul)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="dr_:B_^(doktor) " src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92259-025-p2s1w10">
 <src.rf>manual</src.rf>
@@ -725,7 +728,10 @@
 <LM>w#w-lnd92259-025-p3s3w6</LM>
 </w.rf>
 <form>jenom</form>
-<tag lemma="jenom-1" src="auto" selected="1">TT-------------</tag>
+<tag>
+<AM lemma="jenom-1" src="auto">TT-------------</AM>
+<AM lemma="jenom-2_^(pouze)" src="manual" selected="1">Db-------------</AM>
+</tag>
 </m>
 <m id="m-lnd92259-025-p3s3w7">
 <src.rf>manual</src.rf>
@@ -903,7 +909,10 @@
 <LM>w#w-lnd92259-025-p3s4w16</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-2" src="auto" selected="1">Dg-------2A----</tag>
+<tag>
+<AM lemma="hodně-2" src="auto">Dg-------2A----</AM>
+<AM lemma="hodně-3" src="manual" selected="1">Dg-------2A----</AM>
+</tag>
 </m>
 <m id="m-lnd92259-025-p3s4w17">
 <src.rf>manual</src.rf>
@@ -1219,7 +1228,10 @@
 <LM>w#w-lnd92259-025-p4s2w15</LM>
 </w.rf>
 <form>ZD</form>
-<tag lemma="ZD_:B_;K_^(zemědělské_družstvo)" src="auto" selected="1">NNNXX-----A---8</tag>
+<tag>
+<AM lemma="ZD_:B_;K_^(zemědělské_družstvo)" src="auto">NNNXX-----A---8</AM>
+<AM lemma="ZD-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd92259-025-p4s2w16">
 <src.rf>manual</src.rf>
@@ -1535,7 +1547,10 @@
 <LM>w#w-lnd92259-025-p5s1w22</LM>
 </w.rf>
 <form>čs</form>
-<tag lemma="československý_:B" src="orig" selected="1">AAXXX----1A---8</tag>
+<tag>
+<AM lemma="československý_:B" src="orig">AAXXX----1A---8</AM>
+<AM lemma="československý" src="manual" selected="1">AAXXX----1A---8</AM>
+</tag>
 </m>
 <m id="m-lnd92259-025-p5s1w23">
 <src.rf>manual</src.rf>
@@ -1579,6 +1594,7 @@
 <AM lemma="Herkules-4_;R" src="orig">NNIS1-----A----</AM>
 <AM lemma="Herkules-1_;S" src="auto">NNMS1-----A---1</AM>
 <AM lemma="Herkules-3_;G" src="auto" recommended="1">NNIS1-----A---1</AM>
+<AM lemma="Hercules-2_;G_;R_^(město;;letadlo;;lepidlo)" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92259-025-p5s1w28">
@@ -1643,7 +1659,10 @@
 <LM>w#w-lnd92259-025-p5s1w35</LM>
 </w.rf>
 <form>ČSFR</form>
-<tag lemma="ČSFR-1_:B_;G_^(Čs._federativní_republika)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ČSFR-1_:B_;G_^(Čs._federativní_republika)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČSFR-1_:B_;G_^(Čs._federativní_republika)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92259-025-p5s1w36">
 <src.rf>manual</src.rf>

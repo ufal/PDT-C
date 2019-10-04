@@ -103,7 +103,10 @@
 <LM>w#w-mf920902-018-p2s1Bw6</LM>
 </w.rf>
 <form>ČOI</form>
-<tag lemma="ČOI_:B_;K" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ČOI_:B_;K" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČOI-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-mf920902-018-p2s1Bw7">
 <src.rf>manual</src.rf>
@@ -299,7 +302,10 @@
 <LM>w#w-mf920902-018-p2s2w6</LM>
 </w.rf>
 <form>ČOI</form>
-<tag lemma="ČOI_:B_;K" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ČOI_:B_;K" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČOI-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-mf920902-018-p2s2w7">
 <src.rf>manual</src.rf>
@@ -449,7 +455,7 @@
 <form>přičemž</form>
 <tag>
 <AM lemma="přičemž" src="orig">J,-------------</AM>
-<AM lemma="přičemž" src="auto" recommended="1">Db-------------</AM>
+<AM lemma="přičemž" src="auto" recommended="1" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m-mf920902-018-p2s3w16">
@@ -751,7 +757,10 @@
 <LM>w#w-mf920902-018-p2s5w2</LM>
 </w.rf>
 <form>ČOI</form>
-<tag lemma="ČOI_:B_;K" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ČOI_:B_;K" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČOI-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-mf920902-018-p2s5w3">
 <src.rf>manual</src.rf>

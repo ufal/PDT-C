@@ -257,7 +257,10 @@
 <LM>w#w-ln95047-005-p2s2w5</LM>
 </w.rf>
 <form>ČR</form>
-<tag lemma="ČR-1_:B_;G_^(Česká_republika)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95047-005-p2s2w6">
 <src.rf>manual</src.rf>
@@ -289,7 +292,10 @@
 <LM>w#w-ln95047-005-p2s2w9</LM>
 </w.rf>
 <form>ČECHROS</form>
-<tag lemma="ČECHROS_:B_;K" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="ČECHROS_:B_;K" src="orig">NNXXX-----A---8</AM>
+<AM lemma="ČECHROS-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln95047-005-p2s2w10">
 <src.rf>manual</src.rf>
@@ -345,7 +351,10 @@
 <LM>w#w-ln95047-005-p2s2w16</LM>
 </w.rf>
 <form>E</form>
-<tag lemma="E-0_:B_;Y" src="orig" selected="1">NNMXX-----A---8</tag>
+<tag>
+<AM lemma="E-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
+<AM lemma="E-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln95047-005-p2s2w17">
 <src.rf>manual</src.rf>
@@ -605,7 +614,10 @@
 <LM>w#w-ln95047-005-p3s2w9</LM>
 </w.rf>
 <form>jen</form>
-<tag lemma="jen-1" src="auto" selected="1">TT-------------</tag>
+<tag>
+<AM lemma="jen-1" src="auto">TT-------------</AM>
+<AM lemma="jen-4_^(pouze)" src="manual" selected="1">Db-------------</AM>
+</tag>
 </m>
 <m id="m-ln95047-005-p3s2w10">
 <src.rf>manual</src.rf>
@@ -711,7 +723,10 @@
 <LM>w#w-ln95047-005-p4s1w2</LM>
 </w.rf>
 <form>ČECHROS</form>
-<tag lemma="ČECHROS_:B_;K" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="ČECHROS_:B_;K" src="orig">NNXXX-----A---8</AM>
+<AM lemma="ČECHROS-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln95047-005-p4s1w3">
 <src.rf>manual</src.rf>

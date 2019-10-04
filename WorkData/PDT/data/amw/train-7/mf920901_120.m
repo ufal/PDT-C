@@ -383,7 +383,7 @@
 <form>Tartakovskij</form>
 <tag>
 <AM lemma="Tartakovský_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Tartakovský_;S" src="auto" recommended="1">NNMS1-----A---1</AM>
+<AM lemma="Tartakovský_;S" src="auto" recommended="1" selected="1">NNMS1-----A---1</AM>
 <AM lemma="Tartakovský_;S" src="auto">NNMS5-----A---1</AM>
 </tag>
 </m>
@@ -543,7 +543,7 @@
 <form>Tartakovskij</form>
 <tag>
 <AM lemma="Tartakovský_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Tartakovský_;S" src="auto" recommended="1">NNMS1-----A---1</AM>
+<AM lemma="Tartakovský_;S" src="auto" recommended="1" selected="1">NNMS1-----A---1</AM>
 <AM lemma="Tartakovský_;S" src="auto">NNMS5-----A---1</AM>
 </tag>
 </m>
@@ -609,7 +609,10 @@
 <LM>w#w-mf920901-120-p5s1w10</LM>
 </w.rf>
 <form>Itogi</form>
-<tag lemma="Itogi_;m_,t" src="orig" selected="1">NNNXX-----A----</tag>
+<tag>
+<AM lemma="Itogi_;m_,t" src="orig">NNNXX-----A----</AM>
+<AM lemma="Itogi_;m" src="manual" selected="1">NNNXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920901-120-p5s1w11">
 <src.rf>manual</src.rf>

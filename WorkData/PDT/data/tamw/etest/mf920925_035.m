@@ -77,7 +77,10 @@
 <LM>w#w-mf920925-035-p2s1w4</LM>
 </w.rf>
 <form>ria</form>
-<tag lemma="ria-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="ria-99_:B_;S" src="orig">NNXXX-----A---8</AM>
+<AM lemma="ria-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920925-035-p2s1w5">
 <src.rf>manual</src.rf>
@@ -453,7 +456,7 @@
 <form>Čéčova</form>
 <tag>
 <AM lemma="Čéčov_;K" src="orig">NNIS2-----A----</AM>
-<AM lemma="Čéčova_;K" src="auto" recommended="1">NNFS1-----A----</AM>
+<AM lemma="Čéčova_;K" src="auto" recommended="1" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920925-035-p2s4w10">
@@ -618,7 +621,7 @@
 <form>totiž</form>
 <tag>
 <AM lemma="totiž" src="orig">Db-------------</AM>
-<AM lemma="totiž-1" src="auto" recommended="1">J^-------------</AM>
+<AM lemma="totiž-1" src="auto" recommended="1" selected="1">J^-------------</AM>
 <AM lemma="totiž-2" src="auto">TT-------------</AM>
 </tag>
 </m>
@@ -1211,7 +1214,7 @@
 <form>nechutné</form>
 <tag>
 <AM lemma="nechutný" src="orig">AAFP1----1A----</AM>
-<AM lemma="chutný" src="auto" recommended="1">AAFP1----1N----</AM>
+<AM lemma="chutný" src="auto" recommended="1" selected="1">AAFP1----1N----</AM>
 <AM lemma="chutný" src="auto">AAFP4----1N----</AM>
 <AM lemma="chutný" src="auto">AAFP5----1N----</AM>
 <AM lemma="chutný" src="auto">AAFS2----1N----</AM>

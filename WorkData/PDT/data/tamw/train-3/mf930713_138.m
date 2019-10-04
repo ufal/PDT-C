@@ -61,7 +61,10 @@
 <LM>w#w-mf930713-138-p2s1w1</LM>
 </w.rf>
 <form>Datum</form>
-<tag lemma="datum_,h_,x" src="auto" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="datum_,h_,x" src="auto">NNIS1-----A----</AM>
+<AM lemma="datum_^(kalendářní)" src="manual" selected="1">NNNS1-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930713-138-p2s1w2">
 <src.rf>manual</src.rf>
@@ -215,7 +218,7 @@
 <form>totiž</form>
 <tag>
 <AM lemma="totiž" src="orig">Db-------------</AM>
-<AM lemma="totiž-1" src="auto" recommended="1">J^-------------</AM>
+<AM lemma="totiž-1" src="auto" recommended="1" selected="1">J^-------------</AM>
 <AM lemma="totiž-2" src="auto">TT-------------</AM>
 </tag>
 </m>
@@ -437,7 +440,7 @@
 <form>protestanti</form>
 <tag>
 <AM lemma="protestant" src="orig">NNMP1-----A----</AM>
-<AM lemma="protestant" src="auto" recommended="1">NNMP1-----A---1</AM>
+<AM lemma="protestant" src="auto" recommended="1" selected="1">NNMP1-----A---1</AM>
 <AM lemma="protestant" src="auto">NNMP5-----A---1</AM>
 </tag>
 </m>
@@ -965,7 +968,10 @@
 <LM>w#w-mf930713-138-p3s3w6</LM>
 </w.rf>
 <form>IRA</form>
-<tag lemma="IRA-1_:B_;K_,t_^(Irská_republikánská_armáda)" src="auto" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="IRA-1_:B_;K_,t_^(Irská_republikánská_armáda)" src="auto">NNFXX-----A---8</AM>
+<AM lemma="IRA-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930713-138-p3s3w7">
 <src.rf>manual</src.rf>
@@ -983,7 +989,10 @@
 <LM>w#w-mf930713-138-p4s1w1</LM>
 </w.rf>
 <form>Více</form>
-<tag lemma="hodně-2" src="auto" selected="1">Dg-------2A----</tag>
+<tag>
+<AM lemma="hodně-2" src="auto">Dg-------2A----</AM>
+<AM lemma="více_^(více_+_2._p.,_více_peněz)" src="manual" selected="1">Ca--4----------</AM>
+</tag>
 </m>
 <m id="m-mf930713-138-p4s1w2">
 <src.rf>manual</src.rf>
@@ -1057,7 +1066,7 @@
 <form>totiž</form>
 <tag>
 <AM lemma="totiž" src="orig">Db-------------</AM>
-<AM lemma="totiž-1" src="auto" recommended="1">J^-------------</AM>
+<AM lemma="totiž-1" src="auto" recommended="1" selected="1">J^-------------</AM>
 <AM lemma="totiž-2" src="auto">TT-------------</AM>
 </tag>
 </m>
@@ -1091,7 +1100,10 @@
 <LM>w#w-mf930713-138-p4s1w14</LM>
 </w.rf>
 <form>napjatější</form>
-<tag lemma="napjatý_,x_^(*4nout)" src="orig" selected="1">AAFS1----2A----</tag>
+<tag>
+<AM lemma="napjatý_,x_^(*4nout)" src="orig">AAFS1----2A----</AM>
+<AM lemma="napjatý-1" src="manual" selected="1">AAFS1----2A----</AM>
+</tag>
 </m>
 <m id="m-mf930713-138-p4s1w15">
 <src.rf>manual</src.rf>
@@ -1873,7 +1885,10 @@
 <LM>w#w-mf930713-138-p5s1w9</LM>
 </w.rf>
 <form>IRA</form>
-<tag lemma="IRA-1_:B_;K_,t_^(Irská_republikánská_armáda)" src="auto" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="IRA-1_:B_;K_,t_^(Irská_republikánská_armáda)" src="auto">NNFXX-----A---8</AM>
+<AM lemma="IRA-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930713-138-p5s1w10">
 <src.rf>manual</src.rf>
@@ -2019,7 +2034,10 @@
 <LM>w#w-mf930713-138-p5s2w6</LM>
 </w.rf>
 <form>IRA</form>
-<tag lemma="IRA-1_:B_;K_,t_^(Irská_republikánská_armáda)" src="auto" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="IRA-1_:B_;K_,t_^(Irská_republikánská_armáda)" src="auto">NNFXX-----A---8</AM>
+<AM lemma="IRA-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930713-138-p5s2w7">
 <src.rf>manual</src.rf>
@@ -2403,7 +2421,7 @@
 <AM lemma="Warrington_;G" src="orig">NNIS6-----A---1</AM>
 <AM lemma="Warrington_;G" src="auto">NNIS2-----A----</AM>
 <AM lemma="Warrington_;G" src="auto">NNIS3-----A----</AM>
-<AM lemma="Warrington_;G" src="auto" recommended="1">NNIS6-----A----</AM>
+<AM lemma="Warrington_;G" src="auto" recommended="1" selected="1">NNIS6-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930713-138-p6s2w16">
@@ -2850,7 +2868,7 @@
 <form>totiž</form>
 <tag>
 <AM lemma="totiž" src="orig">Db-------------</AM>
-<AM lemma="totiž-1" src="auto" recommended="1">J^-------------</AM>
+<AM lemma="totiž-1" src="auto" recommended="1" selected="1">J^-------------</AM>
 <AM lemma="totiž-2" src="auto">TT-------------</AM>
 </tag>
 </m>
@@ -3120,7 +3138,10 @@
 <LM>w#w-mf930713-138-p7s3w10</LM>
 </w.rf>
 <form>milionů</form>
-<tag lemma="milión`1000000" src="orig" selected="1">NNIP2-----A----</tag>
+<tag>
+<AM lemma="milión`1000000" src="orig">NNIP2-----A----</AM>
+<AM lemma="milion`1000000_,s_^(^DD**milión)" src="manual" selected="1">NNIP2-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930713-138-p7s3w11">
 <src.rf>manual</src.rf>
@@ -3144,7 +3165,10 @@
 <LM>w#w-mf930713-138-p7s3w13</LM>
 </w.rf>
 <form>jen</form>
-<tag lemma="jen-1" src="auto" selected="1">TT-------------</tag>
+<tag>
+<AM lemma="jen-1" src="auto">TT-------------</AM>
+<AM lemma="jen-4_^(pouze)" src="manual" selected="1">Db-------------</AM>
+</tag>
 </m>
 <m id="m-mf930713-138-p7s3w14">
 <src.rf>manual</src.rf>
@@ -3240,7 +3264,11 @@
 <LM>w#w-mf930713-138-p7s3w25</LM>
 </w.rf>
 <form>milionů</form>
-<tag lemma="milión`1000000" src="orig" selected="1">NNIP2-----A----</tag>
+<tag>
+<AM lemma="milión`1000000" src="orig">NNIP2-----A----</AM>
+<AM lemma="milion`1000000_,s" src="manual">_^(^DD**milión)</AM>
+<AM lemma="milion`1000000_,s_^(^DD**milión)" src="manual" selected="1">NNIP2-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930713-138-p7s3w26">
 <src.rf>manual</src.rf>
@@ -3397,7 +3425,10 @@
 <LM>w#w-mf930713-138-p8s2w1</LM>
 </w.rf>
 <form>IRA</form>
-<tag lemma="IRA-1_:B_;K_,t_^(Irská_republikánská_armáda)" src="auto" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="IRA-1_:B_;K_,t_^(Irská_republikánská_armáda)" src="auto">NNFXX-----A---8</AM>
+<AM lemma="IRA-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930713-138-p8s2w2">
 <src.rf>manual</src.rf>
@@ -3447,7 +3478,7 @@
 <form>totiž</form>
 <tag>
 <AM lemma="totiž" src="orig">Db-------------</AM>
-<AM lemma="totiž-1" src="auto">J^-------------</AM>
+<AM lemma="totiž-1" src="auto" selected="1">J^-------------</AM>
 <AM lemma="totiž-2" src="auto" recommended="1">TT-------------</AM>
 </tag>
 </m>
@@ -3829,7 +3860,10 @@
 <LM>w#w-mf930713-138-p8s4w15</LM>
 </w.rf>
 <form>IRA</form>
-<tag lemma="IRA-1_:B_;K_,t_^(Irská_republikánská_armáda)" src="auto" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="IRA-1_:B_;K_,t_^(Irská_republikánská_armáda)" src="auto">NNFXX-----A---8</AM>
+<AM lemma="IRA-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930713-138-p8s4w16">
 <src.rf>manual</src.rf>
@@ -3944,7 +3978,7 @@
 <tag>
 <AM lemma="kasárna" src="orig">NNNP4-----A----</AM>
 <AM lemma="kasárna" src="auto">NNNP1-----A---1</AM>
-<AM lemma="kasárna" src="auto" recommended="1">NNNP4-----A---1</AM>
+<AM lemma="kasárna" src="auto" recommended="1" selected="1">NNNP4-----A---1</AM>
 <AM lemma="kasárna" src="auto">NNNP5-----A---1</AM>
 </tag>
 </m>
@@ -4092,7 +4126,10 @@
 <LM>w#w-mf930713-138-p9s1w17</LM>
 </w.rf>
 <form>Munster</form>
-<tag lemma="Munster_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Munster_;S" src="orig">NNMS1-----A----</AM>
+<AM lemma="Munster-2_;G" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930713-138-p9s1w18">
 <src.rf>manual</src.rf>
@@ -4495,7 +4532,7 @@
 <tag>
 <AM lemma="tedy" src="orig">Db-------------</AM>
 <AM lemma="tedy-1" src="auto">TT-------------</AM>
-<AM lemma="tedy-2" src="auto" recommended="1">J^-------------</AM>
+<AM lemma="tedy-2" src="auto" recommended="1" selected="1">J^-------------</AM>
 </tag>
 </m>
 <m id="m-mf930713-138-p9s5w3">
@@ -4562,7 +4599,7 @@
 <form>Irové</form>
 <tag>
 <AM lemma="Ir_;E" src="orig">NNMP1-----A----</AM>
-<AM lemma="Ir_;E" src="auto" recommended="1">NNMP1-----A---1</AM>
+<AM lemma="Ir_;E" src="auto" recommended="1" selected="1">NNMP1-----A---1</AM>
 <AM lemma="Ir_;E" src="auto">NNMP5-----A---1</AM>
 <AM lemma="Irová_;S" src="auto">NNFP1-----A----</AM>
 <AM lemma="Irová_;S" src="auto">NNFP4-----A----</AM>
@@ -4749,7 +4786,10 @@
 <LM>w#w-mf930713-138-p9s6w15</LM>
 </w.rf>
 <form>li</form>
-<tag lemma="li-1" src="auto" selected="1">TT-------------</tag>
+<tag>
+<AM lemma="li-1" src="auto">TT-------------</AM>
+<AM lemma="li-2" src="manual" selected="1">J,-------------</AM>
+</tag>
 </m>
 <m id="m-mf930713-138-p9s6w16">
 <src.rf>manual</src.rf>
@@ -4929,7 +4969,7 @@
 <form>protestanti</form>
 <tag>
 <AM lemma="protestant" src="orig">NNMP1-----A----</AM>
-<AM lemma="protestant" src="auto" recommended="1">NNMP1-----A---1</AM>
+<AM lemma="protestant" src="auto" recommended="1" selected="1">NNMP1-----A---1</AM>
 <AM lemma="protestant" src="auto">NNMP5-----A---1</AM>
 </tag>
 </m>
@@ -5088,7 +5128,7 @@
 <tag>
 <AM lemma="tedy" src="orig">Db-------------</AM>
 <AM lemma="tedy-1" src="auto">TT-------------</AM>
-<AM lemma="tedy-2" src="auto" recommended="1">J^-------------</AM>
+<AM lemma="tedy-2" src="auto" recommended="1" selected="1">J^-------------</AM>
 </tag>
 </m>
 <m id="m-mf930713-138-p10s1w5">
@@ -5269,7 +5309,10 @@
 <LM>w#w-mf930713-138-p12s1w2</LM>
 </w.rf>
 <form>Korejci</form>
-<tag lemma="korejec" src="orig" selected="1">NNMP1-----A----</tag>
+<tag>
+<AM lemma="korejec" src="orig">NNMP1-----A----</AM>
+<AM lemma="Korejec_;E" src="manual" selected="1">NNMP1-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930713-138-p12s1w3">
 <src.rf>manual</src.rf>
@@ -5397,7 +5440,10 @@
 <LM>w#w-mf930713-138-p12s1w18</LM>
 </w.rf>
 <form>li</form>
-<tag lemma="li-1" src="auto" selected="1">TT-------------</tag>
+<tag>
+<AM lemma="li-1" src="auto">TT-------------</AM>
+<AM lemma="li-2" src="manual" selected="1">J,-------------</AM>
+</tag>
 </m>
 <m id="m-mf930713-138-p12s1w19">
 <src.rf>manual</src.rf>

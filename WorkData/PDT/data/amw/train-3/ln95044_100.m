@@ -354,7 +354,7 @@
 </w.rf>
 <form>Kačenky</form>
 <tag>
-<AM lemma="Kačenka_;S" src="orig">NNMS2-----A----</AM>
+<AM lemma="Kačenka_;S" src="orig" selected="1">NNMS2-----A----</AM>
 <AM lemma="kačenka" src="auto" recommended="1">NNFP1-----A----</AM>
 <AM lemma="kačenka" src="auto">NNFP4-----A----</AM>
 <AM lemma="kačenka" src="auto">NNFP5-----A----</AM>
@@ -375,7 +375,10 @@
 <LM>w#w-ln95044-100-p3s1w9</LM>
 </w.rf>
 <form>ČMUS</form>
-<tag lemma="ČMUS_:B_;K_^(polit._strana_Českomoravská_unie_středu)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ČMUS_:B_;K_^(polit._strana_Českomoravská_unie_středu)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČMUS-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95044-100-p3s1w10">
 <src.rf>manual</src.rf>
@@ -735,7 +738,7 @@
 <form>třeba</form>
 <tag>
 <AM lemma="třeba-1" src="orig">ACNS------A----</AM>
-<AM lemma="třeba-2" src="auto" recommended="1">Db-------------</AM>
+<AM lemma="třeba-2" src="auto" recommended="1" selected="1">Db-------------</AM>
 <AM lemma="třeba-3" src="auto">TT-------------</AM>
 </tag>
 </m>
@@ -1197,7 +1200,10 @@
 <LM>w#w-ln95044-100-p4s2w1</LM>
 </w.rf>
 <form>Mj</form>
-<tag lemma="mj-1_:B_^(mimo_jiné)" src="orig" selected="1">Db------------8</tag>
+<tag>
+<AM lemma="mj-1_:B_^(mimo_jiné)" src="orig">Db------------8</AM>
+<AM lemma="mj-1_:B_^(mimo_jiné)" src="manual" selected="1">Db-------------</AM>
+</tag>
 </m>
 <m id="m-ln95044-100-p4s2w2">
 <src.rf>manual</src.rf>
@@ -1253,7 +1259,10 @@
 <LM>w#w-ln95044-100-p4s2w8</LM>
 </w.rf>
 <form>resort</form>
-<tag lemma="resort" src="orig" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="resort" src="orig">NNIS1-----A----</AM>
+<AM lemma="resort_,s_^(^DD**rezort)" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95044-100-p4s2w9">
 <src.rf>manual</src.rf>
@@ -1455,7 +1464,11 @@
 <LM>w#w-ln95044-100-p4s3w1</LM>
 </w.rf>
 <form>Nejvíce</form>
-<tag lemma="hodně-2" src="auto" selected="1">Dg-------3A----</tag>
+<tag>
+<AM lemma="hodně-2" src="auto">Dg-------3A----</AM>
+<AM lemma="nejvíce_^(nejvíce_+_2._p.,_nejvíce_peněz)" src="manual">Ca--1----------</AM>
+<AM lemma="nejvíce" src="manual" selected="1">Ca--X----------</AM>
+</tag>
 </m>
 <m id="m-ln95044-100-p4s3w2">
 <src.rf>manual</src.rf>
@@ -1932,7 +1945,7 @@
 <tag>
 <AM lemma="tedy" src="orig">Db-------------</AM>
 <AM lemma="tedy-1" src="auto">TT-------------</AM>
-<AM lemma="tedy-2" src="auto" recommended="1">J^-------------</AM>
+<AM lemma="tedy-2" src="auto" recommended="1" selected="1">J^-------------</AM>
 </tag>
 </m>
 <m id="m-ln95044-100-p4s4w16">
@@ -1957,7 +1970,10 @@
 <LM>w#w-ln95044-100-p4s4w18</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-2" src="auto" selected="1">Dg-------2A----</tag>
+<tag>
+<AM lemma="hodně-2" src="auto">Dg-------2A----</AM>
+<AM lemma="hodně-3" src="manual" selected="1">Dg-------2A----</AM>
+</tag>
 </m>
 <m id="m-ln95044-100-p4s4w19">
 <src.rf>manual</src.rf>
@@ -2258,7 +2274,7 @@
 <form>ačkoli</form>
 <tag>
 <AM lemma="ačkoliv" src="orig">J,------------1</AM>
-<AM lemma="ačkoli" src="auto" recommended="1">J,-------------</AM>
+<AM lemma="ačkoli" src="auto" recommended="1" selected="1">J,-------------</AM>
 </tag>
 </m>
 <m id="m-ln95044-100-p5s1w35">
@@ -2307,7 +2323,11 @@
 <LM>w#w-ln95044-100-p5s1w40</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-2" src="auto" selected="1">Dg-------2A----</tag>
+<tag>
+<AM lemma="hodně-2" src="auto">Dg-------2A----</AM>
+<AM lemma="hodně-3" src="manual">Dg-------2A----</AM>
+<AM lemma="hodně-1" src="manual" selected="1">Ca--X----------</AM>
+</tag>
 </m>
 <m id="m-ln95044-100-p5s1w41">
 <src.rf>manual</src.rf>
@@ -2639,7 +2659,10 @@
 <LM>w#w-ln95044-100-p5s3w6</LM>
 </w.rf>
 <form>ČR</form>
-<tag lemma="ČR-1_:B_;G_^(Česká_republika)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95044-100-p5s3w7">
 <src.rf>manual</src.rf>

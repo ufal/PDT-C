@@ -51,7 +51,10 @@
 <LM>w#w-lnd92256-096-p1s1w5</LM>
 </w.rf>
 <form>ČSFR</form>
-<tag lemma="ČSFR-1_:B_;G_^(Čs._federativní_republika)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ČSFR-1_:B_;G_^(Čs._federativní_republika)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČSFR-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd92256-096-p1s1w6">
 <src.rf>manual</src.rf>
@@ -265,7 +268,10 @@
 <LM>w#w-lnd92256-096-p3s2w18</LM>
 </w.rf>
 <form>ČSFR</form>
-<tag lemma="ČSFR-1_:B_;G_^(Čs._federativní_republika)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ČSFR-1_:B_;G_^(Čs._federativní_republika)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČSFR-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd92256-096-p3s2w19">
 <src.rf>manual</src.rf>
@@ -307,7 +313,10 @@
 <LM>w#w-lnd92256-096-p3s3w4</LM>
 </w.rf>
 <form>FHL</form>
-<tag lemma="FHL_:B" src="auto" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="FHL_:B" src="auto">NNXXX-----A---8</AM>
+<AM lemma="FHL-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd92256-096-p3s3w5">
 <src.rf>manual</src.rf>
@@ -355,7 +364,10 @@
 <LM>w#w-lnd92256-096-p3s3w10</LM>
 </w.rf>
 <form>SRN</form>
-<tag lemma="SRN_:B_;G" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="SRN_:B_;G" src="orig">NNFXX-----A---8</AM>
+<AM lemma="SRN-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd92256-096-p3s3w11">
 <src.rf>manual</src.rf>
@@ -485,7 +497,10 @@
 <LM>w#w-lnd92256-096-p4s1w8</LM>
 </w.rf>
 <form>HC</form>
-<tag lemma="HC-1_:B_^(hockey_club)" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="HC-1_:B_^(hockey_club)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="HC-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd92256-096-p4s1w9">
 <src.rf>manual</src.rf>
@@ -1109,7 +1124,10 @@
 <LM>w#w-lnd92256-096-p4s5w13</LM>
 </w.rf>
 <form>řekl</form>
-<tag lemma="říci" src="auto" selected="1">VpYS---XR-AA---</tag>
+<tag>
+<AM lemma="říci" src="auto">VpYS---XR-AA---</AM>
+<AM lemma="říci_:W" src="manual" selected="1">VpYS---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-lnd92256-096-p4s5w14">
 <src.rf>manual</src.rf>
@@ -1478,6 +1496,7 @@
 <tag>
 <AM lemma="USA_;G" src="orig">NNIPX-----A----</AM>
 <AM lemma="USA_:B_;K_,t_^(United_States_of_America)" src="auto" recommended="1">NNIPX-----A---8</AM>
+<AM lemma="USA_:B_;K_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-lnd92256-096-p6s2w6">
@@ -2089,7 +2108,7 @@
 <tag>
 <AM lemma="tedy" src="orig">Db-------------</AM>
 <AM lemma="tedy-1" src="auto">TT-------------</AM>
-<AM lemma="tedy-2" src="auto" recommended="1">J^-------------</AM>
+<AM lemma="tedy-2" src="auto" recommended="1" selected="1">J^-------------</AM>
 </tag>
 </m>
 <m id="m-lnd92256-096-p7s2w6">
@@ -2170,7 +2189,10 @@
 <LM>w#w-lnd92256-096-p7s2w15</LM>
 </w.rf>
 <form>Turek</form>
-<tag lemma="Turek_;E" src="auto" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Turek_;E" src="auto">NNMS1-----A----</AM>
+<AM lemma="Turek_;S_;E" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92256-096-p7s2w16">
 <src.rf>manual</src.rf>
@@ -2282,7 +2304,10 @@
 <LM>w#w-lnd92256-096-p7s2w29</LM>
 </w.rf>
 <form>Adam</form>
-<tag lemma="Adam_;Y" src="auto" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Adam_;Y" src="auto">NNMS1-----A----</AM>
+<AM lemma="Adam_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92256-096-p7s2w30">
 <src.rf>manual</src.rf>

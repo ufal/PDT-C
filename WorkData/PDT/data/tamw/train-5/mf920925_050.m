@@ -255,7 +255,10 @@
 <LM>w#w-mf920925-050-p2s2w8</LM>
 </w.rf>
 <form>MS</form>
-<tag lemma="MS-3_:B_;w_^(mistrovství_světa)" src="orig" selected="1">NNNXX-----A---8</tag>
+<tag>
+<AM lemma="MS-3_:B_;w_^(mistrovství_světa)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="MS-3_:B_^(mistrovství_světa)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920925-050-p2s2w9">
 <src.rf>manual</src.rf>
@@ -505,7 +508,10 @@
 <LM>w#w-mf920925-050-p3s1w12</LM>
 </w.rf>
 <form>ČR</form>
-<tag lemma="ČR-1_:B_;G_^(Česká_republika)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920925-050-p3s1w13">
 <src.rf>manual</src.rf>
@@ -525,7 +531,7 @@
 <form>Ačkoli</form>
 <tag>
 <AM lemma="ačkoliv" src="orig">J,------------1</AM>
-<AM lemma="ačkoli" src="auto" recommended="1">J,-------------</AM>
+<AM lemma="ačkoli" src="auto" recommended="1" selected="1">J,-------------</AM>
 </tag>
 </m>
 <m id="m-mf920925-050-p3s2w2">
@@ -736,7 +742,10 @@
 <LM>w#w-mf920925-050-p3s3w11</LM>
 </w.rf>
 <form>SVS</form>
-<tag lemma="SVS-2_:B_^(středisko_vrcholového_sportu)" src="auto" selected="1">NNNXX-----A---8</tag>
+<tag>
+<AM lemma="SVS-2_:B_^(středisko_vrcholového_sportu)" src="auto">NNNXX-----A---8</AM>
+<AM lemma="SVS-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920925-050-p3s3w12">
 <src.rf>manual</src.rf>
@@ -752,7 +761,10 @@
 <LM>w#w-mf920925-050-p3s3w13</LM>
 </w.rf>
 <form>FMV</form>
-<tag lemma="FMV_:B_;K_^(Federální_ministerstvo_vnitra)" src="auto" selected="1">NNNXX-----A---8</tag>
+<tag>
+<AM lemma="FMV_:B_;K_^(Federální_ministerstvo_vnitra)" src="auto">NNNXX-----A---8</AM>
+<AM lemma="FMV-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920925-050-p3s3w14">
 <src.rf>manual</src.rf>
@@ -1076,7 +1088,7 @@
 <form>nezasáhl</form>
 <tag>
 <AM lemma="zasáhnout" src="orig">VpYS---XR-NA---</AM>
-<AM lemma="zasáhnout_:W" src="auto" recommended="1">VpYS---XR-NA--1</AM>
+<AM lemma="zasáhnout_:W" src="auto" recommended="1" selected="1">VpYS---XR-NA--1</AM>
 </tag>
 </m>
 <m id="m-mf920925-050-p3s4w26">
@@ -1085,7 +1097,10 @@
 <LM>w#w-mf920925-050-p3s4w26</LM>
 </w.rf>
 <form>ani</form>
-<tag lemma="ani-1" src="auto" selected="1">J^-------------</tag>
+<tag>
+<AM lemma="ani-1" src="auto">J^-------------</AM>
+<AM lemma="ani-2" src="manual" selected="1">TT-------------</AM>
+</tag>
 </m>
 <m id="m-mf920925-050-p3s4w27">
 <src.rf>manual</src.rf>
@@ -1272,7 +1287,7 @@
 <AM lemma="sedmý" src="auto">CrMP1---------6</AM>
 <AM lemma="sedmý" src="auto">CrMP4---------6</AM>
 <AM lemma="sedmý" src="auto">CrMP5---------6</AM>
-<AM lemma="sedmý" src="auto" recommended="1">CrMS1----------</AM>
+<AM lemma="sedmý" src="auto" recommended="1" selected="1">CrMS1----------</AM>
 <AM lemma="sedmý" src="auto">CrMS5----------</AM>
 <AM lemma="sedmý" src="auto">CrNP1---------6</AM>
 <AM lemma="sedmý" src="auto">CrNP4---------6</AM>
@@ -1788,7 +1803,10 @@
 <LM>w#w-mf920925-050-p4s3w25</LM>
 </w.rf>
 <form>stranou</form>
-<tag lemma="strana-3_^(u_soudu,_na_úřadě,_smluvní_strany;_na_něčí_straně)" src="orig" selected="1">NNFS7-----A----</tag>
+<tag>
+<AM lemma="strana-3_^(u_soudu,_na_úřadě,_smluvní_strany;_na_něčí_straně)" src="orig">NNFS7-----A----</AM>
+<AM lemma="strana" src="manual" selected="1">NNFS7-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920925-050-p4s3w26">
 <src.rf>manual</src.rf>
@@ -1870,7 +1888,10 @@
 <LM>w#w-mf920925-050-p4s4w6</LM>
 </w.rf>
 <form>ČR</form>
-<tag lemma="ČR-1_:B_;G_^(Česká_republika)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920925-050-p4s4w7">
 <src.rf>manual</src.rf>
@@ -1886,7 +1907,10 @@
 <LM>w#w-mf920925-050-p4s4w8</LM>
 </w.rf>
 <form>SR</form>
-<tag lemma="SR-1_:B_;G_^(Slovenská_republika)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="SR-1_:B_;G_^(Slovenská_republika)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="SR-1_:B_;G_^(Slovenská_republika)" src="manual" selected="1">NNNXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920925-050-p4s4w9">
 <src.rf>manual</src.rf>

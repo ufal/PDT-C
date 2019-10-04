@@ -27,7 +27,10 @@
 <LM>w#w-mf920923-046-p1s1Aw2</LM>
 </w.rf>
 <form>řekla</form>
-<tag lemma="říci" src="auto" selected="1">VpQW---XR-AA---</tag>
+<tag>
+<AM lemma="říci" src="auto">VpQW---XR-AA---</AM>
+<AM lemma="říci_:W" src="manual" selected="1">VpQW---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-mf920923-046-p1s1Aw3">
 <src.rf>manual</src.rf>
@@ -103,7 +106,10 @@
 <LM>w#w-mf920923-046-p2s1w5</LM>
 </w.rf>
 <form>SSC</form>
-<tag lemma="SSC_:B" src="auto" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="SSC_:B" src="auto">NNXXX-----A---8</AM>
+<AM lemma="SSC-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-mf920923-046-p2s1w6">
 <src.rf>manual</src.rf>
@@ -143,7 +149,10 @@
 <LM>w#w-mf920923-046-p2s1w10</LM>
 </w.rf>
 <form>Diega</form>
-<tag lemma="Diego_;S_;Y_,t" src="auto" selected="1">NNMS2-----A----</tag>
+<tag>
+<AM lemma="Diego_;S_;Y_,t" src="auto">NNMS2-----A----</AM>
+<AM lemma="Diego_;S_;Y" src="manual" selected="1">NNMS2-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920923-046-p2s1w11">
 <src.rf>manual</src.rf>
@@ -266,7 +275,10 @@
 <LM>w#w-mf920923-046-p2s2w7</LM>
 </w.rf>
 <form>FIFA</form>
-<tag lemma="FIFA_:B_;K" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="FIFA_:B_;K" src="orig">NNFXX-----A---8</AM>
+<AM lemma="FIFA-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-mf920923-046-p2s2w8">
 <src.rf>manual</src.rf>

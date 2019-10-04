@@ -151,7 +151,10 @@
 <LM>w#w-vesm9211-016-p3s3w2</LM>
 </w.rf>
 <form>D</form>
-<tag lemma="d-3_^(označení_pomocí_písmene)" src="orig" selected="1">NNNXX-----A----</tag>
+<tag>
+<AM lemma="d-3_^(označení_pomocí_písmene)" src="orig">NNNXX-----A----</AM>
+<AM lemma="D-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-vesm9211-016-p3s3w3">
 <src.rf>manual</src.rf>
@@ -167,7 +170,10 @@
 <LM>w#w-vesm9211-016-p3s3w4</LM>
 </w.rf>
 <form>loop</form>
-<tag lemma="loop_,t" src="orig" selected="1">NNIXX-----A----</tag>
+<tag>
+<AM lemma="loop_,t" src="orig">NNIXX-----A----</AM>
+<AM lemma="loop-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-vesm9211-016-p3s3w5">
 <src.rf>manual</src.rf>
@@ -207,7 +213,10 @@
 <LM>w#w-vesm9211-016-p3s3w9</LM>
 </w.rf>
 <form>PCR</form>
-<tag lemma="PCR-1_:B_,t_^(polymerase_chain_reaction)" src="auto" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="PCR-1_:B_,t_^(polymerase_chain_reaction)" src="auto">NNFXX-----A---8</AM>
+<AM lemma="PCR-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-vesm9211-016-p3s3w10">
 <src.rf>manual</src.rf>
@@ -439,7 +448,10 @@
 <LM>w#w-vesm9211-016-p5s2w3</LM>
 </w.rf>
 <form>PCR</form>
-<tag lemma="PCR-1_:B_,t_^(polymerase_chain_reaction)" src="auto" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="PCR-1_:B_,t_^(polymerase_chain_reaction)" src="auto">NNFXX-----A---8</AM>
+<AM lemma="PCR-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-vesm9211-016-p5s2w4">
 <src.rf>manual</src.rf>
@@ -2128,7 +2140,10 @@
 <LM>w#w-vesm9211-016-p11s2w18</LM>
 </w.rf>
 <form>scala</form>
-<tag lemma="scala_;U_,t" src="orig" selected="1">NNFSX-----A----</tag>
+<tag>
+<AM lemma="scala_;U_,t" src="orig">NNFSX-----A----</AM>
+<AM lemma="scala-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-vesm9211-016-p11s2w19">
 <src.rf>manual</src.rf>
@@ -2136,7 +2151,10 @@
 <LM>w#w-vesm9211-016-p11s2w19</LM>
 </w.rf>
 <form>tympani</form>
-<tag lemma="tympani_;U_,t" src="orig" selected="1">NNISX-----A----</tag>
+<tag>
+<AM lemma="tympani_;U_,t" src="orig">NNISX-----A----</AM>
+<AM lemma="tympani-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-vesm9211-016-p11s2w20">
 <src.rf>manual</src.rf>
@@ -3277,7 +3295,7 @@
 </w.rf>
 <form>JÁNSKÝ</form>
 <tag>
-<AM lemma="Jánský_;S" src="orig">NNMS1-----A----</AM>
+<AM lemma="Jánský_;S" src="orig" selected="1">NNMS1-----A----</AM>
 <AM lemma="Jánská_;G" src="auto">NNFP1-----A---6</AM>
 <AM lemma="Jánská_;G" src="auto">NNFP4-----A---6</AM>
 <AM lemma="Jánská_;G" src="auto">NNFP5-----A---6</AM>
@@ -3811,7 +3829,7 @@
 <tag>
 <AM lemma="tedy" src="orig">Db-------------</AM>
 <AM lemma="tedy-1" src="auto">TT-------------</AM>
-<AM lemma="tedy-2" src="auto" recommended="1">J^-------------</AM>
+<AM lemma="tedy-2" src="auto" recommended="1" selected="1">J^-------------</AM>
 </tag>
 </m>
 <m id="m-vesm9211-016-p30s3w14">
@@ -4186,7 +4204,7 @@
 <form>litrech</form>
 <tag>
 <AM lemma="l-1`litr" src="orig">NNIP6-----A----</AM>
-<AM lemma="litr" src="auto" recommended="1">NNIP6-----A----</AM>
+<AM lemma="litr" src="auto" recommended="1" selected="1">NNIP6-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9211-016-p32s3w10">
@@ -4431,7 +4449,10 @@
 <LM>w#w-vesm9211-016-p34s3w9</LM>
 </w.rf>
 <form>set</form>
-<tag lemma="set-3_,t_^(angl._množinový)" src="auto" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="set-3_,t_^(angl._množinový)" src="auto">AAXXX----1A----</AM>
+<AM lemma="set-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-vesm9211-016-p34s3w10">
 <src.rf>manual</src.rf>
@@ -4444,6 +4465,7 @@
 <AM lemma="point" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="point" src="auto">NNIS4-----A----</AM>
 <AM lemma="pointa" src="auto">NNFP2-----A----</AM>
+<AM lemma="point-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-vesm9211-016-p34s3w11">
@@ -4608,7 +4630,7 @@
 <form>litrech</form>
 <tag>
 <AM lemma="l-1`litr" src="orig">NNIP6-----A----</AM>
-<AM lemma="litr" src="auto" recommended="1">NNIP6-----A----</AM>
+<AM lemma="litr" src="auto" recommended="1" selected="1">NNIP6-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9211-016-p34s4w10">

@@ -45,7 +45,10 @@
 <LM>w#w-lnd92255-139-p2s1w1</LM>
 </w.rf>
 <form>BERD</form>
-<tag lemma="BERD_:B_;K_^(Evropská_banka_pro_obnovu_a_rozvoj)" src="auto" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="BERD_:B_;K_^(Evropská_banka_pro_obnovu_a_rozvoj)" src="auto">NNXXX-----A---8</AM>
+<AM lemma="BERD-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd92255-139-p2s1w2">
 <src.rf>manual</src.rf>
@@ -193,7 +196,10 @@
 <LM>w#w-lnd92255-139-p3s2w15</LM>
 </w.rf>
 <form>SR</form>
-<tag lemma="SR-1_:B_;G_^(Slovenská_republika)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="SR-1_:B_;G_^(Slovenská_republika)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="SR-1_:B_;G_^(Slovenská_republika)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92255-139-p3s2w16">
 <src.rf>manual</src.rf>
@@ -201,7 +207,10 @@
 <LM>w#w-lnd92255-139-p3s2w16</LM>
 </w.rf>
 <form>Júlia</form>
-<tag lemma="Július_;Y_,t" src="auto" selected="1">NNMS2-----A----</tag>
+<tag>
+<AM lemma="Július_;Y_,t" src="auto">NNMS2-----A----</AM>
+<AM lemma="Július_;Y" src="manual" selected="1">NNMS2-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92255-139-p3s2w17">
 <src.rf>manual</src.rf>
@@ -233,7 +242,10 @@
 <LM>w#w-lnd92255-139-p3s2w20</LM>
 </w.rf>
 <form>SBČS</form>
-<tag lemma="SBČS_:B_;K_^(býv._Státní_banka_československá)" src="auto" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="SBČS_:B_;K_^(býv._Státní_banka_československá)" src="auto">NNXXX-----A---8</AM>
+<AM lemma="SBČS-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd92255-139-p3s2w21">
 <src.rf>manual</src.rf>
@@ -345,7 +357,10 @@
 <LM>w#w-lnd92255-139-p3s2w34</LM>
 </w.rf>
 <form>BERD</form>
-<tag lemma="BERD_:B_;K_^(Evropská_banka_pro_obnovu_a_rozvoj)" src="auto" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="BERD_:B_;K_^(Evropská_banka_pro_obnovu_a_rozvoj)" src="auto">NNXXX-----A---8</AM>
+<AM lemma="BERD-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd92255-139-p3s2w35">
 <src.rf>manual</src.rf>
@@ -440,6 +455,7 @@
 <AM lemma="TK_:B" src="auto" recommended="1">NNXXX-----A---8</AM>
 <AM lemma="Tk_:B_;K" src="auto">NNISX-----A---8</AM>
 <AM lemma="tknout" src="auto">VpYS---XR-AA--6</AM>
+<AM lemma="TK-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-lnd92255-139-p3s3w8">
@@ -448,7 +464,10 @@
 <LM>w#w-lnd92255-139-p3s3w8</LM>
 </w.rf>
 <form>SR</form>
-<tag lemma="SR-1_:B_;G_^(Slovenská_republika)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="SR-1_:B_;G_^(Slovenská_republika)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="SR-1_:B_;G_^(Slovenská_republika)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92255-139-p3s3w9">
 <src.rf>manual</src.rf>
@@ -456,7 +475,10 @@
 <LM>w#w-lnd92255-139-p3s3w9</LM>
 </w.rf>
 <form>J</form>
-<tag lemma="J-0_:B_;Y" src="orig" selected="1">NNMXX-----A---8</tag>
+<tag>
+<AM lemma="J-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
+<AM lemma="J-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd92255-139-p3s3w10">
 <src.rf>manual</src.rf>
@@ -696,7 +718,10 @@
 <LM>w#w-lnd92255-139-p3s3w39</LM>
 </w.rf>
 <form>BERD</form>
-<tag lemma="BERD_:B_;K_^(Evropská_banka_pro_obnovu_a_rozvoj)" src="auto" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="BERD_:B_;K_^(Evropská_banka_pro_obnovu_a_rozvoj)" src="auto">NNXXX-----A---8</AM>
+<AM lemma="BERD-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd92255-139-p3s3w40">
 <src.rf>manual</src.rf>
@@ -948,7 +973,10 @@
 <LM>w#w-lnd92255-139-p3s5w4</LM>
 </w.rf>
 <form>J</form>
-<tag lemma="J-0_:B_;Y" src="orig" selected="1">NNMXX-----A---8</tag>
+<tag>
+<AM lemma="J-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
+<AM lemma="J-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd92255-139-p3s5w5">
 <src.rf>manual</src.rf>

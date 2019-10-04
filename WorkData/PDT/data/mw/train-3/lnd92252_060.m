@@ -61,7 +61,10 @@
 <LM>w#w-lnd92252-060-p2s1w2</LM>
 </w.rf>
 <form>LN</form>
-<tag lemma="LN-1_:B_;R_^(Lidové_noviny,_deník)" src="orig" selected="1">NNFPX-----A---8</tag>
+<tag>
+<AM lemma="LN-1_:B_;R_^(Lidové_noviny,_deník)" src="orig">NNFPX-----A---8</AM>
+<AM lemma="LN-1_:B_;K_;R_^(Lidové_noviny,_deník)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92252-060-p2s1w3">
 <src.rf>manual</src.rf>
@@ -201,7 +204,10 @@
 <LM>w#w-lnd92252-060-p3s2w1</LM>
 </w.rf>
 <form>Jen</form>
-<tag lemma="jen-1" src="auto" selected="1">TT-------------</tag>
+<tag>
+<AM lemma="jen-1" src="auto">TT-------------</AM>
+<AM lemma="jen_^(pouze)-" src="manual" selected="1">Db-------------</AM>
+</tag>
 </m>
 <m id="m-lnd92252-060-p3s2w2">
 <src.rf>manual</src.rf>
@@ -453,7 +459,10 @@
 <LM>w#w-lnd92252-060-p4s2w12</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-2" src="auto" selected="1">Dg-------2A----</tag>
+<tag>
+<AM lemma="hodně-2" src="auto">Dg-------2A----</AM>
+<AM lemma="hodně-3" src="manual" selected="1">Dg-------2A----</AM>
+</tag>
 </m>
 <m id="m-lnd92252-060-p4s2w13">
 <src.rf>manual</src.rf>
@@ -691,6 +700,11 @@
 <AM lemma="z-3_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
 <AM lemma="z-8_:B_^(ost._zkratka)" src="auto">XX------------8</AM>
 </tag>
+<comment>
+<LM type="New Form">
+<text>v</text>
+</LM>
+</comment>
 </m>
 <m id="m-lnd92252-060-p4s2w42">
 <src.rf>manual</src.rf>

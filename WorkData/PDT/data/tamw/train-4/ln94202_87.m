@@ -141,7 +141,10 @@
 <LM>w#w-ln94202-87-p2s1w15</LM>
 </w.rf>
 <form>mj</form>
-<tag lemma="mj-1_:B_^(mimo_jiné)" src="orig" selected="1">Db------------8</tag>
+<tag>
+<AM lemma="mj-1_:B_^(mimo_jiné)" src="orig">Db------------8</AM>
+<AM lemma="mj-1_:B_^(mimo_jiné)" src="manual" selected="1">Db-------------</AM>
+</tag>
 </m>
 <m id="m-ln94202-87-p2s1w16">
 <src.rf>manual</src.rf>
@@ -864,7 +867,10 @@
 <LM>w#w-ln94202-87-p3s2w12</LM>
 </w.rf>
 <form>KF</form>
-<tag lemma="KF_:B" src="auto" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="KF_:B" src="auto">NNXXX-----A---8</AM>
+<AM lemma="KF-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln94202-87-p3s2w13">
 <src.rf>manual</src.rf>

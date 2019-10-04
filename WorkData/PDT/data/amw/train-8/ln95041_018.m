@@ -193,7 +193,7 @@
 <form>Prokopem</form>
 <tag>
 <AM lemma="prokop" src="orig">NNMS7-----A----</AM>
-<AM lemma="Prokop_;S_;Y" src="auto" recommended="1">NNMS7-----A----</AM>
+<AM lemma="Prokop_;S_;Y" src="auto" recommended="1" selected="1">NNMS7-----A----</AM>
 <AM lemma="prokop_,a_^(průkop)" src="auto">NNIS7-----A----</AM>
 <AM lemma="prokopat" src="auto">VB-P---1P-AA--6</AM>
 </tag>
@@ -366,7 +366,10 @@
 <LM>w#w-ln95041-018-p2s3w18</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-2" src="auto" selected="1">Dg-------2A----</tag>
+<tag>
+<AM lemma="hodně-2" src="auto">Dg-------2A----</AM>
+<AM lemma="hodně-3" src="manual" selected="1">Dg-------2A----</AM>
+</tag>
 </m>
 <m id="m-ln95041-018-p2s3w19">
 <src.rf>manual</src.rf>
@@ -858,7 +861,7 @@
 <form>totiž</form>
 <tag>
 <AM lemma="totiž" src="orig">Db-------------</AM>
-<AM lemma="totiž-1" src="auto" recommended="1">J^-------------</AM>
+<AM lemma="totiž-1" src="auto" recommended="1" selected="1">J^-------------</AM>
 <AM lemma="totiž-2" src="auto">TT-------------</AM>
 </tag>
 </m>
@@ -1607,7 +1610,10 @@
 <LM>w#w-ln95041-018-p2s9w11</LM>
 </w.rf>
 <form>strany</form>
-<tag lemma="strana-3_^(u_soudu,_na_úřadě,_smluvní_strany;_na_něčí_straně)" src="orig" selected="1">NNFS2-----A----</tag>
+<tag>
+<AM lemma="strana-3_^(u_soudu,_na_úřadě,_smluvní_strany;_na_něčí_straně)" src="orig">NNFS2-----A----</AM>
+<AM lemma="strana" src="manual" selected="1">NNFS2-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95041-018-p2s9w12">
 <src.rf>manual</src.rf>
@@ -1835,7 +1841,7 @@
 <form>snad</form>
 <tag>
 <AM lemma="snad" src="orig">Db-------------</AM>
-<AM lemma="snad" src="auto" recommended="1">TT-------------</AM>
+<AM lemma="snad" src="auto" recommended="1" selected="1">TT-------------</AM>
 </tag>
 </m>
 <m id="m-ln95041-018-p2s10w27">

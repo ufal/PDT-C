@@ -35,7 +35,10 @@
 <LM>w#w-lnd92258-066-p1s1w3</LM>
 </w.rf>
 <form>KSSS</form>
-<tag lemma="KSSS_:B_;K_;p" src="auto" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="KSSS_:B_;K_;p" src="auto">NNFXX-----A---8</AM>
+<AM lemma="KSSS-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 </s>
 <s id="m-lnd92258-066-p2s1">
@@ -429,7 +432,10 @@
 <LM>w#w-lnd92258-066-p3s4w4</LM>
 </w.rf>
 <form>sice</form>
-<tag lemma="sice-2" src="auto" selected="1">Db-------------</tag>
+<tag>
+<AM lemma="sice-2" src="auto">Db-------------</AM>
+<AM lemma="sice-1_^(spojka;_připouští_se_určitá_fakta)" src="manual" selected="1">J^-------------</AM>
+</tag>
 </m>
 <m id="m-lnd92258-066-p3s4w5">
 <src.rf>manual</src.rf>
@@ -565,7 +571,10 @@
 <LM>w#w-lnd92258-066-p3s4w21</LM>
 </w.rf>
 <form>Janis</form>
-<tag lemma="Janis_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Janis_;S" src="orig">NNMS1-----A----</AM>
+<AM lemma="Janis_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92258-066-p3s4w22">
 <src.rf>manual</src.rf>
@@ -647,7 +656,7 @@
 <form>vůbec</form>
 <tag>
 <AM lemma="vůbec" src="orig">Db-------------</AM>
-<AM lemma="vůbec" src="auto" recommended="1">TT-------------</AM>
+<AM lemma="vůbec" src="auto" recommended="1" selected="1">TT-------------</AM>
 </tag>
 </m>
 <m id="m-lnd92258-066-p3s4w32">
@@ -722,7 +731,10 @@
 <LM>w#w-lnd92258-066-p3s5w6</LM>
 </w.rf>
 <form>Pavlose</form>
-<tag lemma="Pavlos_;Y_,t" src="auto" selected="1">NNMS4-----A----</tag>
+<tag>
+<AM lemma="Pavlos_;Y_,t" src="auto">NNMS4-----A----</AM>
+<AM lemma="Pavlos_;Y" src="manual" selected="1">NNMS4-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92258-066-p3s5w7">
 <src.rf>manual</src.rf>
@@ -794,7 +806,10 @@
 <LM>w#w-lnd92258-066-p3s5w15</LM>
 </w.rf>
 <form>KS</form>
-<tag lemma="KS_:B_^(komunistická_strana)" src="auto" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="KS_:B_^(komunistická_strana)" src="auto">NNFXX-----A---8</AM>
+<AM lemma="KS-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd92258-066-p3s5w16">
 <src.rf>manual</src.rf>
@@ -874,7 +889,10 @@
 <LM>w#w-lnd92258-066-p3s5w25</LM>
 </w.rf>
 <form>KSSS</form>
-<tag lemma="KSSS_:B_;K_;p" src="auto" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="KSSS_:B_;K_;p" src="auto">NNFXX-----A---8</AM>
+<AM lemma="KSSS-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd92258-066-p3s5w26">
 <src.rf>manual</src.rf>

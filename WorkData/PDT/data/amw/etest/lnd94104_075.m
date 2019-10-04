@@ -221,7 +221,10 @@
 <LM>w#w-lnd94104-075-p1s1Dw7</LM>
 </w.rf>
 <form>ANC</form>
-<tag lemma="ANC-1_:B_;K_^(Africký_národní_kongres)" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="ANC-1_:B_;K_^(Africký_národní_kongres)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="ANC-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd94104-075-p1s1Dw8">
 <src.rf>manual</src.rf>
@@ -669,7 +672,10 @@
 <LM>w#w-lnd94104-075-p1s5w11</LM>
 </w.rf>
 <form>NP</form>
-<tag lemma="NP_:B_;K" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="NP_:B_;K" src="orig">NNXXX-----A---8</AM>
+<AM lemma="NP-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd94104-075-p1s5w12">
 <src.rf>manual</src.rf>
@@ -908,6 +914,7 @@
 <tag>
 <AM lemma="NP_:B_;K_,t" src="orig">NNFXX-----A---8</AM>
 <AM lemma="NP_:B_;K" src="auto" recommended="1">NNXXX-----A---8</AM>
+<AM lemma="NP-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94104-075-p1s7w2">
@@ -1239,7 +1246,10 @@
 <LM>w#w-lnd94104-075-p1s8w24</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-2" src="auto" selected="1">Dg-------2A----</tag>
+<tag>
+<AM lemma="hodně-2" src="auto">Dg-------2A----</AM>
+<AM lemma="více_^(více_+_2._p.,_více_peněz)" src="manual" selected="1">Ca--4----------</AM>
+</tag>
 </m>
 <m id="m-lnd94104-075-p1s8w25">
 <src.rf>manual</src.rf>
@@ -1356,6 +1366,7 @@
 <tag>
 <AM lemma="NP_:B_;K_,t" src="orig">NNFXX-----A---8</AM>
 <AM lemma="NP_:B_;K" src="auto" recommended="1">NNXXX-----A---8</AM>
+<AM lemma="NP-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94104-075-p1s9w9">
@@ -1374,7 +1385,10 @@
 <LM>w#w-lnd94104-075-p1s10w1</LM>
 </w.rf>
 <form>ANC</form>
-<tag lemma="ANC-1_:B_;K_^(Africký_národní_kongres)" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="ANC-1_:B_;K_^(Africký_národní_kongres)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="ANC-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd94104-075-p1s10w2">
 <src.rf>manual</src.rf>
@@ -1470,7 +1484,10 @@
 <LM>w#w-lnd94104-075-p1s10w13</LM>
 </w.rf>
 <form>přesunul</form>
-<tag lemma="přesunout" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag>
+<AM lemma="přesunout" src="orig">VpYS---XR-AA---</AM>
+<AM lemma="přesunout_:W" src="manual" selected="1">VpYS---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-lnd94104-075-p1s10w14">
 <src.rf>manual</src.rf>
@@ -2167,7 +2184,10 @@
 <LM>w#w-lnd94104-075-p1s14w13</LM>
 </w.rf>
 <form>stálo</form>
-<tag lemma="stát-3_^(někdo/něco_stojí,_např._na_nohou)" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag>
+<AM lemma="stát-3_^(někdo/něco_stojí,_např._na_nohou)" src="orig">VpNS---XR-AA---</AM>
+<AM lemma="stát-4_:T_^(něco_stojí_peníze)" src="manual" selected="1">VpNS---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-lnd94104-075-p1s14w14">
 <src.rf>manual</src.rf>
@@ -2250,7 +2270,10 @@
 <LM>w#w-lnd94104-075-p1s15w1</LM>
 </w.rf>
 <form>ANC</form>
-<tag lemma="ANC-1_:B_;K_^(Africký_národní_kongres)" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="ANC-1_:B_;K_^(Africký_národní_kongres)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="ANC-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd94104-075-p1s15w2">
 <src.rf>manual</src.rf>
@@ -2502,7 +2525,10 @@
 <LM>w#w-lnd94104-075-p1s17w1</LM>
 </w.rf>
 <form>Chce</form>
-<tag lemma="chtít" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag>
+<AM lemma="chtít" src="orig">VB-S---3P-AA---</AM>
+<AM lemma="chtít_:T" src="manual" selected="1">VB-S---3P-AA---</AM>
+</tag>
 </m>
 <m id="m-lnd94104-075-p1s17w2">
 <src.rf>manual</src.rf>
@@ -2651,6 +2677,7 @@
 <tag>
 <AM lemma="NP_:B_;K_,t" src="orig">NNFXX-----A---8</AM>
 <AM lemma="NP_:B_;K" src="auto" recommended="1">NNXXX-----A---8</AM>
+<AM lemma="NP-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94104-075-p1s18w2">
@@ -3137,7 +3164,10 @@
 <LM>w#w-lnd94104-075-p1s21w1</LM>
 </w.rf>
 <form>Federalismus</form>
-<tag lemma="federalizmus_,x" src="orig" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="federalizmus_,x" src="orig">NNIS1-----A----</AM>
+<AM lemma="federalizmus_,s_^(^DD**federalizmus)" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd94104-075-p1s21w2">
 <src.rf>manual</src.rf>
@@ -3153,7 +3183,10 @@
 <LM>w#w-lnd94104-075-p1s21w3</LM>
 </w.rf>
 <form>ANC</form>
-<tag lemma="ANC-1_:B_;K_^(Africký_národní_kongres)" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="ANC-1_:B_;K_^(Africký_národní_kongres)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="ANC-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd94104-075-p1s21w4">
 <src.rf>manual</src.rf>
@@ -3437,7 +3470,10 @@
 <LM>w#w-lnd94104-075-p1s23w9</LM>
 </w.rf>
 <form>volkstaat</form>
-<tag lemma="volkstaat_,t" src="orig" selected="1">NNIS4-----A----</tag>
+<tag>
+<AM lemma="volkstaat_,t" src="orig">NNIS4-----A----</AM>
+<AM lemma="volkstaat-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-lnd94104-075-p1s23w10">
 <src.rf>manual</src.rf>

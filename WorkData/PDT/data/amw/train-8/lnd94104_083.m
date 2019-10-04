@@ -39,7 +39,7 @@
 <form>Snad</form>
 <tag>
 <AM lemma="snad" src="orig">Db-------------</AM>
-<AM lemma="snad" src="auto" recommended="1">TT-------------</AM>
+<AM lemma="snad" src="auto" recommended="1" selected="1">TT-------------</AM>
 </tag>
 </m>
 <m id="m-lnd94104-083-p1s1Bw2">
@@ -136,7 +136,10 @@
 <LM>w#w-lnd94104-083-p1s1Bw13</LM>
 </w.rf>
 <form>bílý</form>
-<tag lemma="bílý" src="orig" selected="1">AAMS1----1A----</tag>
+<tag>
+<AM lemma="bílý" src="orig">AAMS1----1A----</AM>
+<AM lemma="bílý_;o" src="manual" selected="1">AAMS1----1A----</AM>
+</tag>
 </m>
 <m id="m-lnd94104-083-p1s1Bw14">
 <src.rf>manual</src.rf>
@@ -874,7 +877,10 @@
 <LM>w#w-lnd94104-083-p1s5w9</LM>
 </w.rf>
 <form>bílého</form>
-<tag lemma="bílý" src="orig" selected="1">AAMS2----1A----</tag>
+<tag>
+<AM lemma="bílý" src="orig">AAMS2----1A----</AM>
+<AM lemma="bílý_;o" src="manual" selected="1">AAMS2----1A----</AM>
+</tag>
 </m>
 <m id="m-lnd94104-083-p1s5w10">
 <src.rf>manual</src.rf>
@@ -1677,7 +1683,7 @@
 <tag>
 <AM lemma="přesto" src="orig">Dg-------1A----</AM>
 <AM lemma="přesto-1" src="auto" recommended="1">Db-------------</AM>
-<AM lemma="přesto-2" src="auto">J^-------------</AM>
+<AM lemma="přesto-2" src="auto" selected="1">J^-------------</AM>
 </tag>
 </m>
 <m id="m-lnd94104-083-p1s9w12">
@@ -1864,7 +1870,10 @@
 <LM>w#w-lnd94104-083-p1s10w5</LM>
 </w.rf>
 <form>P</form>
-<tag lemma="Post-1_:B_,t_^(Post_Office,_pošta)" src="orig" selected="1">AAXXX----1A---8</tag>
+<tag>
+<AM lemma="Post-1_:B_,t_^(Post_Office,_pošta)" src="orig">AAXXX----1A---8</AM>
+<AM lemma="P-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd94104-083-p1s10w6">
 <src.rf>manual</src.rf>
@@ -1880,7 +1889,10 @@
 <LM>w#w-lnd94104-083-p1s10w7</LM>
 </w.rf>
 <form>O</form>
-<tag lemma="Office-1_:B_,t_^(př._Post_Office,_pošt._úřad)" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="Office-1_:B_,t_^(př._Post_Office,_pošt._úřad)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="O-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd94104-083-p1s10w8">
 <src.rf>manual</src.rf>
@@ -1896,7 +1908,11 @@
 <LM>w#w-lnd94104-083-p1s10w9</LM>
 </w.rf>
 <form>Box</form>
-<tag lemma="box-2_,t_^(krabice,_schránka)" src="orig" selected="1">NNIXX-----A----</tag>
+<tag>
+<AM lemma="box-2_,t_^(krabice,_schránka)" src="orig">NNIXX-----A----</AM>
+<AM lemma="box-1" src="manual">NNIS4-----A----</AM>
+<AM lemma="box-1" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd94104-083-p1s10w10">
 <src.rf>manual</src.rf>

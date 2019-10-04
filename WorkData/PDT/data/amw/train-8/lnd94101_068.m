@@ -171,6 +171,7 @@
 <AM lemma="Zazi_;Y" src="orig">NNFXX-----A----</AM>
 <AM lemma="Zazi_;S" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Zazi_;S" src="auto">NNMS5-----A----</AM>
+<AM lemma="Zazi-2_;Y" src="manual" selected="1">NNFXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94101-068-p1s2Bw15">
@@ -373,7 +374,10 @@
 <LM>w#w-lnd94101-068-p1s3w9</LM>
 </w.rf>
 <form>KD</form>
-<tag lemma="KD_:B_^(kulturní_dům)" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="KD_:B_^(kulturní_dům)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="KD-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd94101-068-p1s3w10">
 <src.rf>manual</src.rf>

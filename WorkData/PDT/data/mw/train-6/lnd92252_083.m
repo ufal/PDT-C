@@ -61,7 +61,10 @@
 <LM>w#w-lnd92252-083-p2s1w3</LM>
 </w.rf>
 <form>ber</form>
-<tag lemma="ber-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="ber-99_:B_;S" src="orig">NNXXX-----A---8</AM>
+<AM lemma="ber-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92252-083-p2s1w4">
 <src.rf>manual</src.rf>
@@ -143,7 +146,10 @@
 <LM>w#w-lnd92252-083-p2s2w8</LM>
 </w.rf>
 <form>UEFA</form>
-<tag lemma="UEFA-1_:B_;K_;w_^(Evr._fotbalová_federace)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="UEFA-1_:B_;K_;w_^(Evr._fotbalová_federace)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="UEFA-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92252-083-p2s2w9">
 <src.rf>manual</src.rf>
@@ -714,7 +720,7 @@
 <tag>
 <AM lemma="tedy" src="orig">Db-------------</AM>
 <AM lemma="tedy-1" src="auto">TT-------------</AM>
-<AM lemma="tedy-2" src="auto" recommended="1">J^-------------</AM>
+<AM lemma="tedy-2" src="auto" recommended="1" selected="1">J^-------------</AM>
 </tag>
 </m>
 <m id="m-lnd92252-083-p2s6w3">
@@ -739,7 +745,10 @@
 <LM>w#w-lnd92252-083-p2s6w5</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-2" src="auto" selected="1">Dg-------2A----</tag>
+<tag>
+<AM lemma="hodně-2" src="auto">Dg-------2A----</AM>
+<AM lemma="hodně-3" src="manual" selected="1">Dg-------2A----</AM>
+</tag>
 </m>
 <m id="m-lnd92252-083-p2s6w6">
 <src.rf>manual</src.rf>
@@ -774,7 +783,7 @@
 <tag>
 <AM lemma="tedy" src="orig">Db-------------</AM>
 <AM lemma="tedy-1" src="auto">TT-------------</AM>
-<AM lemma="tedy-2" src="auto" recommended="1">J^-------------</AM>
+<AM lemma="tedy-2" src="auto" recommended="1" selected="1">J^-------------</AM>
 </tag>
 </m>
 <m id="m-lnd92252-083-p2s6w10">
@@ -873,7 +882,10 @@
 <LM>w#w-lnd92252-083-p2s7w3</LM>
 </w.rf>
 <form>UEFA</form>
-<tag lemma="UEFA-1_:B_;K_;w_^(Evr._fotbalová_federace)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="UEFA-1_:B_;K_;w_^(Evr._fotbalová_federace)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="UEFA-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92252-083-p2s7w4">
 <src.rf>manual</src.rf>
@@ -891,7 +903,7 @@
 <form>totiž</form>
 <tag>
 <AM lemma="totiž" src="orig">Db-------------</AM>
-<AM lemma="totiž-1" src="auto" recommended="1">J^-------------</AM>
+<AM lemma="totiž-1" src="auto" recommended="1" selected="1">J^-------------</AM>
 <AM lemma="totiž-2" src="auto">TT-------------</AM>
 </tag>
 </m>
@@ -909,7 +921,10 @@
 <LM>w#w-lnd92252-083-p2s7w7</LM>
 </w.rf>
 <form>nesešla</form>
-<tag lemma="sejít" src="orig" selected="1">VpQW---XR-NA---</tag>
+<tag>
+<AM lemma="sejít" src="orig">VpQW---XR-NA---</AM>
+<AM lemma="sejít_:W" src="manual" selected="1">VpQW---XR-NA---</AM>
+</tag>
 </m>
 <m id="m-lnd92252-083-p2s7w8">
 <src.rf>manual</src.rf>
@@ -951,7 +966,10 @@
 <LM>w#w-lnd92252-083-p2s8w4</LM>
 </w.rf>
 <form>vynesen</form>
-<tag lemma="vynést" src="orig" selected="1">VsYS---XX-AP---</tag>
+<tag>
+<AM lemma="vynést" src="orig">VsYS---XX-AP---</AM>
+<AM lemma="vynést_:W" src="manual" selected="1">VsYS---XX-AP---</AM>
+</tag>
 </m>
 <m id="m-lnd92252-083-p2s8w5">
 <src.rf>manual</src.rf>
@@ -1113,7 +1131,10 @@
 <LM>w#w-lnd92252-083-p2s9w13</LM>
 </w.rf>
 <form>vyhrál</form>
-<tag lemma="vyhrát" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag>
+<AM lemma="vyhrát" src="orig">VpYS---XR-AA---</AM>
+<AM lemma="vyhrát_:W" src="manual" selected="1">VpYS---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-lnd92252-083-p2s9w14">
 <src.rf>manual</src.rf>
@@ -1201,7 +1222,10 @@
 <LM>w#w-lnd92252-083-p2s9w24</LM>
 </w.rf>
 <form>otřásl</form>
-<tag lemma="otřást" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag>
+<AM lemma="otřást" src="orig">VpYS---XR-AA---</AM>
+<AM lemma="otřást_:W" src="manual" selected="1">VpYS---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-lnd92252-083-p2s9w25">
 <src.rf>manual</src.rf>
@@ -1283,7 +1307,10 @@
 <LM>w#w-lnd92252-083-p2s10w3</LM>
 </w.rf>
 <form>myslet</form>
-<tag lemma="myslet" src="orig" selected="1">Vf--------A----</tag>
+<tag>
+<AM lemma="myslet" src="orig">Vf--------A----</AM>
+<AM lemma="myslet_:T" src="manual" selected="1">Vf--------A----</AM>
+</tag>
 </m>
 <m id="m-lnd92252-083-p2s10w4">
 <src.rf>manual</src.rf>
@@ -1341,7 +1368,10 @@
 <LM>w#w-lnd92252-083-p2s11w2</LM>
 </w.rf>
 <form>hrály</form>
-<tag lemma="hrát" src="orig" selected="1">VpTP---XR-AA---</tag>
+<tag>
+<AM lemma="hrát" src="orig">VpTP---XR-AA---</AM>
+<AM lemma="hrát_:T" src="manual" selected="1">VpTP---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-lnd92252-083-p2s11w3">
 <src.rf>manual</src.rf>
@@ -1461,7 +1491,10 @@
 <LM>w#w-lnd92252-083-p2s11w17</LM>
 </w.rf>
 <form>dát</form>
-<tag lemma="dát" src="orig" selected="1">Vf--------A----</tag>
+<tag>
+<AM lemma="dát" src="orig">Vf--------A----</AM>
+<AM lemma="dát_:W" src="manual" selected="1">Vf--------A----</AM>
+</tag>
 </m>
 <m id="m-lnd92252-083-p2s11w18">
 <src.rf>manual</src.rf>

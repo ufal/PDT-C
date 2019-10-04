@@ -425,7 +425,10 @@
 <LM>w#w-ln94201-13-p2s3w14</LM>
 </w.rf>
 <form>TANAS</form>
-<tag lemma="TANAS_:B_;K_^(Tanvaldský_anarchistický_svaz)" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="TANAS_:B_;K_^(Tanvaldský_anarchistický_svaz)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="TANAS-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln94201-13-p2s3w15">
 <src.rf>manual</src.rf>
@@ -557,7 +560,10 @@
 <LM>w#w-ln94201-13-p2s5w7</LM>
 </w.rf>
 <form>TANAS</form>
-<tag lemma="TANAS_:B_;K_^(Tanvaldský_anarchistický_svaz)" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="TANAS_:B_;K_^(Tanvaldský_anarchistický_svaz)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="TANAS-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln94201-13-p2s5w8">
 <src.rf>manual</src.rf>
@@ -626,6 +632,7 @@
 <AM lemma="šovinizmus" src="auto" recommended="1">NNIS2-----A----</AM>
 <AM lemma="šovinizmus" src="auto">NNIS3-----A----</AM>
 <AM lemma="šovinizmus" src="auto">NNIS6-----A----</AM>
+<AM lemma="šovinismus_,s_^(^DD**šovinizmus)" src="manual" selected="1">NNIS2-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94201-13-p2s5w16">
@@ -642,7 +649,10 @@
 <LM>w#w-ln94201-13-p2s5w17</LM>
 </w.rf>
 <form>rasismu</form>
-<tag lemma="rasismus" src="orig" selected="1">NNIS2-----A----</tag>
+<tag>
+<AM lemma="rasismus" src="orig">NNIS2-----A----</AM>
+<AM lemma="rasismus_,s_^(^DD**rasizmus)" src="manual" selected="1">NNIS2-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94201-13-p2s5w18">
 <src.rf>manual</src.rf>
@@ -658,7 +668,10 @@
 <LM>w#w-ln94201-13-p2s5w19</LM>
 </w.rf>
 <form>fašismu</form>
-<tag lemma="fašismus" src="orig" selected="1">NNIS2-----A----</tag>
+<tag>
+<AM lemma="fašismus" src="orig">NNIS2-----A----</AM>
+<AM lemma="fašismus_,s_^(^DD**fašizmus)" src="manual" selected="1">NNIS2-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94201-13-p2s5w20">
 <src.rf>manual</src.rf>
@@ -724,7 +737,10 @@
 <LM>w#w-ln94201-13-p2s6w7</LM>
 </w.rf>
 <form>TANAS</form>
-<tag lemma="TANAS_:B_;K_^(Tanvaldský_anarchistický_svaz)" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="TANAS_:B_;K_^(Tanvaldský_anarchistický_svaz)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="TANAS-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln94201-13-p2s6w8">
 <src.rf>manual</src.rf>
@@ -836,7 +852,10 @@
 <LM>w#w-ln94201-13-p2s6w21</LM>
 </w.rf>
 <form>skinheads</form>
-<tag lemma="skinheads_,t" src="auto" selected="1">NNNXX-----A----</tag>
+<tag>
+<AM lemma="skinheads_,t" src="auto">NNNXX-----A----</AM>
+<AM lemma="skinheads-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94201-13-p2s6w22">
 <src.rf>manual</src.rf>

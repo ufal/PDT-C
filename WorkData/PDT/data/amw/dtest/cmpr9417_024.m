@@ -27,7 +27,10 @@
 <LM>w#w-cmpr9417-024-p3s1w2</LM>
 </w.rf>
 <form>Nezapomeňte</form>
-<tag lemma="zapomenout" src="orig" selected="1">Vi-P---2--N----</tag>
+<tag>
+<AM lemma="zapomenout" src="orig">Vi-P---2--N----</AM>
+<AM lemma="zapomenout_:W" src="manual" selected="1">Vi-P---2--N----</AM>
+</tag>
 </m>
 <m id="m-cmpr9417-024-p3s1w3">
 <src.rf>manual</src.rf>
@@ -273,6 +276,7 @@
 <tag>
 <AM lemma="Kč" src="orig">NNFXX-----A----</AM>
 <AM lemma="Kč_:B" src="auto" recommended="1">NNFXX-----A---8</AM>
+<AM lemma="Kč_:B" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9417-024-p5s1w30">

@@ -61,7 +61,10 @@
 <LM>w#w-mf920923-036-p2s1w3</LM>
 </w.rf>
 <form>ina</form>
-<tag lemma="ina-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="ina-99_:B_;S" src="orig">NNXXX-----A---8</AM>
+<AM lemma="ina-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920923-036-p2s1w4">
 <src.rf>manual</src.rf>
@@ -194,6 +197,8 @@
 <tag>
 <AM lemma="MI_:B_;R" src="orig">NNXXX-----A---8</AM>
 <AM lemma="já" src="auto" recommended="1">PH-S3--1-------</AM>
+<AM lemma="MI_:B" src="manual">NNXXX-----A---8</AM>
+<AM lemma="MI-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920923-036-p2s2w15">
@@ -332,7 +337,10 @@
 <LM>w#w-mf920923-036-p2s3w2</LM>
 </w.rf>
 <form>dovezla</form>
-<tag lemma="dovézt" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag>
+<AM lemma="dovézt" src="orig">VpQW---XR-AA---</AM>
+<AM lemma="dovézt_:W" src="manual" selected="1">VpQW---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-mf920923-036-p2s3w3">
 <src.rf>manual</src.rf>
@@ -680,7 +688,7 @@
 <form>expertiza</form>
 <tag>
 <AM lemma="expertíza" src="orig">NNFS1-----A----</AM>
-<AM lemma="expertiza" src="auto" recommended="1">NNFS1-----A----</AM>
+<AM lemma="expertiza" src="auto" recommended="1" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920923-036-p2s4w12">
@@ -689,7 +697,10 @@
 <LM>w#w-mf920923-036-p2s4w12</LM>
 </w.rf>
 <form>prokázala</form>
-<tag lemma="prokázat" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag>
+<AM lemma="prokázat" src="orig">VpQW---XR-AA---</AM>
+<AM lemma="prokázat_:W" src="manual" selected="1">VpQW---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-mf920923-036-p2s4w13">
 <src.rf>manual</src.rf>
@@ -995,7 +1006,10 @@
 <LM>w#w-mf920923-036-p3s1w20</LM>
 </w.rf>
 <form>FMZV</form>
-<tag lemma="FMZV_:B_;K_^(Federální_ministerstvo_zahr._věcí)" src="orig" selected="1">NNNXX-----A---8</tag>
+<tag>
+<AM lemma="FMZV_:B_;K_^(Federální_ministerstvo_zahr._věcí)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="FMZV-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920923-036-p3s1w21">
 <src.rf>manual</src.rf>
@@ -1181,7 +1195,10 @@
 <LM>w#w-mf920923-036-p4s1w21</LM>
 </w.rf>
 <form>FMZO</form>
-<tag lemma="FMZO_:B_;K" src="auto" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="FMZO_:B_;K" src="auto">NNXXX-----A---8</AM>
+<AM lemma="FMZO-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920923-036-p4s1w22">
 <src.rf>manual</src.rf>

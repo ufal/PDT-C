@@ -232,6 +232,7 @@
 <tag>
 <AM lemma="roč_:B_^(ročník)" src="orig">NNIXX-----A---8</AM>
 <AM lemma="ročník_:B" src="auto" recommended="1">NNIXX-----A---8</AM>
+<AM lemma="ročník" src="manual" selected="1">NNIXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-vesm9303-048-p2s1w11">
@@ -478,6 +479,7 @@
 <tag>
 <AM lemma="roč_:B_^(ročník)" src="orig">NNIXX-----A---8</AM>
 <AM lemma="ročník_:B" src="auto" recommended="1">NNIXX-----A---8</AM>
+<AM lemma="ročník" src="manual" selected="1">NNIXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-vesm9303-048-p3s1w11">
@@ -700,6 +702,7 @@
 <tag>
 <AM lemma="roč_:B_^(ročník)" src="orig">NNIXX-----A---8</AM>
 <AM lemma="ročník_:B" src="auto" recommended="1">NNIXX-----A---8</AM>
+<AM lemma="ročník" src="manual" selected="1">NNIXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-vesm9303-048-p4s1w11">
@@ -914,6 +917,7 @@
 <tag>
 <AM lemma="roč_:B_^(ročník)" src="orig">NNIXX-----A---8</AM>
 <AM lemma="ročník_:B" src="auto" recommended="1">NNIXX-----A---8</AM>
+<AM lemma="ročník" src="manual" selected="1">NNIXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-vesm9303-048-p5s1w10">
@@ -1202,6 +1206,7 @@
 <tag>
 <AM lemma="roč_:B_^(ročník)" src="orig">NNIXX-----A---8</AM>
 <AM lemma="ročník_:B" src="auto" recommended="1">NNIXX-----A---8</AM>
+<AM lemma="ročník" src="manual" selected="1">NNIXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-vesm9303-048-p6s1w11">
@@ -1537,6 +1542,7 @@
 <tag>
 <AM lemma="roč_:B_^(ročník)" src="orig">NNIXX-----A---8</AM>
 <AM lemma="ročník_:B" src="auto" recommended="1">NNIXX-----A---8</AM>
+<AM lemma="ročník" src="manual" selected="1">NNIXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-vesm9303-048-p7s1w12">
@@ -1839,6 +1845,7 @@
 <tag>
 <AM lemma="roč_:B_^(ročník)" src="orig">NNIXX-----A---8</AM>
 <AM lemma="ročník_:B" src="auto" recommended="1">NNIXX-----A---8</AM>
+<AM lemma="ročník" src="manual" selected="1">NNIXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-vesm9303-048-p8s1w10">
@@ -2000,7 +2007,10 @@
 <LM>w#w-vesm9303-048-p8s1w29</LM>
 </w.rf>
 <form>Medici</form>
-<tag lemma="medik" src="orig" selected="1">NNMP1-----A----</tag>
+<tag>
+<AM lemma="medik" src="orig">NNMP1-----A----</AM>
+<AM lemma="Medici-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-vesm9303-048-p8s1w30">
 <src.rf>manual</src.rf>
@@ -2008,7 +2018,10 @@
 <LM>w#w-vesm9303-048-p8s1w30</LM>
 </w.rf>
 <form>di</form>
-<tag lemma="di_;G_;S_;Y_,t" src="auto" selected="1">RR--X----------</tag>
+<tag>
+<AM lemma="di_;G_;S_;Y_,t" src="auto">RR--X----------</AM>
+<AM lemma="di-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-vesm9303-048-p8s1w31">
 <src.rf>manual</src.rf>
@@ -2016,7 +2029,10 @@
 <LM>w#w-vesm9303-048-p8s1w31</LM>
 </w.rf>
 <form>Praga</form>
-<tag lemma="Praga_;K" src="orig" selected="1">NNFS1-----A----</tag>
+<tag>
+<AM lemma="Praga_;K" src="orig">NNFS1-----A----</AM>
+<AM lemma="Praga-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-vesm9303-048-p8s1w32">
 <src.rf>manual</src.rf>
@@ -2123,7 +2139,7 @@
 </w.rf>
 <form>Otrubové</form>
 <tag>
-<AM lemma="Otrubová_;S" src="orig">NNFS3-----A----</AM>
+<AM lemma="Otrubová_;S" src="orig" selected="1">NNFS3-----A----</AM>
 <AM lemma="Otruba_;S" src="auto">NNMP1-----A----</AM>
 <AM lemma="Otruba_;S" src="auto">NNMP5-----A----</AM>
 <AM lemma="otrubový" src="auto">AAFP1----1A----</AM>
@@ -2166,7 +2182,12 @@
 <LM>w#w-vesm9303-048-p9s1w6</LM>
 </w.rf>
 <form>BYstrica</form>
-<tag lemma="Bystrica_;G" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Bystrica_;G" src="orig">NNFS1-----A----</tag>
+<comment>
+<LM type="New Form">
+<text>Bystrica</text>
+</LM>
+</comment>
 </m>
 <m id="m-vesm9303-048-p9s1w7">
 <src.rf>manual</src.rf>
@@ -2201,6 +2222,7 @@
 <tag>
 <AM lemma="roč_:B_^(ročník)" src="orig">NNIXX-----A---8</AM>
 <AM lemma="ročník_:B" src="auto" recommended="1">NNIXX-----A---8</AM>
+<AM lemma="ročník" src="manual" selected="1">NNIXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-vesm9303-048-p9s1w11">
@@ -2378,7 +2400,10 @@
 <LM>w#w-vesm9303-048-p9s1w32</LM>
 </w.rf>
 <form>Medici</form>
-<tag lemma="medik" src="orig" selected="1">NNMP1-----A----</tag>
+<tag>
+<AM lemma="medik" src="orig">NNMP1-----A----</AM>
+<AM lemma="Medici-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-vesm9303-048-p9s1w33">
 <src.rf>manual</src.rf>
@@ -2386,7 +2411,10 @@
 <LM>w#w-vesm9303-048-p9s1w33</LM>
 </w.rf>
 <form>di</form>
-<tag lemma="di_;G_;S_;Y_,t" src="auto" selected="1">RR--X----------</tag>
+<tag>
+<AM lemma="di_;G_;S_;Y_,t" src="auto">RR--X----------</AM>
+<AM lemma="di-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-vesm9303-048-p9s1w34">
 <src.rf>manual</src.rf>
@@ -2394,7 +2422,10 @@
 <LM>w#w-vesm9303-048-p9s1w34</LM>
 </w.rf>
 <form>Praga</form>
-<tag lemma="Praga_;K" src="orig" selected="1">NNFS1-----A----</tag>
+<tag>
+<AM lemma="Praga_;K" src="orig">NNFS1-----A----</AM>
+<AM lemma="Praga-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-vesm9303-048-p9s1w35">
 <src.rf>manual</src.rf>
@@ -2559,6 +2590,7 @@
 <tag>
 <AM lemma="roč_:B_^(ročník)" src="orig">NNIXX-----A---8</AM>
 <AM lemma="ročník_:B" src="auto" recommended="1">NNIXX-----A---8</AM>
+<AM lemma="ročník" src="manual" selected="1">NNIXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-vesm9303-048-p10s1w11">
@@ -2925,6 +2957,7 @@
 <tag>
 <AM lemma="roč_:B_^(ročník)" src="orig">NNIXX-----A---8</AM>
 <AM lemma="ročník_:B" src="auto" recommended="1">NNIXX-----A---8</AM>
+<AM lemma="ročník" src="manual" selected="1">NNIXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-vesm9303-048-p11s1w11">
@@ -3086,7 +3119,10 @@
 <LM>w#w-vesm9303-048-p11s1w30</LM>
 </w.rf>
 <form>intenzívní</form>
-<tag lemma="intenzívní" src="orig" selected="1">AAFS2----1A----</tag>
+<tag>
+<AM lemma="intenzívní" src="orig">AAFS2----1A----</AM>
+<AM lemma="vintenzívní_,s_^(^DD**intenzivní)" src="manual" selected="1">AAFS2----1A----</AM>
+</tag>
 </m>
 <m id="m-vesm9303-048-p11s1w31">
 <src.rf>manual</src.rf>
@@ -3190,7 +3226,10 @@
 <LM>w#w-vesm9303-048-p11s1w43</LM>
 </w.rf>
 <form>Medici</form>
-<tag lemma="medik" src="orig" selected="1">NNMP1-----A----</tag>
+<tag>
+<AM lemma="medik" src="orig">NNMP1-----A----</AM>
+<AM lemma="Medici-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-vesm9303-048-p11s1w44">
 <src.rf>manual</src.rf>
@@ -3198,7 +3237,10 @@
 <LM>w#w-vesm9303-048-p11s1w44</LM>
 </w.rf>
 <form>di</form>
-<tag lemma="di_;G_;S_;Y_,t" src="auto" selected="1">RR--X----------</tag>
+<tag>
+<AM lemma="di_;G_;S_;Y_,t" src="auto">RR--X----------</AM>
+<AM lemma="di-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-vesm9303-048-p11s1w45">
 <src.rf>manual</src.rf>
@@ -3206,7 +3248,10 @@
 <LM>w#w-vesm9303-048-p11s1w45</LM>
 </w.rf>
 <form>Praga</form>
-<tag lemma="Praga_;K" src="orig" selected="1">NNFS1-----A----</tag>
+<tag>
+<AM lemma="Praga_;K" src="orig">NNFS1-----A----</AM>
+<AM lemma="Praga-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-vesm9303-048-p11s1w46">
 <src.rf>manual</src.rf>
@@ -3296,7 +3341,10 @@
 <LM>w#w-vesm9303-048-p12s1w1</LM>
 </w.rf>
 <form>Doc</form>
-<tag lemma="docentka_:B" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="docentka_:B" src="orig">NNFXX-----A---8</AM>
+<AM lemma="doc_:B_^(docent)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-vesm9303-048-p12s1w2">
 <src.rf>manual</src.rf>
@@ -3312,7 +3360,10 @@
 <LM>w#w-vesm9303-048-p12s1w3</LM>
 </w.rf>
 <form>MUDr</form>
-<tag lemma="MUDr-2_:B_^(doktorka_medicíny)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="MUDr-2_:B_^(doktorka_medicíny)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="MUDr_:B_^(doktor_medicíny)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-vesm9303-048-p12s1w4">
 <src.rf>manual</src.rf>
@@ -3352,7 +3403,10 @@
 <LM>w#w-vesm9303-048-p12s1w8</LM>
 </w.rf>
 <form>CSc</form>
-<tag lemma="CSc-1_:B_^(kandidát_věd)" src="orig" selected="1">NNMXX-----A---8</tag>
+<tag>
+<AM lemma="CSc-1_:B_^(kandidát_věd)" src="orig">NNMXX-----A---8</AM>
+<AM lemma="CSc_:B_^(kandidát_věd)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-vesm9303-048-p12s1w9">
 <src.rf>manual</src.rf>

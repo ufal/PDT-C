@@ -271,7 +271,10 @@
 <LM>w#w-cmpr9410-010-p2s2w8</LM>
 </w.rf>
 <form>Daklar</form>
-<tag lemma="Daklar_;K_,t" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="Daklar_;K_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="Daklar-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-cmpr9410-010-p2s2w9">
 <src.rf>manual</src.rf>
@@ -279,7 +282,10 @@
 <LM>w#w-cmpr9410-010-p2s2w9</LM>
 </w.rf>
 <form>Press</form>
-<tag lemma="Press-1_;K_,t_^(souč._názvů,_např._tisk._agentur)" src="orig" selected="1">NNIXX-----A----</tag>
+<tag>
+<AM lemma="Press-1_;K_,t_^(souč._názvů,_např._tisk._agentur)" src="orig">NNIXX-----A----</AM>
+<AM lemma="Press-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-cmpr9410-010-p2s2w10">
 <src.rf>manual</src.rf>
@@ -617,7 +623,10 @@
 <LM>w#w-cmpr9410-010-p5s3w1</LM>
 </w.rf>
 <form>Daklar</form>
-<tag lemma="Daklar_;K_,t" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="Daklar_;K_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="Daklar-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-cmpr9410-010-p5s3w2">
 <src.rf>manual</src.rf>
@@ -625,7 +634,10 @@
 <LM>w#w-cmpr9410-010-p5s3w2</LM>
 </w.rf>
 <form>Press</form>
-<tag lemma="Press-1_;K_,t_^(souč._názvů,_např._tisk._agentur)" src="orig" selected="1">NNIXX-----A----</tag>
+<tag>
+<AM lemma="Press-1_;K_,t_^(souč._názvů,_např._tisk._agentur)" src="orig">NNIXX-----A----</AM>
+<AM lemma="Press-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-cmpr9410-010-p5s3w3">
 <src.rf>manual</src.rf>
@@ -1496,6 +1508,8 @@
 <AM lemma="společnost_:B" src="auto">NNFXX-----A---8</AM>
 <AM lemma="strana-4_:B_^(v_knize,_rukopise,...)" src="auto">NNFXX-----A---8</AM>
 <AM lemma="státní_:B" src="auto">AAXXX----1A---8</AM>
+<AM lemma="S-1_:B" src="manual">NNXXX-----A---8</AM>
+<AM lemma="S-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-cmpr9410-010-p8s2Aw14">
@@ -1531,6 +1545,8 @@
 <AM lemma="mimo-1_:B" src="auto">RR--4---------8</AM>
 <AM lemma="minuta_:B" src="auto">NNFXX-----A---8</AM>
 <AM lemma="město_:B" src="auto">NNNXX-----A---8</AM>
+<AM lemma="M-1_:B" src="manual">NNXXX-----A---8</AM>
+<AM lemma="M-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-cmpr9410-010-p8s2Aw16">
@@ -1566,6 +1582,8 @@
 <AM lemma="a-8_:B_^(ost._zkratka)" src="auto">XX------------8</AM>
 <AM lemma="akciový_:B_^(jen_akciová_společnost)" src="auto">AAXXX----1A---8</AM>
 <AM lemma="á_,t" src="auto">RF------------1</AM>
+<AM lemma="A-2_:B" src="manual">NNXXX-----A---8</AM>
+<AM lemma="A-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-cmpr9410-010-p8s2Aw18">
@@ -1582,7 +1600,11 @@
 <LM>w#w-cmpr9410-010-p8s2Aw19</LM>
 </w.rf>
 <form>R</form>
-<tag lemma="R-6_:B_;R" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="R-6_:B_;R" src="orig">NNXXX-----A---8</AM>
+<AM lemma="R-1_:B" src="manual">NNXXX-----A---8</AM>
+<AM lemma="R-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-cmpr9410-010-p8s2Aw20">
 <src.rf>manual</src.rf>
@@ -1598,7 +1620,11 @@
 <LM>w#w-cmpr9410-010-p8s2Aw21</LM>
 </w.rf>
 <form>T</form>
-<tag lemma="T-6_:B_;R" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="T-6_:B_;R" src="orig">NNXXX-----A---8</AM>
+<AM lemma="T-1_:B" src="manual">NNXXX-----A---8</AM>
+<AM lemma="T-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-cmpr9410-010-p8s2Aw22">
 <src.rf>manual</src.rf>
@@ -2736,7 +2762,10 @@
 <LM>w#w-cmpr9410-010-p12s1w17</LM>
 </w.rf>
 <form>Daklar</form>
-<tag lemma="Daklar_;K_,t" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="Daklar_;K_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="Daklar-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-cmpr9410-010-p12s1w18">
 <src.rf>manual</src.rf>
@@ -2744,7 +2773,10 @@
 <LM>w#w-cmpr9410-010-p12s1w18</LM>
 </w.rf>
 <form>Press</form>
-<tag lemma="Press-1_;K_,t_^(souč._názvů,_např._tisk._agentur)" src="orig" selected="1">NNIXX-----A----</tag>
+<tag>
+<AM lemma="Press-1_;K_,t_^(souč._názvů,_např._tisk._agentur)" src="orig">NNIXX-----A----</AM>
+<AM lemma="Press-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-cmpr9410-010-p12s1w19">
 <src.rf>manual</src.rf>
@@ -2868,7 +2900,10 @@
 <LM>w#w-cmpr9410-010-p12s3w1</LM>
 </w.rf>
 <form>Hodně</form>
-<tag lemma="hodně-2_^(nezlobivý)_(*3ý-2)" src="auto" selected="1">Dg-------1A----</tag>
+<tag>
+<AM lemma="hodně-2_^(nezlobivý)_(*3ý-2)" src="auto">Dg-------1A----</AM>
+<AM lemma="hodně-1_^(hodně_+_2._p.,_hodně_peněz)" src="manual" selected="1">Ca--1----------</AM>
+</tag>
 </m>
 <m id="m-cmpr9410-010-p12s3w2">
 <src.rf>manual</src.rf>
@@ -3591,7 +3626,10 @@
 <LM>w#w-cmpr9410-010-p14s1w3</LM>
 </w.rf>
 <form>Daklar</form>
-<tag lemma="Daklar_;K_,t" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="Daklar_;K_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="Daklar-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-cmpr9410-010-p14s1w4">
 <src.rf>manual</src.rf>
@@ -3599,7 +3637,10 @@
 <LM>w#w-cmpr9410-010-p14s1w4</LM>
 </w.rf>
 <form>Press</form>
-<tag lemma="Press-1_;K_,t_^(souč._názvů,_např._tisk._agentur)" src="orig" selected="1">NNIXX-----A----</tag>
+<tag>
+<AM lemma="Press-1_;K_,t_^(souč._názvů,_např._tisk._agentur)" src="orig">NNIXX-----A----</AM>
+<AM lemma="Press-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-cmpr9410-010-p14s1w5">
 <src.rf>manual</src.rf>

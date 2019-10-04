@@ -69,7 +69,10 @@
 <LM>w#w-ln94209-35-p2s1Aw3</LM>
 </w.rf>
 <form>jop</form>
-<tag lemma="jop-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="jop-99_:B_;S" src="orig">NNXXX-----A---8</AM>
+<AM lemma="jop-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94209-35-p2s1Aw4">
 <src.rf>manual</src.rf>
@@ -339,7 +342,7 @@
 <form>zasáhli</form>
 <tag>
 <AM lemma="zasáhnout" src="orig">VpMP---XR-AA---</AM>
-<AM lemma="zasáhnout_:W" src="auto" recommended="1">VpMP---XR-AA--1</AM>
+<AM lemma="zasáhnout_:W" src="auto" recommended="1" selected="1">VpMP---XR-AA--1</AM>
 </tag>
 </m>
 <m id="m-ln94209-35-p2s2w9">
@@ -516,7 +519,7 @@
 <form>zasáhl</form>
 <tag>
 <AM lemma="zasáhnout" src="orig">VpYS---XR-AA---</AM>
-<AM lemma="zasáhnout_:W" src="auto" recommended="1">VpYS---XR-AA--1</AM>
+<AM lemma="zasáhnout_:W" src="auto" recommended="1" selected="1">VpYS---XR-AA--1</AM>
 </tag>
 </m>
 <m id="m-ln94209-35-p2s5w12">
@@ -621,7 +624,10 @@
 <LM>w#w-ln94209-35-p2s5w24</LM>
 </w.rf>
 <form>řekl</form>
-<tag lemma="říci" src="auto" selected="1">VpYS---XR-AA---</tag>
+<tag>
+<AM lemma="říci" src="auto">VpYS---XR-AA---</AM>
+<AM lemma="říci_:W" src="manual" selected="1">VpYS---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-ln94209-35-p2s5w25">
 <src.rf>manual</src.rf>
@@ -629,7 +635,10 @@
 <LM>w#w-ln94209-35-p2s5w25</LM>
 </w.rf>
 <form>LN</form>
-<tag lemma="LN-1_:B_;R_^(Lidové_noviny,_deník)" src="orig" selected="1">NNFPX-----A---8</tag>
+<tag>
+<AM lemma="LN-1_:B_;R_^(Lidové_noviny,_deník)" src="orig">NNFPX-----A---8</AM>
+<AM lemma="LN-1_:B_;K_;R_^(Lidové_noviny)" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln94209-35-p2s5w26">
 <src.rf>manual</src.rf>

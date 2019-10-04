@@ -19,7 +19,10 @@
 <LM>w#w-ln95048-095-p2s1w1</LM>
 </w.rf>
 <form>Enzo</form>
-<tag lemma="Enzo_;S" src="auto" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Enzo_;S" src="auto">NNMS1-----A----</AM>
+<AM lemma="Enzo_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95048-095-p2s1w2">
 <src.rf>manual</src.rf>
@@ -293,7 +296,10 @@
 <LM>w#w-ln95048-095-p3s1w8</LM>
 </w.rf>
 <form>United</form>
-<tag lemma="United_;K_,t_^(souč._angl._názvu)" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="United_;K_,t_^(souč._angl._názvu)" src="orig">AAXXX----1A----</AM>
+<AM lemma="United-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln95048-095-p3s1w9">
 <src.rf>manual</src.rf>

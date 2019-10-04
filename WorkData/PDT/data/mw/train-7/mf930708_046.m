@@ -45,7 +45,10 @@
 <LM>w#w-mf930708-046-p2s1w1</LM>
 </w.rf>
 <form>New</form>
-<tag lemma="New-1_;G_,t_^(součást_míst._jmen)" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="New-1_;G_,t_^(součást_míst._jmen)" src="orig">AAXXX----1A----</AM>
+<AM lemma="New-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-mf930708-046-p2s1w2">
 <src.rf>manual</src.rf>
@@ -53,7 +56,10 @@
 <LM>w#w-mf930708-046-p2s1w2</LM>
 </w.rf>
 <form>York</form>
-<tag lemma="York-2_;G" src="orig" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="York-2_;G" src="orig">NNIS1-----A----</AM>
+<AM lemma="York-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-mf930708-046-p2s1w3">
 <src.rf>manual</src.rf>
@@ -90,6 +96,8 @@
 <AM lemma="Sidney-2_;G" src="auto">NNNSX-----A----</AM>
 <AM lemma="Sidney_;Y_,t" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Sidney_;Y_,t" src="auto">NNMS5-----A----</AM>
+<AM lemma="Sidney_;Y_,t" src="manual">NNMXX-----A----</AM>
+<AM lemma="Sidney_;Y" src="manual" selected="1">NNMXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930708-046-p2s1w7">
@@ -138,7 +146,11 @@
 <LM>w#w-mf930708-046-p2s1w12</LM>
 </w.rf>
 <form>The</form>
-<tag lemma="the-1_,t_^(obv._souč._anglických_názvů,_urč._člen)" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="the-1_,t_^(obv._souč._anglických_názvů,_urč._člen)" src="orig">AAXXX----1A----</AM>
+<AM lemma="the-1_,t_^(angl._urč._člen)" src="manual">AAXXX----1A----</AM>
+<AM lemma="The-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-mf930708-046-p2s1w13">
 <src.rf>manual</src.rf>
@@ -146,7 +158,11 @@
 <LM>w#w-mf930708-046-p2s1w13</LM>
 </w.rf>
 <form>Firm</form>
-<tag lemma="firm_,t" src="orig" selected="1">NNFSX-----A----</tag>
+<tag>
+<AM lemma="firm_,t" src="orig">NNFSX-----A----</AM>
+<AM lemma="firm_,t" src="manual">NNXXX-----A----</AM>
+<AM lemma="Firm-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-mf930708-046-p2s1w14">
 <src.rf>manual</src.rf>
@@ -285,7 +301,7 @@
 </w.rf>
 <form>Cruisem</form>
 <tag>
-<AM lemma="Cruise_;S" src="orig">NNMS7-----A----</AM>
+<AM lemma="Cruise_;S" src="orig" selected="1">NNMS7-----A----</AM>
 <AM lemma="Cruis_;S" src="auto" recommended="1">NNMS7-----A----</AM>
 </tag>
 </m>
@@ -383,7 +399,10 @@
 <LM>w#w-mf930708-046-p2s2w17</LM>
 </w.rf>
 <form>milionů</form>
-<tag lemma="milión`1000000" src="orig" selected="1">NNIP2-----A----</tag>
+<tag>
+<AM lemma="milión`1000000" src="orig">NNIP2-----A----</AM>
+<AM lemma="milion`1000000_,s_^(^DD**milión)" src="manual" selected="1">NNIP2-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930708-046-p2s2w18">
 <src.rf>manual</src.rf>
@@ -391,7 +410,10 @@
 <LM>w#w-mf930708-046-p2s2w18</LM>
 </w.rf>
 <form>dolarů</form>
-<tag lemma="dolar_;b" src="orig" selected="1">NNIP2-----A----</tag>
+<tag>
+<AM lemma="dolar_;b" src="orig">NNIP2-----A----</AM>
+<AM lemma="dolar" src="manual" selected="1">NNIP2-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930708-046-p2s2w19">
 <src.rf>manual</src.rf>
@@ -449,7 +471,10 @@
 <LM>w#w-mf930708-046-p2s3w6</LM>
 </w.rf>
 <form>sci</form>
-<tag lemma="science-2_:B_,t_^(angl._vědecký)" src="orig" selected="1">AAXXX----1A---8</tag>
+<tag>
+<AM lemma="science-2_:B_,t_^(angl._vědecký)" src="orig">AAXXX----1A---8</AM>
+<AM lemma="sci-1_^(jen_ve_spojení_sci-fi)" src="manual" selected="1">A2--------A----</AM>
+</tag>
 </m>
 <m id="m-mf930708-046-p2s3w7">
 <src.rf>manual</src.rf>
@@ -469,6 +494,7 @@
 <AM lemma="fiction-1_:B_,t_^(angl._fantastický,_sci-fi)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="fi-1" src="auto">II-------------</AM>
 <AM lemma="fi-2_:B_,t_^(fiction,_angl._fantastický,_sci-fi)" src="auto" recommended="1">NNFXX-----A---8</AM>
+<AM lemma="fi-2_^(jen_ve_spojení_sci-fi)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930708-046-p2s3w9">
@@ -501,7 +527,10 @@
 <LM>w#w-mf930708-046-p2s3w12</LM>
 </w.rf>
 <form>Jurassic</form>
-<tag lemma="jurassic_,t" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="jurassic_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="Jurassic-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-mf930708-046-p2s3w13">
 <src.rf>manual</src.rf>
@@ -509,7 +538,11 @@
 <LM>w#w-mf930708-046-p2s3w13</LM>
 </w.rf>
 <form>Park</form>
-<tag lemma="park" src="orig" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="park" src="orig">NNIS1-----A----</AM>
+<AM lemma="park_,t" src="manual">NNXXX-----A----</AM>
+<AM lemma="Park-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-mf930708-046-p2s3w14">
 <src.rf>manual</src.rf>
@@ -703,7 +736,11 @@
 <LM>w#w-mf930708-046-p2s4w16</LM>
 </w.rf>
 <form>milionů</form>
-<tag lemma="milión`1000000" src="orig" selected="1">NNIP2-----A----</tag>
+<tag>
+<AM lemma="milión`1000000" src="orig">NNIP2-----A----</AM>
+<AM lemma="milion`1000000_,s" src="manual">_^(^DD**milión)</AM>
+<AM lemma="milion`1000000_,s_^(^DD**milión)" src="manual" selected="1">NNIP2-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930708-046-p2s4w17">
 <src.rf>manual</src.rf>
@@ -711,7 +748,10 @@
 <LM>w#w-mf930708-046-p2s4w17</LM>
 </w.rf>
 <form>dolarů</form>
-<tag lemma="dolar_;b" src="orig" selected="1">NNIP2-----A----</tag>
+<tag>
+<AM lemma="dolar_;b" src="orig">NNIP2-----A----</AM>
+<AM lemma="dolar" src="manual" selected="1">NNIP2-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930708-046-p2s4w18">
 <src.rf>manual</src.rf>
@@ -752,7 +792,7 @@
 </w.rf>
 <form>Batmana</form>
 <tag>
-<AM lemma="Batman_;Y" src="orig">NNMS4-----A----</AM>
+<AM lemma="Batman_;Y" src="orig" selected="1">NNMS4-----A----</AM>
 <AM lemma="Batman_;m" src="auto">NNMS2-----A----</AM>
 <AM lemma="Batman_;m" src="auto" recommended="1">NNMS4-----A----</AM>
 <AM lemma="Batman_;m_,x" src="auto">NNMS2-----A----</AM>
@@ -845,7 +885,10 @@
 <LM>w#w-mf930708-046-p2s4w33</LM>
 </w.rf>
 <form>dostal</form>
-<tag lemma="dostat" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag>
+<AM lemma="dostat" src="orig">VpYS---XR-AA---</AM>
+<AM lemma="dostat_:W" src="manual" selected="1">VpYS---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-mf930708-046-p2s4w34">
 <src.rf>manual</src.rf>

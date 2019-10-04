@@ -281,7 +281,7 @@
 <form>kasárny</form>
 <tag>
 <AM lemma="kasárna" src="orig">NNFP1-----A----</AM>
-<AM lemma="kasárny" src="auto" recommended="1">NNFP1-----A----</AM>
+<AM lemma="kasárny" src="auto" recommended="1" selected="1">NNFP1-----A----</AM>
 <AM lemma="kasárny" src="auto">NNFP4-----A----</AM>
 <AM lemma="kasárny" src="auto">NNFP5-----A----</AM>
 </tag>
@@ -292,7 +292,10 @@
 <LM>w#w-ln94201-101-p2s2w4</LM>
 </w.rf>
 <form>Ernsta</form>
-<tag lemma="Ernst_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag>
+<AM lemma="Ernst_;S" src="orig">NNMS2-----A----</AM>
+<AM lemma="Ernst_;Y_;S" src="manual" selected="1">NNMS2-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94201-101-p2s2w5">
 <src.rf>manual</src.rf>
@@ -1498,7 +1501,10 @@
 <LM>w#w-ln94201-101-p4s2w4</LM>
 </w.rf>
 <form>jen</form>
-<tag lemma="jen-1" src="auto" selected="1">TT-------------</tag>
+<tag>
+<AM lemma="jen-1" src="auto">TT-------------</AM>
+<AM lemma="jen-4_^(pouze)" src="manual" selected="1">Db-------------</AM>
+</tag>
 </m>
 <m id="m-ln94201-101-p4s2w5">
 <src.rf>manual</src.rf>

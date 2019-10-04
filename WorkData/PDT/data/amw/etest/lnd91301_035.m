@@ -292,6 +292,7 @@
 <tag>
 <AM lemma="DSP_:B_;K" src="orig">NNFXX-----A---8</AM>
 <AM lemma="DSP_:B" src="auto" recommended="1">NNXXX-----A---8</AM>
+<AM lemma="DSP-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-lnd91301-035-p4s1w22">
@@ -348,7 +349,10 @@
 <LM>w#w-lnd91301-035-p4s1w28</LM>
 </w.rf>
 <form>dr</form>
-<tag lemma="doktor_:B_^(doktor,_akad._titul)" src="orig" selected="1">NNMXX-----A---8</tag>
+<tag>
+<AM lemma="doktor_:B_^(doktor,_akad._titul)" src="orig">NNMXX-----A---8</AM>
+<AM lemma="dr_:B_^(doktor)" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd91301-035-p4s1w29">
 <src.rf>manual</src.rf>
@@ -401,6 +405,7 @@
 <tag>
 <AM lemma="DSP_:B_;K" src="orig">NNFXX-----A---8</AM>
 <AM lemma="DSP_:B" src="auto" recommended="1">NNXXX-----A---8</AM>
+<AM lemma="DSP-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-lnd91301-035-p5s1w3">
@@ -871,6 +876,7 @@
 <tag>
 <AM lemma="DSP_:B_;K" src="orig">NNFXX-----A---8</AM>
 <AM lemma="DSP_:B" src="auto" recommended="1">NNXXX-----A---8</AM>
+<AM lemma="DSP-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-lnd91301-035-p6s1w3">
@@ -1221,7 +1227,10 @@
 <LM>w#w-lnd91301-035-p6s3Bw5</LM>
 </w.rf>
 <form>dr</form>
-<tag lemma="doktor_:B_^(doktor,_akad._titul)" src="orig" selected="1">NNMXX-----A---8</tag>
+<tag>
+<AM lemma="doktor_:B_^(doktor,_akad._titul)" src="orig">NNMXX-----A---8</AM>
+<AM lemma="dr_:B_^(doktor)" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd91301-035-p6s3Bw6">
 <src.rf>manual</src.rf>
@@ -1659,7 +1668,10 @@
 <LM>w#w-lnd91301-035-p6s4Bw2</LM>
 </w.rf>
 <form>dr</form>
-<tag lemma="doktor_:B_^(doktor,_akad._titul)" src="orig" selected="1">NNMXX-----A---8</tag>
+<tag>
+<AM lemma="doktor_:B_^(doktor,_akad._titul)" src="orig">NNMXX-----A---8</AM>
+<AM lemma="dr_:B_^(doktor)" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd91301-035-p6s4Bw3">
 <src.rf>manual</src.rf>
@@ -1726,6 +1738,7 @@
 <tag>
 <AM lemma="DSP_:B_;K" src="orig">NNFXX-----A---8</AM>
 <AM lemma="DSP_:B" src="auto" recommended="1">NNXXX-----A---8</AM>
+<AM lemma="DSP-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-lnd91301-035-p6s4Bw11">
@@ -1934,7 +1947,10 @@
 <LM>w#w-lnd91301-035-p6s4Bw36</LM>
 </w.rf>
 <form>HZDS</form>
-<tag lemma="HZDS-1_:B_;K_;p_,t_^(Hnutie_za_demokratické_Slovensko)" src="orig" selected="1">NNNXX-----A---8</tag>
+<tag>
+<AM lemma="HZDS-1_:B_;K_;p_,t_^(Hnutie_za_demokratické_Slovensko)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="HZDS-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd91301-035-p6s4Bw37">
 <src.rf>manual</src.rf>
@@ -1950,7 +1966,10 @@
 <LM>w#w-lnd91301-035-p6s4Bw38</LM>
 </w.rf>
 <form>SDL</form>
-<tag lemma="SDL-1_:B_;K_;p_^(Slov._Strana_demokratickej_ĺavice)" src="auto" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="SDL-1_:B_;K_;p_^(Slov._Strana_demokratickej_ĺavice)" src="auto">NNFXX-----A---8</AM>
+<AM lemma="SDL-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd91301-035-p6s4Bw39">
 <src.rf>manual</src.rf>
@@ -1982,7 +2001,10 @@
 <LM>w#w-lnd91301-035-p6s4Bw42</LM>
 </w.rf>
 <form>HSD</form>
-<tag lemma="HSD_:B_;K" src="orig" selected="1">NNNXX-----A---8</tag>
+<tag>
+<AM lemma="HSD_:B_;K" src="orig">NNNXX-----A---8</AM>
+<AM lemma="HSD-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd91301-035-p6s4Bw43">
 <src.rf>manual</src.rf>
@@ -1998,7 +2020,10 @@
 <LM>w#w-lnd91301-035-p6s4Bw44</LM>
 </w.rf>
 <form>SMS</form>
-<tag lemma="SMS_:B_;K" src="auto" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="SMS_:B_;K" src="auto">NNXXX-----A---8</AM>
+<AM lemma="SMS-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd91301-035-p6s4Bw45">
 <src.rf>manual</src.rf>

@@ -86,7 +86,7 @@
 </w.rf>
 <form>gap</form>
 <tag>
-<AM lemma="gap-99_:B_;S" src="orig">NNXXX-----A---8</AM>
+<AM lemma="gap-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</AM>
 <AM lemma="gap" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="gap" src="auto">NNIS4-----A----</AM>
 </tag>
@@ -833,7 +833,10 @@
 <LM>w#w-lnd94101-023-p1s6w6</LM>
 </w.rf>
 <form>Merrill</form>
-<tag lemma="Merrill_;G" src="orig" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="Merrill_;G" src="orig">NNIS1-----A----</AM>
+<AM lemma="Merrill-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-lnd94101-023-p1s6w7">
 <src.rf>manual</src.rf>
@@ -841,7 +844,10 @@
 <LM>w#w-lnd94101-023-p1s6w7</LM>
 </w.rf>
 <form>Lynch</form>
-<tag lemma="Lynch_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Lynch_;S" src="orig">NNMS1-----A----</AM>
+<AM lemma="Lynch-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-lnd94101-023-p1s6w8">
 <src.rf>manual</src.rf>
@@ -857,7 +863,10 @@
 <LM>w#w-lnd94101-023-p1s6w9</LM>
 </w.rf>
 <form>Salomon</form>
-<tag lemma="Salomon_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Salomon_;S" src="orig">NNMS1-----A----</AM>
+<AM lemma="Salomon-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-lnd94101-023-p1s6w10">
 <src.rf>manual</src.rf>
@@ -865,7 +874,10 @@
 <LM>w#w-lnd94101-023-p1s6w10</LM>
 </w.rf>
 <form>Brothers</form>
-<tag lemma="Brother_;K_,t" src="orig" selected="1">NNMP1-----A----</tag>
+<tag>
+<AM lemma="Brother_;K_,t" src="orig">NNMP1-----A----</AM>
+<AM lemma="Brothers-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-lnd94101-023-p1s6w11">
 <src.rf>manual</src.rf>
@@ -889,7 +901,10 @@
 <LM>w#w-lnd94101-023-p1s6w13</LM>
 </w.rf>
 <form>Raiffeisen</form>
-<tag lemma="Raiffeisen_;K" src="auto" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="Raiffeisen_;K" src="auto">NNIS1-----A----</AM>
+<AM lemma="Raiffeisen-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-lnd94101-023-p1s6w14">
 <src.rf>manual</src.rf>
@@ -897,7 +912,10 @@
 <LM>w#w-lnd94101-023-p1s6w14</LM>
 </w.rf>
 <form>Bank</form>
-<tag lemma="Bank-1_;K_,t_^(v_cizojaz._názvech_bank)" src="orig" selected="1">NNFXX-----A----</tag>
+<tag>
+<AM lemma="Bank-1_;K_,t_^(v_cizojaz._názvech_bank)" src="orig">NNFXX-----A----</AM>
+<AM lemma="Bank-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-lnd94101-023-p1s6w15">
 <src.rf>manual</src.rf>
@@ -959,6 +977,7 @@
 <AM lemma="marš" src="auto">NNIS3-----A----</AM>
 <AM lemma="marš" src="auto">NNIS5-----A----</AM>
 <AM lemma="marš" src="auto">NNIS6-----A----</AM>
+<AM lemma="Marša_;S" src="manual" selected="1">NNMS2-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94101-023-p1s7w6">

@@ -314,7 +314,10 @@
 <LM>w#w-ln95047-019-p3s1w17</LM>
 </w.rf>
 <form>MS</form>
-<tag lemma="MS-3_:B_;w_^(mistrovství_světa)" src="orig" selected="1">NNNXX-----A---8</tag>
+<tag>
+<AM lemma="MS-3_:B_;w_^(mistrovství_světa)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="MS-3_:B_^(mistrovství_světa)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95047-019-p3s1w18">
 <src.rf>manual</src.rf>
@@ -632,7 +635,10 @@
 <LM>w#w-ln95047-019-p3s4w4</LM>
 </w.rf>
 <form>dali</form>
-<tag lemma="dát" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag>
+<AM lemma="dát" src="orig">VpMP---XR-AA---</AM>
+<AM lemma="dát_:W" src="manual" selected="1">VpMP---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-ln95047-019-p3s4w5">
 <src.rf>manual</src.rf>
@@ -657,7 +663,7 @@
 </w.rf>
 <form>Tulio</form>
 <tag>
-<AM lemma="Tulio_;S" src="orig">NNMS1-----A----</AM>
+<AM lemma="Tulio_;S" src="orig" selected="1">NNMS1-----A----</AM>
 <AM lemma="Tulia_;S" src="auto" recommended="1">NNMS5-----A----</AM>
 </tag>
 </m>

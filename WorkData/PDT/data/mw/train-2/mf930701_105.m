@@ -35,7 +35,10 @@
 <LM>w#w-mf930701-105-p1s1w3</LM>
 </w.rf>
 <form>los</form>
-<tag lemma="los-1_^(zvíře)" src="orig" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="los-1_^(zvíře)" src="orig">NNMS1-----A----</AM>
+<AM lemma="los-2_^(výherní)" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 </s>
 <s id="m-mf930701-105-p2s1">
@@ -65,6 +68,7 @@
 <AM lemma="mn-99_:B_;S" src="orig">NNXXX-----A---8</AM>
 <AM lemma="mn-3_:B_^(malé_napětí)" src="auto" recommended="1">NNNXX-----A----</AM>
 <AM lemma="mnoho-1_:B_,a" src="auto">Ca--X---------8</AM>
+<AM lemma="mn-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930701-105-p2s1w4">
@@ -259,7 +263,10 @@
 <LM>w#w-mf930701-105-p2s2w3</LM>
 </w.rf>
 <form>ČMFS</form>
-<tag lemma="ČMFS-1_:B_;K_;w_^(Českomoravský_fotbalový_svaz)" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="ČMFS-1_:B_;K_;w_^(Českomoravský_fotbalový_svaz)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="ČMFS-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930701-105-p2s2w4">
 <src.rf>manual</src.rf>
@@ -275,7 +282,10 @@
 <LM>w#w-mf930701-105-p2s2w5</LM>
 </w.rf>
 <form>poslalo</form>
-<tag lemma="poslat" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag>
+<AM lemma="poslat" src="orig">VpNS---XR-AA---</AM>
+<AM lemma="poslat_:W" src="manual" selected="1">VpNS---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-mf930701-105-p2s2w6">
 <src.rf>manual</src.rf>
@@ -447,6 +457,7 @@
 <tag>
 <AM lemma="Kč" src="orig">NNFXX-----A----</AM>
 <AM lemma="Kč_:B" src="auto" recommended="1">NNFXX-----A---8</AM>
+<AM lemma="Kč_:B" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930701-105-p2s2w27">
@@ -625,7 +636,10 @@
 <LM>w#w-mf930701-105-p3s1w22</LM>
 </w.rf>
 <form>nesešla</form>
-<tag lemma="sejít" src="orig" selected="1">VpQW---XR-NA---</tag>
+<tag>
+<AM lemma="sejít" src="orig">VpQW---XR-NA---</AM>
+<AM lemma="sejít_:W" src="manual" selected="1">VpQW---XR-NA---</AM>
+</tag>
 </m>
 <m id="m-mf930701-105-p3s1w23">
 <src.rf>manual</src.rf>
@@ -1314,7 +1328,7 @@
 <tag>
 <AM lemma="tedy" src="orig">Db-------------</AM>
 <AM lemma="tedy-1" src="auto">TT-------------</AM>
-<AM lemma="tedy-2" src="auto" recommended="1">J^-------------</AM>
+<AM lemma="tedy-2" src="auto" recommended="1" selected="1">J^-------------</AM>
 </tag>
 </m>
 <m id="m-mf930701-105-p4s1w19">
@@ -1395,7 +1409,10 @@
 <LM>w#w-mf930701-105-p4s1w28</LM>
 </w.rf>
 <form>hrát</form>
-<tag lemma="hrát" src="orig" selected="1">Vf--------A----</tag>
+<tag>
+<AM lemma="hrát" src="orig">Vf--------A----</AM>
+<AM lemma="hrát_:T" src="manual" selected="1">Vf--------A----</AM>
+</tag>
 </m>
 <m id="m-mf930701-105-p4s1w29">
 <src.rf>manual</src.rf>

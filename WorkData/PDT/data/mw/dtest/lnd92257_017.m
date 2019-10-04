@@ -19,7 +19,12 @@
 <LM>w#w-lnd92257-017-p1s1w1</LM>
 </w.rf>
 <form>ALEXANDER</form>
-<tag lemma="Alexander_;S" src="auto" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Alexander_;S" src="auto">NNMS1-----A----</AM>
+<AM lemma="Alexander_;Y_;S" src="manual">NNMS1-----A----</AM>
+<AM lemma="Alexander_;S_;y" src="manual">NNMS1-----A----</AM>
+<AM lemma="Alexander_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92257-017-p1s1w2">
 <src.rf>manual</src.rf>
@@ -105,7 +110,10 @@
 <LM>w#w-lnd92257-017-p3s2w4</LM>
 </w.rf>
 <form>FS</form>
-<tag lemma="FS_:B_;K_^(Federální_shromáždění)" src="orig" selected="1">NNNXX-----A---8</tag>
+<tag>
+<AM lemma="FS_:B_;K_^(Federální_shromáždění)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="FS-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd92257-017-p3s2w5">
 <src.rf>manual</src.rf>
@@ -113,7 +121,10 @@
 <LM>w#w-lnd92257-017-p3s2w5</LM>
 </w.rf>
 <form>Alexandra</form>
-<tag lemma="Alexandr_;Y" src="auto" selected="1">NNMS2-----A----</tag>
+<tag>
+<AM lemma="Alexandr_;Y" src="auto">NNMS2-----A----</AM>
+<AM lemma="Alexander_;S_;Y" src="manual" selected="1">NNMS2-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92257-017-p3s2w6">
 <src.rf>manual</src.rf>

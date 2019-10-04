@@ -117,6 +117,7 @@
 <AM lemma="Paris-2_;G" src="auto">NNFSX-----A----</AM>
 <AM lemma="Paris-3_;Y" src="auto" recommended="1">NNFSX-----A----</AM>
 <AM lemma="Paris_;S" src="auto">NNMS1-----A----</AM>
+<AM lemma="Paris-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-ln95046-039-p2s1Bw6">
@@ -125,7 +126,10 @@
 <LM>w#w-ln95046-039-p2s1Bw6</LM>
 </w.rf>
 <form>Indoor</form>
-<tag lemma="Indoor_;m_,t" src="orig" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="Indoor_;m_,t" src="orig">NNIS1-----A----</AM>
+<AM lemma="Indoor-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln95046-039-p2s1Bw7">
 <src.rf>manual</src.rf>
@@ -221,7 +225,10 @@
 <LM>w#w-ln95046-039-p2s1Bw18</LM>
 </w.rf>
 <form>WTA</form>
-<tag lemma="WTA-1_:B_;K_,t_^(Women's_Tennis_Association)" src="auto" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="WTA-1_:B_;K_,t_^(Women's_Tennis_Association)" src="auto">NNFXX-----A---8</AM>
+<AM lemma="WTA-1_:B_;K_^(Women's_Tennis_Association)" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln95046-039-p2s1Bw19">
 <src.rf>manual</src.rf>
@@ -375,7 +382,7 @@
 <form>Nokia</form>
 <tag>
 <AM lemma="Nokia_;K" src="orig">AAXXX----1A----</AM>
-<AM lemma="Nokia_;K" src="auto" recommended="1">NNFS1-----A----</AM>
+<AM lemma="Nokia_;K" src="auto" recommended="1" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95046-039-p2s1Bw38">
@@ -384,7 +391,10 @@
 <LM>w#w-ln95046-039-p2s1Bw38</LM>
 </w.rf>
 <form>Cupu</form>
-<tag lemma="Cup-1_;m_;w_,t_^(pohár,_soutěž;_v_názvech)" src="auto" selected="1">NNIS2-----A----</tag>
+<tag>
+<AM lemma="Cup-1_;m_;w_,t_^(pohár,_soutěž;_v_názvech)" src="auto">NNIS2-----A----</AM>
+<AM lemma="Cup-1_;m_^(pohár,_soutěž;_v_názvech)" src="manual" selected="1">NNIS2-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95046-039-p2s1Bw39">
 <src.rf>manual</src.rf>
@@ -467,7 +477,10 @@
 <LM>w#w-ln95046-039-p2s2w9</LM>
 </w.rf>
 <form>dolarů</form>
-<tag lemma="dolar_;b" src="orig" selected="1">NNIP2-----A----</tag>
+<tag>
+<AM lemma="dolar_;b" src="orig">NNIP2-----A----</AM>
+<AM lemma="dolar" src="manual" selected="1">NNIP2-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95046-039-p2s2w10">
 <src.rf>manual</src.rf>
@@ -539,7 +552,10 @@
 <LM>w#w-ln95046-039-p2s2w18</LM>
 </w.rf>
 <form>TK</form>
-<tag lemma="TK_:B" src="auto" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="TK_:B" src="auto">NNXXX-----A---8</AM>
+<AM lemma="TK-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95046-039-p2s2w19">
 <src.rf>manual</src.rf>
@@ -784,7 +800,10 @@
 <LM>w#w-ln95046-039-p2s4w12</LM>
 </w.rf>
 <form>Kroupová</form>
-<tag lemma="kroupový" src="orig" selected="1">AAFS1----1A----</tag>
+<tag>
+<AM lemma="kroupový" src="orig">AAFS1----1A----</AM>
+<AM lemma="Kroupová_;S" src="manual" selected="1">NNFS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95046-039-p2s4w13">
 <src.rf>manual</src.rf>

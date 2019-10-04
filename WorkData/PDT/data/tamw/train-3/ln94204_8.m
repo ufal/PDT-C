@@ -139,7 +139,10 @@
 <LM>w#w-ln94204-8-p1s1w16</LM>
 </w.rf>
 <form>tzn</form>
-<tag lemma="tzn-1_:B_:T_^(to_znamená)" src="orig" selected="1">VB-S---3P-AA--8</tag>
+<tag>
+<AM lemma="tzn-1_:B_:T_^(to_znamená)" src="orig">VB-S---3P-AA--8</AM>
+<AM lemma="tzn-1_:B_^(to_znamená)" src="manual" selected="1">VB-S---3P-AA---</AM>
+</tag>
 </m>
 <m id="m-ln94204-8-p1s1w17">
 <src.rf>manual</src.rf>

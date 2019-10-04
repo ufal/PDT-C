@@ -178,6 +178,7 @@
 <tag>
 <AM lemma="MARK_:B_;K_^(reklamní_agentura)" src="orig">NNXXX-----A---8</AM>
 <AM lemma="Mark_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="MARK-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-ln95043-108-p2s1Bw13">
@@ -194,7 +195,10 @@
 <LM>w#w-ln95043-108-p2s1Bw14</LM>
 </w.rf>
 <form>BBDO</form>
-<tag lemma="BBDO_:B_;K_^(reklamní_agentura)" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="BBDO_:B_;K_^(reklamní_agentura)" src="orig">NNXXX-----A---8</AM>
+<AM lemma="BBDO-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln95043-108-p2s1Bw15">
 <src.rf>manual</src.rf>

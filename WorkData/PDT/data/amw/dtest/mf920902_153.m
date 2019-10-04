@@ -259,7 +259,10 @@
 <LM>w#w-mf920902-153-p4s2w19</LM>
 </w.rf>
 <form>Fernandu</form>
-<tag lemma="Fernand_;Y" src="orig" selected="1">NNMS3-----A---1</tag>
+<tag>
+<AM lemma="Fernand_;Y" src="orig">NNMS3-----A---1</AM>
+<AM lemma="Fernando_;Y" src="manual" selected="1">NNMS3-----A---1</AM>
+</tag>
 </m>
 <m id="m-mf920902-153-p4s2w20">
 <src.rf>manual</src.rf>
@@ -275,7 +278,10 @@
 <LM>w#w-mf920902-153-p4s2w21</LM>
 </w.rf>
 <form>de</form>
-<tag lemma="de_,t_^(z_franc._de,_zejm._ve_jménech)" src="orig" selected="1">RR--1----------</tag>
+<tag>
+<AM lemma="de_,t_^(z_franc._de,_zejm._ve_jménech)" src="orig">RR--1----------</AM>
+<AM lemma="de-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-mf920902-153-p4s2w22">
 <src.rf>manual</src.rf>
@@ -437,7 +443,10 @@
 <LM>w#w-mf920902-153-p4s3w12</LM>
 </w.rf>
 <form>vést</form>
-<tag lemma="vést" src="auto" selected="1">Vf--------A----</tag>
+<tag>
+<AM lemma="vést" src="auto">Vf--------A----</AM>
+<AM lemma="vést_:T" src="manual" selected="1">Vf--------A----</AM>
+</tag>
 </m>
 <m id="m-mf920902-153-p4s3w13">
 <src.rf>manual</src.rf>
@@ -519,7 +528,10 @@
 <LM>w#w-mf920902-153-p4s4w6</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-2" src="auto" selected="1">Dg-------2A----</tag>
+<tag>
+<AM lemma="hodně-2" src="auto">Dg-------2A----</AM>
+<AM lemma="hodně-3" src="manual" selected="1">Dg-------2A----</AM>
+</tag>
 </m>
 <m id="m-mf920902-153-p4s4w7">
 <src.rf>manual</src.rf>

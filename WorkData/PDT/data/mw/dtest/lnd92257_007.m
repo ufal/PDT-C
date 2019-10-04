@@ -63,7 +63,7 @@
 <form>přece</form>
 <tag>
 <AM lemma="přece" src="orig">Db-------------</AM>
-<AM lemma="přece-1" src="auto" recommended="1">J^-------------</AM>
+<AM lemma="přece-1" src="auto" recommended="1" selected="1">J^-------------</AM>
 <AM lemma="přece-2" src="auto">TT-------------</AM>
 </tag>
 </m>
@@ -157,7 +157,10 @@
 <LM>w#w-lnd92257-007-p3s2w9</LM>
 </w.rf>
 <form>Galilea</form>
-<tag lemma="Galilea_;G" src="orig" selected="1">NNFS1-----A----</tag>
+<tag>
+<AM lemma="Galilea_;G" src="orig">NNFS1-----A----</AM>
+<AM lemma="Galileo-1_;Y" src="manual" selected="1">NNMS4-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92257-007-p3s2w10">
 <src.rf>manual</src.rf>
@@ -617,7 +620,10 @@
 <LM>w#w-lnd92257-007-p3s4w6</LM>
 </w.rf>
 <form>Galileiho</form>
-<tag lemma="Galilei_;S" src="orig" selected="1">NNMS4-----A----</tag>
+<tag>
+<AM lemma="Galilei_;S" src="orig">NNMS4-----A----</AM>
+<AM lemma="Galilei_;S" src="manual" selected="1">NNMS2-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92257-007-p3s4w7">
 <src.rf>manual</src.rf>

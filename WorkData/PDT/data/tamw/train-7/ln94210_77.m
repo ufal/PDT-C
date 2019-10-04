@@ -565,7 +565,10 @@
 <LM>w#w-ln94210-77-p2s4w9</LM>
 </w.rf>
 <form>Abdalláha</form>
-<tag lemma="Abdalláh_;S" src="auto" selected="1">NNMS4-----A----</tag>
+<tag>
+<AM lemma="Abdalláh_;S" src="auto">NNMS4-----A----</AM>
+<AM lemma="Abdalláh_;S_;Y" src="manual" selected="1">NNMS4-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94210-77-p2s4w10">
 <src.rf>manual</src.rf>
@@ -645,7 +648,10 @@
 <LM>w#w-ln94210-77-p2s4w19</LM>
 </w.rf>
 <form>Muhammada</form>
-<tag lemma="Muhammad_;S" src="auto" selected="1">NNMS4-----A----</tag>
+<tag>
+<AM lemma="Muhammad_;S" src="auto">NNMS4-----A----</AM>
+<AM lemma="Muhammad_;S_;Y" src="manual" selected="1">NNMS4-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94210-77-p2s4w20">
 <src.rf>manual</src.rf>
@@ -654,7 +660,7 @@
 </w.rf>
 <form>Lulua</form>
 <tag>
-<AM lemma="Lulu_;S" src="orig">NNMS4-----A----</AM>
+<AM lemma="Lulu_;S" src="orig" selected="1">NNMS4-----A----</AM>
 <AM lemma="Lulua_;G" src="auto" recommended="1">NNFS1-----A----</AM>
 </tag>
 </m>
@@ -762,7 +768,10 @@
 <LM>w#w-ln94210-77-p2s5w9</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-2" src="auto" selected="1">Dg-------2A----</tag>
+<tag>
+<AM lemma="hodně-2" src="auto">Dg-------2A----</AM>
+<AM lemma="hodně-3" src="manual" selected="1">Dg-------2A----</AM>
+</tag>
 </m>
 <m id="m-ln94210-77-p2s5w10">
 <src.rf>manual</src.rf>
@@ -988,7 +997,10 @@
 <LM>w#w-ln94210-77-p2s6w15</LM>
 </w.rf>
 <form>zahynul</form>
-<tag lemma="zahynout" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag>
+<AM lemma="zahynout" src="orig">VpYS---XR-AA---</AM>
+<AM lemma="zahynout_:W" src="manual" selected="1">VpYS---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-ln94210-77-p2s6w16">
 <src.rf>manual</src.rf>

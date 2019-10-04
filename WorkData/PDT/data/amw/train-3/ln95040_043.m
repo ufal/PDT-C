@@ -93,7 +93,10 @@
 <LM>w#w-ln95040-043-p2s1Aw6</LM>
 </w.rf>
 <form>Four</form>
-<tag lemma="Four_;K_,t" src="orig" selected="1">ClXPX----------</tag>
+<tag>
+<AM lemma="Four_;K_,t" src="orig">ClXPX----------</AM>
+<AM lemma="Four-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln95040-043-p2s1Aw7">
 <src.rf>manual</src.rf>
@@ -101,7 +104,10 @@
 <LM>w#w-ln95040-043-p2s1Aw7</LM>
 </w.rf>
 <form>Seasons</form>
-<tag lemma="Season_;K_,t" src="orig" selected="1">NNIPX-----A----</tag>
+<tag>
+<AM lemma="Season_;K_,t" src="orig">NNIPX-----A----</AM>
+<AM lemma="Seasons-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln95040-043-p2s1Aw8">
 <src.rf>manual</src.rf>
@@ -199,7 +205,10 @@
 <LM>w#w-ln95040-043-p2s1Bw9</LM>
 </w.rf>
 <form>Four</form>
-<tag lemma="Four_;K_,t" src="orig" selected="1">ClXPX----------</tag>
+<tag>
+<AM lemma="Four_;K_,t" src="orig">ClXPX----------</AM>
+<AM lemma="Four-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln95040-043-p2s1Bw10">
 <src.rf>manual</src.rf>
@@ -207,7 +216,10 @@
 <LM>w#w-ln95040-043-p2s1Bw10</LM>
 </w.rf>
 <form>Seasons</form>
-<tag lemma="Season_;K_,t" src="orig" selected="1">NNIPX-----A----</tag>
+<tag>
+<AM lemma="Season_;K_,t" src="orig">NNIPX-----A----</AM>
+<AM lemma="Seasons-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln95040-043-p2s1Bw11">
 <src.rf>manual</src.rf>
@@ -791,7 +803,10 @@
 <LM>w#w-ln95040-043-p2s5Aw3</LM>
 </w.rf>
 <form>Four</form>
-<tag lemma="Four_;K_,t" src="orig" selected="1">ClXPX----------</tag>
+<tag>
+<AM lemma="Four_;K_,t" src="orig">ClXPX----------</AM>
+<AM lemma="Four-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln95040-043-p2s5Aw4">
 <src.rf>manual</src.rf>
@@ -799,7 +814,10 @@
 <LM>w#w-ln95040-043-p2s5Aw4</LM>
 </w.rf>
 <form>Seasons</form>
-<tag lemma="Season_;K_,t" src="orig" selected="1">NNIPX-----A----</tag>
+<tag>
+<AM lemma="Season_;K_,t" src="orig">NNIPX-----A----</AM>
+<AM lemma="Seasons-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln95040-043-p2s5Aw5">
 <src.rf>manual</src.rf>
@@ -1061,7 +1079,10 @@
 <LM>w#w-ln95040-043-p2s7w1</LM>
 </w.rf>
 <form>Ani</form>
-<tag lemma="ani-1" src="auto" selected="1">J^-------------</tag>
+<tag>
+<AM lemma="ani-1" src="auto">J^-------------</AM>
+<AM lemma="ani-2" src="manual" selected="1">TT-------------</AM>
+</tag>
 </m>
 <m id="m-ln95040-043-p2s7w2">
 <src.rf>manual</src.rf>
@@ -1239,7 +1260,10 @@
 <LM>w#w-ln95040-043-p2s8w9</LM>
 </w.rf>
 <form>rada</form>
-<tag lemma="rada-3_^(poradní_sbor;_př._Česká_národní_r.)" src="orig" selected="1">NNFS1-----A----</tag>
+<tag>
+<AM lemma="rada-3_^(poradní_sbor;_př._Česká_národní_r.)" src="orig">NNFS1-----A----</AM>
+<AM lemma="rada-1_^(př._dát_někomu_dobrou_radu;poradní_sbor)" src="manual" selected="1">NNFS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95040-043-p2s8w10">
 <src.rf>manual</src.rf>
@@ -1563,7 +1587,10 @@
 <LM>w#w-ln95040-043-p2s10w3</LM>
 </w.rf>
 <form>li</form>
-<tag lemma="li-1" src="auto" selected="1">TT-------------</tag>
+<tag>
+<AM lemma="li-1" src="auto">TT-------------</AM>
+<AM lemma="li-2" src="manual" selected="1">J,-------------</AM>
+</tag>
 </m>
 <m id="m-ln95040-043-p2s10w4">
 <src.rf>manual</src.rf>
@@ -1595,7 +1622,10 @@
 <LM>w#w-ln95040-043-p2s10w7</LM>
 </w.rf>
 <form>Four</form>
-<tag lemma="Four_;K_,t" src="orig" selected="1">ClXPX----------</tag>
+<tag>
+<AM lemma="Four_;K_,t" src="orig">ClXPX----------</AM>
+<AM lemma="Four-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln95040-043-p2s10w8">
 <src.rf>manual</src.rf>
@@ -1603,7 +1633,10 @@
 <LM>w#w-ln95040-043-p2s10w8</LM>
 </w.rf>
 <form>Seasons</form>
-<tag lemma="Season_;K_,t" src="orig" selected="1">NNIPX-----A----</tag>
+<tag>
+<AM lemma="Season_;K_,t" src="orig">NNIPX-----A----</AM>
+<AM lemma="Seasons-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln95040-043-p2s10w9">
 <src.rf>manual</src.rf>
@@ -1619,7 +1652,10 @@
 <LM>w#w-ln95040-043-p2s10w10</LM>
 </w.rf>
 <form>jen</form>
-<tag lemma="jen-1" src="auto" selected="1">TT-------------</tag>
+<tag>
+<AM lemma="jen-1" src="auto">TT-------------</AM>
+<AM lemma="jen-4_^(pouze)" src="manual" selected="1">Db-------------</AM>
+</tag>
 </m>
 <m id="m-ln95040-043-p2s10w11">
 <src.rf>manual</src.rf>
@@ -1831,6 +1867,7 @@
 <AM lemma="začít-1" src="orig">Vf--------A----</AM>
 <AM lemma="začít-1_^(začnout)" src="auto" recommended="1">Vf--------A----</AM>
 <AM lemma="začít-2_^(pocítit)" src="auto">Vf--------A----</AM>
+<AM lemma="začít-1_:W_^(začnout)" src="manual" selected="1">Vf--------A----</AM>
 </tag>
 </m>
 <m id="m-ln95040-043-p2s10w37">
@@ -1945,7 +1982,10 @@
 <LM>w#w-ln95040-043-p3s1w12</LM>
 </w.rf>
 <form>čp</form>
-<tag lemma="čp-1_:B_^(číslo_popisné)" src="orig" selected="1">NNNXX-----A---8</tag>
+<tag>
+<AM lemma="čp-1_:B_^(číslo_popisné)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="čp-1_:B_^(číslo_popisné)" src="manual" selected="1">NNNXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95040-043-p3s1w13">
 <src.rf>manual</src.rf>
@@ -2089,7 +2129,10 @@
 <LM>w#w-ln95040-043-p3s1w31</LM>
 </w.rf>
 <form>čp</form>
-<tag lemma="čp-1_:B_^(číslo_popisné)" src="orig" selected="1">NNNXX-----A---8</tag>
+<tag>
+<AM lemma="čp-1_:B_^(číslo_popisné)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="čp-1_:B_^(číslo_popisné)" src="manual" selected="1">NNNXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95040-043-p3s1w32">
 <src.rf>manual</src.rf>
@@ -2137,7 +2180,10 @@
 <LM>w#w-ln95040-043-p3s1w37</LM>
 </w.rf>
 <form>čp</form>
-<tag lemma="čp-1_:B_^(číslo_popisné)" src="orig" selected="1">NNNXX-----A---8</tag>
+<tag>
+<AM lemma="čp-1_:B_^(číslo_popisné)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="čp-1_:B_^(číslo_popisné)" src="manual" selected="1">NNNXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95040-043-p3s1w38">
 <src.rf>manual</src.rf>
@@ -2331,7 +2377,11 @@
 <LM>w#w-ln95040-043-p3s5w12</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-2" src="auto" selected="1">Dg-------2A----</tag>
+<tag>
+<AM lemma="hodně-2" src="auto">Dg-------2A----</AM>
+<AM lemma="více_^(více_+_2._p.,_více_peněz)" src="manual">Ca--4----------</AM>
+<AM lemma="více" src="manual" selected="1">Ca--X----------</AM>
+</tag>
 </m>
 <m id="m-ln95040-043-p3s5w13">
 <src.rf>manual</src.rf>
@@ -2445,7 +2495,10 @@
 <LM>w#w-ln95040-043-p3s6w7</LM>
 </w.rf>
 <form>prostředky</form>
-<tag lemma="prostředek-2_^(způsob,_nástroj)" src="orig" selected="1">NNIP1-----A----</tag>
+<tag>
+<AM lemma="prostředek-2_^(způsob,_nástroj)" src="orig">NNIP1-----A----</AM>
+<AM lemma="prostředek_^(střed,způsob,_nástroj)" src="manual" selected="1">NNIP1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95040-043-p3s6w8">
 <src.rf>manual</src.rf>
@@ -2474,6 +2527,7 @@
 <AM lemma="postmodernizmus" src="auto" recommended="1">NNIS2-----A----</AM>
 <AM lemma="postmodernizmus" src="auto">NNIS3-----A----</AM>
 <AM lemma="postmodernizmus" src="auto">NNIS6-----A----</AM>
+<AM lemma="postmodernismus_,s_^(^DD**postmodernizmus)" src="manual" selected="1">NNIS2-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95040-043-p3s6w11">
@@ -3018,7 +3072,10 @@
 <LM>w#w-ln95040-043-p4s3w5</LM>
 </w.rf>
 <form>Four</form>
-<tag lemma="Four_;K_,t" src="orig" selected="1">ClXPX----------</tag>
+<tag>
+<AM lemma="Four_;K_,t" src="orig">ClXPX----------</AM>
+<AM lemma="Four-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln95040-043-p4s3w6">
 <src.rf>manual</src.rf>
@@ -3026,7 +3083,10 @@
 <LM>w#w-ln95040-043-p4s3w6</LM>
 </w.rf>
 <form>Seasons</form>
-<tag lemma="Season_;K_,t" src="orig" selected="1">NNIPX-----A----</tag>
+<tag>
+<AM lemma="Season_;K_,t" src="orig">NNIPX-----A----</AM>
+<AM lemma="Seasons-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln95040-043-p4s3w7">
 <src.rf>manual</src.rf>
@@ -3058,7 +3118,10 @@
 <LM>w#w-ln95040-043-p4s3w10</LM>
 </w.rf>
 <form>jen</form>
-<tag lemma="jen-1" src="auto" selected="1">TT-------------</tag>
+<tag>
+<AM lemma="jen-1" src="auto">TT-------------</AM>
+<AM lemma="jen-4_^(pouze)" src="manual" selected="1">Db-------------</AM>
+</tag>
 </m>
 <m id="m-ln95040-043-p4s3w11">
 <src.rf>manual</src.rf>
@@ -3268,7 +3331,10 @@
 <LM>w#w-ln95040-043-p4s4w9</LM>
 </w.rf>
 <form>historismus</form>
-<tag lemma="historismus" src="orig" selected="1">NNIS4-----A----</tag>
+<tag>
+<AM lemma="historismus" src="orig">NNIS4-----A----</AM>
+<AM lemma="historismus_,s_^(^DD**historizmus)" src="manual" selected="1">NNIS4-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95040-043-p4s4w10">
 <src.rf>manual</src.rf>
@@ -3422,7 +3488,10 @@
 <LM>w#w-ln95040-043-p4s5w13</LM>
 </w.rf>
 <form>Four</form>
-<tag lemma="Four_;K_,t" src="orig" selected="1">ClXPX----------</tag>
+<tag>
+<AM lemma="Four_;K_,t" src="orig">ClXPX----------</AM>
+<AM lemma="Four-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln95040-043-p4s5w14">
 <src.rf>manual</src.rf>
@@ -3430,7 +3499,10 @@
 <LM>w#w-ln95040-043-p4s5w14</LM>
 </w.rf>
 <form>Seasons</form>
-<tag lemma="Season_;K_,t" src="orig" selected="1">NNIPX-----A----</tag>
+<tag>
+<AM lemma="Season_;K_,t" src="orig">NNIPX-----A----</AM>
+<AM lemma="Seasons-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln95040-043-p4s5w15">
 <src.rf>manual</src.rf>
@@ -3438,7 +3510,10 @@
 <LM>w#w-ln95040-043-p4s5w15</LM>
 </w.rf>
 <form>jen</form>
-<tag lemma="jen-1" src="auto" selected="1">TT-------------</tag>
+<tag>
+<AM lemma="jen-1" src="auto">TT-------------</AM>
+<AM lemma="jen-4_^(pouze)" src="manual" selected="1">Db-------------</AM>
+</tag>
 </m>
 <m id="m-ln95040-043-p4s5w16">
 <src.rf>manual</src.rf>
@@ -3576,7 +3651,10 @@
 <LM>w#w-ln95040-043-p4s6w10</LM>
 </w.rf>
 <form>č</form>
-<tag lemma="číslo_:B" src="orig" selected="1">NNNXX-----A---8</tag>
+<tag>
+<AM lemma="číslo_:B" src="orig">NNNXX-----A---8</AM>
+<AM lemma="číslo" src="manual" selected="1">NNNXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln95040-043-p4s6w11">
 <src.rf>manual</src.rf>
@@ -3736,7 +3814,10 @@
 <LM>w#w-ln95040-043-p4s6w30</LM>
 </w.rf>
 <form>pop</form>
-<tag lemma="pop-1_^(círk.)" src="orig" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="pop-1_^(círk.)" src="orig">NNMS1-----A----</AM>
+<AM lemma="pop-3_^(př._ve_spojení_pop_music)" src="manual" selected="1">AAXXX----1A----</AM>
+</tag>
 </m>
 <m id="m-ln95040-043-p4s6w31">
 <src.rf>manual</src.rf>
@@ -3768,7 +3849,10 @@
 <LM>w#w-ln95040-043-p4s6w34</LM>
 </w.rf>
 <form>op</form>
-<tag lemma="op" src="orig" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="op" src="orig">NNMS1-----A----</AM>
+<AM lemma="op-2" src="manual" selected="1">AAXXX----1A----</AM>
+</tag>
 </m>
 <m id="m-ln95040-043-p4s6w35">
 <src.rf>manual</src.rf>
@@ -4182,7 +4266,10 @@
 <LM>w#w-ln95040-043-p4s9w4</LM>
 </w.rf>
 <form>Four</form>
-<tag lemma="Four_;K_,t" src="orig" selected="1">ClXPX----------</tag>
+<tag>
+<AM lemma="Four_;K_,t" src="orig">ClXPX----------</AM>
+<AM lemma="Four-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln95040-043-p4s9w5">
 <src.rf>manual</src.rf>
@@ -4190,7 +4277,10 @@
 <LM>w#w-ln95040-043-p4s9w5</LM>
 </w.rf>
 <form>Seasons</form>
-<tag lemma="Season_;K_,t" src="orig" selected="1">NNIPX-----A----</tag>
+<tag>
+<AM lemma="Season_;K_,t" src="orig">NNIPX-----A----</AM>
+<AM lemma="Seasons-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln95040-043-p4s9w6">
 <src.rf>manual</src.rf>

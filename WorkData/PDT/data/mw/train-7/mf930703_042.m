@@ -660,6 +660,7 @@
 <tag>
 <AM lemma="Elwood_;K" src="orig">NNIS1-----A----</AM>
 <AM lemma="Elwood_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Elwood-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-mf930703-042-p2s3w12">
@@ -676,7 +677,11 @@
 <LM>w#w-mf930703-042-p2s3w13</LM>
 </w.rf>
 <form>VCC</form>
-<tag lemma="VCC_:B_;K" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="VCC_:B_;K" src="orig">NNXXX-----A---8</AM>
+<AM lemma="VCC_:B" src="manual">NNXXX-----A---8</AM>
+<AM lemma="VCC-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-mf930703-042-p2s3w14">
 <src.rf>manual</src.rf>
@@ -724,7 +729,10 @@
 <LM>w#w-mf930703-042-p2s3w19</LM>
 </w.rf>
 <form>Bohemia</form>
-<tag lemma="Bohemia_;K" src="orig" selected="1">NNFXX-----A----</tag>
+<tag>
+<AM lemma="Bohemia_;K" src="orig" selected="1">NNFXX-----A----</AM>
+<AM lemma="Bohemia-77" src="manual">F%-------------</AM>
+</tag>
 </m>
 <m id="m-mf930703-042-p2s3w20">
 <src.rf>manual</src.rf>
@@ -732,7 +740,10 @@
 <LM>w#w-mf930703-042-p2s3w20</LM>
 </w.rf>
 <form>Art</form>
-<tag lemma="Art-3_;K_,t" src="orig" selected="1">NNIXX-----A----</tag>
+<tag>
+<AM lemma="Art-3_;K_,t" src="orig">NNIXX-----A----</AM>
+<AM lemma="Art-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-mf930703-042-p2s3w21">
 <src.rf>manual</src.rf>

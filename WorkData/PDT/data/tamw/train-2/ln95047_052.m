@@ -151,7 +151,7 @@
 <form>nalezeny</form>
 <tag>
 <AM lemma="naleznout" src="orig">VsTP---XX-AP---</AM>
-<AM lemma="nalézt-2" src="auto" recommended="1">VsTP---XX-AP---</AM>
+<AM lemma="nalézt-2" src="auto" recommended="1" selected="1">VsTP---XX-AP---</AM>
 </tag>
 </m>
 <m id="m-ln95047-052-p2s1w17">
@@ -186,7 +186,10 @@
 <LM>w#w-ln95047-052-p2s2w3</LM>
 </w.rf>
 <form>Sotheby</form>
-<tag lemma="Sotheby_;K_,t" src="orig" selected="1">NNFS1-----A----</tag>
+<tag>
+<AM lemma="Sotheby_;K_,t" src="orig">NNFS1-----A----</AM>
+<AM lemma="Sotheby-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln95047-052-p2s2w4">
 <src.rf>manual</src.rf>
@@ -202,7 +205,10 @@
 <LM>w#w-ln95047-052-p2s2w5</LM>
 </w.rf>
 <form>s</form>
-<tag lemma="s-4_,t_^(saský_genitiv)" src="orig" selected="1">NNXSX-----A----</tag>
+<tag>
+<AM lemma="s-4_,t_^(saský_genitiv)" src="orig">NNXSX-----A----</AM>
+<AM lemma="s-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln95047-052-p2s2w6">
 <src.rf>manual</src.rf>

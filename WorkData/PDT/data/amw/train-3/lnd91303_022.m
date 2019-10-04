@@ -35,7 +35,10 @@
 <LM>w#w-lnd91303-022-p1s1w3</LM>
 </w.rf>
 <form>POKORNÁ</form>
-<tag lemma="pokorný" src="orig" selected="1">AAFS1----1A----</tag>
+<tag>
+<AM lemma="pokorný" src="orig">AAFS1----1A----</AM>
+<AM lemma="Pokorná_;S_^(*1ý)" src="manual" selected="1">NNFS1-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd91303-022-p1s1w4">
 <src.rf>manual</src.rf>
@@ -559,7 +562,10 @@
 <LM>w#w-lnd91303-022-p2s1w2</LM>
 </w.rf>
 <form>zat</form>
-<tag lemma="zat-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="zat-99_:B_;S" src="orig">NNXXX-----A---8</AM>
+<AM lemma="zat-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd91303-022-p2s1w3">
 <src.rf>manual</src.rf>
@@ -609,7 +615,10 @@
 <LM>w#w-lnd91303-022-p3s1w5</LM>
 </w.rf>
 <form>LN</form>
-<tag lemma="LN-1_:B_;R_^(Lidové_noviny,_deník)" src="orig" selected="1">NNFPX-----A---8</tag>
+<tag>
+<AM lemma="LN-1_:B_;R_^(Lidové_noviny,_deník)" src="orig">NNFPX-----A---8</AM>
+<AM lemma="LN-1_:B_;K_;R_^(Lidové_noviny)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 </s>
 </mdata>

@@ -165,7 +165,10 @@
 <LM>w#w-lnd92257-037-p1s2w3</LM>
 </w.rf>
 <form>FMZV</form>
-<tag lemma="FMZV_:B_;K_^(Federální_ministerstvo_zahr._věcí)" src="orig" selected="1">NNNXX-----A---8</tag>
+<tag>
+<AM lemma="FMZV_:B_;K_^(Federální_ministerstvo_zahr._věcí)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="FMZV-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd92257-037-p1s2w4">
 <src.rf>manual</src.rf>
@@ -515,6 +518,7 @@
 <tag>
 <AM lemma="USA_;G" src="orig">NNIPX-----A----</AM>
 <AM lemma="USA_:B_;K_,t_^(United_States_of_America)" src="auto" recommended="1">NNIPX-----A---8</AM>
+<AM lemma="USA_:B_;K_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-lnd92257-037-p1s3w13">
@@ -629,7 +633,10 @@
 <LM>w#w-lnd92257-037-p1s4w2</LM>
 </w.rf>
 <form>FMZV</form>
-<tag lemma="FMZV_:B_;K_^(Federální_ministerstvo_zahr._věcí)" src="orig" selected="1">NNNXX-----A---8</tag>
+<tag>
+<AM lemma="FMZV_:B_;K_^(Federální_ministerstvo_zahr._věcí)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="FMZV-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd92257-037-p1s4w3">
 <src.rf>manual</src.rf>

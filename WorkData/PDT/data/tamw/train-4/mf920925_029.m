@@ -59,7 +59,10 @@
 <LM>w#w-mf920925-029-p1s1w6</LM>
 </w.rf>
 <form>Motor</form>
-<tag lemma="motor" src="orig" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="motor" src="orig" selected="1">NNIS1-----A----</AM>
+<AM lemma="Motor-77" src="manual">F%-------------</AM>
+</tag>
 </m>
 <m id="m-mf920925-029-p1s1w7">
 <src.rf>manual</src.rf>
@@ -67,7 +70,10 @@
 <LM>w#w-mf920925-029-p1s1w7</LM>
 </w.rf>
 <form>Show</form>
-<tag lemma="show" src="orig" selected="1">NNFXX-----A----</tag>
+<tag>
+<AM lemma="show" src="orig" selected="1">NNFXX-----A----</AM>
+<AM lemma="Show-77" src="manual">F%-------------</AM>
+</tag>
 </m>
 <m id="m-mf920925-029-p1s1w8">
 <src.rf>manual</src.rf>

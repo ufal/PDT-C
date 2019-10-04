@@ -109,7 +109,10 @@
 <LM>w#w-mf920923-050-p2s1w9</LM>
 </w.rf>
 <form>km</form>
-<tag lemma="km-1`kilometr_:B" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="km-1`kilometr_:B" src="orig">NNIXX-----A---8</AM>
+<AM lemma="kilometr" src="manual" selected="1">NNIXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-mf920923-050-p2s1w10">
 <src.rf>manual</src.rf>
@@ -144,6 +147,7 @@
 <tag>
 <AM lemma="Hami_;G" src="orig">NNNXX-----A----</AM>
 <AM lemma="Hami_;R" src="auto" recommended="1">NNNSX-----A----</AM>
+<AM lemma="Hami-2_;G" src="manual" selected="1">NNNXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920923-050-p2s1w14">
@@ -205,7 +209,7 @@
 <tag>
 <AM lemma="Mitsubishi-2_;R_^(vozidlo)" src="orig">NNNXX-----A----</AM>
 <AM lemma="Mitsubishi_;K" src="auto">NNXXX-----A----</AM>
-<AM lemma="mitsubishi_;R" src="auto" recommended="1">NNNXX-----A----</AM>
+<AM lemma="mitsubishi_;R" src="auto" recommended="1" selected="1">NNNXX-----A----</AM>
 <AM lemma="mitsubishi_;R_^(vozidlo)" src="auto">NNXXX-----A----</AM>
 </tag>
 </m>
@@ -280,7 +284,7 @@
 </w.rf>
 <form>Saby</form>
 <tag>
-<AM lemma="Saby_;S" src="orig">NNMS1-----A----</AM>
+<AM lemma="Saby_;S" src="orig" selected="1">NNMS1-----A----</AM>
 <AM lemma="Saba_;G" src="auto" recommended="1">NNFP1-----A----</AM>
 <AM lemma="Saba_;G" src="auto">NNFP4-----A----</AM>
 <AM lemma="Saba_;G" src="auto">NNFP5-----A----</AM>
@@ -357,7 +361,10 @@
 <LM>w#w-mf920923-050-p2s2w22</LM>
 </w.rf>
 <form>ZX</form>
-<tag lemma="ZX_:B_;R" src="orig" selected="1">NNXXX-----A----</tag>
+<tag>
+<AM lemma="ZX_:B_;R" src="orig">NNXXX-----A----</AM>
+<AM lemma="ZX-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920923-050-p2s2w23">
 <src.rf>manual</src.rf>
@@ -461,7 +468,10 @@
 <LM>w#w-mf920923-050-p2s2w35</LM>
 </w.rf>
 <form>min</form>
-<tag lemma="minuta_:B" src="auto" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="minuta_:B" src="auto">NNFXX-----A---8</AM>
+<AM lemma="minuta" src="manual" selected="1">NNFXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-mf920923-050-p2s2w36">
 <src.rf>manual</src.rf>
@@ -519,7 +529,10 @@
 <LM>w#w-mf920923-050-p2s5w4</LM>
 </w.rf>
 <form>vede</form>
-<tag lemma="vést" src="auto" selected="1">VB-S---3P-AA---</tag>
+<tag>
+<AM lemma="vést" src="auto">VB-S---3P-AA---</AM>
+<AM lemma="vést_:T" src="manual" selected="1">VB-S---3P-AA---</AM>
+</tag>
 </m>
 <m id="m-mf920923-050-p2s5w5">
 <src.rf>manual</src.rf>
@@ -841,7 +854,10 @@
 <LM>w#w-mf920923-050-p2s6w35</LM>
 </w.rf>
 <form>min</form>
-<tag lemma="minuta_:B" src="auto" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="minuta_:B" src="auto">NNFXX-----A---8</AM>
+<AM lemma="minuta" src="manual" selected="1">NNFXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-mf920923-050-p2s6w36">
 <src.rf>manual</src.rf>
@@ -881,7 +897,10 @@
 <LM>w#w-mf920923-050-p2s6w40</LM>
 </w.rf>
 <form>T</form>
-<tag lemma="t-1`tuna_:B" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="t-1`tuna_:B" src="orig">NNFXX-----A---8</AM>
+<AM lemma="T-33_^(označení_pomocí_písmene)" src="manual" selected="1">NNNXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920923-050-p2s6w41">
 <src.rf>manual</src.rf>
@@ -985,7 +1004,10 @@
 <LM>w#w-mf920923-050-p2s6w53</LM>
 </w.rf>
 <form>min</form>
-<tag lemma="minuta_:B" src="auto" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="minuta_:B" src="auto">NNFXX-----A---8</AM>
+<AM lemma="minuta" src="manual" selected="1">NNFXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-mf920923-050-p2s6w54">
 <src.rf>manual</src.rf>

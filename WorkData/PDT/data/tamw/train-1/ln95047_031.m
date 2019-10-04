@@ -75,7 +75,11 @@
 <LM>w#w-ln95047-031-p1s1w8</LM>
 </w.rf>
 <form>HIV</form>
-<tag lemma="HIV_:B_;L_;U_^(lidský_virus_způsobující_AIDS)" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="HIV_:B_;L_;U_^(lidský_virus_způsobující_AIDS)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="HIV_:B_^(Human_Imunodeficiency_Virus)" src="manual">NNXXX-----A----</AM>
+<AM lemma="HIV_:B_;L_;U_^(lidský_virus_způsobující_AIDS)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 </s>
 <s id="m-ln95047-031-p2s1A">
@@ -199,7 +203,10 @@
 <LM>w#w-ln95047-031-p2s1Bw13</LM>
 </w.rf>
 <form>AIDS</form>
-<tag lemma="AIDS_:B_;U_,x_^(Syndrom_získaného_selhání_imunity)" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="AIDS_:B_;U_,x_^(Syndrom_získaného_selhání_imunity)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="AIDS_:B_;U_^(Syndrom_získaného_selhání_imunity)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95047-031-p2s1Bw14">
 <src.rf>manual</src.rf>
@@ -239,7 +246,10 @@
 <LM>w#w-ln95047-031-p2s1Bw18</LM>
 </w.rf>
 <form>HIV</form>
-<tag lemma="HIV_:B_;L_;U_^(lidský_virus_způsobující_AIDS)" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="HIV_:B_;L_;U_^(lidský_virus_způsobující_AIDS)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="HIV_:B_;L_;U_^(lidský_virus_způsobující_AIDS)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95047-031-p2s1Bw19">
 <src.rf>manual</src.rf>
@@ -725,7 +735,10 @@
 <LM>w#w-ln95047-031-p3s1w11</LM>
 </w.rf>
 <form>ABC</form>
-<tag lemma="ABC-4_:B_;K_^(Am._Broadcasting_Corp.;_TV_spol.)" src="auto" selected="1">NNNXX-----A---8</tag>
+<tag>
+<AM lemma="ABC-4_:B_;K_^(Am._Broadcasting_Corp.;_TV_spol.)" src="auto">NNNXX-----A---8</AM>
+<AM lemma="ABC-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95047-031-p3s1w12">
 <src.rf>manual</src.rf>
@@ -847,7 +860,10 @@
 <LM>w#w-ln95047-031-p3s2w9</LM>
 </w.rf>
 <form>Chicago</form>
-<tag lemma="Chicago_;G" src="orig" selected="1">NNNS1-----A----</tag>
+<tag>
+<AM lemma="Chicago_;G" src="orig">NNNS1-----A----</AM>
+<AM lemma="Chicago-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln95047-031-p3s2w10">
 <src.rf>manual</src.rf>
@@ -855,7 +871,10 @@
 <LM>w#w-ln95047-031-p3s2w10</LM>
 </w.rf>
 <form>Sun</form>
-<tag lemma="Sun_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="Sun_;K" src="orig">NNIS1-----A----</AM>
+<AM lemma="Sun-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln95047-031-p3s2w11">
 <src.rf>manual</src.rf>
@@ -871,7 +890,10 @@
 <LM>w#w-ln95047-031-p3s2w12</LM>
 </w.rf>
 <form>Times</form>
-<tag lemma="Times-1_;K_,t_^(souč._názvů,_např._The_Times)" src="orig" selected="1">NNIPX-----A----</tag>
+<tag>
+<AM lemma="Times-1_;K_,t_^(souč._názvů,_např._The_Times)" src="orig">NNIPX-----A----</AM>
+<AM lemma="Times-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln95047-031-p3s2w13">
 <src.rf>manual</src.rf>
@@ -961,7 +983,10 @@
 <LM>w#w-ln95047-031-p3s3w10</LM>
 </w.rf>
 <form>New</form>
-<tag lemma="New-1_;G_,t_^(součást_míst._jmen)" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="New-1_;G_,t_^(součást_míst._jmen)" src="orig">AAXXX----1A----</AM>
+<AM lemma="New-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln95047-031-p3s3w11">
 <src.rf>manual</src.rf>
@@ -1503,7 +1528,10 @@
 <LM>w#w-ln95047-031-p4s3w17</LM>
 </w.rf>
 <form>OH</form>
-<tag lemma="OH-2_:B_;w_^(Olympijské_hry)" src="orig" selected="1">NNFPX-----A---8</tag>
+<tag>
+<AM lemma="OH-2_:B_;w_^(Olympijské_hry)" src="orig">NNFPX-----A---8</AM>
+<AM lemma="OH-2_:B_^(Olympijské_hry)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95047-031-p4s3w18">
 <src.rf>manual</src.rf>
@@ -1879,7 +1907,10 @@
 <LM>w#w-ln95047-031-p4s7w6</LM>
 </w.rf>
 <form>chlor</form>
-<tag lemma="chlór" src="orig" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="chlór" src="orig">NNIS1-----A----</AM>
+<AM lemma="chlor_,s_^(^DD**chlór)" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95047-031-p4s7w7">
 <src.rf>manual</src.rf>
@@ -2036,7 +2067,7 @@
 <tag>
 <AM lemma="přece" src="orig">Db-------------</AM>
 <AM lemma="přece-1" src="auto" recommended="1">J^-------------</AM>
-<AM lemma="přece-2" src="auto">TT-------------</AM>
+<AM lemma="přece-2" src="auto" selected="1">TT-------------</AM>
 </tag>
 </m>
 <m id="m-ln95047-031-p4s8w14">
@@ -2199,7 +2230,11 @@
 <LM>w#w-ln95047-031-p4s9w6</LM>
 </w.rf>
 <form>Gary</form>
-<tag lemma="Gary_;S" src="auto" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Gary_;S" src="auto">NNMS1-----A----</AM>
+<AM lemma="Gary_;Y_;S" src="manual">NNMS1-----A----</AM>
+<AM lemma="Gary_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95047-031-p4s9w7">
 <src.rf>manual</src.rf>
@@ -2279,7 +2314,10 @@
 <LM>w#w-ln95047-031-p4s9w16</LM>
 </w.rf>
 <form>HIV</form>
-<tag lemma="HIV_:B_;L_;U_^(lidský_virus_způsobující_AIDS)" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="HIV_:B_;L_;U_^(lidský_virus_způsobující_AIDS)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="HIV_:B_;L_;U_^(lidský_virus_způsobující_AIDS)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95047-031-p4s9w17">
 <src.rf>manual</src.rf>
@@ -2638,7 +2676,7 @@
 <tag>
 <AM lemma="matka" src="orig">NNFS1-----A----</AM>
 <AM lemma="matka-1_^(malá_součástka)" src="auto" recommended="1">NNFS1-----A----</AM>
-<AM lemma="matka-2_^(maminka)" src="auto">NNFS1-----A----</AM>
+<AM lemma="matka-2_^(maminka)" src="auto" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95047-031-p5s2w11">
@@ -2753,7 +2791,10 @@
 <LM>w#w-ln95047-031-p5s3w11</LM>
 </w.rf>
 <form>El</form>
-<tag lemma="El_;K" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="El_;K" src="orig">AAXXX----1A----</AM>
+<AM lemma="El-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln95047-031-p5s3w12">
 <src.rf>manual</src.rf>
@@ -2761,7 +2802,10 @@
 <LM>w#w-ln95047-031-p5s3w12</LM>
 </w.rf>
 <form>Cajon</form>
-<tag lemma="Cajon_;G" src="orig" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="Cajon_;G" src="orig">NNIS1-----A----</AM>
+<AM lemma="Cajon-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln95047-031-p5s3w13">
 <src.rf>manual</src.rf>
@@ -3183,7 +3227,10 @@
 <LM>w#w-ln95047-031-p6s1w6</LM>
 </w.rf>
 <form>Leeho</form>
-<tag lemma="Lee_;Y" src="orig" selected="1">NNMS2-----A----</tag>
+<tag>
+<AM lemma="Lee_;Y" src="orig">NNMS2-----A----</AM>
+<AM lemma="Lee_;S_;Y" src="manual" selected="1">NNMS2-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95047-031-p6s1w7">
 <src.rf>manual</src.rf>
@@ -3319,7 +3366,10 @@
 <LM>w#w-ln95047-031-p6s1w23</LM>
 </w.rf>
 <form>r</form>
-<tag lemma="rok_:B" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="rok_:B" src="orig">NNIXX-----A---8</AM>
+<AM lemma="rok" src="manual" selected="1">NNIXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln95047-031-p6s1w24">
 <src.rf>manual</src.rf>
@@ -3459,7 +3509,10 @@
 <LM>w#w-ln95047-031-p6s3w2</LM>
 </w.rf>
 <form>Los</form>
-<tag lemma="Los-1_;G_,t_^(součást_cizích_jmen)" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="Los-1_;G_,t_^(součást_cizích_jmen)" src="orig">AAXXX----1A----</AM>
+<AM lemma="Los-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln95047-031-p6s3w3">
 <src.rf>manual</src.rf>
@@ -3467,7 +3520,10 @@
 <LM>w#w-ln95047-031-p6s3w3</LM>
 </w.rf>
 <form>Angeles</form>
-<tag lemma="Angeles_;G_,t" src="orig" selected="1">NNNXX-----A----</tag>
+<tag>
+<AM lemma="Angeles_;G_,t" src="orig">NNNXX-----A----</AM>
+<AM lemma="Angeles-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln95047-031-p6s3w4">
 <src.rf>manual</src.rf>
@@ -3572,6 +3628,9 @@
 <AM lemma="mimo-1_:B" src="auto">RR--4---------8</AM>
 <AM lemma="minuta_:B" src="auto">NNFXX-----A---8</AM>
 <AM lemma="město_:B" src="auto">NNNXX-----A---8</AM>
+<AM lemma="metrový_:B" src="manual">AAXXX----1A----8</AM>
+<AM lemma="metrový" src="manual">AAXXX----1A----</AM>
+<AM lemma="metrový" src="manual" selected="1">AAXXX----1A---8</AM>
 </tag>
 </m>
 <m id="m-ln95047-031-p6s3w16">
@@ -3625,6 +3684,7 @@
 <AM lemma="bod_:B" src="orig">NNIXX-----A---8</AM>
 <AM lemma="b-3_^(označení_pomocí_písmene)" src="auto" recommended="1">NNNXX-----A----</AM>
 <AM lemma="b-8_:B_^(ost._zkratka)" src="auto">XX------------8</AM>
+<AM lemma="bod" src="manual" selected="1">NNIXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-ln95047-031-p6s3w22">

@@ -661,7 +661,10 @@
 <LM>w#w-ln95045-029-p2s3w11</LM>
 </w.rf>
 <form>Craig</form>
-<tag lemma="Craig_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Craig_;S" src="orig">NNMS1-----A----</AM>
+<AM lemma="Craig_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95045-029-p2s3w12">
 <src.rf>manual</src.rf>

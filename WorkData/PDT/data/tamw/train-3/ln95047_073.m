@@ -491,7 +491,10 @@
 <LM>w#w-ln95047-073-p3s1w18</LM>
 </w.rf>
 <form>SLA</form>
-<tag lemma="SLA-1_:B_;K_,t_^(Slovak_League_of_America)" src="auto" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="SLA-1_:B_;K_,t_^(Slovak_League_of_America)" src="auto">NNFXX-----A---8</AM>
+<AM lemma="SLA-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95047-073-p3s1w19">
 <src.rf>manual</src.rf>
@@ -689,6 +692,8 @@
 <AM lemma="at_;m_,t" src="orig">TT-------------</AM>
 <AM lemma="at_,t" src="auto">XX-------------</AM>
 <AM lemma="atmosféra_:B_;H_;g_^(fyzik._jednotka)" src="auto" recommended="1">NNFXX-----A---8</AM>
+<AM lemma="at_,t" src="manual">RR--X----------</AM>
+<AM lemma="at-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-ln95047-073-p3s2w12">
@@ -1197,7 +1202,10 @@
 <LM>w#w-ln95047-073-p3s4w31</LM>
 </w.rf>
 <form>SLA</form>
-<tag lemma="SLA-1_:B_;K_,t_^(Slovak_League_of_America)" src="auto" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="SLA-1_:B_;K_,t_^(Slovak_League_of_America)" src="auto">NNFXX-----A---8</AM>
+<AM lemma="SLA-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95047-073-p3s4w32">
 <src.rf>manual</src.rf>
@@ -1353,7 +1361,10 @@
 <LM>w#w-ln95047-073-p3s6w8</LM>
 </w.rf>
 <form>Jicchak</form>
-<tag lemma="Jicchak_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Jicchak_;S" src="orig">NNMS1-----A----</AM>
+<AM lemma="Jicchak_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95047-073-p3s6w9">
 <src.rf>manual</src.rf>
@@ -1613,7 +1624,10 @@
 <LM>w#w-ln95047-073-p3s8w8</LM>
 </w.rf>
 <form>Mardž</form>
-<tag lemma="Mardž_;G" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="Mardž_;G" src="orig">AAXXX----1A----</AM>
+<AM lemma="Mardž-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln95047-073-p3s8w9">
 <src.rf>manual</src.rf>
@@ -1669,7 +1683,10 @@
 <LM>w#w-ln95047-073-p3s8w15</LM>
 </w.rf>
 <form>SLA</form>
-<tag lemma="SLA-1_:B_;K_,t_^(Slovak_League_of_America)" src="auto" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="SLA-1_:B_;K_,t_^(Slovak_League_of_America)" src="auto">NNFXX-----A---8</AM>
+<AM lemma="SLA-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95047-073-p3s8w16">
 <src.rf>manual</src.rf>
@@ -2189,7 +2206,10 @@
 <LM>w#w-ln95047-073-p3s12w5</LM>
 </w.rf>
 <form>OSN</form>
-<tag lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95047-073-p3s12w6">
 <src.rf>manual</src.rf>

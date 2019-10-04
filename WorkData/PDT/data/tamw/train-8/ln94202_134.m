@@ -56,6 +56,7 @@
 <tag>
 <AM lemma="USA_;G" src="orig">NNIPX-----A----</AM>
 <AM lemma="USA_:B_;K_,t_^(United_States_of_America)" src="auto" recommended="1">NNIPX-----A---8</AM>
+<AM lemma="USA_:B_;K_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94202-134-p2s1w5">
@@ -282,7 +283,10 @@
 <LM>w#w-ln94202-134-p2s2w12</LM>
 </w.rf>
 <form>HDP</form>
-<tag lemma="HDP_:B_^(hrubý_domácí_produkt)" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="HDP_:B_^(hrubý_domácí_produkt)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="HDP_:B_^(hrubý_domácí_produkt)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94202-134-p2s2w13">
 <src.rf>manual</src.rf>
@@ -502,7 +506,10 @@
 <LM>w#w-ln94202-134-p3s1w16</LM>
 </w.rf>
 <form>Mercosur</form>
-<tag lemma="Mercosur_;K_,t" src="orig" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="Mercosur_;K_,t" src="orig">NNIS1-----A----</AM>
+<AM lemma="Mercosur-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln94202-134-p3s1w17">
 <src.rf>manual</src.rf>
@@ -794,7 +801,10 @@
 <LM>w#w-ln94202-134-p4s1w2</LM>
 </w.rf>
 <form>Digital</form>
-<tag lemma="Digital_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="Digital_;K" src="orig">NNIS1-----A----</AM>
+<AM lemma="Digital-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94202-134-p4s1w3">
 <src.rf>manual</src.rf>
@@ -802,7 +812,10 @@
 <LM>w#w-ln94202-134-p4s1w3</LM>
 </w.rf>
 <form>Equipment</form>
-<tag lemma="Equipment_;K_,t" src="orig" selected="1">NNIXX-----A----</tag>
+<tag>
+<AM lemma="Equipment_;K_,t" src="orig">NNIXX-----A----</AM>
+<AM lemma="Equipment-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94202-134-p4s1w4">
 <src.rf>manual</src.rf>
@@ -810,7 +823,10 @@
 <LM>w#w-ln94202-134-p4s1w4</LM>
 </w.rf>
 <form>Corp</form>
-<tag lemma="Corporation_:B_;K_,t_^(přev._v_názvech_cizích_firem)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="Corporation_:B_;K_,t_^(přev._v_názvech_cizích_firem)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="Corporation-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94202-134-p4s1w5">
 <src.rf>manual</src.rf>
@@ -898,7 +914,10 @@
 <LM>w#w-ln94202-134-p4s1w15</LM>
 </w.rf>
 <form>Intel</form>
-<tag lemma="Intel_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="Intel_;K" src="orig">NNIS1-----A----</AM>
+<AM lemma="Intel_;K_;R" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94202-134-p4s1w16">
 <src.rf>manual</src.rf>
@@ -922,7 +941,10 @@
 <LM>w#w-ln94202-134-p4s1w18</LM>
 </w.rf>
 <form>Pentium</form>
-<tag lemma="pentium" src="orig" selected="1">NNNS1-----A----</tag>
+<tag>
+<AM lemma="pentium" src="orig">NNNS1-----A----</AM>
+<AM lemma="Pentium_;R" src="manual" selected="1">NNNS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94202-134-p4s1w19">
 <src.rf>manual</src.rf>

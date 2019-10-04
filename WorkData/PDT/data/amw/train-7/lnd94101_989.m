@@ -51,7 +51,10 @@
 <LM>w#w-lnd94101-989-p1s1w5</LM>
 </w.rf>
 <form>B</form>
-<tag lemma="b-3_^(označení_pomocí_písmene)" src="orig" selected="1">NNNXX-----A----</tag>
+<tag>
+<AM lemma="b-3_^(označení_pomocí_písmene)" src="orig">NNNXX-----A----</AM>
+<AM lemma="B-33_^(označení_pomocí_písmene)" src="manual" selected="1">NNNXX-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd94101-989-p1s1w6">
 <src.rf>manual</src.rf>
@@ -335,7 +338,10 @@
 <LM>w#w-lnd94101-989-p1s3w3</LM>
 </w.rf>
 <form>A</form>
-<tag lemma="a-1" src="orig" selected="1">J^-------------</tag>
+<tag>
+<AM lemma="a-1" src="orig">J^-------------</AM>
+<AM lemma="A-33_^(označení_pomocí_písmene)" src="manual" selected="1">NNNXX-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd94101-989-p1s3w4">
 <src.rf>manual</src.rf>
@@ -579,7 +585,10 @@
 <LM>w#w-lnd94101-989-p1s11Bw5</LM>
 </w.rf>
 <form>Kan</form>
-<tag lemma="Kano_;G" src="orig" selected="1">NNNP2-----A----</tag>
+<tag>
+<AM lemma="Kano_;G" src="orig">NNNP2-----A----</AM>
+<AM lemma="Kanada_;G" src="manual" selected="1">NNFXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd94101-989-p1s11Bw6">
 <src.rf>manual</src.rf>
@@ -651,7 +660,10 @@
 <LM>w#w-lnd94101-989-p1s11Bw14</LM>
 </w.rf>
 <form>Rus</form>
-<tag lemma="Rusko_:B_;G" src="orig" selected="1">NNNXX-----A---8</tag>
+<tag>
+<AM lemma="Rusko_:B_;G" src="orig">NNNXX-----A---8</AM>
+<AM lemma="Rusko_;G" src="manual" selected="1">NNNXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd94101-989-p1s11Bw15">
 <src.rf>manual</src.rf>

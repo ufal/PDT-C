@@ -101,7 +101,10 @@
 <LM>w#w-ln95047-125-p2s1Aw7</LM>
 </w.rf>
 <form>PC</form>
-<tag lemma="PC-1_:B_;R_^(personal_computer,_osobní_počítač)" src="orig" selected="1">NNNXX-----A---8</tag>
+<tag>
+<AM lemma="PC-1_:B_;R_^(personal_computer,_osobní_počítač)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="PC-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95047-125-p2s1Aw8">
 <src.rf>manual</src.rf>
@@ -300,7 +303,10 @@
 <LM>w#w-ln95047-125-p2s1Dw18</LM>
 </w.rf>
 <form>Digital</form>
-<tag lemma="Digital_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="Digital_;K" src="orig">NNIS1-----A----</AM>
+<AM lemma="Digital-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln95047-125-p2s1Dw19">
 <src.rf>manual</src.rf>
@@ -308,7 +314,10 @@
 <LM>w#w-ln95047-125-p2s1Dw19</LM>
 </w.rf>
 <form>Equipment</form>
-<tag lemma="Equipment_;K_,t" src="orig" selected="1">NNIXX-----A----</tag>
+<tag>
+<AM lemma="Equipment_;K_,t" src="orig">NNIXX-----A----</AM>
+<AM lemma="Equipment-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln95047-125-p2s1Dw20">
 <src.rf>manual</src.rf>
@@ -316,7 +325,10 @@
 <LM>w#w-ln95047-125-p2s1Dw20</LM>
 </w.rf>
 <form>Corporation</form>
-<tag lemma="Corporation_;K_,t_^(přev._v_názvech_cizích_firem)" src="orig" selected="1">NNFXX-----A----</tag>
+<tag>
+<AM lemma="Corporation_;K_,t_^(přev._v_názvech_cizích_firem)" src="orig">NNFXX-----A----</AM>
+<AM lemma="Corporation-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln95047-125-p2s1Dw21">
 <src.rf>manual</src.rf>
@@ -375,6 +387,7 @@
 <tag>
 <AM lemma="USA_;G" src="orig">NNIPX-----A----</AM>
 <AM lemma="USA_:B_;K_,t_^(United_States_of_America)" src="auto" recommended="1">NNIPX-----A---8</AM>
+<AM lemma="USA_:B_;K_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-ln95047-125-p2s1Dw28">
@@ -441,7 +454,10 @@
 <LM>w#w-ln95047-125-p3s1w7</LM>
 </w.rf>
 <form>XL</form>
-<tag lemma="XL-3`40" src="orig" selected="1">C}-------------</tag>
+<tag>
+<AM lemma="XL-3`40" src="orig">C}-------------</AM>
+<AM lemma="XL-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95047-125-p3s1w8">
 <src.rf>manual</src.rf>
@@ -469,7 +485,7 @@
 <form>totiž</form>
 <tag>
 <AM lemma="totiž" src="orig">Db-------------</AM>
-<AM lemma="totiž-1" src="auto" recommended="1">J^-------------</AM>
+<AM lemma="totiž-1" src="auto" recommended="1" selected="1">J^-------------</AM>
 <AM lemma="totiž-2" src="auto">TT-------------</AM>
 </tag>
 </m>
@@ -779,7 +795,10 @@
 <LM>w#w-ln95047-125-p3s4w4</LM>
 </w.rf>
 <form>Prioris</form>
-<tag lemma="Prioris_;R_,t" src="orig" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="Prioris_;R_,t" src="orig">NNIS1-----A----</AM>
+<AM lemma="Prioris_;R" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95047-125-p3s4w5">
 <src.rf>manual</src.rf>
@@ -787,7 +806,10 @@
 <LM>w#w-ln95047-125-p3s4w5</LM>
 </w.rf>
 <form>XL</form>
-<tag lemma="XL-3`40" src="orig" selected="1">C}-------------</tag>
+<tag>
+<AM lemma="XL-3`40" src="orig">C}-------------</AM>
+<AM lemma="XL-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95047-125-p3s4w6">
 <src.rf>manual</src.rf>
@@ -1111,7 +1133,10 @@
 <LM>w#w-ln95047-125-p4s1w15</LM>
 </w.rf>
 <form>HiNote</form>
-<tag lemma="HiNote_;R_,t" src="orig" selected="1">NNIXX-----A----</tag>
+<tag>
+<AM lemma="HiNote_;R_,t" src="orig">NNIXX-----A----</AM>
+<AM lemma="HiNote_;R" src="manual" selected="1">NNIXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95047-125-p4s1w16">
 <src.rf>manual</src.rf>
@@ -1121,7 +1146,7 @@
 <form>Ultra</form>
 <tag>
 <AM lemma="Ultra_;R_,t" src="orig">AAXXX----1A----</AM>
-<AM lemma="ultra" src="auto" recommended="1">AAXXX----1A----</AM>
+<AM lemma="ultra" src="auto" recommended="1" selected="1">AAXXX----1A----</AM>
 <AM lemma="ultra_,h_,s" src="auto">A2--------A----</AM>
 </tag>
 </m>
@@ -1312,7 +1337,10 @@
 <LM>w#w-ln95047-125-p4s3w10</LM>
 </w.rf>
 <form>kg</form>
-<tag lemma="kg-1`kilogram_:B" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="kg-1`kilogram_:B" src="orig">NNIXX-----A---8</AM>
+<AM lemma="kilogram" src="manual" selected="1">NNIXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln95047-125-p4s3w11">
 <src.rf>manual</src.rf>
@@ -1694,7 +1722,10 @@
 <LM>w#w-ln95047-125-p6s1w7</LM>
 </w.rf>
 <form>začala</form>
-<tag lemma="začít-1_^(začnout)" src="auto" selected="1">VpQW---XR-AA---</tag>
+<tag>
+<AM lemma="začít-1_^(začnout)" src="auto">VpQW---XR-AA---</AM>
+<AM lemma="začít-1_:W_^(začnout)" src="manual" selected="1">VpQW---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-ln95047-125-p6s1w8">
 <src.rf>manual</src.rf>

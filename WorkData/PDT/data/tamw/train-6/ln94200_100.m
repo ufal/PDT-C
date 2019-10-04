@@ -90,6 +90,8 @@
 <tag>
 <AM lemma="Motýl_;S" src="orig">NNMS1-----A----</AM>
 <AM lemma="motýl" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Motýl-1_;S" src="manual">NNMS1-----A----</AM>
+<AM lemma="Motýl_;S" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 </s>
@@ -236,7 +238,10 @@
 <LM>w#w-ln94200-100-p2s1w21</LM>
 </w.rf>
 <form>ČTK</form>
-<tag lemma="ČTK-1_:B_;K_^(Čs./Česká_tisková_kancelář)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ČTK-1_:B_;K_^(Čs./Česká_tisková_kancelář)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČTK_:B_;K_^(Čs./Česká_tisková_kancelář)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94200-100-p2s1w22">
 <src.rf>manual</src.rf>
@@ -826,7 +831,10 @@
 <LM>w#w-ln94200-100-p2s4w6</LM>
 </w.rf>
 <form>strany</form>
-<tag lemma="strana-3_^(u_soudu,_na_úřadě,_smluvní_strany;_na_něčí_straně)" src="orig" selected="1">NNFS2-----A----</tag>
+<tag>
+<AM lemma="strana-3_^(u_soudu,_na_úřadě,_smluvní_strany;_na_něčí_straně)" src="orig">NNFS2-----A----</AM>
+<AM lemma="strana" src="manual" selected="1">NNFS2-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94200-100-p2s4w7">
 <src.rf>manual</src.rf>
@@ -1052,7 +1060,10 @@
 <LM>w#w-ln94200-100-p2s5w17</LM>
 </w.rf>
 <form>GSR</form>
-<tag lemma="GSR_:B_;K" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="GSR_:B_;K" src="orig">NNXXX-----A---8</AM>
+<AM lemma="GSR-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94200-100-p2s5w18">
 <src.rf>manual</src.rf>
@@ -1399,7 +1410,10 @@
 <LM>w#w-ln94200-100-p2s6w14</LM>
 </w.rf>
 <form>jen</form>
-<tag lemma="jen-1" src="auto" selected="1">TT-------------</tag>
+<tag>
+<AM lemma="jen-1" src="auto">TT-------------</AM>
+<AM lemma="jen-4_^(pouze)" src="manual" selected="1">Db-------------</AM>
+</tag>
 </m>
 <m id="m-ln94200-100-p2s6w15">
 <src.rf>manual</src.rf>
@@ -1933,7 +1947,10 @@
 <LM>w#w-ln94200-100-p2s9w6</LM>
 </w.rf>
 <form>GSR</form>
-<tag lemma="GSR_:B_;K" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="GSR_:B_;K" src="orig">NNXXX-----A---8</AM>
+<AM lemma="GSR-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94200-100-p2s9w7">
 <src.rf>manual</src.rf>
@@ -2364,6 +2381,7 @@
 <tag>
 <AM lemma="cash_,t" src="orig">AAXXX----1A----</AM>
 <AM lemma="cash_;b_,t" src="auto" recommended="1">NNFXX-----A----</AM>
+<AM lemma="cash-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-ln94200-100-p2s11w17">
@@ -2372,7 +2390,10 @@
 <LM>w#w-ln94200-100-p2s11w17</LM>
 </w.rf>
 <form>flow</form>
-<tag lemma="flow" src="orig" selected="1">NNFXX-----A----</tag>
+<tag>
+<AM lemma="flow" src="orig">NNFXX-----A----</AM>
+<AM lemma="flow-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94200-100-p2s11w18">
 <src.rf>manual</src.rf>

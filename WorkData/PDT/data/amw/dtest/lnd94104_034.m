@@ -483,7 +483,10 @@
 <LM>w#w-lnd94104-034-p1s4w11</LM>
 </w.rf>
 <form>OOP</form>
-<tag lemma="OOP-1_:B_;K_;p_^(Org._pro_osvobození_Palestiny)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="OOP-1_:B_;K_;p_^(Org._pro_osvobození_Palestiny)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="OOP-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd94104-034-p1s4w12">
 <src.rf>manual</src.rf>
@@ -723,7 +726,10 @@
 <LM>w#w-lnd94104-034-p1s4w41</LM>
 </w.rf>
 <form>nenávidí</form>
-<tag lemma="nenávidět" src="orig" selected="1">VB-P---3P-AA--1</tag>
+<tag>
+<AM lemma="nenávidět" src="orig">VB-P---3P-AA--1</AM>
+<AM lemma="nenávidět_:T" src="manual" selected="1">VB-P---3P-AA--1</AM>
+</tag>
 </m>
 <m id="m-lnd94104-034-p1s4w42">
 <src.rf>manual</src.rf>
@@ -800,6 +806,7 @@
 <tag>
 <AM lemma="USA_;G" src="orig">NNIPX-----A----</AM>
 <AM lemma="USA_:B_;K_,t_^(United_States_of_America)" src="auto" recommended="1">NNIPX-----A---8</AM>
+<AM lemma="USA_:B_;K_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94104-034-p1s5w9">
@@ -1154,7 +1161,10 @@
 <LM>w#w-lnd94104-034-p1s6w3</LM>
 </w.rf>
 <form>sejdou</form>
-<tag lemma="sejít" src="orig" selected="1">VB-P---3P-AA---</tag>
+<tag>
+<AM lemma="sejít" src="orig">VB-P---3P-AA---</AM>
+<AM lemma="sejít_:W" src="manual" selected="1">VB-P---3P-AA---</AM>
+</tag>
 </m>
 <m id="m-lnd94104-034-p1s6w4">
 <src.rf>manual</src.rf>
@@ -2308,7 +2318,10 @@
 <LM>w#w-lnd94104-034-p1s15w11</LM>
 </w.rf>
 <form>OOP</form>
-<tag lemma="OOP-1_:B_;K_;p_^(Org._pro_osvobození_Palestiny)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="OOP-1_:B_;K_;p_^(Org._pro_osvobození_Palestiny)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="OOP-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd94104-034-p1s15w12">
 <src.rf>manual</src.rf>
@@ -2568,7 +2581,10 @@
 <LM>w#w-lnd94104-034-p1s17w5</LM>
 </w.rf>
 <form>AFP</form>
-<tag lemma="AFP_:B_;K" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="AFP_:B_;K" src="orig">NNIXX-----A---8</AM>
+<AM lemma="AFP-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd94104-034-p1s17w6">
 <src.rf>manual</src.rf>

@@ -240,7 +240,7 @@
 <AM lemma="Vachalovský_;S" src="auto">NNMP1-----A---6</AM>
 <AM lemma="Vachalovský_;S" src="auto">NNMP4-----A---6</AM>
 <AM lemma="Vachalovský_;S" src="auto">NNMP5-----A---6</AM>
-<AM lemma="Vachalovský_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Vachalovský_;S" src="auto" recommended="1" selected="1">NNMS1-----A----</AM>
 <AM lemma="Vachalovský_;S" src="auto">NNMS5-----A----</AM>
 <AM lemma="Vachalovská_;S" src="auto">NNFP1-----A---6</AM>
 <AM lemma="Vachalovská_;S" src="auto">NNFP4-----A---6</AM>
@@ -1876,7 +1876,10 @@
 <LM>w#w-ln95041-070-p5s5w1</LM>
 </w.rf>
 <form>P</form>
-<tag lemma="P-0_:B_;Y" src="orig" selected="1">NNMXX-----A---8</tag>
+<tag>
+<AM lemma="P-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
+<AM lemma="P-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln95041-070-p5s5w2">
 <src.rf>manual</src.rf>

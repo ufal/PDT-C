@@ -35,7 +35,10 @@
 <LM>w#w-ln94211-60-p1s1w3</LM>
 </w.rf>
 <form>zemřeli</form>
-<tag lemma="zemřít" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag>
+<AM lemma="zemřít" src="orig">VpMP---XR-AA---</AM>
+<AM lemma="zemřít_:W" src="manual" selected="1">VpMP---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-ln94211-60-p1s1w4">
 <src.rf>manual</src.rf>
@@ -77,7 +80,10 @@
 <LM>w#w-ln94211-60-p2s1Aw3</LM>
 </w.rf>
 <form>vet</form>
-<tag lemma="vet-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="vet-99_:B_;S" src="orig">NNXXX-----A---8</AM>
+<AM lemma="vet-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94211-60-p2s1Aw4">
 <src.rf>manual</src.rf>
@@ -218,7 +224,7 @@
 <tag>
 <AM lemma="sokolovsko_;G" src="orig">NNNS6-----A----</AM>
 <AM lemma="Sokolovsko_;G" src="auto">NNNS3-----A----</AM>
-<AM lemma="Sokolovsko_;G" src="auto" recommended="1">NNNS6-----A----</AM>
+<AM lemma="Sokolovsko_;G" src="auto" recommended="1" selected="1">NNNS6-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94211-60-p2s1Bw16">
@@ -343,7 +349,10 @@
 <LM>w#w-ln94211-60-p2s3w3</LM>
 </w.rf>
 <form>stala</form>
-<tag lemma="stát-2_^(něco_se_přihodilo)" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag>
+<AM lemma="stát-2_^(něco_se_přihodilo)" src="orig">VpQW---XR-AA---</AM>
+<AM lemma="stát-2_:W_^(něco_se_přihodilo)" src="manual" selected="1">VpQW---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-ln94211-60-p2s3w4">
 <src.rf>manual</src.rf>
@@ -617,7 +626,10 @@
 <LM>w#w-ln94211-60-p2s4w27</LM>
 </w.rf>
 <form>nepomohl</form>
-<tag lemma="pomoci" src="orig" selected="1">VpYS---XR-NA---</tag>
+<tag>
+<AM lemma="pomoci" src="orig">VpYS---XR-NA---</AM>
+<AM lemma="pomoci_:W" src="manual" selected="1">VpYS---XR-NA---</AM>
+</tag>
 </m>
 <m id="m-ln94211-60-p2s4w28">
 <src.rf>manual</src.rf>
@@ -778,7 +790,7 @@
 <AM lemma="Matek_;S" src="auto">NNMS2-----A----</AM>
 <AM lemma="Matek_;S" src="auto">NNMS4-----A----</AM>
 <AM lemma="matka-1_^(malá_součástka)" src="auto">NNFS1-----A----</AM>
-<AM lemma="matka-2_^(maminka)" src="auto" recommended="1">NNFS1-----A----</AM>
+<AM lemma="matka-2_^(maminka)" src="auto" recommended="1" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94211-60-p2s6w2">

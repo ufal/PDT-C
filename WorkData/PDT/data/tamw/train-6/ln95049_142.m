@@ -61,7 +61,10 @@
 <LM>w#w-ln95049-142-p2s1w2</LM>
 </w.rf>
 <form>Klaus</form>
-<tag lemma="Klaus_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Klaus_;S" src="orig">NNMS1-----A----</AM>
+<AM lemma="Klaus_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95049-142-p2s1w3">
 <src.rf>manual</src.rf>
@@ -171,6 +174,9 @@
 <AM lemma="Management_;K_,t" src="orig">AAXXX----1A----</AM>
 <AM lemma="management_,t_^(vedení,_manažment;_angl.)" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="management_,t_^(vedení,_manažment;_angl.)" src="auto">NNIS4-----A----</AM>
+<AM lemma="management-2_,t" src="manual">NNXXX-----A----</AM>
+<AM lemma="management_,t_^(vedení,_manažment;_angl.)" src="manual">NNXXX-----A----</AM>
+<AM lemma="Management-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-ln95049-142-p2s2w8">
@@ -179,7 +185,10 @@
 <LM>w#w-ln95049-142-p2s2w8</LM>
 </w.rf>
 <form>Press</form>
-<tag lemma="Press-1_;K_,t_^(souč._názvů,_např._tisk._agentur)" src="orig" selected="1">NNIXX-----A----</tag>
+<tag>
+<AM lemma="Press-1_;K_,t_^(souč._názvů,_např._tisk._agentur)" src="orig">NNIXX-----A----</AM>
+<AM lemma="Press-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln95049-142-p2s2w9">
 <src.rf>manual</src.rf>
@@ -203,7 +212,10 @@
 <LM>w#w-ln95049-142-p2s2w11</LM>
 </w.rf>
 <form>str</form>
-<tag lemma="strana-4_:B" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="strana-4_:B" src="orig">NNFXX-----A---8</AM>
+<AM lemma="strana" src="manual" selected="1">NNFXX-----A---9</AM>
+</tag>
 </m>
 <m id="m-ln95049-142-p2s2w12">
 <src.rf>manual</src.rf>
@@ -941,7 +953,10 @@
 <LM>w#w-ln95049-142-p2s7w1</LM>
 </w.rf>
 <form>Christof</form>
-<tag lemma="Christof_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Christof_;S" src="orig">NNMS1-----A----</AM>
+<AM lemma="Christof_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95049-142-p2s7w2">
 <src.rf>manual</src.rf>
@@ -992,6 +1007,9 @@
 <tag>
 <AM lemma="Victoria_;K_,t" src="orig">AAXXX----1A----</AM>
 <AM lemma="Victoria-1_;Y" src="auto" recommended="1">NNFS1-----A---1</AM>
+<AM lemma="victoria_,t" src="manual">NNXXX-----A----</AM>
+<AM lemma="Victoria-1_;Y_,t" src="manual">NNXXX-----A---1</AM>
+<AM lemma="Victoria-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-ln95049-142-p2s7w8">
@@ -1000,7 +1018,11 @@
 <LM>w#w-ln95049-142-p2s7w8</LM>
 </w.rf>
 <form>Publishing</form>
-<tag lemma="Publishing_;K_,t" src="orig" selected="1">NNNXX-----A----</tag>
+<tag>
+<AM lemma="Publishing_;K_,t" src="orig">NNNXX-----A----</AM>
+<AM lemma="publishing_,t" src="manual">NNXXX-----A----</AM>
+<AM lemma="Publishing-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln95049-142-p2s7w9">
 <src.rf>manual</src.rf>
@@ -1024,7 +1046,10 @@
 <LM>w#w-ln95049-142-p2s7w11</LM>
 </w.rf>
 <form>str</form>
-<tag lemma="strana-4_:B" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="strana-4_:B" src="orig">NNFXX-----A---8</AM>
+<AM lemma="strana" src="manual" selected="1">NNFXX-----A---9</AM>
+</tag>
 </m>
 <m id="m-ln95049-142-p2s7w12">
 <src.rf>manual</src.rf>
@@ -1255,7 +1280,7 @@
 <tag>
 <AM lemma="tedy" src="orig">Db-------------</AM>
 <AM lemma="tedy-1" src="auto">TT-------------</AM>
-<AM lemma="tedy-2" src="auto" recommended="1">J^-------------</AM>
+<AM lemma="tedy-2" src="auto" recommended="1" selected="1">J^-------------</AM>
 </tag>
 </m>
 <m id="m-ln95049-142-p2s9w3">
@@ -1714,7 +1739,10 @@
 <LM>w#w-ln95049-142-p2s10w20</LM>
 </w.rf>
 <form>Quelle</form>
-<tag lemma="Quelle_;K_,t_^(něm._zasílatelská_obch._společnost)" src="orig" selected="1">NNNXX-----A----</tag>
+<tag>
+<AM lemma="Quelle_;K_,t_^(něm._zasílatelská_obch._společnost)" src="orig">NNNXX-----A----</AM>
+<AM lemma="Quelle_;K_^(něm._zasílatelská_obch._společnost)" src="manual" selected="1">NNNXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95049-142-p2s10w21">
 <src.rf>manual</src.rf>
@@ -1912,7 +1940,7 @@
 <form>přičemž</form>
 <tag>
 <AM lemma="přičemž" src="orig">J,-------------</AM>
-<AM lemma="přičemž" src="auto" recommended="1">Db-------------</AM>
+<AM lemma="přičemž" src="auto" recommended="1" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m-ln95049-142-p2s12w6">

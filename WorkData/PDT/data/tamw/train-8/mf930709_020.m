@@ -587,6 +587,7 @@
 <tag>
 <AM lemma="mikroorganizmus" src="orig">NNIP3-----A---1</AM>
 <AM lemma="mikroorganismus" src="auto" recommended="1">NNIP3-----A----</AM>
+<AM lemma="mikroorganismus_,s_^(^DD**mikroorganizmus)" src="manual" selected="1">NNIP3-----A---1</AM>
 </tag>
 </m>
 <m id="m-mf930709-020-p2s4Aw14">
@@ -1051,7 +1052,10 @@
 <LM>w#w-mf930709-020-p2s7w7</LM>
 </w.rf>
 <form>PVC</form>
-<tag lemma="PVC_:B" src="auto" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="PVC_:B" src="auto">NNXXX-----A---8</AM>
+<AM lemma="PVC-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-mf930709-020-p2s7w8">
 <src.rf>manual</src.rf>
@@ -1336,7 +1340,10 @@
 <LM>w#w-mf930709-020-p2s9w14</LM>
 </w.rf>
 <form>začalo</form>
-<tag lemma="začít-1_^(začnout)" src="auto" selected="1">VpNS---XR-AA---</tag>
+<tag>
+<AM lemma="začít-1_^(začnout)" src="auto">VpNS---XR-AA---</AM>
+<AM lemma="začít-1_:W_^(začnout)" src="manual" selected="1">VpNS---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-mf930709-020-p2s9w15">
 <src.rf>manual</src.rf>
@@ -1360,7 +1367,10 @@
 <LM>w#w-mf930709-020-p2s9w17</LM>
 </w.rf>
 <form>stavět</form>
-<tag lemma="stavět" src="auto" selected="1">Vf--------A----</tag>
+<tag>
+<AM lemma="stavět" src="auto">Vf--------A----</AM>
+<AM lemma="stavět_:T" src="manual" selected="1">Vf--------A----</AM>
+</tag>
 </m>
 <m id="m-mf930709-020-p2s9w18">
 <src.rf>manual</src.rf>
@@ -1652,7 +1662,10 @@
 <LM>w#w-mf930709-020-p2s11w5</LM>
 </w.rf>
 <form>uprostřed</form>
-<tag lemma="uprostřed-1" src="auto" selected="1">Db-------------</tag>
+<tag>
+<AM lemma="uprostřed-1" src="auto">Db-------------</AM>
+<AM lemma="uprostřed-2" src="manual" selected="1">RR--2----------</AM>
+</tag>
 </m>
 <m id="m-mf930709-020-p2s11w6">
 <src.rf>manual</src.rf>

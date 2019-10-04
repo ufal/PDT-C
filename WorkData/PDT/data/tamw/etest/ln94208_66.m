@@ -19,7 +19,11 @@
 <LM>w#w-ln94208-66-p1s1w1</LM>
 </w.rf>
 <form>Al</form>
-<tag lemma="Al-3_;Y_^(Al_Gore_apod._jm.)" src="orig" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Al-3_;Y_^(Al_Gore_apod._jm.)" src="orig" selected="1">NNMS1-----A----</AM>
+<AM lemma="Al-88_:B" src="manual">NNXXX-----A----</AM>
+<AM lemma="Al-77" src="manual">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94208-66-p1s1w2">
 <src.rf>manual</src.rf>
@@ -51,7 +55,10 @@
 <LM>w#w-ln94208-66-p1s1w5</LM>
 </w.rf>
 <form>OSN</form>
-<tag lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 </s>
 <s id="m-ln94208-66-p2s1A">
@@ -327,7 +334,10 @@
 <LM>w#w-ln94208-66-p2s1Bw32</LM>
 </w.rf>
 <form>OSN</form>
-<tag lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94208-66-p2s1Bw33">
 <src.rf>manual</src.rf>
@@ -427,7 +437,7 @@
 <form>naleznou</form>
 <tag>
 <AM lemma="naleznout" src="orig">VB-P---3P-AA---</AM>
-<AM lemma="nalézt-2" src="auto" recommended="1">VB-P---3P-AA---</AM>
+<AM lemma="nalézt-2" src="auto" recommended="1" selected="1">VB-P---3P-AA---</AM>
 </tag>
 </m>
 <m id="m-ln94208-66-p2s2w8">

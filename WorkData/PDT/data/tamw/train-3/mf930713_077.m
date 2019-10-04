@@ -37,7 +37,7 @@
 <form>zasáhlo</form>
 <tag>
 <AM lemma="zasáhnout" src="orig">VpNS---XR-AA---</AM>
-<AM lemma="zasáhnout_:W" src="auto" recommended="1">VpNS---XR-AA--1</AM>
+<AM lemma="zasáhnout_:W" src="auto" recommended="1" selected="1">VpNS---XR-AA--1</AM>
 </tag>
 </m>
 <m id="m-mf930713-077-p1s1w4">
@@ -58,7 +58,7 @@
 <form>Tokio</form>
 <tag>
 <AM lemma="Tokyo_;G" src="orig">NNNS1-----A----</AM>
-<AM lemma="Tokio_;G" src="auto" recommended="1">NNNS1-----A----</AM>
+<AM lemma="Tokio_;G" src="auto" recommended="1" selected="1">NNNS1-----A----</AM>
 <AM lemma="Tokio_;G" src="auto">NNNS4-----A----</AM>
 <AM lemma="Tokio_;G" src="auto">NNNS5-----A----</AM>
 </tag>
@@ -146,7 +146,7 @@
 <form>zasáhlo</form>
 <tag>
 <AM lemma="zasáhnout" src="orig">VpNS---XR-AA---</AM>
-<AM lemma="zasáhnout_:W" src="auto" recommended="1">VpNS---XR-AA--1</AM>
+<AM lemma="zasáhnout_:W" src="auto" recommended="1" selected="1">VpNS---XR-AA--1</AM>
 </tag>
 </m>
 <m id="m-mf930713-077-p2s1Bw10">
@@ -428,7 +428,7 @@
 <AM lemma="Tokio_;G" src="auto">NNNP1-----A----</AM>
 <AM lemma="Tokio_;G" src="auto">NNNP4-----A----</AM>
 <AM lemma="Tokio_;G" src="auto">NNNP5-----A----</AM>
-<AM lemma="Tokio_;G" src="auto" recommended="1">NNNS2-----A----</AM>
+<AM lemma="Tokio_;G" src="auto" recommended="1" selected="1">NNNS2-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930713-077-p2s3w18">
@@ -471,7 +471,10 @@
 <LM>w#w-mf930713-077-p3s1w4</LM>
 </w.rf>
 <form>NHK</form>
-<tag lemma="NHK-1_:B_;K_,t_^(Nippon_Hoso_Kyokai)" src="orig" selected="1">NNNXX-----A---8</tag>
+<tag>
+<AM lemma="NHK-1_:B_;K_,t_^(Nippon_Hoso_Kyokai)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="NHK-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930713-077-p3s1w5">
 <src.rf>manual</src.rf>

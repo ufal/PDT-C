@@ -19,7 +19,10 @@
 <LM>w#w-lnd94104-005-p1s1w1</LM>
 </w.rf>
 <form>Zelení</form>
-<tag lemma="zelený" src="orig" selected="1">AAMP1----1A----</tag>
+<tag>
+<AM lemma="zelený" src="orig">AAMP1----1A----</AM>
+<AM lemma="zelený_;o" src="manual" selected="1">AAMP1----1A----</AM>
+</tag>
 </m>
 <m id="m-lnd94104-005-p1s1w2">
 <src.rf>manual</src.rf>
@@ -77,7 +80,10 @@
 <LM>w#w-lnd94104-005-p1s2w3</LM>
 </w.rf>
 <form>haš</form>
-<tag lemma="haš-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="haš-99_:B_;S" src="orig">NNXXX-----A---8</AM>
+<AM lemma="haš-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd94104-005-p1s2w4">
 <src.rf>manual</src.rf>
@@ -145,7 +151,7 @@
 <form>jakoukoliv</form>
 <tag>
 <AM lemma="jakýkoliv" src="orig">PZFS4----------</AM>
-<AM lemma="jakýkoli" src="auto" recommended="1">PZFS4---------1</AM>
+<AM lemma="jakýkoli" src="auto" recommended="1" selected="1">PZFS4---------1</AM>
 <AM lemma="jakýkoli" src="auto">PZFS7---------1</AM>
 </tag>
 </m>
@@ -227,7 +233,10 @@
 <LM>w#w-lnd94104-005-p1s3w16</LM>
 </w.rf>
 <form>Strana</form>
-<tag lemma="strana-1_^(v_prostoru)" src="orig" selected="1">NNFS1-----A----</tag>
+<tag>
+<AM lemma="strana-1_^(v_prostoru)" src="orig">NNFS1-----A----</AM>
+<AM lemma="strana" src="manual" selected="1">NNFS1-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd94104-005-p1s3w17">
 <src.rf>manual</src.rf>
@@ -235,7 +244,10 @@
 <LM>w#w-lnd94104-005-p1s3w17</LM>
 </w.rf>
 <form>zelených</form>
-<tag lemma="zelený" src="orig" selected="1">AAMP2----1A----</tag>
+<tag>
+<AM lemma="zelený" src="orig">AAMP2----1A----</AM>
+<AM lemma="zelený_;o" src="manual" selected="1">AAMP2----1A----</AM>
+</tag>
 </m>
 <m id="m-lnd94104-005-p1s3w18">
 <src.rf>manual</src.rf>
@@ -261,7 +273,10 @@
 <LM>w#w-lnd94104-005-p1s4w2</LM>
 </w.rf>
 <form>uvedl</form>
-<tag lemma="uvést" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag>
+<AM lemma="uvést" src="orig">VpYS---XR-AA---</AM>
+<AM lemma="uvést_:W" src="manual" selected="1">VpYS---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-lnd94104-005-p1s4w3">
 <src.rf>manual</src.rf>
@@ -293,7 +308,10 @@
 <LM>w#w-lnd94104-005-p1s4w6</LM>
 </w.rf>
 <form>Vlček</form>
-<tag lemma="vlček" src="orig" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="vlček" src="orig">NNMS1-----A----</AM>
+<AM lemma="Vlček_;S" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd94104-005-p1s4w7">
 <src.rf>manual</src.rf>
@@ -309,7 +327,10 @@
 <LM>w#w-lnd94104-005-p1s4w8</LM>
 </w.rf>
 <form>zelení</form>
-<tag lemma="zelený" src="orig" selected="1">AAMP1----1A----</tag>
+<tag>
+<AM lemma="zelený" src="orig">AAMP1----1A----</AM>
+<AM lemma="zelený_;o" src="manual" selected="1">AAMP1----1A----</AM>
+</tag>
 </m>
 <m id="m-lnd94104-005-p1s4w9">
 <src.rf>manual</src.rf>
@@ -325,7 +346,10 @@
 <LM>w#w-lnd94104-005-p1s4w10</LM>
 </w.rf>
 <form>ani</form>
-<tag lemma="ani-1" src="auto" selected="1">J^-------------</tag>
+<tag>
+<AM lemma="ani-1" src="auto">J^-------------</AM>
+<AM lemma="ani-2" src="manual" selected="1">TT-------------</AM>
+</tag>
 </m>
 <m id="m-lnd94104-005-p1s4w11">
 <src.rf>manual</src.rf>
@@ -657,7 +681,10 @@
 <LM>w#w-lnd94104-005-p1s6w21</LM>
 </w.rf>
 <form>strana</form>
-<tag lemma="strana-1_^(v_prostoru)" src="orig" selected="1">NNFS1-----A----</tag>
+<tag>
+<AM lemma="strana-1_^(v_prostoru)" src="orig">NNFS1-----A----</AM>
+<AM lemma="strana" src="manual" selected="1">NNFS1-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd94104-005-p1s6w22">
 <src.rf>manual</src.rf>
@@ -755,7 +782,10 @@
 <LM>w#w-lnd94104-005-p1s7w7</LM>
 </w.rf>
 <form>zelených</form>
-<tag lemma="zelený" src="orig" selected="1">AAMP2----1A----</tag>
+<tag>
+<AM lemma="zelený" src="orig">AAMP2----1A----</AM>
+<AM lemma="zelený_;o" src="manual" selected="1">AAMP2----1A----</AM>
+</tag>
 </m>
 <m id="m-lnd94104-005-p1s7w8">
 <src.rf>manual</src.rf>
@@ -763,7 +793,10 @@
 <LM>w#w-lnd94104-005-p1s7w8</LM>
 </w.rf>
 <form>uvedl</form>
-<tag lemma="uvést" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag>
+<AM lemma="uvést" src="orig">VpYS---XR-AA---</AM>
+<AM lemma="uvést_:W" src="manual" selected="1">VpYS---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-lnd94104-005-p1s7w9">
 <src.rf>manual</src.rf>

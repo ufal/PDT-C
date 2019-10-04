@@ -313,7 +313,10 @@
 <LM>w#w-ln95042-094-p2s2w12</LM>
 </w.rf>
 <form>G</form>
-<tag lemma="G-0_:B_;Y" src="orig" selected="1">NNMXX-----A---8</tag>
+<tag>
+<AM lemma="G-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
+<AM lemma="G-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln95042-094-p2s2w13">
 <src.rf>manual</src.rf>
@@ -419,7 +422,10 @@
 <LM>w#w-ln95042-094-p3s1w10</LM>
 </w.rf>
 <form>Rec</form>
-<tag lemma="Rec_;K_,t" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="Rec_;K_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="Rec_;K" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95042-094-p3s1w11">
 <src.rf>manual</src.rf>
@@ -446,6 +452,7 @@
 <tag>
 <AM lemma="IMBE_:B_;K" src="orig">NNXXX-----A---8</AM>
 <AM lemma="imbus" src="auto" recommended="1">NNIS5-----A----</AM>
+<AM lemma="IMBE-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-ln95042-094-p3s1w14">
@@ -594,7 +601,10 @@
 <LM>w#w-ln95042-094-p4s1w2</LM>
 </w.rf>
 <form>KMV</form>
-<tag lemma="KMV-1_:B_;K_^(Karlovarské_minerální_vody)" src="auto" selected="1">NNFPX-----A---8</tag>
+<tag>
+<AM lemma="KMV-1_:B_;K_^(Karlovarské_minerální_vody)" src="auto">NNFPX-----A---8</AM>
+<AM lemma="KMV-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln95042-094-p4s1w3">
 <src.rf>manual</src.rf>

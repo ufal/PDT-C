@@ -519,7 +519,7 @@
 <form>nedělníku</form>
 <tag>
 <AM lemma="nedělník" src="orig">NNMS3-----A---1</AM>
-<AM lemma="nedělník" src="auto" recommended="1">NNIS2-----A----</AM>
+<AM lemma="nedělník" src="auto" recommended="1" selected="1">NNIS2-----A----</AM>
 <AM lemma="nedělník" src="auto">NNIS3-----A----</AM>
 <AM lemma="nedělník" src="auto">NNIS5-----A----</AM>
 <AM lemma="nedělník" src="auto">NNIS6-----A----</AM>

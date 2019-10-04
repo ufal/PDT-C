@@ -145,7 +145,10 @@
 <LM>w#w-ln95047-128-p2s1Cw2</LM>
 </w.rf>
 <form>Dresdner</form>
-<tag lemma="Dresdner_;K_,t_^(měm.,_v_názvech)" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="Dresdner_;K_,t_^(měm.,_v_názvech)" src="orig">AAXXX----1A----</AM>
+<AM lemma="Dresdner-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln95047-128-p2s1Cw3">
 <src.rf>manual</src.rf>
@@ -153,7 +156,10 @@
 <LM>w#w-ln95047-128-p2s1Cw3</LM>
 </w.rf>
 <form>Bank</form>
-<tag lemma="Bank-1_;K_,t_^(v_cizojaz._názvech_bank)" src="orig" selected="1">NNFXX-----A----</tag>
+<tag>
+<AM lemma="Bank-1_;K_,t_^(v_cizojaz._názvech_bank)" src="orig">NNFXX-----A----</AM>
+<AM lemma="Bank-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln95047-128-p2s1Cw4">
 <src.rf>manual</src.rf>
@@ -177,7 +183,10 @@
 <LM>w#w-ln95047-128-p2s1Cw6</LM>
 </w.rf>
 <form>Banque</form>
-<tag lemma="Banque_;K_,t_^(v_názvech_bank)" src="orig" selected="1">NNFXX-----A----</tag>
+<tag>
+<AM lemma="Banque_;K_,t_^(v_názvech_bank)" src="orig">NNFXX-----A----</AM>
+<AM lemma="Banque-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln95047-128-p2s1Cw7">
 <src.rf>manual</src.rf>
@@ -185,7 +194,10 @@
 <LM>w#w-ln95047-128-p2s1Cw7</LM>
 </w.rf>
 <form>Nationale</form>
-<tag lemma="Nationale_;K_,t" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="Nationale_;K_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="Nationale-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln95047-128-p2s1Cw8">
 <src.rf>manual</src.rf>
@@ -193,7 +205,10 @@
 <LM>w#w-ln95047-128-p2s1Cw8</LM>
 </w.rf>
 <form>de</form>
-<tag lemma="de_,t_^(z_franc._de,_zejm._ve_jménech)" src="orig" selected="1">RR--1----------</tag>
+<tag>
+<AM lemma="de_,t_^(z_franc._de,_zejm._ve_jménech)" src="orig">RR--1----------</AM>
+<AM lemma="de-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln95047-128-p2s1Cw9">
 <src.rf>manual</src.rf>
@@ -207,6 +222,7 @@
 <AM lemma="Paris-2_;G" src="auto" recommended="1">NNFSX-----A----</AM>
 <AM lemma="Paris-3_;Y" src="auto">NNFSX-----A----</AM>
 <AM lemma="Paris_;S" src="auto">NNMS1-----A----</AM>
+<AM lemma="Paris-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-ln95047-128-p2s1Cw10">
@@ -313,7 +329,10 @@
 <LM>w#w-ln95047-128-p2s2w2</LM>
 </w.rf>
 <form>BNP</form>
-<tag lemma="BNP_:B_;K_,t" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="BNP_:B_;K_,t" src="orig">NNFXX-----A---8</AM>
+<AM lemma="BNP-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln95047-128-p2s2w3">
 <src.rf>manual</src.rf>
@@ -329,7 +348,10 @@
 <LM>w#w-ln95047-128-p2s2w4</LM>
 </w.rf>
 <form>Dresdner</form>
-<tag lemma="Dresdner_;K_,t_^(měm.,_v_názvech)" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="Dresdner_;K_,t_^(měm.,_v_názvech)" src="orig">AAXXX----1A----</AM>
+<AM lemma="Dresdner-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln95047-128-p2s2w5">
 <src.rf>manual</src.rf>
@@ -337,7 +359,10 @@
 <LM>w#w-ln95047-128-p2s2w5</LM>
 </w.rf>
 <form>Bank</form>
-<tag lemma="Bank-1_;K_,t_^(v_cizojaz._názvech_bank)" src="orig" selected="1">NNFXX-----A----</tag>
+<tag>
+<AM lemma="Bank-1_;K_,t_^(v_cizojaz._názvech_bank)" src="orig">NNFXX-----A----</AM>
+<AM lemma="Bank-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln95047-128-p2s2w6">
 <src.rf>manual</src.rf>
@@ -359,6 +384,7 @@
 <AM lemma="Polsko_;G" src="auto">NNNP4-----A----</AM>
 <AM lemma="Polsko_;G" src="auto">NNNP5-----A----</AM>
 <AM lemma="Polsko_;G" src="auto">NNNS2-----A----</AM>
+<AM lemma="Polska-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-ln95047-128-p2s2w8">
@@ -400,6 +426,7 @@
 <AM lemma="společnost_:B" src="auto">NNFXX-----A---8</AM>
 <AM lemma="strana-4_:B_^(v_knize,_rukopise,...)" src="auto">NNFXX-----A---8</AM>
 <AM lemma="státní_:B" src="auto">AAXXX----1A---8</AM>
+<AM lemma="S-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-ln95047-128-p2s2w10">
@@ -416,7 +443,10 @@
 <LM>w#w-ln95047-128-p2s2w11</LM>
 </w.rf>
 <form>A</form>
-<tag lemma="A-4_:B_;K" src="orig" selected="1">AAXXX----1A---8</tag>
+<tag>
+<AM lemma="A-4_:B_;K" src="orig">AAXXX----1A---8</AM>
+<AM lemma="A-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln95047-128-p2s2w12">
 <src.rf>manual</src.rf>
@@ -480,7 +510,10 @@
 <LM>w#w-ln95047-128-p2s2w19</LM>
 </w.rf>
 <form>USD</form>
-<tag lemma="USD_:B_;b_^(U.S._dolar)" src="auto" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="USD_:B_;b_^(U.S._dolar)" src="auto">NNIXX-----A---8</AM>
+<AM lemma="USD_:B_^(U.S._dolar)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95047-128-p2s2w20">
 <src.rf>manual</src.rf>
@@ -1024,7 +1057,10 @@
 <LM>w#w-ln95047-128-p4s1w1</LM>
 </w.rf>
 <form>BNP</form>
-<tag lemma="BNP_:B_;K_,t" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="BNP_:B_;K_,t" src="orig">NNFXX-----A---8</AM>
+<AM lemma="BNP-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln95047-128-p4s1w2">
 <src.rf>manual</src.rf>
@@ -1040,7 +1076,10 @@
 <LM>w#w-ln95047-128-p4s1w3</LM>
 </w.rf>
 <form>Dresdner</form>
-<tag lemma="Dresdner_;K_,t_^(měm.,_v_názvech)" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="Dresdner_;K_,t_^(měm.,_v_názvech)" src="orig">AAXXX----1A----</AM>
+<AM lemma="Dresdner-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln95047-128-p4s1w4">
 <src.rf>manual</src.rf>
@@ -1048,7 +1087,10 @@
 <LM>w#w-ln95047-128-p4s1w4</LM>
 </w.rf>
 <form>Bank</form>
-<tag lemma="Bank-1_;K_,t_^(v_cizojaz._názvech_bank)" src="orig" selected="1">NNFXX-----A----</tag>
+<tag>
+<AM lemma="Bank-1_;K_,t_^(v_cizojaz._názvech_bank)" src="orig">NNFXX-----A----</AM>
+<AM lemma="Bank-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln95047-128-p4s1w5">
 <src.rf>manual</src.rf>

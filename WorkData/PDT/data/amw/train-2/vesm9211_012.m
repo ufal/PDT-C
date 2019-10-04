@@ -331,6 +331,7 @@
 <tag>
 <AM lemma="tématika" src="orig">NNFS7-----A----</AM>
 <AM lemma="tematika_,x" src="auto" recommended="1">NNFS7-----A----</AM>
+<AM lemma="tématika_,s_^(^DD**tematika)" src="manual" selected="1">NNFS7-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9211-012-p6s2w5">
@@ -499,7 +500,10 @@
 <LM>w#w-vesm9211-012-p6s2w25</LM>
 </w.rf>
 <form>sympoziích</form>
-<tag lemma="sympózium" src="orig" selected="1">NNNP6-----A----</tag>
+<tag>
+<AM lemma="sympózium" src="orig">NNNP6-----A----</AM>
+<AM lemma="sympozium_,s_^(^DD**sympózium)" src="manual" selected="1">NNNP6-----A----</AM>
+</tag>
 </m>
 <m id="m-vesm9211-012-p6s2w26">
 <src.rf>manual</src.rf>
@@ -786,7 +790,7 @@
 <tag>
 <AM lemma="tedy" src="orig">Db-------------</AM>
 <AM lemma="tedy-1" src="auto">TT-------------</AM>
-<AM lemma="tedy-2" src="auto" recommended="1">J^-------------</AM>
+<AM lemma="tedy-2" src="auto" recommended="1" selected="1">J^-------------</AM>
 </tag>
 </m>
 <m id="m-vesm9211-012-p7s1w11">
@@ -835,7 +839,10 @@
 <LM>w#w-vesm9211-012-p7s1w16</LM>
 </w.rf>
 <form>klade</form>
-<tag lemma="klást" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag>
+<AM lemma="klást" src="orig">VB-S---3P-AA---</AM>
+<AM lemma="klást_:T" src="manual" selected="1">VB-S---3P-AA---</AM>
+</tag>
 </m>
 <m id="m-vesm9211-012-p7s1w17">
 <src.rf>manual</src.rf>
@@ -1102,7 +1109,10 @@
 <LM>w#w-vesm9211-012-p8s1w15</LM>
 </w.rf>
 <form>tj</form>
-<tag lemma="tj-1_:B_^(to_je/jest)" src="orig" selected="1">J^------------8</tag>
+<tag>
+<AM lemma="tj-1_:B_^(to_je/jest)" src="orig">J^------------8</AM>
+<AM lemma="tj-1_:B_^(to_je/jest)" src="manual" selected="1">J^-------------</AM>
+</tag>
 </m>
 <m id="m-vesm9211-012-p8s1w16">
 <src.rf>manual</src.rf>
@@ -1142,7 +1152,10 @@
 <LM>w#w-vesm9211-012-p8s1w20</LM>
 </w.rf>
 <form>organismy</form>
-<tag lemma="organismus" src="orig" selected="1">NNIP4-----A----</tag>
+<tag>
+<AM lemma="organismus" src="orig">NNIP4-----A----</AM>
+<AM lemma="organismus_,s_^(^DD**organizmus)" src="manual" selected="1">NNIP4-----A----</AM>
+</tag>
 </m>
 <m id="m-vesm9211-012-p8s1w21">
 <src.rf>manual</src.rf>
@@ -1438,7 +1451,7 @@
 <form>nejen</form>
 <tag>
 <AM lemma="nejen" src="orig">TT-------------</AM>
-<AM lemma="nejen" src="auto" recommended="1">Db-------------</AM>
+<AM lemma="nejen" src="auto" recommended="1" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m-vesm9211-012-p8s4w10">
@@ -1633,7 +1646,10 @@
 <LM>w#w-vesm9211-012-p8s5w13</LM>
 </w.rf>
 <form>jen</form>
-<tag lemma="jen-1" src="auto" selected="1">TT-------------</tag>
+<tag>
+<AM lemma="jen-1" src="auto">TT-------------</AM>
+<AM lemma="jen-4_^(pouze)" src="manual" selected="1">Db-------------</AM>
+</tag>
 </m>
 <m id="m-vesm9211-012-p8s5w14">
 <src.rf>manual</src.rf>
@@ -1777,7 +1793,10 @@
 <LM>w#w-vesm9211-012-p8s5w31</LM>
 </w.rf>
 <form>jen</form>
-<tag lemma="jen-1" src="auto" selected="1">TT-------------</tag>
+<tag>
+<AM lemma="jen-1" src="auto">TT-------------</AM>
+<AM lemma="jen-4_^(pouze)" src="manual" selected="1">Db-------------</AM>
+</tag>
 </m>
 <m id="m-vesm9211-012-p8s5w32">
 <src.rf>manual</src.rf>
@@ -1917,7 +1936,7 @@
 <form>třeba</form>
 <tag>
 <AM lemma="třeba-1" src="orig">ACNS------A----</AM>
-<AM lemma="třeba-2" src="auto" recommended="1">Db-------------</AM>
+<AM lemma="třeba-2" src="auto" recommended="1" selected="1">Db-------------</AM>
 <AM lemma="třeba-3" src="auto">TT-------------</AM>
 </tag>
 </m>
@@ -2289,7 +2308,10 @@
 <LM>w#w-vesm9211-012-p9s1w30</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-2" src="auto" selected="1">Dg-------2A----</tag>
+<tag>
+<AM lemma="hodně-2" src="auto">Dg-------2A----</AM>
+<AM lemma="více_^(více_+_2._p.,_více_peněz)" src="manual" selected="1">Ca--4----------</AM>
+</tag>
 </m>
 <m id="m-vesm9211-012-p9s1w31">
 <src.rf>manual</src.rf>
@@ -3135,7 +3157,10 @@
 <LM>w#w-vesm9211-012-p10s1w33</LM>
 </w.rf>
 <form>p</form>
-<tag lemma="p-3_^(označení_pomocí_písmene)" src="orig" selected="1">NNNXX-----A----</tag>
+<tag>
+<AM lemma="p-3_^(označení_pomocí_písmene)" src="orig">NNNXX-----A----</AM>
+<AM lemma="p-33_^(označení_pomocí_písmene)" src="manual" selected="1">NNNXX-----A----</AM>
+</tag>
 </m>
 <m id="m-vesm9211-012-p10s1w34">
 <src.rf>manual</src.rf>
@@ -3207,7 +3232,10 @@
 <LM>w#w-vesm9211-012-p10s1w42</LM>
 </w.rf>
 <form>RNA</form>
-<tag lemma="RNA_:B_;L_^(molekula_RNA)" src="auto" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="RNA_:B_;L_^(molekula_RNA)" src="auto">NNFXX-----A---8</AM>
+<AM lemma="RNA-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-vesm9211-012-p10s1w43">
 <src.rf>manual</src.rf>
@@ -3497,7 +3525,10 @@
 <LM>w#w-vesm9211-012-p10s2w15</LM>
 </w.rf>
 <form>nedávno</form>
-<tag lemma="nedávno-1" src="auto" selected="1">Db-------------</tag>
+<tag>
+<AM lemma="nedávno-1" src="auto">Db-------------</AM>
+<AM lemma="dávno-1" src="manual" selected="1">Dg-------1N----</AM>
+</tag>
 </m>
 <m id="m-vesm9211-012-p10s2w16">
 <src.rf>manual</src.rf>
@@ -3593,7 +3624,10 @@
 <LM>w#w-vesm9211-012-p10s2w27</LM>
 </w.rf>
 <form>p</form>
-<tag lemma="p-3_^(označení_pomocí_písmene)" src="orig" selected="1">NNNXX-----A----</tag>
+<tag>
+<AM lemma="p-3_^(označení_pomocí_písmene)" src="orig">NNNXX-----A----</AM>
+<AM lemma="p-33_^(označení_pomocí_písmene)" src="manual" selected="1">NNNXX-----A----</AM>
+</tag>
 </m>
 <m id="m-vesm9211-012-p10s2w28">
 <src.rf>manual</src.rf>
@@ -3665,7 +3699,10 @@
 <LM>w#w-vesm9211-012-p10s2w36</LM>
 </w.rf>
 <form>RNA</form>
-<tag lemma="RNA_:B_;L_^(molekula_RNA)" src="auto" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="RNA_:B_;L_^(molekula_RNA)" src="auto">NNFXX-----A---8</AM>
+<AM lemma="RNA-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-vesm9211-012-p10s2w37">
 <src.rf>manual</src.rf>
@@ -4061,7 +4098,10 @@
 <LM>w#w-vesm9211-012-p11s2w15</LM>
 </w.rf>
 <form>zejména</form>
-<tag lemma="zejména-1" src="auto" selected="1">Db-------------</tag>
+<tag>
+<AM lemma="zejména-1" src="auto">Db-------------</AM>
+<AM lemma="zejména-2" src="manual" selected="1">TT-------------</AM>
+</tag>
 </m>
 <m id="m-vesm9211-012-p11s2w16">
 <src.rf>manual</src.rf>
@@ -4265,7 +4305,7 @@
 <form>ovšem</form>
 <tag>
 <AM lemma="ovšem-1_^(avšak,_však;_odporovací_spojka)" src="orig">J^-------------</AM>
-<AM lemma="ovšem" src="auto" recommended="1">TT-------------</AM>
+<AM lemma="ovšem" src="auto" recommended="1" selected="1">TT-------------</AM>
 </tag>
 </m>
 <m id="m-vesm9211-012-p11s3w4">
@@ -4580,7 +4620,10 @@
 <LM>w#w-vesm9211-012-p11s4w31</LM>
 </w.rf>
 <form>spíše</form>
-<tag lemma="spíše" src="orig" selected="1">Dg-------2A---1</tag>
+<tag>
+<AM lemma="spíše" src="orig">Dg-------2A---1</AM>
+<AM lemma="spíš" src="manual" selected="1">TT------------1</AM>
+</tag>
 </m>
 <m id="m-vesm9211-012-p11s4w32">
 <src.rf>manual</src.rf>
@@ -4972,7 +5015,10 @@
 <LM>w#w-vesm9211-012-p13s3w12</LM>
 </w.rf>
 <form>organismy</form>
-<tag lemma="organismus" src="orig" selected="1">NNIP4-----A----</tag>
+<tag>
+<AM lemma="organismus" src="orig">NNIP4-----A----</AM>
+<AM lemma="organismus_,s_^(^DD**organizmus)" src="manual" selected="1">NNIP4-----A----</AM>
+</tag>
 </m>
 <m id="m-vesm9211-012-p13s3w13">
 <src.rf>manual</src.rf>
@@ -5118,7 +5164,10 @@
 <LM>w#w-vesm9211-012-p13s4w5</LM>
 </w.rf>
 <form>např</form>
-<tag lemma="například_:B" src="orig" selected="1">Db------------8</tag>
+<tag>
+<AM lemma="například_:B" src="orig">Db------------8</AM>
+<AM lemma="například" src="manual" selected="1">Db------------8</AM>
+</tag>
 </m>
 <m id="m-vesm9211-012-p13s4w6">
 <src.rf>manual</src.rf>
@@ -5522,7 +5571,10 @@
 <LM>w#w-vesm9211-012-p14s2w22</LM>
 </w.rf>
 <form>tj</form>
-<tag lemma="tj-1_:B_^(to_je/jest)" src="orig" selected="1">J^------------8</tag>
+<tag>
+<AM lemma="tj-1_:B_^(to_je/jest)" src="orig">J^------------8</AM>
+<AM lemma="tj-1_:B_^(to_je/jest)" src="manual" selected="1">J^-------------</AM>
+</tag>
 </m>
 <m id="m-vesm9211-012-p14s2w23">
 <src.rf>manual</src.rf>
@@ -5644,7 +5696,10 @@
 <LM>w#w-vesm9211-012-p14s3w8</LM>
 </w.rf>
 <form>mechanismem</form>
-<tag lemma="mechanismus" src="orig" selected="1">NNIS7-----A----</tag>
+<tag>
+<AM lemma="mechanismus" src="orig">NNIS7-----A----</AM>
+<AM lemma="mechanismus_,s_^(^DD**mechanizmus)" src="manual" selected="1">NNIS7-----A----</AM>
+</tag>
 </m>
 <m id="m-vesm9211-012-p14s3w9">
 <src.rf>manual</src.rf>
@@ -5822,7 +5877,10 @@
 <LM>w#w-vesm9211-012-p14s4w15</LM>
 </w.rf>
 <form>DNA</form>
-<tag lemma="DNA_:B_;L_^(molekula_DNA)" src="auto" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="DNA_:B_;L_^(molekula_DNA)" src="auto">NNFXX-----A---8</AM>
+<AM lemma="DNA_:B_;L_^(molekula_DNA)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-vesm9211-012-p14s4w16">
 <src.rf>manual</src.rf>
@@ -5920,7 +5978,10 @@
 <LM>w#w-vesm9211-012-p14s5w5</LM>
 </w.rf>
 <form>DNA</form>
-<tag lemma="DNA_:B_;L_^(molekula_DNA)" src="auto" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="DNA_:B_;L_^(molekula_DNA)" src="auto">NNFXX-----A---8</AM>
+<AM lemma="DNA_:B_;L_^(molekula_DNA)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-vesm9211-012-p14s5w6">
 <src.rf>manual</src.rf>
@@ -5952,7 +6013,10 @@
 <LM>w#w-vesm9211-012-p14s5w9</LM>
 </w.rf>
 <form>organismů</form>
-<tag lemma="organismus" src="orig" selected="1">NNIP2-----A----</tag>
+<tag>
+<AM lemma="organismus" src="orig">NNIP2-----A----</AM>
+<AM lemma="organismus_,s_^(^DD**organizmus)" src="manual" selected="1">NNIP2-----A----</AM>
+</tag>
 </m>
 <m id="m-vesm9211-012-p14s5w10">
 <src.rf>manual</src.rf>
@@ -8014,7 +8078,10 @@
 <LM>w#w-vesm9211-012-p15s6w9</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-2" src="auto" selected="1">Dg-------2A----</tag>
+<tag>
+<AM lemma="hodně-2" src="auto">Dg-------2A----</AM>
+<AM lemma="více_^(více_+_2._p.,_více_peněz)" src="manual" selected="1">Ca--1----------</AM>
+</tag>
 </m>
 <m id="m-vesm9211-012-p15s6w10">
 <src.rf>manual</src.rf>
@@ -9073,7 +9140,10 @@
 <LM>w#w-vesm9211-012-p17s1w9</LM>
 </w.rf>
 <form>tj</form>
-<tag lemma="tj-1_:B_^(to_je/jest)" src="orig" selected="1">J^------------8</tag>
+<tag>
+<AM lemma="tj-1_:B_^(to_je/jest)" src="orig">J^------------8</AM>
+<AM lemma="tj-1_:B_^(to_je/jest)" src="manual" selected="1">J^-------------</AM>
+</tag>
 </m>
 <m id="m-vesm9211-012-p17s1w10">
 <src.rf>manual</src.rf>
@@ -9995,7 +10065,7 @@
 <form>třeba</form>
 <tag>
 <AM lemma="třeba-1" src="orig">ACNS------A----</AM>
-<AM lemma="třeba-2" src="auto" recommended="1">Db-------------</AM>
+<AM lemma="třeba-2" src="auto" recommended="1" selected="1">Db-------------</AM>
 <AM lemma="třeba-3" src="auto">TT-------------</AM>
 </tag>
 </m>
@@ -10143,7 +10213,10 @@
 <LM>w#w-vesm9211-012-p18s2w5</LM>
 </w.rf>
 <form>DNA</form>
-<tag lemma="DNA_:B_;L_^(molekula_DNA)" src="auto" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="DNA_:B_;L_^(molekula_DNA)" src="auto">NNFXX-----A---8</AM>
+<AM lemma="DNA_:B_;L_^(molekula_DNA)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-vesm9211-012-p18s2w6">
 <src.rf>manual</src.rf>
@@ -10369,7 +10442,10 @@
 <LM>w#w-vesm9211-012-p18s3w6</LM>
 </w.rf>
 <form>mechanismem</form>
-<tag lemma="mechanismus" src="orig" selected="1">NNIS7-----A----</tag>
+<tag>
+<AM lemma="mechanismus" src="orig">NNIS7-----A----</AM>
+<AM lemma="mechanismus_,s_^(^DD**mechanizmus)" src="manual" selected="1">NNIS7-----A----</AM>
+</tag>
 </m>
 <m id="m-vesm9211-012-p18s3w7">
 <src.rf>manual</src.rf>
@@ -10385,7 +10461,10 @@
 <LM>w#w-vesm9211-012-p18s3w8</LM>
 </w.rf>
 <form>mechanismem</form>
-<tag lemma="mechanismus" src="orig" selected="1">NNIS7-----A----</tag>
+<tag>
+<AM lemma="mechanismus" src="orig">NNIS7-----A----</AM>
+<AM lemma="mechanismus_,s_^(^DD**mechanizmus)" src="manual" selected="1">NNIS7-----A----</AM>
+</tag>
 </m>
 <m id="m-vesm9211-012-p18s3w9">
 <src.rf>manual</src.rf>
@@ -11027,7 +11106,10 @@
 <LM>w#w-vesm9211-012-p18s8w8</LM>
 </w.rf>
 <form>DNA</form>
-<tag lemma="DNA_:B_;L_^(molekula_DNA)" src="auto" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="DNA_:B_;L_^(molekula_DNA)" src="auto">NNFXX-----A---8</AM>
+<AM lemma="DNA_:B_;L_^(molekula_DNA)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-vesm9211-012-p18s8w9">
 <src.rf>manual</src.rf>
@@ -11416,7 +11498,7 @@
 <form>třeba</form>
 <tag>
 <AM lemma="třeba-1" src="orig">ACNS------A----</AM>
-<AM lemma="třeba-2" src="auto" recommended="1">Db-------------</AM>
+<AM lemma="třeba-2" src="auto" recommended="1" selected="1">Db-------------</AM>
 <AM lemma="třeba-3" src="auto">TT-------------</AM>
 </tag>
 </m>
@@ -12034,7 +12116,7 @@
 <form>totiž</form>
 <tag>
 <AM lemma="totiž" src="orig">Db-------------</AM>
-<AM lemma="totiž-1" src="auto" recommended="1">J^-------------</AM>
+<AM lemma="totiž-1" src="auto" recommended="1" selected="1">J^-------------</AM>
 <AM lemma="totiž-2" src="auto">TT-------------</AM>
 </tag>
 </m>
@@ -12060,7 +12142,10 @@
 <LM>w#w-vesm9211-012-p19s3w9</LM>
 </w.rf>
 <form>spíše</form>
-<tag lemma="spíše" src="orig" selected="1">Dg-------2A---1</tag>
+<tag>
+<AM lemma="spíše" src="orig">Dg-------2A---1</AM>
+<AM lemma="spíš" src="manual" selected="1">TT------------1</AM>
+</tag>
 </m>
 <m id="m-vesm9211-012-p19s3w10">
 <src.rf>manual</src.rf>
@@ -12368,7 +12453,10 @@
 <LM>w#w-vesm9211-012-p20s2w4</LM>
 </w.rf>
 <form>organismů</form>
-<tag lemma="organismus" src="orig" selected="1">NNIP2-----A----</tag>
+<tag>
+<AM lemma="organismus" src="orig">NNIP2-----A----</AM>
+<AM lemma="organismus_,s_^(^DD**organizmus)" src="manual" selected="1">NNIP2-----A----</AM>
+</tag>
 </m>
 <m id="m-vesm9211-012-p20s2w5">
 <src.rf>manual</src.rf>
@@ -12850,7 +12938,10 @@
 <LM>w#w-vesm9211-012-p20s3w30</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-2" src="auto" selected="1">Dg-------2A----</tag>
+<tag>
+<AM lemma="hodně-2" src="auto">Dg-------2A----</AM>
+<AM lemma="hodně-3" src="manual" selected="1">Dg-------2A----</AM>
+</tag>
 </m>
 <m id="m-vesm9211-012-p20s3w31">
 <src.rf>manual</src.rf>
@@ -13922,7 +14013,7 @@
 <form>nikoli</form>
 <tag>
 <AM lemma="nikoliv" src="orig">Db------------1</AM>
-<AM lemma="nikoli" src="auto" recommended="1">TT-------------</AM>
+<AM lemma="nikoli" src="auto" recommended="1" selected="1">TT-------------</AM>
 </tag>
 </m>
 <m id="m-vesm9211-012-p22s1w14">
@@ -13939,7 +14030,10 @@
 <LM>w#w-vesm9211-012-p22s1w15</LM>
 </w.rf>
 <form>organismů</form>
-<tag lemma="organismus" src="orig" selected="1">NNIP2-----A----</tag>
+<tag>
+<AM lemma="organismus" src="orig">NNIP2-----A----</AM>
+<AM lemma="organismus_,s_^(^DD**organizmus)" src="manual" selected="1">NNIP2-----A----</AM>
+</tag>
 </m>
 <m id="m-vesm9211-012-p22s1w16">
 <src.rf>manual</src.rf>
@@ -14069,7 +14163,10 @@
 <LM>w#w-vesm9211-012-p22s2w15</LM>
 </w.rf>
 <form>organismů</form>
-<tag lemma="organismus" src="orig" selected="1">NNIP2-----A----</tag>
+<tag>
+<AM lemma="organismus" src="orig">NNIP2-----A----</AM>
+<AM lemma="organismus_,s_^(^DD**organizmus)" src="manual" selected="1">NNIP2-----A----</AM>
+</tag>
 </m>
 <m id="m-vesm9211-012-p22s2w16">
 <src.rf>manual</src.rf>
@@ -14085,7 +14182,10 @@
 <LM>w#w-vesm9211-012-p22s2w17</LM>
 </w.rf>
 <form>tj</form>
-<tag lemma="tj-1_:B_^(to_je/jest)" src="orig" selected="1">J^------------8</tag>
+<tag>
+<AM lemma="tj-1_:B_^(to_je/jest)" src="orig">J^------------8</AM>
+<AM lemma="tj-1_:B_^(to_je/jest)" src="manual" selected="1">J^-------------</AM>
+</tag>
 </m>
 <m id="m-vesm9211-012-p22s2w18">
 <src.rf>manual</src.rf>
@@ -14271,7 +14371,10 @@
 <LM>w#w-vesm9211-012-p22s3w11</LM>
 </w.rf>
 <form>organismů</form>
-<tag lemma="organismus" src="orig" selected="1">NNIP2-----A----</tag>
+<tag>
+<AM lemma="organismus" src="orig">NNIP2-----A----</AM>
+<AM lemma="organismus_,s_^(^DD**organizmus)" src="manual" selected="1">NNIP2-----A----</AM>
+</tag>
 </m>
 <m id="m-vesm9211-012-p22s3w12">
 <src.rf>manual</src.rf>
@@ -14904,7 +15007,7 @@
 <tag>
 <AM lemma="tedy" src="orig">Db-------------</AM>
 <AM lemma="tedy-1" src="auto">TT-------------</AM>
-<AM lemma="tedy-2" src="auto" recommended="1">J^-------------</AM>
+<AM lemma="tedy-2" src="auto" recommended="1" selected="1">J^-------------</AM>
 </tag>
 </m>
 <m id="m-vesm9211-012-p23s2w3">
@@ -14929,7 +15032,10 @@
 <LM>w#w-vesm9211-012-p23s2w5</LM>
 </w.rf>
 <form>organismů</form>
-<tag lemma="organismus" src="orig" selected="1">NNIP2-----A----</tag>
+<tag>
+<AM lemma="organismus" src="orig">NNIP2-----A----</AM>
+<AM lemma="organismus_,s_^(^DD**organizmus)" src="manual" selected="1">NNIP2-----A----</AM>
+</tag>
 </m>
 <m id="m-vesm9211-012-p23s2w6">
 <src.rf>manual</src.rf>
@@ -15277,7 +15383,10 @@
 <LM>w#w-vesm9211-012-p23s4w22</LM>
 </w.rf>
 <form>li</form>
-<tag lemma="li-1" src="auto" selected="1">TT-------------</tag>
+<tag>
+<AM lemma="li-1" src="auto">TT-------------</AM>
+<AM lemma="li-2" src="manual" selected="1">J,-------------</AM>
+</tag>
 </m>
 <m id="m-vesm9211-012-p23s4w23">
 <src.rf>manual</src.rf>
@@ -15343,7 +15452,7 @@
 <form>třeba</form>
 <tag>
 <AM lemma="třeba-1" src="orig">ACNS------A----</AM>
-<AM lemma="třeba-2" src="auto" recommended="1">Db-------------</AM>
+<AM lemma="třeba-2" src="auto" recommended="1" selected="1">Db-------------</AM>
 <AM lemma="třeba-3" src="auto">TT-------------</AM>
 </tag>
 </m>
@@ -15749,7 +15858,10 @@
 <LM>w#w-vesm9211-012-p24s2w17</LM>
 </w.rf>
 <form>tj</form>
-<tag lemma="tj-1_:B_^(to_je/jest)" src="orig" selected="1">J^------------8</tag>
+<tag>
+<AM lemma="tj-1_:B_^(to_je/jest)" src="orig">J^------------8</AM>
+<AM lemma="tj-1_:B_^(to_je/jest)" src="manual" selected="1">J^-------------</AM>
+</tag>
 </m>
 <m id="m-vesm9211-012-p24s2w18">
 <src.rf>manual</src.rf>
@@ -15861,7 +15973,10 @@
 <LM>w#w-vesm9211-012-p24s2w31</LM>
 </w.rf>
 <form>organismu</form>
-<tag lemma="organismus" src="orig" selected="1">NNIS2-----A----</tag>
+<tag>
+<AM lemma="organismus" src="orig">NNIS2-----A----</AM>
+<AM lemma="organismus_,s_^(^DD**organizmus)" src="manual" selected="1">NNIS2-----A----</AM>
+</tag>
 </m>
 <m id="m-vesm9211-012-p24s2w32">
 <src.rf>manual</src.rf>
@@ -15943,7 +16058,10 @@
 <LM>w#w-vesm9211-012-p24s3w7</LM>
 </w.rf>
 <form>organismů</form>
-<tag lemma="organismus" src="orig" selected="1">NNIP2-----A----</tag>
+<tag>
+<AM lemma="organismus" src="orig">NNIP2-----A----</AM>
+<AM lemma="organismus_,s_^(^DD**organizmus)" src="manual" selected="1">NNIP2-----A----</AM>
+</tag>
 </m>
 <m id="m-vesm9211-012-p24s3w8">
 <src.rf>manual</src.rf>
@@ -16405,7 +16523,10 @@
 <LM>w#w-vesm9211-012-p24s6w3</LM>
 </w.rf>
 <form>straně</form>
-<tag lemma="strana-1_^(v_prostoru)" src="orig" selected="1">NNFS6-----A----</tag>
+<tag>
+<AM lemma="strana-1_^(v_prostoru)" src="orig">NNFS6-----A----</AM>
+<AM lemma="strana" src="manual" selected="1">NNFS6-----A----</AM>
+</tag>
 </m>
 <m id="m-vesm9211-012-p24s6w4">
 <src.rf>manual</src.rf>
@@ -16439,7 +16560,7 @@
 <form>tedy</form>
 <tag>
 <AM lemma="tedy" src="orig">Db-------------</AM>
-<AM lemma="tedy-1" src="auto">TT-------------</AM>
+<AM lemma="tedy-1" src="auto" selected="1">TT-------------</AM>
 <AM lemma="tedy-2" src="auto" recommended="1">J^-------------</AM>
 </tag>
 </m>
@@ -16637,7 +16758,7 @@
 <form>třeba</form>
 <tag>
 <AM lemma="třeba-1" src="orig">ACNS------A----</AM>
-<AM lemma="třeba-2" src="auto" recommended="1">Db-------------</AM>
+<AM lemma="třeba-2" src="auto" recommended="1" selected="1">Db-------------</AM>
 <AM lemma="třeba-3" src="auto">TT-------------</AM>
 </tag>
 </m>
@@ -16979,7 +17100,7 @@
 <form>třeba</form>
 <tag>
 <AM lemma="třeba-1" src="orig">ACNS------A----</AM>
-<AM lemma="třeba-2" src="auto" recommended="1">Db-------------</AM>
+<AM lemma="třeba-2" src="auto" recommended="1" selected="1">Db-------------</AM>
 <AM lemma="třeba-3" src="auto">TT-------------</AM>
 </tag>
 </m>
@@ -17449,7 +17570,10 @@
 <LM>w#w-vesm9211-012-p25s4w24</LM>
 </w.rf>
 <form>organismů</form>
-<tag lemma="organismus" src="orig" selected="1">NNIP2-----A----</tag>
+<tag>
+<AM lemma="organismus" src="orig">NNIP2-----A----</AM>
+<AM lemma="organismus_,s_^(^DD**organizmus)" src="manual" selected="1">NNIP2-----A----</AM>
+</tag>
 </m>
 <m id="m-vesm9211-012-p25s4w25">
 <src.rf>manual</src.rf>
@@ -17523,7 +17647,7 @@
 <form>třeba</form>
 <tag>
 <AM lemma="třeba-1" src="orig">ACNS------A----</AM>
-<AM lemma="třeba-2" src="auto" recommended="1">Db-------------</AM>
+<AM lemma="třeba-2" src="auto" recommended="1" selected="1">Db-------------</AM>
 <AM lemma="třeba-3" src="auto">TT-------------</AM>
 </tag>
 </m>
@@ -17989,7 +18113,7 @@
 <form>snad</form>
 <tag>
 <AM lemma="snad" src="orig">Db-------------</AM>
-<AM lemma="snad" src="auto" recommended="1">TT-------------</AM>
+<AM lemma="snad" src="auto" recommended="1" selected="1">TT-------------</AM>
 </tag>
 </m>
 <m id="m-vesm9211-012-p27s2w5">
@@ -18030,7 +18154,10 @@
 <LM>w#w-vesm9211-012-p27s2w9</LM>
 </w.rf>
 <form>optimismu</form>
-<tag lemma="optimismus" src="orig" selected="1">NNIS2-----A----</tag>
+<tag>
+<AM lemma="optimismus" src="orig">NNIS2-----A----</AM>
+<AM lemma="optimismus_,s_^(^DD**optimizmus)" src="manual" selected="1">NNIS2-----A----</AM>
+</tag>
 </m>
 <m id="m-vesm9211-012-p27s2w10">
 <src.rf>manual</src.rf>
@@ -18394,7 +18521,10 @@
 <LM>w#w-vesm9211-012-p28s2w22</LM>
 </w.rf>
 <form>spíše</form>
-<tag lemma="spíše" src="orig" selected="1">Dg-------2A---1</tag>
+<tag>
+<AM lemma="spíše" src="orig">Dg-------2A---1</AM>
+<AM lemma="spíš" src="manual" selected="1">TT------------1</AM>
+</tag>
 </m>
 <m id="m-vesm9211-012-p28s2w23">
 <src.rf>manual</src.rf>
@@ -18426,7 +18556,10 @@
 <LM>w#w-vesm9211-012-p28s2w26</LM>
 </w.rf>
 <form>PCR</form>
-<tag lemma="PCR-1_:B_,t_^(polymerase_chain_reaction)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="PCR-1_:B_,t_^(polymerase_chain_reaction)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="PCR-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-vesm9211-012-p28s2w27">
 <src.rf>manual</src.rf>
@@ -18446,6 +18579,8 @@
 <AM lemma="polymerase_,t" src="orig">AAXXX----1A----</AM>
 <AM lemma="polymeráza_;H_,x" src="auto" recommended="1">NNFS3-----A----</AM>
 <AM lemma="polymeráza_;H_,x" src="auto">NNFS6-----A----</AM>
+<AM lemma="polymerase_,t" src="manual">NNXXX-----A----</AM>
+<AM lemma="polymerase-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-vesm9211-012-p28s2w29">
@@ -18454,7 +18589,11 @@
 <LM>w#w-vesm9211-012-p28s2w29</LM>
 </w.rf>
 <form>chain</form>
-<tag lemma="chain_,t" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="chain_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="chain_,t" src="manual">NNXXX-----A----</AM>
+<AM lemma="chain-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-vesm9211-012-p28s2w30">
 <src.rf>manual</src.rf>
@@ -18462,7 +18601,11 @@
 <LM>w#w-vesm9211-012-p28s2w30</LM>
 </w.rf>
 <form>reaction</form>
-<tag lemma="reaction_,t" src="orig" selected="1">NNFXX-----A----</tag>
+<tag>
+<AM lemma="reaction_,t" src="orig">NNFXX-----A----</AM>
+<AM lemma="reaction_,t" src="manual">NNXXX-----A----</AM>
+<AM lemma="reaction-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-vesm9211-012-p28s2w31">
 <src.rf>manual</src.rf>
@@ -18704,7 +18847,10 @@
 <LM>w#w-vesm9211-012-p28s4w13</LM>
 </w.rf>
 <form>jen</form>
-<tag lemma="jen-1" src="auto" selected="1">TT-------------</tag>
+<tag>
+<AM lemma="jen-1" src="auto">TT-------------</AM>
+<AM lemma="jen-4_^(pouze)" src="manual" selected="1">Db-------------</AM>
+</tag>
 </m>
 <m id="m-vesm9211-012-p28s4w14">
 <src.rf>manual</src.rf>
@@ -18938,7 +19084,10 @@
 <LM>w#w-vesm9211-012-p28s5w13</LM>
 </w.rf>
 <form>DNA</form>
-<tag lemma="DNA_:B_;L_^(molekula_DNA)" src="auto" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="DNA_:B_;L_^(molekula_DNA)" src="auto">NNFXX-----A---8</AM>
+<AM lemma="DNA_:B_;L_^(molekula_DNA)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-vesm9211-012-p28s5w14">
 <src.rf>manual</src.rf>
@@ -18978,7 +19127,10 @@
 <LM>w#w-vesm9211-012-p28s5w18</LM>
 </w.rf>
 <form>organismů</form>
-<tag lemma="organismus" src="orig" selected="1">NNIP2-----A----</tag>
+<tag>
+<AM lemma="organismus" src="orig">NNIP2-----A----</AM>
+<AM lemma="organismus_,s_^(^DD**organizmus)" src="manual" selected="1">NNIP2-----A----</AM>
+</tag>
 </m>
 <m id="m-vesm9211-012-p28s5w19">
 <src.rf>manual</src.rf>
@@ -19565,6 +19717,7 @@
 <tag>
 <AM lemma="tématika" src="orig">NNFS1-----A----</AM>
 <AM lemma="tematika_,x" src="auto" recommended="1">NNFS1-----A----</AM>
+<AM lemma="tématika_,s_^(^DD**tematika)" src="manual" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9211-012-p29s1w2">
@@ -19815,7 +19968,10 @@
 <LM>w#w-vesm9211-012-p29s2w7</LM>
 </w.rf>
 <form>PCR</form>
-<tag lemma="PCR-1_:B_,t_^(polymerase_chain_reaction)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="PCR-1_:B_,t_^(polymerase_chain_reaction)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="PCR-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-vesm9211-012-p29s2w8">
 <src.rf>manual</src.rf>

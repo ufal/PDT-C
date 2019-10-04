@@ -85,7 +85,10 @@
 <LM>w#w-lnd91301-049-p2s1w3</LM>
 </w.rf>
 <form>luč</form>
-<tag lemma="luč-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="luč-99_:B_;S" src="orig">NNXXX-----A---8</AM>
+<AM lemma="luč-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd91301-049-p2s1w4">
 <src.rf>manual</src.rf>
@@ -183,7 +186,11 @@
 <LM>w#w-lnd91301-049-p3s1w10</LM>
 </w.rf>
 <form>ČSD</form>
-<tag lemma="ČSD-1_:B_;K_^(Čs._státní_dráhy)" src="orig" selected="1">NNFPX-----A---8</tag>
+<tag>
+<AM lemma="ČSD-1_:B_;K_^(Čs._státní_dráhy)" src="orig">NNFPX-----A---8</AM>
+<AM lemma="ČSD-88_:B" src="manual">NNXXX-----A---8</AM>
+<AM lemma="ČSD-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd91301-049-p3s1w11">
 <src.rf>manual</src.rf>
@@ -547,7 +554,10 @@
 <LM>w#w-lnd91301-049-p3s3w8</LM>
 </w.rf>
 <form>začalo</form>
-<tag lemma="začít-1_^(začnout)" src="auto" selected="1">VpNS---XR-AA---</tag>
+<tag>
+<AM lemma="začít-1_^(začnout)" src="auto">VpNS---XR-AA---</AM>
+<AM lemma="začít-1_:W_^(začnout)" src="manual" selected="1">VpNS---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-lnd91301-049-p3s3w9">
 <src.rf>manual</src.rf>
@@ -686,7 +696,7 @@
 <tag>
 <AM lemma="stopadesátý" src="orig">NNMS2-----A----</AM>
 <AM lemma="stopadesátý" src="auto">CrIS2----------</AM>
-<AM lemma="stopadesátý" src="auto" recommended="1">CrMS2----------</AM>
+<AM lemma="stopadesátý" src="auto" recommended="1" selected="1">CrMS2----------</AM>
 <AM lemma="stopadesátý" src="auto">CrMS4----------</AM>
 <AM lemma="stopadesátý" src="auto">CrNS2----------</AM>
 </tag>

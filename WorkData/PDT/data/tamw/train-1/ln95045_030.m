@@ -134,7 +134,10 @@
 <LM>w#w-ln95045-030-p2s1w14</LM>
 </w.rf>
 <form>Alfa</form>
-<tag lemma="Alfa_;K_;R_^(vozidlo)" src="auto" selected="1">NNFS1-----A----</tag>
+<tag>
+<AM lemma="Alfa_;K_;R_^(vozidlo)" src="auto">NNFS1-----A----</AM>
+<AM lemma="alfa" src="manual" selected="1">NNFS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95045-030-p2s1w15">
 <src.rf>manual</src.rf>
@@ -232,7 +235,10 @@
 <LM>w#w-ln95045-030-p3s1w10</LM>
 </w.rf>
 <form>ČR</form>
-<tag lemma="ČR-1_:B_;G_^(Česká_republika)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95045-030-p3s1w11">
 <src.rf>manual</src.rf>
@@ -370,7 +376,10 @@
 <LM>w#w-ln95045-030-p3s2w13</LM>
 </w.rf>
 <form>MS</form>
-<tag lemma="MS-3_:B_;w_^(mistrovství_světa)" src="orig" selected="1">NNNXX-----A---8</tag>
+<tag>
+<AM lemma="MS-3_:B_;w_^(mistrovství_světa)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="MS-3_:B_;w_^(mistrovství_světa)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95045-030-p3s2w14">
 <src.rf>manual</src.rf>
@@ -562,6 +571,7 @@
 <tag>
 <AM lemma="Kč" src="orig">NNFXX-----A----</AM>
 <AM lemma="Kč_:B" src="auto" recommended="1">NNFXX-----A---8</AM>
+<AM lemma="Kč_:B" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95045-030-p4s1w10">
@@ -893,7 +903,10 @@
 <LM>w#w-ln95045-030-p4s2w14</LM>
 </w.rf>
 <form>km</form>
-<tag lemma="km-1`kilometr_:B" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="km-1`kilometr_:B" src="orig">NNIXX-----A---8</AM>
+<AM lemma="kilometr" src="manual" selected="1">NNIXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln95045-030-p4s2w15">
 <src.rf>manual</src.rf>
@@ -967,7 +980,10 @@
 <LM>w#w-ln95045-030-p4s3w6</LM>
 </w.rf>
 <form>ČSLH</form>
-<tag lemma="ČSLH-1_:B_;K_^(Český_svaz_ledního_hokeje)" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="ČSLH-1_:B_;K_^(Český_svaz_ledního_hokeje)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="ČSLH-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95045-030-p4s3w7">
 <src.rf>manual</src.rf>
@@ -1148,8 +1164,13 @@
 <tag>
 <AM lemma="přece" src="orig">Db-------------</AM>
 <AM lemma="přece-1" src="auto" recommended="1">J^-------------</AM>
-<AM lemma="přece-2" src="auto">TT-------------</AM>
+<AM lemma="přece-2" src="auto" selected="1">TT-------------</AM>
 </tag>
+<comment>
+<LM type="Other">
+<text>ve spojení "přece jen" je přece podle mě spíše částice, nikoliv spojka</text>
+</LM>
+</comment>
 </m>
 <m id="m-ln95045-030-p5s1w21">
 <src.rf>manual</src.rf>
@@ -1215,7 +1236,10 @@
 <LM>w#w-ln95045-030-p5s2w3</LM>
 </w.rf>
 <form>M</form>
-<tag lemma="M-0_:B_;Y" src="orig" selected="1">NNMXX-----A---8</tag>
+<tag>
+<AM lemma="M-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
+<AM lemma="M-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95045-030-p5s2w4">
 <src.rf>manual</src.rf>

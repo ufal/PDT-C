@@ -1797,7 +1797,10 @@
 <LM>w#w-lnd91301-102-p8s1w12</LM>
 </w.rf>
 <form>LUV</form>
-<tag lemma="LUV_:B_;K" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="LUV_:B_;K" src="orig">NNXXX-----A---8</AM>
+<AM lemma="LUV-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd91301-102-p8s1w13">
 <src.rf>manual</src.rf>
@@ -1805,7 +1808,10 @@
 <LM>w#w-lnd91301-102-p8s1w13</LM>
 </w.rf>
 <form>Št</form>
-<tag lemma="Štýrský_:B_;G" src="orig" selected="1">AAXXX----1A---8</tag>
+<tag>
+<AM lemma="Štýrský_:B_;G" src="orig">AAXXX----1A---8</AM>
+<AM lemma="Št-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd91301-102-p8s1w14">
 <src.rf>manual</src.rf>
@@ -1869,7 +1875,10 @@
 <LM>w#w-lnd91301-102-p8s1w21</LM>
 </w.rf>
 <form>DSV</form>
-<tag lemma="DSV_:B_;K_,t" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="DSV_:B_;K_,t" src="orig">NNXXX-----A---8</AM>
+<AM lemma="DSV-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd91301-102-p8s1w22">
 <src.rf>manual</src.rf>
@@ -1877,7 +1886,10 @@
 <LM>w#w-lnd91301-102-p8s1w22</LM>
 </w.rf>
 <form>Alpine</form>
-<tag lemma="Alpine_;K" src="auto" selected="1">NNNSX-----A----</tag>
+<tag>
+<AM lemma="Alpine_;K" src="auto">NNNSX-----A----</AM>
+<AM lemma="Alpine-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-lnd91301-102-p8s1w23">
 <src.rf>manual</src.rf>
@@ -1918,7 +1930,7 @@
 </w.rf>
 <form>Flavii</form>
 <tag>
-<AM lemma="Flavia_;K" src="orig">NNFS3-----A----</AM>
+<AM lemma="Flavia_;K" src="orig" selected="1">NNFS3-----A----</AM>
 <AM lemma="Flavie_;Y" src="auto" recommended="1">NNFS3-----A----</AM>
 <AM lemma="Flavie_;Y" src="auto">NNFS4-----A----</AM>
 <AM lemma="Flavie_;Y" src="auto">NNFS6-----A----</AM>
@@ -1932,7 +1944,10 @@
 <LM>w#w-lnd91301-102-p8s1w28</LM>
 </w.rf>
 <form>Solva</form>
-<tag lemma="Solva_;K" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="Solva_;K" src="orig">AAXXX----1A----</AM>
+<AM lemma="Solva-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-lnd91301-102-p8s1w29">
 <src.rf>manual</src.rf>

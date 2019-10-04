@@ -53,7 +53,10 @@
 <LM>w#w-ln95044-075-p2s1Aw1</LM>
 </w.rf>
 <form>J</form>
-<tag lemma="J-0_:B_;Y" src="orig" selected="1">NNMXX-----A---8</tag>
+<tag>
+<AM lemma="J-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
+<AM lemma="J-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln95044-075-p2s1Aw2">
 <src.rf>manual</src.rf>
@@ -371,7 +374,10 @@
 <LM>w#w-ln95044-075-p2s2w12</LM>
 </w.rf>
 <form>OOP</form>
-<tag lemma="OOP-1_:B_;K_;p_^(Org._pro_osvobození_Palestiny)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="OOP-1_:B_;K_;p_^(Org._pro_osvobození_Palestiny)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="OOP-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln95044-075-p2s2w13">
 <src.rf>manual</src.rf>
@@ -507,7 +513,10 @@
 <LM>w#w-ln95044-075-p2s2w29</LM>
 </w.rf>
 <form>Lionelem</form>
-<tag lemma="Lionel_;S" src="orig" selected="1">NNMS7-----A----</tag>
+<tag>
+<AM lemma="Lionel_;S" src="orig">NNMS7-----A----</AM>
+<AM lemma="Lionel_;Y_;S" src="manual" selected="1">NNMS7-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95044-075-p2s2w30">
 <src.rf>manual</src.rf>
@@ -843,7 +852,10 @@
 <LM>w#w-ln95044-075-p3s4w6</LM>
 </w.rf>
 <form>OOP</form>
-<tag lemma="OOP-1_:B_;K_;p_^(Org._pro_osvobození_Palestiny)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="OOP-1_:B_;K_;p_^(Org._pro_osvobození_Palestiny)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="OOP-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln95044-075-p3s4w7">
 <src.rf>manual</src.rf>
@@ -1041,7 +1053,7 @@
 <form>třeba</form>
 <tag>
 <AM lemma="třeba-1" src="orig">ACNS------A----</AM>
-<AM lemma="třeba-2" src="auto" recommended="1">Db-------------</AM>
+<AM lemma="třeba-2" src="auto" recommended="1" selected="1">Db-------------</AM>
 <AM lemma="třeba-3" src="auto">TT-------------</AM>
 </tag>
 </m>
@@ -1479,7 +1491,10 @@
 <LM>w#w-ln95044-075-p4s2w8</LM>
 </w.rf>
 <form>Al</form>
-<tag lemma="Al-5_;m_,t_^(arab._člen,_i_ve_jm.)" src="auto" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="Al-5_;m_,t_^(arab._člen,_i_ve_jm.)" src="auto">AAXXX----1A----</AM>
+<AM lemma="Al-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln95044-075-p4s2w9">
 <src.rf>manual</src.rf>
@@ -1498,6 +1513,7 @@
 <tag>
 <AM lemma="Haját-2_;R" src="orig">NNIS1-----A----</AM>
 <AM lemma="Haját_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Haját-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-ln95044-075-p4s2w11">

@@ -30,6 +30,8 @@
 <tag>
 <AM lemma="IPF_:B" src="orig">NNIXX-----A---8</AM>
 <AM lemma="IPF_:B_;K" src="auto" recommended="1">NNXXX-----A---8</AM>
+<AM lemma="IPF_:B" src="manual">NNXXX-----A---8</AM>
+<AM lemma="IPF-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930709-026-p1s1w3">
@@ -54,7 +56,10 @@
 <LM>w#w-mf930709-026-p1s1w5</LM>
 </w.rf>
 <form>vydat</form>
-<tag lemma="vydat-1_:W_^(emitovat:_cenné_papíry,_knihu,_zvuk,...)" src="orig" selected="1">Vf--------A----</tag>
+<tag>
+<AM lemma="vydat-1_:W_^(emitovat:_cenné_papíry,_knihu,_zvuk,...)" src="orig">Vf--------A----</AM>
+<AM lemma="vydat_:W" src="manual" selected="1">Vf--------A----</AM>
+</tag>
 </m>
 <m id="m-mf930709-026-p1s1w6">
 <src.rf>manual</src.rf>
@@ -98,7 +103,10 @@
 <LM>w#w-mf930709-026-p2s1Bw2</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-2" src="auto" selected="1">Dg-------2A----</tag>
+<tag>
+<AM lemma="hodně-2" src="auto">Dg-------2A----</AM>
+<AM lemma="hodně-3" src="manual" selected="1">Dg-------2A----</AM>
+</tag>
 </m>
 <m id="m-mf930709-026-p2s1Bw3">
 <src.rf>manual</src.rf>
@@ -260,6 +268,7 @@
 <AM lemma="vydávání-4_^(platit,_př._vydat_peníze,_v._se_ze_všeho)_(*5at-4)" src="auto">NNNS4-----A----</AM>
 <AM lemma="vydávání-4_^(platit,_př._vydat_peníze,_v._se_ze_všeho)_(*5at-4)" src="auto">NNNS5-----A----</AM>
 <AM lemma="vydávání-4_^(platit,_př._vydat_peníze,_v._se_ze_všeho)_(*5at-4)" src="auto">NNNS6-----A----</AM>
+<AM lemma="vydávání_^(*3at)" src="manual" selected="1">NNNS4-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930709-026-p2s1Bw18">
@@ -286,7 +295,10 @@
 <LM>w#w-mf930709-026-p2s2w1</LM>
 </w.rf>
 <form>Uvedl</form>
-<tag lemma="uvést" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag>
+<AM lemma="uvést" src="orig">VpYS---XR-AA---</AM>
+<AM lemma="uvést_:W" src="manual" selected="1">VpYS---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-mf930709-026-p2s2w2">
 <src.rf>manual</src.rf>
@@ -398,7 +410,10 @@
 <LM>w#w-mf930709-026-p2s2w15</LM>
 </w.rf>
 <form>AISIF</form>
-<tag lemma="AISIF_:B_;K" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="AISIF_:B_;K" src="orig">NNFXX-----A---8</AM>
+<AM lemma="AISIF-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930709-026-p2s2w16">
 <src.rf>manual</src.rf>

@@ -340,7 +340,10 @@
 <LM>w#w-mf920923-085-p1s3w1</LM>
 </w.rf>
 <form>Ing</form>
-<tag lemma="Ing-2_:B_^(inženýrka)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="Ing-2_:B_^(inženýrka)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="Ing_:B_^(inženýr)" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-mf920923-085-p1s3w2">
 <src.rf>manual</src.rf>
@@ -942,7 +945,10 @@
 <LM>w#w-mf920923-085-p1s4w22</LM>
 </w.rf>
 <form>dr</form>
-<tag lemma="doktor_:B_^(doktor,_akad._titul)" src="orig" selected="1">NNMXX-----A---8</tag>
+<tag>
+<AM lemma="doktor_:B_^(doktor,_akad._titul)" src="orig">NNMXX-----A---8</AM>
+<AM lemma="dr_:B_^(doktor)" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-mf920923-085-p1s4w23">
 <src.rf>manual</src.rf>
@@ -1017,7 +1023,7 @@
 <form>řídicích</form>
 <tag>
 <AM lemma="řídicí_^(^IC**řídit)" src="orig">AGFP2-----A----</AM>
-<AM lemma="řídicí_^(^IC*2t)" src="auto" recommended="1">AAFP2----1A----</AM>
+<AM lemma="řídicí_^(^IC*2t)" src="auto" recommended="1" selected="1">AAFP2----1A----</AM>
 <AM lemma="řídicí_^(^IC*2t)" src="auto">AAFP6----1A----</AM>
 <AM lemma="řídicí_^(^IC*2t)" src="auto">AAIP2----1A----</AM>
 <AM lemma="řídicí_^(^IC*2t)" src="auto">AAIP6----1A----</AM>

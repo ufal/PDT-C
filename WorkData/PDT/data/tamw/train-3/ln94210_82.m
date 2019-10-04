@@ -143,7 +143,10 @@
 <LM>w#w-ln94210-82-p2s1Bw3</LM>
 </w.rf>
 <form>LN</form>
-<tag lemma="LN-1_:B_;R_^(Lidové_noviny,_deník)" src="orig" selected="1">NNFPX-----A---8</tag>
+<tag>
+<AM lemma="LN-1_:B_;R_^(Lidové_noviny,_deník)" src="orig">NNFPX-----A---8</AM>
+<AM lemma="LN-1_:B_;K_;R_^(Lidové_noviny)" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln94210-82-p2s1Bw4">
 <src.rf>manual</src.rf>
@@ -167,7 +170,10 @@
 <LM>w#w-ln94210-82-p2s1Bw6</LM>
 </w.rf>
 <form>Attila</form>
-<tag lemma="Attila_;Y_,t" src="auto" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Attila_;Y_,t" src="auto">NNMS1-----A----</AM>
+<AM lemma="Attila_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94210-82-p2s1Bw7">
 <src.rf>manual</src.rf>
@@ -196,7 +202,7 @@
 <tag>
 <AM lemma="kterýkoliv" src="orig">PZZS2---------1</AM>
 <AM lemma="kterýkoli" src="auto">PZMS4----------</AM>
-<AM lemma="kterýkoli" src="auto" recommended="1">PZZS2----------</AM>
+<AM lemma="kterýkoli" src="auto" recommended="1" selected="1">PZZS2----------</AM>
 </tag>
 </m>
 <m id="m-ln94210-82-p2s1Cw3">
@@ -729,7 +735,7 @@
 <tag>
 <AM lemma="přesto" src="orig">Dg-------1A----</AM>
 <AM lemma="přesto-1" src="auto">Db-------------</AM>
-<AM lemma="přesto-2" src="auto" recommended="1">J^-------------</AM>
+<AM lemma="přesto-2" src="auto" recommended="1" selected="1">J^-------------</AM>
 </tag>
 </m>
 <m id="m-ln94210-82-p2s5w2">
@@ -935,6 +941,7 @@
 <tag>
 <AM lemma="MTV-2_:B_;K_;y_^(Maďarská_TV)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="MTV-1_:B_;K_;y_^(TV_stanice_USA)" src="auto" recommended="1">NNNXX-----A---8</AM>
+<AM lemma="MTV-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94210-82-p3s1w14">
@@ -1185,7 +1192,10 @@
 <LM>w#w-ln94210-82-p3s2w22</LM>
 </w.rf>
 <form>NATO</form>
-<tag lemma="NATO_:B_;K_^(North_Atlantic_Treaty_Organization)" src="auto" selected="1">NNNXX-----A---8</tag>
+<tag>
+<AM lemma="NATO_:B_;K_^(North_Atlantic_Treaty_Organization)" src="auto">NNNXX-----A---8</AM>
+<AM lemma="NATO_:B_;K_^(North_Atlantic_Treaty_Organization)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94210-82-p3s2w23">
 <src.rf>manual</src.rf>
@@ -1257,7 +1267,10 @@
 <LM>w#w-ln94210-82-p3s2w31</LM>
 </w.rf>
 <form>ČR</form>
-<tag lemma="ČR-1_:B_;G_^(Česká_republika)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94210-82-p3s2w32">
 <src.rf>manual</src.rf>
@@ -1273,7 +1286,10 @@
 <LM>w#w-ln94210-82-p3s2w33</LM>
 </w.rf>
 <form>SR</form>
-<tag lemma="SR-1_:B_;G_^(Slovenská_republika)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="SR-1_:B_;G_^(Slovenská_republika)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="SR-1_:B_;G_^(Slovenská_republika)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94210-82-p3s2w34">
 <src.rf>manual</src.rf>
@@ -1752,7 +1768,7 @@
 <form>Damoklův</form>
 <tag>
 <AM lemma="Damokles_;S_;Y_^(*2es)" src="orig">AUIS1M---------</AM>
-<AM lemma="Damoklův_;S_;Y_^(*2es)" src="auto" recommended="1">AUIS1M---------</AM>
+<AM lemma="Damoklův_;S_;Y_^(*2es)" src="auto" recommended="1" selected="1">AUIS1M---------</AM>
 <AM lemma="Damoklův_;S_;Y_^(*2es)" src="auto">AUIS4M---------</AM>
 <AM lemma="Damoklův_;S_;Y_^(*2es)" src="auto">AUIS5M---------</AM>
 <AM lemma="Damoklův_;S_;Y_^(*2es)" src="auto">AUMS1M---------</AM>
@@ -2027,7 +2043,10 @@
 <LM>w#w-ln94210-82-p4s1w1</LM>
 </w.rf>
 <form>László</form>
-<tag lemma="László_;Y_,t" src="auto" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="László_;Y_,t" src="auto">NNMS1-----A----</AM>
+<AM lemma="László_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94210-82-p4s1w2">
 <src.rf>manual</src.rf>
@@ -2316,7 +2335,7 @@
 <AM lemma="Ted_;Y_,t" src="auto">NNMP4-----A----</AM>
 <AM lemma="Ted_;Y_,t" src="auto">NNMP7-----A----</AM>
 <AM lemma="tedy-1" src="auto">TT-------------</AM>
-<AM lemma="tedy-2" src="auto" recommended="1">J^-------------</AM>
+<AM lemma="tedy-2" src="auto" recommended="1" selected="1">J^-------------</AM>
 </tag>
 </m>
 <m id="m-ln94210-82-p4s3w2">
@@ -2903,6 +2922,7 @@
 <AM lemma="nacionalizmus" src="orig">NNIS1-----A---1</AM>
 <AM lemma="nacionalizmus" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="nacionalizmus" src="auto">NNIS4-----A----</AM>
+<AM lemma="nacionalismus_,s_^(^DD**nacionalizmus)" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94210-82-p4s6w17">
@@ -3206,7 +3226,7 @@
 <tag>
 <AM lemma="přesto" src="orig">Dg-------1A----</AM>
 <AM lemma="přesto-1" src="auto">Db-------------</AM>
-<AM lemma="přesto-2" src="auto" recommended="1">J^-------------</AM>
+<AM lemma="přesto-2" src="auto" recommended="1" selected="1">J^-------------</AM>
 </tag>
 </m>
 <m id="m-ln94210-82-p5s1w2">

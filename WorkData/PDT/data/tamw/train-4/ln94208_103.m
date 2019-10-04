@@ -51,7 +51,10 @@
 <LM>w#w-ln94208-103-p1s1w5</LM>
 </w.rf>
 <form>OH</form>
-<tag lemma="OH-2_:B_;w_^(Olympijské_hry)" src="orig" selected="1">NNFPX-----A---8</tag>
+<tag>
+<AM lemma="OH-2_:B_;w_^(Olympijské_hry)" src="orig">NNFPX-----A---8</AM>
+<AM lemma="OH-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94208-103-p1s1w6">
 <src.rf>manual</src.rf>
@@ -208,7 +211,7 @@
 </w.rf>
 <form>taekwondo</form>
 <tag>
-<AM lemma="taekwondo" src="orig">NNNXX-----A----</AM>
+<AM lemma="taekwondo" src="orig" selected="1">NNNXX-----A----</AM>
 <AM lemma="taekwondo" src="auto" recommended="1">NNNS1-----A----</AM>
 <AM lemma="taekwondo" src="auto">NNNS4-----A----</AM>
 <AM lemma="taekwondo" src="auto">NNNS5-----A----</AM>
@@ -416,7 +419,10 @@
 <LM>w#w-ln94208-103-p2s3w9</LM>
 </w.rf>
 <form>MOV</form>
-<tag lemma="MOV_:B_;K_^(Mezinárodní_olympijský_výbor)" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="MOV_:B_;K_^(Mezinárodní_olympijský_výbor)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="MOV-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94208-103-p2s3w10">
 <src.rf>manual</src.rf>
@@ -450,7 +456,10 @@
 <LM>w#w-ln94208-103-p3s1w3</LM>
 </w.rf>
 <form>mít</form>
-<tag lemma="mít" src="orig" selected="1">Vf--------A----</tag>
+<tag>
+<AM lemma="mít" src="orig">Vf--------A----</AM>
+<AM lemma="mít_:T" src="manual" selected="1">Vf--------A----</AM>
+</tag>
 </m>
 <m id="m-ln94208-103-p3s1w4">
 <src.rf>manual</src.rf>
@@ -538,7 +547,10 @@
 <LM>w#w-ln94208-103-p3s1w14</LM>
 </w.rf>
 <form>km</form>
-<tag lemma="km-1`kilometr_:B" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="km-1`kilometr_:B" src="orig">NNIXX-----A---8</AM>
+<AM lemma="kilometr" src="manual" selected="1">NNIXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln94208-103-p3s1w15">
 <src.rf>manual</src.rf>
@@ -570,7 +582,10 @@
 <LM>w#w-ln94208-103-p3s1w18</LM>
 </w.rf>
 <form>km</form>
-<tag lemma="km-1`kilometr_:B" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="km-1`kilometr_:B" src="orig">NNIXX-----A---8</AM>
+<AM lemma="kilometr" src="manual" selected="1">NNIXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln94208-103-p3s1w19">
 <src.rf>manual</src.rf>
@@ -602,7 +617,10 @@
 <LM>w#w-ln94208-103-p3s1w22</LM>
 </w.rf>
 <form>km</form>
-<tag lemma="km-1`kilometr_:B" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="km-1`kilometr_:B" src="orig">NNIXX-----A---8</AM>
+<AM lemma="kilometr" src="manual" selected="1">NNIXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln94208-103-p3s1w23">
 <src.rf>manual</src.rf>
@@ -716,7 +734,10 @@
 <LM>w#w-ln94208-103-p3s2w11</LM>
 </w.rf>
 <form>rozšířeno</form>
-<tag lemma="rozšířit" src="orig" selected="1">VsNS---XX-AP---</tag>
+<tag>
+<AM lemma="rozšířit" src="orig">VsNS---XX-AP---</AM>
+<AM lemma="rozšířit_:W" src="manual" selected="1">VsNS---XX-AP---</AM>
+</tag>
 </m>
 <m id="m-ln94208-103-p3s2w12">
 <src.rf>manual</src.rf>
@@ -732,7 +753,10 @@
 <LM>w#w-ln94208-103-p3s2w13</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-2" src="auto" selected="1">Dg-------2A----</tag>
+<tag>
+<AM lemma="hodně-2" src="auto">Dg-------2A----</AM>
+<AM lemma="hodně-3" src="manual" selected="1">Dg-------2A----</AM>
+</tag>
 </m>
 <m id="m-ln94208-103-p3s2w14">
 <src.rf>manual</src.rf>
@@ -1114,7 +1138,10 @@
 <LM>w#w-ln94208-103-p3s5w8</LM>
 </w.rf>
 <form>MOV</form>
-<tag lemma="MOV_:B_;K_^(Mezinárodní_olympijský_výbor)" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="MOV_:B_;K_^(Mezinárodní_olympijský_výbor)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="MOV-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94208-103-p3s5w9">
 <src.rf>manual</src.rf>
@@ -1194,7 +1221,10 @@
 <LM>w#w-ln94208-103-p3s5w18</LM>
 </w.rf>
 <form>uvedou</form>
-<tag lemma="uvést" src="orig" selected="1">VB-P---3P-AA---</tag>
+<tag>
+<AM lemma="uvést" src="orig">VB-P---3P-AA---</AM>
+<AM lemma="uvést_:W" src="manual" selected="1">VB-P---3P-AA---</AM>
+</tag>
 </m>
 <m id="m-ln94208-103-p3s5w19">
 <src.rf>manual</src.rf>
@@ -1276,7 +1306,10 @@
 <LM>w#w-ln94208-103-p3s6w2</LM>
 </w.rf>
 <form>MOV</form>
-<tag lemma="MOV_:B_;K_^(Mezinárodní_olympijský_výbor)" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="MOV_:B_;K_^(Mezinárodní_olympijský_výbor)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="MOV-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94208-103-p3s6w3">
 <src.rf>manual</src.rf>
@@ -1284,7 +1317,10 @@
 <LM>w#w-ln94208-103-p3s6w3</LM>
 </w.rf>
 <form>J</form>
-<tag lemma="J-0_:B_;Y" src="orig" selected="1">NNMXX-----A---8</tag>
+<tag>
+<AM lemma="J-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
+<AM lemma="J-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94208-103-p3s6w4">
 <src.rf>manual</src.rf>
@@ -1300,7 +1336,10 @@
 <LM>w#w-ln94208-103-p3s6w5</LM>
 </w.rf>
 <form>A</form>
-<tag lemma="A-0_:B_;Y" src="orig" selected="1">NNMXX-----A---8</tag>
+<tag>
+<AM lemma="A-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
+<AM lemma="A-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94208-103-p3s6w6">
 <src.rf>manual</src.rf>
@@ -1372,7 +1411,10 @@
 <LM>w#w-ln94208-103-p3s6w14</LM>
 </w.rf>
 <form>přijmout</form>
-<tag lemma="přijmout" src="auto" selected="1">Vf--------A----</tag>
+<tag>
+<AM lemma="přijmout" src="auto">Vf--------A----</AM>
+<AM lemma="přijmout_:W" src="manual" selected="1">Vf--------A----</AM>
+</tag>
 </m>
 <m id="m-ln94208-103-p3s6w15">
 <src.rf>manual</src.rf>
@@ -1404,7 +1446,10 @@
 <LM>w#w-ln94208-103-p3s6w18</LM>
 </w.rf>
 <form>MOV</form>
-<tag lemma="MOV_:B_;K_^(Mezinárodní_olympijský_výbor)" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="MOV_:B_;K_^(Mezinárodní_olympijský_výbor)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="MOV-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94208-103-p3s6w19">
 <src.rf>manual</src.rf>

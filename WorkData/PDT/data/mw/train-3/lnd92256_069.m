@@ -45,7 +45,10 @@
 <LM>w#w-lnd92256-069-p2s1w2</LM>
 </w.rf>
 <form>NATO</form>
-<tag lemma="NATO_;K_^(North_Atlantic_Treaty_Organization)" src="orig" selected="1">NNNS1-----A----</tag>
+<tag>
+<AM lemma="NATO_;K_^(North_Atlantic_Treaty_Organization)" src="orig">NNNS1-----A----</AM>
+<AM lemma="NATO_;K_^(North_Atlantic_Treaty_Organization)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 </s>
 <s id="m-lnd92256-069-p3s1">
@@ -463,7 +466,10 @@
 <LM>w#w-lnd92256-069-p3s5w3</LM>
 </w.rf>
 <form>Lennart</form>
-<tag lemma="Lennart_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Lennart_;S" src="orig">NNMS1-----A----</AM>
+<AM lemma="Lennart_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92256-069-p3s5w4">
 <src.rf>manual</src.rf>

@@ -37,7 +37,7 @@
 <form>pomaleji</form>
 <tag>
 <AM lemma="pomale_^(*1ý)" src="orig">Dg-------2A----</AM>
-<AM lemma="pomalu" src="auto" recommended="1">Dg-------2A----</AM>
+<AM lemma="pomalu" src="auto" recommended="1" selected="1">Dg-------2A----</AM>
 </tag>
 </m>
 <m id="m-ln95042-003-p1s1w4">
@@ -1307,7 +1307,7 @@
 <form>nikoli</form>
 <tag>
 <AM lemma="nikoliv" src="orig">Db------------1</AM>
-<AM lemma="nikoli" src="auto" recommended="1">TT-------------</AM>
+<AM lemma="nikoli" src="auto" recommended="1" selected="1">TT-------------</AM>
 </tag>
 </m>
 <m id="m-ln95042-003-p5s1w25">
@@ -2750,7 +2750,10 @@
 <LM>w#w-ln95042-003-p7s4w4</LM>
 </w.rf>
 <form>nejvíce</form>
-<tag lemma="hodně-2" src="auto" selected="1">Dg-------3A----</tag>
+<tag>
+<AM lemma="hodně-2" src="auto">Dg-------3A----</AM>
+<AM lemma="hodně-3" src="manual" selected="1">Dg-------3A----</AM>
+</tag>
 </m>
 <m id="m-ln95042-003-p7s4w5">
 <src.rf>manual</src.rf>

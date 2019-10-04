@@ -262,6 +262,7 @@
 <AM lemma="Waltzův_;S_^(*2)" src="auto">AUFS7M---------</AM>
 <AM lemma="waltzový" src="auto" recommended="1">AAFS4----1A----</AM>
 <AM lemma="waltzový" src="auto">AAFS7----1A----</AM>
+<AM lemma="Waltzová_;S" src="manual" selected="1">NNFS4-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930709-048-p2s2w14">
@@ -748,7 +749,15 @@
 <LM>w#w-mf930709-048-p2s4w26</LM>
 </w.rf>
 <form>dolaru</form>
-<tag lemma="dolar_;b" src="orig" selected="1">NNIS2-----A----</tag>
+<tag>
+<AM lemma="dolar_;b" src="orig">NNIS2-----A----</AM>
+<AM lemma="dolar" src="manual">NNIS2-----A----</AM>
+</tag>
+<comment>
+<LM type="New Form">
+<text>dolarů</text>
+</LM>
+</comment>
 </m>
 <m id="m-mf930709-048-p2s4w27">
 <src.rf>manual</src.rf>
@@ -766,7 +775,10 @@
 <LM>w#w-mf930709-048-p2s5w1</LM>
 </w.rf>
 <form>Kurs</form>
-<tag lemma="kurs" src="auto" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="kurs" src="auto">NNIS1-----A----</AM>
+<AM lemma="kurs_,s_^(^DD**kurz)" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930709-048-p2s5w2">
 <src.rf>manual</src.rf>
@@ -790,7 +802,10 @@
 <LM>w#w-mf930709-048-p2s5w4</LM>
 </w.rf>
 <form>dolaru</form>
-<tag lemma="dolar_;b" src="orig" selected="1">NNIS3-----A----</tag>
+<tag>
+<AM lemma="dolar_;b" src="orig">NNIS3-----A----</AM>
+<AM lemma="dolar" src="manual" selected="1">NNIS3-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930709-048-p2s5w5">
 <src.rf>manual</src.rf>

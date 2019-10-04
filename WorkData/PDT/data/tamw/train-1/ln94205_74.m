@@ -642,7 +642,10 @@
 <LM>w#w-ln94205-74-p3s1w5</LM>
 </w.rf>
 <form>OSN</form>
-<tag lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94205-74-p3s1w6">
 <src.rf>manual</src.rf>
@@ -722,7 +725,10 @@
 <LM>w#w-ln94205-74-p3s1w15</LM>
 </w.rf>
 <form>La</form>
-<tag lemma="Le-1_,t_^(franc._člen_jako_souč._jmen_a_názvů)" src="orig" selected="1">AAFSX----1A----</tag>
+<tag>
+<AM lemma="Le-1_,t_^(franc._člen_jako_souč._jmen_a_názvů)" src="orig">AAFSX----1A----</AM>
+<AM lemma="La-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94205-74-p3s1w16">
 <src.rf>manual</src.rf>
@@ -730,7 +736,10 @@
 <LM>w#w-ln94205-74-p3s1w16</LM>
 </w.rf>
 <form>Repubblica</form>
-<tag lemma="Repubblica_;R_,t" src="orig" selected="1">NNFS1-----A----</tag>
+<tag>
+<AM lemma="Repubblica_;R_,t" src="orig">NNFS1-----A----</AM>
+<AM lemma="Repubblica-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94205-74-p3s1w17">
 <src.rf>manual</src.rf>
@@ -958,7 +967,10 @@
 <LM>w#w-ln94205-74-p4s1w2</LM>
 </w.rf>
 <form>tzv</form>
-<tag lemma="takzvaný_:B" src="orig" selected="1">AAXXX----1A---8</tag>
+<tag>
+<AM lemma="takzvaný_:B" src="orig">AAXXX----1A---8</AM>
+<AM lemma="takzvaný" src="manual" selected="1">AAXXX----1A---8</AM>
+</tag>
 </m>
 <m id="m-ln94205-74-p4s1w3">
 <src.rf>manual</src.rf>
@@ -1016,7 +1028,7 @@
 <form>jakýchkoli</form>
 <tag>
 <AM lemma="jakýkoliv" src="orig">PZXP2---------1</AM>
-<AM lemma="jakýkoli" src="auto" recommended="1">PZXP2----------</AM>
+<AM lemma="jakýkoli" src="auto" recommended="1" selected="1">PZXP2----------</AM>
 <AM lemma="jakýkoli" src="auto">PZXP6----------</AM>
 </tag>
 </m>
@@ -1239,7 +1251,10 @@
 <LM>w#w-ln94205-74-p5s1w10</LM>
 </w.rf>
 <form>Fikret</form>
-<tag lemma="Fikret_;S" src="auto" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Fikret_;S" src="auto">NNMS1-----A----</AM>
+<AM lemma="Fikret_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94205-74-p5s1w11">
 <src.rf>manual</src.rf>
@@ -1401,7 +1416,10 @@
 <LM>w#w-ln94205-74-p5s1w30</LM>
 </w.rf>
 <form>OSN</form>
-<tag lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94205-74-p5s1w31">
 <src.rf>manual</src.rf>
@@ -1470,6 +1488,7 @@
 <tag>
 <AM lemma="USA_;G" src="orig">NNIPX-----A----</AM>
 <AM lemma="USA_:B_;K_,t_^(United_States_of_America)" src="auto" recommended="1">NNIPX-----A---8</AM>
+<AM lemma="USA_:B_;K_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94205-74-p5s4w8">

@@ -163,7 +163,10 @@
 <LM>w#w-lnd92259-109-p1s1w19</LM>
 </w.rf>
 <form>FITESU</form>
-<tag lemma="FITES_:B_;K" src="orig" selected="1">NNIS2-----A----</tag>
+<tag>
+<AM lemma="FITES_:B_;K" src="orig">NNIS2-----A----</AM>
+<AM lemma="FITESU-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd92259-109-p1s1w20">
 <src.rf>manual</src.rf>
@@ -761,7 +764,10 @@
 <LM>w#w-lnd92259-109-p1s4w16</LM>
 </w.rf>
 <form>LN</form>
-<tag lemma="LN-1_:B_;R_^(Lidové_noviny,_deník)" src="orig" selected="1">NNFPX-----A---8</tag>
+<tag>
+<AM lemma="LN-1_:B_;R_^(Lidové_noviny,_deník)" src="orig">NNFPX-----A---8</AM>
+<AM lemma="LN-1_:B_;K_;R_^(Lidové_noviny,_deník)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92259-109-p1s4w17">
 <src.rf>manual</src.rf>
@@ -803,7 +809,10 @@
 <LM>w#w-lnd92259-109-p2s1w2</LM>
 </w.rf>
 <form>jaf</form>
-<tag lemma="jaf-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="jaf-99_:B_;S" src="orig">NNXXX-----A---8</AM>
+<AM lemma="jaf-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92259-109-p2s1w3">
 <src.rf>manual</src.rf>
@@ -851,7 +860,10 @@
 <LM>w#w-lnd92259-109-p2s1w8</LM>
 </w.rf>
 <form>LN</form>
-<tag lemma="LN-1_:B_;R_^(Lidové_noviny,_deník)" src="orig" selected="1">NNFPX-----A---8</tag>
+<tag>
+<AM lemma="LN-1_:B_;R_^(Lidové_noviny,_deník)" src="orig">NNFPX-----A---8</AM>
+<AM lemma="LN-1_:B_;K_;R_^(Lidové_noviny,_deník)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 </s>
 </mdata>

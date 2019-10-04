@@ -63,7 +63,7 @@
 <form>kdykoliv</form>
 <tag>
 <AM lemma="kdykoliv" src="orig">Db-------------</AM>
-<AM lemma="kdykoli" src="auto" recommended="1">Db------------1</AM>
+<AM lemma="kdykoli" src="auto" recommended="1" selected="1">Db------------1</AM>
 </tag>
 </m>
 <m id="m-ln95049-114-p2s1w4">
@@ -203,7 +203,7 @@
 <form>nejen</form>
 <tag>
 <AM lemma="nejen" src="orig">TT-------------</AM>
-<AM lemma="nejen" src="auto" recommended="1">Db-------------</AM>
+<AM lemma="nejen" src="auto" recommended="1" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m-ln95049-114-p2s1w21">
@@ -546,7 +546,7 @@
 <form>kdokoliv</form>
 <tag>
 <AM lemma="kdokoliv" src="orig">PZM-1----------</AM>
-<AM lemma="kdokoli" src="auto" recommended="1">PZM-1---------1</AM>
+<AM lemma="kdokoli" src="auto" recommended="1" selected="1">PZM-1---------1</AM>
 <AM lemma="kdokoli" src="auto">PZM-5---------1</AM>
 </tag>
 </m>
@@ -1173,6 +1173,11 @@
 </w.rf>
 <form>málo</form>
 <tag lemma="málo-3_^(málo_+_příd._jm.,_př._byl_málo_důsledný)" src="orig" selected="1">Dg-------1A----</tag>
+<comment>
+<LM type="Other">
+<text>tady by asi bylo nejlepší to opravit na málokdy (pokud tedy jde vymazat mezera mezi slovy, jinak to málo nebude moc sedět)</text>
+</LM>
+</comment>
 </m>
 <m id="m-ln95049-114-p2s7w14">
 <src.rf>manual</src.rf>
@@ -1278,7 +1283,7 @@
 <form>raději</form>
 <tag>
 <AM lemma="raději" src="orig">Dg-------2A----</AM>
-<AM lemma="rád" src="auto" recommended="1">Dg-------2A----</AM>
+<AM lemma="rád" src="auto" recommended="1" selected="1">Dg-------2A----</AM>
 </tag>
 </m>
 <m id="m-ln95049-114-p2s7w27">
@@ -1443,7 +1448,7 @@
 <form>čehokoliv</form>
 <tag>
 <AM lemma="cokoliv" src="orig">PZ--2----------</AM>
-<AM lemma="cokoli" src="auto" recommended="1">PZ--2---------1</AM>
+<AM lemma="cokoli" src="auto" recommended="1" selected="1">PZ--2---------1</AM>
 </tag>
 </m>
 <m id="m-ln95049-114-p3s1w15">
@@ -1860,7 +1865,10 @@
 <LM>w#w-ln95049-114-p4s1w14</LM>
 </w.rf>
 <form>TV</form>
-<tag lemma="televize_:B" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="televize_:B" src="orig">NNFXX-----A---8</AM>
+<AM lemma="televize" src="manual" selected="1">NNFXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln95049-114-p4s1w15">
 <src.rf>manual</src.rf>
@@ -2014,7 +2022,10 @@
 <LM>w#w-ln95049-114-p4s2w17</LM>
 </w.rf>
 <form>vydalo</form>
-<tag lemma="vydat-4_:W_^(platit,_př._vydat_peníze,_v._se_ze_všeho)" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag>
+<AM lemma="vydat-4_:W_^(platit,_př._vydat_peníze,_v._se_ze_všeho)" src="orig">VpNS---XR-AA---</AM>
+<AM lemma="vydat_:W" src="manual" selected="1">VpNS---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-ln95049-114-p4s2w18">
 <src.rf>manual</src.rf>
@@ -2226,7 +2237,7 @@
 <form>snad</form>
 <tag>
 <AM lemma="snad" src="orig">Db-------------</AM>
-<AM lemma="snad" src="auto" recommended="1">TT-------------</AM>
+<AM lemma="snad" src="auto" recommended="1" selected="1">TT-------------</AM>
 </tag>
 </m>
 <m id="m-ln95049-114-p4s3w20">
@@ -2723,7 +2734,11 @@
 <LM>w#w-ln95049-114-p4s7w8</LM>
 </w.rf>
 <form>gangsterismu</form>
-<tag lemma="gangsterizmus" src="orig" selected="1">NNIS2-----A----</tag>
+<tag>
+<AM lemma="gangsterizmus" src="orig">NNIS2-----A----</AM>
+<AM lemma="gangsterizmus_,s_^(^DD**gangsterizmus)" src="manual">NNIS2-----A----</AM>
+<AM lemma="gangsterismus_,s_^(^DD**gangsterizmus)" src="manual" selected="1">NNIS2-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95049-114-p4s7w9">
 <src.rf>manual</src.rf>
@@ -2811,7 +2826,10 @@
 <LM>w#w-ln95049-114-p4s7w19</LM>
 </w.rf>
 <form>strany</form>
-<tag lemma="strana-2_^(politická)" src="orig" selected="1">NNFP4-----A----</tag>
+<tag>
+<AM lemma="strana-2_^(politická)" src="orig">NNFP4-----A----</AM>
+<AM lemma="strana" src="manual" selected="1">NNFP4-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95049-114-p4s7w20">
 <src.rf>manual</src.rf>
@@ -2903,7 +2921,7 @@
 <form>jistěže</form>
 <tag>
 <AM lemma="jistěže" src="orig">Db-------------</AM>
-<AM lemma="jistěže" src="auto" recommended="1">TT-------------</AM>
+<AM lemma="jistěže" src="auto" recommended="1" selected="1">TT-------------</AM>
 </tag>
 </m>
 <m id="m-ln95049-114-p4s8w3">

@@ -197,7 +197,10 @@
 <LM>w#w-ln94202-12-p1s2w13</LM>
 </w.rf>
 <form>BMW</form>
-<tag lemma="BMW_:B_;K_;R_^(vozidlo)" src="auto" selected="1">NNNXX-----A----</tag>
+<tag>
+<AM lemma="BMW_:B_;K_;R_^(vozidlo)" src="auto">NNNXX-----A----</AM>
+<AM lemma="BMW-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94202-12-p1s2w14">
 <src.rf>manual</src.rf>
@@ -245,7 +248,10 @@
 <LM>w#w-ln94202-12-p1s2w19</LM>
 </w.rf>
 <form>i</form>
-<tag lemma="i-3_^(označení_pomocí_písmene)" src="orig" selected="1">NNNXX-----A----</tag>
+<tag>
+<AM lemma="i-3_^(označení_pomocí_písmene)" src="orig">NNNXX-----A----</AM>
+<AM lemma="i-33_^(označení_pomocí_písmene)" src="manual" selected="1">NNNXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94202-12-p1s2w20">
 <src.rf>manual</src.rf>
@@ -425,7 +431,7 @@
 <form>Porsche</form>
 <tag>
 <AM lemma="Porsche-1_;K" src="orig">NNIXX-----A----</AM>
-<AM lemma="Porsche-1_;K_;R" src="auto">NNXXX-----A----</AM>
+<AM lemma="Porsche-1_;K_;R" src="auto" selected="1">NNXXX-----A----</AM>
 <AM lemma="Porsche-3_;S" src="auto">NNMS1-----A----</AM>
 <AM lemma="Porsche-3_;S" src="auto">NNMS5-----A----</AM>
 <AM lemma="porsche_;R" src="auto">NNNP1-----A----</AM>
@@ -486,7 +492,7 @@
 <form>ačkoliv</form>
 <tag>
 <AM lemma="ačkoliv" src="orig">J,-------------</AM>
-<AM lemma="ačkoli" src="auto" recommended="1">J,------------1</AM>
+<AM lemma="ačkoli" src="auto" recommended="1" selected="1">J,------------1</AM>
 </tag>
 </m>
 <m id="m-ln94202-12-p1s3w20">
@@ -644,7 +650,7 @@
 <tag>
 <AM lemma="Maserati_;K" src="orig">NNNXX-----A----</AM>
 <AM lemma="Maserati_;R" src="auto" recommended="1">NNNXX-----A----</AM>
-<AM lemma="Maserati_;R_^(značka_automobilu)" src="auto">NNNXX-----A----</AM>
+<AM lemma="Maserati_;R_^(značka_automobilu)" src="auto" selected="1">NNNXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94202-12-p1s4w12">

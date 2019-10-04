@@ -104,6 +104,7 @@
 <tag>
 <AM lemma="ČBS_:B_;K_^(Český_basketbalový_svaz)" src="orig">NNIXX-----A---8</AM>
 <AM lemma="ČBS_:B" src="auto" recommended="1">NNXXX-----A---8</AM>
+<AM lemma="ČBS-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92253-081-p2s1w8">
@@ -163,6 +164,10 @@
 <tag>
 <AM lemma="SBA-3_:B_;K_^(Slovenská_basketbalová_asociace)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="SBA-1_:B_,t_^(serial_bus_analyzer)" src="auto" recommended="1">NNIXX-----A---8</AM>
+<AM lemma="SBA-3_:B_;K_^(" src="manual">NNFXX-----A---8</AM>
+<AM lemma="SBA-2_:B" src="manual">NNXXX-----A----</AM>
+<AM lemma="SBA-2_:B" src="manual">NNXXX-----A---8</AM>
+<AM lemma="SBA-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92253-081-p2s1w15">
@@ -389,7 +394,10 @@
 <LM>w#w-lnd92253-081-p2s2w12</LM>
 </w.rf>
 <form>FIBA</form>
-<tag lemma="FIBA_:B_;K" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="FIBA_:B_;K" src="orig">NNFXX-----A---8</AM>
+<AM lemma="FIBA-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92253-081-p2s2w13">
 <src.rf>manual</src.rf>
@@ -397,7 +405,10 @@
 <LM>w#w-lnd92253-081-p2s2w13</LM>
 </w.rf>
 <form>B</form>
-<tag lemma="B-0_:B_;Y" src="orig" selected="1">NNMXX-----A---8</tag>
+<tag>
+<AM lemma="B-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
+<AM lemma="B-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92253-081-p2s2w14">
 <src.rf>manual</src.rf>
@@ -485,7 +496,10 @@
 <LM>w#w-lnd92253-081-p2s2w25</LM>
 </w.rf>
 <form>ME</form>
-<tag lemma="ME-1_:B_;w_^(mistrovství_Evropy)" src="orig" selected="1">NNNXX-----A---8</tag>
+<tag>
+<AM lemma="ME-1_:B_;w_^(mistrovství_Evropy)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="ME-1_:B_^(mistrovství_Evropy)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92253-081-p2s2w26">
 <src.rf>manual</src.rf>
@@ -641,7 +655,7 @@
 <form>ovšem</form>
 <tag>
 <AM lemma="ovšem-1_^(avšak,_však;_odporovací_spojka)" src="orig">J^-------------</AM>
-<AM lemma="ovšem" src="auto" recommended="1">TT-------------</AM>
+<AM lemma="ovšem" src="auto" recommended="1" selected="1">TT-------------</AM>
 </tag>
 </m>
 <m id="m-lnd92253-081-p2s3w6">
@@ -876,7 +890,10 @@
 <LM>w#w-lnd92253-081-p2s4w7</LM>
 </w.rf>
 <form>FIBA</form>
-<tag lemma="FIBA_:B_;K" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="FIBA_:B_;K" src="orig">NNFXX-----A---8</AM>
+<AM lemma="FIBA-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92253-081-p2s4w8">
 <src.rf>manual</src.rf>
@@ -1267,6 +1284,7 @@
 <tag>
 <AM lemma="ČBS_:B_;K_^(Český_basketbalový_svaz)" src="orig">NNIXX-----A---8</AM>
 <AM lemma="ČBS_:B" src="auto" recommended="1">NNXXX-----A---8</AM>
+<AM lemma="ČBS-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92253-081-p2s6w3">
@@ -1406,6 +1424,9 @@
 <tag>
 <AM lemma="SBA-3_:B_;K_^(Slovenská_basketbalová_asociace)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="SBA-1_:B_,t_^(serial_bus_analyzer)" src="auto" recommended="1">NNIXX-----A---8</AM>
+<AM lemma="SBA-2_:B" src="manual">NNXXX-----A----</AM>
+<AM lemma="SBA-2_:B" src="manual">NNXXX-----A---8</AM>
+<AM lemma="SBA-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92253-081-p2s6w20">
@@ -1430,7 +1451,10 @@
 <LM>w#w-lnd92253-081-p2s6w22</LM>
 </w.rf>
 <form>převést</form>
-<tag lemma="převést" src="orig" selected="1">Vf--------A----</tag>
+<tag>
+<AM lemma="převést" src="orig">Vf--------A----</AM>
+<AM lemma="převést_:W" src="manual" selected="1">Vf--------A----</AM>
+</tag>
 </m>
 <m id="m-lnd92253-081-p2s6w23">
 <src.rf>manual</src.rf>
@@ -1616,7 +1640,10 @@
 <LM>w#w-lnd92253-081-p2s7w7</LM>
 </w.rf>
 <form>FIBA</form>
-<tag lemma="FIBA_:B_;K" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="FIBA_:B_;K" src="orig">NNFXX-----A---8</AM>
+<AM lemma="FIBA-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92253-081-p2s7w8">
 <src.rf>manual</src.rf>
@@ -1682,7 +1709,10 @@
 <LM>w#w-lnd92253-081-p2s8w2</LM>
 </w.rf>
 <form>strana</form>
-<tag lemma="strana-3_^(u_soudu,_na_úřadě,_smluvní_strany;_na_něčí_straně)" src="orig" selected="1">NNFS1-----A----</tag>
+<tag>
+<AM lemma="strana-3_^(u_soudu,_na_úřadě,_smluvní_strany;_na_něčí_straně)" src="orig">NNFS1-----A----</AM>
+<AM lemma="strana" src="manual" selected="1">NNFS1-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92253-081-p2s8w3">
 <src.rf>manual</src.rf>
@@ -1956,7 +1986,10 @@
 <LM>w#w-lnd92253-081-p2s9w15</LM>
 </w.rf>
 <form>nevzdal</form>
-<tag lemma="vzdát" src="orig" selected="1">VpYS---XR-NA---</tag>
+<tag>
+<AM lemma="vzdát" src="orig">VpYS---XR-NA---</AM>
+<AM lemma="vzdát_:W" src="manual" selected="1">VpYS---XR-NA---</AM>
+</tag>
 </m>
 <m id="m-lnd92253-081-p2s9w16">
 <src.rf>manual</src.rf>
@@ -1982,7 +2015,11 @@
 <LM>w#w-lnd92253-081-p2s10w2</LM>
 </w.rf>
 <form>sice</form>
-<tag lemma="sice-2" src="auto" selected="1">Db-------------</tag>
+<tag>
+<AM lemma="sice-2" src="auto">Db-------------</AM>
+<AM lemma="sice-1_^(spojka;_připouští_se_určitá_fakta" src="manual">J^-------------</AM>
+<AM lemma="sice-1_^(spojka;_připouští_se_určitá_fakta)" src="manual" selected="1">J^-------------</AM>
+</tag>
 </m>
 <m id="m-lnd92253-081-p2s10w3">
 <src.rf>manual</src.rf>
@@ -2453,6 +2490,7 @@
 <tag>
 <AM lemma="ČBS_:B_;K_^(Český_basketbalový_svaz)" src="orig">NNIXX-----A---8</AM>
 <AM lemma="ČBS_:B" src="auto" recommended="1">NNXXX-----A---8</AM>
+<AM lemma="ČBS-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92253-081-p2s12w4">
@@ -2472,6 +2510,10 @@
 <tag>
 <AM lemma="SBA-3_:B_;K_^(Slovenská_basketbalová_asociace)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="SBA-1_:B_,t_^(serial_bus_analyzer)" src="auto" recommended="1">NNIXX-----A---8</AM>
+<AM lemma="SBA-3_:B_" src="manual">NNFXX-----A---8</AM>
+<AM lemma="SBA-2_:B" src="manual">NNXXX-----A----</AM>
+<AM lemma="SBA-2_:B" src="manual">NNXXX-----A---8</AM>
+<AM lemma="SBA-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92253-081-p2s12w6">
@@ -2536,7 +2578,10 @@
 <LM>w#w-lnd92253-081-p2s12w13</LM>
 </w.rf>
 <form>věděly</form>
-<tag lemma="vědět" src="orig" selected="1">VpTP---XR-AA---</tag>
+<tag>
+<AM lemma="vědět" src="orig">VpTP---XR-AA---</AM>
+<AM lemma="vědět_:T" src="manual" selected="1">VpTP---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-lnd92253-081-p2s12w14">
 <src.rf>manual</src.rf>

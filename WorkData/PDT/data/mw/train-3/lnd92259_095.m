@@ -95,7 +95,10 @@
 <LM>w#w-lnd92259-095-p2s2w5</LM>
 </w.rf>
 <form>AC</form>
-<tag lemma="AC-1_:B_;K_;w_^(př._AC_Sparta_Praha)" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="AC-1_:B_;K_;w_^(př._AC_Sparta_Praha)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="AC-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd92259-095-p2s2w6">
 <src.rf>manual</src.rf>
@@ -167,7 +170,10 @@
 <LM>w#w-lnd92259-095-p2s2w14</LM>
 </w.rf>
 <form>PMEZ</form>
-<tag lemma="PMEZ_:B_;K_^(Pohár_mistrů_evropských_zemí)" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="PMEZ_:B_;K_^(Pohár_mistrů_evropských_zemí)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="PMEZ-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd92259-095-p2s2w15">
 <src.rf>manual</src.rf>
@@ -254,6 +260,7 @@
 <AM lemma="libero" src="auto" recommended="1">NNNS1-----A----</AM>
 <AM lemma="libero" src="auto">NNNS4-----A----</AM>
 <AM lemma="libero" src="auto">NNNS5-----A----</AM>
+<AM lemma="libero-2" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92259-095-p2s3w3">
@@ -336,7 +343,7 @@
 </w.rf>
 <form>Antonio</form>
 <tag>
-<AM lemma="Antonio_;Y" src="orig">NNMXX-----A----</AM>
+<AM lemma="Antonio_;Y" src="orig" selected="1">NNMXX-----A----</AM>
 <AM lemma="Antonio_;Y_,t" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Antonio_;Y_,t" src="auto">NNMS5-----A----</AM>
 </tag>
@@ -350,7 +357,7 @@
 <tag>
 <AM lemma="Matarres_;S" src="orig">NNMS7-----A----</AM>
 <AM lemma="Matarrese_;S" src="auto">NNMS6-----A----</AM>
-<AM lemma="Matarrese_;S" src="auto" recommended="1">NNMS7-----A----</AM>
+<AM lemma="Matarrese_;S" src="auto" recommended="1" selected="1">NNMS7-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92259-095-p2s3w14">
@@ -513,7 +520,10 @@
 <LM>w#w-lnd92259-095-p2s4w19</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-2" src="auto" selected="1">Dg-------2A----</tag>
+<tag>
+<AM lemma="hodně-2" src="auto">Dg-------2A----</AM>
+<AM lemma="více_^(více_+_2._p.,_více_peněz)" src="manual" selected="1">Ca--4----------</AM>
+</tag>
 </m>
 <m id="m-lnd92259-095-p2s4w20">
 <src.rf>manual</src.rf>

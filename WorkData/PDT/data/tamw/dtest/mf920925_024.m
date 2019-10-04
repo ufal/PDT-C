@@ -477,7 +477,7 @@
 <form>Agharta</form>
 <tag>
 <AM lemma="Agharta_;m_,t" src="orig">AAXXX----1A----</AM>
-<AM lemma="Agharta_;K" src="auto" recommended="1">NNFS1-----A----</AM>
+<AM lemma="Agharta_;K" src="auto" recommended="1" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920925-024-p4s2w15">
@@ -550,7 +550,10 @@
 <LM>w#w-mf920925-024-p4s2w23</LM>
 </w.rf>
 <form>socialismu</form>
-<tag lemma="socialismus" src="orig" selected="1">NNIS2-----A----</tag>
+<tag>
+<AM lemma="socialismus" src="orig">NNIS2-----A----</AM>
+<AM lemma="socialismus_,s_^(^DD**socializmus)" src="manual" selected="1">NNIS2-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920925-024-p4s2w24">
 <src.rf>manual</src.rf>
@@ -1626,7 +1629,10 @@
 <LM>w#w-mf920925-024-p6s3w10</LM>
 </w.rf>
 <form>vidět</form>
-<tag lemma="vidět" src="orig" selected="1">Vf--------A----</tag>
+<tag>
+<AM lemma="vidět" src="orig">Vf--------A----</AM>
+<AM lemma="vidět_:T" src="manual" selected="1">Vf--------A----</AM>
+</tag>
 </m>
 <m id="m-mf920925-024-p6s3w11">
 <src.rf>manual</src.rf>
@@ -1718,7 +1724,10 @@
 <LM>w#w-mf920925-024-p6s5w4</LM>
 </w.rf>
 <form>sice</form>
-<tag lemma="sice-2" src="auto" selected="1">Db-------------</tag>
+<tag>
+<AM lemma="sice-2" src="auto">Db-------------</AM>
+<AM lemma="sice-1_^(spojka;_připouští_se_určitá_fakta)" src="manual" selected="1">J^-------------</AM>
+</tag>
 </m>
 <m id="m-mf920925-024-p6s5w5">
 <src.rf>manual</src.rf>
@@ -1922,7 +1931,10 @@
 <LM>w#w-mf920925-024-p6s7w6</LM>
 </w.rf>
 <form>deus</form>
-<tag lemma="deus_,t" src="orig" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="deus_,t" src="orig">NNMS1-----A----</AM>
+<AM lemma="deus-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-mf920925-024-p6s7w7">
 <src.rf>manual</src.rf>
@@ -1930,7 +1942,10 @@
 <LM>w#w-mf920925-024-p6s7w7</LM>
 </w.rf>
 <form>ex</form>
-<tag lemma="ex-2_;R_,t_^(lat.,_advokát_ex_offo)" src="orig" selected="1">RR--X----------</tag>
+<tag>
+<AM lemma="ex-2_;R_,t_^(lat.,_advokát_ex_offo)" src="orig">RR--X----------</AM>
+<AM lemma="ex-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-mf920925-024-p6s7w8">
 <src.rf>manual</src.rf>
@@ -1938,7 +1953,10 @@
 <LM>w#w-mf920925-024-p6s7w8</LM>
 </w.rf>
 <form>machina</form>
-<tag lemma="machina_,t_^(deus_ex_machina)" src="orig" selected="1">NNFS1-----A----</tag>
+<tag>
+<AM lemma="machina_,t_^(deus_ex_machina)" src="orig">NNFS1-----A----</AM>
+<AM lemma="machina-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-mf920925-024-p6s7w9">
 <src.rf>manual</src.rf>
@@ -1996,7 +2014,7 @@
 <form>tytam</form>
 <tag>
 <AM lemma="tytam" src="orig">Db-------------</AM>
-<AM lemma="tentam" src="auto">AOFP-----------</AM>
+<AM lemma="tentam" src="auto" selected="1">AOFP-----------</AM>
 <AM lemma="tentam" src="auto" recommended="1">AOIP-----------</AM>
 </tag>
 </m>
@@ -2032,7 +2050,10 @@
 <LM>w#w-mf920925-024-p6s8w3</LM>
 </w.rf>
 <form>li</form>
-<tag lemma="li-1" src="auto" selected="1">TT-------------</tag>
+<tag>
+<AM lemma="li-1" src="auto">TT-------------</AM>
+<AM lemma="li-2" src="manual" selected="1">J,-------------</AM>
+</tag>
 </m>
 <m id="m-mf920925-024-p6s8w4">
 <src.rf>manual</src.rf>

@@ -45,7 +45,10 @@
 <LM>w#w-ln94200-149-p2s1Aw1</LM>
 </w.rf>
 <form>La</form>
-<tag lemma="Le-1_,t_^(franc._člen_jako_souč._jmen_a_názvů)" src="orig" selected="1">AAFSX----1A----</tag>
+<tag>
+<AM lemma="Le-1_,t_^(franc._člen_jako_souč._jmen_a_názvů)" src="orig">AAFSX----1A----</AM>
+<AM lemma="La-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94200-149-p2s1Aw2">
 <src.rf>manual</src.rf>
@@ -167,7 +170,10 @@
 <LM>w#w-ln94200-149-p2s1Bw13</LM>
 </w.rf>
 <form>Deportivo</form>
-<tag lemma="Deportivo" src="orig" selected="1">NNNS1-----A----</tag>
+<tag>
+<AM lemma="Deportivo" src="orig">NNNS1-----A----</AM>
+<AM lemma="Deportivo-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94200-149-p2s1Bw14">
 <src.rf>manual</src.rf>
@@ -175,7 +181,10 @@
 <LM>w#w-ln94200-149-p2s1Bw14</LM>
 </w.rf>
 <form>La</form>
-<tag lemma="Le-1_,t_^(franc._člen_jako_souč._jmen_a_názvů)" src="orig" selected="1">AAFSX----1A----</tag>
+<tag>
+<AM lemma="Le-1_,t_^(franc._člen_jako_souč._jmen_a_názvů)" src="orig">AAFSX----1A----</AM>
+<AM lemma="La-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94200-149-p2s1Bw15">
 <src.rf>manual</src.rf>
@@ -341,7 +350,7 @@
 <form>vůbec</form>
 <tag>
 <AM lemma="vůbec" src="orig">Db-------------</AM>
-<AM lemma="vůbec" src="auto" recommended="1">TT-------------</AM>
+<AM lemma="vůbec" src="auto" recommended="1" selected="1">TT-------------</AM>
 </tag>
 </m>
 <m id="m-ln94200-149-p2s3w11">
@@ -366,7 +375,10 @@
 <LM>w#w-ln94200-149-p2s3w13</LM>
 </w.rf>
 <form>uvedl</form>
-<tag lemma="uvést" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag>
+<AM lemma="uvést" src="orig">VpYS---XR-AA---</AM>
+<AM lemma="uvést_:W" src="manual" selected="1">VpYS---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-ln94200-149-p2s3w14">
 <src.rf>manual</src.rf>
@@ -400,7 +412,7 @@
 <form>Ricardo</form>
 <tag>
 <AM lemma="Ricardo_;S_;Y" src="orig">NNMXX-----A----</AM>
-<AM lemma="Ricardo_;S_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Ricardo_;S_;Y" src="auto" recommended="1" selected="1">NNMS1-----A----</AM>
 <AM lemma="Ricardo_;S_;Y" src="auto">NNMS5-----A----</AM>
 </tag>
 </m>
@@ -410,7 +422,10 @@
 <LM>w#w-ln94200-149-p2s3w18</LM>
 </w.rf>
 <form>Fuica</form>
-<tag lemma="Fuico_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Fuico_;S" src="orig">NNMS1-----A----</AM>
+<AM lemma="Fuica_;S" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94200-149-p2s3w19">
 <src.rf>manual</src.rf>

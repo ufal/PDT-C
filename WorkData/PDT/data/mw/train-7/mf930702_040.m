@@ -252,6 +252,7 @@
 <AM lemma="Art-3_;K_,t" src="auto">NNIXX-----A----</AM>
 <AM lemma="art" src="auto">NNIS1-----A----</AM>
 <AM lemma="art" src="auto">NNIS4-----A----</AM>
+<AM lemma="ART-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-mf930702-040-p2s1w28">
@@ -260,7 +261,10 @@
 <LM>w#w-mf930702-040-p2s1w28</LM>
 </w.rf>
 <form>DECO</form>
-<tag lemma="deco_;m_,t" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="deco_;m_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="DECO-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-mf930702-040-p2s1w29">
 <src.rf>manual</src.rf>
@@ -350,7 +354,10 @@
 <LM>w#w-mf930702-040-p2s2w10</LM>
 </w.rf>
 <form>funkcionalismus</form>
-<tag lemma="funkcionalismus" src="orig" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="funkcionalismus" src="orig">NNIS1-----A----</AM>
+<AM lemma="funkcionalismus_,s_^(^DD**funkcionalizmus)" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930702-040-p2s2w11">
 <src.rf>manual</src.rf>
@@ -382,7 +389,10 @@
 <LM>w#w-mf930702-040-p2s2w14</LM>
 </w.rf>
 <form>kubismus</form>
-<tag lemma="kubismus" src="orig" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="kubismus" src="orig">NNIS1-----A----</AM>
+<AM lemma="kubismus_,s_^(^DD**kubizmus)" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930702-040-p2s2w15">
 <src.rf>manual</src.rf>
@@ -543,6 +553,7 @@
 <AM lemma="Art-3_;K_,t" src="auto">NNIXX-----A----</AM>
 <AM lemma="art" src="auto">NNIS1-----A----</AM>
 <AM lemma="art" src="auto">NNIS4-----A----</AM>
+<AM lemma="Art-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-mf930702-040-p3s1w2">
@@ -551,7 +562,10 @@
 <LM>w#w-mf930702-040-p3s1w2</LM>
 </w.rf>
 <form>deco</form>
-<tag lemma="deco_,t" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="deco_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="deco-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-mf930702-040-p3s1w3">
 <src.rf>manual</src.rf>
@@ -934,7 +948,7 @@
 <AM lemma="Ted_;Y_,t" src="auto">NNMP4-----A----</AM>
 <AM lemma="Ted_;Y_,t" src="auto">NNMP7-----A----</AM>
 <AM lemma="tedy-1" src="auto">TT-------------</AM>
-<AM lemma="tedy-2" src="auto" recommended="1">J^-------------</AM>
+<AM lemma="tedy-2" src="auto" recommended="1" selected="1">J^-------------</AM>
 </tag>
 </m>
 <m id="m-mf930702-040-p3s2w2">
@@ -1087,7 +1101,7 @@
 <AM lemma="šířka_^(jeden_z_rozměrů)" src="orig">NNFS6-----A----</AM>
 <AM lemma="šíř_^(jeden_z_rozměrů)" src="auto">NNFS3-----A----</AM>
 <AM lemma="šíř_^(jeden_z_rozměrů)" src="auto">NNFS5-----A----</AM>
-<AM lemma="šíř_^(jeden_z_rozměrů)" src="auto" recommended="1">NNFS6-----A----</AM>
+<AM lemma="šíř_^(jeden_z_rozměrů)" src="auto" recommended="1" selected="1">NNFS6-----A----</AM>
 <AM lemma="šíře_^(jeden_z_rozměrů)" src="auto">NNFS3-----A----</AM>
 <AM lemma="šíře_^(jeden_z_rozměrů)" src="auto">NNFS4-----A----</AM>
 <AM lemma="šíře_^(jeden_z_rozměrů)" src="auto">NNFS6-----A----</AM>
@@ -1269,7 +1283,10 @@
 <LM>w#w-mf930702-040-p3s5w10</LM>
 </w.rf>
 <form>Grand</form>
-<tag lemma="Grand-1_;K_,t_^(v_názvech)" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="Grand-1_;K_,t_^(v_názvech)" src="orig">AAXXX----1A----</AM>
+<AM lemma="Grand-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-mf930702-040-p3s5w11">
 <src.rf>manual</src.rf>
@@ -1277,7 +1294,10 @@
 <LM>w#w-mf930702-040-p3s5w11</LM>
 </w.rf>
 <form>prix</form>
-<tag lemma="prix" src="orig" selected="1">NNFXX-----A----</tag>
+<tag>
+<AM lemma="prix" src="orig">NNFXX-----A----</AM>
+<AM lemma="prix-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-mf930702-040-p3s5w12">
 <src.rf>manual</src.rf>
@@ -1707,7 +1727,10 @@
 <LM>w#w-mf930702-040-p4s3w12</LM>
 </w.rf>
 <form>VŠUP</form>
-<tag lemma="VŠUP_:B_;K" src="auto" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="VŠUP_:B_;K" src="auto">NNXXX-----A---8</AM>
+<AM lemma="VŠUP-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-mf930702-040-p4s3w13">
 <src.rf>manual</src.rf>
@@ -2065,6 +2088,7 @@
 <AM lemma="art" src="orig">NNNXX-----A----</AM>
 <AM lemma="art" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="art" src="auto">NNIS4-----A----</AM>
+<AM lemma="art-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-mf930702-040-p5s1w7">
@@ -2073,7 +2097,10 @@
 <LM>w#w-mf930702-040-p5s1w7</LM>
 </w.rf>
 <form>deco</form>
-<tag lemma="deco_,t" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="deco_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="deco-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-mf930702-040-p5s1w8">
 <src.rf>manual</src.rf>
@@ -2113,7 +2140,10 @@
 <LM>w#w-mf930702-040-p5s1w12</LM>
 </w.rf>
 <form>konstruktivismem</form>
-<tag lemma="konstruktivismus" src="orig" selected="1">NNIS7-----A----</tag>
+<tag>
+<AM lemma="konstruktivismus" src="orig">NNIS7-----A----</AM>
+<AM lemma="konstruktivismus_,s_^(^DD**konstruktivizmus)" src="manual" selected="1">NNIS7-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930702-040-p5s1w13">
 <src.rf>manual</src.rf>
@@ -2129,7 +2159,10 @@
 <LM>w#w-mf930702-040-p5s1w14</LM>
 </w.rf>
 <form>funkcionalismem</form>
-<tag lemma="funkcionalismus" src="orig" selected="1">NNIS7-----A----</tag>
+<tag>
+<AM lemma="funkcionalismus" src="orig">NNIS7-----A----</AM>
+<AM lemma="funkcionalisus_,s_^(^DD**funkcionalizmus)" src="manual" selected="1">NNIS7-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930702-040-p5s1w15">
 <src.rf>manual</src.rf>
@@ -2215,6 +2248,7 @@
 <AM lemma="postmodernismus" src="orig">NNIS1-----A----</AM>
 <AM lemma="postmodernizmus" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="postmodernizmus" src="auto">NNIS4-----A----</AM>
+<AM lemma="postmodernismus_,s_^(^DD**postmodernizmus)" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930702-040-p5s2w3">

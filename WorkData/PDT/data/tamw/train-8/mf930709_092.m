@@ -51,7 +51,10 @@
 <LM>w#w-mf930709-092-p1s1Aw5</LM>
 </w.rf>
 <form>vyhrál</form>
-<tag lemma="vyhrát" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag>
+<AM lemma="vyhrát" src="orig">VpYS---XR-AA---</AM>
+<AM lemma="vyhrát_:W" src="manual" selected="1">VpYS---XR-AA---</AM>
+</tag>
 </m>
 </s>
 <s id="m-mf930709-092-p1s1B">
@@ -64,7 +67,7 @@
 <form>Evreux</form>
 <tag>
 <AM lemma="Evreux_;G" src="orig">NNNS1-----A----</AM>
-<AM lemma="Evreux_;G" src="auto" recommended="1">NNIS1-----A----</AM>
+<AM lemma="Evreux_;G" src="auto" recommended="1" selected="1">NNIS1-----A----</AM>
 <AM lemma="Evreux_;G" src="auto">NNIS4-----A----</AM>
 </tag>
 </m>
@@ -92,7 +95,10 @@
 <LM>w#w-mf930709-092-p1s1Cw2</LM>
 </w.rf>
 <form>Jesper</form>
-<tag lemma="Jesper_;S" src="auto" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Jesper_;S" src="auto">NNMS1-----A----</AM>
+<AM lemma="Jesper_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930709-092-p1s1Cw3">
 <src.rf>manual</src.rf>
@@ -164,7 +170,10 @@
 <LM>w#w-mf930709-092-p1s1Cw11</LM>
 </w.rf>
 <form>vyhrál</form>
-<tag lemma="vyhrát" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag>
+<AM lemma="vyhrát" src="orig">VpYS---XR-AA---</AM>
+<AM lemma="vyhrát_:W" src="manual" selected="1">VpYS---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-mf930709-092-p1s1Cw12">
 <src.rf>manual</src.rf>
@@ -204,7 +213,10 @@
 <LM>w#w-mf930709-092-p1s1Cw16</LM>
 </w.rf>
 <form>Tour</form>
-<tag lemma="Tour_;m_,t" src="orig" selected="1">NNFXX-----A----</tag>
+<tag>
+<AM lemma="Tour_;m_,t" src="orig">NNFXX-----A----</AM>
+<AM lemma="Tour-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-mf930709-092-p1s1Cw17">
 <src.rf>manual</src.rf>
@@ -212,7 +224,10 @@
 <LM>w#w-mf930709-092-p1s1Cw17</LM>
 </w.rf>
 <form>de</form>
-<tag lemma="de_,t_^(z_franc._de,_zejm._ve_jménech)" src="orig" selected="1">RR--1----------</tag>
+<tag>
+<AM lemma="de_,t_^(z_franc._de,_zejm._ve_jménech)" src="orig">RR--1----------</AM>
+<AM lemma="de-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-mf930709-092-p1s1Cw18">
 <src.rf>manual</src.rf>
@@ -236,6 +251,7 @@
 <AM lemma="France-1_;S" src="auto">NNMS4-----A---1</AM>
 <AM lemma="France-1_;S" src="auto">NNMS5-----A----</AM>
 <AM lemma="France-2_;G_;K" src="auto" recommended="1">NNXXX-----A----</AM>
+<AM lemma="France-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-mf930709-092-p1s1Cw19">
@@ -296,6 +312,7 @@
 <AM lemma="Evreux_;G" src="orig">NNNXX-----A----</AM>
 <AM lemma="Evreux_;G" src="auto">NNIS1-----A----</AM>
 <AM lemma="Evreux_;G" src="auto" recommended="1">NNIS4-----A----</AM>
+<AM lemma="Evreux_;G" src="manual" selected="1">NNIXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930709-092-p1s1Cw26">
@@ -328,7 +345,10 @@
 <LM>w#w-mf930709-092-p1s1Cw29</LM>
 </w.rf>
 <form>km</form>
-<tag lemma="km-1`kilometr_:B" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="km-1`kilometr_:B" src="orig">NNIXX-----A---8</AM>
+<AM lemma="kilometr" src="manual" selected="1">NNIXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-mf930709-092-p1s1Cw30">
 <src.rf>manual</src.rf>

@@ -227,7 +227,10 @@
 <LM>w#w-lnd92259-058-p1s1w27</LM>
 </w.rf>
 <form>ČNR</form>
-<tag lemma="ČNR-1_:B_;K_^(Česká_národní_rada)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ČNR-1_:B_;K_^(Česká_národní_rada)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČNR-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd92259-058-p1s1w28">
 <src.rf>manual</src.rf>
@@ -286,6 +289,7 @@
 <tag>
 <AM lemma="FN_:B_;K_^(Fakultní_nemocnice)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="FN_:B" src="auto" recommended="1">NNXXX-----A---8</AM>
+<AM lemma="FN-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-lnd92259-058-p1s1w35">
@@ -539,7 +543,7 @@
 </w.rf>
 <form>ú</form>
 <tag>
-<AM lemma="účet_:B" src="orig">NNIXX-----A---8</AM>
+<AM lemma="účet_:B" src="orig" selected="1">NNIXX-----A---8</AM>
 <AM lemma="ú-3_^(označení_pomocí_písmene)" src="auto" recommended="1">NNNXX-----A----</AM>
 <AM lemma="ú-8_:B_^(ost._zkratka)" src="auto">XX------------8</AM>
 </tag>
@@ -650,7 +654,10 @@
 <LM>w#w-lnd92259-058-p3s1w5</LM>
 </w.rf>
 <form>LN</form>
-<tag lemma="LN-1_:B_;R_^(Lidové_noviny,_deník)" src="orig" selected="1">NNFPX-----A---8</tag>
+<tag>
+<AM lemma="LN-1_:B_;R_^(Lidové_noviny,_deník)" src="orig">NNFPX-----A---8</AM>
+<AM lemma="LN-1_:B_;K_;R_^(Lidové_noviny)" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 </s>
 </mdata>

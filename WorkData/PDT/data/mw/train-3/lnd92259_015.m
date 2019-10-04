@@ -19,7 +19,11 @@
 <LM>w#w-lnd92259-015-p1s1w1</LM>
 </w.rf>
 <form>VÍCE</form>
-<tag lemma="hodně-2" src="auto" selected="1">Dg-------2A----</tag>
+<tag>
+<AM lemma="hodně-2" src="auto">Dg-------2A----</AM>
+<AM lemma="více_^(více_+_2._p.,_více_peněz)" src="manual">Ca--1----------</AM>
+<AM lemma="více_^(více_+_2._p.,_více_peněz)" src="manual" selected="1">Ca--X----------</AM>
+</tag>
 </m>
 <m id="m-lnd92259-015-p1s1w2">
 <src.rf>manual</src.rf>
@@ -83,6 +87,7 @@
 <AM lemma="jab-99_:B_;S" src="orig">NNXXX-----A---8</AM>
 <AM lemma="jab_;w_,t" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="jab_;w_,t" src="auto">NNIS4-----A----</AM>
+<AM lemma="jab-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92259-015-p3s1w4">
@@ -229,7 +234,10 @@
 <LM>w#w-lnd92259-015-p3s2w16</LM>
 </w.rf>
 <form>kamionů</form>
-<tag lemma="kamión" src="orig" selected="1">NNIP2-----A----</tag>
+<tag>
+<AM lemma="kamión" src="orig">NNIP2-----A----</AM>
+<AM lemma="kamion_,s_^(^DD**kamión)" src="manual" selected="1">NNIP2-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92259-015-p3s2w17">
 <src.rf>manual</src.rf>
@@ -319,7 +327,10 @@
 <LM>w#w-lnd92259-015-p3s3w8</LM>
 </w.rf>
 <form>ÖAMTC</form>
-<tag lemma="ÖAMTC-1_:B_;K_,t_^(Öster._Autom.-Motorrad-und_Touring_Club)" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="ÖAMTC-1_:B_;K_,t_^(Öster._Autom.-Motorrad-und_Touring_Club)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="ÖAMTC-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd92259-015-p3s3w9">
 <src.rf>manual</src.rf>
@@ -489,7 +500,10 @@
 <LM>w#w-lnd92259-015-p3s4w2</LM>
 </w.rf>
 <form>Ani</form>
-<tag lemma="ani-1" src="auto" selected="1">J^-------------</tag>
+<tag>
+<AM lemma="ani-1" src="auto">J^-------------</AM>
+<AM lemma="ani-2" src="manual" selected="1">TT-------------</AM>
+</tag>
 </m>
 <m id="m-lnd92259-015-p3s4w3">
 <src.rf>manual</src.rf>
@@ -499,7 +513,7 @@
 <form>zkušení</form>
 <tag>
 <AM lemma="zkušený" src="orig">NNMP1-----A----</AM>
-<AM lemma="zkušený" src="auto" recommended="1">AAMP1----1A----</AM>
+<AM lemma="zkušený" src="auto" recommended="1" selected="1">AAMP1----1A----</AM>
 <AM lemma="zkušený" src="auto">AAMP5----1A----</AM>
 </tag>
 </m>
@@ -631,7 +645,10 @@
 <LM>w#w-lnd92259-015-p3s5w6</LM>
 </w.rf>
 <form>kursu</form>
-<tag lemma="kurs" src="auto" selected="1">NNIS2-----A----</tag>
+<tag>
+<AM lemma="kurs" src="auto">NNIS2-----A----</AM>
+<AM lemma="kurs_,s_^(^DD**kurz)" src="manual" selected="1">NNIS2-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92259-015-p3s5w7">
 <src.rf>manual</src.rf>
@@ -815,7 +832,10 @@
 <LM>w#w-lnd92259-015-p3s5w30</LM>
 </w.rf>
 <form>uvedl</form>
-<tag lemma="uvést" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag>
+<AM lemma="uvést" src="orig">VpYS---XR-AA---</AM>
+<AM lemma="uvést_:W" src="manual" selected="1">VpYS---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-lnd92259-015-p3s5w31">
 <src.rf>manual</src.rf>
@@ -823,7 +843,10 @@
 <LM>w#w-lnd92259-015-p3s5w31</LM>
 </w.rf>
 <form>V</form>
-<tag lemma="V-0_:B_;Y" src="orig" selected="1">NNMXX-----A---8</tag>
+<tag>
+<AM lemma="V-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
+<AM lemma="V-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd92259-015-p3s5w32">
 <src.rf>manual</src.rf>

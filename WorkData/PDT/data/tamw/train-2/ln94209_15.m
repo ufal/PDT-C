@@ -275,7 +275,10 @@
 <LM>w#w-ln94209-15-p2s3w4</LM>
 </w.rf>
 <form>Piero</form>
-<tag lemma="Piero_;S" src="auto" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Piero_;S" src="auto">NNMS1-----A----</AM>
+<AM lemma="Piero_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94209-15-p2s3w5">
 <src.rf>manual</src.rf>
@@ -639,7 +642,10 @@
 <LM>w#w-ln94209-15-p2s5w25</LM>
 </w.rf>
 <form>li</form>
-<tag lemma="li-1" src="auto" selected="1">TT-------------</tag>
+<tag>
+<AM lemma="li-1" src="auto">TT-------------</AM>
+<AM lemma="li-2" src="manual" selected="1">J,-------------</AM>
+</tag>
 </m>
 <m id="m-ln94209-15-p2s5w26">
 <src.rf>manual</src.rf>
@@ -841,7 +847,10 @@
 <LM>w#w-ln94209-15-p2s6w19</LM>
 </w.rf>
 <form>OSN</form>
-<tag lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94209-15-p2s6w20">
 <src.rf>manual</src.rf>

@@ -35,7 +35,10 @@
 <LM>w#w-ln95043-043-p1s1w3</LM>
 </w.rf>
 <form>Hamas</form>
-<tag lemma="Hamas-2_;G_;K_;p" src="auto" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="Hamas-2_;G_;K_;p" src="auto">NNIS1-----A----</AM>
+<AM lemma="Hamas-2_;G_;K" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95043-043-p1s1w4">
 <src.rf>manual</src.rf>
@@ -239,7 +242,10 @@
 <LM>w#w-ln95043-043-p2s1Bw14</LM>
 </w.rf>
 <form>Hamasu</form>
-<tag lemma="Hamas-2_;G_;K_;p" src="auto" selected="1">NNIS2-----A----</tag>
+<tag>
+<AM lemma="Hamas-2_;G_;K_;p" src="auto">NNIS2-----A----</AM>
+<AM lemma="Hamas-2_;G_;K" src="manual" selected="1">NNIS2-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95043-043-p2s1Bw15">
 <src.rf>manual</src.rf>
@@ -425,7 +431,10 @@
 <LM>w#w-ln95043-043-p2s2w6</LM>
 </w.rf>
 <form>Hamasu</form>
-<tag lemma="Hamas-2_;G_;K_;p" src="auto" selected="1">NNIS2-----A----</tag>
+<tag>
+<AM lemma="Hamas-2_;G_;K_;p" src="auto">NNIS2-----A----</AM>
+<AM lemma="Hamas-2_;G_;K" src="manual" selected="1">NNIS2-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95043-043-p2s2w7">
 <src.rf>manual</src.rf>
@@ -489,7 +498,10 @@
 <LM>w#w-ln95043-043-p2s2w14</LM>
 </w.rf>
 <form>li</form>
-<tag lemma="li-1" src="auto" selected="1">TT-------------</tag>
+<tag>
+<AM lemma="li-1" src="auto">TT-------------</AM>
+<AM lemma="li-2" src="manual" selected="1">J,-------------</AM>
+</tag>
 </m>
 <m id="m-ln95043-043-p2s2w15">
 <src.rf>manual</src.rf>
@@ -659,7 +671,10 @@
 <LM>w#w-ln95043-043-p3s1w2</LM>
 </w.rf>
 <form>OOP</form>
-<tag lemma="OOP-1_:B_;K_;p_^(Org._pro_osvobození_Palestiny)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="OOP-1_:B_;K_;p_^(Org._pro_osvobození_Palestiny)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="OOP-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95043-043-p3s1w3">
 <src.rf>manual</src.rf>
@@ -771,7 +786,10 @@
 <LM>w#w-ln95043-043-p3s1w16</LM>
 </w.rf>
 <form>diskusi</form>
-<tag lemma="diskuse" src="orig" selected="1">NNFS3-----A----</tag>
+<tag>
+<AM lemma="diskuse" src="orig">NNFS3-----A----</AM>
+<AM lemma="diskuse_,s_^(^DD**diskuze)" src="manual" selected="1">NNFS3-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95043-043-p3s1w17">
 <src.rf>manual</src.rf>
@@ -975,7 +993,10 @@
 <LM>w#w-ln95043-043-p3s3w2</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-2" src="auto" selected="1">Dg-------2A----</tag>
+<tag>
+<AM lemma="hodně-2" src="auto">Dg-------2A----</AM>
+<AM lemma="hodně-3" src="manual" selected="1">Dg-------2A----</AM>
+</tag>
 </m>
 <m id="m-ln95043-043-p3s3w3">
 <src.rf>manual</src.rf>
@@ -1569,7 +1590,7 @@
 <form>Kfar</form>
 <tag>
 <AM lemma="Kfar_;G" src="orig">AAXXX----1A----</AM>
-<AM lemma="Kfar_;G" src="auto" recommended="1">NNIS1-----A----</AM>
+<AM lemma="Kfar_;G" src="auto" recommended="1" selected="1">NNIS1-----A----</AM>
 <AM lemma="Kfar_;G" src="auto">NNIS4-----A----</AM>
 </tag>
 </m>
@@ -1829,7 +1850,10 @@
 <LM>w#w-ln95043-043-p4s4w14</LM>
 </w.rf>
 <form>SLA</form>
-<tag lemma="SLA-1_:B_;K_,t_^(Slovak_League_of_America)" src="auto" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="SLA-1_:B_;K_,t_^(Slovak_League_of_America)" src="auto">NNFXX-----A---8</AM>
+<AM lemma="SLA-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95043-043-p4s4w15">
 <src.rf>manual</src.rf>

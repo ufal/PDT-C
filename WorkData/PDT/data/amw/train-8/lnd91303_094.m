@@ -225,7 +225,7 @@
 <form>nešťastni</form>
 <tag>
 <AM lemma="nešťastný" src="orig">ACMP------N----</AM>
-<AM lemma="šťastný" src="auto" recommended="1">ACMP------N----</AM>
+<AM lemma="šťastný" src="auto" recommended="1" selected="1">ACMP------N----</AM>
 </tag>
 </m>
 <m id="m-lnd91303-094-p2s1Bw6">
@@ -410,7 +410,10 @@
 <LM>w#w-lnd91303-094-p2s1Bw28</LM>
 </w.rf>
 <form>Nováček</form>
-<tag lemma="nováček" src="orig" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="nováček" src="orig">NNMS1-----A----</AM>
+<AM lemma="Nováček_;S" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd91303-094-p2s1Bw29">
 <src.rf>manual</src.rf>
@@ -638,7 +641,10 @@
 <LM>w#w-lnd91303-094-p2s3w14</LM>
 </w.rf>
 <form>Suková</form>
-<tag lemma="Suková_;S_;w" src="orig" selected="1">NNFS1-----A----</tag>
+<tag>
+<AM lemma="Suková_;S_;w" src="orig">NNFS1-----A----</AM>
+<AM lemma="Suková_;S" src="manual" selected="1">NNFS1-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd91303-094-p2s3w15">
 <src.rf>manual</src.rf>

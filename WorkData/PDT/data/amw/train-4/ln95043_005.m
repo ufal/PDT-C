@@ -111,7 +111,10 @@
 <LM>w#w-ln95043-005-p2s1Bw5</LM>
 </w.rf>
 <form>Martou</form>
-<tag lemma="Marta" src="auto" selected="1">NNFS7-----A----</tag>
+<tag>
+<AM lemma="Marta" src="auto">NNFS7-----A----</AM>
+<AM lemma="Marta_;Y" src="manual" selected="1">NNFS7-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95043-005-p2s1Bw6">
 <src.rf>manual</src.rf>

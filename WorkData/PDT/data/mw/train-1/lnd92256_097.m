@@ -106,6 +106,7 @@
 <tag>
 <AM lemma="tom_:B" src="orig">NNMS1-----A---8</AM>
 <AM lemma="ten" src="auto" recommended="1">PDZS6----------</AM>
+<AM lemma="tom-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92256-097-p3s1w4">
@@ -222,7 +223,10 @@
 <LM>w#w-lnd92256-097-p3s3w5</LM>
 </w.rf>
 <form>sice</form>
-<tag lemma="sice-2" src="auto" selected="1">Db-------------</tag>
+<tag>
+<AM lemma="sice-2" src="auto">Db-------------</AM>
+<AM lemma="sice-1_^(spojka;_připouští_se_určitá_fakta)" src="manual" selected="1">J^-------------</AM>
+</tag>
 </m>
 <m id="m-lnd92256-097-p3s3w6">
 <src.rf>manual</src.rf>
@@ -422,7 +426,10 @@
 <LM>w#w-lnd92256-097-p3s3w30</LM>
 </w.rf>
 <form>má</form>
-<tag lemma="mít" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag>
+<AM lemma="mít" src="orig">VB-S---3P-AA---</AM>
+<AM lemma="mít_:T" src="manual" selected="1">VB-S---3P-AA---</AM>
+</tag>
 </m>
 <m id="m-lnd92256-097-p3s3w31">
 <src.rf>manual</src.rf>
@@ -544,7 +551,10 @@
 <LM>w#w-lnd92256-097-p3s4w6</LM>
 </w.rf>
 <form>čs</form>
-<tag lemma="československý_:B" src="orig" selected="1">AAXXX----1A---8</tag>
+<tag>
+<AM lemma="československý_:B" src="orig">AAXXX----1A---8</AM>
+<AM lemma="československý" src="manual" selected="1">AAXXX----1A---8</AM>
+</tag>
 </m>
 <m id="m-lnd92256-097-p3s4w7">
 <src.rf>manual</src.rf>
@@ -584,7 +594,10 @@
 <LM>w#w-lnd92256-097-p3s4w11</LM>
 </w.rf>
 <form>nepovedl</form>
-<tag lemma="povést" src="orig" selected="1">VpYS---XR-NA---</tag>
+<tag>
+<AM lemma="povést" src="orig">VpYS---XR-NA---</AM>
+<AM lemma="povést_:W" src="manual" selected="1">VpYS---XR-NA---</AM>
+</tag>
 </m>
 <m id="m-lnd92256-097-p3s4w12">
 <src.rf>manual</src.rf>
@@ -1095,7 +1108,10 @@
 <LM>w#w-lnd92256-097-p4s2w15</LM>
 </w.rf>
 <form>ukázal</form>
-<tag lemma="ukázat" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag>
+<AM lemma="ukázat" src="orig">VpYS---XR-AA---</AM>
+<AM lemma="ukázat_:W" src="manual" selected="1">VpYS---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-lnd92256-097-p4s2w16">
 <src.rf>manual</src.rf>
@@ -1168,7 +1184,7 @@
 <AM lemma="zkušený" src="auto">AAMP1----1A---6</AM>
 <AM lemma="zkušený" src="auto">AAMP4----1A---6</AM>
 <AM lemma="zkušený" src="auto">AAMP5----1A---6</AM>
-<AM lemma="zkušený" src="auto" recommended="1">AAMS1----1A----</AM>
+<AM lemma="zkušený" src="auto" recommended="1" selected="1">AAMS1----1A----</AM>
 <AM lemma="zkušený" src="auto">AAMS5----1A----</AM>
 <AM lemma="zkušený" src="auto">AANP1----1A---6</AM>
 <AM lemma="zkušený" src="auto">AANP4----1A---6</AM>
@@ -1184,7 +1200,10 @@
 <LM>w#w-lnd92256-097-p4s3w2</LM>
 </w.rf>
 <form>Sand</form>
-<tag lemma="Sanda_;G" src="orig" selected="1">NNFP2-----A----</tag>
+<tag>
+<AM lemma="Sanda_;G" src="orig">NNFP2-----A----</AM>
+<AM lemma="Sand_;S" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92256-097-p4s3w3">
 <src.rf>manual</src.rf>
@@ -1216,7 +1235,10 @@
 <LM>w#w-lnd92256-097-p4s3w6</LM>
 </w.rf>
 <form>vedl</form>
-<tag lemma="vést" src="auto" selected="1">VpYS---XR-AA---</tag>
+<tag>
+<AM lemma="vést" src="auto">VpYS---XR-AA---</AM>
+<AM lemma="vést_:T" src="manual" selected="1">VpYS---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-lnd92256-097-p4s3w7">
 <src.rf>manual</src.rf>
@@ -1323,7 +1345,7 @@
 <tag>
 <AM lemma="tedy" src="orig">Db-------------</AM>
 <AM lemma="tedy-1" src="auto">TT-------------</AM>
-<AM lemma="tedy-2" src="auto" recommended="1">J^-------------</AM>
+<AM lemma="tedy-2" src="auto" recommended="1" selected="1">J^-------------</AM>
 </tag>
 </m>
 <m id="m-lnd92256-097-p4s3w20">
@@ -1374,7 +1396,10 @@
 <LM>w#w-lnd92256-097-p5s1w2</LM>
 </w.rf>
 <form>měli</form>
-<tag lemma="mít" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag>
+<AM lemma="mít" src="orig">VpMP---XR-AA---</AM>
+<AM lemma="mít_:T" src="manual" selected="1">VpMP---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-lnd92256-097-p5s1w3">
 <src.rf>manual</src.rf>
@@ -1528,7 +1553,10 @@
 <LM>w#w-lnd92256-097-p5s2w8</LM>
 </w.rf>
 <form>čs</form>
-<tag lemma="československý_:B" src="orig" selected="1">AAXXX----1A---8</tag>
+<tag>
+<AM lemma="československý_:B" src="orig">AAXXX----1A---8</AM>
+<AM lemma="československý" src="manual" selected="1">AAXXX----1A---8</AM>
+</tag>
 </m>
 <m id="m-lnd92256-097-p5s2w9">
 <src.rf>manual</src.rf>
@@ -1828,7 +1856,10 @@
 <LM>w#w-lnd92256-097-p5s4w14</LM>
 </w.rf>
 <form>má</form>
-<tag lemma="mít" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag>
+<AM lemma="mít" src="orig">VB-S---3P-AA---</AM>
+<AM lemma="mít_:T" src="manual" selected="1">VB-S---3P-AA---</AM>
+</tag>
 </m>
 <m id="m-lnd92256-097-p5s4w15">
 <src.rf>manual</src.rf>
@@ -2071,7 +2102,10 @@
 <LM>w#w-lnd92256-097-p6s5w5</LM>
 </w.rf>
 <form>ČSFR</form>
-<tag lemma="ČSFR-1_:B_;G_^(Čs._federativní_republika)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ČSFR-1_:B_;G_^(Čs._federativní_republika)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČSFR-1_:B_;G_^(Čs._federativní_republika)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92256-097-p6s5w6">
 <src.rf>manual</src.rf>
@@ -2167,6 +2201,7 @@
 <tag>
 <AM lemma="USA_;G" src="orig">NNIPX-----A----</AM>
 <AM lemma="USA_:B_;K_,t_^(United_States_of_America)" src="auto" recommended="1">NNIPX-----A---8</AM>
+<AM lemma="USA_:B_;K_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92256-097-p6s7w6">
@@ -2260,7 +2295,11 @@
 <LM>w#w-lnd92256-097-p6s9w3</LM>
 </w.rf>
 <form>Sand</form>
-<tag lemma="Sanda_;G" src="orig" selected="1">NNFP2-----A----</tag>
+<tag>
+<AM lemma="Sanda_;G" src="orig">NNFP2-----A----</AM>
+<AM lemma="Sanda_;S" src="manual">NNMS1-----A----</AM>
+<AM lemma="Sand_;S" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92256-097-p6s9w4">
 <src.rf>manual</src.rf>
@@ -2279,6 +2318,7 @@
 <tag>
 <AM lemma="USA_;G" src="orig">NNIPX-----A----</AM>
 <AM lemma="USA_:B_;K_,t_^(United_States_of_America)" src="auto" recommended="1">NNIPX-----A---8</AM>
+<AM lemma="USA_:B_;K_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92256-097-p6s9w6">

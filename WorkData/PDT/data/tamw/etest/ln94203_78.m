@@ -397,7 +397,7 @@
 <form>totiž</form>
 <tag>
 <AM lemma="totiž" src="orig">Db-------------</AM>
-<AM lemma="totiž-1" src="auto" recommended="1">J^-------------</AM>
+<AM lemma="totiž-1" src="auto" recommended="1" selected="1">J^-------------</AM>
 <AM lemma="totiž-2" src="auto">TT-------------</AM>
 </tag>
 </m>
@@ -924,7 +924,7 @@
 </w.rf>
 <form>Munster</form>
 <tag>
-<AM lemma="Munster-2_;G" src="orig">NNIS1-----A----</AM>
+<AM lemma="Munster-2_;G" src="orig" selected="1">NNIS1-----A----</AM>
 <AM lemma="Munster_;S" src="auto" recommended="1">NNMS1-----A----</AM>
 </tag>
 </m>
@@ -980,6 +980,7 @@
 <AM lemma="Kerr_;S" src="auto">NNMP7-----A----</AM>
 <AM lemma="Kerry_;S" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Kerry_;S" src="auto">NNMS5-----A----</AM>
+<AM lemma="Kerry-2_;G" src="manual" selected="1">NNNXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94203-78-p2s5w31">
@@ -1436,7 +1437,7 @@
 <form>ovšem</form>
 <tag>
 <AM lemma="ovšem-1_^(avšak,_však;_odporovací_spojka)" src="orig">J^-------------</AM>
-<AM lemma="ovšem" src="auto" recommended="1">TT-------------</AM>
+<AM lemma="ovšem" src="auto" recommended="1" selected="1">TT-------------</AM>
 </tag>
 </m>
 <m id="m-ln94203-78-p3s3w3">
@@ -2027,7 +2028,7 @@
 <form>nejen</form>
 <tag>
 <AM lemma="nejen" src="orig">TT-------------</AM>
-<AM lemma="nejen" src="auto" recommended="1">Db-------------</AM>
+<AM lemma="nejen" src="auto" recommended="1" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m-ln94203-78-p4s1w22">
@@ -2857,7 +2858,10 @@
 <LM>w#w-ln94203-78-p5s2w9</LM>
 </w.rf>
 <form>MV</form>
-<tag lemma="MV_:B" src="auto" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="MV_:B" src="auto">NNXXX-----A---8</AM>
+<AM lemma="MV-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln94203-78-p5s2w10">
 <src.rf>manual</src.rf>
@@ -3040,6 +3044,7 @@
 <AM lemma="ho" src="auto">II-------------</AM>
 <AM lemma="on-1" src="auto">PHZS2--3-------</AM>
 <AM lemma="on-1" src="auto" recommended="1">PHZS4--3-------</AM>
+<AM lemma="Ho_;S" src="manual" selected="1">NNMXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94203-78-p5s3w13">
@@ -3049,7 +3054,7 @@
 </w.rf>
 <form>Či</form>
 <tag>
-<AM lemma="Či_;Y" src="orig">NNMXX-----A----</AM>
+<AM lemma="Či_;Y" src="orig" selected="1">NNMXX-----A----</AM>
 <AM lemma="ča_^(ča-ča)" src="auto">NNFP1-----A----</AM>
 <AM lemma="ča_^(ča-ča)" src="auto">NNFP4-----A----</AM>
 <AM lemma="ča_^(ča-ča)" src="auto">NNFP5-----A----</AM>
@@ -3774,7 +3779,7 @@
 <tag>
 <AM lemma="tedy" src="orig">Db-------------</AM>
 <AM lemma="tedy-1" src="auto">TT-------------</AM>
-<AM lemma="tedy-2" src="auto" recommended="1">J^-------------</AM>
+<AM lemma="tedy-2" src="auto" recommended="1" selected="1">J^-------------</AM>
 </tag>
 </m>
 <m id="m-ln94203-78-p7s1w3">
@@ -3850,6 +3855,8 @@
 <tag>
 <AM lemma="SF-2`Sinn-1_;K_,t_^(Sinn_Fein)" src="orig">NNFXX-----A----</AM>
 <AM lemma="Sinn_;Y" src="auto" recommended="1">NNXXX-----A----</AM>
+<AM lemma="sinn_,t" src="manual">NNXXX-----A----</AM>
+<AM lemma="Sinn-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-ln94203-78-p7s1w12">
@@ -3863,6 +3870,8 @@
 <AM lemma="Fein" src="auto">NNIS1-----A----</AM>
 <AM lemma="Fein" src="auto">NNIS4-----A----</AM>
 <AM lemma="Fein_;Y" src="auto" recommended="1">NNXXX-----A----</AM>
+<AM lemma="fein_,t" src="manual">NNXXX-----A----</AM>
+<AM lemma="Fein-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-ln94203-78-p7s1w13">

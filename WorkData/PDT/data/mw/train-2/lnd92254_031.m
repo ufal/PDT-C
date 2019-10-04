@@ -512,7 +512,10 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>Karadžić</form>
-<tag lemma="Karadžić_;S" src="auto" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Karadžić_;S" src="auto">NNMS1-----A----</AM>
+<AM lemma="Karadžić_;S" src="manual" selected="1">NNMXX-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92254-031-p2s1w18">
 <src.rf>manual</src.rf>
@@ -580,6 +583,7 @@
 <AM lemma="Banja_;G" src="orig">AAXXX----1A----</AM>
 <AM lemma="Banja_;G" src="auto" recommended="1">NNFS1-----A----</AM>
 <AM lemma="bendžo" src="auto">NNNS2-----A----</AM>
+<AM lemma="Banja-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-lnd92254-031-p2s1w26">

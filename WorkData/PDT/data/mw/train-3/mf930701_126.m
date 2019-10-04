@@ -64,6 +64,7 @@
 <tag>
 <AM lemma="fj-99_:B_;S" src="orig">NNXXX-----A---8</AM>
 <AM lemma="FJ-1_:B_,x_^(francouzský_jazyk)" src="auto" recommended="1">NNIXX-----A---8</AM>
+<AM lemma="fj-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930701-126-p2s1w4">
@@ -266,7 +267,10 @@
 <LM>w#w-mf930701-126-p2s2w5</LM>
 </w.rf>
 <form>A</form>
-<tag lemma="a-3_^(označení_pomocí_písmene)" src="orig" selected="1">NNNXX-----A----</tag>
+<tag>
+<AM lemma="a-3_^(označení_pomocí_písmene)" src="orig">NNNXX-----A----</AM>
+<AM lemma="A-33_^(označení_pomocí_písmene)" src="manual" selected="1">NNNXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930701-126-p2s2w6">
 <src.rf>manual</src.rf>
@@ -282,7 +286,10 @@
 <LM>w#w-mf930701-126-p2s2w7</LM>
 </w.rf>
 <form>FC</form>
-<tag lemma="FC-1_:B_;K_;w_^(Football_Club,_př._FC_Sparta)" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="FC-1_:B_;K_;w_^(Football_Club,_př._FC_Sparta)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="FC-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-mf930701-126-p2s2w8">
 <src.rf>manual</src.rf>
@@ -365,6 +372,7 @@
 <AM lemma="l-8_:B_^(ost._zkratka)" src="auto">XX------------8</AM>
 <AM lemma="letopočet_:B_^(jen_př._n._l.,_před_naším_letopočtem)" src="auto">NNIS7-----A---8</AM>
 <AM lemma="litr_:B" src="auto">NNIXX-----A---8</AM>
+<AM lemma="L-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-mf930701-126-p2s2w16">
@@ -399,7 +407,10 @@
 <LM>w#w-mf930701-126-p2s3w1</LM>
 </w.rf>
 <form>B</form>
-<tag lemma="b-3_^(označení_pomocí_písmene)" src="orig" selected="1">NNNXX-----A----</tag>
+<tag>
+<AM lemma="b-3_^(označení_pomocí_písmene)" src="orig">NNNXX-----A----</AM>
+<AM lemma="B-33_^(označení_pomocí_písmene)" src="manual" selected="1">NNNXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930701-126-p2s3w2">
 <src.rf>manual</src.rf>
@@ -415,7 +426,10 @@
 <LM>w#w-mf930701-126-p2s3w3</LM>
 </w.rf>
 <form>Č</form>
-<tag lemma="český_:B" src="orig" selected="1">AAXXX----1A---8</tag>
+<tag>
+<AM lemma="český_:B" src="orig">AAXXX----1A---8</AM>
+<AM lemma="český" src="manual" selected="1">AAXXX----1A---8</AM>
+</tag>
 </m>
 <m id="m-mf930701-126-p2s3w4">
 <src.rf>manual</src.rf>
@@ -515,7 +529,10 @@
 <LM>w#w-mf930701-126-p2s5w1</LM>
 </w.rf>
 <form>C</form>
-<tag lemma="c-3_^(označení_pomocí_písmene)" src="orig" selected="1">NNNXX-----A----</tag>
+<tag>
+<AM lemma="c-3_^(označení_pomocí_písmene)" src="orig">NNNXX-----A----</AM>
+<AM lemma="C-33_^(označení_pomocí_písmene)" src="manual" selected="1">NNNXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930701-126-p2s5w2">
 <src.rf>manual</src.rf>
@@ -535,6 +552,7 @@
 <AM lemma="Mladý_:B_;G_^(např._Ml._Boleslav)" src="orig">AAXXX----1A---8</AM>
 <AM lemma="ml-1`mililitr_:B" src="auto" recommended="1">NNIXX-----A---8</AM>
 <AM lemma="mladý_:B" src="auto">AAXXX----2A---8</AM>
+<AM lemma="mladý_;G_^(např._Ml._Boleslav)" src="manual" selected="1">AAXXX----1A---8</AM>
 </tag>
 </m>
 <m id="m-mf930701-126-p2s5w4">
@@ -609,7 +627,10 @@
 <LM>w#w-mf930701-126-p2s6w8</LM>
 </w.rf>
 <form>ČMFS</form>
-<tag lemma="ČMFS-1_:B_;K_;w_^(Českomoravský_fotbalový_svaz)" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="ČMFS-1_:B_;K_;w_^(Českomoravský_fotbalový_svaz)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="ČMFS-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-mf930701-126-p2s6w9">
 <src.rf>manual</src.rf>
@@ -667,7 +688,10 @@
 <LM>w#w-mf930701-126-p2s7w1</LM>
 </w.rf>
 <form>D</form>
-<tag lemma="d-3_^(označení_pomocí_písmene)" src="orig" selected="1">NNNXX-----A----</tag>
+<tag>
+<AM lemma="d-3_^(označení_pomocí_písmene)" src="orig">NNNXX-----A----</AM>
+<AM lemma="D-33_^(označení_pomocí_písmene)" src="manual" selected="1">NNNXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930701-126-p2s7w2">
 <src.rf>manual</src.rf>
@@ -735,6 +759,7 @@
 <AM lemma="v-8_:B_^(ost._zkratka)" src="auto">XX------------8</AM>
 <AM lemma="versus_:B_,t_,x" src="auto">RR--1---------8</AM>
 <AM lemma="veřejný_:B_^(v.o.s.)" src="auto">AAXXX----1A---8</AM>
+<AM lemma="V-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-mf930701-126-p2s7w8">
@@ -775,7 +800,10 @@
 <LM>w#w-mf930701-126-p2s7w12</LM>
 </w.rf>
 <form>n</form>
-<tag lemma="nad-1_:B" src="orig" selected="1">RR--7---------8</tag>
+<tag>
+<AM lemma="nad-1_:B" src="orig">RR--7---------8</AM>
+<AM lemma="nad-1" src="manual" selected="1">RR--7---------8</AM>
+</tag>
 </m>
 <m id="m-mf930701-126-p2s7w13">
 <src.rf>manual</src.rf>
@@ -793,7 +821,10 @@
 <LM>w#w-mf930701-126-p2s8w1</LM>
 </w.rf>
 <form>L</form>
-<tag lemma="Labe_:B_;G" src="orig" selected="1">NNNS7-----A---8</tag>
+<tag>
+<AM lemma="Labe_:B_;G" src="orig">NNNS7-----A---8</AM>
+<AM lemma="Labe_;G" src="manual" selected="1">NNNS7-----A---8</AM>
+</tag>
 </m>
 <m id="m-mf930701-126-p2s8w2">
 <src.rf>manual</src.rf>
@@ -883,7 +914,7 @@
 <form>Adidas</form>
 <tag>
 <AM lemma="Adidas_;Y" src="orig">NNIS1-----A----</AM>
-<AM lemma="Adidas_;K" src="auto" recommended="1">NNIS1-----A----</AM>
+<AM lemma="Adidas_;K" src="auto" recommended="1" selected="1">NNIS1-----A----</AM>
 <AM lemma="Adidas_;K" src="auto">NNIS4-----A----</AM>
 </tag>
 </m>
@@ -909,7 +940,10 @@
 <LM>w#w-mf930701-126-p2s8w15</LM>
 </w.rf>
 <form>Fair</form>
-<tag lemma="fair" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="fair" src="orig">AAXXX----1A----</AM>
+<AM lemma="Fair-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-mf930701-126-p2s8w16">
 <src.rf>manual</src.rf>
@@ -917,7 +951,10 @@
 <LM>w#w-mf930701-126-p2s8w16</LM>
 </w.rf>
 <form>play</form>
-<tag lemma="play-1_,t" src="orig" selected="1">NNFXX-----A----</tag>
+<tag>
+<AM lemma="play-1_,t" src="orig">NNFXX-----A----</AM>
+<AM lemma="play-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-mf930701-126-p2s8w17">
 <src.rf>manual</src.rf>
@@ -941,7 +978,10 @@
 <LM>w#w-mf930701-126-p2s8w19</LM>
 </w.rf>
 <form>MFD</form>
-<tag lemma="MFD_:B_;K" src="auto" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="MFD_:B_;K" src="auto">NNXXX-----A---8</AM>
+<AM lemma="MFD-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-mf930701-126-p2s8w20">
 <src.rf>manual</src.rf>

@@ -69,7 +69,10 @@
 <LM>w#w-ln94205-132-p2s1Aw4</LM>
 </w.rf>
 <form>Wild</form>
-<tag lemma="Wild_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Wild_;S" src="orig">NNMS1-----A----</AM>
+<AM lemma="Wild-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94205-132-p2s1Aw5">
 <src.rf>manual</src.rf>
@@ -77,7 +80,10 @@
 <LM>w#w-ln94205-132-p2s1Aw5</LM>
 </w.rf>
 <form>Duck</form>
-<tag lemma="Duck_;G" src="orig" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="Duck_;G" src="orig">NNIS1-----A----</AM>
+<AM lemma="Duck-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94205-132-p2s1Aw6">
 <src.rf>manual</src.rf>
@@ -291,7 +297,7 @@
 <form>nejen</form>
 <tag>
 <AM lemma="nejen" src="orig">TT-------------</AM>
-<AM lemma="nejen" src="auto" recommended="1">Db-------------</AM>
+<AM lemma="nejen" src="auto" recommended="1" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m-ln94205-132-p2s2w15">
@@ -890,7 +896,10 @@
 <LM>w#w-ln94205-132-p2s5w10</LM>
 </w.rf>
 <form>Tri</form>
-<tag lemma="tri_,t" src="orig" selected="1">ClXP4----------</tag>
+<tag>
+<AM lemma="tri_,t" src="orig">ClXP4----------</AM>
+<AM lemma="Tri-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94205-132-p2s5w11">
 <src.rf>manual</src.rf>
@@ -909,6 +918,8 @@
 <tag>
 <AM lemma="ja_,t" src="orig">PP-S4--1-------</AM>
 <AM lemma="ma-99_:B_;S" src="auto" recommended="1">NNXXX-----A---8</AM>
+<AM lemma="ja_,n" src="manual">PP-S4--1-------</AM>
+<AM lemma="ma-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-ln94205-132-p2s5w13">
@@ -920,6 +931,7 @@
 <tag>
 <AM lemma="naháňať_,t" src="orig">VpMP---XR-AA---</AM>
 <AM lemma="naháňat_,n" src="auto" recommended="1">VpMP---XR-AA---</AM>
+<AM lemma="naháňali-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-ln94205-132-p2s5w14">

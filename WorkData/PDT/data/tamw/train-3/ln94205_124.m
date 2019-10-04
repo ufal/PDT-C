@@ -75,6 +75,7 @@
 <AM lemma="nov_^(pozice_Měsíce)" src="auto">NNIS4-----A----</AM>
 <AM lemma="nova" src="auto">NNFP2-----A----</AM>
 <AM lemma="novum" src="auto">NNNP2-----A----</AM>
+<AM lemma="nov-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94205-124-p2s1Aw4">
@@ -181,7 +182,10 @@
 <LM>w#w-ln94205-124-p2s1Bw11</LM>
 </w.rf>
 <form>Race</form>
-<tag lemma="race_,t" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="race_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="Race-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94205-124-p2s1Bw12">
 <src.rf>manual</src.rf>
@@ -189,7 +193,10 @@
 <LM>w#w-ln94205-124-p2s1Bw12</LM>
 </w.rf>
 <form>Trucks</form>
-<tag lemma="truck_,t" src="orig" selected="1">NNIPX-----A----</tag>
+<tag>
+<AM lemma="truck_,t" src="orig">NNIPX-----A----</AM>
+<AM lemma="Trucks-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94205-124-p2s1Bw13">
 <src.rf>manual</src.rf>
@@ -280,6 +287,7 @@
 <tag>
 <AM lemma="VC_:B_;m_^(Velká_cena)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="VC_:B" src="auto" recommended="1">NNNXX-----A---8</AM>
+<AM lemma="VC-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94205-124-p2s1Bw24">
@@ -331,6 +339,7 @@
 <tag>
 <AM lemma="EP_;K_^(evropský_pohár)" src="orig">NNIXX-----A---8</AM>
 <AM lemma="EP_:B_;K_^(evropský_pohár)" src="auto" recommended="1">NNXXX-----A---8</AM>
+<AM lemma="EP-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94205-124-p2s1Bw30">
@@ -393,6 +402,7 @@
 <AM lemma="SISU_:B_;R" src="orig">NNXXX-----A---8</AM>
 <AM lemma="Sisa_;Y" src="auto" recommended="1">NNFS4-----A----</AM>
 <AM lemma="Sisu_;K_;R" src="auto">NNNSX-----A----</AM>
+<AM lemma="SISU-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94205-124-p2s2w4">
@@ -590,6 +600,7 @@
 <tag>
 <AM lemma="EP_;K_^(evropský_pohár)" src="orig">NNIXX-----A---8</AM>
 <AM lemma="EP_:B_;K_^(evropský_pohár)" src="auto" recommended="1">NNXXX-----A---8</AM>
+<AM lemma="EP-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94205-124-p2s3w7">
@@ -636,6 +647,8 @@
 <AM lemma="IMC-2_:B_;K_,t_^(International_Maritime_Committee)" src="auto">NNIXX-----A---8</AM>
 <AM lemma="IMC-3_:B_;K_,t_^(International_Meteorological_Committee)" src="auto">NNIXX-----A---8</AM>
 <AM lemma="IMC-4_:B_;K_,t_^(International_Music_Council)" src="auto">NNFXX-----A---8</AM>
+<AM lemma="IMC-5_:B" src="manual">NNXXX-----A---8</AM>
+<AM lemma="IMC-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94205-124-p2s3w12">
@@ -644,7 +657,10 @@
 <LM>w#w-ln94205-124-p2s3w12</LM>
 </w.rf>
 <form>SPAGG</form>
-<tag lemma="SPAGG_:B_;K_,t" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="SPAGG_:B_;K_,t" src="orig">NNXXX-----A---8</AM>
+<AM lemma="SPAGG-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94205-124-p2s3w13">
 <src.rf>manual</src.rf>
@@ -756,7 +772,10 @@
 <LM>w#w-ln94205-124-p2s3w26</LM>
 </w.rf>
 <form>sezonu</form>
-<tag lemma="sezona" src="orig" selected="1">NNFS4-----A----</tag>
+<tag>
+<AM lemma="sezona" src="orig">NNFS4-----A----</AM>
+<AM lemma="sezona_,s_^(^DD**sezóna)" src="manual" selected="1">NNFS4-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94205-124-p2s3w27">
 <src.rf>manual</src.rf>

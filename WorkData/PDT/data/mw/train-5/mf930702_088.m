@@ -93,7 +93,10 @@
 <LM>w#w-mf930702-088-p2s1w7</LM>
 </w.rf>
 <form>SKP</form>
-<tag lemma="SKP_:B_;K" src="auto" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="SKP_:B_;K" src="auto">NNXXX-----A---8</AM>
+<AM lemma="SKP-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-mf930702-088-p2s1w8">
 <src.rf>manual</src.rf>
@@ -359,7 +362,10 @@
 <LM>w#w-mf930702-088-p2s2w11</LM>
 </w.rf>
 <form>MUDr</form>
-<tag lemma="MUDr-1_:B_^(doktor_medicíny)" src="orig" selected="1">NNMXX-----A---8</tag>
+<tag>
+<AM lemma="MUDr-1_:B_^(doktor_medicíny)" src="orig">NNMXX-----A---8</AM>
+<AM lemma="MUDr_:B_^(doktor_medicíny)" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-mf930702-088-p2s2w12">
 <src.rf>manual</src.rf>
@@ -383,7 +389,10 @@
 <LM>w#w-mf930702-088-p2s2w14</LM>
 </w.rf>
 <form>Voda</form>
-<tag lemma="voda" src="orig" selected="1">NNFS1-----A----</tag>
+<tag>
+<AM lemma="voda" src="orig">NNFS1-----A----</AM>
+<AM lemma="Voda-2_;S" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930702-088-p2s2w15">
 <src.rf>manual</src.rf>
@@ -443,7 +452,7 @@
 <form>totiž</form>
 <tag>
 <AM lemma="totiž" src="orig">Db-------------</AM>
-<AM lemma="totiž-1" src="auto" recommended="1">J^-------------</AM>
+<AM lemma="totiž-1" src="auto" recommended="1" selected="1">J^-------------</AM>
 <AM lemma="totiž-2" src="auto">TT-------------</AM>
 </tag>
 </m>
@@ -851,7 +860,7 @@
 <form>ovšem</form>
 <tag>
 <AM lemma="ovšem-1_^(avšak,_však;_odporovací_spojka)" src="orig">J^-------------</AM>
-<AM lemma="ovšem" src="auto" recommended="1">TT-------------</AM>
+<AM lemma="ovšem" src="auto" recommended="1" selected="1">TT-------------</AM>
 </tag>
 </m>
 <m id="m-mf930702-088-p2s5w5">
@@ -908,7 +917,10 @@
 <LM>w#w-mf930702-088-p2s5w11</LM>
 </w.rf>
 <form>Vody</form>
-<tag lemma="Voda-1_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag>
+<AM lemma="Voda-1_;S" src="orig">NNMS2-----A----</AM>
+<AM lemma="Voda-2_;S" src="manual" selected="1">NNMS2-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930702-088-p2s5w12">
 <src.rf>manual</src.rf>
@@ -956,7 +968,10 @@
 <LM>w#w-mf930702-088-p2s5w17</LM>
 </w.rf>
 <form>jen</form>
-<tag lemma="jen-1" src="auto" selected="1">TT-------------</tag>
+<tag>
+<AM lemma="jen-1" src="auto">TT-------------</AM>
+<AM lemma="jen-4_^(pouze)" src="manual" selected="1">Db-------------</AM>
+</tag>
 </m>
 <m id="m-mf930702-088-p2s5w18">
 <src.rf>manual</src.rf>

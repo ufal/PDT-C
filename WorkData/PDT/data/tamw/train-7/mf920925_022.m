@@ -39,7 +39,7 @@
 <form>Ruby</form>
 <tag>
 <AM lemma="Ruby_;m" src="orig">NNXXX-----A----</AM>
-<AM lemma="Ruby-1_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Ruby-1_;S" src="auto" recommended="1" selected="1">NNMS1-----A----</AM>
 <AM lemma="Ruby-1_;S" src="auto">NNMS5-----A----</AM>
 <AM lemma="Ruby-2_;Y_,t" src="auto">NNFSX-----A----</AM>
 <AM lemma="rub" src="auto">NNIP1-----A----</AM>
@@ -160,7 +160,10 @@
 <LM>w#w-mf920925-022-p2s2w13</LM>
 </w.rf>
 <form>JFK</form>
-<tag lemma="JFK-1_:B_^(John_Fitzgerald_Kennedy)" src="auto" selected="1">NNMXX-----A---8</tag>
+<tag>
+<AM lemma="JFK-1_:B_^(John_Fitzgerald_Kennedy)" src="auto">NNMXX-----A---8</AM>
+<AM lemma="JFK-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920925-022-p2s2w14">
 <src.rf>manual</src.rf>
@@ -224,7 +227,10 @@
 <LM>w#w-mf920925-022-p2s2w21</LM>
 </w.rf>
 <form>J</form>
-<tag lemma="J-0_:B_;Y" src="orig" selected="1">NNMXX-----A---8</tag>
+<tag>
+<AM lemma="J-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
+<AM lemma="J-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920925-022-p2s2w22">
 <src.rf>manual</src.rf>
@@ -240,7 +246,10 @@
 <LM>w#w-mf920925-022-p2s2w23</LM>
 </w.rf>
 <form>F</form>
-<tag lemma="F-0_:B_;Y" src="orig" selected="1">NNMXX-----A---8</tag>
+<tag>
+<AM lemma="F-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
+<AM lemma="F-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920925-022-p2s2w24">
 <src.rf>manual</src.rf>
@@ -256,7 +265,10 @@
 <LM>w#w-mf920925-022-p2s2w25</LM>
 </w.rf>
 <form>Kennedyho</form>
-<tag lemma="Kennedy" src="auto" selected="1">NNMS4-----A----</tag>
+<tag>
+<AM lemma="Kennedy" src="auto">NNMS4-----A----</AM>
+<AM lemma="Kennedy_;S" src="manual" selected="1">NNMS4-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920925-022-p2s2w26">
 <src.rf>manual</src.rf>
@@ -330,7 +342,10 @@
 <LM>w#w-mf920925-022-p3s1w1</LM>
 </w.rf>
 <form>Klaus</form>
-<tag lemma="Klaus_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Klaus_;S" src="orig">NNMS1-----A----</AM>
+<AM lemma="Klaus_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920925-022-p3s1w2">
 <src.rf>manual</src.rf>
@@ -338,7 +353,10 @@
 <LM>w#w-mf920925-022-p3s1w2</LM>
 </w.rf>
 <form>Maria</form>
-<tag lemma="Maria_;Y" src="auto" selected="1">NNFS1-----A----</tag>
+<tag>
+<AM lemma="Maria_;Y" src="auto">NNFS1-----A----</AM>
+<AM lemma="Maria-2_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920925-022-p3s1w3">
 <src.rf>manual</src.rf>
@@ -444,7 +462,10 @@
 <LM>w#w-mf920925-022-p3s2w11</LM>
 </w.rf>
 <form>Mefisto</form>
-<tag lemma="Mefisto_;S" src="auto" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Mefisto_;S" src="auto">NNMS1-----A----</AM>
+<AM lemma="Mefisto_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920925-022-p3s2w12">
 <src.rf>manual</src.rf>
@@ -556,7 +577,10 @@
 <LM>w#w-mf920925-022-p3s2w25</LM>
 </w.rf>
 <form>hod</form>
-<tag lemma="hodina_:B" src="auto" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="hodina_:B" src="auto">NNFXX-----A---8</AM>
+<AM lemma="hodina" src="manual" selected="1">NNFXX-----A---9</AM>
+</tag>
 </m>
 <m id="m-mf920925-022-p3s2w26">
 <src.rf>manual</src.rf>
@@ -805,6 +829,7 @@
 <AM lemma="F-9_:B_;S" src="auto">NNXXX-----A---8</AM>
 <AM lemma="f-3_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
 <AM lemma="f-8_:B_^(ost._zkratka)" src="auto">XX------------8</AM>
+<AM lemma="F-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920925-022-p4s1Bw12">

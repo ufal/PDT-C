@@ -85,7 +85,10 @@
 <LM>w#w-mf920924-042-p2s1w7</LM>
 </w.rf>
 <form>pasívně</form>
-<tag lemma="pasívně_^(*1í)" src="orig" selected="1">Dg-------1A----</tag>
+<tag>
+<AM lemma="pasívně_^(*1í)" src="orig">Dg-------1A----</AM>
+<AM lemma="pasívně_,s_^(^DD**pasivně)_^(*1í)" src="manual" selected="1">Dg-------1A----</AM>
+</tag>
 </m>
 <m id="m-mf920924-042-p2s1w8">
 <src.rf>manual</src.rf>
@@ -495,7 +498,10 @@
 <LM>w#w-mf920924-042-p2s6w15</LM>
 </w.rf>
 <form>dokáže</form>
-<tag lemma="dokázat" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag>
+<AM lemma="dokázat" src="orig">VB-S---3P-AA---</AM>
+<AM lemma="dokázat_:W" src="manual" selected="1">VB-S---3P-AA---</AM>
+</tag>
 </m>
 <m id="m-mf920924-042-p2s6w16">
 <src.rf>manual</src.rf>
@@ -899,7 +905,10 @@
 <LM>w#w-mf920924-042-p2s8w23</LM>
 </w.rf>
 <form>hrát</form>
-<tag lemma="hrát" src="orig" selected="1">Vf--------A----</tag>
+<tag>
+<AM lemma="hrát" src="orig">Vf--------A----</AM>
+<AM lemma="hrát_:T" src="manual" selected="1">Vf--------A----</AM>
+</tag>
 </m>
 <m id="m-mf920924-042-p2s8w24">
 <src.rf>manual</src.rf>
@@ -909,7 +918,7 @@
 <form>nejen</form>
 <tag>
 <AM lemma="nejen" src="orig">TT-------------</AM>
-<AM lemma="nejen" src="auto" recommended="1">Db-------------</AM>
+<AM lemma="nejen" src="auto" recommended="1" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m-mf920924-042-p2s8w25">

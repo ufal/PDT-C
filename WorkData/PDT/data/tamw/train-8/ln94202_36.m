@@ -69,7 +69,10 @@
 <LM>w#w-ln94202-36-p2s1Aw3</LM>
 </w.rf>
 <form>mot</form>
-<tag lemma="mot-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="mot-99_:B_;S" src="orig">NNXXX-----A---8</AM>
+<AM lemma="mot-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94202-36-p2s1Aw4">
 <src.rf>manual</src.rf>
@@ -433,7 +436,10 @@
 <LM>w#w-ln94202-36-p2s2w20</LM>
 </w.rf>
 <form>Kriegsopfer</form>
-<tag lemma="Kriegsopfer_,t" src="orig" selected="1">NNFXX-----A----</tag>
+<tag>
+<AM lemma="Kriegsopfer_,t" src="orig">NNFXX-----A----</AM>
+<AM lemma="Kriegsopfer-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94202-36-p2s2w21">
 <src.rf>manual</src.rf>
@@ -723,7 +729,10 @@
 <LM>w#w-ln94202-36-p2s3w16</LM>
 </w.rf>
 <form>LN</form>
-<tag lemma="LN-1_:B_;R_^(Lidové_noviny,_deník)" src="orig" selected="1">NNFPX-----A---8</tag>
+<tag>
+<AM lemma="LN-1_:B_;R_^(Lidové_noviny,_deník)" src="orig">NNFPX-----A---8</AM>
+<AM lemma="LN-1_:B_;K_;R_^(Lidové_noviny)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94202-36-p2s3w17">
 <src.rf>manual</src.rf>
@@ -1096,7 +1105,10 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>loyalními</form>
-<tag lemma="loajální" src="orig" selected="1">AAMP7----1A----</tag>
+<tag>
+<AM lemma="loajální" src="orig">AAMP7----1A----</AM>
+<AM lemma="loyalní_,s_^(^DD**loajální)" src="manual" selected="1">AAMP7----1A----</AM>
+</tag>
 </m>
 <m id="m-ln94202-36-p2s5w21">
 <src.rf>manual</src.rf>
@@ -1112,7 +1124,10 @@
 <LM>w#w-ln94202-36-p2s5w22</LM>
 </w.rf>
 <form>ČR</form>
-<tag lemma="ČR-1_:B_;G_^(Česká_republika)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94202-36-p2s5w23">
 <src.rf>manual</src.rf>

@@ -81,6 +81,7 @@
 <AM lemma="do-99_:B_;S" src="orig">NNXXX-----A---8</AM>
 <AM lemma="do-1" src="auto" recommended="1">RR--2----------</AM>
 <AM lemma="do-7_^(předpona,_sam.)" src="auto">A2--------A----</AM>
+<AM lemma="do-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930709-116-p2s1Aw5">
@@ -155,7 +156,10 @@
 <LM>w#w-mf930709-116-p2s1Bw7</LM>
 </w.rf>
 <form>managementu</form>
-<tag lemma="management_,t_^(vedení,_manažment;_angl.)" src="orig" selected="1">NNIS2-----A----</tag>
+<tag>
+<AM lemma="management_,t_^(vedení,_manažment;_angl.)" src="orig">NNIS2-----A----</AM>
+<AM lemma="management_^(vedení,_manažment;_angl.)" src="manual" selected="1">NNIS2-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930709-116-p2s1Bw8">
 <src.rf>manual</src.rf>
@@ -271,6 +275,7 @@
 <AM lemma="International-2_;K_,t" src="orig">NNXXX-----A---1</AM>
 <AM lemma="International_,t" src="auto">NNISX-----A----</AM>
 <AM lemma="international_,t" src="auto" recommended="1">AAXXX----1A----</AM>
+<AM lemma="International-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-mf930709-116-p2s1Bw22">
@@ -283,6 +288,8 @@
 <AM lemma="Euromarket_;m_,t" src="orig">AAXXX----1A----</AM>
 <AM lemma="Euromarket" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Euromarket" src="auto">NNIS4-----A----</AM>
+<AM lemma="euromarket_,t" src="manual">NNXXX-----A----</AM>
+<AM lemma="Euromarket-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-mf930709-116-p2s1Bw23">
@@ -291,7 +298,10 @@
 <LM>w#w-mf930709-116-p2s1Bw23</LM>
 </w.rf>
 <form>Award</form>
-<tag lemma="Award_;m_,t" src="orig" selected="1">NNFXX-----A----</tag>
+<tag>
+<AM lemma="Award_;m_,t" src="orig">NNFXX-----A----</AM>
+<AM lemma="Award-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-mf930709-116-p2s1Bw24">
 <src.rf>manual</src.rf>
@@ -493,7 +503,10 @@
 <LM>w#w-mf930709-116-p2s2w24</LM>
 </w.rf>
 <form>ES</form>
-<tag lemma="ES_:B_;K_^(Evropská_společenství)" src="orig" selected="1">NNNXX-----A---8</tag>
+<tag>
+<AM lemma="ES_:B_;K_^(Evropská_společenství)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="ES-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930709-116-p2s2w25">
 <src.rf>manual</src.rf>

@@ -67,7 +67,10 @@
 <LM>w#w-lnd92257-088-p1s1w7</LM>
 </w.rf>
 <form>JDC</form>
-<tag lemma="JDC_:B_;K_,t_^(židovská_org._Joint_Distribution_Committee)" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="JDC_:B_;K_,t_^(židovská_org._Joint_Distribution_Committee)" src="orig">NNXXX-----A---8</AM>
+<AM lemma="JDC-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd92257-088-p1s1w8">
 <src.rf>manual</src.rf>
@@ -418,7 +421,7 @@
 </w.rf>
 <form>jab</form>
 <tag>
-<AM lemma="jab-99_:B_;S" src="orig">NNXXX-----A---8</AM>
+<AM lemma="jab-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</AM>
 <AM lemma="jab_;w_,t" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="jab_;w_,t" src="auto">NNIS4-----A----</AM>
 </tag>
@@ -471,7 +474,10 @@
 <LM>w#w-lnd92257-088-p3s1w5</LM>
 </w.rf>
 <form>LN</form>
-<tag lemma="LN-1_:B_;R_^(Lidové_noviny,_deník)" src="orig" selected="1">NNFPX-----A---8</tag>
+<tag>
+<AM lemma="LN-1_:B_;R_^(Lidové_noviny,_deník)" src="orig">NNFPX-----A---8</AM>
+<AM lemma="LN-1_:B_;K_;R_^(Lidové_noviny)" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 </s>
 </mdata>

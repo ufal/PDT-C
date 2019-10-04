@@ -45,7 +45,10 @@
 <LM>w#w-ln94209-88-p2s1w3</LM>
 </w.rf>
 <form>Gianni</form>
-<tag lemma="Gianni_;Y_,t" src="auto" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Gianni_;Y_,t" src="auto">NNMS1-----A----</AM>
+<AM lemma="Gianni_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94209-88-p2s1w4">
 <src.rf>manual</src.rf>
@@ -587,7 +590,10 @@
 <LM>w#w-ln94209-88-p3s2w7</LM>
 </w.rf>
 <form>da</form>
-<tag lemma="da_,t_^(šp.)" src="orig" selected="1">RR--X----------</tag>
+<tag>
+<AM lemma="da_,t_^(šp.)" src="orig">RR--X----------</AM>
+<AM lemma="da-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94209-88-p3s2w8">
 <src.rf>manual</src.rf>

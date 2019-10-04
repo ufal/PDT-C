@@ -109,7 +109,10 @@
 <LM>w#w-ln95044-093-p2s1Aw6</LM>
 </w.rf>
 <form>LN</form>
-<tag lemma="LN-1_:B_;R_^(Lidové_noviny,_deník)" src="orig" selected="1">NNFPX-----A---8</tag>
+<tag>
+<AM lemma="LN-1_:B_;R_^(Lidové_noviny,_deník)" src="orig">NNFPX-----A---8</AM>
+<AM lemma="LN-1_:B_;K_;R_^(Lidové_noviny)" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 </s>
 <s id="m-ln95044-093-p2s1B">
@@ -347,7 +350,10 @@
 <LM>w#w-ln95044-093-p2s3Aw3</LM>
 </w.rf>
 <form>LN</form>
-<tag lemma="LN-1_:B_;R_^(Lidové_noviny,_deník)" src="orig" selected="1">NNFPX-----A---8</tag>
+<tag>
+<AM lemma="LN-1_:B_;R_^(Lidové_noviny,_deník)" src="orig">NNFPX-----A---8</AM>
+<AM lemma="LN-1_:B_;K_;R_^(Lidové_noviny)" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln95044-093-p2s3Aw4">
 <src.rf>manual</src.rf>
@@ -371,7 +377,10 @@
 <LM>w#w-ln95044-093-p2s3Aw6</LM>
 </w.rf>
 <form>SČMBD</form>
-<tag lemma="SČMBD-1_:B_;K_^(Svaz_českých_a_moravských_byt._družstev)" src="auto" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="SČMBD-1_:B_;K_^(Svaz_českých_a_moravských_byt._družstev)" src="auto">NNIXX-----A---8</AM>
+<AM lemma="SČMBD-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln95044-093-p2s3Aw7">
 <src.rf>manual</src.rf>
@@ -937,7 +946,7 @@
 <form>totiž</form>
 <tag>
 <AM lemma="totiž" src="orig">Db-------------</AM>
-<AM lemma="totiž-1" src="auto" recommended="1">J^-------------</AM>
+<AM lemma="totiž-1" src="auto" recommended="1" selected="1">J^-------------</AM>
 <AM lemma="totiž-2" src="auto">TT-------------</AM>
 </tag>
 </m>
@@ -1072,7 +1081,7 @@
 <tag>
 <AM lemma="tedy" src="orig">Db-------------</AM>
 <AM lemma="tedy-1" src="auto" recommended="1">TT-------------</AM>
-<AM lemma="tedy-2" src="auto">J^-------------</AM>
+<AM lemma="tedy-2" src="auto" selected="1">J^-------------</AM>
 </tag>
 </m>
 <m id="m-ln95044-093-p3s5w3">
@@ -1661,7 +1670,10 @@
 <LM>w#w-ln95044-093-p4s4w5</LM>
 </w.rf>
 <form>mechanismus</form>
-<tag lemma="mechanismus" src="orig" selected="1">NNIS4-----A----</tag>
+<tag>
+<AM lemma="mechanismus" src="orig">NNIS4-----A----</AM>
+<AM lemma="mechanismus_,s_^(^DD**mechanizmus)" src="manual" selected="1">NNIS4-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95044-093-p4s4w6">
 <src.rf>manual</src.rf>
@@ -2529,7 +2541,10 @@
 <LM>w#w-ln95044-093-p6s4w8</LM>
 </w.rf>
 <form>konkurs</form>
-<tag lemma="konkurs_^(úpadek;;soutěž)" src="auto" selected="1">NNIS4-----A----</tag>
+<tag>
+<AM lemma="konkurs_^(úpadek;;soutěž)" src="auto">NNIS4-----A----</AM>
+<AM lemma="konkurs_,s_^(^DD**konkurz)" src="manual" selected="1">NNIS4-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95044-093-p6s4w9">
 <src.rf>manual</src.rf>

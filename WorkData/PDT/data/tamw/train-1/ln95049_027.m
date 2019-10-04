@@ -59,7 +59,10 @@
 <LM>w#w-ln95049-027-p1s1w6</LM>
 </w.rf>
 <form>MS</form>
-<tag lemma="MS-3_:B_;w_^(mistrovství_světa)" src="orig" selected="1">NNNXX-----A---8</tag>
+<tag>
+<AM lemma="MS-3_:B_;w_^(mistrovství_světa)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="MS-3_:B_^(mistrovství_světa)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95049-027-p1s1w7">
 <src.rf>manual</src.rf>
@@ -79,7 +82,7 @@
 <form>Tokio</form>
 <tag>
 <AM lemma="Tokyo_;G" src="orig">NNNS1-----A----</AM>
-<AM lemma="Tokio_;G" src="auto" recommended="1">NNNS1-----A----</AM>
+<AM lemma="Tokio_;G" src="auto" recommended="1" selected="1">NNNS1-----A----</AM>
 <AM lemma="Tokio_;G" src="auto">NNNS4-----A----</AM>
 <AM lemma="Tokio_;G" src="auto">NNNS5-----A----</AM>
 </tag>
@@ -318,7 +321,10 @@
 <LM>w#w-ln95049-027-p2s2w9</LM>
 </w.rf>
 <form>FIFA</form>
-<tag lemma="FIFA_:B_;K" src="auto" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="FIFA_:B_;K" src="auto">NNFXX-----A---8</AM>
+<AM lemma="FIFA-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95049-027-p2s2w10">
 <src.rf>manual</src.rf>
@@ -335,11 +341,16 @@
 </w.rf>
 <form>Joao</form>
 <tag>
-<AM lemma="Joao-2_;Y" src="orig">NNMXX-----A----</AM>
+<AM lemma="Joao-2_;Y" src="orig" selected="1">NNMXX-----A----</AM>
 <AM lemma="Joao_;G" src="auto" recommended="1">NNNS1-----A----</AM>
 <AM lemma="Joao_;G" src="auto">NNNS4-----A----</AM>
 <AM lemma="Joao_;G" src="auto">NNNS5-----A----</AM>
 </tag>
+<comment>
+<LM type="Other">
+<text>podle instrukcí</text>
+</LM>
+</comment>
 </m>
 <m id="m-ln95049-027-p2s2w12">
 <src.rf>manual</src.rf>
@@ -551,7 +562,7 @@
 <form>přičemž</form>
 <tag>
 <AM lemma="přičemž" src="orig">J,-------------</AM>
-<AM lemma="přičemž" src="auto" recommended="1">Db-------------</AM>
+<AM lemma="přičemž" src="auto" recommended="1" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m-ln95049-027-p2s3w17">

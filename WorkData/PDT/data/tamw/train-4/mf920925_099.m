@@ -43,7 +43,10 @@
 <LM>w#w-mf920925-099-p1s1w4</LM>
 </w.rf>
 <form>socialismu</form>
-<tag lemma="socialismus" src="orig" selected="1">NNIS6-----A----</tag>
+<tag>
+<AM lemma="socialismus" src="orig">NNIS6-----A----</AM>
+<AM lemma="socialismus_,s_^(^DD**socializmus)" src="manual" selected="1">NNIS6-----A----</AM>
+</tag>
 </m>
 </s>
 <s id="m-mf920925-099-p1s1B">
@@ -297,7 +300,10 @@
 <LM>w#w-mf920925-099-p2s2w23</LM>
 </w.rf>
 <form>socialismus</form>
-<tag lemma="socialismus" src="orig" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="socialismus" src="orig">NNIS1-----A----</AM>
+<AM lemma="socialismus_,s_^(^DD**socializmus)" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920925-099-p2s2w24">
 <src.rf>manual</src.rf>
@@ -507,7 +513,10 @@
 <LM>w#w-mf920925-099-p2s3w12</LM>
 </w.rf>
 <form>Moskovskaja</form>
-<tag lemma="Moskovskij_;R_,t" src="orig" selected="1">AAFS1----1A----</tag>
+<tag>
+<AM lemma="Moskovskij_;R_,t" src="orig">AAFS1----1A----</AM>
+<AM lemma="Moskovskaja-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-mf920925-099-p2s3w13">
 <src.rf>manual</src.rf>
@@ -515,7 +524,10 @@
 <LM>w#w-mf920925-099-p2s3w13</LM>
 </w.rf>
 <form>Pravda</form>
-<tag lemma="pravda-1" src="auto" selected="1">NNFS1-----A----</tag>
+<tag>
+<AM lemma="pravda-1" src="auto">NNFS1-----A----</AM>
+<AM lemma="Pravda-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-mf920925-099-p2s3w14">
 <src.rf>manual</src.rf>

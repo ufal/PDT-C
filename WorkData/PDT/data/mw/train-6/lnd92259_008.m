@@ -29,7 +29,7 @@
 <form>PANIČOVI</form>
 <tag>
 <AM lemma="Panić_;S" src="orig">NNMS3-----A----</AM>
-<AM lemma="Panič_;S" src="auto">NNMS3-----A---1</AM>
+<AM lemma="Panič_;S" src="auto" selected="1">NNMS3-----A---1</AM>
 <AM lemma="Panič_;S" src="auto">NNMS6-----A---1</AM>
 <AM lemma="Paničův_;S_^(*2)" src="auto" recommended="1">AUMP1M---------</AM>
 <AM lemma="Paničův_;S_^(*2)" src="auto">AUMP5M---------</AM>
@@ -387,7 +387,10 @@
 <LM>w#w-lnd92259-008-p4s1w5</LM>
 </w.rf>
 <form>straně</form>
-<tag lemma="strana-4_^(v_knize,_rukopise,...)" src="orig" selected="1">NNFS6-----A----</tag>
+<tag>
+<AM lemma="strana-4_^(v_knize,_rukopise,...)" src="orig">NNFS6-----A----</AM>
+<AM lemma="strana" src="manual" selected="1">NNFS6-----A----</AM>
+</tag>
 </m>
 </s>
 </mdata>

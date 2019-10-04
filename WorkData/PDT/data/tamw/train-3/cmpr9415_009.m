@@ -87,7 +87,10 @@
 <LM>w#w-cmpr9415-009-p3s1w3</LM>
 </w.rf>
 <form>ČR</form>
-<tag lemma="ČR-1_:B_;G_^(Česká_republika)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-cmpr9415-009-p3s1w4">
 <src.rf>manual</src.rf>
@@ -182,6 +185,7 @@
 <tag>
 <AM lemma="Kč" src="orig">NNFXX-----A----</AM>
 <AM lemma="Kč_:B" src="auto" recommended="1">NNFXX-----A---8</AM>
+<AM lemma="Kč_:B" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9415-009-p5s1w5">
@@ -350,6 +354,7 @@
 <tag>
 <AM lemma="Kč" src="orig">NNFXX-----A----</AM>
 <AM lemma="Kč_:B" src="auto" recommended="1">NNFXX-----A---8</AM>
+<AM lemma="Kč_:B" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9415-009-p7s1w10">
@@ -508,7 +513,10 @@
 <LM>w#w-cmpr9415-009-p9s1w7</LM>
 </w.rf>
 <form>km</form>
-<tag lemma="km-1`kilometr_:B" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="km-1`kilometr_:B" src="orig">NNIXX-----A---8</AM>
+<AM lemma="kilometr" src="manual" selected="1">NNIXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-cmpr9415-009-p9s1w8">
 <src.rf>manual</src.rf>
@@ -705,7 +713,7 @@
 <form>Jeseníku</form>
 <tag>
 <AM lemma="Jeseník_;G" src="orig">NNIS2-----A----</AM>
-<AM lemma="Jeseník_;G" src="auto" recommended="1">NNIS2-----A---1</AM>
+<AM lemma="Jeseník_;G" src="auto" recommended="1" selected="1">NNIS2-----A---1</AM>
 <AM lemma="Jeseník_;G" src="auto">NNIS3-----A----</AM>
 <AM lemma="Jeseník_;G" src="auto">NNIS5-----A----</AM>
 <AM lemma="Jeseník_;G" src="auto">NNIS6-----A----</AM>
@@ -760,6 +768,7 @@
 <AM lemma="mimo-1_:B" src="auto">RR--4---------8</AM>
 <AM lemma="minuta_:B" src="auto">NNFXX-----A---8</AM>
 <AM lemma="město_:B" src="auto">NNNXX-----A---8</AM>
+<AM lemma="metr" src="manual" selected="1">NNIXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-cmpr9415-009-p9s3w5">
@@ -768,7 +777,10 @@
 <LM>w#w-cmpr9415-009-p9s3w5</LM>
 </w.rf>
 <form>n</form>
-<tag lemma="nad-1_:B" src="orig" selected="1">RR--7---------8</tag>
+<tag>
+<AM lemma="nad-1_:B" src="orig">RR--7---------8</AM>
+<AM lemma="nad-1" src="manual" selected="1">RR--7---------8</AM>
+</tag>
 </m>
 <m id="m-cmpr9415-009-p9s3w6">
 <src.rf>manual</src.rf>
@@ -793,6 +805,8 @@
 <AM lemma="mimo-1_:B" src="auto">RR--4---------8</AM>
 <AM lemma="minuta_:B" src="auto">NNFXX-----A---8</AM>
 <AM lemma="město_:B" src="auto" recommended="1">NNNXX-----A---8</AM>
+<AM lemma="moře" src="manual">NNNS7-----A----</AM>
+<AM lemma="moře" src="manual" selected="1">NNNS7-----A---8</AM>
 </tag>
 </m>
 <m id="m-cmpr9415-009-p9s3w8">
@@ -850,6 +864,7 @@
 <AM lemma="mimo-1_:B" src="auto">RR--4---------8</AM>
 <AM lemma="minuta_:B" src="auto">NNFXX-----A---8</AM>
 <AM lemma="město_:B" src="auto">NNNXX-----A---8</AM>
+<AM lemma="metr" src="manual" selected="1">NNIXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-cmpr9415-009-p9s3w14">
@@ -858,7 +873,10 @@
 <LM>w#w-cmpr9415-009-p9s3w14</LM>
 </w.rf>
 <form>n</form>
-<tag lemma="nad-1_:B" src="orig" selected="1">RR--7---------8</tag>
+<tag>
+<AM lemma="nad-1_:B" src="orig">RR--7---------8</AM>
+<AM lemma="nad-1" src="manual" selected="1">RR--7---------8</AM>
+</tag>
 </m>
 <m id="m-cmpr9415-009-p9s3w15">
 <src.rf>manual</src.rf>
@@ -883,6 +901,7 @@
 <AM lemma="mimo-1_:B" src="auto">RR--4---------8</AM>
 <AM lemma="minuta_:B" src="auto">NNFXX-----A---8</AM>
 <AM lemma="město_:B" src="auto" recommended="1">NNNXX-----A---8</AM>
+<AM lemma="moře_:B" src="manual" selected="1">NNNXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-cmpr9415-009-p9s3w17">
@@ -919,7 +938,7 @@
 <form>tří</form>
 <tag>
 <AM lemma="třílůžkový" src="orig">AAIP6----1A----</AM>
-<AM lemma="tři`3" src="auto" recommended="1">ClXP2----------</AM>
+<AM lemma="tři`3" src="auto" recommended="1" selected="1">ClXP2----------</AM>
 </tag>
 </m>
 <m id="m-cmpr9415-009-p9s4w4">
@@ -938,7 +957,7 @@
 <form>čtyř</form>
 <tag>
 <AM lemma="čtyřlůžkový" src="orig">AAIP6----1A----</AM>
-<AM lemma="čtyři`4" src="auto" recommended="1">ClXP2----------</AM>
+<AM lemma="čtyři`4" src="auto" recommended="1" selected="1">ClXP2----------</AM>
 </tag>
 </m>
 <m id="m-cmpr9415-009-p9s4w6">
@@ -1021,7 +1040,10 @@
 <LM>w#w-cmpr9415-009-p9s5w2</LM>
 </w.rf>
 <form>TV</form>
-<tag lemma="televize_:B" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="televize_:B" src="orig">NNFXX-----A---8</AM>
+<AM lemma="televize" src="manual" selected="1">NNFXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-cmpr9415-009-p9s5w3">
 <src.rf>manual</src.rf>

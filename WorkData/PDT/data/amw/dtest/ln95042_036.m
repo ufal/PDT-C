@@ -271,7 +271,10 @@
 <LM>w#w-ln95042-036-p2s1Bw28</LM>
 </w.rf>
 <form>ohlášená</form>
-<tag lemma="ohlášený_,a_^(*4sit)" src="auto" selected="1">AANP1----1A----</tag>
+<tag>
+<AM lemma="ohlášený_,a_^(*4sit)" src="auto">AANP1----1A----</AM>
+<AM lemma="ohlášený_^(*4sit)" src="manual" selected="1">AANP1----1A----</AM>
+</tag>
 </m>
 <m id="m-ln95042-036-p2s1Bw29">
 <src.rf>manual</src.rf>
@@ -303,7 +306,10 @@
 <LM>w#w-ln95042-036-p2s1Bw32</LM>
 </w.rf>
 <form>Davidson</form>
-<tag lemma="Davidson_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Davidson_;S" src="orig">NNMS1-----A----</AM>
+<AM lemma="Davidson_;Y_;S" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95042-036-p2s1Bw33">
 <src.rf>manual</src.rf>
@@ -319,7 +325,10 @@
 <LM>w#w-ln95042-036-p2s1Bw34</LM>
 </w.rf>
 <form>Osmond</form>
-<tag lemma="Osmond_;S" src="auto" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Osmond_;S" src="auto">NNMS1-----A----</AM>
+<AM lemma="Osmond_;Y_;S" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95042-036-p2s1Bw35">
 <src.rf>manual</src.rf>
@@ -327,7 +336,10 @@
 <LM>w#w-ln95042-036-p2s1Bw35</LM>
 </w.rf>
 <form>Ezinwové</form>
-<tag lemma="Ezinw_;S_^(možná_Ezinwa)" src="orig" selected="1">NNMP1-----A----</tag>
+<tag>
+<AM lemma="Ezinw_;S_^(možná_Ezinwa)" src="orig">NNMP1-----A----</AM>
+<AM lemma="Ezinwa_;S" src="manual" selected="1">NNMP1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95042-036-p2s1Bw36">
 <src.rf>manual</src.rf>
@@ -351,7 +363,10 @@
 <LM>w#w-ln95042-036-p2s1Bw38</LM>
 </w.rf>
 <form>ani</form>
-<tag lemma="ani-1" src="auto" selected="1">J^-------------</tag>
+<tag>
+<AM lemma="ani-1" src="auto">J^-------------</AM>
+<AM lemma="ani-2" src="manual" selected="1">TT-------------</AM>
+</tag>
 </m>
 <m id="m-ln95042-036-p2s1Bw39">
 <src.rf>manual</src.rf>
@@ -359,7 +374,10 @@
 <LM>w#w-ln95042-036-p2s1Bw39</LM>
 </w.rf>
 <form>dvojnásobný</form>
-<tag lemma="dvojnásobný`2" src="orig" selected="1">AAMS1----1A----</tag>
+<tag>
+<AM lemma="dvojnásobný`2" src="orig">AAMS1----1A----</AM>
+<AM lemma="dvojnásobný`2_,s_^(^DD**dvounásobný)" src="manual" selected="1">AAMS1----1A----</AM>
+</tag>
 </m>
 <m id="m-ln95042-036-p2s1Bw40">
 <src.rf>manual</src.rf>
@@ -403,7 +421,7 @@
 <AM lemma="m-1`metr_:B" src="orig">NNIXX-----A---8</AM>
 <AM lemma="m-3_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
 <AM lemma="m-8_:B_^(ost._zkratka)" src="auto">XX------------8</AM>
-<AM lemma="metr_:B" src="auto" recommended="1">NNIXX-----A---8</AM>
+<AM lemma="metr_:B" src="auto" recommended="1" selected="1">NNIXX-----A---8</AM>
 <AM lemma="mimo-1_:B" src="auto">RR--2---------8</AM>
 <AM lemma="mimo-1_:B" src="auto">RR--4---------8</AM>
 <AM lemma="minuta_:B" src="auto">NNFXX-----A---8</AM>
@@ -416,7 +434,10 @@
 <LM>w#w-ln95042-036-p2s1Bw45</LM>
 </w.rf>
 <form>Calvin</form>
-<tag lemma="Calvin_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Calvin_;S" src="orig">NNMS1-----A----</AM>
+<AM lemma="Calvin_;Y_;S" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95042-036-p2s1Bw46">
 <src.rf>manual</src.rf>
@@ -443,6 +464,7 @@
 <tag>
 <AM lemma="USA_;G" src="orig">NNIPX-----A----</AM>
 <AM lemma="USA_:B_;K_,t_^(United_States_of_America)" src="auto" recommended="1">NNIPX-----A---8</AM>
+<AM lemma="USA_:B_;K_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-ln95042-036-p2s1Bw49">
@@ -561,7 +583,7 @@
 <AM lemma="m-1`metr_:B" src="orig">NNIXX-----A---8</AM>
 <AM lemma="m-3_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
 <AM lemma="m-8_:B_^(ost._zkratka)" src="auto">XX------------8</AM>
-<AM lemma="metr_:B" src="auto" recommended="1">NNIXX-----A---8</AM>
+<AM lemma="metr_:B" src="auto" recommended="1" selected="1">NNIXX-----A---8</AM>
 <AM lemma="mimo-1_:B" src="auto">RR--2---------8</AM>
 <AM lemma="mimo-1_:B" src="auto">RR--4---------8</AM>
 <AM lemma="minuta_:B" src="auto">NNFXX-----A---8</AM>

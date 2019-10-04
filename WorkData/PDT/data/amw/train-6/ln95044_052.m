@@ -407,7 +407,10 @@
 <LM>w#w-ln95044-052-p2s2w20</LM>
 </w.rf>
 <form>Marta</form>
-<tag lemma="Marta" src="auto" selected="1">NNFS1-----A----</tag>
+<tag>
+<AM lemma="Marta" src="auto">NNFS1-----A----</AM>
+<AM lemma="Marta_;Y" src="manual" selected="1">NNFS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95044-052-p2s2w21">
 <src.rf>manual</src.rf>
@@ -770,7 +773,10 @@
 <LM>w#w-ln95044-052-p2s3w39</LM>
 </w.rf>
 <form>Lukáše</form>
-<tag lemma="Lukáš_;Y" src="orig" selected="1">NNMS2-----A----</tag>
+<tag>
+<AM lemma="Lukáš_;Y" src="orig">NNMS2-----A----</AM>
+<AM lemma="Lukáš_;S_;Y" src="manual" selected="1">NNMS2-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95044-052-p2s3w40">
 <src.rf>manual</src.rf>
@@ -900,7 +906,10 @@
 <LM>w#w-ln95044-052-p2s4w15</LM>
 </w.rf>
 <form>Musikereinu</form>
-<tag lemma="Musikerein_;m_,t" src="orig" selected="1">NNIS6-----A----</tag>
+<tag>
+<AM lemma="Musikerein_;m_,t" src="orig">NNIS6-----A----</AM>
+<AM lemma="Musikerein_;m" src="manual" selected="1">NNIS6-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95044-052-p2s4w16">
 <src.rf>manual</src.rf>

@@ -258,7 +258,7 @@
 <form>Kč</form>
 <tag>
 <AM lemma="Kč" src="orig">NNFXX-----A----</AM>
-<AM lemma="Kč_:B" src="auto" recommended="1">NNFXX-----A---8</AM>
+<AM lemma="Kč_:B" src="auto" recommended="1" selected="1">NNFXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-cmpr9417-005-p4s1w20">
@@ -1642,6 +1642,7 @@
 <tag>
 <AM lemma="RVHP-1_;K_;p_;b" src="orig">NNFXX-----A---8</AM>
 <AM lemma="RVHP-1_:B_;K_;b_;p" src="auto" recommended="1">NNNXX-----A---8</AM>
+<AM lemma="RVHP-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-cmpr9417-005-p6s3w25">
@@ -3731,7 +3732,10 @@
 <LM>w#w-cmpr9417-005-p11s2w9</LM>
 </w.rf>
 <form>Spolana</form>
-<tag lemma="Spolana" src="orig" selected="1">NNFS1-----A----</tag>
+<tag>
+<AM lemma="Spolana" src="orig">NNFS1-----A----</AM>
+<AM lemma="Spolana_;K" src="manual" selected="1">NNFS1-----A----</AM>
+</tag>
 </m>
 <m id="m-cmpr9417-005-p11s2w10">
 <src.rf>manual</src.rf>
@@ -4056,7 +4060,7 @@
 <form>chemičky</form>
 <tag>
 <AM lemma="chemička_^(továrna)" src="orig">NNFP1-----A----</AM>
-<AM lemma="chemička-1_^(továrna)" src="auto" recommended="1">NNFP1-----A----</AM>
+<AM lemma="chemička-1_^(továrna)" src="auto" recommended="1" selected="1">NNFP1-----A----</AM>
 <AM lemma="chemička-1_^(továrna)" src="auto">NNFP4-----A----</AM>
 <AM lemma="chemička-1_^(továrna)" src="auto">NNFP5-----A----</AM>
 <AM lemma="chemička-1_^(továrna)" src="auto">NNFS2-----A----</AM>
@@ -5557,7 +5561,7 @@
 <form>třeba</form>
 <tag>
 <AM lemma="třeba-1" src="orig">ACNS------A----</AM>
-<AM lemma="třeba-2" src="auto" recommended="1">Db-------------</AM>
+<AM lemma="třeba-2" src="auto" recommended="1" selected="1">Db-------------</AM>
 <AM lemma="třeba-3" src="auto">TT-------------</AM>
 </tag>
 </m>
@@ -5651,6 +5655,7 @@
 <AM lemma="GMP_:B_,t_^(certifikát_správné_výrobní_praxe)" src="orig">NNXXX-----A----</AM>
 <AM lemma="GMP-1_:B_,t_^(gouverneur_militaire_de_Paris)" src="auto" recommended="1">NNIXX-----A---8</AM>
 <AM lemma="guanosinmonofosfát_:B_;H" src="auto">NNIXX-----A---8</AM>
+<AM lemma="GMP-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-cmpr9417-005-p13s7w20">
@@ -6303,7 +6308,7 @@
 <form>Kč</form>
 <tag>
 <AM lemma="Kč" src="orig">NNFXX-----A----</AM>
-<AM lemma="Kč_:B" src="auto" recommended="1">NNFXX-----A---8</AM>
+<AM lemma="Kč_:B" src="auto" recommended="1" selected="1">NNFXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-cmpr9417-005-p16s1w20">
@@ -6370,7 +6375,7 @@
 <form>Kč</form>
 <tag>
 <AM lemma="Kč" src="orig">NNFXX-----A----</AM>
-<AM lemma="Kč_:B" src="auto" recommended="1">NNFXX-----A---8</AM>
+<AM lemma="Kč_:B" src="auto" recommended="1" selected="1">NNFXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-cmpr9417-005-p16s1w28">
@@ -6699,7 +6704,7 @@
 <form>Kč</form>
 <tag>
 <AM lemma="Kč" src="orig">NNFXX-----A----</AM>
-<AM lemma="Kč_:B" src="auto" recommended="1">NNFXX-----A---8</AM>
+<AM lemma="Kč_:B" src="auto" recommended="1" selected="1">NNFXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-cmpr9417-005-p16s4w12">
@@ -6766,7 +6771,7 @@
 <form>Kč</form>
 <tag>
 <AM lemma="Kč" src="orig">NNFXX-----A----</AM>
-<AM lemma="Kč_:B" src="auto" recommended="1">NNFXX-----A---8</AM>
+<AM lemma="Kč_:B" src="auto" recommended="1" selected="1">NNFXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-cmpr9417-005-p16s4w20">
@@ -6812,7 +6817,7 @@
 <form>kotované</form>
 <tag>
 <AM lemma="kótovaný_^(*2t)" src="orig">AAFP1----1A----</AM>
-<AM lemma="kotovaný_^(*2t)" src="auto" recommended="1">AAFP1----1A----</AM>
+<AM lemma="kotovaný_^(*2t)" src="auto" recommended="1" selected="1">AAFP1----1A----</AM>
 <AM lemma="kotovaný_^(*2t)" src="auto">AAFP4----1A----</AM>
 <AM lemma="kotovaný_^(*2t)" src="auto">AAFP5----1A----</AM>
 <AM lemma="kotovaný_^(*2t)" src="auto">AAFS2----1A----</AM>
@@ -6862,7 +6867,7 @@
 <form>Kč</form>
 <tag>
 <AM lemma="Kč" src="orig">NNFXX-----A----</AM>
-<AM lemma="Kč_:B" src="auto" recommended="1">NNFXX-----A---8</AM>
+<AM lemma="Kč_:B" src="auto" recommended="1" selected="1">NNFXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-cmpr9417-005-p16s5w9">

@@ -119,7 +119,7 @@
 <form>Mannheim</form>
 <tag>
 <AM lemma="Mannheim_;G" src="orig">NNMS1-----A----</AM>
-<AM lemma="Mannheim_;G" src="auto" recommended="1">NNIS1-----A----</AM>
+<AM lemma="Mannheim_;G" src="auto" recommended="1" selected="1">NNIS1-----A----</AM>
 <AM lemma="Mannheim_;G" src="auto">NNIS4-----A----</AM>
 </tag>
 </m>
@@ -161,7 +161,10 @@
 <LM>w#w-mf920922-064-p2s7w1</LM>
 </w.rf>
 <form>Krefeld</form>
-<tag lemma="Krefeld_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Krefeld_;S" src="orig">NNMS1-----A----</AM>
+<AM lemma="Krefeld_;G" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920922-064-p2s7w2">
 <src.rf>manual</src.rf>
@@ -213,7 +216,7 @@
 <form>Mannheim</form>
 <tag>
 <AM lemma="Mannheim_;G" src="orig">NNMS1-----A----</AM>
-<AM lemma="Mannheim_;G" src="auto" recommended="1">NNIS1-----A----</AM>
+<AM lemma="Mannheim_;G" src="auto" recommended="1" selected="1">NNIS1-----A----</AM>
 <AM lemma="Mannheim_;G" src="auto">NNIS4-----A----</AM>
 </tag>
 </m>
@@ -369,7 +372,10 @@
 <LM>w#w-mf920922-064-p3s1w5</LM>
 </w.rf>
 <form>čs</form>
-<tag lemma="československý_:B" src="orig" selected="1">AAXXX----1A---8</tag>
+<tag>
+<AM lemma="československý_:B" src="orig">AAXXX----1A---8</AM>
+<AM lemma="československý" src="manual" selected="1">AAXXX----1A---8</AM>
+</tag>
 </m>
 <m id="m-mf920922-064-p3s1w6">
 <src.rf>manual</src.rf>

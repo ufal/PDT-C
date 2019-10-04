@@ -469,7 +469,7 @@
 <form>ovšem</form>
 <tag>
 <AM lemma="ovšem-1_^(avšak,_však;_odporovací_spojka)" src="orig">J^-------------</AM>
-<AM lemma="ovšem" src="auto" recommended="1">TT-------------</AM>
+<AM lemma="ovšem" src="auto" recommended="1" selected="1">TT-------------</AM>
 </tag>
 </m>
 <m id="m-ln95043-091-p3s1w13">
@@ -736,7 +736,10 @@
 <LM>w#w-ln95043-091-p4s1w4</LM>
 </w.rf>
 <form>otevřeli</form>
-<tag lemma="otevřít" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag>
+<AM lemma="otevřít" src="orig">VpMP---XR-AA---</AM>
+<AM lemma="otevřít_:W" src="manual" selected="1">VpMP---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-ln95043-091-p4s1w5">
 <src.rf>manual</src.rf>
@@ -776,7 +779,10 @@
 <LM>w#w-ln95043-091-p4s1w9</LM>
 </w.rf>
 <form>právě</form>
-<tag lemma="právě-1" src="auto" selected="1">Db-------------</tag>
+<tag>
+<AM lemma="právě-1" src="auto">Db-------------</AM>
+<AM lemma="právě-2" src="manual" selected="1">TT-------------</AM>
+</tag>
 </m>
 <m id="m-ln95043-091-p4s1w10">
 <src.rf>manual</src.rf>
@@ -1110,7 +1116,10 @@
 <LM>w#w-ln95043-091-p4s4w3</LM>
 </w.rf>
 <form>našlo</form>
-<tag lemma="najít" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag>
+<AM lemma="najít" src="orig">VpNS---XR-AA---</AM>
+<AM lemma="najít_:W" src="manual" selected="1">VpNS---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-ln95043-091-p4s4w4">
 <src.rf>manual</src.rf>
@@ -1596,7 +1605,10 @@
 <LM>w#w-ln95043-091-p5s3w4</LM>
 </w.rf>
 <form>mají</form>
-<tag lemma="mít" src="orig" selected="1">VB-P---3P-AA---</tag>
+<tag>
+<AM lemma="mít" src="orig">VB-P---3P-AA---</AM>
+<AM lemma="mít_:T" src="manual" selected="1">VB-P---3P-AA---</AM>
+</tag>
 </m>
 <m id="m-ln95043-091-p5s3w5">
 <src.rf>manual</src.rf>
@@ -1848,7 +1860,10 @@
 <LM>w#w-ln95043-091-p6s2w2</LM>
 </w.rf>
 <form>došlo</form>
-<tag lemma="dojít" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag>
+<AM lemma="dojít" src="orig">VpNS---XR-AA---</AM>
+<AM lemma="dojít_:W" src="manual" selected="1">VpNS---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-ln95043-091-p6s2w3">
 <src.rf>manual</src.rf>
@@ -1916,7 +1931,7 @@
 <form>ovšem</form>
 <tag>
 <AM lemma="ovšem-1_^(avšak,_však;_odporovací_spojka)" src="orig">J^-------------</AM>
-<AM lemma="ovšem" src="auto" recommended="1">TT-------------</AM>
+<AM lemma="ovšem" src="auto" recommended="1" selected="1">TT-------------</AM>
 </tag>
 </m>
 <m id="m-ln95043-091-p6s3w3">
@@ -1933,7 +1948,10 @@
 <LM>w#w-ln95043-091-p6s3w4</LM>
 </w.rf>
 <form>řečeno</form>
-<tag lemma="říci" src="auto" selected="1">VsNS---XX-AP---</tag>
+<tag>
+<AM lemma="říci" src="auto">VsNS---XX-AP---</AM>
+<AM lemma="říci_:W" src="manual" selected="1">VsNS---XX-AP---</AM>
+</tag>
 </m>
 <m id="m-ln95043-091-p6s3w5">
 <src.rf>manual</src.rf>
@@ -2005,7 +2023,10 @@
 <LM>w#w-ln95043-091-p6s3w13</LM>
 </w.rf>
 <form>praly</form>
-<tag lemma="prát" src="orig" selected="1">VpTP---XR-AA---</tag>
+<tag>
+<AM lemma="prát" src="orig">VpTP---XR-AA---</AM>
+<AM lemma="prát_:T" src="manual" selected="1">VpTP---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-ln95043-091-p6s3w14">
 <src.rf>manual</src.rf>
@@ -2105,7 +2126,10 @@
 <LM>w#w-ln95043-091-p6s5w5</LM>
 </w.rf>
 <form>utrpěla</form>
-<tag lemma="utrpět" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag>
+<AM lemma="utrpět" src="orig">VpQW---XR-AA---</AM>
+<AM lemma="utrpět_:W" src="manual" selected="1">VpQW---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-ln95043-091-p6s5w6">
 <src.rf>manual</src.rf>
@@ -2323,7 +2347,10 @@
 <LM>w#w-ln95043-091-p6s6w4</LM>
 </w.rf>
 <form>nevyhnulo</form>
-<tag lemma="vyhnout" src="orig" selected="1">VpNS---XR-NA---</tag>
+<tag>
+<AM lemma="vyhnout" src="orig">VpNS---XR-NA---</AM>
+<AM lemma="vyhnout_:W" src="manual" selected="1">VpNS---XR-NA---</AM>
+</tag>
 </m>
 <m id="m-ln95043-091-p6s6w5">
 <src.rf>manual</src.rf>
@@ -2389,7 +2416,10 @@
 <LM>w#w-ln95043-091-p7s1w4</LM>
 </w.rf>
 <form>měly</form>
-<tag lemma="mít" src="orig" selected="1">VpTP---XR-AA---</tag>
+<tag>
+<AM lemma="mít" src="orig">VpTP---XR-AA---</AM>
+<AM lemma="mít_:T" src="manual" selected="1">VpTP---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-ln95043-091-p7s1w5">
 <src.rf>manual</src.rf>
@@ -2583,7 +2613,10 @@
 <LM>w#w-ln95043-091-p7s2w16</LM>
 </w.rf>
 <form>Bank</form>
-<tag lemma="Bank-1_;K_,t_^(v_cizojaz._názvech_bank)" src="orig" selected="1">NNFXX-----A----</tag>
+<tag>
+<AM lemma="Bank-1_;K_,t_^(v_cizojaz._názvech_bank)" src="orig">NNFXX-----A----</AM>
+<AM lemma="Bank-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln95043-091-p7s2w17">
 <src.rf>manual</src.rf>
@@ -2591,7 +2624,10 @@
 <LM>w#w-ln95043-091-p7s2w17</LM>
 </w.rf>
 <form>of</form>
-<tag lemma="of-1_,t_^(obv._souč._anglických_názvů,_předl._2._p.)" src="orig" selected="1">RR--X----------</tag>
+<tag>
+<AM lemma="of-1_,t_^(obv._souč._anglických_názvů,_předl._2._p.)" src="orig">RR--X----------</AM>
+<AM lemma="of-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln95043-091-p7s2w18">
 <src.rf>manual</src.rf>
@@ -2603,6 +2639,8 @@
 <AM lemma="Credit_;K_,t" src="orig">NNIXX-----A----</AM>
 <AM lemma="Credit_;K" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Credit_;K" src="auto">NNIS4-----A----</AM>
+<AM lemma="credit_,t" src="manual">NNXXX-----A----</AM>
+<AM lemma="Credit-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-ln95043-091-p7s2w19">
@@ -2611,7 +2649,10 @@
 <LM>w#w-ln95043-091-p7s2w19</LM>
 </w.rf>
 <form>and</form>
-<tag lemma="and-1_,t_^(obv._souč._anglických_názvů,_&quot;a&quot;)" src="auto" selected="1">J^-------------</tag>
+<tag>
+<AM lemma="and-1_,t_^(obv._souč._anglických_názvů,_&quot;a&quot;)" src="auto">J^-------------</AM>
+<AM lemma="and-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln95043-091-p7s2w20">
 <src.rf>manual</src.rf>
@@ -2619,7 +2660,11 @@
 <LM>w#w-ln95043-091-p7s2w20</LM>
 </w.rf>
 <form>Commerce</form>
-<tag lemma="Commerce_;K_,t" src="orig" selected="1">NNFXX-----A----</tag>
+<tag>
+<AM lemma="Commerce_;K_,t" src="orig">NNFXX-----A----</AM>
+<AM lemma="commerce_,t" src="manual">NNXXX-----A----</AM>
+<AM lemma="Commerce-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln95043-091-p7s2w21">
 <src.rf>manual</src.rf>
@@ -2631,6 +2676,7 @@
 <AM lemma="International-2_;K_,t" src="orig">NNXXX-----A---1</AM>
 <AM lemma="International_,t" src="auto">NNISX-----A----</AM>
 <AM lemma="international_,t" src="auto" recommended="1">AAXXX----1A----</AM>
+<AM lemma="International-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-ln95043-091-p7s2w22">
@@ -2647,7 +2693,11 @@
 <LM>w#w-ln95043-091-p7s2w23</LM>
 </w.rf>
 <form>BCCI</form>
-<tag lemma="BCCI_:B_,t_^(Bank_of_Credit_and_Commerce_International)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="BCCI_:B_,t_^(Bank_of_Credit_and_Commerce_International)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="BCCI_:B" src="manual">NNFXX-----A---8</AM>
+<AM lemma="BCCI-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95043-091-p7s2w24">
 <src.rf>manual</src.rf>

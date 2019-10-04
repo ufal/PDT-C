@@ -72,7 +72,7 @@
 </w.rf>
 <form>gap</form>
 <tag>
-<AM lemma="gap-99_:B_;S" src="orig">NNXXX-----A---8</AM>
+<AM lemma="gap-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</AM>
 <AM lemma="gap" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="gap" src="auto">NNIS4-----A----</AM>
 </tag>
@@ -431,7 +431,10 @@
 <LM>w#w-lnd92251-042-p3s3w17</LM>
 </w.rf>
 <form>VSŽ</form>
-<tag lemma="VSŽ_:B_;K" src="orig" selected="1">NNFPX-----A---8</tag>
+<tag>
+<AM lemma="VSŽ_:B_;K" src="orig">NNFPX-----A---8</AM>
+<AM lemma="VSŽ-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd92251-042-p3s3w18">
 <src.rf>manual</src.rf>
@@ -455,7 +458,10 @@
 <LM>w#w-lnd92251-042-p3s3w20</LM>
 </w.rf>
 <form>ZŤS</form>
-<tag lemma="ZŤS-1_:B_;K_,t_^(Závody_ťažkého_strojárstva)" src="orig" selected="1">NNIPX-----A---8</tag>
+<tag>
+<AM lemma="ZŤS-1_:B_;K_,t_^(Závody_ťažkého_strojárstva)" src="orig">NNIPX-----A---8</AM>
+<AM lemma="ZŤS-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd92251-042-p3s3w21">
 <src.rf>manual</src.rf>

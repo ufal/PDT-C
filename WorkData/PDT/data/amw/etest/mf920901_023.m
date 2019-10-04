@@ -215,7 +215,7 @@
 <form>Stráského</form>
 <tag>
 <AM lemma="Stráský_;S" src="orig">AAIS2----1A----</AM>
-<AM lemma="Stráský_;S" src="auto" recommended="1">NNMS2-----A----</AM>
+<AM lemma="Stráský_;S" src="auto" recommended="1" selected="1">NNMS2-----A----</AM>
 <AM lemma="Stráský_;S" src="auto">NNMS4-----A----</AM>
 </tag>
 </m>
@@ -1001,7 +1001,10 @@
 <LM>w#w-mf920901-023-p3s3w5</LM>
 </w.rf>
 <form>ODS</form>
-<tag lemma="ODS-1_:B_;K_;p_^(Občanská_demokratická_strana)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ODS-1_:B_;K_;p_^(Občanská_demokratická_strana)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ODS-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-mf920901-023-p3s3w6">
 <src.rf>manual</src.rf>
@@ -1017,7 +1020,10 @@
 <LM>w#w-mf920901-023-p3s3w7</LM>
 </w.rf>
 <form>HZDS</form>
-<tag lemma="HZDS-1_:B_;K_;p_,t_^(Hnutie_za_demokratické_Slovensko)" src="orig" selected="1">NNNXX-----A---8</tag>
+<tag>
+<AM lemma="HZDS-1_:B_;K_;p_,t_^(Hnutie_za_demokratické_Slovensko)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="HZDS-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-mf920901-023-p3s3w8">
 <src.rf>manual</src.rf>
@@ -1329,7 +1335,10 @@
 <LM>w#w-mf920901-023-p3s3w47</LM>
 </w.rf>
 <form>sice</form>
-<tag lemma="sice-2" src="auto" selected="1">Db-------------</tag>
+<tag>
+<AM lemma="sice-2" src="auto">Db-------------</AM>
+<AM lemma="sice-1_^(spojka;_připouští_se_určitá_fakta)" src="manual" selected="1">J^-------------</AM>
+</tag>
 </m>
 <m id="m-mf920901-023-p3s3w48">
 <src.rf>manual</src.rf>
@@ -1701,7 +1710,10 @@
 <LM>w#w-mf920901-023-p4s2w14</LM>
 </w.rf>
 <form>M</form>
-<tag lemma="m-3_^(označení_pomocí_písmene)" src="orig" selected="1">NNNXX-----A----</tag>
+<tag>
+<AM lemma="m-3_^(označení_pomocí_písmene)" src="orig">NNNXX-----A----</AM>
+<AM lemma="M-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-mf920901-023-p4s2w15">
 <src.rf>manual</src.rf>
@@ -1826,7 +1838,7 @@
 <tag>
 <AM lemma="starost" src="orig">NNFS4-----A----</AM>
 <AM lemma="starost-1" src="auto">NNFS1-----A----</AM>
-<AM lemma="starost-1" src="auto" recommended="1">NNFS4-----A----</AM>
+<AM lemma="starost-1" src="auto" recommended="1" selected="1">NNFS4-----A----</AM>
 <AM lemma="starost-2_^(člověk,_věc)_(*5ý-2)" src="auto">NNFS1-----A----</AM>
 <AM lemma="starost-2_^(člověk,_věc)_(*5ý-2)" src="auto">NNFS4-----A----</AM>
 </tag>
@@ -2289,7 +2301,7 @@
 <form>nesmiřitelnému</form>
 <tag>
 <AM lemma="nesmiřitelný" src="orig">AAIS3----1A----</AM>
-<AM lemma="smiřitelný_^(*8ířit)" src="auto" recommended="1">AAIS3----1N----</AM>
+<AM lemma="smiřitelný_^(*8ířit)" src="auto" recommended="1" selected="1">AAIS3----1N----</AM>
 <AM lemma="smiřitelný_^(*8ířit)" src="auto">AAMS3----1N----</AM>
 <AM lemma="smiřitelný_^(*8ířit)" src="auto">AANS3----1N----</AM>
 </tag>
@@ -2350,7 +2362,10 @@
 <LM>w#w-mf920901-023-p5s2w3</LM>
 </w.rf>
 <form>ODS</form>
-<tag lemma="ODS-1_:B_;K_;p_^(Občanská_demokratická_strana)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ODS-1_:B_;K_;p_^(Občanská_demokratická_strana)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ODS-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-mf920901-023-p5s2w4">
 <src.rf>manual</src.rf>
@@ -2366,7 +2381,10 @@
 <LM>w#w-mf920901-023-p5s2w5</LM>
 </w.rf>
 <form>HZDS</form>
-<tag lemma="HZDS-1_:B_;K_;p_,t_^(Hnutie_za_demokratické_Slovensko)" src="orig" selected="1">NNNXX-----A---8</tag>
+<tag>
+<AM lemma="HZDS-1_:B_;K_;p_,t_^(Hnutie_za_demokratické_Slovensko)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="HZDS-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-mf920901-023-p5s2w6">
 <src.rf>manual</src.rf>
@@ -2852,7 +2870,7 @@
 <form>koneckonců</form>
 <tag>
 <AM lemma="koneckonců" src="orig">Db-------------</AM>
-<AM lemma="koneckonců" src="auto" recommended="1">TT-------------</AM>
+<AM lemma="koneckonců" src="auto" recommended="1" selected="1">TT-------------</AM>
 </tag>
 </m>
 <m id="m-mf920901-023-p5s4w23">

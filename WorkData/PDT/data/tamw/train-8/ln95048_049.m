@@ -399,7 +399,10 @@
 <LM>w#w-ln95048-049-p1s3w29</LM>
 </w.rf>
 <form>Arbese</form>
-<tag lemma="Arbes_;S" src="auto" selected="1">NNMS5-----A----</tag>
+<tag>
+<AM lemma="Arbes_;S" src="auto">NNMS5-----A----</AM>
+<AM lemma="Arbes_;S" src="manual" selected="1">NNMS2-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95048-049-p1s3w30">
 <src.rf>manual</src.rf>

@@ -51,7 +51,10 @@
 <LM>w#w-lnd92253-048-p1s1w5</LM>
 </w.rf>
 <form>George</form>
-<tag lemma="George_;Y_,t" src="orig" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="George_;Y_,t" src="orig">NNMS1-----A----</AM>
+<AM lemma="George_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92253-048-p1s1w6">
 <src.rf>manual</src.rf>
@@ -892,7 +895,10 @@
 <LM>w#w-lnd92253-048-p2s2w21</LM>
 </w.rf>
 <form>řekl</form>
-<tag lemma="říci" src="auto" selected="1">VpYS---XR-AA---</tag>
+<tag>
+<AM lemma="říci" src="auto">VpYS---XR-AA---</AM>
+<AM lemma="říci_:W" src="manual" selected="1">VpYS---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-lnd92253-048-p2s2w22">
 <src.rf>manual</src.rf>
@@ -900,7 +906,10 @@
 <LM>w#w-lnd92253-048-p2s2w22</LM>
 </w.rf>
 <form>George</form>
-<tag lemma="George_;Y_,t" src="orig" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="George_;Y_,t" src="orig">NNMS1-----A----</AM>
+<AM lemma="George_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92253-048-p2s2w23">
 <src.rf>manual</src.rf>
@@ -1104,7 +1113,10 @@
 <LM>w#w-lnd92253-048-p3s2w21</LM>
 </w.rf>
 <form>Greenpeace</form>
-<tag lemma="greenpeace_;K_,t_^(ekologické_hnutí)" src="orig" selected="1">NNNXX-----A----</tag>
+<tag>
+<AM lemma="greenpeace_;K_,t_^(ekologické_hnutí)" src="orig">NNNXX-----A----</AM>
+<AM lemma="greenpeace_;K_^(ekologické_hnutí)" src="manual" selected="1">NNNXX-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92253-048-p3s2w22">
 <src.rf>manual</src.rf>
@@ -1308,7 +1320,10 @@
 <LM>w#w-lnd92253-048-p4s1w4</LM>
 </w.rf>
 <form>ČSFR</form>
-<tag lemma="ČSFR-1_:B_;G_^(Čs._federativní_republika)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ČSFR-1_:B_;G_^(Čs._federativní_republika)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČSFR-1_:B_;G_^(Čs._federativní_republika)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92253-048-p4s1w5">
 <src.rf>manual</src.rf>
@@ -1470,7 +1485,10 @@
 <LM>w#w-lnd92253-048-p4s2w4</LM>
 </w.rf>
 <form>Greenpeace</form>
-<tag lemma="greenpeace_;K_,t_^(ekologické_hnutí)" src="orig" selected="1">NNNXX-----A----</tag>
+<tag>
+<AM lemma="greenpeace_;K_,t_^(ekologické_hnutí)" src="orig">NNNXX-----A----</AM>
+<AM lemma="greenpeace_;K_^(ekologické_hnutí)" src="manual" selected="1">NNNXX-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92253-048-p4s2w5">
 <src.rf>manual</src.rf>
@@ -1592,7 +1610,10 @@
 <LM>w#w-lnd92253-048-p4s3w5</LM>
 </w.rf>
 <form>ČSFR</form>
-<tag lemma="ČSFR-1_:B_;G_^(Čs._federativní_republika)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ČSFR-1_:B_;G_^(Čs._federativní_republika)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČSFR-1_:B_;G_^(Čs._federativní_republika)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92253-048-p4s3w6">
 <src.rf>manual</src.rf>
@@ -1704,7 +1725,10 @@
 <LM>w#w-lnd92253-048-p4s3w19</LM>
 </w.rf>
 <form>SSSR</form>
-<tag lemma="SSSR_:B_;G_^(Svaz_sov._socialist._republik)" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="SSSR_:B_;G_^(Svaz_sov._socialist._republik)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="SSSR_:B_;G_^(Svaz_sov._socialist._republik)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92253-048-p4s3w20">
 <src.rf>manual</src.rf>

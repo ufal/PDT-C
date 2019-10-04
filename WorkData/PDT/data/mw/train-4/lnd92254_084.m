@@ -211,6 +211,7 @@
 <AM lemma="EV_:B_;K_,t" src="orig">NNXXX-----A---8</AM>
 <AM lemma="EV_:B_^(endovaskulární_výkon;_Electric_Vehicle)" src="auto" recommended="1">NNIXX-----A---8</AM>
 <AM lemma="Eva_;Y" src="auto">NNFP2-----A----</AM>
+<AM lemma="EV-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-lnd92254-084-p2s2w21">
@@ -235,7 +236,10 @@
 <LM>w#w-lnd92254-084-p2s2w23</LM>
 </w.rf>
 <form>ERC</form>
-<tag lemma="ERC_:B_;K_,t" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="ERC_:B_;K_,t" src="orig">NNXXX-----A---8</AM>
+<AM lemma="ERC-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd92254-084-p2s2w24">
 <src.rf>manual</src.rf>
@@ -319,6 +323,7 @@
 <AM lemma="EC-6_:B_;K_,t_^(European_Communities)" src="auto">NNNPX-----A----</AM>
 <AM lemma="EuroCity_:B_,t_^(železniční_systém)" src="auto">NNNXX-----A---8</AM>
 <AM lemma="elektrocentrála_:B" src="auto">NNFXX-----A---8</AM>
+<AM lemma="EC-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-lnd92254-084-p2s3w5">
@@ -346,6 +351,8 @@
 <tag>
 <AM lemma="Mannheimer_;K" src="orig">AAXXX----1A----</AM>
 <AM lemma="Mannheimer_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Mannheimer-2_;K" src="manual">NNXXX-----A----</AM>
+<AM lemma="Mannheimer-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-lnd92254-084-p2s3w8">
@@ -354,7 +361,10 @@
 <LM>w#w-lnd92254-084-p2s3w8</LM>
 </w.rf>
 <form>ERC</form>
-<tag lemma="ERC_:B_;K_,t" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="ERC_:B_;K_,t" src="orig">NNXXX-----A---8</AM>
+<AM lemma="ERC-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd92254-084-p2s3w9">
 <src.rf>manual</src.rf>
@@ -394,7 +404,10 @@
 <LM>w#w-lnd92254-084-p2s3w13</LM>
 </w.rf>
 <form>EHC</form>
-<tag lemma="EHC_:B_;K_,t" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="EHC_:B_;K_,t" src="orig">NNXXX-----A---8</AM>
+<AM lemma="EHC-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd92254-084-p2s3w14">
 <src.rf>manual</src.rf>
@@ -418,7 +431,10 @@
 <LM>w#w-lnd92254-084-p2s3w16</LM>
 </w.rf>
 <form>EHC</form>
-<tag lemma="EHC_:B_;K_,t" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="EHC_:B_;K_,t" src="orig">NNXXX-----A---8</AM>
+<AM lemma="EHC-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd92254-084-p2s3w17">
 <src.rf>manual</src.rf>
@@ -430,6 +446,8 @@
 <AM lemma="Eisbären_;K" src="orig">NNMPX-----A----</AM>
 <AM lemma="Eisbären_;K_,t" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Eisbären_;K_,t" src="auto">NNIS4-----A----</AM>
+<AM lemma="Eisbären_;K" src="manual">NNIXX-----A----</AM>
+<AM lemma="Eisbären-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-lnd92254-084-p2s3w18">
@@ -526,7 +544,10 @@
 <LM>w#w-lnd92254-084-p2s3w29</LM>
 </w.rf>
 <form>Berliner</form>
-<tag lemma="Berliner_;K" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="Berliner_;K" src="orig">AAXXX----1A----</AM>
+<AM lemma="Berliner-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-lnd92254-084-p2s3w30">
 <src.rf>manual</src.rf>
@@ -534,7 +555,10 @@
 <LM>w#w-lnd92254-084-p2s3w30</LM>
 </w.rf>
 <form>SC</form>
-<tag lemma="SC-1_:B_;K_;w_,t_^(Sport_Club)" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="SC-1_:B_;K_;w_,t_^(Sport_Club)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="SC-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd92254-084-p2s3w31">
 <src.rf>manual</src.rf>
@@ -542,7 +566,10 @@
 <LM>w#w-lnd92254-084-p2s3w31</LM>
 </w.rf>
 <form>Preussen</form>
-<tag lemma="Preussen_;K" src="orig" selected="1">NNNXX-----A----</tag>
+<tag>
+<AM lemma="Preussen_;K" src="orig">NNNXX-----A----</AM>
+<AM lemma="Preussen-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-lnd92254-084-p2s3w32">
 <src.rf>manual</src.rf>
@@ -562,6 +589,7 @@
 <AM lemma="EH_:B_;K_,t" src="orig">NNXXX-----A---8</AM>
 <AM lemma="EH_:B_;K_^(pojišťovna_Eurel_Hermes)" src="auto" recommended="1">NNISX-----A---8</AM>
 <AM lemma="eh" src="auto">II-------------</AM>
+<AM lemma="EH-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-lnd92254-084-p2s3w34">
@@ -570,7 +598,10 @@
 <LM>w#w-lnd92254-084-p2s3w34</LM>
 </w.rf>
 <form>Hedos</form>
-<tag lemma="Hedos_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Hedos_;S" src="orig">NNMS1-----A----</AM>
+<AM lemma="Hedos-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-lnd92254-084-p2s3w35">
 <src.rf>manual</src.rf>
@@ -621,6 +652,7 @@
 <tag>
 <AM lemma="ESV-2_:B_;K_,t" src="orig">NNXXX-----A---8</AM>
 <AM lemma="ESV-1_:B_,t_^(Earth_satellite_vehicle)" src="auto" recommended="1">NNIXX-----A---8</AM>
+<AM lemma="ESV-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-lnd92254-084-p2s3w41">
@@ -645,7 +677,10 @@
 <LM>w#w-lnd92254-084-p2s3w43</LM>
 </w.rf>
 <form>Düsseldorfer</form>
-<tag lemma="Düsseldorfer_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Düsseldorfer_;S" src="orig">NNMS1-----A----</AM>
+<AM lemma="Düsseldorfer-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-lnd92254-084-p2s3w44">
 <src.rf>manual</src.rf>
@@ -656,6 +691,7 @@
 <tag>
 <AM lemma="EG_:B_;K_,t" src="orig">NNXXX-----A---8</AM>
 <AM lemma="ego" src="auto" recommended="1">NNNP2-----A----</AM>
+<AM lemma="EG-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-lnd92254-084-p2s3w45">
@@ -696,7 +732,10 @@
 <LM>w#w-lnd92254-084-p2s3w49</LM>
 </w.rf>
 <form>Krefelder</form>
-<tag lemma="Krefelder_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Krefelder_;S" src="orig">NNMS1-----A----</AM>
+<AM lemma="Krefelder-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-lnd92254-084-p2s3w50">
 <src.rf>manual</src.rf>
@@ -708,6 +747,7 @@
 <AM lemma="EV_:B_;K_,t" src="orig">NNXXX-----A---8</AM>
 <AM lemma="EV_:B_^(endovaskulární_výkon;_Electric_Vehicle)" src="auto" recommended="1">NNIXX-----A---8</AM>
 <AM lemma="Eva_;Y" src="auto">NNFP2-----A----</AM>
+<AM lemma="EV-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-lnd92254-084-p2s3w51">
@@ -724,7 +764,10 @@
 <LM>w#w-lnd92254-084-p2s3w52</LM>
 </w.rf>
 <form>Kölner</form>
-<tag lemma="Kölner_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Kölner_;S" src="orig">NNMS1-----A----</AM>
+<AM lemma="Kölner-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-lnd92254-084-p2s3w53">
 <src.rf>manual</src.rf>
@@ -742,6 +785,7 @@
 <AM lemma="EC-6_:B_;K_,t_^(European_Communities)" src="auto">NNNPX-----A----</AM>
 <AM lemma="EuroCity_:B_,t_^(železniční_systém)" src="auto">NNNXX-----A---8</AM>
 <AM lemma="elektrocentrála_:B" src="auto">NNFXX-----A---8</AM>
+<AM lemma="EC-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-lnd92254-084-p2s3w54">
@@ -832,7 +876,10 @@
 <LM>w#w-lnd92254-084-p2s4w1</LM>
 </w.rf>
 <form>Düsseldorfer</form>
-<tag lemma="Düsseldorfer_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Düsseldorfer_;S" src="orig">NNMS1-----A----</AM>
+<AM lemma="Düsseldorfer-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-lnd92254-084-p2s4w2">
 <src.rf>manual</src.rf>
@@ -843,6 +890,7 @@
 <tag>
 <AM lemma="EG_:B_;K_,t" src="orig">NNXXX-----A---8</AM>
 <AM lemma="ego" src="auto" recommended="1">NNNP2-----A----</AM>
+<AM lemma="EG-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-lnd92254-084-p2s4w3">
@@ -885,7 +933,10 @@
 <LM>w#w-lnd92254-084-p2s5w1</LM>
 </w.rf>
 <form>Hedos</form>
-<tag lemma="Hedos_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Hedos_;S" src="orig">NNMS1-----A----</AM>
+<AM lemma="Hedos-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-lnd92254-084-p2s5w2">
 <src.rf>manual</src.rf>
@@ -935,7 +986,10 @@
 <LM>w#w-lnd92254-084-p2s6w1</LM>
 </w.rf>
 <form>Kölner</form>
-<tag lemma="Kölner_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Kölner_;S" src="orig">NNMS1-----A----</AM>
+<AM lemma="Kölner-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-lnd92254-084-p2s6w2">
 <src.rf>manual</src.rf>
@@ -953,6 +1007,7 @@
 <AM lemma="EC-6_:B_;K_,t_^(European_Communities)" src="auto">NNNPX-----A----</AM>
 <AM lemma="EuroCity_:B_,t_^(železniční_systém)" src="auto">NNNXX-----A---8</AM>
 <AM lemma="elektrocentrála_:B" src="auto">NNFXX-----A---8</AM>
+<AM lemma="EC-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-lnd92254-084-p2s6w3">

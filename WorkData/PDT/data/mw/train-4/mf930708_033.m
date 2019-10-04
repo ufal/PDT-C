@@ -110,7 +110,7 @@
 </w.rf>
 <form>han</form>
 <tag>
-<AM lemma="han-99_:B_;S" src="orig">NNXXX-----A---8</AM>
+<AM lemma="han-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</AM>
 <AM lemma="hana_^(pohana)" src="auto" recommended="1">NNFP2-----A----</AM>
 </tag>
 </m>
@@ -372,7 +372,10 @@
 <LM>w#w-mf930708-033-p2s2w6</LM>
 </w.rf>
 <form>von</form>
-<tag lemma="von-2_,t" src="orig" selected="1">RR--X----------</tag>
+<tag>
+<AM lemma="von-2_,t" src="orig">RR--X----------</AM>
+<AM lemma="von-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-mf930708-033-p2s2w7">
 <src.rf>manual</src.rf>
@@ -901,7 +904,10 @@
 <LM>w#w-mf930708-033-p3s1w1</LM>
 </w.rf>
 <form>Více</form>
-<tag lemma="hodně-2" src="auto" selected="1">Dg-------2A----</tag>
+<tag>
+<AM lemma="hodně-2" src="auto">Dg-------2A----</AM>
+<AM lemma="hodně-3" src="manual" selected="1">Dg-------2A----</AM>
+</tag>
 </m>
 <m id="m-mf930708-033-p3s1w2">
 <src.rf>manual</src.rf>
@@ -1405,7 +1411,10 @@
 <LM>w#w-mf930708-033-p3s5w8</LM>
 </w.rf>
 <form>ZPA</form>
-<tag lemma="ZPA_:B_;K" src="auto" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="ZPA_:B_;K" src="auto">NNXXX-----A---8</AM>
+<AM lemma="ZPA-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-mf930708-033-p3s5w9">
 <src.rf>manual</src.rf>

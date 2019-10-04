@@ -87,7 +87,10 @@
 <LM>w#w-lnd91301-094-p3s1w5</LM>
 </w.rf>
 <form>NHL</form>
-<tag lemma="NHL-1_:B_;K_;w_^(Nár._hokejová_liga)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="NHL-1_:B_;K_;w_^(Nár._hokejová_liga)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="NHL-1_:B_;K_^(Nár._hokejová_liga)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd91301-094-p3s1w6">
 <src.rf>manual</src.rf>
@@ -111,7 +114,10 @@
 <LM>w#w-lnd91301-094-p3s1w8</LM>
 </w.rf>
 <form>Toronto</form>
-<tag lemma="Toronto_;G" src="orig" selected="1">NNNS1-----A----</tag>
+<tag>
+<AM lemma="Toronto_;G" src="orig">NNNS1-----A----</AM>
+<AM lemma="Toronto-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-lnd91301-094-p3s1w9">
 <src.rf>manual</src.rf>
@@ -119,7 +125,10 @@
 <LM>w#w-lnd91301-094-p3s1w9</LM>
 </w.rf>
 <form>Maple</form>
-<tag lemma="Maple_;K_,t" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="Maple_;K_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="Maple-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-lnd91301-094-p3s1w10">
 <src.rf>manual</src.rf>
@@ -127,7 +136,10 @@
 <LM>w#w-lnd91301-094-p3s1w10</LM>
 </w.rf>
 <form>Leafs</form>
-<tag lemma="Leaf_;K_,t" src="orig" selected="1">NNIPX-----A----</tag>
+<tag>
+<AM lemma="Leaf_;K_,t" src="orig">NNIPX-----A----</AM>
+<AM lemma="Leafs-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-lnd91301-094-p3s1w11">
 <src.rf>manual</src.rf>
@@ -215,7 +227,10 @@
 <LM>w#w-lnd91301-094-p3s1w21</LM>
 </w.rf>
 <form>AIK</form>
-<tag lemma="AIK_:B_;K_;w" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="AIK_:B_;K_;w" src="orig">NNIXX-----A---8</AM>
+<AM lemma="AIK-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd91301-094-p3s1w22">
 <src.rf>manual</src.rf>
@@ -449,7 +464,10 @@
 <LM>w#w-lnd91301-094-p3s2w16</LM>
 </w.rf>
 <form>E</form>
-<tag lemma="E-0_:B_;Y" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="E-0_:B_;Y" src="orig">NNFXX-----A---8</AM>
+<AM lemma="E-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd91301-094-p3s2w17">
 <src.rf>manual</src.rf>

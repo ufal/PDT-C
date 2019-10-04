@@ -165,7 +165,10 @@
 <LM>w#w-mf930703-023-p2s1w12</LM>
 </w.rf>
 <form>vedou</form>
-<tag lemma="vést" src="auto" selected="1">VB-P---3P-AA---</tag>
+<tag>
+<AM lemma="vést" src="auto">VB-P---3P-AA---</AM>
+<AM lemma="vést_:T" src="manual" selected="1">VB-P---3P-AA---</AM>
+</tag>
 </m>
 <m id="m-mf930703-023-p2s1w13">
 <src.rf>manual</src.rf>
@@ -593,7 +596,10 @@
 <LM>w#w-mf930703-023-p2s3w18</LM>
 </w.rf>
 <form>Hlavatý</form>
-<tag lemma="hlavatý" src="orig" selected="1">AAMS1----1A----</tag>
+<tag>
+<AM lemma="hlavatý" src="orig">AAMS1----1A----</AM>
+<AM lemma="Hlavatý_;S" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930703-023-p2s3w19">
 <src.rf>manual</src.rf>
@@ -679,7 +685,7 @@
 <form>totiž</form>
 <tag>
 <AM lemma="totiž" src="orig">Db-------------</AM>
-<AM lemma="totiž-1" src="auto">J^-------------</AM>
+<AM lemma="totiž-1" src="auto" selected="1">J^-------------</AM>
 <AM lemma="totiž-2" src="auto" recommended="1">TT-------------</AM>
 </tag>
 </m>
@@ -904,7 +910,7 @@
 <form>Ačkoliv</form>
 <tag>
 <AM lemma="ačkoliv" src="orig">J,-------------</AM>
-<AM lemma="ačkoli" src="auto" recommended="1">J,------------1</AM>
+<AM lemma="ačkoli" src="auto" recommended="1" selected="1">J,------------1</AM>
 </tag>
 </m>
 <m id="m-mf930703-023-p2s7w2">
@@ -1125,7 +1131,10 @@
 <LM>w#w-mf930703-023-p2s9w12</LM>
 </w.rf>
 <form>milionů</form>
-<tag lemma="milión`1000000" src="orig" selected="1">NNIP2-----A----</tag>
+<tag>
+<AM lemma="milión`1000000" src="orig">NNIP2-----A----</AM>
+<AM lemma="milion`1000000_,s_^(^DD**milión)" src="manual" selected="1">NNIP2-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930703-023-p2s9w13">
 <src.rf>manual</src.rf>
@@ -2400,7 +2409,7 @@
 <form>Křtinského</form>
 <tag>
 <AM lemma="Křtinský_;G" src="orig">AAIS2----1A----</AM>
-<AM lemma="křtinský" src="auto" recommended="1">AAIS2----1A----</AM>
+<AM lemma="křtinský" src="auto" recommended="1" selected="1">AAIS2----1A----</AM>
 <AM lemma="křtinský" src="auto">AAMS2----1A----</AM>
 <AM lemma="křtinský" src="auto">AAMS4----1A----</AM>
 <AM lemma="křtinský" src="auto">AANS2----1A----</AM>
@@ -2598,7 +2607,10 @@
 <LM>w#w-mf930703-023-p4s3w15</LM>
 </w.rf>
 <form>JmVaK</form>
-<tag lemma="JmVaK_:B_;K" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="JmVaK_:B_;K" src="orig">NNIXX-----A---8</AM>
+<AM lemma="JmVaK-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-mf930703-023-p4s3w16">
 <src.rf>manual</src.rf>
@@ -2750,7 +2762,10 @@
 <LM>w#w-mf930703-023-p4s3w34</LM>
 </w.rf>
 <form>JmVaK</form>
-<tag lemma="JmVaK_:B_;K" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="JmVaK_:B_;K" src="orig">NNIXX-----A---8</AM>
+<AM lemma="JmVaK-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-mf930703-023-p4s3w35">
 <src.rf>manual</src.rf>

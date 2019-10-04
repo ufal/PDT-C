@@ -111,7 +111,10 @@
 <LM>w#w-ln94202-118-p2s1Bw8</LM>
 </w.rf>
 <form>Filipe</form>
-<tag lemma="Filipe_;Y_,t" src="auto" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Filipe_;Y_,t" src="auto">NNMS1-----A----</AM>
+<AM lemma="Filipe_;Y_;S" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94202-118-p2s1Bw9">
 <src.rf>manual</src.rf>
@@ -270,6 +273,7 @@
 <AM lemma="Gandara_;S" src="auto">NNMP4-----A----</AM>
 <AM lemma="Gandara_;S" src="auto">NNMP7-----A----</AM>
 <AM lemma="Gandara_;S" src="auto" recommended="1">NNMS2-----A----</AM>
+<AM lemma="Gandara-2_;G" src="manual" selected="1">NNFS2-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94202-118-p2s2w12">

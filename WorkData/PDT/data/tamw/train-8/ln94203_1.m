@@ -117,7 +117,10 @@
 <LM>w#w-ln94203-1-p2s1Aw9</LM>
 </w.rf>
 <form>KRESBA</form>
-<tag lemma="kresba" src="orig" selected="1">NNFS1-----A----</tag>
+<tag>
+<AM lemma="kresba" src="orig">NNFS1-----A----</AM>
+<AM lemma="KRESBA-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 </s>
 <s id="m-ln94203-1-p2s1B">
@@ -1678,7 +1681,7 @@
 <tag>
 <AM lemma="totiž" src="orig">Db-------------</AM>
 <AM lemma="totiž-1" src="auto" recommended="1">J^-------------</AM>
-<AM lemma="totiž-2" src="auto">TT-------------</AM>
+<AM lemma="totiž-2" src="auto" selected="1">TT-------------</AM>
 </tag>
 </m>
 <m id="m-ln94203-1-p4s3w4">
@@ -2247,7 +2250,10 @@
 <LM>w#w-ln94203-1-p5s3w16</LM>
 </w.rf>
 <form>Mir</form>
-<tag lemma="Mir-1_;R_,t_^(ruská_kosmická_stanice)" src="orig" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="Mir-1_;R_,t_^(ruská_kosmická_stanice)" src="orig">NNIS1-----A----</AM>
+<AM lemma="mír_^(opak_války)" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94203-1-p5s3w17">
 <src.rf>manual</src.rf>
@@ -2512,6 +2518,7 @@
 <AM lemma="mimo-1_:B" src="auto">RR--4---------8</AM>
 <AM lemma="minuta_:B" src="auto">NNFXX-----A---8</AM>
 <AM lemma="město_:B" src="auto">NNNXX-----A---8</AM>
+<AM lemma="metr" src="manual" selected="1">NNIXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94203-1-p5s4w19">
@@ -2821,7 +2828,7 @@
 </w.rf>
 <form>Bellona</form>
 <tag>
-<AM lemma="Bellona_;K" src="orig">NNFS1-----A----</AM>
+<AM lemma="Bellona_;K" src="orig" selected="1">NNFS1-----A----</AM>
 <AM lemma="Bellon_;S" src="auto" recommended="1">NNMS2-----A----</AM>
 <AM lemma="Bellon_;S" src="auto">NNMS4-----A----</AM>
 </tag>
@@ -4023,7 +4030,10 @@
 <LM>w#w-ln94203-1-p8s2w12</LM>
 </w.rf>
 <form>Novaja</form>
-<tag lemma="Novaja_;G_,t" src="orig" selected="1">AAFS1----1A----</tag>
+<tag>
+<AM lemma="Novaja_;G_,t" src="orig">AAFS1----1A----</AM>
+<AM lemma="Novaja_77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94203-1-p8s2w13">
 <src.rf>manual</src.rf>
@@ -4031,7 +4041,10 @@
 <LM>w#w-ln94203-1-p8s2w13</LM>
 </w.rf>
 <form>Zemlja</form>
-<tag lemma="Zemlja_;G_,t" src="orig" selected="1">NNFS1-----A----</tag>
+<tag>
+<AM lemma="Zemlja_;G_,t" src="orig">NNFS1-----A----</AM>
+<AM lemma="Zemlja_77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94203-1-p8s2w14">
 <src.rf>manual</src.rf>
@@ -4196,7 +4209,7 @@
 <tag>
 <AM lemma="tedy" src="orig">Db-------------</AM>
 <AM lemma="tedy-1" src="auto">TT-------------</AM>
-<AM lemma="tedy-2" src="auto" recommended="1">J^-------------</AM>
+<AM lemma="tedy-2" src="auto" recommended="1" selected="1">J^-------------</AM>
 </tag>
 </m>
 <m id="m-ln94203-1-p9s1w4">
@@ -4205,7 +4218,11 @@
 <LM>w#w-ln94203-1-p9s1w4</LM>
 </w.rf>
 <form>causa</form>
-<tag lemma="kauza_,x" src="orig" selected="1">NNFS1-----A----</tag>
+<tag>
+<AM lemma="kauza_,x" src="orig">NNFS1-----A----</AM>
+<AM lemma="kauza" src="manual">NNFS1-----A----</AM>
+<AM lemma="causa_,s_^(^DD**kauza)" src="manual" selected="1">NNFS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94203-1-p9s1w5">
 <src.rf>manual</src.rf>
@@ -4303,7 +4320,10 @@
 <LM>w#w-ln94203-1-p10s1w2</LM>
 </w.rf>
 <form>bo</form>
-<tag lemma="bo-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="bo-99_:B_;S" src="orig">NNXXX-----A---8</AM>
+<AM lemma="bo-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln94203-1-p10s1w3">
 <src.rf>manual</src.rf>

@@ -297,7 +297,10 @@
 <LM>w#w-vesm9303-034-p2s3w1</LM>
 </w.rf>
 <form>Např</form>
-<tag lemma="například_:B" src="orig" selected="1">Db------------8</tag>
+<tag>
+<AM lemma="například_:B" src="orig">Db------------8</AM>
+<AM lemma="například" src="manual" selected="1">Db------------8</AM>
+</tag>
 </m>
 <m id="m-vesm9303-034-p2s3w2">
 <src.rf>manual</src.rf>
@@ -691,7 +694,10 @@
 <LM>w#w-vesm9303-034-p2s4w29</LM>
 </w.rf>
 <form>mají</form>
-<tag lemma="mít" src="orig" selected="1">VB-P---3P-AA---</tag>
+<tag>
+<AM lemma="mít" src="orig">VB-P---3P-AA---</AM>
+<AM lemma="mít_:T" src="manual" selected="1">VB-P---3P-AA---</AM>
+</tag>
 </m>
 <m id="m-vesm9303-034-p2s4w30">
 <src.rf>manual</src.rf>
@@ -1177,7 +1183,10 @@
 <LM>w#w-vesm9303-034-p3s3w14</LM>
 </w.rf>
 <form>MeV</form>
-<tag lemma="MeV_:B_^(megaelektronvolt)" src="auto" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="MeV_:B_^(megaelektronvolt)" src="auto">NNIXX-----A---8</AM>
+<AM lemma="megaelektronvolt" src="manual" selected="1">NNIXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-vesm9303-034-p3s3w15">
 <src.rf>manual</src.rf>
@@ -1209,7 +1218,10 @@
 <LM>w#w-vesm9303-034-p3s3w18</LM>
 </w.rf>
 <form>MeV</form>
-<tag lemma="MeV_:B_^(megaelektronvolt)" src="auto" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="MeV_:B_^(megaelektronvolt)" src="auto">NNIXX-----A---8</AM>
+<AM lemma="megaelektronvolt" src="manual" selected="1">NNIXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-vesm9303-034-p3s3w19">
 <src.rf>manual</src.rf>
@@ -1835,7 +1847,7 @@
 <form>nejen</form>
 <tag>
 <AM lemma="nejen" src="orig">TT-------------</AM>
-<AM lemma="nejen" src="auto" recommended="1">Db-------------</AM>
+<AM lemma="nejen" src="auto" recommended="1" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m-vesm9303-034-p4s3w23">
@@ -2176,7 +2188,7 @@
 <form>nejen</form>
 <tag>
 <AM lemma="nejen" src="orig">TT-------------</AM>
-<AM lemma="nejen" src="auto" recommended="1">Db-------------</AM>
+<AM lemma="nejen" src="auto" recommended="1" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m-vesm9303-034-p5s1w21">
@@ -2554,7 +2566,7 @@
 <tag>
 <AM lemma="tedy" src="orig">Db-------------</AM>
 <AM lemma="tedy-1" src="auto">TT-------------</AM>
-<AM lemma="tedy-2" src="auto" recommended="1">J^-------------</AM>
+<AM lemma="tedy-2" src="auto" recommended="1" selected="1">J^-------------</AM>
 </tag>
 </m>
 <m id="m-vesm9303-034-p5s4w3">

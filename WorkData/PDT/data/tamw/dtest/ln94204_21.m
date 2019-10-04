@@ -29,7 +29,10 @@
 <LM>w#w-ln94204-21-p2s1w1</LM>
 </w.rf>
 <form>ABB</form>
-<tag lemma="ABB_:B_;K_,t_^(Asea_Brown_Boveri,_evr._společnost)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ABB_:B_;K_,t_^(Asea_Brown_Boveri,_evr._společnost)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ABB-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94204-21-p2s1w2">
 <src.rf>manual</src.rf>
@@ -69,7 +72,10 @@
 <LM>w#w-ln94204-21-p2s1w6</LM>
 </w.rf>
 <form>uzavřela</form>
-<tag lemma="uzavřít" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag>
+<AM lemma="uzavřít" src="orig">VpQW---XR-AA---</AM>
+<AM lemma="uzavřít_:W" src="manual" selected="1">VpQW---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-ln94204-21-p2s1w7">
 <src.rf>manual</src.rf>
@@ -141,7 +147,10 @@
 <LM>w#w-ln94204-21-p2s1w15</LM>
 </w.rf>
 <form>NORD</form>
-<tag lemma="Nord_;G" src="orig" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="Nord_;G" src="orig">NNIS1-----A----</AM>
+<AM lemma="NORD-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94204-21-p2s1w16">
 <src.rf>manual</src.rf>
@@ -157,7 +166,10 @@
 <LM>w#w-ln94204-21-p2s1w17</LM>
 </w.rf>
 <form>SRN</form>
-<tag lemma="SRN_:B_;G" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="SRN_:B_;G" src="orig">NNFXX-----A---8</AM>
+<AM lemma="SRN-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94204-21-p2s1w18">
 <src.rf>manual</src.rf>
@@ -189,7 +201,10 @@
 <LM>w#w-ln94204-21-p2s1w21</LM>
 </w.rf>
 <form>mil</form>
-<tag lemma="milión`1000000_:B" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="milión`1000000_:B" src="orig">NNIXX-----A---8</AM>
+<AM lemma="milión`1000000" src="manual" selected="1">NNIXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln94204-21-p2s1w22">
 <src.rf>manual</src.rf>
@@ -365,7 +380,10 @@
 <LM>w#w-ln94204-21-p2s1w43</LM>
 </w.rf>
 <form>mil</form>
-<tag lemma="milión`1000000_:B" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="milión`1000000_:B" src="orig">NNIXX-----A---8</AM>
+<AM lemma="milión`1000000" src="manual" selected="1">NNIXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln94204-21-p2s1w44">
 <src.rf>manual</src.rf>
@@ -384,6 +402,7 @@
 <tag>
 <AM lemma="Kč" src="orig">NNFXX-----A----</AM>
 <AM lemma="Kč_:B" src="auto" recommended="1">NNFXX-----A---8</AM>
+<AM lemma="Kč_:B" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94204-21-p2s1w46">

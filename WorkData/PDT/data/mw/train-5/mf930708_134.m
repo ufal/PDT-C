@@ -191,7 +191,10 @@
 <LM>w#w-mf930708-134-p2s2w5</LM>
 </w.rf>
 <form>Daily</form>
-<tag lemma="Daily-1_;K_,t_^(souč._názvů,_např._D._Telegraph)" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="Daily-1_;K_,t_^(souč._názvů,_např._D._Telegraph)" src="orig">AAXXX----1A----</AM>
+<AM lemma="Daily-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-mf930708-134-p2s2w6">
 <src.rf>manual</src.rf>
@@ -199,7 +202,10 @@
 <LM>w#w-mf930708-134-p2s2w6</LM>
 </w.rf>
 <form>Mail</form>
-<tag lemma="mail_,t" src="orig" selected="1">NNIXX-----A----</tag>
+<tag>
+<AM lemma="mail_,t" src="orig">NNIXX-----A----</AM>
+<AM lemma="Mail-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-mf930708-134-p2s2w7">
 <src.rf>manual</src.rf>
@@ -215,7 +221,10 @@
 <LM>w#w-mf930708-134-p2s2w8</LM>
 </w.rf>
 <form>ani</form>
-<tag lemma="ani-1" src="auto" selected="1">J^-------------</tag>
+<tag>
+<AM lemma="ani-1" src="auto">J^-------------</AM>
+<AM lemma="ani-2" src="manual" selected="1">TT-------------</AM>
+</tag>
 </m>
 <m id="m-mf930708-134-p2s2w9">
 <src.rf>manual</src.rf>

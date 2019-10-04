@@ -757,7 +757,11 @@
 <LM>w#w-lnd92253-046-p3s4w4</LM>
 </w.rf>
 <form>Al</form>
-<tag lemma="Al-5_;m_,t_^(arab._člen,_i_ve_jm.)" src="auto" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="Al-5_;m_,t_^(arab._člen,_i_ve_jm.)" src="auto">AAXXX----1A----</AM>
+<AM lemma="al-2_,t_^(člen)" src="manual">AAXXX----1A----</AM>
+<AM lemma="Al-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-lnd92253-046-p3s4w5">
 <src.rf>manual</src.rf>
@@ -776,6 +780,7 @@
 <tag>
 <AM lemma="Haját-2_;R" src="orig">NNIS1-----A----</AM>
 <AM lemma="Haját_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Haját-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-lnd92253-046-p3s4w7">
@@ -834,7 +839,7 @@
 <form>přičemž</form>
 <tag>
 <AM lemma="přičemž" src="orig">J,-------------</AM>
-<AM lemma="přičemž" src="auto" recommended="1">Db-------------</AM>
+<AM lemma="přičemž" src="auto" recommended="1" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m-lnd92253-046-p3s4w14">

@@ -27,7 +27,10 @@
 <LM>w#w-lnd92254-052-p1s1w2</LM>
 </w.rf>
 <form>VS</form>
-<tag lemma="versus_:B_,t" src="auto" selected="1">RR--1---------8</tag>
+<tag>
+<AM lemma="versus_:B_,t" src="auto">RR--1---------8</AM>
+<AM lemma="versus" src="manual" selected="1">RR--1---------8</AM>
+</tag>
 </m>
 <m id="m-lnd92254-052-p1s1w3">
 <src.rf>manual</src.rf>
@@ -429,7 +432,7 @@
 <AM lemma="demokratický" src="auto">AAFP1----1A----</AM>
 <AM lemma="demokratický" src="auto">AAFP4----1A----</AM>
 <AM lemma="demokratický" src="auto">AAFP5----1A----</AM>
-<AM lemma="demokratický" src="auto" recommended="1">AAFS2----1A----</AM>
+<AM lemma="demokratický" src="auto" recommended="1" selected="1">AAFS2----1A----</AM>
 <AM lemma="demokratický" src="auto">AAFS3----1A----</AM>
 <AM lemma="demokratický" src="auto">AAFS6----1A----</AM>
 <AM lemma="demokratický" src="auto">AAIP1----1A----</AM>

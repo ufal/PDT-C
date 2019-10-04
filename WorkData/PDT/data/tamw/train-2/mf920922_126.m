@@ -482,6 +482,7 @@
 <AM lemma="Suchumsko_;G" src="auto" recommended="1">NNNS1-----A----</AM>
 <AM lemma="Suchumsko_;G" src="auto">NNNS4-----A----</AM>
 <AM lemma="Suchumsko_;G" src="auto">NNNS5-----A----</AM>
+<AM lemma="suchumský" src="manual" selected="1">A2--------A----</AM>
 </tag>
 </m>
 <m id="m-mf920922-126-p3s1w2">
@@ -515,7 +516,7 @@
 <AM lemma="abchazský" src="auto">AAMP1----1A---6</AM>
 <AM lemma="abchazský" src="auto">AAMP4----1A---6</AM>
 <AM lemma="abchazský" src="auto">AAMP5----1A---6</AM>
-<AM lemma="abchazský" src="auto" recommended="1">AAMS1----1A----</AM>
+<AM lemma="abchazský" src="auto" recommended="1" selected="1">AAMS1----1A----</AM>
 <AM lemma="abchazský" src="auto">AAMS5----1A----</AM>
 <AM lemma="abchazský" src="auto">AANP1----1A---6</AM>
 <AM lemma="abchazský" src="auto">AANP4----1A---6</AM>

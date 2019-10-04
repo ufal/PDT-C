@@ -58,6 +58,7 @@
 <AM lemma="Nera_;G" src="auto">NNFS5-----A----</AM>
 <AM lemma="Nero_;S" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Nero_;S" src="auto">NNMS5-----A----</AM>
+<AM lemma="Nero-2_;K" src="manual" selected="1">NNNS1-----A----</AM>
 </tag>
 </m>
 </s>
@@ -251,6 +252,7 @@
 <AM lemma="Nera_;G" src="auto">NNFS5-----A----</AM>
 <AM lemma="Nero_;S" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Nero_;S" src="auto">NNMS5-----A----</AM>
+<AM lemma="Nero-2_;K" src="manual" selected="1">NNNS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92255-040-p3s2w22">
@@ -532,6 +534,7 @@
 <AM lemma="Nera_;G" src="auto">NNFS5-----A----</AM>
 <AM lemma="Nero_;S" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Nero_;S" src="auto">NNMS5-----A----</AM>
+<AM lemma="Nero-2_;K" src="manual" selected="1">NNNS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92255-040-p3s4w4">
@@ -749,6 +752,7 @@
 <AM lemma="Nera_;G" src="auto">NNFS5-----A----</AM>
 <AM lemma="Nero_;S" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Nero_;S" src="auto">NNMS5-----A----</AM>
+<AM lemma="Nero-2_;K" src="manual" selected="1">NNNS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92255-040-p3s6w8">

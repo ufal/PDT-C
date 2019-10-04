@@ -154,7 +154,7 @@
 <AM lemma="osmý" src="auto">CrFP3----------</AM>
 <AM lemma="osmý" src="auto">CrIP3----------</AM>
 <AM lemma="osmý" src="auto">CrIS6---------7</AM>
-<AM lemma="osmý" src="auto" recommended="1">CrIS7----------</AM>
+<AM lemma="osmý" src="auto" recommended="1" selected="1">CrIS7----------</AM>
 <AM lemma="osmý" src="auto">CrMP3----------</AM>
 <AM lemma="osmý" src="auto">CrMS6---------7</AM>
 <AM lemma="osmý" src="auto">CrMS7----------</AM>
@@ -177,7 +177,10 @@
 <LM>w#w-ln94201-68-p2s1w17</LM>
 </w.rf>
 <form>MS</form>
-<tag lemma="MS-5_:B_;K_;p_^(ministerstvo_spravedlnosti)" src="orig" selected="1">NNNXX-----A---8</tag>
+<tag>
+<AM lemma="MS-5_:B_;K_;p_^(ministerstvo_spravedlnosti)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="MS-3_:B_^(mistrovství_světa)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94201-68-p2s1w18">
 <src.rf>manual</src.rf>
@@ -318,7 +321,10 @@
 <LM>w#w-ln94201-68-p2s3w4</LM>
 </w.rf>
 <form>RZ</form>
-<tag lemma="RZ_:B" src="auto" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="RZ_:B" src="auto">NNXXX-----A---8</AM>
+<AM lemma="RZ-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln94201-68-p2s3w5">
 <src.rf>manual</src.rf>
@@ -594,7 +600,10 @@
 <LM>w#w-ln94201-68-p2s5w9</LM>
 </w.rf>
 <form>Escort</form>
-<tag lemma="Escort_;K_;R_^(vozidlo)" src="auto" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="Escort_;K_;R_^(vozidlo)" src="auto">NNIS1-----A----</AM>
+<AM lemma="Escort-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94201-68-p2s5w10">
 <src.rf>manual</src.rf>

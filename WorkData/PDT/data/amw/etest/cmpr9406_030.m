@@ -87,7 +87,10 @@
 <LM>w#w-cmpr9406-030-p3s1w4</LM>
 </w.rf>
 <form>stala</form>
-<tag lemma="stát-2_^(něco_se_přihodilo)" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag>
+<AM lemma="stát-2_^(něco_se_přihodilo)" src="orig">VpQW---XR-AA---</AM>
+<AM lemma="stát-2_:W_^(něco_se_přihodilo)" src="manual" selected="1">VpQW---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-cmpr9406-030-p3s1w5">
 <src.rf>manual</src.rf>
@@ -298,7 +301,10 @@
 <LM>w#w-cmpr9406-030-p3s2w10</LM>
 </w.rf>
 <form>zkrácena</form>
-<tag lemma="zkrátit" src="orig" selected="1">VsQW---XX-AP---</tag>
+<tag>
+<AM lemma="zkrátit" src="orig">VsQW---XX-AP---</AM>
+<AM lemma="zkrátit_:W" src="manual" selected="1">VsQW---XX-AP---</AM>
+</tag>
 </m>
 <m id="m-cmpr9406-030-p3s2w11">
 <src.rf>manual</src.rf>
@@ -779,7 +785,10 @@
 <LM>w#w-cmpr9406-030-p5s3w3</LM>
 </w.rf>
 <form>PZT</form>
-<tag lemma="PZT_:B_,t_^(Photo-Zenit-Teleskop)" src="auto" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="PZT_:B_,t_^(Photo-Zenit-Teleskop)" src="auto">NNXXX-----A---8</AM>
+<AM lemma="PZT-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-cmpr9406-030-p5s3w4">
 <src.rf>manual</src.rf>
@@ -859,7 +868,10 @@
 <LM>w#w-cmpr9406-030-p5s3w13</LM>
 </w.rf>
 <form>PZT</form>
-<tag lemma="PZT_:B_,t_^(Photo-Zenit-Teleskop)" src="auto" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="PZT_:B_,t_^(Photo-Zenit-Teleskop)" src="auto">NNXXX-----A---8</AM>
+<AM lemma="PZT-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-cmpr9406-030-p5s3w14">
 <src.rf>manual</src.rf>
@@ -1039,7 +1051,10 @@
 <LM>w#w-cmpr9406-030-p5s5w7</LM>
 </w.rf>
 <form>použito</form>
-<tag lemma="použít" src="orig" selected="1">VsNS---XX-AP---</tag>
+<tag>
+<AM lemma="použít" src="orig">VsNS---XX-AP---</AM>
+<AM lemma="použít_:W" src="manual" selected="1">VsNS---XX-AP---</AM>
+</tag>
 </m>
 <m id="m-cmpr9406-030-p5s5w8">
 <src.rf>manual</src.rf>
@@ -1103,7 +1118,10 @@
 <LM>w#w-cmpr9406-030-p5s5w15</LM>
 </w.rf>
 <form>M</form>
-<tag lemma="M-6_:B_;R" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="M-6_:B_;R" src="orig">NNXXX-----A---8</AM>
+<AM lemma="M-33_^(označení_pomocí_písmene)" src="manual" selected="1">NNNXX-----A----</AM>
+</tag>
 </m>
 <m id="m-cmpr9406-030-p5s5w16">
 <src.rf>manual</src.rf>
@@ -1317,7 +1335,10 @@
 <LM>w#w-cmpr9406-030-p7s1w5</LM>
 </w.rf>
 <form>začne</form>
-<tag lemma="začít-1_^(začnout)" src="auto" selected="1">VB-S---3P-AA---</tag>
+<tag>
+<AM lemma="začít-1_^(začnout)" src="auto">VB-S---3P-AA---</AM>
+<AM lemma="začít-1_:W_^(začnout)" src="manual" selected="1">VB-S---3P-AA---</AM>
+</tag>
 </m>
 <m id="m-cmpr9406-030-p7s1w6">
 <src.rf>manual</src.rf>
@@ -1350,6 +1371,7 @@
 <AM lemma="Milo-2_;Y" src="auto">NNMS1-----A----</AM>
 <AM lemma="Milo-2_;Y" src="auto">NNMS5-----A----</AM>
 <AM lemma="milo" src="auto">Db-------------</AM>
+<AM lemma="MILO-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9406-030-p7s1w9">
@@ -1602,7 +1624,11 @@
 <LM>w#w-cmpr9406-030-p7s3w8</LM>
 </w.rf>
 <form>mikroorganismy</form>
-<tag lemma="mikroorganismus" src="orig" selected="1">NNIP1-----A----</tag>
+<tag>
+<AM lemma="mikroorganismus" src="orig">NNIP1-----A----</AM>
+<AM lemma="mikroorganismus_,s_^(^DD**mikroorganizmus)" src="manual">NNIP4-----A----</AM>
+<AM lemma="mikroorganismus_,s_^(^DD**mikroorganizmus)" src="manual" selected="1">NNIP1-----A----</AM>
+</tag>
 </m>
 <m id="m-cmpr9406-030-p7s3w9">
 <src.rf>manual</src.rf>
@@ -1610,7 +1636,10 @@
 <LM>w#w-cmpr9406-030-p7s3w9</LM>
 </w.rf>
 <form>dokáží</form>
-<tag lemma="dokázat" src="orig" selected="1">VB-P---3P-AA--1</tag>
+<tag>
+<AM lemma="dokázat" src="orig">VB-P---3P-AA--1</AM>
+<AM lemma="dokázat_:W" src="manual" selected="1">VB-P---3P-AA--1</AM>
+</tag>
 </m>
 <m id="m-cmpr9406-030-p7s3w10">
 <src.rf>manual</src.rf>
@@ -1708,7 +1737,10 @@
 <LM>w#w-cmpr9406-030-p7s4w4</LM>
 </w.rf>
 <form>určena</form>
-<tag lemma="určit" src="orig" selected="1">VsQW---XX-AP---</tag>
+<tag>
+<AM lemma="určit" src="orig">VsQW---XX-AP---</AM>
+<AM lemma="určit_:W" src="manual" selected="1">VsQW---XX-AP---</AM>
+</tag>
 </m>
 <m id="m-cmpr9406-030-p7s4w5">
 <src.rf>manual</src.rf>
@@ -1977,6 +2009,7 @@
 <AM lemma="Milo-2_;Y" src="auto">NNMS1-----A----</AM>
 <AM lemma="Milo-2_;Y" src="auto">NNMS5-----A----</AM>
 <AM lemma="milo" src="auto">Db-------------</AM>
+<AM lemma="MILO-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9406-030-p7s6w8">

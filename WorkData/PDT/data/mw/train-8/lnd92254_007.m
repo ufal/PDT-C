@@ -27,7 +27,10 @@
 <LM>w#w-lnd92254-007-p1s1w2</LM>
 </w.rf>
 <form>B</form>
-<tag lemma="B-0_:B_;Y" src="orig" selected="1">NNMXX-----A---8</tag>
+<tag>
+<AM lemma="B-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
+<AM lemma="B-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd92254-007-p1s1w3">
 <src.rf>manual</src.rf>
@@ -61,7 +64,10 @@
 <LM>w#w-lnd92254-007-p1s2w3</LM>
 </w.rf>
 <form>FNS</form>
-<tag lemma="FNS_:B_;K_^(Fronta_nár._spásy)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="FNS_:B_;K_^(Fronta_nár._spásy)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="FNS-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 </s>
 <s id="m-lnd92254-007-p2s1">

@@ -419,7 +419,10 @@
 <LM>w#w-ln95044-071-p2s3w14</LM>
 </w.rf>
 <form>CSA</form>
-<tag lemma="CSA-1_:B_;K_,t_^(Confédération_Syndicale_Africaine)" src="auto" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="CSA-1_:B_;K_,t_^(Confédération_Syndicale_Africaine)" src="auto">NNFXX-----A---8</AM>
+<AM lemma="CSA-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln95044-071-p2s3w15">
 <src.rf>manual</src.rf>
@@ -435,7 +438,10 @@
 <LM>w#w-ln95044-071-p2s3w16</LM>
 </w.rf>
 <form>La</form>
-<tag lemma="Le-1_,t_^(franc._člen_jako_souč._jmen_a_názvů)" src="orig" selected="1">AAFSX----1A----</tag>
+<tag>
+<AM lemma="Le-1_,t_^(franc._člen_jako_souč._jmen_a_názvů)" src="orig">AAFSX----1A----</AM>
+<AM lemma="La-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln95044-071-p2s3w17">
 <src.rf>manual</src.rf>
@@ -447,6 +453,7 @@
 <AM lemma="Tribune_;R_,t" src="orig">NNFXX-----A----</AM>
 <AM lemma="Tribune_;K_,t" src="auto" recommended="1">NNFSX-----A----</AM>
 <AM lemma="tribun" src="auto">NNMS5-----A----</AM>
+<AM lemma="Tribune-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-ln95044-071-p2s3w18">

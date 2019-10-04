@@ -497,7 +497,10 @@
 <LM>w#w-mf920924-066-p2s3w13</LM>
 </w.rf>
 <form>Tomášek</form>
-<tag lemma="Tomášek-1_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Tomášek-1_;S" src="orig">NNMS1-----A----</AM>
+<AM lemma="Tomášek_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920924-066-p2s3w14">
 <src.rf>manual</src.rf>

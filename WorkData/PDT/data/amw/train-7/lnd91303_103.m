@@ -85,7 +85,10 @@
 <LM>w#w-lnd91303-103-p2s1w8</LM>
 </w.rf>
 <form>FIBA</form>
-<tag lemma="FIBA_:B_;K" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="FIBA_:B_;K" src="orig">NNFXX-----A---8</AM>
+<AM lemma="FIBA-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd91303-103-p2s1w9">
 <src.rf>manual</src.rf>
@@ -294,6 +297,7 @@
 <AM lemma="Pele_;S" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Pele_;S" src="auto">NNMS5-----A----</AM>
 <AM lemma="pel" src="auto">NNIS5-----A----</AM>
+<AM lemma="pele" src="manual" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m-lnd91303-103-p3s1w2">
@@ -315,6 +319,7 @@
 <AM lemma="mela" src="auto">NNFS3-----A----</AM>
 <AM lemma="mela" src="auto">NNFS6-----A----</AM>
 <AM lemma="mlít" src="auto" recommended="1">VB-S---3P-AA---</AM>
+<AM lemma="mele" src="manual" selected="1">Db-------------</AM>
 </tag>
 </m>
 </s>
@@ -453,7 +458,10 @@
 <LM>w#w-lnd91303-103-p4s1w17</LM>
 </w.rf>
 <form>Gazzetta</form>
-<tag lemma="Gazzetta_;R_,t" src="orig" selected="1">NNFS1-----A----</tag>
+<tag>
+<AM lemma="Gazzetta_;R_,t" src="orig">NNFS1-----A----</AM>
+<AM lemma="Gazzetta-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-lnd91303-103-p4s1w18">
 <src.rf>manual</src.rf>
@@ -461,7 +469,10 @@
 <LM>w#w-lnd91303-103-p4s1w18</LM>
 </w.rf>
 <form>dello</form>
-<tag lemma="dello_,t" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="dello_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="dello-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-lnd91303-103-p4s1w19">
 <src.rf>manual</src.rf>
@@ -469,7 +480,10 @@
 <LM>w#w-lnd91303-103-p4s1w19</LM>
 </w.rf>
 <form>Sport</form>
-<tag lemma="sport" src="orig" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="sport" src="orig">NNIS1-----A----</AM>
+<AM lemma="Sport-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-lnd91303-103-p4s1w20">
 <src.rf>manual</src.rf>

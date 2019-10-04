@@ -61,7 +61,10 @@
 <LM>w#w-cmpr9415-008-p2s1w3</LM>
 </w.rf>
 <form>Springer</form>
-<tag lemma="Springer_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Springer_;S" src="orig">NNMS1-----A----</AM>
+<AM lemma="Springer-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-cmpr9415-008-p2s1w4">
 <src.rf>manual</src.rf>
@@ -69,7 +72,10 @@
 <LM>w#w-cmpr9415-008-p2s1w4</LM>
 </w.rf>
 <form>Reisen</form>
-<tag lemma="Reisen_;G" src="orig" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="Reisen_;G" src="orig">NNIS1-----A----</AM>
+<AM lemma="Reisen-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 </s>
 <s id="m-cmpr9415-008-p3s1">
@@ -190,6 +196,7 @@
 <tag>
 <AM lemma="Kč" src="orig">NNFXX-----A----</AM>
 <AM lemma="Kč_:B" src="auto" recommended="1">NNFXX-----A---8</AM>
+<AM lemma="Kč_:B" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9415-008-p5s1w5">
@@ -228,6 +235,7 @@
 <tag>
 <AM lemma="Kč" src="orig">NNFXX-----A----</AM>
 <AM lemma="Kč_:B" src="auto" recommended="1">NNFXX-----A---8</AM>
+<AM lemma="Kč_:B" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9415-008-p6s1w3">
@@ -271,7 +279,10 @@
 <LM>w#w-cmpr9415-008-p7s1w3</LM>
 </w.rf>
 <form>Jen</form>
-<tag lemma="jen-1" src="auto" selected="1">TT-------------</tag>
+<tag>
+<AM lemma="jen-1" src="auto">TT-------------</AM>
+<AM lemma="jen-4_^(pouze)" src="manual" selected="1">Db-------------</AM>
+</tag>
 </m>
 <m id="m-cmpr9415-008-p7s1w4">
 <src.rf>manual</src.rf>
@@ -1013,7 +1024,10 @@
 <LM>w#w-cmpr9415-008-p9s6w12</LM>
 </w.rf>
 <form>WC</form>
-<tag lemma="WC_:B" src="orig" selected="1">NNNXX-----A---8</tag>
+<tag>
+<AM lemma="WC_:B" src="orig">NNNXX-----A---8</AM>
+<AM lemma="WC-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-cmpr9415-008-p9s6w13">
 <src.rf>manual</src.rf>
@@ -1096,6 +1110,7 @@
 <tag>
 <AM lemma="Kč" src="orig">NNFXX-----A----</AM>
 <AM lemma="Kč_:B" src="auto" recommended="1">NNFXX-----A---8</AM>
+<AM lemma="Kč_:B" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9415-008-p9s6w23">
@@ -1139,6 +1154,7 @@
 <tag>
 <AM lemma="Kč" src="orig">NNFXX-----A----</AM>
 <AM lemma="Kč_:B" src="auto" recommended="1">NNFXX-----A---8</AM>
+<AM lemma="Kč_:B" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9415-008-p9s6w28">

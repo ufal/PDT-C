@@ -969,7 +969,10 @@
 <LM>w#w-lnd92259-019-p3s6w7</LM>
 </w.rf>
 <form>J</form>
-<tag lemma="J-0_:B_;Y" src="orig" selected="1">NNMXX-----A---8</tag>
+<tag>
+<AM lemma="J-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
+<AM lemma="J-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd92259-019-p3s6w8">
 <src.rf>manual</src.rf>
@@ -985,7 +988,10 @@
 <LM>w#w-lnd92259-019-p3s6w9</LM>
 </w.rf>
 <form>G</form>
-<tag lemma="G-0_:B_;Y" src="orig" selected="1">NNMXX-----A---8</tag>
+<tag>
+<AM lemma="G-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
+<AM lemma="G-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd92259-019-p3s6w10">
 <src.rf>manual</src.rf>
@@ -1005,6 +1011,7 @@
 <AM lemma="Deburau_;m_;S" src="orig">NNMXX-----A----</AM>
 <AM lemma="Deburau_;S" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Deburau_;S" src="auto">NNMS5-----A----</AM>
+<AM lemma="Deburau_;S" src="manual" selected="1">NNMXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92259-019-p3s6w12">
@@ -1372,7 +1379,11 @@
 <LM>w#w-lnd92259-019-p3s9w17</LM>
 </w.rf>
 <form>MFPN</form>
-<tag lemma="MFPN_:B_;m_^(Mezinárodní_festival_pantomimy_neslyšících)" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="MFPN_:B_;m_^(Mezinárodní_festival_pantomimy_neslyšících)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="MFPN_:B" src="manual">NNXXX-----A---8</AM>
+<AM lemma="MFPN-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd92259-019-p3s9w18">
 <src.rf>manual</src.rf>

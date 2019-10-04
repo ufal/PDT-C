@@ -80,6 +80,8 @@
 <tag>
 <AM lemma="Wild_;K_,t" src="orig">AAXXX----1A----</AM>
 <AM lemma="Wild_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="wild_,t" src="manual">AAXXX----1A----</AM>
+<AM lemma="Wild-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-ln94211-119-p2s1Aw5">
@@ -92,6 +94,8 @@
 <AM lemma="Duck_;K_,t" src="orig">NNFXX-----A----</AM>
 <AM lemma="Duck_;G" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Duck_;G" src="auto">NNIS4-----A----</AM>
+<AM lemma="duck_,t" src="manual">NNXXX-----A----</AM>
+<AM lemma="Duck-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-ln94211-119-p2s1Aw6">
@@ -126,7 +130,10 @@
 <LM>w#w-ln94211-119-p2s1Bw2</LM>
 </w.rf>
 <form>SPT</form>
-<tag lemma="SPT-1_:B_;K_;b_;c_^(v_býv._názvu_SPT_Telecom)" src="auto" selected="1">NNNXX-----A---8</tag>
+<tag>
+<AM lemma="SPT-1_:B_;K_;b_;c_^(v_býv._názvu_SPT_Telecom)" src="auto">NNNXX-----A---8</AM>
+<AM lemma="SPT-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94211-119-p2s1Bw3">
 <src.rf>manual</src.rf>
@@ -166,7 +173,10 @@
 <LM>w#w-ln94211-119-p2s1Bw7</LM>
 </w.rf>
 <form>napsáno</form>
-<tag lemma="napsat" src="orig" selected="1">VsNS---XX-AP---</tag>
+<tag>
+<AM lemma="napsat" src="orig">VsNS---XX-AP---</AM>
+<AM lemma="napsat_:W" src="manual" selected="1">VsNS---XX-AP---</AM>
+</tag>
 </m>
 <m id="m-ln94211-119-p2s1Bw8">
 <src.rf>manual</src.rf>
@@ -240,7 +250,10 @@
 <LM>w#w-ln94211-119-p2s2w8</LM>
 </w.rf>
 <form>nedozvěděli</form>
-<tag lemma="dozvědět" src="orig" selected="1">VpMP---XR-NA---</tag>
+<tag>
+<AM lemma="dozvědět" src="orig">VpMP---XR-NA---</AM>
+<AM lemma="dozvědět_:W" src="manual" selected="1">VpMP---XR-NA---</AM>
+</tag>
 </m>
 <m id="m-ln94211-119-p2s2w9">
 <src.rf>manual</src.rf>
@@ -266,7 +279,7 @@
 <form>vůbec</form>
 <tag>
 <AM lemma="vůbec" src="orig">Db-------------</AM>
-<AM lemma="vůbec" src="auto" recommended="1">TT-------------</AM>
+<AM lemma="vůbec" src="auto" recommended="1" selected="1">TT-------------</AM>
 </tag>
 </m>
 <m id="m-ln94211-119-p2s2w12">

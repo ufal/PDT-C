@@ -231,7 +231,10 @@
 <LM>w#w-ln94204-111-p2s1Bw22</LM>
 </w.rf>
 <form>AC</form>
-<tag lemma="AC-1_:B_;K_;w_^(př._AC_Sparta_Praha)" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="AC-1_:B_;K_;w_^(př._AC_Sparta_Praha)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="AC-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln94204-111-p2s1Bw23">
 <src.rf>manual</src.rf>
@@ -239,7 +242,10 @@
 <LM>w#w-ln94204-111-p2s1Bw23</LM>
 </w.rf>
 <form>ZPS</form>
-<tag lemma="ZPS-1_:B_^(změněná_prac._schopnost)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ZPS-1_:B_^(změněná_prac._schopnost)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ZPS-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln94204-111-p2s1Bw24">
 <src.rf>manual</src.rf>

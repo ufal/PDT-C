@@ -303,7 +303,11 @@
 <LM>w#w-mf920923-135-p2s2w25</LM>
 </w.rf>
 <form>nejméně</form>
-<tag lemma="málo-3" src="orig" selected="1">Dg-------3A----</tag>
+<tag>
+<AM lemma="málo-3" src="orig">Dg-------3A----</AM>
+<AM lemma="nejméně" src="manual">Ca--2----------</AM>
+<AM lemma="nejméně" src="manual" selected="1">Ca--X----------</AM>
+</tag>
 </m>
 <m id="m-mf920923-135-p2s2w26">
 <src.rf>manual</src.rf>
@@ -368,7 +372,10 @@
 <LM>w#w-mf920923-135-p2s2w33</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-2" src="auto" selected="1">Dg-------2A----</tag>
+<tag>
+<AM lemma="hodně-2" src="auto">Dg-------2A----</AM>
+<AM lemma="hodně-3" src="manual" selected="1">Dg-------2A----</AM>
+</tag>
 </m>
 <m id="m-mf920923-135-p2s2w34">
 <src.rf>manual</src.rf>
@@ -400,7 +407,10 @@
 <LM>w#w-mf920923-135-p2s2w37</LM>
 </w.rf>
 <form>dolarů</form>
-<tag lemma="dolar_;b" src="orig" selected="1">NNIP2-----A----</tag>
+<tag>
+<AM lemma="dolar_;b" src="orig">NNIP2-----A----</AM>
+<AM lemma="dolar" src="manual" selected="1">NNIP2-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920923-135-p2s2w38">
 <src.rf>manual</src.rf>
@@ -628,7 +638,10 @@
 <LM>w#w-mf920923-135-p3s2w3</LM>
 </w.rf>
 <form>nejvíce</form>
-<tag lemma="hodně-2" src="auto" selected="1">Dg-------3A----</tag>
+<tag>
+<AM lemma="hodně-2" src="auto">Dg-------3A----</AM>
+<AM lemma="hodně-3" src="manual" selected="1">Dg-------3A----</AM>
+</tag>
 </m>
 <m id="m-mf920923-135-p3s2w4">
 <src.rf>manual</src.rf>
@@ -865,6 +878,7 @@
 <tag>
 <AM lemma="Miriam_;Y" src="orig">NNFS1-----A----</AM>
 <AM lemma="Miriam_;Y_,t" src="auto" recommended="1">NNFXX-----A----</AM>
+<AM lemma="Miriam_;Y" src="manual" selected="1">NNFXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920923-135-p3s3w18">

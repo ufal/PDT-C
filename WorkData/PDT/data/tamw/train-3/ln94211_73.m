@@ -151,7 +151,10 @@
 <LM>w#w-ln94211-73-p2s1Bw11</LM>
 </w.rf>
 <form>SDS</form>
-<tag lemma="SDS_:B_;K" src="auto" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="SDS_:B_;K" src="auto">NNXXX-----A---8</AM>
+<AM lemma="SDS-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94211-73-p2s1Bw12">
 <src.rf>manual</src.rf>
@@ -400,7 +403,7 @@
 </w.rf>
 <form>Ljubena</form>
 <tag>
-<AM lemma="Ljuben_;Y" src="orig">NNMS2-----A----</AM>
+<AM lemma="Ljuben_;Y" src="orig" selected="1">NNMS2-----A----</AM>
 <AM lemma="Ljubena_;Y" src="auto" recommended="1">NNFS1-----A----</AM>
 </tag>
 </m>
@@ -460,7 +463,10 @@
 <LM>w#w-ln94211-73-p2s2w5</LM>
 </w.rf>
 <form>SDS</form>
-<tag lemma="SDS_:B_;K" src="auto" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="SDS_:B_;K" src="auto">NNXXX-----A---8</AM>
+<AM lemma="SDS-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94211-73-p2s2w6">
 <src.rf>manual</src.rf>
@@ -604,7 +610,10 @@
 <LM>w#w-ln94211-73-p2s2w23</LM>
 </w.rf>
 <form>SDS</form>
-<tag lemma="SDS_:B_;K" src="auto" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="SDS_:B_;K" src="auto">NNXXX-----A---8</AM>
+<AM lemma="SDS-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94211-73-p2s2w24">
 <src.rf>manual</src.rf>
@@ -726,7 +735,10 @@
 <LM>w#w-ln94211-73-p2s3w3</LM>
 </w.rf>
 <form>SDS</form>
-<tag lemma="SDS_:B_;K" src="auto" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="SDS_:B_;K" src="auto">NNXXX-----A---8</AM>
+<AM lemma="SDS-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94211-73-p2s3w4">
 <src.rf>manual</src.rf>
@@ -872,7 +884,10 @@
 <LM>w#w-ln94211-73-p2s4w7</LM>
 </w.rf>
 <form>SDS</form>
-<tag lemma="SDS_:B_;K" src="auto" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="SDS_:B_;K" src="auto">NNXXX-----A---8</AM>
+<AM lemma="SDS-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94211-73-p2s4w8">
 <src.rf>manual</src.rf>

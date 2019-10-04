@@ -420,6 +420,7 @@
 <tag>
 <AM lemma="Su_;S" src="orig">NNMXX-----A----</AM>
 <AM lemma="být_,n" src="auto" recommended="1">VB-S---1P-AA--7</AM>
+<AM lemma="Su_;Y" src="manual" selected="1">NNMXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92254-063-p2s3w5">
@@ -432,6 +433,7 @@
 <AM lemma="Li_;S" src="orig">NNMS1-----A----</AM>
 <AM lemma="li-1" src="auto" recommended="1">TT-------------</AM>
 <AM lemma="li-2" src="auto">J,-------------</AM>
+<AM lemma="Li_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92254-063-p2s3w6">
@@ -876,7 +878,10 @@
 <LM>w#w-lnd92254-063-p2s5w7</LM>
 </w.rf>
 <form>tj</form>
-<tag lemma="tj-1_:B_^(to_je/jest)" src="orig" selected="1">J^------------8</tag>
+<tag>
+<AM lemma="tj-1_:B_^(to_je/jest)" src="orig">J^------------8</AM>
+<AM lemma="tj-1_:B_^(to_je/jest)" src="manual" selected="1">J^-------------</AM>
+</tag>
 </m>
 <m id="m-lnd92254-063-p2s5w8">
 <src.rf>manual</src.rf>
@@ -1008,7 +1013,7 @@
 <form>jakýmkoli</form>
 <tag>
 <AM lemma="jakýkoliv" src="orig">PZXP3---------1</AM>
-<AM lemma="jakýkoli" src="auto" recommended="1">PZXP3----------</AM>
+<AM lemma="jakýkoli" src="auto" recommended="1" selected="1">PZXP3----------</AM>
 <AM lemma="jakýkoli" src="auto">PZZS7----------</AM>
 </tag>
 </m>

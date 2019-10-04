@@ -117,7 +117,10 @@
 <LM>w#w-ln95047-091-p2s1Aw6</LM>
 </w.rf>
 <form>LN</form>
-<tag lemma="LN-1_:B_;R_^(Lidové_noviny,_deník)" src="orig" selected="1">NNFPX-----A---8</tag>
+<tag>
+<AM lemma="LN-1_:B_;R_^(Lidové_noviny,_deník)" src="orig">NNFPX-----A---8</AM>
+<AM lemma="LN-1_:B_;K_;R_^(Lidové_noviny)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 </s>
 <s id="m-ln95047-091-p2s1B">
@@ -1306,7 +1309,7 @@
 <form>totiž</form>
 <tag>
 <AM lemma="totiž" src="orig">Db-------------</AM>
-<AM lemma="totiž-1" src="auto" recommended="1">J^-------------</AM>
+<AM lemma="totiž-1" src="auto" recommended="1" selected="1">J^-------------</AM>
 <AM lemma="totiž-2" src="auto">TT-------------</AM>
 </tag>
 </m>
@@ -1717,7 +1720,7 @@
 <tag>
 <AM lemma="tedy" src="orig">Db-------------</AM>
 <AM lemma="tedy-1" src="auto">TT-------------</AM>
-<AM lemma="tedy-2" src="auto" recommended="1">J^-------------</AM>
+<AM lemma="tedy-2" src="auto" recommended="1" selected="1">J^-------------</AM>
 </tag>
 </m>
 <m id="m-ln95047-091-p4s2w21">
@@ -2054,6 +2057,7 @@
 <AM lemma="rezortní_,s_,x" src="auto">AAMP6----1A----</AM>
 <AM lemma="rezortní_,s_,x" src="auto">AANP2----1A----</AM>
 <AM lemma="rezortní_,s_,x" src="auto">AANP6----1A----</AM>
+<AM lemma="resortní_,s_^(^DD**rezortní)" src="manual" selected="1">AAIP2----1A----</AM>
 </tag>
 </m>
 <m id="m-ln95047-091-p4s4Bw9">
@@ -2450,6 +2454,7 @@
 <AM lemma="rezortní_,s_,x" src="auto">AAMS2----1A----</AM>
 <AM lemma="rezortní_,s_,x" src="auto">AAMS4----1A----</AM>
 <AM lemma="rezortní_,s_,x" src="auto">AANS2----1A----</AM>
+<AM lemma="resortní_,s_^(^DD**rezortní)" src="manual" selected="1">AAIS2----1A----</AM>
 </tag>
 </m>
 <m id="m-ln95047-091-p5s2w8">
@@ -2530,7 +2535,10 @@
 <LM>w#w-ln95047-091-p5s2w17</LM>
 </w.rf>
 <form>resort</form>
-<tag lemma="resort" src="orig" selected="1">NNIS4-----A----</tag>
+<tag>
+<AM lemma="resort" src="orig">NNIS4-----A----</AM>
+<AM lemma="resort_,s_^(^DD**rezort)" src="manual" selected="1">NNIS4-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95047-091-p5s2w18">
 <src.rf>manual</src.rf>
@@ -2822,7 +2830,10 @@
 <LM>w#w-ln95047-091-p5s4Aw9</LM>
 </w.rf>
 <form>resorty</form>
-<tag lemma="resort" src="orig" selected="1">NNIP4-----A----</tag>
+<tag>
+<AM lemma="resort" src="orig">NNIP4-----A----</AM>
+<AM lemma="resort_,s_^(^DD**rezort)" src="manual" selected="1">NNIP4-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95047-091-p5s4Aw10">
 <src.rf>manual</src.rf>
@@ -3050,7 +3061,10 @@
 <LM>w#w-ln95047-091-p5s5w4</LM>
 </w.rf>
 <form>STEM</form>
-<tag lemma="STEM_:B_;K_^(Stř._empirických_výzkumů)" src="auto" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="STEM_:B_;K_^(Stř._empirických_výzkumů)" src="auto">NNXXX-----A---8</AM>
+<AM lemma="STEM-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95047-091-p5s5w5">
 <src.rf>manual</src.rf>
@@ -3644,7 +3658,10 @@
 <LM>w#w-ln95047-091-p6s4w10</LM>
 </w.rf>
 <form>ODS</form>
-<tag lemma="ODS-1_:B_;K_;p_^(Občanská_demokratická_strana)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ODS-1_:B_;K_;p_^(Občanská_demokratická_strana)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ODS-1_:B_;K_^(Občanská_demokratická_strana)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95047-091-p6s4w11">
 <src.rf>manual</src.rf>

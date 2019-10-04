@@ -179,7 +179,7 @@
 <form>totiž</form>
 <tag>
 <AM lemma="totiž" src="orig">Db-------------</AM>
-<AM lemma="totiž-1" src="auto" recommended="1">J^-------------</AM>
+<AM lemma="totiž-1" src="auto" recommended="1" selected="1">J^-------------</AM>
 <AM lemma="totiž-2" src="auto">TT-------------</AM>
 </tag>
 </m>
@@ -569,7 +569,10 @@
 <LM>w#w-ln95046-037-p2s4w22</LM>
 </w.rf>
 <form>řekl</form>
-<tag lemma="říci" src="auto" selected="1">VpYS---XR-AA---</tag>
+<tag>
+<AM lemma="říci" src="auto">VpYS---XR-AA---</AM>
+<AM lemma="říci_:W" src="manual" selected="1">VpYS---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-ln95046-037-p2s4w23">
 <src.rf>manual</src.rf>
@@ -577,7 +580,10 @@
 <LM>w#w-ln95046-037-p2s4w23</LM>
 </w.rf>
 <form>LN</form>
-<tag lemma="LN-1_:B_;R_^(Lidové_noviny,_deník)" src="orig" selected="1">NNFPX-----A---8</tag>
+<tag>
+<AM lemma="LN-1_:B_;R_^(Lidové_noviny,_deník)" src="orig">NNFPX-----A---8</AM>
+<AM lemma="LN-1_:B_;K_;R_^(Lidové_noviny)" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln95046-037-p2s4w24">
 <src.rf>manual</src.rf>
@@ -691,7 +697,10 @@
 <LM>w#w-ln95046-037-p2s5w8</LM>
 </w.rf>
 <form>STES</form>
-<tag lemma="STES-1_:B_;K_,t_^(Studio_Television_Event_Sponsoring)" src="orig" selected="1">NNNXX-----A---8</tag>
+<tag>
+<AM lemma="STES-1_:B_;K_,t_^(Studio_Television_Event_Sponsoring)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="STES-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95046-037-p2s5w9">
 <src.rf>manual</src.rf>
@@ -771,7 +780,10 @@
 <LM>w#w-ln95046-037-p2s5w19</LM>
 </w.rf>
 <form>STES</form>
-<tag lemma="STES-1_:B_;K_,t_^(Studio_Television_Event_Sponsoring)" src="orig" selected="1">NNNXX-----A---8</tag>
+<tag>
+<AM lemma="STES-1_:B_;K_,t_^(Studio_Television_Event_Sponsoring)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="STES-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95046-037-p2s5w20">
 <src.rf>manual</src.rf>
@@ -861,7 +873,10 @@
 <LM>w#w-ln95046-037-p2s6w10</LM>
 </w.rf>
 <form>ČSA</form>
-<tag lemma="ČSA-1_:B_;K_^(Čs./České_aerolinie)" src="orig" selected="1">NNFPX-----A---8</tag>
+<tag>
+<AM lemma="ČSA-1_:B_;K_^(Čs./České_aerolinie)" src="orig">NNFPX-----A---8</AM>
+<AM lemma="ČSA-1_:B_;K_^(Čs./České_aerolinie)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95046-037-p2s6w11">
 <src.rf>manual</src.rf>
@@ -909,7 +924,10 @@
 <LM>w#w-ln95046-037-p2s6w16</LM>
 </w.rf>
 <form>Air</form>
-<tag lemma="Air_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="Air_;K" src="orig">NNIS1-----A----</AM>
+<AM lemma="Air-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln95046-037-p2s6w17">
 <src.rf>manual</src.rf>
@@ -1313,7 +1331,10 @@
 <LM>w#w-ln95046-037-p2s8w13</LM>
 </w.rf>
 <form>LN</form>
-<tag lemma="LN-1_:B_;R_^(Lidové_noviny,_deník)" src="orig" selected="1">NNFPX-----A---8</tag>
+<tag>
+<AM lemma="LN-1_:B_;R_^(Lidové_noviny,_deník)" src="orig">NNFPX-----A---8</AM>
+<AM lemma="LN-1_:B_;K_;R_^(Lidové_noviny)" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln95046-037-p2s8w14">
 <src.rf>manual</src.rf>

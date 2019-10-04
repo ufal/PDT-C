@@ -127,7 +127,7 @@
 <form>Marlboro</form>
 <tag>
 <AM lemma="Marlboro-2_;m" src="orig">AAXXX----1A----</AM>
-<AM lemma="Marlboro_;K" src="auto" recommended="1">NNNS1-----A----</AM>
+<AM lemma="Marlboro_;K" src="auto" recommended="1" selected="1">NNNS1-----A----</AM>
 <AM lemma="Marlboro_;K" src="auto">NNNS4-----A----</AM>
 <AM lemma="Marlboro_;K" src="auto">NNNS5-----A----</AM>
 </tag>
@@ -138,7 +138,10 @@
 <LM>w#w-ln95045-041-p2s1w10</LM>
 </w.rf>
 <form>Rock</form>
-<tag lemma="rock-1" src="orig" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="rock-1" src="orig">NNIS1-----A----</AM>
+<AM lemma="Rock-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln95045-041-p2s1w11">
 <src.rf>manual</src.rf>
@@ -158,6 +161,7 @@
 <AM lemma="in-2_;m_,t_^(př._Rock-in)" src="orig">NNIS1-----A----</AM>
 <AM lemma="in-1_,t_^(angl._v)" src="auto">RR--X----------</AM>
 <AM lemma="in-2_,h_,t" src="auto" recommended="1">AAXXX----1A----</AM>
+<AM lemma="in-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-ln95045-041-p2s1w13">
@@ -246,7 +250,10 @@
 <LM>w#w-ln95045-041-p2s1w23</LM>
 </w.rf>
 <form>Eden</form>
-<tag lemma="Eden-2_;G" src="auto" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="Eden-2_;G" src="auto">NNIS1-----A----</AM>
+<AM lemma="eden" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95045-041-p2s1w24">
 <src.rf>manual</src.rf>
@@ -332,6 +339,8 @@
 <AM lemma="Strange_;K_,t" src="orig">AAXXX----1A----</AM>
 <AM lemma="Strange_;S" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Strange_;S" src="auto">NNMS5-----A----</AM>
+<AM lemma="strange_,t" src="manual">AAXXX----1A----</AM>
+<AM lemma="Strange-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-ln95045-041-p2s2w10">
@@ -340,7 +349,10 @@
 <LM>w#w-ln95045-041-p2s2w10</LM>
 </w.rf>
 <form>People</form>
-<tag lemma="People_;K_,t_^(Plastic_People)" src="orig" selected="1">NNMXX-----A----</tag>
+<tag>
+<AM lemma="People_;K_,t_^(Plastic_People)" src="orig">NNMXX-----A----</AM>
+<AM lemma="People-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln95045-041-p2s2w11">
 <src.rf>manual</src.rf>
@@ -876,7 +888,10 @@
 <LM>w#w-ln95045-041-p2s6w10</LM>
 </w.rf>
 <form>New</form>
-<tag lemma="New-1_;G_,t_^(součást_míst._jmen)" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="New-1_;G_,t_^(součást_míst._jmen)" src="orig">AAXXX----1A----</AM>
+<AM lemma="New-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln95045-041-p2s6w11">
 <src.rf>manual</src.rf>
@@ -884,7 +899,10 @@
 <LM>w#w-ln95045-041-p2s6w11</LM>
 </w.rf>
 <form>Rock</form>
-<tag lemma="rock-1" src="orig" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="rock-1" src="orig">NNIS1-----A----</AM>
+<AM lemma="Rock-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln95045-041-p2s6w12">
 <src.rf>manual</src.rf>
@@ -892,7 +910,10 @@
 <LM>w#w-ln95045-041-p2s6w12</LM>
 </w.rf>
 <form>Generation</form>
-<tag lemma="Generation_;m_,t" src="orig" selected="1">NNFXX-----A----</tag>
+<tag>
+<AM lemma="Generation_;m_,t" src="orig">NNFXX-----A----</AM>
+<AM lemma="Generation-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln95045-041-p2s6w13">
 <src.rf>manual</src.rf>

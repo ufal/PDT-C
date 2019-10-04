@@ -19,7 +19,10 @@
 <LM>w#w-ln94211-96-p1s1Aw1</LM>
 </w.rf>
 <form>O</form>
-<tag lemma="O-2_;S_^(v_irských_jménech,_př._O'Connor)" src="orig" selected="1">NNXXX-----A----</tag>
+<tag>
+<AM lemma="O-2_;S_^(v_irských_jménech,_př._O'Connor)" src="orig">NNXXX-----A----</AM>
+<AM lemma="O-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94211-96-p1s1Aw2">
 <src.rf>manual</src.rf>
@@ -35,7 +38,10 @@
 <LM>w#w-ln94211-96-p1s1Aw3</LM>
 </w.rf>
 <form>Connel</form>
-<tag lemma="Connel_;S" src="auto" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Connel_;S" src="auto">NNMS1-----A----</AM>
+<AM lemma="Connel-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94211-96-p1s1Aw4">
 <src.rf>manual</src.rf>
@@ -43,7 +49,10 @@
 <LM>w#w-ln94211-96-p1s1Aw4</LM>
 </w.rf>
 <form>street</form>
-<tag lemma="street_;G_,t" src="orig" selected="1">NNFXX-----A----</tag>
+<tag>
+<AM lemma="street_;G_,t" src="orig">NNFXX-----A----</AM>
+<AM lemma="street-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94211-96-p1s1Aw5">
 <src.rf>manual</src.rf>

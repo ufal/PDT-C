@@ -193,7 +193,10 @@
 <LM>w#w-ln95041-120-p3s1Bw11</LM>
 </w.rf>
 <form>ECU</form>
-<tag lemma="ECU_:B_;b" src="auto" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ECU_:B_;b" src="auto">NNFXX-----A---8</AM>
+<AM lemma="ECU-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln95041-120-p3s1Bw12">
 <src.rf>manual</src.rf>
@@ -257,7 +260,10 @@
 <LM>w#w-ln95041-120-p3s1Bw19</LM>
 </w.rf>
 <form>EU</form>
-<tag lemma="EU-1_:B_;K_;p_^(Evropská_Unie)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="EU-1_:B_;K_;p_^(Evropská_Unie)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="EU-1_:B_;K_^(Evropská_Unie)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95041-120-p3s1Bw20">
 <src.rf>manual</src.rf>
@@ -297,7 +303,10 @@
 <LM>w#w-ln95041-120-p3s1Bw24</LM>
 </w.rf>
 <form>Phare</form>
-<tag lemma="Phare_;K" src="orig" selected="1">NNIXX-----A----</tag>
+<tag>
+<AM lemma="Phare_;K" src="orig">NNIXX-----A----</AM>
+<AM lemma="Phare-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln95041-120-p3s1Bw25">
 <src.rf>manual</src.rf>
@@ -437,7 +446,10 @@
 <LM>w#w-ln95041-120-p4s1w5</LM>
 </w.rf>
 <form>Attila</form>
-<tag lemma="Attila_;Y_,t" src="auto" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Attila_;Y_,t" src="auto">NNMS1-----A----</AM>
+<AM lemma="Attila_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95041-120-p4s1w6">
 <src.rf>manual</src.rf>
@@ -541,7 +553,10 @@
 <LM>w#w-ln95041-120-p4s1w18</LM>
 </w.rf>
 <form>ECU</form>
-<tag lemma="ECU_:B_;b" src="auto" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ECU_:B_;b" src="auto">NNFXX-----A---8</AM>
+<AM lemma="ECU-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln95041-120-p4s1w19">
 <src.rf>manual</src.rf>
@@ -851,7 +866,10 @@
 <LM>w#w-ln95041-120-p5s2w11</LM>
 </w.rf>
 <form>Tempus</form>
-<tag lemma="Tempus_;Y" src="orig" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="Tempus_;Y" src="orig">NNIS1-----A----</AM>
+<AM lemma="Tempus-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln95041-120-p5s2w12">
 <src.rf>manual</src.rf>
@@ -899,7 +917,10 @@
 <LM>w#w-ln95041-120-p5s2w17</LM>
 </w.rf>
 <form>ECU</form>
-<tag lemma="ECU_:B_;b" src="auto" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ECU_:B_;b" src="auto">NNFXX-----A---8</AM>
+<AM lemma="ECU-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln95041-120-p5s2w18">
 <src.rf>manual</src.rf>

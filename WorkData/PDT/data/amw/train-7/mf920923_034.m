@@ -385,7 +385,10 @@
 <LM>w#w-mf920923-034-p2s3w8</LM>
 </w.rf>
 <form>Creative</form>
-<tag lemma="Creative_;K_,t_^(Creative_Labs)" src="auto" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="Creative_;K_,t_^(Creative_Labs)" src="auto">AAXXX----1A----</AM>
+<AM lemma="Creative-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-mf920923-034-p2s3w9">
 <src.rf>manual</src.rf>
@@ -394,7 +397,10 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>Communications</form>
-<tag lemma="Communication_;K_,t" src="orig" selected="1">NNFPX-----A----</tag>
+<tag>
+<AM lemma="Communication_;K_,t" src="orig">NNFPX-----A----</AM>
+<AM lemma="Communications-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-mf920923-034-p2s3w10">
 <src.rf>manual</src.rf>
@@ -434,7 +440,10 @@
 <LM>w#w-mf920923-034-p2s3w14</LM>
 </w.rf>
 <form>Czechoslovakia</form>
-<tag lemma="Czechoslovakia_;K_,t" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="Czechoslovakia_;K_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="Czechoslovakia-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-mf920923-034-p2s3w15">
 <src.rf>manual</src.rf>
@@ -442,7 +451,10 @@
 <LM>w#w-mf920923-034-p2s3w15</LM>
 </w.rf>
 <form>Trading</form>
-<tag lemma="Trading_;K_,t" src="orig" selected="1">NNIXX-----A----</tag>
+<tag>
+<AM lemma="Trading_;K_,t" src="orig">NNIXX-----A----</AM>
+<AM lemma="Trading-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-mf920923-034-p2s3w16">
 <src.rf>manual</src.rf>
@@ -646,7 +658,7 @@
 <form>přičemž</form>
 <tag>
 <AM lemma="přičemž" src="orig">J,-------------</AM>
-<AM lemma="přičemž" src="auto" recommended="1">Db-------------</AM>
+<AM lemma="přičemž" src="auto" recommended="1" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m-mf920923-034-p2s4w8">
@@ -809,7 +821,10 @@
 <LM>w#w-mf920923-034-p2s5w6</LM>
 </w.rf>
 <form>MUDr</form>
-<tag lemma="MUDr-1_:B_^(doktor_medicíny)" src="orig" selected="1">NNMXX-----A---8</tag>
+<tag>
+<AM lemma="MUDr-1_:B_^(doktor_medicíny)" src="orig">NNMXX-----A---8</AM>
+<AM lemma="MUDr_:B_^(doktor_medicíny)" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-mf920923-034-p2s5w7">
 <src.rf>manual</src.rf>

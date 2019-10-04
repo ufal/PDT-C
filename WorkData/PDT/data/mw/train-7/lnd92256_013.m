@@ -61,7 +61,10 @@
 <LM>w#w-lnd92256-013-p2s1w3</LM>
 </w.rf>
 <form>mot</form>
-<tag lemma="mot-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="mot-99_:B_;S" src="orig">NNXXX-----A---8</AM>
+<AM lemma="mot-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92256-013-p2s1w4">
 <src.rf>manual</src.rf>
@@ -103,7 +106,10 @@
 <LM>w#w-lnd92256-013-p2s2w3</LM>
 </w.rf>
 <form>s</form>
-<tag lemma="společnost_:B" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="společnost_:B" src="orig">NNFXX-----A---8</AM>
+<AM lemma="společnost" src="manual" selected="1">NNFXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd92256-013-p2s2w4">
 <src.rf>manual</src.rf>
@@ -127,7 +133,10 @@
 <LM>w#w-lnd92256-013-p2s2w6</LM>
 </w.rf>
 <form>r</form>
-<tag lemma="ručení_:B" src="orig" selected="1">NNNS7-----A---8</tag>
+<tag>
+<AM lemma="ručení_:B" src="orig">NNNS7-----A---8</AM>
+<AM lemma="ručení" src="manual" selected="1">NNNS7-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd92256-013-p2s2w7">
 <src.rf>manual</src.rf>
@@ -143,7 +152,10 @@
 <LM>w#w-lnd92256-013-p2s2w8</LM>
 </w.rf>
 <form>o</form>
-<tag lemma="omezený_:B" src="orig" selected="1">AANS7----1A---8</tag>
+<tag>
+<AM lemma="omezený_:B" src="orig">AANS7----1A---8</AM>
+<AM lemma="omezený" src="manual" selected="1">AANS7----1A---8</AM>
+</tag>
 </m>
 <m id="m-lnd92256-013-p2s2w9">
 <src.rf>manual</src.rf>
@@ -247,7 +259,10 @@
 <LM>w#w-lnd92256-013-p2s2w21</LM>
 </w.rf>
 <form>Free</form>
-<tag lemma="free_,t" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="free_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="Free-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-lnd92256-013-p2s2w22">
 <src.rf>manual</src.rf>
@@ -255,7 +270,10 @@
 <LM>w#w-lnd92256-013-p2s2w22</LM>
 </w.rf>
 <form>Zone</form>
-<tag lemma="zone_,t" src="orig" selected="1">NNFXX-----A----</tag>
+<tag>
+<AM lemma="zone_,t" src="orig">NNFXX-----A----</AM>
+<AM lemma="Zone-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-lnd92256-013-p2s2w23">
 <src.rf>manual</src.rf>
@@ -303,7 +321,10 @@
 <LM>w#w-lnd92256-013-p2s2w28</LM>
 </w.rf>
 <form>nesolventnost</form>
-<tag lemma="nesolventnost" src="orig" selected="1">NNFS4-----A----</tag>
+<tag>
+<AM lemma="nesolventnost" src="orig">NNFS4-----A----</AM>
+<AM lemma="solventnost" src="manual" selected="1">NNFS4-----N----</AM>
+</tag>
 </m>
 <m id="m-lnd92256-013-p2s2w29">
 <src.rf>manual</src.rf>

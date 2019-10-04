@@ -553,7 +553,10 @@
 <LM>w#w-ln94207-138-p3s1w24</LM>
 </w.rf>
 <form>milionový</form>
-<tag lemma="miliónový" src="orig" selected="1">AAIS4----1A----</tag>
+<tag>
+<AM lemma="miliónový" src="orig">AAIS4----1A----</AM>
+<AM lemma="milionový_,s_^(^DD**miliónový)" src="manual" selected="1">AAIS4----1A----</AM>
+</tag>
 </m>
 <m id="m-ln94207-138-p3s1w25">
 <src.rf>manual</src.rf>
@@ -1437,7 +1440,7 @@
 <form>Ačkoliv</form>
 <tag>
 <AM lemma="ačkoliv" src="orig">J,-------------</AM>
-<AM lemma="ačkoli" src="auto" recommended="1">J,------------1</AM>
+<AM lemma="ačkoli" src="auto" recommended="1" selected="1">J,------------1</AM>
 </tag>
 </m>
 <m id="m-ln94207-138-p4s2w2">
@@ -2201,7 +2204,10 @@
 <LM>w#w-ln94207-138-p5s5w1</LM>
 </w.rf>
 <form>Z</form>
-<tag lemma="Z-0_:B_;Y" src="orig" selected="1">NNMXX-----A---8</tag>
+<tag>
+<AM lemma="Z-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
+<AM lemma="Z-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94207-138-p5s5w2">
 <src.rf>manual</src.rf>

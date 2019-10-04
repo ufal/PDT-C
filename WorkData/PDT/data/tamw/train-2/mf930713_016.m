@@ -79,7 +79,10 @@
 <LM>w#w-mf930713-016-p2s1Bw2</LM>
 </w.rf>
 <form>Nigela</form>
-<tag lemma="Nigel_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag>
+<AM lemma="Nigel_;S" src="orig">NNMS2-----A----</AM>
+<AM lemma="Nigel_;S_;Y" src="manual" selected="1">NNMS2-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930713-016-p2s1Bw3">
 <src.rf>manual</src.rf>

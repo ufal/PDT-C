@@ -27,7 +27,10 @@
 <LM>w#w-mf920901-106-p1s1Aw2</LM>
 </w.rf>
 <form>OSN</form>
-<tag lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920901-106-p1s1Aw3">
 <src.rf>manual</src.rf>
@@ -323,7 +326,10 @@
 <LM>w#w-mf920901-106-p2s3w6</LM>
 </w.rf>
 <form>OSN</form>
-<tag lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920901-106-p2s3w7">
 <src.rf>manual</src.rf>
@@ -463,7 +469,7 @@
 <form>Mazowiecki</form>
 <tag>
 <AM lemma="Mazowiecki_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Mazowiecký_;S" src="auto" recommended="1">NNMS1-----A---1</AM>
+<AM lemma="Mazowiecký_;S" src="auto" recommended="1" selected="1">NNMS1-----A---1</AM>
 <AM lemma="Mazowiecký_;S" src="auto">NNMS5-----A---1</AM>
 </tag>
 </m>
@@ -675,7 +681,10 @@
 <LM>w#w-mf920901-106-p4s1w7</LM>
 </w.rf>
 <form>tzv</form>
-<tag lemma="takzvaný_:B" src="orig" selected="1">AAXXX----1A---8</tag>
+<tag>
+<AM lemma="takzvaný_:B" src="orig">AAXXX----1A---8</AM>
+<AM lemma="takzvaný" src="manual" selected="1">AAXXX----1A---8</AM>
+</tag>
 </m>
 <m id="m-mf920901-106-p4s1w8">
 <src.rf>manual</src.rf>
@@ -1039,7 +1048,10 @@
 <LM>w#w-mf920901-106-p4s3w10</LM>
 </w.rf>
 <form>OSN</form>
-<tag lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920901-106-p4s3w11">
 <src.rf>manual</src.rf>
@@ -1179,7 +1191,7 @@
 <form>Mazowiecki</form>
 <tag>
 <AM lemma="Mazowiecki_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Mazowiecký_;S" src="auto" recommended="1">NNMS1-----A---1</AM>
+<AM lemma="Mazowiecký_;S" src="auto" recommended="1" selected="1">NNMS1-----A---1</AM>
 <AM lemma="Mazowiecký_;S" src="auto">NNMS5-----A---1</AM>
 </tag>
 </m>
@@ -1669,7 +1681,10 @@
 <LM>w#w-mf920901-106-p5s1w3</LM>
 </w.rf>
 <form>OSN</form>
-<tag lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920901-106-p5s1w4">
 <src.rf>manual</src.rf>
@@ -2047,7 +2062,10 @@
 <LM>w#w-mf920901-106-p5s2w23</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-2" src="auto" selected="1">Dg-------2A----</tag>
+<tag>
+<AM lemma="hodně-2" src="auto">Dg-------2A----</AM>
+<AM lemma="hodně-3" src="manual" selected="1">Dg-------2A----</AM>
+</tag>
 </m>
 <m id="m-mf920901-106-p5s2w24">
 <src.rf>manual</src.rf>

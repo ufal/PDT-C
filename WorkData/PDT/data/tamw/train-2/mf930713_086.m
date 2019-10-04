@@ -126,7 +126,10 @@
 <LM>w#w-mf930713-086-p2s2Aw3</LM>
 </w.rf>
 <form>jkl</form>
-<tag lemma="jkl-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="jkl-99_:B_;S" src="orig">NNXXX-----A---8</AM>
+<AM lemma="jkl-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930713-086-p2s2Aw4">
 <src.rf>manual</src.rf>
@@ -142,7 +145,10 @@
 <LM>w#w-mf930713-086-p2s2Aw5</LM>
 </w.rf>
 <form>jh</form>
-<tag lemma="jh-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="jh-99_:B_;S" src="orig">NNXXX-----A---8</AM>
+<AM lemma="jh-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930713-086-p2s2Aw6">
 <src.rf>manual</src.rf>
@@ -996,7 +1002,7 @@
 <form>totiž</form>
 <tag>
 <AM lemma="totiž" src="orig">Db-------------</AM>
-<AM lemma="totiž-1" src="auto" recommended="1">J^-------------</AM>
+<AM lemma="totiž-1" src="auto" recommended="1" selected="1">J^-------------</AM>
 <AM lemma="totiž-2" src="auto">TT-------------</AM>
 </tag>
 </m>

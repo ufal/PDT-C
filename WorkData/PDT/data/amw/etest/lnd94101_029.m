@@ -127,7 +127,10 @@
 <LM>w#w-lnd94101-029-p1s3w5</LM>
 </w.rf>
 <form>chtít</form>
-<tag lemma="chtít" src="orig" selected="1">Vf--------A----</tag>
+<tag>
+<AM lemma="chtít" src="orig">Vf--------A----</AM>
+<AM lemma="chtít_:T" src="manual" selected="1">Vf--------A----</AM>
+</tag>
 </m>
 <m id="m-lnd94101-029-p1s3w6">
 <src.rf>manual</src.rf>
@@ -135,7 +138,10 @@
 <LM>w#w-lnd94101-029-p1s3w6</LM>
 </w.rf>
 <form>vjet</form>
-<tag lemma="vjet" src="orig" selected="1">Vf--------A----</tag>
+<tag>
+<AM lemma="vjet" src="orig">Vf--------A----</AM>
+<AM lemma="vjet_:W" src="manual" selected="1">Vf--------A----</AM>
+</tag>
 </m>
 <m id="m-lnd94101-029-p1s3w7">
 <src.rf>manual</src.rf>
@@ -410,7 +416,10 @@
 <LM>w#w-lnd94101-029-p1s4w3</LM>
 </w.rf>
 <form>řekl</form>
-<tag lemma="říci" src="auto" selected="1">VpYS---XR-AA---</tag>
+<tag>
+<AM lemma="říci" src="auto">VpYS---XR-AA---</AM>
+<AM lemma="říci_:W" src="manual" selected="1">VpYS---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-lnd94101-029-p1s4w4">
 <src.rf>manual</src.rf>
@@ -458,7 +467,10 @@
 <LM>w#w-lnd94101-029-p1s4w9</LM>
 </w.rf>
 <form>Krejčí</form>
-<tag lemma="krejčí" src="orig" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="krejčí" src="orig">NNMS1-----A----</AM>
+<AM lemma="Krejčí_;S" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd94101-029-p1s4w10">
 <src.rf>manual</src.rf>
@@ -573,7 +585,7 @@
 <tag>
 <AM lemma="tedy" src="orig">Db-------------</AM>
 <AM lemma="tedy-1" src="auto">TT-------------</AM>
-<AM lemma="tedy-2" src="auto" recommended="1">J^-------------</AM>
+<AM lemma="tedy-2" src="auto" recommended="1" selected="1">J^-------------</AM>
 </tag>
 </m>
 <m id="m-lnd94101-029-p1s4w24">
@@ -680,7 +692,10 @@
 <LM>w#w-lnd94101-029-p1s5w3</LM>
 </w.rf>
 <form>řekl</form>
-<tag lemma="říci" src="auto" selected="1">VpYS---XR-AA---</tag>
+<tag>
+<AM lemma="říci" src="auto">VpYS---XR-AA---</AM>
+<AM lemma="říci_:W" src="manual" selected="1">VpYS---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-lnd94101-029-p1s5w4">
 <src.rf>manual</src.rf>
@@ -1232,7 +1247,10 @@
 <LM>w#w-lnd94101-029-p1s9w4</LM>
 </w.rf>
 <form>neprojede</form>
-<tag lemma="projet_^(např._autem)" src="orig" selected="1">VB-S---3P-NA---</tag>
+<tag>
+<AM lemma="projet_^(např._autem)" src="orig">VB-S---3P-NA---</AM>
+<AM lemma="projet_:W_^(např._autem)" src="manual" selected="1">VB-S---3P-NA---</AM>
+</tag>
 </m>
 <m id="m-lnd94101-029-p1s9w5">
 <src.rf>manual</src.rf>

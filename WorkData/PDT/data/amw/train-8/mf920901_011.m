@@ -720,7 +720,10 @@
 <LM>w#w-mf920901-011-p3s2w7</LM>
 </w.rf>
 <form>určeno</form>
-<tag lemma="určit" src="orig" selected="1">VsNS---XX-AP---</tag>
+<tag>
+<AM lemma="určit" src="orig">VsNS---XX-AP---</AM>
+<AM lemma="určit_:W" src="manual" selected="1">VsNS---XX-AP---</AM>
+</tag>
 </m>
 <m id="m-mf920901-011-p3s2w8">
 <src.rf>manual</src.rf>
@@ -916,7 +919,10 @@
 <LM>w#w-mf920901-011-p3s4w6</LM>
 </w.rf>
 <form>určeno</form>
-<tag lemma="určit" src="orig" selected="1">VsNS---XX-AP---</tag>
+<tag>
+<AM lemma="určit" src="orig">VsNS---XX-AP---</AM>
+<AM lemma="určit_:W" src="manual" selected="1">VsNS---XX-AP---</AM>
+</tag>
 </m>
 <m id="m-mf920901-011-p3s4w7">
 <src.rf>manual</src.rf>
@@ -1495,7 +1501,10 @@
 <LM>w#w-mf920901-011-p4s5w4</LM>
 </w.rf>
 <form>mají</form>
-<tag lemma="mít" src="orig" selected="1">VB-P---3P-AA---</tag>
+<tag>
+<AM lemma="mít" src="orig">VB-P---3P-AA---</AM>
+<AM lemma="mít_:T" src="manual" selected="1">VB-P---3P-AA---</AM>
+</tag>
 </m>
 <m id="m-mf920901-011-p4s5w5">
 <src.rf>manual</src.rf>
@@ -1877,7 +1886,10 @@
 <LM>w#w-mf920901-011-p4s8w14</LM>
 </w.rf>
 <form>Nippon</form>
-<tag lemma="Nippon_;G" src="orig" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="Nippon_;G" src="orig">NNIS1-----A----</AM>
+<AM lemma="Nippon-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-mf920901-011-p4s8w15">
 <src.rf>manual</src.rf>
@@ -1885,7 +1897,10 @@
 <LM>w#w-mf920901-011-p4s8w15</LM>
 </w.rf>
 <form>Telegraph</form>
-<tag lemma="Telegraph-1_;K_,t_^(souč._názvu_Daily_T.)" src="orig" selected="1">NNIXX-----A----</tag>
+<tag>
+<AM lemma="Telegraph-1_;K_,t_^(souč._názvu_Daily_T.)" src="orig">NNIXX-----A----</AM>
+<AM lemma="Telegraph-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-mf920901-011-p4s8w16">
 <src.rf>manual</src.rf>
@@ -1893,7 +1908,10 @@
 <LM>w#w-mf920901-011-p4s8w16</LM>
 </w.rf>
 <form>and</form>
-<tag lemma="and-1_,t_^(obv._souč._anglických_názvů,_&quot;a&quot;)" src="auto" selected="1">J^-------------</tag>
+<tag>
+<AM lemma="and-1_,t_^(obv._souč._anglických_názvů,_&quot;a&quot;)" src="auto">J^-------------</AM>
+<AM lemma="and-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-mf920901-011-p4s8w17">
 <src.rf>manual</src.rf>
@@ -1901,7 +1919,10 @@
 <LM>w#w-mf920901-011-p4s8w17</LM>
 </w.rf>
 <form>Telephone</form>
-<tag lemma="Telephone_;K_,t" src="orig" selected="1">NNIXX-----A----</tag>
+<tag>
+<AM lemma="Telephone_;K_,t" src="orig">NNIXX-----A----</AM>
+<AM lemma="Telephone-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-mf920901-011-p4s8w18">
 <src.rf>manual</src.rf>
@@ -1983,7 +2004,10 @@
 <LM>w#w-mf920901-011-p4s9w9</LM>
 </w.rf>
 <form>Japan</form>
-<tag lemma="japan" src="orig" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="japan" src="orig">NNIS1-----A----</AM>
+<AM lemma="Japan-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-mf920901-011-p4s9w10">
 <src.rf>manual</src.rf>
@@ -1991,7 +2015,11 @@
 <LM>w#w-mf920901-011-p4s9w10</LM>
 </w.rf>
 <form>Tobacco</form>
-<tag lemma="Tobacco_;K_,t" src="orig" selected="1">NNIXX-----A----</tag>
+<tag>
+<AM lemma="Tobacco_;K_,t" src="orig">NNIXX-----A----</AM>
+<AM lemma="tobacco_,t" src="manual">NNXXX-----A----</AM>
+<AM lemma="Tobacco-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-mf920901-011-p4s9w11">
 <src.rf>manual</src.rf>
@@ -2018,6 +2046,8 @@
 <tag>
 <AM lemma="JR_:B_;K_,t" src="orig">NNXXX-----A---8</AM>
 <AM lemma="jr_:B" src="auto" recommended="1">NNMSX-----A----</AM>
+<AM lemma="JR_:B" src="manual">NNXXX-----A---8</AM>
+<AM lemma="JR-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920901-011-p4s9w14">
@@ -2030,6 +2060,8 @@
 <AM lemma="East_;K_,t" src="orig">NNIXX-----A----</AM>
 <AM lemma="East_;G_,t_^(součást_míst._jmen)" src="auto" recommended="1">AAXXX----1A----</AM>
 <AM lemma="East_;S" src="auto">NNMS1-----A----</AM>
+<AM lemma="east_,t" src="manual">NNXXX-----A----</AM>
+<AM lemma="East-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-mf920901-011-p4s9w15">

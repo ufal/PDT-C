@@ -134,6 +134,7 @@
 <tag>
 <AM lemma="HB_:B_;K" src="orig">NNXXX-----A---8</AM>
 <AM lemma="Hb_:B" src="auto" recommended="1">NNXXX-----A---8</AM>
+<AM lemma="HB-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95046-016-p1s1w16">
@@ -198,7 +199,10 @@
 <LM>w#w-ln95046-016-p1s1w23</LM>
 </w.rf>
 <form>Dirka</form>
-<tag lemma="Dirk_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag>
+<AM lemma="Dirk_;S" src="orig">NNMS2-----A----</AM>
+<AM lemma="Dirk_;S_;Y" src="manual" selected="1">NNMS2-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95046-016-p1s1w24">
 <src.rf>manual</src.rf>

@@ -395,7 +395,10 @@
 <LM>w#w-ln95040-086-p2s2w7</LM>
 </w.rf>
 <form>Šamil</form>
-<tag lemma="Šamil_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Šamil_;S" src="orig">NNMS1-----A----</AM>
+<AM lemma="Šamil_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95040-086-p2s2w8">
 <src.rf>manual</src.rf>

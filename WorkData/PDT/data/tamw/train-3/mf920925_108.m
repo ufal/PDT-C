@@ -263,7 +263,10 @@
 <LM>w#w-mf920925-108-p2s2w17</LM>
 </w.rf>
 <form>OSN</form>
-<tag lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920925-108-p2s2w18">
 <src.rf>manual</src.rf>
@@ -279,7 +282,10 @@
 <LM>w#w-mf920925-108-p2s2w19</LM>
 </w.rf>
 <form>UNPROFOR</form>
-<tag lemma="UNPROFOR_:B" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="UNPROFOR_:B" src="orig">NNFXX-----A---8</AM>
+<AM lemma="UNPROFOR-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920925-108-p2s2w20">
 <src.rf>manual</src.rf>
@@ -313,7 +319,10 @@
 <LM>w#w-mf920925-108-p3s1w2</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-2" src="auto" selected="1">Dg-------2A----</tag>
+<tag>
+<AM lemma="hodně-2" src="auto">Dg-------2A----</AM>
+<AM lemma="více_^(více_+_2._p.,_více_peněz)" src="manual" selected="1">Ca--6----------</AM>
+</tag>
 </m>
 <m id="m-mf920925-108-p3s1w3">
 <src.rf>manual</src.rf>
@@ -971,7 +980,10 @@
 <LM>w#w-mf920925-108-p5s1w13</LM>
 </w.rf>
 <form>OSN</form>
-<tag lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920925-108-p5s1w14">
 <src.rf>manual</src.rf>
@@ -1133,7 +1145,10 @@
 <LM>w#w-mf920925-108-p6s1w6</LM>
 </w.rf>
 <form>Cyrus</form>
-<tag lemma="Cyrus_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Cyrus_;S" src="orig">NNMS1-----A----</AM>
+<AM lemma="Cyrus_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920925-108-p6s1w7">
 <src.rf>manual</src.rf>
@@ -1165,7 +1180,10 @@
 <LM>w#w-mf920925-108-p6s1w10</LM>
 </w.rf>
 <form>Owen</form>
-<tag lemma="Owen_;Y" src="orig" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Owen_;Y" src="orig">NNMS1-----A----</AM>
+<AM lemma="Owen_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920925-108-p6s1w11">
 <src.rf>manual</src.rf>
@@ -1255,7 +1273,7 @@
 <form>Banja</form>
 <tag>
 <AM lemma="Banja_;G" src="orig">AAXXX----1A----</AM>
-<AM lemma="Banja_;G" src="auto" recommended="1">NNFS1-----A----</AM>
+<AM lemma="Banja_;G" src="auto" recommended="1" selected="1">NNFS1-----A----</AM>
 <AM lemma="bendžo" src="auto">NNNS2-----A----</AM>
 </tag>
 </m>

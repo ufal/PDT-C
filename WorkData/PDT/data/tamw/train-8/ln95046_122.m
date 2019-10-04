@@ -19,7 +19,10 @@
 <LM>w#w-ln95046-122-p1s1w1</LM>
 </w.rf>
 <form>Svit</form>
-<tag lemma="svit" src="orig" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="svit" src="orig">NNIS1-----A----</AM>
+<AM lemma="Svit_;K" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95046-122-p1s1w2">
 <src.rf>manual</src.rf>
@@ -95,7 +98,10 @@
 <LM>w#w-ln95046-122-p2s1Bw3</LM>
 </w.rf>
 <form>Svit</form>
-<tag lemma="svit" src="orig" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="svit" src="orig">NNIS1-----A----</AM>
+<AM lemma="Svit_;K" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95046-122-p2s1Bw4">
 <src.rf>manual</src.rf>
@@ -199,7 +205,10 @@
 <LM>w#w-ln95046-122-p2s1Bw16</LM>
 </w.rf>
 <form>SSSR</form>
-<tag lemma="SSSR_:B_;G_^(Svaz_sov._socialist._republik)" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="SSSR_:B_;G_^(Svaz_sov._socialist._republik)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="SSSR_:B_;G_^(Svaz_sov._socialist._republik)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95046-122-p2s1Bw17">
 <src.rf>manual</src.rf>
@@ -257,7 +266,10 @@
 <LM>w#w-ln95046-122-p3s1w6</LM>
 </w.rf>
 <form>Svit</form>
-<tag lemma="svit" src="orig" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="svit" src="orig">NNIS1-----A----</AM>
+<AM lemma="Svit_;K" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95046-122-p3s1w7">
 <src.rf>manual</src.rf>
@@ -273,7 +285,10 @@
 <LM>w#w-ln95046-122-p3s1w8</LM>
 </w.rf>
 <form>SSSR</form>
-<tag lemma="SSSR_:B_;G_^(Svaz_sov._socialist._republik)" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="SSSR_:B_;G_^(Svaz_sov._socialist._republik)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="SSSR_:B_;G_^(Svaz_sov._socialist._republik)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95046-122-p3s1w9">
 <src.rf>manual</src.rf>
@@ -551,7 +566,10 @@
 <LM>w#w-ln95046-122-p3s4w4</LM>
 </w.rf>
 <form>Svitu</form>
-<tag lemma="svit" src="orig" selected="1">NNIS2-----A----</tag>
+<tag>
+<AM lemma="svit" src="orig">NNIS2-----A----</AM>
+<AM lemma="Svit_;K" src="manual" selected="1">NNIS2-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95046-122-p3s4w5">
 <src.rf>manual</src.rf>
@@ -681,7 +699,10 @@
 <LM>w#w-ln95046-122-p3s5w5</LM>
 </w.rf>
 <form>SNS</form>
-<tag lemma="SNS-2_:B_;G_^(Sdr._nezávislých_států)" src="orig" selected="1">NNNXX-----A---8</tag>
+<tag>
+<AM lemma="SNS-2_:B_;G_^(Sdr._nezávislých_států)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="SNS-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln95046-122-p3s5w6">
 <src.rf>manual</src.rf>
@@ -769,7 +790,10 @@
 <LM>w#w-ln95046-122-p3s5w16</LM>
 </w.rf>
 <form>řekl</form>
-<tag lemma="říci" src="auto" selected="1">VpYS---XR-AA---</tag>
+<tag>
+<AM lemma="říci" src="auto">VpYS---XR-AA---</AM>
+<AM lemma="říci_:W" src="manual" selected="1">VpYS---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-ln95046-122-p3s5w17">
 <src.rf>manual</src.rf>
@@ -777,7 +801,10 @@
 <LM>w#w-ln95046-122-p3s5w17</LM>
 </w.rf>
 <form>V</form>
-<tag lemma="V-0_:B_;Y" src="orig" selected="1">NNMXX-----A---8</tag>
+<tag>
+<AM lemma="V-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
+<AM lemma="V-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln95046-122-p3s5w18">
 <src.rf>manual</src.rf>
@@ -955,7 +982,10 @@
 <LM>w#w-ln95046-122-p4s1w19</LM>
 </w.rf>
 <form>Svit</form>
-<tag lemma="svit" src="orig" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="svit" src="orig">NNIS1-----A----</AM>
+<AM lemma="Svit_;K" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95046-122-p4s1w20">
 <src.rf>manual</src.rf>
@@ -963,7 +993,10 @@
 <LM>w#w-ln95046-122-p4s1w20</LM>
 </w.rf>
 <form>vyvezl</form>
-<tag lemma="vyvézt" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag>
+<AM lemma="vyvézt" src="orig">VpYS---XR-AA---</AM>
+<AM lemma="vyvézt_:W" src="manual" selected="1">VpYS---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-ln95046-122-p4s1w21">
 <src.rf>manual</src.rf>
@@ -1051,7 +1084,10 @@
 <LM>w#w-ln95046-122-p4s1w31</LM>
 </w.rf>
 <form>dolarů</form>
-<tag lemma="dolar_;b" src="orig" selected="1">NNIP2-----A----</tag>
+<tag>
+<AM lemma="dolar_;b" src="orig">NNIP2-----A----</AM>
+<AM lemma="dolar" src="manual" selected="1">NNIP2-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95046-122-p4s1w32">
 <src.rf>manual</src.rf>
@@ -1085,7 +1121,10 @@
 <LM>w#w-ln95046-122-p4s2w3</LM>
 </w.rf>
 <form>strana</form>
-<tag lemma="strana-3_^(u_soudu,_na_úřadě,_smluvní_strany;_na_něčí_straně)" src="orig" selected="1">NNFS1-----A----</tag>
+<tag>
+<AM lemma="strana-3_^(u_soudu,_na_úřadě,_smluvní_strany;_na_něčí_straně)" src="orig">NNFS1-----A----</AM>
+<AM lemma="strana" src="manual" selected="1">NNFS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95046-122-p4s2w4">
 <src.rf>manual</src.rf>
@@ -1457,7 +1496,10 @@
 <LM>w#w-ln95046-122-p6s1w8</LM>
 </w.rf>
 <form>utrpěla</form>
-<tag lemma="utrpět" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag>
+<AM lemma="utrpět" src="orig">VpQW---XR-AA---</AM>
+<AM lemma="utrpět_:W" src="manual" selected="1">VpQW---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-ln95046-122-p6s1w9">
 <src.rf>manual</src.rf>
@@ -1497,7 +1539,10 @@
 <LM>w#w-ln95046-122-p6s1w13</LM>
 </w.rf>
 <form>dosáhl</form>
-<tag lemma="dosáhnout" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag>
+<AM lemma="dosáhnout" src="orig">VpYS---XR-AA---</AM>
+<AM lemma="dosáhnout_:W" src="manual" selected="1">VpYS---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-ln95046-122-p6s1w14">
 <src.rf>manual</src.rf>
@@ -1513,7 +1558,10 @@
 <LM>w#w-ln95046-122-p6s1w15</LM>
 </w.rf>
 <form>Svit</form>
-<tag lemma="svit" src="orig" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="svit" src="orig">NNIS1-----A----</AM>
+<AM lemma="Svit_;K" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95046-122-p6s1w16">
 <src.rf>manual</src.rf>
@@ -1556,6 +1604,8 @@
 <tag>
 <AM lemma="Kč" src="orig">NNFXX-----A----</AM>
 <AM lemma="Kč_:B" src="auto" recommended="1">NNFXX-----A---8</AM>
+<AM lemma="Kč_:B" src="manual">NNXXX-----A----</AM>
+<AM lemma="Kč_:B_^(koruna_česká)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95046-122-p6s1w21">
@@ -1721,7 +1771,10 @@
 <LM>w#w-ln95046-122-p7s1w1</LM>
 </w.rf>
 <form>Management</form>
-<tag lemma="management_,t_^(vedení,_manažment;_angl.)" src="orig" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="management_,t_^(vedení,_manažment;_angl.)" src="orig">NNIS1-----A----</AM>
+<AM lemma="management_,s_^(^DD**manažment)" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95046-122-p7s1w2">
 <src.rf>manual</src.rf>
@@ -1729,7 +1782,10 @@
 <LM>w#w-ln95046-122-p7s1w2</LM>
 </w.rf>
 <form>Svitu</form>
-<tag lemma="svit" src="orig" selected="1">NNIS2-----A----</tag>
+<tag>
+<AM lemma="svit" src="orig">NNIS2-----A----</AM>
+<AM lemma="Svit_;K" src="manual" selected="1">NNIS2-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95046-122-p7s1w3">
 <src.rf>manual</src.rf>
@@ -2013,7 +2069,10 @@
 <LM>w#w-ln95046-122-p8s1w4</LM>
 </w.rf>
 <form>Svitu</form>
-<tag lemma="svit" src="orig" selected="1">NNIS2-----A----</tag>
+<tag>
+<AM lemma="svit" src="orig">NNIS2-----A----</AM>
+<AM lemma="Svit_;K" src="manual" selected="1">NNIS2-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95046-122-p8s1w5">
 <src.rf>manual</src.rf>
@@ -2273,7 +2332,10 @@
 <LM>w#w-ln95046-122-p9s1w1</LM>
 </w.rf>
 <form>Svit</form>
-<tag lemma="svit" src="orig" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="svit" src="orig">NNIS1-----A----</AM>
+<AM lemma="Svit_;K" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95046-122-p9s1w2">
 <src.rf>manual</src.rf>
@@ -2364,7 +2426,7 @@
 <tag>
 <AM lemma="nalézt" src="orig">VpQW---XR-AA---</AM>
 <AM lemma="nalézt-1_^(někam)" src="auto" recommended="1">VpQW---XR-AA---</AM>
-<AM lemma="nalézt-2" src="auto">VpQW---XR-AA---</AM>
+<AM lemma="nalézt-2" src="auto" selected="1">VpQW---XR-AA---</AM>
 </tag>
 </m>
 <m id="m-ln95046-122-p9s1w13">
@@ -2525,7 +2587,10 @@
 <LM>w#w-ln95046-122-p9s1w32</LM>
 </w.rf>
 <form>SSSR</form>
-<tag lemma="SSSR_:B_;G_^(Svaz_sov._socialist._republik)" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="SSSR_:B_;G_^(Svaz_sov._socialist._republik)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="SSSR_:B_;G_^(Svaz_sov._socialist._republik)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95046-122-p9s1w33">
 <src.rf>manual</src.rf>

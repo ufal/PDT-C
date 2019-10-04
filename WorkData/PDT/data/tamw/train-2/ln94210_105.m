@@ -1033,7 +1033,10 @@
 <LM>w#w-ln94210-105-p4s1w9</LM>
 </w.rf>
 <form>Panorama</form>
-<tag lemma="Panorama_;K" src="orig" selected="1">NNFS1-----A----</tag>
+<tag>
+<AM lemma="Panorama_;K" src="orig">NNFS1-----A----</AM>
+<AM lemma="panorama_,s_^(^DD**panoráma)" src="manual" selected="1">NNNS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94210-105-p4s1w10">
 <src.rf>manual</src.rf>
@@ -1399,6 +1402,7 @@
 <AM lemma="Max_;Y" src="auto">NNMS6-----A----</AM>
 <AM lemma="maxi" src="auto">A2--------A----</AM>
 <AM lemma="maxi_,h_,t" src="auto" recommended="1">AAXXX----1A----</AM>
+<AM lemma="Maxi_;Y" src="manual" selected="1">NNFXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94210-105-p4s3w27">
@@ -1408,7 +1412,7 @@
 </w.rf>
 <form>Marysko</form>
 <tag>
-<AM lemma="Marysko_;S" src="orig">NNXXX-----A----</AM>
+<AM lemma="Marysko_;S" src="orig" selected="1">NNXXX-----A----</AM>
 <AM lemma="Maryska_;S" src="auto">NNMS5-----A----</AM>
 <AM lemma="Marysko_;S" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Marysko_;S" src="auto">NNMS5-----A----</AM>
@@ -2091,7 +2095,7 @@
 <AM lemma="vydávání-1_^(emitovat:_cenné_papíry,_knihu,_zvuk,...)_(*7at-1)" src="orig">NNNP4-----A----</AM>
 <AM lemma="vydávání-1_^(emitovat:_cenné_papíry,_knihu,_zvuk,...)_(*5at-1)" src="auto">NNNP1-----A----</AM>
 <AM lemma="vydávání-1_^(emitovat:_cenné_papíry,_knihu,_zvuk,...)_(*5at-1)" src="auto">NNNP2-----A----</AM>
-<AM lemma="vydávání-1_^(emitovat:_cenné_papíry,_knihu,_zvuk,...)_(*5at-1)" src="auto">NNNP4-----A----</AM>
+<AM lemma="vydávání-1_^(emitovat:_cenné_papíry,_knihu,_zvuk,...)_(*5at-1)" src="auto" selected="1">NNNP4-----A----</AM>
 <AM lemma="vydávání-1_^(emitovat:_cenné_papíry,_knihu,_zvuk,...)_(*5at-1)" src="auto">NNNP5-----A----</AM>
 <AM lemma="vydávání-1_^(emitovat:_cenné_papíry,_knihu,_zvuk,...)_(*5at-1)" src="auto">NNNS1-----A----</AM>
 <AM lemma="vydávání-1_^(emitovat:_cenné_papíry,_knihu,_zvuk,...)_(*5at-1)" src="auto">NNNS2-----A----</AM>

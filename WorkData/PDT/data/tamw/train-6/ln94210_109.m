@@ -27,7 +27,10 @@
 <LM>w#w-ln94210-109-p1s1w2</LM>
 </w.rf>
 <form>sezona</form>
-<tag lemma="sezóna" src="orig" selected="1">NNFS1-----A----</tag>
+<tag>
+<AM lemma="sezóna" src="orig">NNFS1-----A----</AM>
+<AM lemma="sezona_,s_^(^DD**sezóna)" src="manual" selected="1">NNFS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94210-109-p1s1w3">
 <src.rf>manual</src.rf>
@@ -441,7 +444,10 @@
 <LM>w#w-ln94210-109-p3s1w16</LM>
 </w.rf>
 <form>řekl</form>
-<tag lemma="říci" src="auto" selected="1">VpYS---XR-AA---</tag>
+<tag>
+<AM lemma="říci" src="auto">VpYS---XR-AA---</AM>
+<AM lemma="říci_:W" src="manual" selected="1">VpYS---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-ln94210-109-p3s1w17">
 <src.rf>manual</src.rf>
@@ -457,7 +463,10 @@
 <LM>w#w-ln94210-109-p3s1w18</LM>
 </w.rf>
 <form>LN</form>
-<tag lemma="LN-1_:B_;R_^(Lidové_noviny,_deník)" src="orig" selected="1">NNFPX-----A---8</tag>
+<tag>
+<AM lemma="LN-1_:B_;R_^(Lidové_noviny,_deník)" src="orig">NNFPX-----A---8</AM>
+<AM lemma="LN-1_:B_;K_;R_^(Lidové_noviny)" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln94210-109-p3s1w19">
 <src.rf>manual</src.rf>
@@ -1283,7 +1292,10 @@
 <LM>w#w-ln94210-109-p3s6w5</LM>
 </w.rf>
 <form>Čs</form>
-<tag lemma="československý_:B" src="orig" selected="1">AAXXX----1A---8</tag>
+<tag>
+<AM lemma="československý_:B" src="orig">AAXXX----1A---8</AM>
+<AM lemma="československý" src="manual" selected="1">AAXXX----1A---8</AM>
+</tag>
 </m>
 <m id="m-ln94210-109-p3s6w6">
 <src.rf>manual</src.rf>
@@ -1615,7 +1627,10 @@
 <LM>w#w-ln94210-109-p4s1w2</LM>
 </w.rf>
 <form>sezona</form>
-<tag lemma="sezóna" src="orig" selected="1">NNFS1-----A----</tag>
+<tag>
+<AM lemma="sezóna" src="orig">NNFS1-----A----</AM>
+<AM lemma="sezona_,s_^(^DD**sezóna)" src="manual" selected="1">NNFS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94210-109-p4s1w3">
 <src.rf>manual</src.rf>
@@ -2170,7 +2185,7 @@
 <AM lemma="Čajkovský_;S" src="auto">NNMP1-----A---6</AM>
 <AM lemma="Čajkovský_;S" src="auto">NNMP4-----A---6</AM>
 <AM lemma="Čajkovský_;S" src="auto">NNMP5-----A---6</AM>
-<AM lemma="Čajkovský_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Čajkovský_;S" src="auto" recommended="1" selected="1">NNMS1-----A----</AM>
 <AM lemma="Čajkovský_;S" src="auto">NNMS5-----A----</AM>
 <AM lemma="Čajkovská_;S" src="auto">NNFP1-----A---6</AM>
 <AM lemma="Čajkovská_;S" src="auto">NNFP4-----A---6</AM>
@@ -2236,7 +2251,10 @@
 <LM>w#w-ln94210-109-p4s5w4</LM>
 </w.rf>
 <form>sezony</form>
-<tag lemma="sezóna" src="orig" selected="1">NNFS2-----A----</tag>
+<tag>
+<AM lemma="sezóna" src="orig">NNFS2-----A----</AM>
+<AM lemma="sezona_,s_^(^DD**sezóna)" src="manual" selected="1">NNFS2-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94210-109-p4s5w5">
 <src.rf>manual</src.rf>
@@ -2374,7 +2392,10 @@
 <LM>w#w-ln94210-109-p4s6w6</LM>
 </w.rf>
 <form>sezoně</form>
-<tag lemma="sezóna" src="orig" selected="1">NNFS6-----A----</tag>
+<tag>
+<AM lemma="sezóna" src="orig">NNFS6-----A----</AM>
+<AM lemma="sezona_,s_^(^DD**sezóna)" src="manual" selected="1">NNFS6-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94210-109-p4s6w7">
 <src.rf>manual</src.rf>
@@ -2573,6 +2594,7 @@
 <AM lemma="hektolitr_:B" src="auto" recommended="1">NNIXX-----A---8</AM>
 <AM lemma="hlavní_:B" src="auto">AAXXX----1A---8</AM>
 <AM lemma="hnout_,h_,x" src="auto">VpYS---XR-AA---</AM>
+<AM lemma="hlavní" src="manual" selected="1">AAXXX----1A---8</AM>
 </tag>
 </m>
 <m id="m-ln94210-109-p4s7w12">
@@ -2589,7 +2611,10 @@
 <LM>w#w-ln94210-109-p4s7w13</LM>
 </w.rf>
 <form>m</form>
-<tag lemma="město_:B" src="orig" selected="1">NNNXX-----A---8</tag>
+<tag>
+<AM lemma="město_:B" src="orig">NNNXX-----A---8</AM>
+<AM lemma="město" src="manual" selected="1">NNNXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln94210-109-p4s7w14">
 <src.rf>manual</src.rf>
@@ -2791,7 +2816,10 @@
 <LM>w#w-ln94210-109-p5s1w7</LM>
 </w.rf>
 <form>CD</form>
-<tag lemma="CD-1_:B_;c_;u_;y_,t_^(Audio/Data,_Compact_Disc)" src="auto" selected="1">NNNXX-----A---8</tag>
+<tag>
+<AM lemma="CD-1_:B_;c_;u_;y_,t_^(Audio/Data,_Compact_Disc)" src="auto">NNNXX-----A---8</AM>
+<AM lemma="CD-1_:B_^(Audio/Data,_Compact_Disc)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94210-109-p5s1w8">
 <src.rf>manual</src.rf>
@@ -3297,7 +3325,10 @@
 <LM>w#w-ln94210-109-p5s6w2</LM>
 </w.rf>
 <form>iha</form>
-<tag lemma="iha-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="iha-99_:B_;S" src="orig">NNXXX-----A---8</AM>
+<AM lemma="iha-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94210-109-p5s6w3">
 <src.rf>manual</src.rf>

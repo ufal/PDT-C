@@ -377,7 +377,10 @@
 <LM>w#w-lnd94103-051-p1s4w7</LM>
 </w.rf>
 <form>OSN</form>
-<tag lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd94103-051-p1s4w8">
 <src.rf>manual</src.rf>
@@ -409,7 +412,10 @@
 <LM>w#w-lnd94103-051-p1s4w11</LM>
 </w.rf>
 <form>UNAMIR</form>
-<tag lemma="UNAMIR-1_:B_;K_,t_^(Unit._Nat._Advanced_Mission_in_Rwanda)" src="auto" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="UNAMIR-1_:B_;K_,t_^(Unit._Nat._Advanced_Mission_in_Rwanda)" src="auto">NNFXX-----A---8</AM>
+<AM lemma="UNAMIR-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd94103-051-p1s4w12">
 <src.rf>manual</src.rf>
@@ -547,7 +553,10 @@
 <LM>w#w-lnd94103-051-p1s5w12</LM>
 </w.rf>
 <form>Sainte</form>
-<tag lemma="Sainte_,t" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="Sainte_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="Sainte-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-lnd94103-051-p1s5w13">
 <src.rf>manual</src.rf>
@@ -555,7 +564,10 @@
 <LM>w#w-lnd94103-051-p1s5w13</LM>
 </w.rf>
 <form>Famille</form>
-<tag lemma="Famille_,t" src="orig" selected="1">NNFSX-----A----</tag>
+<tag>
+<AM lemma="Famille_,t" src="orig">NNFSX-----A----</AM>
+<AM lemma="Famille-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-lnd94103-051-p1s5w14">
 <src.rf>manual</src.rf>
@@ -595,7 +607,10 @@
 <LM>w#w-lnd94103-051-p1s5w18</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-2" src="auto" selected="1">Dg-------2A----</tag>
+<tag>
+<AM lemma="hodně-2" src="auto">Dg-------2A----</AM>
+<AM lemma="hodně-3" src="manual" selected="1">Dg-------2A----</AM>
+</tag>
 </m>
 <m id="m-lnd94103-051-p1s5w19">
 <src.rf>manual</src.rf>
@@ -685,7 +700,10 @@
 <LM>w#w-lnd94103-051-p1s6w2</LM>
 </w.rf>
 <form>UNAMIR</form>
-<tag lemma="UNAMIR-1_:B_;K_,t_^(Unit._Nat._Advanced_Mission_in_Rwanda)" src="auto" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="UNAMIR-1_:B_;K_,t_^(Unit._Nat._Advanced_Mission_in_Rwanda)" src="auto">NNFXX-----A---8</AM>
+<AM lemma="UNAMIR-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd94103-051-p1s6w3">
 <src.rf>manual</src.rf>

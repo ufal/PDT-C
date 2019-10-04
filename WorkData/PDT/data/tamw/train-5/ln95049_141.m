@@ -489,7 +489,10 @@
 <LM>w#w-ln95049-141-p2s3w4</LM>
 </w.rf>
 <form>OHS</form>
-<tag lemma="OHS-1_:B_^(okresní_hygienická_stanice)" src="auto" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="OHS-1_:B_^(okresní_hygienická_stanice)" src="auto">NNFXX-----A---8</AM>
+<AM lemma="OHS-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln95049-141-p2s3w5">
 <src.rf>manual</src.rf>
@@ -569,7 +572,10 @@
 <LM>w#w-ln95049-141-p2s3w14</LM>
 </w.rf>
 <form>tel</form>
-<tag lemma="telefon_:B" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="telefon_:B" src="orig">NNIXX-----A---8</AM>
+<AM lemma="telefon" src="manual" selected="1">NNIXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln95049-141-p2s3w15">
 <src.rf>manual</src.rf>
@@ -659,7 +665,10 @@
 <LM>w#w-ln95049-141-p3s1w2</LM>
 </w.rf>
 <form>kurs</form>
-<tag lemma="kurs" src="auto" selected="1">NNIS4-----A----</tag>
+<tag>
+<AM lemma="kurs" src="auto">NNIS4-----A----</AM>
+<AM lemma="kurs_,s_^(^DD**kurz)" src="manual" selected="1">NNIS4-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95049-141-p3s1w3">
 <src.rf>manual</src.rf>
@@ -1154,7 +1163,10 @@
 <LM>w#w-ln95049-141-p3s4w7</LM>
 </w.rf>
 <form>DPH</form>
-<tag lemma="DPH-1_:B_;b" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="DPH-1_:B_;b" src="orig">NNFXX-----A---8</AM>
+<AM lemma="DPH-1_:B_^(daň_z_přidané_hodnoty)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95049-141-p3s4w8">
 <src.rf>manual</src.rf>
@@ -1292,7 +1304,10 @@
 <LM>w#w-ln95049-141-p3s5w8</LM>
 </w.rf>
 <form>s</form>
-<tag lemma="společnost_:B" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="společnost_:B" src="orig">NNFXX-----A---8</AM>
+<AM lemma="společnost" src="manual" selected="1">NNFXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln95049-141-p3s5w9">
 <src.rf>manual</src.rf>
@@ -1308,7 +1323,10 @@
 <LM>w#w-ln95049-141-p3s5w10</LM>
 </w.rf>
 <form>r</form>
-<tag lemma="ručení_:B" src="orig" selected="1">NNNS7-----A---8</tag>
+<tag>
+<AM lemma="ručení_:B" src="orig">NNNS7-----A---8</AM>
+<AM lemma="ručení" src="manual" selected="1">NNNS7-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln95049-141-p3s5w11">
 <src.rf>manual</src.rf>
@@ -1324,7 +1342,10 @@
 <LM>w#w-ln95049-141-p3s5w12</LM>
 </w.rf>
 <form>o</form>
-<tag lemma="omezený_:B" src="orig" selected="1">AANS7----1A---8</tag>
+<tag>
+<AM lemma="omezený_:B" src="orig">AANS7----1A---8</AM>
+<AM lemma="omezený" src="manual" selected="1">AANS7----1A---8</AM>
+</tag>
 </m>
 <m id="m-ln95049-141-p3s5w13">
 <src.rf>manual</src.rf>
@@ -1444,7 +1465,10 @@
 <LM>w#w-ln95049-141-p3s5w27</LM>
 </w.rf>
 <form>tel</form>
-<tag lemma="telefon_:B" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="telefon_:B" src="orig">NNIXX-----A---8</AM>
+<AM lemma="telefon" src="manual" selected="1">NNIXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln95049-141-p3s5w28">
 <src.rf>manual</src.rf>

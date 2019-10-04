@@ -93,7 +93,11 @@
 <LM>w#w-mf920902-020-p1s2w5</LM>
 </w.rf>
 <form>KURSEM</form>
-<tag lemma="kurs" src="auto" selected="1">NNIS7-----A----</tag>
+<tag>
+<AM lemma="kurs" src="auto">NNIS7-----A----</AM>
+<AM lemma="kurz" src="manual">NNIS7-----A----</AM>
+<AM lemma="kurs_,s_^(^DD**kurz)" src="manual" selected="1">NNIS7-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920902-020-p1s2w6">
 <src.rf>manual</src.rf>
@@ -255,7 +259,10 @@
 <LM>w#w-mf920902-020-p2s1w14</LM>
 </w.rf>
 <form>kursem</form>
-<tag lemma="kurs" src="auto" selected="1">NNIS7-----A----</tag>
+<tag>
+<AM lemma="kurs" src="auto">NNIS7-----A----</AM>
+<AM lemma="kurs_,s_^(^DD**kurz)" src="manual" selected="1">NNIS7-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920902-020-p2s1w15">
 <src.rf>manual</src.rf>
@@ -329,7 +336,10 @@
 <LM>w#w-mf920902-020-p2s2w8</LM>
 </w.rf>
 <form>kursem</form>
-<tag lemma="kurs" src="auto" selected="1">NNIS7-----A----</tag>
+<tag>
+<AM lemma="kurs" src="auto">NNIS7-----A----</AM>
+<AM lemma="kurs_,s_^(^DD**kurz)" src="manual" selected="1">NNIS7-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920902-020-p2s2w9">
 <src.rf>manual</src.rf>
@@ -379,7 +389,11 @@
 <LM>w#w-mf920902-020-p2s3Aw2</LM>
 </w.rf>
 <form>Golf</form>
-<tag lemma="Golf_;R_^(vozidlo)" src="auto" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="Golf_;R_^(vozidlo)" src="auto">NNIS1-----A----</AM>
+<AM lemma="Golf_;K_;R_^(vozidlo)" src="manual">NNIS1-----A----</AM>
+<AM lemma="golf-1_^(sport)" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920902-020-p2s3Aw3">
 <src.rf>manual</src.rf>
@@ -403,7 +417,10 @@
 <LM>w#w-mf920902-020-p2s3Aw5</LM>
 </w.rf>
 <form>a</form>
-<tag lemma="akciový_:B_^(jen_akciová_společnost)" src="orig" selected="1">AAXXX----1A---8</tag>
+<tag>
+<AM lemma="akciový_:B_^(jen_akciová_společnost)" src="orig">AAXXX----1A---8</AM>
+<AM lemma="akciový_^(jen_akciová_společnost)" src="manual" selected="1">AAXXX----1A---8</AM>
+</tag>
 </m>
 <m id="m-mf920902-020-p2s3Aw6">
 <src.rf>manual</src.rf>
@@ -419,7 +436,10 @@
 <LM>w#w-mf920902-020-p2s3Aw7</LM>
 </w.rf>
 <form>s</form>
-<tag lemma="společnost_:B" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="společnost_:B" src="orig">NNFXX-----A---8</AM>
+<AM lemma="společnost" src="manual" selected="1">NNFXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-mf920902-020-p2s3Aw8">
 <src.rf>manual</src.rf>
@@ -1038,7 +1058,10 @@
 <LM>w#w-mf920902-020-p2s6w17</LM>
 </w.rf>
 <form>ČSFR</form>
-<tag lemma="ČSFR-1_:B_;G_^(Čs._federativní_republika)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ČSFR-1_:B_;G_^(Čs._federativní_republika)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČSFR-1_:B_;G_^(Čs._federativní_republika)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920902-020-p2s6w18">
 <src.rf>manual</src.rf>
@@ -1120,7 +1143,10 @@
 <LM>w#w-mf920902-020-p2s7w9</LM>
 </w.rf>
 <form>nonstop</form>
-<tag lemma="nonstop-2" src="auto" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="nonstop-2" src="auto">NNIS1-----A----</AM>
+<AM lemma="nonstop-1" src="manual" selected="1">Db-------------</AM>
+</tag>
 </m>
 <m id="m-mf920902-020-p2s7w10">
 <src.rf>manual</src.rf>
@@ -1941,7 +1967,10 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>engineeringu</form>
-<tag lemma="engineering_,t" src="orig" selected="1">NNIS2-----A----</tag>
+<tag>
+<AM lemma="engineering_,t" src="orig">NNIS2-----A----</AM>
+<AM lemma="engineering" src="manual" selected="1">NNIS2-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920902-020-p2s13w8">
 <src.rf>manual</src.rf>

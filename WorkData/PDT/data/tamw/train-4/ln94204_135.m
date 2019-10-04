@@ -119,7 +119,10 @@
 <LM>w#w-ln94204-135-p2s1Aw3</LM>
 </w.rf>
 <form>ljď</form>
-<tag lemma="ljď-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="ljď-99_:B_;S" src="orig">NNXXX-----A---8</AM>
+<AM lemma="ljď-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94204-135-p2s1Aw4">
 <src.rf>manual</src.rf>
@@ -241,7 +244,10 @@
 <LM>w#w-ln94204-135-p2s1Bw13</LM>
 </w.rf>
 <form>FVT</form>
-<tag lemma="FVT_:B_;K" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="FVT_:B_;K" src="orig">NNXXX-----A---8</AM>
+<AM lemma="FVT-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln94204-135-p2s1Bw14">
 <src.rf>manual</src.rf>
@@ -289,7 +295,10 @@
 <LM>w#w-ln94204-135-p2s1Bw19</LM>
 </w.rf>
 <form>TV</form>
-<tag lemma="televize_:B" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="televize_:B" src="orig">NNFXX-----A---8</AM>
+<AM lemma="televize" src="manual" selected="1">NNFXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln94204-135-p2s1Bw20">
 <src.rf>manual</src.rf>
@@ -509,7 +518,10 @@
 <LM>w#w-ln94204-135-p3s2w7</LM>
 </w.rf>
 <form>LN</form>
-<tag lemma="LN-1_:B_;R_^(Lidové_noviny,_deník)" src="orig" selected="1">NNFPX-----A---8</tag>
+<tag>
+<AM lemma="LN-1_:B_;R_^(Lidové_noviny,_deník)" src="orig">NNFPX-----A---8</AM>
+<AM lemma="LN-1_:B_;K_;R_^(Lidové_noviny,_deník)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94204-135-p3s2w8">
 <src.rf>manual</src.rf>
@@ -735,7 +747,10 @@
 <LM>w#w-ln94204-135-p3s3w9</LM>
 </w.rf>
 <form>řekl</form>
-<tag lemma="říci" src="auto" selected="1">VpYS---XR-AA---</tag>
+<tag>
+<AM lemma="říci" src="auto">VpYS---XR-AA---</AM>
+<AM lemma="říci_:W" src="manual" selected="1">VpYS---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-ln94204-135-p3s3w10">
 <src.rf>manual</src.rf>

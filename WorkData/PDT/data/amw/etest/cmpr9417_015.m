@@ -61,7 +61,10 @@
 <LM>w#w-cmpr9417-015-p3s1w3</LM>
 </w.rf>
 <form>ČSAD</form>
-<tag lemma="ČSAD-1_:B_;K_^(Čs._státní_automobilová_doprava)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ČSAD-1_:B_;K_^(Čs._státní_automobilová_doprava)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČSAD-1_:B_;K_^(Čs._státní_automobilová_doprava)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-cmpr9417-015-p3s1w4">
 <src.rf>manual</src.rf>
@@ -369,7 +372,10 @@
 <LM>w#w-cmpr9417-015-p3s3w19</LM>
 </w.rf>
 <form>jen</form>
-<tag lemma="jen-1" src="auto" selected="1">TT-------------</tag>
+<tag>
+<AM lemma="jen-1" src="auto">TT-------------</AM>
+<AM lemma="jen-4_^(pouze)" src="manual" selected="1">Db-------------</AM>
+</tag>
 </m>
 <m id="m-cmpr9417-015-p3s3w20">
 <src.rf>manual</src.rf>
@@ -591,7 +597,10 @@
 <LM>w#w-cmpr9417-015-p3s5w6</LM>
 </w.rf>
 <form>ČSAD</form>
-<tag lemma="ČSAD-1_:B_;K_^(Čs._státní_automobilová_doprava)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ČSAD-1_:B_;K_^(Čs._státní_automobilová_doprava)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČSAD-1_:B_;K_^(Čs._státní_automobilová_doprava)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-cmpr9417-015-p3s5w7">
 <src.rf>manual</src.rf>
@@ -607,7 +616,10 @@
 <LM>w#w-cmpr9417-015-p3s5w8</LM>
 </w.rf>
 <form>opravdu</form>
-<tag lemma="opravdu-1" src="auto" selected="1">Db-------------</tag>
+<tag>
+<AM lemma="opravdu-1" src="auto">Db-------------</AM>
+<AM lemma="opravdu-2" src="manual" selected="1">TT-------------</AM>
+</tag>
 </m>
 <m id="m-cmpr9417-015-p3s5w9">
 <src.rf>manual</src.rf>

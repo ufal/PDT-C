@@ -193,7 +193,7 @@
 <AM lemma="mnohaměsíční" src="auto">AAMS1----1A----</AM>
 <AM lemma="mnohaměsíční" src="auto">AAMS5----1A----</AM>
 <AM lemma="mnohaměsíční" src="auto">AANP1----1A----</AM>
-<AM lemma="mnohaměsíční" src="auto">AANP4----1A----</AM>
+<AM lemma="mnohaměsíční" src="auto" selected="1">AANP4----1A----</AM>
 <AM lemma="mnohaměsíční" src="auto">AANP5----1A----</AM>
 <AM lemma="mnohaměsíční" src="auto">AANS1----1A----</AM>
 <AM lemma="mnohaměsíční" src="auto" recommended="1">AANS4----1A----</AM>
@@ -398,7 +398,10 @@
 <LM>w#w-lnd92259-031-p3s1w30</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-2" src="auto" selected="1">Dg-------2A----</tag>
+<tag>
+<AM lemma="hodně-2" src="auto">Dg-------2A----</AM>
+<AM lemma="hodně-3" src="manual" selected="1">Dg-------2A----</AM>
+</tag>
 </m>
 <m id="m-lnd92259-031-p3s1w31">
 <src.rf>manual</src.rf>
@@ -676,7 +679,10 @@
 <LM>w#w-lnd92259-031-p3s4w11</LM>
 </w.rf>
 <form>JUDr</form>
-<tag lemma="JUDr-1_:B_^(doktor_práv)" src="orig" selected="1">NNMXX-----A---8</tag>
+<tag>
+<AM lemma="JUDr-1_:B_^(doktor_práv)" src="orig">NNMXX-----A---8</AM>
+<AM lemma="JUDr_:B_^(doktor_práv)" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd92259-031-p3s4w12">
 <src.rf>manual</src.rf>
@@ -1602,7 +1608,7 @@
 <form>Nikoli</form>
 <tag>
 <AM lemma="nikoliv" src="orig">Db------------1</AM>
-<AM lemma="nikoli" src="auto" recommended="1">TT-------------</AM>
+<AM lemma="nikoli" src="auto" recommended="1" selected="1">TT-------------</AM>
 </tag>
 </m>
 <m id="m-lnd92259-031-p4s6w2">
@@ -2165,7 +2171,7 @@
 <form>nikoli</form>
 <tag>
 <AM lemma="nikoliv" src="orig">Db------------1</AM>
-<AM lemma="nikoli" src="auto" recommended="1">TT-------------</AM>
+<AM lemma="nikoli" src="auto" recommended="1" selected="1">TT-------------</AM>
 </tag>
 </m>
 <m id="m-lnd92259-031-p6s1w14">
@@ -4692,7 +4698,10 @@
 <LM>w#w-lnd92259-031-p10s4w3</LM>
 </w.rf>
 <form>li</form>
-<tag lemma="li-1" src="auto" selected="1">TT-------------</tag>
+<tag>
+<AM lemma="li-1" src="auto">TT-------------</AM>
+<AM lemma="li-2" src="manual" selected="1">J,-------------</AM>
+</tag>
 </m>
 <m id="m-lnd92259-031-p10s4w4">
 <src.rf>manual</src.rf>
@@ -4748,7 +4757,10 @@
 <LM>w#w-lnd92259-031-p10s4w10</LM>
 </w.rf>
 <form>li</form>
-<tag lemma="li-1" src="auto" selected="1">TT-------------</tag>
+<tag>
+<AM lemma="li-1" src="auto">TT-------------</AM>
+<AM lemma="li-2" src="manual" selected="1">J,-------------</AM>
+</tag>
 </m>
 <m id="m-lnd92259-031-p10s4w11">
 <src.rf>manual</src.rf>

@@ -157,7 +157,10 @@
 <LM>w#w-lnd94104-124-p1s2w2</LM>
 </w.rf>
 <form>ČHMÚ</form>
-<tag lemma="ČHMÚ_:B_;K" src="auto" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="ČHMÚ_:B_;K" src="auto">NNXXX-----A---8</AM>
+<AM lemma="ČHMÚ-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd94104-124-p1s2w3">
 <src.rf>manual</src.rf>

@@ -545,7 +545,10 @@
 <LM>w#w-mf920925-060-p3s2w7</LM>
 </w.rf>
 <form>jako</form>
-<tag lemma="jako-1" src="auto" selected="1">J,-------------</tag>
+<tag>
+<AM lemma="jako-1" src="auto" selected="1">J,-------------</AM>
+<AM lemma="jako-2" src="manual">Db-------------</AM>
+</tag>
 </m>
 <m id="m-mf920925-060-p3s2w8">
 <src.rf>manual</src.rf>
@@ -690,7 +693,10 @@
 <LM>w#w-mf920925-060-p3s2w25</LM>
 </w.rf>
 <form>Kčs</form>
-<tag lemma="Kčs-1_:B_^(Koruna_čs.)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="Kčs-1_:B_^(Koruna_čs.)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="Kčs-1_:B_^(Koruna_čs.)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920925-060-p3s2w26">
 <src.rf>manual</src.rf>
@@ -798,7 +804,7 @@
 <form>totiž</form>
 <tag>
 <AM lemma="totiž" src="orig">Db-------------</AM>
-<AM lemma="totiž-1" src="auto" recommended="1">J^-------------</AM>
+<AM lemma="totiž-1" src="auto" recommended="1" selected="1">J^-------------</AM>
 <AM lemma="totiž-2" src="auto">TT-------------</AM>
 </tag>
 </m>
@@ -908,7 +914,7 @@
 <form>ovšem</form>
 <tag>
 <AM lemma="ovšem-1_^(avšak,_však;_odporovací_spojka)" src="orig">J^-------------</AM>
-<AM lemma="ovšem" src="auto" recommended="1">TT-------------</AM>
+<AM lemma="ovšem" src="auto" recommended="1" selected="1">TT-------------</AM>
 </tag>
 </m>
 <m id="m-mf920925-060-p4s2w9">
@@ -1155,7 +1161,7 @@
 <form>přece</form>
 <tag>
 <AM lemma="přece" src="orig">Db-------------</AM>
-<AM lemma="přece-1" src="auto">J^-------------</AM>
+<AM lemma="přece-1" src="auto" selected="1">J^-------------</AM>
 <AM lemma="přece-2" src="auto" recommended="1">TT-------------</AM>
 </tag>
 </m>
@@ -1847,7 +1853,10 @@
 <LM>w#w-mf920925-060-p5s2w9</LM>
 </w.rf>
 <form>Sokol</form>
-<tag lemma="sokol-1_;L_^(pták)" src="auto" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="sokol-1_;L_^(pták)" src="auto">NNMS1-----A----</AM>
+<AM lemma="Sokol-2_;K_;R_^(organizace)" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920925-060-p5s2w10">
 <src.rf>manual</src.rf>
@@ -2139,7 +2148,10 @@
 <LM>w#w-mf920925-060-p5s3Bw13</LM>
 </w.rf>
 <form>Sokol</form>
-<tag lemma="sokol-1_;L_^(pták)" src="auto" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="sokol-1_;L_^(pták)" src="auto">NNMS1-----A----</AM>
+<AM lemma="Sokol-2_;K_;R_^(organizace)" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920925-060-p5s3Bw14">
 <src.rf>manual</src.rf>
@@ -3291,6 +3303,7 @@
 <AM lemma="dvojpřevodník_,x" src="orig">NNIS4-----A----</AM>
 <AM lemma="dvoupřevodník_,x" src="auto">NNIS1-----A----</AM>
 <AM lemma="dvoupřevodník_,x" src="auto" recommended="1">NNIS4-----A----</AM>
+<AM lemma="dvoupřevodník_,s_^(^DD**dvojpřevodník)" src="manual" selected="1">NNIS4-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920925-060-p7s1w14">
@@ -3503,7 +3516,10 @@
 <LM>w#w-mf920925-060-p7s3w9</LM>
 </w.rf>
 <form>jako</form>
-<tag lemma="jako-1" src="auto" selected="1">J,-------------</tag>
+<tag>
+<AM lemma="jako-1" src="auto" selected="1">J,-------------</AM>
+<AM lemma="jako-2" src="manual">Db-------------</AM>
+</tag>
 </m>
 <m id="m-mf920925-060-p7s3w10">
 <src.rf>manual</src.rf>

@@ -218,7 +218,7 @@
 </w.rf>
 <form>Kuča</form>
 <tag>
-<AM lemma="Kuča_;S" src="orig">NNMS1-----A----</AM>
+<AM lemma="Kuča_;S" src="orig" selected="1">NNMS1-----A----</AM>
 <AM lemma="kuča" src="auto" recommended="1">NNFS1-----A----</AM>
 </tag>
 </m>
@@ -569,7 +569,10 @@
 <LM>w#w-ln95043-066-p2s3w30</LM>
 </w.rf>
 <form>Kuča</form>
-<tag lemma="kuča" src="orig" selected="1">NNFS1-----A----</tag>
+<tag>
+<AM lemma="kuča" src="orig">NNFS1-----A----</AM>
+<AM lemma="Kuča_;S" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95043-066-p2s3w31">
 <src.rf>manual</src.rf>
@@ -599,7 +602,7 @@
 <AM lemma="Petra_;Y" src="orig">NNFS1-----A----</AM>
 <AM lemma="Petr_;Y" src="auto">NNMS2-----A----</AM>
 <AM lemma="Petr_;Y" src="auto">NNMS4-----A----</AM>
-<AM lemma="Petra-1_;Y" src="auto" recommended="1">NNFS1-----A----</AM>
+<AM lemma="Petra-1_;Y" src="auto" recommended="1" selected="1">NNFS1-----A----</AM>
 <AM lemma="Petra-2_;G" src="auto">NNFS1-----A----</AM>
 <AM lemma="Petro_;S" src="auto">NNMS2-----A----</AM>
 <AM lemma="Petro_;S" src="auto">NNMS4-----A----</AM>

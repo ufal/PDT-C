@@ -137,6 +137,8 @@
 <AM lemma="Hannah_;Y" src="orig">NNFXX-----A----</AM>
 <AM lemma="Hannah_;G" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Hannah_;G" src="auto">NNIS4-----A----</AM>
+<AM lemma="Hannah-2_;Y_,t" src="manual">NNXXX-----A----</AM>
+<AM lemma="Hannah-2_;Y" src="manual" selected="1">NNFXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95040-053-p2s1w15">
@@ -315,7 +317,10 @@
 <LM>w#w-ln95040-053-p2s2w11</LM>
 </w.rf>
 <form>Světozor</form>
-<tag lemma="Světozor_;K_;Y" src="orig" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="Světozor_;K_;Y" src="orig">NNIS1-----A----</AM>
+<AM lemma="Světozor_;K" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95040-053-p2s2w12">
 <src.rf>manual</src.rf>
@@ -413,7 +418,10 @@
 <LM>w#w-ln95040-053-p3s1w11</LM>
 </w.rf>
 <form>vydaly</form>
-<tag lemma="vydat-1_:W_^(emitovat:_cenné_papíry,_knihu,_zvuk,...)" src="orig" selected="1">VpTP---XR-AA---</tag>
+<tag>
+<AM lemma="vydat-1_:W_^(emitovat:_cenné_papíry,_knihu,_zvuk,...)" src="orig">VpTP---XR-AA---</AM>
+<AM lemma="vydat_:W" src="manual" selected="1">VpTP---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-ln95040-053-p3s1w12">
 <src.rf>manual</src.rf>
@@ -558,7 +566,10 @@
 <LM>w#w-ln95040-053-p3s1w29</LM>
 </w.rf>
 <form>moravik</form>
-<tag lemma="moravikum_,t" src="orig" selected="1">NNNP2-----A----</tag>
+<tag>
+<AM lemma="moravikum_,t" src="orig">NNNP2-----A----</AM>
+<AM lemma="moravikum" src="manual" selected="1">NNNP2-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95040-053-p3s1w30">
 <src.rf>manual</src.rf>

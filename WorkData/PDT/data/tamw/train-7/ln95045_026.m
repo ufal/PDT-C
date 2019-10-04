@@ -59,7 +59,10 @@
 <LM>w#w-ln95045-026-p1s1w6</LM>
 </w.rf>
 <form>FIFA</form>
-<tag lemma="FIFA_:B_;K" src="auto" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="FIFA_:B_;K" src="auto">NNFXX-----A---8</AM>
+<AM lemma="FIFA-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95045-026-p1s1w7">
 <src.rf>manual</src.rf>
@@ -251,7 +254,10 @@
 <LM>w#w-ln95045-026-p2s3w8</LM>
 </w.rf>
 <form>odpověděl</form>
-<tag lemma="odpovědět" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag>
+<AM lemma="odpovědět" src="orig">VpYS---XR-AA---</AM>
+<AM lemma="odpovědět_:W" src="manual" selected="1">VpYS---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-ln95045-026-p2s3w9">
 <src.rf>manual</src.rf>
@@ -292,7 +298,7 @@
 </w.rf>
 <form>Joao</form>
 <tag>
-<AM lemma="Joao-2_;Y" src="orig">NNMS1-----A----</AM>
+<AM lemma="Joao-2_;Y" src="orig" selected="1">NNMS1-----A----</AM>
 <AM lemma="Joao_;G" src="auto" recommended="1">NNNS1-----A----</AM>
 <AM lemma="Joao_;G" src="auto">NNNS4-----A----</AM>
 <AM lemma="Joao_;G" src="auto">NNNS5-----A----</AM>
@@ -339,6 +345,8 @@
 <tag>
 <AM lemma="SID_:B_;K_^(agentura)" src="orig">NNXXX-----A---8</AM>
 <AM lemma="Sido_;G" src="auto" recommended="1">NNNP2-----A----</AM>
+<AM lemma="SID_:B" src="manual">NNXXX-----A---8</AM>
+<AM lemma="SID-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95045-026-p2s3w19">
@@ -459,7 +467,10 @@
 <LM>w#w-ln95045-026-p2s3w34</LM>
 </w.rf>
 <form>FIFA</form>
-<tag lemma="FIFA_:B_;K" src="auto" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="FIFA_:B_;K" src="auto">NNFXX-----A---8</AM>
+<AM lemma="FIFA-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95045-026-p2s3w35">
 <src.rf>manual</src.rf>
@@ -589,7 +600,10 @@
 <LM>w#w-ln95045-026-p2s4w10</LM>
 </w.rf>
 <form>jen</form>
-<tag lemma="jen-1" src="auto" selected="1">TT-------------</tag>
+<tag>
+<AM lemma="jen-1" src="auto">TT-------------</AM>
+<AM lemma="jen-4_^(pouze)" src="manual" selected="1">Db-------------</AM>
+</tag>
 </m>
 <m id="m-ln95045-026-p2s4w11">
 <src.rf>manual</src.rf>
@@ -701,7 +715,10 @@
 <LM>w#w-ln95045-026-p2s4w24</LM>
 </w.rf>
 <form>uvedl</form>
-<tag lemma="uvést" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag>
+<AM lemma="uvést" src="orig">VpYS---XR-AA---</AM>
+<AM lemma="uvést_:W" src="manual" selected="1">VpYS---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-ln95045-026-p2s4w25">
 <src.rf>manual</src.rf>

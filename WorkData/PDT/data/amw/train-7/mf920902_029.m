@@ -914,7 +914,7 @@
 <tag>
 <AM lemma="tedy" src="orig">Db-------------</AM>
 <AM lemma="tedy-1" src="auto">TT-------------</AM>
-<AM lemma="tedy-2" src="auto" recommended="1">J^-------------</AM>
+<AM lemma="tedy-2" src="auto" recommended="1" selected="1">J^-------------</AM>
 </tag>
 </m>
 <m id="m-mf920902-029-p1s6w4">
@@ -1073,7 +1073,7 @@
 <form>totiž</form>
 <tag>
 <AM lemma="totiž" src="orig">Db-------------</AM>
-<AM lemma="totiž-1" src="auto" recommended="1">J^-------------</AM>
+<AM lemma="totiž-1" src="auto" recommended="1" selected="1">J^-------------</AM>
 <AM lemma="totiž-2" src="auto">TT-------------</AM>
 </tag>
 </m>
@@ -1083,7 +1083,10 @@
 <LM>w#w-mf920902-029-p1s8w3</LM>
 </w.rf>
 <form>jen</form>
-<tag lemma="jen-1" src="auto" selected="1">TT-------------</tag>
+<tag>
+<AM lemma="jen-1" src="auto">TT-------------</AM>
+<AM lemma="jen-4_^(pouze)" src="manual" selected="1">Db-------------</AM>
+</tag>
 </m>
 <m id="m-mf920902-029-p1s8w4">
 <src.rf>manual</src.rf>
@@ -1461,7 +1464,10 @@
 <LM>w#w-mf920902-029-p1s9w11</LM>
 </w.rf>
 <form>jen</form>
-<tag lemma="jen-1" src="auto" selected="1">TT-------------</tag>
+<tag>
+<AM lemma="jen-1" src="auto">TT-------------</AM>
+<AM lemma="jen-4_^(pouze)" src="manual" selected="1">Db-------------</AM>
+</tag>
 </m>
 <m id="m-mf920902-029-p1s9w12">
 <src.rf>manual</src.rf>
@@ -1567,7 +1573,10 @@
 <LM>w#w-mf920902-029-p1s10w11</LM>
 </w.rf>
 <form>paternalismu</form>
-<tag lemma="paternalismus" src="orig" selected="1">NNIS3-----A----</tag>
+<tag>
+<AM lemma="paternalismus" src="orig">NNIS3-----A----</AM>
+<AM lemma="paternalismus_,s_^(^DD**paternalizmus)" src="manual" selected="1">NNIS3-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920902-029-p1s10w12">
 <src.rf>manual</src.rf>

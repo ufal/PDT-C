@@ -143,7 +143,10 @@
 <LM>w#w-ln94210-22-p2s1Bw9</LM>
 </w.rf>
 <form>Dark</form>
-<tag lemma="Dark_;R_,t" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="Dark_;R_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="Dark-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94210-22-p2s1Bw10">
 <src.rf>manual</src.rf>
@@ -233,7 +236,10 @@
 <LM>w#w-ln94210-22-p2s2w7</LM>
 </w.rf>
 <form>začal</form>
-<tag lemma="začít-1_^(začnout)" src="auto" selected="1">VpYS---XR-AA---</tag>
+<tag>
+<AM lemma="začít-1_^(začnout)" src="auto">VpYS---XR-AA---</AM>
+<AM lemma="začít-1_:W_^(začnout)" src="manual" selected="1">VpYS---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-ln94210-22-p2s2w8">
 <src.rf>manual</src.rf>
@@ -363,7 +369,7 @@
 <form>hektolitrů</form>
 <tag>
 <AM lemma="hl-1`hektolitr" src="orig">NNIP2-----A----</AM>
-<AM lemma="hektolitr" src="auto" recommended="1">NNIP2-----A----</AM>
+<AM lemma="hektolitr" src="auto" recommended="1" selected="1">NNIP2-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94210-22-p2s2w24">
@@ -380,7 +386,10 @@
 <LM>w#w-ln94210-22-p2s2w25</LM>
 </w.rf>
 <form>řekl</form>
-<tag lemma="říci" src="auto" selected="1">VpYS---XR-AA---</tag>
+<tag>
+<AM lemma="říci" src="auto">VpYS---XR-AA---</AM>
+<AM lemma="říci_:W" src="manual" selected="1">VpYS---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-ln94210-22-p2s2w26">
 <src.rf>manual</src.rf>
@@ -736,7 +745,10 @@
 <LM>w#w-ln94210-22-p3s2w18</LM>
 </w.rf>
 <form>stal</form>
-<tag lemma="stát-2_^(něco_se_přihodilo)" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag>
+<AM lemma="stát-2_^(něco_se_přihodilo)" src="orig">VpYS---XR-AA---</AM>
+<AM lemma="stát-2_^(stanu_staneš)" src="manual" selected="1">VpYS---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-ln94210-22-p3s2w19">
 <src.rf>manual</src.rf>
@@ -763,7 +775,7 @@
 <tag>
 <AM lemma="Radegast_;K" src="orig">NNIS1-----A----</AM>
 <AM lemma="Radegast-1_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Radegast-2_;K" src="auto" recommended="1">NNIS1-----A----</AM>
+<AM lemma="Radegast-2_;K" src="auto" recommended="1" selected="1">NNIS1-----A----</AM>
 <AM lemma="Radegast-2_;K" src="auto">NNIS4-----A----</AM>
 <AM lemma="Radegast-3_;R" src="auto">NNIS1-----A----</AM>
 <AM lemma="Radegast-3_;R" src="auto">NNIS4-----A----</AM>

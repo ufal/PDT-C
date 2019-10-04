@@ -243,7 +243,10 @@
 <LM>w#w-lnd92254-030-p3s3w11</LM>
 </w.rf>
 <form>A</form>
-<tag lemma="a-1" src="orig" selected="1">J^-------------</tag>
+<tag>
+<AM lemma="a-1" src="orig">J^-------------</AM>
+<AM lemma="A-33_^(označení_pomocí_písmene)" src="manual" selected="1">NNNXX-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92254-030-p3s3w12">
 <src.rf>manual</src.rf>
@@ -267,7 +270,10 @@
 <LM>w#w-lnd92254-030-p3s3w14</LM>
 </w.rf>
 <form>J</form>
-<tag lemma="J-0_:B_;Y" src="orig" selected="1">NNMXX-----A---8</tag>
+<tag>
+<AM lemma="J-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
+<AM lemma="J-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd92254-030-p3s3w15">
 <src.rf>manual</src.rf>
@@ -283,7 +289,10 @@
 <LM>w#w-lnd92254-030-p3s3w16</LM>
 </w.rf>
 <form>Poláka</form>
-<tag lemma="Polák_;E" src="auto" selected="1">NNMS4-----A----</tag>
+<tag>
+<AM lemma="Polák_;E" src="auto">NNMS4-----A----</AM>
+<AM lemma="Polák_;E_;S" src="manual" selected="1">NNMS4-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92254-030-p3s3w17">
 <src.rf>manual</src.rf>
@@ -649,7 +658,10 @@
 <LM>w#w-lnd92254-030-p3s6w7</LM>
 </w.rf>
 <form>pplk</form>
-<tag lemma="podplukovník_:B" src="orig" selected="1">NNMXX-----A---8</tag>
+<tag>
+<AM lemma="podplukovník_:B" src="orig">NNMXX-----A---8</AM>
+<AM lemma="podplukovník" src="manual" selected="1">NNMXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd92254-030-p3s6w8">
 <src.rf>manual</src.rf>
@@ -789,7 +801,10 @@
 <LM>w#w-lnd92254-030-p3s8w8</LM>
 </w.rf>
 <form>tzv</form>
-<tag lemma="takzvaný_:B" src="orig" selected="1">AAXXX----1A---8</tag>
+<tag>
+<AM lemma="takzvaný_:B" src="orig">AAXXX----1A---8</AM>
+<AM lemma="takzvaný" src="manual" selected="1">AAXXX----1A---8</AM>
+</tag>
 </m>
 <m id="m-lnd92254-030-p3s8w9">
 <src.rf>manual</src.rf>

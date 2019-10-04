@@ -19,7 +19,10 @@
 <LM>w#w-ln94206-139-p1s1w1</LM>
 </w.rf>
 <form>RDP</form>
-<tag lemma="RDP-1_:B_,t_^(remote_data_procesing)" src="orig" selected="1">NNNXX-----A---8</tag>
+<tag>
+<AM lemma="RDP-1_:B_,t_^(remote_data_procesing)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="RDP-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94206-139-p1s1w2">
 <src.rf>manual</src.rf>
@@ -27,7 +30,10 @@
 <LM>w#w-ln94206-139-p1s1w2</LM>
 </w.rf>
 <form>Group</form>
-<tag lemma="Group-1_;K_,t_^(obv._souč._názvu_firem,_&quot;skupina&quot;)" src="orig" selected="1">NNFXX-----A----</tag>
+<tag>
+<AM lemma="Group-1_;K_,t_^(obv._souč._názvu_firem,_&quot;skupina&quot;)" src="orig">NNFXX-----A----</AM>
+<AM lemma="Group-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94206-139-p1s1w3">
 <src.rf>manual</src.rf>
@@ -133,7 +139,10 @@
 <LM>w#w-ln94206-139-p2s1Aw5</LM>
 </w.rf>
 <form>čtk</form>
-<tag lemma="ČTK-1_:B_;K_^(Čs./Česká_tisková_kancelář)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ČTK-1_:B_;K_^(Čs./Česká_tisková_kancelář)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČTK_:B_;K_^(Čs./Česká_tisková_kancelář)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94206-139-p2s1Aw6">
 <src.rf>manual</src.rf>
@@ -359,7 +368,10 @@
 <LM>w#w-ln94206-139-p2s1Bw26</LM>
 </w.rf>
 <form>RDP</form>
-<tag lemma="RDP-1_:B_,t_^(remote_data_procesing)" src="orig" selected="1">NNNXX-----A---8</tag>
+<tag>
+<AM lemma="RDP-1_:B_,t_^(remote_data_procesing)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="RDP-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94206-139-p2s1Bw27">
 <src.rf>manual</src.rf>
@@ -367,7 +379,10 @@
 <LM>w#w-ln94206-139-p2s1Bw27</LM>
 </w.rf>
 <form>Group</form>
-<tag lemma="Group-1_;K_,t_^(obv._souč._názvu_firem,_&quot;skupina&quot;)" src="orig" selected="1">NNFXX-----A----</tag>
+<tag>
+<AM lemma="Group-1_;K_,t_^(obv._souč._názvu_firem,_&quot;skupina&quot;)" src="orig">NNFXX-----A----</AM>
+<AM lemma="Group-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94206-139-p2s1Bw28">
 <src.rf>manual</src.rf>
@@ -473,7 +488,10 @@
 <LM>w#w-ln94206-139-p2s2w6</LM>
 </w.rf>
 <form>RDP</form>
-<tag lemma="RDP-1_:B_,t_^(remote_data_procesing)" src="orig" selected="1">NNNXX-----A---8</tag>
+<tag>
+<AM lemma="RDP-1_:B_,t_^(remote_data_procesing)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="RDP-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94206-139-p2s2w7">
 <src.rf>manual</src.rf>
@@ -481,7 +499,10 @@
 <LM>w#w-ln94206-139-p2s2w7</LM>
 </w.rf>
 <form>V</form>
-<tag lemma="V-0_:B_;Y" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="V-0_:B_;Y" src="orig">NNFXX-----A---8</AM>
+<AM lemma="V-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94206-139-p2s2w8">
 <src.rf>manual</src.rf>
@@ -498,7 +519,7 @@
 </w.rf>
 <form>Hradská</form>
 <tag>
-<AM lemma="Hradská_;S" src="orig">NNFS1-----A----</AM>
+<AM lemma="Hradská_;S" src="orig" selected="1">NNFS1-----A----</AM>
 <AM lemma="hradský" src="auto" recommended="1">AAFS1----1A----</AM>
 <AM lemma="hradský" src="auto">AAFS5----1A----</AM>
 <AM lemma="hradský" src="auto">AANP1----1A----</AM>
@@ -654,7 +675,10 @@
 <LM>w#w-ln94206-139-p2s5w1</LM>
 </w.rf>
 <form>RDP</form>
-<tag lemma="RDP-1_:B_,t_^(remote_data_procesing)" src="orig" selected="1">NNNXX-----A---8</tag>
+<tag>
+<AM lemma="RDP-1_:B_,t_^(remote_data_procesing)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="RDP-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94206-139-p2s5w2">
 <src.rf>manual</src.rf>
@@ -1090,7 +1114,10 @@
 <LM>w#w-ln94206-139-p2s7w6</LM>
 </w.rf>
 <form>RDP</form>
-<tag lemma="RDP-1_:B_,t_^(remote_data_procesing)" src="orig" selected="1">NNNXX-----A---8</tag>
+<tag>
+<AM lemma="RDP-1_:B_,t_^(remote_data_procesing)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="RDP-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94206-139-p2s7w7">
 <src.rf>manual</src.rf>
@@ -1574,7 +1601,10 @@
 <LM>w#w-ln94206-139-p3s2w33</LM>
 </w.rf>
 <form>RDP</form>
-<tag lemma="RDP-1_:B_,t_^(remote_data_procesing)" src="orig" selected="1">NNNXX-----A---8</tag>
+<tag>
+<AM lemma="RDP-1_:B_,t_^(remote_data_procesing)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="RDP-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94206-139-p3s2w34">
 <src.rf>manual</src.rf>
@@ -1582,7 +1612,10 @@
 <LM>w#w-ln94206-139-p3s2w34</LM>
 </w.rf>
 <form>Group</form>
-<tag lemma="Group-1_;K_,t_^(obv._souč._názvu_firem,_&quot;skupina&quot;)" src="orig" selected="1">NNFXX-----A----</tag>
+<tag>
+<AM lemma="Group-1_;K_,t_^(obv._souč._názvu_firem,_&quot;skupina&quot;)" src="orig">NNFXX-----A----</AM>
+<AM lemma="Group-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94206-139-p3s2w35">
 <src.rf>manual</src.rf>

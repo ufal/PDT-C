@@ -98,6 +98,7 @@
 <AM lemma="doktor_:B_^(doktor,_akad._titul)" src="auto">NNMXX-----A---8</AM>
 <AM lemma="doktor_:B_^(doktor,_akad._titul)" src="auto" recommended="1">NNXXX-----A---8</AM>
 <AM lemma="doktorka_:B_^(doktorka,_akad._titul)" src="auto">NNFXX-----A---8</AM>
+<AM lemma="dr-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94211-118-p2s1Aw4">
@@ -204,7 +205,10 @@
 <LM>w#w-ln94211-118-p2s1Bw11</LM>
 </w.rf>
 <form>ČOI</form>
-<tag lemma="ČOI_:B_;K" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ČOI_:B_;K" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČOI_:B_;K_^(Česká_obchodní_inspekce)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94211-118-p2s1Bw12">
 <src.rf>manual</src.rf>
@@ -392,7 +396,10 @@
 <LM>w#w-ln94211-118-p2s3w5</LM>
 </w.rf>
 <form>ČOI</form>
-<tag lemma="ČOI_:B_;K" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ČOI_:B_;K" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČOI_:B_;K_^(Česká_obchodní_inspekce)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94211-118-p2s3w6">
 <src.rf>manual</src.rf>
@@ -496,7 +503,10 @@
 <LM>w#w-ln94211-118-p2s3w18</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-2" src="auto" selected="1">Dg-------2A----</tag>
+<tag>
+<AM lemma="hodně-2" src="auto">Dg-------2A----</AM>
+<AM lemma="více_^(více_+_2._p.,_více_peněz)" src="manual" selected="1">Ca--4----------</AM>
+</tag>
 </m>
 <m id="m-ln94211-118-p2s3w19">
 <src.rf>manual</src.rf>
@@ -546,7 +556,10 @@
 <LM>w#w-ln94211-118-p3s1w2</LM>
 </w.rf>
 <form>ČOI</form>
-<tag lemma="ČOI_:B_;K" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ČOI_:B_;K" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČOI_:B_;K_^(Česká_obchodní_inspekce)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94211-118-p3s1w3">
 <src.rf>manual</src.rf>
@@ -782,7 +795,10 @@
 <LM>w#w-ln94211-118-p4s1w2</LM>
 </w.rf>
 <form>ČR</form>
-<tag lemma="ČR-1_:B_;G_^(Česká_republika)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94211-118-p4s1w3">
 <src.rf>manual</src.rf>
@@ -1268,7 +1284,10 @@
 <LM>w#w-ln94211-118-p4s4w4</LM>
 </w.rf>
 <form>ČOI</form>
-<tag lemma="ČOI_:B_;K" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ČOI_:B_;K" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČOI_:B_;K_^(Česká_obchodní_inspekce)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94211-118-p4s4w5">
 <src.rf>manual</src.rf>
@@ -1512,7 +1531,10 @@
 <LM>w#w-ln94211-118-p4s5w14</LM>
 </w.rf>
 <form>ČR</form>
-<tag lemma="ČR-1_:B_;G_^(Česká_republika)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94211-118-p4s5w15">
 <src.rf>manual</src.rf>

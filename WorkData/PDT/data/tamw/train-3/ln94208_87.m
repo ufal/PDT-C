@@ -507,7 +507,10 @@
 <LM>w#w-ln94208-87-p3s2w5</LM>
 </w.rf>
 <form>New</form>
-<tag lemma="New-2_;m_,t_^(angl._nový,_souč._ost._názvů)" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="New-2_;m_,t_^(angl._nový,_souč._ost._názvů)" src="orig">AAXXX----1A----</AM>
+<AM lemma="New-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94208-87-p3s2w6">
 <src.rf>manual</src.rf>
@@ -519,6 +522,8 @@
 <AM lemma="Musical_;R_,t" src="orig">AAXXX----1A----</AM>
 <AM lemma="Musical_;K" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Musical_;K" src="auto">NNIS4-----A----</AM>
+<AM lemma="musical_,t" src="manual">AAXXX----1A----</AM>
+<AM lemma="Musical-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-ln94208-87-p3s2w7">
@@ -531,6 +536,9 @@
 <AM lemma="Express_;R_,t" src="orig">NNIXX-----A----</AM>
 <AM lemma="Express" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Express" src="auto">NNIS4-----A----</AM>
+<AM lemma="Express" src="manual">NNIS1-----A----</AM>
+<AM lemma="express" src="manual">NNIS1-----A----</AM>
+<AM lemma="Express-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-ln94208-87-p3s2w8">
@@ -637,7 +645,10 @@
 <LM>w#w-ln94208-87-p3s3w12</LM>
 </w.rf>
 <form>MTV</form>
-<tag lemma="MTV-1_:B_;K_;y_^(TV_stanice_USA)" src="auto" selected="1">NNNXX-----A---8</tag>
+<tag>
+<AM lemma="MTV-1_:B_;K_;y_^(TV_stanice_USA)" src="auto">NNNXX-----A---8</AM>
+<AM lemma="MTV-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94208-87-p3s3w13">
 <src.rf>manual</src.rf>
@@ -1366,7 +1377,7 @@
 </w.rf>
 <form>Yehudi</form>
 <tag>
-<AM lemma="Yehudi_;Y" src="orig">NNMXX-----A----</AM>
+<AM lemma="Yehudi_;Y" src="orig" selected="1">NNMXX-----A----</AM>
 <AM lemma="Yehudi_;S" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Yehudi_;S" src="auto">NNMS5-----A----</AM>
 </tag>

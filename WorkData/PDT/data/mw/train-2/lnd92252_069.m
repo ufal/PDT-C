@@ -129,7 +129,10 @@
 <LM>w#w-lnd92252-069-p3s2w7</LM>
 </w.rf>
 <form>vyzval</form>
-<tag lemma="vyzvat_^(někoho_vyzvat_k_něčemu)" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag>
+<AM lemma="vyzvat_^(někoho_vyzvat_k_něčemu)" src="orig">VpYS---XR-AA---</AM>
+<AM lemma="vyzvat_:W_^(někoho_vyzvat_k_něčemu)" src="manual" selected="1">VpYS---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-lnd92252-069-p3s2w8">
 <src.rf>manual</src.rf>
@@ -209,7 +212,10 @@
 <LM>w#w-lnd92252-069-p3s2w18</LM>
 </w.rf>
 <form>začal</form>
-<tag lemma="začít-1_^(začnout)" src="auto" selected="1">VpYS---XR-AA---</tag>
+<tag>
+<AM lemma="začít-1_^(začnout)" src="auto">VpYS---XR-AA---</AM>
+<AM lemma="začít-1_:W_^(začnout)" src="manual" selected="1">VpYS---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-lnd92252-069-p3s2w19">
 <src.rf>manual</src.rf>
@@ -461,7 +467,10 @@
 <LM>w#w-lnd92252-069-p3s4w3</LM>
 </w.rf>
 <form>Majora</form>
-<tag lemma="major" src="orig" selected="1">NNMS4-----A----</tag>
+<tag>
+<AM lemma="major" src="orig">NNMS4-----A----</AM>
+<AM lemma="Major_;S" src="manual" selected="1">NNMS4-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92252-069-p3s4w4">
 <src.rf>manual</src.rf>
@@ -479,7 +488,7 @@
 <form>nikoli</form>
 <tag>
 <AM lemma="nikoliv" src="orig">Db------------1</AM>
-<AM lemma="nikoli" src="auto" recommended="1">TT-------------</AM>
+<AM lemma="nikoli" src="auto" recommended="1" selected="1">TT-------------</AM>
 </tag>
 </m>
 <m id="m-lnd92252-069-p3s4w6">
@@ -576,7 +585,10 @@
 <LM>w#w-lnd92252-069-p3s4w17</LM>
 </w.rf>
 <form>stálo</form>
-<tag lemma="stát-3_^(někdo/něco_stojí,_např._na_nohou)" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag>
+<AM lemma="stát-3_^(někdo/něco_stojí,_např._na_nohou)" src="orig">VpNS---XR-AA---</AM>
+<AM lemma="stát-3_:T_^(někdo/něco_stojí,_např._na_nohou)" src="manual" selected="1">VpNS---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-lnd92252-069-p3s4w18">
 <src.rf>manual</src.rf>
@@ -667,7 +679,7 @@
 </w.rf>
 <form>Ashdown</form>
 <tag>
-<AM lemma="Ashdown-2_;S" src="orig">NNMS1-----A----</AM>
+<AM lemma="Ashdown-2_;S" src="orig" selected="1">NNMS1-----A----</AM>
 <AM lemma="Ashdown_;G" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Ashdown_;G" src="auto">NNIS4-----A----</AM>
 </tag>
@@ -840,7 +852,10 @@
 <LM>w#w-lnd92252-069-p3s6w8</LM>
 </w.rf>
 <form>přispět</form>
-<tag lemma="přispět" src="orig" selected="1">Vf--------A----</tag>
+<tag>
+<AM lemma="přispět" src="orig">Vf--------A----</AM>
+<AM lemma="přispět_:W" src="manual" selected="1">Vf--------A----</AM>
+</tag>
 </m>
 <m id="m-lnd92252-069-p3s6w9">
 <src.rf>manual</src.rf>
@@ -962,7 +977,10 @@
 <LM>w#w-lnd92252-069-p3s7w4</LM>
 </w.rf>
 <form>A</form>
-<tag lemma="A-0_:B_;Y" src="orig" selected="1">NNMXX-----A---8</tag>
+<tag>
+<AM lemma="A-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
+<AM lemma="A-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92252-069-p3s7w5">
 <src.rf>manual</src.rf>
@@ -1050,7 +1068,10 @@
 <LM>w#w-lnd92252-069-p3s7w15</LM>
 </w.rf>
 <form>vandalismu</form>
-<tag lemma="vandalismus" src="orig" selected="1">NNIS2-----A----</tag>
+<tag>
+<AM lemma="vandalismus" src="orig">NNIS2-----A----</AM>
+<AM lemma="vandalismus_,s_^(^DD**vandalizmus)" src="manual" selected="1">NNIS2-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92252-069-p3s7w16">
 <src.rf>manual</src.rf>
@@ -1092,7 +1113,10 @@
 <LM>w#w-lnd92252-069-p3s8w4</LM>
 </w.rf>
 <form>D</form>
-<tag lemma="D-0_:B_;Y" src="orig" selected="1">NNMXX-----A---8</tag>
+<tag>
+<AM lemma="D-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
+<AM lemma="D-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92252-069-p3s8w5">
 <src.rf>manual</src.rf>
@@ -1286,7 +1310,10 @@
 <LM>w#w-lnd92252-069-p3s9w2</LM>
 </w.rf>
 <form>vedly</form>
-<tag lemma="vést" src="auto" selected="1">VpTP---XR-AA---</tag>
+<tag>
+<AM lemma="vést" src="auto">VpTP---XR-AA---</AM>
+<AM lemma="vést_:T" src="manual" selected="1">VpTP---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-lnd92252-069-p3s9w3">
 <src.rf>manual</src.rf>

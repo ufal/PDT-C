@@ -19,7 +19,10 @@
 <LM>w#w-ln95045-040-p1s1w1</LM>
 </w.rf>
 <form>Viola</form>
-<tag lemma="Viola_;Y" src="auto" selected="1">NNFS1-----A----</tag>
+<tag>
+<AM lemma="Viola_;Y" src="auto" selected="1">NNFS1-----A----</AM>
+<AM lemma="Viola_;K_;Y" src="manual">NNFS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95045-040-p1s1w2">
 <src.rf>manual</src.rf>
@@ -110,7 +113,7 @@
 </w.rf>
 <form>Lind</form>
 <tag>
-<AM lemma="Lind_;S" src="orig">NNMS1-----A----</AM>
+<AM lemma="Lind_;S" src="orig" selected="1">NNMS1-----A----</AM>
 <AM lemma="Linda-2_;Y" src="auto">NNFP2-----A----</AM>
 <AM lemma="linda" src="auto" recommended="1">NNFP2-----A----</AM>
 </tag>
@@ -249,7 +252,10 @@
 <LM>w#w-ln95045-040-p2s1w21</LM>
 </w.rf>
 <form>Viola</form>
-<tag lemma="Viola_;Y" src="auto" selected="1">NNFS1-----A----</tag>
+<tag>
+<AM lemma="Viola_;Y" src="auto" selected="1">NNFS1-----A----</AM>
+<AM lemma="Viola_;K_;Y" src="manual">NNFS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95045-040-p2s1w22">
 <src.rf>manual</src.rf>
@@ -589,7 +595,10 @@
 <LM>w#w-ln95045-040-p2s3w13</LM>
 </w.rf>
 <form>jen</form>
-<tag lemma="jen-1" src="auto" selected="1">TT-------------</tag>
+<tag>
+<AM lemma="jen-1" src="auto">TT-------------</AM>
+<AM lemma="jen-4_^(pouze)" src="manual" selected="1">Db-------------</AM>
+</tag>
 </m>
 <m id="m-ln95045-040-p2s3w14">
 <src.rf>manual</src.rf>
@@ -978,7 +987,7 @@
 </w.rf>
 <form>Lindovi</form>
 <tag>
-<AM lemma="Lind_;S" src="orig">NNMS3-----A----</AM>
+<AM lemma="Lind_;S" src="orig" selected="1">NNMS3-----A----</AM>
 <AM lemma="Linda-1_;S" src="auto" recommended="1">NNMS3-----A----</AM>
 <AM lemma="Linda-1_;S" src="auto">NNMS6-----A----</AM>
 <AM lemma="Lindův-1_;S_^(*4a-1)" src="auto">AUMP1M---------</AM>
@@ -1290,7 +1299,7 @@
 </w.rf>
 <form>Lindovi</form>
 <tag>
-<AM lemma="Lind_;S" src="orig">NNMS3-----A----</AM>
+<AM lemma="Lind_;S" src="orig" selected="1">NNMS3-----A----</AM>
 <AM lemma="Linda-1_;S" src="auto" recommended="1">NNMS3-----A----</AM>
 <AM lemma="Linda-1_;S" src="auto">NNMS6-----A----</AM>
 <AM lemma="Lindův-1_;S_^(*4a-1)" src="auto">AUMP1M---------</AM>
@@ -1623,7 +1632,7 @@
 <form>totiž</form>
 <tag>
 <AM lemma="totiž" src="orig">Db-------------</AM>
-<AM lemma="totiž-1" src="auto" recommended="1">J^-------------</AM>
+<AM lemma="totiž-1" src="auto" recommended="1" selected="1">J^-------------</AM>
 <AM lemma="totiž-2" src="auto">TT-------------</AM>
 </tag>
 </m>
@@ -1634,7 +1643,7 @@
 </w.rf>
 <form>Linda</form>
 <tag>
-<AM lemma="Lind_;S" src="orig">NNMS4-----A----</AM>
+<AM lemma="Lind_;S" src="orig" selected="1">NNMS4-----A----</AM>
 <AM lemma="Linda-1_;S" src="auto">NNMS1-----A----</AM>
 <AM lemma="Linda-2_;Y" src="auto" recommended="1">NNFS1-----A----</AM>
 <AM lemma="linda" src="auto">NNFS1-----A----</AM>

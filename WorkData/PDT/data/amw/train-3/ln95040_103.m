@@ -125,7 +125,10 @@
 <LM>w#w-ln95040-103-p2s1Aw9</LM>
 </w.rf>
 <form>HOS</form>
-<tag lemma="HOS-1_:B_;K_^(Hnutí_za_občanskou_svobodu)" src="orig" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="HOS-1_:B_;K_^(Hnutí_za_občanskou_svobodu)" src="orig">NNIS1-----A----</AM>
+<AM lemma="HOS-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln95040-103-p2s1Aw10">
 <src.rf>manual</src.rf>
@@ -1867,7 +1870,10 @@
 <LM>w#w-ln95040-103-p5s1w16</LM>
 </w.rf>
 <form>HOS</form>
-<tag lemma="HOS-1_:B_;K_^(Hnutí_za_občanskou_svobodu)" src="orig" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="HOS-1_:B_;K_^(Hnutí_za_občanskou_svobodu)" src="orig">NNIS1-----A----</AM>
+<AM lemma="HOS-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln95040-103-p5s1w17">
 <src.rf>manual</src.rf>
@@ -1999,7 +2005,10 @@
 <LM>w#w-ln95040-103-p5s3w3</LM>
 </w.rf>
 <form>mj</form>
-<tag lemma="mj-1_:B_^(mimo_jiné)" src="orig" selected="1">Db------------8</tag>
+<tag>
+<AM lemma="mj-1_:B_^(mimo_jiné)" src="orig">Db------------8</AM>
+<AM lemma="mj-1_:B_^(mimo_jiné)" src="manual" selected="1">Db-------------</AM>
+</tag>
 </m>
 <m id="m-ln95040-103-p5s3w4">
 <src.rf>manual</src.rf>

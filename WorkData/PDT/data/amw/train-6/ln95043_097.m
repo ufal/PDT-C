@@ -173,7 +173,10 @@
 <LM>w#w-ln95043-097-p1s2w10</LM>
 </w.rf>
 <form>jen</form>
-<tag lemma="jen-1" src="auto" selected="1">TT-------------</tag>
+<tag>
+<AM lemma="jen-1" src="auto">TT-------------</AM>
+<AM lemma="jen-4_^(pouze)" src="manual" selected="1">Db-------------</AM>
+</tag>
 </m>
 <m id="m-ln95043-097-p1s2w11">
 <src.rf>manual</src.rf>
@@ -253,7 +256,10 @@
 <LM>w#w-ln95043-097-p1s2w20</LM>
 </w.rf>
 <form>Santa</form>
-<tag lemma="Santa-3_;Y" src="auto" selected="1">NNFS1-----A----</tag>
+<tag>
+<AM lemma="Santa-3_;Y" src="auto">NNFS1-----A----</AM>
+<AM lemma="Santa-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln95043-097-p1s2w21">
 <src.rf>manual</src.rf>
@@ -261,7 +267,10 @@
 <LM>w#w-ln95043-097-p1s2w21</LM>
 </w.rf>
 <form>Fé</form>
-<tag lemma="Fé_;G_^(Santa_Fé)" src="auto" selected="1">NNNXX-----A----</tag>
+<tag>
+<AM lemma="Fé_;G_^(Santa_Fé)" src="auto">NNNXX-----A----</AM>
+<AM lemma="Fé-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln95043-097-p1s2w22">
 <src.rf>manual</src.rf>
@@ -420,7 +429,7 @@
 <form>Renaultu</form>
 <tag>
 <AM lemma="Renault-2_;R_^(vozidlo)" src="orig">NNIS2-----A----</AM>
-<AM lemma="Renault_;K_;R" src="auto" recommended="1">NNIS3-----A----</AM>
+<AM lemma="Renault_;K_;R" src="auto" recommended="1" selected="1">NNIS3-----A----</AM>
 <AM lemma="Renault_;K_;R" src="auto">NNIS6-----A---1</AM>
 <AM lemma="renault_^(auto)" src="auto">NNIS3-----A----</AM>
 <AM lemma="renault_^(auto)" src="auto">NNIS6-----A---1</AM>
@@ -432,7 +441,10 @@
 <LM>w#w-ln95043-097-p1s4w5</LM>
 </w.rf>
 <form>Express</form>
-<tag lemma="Express" src="orig" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="Express" src="orig">NNIS1-----A----</AM>
+<AM lemma="Express-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln95043-097-p1s4w6">
 <src.rf>manual</src.rf>
@@ -443,6 +455,7 @@
 <tag>
 <AM lemma="pick_,t" src="orig">AAXXX----1A----</AM>
 <AM lemma="pick" src="auto" recommended="1">A2--------A----</AM>
+<AM lemma="pick-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-ln95043-097-p1s4w7">
@@ -451,7 +464,10 @@
 <LM>w#w-ln95043-097-p1s4w7</LM>
 </w.rf>
 <form>up</form>
-<tag lemma="up_,t_^(pick-up)" src="orig" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="up_,t_^(pick-up)" src="orig">NNIS1-----A----</AM>
+<AM lemma="up-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln95043-097-p1s4w8">
 <src.rf>manual</src.rf>

@@ -165,7 +165,10 @@
 <LM>w#w-lnd92255-113-p2s1w9</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-2" src="auto" selected="1">Dg-------2A----</tag>
+<tag>
+<AM lemma="hodně-2" src="auto">Dg-------2A----</AM>
+<AM lemma="	více_^(více_+_2._p.,_více_peněz)" src="manual" selected="1">Ca--7----------</AM>
+</tag>
 </m>
 <m id="m-lnd92255-113-p2s1w10">
 <src.rf>manual</src.rf>
@@ -586,7 +589,7 @@
 <tag>
 <AM lemma="přesto" src="orig">Dg-------1A----</AM>
 <AM lemma="přesto-1" src="auto" recommended="1">Db-------------</AM>
-<AM lemma="přesto-2" src="auto">J^-------------</AM>
+<AM lemma="přesto-2" src="auto" selected="1">J^-------------</AM>
 </tag>
 </m>
 <m id="m-lnd92255-113-p2s2w15">
@@ -670,7 +673,7 @@
 <tag>
 <AM lemma="Kříž-2_;G" src="orig">NNIS1-----A----</AM>
 <AM lemma="Kříž_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="kříž" src="auto" recommended="1">NNIS1-----A----</AM>
+<AM lemma="kříž" src="auto" recommended="1" selected="1">NNIS1-----A----</AM>
 <AM lemma="kříž" src="auto">NNIS4-----A----</AM>
 </tag>
 </m>
@@ -705,7 +708,7 @@
 </w.rf>
 <form>Lísková</form>
 <tag>
-<AM lemma="Lísková_;G" src="orig">NNFS1-----A----</AM>
+<AM lemma="Lísková_;G" src="orig" selected="1">NNFS1-----A----</AM>
 <AM lemma="lískový" src="auto" recommended="1">AAFS1----1A----</AM>
 <AM lemma="lískový" src="auto">AAFS5----1A----</AM>
 <AM lemma="lískový" src="auto">AANP1----1A----</AM>
@@ -864,6 +867,7 @@
 <AM lemma="strážný_^(kdo_stráží,_člověk)" src="auto">NNMP5-----A---6</AM>
 <AM lemma="strážný_^(kdo_stráží,_člověk)" src="auto">NNMS1-----A----</AM>
 <AM lemma="strážný_^(kdo_stráží,_člověk)" src="auto">NNMS5-----A----</AM>
+<AM lemma="Strážný_;G" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92255-113-p2s2w40">
@@ -1186,7 +1190,10 @@
 <LM>w#w-lnd92255-113-p2s3w39</LM>
 </w.rf>
 <form>li</form>
-<tag lemma="li-1" src="auto" selected="1">TT-------------</tag>
+<tag>
+<AM lemma="li-1" src="auto">TT-------------</AM>
+<AM lemma="li-2" src="manual" selected="1">J,-------------</AM>
+</tag>
 </m>
 <m id="m-lnd92255-113-p2s3w40">
 <src.rf>manual</src.rf>
@@ -1452,7 +1459,10 @@
 <LM>w#w-lnd92255-113-p3s1w28</LM>
 </w.rf>
 <form>E</form>
-<tag lemma="e-3_^(označení_pomocí_písmene)" src="orig" selected="1">NNNXX-----A----</tag>
+<tag>
+<AM lemma="e-3_^(označení_pomocí_písmene)" src="orig">NNNXX-----A----</AM>
+<AM lemma="E-33_^(označení_pomocí_písmene)" src="manual" selected="1">NNNXX-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92255-113-p3s1w29">
 <src.rf>manual</src.rf>
@@ -1534,7 +1544,10 @@
 <LM>w#w-lnd92255-113-p3s2w3</LM>
 </w.rf>
 <form>vedena</form>
-<tag lemma="vést" src="auto" selected="1">VsQW---XX-AP---</tag>
+<tag>
+<AM lemma="vést" src="auto">VsQW---XX-AP---</AM>
+<AM lemma="vést_:T" src="manual" selected="1">VsQW---XX-AP---</AM>
+</tag>
 </m>
 <m id="m-lnd92255-113-p3s2w4">
 <src.rf>manual</src.rf>

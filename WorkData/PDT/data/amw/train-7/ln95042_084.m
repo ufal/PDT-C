@@ -19,7 +19,10 @@
 <LM>w#w-ln95042-084-p1s1w1</LM>
 </w.rf>
 <form>Perry</form>
-<tag lemma="Perry_;S_;Y" src="orig" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Perry_;S_;Y" src="orig">NNMS1-----A----</AM>
+<AM lemma="Perry_;Y_;S" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95042-084-p1s1w2">
 <src.rf>manual</src.rf>
@@ -151,7 +154,10 @@
 <LM>w#w-ln95042-084-p2s1Bw6</LM>
 </w.rf>
 <form>Perry</form>
-<tag lemma="Perry_;S_;Y" src="orig" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Perry_;S_;Y" src="orig">NNMS1-----A----</AM>
+<AM lemma="Perry_;Y_;S" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95042-084-p2s1Bw7">
 <src.rf>manual</src.rf>
@@ -539,7 +545,10 @@
 <LM>w#w-ln95042-084-p3s1w2</LM>
 </w.rf>
 <form>Perryho</form>
-<tag lemma="Perry_;S_;Y" src="orig" selected="1">NNMS2-----A----</tag>
+<tag>
+<AM lemma="Perry_;S_;Y" src="orig">NNMS2-----A----</AM>
+<AM lemma="Perry_;Y_;S" src="manual" selected="1">NNMS2-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95042-084-p3s1w3">
 <src.rf>manual</src.rf>
@@ -876,6 +885,7 @@
 <tag>
 <AM lemma="USA_;G" src="orig">NNIPX-----A----</AM>
 <AM lemma="USA_:B_;K_,t_^(United_States_of_America)" src="auto" recommended="1">NNIPX-----A---8</AM>
+<AM lemma="USA_:B_;K_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-ln95042-084-p3s4w7">

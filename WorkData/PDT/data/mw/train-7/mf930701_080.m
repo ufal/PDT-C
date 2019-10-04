@@ -69,7 +69,10 @@
 <LM>w#w-mf930701-080-p1s2w4</LM>
 </w.rf>
 <form>STOJÍ</form>
-<tag lemma="stát-4_^(něco_stojí_peníze)" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag>
+<AM lemma="stát-4_^(něco_stojí_peníze)" src="orig">VB-S---3P-AA---</AM>
+<AM lemma="stát-4_:T_^(něco_stojí_peníze)" src="manual" selected="1">VB-S---3P-AA---</AM>
+</tag>
 </m>
 <m id="m-mf930701-080-p1s2w5">
 <src.rf>manual</src.rf>
@@ -144,7 +147,10 @@
 <LM>w#w-mf930701-080-p2s1w3</LM>
 </w.rf>
 <form>jsl</form>
-<tag lemma="jsl-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="jsl-99_:B_;S" src="orig">NNXXX-----A---8</AM>
+<AM lemma="jsl-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930701-080-p2s1w4">
 <src.rf>manual</src.rf>
@@ -184,7 +190,10 @@
 <LM>w#w-mf930701-080-p2s1w8</LM>
 </w.rf>
 <form>mají</form>
-<tag lemma="mít" src="orig" selected="1">VB-P---3P-AA---</tag>
+<tag>
+<AM lemma="mít" src="orig">VB-P---3P-AA---</AM>
+<AM lemma="mít_:T" src="manual" selected="1">VB-P---3P-AA---</AM>
+</tag>
 </m>
 <m id="m-mf930701-080-p2s1w9">
 <src.rf>manual</src.rf>
@@ -354,7 +363,10 @@
 <LM>w#w-mf930701-080-p2s2w13</LM>
 </w.rf>
 <form>PMEZ</form>
-<tag lemma="PMEZ_:B_;K_^(Pohár_mistrů_evropských_zemí)" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="PMEZ_:B_;K_^(Pohár_mistrů_evropských_zemí)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="PMEZ-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930701-080-p2s2w14">
 <src.rf>manual</src.rf>
@@ -370,7 +382,10 @@
 <LM>w#w-mf930701-080-p2s2w15</LM>
 </w.rf>
 <form>ETTU</form>
-<tag lemma="ETTU-1_:B_;K_,t_^(European_Table_Tennis_Union)" src="auto" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ETTU-1_:B_;K_,t_^(European_Table_Tennis_Union)" src="auto">NNFXX-----A---8</AM>
+<AM lemma="ETTU-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930701-080-p2s2w16">
 <src.rf>manual</src.rf>
@@ -516,7 +531,10 @@
 <LM>w#w-mf930701-080-p2s3w13</LM>
 </w.rf>
 <form>PMEZ</form>
-<tag lemma="PMEZ_:B_;K_^(Pohár_mistrů_evropských_zemí)" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="PMEZ_:B_;K_^(Pohár_mistrů_evropských_zemí)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="PMEZ-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930701-080-p2s3w14">
 <src.rf>manual</src.rf>
@@ -755,6 +773,7 @@
 <tag>
 <AM lemma="NH_:B_;K_^(Nová_Huť)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="NH_:B_;K" src="auto" recommended="1">NNXXX-----A---8</AM>
+<AM lemma="NH-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930701-080-p2s5w4">
@@ -843,7 +862,10 @@
 <LM>w#w-mf930701-080-p2s5w14</LM>
 </w.rf>
 <form>udržet</form>
-<tag lemma="udržet" src="orig" selected="1">Vf--------A----</tag>
+<tag>
+<AM lemma="udržet" src="orig">Vf--------A----</AM>
+<AM lemma="udržet_:W" src="manual" selected="1">Vf--------A----</AM>
+</tag>
 </m>
 <m id="m-mf930701-080-p2s5w15">
 <src.rf>manual</src.rf>
@@ -1491,7 +1513,10 @@
 <LM>w#w-mf930701-080-p3s4w8</LM>
 </w.rf>
 <form>nemáme</form>
-<tag lemma="mít" src="orig" selected="1">VB-P---1P-NA---</tag>
+<tag>
+<AM lemma="mít" src="orig">VB-P---1P-NA---</AM>
+<AM lemma="mít_:T" src="manual" selected="1">VB-P---1P-NA---</AM>
+</tag>
 </m>
 <m id="m-mf930701-080-p3s4w9">
 <src.rf>manual</src.rf>
@@ -1547,7 +1572,10 @@
 <LM>w#w-mf930701-080-p3s4w15</LM>
 </w.rf>
 <form>B</form>
-<tag lemma="b-3_^(označení_pomocí_písmene)" src="orig" selected="1">NNNXX-----A----</tag>
+<tag>
+<AM lemma="b-3_^(označení_pomocí_písmene)" src="orig">NNNXX-----A----</AM>
+<AM lemma="B-33_^(označení_pomocí_písmene)" src="manual" selected="1">NNNXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930701-080-p3s4w16">
 <src.rf>manual</src.rf>
@@ -1613,7 +1641,10 @@
 <LM>w#w-mf930701-080-p3s5w1</LM>
 </w.rf>
 <form>Mít</form>
-<tag lemma="mít" src="orig" selected="1">Vf--------A----</tag>
+<tag>
+<AM lemma="mít" src="orig">Vf--------A----</AM>
+<AM lemma="mít_:T" src="manual" selected="1">Vf--------A----</AM>
+</tag>
 </m>
 <m id="m-mf930701-080-p3s5w2">
 <src.rf>manual</src.rf>
@@ -2146,7 +2177,10 @@
 <LM>w#w-mf930701-080-p3s7w6</LM>
 </w.rf>
 <form>stojí</form>
-<tag lemma="stát-4_^(něco_stojí_peníze)" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag>
+<AM lemma="stát-4_^(něco_stojí_peníze)" src="orig">VB-S---3P-AA---</AM>
+<AM lemma="stát-4_:T_^(něco_stojí_peníze)" src="manual" selected="1">VB-S---3P-AA---</AM>
+</tag>
 </m>
 <m id="m-mf930701-080-p3s7w7">
 <src.rf>manual</src.rf>

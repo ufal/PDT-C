@@ -166,7 +166,10 @@
 <LM>w#w-vesm9211-037-p2s1Aw4</LM>
 </w.rf>
 <form>Scientific</form>
-<tag lemma="Scientific-2_;R_,t_^(např._časopis_Scientific_American)" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="Scientific-2_;R_,t_^(např._časopis_Scientific_American)" src="orig">AAXXX----1A----</AM>
+<AM lemma="Scientific-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-vesm9211-037-p2s1Aw5">
 <src.rf>manual</src.rf>
@@ -178,6 +181,7 @@
 <AM lemma="American-2_;R_,t_^(např._časopis_Scientific_American)" src="orig">NNISX-----A----</AM>
 <AM lemma="American-1_;K_,t_^(souč._názvů,_např._A._Airlines)" src="auto" recommended="1">AAXXX----1A----</AM>
 <AM lemma="Americana_;G" src="auto">NNFP2-----A----</AM>
+<AM lemma="American-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-vesm9211-037-p2s1Aw6">
@@ -470,7 +474,10 @@
 <LM>w#w-vesm9211-037-p2s2w2</LM>
 </w.rf>
 <form>altruismus</form>
-<tag lemma="altruismus" src="orig" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="altruismus" src="orig">NNIS1-----A----</AM>
+<AM lemma="altruismus_,s_^(^DD**altruizmus)" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-vesm9211-037-p2s2w3">
 <src.rf>manual</src.rf>
@@ -664,7 +671,10 @@
 <LM>w#w-vesm9211-037-p2s3w10</LM>
 </w.rf>
 <form>Desmodus</form>
-<tag lemma="Desmodus_;L_,t" src="auto" selected="1">NNMXX-----A----</tag>
+<tag>
+<AM lemma="Desmodus_;L_,t" src="auto">NNMXX-----A----</AM>
+<AM lemma="Desmodus-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-vesm9211-037-p2s3w11">
 <src.rf>manual</src.rf>
@@ -672,7 +682,10 @@
 <LM>w#w-vesm9211-037-p2s3w11</LM>
 </w.rf>
 <form>rotundus</form>
-<tag lemma="rotundus_;L_,t" src="orig" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="rotundus_;L_,t" src="orig">NNMS1-----A----</AM>
+<AM lemma="rotundus-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-vesm9211-037-p2s3w12">
 <src.rf>manual</src.rf>
@@ -1031,6 +1044,7 @@
 <tag>
 <AM lemma="Lancet_;R_,t" src="orig">NNFSX-----A----</AM>
 <AM lemma="lanceta" src="auto" recommended="1">NNFP2-----A----</AM>
+<AM lemma="Lancet-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-vesm9211-037-p2s5w16">
@@ -1626,7 +1640,7 @@
 </w.rf>
 <form>Sch</form>
 <tag>
-<AM lemma="Sch-99_:B_;S" src="orig">NNXXX-----A---8</AM>
+<AM lemma="Sch-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</AM>
 <AM lemma="schnout" src="auto" recommended="1">VpYS---XR-AA--6</AM>
 </tag>
 </m>

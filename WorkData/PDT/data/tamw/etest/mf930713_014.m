@@ -913,6 +913,7 @@
 <AM lemma="revue" src="auto" recommended="1">NNFS1-----A----</AM>
 <AM lemma="revue" src="auto">NNFS2-----A----</AM>
 <AM lemma="revue" src="auto">NNFS5-----A----</AM>
+<AM lemma="revue" src="manual" selected="1">NNFXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930713-014-p2s6w14">
@@ -1163,7 +1164,10 @@
 <LM>w#w-mf930713-014-p2s7w13</LM>
 </w.rf>
 <form>optimismu</form>
-<tag lemma="optimismus" src="orig" selected="1">NNIS2-----A----</tag>
+<tag>
+<AM lemma="optimismus" src="orig">NNIS2-----A----</AM>
+<AM lemma="optimismus_,s_^(^DD**optimizmus)" src="manual" selected="1">NNIS2-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930713-014-p2s7w14">
 <src.rf>manual</src.rf>
@@ -1362,6 +1366,7 @@
 <tag>
 <AM lemma="literárky_;R" src="orig">NNFP6-----A----</AM>
 <AM lemma="literárky_,h_^(literární_noviny)" src="auto" recommended="1">NNIP6-----A---1</AM>
+<AM lemma="literárky_^(literární_noviny)" src="manual" selected="1">NNFP6-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930713-014-p2s9w14">

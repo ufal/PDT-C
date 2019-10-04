@@ -35,7 +35,10 @@
 <LM>w#w-ln94208-10-p1s1w3</LM>
 </w.rf>
 <form>strana</form>
-<tag lemma="strana-2_^(politická)" src="orig" selected="1">NNFS1-----A----</tag>
+<tag>
+<AM lemma="strana-2_^(politická)" src="orig">NNFS1-----A----</AM>
+<AM lemma="strana" src="manual" selected="1">NNFS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94208-10-p1s1w4">
 <src.rf>manual</src.rf>
@@ -373,7 +376,7 @@
 <form>totiž</form>
 <tag>
 <AM lemma="totiž" src="orig">Db-------------</AM>
-<AM lemma="totiž-1" src="auto" recommended="1">J^-------------</AM>
+<AM lemma="totiž-1" src="auto" recommended="1" selected="1">J^-------------</AM>
 <AM lemma="totiž-2" src="auto">TT-------------</AM>
 </tag>
 </m>
@@ -553,7 +556,10 @@
 <LM>w#w-ln94208-10-p3s1w4</LM>
 </w.rf>
 <form>strany</form>
-<tag lemma="strana-2_^(politická)" src="orig" selected="1">NNFS2-----A----</tag>
+<tag>
+<AM lemma="strana-2_^(politická)" src="orig">NNFS2-----A----</AM>
+<AM lemma="strana" src="manual" selected="1">NNFS2-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94208-10-p3s1w5">
 <src.rf>manual</src.rf>
@@ -673,7 +679,10 @@
 <LM>w#w-ln94208-10-p3s1w19</LM>
 </w.rf>
 <form>stranám</form>
-<tag lemma="strana-2_^(politická)" src="orig" selected="1">NNFP3-----A----</tag>
+<tag>
+<AM lemma="strana-2_^(politická)" src="orig">NNFP3-----A----</AM>
+<AM lemma="strana" src="manual" selected="1">NNFP3-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94208-10-p3s1w20">
 <src.rf>manual</src.rf>
@@ -725,7 +734,7 @@
 <form>totiž</form>
 <tag>
 <AM lemma="totiž" src="orig">Db-------------</AM>
-<AM lemma="totiž-1" src="auto">J^-------------</AM>
+<AM lemma="totiž-1" src="auto" selected="1">J^-------------</AM>
 <AM lemma="totiž-2" src="auto" recommended="1">TT-------------</AM>
 </tag>
 </m>
@@ -815,7 +824,10 @@
 <LM>w#w-ln94208-10-p3s2w13</LM>
 </w.rf>
 <form>keynesianismem</form>
-<tag lemma="keynesianizmus" src="orig" selected="1">NNIS7-----A---1</tag>
+<tag>
+<AM lemma="keynesianizmus" src="orig">NNIS7-----A---1</AM>
+<AM lemma="keynesianismus_,s_^(^DD**keynesianizmus)" src="manual" selected="1">NNIS7-----A---1</AM>
+</tag>
 </m>
 <m id="m-ln94208-10-p3s2w14">
 <src.rf>manual</src.rf>
@@ -1235,7 +1247,10 @@
 <LM>w#w-ln94208-10-p4s1w2</LM>
 </w.rf>
 <form>Maynard</form>
-<tag lemma="Maynard_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Maynard_;S" src="orig">NNMS1-----A----</AM>
+<AM lemma="Maynard_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94208-10-p4s1w3">
 <src.rf>manual</src.rf>
@@ -2257,7 +2272,7 @@
 <form>nikoli</form>
 <tag>
 <AM lemma="nikoliv" src="orig">Db------------1</AM>
-<AM lemma="nikoli" src="auto" recommended="1">TT-------------</AM>
+<AM lemma="nikoli" src="auto" recommended="1" selected="1">TT-------------</AM>
 </tag>
 </m>
 <m id="m-ln94208-10-p5s3w9">
@@ -2722,7 +2737,7 @@
 <form>nikoli</form>
 <tag>
 <AM lemma="nikoliv" src="orig">Db------------1</AM>
-<AM lemma="nikoli" src="auto" recommended="1">TT-------------</AM>
+<AM lemma="nikoli" src="auto" recommended="1" selected="1">TT-------------</AM>
 </tag>
 </m>
 <m id="m-ln94208-10-p5s6w7">
@@ -2821,7 +2836,10 @@
 <LM>w#w-ln94208-10-p6s1w7</LM>
 </w.rf>
 <form>jen</form>
-<tag lemma="jen-1" src="auto" selected="1">TT-------------</tag>
+<tag>
+<AM lemma="jen-1" src="auto">TT-------------</AM>
+<AM lemma="jen-4_^(pouze)" src="manual" selected="1">Db-------------</AM>
+</tag>
 </m>
 <m id="m-ln94208-10-p6s1w8">
 <src.rf>manual</src.rf>
@@ -2869,7 +2887,10 @@
 <LM>w#w-ln94208-10-p6s1w13</LM>
 </w.rf>
 <form>jen</form>
-<tag lemma="jen-1" src="auto" selected="1">TT-------------</tag>
+<tag>
+<AM lemma="jen-1" src="auto">TT-------------</AM>
+<AM lemma="jen-4_^(pouze)" src="manual" selected="1">Db-------------</AM>
+</tag>
 </m>
 <m id="m-ln94208-10-p6s1w14">
 <src.rf>manual</src.rf>
@@ -3211,7 +3232,10 @@
 <LM>w#w-ln94208-10-p6s4w18</LM>
 </w.rf>
 <form>dolaru</form>
-<tag lemma="dolar_;b" src="orig" selected="1">NNIS2-----A----</tag>
+<tag>
+<AM lemma="dolar_;b" src="orig">NNIS2-----A----</AM>
+<AM lemma="dolar" src="manual" selected="1">NNIS2-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94208-10-p6s4w19">
 <src.rf>manual</src.rf>
@@ -3351,7 +3375,7 @@
 <form>nejen</form>
 <tag>
 <AM lemma="nejen" src="orig">TT-------------</AM>
-<AM lemma="nejen" src="auto" recommended="1">Db-------------</AM>
+<AM lemma="nejen" src="auto" recommended="1" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m-ln94208-10-p6s5w3">
@@ -3644,7 +3668,10 @@
 <LM>w#w-ln94208-10-p7s2w18</LM>
 </w.rf>
 <form>kurzů</form>
-<tag lemma="kurs" src="auto" selected="1">NNIP2-----A----</tag>
+<tag>
+<AM lemma="kurs" src="auto">NNIP2-----A----</AM>
+<AM lemma="kurz" src="manual" selected="1">NNIP2-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94208-10-p7s2w19">
 <src.rf>manual</src.rf>
@@ -3960,7 +3987,10 @@
 <LM>w#w-ln94208-10-p7s4w25</LM>
 </w.rf>
 <form>HDP</form>
-<tag lemma="HDP_:B_^(hrubý_domácí_produkt)" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="HDP_:B_^(hrubý_domácí_produkt)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="HDP_:B_^(hrubý_domácí_produkt)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94208-10-p7s4w26">
 <src.rf>manual</src.rf>
@@ -4026,7 +4056,10 @@
 <LM>w#w-ln94208-10-p8s1w5</LM>
 </w.rf>
 <form>strany</form>
-<tag lemma="strana-2_^(politická)" src="orig" selected="1">NNFS2-----A----</tag>
+<tag>
+<AM lemma="strana-2_^(politická)" src="orig">NNFS2-----A----</AM>
+<AM lemma="strana" src="manual" selected="1">NNFS2-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94208-10-p8s1w6">
 <src.rf>manual</src.rf>
@@ -4199,7 +4232,7 @@
 <tag>
 <AM lemma="jakýkoliv" src="orig">PZZS2---------1</AM>
 <AM lemma="jakýkoli" src="auto">PZMS4----------</AM>
-<AM lemma="jakýkoli" src="auto" recommended="1">PZZS2----------</AM>
+<AM lemma="jakýkoli" src="auto" recommended="1" selected="1">PZZS2----------</AM>
 </tag>
 </m>
 <m id="m-ln94208-10-p8s2w15">
@@ -4380,7 +4413,10 @@
 <LM>w#w-ln94208-10-p8s4w3</LM>
 </w.rf>
 <form>li</form>
-<tag lemma="li-1" src="auto" selected="1">TT-------------</tag>
+<tag>
+<AM lemma="li-1" src="auto">TT-------------</AM>
+<AM lemma="li-2" src="manual" selected="1">J,-------------</AM>
+</tag>
 </m>
 <m id="m-ln94208-10-p8s4w4">
 <src.rf>manual</src.rf>
@@ -4518,7 +4554,7 @@
 <form>nikoli</form>
 <tag>
 <AM lemma="nikoliv" src="orig">Db------------1</AM>
-<AM lemma="nikoli" src="auto" recommended="1">TT-------------</AM>
+<AM lemma="nikoli" src="auto" recommended="1" selected="1">TT-------------</AM>
 </tag>
 </m>
 <m id="m-ln94208-10-p8s4w21">
@@ -4623,7 +4659,10 @@
 <LM>w#w-ln94208-10-p8s4w33</LM>
 </w.rf>
 <form>strany</form>
-<tag lemma="strana-2_^(politická)" src="orig" selected="1">NNFS2-----A----</tag>
+<tag>
+<AM lemma="strana-2_^(politická)" src="orig">NNFS2-----A----</AM>
+<AM lemma="strana" src="manual" selected="1">NNFS2-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94208-10-p8s4w34">
 <src.rf>manual</src.rf>

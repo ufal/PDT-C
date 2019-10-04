@@ -51,7 +51,10 @@
 <LM>w#w-mf920925-114-p1s1Aw5</LM>
 </w.rf>
 <form>NDR</form>
-<tag lemma="NDR_:B_;G_;K" src="auto" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="NDR_:B_;G_;K" src="auto">NNFXX-----A---8</AM>
+<AM lemma="NDR-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-mf920925-114-p1s1Aw6">
 <src.rf>manual</src.rf>
@@ -347,7 +350,10 @@
 <LM>w#w-mf920925-114-p2s3w12</LM>
 </w.rf>
 <form>von</form>
-<tag lemma="von-2_,t" src="orig" selected="1">RR--X----------</tag>
+<tag>
+<AM lemma="von-2_,t" src="orig">RR--X----------</AM>
+<AM lemma="von-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-mf920925-114-p2s3w13">
 <src.rf>manual</src.rf>
@@ -655,7 +661,10 @@
 <LM>w#w-mf920925-114-p3s2w17</LM>
 </w.rf>
 <form>Willyho</form>
-<tag lemma="Willy_;Y_,t" src="auto" selected="1">NNMS2-----A----</tag>
+<tag>
+<AM lemma="Willy_;Y_,t" src="auto">NNMS2-----A----</AM>
+<AM lemma="Willy_;Y" src="manual" selected="1">NNMS2-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920925-114-p3s2w18">
 <src.rf>manual</src.rf>
@@ -1161,7 +1170,10 @@
 <LM>w#w-mf920925-114-p7s1w3</LM>
 </w.rf>
 <form>li</form>
-<tag lemma="li-1" src="auto" selected="1">TT-------------</tag>
+<tag>
+<AM lemma="li-1" src="auto">TT-------------</AM>
+<AM lemma="li-2" src="manual" selected="1">J,-------------</AM>
+</tag>
 </m>
 <m id="m-mf920925-114-p7s1w4">
 <src.rf>manual</src.rf>

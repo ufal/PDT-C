@@ -175,7 +175,10 @@
 <LM>w#w-ln95048-012-p2s2w2</LM>
 </w.rf>
 <form>černého</form>
-<tag lemma="černý" src="auto" selected="1">AANS2----1A----</tag>
+<tag>
+<AM lemma="černý" src="auto">AANS2----1A----</AM>
+<AM lemma="černý_;o" src="manual" selected="1">AAIS2----1A----</AM>
+</tag>
 </m>
 <m id="m-ln95048-012-p2s2w3">
 <src.rf>manual</src.rf>
@@ -281,8 +284,13 @@
 <form>-1989</form>
 <tag>
 <AM lemma="1989" src="orig">C=-------------</AM>
-<AM lemma="-1989" src="auto" recommended="1">C=-------------</AM>
+<AM lemma="-1989" src="auto" recommended="1" selected="1">C=-------------</AM>
 </tag>
+<comment>
+<LM type="Other">
+<text>byly tam dvě pomlčky - záporné číslo by u letopočtu nedávalo smysl</text>
+</LM>
+</comment>
 </m>
 <m id="m-ln95048-012-p2s2w16">
 <src.rf>manual</src.rf>
@@ -362,7 +370,10 @@
 <LM>w#w-ln95048-012-p2s2w25</LM>
 </w.rf>
 <form>Ešte</form>
-<tag lemma="ešte_,t" src="orig" selected="1">Db-------------</tag>
+<tag>
+<AM lemma="ešte_,t" src="orig">Db-------------</AM>
+<AM lemma="Ešte-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln95048-012-p2s2w26">
 <src.rf>manual</src.rf>
@@ -378,7 +389,10 @@
 <LM>w#w-ln95048-012-p2s2w27</LM>
 </w.rf>
 <form>vami</form>
-<tag lemma="vy-2_,t" src="orig" selected="1">PP-P7--2-------</tag>
+<tag>
+<AM lemma="vy-2_,t" src="orig">PP-P7--2-------</AM>
+<AM lemma="vami-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln95048-012-p2s2w28">
 <src.rf>manual</src.rf>
@@ -386,7 +400,10 @@
 <LM>w#w-ln95048-012-p2s2w28</LM>
 </w.rf>
 <form>pobudnúť</form>
-<tag lemma="pobudnúť_,t" src="orig" selected="1">Vf--------A----</tag>
+<tag>
+<AM lemma="pobudnúť_,t" src="orig">Vf--------A----</AM>
+<AM lemma="pobudnúť-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln95048-012-p2s2w29">
 <src.rf>manual</src.rf>
@@ -720,6 +737,8 @@
 <AM lemma="Pro-2_;m_,t" src="orig">RR--X----------</AM>
 <AM lemma="pro-1" src="auto" recommended="1">RR--4----------</AM>
 <AM lemma="pro-7_^(předpona,_sam.)" src="auto">A2--------A----</AM>
+<AM lemma="pro-2_,t" src="manual">RR--X----------</AM>
+<AM lemma="Pro-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-ln95048-012-p3s1w26">
@@ -731,6 +750,7 @@
 <tag>
 <AM lemma="Helvetia_;K_,t_^(latinský_název_Švýcarska)" src="orig">NNFXX-----A----</AM>
 <AM lemma="Helvetia_;G_,t_^(latinský_název_Švýcarska)" src="auto" recommended="1">NNFS1-----A----</AM>
+<AM lemma="Helvetia-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-ln95048-012-p3s1w27">
@@ -1556,7 +1576,10 @@
 <LM>w#w-ln95048-012-p4s1w43</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-2" src="auto" selected="1">Dg-------2A----</tag>
+<tag>
+<AM lemma="hodně-2" src="auto">Dg-------2A----</AM>
+<AM lemma="hodně-3" src="manual" selected="1">Dg-------2A----</AM>
+</tag>
 </m>
 <m id="m-ln95048-012-p4s1w44">
 <src.rf>manual</src.rf>
@@ -1757,7 +1780,7 @@
 </w.rf>
 <form>Ľuba</form>
 <tag>
-<AM lemma="Ľuba_;Y" src="orig">NNFS1-----A----</AM>
+<AM lemma="Ľuba_;Y" src="orig" selected="1">NNFS1-----A----</AM>
 <AM lemma="Ľubo_;Y" src="auto">NNMS2-----A----</AM>
 <AM lemma="Ľubo_;Y" src="auto" recommended="1">NNMS4-----A----</AM>
 </tag>
@@ -2118,7 +2141,7 @@
 <form>snad</form>
 <tag>
 <AM lemma="snad" src="orig">Db-------------</AM>
-<AM lemma="snad" src="auto" recommended="1">TT-------------</AM>
+<AM lemma="snad" src="auto" recommended="1" selected="1">TT-------------</AM>
 </tag>
 </m>
 <m id="m-ln95048-012-p4s3w25">
@@ -2687,7 +2710,7 @@
 <form>vůbec</form>
 <tag>
 <AM lemma="vůbec" src="orig">Db-------------</AM>
-<AM lemma="vůbec" src="auto" recommended="1">TT-------------</AM>
+<AM lemma="vůbec" src="auto" recommended="1" selected="1">TT-------------</AM>
 </tag>
 </m>
 <m id="m-ln95048-012-p5s2w48">
@@ -3752,7 +3775,7 @@
 <form>totiž</form>
 <tag>
 <AM lemma="totiž" src="orig">Db-------------</AM>
-<AM lemma="totiž-1" src="auto" recommended="1">J^-------------</AM>
+<AM lemma="totiž-1" src="auto" recommended="1" selected="1">J^-------------</AM>
 <AM lemma="totiž-2" src="auto">TT-------------</AM>
 </tag>
 </m>
@@ -4019,6 +4042,7 @@
 <AM lemma="klerikalizmus" src="auto" recommended="1">NNIS2-----A----</AM>
 <AM lemma="klerikalizmus" src="auto">NNIS3-----A----</AM>
 <AM lemma="klerikalizmus" src="auto">NNIS6-----A----</AM>
+<AM lemma="klerikalismus_,s_^(^DD**klerikalizmus)" src="manual" selected="1">NNIS2-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95048-012-p6s7w8">

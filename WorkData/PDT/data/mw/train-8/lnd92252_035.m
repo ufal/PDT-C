@@ -56,6 +56,7 @@
 <tag>
 <AM lemma="USA_;G" src="orig">NNIPX-----A----</AM>
 <AM lemma="USA_:B_;K_,t_^(United_States_of_America)" src="auto" recommended="1">NNIPX-----A---8</AM>
+<AM lemma="USA_:B_;K_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 </s>
@@ -116,7 +117,10 @@
 <LM>w#w-lnd92252-035-p3s2w3</LM>
 </w.rf>
 <form>Čen</form>
-<tag lemma="Čen_;Y" src="orig" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Čen_;Y" src="orig">NNMS1-----A----</AM>
+<AM lemma="Čen_;_;S" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92252-035-p3s2w4">
 <src.rf>manual</src.rf>
@@ -124,7 +128,10 @@
 <LM>w#w-lnd92252-035-p3s2w4</LM>
 </w.rf>
 <form>Tchung</form>
-<tag lemma="Tchung_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Tchung_;S" src="orig">NNMS1-----A----</AM>
+<AM lemma="Tchung_;Y_;S" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92252-035-p3s2w5">
 <src.rf>manual</src.rf>
@@ -230,7 +237,10 @@
 <LM>w#w-lnd92252-035-p3s3w4</LM>
 </w.rf>
 <form>AFP</form>
-<tag lemma="AFP_:B_;K" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="AFP_:B_;K" src="orig">NNIXX-----A---8</AM>
+<AM lemma="AFP-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd92252-035-p3s3w5">
 <src.rf>manual</src.rf>
@@ -376,7 +386,10 @@
 <LM>w#w-lnd92252-035-p3s4w2</LM>
 </w.rf>
 <form>Čen</form>
-<tag lemma="Čen_;Y" src="orig" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Čen_;Y" src="orig">NNMS1-----A----</AM>
+<AM lemma="Čen_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92252-035-p3s4w3">
 <src.rf>manual</src.rf>
@@ -456,7 +469,10 @@
 <LM>w#w-lnd92252-035-p3s4w12</LM>
 </w.rf>
 <form>Tchien</form>
-<tag lemma="Tchien_;G" src="orig" selected="1">NNIXX-----A----</tag>
+<tag>
+<AM lemma="Tchien_;G" src="orig">NNIXX-----A----</AM>
+<AM lemma="Tchien-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-lnd92252-035-p3s4w13">
 <src.rf>manual</src.rf>
@@ -478,6 +494,7 @@
 <AM lemma="an-1_,a" src="auto">P4IS4----------</AM>
 <AM lemma="an-1_,a" src="auto">P4YS1----------</AM>
 <AM lemma="an-2_;G_,t_^(Tchien-an-men)" src="auto" recommended="1">NNIXX-----A----</AM>
+<AM lemma="an-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-lnd92252-035-p3s4w15">
@@ -498,6 +515,7 @@
 <AM lemma="men_;G" src="orig">NNIS1-----A----</AM>
 <AM lemma="jméno_,h_,x" src="auto" recommended="1">NNNP2-----A---6</AM>
 <AM lemma="men_,t" src="auto">XX-------------</AM>
+<AM lemma="men-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-lnd92252-035-p3s4w17">
@@ -913,6 +931,7 @@
 <tag>
 <AM lemma="USA_;G" src="orig">NNIPX-----A----</AM>
 <AM lemma="USA_:B_;K_,t_^(United_States_of_America)" src="auto" recommended="1">NNIPX-----A---8</AM>
+<AM lemma="USA_:B_;K_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-lnd92252-035-p3s6w13">

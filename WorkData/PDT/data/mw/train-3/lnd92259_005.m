@@ -19,7 +19,10 @@
 <LM>w#w-lnd92259-005-p1s1w1</LM>
 </w.rf>
 <form>ČS</form>
-<tag lemma="československý_:B" src="orig" selected="1">AAXXX----1A---8</tag>
+<tag>
+<AM lemma="československý_:B" src="orig">AAXXX----1A---8</AM>
+<AM lemma="československý" src="manual" selected="1">AAXXX----1A---8</AM>
+</tag>
 </m>
 <m id="m-lnd92259-005-p1s1w2">
 <src.rf>manual</src.rf>
@@ -201,7 +204,10 @@
 <LM>w#w-lnd92259-005-p3s2w13</LM>
 </w.rf>
 <form>UNITA</form>
-<tag lemma="UNITA_:B_;K_;p_^(partyz._org._v_Angole)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="UNITA_:B_;K_;p_^(partyz._org._v_Angole)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="UNITA-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd92259-005-p3s2w14">
 <src.rf>manual</src.rf>
@@ -281,7 +287,10 @@
 <LM>w#w-lnd92259-005-p3s2w23</LM>
 </w.rf>
 <form>ČSFR</form>
-<tag lemma="ČSFR-1_:B_;G_^(Čs._federativní_republika)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ČSFR-1_:B_;G_^(Čs._federativní_republika)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČSFR-1_:B_;G_^(Čs._federativní_republika)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92259-005-p3s2w24">
 <src.rf>manual</src.rf>
@@ -345,7 +354,10 @@
 <LM>w#w-lnd92259-005-p3s2w31</LM>
 </w.rf>
 <form>Mediterranean</form>
-<tag lemma="Mediterranean_;m_,t" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="Mediterranean_;m_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="Mediterranean-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-lnd92259-005-p3s2w32">
 <src.rf>manual</src.rf>
@@ -353,7 +365,10 @@
 <LM>w#w-lnd92259-005-p3s2w32</LM>
 </w.rf>
 <form>Sea</form>
-<tag lemma="Sea_;m_,t" src="orig" selected="1">NNFSX-----A----</tag>
+<tag>
+<AM lemma="Sea_;m_,t" src="orig">NNFSX-----A----</AM>
+<AM lemma="Sea-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-lnd92259-005-p3s2w33">
 <src.rf>manual</src.rf>
@@ -427,7 +442,10 @@
 <LM>w#w-lnd92259-005-p3s3w4</LM>
 </w.rf>
 <form>FMZV</form>
-<tag lemma="FMZV_:B_;K_^(Federální_ministerstvo_zahr._věcí)" src="orig" selected="1">NNNXX-----A---8</tag>
+<tag>
+<AM lemma="FMZV_:B_;K_^(Federální_ministerstvo_zahr._věcí)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="FMZV-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd92259-005-p3s3w5">
 <src.rf>manual</src.rf>
@@ -491,7 +509,10 @@
 <LM>w#w-lnd92259-005-p3s3w12</LM>
 </w.rf>
 <form>JAR</form>
-<tag lemma="jaro" src="orig" selected="1">NNNP2-----A----</tag>
+<tag>
+<AM lemma="jaro" src="orig">NNNP2-----A----</AM>
+<AM lemma="JAR-1_:B_;G_^(Jihoafrická_republika)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92259-005-p3s3w13">
 <src.rf>manual</src.rf>
@@ -589,7 +610,10 @@
 <LM>w#w-lnd92259-005-p3s4w9</LM>
 </w.rf>
 <form>FMZV</form>
-<tag lemma="FMZV_:B_;K_^(Federální_ministerstvo_zahr._věcí)" src="orig" selected="1">NNNXX-----A---8</tag>
+<tag>
+<AM lemma="FMZV_:B_;K_^(Federální_ministerstvo_zahr._věcí)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="FMZV-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd92259-005-p3s4w10">
 <src.rf>manual</src.rf>
@@ -623,7 +647,10 @@
 <LM>w#w-lnd92259-005-p3s5w2</LM>
 </w.rf>
 <form>čs</form>
-<tag lemma="československý_:B" src="orig" selected="1">AAXXX----1A---8</tag>
+<tag>
+<AM lemma="československý_:B" src="orig">AAXXX----1A---8</AM>
+<AM lemma="československý" src="manual" selected="1">AAXXX----1A---8</AM>
+</tag>
 </m>
 <m id="m-lnd92259-005-p3s5w3">
 <src.rf>manual</src.rf>
@@ -679,7 +706,10 @@
 <LM>w#w-lnd92259-005-p3s5w9</LM>
 </w.rf>
 <form>JAR</form>
-<tag lemma="jaro" src="orig" selected="1">NNNP2-----A----</tag>
+<tag>
+<AM lemma="jaro" src="orig">NNNP2-----A----</AM>
+<AM lemma="JAR-1_:B_;G_^(Jihoafrická_republika)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92259-005-p3s5w10">
 <src.rf>manual</src.rf>
@@ -751,7 +781,10 @@
 <LM>w#w-lnd92259-005-p3s5w18</LM>
 </w.rf>
 <form>JAR</form>
-<tag lemma="jaro" src="orig" selected="1">NNNP2-----A----</tag>
+<tag>
+<AM lemma="jaro" src="orig">NNNP2-----A----</AM>
+<AM lemma="JAR-1_:B_;G_^(Jihoafrická_republika)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92259-005-p3s5w19">
 <src.rf>manual</src.rf>
@@ -767,7 +800,10 @@
 <LM>w#w-lnd92259-005-p3s5w20</LM>
 </w.rf>
 <form>ČSFR</form>
-<tag lemma="ČSFR-1_:B_;G_^(Čs._federativní_republika)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ČSFR-1_:B_;G_^(Čs._federativní_republika)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČSFR-1_:B_;G_^(Čs._federativní_republika)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92259-005-p3s5w21">
 <src.rf>manual</src.rf>

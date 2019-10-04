@@ -78,7 +78,10 @@
 <LM>w#w-mf930713-041-p1s1Bw3</LM>
 </w.rf>
 <form>bar</form>
-<tag lemma="bar-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="bar-99_:B_;S" src="orig">NNXXX-----A---8</AM>
+<AM lemma="bar-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930713-041-p1s1Bw4">
 <src.rf>manual</src.rf>
@@ -555,7 +558,10 @@
 <LM>w#w-mf930713-041-p2s1Bw5</LM>
 </w.rf>
 <form>bar</form>
-<tag lemma="bar-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="bar-99_:B_;S" src="orig">NNXXX-----A---8</AM>
+<AM lemma="bar-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930713-041-p2s1Bw6">
 <src.rf>manual</src.rf>
@@ -1121,7 +1127,10 @@
 <LM>w#w-mf930713-041-p3s1Bw3</LM>
 </w.rf>
 <form>ouš</form>
-<tag lemma="ouš-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="ouš-99_:B_;S" src="orig">NNXXX-----A---8</AM>
+<AM lemma="ouš-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930713-041-p3s1Bw4">
 <src.rf>manual</src.rf>
@@ -1204,7 +1213,10 @@
 <LM>w#w-mf930713-041-p3s1Cw8</LM>
 </w.rf>
 <form>stadionu</form>
-<tag lemma="stadión" src="orig" selected="1">NNIS2-----A----</tag>
+<tag>
+<AM lemma="stadión" src="orig">NNIS2-----A----</AM>
+<AM lemma="stadion_,s_^(^DD**stadión)" src="manual" selected="1">NNIS2-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930713-041-p3s1Cw9">
 <src.rf>manual</src.rf>
@@ -1366,7 +1378,10 @@
 <LM>w#w-mf930713-041-p3s2w14</LM>
 </w.rf>
 <form>začal</form>
-<tag lemma="začít-1_^(začnout)" src="auto" selected="1">VpYS---XR-AA---</tag>
+<tag>
+<AM lemma="začít-1_^(začnout)" src="auto">VpYS---XR-AA---</AM>
+<AM lemma="začít-1_:W_^(začnout)" src="manual" selected="1">VpYS---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-mf930713-041-p3s2w15">
 <src.rf>manual</src.rf>
@@ -1529,6 +1544,7 @@
 <AM lemma="do-99_:B_;S" src="orig">NNXXX-----A---8</AM>
 <AM lemma="do-1" src="auto" recommended="1">RR--2----------</AM>
 <AM lemma="do-7_^(předpona,_sam.)" src="auto">A2--------A----</AM>
+<AM lemma="do-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930713-041-p4s1Bw4">
@@ -1817,7 +1833,7 @@
 <AM lemma="bicykl" src="orig">NNIS6-----A----</AM>
 <AM lemma="bicykl" src="auto">NNIS2-----A----</AM>
 <AM lemma="bicykl" src="auto">NNIS3-----A----</AM>
-<AM lemma="bicykl" src="auto" recommended="1">NNIS6-----A---1</AM>
+<AM lemma="bicykl" src="auto" recommended="1" selected="1">NNIS6-----A---1</AM>
 </tag>
 </m>
 <m id="m-mf930713-041-p4s2w15">

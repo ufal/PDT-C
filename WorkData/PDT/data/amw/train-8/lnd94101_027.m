@@ -115,7 +115,11 @@
 <LM>w#w-lnd94101-027-p1s1w13</LM>
 </w.rf>
 <form>sv</form>
-<tag lemma="svatý-1_:B" src="auto" selected="1">AAXXX----1A---8</tag>
+<tag>
+<AM lemma="svatý-1_:B" src="auto">AAXXX----1A---8</AM>
+<AM lemma="svatý" src="manual">AAXXX----1A---8</AM>
+<AM lemma="svatý-1" src="manual" selected="1">AAXXX----1A---8</AM>
+</tag>
 </m>
 <m id="m-lnd94101-027-p1s1w14">
 <src.rf>manual</src.rf>
@@ -137,7 +141,7 @@
 <AM lemma="Jiří_;Y" src="auto">NNMP4-----A----</AM>
 <AM lemma="Jiří_;Y" src="auto">NNMP5-----A----</AM>
 <AM lemma="Jiří_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Jiří_;Y" src="auto">NNMS2-----A---2</AM>
+<AM lemma="Jiří_;Y" src="auto" selected="1">NNMS2-----A---2</AM>
 <AM lemma="Jiří_;Y" src="auto">NNMS3-----A---2</AM>
 <AM lemma="Jiří_;Y" src="auto">NNMS4-----A---2</AM>
 <AM lemma="Jiří_;Y" src="auto">NNMS5-----A----</AM>
@@ -249,7 +253,10 @@
 <LM>w#w-lnd94101-027-p1s3w7</LM>
 </w.rf>
 <form>s</form>
-<tag lemma="společnost_:B" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="společnost_:B" src="orig">NNFXX-----A---8</AM>
+<AM lemma="společnost" src="manual" selected="1">NNFXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd94101-027-p1s3w8">
 <src.rf>manual</src.rf>
@@ -265,7 +272,10 @@
 <LM>w#w-lnd94101-027-p1s3w9</LM>
 </w.rf>
 <form>r</form>
-<tag lemma="ručení_:B" src="orig" selected="1">NNNS7-----A---8</tag>
+<tag>
+<AM lemma="ručení_:B" src="orig">NNNS7-----A---8</AM>
+<AM lemma="ručení" src="manual" selected="1">NNNS7-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd94101-027-p1s3w10">
 <src.rf>manual</src.rf>
@@ -281,7 +291,10 @@
 <LM>w#w-lnd94101-027-p1s3w11</LM>
 </w.rf>
 <form>o</form>
-<tag lemma="omezený_:B" src="orig" selected="1">AANS7----1A---8</tag>
+<tag>
+<AM lemma="omezený_:B" src="orig">AANS7----1A---8</AM>
+<AM lemma="omezený" src="manual" selected="1">AANS7----1A---8</AM>
+</tag>
 </m>
 <m id="m-lnd94101-027-p1s3w12">
 <src.rf>manual</src.rf>
@@ -321,7 +334,10 @@
 <LM>w#w-lnd94101-027-p1s3w16</LM>
 </w.rf>
 <form>Sv</form>
-<tag lemma="svatý-1_:B" src="auto" selected="1">AAXXX----1A---8</tag>
+<tag>
+<AM lemma="svatý-1_:B" src="auto">AAXXX----1A---8</AM>
+<AM lemma="svatý-1" src="manual" selected="1">AAXXX----1A---8</AM>
+</tag>
 </m>
 <m id="m-lnd94101-027-p1s3w17">
 <src.rf>manual</src.rf>
@@ -343,7 +359,7 @@
 <AM lemma="Jiří_;Y" src="auto">NNMP4-----A----</AM>
 <AM lemma="Jiří_;Y" src="auto">NNMP5-----A----</AM>
 <AM lemma="Jiří_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Jiří_;Y" src="auto">NNMS2-----A---2</AM>
+<AM lemma="Jiří_;Y" src="auto" selected="1">NNMS2-----A---2</AM>
 <AM lemma="Jiří_;Y" src="auto">NNMS3-----A---2</AM>
 <AM lemma="Jiří_;Y" src="auto">NNMS4-----A---2</AM>
 <AM lemma="Jiří_;Y" src="auto">NNMS5-----A----</AM>
@@ -422,7 +438,7 @@
 </w.rf>
 <form>Iko</form>
 <tag>
-<AM lemma="Iko_;K" src="orig">NNNS1-----A----</AM>
+<AM lemma="Iko_;K" src="orig" selected="1">NNNS1-----A----</AM>
 <AM lemma="Ica_;G" src="auto" recommended="1">NNFS5-----A----</AM>
 <AM lemma="Ika_;G" src="auto">NNFS5-----A----</AM>
 </tag>
@@ -457,7 +473,10 @@
 <LM>w#w-lnd94101-027-p1s3w31</LM>
 </w.rf>
 <form>milionů</form>
-<tag lemma="milión`1000000" src="orig" selected="1">NNIP2-----A----</tag>
+<tag>
+<AM lemma="milión`1000000" src="orig">NNIP2-----A----</AM>
+<AM lemma="milion`1000000_,s_^(^DD**milión)" src="manual" selected="1">NNIP2-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd94101-027-p1s3w32">
 <src.rf>manual</src.rf>
@@ -662,7 +681,10 @@
 <LM>w#w-lnd94101-027-p1s4w19</LM>
 </w.rf>
 <form>odvezou</form>
-<tag lemma="odvézt" src="orig" selected="1">VB-P---3P-AA---</tag>
+<tag>
+<AM lemma="odvézt" src="orig">VB-P---3P-AA---</AM>
+<AM lemma="odvézt_:W" src="manual" selected="1">VB-P---3P-AA---</AM>
+</tag>
 </m>
 <m id="m-lnd94101-027-p1s4w20">
 <src.rf>manual</src.rf>
@@ -696,7 +718,10 @@
 <LM>w#w-lnd94101-027-p1s5w2</LM>
 </w.rf>
 <form>ČTK</form>
-<tag lemma="ČTK-1_:B_;K_^(Čs./Česká_tisková_kancelář)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ČTK-1_:B_;K_^(Čs./Česká_tisková_kancelář)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČTK_:B_;K_^(Čs./Česká_tisková_kancelář)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd94101-027-p1s5w3">
 <src.rf>manual</src.rf>

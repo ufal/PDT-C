@@ -509,7 +509,10 @@
 <LM>w#w-ln95046-003-p2s3w16</LM>
 </w.rf>
 <form>ILO</form>
-<tag lemma="ILO-2_:B_;K_,t_^(International_Labour_Organisation)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ILO-2_:B_;K_,t_^(International_Labour_Organisation)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ILO-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95046-003-p2s3w17">
 <src.rf>manual</src.rf>
@@ -543,7 +546,10 @@
 <LM>w#w-ln95046-003-p3s1w2</LM>
 </w.rf>
 <form>ILO</form>
-<tag lemma="ILO-2_:B_;K_,t_^(International_Labour_Organisation)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ILO-2_:B_;K_,t_^(International_Labour_Organisation)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ILO-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95046-003-p3s1w3">
 <src.rf>manual</src.rf>
@@ -811,7 +817,10 @@
 <LM>w#w-ln95046-003-p3s3w4</LM>
 </w.rf>
 <form>ILO</form>
-<tag lemma="ILO-2_:B_;K_,t_^(International_Labour_Organisation)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ILO-2_:B_;K_,t_^(International_Labour_Organisation)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ILO-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95046-003-p3s3w5">
 <src.rf>manual</src.rf>
@@ -1404,7 +1413,10 @@
 <LM>w#w-ln95046-003-p4s2w8</LM>
 </w.rf>
 <form>ILO</form>
-<tag lemma="ILO-2_:B_;K_,t_^(International_Labour_Organisation)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ILO-2_:B_;K_,t_^(International_Labour_Organisation)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ILO-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95046-003-p4s2w9">
 <src.rf>manual</src.rf>
@@ -1526,7 +1538,10 @@
 <LM>w#w-ln95046-003-p5s1w1</LM>
 </w.rf>
 <form>ILO</form>
-<tag lemma="ILO-2_:B_;K_,t_^(International_Labour_Organisation)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ILO-2_:B_;K_,t_^(International_Labour_Organisation)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ILO-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95046-003-p5s1w2">
 <src.rf>manual</src.rf>
@@ -1954,7 +1969,10 @@
 <LM>w#w-ln95046-003-p5s3w22</LM>
 </w.rf>
 <form>ILO</form>
-<tag lemma="ILO-2_:B_;K_,t_^(International_Labour_Organisation)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ILO-2_:B_;K_,t_^(International_Labour_Organisation)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ILO-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95046-003-p5s3w23">
 <src.rf>manual</src.rf>
@@ -2190,7 +2208,10 @@
 <LM>w#w-ln95046-003-p6s2w7</LM>
 </w.rf>
 <form>ILO</form>
-<tag lemma="ILO-2_:B_;K_,t_^(International_Labour_Organisation)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ILO-2_:B_;K_,t_^(International_Labour_Organisation)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ILO-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95046-003-p6s2w8">
 <src.rf>manual</src.rf>
@@ -2312,7 +2333,10 @@
 <LM>w#w-ln95046-003-p7s1w1</LM>
 </w.rf>
 <form>ILO</form>
-<tag lemma="ILO-2_:B_;K_,t_^(International_Labour_Organisation)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ILO-2_:B_;K_,t_^(International_Labour_Organisation)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ILO-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95046-003-p7s1w2">
 <src.rf>manual</src.rf>
@@ -2379,6 +2403,7 @@
 <tag>
 <AM lemma="USA_;G" src="orig">NNIPX-----A----</AM>
 <AM lemma="USA_:B_;K_,t_^(United_States_of_America)" src="auto" recommended="1">NNIPX-----A---8</AM>
+<AM lemma="USA_:B_;K_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95046-003-p7s1w10">

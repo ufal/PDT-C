@@ -35,7 +35,10 @@
 <LM>w#w-mf920925-007-p1s1w3</LM>
 </w.rf>
 <form>FSÚ</form>
-<tag lemma="FSÚ_:B_;K" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="FSÚ_:B_;K" src="orig">NNIXX-----A---8</AM>
+<AM lemma="FSÚ-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 </s>
 <s id="m-mf920925-007-p2s1">
@@ -61,7 +64,10 @@
 <LM>w#w-mf920925-007-p2s1w3</LM>
 </w.rf>
 <form>MF</form>
-<tag lemma="MF-1_:B_;R_;b_^(Mladá_Fronta,_deník)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="MF-1_:B_;R_;b_^(Mladá_Fronta,_deník)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="MF-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920925-007-p2s1w4">
 <src.rf>manual</src.rf>
@@ -209,7 +215,7 @@
 <AM lemma="dřívější" src="auto">AAFS1----2A----</AM>
 <AM lemma="dřívější" src="auto">AAFS2----2A----</AM>
 <AM lemma="dřívější" src="auto">AAFS3----2A----</AM>
-<AM lemma="dřívější" src="auto" recommended="1">AAFS4----2A----</AM>
+<AM lemma="dřívější" src="auto" recommended="1" selected="1">AAFS4----2A----</AM>
 <AM lemma="dřívější" src="auto">AAFS5----2A----</AM>
 <AM lemma="dřívější" src="auto">AAFS6----2A----</AM>
 <AM lemma="dřívější" src="auto">AAFS7----2A----</AM>
@@ -500,7 +506,10 @@
 <LM>w#w-mf920925-007-p4s1w2</LM>
 </w.rf>
 <form>jš</form>
-<tag lemma="jš-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="jš-99_:B_;S" src="orig">NNXXX-----A---8</AM>
+<AM lemma="jš-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920925-007-p4s1w3">
 <src.rf>manual</src.rf>

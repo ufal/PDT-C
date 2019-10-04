@@ -51,7 +51,10 @@
 <LM>w#w-ln95048-008-p1s1w5</LM>
 </w.rf>
 <form>telecom</form>
-<tag lemma="telecom_;K_,t" src="orig" selected="1">NNIS4-----A----</tag>
+<tag>
+<AM lemma="telecom_;K_,t" src="orig">NNIS4-----A----</AM>
+<AM lemma="telecom_;K" src="manual" selected="1">NNIS4-----A----</AM>
+</tag>
 </m>
 </s>
 <s id="m-ln95048-008-p2s1A">
@@ -167,7 +170,10 @@
 <LM>w#w-ln95048-008-p2s1Bw12</LM>
 </w.rf>
 <form>Deutsche</form>
-<tag lemma="Deutsche-1_;K_,t_^(souč._názvů,_např._D._Telekom)" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="Deutsche-1_;K_,t_^(souč._názvů,_např._D._Telekom)" src="orig">AAXXX----1A----</AM>
+<AM lemma="Deutsche-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln95048-008-p2s1Bw13">
 <src.rf>manual</src.rf>
@@ -179,6 +185,7 @@
 <AM lemma="Telekom_;K_,t" src="orig">NNISX-----A----</AM>
 <AM lemma="telekom" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="telekom" src="auto">NNIS4-----A----</AM>
+<AM lemma="Telekom-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-ln95048-008-p2s1Bw14">
@@ -235,7 +242,10 @@
 <LM>w#w-ln95048-008-p2s1Bw20</LM>
 </w.rf>
 <form>SPT</form>
-<tag lemma="SPT-1_:B_;K_;b_;c_^(v_býv._názvu_SPT_Telecom)" src="auto" selected="1">NNNXX-----A---8</tag>
+<tag>
+<AM lemma="SPT-1_:B_;K_;b_;c_^(v_býv._názvu_SPT_Telecom)" src="auto">NNNXX-----A---8</AM>
+<AM lemma="SPT-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95048-008-p2s1Bw21">
 <src.rf>manual</src.rf>
@@ -458,6 +468,7 @@
 <tag>
 <AM lemma="USA_;G" src="orig">NNIPX-----A----</AM>
 <AM lemma="USA_:B_;K_,t_^(United_States_of_America)" src="auto" recommended="1">NNIPX-----A---8</AM>
+<AM lemma="USA_:B_;K_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-ln95048-008-p3s2w14">
@@ -476,7 +487,10 @@
 <LM>w#w-ln95048-008-p4s1w1</LM>
 </w.rf>
 <form>Deutsche</form>
-<tag lemma="Deutsche-1_;K_,t_^(souč._názvů,_např._D._Telekom)" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="Deutsche-1_;K_,t_^(souč._názvů,_např._D._Telekom)" src="orig">AAXXX----1A----</AM>
+<AM lemma="Deutsche-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln95048-008-p4s1w2">
 <src.rf>manual</src.rf>
@@ -484,7 +498,10 @@
 <LM>w#w-ln95048-008-p4s1w2</LM>
 </w.rf>
 <form>Telekom</form>
-<tag lemma="telekom" src="orig" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="telekom" src="orig">NNIS1-----A----</AM>
+<AM lemma="Telekom-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln95048-008-p4s1w3">
 <src.rf>manual</src.rf>
@@ -640,7 +657,10 @@
 <LM>w#w-ln95048-008-p4s2w12</LM>
 </w.rf>
 <form>NDR</form>
-<tag lemma="NDR_:B_;G_;K" src="auto" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="NDR_:B_;G_;K" src="auto">NNFXX-----A---8</AM>
+<AM lemma="NDR-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95048-008-p4s2w13">
 <src.rf>manual</src.rf>
@@ -786,7 +806,10 @@
 <LM>w#w-ln95048-008-p4s3w5</LM>
 </w.rf>
 <form>stala</form>
-<tag lemma="stát-2_^(něco_se_přihodilo)" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag>
+<AM lemma="stát-2_^(něco_se_přihodilo)" src="orig">VpQW---XR-AA---</AM>
+<AM lemma="stát-2_^(stanu_staneš)" src="manual" selected="1">VpQW---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-ln95048-008-p4s3w6">
 <src.rf>manual</src.rf>

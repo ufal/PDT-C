@@ -149,7 +149,10 @@
 <LM>w#w-mf930703-100-p2s1w8</LM>
 </w.rf>
 <form>chargé</form>
-<tag lemma="chargé_^(chargé_d`affaires)" src="auto" selected="1">NNMXX-----A----</tag>
+<tag>
+<AM lemma="chargé_^(chargé_d`affaires)" src="auto">NNMXX-----A----</AM>
+<AM lemma="chargé-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-mf930703-100-p2s1w9">
 <src.rf>manual</src.rf>
@@ -157,7 +160,10 @@
 <LM>w#w-mf930703-100-p2s1w9</LM>
 </w.rf>
 <form>d</form>
-<tag lemma="d-4_^(př._d'Artagnan,_stažený_tvar_fr._předl.)" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="d-4_^(př._d'Artagnan,_stažený_tvar_fr._předl.)" src="orig">AAXXX----1A----</AM>
+<AM lemma="d-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-mf930703-100-p2s1w10">
 <src.rf>manual</src.rf>
@@ -173,7 +179,10 @@
 <LM>w#w-mf930703-100-p2s1w11</LM>
 </w.rf>
 <form>affaires</form>
-<tag lemma="affaires_:B_,t_^(v_chargé_d'affaires)" src="orig" selected="1">NNNPX-----A----</tag>
+<tag>
+<AM lemma="affaires_:B_,t_^(v_chargé_d'affaires)" src="orig">NNNPX-----A----</AM>
+<AM lemma="affaires-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-mf930703-100-p2s1w12">
 <src.rf>manual</src.rf>
@@ -599,7 +608,10 @@
 <LM>w#w-mf930703-100-p3s1w31</LM>
 </w.rf>
 <form>Kommersant</form>
-<tag lemma="Kommersant_;K" src="auto" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="Kommersant_;K" src="auto">NNIS1-----A----</AM>
+<AM lemma="Kommersant-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-mf930703-100-p3s1w32">
 <src.rf>manual</src.rf>

@@ -544,7 +544,7 @@
 <AM lemma="brzký" src="orig">AAIP2----2A----</AM>
 <AM lemma="dřívější" src="auto" recommended="1">AAFP2----2A----</AM>
 <AM lemma="dřívější" src="auto">AAFP6----2A----</AM>
-<AM lemma="dřívější" src="auto">AAIP2----2A----</AM>
+<AM lemma="dřívější" src="auto" selected="1">AAIP2----2A----</AM>
 <AM lemma="dřívější" src="auto">AAIP6----2A----</AM>
 <AM lemma="dřívější" src="auto">AAMP2----2A----</AM>
 <AM lemma="dřívější" src="auto">AAMP6----2A----</AM>
@@ -558,7 +558,10 @@
 <LM>w#w-cmpr9406-060-p5s2w41</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-2" src="auto" selected="1">Dg-------2A----</tag>
+<tag>
+<AM lemma="hodně-2" src="auto">Dg-------2A----</AM>
+<AM lemma="hodně-3" src="manual" selected="1">Dg-------2A----</AM>
+</tag>
 </m>
 <m id="m-cmpr9406-060-p5s2w42">
 <src.rf>manual</src.rf>
@@ -738,7 +741,10 @@
 <LM>w#w-cmpr9406-060-p5s3w15</LM>
 </w.rf>
 <form>Greenwaldem</form>
-<tag lemma="Greenwald_;G" src="orig" selected="1">NNIS7-----A----</tag>
+<tag>
+<AM lemma="Greenwald_;G" src="orig">NNIS7-----A----</AM>
+<AM lemma="Greenwald-2_;S" src="manual" selected="1">NNMS7-----A----</AM>
+</tag>
 </m>
 <m id="m-cmpr9406-060-p5s3w16">
 <src.rf>manual</src.rf>
@@ -1632,7 +1638,10 @@
 <LM>w#w-cmpr9406-060-p12s2w19</LM>
 </w.rf>
 <form>jen</form>
-<tag lemma="jen-1" src="auto" selected="1">TT-------------</tag>
+<tag>
+<AM lemma="jen-1" src="auto">TT-------------</AM>
+<AM lemma="jen-4_^(pouze)" src="manual" selected="1">Db-------------</AM>
+</tag>
 </m>
 <m id="m-cmpr9406-060-p12s2w20">
 <src.rf>manual</src.rf>
@@ -1921,7 +1930,7 @@
 <form>snad</form>
 <tag>
 <AM lemma="snad" src="orig">Db-------------</AM>
-<AM lemma="snad" src="auto" recommended="1">TT-------------</AM>
+<AM lemma="snad" src="auto" recommended="1" selected="1">TT-------------</AM>
 </tag>
 </m>
 <m id="m-cmpr9406-060-p14s1w8">
@@ -1930,7 +1939,10 @@
 <LM>w#w-cmpr9406-060-p14s1w8</LM>
 </w.rf>
 <form>jen</form>
-<tag lemma="jen-1" src="auto" selected="1">TT-------------</tag>
+<tag>
+<AM lemma="jen-1" src="auto">TT-------------</AM>
+<AM lemma="jen-4_^(pouze)" src="manual" selected="1">Db-------------</AM>
+</tag>
 </m>
 <m id="m-cmpr9406-060-p14s1w9">
 <src.rf>manual</src.rf>
@@ -2502,7 +2514,10 @@
 <LM>w#w-cmpr9406-060-p16s3w11</LM>
 </w.rf>
 <form>organismus</form>
-<tag lemma="organismus" src="orig" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="organismus" src="orig">NNIS1-----A----</AM>
+<AM lemma="organismus_,s_^(^DD**organizmus)" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-cmpr9406-060-p16s3w12">
 <src.rf>manual</src.rf>
@@ -2826,7 +2841,10 @@
 <LM>w#w-cmpr9406-060-p17s1w18</LM>
 </w.rf>
 <form>Greenwalda</form>
-<tag lemma="Greenwald_;S" src="orig" selected="1">NNMS4-----A----</tag>
+<tag>
+<AM lemma="Greenwald_;S" src="orig">NNMS4-----A----</AM>
+<AM lemma="Greenwald-2_;S" src="manual" selected="1">NNMS4-----A----</AM>
+</tag>
 </m>
 <m id="m-cmpr9406-060-p17s1w19">
 <src.rf>manual</src.rf>

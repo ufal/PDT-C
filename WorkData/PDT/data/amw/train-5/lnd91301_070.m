@@ -271,7 +271,10 @@
 <LM>w#w-lnd91301-070-p2s1Bw24</LM>
 </w.rf>
 <form>KGB</form>
-<tag lemma="KGB_:B_;K_;p_^(Sov._státní_tajná_bezpečnost)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="KGB_:B_;K_;p_^(Sov._státní_tajná_bezpečnost)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="KGB_:B_;K_;p_^(Sov._státní_tajná_bezpečnost)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd91301-070-p2s1Bw25">
 <src.rf>manual</src.rf>
@@ -758,7 +761,10 @@
 <LM>w#w-lnd91301-070-p3s3w20</LM>
 </w.rf>
 <form>Džaba</form>
-<tag lemma="Džaba_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Džaba_;S" src="orig">NNMS1-----A----</AM>
+<AM lemma="Džaba_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd91301-070-p3s3w21">
 <src.rf>manual</src.rf>
@@ -1037,7 +1043,7 @@
 <tag>
 <AM lemma="tedy" src="orig">Db-------------</AM>
 <AM lemma="tedy-1" src="auto">TT-------------</AM>
-<AM lemma="tedy-2" src="auto" recommended="1">J^-------------</AM>
+<AM lemma="tedy-2" src="auto" recommended="1" selected="1">J^-------------</AM>
 </tag>
 </m>
 <m id="m-lnd91301-070-p4s2w4">
@@ -1420,7 +1426,10 @@
 <LM>w#w-lnd91301-070-p5s1w13</LM>
 </w.rf>
 <form>Rustaveliho</form>
-<tag lemma="Rustaveli_;S" src="orig" selected="1">NNMS2-----A----</tag>
+<tag>
+<AM lemma="Rustaveli_;S" src="orig">NNMS2-----A----</AM>
+<AM lemma="Rustaveliho_;S_^(*2)" src="manual" selected="1">AUFS6M---------</AM>
+</tag>
 </m>
 <m id="m-lnd91301-070-p5s1w14">
 <src.rf>manual</src.rf>

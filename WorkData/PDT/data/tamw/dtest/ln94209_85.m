@@ -93,7 +93,10 @@
 <LM>w#w-ln94209-85-p2s1Aw3</LM>
 </w.rf>
 <form>bra</form>
-<tag lemma="bra-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="bra-99_:B_;S" src="orig">NNXXX-----A---8</AM>
+<AM lemma="bra-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94209-85-p2s1Aw4">
 <src.rf>manual</src.rf>
@@ -249,7 +252,7 @@
 <form>Pragobanka</form>
 <tag>
 <AM lemma="Pragobanka_;w" src="orig">AAXXX----1A----</AM>
-<AM lemma="Pragobanka" src="auto" recommended="1">NNFS1-----A----</AM>
+<AM lemma="Pragobanka" src="auto" recommended="1" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94209-85-p2s1Bw18">
@@ -258,7 +261,10 @@
 <LM>w#w-ln94209-85-p2s1Bw18</LM>
 </w.rf>
 <form>Cup</form>
-<tag lemma="Cup-1_;m_;w_,t_^(pohár,_soutěž;_v_názvech)" src="auto" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="Cup-1_;m_;w_,t_^(pohár,_soutěž;_v_názvech)" src="auto">NNIS1-----A----</AM>
+<AM lemma="Cup-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94209-85-p2s1Bw19">
 <src.rf>manual</src.rf>
@@ -504,6 +510,7 @@
 <AM lemma="začít-1" src="orig">Vf--------A----</AM>
 <AM lemma="začít-1_^(začnout)" src="auto" recommended="1">Vf--------A----</AM>
 <AM lemma="začít-2_^(pocítit)" src="auto">Vf--------A----</AM>
+<AM lemma="začít-1_:W_^(začnout)" src="manual" selected="1">Vf--------A----</AM>
 </tag>
 </m>
 <m id="m-ln94209-85-p2s2w21">

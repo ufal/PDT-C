@@ -101,7 +101,10 @@
 <LM>w#w-ln94206-135-p2s1Aw6</LM>
 </w.rf>
 <form>Wild</form>
-<tag lemma="Wild_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Wild_;S" src="orig">NNMS1-----A----</AM>
+<AM lemma="Wild-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94206-135-p2s1Aw7">
 <src.rf>manual</src.rf>
@@ -109,7 +112,10 @@
 <LM>w#w-ln94206-135-p2s1Aw7</LM>
 </w.rf>
 <form>Duck</form>
-<tag lemma="Duck_;G" src="auto" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="Duck_;G" src="auto">NNIS1-----A----</AM>
+<AM lemma="Duck-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94206-135-p2s1Aw8">
 <src.rf>manual</src.rf>
@@ -207,7 +213,10 @@
 <LM>w#w-ln94206-135-p2s1Bw10</LM>
 </w.rf>
 <form>NEOBLBA</form>
-<tag lemma="NEOBLBA_;K" src="orig" selected="1">NNFS1-----A----</tag>
+<tag>
+<AM lemma="NEOBLBA_;K" src="orig">NNFS1-----A----</AM>
+<AM lemma="NEOBLBA-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln94206-135-p2s1Bw11">
 <src.rf>manual</src.rf>
@@ -521,7 +530,10 @@
 <LM>w#w-ln94206-135-p2s2w16</LM>
 </w.rf>
 <form>KSČM</form>
-<tag lemma="KSČM_:B_;K_;p_^(Komunistická_strana_Čech_a_Moravy)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="KSČM_:B_;K_;p_^(Komunistická_strana_Čech_a_Moravy)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="KSČM_:B_;K_^(Komunistická_strana_Čech_a_Moravy)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94206-135-p2s2w17">
 <src.rf>manual</src.rf>
@@ -603,7 +615,10 @@
 <LM>w#w-ln94206-135-p2s3w5</LM>
 </w.rf>
 <form>ODA</form>
-<tag lemma="ODA-2_:B_;K_;p_^(Občanská_demokratická_aliance)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ODA-2_:B_;K_;p_^(Občanská_demokratická_aliance)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ODA-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln94206-135-p2s3w6">
 <src.rf>manual</src.rf>
@@ -701,7 +716,10 @@
 <LM>w#w-ln94206-135-p2s4w3</LM>
 </w.rf>
 <form>ODS</form>
-<tag lemma="ODS-1_:B_;K_;p_^(Občanská_demokratická_strana)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ODS-1_:B_;K_;p_^(Občanská_demokratická_strana)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ODS-1_:B_;K_^(Občanská_demokratická_strana)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94206-135-p2s4w4">
 <src.rf>manual</src.rf>
@@ -823,7 +841,10 @@
 <LM>w#w-ln94206-135-p3s1w3</LM>
 </w.rf>
 <form>NEOBLBY</form>
-<tag lemma="NEOBLBA_;K" src="orig" selected="1">NNFS2-----A----</tag>
+<tag>
+<AM lemma="NEOBLBA_;K" src="orig">NNFS2-----A----</AM>
+<AM lemma="NEOBLBY-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln94206-135-p3s1w4">
 <src.rf>manual</src.rf>
@@ -898,7 +919,7 @@
 <tag>
 <AM lemma="nalézt" src="orig">Vf--------A----</AM>
 <AM lemma="nalézt-1_^(někam)" src="auto" recommended="1">Vf--------A----</AM>
-<AM lemma="nalézt-2" src="auto">Vf--------A----</AM>
+<AM lemma="nalézt-2" src="auto" selected="1">Vf--------A----</AM>
 </tag>
 </m>
 <m id="m-ln94206-135-p3s1w13">
@@ -1208,7 +1229,10 @@
 <LM>w#w-ln94206-135-p3s3w5</LM>
 </w.rf>
 <form>StB</form>
-<tag lemma="StB_:B_;K" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="StB_:B_;K" src="orig">NNFXX-----A---8</AM>
+<AM lemma="StB-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln94206-135-p3s3w6">
 <src.rf>manual</src.rf>
@@ -1225,7 +1249,7 @@
 </w.rf>
 <form>totiž</form>
 <tag>
-<AM lemma="totiž" src="orig">Db-------------</AM>
+<AM lemma="totiž" src="orig" selected="1">Db-------------</AM>
 <AM lemma="totiž-1" src="auto" recommended="1">J^-------------</AM>
 <AM lemma="totiž-2" src="auto">TT-------------</AM>
 </tag>

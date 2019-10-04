@@ -43,7 +43,10 @@
 <LM>w#w-lnd94103-085-p1s1w4</LM>
 </w.rf>
 <form>po</form>
-<tag lemma="po-2_:B_,x_^(pondělí)" src="orig" selected="1">NNNXX-----A---8</tag>
+<tag>
+<AM lemma="po-2_:B_,x_^(pondělí)" src="orig">NNNXX-----A---8</AM>
+<AM lemma="pondělí" src="manual" selected="1">NNNXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd94103-085-p1s1w5">
 <src.rf>manual</src.rf>
@@ -59,7 +62,10 @@
 <LM>w#w-lnd94103-085-p1s1w6</LM>
 </w.rf>
 <form>pá</form>
-<tag lemma="pá-1_:B_^(pátek)" src="auto" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="pá-1_:B_^(pátek)" src="auto">NNIXX-----A---8</AM>
+<AM lemma="pátek" src="manual" selected="1">NNIXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd94103-085-p1s1w7">
 <src.rf>manual</src.rf>
@@ -91,7 +97,10 @@
 <LM>w#w-lnd94103-085-p1s1w10</LM>
 </w.rf>
 <form>hod</form>
-<tag lemma="hodina_:B" src="auto" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="hodina_:B" src="auto">NNFXX-----A---8</AM>
+<AM lemma="hodina" src="manual" selected="1">NNFXX-----A---9</AM>
+</tag>
 </m>
 <m id="m-lnd94103-085-p1s1w11">
 <src.rf>manual</src.rf>
@@ -2325,7 +2334,10 @@
 <LM>w#w-lnd94103-085-p1s17w3</LM>
 </w.rf>
 <form>li</form>
-<tag lemma="li-1" src="auto" selected="1">TT-------------</tag>
+<tag>
+<AM lemma="li-1" src="auto">TT-------------</AM>
+<AM lemma="li-2" src="manual" selected="1">J,-------------</AM>
+</tag>
 </m>
 <m id="m-lnd94103-085-p1s17w4">
 <src.rf>manual</src.rf>
@@ -2689,7 +2701,11 @@
 <LM>w#w-lnd94103-085-p1s18Bw8</LM>
 </w.rf>
 <form>hodnej</form>
-<tag lemma="hodný-1_^(být_hoden)" src="orig" selected="1">AAMS1----1A---6</tag>
+<tag>
+<AM lemma="hodný-1_^(být_hoden)" src="orig">AAMS1----1A---6</AM>
+<AM lemma="hodný-2_^(nezlobivý)" src="manual">AAMS1----1A---6</AM>
+<AM lemma="hodný-1_^(být_hoden_nezlobivý)" src="manual" selected="1">AAMS1----1A---6</AM>
+</tag>
 </m>
 <m id="m-lnd94103-085-p1s18Bw9">
 <src.rf>manual</src.rf>
@@ -2880,7 +2896,7 @@
 <tag>
 <AM lemma="tedy" src="orig">Db-------------</AM>
 <AM lemma="tedy-1" src="auto">TT-------------</AM>
-<AM lemma="tedy-2" src="auto" recommended="1">J^-------------</AM>
+<AM lemma="tedy-2" src="auto" recommended="1" selected="1">J^-------------</AM>
 </tag>
 </m>
 <m id="m-lnd94103-085-p1s20w4">
@@ -4754,7 +4770,10 @@
 <LM>w#w-lnd94103-085-p1s27w34</LM>
 </w.rf>
 <form>dlouhá</form>
-<tag lemma="dlouhý-2_^(o_čase;_př._dlouhá_doba)" src="orig" selected="1">AANP4----1A----</tag>
+<tag>
+<AM lemma="dlouhý-2_^(o_čase;_př._dlouhá_doba)" src="orig">AANP4----1A----</AM>
+<AM lemma="dlouhý_^(dlouhá_tyč_dlouhá_doba)" src="manual" selected="1">AANP4----1A----</AM>
+</tag>
 </m>
 <m id="m-lnd94103-085-p1s27w35">
 <src.rf>manual</src.rf>
@@ -4778,7 +4797,10 @@
 <LM>w#w-lnd94103-085-p1s27w37</LM>
 </w.rf>
 <form>vydávali</form>
-<tag lemma="vydávat-1_:T_^(emitovat:_cenné_papíry,_knihu,_zvuk,...)_(*6at-1)" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag>
+<AM lemma="vydávat-1_:T_^(emitovat:_cenné_papíry,_knihu,_zvuk,...)_(*6at-1)" src="orig">VpMP---XR-AA---</AM>
+<AM lemma="vydávat_:T_^(*4at)" src="manual" selected="1">VpMP---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-lnd94103-085-p1s27w38">
 <src.rf>manual</src.rf>

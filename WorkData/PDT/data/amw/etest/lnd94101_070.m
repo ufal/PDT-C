@@ -29,7 +29,7 @@
 <form>zpěvačka</form>
 <tag>
 <AM lemma="zpěvák" src="orig">NNFS1-----A----</AM>
-<AM lemma="zpěvačka" src="auto" recommended="1">NNFS1-----A----</AM>
+<AM lemma="zpěvačka" src="auto" recommended="1" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94101-070-p1s1w3">
@@ -38,7 +38,10 @@
 <LM>w#w-lnd94101-070-p1s1w3</LM>
 </w.rf>
 <form>Maggie</form>
-<tag lemma="Maggie_;Y" src="auto" selected="1">NNFSX-----A----</tag>
+<tag>
+<AM lemma="Maggie_;Y" src="auto">NNFSX-----A----</AM>
+<AM lemma="Maggie_;Y" src="manual" selected="1">NNFXX-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd94101-070-p1s1w4">
 <src.rf>manual</src.rf>
@@ -110,7 +113,10 @@
 <LM>w#w-lnd94101-070-p1s1w12</LM>
 </w.rf>
 <form>Mikem</form>
-<tag lemma="Mike_;Y_,t" src="orig" selected="1">NNMS7-----A----</tag>
+<tag>
+<AM lemma="Mike_;Y_,t" src="orig">NNMS7-----A----</AM>
+<AM lemma="Mike_;Y" src="manual" selected="1">NNMS7-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd94101-070-p1s1w13">
 <src.rf>manual</src.rf>
@@ -134,7 +140,10 @@
 <LM>w#w-lnd94101-070-p1s1w15</LM>
 </w.rf>
 <form>jako</form>
-<tag lemma="jako-1" src="auto" selected="1">J,-------------</tag>
+<tag>
+<AM lemma="jako-1" src="auto">J,-------------</AM>
+<AM lemma="jako-4" src="manual" selected="1">J^-------------</AM>
+</tag>
 </m>
 <m id="m-lnd94101-070-p1s1w16">
 <src.rf>manual</src.rf>
@@ -142,7 +151,10 @@
 <LM>w#w-lnd94101-070-p1s1w16</LM>
 </w.rf>
 <form>Moonglight</form>
-<tag lemma="moonglight_,t" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="moonglight_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="Moonglight-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-lnd94101-070-p1s1w17">
 <src.rf>manual</src.rf>
@@ -150,7 +162,10 @@
 <LM>w#w-lnd94101-070-p1s1w17</LM>
 </w.rf>
 <form>Shadow</form>
-<tag lemma="shadow_,t" src="orig" selected="1">NNIXX-----A----</tag>
+<tag>
+<AM lemma="shadow_,t" src="orig">NNIXX-----A----</AM>
+<AM lemma="Shadow-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-lnd94101-070-p1s1w18">
 <src.rf>manual</src.rf>
@@ -171,6 +186,7 @@
 <AM lemma="ten" src="auto">PDNS1----------</AM>
 <AM lemma="ten" src="auto" recommended="1">PDNS4----------</AM>
 <AM lemma="to-9_^(být_s_to)" src="auto">TT-------------</AM>
+<AM lemma="To-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-lnd94101-070-p1s1w20">
@@ -195,6 +211,7 @@
 <AM lemma="France-1_;S" src="auto">NNMS4-----A---1</AM>
 <AM lemma="France-1_;S" src="auto">NNMS5-----A----</AM>
 <AM lemma="France-2_;G_;K" src="auto">NNXXX-----A----</AM>
+<AM lemma="France-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-lnd94101-070-p1s1w21">
@@ -271,7 +288,7 @@
 <form>Nejenže</form>
 <tag>
 <AM lemma="nejenže" src="orig">Db-------------</AM>
-<AM lemma="nejenže" src="auto" recommended="1">TT-------------</AM>
+<AM lemma="nejenže" src="auto" recommended="1" selected="1">TT-------------</AM>
 </tag>
 </m>
 <m id="m-lnd94101-070-p1s2w2">
@@ -368,7 +385,10 @@
 <LM>w#w-lnd94101-070-p1s2w13</LM>
 </w.rf>
 <form>Midnight</form>
-<tag lemma="midnight_,t" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="midnight_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="Midnight-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-lnd94101-070-p1s2w14">
 <src.rf>manual</src.rf>
@@ -384,6 +404,7 @@
 <AM lemma="sun" src="auto">NNIS1-----A----</AM>
 <AM lemma="sun" src="auto">NNIS4-----A----</AM>
 <AM lemma="sunna_,t_,x_^(ústní_podání_Mohamedových_činů)" src="auto">NNFP2-----A----</AM>
+<AM lemma="Sun-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-lnd94101-070-p1s2w15">
@@ -460,7 +481,7 @@
 <form>Zpěvačka</form>
 <tag>
 <AM lemma="zpěvák" src="orig">NNFS1-----A----</AM>
-<AM lemma="zpěvačka" src="auto" recommended="1">NNFS1-----A----</AM>
+<AM lemma="zpěvačka" src="auto" recommended="1" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94101-070-p1s3w2">
@@ -683,7 +704,10 @@
 <LM>w#w-lnd94101-070-p1s4Cw5</LM>
 </w.rf>
 <form>LN</form>
-<tag lemma="LN-1_:B_;R_^(Lidové_noviny,_deník)" src="orig" selected="1">NNFPX-----A---8</tag>
+<tag>
+<AM lemma="LN-1_:B_;R_^(Lidové_noviny,_deník)" src="orig">NNFPX-----A---8</AM>
+<AM lemma="LN-1_:B_;K_;R_^(Lidové_noviny)" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 </s>
 </mdata>

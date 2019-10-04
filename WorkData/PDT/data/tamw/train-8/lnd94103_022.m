@@ -755,7 +755,10 @@
 <LM>w#w-lnd94103-022-p1s6w19</LM>
 </w.rf>
 <form>milionem</form>
-<tag lemma="milión`1000000" src="orig" selected="1">NNIS7-----A----</tag>
+<tag>
+<AM lemma="milión`1000000" src="orig">NNIS7-----A----</AM>
+<AM lemma="milion`1000000_,s_^(^DD**milión)" src="manual" selected="1">NNIS7-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd94103-022-p1s6w20">
 <src.rf>manual</src.rf>

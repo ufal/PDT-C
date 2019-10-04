@@ -116,7 +116,7 @@
 </w.rf>
 <form>expertízy</form>
 <tag>
-<AM lemma="expertíza" src="orig">NNFS2-----A----</AM>
+<AM lemma="expertíza" src="orig" selected="1">NNFS2-----A----</AM>
 <AM lemma="expertiza_,x" src="auto">NNFP1-----A----</AM>
 <AM lemma="expertiza_,x" src="auto">NNFP4-----A----</AM>
 <AM lemma="expertiza_,x" src="auto">NNFP5-----A----</AM>

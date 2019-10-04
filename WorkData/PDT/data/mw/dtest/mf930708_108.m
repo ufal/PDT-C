@@ -43,7 +43,10 @@
 <LM>w#w-mf930708-108-p1s1w4</LM>
 </w.rf>
 <form>Luzernu</form>
-<tag lemma="Lucern_;G" src="orig" selected="1">NNIS6-----A----</tag>
+<tag>
+<AM lemma="Lucern_;G" src="orig">NNIS6-----A----</AM>
+<AM lemma="Luzern_;G" src="manual" selected="1">NNIS6-----A----</AM>
+</tag>
 </m>
 </s>
 <s id="m-mf930708-108-p2s1">
@@ -53,7 +56,11 @@
 <LM>w#w-mf930708-108-p2s1w1</LM>
 </w.rf>
 <form>Berlin</form>
-<tag lemma="Berlín_;G_,x" src="orig" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="Berlín_;G_,x" src="orig">NNIS1-----A----</AM>
+<AM lemma="Berlin_;G_,s_^(^DD** Berlín " src="manual">NNIS1-----A----</AM>
+<AM lemma="Berlin_;G_,s_^(^DD** Berlín)" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930708-108-p2s1w2">
 <src.rf>manual</src.rf>
@@ -293,7 +300,10 @@
 <LM>w#w-mf930708-108-p2s1w31</LM>
 </w.rf>
 <form>Luzernu</form>
-<tag lemma="Lucern_;G" src="orig" selected="1">NNIS6-----A----</tag>
+<tag>
+<AM lemma="Lucern_;G" src="orig">NNIS6-----A----</AM>
+<AM lemma="Luzern_;G" src="manual" selected="1">NNIS6-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930708-108-p2s1w32">
 <src.rf>manual</src.rf>
@@ -524,7 +534,7 @@
 <tag>
 <AM lemma="tedy" src="orig">Db-------------</AM>
 <AM lemma="tedy-1" src="auto">TT-------------</AM>
-<AM lemma="tedy-2" src="auto" recommended="1">J^-------------</AM>
+<AM lemma="tedy-2" src="auto" recommended="1" selected="1">J^-------------</AM>
 </tag>
 </m>
 <m id="m-mf930708-108-p2s3w5">
@@ -621,7 +631,10 @@
 <LM>w#w-mf930708-108-p2s3w16</LM>
 </w.rf>
 <form>jen</form>
-<tag lemma="jen-1" src="auto" selected="1">TT-------------</tag>
+<tag>
+<AM lemma="jen-1" src="auto">TT-------------</AM>
+<AM lemma="jen-4_^(pouze)" src="manual" selected="1">Db-------------</AM>
+</tag>
 </m>
 <m id="m-mf930708-108-p2s3w17">
 <src.rf>manual</src.rf>
@@ -800,7 +813,7 @@
 </w.rf>
 <form>Tagu</form>
 <tag>
-<AM lemma="Taga_;S" src="orig">NNMS4-----A----</AM>
+<AM lemma="Taga_;S" src="orig" selected="1">NNMS4-----A----</AM>
 <AM lemma="tag" src="auto" recommended="1">NNIS2-----A----</AM>
 <AM lemma="tag" src="auto">NNIS3-----A----</AM>
 <AM lemma="tag" src="auto">NNIS5-----A----</AM>

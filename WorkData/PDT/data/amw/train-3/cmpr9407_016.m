@@ -93,7 +93,10 @@
 <LM>w#w-cmpr9407-016-p2s1w5</LM>
 </w.rf>
 <form>Reinders</form>
-<tag lemma="Reinders_;K_,t" src="orig" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="Reinders_;K_,t" src="orig">NNIS1-----A----</AM>
+<AM lemma="Reinders_;K" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-cmpr9407-016-p2s1w6">
 <src.rf>manual</src.rf>
@@ -109,7 +112,10 @@
 <LM>w#w-cmpr9407-016-p2s1w7</LM>
 </w.rf>
 <form>s</form>
-<tag lemma="společnost_:B" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="společnost_:B" src="orig">NNFXX-----A---8</AM>
+<AM lemma="společnost" src="manual" selected="1">NNFXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-cmpr9407-016-p2s1w8">
 <src.rf>manual</src.rf>
@@ -125,7 +131,10 @@
 <LM>w#w-cmpr9407-016-p2s1w9</LM>
 </w.rf>
 <form>r</form>
-<tag lemma="ručení_:B" src="orig" selected="1">NNNS7-----A---8</tag>
+<tag>
+<AM lemma="ručení_:B" src="orig">NNNS7-----A---8</AM>
+<AM lemma="ručení" src="manual" selected="1">NNNS7-----A---8</AM>
+</tag>
 </m>
 <m id="m-cmpr9407-016-p2s1w10">
 <src.rf>manual</src.rf>
@@ -141,7 +150,10 @@
 <LM>w#w-cmpr9407-016-p2s1w11</LM>
 </w.rf>
 <form>o</form>
-<tag lemma="omezený_:B" src="orig" selected="1">AANS7----1A---8</tag>
+<tag>
+<AM lemma="omezený_:B" src="orig">AANS7----1A---8</AM>
+<AM lemma="omezený" src="manual" selected="1">AANS7----1A---8</AM>
+</tag>
 </m>
 <m id="m-cmpr9407-016-p2s1w12">
 <src.rf>manual</src.rf>
@@ -207,7 +219,10 @@
 <LM>w#w-cmpr9407-016-p3s1w5</LM>
 </w.rf>
 <form>ČR</form>
-<tag lemma="ČR-1_:B_;G_^(Česká_republika)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-cmpr9407-016-p3s1w6">
 <src.rf>manual</src.rf>
@@ -841,7 +856,10 @@
 <LM>w#w-cmpr9407-016-p4s2w6</LM>
 </w.rf>
 <form>hodně</form>
-<tag lemma="hodně-2_^(nezlobivý)_(*3ý-2)" src="auto" selected="1">Dg-------1A----</tag>
+<tag>
+<AM lemma="hodně-2_^(nezlobivý)_(*3ý-2)" src="auto">Dg-------1A----</AM>
+<AM lemma="hodně-3" src="manual" selected="1">Dg-------1A----</AM>
+</tag>
 </m>
 <m id="m-cmpr9407-016-p4s2w7">
 <src.rf>manual</src.rf>
@@ -1703,7 +1721,10 @@
 <LM>w#w-cmpr9407-016-p6s1w7</LM>
 </w.rf>
 <form>ČR</form>
-<tag lemma="ČR-1_:B_;G_^(Česká_republika)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-cmpr9407-016-p6s1w8">
 <src.rf>manual</src.rf>
@@ -1947,7 +1968,10 @@
 <LM>w#w-cmpr9407-016-p6s3w14</LM>
 </w.rf>
 <form>jen</form>
-<tag lemma="jen-1" src="auto" selected="1">TT-------------</tag>
+<tag>
+<AM lemma="jen-1" src="auto">TT-------------</AM>
+<AM lemma="jen-4_^(pouze)" src="manual" selected="1">Db-------------</AM>
+</tag>
 </m>
 <m id="m-cmpr9407-016-p6s3w15">
 <src.rf>manual</src.rf>
@@ -2409,7 +2433,10 @@
 <LM>w#w-cmpr9407-016-p6s6w18</LM>
 </w.rf>
 <form>jen</form>
-<tag lemma="jen-1" src="auto" selected="1">TT-------------</tag>
+<tag>
+<AM lemma="jen-1" src="auto">TT-------------</AM>
+<AM lemma="jen-4_^(pouze)" src="manual" selected="1">Db-------------</AM>
+</tag>
 </m>
 <m id="m-cmpr9407-016-p6s6w19">
 <src.rf>manual</src.rf>
@@ -3491,7 +3518,10 @@
 <LM>w#w-cmpr9407-016-p8s2w11</LM>
 </w.rf>
 <form>geodezie</form>
-<tag lemma="geodézie" src="orig" selected="1">NNFS2-----A----</tag>
+<tag>
+<AM lemma="geodézie" src="orig">NNFS2-----A----</AM>
+<AM lemma="geodezie_,s_^(^DD**geodézie)" src="manual" selected="1">NNFS2-----A----</AM>
+</tag>
 </m>
 <m id="m-cmpr9407-016-p8s2w12">
 <src.rf>manual</src.rf>

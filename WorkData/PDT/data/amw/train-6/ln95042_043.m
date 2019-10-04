@@ -45,7 +45,10 @@
 <LM>w#w-ln95042-043-p2s1Aw1</LM>
 </w.rf>
 <form>Šanghi</form>
-<tag lemma="Šanghi_;G" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="Šanghi_;G" src="orig">AAXXX----1A----</AM>
+<AM lemma="Šanghi-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln95042-043-p2s1Aw2">
 <src.rf>manual</src.rf>
@@ -53,7 +56,10 @@
 <LM>w#w-ln95042-043-p2s1Aw2</LM>
 </w.rf>
 <form>Nagar</form>
-<tag lemma="Nagar_;G" src="orig" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="Nagar_;G" src="orig">NNIS1-----A----</AM>
+<AM lemma="Nagar-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln95042-043-p2s1Aw3">
 <src.rf>manual</src.rf>
@@ -140,6 +146,7 @@
 <AM lemma="gate_,t_^(nástupní_brána)" src="auto">NNIP1-----A----</AM>
 <AM lemma="gate_,t_^(nástupní_brána)" src="auto">NNIP4-----A----</AM>
 <AM lemma="gate_,t_^(nástupní_brána)" src="auto">NNIP7-----A----</AM>
+<AM lemma="Gata-2_;Y" src="manual" selected="1">NNMS2-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95042-043-p2s1Bw9">
@@ -149,7 +156,7 @@
 </w.rf>
 <form>Kamského</form>
 <tag>
-<AM lemma="Kamský_;S" src="orig">NNMS2-----A----</AM>
+<AM lemma="Kamský_;S" src="orig" selected="1">NNMS2-----A----</AM>
 <AM lemma="kamský" src="auto">AAIS2----1A----</AM>
 <AM lemma="kamský" src="auto" recommended="1">AAMS2----1A----</AM>
 <AM lemma="kamský" src="auto">AAMS4----1A----</AM>
@@ -202,7 +209,10 @@
 <LM>w#w-ln95042-043-p2s1Bw15</LM>
 </w.rf>
 <form>FIDE</form>
-<tag lemma="FIDE_:B_;K_,t_^(šachová_federace)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="FIDE_:B_;K_,t_^(šachová_federace)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="FIDE-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln95042-043-p2s1Bw16">
 <src.rf>manual</src.rf>
@@ -275,7 +285,7 @@
 <AM lemma="osmý" src="auto">CrFP5----------</AM>
 <AM lemma="osmý" src="auto">CrFS2----------</AM>
 <AM lemma="osmý" src="auto">CrFS3----------</AM>
-<AM lemma="osmý" src="auto" recommended="1">CrFS6----------</AM>
+<AM lemma="osmý" src="auto" recommended="1" selected="1">CrFS6----------</AM>
 <AM lemma="osmý" src="auto">CrIP1----------</AM>
 <AM lemma="osmý" src="auto">CrIP4----------</AM>
 <AM lemma="osmý" src="auto">CrIP5----------</AM>
@@ -438,7 +448,7 @@
 <AM lemma="sedmý" src="auto">CrFP1----------</AM>
 <AM lemma="sedmý" src="auto">CrFP4----------</AM>
 <AM lemma="sedmý" src="auto">CrFP5----------</AM>
-<AM lemma="sedmý" src="auto" recommended="1">CrFS2----------</AM>
+<AM lemma="sedmý" src="auto" recommended="1" selected="1">CrFS2----------</AM>
 <AM lemma="sedmý" src="auto">CrFS3----------</AM>
 <AM lemma="sedmý" src="auto">CrFS6----------</AM>
 <AM lemma="sedmý" src="auto">CrIP1----------</AM>
@@ -637,7 +647,10 @@
 <LM>w#w-ln95042-043-p2s4w9</LM>
 </w.rf>
 <form>jen</form>
-<tag lemma="jen-1" src="auto" selected="1">TT-------------</tag>
+<tag>
+<AM lemma="jen-1" src="auto">TT-------------</AM>
+<AM lemma="jen-4_^(pouze)" src="manual" selected="1">Db-------------</AM>
+</tag>
 </m>
 <m id="m-ln95042-043-p2s4w10">
 <src.rf>manual</src.rf>

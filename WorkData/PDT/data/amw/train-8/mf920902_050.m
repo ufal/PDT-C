@@ -256,6 +256,7 @@
 <AM lemma="d-3_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
 <AM lemma="d-4_^(př._d'Artagnan,_stažený_tvar_fr._předl.)" src="auto">AAXXX----1A----</AM>
 <AM lemma="d-8_:B_^(ost._zkratka)" src="auto">XX------------8</AM>
+<AM lemma="D-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-mf920902-050-p2s3w9">
@@ -639,7 +640,7 @@
 </w.rf>
 <form>Brodské</form>
 <tag>
-<AM lemma="Brodské_;G" src="orig">NNNS1-----A----</AM>
+<AM lemma="Brodské_;G" src="orig" selected="1">NNNS1-----A----</AM>
 <AM lemma="Brodská_;S" src="auto">NNFP1-----A----</AM>
 <AM lemma="Brodská_;S" src="auto">NNFP4-----A----</AM>
 <AM lemma="Brodská_;S" src="auto">NNFP5-----A----</AM>
@@ -694,7 +695,7 @@
 <form>zasáhl</form>
 <tag>
 <AM lemma="zasáhnout" src="orig">VpYS---XR-AA---</AM>
-<AM lemma="zasáhnout_:W" src="auto" recommended="1">VpYS---XR-AA--1</AM>
+<AM lemma="zasáhnout_:W" src="auto" recommended="1" selected="1">VpYS---XR-AA--1</AM>
 </tag>
 </m>
 <m id="m-mf920902-050-p2s6w8">

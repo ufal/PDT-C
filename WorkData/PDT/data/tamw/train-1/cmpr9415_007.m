@@ -64,6 +64,7 @@
 <tag>
 <AM lemma="Cekare_;K_,t" src="orig">NNNXX-----A----</AM>
 <AM lemma="Cekare_;K" src="auto" recommended="1">NNNSX-----A----</AM>
+<AM lemma="Cekare_;K" src="manual" selected="1">NNNXX-----A----</AM>
 </tag>
 </m>
 </s>
@@ -172,6 +173,10 @@
 <AM lemma="le-1_,t_^(franc._člen,_ne_v_názvech)" src="auto">XX-------------</AM>
 <AM lemma="les" src="auto">NNIS1-----A----</AM>
 <AM lemma="les" src="auto">NNIS4-----A----</AM>
+<AM lemma="Le-1_,t_^(fr._člen)" src="manual">AAXPX----1A----</AM>
+<AM lemma="le-1_,t_^(fr._člen)" src="manual">AAXPX----1A----</AM>
+<AM lemma="les-1_,t_^(fr._člen)" src="manual">AAXXX----1A----</AM>
+<AM lemma="Les-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-cmpr9415-007-p4s1w6">
@@ -180,7 +185,10 @@
 <LM>w#w-cmpr9415-007-p4s1w6</LM>
 </w.rf>
 <form>Marines</form>
-<tag lemma="Marine_;m_,t" src="orig" selected="1">NNXPX-----A----</tag>
+<tag>
+<AM lemma="Marine_;m_,t" src="orig">NNXPX-----A----</AM>
+<AM lemma="Marines-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-cmpr9415-007-p4s1w7">
 <src.rf>manual</src.rf>
@@ -188,7 +196,10 @@
 <LM>w#w-cmpr9415-007-p4s1w7</LM>
 </w.rf>
 <form>de</form>
-<tag lemma="de_,t_^(z_franc._de,_zejm._ve_jménech)" src="orig" selected="1">RR--1----------</tag>
+<tag>
+<AM lemma="de_,t_^(z_franc._de,_zejm._ve_jménech)" src="orig">RR--1----------</AM>
+<AM lemma="de-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-cmpr9415-007-p4s1w8">
 <src.rf>manual</src.rf>
@@ -200,6 +211,8 @@
 <AM lemma="Gassin_;G" src="orig">NNIXX-----A----</AM>
 <AM lemma="Gassin_;G" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Gassin_;G" src="auto">NNIS4-----A----</AM>
+<AM lemma="Gassin_;G" src="manual">NNXXX-----A----</AM>
+<AM lemma="Gassin-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 </s>
@@ -237,6 +250,7 @@
 <tag>
 <AM lemma="Kč" src="orig">NNFXX-----A----</AM>
 <AM lemma="Kč_:B" src="auto" recommended="1">NNFXX-----A---8</AM>
+<AM lemma="Kč_:B" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9415-007-p5s1w5">
@@ -275,6 +289,7 @@
 <tag>
 <AM lemma="Kč" src="orig">NNFXX-----A----</AM>
 <AM lemma="Kč_:B" src="auto" recommended="1">NNFXX-----A---8</AM>
+<AM lemma="Kč_:B" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9415-007-p6s1w3">
@@ -559,7 +574,10 @@
 <LM>w#w-cmpr9415-007-p9s1w11</LM>
 </w.rf>
 <form>km</form>
-<tag lemma="km-1`kilometr_:B" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="km-1`kilometr_:B" src="orig">NNIXX-----A---8</AM>
+<AM lemma="kilometr" src="manual" selected="1">NNIXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-cmpr9415-007-p9s1w12">
 <src.rf>manual</src.rf>
@@ -575,7 +593,10 @@
 <LM>w#w-cmpr9415-007-p9s1w13</LM>
 </w.rf>
 <form>St</form>
-<tag lemma="St-6_:B_,t_^(saint,_svatý)" src="auto" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="St-6_:B_,t_^(saint,_svatý)" src="auto">AAXXX----1A----</AM>
+<AM lemma="St-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-cmpr9415-007-p9s1w14">
 <src.rf>manual</src.rf>
@@ -591,7 +612,10 @@
 <LM>w#w-cmpr9415-007-p9s2w1</LM>
 </w.rf>
 <form>Tropez</form>
-<tag lemma="Tropez_;G_^(Saint_Tropez)" src="auto" selected="1">NNNXX-----A----</tag>
+<tag>
+<AM lemma="Tropez_;G_^(Saint_Tropez)" src="auto">NNNXX-----A----</AM>
+<AM lemma="Tropez-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-cmpr9415-007-p9s2w2">
 <src.rf>manual</src.rf>

@@ -207,7 +207,7 @@
 <form>totiž</form>
 <tag>
 <AM lemma="totiž" src="orig">Db-------------</AM>
-<AM lemma="totiž-1" src="auto">J^-------------</AM>
+<AM lemma="totiž-1" src="auto" selected="1">J^-------------</AM>
 <AM lemma="totiž-2" src="auto" recommended="1">TT-------------</AM>
 </tag>
 </m>
@@ -599,7 +599,7 @@
 <form>ačkoliv</form>
 <tag>
 <AM lemma="ačkoliv" src="orig">J,-------------</AM>
-<AM lemma="ačkoli" src="auto" recommended="1">J,------------1</AM>
+<AM lemma="ačkoli" src="auto" recommended="1" selected="1">J,------------1</AM>
 </tag>
 </m>
 <m id="m-vesm9211-054-p1s4w12">
@@ -770,7 +770,10 @@
 <LM>w#w-vesm9211-054-p2s1w1</LM>
 </w.rf>
 <form>Epikuros</form>
-<tag lemma="Epikur_;S" src="orig" selected="1">NNMS1-----A---1</tag>
+<tag>
+<AM lemma="Epikur_;S" src="orig">NNMS1-----A---1</AM>
+<AM lemma="Epikuros_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-vesm9211-054-p2s1w2">
 <src.rf>manual</src.rf>

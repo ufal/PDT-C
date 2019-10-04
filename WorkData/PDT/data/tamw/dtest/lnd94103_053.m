@@ -104,7 +104,7 @@
 </w.rf>
 <form>Gur</form>
 <tag>
-<AM lemma="Gur-2_;S" src="orig">NNMS1-----A----</AM>
+<AM lemma="Gur-2_;S" src="orig" selected="1">NNMS1-----A----</AM>
 <AM lemma="Gur_;G" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Gur_;G" src="auto">NNIS4-----A----</AM>
 </tag>
@@ -171,7 +171,10 @@
 <LM>w#w-lnd94103-053-p1s3w14</LM>
 </w.rf>
 <form>Warren</form>
-<tag lemma="Warren_;S" src="auto" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Warren_;S" src="auto">NNMS1-----A----</AM>
+<AM lemma="Warren_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd94103-053-p1s3w15">
 <src.rf>manual</src.rf>
@@ -525,7 +528,10 @@
 <LM>w#w-lnd94103-053-p1s4Aw26</LM>
 </w.rf>
 <form>otevřelo</form>
-<tag lemma="otevřít" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag>
+<AM lemma="otevřít" src="orig">VpNS---XR-AA---</AM>
+<AM lemma="otevřít_:W" src="manual" selected="1">VpNS---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-lnd94103-053-p1s4Aw27">
 <src.rf>manual</src.rf>
@@ -592,7 +598,7 @@
 </w.rf>
 <form>Gur</form>
 <tag>
-<AM lemma="Gur-2_;S" src="orig">NNMS1-----A----</AM>
+<AM lemma="Gur-2_;S" src="orig" selected="1">NNMS1-----A----</AM>
 <AM lemma="Gur_;G" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Gur_;G" src="auto">NNIS4-----A----</AM>
 </tag>
@@ -635,7 +641,10 @@
 <LM>w#w-lnd94103-053-p1s4Bw6</LM>
 </w.rf>
 <form>mohl</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag>
+<AM lemma="moci_^(mít_možnost_[něco_dělat])" src="orig">VpYS---XR-AA---</AM>
+<AM lemma="moci_:T_^(mít_možnost_[něco_dělat])" src="manual" selected="1">VpYS---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-lnd94103-053-p1s4Bw7">
 <src.rf>manual</src.rf>
@@ -643,7 +652,10 @@
 <LM>w#w-lnd94103-053-p1s4Bw7</LM>
 </w.rf>
 <form>mít</form>
-<tag lemma="mít" src="orig" selected="1">Vf--------A----</tag>
+<tag>
+<AM lemma="mít" src="orig">Vf--------A----</AM>
+<AM lemma="mít_:T" src="manual" selected="1">Vf--------A----</AM>
+</tag>
 </m>
 <m id="m-lnd94103-053-p1s4Bw8">
 <src.rf>manual</src.rf>

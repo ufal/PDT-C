@@ -28,7 +28,7 @@
 </w.rf>
 <form>Šroubková</form>
 <tag>
-<AM lemma="Šroubková_;S" src="orig">NNFS1-----A----</AM>
+<AM lemma="Šroubková_;S" src="orig" selected="1">NNFS1-----A----</AM>
 <AM lemma="šroubkový" src="auto" recommended="1">AAFS1----1A----</AM>
 <AM lemma="šroubkový" src="auto">AAFS5----1A----</AM>
 <AM lemma="šroubkový" src="auto">AANP1----1A----</AM>
@@ -324,7 +324,10 @@
 <LM>w#w-ln94209-106-p1s2w5</LM>
 </w.rf>
 <form>LN</form>
-<tag lemma="LN-1_:B_;R_^(Lidové_noviny,_deník)" src="orig" selected="1">NNFPX-----A---8</tag>
+<tag>
+<AM lemma="LN-1_:B_;R_^(Lidové_noviny,_deník)" src="orig">NNFPX-----A---8</AM>
+<AM lemma="LN-1_:B_;K_;R_^(Lidové_noviny)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 </s>
 </mdata>

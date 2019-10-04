@@ -79,7 +79,10 @@
 <LM>w#w-lnd94101-083-p1s3w3</LM>
 </w.rf>
 <form>Bradley</form>
-<tag lemma="Bradley_;S" src="auto" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Bradley_;S" src="auto">NNMS1-----A----</AM>
+<AM lemma="Bradley_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd94101-083-p1s3w4">
 <src.rf>manual</src.rf>

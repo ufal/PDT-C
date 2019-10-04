@@ -59,7 +59,10 @@
 <LM>w#w-mf930701-133-p1s1w6</LM>
 </w.rf>
 <form>milionu</form>
-<tag lemma="milión`1000000" src="orig" selected="1">NNIS2-----A----</tag>
+<tag>
+<AM lemma="milión`1000000" src="orig">NNIS2-----A----</AM>
+<AM lemma="milion`1000000_,s_^(^DD**milión)" src="manual" selected="1">NNIS2-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930701-133-p1s1w7">
 <src.rf>manual</src.rf>
@@ -97,6 +100,7 @@
 <AM lemma="do_:B" src="orig">NNMS1-----A---8</AM>
 <AM lemma="do-1" src="auto" recommended="1">RR--2----------</AM>
 <AM lemma="do-7_^(předpona,_sam.)" src="auto">A2--------A----</AM>
+<AM lemma="do-99_:B_;S" src="manual" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-mf930701-133-p2s1w4">
@@ -374,7 +378,7 @@
 <tag>
 <AM lemma="JOKO_:B_;K" src="orig">NNNXX-----A---8</AM>
 <AM lemma="JOKO_;K" src="auto">NNNXX-----A----</AM>
-<AM lemma="Joko_;K" src="auto" recommended="1">NNNS1-----A----</AM>
+<AM lemma="Joko_;K" src="auto" recommended="1" selected="1">NNNS1-----A----</AM>
 <AM lemma="Joko_;K" src="auto">NNNS4-----A----</AM>
 <AM lemma="Joko_;K" src="auto">NNNS5-----A----</AM>
 </tag>
@@ -672,7 +676,7 @@
 <tag>
 <AM lemma="JOKO_:B_;K" src="orig">NNNXX-----A---8</AM>
 <AM lemma="JOKO_;K" src="auto">NNNXX-----A----</AM>
-<AM lemma="Joko_;K" src="auto" recommended="1">NNNS1-----A----</AM>
+<AM lemma="Joko_;K" src="auto" recommended="1" selected="1">NNNS1-----A----</AM>
 <AM lemma="Joko_;K" src="auto">NNNS4-----A----</AM>
 <AM lemma="Joko_;K" src="auto">NNNS5-----A----</AM>
 </tag>

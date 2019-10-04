@@ -468,7 +468,10 @@
 <LM>w#w-ln95043-032-p2s3Bw13</LM>
 </w.rf>
 <form>JAMU</form>
-<tag lemma="JAMU_:B_;K_^(Janáčkova_akademie_múzických_umění)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="JAMU_:B_;K_^(Janáčkova_akademie_múzických_umění)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="JAMU-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95043-032-p2s3Bw14">
 <src.rf>manual</src.rf>
@@ -534,7 +537,10 @@
 <LM>w#w-ln95043-032-p3s1w5</LM>
 </w.rf>
 <form>JAMU</form>
-<tag lemma="JAMU_:B_;K_^(Janáčkova_akademie_múzických_umění)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="JAMU_:B_;K_^(Janáčkova_akademie_múzických_umění)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="JAMU-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95043-032-p3s1w6">
 <src.rf>manual</src.rf>
@@ -619,7 +625,7 @@
 <tag>
 <AM lemma="tedy" src="orig">Db-------------</AM>
 <AM lemma="tedy-1" src="auto">TT-------------</AM>
-<AM lemma="tedy-2" src="auto" recommended="1">J^-------------</AM>
+<AM lemma="tedy-2" src="auto" recommended="1" selected="1">J^-------------</AM>
 </tag>
 </m>
 <m id="m-ln95043-032-p3s2w4">
@@ -786,7 +792,7 @@
 <form>Přesto</form>
 <tag>
 <AM lemma="přesto" src="orig">Dg-------1A----</AM>
-<AM lemma="přesto-1" src="auto" recommended="1">Db-------------</AM>
+<AM lemma="přesto-1" src="auto" recommended="1" selected="1">Db-------------</AM>
 <AM lemma="přesto-2" src="auto">J^-------------</AM>
 </tag>
 </m>
@@ -928,7 +934,10 @@
 <LM>w#w-ln95043-032-p5s1w5</LM>
 </w.rf>
 <form>jen</form>
-<tag lemma="jen-1" src="auto" selected="1">TT-------------</tag>
+<tag>
+<AM lemma="jen-1" src="auto">TT-------------</AM>
+<AM lemma="jen-4_^(pouze)" src="manual" selected="1">Db-------------</AM>
+</tag>
 </m>
 <m id="m-ln95043-032-p5s1w6">
 <src.rf>manual</src.rf>
@@ -1032,7 +1041,10 @@
 <LM>w#w-ln95043-032-p5s1w18</LM>
 </w.rf>
 <form>Lízal</form>
-<tag lemma="lízal" src="orig" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="lízal" src="orig">NNMS1-----A----</AM>
+<AM lemma="Lízal_;S" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95043-032-p5s1w19">
 <src.rf>manual</src.rf>
@@ -1432,7 +1444,7 @@
 <form>vůbec</form>
 <tag>
 <AM lemma="vůbec" src="orig">Db-------------</AM>
-<AM lemma="vůbec" src="auto" recommended="1">TT-------------</AM>
+<AM lemma="vůbec" src="auto" recommended="1" selected="1">TT-------------</AM>
 </tag>
 </m>
 <m id="m-ln95043-032-p5s4w22">
@@ -2040,7 +2052,10 @@
 <LM>w#w-ln95043-032-p7s3w7</LM>
 </w.rf>
 <form>fatalismu</form>
-<tag lemma="fatalismus" src="orig" selected="1">NNIS2-----A----</tag>
+<tag>
+<AM lemma="fatalismus" src="orig">NNIS2-----A----</AM>
+<AM lemma="fatalismus_,s_^(^DD**fatalizmus)" src="manual" selected="1">NNIS2-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95043-032-p7s3w8">
 <src.rf>manual</src.rf>
@@ -2056,7 +2071,10 @@
 <LM>w#w-ln95043-032-p7s3w9</LM>
 </w.rf>
 <form>mysticismu</form>
-<tag lemma="mysticismus" src="orig" selected="1">NNIS2-----A----</tag>
+<tag>
+<AM lemma="mysticismus" src="orig">NNIS2-----A----</AM>
+<AM lemma="mysticismus_,s_^(^DD**mysticizmus)" src="manual" selected="1">NNIS2-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95043-032-p7s3w10">
 <src.rf>manual</src.rf>
@@ -2398,7 +2416,10 @@
 <LM>w#w-ln95043-032-p9s1w1</LM>
 </w.rf>
 <form>Stalo</form>
-<tag lemma="stát-2_^(něco_se_přihodilo)" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag>
+<AM lemma="stát-2_^(něco_se_přihodilo)" src="orig">VpNS---XR-AA---</AM>
+<AM lemma="stát-2_^(stanu_staneš)" src="manual" selected="1">VpNS---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-ln95043-032-p9s1w2">
 <src.rf>manual</src.rf>
@@ -2486,7 +2507,10 @@
 <LM>w#w-ln95043-032-p9s1w12</LM>
 </w.rf>
 <form>Ifigénii</form>
-<tag lemma="Ifigénie_;S" src="auto" selected="1">NNFS4-----A----</tag>
+<tag>
+<AM lemma="Ifigénie_;S" src="auto">NNFS4-----A----</AM>
+<AM lemma="Ifigénie_;Y" src="manual" selected="1">NNFS4-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95043-032-p9s1w13">
 <src.rf>manual</src.rf>
@@ -2618,7 +2642,10 @@
 <LM>w#w-ln95043-032-p9s3w4</LM>
 </w.rf>
 <form>hodně</form>
-<tag lemma="hodně-2_^(nezlobivý)_(*3ý-2)" src="auto" selected="1">Dg-------1A----</tag>
+<tag>
+<AM lemma="hodně-2_^(nezlobivý)_(*3ý-2)" src="auto">Dg-------1A----</AM>
+<AM lemma="hodně-3" src="manual" selected="1">Dg-------1A----</AM>
+</tag>
 </m>
 <m id="m-ln95043-032-p9s3w5">
 <src.rf>manual</src.rf>
@@ -2808,7 +2835,10 @@
 <LM>w#w-ln95043-032-p9s6w2</LM>
 </w.rf>
 <form>jen</form>
-<tag lemma="jen-1" src="auto" selected="1">TT-------------</tag>
+<tag>
+<AM lemma="jen-1" src="auto">TT-------------</AM>
+<AM lemma="jen-4_^(pouze)" src="manual" selected="1">Db-------------</AM>
+</tag>
 </m>
 <m id="m-ln95043-032-p9s6w3">
 <src.rf>manual</src.rf>

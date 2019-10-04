@@ -429,7 +429,10 @@
 <LM>w#w-cmpr9407-030-p6s1w2</LM>
 </w.rf>
 <form>Kačer</form>
-<tag lemma="kačer" src="orig" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="kačer" src="orig">NNMS1-----A----</AM>
+<AM lemma="Kačer_;S" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 </s>
 <s id="m-cmpr9407-030-p8s1">
@@ -640,7 +643,10 @@
 <LM>w#w-cmpr9407-030-p8s1w26</LM>
 </w.rf>
 <form>GmbH</form>
-<tag lemma="Gmbh_:B_,t_,x_^(Gesellschaft_mit_beschränke_Haftung)" src="auto" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="Gmbh_:B_,t_,x_^(Gesellschaft_mit_beschränke_Haftung)" src="auto">NNFXX-----A---8</AM>
+<AM lemma="GmbH-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-cmpr9407-030-p8s1w27">
 <src.rf>manual</src.rf>
@@ -958,7 +964,10 @@
 <LM>w#w-cmpr9407-030-p10s1w7</LM>
 </w.rf>
 <form>Zetor</form>
-<tag lemma="Zetor_;R" src="auto" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="Zetor_;R" src="auto">NNIS1-----A----</AM>
+<AM lemma="Zetor_;K_;R" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-cmpr9407-030-p10s1w8">
 <src.rf>manual</src.rf>
@@ -1310,7 +1319,7 @@
 <form>jakákoli</form>
 <tag>
 <AM lemma="jakýkoliv" src="orig">PZFS1---------1</AM>
-<AM lemma="jakýkoli" src="auto" recommended="1">PZFS1----------</AM>
+<AM lemma="jakýkoli" src="auto" recommended="1" selected="1">PZFS1----------</AM>
 <AM lemma="jakýkoli" src="auto">PZFS5----------</AM>
 <AM lemma="jakýkoli" src="auto">PZNP1----------</AM>
 <AM lemma="jakýkoli" src="auto">PZNP4----------</AM>
@@ -1601,7 +1610,10 @@
 <LM>w#w-cmpr9407-030-p11s3w12</LM>
 </w.rf>
 <form>ISO</form>
-<tag lemma="ISO-1_:B_;K_^(Intl._Standards_Org.)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ISO-1_:B_;K_^(Intl._Standards_Org.)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ISO-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-cmpr9407-030-p11s3w13">
 <src.rf>manual</src.rf>
@@ -1657,7 +1669,10 @@
 <LM>w#w-cmpr9407-030-p11s3w19</LM>
 </w.rf>
 <form>Sklenář</form>
-<tag lemma="sklenář" src="orig" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="sklenář" src="orig">NNMS1-----A----</AM>
+<AM lemma="Sklenář_;S" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-cmpr9407-030-p11s3w20">
 <src.rf>manual</src.rf>
@@ -2803,7 +2818,7 @@
 <form>nejen</form>
 <tag>
 <AM lemma="nejen" src="orig">TT-------------</AM>
-<AM lemma="nejen" src="auto" recommended="1">Db-------------</AM>
+<AM lemma="nejen" src="auto" recommended="1" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m-cmpr9407-030-p15s3w5">
@@ -3338,7 +3353,10 @@
 <LM>w#w-cmpr9407-030-p15s6w15</LM>
 </w.rf>
 <form>Sklenář</form>
-<tag lemma="sklenář" src="orig" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="sklenář" src="orig">NNMS1-----A----</AM>
+<AM lemma="Sklenář_;S" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-cmpr9407-030-p15s6w16">
 <src.rf>manual</src.rf>
@@ -4004,7 +4022,10 @@
 <LM>w#w-cmpr9407-030-p16s5w18</LM>
 </w.rf>
 <form>víc</form>
-<tag lemma="hodně-2" src="auto" selected="1">Dg-------2A---1</tag>
+<tag>
+<AM lemma="hodně-2" src="auto">Dg-------2A---1</AM>
+<AM lemma="hodně-3" src="manual" selected="1">Dg-------2A---1</AM>
+</tag>
 </m>
 <m id="m-cmpr9407-030-p16s5w19">
 <src.rf>manual</src.rf>

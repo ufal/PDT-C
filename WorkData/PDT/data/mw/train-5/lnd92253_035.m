@@ -107,7 +107,10 @@
 <LM>w#w-lnd92253-035-p1s1w12</LM>
 </w.rf>
 <form>Quebec</form>
-<tag lemma="Québec_;G" src="orig" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="Québec_;G" src="orig">NNIS1-----A----</AM>
+<AM lemma="Quebec_;G" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92253-035-p1s1w13">
 <src.rf>manual</src.rf>
@@ -430,7 +433,10 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>Qubecku</form>
-<tag lemma="Qubeck_;G" src="orig" selected="1">NNIS2-----A----</tag>
+<tag>
+<AM lemma="Qubeck_;G" src="orig">NNIS2-----A----</AM>
+<AM lemma="Qubeck_;G_,i_^(^DS**Quebec)" src="manual" selected="1">NNIS2-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92253-035-p1s2w34">
 <src.rf>manual</src.rf>

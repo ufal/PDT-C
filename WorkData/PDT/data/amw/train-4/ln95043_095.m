@@ -257,7 +257,7 @@
 <form>Sunny</form>
 <tag>
 <AM lemma="Sunny-2_;R_^(vozidlo)" src="orig">NNIXX-----A----</AM>
-<AM lemma="Sunny_;R_^(vozidlo)" src="auto" recommended="1">NNXXX-----A----</AM>
+<AM lemma="Sunny_;R_^(vozidlo)" src="auto" recommended="1" selected="1">NNXXX-----A----</AM>
 <AM lemma="sunna_,t_^(ústní_podání_Mohamedových_činů)" src="auto">NNFP1-----A----</AM>
 <AM lemma="sunna_,t_^(ústní_podání_Mohamedových_činů)" src="auto">NNFP4-----A----</AM>
 <AM lemma="sunna_,t_^(ústní_podání_Mohamedových_činů)" src="auto">NNFP5-----A----</AM>
@@ -400,7 +400,10 @@
 <LM>w#w-ln95043-095-p2s3w12</LM>
 </w.rf>
 <form>hatchbackem</form>
-<tag lemma="hatchback_,t" src="orig" selected="1">NNIS7-----A----</tag>
+<tag>
+<AM lemma="hatchback_,t" src="orig">NNIS7-----A----</AM>
+<AM lemma="hatchback" src="manual" selected="1">NNIS7-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95043-095-p2s3w13">
 <src.rf>manual</src.rf>
@@ -688,7 +691,7 @@
 <form>začít</form>
 <tag>
 <AM lemma="začít-1" src="orig">Vf--------A----</AM>
-<AM lemma="začít-1_^(začnout)" src="auto" recommended="1">Vf--------A----</AM>
+<AM lemma="začít-1_^(začnout)" src="auto" recommended="1" selected="1">Vf--------A----</AM>
 <AM lemma="začít-2_^(pocítit)" src="auto">Vf--------A----</AM>
 </tag>
 </m>
@@ -783,7 +786,7 @@
 <tag>
 <AM lemma="mnohohodinový" src="orig">AAFP4----1A----</AM>
 <AM lemma="mnohahodinový" src="auto">AAFP1----1A----</AM>
-<AM lemma="mnohahodinový" src="auto" recommended="1">AAFP4----1A----</AM>
+<AM lemma="mnohahodinový" src="auto" recommended="1" selected="1">AAFP4----1A----</AM>
 <AM lemma="mnohahodinový" src="auto">AAFP5----1A----</AM>
 <AM lemma="mnohahodinový" src="auto">AAFS2----1A----</AM>
 <AM lemma="mnohahodinový" src="auto">AAFS3----1A----</AM>
@@ -1897,6 +1900,7 @@
 <tag>
 <AM lemma="LX_:B_;R" src="orig">NNNXX-----A---8</AM>
 <AM lemma="LX-3`60" src="auto" recommended="1">C}-------------</AM>
+<AM lemma="LX-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-ln95043-095-p2s15w4">
@@ -2771,7 +2775,7 @@
 <form>ovšem</form>
 <tag>
 <AM lemma="ovšem-1_^(avšak,_však;_odporovací_spojka)" src="orig">J^-------------</AM>
-<AM lemma="ovšem" src="auto" recommended="1">TT-------------</AM>
+<AM lemma="ovšem" src="auto" recommended="1" selected="1">TT-------------</AM>
 </tag>
 </m>
 <m id="m-ln95043-095-p3s3w14">
@@ -3064,7 +3068,7 @@
 <form>ovšem</form>
 <tag>
 <AM lemma="ovšem-1_^(avšak,_však;_odporovací_spojka)" src="orig">J^-------------</AM>
-<AM lemma="ovšem" src="auto" recommended="1">TT-------------</AM>
+<AM lemma="ovšem" src="auto" recommended="1" selected="1">TT-------------</AM>
 </tag>
 </m>
 <m id="m-ln95043-095-p3s4w18">
@@ -3149,7 +3153,7 @@
 <form>Sunny</form>
 <tag>
 <AM lemma="Sunny-2_;R_^(vozidlo)" src="orig">NNIXX-----A----</AM>
-<AM lemma="Sunny_;R_^(vozidlo)" src="auto" recommended="1">NNXXX-----A----</AM>
+<AM lemma="Sunny_;R_^(vozidlo)" src="auto" recommended="1" selected="1">NNXXX-----A----</AM>
 <AM lemma="sunna_,t_^(ústní_podání_Mohamedových_činů)" src="auto">NNFP1-----A----</AM>
 <AM lemma="sunna_,t_^(ústní_podání_Mohamedových_činů)" src="auto">NNFP4-----A----</AM>
 <AM lemma="sunna_,t_^(ústní_podání_Mohamedových_činů)" src="auto">NNFP5-----A----</AM>

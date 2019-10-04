@@ -385,7 +385,10 @@
 <LM>w#w-lnd92256-077-p2s3w24</LM>
 </w.rf>
 <form>Daily</form>
-<tag lemma="Daily-1_;K_,t_^(souč._názvů,_např._D._Telegraph)" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="Daily-1_;K_,t_^(souč._názvů,_např._D._Telegraph)" src="orig">AAXXX----1A----</AM>
+<AM lemma="Daily-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-lnd92256-077-p2s3w25">
 <src.rf>manual</src.rf>
@@ -393,7 +396,10 @@
 <LM>w#w-lnd92256-077-p2s3w25</LM>
 </w.rf>
 <form>Mirror</form>
-<tag lemma="Mirror_;R" src="orig" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="Mirror_;R" src="orig">NNIS1-----A----</AM>
+<AM lemma="Mirror-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-lnd92256-077-p2s3w26">
 <src.rf>manual</src.rf>

@@ -723,7 +723,10 @@
 <LM>w#w-lnd92255-008-p3s7w4</LM>
 </w.rf>
 <form>Emilio</form>
-<tag lemma="Emilio_;Y_,t" src="auto" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Emilio_;Y_,t" src="auto">NNMS1-----A----</AM>
+<AM lemma="Emilio_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92255-008-p3s7w5">
 <src.rf>manual</src.rf>
@@ -732,7 +735,7 @@
 </w.rf>
 <form>Colombo</form>
 <tag>
-<AM lemma="Colombo-2_;S" src="orig">NNMS1-----A----</AM>
+<AM lemma="Colombo-2_;S" src="orig" selected="1">NNMS1-----A----</AM>
 <AM lemma="Colomba-1_;Y" src="auto">NNFS5-----A----</AM>
 <AM lemma="Colombo_;G" src="auto" recommended="1">NNNS1-----A----</AM>
 <AM lemma="Colombo_;G" src="auto">NNNS4-----A----</AM>

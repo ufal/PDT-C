@@ -281,7 +281,10 @@
 <LM>w#w-ln95043-073-p2s1Cw11</LM>
 </w.rf>
 <form>NPŠ</form>
-<tag lemma="NPŠ_:B_^(Národní_Park_Šumava)" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="NPŠ_:B_^(Národní_Park_Šumava)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="NPŠ-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95043-073-p2s1Cw12">
 <src.rf>manual</src.rf>
@@ -338,6 +341,7 @@
 <AM lemma="mimo-1_:B" src="auto" recommended="1">RR--4---------8</AM>
 <AM lemma="minuta_:B" src="auto">NNFXX-----A---8</AM>
 <AM lemma="město_:B" src="auto">NNNXX-----A---8</AM>
+<AM lemma="metr" src="manual" selected="1">NNIXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-ln95043-073-p2s1Cw18">
@@ -580,7 +584,10 @@
 <LM>w#w-ln95043-073-p2s2w20</LM>
 </w.rf>
 <form>KDS</form>
-<tag lemma="KDS_:B_;K_;p_^(Křesťansko-demokratická_strana)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="KDS_:B_;K_;p_^(Křesťansko-demokratická_strana)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="KDS-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95043-073-p2s2w21">
 <src.rf>manual</src.rf>
@@ -646,7 +653,10 @@
 <LM>w#w-ln95043-073-p3s1w6</LM>
 </w.rf>
 <form>ani</form>
-<tag lemma="ani-1" src="auto" selected="1">J^-------------</tag>
+<tag>
+<AM lemma="ani-1" src="auto">J^-------------</AM>
+<AM lemma="ani-2" src="manual" selected="1">TT-------------</AM>
+</tag>
 </m>
 <m id="m-ln95043-073-p3s1w7">
 <src.rf>manual</src.rf>
@@ -816,7 +826,10 @@
 <LM>w#w-ln95043-073-p3s2w5</LM>
 </w.rf>
 <form>jen</form>
-<tag lemma="jen-1" src="auto" selected="1">TT-------------</tag>
+<tag>
+<AM lemma="jen-1" src="auto">TT-------------</AM>
+<AM lemma="jen-4_^(pouze)" src="manual" selected="1">Db-------------</AM>
+</tag>
 </m>
 <m id="m-ln95043-073-p3s2w6">
 <src.rf>manual</src.rf>
@@ -914,7 +927,10 @@
 <LM>w#w-ln95043-073-p4s1w9</LM>
 </w.rf>
 <form>NPŠ</form>
-<tag lemma="NPŠ_:B_^(Národní_Park_Šumava)" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="NPŠ_:B_^(Národní_Park_Šumava)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="NPŠ-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95043-073-p4s1w10">
 <src.rf>manual</src.rf>
@@ -1261,6 +1277,7 @@
 <AM lemma="mimo-1_:B" src="auto">RR--4---------8</AM>
 <AM lemma="minuta_:B" src="auto">NNFXX-----A---8</AM>
 <AM lemma="město_:B" src="auto">NNNXX-----A---8</AM>
+<AM lemma="metr" src="manual" selected="1">NNIXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-ln95043-073-p4s2w20">
@@ -1295,7 +1312,7 @@
 <form>přičemž</form>
 <tag>
 <AM lemma="přičemž" src="orig">J,-------------</AM>
-<AM lemma="přičemž" src="auto" recommended="1">Db-------------</AM>
+<AM lemma="přičemž" src="auto" recommended="1" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m-ln95043-073-p4s2w24">
@@ -1344,7 +1361,10 @@
 <LM>w#w-ln95043-073-p4s2w29</LM>
 </w.rf>
 <form>cca</form>
-<tag lemma="cca_:B_,t" src="auto" selected="1">Db-------------</tag>
+<tag>
+<AM lemma="cca_:B_,t" src="auto">Db-------------</AM>
+<AM lemma="cca_:B" src="manual" selected="1">Db-------------</AM>
+</tag>
 </m>
 <m id="m-ln95043-073-p4s2w30">
 <src.rf>manual</src.rf>
@@ -1361,7 +1381,10 @@
 <LM>w#w-ln95043-073-p4s2w31</LM>
 </w.rf>
 <form>ha</form>
-<tag lemma="ha-1`hektar_:B" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="ha-1`hektar_:B" src="orig">NNIXX-----A---8</AM>
+<AM lemma="hektar" src="manual" selected="1">NNIXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln95043-073-p4s2w32">
 <src.rf>manual</src.rf>
@@ -1387,7 +1410,7 @@
 <form>jakákoliv</form>
 <tag>
 <AM lemma="jakýkoliv" src="orig">PZFS1----------</AM>
-<AM lemma="jakýkoli" src="auto" recommended="1">PZFS1---------1</AM>
+<AM lemma="jakýkoli" src="auto" recommended="1" selected="1">PZFS1---------1</AM>
 <AM lemma="jakýkoli" src="auto">PZFS5---------1</AM>
 <AM lemma="jakýkoli" src="auto">PZNP1---------1</AM>
 <AM lemma="jakýkoli" src="auto">PZNP4---------1</AM>
@@ -1554,7 +1577,10 @@
 <LM>w#w-ln95043-073-p4s3w15</LM>
 </w.rf>
 <form>tzv</form>
-<tag lemma="takzvaný_:B" src="orig" selected="1">AAXXX----1A---8</tag>
+<tag>
+<AM lemma="takzvaný_:B" src="orig">AAXXX----1A---8</AM>
+<AM lemma="takzvaný" src="manual" selected="1">AAXXX----1A---8</AM>
+</tag>
 </m>
 <m id="m-ln95043-073-p4s3w16">
 <src.rf>manual</src.rf>
@@ -1782,7 +1808,10 @@
 <LM>w#w-ln95043-073-p4s5w9</LM>
 </w.rf>
 <form>NPŠ</form>
-<tag lemma="NPŠ_:B_^(Národní_Park_Šumava)" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="NPŠ_:B_^(Národní_Park_Šumava)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="NPŠ-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95043-073-p4s5w10">
 <src.rf>manual</src.rf>

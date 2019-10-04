@@ -100,7 +100,10 @@
 <LM>w#w-ln95046-045-p1s1w11</LM>
 </w.rf>
 <form>Agnes</form>
-<tag lemma="Agnes_;Y_,t" src="auto" selected="1">NNFXX-----A----</tag>
+<tag>
+<AM lemma="Agnes_;Y_,t" src="auto">NNFXX-----A----</AM>
+<AM lemma="Agnes_;Y" src="manual" selected="1">NNFXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95046-045-p1s1w12">
 <src.rf>manual</src.rf>

@@ -304,7 +304,10 @@
 <LM>w#w-ln95040-096-p2s2w20</LM>
 </w.rf>
 <form>jen</form>
-<tag lemma="jen-1" src="auto" selected="1">TT-------------</tag>
+<tag>
+<AM lemma="jen-1" src="auto">TT-------------</AM>
+<AM lemma="jen-4_^(pouze)" src="manual" selected="1">Db-------------</AM>
+</tag>
 </m>
 <m id="m-ln95040-096-p2s2w21">
 <src.rf>manual</src.rf>
@@ -564,7 +567,10 @@
 <LM>w#w-ln95040-096-p3s1w15</LM>
 </w.rf>
 <form>jen</form>
-<tag lemma="jen-1" src="auto" selected="1">TT-------------</tag>
+<tag>
+<AM lemma="jen-1" src="auto">TT-------------</AM>
+<AM lemma="jen-4_^(pouze)" src="manual" selected="1">Db-------------</AM>
+</tag>
 </m>
 <m id="m-ln95040-096-p3s1w16">
 <src.rf>manual</src.rf>
@@ -673,7 +679,7 @@
 <tag>
 <AM lemma="cokoliv" src="orig">PZ--4----------</AM>
 <AM lemma="cokoli" src="auto">PZ--1---------1</AM>
-<AM lemma="cokoli" src="auto" recommended="1">PZ--4---------1</AM>
+<AM lemma="cokoli" src="auto" recommended="1" selected="1">PZ--4---------1</AM>
 <AM lemma="cokoli" src="auto">PZ--5---------1</AM>
 </tag>
 </m>
@@ -1813,7 +1819,10 @@
 <LM>w#w-ln95040-096-p5s1w10</LM>
 </w.rf>
 <form>de</form>
-<tag lemma="de_,t_^(z_franc._de,_zejm._ve_jménech)" src="orig" selected="1">RR--1----------</tag>
+<tag>
+<AM lemma="de_,t_^(z_franc._de,_zejm._ve_jménech)" src="orig">RR--1----------</AM>
+<AM lemma="de-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln95040-096-p5s1w11">
 <src.rf>manual</src.rf>
@@ -1821,7 +1830,10 @@
 <LM>w#w-ln95040-096-p5s1w11</LM>
 </w.rf>
 <form>iure</form>
-<tag lemma="ius_,t" src="orig" selected="1">NNNS6-----A----</tag>
+<tag>
+<AM lemma="ius_,t" src="orig">NNNS6-----A----</AM>
+<AM lemma="iure-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln95040-096-p5s1w12">
 <src.rf>manual</src.rf>
@@ -2471,7 +2483,10 @@
 <LM>w#w-ln95040-096-p6s1w6</LM>
 </w.rf>
 <form>jen</form>
-<tag lemma="jen-1" src="auto" selected="1">TT-------------</tag>
+<tag>
+<AM lemma="jen-1" src="auto">TT-------------</AM>
+<AM lemma="jen-4_^(pouze)" src="manual" selected="1">Db-------------</AM>
+</tag>
 </m>
 <m id="m-ln95040-096-p6s1w7">
 <src.rf>manual</src.rf>
@@ -2551,7 +2566,10 @@
 <LM>w#w-ln95040-096-p6s1w16</LM>
 </w.rf>
 <form>jen</form>
-<tag lemma="jen-1" src="auto" selected="1">TT-------------</tag>
+<tag>
+<AM lemma="jen-1" src="auto">TT-------------</AM>
+<AM lemma="jen-4_^(pouze)" src="manual" selected="1">Db-------------</AM>
+</tag>
 </m>
 <m id="m-ln95040-096-p6s1w17">
 <src.rf>manual</src.rf>
