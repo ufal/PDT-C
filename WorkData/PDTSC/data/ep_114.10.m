@@ -21,7 +21,10 @@
 <m id="m-d1t2790-2">
 <w.rf>w#w-d1t2790-2</w.rf>
 <form>hezky</form>
-<tag lemma="hezky" src="auto" recommended="1">Dg-------1A----</tag>
+<tag>
+<AM lemma="hezky" src="auto" recommended="1">Dg-------1A----</AM>
+<AM lemma="hezky_^(*1ý)" src="manual" selected="1">Dg-------1A----</AM>
+</tag>
 </m>
 <m id="m-d1t2790-3">
 <w.rf>w#w-d1t2790-3</w.rf>
@@ -58,7 +61,10 @@
 <m id="m-d1t2790-6">
 <w.rf>w#w-d1t2790-6</w.rf>
 <form>vámi</form>
-<tag lemma="ty" src="auto" recommended="1">PP-P7--2-------</tag>
+<tag>
+<AM lemma="ty" src="auto" recommended="1">PP-P7--2-------</AM>
+<AM lemma="ty_^(**já)" src="manual" selected="1">PP-P7--2-------</AM>
+</tag>
 </m>
 <m id="m-d1t2790-7">
 <w.rf>w#w-d1t2790-7</w.rf>
@@ -79,6 +85,11 @@
 <AM lemma="já" src="auto">PH-S2--1-------</AM>
 <AM lemma="já" src="auto" recommended="1">PH-S4--1-------</AM>
 </tag>
+<comment>
+<LM type="New Form">
+<text>Mně</text>
+</LM>
+</comment>
 </m>
 <m id="m-d1t2795-2">
 <w.rf>w#w-d1t2795-2</w.rf>

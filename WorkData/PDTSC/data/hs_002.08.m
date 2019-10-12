@@ -11,7 +11,7 @@
 <w.rf>w#w-d1t2351-2</w.rf>
 <form>Nemusí</form>
 <tag>
-<AM lemma="muset" src="auto">VB-P---3P-NA--1</AM>
+<AM lemma="muset" src="auto" selected="1">VB-P---3P-NA--1</AM>
 <AM lemma="muset" src="auto" recommended="1">VB-S---3P-NA---</AM>
 </tag>
 </m>
@@ -31,6 +31,7 @@
 <AM lemma="moc-1_^(nad_někým;_politická,_vojenská;_plná,...)" src="auto">NNFS4-----A----</AM>
 <AM lemma="moc-2_^(mnoho_něčeho_[se_subst._v_gen.])" src="auto">Ca--X----------</AM>
 <AM lemma="moc-3_^(velmi,_ve_spojení_s_adj.,_př._moc_hezká)" src="auto" recommended="1">Db-------------</AM>
+<AM lemma="moc-3_^(moc_hezká,_moc_peněz)" src="manual" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m-d1t2351-5">
@@ -112,7 +113,10 @@
 <m id="m-d1t2359-1">
 <w.rf>w#w-d1t2359-1</w.rf>
 <form>Dobře</form>
-<tag lemma="dobře" src="auto" recommended="1">Dg-------1A----</tag>
+<tag>
+<AM lemma="dobře" src="auto" recommended="1">Dg-------1A----</AM>
+<AM lemma="dobře-2" src="manual" selected="1">TT-------------</AM>
+</tag>
 </m>
 <m id="m-d-id2676396">
 <w.rf>w#w-d-id2676396</w.rf>

@@ -196,7 +196,10 @@
 <m id="m-d1t2022-4">
 <w.rf>w#w-d1t2022-4</w.rf>
 <form>můžu</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="auto" recommended="1">VB-S---1P-AA---</tag>
+<tag>
+<AM lemma="moci_^(mít_možnost_[něco_dělat])" src="auto" recommended="1">VB-S---1P-AA---</AM>
+<AM lemma="moci" src="manual" selected="1">VB-S---1P-AA---</AM>
+</tag>
 </m>
 <m id="m-d1t2022-7">
 <w.rf>w#w-d1t2022-7</w.rf>
@@ -312,6 +315,7 @@
 <tag>
 <AM lemma="žid" src="auto" recommended="1">NNMP1-----A----</AM>
 <AM lemma="žid" src="auto">NNMP5-----A----</AM>
+<AM lemma="Žid_;E" src="manual" selected="1">NNMP1-----A----</AM>
 </tag>
 </m>
 <m id="m-d1t2026-18">
@@ -866,7 +870,7 @@
 <w.rf>w#w-d1t2065-4</w.rf>
 <form>pasem</form>
 <tag>
-<AM lemma="pas-2_^(na_lidském_těle;;cestovní)" src="auto">NNIS7-----A----</AM>
+<AM lemma="pas-2_^(na_lidském_těle;;cestovní)" src="auto" selected="1">NNIS7-----A----</AM>
 <AM lemma="pas-3_^(přihrávka,_př._v_kopané)" src="auto" recommended="1">NNIS7-----A----</AM>
 <AM lemma="paso_;u_,t_^(passo_doble)" src="auto">NNNS7-----A----</AM>
 <AM lemma="pasus" src="auto">NNIS7-----A----</AM>
@@ -990,7 +994,7 @@
 <form>takzvané</form>
 <tag>
 <AM lemma="takzvaný" src="auto">AAFP1----1A----</AM>
-<AM lemma="takzvaný" src="auto">AAFP4----1A----</AM>
+<AM lemma="takzvaný" src="auto" selected="1">AAFP4----1A----</AM>
 <AM lemma="takzvaný" src="auto">AAFP5----1A----</AM>
 <AM lemma="takzvaný" src="auto">AAFS2----1A----</AM>
 <AM lemma="takzvaný" src="auto">AAFS3----1A----</AM>
@@ -1010,7 +1014,10 @@
 <m id="m-d1t2074-4">
 <w.rf>w#w-d1t2074-4</w.rf>
 <form>hachšary</form>
-<tag lemma="hachšary" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="hachšary" src="auto">X@-------------</AM>
+<AM lemma="hachšara" src="manual" selected="1">NNFP4-----A----</AM>
+</tag>
 </m>
 <m id="m-d-id119288">
 <w.rf>w#w-d-id119288</w.rf>
@@ -1246,7 +1253,7 @@
 <w.rf>w#w-d1t2101-2</w.rf>
 <form>materiál</form>
 <tag>
-<AM lemma="materiál" src="auto">NNIS1-----A----</AM>
+<AM lemma="materiál" src="auto" selected="1">NNIS1-----A----</AM>
 <AM lemma="materiál" src="auto" recommended="1">NNIS4-----A----</AM>
 </tag>
 </m>
@@ -1292,7 +1299,10 @@
 <m id="m-d1t2109-1">
 <w.rf>w#w-d1t2109-1</w.rf>
 <form>Dobře</form>
-<tag lemma="dobře" src="auto" recommended="1">Dg-------1A----</tag>
+<tag>
+<AM lemma="dobře" src="auto" recommended="1">Dg-------1A----</AM>
+<AM lemma="dobře-2" src="manual" selected="1">TT-------------</AM>
+</tag>
 </m>
 <m id="m-d-id120042">
 <w.rf>w#w-d-id120042</w.rf>

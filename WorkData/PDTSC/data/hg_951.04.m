@@ -23,7 +23,10 @@
 <m id="m-d1t1769-3">
 <w.rf>w#w-d1t1769-3</w.rf>
 <form>Fixler</form>
-<tag lemma="Fixler" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Fixler" src="auto">X@-------------</AM>
+<AM lemma="Fixler_;S" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-d1e1589-x12-7902">
 <w.rf>w#w-d1e1589-x12-7902</w.rf>
@@ -284,7 +287,7 @@
 <form>třeba</form>
 <tag>
 <AM lemma="třeba-2" src="auto" recommended="1">Db-------------</AM>
-<AM lemma="třeba-3" src="auto">TT-------------</AM>
+<AM lemma="třeba-3" src="auto" selected="1">TT-------------</AM>
 </tag>
 </m>
 <m id="m-d1t1786-8">

@@ -274,7 +274,7 @@
 <form>prostě</form>
 <tag>
 <AM lemma="prostě-1" src="auto" recommended="1">Dg-------1A----</AM>
-<AM lemma="prostě-2" src="auto">TT-------------</AM>
+<AM lemma="prostě-2" src="auto" selected="1">TT-------------</AM>
 </tag>
 </m>
 <m id="m-d1t2474-5">
@@ -670,7 +670,10 @@
 <m id="m-d1t2505-6">
 <w.rf>w#w-d1t2505-6</w.rf>
 <form>lidovkyně</form>
-<tag lemma="lidovkyně" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="lidovkyně" src="auto">X@-------------</AM>
+<AM lemma="lidovkyně_^(*4ec)" src="manual" selected="1">NNFS1-----A----</AM>
+</tag>
 </m>
 <m id="m-759-762">
 <w.rf>w#w-759-762</w.rf>
@@ -798,7 +801,7 @@
 <w.rf>w#w-d1t2511-6</w.rf>
 <form>co</form>
 <tag>
-<AM lemma="co-1" src="auto">PQ--1----------</AM>
+<AM lemma="co-1" src="auto" selected="1">PQ--1----------</AM>
 <AM lemma="co-1" src="auto" recommended="1">PQ--4----------</AM>
 <AM lemma="co-2_^(cože;_ale_co)" src="auto">TT-------------</AM>
 <AM lemma="co-3_^(když:_poté/od_té_doby,_co)" src="auto">J,-------------</AM>
@@ -1017,7 +1020,7 @@
 <form>to</form>
 <tag>
 <AM lemma="ten" src="auto" recommended="1">PDNS1----------</AM>
-<AM lemma="ten" src="auto">PDNS4----------</AM>
+<AM lemma="ten" src="auto" selected="1">PDNS4----------</AM>
 <AM lemma="to-9_^(být_s_to)" src="auto">TT-------------</AM>
 <AM lemma="to-77" src="auto">F%-------------</AM>
 </tag>
@@ -1040,7 +1043,7 @@
 <AM lemma="celý" src="auto">AANP4----1A---6</AM>
 <AM lemma="celý" src="auto">AANP5----1A---6</AM>
 <AM lemma="celý" src="auto" recommended="1">AANS1----1A----</AM>
-<AM lemma="celý" src="auto">AANS4----1A----</AM>
+<AM lemma="celý" src="auto" selected="1">AANS4----1A----</AM>
 <AM lemma="celý" src="auto">AANS5----1A----</AM>
 </tag>
 </m>
@@ -1202,7 +1205,10 @@
 <m id="m-d1t2538-3">
 <w.rf>w#w-d1t2538-3</w.rf>
 <form>Můžu</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="auto" recommended="1">VB-S---1P-AA---</tag>
+<tag>
+<AM lemma="moci_^(mít_možnost_[něco_dělat])" src="auto" recommended="1">VB-S---1P-AA---</AM>
+<AM lemma="moci" src="manual" selected="1">VB-S---1P-AA---</AM>
+</tag>
 </m>
 <m id="m-d1t2538-4">
 <w.rf>w#w-d1t2538-4</w.rf>

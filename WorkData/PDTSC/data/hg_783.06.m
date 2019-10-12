@@ -12,7 +12,7 @@
 <form>Horník</form>
 <tag>
 <AM lemma="Horník_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="horník" src="auto">NNMS1-----A----</AM>
+<AM lemma="horník" src="auto" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-d1e2297-x4-2223">

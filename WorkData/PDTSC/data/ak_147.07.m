@@ -989,7 +989,7 @@
 <AM lemma="mocenský" src="auto">AAFS7----1N----</AM>
 <AM lemma="nemocenský-2_^(týkající_se_nemoci,_např._dávka,_péče)" src="auto" recommended="1">AAFS4----1A----</AM>
 <AM lemma="nemocenský-2_^(týkající_se_nemoci,_např._dávka,_péče)" src="auto">AAFS7----1A----</AM>
-<AM lemma="nemocenská" src="auto">NNFS4-----A----</AM>
+<AM lemma="nemocenská" src="auto" selected="1">NNFS4-----A----</AM>
 <AM lemma="nemocenská" src="auto">NNFS7-----A----</AM>
 </tag>
 </m>
@@ -1035,7 +1035,7 @@
 <form>za</form>
 <tag>
 <AM lemma="za" src="auto" recommended="1">RR--2----------</AM>
-<AM lemma="za" src="auto">RR--4----------</AM>
+<AM lemma="za" src="auto" selected="1">RR--4----------</AM>
 <AM lemma="za" src="auto">RR--7----------</AM>
 </tag>
 </m>
@@ -1044,7 +1044,7 @@
 <form>podpory</form>
 <tag>
 <AM lemma="podpora_^(peníze;_tyč;_morální_p.)" src="auto">NNFP1-----A----</AM>
-<AM lemma="podpora_^(peníze;_tyč;_morální_p.)" src="auto">NNFP4-----A----</AM>
+<AM lemma="podpora_^(peníze;_tyč;_morální_p.)" src="auto" selected="1">NNFP4-----A----</AM>
 <AM lemma="podpora_^(peníze;_tyč;_morální_p.)" src="auto">NNFP5-----A----</AM>
 <AM lemma="podpora_^(peníze;_tyč;_morální_p.)" src="auto" recommended="1">NNFS2-----A----</AM>
 <AM lemma="podpor_^(tělocvičná_poloha)" src="auto">NNIP1-----A----</AM>
@@ -1368,6 +1368,7 @@
 <AM lemma="zatlít_,s" src="auto">Vi-S---2--A----</AM>
 <AM lemma="zatlít_,s" src="auto">Vi-S---3--A---4</AM>
 <AM lemma="zatnout_,x" src="auto" recommended="1">VpMP---XR-AA---</AM>
+<AM lemma="zatnout" src="manual" selected="1">VpMP---XR-AA---</AM>
 </tag>
 </m>
 <m id="m-d1t704-18">
@@ -1520,6 +1521,7 @@
 <tag>
 <AM lemma="zřejmě" src="auto">TT-------------</AM>
 <AM lemma="zřejmě_^(*1ý)" src="auto" recommended="1">Dg-------1A----</AM>
+<AM lemma="zřejmě-2" src="manual" selected="1">TT-------------</AM>
 </tag>
 </m>
 <m id="m-d1t707-3">
@@ -1527,7 +1529,7 @@
 <form>i</form>
 <tag>
 <AM lemma="i-1" src="auto" recommended="1">J^-------------</AM>
-<AM lemma="i-2" src="auto">TT-------------</AM>
+<AM lemma="i-2" src="auto" selected="1">TT-------------</AM>
 <AM lemma="i-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
 <AM lemma="i-88_:B" src="auto">NNXXX-----A----</AM>
 </tag>
@@ -1535,7 +1537,10 @@
 <m id="m-d1t707-4">
 <w.rf>w#w-d1t707-4</w.rf>
 <form>dost</form>
-<tag lemma="dost" src="auto" recommended="1">Db-------------</tag>
+<tag>
+<AM lemma="dost" src="auto" recommended="1">Db-------------</AM>
+<AM lemma="dost" src="manual" selected="1">Dg-------1A----</AM>
+</tag>
 </m>
 <m id="m-d1t707-5">
 <w.rf>w#w-d1t707-5</w.rf>
@@ -1659,7 +1664,7 @@
 <AM lemma="vyhozený_^(*4dit)" src="auto">AAMP1----1A---6</AM>
 <AM lemma="vyhozený_^(*4dit)" src="auto">AAMP4----1A---6</AM>
 <AM lemma="vyhozený_^(*4dit)" src="auto">AAMP5----1A---6</AM>
-<AM lemma="vyhozený_^(*4dit)" src="auto">AAMS1----1A----</AM>
+<AM lemma="vyhozený_^(*4dit)" src="auto" selected="1">AAMS1----1A----</AM>
 <AM lemma="vyhozený_^(*4dit)" src="auto">AAMS5----1A----</AM>
 <AM lemma="vyhozený_^(*4dit)" src="auto">AANP1----1A---6</AM>
 <AM lemma="vyhozený_^(*4dit)" src="auto">AANP4----1A---6</AM>
@@ -1757,7 +1762,7 @@
 <form>tak</form>
 <tag>
 <AM lemma="taka-1_;L" src="auto">NNFP2-----A----</AM>
-<AM lemma="tak-1" src="auto">TT-------------</AM>
+<AM lemma="tak-1" src="auto" selected="1">TT-------------</AM>
 <AM lemma="tak-2" src="auto">J^-------------</AM>
 <AM lemma="tak-3" src="auto" recommended="1">Db-------------</AM>
 </tag>
@@ -1913,6 +1918,7 @@
 <tag>
 <AM lemma="málo-3" src="auto" recommended="1">Dg-------2A----</AM>
 <AM lemma="méně" src="auto">Ca--X----------</AM>
+<AM lemma="málo-3_^(málo_důsledný)" src="manual" selected="1">Dg-------2A----</AM>
 </tag>
 </m>
 <m id="m-d1t715-7">
@@ -2020,7 +2026,10 @@
 <m id="m-d1t720-6">
 <w.rf>w#w-d1t720-6</w.rf>
 <form>holt</form>
-<tag lemma="holt_,h_,s" src="auto" recommended="1">Db-------------</tag>
+<tag>
+<AM lemma="holt_,h_,s" src="auto" recommended="1">Db-------------</AM>
+<AM lemma="holt_,h" src="manual" selected="1">Db-------------</AM>
+</tag>
 </m>
 <m id="m-d1t720-9">
 <w.rf>w#w-d1t720-9</w.rf>
@@ -2085,7 +2094,7 @@
 <tag>
 <AM lemma="stát-3_^(někdo/něco_stojí,_např._na_nohou)" src="auto" recommended="1">Vf--------A----</AM>
 <AM lemma="stát-5_^(sníh)" src="auto">Vf--------A----</AM>
-<AM lemma="stát-1_^(státní_útvar)" src="auto">NNIS1-----A----</AM>
+<AM lemma="stát-1_^(státní_útvar)" src="auto" selected="1">NNIS1-----A----</AM>
 <AM lemma="stát-1_^(státní_útvar)" src="auto">NNIS4-----A----</AM>
 <AM lemma="stát-2_^(něco_se_přihodilo)" src="auto">Vf--------A----</AM>
 </tag>
@@ -2147,7 +2156,7 @@
 <form>Zrovna</form>
 <tag>
 <AM lemma="zrovna-1" src="auto" recommended="1">Db-------------</AM>
-<AM lemma="zrovna-2" src="auto">TT-------------</AM>
+<AM lemma="zrovna-2" src="auto" selected="1">TT-------------</AM>
 </tag>
 </m>
 <m id="m-d1t720-26">
@@ -2173,7 +2182,7 @@
 <AM lemma="plánování_^(*3at)" src="auto">NNNP2-----A----</AM>
 <AM lemma="plánování_^(*3at)" src="auto">NNNP4-----A----</AM>
 <AM lemma="plánování_^(*3at)" src="auto">NNNP5-----A----</AM>
-<AM lemma="plánování_^(*3at)" src="auto">NNNS1-----A----</AM>
+<AM lemma="plánování_^(*3at)" src="auto" selected="1">NNNS1-----A----</AM>
 <AM lemma="plánování_^(*3at)" src="auto" recommended="1">NNNS2-----A----</AM>
 <AM lemma="plánování_^(*3at)" src="auto">NNNS3-----A----</AM>
 <AM lemma="plánování_^(*3at)" src="auto">NNNS4-----A----</AM>
@@ -2881,6 +2890,7 @@
 <AM lemma="vězení_,a_^(místo_výkonu_trestu)" src="auto">NNNS4-----A----</AM>
 <AM lemma="vězení_,a_^(místo_výkonu_trestu)" src="auto">NNNS5-----A----</AM>
 <AM lemma="vězení_,a_^(místo_výkonu_trestu)" src="auto" recommended="1">NNNS6-----A----</AM>
+<AM lemma="vězení_^(místo_výkonu_trestu)" src="manual" selected="1">NNNS6-----A----</AM>
 </tag>
 </m>
 <m id="m-d1t730-8">
@@ -3135,7 +3145,7 @@
 <form>včetně</form>
 <tag>
 <AM lemma="včetně-1" src="auto" recommended="1">Db-------------</AM>
-<AM lemma="včetně-2" src="auto">RR--2----------</AM>
+<AM lemma="včetně-2" src="auto" selected="1">RR--2----------</AM>
 </tag>
 </m>
 <m id="m-d1t737-8">
@@ -3227,7 +3237,7 @@
 <form>Teta</form>
 <tag>
 <AM lemma="Teta_;K" src="auto" recommended="1">NNFS1-----A----</AM>
-<AM lemma="teta" src="auto">NNFS1-----A----</AM>
+<AM lemma="teta" src="auto" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-d1t739-1">
@@ -3249,6 +3259,7 @@
 <tag>
 <AM lemma="jenom-1" src="auto">TT-------------</AM>
 <AM lemma="jenom-2_^(pouze)" src="auto" recommended="1">Db-------------</AM>
+<AM lemma="jenom-2_,s_^(^DD**jen-4)_(pouze)" src="manual" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m-d1t739-4">
@@ -3441,7 +3452,10 @@
 <m id="m-d1t739-31">
 <w.rf>w#w-d1t739-31</w.rf>
 <form>dost</form>
-<tag lemma="dost" src="auto" recommended="1">Db-------------</tag>
+<tag>
+<AM lemma="dost" src="auto" recommended="1">Db-------------</AM>
+<AM lemma="dost" src="manual" selected="1">Dg-------1A----</AM>
+</tag>
 </m>
 <m id="m-d1t739-32">
 <w.rf>w#w-d1t739-32</w.rf>
@@ -3457,6 +3471,7 @@
 <AM lemma="málo-1_^(málo_+_2._p.,_málo_peněz)" src="auto">Ca--6----------</AM>
 <AM lemma="málo-1_^(málo_+_2._p.,_málo_peněz)" src="auto">Ca--7----------</AM>
 <AM lemma="málo-3_^(málo_+_příd._jm.,_př._byl_málo_důsledný)" src="auto" recommended="1">Dg-------1A----</AM>
+<AM lemma="málo-3_^(málo_důsledný)" src="manual" selected="1">Dg-------1A----</AM>
 </tag>
 </m>
 <m id="m-d1t739-33">
@@ -3498,7 +3513,7 @@
 <form>ani</form>
 <tag>
 <AM lemma="ani-1" src="auto" recommended="1">J^-------------</AM>
-<AM lemma="ani-2" src="auto">TT-------------</AM>
+<AM lemma="ani-2" src="auto" selected="1">TT-------------</AM>
 </tag>
 </m>
 <m id="m-892-893">
@@ -3646,7 +3661,7 @@
 <form>Všechno</form>
 <tag>
 <AM lemma="všechen" src="auto" recommended="1">PLNS1----------</AM>
-<AM lemma="všechen" src="auto">PLNS4----------</AM>
+<AM lemma="všechen" src="auto" selected="1">PLNS4----------</AM>
 <AM lemma="všechen" src="auto">PLNS5----------</AM>
 </tag>
 </m>
@@ -3763,7 +3778,10 @@
 <m id="m-d1t750-3">
 <w.rf>w#w-d1t750-3</w.rf>
 <form>přivezli</form>
-<tag lemma="přivézt_^(něco/někoho_autem,_vlakem,...)" src="auto" recommended="1">VpMP---XR-AA---</tag>
+<tag>
+<AM lemma="přivézt_^(něco/někoho_autem,_vlakem,...)" src="auto" recommended="1">VpMP---XR-AA---</AM>
+<AM lemma="přivézt" src="manual" selected="1">VpMP---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-943-944">
 <w.rf>w#w-943-944</w.rf>
@@ -3875,7 +3893,7 @@
 <form>jak</form>
 <tag>
 <AM lemma="jak-1_;L_^(živočich)" src="auto">NNMS1-----A----</AM>
-<AM lemma="jak-2" src="auto">J,-------------</AM>
+<AM lemma="jak-2" src="auto" selected="1">J,-------------</AM>
 <AM lemma="jak-2" src="auto">J^-------------</AM>
 <AM lemma="jak-3" src="auto" recommended="1">Db-------------</AM>
 <AM lemma="jak-99_:B_;S" src="auto">NNXXX-----A----</AM>
@@ -3894,7 +3912,10 @@
 <m id="m-d1t750-21">
 <w.rf>w#w-d1t750-21</w.rf>
 <form>dlouho</form>
-<tag lemma="dlouho_^(o_čase;_př._dlouhá_doba)" src="auto" recommended="1">Dg-------1A----</tag>
+<tag>
+<AM lemma="dlouho_^(o_čase;_př._dlouhá_doba)" src="auto" recommended="1">Dg-------1A----</AM>
+<AM lemma="dlouho" src="manual" selected="1">Dg-------1A----</AM>
+</tag>
 </m>
 <m id="m-947-949">
 <w.rf>w#w-947-949</w.rf>
@@ -3945,7 +3966,7 @@
 <form>Prostě</form>
 <tag>
 <AM lemma="prostě-1" src="auto" recommended="1">Dg-------1A----</AM>
-<AM lemma="prostě-2" src="auto">TT-------------</AM>
+<AM lemma="prostě-2" src="auto" selected="1">TT-------------</AM>
 </tag>
 </m>
 <m id="m-d1t752-8">
@@ -4083,7 +4104,7 @@
 <tag>
 <AM lemma="kolo" src="auto" recommended="1">NNNS7-----A----</AM>
 <AM lemma="kolem-1" src="auto">RR--2----------</AM>
-<AM lemma="kolem-2" src="auto">Db-------------</AM>
+<AM lemma="kolem-2" src="auto" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m-954-955">
@@ -4221,7 +4242,7 @@
 <form>tak</form>
 <tag>
 <AM lemma="taka-1_;L" src="auto">NNFP2-----A----</AM>
-<AM lemma="tak-1" src="auto">TT-------------</AM>
+<AM lemma="tak-1" src="auto" selected="1">TT-------------</AM>
 <AM lemma="tak-2" src="auto" recommended="1">J^-------------</AM>
 <AM lemma="tak-3" src="auto">Db-------------</AM>
 </tag>
@@ -4230,7 +4251,7 @@
 <w.rf>w#w-d1t763-14</w.rf>
 <form>co</form>
 <tag>
-<AM lemma="co-1" src="auto">PQ--1----------</AM>
+<AM lemma="co-1" src="auto" selected="1">PQ--1----------</AM>
 <AM lemma="co-1" src="auto" recommended="1">PQ--4----------</AM>
 <AM lemma="co-2_^(cože;_ale_co)" src="auto">TT-------------</AM>
 <AM lemma="co-3_^(když:_poté/od_té_doby,_co)" src="auto">J,-------------</AM>
@@ -4375,7 +4396,7 @@
 <form>takové</form>
 <tag>
 <AM lemma="takový" src="auto" recommended="1">PDFP1----------</AM>
-<AM lemma="takový" src="auto">PDFP4----------</AM>
+<AM lemma="takový" src="auto" selected="1">PDFP4----------</AM>
 <AM lemma="takový" src="auto">PDFS2----------</AM>
 <AM lemma="takový" src="auto">PDFS3----------</AM>
 <AM lemma="takový" src="auto">PDFS6----------</AM>
@@ -4393,7 +4414,7 @@
 <form>hrozné</form>
 <tag>
 <AM lemma="hrozný" src="auto" recommended="1">AAFP1----1A----</AM>
-<AM lemma="hrozný" src="auto">AAFP4----1A----</AM>
+<AM lemma="hrozný" src="auto" selected="1">AAFP4----1A----</AM>
 <AM lemma="hrozný" src="auto">AAFP5----1A----</AM>
 <AM lemma="hrozný" src="auto">AAFS2----1A----</AM>
 <AM lemma="hrozný" src="auto">AAFS3----1A----</AM>
@@ -4415,7 +4436,7 @@
 <form>věci</form>
 <tag>
 <AM lemma="věc" src="auto" recommended="1">NNFP1-----A----</AM>
-<AM lemma="věc" src="auto">NNFP4-----A----</AM>
+<AM lemma="věc" src="auto" selected="1">NNFP4-----A----</AM>
 <AM lemma="věc" src="auto">NNFP5-----A----</AM>
 <AM lemma="věc" src="auto">NNFS2-----A----</AM>
 <AM lemma="věc" src="auto">NNFS3-----A----</AM>
@@ -4603,7 +4624,7 @@
 <w.rf>w#w-d1t772-19</w.rf>
 <form>což</form>
 <tag>
-<AM lemma="což-1" src="auto">PE--1----------</AM>
+<AM lemma="což-1" src="auto" selected="1">PE--1----------</AM>
 <AM lemma="což-1" src="auto" recommended="1">PE--4----------</AM>
 <AM lemma="což-2_^(cožpak:_což_jsem_to_neříkal?)" src="auto">TT-------------</AM>
 <AM lemma="což-3_^(nu_což,_...;_což_o_to,_...)" src="auto">II-------------</AM>

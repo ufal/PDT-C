@@ -126,7 +126,7 @@
 <form>tak</form>
 <tag>
 <AM lemma="taka-1_;L" src="auto">NNFP2-----A----</AM>
-<AM lemma="tak-1" src="auto">TT-------------</AM>
+<AM lemma="tak-1" src="auto" selected="1">TT-------------</AM>
 <AM lemma="tak-2" src="auto">J^-------------</AM>
 <AM lemma="tak-3" src="auto" recommended="1">Db-------------</AM>
 </tag>
@@ -179,6 +179,11 @@
 <w.rf>w#w-d1t3530-2</w.rf>
 <form>Msem</form>
 <tag lemma="Msem" src="auto">X@-------------</tag>
+<comment>
+<LM type="New Form">
+<text>Jsem</text>
+</LM>
+</comment>
 </m>
 <m id="m-d1t3538-1">
 <w.rf>w#w-d1t3538-1</w.rf>
@@ -354,7 +359,7 @@
 <w.rf>w#w-d1t3544-5</w.rf>
 <form>čas</form>
 <tag>
-<AM lemma="čas" src="auto">NNIS1-----A----</AM>
+<AM lemma="čas" src="auto" selected="1">NNIS1-----A----</AM>
 <AM lemma="čas" src="auto" recommended="1">NNIS4-----A----</AM>
 <AM lemma="časit" src="auto">Vi-S---2--A----</AM>
 <AM lemma="časit" src="auto">Vi-S---3--A---4</AM>

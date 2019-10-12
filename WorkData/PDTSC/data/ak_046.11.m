@@ -39,7 +39,10 @@
 <m id="m-d1t2986-5">
 <w.rf>w#w-d1t2986-5</w.rf>
 <form>Čierném</form>
-<tag lemma="Čierném" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Čierném" src="auto">X@-------------</AM>
+<AM lemma="čierný_^(ve_slovenských_názvech)" src="manual" selected="1">AAIS6----1A----</AM>
+</tag>
 </m>
 <m id="m-d1t2986-6">
 <w.rf>w#w-d1t2986-6</w.rf>
@@ -48,6 +51,7 @@
 <AM lemma="Balog_;S" src="auto">NNMS3-----A---1</AM>
 <AM lemma="Balog_;S" src="auto">NNMS5-----A----</AM>
 <AM lemma="Balog_;S" src="auto" recommended="1">NNMS6-----A---1</AM>
+<AM lemma="Balog-2_;G" src="manual" selected="1">NNIS6-----A----</AM>
 </tag>
 </m>
 <m id="m-d1e2983-x2-151">
@@ -89,7 +93,10 @@
 <m id="m-d1t2986-18">
 <w.rf>w#w-d1t2986-18</w.rf>
 <form>modračkách</form>
-<tag lemma="modračkách" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="modračkách" src="auto">X@-------------</AM>
+<AM lemma="modračky_^(kalhoty,_montérky)" src="manual" selected="1">NNFP6-----A----</AM>
+</tag>
 </m>
 <m id="m-155-156">
 <w.rf>w#w-155-156</w.rf>
@@ -227,7 +234,10 @@
 <m id="m-d1t2992-8">
 <w.rf>w#w-d1t2992-8</w.rf>
 <form>parnífíra</form>
-<tag lemma="parnífíra" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="parnífíra" src="auto">X@-------------</AM>
+<AM lemma="parnífíra_,h" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-158-878">
 <w.rf>w#w-158-878</w.rf>
@@ -303,7 +313,7 @@
 <form>Slovensku</form>
 <tag>
 <AM lemma="Slovensko_;G" src="auto">NNNS3-----A----</AM>
-<AM lemma="Slovensko_;G" src="auto">NNNS6-----A----</AM>
+<AM lemma="Slovensko_;G" src="auto" selected="1">NNNS6-----A----</AM>
 <AM lemma="slovensko-2_^(ve_spojení_&quot;po_slovensku&quot;)" src="auto" recommended="1">NNNS6-----A----</AM>
 </tag>
 </m>
@@ -497,7 +507,7 @@
 <form>tak</form>
 <tag>
 <AM lemma="taka-1_;L" src="auto">NNFP2-----A----</AM>
-<AM lemma="tak-1" src="auto">TT-------------</AM>
+<AM lemma="tak-1" src="auto" selected="1">TT-------------</AM>
 <AM lemma="tak-2" src="auto">J^-------------</AM>
 <AM lemma="tak-3" src="auto" recommended="1">Db-------------</AM>
 </tag>
@@ -618,7 +628,10 @@
 <m id="m-d1t3005-12">
 <w.rf>w#w-d1t3005-12</w.rf>
 <form>kancelárii</form>
-<tag lemma="kancelárii" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="kancelárii" src="auto">X@-------------</AM>
+<AM lemma="kancelárii-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-67-72">
 <w.rf>w#w-67-72</w.rf>
@@ -707,7 +720,7 @@
 <form>copak</form>
 <tag>
 <AM lemma="copak-1" src="auto">PQ--1----------</AM>
-<AM lemma="copak-1" src="auto">PQ--4----------</AM>
+<AM lemma="copak-1" src="auto" selected="1">PQ--4----------</AM>
 <AM lemma="copak-4" src="auto" recommended="1">TT-------------</AM>
 </tag>
 </m>
@@ -782,6 +795,7 @@
 <tag>
 <AM lemma="ty" src="auto">PP-S2--2-------</AM>
 <AM lemma="ty" src="auto" recommended="1">PP-S4--2-------</AM>
+<AM lemma="ty_^(**já)" src="manual" selected="1">PP-S4--2-------</AM>
 </tag>
 </m>
 <m id="m-d1t3010-17">
@@ -822,6 +836,7 @@
 <AM lemma="ty" src="auto" recommended="1">PP-S5--2-------</AM>
 <AM lemma="ten_,h" src="auto">PDNP1---------6</AM>
 <AM lemma="ten_,h" src="auto">PDNP4---------6</AM>
+<AM lemma="ty_^(**já)" src="manual" selected="1">PP-S1--2-------</AM>
 </tag>
 </m>
 <m id="m-d1t3014-1">
@@ -888,7 +903,11 @@
 <m id="m-d1t3016-4">
 <w.rf>w#w-d1t3016-4</w.rf>
 <form>Som</form>
-<tag lemma="Som" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Som" src="auto">X@-------------</AM>
+<AM lemma="Som-77" src="manual">F%-------------</AM>
+<AM lemma="som-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-d1t3016-5">
 <w.rf>w#w-d1t3016-5</w.rf>
@@ -898,7 +917,10 @@
 <m id="m-d1t3016-6">
 <w.rf>w#w-d1t3016-6</w.rf>
 <form>riaditeľ</form>
-<tag lemma="riaditeľ" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="riaditeľ" src="auto">X@-------------</AM>
+<AM lemma="riaditeľ-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-99-105">
 <w.rf>w#w-99-105</w.rf>
@@ -1027,6 +1049,7 @@
 <AM lemma="ty" src="auto">PP-P2--2-------</AM>
 <AM lemma="ty" src="auto" recommended="1">PP-P4--2-------</AM>
 <AM lemma="ty" src="auto">PP-P6--2-------</AM>
+<AM lemma="ty_^(**já)" src="manual" selected="1">PP-P4--2-------</AM>
 </tag>
 </m>
 <m id="m-d1t3034-4">

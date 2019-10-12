@@ -30,7 +30,7 @@
 <AM lemma="co-1" src="auto" recommended="1">PQ--4----------</AM>
 <AM lemma="co-2_^(cože;_ale_co)" src="auto">TT-------------</AM>
 <AM lemma="co-3_^(když:_poté/od_té_doby,_co)" src="auto">J,-------------</AM>
-<AM lemma="co-4_^(který:_př.:_o_těch,_co_odešli/co_je_znal)" src="auto">P4XXX----------</AM>
+<AM lemma="co-4_^(který:_př.:_o_těch,_co_odešli/co_je_znal)" src="auto" selected="1">P4XXX----------</AM>
 <AM lemma="co-5_^(př._co_nejméně,_co_nevidět,_co_chvíli,_co_do_počtu,_atd.)" src="auto">Db-------------</AM>
 <AM lemma="co-77_:B" src="auto">F%-------------</AM>
 </tag>
@@ -133,7 +133,7 @@
 <tag>
 <AM lemma="jeden`1" src="auto">ClFS7----------</AM>
 <AM lemma="jednou-1" src="auto" recommended="1">Cv-------------</AM>
-<AM lemma="jednou-2" src="auto">Db-------------</AM>
+<AM lemma="jednou-2" src="auto" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m-d1t1256-16">
@@ -353,7 +353,10 @@
 <m id="m-d1t1260-21">
 <w.rf>w#w-d1t1260-21</w.rf>
 <form>vždycky</form>
-<tag lemma="vždycky" src="auto" recommended="1">Db--------A----</tag>
+<tag>
+<AM lemma="vždycky" src="auto" recommended="1">Db--------A----</AM>
+<AM lemma="vždycky" src="manual" selected="1">Dg-------1A----</AM>
+</tag>
 </m>
 <m id="m-d1t1260-23">
 <w.rf>w#w-d1t1260-23</w.rf>
@@ -436,7 +439,7 @@
 <tag>
 <AM lemma="vlastnit_:T_^(někdo_má_něco_ve_vlastnictví)" src="auto">VeYS------A----</AM>
 <AM lemma="vlastně-2_^(totiž)" src="auto" recommended="1">Db-------------</AM>
-<AM lemma="vlastně-3" src="auto">TT-------------</AM>
+<AM lemma="vlastně-3" src="auto" selected="1">TT-------------</AM>
 <AM lemma="vlastně_^(příslušný_k_něčemu)_(*1í)" src="auto">Dg-------1A----</AM>
 </tag>
 </m>
@@ -471,7 +474,7 @@
 <form>klíč</form>
 <tag>
 <AM lemma="klíč" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="klíč" src="auto">NNIS4-----A----</AM>
+<AM lemma="klíč" src="auto" selected="1">NNIS4-----A----</AM>
 </tag>
 </m>
 <m id="m-2532-2643">
@@ -632,7 +635,7 @@
 <tag>
 <AM lemma="stop-1_^(zastavení,_i_stopování)" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="stop-1_^(zastavení,_i_stopování)" src="auto">NNIS4-----A----</AM>
-<AM lemma="stop-2" src="auto">II-------------</AM>
+<AM lemma="stop-2" src="auto" selected="1">II-------------</AM>
 <AM lemma="stop-3" src="auto">A2--------A----</AM>
 <AM lemma="stop-77" src="auto">F%-------------</AM>
 <AM lemma="stopa_^(míra;_otisk_s.;_s._po_něčem_[malé_množství])" src="auto">NNFP2-----A----</AM>

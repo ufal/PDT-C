@@ -13,7 +13,7 @@
 <tag>
 <AM lemma="fajn-1" src="auto">AAXXX----1A----</AM>
 <AM lemma="fajn-2" src="auto">Db-------------</AM>
-<AM lemma="fajn-3" src="auto" recommended="1">II-------------</AM>
+<AM lemma="fajn-3" src="auto" recommended="1" selected="1">II-------------</AM>
 </tag>
 </m>
 <m id="m-d-id91092">
@@ -256,7 +256,10 @@
 <m id="m-d1t973-4">
 <w.rf>w#w-d1t973-4</w.rf>
 <form>Trostinci</form>
-<tag lemma="Trostinci" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Trostinci" src="auto">X@-------------</AM>
+<AM lemma="Trostinec_;G" src="manual" selected="1">NNIS6-----A----</AM>
+</tag>
 </m>
 <m id="m-d1t973-5">
 <w.rf>w#w-d1t973-5</w.rf>

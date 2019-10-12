@@ -132,6 +132,7 @@
 <AM lemma="zástava-2_^(věci_jako_záruka)" src="auto" recommended="1">NNFS7-----A----</AM>
 <AM lemma="zástava-3_^(dopravy;_dechu)" src="auto">NNFS7-----A----</AM>
 <AM lemma="zástava-4_^(zástavba)" src="auto">NNFS7-----A----</AM>
+<AM lemma="zástava_^(prapor_záruka_dechu_zástavba)" src="manual" selected="1">NNFS7-----A----</AM>
 </tag>
 </m>
 <m id="m-d-id160322-punct">
@@ -279,7 +280,7 @@
 <AM lemma="činný" src="auto">AAMP1----1A---6</AM>
 <AM lemma="činný" src="auto">AAMP4----1A---6</AM>
 <AM lemma="činný" src="auto">AAMP5----1A---6</AM>
-<AM lemma="činný" src="auto">AAMS1----1A----</AM>
+<AM lemma="činný" src="auto" selected="1">AAMS1----1A----</AM>
 <AM lemma="činný" src="auto">AAMS5----1A----</AM>
 <AM lemma="činný" src="auto">AANP1----1A---6</AM>
 <AM lemma="činný" src="auto">AANP4----1A---6</AM>
@@ -318,7 +319,7 @@
 <w.rf>w#w-d1t2411-4</w.rf>
 <form>čas</form>
 <tag>
-<AM lemma="čas" src="auto">NNIS1-----A----</AM>
+<AM lemma="čas" src="auto" selected="1">NNIS1-----A----</AM>
 <AM lemma="čas" src="auto" recommended="1">NNIS4-----A----</AM>
 <AM lemma="časit" src="auto">Vi-S---2--A----</AM>
 <AM lemma="časit" src="auto">Vi-S---3--A---4</AM>

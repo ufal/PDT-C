@@ -100,7 +100,7 @@
 <w.rf>w#w-id66357-4</w.rf>
 <form>Mě</form>
 <tag>
-<AM lemma="já" src="auto">PH-S2--1-------</AM>
+<AM lemma="já" src="auto" selected="1">PH-S2--1-------</AM>
 <AM lemma="já" src="auto" recommended="1">PH-S4--1-------</AM>
 </tag>
 </m>
@@ -267,14 +267,17 @@
 <m id="m-id66391-3">
 <w.rf>w#w-id66391-3</w.rf>
 <form>nimi</form>
-<tag lemma="on-1" src="auto" recommended="1">P5XP7--3-------</tag>
+<tag>
+<AM lemma="on-1" src="auto" recommended="1">P5XP7--3-------</AM>
+<AM lemma="on-1_^(**já)" src="manual" selected="1">P5XP7--3-------</AM>
+</tag>
 </m>
 <m id="m-id66391-4">
 <w.rf>w#w-id66391-4</w.rf>
 <form>nějaké</form>
 <tag>
 <AM lemma="nějaký" src="auto" recommended="1">PZFP1----------</AM>
-<AM lemma="nějaký" src="auto">PZFP4----------</AM>
+<AM lemma="nějaký" src="auto" selected="1">PZFP4----------</AM>
 <AM lemma="nějaký" src="auto">PZFP5----------</AM>
 <AM lemma="nějaký" src="auto">PZFS2----------</AM>
 <AM lemma="nějaký" src="auto">PZFS3----------</AM>
@@ -292,7 +295,7 @@
 <form>akce</form>
 <tag>
 <AM lemma="akce" src="auto" recommended="1">NNFP1-----A----</AM>
-<AM lemma="akce" src="auto">NNFP4-----A----</AM>
+<AM lemma="akce" src="auto" selected="1">NNFP4-----A----</AM>
 <AM lemma="akce" src="auto">NNFP5-----A----</AM>
 <AM lemma="akce" src="auto">NNFS1-----A----</AM>
 <AM lemma="akce" src="auto">NNFS2-----A----</AM>
@@ -362,7 +365,7 @@
 <form>tak</form>
 <tag>
 <AM lemma="taka-1_;L" src="auto">NNFP2-----A----</AM>
-<AM lemma="tak-1" src="auto">TT-------------</AM>
+<AM lemma="tak-1" src="auto" selected="1">TT-------------</AM>
 <AM lemma="tak-2" src="auto">J^-------------</AM>
 <AM lemma="tak-3" src="auto" recommended="1">Db-------------</AM>
 </tag>
@@ -432,6 +435,7 @@
 <AM lemma="přeložení-3_^(z_jazyka)_(*5it-3)" src="auto" recommended="1">NNNS4-----A----</AM>
 <AM lemma="přeložení-3_^(z_jazyka)_(*5it-3)" src="auto">NNNS5-----A----</AM>
 <AM lemma="přeložení-3_^(z_jazyka)_(*5it-3)" src="auto">NNNS6-----A----</AM>
+<AM lemma="přeložení_^(*3it)" src="manual" selected="1">NNNS4-----A----</AM>
 </tag>
 </m>
 <m id="m-id66434-1">

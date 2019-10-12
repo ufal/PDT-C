@@ -431,7 +431,7 @@
 <w.rf>w#w-d1t2747-4</w.rf>
 <form>Dvojjazyčné</form>
 <tag>
-<AM lemma="dvojjazyčný" src="auto">AAFP1----1A----</AM>
+<AM lemma="dvojjazyčný" src="auto" selected="1">AAFP1----1A----</AM>
 <AM lemma="dvojjazyčný" src="auto">AAFP4----1A----</AM>
 <AM lemma="dvojjazyčný" src="auto">AAFP5----1A----</AM>
 <AM lemma="dvojjazyčný" src="auto">AAFS2----1A----</AM>
@@ -608,7 +608,7 @@
 <w.rf>w#w-d1t2759-1</w.rf>
 <form>Jezdí</form>
 <tag>
-<AM lemma="jezdit_:T" src="auto">VB-P---3P-AA---</AM>
+<AM lemma="jezdit_:T" src="auto" selected="1">VB-P---3P-AA---</AM>
 <AM lemma="jezdit_:T" src="auto" recommended="1">VB-S---3P-AA---</AM>
 </tag>
 </m>
@@ -1158,6 +1158,11 @@
 <w.rf>w#w-d1t2802-3</w.rf>
 <form>kulutuře</form>
 <tag lemma="kulutuře" src="auto">X@-------------</tag>
+<comment>
+<LM type="New Form">
+<text>kultuře</text>
+</LM>
+</comment>
 </m>
 <m id="m-d-id140640">
 <w.rf>w#w-d-id140640</w.rf>
@@ -1556,7 +1561,7 @@
 <form>tak</form>
 <tag>
 <AM lemma="taka-1_;L" src="auto">NNFP2-----A----</AM>
-<AM lemma="tak-1" src="auto">TT-------------</AM>
+<AM lemma="tak-1" src="auto" selected="1">TT-------------</AM>
 <AM lemma="tak-2" src="auto">J^-------------</AM>
 <AM lemma="tak-3" src="auto" recommended="1">Db-------------</AM>
 </tag>
@@ -1679,7 +1684,7 @@
 <form>i</form>
 <tag>
 <AM lemma="i-1" src="auto" recommended="1">J^-------------</AM>
-<AM lemma="i-2" src="auto">TT-------------</AM>
+<AM lemma="i-2" src="auto" selected="1">TT-------------</AM>
 <AM lemma="i-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
 <AM lemma="i-88_:B" src="auto">NNXXX-----A----</AM>
 </tag>
@@ -2040,6 +2045,11 @@
 <w.rf>w#w-d1t2874-3</w.rf>
 <form>Zž</form>
 <tag lemma="Zž" src="auto">X@-------------</tag>
+<comment>
+<LM type="New Form">
+<text>Už</text>
+</LM>
+</comment>
 </m>
 <m id="m-d1t2874-4">
 <w.rf>w#w-d1t2874-4</w.rf>

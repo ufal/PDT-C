@@ -21,7 +21,7 @@
 <w.rf>w#w-d1t2232-2</w.rf>
 <form>shledanou</form>
 <tag>
-<AM lemma="shledaná_^(okamžik_shledání;_na_shledanou!)" src="auto" recommended="1">NNFS4-----A----</AM>
+<AM lemma="shledaná_^(okamžik_shledání;_na_shledanou!)" src="auto" recommended="1" selected="1">NNFS4-----A----</AM>
 <AM lemma="shledaná_^(okamžik_shledání;_na_shledanou!)" src="auto">NNFS7-----A----</AM>
 <AM lemma="shledaný_^(*2t)" src="auto">AAFS4----1A----</AM>
 <AM lemma="shledaný_^(*2t)" src="auto">AAFS7----1A----</AM>

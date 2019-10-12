@@ -37,7 +37,10 @@
 <m id="m-d1t1409-17">
 <w.rf>w#w-d1t1409-17</w.rf>
 <form>stalo</form>
-<tag lemma="stát-2_^(něco_se_přihodilo)" src="auto" recommended="1">VpNS---XR-AA---</tag>
+<tag>
+<AM lemma="stát-2_^(něco_se_přihodilo)" src="auto" recommended="1">VpNS---XR-AA---</AM>
+<AM lemma="stát-2_^(stanu_staneš)" src="manual" selected="1">VpNS---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-3497-3505">
 <w.rf>w#w-3497-3505</w.rf>
@@ -59,7 +62,7 @@
 <tag>
 <AM lemma="minus-1_^(znaménko_mínus;_vyjádření_záporné_vlastnosti)" src="auto">NNIS1-----A----</AM>
 <AM lemma="minus-1_^(znaménko_mínus;_vyjádření_záporné_vlastnosti)" src="auto">NNIS4-----A----</AM>
-<AM lemma="minus-2_^(mat._operace;_9_mínus_3,_též_mínus_dva_stupně)" src="auto">J*------------1</AM>
+<AM lemma="minus-2_^(mat._operace;_9_mínus_3,_též_mínus_dva_stupně)" src="auto" selected="1">J*------------1</AM>
 <AM lemma="minus-3" src="auto" recommended="1">Db-------------</AM>
 </tag>
 </m>
@@ -83,6 +86,11 @@
 <w.rf>w#w-d1t1411-6</w.rf>
 <form>11 000 000</form>
 <tag lemma="11 000 000" src="auto">X@-------------</tag>
+<comment>
+<LM type="New Form">
+<text>11000000</text>
+</LM>
+</comment>
 </m>
 <m id="m-d1t1411-8">
 <w.rf>w#w-d1t1411-8</w.rf>

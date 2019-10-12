@@ -93,7 +93,10 @@
 <m id="m-d1t759-2">
 <w.rf>w#w-d1t759-2</w.rf>
 <form>vám</form>
-<tag lemma="ty" src="auto" recommended="1">PP-P3--2-------</tag>
+<tag>
+<AM lemma="ty" src="auto" recommended="1">PP-P3--2-------</AM>
+<AM lemma="ty_^(**já)" src="manual" selected="1">PP-P3--2-------</AM>
+</tag>
 </m>
 <m id="m-d1t759-3">
 <w.rf>w#w-d1t759-3</w.rf>
@@ -522,7 +525,10 @@
 <m id="m-d1t808-9">
 <w.rf>w#w-d1t808-9</w.rf>
 <form>Šelera</form>
-<tag lemma="Šelera" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Šelera" src="auto">X@-------------</AM>
+<AM lemma="Šeler_;S" src="manual" selected="1">NNMS4-----A----</AM>
+</tag>
 </m>
 <m id="m-d-id75984">
 <w.rf>w#w-d-id75984</w.rf>
@@ -590,6 +596,7 @@
 <AM lemma="ho" src="auto">II-------------</AM>
 <AM lemma="on-1" src="auto">PHZS2--3-------</AM>
 <AM lemma="on-1" src="auto" recommended="1">PHZS4--3-------</AM>
+<AM lemma="on-1_^(**já)" src="manual" selected="1">PHZS4--3-------</AM>
 </tag>
 </m>
 <m id="m-d1t812-6">
@@ -799,6 +806,11 @@
 <AM lemma="Bak_;G" src="auto">NNIS4-----A----</AM>
 <AM lemma="Bako_;G" src="auto">NNNP2-----A----</AM>
 </tag>
+<comment>
+<LM type="New Form">
+<text>Pak</text>
+</LM>
+</comment>
 </m>
 <m id="m-d1t852-1">
 <w.rf>w#w-d1t852-1</w.rf>
@@ -1145,6 +1157,7 @@
 <AM lemma="ty" src="auto">PP-P2--2-------</AM>
 <AM lemma="ty" src="auto" recommended="1">PP-P4--2-------</AM>
 <AM lemma="ty" src="auto">PP-P6--2-------</AM>
+<AM lemma="ty_^(**já)" src="manual" selected="1">PP-P4--2-------</AM>
 </tag>
 </m>
 <m id="m-d1e892-x2-5996">
@@ -1395,6 +1408,7 @@
 <tag>
 <AM lemma="stát-3_^(někdo/něco_stojí,_např._na_nohou)" src="auto" recommended="1">VpMP---XR-AA---</AM>
 <AM lemma="stát-5_^(sníh)" src="auto">VpMP---XR-AA---</AM>
+<AM lemma="stát-3_^(stojím_stojíš)" src="manual" selected="1">VpMP---XR-AA---</AM>
 </tag>
 </m>
 <m id="m-d1t909-6">
@@ -1903,7 +1917,10 @@
 <m id="m-d1t927-14">
 <w.rf>w#w-d1t927-14</w.rf>
 <form>dost</form>
-<tag lemma="dost" src="auto" recommended="1">Db-------------</tag>
+<tag>
+<AM lemma="dost" src="auto" recommended="1">Db-------------</AM>
+<AM lemma="dost" src="manual" selected="1">Dg-------1A----</AM>
+</tag>
 </m>
 <m id="m-d1t927-15">
 <w.rf>w#w-d1t927-15</w.rf>
@@ -2364,7 +2381,7 @@
 <w.rf>w#w-d1t957-2</w.rf>
 <form>děti</form>
 <tag>
-<AM lemma="dítě" src="auto">NNFP1-----A----</AM>
+<AM lemma="dítě" src="auto" selected="1">NNFP1-----A----</AM>
 <AM lemma="dítě" src="auto" recommended="1">NNFP4-----A----</AM>
 <AM lemma="dítě" src="auto">NNFP5-----A----</AM>
 </tag>
@@ -2646,7 +2663,7 @@
 <form>ani</form>
 <tag>
 <AM lemma="ani-1" src="auto" recommended="1">J^-------------</AM>
-<AM lemma="ani-2" src="auto">TT-------------</AM>
+<AM lemma="ani-2" src="auto" selected="1">TT-------------</AM>
 </tag>
 </m>
 <m id="m-d1t972-4">
@@ -3124,6 +3141,7 @@
 <tag>
 <AM lemma="on-1" src="auto" recommended="1">PPYS1--3-------</AM>
 <AM lemma="on-77" src="auto">F%-------------</AM>
+<AM lemma="on-1_^(**já)" src="manual" selected="1">PPYS1--3-------</AM>
 </tag>
 </m>
 <m id="m-d1t1002-2">
@@ -3258,7 +3276,10 @@
 <m id="m-d1t1008-3">
 <w.rf>w#w-d1t1008-3</w.rf>
 <form>Glázr</form>
-<tag lemma="Glázr" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Glázr" src="auto">X@-------------</AM>
+<AM lemma="Glázr_;S" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-d-id83364">
 <w.rf>w#w-d-id83364</w.rf>
@@ -3375,7 +3396,10 @@
 <m id="m-d1t1016-3">
 <w.rf>w#w-d1t1016-3</w.rf>
 <form>dobře</form>
-<tag lemma="dobře" src="auto" recommended="1">Dg-------1A----</tag>
+<tag>
+<AM lemma="dobře" src="auto" recommended="1">Dg-------1A----</AM>
+<AM lemma="dobře_^(*2rý)" src="manual" selected="1">Dg-------1A----</AM>
+</tag>
 </m>
 <m id="m-d1e1011-x2-2398">
 <w.rf>w#w-d1e1011-x2-2398</w.rf>
@@ -3583,7 +3607,10 @@
 <m id="m-d1e1038-x3-8767">
 <w.rf>w#w-d1e1038-x3-8767</w.rf>
 <form>ji</form>
-<tag lemma="on-1" src="auto" recommended="1">PPFS4--3-------</tag>
+<tag>
+<AM lemma="on-1" src="auto" recommended="1">PPFS4--3-------</AM>
+<AM lemma="on-1_^(**já)" src="manual" selected="1">PPFS4--3-------</AM>
+</tag>
 </m>
 <m id="m-d1t1047-11">
 <w.rf>w#w-d1t1047-11</w.rf>

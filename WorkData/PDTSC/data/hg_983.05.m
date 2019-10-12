@@ -53,7 +53,7 @@
 <tag>
 <AM lemma="taka-1_;L" src="auto">NNFP2-----A----</AM>
 <AM lemma="tak-1" src="auto">TT-------------</AM>
-<AM lemma="tak-2" src="auto">J^-------------</AM>
+<AM lemma="tak-2" src="auto" selected="1">J^-------------</AM>
 <AM lemma="tak-3" src="auto" recommended="1">Db-------------</AM>
 </tag>
 </m>
@@ -85,7 +85,10 @@
 <m id="m-d1t2107-9">
 <w.rf>w#w-d1t2107-9</w.rf>
 <form>Ivce</form>
-<tag lemma="Ivce" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Ivce" src="auto">X@-------------</AM>
+<AM lemma="Ivka_;K" src="manual" selected="1">NNFS6-----A----</AM>
+</tag>
 </m>
 <m id="m-d-id122109">
 <w.rf>w#w-d-id122109</w.rf>

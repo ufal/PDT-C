@@ -522,7 +522,7 @@
 <AM lemma="přísný" src="auto">AAMP1----1A---6</AM>
 <AM lemma="přísný" src="auto">AAMP4----1A---6</AM>
 <AM lemma="přísný" src="auto">AAMP5----1A---6</AM>
-<AM lemma="přísný" src="auto">AAMS1----1A----</AM>
+<AM lemma="přísný" src="auto" selected="1">AAMS1----1A----</AM>
 <AM lemma="přísný" src="auto">AAMS5----1A----</AM>
 <AM lemma="přísný" src="auto">AANP1----1A---6</AM>
 <AM lemma="přísný" src="auto">AANP4----1A---6</AM>
@@ -796,7 +796,7 @@
 <tag>
 <AM lemma="To-77" src="auto">F%-------------</AM>
 <AM lemma="ten" src="auto" recommended="1">PDNS1----------</AM>
-<AM lemma="ten" src="auto">PDNS4----------</AM>
+<AM lemma="ten" src="auto" selected="1">PDNS4----------</AM>
 <AM lemma="to-9_^(být_s_to)" src="auto">TT-------------</AM>
 <AM lemma="to-77" src="auto">F%-------------</AM>
 </tag>
@@ -1146,7 +1146,7 @@
 <AM lemma="vděčný" src="auto">AAMP1----1A---6</AM>
 <AM lemma="vděčný" src="auto">AAMP4----1A---6</AM>
 <AM lemma="vděčný" src="auto">AAMP5----1A---6</AM>
-<AM lemma="vděčný" src="auto">AAMS1----1A----</AM>
+<AM lemma="vděčný" src="auto" selected="1">AAMS1----1A----</AM>
 <AM lemma="vděčný" src="auto">AAMS5----1A----</AM>
 <AM lemma="vděčný" src="auto">AANP1----1A---6</AM>
 <AM lemma="vděčný" src="auto">AANP4----1A---6</AM>
@@ -1710,6 +1710,7 @@
 <tag>
 <AM lemma="Stoda_;G" src="auto">NNFS3-----A----</AM>
 <AM lemma="Stoda_;G" src="auto" recommended="1">NNFS6-----A----</AM>
+<AM lemma="Stod_;G" src="manual" selected="1">NNIS6-----A---1</AM>
 </tag>
 </m>
 <m id="m-603-604">
@@ -1736,6 +1737,7 @@
 <tag>
 <AM lemma="stříbro" src="auto" recommended="1">NNNS6-----A---1</AM>
 <AM lemma="stříbřit_:T" src="auto">VeYS------A----</AM>
+<AM lemma="Stříbro_;G" src="manual" selected="1">NNNS6-----A---1</AM>
 </tag>
 </m>
 <m id="m-d1t4849-1">
@@ -2737,6 +2739,7 @@
 <AM lemma="moc-1_^(nad_někým;_politická,_vojenská;_plná,...)" src="auto">NNFS4-----A----</AM>
 <AM lemma="moc-2_^(mnoho_něčeho_[se_subst._v_gen.])" src="auto">Ca--X----------</AM>
 <AM lemma="moc-3_^(velmi,_ve_spojení_s_adj.,_př._moc_hezká)" src="auto" recommended="1">Db-------------</AM>
+<AM lemma="moc-3_^(moc_hezká,_moc_peněz)" src="manual" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m-d1t4932-2">

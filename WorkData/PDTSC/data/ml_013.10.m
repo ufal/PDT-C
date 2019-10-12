@@ -10,7 +10,10 @@
 <m id="m-d1t3822-1">
 <w.rf>w#w-d1t3822-1</w.rf>
 <form>Dobře</form>
-<tag lemma="dobře" src="auto" recommended="1">Dg-------1A----</tag>
+<tag>
+<AM lemma="dobře" src="auto" recommended="1">Dg-------1A----</AM>
+<AM lemma="dobře-2" src="manual" selected="1">TT-------------</AM>
+</tag>
 </m>
 <m id="m-d1e3819-x2-1313">
 <w.rf>w#w-d1e3819-x2-1313</w.rf>
@@ -28,6 +31,7 @@
 <AM lemma="dík-1" src="auto">NNIP5-----A----</AM>
 <AM lemma="dík-1" src="auto">NNIP7-----A----</AM>
 <AM lemma="díky" src="auto">RR--3----------</AM>
+<AM lemma="díky-2" src="manual" selected="1">TT-------------</AM>
 </tag>
 </m>
 <m id="m-d-m-d1e3819-x2-punct-punct">

@@ -61,7 +61,10 @@
 <m id="m-d1t1635-8">
 <w.rf>w#w-d1t1635-8</w.rf>
 <form>zemřela</form>
-<tag lemma="zemřít" src="auto" recommended="1">VpQW---XR-AA---</tag>
+<tag>
+<AM lemma="zemřít" src="auto" recommended="1">VpQW---XR-AA---</AM>
+<AM lemma="zemřít_:W" src="manual" selected="1">VpQW---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-d-m-d1e1587-x5-punct-punct">
 <w.rf>w#w-d-m-d1e1587-x5-punct-punct</w.rf>

@@ -37,7 +37,7 @@
 <tag>
 <AM lemma="dobrý" src="auto">AAIS2----1A----</AM>
 <AM lemma="dobrý" src="auto" recommended="1">AAMS2----1A----</AM>
-<AM lemma="dobrý" src="auto">AAMS4----1A----</AM>
+<AM lemma="dobrý" src="auto" selected="1">AAMS4----1A----</AM>
 <AM lemma="dobrý" src="auto">AANS2----1A----</AM>
 </tag>
 </m>
@@ -47,7 +47,7 @@
 <tag>
 <AM lemma="malíř" src="auto">NNMP4-----A----</AM>
 <AM lemma="malíř" src="auto" recommended="1">NNMS2-----A----</AM>
-<AM lemma="malíř" src="auto">NNMS4-----A----</AM>
+<AM lemma="malíř" src="auto" selected="1">NNMS4-----A----</AM>
 </tag>
 </m>
 <m id="m-d1t2545-1">
@@ -71,7 +71,7 @@
 <tag>
 <AM lemma="dobrý" src="auto">AAIS2----1A----</AM>
 <AM lemma="dobrý" src="auto" recommended="1">AAMS2----1A----</AM>
-<AM lemma="dobrý" src="auto">AAMS4----1A----</AM>
+<AM lemma="dobrý" src="auto" selected="1">AAMS4----1A----</AM>
 <AM lemma="dobrý" src="auto">AANS2----1A----</AM>
 </tag>
 </m>
@@ -80,7 +80,7 @@
 <form>člověka</form>
 <tag>
 <AM lemma="člověk" src="auto" recommended="1">NNMS2-----A----</AM>
-<AM lemma="člověk" src="auto">NNMS4-----A----</AM>
+<AM lemma="člověk" src="auto" selected="1">NNMS4-----A----</AM>
 </tag>
 </m>
 <m id="m-d-id132618-punct">
@@ -227,7 +227,7 @@
 <w.rf>w#w-d1t2560-4</w.rf>
 <form>žádného</form>
 <tag>
-<AM lemma="žádný" src="auto">PWMS4----------</AM>
+<AM lemma="žádný" src="auto" selected="1">PWMS4----------</AM>
 <AM lemma="žádný" src="auto" recommended="1">PWZS2----------</AM>
 </tag>
 </m>
@@ -237,7 +237,7 @@
 <tag>
 <AM lemma="chytrý" src="auto" recommended="1">AAIS2----1A----</AM>
 <AM lemma="chytrý" src="auto">AAMS2----1A----</AM>
-<AM lemma="chytrý" src="auto">AAMS4----1A----</AM>
+<AM lemma="chytrý" src="auto" selected="1">AAMS4----1A----</AM>
 <AM lemma="chytrý" src="auto">AANS2----1A----</AM>
 </tag>
 </m>

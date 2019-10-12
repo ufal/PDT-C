@@ -177,6 +177,11 @@
 <AM lemma="on-1" src="auto" recommended="1">PPMP1--3-------</AM>
 <AM lemma="onen" src="auto">PDMP1----------</AM>
 </tag>
+<comment>
+<LM type="New Form">
+<text>ony</text>
+</LM>
+</comment>
 </m>
 <m id="m-id63431-18">
 <w.rf>w#w-id63431-18</w.rf>
@@ -191,6 +196,11 @@
 <w.rf>w#w-id63431-19</w.rf>
 <form>chodili</form>
 <tag lemma="chodit_:T" src="auto" recommended="1">VpMP---XR-AA---</tag>
+<comment>
+<LM type="New Form">
+<text>chodily</text>
+</LM>
+</comment>
 </m>
 <m id="m-id63431-20">
 <w.rf>w#w-id63431-20</w.rf>
@@ -543,7 +553,7 @@
 <w.rf>w#w-id63500-2</w.rf>
 <form>fajn</form>
 <tag>
-<AM lemma="fajn-1" src="auto">AAXXX----1A----</AM>
+<AM lemma="fajn-1" src="auto" selected="1">AAXXX----1A----</AM>
 <AM lemma="fajn-2" src="auto" recommended="1">Db-------------</AM>
 <AM lemma="fajn-3" src="auto">II-------------</AM>
 </tag>
