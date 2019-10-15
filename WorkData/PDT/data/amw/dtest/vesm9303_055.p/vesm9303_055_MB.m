@@ -3,7 +3,7 @@
 <head>
 <schema href="mdata_36_schema.xml" />
 <references>
-<reffile id="w" name="wdata" href="vesm9303_055.w" />
+<reffile id="w" name="wdata" href="../vesm9303_055.w" />
 </references>
 </head>
 <meta>

@@ -3,7 +3,7 @@
 <head>
 <schema href="mdata_36_schema.xml" />
 <references>
-<reffile id="w" name="wdata" href="cmpr9406_009.w" />
+<reffile id="w" name="wdata" href="../cmpr9406_009.w" />
 </references>
 </head>
 <meta>

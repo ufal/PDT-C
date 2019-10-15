@@ -3,7 +3,7 @@
 <head>
 <schema href="mdata_36_schema.xml" />
 <references>
-<reffile id="w" name="wdata" href="ln94208_148.w" />
+<reffile id="w" name="wdata" href="../ln94208_148.w" />
 </references>
 </head>
 <meta>
