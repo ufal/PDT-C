@@ -1480,7 +1480,7 @@
 <form>Hun</form>
 <tag>
 <AM lemma="Hun_;E" src="auto">NNMS1-----A----</AM>
-<AM lemma="Hun-2_;S " src="manual">NNMS1-----A----</AM>
+<AM lemma="Hun-2_;S" src="manual">NNMS1-----A----</AM>
 <AM lemma="Hun-2_;S" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>

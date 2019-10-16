@@ -907,7 +907,7 @@
 <form>VD</form>
 <tag>
 <AM lemma="VD-1_:B_;K_^(výrobní_družstvo)" src="auto">NNNXX-----A---8</AM>
-<AM lemma=" VD-2_:B_^(vodní_dílo)" src="manual">NNNXX-----A---8</AM>
+<AM lemma="VD-2_:B_^(vodní_dílo)" src="manual">NNNXX-----A---8</AM>
 <AM lemma="VD-2_:B_^(vodní_dílo)" src="manual">NNNXX-----A---8</AM>
 <AM lemma="VD-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
 </tag>
@@ -2446,7 +2446,7 @@
 <form>VD</form>
 <tag>
 <AM lemma="VD-1_:B_;K_^(výrobní_družstvo)" src="auto">NNNXX-----A---8</AM>
-<AM lemma=" VD-2_:B_^(vodní_dílo)" src="manual">NNNXX-----A---8</AM>
+<AM lemma="VD-2_:B_^(vodní_dílo)" src="manual">NNNXX-----A---8</AM>
 <AM lemma="VD-2_:B_^(vodní_dílo)" src="manual">NNNXX-----A---8</AM>
 <AM lemma="VD-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
 </tag>
@@ -3570,7 +3570,7 @@
 <form>VD</form>
 <tag>
 <AM lemma="VD-1_:B_;K_^(výrobní_družstvo)" src="auto">NNNXX-----A---8</AM>
-<AM lemma=" VD-2_:B_^(vodní_dílo)" src="manual">NNNXX-----A---8</AM>
+<AM lemma="VD-2_:B_^(vodní_dílo)" src="manual">NNNXX-----A---8</AM>
 <AM lemma="VD-2_:B_^(vodní_dílo)" src="manual">NNNXX-----A---8</AM>
 <AM lemma="VD-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
 </tag>
@@ -3607,8 +3607,8 @@
 <form>VD</form>
 <tag>
 <AM lemma="VD-1_:B_;K_^(výrobní_družstvo)" src="auto">NNNXX-----A---8</AM>
-<AM lemma=" VD-2_:B_^(vodní_dílo)VD-1_:B_;K_^(výrobní_družstvo)" src="manual">NNNXX-----A---8</AM>
-<AM lemma=" VD-2_:B_^(vodní_dílo)" src="manual">NNNXX-----A---8</AM>
+<AM lemma="VD-2_:B_^(vodní_dílo)VD-1_:B_;K_^(výrobní_družstvo)" src="manual">NNNXX-----A---8</AM>
+<AM lemma="VD-2_:B_^(vodní_dílo)" src="manual">NNNXX-----A---8</AM>
 <AM lemma="VD-2_:B_^(vodní_dílo)" src="manual">NNNXX-----A---8</AM>
 <AM lemma="VD-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
 </tag>
@@ -7372,7 +7372,7 @@
 <form>VD</form>
 <tag>
 <AM lemma="VD-1_:B_;K_^(výrobní_družstvo)" src="auto">NNNXX-----A---8</AM>
-<AM lemma=" VD-2_:B_^(vodní_dílo)" src="manual">NNNXX-----A---8</AM>
+<AM lemma="VD-2_:B_^(vodní_dílo)" src="manual">NNNXX-----A---8</AM>
 <AM lemma="VD-2_:B_^(vodní_dílo)" src="manual">NNNXX-----A---8</AM>
 <AM lemma="VD-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
 </tag>

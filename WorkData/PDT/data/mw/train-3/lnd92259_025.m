@@ -111,7 +111,7 @@
 <form>dr</form>
 <tag>
 <AM lemma="doktorka_:B_^(doktorka,_akad._titul)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="dr_:B_^(doktor) " src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="dr_:B_^(doktor)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92259-025-p2s1w10">

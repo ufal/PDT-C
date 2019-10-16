@@ -77,7 +77,7 @@
 <form>S</form>
 <tag>
 <AM lemma="s-1" src="orig">RR--7----------</AM>
-<AM lemma="	S-33_^(označení_pomocí_písmene)" src="manual">NNXXX-----A----</AM>
+<AM lemma="S-33_^(označení_pomocí_písmene)" src="manual">NNXXX-----A----</AM>
 <AM lemma="S-33_^(označení_pomocí_písmene)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
@@ -2246,7 +2246,7 @@
 <form>radia</form>
 <tag>
 <AM lemma="rádium" src="orig">NNNS2-----A----</AM>
-<AM lemma="radio_,s_^(^DD**rádio) " src="manual" selected="1">NNNS2-----A----</AM>
+<AM lemma="radio_,s_^(^DD**rádio)" src="manual" selected="1">NNNS2-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930708-069-p47s1w5">
@@ -2881,7 +2881,7 @@
 <form>radia</form>
 <tag>
 <AM lemma="rádium" src="orig">NNNS2-----A----</AM>
-<AM lemma="radio_,s_^(^DD**rádio) " src="manual" selected="1">NNNS2-----A----</AM>
+<AM lemma="radio_,s_^(^DD**rádio)" src="manual" selected="1">NNNS2-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930708-069-p62s1w5">

@@ -2799,7 +2799,7 @@
 <form>amatérismu</form>
 <tag>
 <AM lemma="amatérismus" src="orig">NNIS2-----A----</AM>
-<AM lemma="amatérismus_,s_^(^DD**amatérizmus) " src="manual" selected="1">NNIS2-----A----</AM>
+<AM lemma="amatérismus_,s_^(^DD**amatérizmus)" src="manual" selected="1">NNIS2-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd91303-091-p7s2w14">

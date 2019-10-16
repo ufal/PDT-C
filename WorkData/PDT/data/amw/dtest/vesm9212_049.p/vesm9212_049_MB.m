@@ -10973,7 +10973,7 @@
 <form>jasno</form>
 <tag>
 <AM lemma="jasno-1" src="auto">NNNS1-----A----</AM>
-<AM lemma=" jasno-2_^(počasí:_bylo_jasno)" src="manual">Db-------------</AM>
+<AM lemma="jasno-2_^(počasí:_bylo_jasno)" src="manual">Db-------------</AM>
 <AM lemma="jasno-2_^(počasí:_bylo_jasno)" src="manual" selected="1">Dg-------1A----</AM>
 </tag>
 </m>

@@ -1004,7 +1004,7 @@
 <AM lemma="terorizmus" src="auto">NNIS2-----A----</AM>
 <AM lemma="terorizmus" src="auto" recommended="1">NNIS3-----A----</AM>
 <AM lemma="terorizmus" src="auto">NNIS6-----A----</AM>
-<AM lemma="terorismus_,s_^(^DD**terorizmus) " src="manual" selected="1">NNIS3-----A----</AM>
+<AM lemma="terorismus_,s_^(^DD**terorizmus)" src="manual" selected="1">NNIS3-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920923-137-p3s2w22">

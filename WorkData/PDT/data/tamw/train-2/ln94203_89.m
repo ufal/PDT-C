@@ -1541,7 +1541,7 @@
 <form>Soul</form>
 <tag>
 <AM lemma="Soul_;G" src="orig">NNIS1-----A----</AM>
-<AM lemma="Soul_;K_,t  " src="manual">NNNXX-----A----</AM>
+<AM lemma="Soul_;K_,t" src="manual">NNNXX-----A----</AM>
 <AM lemma="Soul_;K_,t" src="manual">NNXXX-----A----</AM>
 <AM lemma="soul_,t" src="manual">NNXXX-----A----</AM>
 <AM lemma="Soul-77" src="manual" selected="1">F%-------------</AM>
@@ -1939,7 +1939,7 @@
 <form>Asylum</form>
 <tag>
 <AM lemma="azyl_,x" src="orig">NNIP3-----A---6</AM>
-<AM lemma="Soul_;K_,t  " src="manual">NNXXX-----A----</AM>
+<AM lemma="Soul_;K_,t" src="manual">NNXXX-----A----</AM>
 <AM lemma="Asylum_;K_,t" src="manual">NNXXX-----A----</AM>
 <AM lemma="Asylum_;K_,t" src="manual">NNXXX-----A----</AM>
 <AM lemma="asylum_,t" src="manual">NNXXX-----A----</AM>

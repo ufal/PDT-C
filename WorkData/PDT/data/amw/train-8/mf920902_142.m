@@ -2618,7 +2618,7 @@
 <AM lemma="dobro-2_^(hudební_nástroj)" src="auto">NNNP4-----A----</AM>
 <AM lemma="dobro-2_^(hudební_nástroj)" src="auto">NNNP5-----A----</AM>
 <AM lemma="dobro-2_^(hudební_nástroj)" src="auto">NNNS2-----A----</AM>
-<AM lemma="	dobro_^(prospěch;;hudební_nástroj)" src="manual">NNNS2-----A----</AM>
+<AM lemma="dobro_^(prospěch;;hudební_nástroj)" src="manual">NNNS2-----A----</AM>
 <AM lemma="dobro_^(prospěch;;hudební_nástroj)" src="manual" selected="1">NNNS2-----A----</AM>
 </tag>
 </m>

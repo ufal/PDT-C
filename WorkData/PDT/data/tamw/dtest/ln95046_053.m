@@ -1898,7 +1898,7 @@
 <form>medailon</form>
 <tag>
 <AM lemma="medailón_,x" src="auto">NNIS4-----A----</AM>
-<AM lemma="medailon_,s_^(^DD**medailón) " src="manual" selected="1">NNIS4-----A----</AM>
+<AM lemma="medailon_,s_^(^DD**medailón)" src="manual" selected="1">NNIS4-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95046-053-p3s3w12">

@@ -9362,7 +9362,7 @@
 <AM lemma="motorizmus" src="auto" recommended="1">NNIS2-----A----</AM>
 <AM lemma="motorizmus" src="auto">NNIS3-----A----</AM>
 <AM lemma="motorizmus" src="auto">NNIS6-----A----</AM>
-<AM lemma="motorismus_,s_^(^DD**motorizmus) " src="manual" selected="1">NNIS2-----A----</AM>
+<AM lemma="motorismus_,s_^(^DD**motorizmus)" src="manual" selected="1">NNIS2-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94205-130-p12s4w12">

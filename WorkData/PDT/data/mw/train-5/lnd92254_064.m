@@ -2771,7 +2771,7 @@
 <form>jenom</form>
 <tag>
 <AM lemma="jenom-1" src="auto">TT-------------</AM>
-<AM lemma="	jenom-2_^(pouze)" src="manual">Db-------------</AM>
+<AM lemma="jenom-2_^(pouze)" src="manual">Db-------------</AM>
 <AM lemma="jenom-2_^(pouze)" src="manual" selected="1">Db-------------</AM>
 </tag>
 </m>
@@ -3040,7 +3040,7 @@
 <form>jenom</form>
 <tag>
 <AM lemma="jenom-1" src="auto">TT-------------</AM>
-<AM lemma="	jenom-2_^(pouze)" src="manual">Db-------------</AM>
+<AM lemma="jenom-2_^(pouze)" src="manual">Db-------------</AM>
 <AM lemma="jenom-2_^(pouze)" src="manual" selected="1">Db-------------</AM>
 </tag>
 </m>
@@ -6669,7 +6669,7 @@
 <form>sice</form>
 <tag>
 <AM lemma="sice-2" src="auto">Db-------------</AM>
-<AM lemma="	sice-1_^(spojka;_připouští_se_určitá_fakta)" src="manual">J^-------------</AM>
+<AM lemma="sice-1_^(spojka;_připouští_se_určitá_fakta)" src="manual">J^-------------</AM>
 <AM lemma="sice-1_^(spojka;_připouští_se_určitá_fakta)" src="manual" selected="1">J^-------------</AM>
 </tag>
 </m>

@@ -895,7 +895,7 @@
 <form>Prezidium</form>
 <tag>
 <AM lemma="prezídium_,x" src="orig">NNNS1-----A----</AM>
-<AM lemma="	prezidium_,s_^(^DD**prezídium)" src="manual">NNNS1-----A----</AM>
+<AM lemma="prezidium_,s_^(^DD**prezídium)" src="manual">NNNS1-----A----</AM>
 <AM lemma="prezidium_,s_^(^DD**prezídium)" src="manual" selected="1">NNNS1-----A----</AM>
 </tag>
 </m>

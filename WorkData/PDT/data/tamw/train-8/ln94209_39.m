@@ -897,7 +897,7 @@
 <form>Obžalovaný</form>
 <tag>
 <AM lemma="obžalovaný_^(*2t)" src="orig">AAMS1----1A----</AM>
-<AM lemma="	obžalovaný-2_^(osoba)" src="manual">NNMS1-----A----</AM>
+<AM lemma="obžalovaný-2_^(osoba)" src="manual">NNMS1-----A----</AM>
 <AM lemma="obžalovaný-2_^(osoba)" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>

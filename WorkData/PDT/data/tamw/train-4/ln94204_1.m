@@ -674,7 +674,7 @@
 <form>nemovitosti</form>
 <tag>
 <AM lemma="nemovitost_^(budovy,_stavby,_pozemky,...)" src="orig">NNFP4-----A----</AM>
-<AM lemma=" movitost_^(*3ý)" src="manual">NNFP4-----A----</AM>
+<AM lemma="movitost_^(*3ý)" src="manual">NNFP4-----A----</AM>
 <AM lemma="movitost_^(*3ý)" src="manual">NNFP4-----A----</AM>
 <AM lemma="movitost_^(*3ý)" src="manual" selected="1">NNFP4-----N----</AM>
 </tag>

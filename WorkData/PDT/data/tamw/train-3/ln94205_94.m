@@ -10585,7 +10585,7 @@
 <form>tzv</form>
 <tag>
 <AM lemma="takzvaný_:B" src="orig">AAXXX----1A---8</AM>
-<AM lemma="	takzvaně_^(*1ý)" src="manual" selected="1">Dg-------1A---8</AM>
+<AM lemma="takzvaně_^(*1ý)" src="manual" selected="1">Dg-------1A---8</AM>
 </tag>
 </m>
 <m id="m-ln94205-94-p22s2w13">

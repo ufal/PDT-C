@@ -5472,7 +5472,7 @@
 <AM lemma="manýrizmus" src="orig">NNIS4-----A---1</AM>
 <AM lemma="manýrismus" src="auto">NNIS1-----A----</AM>
 <AM lemma="manýrismus" src="auto" recommended="1">NNIS4-----A----</AM>
-<AM lemma="manýrismus_,s_^(^DD**manýrizmus) " src="manual" selected="1">NNIS4-----A----</AM>
+<AM lemma="manýrismus_,s_^(^DD**manýrizmus)" src="manual" selected="1">NNIS4-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930709-052-p2s37w20">

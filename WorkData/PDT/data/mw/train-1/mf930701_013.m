@@ -624,7 +624,7 @@
 <form>vydal</form>
 <tag>
 <AM lemma="vydat-1_:W_^(emitovat:_cenné_papíry,_knihu,_zvuk,...)" src="orig">VpYS---XR-AA---</AM>
-<AM lemma="	vydat-3_:W_^(se,_př._na_cestu)" src="manual">VpYS---XR-AA---</AM>
+<AM lemma="vydat-3_:W_^(se,_př._na_cestu)" src="manual">VpYS---XR-AA---</AM>
 <AM lemma="vydat-3_:W_^(se,_př._na_cestu)" src="manual" selected="1">VpYS---XR-AA---</AM>
 </tag>
 </m>

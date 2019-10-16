@@ -2006,7 +2006,7 @@
 <tag>
 <AM lemma="expertíza" src="orig">NNFP2-----A----</AM>
 <AM lemma="expertiza" src="auto" recommended="1">NNFP2-----A----</AM>
-<AM lemma="	expertiza_,s_^(^DD**expertýza)" src="manual">NNFP2-----A----</AM>
+<AM lemma="expertiza_,s_^(^DD**expertýza)" src="manual">NNFP2-----A----</AM>
 <AM lemma="expertiza_,s_^(^DD**expertýza)" src="manual" selected="1">NNFP2-----A----</AM>
 </tag>
 </m>

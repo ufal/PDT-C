@@ -188,7 +188,7 @@
 <form>srdečně</form>
 <tag>
 <AM lemma="srdečně_^(př._pozdrav,_člověk)_(*1í)" src="auto">Dg-------1A----</AM>
-<AM lemma="	srdeční_^(př._sval,_příhoda)" src="manual">A2--------A----</AM>
+<AM lemma="srdeční_^(př._sval,_příhoda)" src="manual">A2--------A----</AM>
 <AM lemma="srdeční_^(př._sval,_příhoda)" src="manual" selected="1">A2--------A----</AM>
 </tag>
 </m>

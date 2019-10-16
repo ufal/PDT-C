@@ -17649,7 +17649,7 @@
 <AM lemma="rezortní_,s_,x" src="auto">AANS1----1A----</AM>
 <AM lemma="rezortní_,s_,x" src="auto">AANS4----1A----</AM>
 <AM lemma="rezortní_,s_,x" src="auto">AANS5----1A----</AM>
-<AM lemma="resortní_,s_^(^DD**rezortní) " src="manual" selected="1">AAIS4----1A----</AM>
+<AM lemma="resortní_,s_^(^DD**rezortní)" src="manual" selected="1">AAIS4----1A----</AM>
 </tag>
 </m>
 <m id="m-ln94200-127-p43s4w20">

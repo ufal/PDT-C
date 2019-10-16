@@ -58,7 +58,7 @@
 <form>Berlin</form>
 <tag>
 <AM lemma="Berlín_;G_,x" src="orig">NNIS1-----A----</AM>
-<AM lemma="Berlin_;G_,s_^(^DD** Berlín " src="manual">NNIS1-----A----</AM>
+<AM lemma="Berlin_;G_,s_^(^DD** Berlín" src="manual">NNIS1-----A----</AM>
 <AM lemma="Berlin_;G_,s_^(^DD** Berlín)" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>

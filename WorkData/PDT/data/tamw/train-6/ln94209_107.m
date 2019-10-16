@@ -1130,7 +1130,7 @@
 <form>nezkušenost</form>
 <tag>
 <AM lemma="nezkušenost" src="auto">NNFS1-----A----</AM>
-<AM lemma="	zkušenost_^(*3ý)" src="manual">NNFS1-----N----</AM>
+<AM lemma="zkušenost_^(*3ý)" src="manual">NNFS1-----N----</AM>
 <AM lemma="zkušenost_^(*3ý)" src="manual" selected="1">NNFS1-----N----</AM>
 </tag>
 </m>

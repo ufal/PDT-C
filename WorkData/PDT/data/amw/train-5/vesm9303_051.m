@@ -3399,7 +3399,7 @@
 <form>faktotum</form>
 <tag>
 <AM lemma="faktótum" src="orig">NNNS1-----A----</AM>
-<AM lemma="faktotum_,s_^(^DD**faktótum) " src="manual" selected="1">NNNS1-----A----</AM>
+<AM lemma="faktotum_,s_^(^DD**faktótum)" src="manual" selected="1">NNNS1-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9303-051-p7s1w22">

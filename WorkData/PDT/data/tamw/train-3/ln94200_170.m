@@ -1278,7 +1278,7 @@
 <form>radnímu</form>
 <tag>
 <AM lemma="radní-1_^(poradní,_i_radniční)" src="orig">AAMS3----1A----</AM>
-<AM lemma="	radní-2_^(zvolený_zástupce_na_radnici)" src="manual">NNMS3-----A----</AM>
+<AM lemma="radní-2_^(zvolený_zástupce_na_radnici)" src="manual">NNMS3-----A----</AM>
 <AM lemma="radní-2_^(zvolený_zástupce_na_radnici)" src="manual" selected="1">NNMS3-----A----</AM>
 </tag>
 </m>

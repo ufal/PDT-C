@@ -3271,7 +3271,7 @@
 <form>Provizorium</form>
 <tag>
 <AM lemma="provizórium_,x" src="orig">NNNS1-----A----</AM>
-<AM lemma="	provizorium_,s_^(^DD**provizórium)" src="manual">NNNS1-----A----</AM>
+<AM lemma="provizorium_,s_^(^DD**provizórium)" src="manual">NNNS1-----A----</AM>
 <AM lemma="provizorium_,s_^(^DD**provizórium)" src="manual" selected="1">NNNS1-----A----</AM>
 </tag>
 </m>

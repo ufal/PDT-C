@@ -400,7 +400,7 @@
 <AM lemma="rezortní_,s_,x" src="auto">AANP3----1A----</AM>
 <AM lemma="rezortní_,s_,x" src="auto">AANS6----1A----</AM>
 <AM lemma="rezortní_,s_,x" src="auto">AANS7----1A----</AM>
-<AM lemma="resortní_,s_^(^DD**rezortní) " src="manual" selected="1">AAMS7----1A----</AM>
+<AM lemma="resortní_,s_^(^DD**rezortní)" src="manual" selected="1">AAMS7----1A----</AM>
 </tag>
 </m>
 <m id="m-lnd94103-043-p1s4w4">

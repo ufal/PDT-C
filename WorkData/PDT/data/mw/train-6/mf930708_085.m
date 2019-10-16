@@ -319,7 +319,7 @@
 <form>nezaměstnaného</form>
 <tag>
 <AM lemma="zaměstnaný-1_^(všeob._význam:_činnost,_zaměstnání)_(*4t-1)" src="orig">AAMS4----1N----</AM>
-<AM lemma="	nezaměstnaný-2_^(člověk_bez_zaměstnání)" src="manual">AAMS4----1N----</AM>
+<AM lemma="nezaměstnaný-2_^(člověk_bez_zaměstnání)" src="manual">AAMS4----1N----</AM>
 <AM lemma="nezaměstnaný-2_^(člověk_bez_zaměstnání)" src="manual" selected="1">AAMS4----1N----</AM>
 </tag>
 </m>

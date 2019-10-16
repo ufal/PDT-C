@@ -3026,7 +3026,7 @@
 <form>región</form>
 <tag>
 <AM lemma="región" src="orig">NNIS1-----A----</AM>
-<AM lemma="región_,h_^(^GC**region) " src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="región_,h_^(^GC**region)" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92254-019-p6s7w23">
@@ -3160,7 +3160,7 @@
 <form>región</form>
 <tag>
 <AM lemma="región" src="orig">NNIS1-----A----</AM>
-<AM lemma="región_,h_^(^GC**region) " src="manual">NNIS1-----A----</AM>
+<AM lemma="región_,h_^(^GC**region)" src="manual">NNIS1-----A----</AM>
 <AM lemma="región_,h_^(^GC**region)" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>

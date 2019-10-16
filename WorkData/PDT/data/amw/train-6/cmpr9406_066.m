@@ -1597,7 +1597,7 @@
 <form>diskusi</form>
 <tag>
 <AM lemma="diskuse" src="orig">NNFS4-----A----</AM>
-<AM lemma="diskuse_,s_^(^DD**dimenze) " src="manual" selected="1">NNFS4-----A----</AM>
+<AM lemma="diskuse_,s_^(^DD**dimenze)" src="manual" selected="1">NNFS4-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9406-066-p11s3w15">

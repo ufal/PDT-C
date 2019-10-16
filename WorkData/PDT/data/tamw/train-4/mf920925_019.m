@@ -2721,7 +2721,7 @@
 <AM lemma="Sebastián-1_;Y" src="auto" recommended="1">NNMS6-----A----</AM>
 <AM lemma="Sebastianův-1_;Y_^(*6án-1)" src="auto">AUMP1M---------</AM>
 <AM lemma="Sebastianův-1_;Y_^(*6án-1)" src="auto">AUMP5M---------</AM>
-<AM lemma=" Sebastian_;Y_,s_^(^DD**Sebastián)" src="manual">NNMS6-----A----</AM>
+<AM lemma="Sebastian_;Y_,s_^(^DD**Sebastián)" src="manual">NNMS6-----A----</AM>
 <AM lemma="Sebastian_;Y_,s_^(^DD**Sebastián)" src="manual" selected="1">NNMS6-----A----</AM>
 </tag>
 </m>

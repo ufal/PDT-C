@@ -96,7 +96,7 @@
 <form>renesanci</form>
 <tag>
 <AM lemma="renezance" src="orig">NNFS4-----A----</AM>
-<AM lemma="renesance_,s_^(^DD**renezance) " src="manual" selected="1">NNFS4-----A----</AM>
+<AM lemma="renesance_,s_^(^DD**renezance)" src="manual" selected="1">NNFS4-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94104-100-p1s1Bw6">
@@ -736,7 +736,7 @@
 <form>A</form>
 <tag>
 <AM lemma="a-1" src="orig">J^-------------</AM>
-<AM lemma="A-33_^(označení_pomocí_písmene) " src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="A-33_^(označení_pomocí_písmene)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94104-100-p1s4w5">
@@ -1074,7 +1074,7 @@
 <form>C</form>
 <tag>
 <AM lemma="C-3`100" src="orig">C}-------------</AM>
-<AM lemma="C-33_^(označení_pomocí_písmene) " src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="C-33_^(označení_pomocí_písmene)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94104-100-p1s5w11">
@@ -2053,7 +2053,7 @@
 <form>konzervatismus</form>
 <tag>
 <AM lemma="konzervatizmus" src="orig">NNIS1-----A----</AM>
-<AM lemma="konzervatismus_,s_^(^DD**konzervatizmus) " src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="konzervatismus_,s_^(^DD**konzervatizmus)" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94104-100-p1s9w3">

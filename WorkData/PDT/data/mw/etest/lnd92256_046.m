@@ -988,7 +988,7 @@
 <form>diskuse</form>
 <tag>
 <AM lemma="diskuse" src="orig">NNFS2-----A----</AM>
-<AM lemma="diskuse_,s_^(^DD**diskuze) " src="manual" selected="1">NNFS2-----A----</AM>
+<AM lemma="diskuse_,s_^(^DD**diskuze)" src="manual" selected="1">NNFS2-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92256-046-p1s6w24">

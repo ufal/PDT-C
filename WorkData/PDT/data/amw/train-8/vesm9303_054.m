@@ -18072,7 +18072,7 @@
 <form>stál</form>
 <tag>
 <AM lemma="stát-3_^(někdo/něco_stojí,_např._na_nohou)" src="orig">VpYS---XR-AA---</AM>
-<AM lemma=" stát-4_:T_^(něco_stojí_peníze)" src="manual" selected="1">VpYS---XR-AA---</AM>
+<AM lemma="stát-4_:T_^(něco_stojí_peníze)" src="manual" selected="1">VpYS---XR-AA---</AM>
 </tag>
 </m>
 <m id="m-vesm9303-054-p18s4w18">

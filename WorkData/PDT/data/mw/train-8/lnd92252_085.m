@@ -4406,7 +4406,7 @@
 <form>fitness</form>
 <tag>
 <AM lemma="fitness-1" src="auto">AAXXX----1A----</AM>
-<AM lemma="	fitness-2_^(fitnesscentrum)" src="manual">NNIXX-----A----</AM>
+<AM lemma="fitness-2_^(fitnesscentrum)" src="manual">NNIXX-----A----</AM>
 <AM lemma="fitness-2_^(fitnesscentrum)" src="manual" selected="1">NNIXX-----A----</AM>
 </tag>
 </m>

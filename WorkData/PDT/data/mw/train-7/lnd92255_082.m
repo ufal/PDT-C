@@ -6063,7 +6063,7 @@
 <form>Filosofie</form>
 <tag>
 <AM lemma="filozofie" src="orig">NNFS1-----A----</AM>
-<AM lemma="filosofie_,s_^(^DD**filozofie) " src="manual" selected="1">NNFS1-----A----</AM>
+<AM lemma="filosofie_,s_^(^DD**filozofie)" src="manual" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92255-082-p8s2w5">

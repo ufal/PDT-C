@@ -47,7 +47,7 @@
 <form>Konkursní</form>
 <tag>
 <AM lemma="konkursní_^(týkající_se_úpadku,_soutěže)" src="auto">AANP1----1A----</AM>
-<AM lemma="	konkursní_,s_^(^DD**konkurzní)" src="manual">AANP1----1A----</AM>
+<AM lemma="konkursní_,s_^(^DD**konkurzní)" src="manual">AANP1----1A----</AM>
 <AM lemma="konkursní_,s_^(^DD**konkurzní)" src="manual" selected="1">AANP1----1A----</AM>
 </tag>
 </m>

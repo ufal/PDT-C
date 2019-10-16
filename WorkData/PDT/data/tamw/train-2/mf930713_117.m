@@ -560,7 +560,7 @@
 <form>neschopnost</form>
 <tag>
 <AM lemma="neschopnost_;U_;j_^(odb._termín:_pracovní_n.)" src="auto">NNFS1-----A----</AM>
-<AM lemma="	schopnost_^(*3ý)" src="manual">NNFS1-----A----</AM>
+<AM lemma="schopnost_^(*3ý)" src="manual">NNFS1-----A----</AM>
 <AM lemma="schopnost_^(*3ý)" src="manual" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
@@ -805,7 +805,7 @@
 <form>neschopnosti</form>
 <tag>
 <AM lemma="neschopnost_;U_;j_^(odb._termín:_pracovní_n.)" src="auto">NNFS2-----A----</AM>
-<AM lemma="	schopnost_^(*3ý)" src="manual">NNFS2-----A----</AM>
+<AM lemma="schopnost_^(*3ý)" src="manual">NNFS2-----A----</AM>
 <AM lemma="schopnost_^(*3ý)" src="manual" selected="1">NNFS2-----A----</AM>
 </tag>
 </m>
@@ -998,7 +998,7 @@
 <form>neschopnosti</form>
 <tag>
 <AM lemma="neschopnost_;U_;j_^(odb._termín:_pracovní_n.)" src="auto">NNFS2-----A----</AM>
-<AM lemma="	schopnost_^(*3ý)" src="manual">NNFS2-----A----</AM>
+<AM lemma="schopnost_^(*3ý)" src="manual">NNFS2-----A----</AM>
 <AM lemma="schopnost_^(*3ý)" src="manual" selected="1">NNFS2-----A----</AM>
 </tag>
 </m>

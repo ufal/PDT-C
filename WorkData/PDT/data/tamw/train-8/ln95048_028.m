@@ -4479,7 +4479,7 @@
 <tag>
 <AM lemma="Abrahám_;Y" src="orig">NNMS1-----A----</AM>
 <AM lemma="Abraham_;S_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Abraham_;Y_;S_,s_^(^DD**Abrahám) " src="manual">NNMS1-----A----</AM>
+<AM lemma="Abraham_;Y_;S_,s_^(^DD**Abrahám)" src="manual">NNMS1-----A----</AM>
 <AM lemma="Abraham_;S_;Y_,s_^(^DD**Abrahám)" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>

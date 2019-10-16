@@ -49,7 +49,7 @@
 <AM lemma="LN-1_:B_;R_^(Lidové_noviny,_deník)" src="orig">NNFPX-----A---8</AM>
 <AM lemma="LN-1_:B_;R_^(Lidové_noviny,_deník)" src="manual">NNXXX-----A---8</AM>
 <AM lemma="LN-1_:B_;R_^(Lidové_noviny,_deník)" src="manual">NNXXX-----A---8</AM>
-<AM lemma="LN-1_:B_;K_;R_^(Lidové_noviny)  " src="manual">NNXXX-----A---8</AM>
+<AM lemma="LN-1_:B_;K_;R_^(Lidové_noviny)" src="manual">NNXXX-----A---8</AM>
 <AM lemma="LN-1_:B_;K_;R_^(Lidové_noviny)" src="manual" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
@@ -362,7 +362,7 @@
 <tag>
 <AM lemma="LN-1_:B_;R_^(Lidové_noviny,_deník)" src="orig">NNFPX-----A---8</AM>
 <AM lemma="LN-1_:B_;R_^(Lidové_noviny,_deník)" src="manual">NNXXX-----A---8</AM>
-<AM lemma="LN-1_:B_;K_;R_^(Lidové_noviny)  " src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="LN-1_:B_;K_;R_^(Lidové_noviny)" src="manual" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-lnd92258-099-p3s2w4">

@@ -21,7 +21,7 @@
 <form>Ikarus</form>
 <tag>
 <AM lemma="Ikarus_;S" src="orig">NNIS1-----A----</AM>
-<AM lemma="	Ikarus_;K_;R_^(vozidlo)" src="manual">NNIS1-----A----</AM>
+<AM lemma="Ikarus_;K_;R_^(vozidlo)" src="manual">NNIS1-----A----</AM>
 <AM lemma="Ikarus_;K_;R_^(vozidlo)" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>

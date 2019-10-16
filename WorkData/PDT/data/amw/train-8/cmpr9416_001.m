@@ -4605,7 +4605,7 @@
 <AM lemma="B-9_:B_;S" src="auto">NNXXX-----A---8</AM>
 <AM lemma="b-3_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
 <AM lemma="b-8_:B_^(ost._zkratka)" src="auto">XX------------8</AM>
-<AM lemma="Box_:B_,t " src="manual">NNXXX-----A---8</AM>
+<AM lemma="Box_:B_,t" src="manual">NNXXX-----A---8</AM>
 <AM lemma="B-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>

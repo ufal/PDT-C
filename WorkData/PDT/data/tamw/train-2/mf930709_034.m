@@ -249,7 +249,7 @@
 <form>milionu</form>
 <tag>
 <AM lemma="milión`1000000" src="orig">NNIS2-----A----</AM>
-<AM lemma="milion`1000000_,s_^(^DD**milión) " src="manual" selected="1">NNIS2-----A----</AM>
+<AM lemma="milion`1000000_,s_^(^DD**milión)" src="manual" selected="1">NNIS2-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930709-034-p2s1Bw17">

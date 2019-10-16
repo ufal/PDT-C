@@ -1305,7 +1305,7 @@
 <tag>
 <AM lemma="Micubiši-2_;R_^(vozidlo)" src="orig">NNNXX-----A----</AM>
 <AM lemma="mitsubishi_;R_^(vozidlo)" src="auto" recommended="1">NNXXX-----A---6</AM>
-<AM lemma="micubiši_;K_;R_,s_^(^DD**mitsubishi) " src="manual" selected="1">NNXXX-----A---6</AM>
+<AM lemma="micubiši_;K_;R_,s_^(^DD**mitsubishi)" src="manual" selected="1">NNXXX-----A---6</AM>
 </tag>
 </m>
 <m id="m-lnd92258-145-p7s1w33">

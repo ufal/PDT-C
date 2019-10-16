@@ -935,7 +935,7 @@
 <form>dál</form>
 <tag>
 <AM lemma="daleko-1" src="orig">Dg-------2A----</AM>
-<AM lemma="	dále-3_^(také,_za_další,_popořadě;_čas._i_míst.;_nestupňuje_se)" src="manual">Db-------------</AM>
+<AM lemma="dále-3_^(také,_za_další,_popořadě;_čas._i_míst.;_nestupňuje_se)" src="manual">Db-------------</AM>
 <AM lemma="dále-3_^(také,_za_další,_popořadě;_čas._i_míst.;_nestupňuje_se)" src="manual" selected="1">Db-------------</AM>
 </tag>
 </m>

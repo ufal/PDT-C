@@ -4539,7 +4539,7 @@
 <form>absolutismu</form>
 <tag>
 <AM lemma="absolutismus" src="orig">NNIS2-----A----</AM>
-<AM lemma="absolutismus_,s_^(^DD**absolutizmus) " src="manual" selected="1">NNIS2-----A----</AM>
+<AM lemma="absolutismus_,s_^(^DD**absolutizmus)" src="manual" selected="1">NNIS2-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95048-050-p15s7w7">

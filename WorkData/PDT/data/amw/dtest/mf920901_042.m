@@ -11267,7 +11267,7 @@
 <form>PhDr</form>
 <tag>
 <AM lemma="PhDr-1_:B_,t_^(philosophiae_doctor)" src="auto">NNMXX-----A---8</AM>
-<AM lemma="PhDr_:B_^(philosophiae_doctor) " src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="PhDr_:B_^(philosophiae_doctor)" src="manual" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-mf920901-042-p19s1w4">

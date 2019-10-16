@@ -154,7 +154,7 @@
 <form>sokolům</form>
 <tag>
 <AM lemma="sokol-1_;L_^(pták)" src="auto">NNMP3-----A----</AM>
-<AM lemma="	sokol-2_;K_^(organizace)" src="manual">NNMP3-----A----</AM>
+<AM lemma="sokol-2_;K_^(organizace)" src="manual">NNMP3-----A----</AM>
 <AM lemma="sokol-2_;K_^(organizace)" src="manual" selected="1">NNMP3-----A----</AM>
 </tag>
 </m>

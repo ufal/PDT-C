@@ -793,7 +793,7 @@
 <form>intenzivněji</form>
 <tag>
 <AM lemma="intenzivně_^(*4ívní)" src="orig">Dg-------2A----</AM>
-<AM lemma="	intenzivně_,s_^(^DD**intenzívní)_(*1í)" src="manual">Dg-------2A----</AM>
+<AM lemma="intenzivně_,s_^(^DD**intenzívní)_(*1í)" src="manual">Dg-------2A----</AM>
 <AM lemma="intenzivně_,s_^(^DD**intenzívní)_(*1í)" src="manual" selected="1">Dg-------2A----</AM>
 </tag>
 </m>

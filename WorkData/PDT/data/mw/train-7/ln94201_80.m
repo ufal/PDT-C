@@ -22,7 +22,7 @@
 <tag>
 <AM lemma="US-3_:B_;m_,t_^(americký)" src="orig">AAXXX----1A---8</AM>
 <AM lemma="US-88_:B" src="manual">NNXXX-----A---8</AM>
-<AM lemma="US-2_:B_^(americký) " src="manual" selected="1">AAXXX----1A---8</AM>
+<AM lemma="US-2_:B_^(americký)" src="manual" selected="1">AAXXX----1A---8</AM>
 </tag>
 </m>
 <m id="m-ln94201-80-p1s1w2">

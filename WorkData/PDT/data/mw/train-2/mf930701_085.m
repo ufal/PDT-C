@@ -1294,7 +1294,7 @@
 <AM lemma="orgasmus" src="orig">NNIS1-----A----</AM>
 <AM lemma="orgazmus" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="orgazmus" src="auto">NNIS4-----A----</AM>
-<AM lemma=" orgasmus_,s_^(^DD**orgazmus)" src="manual">NNIS1-----A----</AM>
+<AM lemma="orgasmus_,s_^(^DD**orgazmus)" src="manual">NNIS1-----A----</AM>
 <AM lemma="orgasmus_,s_^(^DD**orgazmus)" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>

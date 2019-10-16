@@ -5057,7 +5057,7 @@
 <form>resortů</form>
 <tag>
 <AM lemma="resort" src="orig">NNIP2-----A----</AM>
-<AM lemma="resort_,s_^(^DD**rezort) " src="manual" selected="1">NNIP2-----A----</AM>
+<AM lemma="resort_,s_^(^DD**rezort)" src="manual" selected="1">NNIP2-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95044-072-p6s2w25">

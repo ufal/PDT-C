@@ -1276,7 +1276,7 @@
 <form>Stadion</form>
 <tag>
 <AM lemma="stadión" src="orig">NNIS4-----A----</AM>
-<AM lemma=" stadion_,s_^(^DD**stadión)" src="manual">NNIS4-----A----</AM>
+<AM lemma="stadion_,s_^(^DD**stadión)" src="manual">NNIS4-----A----</AM>
 <AM lemma="stadion_,s_^(^DD**stadión)" src="manual" selected="1">NNIS4-----A----</AM>
 </tag>
 </m>

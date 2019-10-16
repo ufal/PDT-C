@@ -1940,7 +1940,7 @@
 <form>zkrácení</form>
 <tag>
 <AM lemma="zkrácení_,a_^(*2t)" src="auto">NNNS1-----A----</AM>
-<AM lemma="	zkrácení_^(*4tit)" src="manual">NNNS1-----A----</AM>
+<AM lemma="zkrácení_^(*4tit)" src="manual">NNNS1-----A----</AM>
 <AM lemma="zkrácení_^(*4tit)" src="manual" selected="1">NNNS1-----A----</AM>
 </tag>
 </m>

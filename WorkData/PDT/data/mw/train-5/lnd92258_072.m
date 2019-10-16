@@ -2273,7 +2273,7 @@
 <form>Majorova</form>
 <tag>
 <AM lemma="majorův_^(*2)" src="orig">AUFS1M---------</AM>
-<AM lemma="	Majorův_;S_^(*2)" src="manual">AUFS1M---------</AM>
+<AM lemma="Majorův_;S_^(*2)" src="manual">AUFS1M---------</AM>
 <AM lemma="Majorův_;S_^(*2)" src="manual" selected="1">AUFS1M---------</AM>
 </tag>
 </m>

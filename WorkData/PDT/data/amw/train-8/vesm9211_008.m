@@ -833,7 +833,7 @@
 <form>CSc</form>
 <tag>
 <AM lemma="CSc-1_:B_^(kandidát_věd)" src="orig">NNMXX-----A---8</AM>
-<AM lemma="CSc_:B_^(kandidát_věd) " src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="CSc_:B_^(kandidát_věd)" src="manual" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-vesm9211-008-p4s1w7">
@@ -1120,7 +1120,7 @@
 <form>RNDr</form>
 <tag>
 <AM lemma="RNDr-1_:B_^(doktor_přír._věd)" src="orig">NNMXX-----A---8</AM>
-<AM lemma="RNDr_:B_^(doktor_přír._věd) " src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="RNDr_:B_^(doktor_přír._věd)" src="manual" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-vesm9211-008-p5s1w2">
@@ -1341,7 +1341,7 @@
 <form>RNDr</form>
 <tag>
 <AM lemma="RNDr-1_:B_^(doktor_přír._věd)" src="orig">NNMXX-----A---8</AM>
-<AM lemma="RNDr_:B_^(doktor_přír._věd) " src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="RNDr_:B_^(doktor_přír._věd)" src="manual" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-vesm9211-008-p6s1w4">
@@ -1628,7 +1628,7 @@
 <form>CSc</form>
 <tag>
 <AM lemma="CSc-1_:B_^(kandidát_věd)" src="orig">NNMXX-----A---8</AM>
-<AM lemma="CSc_:B_^(kandidát_věd) " src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="CSc_:B_^(kandidát_věd)" src="manual" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-vesm9211-008-p7s1w7">
@@ -1902,7 +1902,7 @@
 <form>Ing</form>
 <tag>
 <AM lemma="Ing-1_:B_^(inženýr)" src="orig">NNMXX-----A---8</AM>
-<AM lemma="Ing_:B_^(inženýr) " src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="Ing_:B_^(inženýr)" src="manual" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-vesm9211-008-p8s1w2">
@@ -2442,7 +2442,7 @@
 <form>Dr</form>
 <tag>
 <AM lemma="doktor_:B_^(doktor,_akad._titul)" src="orig">NNMXX-----A---8</AM>
-<AM lemma="Dr_:B_^(doktor) " src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="Dr_:B_^(doktor)" src="manual" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-vesm9211-008-p10s1w4">
@@ -2488,7 +2488,7 @@
 <form>DrSc</form>
 <tag>
 <AM lemma="DrSc-1_:B_,t_^(doctor_scientiarum)" src="auto">NNMXX-----A---8</AM>
-<AM lemma="DrSc_:B_^(doctor_scientiarum) " src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="DrSc_:B_^(doctor_scientiarum)" src="manual" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-vesm9211-008-p10s1w9">

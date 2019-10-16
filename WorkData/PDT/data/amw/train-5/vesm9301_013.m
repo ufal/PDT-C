@@ -3501,7 +3501,7 @@
 <form>dvojznačné</form>
 <tag>
 <AM lemma="dvojznačný" src="orig">AAFP1----1A----</AM>
-<AM lemma="dvojznačný_,s_^(^DD**dvouznačný) " src="manual" selected="1">AAFP1----1A----</AM>
+<AM lemma="dvojznačný_,s_^(^DD**dvouznačný)" src="manual" selected="1">AAFP1----1A----</AM>
 </tag>
 </m>
 <m id="m-vesm9301-013-p7s1w26">

@@ -888,7 +888,7 @@
 <form>MUDr</form>
 <tag>
 <AM lemma="MUDr-1_:B_^(doktor_medicíny)" src="orig">NNMXX-----A---8</AM>
-<AM lemma="MUDr_:B_^(doktor_medicíny) " src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="MUDr_:B_^(doktor_medicíny)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92252-032-p4s1w20">

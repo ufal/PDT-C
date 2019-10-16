@@ -1089,7 +1089,7 @@
 <form>moc</form>
 <tag>
 <AM lemma="moc-2_^(mnoho_něčeho_[se_subst._v_gen.])" src="orig">Ca--X----------</AM>
-<AM lemma="	moc-3_^(velmi,_ve_spojení_s_adj.,_př._moc_hezká)" src="manual">Db-------------</AM>
+<AM lemma="moc-3_^(velmi,_ve_spojení_s_adj.,_př._moc_hezká)" src="manual">Db-------------</AM>
 <AM lemma="moc-3_^(velmi,_ve_spojení_s_adj.,_př._moc_hezká)" src="manual" selected="1">Db-------------</AM>
 </tag>
 </m>

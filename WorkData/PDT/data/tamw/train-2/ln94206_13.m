@@ -21,7 +21,7 @@
 <form>Kurzy</form>
 <tag>
 <AM lemma="kurs" src="auto">NNIP1-----A----</AM>
-<AM lemma="kurs_,s_^(^DD**kurz) " src="manual" selected="1">NNIP1-----A----</AM>
+<AM lemma="kurs_,s_^(^DD**kurz)" src="manual" selected="1">NNIP1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94206-13-p1s1w2">
@@ -130,7 +130,7 @@
 <form>kurzů</form>
 <tag>
 <AM lemma="kurs" src="auto">NNIP2-----A----</AM>
-<AM lemma="kurs_,s_^(^DD**kurz) " src="manual" selected="1">NNIP2-----A----</AM>
+<AM lemma="kurs_,s_^(^DD**kurz)" src="manual" selected="1">NNIP2-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94206-13-p2s1w12">
@@ -631,7 +631,7 @@
 <form>A</form>
 <tag>
 <AM lemma="A-4_:B_;K" src="orig">AAXXX----1A---8</AM>
-<AM lemma="A-4_:B_;K	A-33_^(označení_pomocí_písmene)" src="manual">NNNXX-----A----</AM>
+<AM lemma="A-4_:B_;K A-33_^(označení_pomocí_písmene)" src="manual">NNNXX-----A----</AM>
 <AM lemma="A-33_^(označení_pomocí_písmene)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>

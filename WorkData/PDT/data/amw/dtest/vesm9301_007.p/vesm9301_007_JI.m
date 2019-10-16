@@ -384,7 +384,7 @@
 <form>RNDr</form>
 <tag>
 <AM lemma="RNDr-1_:B_^(doktor_přír._věd)" src="orig">NNMXX-----A---8</AM>
-<AM lemma="RNDr_:B_^(doktor_přír._věd) " src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="RNDr_:B_^(doktor_přír._věd)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9301-007-p2s1w4">
@@ -427,7 +427,7 @@
 <form>CSc</form>
 <tag>
 <AM lemma="CSc-1_:B_^(kandidát_věd)" src="orig">NNMXX-----A---8</AM>
-<AM lemma="CSc_:B_^(kandidát_věd) " src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="CSc_:B_^(kandidát_věd)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9301-007-p2s1w9">
@@ -628,7 +628,7 @@
 <form>PhDr</form>
 <tag>
 <AM lemma="PhDr-1_:B_,t_^(philosophiae_doctor)" src="auto">NNMXX-----A---8</AM>
-<AM lemma="PhDr_:B_^(philosophiae_doctor) " src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="PhDr_:B_^(philosophiae_doctor)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9301-007-p3s1w2">
@@ -708,7 +708,7 @@
 <form>CSc</form>
 <tag>
 <AM lemma="CSc-1_:B_^(kandidát_věd)" src="orig">NNMXX-----A---8</AM>
-<AM lemma="CSc_:B_^(kandidát_věd) " src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="CSc_:B_^(kandidát_věd)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9301-007-p4s1w7">
@@ -939,7 +939,7 @@
 <form>RNDr</form>
 <tag>
 <AM lemma="RNDr-1_:B_^(doktor_přír._věd)" src="orig">NNMXX-----A---8</AM>
-<AM lemma="RNDr_:B_^(doktor_přír._věd) " src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="RNDr_:B_^(doktor_přír._věd)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9301-007-p5s1w4">
@@ -1352,7 +1352,7 @@
 <form>DrSc</form>
 <tag>
 <AM lemma="DrSc-2_:B_,t_^(doctor_scientiarum)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="DrSc_:B_^(doctor_scientiarum) " src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="DrSc_:B_^(doctor_scientiarum)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9301-007-p6s1w9">
@@ -1706,7 +1706,7 @@
 <form>DrSc</form>
 <tag>
 <AM lemma="DrSc-2_:B_,t_^(doctor_scientiarum)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="DrSc_:B_^(doctor_scientiarum) " src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="DrSc_:B_^(doctor_scientiarum)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9301-007-p7s1w9">
@@ -2333,7 +2333,7 @@
 <form>MUDr</form>
 <tag>
 <AM lemma="MUDr-1_:B_^(doktor_medicíny)" src="orig">NNMXX-----A---8</AM>
-<AM lemma="MUDr_:B_^(doktor_medicíny) " src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="MUDr_:B_^(doktor_medicíny)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9301-007-p8s1w2">
@@ -2376,7 +2376,7 @@
 <form>CSc</form>
 <tag>
 <AM lemma="CSc-1_:B_^(kandidát_věd)" src="orig">NNMXX-----A---8</AM>
-<AM lemma="CSc_:B_^(kandidát_věd) " src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="CSc_:B_^(kandidát_věd)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9301-007-p8s1w7">
@@ -2697,7 +2697,7 @@
 <form>RNDr</form>
 <tag>
 <AM lemma="RNDr-1_:B_^(doktor_přír._věd)" src="orig">NNMXX-----A---8</AM>
-<AM lemma="RNDr_:B_^(doktor_přír._věd) " src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="RNDr_:B_^(doktor_přír._věd)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9301-007-p9s1w2">

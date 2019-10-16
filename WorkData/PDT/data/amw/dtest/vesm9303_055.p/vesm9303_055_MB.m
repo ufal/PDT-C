@@ -3113,7 +3113,7 @@
 <form>jenom</form>
 <tag>
 <AM lemma="jenom-1" src="auto">TT-------------</AM>
-<AM lemma=" jenom-2_^(pouze)" src="manual">Db-------------</AM>
+<AM lemma="jenom-2_^(pouze)" src="manual">Db-------------</AM>
 <AM lemma="jenom-2_^(pouze)" src="manual" selected="1">Db-------------</AM>
 </tag>
 </m>

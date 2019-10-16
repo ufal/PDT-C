@@ -1404,7 +1404,7 @@
 <tag>
 <AM lemma="expertíza" src="orig">NNFS1-----A----</AM>
 <AM lemma="expertiza_,x" src="auto" recommended="1">NNFS1-----A----</AM>
-<AM lemma="expertíza_,s_^(^DD**expertiza)  " src="manual">NNFS1-----A----</AM>
+<AM lemma="expertíza_,s_^(^DD**expertiza)" src="manual">NNFS1-----A----</AM>
 <AM lemma="expertíza_,s_^(^DD**expertiza)" src="manual" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>

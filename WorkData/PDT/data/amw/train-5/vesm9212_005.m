@@ -20917,7 +20917,7 @@
 <form>organismus</form>
 <tag>
 <AM lemma="organismus" src="orig">NNIS1-----A----</AM>
-<AM lemma="organismus_,s_^(^DD**organizmus) " src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="organismus_,s_^(^DD**organizmus)" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9212-005-p34s2w17">
@@ -21332,7 +21332,7 @@
 <form>organismus</form>
 <tag>
 <AM lemma="organismus" src="orig">NNIS4-----A----</AM>
-<AM lemma="organismus_,s_^(^DD**organizmus) " src="manual" selected="1">NNIS4-----A----</AM>
+<AM lemma="organismus_,s_^(^DD**organizmus)" src="manual" selected="1">NNIS4-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9212-005-p34s4w19">

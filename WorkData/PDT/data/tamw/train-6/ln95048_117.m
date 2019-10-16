@@ -6064,7 +6064,7 @@
 <form>komunismu</form>
 <tag>
 <AM lemma="komunismus" src="orig">NNIS2-----A----</AM>
-<AM lemma="komunismus_,s_^(^DD**komunizmus) " src="manual" selected="1">NNIS2-----A----</AM>
+<AM lemma="komunismus_,s_^(^DD**komunizmus)" src="manual" selected="1">NNIS2-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95048-117-p8s4w7">

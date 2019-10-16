@@ -28440,7 +28440,7 @@
 <tag>
 <AM lemma="sice-2" src="auto">Db-------------</AM>
 <AM lemma="sice-1" src="manual">J^-------------</AM>
-<AM lemma=" sice-1_^(spojka;_připouští_se_určitá_fakta)" src="manual">J^-------------</AM>
+<AM lemma="sice-1_^(spojka;_připouští_se_určitá_fakta)" src="manual">J^-------------</AM>
 <AM lemma="sice-1_^(spojka;_připouští_se_určitá_fakta)" src="manual" selected="1">J^-------------</AM>
 </tag>
 </m>
@@ -33960,7 +33960,7 @@
 <form>více</form>
 <tag>
 <AM lemma="hodně-2" src="auto">Dg-------2A----</AM>
-<AM lemma=" více_^(více_+_2._p.,_více_peněz)" src="manual">Ca--4----------</AM>
+<AM lemma="více_^(více_+_2._p.,_více_peněz)" src="manual">Ca--4----------</AM>
 <AM lemma="více_^(více_+_2._p.,_více_peněz)" src="manual" selected="1">Ca--4----------</AM>
 </tag>
 </m>

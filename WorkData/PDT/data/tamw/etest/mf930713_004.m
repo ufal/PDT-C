@@ -1520,7 +1520,7 @@
 <form>a</form>
 <tag>
 <AM lemma="a-1" src="orig">J^-------------</AM>
-<AM lemma="a-5_^(přípona) " src="manual">NNXXX-----A----</AM>
+<AM lemma="a-5_^(přípona)" src="manual">NNXXX-----A----</AM>
 <AM lemma="a-33_^(označení_pomocí_písmene)" src="manual" selected="1">NNNXX-----A----</AM>
 </tag>
 </m>

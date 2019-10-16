@@ -3541,7 +3541,7 @@
 <form>anglicismy</form>
 <tag>
 <AM lemma="anglicismus" src="orig">NNIP4-----A----</AM>
-<AM lemma="anglicismus_,s_^(^DD**anglicizmus) " src="manual" selected="1">NNIP4-----A----</AM>
+<AM lemma="anglicismus_,s_^(^DD**anglicizmus)" src="manual" selected="1">NNIP4-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95042-011-p5s1w8">
@@ -6022,7 +6022,7 @@
 <form>extremismus</form>
 <tag>
 <AM lemma="extremismus" src="orig">NNIS1-----A----</AM>
-<AM lemma="extremismus_,s_^(^DD**extremizmus) " src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="extremismus_,s_^(^DD**extremizmus)" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95042-011-p6s9w28">
@@ -6410,7 +6410,7 @@
 <form>kursů</form>
 <tag>
 <AM lemma="kurs" src="auto">NNIP2-----A----</AM>
-<AM lemma="kurs_,s_^(^DD**kurz) " src="manual" selected="1">NNIP2-----A----</AM>
+<AM lemma="kurs_,s_^(^DD**kurz)" src="manual" selected="1">NNIP2-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95042-011-p6s11w9">
@@ -7714,7 +7714,7 @@
 <form>galérií</form>
 <tag>
 <AM lemma="galérie" src="orig">NNFS7-----A----</AM>
-<AM lemma="galérie_,s_^(^DD**galerie) " src="manual" selected="1">NNFS7-----A----</AM>
+<AM lemma="galérie_,s_^(^DD**galerie)" src="manual" selected="1">NNFS7-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95042-011-p8s2w12">

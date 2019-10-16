@@ -403,7 +403,7 @@
 <form>Doc</form>
 <tag>
 <AM lemma="docentka_:B" src="orig">NNFXX-----A---8</AM>
-<AM lemma="Doc_:B_^(docent) " src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="Doc_:B_^(docent)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95048-120-p2s3w2">

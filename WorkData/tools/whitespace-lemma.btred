@@ -1,0 +1,20 @@
+#!btred -NTe ws()
+# -*- mode: cperl -*-
+
+package pdt_c_m;
+
+sub ws {
+    ChangingFile(0);
+    my $tag_outer = $this->attr('tag');
+    return unless $tag_outer;
+
+    my @tags = $tag_outer->isa('Treex::PML::Container')
+        ? $tag_outer
+        : $tag_outer->values;
+    for my $tag (@tags) {
+        ChangingFile(1) if $tag->{lemma} =~ s/^\s+|\s+$//g;
+        FPosition() if $tag->{lemma} =~ /\s/ && $tag->{selected};
+    }
+
+
+}

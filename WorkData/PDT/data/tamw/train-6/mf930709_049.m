@@ -360,7 +360,7 @@
 <form>JUDr</form>
 <tag>
 <AM lemma="JUDr-1_:B_^(doktor_práv)" src="orig">NNMXX-----A---8</AM>
-<AM lemma="JUDr_:B_^(doktor_práv) " src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="JUDr_:B_^(doktor_práv)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930709-049-p2s2w19">

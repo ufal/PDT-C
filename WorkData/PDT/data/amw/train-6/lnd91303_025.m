@@ -454,7 +454,7 @@
 <form>radio</form>
 <tag>
 <AM lemma="rádio_,a" src="orig">NNNS4-----A----</AM>
-<AM lemma="	radio_,a_,s_^(^DD**rádio)" src="manual">NNNS4-----A----</AM>
+<AM lemma="radio_,a_,s_^(^DD**rádio)" src="manual">NNNS4-----A----</AM>
 <AM lemma="radio_,a_,s_^(^DD**rádio)" src="manual" selected="1">NNNS4-----A----</AM>
 </tag>
 </m>

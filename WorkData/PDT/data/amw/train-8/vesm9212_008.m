@@ -2020,7 +2020,7 @@
 <form>aidsem</form>
 <tag>
 <AM lemma="AIDS_:B_;U_,x_^(Syndrom_získaného_selhání_imunity)" src="orig">NNIS7-----A----</AM>
-<AM lemma="	aids_:B_;U_^(^DD**AIDS)" src="manual">NNIS7-----A----</AM>
+<AM lemma="aids_:B_;U_^(^DD**AIDS)" src="manual">NNIS7-----A----</AM>
 <AM lemma="aids_:B_;U_^(^DD**AIDS)" src="manual">NNIS7-----A----</AM>
 <AM lemma="aids_;U_^(Syndrom_získaného_selhání_imunity)" src="manual" selected="1">NNIS7-----A----</AM>
 </tag>

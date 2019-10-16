@@ -127,7 +127,7 @@
 <AM lemma="národní_:B" src="auto">AAXXX----1A---8</AM>
 <AM lemma="and_:B_,t_^(rock'n'roll)" src="manual">J^------------8</AM>
 <AM lemma="n-77" src="manual">F%-------------</AM>
-<AM lemma=" and_:B_,t_^(rock'n'roll)" src="manual">J^------------8</AM>
+<AM lemma="and_:B_,t_^(rock'n'roll)" src="manual">J^------------8</AM>
 <AM lemma="and_:B_,t_^(rock'n'roll)" src="manual" selected="1">J^------------8</AM>
 </tag>
 </m>

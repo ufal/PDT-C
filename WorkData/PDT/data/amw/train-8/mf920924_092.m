@@ -231,7 +231,7 @@
 <form>konkursního</form>
 <tag>
 <AM lemma="konkursní_^(týkající_se_úpadku,_soutěže)" src="auto">AANS2----1A----</AM>
-<AM lemma="onkursní_,s_^(^DD**konkurzní) " src="manual">AANS2----1A----</AM>
+<AM lemma="onkursní_,s_^(^DD**konkurzní)" src="manual">AANS2----1A----</AM>
 <AM lemma="konkursní_,s_^(^DD**konkurzní)" src="manual" selected="1">AANS2----1A----</AM>
 </tag>
 </m>

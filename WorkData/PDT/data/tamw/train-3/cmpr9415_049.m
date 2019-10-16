@@ -821,7 +821,7 @@
 <form>Causa</form>
 <tag>
 <AM lemma="kauza_,x" src="orig">NNFS1-----A----</AM>
-<AM lemma=" causa_,s_^(^DD**kauza)" src="manual" selected="1">NNFS1-----A----</AM>
+<AM lemma="causa_,s_^(^DD**kauza)" src="manual" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9415-049-p3s5Bw2">

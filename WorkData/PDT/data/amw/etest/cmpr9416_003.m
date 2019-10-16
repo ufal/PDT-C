@@ -1361,7 +1361,7 @@
 <form>miliony</form>
 <tag>
 <AM lemma="milión`1000000" src="orig">NNIP1-----A----</AM>
-<AM lemma="milion`1000000_,s_^(^DD**milión) " src="manual" selected="1">NNIP1-----A----</AM>
+<AM lemma="milion`1000000_,s_^(^DD**milión)" src="manual" selected="1">NNIP1-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9416-003-p10s2w9">

@@ -1538,7 +1538,7 @@
 <form>nejvíce</form>
 <tag>
 <AM lemma="hodně-2" src="auto">Dg-------3A----</AM>
-<AM lemma="	nejvíce_^(nejvíce_+_2._p.,_nejvíce_peněz)" src="manual">Ca--4----------</AM>
+<AM lemma="nejvíce_^(nejvíce_+_2._p.,_nejvíce_peněz)" src="manual">Ca--4----------</AM>
 <AM lemma="nejvíce_^(nejvíce_+_2._p.,_nejvíce_peněz)" src="manual" selected="1">Ca--4----------</AM>
 </tag>
 </m>
@@ -1648,7 +1648,7 @@
 <form>nejvíce</form>
 <tag>
 <AM lemma="hodně-2" src="auto">Dg-------3A----</AM>
-<AM lemma="hodně-2	nejvíce_^(nejvíce_+_2._p.,_nejvíce_peněz)" src="manual">Dg-------3A----</AM>
+<AM lemma="hodně-2 nejvíce_^(nejvíce_+_2._p.,_nejvíce_peněz)" src="manual">Dg-------3A----</AM>
 <AM lemma="hodně-3" src="manual" selected="1">Dg-------3A----</AM>
 </tag>
 </m>

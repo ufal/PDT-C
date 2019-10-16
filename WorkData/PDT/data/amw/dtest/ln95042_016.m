@@ -3427,7 +3427,7 @@
 <form>tradeskancionalismu</form>
 <tag>
 <AM lemma="tradeskancionalizmus" src="orig">NNIS2-----A----</AM>
-<AM lemma="	rasismus_^(^DD**tradeskancionalizmus)" src="manual">NNIS2-----A----</AM>
+<AM lemma="rasismus_^(^DD**tradeskancionalizmus)" src="manual">NNIS2-----A----</AM>
 <AM lemma="tradeskancionalismus_^(^DD**tradeskancionalizmus)" src="manual">NNIS2-----A----</AM>
 <AM lemma="tradeskancionalismus_^(^DD**tradeskancionalizmus)" src="manual" selected="1">NNIS2-----A----</AM>
 </tag>
