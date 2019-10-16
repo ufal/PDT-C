@@ -319,11 +319,6 @@
 <AM lemma="jet-1_^(pohybovat_se,_ne_však_chůzí)" src="auto" recommended="1">VpNS---XR-AA---</AM>
 <AM lemma="JELO-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
-<comment>
-<LM type="Other">
-<text>podle instrukcí</text>
-</LM>
-</comment>
 </m>
 <m id="m-mf930713-006-p2s1Bw21">
 <src.rf>manual</src.rf>

@@ -1269,14 +1269,9 @@
 </w.rf>
 <form>nečekaně</form>
 <tag>
-<AM lemma="nečekaně_^(*1ý)" src="auto">Dg-------1A----</AM>
-<AM lemma="čekaně_^(*1ý)" src="manual" selected="1">Dg-------1N----</AM>
+<AM lemma="nečekaně_^(*1ý)" src="auto" selected="1">Dg-------1A----</AM>
+<AM lemma="čekaně_^(*1ý)" src="manual">Dg-------1N----</AM>
 </tag>
-<comment>
-<LM type="Other">
-<text>opravil jsem pův. analýzu na analýzu ze slovníku</text>
-</LM>
-</comment>
 </m>
 <m id="m-ln95046-035-p3s3w16">
 <src.rf>manual</src.rf>

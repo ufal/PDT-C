@@ -699,13 +699,9 @@
 <AM lemma="petra-1_;R" src="auto">NNFP4-----A----</AM>
 <AM lemma="petra-1_;R" src="auto">NNFP5-----A----</AM>
 <AM lemma="petra-1_;R" src="auto">NNFS2-----A----</AM>
-<AM lemma="Petra-3_;K" src="manual" selected="1">NNFS2-----A----</AM>
+<AM lemma="Petra-3_;K" src="manual">NNFS2-----A----</AM>
+<AM lemma="Petra-2_;G_;K" src="manual" selected="1">NNFS2-----A----</AM>
 </tag>
-<comment>
-<LM type="Other">
-<text>nová analýza: název společnosti</text>
-</LM>
-</comment>
 </m>
 <m id="m-ln95044-044-p3s1w6">
 <src.rf>manual</src.rf>
@@ -7843,15 +7839,11 @@
 </w.rf>
 <form>fenoménu</form>
 <tag>
-<AM lemma="fenomén" src="orig" selected="1">NNIS2-----A----</AM>
+<AM lemma="fenomén" src="orig">NNIS2-----A----</AM>
 <AM lemma="fenomén" src="auto" recommended="1">NNMS3-----A---1</AM>
 <AM lemma="fenomén" src="auto">NNMS6-----A---1</AM>
+<AM lemma="fenomén-1" src="manual" selected="1">NNIS2-----A----</AM>
 </tag>
-<comment>
-<LM type="Other">
-<text>analýza z online slovníku pro pdt-c</text>
-</LM>
-</comment>
 </m>
 <m id="m-ln95044-044-p12s8w4">
 <src.rf>manual</src.rf>

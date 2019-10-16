@@ -999,7 +999,8 @@
 <form>V</form>
 <tag>
 <AM lemma="V-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="V-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="V-88_:B" src="manual">NNXXX-----A---8</AM>
+<AM lemma="V-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92253-025-p2s6w11">
@@ -1026,7 +1027,8 @@
 <form>m</form>
 <tag>
 <AM lemma="mimo-1_:B" src="auto">RR--4---------8</AM>
-<AM lemma="mimo-1" src="manual" selected="1">RR--4---------8</AM>
+<AM lemma="mimo-1" src="manual">RR--4---------8</AM>
+<AM lemma="mimo-1" src="manual" selected="1">RR--4---------b</AM>
 </tag>
 </m>
 <m id="m-lnd92253-025-p2s6w14">
@@ -1049,13 +1051,9 @@
 <AM lemma="j-3_^(označení_pomocí_písmene)" src="auto" recommended="1">NNNXX-----A----</AM>
 <AM lemma="j-8_:B_^(ost._zkratka)" src="auto">XX------------8</AM>
 <AM lemma="jako-1_:B" src="auto">J,------------8</AM>
-<AM lemma="jiný" src="manual" selected="1">AAXXX----1A---8</AM>
+<AM lemma="jiný" src="manual">AAXXX----1A---8</AM>
+<AM lemma="jiný" src="manual" selected="1">AANS4----1A---b</AM>
 </tag>
-<comment>
-<LM type="Other">
-<text>tag AANS4----1A---8 je hlášen jako invalid tag</text>
-</LM>
-</comment>
 </m>
 <m id="m-lnd92253-025-p2s6w16">
 <src.rf>manual</src.rf>
@@ -1137,7 +1135,8 @@
 <form>čs</form>
 <tag>
 <AM lemma="československý_:B" src="orig">AAXXX----1A---8</AM>
-<AM lemma="československý" src="manual" selected="1">AAXXX----1A---8</AM>
+<AM lemma="československý" src="manual">AAXXX----1A---8</AM>
+<AM lemma="československý" src="manual" selected="1">AAXXX----1A---b</AM>
 </tag>
 </m>
 <m id="m-lnd92253-025-p2s6w26">

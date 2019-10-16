@@ -86,14 +86,10 @@
 </w.rf>
 <form>ce</form>
 <tag>
-<AM lemma="ce-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</AM>
+<AM lemma="ce-99_:B_;S" src="orig">NNXXX-----A---8</AM>
 <AM lemma="ce-2_:B_,t_^(compass_error,_deklinač._a_deviační_odchylka)" src="auto" recommended="1">NNFXX-----A---8</AM>
+<AM lemma="ce-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
-<comment>
-<LM type="Other">
-<text>ponechána původní "červená" analýza (autorská zkratka)</text>
-</LM>
-</comment>
 </m>
 <m id="m-ln94203-13-p2s1Aw4">
 <src.rf>manual</src.rf>

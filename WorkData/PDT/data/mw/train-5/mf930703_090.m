@@ -2524,7 +2524,10 @@
 <LM>w#w-mf930703-090-p11s1w15</LM>
 </w.rf>
 <form>image</form>
-<tag lemma="image" src="orig" selected="1">NNIXX-----A----</tag>
+<tag>
+<AM lemma="image" src="orig">NNIXX-----A----</AM>
+<AM lemma="image-2" src="manual" selected="1">NNIXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930703-090-p11s1w16">
 <src.rf>manual</src.rf>

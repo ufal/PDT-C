@@ -2182,12 +2182,7 @@
 <LM>w#w-vesm9303-048-p9s1w6</LM>
 </w.rf>
 <form>BYstrica</form>
-<tag lemma="Bystrica_;G" src="orig">NNFS1-----A----</tag>
-<comment>
-<LM type="New Form">
-<text>Bystrica</text>
-</LM>
-</comment>
+<tag lemma="Bystrica_;G" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-vesm9303-048-p9s1w7">
 <src.rf>manual</src.rf>
@@ -2222,7 +2217,8 @@
 <tag>
 <AM lemma="roč_:B_^(ročník)" src="orig">NNIXX-----A---8</AM>
 <AM lemma="ročník_:B" src="auto" recommended="1">NNIXX-----A---8</AM>
-<AM lemma="ročník" src="manual" selected="1">NNIXX-----A---8</AM>
+<AM lemma="ročník" src="manual">NNIXX-----A---8</AM>
+<AM lemma="ročník" src="manual" selected="1">NNIXX-----A---b</AM>
 </tag>
 </m>
 <m id="m-vesm9303-048-p9s1w11">

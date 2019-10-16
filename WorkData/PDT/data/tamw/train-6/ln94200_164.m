@@ -1895,18 +1895,10 @@
 </w.rf>
 <form>Carboly</form>
 <tag>
-<AM lemma="Carbola_;S" src="orig">NNMS2-----A----</AM>
+<AM lemma="Carbola_;S" src="orig" selected="1">NNMS2-----A----</AM>
 <AM lemma="Carbol_;S" src="auto" recommended="1">NNMP4-----A----</AM>
 <AM lemma="Carbol_;S" src="auto">NNMP7-----A----</AM>
 </tag>
-<comment>
-<LM type="New Form">
-<text>Carbola</text>
-</LM>
-<LM type="Other">
-<text>špatné skloňování - jmenuje se Carbol, ne Carbola, proto jsem opravil formu, jinak to nebude dávat smysl</text>
-</LM>
-</comment>
 </m>
 <m id="m-ln94200-164-p5s2w6">
 <src.rf>manual</src.rf>

@@ -660,14 +660,10 @@
 </w.rf>
 <form>ap</form>
 <tag>
-<AM lemma="ap-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</AM>
+<AM lemma="ap-99_:B_;S" src="orig">NNXXX-----A---8</AM>
 <AM lemma="apod_:B_^(a_podobně)" src="auto" recommended="1">Db------------9</AM>
+<AM lemma="ap-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
-<comment>
-<LM type="Other">
-<text>ponechána původní "červená" analýza (autorská zkratka)</text>
-</LM>
-</comment>
 </m>
 <m id="m-ln94200-17-p2s5w3">
 <src.rf>manual</src.rf>

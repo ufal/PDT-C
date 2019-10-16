@@ -1506,11 +1506,6 @@
 <AM lemma="Pixies_;K_,t" src="manual">NNXXX-----A----</AM>
 <AM lemma="Pixies_;K" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
-<comment>
-<LM type="Other">
-<text>nové lemma: cizí název + nový tag: nesklonné</text>
-</LM>
-</comment>
 </m>
 <m id="m-ln94204-106-p3s4w5">
 <src.rf>manual</src.rf>

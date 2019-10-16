@@ -934,14 +934,10 @@
 </w.rf>
 <form>mag</form>
 <tag>
-<AM lemma="mag-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</AM>
+<AM lemma="mag-99_:B_;S" src="orig">NNXXX-----A---8</AM>
 <AM lemma="magnituda-8_:B" src="auto" recommended="1">NNFXX-----A----</AM>
+<AM lemma="mag-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
-<comment>
-<LM type="Other">
-<text>ponechána původní "červená" analýza (autorská zkratka)</text>
-</LM>
-</comment>
 </m>
 <m id="m-ln94205-104-p2s7w3">
 <src.rf>manual</src.rf>

@@ -186,13 +186,9 @@
 <tag>
 <AM lemma="Fed_;Y" src="orig">NNMS1-----A----</AM>
 <AM lemma="Fed_:B" src="manual">NNXXX-----A---8</AM>
-<AM lemma="FED-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="FED-88_:B" src="manual">NNXXX-----A----</AM>
+<AM lemma="Fed-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
-<comment>
-<LM type="Other">
-<text>nová analýza: obecná zkratka</text>
-</LM>
-</comment>
 </m>
 <m id="m-ln95042-045-p2s1Bw11">
 <src.rf>manual</src.rf>
@@ -594,13 +590,9 @@
 <AM lemma="Fed_:B" src="auto">Xx-------------</AM>
 <AM lemma="Fed_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="FED_:B" src="manual">NNXXX-----A---8</AM>
-<AM lemma="FED-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="FED-88_:B" src="manual">NNXXX-----A----</AM>
+<AM lemma="Fed-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
-<comment>
-<LM type="Other">
-<text>nová analýza: obecná zkratka</text>
-</LM>
-</comment>
 </m>
 <m id="m-ln95042-045-p3s1w6">
 <src.rf>manual</src.rf>
@@ -1225,13 +1217,9 @@
 <AM lemma="Fed_:B" src="auto">Xx-------------</AM>
 <AM lemma="Fed_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="FED_:B" src="manual">NNXXX-----A---8</AM>
-<AM lemma="FED-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="FED-88_:B" src="manual">NNXXX-----A----</AM>
+<AM lemma="Fed-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
-<comment>
-<LM type="Other">
-<text>nová analýza: obecná zkratka</text>
-</LM>
-</comment>
 </m>
 <m id="m-ln95042-045-p4s2w3">
 <src.rf>manual</src.rf>

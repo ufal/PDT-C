@@ -1056,12 +1056,7 @@
 </w.rf>
 <form_change>num_normalization</form_change>
 <form>8970</form>
-<tag lemma="8970" src="orig">C=-------------</tag>
-<comment>
-<LM type="New Form">
-<text>8,970</text>
-</LM>
-</comment>
+<tag lemma="8970" src="orig" selected="1">C=-------------</tag>
 </m>
 <m id="m-mf930709-101-p2s8w9">
 <src.rf>manual</src.rf>
@@ -1129,12 +1124,7 @@
 </w.rf>
 <form_change>num_normalization</form_change>
 <form>9110</form>
-<tag lemma="9110" src="orig">C=-------------</tag>
-<comment>
-<LM type="New Form">
-<text>9,110</text>
-</LM>
-</comment>
+<tag lemma="9110" src="orig" selected="1">C=-------------</tag>
 </m>
 <m id="m-mf930709-101-p2s8w17">
 <src.rf>manual</src.rf>

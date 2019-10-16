@@ -67,12 +67,7 @@
 <LM>w#w-cmpr9417-030-p2s1w7</LM>
 </w.rf>
 <form>hŕŕŕ</form>
-<tag lemma="hŕŕŕ" src="orig">II-------------</tag>
-<comment>
-<LM type="New Form">
-<text>hrrr</text>
-</LM>
-</comment>
+<tag lemma="hŕŕŕ" src="orig" selected="1">II-------------</tag>
 </m>
 <m id="m-cmpr9417-030-p2s1w8">
 <src.rf>manual</src.rf>

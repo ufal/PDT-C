@@ -287,16 +287,12 @@
 </w.rf>
 <form>pin</form>
 <tag>
-<AM lemma="pin-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</AM>
+<AM lemma="pin-99_:B_;S" src="orig">NNXXX-----A---8</AM>
 <AM lemma="pin-1_^(špendlík,_v_čes._větách,_skloň.)" src="auto">NNIS1-----A----</AM>
 <AM lemma="pin-1_^(špendlík,_v_čes._větách,_skloň.)" src="auto">NNIS4-----A----</AM>
 <AM lemma="pin-2_,t_^(špendlík,_angl._neskl.)" src="auto" recommended="1">NNIXX-----A----</AM>
+<AM lemma="pin-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
-<comment>
-<LM type="Other">
-<text>ponechána původní "červená" analýza (autorská zkratka)</text>
-</LM>
-</comment>
 </m>
 <m id="m-ln94205-140-p2s4w3">
 <src.rf>manual</src.rf>

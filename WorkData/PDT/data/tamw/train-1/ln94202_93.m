@@ -28,14 +28,9 @@
 </w.rf>
 <form>Legoland</form>
 <tag>
-<AM lemma="Legoland_;G" src="orig">NNIS1-----A----</AM>
-<AM lemma="Legoland" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Legoland_;G" src="orig" selected="1">NNIS1-----A----</AM>
+<AM lemma="Legoland" src="manual">NNIS1-----A----</AM>
 </tag>
-<comment>
-<LM type="Other">
-<text>umazán ocásek _;G</text>
-</LM>
-</comment>
 </m>
 <m id="m-ln94202-93-p1s1w3">
 <src.rf>manual</src.rf>
@@ -2630,13 +2625,9 @@
 <form>Legoland</form>
 <tag>
 <AM lemma="Legoland_;G" src="orig">NNIS4-----A----</AM>
-<AM lemma="Legoland" src="manual" selected="1">NNIS4-----A----</AM>
+<AM lemma="Legoland" src="manual">NNIS4-----A----</AM>
+<AM lemma="Legoland_;G" src="manual" selected="1">NNIS4-----A----</AM>
 </tag>
-<comment>
-<LM type="Other">
-<text>umazán ocásek _;G</text>
-</LM>
-</comment>
 </m>
 <m id="m-ln94202-93-p4s3w9">
 <src.rf>manual</src.rf>

@@ -247,11 +247,6 @@
 <AM lemma="Man-2_;G_,t" src="manual">NNXXX-----A----</AM>
 <AM lemma="Man-77" src="manual" selected="1">F%-------------</AM>
 </tag>
-<comment>
-<LM type="Other">
-<text>nová analýza</text>
-</LM>
-</comment>
 </m>
 <m id="m-ln95043-089-p2s1Bw10">
 <src.rf>manual</src.rf>
@@ -7436,11 +7431,6 @@
 <AM lemma="ready_,t" src="manual">NNXXX-----A----</AM>
 <AM lemma="ready-77" src="manual" selected="1">F%-------------</AM>
 </tag>
-<comment>
-<LM type="Other">
-<text>nová analýza: cizí slovo</text>
-</LM>
-</comment>
 </m>
 <m id="m-ln95043-089-p12s3w17">
 <src.rf>manual</src.rf>
@@ -7454,11 +7444,6 @@
 <AM lemma="made_,t" src="manual">NNXXX-----A----</AM>
 <AM lemma="made-77" src="manual" selected="1">F%-------------</AM>
 </tag>
-<comment>
-<LM type="Other">
-<text>analýza z online slovníku pro pdt-c</text>
-</LM>
-</comment>
 </m>
 <m id="m-ln95043-089-p12s3w18">
 <src.rf>manual</src.rf>
@@ -7471,11 +7456,6 @@
 <AM lemma="names_,t" src="manual">NNXXX-----A----</AM>
 <AM lemma="names-77" src="manual" selected="1">F%-------------</AM>
 </tag>
-<comment>
-<LM type="Other">
-<text>nová analýza: cizí slovo</text>
-</LM>
-</comment>
 </m>
 <m id="m-ln95043-089-p12s3w19">
 <src.rf>manual</src.rf>
@@ -8349,11 +8329,6 @@
 <AM lemma="Dutch-2_;K_,t" src="manual">NNXXX-----A----</AM>
 <AM lemma="Dutch-77" src="manual" selected="1">F%-------------</AM>
 </tag>
-<comment>
-<LM type="Other">
-<text>nová analýza: cizí slovo</text>
-</LM>
-</comment>
 </m>
 <m id="m-ln95043-089-p15s1w21">
 <src.rf>manual</src.rf>
@@ -8374,11 +8349,6 @@
 <AM lemma="shell_,t" src="manual">NNXXX-----A----</AM>
 <AM lemma="Shell-77" src="manual" selected="1">F%-------------</AM>
 </tag>
-<comment>
-<LM type="Other">
-<text>nová analýza: cizí slovo</text>
-</LM>
-</comment>
 </m>
 <m id="m-ln95043-089-p15s1w23">
 <src.rf>manual</src.rf>
@@ -8477,11 +8447,6 @@
 <AM lemma="Handlowy_,t" src="manual">NNXXX-----A----</AM>
 <AM lemma="Handlowy-77" src="manual" selected="1">F%-------------</AM>
 </tag>
-<comment>
-<LM type="Other">
-<text>nová analýza: cizí slovo</text>
-</LM>
-</comment>
 </m>
 <m id="m-ln95043-089-p15s1w34">
 <src.rf>manual</src.rf>
@@ -8496,11 +8461,6 @@
 <AM lemma="w_,t" src="manual">NNXXX-----A----</AM>
 <AM lemma="w-77" src="manual" selected="1">F%-------------</AM>
 </tag>
-<comment>
-<LM type="Other">
-<text>nová analýza: cizí slovo</text>
-</LM>
-</comment>
 </m>
 <m id="m-ln95043-089-p15s1w35">
 <src.rf>manual</src.rf>
@@ -8513,11 +8473,6 @@
 <AM lemma="Warszawa_;G_,t" src="manual">NNXXX-----A----</AM>
 <AM lemma="Warszawie-77" src="manual" selected="1">F%-------------</AM>
 </tag>
-<comment>
-<LM type="Other">
-<text>nová analýza: cizí slovo</text>
-</LM>
-</comment>
 </m>
 <m id="m-ln95043-089-p15s1w36">
 <src.rf>manual</src.rf>

@@ -1092,7 +1092,10 @@
 <LM>w#w-ln95049-114-p2s7w3</LM>
 </w.rf>
 <form>málo</form>
-<tag lemma="málo-1_^(málo_+_2._p.,_málo_peněz)" src="orig" selected="1">Ca--1----------</tag>
+<tag>
+<AM lemma="málo-1_^(málo_+_2._p.,_málo_peněz)" src="orig">Ca--1----------</AM>
+<AM lemma="málo-1_^(málo_peněz)" src="manual" selected="1">Ca--1----------</AM>
+</tag>
 </m>
 <m id="m-ln95049-114-p2s7w4">
 <src.rf>manual</src.rf>
@@ -1172,12 +1175,10 @@
 <LM>w#w-ln95049-114-p2s7w13</LM>
 </w.rf>
 <form>málo</form>
-<tag lemma="málo-3_^(málo_+_příd._jm.,_př._byl_málo_důsledný)" src="orig" selected="1">Dg-------1A----</tag>
-<comment>
-<LM type="Other">
-<text>tady by asi bylo nejlepší to opravit na málokdy (pokud tedy jde vymazat mezera mezi slovy, jinak to málo nebude moc sedět)</text>
-</LM>
-</comment>
+<tag>
+<AM lemma="málo-3_^(málo_+_příd._jm.,_př._byl_málo_důsledný)" src="orig">Dg-------1A----</AM>
+<AM lemma="málo-3_^(málo_důsledný)" src="manual" selected="1">Dg-------1A----</AM>
+</tag>
 </m>
 <m id="m-ln95049-114-p2s7w14">
 <src.rf>manual</src.rf>

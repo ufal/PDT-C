@@ -4226,7 +4226,10 @@
 <LM>w#w-ln94201-107-p7s6w12</LM>
 </w.rf>
 <form>Gregorio</form>
-<tag lemma="Gregorio_;Y_,t" src="auto" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Gregorio_;Y_,t" src="auto">NNMS1-----A----</AM>
+<AM lemma="Gregorio_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94201-107-p7s6w13">
 <src.rf>manual</src.rf>

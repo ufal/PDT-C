@@ -827,11 +827,6 @@
 <AM lemma="Trubská_;G_^(obec)" src="auto">NNFS3-----A---6</AM>
 <AM lemma="Trubská_;G_^(obec)" src="auto">NNFS6-----A---6</AM>
 </tag>
-<comment>
-<LM type="Other">
-<text>ponechána původní "červená" analýza</text>
-</LM>
-</comment>
 </m>
 <m id="m-ln94209-41-p3s3Bw10">
 <src.rf>manual</src.rf>
@@ -856,8 +851,8 @@
 </w.rf>
 <form>Klášter</form>
 <tag>
-<AM lemma="Klášter_;G" src="orig">NNIS1-----A----</AM>
-<AM lemma="klášter" src="auto" recommended="1" selected="1">NNIS1-----A----</AM>
+<AM lemma="Klášter_;G" src="orig" selected="1">NNIS1-----A----</AM>
+<AM lemma="klášter" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="klášter" src="auto">NNIS4-----A----</AM>
 </tag>
 </m>

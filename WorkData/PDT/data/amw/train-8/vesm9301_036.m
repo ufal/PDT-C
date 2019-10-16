@@ -14296,11 +14296,6 @@
 <AM lemma="jakoby-2" src="orig" selected="1">Db-------------</AM>
 <AM lemma="jakoby" src="auto" recommended="1">J,-------------</AM>
 </tag>
-<comment>
-<LM type="Other">
-<text>analýza z online morphodity</text>
-</LM>
-</comment>
 </m>
 <m id="m-vesm9301-036-p21s1w90">
 <src.rf>manual</src.rf>

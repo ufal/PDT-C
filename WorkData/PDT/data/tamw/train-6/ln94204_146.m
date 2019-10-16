@@ -422,13 +422,9 @@
 <tag>
 <AM lemma="hodně-2" src="auto">Dg-------3A---1</AM>
 <AM lemma="nejvíce_^(nejvíce_+_2._p.,_nejvíce_peněz)" src="manual">Ca--4----------</AM>
-<AM lemma="nejvíce_^(nejvíce_+_2._p.,_nejvíce_peněz)" src="manual" selected="1">Ca--4---------1</AM>
+<AM lemma="nejvíce_^(nejvíce_+_2._p.,_nejvíce_peněz)" src="manual">Ca--4---------1</AM>
+<AM lemma="hodně-3" src="manual" selected="1">Dg-------3A---1</AM>
 </tag>
-<comment>
-<LM type="Other">
-<text>opět má být v tagu na konci 1, ale nelze vytvořit</text>
-</LM>
-</comment>
 </m>
 <m id="m-ln94204-146-p2s4w2">
 <src.rf>manual</src.rf>

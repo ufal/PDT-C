@@ -155,11 +155,6 @@
 <AM lemma="novum" src="auto">NNNP2-----A----</AM>
 <AM lemma="nov-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
-<comment>
-<LM type="Other">
-<text>podle informací v mailu jsem vybral červenou analýzu, která odpovídá instrukcím</text>
-</LM>
-</comment>
 </m>
 <m id="m-ln94210-113-p2s1Bw6">
 <src.rf>manual</src.rf>

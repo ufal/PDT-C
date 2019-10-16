@@ -540,16 +540,9 @@
 <tag>
 <AM lemma="Animo_;R_,t" src="orig">NNNS1-----A----</AM>
 <AM lemma="Anima_;K" src="auto" recommended="1">NNFS5-----A----</AM>
-<AM lemma="Animo_;R" src="manual" selected="1">NNNS1-----A----</AM>
+<AM lemma="Animo_;R" src="manual">NNNS1-----A----</AM>
+<AM lemma="Animo_;K_;R" src="manual" selected="1">NNNS1-----A----</AM>
 </tag>
-<comment>
-<LM type="Other">
-<text>navrhovaná zelená analýza podle mě nedává smysl (určuje to jako vokativ)</text>
-</LM>
-<LM type="Other">
-<text>ponech. červená analýza (odpověď na dotaz)</text>
-</LM>
-</comment>
 </m>
 <m id="m-mf930713-035-p3s1w56">
 <src.rf>manual</src.rf>
@@ -615,7 +608,8 @@
 <form>amer</form>
 <tag>
 <AM lemma="americký_:B" src="auto">AAXXX----1A---8</AM>
-<AM lemma="americký" src="manual" selected="1">AAXXX----1A---8</AM>
+<AM lemma="americký" src="manual">AAXXX----1A---8</AM>
+<AM lemma="americký" src="manual" selected="1">AAXXX----1A---b</AM>
 </tag>
 </m>
 <m id="m-mf930713-035-p3s1w64">
@@ -682,7 +676,8 @@
 <form>amer</form>
 <tag>
 <AM lemma="americký_:B" src="auto">AAXXX----1A---8</AM>
-<AM lemma="americký" src="manual" selected="1">AAXXX----1A---8</AM>
+<AM lemma="americký" src="manual">AAXXX----1A---8</AM>
+<AM lemma="americký" src="manual" selected="1">AAXXX----1A---b</AM>
 </tag>
 </m>
 <m id="m-mf930713-035-p3s1w72">
@@ -782,7 +777,8 @@
 <form>ital</form>
 <tag>
 <AM lemma="italský_:B" src="orig">AAXXX----1A----</AM>
-<AM lemma="italský" src="manual" selected="1">AAXXX----1A---8</AM>
+<AM lemma="italský" src="manual">AAXXX----1A---8</AM>
+<AM lemma="italský" src="manual" selected="1">AAXXX----1A---b</AM>
 </tag>
 </m>
 <m id="m-mf930713-035-p3s1w84">
@@ -803,13 +799,9 @@
 <AM lemma="kriminální_:B" src="orig">AAXXX----1A---8</AM>
 <AM lemma="krim_,l_^(kriminál)" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="krim_,l_^(kriminál)" src="auto">NNIS4-----A----</AM>
-<AM lemma="kriminální" src="manual" selected="1">AAXXX----1A---8</AM>
+<AM lemma="kriminální" src="manual">AAXXX----1A---8</AM>
+<AM lemma="kriminální" src="manual" selected="1">AAXXX----1A---b</AM>
 </tag>
-<comment>
-<LM type="Other">
-<text>podle instrukcí v manuálu</text>
-</LM>
-</comment>
 </m>
 <m id="m-mf930713-035-p3s1w86">
 <src.rf>manual</src.rf>
@@ -1017,7 +1009,8 @@
 <tag>
 <AM lemma="Animo_;R_,t" src="orig">NNNS1-----A----</AM>
 <AM lemma="Anima_;K" src="auto" recommended="1">NNFS5-----A----</AM>
-<AM lemma="Animo_;R" src="manual" selected="1">NNNS1-----A----</AM>
+<AM lemma="Animo_;R" src="manual">NNNS1-----A----</AM>
+<AM lemma="Animo_;K_;R" src="manual" selected="1">NNNS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930713-035-p5s1w20">

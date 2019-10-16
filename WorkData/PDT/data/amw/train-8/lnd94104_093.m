@@ -269,11 +269,6 @@
 <AM lemma="maison_,t" src="manual">NNXXX-----A----</AM>
 <AM lemma="Maison-77" src="manual" selected="1">F%-------------</AM>
 </tag>
-<comment>
-<LM type="Other">
-<text>nová analýza: cizí slovo</text>
-</LM>
-</comment>
 </m>
 <m id="m-lnd94104-093-p1s1Dw21">
 <src.rf>manual</src.rf>
@@ -286,11 +281,6 @@
 <AM lemma="rouge_,t" src="manual">AAXXX----1A----</AM>
 <AM lemma="rouge-77" src="manual" selected="1">F%-------------</AM>
 </tag>
-<comment>
-<LM type="Other">
-<text>nová analýza: cizí slovo</text>
-</LM>
-</comment>
 </m>
 <m id="m-lnd94104-093-p1s1Dw22">
 <src.rf>manual</src.rf>
@@ -303,11 +293,6 @@
 <AM lemma="studios_,t" src="manual">NNXXX-----A----</AM>
 <AM lemma="studios-77" src="manual" selected="1">F%-------------</AM>
 </tag>
-<comment>
-<LM type="Other">
-<text>nová analýza: cizí slovo</text>
-</LM>
-</comment>
 </m>
 <m id="m-lnd94104-093-p1s1Dw23">
 <src.rf>manual</src.rf>
@@ -458,11 +443,6 @@
 <AM lemma="some_,t" src="manual">AAXXX----1A----</AM>
 <AM lemma="Some-77" src="manual" selected="1">F%-------------</AM>
 </tag>
-<comment>
-<LM type="Other">
-<text>nová analýza: cizí slovo</text>
-</LM>
-</comment>
 </m>
 <m id="m-lnd94104-093-p1s2w18">
 <src.rf>manual</src.rf>
@@ -478,11 +458,6 @@
 <AM lemma="day_,t" src="manual">NNXXX-----A----</AM>
 <AM lemma="Day-77" src="manual" selected="1">F%-------------</AM>
 </tag>
-<comment>
-<LM type="Other">
-<text>nová analýza: cizí slovo</text>
-</LM>
-</comment>
 </m>
 <m id="m-lnd94104-093-p1s2w19">
 <src.rf>manual</src.rf>
@@ -554,11 +529,6 @@
 <AM lemma="by_,t" src="manual">NNXXX-----A----</AM>
 <AM lemma="By-77" src="manual" selected="1">F%-------------</AM>
 </tag>
-<comment>
-<LM type="Other">
-<text>nová analýza: cizí slovo</text>
-</LM>
-</comment>
 </m>
 <m id="m-lnd94104-093-p1s2w27">
 <src.rf>manual</src.rf>
@@ -776,18 +746,13 @@
 </w.rf>
 <form>Boy</form>
 <tag>
-<AM lemma="Boy_;Y" src="orig">NNMXX-----A----</AM>
+<AM lemma="Boy_;Y" src="orig" selected="1">NNMXX-----A----</AM>
 <AM lemma="Bo_;Y_,t" src="auto">NNMP4-----A----</AM>
 <AM lemma="Bo_;Y_,t" src="auto" recommended="1">NNMP7-----A----</AM>
 <AM lemma="boy_,t" src="auto">NNMS1-----A----</AM>
 <AM lemma="Boy_;Y_,t" src="manual">NNMXX-----A----</AM>
-<AM lemma="Boy-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="Boy-77" src="manual">F%-------------</AM>
 </tag>
-<comment>
-<LM type="Other">
-<text>nová analýza: cizí jméno</text>
-</LM>
-</comment>
 </m>
 <m id="m-lnd94104-093-p1s4Aw12">
 <src.rf>manual</src.rf>
@@ -797,13 +762,9 @@
 <form>Georgem</form>
 <tag>
 <AM lemma="George_;Y_,t" src="orig">NNMS7-----A----</AM>
-<AM lemma="George-2_;S" src="manual" selected="1">NNMS7-----A----</AM>
+<AM lemma="George-2_;S" src="manual">NNMS7-----A----</AM>
+<AM lemma="George_;Y" src="manual" selected="1">NNMS7-----A----</AM>
 </tag>
-<comment>
-<LM type="Other">
-<text>nová analýza: příjmení</text>
-</LM>
-</comment>
 </m>
 <m id="m-lnd94104-093-p1s4Aw13">
 <src.rf>manual</src.rf>
@@ -2165,11 +2126,6 @@
 <AM lemma="Belmondo_;S" src="auto">NNMS5-----A----</AM>
 <AM lemma="Belmondo-2_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
-<comment>
-<LM type="Other">
-<text>nová analýza</text>
-</LM>
-</comment>
 </m>
 <m id="m-lnd94104-093-p1s11w11">
 <src.rf>manual</src.rf>

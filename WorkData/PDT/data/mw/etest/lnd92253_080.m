@@ -212,12 +212,10 @@
 <LM>w#w-lnd92253-080-p3s2w1</LM>
 </w.rf>
 <form>Borussie</form>
-<tag lemma="Borussia_;K" src="auto">NNFS5-----A----</tag>
-<comment>
-<LM type="New Form">
-<text>Borussia</text>
-</LM>
-</comment>
+<tag>
+<AM lemma="Borussia_;K" src="auto">NNFS5-----A----</AM>
+<AM lemma="Borussia_;K" src="manual" selected="1">NNFS1-----A---1</AM>
+</tag>
 </m>
 <m id="m-lnd92253-080-p3s2w2">
 <src.rf>manual</src.rf>
@@ -226,8 +224,8 @@
 </w.rf>
 <form>Mönchengladbach</form>
 <tag>
-<AM lemma="Mönchengladbach_;G" src="orig">NNIS1-----A----</AM>
-<AM lemma="Mönchengladbach-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="Mönchengladbach_;G" src="orig" selected="1">NNIS1-----A----</AM>
+<AM lemma="Mönchengladbach-77" src="manual">F%-------------</AM>
 </tag>
 </m>
 <m id="m-lnd92253-080-p3s2w3">

@@ -32,13 +32,9 @@
 <AM lemma="gen" src="auto">NNIS1-----A----</AM>
 <AM lemma="gen" src="auto">NNIS4-----A----</AM>
 <AM lemma="generál_:B" src="auto" recommended="1">NNMXX-----A---8</AM>
-<AM lemma="generální" src="manual" selected="1">AAXXX----1A---8</AM>
+<AM lemma="generální" src="manual">AAXXX----1A---8</AM>
+<AM lemma="generální" src="manual" selected="1">AAXXX----1A---b</AM>
 </tag>
-<comment>
-<LM type="Other">
-<text>podle instrukcí</text>
-</LM>
-</comment>
 </m>
 <m id="m-ln94210-72-p1s1Aw3">
 <src.rf>manual</src.rf>
@@ -206,7 +202,10 @@
 <LM>w#w-ln94210-72-p1s1Bw2</LM>
 </w.rf>
 <form>Pavel</form>
-<tag lemma="Pavel-1_;Y" src="orig" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Pavel-1_;Y" src="orig">NNMS1-----A----</AM>
+<AM lemma="Pavel_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94210-72-p1s1Bw3">
 <src.rf>manual</src.rf>
@@ -232,7 +231,8 @@
 <form>LN</form>
 <tag>
 <AM lemma="LN-1_:B_;R_^(Lidové_noviny,_deník)" src="orig">NNFPX-----A---8</AM>
-<AM lemma="LN-1_:B_;K_;R_^(Lidové_noviny)" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="LN-1_:B_;K_;R_^(Lidové_noviny)" src="manual">NNXXX-----A---8</AM>
+<AM lemma="LN-1_:B_;K_;R_^(Lidové_noviny)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 </s>

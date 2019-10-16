@@ -346,11 +346,6 @@
 <AM lemma="Joao_;G" src="auto">NNNS4-----A----</AM>
 <AM lemma="Joao_;G" src="auto">NNNS5-----A----</AM>
 </tag>
-<comment>
-<LM type="Other">
-<text>podle instrukcí</text>
-</LM>
-</comment>
 </m>
 <m id="m-ln95049-027-p2s2w12">
 <src.rf>manual</src.rf>

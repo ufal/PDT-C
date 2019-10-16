@@ -1517,13 +1517,9 @@
 <form>nonstop</form>
 <tag>
 <AM lemma="nonstop-2" src="auto">NNIS4-----A----</AM>
-<AM lemma="nonstop-3" src="manual" selected="1">AAXXX----1A----</AM>
+<AM lemma="nonstop-3" src="manual">AAXXX----1A----</AM>
+<AM lemma="nonstop-1" src="manual" selected="1">Db-------------</AM>
 </tag>
-<comment>
-<LM type="Other">
-<text>přidat nové lemma pro adjektivum? "nonstop trénink"</text>
-</LM>
-</comment>
 </m>
 <m id="m-mf930708-122-p5s1w7">
 <src.rf>manual</src.rf>

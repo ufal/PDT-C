@@ -59,11 +59,6 @@
 <AM lemma="ce-99_:B_;S" src="manual">N%XXX-----A---8</AM>
 <AM lemma="ce-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
-<comment>
-<LM type="Other">
-<text>vytvořen nový tag</text>
-</LM>
-</comment>
 </m>
 <m id="m-ln94204-41-p2s1Aw4">
 <src.rf>manual</src.rf>

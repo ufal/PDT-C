@@ -161,14 +161,11 @@
 </w.rf>
 <form>and</form>
 <tag>
-<AM lemma="and-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</AM>
+<AM lemma="and-99_:B_;S" src="orig">NNXXX-----A---8</AM>
 <AM lemma="and-1_,t_^(obv._souč._anglických_názvů,_&quot;a&quot;)" src="auto" recommended="1">J^-------------</AM>
+<AM lemma="and-99_:B_;S" src="manual">NNXXX-----A---b</AM>
+<AM lemma="and-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
-<comment>
-<LM type="Other">
-<text>ponechána původní "červená" analýza (autorská zkratka)</text>
-</LM>
-</comment>
 </m>
 <m id="m-ln94204-124-p2s1Bw4">
 <src.rf>manual</src.rf>
@@ -184,7 +181,10 @@
 <LM>w#w-ln94204-124-p2s1Bw5</LM>
 </w.rf>
 <form>ber</form>
-<tag lemma="ber-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="ber-99_:B_;S" src="orig">NNXXX-----A---8</AM>
+<AM lemma="ber-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94204-124-p2s1Bw6">
 <src.rf>manual</src.rf>
@@ -201,19 +201,15 @@
 </w.rf>
 <form>č</form>
 <tag>
-<AM lemma="č-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</AM>
+<AM lemma="č-99_:B_;S" src="orig">NNXXX-----A---8</AM>
 <AM lemma="č-3_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
 <AM lemma="č-8_:B_^(ost._zkratka)" src="auto">XX------------8</AM>
 <AM lemma="ča_^(ča-ča)" src="auto">NNFP2-----A----</AM>
 <AM lemma="čas_:B_^(př._t._č.)" src="auto">NNIXX-----A---8</AM>
 <AM lemma="český_:B" src="auto">AAXXX----1A---8</AM>
 <AM lemma="číslo_:B" src="auto" recommended="1">NNNXX-----A---8</AM>
+<AM lemma="č-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
-<comment>
-<LM type="Other">
-<text>ponechána původní "červená" analýza (autorská zkratka)</text>
-</LM>
-</comment>
 </m>
 <m id="m-ln94204-124-p2s1Bw8">
 <src.rf>manual</src.rf>

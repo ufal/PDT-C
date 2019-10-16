@@ -2063,12 +2063,7 @@
 <LM>w#w-mf930701-056-p7s2w1</LM>
 </w.rf>
 <form>Imisemi</form>
-<tag lemma="imise" src="orig">NNFP7-----A----</tag>
-<comment>
-<LM type="New Form">
-<text>Emisemi</text>
-</LM>
-</comment>
+<tag lemma="imise" src="orig" selected="1">NNFP7-----A----</tag>
 </m>
 <m id="m-mf930701-056-p7s2w2">
 <src.rf>manual</src.rf>

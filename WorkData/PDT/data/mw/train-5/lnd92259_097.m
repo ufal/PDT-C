@@ -6929,7 +6929,8 @@
 <form>D</form>
 <tag>
 <AM lemma="D-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="D-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="D-88_:B" src="manual">NNXXX-----A---8</AM>
+<AM lemma="D-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92259-097-p10s4w3">
@@ -7042,12 +7043,7 @@
 <LM>w#w-lnd92259-097-p10s4w16</LM>
 </w.rf>
 <form>navíc</form>
-<tag lemma="navíc" src="orig">Db-------------</tag>
-<comment>
-<LM type="New Form">
-<text>na víc</text>
-</LM>
-</comment>
+<tag lemma="navíc" src="orig" selected="1">Db-------------</tag>
 </m>
 <m id="m-lnd92259-097-p10s4w17">
 <src.rf>manual</src.rf>

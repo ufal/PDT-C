@@ -365,14 +365,10 @@
 <form>Thyssen</form>
 <tag>
 <AM lemma="Thyssen_;K" src="orig">NNIS1-----A----</AM>
-<AM lemma="Thyssen_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Thyssen_;K" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="Thyssen_;S" src="auto" recommended="1" selected="1">NNMS1-----A----</AM>
+<AM lemma="Thyssen_;K" src="manual">NNXXX-----A----</AM>
+<AM lemma="Thyssen-2_;K" src="manual">NNIS1-----A----</AM>
 </tag>
-<comment>
-<LM type="Other">
-<text>analýza z online slovníku pro pdt-c</text>
-</LM>
-</comment>
 </m>
 <m id="m-mf920923-015-p2s1w36">
 <src.rf>manual</src.rf>

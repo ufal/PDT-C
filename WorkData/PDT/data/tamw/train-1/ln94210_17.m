@@ -694,14 +694,10 @@
 </w.rf>
 <form>Breguet</form>
 <tag>
-<AM lemma="Breguet_;K" src="orig" selected="1">NNIS1-----A----</AM>
+<AM lemma="Breguet_;K" src="orig">NNIS1-----A----</AM>
 <AM lemma="Breguet_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Breguet-2_;K" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
-<comment>
-<LM type="Other">
-<text>ponechána původní "červená" analýza</text>
-</LM>
-</comment>
 </m>
 <m id="m-ln94210-17-p3s2w20">
 <src.rf>manual</src.rf>
@@ -835,14 +831,10 @@
 </w.rf>
 <form>Breguet</form>
 <tag>
-<AM lemma="Breguet_;K" src="orig" selected="1">NNIS1-----A----</AM>
+<AM lemma="Breguet_;K" src="orig">NNIS1-----A----</AM>
 <AM lemma="Breguet_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Breguet-2_;K" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
-<comment>
-<LM type="Other">
-<text>ponechána původní "červená" analýza</text>
-</LM>
-</comment>
 </m>
 <m id="m-ln94210-17-p4s1w5">
 <src.rf>manual</src.rf>

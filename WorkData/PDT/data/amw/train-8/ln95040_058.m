@@ -487,11 +487,6 @@
 <AM lemma="benešovský" src="auto">AANP4----1A----</AM>
 <AM lemma="benešovský" src="auto">AANP5----1A----</AM>
 </tag>
-<comment>
-<LM type="Other">
-<text>ponechána původní analýza</text>
-</LM>
-</comment>
 </m>
 <m id="m-ln95040-058-p2s2w19">
 <src.rf>manual</src.rf>
@@ -4206,14 +4201,10 @@
 </w.rf>
 <form>středo</form>
 <tag>
-<AM lemma="střední" src="orig" selected="1">A2--------A----</AM>
+<AM lemma="střední" src="orig">A2--------A----</AM>
 <AM lemma="středa" src="auto" recommended="1">NNFS5-----A----</AM>
+<AM lemma="středo" src="manual" selected="1">S2--------A----</AM>
 </tag>
-<comment>
-<LM type="Other">
-<text>ponechána původní analýza</text>
-</LM>
-</comment>
 </m>
 <m id="m-ln95040-058-p2s18Aw6">
 <src.rf>manual</src.rf>

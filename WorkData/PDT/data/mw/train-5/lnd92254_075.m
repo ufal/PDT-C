@@ -482,14 +482,9 @@
 </w.rf>
 <form>Alfa</form>
 <tag>
-<AM lemma="Alfa_;K_;R_^(vozidlo)" src="auto">NNFS1-----A----</AM>
-<AM lemma="Alfa_;K_;R" src="manual" selected="1">NNFS1-----A----</AM>
+<AM lemma="Alfa_;K_;R_^(vozidlo)" src="auto" selected="1">NNFS1-----A----</AM>
+<AM lemma="Alfa_;K_;R" src="manual">NNFS1-----A----</AM>
 </tag>
-<comment>
-<LM type="Other">
-<text>návrh na vymazání poznámky - zde nejde o vozidlo, ale o kino</text>
-</LM>
-</comment>
 </m>
 <m id="m-lnd92254-075-p3s5w7">
 <src.rf>manual</src.rf>

@@ -3192,12 +3192,10 @@
 <LM>w#w-lnd92256-039-p5s7w7</LM>
 </w.rf>
 <form>znečistěno</form>
-<tag lemma="znečistit" src="orig" selected="1">VsNS---XX-AP---</tag>
-<comment>
-<LM type="Other">
-<text>Na 15. pozici v tagu má být 1: znečištěno znečistit VsNS---XX-AP--- vs. znečistěno znečistit VsNS---XX-AP--1</text>
-</LM>
-</comment>
+<tag>
+<AM lemma="znečistit" src="orig">VsNS---XX-AP---</AM>
+<AM lemma="znečistit" src="manual" selected="1">VsNS----X-APP-1</AM>
+</tag>
 </m>
 <m id="m-lnd92256-039-p5s7w8">
 <src.rf>manual</src.rf>

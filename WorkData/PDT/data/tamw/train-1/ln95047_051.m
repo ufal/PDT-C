@@ -1687,11 +1687,6 @@
 <AM lemma="Kvita_;S" src="auto">NNMP7-----A----</AM>
 <AM lemma="Kvita_;S" src="auto" recommended="1">NNMS2-----A----</AM>
 </tag>
-<comment>
-<LM type="Other">
-<text>ponechána původní "červená" analýza</text>
-</LM>
-</comment>
 </m>
 <m id="m-ln95047-051-p4s1w13">
 <src.rf>manual</src.rf>

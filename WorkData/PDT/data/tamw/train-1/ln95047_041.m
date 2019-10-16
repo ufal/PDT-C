@@ -174,19 +174,15 @@
 </w.rf>
 <form>Roxy</form>
 <tag>
-<AM lemma="Roxy_;K" src="orig" selected="1">NNNXX-----A----</AM>
+<AM lemma="Roxy_;K" src="orig">NNNXX-----A----</AM>
 <AM lemma="Roxa_;G" src="auto">NNFP1-----A----</AM>
 <AM lemma="Roxa_;G" src="auto">NNFP4-----A----</AM>
 <AM lemma="Roxa_;G" src="auto">NNFP5-----A----</AM>
 <AM lemma="Roxa_;G" src="auto">NNFS2-----A----</AM>
 <AM lemma="Roxy_;Y_,t" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Roxy_;Y_,t" src="auto">NNMS5-----A----</AM>
+<AM lemma="Roxy-2_;K" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
-<comment>
-<LM type="Other">
-<text>ponechána původní "červená" analýza</text>
-</LM>
-</comment>
 </m>
 <m id="m-ln95047-041-p2s1w20">
 <src.rf>manual</src.rf>

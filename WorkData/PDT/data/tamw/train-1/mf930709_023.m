@@ -86,11 +86,6 @@
 <AM lemma="li-2" src="auto">J,-------------</AM>
 <AM lemma="li-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
-<comment>
-<LM type="Other">
-<text>podle instrukcí v mailu</text>
-</LM>
-</comment>
 </m>
 <m id="m-mf930709-023-p2s1Aw4">
 <src.rf>manual</src.rf>

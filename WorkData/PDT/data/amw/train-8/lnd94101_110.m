@@ -1285,11 +1285,6 @@
 <AM lemma="PS-3_:B" src="manual">NNXXX-----A---8</AM>
 <AM lemma="PS-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
-<comment>
-<LM type="Other">
-<text>nová analýza: obecná zkratka</text>
-</LM>
-</comment>
 </m>
 <m id="m-lnd94101-110-p1s9w2">
 <src.rf>manual</src.rf>
@@ -1391,11 +1386,6 @@
 <AM lemma="Buenos_;G" src="manual">NNXXX-----A----</AM>
 <AM lemma="Buenos-77" src="manual" selected="1">F%-------------</AM>
 </tag>
-<comment>
-<LM type="Other">
-<text>analýza z online slovníku pdt-c</text>
-</LM>
-</comment>
 </m>
 <m id="m-lnd94101-110-p1s9w14">
 <src.rf>manual</src.rf>
@@ -1510,11 +1500,6 @@
 <AM lemma="PS-3_:B" src="manual">NNXXX-----A---8</AM>
 <AM lemma="PS-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
-<comment>
-<LM type="Other">
-<text>nová analýza: obecná zkratka</text>
-</LM>
-</comment>
 </m>
 <m id="m-lnd94101-110-p1s10w4">
 <src.rf>manual</src.rf>
@@ -2153,11 +2138,6 @@
 <AM lemma="horizonte_,t" src="manual">NNXXX-----A----</AM>
 <AM lemma="Horizonte-77" src="manual" selected="1">F%-------------</AM>
 </tag>
-<comment>
-<LM type="Other">
-<text>nová analýza: cizí slovo</text>
-</LM>
-</comment>
 </m>
 <m id="m-lnd94101-110-p1s14w14">
 <src.rf>manual</src.rf>
@@ -2753,11 +2733,6 @@
 <AM lemma="Maister-2_;K_,t" src="manual">NNXXX-----A----</AM>
 <AM lemma="Maister-77" src="manual" selected="1">F%-------------</AM>
 </tag>
-<comment>
-<LM type="Other">
-<text>nová analýza: cizí název</text>
-</LM>
-</comment>
 </m>
 <m id="m-lnd94101-110-p1s19Aw13">
 <src.rf>manual</src.rf>

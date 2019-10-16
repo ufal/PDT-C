@@ -495,12 +495,8 @@
 <AM lemma="Corneille_;S" src="orig">NNMS2-----A----</AM>
 <AM lemma="Corneille_;S" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Corneille_;S" src="auto">NNMS5-----A----</AM>
+<AM lemma="Corneille_;S" src="manual" selected="1">NNMXX-----A----</AM>
 </tag>
-<comment>
-<LM type="New Form">
-<text>Corneilla</text>
-</LM>
-</comment>
 </m>
 <m id="m-ln94209-70-p2s2w12">
 <src.rf>manual</src.rf>

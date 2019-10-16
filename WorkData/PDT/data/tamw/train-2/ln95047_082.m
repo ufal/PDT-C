@@ -925,11 +925,6 @@
 <AM lemma="Ivanko_;S" src="orig" selected="1">NNMS2-----A----</AM>
 <AM lemma="Ivanka_;Y_^(*2)" src="auto" recommended="1">NNFS1-----A----</AM>
 </tag>
-<comment>
-<LM type="Other">
-<text>podle instrukcí</text>
-</LM>
-</comment>
 </m>
 <m id="m-ln95047-082-p2s6w5">
 <src.rf>manual</src.rf>

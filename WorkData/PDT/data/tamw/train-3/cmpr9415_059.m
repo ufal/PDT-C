@@ -1326,12 +1326,7 @@
 <LM>w#w-cmpr9415-059-p8s1w17</LM>
 </w.rf>
 <form>LAllier</form>
-<tag lemma="LAllier_;S" src="orig">NNMS1-----A----</tag>
-<comment>
-<LM type="New Form">
-<text>L'Allier</text>
-</LM>
-</comment>
+<tag lemma="LAllier_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-cmpr9415-059-p8s1w18">
 <src.rf>manual</src.rf>
@@ -1363,7 +1358,10 @@
 <LM>w#w-cmpr9415-059-p8s1w21</LM>
 </w.rf>
 <form>Québec</form>
-<tag lemma="Québec_;G" src="orig" selected="1">NNIS1-----A---1</tag>
+<tag>
+<AM lemma="Québec_;G" src="orig">NNIS1-----A---1</AM>
+<AM lemma="Québec_;G_,s_^(^DD**Quebec)" src="manual" selected="1">NNIS1-----A---1</AM>
+</tag>
 </m>
 <m id="m-cmpr9415-059-p8s1w22">
 <src.rf>manual</src.rf>

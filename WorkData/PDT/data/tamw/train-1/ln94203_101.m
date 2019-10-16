@@ -1740,7 +1740,8 @@
 <form>WC</form>
 <tag>
 <AM lemma="WC_:B" src="orig">NNNXX-----A---8</AM>
-<AM lemma="WC-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="WC-88_:B" src="manual">NNXXX-----A----</AM>
+<AM lemma="WC" src="manual" selected="1">NNNXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94203-101-p3s5w25">
@@ -1987,11 +1988,6 @@
 <AM lemma="máť_,s" src="auto">NNFS6-----A----</AM>
 <AM lemma="máť" src="auto" recommended="1">NNFSX-----A----</AM>
 </tag>
-<comment>
-<LM type="Other">
-<text>ponechána původní "červená" analýza</text>
-</LM>
-</comment>
 </m>
 <m id="m-ln94203-101-p3s8w3">
 <src.rf>manual</src.rf>
@@ -2049,7 +2045,9 @@
 <form>WC</form>
 <tag>
 <AM lemma="WC_:B" src="orig">NNNXX-----A---8</AM>
-<AM lemma="WC-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="WC-88_:B" src="manual">NNXXX-----A----</AM>
+<AM lemma="WC" src="manual">NNXXX-----A----</AM>
+<AM lemma="WC" src="manual" selected="1">NNNXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94203-101-p3s8w10">
@@ -2783,7 +2781,8 @@
 <form>např</form>
 <tag>
 <AM lemma="například_:B" src="orig">Db------------8</AM>
-<AM lemma="například" src="manual" selected="1">Db------------8</AM>
+<AM lemma="například" src="manual">Db------------8</AM>
+<AM lemma="například" src="manual" selected="1">TT------------b</AM>
 </tag>
 </m>
 <m id="m-ln94203-101-p6s2w16">

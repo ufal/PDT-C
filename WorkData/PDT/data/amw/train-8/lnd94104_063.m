@@ -6267,13 +6267,9 @@
 <tag>
 <AM lemma="Claudius_;Y" src="orig">NNMS2-----A----</AM>
 <AM lemma="Claudia_;Y_,t" src="manual">NNFSX-----A----</AM>
-<AM lemma="Claudia_;Y" src="manual" selected="1">NNFSX-----A----</AM>
+<AM lemma="Claudia_;Y" src="manual">NNFSX-----A----</AM>
+<AM lemma="Claudie_;Y" src="manual" selected="1">NNFS1-----A---1</AM>
 </tag>
-<comment>
-<LM type="Other">
-<text>analýza z online slovníku pro pdt-c</text>
-</LM>
-</comment>
 </m>
 <m id="m-lnd94104-063-p1s44w9">
 <src.rf>manual</src.rf>
@@ -6281,7 +6277,10 @@
 <LM>w#w-lnd94104-063-p1s44w9</LM>
 </w.rf>
 <form>Schneiderovi</form>
-<tag lemma="Schneider_;S" src="orig" selected="1">NNMS3-----A----</tag>
+<tag>
+<AM lemma="Schneider_;S" src="orig">NNMS3-----A----</AM>
+<AM lemma="Schneiderův_;S_^(*2)" src="manual" selected="1">AUMP1M---------</AM>
+</tag>
 </m>
 <m id="m-lnd94104-063-p1s44w10">
 <src.rf>manual</src.rf>

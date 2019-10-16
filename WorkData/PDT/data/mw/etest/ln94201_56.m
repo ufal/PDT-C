@@ -2382,7 +2382,10 @@
 <LM>w#w-ln94201-56-p5s4w12</LM>
 </w.rf>
 <form>Karl</form>
-<tag lemma="Karl_;Y_,t" src="auto" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Karl_;Y_,t" src="auto">NNMS1-----A----</AM>
+<AM lemma="Karl_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94201-56-p5s4w13">
 <src.rf>manual</src.rf>
@@ -2431,10 +2434,11 @@
 </w.rf>
 <form>Fürstenbergu</form>
 <tag>
-<AM lemma="Fürstenberg_;G" src="orig" selected="1">NNIS2-----A----</AM>
+<AM lemma="Fürstenberg_;G" src="orig">NNIS2-----A----</AM>
 <AM lemma="Fürstenberg_;S" src="auto" recommended="1">NNMS3-----A---1</AM>
 <AM lemma="Fürstenberg_;S" src="auto">NNMS5-----A----</AM>
 <AM lemma="Fürstenberg_;S" src="auto">NNMS6-----A---1</AM>
+<AM lemma="Fürstenberg-2_;G" src="manual" selected="1">NNIS2-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94201-56-p5s4w19">

@@ -42,11 +42,6 @@
 <AM lemma="Kuča_;S" src="orig" selected="1">NNMS1-----A----</AM>
 <AM lemma="kuča" src="auto" recommended="1">NNFS1-----A----</AM>
 </tag>
-<comment>
-<LM type="Other">
-<text>podle instrukcí</text>
-</LM>
-</comment>
 </m>
 <m id="m-ln95049-098-p1s1w4">
 <src.rf>manual</src.rf>

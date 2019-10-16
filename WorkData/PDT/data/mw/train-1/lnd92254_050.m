@@ -209,12 +209,10 @@
 <LM>w#w-lnd92254-050-p3s2w15</LM>
 </w.rf>
 <form>KOnstatovala</form>
-<tag lemma="konstatovat_:T_:W" src="orig">VpQW---XR-AA---</tag>
-<comment>
-<LM type="New Form">
-<text>Konstatovala</text>
-</LM>
-</comment>
+<tag>
+<AM lemma="konstatovat_:T_:W" src="orig">VpQW---XR-AA---</AM>
+<AM lemma="konstatovat" src="manual" selected="1">VpQW----R-AAB--</AM>
+</tag>
 </m>
 <m id="m-lnd92254-050-p3s2w16">
 <src.rf>manual</src.rf>

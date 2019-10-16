@@ -412,7 +412,8 @@
 <form>Pop</form>
 <tag>
 <AM lemma="pop-1_^(círk.)" src="orig">NNMS1-----A----</AM>
-<AM lemma="Pop-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="Pop-77" src="manual">F%-------------</AM>
+<AM lemma="pop-2" src="manual" selected="1">AAXXX----1A----</AM>
 </tag>
 </m>
 <m id="m-mf930701-086-p12s1w4">
@@ -423,7 +424,8 @@
 <form>rock</form>
 <tag>
 <AM lemma="rock-1" src="orig">NNIS1-----A----</AM>
-<AM lemma="rock-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="rock-77" src="manual">F%-------------</AM>
+<AM lemma="rock-2" src="manual" selected="1">AAXXX----1A----</AM>
 </tag>
 </m>
 <m id="m-mf930701-086-p12s1w5">

@@ -242,11 +242,6 @@
 <AM lemma="číslo_:B" src="auto" recommended="1">NNNXX-----A---8</AM>
 <AM lemma="č-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
-<comment>
-<LM type="Other">
-<text>na základě instrukcí z mailu</text>
-</LM>
-</comment>
 </m>
 <m id="m-ln95049-037-p2s1Bw8">
 <src.rf>manual</src.rf>
@@ -3160,11 +3155,6 @@
 <AM lemma="Prorok_;S" src="orig" selected="1">NNMS1-----A----</AM>
 <AM lemma="prorok" src="auto" recommended="1">NNMS1-----A----</AM>
 </tag>
-<comment>
-<LM type="Other">
-<text>vzhledem k tomu, že se jedná o příjmení, zvolil jsem červenou analýzu, nikoliv zelenou (která je shodná jako obecné substantivum prorok)</text>
-</LM>
-</comment>
 </m>
 <m id="m-ln95049-037-p5s3w10">
 <src.rf>manual</src.rf>

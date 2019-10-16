@@ -1441,12 +1441,7 @@
 <LM>w#w-ln95045-057-p3s3w12</LM>
 </w.rf>
 <form>Malshot</form>
-<tag lemma="Malshot_;S" src="orig">NNMS1-----A----</tag>
-<comment>
-<LM type="New Form">
-<text>Mathot</text>
-</LM>
-</comment>
+<tag lemma="Malshot_;S" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95045-057-p3s3w13">
 <src.rf>manual</src.rf>

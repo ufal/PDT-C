@@ -2802,13 +2802,9 @@
 <form>azzurry</form>
 <tag>
 <AM lemma="azzurra_,t" src="orig">AAFS2----1A----</AM>
-<AM lemma="azzurra_^(kapitán_squadry_azzury)" src="manual" selected="1">NNFS2-----A----</AM>
+<AM lemma="azzurra_^(kapitán_squadry_azzury)" src="manual">NNFS2-----A----</AM>
+<AM lemma="azzurra" src="manual" selected="1">NNFS2-----A----</AM>
 </tag>
-<comment>
-<LM type="Other">
-<text>dán substantivní tag, protože cizí adjektivum se v českém textu skloňuje podle substantivního vzoru</text>
-</LM>
-</comment>
 </m>
 <m id="m-ln94210-131-p8s1w4">
 <src.rf>manual</src.rf>

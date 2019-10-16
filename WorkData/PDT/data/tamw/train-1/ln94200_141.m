@@ -1349,11 +1349,6 @@
 <AM lemma="Klinder_;S" src="auto">NNMP4-----A----</AM>
 <AM lemma="Klinder_;S" src="auto" recommended="1">NNMP7-----A----</AM>
 </tag>
-<comment>
-<LM type="Other">
-<text>ponechána původní analýza</text>
-</LM>
-</comment>
 </m>
 <m id="m-ln94200-141-p5s1w5">
 <src.rf>manual</src.rf>

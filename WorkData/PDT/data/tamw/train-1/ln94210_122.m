@@ -5234,11 +5234,6 @@
 <AM lemma="forest_,t" src="manual">AAXXX----1A----</AM>
 <AM lemma="Forest-77" src="manual" selected="1">F%-------------</AM>
 </tag>
-<comment>
-<LM type="Other">
-<text>nové lemma: pro cizí slovo + nový tag: bez rodu a skloňování</text>
-</LM>
-</comment>
 </m>
 <m id="m-ln94210-122-p4s14w12">
 <src.rf>manual</src.rf>

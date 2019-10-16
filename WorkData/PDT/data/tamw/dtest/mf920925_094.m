@@ -852,15 +852,7 @@
 <LM>w#w-mf920925-094-p4s1w15</LM>
 </w.rf>
 <form>smrk</form>
-<tag lemma="smrk" src="orig">NNIS4-----A----</tag>
-<comment>
-<LM type="New Form">
-<text>smrt</text>
-</LM>
-<LM type="Other">
-<text>Nesouhlasím s opravou "smrk" na "smrt". Podle mě jde o žert, neboť do kapesníku se SMRKá, proto autor záměrně napsal na život a na "smrk". --Bejček</text>
-</LM>
-</comment>
+<tag lemma="smrk" src="orig" selected="1">NNIS4-----A----</tag>
 </m>
 </s>
 </mdata>

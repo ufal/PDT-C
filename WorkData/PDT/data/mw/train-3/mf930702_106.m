@@ -1932,15 +1932,10 @@
 <form>Constantinu</form>
 <tag>
 <AM lemma="Konstantin_;Y" src="orig">NNMS3-----A---1</AM>
-<AM lemma="Constantin_;Y" src="auto" recommended="1">NNMS3-----A---1</AM>
+<AM lemma="Constantin_;Y" src="auto" recommended="1" selected="1">NNMS3-----A---1</AM>
 <AM lemma="Constantin_;Y" src="auto">NNMS6-----A---1</AM>
 <AM lemma="Constantina_;G" src="auto">NNFS4-----A----</AM>
 </tag>
-<comment>
-<LM type="New Form">
-<text>Konstantinu</text>
-</LM>
-</comment>
 </m>
 <m id="m-mf930702-106-p5s1w20">
 <src.rf>manual</src.rf>

@@ -982,11 +982,6 @@
 <AM lemma="as-2_,t_^(člen)" src="manual">AAXXX----1A----</AM>
 <AM lemma="As-77" src="manual" selected="1">F%-------------</AM>
 </tag>
-<comment>
-<LM type="Other">
-<text>nová analýza: cizí člen</text>
-</LM>
-</comment>
 </m>
 <m id="m-lnd91303-038-p4s6w4">
 <src.rf>manual</src.rf>
@@ -1008,11 +1003,6 @@
 <AM lemma="safir_,t" src="manual">NNXXX-----A----</AM>
 <AM lemma="Safir-77" src="manual" selected="1">F%-------------</AM>
 </tag>
-<comment>
-<LM type="Other">
-<text>nová analýza: cizí slovo</text>
-</LM>
-</comment>
 </m>
 <m id="m-lnd91303-038-p4s6w6">
 <src.rf>manual</src.rf>

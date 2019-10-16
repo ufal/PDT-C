@@ -1959,14 +1959,9 @@
 </w.rf>
 <form>žluťáku</form>
 <tag>
-<AM lemma="žluťák-2_,h_^(zlaťák;;žlutě_kvetoucí_rostlina)" src="auto">NNIS6-----A----</AM>
-<AM lemma="žluťák-2_,h" src="manual" selected="1">NNIS6-----A----</AM>
+<AM lemma="žluťák-2_,h_^(zlaťák;;žlutě_kvetoucí_rostlina)" src="auto" selected="1">NNIS6-----A----</AM>
+<AM lemma="žluťák-2_,h" src="manual">NNIS6-----A----</AM>
 </tag>
-<comment>
-<LM type="Other">
-<text>vymazána vysvětlující poznámka - nezahrnuje tento případ</text>
-</LM>
-</comment>
 </m>
 <m id="m-mf920901-042-p4s4w5">
 <src.rf>manual</src.rf>

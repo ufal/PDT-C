@@ -1884,11 +1884,6 @@
 <AM lemma="sazka" src="auto">NNFP5-----A----</AM>
 <AM lemma="sazka" src="auto" recommended="1">NNFS2-----A----</AM>
 </tag>
-<comment>
-<LM type="Other">
-<text>podle instrukcí</text>
-</LM>
-</comment>
 </m>
 <m id="m-ln94208-59-p4s2w26">
 <src.rf>manual</src.rf>

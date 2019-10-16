@@ -8241,12 +8241,7 @@
 <LM>w#w-cmpr9413-052-p29s1w17</LM>
 </w.rf>
 <form>přijatá</form>
-<tag lemma="přijatý_^(*3mout)" src="auto">AANP1----1A----</tag>
-<comment>
-<LM type="New Form">
-<text>přijata</text>
-</LM>
-</comment>
+<tag lemma="přijatý_^(*3mout)" src="auto" selected="1">AANP1----1A----</tag>
 </m>
 <m id="m-cmpr9413-052-p29s1w18">
 <src.rf>manual</src.rf>

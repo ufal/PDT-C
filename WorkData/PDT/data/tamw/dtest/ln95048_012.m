@@ -284,11 +284,11 @@
 <form>-1989</form>
 <tag>
 <AM lemma="1989" src="orig">C=-------------</AM>
-<AM lemma="-1989" src="auto" recommended="1" selected="1">C=-------------</AM>
+<AM lemma="-1989" src="auto" recommended="1">C=-------------</AM>
 </tag>
 <comment>
-<LM type="Other">
-<text>byly tam dvě pomlčky - záporné číslo by u letopočtu nedávalo smysl</text>
+<LM type="New Form">
+<text>1989</text>
 </LM>
 </comment>
 </m>
@@ -381,7 +381,10 @@
 <LM>w#w-ln95048-012-p2s2w26</LM>
 </w.rf>
 <form>s</form>
-<tag lemma="s-1" src="orig" selected="1">RR--7----------</tag>
+<tag>
+<AM lemma="s-1" src="orig">RR--7----------</AM>
+<AM lemma="s-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln95048-012-p2s2w27">
 <src.rf>manual</src.rf>

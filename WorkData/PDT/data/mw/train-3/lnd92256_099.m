@@ -3209,9 +3209,6 @@
 <LM type="New Form">
 <text>sezóny</text>
 </LM>
-<LM type="Other">
-<text>překlep/chyba v pádu</text>
-</LM>
 </comment>
 </m>
 <m id="m-lnd92256-099-p7s2w18">

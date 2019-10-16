@@ -316,11 +316,6 @@
 <AM lemma="ballet_,t" src="manual">NNXXX-----A----</AM>
 <AM lemma="Ballet-77" src="manual" selected="1">F%-------------</AM>
 </tag>
-<comment>
-<LM type="Other">
-<text>nová analýza: cizí slovo</text>
-</LM>
-</comment>
 </m>
 <m id="m-lnd91301-074-p1s2w14">
 <src.rf>manual</src.rf>

@@ -81,14 +81,10 @@
 </w.rf>
 <form>vin</form>
 <tag>
-<AM lemma="vin-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</AM>
+<AM lemma="vin-99_:B_;S" src="orig">NNXXX-----A---8</AM>
 <AM lemma="vina" src="auto" recommended="1">NNFP2-----A----</AM>
+<AM lemma="vin-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
-<comment>
-<LM type="Other">
-<text>ponechána původní analýza (autorská zkratka)</text>
-</LM>
-</comment>
 </m>
 <m id="m-mf920923-077-p2s1w4">
 <src.rf>manual</src.rf>

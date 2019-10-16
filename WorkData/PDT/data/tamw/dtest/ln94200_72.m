@@ -560,15 +560,10 @@
 </w.rf>
 <form>Schlée</form>
 <tag>
-<AM lemma="Schlée_;S" src="orig">NNMXX-----A----</AM>
+<AM lemma="Schlée_;S" src="orig" selected="1">NNMXX-----A----</AM>
 <AM lemma="Schlée_;S" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Schlée_;S" src="auto">NNMS5-----A----</AM>
 </tag>
-<comment>
-<LM type="New Form">
-<text>Schléeho</text>
-</LM>
-</comment>
 </m>
 <m id="m-ln94200-72-p2s2w18">
 <src.rf>manual</src.rf>
@@ -584,7 +579,10 @@
 <LM>w#w-ln94200-72-p2s2w19</LM>
 </w.rf>
 <form>ani</form>
-<tag lemma="ani-1" src="auto" selected="1">J^-------------</tag>
+<tag>
+<AM lemma="ani-1" src="auto">J^-------------</AM>
+<AM lemma="ani-2" src="manual" selected="1">TT-------------</AM>
+</tag>
 </m>
 <m id="m-ln94200-72-p2s2w20">
 <src.rf>manual</src.rf>

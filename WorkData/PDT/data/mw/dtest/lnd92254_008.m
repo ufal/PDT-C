@@ -3264,11 +3264,6 @@
 </w.rf>
 <form>BOX</form>
 <tag lemma="box-1" src="auto" selected="1">NNIS1-----A----</tag>
-<comment>
-<LM type="Other">
-<text>nejsem si jistý, zda to do toho textu patří, nedává to tu smysl</text>
-</LM>
-</comment>
 </m>
 </s>
 <s id="m-lnd92254-008-p9s1">

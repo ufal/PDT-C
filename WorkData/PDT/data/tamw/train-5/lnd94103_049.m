@@ -914,7 +914,10 @@
 <LM>w#w-lnd94103-049-p1s3w64</LM>
 </w.rf>
 <form>i</form>
-<tag lemma="i-1" src="orig" selected="1">J^-------------</tag>
+<tag>
+<AM lemma="i-1" src="orig">J^-------------</AM>
+<AM lemma="i-2" src="manual" selected="1">TT-------------</AM>
+</tag>
 </m>
 <m id="m-lnd94103-049-p1s3w65">
 <src.rf>manual</src.rf>

@@ -1166,11 +1166,6 @@
 <AM lemma="přece-1" src="auto" recommended="1">J^-------------</AM>
 <AM lemma="přece-2" src="auto" selected="1">TT-------------</AM>
 </tag>
-<comment>
-<LM type="Other">
-<text>ve spojení "přece jen" je přece podle mě spíše částice, nikoliv spojka</text>
-</LM>
-</comment>
 </m>
 <m id="m-ln95045-030-p5s1w21">
 <src.rf>manual</src.rf>

@@ -357,7 +357,10 @@
 <LM>w#w-ln94211-17-p3s1w3</LM>
 </w.rf>
 <form>Alufinal</form>
-<tag lemma="Alufinal_;K" src="orig" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="Alufinal_;K" src="orig">NNIS1-----A----</AM>
+<AM lemma="Alufinal_;K" src="manual" selected="1">NNIXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94211-17-p3s1w4">
 <src.rf>manual</src.rf>
@@ -435,11 +438,6 @@
 <AM lemma="Petro_;S" src="auto">NNMS4-----A----</AM>
 <AM lemma="petra-1_;R" src="auto">NNFS1-----A----</AM>
 </tag>
-<comment>
-<LM type="Other">
-<text>ponechána původní "červená" analýza</text>
-</LM>
-</comment>
 </m>
 <m id="m-ln94211-17-p3s1w12">
 <src.rf>manual</src.rf>

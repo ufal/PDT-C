@@ -13661,13 +13661,9 @@
 <AM lemma="třináct`13" src="auto" recommended="1">Cn-P3----------</AM>
 <AM lemma="třináct`13" src="auto">Cn-P6----------</AM>
 <AM lemma="třináct`13" src="auto">Cn-P7----------</AM>
-<AM lemma="třináct" src="manual" selected="1">A2--------A----</AM>
+<AM lemma="třináct" src="manual">A2--------A----</AM>
+<AM lemma="třinácti" src="manual" selected="1">S2--------A----</AM>
 </tag>
-<comment>
-<LM type="Other">
-<text>nové lemma: bez číslovky + nový tag: A2</text>
-</LM>
-</comment>
 </m>
 <m id="m-ln95047-061-p12s1w10">
 <src.rf>manual</src.rf>

@@ -136,12 +136,10 @@
 <LM>w#w-ln95048-160-p2s1Bw9</LM>
 </w.rf>
 <form>Streat</form>
-<tag lemma="Streat_;R_,t" src="orig">AAXXX----1A----</tag>
-<comment>
-<LM type="New Form">
-<text>Street</text>
-</LM>
-</comment>
+<tag>
+<AM lemma="Streat_;R_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="Streat-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln95048-160-p2s1Bw10">
 <src.rf>manual</src.rf>

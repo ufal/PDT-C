@@ -244,11 +244,6 @@
 <AM lemma="Mitr_;S" src="orig" selected="1">NNMS2-----A----</AM>
 <AM lemma="mitra" src="auto" recommended="1">NNFS1-----A----</AM>
 </tag>
-<comment>
-<LM type="Other">
-<text>podle instrukcí</text>
-</LM>
-</comment>
 </m>
 <m id="m-ln95045-060-p2s1Bw19">
 <src.rf>manual</src.rf>
@@ -428,7 +423,8 @@
 <form>LN</form>
 <tag>
 <AM lemma="LN-1_:B_;R_^(Lidové_noviny,_deník)" src="orig">NNFPX-----A---8</AM>
-<AM lemma="LN-1_:B_;K_;R_^(Lidové_noviny)" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="LN-1_:B_;K_;R_^(Lidové_noviny)" src="manual">NNXXX-----A---8</AM>
+<AM lemma="LN-1_:B_;K_;R_^(Lidové_noviny)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95045-060-p2s2w8">

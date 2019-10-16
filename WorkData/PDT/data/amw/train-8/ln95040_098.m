@@ -176,11 +176,6 @@
 <AM lemma="harmony_,t" src="manual">NNXXX-----A----</AM>
 <AM lemma="Harmony-77" src="manual" selected="1">F%-------------</AM>
 </tag>
-<comment>
-<LM type="Other">
-<text>nová analýza: cizí slovo</text>
-</LM>
-</comment>
 </m>
 <m id="m-ln95040-098-p2s1w18">
 <src.rf>manual</src.rf>
@@ -509,11 +504,6 @@
 <AM lemma="oil_,t" src="manual">NNXXX-----A----</AM>
 <AM lemma="Oil-77" src="manual" selected="1">F%-------------</AM>
 </tag>
-<comment>
-<LM type="Other">
-<text>nová analýza: cizí slovo</text>
-</LM>
-</comment>
 </m>
 <m id="m-ln95040-098-p3s2w7">
 <src.rf>manual</src.rf>
@@ -526,11 +516,6 @@
 <AM lemma="consortium_,t" src="manual">NNXXX-----A----</AM>
 <AM lemma="Consortium-77" src="manual" selected="1">F%-------------</AM>
 </tag>
-<comment>
-<LM type="Other">
-<text>nová analýza: cizí slovo</text>
-</LM>
-</comment>
 </m>
 <m id="m-ln95040-098-p3s2w8">
 <src.rf>manual</src.rf>
@@ -551,11 +536,6 @@
 <AM lemma="IOC-3_:B" src="manual">NNXXX-----A---8</AM>
 <AM lemma="IOC-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
-<comment>
-<LM type="Other">
-<text>nová analýza: obecná zkratka</text>
-</LM>
-</comment>
 </m>
 <m id="m-ln95040-098-p3s2w10">
 <src.rf>manual</src.rf>
@@ -738,11 +718,6 @@
 <AM lemma="IOC-3_:B" src="manual">NNXXX-----A---8</AM>
 <AM lemma="IOC-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
-<comment>
-<LM type="Other">
-<text>nová analýza: obecná zkratka</text>
-</LM>
-</comment>
 </m>
 <m id="m-ln95040-098-p3s3w8">
 <src.rf>manual</src.rf>
@@ -843,11 +818,6 @@
 <AM lemma="IOC-3_:B" src="manual">NNXXX-----A---8</AM>
 <AM lemma="IOC-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
-<comment>
-<LM type="Other">
-<text>nová analýza: obecná zkratka</text>
-</LM>
-</comment>
 </m>
 <m id="m-ln95040-098-p3s3w21">
 <src.rf>manual</src.rf>
@@ -1334,11 +1304,6 @@
 <AM lemma="harmony_,t" src="manual">NNXXX-----A----</AM>
 <AM lemma="Harmony-77" src="manual" selected="1">F%-------------</AM>
 </tag>
-<comment>
-<LM type="Other">
-<text>nová analýza: cizí slovo</text>
-</LM>
-</comment>
 </m>
 <m id="m-ln95040-098-p3s5w7">
 <src.rf>manual</src.rf>

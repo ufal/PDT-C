@@ -574,16 +574,11 @@
 </w.rf>
 <form>koni</form>
 <tag>
-<AM lemma="kůň" src="orig">NNMP7-----A----</AM>
+<AM lemma="kůň" src="orig" selected="1">NNMP7-----A----</AM>
 <AM lemma="kůň" src="auto" recommended="1">NNMS3-----A----</AM>
 <AM lemma="kůň" src="auto">NNMS5-----A----</AM>
 <AM lemma="kůň" src="auto">NNMS6-----A----</AM>
 </tag>
-<comment>
-<LM type="New Form">
-<text>koňmi</text>
-</LM>
-</comment>
 </m>
 <m id="m-lnd94101-986-p1s3w11">
 <src.rf>manual</src.rf>

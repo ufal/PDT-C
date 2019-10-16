@@ -2772,12 +2772,7 @@
 <LM>w#w-cmpr9416-006-p11s2w7</LM>
 </w.rf>
 <form>O</form>
-<tag lemma="o-1" src="orig">RR--4----------</tag>
-<comment>
-<LM type="New Form">
-<text>o</text>
-</LM>
-</comment>
+<tag lemma="o-1" src="orig" selected="1">RR--4----------</tag>
 </m>
 <m id="m-cmpr9416-006-p11s2w8">
 <src.rf>manual</src.rf>

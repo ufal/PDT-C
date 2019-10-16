@@ -1265,11 +1265,6 @@
 <AM lemma="chrom" src="manual">NNIS2-----A----</AM>
 <AM lemma="chrom_,s_^(^DD**chróm)" src="manual" selected="1">NNIS2-----A----</AM>
 </tag>
-<comment>
-<LM type="Other">
-<text>opravdu takto jako odvozené od dlouhé verze?</text>
-</LM>
-</comment>
 </m>
 <m id="m-cmpr9410-032-p4s2w29">
 <src.rf>manual</src.rf>

@@ -2264,13 +2264,9 @@
 <tag>
 <AM lemma="hodně-2" src="auto">Dg-------2A---1</AM>
 <AM lemma="více_^(více_+_2._p.,_více_peněz)" src="manual">Ca--4----------</AM>
-<AM lemma="více_^(více_+_2._p.,_více_peněz)" src="manual" selected="1">Ca--4---------1</AM>
+<AM lemma="více_^(více_+_2._p.,_více_peněz)" src="manual">Ca--4---------1</AM>
+<AM lemma="hodně-3" src="manual" selected="1">Dg-------2A---1</AM>
 </tag>
-<comment>
-<LM type="Other">
-<text>na konci tagu by měla být jednička (podle slovníku), tag ale hlásí chybu</text>
-</LM>
-</comment>
 </m>
 <m id="m-ln94202-123-p3s8w18">
 <src.rf>manual</src.rf>

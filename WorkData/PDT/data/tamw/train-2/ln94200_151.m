@@ -2463,15 +2463,11 @@
 </w.rf>
 <form>krb</form>
 <tag>
-<AM lemma="krb-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</AM>
+<AM lemma="krb-99_:B_;S" src="orig">NNXXX-----A---8</AM>
 <AM lemma="krb" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="krb" src="auto">NNIS4-----A----</AM>
+<AM lemma="krb-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
-<comment>
-<LM type="Other">
-<text>ponechána původní "červená" analýza (autorská zkratka)</text>
-</LM>
-</comment>
 </m>
 <m id="m-ln94200-151-p6s5w3">
 <src.rf>manual</src.rf>

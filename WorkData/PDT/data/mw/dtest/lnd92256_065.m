@@ -761,7 +761,8 @@
 <form>VAAZ</form>
 <tag>
 <AM lemma="VAAZ_:B_;K" src="orig">NNXXX-----A---8</AM>
-<AM lemma="VAAZ-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="VAAZ-88_:B" src="manual">NNXXX-----A---8</AM>
+<AM lemma="VAAZ-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92256-065-p4s1w15">

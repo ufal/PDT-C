@@ -350,7 +350,10 @@
 <LM>w#w-ln95047-081-p2s2w14</LM>
 </w.rf>
 <form>Reuter</form>
-<tag lemma="Reuter_;K" src="orig" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Reuter_;K" src="orig">NNMS1-----A----</AM>
+<AM lemma="Reuter-2_;K_,i_^(^DS**Reuters)" src="manual" selected="1">NNIXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95047-081-p2s2w15">
 <src.rf>manual</src.rf>
@@ -613,7 +616,8 @@
 <form>zoo</form>
 <tag>
 <AM lemma="ZOO_:B" src="orig">NNFXX-----A----</AM>
-<AM lemma="zoo_:B_^(zoologická_zahrada)" src="manual" selected="1">NNFXX-----A----</AM>
+<AM lemma="zoo_:B_^(zoologická_zahrada)" src="manual">NNFXX-----A----</AM>
+<AM lemma="ZOO" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95047-081-p2s3w32">
@@ -651,11 +655,6 @@
 <AM lemma="Assen_;G" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Assen_;G" src="auto">NNIS4-----A----</AM>
 </tag>
-<comment>
-<LM type="Other">
-<text>ponechána původní "červená" ananlýza</text>
-</LM>
-</comment>
 </m>
 <m id="m-ln95047-081-p2s3w36">
 <src.rf>manual</src.rf>

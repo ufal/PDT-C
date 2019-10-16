@@ -4747,15 +4747,11 @@
 <tag>
 <AM lemma="takzvaně_:B" src="orig">Db------------8</AM>
 <AM lemma="takzvaný_:B" src="auto" recommended="1">AAXXX----1A---8</AM>
-<AM lemma="takzvaně_^(*1ý)" src="manual" selected="1">Dg-------1A---8</AM>
+<AM lemma="takzvaně_^(*1ý)" src="manual">Dg-------1A---8</AM>
 <AM lemma="takzvaně" src="manual">Dg-------1A---8</AM>
 <AM lemma="takzvaně_^(*1ý)" src="manual">Dg-------1A---8</AM>
+<AM lemma="takzvaně" src="manual" selected="1">Dg-------1A---b</AM>
 </tag>
-<comment>
-<LM type="Other">
-<text>ponechána původní analýza</text>
-</LM>
-</comment>
 </m>
 <m id="m-lnd91301-003-p12s1w21">
 <src.rf>manual</src.rf>

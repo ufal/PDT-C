@@ -2185,12 +2185,7 @@
 <LM>w#w-cmpr9406-032-p14s1w13</LM>
 </w.rf>
 <form>mÓdy</form>
-<tag lemma="móda_^(co_je_módní)" src="orig">NNFS2-----A----</tag>
-<comment>
-<LM type="New Form">
-<text>módy</text>
-</LM>
-</comment>
+<tag lemma="móda_^(co_je_módní)" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-cmpr9406-032-p14s1w14">
 <src.rf>manual</src.rf>

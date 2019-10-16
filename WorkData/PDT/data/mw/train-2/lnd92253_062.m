@@ -13887,12 +13887,10 @@
 <LM>w#w-lnd92253-062-p16s5w12</LM>
 </w.rf>
 <form>raním</form>
-<tag lemma="ranit_:W_^(poranit)" src="auto">VB-S---1P-AA---</tag>
-<comment>
-<LM type="New Form">
-<text>ranním</text>
-</LM>
-</comment>
+<tag>
+<AM lemma="ranit_:W_^(poranit)" src="auto">VB-S---1P-AA---</AM>
+<AM lemma="raní_,i_^(^DS**ranní)" src="manual" selected="1">AAIS7----1A----</AM>
+</tag>
 </m>
 <m id="m-lnd92253-062-p16s5w13">
 <src.rf>manual</src.rf>

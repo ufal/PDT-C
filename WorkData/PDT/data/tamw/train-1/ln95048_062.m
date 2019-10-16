@@ -1321,11 +1321,6 @@
 <AM lemma="iškariotský" src="auto">AANS4----1A---6</AM>
 <AM lemma="iškariotský" src="auto">AANS5----1A---6</AM>
 </tag>
-<comment>
-<LM type="Other">
-<text>podle instrukcí</text>
-</LM>
-</comment>
 </m>
 <m id="m-ln95048-062-p3s6w13">
 <src.rf>manual</src.rf>

@@ -143,11 +143,6 @@
 <AM lemma="adalší_:B" src="auto" recommended="1">AAXXX----1A---8</AM>
 <AM lemma="ad-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
-<comment>
-<LM type="Other">
-<text>ponechána původní analýza (autorská zkratka)</text>
-</LM>
-</comment>
 </m>
 <m id="m-lnd94101-100-p1s2w4">
 <src.rf>manual</src.rf>

@@ -624,12 +624,7 @@
 <LM>w#w-ln95048-046-p2s5w22</LM>
 </w.rf>
 <form>práce</form>
-<tag lemma="práce_^(jako_činnost_i_místo)" src="orig">NNFS1-----A----</tag>
-<comment>
-<LM type="New Form">
-<text>Práce</text>
-</LM>
-</comment>
+<tag lemma="práce_^(jako_činnost_i_místo)" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln95048-046-p2s5w23">
 <src.rf>manual</src.rf>
@@ -1835,13 +1830,8 @@
 <tag>
 <AM lemma="gest_,t" src="orig">NNISX-----A----</AM>
 <AM lemma="gesto" src="auto" recommended="1">NNNP2-----A----</AM>
-<AM lemma="gest-77" src="manual">F%-------------</AM>
+<AM lemma="gest-77" src="manual" selected="1">F%-------------</AM>
 </tag>
-<comment>
-<LM type="New Form">
-<text>geste</text>
-</LM>
-</comment>
 </m>
 <m id="m-ln95048-046-p2s18w14">
 <src.rf>manual</src.rf>

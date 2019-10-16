@@ -1806,7 +1806,8 @@
 <form>Přišli</form>
 <tag>
 <AM lemma="přijít" src="orig">VpMP---XR-AA---</AM>
-<AM lemma="přijít_:W" src="manual" selected="1">VpMP---XR-AA---</AM>
+<AM lemma="přijít_:W" src="manual">VpMP---XR-AA---</AM>
+<AM lemma="přijít" src="manual" selected="1">VpMP----R-AAP--</AM>
 </tag>
 </m>
 <m id="m-ln95047-024-p6s1w2">
@@ -1843,7 +1844,8 @@
 <AM lemma="Mladý_:B_;G_^(např._Ml._Boleslav)" src="orig">AAXXX----1A---8</AM>
 <AM lemma="ml-1`mililitr_:B" src="auto" recommended="1">NNIXX-----A---8</AM>
 <AM lemma="mladý_:B" src="auto">AAXXX----2A---8</AM>
-<AM lemma="mladý" src="manual" selected="1">AAXXX----1A---8</AM>
+<AM lemma="mladý" src="manual">AAXXX----1A---8</AM>
+<AM lemma="mladý" src="manual" selected="1">AAXXX----1A---a</AM>
 </tag>
 </m>
 <m id="m-ln95047-024-p6s1w6">
@@ -2012,15 +2014,10 @@
 </w.rf>
 <form>Saidla</form>
 <tag>
-<AM lemma="Saidla_;S" src="orig">NNMS1-----A----</AM>
+<AM lemma="Saidla_;S" src="orig" selected="1">NNMS1-----A----</AM>
 <AM lemma="Saidl_;S" src="auto">NNMS2-----A----</AM>
 <AM lemma="Saidl_;S" src="auto" recommended="1">NNMS4-----A----</AM>
 </tag>
-<comment>
-<LM type="New Form">
-<text>Saidl</text>
-</LM>
-</comment>
 </m>
 <m id="m-ln95047-024-p6s1w26">
 <src.rf>manual</src.rf>

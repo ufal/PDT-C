@@ -2494,11 +2494,6 @@
 <AM lemma="CPD-2_:B" src="manual">NNXXX-----A---8</AM>
 <AM lemma="CPD-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
-<comment>
-<LM type="Other">
-<text>nová analýza: obecná  zkratka</text>
-</LM>
-</comment>
 </m>
 <m id="m-cmpr9416-001-p15s1w2">
 <src.rf>manual</src.rf>
@@ -2519,11 +2514,6 @@
 <AM lemma="collections_,t" src="manual">NNXXX-----A----</AM>
 <AM lemma="Collections-77" src="manual" selected="1">F%-------------</AM>
 </tag>
-<comment>
-<LM type="Other">
-<text>nová analýza: cizí slovo</text>
-</LM>
-</comment>
 </m>
 <m id="m-cmpr9416-001-p15s1w4">
 <src.rf>manual</src.rf>
@@ -2536,11 +2526,6 @@
 <AM lemma="premieren_,t" src="manual">NNXXX-----A----</AM>
 <AM lemma="Premieren-77" src="manual" selected="1">F%-------------</AM>
 </tag>
-<comment>
-<LM type="Other">
-<text>nová analýza: cizí slovo</text>
-</LM>
-</comment>
 </m>
 <m id="m-cmpr9416-001-p15s1w5">
 <src.rf>manual</src.rf>
@@ -2550,8 +2535,8 @@
 <form_change>spell</form_change>
 <form>Düsseldorf</form>
 <tag>
-<AM lemma="Düsseldorf_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Düsseldorf-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="Düsseldorf_;G" src="auto" selected="1">NNIS1-----A----</AM>
+<AM lemma="Düsseldorf-77" src="manual">F%-------------</AM>
 </tag>
 </m>
 <m id="m-cmpr9416-001-p15s1w6">
@@ -4005,11 +3990,6 @@
 <AM lemma="Foibos_;S_,x" src="auto">NNMS4-----A----</AM>
 <AM lemma="Phoeba_;K" src="manual" selected="1">NNFS1-----A----</AM>
 </tag>
-<comment>
-<LM type="Other">
-<text>nová analýza</text>
-</LM>
-</comment>
 </m>
 <m id="m-cmpr9416-001-p23s1w19">
 <src.rf>manual</src.rf>
@@ -4177,11 +4157,6 @@
 <AM lemma="Foibos_;S_,x" src="auto">NNMS4-----A----</AM>
 <AM lemma="Phoeba_;K" src="manual" selected="1">NNFS1-----A----</AM>
 </tag>
-<comment>
-<LM type="Other">
-<text>nová analýza</text>
-</LM>
-</comment>
 </m>
 <m id="m-cmpr9416-001-p23s2w20">
 <src.rf>manual</src.rf>
@@ -4261,11 +4236,6 @@
 <AM lemma="MH_:B" src="manual">NNXXX-----A---8</AM>
 <AM lemma="MH-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
-<comment>
-<LM type="Other">
-<text>nová analýza: obecná zkratka</text>
-</LM>
-</comment>
 </m>
 <m id="m-cmpr9416-001-p23s3w9">
 <src.rf>manual</src.rf>
@@ -4537,11 +4507,6 @@
 <AM lemma="Foibos_;S_,x" src="auto">NNMS4-----A----</AM>
 <AM lemma="Phoeba_;K" src="manual" selected="1">NNFS1-----A----</AM>
 </tag>
-<comment>
-<LM type="Other">
-<text>nová analýza</text>
-</LM>
-</comment>
 </m>
 <m id="m-cmpr9416-001-p24s2w5">
 <src.rf>manual</src.rf>
@@ -4643,11 +4608,6 @@
 <AM lemma="Box_:B_,t " src="manual">NNXXX-----A---8</AM>
 <AM lemma="B-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
-<comment>
-<LM type="Other">
-<text>nová analýza</text>
-</LM>
-</comment>
 </m>
 <m id="m-cmpr9416-001-p24s2w15">
 <src.rf>manual</src.rf>

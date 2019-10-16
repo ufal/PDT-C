@@ -7919,15 +7919,10 @@
 <AM lemma="efektivní" src="auto">AANP1----2A----</AM>
 <AM lemma="efektivní" src="auto">AANP4----2A----</AM>
 <AM lemma="efektivní" src="auto">AANP5----2A----</AM>
-<AM lemma="efektivní" src="auto" recommended="1">AANS1----2A----</AM>
+<AM lemma="efektivní" src="auto" recommended="1" selected="1">AANS1----2A----</AM>
 <AM lemma="efektivní" src="auto">AANS4----2A----</AM>
 <AM lemma="efektivní" src="auto">AANS5----2A----</AM>
 </tag>
-<comment>
-<LM type="New Form">
-<text>efektivněji</text>
-</LM>
-</comment>
 </m>
 <m id="m-lnd92258-079-p12s6w4">
 <src.rf>manual</src.rf>

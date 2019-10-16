@@ -136,11 +136,6 @@
 <AM lemma="star_,t" src="manual">NNXXX-----A----</AM>
 <AM lemma="Star-77" src="manual" selected="1">F%-------------</AM>
 </tag>
-<comment>
-<LM type="Other">
-<text>analýza z online morphodity</text>
-</LM>
-</comment>
 </m>
 <m id="m-mf920901-121-p2s1w8">
 <src.rf>manual</src.rf>
@@ -712,11 +707,6 @@
 <AM lemma="nebývale_^(*1ý)" src="orig" selected="1">Dg-------1A----</AM>
 <AM lemma="bývale_^(*1ý)" src="auto" recommended="1">Dg-------1N----</AM>
 </tag>
-<comment>
-<LM type="Other">
-<text>analýza z online morphodity</text>
-</LM>
-</comment>
 </m>
 <m id="m-mf920901-121-p3s1w14">
 <src.rf>manual</src.rf>

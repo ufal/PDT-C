@@ -3102,13 +3102,9 @@
 <AM lemma="více_^(více_+_2._p.,_více_peněz)" src="manual">Ca--1----------</AM>
 <AM lemma="více_^(více_+_2._p.,_více_peněz)" src="manual">Ca--1----------</AM>
 <AM lemma="více_^(více_+_2._p.,_více_peněz)" src="manual">Ca--1----------</AM>
-<AM lemma="více_^(více_+_2._p.,_více_peněz)" src="manual" selected="1">Ca--1---------1</AM>
+<AM lemma="více_^(více_+_2._p.,_více_peněz)" src="manual">Ca--1---------1</AM>
+<AM lemma="hodně-3" src="manual" selected="1">Dg-------2A---1</AM>
 </tag>
-<comment>
-<LM type="Other">
-<text>Ve slovníku je v tagu na konci jednička (varianta více), nelze to ale udělat (hlásí invalid tag)</text>
-</LM>
-</comment>
 </m>
 <m id="m-mf930701-073-p1s23w4">
 <src.rf>manual</src.rf>
