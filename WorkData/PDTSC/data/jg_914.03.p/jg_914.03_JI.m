@@ -3,7 +3,7 @@
 <head>
 <schema href="mdata_36_schema.xml" />
 <references>
-<reffile id="w" name="wdata" href="jg_914.03.w" />
+<reffile id="w" name="wdata" href="../jg_914.03.w" />
 </references>
 </head>
 <s id="m-12941_04-d1e1227-x3">
