@@ -1312,7 +1312,8 @@
 <form>milionů</form>
 <tag>
 <AM lemma="milión`1000000" src="orig">NNIP2-----A----</AM>
-<AM lemma="milion`1000000_,s _^(^DD**milión)" src="manual" selected="1">NNIP2-----A----</AM>
+<AM lemma="milion`1000000_,s _^(^DD**milión)" src="manual">NNIP2-----A----</AM>
+<AM lemma="milion`1000000_,s_^(^DD**milión)" src="manual" selected="1">NNIP2-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920923-043-p7s2w15">

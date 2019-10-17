@@ -5926,7 +5926,10 @@
 <LM>w#w-cmpr9417-011-p23s2w11</LM>
 </w.rf>
 <form>jeden</form>
-<tag lemma="jeden`1" src="orig" selected="1">ClIS4----------</tag>
+<tag>
+<AM lemma="jeden`1" src="orig">ClIS4----------</AM>
+<AM lemma="jeden`1" src="manual" selected="1">ClYS1----------</AM>
+</tag>
 </m>
 <m id="m-cmpr9417-011-p23s2w12">
 <src.rf>manual</src.rf>
@@ -5936,7 +5939,8 @@
 <form>milion</form>
 <tag>
 <AM lemma="milión`1000000" src="orig">NNIS4-----A----</AM>
-<AM lemma="milion`1000000_,s _^(^DD**milión)" src="manual" selected="1">NNIS4-----A----</AM>
+<AM lemma="milion`1000000_,s _^(^DD**milión)" src="manual">NNIS4-----A----</AM>
+<AM lemma="milion`1000000_,s_^(^DD**milión)" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9417-011-p23s2w13">

@@ -758,7 +758,8 @@
 <form>kuponové</form>
 <tag>
 <AM lemma="kuponový" src="orig">AAFS2----1A----</AM>
-<AM lemma="kuponový _,s_^(^DD** kupónový)" src="manual" selected="1">AAFS2----1A----</AM>
+<AM lemma="kuponový _,s_^(^DD** kupónový)" src="manual">AAFS2----1A----</AM>
+<AM lemma="kuponový_,s_^(^DD**kupónový)" src="manual" selected="1">AAFS2----1A----</AM>
 </tag>
 </m>
 <m id="m-ln94206-26-p3s1w18">

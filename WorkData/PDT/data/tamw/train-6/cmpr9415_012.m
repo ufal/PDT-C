@@ -802,7 +802,8 @@
 <form>Thessaloniki</form>
 <tag>
 <AM lemma="Thessaloniki_;u_,t_^(název_festivalu)" src="auto">NNNXX-----A----</AM>
-<AM lemma="Thessaloniki_;G_;K_,s_^(^DD** Tesalonika)" src="manual" selected="1">NNNS2-----A----</AM>
+<AM lemma="Thessaloniki_;G_;K_,s_^(^DD** Tesalonika)" src="manual">NNNS2-----A----</AM>
+<AM lemma="Thessaloniki_;G_;K_,s_^(^DD**Tesalonika)" src="manual" selected="1">NNFS2-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9415-012-p9s3w11">

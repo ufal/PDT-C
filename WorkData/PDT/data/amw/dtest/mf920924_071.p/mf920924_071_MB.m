@@ -474,8 +474,8 @@
 <tag>
 <AM lemma="Della_;Y" src="orig">NNFS1-----A----</AM>
 <AM lemma="DELLA-77" src="manual">F%-------------</AM>
-<AM lemma="Della_;Y_;K" src="manual">NNFS1-----A----</AM>
-<AM lemma="Della-2_;K NNF" src="manual" selected="1">NNFS1-----A----</AM>
+<AM lemma="Della_;Y_;K" src="manual" selected="1">NNFS1-----A----</AM>
+<AM lemma="Della-2_;K NNF" src="manual">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920924-071-p6s1w3">

@@ -1391,7 +1391,8 @@
 <form>diskuse</form>
 <tag>
 <AM lemma="diskuse" src="orig">NNFP1-----A----</AM>
-<AM lemma="diskuse_,s _^(^DD**diskuze)" src="manual" selected="1">NNFP1-----A----</AM>
+<AM lemma="diskuse_,s _^(^DD**diskuze)" src="manual">NNFP1-----A----</AM>
+<AM lemma="diskuse_,s_^(^DD**diskuze)" src="manual" selected="1">NNFP1-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9211-028-p6s4w20">
@@ -1674,7 +1675,8 @@
 <form>Gordon</form>
 <tag>
 <AM lemma="Gordon_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Gordon_;Y_;S" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Gordon_;Y_;S" src="manual">NNMS1-----A----</AM>
+<AM lemma="Gordon_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9211-028-p8s1w23">
@@ -1693,7 +1695,8 @@
 <form>University</form>
 <tag>
 <AM lemma="univerzita" src="orig">NNFS2-----A----</AM>
-<AM lemma="universita_,s _^(^DD**univerzita)" src="manual" selected="1">NNFS2-----A----</AM>
+<AM lemma="universita_,s _^(^DD**univerzita)" src="manual">NNFS2-----A----</AM>
+<AM lemma="universita_,s_^(^DD**univerzita)" src="manual" selected="1">NNFS2-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9211-028-p8s1w25">
@@ -3667,7 +3670,8 @@
 <form>stadiu</form>
 <tag>
 <AM lemma="stadium" src="orig">NNNS6-----A----</AM>
-<AM lemma="stadium_,s _^(^DD**stádium)" src="manual" selected="1">NNNS6-----A----</AM>
+<AM lemma="stadium_,s _^(^DD**stádium)" src="manual">NNNS6-----A----</AM>
+<AM lemma="stadium_,s_^(^DD**stádium)" src="manual" selected="1">NNNS6-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9211-028-p10s1w22">

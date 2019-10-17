@@ -331,11 +331,6 @@
 <AM lemma="Čchin_;S" src="orig">NNMS1-----A----</AM>
 <AM lemma="Čchin_;S" src="manual" selected="1">NNMXX-----A----</AM>
 </tag>
-<comment>
-<LM type="Other">
-<text>nový tag: nesklonné v čísle a pádě</text>
-</LM>
-</comment>
 </m>
 <m id="m-ln94200-123-p2s1Bw25">
 <src.rf>manual</src.rf>
@@ -376,13 +371,9 @@
 <form>Chuang</form>
 <tag>
 <AM lemma="Chuang_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Chuang_;Y" src="manual" selected="1">NNMXX-----A----</AM>
+<AM lemma="Chuang_;Y" src="manual">NNMXX-----A----</AM>
+<AM lemma="Chuang_;S_;Y" src="manual" selected="1">NNMXX-----A----</AM>
 </tag>
-<comment>
-<LM type="Other">
-<text>nové lemma: křestní jméno + nový tag: nesklonné v čísle a pádě</text>
-</LM>
-</comment>
 </m>
 <m id="m-ln94200-123-p2s1Bw28">
 <src.rf>manual</src.rf>
@@ -400,13 +391,9 @@
 <form>timu</form>
 <tag>
 <AM lemma="tim_;Y" src="orig">NNMS3-----A----</AM>
-<AM lemma="ti_;Y" src="manual" selected="1">NNMS3-----A----</AM>
+<AM lemma="ti_;Y" src="manual">NNMS3-----A----</AM>
+<AM lemma="ti" src="manual" selected="1">SNMS3-----A----</AM>
 </tag>
-<comment>
-<LM type="Other">
-<text>nové lemma: ti místo tim</text>
-</LM>
-</comment>
 </m>
 <m id="m-ln94200-123-p2s1Bw30">
 <src.rf>manual</src.rf>
@@ -2746,11 +2733,6 @@
 <AM lemma="li-2" src="auto">J,-------------</AM>
 <AM lemma="Li_;S" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
-<comment>
-<LM type="Other">
-<text>nové lemma: "červené", příjmení + nový tag: skloňováno v čísle a pádě</text>
-</LM>
-</comment>
 </m>
 <m id="m-ln94200-123-p5s1w29">
 <src.rf>manual</src.rf>
@@ -2760,13 +2742,9 @@
 <form>Pcheng</form>
 <tag>
 <AM lemma="Pcheng_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Pcheng_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Pcheng_;Y" src="manual">NNMS1-----A----</AM>
+<AM lemma="Pcheng_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
-<comment>
-<LM type="Other">
-<text>nové lemma: křestní jméno</text>
-</LM>
-</comment>
 </m>
 <m id="m-ln94200-123-p5s1w30">
 <src.rf>manual</src.rf>
@@ -2835,11 +2813,6 @@
 <AM lemma="ča_^(ča-ča)" src="auto" recommended="1">NNFS4-----A----</AM>
 <AM lemma="Ču_;S" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
-<comment>
-<LM type="Other">
-<text>nové lemma: "červené", příjmení + nový tag: skloňování v čísle a pádě</text>
-</LM>
-</comment>
 </m>
 <m id="m-ln94200-123-p5s1w38">
 <src.rf>manual</src.rf>
@@ -2850,13 +2823,9 @@
 <tag>
 <AM lemma="Žung_;Y" src="orig">NNMXX-----A----</AM>
 <AM lemma="Žung_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Žung_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Žung_;Y" src="manual">NNMS1-----A----</AM>
+<AM lemma="Žung_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
-<comment>
-<LM type="Other">
-<text>ponechána původní "červená" analýza</text>
-</LM>
-</comment>
 </m>
 <m id="m-ln94200-123-p5s1w39">
 <src.rf>manual</src.rf>
@@ -3682,11 +3651,6 @@
 <AM lemma="men_,t" src="auto">XX-------------</AM>
 <AM lemma="men-77" src="manual" selected="1">F%-------------</AM>
 </tag>
-<comment>
-<LM type="Other">
-<text>ponechána původní "červená" analýza</text>
-</LM>
-</comment>
 </m>
 <m id="m-ln94200-123-p7s2w14">
 <src.rf>manual</src.rf>

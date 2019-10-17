@@ -807,7 +807,8 @@
 <form>nevyváženost</form>
 <tag>
 <AM lemma="vyváženost_^(zboží_přes_hranice)_(*3ý)" src="auto">NNFS1-----N----</AM>
-<AM lemma="vyváženost-2_^( v_rovnováze)_(*3ý-2)" src="manual" selected="1">NNFS1-----N----</AM>
+<AM lemma="vyváženost-2_^( v_rovnováze)_(*3ý-2)" src="manual">NNFS1-----N----</AM>
+<AM lemma="vyváženost_^(do_rovnováhy)_(zboží_přes_hranice)_(*3ý)" src="manual" selected="1">NNFS1-----N----</AM>
 </tag>
 </m>
 <m id="m-ln94204-31-p2s3w8">

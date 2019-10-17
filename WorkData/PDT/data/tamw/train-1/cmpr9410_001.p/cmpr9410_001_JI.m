@@ -4744,13 +4744,9 @@
 <form>SB</form>
 <tag>
 <AM lemma="Sb-1_:B_;j_^(Sbírka,_např._zákonů)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="SB-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="SB-88_:B" src="manual">NNXXX-----A----</AM>
+<AM lemma="sbírka" src="manual" selected="1">NNFXX-----A---b</AM>
 </tag>
-<comment>
-<LM type="Other">
-<text>anotováno jako obecná zkratka, protože obě písmena jsou velká, u "Sb" anotováno jako ustálená zkratka s tečkou</text>
-</LM>
-</comment>
 </m>
 <m id="m-cmpr9410-001-p20s1w19">
 <src.rf>manual</src.rf>
@@ -4880,7 +4876,8 @@
 <form>Sb</form>
 <tag>
 <AM lemma="Sb-1_:B_;j_^(Sbírka,_např._zákonů)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="sbírka" src="manual" selected="1">NNFXX-----A---8</AM>
+<AM lemma="sbírka" src="manual">NNFXX-----A---8</AM>
+<AM lemma="sbírka" src="manual" selected="1">NNFXX-----A---b</AM>
 </tag>
 </m>
 <m id="m-cmpr9410-001-p20s1w35">

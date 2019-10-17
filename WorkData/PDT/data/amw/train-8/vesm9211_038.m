@@ -2456,7 +2456,8 @@
 <form>mechanismu</form>
 <tag>
 <AM lemma="mechanismus" src="orig">NNIS2-----A----</AM>
-<AM lemma="mechanismus_,s _^(^DD**mechanizmus)" src="manual" selected="1">NNIS2-----A----</AM>
+<AM lemma="mechanismus_,s _^(^DD**mechanizmus)" src="manual">NNIS2-----A----</AM>
+<AM lemma="mechanismus_,s_^(^DD**mechanizmus)" src="manual" selected="1">NNIS2-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9211-038-p4s5w4">

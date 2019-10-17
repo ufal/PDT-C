@@ -9388,7 +9388,8 @@
 <tag>
 <AM lemma="hinduizmus" src="orig">NNIS7-----A---1</AM>
 <AM lemma="hinduismus" src="auto" recommended="1">NNIS7-----A----</AM>
-<AM lemma="hinduismus_,s_^(^DD** hinduizmus)" src="manual" selected="1">NNIS7-----A----</AM>
+<AM lemma="hinduismus_,s_^(^DD** hinduizmus)" src="manual">NNIS7-----A----</AM>
+<AM lemma="hinduismus_,s_^(^DD**hinduizmus)" src="manual" selected="1">NNIS7-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94207-105-p8s5w13">

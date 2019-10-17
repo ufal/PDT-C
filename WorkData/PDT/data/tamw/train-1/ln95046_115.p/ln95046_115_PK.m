@@ -44,17 +44,13 @@
 </w.rf>
 <form>Fantu</form>
 <tag>
-<AM lemma="Fanta-2_;R" src="orig" selected="1">NNFS4-----A----</AM>
+<AM lemma="Fanta-2_;R" src="orig">NNFS4-----A----</AM>
 <AM lemma="Fanta_;S" src="auto" recommended="1">NNMS4-----A----</AM>
 <AM lemma="fant" src="auto">NNIS2-----A----</AM>
 <AM lemma="fant" src="auto">NNIS3-----A----</AM>
 <AM lemma="fant" src="auto">NNIS6-----A----</AM>
+<AM lemma="Fanta-1_;R" src="manual" selected="1">NNFS4-----A----</AM>
 </tag>
-<comment>
-<LM type="Other">
-<text>podle instrukcí</text>
-</LM>
-</comment>
 </m>
 <m id="m-ln95046-115-p1s1w5">
 <src.rf>manual</src.rf>

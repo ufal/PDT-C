@@ -683,7 +683,8 @@
 <form>marasmu</form>
 <tag>
 <AM lemma="marasmus" src="orig">NNIS6-----A----</AM>
-<AM lemma="marasmus_,s_^(^DD** marazmus)" src="manual" selected="1">NNIS6-----A----</AM>
+<AM lemma="marasmus_,s_^(^DD** marazmus)" src="manual">NNIS6-----A----</AM>
+<AM lemma="marasmus_,s_^(^DD**marazmus)" src="manual" selected="1">NNIS6-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94205-111-p2s4w10">

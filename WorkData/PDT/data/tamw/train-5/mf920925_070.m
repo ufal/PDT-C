@@ -313,7 +313,8 @@
 <form>prostředků</form>
 <tag>
 <AM lemma="prostředek-2_^(způsob,_nástroj)" src="orig">NNIP2-----A----</AM>
-<AM lemma="prostředek-1_^(střed_ způsob,_nástroj)" src="manual" selected="1">NNIP2-----A----</AM>
+<AM lemma="prostředek-1_^(střed_ způsob,_nástroj)" src="manual">NNIP2-----A----</AM>
+<AM lemma="prostředek_^(střed,způsob,_nástroj)" src="manual" selected="1">NNIP2-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920925-070-p4s2w9">

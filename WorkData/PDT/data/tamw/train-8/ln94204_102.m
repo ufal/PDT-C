@@ -1584,7 +1584,8 @@
 <AM lemma="rayonismus" src="orig">NNIS1-----A----</AM>
 <AM lemma="rayonizmus_;u_,x" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="rayonizmus_;u_,x" src="auto">NNIS4-----A----</AM>
-<AM lemma="rayonismus _,s_^(^DD** rayonizmus)" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="rayonismus _,s_^(^DD** rayonizmus)" src="manual">NNIS1-----A----</AM>
+<AM lemma="rayonismus_,s_^(^DD**rayonizmus)" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94204-102-p3s6w27">
@@ -1635,7 +1636,7 @@
 <form>vydávaných</form>
 <tag>
 <AM lemma="vydávaný-1_^(emitovat:_cenné_papíry,_knihu,_zvuk,...)_(*7at-1)" src="orig">AAFP2----1A----</AM>
-<AM lemma="vydávaný-1_^(emitovat:_cenné_papíry,_knihu,_zvuk,...)_(*4t-1)" src="auto" recommended="1" selected="1">AAFP2----1A----</AM>
+<AM lemma="vydávaný-1_^(emitovat:_cenné_papíry,_knihu,_zvuk,...)_(*4t-1)" src="auto" recommended="1">AAFP2----1A----</AM>
 <AM lemma="vydávaný-1_^(emitovat:_cenné_papíry,_knihu,_zvuk,...)_(*4t-1)" src="auto">AAFP6----1A----</AM>
 <AM lemma="vydávaný-1_^(emitovat:_cenné_papíry,_knihu,_zvuk,...)_(*4t-1)" src="auto">AAIP2----1A----</AM>
 <AM lemma="vydávaný-1_^(emitovat:_cenné_papíry,_knihu,_zvuk,...)_(*4t-1)" src="auto">AAIP6----1A----</AM>
@@ -1667,6 +1668,7 @@
 <AM lemma="vydávaný-4_^(platit,_př._vydat_peníze,_v._se_ze_všeho)_(*4t-4)" src="auto">AAMP6----1A----</AM>
 <AM lemma="vydávaný-4_^(platit,_př._vydat_peníze,_v._se_ze_všeho)_(*4t-4)" src="auto">AANP2----1A----</AM>
 <AM lemma="vydávaný-4_^(platit,_př._vydat_peníze,_v._se_ze_všeho)_(*4t-4)" src="auto">AANP6----1A----</AM>
+<AM lemma="vydávaný_^(*2t)" src="manual" selected="1">AAFP2----1A----</AM>
 </tag>
 </m>
 <m id="m-ln94204-102-p3s6w33">

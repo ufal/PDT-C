@@ -3329,7 +3329,8 @@
 <form>socialismu</form>
 <tag>
 <AM lemma="socialismus" src="orig">NNIS2-----A----</AM>
-<AM lemma="socialismus_,s _^(^DD**socializmus)" src="manual" selected="1">NNIS2-----A----</AM>
+<AM lemma="socialismus_,s _^(^DD**socializmus)" src="manual">NNIS2-----A----</AM>
+<AM lemma="socialismus_,s_^(^DD**socializmus)" src="manual" selected="1">NNIS2-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94204-139-p6s5w10">
@@ -4108,7 +4109,8 @@
 <form>agonii</form>
 <tag>
 <AM lemma="agonie" src="orig">NNFS6-----A----</AM>
-<AM lemma="agonie_,s _^(^DD**agónie)" src="manual" selected="1">NNFS6-----A----</AM>
+<AM lemma="agonie_,s _^(^DD**agónie)" src="manual">NNFS6-----A----</AM>
+<AM lemma="agonie_,s_^(^DD**agónie)" src="manual" selected="1">NNFS6-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94204-139-p6s9w10">

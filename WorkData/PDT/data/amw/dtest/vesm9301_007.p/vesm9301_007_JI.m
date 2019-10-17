@@ -1239,14 +1239,9 @@
 </w.rf>
 <form>ALFA</form>
 <tag>
-<AM lemma="Alfa_;K_;R_^(vozidlo)" src="auto">NNFS1-----A----</AM>
-<AM lemma="Alfa_;K_;R" src="manual" selected="1">NNFS1-----A----</AM>
+<AM lemma="Alfa_;K_;R_^(vozidlo)" src="auto" selected="1">NNFS1-----A----</AM>
+<AM lemma="Alfa_;K_;R" src="manual">NNFS1-----A----</AM>
 </tag>
-<comment>
-<LM type="Other">
-<text>vymazání vysvětlivky "vozidlo" - skloňování tu bude stejné, ale o vozidlo se nejedná</text>
-</LM>
-</comment>
 </m>
 <m id="m-vesm9301-007-p5s3w9">
 <src.rf>manual</src.rf>
