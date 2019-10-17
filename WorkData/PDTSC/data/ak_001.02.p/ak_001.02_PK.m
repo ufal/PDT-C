@@ -3097,7 +3097,7 @@
 <AM lemma="dlouhý-1_^(fyz._délka;_př._dlouhá_tyč)" src="auto">AAFS7----1A----</AM>
 <AM lemma="dlouhý-2_^(o_čase;_př._dlouhá_doba)" src="auto" recommended="1">AAFS4----1A----</AM>
 <AM lemma="dlouhý-2_^(o_čase;_př._dlouhá_doba)" src="auto">AAFS7----1A----</AM>
-<AM lemma=" dlouhý_^(tyč;doba)" src="manual">AAFS4----1A----</AM>
+<AM lemma="dlouhý_^(tyč;doba)" src="manual">AAFS4----1A----</AM>
 <AM lemma="dlouhý_^(tyč;doba)" src="manual" selected="1">AAFS4----1A----</AM>
 </tag>
 </m>

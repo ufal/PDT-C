@@ -2630,7 +2630,7 @@
 <AM lemma="Šel_;S" src="auto" recommended="1">NNMS5-----A----</AM>
 <AM lemma="Šela_;K" src="auto">NNFS3-----A----</AM>
 <AM lemma="Šela_;K" src="auto">NNFS6-----A----</AM>
-<AM lemma="Šele_,i_^(^DS**Schelle) " src="manual" selected="1">NNNS1-----A----</AM>
+<AM lemma="Šele_,i_^(^DS**Schelle)" src="manual" selected="1">NNNS1-----A----</AM>
 </tag>
 </m>
 <m id="m-d1e527-x2-369">

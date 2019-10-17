@@ -3054,7 +3054,7 @@
 <form>Zpívávávali</form>
 <tag>
 <AM lemma="Zpívávávali" src="auto">X@-------------</AM>
-<AM lemma="	zpívávávat_:T_^(*4at)" src="manual">VpMP---XR-AA---</AM>
+<AM lemma="zpívávávat_:T_^(*4at)" src="manual">VpMP---XR-AA---</AM>
 <AM lemma="zpívávávat_:T_^(*4at)" src="manual" selected="1">VpMP---XR-AA---</AM>
 </tag>
 </m>

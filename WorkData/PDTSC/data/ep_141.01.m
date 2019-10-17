@@ -1776,7 +1776,7 @@
 <m id="m-152-56">
 <w.rf>w#w-152-56</w.rf>
 <form>Měli </form>
-<tag lemma="Měli " src="auto">X@-------------</tag>
+<tag lemma="Měli" src="auto">X@-------------</tag>
 <comment>
 <LM type="New Form">
 <text>Měli</text>

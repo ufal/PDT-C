@@ -689,7 +689,7 @@
 <AM lemma="on-1" src="auto" recommended="1">PPNS1--3-------</AM>
 <AM lemma="onen" src="auto">PDNS1----------</AM>
 <AM lemma="onen" src="auto">PDNS4----------</AM>
-<AM lemma="	ono-1_^(ono_to_jinak_nejde)" src="manual">TT-------------</AM>
+<AM lemma="ono-1_^(ono_to_jinak_nejde)" src="manual">TT-------------</AM>
 <AM lemma="ono-1_^(ono_to_jinak_nejde)" src="manual" selected="1">TT-------------</AM>
 </tag>
 </m>
@@ -2986,7 +2986,7 @@
 <AM lemma="Cecílie_;Y" src="auto">NNFS3-----A----</AM>
 <AM lemma="Cecílie_;Y" src="auto">NNFS4-----A----</AM>
 <AM lemma="Cecílie_;Y" src="auto">NNFS6-----A----</AM>
-<AM lemma="	Cecilie_;Y_,s_^(^DD**Cecílie)" src="manual">NNFS4-----A----</AM>
+<AM lemma="Cecilie_;Y_,s_^(^DD**Cecílie)" src="manual">NNFS4-----A----</AM>
 <AM lemma="Cecilie_;Y_,s_^(^DD**Cecílie)" src="manual" selected="1">NNFS4-----A----</AM>
 </tag>
 </m>

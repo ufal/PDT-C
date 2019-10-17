@@ -1948,7 +1948,7 @@
 <m id="m-d1t2690-3">
 <w.rf>w#w-d1t2690-3</w.rf>
 <form>Mariánských </form>
-<tag lemma="Mariánských " src="auto">X@-------------</tag>
+<tag lemma="Mariánských" src="auto">X@-------------</tag>
 <comment>
 <LM type="New Form">
 <text>Mariánských</text>

@@ -1449,7 +1449,7 @@
 <AM lemma="zástava-2_^(věci_jako_záruka)" src="auto" recommended="1">NNFS4-----A----</AM>
 <AM lemma="zástava-3_^(dopravy;_dechu)" src="auto">NNFS4-----A----</AM>
 <AM lemma="zástava-4_^(zástavba)" src="auto">NNFS4-----A----</AM>
-<AM lemma=" zástava_^(prapor_záruka_dechu_zástavba)" src="manual">NNFS4-----A----</AM>
+<AM lemma="zástava_^(prapor_záruka_dechu_zástavba)" src="manual">NNFS4-----A----</AM>
 <AM lemma="zástava_^(prapor_záruka_dechu_zástavba)" src="manual" selected="1">NNFS4-----A----</AM>
 </tag>
 </m>

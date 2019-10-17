@@ -526,7 +526,7 @@
 <AM lemma="modř" src="auto">NNFS2-----A---1</AM>
 <AM lemma="modřit_:T" src="auto">VeYS------A----</AM>
 <AM lemma="modře" src="auto" recommended="1">Dg-------1A----</AM>
-<AM lemma="	modře_;o_^(*2rý)" src="manual">Dg-------1A----</AM>
+<AM lemma="modře_;o_^(*2rý)" src="manual">Dg-------1A----</AM>
 <AM lemma="modře_;o_^(*2rý)" src="manual" selected="1">Dg-------1A----</AM>
 </tag>
 </m>

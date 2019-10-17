@@ -729,7 +729,7 @@
 <tag>
 <AM lemma="vydělávat-1_:T_^(peníze)_(*6at-1)" src="auto" recommended="1">VpMP---XR-AA---</AM>
 <AM lemma="vydělávat-2_:T_^(kůže)_(*6at-2)" src="auto">VpMP---XR-AA---</AM>
-<AM lemma="	vydělávat_^(kůže;peníze)_(*4at)" src="manual">VpMP---XR-AA---</AM>
+<AM lemma="vydělávat_^(kůže;peníze)_(*4at)" src="manual">VpMP---XR-AA---</AM>
 <AM lemma="vydělávat_^(kůže;peníze)_(*4at)" src="manual" selected="1">VpMP---XR-AA---</AM>
 </tag>
 </m>

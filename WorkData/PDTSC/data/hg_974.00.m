@@ -1032,7 +1032,7 @@
 <AM lemma="zatemnění_,s_^(*3it)" src="auto">NNNS4-----A----</AM>
 <AM lemma="zatemnění_,s_^(*3it)" src="auto">NNNS5-----A----</AM>
 <AM lemma="zatemnění_,s_^(*3it)" src="auto">NNNS6-----A----</AM>
-<AM lemma="	zatemnění_^(*2t)_(*3it)" src="manual">NNNS1-----A----</AM>
+<AM lemma="zatemnění_^(*2t)_(*3it)" src="manual">NNNS1-----A----</AM>
 <AM lemma="zatemnění_^(*2t)_(*3it)" src="manual" selected="1">NNNS1-----A----</AM>
 </tag>
 </m>

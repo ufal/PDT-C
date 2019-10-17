@@ -1581,7 +1581,7 @@
 <m id="m-2182-2185">
 <w.rf>w#w-2182-2185</w.rf>
 <form>Byl </form>
-<tag lemma="Byl " src="auto">X@-------------</tag>
+<tag lemma="Byl" src="auto">X@-------------</tag>
 <comment>
 <LM type="New Form">
 <text>Byl</text>

@@ -5600,7 +5600,7 @@
 <tag>
 <AM lemma="stát-3_^(někdo/něco_stojí,_např._na_nohou)" src="auto" recommended="1">VpQW---XR-AA---</AM>
 <AM lemma="stát-5_^(sníh)" src="auto">VpQW---XR-AA---</AM>
-<AM lemma="	stát-3_^(stojím_stojíš)" src="manual">VpQW---XR-AA---</AM>
+<AM lemma="stát-3_^(stojím_stojíš)" src="manual">VpQW---XR-AA---</AM>
 <AM lemma="stát-3_^(stojím_stojíš)" src="manual" selected="1">VpQW---XR-AA---</AM>
 </tag>
 </m>

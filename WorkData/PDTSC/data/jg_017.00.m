@@ -2639,7 +2639,7 @@
 <AM lemma="napětí_^(elektrické,_mechanické,_ve_vztazích)" src="auto">NNNS4-----A----</AM>
 <AM lemma="napětí_^(elektrické,_mechanické,_ve_vztazích)" src="auto">NNNS5-----A----</AM>
 <AM lemma="napětí_^(elektrické,_mechanické,_ve_vztazích)" src="auto" recommended="1">NNNS6-----A----</AM>
-<AM lemma="	napětí_^(elektrické,_mechanické,_ve_vztazích)_(*3nout)" src="manual">NNNS6-----A----</AM>
+<AM lemma="napětí_^(elektrické,_mechanické,_ve_vztazích)_(*3nout)" src="manual">NNNS6-----A----</AM>
 <AM lemma="napětí_^(elektrické,_mechanické,_ve_vztazích)_(*3nout)" src="manual" selected="1">NNNS6-----A----</AM>
 </tag>
 </m>

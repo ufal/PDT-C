@@ -2063,7 +2063,7 @@
 <form>loni</form>
 <tag>
 <AM lemma="vloni_,h" src="auto" recommended="1">Db------------1</AM>
-<AM lemma="	vloni_,s_^(^DD**vloni)" src="manual">Db-------------</AM>
+<AM lemma="vloni_,s_^(^DD**vloni)" src="manual">Db-------------</AM>
 <AM lemma="vloni_,s_^(^DD**vloni)" src="manual" selected="1">Db-------------</AM>
 </tag>
 </m>

@@ -996,7 +996,7 @@
 <w.rf>w#w-d1t1564-7</w.rf>
 <form>Běruňskou </form>
 <tag>
-<AM lemma="Běruňskou " src="auto">X@-------------</AM>
+<AM lemma="Běruňskou" src="auto">X@-------------</AM>
 <AM lemma="běruňský" src="manual" selected="1">AAFS4----1A----</AM>
 </tag>
 </m>

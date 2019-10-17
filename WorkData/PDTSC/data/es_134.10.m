@@ -4526,7 +4526,7 @@
 <w.rf>w#w-d1t1308-32</w.rf>
 <form>jezdila </form>
 <tag>
-<AM lemma="jezdila " src="auto">X@-------------</AM>
+<AM lemma="jezdila" src="auto">X@-------------</AM>
 <AM lemma="jezdit_:T" src="manual">VpQW---XR-AA---</AM>
 </tag>
 <comment>

@@ -2489,7 +2489,7 @@
 <m id="m-d1t3228-9">
 <w.rf>w#w-d1t3228-9</w.rf>
 <form>fotografovaná </form>
-<tag lemma="fotografovaná " src="auto">X@-------------</tag>
+<tag lemma="fotografovaná" src="auto">X@-------------</tag>
 <comment>
 <LM type="New Form">
 <text>fotografovaná</text>

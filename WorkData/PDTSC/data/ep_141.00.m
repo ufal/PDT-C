@@ -2808,7 +2808,7 @@
 <m id="m-81-83">
 <w.rf>w#w-81-83</w.rf>
 <form> Myslím</form>
-<tag lemma=" Myslím" src="auto">X@-------------</tag>
+<tag lemma="Myslím" src="auto">X@-------------</tag>
 <comment>
 <LM type="New Form">
 <text>Myslím</text>

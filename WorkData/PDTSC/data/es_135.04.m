@@ -3633,7 +3633,7 @@
 <m id="m-d1t776-12">
 <w.rf>w#w-d1t776-12</w.rf>
 <form>v </form>
-<tag lemma="v " src="auto">X@-------------</tag>
+<tag lemma="v" src="auto">X@-------------</tag>
 <comment>
 <LM type="New Form">
 <text>v</text>

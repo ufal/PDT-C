@@ -508,7 +508,7 @@
 <AM lemma="Lukášová_;S" src="auto" recommended="1">NNFS2-----A----</AM>
 <AM lemma="Lukášová_;S" src="auto">NNFS3-----A----</AM>
 <AM lemma="Lukášová_;S" src="auto">NNFS6-----A----</AM>
-<AM lemma="	Lukášův_;Y_^(*2)" src="manual">AUFS2M--------6</AM>
+<AM lemma="Lukášův_;Y_^(*2)" src="manual">AUFS2M--------6</AM>
 <AM lemma="Lukášův_;Y_^(*2)" src="manual" selected="1">AUFS2M--------6</AM>
 </tag>
 </m>

@@ -3192,7 +3192,7 @@
 <AM lemma="svůj-1_^(přivlast.)" src="auto">P8FS4---------6</AM>
 <AM lemma="svůj-1_^(přivlast.)" src="auto">P8FS6----------</AM>
 <AM lemma="svůj-1_^(přivlast.)" src="auto" recommended="1">P8FS7----------</AM>
-<AM lemma="	svůj-1_^(přivlast.)_(*2)" src="manual">P8FS7----------</AM>
+<AM lemma="svůj-1_^(přivlast.)_(*2)" src="manual">P8FS7----------</AM>
 <AM lemma="svůj-1_^(přivlast.)_(*2)" src="manual" selected="1">P8FS7----------</AM>
 </tag>
 </m>

@@ -517,7 +517,7 @@
 <form>jejich</form>
 <tag>
 <AM lemma="jeho_^(přivlast.)" src="auto" recommended="1">PSXXXXP3-------</AM>
-<AM lemma="	jeho_^(**můj)_(přivlast.)" src="manual">PSXXXXP3-------</AM>
+<AM lemma="jeho_^(**můj)_(přivlast.)" src="manual">PSXXXXP3-------</AM>
 <AM lemma="jeho_^(**můj)_(přivlast.)" src="manual" selected="1">PSXXXXP3-------</AM>
 </tag>
 </m>

@@ -2352,7 +2352,7 @@
 <AM lemma="dlouhý-2_^(o_čase;_př._dlouhá_doba)" src="auto">AAMS2----1A----</AM>
 <AM lemma="dlouhý-2_^(o_čase;_př._dlouhá_doba)" src="auto">AAMS4----1A----</AM>
 <AM lemma="dlouhý-2_^(o_čase;_př._dlouhá_doba)" src="auto" recommended="1">AANS2----1A----</AM>
-<AM lemma="dlouhý_^(tyč_doba) " src="manual">AANS2----1A----</AM>
+<AM lemma="dlouhý_^(tyč_doba)" src="manual">AANS2----1A----</AM>
 <AM lemma="dlouhý_^(tyč;doba)" src="manual" selected="1">AANS2----1A----</AM>
 </tag>
 </m>

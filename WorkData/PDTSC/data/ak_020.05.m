@@ -3090,7 +3090,7 @@
 <AM lemma="správní_^(např._poplatek;_rada;_řád;...)" src="auto">AANS5----1A----</AM>
 <AM lemma="správný_^(podle_něj._měřítek;_př._chlap,_míra,...)" src="auto">AAMP1----1A----</AM>
 <AM lemma="správný_^(podle_něj._měřítek;_př._chlap,_míra,...)" src="auto">AAMP5----1A----</AM>
-<AM lemma="	správní_^(správní_rada;_řád)" src="manual">AAFS4----1A----</AM>
+<AM lemma="správní_^(správní_rada;_řád)" src="manual">AAFS4----1A----</AM>
 <AM lemma="správní_^(správní_rada;_řád)" src="manual" selected="1">AAFS4----1A----</AM>
 </tag>
 </m>
@@ -3320,7 +3320,7 @@
 <tag lemma="." src="auto" recommended="1">Z:-------------</tag>
 </m>
 </s>
-<s id="m-448"></s>
+<s id="m-448"/>
 <s id="m-d1e1164-x2">
 <m id="m-d1t1177-5">
 <w.rf>w#w-d1t1177-5</w.rf>

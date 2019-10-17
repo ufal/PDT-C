@@ -2753,7 +2753,7 @@
 <tag>
 <AM lemma="stávat-2_:T_^(něco_se_přihodilo)_(*5t-2)" src="auto" recommended="1">VpTP---XR-AA---</AM>
 <AM lemma="stávat-3_:T_^(někdo/něco_stojí,_např._na_nohou)_(*5t-3)" src="auto">VpTP---XR-AA---</AM>
-<AM lemma="	stávat-2_:T_^(stanu_staneš)_(*5t-2)" src="manual">VpTP---XR-AA---</AM>
+<AM lemma="stávat-2_:T_^(stanu_staneš)_(*5t-2)" src="manual">VpTP---XR-AA---</AM>
 <AM lemma="stávat-2_:T_^(stanu_staneš)_(*5t-2)" src="manual" selected="1">VpTP---XR-AA---</AM>
 </tag>
 </m>

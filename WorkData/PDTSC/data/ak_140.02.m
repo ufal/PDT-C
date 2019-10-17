@@ -470,7 +470,7 @@
 <form>Bendového</form>
 <tag>
 <AM lemma="Bendového" src="auto">X@-------------</AM>
-<AM lemma="	Bendův_;S_^(*2a)" src="manual">AUMS2M--------6</AM>
+<AM lemma="Bendův_;S_^(*2a)" src="manual">AUMS2M--------6</AM>
 <AM lemma="Bendův_;S_^(*2a)" src="manual" selected="1">AUMS2M--------6</AM>
 </tag>
 </m>

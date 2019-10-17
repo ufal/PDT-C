@@ -2290,7 +2290,7 @@
 <form>stojím</form>
 <tag>
 <AM lemma="stát-3_^(někdo/něco_stojí,_např._na_nohou)" src="auto" recommended="1">VB-S---1P-AA---</AM>
-<AM lemma=" stát-3_^(stojím_stojíš)" src="manual">VB-S---1P-AA---</AM>
+<AM lemma="stát-3_^(stojím_stojíš)" src="manual">VB-S---1P-AA---</AM>
 <AM lemma="stát-3_^(stojím_stojíš)" src="manual" selected="1">VB-S---1P-AA---</AM>
 </tag>
 </m>
@@ -2574,7 +2574,7 @@
 <tag>
 <AM lemma="filosofický" src="auto" recommended="1">AAFS4----1A----</AM>
 <AM lemma="filosofický" src="auto">AAFS7----1A----</AM>
-<AM lemma=" filosofický_,s_^(^DD**filozofický)" src="manual">AAFS4----1A----</AM>
+<AM lemma="filosofický_,s_^(^DD**filozofický)" src="manual">AAFS4----1A----</AM>
 <AM lemma="filosofický_,s_^(^DD**filozofický)" src="manual" selected="1">AAFS4----1A----</AM>
 </tag>
 </m>

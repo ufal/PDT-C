@@ -296,7 +296,7 @@
 <AM lemma="jeho_^(přivlast.)" src="auto" recommended="1">PSXXXZS3-------</AM>
 <AM lemma="on-1_^(vidím_ho)" src="auto">PPYS2--3-------</AM>
 <AM lemma="on-1_^(vidím_ho)" src="auto">PPYS4--3-------</AM>
-<AM lemma="	jeho_^(**můj)_(přivlast.)" src="manual">PSXXXZS3-------</AM>
+<AM lemma="jeho_^(**můj)_(přivlast.)" src="manual">PSXXXZS3-------</AM>
 <AM lemma="jeho_^(**můj)_(přivlast.)" src="manual" selected="1">PSXXXZS3-------</AM>
 </tag>
 </m>

@@ -3311,7 +3311,7 @@
 <AM lemma="dlouhý-2_^(o_čase;_př._dlouhá_doba)" src="auto">AAMP6----1A----</AM>
 <AM lemma="dlouhý-2_^(o_čase;_př._dlouhá_doba)" src="auto">AANP2----1A----</AM>
 <AM lemma="dlouhý-2_^(o_čase;_př._dlouhá_doba)" src="auto" recommended="1">AANP6----1A----</AM>
-<AM lemma="	dlouhý_^(tyč;doba)" src="manual">AANP6----1A----</AM>
+<AM lemma="dlouhý_^(tyč;doba)" src="manual">AANP6----1A----</AM>
 <AM lemma="dlouhý_^(tyč;doba)" src="manual" selected="1">AANP6----1A----</AM>
 </tag>
 </m>

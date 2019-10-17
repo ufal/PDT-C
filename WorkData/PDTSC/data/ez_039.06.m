@@ -2177,7 +2177,7 @@
 <m id="m-d1t2614-2">
 <w.rf>w#w-d1t2614-2</w.rf>
 <form>Hlavně </form>
-<tag lemma="Hlavně " src="auto">X@-------------</tag>
+<tag lemma="Hlavně" src="auto">X@-------------</tag>
 <comment>
 <LM type="New Form">
 <text>Hlavně</text>

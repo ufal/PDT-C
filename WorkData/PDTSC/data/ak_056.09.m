@@ -2670,7 +2670,7 @@
 <m id="m-d1t2791-6">
 <w.rf>w#w-d1t2791-6</w.rf>
 <form>odpočinu </form>
-<tag lemma="odpočinu " src="auto">X@-------------</tag>
+<tag lemma="odpočinu" src="auto">X@-------------</tag>
 <comment>
 <LM type="New Form">
 <text>odpočinu</text>

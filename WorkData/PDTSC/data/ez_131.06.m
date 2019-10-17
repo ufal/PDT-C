@@ -4510,7 +4510,7 @@
 <AM lemma="zastavit-1_:W_^([také_z._se];_uvést_do_klidu:_auto,...)" src="auto" recommended="1">VpMP---XR-AA---</AM>
 <AM lemma="zastavit-2_:W_^(zástavní_právo)" src="auto">VpMP---XR-AA---</AM>
 <AM lemma="zastavit_^(uvést_do_klidu;;zástavní_právo)" src="manual">VpMP---XR-AA---</AM>
-<AM lemma="	zastavit_:W_^(uvést_do_klidu;;zástavní_právo)" src="manual">VpMP---XR-AA---</AM>
+<AM lemma="zastavit_:W_^(uvést_do_klidu;;zástavní_právo)" src="manual">VpMP---XR-AA---</AM>
 <AM lemma="zastavit_:W_^(uvést_do_klidu;;zástavní_právo)" src="manual" selected="1">VpMP---XR-AA---</AM>
 </tag>
 </m>

@@ -1914,7 +1914,7 @@
 <form>nanejvýš</form>
 <tag>
 <AM lemma="nanejvýš" src="auto" recommended="1">Db-------------</AM>
-<AM lemma="	nanejvýš_^(*0e)" src="manual">Db-------------</AM>
+<AM lemma="nanejvýš_^(*0e)" src="manual">Db-------------</AM>
 <AM lemma="nanejvýš_^(*0e)" src="manual" selected="1">Db-------------</AM>
 </tag>
 </m>

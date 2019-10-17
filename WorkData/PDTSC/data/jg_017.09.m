@@ -174,7 +174,7 @@
 <AM lemma="správný_^(podle_něj._měřítek;_př._chlap,_míra,...)" src="auto">AANS1----1A---6</AM>
 <AM lemma="správný_^(podle_něj._měřítek;_př._chlap,_míra,...)" src="auto">AANS4----1A---6</AM>
 <AM lemma="správný_^(podle_něj._měřítek;_př._chlap,_míra,...)" src="auto">AANS5----1A---6</AM>
-<AM lemma="	správný_^(správný_chlap)" src="manual">AAIS4----1A----</AM>
+<AM lemma="správný_^(správný_chlap)" src="manual">AAIS4----1A----</AM>
 <AM lemma="správný_^(správný_chlap)" src="manual" selected="1">AAIS4----1A----</AM>
 </tag>
 </m>

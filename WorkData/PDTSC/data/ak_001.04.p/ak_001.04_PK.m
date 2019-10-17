@@ -3271,7 +3271,7 @@
 <tag>
 <AM lemma="stát-3_^(někdo/něco_stojí,_např._na_nohou)" src="auto">VB-P---3P-AA---</AM>
 <AM lemma="stát-3_^(někdo/něco_stojí,_např._na_nohou)" src="auto" recommended="1">VB-S---3P-AA---</AM>
-<AM lemma=" stát-3_^(stojím_stojíš)" src="manual">VB-S---3P-AA---</AM>
+<AM lemma="stát-3_^(stojím_stojíš)" src="manual">VB-S---3P-AA---</AM>
 <AM lemma="stát-3_^(stojím_stojíš)" src="manual" selected="1">VB-S---3P-AA---</AM>
 </tag>
 </m>

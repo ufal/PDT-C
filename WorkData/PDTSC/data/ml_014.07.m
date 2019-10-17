@@ -2645,7 +2645,7 @@
 <tag>
 <AM lemma="stávat-2_:T_^(něco_se_přihodilo)_(*5t-2)" src="auto">VpYS---XR-AA---</AM>
 <AM lemma="stávat-3_:T_^(někdo/něco_stojí,_např._na_nohou)_(*5t-3)" src="auto" recommended="1">VpYS---XR-AA---</AM>
-<AM lemma="	stávat-3_:T_^(stojím_stojíš)_(*5t-3)" src="manual">VpYS---XR-AA---</AM>
+<AM lemma="stávat-3_:T_^(stojím_stojíš)_(*5t-3)" src="manual">VpYS---XR-AA---</AM>
 <AM lemma="stávat-3_:T_^(stojím_stojíš)_(*5t-3)" src="manual" selected="1">VpYS---XR-AA---</AM>
 </tag>
 </m>
