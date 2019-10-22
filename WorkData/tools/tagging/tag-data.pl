@@ -404,6 +404,7 @@ sub tag {
         or die "Cannot load tagger from file '$tagger_file'\n";
 
     while (defined( $file  = shift )) {
+        print STDERR "$file\n";
         xsh << '__XSH__';
             $mdoc := open $file ;
             $sentences = $mdoc//pml:s ;
@@ -433,7 +434,7 @@ __XSH__
                 $results[-1]{form} = $forms->get($i);
 
                 my $guesser_mode = $tagger->getMorpho->analyze(
-                    $forms->get($i), $Ufal::MorphoDiTa::Morpho::GUESSER, $lemmas_a
+                    $forms->get($i), ! $Ufal::MorphoDiTa::Morpho::GUESSER, $lemmas_a
                 );
 
                 $results[-1]{was_guessed}
@@ -455,10 +456,7 @@ __XSH__
             $idx = $i + 1;
             xsh << '__XSH__';
                 my $tag = $mnodes[$idx]//pml:tag ;
-                my $am := xinsert element pml:AM into $tag ;
-                xmove $tag/text() into $am ;
-                set $am/@lemma $tag/preceding-sibling::pml:lemma/text()) ;
-                set $am/@src 'orig' ;
+                rm $tag/text() ;
                 rm $tag/preceding-sibling::pml:lemma ;
 __XSH__
 
@@ -474,10 +472,11 @@ __XSH__
 
             ($lemma, $tag) = @{ $result }{qw{ lemma tag }};
             xsh << '__XSH__';
-                my $am := xinsert element pml:AM into $mnodes[$idx]/pml:tag ;
+                my $am := xinsert element pml:AM prepend $mnodes[$idx]/pml:tag ;
                 xinsert attribute concat("lemma=", $lemma) into $am ;
                 xinsert text $tag into $am ;
-                set $am/@src 'tagger' ;
+                set $am/@recommended 1 ;
+                rm $am/../pml:AM[@lemma=$lemma][.=$tag][not(1=count(@recommended))] ;
 __XSH__
 
         }
