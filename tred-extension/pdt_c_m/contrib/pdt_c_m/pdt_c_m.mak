@@ -1966,6 +1966,24 @@ sub EditComment {
 }
 
 
+#bind EditAllComments to Ctrl-? menu Edit All Comments
+sub EditAllComments {
+    ChangingFile(0);
+    my @comments = ListV($this->attr('comment'));
+    my $remove = TredMacro::ListQuery('Remove comments',
+                                      'multiple',
+                                      [ map $_->{text}, @comments ],
+                                      [],
+                                      { label => 'Select comments to remove' });
+    return unless $remove;
+
+    my %r; undef @r{@$remove};
+    my @keep = grep ! exists $r{$_}, 0 .. $#comments;
+    $this->{comment} = List(@comments[@keep]);
+    ChangingFile(1);
+}
+
+
 #bind EditMorphology to m menu Edit Morphology
 sub EditMorphology {
     ChangingFile(0);
