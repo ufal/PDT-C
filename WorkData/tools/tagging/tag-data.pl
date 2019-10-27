@@ -344,6 +344,7 @@ __XSH__
                     set $am/@recommended 1 ;
                     xinsert text {"\n"} before $am ;
                     xinsert text {"\n"} after $am ;
+                    echo $mnodes[$idx]/@id ;
 __XSH__
             }
             xsh('for $comments delete ..');
