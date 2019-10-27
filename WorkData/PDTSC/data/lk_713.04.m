@@ -1120,12 +1120,6 @@
 <form>říkali:</form>
 <tag lemma="říkali:" src="auto">X@-------------</tag>
 <comment>
-<LM type="New Form">
-<text>říkali :</text>
-</LM>
-<LM type="New Form">
-<text>říkali</text>
-</LM>
 <LM type="Other">
 <text>2v1: říkali :</text>
 </LM>

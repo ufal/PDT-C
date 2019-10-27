@@ -495,12 +495,6 @@
 <form>svámi</form>
 <tag lemma="svámi" src="auto">X@-------------</tag>
 <comment>
-<LM type="New Form">
-<text>s vámi</text>
-</LM>
-<LM type="New Form">
-<text>s</text>
-</LM>
 <LM type="Other">
 <text>2v1: s vámi</text>
 </LM>

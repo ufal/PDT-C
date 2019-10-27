@@ -1661,9 +1661,6 @@
 <tag lemma="osavy" src="auto">X@-------------</tag>
 <comment>
 <LM type="New Form">
-<text>osalvy</text>
-</LM>
-<LM type="New Form">
 <text>oslavy</text>
 </LM>
 </comment>

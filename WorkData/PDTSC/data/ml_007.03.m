@@ -1475,9 +1475,6 @@
 <tag lemma="Slná" src="auto">X@-------------</tag>
 <comment>
 <LM type="New Form">
-<text>Slnečná</text>
-</LM>
-<LM type="New Form">
 <text>Sluneční</text>
 </LM>
 </comment>

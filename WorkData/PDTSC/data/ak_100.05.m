@@ -1139,14 +1139,8 @@
 <form>Je-li</form>
 <tag lemma="Je-li" src="auto">X@-------------</tag>
 <comment>
-<LM type="New Form">
-<text>Je - li</text>
-</LM>
 <LM type="Other">
-<text>3v1: je - li</text>
-</LM>
-<LM type="New Form">
-<text>Je</text>
+<text>3v1: Je - li</text>
 </LM>
 </comment>
 </m>

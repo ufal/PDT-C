@@ -963,12 +963,6 @@
 <form>dvatisíce</form>
 <tag lemma="dvatisíce" src="auto">X@-------------</tag>
 <comment>
-<LM type="New Form">
-<text>dva tisíce</text>
-</LM>
-<LM type="New Form">
-<text>dva</text>
-</LM>
 <LM type="Other">
 <text>2v1: dva tisíce</text>
 </LM>

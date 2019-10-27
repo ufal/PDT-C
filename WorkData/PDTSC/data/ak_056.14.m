@@ -2275,10 +2275,7 @@
 <tag lemma="nádvozní" src="auto">X@-------------</tag>
 <comment>
 <LM type="New Form">
-<text>Nádvozný</text>
-</LM>
-<LM type="New Form">
-<text>Nádvorný</text>
+<text>nádvozný</text>
 </LM>
 </comment>
 </m>

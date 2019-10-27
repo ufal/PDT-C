@@ -1689,9 +1689,6 @@
 <tag lemma="motlidbu" src="auto">X@-------------</tag>
 <comment>
 <LM type="New Form">
-<text>motlitbu</text>
-</LM>
-<LM type="New Form">
 <text>modlitbu</text>
 </LM>
 </comment>
@@ -1919,9 +1916,6 @@
 <comment>
 <LM type="Other">
 <text>2v1: Jom kipur</text>
-</LM>
-<LM type="New Form">
-<text>Jom</text>
 </LM>
 </comment>
 </m>

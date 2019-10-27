@@ -322,14 +322,8 @@
 <form>5,5m</form>
 <tag lemma="5,5m" src="auto">X@-------------</tag>
 <comment>
-<LM type="New Form">
-<text>5,5 m</text>
-</LM>
 <LM type="Other">
 <text>2v1: 5.5 m</text>
-</LM>
-<LM type="New Form">
-<text>5.5</text>
 </LM>
 </comment>
 </m>

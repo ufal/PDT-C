@@ -6687,9 +6687,6 @@
 <tag lemma="šet" src="auto">X@-------------</tag>
 <comment>
 <LM type="New Form">
-<text>šset</text>
-</LM>
-<LM type="New Form">
 <text>šest</text>
 </LM>
 </comment>

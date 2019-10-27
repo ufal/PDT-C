@@ -2096,12 +2096,6 @@
 <form>7m</form>
 <tag lemma="7m" src="auto">X@-------------</tag>
 <comment>
-<LM type="New Form">
-<text>7 m</text>
-</LM>
-<LM type="New Form">
-<text>7</text>
-</LM>
 <LM type="Other">
 <text>2v1: 7 m</text>
 </LM>
@@ -2167,14 +2161,8 @@
 <form>7,20m</form>
 <tag lemma="7,20m" src="auto">X@-------------</tag>
 <comment>
-<LM type="New Form">
-<text>7,20 m</text>
-</LM>
 <LM type="Other">
 <text>2v1: 7.20 m</text>
-</LM>
-<LM type="New Form">
-<text>7.20</text>
 </LM>
 </comment>
 </m>
@@ -3660,14 +3648,8 @@
 <form>3,5m</form>
 <tag lemma="3,5m" src="auto">X@-------------</tag>
 <comment>
-<LM type="New Form">
-<text>3,5 m</text>
-</LM>
 <LM type="Other">
 <text>2v1: 3.5 m</text>
-</LM>
-<LM type="New Form">
-<text>3.5</text>
 </LM>
 </comment>
 </m>

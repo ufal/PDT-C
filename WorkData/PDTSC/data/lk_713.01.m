@@ -1249,9 +1249,6 @@
 <tag lemma="Braunchweigu" src="auto">X@-------------</tag>
 <comment>
 <LM type="New Form">
-<text>Braunchsweigu</text>
-</LM>
-<LM type="New Form">
 <text>Braunschweigu</text>
 </LM>
 </comment>

@@ -1393,18 +1393,10 @@
 <LM>w#w-d1t296-8</LM>
 </w.rf>
 <form>21arová</form>
-<tag lemma="21arová" src="auto">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>21 arová</text>
-</LM>
-<LM type="New Form">
-<text>21</text>
-</LM>
-<LM type="Other">
-<text>2v1: 21 arová</text>
-</LM>
-</comment>
+<tag>
+<AM lemma="21arová" src="auto">X@-------------</AM>
+<AM lemma="21arová" src="manual" selected="1">AAFS1----1A----</AM>
+</tag>
 </m>
 <m id="m-196-197">
 <w.rf>

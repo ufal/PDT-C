@@ -364,9 +364,6 @@
 <tag lemma="Dráždníma" src="auto">X@-------------</tag>
 <comment>
 <LM type="New Form">
-<text>dráždníma</text>
-</LM>
-<LM type="New Form">
 <text>drážníma</text>
 </LM>
 </comment>

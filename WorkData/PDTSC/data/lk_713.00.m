@@ -6735,9 +6735,6 @@
 <tag lemma="Braunschweigovského" src="auto">X@-------------</tag>
 <comment>
 <LM type="New Form">
-<text>braunschweigovského</text>
-</LM>
-<LM type="New Form">
 <text>braunschweigského</text>
 </LM>
 </comment>

@@ -72,12 +72,6 @@
 <form>100+1</form>
 <tag lemma="100+1" src="auto">X@-------------</tag>
 <comment>
-<LM type="New Form">
-<text>100 + 1</text>
-</LM>
-<LM type="New Form">
-<text>100</text>
-</LM>
 <LM type="Other">
 <text>3v1: 100 + 1</text>
 </LM>

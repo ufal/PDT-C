@@ -456,9 +456,6 @@
 <tag lemma="mít" src="auto" recommended="1">VpMP---XR-AA---</tag>
 <comment>
 <LM type="New Form">
-<text>mělx</text>
-</LM>
-<LM type="New Form">
 <text>měly</text>
 </LM>
 </comment>

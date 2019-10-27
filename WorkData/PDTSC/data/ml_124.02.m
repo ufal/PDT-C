@@ -3494,9 +3494,6 @@
 <tag lemma="Institu" src="auto">X@-------------</tag>
 <comment>
 <LM type="New Form">
-<text>institutu</text>
-</LM>
-<LM type="New Form">
 <text>Institutu</text>
 </LM>
 </comment>

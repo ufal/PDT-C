@@ -308,12 +308,6 @@
 <LM type="New Form">
 <text>dvouapůlletého</text>
 </LM>
-<LM type="New Form">
-<text>2.5</text>
-</LM>
-<LM type="Other">
-<text>2v1: 2.5 letého</text>
-</LM>
 </comment>
 </m>
 <m id="m-d-m-d1e1609-x2-punct-punct">

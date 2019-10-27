@@ -1406,12 +1406,6 @@
 <form>km/h</form>
 <tag lemma="km/h" src="auto">X@-------------</tag>
 <comment>
-<LM type="New Form">
-<text>km / h</text>
-</LM>
-<LM type="New Form">
-<text>km</text>
-</LM>
 <LM type="Other">
 <text>3v1: km / h</text>
 </LM>

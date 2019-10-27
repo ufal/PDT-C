@@ -5940,9 +5940,6 @@
 <tag lemma="Tulcei" src="auto">X@-------------</tag>
 <comment>
 <LM type="New Form">
-<text>Tulcey</text>
-</LM>
-<LM type="New Form">
 <text>Tulceji</text>
 </LM>
 </comment>

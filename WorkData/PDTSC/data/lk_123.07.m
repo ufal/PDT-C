@@ -2696,14 +2696,8 @@
 <form>150g</form>
 <tag lemma="150g" src="auto">X@-------------</tag>
 <comment>
-<LM type="New Form">
-<text>150 g</text>
-</LM>
 <LM type="Other">
 <text>2v1: 150 g</text>
-</LM>
-<LM type="New Form">
-<text>150</text>
 </LM>
 </comment>
 </m>
@@ -2761,12 +2755,6 @@
 <form>150g</form>
 <tag lemma="150g" src="auto">X@-------------</tag>
 <comment>
-<LM type="New Form">
-<text>150 g</text>
-</LM>
-<LM type="New Form">
-<text>150</text>
-</LM>
 <LM type="Other">
 <text>2v1: 150 g</text>
 </LM>

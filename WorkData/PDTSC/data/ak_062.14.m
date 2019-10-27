@@ -1400,9 +1400,6 @@
 <tag lemma="Kielsborn" src="auto">X@-------------</tag>
 <comment>
 <LM type="New Form">
-<text>Kühlsborn</text>
-</LM>
-<LM type="New Form">
 <text>Kühlungsborn</text>
 </LM>
 </comment>
@@ -3758,7 +3755,7 @@
 <tag lemma="Kielsbornu" src="auto">X@-------------</tag>
 <comment>
 <LM type="New Form">
-<text>Kühlsbornu</text>
+<text>Kühlungsbornu</text>
 </LM>
 </comment>
 </m>

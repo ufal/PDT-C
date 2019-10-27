@@ -1531,12 +1531,6 @@
 <form>vpozadí</form>
 <tag lemma="vpozadí" src="auto">X@-------------</tag>
 <comment>
-<LM type="New Form">
-<text>v pozadí</text>
-</LM>
-<LM type="New Form">
-<text>v</text>
-</LM>
 <LM type="Other">
 <text>2v1: v pozadí</text>
 </LM>

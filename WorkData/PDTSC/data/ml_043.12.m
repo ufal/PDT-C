@@ -1026,9 +1026,6 @@
 <tag lemma="Kabernet" src="auto">X@-------------</tag>
 <comment>
 <LM type="New Form">
-<text>Cabernet</text>
-</LM>
-<LM type="New Form">
 <text>cabernet</text>
 </LM>
 </comment>
