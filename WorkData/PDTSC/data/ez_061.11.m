@@ -8,7 +8,9 @@
 </head>
 <s id="m-d1e3813-x3">
 <m id="m-d1t3820-1">
-<w.rf>w#w-d1t3820-1</w.rf>
+<w.rf>
+<LM>w#w-d1t3820-1</LM>
+</w.rf>
 <form>Na</form>
 <tag>
 <AM lemma="Na-88_:B" src="auto">NNXXX-----A----</AM>
@@ -18,7 +20,9 @@
 </tag>
 </m>
 <m id="m-d1t3820-2">
-<w.rf>w#w-d1t3820-2</w.rf>
+<w.rf>
+<LM>w#w-d1t3820-2</LM>
+</w.rf>
 <form>shledanou</form>
 <tag>
 <AM lemma="shledaná_^(okamžik_shledání;_na_shledanou!)" src="auto" recommended="1">NNFS4-----A----</AM>
@@ -28,7 +32,9 @@
 </tag>
 </m>
 <m id="m-d-m-d1e3813-x3-punct-punct">
-<w.rf>w#w-d-m-d1e3813-x3-punct-punct</w.rf>
+<w.rf>
+<LM>w#w-d-m-d1e3813-x3-punct-punct</LM>
+</w.rf>
 <form>.</form>
 <tag lemma="." src="auto" recommended="1">Z:-------------</tag>
 </m>

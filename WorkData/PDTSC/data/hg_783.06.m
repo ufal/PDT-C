@@ -8,7 +8,9 @@
 </head>
 <s id="m-27638_03-d1e2297-x4">
 <m id="m-d1t2315-1">
-<w.rf>w#w-d1t2315-1</w.rf>
+<w.rf>
+<LM>w#w-d1t2315-1</LM>
+</w.rf>
 <form>Horník</form>
 <tag>
 <AM lemma="Horník_;S" src="auto" recommended="1">NNMS1-----A----</AM>
@@ -16,17 +18,23 @@
 </tag>
 </m>
 <m id="m-d1e2297-x4-2223">
-<w.rf>w#w-d1e2297-x4-2223</w.rf>
+<w.rf>
+<LM>w#w-d1e2297-x4-2223</LM>
+</w.rf>
 <form>,</form>
 <tag lemma="," src="auto" recommended="1">Z:-------------</tag>
 </m>
 <m id="m-d1t2317-1">
-<w.rf>w#w-d1t2317-1</w.rf>
+<w.rf>
+<LM>w#w-d1t2317-1</LM>
+</w.rf>
 <form>zemědělec</form>
 <tag lemma="zemědělec" src="auto" recommended="1">NNMS1-----A----</tag>
 </m>
 <m id="m-d1t2317-2">
-<w.rf>w#w-d1t2317-2</w.rf>
+<w.rf>
+<LM>w#w-d1t2317-2</LM>
+</w.rf>
 <form>a</form>
 <tag>
 <AM lemma="a-1" src="auto" recommended="1">J^-------------</AM>
@@ -37,19 +45,25 @@
 </tag>
 </m>
 <m id="m-d1t2317-3">
-<w.rf>w#w-d1t2317-3</w.rf>
+<w.rf>
+<LM>w#w-d1t2317-3</LM>
+</w.rf>
 <form>soustružník</form>
 <tag lemma="soustružník" src="auto" recommended="1">NNMS1-----A----</tag>
 </m>
 <m id="m-d-id131335">
-<w.rf>w#w-d-id131335</w.rf>
+<w.rf>
+<LM>w#w-d-id131335</LM>
+</w.rf>
 <form>.</form>
 <tag lemma="." src="auto" recommended="1">Z:-------------</tag>
 </m>
 </s>
 <s id="m-27638_03-d1e2318-x2">
 <m id="m-d1t2323-1">
-<w.rf>w#w-d1t2323-1</w.rf>
+<w.rf>
+<LM>w#w-d1t2323-1</LM>
+</w.rf>
 <form>Konec</form>
 <tag>
 <AM lemma="konec" src="auto" recommended="1">NNIS1-----A----</AM>
@@ -57,7 +71,9 @@
 </tag>
 </m>
 <m id="m-d1t2323-2">
-<w.rf>w#w-d1t2323-2</w.rf>
+<w.rf>
+<LM>w#w-d1t2323-2</LM>
+</w.rf>
 <form>třetí</form>
 <tag>
 <AM lemma="třetí" src="auto">CrFP1----------</AM>
@@ -90,7 +106,9 @@
 </tag>
 </m>
 <m id="m-d1t2323-3">
-<w.rf>w#w-d1t2323-3</w.rf>
+<w.rf>
+<LM>w#w-d1t2323-3</LM>
+</w.rf>
 <form>kazety</form>
 <tag>
 <AM lemma="kazeta" src="auto">NNFP1-----A----</AM>
@@ -100,7 +118,9 @@
 </tag>
 </m>
 <m id="m-d-id131453">
-<w.rf>w#w-d-id131453</w.rf>
+<w.rf>
+<LM>w#w-d-id131453</LM>
+</w.rf>
 <form>.</form>
 <tag lemma="." src="auto" recommended="1">Z:-------------</tag>
 </m>
