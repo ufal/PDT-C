@@ -2514,6 +2514,11 @@
 </w.rf>
 <form>zvlášťní</form>
 <tag lemma="zvlášťní" src="auto">X@-------------</tag>
+<comment>
+<LM type="New Form">
+<text>zvláštní</text>
+</LM>
+</comment>
 </m>
 <m id="m-d1t742-6">
 <w.rf>
@@ -3822,6 +3827,11 @@
 </w.rf>
 <form>muzeií</form>
 <tag lemma="muzeií" src="auto">X@-------------</tag>
+<comment>
+<LM type="New Form">
+<text>muzeí</text>
+</LM>
+</comment>
 </m>
 <m id="m-d-m-d1e776-x2-punct-punct">
 <w.rf>

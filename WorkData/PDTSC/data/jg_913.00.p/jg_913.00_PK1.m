@@ -2182,6 +2182,11 @@
 <AM lemma="Tulcea_;G" src="manual">NNFS2-----A----</AM>
 <AM lemma="Tulcea_;G" src="manual" selected="1">NNFS2-----A---1</AM>
 </tag>
+<comment>
+<LM type="New Form">
+<text>Tulcey</text>
+</LM>
+</comment>
 </m>
 <m id="m-d1t141-4">
 <w.rf>

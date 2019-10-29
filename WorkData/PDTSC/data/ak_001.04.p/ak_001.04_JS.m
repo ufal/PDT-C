@@ -3273,6 +3273,11 @@
 <AM lemma="Hruškův_;S_^(*2a)" src="auto" selected="1">AUMP1M---------</AM>
 <AM lemma="Hruškův_;S_^(*2a)" src="auto">AUMP5M---------</AM>
 </tag>
+<comment>
+<LM type="New Form">
+<text>Hruškovy</text>
+</LM>
+</comment>
 </m>
 <m id="m-d-id114539">
 <w.rf>
@@ -5287,6 +5292,11 @@
 <AM lemma="on-1" src="auto">P5FS6--3-------</AM>
 <AM lemma="on-1" src="auto">P5FS7--3-------</AM>
 </tag>
+<comment>
+<LM type="New Form">
+<text>ni</text>
+</LM>
+</comment>
 </m>
 <m id="m-d1e1425-x2-2600">
 <w.rf>

@@ -1732,6 +1732,11 @@
 <AM lemma="v-88_:B" src="auto">NNXXX-----A----</AM>
 <AM lemma="versus_:B" src="auto">RR--1---------9</AM>
 </tag>
+<comment>
+<LM type="Other">
+<text>1v2: >vzadu</text>
+</LM>
+</comment>
 </m>
 <m id="m-d1t2628-9">
 <w.rf>
@@ -1739,6 +1744,11 @@
 </w.rf>
 <form>zadu</form>
 <tag lemma="zadu" src="auto" recommended="1">Db-------------</tag>
+<comment>
+<LM type="Other">
+<text>1v2: &lt;vzadu</text>
+</LM>
+</comment>
 </m>
 <m id="m-d1t2628-15">
 <w.rf>

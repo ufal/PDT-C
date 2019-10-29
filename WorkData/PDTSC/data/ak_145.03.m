@@ -2663,6 +2663,11 @@
 <AM lemma="cvičení_^(*3it)" src="auto">NNNS5-----A----</AM>
 <AM lemma="cvičení_^(*3it)" src="auto" recommended="1">NNNS6-----A----</AM>
 </tag>
+<comment>
+<LM type="New Form">
+<text>cvičeních</text>
+</LM>
+</comment>
 </m>
 <m id="m-d1t698-9">
 <w.rf>

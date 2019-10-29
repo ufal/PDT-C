@@ -193,6 +193,11 @@
 </w.rf>
 <form>Tde</form>
 <tag lemma="Tde" src="auto">X@-------------</tag>
+<comment>
+<LM type="New Form">
+<text>Zde</text>
+</LM>
+</comment>
 </m>
 <m id="m-d1t842-2">
 <w.rf>
@@ -4337,6 +4342,11 @@
 </w.rf>
 <form>hamoku</form>
 <tag lemma="hamoku" src="auto">X@-------------</tag>
+<comment>
+<LM type="New Form">
+<text>hamaku</text>
+</LM>
+</comment>
 </m>
 <m id="m-d1e950-x8-653">
 <w.rf>
@@ -5872,6 +5882,11 @@
 </w.rf>
 <form>Jendotka</form>
 <tag lemma="Jendotka" src="auto">X@-------------</tag>
+<comment>
+<LM type="New Form">
+<text>Jednotka</text>
+</LM>
+</comment>
 </m>
 <m id="m-d1t1091-2">
 <w.rf>

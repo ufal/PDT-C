@@ -739,6 +739,11 @@
 <AM lemma="srub" src="auto">NNIP5-----A----</AM>
 <AM lemma="srub" src="auto">NNIP7-----A----</AM>
 </tag>
+<comment>
+<LM type="New Form">
+<text>Zruby</text>
+</LM>
+</comment>
 </m>
 <m id="m-d-id93808-punct">
 <w.rf>

@@ -39,6 +39,11 @@
 </w.rf>
 <form>kombik</form>
 <tag lemma="kombik" src="auto">X@-------------</tag>
+<comment>
+<LM type="New Form">
+<text>kombík</text>
+</LM>
+</comment>
 </m>
 <m id="m-d-id113690-punct">
 <w.rf>
@@ -562,6 +567,11 @@
 </w.rf>
 <form>Štěhovicích</form>
 <tag lemma="Štěhovicích" src="auto">X@-------------</tag>
+<comment>
+<LM type="New Form">
+<text>Štěchovicích</text>
+</LM>
+</comment>
 </m>
 <m id="m-d1t1261-25">
 <w.rf>

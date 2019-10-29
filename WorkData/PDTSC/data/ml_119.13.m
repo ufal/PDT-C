@@ -2138,6 +2138,11 @@
 </w.rf>
 <form>Brindis</form>
 <tag lemma="Brindis" src="auto">X@-------------</tag>
+<comment>
+<LM type="New Form">
+<text>Brindisi</text>
+</LM>
+</comment>
 </m>
 <m id="m-579-580">
 <w.rf>

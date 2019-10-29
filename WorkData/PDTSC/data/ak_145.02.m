@@ -2078,6 +2078,11 @@
 </w.rf>
 <form>Žalí</form>
 <tag lemma="Žalí" src="auto">X@-------------</tag>
+<comment>
+<LM type="New Form">
+<text>Žalém</text>
+</LM>
+</comment>
 </m>
 <m id="m-d1t422-9">
 <w.rf>

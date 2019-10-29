@@ -3689,6 +3689,11 @@
 <AM lemma="vyjítí" src="auto">X@-------------</AM>
 <AM lemma="vyjítí_,h_^(^GC**vyjití)" src="manual" selected="1">NNNS6-----A----</AM>
 </tag>
+<comment>
+<LM type="New Form">
+<text>vyjití</text>
+</LM>
+</comment>
 </m>
 <m id="m-d1t985-1">
 <w.rf>

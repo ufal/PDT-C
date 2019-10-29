@@ -4650,6 +4650,11 @@
 </w.rf>
 <form>Patrosu</form>
 <tag lemma="Patrosu" src="auto">X@-------------</tag>
+<comment>
+<LM type="New Form">
+<text>Patrasu</text>
+</LM>
+</comment>
 </m>
 <m id="m-d1e2000-x2-231">
 <w.rf>

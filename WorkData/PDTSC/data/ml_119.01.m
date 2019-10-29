@@ -2169,6 +2169,11 @@
 </w.rf>
 <form>jezdili</form>
 <tag lemma="jezdit_:T" src="auto" recommended="1">VpMP---XR-AA---</tag>
+<comment>
+<LM type="New Form">
+<text>jezdily</text>
+</LM>
+</comment>
 </m>
 <m id="m-d1t344-4">
 <w.rf>

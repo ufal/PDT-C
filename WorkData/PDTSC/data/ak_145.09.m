@@ -2321,6 +2321,11 @@
 </w.rf>
 <form>zkácel</form>
 <tag lemma="zkácel" src="auto">X@-------------</tag>
+<comment>
+<LM type="New Form">
+<text>skácel</text>
+</LM>
+</comment>
 </m>
 <m id="m-d1t1750-26">
 <w.rf>

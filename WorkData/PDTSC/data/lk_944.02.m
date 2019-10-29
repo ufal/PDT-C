@@ -3674,6 +3674,11 @@
 </w.rf>
 <form>vyjítí</form>
 <tag lemma="vyjítí" src="auto">X@-------------</tag>
+<comment>
+<LM type="New Form">
+<text>vyjití</text>
+</LM>
+</comment>
 </m>
 <m id="m-d1t985-1">
 <w.rf>

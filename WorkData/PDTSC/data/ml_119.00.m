@@ -358,6 +358,11 @@
 </w.rf>
 <form>dobrě</form>
 <tag lemma="dobrě" src="auto">X@-------------</tag>
+<comment>
+<LM type="New Form">
+<text>dobře</text>
+</LM>
+</comment>
 </m>
 <m id="m-d1t22-8">
 <w.rf>

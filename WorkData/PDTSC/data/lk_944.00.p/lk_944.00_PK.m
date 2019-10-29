@@ -1429,6 +1429,11 @@
 </w.rf>
 <form>neměli</form>
 <tag lemma="mít" src="auto" recommended="1">VpMP---XR-NA---</tag>
+<comment>
+<LM type="New Form">
+<text>neměly</text>
+</LM>
+</comment>
 </m>
 <m id="m-d1t114-2">
 <w.rf>

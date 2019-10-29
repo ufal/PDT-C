@@ -909,6 +909,11 @@
 <AM lemma="udržovat_:T" src="auto" recommended="1">Vi-P---2--A----</AM>
 <AM lemma="udržovat_:T" src="auto">Vi-P---3--A---4</AM>
 </tag>
+<comment>
+<LM type="New Form">
+<text>Udržujete</text>
+</LM>
+</comment>
 </m>
 <m id="m-d1t1659-2">
 <w.rf>

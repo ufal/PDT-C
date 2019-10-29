@@ -8321,6 +8321,11 @@
 </w.rf>
 <form>1 600</form>
 <tag lemma="1 600" src="auto">X@-------------</tag>
+<comment>
+<LM type="New Form">
+<text>1600</text>
+</LM>
+</comment>
 </m>
 <m id="m-d1t829-11">
 <w.rf>

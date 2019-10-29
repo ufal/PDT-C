@@ -4212,6 +4212,11 @@
 <AM lemma="osm`8" src="auto">Cn-P6----------</AM>
 <AM lemma="osm`8" src="auto">Cn-P7----------</AM>
 </tag>
+<comment>
+<LM type="Other">
+<text>osmimetrové by mělo být psáno dohromady - pokud to jde takto upravit</text>
+</LM>
+</comment>
 </m>
 <m id="m-d1t525-14">
 <w.rf>

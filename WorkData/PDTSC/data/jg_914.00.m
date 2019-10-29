@@ -677,6 +677,11 @@
 </w.rf>
 <form>Tulcei</form>
 <tag lemma="Tulcei" src="auto">X@-------------</tag>
+<comment>
+<LM type="New Form">
+<text>Tulcey</text>
+</LM>
+</comment>
 </m>
 <m id="m-d-id56228">
 <w.rf>

@@ -684,6 +684,11 @@
 <AM lemma="Tulcei" src="auto">X@-------------</AM>
 <AM lemma="Tulcea_;G" src="manual" selected="1">NNFS2-----A----</AM>
 </tag>
+<comment>
+<LM type="New Form">
+<text>Tulcey</text>
+</LM>
+</comment>
 </m>
 <m id="m-d-id56228">
 <w.rf>

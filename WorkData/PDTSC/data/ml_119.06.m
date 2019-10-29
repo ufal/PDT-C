@@ -4613,6 +4613,11 @@
 </w.rf>
 <form>přiravovali</form>
 <tag lemma="přiravovali" src="auto">X@-------------</tag>
+<comment>
+<LM type="New Form">
+<text>připravovali</text>
+</LM>
+</comment>
 </m>
 <m id="m-d1t1454-20">
 <w.rf>

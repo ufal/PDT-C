@@ -4101,6 +4101,11 @@
 </w.rf>
 <form>,</form>
 <tag lemma="," src="auto" recommended="1">Z:-------------</tag>
+<comment>
+<LM type="Other">
+<text>čárka je ve větě navíc</text>
+</LM>
+</comment>
 </m>
 <m id="m-d1t887-6">
 <w.rf>

@@ -1331,6 +1331,11 @@
 </w.rf>
 <form>byli</form>
 <tag lemma="být" src="auto" recommended="1">VpMP---XR-AA---</tag>
+<comment>
+<LM type="New Form">
+<text>byly</text>
+</LM>
+</comment>
 </m>
 <m id="m-d1t233-24">
 <w.rf>

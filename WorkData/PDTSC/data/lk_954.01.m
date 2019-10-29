@@ -2235,6 +2235,11 @@
 </w.rf>
 <form>50 000</form>
 <tag lemma="50 000" src="auto">X@-------------</tag>
+<comment>
+<LM type="New Form">
+<text>50000</text>
+</LM>
+</comment>
 </m>
 <m id="m-d1t714-8">
 <w.rf>
@@ -3788,6 +3793,11 @@
 </w.rf>
 <form>vzpomínaji</form>
 <tag lemma="vzpomínaji" src="auto">X@-------------</tag>
+<comment>
+<LM type="New Form">
+<text>vzpomínají</text>
+</LM>
+</comment>
 </m>
 <m id="m-d1t877-1">
 <w.rf>
@@ -3952,6 +3962,11 @@
 </w.rf>
 <form>,</form>
 <tag lemma="," src="auto" recommended="1">Z:-------------</tag>
+<comment>
+<LM type="Other">
+<text>čárka je ve větě navíc</text>
+</LM>
+</comment>
 </m>
 <m id="m-d1t887-6">
 <w.rf>

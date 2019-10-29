@@ -2045,6 +2045,11 @@
 </w.rf>
 <form>1 600</form>
 <tag lemma="1 600" src="auto">X@-------------</tag>
+<comment>
+<LM type="New Form">
+<text>1600</text>
+</LM>
+</comment>
 </m>
 <m id="m-8166-8301">
 <w.rf>
@@ -4507,6 +4512,11 @@
 <AM lemma="luk" src="auto">NNIS4-----A----</AM>
 <AM lemma="luka" src="auto">NNNP2-----A----</AM>
 </tag>
+<comment>
+<LM type="New Form">
+<text>luken</text>
+</LM>
+</comment>
 </m>
 <m id="m-8468-8806">
 <w.rf>

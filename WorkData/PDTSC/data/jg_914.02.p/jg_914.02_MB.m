@@ -4384,6 +4384,11 @@
 <AM lemma="hamoku" src="auto">X@-------------</AM>
 <AM lemma="hamok" src="manual" selected="1">NNIS6-----A----</AM>
 </tag>
+<comment>
+<LM type="New Form">
+<text>hamaku</text>
+</LM>
+</comment>
 </m>
 <m id="m-d1e950-x8-653">
 <w.rf>

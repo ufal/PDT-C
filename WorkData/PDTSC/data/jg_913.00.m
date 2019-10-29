@@ -2173,6 +2173,11 @@
 </w.rf>
 <form>Tulcei</form>
 <tag lemma="Tulcei" src="auto">X@-------------</tag>
+<comment>
+<LM type="New Form">
+<text>Tulcey</text>
+</LM>
+</comment>
 </m>
 <m id="m-d1t141-4">
 <w.rf>
@@ -5882,6 +5887,11 @@
 </w.rf>
 <form>Tulcei</form>
 <tag lemma="Tulcei" src="auto">X@-------------</tag>
+<comment>
+<LM type="New Form">
+<text>Tulceji</text>
+</LM>
+</comment>
 </m>
 <m id="m-d-id66059">
 <w.rf>
@@ -6428,6 +6438,11 @@
 </w.rf>
 <form>Mílos</form>
 <tag lemma="Mílos" src="auto">X@-------------</tag>
+<comment>
+<LM type="New Form">
+<text>Milos</text>
+</LM>
+</comment>
 </m>
 <m id="m-d1e338-x8-1992">
 <w.rf>
@@ -6660,6 +6675,11 @@
 <AM lemma="já" src="auto" recommended="1">PP-S3--1-------</AM>
 <AM lemma="já" src="auto">PP-S6--1-------</AM>
 </tag>
+<comment>
+<LM type="New Form">
+<text>mě</text>
+</LM>
+</comment>
 </m>
 <m id="m-d1t421-12">
 <w.rf>

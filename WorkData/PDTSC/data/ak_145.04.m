@@ -3212,6 +3212,11 @@
 </w.rf>
 <form>příjímač</form>
 <tag lemma="příjímač" src="auto">X@-------------</tag>
+<comment>
+<LM type="New Form">
+<text>přijímač</text>
+</LM>
+</comment>
 </m>
 <m id="m-208-209">
 <w.rf>

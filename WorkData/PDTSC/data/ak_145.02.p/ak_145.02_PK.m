@@ -2080,7 +2080,7 @@
 <tag lemma="Žalí" src="auto">X@-------------</tag>
 <comment>
 <LM type="New Form">
-<text>Žalý</text>
+<text>Žalém</text>
 </LM>
 </comment>
 </m>

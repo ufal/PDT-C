@@ -3293,6 +3293,11 @@
 </w.rf>
 <form>rozumněl</form>
 <tag lemma="rozumněl" src="auto">X@-------------</tag>
+<comment>
+<LM type="New Form">
+<text>rozuměl</text>
+</LM>
+</comment>
 </m>
 <m id="m-d-id73849">
 <w.rf>

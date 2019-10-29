@@ -5239,6 +5239,11 @@
 <AM lemma="on-1" src="auto">P5FS6--3-------</AM>
 <AM lemma="on-1" src="auto">P5FS7--3-------</AM>
 </tag>
+<comment>
+<LM type="New Form">
+<text>ni</text>
+</LM>
+</comment>
 </m>
 <m id="m-d1e1425-x2-2600">
 <w.rf>

@@ -5479,6 +5479,11 @@
 </w.rf>
 <form>,</form>
 <tag lemma="," src="auto" recommended="1">Z:-------------</tag>
+<comment>
+<LM type="Other">
+<text>chybná interpunkce - opravit?</text>
+</LM>
+</comment>
 </m>
 <m id="m-d1t573-15">
 <w.rf>

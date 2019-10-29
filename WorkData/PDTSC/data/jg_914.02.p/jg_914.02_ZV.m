@@ -195,7 +195,7 @@
 <tag lemma="Tde" src="auto">X@-------------</tag>
 <comment>
 <LM type="New Form">
-<text>Kde</text>
+<text>Zde</text>
 </LM>
 </comment>
 </m>
