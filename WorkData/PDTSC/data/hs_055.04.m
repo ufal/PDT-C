@@ -305,8 +305,8 @@
 <form>2,5letého</form>
 <tag lemma="2,5letého" src="auto">X@-------------</tag>
 <comment>
-<LM type="New Form">
-<text>dvouapůlletého</text>
+<LM type="Other">
+<text>2v1: 2.5 letého</text>
 </LM>
 </comment>
 </m>

@@ -1397,6 +1397,11 @@
 <AM lemma="21arová" src="auto">X@-------------</AM>
 <AM lemma="21arová" src="manual" selected="1">AAFS1----1A----</AM>
 </tag>
+<comment>
+<LM type="Other">
+<text>2v1: 21 arová</text>
+</LM>
+</comment>
 </m>
 <m id="m-196-197">
 <w.rf>
