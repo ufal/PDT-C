@@ -26015,6 +26015,11 @@
 </w.rf>
 <form>nepřestavitelnou</form>
 <tag lemma="přestavitelný_^(jinak_nastavit)_(*4)" src="orig" selected="1">AAFS4----1N----</tag>
+<comment>
+<LM type="New Form">
+<text>nepředstavitelnou</text>
+</LM>
+</comment>
 </m>
 <m id="m-vesm9212-049-p37s13w4">
 <src.rf>manual</src.rf>
