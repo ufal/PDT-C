@@ -2200,25 +2200,9 @@
 <w.rf>
 <LM>w#w-cmpr9413-012-p10s9w5</LM>
 </w.rf>
-<form>přilákání</form>
-<tag>
-<AM lemma="přilákat" src="orig">VsMP---XX-AP---</AM>
-<AM lemma="přilákání_^(*3at)" src="auto">NNNP1-----A----</AM>
-<AM lemma="přilákání_^(*3at)" src="auto">NNNP2-----A----</AM>
-<AM lemma="přilákání_^(*3at)" src="auto">NNNP4-----A----</AM>
-<AM lemma="přilákání_^(*3at)" src="auto">NNNP5-----A----</AM>
-<AM lemma="přilákání_^(*3at)" src="auto" recommended="1">NNNS1-----A----</AM>
-<AM lemma="přilákání_^(*3at)" src="auto">NNNS2-----A----</AM>
-<AM lemma="přilákání_^(*3at)" src="auto">NNNS3-----A----</AM>
-<AM lemma="přilákání_^(*3at)" src="auto">NNNS4-----A----</AM>
-<AM lemma="přilákání_^(*3at)" src="auto">NNNS5-----A----</AM>
-<AM lemma="přilákání_^(*3at)" src="auto">NNNS6-----A----</AM>
-</tag>
-<comment>
-<LM type="New Form">
-<text>přilákáni</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>přilákáni</form>
+<tag lemma="přilákat_:W" src="auto" recommended="1">VsMP---XX-AP---</tag>
 </m>
 <m id="m-cmpr9413-012-p10s9w6">
 <src.rf>manual</src.rf>

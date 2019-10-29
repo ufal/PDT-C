@@ -4296,30 +4296,15 @@
 <w.rf>
 <LM>w#w-lnd92253-049-p9s1w22</LM>
 </w.rf>
-<form>žádné</form>
+<form_change>spell</form_change>
+<form>žádná</form>
 <tag>
-<AM lemma="žádný" src="orig">PWNP1---------7</AM>
-<AM lemma="žádný" src="auto" recommended="1">PWFP1----------</AM>
-<AM lemma="žádný" src="auto">PWFP4----------</AM>
-<AM lemma="žádný" src="auto">PWFP5----------</AM>
-<AM lemma="žádný" src="auto">PWFS2----------</AM>
-<AM lemma="žádný" src="auto">PWFS3----------</AM>
-<AM lemma="žádný" src="auto">PWFS6----------</AM>
-<AM lemma="žádný" src="auto">PWIP1----------</AM>
-<AM lemma="žádný" src="auto">PWIP5----------</AM>
-<AM lemma="žádný" src="auto">PWNP1---------6</AM>
-<AM lemma="žádný" src="auto">PWNP4---------6</AM>
-<AM lemma="žádný" src="auto">PWNP5---------6</AM>
-<AM lemma="žádný" src="auto">PWNS1----------</AM>
-<AM lemma="žádný" src="auto">PWNS4----------</AM>
-<AM lemma="žádný" src="auto">PWNS5----------</AM>
-<AM lemma="žádný" src="auto">PWYP4----------</AM>
+<AM lemma="žádný">PWFS5----------</AM>
+<AM lemma="žádný">PWNP1----------</AM>
+<AM lemma="žádný">PWNP4----------</AM>
+<AM lemma="žádný">PWNP5----------</AM>
+<AM lemma="žádný" src="auto" recommended="1">PWFS1----------</AM>
 </tag>
-<comment>
-<LM type="New Form">
-<text>žádná</text>
-</LM>
-</comment>
 </m>
 <m id="m-lnd92253-049-p9s1w23">
 <src.rf>manual</src.rf>

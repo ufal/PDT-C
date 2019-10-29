@@ -2337,13 +2337,9 @@
 <w.rf>
 <LM>w#w-lnd92256-059-p6s1w17</LM>
 </w.rf>
-<form>směl</form>
-<tag lemma="smět_:T" src="orig">VpYS---XR-AA---</tag>
-<comment>
-<LM type="New Form">
-<text>měl</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>měl</form>
+<tag lemma="mít" src="auto" recommended="1">VpYS---XR-AA---</tag>
 </m>
 <m id="m-lnd92256-059-p6s1w18">
 <src.rf>manual</src.rf>

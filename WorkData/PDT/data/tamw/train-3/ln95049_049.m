@@ -1157,13 +1157,14 @@
 <LM>w#w-ln95049-049-p3s3w9</LM>
 </w.rf>
 <form_change>spell</form_change>
-<form>maximuma</form>
-<tag lemma="maximum" src="orig">NNNS2-----A----</tag>
-<comment>
-<LM type="New Form">
-<text>maxima</text>
-</LM>
-</comment>
+<form>maxima</form>
+<tag>
+<AM lemma="maxima">NNFS1-----A----</AM>
+<AM lemma="maximum">NNNP1-----A----</AM>
+<AM lemma="maximum">NNNP4-----A----</AM>
+<AM lemma="maximum">NNNP5-----A----</AM>
+<AM lemma="maximum" src="auto" recommended="1">NNNS2-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95049-049-p3s3w10">
 <src.rf>manual</src.rf>

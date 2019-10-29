@@ -4748,16 +4748,9 @@
 <w.rf>
 <LM>w#w-cmpr9410-045-p14s5w12</LM>
 </w.rf>
-<form>-3</form>
-<tag>
-<AM lemma="3" src="orig">C=-------------</AM>
-<AM lemma="-3" src="auto" recommended="1">C=-------------</AM>
-</tag>
-<comment>
-<LM type="New Form">
-<text>3</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>3</form>
+<tag lemma="3" src="auto" recommended="1">C=-------------</tag>
 </m>
 <m id="m-cmpr9410-045-p14s5w13">
 <src.rf>manual</src.rf>

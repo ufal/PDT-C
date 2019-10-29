@@ -900,13 +900,9 @@
 <w.rf>
 <LM>w#w-lnd94103-049-p1s3w63</LM>
 </w.rf>
-<form>přijal</form>
-<tag lemma="přijmout" src="auto">VpYS---XR-AA---</tag>
-<comment>
-<LM type="New Form">
-<text>přijel</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>přijel</form>
+<tag lemma="přijet" src="auto" recommended="1">VpYS---XR-AA---</tag>
 </m>
 <m id="m-lnd94103-049-p1s3w64">
 <src.rf>manual</src.rf>

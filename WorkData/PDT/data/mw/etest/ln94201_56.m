@@ -2320,13 +2320,9 @@
 <w.rf>
 <LM>w#w-ln94201-56-p5s4w5</LM>
 </w.rf>
-<form>-82</form>
-<tag lemma="-82" src="orig">C=-------------</tag>
-<comment>
-<LM type="New Form">
-<text>82</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>82</form>
+<tag lemma="82" src="auto" recommended="1">C=-------------</tag>
 </m>
 <m id="m-ln94201-56-p5s4w6">
 <src.rf>manual</src.rf>

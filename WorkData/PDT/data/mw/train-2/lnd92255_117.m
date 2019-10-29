@@ -9695,18 +9695,9 @@
 <w.rf>
 <LM>w#w-lnd92255-117-p15s3w20</LM>
 </w.rf>
-<form>bolů</form>
-<tag>
-<AM lemma="bol" src="orig">NNIP2-----A----</AM>
-<AM lemma="bol-1_^(jílovitá_hlinka)" src="auto" recommended="1">NNIP2-----A----</AM>
-<AM lemma="bol-2_^(bolest)" src="auto">NNIP2-----A----</AM>
-<AM lemma="bolus-1_^(druh_jílovité_hlinky)" src="auto">NNIP2-----A----</AM>
-</tag>
-<comment>
-<LM type="New Form">
-<text>bloků</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>bloků</form>
+<tag lemma="blok" src="auto" recommended="1">NNIP2-----A----</tag>
 </m>
 <m id="m-lnd92255-117-p15s3w21">
 <src.rf>manual</src.rf>

@@ -536,13 +536,12 @@
 <w.rf>
 <LM>w#w-lnd92255-079-p7s1w2</LM>
 </w.rf>
-<form>areá</form>
-<tag lemma="areál" src="orig">NNIS1-----A----</tag>
-<comment>
-<LM type="New Form">
-<text>areál</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>areál</form>
+<tag>
+<AM lemma="areál">NNIS4-----A----</AM>
+<AM lemma="areál" src="auto" recommended="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92255-079-p7s1w3">
 <src.rf>manual</src.rf>
@@ -712,13 +711,12 @@
 <w.rf>
 <LM>w#w-lnd92255-079-p9s1w2</LM>
 </w.rf>
-<form>areá</form>
-<tag lemma="areál" src="orig">NNIS1-----A----</tag>
-<comment>
-<LM type="New Form">
-<text>areál</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>areál</form>
+<tag>
+<AM lemma="areál">NNIS4-----A----</AM>
+<AM lemma="areál" src="auto" recommended="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92255-079-p9s1w3">
 <src.rf>manual</src.rf>

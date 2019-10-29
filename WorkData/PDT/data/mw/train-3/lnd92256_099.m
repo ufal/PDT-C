@@ -3203,13 +3203,13 @@
 <LM>w#w-lnd92256-099-p7s2w17</LM>
 </w.rf>
 <form_change>spell</form_change>
-<form>sezóna</form>
-<tag lemma="sezóna" src="auto">NNFS1-----A----</tag>
-<comment>
-<LM type="New Form">
-<text>sezóny</text>
-</LM>
-</comment>
+<form>sezóny</form>
+<tag>
+<AM lemma="sezóna">NNFP1-----A----</AM>
+<AM lemma="sezóna">NNFP4-----A----</AM>
+<AM lemma="sezóna">NNFP5-----A----</AM>
+<AM lemma="sezóna" src="auto" recommended="1">NNFS2-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92256-099-p7s2w18">
 <src.rf>manual</src.rf>

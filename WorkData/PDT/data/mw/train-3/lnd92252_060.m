@@ -693,18 +693,16 @@
 <w.rf>
 <LM>w#w-lnd92252-060-p4s2w41</LM>
 </w.rf>
-<form>z</form>
+<form_change>spell</form_change>
+<form>v</form>
 <tag>
-<AM lemma="v-1" src="orig">RR--6----------</AM>
-<AM lemma="z-1" src="auto" recommended="1">RR--2----------</AM>
-<AM lemma="z-3_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
-<AM lemma="z-8_:B_^(ost._zkratka)" src="auto">XX------------8</AM>
+<AM lemma="v-1">RR--4----------</AM>
+<AM lemma="v-3_^(označení_pomocí_písmene)">NNNXX-----A----</AM>
+<AM lemma="v-8_:B_^(ost._zkratka)">XX------------8</AM>
+<AM lemma="versus_:B_,t_,x">RR--1---------8</AM>
+<AM lemma="veřejný_:B_^(v.o.s.)">AAXXX----1A---8</AM>
+<AM lemma="v-1" src="auto" recommended="1">RR--6----------</AM>
 </tag>
-<comment>
-<LM type="New Form">
-<text>v</text>
-</LM>
-</comment>
 </m>
 <m id="m-lnd92252-060-p4s2w42">
 <src.rf>manual</src.rf>

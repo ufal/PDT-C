@@ -748,16 +748,9 @@
 <w.rf>
 <LM>w#w-mf930709-048-p2s4w26</LM>
 </w.rf>
-<form>dolaru</form>
-<tag>
-<AM lemma="dolar_;b" src="orig">NNIS2-----A----</AM>
-<AM lemma="dolar" src="manual">NNIS2-----A----</AM>
-</tag>
-<comment>
-<LM type="New Form">
-<text>dolarů</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>dolarů</form>
+<tag lemma="dolar_;b" src="auto" recommended="1">NNIP2-----A----</tag>
 </m>
 <m id="m-mf930709-048-p2s4w27">
 <src.rf>manual</src.rf>

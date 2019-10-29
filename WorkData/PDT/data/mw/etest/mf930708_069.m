@@ -2654,17 +2654,21 @@
 <w.rf>
 <LM>w#w-mf930708-069-p57s1w4</LM>
 </w.rf>
-<form>Nikola</form>
+<form_change>spell</form_change>
+<form>Nikoly</form>
 <tag>
-<AM lemma="Nikolo_;Y" src="orig">NNMS2-----A----</AM>
-<AM lemma="Nikola-1_;Y_^(žena)" src="auto">NNFS1-----A----</AM>
-<AM lemma="Nikola-2_;Y_^(muž)" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Nikola-1_;Y_^(žena)">NNFP1-----A----</AM>
+<AM lemma="Nikola-1_;Y_^(žena)">NNFP4-----A----</AM>
+<AM lemma="Nikola-1_;Y_^(žena)">NNFP5-----A----</AM>
+<AM lemma="Nikola-1_;Y_^(žena)">NNFS2-----A----</AM>
+<AM lemma="Nikola-2_;Y_^(muž)">NNMP4-----A----</AM>
+<AM lemma="Nikola-2_;Y_^(muž)">NNMP7-----A----</AM>
+<AM lemma="nikol_;g">NNIP1-----A----</AM>
+<AM lemma="nikol_;g">NNIP4-----A----</AM>
+<AM lemma="nikol_;g">NNIP5-----A----</AM>
+<AM lemma="nikol_;g">NNIP7-----A----</AM>
+<AM lemma="Nikola-2_;Y_^(muž)" src="auto" recommended="1">NNMS2-----A----</AM>
 </tag>
-<comment>
-<LM type="New Form">
-<text>Nikoly</text>
-</LM>
-</comment>
 </m>
 <m id="m-mf930708-069-p57s1w5">
 <src.rf>manual</src.rf>

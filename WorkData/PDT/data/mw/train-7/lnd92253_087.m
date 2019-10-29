@@ -1076,13 +1076,12 @@
 <w.rf>
 <LM>w#w-lnd92253-087-p3s3w14</LM>
 </w.rf>
-<form>nakazí</form>
-<tag lemma="nakazit_:W" src="orig">VB-S---3P-AA---</tag>
-<comment>
-<LM type="New Form">
-<text>nekazí</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>nekazí</form>
+<tag>
+<AM lemma="kazit_:T">VB-P---3P-NA---</AM>
+<AM lemma="kazit_:T" src="auto" recommended="1">VB-S---3P-NA---</AM>
+</tag>
 </m>
 <m id="m-lnd92253-087-p3s3w15">
 <src.rf>manual</src.rf>

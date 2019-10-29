@@ -470,16 +470,16 @@
 <w.rf>
 <LM>w#w-ln94203-84-p2s3w8</LM>
 </w.rf>
-<form>Katynu</form>
+<form_change>spell</form_change>
+<form>Katyni</form>
 <tag>
-<AM lemma="Katyn_;G" src="orig">NNIS6-----A----</AM>
-<AM lemma="Katyna_;Y" src="auto" recommended="1">NNFS4-----A----</AM>
+<AM lemma="Katyň_;G">NNFS3-----A----</AM>
+<AM lemma="Katyň_;G">NNFS5-----A----</AM>
+<AM lemma="Katyně_;G">NNFS3-----A----</AM>
+<AM lemma="Katyně_;G">NNFS4-----A----</AM>
+<AM lemma="Katyně_;G">NNFS6-----A----</AM>
+<AM lemma="Katyň_;G" src="auto" recommended="1">NNFS6-----A----</AM>
 </tag>
-<comment>
-<LM type="New Form">
-<text>Katyni</text>
-</LM>
-</comment>
 </m>
 <m id="m-ln94203-84-p2s3w9">
 <src.rf>manual</src.rf>

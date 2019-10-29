@@ -4049,13 +4049,9 @@
 <w.rf>
 <LM>w#w-ln94208-106-p9s2w6</LM>
 </w.rf>
-<form>aby</form>
-<tag lemma="aby" src="orig">J,-------------</tag>
-<comment>
-<LM type="New Form">
-<text>abych</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>abych</form>
+<tag lemma="aby" src="auto" recommended="1">J,-S---1-------</tag>
 </m>
 <m id="m-ln94208-106-p9s2w8">
 <src.rf>manual</src.rf>

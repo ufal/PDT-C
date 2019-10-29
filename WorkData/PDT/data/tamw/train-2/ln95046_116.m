@@ -414,44 +414,21 @@
 <w.rf>
 <LM>w#w-ln95046-116-p3s1w1</LM>
 </w.rf>
-<form>Hlavní</form>
+<form_change>spell</form_change>
+<form>Hlavním</form>
 <tag>
-<AM lemma="hlavní" src="orig">AAIS7----1A----</AM>
-<AM lemma="hlaveň" src="auto">NNFP2-----A----</AM>
-<AM lemma="hlaveň" src="auto">NNFS7-----A----</AM>
-<AM lemma="hlavní" src="auto">AAFP1----1A----</AM>
-<AM lemma="hlavní" src="auto">AAFP4----1A----</AM>
-<AM lemma="hlavní" src="auto">AAFP5----1A----</AM>
-<AM lemma="hlavní" src="auto">AAFS1----1A----</AM>
-<AM lemma="hlavní" src="auto">AAFS2----1A----</AM>
-<AM lemma="hlavní" src="auto">AAFS3----1A----</AM>
-<AM lemma="hlavní" src="auto">AAFS4----1A----</AM>
-<AM lemma="hlavní" src="auto">AAFS5----1A----</AM>
-<AM lemma="hlavní" src="auto">AAFS6----1A----</AM>
-<AM lemma="hlavní" src="auto" recommended="1">AAFS7----1A----</AM>
-<AM lemma="hlavní" src="auto">AAIP1----1A----</AM>
-<AM lemma="hlavní" src="auto">AAIP4----1A----</AM>
-<AM lemma="hlavní" src="auto">AAIP5----1A----</AM>
-<AM lemma="hlavní" src="auto">AAIS1----1A----</AM>
-<AM lemma="hlavní" src="auto">AAIS4----1A----</AM>
-<AM lemma="hlavní" src="auto">AAIS5----1A----</AM>
-<AM lemma="hlavní" src="auto">AAMP1----1A----</AM>
-<AM lemma="hlavní" src="auto">AAMP4----1A----</AM>
-<AM lemma="hlavní" src="auto">AAMP5----1A----</AM>
-<AM lemma="hlavní" src="auto">AAMS1----1A----</AM>
-<AM lemma="hlavní" src="auto">AAMS5----1A----</AM>
-<AM lemma="hlavní" src="auto">AANP1----1A----</AM>
-<AM lemma="hlavní" src="auto">AANP4----1A----</AM>
-<AM lemma="hlavní" src="auto">AANP5----1A----</AM>
-<AM lemma="hlavní" src="auto">AANS1----1A----</AM>
-<AM lemma="hlavní" src="auto">AANS4----1A----</AM>
-<AM lemma="hlavní" src="auto">AANS5----1A----</AM>
+<AM lemma="hlaveň">NNFP3-----A----</AM>
+<AM lemma="hlavní">AAFP3----1A----</AM>
+<AM lemma="hlavní">AAIP3----1A----</AM>
+<AM lemma="hlavní">AAIS6----1A----</AM>
+<AM lemma="hlavní">AAMP3----1A----</AM>
+<AM lemma="hlavní">AAMS6----1A----</AM>
+<AM lemma="hlavní">AAMS7----1A----</AM>
+<AM lemma="hlavní">AANP3----1A----</AM>
+<AM lemma="hlavní">AANS6----1A----</AM>
+<AM lemma="hlavní">AANS7----1A----</AM>
+<AM lemma="hlavní" src="auto" recommended="1">AAIS7----1A----</AM>
 </tag>
-<comment>
-<LM type="New Form">
-<text>Hlavním</text>
-</LM>
-</comment>
 </m>
 <m id="m-ln95046-116-p3s1w2">
 <src.rf>manual</src.rf>

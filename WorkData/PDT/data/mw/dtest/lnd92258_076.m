@@ -3091,13 +3091,17 @@
 <w.rf>
 <LM>w#w-lnd92258-076-p47s1w49</LM>
 </w.rf>
-<form>víceS</form>
-<tag lemma="hodně" src="orig">Dg-------2A----</tag>
-<comment>
-<LM type="New Form">
-<text>více</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>více</form>
+<tag>
+<AM lemma="více_^(více_+_2._p.,_více_peněz)">Ca--1----------</AM>
+<AM lemma="více_^(více_+_2._p.,_více_peněz)">Ca--2----------</AM>
+<AM lemma="více_^(více_+_2._p.,_více_peněz)">Ca--3----------</AM>
+<AM lemma="více_^(více_+_2._p.,_více_peněz)">Ca--4----------</AM>
+<AM lemma="více_^(více_+_2._p.,_více_peněz)">Ca--6----------</AM>
+<AM lemma="více_^(více_+_2._p.,_více_peněz)">Ca--7----------</AM>
+<AM lemma="hodně-2" src="auto" recommended="1">Dg-------2A----</AM>
+</tag>
 </m>
 <m id="m-lnd92258-076-p47s1w50">
 <src.rf>manual</src.rf>

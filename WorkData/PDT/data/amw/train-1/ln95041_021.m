@@ -4253,17 +4253,17 @@
 <w.rf>
 <LM>w#w-ln95041-021-p5s3w13</LM>
 </w.rf>
-<form>budoucností</form>
+<form_change>spell</form_change>
+<form>budoucnosti</form>
 <tag>
-<AM lemma="budoucnost" src="orig">NNFS6-----A----</AM>
-<AM lemma="budoucnost" src="auto">NNFP2-----A----</AM>
-<AM lemma="budoucnost" src="auto" recommended="1">NNFS7-----A----</AM>
+<AM lemma="budoucnost">NNFP1-----A----</AM>
+<AM lemma="budoucnost">NNFP4-----A----</AM>
+<AM lemma="budoucnost">NNFP5-----A----</AM>
+<AM lemma="budoucnost">NNFS2-----A----</AM>
+<AM lemma="budoucnost">NNFS3-----A----</AM>
+<AM lemma="budoucnost">NNFS5-----A----</AM>
+<AM lemma="budoucnost" src="auto" recommended="1">NNFS6-----A----</AM>
 </tag>
-<comment>
-<LM type="New Form">
-<text>budoucnosti</text>
-</LM>
-</comment>
 </m>
 <m id="m-ln95041-021-p5s3w14">
 <src.rf>manual</src.rf>

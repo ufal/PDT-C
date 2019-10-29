@@ -1010,13 +1010,12 @@
 <w.rf>
 <LM>w#w-lnd92255-114-p8s1w39</LM>
 </w.rf>
-<form>Svéd</form>
-<tag lemma="Švédsko_:B_;G" src="orig">NNNXX-----A---8</tag>
-<comment>
-<LM type="New Form">
-<text>Švéd</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>Švéd</form>
+<tag>
+<AM lemma="Švéd_;E">NNMS1-----A----</AM>
+<AM lemma="Švédsko_:B_;G" src="auto" recommended="1">NNNXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-lnd92255-114-p8s1w40">
 <src.rf>manual</src.rf>

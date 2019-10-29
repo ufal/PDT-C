@@ -3405,13 +3405,20 @@
 <w.rf>
 <LM>w#w-lnd92258-079-p7s1w5</LM>
 </w.rf>
-<form>VYDÍRÁNI</form>
-<tag lemma="vydírat_:T" src="orig">VsMP---XX-AP---</tag>
-<comment>
-<LM type="New Form">
-<text>VYDÍRÁNÍ</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>VYDÍRÁNÍ</form>
+<tag>
+<AM lemma="vydírání_^(*3at)">NNNP1-----A----</AM>
+<AM lemma="vydírání_^(*3at)">NNNP2-----A----</AM>
+<AM lemma="vydírání_^(*3at)">NNNP4-----A----</AM>
+<AM lemma="vydírání_^(*3at)">NNNP5-----A----</AM>
+<AM lemma="vydírání_^(*3at)">NNNS2-----A----</AM>
+<AM lemma="vydírání_^(*3at)">NNNS3-----A----</AM>
+<AM lemma="vydírání_^(*3at)">NNNS4-----A----</AM>
+<AM lemma="vydírání_^(*3at)">NNNS5-----A----</AM>
+<AM lemma="vydírání_^(*3at)">NNNS6-----A----</AM>
+<AM lemma="vydírání_^(*3at)" src="auto" recommended="1">NNNS1-----A----</AM>
+</tag>
 </m>
 </s>
 <s id="m-lnd92258-079-p8s1">

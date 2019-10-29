@@ -1437,18 +1437,13 @@
 <w.rf>
 <LM>w#w-ln94201-103-p5s1w19</LM>
 </w.rf>
-<form>Německém</form>
+<form_change>spell</form_change>
+<form>Nemeckém</form>
 <tag>
-<AM lemma="Nemecké_;G" src="orig">NNNS6-----A----</AM>
-<AM lemma="německý" src="auto">AAIS6----1A----</AM>
-<AM lemma="německý" src="auto">AAMS6----1A----</AM>
-<AM lemma="německý" src="auto" recommended="1">AANS6----1A----</AM>
+<AM lemma="mecký">AAIS6----1N----</AM>
+<AM lemma="mecký">AAMS6----1N----</AM>
+<AM lemma="mecký" src="auto" recommended="1">AANS6----1N----</AM>
 </tag>
-<comment>
-<LM type="New Form">
-<text>Nemeckém</text>
-</LM>
-</comment>
 </m>
 <m id="m-ln94201-103-p5s1w20">
 <src.rf>manual</src.rf>

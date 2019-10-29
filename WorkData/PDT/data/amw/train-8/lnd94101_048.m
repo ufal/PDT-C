@@ -3385,23 +3385,20 @@
 <w.rf>
 <LM>w#w-lnd94101-048-p1s26w13</LM>
 </w.rf>
-<form>českých</form>
+<form_change>spell</form_change>
+<form>českým</form>
 <tag>
-<AM lemma="český" src="orig">AAMP3----1A----</AM>
-<AM lemma="český" src="auto">AAFP2----1A----</AM>
-<AM lemma="český" src="auto">AAFP6----1A----</AM>
-<AM lemma="český" src="auto">AAIP2----1A----</AM>
-<AM lemma="český" src="auto">AAIP6----1A----</AM>
-<AM lemma="český" src="auto" recommended="1">AAMP2----1A----</AM>
-<AM lemma="český" src="auto">AAMP6----1A----</AM>
-<AM lemma="český" src="auto">AANP2----1A----</AM>
-<AM lemma="český" src="auto">AANP6----1A----</AM>
+<AM lemma="český">AAFP3----1A----</AM>
+<AM lemma="český">AAIP3----1A----</AM>
+<AM lemma="český">AAIS6----1A---7</AM>
+<AM lemma="český">AAIS7----1A----</AM>
+<AM lemma="český">AAMS6----1A---7</AM>
+<AM lemma="český">AAMS7----1A----</AM>
+<AM lemma="český">AANP3----1A----</AM>
+<AM lemma="český">AANS6----1A---7</AM>
+<AM lemma="český">AANS7----1A----</AM>
+<AM lemma="český" src="auto" recommended="1">AAMP3----1A----</AM>
 </tag>
-<comment>
-<LM type="New Form">
-<text>českým</text>
-</LM>
-</comment>
 </m>
 <m id="m-lnd94101-048-p1s26w14">
 <src.rf>manual</src.rf>

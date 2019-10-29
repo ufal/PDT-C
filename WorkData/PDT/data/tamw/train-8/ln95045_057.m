@@ -1488,13 +1488,12 @@
 <w.rf>
 <LM>w#w-ln95045-057-p3s3w18</LM>
 </w.rf>
-<form>CoĎme</form>
-<tag lemma="CoĎme_;S" src="orig">NNMS1-----A----</tag>
-<comment>
-<LM type="New Form">
-<text>Coëme</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>Coëme</form>
+<tag>
+<AM lemma="Coëme">X@-------------</AM>
+<AM lemma="Coëme" src="auto" recommended="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95045-057-p3s3w19">
 <src.rf>manual</src.rf>

@@ -2665,16 +2665,13 @@
 <w.rf>
 <LM>w#w-ln94200-142-p5s1w4</LM>
 </w.rf>
-<form>Blucha</form>
+<form_change>spell</form_change>
+<form>Bluchy</form>
 <tag>
-<AM lemma="Bluch_;S" src="orig">NNMS2-----A----</AM>
-<AM lemma="Blucha_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Blucha_;S">NNMP4-----A----</AM>
+<AM lemma="Blucha_;S">NNMP7-----A----</AM>
+<AM lemma="Blucha_;S" src="auto" recommended="1">NNMS2-----A----</AM>
 </tag>
-<comment>
-<LM type="New Form">
-<text>Bluchy</text>
-</LM>
-</comment>
 </m>
 <m id="m-ln94200-142-p5s1w5">
 <src.rf>manual</src.rf>

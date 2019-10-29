@@ -506,26 +506,9 @@
 <w.rf>
 <LM>w#w-lnd92257-043-p3s4w5</LM>
 </w.rf>
-<form>Iskandarova</form>
-<tag>
-<AM lemma="Iskandarova_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Iskandarův_;S_^(*2)" src="auto">AUFS1M---------</AM>
-<AM lemma="Iskandarův_;S_^(*2)" src="auto">AUFS5M---------</AM>
-<AM lemma="Iskandarův_;S_^(*2)" src="auto">AUIS2M---------</AM>
-<AM lemma="Iskandarův_;S_^(*2)" src="auto">AUMS2M---------</AM>
-<AM lemma="Iskandarův_;S_^(*2)" src="auto">AUMS4M---------</AM>
-<AM lemma="Iskandarův_;S_^(*2)" src="auto">AUNP1M---------</AM>
-<AM lemma="Iskandarův_;S_^(*2)" src="auto">AUNP4M---------</AM>
-<AM lemma="Iskandarův_;S_^(*2)" src="auto">AUNP5M---------</AM>
-<AM lemma="Iskandarův_;S_^(*2)" src="auto">AUNS2M---------</AM>
-<AM lemma="Iskandarov_;S" src="auto" recommended="1">NNMS2-----A----</AM>
-<AM lemma="Iskandarov_;S" src="auto">NNMS4-----A----</AM>
-</tag>
-<comment>
-<LM type="New Form">
-<text>Iskandarov</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>Iskandarov</form>
+<tag lemma="Iskandarov_;S" src="auto" recommended="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92257-043-p3s4w6">
 <src.rf>manual</src.rf>

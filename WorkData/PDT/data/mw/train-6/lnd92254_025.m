@@ -903,17 +903,18 @@
 <w.rf>
 <LM>w#w-lnd92254-025-p3s4w33</LM>
 </w.rf>
-<form>ničích</form>
+<form_change>spell</form_change>
+<form>ničících</form>
 <tag>
-<AM lemma="ničí" src="orig">PZXP2----------</AM>
-<AM lemma="ničí" src="auto" recommended="1">PWXP2----------</AM>
-<AM lemma="ničí" src="auto">PWXP6----------</AM>
+<AM lemma="ničící_^(*3it)">AGFP6-----A----</AM>
+<AM lemma="ničící_^(*3it)">AGIP2-----A----</AM>
+<AM lemma="ničící_^(*3it)">AGIP6-----A----</AM>
+<AM lemma="ničící_^(*3it)">AGMP2-----A----</AM>
+<AM lemma="ničící_^(*3it)">AGMP6-----A----</AM>
+<AM lemma="ničící_^(*3it)">AGNP2-----A----</AM>
+<AM lemma="ničící_^(*3it)">AGNP6-----A----</AM>
+<AM lemma="ničící_^(*3it)" src="auto" recommended="1">AGFP2-----A----</AM>
 </tag>
-<comment>
-<LM type="New Form">
-<text>ničících</text>
-</LM>
-</comment>
 </m>
 <m id="m-lnd92254-025-p3s4w34">
 <src.rf>manual</src.rf>

@@ -10570,13 +10570,18 @@
 <w.rf>
 <LM>w#w-vesm9301-036-p16s4w7</LM>
 </w.rf>
-<form>meteorlogických</form>
-<tag lemma="meteorologický" src="orig">AAIP6----1A----</tag>
-<comment>
-<LM type="New Form">
-<text>meteorologických</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>meteorologických</form>
+<tag>
+<AM lemma="meteorologický">AAFP2----1A----</AM>
+<AM lemma="meteorologický">AAFP6----1A----</AM>
+<AM lemma="meteorologický">AAIP2----1A----</AM>
+<AM lemma="meteorologický">AAMP2----1A----</AM>
+<AM lemma="meteorologický">AAMP6----1A----</AM>
+<AM lemma="meteorologický">AANP2----1A----</AM>
+<AM lemma="meteorologický">AANP6----1A----</AM>
+<AM lemma="meteorologický" src="auto" recommended="1">AAIP6----1A----</AM>
+</tag>
 </m>
 <m id="m-vesm9301-036-p16s4w8">
 <src.rf>manual</src.rf>

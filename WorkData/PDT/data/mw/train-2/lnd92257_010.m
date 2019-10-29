@@ -2688,25 +2688,13 @@
 <LM>w#w-lnd92257-010-p4s13w11</LM>
 </w.rf>
 <form_change>spell</form_change>
-<form>pozměňujícím</form>
+<form>pozměňujícími</form>
 <tag>
-<AM lemma="pozměňující" src="orig">AAIP7----1A----</AM>
-<AM lemma="pozměňující_^(*5ovat)" src="auto">AGFP3-----A----</AM>
-<AM lemma="pozměňující_^(*5ovat)" src="auto">AGIP3-----A----</AM>
-<AM lemma="pozměňující_^(*5ovat)" src="auto">AGIS6-----A----</AM>
-<AM lemma="pozměňující_^(*5ovat)" src="auto" recommended="1">AGIS7-----A----</AM>
-<AM lemma="pozměňující_^(*5ovat)" src="auto">AGMP3-----A----</AM>
-<AM lemma="pozměňující_^(*5ovat)" src="auto">AGMS6-----A----</AM>
-<AM lemma="pozměňující_^(*5ovat)" src="auto">AGMS7-----A----</AM>
-<AM lemma="pozměňující_^(*5ovat)" src="auto">AGNP3-----A----</AM>
-<AM lemma="pozměňující_^(*5ovat)" src="auto">AGNS6-----A----</AM>
-<AM lemma="pozměňující_^(*5ovat)" src="auto">AGNS7-----A----</AM>
+<AM lemma="pozměňující_^(*5ovat)">AGFP7-----A----</AM>
+<AM lemma="pozměňující_^(*5ovat)">AGMP7-----A----</AM>
+<AM lemma="pozměňující_^(*5ovat)">AGNP7-----A----</AM>
+<AM lemma="pozměňující_^(*5ovat)" src="auto" recommended="1">AGIP7-----A----</AM>
 </tag>
-<comment>
-<LM type="New Form">
-<text>pozměňujícími</text>
-</LM>
-</comment>
 </m>
 <m id="m-lnd92257-010-p4s13w12">
 <src.rf>manual</src.rf>

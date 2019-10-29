@@ -2064,16 +2064,14 @@
 <w.rf>
 <LM>w#w-ln95045-124-p4s4w24</LM>
 </w.rf>
-<form>audi</form>
+<form_change>spell</form_change>
+<form>audio</form>
 <tag>
-<AM lemma="Audi-2_;R_^(vozidlo)" src="orig">NNFXX-----A----</AM>
-<AM lemma="audi_^(vozidlo)" src="auto" recommended="1">NNXXX-----A----</AM>
+<AM lemma="audio-1">NNNS4-----A----</AM>
+<AM lemma="audio-1">NNNS5-----A----</AM>
+<AM lemma="audio-2_,t">AAXXX----1A----</AM>
+<AM lemma="audio-1" src="auto" recommended="1">NNNS1-----A----</AM>
 </tag>
-<comment>
-<LM type="New Form">
-<text>audio</text>
-</LM>
-</comment>
 </m>
 <m id="m-ln95045-124-p4s4w25">
 <src.rf>manual</src.rf>

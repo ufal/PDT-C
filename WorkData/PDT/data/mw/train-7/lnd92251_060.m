@@ -3597,23 +3597,20 @@
 <w.rf>
 <LM>w#w-lnd92251-060-p11s1w31</LM>
 </w.rf>
-<form>podezřelých</form>
+<form_change>spell</form_change>
+<form>podezřelým</form>
 <tag>
-<AM lemma="podezřelý" src="orig">AAMP3----1A----</AM>
-<AM lemma="podezřelý" src="auto">AAFP2----1A----</AM>
-<AM lemma="podezřelý" src="auto">AAFP6----1A----</AM>
-<AM lemma="podezřelý" src="auto">AAIP2----1A----</AM>
-<AM lemma="podezřelý" src="auto">AAIP6----1A----</AM>
-<AM lemma="podezřelý" src="auto" recommended="1">AAMP2----1A----</AM>
-<AM lemma="podezřelý" src="auto">AAMP6----1A----</AM>
-<AM lemma="podezřelý" src="auto">AANP2----1A----</AM>
-<AM lemma="podezřelý" src="auto">AANP6----1A----</AM>
+<AM lemma="podezřelý">AAFP3----1A----</AM>
+<AM lemma="podezřelý">AAIP3----1A----</AM>
+<AM lemma="podezřelý">AAIS6----1A---7</AM>
+<AM lemma="podezřelý">AAIS7----1A----</AM>
+<AM lemma="podezřelý">AAMS6----1A---7</AM>
+<AM lemma="podezřelý">AAMS7----1A----</AM>
+<AM lemma="podezřelý">AANP3----1A----</AM>
+<AM lemma="podezřelý">AANS6----1A---7</AM>
+<AM lemma="podezřelý">AANS7----1A----</AM>
+<AM lemma="podezřelý" src="auto" recommended="1">AAMP3----1A----</AM>
 </tag>
-<comment>
-<LM type="New Form">
-<text>podezřelým</text>
-</LM>
-</comment>
 </m>
 <m id="m-lnd92251-060-p11s1w32">
 <src.rf>manual</src.rf>

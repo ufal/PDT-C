@@ -2704,13 +2704,13 @@
 <w.rf>
 <LM>w#w-mf930703-090-p12s1w12</LM>
 </w.rf>
-<form>škola</form>
-<tag lemma="škola" src="orig">NNFS1-----A----</tag>
-<comment>
-<LM type="New Form">
-<text>škole</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>škole</form>
+<tag>
+<AM lemma="škola">NNFS3-----A----</AM>
+<AM lemma="školit_:T">VeYS------A----</AM>
+<AM lemma="škola" src="auto" recommended="1">NNFS6-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930703-090-p12s1w13">
 <src.rf>manual</src.rf>

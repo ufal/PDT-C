@@ -343,13 +343,26 @@
 <w.rf>
 <LM>w#w-cmpr9413-049-p4s3w7</LM>
 </w.rf>
-<form>zřejmě</form>
-<tag lemma="zřejmě_^(*1ý)" src="orig">Dg-------1A----</tag>
-<comment>
-<LM type="New Form">
-<text>zřejmé</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>zřejmé</form>
+<tag>
+<AM lemma="zřejmý">AAFP1----1A----</AM>
+<AM lemma="zřejmý">AAFP4----1A----</AM>
+<AM lemma="zřejmý">AAFP5----1A----</AM>
+<AM lemma="zřejmý">AAFS2----1A----</AM>
+<AM lemma="zřejmý">AAFS3----1A----</AM>
+<AM lemma="zřejmý">AAFS6----1A----</AM>
+<AM lemma="zřejmý">AAIP1----1A----</AM>
+<AM lemma="zřejmý">AAIP4----1A----</AM>
+<AM lemma="zřejmý">AAIP5----1A----</AM>
+<AM lemma="zřejmý">AAMP4----1A----</AM>
+<AM lemma="zřejmý">AANP1----1A---6</AM>
+<AM lemma="zřejmý">AANP4----1A---6</AM>
+<AM lemma="zřejmý">AANP5----1A---6</AM>
+<AM lemma="zřejmý">AANS4----1A----</AM>
+<AM lemma="zřejmý">AANS5----1A----</AM>
+<AM lemma="zřejmý" src="auto" recommended="1">AANS1----1A----</AM>
+</tag>
 </m>
 <m id="m-cmpr9413-049-p4s3w8">
 <src.rf>manual</src.rf>

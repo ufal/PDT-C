@@ -1685,21 +1685,19 @@
 <w.rf>
 <LM>w#w-ln94208-129-p4s2w13</LM>
 </w.rf>
-<form>dni</form>
+<form_change>spell</form_change>
+<form>dny</form>
 <tag>
-<AM lemma="den_^(jednotka_času)" src="orig">NNIP7-----A---6</AM>
-<AM lemma="den_^(jednotka_času)" src="auto">NNIP1-----A---1</AM>
-<AM lemma="den_^(jednotka_času)" src="auto" recommended="1">NNIP4-----A---1</AM>
-<AM lemma="den_^(jednotka_času)" src="auto">NNIP5-----A---1</AM>
-<AM lemma="den_^(jednotka_času)" src="auto">NNIS3-----A---1</AM>
-<AM lemma="den_^(jednotka_času)" src="auto">NNIS5-----A---1</AM>
-<AM lemma="den_^(jednotka_času)" src="auto">NNIS6-----A---1</AM>
+<AM lemma="den_^(jednotka_času)">NNIP1-----A----</AM>
+<AM lemma="den_^(jednotka_času)">NNIP4-----A----</AM>
+<AM lemma="den_^(jednotka_času)">NNIP5-----A----</AM>
+<AM lemma="dna_^(nemoc)">NNFP1-----A----</AM>
+<AM lemma="dna_^(nemoc)">NNFP4-----A----</AM>
+<AM lemma="dna_^(nemoc)">NNFP5-----A----</AM>
+<AM lemma="dna_^(nemoc)">NNFS2-----A----</AM>
+<AM lemma="dno_^(např._propasti)">NNNP7-----A----</AM>
+<AM lemma="den_^(jednotka_času)" src="auto" recommended="1">NNIP7-----A----</AM>
 </tag>
-<comment>
-<LM type="New Form">
-<text>dny</text>
-</LM>
-</comment>
 </m>
 <m id="m-ln94208-129-p4s2w14">
 <src.rf>manual</src.rf>

@@ -433,13 +433,19 @@
 <w.rf>
 <LM>w#w-mf930701-086-p12s1w5</LM>
 </w.rf>
-<form>paty</form>
-<tag lemma="pata" src="orig">NNFP1-----A----</tag>
-<comment>
-<LM type="New Form">
-<text>party</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>party</form>
+<tag>
+<AM lemma="part">NNIP1-----A----</AM>
+<AM lemma="part">NNIP4-----A----</AM>
+<AM lemma="part">NNIP5-----A----</AM>
+<AM lemma="part">NNIP7-----A----</AM>
+<AM lemma="parta">NNFP1-----A----</AM>
+<AM lemma="parta">NNFP4-----A----</AM>
+<AM lemma="parta">NNFP5-----A----</AM>
+<AM lemma="parta">NNFS2-----A----</AM>
+<AM lemma="party_,t_^(angl._sešlost,_oslava,_mejdan)" src="auto" recommended="1">NNFXX-----A----</AM>
+</tag>
 </m>
 </s>
 <s id="m-mf930701-086-p13s1">

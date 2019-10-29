@@ -348,6 +348,7 @@ __XSH__
 __XSH__
             }
             xsh('for $comments delete ..');
+            xsh('insert text "spell" into &{ insert element form_change into $mnodes[$idx] }');
         }
         xsh('save :b');
     }

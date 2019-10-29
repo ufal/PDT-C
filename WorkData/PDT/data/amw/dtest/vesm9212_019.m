@@ -2722,13 +2722,12 @@
 <w.rf>
 <LM>w#w-vesm9212-019-p16s2w4</LM>
 </w.rf>
-<form>Clyneová</form>
-<tag lemma="Clyneová_;S" src="orig">NNFS1-----A----</tag>
-<comment>
-<LM type="New Form">
-<text>Clyneové</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>Clyneové</form>
+<tag>
+<AM lemma="Clyneové">X@-------------</AM>
+<AM lemma="Clyneová_;S" src="auto" recommended="1">NNFS2-----A----</AM>
+</tag>
 </m>
 <m id="m-vesm9212-019-p16s2w5">
 <src.rf>manual</src.rf>

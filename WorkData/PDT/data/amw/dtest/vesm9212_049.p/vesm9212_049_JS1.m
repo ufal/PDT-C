@@ -25799,13 +25799,12 @@
 <w.rf>
 <LM>w#w-vesm9212-049-p37s13w3</LM>
 </w.rf>
-<form>nepřestavitelnou</form>
-<tag lemma="přestavitelný_^(jinak_nastavit)_(*4)" src="orig" selected="1">AAFS4----1N----</tag>
-<comment>
-<LM type="New Form">
-<text>nepředstavitelnou</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>nepředstavitelnou</form>
+<tag>
+<AM lemma="představitelný-1_^(si_něco;_něco/někoho_někomu)_(*6-1)">AAFS7----1N----</AM>
+<AM lemma="představitelný-1_^(si_něco;_něco/někoho_někomu)_(*6-1)" src="auto" recommended="1">AAFS4----1N----</AM>
+</tag>
 </m>
 <m id="m-vesm9212-049-p37s13w4">
 <src.rf>manual</src.rf>

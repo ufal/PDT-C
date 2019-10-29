@@ -845,42 +845,17 @@
 <LM>w#w-ln95048-047-p2s4w13</LM>
 </w.rf>
 <form_change>spell</form_change>
-<form>vyznívající</form>
+<form>vyznívajících</form>
 <tag>
-<AM lemma="vyznívající_^(*6t)" src="orig">AAFP2----1A----</AM>
-<AM lemma="vyznívající_^(*4t)" src="auto">AGFP1-----A----</AM>
-<AM lemma="vyznívající_^(*4t)" src="auto">AGFP4-----A----</AM>
-<AM lemma="vyznívající_^(*4t)" src="auto">AGFP5-----A----</AM>
-<AM lemma="vyznívající_^(*4t)" src="auto">AGFS1-----A----</AM>
-<AM lemma="vyznívající_^(*4t)" src="auto">AGFS2-----A----</AM>
-<AM lemma="vyznívající_^(*4t)" src="auto" recommended="1">AGFS3-----A----</AM>
-<AM lemma="vyznívající_^(*4t)" src="auto">AGFS4-----A----</AM>
-<AM lemma="vyznívající_^(*4t)" src="auto">AGFS5-----A----</AM>
-<AM lemma="vyznívající_^(*4t)" src="auto">AGFS6-----A----</AM>
-<AM lemma="vyznívající_^(*4t)" src="auto">AGFS7-----A----</AM>
-<AM lemma="vyznívající_^(*4t)" src="auto">AGIP1-----A----</AM>
-<AM lemma="vyznívající_^(*4t)" src="auto">AGIP4-----A----</AM>
-<AM lemma="vyznívající_^(*4t)" src="auto">AGIP5-----A----</AM>
-<AM lemma="vyznívající_^(*4t)" src="auto">AGIS1-----A----</AM>
-<AM lemma="vyznívající_^(*4t)" src="auto">AGIS4-----A----</AM>
-<AM lemma="vyznívající_^(*4t)" src="auto">AGIS5-----A----</AM>
-<AM lemma="vyznívající_^(*4t)" src="auto">AGMP1-----A----</AM>
-<AM lemma="vyznívající_^(*4t)" src="auto">AGMP4-----A----</AM>
-<AM lemma="vyznívající_^(*4t)" src="auto">AGMP5-----A----</AM>
-<AM lemma="vyznívající_^(*4t)" src="auto">AGMS1-----A----</AM>
-<AM lemma="vyznívající_^(*4t)" src="auto">AGMS5-----A----</AM>
-<AM lemma="vyznívající_^(*4t)" src="auto">AGNP1-----A----</AM>
-<AM lemma="vyznívající_^(*4t)" src="auto">AGNP4-----A----</AM>
-<AM lemma="vyznívající_^(*4t)" src="auto">AGNP5-----A----</AM>
-<AM lemma="vyznívající_^(*4t)" src="auto">AGNS1-----A----</AM>
-<AM lemma="vyznívající_^(*4t)" src="auto">AGNS4-----A----</AM>
-<AM lemma="vyznívající_^(*4t)" src="auto">AGNS5-----A----</AM>
+<AM lemma="vyznívající_^(*4t)">AGFP6-----A----</AM>
+<AM lemma="vyznívající_^(*4t)">AGIP2-----A----</AM>
+<AM lemma="vyznívající_^(*4t)">AGIP6-----A----</AM>
+<AM lemma="vyznívající_^(*4t)">AGMP2-----A----</AM>
+<AM lemma="vyznívající_^(*4t)">AGMP6-----A----</AM>
+<AM lemma="vyznívající_^(*4t)">AGNP2-----A----</AM>
+<AM lemma="vyznívající_^(*4t)">AGNP6-----A----</AM>
+<AM lemma="vyznívající_^(*4t)" src="auto" recommended="1">AGFP2-----A----</AM>
 </tag>
-<comment>
-<LM type="New Form">
-<text>vyznívajících</text>
-</LM>
-</comment>
 </m>
 <m id="m-ln95048-047-p2s4w14">
 <src.rf>manual</src.rf>

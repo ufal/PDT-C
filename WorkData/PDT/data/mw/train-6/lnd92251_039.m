@@ -515,13 +515,14 @@
 <w.rf>
 <LM>w#w-lnd92251-039-p3s1w10</LM>
 </w.rf>
-<form>Bran</form>
-<tag lemma="Brany_;G" src="auto">NNIP2-----A----</tag>
-<comment>
-<LM type="New Form">
-<text>Brna</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>Brna</form>
+<tag>
+<AM lemma="Brno_;G">NNNP1-----A----</AM>
+<AM lemma="Brno_;G">NNNP4-----A----</AM>
+<AM lemma="Brno_;G">NNNP5-----A----</AM>
+<AM lemma="Brno_;G" src="auto" recommended="1">NNNS2-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92251-039-p3s1w11">
 <src.rf>manual</src.rf>

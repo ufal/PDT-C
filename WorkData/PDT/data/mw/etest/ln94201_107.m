@@ -4128,17 +4128,27 @@
 <w.rf>
 <LM>w#w-ln94201-107-p7s6w1</LM>
 </w.rf>
-<form>Am</form>
+<form_change>spell</form_change>
+<form>A</form>
 <tag>
-<AM lemma="Am" src="orig">NNNXX-----A----</AM>
-<AM lemma="americium_:B_;H" src="auto" recommended="1">NNNXX-----A---8</AM>
-<AM lemma="be_,t_^(angl._jsem,_v_názvech_apod.)" src="auto">VB-S---1P-AA---</AM>
+<AM lemma="A-0_:B_;Y">NNFXX-----A---8</AM>
+<AM lemma="A-0_:B_;Y">NNMXX-----A---8</AM>
+<AM lemma="A-0_:B_;Y">NNXXX-----A---8</AM>
+<AM lemma="A-1`ampér_:B">NNIXX-----A---8</AM>
+<AM lemma="A-4_:B_;K">AAXXX----1A---8</AM>
+<AM lemma="A-5_:B_;G">AAXXX----1A---8</AM>
+<AM lemma="A-6_:B_;R">NNXXX-----A---8</AM>
+<AM lemma="A-9_:B_;S">NNFXX-----A---8</AM>
+<AM lemma="A-9_:B_;S">NNMXX-----A---8</AM>
+<AM lemma="A-9_:B_;S">NNXXX-----A---8</AM>
+<AM lemma="a-2_,t_^(angl._neurč._člen)">AAXXX----1A----</AM>
+<AM lemma="a-3_^(označení_pomocí_písmene)">NNNXX-----A----</AM>
+<AM lemma="a-4_,t_^(př._a_la)">RR--1----------</AM>
+<AM lemma="a-8_:B_^(ost._zkratka)">XX------------8</AM>
+<AM lemma="akciový_:B_^(jen_akciová_společnost)">AAXXX----1A---8</AM>
+<AM lemma="á_,t">RF------------1</AM>
+<AM lemma="a-1" src="auto" recommended="1">J^-------------</AM>
 </tag>
-<comment>
-<LM type="New Form">
-<text>A</text>
-</LM>
-</comment>
 </m>
 <m id="m-ln94201-107-p7s6w2">
 <src.rf>manual</src.rf>

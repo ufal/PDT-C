@@ -95,21 +95,9 @@
 <w.rf>
 <LM>w#w-cmpr9413-037-p3s1Aw5</LM>
 </w.rf>
-<form>Gramy</form>
-<tag>
-<AM lemma="Gramy_;m_,t" src="orig">NNFXX-----A----</AM>
-<AM lemma="Gram_;S" src="auto">NNMP4-----A----</AM>
-<AM lemma="Gram_;S" src="auto">NNMP7-----A----</AM>
-<AM lemma="gram" src="auto">NNIP1-----A----</AM>
-<AM lemma="gram" src="auto">NNIP4-----A----</AM>
-<AM lemma="gram" src="auto">NNIP5-----A----</AM>
-<AM lemma="gram" src="auto" recommended="1">NNIP7-----A----</AM>
-</tag>
-<comment>
-<LM type="New Form">
-<text>Grammy</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>Grammy</form>
+<tag lemma="Grammy_;R" src="auto" recommended="1">NNFS2-----A----</tag>
 </m>
 <m id="m-cmpr9413-037-p3s1Aw6">
 <src.rf>manual</src.rf>

@@ -359,16 +359,12 @@
 <w.rf>
 <LM>w#w-ln95041-047-p2s2w10</LM>
 </w.rf>
-<form>Kennethe</form>
+<form_change>spell</form_change>
+<form>Kennetha</form>
 <tag>
-<AM lemma="Kennethe_;Y" src="orig">NNMXX-----A----</AM>
-<AM lemma="Kenneth_;Y_,t" src="auto" recommended="1">NNMS5-----A----</AM>
+<AM lemma="Kenneth_;Y_,t">NNMS2-----A----</AM>
+<AM lemma="Kenneth_;Y_,t" src="auto" recommended="1">NNMS4-----A----</AM>
 </tag>
-<comment>
-<LM type="New Form">
-<text>Kennetha</text>
-</LM>
-</comment>
 </m>
 <m id="m-ln95041-047-p2s2w11">
 <src.rf>manual</src.rf>

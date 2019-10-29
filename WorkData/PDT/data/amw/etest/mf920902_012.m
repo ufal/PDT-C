@@ -137,13 +137,9 @@
 <w.rf>
 <LM>w#w-mf920902-012-p1s1Cw7</LM>
 </w.rf>
-<form>zdražili</form>
-<tag lemma="zdražit_:W" src="orig">VpMP---XR-AA---</tag>
-<comment>
-<LM type="New Form">
-<text>zdražily</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>zdražily</form>
+<tag lemma="zdražit_:W" src="auto" recommended="1">VpTP---XR-AA---</tag>
 </m>
 <m id="m-mf920902-012-p1s1Cw8">
 <src.rf>manual</src.rf>
