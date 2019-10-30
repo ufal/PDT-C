@@ -7,7 +7,7 @@
 </references>
 </head>
 <s id="m-27638_03-d1e2297-x4">
-<m id="m-d1t2315-1">
+<m id="m783-d1t2315-1">
 <w.rf>
 <LM>w#w-d1t2315-1</LM>
 </w.rf>
@@ -17,21 +17,21 @@
 <AM lemma="horník" src="auto" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
-<m id="m-d1e2297-x4-2223">
+<m id="m783-d1e2297-x4-2223">
 <w.rf>
 <LM>w#w-d1e2297-x4-2223</LM>
 </w.rf>
 <form>,</form>
 <tag lemma="," src="auto" recommended="1">Z:-------------</tag>
 </m>
-<m id="m-d1t2317-1">
+<m id="m783-d1t2317-1">
 <w.rf>
 <LM>w#w-d1t2317-1</LM>
 </w.rf>
 <form>zemědělec</form>
 <tag lemma="zemědělec" src="auto" recommended="1">NNMS1-----A----</tag>
 </m>
-<m id="m-d1t2317-2">
+<m id="m783-d1t2317-2">
 <w.rf>
 <LM>w#w-d1t2317-2</LM>
 </w.rf>
@@ -44,14 +44,14 @@
 <AM lemma="akciový_:B" src="auto">AAXXX----1A---8</AM>
 </tag>
 </m>
-<m id="m-d1t2317-3">
+<m id="m783-d1t2317-3">
 <w.rf>
 <LM>w#w-d1t2317-3</LM>
 </w.rf>
 <form>soustružník</form>
 <tag lemma="soustružník" src="auto" recommended="1">NNMS1-----A----</tag>
 </m>
-<m id="m-d-id131335">
+<m id="m783-d-id131335">
 <w.rf>
 <LM>w#w-d-id131335</LM>
 </w.rf>
@@ -60,7 +60,7 @@
 </m>
 </s>
 <s id="m-27638_03-d1e2318-x2">
-<m id="m-d1t2323-1">
+<m id="m783-d1t2323-1">
 <w.rf>
 <LM>w#w-d1t2323-1</LM>
 </w.rf>
@@ -70,7 +70,7 @@
 <AM lemma="konec" src="auto">NNIS4-----A----</AM>
 </tag>
 </m>
-<m id="m-d1t2323-2">
+<m id="m783-d1t2323-2">
 <w.rf>
 <LM>w#w-d1t2323-2</LM>
 </w.rf>
@@ -105,7 +105,7 @@
 <AM lemma="třetí" src="auto">CrNS5----------</AM>
 </tag>
 </m>
-<m id="m-d1t2323-3">
+<m id="m783-d1t2323-3">
 <w.rf>
 <LM>w#w-d1t2323-3</LM>
 </w.rf>
@@ -117,7 +117,7 @@
 <AM lemma="kazeta" src="auto" recommended="1">NNFS2-----A----</AM>
 </tag>
 </m>
-<m id="m-d-id131453">
+<m id="m783-d-id131453">
 <w.rf>
 <LM>w#w-d-id131453</LM>
 </w.rf>
