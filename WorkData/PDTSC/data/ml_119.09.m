@@ -4648,13 +4648,13 @@
 <w.rf>
 <LM>w#w-d1t2007-4</LM>
 </w.rf>
-<form>Patrosu</form>
-<tag lemma="Patrosu" src="auto">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>Patrasu</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>Patrasu</form>
+<tag>
+<AM lemma="Patras-1_;G">NNIS3-----A----</AM>
+<AM lemma="Patras-1_;G">NNIS6-----A----</AM>
+<AM lemma="Patras-1_;G" src="auto" recommended="1">NNIS2-----A----</AM>
+</tag>
 </m>
 <m id="m119-d1e2000-x2-231">
 <w.rf>

@@ -1990,13 +1990,9 @@
 <w.rf>
 <LM>w#w-2182-2185</LM>
 </w.rf>
-<form>Byl </form>
-<tag lemma="Byl" src="auto">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>Byl</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>Byl</form>
+<tag lemma="být" src="auto" recommended="1">VpYS---XR-AA---</tag>
 </m>
 <m id="m976-2182-2186">
 <w.rf>

@@ -2439,13 +2439,16 @@
 <w.rf>
 <LM>w#w-d1t214-6</LM>
 </w.rf>
-<form>Záběli</form>
-<tag lemma="Záběli" src="auto">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>Zábělý</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>Zábělý</form>
+<tag>
+<AM lemma="Zábělá_;G">NNFP1-----A---6</AM>
+<AM lemma="Zábělá_;G">NNFP4-----A---6</AM>
+<AM lemma="Zábělá_;G">NNFP5-----A---6</AM>
+<AM lemma="Zábělá_;G">NNFS2-----A---6</AM>
+<AM lemma="Zábělá_;G">NNFS3-----A---6</AM>
+<AM lemma="Zábělá_;G" src="auto" recommended="1">NNFS6-----A---6</AM>
+</tag>
 </m>
 <m id="m005-2036-2046">
 <w.rf>
@@ -2791,7 +2794,7 @@
 <tag lemma="?" src="auto" recommended="1">Z:-------------</tag>
 </m>
 </s>
-<s id="m-87"/>
+<s id="m-87"></s>
 <s id="m-d1e242-x3">
 <m id="m005-d1t251-5">
 <w.rf>

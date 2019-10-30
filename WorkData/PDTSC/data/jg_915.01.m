@@ -2778,13 +2778,12 @@
 <w.rf>
 <LM>w#w-d1t586-12</LM>
 </w.rf>
-<form>jestě</form>
-<tag lemma="jestě" src="auto">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>ještě</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>ještě</form>
+<tag>
+<AM lemma="ještě-2">TT-------------</AM>
+<AM lemma="ještě-1" src="auto" recommended="1">Db-------------</AM>
+</tag>
 </m>
 <m id="m915-d1t586-13">
 <w.rf>

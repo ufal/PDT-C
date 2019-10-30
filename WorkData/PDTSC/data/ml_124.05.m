@@ -5444,13 +5444,14 @@
 <w.rf>
 <LM>w#w-d1t999-10</LM>
 </w.rf>
-<form>Rieki</form>
-<tag lemma="Rieki" src="auto">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>Rijeky</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>Rijeky</form>
+<tag>
+<AM lemma="Rijeka_;G">NNFP1-----A----</AM>
+<AM lemma="Rijeka_;G">NNFP4-----A----</AM>
+<AM lemma="Rijeka_;G">NNFP5-----A----</AM>
+<AM lemma="Rijeka_;G" src="auto" recommended="1">NNFS2-----A----</AM>
+</tag>
 </m>
 <m id="m124-d1t999-12">
 <w.rf>

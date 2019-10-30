@@ -2093,13 +2093,12 @@
 <w.rf>
 <LM>w#w-d1t1234-2</LM>
 </w.rf>
-<form>jsme</form>
-<tag lemma="být" src="auto" recommended="1">VB-P---1P-AA---</tag>
-<comment>
-<LM type="New Form">
-<text>jste</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>jste</form>
+<tag>
+<AM lemma="být">VB-P---2P-AA--2</AM>
+<AM lemma="být" src="auto" recommended="1">VB-P---2P-AA---</AM>
+</tag>
 </m>
 <m id="m064-d1t1234-3">
 <w.rf>

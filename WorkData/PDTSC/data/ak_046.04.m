@@ -312,13 +312,9 @@
 <w.rf>
 <LM>w#w-d1t1136-3</LM>
 </w.rf>
-<form>Dýšiná</form>
-<tag lemma="Dýšiná" src="auto">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>Dýšina</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>Dýšina</form>
+<tag lemma="Dýšina_;G" src="auto" recommended="1">NNFS1-----A----</tag>
 </m>
 <m id="m046-d-id82809-punct">
 <w.rf>

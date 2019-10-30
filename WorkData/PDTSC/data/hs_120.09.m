@@ -83,37 +83,18 @@
 <w.rf>
 <LM>w#w-d1t1371-11</LM>
 </w.rf>
-<form>ruský</form>
+<form_change>spell</form_change>
+<form>ruských</form>
 <tag>
-<AM lemma="ruský" src="auto">AAFP1----1A---6</AM>
-<AM lemma="ruský" src="auto">AAFP4----1A---6</AM>
-<AM lemma="ruský" src="auto">AAFP5----1A---6</AM>
-<AM lemma="ruský" src="auto">AAFS2----1A---6</AM>
-<AM lemma="ruský" src="auto">AAFS3----1A---6</AM>
-<AM lemma="ruský" src="auto">AAFS6----1A---6</AM>
-<AM lemma="ruský" src="auto">AAIP1----1A---6</AM>
-<AM lemma="ruský" src="auto">AAIP4----1A---6</AM>
-<AM lemma="ruský" src="auto">AAIP5----1A---6</AM>
-<AM lemma="ruský" src="auto" recommended="1">AAIS1----1A----</AM>
-<AM lemma="ruský" src="auto">AAIS4----1A----</AM>
-<AM lemma="ruský" src="auto">AAIS5----1A----</AM>
-<AM lemma="ruský" src="auto">AAMP1----1A---6</AM>
-<AM lemma="ruský" src="auto">AAMP4----1A---6</AM>
-<AM lemma="ruský" src="auto">AAMP5----1A---6</AM>
-<AM lemma="ruský" src="auto">AAMS1----1A----</AM>
-<AM lemma="ruský" src="auto">AAMS5----1A----</AM>
-<AM lemma="ruský" src="auto">AANP1----1A---6</AM>
-<AM lemma="ruský" src="auto">AANP4----1A---6</AM>
-<AM lemma="ruský" src="auto">AANP5----1A---6</AM>
-<AM lemma="ruský" src="auto">AANS1----1A---6</AM>
-<AM lemma="ruský" src="auto">AANS4----1A---6</AM>
-<AM lemma="ruský" src="auto">AANS5----1A---6</AM>
+<AM lemma="ruský">AAFP2----1A----</AM>
+<AM lemma="ruský">AAFP6----1A----</AM>
+<AM lemma="ruský">AAIP2----1A----</AM>
+<AM lemma="ruský">AAMP2----1A----</AM>
+<AM lemma="ruský">AAMP6----1A----</AM>
+<AM lemma="ruský">AANP2----1A----</AM>
+<AM lemma="ruský">AANP6----1A----</AM>
+<AM lemma="ruský" src="auto" recommended="1">AAIP6----1A----</AM>
 </tag>
-<comment>
-<LM type="New Form">
-<text>ruských</text>
-</LM>
-</comment>
 </m>
 <m id="m120-d1t1371-12">
 <w.rf>

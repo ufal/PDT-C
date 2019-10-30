@@ -237,13 +237,23 @@
 <w.rf>
 <LM>w#w-d1t2290-3</LM>
 </w.rf>
-<form>romatické</form>
-<tag lemma="romatické" src="auto">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>romantické</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>romantické</form>
+<tag>
+<AM lemma="romantický">AAFP1----1A----</AM>
+<AM lemma="romantický">AAFP4----1A----</AM>
+<AM lemma="romantický">AAFP5----1A----</AM>
+<AM lemma="romantický">AAFS2----1A----</AM>
+<AM lemma="romantický">AAFS3----1A----</AM>
+<AM lemma="romantický">AAFS6----1A----</AM>
+<AM lemma="romantický">AAIP1----1A----</AM>
+<AM lemma="romantický">AAIP4----1A----</AM>
+<AM lemma="romantický">AAIP5----1A----</AM>
+<AM lemma="romantický">AAMP4----1A----</AM>
+<AM lemma="romantický">AANS4----1A----</AM>
+<AM lemma="romantický">AANS5----1A----</AM>
+<AM lemma="romantický" src="auto" recommended="1">AANS1----1A----</AM>
+</tag>
 </m>
 <m id="m024-d1e2287-x2-84">
 <w.rf>

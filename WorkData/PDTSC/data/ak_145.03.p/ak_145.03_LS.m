@@ -2684,26 +2684,9 @@
 <w.rf>
 <LM>w#w-d1t698-7</LM>
 </w.rf>
-<form>cvičení</form>
-<tag>
-<AM lemma="cvičený_^(*3it)" src="auto">AAMP1----1A----</AM>
-<AM lemma="cvičený_^(*3it)" src="auto">AAMP5----1A----</AM>
-<AM lemma="cvičení_^(*3it)" src="auto">NNNP1-----A----</AM>
-<AM lemma="cvičení_^(*3it)" src="auto">NNNP2-----A----</AM>
-<AM lemma="cvičení_^(*3it)" src="auto">NNNP4-----A----</AM>
-<AM lemma="cvičení_^(*3it)" src="auto">NNNP5-----A----</AM>
-<AM lemma="cvičení_^(*3it)" src="auto">NNNS1-----A----</AM>
-<AM lemma="cvičení_^(*3it)" src="auto">NNNS2-----A----</AM>
-<AM lemma="cvičení_^(*3it)" src="auto">NNNS3-----A----</AM>
-<AM lemma="cvičení_^(*3it)" src="auto">NNNS4-----A----</AM>
-<AM lemma="cvičení_^(*3it)" src="auto">NNNS5-----A----</AM>
-<AM lemma="cvičení_^(*3it)" src="auto" recommended="1">NNNS6-----A----</AM>
-</tag>
-<comment>
-<LM type="New Form">
-<text>cvičeních</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>cvičeních</form>
+<tag lemma="cvičení_^(*3it)" src="auto" recommended="1">NNNP6-----A----</tag>
 </m>
 <m id="m145-d1t698-9">
 <w.rf>

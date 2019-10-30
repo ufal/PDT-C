@@ -3331,13 +3331,20 @@
 <w.rf>
 <LM>w#w-d1t679-19</LM>
 </w.rf>
-<form>Dilí</form>
-<tag lemma="Dilí" src="auto">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>Dillí</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>Dillí</form>
+<tag>
+<AM lemma="dillí">NNNP1-----A----</AM>
+<AM lemma="dillí">NNNP2-----A----</AM>
+<AM lemma="dillí">NNNP4-----A----</AM>
+<AM lemma="dillí">NNNP5-----A----</AM>
+<AM lemma="dillí">NNNS2-----A----</AM>
+<AM lemma="dillí">NNNS3-----A----</AM>
+<AM lemma="dillí">NNNS4-----A----</AM>
+<AM lemma="dillí">NNNS5-----A----</AM>
+<AM lemma="dillí">NNNS6-----A----</AM>
+<AM lemma="dillí" src="auto" recommended="1">NNNS1-----A----</AM>
+</tag>
 </m>
 <m id="m118-d-id87408-punct">
 <w.rf>

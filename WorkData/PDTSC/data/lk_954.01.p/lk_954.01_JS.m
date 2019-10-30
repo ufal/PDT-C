@@ -2299,13 +2299,9 @@
 <w.rf>
 <LM>w#w-d1t714-6</LM>
 </w.rf>
-<form>50 000</form>
-<tag lemma="50 000" src="auto">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>50000</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>50000</form>
+<tag lemma="50000" src="auto" recommended="1">C=-------------</tag>
 </m>
 <m id="m954-d1t714-8">
 <w.rf>
@@ -3930,13 +3926,9 @@
 <w.rf>
 <LM>w#w-d1t874-7</LM>
 </w.rf>
-<form>vzpomínaji</form>
-<tag lemma="vzpomínaji" src="auto">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>vzpomínají</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>vzpomínají</form>
+<tag lemma="vzpomínat_:T" src="auto" recommended="1">VB-P---3P-AA---</tag>
 </m>
 <m id="m954-d1t877-1">
 <w.rf>

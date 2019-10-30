@@ -5094,13 +5094,9 @@
 <w.rf>
 <LM>w#w-d1t407-9</LM>
 </w.rf>
-<form>dávaly</form>
-<tag lemma="dávat_:T_^(*3t)" src="auto" recommended="1">VpTP---XR-AA---</tag>
-<comment>
-<LM type="New Form">
-<text>dávali</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>dávali</form>
+<tag lemma="dávat_:T_^(*3t)" src="auto" recommended="1">VpMP---XR-AA---</tag>
 </m>
 <m id="m795-d1t407-10">
 <w.rf>

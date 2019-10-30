@@ -3879,13 +3879,9 @@
 <w.rf>
 <LM>w#w-d1t269-1</LM>
 </w.rf>
-<form>nanašel</form>
-<tag lemma="nanašel" src="auto">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>nenašel</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>nenašel</form>
+<tag lemma="najít" src="auto" recommended="1">VpYS---XR-NA---</tag>
 </m>
 <m id="m139-d1t269-2">
 <w.rf>

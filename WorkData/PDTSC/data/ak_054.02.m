@@ -2487,13 +2487,37 @@
 <w.rf>
 <LM>w#w-d1t614-9</LM>
 </w.rf>
-<form>spolední</form>
-<tag lemma="spolední" src="auto">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>poslední</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>poslední</form>
+<tag>
+<AM lemma="poslední">AAFP1----1A----</AM>
+<AM lemma="poslední">AAFP4----1A----</AM>
+<AM lemma="poslední">AAFP5----1A----</AM>
+<AM lemma="poslední">AAFS1----1A----</AM>
+<AM lemma="poslední">AAFS3----1A----</AM>
+<AM lemma="poslední">AAFS4----1A----</AM>
+<AM lemma="poslední">AAFS5----1A----</AM>
+<AM lemma="poslední">AAFS6----1A----</AM>
+<AM lemma="poslední">AAFS7----1A----</AM>
+<AM lemma="poslední">AAIP1----1A----</AM>
+<AM lemma="poslední">AAIP4----1A----</AM>
+<AM lemma="poslední">AAIP5----1A----</AM>
+<AM lemma="poslední">AAIS1----1A----</AM>
+<AM lemma="poslední">AAIS4----1A----</AM>
+<AM lemma="poslední">AAIS5----1A----</AM>
+<AM lemma="poslední">AAMP1----1A----</AM>
+<AM lemma="poslední">AAMP4----1A----</AM>
+<AM lemma="poslední">AAMP5----1A----</AM>
+<AM lemma="poslední">AAMS1----1A----</AM>
+<AM lemma="poslední">AAMS5----1A----</AM>
+<AM lemma="poslední">AANP1----1A----</AM>
+<AM lemma="poslední">AANP4----1A----</AM>
+<AM lemma="poslední">AANP5----1A----</AM>
+<AM lemma="poslední">AANS1----1A----</AM>
+<AM lemma="poslední">AANS4----1A----</AM>
+<AM lemma="poslední">AANS5----1A----</AM>
+<AM lemma="poslední" src="auto" recommended="1">AAFS2----1A----</AM>
+</tag>
 </m>
 <m id="m054-d1t614-10">
 <w.rf>

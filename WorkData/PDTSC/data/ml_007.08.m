@@ -2639,13 +2639,9 @@
 <w.rf>
 <LM>w#w-d1t2579-5</LM>
 </w.rf>
-<form>prodavčkou</form>
-<tag lemma="prodavčkou" src="auto">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>prodavačkou</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>prodavačkou</form>
+<tag lemma="prodavačka_^(*2)" src="auto" recommended="1">NNFS7-----A----</tag>
 </m>
 <m id="m007-d1t2579-6">
 <w.rf>
@@ -3017,13 +3013,12 @@
 <w.rf>
 <LM>w#w-d1t2590-21</LM>
 </w.rf>
-<form>ješte</form>
-<tag lemma="ješte" src="auto">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>ještě</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>ještě</form>
+<tag>
+<AM lemma="ještě-2">TT-------------</AM>
+<AM lemma="ještě-1" src="auto" recommended="1">Db-------------</AM>
+</tag>
 </m>
 <m id="m007-d1t2590-22">
 <w.rf>
@@ -3194,13 +3189,39 @@
 <w.rf>
 <LM>w#w-d1t2598-3</LM>
 </w.rf>
-<form>vuyčený</form>
-<tag lemma="vuyčený" src="auto">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>vyučený</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>vyučený</form>
+<tag>
+<AM lemma="vyučená_^(zkušenost;_dostat_na_v.)">NNFP1-----A---6</AM>
+<AM lemma="vyučená_^(zkušenost;_dostat_na_v.)">NNFP4-----A---6</AM>
+<AM lemma="vyučená_^(zkušenost;_dostat_na_v.)">NNFP5-----A---6</AM>
+<AM lemma="vyučená_^(zkušenost;_dostat_na_v.)">NNFS2-----A---6</AM>
+<AM lemma="vyučená_^(zkušenost;_dostat_na_v.)">NNFS3-----A---6</AM>
+<AM lemma="vyučená_^(zkušenost;_dostat_na_v.)">NNFS6-----A---6</AM>
+<AM lemma="vyučený_^(*3it)">AAFP1----1A---6</AM>
+<AM lemma="vyučený_^(*3it)">AAFP4----1A---6</AM>
+<AM lemma="vyučený_^(*3it)">AAFP5----1A---6</AM>
+<AM lemma="vyučený_^(*3it)">AAFS2----1A---6</AM>
+<AM lemma="vyučený_^(*3it)">AAFS3----1A---6</AM>
+<AM lemma="vyučený_^(*3it)">AAFS6----1A---6</AM>
+<AM lemma="vyučený_^(*3it)">AAIP1----1A---6</AM>
+<AM lemma="vyučený_^(*3it)">AAIP4----1A---6</AM>
+<AM lemma="vyučený_^(*3it)">AAIP5----1A---6</AM>
+<AM lemma="vyučený_^(*3it)">AAIS4----1A----</AM>
+<AM lemma="vyučený_^(*3it)">AAIS5----1A----</AM>
+<AM lemma="vyučený_^(*3it)">AAMP1----1A---6</AM>
+<AM lemma="vyučený_^(*3it)">AAMP4----1A---6</AM>
+<AM lemma="vyučený_^(*3it)">AAMP5----1A---6</AM>
+<AM lemma="vyučený_^(*3it)">AAMS1----1A----</AM>
+<AM lemma="vyučený_^(*3it)">AAMS5----1A----</AM>
+<AM lemma="vyučený_^(*3it)">AANP1----1A---6</AM>
+<AM lemma="vyučený_^(*3it)">AANP4----1A---6</AM>
+<AM lemma="vyučený_^(*3it)">AANP5----1A---6</AM>
+<AM lemma="vyučený_^(*3it)">AANS1----1A---6</AM>
+<AM lemma="vyučený_^(*3it)">AANS4----1A---6</AM>
+<AM lemma="vyučený_^(*3it)">AANS5----1A---6</AM>
+<AM lemma="vyučený_^(*3it)" src="auto" recommended="1">AAIS1----1A----</AM>
+</tag>
 </m>
 <m id="m007-d-id150777">
 <w.rf>

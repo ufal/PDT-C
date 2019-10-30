@@ -1587,17 +1587,9 @@
 <w.rf>
 <LM>w#w-d1t1235-8</LM>
 </w.rf>
-<form>Směna</form>
-<tag>
-<AM lemma="smět_:T" src="auto">VsQW---XX-AP---</AM>
-<AM lemma="směna-1_^(výměna_za_něco)" src="auto">NNFS1-----A----</AM>
-<AM lemma="směna-2_^(pracovní;...)" src="auto" recommended="1">NNFS1-----A----</AM>
-</tag>
-<comment>
-<LM type="New Form">
-<text>Smena</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>Smena</form>
+<tag lemma="Smena_;R" src="auto" recommended="1">NNFS1-----A----</tag>
 </m>
 <m id="m101-d1t1235-10">
 <w.rf>

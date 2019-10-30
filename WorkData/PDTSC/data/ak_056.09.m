@@ -3313,13 +3313,9 @@
 <w.rf>
 <LM>w#w-d1t2791-6</LM>
 </w.rf>
-<form>odpočinu </form>
-<tag lemma="odpočinu" src="auto">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>odpočinu</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>odpočinu</form>
+<tag lemma="odpočinout" src="auto" recommended="1">VB-S---1P-AA---</tag>
 </m>
 <m id="m056-d-m-d1e2777-x2-punct-punct">
 <w.rf>

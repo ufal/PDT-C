@@ -761,13 +761,12 @@
 <w.rf>
 <LM>w#w-d1t2702-1</LM>
 </w.rf>
-<form>Obvzláště</form>
-<tag lemma="Obvzláště" src="auto">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>Obzvláště</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>Obzvláště</form>
+<tag>
+<AM lemma="obzvláště-2">TT-------------</AM>
+<AM lemma="obzvláště-1" src="auto" recommended="1">Db-------------</AM>
+</tag>
 </m>
 <m id="m137-d1t2702-2">
 <w.rf>

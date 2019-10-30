@@ -829,22 +829,13 @@
 <w.rf>
 <LM>w#w-d1t722-1</LM>
 </w.rf>
-<form>moje</form>
+<form_change>spell</form_change>
+<form>moji</form>
 <tag>
-<AM lemma="můj_^(přivlast.)" src="auto">PSHP1-S1-------</AM>
-<AM lemma="můj_^(přivlast.)" src="auto">PSHP5-S1-------</AM>
-<AM lemma="můj_^(přivlast.)" src="auto">PSHS1-S1-------</AM>
-<AM lemma="můj_^(přivlast.)" src="auto">PSHS5-S1-------</AM>
-<AM lemma="můj_^(přivlast.)" src="auto" recommended="1">PSIP1-S1-------</AM>
-<AM lemma="můj_^(přivlast.)" src="auto">PSIP5-S1-------</AM>
-<AM lemma="můj_^(přivlast.)" src="auto">PSNS4-S1-------</AM>
-<AM lemma="můj_^(přivlast.)" src="auto">PSXP4-S1-------</AM>
+<AM lemma="můj_^(přivlast.)">PSFS4-S1-------</AM>
+<AM lemma="můj_^(přivlast.)">PSMP5-S1-------</AM>
+<AM lemma="můj_^(přivlast.)" src="auto" recommended="1">PSMP1-S1-------</AM>
 </tag>
-<comment>
-<LM type="New Form">
-<text>moji</text>
-</LM>
-</comment>
 </m>
 <m id="m061-d1t722-2">
 <w.rf>
@@ -3147,13 +3138,9 @@
 <w.rf>
 <LM>w#w-d1t864-9</LM>
 </w.rf>
-<form>vyslověně</form>
-<tag lemma="vyslověně" src="auto">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>vysloveně</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>vysloveně</form>
+<tag lemma="vysloveně_^(*1ý)" src="auto" recommended="1">Dg-------1A----</tag>
 </m>
 <m id="m061-d1t867-1">
 <w.rf>
@@ -4639,13 +4626,18 @@
 <w.rf>
 <LM>w#w-d1t947-3</LM>
 </w.rf>
-<form>ranných</form>
-<tag lemma="ranných" src="auto">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>raných</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>raných</form>
+<tag>
+<AM lemma="raný">AAFP2----1A----</AM>
+<AM lemma="raný">AAFP6----1A----</AM>
+<AM lemma="raný">AAIP2----1A----</AM>
+<AM lemma="raný">AAIP6----1A----</AM>
+<AM lemma="raný">AAMP2----1A----</AM>
+<AM lemma="raný">AAMP6----1A----</AM>
+<AM lemma="raný">AANP6----1A----</AM>
+<AM lemma="raný" src="auto" recommended="1">AANP2----1A----</AM>
+</tag>
 </m>
 <m id="m061-d1t947-4">
 <w.rf>

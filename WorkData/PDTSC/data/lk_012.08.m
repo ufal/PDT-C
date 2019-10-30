@@ -223,13 +223,12 @@
 <w.rf>
 <LM>w#w-d1t3530-2</LM>
 </w.rf>
-<form>Msem</form>
-<tag lemma="Msem" src="auto">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>Jsem</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>Jsem</form>
+<tag>
+<AM lemma="být">VB-S---1P-AA--2</AM>
+<AM lemma="být" src="auto" recommended="1">VB-S---1P-AA---</AM>
+</tag>
 </m>
 <m id="m012-d1t3538-1">
 <w.rf>

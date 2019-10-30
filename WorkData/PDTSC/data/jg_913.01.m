@@ -8319,13 +8319,9 @@
 <w.rf>
 <LM>w#w-d1t829-9</LM>
 </w.rf>
-<form>1 600</form>
-<tag lemma="1 600" src="auto">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>1600</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>1600</form>
+<tag lemma="1600" src="auto" recommended="1">C=-------------</tag>
 </m>
 <m id="m913-d1t829-11">
 <w.rf>

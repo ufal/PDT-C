@@ -2238,13 +2238,12 @@
 <w.rf>
 <LM>w#w-d1t2457-3</LM>
 </w.rf>
-<form>tapicírung</form>
-<tag lemma="tapicírung" src="auto">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>tapecírunk</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>tapecírunk</form>
+<tag>
+<AM lemma="tapecírunk">NNIS1-----A----</AM>
+<AM lemma="tapecírunk" src="auto" recommended="1">NNIS4-----A----</AM>
+</tag>
 </m>
 <m id="m040-108-110">
 <w.rf>

@@ -1737,13 +1737,12 @@
 <w.rf>
 <LM>w#w-d1t149-5</LM>
 </w.rf>
-<form>jsme</form>
-<tag lemma="být" src="auto" recommended="1">VB-P---1P-AA---</tag>
-<comment>
-<LM type="New Form">
-<text>jsem</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>jsem</form>
+<tag>
+<AM lemma="být">VB-S---1P-AA--2</AM>
+<AM lemma="být" src="auto" recommended="1">VB-S---1P-AA---</AM>
+</tag>
 </m>
 <m id="m045-d1t149-6">
 <w.rf>

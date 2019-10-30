@@ -4096,16 +4096,12 @@
 <w.rf>
 <LM>w#w-d1t610-3</LM>
 </w.rf>
-<form>poloněmec</form>
+<form_change>spell</form_change>
+<form>Poloněmec</form>
 <tag>
-<AM lemma="poloněmec" src="auto">X@-------------</AM>
-<AM lemma="poloněmec" src="manual">NNMS1-----A----</AM>
+<AM lemma="Poloněmec">X@-------------</AM>
+<AM lemma="Poloněmec" src="auto" recommended="1">NNMS1-----A----</AM>
 </tag>
-<comment>
-<LM type="New Form">
-<text>Poloněmec</text>
-</LM>
-</comment>
 </m>
 <m id="m994-d1e555-x5-1975">
 <w.rf>

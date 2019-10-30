@@ -811,16 +811,12 @@
 <w.rf>
 <LM>w#w-d1t2796-6</LM>
 </w.rf>
-<form>Vechtrová</form>
+<form_change>spell</form_change>
+<form>vechtrová</form>
 <tag>
-<AM lemma="Vechtrová" src="auto">X@-------------</AM>
-<AM lemma="Vechtrová_;S" src="manual">NNFS1-----A----</AM>
+<AM lemma="vechtrová">X@-------------</AM>
+<AM lemma="vechtrová_;S" src="auto" recommended="1">NNFS1-----A----</AM>
 </tag>
-<comment>
-<LM type="New Form">
-<text>vechtrová</text>
-</LM>
-</comment>
 </m>
 <m id="m046-d1t2796-8">
 <w.rf>

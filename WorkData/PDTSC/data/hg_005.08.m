@@ -1488,13 +1488,9 @@
 <w.rf>
 <LM>w#w-d1t2846-7</LM>
 </w.rf>
-<form>vídět</form>
-<tag lemma="vídět" src="auto">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>vidět</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>vidět</form>
+<tag lemma="vidět" src="auto" recommended="1">Vf--------A----</tag>
 </m>
 <m id="m005-d-id138991">
 <w.rf>
@@ -3223,7 +3219,7 @@
 <tag lemma="?" src="auto" recommended="1">Z:-------------</tag>
 </m>
 </s>
-<s id="m-335"/>
+<s id="m-335"></s>
 <s id="m-d1e3095-x2">
 <m id="m005-d1t3102-3">
 <w.rf>

@@ -1657,13 +1657,14 @@
 <w.rf>
 <LM>w#w-d1t3438-9</LM>
 </w.rf>
-<form>osavy</form>
-<tag lemma="osavy" src="auto">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>oslavy</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>oslavy</form>
+<tag>
+<AM lemma="oslava">NNFP1-----A----</AM>
+<AM lemma="oslava">NNFP4-----A----</AM>
+<AM lemma="oslava">NNFP5-----A----</AM>
+<AM lemma="oslava" src="auto" recommended="1">NNFS2-----A----</AM>
+</tag>
 </m>
 <m id="m022-d-id164431-punct">
 <w.rf>

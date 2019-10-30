@@ -536,13 +536,9 @@
 <w.rf>
 <LM>w#w-d1t1742-7</LM>
 </w.rf>
-<form>převčírem</form>
-<tag lemma="převčírem" src="auto">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>předevčírem</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>předevčírem</form>
+<tag lemma="předevčírem" src="auto" recommended="1">Db-------------</tag>
 </m>
 <m id="m048-d-id111351-punct">
 <w.rf>

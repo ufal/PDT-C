@@ -1984,13 +1984,9 @@
 <w.rf>
 <LM>w#w-d1t3555-12</LM>
 </w.rf>
-<form>výzbobu</form>
-<tag lemma="výzbobu" src="auto">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>výzdobu</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>výzdobu</form>
+<tag lemma="výzdoba" src="auto" recommended="1">NNFS4-----A----</tag>
 </m>
 <m id="m019-156-157">
 <w.rf>
@@ -2229,13 +2225,33 @@
 <w.rf>
 <LM>w#w-d1t3572-11</LM>
 </w.rf>
-<form>vyzbobený</form>
-<tag lemma="vyzbobený" src="auto">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>vyzdobený</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>vyzdobený</form>
+<tag>
+<AM lemma="vyzdobený_^(*3it)">AAFP1----1A---6</AM>
+<AM lemma="vyzdobený_^(*3it)">AAFP4----1A---6</AM>
+<AM lemma="vyzdobený_^(*3it)">AAFP5----1A---6</AM>
+<AM lemma="vyzdobený_^(*3it)">AAFS2----1A---6</AM>
+<AM lemma="vyzdobený_^(*3it)">AAFS3----1A---6</AM>
+<AM lemma="vyzdobený_^(*3it)">AAFS6----1A---6</AM>
+<AM lemma="vyzdobený_^(*3it)">AAIP1----1A---6</AM>
+<AM lemma="vyzdobený_^(*3it)">AAIP4----1A---6</AM>
+<AM lemma="vyzdobený_^(*3it)">AAIP5----1A---6</AM>
+<AM lemma="vyzdobený_^(*3it)">AAIS1----1A----</AM>
+<AM lemma="vyzdobený_^(*3it)">AAIS5----1A----</AM>
+<AM lemma="vyzdobený_^(*3it)">AAMP1----1A---6</AM>
+<AM lemma="vyzdobený_^(*3it)">AAMP4----1A---6</AM>
+<AM lemma="vyzdobený_^(*3it)">AAMP5----1A---6</AM>
+<AM lemma="vyzdobený_^(*3it)">AAMS1----1A----</AM>
+<AM lemma="vyzdobený_^(*3it)">AAMS5----1A----</AM>
+<AM lemma="vyzdobený_^(*3it)">AANP1----1A---6</AM>
+<AM lemma="vyzdobený_^(*3it)">AANP4----1A---6</AM>
+<AM lemma="vyzdobený_^(*3it)">AANP5----1A---6</AM>
+<AM lemma="vyzdobený_^(*3it)">AANS1----1A---6</AM>
+<AM lemma="vyzdobený_^(*3it)">AANS4----1A---6</AM>
+<AM lemma="vyzdobený_^(*3it)">AANS5----1A---6</AM>
+<AM lemma="vyzdobený_^(*3it)" src="auto" recommended="1">AAIS4----1A----</AM>
+</tag>
 </m>
 <m id="m019-d1t3572-12">
 <w.rf>

@@ -1406,13 +1406,12 @@
 <w.rf>
 <LM>w#w-d1t2802-3</LM>
 </w.rf>
-<form>kulutuře</form>
-<tag lemma="kulutuře" src="auto">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>kultuře</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>kultuře</form>
+<tag>
+<AM lemma="kultura">NNFS6-----A----</AM>
+<AM lemma="kultura" src="auto" recommended="1">NNFS3-----A----</AM>
+</tag>
 </m>
 <m id="m006-d-id140640">
 <w.rf>
@@ -2501,13 +2500,12 @@
 <w.rf>
 <LM>w#w-d1t2874-3</LM>
 </w.rf>
-<form>Zž</form>
-<tag lemma="Zž" src="auto">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>Už</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>Už</form>
+<tag>
+<AM lemma="už-2">TT-------------</AM>
+<AM lemma="už-1" src="auto" recommended="1">Db-------------</AM>
+</tag>
 </m>
 <m id="m006-d1t2874-4">
 <w.rf>

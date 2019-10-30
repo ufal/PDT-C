@@ -2326,13 +2326,9 @@
 <w.rf>
 <LM>w#w-d1t1750-25</LM>
 </w.rf>
-<form>zkácel</form>
-<tag lemma="zkácel" src="auto">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>skácel</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>skácel</form>
+<tag lemma="skácet_:W" src="auto" recommended="1">VpYS---XR-AA---</tag>
 </m>
 <m id="m145-d1t1750-26">
 <w.rf>

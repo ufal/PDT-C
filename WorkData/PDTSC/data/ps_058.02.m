@@ -113,13 +113,15 @@
 <w.rf>
 <LM>w#w-d1t876-3</LM>
 </w.rf>
-<form>vzámecká</form>
-<tag lemma="vzámecká" src="auto">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>zámecká</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>zámecká</form>
+<tag>
+<AM lemma="zámecký">AAFS5----1A----</AM>
+<AM lemma="zámecký">AANP1----1A----</AM>
+<AM lemma="zámecký">AANP4----1A----</AM>
+<AM lemma="zámecký">AANP5----1A----</AM>
+<AM lemma="zámecký" src="auto" recommended="1">AAFS1----1A----</AM>
+</tag>
 </m>
 <m id="m058-d1t876-5">
 <w.rf>

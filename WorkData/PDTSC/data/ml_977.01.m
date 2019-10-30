@@ -4382,13 +4382,9 @@
 <w.rf>
 <LM>w#w-id60331-2</LM>
 </w.rf>
-<form>němel</form>
-<tag lemma="němel" src="auto">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>neměl</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>neměl</form>
+<tag lemma="mít" src="auto" recommended="1">VpYS---XR-NA---</tag>
 </m>
 <m id="m977-id60331-3">
 <w.rf>

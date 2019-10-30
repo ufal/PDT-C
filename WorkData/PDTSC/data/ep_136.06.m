@@ -1637,13 +1637,9 @@
 <w.rf>
 <LM>w#w-d1t2772-2</LM>
 </w.rf>
-<form>Kkdyž</form>
-<tag lemma="Kkdyž" src="auto">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>Když</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>Když</form>
+<tag lemma="když" src="auto" recommended="1">J,-------------</tag>
 </m>
 <m id="m136-d1t2772-3">
 <w.rf>
@@ -6527,13 +6523,9 @@
 <w.rf>
 <LM>w#w-d1t3091-6</LM>
 </w.rf>
-<form>nepotřebval</form>
-<tag lemma="nepotřebval" src="auto">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>nepotřeboval</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>nepotřeboval</form>
+<tag lemma="potřebovat_:T" src="auto" recommended="1">VpYS---XR-NA---</tag>
 </m>
 <m id="m136-d1t3091-7">
 <w.rf>

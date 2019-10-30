@@ -1442,13 +1442,9 @@
 <w.rf>
 <LM>w#w-d1t3348-22</LM>
 </w.rf>
-<form>Zásáhlo</form>
-<tag lemma="Zásáhlo" src="auto">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>Zasáhlo</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>Zasáhlo</form>
+<tag lemma="zasáhnout_:W" src="auto" recommended="1">VpNS---XR-AA--1</tag>
 </m>
 <m id="m023-d1t3348-23">
 <w.rf>
@@ -1909,13 +1905,12 @@
 <w.rf>
 <LM>w#w-d1t3364-13</LM>
 </w.rf>
-<form>spávě</form>
-<tag lemma="spávě" src="auto">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>správě</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>správě</form>
+<tag>
+<AM lemma="správa">NNFS3-----A----</AM>
+<AM lemma="správa" src="auto" recommended="1">NNFS6-----A----</AM>
+</tag>
 </m>
 <m id="m023-d1t3364-15">
 <w.rf>

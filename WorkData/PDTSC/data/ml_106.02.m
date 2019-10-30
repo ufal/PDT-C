@@ -1407,12 +1407,22 @@
 <w.rf>
 <LM>w#w-d1t502-16</LM>
 </w.rf>
-<form>F&amp;C</form>
-<tag lemma="F&amp;C" src="auto">X@-------------</tag>
+<form_change>spell</form_change>
+<form>F</form>
+<tag>
+<AM lemma="F-0_:B_;Y">NNMXX-----A---8</AM>
+<AM lemma="F-0_:B_;Y">NNXXX-----A---8</AM>
+<AM lemma="F-4_:B_;K">AAXXX----1A---8</AM>
+<AM lemma="F-5_:B_;G">AAXXX----1A---8</AM>
+<AM lemma="F-6_:B_;R">NNXXX-----A---8</AM>
+<AM lemma="F-9_:B_;S">NNFXX-----A---8</AM>
+<AM lemma="F-9_:B_;S">NNMXX-----A---8</AM>
+<AM lemma="F-9_:B_;S">NNXXX-----A---8</AM>
+<AM lemma="f-3_^(označení_pomocí_písmene)">NNNXX-----A----</AM>
+<AM lemma="f-8_:B_^(ost._zkratka)">XX------------8</AM>
+<AM lemma="F-0_:B_;Y" src="auto" recommended="1">NNFXX-----A---8</AM>
+</tag>
 <comment>
-<LM type="New Form">
-<text>F</text>
-</LM>
 <LM type="Other">
 <text>3v1: F &amp; C</text>
 </LM>
@@ -2973,16 +2983,12 @@
 <w.rf>
 <LM>w#w-d1t561-1</LM>
 </w.rf>
-<form>no</form>
+<form_change>spell</form_change>
+<form>do</form>
 <tag>
-<AM lemma="no" src="auto">TT-------------</AM>
-<AM lemma="no-77" src="auto" recommended="1">F%-------------</AM>
+<AM lemma="do-7_^(předpona,_sam.)">A2--------A----</AM>
+<AM lemma="do-1" src="auto" recommended="1">RR--2----------</AM>
 </tag>
-<comment>
-<LM type="New Form">
-<text>do</text>
-</LM>
-</comment>
 </m>
 <m id="m106-d1t561-2">
 <w.rf>

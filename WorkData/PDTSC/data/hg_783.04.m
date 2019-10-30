@@ -2281,13 +2281,9 @@
 <w.rf>
 <LM>w#w-d1t1645-3</LM>
 </w.rf>
-<form>paněvadž</form>
-<tag lemma="paněvadž" src="auto">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>poněvadž</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>poněvadž</form>
+<tag lemma="poněvadž" src="auto" recommended="1">J,-------------</tag>
 </m>
 <m id="m783-d1t1645-4">
 <w.rf>
@@ -3719,13 +3715,9 @@
 <w.rf>
 <LM>w#w-d1t1754-4</LM>
 </w.rf>
-<form>tímle</form>
-<tag lemma="tímle" src="auto">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>tímhle</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>tímhle</form>
+<tag lemma="tenhle" src="auto" recommended="1">PDZS7----------</tag>
 </m>
 <m id="m783-d1e1740-x2-15187">
 <w.rf>

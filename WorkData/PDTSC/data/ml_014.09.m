@@ -3449,13 +3449,13 @@
 <w.rf>
 <LM>w#w-d1t3372-8</LM>
 </w.rf>
-<form>bambor</form>
-<tag lemma="bambor" src="auto">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>brambor</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>brambor</form>
+<tag>
+<AM lemma="brambora">NNFP2-----A----</AM>
+<AM lemma="brambor">NNIS1-----A----</AM>
+<AM lemma="brambor" src="auto" recommended="1">NNIS4-----A----</AM>
+</tag>
 </m>
 <m id="m014-d-id168847-punct">
 <w.rf>

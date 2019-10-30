@@ -2663,13 +2663,17 @@
 <w.rf>
 <LM>w#w-d1t1940-8</LM>
 </w.rf>
-<form>pracovistě</form>
-<tag lemma="pracovistě" src="auto">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>pracoviště</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>pracoviště</form>
+<tag>
+<AM lemma="pracoviště">NNNP1-----A----</AM>
+<AM lemma="pracoviště">NNNP4-----A----</AM>
+<AM lemma="pracoviště">NNNP5-----A----</AM>
+<AM lemma="pracoviště">NNNS1-----A----</AM>
+<AM lemma="pracoviště">NNNS2-----A----</AM>
+<AM lemma="pracoviště">NNNS5-----A----</AM>
+<AM lemma="pracoviště" src="auto" recommended="1">NNNS4-----A----</AM>
+</tag>
 </m>
 <m id="m012-d-id113940">
 <w.rf>

@@ -2009,13 +2009,15 @@
 <w.rf>
 <LM>w#w-d1t936-9</LM>
 </w.rf>
-<form>učinná</form>
-<tag lemma="učinná" src="auto">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>účinná</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>účinná</form>
+<tag>
+<AM lemma="účinný">AAFS5----1A----</AM>
+<AM lemma="účinný">AANP1----1A----</AM>
+<AM lemma="účinný">AANP4----1A----</AM>
+<AM lemma="účinný">AANP5----1A----</AM>
+<AM lemma="účinný" src="auto" recommended="1">AAFS1----1A----</AM>
+</tag>
 </m>
 <m id="m127-d-id107014-punct">
 <w.rf>

@@ -5829,13 +5829,16 @@
 <w.rf>
 <LM>w#w-d1t647-7</LM>
 </w.rf>
-<form>přibuznými</form>
-<tag lemma="přibuznými" src="auto">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>příbuznými</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>příbuznými</form>
+<tag>
+<AM lemma="příbuzný-2_^(podobný)">AAFP7----1A----</AM>
+<AM lemma="příbuzný-2_^(podobný)">AAIP7----1A----</AM>
+<AM lemma="příbuzný-2_^(podobný)">AAMP7----1A----</AM>
+<AM lemma="příbuzný-2_^(podobný)">AANP7----1A----</AM>
+<AM lemma="příbuzná-1_^(člen_rodiny)_(*3ý-1)">NNFP7-----A----</AM>
+<AM lemma="příbuzný-1_^(člen_rodiny)" src="auto" recommended="1">NNMP7-----A----</AM>
+</tag>
 </m>
 <m id="m107-d-id88022-punct">
 <w.rf>

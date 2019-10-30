@@ -3140,13 +3140,9 @@
 <w.rf>
 <LM>w#w-d1t1416-2</LM>
 </w.rf>
-<form>rujnu</form>
-<tag lemma="rujnu" src="auto">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>ruinu</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>ruinu</form>
+<tag lemma="ruina" src="auto" recommended="1">NNFS4-----A----</tag>
 </m>
 <m id="m147-d1t1416-3">
 <w.rf>

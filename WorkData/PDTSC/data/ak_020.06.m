@@ -5433,19 +5433,12 @@
 <w.rf>
 <LM>w#w-d1t1383-6</LM>
 </w.rf>
-<form>hlavně</form>
+<form_change>spell</form_change>
+<form>hlavě</form>
 <tag>
-<AM lemma="hlaveň" src="auto">NNFP1-----A----</AM>
-<AM lemma="hlaveň" src="auto">NNFP4-----A----</AM>
-<AM lemma="hlaveň" src="auto">NNFP5-----A----</AM>
-<AM lemma="hlaveň" src="auto">NNFS2-----A----</AM>
-<AM lemma="hlavně_^(*1í)" src="auto" recommended="1">Dg-------1A----</AM>
+<AM lemma="hlava">NNFS3-----A----</AM>
+<AM lemma="hlava" src="auto" recommended="1">NNFS6-----A----</AM>
 </tag>
-<comment>
-<LM type="New Form">
-<text>hlavě</text>
-</LM>
-</comment>
 </m>
 <m id="m020-d1t1383-7">
 <w.rf>

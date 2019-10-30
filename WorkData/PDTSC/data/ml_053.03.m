@@ -115,13 +115,14 @@
 <w.rf>
 <LM>w#w-d1t1062-9</LM>
 </w.rf>
-<form>závináče</form>
-<tag lemma="závináče" src="auto">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>zavináče</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>zavináče</form>
+<tag>
+<AM lemma="zavináč">NNIP1-----A----</AM>
+<AM lemma="zavináč">NNIP5-----A----</AM>
+<AM lemma="zavináč">NNIS2-----A----</AM>
+<AM lemma="zavináč" src="auto" recommended="1">NNIP4-----A----</AM>
+</tag>
 </m>
 <m id="m053-d1t1062-10">
 <w.rf>

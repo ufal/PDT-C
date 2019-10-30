@@ -36,13 +36,9 @@
 <w.rf>
 <LM>w#w-d1t589-6</LM>
 </w.rf>
-<form>módistkou</form>
-<tag lemma="módistkou" src="auto">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>modistkou</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>modistkou</form>
+<tag lemma="modistka_^(*2a)" src="auto" recommended="1">NNFS7-----A----</tag>
 </m>
 <m id="m027-d-id75506-punct">
 <w.rf>
@@ -271,13 +267,9 @@
 <w.rf>
 <LM>w#w-d1t595-14</LM>
 </w.rf>
-<form>zákázku</form>
-<tag lemma="zákázku" src="auto">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>zakázku</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>zakázku</form>
+<tag lemma="zakázka" src="auto" recommended="1">NNFS4-----A----</tag>
 </m>
 <m id="m027-1274-1276">
 <w.rf>
@@ -2790,13 +2782,9 @@
 <w.rf>
 <LM>w#w-d1t713-13</LM>
 </w.rf>
-<form>zábavach</form>
-<tag lemma="zábavach" src="auto">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>zábavách</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>zábavách</form>
+<tag lemma="zábava" src="auto" recommended="1">NNFP6-----A----</tag>
 </m>
 <m id="m027-1512-164">
 <w.rf>

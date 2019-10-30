@@ -2294,16 +2294,9 @@
 <w.rf>
 <LM>w#w-d1t440-84</LM>
 </w.rf>
-<form>setra</form>
-<tag>
-<AM lemma="setr" src="auto" recommended="1">NNMS2-----A----</AM>
-<AM lemma="setr" src="auto">NNMS4-----A----</AM>
-</tag>
-<comment>
-<LM type="New Form">
-<text>sestra</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>sestra</form>
+<tag lemma="sestra" src="auto" recommended="1">NNFS1-----A----</tag>
 </m>
 <m id="m104-d1t440-85">
 <w.rf>

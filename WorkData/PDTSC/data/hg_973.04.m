@@ -705,13 +705,33 @@
 <w.rf>
 <LM>w#w-id63743-7</LM>
 </w.rf>
-<form>pohostiný</form>
-<tag lemma="pohostiný" src="auto">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>pohostinný</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>pohostinný</form>
+<tag>
+<AM lemma="pohostinný">AAFP1----1A---6</AM>
+<AM lemma="pohostinný">AAFP4----1A---6</AM>
+<AM lemma="pohostinný">AAFP5----1A---6</AM>
+<AM lemma="pohostinný">AAFS2----1A---6</AM>
+<AM lemma="pohostinný">AAFS3----1A---6</AM>
+<AM lemma="pohostinný">AAFS6----1A---6</AM>
+<AM lemma="pohostinný">AAIP1----1A---6</AM>
+<AM lemma="pohostinný">AAIP4----1A---6</AM>
+<AM lemma="pohostinný">AAIP5----1A---6</AM>
+<AM lemma="pohostinný">AAIS4----1A----</AM>
+<AM lemma="pohostinný">AAIS5----1A----</AM>
+<AM lemma="pohostinný">AAMP1----1A---6</AM>
+<AM lemma="pohostinný">AAMP4----1A---6</AM>
+<AM lemma="pohostinný">AAMP5----1A---6</AM>
+<AM lemma="pohostinný">AAMS1----1A----</AM>
+<AM lemma="pohostinný">AAMS5----1A----</AM>
+<AM lemma="pohostinný">AANP1----1A---6</AM>
+<AM lemma="pohostinný">AANP4----1A---6</AM>
+<AM lemma="pohostinný">AANP5----1A---6</AM>
+<AM lemma="pohostinný">AANS1----1A---6</AM>
+<AM lemma="pohostinný">AANS4----1A---6</AM>
+<AM lemma="pohostinný">AANS5----1A---6</AM>
+<AM lemma="pohostinný" src="auto" recommended="1">AAIS1----1A----</AM>
+</tag>
 </m>
 <m id="m973-id63743-10">
 <w.rf>

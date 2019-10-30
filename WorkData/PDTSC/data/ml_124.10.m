@@ -2409,13 +2409,26 @@
 <w.rf>
 <LM>w#w-d1t1668-11</LM>
 </w.rf>
-<form>třesňové</form>
-<tag lemma="třesňové" src="auto">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>třešňové</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>třešňové</form>
+<tag>
+<AM lemma="třešňový">AAFP1----1A----</AM>
+<AM lemma="třešňový">AAFP4----1A----</AM>
+<AM lemma="třešňový">AAFP5----1A----</AM>
+<AM lemma="třešňový">AAFS2----1A----</AM>
+<AM lemma="třešňový">AAFS3----1A----</AM>
+<AM lemma="třešňový">AAFS6----1A----</AM>
+<AM lemma="třešňový">AAIP1----1A----</AM>
+<AM lemma="třešňový">AAIP5----1A----</AM>
+<AM lemma="třešňový">AAMP4----1A----</AM>
+<AM lemma="třešňový">AANP1----1A---6</AM>
+<AM lemma="třešňový">AANP4----1A---6</AM>
+<AM lemma="třešňový">AANP5----1A---6</AM>
+<AM lemma="třešňový">AANS1----1A----</AM>
+<AM lemma="třešňový">AANS4----1A----</AM>
+<AM lemma="třešňový">AANS5----1A----</AM>
+<AM lemma="třešňový" src="auto" recommended="1">AAIP4----1A----</AM>
+</tag>
 </m>
 <m id="m124-d-id161328-punct">
 <w.rf>

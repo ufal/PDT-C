@@ -1886,13 +1886,9 @@
 <w.rf>
 <LM>w#w-d1t2412-11</LM>
 </w.rf>
-<form>spartakiádu</form>
-<tag lemma="spartakiáda" src="auto" recommended="1">NNFS4-----A----</tag>
-<comment>
-<LM type="New Form">
-<text>spartakiádou</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>spartakiádou</form>
+<tag lemma="spartakiáda" src="auto" recommended="1">NNFS7-----A----</tag>
 </m>
 <m id="m042-d-m-d1e2396-x2-punct-punct">
 <w.rf>

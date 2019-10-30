@@ -3044,19 +3044,13 @@
 <w.rf>
 <LM>w#w-d1t540-2</LM>
 </w.rf>
-<form>vaší</form>
+<form_change>spell</form_change>
+<form>vaši</form>
 <tag>
-<AM lemma="tvůj_^(přivlast.)" src="auto">PSFS2-P2-------</AM>
-<AM lemma="tvůj_^(přivlast.)" src="auto">PSFS3-P2-------</AM>
-<AM lemma="tvůj_^(přivlast.)" src="auto" recommended="1">PSFS4-P2------6</AM>
-<AM lemma="tvůj_^(přivlast.)" src="auto">PSFS6-P2-------</AM>
-<AM lemma="tvůj_^(přivlast.)" src="auto">PSFS7-P2-------</AM>
+<AM lemma="tvůj_^(přivlast.)">PSMP1-P2-------</AM>
+<AM lemma="tvůj_^(přivlast.)">PSMP5-P2-------</AM>
+<AM lemma="tvůj_^(přivlast.)" src="auto" recommended="1">PSFS4-P2-------</AM>
 </tag>
-<comment>
-<LM type="New Form">
-<text>vaši</text>
-</LM>
-</comment>
 </m>
 <m id="m108-d1t540-3">
 <w.rf>

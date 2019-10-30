@@ -1746,13 +1746,12 @@
 <w.rf>
 <LM>w#w-d1t1183-5</LM>
 </w.rf>
-<form>srach</form>
-<tag lemma="srach" src="auto">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>strach</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>strach</form>
+<tag>
+<AM lemma="strach">NNIS1-----A----</AM>
+<AM lemma="strach" src="auto" recommended="1">NNIS4-----A----</AM>
+</tag>
 </m>
 <m id="m121-d1e1180-x2-612">
 <w.rf>

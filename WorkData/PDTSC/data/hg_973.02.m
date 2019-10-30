@@ -6227,13 +6227,9 @@
 <w.rf>
 <LM>w#w-id62382-12</LM>
 </w.rf>
-<form>zůčastnit</form>
-<tag lemma="zůčastnit" src="auto">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>zúčastnit</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>zúčastnit</form>
+<tag lemma="zúčastnit_:W" src="auto" recommended="1">Vf--------A----</tag>
 </m>
 <m id="m973-id62382-9">
 <w.rf>

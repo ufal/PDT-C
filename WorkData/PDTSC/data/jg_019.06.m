@@ -3945,13 +3945,9 @@
 <w.rf>
 <LM>w#w-d1t2326-1</LM>
 </w.rf>
-<form>Vzpomente</form>
-<tag lemma="Vzpomente" src="auto">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>Vzpomenete</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>Vzpomenete</form>
+<tag lemma="vzpomenout" src="auto" recommended="1">VB-P---2P-AA---</tag>
 </m>
 <m id="m019-d1t2326-2">
 <w.rf>

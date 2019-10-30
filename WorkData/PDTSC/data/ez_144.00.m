@@ -1980,13 +1980,12 @@
 <w.rf>
 <LM>w#w-d1t101-11</LM>
 </w.rf>
-<form>kartonářce</form>
-<tag lemma="kartonářce" src="auto">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>kartonážce</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>kartonážce</form>
+<tag>
+<AM lemma="kartonážka_,h">NNFS3-----A----</AM>
+<AM lemma="kartonážka_,h" src="auto" recommended="1">NNFS6-----A----</AM>
+</tag>
 </m>
 <m id="m144-d1e96-x2-55">
 <w.rf>

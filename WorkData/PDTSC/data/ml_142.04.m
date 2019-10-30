@@ -4631,13 +4631,14 @@
 <w.rf>
 <LM>w#w-d1t588-19</LM>
 </w.rf>
-<form>Plzenece</form>
-<tag lemma="Plzenece" src="auto">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>Plzence</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>Plzence</form>
+<tag>
+<AM lemma="Plzenec_;G">NNIP1-----A----</AM>
+<AM lemma="Plzenec_;G">NNIP4-----A----</AM>
+<AM lemma="Plzenec_;G">NNIP5-----A----</AM>
+<AM lemma="Plzenec_;G" src="auto" recommended="1">NNIS2-----A----</AM>
+</tag>
 </m>
 <m id="m142-209-217">
 <w.rf>

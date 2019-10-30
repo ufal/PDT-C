@@ -3058,13 +3058,9 @@
 <w.rf>
 <LM>w#w-d1t3753-5</LM>
 </w.rf>
-<form>chodily</form>
-<tag lemma="chodit_:T" src="auto" recommended="1">VpTP---XR-AA---</tag>
-<comment>
-<LM type="New Form">
-<text>chodili</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>chodili</form>
+<tag lemma="chodit_:T" src="auto" recommended="1">VpMP---XR-AA---</tag>
 </m>
 <m id="m051-d1t3753-6">
 <w.rf>
@@ -3678,13 +3674,9 @@
 <w.rf>
 <LM>w#w-d1t3785-2</LM>
 </w.rf>
-<form>zbavovali</form>
-<tag lemma="zbavovat_:T" src="auto" recommended="1">VpMP---XR-AA---</tag>
-<comment>
-<LM type="New Form">
-<text>zbavovaly</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>zbavovaly</form>
+<tag lemma="zbavovat_:T" src="auto" recommended="1">VpTP---XR-AA---</tag>
 </m>
 <m id="m051-d1t3785-4">
 <w.rf>

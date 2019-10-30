@@ -3537,13 +3537,37 @@
 <w.rf>
 <LM>w#w-d1t1222-8</LM>
 </w.rf>
-<form>slušnejší</form>
-<tag lemma="slušnejší" src="auto">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>slušnější</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>slušnější</form>
+<tag>
+<AM lemma="slušný">AAFP1----2A----</AM>
+<AM lemma="slušný">AAFP4----2A----</AM>
+<AM lemma="slušný">AAFP5----2A----</AM>
+<AM lemma="slušný">AAFS1----2A----</AM>
+<AM lemma="slušný">AAFS2----2A----</AM>
+<AM lemma="slušný">AAFS3----2A----</AM>
+<AM lemma="slušný">AAFS4----2A----</AM>
+<AM lemma="slušný">AAFS5----2A----</AM>
+<AM lemma="slušný">AAFS6----2A----</AM>
+<AM lemma="slušný">AAFS7----2A----</AM>
+<AM lemma="slušný">AAIP1----2A----</AM>
+<AM lemma="slušný">AAIP4----2A----</AM>
+<AM lemma="slušný">AAIP5----2A----</AM>
+<AM lemma="slušný">AAIS1----2A----</AM>
+<AM lemma="slušný">AAIS4----2A----</AM>
+<AM lemma="slušný">AAIS5----2A----</AM>
+<AM lemma="slušný">AAMP1----2A----</AM>
+<AM lemma="slušný">AAMP4----2A----</AM>
+<AM lemma="slušný">AAMP5----2A----</AM>
+<AM lemma="slušný">AAMS1----2A----</AM>
+<AM lemma="slušný">AAMS5----2A----</AM>
+<AM lemma="slušný">AANP1----2A----</AM>
+<AM lemma="slušný">AANP4----2A----</AM>
+<AM lemma="slušný">AANP5----2A----</AM>
+<AM lemma="slušný">AANS1----2A----</AM>
+<AM lemma="slušný">AANS5----2A----</AM>
+<AM lemma="slušný" src="auto" recommended="1">AANS4----2A----</AM>
+</tag>
 </m>
 <m id="m984-d1t1222-9">
 <w.rf>

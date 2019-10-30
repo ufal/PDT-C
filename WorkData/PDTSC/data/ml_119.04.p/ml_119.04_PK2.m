@@ -738,22 +738,14 @@
 <w.rf>
 <LM>w#w-d1t885-8</LM>
 </w.rf>
-<form>Sruby</form>
+<form_change>spell</form_change>
+<form>Zruby</form>
 <tag>
-<AM lemma="Sruby_;G" src="auto" recommended="1">NNIP1-----A----</AM>
-<AM lemma="Sruby_;G" src="auto">NNIP4-----A----</AM>
-<AM lemma="Sruby_;G" src="auto">NNIP5-----A----</AM>
-<AM lemma="Sruby_;G" src="auto">NNIP7-----A----</AM>
-<AM lemma="srub" src="auto">NNIP1-----A----</AM>
-<AM lemma="srub" src="auto">NNIP4-----A----</AM>
-<AM lemma="srub" src="auto">NNIP5-----A----</AM>
-<AM lemma="srub" src="auto">NNIP7-----A----</AM>
+<AM lemma="Zruby_;G_,t">NNIP4-----A----</AM>
+<AM lemma="Zruby_;G_,t">NNIP5-----A----</AM>
+<AM lemma="Zruby_;G_,t">NNIP7-----A----</AM>
+<AM lemma="Zruby_;G_,t" src="auto" recommended="1">NNIP1-----A----</AM>
 </tag>
-<comment>
-<LM type="New Form">
-<text>Zruby</text>
-</LM>
-</comment>
 </m>
 <m id="m119-d-id93808-punct">
 <w.rf>

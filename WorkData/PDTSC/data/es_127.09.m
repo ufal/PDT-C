@@ -456,16 +456,12 @@
 <w.rf>
 <LM>w#w-d1t2016-10</LM>
 </w.rf>
-<form>jejich</form>
+<form_change>spell</form_change>
+<form>jejích</form>
 <tag>
-<AM lemma="jeho_^(přivlast.)" src="auto" recommended="1">PSXXXXP3-------</AM>
-<AM lemma="jeho_^(**můj)_(přivlast.)" src="manual">PSXXXXP3-------</AM>
+<AM lemma="jeho_^(přivlast.)">PSXP2FS3-------</AM>
+<AM lemma="jeho_^(přivlast.)" src="auto" recommended="1">PSXP6FS3-------</AM>
 </tag>
-<comment>
-<LM type="New Form">
-<text>jejích</text>
-</LM>
-</comment>
 </m>
 <m id="m127-d1t2016-11">
 <w.rf>

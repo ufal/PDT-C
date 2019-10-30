@@ -1636,13 +1636,13 @@
 <w.rf>
 <LM>w#w-d1t1085-16</LM>
 </w.rf>
-<form>oběmi</form>
-<tag lemma="oběmi" src="auto">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>oběma</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>oběma</form>
+<tag>
+<AM lemma="oba`2">ClFD7----------</AM>
+<AM lemma="oba`2">ClXP3----------</AM>
+<AM lemma="oba`2" src="auto" recommended="1">ClXP7----------</AM>
+</tag>
 </m>
 <m id="m107-d1t1085-17">
 <w.rf>
@@ -6167,13 +6167,18 @@
 <w.rf>
 <LM>w#w-d1t1191-25</LM>
 </w.rf>
-<form>krkonoškých</form>
-<tag lemma="krkonoškých" src="auto">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>krkonošských</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>krkonošských</form>
+<tag>
+<AM lemma="krkonošský">AAFP2----1A----</AM>
+<AM lemma="krkonošský">AAFP6----1A----</AM>
+<AM lemma="krkonošský">AAIP2----1A----</AM>
+<AM lemma="krkonošský">AAMP2----1A----</AM>
+<AM lemma="krkonošský">AAMP6----1A----</AM>
+<AM lemma="krkonošský">AANP2----1A----</AM>
+<AM lemma="krkonošský">AANP6----1A----</AM>
+<AM lemma="krkonošský" src="auto" recommended="1">AAIP6----1A----</AM>
+</tag>
 </m>
 <m id="m107-d1t1191-26">
 <w.rf>

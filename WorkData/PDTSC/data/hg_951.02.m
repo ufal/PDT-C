@@ -4224,13 +4224,13 @@
 <w.rf>
 <LM>w#w-d1t1264-9</LM>
 </w.rf>
-<form>košér</form>
-<tag lemma="košér" src="auto">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>košer</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>košer</form>
+<tag>
+<AM lemma="košer-1_^(pokrm_vyhovující_předpisům_judaizmu)">NNIS1-----A----</AM>
+<AM lemma="košer-1_^(pokrm_vyhovující_předpisům_judaizmu)">NNIS4-----A----</AM>
+<AM lemma="košer-2_^(připravený_k_požívání_dle_předpisů_judaizmu)" src="auto" recommended="1">Db-------------</AM>
+</tag>
 </m>
 <m id="m951-d-id88510">
 <w.rf>

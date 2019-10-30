@@ -1969,17 +1969,13 @@
 <w.rf>
 <LM>w#w-d1t535-1</LM>
 </w.rf>
-<form>Kolík</form>
+<form_change>spell</form_change>
+<form>Kolik</form>
 <tag>
-<AM lemma="Kolík_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="kolík" src="auto">NNIS1-----A----</AM>
-<AM lemma="kolík" src="auto">NNIS4-----A----</AM>
+<AM lemma="kolika">NNFP2-----A----</AM>
+<AM lemma="kolik">C?--1----------</AM>
+<AM lemma="kolik" src="auto" recommended="1">C?--4----------</AM>
 </tag>
-<comment>
-<LM type="New Form">
-<text>Kolik</text>
-</LM>
-</comment>
 </m>
 <m id="m052-d1t535-2">
 <w.rf>

@@ -743,13 +743,9 @@
 <w.rf>
 <LM>w#w-d1t1547-7</LM>
 </w.rf>
-<form>oraganizacemi</form>
-<tag lemma="oraganizacemi" src="auto">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>organizacemi</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>organizacemi</form>
+<tag lemma="organizace" src="auto" recommended="1">NNFP7-----A----</tag>
 </m>
 <m id="m039-d1e1488-x3-20">
 <w.rf>
@@ -2238,13 +2234,9 @@
 <w.rf>
 <LM>w#w-d1e1665-x2-83</LM>
 </w.rf>
-<form>12 500</form>
-<tag lemma="12 500" src="auto">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>12500</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>12500</form>
+<tag lemma="12500" src="auto" recommended="1">C=-------------</tag>
 </m>
 <m id="m039-d1e1665-x2-81">
 <w.rf>
@@ -4121,13 +4113,26 @@
 <w.rf>
 <LM>w#w-d1t1816-4</LM>
 </w.rf>
-<form>vyškové</form>
-<tag lemma="vyškové" src="auto">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>výškové</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>výškové</form>
+<tag>
+<AM lemma="výškový">AAFP1----1A----</AM>
+<AM lemma="výškový">AAFP4----1A----</AM>
+<AM lemma="výškový">AAFP5----1A----</AM>
+<AM lemma="výškový">AAFS2----1A----</AM>
+<AM lemma="výškový">AAFS3----1A----</AM>
+<AM lemma="výškový">AAFS6----1A----</AM>
+<AM lemma="výškový">AAIP4----1A----</AM>
+<AM lemma="výškový">AAIP5----1A----</AM>
+<AM lemma="výškový">AAMP4----1A----</AM>
+<AM lemma="výškový">AANP1----1A---6</AM>
+<AM lemma="výškový">AANP4----1A---6</AM>
+<AM lemma="výškový">AANP5----1A---6</AM>
+<AM lemma="výškový">AANS1----1A----</AM>
+<AM lemma="výškový">AANS4----1A----</AM>
+<AM lemma="výškový">AANS5----1A----</AM>
+<AM lemma="výškový" src="auto" recommended="1">AAIP1----1A----</AM>
+</tag>
 </m>
 <m id="m039-d1t1816-5">
 <w.rf>
@@ -6124,13 +6129,22 @@
 <w.rf>
 <LM>w#w-d1e1880-x3-198</LM>
 </w.rf>
-<form>tištení</form>
-<tag lemma="tištení" src="auto">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>tištění</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>tištění</form>
+<tag>
+<AM lemma="tištěný_^(*5sknout)">AAMP1----1A----</AM>
+<AM lemma="tištěný_^(*5sknout)">AAMP5----1A----</AM>
+<AM lemma="tištění_^(*5sknout)">NNNP1-----A----</AM>
+<AM lemma="tištění_^(*5sknout)">NNNP2-----A----</AM>
+<AM lemma="tištění_^(*5sknout)">NNNP4-----A----</AM>
+<AM lemma="tištění_^(*5sknout)">NNNP5-----A----</AM>
+<AM lemma="tištění_^(*5sknout)">NNNS1-----A----</AM>
+<AM lemma="tištění_^(*5sknout)">NNNS3-----A----</AM>
+<AM lemma="tištění_^(*5sknout)">NNNS4-----A----</AM>
+<AM lemma="tištění_^(*5sknout)">NNNS5-----A----</AM>
+<AM lemma="tištění_^(*5sknout)">NNNS6-----A----</AM>
+<AM lemma="tištění_^(*5sknout)" src="auto" recommended="1">NNNS2-----A----</AM>
+</tag>
 </m>
 <m id="m039-d1e1880-x3-197">
 <w.rf>

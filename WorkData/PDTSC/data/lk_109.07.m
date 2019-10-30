@@ -2343,13 +2343,13 @@
 <w.rf>
 <LM>w#w-d1t1192-38</LM>
 </w.rf>
-<form>včechno</form>
-<tag lemma="včechno" src="auto">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>všechno</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>všechno</form>
+<tag>
+<AM lemma="všechen">PLNS4----------</AM>
+<AM lemma="všechen">PLNS5----------</AM>
+<AM lemma="všechen" src="auto" recommended="1">PLNS1----------</AM>
+</tag>
 </m>
 <m id="m109-d1t1192-39">
 <w.rf>

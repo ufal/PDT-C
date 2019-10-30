@@ -6166,13 +6166,9 @@
 <w.rf>
 <LM>w#w-d1t2344-1</LM>
 </w.rf>
-<form>espáda</form>
-<tag lemma="espáda" src="auto">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>espada</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>espada</form>
+<tag lemma="espada" src="auto" recommended="1">NNMS1-----A----</tag>
 </m>
 <m id="m127-d1t2344-2">
 <w.rf>

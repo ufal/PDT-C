@@ -4728,13 +4728,13 @@
 <w.rf>
 <LM>w#w-d1t2410-21</LM>
 </w.rf>
-<form>Großglockneru</form>
-<tag lemma="Großglockneru" src="auto">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>Grossglockneru</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>Grossglockneru</form>
+<tag>
+<AM lemma="Grossglockner_;G">NNIS2-----A----</AM>
+<AM lemma="Grossglockner_;G">NNIS3-----A----</AM>
+<AM lemma="Grossglockner_;G" src="auto" recommended="1">NNIS6-----A----</AM>
+</tag>
 </m>
 <m id="m139-d1t2413-2">
 <w.rf>

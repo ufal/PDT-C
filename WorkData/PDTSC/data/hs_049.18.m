@@ -2760,13 +2760,9 @@
 <w.rf>
 <LM>w#w-d1t4628-5</LM>
 </w.rf>
-<form>Pohořelici</form>
-<tag lemma="Pohořelici" src="auto">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>Pohořelicích</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>Pohořelicích</form>
+<tag lemma="Pohořelice_;G" src="auto" recommended="1">NNFP6-----A----</tag>
 </m>
 <m id="m049-d1t4628-7">
 <w.rf>
@@ -3099,13 +3095,14 @@
 <w.rf>
 <LM>w#w-d1t4661-5</LM>
 </w.rf>
-<form>vizy</form>
-<tag lemma="vizum_^(^DS**vízum)_(cest._formalita)" src="auto" recommended="1">NNNP7-----A----</tag>
-<comment>
-<LM type="New Form">
-<text>vyzy</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>vyzy</form>
+<tag>
+<AM lemma="vyza">NNFP4-----A----</AM>
+<AM lemma="vyza">NNFP5-----A----</AM>
+<AM lemma="vyza">NNFS2-----A----</AM>
+<AM lemma="vyza" src="auto" recommended="1">NNFP1-----A----</AM>
+</tag>
 </m>
 <m id="m049-d1e4658-x2-568">
 <w.rf>

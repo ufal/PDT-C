@@ -191,13 +191,9 @@
 <w.rf>
 <LM>w#w-d1t842-1</LM>
 </w.rf>
-<form>Tde</form>
-<tag lemma="Tde" src="auto">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>Zde</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>Zde</form>
+<tag lemma="zde" src="auto" recommended="1">Db-------------</tag>
 </m>
 <m id="m914-d1t842-2">
 <w.rf>
@@ -4374,13 +4370,15 @@
 <w.rf>
 <LM>w#w-d1t1018-15</LM>
 </w.rf>
-<form>hamoku</form>
-<tag lemma="hamoku" src="auto">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>hamaku</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>hamaku</form>
+<tag>
+<AM lemma="hamaka_,t_^(závěsné_lůžko)">NNFS4-----A----</AM>
+<AM lemma="hamak_,t_^(závěsné_lůžko)">NNIS2-----A----</AM>
+<AM lemma="hamak_,t_^(závěsné_lůžko)">NNIS3-----A----</AM>
+<AM lemma="hamak_,t_^(závěsné_lůžko)">NNIS5-----A----</AM>
+<AM lemma="hamak_,t_^(závěsné_lůžko)" src="auto" recommended="1">NNIS6-----A----</AM>
+</tag>
 </m>
 <m id="m914-d1e950-x8-653">
 <w.rf>
@@ -5920,13 +5918,9 @@
 <w.rf>
 <LM>w#w-d1t1091-1</LM>
 </w.rf>
-<form>Jendotka</form>
-<tag lemma="Jendotka" src="auto">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>Jednotka</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>Jednotka</form>
+<tag lemma="jednotka" src="auto" recommended="1">NNFS1-----A----</tag>
 </m>
 <m id="m914-d1t1091-2">
 <w.rf>

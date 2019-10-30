@@ -3549,13 +3549,9 @@
 <w.rf>
 <LM>w#w-d1t1807-2</LM>
 </w.rf>
-<form>začali</form>
-<tag lemma="začít-1_^(začnout)" src="auto" recommended="1">VpMP---XR-AA---</tag>
-<comment>
-<LM type="New Form">
-<text>začaly</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>začaly</form>
+<tag lemma="začít-1_^(začnout)" src="auto" recommended="1">VpTP---XR-AA---</tag>
 </m>
 <m id="m002-d1t1807-3">
 <w.rf>

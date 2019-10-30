@@ -2902,12 +2902,10 @@
 <w.rf>
 <LM>w#w-d1t3619-3</LM>
 </w.rf>
-<form>au-pair</form>
-<tag lemma="au-pair" src="auto">X@-------------</tag>
+<form_change>spell</form_change>
+<form>au</form>
+<tag lemma="au" src="auto" recommended="1">II-------------</tag>
 <comment>
-<LM type="New Form">
-<text>au</text>
-</LM>
 <LM type="Other">
 <text>3v1: au - pair</text>
 </LM>

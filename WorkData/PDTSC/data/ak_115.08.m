@@ -3237,13 +3237,17 @@
 <w.rf>
 <LM>w#w-d1t1338-8</LM>
 </w.rf>
-<form>Milukáše</form>
-<tag lemma="Milukáše" src="auto">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>Mikuláše</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>Mikuláše</form>
+<tag>
+<AM lemma="Mikuláš-1_;Y">NNMP4-----A----</AM>
+<AM lemma="Mikuláš-1_;Y">NNMS2-----A----</AM>
+<AM lemma="Mikuláš-2_;G">NNIP1-----A----</AM>
+<AM lemma="Mikuláš-2_;G">NNIP4-----A----</AM>
+<AM lemma="Mikuláš-2_;G">NNIP5-----A----</AM>
+<AM lemma="Mikuláš-2_;G">NNIS2-----A----</AM>
+<AM lemma="Mikuláš-1_;Y" src="auto" recommended="1">NNMS4-----A----</AM>
+</tag>
 </m>
 <m id="m115-d1t1338-3">
 <w.rf>

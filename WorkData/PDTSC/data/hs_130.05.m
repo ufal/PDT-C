@@ -2177,13 +2177,12 @@
 <w.rf>
 <LM>w#w-d1t764-11</LM>
 </w.rf>
-<form>pedák</form>
-<tag lemma="pedák" src="auto">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>peďák</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>peďák</form>
+<tag>
+<AM lemma="peďák_,h_^(pedagogická_fakulta)">NNIS1-----A----</AM>
+<AM lemma="peďák_,h_^(pedagogická_fakulta)" src="auto" recommended="1">NNIS4-----A----</AM>
+</tag>
 </m>
 <m id="m130-21-22">
 <w.rf>

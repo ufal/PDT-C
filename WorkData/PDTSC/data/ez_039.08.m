@@ -2144,13 +2144,12 @@
 <w.rf>
 <LM>w#w-d1e3458-x2-822</LM>
 </w.rf>
-<form>zvlásť</form>
-<tag lemma="zvlásť" src="auto">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>zvlášť</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>zvlášť</form>
+<tag>
+<AM lemma="zvlášť-2">TT-------------</AM>
+<AM lemma="zvlášť-1" src="auto" recommended="1">Db-------------</AM>
+</tag>
 </m>
 <m id="m039-d1e3458-x2-820">
 <w.rf>

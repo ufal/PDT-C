@@ -1035,16 +1035,9 @@
 <w.rf>
 <LM>w#w-d1t3134-13</LM>
 </w.rf>
-<form>Tam</form>
-<tag>
-<AM lemma="Tama_;G" src="auto">NNFP2-----A----</AM>
-<AM lemma="tam" src="auto" recommended="1">Db-------------</AM>
-</tag>
-<comment>
-<LM type="New Form">
-<text>Těm</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>Těm</form>
+<tag lemma="ten" src="auto" recommended="1">PDXP3----------</tag>
 </m>
 <m id="m040-d1t3134-14">
 <w.rf>

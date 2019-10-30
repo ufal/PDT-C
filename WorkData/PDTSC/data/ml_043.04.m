@@ -2539,13 +2539,9 @@
 <w.rf>
 <LM>w#w-d1t1410-4</LM>
 </w.rf>
-<form>sportovisť</form>
-<tag lemma="sportovisť" src="auto">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>sportovišť</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>sportovišť</form>
+<tag lemma="sportoviště" src="auto" recommended="1">NNNP2-----A----</tag>
 </m>
 <m id="m043-99-100">
 <w.rf>

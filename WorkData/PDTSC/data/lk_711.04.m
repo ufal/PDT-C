@@ -1847,13 +1847,20 @@
 <w.rf>
 <LM>w#w-d1t1040-8</LM>
 </w.rf>
-<form>eletrickým</form>
-<tag lemma="eletrickým" src="auto">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>elektrickým</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>elektrickým</form>
+<tag>
+<AM lemma="elektrický">AAFP3----1A----</AM>
+<AM lemma="elektrický">AAIP3----1A----</AM>
+<AM lemma="elektrický">AAIS6----1A---7</AM>
+<AM lemma="elektrický">AAIS7----1A----</AM>
+<AM lemma="elektrický">AAMP3----1A----</AM>
+<AM lemma="elektrický">AAMS6----1A---7</AM>
+<AM lemma="elektrický">AAMS7----1A----</AM>
+<AM lemma="elektrický">AANP3----1A----</AM>
+<AM lemma="elektrický">AANS6----1A---7</AM>
+<AM lemma="elektrický" src="auto" recommended="1">AANS7----1A----</AM>
+</tag>
 </m>
 <m id="m711-d1t1040-9">
 <w.rf>
@@ -2826,7 +2833,7 @@
 <tag lemma="?" src="auto" recommended="1">Z:-------------</tag>
 </m>
 </s>
-<s id="m-26171_01-d1e1071-x4"/>
+<s id="m-26171_01-d1e1071-x4"></s>
 <s id="m-26171_01-1056">
 <m id="m711-d1t1091-2">
 <w.rf>

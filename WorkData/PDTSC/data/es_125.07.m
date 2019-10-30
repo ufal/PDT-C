@@ -2021,17 +2021,18 @@
 <w.rf>
 <LM>w#w-d1t1284-4</LM>
 </w.rf>
-<form>moji</form>
+<form_change>spell</form_change>
+<form>moje</form>
 <tag>
-<AM lemma="můj_^(přivlast.)" src="auto">PSFS4-S1-------</AM>
-<AM lemma="můj_^(přivlast.)" src="auto" recommended="1">PSMP1-S1-------</AM>
-<AM lemma="můj_^(přivlast.)" src="auto">PSMP5-S1-------</AM>
+<AM lemma="můj_^(přivlast.)">PSHP5-S1-------</AM>
+<AM lemma="můj_^(přivlast.)">PSHS1-S1-------</AM>
+<AM lemma="můj_^(přivlast.)">PSHS5-S1-------</AM>
+<AM lemma="můj_^(přivlast.)">PSIP1-S1-------</AM>
+<AM lemma="můj_^(přivlast.)">PSIP5-S1-------</AM>
+<AM lemma="můj_^(přivlast.)">PSNS4-S1-------</AM>
+<AM lemma="můj_^(přivlast.)">PSXP4-S1-------</AM>
+<AM lemma="můj_^(přivlast.)" src="auto" recommended="1">PSHP1-S1-------</AM>
 </tag>
-<comment>
-<LM type="New Form">
-<text>moje</text>
-</LM>
-</comment>
 </m>
 <m id="m125-d1t1284-5">
 <w.rf>

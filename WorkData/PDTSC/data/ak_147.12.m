@@ -466,13 +466,9 @@
 <w.rf>
 <LM>w#w-d1t1157-15</LM>
 </w.rf>
-<form>Lujsa</form>
-<tag lemma="Lujsa" src="auto">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>Luisa</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>Luisa</form>
+<tag lemma="Luisa_;Y" src="auto" recommended="1">NNFS1-----A----</tag>
 </m>
 <m id="m147-817-830">
 <w.rf>

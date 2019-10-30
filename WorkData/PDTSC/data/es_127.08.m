@@ -4019,13 +4019,9 @@
 <w.rf>
 <LM>w#w-d1t1911-1</LM>
 </w.rf>
-<form>indentifikovat</form>
-<tag lemma="indentifikovat" src="auto">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>identifikovat</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>identifikovat</form>
+<tag lemma="identifikovat_:T_:W" src="auto" recommended="1">Vf--------A----</tag>
 </m>
 <m id="m127-d-id159823-punct">
 <w.rf>

@@ -1998,13 +1998,9 @@
 <w.rf>
 <LM>w#w-d1t3226-8</LM>
 </w.rf>
-<form>pražáků</form>
-<tag lemma="pražáků" src="auto">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>Pražáků</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>Pražáků</form>
+<tag lemma="Pražák_;E" src="auto" recommended="1">NNMP2-----A----</tag>
 </m>
 <m id="m027-d1t3226-9">
 <w.rf>
@@ -3448,20 +3444,9 @@
 <w.rf>
 <LM>w#w-d1t3270-18</LM>
 </w.rf>
-<form>jí</form>
-<tag>
-<AM lemma="jíst_^(konzumovat_jídlo)" src="auto">VB-P---3P-AA---</AM>
-<AM lemma="jíst_^(konzumovat_jídlo)" src="auto">VB-S---3P-AA---</AM>
-<AM lemma="on-1_^(ona)" src="auto">PPFS2--3-------</AM>
-<AM lemma="on-1_^(ona)" src="auto" recommended="1">PPFS3--3-------</AM>
-<AM lemma="on-1_^(ona)" src="auto">PPFS4--3------6</AM>
-<AM lemma="on-1_^(ona)" src="auto">PPFS7--3-------</AM>
-</tag>
-<comment>
-<LM type="New Form">
-<text>ji</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>ji</form>
+<tag lemma="on-1" src="auto" recommended="1">PPFS4--3-------</tag>
 </m>
 <m id="m027-d1t3270-19">
 <w.rf>

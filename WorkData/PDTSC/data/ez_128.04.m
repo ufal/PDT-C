@@ -2413,13 +2413,12 @@
 <w.rf>
 <LM>w#w-d1t1158-4</LM>
 </w.rf>
-<form>Königstuhl</form>
-<tag lemma="Königstuhl" src="auto">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>Königsstuhl</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>Königsstuhl</form>
+<tag>
+<AM lemma="Königsstuhl">X@-------------</AM>
+<AM lemma="Königsstuhl_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m128-d-id96304-punct">
 <w.rf>

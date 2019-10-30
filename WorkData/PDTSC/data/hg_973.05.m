@@ -4217,13 +4217,12 @@
 <w.rf>
 <LM>w#w-id65861-1</LM>
 </w.rf>
-<form>Vinnnycja</form>
-<tag lemma="Vinnnycja" src="auto">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>Vinnycja</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>Vinnycja</form>
+<tag>
+<AM lemma="Vinnycja">X@-------------</AM>
+<AM lemma="Vinnycja_;R_,t" src="auto" recommended="1">AAFS1----1A----</AM>
+</tag>
 </m>
 <m id="m973-d-id126067">
 <w.rf>

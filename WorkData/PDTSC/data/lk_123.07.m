@@ -741,13 +741,12 @@
 <w.rf>
 <LM>w#w-d1t2260-9</LM>
 </w.rf>
-<form>šnitlík</form>
-<tag lemma="šnitlík" src="auto">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>šnytlík</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>šnytlík</form>
+<tag>
+<AM lemma="šnytlík_,h">NNIS1-----A----</AM>
+<AM lemma="šnytlík_,h" src="auto" recommended="1">NNIS4-----A----</AM>
+</tag>
 </m>
 <m id="m123-d1t2260-10">
 <w.rf>

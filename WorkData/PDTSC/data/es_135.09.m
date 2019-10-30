@@ -4381,13 +4381,12 @@
 <w.rf>
 <LM>w#w-524-377</LM>
 </w.rf>
-<form>povoděň</form>
-<tag lemma="povoděň" src="auto">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>povodeň</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>povodeň</form>
+<tag>
+<AM lemma="povodeň">NNFS4-----A----</AM>
+<AM lemma="povodeň" src="auto" recommended="1">NNFS1-----A----</AM>
+</tag>
 </m>
 <m id="m135-524-378">
 <w.rf>
@@ -4595,13 +4594,12 @@
 <w.rf>
 <LM>w#w-524-103</LM>
 </w.rf>
-<form>Ćechách</form>
-<tag lemma="Ćechách" src="auto">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>Čechách</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>Čechách</form>
+<tag>
+<AM lemma="Čech_;E_;S">NNMP6-----A---6</AM>
+<AM lemma="Čechy_;G" src="auto" recommended="1">NNFP6-----A----</AM>
+</tag>
 </m>
 <m id="m135-379-381">
 <w.rf>

@@ -1815,13 +1815,9 @@
 <w.rf>
 <LM>w#w-d1t130-1</LM>
 </w.rf>
-<form>Zatancovaly</form>
-<tag lemma="zatancovat_:W" src="auto" recommended="1">VpTP---XR-AA---</tag>
-<comment>
-<LM type="New Form">
-<text>Zatancovali</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>Zatancovali</form>
+<tag lemma="zatancovat_:W" src="auto" recommended="1">VpMP---XR-AA---</tag>
 </m>
 <m id="m036-d1t130-2">
 <w.rf>

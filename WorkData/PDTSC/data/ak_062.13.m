@@ -3775,13 +3775,9 @@
 <w.rf>
 <LM>w#w-d1t3006-2</LM>
 </w.rf>
-<form>měli</form>
-<tag lemma="mít" src="auto" recommended="1">VpMP---XR-AA---</tag>
-<comment>
-<LM type="New Form">
-<text>měly</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>měly</form>
+<tag lemma="mít" src="auto" recommended="1">VpTP---XR-AA---</tag>
 </m>
 <m id="m062-d1t3006-3">
 <w.rf>

@@ -29,13 +29,9 @@
 <w.rf>
 <LM>w#w-d1t658-13</LM>
 </w.rf>
-<form>mohli</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="auto" recommended="1">VpMP---XR-AA---</tag>
-<comment>
-<LM type="New Form">
-<text>mohly</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>mohly</form>
+<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="auto" recommended="1">VpTP---XR-AA---</tag>
 </m>
 <m id="m115-d1t658-14">
 <w.rf>

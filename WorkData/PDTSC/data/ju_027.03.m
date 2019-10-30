@@ -2887,13 +2887,9 @@
 <w.rf>
 <LM>w#w-d1t975-7</LM>
 </w.rf>
-<form>bratríček</form>
-<tag lemma="bratríček" src="auto">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>bratříček</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>bratříček</form>
+<tag lemma="bratříček" src="auto" recommended="1">NNMS1-----A----</tag>
 </m>
 <m id="m027-d1e972-x2-452">
 <w.rf>
@@ -3347,13 +3343,29 @@
 <w.rf>
 <LM>w#w-d1t993-3</LM>
 </w.rf>
-<form>ňejaký</form>
-<tag lemma="ňejaký" src="auto">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>nějaký</text>
-</LM>
-</comment>
+<form>nějaký</form>
+<tag>
+<AM lemma="nějaký">PZFP1---------6</AM>
+<AM lemma="nějaký">PZFP4---------6</AM>
+<AM lemma="nějaký">PZFP5---------6</AM>
+<AM lemma="nějaký">PZFS2---------6</AM>
+<AM lemma="nějaký">PZFS3---------6</AM>
+<AM lemma="nějaký">PZFS6---------6</AM>
+<AM lemma="nějaký">PZIP1---------6</AM>
+<AM lemma="nějaký">PZIP5---------6</AM>
+<AM lemma="nějaký">PZMP1---------6</AM>
+<AM lemma="nějaký">PZMP5---------6</AM>
+<AM lemma="nějaký">PZNP1---------6</AM>
+<AM lemma="nějaký">PZNP4---------6</AM>
+<AM lemma="nějaký">PZNP5---------6</AM>
+<AM lemma="nějaký">PZNS1---------6</AM>
+<AM lemma="nějaký">PZNS4---------6</AM>
+<AM lemma="nějaký">PZNS5---------6</AM>
+<AM lemma="nějaký">PZYP4---------6</AM>
+<AM lemma="nějaký">PZYS1----------</AM>
+<AM lemma="nějaký">PZYS5----------</AM>
+<AM lemma="nějaký" src="auto" recommended="1">PZIS4----------</AM>
+</tag>
 </m>
 <m id="m027-d1t993-4">
 <w.rf>
@@ -3390,13 +3402,33 @@
 <w.rf>
 <LM>w#w-d1t993-6</LM>
 </w.rf>
-<form>vyplýtaný</form>
-<tag lemma="vyplýtaný" src="auto">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>vyplítaný</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>vyplítaný</form>
+<tag>
+<AM lemma="vyplítaný_^(*2t)">AAFP1----1A---6</AM>
+<AM lemma="vyplítaný_^(*2t)">AAFP4----1A---6</AM>
+<AM lemma="vyplítaný_^(*2t)">AAFP5----1A---6</AM>
+<AM lemma="vyplítaný_^(*2t)">AAFS2----1A---6</AM>
+<AM lemma="vyplítaný_^(*2t)">AAFS3----1A---6</AM>
+<AM lemma="vyplítaný_^(*2t)">AAFS6----1A---6</AM>
+<AM lemma="vyplítaný_^(*2t)">AAIP1----1A---6</AM>
+<AM lemma="vyplítaný_^(*2t)">AAIP4----1A---6</AM>
+<AM lemma="vyplítaný_^(*2t)">AAIP5----1A---6</AM>
+<AM lemma="vyplítaný_^(*2t)">AAIS1----1A----</AM>
+<AM lemma="vyplítaný_^(*2t)">AAIS5----1A----</AM>
+<AM lemma="vyplítaný_^(*2t)">AAMP1----1A---6</AM>
+<AM lemma="vyplítaný_^(*2t)">AAMP4----1A---6</AM>
+<AM lemma="vyplítaný_^(*2t)">AAMP5----1A---6</AM>
+<AM lemma="vyplítaný_^(*2t)">AAMS1----1A----</AM>
+<AM lemma="vyplítaný_^(*2t)">AAMS5----1A----</AM>
+<AM lemma="vyplítaný_^(*2t)">AANP1----1A---6</AM>
+<AM lemma="vyplítaný_^(*2t)">AANP4----1A---6</AM>
+<AM lemma="vyplítaný_^(*2t)">AANP5----1A---6</AM>
+<AM lemma="vyplítaný_^(*2t)">AANS1----1A---6</AM>
+<AM lemma="vyplítaný_^(*2t)">AANS4----1A---6</AM>
+<AM lemma="vyplítaný_^(*2t)">AANS5----1A---6</AM>
+<AM lemma="vyplítaný_^(*2t)" src="auto" recommended="1">AAIS4----1A----</AM>
+</tag>
 </m>
 <m id="m027-d1t993-5">
 <w.rf>

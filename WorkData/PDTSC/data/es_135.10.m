@@ -2308,13 +2308,9 @@
 <w.rf>
 <LM>w#w-d1t1847-7</LM>
 </w.rf>
-<form>sedout</form>
-<tag lemma="sedout" src="auto">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>sednout</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>sednout</form>
+<tag lemma="sednout_:W" src="auto" recommended="1">Vf--------A----</tag>
 </m>
 <m id="m135-d-id175439-punct">
 <w.rf>

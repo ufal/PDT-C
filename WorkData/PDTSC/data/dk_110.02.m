@@ -237,13 +237,9 @@
 <w.rf>
 <LM>w#w-d1t619-8</LM>
 </w.rf>
-<form>Anětou</form>
-<tag lemma="Anětou" src="auto">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>Anetou</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>Anetou</form>
+<tag lemma="Aneta_;Y" src="auto" recommended="1">NNFS7-----A----</tag>
 </m>
 <m id="m110-d1t619-9">
 <w.rf>
@@ -1495,13 +1491,9 @@
 <w.rf>
 <LM>w#w-d1t694-5</LM>
 </w.rf>
-<form>návětěvu</form>
-<tag lemma="návětěvu" src="auto">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>návštěvu</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>návštěvu</form>
+<tag lemma="návštěva" src="auto" recommended="1">NNFS4-----A----</tag>
 </m>
 <m id="m110-d1t694-6">
 <w.rf>

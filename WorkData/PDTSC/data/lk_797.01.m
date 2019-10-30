@@ -4678,28 +4678,33 @@
 <w.rf>
 <LM>w#w-d1t407-26</LM>
 </w.rf>
-<form>zdraví</form>
+<form_change>spell</form_change>
+<form>zdravý</form>
 <tag>
-<AM lemma="zdravý" src="auto">AAMP1----1A----</AM>
-<AM lemma="zdravý" src="auto">AAMP5----1A----</AM>
-<AM lemma="zdravit_:T" src="auto">VB-P---3P-AA---</AM>
-<AM lemma="zdravit_:T" src="auto">VB-S---3P-AA---</AM>
-<AM lemma="zdraví" src="auto">NNNP1-----A----</AM>
-<AM lemma="zdraví" src="auto">NNNP2-----A----</AM>
-<AM lemma="zdraví" src="auto">NNNP4-----A----</AM>
-<AM lemma="zdraví" src="auto">NNNP5-----A----</AM>
-<AM lemma="zdraví" src="auto">NNNS1-----A----</AM>
-<AM lemma="zdraví" src="auto">NNNS2-----A----</AM>
-<AM lemma="zdraví" src="auto">NNNS3-----A----</AM>
-<AM lemma="zdraví" src="auto" recommended="1">NNNS4-----A----</AM>
-<AM lemma="zdraví" src="auto">NNNS5-----A----</AM>
-<AM lemma="zdraví" src="auto">NNNS6-----A----</AM>
+<AM lemma="zdravý">AAFP1----1A---6</AM>
+<AM lemma="zdravý">AAFP4----1A---6</AM>
+<AM lemma="zdravý">AAFP5----1A---6</AM>
+<AM lemma="zdravý">AAFS2----1A---6</AM>
+<AM lemma="zdravý">AAFS3----1A---6</AM>
+<AM lemma="zdravý">AAFS6----1A---6</AM>
+<AM lemma="zdravý">AAIP1----1A---6</AM>
+<AM lemma="zdravý">AAIP4----1A---6</AM>
+<AM lemma="zdravý">AAIP5----1A---6</AM>
+<AM lemma="zdravý">AAIS1----1A----</AM>
+<AM lemma="zdravý">AAIS4----1A----</AM>
+<AM lemma="zdravý">AAIS5----1A----</AM>
+<AM lemma="zdravý">AAMP1----1A---6</AM>
+<AM lemma="zdravý">AAMP4----1A---6</AM>
+<AM lemma="zdravý">AAMP5----1A---6</AM>
+<AM lemma="zdravý">AAMS5----1A----</AM>
+<AM lemma="zdravý">AANP1----1A---6</AM>
+<AM lemma="zdravý">AANP4----1A---6</AM>
+<AM lemma="zdravý">AANP5----1A---6</AM>
+<AM lemma="zdravý">AANS1----1A---6</AM>
+<AM lemma="zdravý">AANS4----1A---6</AM>
+<AM lemma="zdravý">AANS5----1A---6</AM>
+<AM lemma="zdravý" src="auto" recommended="1">AAMS1----1A----</AM>
 </tag>
-<comment>
-<LM type="New Form">
-<text>zdravý</text>
-</LM>
-</comment>
 </m>
 <m id="m797-d-id77466">
 <w.rf>
@@ -5714,13 +5719,12 @@
 <w.rf>
 <LM>w#w-d1t481-7</LM>
 </w.rf>
-<form>výpoveď</form>
-<tag lemma="výpoveď" src="auto">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>výpověď</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>výpověď</form>
+<tag>
+<AM lemma="výpověď">NNFS1-----A----</AM>
+<AM lemma="výpověď" src="auto" recommended="1">NNFS4-----A----</AM>
+</tag>
 </m>
 <m id="m797-d-id79311">
 <w.rf>

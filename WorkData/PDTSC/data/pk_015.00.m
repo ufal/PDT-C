@@ -784,18 +784,12 @@
 <w.rf>
 <LM>w#w-d1t64-11</LM>
 </w.rf>
-<form>Sokolů</form>
+<form_change>spell</form_change>
+<form>sokolů</form>
 <tag>
-<AM lemma="Sokol-1_;S" src="auto" recommended="1">NNMP2-----A----</AM>
-<AM lemma="Sokol-2_;K_;R_^(organizace)" src="auto">NNIP2-----A----</AM>
-<AM lemma="sokol-1_;L_^(pták)" src="auto">NNMP2-----A----</AM>
-<AM lemma="sokol-2_;K_^(organizace)" src="auto">NNIP2-----A----</AM>
+<AM lemma="sokol-2_;K_^(organizace)">NNIP2-----A----</AM>
+<AM lemma="sokol-1_;L_^(pták)" src="auto" recommended="1">NNMP2-----A----</AM>
 </tag>
-<comment>
-<LM type="New Form">
-<text>sokolů</text>
-</LM>
-</comment>
 </m>
 <m id="m015-d-id56459-punct">
 <w.rf>

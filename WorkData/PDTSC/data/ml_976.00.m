@@ -2552,13 +2552,20 @@
 <w.rf>
 <LM>w#w-id58893-13</LM>
 </w.rf>
-<form>zápádním</form>
-<tag lemma="zápádním" src="auto">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>západním</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>západním</form>
+<tag>
+<AM lemma="západní">AAFP3----1A----</AM>
+<AM lemma="západní">AAIP3----1A----</AM>
+<AM lemma="západní">AAIS6----1A----</AM>
+<AM lemma="západní">AAIS7----1A----</AM>
+<AM lemma="západní">AAMP3----1A----</AM>
+<AM lemma="západní">AAMS6----1A----</AM>
+<AM lemma="západní">AAMS7----1A----</AM>
+<AM lemma="západní">AANP3----1A----</AM>
+<AM lemma="západní">AANS7----1A----</AM>
+<AM lemma="západní" src="auto" recommended="1">AANS6----1A----</AM>
+</tag>
 </m>
 <m id="m976-d-id59423">
 <w.rf>

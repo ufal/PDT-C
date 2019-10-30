@@ -3228,13 +3228,9 @@
 <w.rf>
 <LM>w#w-d1t932-5</LM>
 </w.rf>
-<form>človek</form>
-<tag lemma="človek" src="auto">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>člověk</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>člověk</form>
+<tag lemma="člověk" src="auto" recommended="1">NNMS1-----A----</tag>
 </m>
 <m id="m783-d1t932-3">
 <w.rf>
@@ -3562,13 +3558,9 @@
 <w.rf>
 <LM>w#w-d1t946-12</LM>
 </w.rf>
-<form>dovodů</form>
-<tag lemma="dovodů" src="auto">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>důvodů</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>důvodů</form>
+<tag lemma="důvod" src="auto" recommended="1">NNIP2-----A----</tag>
 </m>
 <m id="m783-d1t946-13">
 <w.rf>
@@ -4529,13 +4521,9 @@
 <w.rf>
 <LM>w#w-d1e1023-x3-5879</LM>
 </w.rf>
-<form>slušneji</form>
-<tag lemma="slušneji" src="auto">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>slušněji</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>slušněji</form>
+<tag lemma="slušně_^(*1ý)" src="auto" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="m783-d-id88790">
 <w.rf>

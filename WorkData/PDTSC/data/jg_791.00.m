@@ -4863,13 +4863,9 @@
 <w.rf>
 <LM>w#w-d1t229-40</LM>
 </w.rf>
-<form>Tde</form>
-<tag lemma="Tde" src="auto">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>Kde</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>Kde</form>
+<tag lemma="kde" src="auto" recommended="1">Db-------------</tag>
 </m>
 <m id="m791-d1t229-41">
 <w.rf>

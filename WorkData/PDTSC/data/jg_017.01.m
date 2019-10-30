@@ -2787,13 +2787,11 @@
 <w.rf>
 <LM>w#w-d1t449-2</LM>
 </w.rf>
-<form>sjedzdovce</form>
-<tag lemma="sjedzdovce" src="auto">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>sjezdovce</text>
-</LM>
-</comment>
+<form>sjezdovce</form>
+<tag>
+<AM lemma="sjezdovka">NNFS3-----A----</AM>
+<AM lemma="sjezdovka" src="auto" recommended="1">NNFS6-----A----</AM>
+</tag>
 </m>
 <m id="m017-d-id70439-punct">
 <w.rf>
@@ -2864,13 +2862,9 @@
 <w.rf>
 <LM>w#w-d1t452-2</LM>
 </w.rf>
-<form>pernamentku</form>
-<tag lemma="pernamentku" src="auto">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>permanentku</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>permanentku</form>
+<tag lemma="permanentka" src="auto" recommended="1">NNFS4-----A----</tag>
 </m>
 <m id="m017-d-id70575-punct">
 <w.rf>

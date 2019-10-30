@@ -2851,13 +2851,12 @@
 <w.rf>
 <LM>w#w-d1t2351-8</LM>
 </w.rf>
-<form>foce</form>
-<tag lemma="foce" src="auto">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>fotce</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>fotce</form>
+<tag>
+<AM lemma="fotka">NNFS3-----A----</AM>
+<AM lemma="fotka" src="auto" recommended="1">NNFS6-----A----</AM>
+</tag>
 </m>
 <m id="m058-d-id121425-punct">
 <w.rf>
@@ -5106,16 +5105,12 @@
 <w.rf>
 <LM>w#w-d1t2560-2</LM>
 </w.rf>
-<form>spektorografy</form>
+<form_change>spell</form_change>
+<form>spektrografy</form>
 <tag>
-<AM lemma="spektorografy" src="auto">X@-------------</AM>
-<AM lemma="spektorograf" src="manual">NNIP1-----A----</AM>
+<AM lemma="spektrograf">NNMP7-----A----</AM>
+<AM lemma="spektrograf" src="auto" recommended="1">NNMP4-----A----</AM>
 </tag>
-<comment>
-<LM type="New Form">
-<text>spektrografy</text>
-</LM>
-</comment>
 </m>
 <m id="m058-d-id126322-punct">
 <w.rf>

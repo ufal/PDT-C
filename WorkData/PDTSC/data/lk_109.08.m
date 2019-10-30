@@ -1774,13 +1774,14 @@
 <w.rf>
 <LM>w#w-d1t1287-21</LM>
 </w.rf>
-<form>konrétního</form>
-<tag lemma="konrétního" src="auto">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>konkrétního</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>konkrétního</form>
+<tag>
+<AM lemma="konkrétní">AAMS2----1A----</AM>
+<AM lemma="konkrétní">AAMS4----1A----</AM>
+<AM lemma="konkrétní">AANS2----1A----</AM>
+<AM lemma="konkrétní" src="auto" recommended="1">AAIS2----1A----</AM>
+</tag>
 </m>
 <m id="m109-d1t1287-22">
 <w.rf>

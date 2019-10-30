@@ -2758,13 +2758,9 @@
 <w.rf>
 <LM>w#w-d1t1826-1</LM>
 </w.rf>
-<form>užili</form>
-<tag lemma="užít" src="auto" recommended="1">VpMP---XR-AA---</tag>
-<comment>
-<LM type="New Form">
-<text>užily</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>užily</form>
+<tag lemma="užít" src="auto" recommended="1">VpTP---XR-AA---</tag>
 </m>
 <m id="m055-d1t1826-2">
 <w.rf>

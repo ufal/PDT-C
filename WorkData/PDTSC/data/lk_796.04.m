@@ -5529,13 +5529,9 @@
 <w.rf>
 <LM>w#w-id61913-19</LM>
 </w.rf>
-<form>nečem</form>
-<tag lemma="nečem" src="auto">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>něčem</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>něčem</form>
+<tag lemma="něco" src="auto" recommended="1">PZ--6----------</tag>
 </m>
 <m id="m796-id61913-20">
 <w.rf>

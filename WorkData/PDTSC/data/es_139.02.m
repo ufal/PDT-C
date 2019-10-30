@@ -3229,13 +3229,12 @@
 <w.rf>
 <LM>w#w-d1t1032-6</LM>
 </w.rf>
-<form>zámost</form>
-<tag lemma="zámost" src="auto">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>známost</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>známost</form>
+<tag>
+<AM lemma="známost-2_^(co_známe)_(*5ý-2)">NNFS4-----A----</AM>
+<AM lemma="známost-2_^(co_známe)_(*5ý-2)" src="auto" recommended="1">NNFS1-----A----</AM>
+</tag>
 </m>
 <m id="m139-d1t1032-7">
 <w.rf>

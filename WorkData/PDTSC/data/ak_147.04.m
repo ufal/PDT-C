@@ -2198,13 +2198,15 @@
 <w.rf>
 <LM>w#w-d1t448-5</LM>
 </w.rf>
-<form>ji</form>
-<tag lemma="on-1" src="auto" recommended="1">PPFS4--3-------</tag>
-<comment>
-<LM type="New Form">
-<text>jí</text>
-</LM>
-</comment>
+<form>jí</form>
+<tag>
+<AM lemma="jíst_^(konzumovat_jídlo)">VB-P---3P-AA---</AM>
+<AM lemma="jíst_^(konzumovat_jídlo)">VB-S---3P-AA---</AM>
+<AM lemma="on-1_^(ona)">PPFS2--3-------</AM>
+<AM lemma="on-1_^(ona)">PPFS4--3------6</AM>
+<AM lemma="on-1_^(ona)">PPFS7--3-------</AM>
+<AM lemma="on-1_^(ona)" src="auto" recommended="1">PPFS3--3-------</AM>
+</tag>
 </m>
 <m id="m147-d1t448-6">
 <w.rf>
@@ -2251,13 +2253,9 @@
 <w.rf>
 <LM>w#w-d1t448-13</LM>
 </w.rf>
-<form>Hitlerjungen</form>
-<tag lemma="Hitlerjungen" src="auto">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>Hitlerjugend</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>Hitlerjugend</form>
+<tag lemma="Hitlerjugend_;K_;p_,t" src="auto" recommended="1">NNFXX-----A----</tag>
 </m>
 <m id="m147-76-636">
 <w.rf>

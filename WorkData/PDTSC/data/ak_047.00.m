@@ -1113,16 +1113,9 @@
 <w.rf>
 <LM>w#w-d1t111-13</LM>
 </w.rf>
-<form>správě</form>
-<tag>
-<AM lemma="správa" src="auto" recommended="1">NNFS3-----A----</AM>
-<AM lemma="správa" src="auto">NNFS6-----A----</AM>
-</tag>
-<comment>
-<LM type="New Form">
-<text>správně</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>správně</form>
+<tag lemma="správně_^(podle_něj._měřítek;_př._chlap,_míra,...)_(*1í)" src="auto" recommended="1">Dg-------1A----</tag>
 </m>
 <m id="m047-d1t111-14">
 <w.rf>

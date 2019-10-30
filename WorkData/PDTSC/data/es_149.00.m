@@ -4850,13 +4850,20 @@
 <w.rf>
 <LM>w#w-d1t190-5</LM>
 </w.rf>
-<form>dětsví</form>
-<tag lemma="dětsví" src="auto">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>dětství</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>dětství</form>
+<tag>
+<AM lemma="dětství">NNNP1-----A----</AM>
+<AM lemma="dětství">NNNP2-----A----</AM>
+<AM lemma="dětství">NNNP4-----A----</AM>
+<AM lemma="dětství">NNNP5-----A----</AM>
+<AM lemma="dětství">NNNS1-----A----</AM>
+<AM lemma="dětství">NNNS3-----A----</AM>
+<AM lemma="dětství">NNNS4-----A----</AM>
+<AM lemma="dětství">NNNS5-----A----</AM>
+<AM lemma="dětství">NNNS6-----A----</AM>
+<AM lemma="dětství" src="auto" recommended="1">NNNS2-----A----</AM>
+</tag>
 </m>
 <m id="m149-d1t190-6">
 <w.rf>

@@ -4808,13 +4808,9 @@
 <w.rf>
 <LM>w#w-d1t1301-14</LM>
 </w.rf>
-<form>Bodejď</form>
-<tag lemma="Bodejď" src="auto">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>Bodejť</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>Bodejť</form>
+<tag lemma="bodejť" src="auto" recommended="1">II-------------</tag>
 </m>
 <m id="m134-d1e1281-x4-145">
 <w.rf>
@@ -5676,16 +5672,9 @@
 <w.rf>
 <LM>w#w-d1t1308-32</LM>
 </w.rf>
-<form>jezdila </form>
-<tag>
-<AM lemma="jezdila" src="auto">X@-------------</AM>
-<AM lemma="jezdit_:T" src="manual">VpQW---XR-AA---</AM>
-</tag>
-<comment>
-<LM type="New Form">
-<text>jezdila</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>jezdila</form>
+<tag lemma="jezdit_:T" src="auto" recommended="1">VpQW---XR-AA---</tag>
 </m>
 <m id="m134-d1t1308-31">
 <w.rf>

@@ -447,13 +447,15 @@
 <w.rf>
 <LM>w#w-d1t2091-5</LM>
 </w.rf>
-<form>štastná</form>
-<tag lemma="štastná" src="auto">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>šťastná</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>šťastná</form>
+<tag>
+<AM lemma="šťastný">AAFS5----1A----</AM>
+<AM lemma="šťastný">AANP1----1A----</AM>
+<AM lemma="šťastný">AANP4----1A----</AM>
+<AM lemma="šťastný">AANP5----1A----</AM>
+<AM lemma="šťastný" src="auto" recommended="1">AAFS1----1A----</AM>
+</tag>
 </m>
 <m id="m035-d1e2088-x2-705">
 <w.rf>

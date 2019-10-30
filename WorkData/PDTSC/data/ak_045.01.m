@@ -2317,13 +2317,9 @@
 <w.rf>
 <LM>w#w-d1t463-3</LM>
 </w.rf>
-<form>mohli</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="auto" recommended="1">VpMP---XR-AA---</tag>
-<comment>
-<LM type="New Form">
-<text>mohla</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>mohla</form>
+<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="auto" recommended="1">VpQW---XR-AA---</tag>
 </m>
 <m id="m045-d1t463-4">
 <w.rf>

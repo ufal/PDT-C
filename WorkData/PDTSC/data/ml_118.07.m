@@ -190,13 +190,13 @@
 <w.rf>
 <LM>w#w-d1t1280-6</LM>
 </w.rf>
-<form>Autrálii</form>
-<tag lemma="Autrálii" src="auto">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>Austrálii</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>Austrálii</form>
+<tag>
+<AM lemma="Austrálie_;G">NNFS3-----A----</AM>
+<AM lemma="Austrálie_;G">NNFS4-----A----</AM>
+<AM lemma="Austrálie_;G" src="auto" recommended="1">NNFS6-----A----</AM>
+</tag>
 </m>
 <m id="m118-d1t1280-9">
 <w.rf>
@@ -2121,13 +2121,13 @@
 <w.rf>
 <LM>w#w-d1t1367-7</LM>
 </w.rf>
-<form>Autrálii</form>
-<tag lemma="Autrálii" src="auto">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>Austrálii</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>Austrálii</form>
+<tag>
+<AM lemma="Austrálie_;G">NNFS3-----A----</AM>
+<AM lemma="Austrálie_;G">NNFS4-----A----</AM>
+<AM lemma="Austrálie_;G" src="auto" recommended="1">NNFS6-----A----</AM>
+</tag>
 </m>
 <m id="m118-d1t1367-10">
 <w.rf>

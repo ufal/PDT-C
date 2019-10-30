@@ -292,13 +292,9 @@
 <w.rf>
 <LM>w#w-d1t444-4</LM>
 </w.rf>
-<form>fotká</form>
-<tag lemma="fotká" src="auto">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>fotka</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>fotka</form>
+<tag lemma="fotka" src="auto" recommended="1">NNFS1-----A----</tag>
 </m>
 <m id="m016-d1t444-5">
 <w.rf>
@@ -1095,13 +1091,14 @@
 <w.rf>
 <LM>w#w-d1t516-3</LM>
 </w.rf>
-<form>vřšku</form>
-<tag lemma="vřšku" src="auto">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>vršku</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>vršku</form>
+<tag>
+<AM lemma="vršek">NNIS2-----A----</AM>
+<AM lemma="vršek">NNIS3-----A----</AM>
+<AM lemma="vršek">NNIS5-----A----</AM>
+<AM lemma="vršek" src="auto" recommended="1">NNIS6-----A----</AM>
+</tag>
 </m>
 <m id="m016-d1t522-1">
 <w.rf>
@@ -1677,13 +1674,9 @@
 <w.rf>
 <LM>w#w-d1t552-12</LM>
 </w.rf>
-<form>nebyli</form>
-<tag lemma="být" src="auto" recommended="1">VpMP---XR-NA---</tag>
-<comment>
-<LM type="New Form">
-<text>nebyly</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>nebyly</form>
+<tag lemma="být" src="auto" recommended="1">VpTP---XR-NA---</tag>
 </m>
 <m id="m016-d1t572-1">
 <w.rf>
@@ -2309,7 +2302,7 @@
 <tag lemma="?" src="auto" recommended="1">Z:-------------</tag>
 </m>
 </s>
-<s id="m-d1e615-x2"/>
+<s id="m-d1e615-x2"></s>
 <s id="m-710">
 <m id="m016-d1t620-1">
 <w.rf>
@@ -4060,13 +4053,12 @@
 <w.rf>
 <LM>w#w-d1e758-x2-218</LM>
 </w.rf>
-<form>jestě</form>
-<tag lemma="jestě" src="auto">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>ještě</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>ještě</form>
+<tag>
+<AM lemma="ještě-2">TT-------------</AM>
+<AM lemma="ještě-1" src="auto" recommended="1">Db-------------</AM>
+</tag>
 </m>
 <m id="m016-d1e758-x2-1952">
 <w.rf>

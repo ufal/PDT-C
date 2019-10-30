@@ -1644,16 +1644,13 @@
 <w.rf>
 <LM>w#w-d1t2350-19</LM>
 </w.rf>
-<form>Haury</form>
+<form_change>spell</form_change>
+<form>Houry</form>
 <tag>
-<AM lemma="haur_,h" src="auto">NNMP4-----A----</AM>
-<AM lemma="haur_,h" src="auto" recommended="1">NNMP7-----A----</AM>
+<AM lemma="Houra_;S">NNMP4-----A----</AM>
+<AM lemma="Houra_;S">NNMP7-----A----</AM>
+<AM lemma="Houra_;S" src="auto" recommended="1">NNMS2-----A----</AM>
 </tag>
-<comment>
-<LM type="New Form">
-<text>Houry</text>
-</LM>
-</comment>
 </m>
 <m id="m112-d-id163866-punct">
 <w.rf>

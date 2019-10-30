@@ -360,13 +360,15 @@
 <w.rf>
 <LM>w#w-d1t1274-6</LM>
 </w.rf>
-<form>Dráždníma</form>
-<tag lemma="Dráždníma" src="auto">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>drážníma</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>drážníma</form>
+<tag>
+<AM lemma="drážní">AAFP7----1A---6</AM>
+<AM lemma="drážní">AAIP7----1A---6</AM>
+<AM lemma="drážní">AAMP7----1A---6</AM>
+<AM lemma="drážní">AANP7----1A---6</AM>
+<AM lemma="drážní" src="auto" recommended="1">AAFD7----1A----</AM>
+</tag>
 </m>
 <m id="m038-d-id99397-punct">
 <w.rf>

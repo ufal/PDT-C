@@ -1526,13 +1526,9 @@
 <w.rf>
 <LM>w#w-d1t738-1</LM>
 </w.rf>
-<form>Francoužština</form>
-<tag lemma="Francoužština" src="auto">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>Francouzština</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>Francouzština</form>
+<tag lemma="francouzština" src="auto" recommended="1">NNFS1-----A----</tag>
 </m>
 <m id="m124-d1t738-2">
 <w.rf>

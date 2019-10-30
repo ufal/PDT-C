@@ -5373,13 +5373,14 @@
 <w.rf>
 <LM>w#w-d1t2362-1</LM>
 </w.rf>
-<form>splužačky</form>
-<tag lemma="splužačky" src="auto">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>spolužačky</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>spolužačky</form>
+<tag>
+<AM lemma="spolužačka">NNFP4-----A----</AM>
+<AM lemma="spolužačka">NNFP5-----A----</AM>
+<AM lemma="spolužačka">NNFS2-----A----</AM>
+<AM lemma="spolužačka" src="auto" recommended="1">NNFP1-----A----</AM>
+</tag>
 </m>
 <m id="m039-d-m-d1e2344-x2-punct-punct">
 <w.rf>

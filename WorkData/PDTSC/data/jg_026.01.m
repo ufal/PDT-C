@@ -2534,13 +2534,9 @@
 <w.rf>
 <LM>w#w-d1t506-1</LM>
 </w.rf>
-<form>Chodime</form>
-<tag lemma="Chodime" src="auto">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>Chodíme</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>Chodíme</form>
+<tag lemma="chodit_:T" src="auto" recommended="1">VB-P---1P-AA---</tag>
 </m>
 <m id="m026-d1t506-2">
 <w.rf>

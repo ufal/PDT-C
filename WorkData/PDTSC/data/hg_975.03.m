@@ -2190,13 +2190,16 @@
 <w.rf>
 <LM>w#w-id63177-2</LM>
 </w.rf>
-<form>dizenterije</form>
-<tag lemma="dizenterije" src="auto">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>dyzenterie</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>dyzenterie</form>
+<tag>
+<AM lemma="dyzenterie_;U">NNFP1-----A----</AM>
+<AM lemma="dyzenterie_;U">NNFP4-----A----</AM>
+<AM lemma="dyzenterie_;U">NNFP5-----A----</AM>
+<AM lemma="dyzenterie_;U">NNFS1-----A----</AM>
+<AM lemma="dyzenterie_;U">NNFS5-----A----</AM>
+<AM lemma="dyzenterie_;U" src="auto" recommended="1">NNFS2-----A----</AM>
+</tag>
 </m>
 <m id="m975-12199-12326">
 <w.rf>

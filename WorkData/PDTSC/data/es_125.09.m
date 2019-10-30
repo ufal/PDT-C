@@ -1142,13 +1142,14 @@
 <w.rf>
 <LM>w#w-d1t1601-11</LM>
 </w.rf>
-<form>cédečka</form>
-<tag lemma="cédečka" src="auto">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>cédéčka</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>cédéčka</form>
+<tag>
+<AM lemma="cédéčko">NNNP1-----A----</AM>
+<AM lemma="cédéčko">NNNP5-----A----</AM>
+<AM lemma="cédéčko">NNNS2-----A----</AM>
+<AM lemma="cédéčko" src="auto" recommended="1">NNNP4-----A----</AM>
+</tag>
 </m>
 <m id="m125-442-462">
 <w.rf>
@@ -1201,13 +1202,14 @@
 <w.rf>
 <LM>w#w-d1t1603-8</LM>
 </w.rf>
-<form>cédečka</form>
-<tag lemma="cédečka" src="auto">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>cédéčka</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>cédéčka</form>
+<tag>
+<AM lemma="cédéčko">NNNP1-----A----</AM>
+<AM lemma="cédéčko">NNNP5-----A----</AM>
+<AM lemma="cédéčko">NNNS2-----A----</AM>
+<AM lemma="cédéčko" src="auto" recommended="1">NNNP4-----A----</AM>
+</tag>
 </m>
 <m id="m125-443-468">
 <w.rf>

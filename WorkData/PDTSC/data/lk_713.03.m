@@ -2157,13 +2157,8 @@
 <w.rf>
 <LM>w#w-id60980-14</LM>
 </w.rf>
-<form>nosili</form>
-<tag lemma="nosit_:T" src="auto" recommended="1">VpMP---XR-AA---</tag>
-<comment>
-<LM type="New Form">
-<text>nosily</text>
-</LM>
-</comment>
+<form>nosily</form>
+<tag lemma="nosit_:T" src="auto" recommended="1">VpTP---XR-AA---</tag>
 </m>
 <m id="m713-id60001-x36-6001">
 <w.rf>
@@ -2182,13 +2177,9 @@
 <w.rf>
 <LM>w#w-id60980-17</LM>
 </w.rf>
-<form>podávali</form>
-<tag lemma="podávat_:T_^(něco_[někomu]_[někam])_(*4at)" src="auto" recommended="1">VpMP---XR-AA---</tag>
-<comment>
-<LM type="New Form">
-<text>podávaly</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>podávaly</form>
+<tag lemma="podávat_:T_^(něco_[někomu]_[někam])_(*4at)" src="auto" recommended="1">VpTP---XR-AA---</tag>
 </m>
 <m id="m713-id60001-x36-6003">
 <w.rf>
@@ -5068,13 +5059,12 @@
 <w.rf>
 <LM>w#w-id60001-x46-1025</LM>
 </w.rf>
-<form>Bersen</form>
-<tag lemma="Bersen" src="auto">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>Belsen</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>Belsen</form>
+<tag>
+<AM lemma="Belsen_;G">NNIS4-----A----</AM>
+<AM lemma="Belsen_;G" src="auto" recommended="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m713-d-id100292">
 <w.rf>

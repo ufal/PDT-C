@@ -37,13 +37,12 @@
 <w.rf>
 <LM>w#w-d1t1249-12</LM>
 </w.rf>
-<form>kombik</form>
-<tag lemma="kombik" src="auto">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>kombík</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>kombík</form>
+<tag>
+<AM lemma="kombík_,h">NNIS4-----A----</AM>
+<AM lemma="kombík_,h" src="auto" recommended="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m145-d-id113690-punct">
 <w.rf>
@@ -565,13 +564,9 @@
 <w.rf>
 <LM>w#w-d1t1261-23</LM>
 </w.rf>
-<form>Štěhovicích</form>
-<tag lemma="Štěhovicích" src="auto">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>Štěchovicích</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>Štěchovicích</form>
+<tag lemma="Štěchovice_;G" src="auto" recommended="1">NNFP6-----A----</tag>
 </m>
 <m id="m145-d1t1261-25">
 <w.rf>

@@ -860,13 +860,9 @@
 <w.rf>
 <LM>w#w-d1t990-1</LM>
 </w.rf>
-<form>jI</form>
+<form_change>spell</form_change>
+<form>ji</form>
 <tag lemma="on-1" src="auto" recommended="1">PPFS4--3-------</tag>
-<comment>
-<LM type="New Form">
-<text>ji</text>
-</LM>
-</comment>
 </m>
 <m id="m028-d1t990-3">
 <w.rf>
@@ -1987,13 +1983,13 @@
 <w.rf>
 <LM>w#w-d1t1055-23</LM>
 </w.rf>
-<form>Robčiče</form>
-<tag lemma="Robčiče" src="auto">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>Robčice</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>Robčice</form>
+<tag>
+<AM lemma="Robčice_;G">NNFP4-----A----</AM>
+<AM lemma="Robčice_;G">NNFP5-----A----</AM>
+<AM lemma="Robčice_;G" src="auto" recommended="1">NNFP1-----A----</AM>
+</tag>
 </m>
 <m id="m028-d1t1055-27">
 <w.rf>

@@ -899,13 +899,9 @@
 <w.rf>
 <LM>w#w-d1t1759-15</LM>
 </w.rf>
-<form>4 000</form>
-<tag lemma="4 000" src="auto">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>4000</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>4000</form>
+<tag lemma="4000" src="auto" recommended="1">C=-------------</tag>
 </m>
 <m id="m056-d1t1759-17">
 <w.rf>
@@ -1067,13 +1063,8 @@
 <w.rf>
 <LM>w#w-d1t1776-1</LM>
 </w.rf>
-<form>1 600</form>
-<tag lemma="1 600" src="auto">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>1600</text>
-</LM>
-</comment>
+<form>1600</form>
+<tag lemma="1600" src="auto" recommended="1">C=-------------</tag>
 </m>
 <m id="m056-d1e1767-x3-496">
 <w.rf>
@@ -1105,13 +1096,9 @@
 <w.rf>
 <LM>w#w-d1t1780-2</LM>
 </w.rf>
-<form>1 200</form>
-<tag lemma="1 200" src="auto">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>1200</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>1200</form>
+<tag lemma="1200" src="auto" recommended="1">C=-------------</tag>
 </m>
 <m id="m056-d-id108959-punct">
 <w.rf>
@@ -3114,16 +3101,12 @@
 <w.rf>
 <LM>w#w-d1t1982-12</LM>
 </w.rf>
-<form>mně</form>
+<form_change>spell</form_change>
+<form>mě</form>
 <tag>
-<AM lemma="já" src="auto" recommended="1">PP-S3--1-------</AM>
-<AM lemma="já" src="auto">PP-S6--1-------</AM>
+<AM lemma="já">PH-S2--1-------</AM>
+<AM lemma="já" src="auto" recommended="1">PH-S4--1-------</AM>
 </tag>
-<comment>
-<LM type="New Form">
-<text>mě</text>
-</LM>
-</comment>
 </m>
 <m id="m056-d1t1982-13">
 <w.rf>

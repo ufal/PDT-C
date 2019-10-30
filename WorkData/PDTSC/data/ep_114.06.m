@@ -1292,13 +1292,9 @@
 <w.rf>
 <LM>w#w-d1t1776-12</LM>
 </w.rf>
-<form>elektárnu</form>
-<tag lemma="elektárnu" src="auto">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>elektrárnu</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>elektrárnu</form>
+<tag lemma="elektrárna" src="auto" recommended="1">NNFS4-----A----</tag>
 </m>
 <m id="m114-d1e1756-x2-1008">
 <w.rf>
@@ -2478,13 +2474,9 @@
 <w.rf>
 <LM>w#w-d1t1827-1</LM>
 </w.rf>
-<form>nastupila</form>
-<tag lemma="nastupila" src="auto">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>nastoupila</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>nastoupila</form>
+<tag lemma="nastoupit_:W" src="auto" recommended="1">VpQW---XR-AA---</tag>
 </m>
 <m id="m114-d1t1827-3">
 <w.rf>
@@ -6566,13 +6558,9 @@
 <w.rf>
 <LM>w#w-d1t1970-2</LM>
 </w.rf>
-<form>5 150</form>
-<tag lemma="5 150" src="auto">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>5150</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>5150</form>
+<tag lemma="5150" src="auto" recommended="1">C=-------------</tag>
 </m>
 <m id="m114-d1t1970-7">
 <w.rf>

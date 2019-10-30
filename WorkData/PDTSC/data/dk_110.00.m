@@ -522,13 +522,9 @@
 <w.rf>
 <LM>w#w-d1t47-1</LM>
 </w.rf>
-<form>Začněmě</form>
-<tag lemma="Začněmě" src="auto">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>Začněme</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>Začněme</form>
+<tag lemma="začít-1_^(začnout)" src="auto" recommended="1">Vi-P---1--A----</tag>
 </m>
 <m id="m110-d1t47-2">
 <w.rf>

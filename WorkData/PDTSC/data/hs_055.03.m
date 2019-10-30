@@ -598,13 +598,14 @@
 <w.rf>
 <LM>w#w-d1t1309-6</LM>
 </w.rf>
-<form>Insbruku</form>
-<tag lemma="Insbruku" src="auto">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>Innsbrucku</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>Innsbrucku</form>
+<tag>
+<AM lemma="Innsbruck_;G">NNIS2-----A----</AM>
+<AM lemma="Innsbruck_;G">NNIS3-----A----</AM>
+<AM lemma="Innsbruck_;G">NNIS5-----A----</AM>
+<AM lemma="Innsbruck_;G" src="auto" recommended="1">NNIS6-----A----</AM>
+</tag>
 </m>
 <m id="m055-35-36">
 <w.rf>
@@ -642,13 +643,14 @@
 <w.rf>
 <LM>w#w-d1t1311-4</LM>
 </w.rf>
-<form>Insbruku</form>
-<tag lemma="Insbruku" src="auto">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>Innsbrucku</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>Innsbrucku</form>
+<tag>
+<AM lemma="Innsbruck_;G">NNIS2-----A----</AM>
+<AM lemma="Innsbruck_;G">NNIS3-----A----</AM>
+<AM lemma="Innsbruck_;G">NNIS5-----A----</AM>
+<AM lemma="Innsbruck_;G" src="auto" recommended="1">NNIS6-----A----</AM>
+</tag>
 </m>
 <m id="m055-37-38">
 <w.rf>
@@ -1843,13 +1845,9 @@
 <w.rf>
 <LM>w#w-d1t1382-6</LM>
 </w.rf>
-<form>Insbrukem</form>
-<tag lemma="Insbrukem" src="auto">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>Innsbruckem</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>Innsbruckem</form>
+<tag lemma="Innsbruck_;G" src="auto" recommended="1">NNIS7-----A----</tag>
 </m>
 <m id="m055-84-85">
 <w.rf>

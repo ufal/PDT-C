@@ -2682,13 +2682,9 @@
 <w.rf>
 <LM>w#w-d1t662-8</LM>
 </w.rf>
-<form>sprna</form>
-<tag lemma="sprna" src="auto">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>srpna</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>srpna</form>
+<tag lemma="srpen" src="auto" recommended="1">NNIS2-----A----</tag>
 </m>
 <m id="m109-d-id99105-punct">
 <w.rf>

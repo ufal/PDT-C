@@ -1861,13 +1861,9 @@
 <w.rf>
 <LM>w#w-169-1524</LM>
 </w.rf>
-<form>podnikali</form>
-<tag lemma="podnikat_:T" src="auto" recommended="1">VpMP---XR-AA---</tag>
-<comment>
-<LM type="New Form">
-<text>podnikaly</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>podnikaly</form>
+<tag lemma="podnikat_:T" src="auto" recommended="1">VpTP---XR-AA---</tag>
 </m>
 <m id="m015-d1t1743-3">
 <w.rf>

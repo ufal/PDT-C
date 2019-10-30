@@ -2176,13 +2176,15 @@
 <w.rf>
 <LM>w#w-d1t409-31</LM>
 </w.rf>
-<form>šesnáctiletá</form>
-<tag lemma="šesnáctiletá" src="auto">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>šestnáctiletá</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>šestnáctiletá</form>
+<tag>
+<AM lemma="šestnáctiletý">AAFS5----1A----</AM>
+<AM lemma="šestnáctiletý">AANP1----1A----</AM>
+<AM lemma="šestnáctiletý">AANP4----1A----</AM>
+<AM lemma="šestnáctiletý">AANP5----1A----</AM>
+<AM lemma="šestnáctiletý" src="auto" recommended="1">AAFS1----1A----</AM>
+</tag>
 </m>
 <m id="m125-d1t409-32">
 <w.rf>

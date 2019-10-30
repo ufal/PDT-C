@@ -356,13 +356,9 @@
 <w.rf>
 <LM>w#w-d1t22-7</LM>
 </w.rf>
-<form>dobrě</form>
-<tag lemma="dobrě" src="auto">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>dobře</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>dobře</form>
+<tag lemma="dobře" src="auto" recommended="1">Dg-------1A----</tag>
 </m>
 <m id="m119-d1t22-8">
 <w.rf>

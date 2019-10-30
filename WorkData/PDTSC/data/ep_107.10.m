@@ -453,13 +453,13 @@
 <w.rf>
 <LM>w#w-d1t1865-5</LM>
 </w.rf>
-<form>začatku</form>
-<tag lemma="začatku" src="auto">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>začátku</text>
-</LM>
-</comment>
+<form>začátku</form>
+<tag>
+<AM lemma="začátek">NNIS3-----A----</AM>
+<AM lemma="začátek">NNIS5-----A----</AM>
+<AM lemma="začátek">NNIS6-----A----</AM>
+<AM lemma="začátek" src="auto" recommended="1">NNIS2-----A----</AM>
+</tag>
 </m>
 <m id="m107-d1t1865-3">
 <w.rf>
@@ -472,13 +472,9 @@
 <w.rf>
 <LM>w#w-d1t1865-6</LM>
 </w.rf>
-<form>nevědeli</form>
-<tag lemma="nevědeli" src="auto">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>nevěděli</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>nevěděli</form>
+<tag lemma="vědět" src="auto" recommended="1">VpMP---XR-NA---</tag>
 </m>
 <m id="m107-d1e1849-x3-1450">
 <w.rf>
@@ -1050,13 +1046,12 @@
 <w.rf>
 <LM>w#w-d1t1871-20</LM>
 </w.rf>
-<form>teleobjektív</form>
-<tag lemma="teleobjektív" src="auto">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>teleobjektiv</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>teleobjektiv</form>
+<tag>
+<AM lemma="teleobjektiv">NNIS1-----A----</AM>
+<AM lemma="teleobjektiv" src="auto" recommended="1">NNIS4-----A----</AM>
+</tag>
 </m>
 <m id="m107-d1e1849-x4-189">
 <w.rf>
@@ -5539,13 +5534,8 @@
 <w.rf>
 <LM>w#w-d1t1987-38</LM>
 </w.rf>
-<form>vzali</form>
-<tag lemma="vzít_^(př._sebrat_něco;_brát_ohled,_zřetel,...)" src="auto" recommended="1">VpMP---XR-AA---</tag>
-<comment>
-<LM type="New Form">
-<text>vzaly</text>
-</LM>
-</comment>
+<form>vzaly</form>
+<tag lemma="vzít_^(př._sebrat_něco;_brát_ohled,_zřetel,...)" src="auto" recommended="1">VpTP---XR-AA---</tag>
 </m>
 <m id="m107-d1t1987-40">
 <w.rf>
@@ -5674,13 +5664,9 @@
 <w.rf>
 <LM>w#w-d1t1987-53</LM>
 </w.rf>
-<form>rozprášili</form>
-<tag lemma="rozprášit_:W" src="auto" recommended="1">VpMP---XR-AA---</tag>
-<comment>
-<LM type="New Form">
-<text>rozprášily</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>rozprášily</form>
+<tag lemma="rozprášit_:W" src="auto" recommended="1">VpTP---XR-AA---</tag>
 </m>
 <m id="m107-d1t1987-54">
 <w.rf>

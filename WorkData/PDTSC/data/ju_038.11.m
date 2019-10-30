@@ -4179,13 +4179,9 @@
 <w.rf>
 <LM>w#w-d1t3648-5</LM>
 </w.rf>
-<form>dělali</form>
-<tag lemma="dělat_:T" src="auto" recommended="1">VpMP---XR-AA---</tag>
-<comment>
-<LM type="New Form">
-<text>dělaly</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>dělaly</form>
+<tag lemma="dělat_:T" src="auto" recommended="1">VpTP---XR-AA---</tag>
 </m>
 <m id="m038-d-id175402-punct">
 <w.rf>

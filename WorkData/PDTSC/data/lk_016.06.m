@@ -1781,13 +1781,9 @@
 <w.rf>
 <LM>w#w-d1t3015-2</LM>
 </w.rf>
-<form>oranizováni</form>
-<tag lemma="oranizováni" src="auto">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>organizováni</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>organizováni</form>
+<tag lemma="organizovat_:T_:W" src="auto" recommended="1">VsMP---XX-AP---</tag>
 </m>
 <m id="m016-d1t3017-1">
 <w.rf>

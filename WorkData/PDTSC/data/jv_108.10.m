@@ -3920,17 +3920,17 @@
 <w.rf>
 <LM>w#w-d1t1904-18</LM>
 </w.rf>
-<form>měně</form>
+<form_change>spell</form_change>
+<form>méně</form>
 <tag>
-<AM lemma="měnit_:T" src="auto">VeYS------A----</AM>
-<AM lemma="měna" src="auto" recommended="1">NNFS3-----A----</AM>
-<AM lemma="měna" src="auto">NNFS6-----A----</AM>
+<AM lemma="méně_^(méně_+_2._p.,_méně_peněz)">Ca--1----------</AM>
+<AM lemma="méně_^(méně_+_2._p.,_méně_peněz)">Ca--2----------</AM>
+<AM lemma="méně_^(méně_+_2._p.,_méně_peněz)">Ca--3----------</AM>
+<AM lemma="méně_^(méně_+_2._p.,_méně_peněz)">Ca--4----------</AM>
+<AM lemma="méně_^(méně_+_2._p.,_méně_peněz)">Ca--6----------</AM>
+<AM lemma="méně_^(méně_+_2._p.,_méně_peněz)">Ca--7----------</AM>
+<AM lemma="málo-3" src="auto" recommended="1">Dg-------2A----</AM>
 </tag>
-<comment>
-<LM type="New Form">
-<text>méně</text>
-</LM>
-</comment>
 </m>
 <m id="m108-d1t1904-19">
 <w.rf>

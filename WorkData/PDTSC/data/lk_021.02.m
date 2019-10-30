@@ -3294,13 +3294,9 @@
 <w.rf>
 <LM>w#w-d1t895-10</LM>
 </w.rf>
-<form>byly</form>
-<tag lemma="být" src="auto" recommended="1">VpTP---XR-AA---</tag>
-<comment>
-<LM type="New Form">
-<text>byli</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>byli</form>
+<tag lemma="být" src="auto" recommended="1">VpMP---XR-AA---</tag>
 </m>
 <m id="m021-d1t895-5">
 <w.rf>

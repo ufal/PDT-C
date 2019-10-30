@@ -485,13 +485,12 @@
 <w.rf>
 <LM>w#w-d1t2373-2</LM>
 </w.rf>
-<form>Malgarat</form>
-<tag lemma="Malgarat" src="auto">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>Malgrat</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>Malgrat</form>
+<tag>
+<AM lemma="Malgrat_;G">NNIS4-----A----</AM>
+<AM lemma="Malgrat_;G" src="auto" recommended="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m053-199-209">
 <w.rf>

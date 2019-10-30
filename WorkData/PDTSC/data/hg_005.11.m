@@ -2464,18 +2464,12 @@
 <w.rf>
 <LM>w#w-d1t3953-10</LM>
 </w.rf>
-<form>muzeum</form>
+<form_change>spell</form_change>
+<form>muzeu</form>
 <tag>
-<AM lemma="muzeum" src="auto">NNNP3-----A---6</AM>
-<AM lemma="muzeum" src="auto" recommended="1">NNNS1-----A----</AM>
-<AM lemma="muzeum" src="auto">NNNS4-----A----</AM>
-<AM lemma="muzeum" src="auto">NNNS5-----A----</AM>
+<AM lemma="muzeum">NNNS3-----A----</AM>
+<AM lemma="muzeum" src="auto" recommended="1">NNNS6-----A----</AM>
 </tag>
-<comment>
-<LM type="New Form">
-<text>muzeu</text>
-</LM>
-</comment>
 </m>
 <m id="m005-2410-2420">
 <w.rf>

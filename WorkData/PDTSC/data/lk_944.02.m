@@ -3672,13 +3672,20 @@
 <w.rf>
 <LM>w#w-d1t982-12</LM>
 </w.rf>
-<form>vyjítí</form>
-<tag lemma="vyjítí" src="auto">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>vyjití</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>vyjití</form>
+<tag>
+<AM lemma="vyjití_^(*3ít)">NNNP1-----A----</AM>
+<AM lemma="vyjití_^(*3ít)">NNNP2-----A----</AM>
+<AM lemma="vyjití_^(*3ít)">NNNP4-----A----</AM>
+<AM lemma="vyjití_^(*3ít)">NNNP5-----A----</AM>
+<AM lemma="vyjití_^(*3ít)">NNNS1-----A----</AM>
+<AM lemma="vyjití_^(*3ít)">NNNS2-----A----</AM>
+<AM lemma="vyjití_^(*3ít)">NNNS3-----A----</AM>
+<AM lemma="vyjití_^(*3ít)">NNNS4-----A----</AM>
+<AM lemma="vyjití_^(*3ít)">NNNS5-----A----</AM>
+<AM lemma="vyjití_^(*3ít)" src="auto" recommended="1">NNNS6-----A----</AM>
+</tag>
 </m>
 <m id="m944-d1t985-1">
 <w.rf>

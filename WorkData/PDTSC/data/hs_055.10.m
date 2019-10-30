@@ -2955,13 +2955,13 @@
 <w.rf>
 <LM>w#w-d1t3927-10</LM>
 </w.rf>
-<form>čtyří</form>
-<tag lemma="čtyří" src="auto">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>čtyři</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>čtyři</form>
+<tag>
+<AM lemma="čtyři`4">ClXP1----------</AM>
+<AM lemma="čtyři`4">ClXP5----------</AM>
+<AM lemma="čtyři`4" src="auto" recommended="1">ClXP4----------</AM>
+</tag>
 </m>
 <m id="m055-235-238">
 <w.rf>

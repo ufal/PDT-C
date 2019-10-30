@@ -1779,13 +1779,9 @@
 <w.rf>
 <LM>w#w-d1t472-2</LM>
 </w.rf>
-<form>byli</form>
-<tag lemma="být" src="auto" recommended="1">VpMP---XR-AA---</tag>
-<comment>
-<LM type="New Form">
-<text>byly</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>byly</form>
+<tag lemma="být" src="auto" recommended="1">VpTP---XR-AA---</tag>
 </m>
 <m id="m041-d1t472-3">
 <w.rf>
@@ -3722,13 +3718,9 @@
 <w.rf>
 <LM>w#w-d1t606-1</LM>
 </w.rf>
-<form>Sebrali</form>
-<tag lemma="sebrat" src="auto" recommended="1">VpMP---XR-AA---</tag>
-<comment>
-<LM type="New Form">
-<text>Sebraly</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>Sebraly</form>
+<tag lemma="sebrat" src="auto" recommended="1">VpTP---XR-AA---</tag>
 </m>
 <m id="m041-d1t606-2">
 <w.rf>

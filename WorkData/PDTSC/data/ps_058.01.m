@@ -2630,13 +2630,12 @@
 <w.rf>
 <LM>w#w-d1t593-7</LM>
 </w.rf>
-<form>zažitek</form>
-<tag lemma="zažitek" src="auto">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>zážitek</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>zážitek</form>
+<tag>
+<AM lemma="zážitek">NNIS4-----A----</AM>
+<AM lemma="zážitek" src="auto" recommended="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m058-d-id72254-punct">
 <w.rf>

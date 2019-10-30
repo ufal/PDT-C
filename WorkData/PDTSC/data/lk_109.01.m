@@ -343,13 +343,9 @@
 <w.rf>
 <LM>w#w-d1t161-5</LM>
 </w.rf>
-<form>Zděňkem</form>
-<tag lemma="Zděňkem" src="auto">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>Zdeňkem</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>Zdeňkem</form>
+<tag lemma="Zdeněk_;Y" src="auto" recommended="1">NNMS7-----A----</tag>
 </m>
 <m id="m109-d1t161-6">
 <w.rf>

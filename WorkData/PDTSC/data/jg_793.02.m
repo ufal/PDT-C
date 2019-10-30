@@ -5401,13 +5401,12 @@
 <w.rf>
 <LM>w#w-d1t538-5</LM>
 </w.rf>
-<form>veřte</form>
-<tag lemma="veřte" src="auto">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>věřte</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>věřte</form>
+<tag>
+<AM lemma="věřit_:T">Vi-P---3--A---4</AM>
+<AM lemma="věřit_:T" src="auto" recommended="1">Vi-P---2--A----</AM>
+</tag>
 </m>
 <m id="m793-d-id88089">
 <w.rf>

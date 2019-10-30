@@ -1878,13 +1878,9 @@
 <w.rf>
 <LM>w#w-id63318-6</LM>
 </w.rf>
-<form>povídaji</form>
-<tag lemma="povídaji" src="auto">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>povídají</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>povídají</form>
+<tag lemma="povídat_:T" src="auto" recommended="1">VB-P---3P-AA---</tag>
 </m>
 <m id="m977-id63318-8">
 <w.rf>

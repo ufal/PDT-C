@@ -4183,16 +4183,14 @@
 <w.rf>
 <LM>w#w-d1t597-22</LM>
 </w.rf>
-<form>Veletry</form>
+<form_change>spell</form_change>
+<form>Veletrhy</form>
 <tag>
-<AM lemma="Veletry" src="auto">X@-------------</AM>
-<AM lemma="Veletry_;K" src="manual">NNIP1-----A----</AM>
+<AM lemma="veletrh">NNIP1-----A----</AM>
+<AM lemma="veletrh">NNIP5-----A----</AM>
+<AM lemma="veletrh">NNIP7-----A----</AM>
+<AM lemma="veletrh" src="auto" recommended="1">NNIP4-----A----</AM>
 </tag>
-<comment>
-<LM type="New Form">
-<text>Veletrhy</text>
-</LM>
-</comment>
 </m>
 <m id="m115-d1t597-24">
 <w.rf>

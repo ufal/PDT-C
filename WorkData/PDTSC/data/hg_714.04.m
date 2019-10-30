@@ -3480,13 +3480,12 @@
 <w.rf>
 <LM>w#w-d1t926-7</LM>
 </w.rf>
-<form>volinští</form>
-<tag lemma="volinští" src="auto">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>volynští</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>volynští</form>
+<tag>
+<AM lemma="volynští">X@-------------</AM>
+<AM lemma="volynský" src="auto" recommended="1">AAMP1----1A----</AM>
+</tag>
 </m>
 <m id="m714-d1t926-8">
 <w.rf>

@@ -3893,13 +3893,9 @@
 <w.rf>
 <LM>w#w-d1t1789-2</LM>
 </w.rf>
-<form>Zárověň</form>
-<tag lemma="Zárověň" src="auto">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>Zároveň</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>Zároveň</form>
+<tag lemma="zároveň" src="auto" recommended="1">Db-------------</tag>
 </m>
 <m id="m054-d1t1789-1">
 <w.rf>

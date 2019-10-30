@@ -1386,13 +1386,9 @@
 <w.rf>
 <LM>w#w-d1t2532-18</LM>
 </w.rf>
-<form>1 300</form>
-<tag lemma="1 300" src="auto">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>1300</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>1300</form>
+<tag lemma="1300" src="auto" recommended="1">C=-------------</tag>
 </m>
 <m id="m048-685-686">
 <w.rf>
@@ -2080,17 +2076,9 @@
 <w.rf>
 <LM>w#w-d1t2560-6</LM>
 </w.rf>
-<form>důvodu</form>
-<tag>
-<AM lemma="důvod" src="auto" recommended="1">NNIS2-----A----</AM>
-<AM lemma="důvod" src="auto">NNIS3-----A----</AM>
-<AM lemma="důvod" src="auto">NNIS6-----A----</AM>
-</tag>
-<comment>
-<LM type="New Form">
-<text>důvodů</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>důvodů</form>
+<tag lemma="důvod" src="auto" recommended="1">NNIP2-----A----</tag>
 </m>
 <m id="m048-717-719">
 <w.rf>
@@ -3642,13 +3630,9 @@
 <w.rf>
 <LM>w#w-d1t2636-2</LM>
 </w.rf>
-<form>2 000</form>
-<tag lemma="2 000" src="auto">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>2000</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>2000</form>
+<tag lemma="2000" src="auto" recommended="1">C=-------------</tag>
 </m>
 <m id="m048-d1t2636-8">
 <w.rf>
@@ -5062,13 +5046,9 @@
 <w.rf>
 <LM>w#w-d1t2710-6</LM>
 </w.rf>
-<form>2 000</form>
-<tag lemma="2 000" src="auto">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>2000</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>2000</form>
+<tag lemma="2000" src="auto" recommended="1">C=-------------</tag>
 </m>
 <m id="m048-d1t2710-8">
 <w.rf>

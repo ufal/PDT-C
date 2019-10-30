@@ -3210,13 +3210,12 @@
 <w.rf>
 <LM>w#w-d1t876-18</LM>
 </w.rf>
-<form>příjímač</form>
-<tag lemma="příjímač" src="auto">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>přijímač</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>přijímač</form>
+<tag>
+<AM lemma="přijímač">NNIS1-----A----</AM>
+<AM lemma="přijímač" src="auto" recommended="1">NNIS4-----A----</AM>
+</tag>
 </m>
 <m id="m145-208-209">
 <w.rf>

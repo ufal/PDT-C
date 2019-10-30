@@ -4329,13 +4329,9 @@
 <w.rf>
 <LM>w#w-d1t3773-1</LM>
 </w.rf>
-<form>Boužel</form>
-<tag lemma="Boužel" src="auto">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>Bohužel</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>Bohužel</form>
+<tag lemma="bohužel" src="auto" recommended="1">TT-------------</tag>
 </m>
 <m id="m061-d1t3773-2">
 <w.rf>

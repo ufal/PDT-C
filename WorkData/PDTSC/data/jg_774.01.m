@@ -2450,13 +2450,9 @@
 <w.rf>
 <LM>w#w-d1t423-7</LM>
 </w.rf>
-<form>1 140</form>
-<tag lemma="1 140" src="auto">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>1140</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>1140</form>
+<tag lemma="1140" src="auto" recommended="1">C=-------------</tag>
 </m>
 <m id="m774-3692-295">
 <w.rf>
@@ -2647,13 +2643,9 @@
 <w.rf>
 <LM>w#w-d1t433-4</LM>
 </w.rf>
-<form>1 340</form>
-<tag lemma="1 340" src="auto">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>1340</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>1340</form>
+<tag lemma="1340" src="auto" recommended="1">C=-------------</tag>
 </m>
 <m id="m774-d1t433-7">
 <w.rf>
@@ -3004,13 +2996,9 @@
 <w.rf>
 <LM>w#w-d1t444-3</LM>
 </w.rf>
-<form>100 000</form>
-<tag lemma="100 000" src="auto">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>100000</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>100000</form>
+<tag lemma="100000" src="auto" recommended="1">C=-------------</tag>
 </m>
 <m id="m774-d-id72690">
 <w.rf>
@@ -3542,13 +3530,9 @@
 <w.rf>
 <LM>w#w-d1t464-4</LM>
 </w.rf>
-<form>53 600</form>
-<tag lemma="53 600" src="auto">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>53600</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>53600</form>
+<tag lemma="53600" src="auto" recommended="1">C=-------------</tag>
 </m>
 <m id="m774-1043-1059">
 <w.rf>
@@ -5212,20 +5196,9 @@
 <w.rf>
 <LM>w#w-d1t544-3</LM>
 </w.rf>
-<form>hranice</form>
-<tag>
-<AM lemma="hranice" src="auto">NNFP1-----A----</AM>
-<AM lemma="hranice" src="auto" recommended="1">NNFP4-----A----</AM>
-<AM lemma="hranice" src="auto">NNFP5-----A----</AM>
-<AM lemma="hranice" src="auto">NNFS1-----A----</AM>
-<AM lemma="hranice" src="auto">NNFS2-----A----</AM>
-<AM lemma="hranice" src="auto">NNFS5-----A----</AM>
-</tag>
-<comment>
-<LM type="New Form">
-<text>hranicích</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>hranicích</form>
+<tag lemma="hranice" src="auto" recommended="1">NNFP6-----A----</tag>
 </m>
 <m id="m774-d1t546-1">
 <w.rf>

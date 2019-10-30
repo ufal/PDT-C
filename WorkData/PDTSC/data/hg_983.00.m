@@ -4710,13 +4710,9 @@
 <w.rf>
 <LM>w#w-d1t322-8</LM>
 </w.rf>
-<form>Romel</form>
-<tag lemma="Romel" src="auto">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>Rommel</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>Rommel</form>
+<tag lemma="Rommel_;S" src="auto" recommended="1">NNMS1-----A----</tag>
 </m>
 <m id="m983-d1t322-9">
 <w.rf>
@@ -4808,13 +4804,12 @@
 <w.rf>
 <LM>w#w-d1t330-2</LM>
 </w.rf>
-<form>Romela</form>
-<tag lemma="Romela" src="auto">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>Rommela</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>Rommela</form>
+<tag>
+<AM lemma="Rommel_;S">NNMS2-----A----</AM>
+<AM lemma="Rommel_;S" src="auto" recommended="1">NNMS4-----A----</AM>
+</tag>
 </m>
 <m id="m983-d1t328-4">
 <w.rf>
@@ -5188,13 +5183,12 @@
 <w.rf>
 <LM>w#w-d1t343-4</LM>
 </w.rf>
-<form>Romela</form>
-<tag lemma="Romela" src="auto">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>Rommela</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>Rommela</form>
+<tag>
+<AM lemma="Rommel_;S">NNMS2-----A----</AM>
+<AM lemma="Rommel_;S" src="auto" recommended="1">NNMS4-----A----</AM>
+</tag>
 </m>
 <m id="m983-d-id65136">
 <w.rf>

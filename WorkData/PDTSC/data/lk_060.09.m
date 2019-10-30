@@ -1098,16 +1098,12 @@
 <w.rf>
 <LM>w#w-568-574</LM>
 </w.rf>
-<form>satbě</form>
+<form_change>spell</form_change>
+<form>sadbě</form>
 <tag>
-<AM lemma="satba" src="auto">NNFS3-----A----</AM>
-<AM lemma="satba" src="auto" recommended="1">NNFS6-----A----</AM>
+<AM lemma="sadba">NNFS3-----A----</AM>
+<AM lemma="sadba" src="auto" recommended="1">NNFS6-----A----</AM>
 </tag>
-<comment>
-<LM type="New Form">
-<text>sadbě</text>
-</LM>
-</comment>
 </m>
 <m id="m060-d1t2214-7">
 <w.rf>

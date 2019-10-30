@@ -3134,13 +3134,9 @@
 <w.rf>
 <LM>w#w-d1t1008-2</LM>
 </w.rf>
-<form>byly</form>
-<tag lemma="být" src="auto" recommended="1">VpTP---XR-AA---</tag>
-<comment>
-<LM type="New Form">
-<text>byla</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>byla</form>
+<tag lemma="být" src="auto" recommended="1">VpQW---XR-AA---</tag>
 </m>
 <m id="m138-d1t1008-3">
 <w.rf>
@@ -3575,16 +3571,12 @@
 <w.rf>
 <LM>w#w-d1t1057-4</LM>
 </w.rf>
-<form>mě</form>
+<form_change>spell</form_change>
+<form>mně</form>
 <tag>
-<AM lemma="já" src="auto">PH-S2--1-------</AM>
-<AM lemma="já" src="auto" recommended="1">PH-S4--1-------</AM>
+<AM lemma="já">PP-S6--1-------</AM>
+<AM lemma="já" src="auto" recommended="1">PP-S3--1-------</AM>
 </tag>
-<comment>
-<LM type="New Form">
-<text>mně</text>
-</LM>
-</comment>
 </m>
 <m id="m138-d1t1057-8">
 <w.rf>

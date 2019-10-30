@@ -2363,13 +2363,15 @@
 <w.rf>
 <LM>w#w-d1t1790-15</LM>
 </w.rf>
-<form>neštastná</form>
-<tag lemma="neštastná" src="auto">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>nešťastná</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>nešťastná</form>
+<tag>
+<AM lemma="šťastný">AAFS5----1N----</AM>
+<AM lemma="šťastný">AANP1----1N----</AM>
+<AM lemma="šťastný">AANP4----1N----</AM>
+<AM lemma="šťastný">AANP5----1N----</AM>
+<AM lemma="šťastný" src="auto" recommended="1">AAFS1----1N----</AM>
+</tag>
 </m>
 <m id="m027-d-id124463-punct">
 <w.rf>

@@ -3459,13 +3459,13 @@
 <w.rf>
 <LM>w#w-81-83</LM>
 </w.rf>
-<form> Myslím</form>
-<tag lemma="Myslím" src="auto">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>Myslím</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>Myslím</form>
+<tag>
+<AM lemma="mysl">NNFP3-----A----</AM>
+<AM lemma="myslet">VB-S---1P-AA---</AM>
+<AM lemma="myslit_:T" src="auto" recommended="1">VB-S---1P-AA---</AM>
+</tag>
 </m>
 <m id="m141-81-110">
 <w.rf>

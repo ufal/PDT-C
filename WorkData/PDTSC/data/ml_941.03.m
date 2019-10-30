@@ -3160,13 +3160,9 @@
 <w.rf>
 <LM>w#w-d1t1517-6</LM>
 </w.rf>
-<form>rozlobilo</form>
-<tag lemma="rozlobilo" src="auto">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>rozzlobilo</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>rozzlobilo</form>
+<tag lemma="rozzlobit_:W" src="auto" recommended="1">VpNS---XR-AA---</tag>
 </m>
 <m id="m941-165-267">
 <w.rf>
@@ -3833,13 +3829,14 @@
 <w.rf>
 <LM>w#w-d1t1552-15</LM>
 </w.rf>
-<form>maminka</form>
-<tag lemma="maminka" src="auto" recommended="1">NNFS1-----A----</tag>
-<comment>
-<LM type="New Form">
-<text>maminky</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>maminky</form>
+<tag>
+<AM lemma="maminka">NNFP1-----A----</AM>
+<AM lemma="maminka">NNFP4-----A----</AM>
+<AM lemma="maminka">NNFP5-----A----</AM>
+<AM lemma="maminka" src="auto" recommended="1">NNFS2-----A----</AM>
+</tag>
 </m>
 <m id="m941-d1t1552-17">
 <w.rf>
@@ -6594,13 +6591,9 @@
 <w.rf>
 <LM>w#w-d1t1713-7</LM>
 </w.rf>
-<form>rozlobilo</form>
-<tag lemma="rozlobilo" src="auto">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>rozzlobilo</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>rozzlobilo</form>
+<tag lemma="rozzlobit_:W" src="auto" recommended="1">VpNS---XR-AA---</tag>
 </m>
 <m id="m941-d-id112288">
 <w.rf>

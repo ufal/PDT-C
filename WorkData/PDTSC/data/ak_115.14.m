@@ -2924,13 +2924,15 @@
 <w.rf>
 <LM>w#w-d1t2170-16</LM>
 </w.rf>
-<form>Brass</form>
-<tag lemma="Brass_;S" src="auto" recommended="1">NNMS1-----A----</tag>
-<comment>
-<LM type="New Form">
-<text>Bryce</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>Bryce</form>
+<tag>
+<AM lemma="Bryce_;S">NNMP4-----A----</AM>
+<AM lemma="Bryce_;S">NNMS2-----A----</AM>
+<AM lemma="Bryce_;S">NNMS4-----A----</AM>
+<AM lemma="Bryce_;S">NNMS5-----A----</AM>
+<AM lemma="Bryce_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m115-d-id199407-punct">
 <w.rf>
@@ -4501,16 +4503,14 @@
 <w.rf>
 <LM>w#w-d1t2229-13</LM>
 </w.rf>
-<form>poláci</form>
+<form_change>spell</form_change>
+<form>Poláci</form>
 <tag>
-<AM lemma="polák-1_;L" src="auto" recommended="1">NNMP1-----A----</AM>
-<AM lemma="polák-1_;L" src="auto">NNMP5-----A----</AM>
+<AM lemma="Polák_;E">NNMP5-----A----</AM>
+<AM lemma="polák-1_;L">NNMP1-----A----</AM>
+<AM lemma="polák-1_;L">NNMP5-----A----</AM>
+<AM lemma="Polák_;E" src="auto" recommended="1">NNMP1-----A----</AM>
 </tag>
-<comment>
-<LM type="New Form">
-<text>Poláci</text>
-</LM>
-</comment>
 </m>
 <m id="m115-d-id202401-punct">
 <w.rf>

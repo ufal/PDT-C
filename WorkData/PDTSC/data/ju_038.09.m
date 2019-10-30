@@ -1340,13 +1340,9 @@
 <w.rf>
 <LM>w#w-d1t2900-6</LM>
 </w.rf>
-<form>leskams</form>
-<tag lemma="leskams" src="auto">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>leckams</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>leckams</form>
+<tag lemma="leckams" src="auto" recommended="1">Db-------------</tag>
 </m>
 <m id="m038-331-335">
 <w.rf>

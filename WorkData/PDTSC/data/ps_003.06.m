@@ -4328,13 +4328,14 @@
 <w.rf>
 <LM>w#w-d1t2181-5</LM>
 </w.rf>
-<form>prodedury</form>
-<tag lemma="prodedury" src="auto">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>procedury</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>procedury</form>
+<tag>
+<AM lemma="procedura">NNFP4-----A----</AM>
+<AM lemma="procedura">NNFP5-----A----</AM>
+<AM lemma="procedura">NNFS2-----A----</AM>
+<AM lemma="procedura" src="auto" recommended="1">NNFP1-----A----</AM>
+</tag>
 </m>
 <m id="m003-d-id124717-punct">
 <w.rf>
@@ -4398,13 +4399,14 @@
 <w.rf>
 <LM>w#w-d1t2187-4</LM>
 </w.rf>
-<form>prodedury</form>
-<tag lemma="prodedury" src="auto">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>procedury</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>procedury</form>
+<tag>
+<AM lemma="procedura">NNFP1-----A----</AM>
+<AM lemma="procedura">NNFP5-----A----</AM>
+<AM lemma="procedura">NNFS2-----A----</AM>
+<AM lemma="procedura" src="auto" recommended="1">NNFP4-----A----</AM>
+</tag>
 </m>
 <m id="m003-d-id124850-punct">
 <w.rf>

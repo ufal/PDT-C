@@ -7290,8 +7290,8 @@
 </w.rf>
 <form>bala</form>
 <tag>
-<AM lemma="bala" src="auto">X@-------------</AM>
-<AM lemma="bala" src="manual" selected="1">Db-------------</AM>
+<AM lemma="bala">X@-------------</AM>
+<AM lemma="bat_:T" src="auto" recommended="1">VpQW---XR-AA---</AM>
 </tag>
 <comment>
 <LM type="Other">
@@ -7324,16 +7324,12 @@
 <w.rf>
 <LM>w#w-d1t3169-2</LM>
 </w.rf>
-<form>mě</form>
+<form_change>spell</form_change>
+<form>mně</form>
 <tag>
-<AM lemma="já" src="auto">PH-S2--1-------</AM>
-<AM lemma="já" src="auto" recommended="1">PH-S4--1-------</AM>
+<AM lemma="já">PP-S6--1-------</AM>
+<AM lemma="já" src="auto" recommended="1">PP-S3--1-------</AM>
 </tag>
-<comment>
-<LM type="New Form">
-<text>mně</text>
-</LM>
-</comment>
 </m>
 <m id="m061-d1t3169-3">
 <w.rf>

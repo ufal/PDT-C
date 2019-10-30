@@ -5477,16 +5477,20 @@
 <w.rf>
 <LM>w#w-d1t615-23</LM>
 </w.rf>
-<form>vyučovaní</form>
+<form_change>spell</form_change>
+<form>vyučování</form>
 <tag>
-<AM lemma="vyučovaný_^(*2t)" src="auto" recommended="1">AAMP1----1A----</AM>
-<AM lemma="vyučovaný_^(*2t)" src="auto">AAMP5----1A----</AM>
+<AM lemma="vyučování_^(*3at)">NNNP1-----A----</AM>
+<AM lemma="vyučování_^(*3at)">NNNP2-----A----</AM>
+<AM lemma="vyučování_^(*3at)">NNNP4-----A----</AM>
+<AM lemma="vyučování_^(*3at)">NNNP5-----A----</AM>
+<AM lemma="vyučování_^(*3at)">NNNS1-----A----</AM>
+<AM lemma="vyučování_^(*3at)">NNNS2-----A----</AM>
+<AM lemma="vyučování_^(*3at)">NNNS3-----A----</AM>
+<AM lemma="vyučování_^(*3at)">NNNS5-----A----</AM>
+<AM lemma="vyučování_^(*3at)">NNNS6-----A----</AM>
+<AM lemma="vyučování_^(*3at)" src="auto" recommended="1">NNNS4-----A----</AM>
 </tag>
-<comment>
-<LM type="New Form">
-<text>vyučování</text>
-</LM>
-</comment>
 </m>
 <m id="m120-d-id93899-punct">
 <w.rf>

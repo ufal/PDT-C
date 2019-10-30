@@ -1657,13 +1657,17 @@
 <w.rf>
 <LM>w#w-d1t1450-19</LM>
 </w.rf>
-<form>Provance</form>
-<tag lemma="Provance" src="auto">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>Provence</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>Provence</form>
+<tag>
+<AM lemma="Provence_;G">NNFP1-----A----</AM>
+<AM lemma="Provence_;G">NNFP4-----A----</AM>
+<AM lemma="Provence_;G">NNFP5-----A----</AM>
+<AM lemma="Provence_;G">NNFS1-----A----</AM>
+<AM lemma="Provence_;G">NNFS2-----A----</AM>
+<AM lemma="Provence_;G">NNFS5-----A----</AM>
+<AM lemma="Provence_;G" src="auto" recommended="1">NNFXX-----A----</AM>
+</tag>
 </m>
 <m id="m112-d1t1450-21">
 <w.rf>

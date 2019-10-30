@@ -74,13 +74,12 @@
 <w.rf>
 <LM>w#w-d1t498-1</LM>
 </w.rf>
-<form>Bourarda</form>
-<tag lemma="Bourarda" src="auto">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>Bourlarda</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>Bourlarda</form>
+<tag>
+<AM lemma="Bourlarda">X@-------------</AM>
+<AM lemma="Bourlarda" src="auto" recommended="1">NNFS1-----A----</AM>
+</tag>
 </m>
 <m id="m951-d-id67335">
 <w.rf>
@@ -193,13 +192,12 @@
 <w.rf>
 <LM>w#w-d1t502-5</LM>
 </w.rf>
-<form>Bourada</form>
-<tag lemma="Bourada" src="auto">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>Bourlarda</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>Bourlarda</form>
+<tag>
+<AM lemma="Bourlarda">X@-------------</AM>
+<AM lemma="Bourlarda_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m951-d1t502-6">
 <w.rf>

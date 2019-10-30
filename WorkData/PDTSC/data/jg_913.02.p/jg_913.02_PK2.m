@@ -2049,13 +2049,9 @@
 <w.rf>
 <LM>w#w-8166-8302</LM>
 </w.rf>
-<form>1 600</form>
-<tag lemma="1 600" src="auto">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>1600</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>1600</form>
+<tag lemma="1600" src="auto" recommended="1">C=-------------</tag>
 </m>
 <m id="m913-8166-8301">
 <w.rf>
@@ -4516,18 +4512,12 @@
 <w.rf>
 <LM>w#w-8468-8807</LM>
 </w.rf>
-<form>luk</form>
+<form_change>spell</form_change>
+<form>luken</form>
 <tag>
-<AM lemma="louka" src="auto" recommended="1">NNFP2-----A----</AM>
-<AM lemma="luk" src="auto">NNIS1-----A----</AM>
-<AM lemma="luk" src="auto">NNIS4-----A----</AM>
-<AM lemma="luka" src="auto">NNNP2-----A----</AM>
+<AM lemma="luken">X@-------------</AM>
+<AM lemma="lukno" src="auto" recommended="1">NNNP2-----A----</AM>
 </tag>
-<comment>
-<LM type="New Form">
-<text>luken</text>
-</LM>
-</comment>
 </m>
 <m id="m913-8468-8806">
 <w.rf>

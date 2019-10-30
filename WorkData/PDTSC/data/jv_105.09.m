@@ -291,13 +291,12 @@
 <w.rf>
 <LM>w#w-d-m-d1e2105-x2-punct-punct</LM>
 </w.rf>
-<form>rozvítí</form>
-<tag lemma="rozvítí" src="auto">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>rozsvítí</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>rozsvítí</form>
+<tag>
+<AM lemma="rozsvítit_:W">VB-P---3P-AA---</AM>
+<AM lemma="rozsvítit_:W" src="auto" recommended="1">VB-S---3P-AA---</AM>
+</tag>
 </m>
 <m id="m105-d1e2105-x2-1211">
 <w.rf>

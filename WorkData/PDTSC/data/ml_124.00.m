@@ -1986,13 +1986,14 @@
 <w.rf>
 <LM>w#w-d1t82-16</LM>
 </w.rf>
-<form>obrátku</form>
-<tag lemma="obrátka" src="auto" recommended="1">NNFS4-----A----</tag>
-<comment>
-<LM type="New Form">
-<text>obrázku</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>obrázku</form>
+<tag>
+<AM lemma="obrázek">NNIS2-----A----</AM>
+<AM lemma="obrázek">NNIS3-----A----</AM>
+<AM lemma="obrázek">NNIS5-----A----</AM>
+<AM lemma="obrázek" src="auto" recommended="1">NNIS6-----A----</AM>
+</tag>
 </m>
 <m id="m124-d1t82-17">
 <w.rf>

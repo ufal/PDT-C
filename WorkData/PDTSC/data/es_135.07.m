@@ -3393,13 +3393,14 @@
 <w.rf>
 <LM>w#w-d1t1337-8</LM>
 </w.rf>
-<form>francoužštiny</form>
-<tag lemma="francoužštiny" src="auto">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>francouzštiny</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>francouzštiny</form>
+<tag>
+<AM lemma="francouzština">NNFP1-----A----</AM>
+<AM lemma="francouzština">NNFP4-----A----</AM>
+<AM lemma="francouzština">NNFP5-----A----</AM>
+<AM lemma="francouzština" src="auto" recommended="1">NNFS2-----A----</AM>
+</tag>
 </m>
 <m id="m135-d-id140649-punct">
 <w.rf>
@@ -3597,13 +3598,9 @@
 <w.rf>
 <LM>w#w-d1t1341-13</LM>
 </w.rf>
-<form>francoužštinu</form>
-<tag lemma="francoužštinu" src="auto">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>francouzštinu</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>francouzštinu</form>
+<tag lemma="francouzština" src="auto" recommended="1">NNFS4-----A----</tag>
 </m>
 <m id="m135-d1t1341-9">
 <w.rf>

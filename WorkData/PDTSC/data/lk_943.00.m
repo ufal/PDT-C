@@ -3901,13 +3901,16 @@
 <w.rf>
 <LM>w#w-d1t285-2</LM>
 </w.rf>
-<form>niance</form>
-<tag lemma="niance" src="auto">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>nuance</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>nuance</form>
+<tag>
+<AM lemma="nuance">NNFP1-----A----</AM>
+<AM lemma="nuance">NNFP5-----A----</AM>
+<AM lemma="nuance">NNFS1-----A----</AM>
+<AM lemma="nuance">NNFS2-----A----</AM>
+<AM lemma="nuance">NNFS5-----A----</AM>
+<AM lemma="nuance" src="auto" recommended="1">NNFP4-----A----</AM>
+</tag>
 </m>
 <m id="m943-d-id62922">
 <w.rf>
@@ -5851,13 +5854,12 @@
 <w.rf>
 <LM>w#w-d1t378-2</LM>
 </w.rf>
-<form>hajm</form>
-<tag lemma="hajm" src="auto">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>heim</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>heim</form>
+<tag>
+<AM lemma="heim">X@-------------</AM>
+<AM lemma="heim_;G" src="auto" recommended="1">NNIS4-----A----</AM>
+</tag>
 </m>
 <m id="m943-d1e323-x5-2914">
 <w.rf>
@@ -6257,13 +6259,12 @@
 <w.rf>
 <LM>w#w-d1t395-10</LM>
 </w.rf>
-<form>hajm</form>
-<tag lemma="hajm" src="auto">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>heim</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>heim</form>
+<tag>
+<AM lemma="heim">X@-------------</AM>
+<AM lemma="hei_;S" src="auto" recommended="1">NNMS7-----A----</AM>
+</tag>
 </m>
 <m id="m943-d1e323-x7-3135">
 <w.rf>

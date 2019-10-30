@@ -2913,16 +2913,12 @@
 <w.rf>
 <LM>w#w-d1t347-2</LM>
 </w.rf>
-<form>Kléman</form>
+<form_change>spell</form_change>
+<form>Kleman</form>
 <tag>
-<AM lemma="Kléman" src="auto">X@-------------</AM>
-<AM lemma="Kléman_;S" src="manual">NNMS1-----A----</AM>
+<AM lemma="Kleman">X@-------------</AM>
+<AM lemma="Kleman_;S" src="auto" recommended="1">NNMS1-----A----</AM>
 </tag>
-<comment>
-<LM type="New Form">
-<text>Kleman</text>
-</LM>
-</comment>
 </m>
 <m id="m794-d-id73437">
 <w.rf>
@@ -3646,13 +3642,9 @@
 <w.rf>
 <LM>w#w-d1t379-4</LM>
 </w.rf>
-<form>15 000</form>
-<tag lemma="15 000" src="auto">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>15000</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>15000</form>
+<tag lemma="15000" src="auto" recommended="1">C=-------------</tag>
 </m>
 <m id="m794-d1t379-6">
 <w.rf>
@@ -6991,16 +6983,13 @@
 <w.rf>
 <LM>w#w-d1t505-2</LM>
 </w.rf>
-<form>bavorák</form>
+<form_change>spell</form_change>
+<form>Bavorák</form>
 <tag>
-<AM lemma="bavorák_;R_,h" src="auto">NNIS1-----A----</AM>
-<AM lemma="bavorák_;R_,h" src="auto" recommended="1">NNIS4-----A----</AM>
+<AM lemma="bavorák_;R_,h">NNIS1-----A----</AM>
+<AM lemma="bavorák_;R_,h">NNIS4-----A----</AM>
+<AM lemma="Bavorák_;E" src="auto" recommended="1">NNMS1-----A----</AM>
 </tag>
-<comment>
-<LM type="New Form">
-<text>Bavorák</text>
-</LM>
-</comment>
 </m>
 <m id="m794-d-id80623">
 <w.rf>

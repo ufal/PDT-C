@@ -919,20 +919,9 @@
 <w.rf>
 <LM>w#w-d1t990-2</LM>
 </w.rf>
-<form>jí</form>
-<tag>
-<AM lemma="jíst_^(konzumovat_jídlo)" src="auto">VB-P---3P-AA---</AM>
-<AM lemma="jíst_^(konzumovat_jídlo)" src="auto">VB-S---3P-AA---</AM>
-<AM lemma="on-1_^(ona)" src="auto" recommended="1">PPFS2--3-------</AM>
-<AM lemma="on-1_^(ona)" src="auto">PPFS3--3-------</AM>
-<AM lemma="on-1_^(ona)" src="auto">PPFS4--3------6</AM>
-<AM lemma="on-1_^(ona)" src="auto">PPFS7--3-------</AM>
-</tag>
-<comment>
-<LM type="New Form">
-<text>ji</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>ji</form>
+<tag lemma="on-1" src="auto" recommended="1">PPFS4--3-------</tag>
 </m>
 <m id="m130-d1t990-6">
 <w.rf>

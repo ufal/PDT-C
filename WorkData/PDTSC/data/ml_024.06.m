@@ -4049,13 +4049,18 @@
 <w.rf>
 <LM>w#w-d1t1883-8</LM>
 </w.rf>
-<form>vrušujících</form>
-<tag lemma="vrušujících" src="auto">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>vzrušujících</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>vzrušujících</form>
+<tag>
+<AM lemma="vzrušující_^(*5ovat)">AGFP2-----A----</AM>
+<AM lemma="vzrušující_^(*5ovat)">AGFP6-----A----</AM>
+<AM lemma="vzrušující_^(*5ovat)">AGIP6-----A----</AM>
+<AM lemma="vzrušující_^(*5ovat)">AGMP2-----A----</AM>
+<AM lemma="vzrušující_^(*5ovat)">AGMP6-----A----</AM>
+<AM lemma="vzrušující_^(*5ovat)">AGNP2-----A----</AM>
+<AM lemma="vzrušující_^(*5ovat)">AGNP6-----A----</AM>
+<AM lemma="vzrušující_^(*5ovat)" src="auto" recommended="1">AGIP2-----A----</AM>
+</tag>
 </m>
 <m id="m024-d1t1883-9">
 <w.rf>

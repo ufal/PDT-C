@@ -2165,13 +2165,9 @@
 <w.rf>
 <LM>w#w-d1t2653-4</LM>
 </w.rf>
-<form>přílitli</form>
-<tag lemma="přílitli" src="auto">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>přilítli</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>přilítli</form>
+<tag lemma="přilítnout_:W" src="auto" recommended="1">VpMP---XR-AA--1</tag>
 </m>
 <m id="m014-345-347">
 <w.rf>
@@ -5647,13 +5643,9 @@
 <w.rf>
 <LM>w#w-d1t2850-15</LM>
 </w.rf>
-<form>zařídít</form>
-<tag lemma="zařídít" src="auto">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>zařídit</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>zařídit</form>
+<tag lemma="zařídit_:W" src="auto" recommended="1">Vf--------A----</tag>
 </m>
 <m id="m014-d1e2845-x2-490">
 <w.rf>

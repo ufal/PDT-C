@@ -1393,13 +1393,12 @@
 <w.rf>
 <LM>w#w-d1t1728-4</LM>
 </w.rf>
-<form>pracele</form>
-<tag lemma="pracele" src="auto">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>parcele</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>parcele</form>
+<tag>
+<AM lemma="parcela">NNFS3-----A----</AM>
+<AM lemma="parcela" src="auto" recommended="1">NNFS6-----A----</AM>
+</tag>
 </m>
 <m id="m140-d1t1728-5">
 <w.rf>

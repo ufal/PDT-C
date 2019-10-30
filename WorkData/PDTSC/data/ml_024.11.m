@@ -3116,13 +3116,15 @@
 <w.rf>
 <LM>w#w-d1t3228-9</LM>
 </w.rf>
-<form>fotografovaná </form>
-<tag lemma="fotografovaná" src="auto">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>fotografovaná</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>fotografovaná</form>
+<tag>
+<AM lemma="fotografovaný_^(*2t)">AAFS5----1A----</AM>
+<AM lemma="fotografovaný_^(*2t)">AANP1----1A----</AM>
+<AM lemma="fotografovaný_^(*2t)">AANP4----1A----</AM>
+<AM lemma="fotografovaný_^(*2t)">AANP5----1A----</AM>
+<AM lemma="fotografovaný_^(*2t)" src="auto" recommended="1">AAFS1----1A----</AM>
+</tag>
 </m>
 <m id="m024-d1t3228-7">
 <w.rf>

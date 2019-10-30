@@ -714,13 +714,20 @@
 <w.rf>
 <LM>w#w-d1t1095-1</LM>
 </w.rf>
-<form>spolehání</form>
-<tag lemma="spolehání" src="auto">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>spoléhání</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>spoléhání</form>
+<tag>
+<AM lemma="spoléhání_^(*3at)">NNNP1-----A----</AM>
+<AM lemma="spoléhání_^(*3at)">NNNP2-----A----</AM>
+<AM lemma="spoléhání_^(*3at)">NNNP4-----A----</AM>
+<AM lemma="spoléhání_^(*3at)">NNNP5-----A----</AM>
+<AM lemma="spoléhání_^(*3at)">NNNS2-----A----</AM>
+<AM lemma="spoléhání_^(*3at)">NNNS3-----A----</AM>
+<AM lemma="spoléhání_^(*3at)">NNNS4-----A----</AM>
+<AM lemma="spoléhání_^(*3at)">NNNS5-----A----</AM>
+<AM lemma="spoléhání_^(*3at)">NNNS6-----A----</AM>
+<AM lemma="spoléhání_^(*3at)" src="auto" recommended="1">NNNS1-----A----</AM>
+</tag>
 </m>
 <m id="m911-d1t1098-1">
 <w.rf>
@@ -6852,13 +6859,9 @@
 <w.rf>
 <LM>w#w-d1t1396-9</LM>
 </w.rf>
-<form>14 000 000</form>
-<tag lemma="14 000 000" src="auto">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>14000000</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>14000000</form>
+<tag lemma="14000000" src="auto" recommended="1">C=-------------</tag>
 </m>
 <m id="m911-d1t1396-11">
 <w.rf>

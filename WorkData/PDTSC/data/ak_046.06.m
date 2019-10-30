@@ -3530,13 +3530,9 @@
 <w.rf>
 <LM>w#w-d1t1870-15</LM>
 </w.rf>
-<form>svést</form>
-<tag lemma="svést" src="auto" recommended="1">Vf--------A----</tag>
-<comment>
-<LM type="New Form">
-<text>svézt</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>svézt</form>
+<tag lemma="svézt" src="auto" recommended="1">Vf--------A----</tag>
 </m>
 <m id="m046-d1t1872-1">
 <w.rf>

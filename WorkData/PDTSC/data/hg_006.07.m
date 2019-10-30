@@ -1277,13 +1277,23 @@
 <w.rf>
 <LM>w#w-d1t2446-5</LM>
 </w.rf>
-<form>tunisské</form>
-<tag lemma="tunisské" src="auto">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>tuniské</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>tuniské</form>
+<tag>
+<AM lemma="tuniský">AAFP1----1A----</AM>
+<AM lemma="tuniský">AAFP4----1A----</AM>
+<AM lemma="tuniský">AAFP5----1A----</AM>
+<AM lemma="tuniský">AAFS2----1A----</AM>
+<AM lemma="tuniský">AAFS3----1A----</AM>
+<AM lemma="tuniský">AAFS6----1A----</AM>
+<AM lemma="tuniský">AAIP1----1A----</AM>
+<AM lemma="tuniský">AAIP4----1A----</AM>
+<AM lemma="tuniský">AAIP5----1A----</AM>
+<AM lemma="tuniský">AAMP4----1A----</AM>
+<AM lemma="tuniský">AANS4----1A----</AM>
+<AM lemma="tuniský">AANS5----1A----</AM>
+<AM lemma="tuniský" src="auto" recommended="1">AANS1----1A----</AM>
+</tag>
 </m>
 <m id="m006-d1t2448-1">
 <w.rf>
@@ -2437,13 +2447,9 @@
 <w.rf>
 <LM>w#w-d1t2571-16</LM>
 </w.rf>
-<form>2 000</form>
-<tag lemma="2 000" src="auto">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>2000</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>2000</form>
+<tag lemma="2000" src="auto" recommended="1">C=-------------</tag>
 </m>
 <m id="m006-d1t2571-18">
 <w.rf>
@@ -2963,13 +2969,12 @@
 <w.rf>
 <LM>w#w-d1t2597-16</LM>
 </w.rf>
-<form>zákaznící</form>
-<tag lemma="zákaznící" src="auto">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>zákazníci</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>zákazníci</form>
+<tag>
+<AM lemma="zákazník">NNMP5-----A----</AM>
+<AM lemma="zákazník" src="auto" recommended="1">NNMP1-----A----</AM>
+</tag>
 </m>
 <m id="m006-d-id133918">
 <w.rf>
@@ -3459,41 +3464,12 @@
 <w.rf>
 <LM>w#w-d1t2628-4</LM>
 </w.rf>
-<form>řemeslnící</form>
+<form_change>spell</form_change>
+<form>řemeslníci</form>
 <tag>
-<AM lemma="řemeslnící_,h_,s_^(*3ičit)" src="auto">AGFP1-----A----</AM>
-<AM lemma="řemeslnící_,h_,s_^(*3ičit)" src="auto">AGFP4-----A----</AM>
-<AM lemma="řemeslnící_,h_,s_^(*3ičit)" src="auto">AGFP5-----A----</AM>
-<AM lemma="řemeslnící_,h_,s_^(*3ičit)" src="auto">AGFS1-----A----</AM>
-<AM lemma="řemeslnící_,h_,s_^(*3ičit)" src="auto">AGFS2-----A----</AM>
-<AM lemma="řemeslnící_,h_,s_^(*3ičit)" src="auto">AGFS3-----A----</AM>
-<AM lemma="řemeslnící_,h_,s_^(*3ičit)" src="auto">AGFS4-----A----</AM>
-<AM lemma="řemeslnící_,h_,s_^(*3ičit)" src="auto">AGFS5-----A----</AM>
-<AM lemma="řemeslnící_,h_,s_^(*3ičit)" src="auto">AGFS6-----A----</AM>
-<AM lemma="řemeslnící_,h_,s_^(*3ičit)" src="auto">AGFS7-----A----</AM>
-<AM lemma="řemeslnící_,h_,s_^(*3ičit)" src="auto" recommended="1">AGIP1-----A----</AM>
-<AM lemma="řemeslnící_,h_,s_^(*3ičit)" src="auto">AGIP4-----A----</AM>
-<AM lemma="řemeslnící_,h_,s_^(*3ičit)" src="auto">AGIP5-----A----</AM>
-<AM lemma="řemeslnící_,h_,s_^(*3ičit)" src="auto">AGIS1-----A----</AM>
-<AM lemma="řemeslnící_,h_,s_^(*3ičit)" src="auto">AGIS4-----A----</AM>
-<AM lemma="řemeslnící_,h_,s_^(*3ičit)" src="auto">AGIS5-----A----</AM>
-<AM lemma="řemeslnící_,h_,s_^(*3ičit)" src="auto">AGMP1-----A----</AM>
-<AM lemma="řemeslnící_,h_,s_^(*3ičit)" src="auto">AGMP4-----A----</AM>
-<AM lemma="řemeslnící_,h_,s_^(*3ičit)" src="auto">AGMP5-----A----</AM>
-<AM lemma="řemeslnící_,h_,s_^(*3ičit)" src="auto">AGMS1-----A----</AM>
-<AM lemma="řemeslnící_,h_,s_^(*3ičit)" src="auto">AGMS5-----A----</AM>
-<AM lemma="řemeslnící_,h_,s_^(*3ičit)" src="auto">AGNP1-----A----</AM>
-<AM lemma="řemeslnící_,h_,s_^(*3ičit)" src="auto">AGNP4-----A----</AM>
-<AM lemma="řemeslnící_,h_,s_^(*3ičit)" src="auto">AGNP5-----A----</AM>
-<AM lemma="řemeslnící_,h_,s_^(*3ičit)" src="auto">AGNS1-----A----</AM>
-<AM lemma="řemeslnící_,h_,s_^(*3ičit)" src="auto">AGNS4-----A----</AM>
-<AM lemma="řemeslnící_,h_,s_^(*3ičit)" src="auto">AGNS5-----A----</AM>
+<AM lemma="řemeslník">NNMP5-----A----</AM>
+<AM lemma="řemeslník" src="auto" recommended="1">NNMP1-----A----</AM>
 </tag>
-<comment>
-<LM type="New Form">
-<text>řemeslníci</text>
-</LM>
-</comment>
 </m>
 <m id="m006-4825-4834">
 <w.rf>

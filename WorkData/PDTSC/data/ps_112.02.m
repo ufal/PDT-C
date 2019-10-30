@@ -689,20 +689,12 @@
 <w.rf>
 <LM>w#w-d1t605-5</LM>
 </w.rf>
-<form>Silvestra</form>
+<form_change>spell</form_change>
+<form>silvestra</form>
 <tag>
-<AM lemma="Silvestr_;Y" src="auto">NNMS2-----A----</AM>
-<AM lemma="Silvestr_;Y" src="auto">NNMS4-----A----</AM>
-<AM lemma="Silvestro_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Silvestro_;S" src="auto">NNMS4-----A----</AM>
-<AM lemma="silvestr" src="auto">NNIS2-----A---1</AM>
+<AM lemma="silvestr">NNIS2-----A---1</AM>
 <AM lemma="silvestr" src="auto" recommended="1">NNIS4-----A---1</AM>
 </tag>
-<comment>
-<LM type="New Form">
-<text>silvestra</text>
-</LM>
-</comment>
 </m>
 <m id="m112-d-id79950-punct">
 <w.rf>

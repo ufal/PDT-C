@@ -760,17 +760,9 @@
 <w.rf>
 <LM>w#w-d1t1270-5</LM>
 </w.rf>
-<form>Pravnoučku</form>
-<tag>
-<AM lemma="pravnouček" src="auto">NNMS3-----A---1</AM>
-<AM lemma="pravnouček" src="auto" recommended="1">NNMS5-----A----</AM>
-<AM lemma="pravnouček" src="auto">NNMS6-----A---1</AM>
-</tag>
-<comment>
-<LM type="New Form">
-<text>Pravnučku</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>Pravnučku</form>
+<tag lemma="pravnučka" src="auto" recommended="1">NNFS4-----A----</tag>
 </m>
 <m id="m147-d1t1270-8">
 <w.rf>
@@ -1682,13 +1674,9 @@
 <w.rf>
 <LM>w#w-d1t1283-10</LM>
 </w.rf>
-<form>20 000</form>
-<tag lemma="20 000" src="auto">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>20000</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>20000</form>
+<tag lemma="20000" src="auto" recommended="1">C=-------------</tag>
 </m>
 <m id="m147-687-688">
 <w.rf>

@@ -634,13 +634,13 @@
 <w.rf>
 <LM>w#w-d1t3529-8</LM>
 </w.rf>
-<form>čtrnátém</form>
-<tag lemma="čtrnátém" src="auto">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>čtrnáctém</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>čtrnáctém</form>
+<tag>
+<AM lemma="čtrnáctý">CrIS6----------</AM>
+<AM lemma="čtrnáctý">CrMS6----------</AM>
+<AM lemma="čtrnáctý" src="auto" recommended="1">CrNS6----------</AM>
+</tag>
 </m>
 <m id="m013-d1t3529-12">
 <w.rf>
@@ -3245,13 +3245,13 @@
 <w.rf>
 <LM>w#w-d1t3727-16</LM>
 </w.rf>
-<form>sestrřenici</form>
-<tag lemma="sestrřenici" src="auto">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>sestřenici</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>sestřenici</form>
+<tag>
+<AM lemma="sestřenice">NNFS3-----A----</AM>
+<AM lemma="sestřenice">NNFS6-----A----</AM>
+<AM lemma="sestřenice" src="auto" recommended="1">NNFS4-----A----</AM>
+</tag>
 </m>
 <m id="m013-d1t3729-1">
 <w.rf>

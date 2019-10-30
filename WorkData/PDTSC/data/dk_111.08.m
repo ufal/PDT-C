@@ -1349,13 +1349,15 @@
 <w.rf>
 <LM>w#w-d1t1250-24</LM>
 </w.rf>
-<form>štastná</form>
-<tag lemma="štastná" src="auto">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>šťastná</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>šťastná</form>
+<tag>
+<AM lemma="šťastný">AAFS5----1A----</AM>
+<AM lemma="šťastný">AANP1----1A----</AM>
+<AM lemma="šťastný">AANP4----1A----</AM>
+<AM lemma="šťastný">AANP5----1A----</AM>
+<AM lemma="šťastný" src="auto" recommended="1">AAFS1----1A----</AM>
+</tag>
 </m>
 <m id="m111-d-id130195-punct">
 <w.rf>
@@ -2224,13 +2226,9 @@
 <w.rf>
 <LM>w#w-d1t1285-6</LM>
 </w.rf>
-<form>Angličtnu</form>
-<tag lemma="Angličtnu" src="auto">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>Angličtinu</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>Angličtinu</form>
+<tag lemma="angličtina" src="auto" recommended="1">NNFS4-----A----</tag>
 </m>
 <m id="m111-d1t1285-7">
 <w.rf>

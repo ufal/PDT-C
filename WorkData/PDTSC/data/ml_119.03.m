@@ -2512,13 +2512,37 @@
 <w.rf>
 <LM>w#w-d1t742-5</LM>
 </w.rf>
-<form>zvlášťní</form>
-<tag lemma="zvlášťní" src="auto">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>zvláštní</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>zvláštní</form>
+<tag>
+<AM lemma="zvláštní">AAFP1----1A----</AM>
+<AM lemma="zvláštní">AAFP4----1A----</AM>
+<AM lemma="zvláštní">AAFP5----1A----</AM>
+<AM lemma="zvláštní">AAFS1----1A----</AM>
+<AM lemma="zvláštní">AAFS2----1A----</AM>
+<AM lemma="zvláštní">AAFS3----1A----</AM>
+<AM lemma="zvláštní">AAFS4----1A----</AM>
+<AM lemma="zvláštní">AAFS5----1A----</AM>
+<AM lemma="zvláštní">AAFS6----1A----</AM>
+<AM lemma="zvláštní">AAFS7----1A----</AM>
+<AM lemma="zvláštní">AAIP1----1A----</AM>
+<AM lemma="zvláštní">AAIP4----1A----</AM>
+<AM lemma="zvláštní">AAIP5----1A----</AM>
+<AM lemma="zvláštní">AAIS1----1A----</AM>
+<AM lemma="zvláštní">AAIS4----1A----</AM>
+<AM lemma="zvláštní">AAIS5----1A----</AM>
+<AM lemma="zvláštní">AAMP4----1A----</AM>
+<AM lemma="zvláštní">AAMP5----1A----</AM>
+<AM lemma="zvláštní">AAMS1----1A----</AM>
+<AM lemma="zvláštní">AAMS5----1A----</AM>
+<AM lemma="zvláštní">AANP1----1A----</AM>
+<AM lemma="zvláštní">AANP4----1A----</AM>
+<AM lemma="zvláštní">AANP5----1A----</AM>
+<AM lemma="zvláštní">AANS1----1A----</AM>
+<AM lemma="zvláštní">AANS4----1A----</AM>
+<AM lemma="zvláštní">AANS5----1A----</AM>
+<AM lemma="zvláštní" src="auto" recommended="1">AAMP1----1A----</AM>
+</tag>
 </m>
 <m id="m119-d1t742-6">
 <w.rf>
@@ -3825,13 +3849,9 @@
 <w.rf>
 <LM>w#w-d1t792-6</LM>
 </w.rf>
-<form>muzeií</form>
-<tag lemma="muzeií" src="auto">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>muzeí</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>muzeí</form>
+<tag lemma="muzeum" src="auto" recommended="1">NNNP2-----A----</tag>
 </m>
 <m id="m119-d-m-d1e776-x2-punct-punct">
 <w.rf>

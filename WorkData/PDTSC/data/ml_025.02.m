@@ -2415,13 +2415,20 @@
 <w.rf>
 <LM>w#w-d1t1033-3</LM>
 </w.rf>
-<form>Prvím</form>
-<tag lemma="Prvím" src="auto">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>Prvním</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>Prvním</form>
+<tag>
+<AM lemma="první">CrFP3----------</AM>
+<AM lemma="první">CrIP3----------</AM>
+<AM lemma="první">CrIS6----------</AM>
+<AM lemma="první">CrMP3----------</AM>
+<AM lemma="první">CrMS6----------</AM>
+<AM lemma="první">CrMS7----------</AM>
+<AM lemma="první">CrNP3----------</AM>
+<AM lemma="první">CrNS6----------</AM>
+<AM lemma="první">CrNS7----------</AM>
+<AM lemma="první" src="auto" recommended="1">CrIS7----------</AM>
+</tag>
 </m>
 <m id="m025-d1t1033-4">
 <w.rf>

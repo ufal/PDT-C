@@ -325,16 +325,16 @@
 <w.rf>
 <LM>w#w-d1t1501-13</LM>
 </w.rf>
-<form>Hlavě</form>
+<form_change>spell</form_change>
+<form>Hlavně</form>
 <tag>
-<AM lemma="hlava" src="auto" recommended="1">NNFS3-----A----</AM>
-<AM lemma="hlava" src="auto">NNFS6-----A----</AM>
+<AM lemma="Hlavno_;G">NNNS6-----A----</AM>
+<AM lemma="hlaveň">NNFP1-----A----</AM>
+<AM lemma="hlaveň">NNFP4-----A----</AM>
+<AM lemma="hlaveň">NNFP5-----A----</AM>
+<AM lemma="hlaveň">NNFS2-----A----</AM>
+<AM lemma="hlavně_^(*1í)" src="auto" recommended="1">Dg-------1A----</AM>
 </tag>
-<comment>
-<LM type="New Form">
-<text>Hlavně</text>
-</LM>
-</comment>
 </m>
 <m id="m138-d1t1505-3">
 <w.rf>

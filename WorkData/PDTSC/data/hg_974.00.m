@@ -5769,13 +5769,12 @@
 <w.rf>
 <LM>w#w-id59262-9</LM>
 </w.rf>
-<form>Samarkant</form>
-<tag lemma="Samarkant" src="auto">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>Samarkand</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>Samarkand</form>
+<tag>
+<AM lemma="Samarkand_;G">NNIS4-----A----</AM>
+<AM lemma="Samarkand_;G" src="auto" recommended="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m974-id59272-1">
 <w.rf>

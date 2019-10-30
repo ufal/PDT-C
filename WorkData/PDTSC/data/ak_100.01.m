@@ -2271,14 +2271,16 @@
 <w.rf>
 <LM>w#w-d1t437-7</LM>
 </w.rf>
-<form>potom</form>
-<tag lemma="potom" src="auto" recommended="1">Db-------------</tag>
+<form_change>spell</form_change>
+<form>po</form>
+<tag>
+<AM lemma="po-1">RR--4----------</AM>
+<AM lemma="po-2_:B_,x_^(pondělí)">NNNXX-----A---8</AM>
+<AM lemma="po-1" src="auto" recommended="1">RR--6----------</AM>
+</tag>
 <comment>
 <LM type="Other">
 <text>2v1: po tom</text>
-</LM>
-<LM type="New Form">
-<text>po</text>
 </LM>
 </comment>
 </m>

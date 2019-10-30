@@ -456,16 +456,9 @@
 <w.rf>
 <LM>w#w-d1t575-3</LM>
 </w.rf>
-<form>rada</form>
-<tag>
-<AM lemma="rada-1_^(př._dát_někomu_dobrou_radu;poradní_sbor)" src="auto" recommended="1">NNFS1-----A----</AM>
-<AM lemma="rada-2_^(člověk;_např._soudní_rada)" src="auto">NNMS1-----A----</AM>
-</tag>
-<comment>
-<LM type="New Form">
-<text>ráda</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>ráda</form>
+<tag lemma="rád" src="auto" recommended="1">ACQW------A----</tag>
 </m>
 <m id="m042-d1t575-4">
 <w.rf>
@@ -3559,13 +3552,9 @@
 <w.rf>
 <LM>w#w-d1t774-7</LM>
 </w.rf>
-<form>byli</form>
-<tag lemma="být" src="auto" recommended="1">VpMP---XR-AA---</tag>
-<comment>
-<LM type="New Form">
-<text>byly</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>byly</form>
+<tag lemma="být" src="auto" recommended="1">VpTP---XR-AA---</tag>
 </m>
 <m id="m042-d1t774-9">
 <w.rf>

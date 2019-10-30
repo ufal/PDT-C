@@ -5105,13 +5105,15 @@
 <w.rf>
 <LM>w#w-d1t958-5</LM>
 </w.rf>
-<form>ajznpoňská</form>
-<tag lemma="ajznpoňská" src="auto">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>ajznboňácká</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>ajznboňácká</form>
+<tag>
+<AM lemma="ajznboňácký_,l">AAFS5----1A----</AM>
+<AM lemma="ajznboňácký_,l">AANP1----1A----</AM>
+<AM lemma="ajznboňácký_,l">AANP4----1A----</AM>
+<AM lemma="ajznboňácký_,l">AANP5----1A----</AM>
+<AM lemma="ajznboňácký_,l" src="auto" recommended="1">AAFS1----1A----</AM>
+</tag>
 </m>
 <m id="m059-504-268">
 <w.rf>

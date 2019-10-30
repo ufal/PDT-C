@@ -667,12 +667,14 @@
 <w.rf>
 <LM>w#w-d1e540-x2-918</LM>
 </w.rf>
-<form>d´Huez</form>
-<tag lemma="d´Huez" src="auto">X@-------------</tag>
+<form_change>spell</form_change>
+<form>d</form>
+<tag>
+<AM lemma="d-4_^(př._d'Artagnan,_stažený_tvar_fr._předl.)">AAXXX----1A----</AM>
+<AM lemma="d-8_:B_^(ost._zkratka)">XX------------8</AM>
+<AM lemma="d-3_^(označení_pomocí_písmene)" src="auto" recommended="1">NNNXX-----A----</AM>
+</tag>
 <comment>
-<LM type="New Form">
-<text>d</text>
-</LM>
 <LM type="Other">
 <text>3v1: d ´ Huez</text>
 </LM>

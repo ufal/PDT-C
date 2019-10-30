@@ -2318,13 +2318,14 @@
 <w.rf>
 <LM>w#w-d1t756-10</LM>
 </w.rf>
-<form>údky</form>
-<tag lemma="údky" src="auto">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>útky</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>útky</form>
+<tag>
+<AM lemma="útek">NNIP4-----A----</AM>
+<AM lemma="útek">NNIP5-----A----</AM>
+<AM lemma="útek">NNIP7-----A----</AM>
+<AM lemma="útek" src="auto" recommended="1">NNIP1-----A----</AM>
+</tag>
 </m>
 <m id="m144-635-636">
 <w.rf>
@@ -2748,13 +2749,9 @@
 <w.rf>
 <LM>w#w-d1t761-19</LM>
 </w.rf>
-<form>údků</form>
-<tag lemma="údků" src="auto">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>útků</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>útků</form>
+<tag lemma="útek" src="auto" recommended="1">NNIP2-----A----</tag>
 </m>
 <m id="m144-d1t761-20">
 <w.rf>

@@ -5368,13 +5368,9 @@
 <w.rf>
 <LM>w#w-d1t1372-16</LM>
 </w.rf>
-<form>proháněli</form>
-<tag lemma="prohánět_:T" src="auto" recommended="1">VpMP---XR-AA---</tag>
-<comment>
-<LM type="New Form">
-<text>proháněly</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>proháněly</form>
+<tag lemma="prohánět_:T" src="auto" recommended="1">VpTP---XR-AA---</tag>
 </m>
 <m id="m143-d1t1372-17">
 <w.rf>

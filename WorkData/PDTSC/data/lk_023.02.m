@@ -1618,16 +1618,37 @@
 <w.rf>
 <LM>w#w-d1t1042-4</LM>
 </w.rf>
-<form>straší</form>
+<form_change>spell</form_change>
+<form>starší</form>
 <tag>
-<AM lemma="strašit_:T" src="auto">VB-P---3P-AA---</AM>
-<AM lemma="strašit_:T" src="auto" recommended="1">VB-S---3P-AA---</AM>
+<AM lemma="starý-2_^(člověk,_věc)">AAFP1----2A----</AM>
+<AM lemma="starý-2_^(člověk,_věc)">AAFP4----2A----</AM>
+<AM lemma="starý-2_^(člověk,_věc)">AAFP5----2A----</AM>
+<AM lemma="starý-2_^(člověk,_věc)">AAFS1----2A----</AM>
+<AM lemma="starý-2_^(člověk,_věc)">AAFS2----2A----</AM>
+<AM lemma="starý-2_^(člověk,_věc)">AAFS3----2A----</AM>
+<AM lemma="starý-2_^(člověk,_věc)">AAFS4----2A----</AM>
+<AM lemma="starý-2_^(člověk,_věc)">AAFS5----2A----</AM>
+<AM lemma="starý-2_^(člověk,_věc)">AAFS6----2A----</AM>
+<AM lemma="starý-2_^(člověk,_věc)">AAFS7----2A----</AM>
+<AM lemma="starý-2_^(člověk,_věc)">AAIP1----2A----</AM>
+<AM lemma="starý-2_^(člověk,_věc)">AAIP4----2A----</AM>
+<AM lemma="starý-2_^(člověk,_věc)">AAIP5----2A----</AM>
+<AM lemma="starý-2_^(člověk,_věc)">AAIS1----2A----</AM>
+<AM lemma="starý-2_^(člověk,_věc)">AAIS4----2A----</AM>
+<AM lemma="starý-2_^(člověk,_věc)">AAIS5----2A----</AM>
+<AM lemma="starý-2_^(člověk,_věc)">AAMP4----2A----</AM>
+<AM lemma="starý-2_^(člověk,_věc)">AAMP5----2A----</AM>
+<AM lemma="starý-2_^(člověk,_věc)">AAMS1----2A----</AM>
+<AM lemma="starý-2_^(člověk,_věc)">AAMS5----2A----</AM>
+<AM lemma="starý-2_^(člověk,_věc)">AANP1----2A----</AM>
+<AM lemma="starý-2_^(člověk,_věc)">AANP4----2A----</AM>
+<AM lemma="starý-2_^(člověk,_věc)">AANP5----2A----</AM>
+<AM lemma="starý-2_^(člověk,_věc)">AANS1----2A----</AM>
+<AM lemma="starý-2_^(člověk,_věc)">AANS4----2A----</AM>
+<AM lemma="starý-2_^(člověk,_věc)">AANS5----2A----</AM>
+<AM lemma="starý-2_^(člověk,_věc)" src="auto" recommended="1">AAMP1----2A----</AM>
 </tag>
-<comment>
-<LM type="New Form">
-<text>starší</text>
-</LM>
-</comment>
 </m>
 <m id="m023-d-id77524-punct">
 <w.rf>
@@ -4431,18 +4452,12 @@
 <w.rf>
 <LM>w#w-d1t1214-5</LM>
 </w.rf>
-<form>Valtra</form>
+<form_change>spell</form_change>
+<form>Waltra</form>
 <tag>
-<AM lemma="Valter_;S" src="auto">NNMS2-----A---1</AM>
-<AM lemma="Valter_;S" src="auto">NNMS4-----A---1</AM>
-<AM lemma="Valtr_;S_;Y" src="auto">NNMS2-----A----</AM>
-<AM lemma="Valtr_;S_;Y" src="auto" recommended="1">NNMS4-----A----</AM>
+<AM lemma="Waltr_;S">NNMS2-----A----</AM>
+<AM lemma="Waltr_;S" src="auto" recommended="1">NNMS4-----A----</AM>
 </tag>
-<comment>
-<LM type="New Form">
-<text>Waltra</text>
-</LM>
-</comment>
 </m>
 <m id="m023-d-id84373-punct">
 <w.rf>

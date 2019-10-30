@@ -6683,13 +6683,13 @@
 <w.rf>
 <LM>w#w-d1t1062-7</LM>
 </w.rf>
-<form>šet</form>
-<tag lemma="šet" src="auto">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>šest</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>šest</form>
+<tag>
+<AM lemma="šest`6">Cn-S1----------</AM>
+<AM lemma="šest`6">Cn-S5----------</AM>
+<AM lemma="šest`6" src="auto" recommended="1">Cn-S4----------</AM>
+</tag>
 </m>
 <m id="m114-d1t1062-8">
 <w.rf>

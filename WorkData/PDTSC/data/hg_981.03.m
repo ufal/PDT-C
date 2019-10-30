@@ -1530,13 +1530,9 @@
 <w.rf>
 <LM>w#w-d1t1401-1</LM>
 </w.rf>
-<form>1 000</form>
-<tag lemma="1 000" src="auto">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>1000</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>1000</form>
+<tag lemma="1000" src="auto" recommended="1">C=-------------</tag>
 </m>
 <m id="m981-d1t1401-2">
 <w.rf>
@@ -3212,13 +3208,8 @@
 <w.rf>
 <LM>w#w-d1t1483-3</LM>
 </w.rf>
-<form>přepočtěno</form>
-<tag lemma="přepočtěno" src="auto">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>přepočteno</text>
-</LM>
-</comment>
+<form>přepočteno</form>
+<tag lemma="přepočíst" src="auto" recommended="1">VsNS---XX-AP---</tag>
 </m>
 <m id="m981-d1t1483-5">
 <w.rf>
@@ -3242,13 +3233,9 @@
 <w.rf>
 <LM>w#w-d1e1472-x2-1703</LM>
 </w.rf>
-<form>10 000</form>
-<tag lemma="10 000" src="auto">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>10000</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>10000</form>
+<tag lemma="10000" src="auto" recommended="1">C=-------------</tag>
 </m>
 <m id="m981-d1t1483-8">
 <w.rf>
@@ -5912,13 +5899,12 @@
 <w.rf>
 <LM>w#w-d1t1630-5</LM>
 </w.rf>
-<form>kibbutz</form>
-<tag lemma="kibbutz" src="auto">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>kibuc</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>kibuc</form>
+<tag>
+<AM lemma="kibuc">NNIS1-----A----</AM>
+<AM lemma="kibuc" src="auto" recommended="1">NNIS4-----A----</AM>
+</tag>
 </m>
 <m id="m981-d1t1630-6">
 <w.rf>

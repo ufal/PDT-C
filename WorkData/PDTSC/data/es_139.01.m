@@ -4958,13 +4958,33 @@
 <w.rf>
 <LM>w#w-d1t713-1</LM>
 </w.rf>
-<form>abiturienstký</form>
-<tag lemma="abiturienstký" src="auto">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>abiturientský</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>abiturientský</form>
+<tag>
+<AM lemma="abiturientský">AAFP1----1A---6</AM>
+<AM lemma="abiturientský">AAFP4----1A---6</AM>
+<AM lemma="abiturientský">AAFP5----1A---6</AM>
+<AM lemma="abiturientský">AAFS2----1A---6</AM>
+<AM lemma="abiturientský">AAFS3----1A---6</AM>
+<AM lemma="abiturientský">AAFS6----1A---6</AM>
+<AM lemma="abiturientský">AAIP1----1A---6</AM>
+<AM lemma="abiturientský">AAIP4----1A---6</AM>
+<AM lemma="abiturientský">AAIP5----1A---6</AM>
+<AM lemma="abiturientský">AAIS4----1A----</AM>
+<AM lemma="abiturientský">AAIS5----1A----</AM>
+<AM lemma="abiturientský">AAMP1----1A---6</AM>
+<AM lemma="abiturientský">AAMP4----1A---6</AM>
+<AM lemma="abiturientský">AAMP5----1A---6</AM>
+<AM lemma="abiturientský">AAMS1----1A----</AM>
+<AM lemma="abiturientský">AAMS5----1A----</AM>
+<AM lemma="abiturientský">AANP1----1A---6</AM>
+<AM lemma="abiturientský">AANP4----1A---6</AM>
+<AM lemma="abiturientský">AANP5----1A---6</AM>
+<AM lemma="abiturientský">AANS1----1A---6</AM>
+<AM lemma="abiturientský">AANS4----1A---6</AM>
+<AM lemma="abiturientský">AANS5----1A---6</AM>
+<AM lemma="abiturientský" src="auto" recommended="1">AAIS1----1A----</AM>
+</tag>
 </m>
 <m id="m139-d1t713-2">
 <w.rf>
@@ -5211,17 +5231,13 @@
 <w.rf>
 <LM>w#w-d1t741-4</LM>
 </w.rf>
-<form>váš</form>
+<form_change>spell</form_change>
+<form>vás</form>
 <tag>
-<AM lemma="tvůj_^(přivlast.)" src="auto">PSIS4-P2-------</AM>
-<AM lemma="tvůj_^(přivlast.)" src="auto" recommended="1">PSYS1-P2-------</AM>
-<AM lemma="tvůj_^(přivlast.)" src="auto">PSYS5-P2-------</AM>
+<AM lemma="ty">PP-P2--2-------</AM>
+<AM lemma="ty">PP-P6--2-------</AM>
+<AM lemma="ty" src="auto" recommended="1">PP-P4--2-------</AM>
 </tag>
-<comment>
-<LM type="New Form">
-<text>vás</text>
-</LM>
-</comment>
 </m>
 <m id="m139-d1t741-6">
 <w.rf>

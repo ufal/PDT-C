@@ -677,13 +677,14 @@
 <w.rf>
 <LM>w#w-d1t1775-12</LM>
 </w.rf>
-<form>obývaky</form>
-<tag lemma="obývaky" src="auto">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>obýváky</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>obýváky</form>
+<tag>
+<AM lemma="obývák">NNIP4-----A----</AM>
+<AM lemma="obývák">NNIP5-----A----</AM>
+<AM lemma="obývák">NNIP7-----A----</AM>
+<AM lemma="obývák" src="auto" recommended="1">NNIP1-----A----</AM>
+</tag>
 </m>
 <m id="m005-d-id104754">
 <w.rf>

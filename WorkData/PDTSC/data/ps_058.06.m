@@ -226,13 +226,9 @@
 <w.rf>
 <LM>w#w-d1t2727-6</LM>
 </w.rf>
-<form>rádi</form>
-<tag lemma="rád" src="auto" recommended="1">ACMP------A----</tag>
-<comment>
-<LM type="New Form">
-<text>rády</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>rády</form>
+<tag lemma="rád" src="auto" recommended="1">ACTP------A----</tag>
 </m>
 <m id="m058-d1t2729-2">
 <w.rf>
@@ -4232,13 +4228,9 @@
 <w.rf>
 <LM>w#w-d1t3005-11</LM>
 </w.rf>
-<form>přotože</form>
-<tag lemma="přotože" src="auto">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>protože</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>protože</form>
+<tag lemma="protože" src="auto" recommended="1">J,-------------</tag>
 </m>
 <m id="m058-d1t3005-13">
 <w.rf>

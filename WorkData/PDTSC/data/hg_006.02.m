@@ -1281,13 +1281,14 @@
 <w.rf>
 <LM>w#w-d1t732-12</LM>
 </w.rf>
-<form>Belgičaní</form>
-<tag lemma="Belgičaní" src="auto">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>Belgičani</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>Belgičani</form>
+<tag>
+<AM lemma="Belgičan_;E">NNMP5-----A---1</AM>
+<AM lemma="belgičan_^(rasa_koně)">NNMP1-----A---1</AM>
+<AM lemma="belgičan_^(rasa_koně)">NNMP5-----A---1</AM>
+<AM lemma="Belgičan_;E" src="auto" recommended="1">NNMP1-----A---1</AM>
+</tag>
 </m>
 <m id="m006-d1t732-14">
 <w.rf>

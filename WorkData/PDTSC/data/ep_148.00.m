@@ -1092,13 +1092,14 @@
 <w.rf>
 <LM>w#w-d1t77-3</LM>
 </w.rf>
-<form>šedesálti</form>
-<tag lemma="šedesálti" src="auto">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>šedesáti</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>šedesáti</form>
+<tag>
+<AM lemma="šedesát`60">Cn-P3----------</AM>
+<AM lemma="šedesát`60">Cn-P6----------</AM>
+<AM lemma="šedesát`60">Cn-P7----------</AM>
+<AM lemma="šedesát`60" src="auto" recommended="1">Cn-P2----------</AM>
+</tag>
 </m>
 <m id="m148-d1t77-4">
 <w.rf>
@@ -1738,13 +1739,26 @@
 <w.rf>
 <LM>w#w-d1t107-7</LM>
 </w.rf>
-<form>živočisné</form>
-<tag lemma="živočisné" src="auto">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>živočišné</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>živočišné</form>
+<tag>
+<AM lemma="živočišný">AAFP1----1A----</AM>
+<AM lemma="živočišný">AAFP4----1A----</AM>
+<AM lemma="živočišný">AAFP5----1A----</AM>
+<AM lemma="živočišný">AAFS2----1A----</AM>
+<AM lemma="živočišný">AAFS3----1A----</AM>
+<AM lemma="živočišný">AAIP1----1A----</AM>
+<AM lemma="živočišný">AAIP4----1A----</AM>
+<AM lemma="živočišný">AAIP5----1A----</AM>
+<AM lemma="živočišný">AAMP4----1A----</AM>
+<AM lemma="živočišný">AANP1----1A---6</AM>
+<AM lemma="živočišný">AANP4----1A---6</AM>
+<AM lemma="živočišný">AANP5----1A---6</AM>
+<AM lemma="živočišný">AANS1----1A----</AM>
+<AM lemma="živočišný">AANS4----1A----</AM>
+<AM lemma="živočišný">AANS5----1A----</AM>
+<AM lemma="živočišný" src="auto" recommended="1">AAFS6----1A----</AM>
+</tag>
 </m>
 <m id="m148-d1t107-8">
 <w.rf>

@@ -2785,13 +2785,9 @@
 <w.rf>
 <LM>w#w-d1t2684-10</LM>
 </w.rf>
-<form>daly</form>
-<tag lemma="dát" src="auto" recommended="1">VpTP---XR-AA---</tag>
-<comment>
-<LM type="New Form">
-<text>dali</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>dali</form>
+<tag lemma="dát" src="auto" recommended="1">VpMP---XR-AA---</tag>
 </m>
 <m id="m045-d1t2684-11">
 <w.rf>

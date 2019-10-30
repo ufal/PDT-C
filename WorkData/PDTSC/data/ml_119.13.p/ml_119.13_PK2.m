@@ -2153,13 +2153,9 @@
 <w.rf>
 <LM>w#w-d1t2651-2</LM>
 </w.rf>
-<form>Brindis</form>
-<tag lemma="Brindis" src="auto">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>Brindisi</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>Brindisi</form>
+<tag lemma="Brindisi_;G" src="auto" recommended="1">NNNXX-----A----</tag>
 </m>
 <m id="m119-579-580">
 <w.rf>

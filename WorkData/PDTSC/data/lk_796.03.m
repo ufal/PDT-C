@@ -2643,13 +2643,9 @@
 <w.rf>
 <LM>w#w-id60960-20</LM>
 </w.rf>
-<form>udělali</form>
-<tag lemma="udělat_:W" src="auto" recommended="1">VpMP---XR-AA---</tag>
-<comment>
-<LM type="New Form">
-<text>udělaly</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>udělaly</form>
+<tag lemma="udělat_:W" src="auto" recommended="1">VpTP---XR-AA---</tag>
 </m>
 <m id="m796-id60960-21">
 <w.rf>

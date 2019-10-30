@@ -1139,13 +1139,13 @@
 <w.rf>
 <LM>w#w-d1t1120-12</LM>
 </w.rf>
-<form>ezkurzi</form>
-<tag lemma="ezkurzi" src="auto">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>exkurzi</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>exkurzi</form>
+<tag>
+<AM lemma="exkurze">NNFS3-----A----</AM>
+<AM lemma="exkurze">NNFS6-----A----</AM>
+<AM lemma="exkurze" src="auto" recommended="1">NNFS4-----A----</AM>
+</tag>
 </m>
 <m id="m047-d1t1120-13">
 <w.rf>

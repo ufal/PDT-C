@@ -53,13 +53,33 @@
 <w.rf>
 <LM>w#w-d1t634-8</LM>
 </w.rf>
-<form>neštastný</form>
-<tag lemma="neštastný" src="auto">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>nešťastný</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>nešťastný</form>
+<tag>
+<AM lemma="šťastný">AAFP1----1N---6</AM>
+<AM lemma="šťastný">AAFP4----1N---6</AM>
+<AM lemma="šťastný">AAFP5----1N---6</AM>
+<AM lemma="šťastný">AAFS2----1N---6</AM>
+<AM lemma="šťastný">AAFS3----1N---6</AM>
+<AM lemma="šťastný">AAFS6----1N---6</AM>
+<AM lemma="šťastný">AAIP1----1N---6</AM>
+<AM lemma="šťastný">AAIP4----1N---6</AM>
+<AM lemma="šťastný">AAIP5----1N---6</AM>
+<AM lemma="šťastný">AAIS4----1N----</AM>
+<AM lemma="šťastný">AAIS5----1N----</AM>
+<AM lemma="šťastný">AAMP1----1N---6</AM>
+<AM lemma="šťastný">AAMP4----1N---6</AM>
+<AM lemma="šťastný">AAMP5----1N---6</AM>
+<AM lemma="šťastný">AAMS1----1N----</AM>
+<AM lemma="šťastný">AAMS5----1N----</AM>
+<AM lemma="šťastný">AANP1----1N---6</AM>
+<AM lemma="šťastný">AANP4----1N---6</AM>
+<AM lemma="šťastný">AANP5----1N---6</AM>
+<AM lemma="šťastný">AANS1----1N---6</AM>
+<AM lemma="šťastný">AANS4----1N---6</AM>
+<AM lemma="šťastný">AANS5----1N---6</AM>
+<AM lemma="šťastný" src="auto" recommended="1">AAIS1----1N----</AM>
+</tag>
 </m>
 <m id="m026-d-id74223-punct">
 <w.rf>
@@ -5125,13 +5145,12 @@
 <w.rf>
 <LM>w#w-d1t979-5</LM>
 </w.rf>
-<form>poštářek</form>
-<tag lemma="poštářek" src="auto">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>polštářek</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>polštářek</form>
+<tag>
+<AM lemma="polštářek">NNIS4-----A----</AM>
+<AM lemma="polštářek" src="auto" recommended="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m026-185-193">
 <w.rf>

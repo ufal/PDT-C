@@ -1723,13 +1723,9 @@
 <w.rf>
 <LM>w#w-d1t1737-3</LM>
 </w.rf>
-<form>Mlioš</form>
-<tag lemma="Mlioš" src="auto">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>Miloš</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>Miloš</form>
+<tag lemma="Miloš_;Y" src="auto" recommended="1">NNMS1-----A----</tag>
 </m>
 <m id="m025-d1t1737-4">
 <w.rf>

@@ -569,13 +569,12 @@
 <w.rf>
 <LM>w#w-d1t2996-4</LM>
 </w.rf>
-<form>děšťník</form>
-<tag lemma="děšťník" src="auto">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>děštník</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>děštník</form>
+<tag>
+<AM lemma="děštník">X@-------------</AM>
+<AM lemma="děštník" src="auto" recommended="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m017-d1e2991-x2-566">
 <w.rf>

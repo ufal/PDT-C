@@ -6252,13 +6252,9 @@
 <w.rf>
 <LM>w#w-d1t3326-4</LM>
 </w.rf>
-<form>píštal</form>
-<tag lemma="píštal" src="auto">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>píšťal</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>píšťal</form>
+<tag lemma="píšťala" src="auto" recommended="1">NNFP2-----A----</tag>
 </m>
 <m id="m039-d-id150933-punct">
 <w.rf>
@@ -6482,13 +6478,13 @@
 <w.rf>
 <LM>w#w-d1t3335-8</LM>
 </w.rf>
-<form>předmimulém</form>
-<tag lemma="předmimulém" src="auto">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>předminulém</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>předminulém</form>
+<tag>
+<AM lemma="předminulý">AAIS6----1A----</AM>
+<AM lemma="předminulý">AAMS6----1A----</AM>
+<AM lemma="předminulý" src="auto" recommended="1">AANS6----1A----</AM>
+</tag>
 </m>
 <m id="m039-d1t3335-9">
 <w.rf>

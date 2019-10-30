@@ -544,25 +544,16 @@
 <w.rf>
 <LM>w#w-d1t1196-9</LM>
 </w.rf>
-<form>Zabezpečili</form>
-<tag lemma="zabezpečit_:W" src="auto" recommended="1">VpMP---XR-AA---</tag>
-<comment>
-<LM type="New Form">
-<text>Zabezpečily</text>
-</LM>
-</comment>
+<form>Zabezpečily</form>
+<tag lemma="zabezpečit_:W" src="auto" recommended="1">VpTP---XR-AA---</tag>
 </m>
 <m id="m113-d1t1196-10">
 <w.rf>
 <LM>w#w-d1t1196-10</LM>
 </w.rf>
-<form>pomerně</form>
-<tag lemma="pomerně" src="auto">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>poměrně</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>poměrně</form>
+<tag lemma="poměrně_^(*1ý)" src="auto" recommended="1">Dg-------1A----</tag>
 </m>
 <m id="m113-d1t1196-11">
 <w.rf>

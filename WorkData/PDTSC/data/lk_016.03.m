@@ -6044,13 +6044,39 @@
 <w.rf>
 <LM>w#w-d1t1946-9</LM>
 </w.rf>
-<form>prácí</form>
-<tag lemma="prácí" src="auto">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>prací</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>prací</form>
+<tag>
+<AM lemma="prací_^(^IC*3át)">AAFP1----1A----</AM>
+<AM lemma="prací_^(^IC*3át)">AAFP4----1A----</AM>
+<AM lemma="prací_^(^IC*3át)">AAFP5----1A----</AM>
+<AM lemma="prací_^(^IC*3át)">AAFS1----1A----</AM>
+<AM lemma="prací_^(^IC*3át)">AAFS2----1A----</AM>
+<AM lemma="prací_^(^IC*3át)">AAFS3----1A----</AM>
+<AM lemma="prací_^(^IC*3át)">AAFS4----1A----</AM>
+<AM lemma="prací_^(^IC*3át)">AAFS5----1A----</AM>
+<AM lemma="prací_^(^IC*3át)">AAFS6----1A----</AM>
+<AM lemma="prací_^(^IC*3át)">AAFS7----1A----</AM>
+<AM lemma="prací_^(^IC*3át)">AAIP1----1A----</AM>
+<AM lemma="prací_^(^IC*3át)">AAIP4----1A----</AM>
+<AM lemma="prací_^(^IC*3át)">AAIP5----1A----</AM>
+<AM lemma="prací_^(^IC*3át)">AAIS1----1A----</AM>
+<AM lemma="prací_^(^IC*3át)">AAIS4----1A----</AM>
+<AM lemma="prací_^(^IC*3át)">AAIS5----1A----</AM>
+<AM lemma="prací_^(^IC*3át)">AAMP1----1A----</AM>
+<AM lemma="prací_^(^IC*3át)">AAMP4----1A----</AM>
+<AM lemma="prací_^(^IC*3át)">AAMP5----1A----</AM>
+<AM lemma="prací_^(^IC*3át)">AAMS1----1A----</AM>
+<AM lemma="prací_^(^IC*3át)">AAMS5----1A----</AM>
+<AM lemma="prací_^(^IC*3át)">AANP1----1A----</AM>
+<AM lemma="prací_^(^IC*3át)">AANP4----1A----</AM>
+<AM lemma="prací_^(^IC*3át)">AANP5----1A----</AM>
+<AM lemma="prací_^(^IC*3át)">AANS1----1A----</AM>
+<AM lemma="prací_^(^IC*3át)">AANS4----1A----</AM>
+<AM lemma="prací_^(^IC*3át)">AANS5----1A----</AM>
+<AM lemma="práce_^(jako_činnost_i_místo)">NNFS7-----A----</AM>
+<AM lemma="práce_^(jako_činnost_i_místo)" src="auto" recommended="1">NNFP2-----A----</AM>
+</tag>
 </m>
 <m id="m016-d1e1917-x2-419">
 <w.rf>

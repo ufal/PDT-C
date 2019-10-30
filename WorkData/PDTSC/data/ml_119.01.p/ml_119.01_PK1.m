@@ -2170,13 +2170,9 @@
 <w.rf>
 <LM>w#w-d1t344-5</LM>
 </w.rf>
-<form>jezdili</form>
-<tag lemma="jezdit_:T" src="auto" recommended="1">VpMP---XR-AA---</tag>
-<comment>
-<LM type="New Form">
-<text>jezdily</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>jezdily</form>
+<tag lemma="jezdit_:T" src="auto" recommended="1">VpTP---XR-AA---</tag>
 </m>
 <m id="m119-d1t344-4">
 <w.rf>

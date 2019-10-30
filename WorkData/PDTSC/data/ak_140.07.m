@@ -907,13 +907,9 @@
 <w.rf>
 <LM>w#w-d1t1299-6</LM>
 </w.rf>
-<form>zeťem</form>
-<tag lemma="zeťem" src="auto">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>zetěm</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>zetěm</form>
+<tag lemma="zeť" src="auto" recommended="1">NNMS7-----A----</tag>
 </m>
 <m id="m140-d1t1299-3">
 <w.rf>
@@ -1413,13 +1409,19 @@
 <w.rf>
 <LM>w#w-d1t1308-22</LM>
 </w.rf>
-<form>pankráci</form>
-<tag lemma="pankráci" src="auto">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>Pankráci</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>Pankráci</form>
+<tag>
+<AM lemma="Pankrác-1_;Y">NNMP1-----A----</AM>
+<AM lemma="Pankrác-1_;Y">NNMP5-----A----</AM>
+<AM lemma="Pankrác-1_;Y">NNMP7-----A----</AM>
+<AM lemma="Pankrác-1_;Y">NNMS3-----A----</AM>
+<AM lemma="Pankrác-1_;Y">NNMS5-----A----</AM>
+<AM lemma="Pankrác-1_;Y">NNMS6-----A----</AM>
+<AM lemma="Pankrác-2_;G">NNFS3-----A----</AM>
+<AM lemma="Pankrác-2_;G">NNFS5-----A----</AM>
+<AM lemma="Pankrác-2_;G" src="auto" recommended="1">NNFS6-----A----</AM>
+</tag>
 </m>
 <m id="m140-d1t1308-19">
 <w.rf>

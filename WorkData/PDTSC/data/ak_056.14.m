@@ -766,13 +766,9 @@
 <w.rf>
 <LM>w#w-d1t3840-8</LM>
 </w.rf>
-<form>3 500</form>
-<tag lemma="3 500" src="auto">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>3500</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>3500</form>
+<tag lemma="3500" src="auto" recommended="1">C=-------------</tag>
 </m>
 <m id="m056-d-m-d1e3835-x2-punct-punct">
 <w.rf>
@@ -1488,7 +1484,7 @@
 <tag lemma="." src="auto" recommended="1">Z:-------------</tag>
 </m>
 </s>
-<s id="m-790"/>
+<s id="m-790"></s>
 <s id="m-d1e3941-x2">
 <m id="m056-d1t3950-4">
 <w.rf>
@@ -2271,13 +2267,12 @@
 <w.rf>
 <LM>w#w-d1t4017-26</LM>
 </w.rf>
-<form>nádvozní</form>
-<tag lemma="nádvozní" src="auto">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>nádvozný</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>nádvozný</form>
+<tag>
+<AM lemma="nádvozný">X@-------------</AM>
+<AM lemma="nádvozný" src="auto" recommended="1">AAIS1----1A----</AM>
+</tag>
 </m>
 <m id="m056-839-840">
 <w.rf>

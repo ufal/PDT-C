@@ -663,13 +663,12 @@
 <w.rf>
 <LM>w#w-d1t989-17</LM>
 </w.rf>
-<form>návětěvě</form>
-<tag lemma="návětěvě" src="auto">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>návštěvě</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>návštěvě</form>
+<tag>
+<AM lemma="návštěva">NNFS3-----A----</AM>
+<AM lemma="návštěva" src="auto" recommended="1">NNFS6-----A----</AM>
+</tag>
 </m>
 <m id="m113-d1e984-x2-485">
 <w.rf>

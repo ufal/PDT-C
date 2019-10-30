@@ -1354,13 +1354,9 @@
 <w.rf>
 <LM>w#w-d1t594-2</LM>
 </w.rf>
-<form>evangeliků</form>
-<tag lemma="evangeliků" src="auto">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>evangelíků</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>evangelíků</form>
+<tag lemma="evangelík" src="auto" recommended="1">NNMP2-----A----</tag>
 </m>
 <m id="m981-d-id68986">
 <w.rf>
@@ -4137,13 +4133,14 @@
 <w.rf>
 <LM>w#w-d1t782-2</LM>
 </w.rf>
-<form>sixty</form>
-<tag lemma="sixty" src="auto">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>sexty</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>sexty</form>
+<tag>
+<AM lemma="sexta">NNFP1-----A----</AM>
+<AM lemma="sexta">NNFP4-----A----</AM>
+<AM lemma="sexta">NNFP5-----A----</AM>
+<AM lemma="sexta" src="auto" recommended="1">NNFS2-----A----</AM>
+</tag>
 </m>
 <m id="m981-d1t782-3">
 <w.rf>

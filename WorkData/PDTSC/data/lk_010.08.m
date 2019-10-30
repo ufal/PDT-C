@@ -517,13 +517,9 @@
 <w.rf>
 <LM>w#w-d1t3120-6</LM>
 </w.rf>
-<form>napamatuju</form>
-<tag lemma="napamatuju" src="auto">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>nepamatuju</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>nepamatuju</form>
+<tag lemma="pamatovat_:T" src="auto" recommended="1">VB-S---1P-NA---</tag>
 </m>
 <m id="m010-d-id138382">
 <w.rf>

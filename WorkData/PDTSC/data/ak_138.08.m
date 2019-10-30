@@ -3751,13 +3751,14 @@
 <w.rf>
 <LM>w#w-d1t3177-5</LM>
 </w.rf>
-<form>Chrastavi</form>
-<tag lemma="Chrastavi" src="auto">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>Chrastavy</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>Chrastavy</form>
+<tag>
+<AM lemma="Chrastava_;G">NNFP1-----A----</AM>
+<AM lemma="Chrastava_;G">NNFP4-----A----</AM>
+<AM lemma="Chrastava_;G">NNFP5-----A----</AM>
+<AM lemma="Chrastava_;G" src="auto" recommended="1">NNFS2-----A----</AM>
+</tag>
 </m>
 <m id="m138-d1t3177-7">
 <w.rf>
@@ -3899,13 +3900,14 @@
 <w.rf>
 <LM>w#w-d1t3184-12</LM>
 </w.rf>
-<form>Chrastavi</form>
-<tag lemma="Chrastavi" src="auto">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>Chrastavy</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>Chrastavy</form>
+<tag>
+<AM lemma="Chrastava_;G">NNFP1-----A----</AM>
+<AM lemma="Chrastava_;G">NNFP4-----A----</AM>
+<AM lemma="Chrastava_;G">NNFP5-----A----</AM>
+<AM lemma="Chrastava_;G" src="auto" recommended="1">NNFS2-----A----</AM>
+</tag>
 </m>
 <m id="m138-d1t3184-14">
 <w.rf>

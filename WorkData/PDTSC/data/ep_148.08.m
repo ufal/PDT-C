@@ -956,13 +956,12 @@
 <w.rf>
 <LM>w#w-d1t3627-5</LM>
 </w.rf>
-<form>Sapadi</form>
-<tag lemma="Sapadi" src="auto">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>Sappady</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>Sappady</form>
+<tag>
+<AM lemma="Sappady">X@-------------</AM>
+<AM lemma="Sappada" src="auto" recommended="1">NNFS2-----A----</AM>
+</tag>
 </m>
 <m id="m148-d-m-d1e3616-x4-punct-punct">
 <w.rf>
@@ -3076,13 +3075,37 @@
 <w.rf>
 <LM>w#w-d1t3766-5</LM>
 </w.rf>
-<form>posadní</form>
-<tag lemma="posadní" src="auto">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>poslední</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>poslední</form>
+<tag>
+<AM lemma="poslední">AAFP1----1A----</AM>
+<AM lemma="poslední">AAFP4----1A----</AM>
+<AM lemma="poslední">AAFP5----1A----</AM>
+<AM lemma="poslední">AAFS2----1A----</AM>
+<AM lemma="poslední">AAFS3----1A----</AM>
+<AM lemma="poslední">AAFS4----1A----</AM>
+<AM lemma="poslední">AAFS5----1A----</AM>
+<AM lemma="poslední">AAFS6----1A----</AM>
+<AM lemma="poslední">AAFS7----1A----</AM>
+<AM lemma="poslední">AAIP1----1A----</AM>
+<AM lemma="poslední">AAIP4----1A----</AM>
+<AM lemma="poslední">AAIP5----1A----</AM>
+<AM lemma="poslední">AAIS1----1A----</AM>
+<AM lemma="poslední">AAIS4----1A----</AM>
+<AM lemma="poslední">AAIS5----1A----</AM>
+<AM lemma="poslední">AAMP1----1A----</AM>
+<AM lemma="poslední">AAMP4----1A----</AM>
+<AM lemma="poslední">AAMP5----1A----</AM>
+<AM lemma="poslední">AAMS1----1A----</AM>
+<AM lemma="poslední">AAMS5----1A----</AM>
+<AM lemma="poslední">AANP1----1A----</AM>
+<AM lemma="poslední">AANP4----1A----</AM>
+<AM lemma="poslední">AANP5----1A----</AM>
+<AM lemma="poslední">AANS1----1A----</AM>
+<AM lemma="poslední">AANS4----1A----</AM>
+<AM lemma="poslední">AANS5----1A----</AM>
+<AM lemma="poslední" src="auto" recommended="1">AAFS1----1A----</AM>
+</tag>
 </m>
 <m id="m148-d1t3766-7">
 <w.rf>
@@ -3555,13 +3578,9 @@
 <w.rf>
 <LM>w#w-d1t3828-4</LM>
 </w.rf>
-<form>3 500</form>
-<tag lemma="3 500" src="auto">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>3500</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>3500</form>
+<tag lemma="3500" src="auto" recommended="1">C=-------------</tag>
 </m>
 <m id="m148-d1t3830-1">
 <w.rf>
@@ -4672,13 +4691,14 @@
 <w.rf>
 <LM>w#w-d1t3912-2</LM>
 </w.rf>
-<form>Fraciscu</form>
-<tag lemma="Fraciscu" src="auto">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>Franciscu</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>Franciscu</form>
+<tag>
+<AM lemma="Francisco_;Y_,t">NNMS3-----A---1</AM>
+<AM lemma="Francisco_;Y_,t">NNMS6-----A---1</AM>
+<AM lemma="Francisko_;G_,x">NNNS3-----A----</AM>
+<AM lemma="Francisko_;G_,x" src="auto" recommended="1">NNNS6-----A----</AM>
+</tag>
 </m>
 <m id="m148-d-id159462-punct">
 <w.rf>

@@ -1766,13 +1766,13 @@
 <w.rf>
 <LM>w#w-d1t340-4</LM>
 </w.rf>
-<form>čytři</form>
-<tag lemma="čytři" src="auto">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>čtyři</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>čtyři</form>
+<tag>
+<AM lemma="čtyři`4">ClXP1----------</AM>
+<AM lemma="čtyři`4">ClXP5----------</AM>
+<AM lemma="čtyři`4" src="auto" recommended="1">ClXP4----------</AM>
+</tag>
 </m>
 <m id="m009-d1t340-5">
 <w.rf>
@@ -4132,13 +4132,23 @@
 <w.rf>
 <LM>w#w-d1t498-7</LM>
 </w.rf>
-<form>měsťanské</form>
-<tag lemma="měsťanské" src="auto">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>měšťanské</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>měšťanské</form>
+<tag>
+<AM lemma="měšťanský">AAFP1----1A----</AM>
+<AM lemma="měšťanský">AAFP4----1A----</AM>
+<AM lemma="měšťanský">AAFP5----1A----</AM>
+<AM lemma="měšťanský">AAFS3----1A----</AM>
+<AM lemma="měšťanský">AAFS6----1A----</AM>
+<AM lemma="měšťanský">AAIP1----1A----</AM>
+<AM lemma="měšťanský">AAIP4----1A----</AM>
+<AM lemma="měšťanský">AAIP5----1A----</AM>
+<AM lemma="měšťanský">AAMP4----1A----</AM>
+<AM lemma="měšťanský">AANS1----1A----</AM>
+<AM lemma="měšťanský">AANS4----1A----</AM>
+<AM lemma="měšťanský">AANS5----1A----</AM>
+<AM lemma="měšťanský" src="auto" recommended="1">AAFS2----1A----</AM>
+</tag>
 </m>
 <m id="m009-d1t498-8">
 <w.rf>

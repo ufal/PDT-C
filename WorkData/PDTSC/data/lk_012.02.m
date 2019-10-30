@@ -5204,13 +5204,13 @@
 <w.rf>
 <LM>w#w-d1t1194-6</LM>
 </w.rf>
-<form>pátnáct</form>
-<tag lemma="pátnáct" src="auto">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>patnáct</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>patnáct</form>
+<tag>
+<AM lemma="patnáct`15">Cn-S4----------</AM>
+<AM lemma="patnáct`15">Cn-S5----------</AM>
+<AM lemma="patnáct`15" src="auto" recommended="1">Cn-S1----------</AM>
+</tag>
 </m>
 <m id="m012-d1t1194-7">
 <w.rf>

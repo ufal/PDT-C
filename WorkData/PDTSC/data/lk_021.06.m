@@ -595,18 +595,12 @@
 <w.rf>
 <LM>w#w-d1t2061-5</LM>
 </w.rf>
-<form>jedno</form>
+<form_change>spell</form_change>
+<form>jednoho</form>
 <tag>
-<AM lemma="jeden`1" src="auto">ClNS1----------</AM>
-<AM lemma="jeden`1" src="auto" recommended="1">ClNS4----------</AM>
-<AM lemma="jeden`1" src="auto">ClNS5----------</AM>
-<AM lemma="jedno" src="auto">Db-------------</AM>
+<AM lemma="jeden`1">ClZS2----------</AM>
+<AM lemma="jeden`1" src="auto" recommended="1">ClMS4----------</AM>
 </tag>
-<comment>
-<LM type="New Form">
-<text>jednoho</text>
-</LM>
-</comment>
 </m>
 <m id="m021-d1t2061-7">
 <w.rf>
@@ -1664,13 +1658,9 @@
 <w.rf>
 <LM>w#w-d1t2142-4</LM>
 </w.rf>
-<form>dvěřmi</form>
-<tag lemma="dvěřmi" src="auto">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>dveřmi</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>dveřmi</form>
+<tag lemma="dveře" src="auto" recommended="1">NNFP7-----A----</tag>
 </m>
 <m id="m021-d1e2128-x3-260">
 <w.rf>

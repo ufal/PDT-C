@@ -1245,13 +1245,14 @@
 <w.rf>
 <LM>w#w-id59253-10</LM>
 </w.rf>
-<form>Braunchweigu</form>
-<tag lemma="Braunchweigu" src="auto">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>Braunschweigu</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>Braunschweigu</form>
+<tag>
+<AM lemma="Braunschweig_;G">NNIS2-----A----</AM>
+<AM lemma="Braunschweig_;G">NNIS3-----A----</AM>
+<AM lemma="Braunschweig_;G">NNIS5-----A----</AM>
+<AM lemma="Braunschweig_;G" src="auto" recommended="1">NNIS6-----A----</AM>
+</tag>
 </m>
 <m id="m713-id58350-x32-611">
 <w.rf>

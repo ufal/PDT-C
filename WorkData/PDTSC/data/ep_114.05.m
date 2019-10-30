@@ -4442,13 +4442,9 @@
 <w.rf>
 <LM>w#w-d1t1579-9</LM>
 </w.rf>
-<form>pekně</form>
-<tag lemma="pekně" src="auto">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>pěkně</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>pěkně</form>
+<tag lemma="pěkně_^(*1ý)" src="auto" recommended="1">Dg-------1A----</tag>
 </m>
 <m id="m114-d1t1579-10">
 <w.rf>

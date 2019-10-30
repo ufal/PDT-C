@@ -2125,13 +2125,12 @@
 <w.rf>
 <LM>w#w-d1t872-22</LM>
 </w.rf>
-<form>monterkách</form>
-<tag lemma="monterkách" src="auto">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>montérkách</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>montérkách</form>
+<tag>
+<AM lemma="montérky">NNFP6-----A----</AM>
+<AM lemma="montérka_^(*2)" src="auto" recommended="1">NNFP6-----A----</AM>
+</tag>
 </m>
 <m id="m149-d-id96676-punct">
 <w.rf>
@@ -2739,13 +2738,14 @@
 <w.rf>
 <LM>w#w-d1t890-7</LM>
 </w.rf>
-<form>minořádného</form>
-<tag lemma="minořádného" src="auto">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>mimořádného</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>mimořádného</form>
+<tag>
+<AM lemma="mimořádný">AAIS2----1A----</AM>
+<AM lemma="mimořádný">AAMS2----1A----</AM>
+<AM lemma="mimořádný">AAMS4----1A----</AM>
+<AM lemma="mimořádný" src="auto" recommended="1">AANS2----1A----</AM>
+</tag>
 </m>
 <m id="m149-d1t890-3">
 <w.rf>

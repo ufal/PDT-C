@@ -197,13 +197,12 @@
 <w.rf>
 <LM>w#w-d1t2541-4</LM>
 </w.rf>
-<form>pracovnící</form>
-<tag lemma="pracovnící" src="auto">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>pracovníci</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>pracovníci</form>
+<tag>
+<AM lemma="pracovník">NNMP5-----A----</AM>
+<AM lemma="pracovník" src="auto" recommended="1">NNMP1-----A----</AM>
+</tag>
 </m>
 <m id="m028-d1t2541-6">
 <w.rf>

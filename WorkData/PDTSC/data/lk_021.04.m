@@ -1867,13 +1867,9 @@
 <w.rf>
 <LM>w#w-d1t1472-10</LM>
 </w.rf>
-<form>popovívat</form>
-<tag lemma="popovívat" src="auto">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>popovídat</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>popovídat</form>
+<tag lemma="popovídat_:W" src="auto" recommended="1">Vf--------A----</tag>
 </m>
 <m id="m021-d-m-d1e1467-x2-punct-punct">
 <w.rf>
@@ -3707,13 +3703,18 @@
 <w.rf>
 <LM>w#w-d1t1611-8</LM>
 </w.rf>
-<form>Agentiny</form>
-<tag lemma="Agentiny" src="auto">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>Argentiny</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>Argentiny</form>
+<tag>
+<AM lemma="Argentina_;G">NNFP1-----A----</AM>
+<AM lemma="Argentina_;G">NNFP4-----A----</AM>
+<AM lemma="Argentina_;G">NNFP5-----A----</AM>
+<AM lemma="argentina">NNFP1-----A----</AM>
+<AM lemma="argentina">NNFP4-----A----</AM>
+<AM lemma="argentina">NNFP5-----A----</AM>
+<AM lemma="argentina">NNFS2-----A----</AM>
+<AM lemma="Argentina_;G" src="auto" recommended="1">NNFS2-----A----</AM>
+</tag>
 </m>
 <m id="m021-d-id113343-punct">
 <w.rf>

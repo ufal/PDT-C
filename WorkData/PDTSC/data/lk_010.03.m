@@ -2217,13 +2217,13 @@
 <w.rf>
 <LM>w#w-d1t1287-5</LM>
 </w.rf>
-<form>Jarila</form>
-<tag lemma="Jarila" src="auto">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>Jarmila</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>Jarmila</form>
+<tag>
+<AM lemma="Jarmil_;Y">NNMS2-----A----</AM>
+<AM lemma="Jarmil_;Y">NNMS4-----A----</AM>
+<AM lemma="Jarmila_;Y" src="auto" recommended="1">NNFS1-----A----</AM>
+</tag>
 </m>
 <m id="m010-d1t1287-6">
 <w.rf>

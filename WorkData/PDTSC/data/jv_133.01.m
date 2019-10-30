@@ -377,13 +377,18 @@
 <w.rf>
 <LM>w#w-d1t274-4</LM>
 </w.rf>
-<form>vláky</form>
-<tag lemma="vláky" src="auto">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>války</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>války</form>
+<tag>
+<AM lemma="válek">NNIP1-----A----</AM>
+<AM lemma="válek">NNIP4-----A----</AM>
+<AM lemma="válek">NNIP5-----A----</AM>
+<AM lemma="válek">NNIP7-----A----</AM>
+<AM lemma="válka">NNFP1-----A----</AM>
+<AM lemma="válka">NNFP4-----A----</AM>
+<AM lemma="válka">NNFP5-----A----</AM>
+<AM lemma="válka" src="auto" recommended="1">NNFS2-----A----</AM>
+</tag>
 </m>
 <m id="m133-d1t274-5">
 <w.rf>

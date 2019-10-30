@@ -3957,12 +3957,10 @@
 <w.rf>
 <LM>w#w-d1e2244-x2-2376</LM>
 </w.rf>
-<form>být?</form>
-<tag lemma="být?" src="auto">X@-------------</tag>
+<form_change>spell</form_change>
+<form>být</form>
+<tag lemma="být" src="auto" recommended="1">Vf--------A----</tag>
 <comment>
-<LM type="New Form">
-<text>být</text>
-</LM>
 <LM type="Other">
 <text>2v1: být ?</text>
 </LM>

@@ -5542,13 +5542,23 @@
 <w.rf>
 <LM>w#w-1614-1958</LM>
 </w.rf>
-<form>Vojtěžské</form>
-<tag lemma="Vojtěžské" src="auto">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>Vojtěšské</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>Vojtěšské</form>
+<tag>
+<AM lemma="vojtěšský">AAFP1----1A----</AM>
+<AM lemma="vojtěšský">AAFP4----1A----</AM>
+<AM lemma="vojtěšský">AAFP5----1A----</AM>
+<AM lemma="vojtěšský">AAFS2----1A----</AM>
+<AM lemma="vojtěšský">AAFS3----1A----</AM>
+<AM lemma="vojtěšský">AAIP1----1A----</AM>
+<AM lemma="vojtěšský">AAIP4----1A----</AM>
+<AM lemma="vojtěšský">AAIP5----1A----</AM>
+<AM lemma="vojtěšský">AAMP4----1A----</AM>
+<AM lemma="vojtěšský">AANS1----1A----</AM>
+<AM lemma="vojtěšský">AANS4----1A----</AM>
+<AM lemma="vojtěšský">AANS5----1A----</AM>
+<AM lemma="vojtěšský" src="auto" recommended="1">AAFS6----1A----</AM>
+</tag>
 </m>
 <m id="m714-1614-1957">
 <w.rf>

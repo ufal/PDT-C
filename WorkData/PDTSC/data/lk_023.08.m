@@ -3699,13 +3699,15 @@
 <w.rf>
 <LM>w#w-d1t3142-8</LM>
 </w.rf>
-<form>něděli</form>
-<tag lemma="něděli" src="auto">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>neděli</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>neděli</form>
+<tag>
+<AM lemma="dít-1_^(dít_se)">VpMP---XR-NA---</AM>
+<AM lemma="dít-2_^(říkat)">VpMP---XR-NA---</AM>
+<AM lemma="neděle">NNFS3-----A----</AM>
+<AM lemma="neděle">NNFS6-----A----</AM>
+<AM lemma="neděle" src="auto" recommended="1">NNFS4-----A----</AM>
+</tag>
 </m>
 <m id="m023-d1t3142-9">
 <w.rf>

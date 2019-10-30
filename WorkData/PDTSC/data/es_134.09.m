@@ -2169,16 +2169,12 @@
 <w.rf>
 <LM>w#w-d1t1134-14</LM>
 </w.rf>
-<form>mě</form>
+<form_change>spell</form_change>
+<form>mně</form>
 <tag>
-<AM lemma="já" src="auto">PH-S2--1-------</AM>
-<AM lemma="já" src="auto" recommended="1">PH-S4--1-------</AM>
+<AM lemma="já">PP-S6--1-------</AM>
+<AM lemma="já" src="auto" recommended="1">PP-S3--1-------</AM>
 </tag>
-<comment>
-<LM type="New Form">
-<text>mně</text>
-</LM>
-</comment>
 </m>
 <m id="m134-d1t1134-16">
 <w.rf>

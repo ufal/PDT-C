@@ -734,13 +734,9 @@
 <w.rf>
 <LM>w#w-d1t969-3</LM>
 </w.rf>
-<form>1 000</form>
-<tag lemma="1 000" src="auto">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>1000</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>1000</form>
+<tag lemma="1000" src="auto" recommended="1">C=-------------</tag>
 </m>
 <m id="m981-d1t969-4">
 <w.rf>
@@ -1441,13 +1437,13 @@
 <w.rf>
 <LM>w#w-d1t1008-3</LM>
 </w.rf>
-<form>košér</form>
-<tag lemma="košér" src="auto">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>košer</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>košer</form>
+<tag>
+<AM lemma="košer-1_^(pokrm_vyhovující_předpisům_judaizmu)">NNIS1-----A----</AM>
+<AM lemma="košer-2_^(připravený_k_požívání_dle_předpisů_judaizmu)">Db-------------</AM>
+<AM lemma="košer-1_^(pokrm_vyhovující_předpisům_judaizmu)" src="auto" recommended="1">NNIS4-----A----</AM>
+</tag>
 </m>
 <m id="m981-d1e999-x2-11669">
 <w.rf>
@@ -1685,13 +1681,9 @@
 <w.rf>
 <LM>w#w-d1t1023-1</LM>
 </w.rf>
-<form>motlidbu</form>
-<tag lemma="motlidbu" src="auto">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>modlitbu</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>modlitbu</form>
+<tag lemma="modlitba" src="auto" recommended="1">NNFS4-----A----</tag>
 </m>
 <m id="m981-11672-11680">
 <w.rf>

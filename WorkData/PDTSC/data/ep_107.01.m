@@ -601,13 +601,9 @@
 <w.rf>
 <LM>w#w5-122</LM>
 </w.rf>
-<form>ohromě</form>
-<tag lemma="ohromit_:W" src="auto" recommended="1">VmYS------A---4</tag>
-<comment>
-<LM type="New Form">
-<text>ohromně</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>ohromně</form>
+<tag lemma="ohromně_^(*1ý)" src="auto" recommended="1">Dg-------1A----</tag>
 </m>
 <m id="a_tree-cs-s6-n74">
 <w.rf>

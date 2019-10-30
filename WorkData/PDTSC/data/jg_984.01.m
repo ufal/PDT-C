@@ -393,13 +393,9 @@
 <w.rf>
 <LM>w#w-d1t378-17</LM>
 </w.rf>
-<form>Klementis</form>
-<tag lemma="Klementis" src="auto">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>Clementis</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>Clementis</form>
+<tag lemma="Clementis_;S" src="auto" recommended="1">NNMS1-----A----</tag>
 </m>
 <m id="m984-d1t378-18">
 <w.rf>

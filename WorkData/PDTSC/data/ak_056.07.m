@@ -2721,13 +2721,9 @@
 <w.rf>
 <LM>w#w-d1t2162-2</LM>
 </w.rf>
-<form>Vírut</form>
-<tag lemma="Vírut" src="auto">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>Výrut</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>Výrut</form>
+<tag lemma="Výrut_;S" src="auto" recommended="1">NNMS1-----A----</tag>
 </m>
 <m id="m056-d-m-d1e2155-x2-punct-punct">
 <w.rf>

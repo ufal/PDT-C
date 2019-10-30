@@ -2913,13 +2913,12 @@
 <w.rf>
 <LM>w#w-d1t189-1</LM>
 </w.rf>
-<form>Pesah</form>
-<tag lemma="Pesah" src="auto">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>Pesach</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>Pesach</form>
+<tag>
+<AM lemma="pesach">NNIS1-----A----</AM>
+<AM lemma="pesach" src="auto" recommended="1">NNIS4-----A----</AM>
+</tag>
 </m>
 <m id="m911-d-id60504">
 <w.rf>

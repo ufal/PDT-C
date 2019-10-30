@@ -400,13 +400,9 @@
 <w.rf>
 <LM>w#w-d1t3102-8</LM>
 </w.rf>
-<form>konzervvu</form>
-<tag lemma="konzervvu" src="auto">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>konzervu</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>konzervu</form>
+<tag lemma="konzerva" src="auto" recommended="1">NNFS4-----A----</tag>
 </m>
 <m id="m053-d1t3102-9">
 <w.rf>
@@ -2575,13 +2571,9 @@
 <w.rf>
 <LM>w#w-d1t3215-5</LM>
 </w.rf>
-<form>5 000</form>
-<tag lemma="5 000" src="auto">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>5000</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>5000</form>
+<tag lemma="5000" src="auto" recommended="1">C=-------------</tag>
 </m>
 <m id="m053-d1t3215-7">
 <w.rf>
@@ -2786,13 +2778,9 @@
 <w.rf>
 <LM>w#w-d1t3235-5</LM>
 </w.rf>
-<form>10 000</form>
-<tag lemma="10 000" src="auto">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>10000</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>10000</form>
+<tag lemma="10000" src="auto" recommended="1">C=-------------</tag>
 </m>
 <m id="m053-d1t3235-7">
 <w.rf>

@@ -2870,13 +2870,9 @@
 <w.rf>
 <LM>w#w-d1t2039-3</LM>
 </w.rf>
-<form>nerozumněla</form>
-<tag lemma="nerozumněla" src="auto">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>nerozuměla</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>nerozuměla</form>
+<tag lemma="rozumět_:T" src="auto" recommended="1">VpQW---XR-NA---</tag>
 </m>
 <m id="m135-d1e2034-x3-712">
 <w.rf>

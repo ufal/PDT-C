@@ -1226,13 +1226,14 @@
 <w.rf>
 <LM>w#w-d1t1290-6</LM>
 </w.rf>
-<form>Babičino</form>
-<tag lemma="Babičino" src="auto">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>Babiččino</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>Babiččino</form>
+<tag>
+<AM lemma="babiččin_^(*3ka)">AUNS4F---------</AM>
+<AM lemma="babiččin_^(*3ka)">AUNS5F---------</AM>
+<AM lemma="babiččin_^(*3ka)">AUXXXF--------7</AM>
+<AM lemma="babiččin_^(*3ka)" src="auto" recommended="1">AUNS1F---------</AM>
+</tag>
 </m>
 <m id="m139-d1t1290-7">
 <w.rf>

@@ -5277,13 +5277,9 @@
 <w.rf>
 <LM>w#w-d1t1162-15</LM>
 </w.rf>
-<form>Úpně</form>
-<tag lemma="Úpně" src="auto">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>Úplně</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>Úplně</form>
+<tag lemma="úplně_^(*1ý)" src="auto" recommended="1">Dg-------1A----</tag>
 </m>
 <m id="m125-d1t1162-16">
 <w.rf>

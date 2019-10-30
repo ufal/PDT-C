@@ -1046,16 +1046,16 @@
 <w.rf>
 <LM>w#w-d1t90-5</LM>
 </w.rf>
-<form>Zábělí</form>
+<form_change>spell</form_change>
+<form>Zábělý</form>
 <tag>
-<AM lemma="Zábělí" src="auto">X@-------------</AM>
-<AM lemma="Zábělí_;G" src="manual">NNNS2-----A----</AM>
+<AM lemma="Zábělá_;G">NNFP1-----A---6</AM>
+<AM lemma="Zábělá_;G">NNFP4-----A---6</AM>
+<AM lemma="Zábělá_;G">NNFP5-----A---6</AM>
+<AM lemma="Zábělá_;G">NNFS3-----A---6</AM>
+<AM lemma="Zábělá_;G">NNFS6-----A---6</AM>
+<AM lemma="Zábělá_;G" src="auto" recommended="1">NNFS2-----A---6</AM>
 </tag>
-<comment>
-<LM type="New Form">
-<text>Zábělý</text>
-</LM>
-</comment>
 </m>
 <m id="m032-d1e81-x2-74">
 <w.rf>
@@ -2104,16 +2104,16 @@
 <w.rf>
 <LM>w#w-d1t190-14</LM>
 </w.rf>
-<form>Zábělí</form>
+<form_change>spell</form_change>
+<form>Zábělý</form>
 <tag>
-<AM lemma="Zábělí" src="auto">X@-------------</AM>
-<AM lemma="Zábělí_;G" src="manual">NNNS2-----A----</AM>
+<AM lemma="Zábělá_;G">NNFP1-----A---6</AM>
+<AM lemma="Zábělá_;G">NNFP4-----A---6</AM>
+<AM lemma="Zábělá_;G">NNFP5-----A---6</AM>
+<AM lemma="Zábělá_;G">NNFS3-----A---6</AM>
+<AM lemma="Zábělá_;G">NNFS6-----A---6</AM>
+<AM lemma="Zábělá_;G" src="auto" recommended="1">NNFS2-----A---6</AM>
 </tag>
-<comment>
-<LM type="New Form">
-<text>Zábělý</text>
-</LM>
-</comment>
 </m>
 <m id="m032-d1e185-x2-232">
 <w.rf>
@@ -2830,13 +2830,16 @@
 <w.rf>
 <LM>w#w-d1t239-15</LM>
 </w.rf>
-<form>Záběle</form>
-<tag lemma="záběl_,s" src="auto" recommended="1">NNIS5-----A----</tag>
-<comment>
-<LM type="New Form">
-<text>Zábělé</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>Zábělé</form>
+<tag>
+<AM lemma="Zábělá_;G">NNFP1-----A----</AM>
+<AM lemma="Zábělá_;G">NNFP4-----A----</AM>
+<AM lemma="Zábělá_;G">NNFP5-----A----</AM>
+<AM lemma="Zábělá_;G">NNFS2-----A----</AM>
+<AM lemma="Zábělá_;G">NNFS3-----A----</AM>
+<AM lemma="Zábělá_;G" src="auto" recommended="1">NNFS6-----A----</AM>
+</tag>
 </m>
 <m id="m032-d1t239-17">
 <w.rf>
@@ -3568,13 +3571,16 @@
 <w.rf>
 <LM>w#w-d1t292-6</LM>
 </w.rf>
-<form>Záběle</form>
-<tag lemma="záběl_,s" src="auto" recommended="1">NNIS5-----A----</tag>
-<comment>
-<LM type="New Form">
-<text>Zábělé</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>Zábělé</form>
+<tag>
+<AM lemma="Zábělá_;G">NNFP1-----A----</AM>
+<AM lemma="Zábělá_;G">NNFP4-----A----</AM>
+<AM lemma="Zábělá_;G">NNFP5-----A----</AM>
+<AM lemma="Zábělá_;G">NNFS2-----A----</AM>
+<AM lemma="Zábělá_;G">NNFS3-----A----</AM>
+<AM lemma="Zábělá_;G" src="auto" recommended="1">NNFS6-----A----</AM>
+</tag>
 </m>
 <m id="m032-d1t297-2">
 <w.rf>

@@ -2080,13 +2080,9 @@
 <w.rf>
 <LM>w#w-d1t3470-1</LM>
 </w.rf>
-<form>navštěvu</form>
-<tag lemma="navštěvu" src="auto">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>návštěvu</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>návštěvu</form>
+<tag lemma="návštěva" src="auto" recommended="1">NNFS4-----A----</tag>
 </m>
 <m id="m139-d1t3470-2">
 <w.rf>
@@ -2869,13 +2865,9 @@
 <w.rf>
 <LM>w#w-d1t3561-3</LM>
 </w.rf>
-<form>maželem</form>
-<tag lemma="maželem" src="auto">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>manželem</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>manželem</form>
+<tag lemma="manžel" src="auto" recommended="1">NNMS7-----A----</tag>
 </m>
 <m id="m139-d1t3565-1">
 <w.rf>
@@ -3405,18 +3397,12 @@
 <w.rf>
 <LM>w#w-d1t3617-5</LM>
 </w.rf>
-<form>Damme</form>
+<form_change>spell</form_change>
+<form>Dame</form>
 <tag>
-<AM lemma="Damm_;S" src="auto">NNMS5-----A----</AM>
-<AM lemma="Damme_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Damme_;S" src="auto">NNMS5-----A----</AM>
-<AM lemma="Damme_;S" src="auto">NNMXX-----A----</AM>
+<AM lemma="Dam_;S">NNMS5-----A----</AM>
+<AM lemma="Dame_;G_,t" src="auto" recommended="1">NNNXX-----A----</AM>
 </tag>
-<comment>
-<LM type="New Form">
-<text>Dame</text>
-</LM>
-</comment>
 </m>
 <m id="m139-288-350">
 <w.rf>
@@ -4166,13 +4152,9 @@
 <w.rf>
 <LM>w#w-d1t3716-8</LM>
 </w.rf>
-<form>napamatuji</form>
-<tag lemma="napamatuji" src="auto">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>nepamatuji</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>nepamatuji</form>
+<tag lemma="pamatovat_:T" src="auto" recommended="1">VB-S---1P-NA--1</tag>
 </m>
 <m id="m139-450-477">
 <w.rf>
@@ -4609,13 +4591,9 @@
 <w.rf>
 <LM>w#w-d1t3746-2</LM>
 </w.rf>
-<form>maželem</form>
-<tag lemma="maželem" src="auto">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>manželem</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>manželem</form>
+<tag lemma="manžel" src="auto" recommended="1">NNMS7-----A----</tag>
 </m>
 <m id="m139-d1t3746-3">
 <w.rf>

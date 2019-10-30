@@ -5466,13 +5466,9 @@
 <w.rf>
 <LM>w#w-d1t1397-8</LM>
 </w.rf>
-<form>dílnach</form>
-<tag lemma="dílnach" src="auto">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>dílnách</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>dílnách</form>
+<tag lemma="dílna" src="auto" recommended="1">NNFP6-----A----</tag>
 </m>
 <m id="m009-d1t1397-9">
 <w.rf>

@@ -3323,17 +3323,12 @@
 <w.rf>
 <LM>w#w-593-922</LM>
 </w.rf>
-<form>Kraslici</form>
+<form_change>spell</form_change>
+<form>Kraslicích</form>
 <tag>
-<AM lemma="kraslice" src="auto">NNFS3-----A----</AM>
-<AM lemma="kraslice" src="auto">NNFS4-----A----</AM>
-<AM lemma="kraslice" src="auto" recommended="1">NNFS6-----A----</AM>
+<AM lemma="Kraslice_;G">NNFP6-----A----</AM>
+<AM lemma="kraslice" src="auto" recommended="1">NNFP6-----A----</AM>
 </tag>
-<comment>
-<LM type="New Form">
-<text>Kraslicích</text>
-</LM>
-</comment>
 </m>
 <m id="m977-593-537">
 <w.rf>

@@ -508,13 +508,12 @@
 <w.rf>
 <LM>w#w-d1t1730-3</LM>
 </w.rf>
-<form>Američaní</form>
-<tag lemma="Američaní" src="auto">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>Američani</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>Američani</form>
+<tag>
+<AM lemma="Američan_;E">NNMP5-----A---1</AM>
+<AM lemma="Američan_;E" src="auto" recommended="1">NNMP1-----A---1</AM>
+</tag>
 </m>
 <m id="m006-d1t1730-5">
 <w.rf>

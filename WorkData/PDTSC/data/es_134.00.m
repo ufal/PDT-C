@@ -3851,16 +3851,12 @@
 <w.rf>
 <LM>w#w-d1t103-17</LM>
 </w.rf>
-<form>mě</form>
+<form_change>spell</form_change>
+<form>mně</form>
 <tag>
-<AM lemma="já" src="auto">PH-S2--1-------</AM>
-<AM lemma="já" src="auto" recommended="1">PH-S4--1-------</AM>
+<AM lemma="já">PP-S6--1-------</AM>
+<AM lemma="já" src="auto" recommended="1">PP-S3--1-------</AM>
 </tag>
-<comment>
-<LM type="New Form">
-<text>mně</text>
-</LM>
-</comment>
 </m>
 <m id="m134-d1t103-18">
 <w.rf>
@@ -4092,13 +4088,9 @@
 <w.rf>
 <LM>w#w-d1t103-46</LM>
 </w.rf>
-<form>nerozumněly</form>
-<tag lemma="nerozumněly" src="auto">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>nerozuměly</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>nerozuměly</form>
+<tag lemma="rozumět_:T" src="auto" recommended="1">VpTP---XR-NA---</tag>
 </m>
 <m id="m134-247-259">
 <w.rf>

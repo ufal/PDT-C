@@ -299,13 +299,12 @@
 <w.rf>
 <LM>w#w-d1t376-3</LM>
 </w.rf>
-<form>spolužíci</form>
-<tag lemma="spolužíci" src="auto">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>spolužáci</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>spolužáci</form>
+<tag>
+<AM lemma="spolužák">NNMP5-----A----</AM>
+<AM lemma="spolužák" src="auto" recommended="1">NNMP1-----A----</AM>
+</tag>
 </m>
 <m id="m148-312-336">
 <w.rf>
@@ -619,13 +618,23 @@
 <w.rf>
 <LM>w#w-d1e336-x3-356</LM>
 </w.rf>
-<form>čtvti</form>
-<tag lemma="čtvti" src="auto">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>čtvrti</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>čtvrti</form>
+<tag>
+<AM lemma="čtvrť_^(města)">NNFP1-----A---1</AM>
+<AM lemma="čtvrť_^(města)">NNFP4-----A---1</AM>
+<AM lemma="čtvrť_^(města)">NNFP5-----A---1</AM>
+<AM lemma="čtvrť_^(města)">NNFS3-----A----</AM>
+<AM lemma="čtvrť_^(města)">NNFS5-----A----</AM>
+<AM lemma="čtvrť_^(města)">NNFS6-----A----</AM>
+<AM lemma="čtvrt-2_^(čtvrtina)">NNFP1-----A---1</AM>
+<AM lemma="čtvrt-2_^(čtvrtina)">NNFP4-----A---1</AM>
+<AM lemma="čtvrt-2_^(čtvrtina)">NNFP5-----A---1</AM>
+<AM lemma="čtvrt-2_^(čtvrtina)">NNFS2-----A----</AM>
+<AM lemma="čtvrt-2_^(čtvrtina)">NNFS3-----A----</AM>
+<AM lemma="čtvrt-2_^(čtvrtina)">NNFS6-----A----</AM>
+<AM lemma="čtvrť_^(města)" src="auto" recommended="1">NNFS2-----A---1</AM>
+</tag>
 </m>
 <m id="m148-d1e336-x3-357">
 <w.rf>
@@ -5406,13 +5415,9 @@
 <w.rf>
 <LM>w#w-d1t772-4</LM>
 </w.rf>
-<form>1 300</form>
-<tag lemma="1 300" src="auto">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>1300</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>1300</form>
+<tag lemma="1300" src="auto" recommended="1">C=-------------</tag>
 </m>
 <m id="m148-d1t772-5">
 <w.rf>
@@ -5606,13 +5611,9 @@
 <w.rf>
 <LM>w#w-d1t805-2</LM>
 </w.rf>
-<form>Byly</form>
-<tag lemma="být" src="auto" recommended="1">VpTP---XR-AA---</tag>
-<comment>
-<LM type="New Form">
-<text>Byli</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>Byli</form>
+<tag lemma="být" src="auto" recommended="1">VpMP---XR-AA---</tag>
 </m>
 <m id="m148-d-id76493-punct">
 <w.rf>

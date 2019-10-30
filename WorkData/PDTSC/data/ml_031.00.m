@@ -2157,13 +2157,9 @@
 <w.rf>
 <LM>w#w-d1t212-2</LM>
 </w.rf>
-<form>sesta</form>
-<tag lemma="sesta" src="auto">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>sestra</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>sestra</form>
+<tag lemma="sestra" src="auto" recommended="1">NNFS1-----A----</tag>
 </m>
 <m id="m031-d1t212-11">
 <w.rf>

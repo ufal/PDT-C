@@ -1595,17 +1595,9 @@
 <w.rf>
 <LM>w#w-d1t940-7</LM>
 </w.rf>
-<form>tahle</form>
-<tag>
-<AM lemma="tenhle" src="auto">PDFS1----------</AM>
-<AM lemma="tenhle" src="auto">PDNP1----------</AM>
-<AM lemma="tenhle" src="auto" recommended="1">PDNP4----------</AM>
-</tag>
-<comment>
-<LM type="New Form">
-<text>takhle</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>takhle</form>
+<tag lemma="takhle" src="auto" recommended="1">Db-------------</tag>
 </m>
 <m id="m148-d1t940-8">
 <w.rf>
@@ -3667,13 +3659,9 @@
 <w.rf>
 <LM>w#w-d1t1098-1</LM>
 </w.rf>
-<form>1 150</form>
-<tag lemma="1 150" src="auto">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>1150</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>1150</form>
+<tag lemma="1150" src="auto" recommended="1">C=-------------</tag>
 </m>
 <m id="m148-d1t1098-3">
 <w.rf>
@@ -3734,13 +3722,8 @@
 <w.rf>
 <LM>w#w-d1t1109-3</LM>
 </w.rf>
-<form>trakorů</form>
-<tag lemma="trakorů" src="auto">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>traktorů</text>
-</LM>
-</comment>
+<form>traktorů</form>
+<tag lemma="traktor" src="auto" recommended="1">NNIP2-----A----</tag>
 </m>
 <m id="m148-d-id84687-punct">
 <w.rf>
@@ -3821,13 +3804,9 @@
 <w.rf>
 <LM>w#w-d1t1111-6</LM>
 </w.rf>
-<form>1 425</form>
-<tag lemma="1 425" src="auto">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>1425</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>1425</form>
+<tag lemma="1425" src="auto" recommended="1">C=-------------</tag>
 </m>
 <m id="m148-d1t1111-8">
 <w.rf>
@@ -4027,13 +4006,26 @@
 <w.rf>
 <LM>w#w-d1t1118-1</LM>
 </w.rf>
-<form>horzné</form>
-<tag lemma="horzné" src="auto">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>hrozné</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>hrozné</form>
+<tag>
+<AM lemma="hrozný">AAFP1----1A----</AM>
+<AM lemma="hrozný">AAFP4----1A----</AM>
+<AM lemma="hrozný">AAFP5----1A----</AM>
+<AM lemma="hrozný">AAFS2----1A----</AM>
+<AM lemma="hrozný">AAFS3----1A----</AM>
+<AM lemma="hrozný">AAFS6----1A----</AM>
+<AM lemma="hrozný">AAIP1----1A----</AM>
+<AM lemma="hrozný">AAIP4----1A----</AM>
+<AM lemma="hrozný">AAIP5----1A----</AM>
+<AM lemma="hrozný">AAMP4----1A----</AM>
+<AM lemma="hrozný">AANP1----1A---6</AM>
+<AM lemma="hrozný">AANP4----1A---6</AM>
+<AM lemma="hrozný">AANP5----1A---6</AM>
+<AM lemma="hrozný">AANS4----1A----</AM>
+<AM lemma="hrozný">AANS5----1A----</AM>
+<AM lemma="hrozný" src="auto" recommended="1">AANS1----1A----</AM>
+</tag>
 </m>
 <m id="m148-d-m-d1e1061-x4-punct-punct">
 <w.rf>
@@ -5216,13 +5208,16 @@
 <w.rf>
 <LM>w#w-d1t1199-5</LM>
 </w.rf>
-<form>kolektivitzace</form>
-<tag lemma="kolektivitzace" src="auto">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>kolektivizace</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>kolektivizace</form>
+<tag>
+<AM lemma="kolektivizace">NNFP1-----A----</AM>
+<AM lemma="kolektivizace">NNFP4-----A----</AM>
+<AM lemma="kolektivizace">NNFP5-----A----</AM>
+<AM lemma="kolektivizace">NNFS2-----A----</AM>
+<AM lemma="kolektivizace">NNFS5-----A----</AM>
+<AM lemma="kolektivizace" src="auto" recommended="1">NNFS1-----A----</AM>
+</tag>
 </m>
 <m id="m148-d1t1199-6">
 <w.rf>

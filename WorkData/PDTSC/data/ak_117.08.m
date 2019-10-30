@@ -2576,13 +2576,9 @@
 <w.rf>
 <LM>w#w-d1t2129-5</LM>
 </w.rf>
-<form>Camarque</form>
-<tag lemma="Camarque" src="auto">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>Camargue</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>Camargue</form>
+<tag lemma="Camargue_;G" src="auto" recommended="1">NNNXX-----A----</tag>
 </m>
 <m id="m117-d1e2124-x2-272">
 <w.rf>
@@ -2647,13 +2643,12 @@
 <w.rf>
 <LM>w#w-d1t2140-10</LM>
 </w.rf>
-<form>kamartský</form>
-<tag lemma="kamartský" src="auto">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>camargský</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>camargský</form>
+<tag>
+<AM lemma="camargský">X@-------------</AM>
+<AM lemma="camargský" src="auto" recommended="1">AAMS1----1A----</AM>
+</tag>
 </m>
 <m id="m117-d1t2138-1">
 <w.rf>
@@ -2999,13 +2994,9 @@
 <w.rf>
 <LM>w#w-d1t2146-10</LM>
 </w.rf>
-<form>Camarqueu</form>
-<tag lemma="Camarqueu" src="auto">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>Camargue</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>Camargue</form>
+<tag lemma="Camargue_;G" src="auto" recommended="1">NNNXX-----A----</tag>
 </m>
 <m id="m117-281-282">
 <w.rf>

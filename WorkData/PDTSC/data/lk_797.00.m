@@ -3489,13 +3489,9 @@
 <w.rf>
 <LM>w#w-1749-1761</LM>
 </w.rf>
-<form>Ábelec</form>
-<tag lemma="Ábelec" src="auto">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>Abeles</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>Abeles</form>
+<tag lemma="Abeles_;S" src="auto" recommended="1">NNMS1-----A----</tag>
 </m>
 <m id="m797-d1t153-1">
 <w.rf>
@@ -6015,13 +6011,9 @@
 <w.rf>
 <LM>w#w-d1t211-36</LM>
 </w.rf>
-<form>Muselman</form>
-<tag lemma="Muselman" src="auto">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>musulman</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>musulman</form>
+<tag lemma="musulman" src="auto" recommended="1">NNMS1-----A----</tag>
 </m>
 <m id="m797-d-id66220">
 <w.rf>
@@ -6043,13 +6035,12 @@
 <w.rf>
 <LM>w#w-d1t213-1</LM>
 </w.rf>
-<form>Muselmani</form>
-<tag lemma="Muselmani" src="auto">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>Musulmani</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>Musulmani</form>
+<tag>
+<AM lemma="musulman">NNMP5-----A---1</AM>
+<AM lemma="musulman" src="auto" recommended="1">NNMP1-----A---1</AM>
+</tag>
 </m>
 <m id="m797-d1e20-x24-893">
 <w.rf>
@@ -6217,13 +6208,9 @@
 <w.rf>
 <LM>w#w-d1t222-7</LM>
 </w.rf>
-<form>Muselman</form>
-<tag lemma="Muselman" src="auto">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>musulman</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>musulman</form>
+<tag lemma="musulman" src="auto" recommended="1">NNMS1-----A----</tag>
 </m>
 <m id="m797-d-id66516">
 <w.rf>

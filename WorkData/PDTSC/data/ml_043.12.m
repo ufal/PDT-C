@@ -997,13 +997,11 @@
 <w.rf>
 <LM>w#w-d1t3900-2</LM>
 </w.rf>
-<form>Portugala</form>
-<tag lemma="Portugala" src="auto">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>portugala</text>
-</LM>
-</comment>
+<form>portugala</form>
+<tag>
+<AM lemma="portugala">X@-------------</AM>
+<AM lemma="portugat_:T" src="auto" recommended="1">VpQW---XR-AA---</AM>
+</tag>
 </m>
 <m id="m043-291-316">
 <w.rf>
@@ -1022,13 +1020,12 @@
 <w.rf>
 <LM>w#w-d1t3909-2</LM>
 </w.rf>
-<form>Kabernet</form>
-<tag lemma="Kabernet" src="auto">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>cabernet</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>cabernet</form>
+<tag>
+<AM lemma="cabernet_^(druh_vína)">NNIS1-----A----</AM>
+<AM lemma="cabernet_^(druh_vína)" src="auto" recommended="1">NNIS4-----A----</AM>
+</tag>
 </m>
 <m id="m043-291-294">
 <w.rf>

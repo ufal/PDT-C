@@ -579,18 +579,12 @@
 <w.rf>
 <LM>w#w-d1e2198-x5-631</LM>
 </w.rf>
-<form>Propust</form>
+<form_change>spell</form_change>
+<form>Propusť</form>
 <tag>
-<AM lemma="propust" src="auto">NNFS1-----A----</AM>
-<AM lemma="propust" src="auto">NNFS4-----A----</AM>
-<AM lemma="propust" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="propust" src="auto">NNIS4-----A----</AM>
+<AM lemma="propustit">Vi-S---3--A---4</AM>
+<AM lemma="propustit" src="auto" recommended="1">Vi-S---2--A----</AM>
 </tag>
-<comment>
-<LM type="New Form">
-<text>Propusť</text>
-</LM>
-</comment>
 </m>
 <m id="m049-d1e2198-x5-630">
 <w.rf>
@@ -3896,13 +3890,9 @@
 <w.rf>
 <LM>w#w-d1t2421-2</LM>
 </w.rf>
-<form>Najedou</form>
-<tag lemma="najet" src="auto" recommended="1">VB-P---3P-AA---</tag>
-<comment>
-<LM type="New Form">
-<text>Najednou</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>Najednou</form>
+<tag lemma="najednou" src="auto" recommended="1">Db-------------</tag>
 </m>
 <m id="m049-d1t2421-3">
 <w.rf>

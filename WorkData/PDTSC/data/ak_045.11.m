@@ -1406,20 +1406,13 @@
 <w.rf>
 <LM>w#w-d1t2806-10</LM>
 </w.rf>
-<form>Daly</form>
+<form_change>spell</form_change>
+<form>Dali</form>
 <tag>
-<AM lemma="Dal_;Y" src="auto">NNMP4-----A----</AM>
-<AM lemma="Dal_;Y" src="auto">NNMP7-----A----</AM>
-<AM lemma="Daly_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Daly_;S" src="auto">NNMS5-----A----</AM>
-<AM lemma="Daly_;S" src="auto">NNMXX-----A----</AM>
-<AM lemma="dát" src="auto" recommended="1">VpTP---XR-AA---</AM>
+<AM lemma="Dali_;S">NNMS1-----A----</AM>
+<AM lemma="Dali_;S">NNMS5-----A----</AM>
+<AM lemma="dát" src="auto" recommended="1">VpMP---XR-AA---</AM>
 </tag>
-<comment>
-<LM type="New Form">
-<text>Dali</text>
-</LM>
-</comment>
 </m>
 <m id="m045-d1t2806-8">
 <w.rf>
@@ -3445,13 +3438,9 @@
 <w.rf>
 <LM>w#w-d1t2935-5</LM>
 </w.rf>
-<form>3 000</form>
-<tag lemma="3 000" src="auto">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>3000</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>3000</form>
+<tag lemma="3000" src="auto" recommended="1">C=-------------</tag>
 </m>
 <m id="m045-d1t2935-7">
 <w.rf>

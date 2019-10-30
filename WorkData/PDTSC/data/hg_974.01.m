@@ -3118,16 +3118,12 @@
 <w.rf>
 <LM>w#w-id59994-x1-2693</LM>
 </w.rf>
-<form>Samerkand</form>
+<form_change>spell</form_change>
+<form>Samarkand</form>
 <tag>
-<AM lemma="Samerkand" src="auto">X@-------------</AM>
-<AM lemma="Samerkand_;G" src="manual">NNIS1-----A----</AM>
+<AM lemma="Samarkand_;G">NNIS4-----A----</AM>
+<AM lemma="Samarkand_;G" src="auto" recommended="1">NNIS1-----A----</AM>
 </tag>
-<comment>
-<LM type="New Form">
-<text>Samarkand</text>
-</LM>
-</comment>
 </m>
 <m id="m974-id59994-x1-2697">
 <w.rf>

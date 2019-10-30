@@ -5907,20 +5907,19 @@
 <w.rf>
 <LM>w#w-d1t1416-7</LM>
 </w.rf>
-<form>Mamaji</form>
+<form_change>spell</form_change>
+<form>Mamaii</form>
 <tag>
-<AM lemma="Mamaj_;S" src="auto">NNMP1-----A----</AM>
-<AM lemma="Mamaj_;S" src="auto">NNMP5-----A----</AM>
-<AM lemma="Mamaj_;S" src="auto">NNMP7-----A----</AM>
-<AM lemma="Mamaj_;S" src="auto" recommended="1">NNMS3-----A----</AM>
-<AM lemma="Mamaj_;S" src="auto">NNMS5-----A----</AM>
-<AM lemma="Mamaj_;S" src="auto">NNMS6-----A----</AM>
+<AM lemma="Mamaia_;G">NNFP1-----A----</AM>
+<AM lemma="Mamaia_;G">NNFP4-----A----</AM>
+<AM lemma="Mamaia_;G">NNFP5-----A----</AM>
+<AM lemma="Mamaia_;G">NNFS3-----A---1</AM>
+<AM lemma="Mamaia_;G">NNFS6-----A---1</AM>
+<AM lemma="Mamaie_;G">NNFS3-----A----</AM>
+<AM lemma="Mamaie_;G">NNFS4-----A----</AM>
+<AM lemma="Mamaie_;G">NNFS6-----A----</AM>
+<AM lemma="Mamaia_;G" src="auto" recommended="1">NNFS2-----A----</AM>
 </tag>
-<comment>
-<LM type="New Form">
-<text>Mamaii</text>
-</LM>
-</comment>
 </m>
 <m id="m104-d-id181371-punct">
 <w.rf>

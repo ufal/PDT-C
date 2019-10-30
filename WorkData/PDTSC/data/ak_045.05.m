@@ -312,13 +312,12 @@
 <w.rf>
 <LM>w#w-d1t1375-10</LM>
 </w.rf>
-<form>koňák</form>
-<tag lemma="koňák_,h" src="auto" recommended="1">NNMS1-----A----</tag>
-<comment>
-<LM type="New Form">
-<text>koňak</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>koňak</form>
+<tag>
+<AM lemma="koňak">NNIS1-----A----</AM>
+<AM lemma="koňak" src="auto" recommended="1">NNIS4-----A----</AM>
+</tag>
 </m>
 <m id="m045-d-id97123-punct">
 <w.rf>

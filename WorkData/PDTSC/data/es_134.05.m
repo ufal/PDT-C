@@ -1374,13 +1374,9 @@
 <w.rf>
 <LM>w#w-d1t650-40</LM>
 </w.rf>
-<form>vrátilil</form>
-<tag lemma="vrátilil" src="auto">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>vrátili</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>vrátili</form>
+<tag lemma="vrátit_:W" src="auto" recommended="1">VpMP---XR-AA---</tag>
 </m>
 <m id="m134-d1t650-41">
 <w.rf>

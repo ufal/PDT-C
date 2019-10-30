@@ -2424,13 +2424,26 @@
 <w.rf>
 <LM>w#w-d1t1504-9</LM>
 </w.rf>
-<form>páte</form>
-<tag lemma="páte" src="auto">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>páté</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>páté</form>
+<tag>
+<AM lemma="pátý">CrFP1----------</AM>
+<AM lemma="pátý">CrFP4----------</AM>
+<AM lemma="pátý">CrFP5----------</AM>
+<AM lemma="pátý">CrFS2----------</AM>
+<AM lemma="pátý">CrFS3----------</AM>
+<AM lemma="pátý">CrIP1----------</AM>
+<AM lemma="pátý">CrIP4----------</AM>
+<AM lemma="pátý">CrIP5----------</AM>
+<AM lemma="pátý">CrMP4----------</AM>
+<AM lemma="pátý">CrNP1---------6</AM>
+<AM lemma="pátý">CrNP4---------6</AM>
+<AM lemma="pátý">CrNP5---------6</AM>
+<AM lemma="pátý">CrNS1----------</AM>
+<AM lemma="pátý">CrNS4----------</AM>
+<AM lemma="pátý">CrNS5----------</AM>
+<AM lemma="pátý" src="auto" recommended="1">CrFS6----------</AM>
+</tag>
 </m>
 <m id="m135-d1t1504-10">
 <w.rf>
@@ -6771,13 +6784,13 @@
 <w.rf>
 <LM>w#w-d1t1632-4</LM>
 </w.rf>
-<form>Ludovíku</form>
-<tag lemma="Ludovíku" src="auto">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>Ludvíku</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>Ludvíku</form>
+<tag>
+<AM lemma="Ludvík_;Y">NNMS5-----A----</AM>
+<AM lemma="Ludvík_;Y">NNMS6-----A---1</AM>
+<AM lemma="Ludvík_;Y" src="auto" recommended="1">NNMS3-----A---1</AM>
+</tag>
 </m>
 <m id="m135-d1t1632-5">
 <w.rf>

@@ -905,16 +905,9 @@
 <w.rf>
 <LM>w#w-d1t1659-1</LM>
 </w.rf>
-<form>Udržujte</form>
-<tag>
-<AM lemma="udržovat_:T" src="auto" recommended="1">Vi-P---2--A----</AM>
-<AM lemma="udržovat_:T" src="auto">Vi-P---3--A---4</AM>
-</tag>
-<comment>
-<LM type="New Form">
-<text>Udržujete</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>Udržujete</form>
+<tag lemma="udržovat_:T" src="auto" recommended="1">VB-P---2P-AA---</tag>
 </m>
 <m id="m119-d1t1659-2">
 <w.rf>

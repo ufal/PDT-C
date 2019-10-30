@@ -821,13 +821,14 @@
 <w.rf>
 <LM>w#w-d1t88-6</LM>
 </w.rf>
-<form>ranného</form>
-<tag lemma="ranného" src="auto">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>raného</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>raného</form>
+<tag>
+<AM lemma="raný">AAIS2----1A----</AM>
+<AM lemma="raný">AAMS2----1A----</AM>
+<AM lemma="raný">AAMS4----1A----</AM>
+<AM lemma="raný" src="auto" recommended="1">AANS2----1A----</AM>
+</tag>
 </m>
 <m id="m061-d1t88-7">
 <w.rf>

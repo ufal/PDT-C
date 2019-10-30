@@ -2776,16 +2776,12 @@
 <w.rf>
 <LM>w#w-d1t1764-7</LM>
 </w.rf>
-<form>přátele</form>
+<form_change>spell</form_change>
+<form>přátelé</form>
 <tag>
-<AM lemma="přátelit_:T" src="auto">VeYS------A----</AM>
-<AM lemma="přítel" src="auto" recommended="1">NNMP4-----A----</AM>
+<AM lemma="přítel">NNMP5-----A----</AM>
+<AM lemma="přítel" src="auto" recommended="1">NNMP1-----A----</AM>
 </tag>
-<comment>
-<LM type="New Form">
-<text>přátelé</text>
-</LM>
-</comment>
 </m>
 <m id="m106-d-id125620-punct">
 <w.rf>

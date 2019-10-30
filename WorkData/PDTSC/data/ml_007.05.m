@@ -5092,13 +5092,12 @@
 <w.rf>
 <LM>w#w-d1t1870-1</LM>
 </w.rf>
-<form>Deděček</form>
-<tag lemma="Deděček" src="auto">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>Dědeček</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>Dědeček</form>
+<tag>
+<AM lemma="Dědeček_;S">NNMS1-----A----</AM>
+<AM lemma="dědeček" src="auto" recommended="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m007-d1t1870-2">
 <w.rf>

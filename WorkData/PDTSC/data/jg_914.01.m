@@ -3291,13 +3291,9 @@
 <w.rf>
 <LM>w#w-d1t524-7</LM>
 </w.rf>
-<form>rozumněl</form>
-<tag lemma="rozumněl" src="auto">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>rozuměl</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>rozuměl</form>
+<tag lemma="rozumět_:T" src="auto" recommended="1">VpYS---XR-AA---</tag>
 </m>
 <m id="m914-d-id73849">
 <w.rf>

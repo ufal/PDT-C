@@ -1396,13 +1396,12 @@
 <w.rf>
 <LM>w#w-d1t3137-2</LM>
 </w.rf>
-<form>Kielsborn</form>
-<tag lemma="Kielsborn" src="auto">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>Kühlungsborn</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>Kühlungsborn</form>
+<tag>
+<AM lemma="Kühlungsborn">X@-------------</AM>
+<AM lemma="Kühlungsborn-99_:B_;S" src="auto" recommended="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m062-d1t3137-4">
 <w.rf>
@@ -3751,13 +3750,12 @@
 <w.rf>
 <LM>w#w-d1t3250-4</LM>
 </w.rf>
-<form>Kielsbornu</form>
-<tag lemma="Kielsbornu" src="auto">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>Kühlungsbornu</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>Kühlungsbornu</form>
+<tag>
+<AM lemma="Kühlungsbornu">X@-------------</AM>
+<AM lemma="Kühlungsborn" src="auto" recommended="1">NNIS2-----A----</AM>
+</tag>
 </m>
 <m id="m062-d-id182567-punct">
 <w.rf>

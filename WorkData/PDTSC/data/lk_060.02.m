@@ -696,13 +696,9 @@
 <w.rf>
 <LM>w#w-d1t519-4</LM>
 </w.rf>
-<form>vyfotografovám</form>
-<tag lemma="vyfotografovám" src="auto">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>vyfotografován</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>vyfotografován</form>
+<tag lemma="vyfotografovat_:W" src="auto" recommended="1">VsYS---XX-AP---</tag>
 </m>
 <m id="m060-d1t519-3">
 <w.rf>

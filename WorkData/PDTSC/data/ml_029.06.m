@@ -3890,25 +3890,16 @@
 <w.rf>
 <LM>w#w-d1t2137-9</LM>
 </w.rf>
-<form>byli</form>
-<tag lemma="být" src="auto" recommended="1">VpMP---XR-AA---</tag>
-<comment>
-<LM type="New Form">
-<text>byly</text>
-</LM>
-</comment>
+<form>byly</form>
+<tag lemma="být" src="auto" recommended="1">VpTP---XR-AA---</tag>
 </m>
 <m id="m029-d1t2137-10">
 <w.rf>
 <LM>w#w-d1t2137-10</LM>
 </w.rf>
-<form>zdrávi</form>
-<tag lemma="zdravý" src="auto" recommended="1">ACMP------A----</tag>
-<comment>
-<LM type="New Form">
-<text>zdrávy</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>zdrávy</form>
+<tag lemma="zdravý" src="auto" recommended="1">ACTP------A----</tag>
 </m>
 <m id="m029-d1e2130-x2-47">
 <w.rf>

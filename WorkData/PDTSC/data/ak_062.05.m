@@ -1629,19 +1629,12 @@
 <w.rf>
 <LM>w#w-d1t1160-12</LM>
 </w.rf>
-<form>ní</form>
+<form_change>spell</form_change>
+<form>ni</form>
 <tag>
-<AM lemma="on-1" src="auto">P5FS2--3-------</AM>
-<AM lemma="on-1" src="auto">P5FS3--3-------</AM>
-<AM lemma="on-1" src="auto">P5FS4--3------6</AM>
-<AM lemma="on-1" src="auto" recommended="1">P5FS6--3-------</AM>
-<AM lemma="on-1" src="auto">P5FS7--3-------</AM>
+<AM lemma="ni_,a">J^-------------</AM>
+<AM lemma="on-1" src="auto" recommended="1">P5FS4--3-------</AM>
 </tag>
-<comment>
-<LM type="New Form">
-<text>ni</text>
-</LM>
-</comment>
 </m>
 <m id="m062-d1t1160-14">
 <w.rf>
@@ -2528,13 +2521,9 @@
 <w.rf>
 <LM>w#w-d1t1226-5</LM>
 </w.rf>
-<form>byli</form>
-<tag lemma="být" src="auto" recommended="1">VpMP---XR-AA---</tag>
-<comment>
-<LM type="New Form">
-<text>byly</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>byly</form>
+<tag lemma="být" src="auto" recommended="1">VpTP---XR-AA---</tag>
 </m>
 <m id="m062-d1t1226-6">
 <w.rf>
@@ -3353,13 +3342,9 @@
 <w.rf>
 <LM>w#w-d1t1258-4</LM>
 </w.rf>
-<form>rosvítily</form>
-<tag lemma="rosvítily" src="auto">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>rozsvítily</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>rozsvítily</form>
+<tag lemma="rozsvítit_:W" src="auto" recommended="1">VpTP---XR-AA---</tag>
 </m>
 <m id="m062-d1t1258-3">
 <w.rf>

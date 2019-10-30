@@ -525,13 +525,12 @@
 <w.rf>
 <LM>w#w-d1t38-1</LM>
 </w.rf>
-<form>Ješte</form>
-<tag lemma="Ješte" src="auto">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>Ještě</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>Ještě</form>
+<tag>
+<AM lemma="ještě-2">TT-------------</AM>
+<AM lemma="ještě-1" src="auto" recommended="1">Db-------------</AM>
+</tag>
 </m>
 <m id="m107-d1t38-2">
 <w.rf>

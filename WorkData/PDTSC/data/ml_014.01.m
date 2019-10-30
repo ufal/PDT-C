@@ -4955,13 +4955,33 @@
 <w.rf>
 <LM>w#w-d1t709-11</LM>
 </w.rf>
-<form>Štedrý</form>
-<tag lemma="Štedrý" src="auto">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>Štědrý</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>Štědrý</form>
+<tag>
+<AM lemma="štědrý">AAFP1----1A---6</AM>
+<AM lemma="štědrý">AAFP4----1A---6</AM>
+<AM lemma="štědrý">AAFP5----1A---6</AM>
+<AM lemma="štědrý">AAFS2----1A---6</AM>
+<AM lemma="štědrý">AAFS3----1A---6</AM>
+<AM lemma="štědrý">AAFS6----1A---6</AM>
+<AM lemma="štědrý">AAIP1----1A---6</AM>
+<AM lemma="štědrý">AAIP4----1A---6</AM>
+<AM lemma="štědrý">AAIP5----1A---6</AM>
+<AM lemma="štědrý">AAIS1----1A----</AM>
+<AM lemma="štědrý">AAIS5----1A----</AM>
+<AM lemma="štědrý">AAMP1----1A---6</AM>
+<AM lemma="štědrý">AAMP4----1A---6</AM>
+<AM lemma="štědrý">AAMP5----1A---6</AM>
+<AM lemma="štědrý">AAMS1----1A----</AM>
+<AM lemma="štědrý">AAMS5----1A----</AM>
+<AM lemma="štědrý">AANP1----1A---6</AM>
+<AM lemma="štědrý">AANP4----1A---6</AM>
+<AM lemma="štědrý">AANP5----1A---6</AM>
+<AM lemma="štědrý">AANS1----1A---6</AM>
+<AM lemma="štědrý">AANS4----1A---6</AM>
+<AM lemma="štědrý">AANS5----1A---6</AM>
+<AM lemma="štědrý" src="auto" recommended="1">AAIS4----1A----</AM>
+</tag>
 </m>
 <m id="m014-d1t709-12">
 <w.rf>

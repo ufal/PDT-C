@@ -1200,13 +1200,9 @@
 <w.rf>
 <LM>w#w-d1t2202-11</LM>
 </w.rf>
-<form>módistka</form>
-<tag lemma="módistka" src="auto">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>modistka</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>modistka</form>
+<tag lemma="modistka_^(*2a)" src="auto" recommended="1">NNFS1-----A----</tag>
 </m>
 <m id="m110-88-95">
 <w.rf>

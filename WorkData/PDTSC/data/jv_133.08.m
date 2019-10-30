@@ -3312,13 +3312,13 @@
 <w.rf>
 <LM>w#w-d1t2381-2</LM>
 </w.rf>
-<form>dysleksii</form>
-<tag lemma="dysleksii" src="auto">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>dyslexii</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>dyslexii</form>
+<tag>
+<AM lemma="dyslexie">NNFS4-----A----</AM>
+<AM lemma="dyslexie">NNFS6-----A----</AM>
+<AM lemma="dyslexie" src="auto" recommended="1">NNFS3-----A----</AM>
+</tag>
 </m>
 <m id="m133-d1t2381-4">
 <w.rf>

@@ -4846,16 +4846,15 @@
 <w.rf>
 <LM>w#w-d1t2432-18</LM>
 </w.rf>
-<form>Mangale</form>
+<form_change>spell</form_change>
+<form>Mangalie</form>
 <tag>
-<AM lemma="mangala_;u" src="auto" recommended="1">NNFS3-----A----</AM>
-<AM lemma="mangala_;u" src="auto">NNFS6-----A----</AM>
+<AM lemma="Mangalia_;G">NNFP1-----A----</AM>
+<AM lemma="Mangalia_;G">NNFP4-----A----</AM>
+<AM lemma="Mangalia_;G">NNFP5-----A----</AM>
+<AM lemma="Mangalia_;G">NNFS5-----A----</AM>
+<AM lemma="Mangalia_;G" src="auto" recommended="1">NNFS2-----A----</AM>
 </tag>
-<comment>
-<LM type="New Form">
-<text>Mangalie</text>
-</LM>
-</comment>
 </m>
 <m id="m033-d-id139865-punct">
 <w.rf>

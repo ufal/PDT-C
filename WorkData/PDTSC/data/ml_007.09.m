@@ -2292,13 +2292,9 @@
 <w.rf>
 <LM>w#w-d1t2757-5</LM>
 </w.rf>
-<form>němel</form>
-<tag lemma="němel" src="auto">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>neměl</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>neměl</form>
+<tag lemma="mít" src="auto" recommended="1">VpYS---XR-NA---</tag>
 </m>
 <m id="m007-d1t2757-6">
 <w.rf>
@@ -5047,13 +5043,12 @@
 <w.rf>
 <LM>w#w-d1t2886-9</LM>
 </w.rf>
-<form>zajdění</form>
-<tag lemma="zajdění" src="auto">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>zajdení</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>zajdení</form>
+<tag>
+<AM lemma="zajdení">X@-------------</AM>
+<AM lemma="zajdení_^(*3it)" src="auto" recommended="1">NNNS4-----A----</AM>
+</tag>
 </m>
 <m id="m007-d1t2886-10">
 <w.rf>

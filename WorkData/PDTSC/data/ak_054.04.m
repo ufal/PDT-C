@@ -5292,24 +5292,12 @@
 <w.rf>
 <LM>w#w-d1t1139-7</LM>
 </w.rf>
-<form>náboženství</form>
+<form_change>spell</form_change>
+<form>náboženstvím</form>
 <tag>
-<AM lemma="náboženství" src="auto">NNNP1-----A----</AM>
-<AM lemma="náboženství" src="auto">NNNP2-----A----</AM>
-<AM lemma="náboženství" src="auto">NNNP4-----A----</AM>
-<AM lemma="náboženství" src="auto">NNNP5-----A----</AM>
-<AM lemma="náboženství" src="auto">NNNS1-----A----</AM>
-<AM lemma="náboženství" src="auto" recommended="1">NNNS2-----A----</AM>
-<AM lemma="náboženství" src="auto">NNNS3-----A----</AM>
-<AM lemma="náboženství" src="auto">NNNS4-----A----</AM>
-<AM lemma="náboženství" src="auto">NNNS5-----A----</AM>
-<AM lemma="náboženství" src="auto">NNNS6-----A----</AM>
+<AM lemma="náboženství">NNNP3-----A----</AM>
+<AM lemma="náboženství" src="auto" recommended="1">NNNS7-----A----</AM>
 </tag>
-<comment>
-<LM type="New Form">
-<text>náboženstvím</text>
-</LM>
-</comment>
 </m>
 <m id="m054-d1t1139-3">
 <w.rf>

@@ -1678,13 +1678,26 @@
 <w.rf>
 <LM>w#w-d1t2535-4</LM>
 </w.rf>
-<form>čtrvté</form>
-<tag lemma="čtrvté" src="auto">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>čtvrté</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>čtvrté</form>
+<tag>
+<AM lemma="čtvrtý">CrFP1----------</AM>
+<AM lemma="čtvrtý">CrFP4----------</AM>
+<AM lemma="čtvrtý">CrFP5----------</AM>
+<AM lemma="čtvrtý">CrFS2----------</AM>
+<AM lemma="čtvrtý">CrFS3----------</AM>
+<AM lemma="čtvrtý">CrIP1----------</AM>
+<AM lemma="čtvrtý">CrIP4----------</AM>
+<AM lemma="čtvrtý">CrIP5----------</AM>
+<AM lemma="čtvrtý">CrMP4----------</AM>
+<AM lemma="čtvrtý">CrNP1---------6</AM>
+<AM lemma="čtvrtý">CrNP4---------6</AM>
+<AM lemma="čtvrtý">CrNP5---------6</AM>
+<AM lemma="čtvrtý">CrNS1----------</AM>
+<AM lemma="čtvrtý">CrNS4----------</AM>
+<AM lemma="čtvrtý">CrNS5----------</AM>
+<AM lemma="čtvrtý" src="auto" recommended="1">CrFS6----------</AM>
+</tag>
 </m>
 <m id="m039-d1t2535-5">
 <w.rf>
@@ -2124,13 +2137,9 @@
 <w.rf>
 <LM>w#w-d1t2569-1</LM>
 </w.rf>
-<form>čtyřirát</form>
-<tag lemma="čtyřirát" src="auto">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>čtyřikrát</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>čtyřikrát</form>
+<tag lemma="čtyřikrát`4" src="auto" recommended="1">Cv-------------</tag>
 </m>
 <m id="m039-d1t2569-2">
 <w.rf>
@@ -2523,13 +2532,9 @@
 <w.rf>
 <LM>w#w-d1t2595-5</LM>
 </w.rf>
-<form>Čtyřikrátkrát</form>
-<tag lemma="Čtyřikrátkrát" src="auto">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>Čtyřikrát</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>Čtyřikrát</form>
+<tag lemma="čtyřikrát`4" src="auto" recommended="1">Cv-------------</tag>
 </m>
 <m id="m039-d1t2595-6">
 <w.rf>
@@ -2726,13 +2731,16 @@
 <w.rf>
 <LM>w#w-d1t2614-2</LM>
 </w.rf>
-<form>Hlavně </form>
-<tag lemma="Hlavně" src="auto">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>Hlavně</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>Hlavně</form>
+<tag>
+<AM lemma="Hlavno_;G">NNNS6-----A----</AM>
+<AM lemma="hlaveň">NNFP1-----A----</AM>
+<AM lemma="hlaveň">NNFP4-----A----</AM>
+<AM lemma="hlaveň">NNFP5-----A----</AM>
+<AM lemma="hlaveň">NNFS2-----A----</AM>
+<AM lemma="hlavně_^(*1í)" src="auto" recommended="1">Dg-------1A----</AM>
+</tag>
 </m>
 <m id="m039-d1t2612-3">
 <w.rf>
@@ -5617,13 +5625,9 @@
 <w.rf>
 <LM>w#w-d1t2786-10</LM>
 </w.rf>
-<form>denodenně</form>
-<tag lemma="denodenně" src="auto">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>dennodenně</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>dennodenně</form>
+<tag lemma="dennodenně_^(*1í)" src="auto" recommended="1">Dg-------1A----</tag>
 </m>
 <m id="m039-d1t2786-11">
 <w.rf>

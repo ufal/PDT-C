@@ -1449,13 +1449,15 @@
 <w.rf>
 <LM>w#w-d1t2441-6</LM>
 </w.rf>
-<form>čyřletá</form>
-<tag lemma="čyřletá" src="auto">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>čtyřletá</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>čtyřletá</form>
+<tag>
+<AM lemma="čtyřletý">AAFS5----1A----</AM>
+<AM lemma="čtyřletý">AANP1----1A----</AM>
+<AM lemma="čtyřletý">AANP4----1A----</AM>
+<AM lemma="čtyřletý">AANP5----1A----</AM>
+<AM lemma="čtyřletý" src="auto" recommended="1">AAFS1----1A----</AM>
+</tag>
 </m>
 <m id="m110-d1e2438-x2-145">
 <w.rf>

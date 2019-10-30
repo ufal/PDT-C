@@ -2194,17 +2194,9 @@
 <w.rf>
 <LM>w#w-d1t956-7</LM>
 </w.rf>
-<form>Strašice</form>
-<tag>
-<AM lemma="Strašice_;G" src="auto" recommended="1">NNFP1-----A----</AM>
-<AM lemma="Strašice_;G" src="auto">NNFP4-----A----</AM>
-<AM lemma="Strašice_;G" src="auto">NNFP5-----A----</AM>
-</tag>
-<comment>
-<LM type="New Form">
-<text>Strašic</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>Strašic</form>
+<tag lemma="Strašice_;G" src="auto" recommended="1">NNFP2-----A----</tag>
 </m>
 <m id="m009-d1t956-9">
 <w.rf>

@@ -3457,24 +3457,9 @@
 <w.rf>
 <LM>w#w-d1t141-6</LM>
 </w.rf>
-<form>považování</form>
-<tag>
-<AM lemma="považování_^(*3at)" src="auto">NNNP1-----A----</AM>
-<AM lemma="považování_^(*3at)" src="auto">NNNP2-----A----</AM>
-<AM lemma="považování_^(*3at)" src="auto">NNNP4-----A----</AM>
-<AM lemma="považování_^(*3at)" src="auto">NNNP5-----A----</AM>
-<AM lemma="považování_^(*3at)" src="auto">NNNS1-----A----</AM>
-<AM lemma="považování_^(*3at)" src="auto" recommended="1">NNNS2-----A----</AM>
-<AM lemma="považování_^(*3at)" src="auto">NNNS3-----A----</AM>
-<AM lemma="považování_^(*3at)" src="auto">NNNS4-----A----</AM>
-<AM lemma="považování_^(*3at)" src="auto">NNNS5-----A----</AM>
-<AM lemma="považování_^(*3at)" src="auto">NNNS6-----A----</AM>
-</tag>
-<comment>
-<LM type="New Form">
-<text>považováni</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>považováni</form>
+<tag lemma="považovat_:T" src="auto" recommended="1">VsMP---XX-AP---</tag>
 </m>
 <m id="m118-d-id61178-punct">
 <w.rf>

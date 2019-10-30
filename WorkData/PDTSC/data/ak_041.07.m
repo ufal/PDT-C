@@ -5081,13 +5081,12 @@
 <w.rf>
 <LM>w#w-d1t2647-6</LM>
 </w.rf>
-<form>salicil</form>
-<tag lemma="salicil" src="auto">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>salicyl</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>salicyl</form>
+<tag>
+<AM lemma="salicyl">NNIS1-----A----</AM>
+<AM lemma="salicyl" src="auto" recommended="1">NNIS4-----A----</AM>
+</tag>
 </m>
 <m id="m041-403-404">
 <w.rf>

@@ -2097,13 +2097,9 @@
 <w.rf>
 <LM>w#w-d1t154-2</LM>
 </w.rf>
-<form>setrou</form>
-<tag lemma="setřít_,a_,x" src="auto" recommended="1">VB-P---3P-AA---</tag>
-<comment>
-<LM type="New Form">
-<text>sestrou</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>sestrou</form>
+<tag lemma="sestra" src="auto" recommended="1">NNFS7-----A----</tag>
 </m>
 <m id="m009-d1t154-4">
 <w.rf>

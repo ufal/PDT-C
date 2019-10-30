@@ -2651,13 +2651,9 @@
 <w.rf>
 <LM>w#w-d1t536-4</LM>
 </w.rf>
-<form>chodili</form>
-<tag lemma="chodit_:T" src="auto" recommended="1">VpMP---XR-AA---</tag>
-<comment>
-<LM type="New Form">
-<text>chodily</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>chodily</form>
+<tag lemma="chodit_:T" src="auto" recommended="1">VpTP---XR-AA---</tag>
 </m>
 <m id="m037-d1t536-5">
 <w.rf>

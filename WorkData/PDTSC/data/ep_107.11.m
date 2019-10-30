@@ -878,13 +878,12 @@
 <w.rf>
 <LM>w#w-d1t2035-14</LM>
 </w.rf>
-<form>žiovt</form>
-<tag lemma="žiovt" src="auto">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>život</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>život</form>
+<tag>
+<AM lemma="život">NNIS1-----A----</AM>
+<AM lemma="život" src="auto" recommended="1">NNIS4-----A----</AM>
+</tag>
 </m>
 <m id="m107-d1e2032-x2-506">
 <w.rf>

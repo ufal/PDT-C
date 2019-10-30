@@ -691,13 +691,20 @@
 <w.rf>
 <LM>w#w-d1t720-28</LM>
 </w.rf>
-<form>kamarádstvé</form>
-<tag lemma="kamarádstvé" src="auto">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>kamarádství</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>kamarádství</form>
+<tag>
+<AM lemma="kamarádství">NNNP1-----A----</AM>
+<AM lemma="kamarádství">NNNP2-----A----</AM>
+<AM lemma="kamarádství">NNNP4-----A----</AM>
+<AM lemma="kamarádství">NNNP5-----A----</AM>
+<AM lemma="kamarádství">NNNS2-----A----</AM>
+<AM lemma="kamarádství">NNNS3-----A----</AM>
+<AM lemma="kamarádství">NNNS4-----A----</AM>
+<AM lemma="kamarádství">NNNS5-----A----</AM>
+<AM lemma="kamarádství">NNNS6-----A----</AM>
+<AM lemma="kamarádství" src="auto" recommended="1">NNNS1-----A----</AM>
+</tag>
 </m>
 <m id="m122-d-m-d1e711-x2-punct-punct">
 <w.rf>
@@ -2659,13 +2666,15 @@
 <w.rf>
 <LM>w#w-d1t849-7</LM>
 </w.rf>
-<form>zajimavá</form>
-<tag lemma="zajimavá" src="auto">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>zajímavá</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>zajímavá</form>
+<tag>
+<AM lemma="zajímavý">AAFS1----1A----</AM>
+<AM lemma="zajímavý">AAFS5----1A----</AM>
+<AM lemma="zajímavý">AANP1----1A----</AM>
+<AM lemma="zajímavý">AANP5----1A----</AM>
+<AM lemma="zajímavý" src="auto" recommended="1">AANP4----1A----</AM>
+</tag>
 </m>
 <m id="m122-d1t849-6">
 <w.rf>

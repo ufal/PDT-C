@@ -410,13 +410,12 @@
 <w.rf>
 <LM>w#w-d1t1586-4</LM>
 </w.rf>
-<form>Hornát</form>
-<tag lemma="Hornát_;S" src="auto" recommended="1">NNMS1-----A----</tag>
-<comment>
-<LM type="New Form">
-<text>Hornád</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>Hornád</form>
+<tag>
+<AM lemma="Hornád_;G_^(řeka)">NNIS4-----A----</AM>
+<AM lemma="Hornád_;G_^(řeka)" src="auto" recommended="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m045-d1t1588-3">
 <w.rf>

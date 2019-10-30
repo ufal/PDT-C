@@ -1419,13 +1419,9 @@
 <w.rf>
 <LM>w#w-d1t116-4</LM>
 </w.rf>
-<form>neměli</form>
-<tag lemma="mít" src="auto" recommended="1">VpMP---XR-NA---</tag>
-<comment>
-<LM type="New Form">
-<text>neměly</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>neměly</form>
+<tag lemma="mít" src="auto" recommended="1">VpTP---XR-NA---</tag>
 </m>
 <m id="m944-d1t114-2">
 <w.rf>

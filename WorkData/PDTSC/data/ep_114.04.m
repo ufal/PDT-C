@@ -1023,13 +1023,9 @@
 <w.rf>
 <LM>w#w-d1t1151-5</LM>
 </w.rf>
-<form>Pováděla</form>
-<tag lemma="Pováděla" src="auto">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>Prováděla</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>Prováděla</form>
+<tag lemma="provádět_:T" src="auto" recommended="1">VpQW---XR-AA---</tag>
 </m>
 <m id="m114-d1t1151-6">
 <w.rf>

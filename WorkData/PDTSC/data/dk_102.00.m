@@ -1290,13 +1290,12 @@
 <w.rf>
 <LM>w#w-d1t123-3</LM>
 </w.rf>
-<form>konrétně</form>
-<tag lemma="konrétně" src="auto">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>konkrétně</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>konkrétně</form>
+<tag>
+<AM lemma="konkrétno">NNNS6-----A----</AM>
+<AM lemma="konkrétně_^(*1í)" src="auto" recommended="1">Dg-------1A----</AM>
+</tag>
 </m>
 <m id="m102-d-id57477-punct">
 <w.rf>

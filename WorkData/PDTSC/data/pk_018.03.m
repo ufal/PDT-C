@@ -3005,13 +3005,12 @@
 <w.rf>
 <LM>w#w-d1t859-8</LM>
 </w.rf>
-<form>Vajzovně</form>
-<tag lemma="Vajzovně" src="auto">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>Vajsovně</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>Vajsovně</form>
+<tag>
+<AM lemma="Vajsovna">NNFS3-----A----</AM>
+<AM lemma="Vajsovna" src="auto" recommended="1">NNFS6-----A----</AM>
+</tag>
 </m>
 <m id="m018-d1t859-2">
 <w.rf>

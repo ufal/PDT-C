@@ -229,13 +229,9 @@
 <w.rf>
 <LM>w#w-d1t409-3</LM>
 </w.rf>
-<form>deděček</form>
-<tag lemma="deděček" src="auto">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>dědeček</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>dědeček</form>
+<tag lemma="dědeček" src="auto" recommended="1">NNMS1-----A----</tag>
 </m>
 <m id="m007-d1t409-11">
 <w.rf>

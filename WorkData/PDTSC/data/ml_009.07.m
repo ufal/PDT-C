@@ -176,16 +176,14 @@
 <w.rf>
 <LM>w#w-d1t1990-16</LM>
 </w.rf>
-<form>kamarádí</form>
+<form_change>spell</form_change>
+<form>kamarádi</form>
 <tag>
-<AM lemma="kamarádit_:T" src="auto">VB-P---3P-AA---</AM>
-<AM lemma="kamarádit_:T" src="auto" recommended="1">VB-S---3P-AA---</AM>
+<AM lemma="kamarád">NNMP5-----A---1</AM>
+<AM lemma="kamarádit">Vi-S---2--A----</AM>
+<AM lemma="kamarádit">Vi-S---3--A---4</AM>
+<AM lemma="kamarád" src="auto" recommended="1">NNMP1-----A---1</AM>
 </tag>
-<comment>
-<LM type="New Form">
-<text>kamarádi</text>
-</LM>
-</comment>
 </m>
 <m id="m009-d1t1990-17">
 <w.rf>

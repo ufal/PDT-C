@@ -1965,13 +1965,14 @@
 <w.rf>
 <LM>w#w-d1t1286-5</LM>
 </w.rf>
-<form>jazky</form>
-<tag lemma="jazky" src="auto">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>jazyky</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>jazyky</form>
+<tag>
+<AM lemma="jazyk">NNIP1-----A----</AM>
+<AM lemma="jazyk">NNIP5-----A----</AM>
+<AM lemma="jazyk">NNIP7-----A----</AM>
+<AM lemma="jazyk" src="auto" recommended="1">NNIP4-----A----</AM>
+</tag>
 </m>
 <m id="m106-d-id105264-punct">
 <w.rf>
@@ -3435,13 +3436,12 @@
 <w.rf>
 <LM>w#w-d1t1353-12</LM>
 </w.rf>
-<form>Modiglianyho</form>
-<tag lemma="Modiglianyho" src="auto">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>Modiglianiho</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>Modiglianiho</form>
+<tag>
+<AM lemma="Modigliani_;S">NNMS4-----A----</AM>
+<AM lemma="Modigliani_;S" src="auto" recommended="1">NNMS2-----A----</AM>
+</tag>
 </m>
 <m id="m106-d-m-d1e1346-x2-punct-punct">
 <w.rf>

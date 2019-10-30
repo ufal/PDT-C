@@ -3262,13 +3262,14 @@
 <w.rf>
 <LM>w#w-d1t1743-5</LM>
 </w.rf>
-<form>pouťě</form>
-<tag lemma="pouťě" src="auto">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>poutě</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>poutě</form>
+<tag>
+<AM lemma="pouť">NNFP1-----A----</AM>
+<AM lemma="pouť">NNFP5-----A----</AM>
+<AM lemma="pouť">NNFS2-----A----</AM>
+<AM lemma="pouť" src="auto" recommended="1">NNFP4-----A----</AM>
+</tag>
 </m>
 <m id="m028-d-id118116-punct">
 <w.rf>
@@ -4373,13 +4374,14 @@
 <w.rf>
 <LM>w#w-d1t1858-4</LM>
 </w.rf>
-<form>pouťě</form>
-<tag lemma="pouťě" src="auto">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>poutě</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>poutě</form>
+<tag>
+<AM lemma="pouť">NNFP4-----A----</AM>
+<AM lemma="pouť">NNFP5-----A----</AM>
+<AM lemma="pouť">NNFS2-----A----</AM>
+<AM lemma="pouť" src="auto" recommended="1">NNFP1-----A----</AM>
+</tag>
 </m>
 <m id="m028-d-id120955-punct">
 <w.rf>

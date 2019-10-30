@@ -1576,13 +1576,21 @@
 <w.rf>
 <LM>w#w-d1t840-5</LM>
 </w.rf>
-<form>Písu</form>
-<tag lemma="Písu" src="auto">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>Písku</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>Písku</form>
+<tag>
+<AM lemma="Písek-2_;G">NNIS2-----A----</AM>
+<AM lemma="Písek-2_;G">NNIS3-----A----</AM>
+<AM lemma="Písek-2_;G">NNIS5-----A----</AM>
+<AM lemma="Písek_;S">NNMS3-----A---1</AM>
+<AM lemma="Písek_;S">NNMS5-----A----</AM>
+<AM lemma="Písek_;S">NNMS6-----A---1</AM>
+<AM lemma="písek">NNIS2-----A----</AM>
+<AM lemma="písek">NNIS3-----A----</AM>
+<AM lemma="písek">NNIS5-----A----</AM>
+<AM lemma="písek">NNIS6-----A----</AM>
+<AM lemma="Písek-2_;G" src="auto" recommended="1">NNIS6-----A----</AM>
+</tag>
 </m>
 <m id="m019-60-94">
 <w.rf>

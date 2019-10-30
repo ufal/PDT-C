@@ -2955,13 +2955,9 @@
 <w.rf>
 <LM>w#w-d1t3096-7</LM>
 </w.rf>
-<form>foku</form>
-<tag lemma="foku" src="auto">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>fotku</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>fotku</form>
+<tag lemma="fotka" src="auto" recommended="1">NNFS4-----A----</tag>
 </m>
 <m id="m043-d-id157102-punct">
 <w.rf>

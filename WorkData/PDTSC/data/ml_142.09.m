@@ -1027,13 +1027,9 @@
 <w.rf>
 <LM>w#w-d1t1141-18</LM>
 </w.rf>
-<form>Nemapatuju</form>
-<tag lemma="Nemapatuju" src="auto">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>Nepamatuju</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>Nepamatuju</form>
+<tag lemma="pamatovat_:T" src="auto" recommended="1">VB-S---1P-NA---</tag>
 </m>
 <m id="m142-d1t1141-17">
 <w.rf>
@@ -3265,13 +3261,8 @@
 <w.rf>
 <LM>w#w-d1t1202-6</LM>
 </w.rf>
-<form>francoužštinu</form>
-<tag lemma="francoužštinu" src="auto">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>francouzštinu</text>
-</LM>
-</comment>
+<form>francouzštinu</form>
+<tag lemma="francouzština" src="auto" recommended="1">NNFS4-----A----</tag>
 </m>
 <m id="m142-d-id151115-punct">
 <w.rf>
@@ -3439,13 +3430,12 @@
 <w.rf>
 <LM>w#w-d1t1202-25</LM>
 </w.rf>
-<form>francoužštině</form>
-<tag lemma="francoužštině" src="auto">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>francouzštině</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>francouzštině</form>
+<tag>
+<AM lemma="francouzština">NNFS3-----A----</AM>
+<AM lemma="francouzština" src="auto" recommended="1">NNFS6-----A----</AM>
+</tag>
 </m>
 <m id="m142-d1t1202-23">
 <w.rf>
@@ -4397,13 +4387,13 @@
 <w.rf>
 <LM>w#w-d1t1215-4</LM>
 </w.rf>
-<form>Leningadu</form>
-<tag lemma="Leningadu" src="auto">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>Leningradu</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>Leningradu</form>
+<tag>
+<AM lemma="Leningrad_;G">NNIS2-----A----</AM>
+<AM lemma="Leningrad_;G">NNIS3-----A----</AM>
+<AM lemma="Leningrad_;G" src="auto" recommended="1">NNIS6-----A---1</AM>
+</tag>
 </m>
 <m id="m142-1114-953">
 <w.rf>

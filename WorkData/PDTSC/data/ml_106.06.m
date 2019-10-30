@@ -21,16 +21,12 @@
 <w.rf>
 <LM>w#w-d1t1422-9</LM>
 </w.rf>
-<form>mě</form>
+<form_change>spell</form_change>
+<form>mně</form>
 <tag>
-<AM lemma="já" src="auto">PH-S2--1-------</AM>
-<AM lemma="já" src="auto" recommended="1">PH-S4--1-------</AM>
+<AM lemma="já">PP-S6--1-------</AM>
+<AM lemma="já" src="auto" recommended="1">PP-S3--1-------</AM>
 </tag>
-<comment>
-<LM type="New Form">
-<text>mně</text>
-</LM>
-</comment>
 </m>
 <m id="m106-d1t1422-10">
 <w.rf>
@@ -653,12 +649,12 @@
 <w.rf>
 <LM>w#w-d1t1454-6</LM>
 </w.rf>
-<form>rock´n´rollové</form>
-<tag lemma="rock´n´rollové" src="auto">X@-------------</tag>
+<form>rock</form>
+<tag>
+<AM lemma="rock-1">NNIS4-----A----</AM>
+<AM lemma="rock-1" src="auto" recommended="1">NNIS1-----A----</AM>
+</tag>
 <comment>
-<LM type="New Form">
-<text>rock</text>
-</LM>
 <LM type="Other">
 <text>5v1: rock ´ n ´ rollové</text>
 </LM>
@@ -843,12 +839,13 @@
 <w.rf>
 <LM>w#w-d1t1456-18</LM>
 </w.rf>
-<form>rock´n´rollový</form>
-<tag lemma="rock´n´rollový" src="auto">X@-------------</tag>
+<form_change>spell</form_change>
+<form>rock</form>
+<tag>
+<AM lemma="rock-1">NNIS4-----A----</AM>
+<AM lemma="rock-1" src="auto" recommended="1">NNIS1-----A----</AM>
+</tag>
 <comment>
-<LM type="New Form">
-<text>rock</text>
-</LM>
 <LM type="Other">
 <text>5v1: rock ´ n ´ rollový</text>
 </LM>

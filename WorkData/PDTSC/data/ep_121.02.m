@@ -4611,13 +4611,15 @@
 <w.rf>
 <LM>w#w-d1t621-4</LM>
 </w.rf>
-<form>prázná</form>
-<tag lemma="prázná" src="auto">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>prázdná</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>prázdná</form>
+<tag>
+<AM lemma="prázdný">AAFS1----1A----</AM>
+<AM lemma="prázdný">AAFS5----1A----</AM>
+<AM lemma="prázdný">AANP4----1A----</AM>
+<AM lemma="prázdný">AANP5----1A----</AM>
+<AM lemma="prázdný" src="auto" recommended="1">AANP1----1A----</AM>
+</tag>
 </m>
 <m id="m121-d1t623-1">
 <w.rf>
@@ -6326,16 +6328,12 @@
 <w.rf>
 <LM>w#w-d1t678-1</LM>
 </w.rf>
-<form>mě</form>
+<form_change>spell</form_change>
+<form>mně</form>
 <tag>
-<AM lemma="já" src="auto" recommended="1">PH-S2--1-------</AM>
-<AM lemma="já" src="auto">PH-S4--1-------</AM>
+<AM lemma="já">PP-S6--1-------</AM>
+<AM lemma="já" src="auto" recommended="1">PP-S3--1-------</AM>
 </tag>
-<comment>
-<LM type="New Form">
-<text>mně</text>
-</LM>
-</comment>
 </m>
 <m id="m121-d1t678-5">
 <w.rf>

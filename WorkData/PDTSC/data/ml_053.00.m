@@ -2836,13 +2836,9 @@
 <w.rf>
 <LM>w#w-d1t174-1</LM>
 </w.rf>
-<form>31 000</form>
-<tag lemma="31 000" src="auto">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>31000</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>31000</form>
+<tag lemma="31000" src="auto" recommended="1">C=-------------</tag>
 </m>
 <m id="m053-d-m-d1e169-x2-punct-punct">
 <w.rf>
@@ -3420,13 +3416,9 @@
 <w.rf>
 <LM>w#w-d1t209-12</LM>
 </w.rf>
-<form>SPZku</form>
-<tag lemma="SPZku" src="auto">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>espézetku</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>espézetku</form>
+<tag lemma="espézetka_,h" src="auto" recommended="1">NNFS4-----A----</tag>
 </m>
 <m id="m053-106-93">
 <w.rf>

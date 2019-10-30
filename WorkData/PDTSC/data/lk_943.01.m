@@ -53,13 +53,18 @@
 <w.rf>
 <LM>w#w-d1t451-3</LM>
 </w.rf>
-<form>Magdeburgských</form>
-<tag lemma="Magdeburgských" src="auto">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>magdeburských</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>magdeburských</form>
+<tag>
+<AM lemma="magdeburský">AAFP2----1A----</AM>
+<AM lemma="magdeburský">AAFP6----1A----</AM>
+<AM lemma="magdeburský">AAIP2----1A----</AM>
+<AM lemma="magdeburský">AAIP6----1A----</AM>
+<AM lemma="magdeburský">AAMP2----1A----</AM>
+<AM lemma="magdeburský">AAMP6----1A----</AM>
+<AM lemma="magdeburský">AANP2----1A----</AM>
+<AM lemma="magdeburský" src="auto" recommended="1">AANP6----1A----</AM>
+</tag>
 </m>
 <m id="m943-d1t451-4">
 <w.rf>
@@ -1707,13 +1712,12 @@
 <w.rf>
 <LM>w#w-d1t544-6</LM>
 </w.rf>
-<form>hajm</form>
-<tag lemma="hajm" src="auto">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>heim</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>heim</form>
+<tag>
+<AM lemma="heim">X@-------------</AM>
+<AM lemma="hem_;G" src="auto" recommended="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m943-d1t549-1">
 <w.rf>

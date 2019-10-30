@@ -1941,13 +1941,12 @@
 <w.rf>
 <LM>w#w-d1t1657-5</LM>
 </w.rf>
-<form>Rodicka</form>
-<tag lemma="Rodicka" src="auto">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>Roddicka</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>Roddicka</form>
+<tag>
+<AM lemma="Roddick_;S">NNMS2-----A----</AM>
+<AM lemma="Roddick_;S" src="auto" recommended="1">NNMS4-----A----</AM>
+</tag>
 </m>
 <m id="m127-d-id144423-punct">
 <w.rf>

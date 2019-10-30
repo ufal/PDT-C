@@ -5936,13 +5936,12 @@
 <w.rf>
 <LM>w#w-d1t2083-5</LM>
 </w.rf>
-<form>vyznamením</form>
-<tag lemma="vyznamením" src="auto">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>vyznamenáním</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>vyznamenáním</form>
+<tag>
+<AM lemma="vyznamenání_^(*3at)">NNNP3-----A----</AM>
+<AM lemma="vyznamenání_^(*3at)" src="auto" recommended="1">NNNS7-----A----</AM>
+</tag>
 </m>
 <m id="m139-d-id112045-punct">
 <w.rf>

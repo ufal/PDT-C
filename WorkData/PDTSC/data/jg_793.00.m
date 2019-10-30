@@ -1125,13 +1125,9 @@
 <w.rf>
 <LM>w#w-d1t59-8</LM>
 </w.rf>
-<form>nerozumněl</form>
-<tag lemma="nerozumněl" src="auto">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>nerozuměl</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>nerozuměl</form>
+<tag lemma="rozumět_:T" src="auto" recommended="1">VpYS---XR-NA---</tag>
 </m>
 <m id="m793-d-id57061">
 <w.rf>

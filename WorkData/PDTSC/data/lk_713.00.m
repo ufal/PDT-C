@@ -6731,13 +6731,12 @@
 <w.rf>
 <LM>w#w-id59078-6</LM>
 </w.rf>
-<form>Braunschweigovského</form>
-<tag lemma="Braunschweigovského" src="auto">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>braunschweigského</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>braunschweigského</form>
+<tag>
+<AM lemma="braunschweigského">X@-------------</AM>
+<AM lemma="braunschweigský" src="auto" recommended="1">AAIS2----1A----</AM>
+</tag>
 </m>
 <m id="m713-id59078-7">
 <w.rf>

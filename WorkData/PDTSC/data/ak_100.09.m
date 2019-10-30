@@ -270,13 +270,13 @@
 <w.rf>
 <LM>w#w-d1t2046-2</LM>
 </w.rf>
-<form>purše</form>
-<tag lemma="purše" src="auto">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>Purše</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>Purše</form>
+<tag>
+<AM lemma="Purš_;S">NNMP4-----A----</AM>
+<AM lemma="Purš_;S">NNMS2-----A----</AM>
+<AM lemma="Purš_;S" src="auto" recommended="1">NNMS4-----A----</AM>
+</tag>
 </m>
 <m id="m100-d-m-d1e2043-x2-punct-punct">
 <w.rf>

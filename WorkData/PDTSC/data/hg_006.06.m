@@ -344,13 +344,12 @@
 <w.rf>
 <LM>w#w-d1t2064-4</LM>
 </w.rf>
-<form>tunisskou</form>
-<tag lemma="tunisskou" src="auto">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>tuniskou</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>tuniskou</form>
+<tag>
+<AM lemma="tuniský">AAFS7----1A----</AM>
+<AM lemma="tuniský" src="auto" recommended="1">AAFS4----1A----</AM>
+</tag>
 </m>
 <m id="m006-d1t2066-1">
 <w.rf>

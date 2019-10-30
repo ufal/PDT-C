@@ -551,13 +551,12 @@
 <w.rf>
 <LM>w#w-id65947-x1-15182</LM>
 </w.rf>
-<form>ješte</form>
-<tag lemma="ješte" src="auto">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>ještě</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>ještě</form>
+<tag>
+<AM lemma="ještě-2">TT-------------</AM>
+<AM lemma="ještě-1" src="auto" recommended="1">Db-------------</AM>
+</tag>
 </m>
 <m id="m975-id65947-x1-15183">
 <w.rf>

@@ -508,13 +508,9 @@
 <w.rf>
 <LM>w#w-d1t176-78</LM>
 </w.rf>
-<form>vyzvednou</form>
-<tag lemma="vyzvednout_:W" src="auto" recommended="1">VB-P---3P-AA---</tag>
-<comment>
-<LM type="New Form">
-<text>vyzvednout</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>vyzvednout</form>
+<tag lemma="vyzvednout_:W" src="auto" recommended="1">Vf--------A----</tag>
 </m>
 <m id="m135-d1t176-82">
 <w.rf>
@@ -1734,13 +1730,19 @@
 <w.rf>
 <LM>w#w-d1t215-16</LM>
 </w.rf>
-<form>Žizkově</form>
-<tag lemma="Žizkově" src="auto">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>Žižkově</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>Žižkově</form>
+<tag>
+<AM lemma="Žižkův_;S_^(*3ek)">AUFS3M---------</AM>
+<AM lemma="Žižkův_;S_^(*3ek)">AUFS6M---------</AM>
+<AM lemma="Žižkův_;S_^(*3ek)">AUIS3M--------6</AM>
+<AM lemma="Žižkův_;S_^(*3ek)">AUIS6M---------</AM>
+<AM lemma="Žižkův_;S_^(*3ek)">AUMS3M--------6</AM>
+<AM lemma="Žižkův_;S_^(*3ek)">AUMS6M---------</AM>
+<AM lemma="Žižkův_;S_^(*3ek)">AUNS3M--------6</AM>
+<AM lemma="Žižkův_;S_^(*3ek)">AUNS6M---------</AM>
+<AM lemma="Žižkov_;G" src="auto" recommended="1">NNIS6-----A----</AM>
+</tag>
 </m>
 <m id="m135-d-id67544-punct">
 <w.rf>

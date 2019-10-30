@@ -3202,13 +3202,18 @@
 <w.rf>
 <LM>w#w-d1t913-8</LM>
 </w.rf>
-<form>Strossamyerově</form>
-<tag lemma="Strossamyerově" src="auto">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>Strossmayerově</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>Strossmayerově</form>
+<tag>
+<AM lemma="Strossmayerův_;S_^(*2)">AUFS3M---------</AM>
+<AM lemma="Strossmayerův_;S_^(*2)">AUFS6M---------</AM>
+<AM lemma="Strossmayerův_;S_^(*2)">AUIS3M--------6</AM>
+<AM lemma="Strossmayerův_;S_^(*2)">AUIS6M---------</AM>
+<AM lemma="Strossmayerův_;S_^(*2)">AUMS3M--------6</AM>
+<AM lemma="Strossmayerův_;S_^(*2)">AUMS6M---------</AM>
+<AM lemma="Strossmayerův_;S_^(*2)">AUNS3M--------6</AM>
+<AM lemma="Strossmayerův_;S_^(*2)" src="auto" recommended="1">AUNS6M---------</AM>
+</tag>
 </m>
 <m id="m100-d1t913-9">
 <w.rf>

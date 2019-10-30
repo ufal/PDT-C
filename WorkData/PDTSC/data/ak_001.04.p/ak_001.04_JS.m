@@ -789,13 +789,9 @@
 <w.rf>
 <LM>w#w-d1t1237-5</LM>
 </w.rf>
-<form>věznů</form>
-<tag lemma="věznů" src="auto">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>vězňů</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>vězňů</form>
+<tag lemma="vězeň" src="auto" recommended="1">NNMP2-----A----</tag>
 </m>
 <m id="m001-d1t1239-1">
 <w.rf>
@@ -3266,18 +3262,22 @@
 <w.rf>
 <LM>w#w-d1t1328-11</LM>
 </w.rf>
-<form>Hruškovi</form>
+<form_change>spell</form_change>
+<form>Hruškovy</form>
 <tag>
-<AM lemma="Hruška_;S" src="auto" recommended="1">NNMS3-----A----</AM>
-<AM lemma="Hruška_;S" src="auto">NNMS6-----A----</AM>
-<AM lemma="Hruškův_;S_^(*2a)" src="auto" selected="1">AUMP1M---------</AM>
-<AM lemma="Hruškův_;S_^(*2a)" src="auto">AUMP5M---------</AM>
+<AM lemma="Hruškův_;S_^(*2a)">AUFP1M---------</AM>
+<AM lemma="Hruškův_;S_^(*2a)">AUFP4M---------</AM>
+<AM lemma="Hruškův_;S_^(*2a)">AUFP5M---------</AM>
+<AM lemma="Hruškův_;S_^(*2a)">AUFS2M---------</AM>
+<AM lemma="Hruškův_;S_^(*2a)">AUIP1M---------</AM>
+<AM lemma="Hruškův_;S_^(*2a)">AUIP5M---------</AM>
+<AM lemma="Hruškův_;S_^(*2a)">AUMP4M---------</AM>
+<AM lemma="Hruškov_;G">NNIP1-----A----</AM>
+<AM lemma="Hruškov_;G">NNIP4-----A----</AM>
+<AM lemma="Hruškov_;G">NNIP5-----A----</AM>
+<AM lemma="Hruškov_;G">NNIP7-----A----</AM>
+<AM lemma="Hruškův_;S_^(*2a)" src="auto" recommended="1">AUIP4M---------</AM>
 </tag>
-<comment>
-<LM type="New Form">
-<text>Hruškovy</text>
-</LM>
-</comment>
 </m>
 <m id="m001-d-id114539">
 <w.rf>
@@ -5284,19 +5284,12 @@
 <w.rf>
 <LM>w#w-d1t1436-9</LM>
 </w.rf>
-<form>ní</form>
+<form_change>spell</form_change>
+<form>ni</form>
 <tag>
-<AM lemma="on-1" src="auto">P5FS2--3-------</AM>
-<AM lemma="on-1" src="auto">P5FS3--3-------</AM>
-<AM lemma="on-1" src="auto" recommended="1" selected="1">P5FS4--3------6</AM>
-<AM lemma="on-1" src="auto">P5FS6--3-------</AM>
-<AM lemma="on-1" src="auto">P5FS7--3-------</AM>
+<AM lemma="ni_,a">J^-------------</AM>
+<AM lemma="on-1" src="auto" recommended="1">P5FS4--3-------</AM>
 </tag>
-<comment>
-<LM type="New Form">
-<text>ni</text>
-</LM>
-</comment>
 </m>
 <m id="m001-d1e1425-x2-2600">
 <w.rf>

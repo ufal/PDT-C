@@ -143,13 +143,14 @@
 <w.rf>
 <LM>w#w-d1t863-4</LM>
 </w.rf>
-<form>čož</form>
-<tag lemma="čož" src="auto">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>což</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>což</form>
+<tag>
+<AM lemma="což-1">PE--4----------</AM>
+<AM lemma="což-2_^(cožpak:_což_jsem_to_neříkal?)">TT-------------</AM>
+<AM lemma="což-3_^(nu_což,_...;_což_o_to,_...)">II-------------</AM>
+<AM lemma="což-1" src="auto" recommended="1">PE--1----------</AM>
+</tag>
 </m>
 <m id="m983-d1t863-6">
 <w.rf>
@@ -4296,13 +4297,33 @@
 <w.rf>
 <LM>w#w-d1t1116-4</LM>
 </w.rf>
-<form>Sueský</form>
-<tag lemma="Sueský" src="auto">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>Suezský</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>Suezský</form>
+<tag>
+<AM lemma="suezský">AAFP1----1A---6</AM>
+<AM lemma="suezský">AAFP4----1A---6</AM>
+<AM lemma="suezský">AAFP5----1A---6</AM>
+<AM lemma="suezský">AAFS2----1A---6</AM>
+<AM lemma="suezský">AAFS3----1A---6</AM>
+<AM lemma="suezský">AAFS6----1A---6</AM>
+<AM lemma="suezský">AAIP1----1A---6</AM>
+<AM lemma="suezský">AAIP4----1A---6</AM>
+<AM lemma="suezský">AAIP5----1A---6</AM>
+<AM lemma="suezský">AAIS4----1A----</AM>
+<AM lemma="suezský">AAIS5----1A----</AM>
+<AM lemma="suezský">AAMP1----1A---6</AM>
+<AM lemma="suezský">AAMP4----1A---6</AM>
+<AM lemma="suezský">AAMP5----1A---6</AM>
+<AM lemma="suezský">AAMS1----1A----</AM>
+<AM lemma="suezský">AAMS5----1A----</AM>
+<AM lemma="suezský">AANP1----1A---6</AM>
+<AM lemma="suezský">AANP4----1A---6</AM>
+<AM lemma="suezský">AANP5----1A---6</AM>
+<AM lemma="suezský">AANS1----1A---6</AM>
+<AM lemma="suezský">AANS4----1A---6</AM>
+<AM lemma="suezský">AANS5----1A---6</AM>
+<AM lemma="suezský" src="auto" recommended="1">AAIS1----1A----</AM>
+</tag>
 </m>
 <m id="m983-d1t1116-5">
 <w.rf>
@@ -4819,13 +4840,14 @@
 <w.rf>
 <LM>w#w-d1t1133-6</LM>
 </w.rf>
-<form>Sueského</form>
-<tag lemma="Sueského" src="auto">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>Suezského</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>Suezského</form>
+<tag>
+<AM lemma="suezský">AAMS2----1A----</AM>
+<AM lemma="suezský">AAMS4----1A----</AM>
+<AM lemma="suezský">AANS2----1A----</AM>
+<AM lemma="suezský" src="auto" recommended="1">AAIS2----1A----</AM>
+</tag>
 </m>
 <m id="m983-d1t1133-7">
 <w.rf>
@@ -5786,13 +5808,9 @@
 <w.rf>
 <LM>w#w-d1t1200-1</LM>
 </w.rf>
-<form>Romel</form>
-<tag lemma="Romel" src="auto">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>Rommel</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>Rommel</form>
+<tag lemma="Rommel_;S" src="auto" recommended="1">NNMS1-----A----</tag>
 </m>
 <m id="m983-d1t1200-2">
 <w.rf>

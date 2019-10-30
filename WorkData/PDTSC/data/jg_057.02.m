@@ -1731,13 +1731,12 @@
 <w.rf>
 <LM>w#w-d1t666-12</LM>
 </w.rf>
-<form>elektrochtechnickou</form>
-<tag lemma="elektrochtechnickou" src="auto">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>elektrotechnickou</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>elektrotechnickou</form>
+<tag>
+<AM lemma="elektrotechnický">AAFS7----1A----</AM>
+<AM lemma="elektrotechnický" src="auto" recommended="1">AAFS4----1A----</AM>
+</tag>
 </m>
 <m id="m057-d1t666-14">
 <w.rf>

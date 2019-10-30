@@ -628,16 +628,15 @@
 <w.rf>
 <LM>w#w-d1t56-4</LM>
 </w.rf>
-<form>ni</form>
+<form_change>spell</form_change>
+<form>ní</form>
 <tag>
-<AM lemma="ni_,a" src="auto">J^-------------</AM>
-<AM lemma="on-1" src="auto" recommended="1">P5FS4--3-------</AM>
+<AM lemma="on-1">P5FS2--3-------</AM>
+<AM lemma="on-1">P5FS3--3-------</AM>
+<AM lemma="on-1">P5FS4--3------6</AM>
+<AM lemma="on-1">P5FS7--3-------</AM>
+<AM lemma="on-1" src="auto" recommended="1">P5FS6--3-------</AM>
 </tag>
-<comment>
-<LM type="New Form">
-<text>ní</text>
-</LM>
-</comment>
 </m>
 <m id="m062-d1t56-5">
 <w.rf>

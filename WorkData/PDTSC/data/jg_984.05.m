@@ -4883,13 +4883,15 @@
 <w.rf>
 <LM>w#w-d1t1910-6</LM>
 </w.rf>
-<form>francouská</form>
-<tag lemma="francouská" src="auto">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>francouzská</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>francouzská</form>
+<tag>
+<AM lemma="francouzský">AAFS5----1A----</AM>
+<AM lemma="francouzský">AANP1----1A----</AM>
+<AM lemma="francouzský">AANP4----1A----</AM>
+<AM lemma="francouzský">AANP5----1A----</AM>
+<AM lemma="francouzský" src="auto" recommended="1">AAFS1----1A----</AM>
+</tag>
 </m>
 <m id="m984-d1t1910-7">
 <w.rf>

@@ -1368,13 +1368,15 @@
 <w.rf>
 <LM>w#w-d1t73-1</LM>
 </w.rf>
-<form>výjímečná</form>
-<tag lemma="výjímečná" src="auto">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>výjimečná</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>výjimečná</form>
+<tag>
+<AM lemma="výjimečný">AAFS5----1A----</AM>
+<AM lemma="výjimečný">AANP1----1A----</AM>
+<AM lemma="výjimečný">AANP4----1A----</AM>
+<AM lemma="výjimečný">AANP5----1A----</AM>
+<AM lemma="výjimečný" src="auto" recommended="1">AAFS1----1A----</AM>
+</tag>
 </m>
 <m id="m121-d1e46-x3-19">
 <w.rf>

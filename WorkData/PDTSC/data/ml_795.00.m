@@ -1366,16 +1366,12 @@
 <w.rf>
 <LM>w#w-d1t64-9</LM>
 </w.rf>
-<form>Frojnreich</form>
+<form_change>spell</form_change>
+<form>Frojnrajch</form>
 <tag>
-<AM lemma="Frojnreich" src="auto">X@-------------</AM>
-<AM lemma="Frojnreich_;S" src="manual">NNMS1-----A----</AM>
+<AM lemma="Frojnrajch">X@-------------</AM>
+<AM lemma="Frojnrajch_;S" src="auto" recommended="1">NNMS1-----A----</AM>
 </tag>
-<comment>
-<LM type="New Form">
-<text>Frojnrajch</text>
-</LM>
-</comment>
 </m>
 <m id="m795-d1e29-x6-536">
 <w.rf>
@@ -4365,21 +4361,12 @@
 <w.rf>
 <LM>w#w-684-685</LM>
 </w.rf>
-<form>Posti</form>
+<form_change>spell</form_change>
+<form>posti</form>
 <tag>
-<AM lemma="Post-3_;S" src="auto" recommended="1">NNMP1-----A---1</AM>
-<AM lemma="Post-3_;S" src="auto">NNMP5-----A---1</AM>
-<AM lemma="Posti_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Posti_;S" src="auto">NNMS5-----A----</AM>
-<AM lemma="Posti_;S" src="auto">NNMXX-----A----</AM>
-<AM lemma="postit" src="auto">Vi-S---2--A----</AM>
-<AM lemma="postit" src="auto">Vi-S---3--A---4</AM>
+<AM lemma="postit">Vi-S---3--A---4</AM>
+<AM lemma="postit" src="auto" recommended="1">Vi-S---2--A----</AM>
 </tag>
-<comment>
-<LM type="New Form">
-<text>posti</text>
-</LM>
-</comment>
 </m>
 <m id="m795-d1e29-x15-184">
 <w.rf>
@@ -6277,13 +6264,12 @@
 <w.rf>
 <LM>w#w-d1t220-13</LM>
 </w.rf>
-<form>jsem</form>
-<tag lemma="být" src="auto" recommended="1">VB-S---1P-AA---</tag>
-<comment>
-<LM type="New Form">
-<text>sem</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>sem</form>
+<tag>
+<AM lemma="být">VB-S---1P-AA--6</AM>
+<AM lemma="sem" src="auto" recommended="1">Db-------------</AM>
+</tag>
 </m>
 <m id="m795-d1e29-x26-745">
 <w.rf>

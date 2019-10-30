@@ -4622,13 +4622,9 @@
 <w.rf>
 <LM>w#w-d1t348-3</LM>
 </w.rf>
-<form>Hamrman</form>
-<tag lemma="Hamrman" src="auto">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>Habrman</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>Habrman</form>
+<tag lemma="Habrman_;S" src="auto" recommended="1">NNMS1-----A----</tag>
 </m>
 <m id="m953-d1t348-4">
 <w.rf>

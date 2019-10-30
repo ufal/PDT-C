@@ -506,15 +506,10 @@
 <w.rf>
 <LM>w#w-d1t1503-12</LM>
 </w.rf>
-<form>au-pairku</form>
-<tag>
-<AM lemma="au-pairku" src="auto">X@-------------</AM>
-<AM lemma="au-pairka" src="manual">NNFS4-----A----</AM>
-</tag>
+<form_change>spell</form_change>
+<form>au</form>
+<tag lemma="au" src="auto" recommended="1">II-------------</tag>
 <comment>
-<LM type="New Form">
-<text>au</text>
-</LM>
 <LM type="Other">
 <text>3v1: au - pairku</text>
 </LM>
@@ -605,15 +600,10 @@
 <w.rf>
 <LM>w#w-d1t1508-14</LM>
 </w.rf>
-<form>au-pairka</form>
-<tag>
-<AM lemma="au-pairka" src="auto">X@-------------</AM>
-<AM lemma="au-pairka" src="manual">NNFS1-----A----</AM>
-</tag>
+<form_change>spell</form_change>
+<form>au</form>
+<tag lemma="au" src="auto" recommended="1">II-------------</tag>
 <comment>
-<LM type="New Form">
-<text>au</text>
-</LM>
 <LM type="Other">
 <text>3v1: au - pairka</text>
 </LM>
@@ -748,13 +738,12 @@
 <w.rf>
 <LM>w#w-d1t1508-29</LM>
 </w.rf>
-<form>paměhotihodností</form>
-<tag lemma="paměhotihodností" src="auto">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>pamětihodností</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>pamětihodností</form>
+<tag>
+<AM lemma="pamětihodnost_^(*3ý)">NNFS7-----A----</AM>
+<AM lemma="pamětihodnost_^(*3ý)" src="auto" recommended="1">NNFP2-----A----</AM>
+</tag>
 </m>
 <m id="m115-d1t1508-31">
 <w.rf>
@@ -2992,13 +2981,9 @@
 <w.rf>
 <LM>w#w-d1t1589-1</LM>
 </w.rf>
-<form>exemlářů</form>
-<tag lemma="exemlářů" src="auto">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>exemplářů</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>exemplářů</form>
+<tag lemma="exemplář" src="auto" recommended="1">NNIP2-----A----</tag>
 </m>
 <m id="m115-d-id160252-punct">
 <w.rf>

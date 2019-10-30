@@ -4961,13 +4961,18 @@
 <w.rf>
 <LM>w#w-d1t1114-5</LM>
 </w.rf>
-<form>padesátych</form>
-<tag lemma="padesátych" src="auto">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>padesátých</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>padesátých</form>
+<tag>
+<AM lemma="padesátý">CrFP2----------</AM>
+<AM lemma="padesátý">CrFP6----------</AM>
+<AM lemma="padesátý">CrIP2----------</AM>
+<AM lemma="padesátý">CrIP6----------</AM>
+<AM lemma="padesátý">CrMP2----------</AM>
+<AM lemma="padesátý">CrMP6----------</AM>
+<AM lemma="padesátý">CrNP2----------</AM>
+<AM lemma="padesátý" src="auto" recommended="1">CrNP6----------</AM>
+</tag>
 </m>
 <m id="m039-d1t1114-6">
 <w.rf>

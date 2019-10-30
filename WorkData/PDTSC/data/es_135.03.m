@@ -120,13 +120,19 @@
 <w.rf>
 <LM>w#w-d1t476-34</LM>
 </w.rf>
-<form>Žizkova</form>
-<tag lemma="Žizkova" src="auto">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>Žižkova</text>
-</LM>
-</comment>
+<form>Žižkova</form>
+<tag>
+<AM lemma="Žižkův_;S_^(*3ek)">AUFS1M---------</AM>
+<AM lemma="Žižkův_;S_^(*3ek)">AUFS5M---------</AM>
+<AM lemma="Žižkův_;S_^(*3ek)">AUIS2M---------</AM>
+<AM lemma="Žižkův_;S_^(*3ek)">AUMS2M---------</AM>
+<AM lemma="Žižkův_;S_^(*3ek)">AUMS4M---------</AM>
+<AM lemma="Žižkův_;S_^(*3ek)">AUNP1M---------</AM>
+<AM lemma="Žižkův_;S_^(*3ek)">AUNP4M---------</AM>
+<AM lemma="Žižkův_;S_^(*3ek)">AUNP5M---------</AM>
+<AM lemma="Žižkův_;S_^(*3ek)">AUNS2M---------</AM>
+<AM lemma="Žižkov_;G" src="auto" recommended="1">NNIS2-----A----</AM>
+</tag>
 </m>
 <m id="m135-279-330">
 <w.rf>
@@ -193,13 +199,12 @@
 <w.rf>
 <LM>w#w-d1t478-8</LM>
 </w.rf>
-<form>Žizkov</form>
-<tag lemma="Žizkov" src="auto">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>Žižkov</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>Žižkov</form>
+<tag>
+<AM lemma="Žižkov_;G">NNIS1-----A----</AM>
+<AM lemma="Žižkov_;G" src="auto" recommended="1">NNIS4-----A----</AM>
+</tag>
 </m>
 <m id="m135-279-545">
 <w.rf>
@@ -4967,13 +4972,9 @@
 <w.rf>
 <LM>w#w-d1t607-12</LM>
 </w.rf>
-<form>rozumněly</form>
-<tag lemma="rozumněly" src="auto">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>rozuměly</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>rozuměly</form>
+<tag lemma="rozumět_:T" src="auto" recommended="1">VpTP---XR-AA---</tag>
 </m>
 <m id="m135-d1t607-13">
 <w.rf>

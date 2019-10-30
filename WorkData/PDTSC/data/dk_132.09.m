@@ -1432,13 +1432,9 @@
 <w.rf>
 <LM>w#w-d1t2542-5</LM>
 </w.rf>
-<form>soustředují</form>
-<tag lemma="soustředují" src="auto">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>soustřeďují</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>soustřeďují</form>
+<tag lemma="soustřeďovat_:T" src="auto" recommended="1">VB-P---3P-AA---</tag>
 </m>
 <m id="m132-d1t2540-2">
 <w.rf>
@@ -1849,13 +1845,23 @@
 <w.rf>
 <LM>w#w-d1t2572-1</LM>
 </w.rf>
-<form>pěvěcké</form>
-<tag lemma="pěvěcké" src="auto">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>pěvecké</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>pěvecké</form>
+<tag>
+<AM lemma="pěvecký">AAFP1----1A----</AM>
+<AM lemma="pěvecký">AAFP4----1A----</AM>
+<AM lemma="pěvecký">AAFP5----1A----</AM>
+<AM lemma="pěvecký">AAFS2----1A----</AM>
+<AM lemma="pěvecký">AAFS3----1A----</AM>
+<AM lemma="pěvecký">AAFS6----1A----</AM>
+<AM lemma="pěvecký">AAIP4----1A----</AM>
+<AM lemma="pěvecký">AAIP5----1A----</AM>
+<AM lemma="pěvecký">AAMP4----1A----</AM>
+<AM lemma="pěvecký">AANS1----1A----</AM>
+<AM lemma="pěvecký">AANS4----1A----</AM>
+<AM lemma="pěvecký">AANS5----1A----</AM>
+<AM lemma="pěvecký" src="auto" recommended="1">AAIP1----1A----</AM>
+</tag>
 </m>
 <m id="m132-d1t2572-2">
 <w.rf>

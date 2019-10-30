@@ -511,13 +511,18 @@
 <w.rf>
 <LM>w#w-d1t1394-8</LM>
 </w.rf>
-<form>nadherných</form>
-<tag lemma="nadherných" src="auto">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>nádherných</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>nádherných</form>
+<tag>
+<AM lemma="nádherný">AAFP6----1A----</AM>
+<AM lemma="nádherný">AAIP2----1A----</AM>
+<AM lemma="nádherný">AAIP6----1A----</AM>
+<AM lemma="nádherný">AAMP2----1A----</AM>
+<AM lemma="nádherný">AAMP6----1A----</AM>
+<AM lemma="nádherný">AANP2----1A----</AM>
+<AM lemma="nádherný">AANP6----1A----</AM>
+<AM lemma="nádherný" src="auto" recommended="1">AAFP2----1A----</AM>
+</tag>
 </m>
 <m id="m125-d1t1394-9">
 <w.rf>

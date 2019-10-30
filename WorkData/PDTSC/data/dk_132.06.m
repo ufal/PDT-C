@@ -146,13 +146,12 @@
 <w.rf>
 <LM>w#w-d1t1714-6</LM>
 </w.rf>
-<form>Aretmě</form>
-<tag lemma="Aretmě" src="auto">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>Aritmě</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>Aritmě</form>
+<tag>
+<AM lemma="Aritma_;K">NNFS3-----A----</AM>
+<AM lemma="Aritma_;K" src="auto" recommended="1">NNFS6-----A----</AM>
+</tag>
 </m>
 <m id="m132-d-id108803-punct">
 <w.rf>

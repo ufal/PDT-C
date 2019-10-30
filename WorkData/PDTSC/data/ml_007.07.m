@@ -1769,13 +1769,12 @@
 <w.rf>
 <LM>w#w-d1t2233-5</LM>
 </w.rf>
-<form>Drošafta</form>
-<tag lemma="Drošafta" src="auto">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>Grošafta</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>Grošafta</form>
+<tag>
+<AM lemma="Grošaft_;S">NNMS4-----A----</AM>
+<AM lemma="Grošaft_;S" src="auto" recommended="1">NNMS2-----A----</AM>
+</tag>
 </m>
 <m id="m007-d-id136616">
 <w.rf>
@@ -3303,13 +3302,14 @@
 <w.rf>
 <LM>w#w-d1t2312-1</LM>
 </w.rf>
-<form>štetiny</form>
-<tag lemma="štetiny" src="auto">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>štětiny</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>štětiny</form>
+<tag>
+<AM lemma="štětina">NNFP1-----A----</AM>
+<AM lemma="štětina">NNFP5-----A----</AM>
+<AM lemma="štětina">NNFS2-----A----</AM>
+<AM lemma="štětina" src="auto" recommended="1">NNFP4-----A----</AM>
+</tag>
 </m>
 <m id="m007-d1e2301-x2-3937">
 <w.rf>

@@ -519,19 +519,12 @@
 <w.rf>
 <LM>w#w-d1t715-8</LM>
 </w.rf>
-<form>ní</form>
+<form_change>spell</form_change>
+<form>ni</form>
 <tag>
-<AM lemma="on-1" src="auto">P5FS2--3-------</AM>
-<AM lemma="on-1" src="auto">P5FS3--3-------</AM>
-<AM lemma="on-1" src="auto">P5FS4--3------6</AM>
-<AM lemma="on-1" src="auto" recommended="1">P5FS6--3-------</AM>
-<AM lemma="on-1" src="auto">P5FS7--3-------</AM>
+<AM lemma="ni_,a">J^-------------</AM>
+<AM lemma="on-1" src="auto" recommended="1">P5FS4--3-------</AM>
 </tag>
-<comment>
-<LM type="New Form">
-<text>ni</text>
-</LM>
-</comment>
 </m>
 <m id="m121-d1t715-9">
 <w.rf>

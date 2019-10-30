@@ -3429,13 +3429,14 @@
 <w.rf>
 <LM>w#w-d1t1907-2</LM>
 </w.rf>
-<form>Telemanovi</form>
-<tag lemma="Telemanovi" src="auto">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>Telemannovi</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>Telemannovi</form>
+<tag>
+<AM lemma="Telemann_;S">NNMS6-----A----</AM>
+<AM lemma="Telemannův_;S_^(*2)">AUMP1M---------</AM>
+<AM lemma="Telemannův_;S_^(*2)">AUMP5M---------</AM>
+<AM lemma="Telemann_;S" src="auto" recommended="1">NNMS3-----A----</AM>
+</tag>
 </m>
 <m id="m053-d1e1902-x2-128">
 <w.rf>

@@ -4831,17 +4831,12 @@
 <w.rf>
 <LM>w#w-d1t2559-14</LM>
 </w.rf>
-<form>zájezdu</form>
+<form_change>spell</form_change>
+<form>zájezd</form>
 <tag>
-<AM lemma="zájezd" src="auto">NNIS2-----A----</AM>
-<AM lemma="zájezd" src="auto" recommended="1">NNIS3-----A----</AM>
-<AM lemma="zájezd" src="auto">NNIS6-----A---1</AM>
+<AM lemma="zájezd">NNIS4-----A----</AM>
+<AM lemma="zájezd" src="auto" recommended="1">NNIS1-----A----</AM>
 </tag>
-<comment>
-<LM type="New Form">
-<text>zájezd</text>
-</LM>
-</comment>
 </m>
 <m id="m136-d1t2559-15">
 <w.rf>

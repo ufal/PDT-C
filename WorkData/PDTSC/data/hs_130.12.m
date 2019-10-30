@@ -3104,13 +3104,12 @@
 <w.rf>
 <LM>w#w-d1t1653-6</LM>
 </w.rf>
-<form>Mallorci</form>
-<tag lemma="Mallorci" src="auto">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>Mallorcy</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>Mallorcy</form>
+<tag>
+<AM lemma="Mallorcy">X@-------------</AM>
+<AM lemma="Mallorca_;R_,t" src="auto" recommended="1">NNFS2-----A----</AM>
+</tag>
 </m>
 <m id="m130-d1e1650-x2-596">
 <w.rf>

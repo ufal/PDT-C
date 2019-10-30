@@ -1225,13 +1225,12 @@
 <w.rf>
 <LM>w#w-d1t594-4</LM>
 </w.rf>
-<form>velkobchod</form>
-<tag lemma="velkobchod" src="auto">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>velkoobchod</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>velkoobchod</form>
+<tag>
+<AM lemma="velkoobchod">NNIS4-----A----</AM>
+<AM lemma="velkoobchod" src="auto" recommended="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m136-d1t594-5">
 <w.rf>

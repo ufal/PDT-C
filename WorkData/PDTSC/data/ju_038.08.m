@@ -2457,13 +2457,18 @@
 <w.rf>
 <LM>w#w-d1t2690-3</LM>
 </w.rf>
-<form>Mariánských </form>
-<tag lemma="Mariánských" src="auto">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>Mariánských</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>Mariánských</form>
+<tag>
+<AM lemma="mariánský">AAFP2----1A----</AM>
+<AM lemma="mariánský">AAIP2----1A----</AM>
+<AM lemma="mariánský">AAIP6----1A----</AM>
+<AM lemma="mariánský">AAMP2----1A----</AM>
+<AM lemma="mariánský">AAMP6----1A----</AM>
+<AM lemma="mariánský">AANP2----1A----</AM>
+<AM lemma="mariánský">AANP6----1A----</AM>
+<AM lemma="mariánský" src="auto" recommended="1">AAFP6----1A----</AM>
+</tag>
 </m>
 <m id="m038-122-1348">
 <w.rf>
@@ -2945,13 +2950,12 @@
 <w.rf>
 <LM>w#w-d1t2696-2</LM>
 </w.rf>
-<form>leskdes</form>
-<tag lemma="leskdes" src="auto">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>leckdes</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>leckdes</form>
+<tag>
+<AM lemma="leckdes">X@-------------</AM>
+<AM lemma="leckde_;K_,t" src="auto" recommended="1">NNMPX-----A----</AM>
+</tag>
 </m>
 <m id="m038-d-id143501-punct">
 <w.rf>

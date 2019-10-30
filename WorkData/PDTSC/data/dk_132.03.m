@@ -2148,13 +2148,13 @@
 <w.rf>
 <LM>w#w-d1t976-5</LM>
 </w.rf>
-<form>Kobolu</form>
-<tag lemma="Kobolu" src="auto">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>Cobolu</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>Cobolu</form>
+<tag>
+<AM lemma="COBOL_;R">NNIS2-----A----</AM>
+<AM lemma="COBOL_;R">NNIS3-----A----</AM>
+<AM lemma="COBOL_;R" src="auto" recommended="1">NNIS6-----A----</AM>
+</tag>
 </m>
 <m id="m132-d1e926-x3-70">
 <w.rf>
@@ -4599,13 +4599,9 @@
 <w.rf>
 <LM>w#w-d1t1116-1</LM>
 </w.rf>
-<form>splanýrovat</form>
-<tag lemma="splanýrovat" src="auto">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>zplanýrovat</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>zplanýrovat</form>
+<tag lemma="zplanýrovat_:W" src="auto" recommended="1">Vf--------A----</tag>
 </m>
 <m id="m132-11-38">
 <w.rf>

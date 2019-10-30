@@ -3298,13 +3298,9 @@
 <w.rf>
 <LM>w#w-d1t3200-2</LM>
 </w.rf>
-<form>chvílku</form>
-<tag lemma="chvílku" src="auto">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>chvilku</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>chvilku</form>
+<tag lemma="chvilka" src="auto" recommended="1">NNFS4-----A----</tag>
 </m>
 <m id="m021-d-id169251-punct">
 <w.rf>

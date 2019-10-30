@@ -1010,17 +1010,14 @@
 <w.rf>
 <LM>w#w-d1t847-6</LM>
 </w.rf>
-<form>Bak</form>
+<form_change>spell</form_change>
+<form>Pak</form>
 <tag>
-<AM lemma="Bak_;G" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="Bak_;G" src="auto">NNIS4-----A----</AM>
-<AM lemma="Bako_;G" src="auto">NNNP2-----A----</AM>
+<AM lemma="Pak_;S">NNMS1-----A----</AM>
+<AM lemma="Paka_;G">NNFP2-----A----</AM>
+<AM lemma="pako-1_,l">NNNP2-----A----</AM>
+<AM lemma="pak" src="auto" recommended="1">Db-------------</AM>
 </tag>
-<comment>
-<LM type="New Form">
-<text>Pak</text>
-</LM>
-</comment>
 </m>
 <m id="m991-d1t852-1">
 <w.rf>

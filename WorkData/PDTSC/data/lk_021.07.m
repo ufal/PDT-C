@@ -1686,13 +1686,14 @@
 <w.rf>
 <LM>w#w-d1t2458-3</LM>
 </w.rf>
-<form>zajívavého</form>
-<tag lemma="zajívavého" src="auto">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>zajímavého</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>zajímavého</form>
+<tag>
+<AM lemma="zajímavý">AAIS2----1A----</AM>
+<AM lemma="zajímavý">AAMS2----1A----</AM>
+<AM lemma="zajímavý">AAMS4----1A----</AM>
+<AM lemma="zajímavý" src="auto" recommended="1">AANS2----1A----</AM>
+</tag>
 </m>
 <m id="m021-d-m-d1e2449-x2-punct-punct">
 <w.rf>

@@ -2917,13 +2917,9 @@
 <w.rf>
 <LM>w#w-d1t2697-1</LM>
 </w.rf>
-<form>Byli</form>
-<tag lemma="být" src="auto" recommended="1">VpMP---XR-AA---</tag>
-<comment>
-<LM type="New Form">
-<text>Byly</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>Byly</form>
+<tag lemma="být" src="auto" recommended="1">VpTP---XR-AA---</tag>
 </m>
 <m id="m046-d1t2697-2">
 <w.rf>

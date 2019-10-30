@@ -1340,13 +1340,9 @@
 <w.rf>
 <LM>w#w-d1t697-6</LM>
 </w.rf>
-<form>byly</form>
-<tag lemma="být" src="auto" recommended="1">VpTP---XR-AA---</tag>
-<comment>
-<LM type="New Form">
-<text>byli</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>byli</form>
+<tag lemma="být" src="auto" recommended="1">VpMP---XR-AA---</tag>
 </m>
 <m id="m135-d1t697-7">
 <w.rf>
@@ -4508,13 +4504,16 @@
 <w.rf>
 <LM>w#w-d1t776-12</LM>
 </w.rf>
-<form>v </form>
-<tag lemma="v" src="auto">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>v</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>v</form>
+<tag>
+<AM lemma="v-1">RR--4----------</AM>
+<AM lemma="v-3_^(označení_pomocí_písmene)">NNNXX-----A----</AM>
+<AM lemma="v-8_:B_^(ost._zkratka)">XX------------8</AM>
+<AM lemma="versus_:B_,t_,x">RR--1---------8</AM>
+<AM lemma="veřejný_:B_^(v.o.s.)">AAXXX----1A---8</AM>
+<AM lemma="v-1" src="auto" recommended="1">RR--6----------</AM>
+</tag>
 </m>
 <m id="m135-d1e771-x2-17">
 <w.rf>

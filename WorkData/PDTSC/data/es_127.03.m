@@ -3189,13 +3189,18 @@
 <w.rf>
 <LM>w#w-d1t728-2</LM>
 </w.rf>
-<form>franouzských</form>
-<tag lemma="franouzských" src="auto">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>francouzských</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>francouzských</form>
+<tag>
+<AM lemma="francouzský">AAFP6----1A----</AM>
+<AM lemma="francouzský">AAIP2----1A----</AM>
+<AM lemma="francouzský">AAIP6----1A----</AM>
+<AM lemma="francouzský">AAMP2----1A----</AM>
+<AM lemma="francouzský">AAMP6----1A----</AM>
+<AM lemma="francouzský">AANP2----1A----</AM>
+<AM lemma="francouzský">AANP6----1A----</AM>
+<AM lemma="francouzský" src="auto" recommended="1">AAFP2----1A----</AM>
+</tag>
 </m>
 <m id="m127-d1t730-2">
 <w.rf>

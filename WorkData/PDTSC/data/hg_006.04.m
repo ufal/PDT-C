@@ -3480,13 +3480,12 @@
 <w.rf>
 <LM>w#w-d1t1636-1</LM>
 </w.rf>
-<form>úřednící</form>
-<tag lemma="úřednící" src="auto">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>úředníci</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>úředníci</form>
+<tag>
+<AM lemma="úředník">NNMP5-----A----</AM>
+<AM lemma="úředník" src="auto" recommended="1">NNMP1-----A----</AM>
+</tag>
 </m>
 <m id="m006-d1t1638-1">
 <w.rf>

@@ -2203,13 +2203,9 @@
 <w.rf>
 <LM>w#w-152-56</LM>
 </w.rf>
-<form>Měli </form>
-<tag lemma="Měli" src="auto">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>Měli</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>Měli</form>
+<tag lemma="mít" src="auto" recommended="1">VpMP---XR-AA---</tag>
 </m>
 <m id="m141-152-48">
 <w.rf>
@@ -5645,13 +5641,9 @@
 <w.rf>
 <LM>w#w-d1t344-1</LM>
 </w.rf>
-<form>odnesli</form>
-<tag lemma="odnést" src="auto" recommended="1">VpMP---XR-AA---</tag>
-<comment>
-<LM type="New Form">
-<text>odnesly</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>odnesly</form>
+<tag lemma="odnést" src="auto" recommended="1">VpTP---XR-AA---</tag>
 </m>
 <m id="m141-d1e330-x3-59">
 <w.rf>

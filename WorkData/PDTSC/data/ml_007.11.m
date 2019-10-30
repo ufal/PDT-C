@@ -2453,13 +2453,9 @@
 <w.rf>
 <LM>w#w-d1t3385-22</LM>
 </w.rf>
-<form>tančili</form>
-<tag lemma="tančit_:T" src="auto" recommended="1">VpMP---XR-AA---</tag>
-<comment>
-<LM type="New Form">
-<text>tančily</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>tančily</form>
+<tag lemma="tančit_:T" src="auto" recommended="1">VpTP---XR-AA---</tag>
 </m>
 <m id="m007-d1t3385-21">
 <w.rf>

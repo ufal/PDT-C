@@ -436,13 +436,9 @@
 <w.rf>
 <LM>w#w-d1t1462-11</LM>
 </w.rf>
-<form>cejpek</form>
-<tag lemma="cejpek" src="auto">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>Cejpek</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>Cejpek</form>
+<tag lemma="Cejpek_;S" src="auto" recommended="1">NNMS1-----A----</tag>
 </m>
 <m id="m124-104-1354">
 <w.rf>
@@ -3114,13 +3110,22 @@
 <w.rf>
 <LM>w#w-d1t1532-13</LM>
 </w.rf>
-<form>soustředení</form>
-<tag lemma="soustředení" src="auto">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>soustředění</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>soustředění</form>
+<tag>
+<AM lemma="soustředěný_^(*3it)">AAMP1----1A----</AM>
+<AM lemma="soustředěný_^(*3it)">AAMP5----1A----</AM>
+<AM lemma="soustředění_^(*3it)">NNNP1-----A----</AM>
+<AM lemma="soustředění_^(*3it)">NNNP2-----A----</AM>
+<AM lemma="soustředění_^(*3it)">NNNP4-----A----</AM>
+<AM lemma="soustředění_^(*3it)">NNNP5-----A----</AM>
+<AM lemma="soustředění_^(*3it)">NNNS1-----A----</AM>
+<AM lemma="soustředění_^(*3it)">NNNS2-----A----</AM>
+<AM lemma="soustředění_^(*3it)">NNNS3-----A----</AM>
+<AM lemma="soustředění_^(*3it)">NNNS5-----A----</AM>
+<AM lemma="soustředění_^(*3it)">NNNS6-----A----</AM>
+<AM lemma="soustředění_^(*3it)" src="auto" recommended="1">NNNS4-----A----</AM>
+</tag>
 </m>
 <m id="m124-d1t1532-14">
 <w.rf>
@@ -4618,13 +4623,12 @@
 <w.rf>
 <LM>w#w-d1t1564-20</LM>
 </w.rf>
-<form>musít</form>
-<tag lemma="musít" src="auto">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>musí</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>musí</form>
+<tag>
+<AM lemma="muset">VB-P---3P-AA--1</AM>
+<AM lemma="muset" src="auto" recommended="1">VB-S---3P-AA---</AM>
+</tag>
 </m>
 <m id="m124-d1t1564-23">
 <w.rf>

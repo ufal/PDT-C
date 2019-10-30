@@ -764,13 +764,12 @@
 <w.rf>
 <LM>w#w-d1t803-4</LM>
 </w.rf>
-<form>konrétně</form>
-<tag lemma="konrétně" src="auto">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>konkrétně</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>konkrétně</form>
+<tag>
+<AM lemma="konkrétno">NNNS6-----A----</AM>
+<AM lemma="konkrétně_^(*1í)" src="auto" recommended="1">Dg-------1A----</AM>
+</tag>
 </m>
 <m id="m109-d1t803-5">
 <w.rf>
@@ -5882,13 +5881,26 @@
 <w.rf>
 <LM>w#w-d1t963-14</LM>
 </w.rf>
-<form>kulatoučké</form>
-<tag lemma="kulatoučké" src="auto">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>kulaťoučké</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>kulaťoučké</form>
+<tag>
+<AM lemma="kulaťoučký">AAFP4----1A----</AM>
+<AM lemma="kulaťoučký">AAFP5----1A----</AM>
+<AM lemma="kulaťoučký">AAFS2----1A----</AM>
+<AM lemma="kulaťoučký">AAFS3----1A----</AM>
+<AM lemma="kulaťoučký">AAFS6----1A----</AM>
+<AM lemma="kulaťoučký">AAIP1----1A----</AM>
+<AM lemma="kulaťoučký">AAIP4----1A----</AM>
+<AM lemma="kulaťoučký">AAIP5----1A----</AM>
+<AM lemma="kulaťoučký">AAMP4----1A----</AM>
+<AM lemma="kulaťoučký">AANP1----1A---6</AM>
+<AM lemma="kulaťoučký">AANP4----1A---6</AM>
+<AM lemma="kulaťoučký">AANP5----1A---6</AM>
+<AM lemma="kulaťoučký">AANS1----1A----</AM>
+<AM lemma="kulaťoučký">AANS4----1A----</AM>
+<AM lemma="kulaťoučký">AANS5----1A----</AM>
+<AM lemma="kulaťoučký" src="auto" recommended="1">AAFP1----1A----</AM>
+</tag>
 </m>
 <m id="m109-d1t963-15">
 <w.rf>

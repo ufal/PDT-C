@@ -3695,13 +3695,26 @@
 <w.rf>
 <LM>w#w-d1t547-6</LM>
 </w.rf>
-<form>dvojíté</form>
-<tag lemma="dvojíté" src="auto">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>dvojité</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>dvojité</form>
+<tag>
+<AM lemma="dvojitý">AAFP1----1A----</AM>
+<AM lemma="dvojitý">AAFP4----1A----</AM>
+<AM lemma="dvojitý">AAFP5----1A----</AM>
+<AM lemma="dvojitý">AAFS2----1A----</AM>
+<AM lemma="dvojitý">AAFS3----1A----</AM>
+<AM lemma="dvojitý">AAFS6----1A----</AM>
+<AM lemma="dvojitý">AAIP1----1A----</AM>
+<AM lemma="dvojitý">AAIP4----1A----</AM>
+<AM lemma="dvojitý">AAIP5----1A----</AM>
+<AM lemma="dvojitý">AAMP4----1A----</AM>
+<AM lemma="dvojitý">AANP1----1A---6</AM>
+<AM lemma="dvojitý">AANP4----1A---6</AM>
+<AM lemma="dvojitý">AANP5----1A---6</AM>
+<AM lemma="dvojitý">AANS4----1A----</AM>
+<AM lemma="dvojitý">AANS5----1A----</AM>
+<AM lemma="dvojitý" src="auto" recommended="1">AANS1----1A----</AM>
+</tag>
 </m>
 <m id="m038-d1t547-7">
 <w.rf>

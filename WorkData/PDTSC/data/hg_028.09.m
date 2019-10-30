@@ -3741,13 +3741,9 @@
 <w.rf>
 <LM>w#w-d1t3024-2</LM>
 </w.rf>
-<form>Mmyslela</form>
-<tag lemma="Mmyslela" src="auto">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>Myslela</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>Myslela</form>
+<tag lemma="myslet" src="auto" recommended="1">VpQW---XR-AA---</tag>
 </m>
 <m id="m028-d1t3024-3">
 <w.rf>

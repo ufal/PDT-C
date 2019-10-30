@@ -229,13 +229,9 @@
 <w.rf>
 <LM>w#w-d1t199-21</LM>
 </w.rf>
-<form>5 000</form>
-<tag lemma="5 000" src="auto">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>5000</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>5000</form>
+<tag lemma="5000" src="auto" recommended="1">C=-------------</tag>
 </m>
 <m id="m147-282-337">
 <w.rf>
@@ -2702,16 +2698,22 @@
 <w.rf>
 <LM>w#w-d1t242-15</LM>
 </w.rf>
-<form>oddělní</form>
+<form_change>spell</form_change>
+<form>oddělení</form>
 <tag>
-<AM lemma="oddělný" src="auto" recommended="1">AAMP1----1A----</AM>
-<AM lemma="oddělný" src="auto">AAMP5----1A----</AM>
+<AM lemma="oddělený_^(*3it)">AAMP1----1A----</AM>
+<AM lemma="oddělený_^(*3it)">AAMP5----1A----</AM>
+<AM lemma="oddělení_^(*3it)">NNNP1-----A----</AM>
+<AM lemma="oddělení_^(*3it)">NNNP2-----A----</AM>
+<AM lemma="oddělení_^(*3it)">NNNP4-----A----</AM>
+<AM lemma="oddělení_^(*3it)">NNNP5-----A----</AM>
+<AM lemma="oddělení_^(*3it)">NNNS1-----A----</AM>
+<AM lemma="oddělení_^(*3it)">NNNS3-----A----</AM>
+<AM lemma="oddělení_^(*3it)">NNNS4-----A----</AM>
+<AM lemma="oddělení_^(*3it)">NNNS5-----A----</AM>
+<AM lemma="oddělení_^(*3it)">NNNS6-----A----</AM>
+<AM lemma="oddělení_^(*3it)" src="auto" recommended="1">NNNS2-----A----</AM>
 </tag>
-<comment>
-<LM type="New Form">
-<text>oddělení</text>
-</LM>
-</comment>
 </m>
 <m id="m147-506-507">
 <w.rf>

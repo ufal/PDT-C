@@ -2932,13 +2932,14 @@
 <w.rf>
 <LM>w#w-d1e3398-x2-527</LM>
 </w.rf>
-<form>Hungardy</form>
-<tag lemma="Hungardy" src="auto">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>Hurghady</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>Hurghady</form>
+<tag>
+<AM lemma="Hurghada_;G">NNFP1-----A----</AM>
+<AM lemma="Hurghada_;G">NNFP4-----A----</AM>
+<AM lemma="Hurghada_;G">NNFP5-----A----</AM>
+<AM lemma="Hurghada_;G" src="auto" recommended="1">NNFS2-----A----</AM>
+</tag>
 </m>
 <m id="m061-d1e3398-x2-526">
 <w.rf>

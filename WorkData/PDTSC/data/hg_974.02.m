@@ -4187,13 +4187,9 @@
 <w.rf>
 <LM>w#w-id61546-14</LM>
 </w.rf>
-<form>zajímaji</form>
-<tag lemma="zajímaji" src="auto">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>zajímají</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>zajímají</form>
+<tag lemma="zajímat_:T" src="auto" recommended="1">VB-P---3P-AA---</tag>
 </m>
 <m id="m974-id61546-16">
 <w.rf>

@@ -4163,13 +4163,37 @@
 <w.rf>
 <LM>w#w-d1t250-3</LM>
 </w.rf>
-<form>odchodní</form>
-<tag lemma="odchodní" src="auto">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>obchodní</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>obchodní</form>
+<tag>
+<AM lemma="obchodní">AAFP1----1A----</AM>
+<AM lemma="obchodní">AAFP4----1A----</AM>
+<AM lemma="obchodní">AAFP5----1A----</AM>
+<AM lemma="obchodní">AAFS1----1A----</AM>
+<AM lemma="obchodní">AAFS2----1A----</AM>
+<AM lemma="obchodní">AAFS3----1A----</AM>
+<AM lemma="obchodní">AAFS5----1A----</AM>
+<AM lemma="obchodní">AAFS6----1A----</AM>
+<AM lemma="obchodní">AAFS7----1A----</AM>
+<AM lemma="obchodní">AAIP1----1A----</AM>
+<AM lemma="obchodní">AAIP4----1A----</AM>
+<AM lemma="obchodní">AAIP5----1A----</AM>
+<AM lemma="obchodní">AAIS1----1A----</AM>
+<AM lemma="obchodní">AAIS4----1A----</AM>
+<AM lemma="obchodní">AAIS5----1A----</AM>
+<AM lemma="obchodní">AAMP1----1A----</AM>
+<AM lemma="obchodní">AAMP4----1A----</AM>
+<AM lemma="obchodní">AAMP5----1A----</AM>
+<AM lemma="obchodní">AAMS1----1A----</AM>
+<AM lemma="obchodní">AAMS5----1A----</AM>
+<AM lemma="obchodní">AANP1----1A----</AM>
+<AM lemma="obchodní">AANP4----1A----</AM>
+<AM lemma="obchodní">AANP5----1A----</AM>
+<AM lemma="obchodní">AANS1----1A----</AM>
+<AM lemma="obchodní">AANS4----1A----</AM>
+<AM lemma="obchodní">AANS5----1A----</AM>
+<AM lemma="obchodní" src="auto" recommended="1">AAFS4----1A----</AM>
+</tag>
 </m>
 <m id="m142-d1t250-4">
 <w.rf>

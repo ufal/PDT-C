@@ -583,13 +583,9 @@
 <w.rf>
 <LM>w#w-d1t2317-3</LM>
 </w.rf>
-<form>museli</form>
-<tag lemma="muset" src="auto" recommended="1">VpMP---XR-AA---</tag>
-<comment>
-<LM type="New Form">
-<text>musely</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>musely</form>
+<tag lemma="muset" src="auto" recommended="1">VpTP---XR-AA---</tag>
 </m>
 <m id="m045-d1t2317-4">
 <w.rf>
@@ -1457,7 +1453,7 @@
 <tag lemma="?" src="auto" recommended="1">Z:-------------</tag>
 </m>
 </s>
-<s id="m-67"/>
+<s id="m-67"></s>
 <s id="m-d1e2379-x2">
 <m id="m045-d1t2382-1">
 <w.rf>
@@ -2981,13 +2977,9 @@
 <w.rf>
 <LM>w#w-d1t2478-5</LM>
 </w.rf>
-<form>redentorista</form>
-<tag lemma="redentorista" src="auto">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>redemptorista</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>redemptorista</form>
+<tag lemma="redemptorista" src="auto" recommended="1">NNMS1-----A----</tag>
 </m>
 <m id="m045-155-158">
 <w.rf>
@@ -3120,13 +3112,13 @@
 <w.rf>
 <LM>w#w-d1t2478-24</LM>
 </w.rf>
-<form>šatsvo</form>
-<tag lemma="šatsvo" src="auto">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>šatstvo</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>šatstvo</form>
+<tag>
+<AM lemma="šatstvo">NNNS1-----A----</AM>
+<AM lemma="šatstvo">NNNS5-----A----</AM>
+<AM lemma="šatstvo" src="auto" recommended="1">NNNS4-----A----</AM>
+</tag>
 </m>
 <m id="m045-d-id134292-punct">
 <w.rf>

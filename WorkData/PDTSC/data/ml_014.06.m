@@ -776,13 +776,9 @@
 <w.rf>
 <LM>w#w-d1t2228-10</LM>
 </w.rf>
-<form>odvést</form>
-<tag lemma="odvést" src="auto" recommended="1">Vf--------A----</tag>
-<comment>
-<LM type="New Form">
-<text>odvézt</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>odvézt</form>
+<tag lemma="odvézt" src="auto" recommended="1">Vf--------A----</tag>
 </m>
 <m id="m014-d1t2228-11">
 <w.rf>

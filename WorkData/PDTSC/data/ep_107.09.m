@@ -6424,13 +6424,9 @@
 <w.rf>
 <LM>w#w-d1t1856-15</LM>
 </w.rf>
-<form>vybudovali</form>
-<tag lemma="vybudovat_:W" src="auto" recommended="1">VpMP---XR-AA---</tag>
-<comment>
-<LM type="New Form">
-<text>vybudovaly</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>vybudovaly</form>
+<tag lemma="vybudovat_:W" src="auto" recommended="1">VpTP---XR-AA---</tag>
 </m>
 <m id="m107-d1t1856-12">
 <w.rf>

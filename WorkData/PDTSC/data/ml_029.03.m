@@ -3277,13 +3277,13 @@
 <w.rf>
 <LM>w#w-d1t1169-3</LM>
 </w.rf>
-<form>podředu</form>
-<tag lemma="podředu" src="auto">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>podřepu</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>podřepu</form>
+<tag>
+<AM lemma="podřep">NNIS2-----A----</AM>
+<AM lemma="podřep">NNIS3-----A----</AM>
+<AM lemma="podřep" src="auto" recommended="1">NNIS6-----A----</AM>
+</tag>
 </m>
 <m id="m029-d1t1169-4">
 <w.rf>

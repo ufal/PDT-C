@@ -204,17 +204,17 @@
 <w.rf>
 <LM>w#w-d1t25-6</LM>
 </w.rf>
-<form>u</form>
+<form_change>spell</form_change>
+<form>a</form>
 <tag>
-<AM lemma="u-1" src="auto" recommended="1">RR--2----------</AM>
-<AM lemma="u-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
-<AM lemma="u-88_:B" src="auto">NNXXX-----A----</AM>
+<AM lemma="a-2_,t_^(angl._neurč._člen)">AAXXX----1A----</AM>
+<AM lemma="a-3_^(označení_pomocí_písmene)">NNNXX-----A----</AM>
+<AM lemma="a-4_,t_^(př._a_la)">RR--1----------</AM>
+<AM lemma="a-8_:B_^(ost._zkratka)">XX------------8</AM>
+<AM lemma="akciový_:B_^(jen_akciová_společnost)">AAXXX----1A---8</AM>
+<AM lemma="á_,t">RF------------1</AM>
+<AM lemma="a-1" src="auto" recommended="1">J^-------------</AM>
 </tag>
-<comment>
-<LM type="New Form">
-<text>a</text>
-</LM>
-</comment>
 </m>
 <m id="m044-d1t25-7">
 <w.rf>
@@ -2367,13 +2367,9 @@
 <w.rf>
 <LM>w#w-d1t138-2</LM>
 </w.rf>
-<form>jendom</form>
-<tag lemma="jendom" src="auto">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>jednom</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>jednom</form>
+<tag lemma="jeden`1" src="auto" recommended="1">ClZS6----------</tag>
 </m>
 <m id="m044-d1t138-3">
 <w.rf>

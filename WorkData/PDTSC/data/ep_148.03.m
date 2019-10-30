@@ -3296,13 +3296,9 @@
 <w.rf>
 <LM>w#w-d1t1511-9</LM>
 </w.rf>
-<form>vydžet</form>
-<tag lemma="vydžet" src="auto">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>vydržet</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>vydržet</form>
+<tag lemma="vydržet" src="auto" recommended="1">Vf--------A----</tag>
 </m>
 <m id="m148-d1e1461-x3-207">
 <w.rf>
@@ -4634,13 +4630,9 @@
 <w.rf>
 <LM>w#w-d1t1616-8</LM>
 </w.rf>
-<form>dokončia</form>
-<tag lemma="dokončia" src="auto">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>dokončila</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>dokončila</form>
+<tag lemma="dokončit_:W" src="auto" recommended="1">VpQW---XR-AA---</tag>
 </m>
 <m id="m148-325-327">
 <w.rf>

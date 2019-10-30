@@ -1892,13 +1892,9 @@
 <w.rf>
 <LM>w#w-d1t1586-1</LM>
 </w.rf>
-<form>Nahrajuju</form>
-<tag lemma="Nahrajuju" src="auto">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>Nahraju</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>Nahraju</form>
+<tag lemma="nahrát" src="auto" recommended="1">VB-S---1P-AA---</tag>
 </m>
 <m id="m132-d1t1586-2">
 <w.rf>

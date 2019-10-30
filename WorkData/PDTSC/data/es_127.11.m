@@ -415,12 +415,10 @@
 <w.rf>
 <LM>w#w-d1t2363-18</LM>
 </w.rf>
-<form>ne-li</form>
-<tag lemma="ne-li" src="auto">X@-------------</tag>
+<form_change>spell</form_change>
+<form>ne</form>
+<tag lemma="ne" src="auto" recommended="1">TT-------------</tag>
 <comment>
-<LM type="New Form">
-<text>ne</text>
-</LM>
 <LM type="Other">
 <text>3v1: ne - li</text>
 </LM>

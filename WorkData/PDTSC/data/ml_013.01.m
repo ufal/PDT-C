@@ -4853,13 +4853,14 @@
 <w.rf>
 <LM>w#w-d1t763-2</LM>
 </w.rf>
-<form>nejmaldšího</form>
-<tag lemma="nejmaldšího" src="auto">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>nejmladšího</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>nejmladšího</form>
+<tag>
+<AM lemma="mladý">AAIS2----3A----</AM>
+<AM lemma="mladý">AAMS4----3A----</AM>
+<AM lemma="mladý">AANS2----3A----</AM>
+<AM lemma="mladý" src="auto" recommended="1">AAMS2----3A----</AM>
+</tag>
 </m>
 <m id="m013-d1t763-3">
 <w.rf>

@@ -1116,13 +1116,9 @@
 <w.rf>
 <LM>w#w-d1t1052-25</LM>
 </w.rf>
-<form>24 000</form>
-<tag lemma="24 000" src="auto">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>24000</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>24000</form>
+<tag lemma="24000" src="auto" recommended="1">C=-------------</tag>
 </m>
 <m id="m015-28-29">
 <w.rf>
@@ -5294,13 +5290,9 @@
 <w.rf>
 <LM>w#w-d1t1232-21</LM>
 </w.rf>
-<form>100 000</form>
-<tag lemma="100 000" src="auto">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>100000</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>100000</form>
+<tag lemma="100000" src="auto" recommended="1">C=-------------</tag>
 </m>
 <m id="m015-d-id113959-punct">
 <w.rf>

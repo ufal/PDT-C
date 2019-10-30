@@ -3783,13 +3783,13 @@
 <w.rf>
 <LM>w#w-d1t338-4</LM>
 </w.rf>
-<form>vysokozvižném</form>
-<tag lemma="vysokozvižném" src="auto">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>vysokozdvižném</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>vysokozdvižném</form>
+<tag>
+<AM lemma="vysokozdvižný">AAMS6----1A----</AM>
+<AM lemma="vysokozdvižný">AANS6----1A----</AM>
+<AM lemma="vysokozdvižný" src="auto" recommended="1">AAIS6----1A----</AM>
+</tag>
 </m>
 <m id="m014-d1t338-6">
 <w.rf>

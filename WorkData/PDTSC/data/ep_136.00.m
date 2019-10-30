@@ -6949,13 +6949,26 @@
 <w.rf>
 <LM>w#w-d1t502-5</LM>
 </w.rf>
-<form>ruzné</form>
-<tag lemma="ruzné" src="auto">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>různé</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>různé</form>
+<tag>
+<AM lemma="různý">AAFP1----1A----</AM>
+<AM lemma="různý">AAFP5----1A----</AM>
+<AM lemma="různý">AAFS2----1A----</AM>
+<AM lemma="různý">AAFS3----1A----</AM>
+<AM lemma="různý">AAFS6----1A----</AM>
+<AM lemma="různý">AAIP1----1A----</AM>
+<AM lemma="různý">AAIP4----1A----</AM>
+<AM lemma="různý">AAIP5----1A----</AM>
+<AM lemma="různý">AAMP4----1A----</AM>
+<AM lemma="různý">AANP1----1A---6</AM>
+<AM lemma="různý">AANP4----1A---6</AM>
+<AM lemma="různý">AANP5----1A---6</AM>
+<AM lemma="různý">AANS1----1A----</AM>
+<AM lemma="různý">AANS4----1A----</AM>
+<AM lemma="různý">AANS5----1A----</AM>
+<AM lemma="různý" src="auto" recommended="1">AAFP4----1A----</AM>
+</tag>
 </m>
 <m id="m136-d1t502-6">
 <w.rf>

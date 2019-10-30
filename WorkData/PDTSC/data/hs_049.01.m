@@ -528,13 +528,33 @@
 <w.rf>
 <LM>w#w-d1t351-9</LM>
 </w.rf>
-<form>teliký</form>
-<tag lemma="teliký" src="auto">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>veliký</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>veliký</form>
+<tag>
+<AM lemma="veliký">AAFP1----1A---6</AM>
+<AM lemma="veliký">AAFP4----1A---6</AM>
+<AM lemma="veliký">AAFP5----1A---6</AM>
+<AM lemma="veliký">AAFS2----1A---6</AM>
+<AM lemma="veliký">AAFS3----1A---6</AM>
+<AM lemma="veliký">AAFS6----1A---6</AM>
+<AM lemma="veliký">AAIP1----1A---6</AM>
+<AM lemma="veliký">AAIP4----1A---6</AM>
+<AM lemma="veliký">AAIP5----1A---6</AM>
+<AM lemma="veliký">AAIS4----1A----</AM>
+<AM lemma="veliký">AAIS5----1A----</AM>
+<AM lemma="veliký">AAMP1----1A---6</AM>
+<AM lemma="veliký">AAMP4----1A---6</AM>
+<AM lemma="veliký">AAMP5----1A---6</AM>
+<AM lemma="veliký">AAMS1----1A----</AM>
+<AM lemma="veliký">AAMS5----1A----</AM>
+<AM lemma="veliký">AANP1----1A---6</AM>
+<AM lemma="veliký">AANP4----1A---6</AM>
+<AM lemma="veliký">AANP5----1A---6</AM>
+<AM lemma="veliký">AANS1----1A---6</AM>
+<AM lemma="veliký">AANS4----1A---6</AM>
+<AM lemma="veliký">AANS5----1A---6</AM>
+<AM lemma="veliký" src="auto" recommended="1">AAIS1----1A----</AM>
+</tag>
 </m>
 <m id="m049-d1t351-10">
 <w.rf>

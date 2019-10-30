@@ -2970,13 +2970,15 @@
 <w.rf>
 <LM>w#w-d1t1569-6</LM>
 </w.rf>
-<form>štastná</form>
-<tag lemma="štastná" src="auto">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>šťastná</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>šťastná</form>
+<tag>
+<AM lemma="šťastný">AAFS5----1A----</AM>
+<AM lemma="šťastný">AANP1----1A----</AM>
+<AM lemma="šťastný">AANP4----1A----</AM>
+<AM lemma="šťastný">AANP5----1A----</AM>
+<AM lemma="šťastný" src="auto" recommended="1">AAFS1----1A----</AM>
+</tag>
 </m>
 <m id="m027-d-m-d1e1560-x2-punct-punct">
 <w.rf>
@@ -5453,13 +5455,9 @@
 <w.rf>
 <LM>w#w-d1t1718-9</LM>
 </w.rf>
-<form>moravák</form>
-<tag lemma="moravák" src="auto">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>Moravák</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>Moravák</form>
+<tag lemma="Moravák_;E" src="auto" recommended="1">NNMS1-----A----</tag>
 </m>
 <m id="m027-d1t1718-15">
 <w.rf>

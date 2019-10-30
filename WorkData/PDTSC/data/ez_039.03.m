@@ -4968,13 +4968,9 @@
 <w.rf>
 <LM>w#w-d1t1499-6</LM>
 </w.rf>
-<form>Škrvňanech</form>
-<tag lemma="Škrvňanech" src="auto">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>Škvrňanech</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>Škvrňanech</form>
+<tag lemma="Škvrňany_;G" src="auto" recommended="1">NNIP6-----A----</tag>
 </m>
 <m id="m039-13-14">
 <w.rf>

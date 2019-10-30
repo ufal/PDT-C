@@ -4406,13 +4406,12 @@
 <w.rf>
 <LM>w#w-d1t2931-5</LM>
 </w.rf>
-<form>opavdu</form>
-<tag lemma="opavdu" src="auto">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>opravdu</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>opravdu</form>
+<tag>
+<AM lemma="opravdu-2">TT-------------</AM>
+<AM lemma="opravdu-1" src="auto" recommended="1">Db-------------</AM>
+</tag>
 </m>
 <m id="m021-d1t2931-7">
 <w.rf>

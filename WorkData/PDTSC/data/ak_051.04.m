@@ -42,13 +42,9 @@
 <w.rf>
 <LM>w#w-d1t1555-2</LM>
 </w.rf>
-<form>skončili</form>
-<tag lemma="skončit_:W" src="auto" recommended="1">VpMP---XR-AA---</tag>
-<comment>
-<LM type="New Form">
-<text>skončily</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>skončily</form>
+<tag lemma="skončit_:W" src="auto" recommended="1">VpTP---XR-AA---</tag>
 </m>
 <m id="m051-d1t1555-4">
 <w.rf>
@@ -455,13 +451,8 @@
 <w.rf>
 <LM>w#w-d1t1587-9</LM>
 </w.rf>
-<form>dostali</form>
-<tag lemma="dostat" src="auto" recommended="1">VpMP---XR-AA---</tag>
-<comment>
-<LM type="New Form">
-<text>dostaly</text>
-</LM>
-</comment>
+<form>dostaly</form>
+<tag lemma="dostat" src="auto" recommended="1">VpTP---XR-AA---</tag>
 </m>
 <m id="m051-d1t1587-10">
 <w.rf>
@@ -584,13 +575,9 @@
 <w.rf>
 <LM>w#w-d1t1593-6</LM>
 </w.rf>
-<form>umístili</form>
-<tag lemma="umístit_:W" src="auto" recommended="1">VpMP---XR-AA---</tag>
-<comment>
-<LM type="New Form">
-<text>umístily</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>umístily</form>
+<tag lemma="umístit_:W" src="auto" recommended="1">VpTP---XR-AA---</tag>
 </m>
 <m id="m051-d-m-d1e1582-x2-punct-punct">
 <w.rf>

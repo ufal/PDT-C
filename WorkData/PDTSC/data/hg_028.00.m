@@ -1779,7 +1779,7 @@
 <tag lemma="?" src="auto" recommended="1">Z:-------------</tag>
 </m>
 </s>
-<s id="m-61"/>
+<s id="m-61"></s>
 <s id="m-d1e159-x2">
 <m id="m028-d1t174-1">
 <w.rf>
@@ -4376,13 +4376,9 @@
 <w.rf>
 <LM>w#w-d1t303-2</LM>
 </w.rf>
-<form>můž</form>
-<tag lemma="můž" src="auto">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>muž</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>muž</form>
+<tag lemma="muž" src="auto" recommended="1">NNMS1-----A----</tag>
 </m>
 <m id="m028-d1t303-3">
 <w.rf>

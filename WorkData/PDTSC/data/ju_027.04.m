@@ -295,13 +295,9 @@
 <w.rf>
 <LM>w#w-d1t1112-7</LM>
 </w.rf>
-<form>nemohly</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="auto" recommended="1">VpTP---XR-NA---</tag>
-<comment>
-<LM type="New Form">
-<text>nemohli</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>nemohli</form>
+<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="auto" recommended="1">VpMP---XR-NA---</tag>
 </m>
 <m id="m027-d1e1098-x2-9">
 <w.rf>

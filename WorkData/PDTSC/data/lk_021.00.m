@@ -5051,13 +5051,9 @@
 <w.rf>
 <LM>w#w-d1t379-5</LM>
 </w.rf>
-<form>téměr</form>
-<tag lemma="téměr" src="auto">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>téměř</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>téměř</form>
+<tag lemma="téměř" src="auto" recommended="1">Db-------------</tag>
 </m>
 <m id="m021-d1t379-6">
 <w.rf>
@@ -5284,13 +5280,12 @@
 <w.rf>
 <LM>w#w-d1t395-3</LM>
 </w.rf>
-<form>slevárně</form>
-<tag lemma="slevárně" src="auto">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>slévárně</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>slévárně</form>
+<tag>
+<AM lemma="slévárna">NNFS3-----A----</AM>
+<AM lemma="slévárna" src="auto" recommended="1">NNFS6-----A----</AM>
+</tag>
 </m>
 <m id="m021-d1t395-4">
 <w.rf>

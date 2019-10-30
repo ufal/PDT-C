@@ -4244,13 +4244,9 @@
 <w.rf>
 <LM>w#w-d1t938-26</LM>
 </w.rf>
-<form>rozumnět</form>
-<tag lemma="rozumnět" src="auto">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>rozumět</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>rozumět</form>
+<tag lemma="rozumět_:T" src="auto" recommended="1">Vf--------A----</tag>
 </m>
 <m id="m134-d1t938-27">
 <w.rf>

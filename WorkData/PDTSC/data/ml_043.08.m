@@ -1369,13 +1369,22 @@
 <w.rf>
 <LM>w#w-d1t2712-4</LM>
 </w.rf>
-<form>přibuzných</form>
-<tag lemma="přibuzných" src="auto">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>příbuzných</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>příbuzných</form>
+<tag>
+<AM lemma="příbuzný-2_^(podobný)">AAFP2----1A----</AM>
+<AM lemma="příbuzný-2_^(podobný)">AAFP6----1A----</AM>
+<AM lemma="příbuzný-2_^(podobný)">AAIP2----1A----</AM>
+<AM lemma="příbuzný-2_^(podobný)">AAIP6----1A----</AM>
+<AM lemma="příbuzný-2_^(podobný)">AAMP2----1A----</AM>
+<AM lemma="příbuzný-2_^(podobný)">AAMP6----1A----</AM>
+<AM lemma="příbuzný-2_^(podobný)">AANP2----1A----</AM>
+<AM lemma="příbuzný-2_^(podobný)">AANP6----1A----</AM>
+<AM lemma="příbuzná-1_^(člen_rodiny)_(*3ý-1)">NNFP2-----A----</AM>
+<AM lemma="příbuzná-1_^(člen_rodiny)_(*3ý-1)">NNFP6-----A----</AM>
+<AM lemma="příbuzný-1_^(člen_rodiny)">NNMP6-----A----</AM>
+<AM lemma="příbuzný-1_^(člen_rodiny)" src="auto" recommended="1">NNMP2-----A----</AM>
+</tag>
 </m>
 <m id="m043-205-211">
 <w.rf>

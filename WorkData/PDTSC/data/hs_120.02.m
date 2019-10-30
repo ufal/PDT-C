@@ -3549,13 +3549,16 @@
 <w.rf>
 <LM>w#w-d1t389-3</LM>
 </w.rf>
-<form>učeliště</form>
-<tag lemma="učeliště" src="auto">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>učiliště</text>
-</LM>
-</comment>
+<form>učiliště</form>
+<tag>
+<AM lemma="učiliště">NNNP1-----A----</AM>
+<AM lemma="učiliště">NNNP4-----A----</AM>
+<AM lemma="učiliště">NNNP5-----A----</AM>
+<AM lemma="učiliště">NNNS2-----A----</AM>
+<AM lemma="učiliště">NNNS4-----A----</AM>
+<AM lemma="učiliště">NNNS5-----A----</AM>
+<AM lemma="učiliště" src="auto" recommended="1">NNNS1-----A----</AM>
+</tag>
 </m>
 <m id="m120-d1t389-4">
 <w.rf>
@@ -3654,13 +3657,17 @@
 <w.rf>
 <LM>w#w-d1t389-9</LM>
 </w.rf>
-<form>učeliště</form>
-<tag lemma="učeliště" src="auto">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>učiliště</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>učiliště</form>
+<tag>
+<AM lemma="učiliště">NNNP1-----A----</AM>
+<AM lemma="učiliště">NNNP4-----A----</AM>
+<AM lemma="učiliště">NNNP5-----A----</AM>
+<AM lemma="učiliště">NNNS2-----A----</AM>
+<AM lemma="učiliště">NNNS4-----A----</AM>
+<AM lemma="učiliště">NNNS5-----A----</AM>
+<AM lemma="učiliště" src="auto" recommended="1">NNNS1-----A----</AM>
+</tag>
 </m>
 <m id="m120-d1t389-10">
 <w.rf>

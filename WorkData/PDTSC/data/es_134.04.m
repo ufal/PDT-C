@@ -807,13 +807,13 @@
 <w.rf>
 <LM>w#w-d1t515-16</LM>
 </w.rf>
-<form>klizma</form>
-<tag lemma="klizma" src="auto">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>klyzma</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>klyzma</form>
+<tag>
+<AM lemma="klyzma">NNNS1-----A----</AM>
+<AM lemma="klyzma">NNNS5-----A----</AM>
+<AM lemma="klyzma" src="auto" recommended="1">NNNS4-----A----</AM>
+</tag>
 </m>
 <m id="m134-d1t515-17">
 <w.rf>
@@ -919,13 +919,13 @@
 <w.rf>
 <LM>w#w-d1t517-13</LM>
 </w.rf>
-<form>klizma</form>
-<tag lemma="klizma" src="auto">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>klyzma</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>klyzma</form>
+<tag>
+<AM lemma="klyzma">NNNS4-----A----</AM>
+<AM lemma="klyzma">NNNS5-----A----</AM>
+<AM lemma="klyzma" src="auto" recommended="1">NNNS1-----A----</AM>
+</tag>
 </m>
 <m id="m134-d1t517-14">
 <w.rf>

@@ -971,13 +971,9 @@
 <w.rf>
 <LM>w#w-d1t649-4</LM>
 </w.rf>
-<form>nepostravil</form>
-<tag lemma="nepostravil" src="auto">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>nepostavil</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>nepostavil</form>
+<tag lemma="postavit_:W" src="auto" recommended="1">VpYS---XR-NA---</tag>
 </m>
 <m id="m142-d-id103715-punct">
 <w.rf>

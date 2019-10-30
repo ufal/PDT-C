@@ -1516,13 +1516,13 @@
 <w.rf>
 <LM>w#w-d1t387-5</LM>
 </w.rf>
-<form>čtrvtek</form>
-<tag lemma="čtrvtek" src="auto">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>čtvrtek</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>čtvrtek</form>
+<tag>
+<AM lemma="čtvrtek">NNIS1-----A----</AM>
+<AM lemma="čtvrtka">NNFP2-----A----</AM>
+<AM lemma="čtvrtek" src="auto" recommended="1">NNIS4-----A----</AM>
+</tag>
 </m>
 <m id="m053-d1t387-6">
 <w.rf>

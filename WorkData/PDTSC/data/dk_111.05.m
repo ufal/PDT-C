@@ -3038,13 +3038,12 @@
 <w.rf>
 <LM>w#w-d1t815-10</LM>
 </w.rf>
-<form>zapoměla</form>
-<tag lemma="zapoměla" src="auto">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>zapomněla</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>zapomněla</form>
+<tag>
+<AM lemma="zapomnět_,a_,n">VpQW---XR-AA---</AM>
+<AM lemma="zapomenout" src="auto" recommended="1">VpQW---XR-AA---</AM>
+</tag>
 </m>
 <m id="m111-d1t815-8">
 <w.rf>

@@ -2076,13 +2076,13 @@
 <w.rf>
 <LM>w#w-d1t422-14</LM>
 </w.rf>
-<form>Žalí</form>
-<tag lemma="Žalí" src="auto">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>Žalém</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>Žalém</form>
+<tag>
+<AM lemma="Žalé_;S">NNMS6-----A----</AM>
+<AM lemma="Žalé_;S">NNMS7-----A----</AM>
+<AM lemma="Žalý_;G" src="auto" recommended="1">NNMS6-----A----</AM>
+</tag>
 </m>
 <m id="m145-d1t422-9">
 <w.rf>

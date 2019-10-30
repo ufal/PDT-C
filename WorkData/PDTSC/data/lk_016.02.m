@@ -4433,13 +4433,14 @@
 <w.rf>
 <LM>w#w-d1t1376-17</LM>
 </w.rf>
-<form>repuliky</form>
-<tag lemma="repuliky" src="auto">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>republiky</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>republiky</form>
+<tag>
+<AM lemma="republika">NNFP1-----A----</AM>
+<AM lemma="republika">NNFP4-----A----</AM>
+<AM lemma="republika">NNFP5-----A----</AM>
+<AM lemma="republika" src="auto" recommended="1">NNFS2-----A----</AM>
+</tag>
 </m>
 <m id="m016-920-926">
 <w.rf>

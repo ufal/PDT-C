@@ -4619,13 +4619,9 @@
 <w.rf>
 <LM>w#w-d1t1454-19</LM>
 </w.rf>
-<form>přiravovali</form>
-<tag lemma="přiravovali" src="auto">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>připravovali</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>připravovali</form>
+<tag lemma="připravovat_:T" src="auto" recommended="1">VpMP---XR-AA---</tag>
 </m>
 <m id="m119-d1t1454-20">
 <w.rf>

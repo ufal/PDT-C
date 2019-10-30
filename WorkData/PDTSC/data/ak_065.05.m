@@ -2202,13 +2202,9 @@
 <w.rf>
 <LM>w#w-d1t1538-15</LM>
 </w.rf>
-<form>skroměji</form>
-<tag lemma="skroměji" src="auto">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>skromněji</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>skromněji</form>
+<tag lemma="skromně_^(*1ý)" src="auto" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="m065-d1t1538-17">
 <w.rf>

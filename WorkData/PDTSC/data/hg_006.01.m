@@ -3310,16 +3310,9 @@
 <w.rf>
 <LM>w#w-d1t536-4</LM>
 </w.rf>
-<form>Schele</form>
-<tag>
-<AM lemma="Schel_;S" src="auto">NNMS5-----A----</AM>
-<AM lemma="Schele_;S_^(Linda)" src="auto" recommended="1">NNFXX-----A----</AM>
-</tag>
-<comment>
-<LM type="New Form">
-<text>Schelde</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>Schelde</form>
+<tag lemma="Schelde_;G_^(řeka)" src="auto" recommended="1">NNXXX-----A----</tag>
 </m>
 <m id="m006-d1e527-x2-465">
 <w.rf>

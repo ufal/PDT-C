@@ -3721,13 +3721,18 @@
 <w.rf>
 <LM>w#w-d1t1723-2</LM>
 </w.rf>
-<form>Puškynově</form>
-<tag lemma="Puškynově" src="auto">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>Puškinově</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>Puškinově</form>
+<tag>
+<AM lemma="Puškinův_;S_^(*2)">AUFS3M---------</AM>
+<AM lemma="Puškinův_;S_^(*2)">AUFS6M---------</AM>
+<AM lemma="Puškinův_;S_^(*2)">AUIS3M--------6</AM>
+<AM lemma="Puškinův_;S_^(*2)">AUIS6M---------</AM>
+<AM lemma="Puškinův_;S_^(*2)">AUMS3M--------6</AM>
+<AM lemma="Puškinův_;S_^(*2)">AUMS6M---------</AM>
+<AM lemma="Puškinův_;S_^(*2)">AUNS3M--------6</AM>
+<AM lemma="Puškinův_;S_^(*2)" src="auto" recommended="1">AUNS6M---------</AM>
+</tag>
 </m>
 <m id="m117-d1t1723-3">
 <w.rf>

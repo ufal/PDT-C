@@ -1427,13 +1427,9 @@
 <w.rf>
 <LM>w#w-d1t1694-12</LM>
 </w.rf>
-<form>1 200</form>
-<tag lemma="1 200" src="auto">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>1200</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>1200</form>
+<tag lemma="1200" src="auto" recommended="1">C=-------------</tag>
 </m>
 <m id="m149-d1t1694-15">
 <w.rf>
@@ -2029,13 +2025,9 @@
 <w.rf>
 <LM>w#w-d1t1706-26</LM>
 </w.rf>
-<form>křížujou</form>
-<tag lemma="křížujou" src="auto">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>křižujou</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>křižujou</form>
+<tag lemma="křižovat_:T" src="auto" recommended="1">VB-P---3P-AA--1</tag>
 </m>
 <m id="m149-d1t1706-27">
 <w.rf>
@@ -3981,13 +3973,12 @@
 <w.rf>
 <LM>w#w-d1t1769-49</LM>
 </w.rf>
-<form>Patašona</form>
-<tag lemma="Patašona" src="auto">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>Patachona</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>Patachona</form>
+<tag>
+<AM lemma="Patachon_;S">NNMS2-----A----</AM>
+<AM lemma="Patachon_;S" src="auto" recommended="1">NNMS4-----A----</AM>
+</tag>
 </m>
 <m id="m149-d-m-d1e1762-x3-punct-punct">
 <w.rf>

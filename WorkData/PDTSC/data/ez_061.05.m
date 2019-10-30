@@ -5257,13 +5257,12 @@
 <w.rf>
 <LM>w#w-d1t1994-1</LM>
 </w.rf>
-<form>Vetšinou</form>
-<tag lemma="Vetšinou" src="auto">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>Většinou</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>Většinou</form>
+<tag>
+<AM lemma="většina">NNFS7-----A----</AM>
+<AM lemma="většinou" src="auto" recommended="1">Db-------------</AM>
+</tag>
 </m>
 <m id="m061-d-id121561-punct">
 <w.rf>

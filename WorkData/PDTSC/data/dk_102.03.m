@@ -232,13 +232,9 @@
 <w.rf>
 <LM>w#w-d1t889-5</LM>
 </w.rf>
-<form>7 000</form>
-<tag lemma="7 000" src="auto">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>7000</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>7000</form>
+<tag lemma="7000" src="auto" recommended="1">C=-------------</tag>
 </m>
 <m id="m102-d1t889-1">
 <w.rf>
@@ -931,13 +927,9 @@
 <w.rf>
 <LM>w#w-d1t926-14</LM>
 </w.rf>
-<form>křižovkách</form>
-<tag lemma="křižovkách" src="auto">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>křížovkách</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>křížovkách</form>
+<tag lemma="křížovka" src="auto" recommended="1">NNFP6-----A----</tag>
 </m>
 <m id="m102-d1e912-x2-173">
 <w.rf>

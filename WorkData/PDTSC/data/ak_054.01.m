@@ -459,13 +459,9 @@
 <w.rf>
 <LM>w#w-d1t298-23</LM>
 </w.rf>
-<form>Byli</form>
-<tag lemma="být" src="auto" recommended="1">VpMP---XR-AA---</tag>
-<comment>
-<LM type="New Form">
-<text>Byly</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>Byly</form>
+<tag lemma="být" src="auto" recommended="1">VpTP---XR-AA---</tag>
 </m>
 <m id="m054-d1t298-24">
 <w.rf>
@@ -2373,7 +2369,7 @@
 <tag lemma="?" src="auto" recommended="1">Z:-------------</tag>
 </m>
 </s>
-<s id="m-387"/>
+<s id="m-387"></s>
 <s id="m-d1e399-x2">
 <m id="m054-d1t404-8">
 <w.rf>

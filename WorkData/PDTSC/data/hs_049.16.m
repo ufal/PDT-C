@@ -3407,13 +3407,12 @@
 <w.rf>
 <LM>w#w-d1t4200-17</LM>
 </w.rf>
-<form>koio</form>
-<tag lemma="koio" src="auto">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>koi</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>koi</form>
+<tag>
+<AM lemma="koi">X@-------------</AM>
+<AM lemma="koi_;G" src="auto" recommended="1">NNNXX-----A----</AM>
+</tag>
 </m>
 <m id="m049-d1t4202-2">
 <w.rf>

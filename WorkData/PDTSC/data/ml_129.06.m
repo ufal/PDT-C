@@ -2035,13 +2035,9 @@
 <w.rf>
 <LM>w#w-d1t1539-3</LM>
 </w.rf>
-<form>králíkarna</form>
-<tag lemma="králíkarna" src="auto">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>králíkárna</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>králíkárna</form>
+<tag lemma="králíkárna" src="auto" recommended="1">NNFS1-----A----</tag>
 </m>
 <m id="m129-d-id119592-punct">
 <w.rf>

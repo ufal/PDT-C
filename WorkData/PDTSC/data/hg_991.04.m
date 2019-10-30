@@ -1011,13 +1011,12 @@
 <w.rf>
 <LM>w#w-d1t1323-10</LM>
 </w.rf>
-<form>Vagónlin</form>
-<tag lemma="Vagónlin" src="auto">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>Vagonlin</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>Vagonlin</form>
+<tag>
+<AM lemma="Vagonlin">X@-------------</AM>
+<AM lemma="Vagonlino" src="auto" recommended="1">NNNP2-----A----</AM>
+</tag>
 </m>
 <m id="m991-d1t1323-11">
 <w.rf>
@@ -4195,13 +4194,9 @@
 <w.rf>
 <LM>w#w-d1t1474-2</LM>
 </w.rf>
-<form>Brumlik</form>
-<tag lemma="Brumlik" src="auto">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>Brumlík</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>Brumlík</form>
+<tag lemma="Brumlík_;S" src="auto" recommended="1">NNMS1-----A----</tag>
 </m>
 <m id="m991-d1t1474-3">
 <w.rf>

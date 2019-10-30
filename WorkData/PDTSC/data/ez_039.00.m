@@ -1399,16 +1399,12 @@
 <w.rf>
 <LM>w#w-d1t104-3</LM>
 </w.rf>
-<form>Tomová</form>
+<form_change>spell</form_change>
+<form>Tůmová</form>
 <tag>
-<AM lemma="Tomová_;S" src="auto" recommended="1">NNFS1-----A----</AM>
-<AM lemma="Tomová_;S" src="auto">NNFS5-----A----</AM>
+<AM lemma="Tůmová_;S">NNFS5-----A----</AM>
+<AM lemma="Tůmová_;S" src="auto" recommended="1">NNFS1-----A----</AM>
 </tag>
-<comment>
-<LM type="New Form">
-<text>Tůmová</text>
-</LM>
-</comment>
 </m>
 <m id="m039-d-id57812-punct">
 <w.rf>

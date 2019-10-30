@@ -1471,13 +1471,39 @@
 <w.rf>
 <LM>w#w-d1t1098-15</LM>
 </w.rf>
-<form>Slná</form>
-<tag lemma="Slná" src="auto">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>Sluneční</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>Sluneční</form>
+<tag>
+<AM lemma="sluneční">AAFP1----1A----</AM>
+<AM lemma="sluneční">AAFP4----1A----</AM>
+<AM lemma="sluneční">AAFP5----1A----</AM>
+<AM lemma="sluneční">AAFS1----1A----</AM>
+<AM lemma="sluneční">AAFS2----1A----</AM>
+<AM lemma="sluneční">AAFS3----1A----</AM>
+<AM lemma="sluneční">AAFS4----1A----</AM>
+<AM lemma="sluneční">AAFS5----1A----</AM>
+<AM lemma="sluneční">AAFS6----1A----</AM>
+<AM lemma="sluneční">AAFS7----1A----</AM>
+<AM lemma="sluneční">AAIP1----1A----</AM>
+<AM lemma="sluneční">AAIP4----1A----</AM>
+<AM lemma="sluneční">AAIP5----1A----</AM>
+<AM lemma="sluneční">AAIS1----1A----</AM>
+<AM lemma="sluneční">AAIS4----1A----</AM>
+<AM lemma="sluneční">AAIS5----1A----</AM>
+<AM lemma="sluneční">AAMP1----1A----</AM>
+<AM lemma="sluneční">AAMP4----1A----</AM>
+<AM lemma="sluneční">AAMP5----1A----</AM>
+<AM lemma="sluneční">AAMS1----1A----</AM>
+<AM lemma="sluneční">AAMS5----1A----</AM>
+<AM lemma="sluneční">AANP1----1A----</AM>
+<AM lemma="sluneční">AANP5----1A----</AM>
+<AM lemma="sluneční">AANS1----1A----</AM>
+<AM lemma="sluneční">AANS4----1A----</AM>
+<AM lemma="sluneční">AANS5----1A----</AM>
+<AM lemma="slunečný">AAMP1----1A----</AM>
+<AM lemma="slunečný">AAMP5----1A----</AM>
+<AM lemma="sluneční" src="auto" recommended="1">AANP4----1A----</AM>
+</tag>
 </m>
 <m id="m007-d1t1098-16">
 <w.rf>

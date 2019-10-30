@@ -609,13 +609,12 @@
 <w.rf>
 <LM>w#w-d1t1314-3</LM>
 </w.rf>
-<form>Náchází</form>
-<tag lemma="Náchází" src="auto">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>Nachází</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>Nachází</form>
+<tag>
+<AM lemma="nacházet_:T">VB-P---3P-AA--1</AM>
+<AM lemma="nacházet_:T" src="auto" recommended="1">VB-S---3P-AA---</AM>
+</tag>
 </m>
 <m id="m121-d1t1314-2">
 <w.rf>
@@ -978,16 +977,12 @@
 <w.rf>
 <LM>w#w-d1t1330-17</LM>
 </w.rf>
-<form>vhlíží</form>
+<form_change>spell</form_change>
+<form>vyhlíží</form>
 <tag>
-<AM lemma="vhlížet_:T_,s" src="auto">VB-P---3P-AA--1</AM>
-<AM lemma="vhlížet_:T_,s" src="auto" recommended="1">VB-S---3P-AA---</AM>
+<AM lemma="vyhlížet_:T">VB-P---3P-AA--1</AM>
+<AM lemma="vyhlížet_:T" src="auto" recommended="1">VB-S---3P-AA---</AM>
 </tag>
-<comment>
-<LM type="New Form">
-<text>vyhlíží</text>
-</LM>
-</comment>
 </m>
 <m id="m121-d1t1330-19">
 <w.rf>
@@ -4412,13 +4407,14 @@
 <w.rf>
 <LM>w#w-d1t1443-24</LM>
 </w.rf>
-<form>vpzomínky</form>
-<tag lemma="vpzomínky" src="auto">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>vzpomínky</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>vzpomínky</form>
+<tag>
+<AM lemma="vzpomínka">NNFP1-----A----</AM>
+<AM lemma="vzpomínka">NNFP5-----A----</AM>
+<AM lemma="vzpomínka">NNFS2-----A----</AM>
+<AM lemma="vzpomínka" src="auto" recommended="1">NNFP4-----A----</AM>
+</tag>
 </m>
 <m id="m121-d-m-d1e1438-x2-punct-punct">
 <w.rf>

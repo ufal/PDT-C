@@ -6900,13 +6900,20 @@
 <w.rf>
 <LM>w#w-d1t2021-4</LM>
 </w.rf>
-<form>oštřovatelství</form>
-<tag lemma="oštřovatelství" src="auto">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>ošetřovatelství</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>ošetřovatelství</form>
+<tag>
+<AM lemma="ošetřovatelství">NNNP1-----A----</AM>
+<AM lemma="ošetřovatelství">NNNP2-----A----</AM>
+<AM lemma="ošetřovatelství">NNNP4-----A----</AM>
+<AM lemma="ošetřovatelství">NNNP5-----A----</AM>
+<AM lemma="ošetřovatelství">NNNS2-----A----</AM>
+<AM lemma="ošetřovatelství">NNNS3-----A----</AM>
+<AM lemma="ošetřovatelství">NNNS4-----A----</AM>
+<AM lemma="ošetřovatelství">NNNS5-----A----</AM>
+<AM lemma="ošetřovatelství">NNNS6-----A----</AM>
+<AM lemma="ošetřovatelství" src="auto" recommended="1">NNNS1-----A----</AM>
+</tag>
 </m>
 <m id="m121-d1t2021-5">
 <w.rf>

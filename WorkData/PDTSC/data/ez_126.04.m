@@ -5200,13 +5200,12 @@
 <w.rf>
 <LM>w#w-d1t937-7</LM>
 </w.rf>
-<form>jsem</form>
-<tag lemma="být" src="auto" recommended="1">VB-S---1P-AA---</tag>
-<comment>
-<LM type="New Form">
-<text>jsme</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>jsme</form>
+<tag>
+<AM lemma="být">VB-P---1P-AA--2</AM>
+<AM lemma="být" src="auto" recommended="1">VB-P---1P-AA---</AM>
+</tag>
 </m>
 <m id="m126-d1t937-8">
 <w.rf>

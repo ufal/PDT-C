@@ -192,13 +192,9 @@
 <w.rf>
 <LM>w#w-d1t46-1</LM>
 </w.rf>
-<form>Jemnuji</form>
-<tag lemma="Jemnuji" src="auto">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>Jmenuji</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>Jmenuji</form>
+<tag lemma="jmenovat_:T_:W" src="auto" recommended="1">VB-S---1P-AA--1</tag>
 </m>
 <m id="m022-d1t46-2">
 <w.rf>

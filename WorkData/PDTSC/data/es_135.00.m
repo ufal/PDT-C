@@ -2424,13 +2424,22 @@
 <w.rf>
 <LM>w#w-d1t101-5</LM>
 </w.rf>
-<form>porozumnění</form>
-<tag lemma="porozumnění" src="auto">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>porozumění</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>porozumění</form>
+<tag>
+<AM lemma="porozuměný_^(*2t)">AAMP1----1A----</AM>
+<AM lemma="porozuměný_^(*2t)">AAMP5----1A----</AM>
+<AM lemma="porozumění_^(*2t)">NNNP1-----A----</AM>
+<AM lemma="porozumění_^(*2t)">NNNP2-----A----</AM>
+<AM lemma="porozumění_^(*2t)">NNNP4-----A----</AM>
+<AM lemma="porozumění_^(*2t)">NNNP5-----A----</AM>
+<AM lemma="porozumění_^(*2t)">NNNS1-----A----</AM>
+<AM lemma="porozumění_^(*2t)">NNNS2-----A----</AM>
+<AM lemma="porozumění_^(*2t)">NNNS3-----A----</AM>
+<AM lemma="porozumění_^(*2t)">NNNS5-----A----</AM>
+<AM lemma="porozumění_^(*2t)">NNNS6-----A----</AM>
+<AM lemma="porozumění_^(*2t)" src="auto" recommended="1">NNNS4-----A----</AM>
+</tag>
 </m>
 <m id="m135-d1t104-1">
 <w.rf>
@@ -3331,13 +3340,15 @@
 <w.rf>
 <LM>w#w-d1t124-4</LM>
 </w.rf>
-<form>chlaci</form>
-<tag lemma="chlaci" src="auto">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>chlapci</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>chlapci</form>
+<tag>
+<AM lemma="chlapec">NNMP1-----A----</AM>
+<AM lemma="chlapec">NNMP5-----A----</AM>
+<AM lemma="chlapec">NNMP7-----A----</AM>
+<AM lemma="chlapec">NNMS6-----A----</AM>
+<AM lemma="chlapec" src="auto" recommended="1">NNMS3-----A----</AM>
+</tag>
 </m>
 <m id="m135-d1t124-5">
 <w.rf>

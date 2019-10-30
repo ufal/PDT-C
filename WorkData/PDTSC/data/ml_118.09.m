@@ -1186,13 +1186,12 @@
 <w.rf>
 <LM>w#w-d1t1688-28</LM>
 </w.rf>
-<form>Holmenkolen</form>
-<tag lemma="Holmenkolen" src="auto">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>Holmenkollen</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>Holmenkollen</form>
+<tag>
+<AM lemma="Holmenkollen_;G">NNIS4-----A----</AM>
+<AM lemma="Holmenkollen_;G" src="auto" recommended="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m118-31-38">
 <w.rf>

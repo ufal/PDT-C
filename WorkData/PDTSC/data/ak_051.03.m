@@ -4119,13 +4119,8 @@
 <w.rf>
 <LM>w#w-d1t1506-4</LM>
 </w.rf>
-<form>přijeli</form>
-<tag lemma="přijet" src="auto" recommended="1">VpMP---XR-AA---</tag>
-<comment>
-<LM type="New Form">
-<text>přijely</text>
-</LM>
-</comment>
+<form>přijely</form>
+<tag lemma="přijet" src="auto" recommended="1">VpTP---XR-AA---</tag>
 </m>
 <m id="m051-d-id90016-punct">
 <w.rf>
@@ -4192,18 +4187,9 @@
 <w.rf>
 <LM>w#w-d1t1511-7</LM>
 </w.rf>
-<form>moc</form>
-<tag>
-<AM lemma="moc-1_^(nad_někým;_politická,_vojenská;_plná,...)" src="auto">NNFS1-----A----</AM>
-<AM lemma="moc-1_^(nad_někým;_politická,_vojenská;_plná,...)" src="auto">NNFS4-----A----</AM>
-<AM lemma="moc-2_^(mnoho_něčeho_[se_subst._v_gen.])" src="auto">Ca--X----------</AM>
-<AM lemma="moc-3_^(velmi,_ve_spojení_s_adj.,_př._moc_hezká)" src="auto" recommended="1">Db-------------</AM>
-</tag>
-<comment>
-<LM type="New Form">
-<text>moct</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>moct</form>
+<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="auto" recommended="1">Vf--------A---1</tag>
 </m>
 <m id="m051-d1t1511-8">
 <w.rf>

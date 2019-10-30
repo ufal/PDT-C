@@ -806,13 +806,20 @@
 <w.rf>
 <LM>w#w-d1t1056-4</LM>
 </w.rf>
-<form>pobreží</form>
-<tag lemma="pobreží" src="auto">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>pobřeží</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>pobřeží</form>
+<tag>
+<AM lemma="pobřeží">NNNP1-----A----</AM>
+<AM lemma="pobřeží">NNNP2-----A----</AM>
+<AM lemma="pobřeží">NNNP4-----A----</AM>
+<AM lemma="pobřeží">NNNP5-----A----</AM>
+<AM lemma="pobřeží">NNNS1-----A----</AM>
+<AM lemma="pobřeží">NNNS2-----A----</AM>
+<AM lemma="pobřeží">NNNS3-----A----</AM>
+<AM lemma="pobřeží">NNNS4-----A----</AM>
+<AM lemma="pobřeží">NNNS5-----A----</AM>
+<AM lemma="pobřeží" src="auto" recommended="1">NNNS6-----A----</AM>
+</tag>
 </m>
 <m id="m124-d1t1056-6">
 <w.rf>

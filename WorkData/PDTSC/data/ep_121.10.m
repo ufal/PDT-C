@@ -136,13 +136,9 @@
 <w.rf>
 <LM>w#w-d1t2031-9</LM>
 </w.rf>
-<form>sestrer</form>
-<tag lemma="sestrer" src="auto">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>sester</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>sester</form>
+<tag lemma="sestra" src="auto" recommended="1">NNFP2-----A----</tag>
 </m>
 <m id="m121-d-id175375-punct">
 <w.rf>

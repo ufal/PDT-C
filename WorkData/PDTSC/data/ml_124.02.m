@@ -3490,13 +3490,13 @@
 <w.rf>
 <LM>w#w-d1t483-12</LM>
 </w.rf>
-<form>Institu</form>
-<tag lemma="Institu" src="auto">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>Institutu</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>Institutu</form>
+<tag>
+<AM lemma="institut">NNIS2-----A----</AM>
+<AM lemma="institut">NNIS3-----A----</AM>
+<AM lemma="institut" src="auto" recommended="1">NNIS6-----A----</AM>
+</tag>
 </m>
 <m id="m124-d1t483-13">
 <w.rf>

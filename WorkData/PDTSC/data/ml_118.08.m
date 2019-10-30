@@ -610,16 +610,22 @@
 <w.rf>
 <LM>w#w-d1t1467-8</LM>
 </w.rf>
-<form>oddělením</form>
+<form_change>spell</form_change>
+<form>oddělení</form>
 <tag>
-<AM lemma="oddělení_^(*3it)" src="auto">NNNP3-----A----</AM>
-<AM lemma="oddělení_^(*3it)" src="auto" recommended="1">NNNS7-----A----</AM>
+<AM lemma="oddělený_^(*3it)">AAMP1----1A----</AM>
+<AM lemma="oddělený_^(*3it)">AAMP5----1A----</AM>
+<AM lemma="oddělení_^(*3it)">NNNP1-----A----</AM>
+<AM lemma="oddělení_^(*3it)">NNNP2-----A----</AM>
+<AM lemma="oddělení_^(*3it)">NNNP4-----A----</AM>
+<AM lemma="oddělení_^(*3it)">NNNP5-----A----</AM>
+<AM lemma="oddělení_^(*3it)">NNNS1-----A----</AM>
+<AM lemma="oddělení_^(*3it)">NNNS2-----A----</AM>
+<AM lemma="oddělení_^(*3it)">NNNS3-----A----</AM>
+<AM lemma="oddělení_^(*3it)">NNNS4-----A----</AM>
+<AM lemma="oddělení_^(*3it)">NNNS5-----A----</AM>
+<AM lemma="oddělení_^(*3it)" src="auto" recommended="1">NNNS6-----A----</AM>
 </tag>
-<comment>
-<LM type="New Form">
-<text>oddělení</text>
-</LM>
-</comment>
 </m>
 <m id="m118-d1t1467-9">
 <w.rf>

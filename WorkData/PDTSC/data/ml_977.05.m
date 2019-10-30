@@ -356,13 +356,9 @@
 <w.rf>
 <LM>w#w-id64077-9</LM>
 </w.rf>
-<form>neemigrovali</form>
-<tag lemma="emigrovat_:T_:W" src="auto" recommended="1">VpMP---XR-NA---</tag>
-<comment>
-<LM type="New Form">
-<text>neemigrovaly</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>neemigrovaly</form>
+<tag lemma="emigrovat_:T_:W" src="auto" recommended="1">VpTP---XR-NA---</tag>
 </m>
 <m id="m977-id64052-x1-195">
 <w.rf>
@@ -2738,13 +2734,9 @@
 <w.rf>
 <LM>w#w-id64675-4</LM>
 </w.rf>
-<form>Jelzinem</form>
-<tag lemma="Jelzinem" src="auto">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>Jelcinem</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>Jelcinem</form>
+<tag lemma="Jelcin_;S" src="auto" recommended="1">NNMS7-----A----</tag>
 </m>
 <m id="m977-104-117">
 <w.rf>

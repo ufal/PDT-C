@@ -4964,13 +4964,9 @@
 <w.rf>
 <LM>w#w-d1t1647-7</LM>
 </w.rf>
-<form>napamatuju</form>
-<tag lemma="napamatuju" src="auto">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>nepamatuju</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>nepamatuju</form>
+<tag lemma="pamatovat_:T" src="auto" recommended="1">VB-S---1P-NA---</tag>
 </m>
 <m id="m012-d1e1631-x2-8189">
 <w.rf>
@@ -5154,16 +5150,9 @@
 <w.rf>
 <LM>w#w-d1t1664-5</LM>
 </w.rf>
-<form>Mordě</form>
-<tag>
-<AM lemma="morda" src="auto" recommended="1">NNFS3-----A----</AM>
-<AM lemma="morda" src="auto">NNFS6-----A----</AM>
-</tag>
-<comment>
-<LM type="New Form">
-<text>Mordije</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>Mordije</form>
+<tag lemma="mordije" src="auto" recommended="1">II-------------</tag>
 </m>
 <m id="m012-8208-8223">
 <w.rf>

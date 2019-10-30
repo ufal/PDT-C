@@ -3038,13 +3038,9 @@
 <w.rf>
 <LM>w#w-d1t128-8</LM>
 </w.rf>
-<form>Vvybírali</form>
-<tag lemma="Vvybírali" src="auto">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>Vybírali</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>Vybírali</form>
+<tag lemma="vybírat_:T" src="auto" recommended="1">VpMP---XR-AA---</tag>
 </m>
 <m id="m794-d1t128-7">
 <w.rf>
@@ -6135,13 +6131,12 @@
 <w.rf>
 <LM>w#w-d1t216-18</LM>
 </w.rf>
-<form>Święntochłovic</form>
-<tag lemma="Święntochłovic" src="auto">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>Świętochłovic</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>Świętochłovic</form>
+<tag>
+<AM lemma="Świętochłovic">X@-------------</AM>
+<AM lemma="Świętochłovice_;G" src="auto" recommended="1">NNFS2-----A----</AM>
+</tag>
 </m>
 <m id="m794-d-id67079">
 <w.rf>

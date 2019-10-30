@@ -1240,13 +1240,9 @@
 <w.rf>
 <LM>w#w-d1t500-1</LM>
 </w.rf>
-<form>Romel</form>
-<tag lemma="Romel" src="auto">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>Rommel</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>Rommel</form>
+<tag lemma="Rommel_;S" src="auto" recommended="1">NNMS1-----A----</tag>
 </m>
 <m id="m983-d1t500-3">
 <w.rf>
@@ -2529,13 +2525,9 @@
 <w.rf>
 <LM>w#w-d1t616-7</LM>
 </w.rf>
-<form>Romel</form>
-<tag lemma="Romel" src="auto">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>Rommel</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>Rommel</form>
+<tag lemma="Rommel_;S" src="auto" recommended="1">NNMS1-----A----</tag>
 </m>
 <m id="m983-d1t616-4">
 <w.rf>
@@ -2570,13 +2562,9 @@
 <w.rf>
 <LM>w#w-d1t633-1</LM>
 </w.rf>
-<form>Romel</form>
-<tag lemma="Romel" src="auto">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>Rommel</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>Rommel</form>
+<tag lemma="Rommel_;S" src="auto" recommended="1">NNMS1-----A----</tag>
 </m>
 <m id="m983-d1t633-2">
 <w.rf>
@@ -3073,13 +3061,9 @@
 <w.rf>
 <LM>w#w-d1t654-3</LM>
 </w.rf>
-<form>Romel</form>
-<tag lemma="Romel" src="auto">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>Rommel</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>Rommel</form>
+<tag lemma="Rommel_;S" src="auto" recommended="1">NNMS1-----A----</tag>
 </m>
 <m id="m983-d1t654-4">
 <w.rf>

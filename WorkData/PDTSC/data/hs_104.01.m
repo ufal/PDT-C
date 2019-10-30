@@ -1093,16 +1093,16 @@
 <w.rf>
 <LM>w#w-d1t222-29</LM>
 </w.rf>
-<form>Filipsu</form>
+<form_change>spell</form_change>
+<form>Philipsu</form>
 <tag>
-<AM lemma="Filipes_;S" src="auto" recommended="1">NNMS3-----A---1</AM>
-<AM lemma="Filipes_;S" src="auto">NNMS6-----A---1</AM>
+<AM lemma="Philips_;K">NNIS3-----A----</AM>
+<AM lemma="Philips_;K">NNIS6-----A----</AM>
+<AM lemma="Philips-2_;R">NNIS2-----A----</AM>
+<AM lemma="Philips-2_;R">NNIS3-----A----</AM>
+<AM lemma="Philips-2_;R">NNIS6-----A----</AM>
+<AM lemma="Philips_;K" src="auto" recommended="1">NNIS2-----A----</AM>
 </tag>
-<comment>
-<LM type="New Form">
-<text>Philipsu</text>
-</LM>
-</comment>
 </m>
 <m id="m104-d1t222-31">
 <w.rf>

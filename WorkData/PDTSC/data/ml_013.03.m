@@ -3284,41 +3284,22 @@
 <w.rf>
 <LM>w#w-d1t1381-10</LM>
 </w.rf>
-<form>zahraniční</form>
+<form_change>spell</form_change>
+<form>zahraničí</form>
 <tag>
-<AM lemma="zahraniční" src="auto">AAFP1----1A----</AM>
-<AM lemma="zahraniční" src="auto">AAFP4----1A----</AM>
-<AM lemma="zahraniční" src="auto">AAFP5----1A----</AM>
-<AM lemma="zahraniční" src="auto">AAFS1----1A----</AM>
-<AM lemma="zahraniční" src="auto">AAFS2----1A----</AM>
-<AM lemma="zahraniční" src="auto">AAFS3----1A----</AM>
-<AM lemma="zahraniční" src="auto">AAFS4----1A----</AM>
-<AM lemma="zahraniční" src="auto">AAFS5----1A----</AM>
-<AM lemma="zahraniční" src="auto" recommended="1">AAFS6----1A----</AM>
-<AM lemma="zahraniční" src="auto">AAFS7----1A----</AM>
-<AM lemma="zahraniční" src="auto">AAIP1----1A----</AM>
-<AM lemma="zahraniční" src="auto">AAIP4----1A----</AM>
-<AM lemma="zahraniční" src="auto">AAIP5----1A----</AM>
-<AM lemma="zahraniční" src="auto">AAIS1----1A----</AM>
-<AM lemma="zahraniční" src="auto">AAIS4----1A----</AM>
-<AM lemma="zahraniční" src="auto">AAIS5----1A----</AM>
-<AM lemma="zahraniční" src="auto">AAMP1----1A----</AM>
-<AM lemma="zahraniční" src="auto">AAMP4----1A----</AM>
-<AM lemma="zahraniční" src="auto">AAMP5----1A----</AM>
-<AM lemma="zahraniční" src="auto">AAMS1----1A----</AM>
-<AM lemma="zahraniční" src="auto">AAMS5----1A----</AM>
-<AM lemma="zahraniční" src="auto">AANP1----1A----</AM>
-<AM lemma="zahraniční" src="auto">AANP4----1A----</AM>
-<AM lemma="zahraniční" src="auto">AANP5----1A----</AM>
-<AM lemma="zahraniční" src="auto">AANS1----1A----</AM>
-<AM lemma="zahraniční" src="auto">AANS4----1A----</AM>
-<AM lemma="zahraniční" src="auto">AANS5----1A----</AM>
+<AM lemma="zahraničit_:W_,s">VB-P---3P-AA---</AM>
+<AM lemma="zahraničit_:W_,s">VB-S---3P-AA---</AM>
+<AM lemma="zahraničí">NNNP1-----A----</AM>
+<AM lemma="zahraničí">NNNP2-----A----</AM>
+<AM lemma="zahraničí">NNNP4-----A----</AM>
+<AM lemma="zahraničí">NNNP5-----A----</AM>
+<AM lemma="zahraničí">NNNS1-----A----</AM>
+<AM lemma="zahraničí">NNNS2-----A----</AM>
+<AM lemma="zahraničí">NNNS3-----A----</AM>
+<AM lemma="zahraničí">NNNS4-----A----</AM>
+<AM lemma="zahraničí">NNNS5-----A----</AM>
+<AM lemma="zahraničí" src="auto" recommended="1">NNNS6-----A----</AM>
 </tag>
-<comment>
-<LM type="New Form">
-<text>zahraničí</text>
-</LM>
-</comment>
 </m>
 <m id="m013-d1t1381-11">
 <w.rf>
@@ -3676,13 +3657,9 @@
 <w.rf>
 <LM>w#w-d1t1401-3</LM>
 </w.rf>
-<form>Benátkach</form>
-<tag lemma="Benátkach" src="auto">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>Benátkách</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>Benátkách</form>
+<tag lemma="Benátky_;G" src="auto" recommended="1">NNFP6-----A----</tag>
 </m>
 <m id="m013-d1t1401-5">
 <w.rf>

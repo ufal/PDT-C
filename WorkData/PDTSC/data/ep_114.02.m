@@ -1323,13 +1323,26 @@
 <w.rf>
 <LM>w#w-d1t595-20</LM>
 </w.rf>
-<form>nevpravděpodobné</form>
-<tag lemma="nevpravděpodobné" src="auto">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>nepravděpodobné</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>nepravděpodobné</form>
+<tag>
+<AM lemma="pravděpodobný">AAFP1----1N----</AM>
+<AM lemma="pravděpodobný">AAFP4----1N----</AM>
+<AM lemma="pravděpodobný">AAFP5----1N----</AM>
+<AM lemma="pravděpodobný">AAFS2----1N----</AM>
+<AM lemma="pravděpodobný">AAFS3----1N----</AM>
+<AM lemma="pravděpodobný">AAFS6----1N----</AM>
+<AM lemma="pravděpodobný">AAIP1----1N----</AM>
+<AM lemma="pravděpodobný">AAIP4----1N----</AM>
+<AM lemma="pravděpodobný">AAIP5----1N----</AM>
+<AM lemma="pravděpodobný">AAMP4----1N----</AM>
+<AM lemma="pravděpodobný">AANP1----1N---6</AM>
+<AM lemma="pravděpodobný">AANP4----1N---6</AM>
+<AM lemma="pravděpodobný">AANP5----1N---6</AM>
+<AM lemma="pravděpodobný">AANS4----1N----</AM>
+<AM lemma="pravděpodobný">AANS5----1N----</AM>
+<AM lemma="pravděpodobný" src="auto" recommended="1">AANS1----1N----</AM>
+</tag>
 </m>
 <m id="m114-d-id80616-punct">
 <w.rf>
@@ -3456,13 +3469,9 @@
 <w.rf>
 <LM>w#w-d1t667-5</LM>
 </w.rf>
-<form>řučně</form>
-<tag lemma="řučně" src="auto">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>ručně</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>ručně</form>
+<tag lemma="ručně_^(*1í)" src="auto" recommended="1">Dg-------1A----</tag>
 </m>
 <m id="m114-d1t667-6">
 <w.rf>

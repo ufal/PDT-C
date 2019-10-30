@@ -3849,13 +3849,9 @@
 <w.rf>
 <LM>w#w-d1t3457-4</LM>
 </w.rf>
-<form>museli</form>
-<tag lemma="muset" src="auto" recommended="1">VpMP---XR-AA---</tag>
-<comment>
-<LM type="New Form">
-<text>musely</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>musely</form>
+<tag lemma="muset" src="auto" recommended="1">VpTP---XR-AA---</tag>
 </m>
 <m id="m058-d1t3457-6">
 <w.rf>

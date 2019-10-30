@@ -3934,13 +3934,9 @@
 <w.rf>
 <LM>w#w-d1t2927-4</LM>
 </w.rf>
-<form>totmto</form>
-<tag lemma="totmto" src="auto">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>tomto</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>tomto</form>
+<tag lemma="tento" src="auto" recommended="1">PDZS6----------</tag>
 </m>
 <m id="m148-d1t2927-5">
 <w.rf>

@@ -2955,13 +2955,14 @@
 <w.rf>
 <LM>w#w-d1t3240-3</LM>
 </w.rf>
-<form>pouťe</form>
-<tag lemma="pouťe" src="auto">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>poutě</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>poutě</form>
+<tag>
+<AM lemma="pouť">NNFP1-----A----</AM>
+<AM lemma="pouť">NNFP5-----A----</AM>
+<AM lemma="pouť">NNFS2-----A----</AM>
+<AM lemma="pouť" src="auto" recommended="1">NNFP4-----A----</AM>
+</tag>
 </m>
 <m id="m028-d-id172992-punct">
 <w.rf>
@@ -4058,13 +4059,12 @@
 <w.rf>
 <LM>w#w-d1t3296-18</LM>
 </w.rf>
-<form>celnící</form>
-<tag lemma="celnící" src="auto">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>celníci</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>celníci</form>
+<tag>
+<AM lemma="celník-1_^(úřední_osoba)">NNMP5-----A----</AM>
+<AM lemma="celník-1_^(úřední_osoba)" src="auto" recommended="1">NNMP1-----A----</AM>
+</tag>
 </m>
 <m id="m028-1900-1904">
 <w.rf>
@@ -6060,13 +6060,13 @@
 <w.rf>
 <LM>w#w-d1t3440-6</LM>
 </w.rf>
-<form>všecho</form>
-<tag lemma="všecho" src="auto">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>všechno</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>všechno</form>
+<tag>
+<AM lemma="všechen">PLNS1----------</AM>
+<AM lemma="všechen">PLNS5----------</AM>
+<AM lemma="všechen" src="auto" recommended="1">PLNS4----------</AM>
+</tag>
 </m>
 <m id="m028-d-id180322-punct">
 <w.rf>

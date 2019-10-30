@@ -2641,13 +2641,9 @@
 <w.rf>
 <LM>w#w-d1t892-28</LM>
 </w.rf>
-<form>měli</form>
-<tag lemma="mít" src="auto" recommended="1">VpMP---XR-AA---</tag>
-<comment>
-<LM type="New Form">
-<text>měly</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>měly</form>
+<tag lemma="mít" src="auto" recommended="1">VpTP---XR-AA---</tag>
 </m>
 <m id="m115-717-450">
 <w.rf>
@@ -4011,13 +4007,9 @@
 <w.rf>
 <LM>w#w-d1t922-5</LM>
 </w.rf>
-<form>byla</form>
-<tag lemma="být" src="auto" recommended="1">VpQW---XR-AA---</tag>
-<comment>
-<LM type="New Form">
-<text>bylo</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>bylo</form>
+<tag lemma="být" src="auto" recommended="1">VpNS---XR-AA---</tag>
 </m>
 <m id="m115-d1t922-8">
 <w.rf>
