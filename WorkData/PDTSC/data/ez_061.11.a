@@ -13,17 +13,17 @@
 <ord>0</ord>
 <children>
 <LM id="ez_061.11-SCzechA-m-d1t3820-1">
-<m.rf>m#m-d1t3820-1</m.rf>
+<m.rf>m#m061-d1t3820-1</m.rf>
 <afun>AuxP</afun>
 <ord>1</ord>
 <children id="ez_061.11-SCzechA-m-d1t3820-2">
-<m.rf>m#m-d1t3820-2</m.rf>
+<m.rf>m#m061-d1t3820-2</m.rf>
 <afun>Adv</afun>
 <ord>2</ord>
 </children>
 </LM>
 <LM id="ez_061.11-SCzechA-m-d-m-d1e3813-x3-punct-punct">
-<m.rf>m#m-d-m-d1e3813-x3-punct-punct</m.rf>
+<m.rf>m#m061-d-m-d1e3813-x3-punct-punct</m.rf>
 <afun>AuxK</afun>
 <ord>3</ord>
 </LM>
