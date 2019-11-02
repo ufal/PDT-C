@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<pml_schema
+  xmlns="http://ufal.mff.cuni.cz/pdt/pml/schema/"
+  version="1.1">
+  <revision>1.0.0</revision>
+  <description>PDT 3.0 analytical trees</description>
+  <reference name="mdata" readas="pml"/>
+
+  <import schema="mdata_36_schema.xml" type="m-node.type" minimal_revision="1.0.0"/>
+  <import schema="wdata_30_schema.xml" type="bool.type"/>
+
+  <import schema="adata_30_schema.xml" type="a-adata.type"/>
+
+  <root name="adata" type="a-adata.type"/>
+
+</pml_schema>
