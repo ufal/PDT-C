@@ -1966,7 +1966,7 @@ sub EditComment {
 }
 
 
-#bind EditAllComments to Ctrl-? menu Edit All Comments
+#bind EditAllComments to Ctrl+question menu Edit All Comments
 sub EditAllComments {
     ChangingFile(0);
     my @comments = ListV($this->attr('comment'));
