@@ -2202,7 +2202,10 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>přilákáni</form>
-<tag lemma="přilákat_:W" src="auto" recommended="1">VsMP---XX-AP---</tag>
+<tag>
+<AM lemma="přilákat_:W" src="auto" recommended="1">VsMP---XX-AP---</AM>
+<AM lemma="přilákat" src="manual" selected="1">VsMP----X-APP--</AM>
+</tag>
 </m>
 <m id="m-cmpr9413-012-p10s9w6">
 <src.rf>manual</src.rf>

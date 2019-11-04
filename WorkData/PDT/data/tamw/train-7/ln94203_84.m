@@ -478,7 +478,7 @@
 <AM lemma="Katyně_;G">NNFS3-----A----</AM>
 <AM lemma="Katyně_;G">NNFS4-----A----</AM>
 <AM lemma="Katyně_;G">NNFS6-----A----</AM>
-<AM lemma="Katyň_;G" src="auto" recommended="1">NNFS6-----A----</AM>
+<AM lemma="Katyň_;G" src="auto" recommended="1" selected="1">NNFS6-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94203-84-p2s3w9">

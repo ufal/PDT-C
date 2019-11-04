@@ -701,7 +701,7 @@
 <AM lemma="v-8_:B_^(ost._zkratka)">XX------------8</AM>
 <AM lemma="versus_:B_,t_,x">RR--1---------8</AM>
 <AM lemma="veřejný_:B_^(v.o.s.)">AAXXX----1A---8</AM>
-<AM lemma="v-1" src="auto" recommended="1">RR--6----------</AM>
+<AM lemma="v-1" src="auto" recommended="1" selected="1">RR--6----------</AM>
 </tag>
 </m>
 <m id="m-lnd92252-060-p4s2w42">

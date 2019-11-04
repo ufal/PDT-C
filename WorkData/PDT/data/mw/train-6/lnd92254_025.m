@@ -913,7 +913,7 @@
 <AM lemma="ničící_^(*3it)">AGMP6-----A----</AM>
 <AM lemma="ničící_^(*3it)">AGNP2-----A----</AM>
 <AM lemma="ničící_^(*3it)">AGNP6-----A----</AM>
-<AM lemma="ničící_^(*3it)" src="auto" recommended="1">AGFP2-----A----</AM>
+<AM lemma="ničící_^(*3it)" src="auto" recommended="1" selected="1">AGFP2-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92254-025-p3s4w34">

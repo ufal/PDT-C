@@ -540,7 +540,7 @@
 <form>areál</form>
 <tag>
 <AM lemma="areál">NNIS4-----A----</AM>
-<AM lemma="areál" src="auto" recommended="1">NNIS1-----A----</AM>
+<AM lemma="areál" src="auto" recommended="1" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92255-079-p7s1w3">
@@ -715,7 +715,7 @@
 <form>areál</form>
 <tag>
 <AM lemma="areál">NNIS4-----A----</AM>
-<AM lemma="areál" src="auto" recommended="1">NNIS1-----A----</AM>
+<AM lemma="areál" src="auto" recommended="1" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92255-079-p9s1w3">

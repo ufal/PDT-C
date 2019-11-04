@@ -4300,7 +4300,7 @@
 <form>žádná</form>
 <tag>
 <AM lemma="žádný">PWFS5----------</AM>
-<AM lemma="žádný">PWNP1----------</AM>
+<AM lemma="žádný" selected="1">PWNP1----------</AM>
 <AM lemma="žádný">PWNP4----------</AM>
 <AM lemma="žádný">PWNP5----------</AM>
 <AM lemma="žádný" src="auto" recommended="1">PWFS1----------</AM>

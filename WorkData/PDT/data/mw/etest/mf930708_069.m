@@ -2667,7 +2667,7 @@
 <AM lemma="nikol_;g">NNIP4-----A----</AM>
 <AM lemma="nikol_;g">NNIP5-----A----</AM>
 <AM lemma="nikol_;g">NNIP7-----A----</AM>
-<AM lemma="Nikola-2_;Y_^(muž)" src="auto" recommended="1">NNMS2-----A----</AM>
+<AM lemma="Nikola-2_;Y_^(muž)" src="auto" recommended="1" selected="1">NNMS2-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930708-069-p57s1w5">

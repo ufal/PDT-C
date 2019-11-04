@@ -2693,7 +2693,7 @@
 <AM lemma="pozměňující_^(*5ovat)">AGFP7-----A----</AM>
 <AM lemma="pozměňující_^(*5ovat)">AGMP7-----A----</AM>
 <AM lemma="pozměňující_^(*5ovat)">AGNP7-----A----</AM>
-<AM lemma="pozměňující_^(*5ovat)" src="auto" recommended="1">AGIP7-----A----</AM>
+<AM lemma="pozměňující_^(*5ovat)" src="auto" recommended="1" selected="1">AGIP7-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92257-010-p4s13w12">

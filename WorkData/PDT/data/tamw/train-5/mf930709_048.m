@@ -750,7 +750,10 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>dolarů</form>
-<tag lemma="dolar_;b" src="auto" recommended="1">NNIP2-----A----</tag>
+<tag>
+<AM lemma="dolar_;b" src="auto" recommended="1">NNIP2-----A----</AM>
+<AM lemma="dolar" src="manual" selected="1">NNIP2-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930709-048-p2s4w27">
 <src.rf>manual</src.rf>

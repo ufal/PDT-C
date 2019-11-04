@@ -4147,7 +4147,7 @@
 <AM lemma="a-8_:B_^(ost._zkratka)">XX------------8</AM>
 <AM lemma="akciový_:B_^(jen_akciová_společnost)">AAXXX----1A---8</AM>
 <AM lemma="á_,t">RF------------1</AM>
-<AM lemma="a-1" src="auto" recommended="1">J^-------------</AM>
+<AM lemma="a-1" src="auto" recommended="1" selected="1">J^-------------</AM>
 </tag>
 </m>
 <m id="m-ln94201-107-p7s6w2">

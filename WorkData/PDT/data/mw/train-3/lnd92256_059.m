@@ -2339,7 +2339,10 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>měl</form>
-<tag lemma="mít" src="auto" recommended="1">VpYS---XR-AA---</tag>
+<tag>
+<AM lemma="mít" src="auto" recommended="1">VpYS---XR-AA---</AM>
+<AM lemma="mít" src="manual" selected="1">VpYS----R-AAI--</AM>
+</tag>
 </m>
 <m id="m-lnd92256-059-p6s1w18">
 <src.rf>manual</src.rf>

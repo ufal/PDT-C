@@ -1498,6 +1498,11 @@
 <AM lemma="právo_^(právo_na_něco;_také_jako_obor)">NNNS5-----A----</AM>
 <AM lemma="právo_^(právo_na_něco;_také_jako_obor)" src="auto" recommended="1">NNNS1-----A----</AM>
 </tag>
+<comment>
+<LM type="New Form">
+<text>krávo</text>
+</LM>
+</comment>
 </m>
 <m id="m-mf920925-104-p3s5w15">
 <src.rf>manual</src.rf>

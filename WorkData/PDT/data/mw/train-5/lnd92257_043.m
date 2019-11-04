@@ -490,7 +490,8 @@
 <form>A</form>
 <tag>
 <AM lemma="A-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="A-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="A-88_:B" src="manual">NNXXX-----A---8</AM>
+<AM lemma="A-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92257-043-p3s4w4">
@@ -508,7 +509,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>Iskandarov</form>
-<tag lemma="Iskandarov_;S" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag lemma="Iskandarov_;S" src="auto" recommended="1" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92257-043-p3s4w6">
 <src.rf>manual</src.rf>

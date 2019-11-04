@@ -2726,7 +2726,7 @@
 <form>Clyneové</form>
 <tag>
 <AM lemma="Clyneové">X@-------------</AM>
-<AM lemma="Clyneová_;S" src="auto" recommended="1">NNFS2-----A----</AM>
+<AM lemma="Clyneová_;S" src="auto" recommended="1" selected="1">NNFS2-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9212-019-p16s2w5">

@@ -10580,7 +10580,7 @@
 <AM lemma="meteorologický">AAMP6----1A----</AM>
 <AM lemma="meteorologický">AANP2----1A----</AM>
 <AM lemma="meteorologický">AANP6----1A----</AM>
-<AM lemma="meteorologický" src="auto" recommended="1">AAIP6----1A----</AM>
+<AM lemma="meteorologický" src="auto" recommended="1" selected="1">AAIP6----1A----</AM>
 </tag>
 </m>
 <m id="m-vesm9301-036-p16s4w8">

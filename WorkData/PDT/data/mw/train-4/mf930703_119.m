@@ -40,7 +40,7 @@
 <AM lemma="Rakousko_;G">NNNS4-----A----</AM>
 <AM lemma="Rakousko_;G">NNNS5-----A----</AM>
 <AM lemma="rakouský">A2--------A----</AM>
-<AM lemma="Rakousko_;G" src="auto" recommended="1">NNNS1-----A----</AM>
+<AM lemma="Rakousko_;G" src="auto" recommended="1" selected="1">NNNS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930703-119-p1s1w4">

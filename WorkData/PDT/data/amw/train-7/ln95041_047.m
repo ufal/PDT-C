@@ -364,6 +364,7 @@
 <tag>
 <AM lemma="Kenneth_;Y_,t">NNMS2-----A----</AM>
 <AM lemma="Kenneth_;Y_,t" src="auto" recommended="1">NNMS4-----A----</AM>
+<AM lemma="Kenneth_;Y" src="manual" selected="1">NNMS4-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95041-047-p2s2w11">

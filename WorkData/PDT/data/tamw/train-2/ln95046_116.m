@@ -427,7 +427,7 @@
 <AM lemma="hlavní">AANP3----1A----</AM>
 <AM lemma="hlavní">AANS6----1A----</AM>
 <AM lemma="hlavní">AANS7----1A----</AM>
-<AM lemma="hlavní" src="auto" recommended="1">AAIS7----1A----</AM>
+<AM lemma="hlavní" src="auto" recommended="1" selected="1">AAIS7----1A----</AM>
 </tag>
 </m>
 <m id="m-ln95046-116-p3s1w2">

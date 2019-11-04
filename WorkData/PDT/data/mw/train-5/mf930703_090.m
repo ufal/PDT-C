@@ -2709,7 +2709,7 @@
 <tag>
 <AM lemma="škola">NNFS3-----A----</AM>
 <AM lemma="školit_:T">VeYS------A----</AM>
-<AM lemma="škola" src="auto" recommended="1">NNFS6-----A----</AM>
+<AM lemma="škola" src="auto" recommended="1" selected="1">NNFS6-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930703-090-p12s1w13">

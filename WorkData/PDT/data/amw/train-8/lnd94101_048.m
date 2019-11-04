@@ -3397,7 +3397,7 @@
 <AM lemma="český">AANP3----1A----</AM>
 <AM lemma="český">AANS6----1A---7</AM>
 <AM lemma="český">AANS7----1A----</AM>
-<AM lemma="český" src="auto" recommended="1">AAMP3----1A----</AM>
+<AM lemma="český" src="auto" recommended="1" selected="1">AAMP3----1A----</AM>
 </tag>
 </m>
 <m id="m-lnd94101-048-p1s26w14">

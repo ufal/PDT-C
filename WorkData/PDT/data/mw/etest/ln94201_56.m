@@ -2322,7 +2322,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>82</form>
-<tag lemma="82" src="auto" recommended="1">C=-------------</tag>
+<tag lemma="82" src="auto" recommended="1" selected="1">C=-------------</tag>
 </m>
 <m id="m-ln94201-56-p5s4w6">
 <src.rf>manual</src.rf>

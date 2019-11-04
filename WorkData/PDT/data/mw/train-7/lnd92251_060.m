@@ -3509,7 +3509,8 @@
 <form>M</form>
 <tag>
 <AM lemma="M-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="M-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="M-88_:B" src="manual">NNXXX-----A---8</AM>
+<AM lemma="M-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92251-060-p11s1w21">
@@ -3609,7 +3610,7 @@
 <AM lemma="podezřelý">AANP3----1A----</AM>
 <AM lemma="podezřelý">AANS6----1A---7</AM>
 <AM lemma="podezřelý">AANS7----1A----</AM>
-<AM lemma="podezřelý" src="auto" recommended="1">AAMP3----1A----</AM>
+<AM lemma="podezřelý" src="auto" recommended="1" selected="1">AAMP3----1A----</AM>
 </tag>
 </m>
 <m id="m-lnd92251-060-p11s1w32">

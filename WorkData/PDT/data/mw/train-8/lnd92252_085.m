@@ -7092,7 +7092,7 @@
 <AM lemma="společnost_:B">NNFXX-----A---8</AM>
 <AM lemma="strana-4_:B_^(v_knize,_rukopise,...)">NNFXX-----A---8</AM>
 <AM lemma="státní_:B">AAXXX----1A---8</AM>
-<AM lemma="s-1" src="auto" recommended="1">RR--7----------</AM>
+<AM lemma="s-1" src="auto" recommended="1" selected="1">RR--7----------</AM>
 </tag>
 </m>
 <m id="m-lnd92252-085-p7s5w7">

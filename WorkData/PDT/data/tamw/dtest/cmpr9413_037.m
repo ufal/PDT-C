@@ -97,7 +97,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>Grammy</form>
-<tag lemma="Grammy_;R" src="auto" recommended="1">NNFS2-----A----</tag>
+<tag lemma="Grammy_;R" src="auto" recommended="1" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-cmpr9413-037-p3s1Aw6">
 <src.rf>manual</src.rf>

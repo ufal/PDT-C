@@ -3417,7 +3417,7 @@
 <AM lemma="vydírání_^(*3at)">NNNS4-----A----</AM>
 <AM lemma="vydírání_^(*3at)">NNNS5-----A----</AM>
 <AM lemma="vydírání_^(*3at)">NNNS6-----A----</AM>
-<AM lemma="vydírání_^(*3at)" src="auto" recommended="1">NNNS1-----A----</AM>
+<AM lemma="vydírání_^(*3at)" src="auto" recommended="1" selected="1">NNNS1-----A----</AM>
 </tag>
 </m>
 </s>

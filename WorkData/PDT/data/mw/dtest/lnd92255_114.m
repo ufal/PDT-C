@@ -1015,6 +1015,7 @@
 <tag>
 <AM lemma="Švéd_;E">NNMS1-----A----</AM>
 <AM lemma="Švédsko_:B_;G" src="auto" recommended="1">NNNXX-----A---8</AM>
+<AM lemma="Švédsko_;G" src="manual" selected="1">NNNXX-----A---b</AM>
 </tag>
 </m>
 <m id="m-lnd92255-114-p8s1w40">

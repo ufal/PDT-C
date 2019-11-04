@@ -1081,6 +1081,7 @@
 <tag>
 <AM lemma="kazit_:T">VB-P---3P-NA---</AM>
 <AM lemma="kazit_:T" src="auto" recommended="1">VB-S---3P-NA---</AM>
+<AM lemma="kazit" src="manual" selected="1">VB-S---3P-NAI--</AM>
 </tag>
 </m>
 <m id="m-lnd92253-087-p3s3w15">

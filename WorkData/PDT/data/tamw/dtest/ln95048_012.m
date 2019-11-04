@@ -283,7 +283,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>1989</form>
-<tag lemma="1989" src="auto" recommended="1">C=-------------</tag>
+<tag lemma="1989" src="auto" recommended="1" selected="1">C=-------------</tag>
 </m>
 <m id="m-ln95048-012-p2s2w16">
 <src.rf>manual</src.rf>

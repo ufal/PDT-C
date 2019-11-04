@@ -812,7 +812,10 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>získala</form>
-<tag lemma="získat_:W" src="auto" recommended="1">VpQW---XR-AA---</tag>
+<tag>
+<AM lemma="získat_:W" src="auto" recommended="1">VpQW---XR-AA---</AM>
+<AM lemma="získat" src="manual" selected="1">VpQW----R-AAP--</AM>
+</tag>
 </m>
 <m id="m-lnd92256-065-p4s1w21">
 <src.rf>manual</src.rf>
@@ -2915,7 +2918,7 @@
 <form>tohoto</form>
 <tag>
 <AM lemma="tento">PDMS4----------</AM>
-<AM lemma="tento" src="auto" recommended="1">PDZS2----------</AM>
+<AM lemma="tento" src="auto" recommended="1" selected="1">PDZS2----------</AM>
 </tag>
 </m>
 <m id="m-lnd92256-065-p6s2w23">

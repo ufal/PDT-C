@@ -854,7 +854,7 @@
 <AM lemma="vyznívající_^(*4t)">AGMP6-----A----</AM>
 <AM lemma="vyznívající_^(*4t)">AGNP2-----A----</AM>
 <AM lemma="vyznívající_^(*4t)">AGNP6-----A----</AM>
-<AM lemma="vyznívající_^(*4t)" src="auto" recommended="1">AGFP2-----A----</AM>
+<AM lemma="vyznívající_^(*4t)" src="auto" recommended="1" selected="1">AGFP2-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95048-047-p2s4w14">

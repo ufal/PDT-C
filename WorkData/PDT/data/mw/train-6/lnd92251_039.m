@@ -521,7 +521,7 @@
 <AM lemma="Brno_;G">NNNP1-----A----</AM>
 <AM lemma="Brno_;G">NNNP4-----A----</AM>
 <AM lemma="Brno_;G">NNNP5-----A----</AM>
-<AM lemma="Brno_;G" src="auto" recommended="1">NNNS2-----A----</AM>
+<AM lemma="Brno_;G" src="auto" recommended="1" selected="1">NNNS2-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92251-039-p3s1w11">

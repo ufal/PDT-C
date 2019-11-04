@@ -4262,7 +4262,7 @@
 <AM lemma="budoucnost">NNFS2-----A----</AM>
 <AM lemma="budoucnost">NNFS3-----A----</AM>
 <AM lemma="budoucnost">NNFS5-----A----</AM>
-<AM lemma="budoucnost" src="auto" recommended="1">NNFS6-----A----</AM>
+<AM lemma="budoucnost" src="auto" recommended="1" selected="1">NNFS6-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95041-021-p5s3w14">

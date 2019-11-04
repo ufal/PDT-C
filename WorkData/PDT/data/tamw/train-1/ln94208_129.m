@@ -1696,7 +1696,7 @@
 <AM lemma="dna_^(nemoc)">NNFP5-----A----</AM>
 <AM lemma="dna_^(nemoc)">NNFS2-----A----</AM>
 <AM lemma="dno_^(např._propasti)">NNNP7-----A----</AM>
-<AM lemma="den_^(jednotka_času)" src="auto" recommended="1">NNIP7-----A----</AM>
+<AM lemma="den_^(jednotka_času)" src="auto" recommended="1" selected="1">NNIP7-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94208-129-p4s2w14">

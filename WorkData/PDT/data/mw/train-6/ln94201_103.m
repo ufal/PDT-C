@@ -1443,6 +1443,7 @@
 <AM lemma="mecký">AAIS6----1N----</AM>
 <AM lemma="mecký">AAMS6----1N----</AM>
 <AM lemma="mecký" src="auto" recommended="1">AANS6----1N----</AM>
+<AM lemma="Nemecké_;G" src="manual" selected="1">NNNS6-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94201-103-p5s1w20">

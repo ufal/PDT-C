@@ -1493,6 +1493,7 @@
 <tag>
 <AM lemma="Coëme">X@-------------</AM>
 <AM lemma="Coëme" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Coëme_;S" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95045-057-p3s3w19">

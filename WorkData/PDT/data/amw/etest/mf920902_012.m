@@ -139,7 +139,10 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>zdražily</form>
-<tag lemma="zdražit_:W" src="auto" recommended="1">VpTP---XR-AA---</tag>
+<tag>
+<AM lemma="zdražit_:W" src="auto" recommended="1">VpTP---XR-AA---</AM>
+<AM lemma="zdražit" src="manual" selected="1">VpTP----R-AAP--</AM>
+</tag>
 </m>
 <m id="m-mf920902-012-p1s1Cw8">
 <src.rf>manual</src.rf>

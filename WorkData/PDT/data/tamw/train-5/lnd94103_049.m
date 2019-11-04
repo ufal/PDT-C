@@ -902,7 +902,10 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>přijel</form>
-<tag lemma="přijet" src="auto" recommended="1">VpYS---XR-AA---</tag>
+<tag>
+<AM lemma="přijet" src="auto" recommended="1">VpYS---XR-AA---</AM>
+<AM lemma="přijet" src="manual" selected="1">VpYS----R-AAP--</AM>
+</tag>
 </m>
 <m id="m-lnd94103-049-p1s3w64">
 <src.rf>manual</src.rf>

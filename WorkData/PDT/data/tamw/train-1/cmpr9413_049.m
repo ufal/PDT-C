@@ -361,7 +361,7 @@
 <AM lemma="zřejmý">AANP5----1A---6</AM>
 <AM lemma="zřejmý">AANS4----1A----</AM>
 <AM lemma="zřejmý">AANS5----1A----</AM>
-<AM lemma="zřejmý" src="auto" recommended="1">AANS1----1A----</AM>
+<AM lemma="zřejmý" src="auto" recommended="1" selected="1">AANS1----1A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9413-049-p4s3w8">

@@ -413,7 +413,8 @@
 <tag>
 <AM lemma="pop-1_^(círk.)" src="orig">NNMS1-----A----</AM>
 <AM lemma="Pop-77" src="manual">F%-------------</AM>
-<AM lemma="pop-2" src="manual" selected="1">AAXXX----1A----</AM>
+<AM lemma="pop-2" src="manual">AAXXX----1A----</AM>
+<AM lemma="pop-3" src="manual" selected="1">AAXXX----1A----</AM>
 </tag>
 </m>
 <m id="m-mf930701-086-p12s1w4">
@@ -445,6 +446,7 @@
 <AM lemma="parta">NNFP5-----A----</AM>
 <AM lemma="parta">NNFS2-----A----</AM>
 <AM lemma="party_,t_^(angl._sešlost,_oslava,_mejdan)" src="auto" recommended="1">NNFXX-----A----</AM>
+<AM lemma="party" src="manual" selected="1">NNFXX-----A----</AM>
 </tag>
 </m>
 </s>

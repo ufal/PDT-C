@@ -4051,7 +4051,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>abych</form>
-<tag lemma="aby" src="auto" recommended="1">J,-S---1-------</tag>
+<tag lemma="aby" src="auto" recommended="1" selected="1">J,-S---1-------</tag>
 </m>
 <m id="m-ln94208-106-p9s2w8">
 <src.rf>manual</src.rf>
