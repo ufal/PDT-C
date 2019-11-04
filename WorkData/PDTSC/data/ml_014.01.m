@@ -4958,6 +4958,12 @@
 <form_change>spell</form_change>
 <form>Štědrý</form>
 <tag>
+<AM lemma="Štědrá_;G">NNFP1-----A---6</AM>
+<AM lemma="Štědrá_;G">NNFP4-----A---6</AM>
+<AM lemma="Štědrá_;G">NNFP5-----A---6</AM>
+<AM lemma="Štědrá_;G">NNFS2-----A---6</AM>
+<AM lemma="Štědrá_;G">NNFS3-----A---6</AM>
+<AM lemma="Štědrá_;G">NNFS6-----A---6</AM>
 <AM lemma="štědrý">AAFP1----1A---6</AM>
 <AM lemma="štědrý">AAFP4----1A---6</AM>
 <AM lemma="štědrý">AAFP5----1A---6</AM>

@@ -1734,7 +1734,7 @@
 </tag>
 <comment>
 <LM type="Other">
-<text>1v2: >vzadu</text>
+<text>1v2: &gt;vzadu</text>
 </LM>
 </comment>
 </m>

@@ -815,7 +815,7 @@
 <form>vechtrová</form>
 <tag>
 <AM lemma="vechtrová">X@-------------</AM>
-<AM lemma="vechtrová_;S" src="auto" recommended="1">NNFS1-----A----</AM>
+<AM lemma="vechtrová" src="auto" recommended="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m046-d1t2796-8">

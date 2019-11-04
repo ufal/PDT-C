@@ -4384,7 +4384,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>neměl</form>
-<tag lemma="mít" src="auto" recommended="1">VpYS---XR-NA---</tag>
+<tag lemma="mít" src="auto" recommended="1">VpYS---XR-NAI--</tag>
 </m>
 <m id="m977-id60331-3">
 <w.rf>

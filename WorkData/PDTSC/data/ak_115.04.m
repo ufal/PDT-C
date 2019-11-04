@@ -31,7 +31,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>mohly</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="auto" recommended="1">VpTP---XR-AA---</tag>
+<tag lemma="moci" src="auto" recommended="1">VpTP---XR-AAI--</tag>
 </m>
 <m id="m115-d1t658-14">
 <w.rf>

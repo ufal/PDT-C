@@ -524,7 +524,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>Začněme</form>
-<tag lemma="začít-1_^(začnout)" src="auto" recommended="1">Vi-P---1--A----</tag>
+<tag lemma="začít-1_^(začnout)" src="auto" recommended="1">Vi-P---1--A-P--</tag>
 </m>
 <m id="m110-d1t47-2">
 <w.rf>

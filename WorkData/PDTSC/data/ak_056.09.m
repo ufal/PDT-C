@@ -3315,7 +3315,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>odpočinu</form>
-<tag lemma="odpočinout" src="auto" recommended="1">VB-S---1P-AA---</tag>
+<tag lemma="odpočinout" src="auto" recommended="1">VB-S---1P-AAP--</tag>
 </m>
 <m id="m056-d-m-d1e2777-x2-punct-punct">
 <w.rf>

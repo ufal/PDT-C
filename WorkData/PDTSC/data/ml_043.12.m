@@ -1000,7 +1000,7 @@
 <form>portugala</form>
 <tag>
 <AM lemma="portugala">X@-------------</AM>
-<AM lemma="portugat_:T" src="auto" recommended="1">VpQW---XR-AA---</AM>
+<AM lemma="portugala" src="auto" recommended="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m043-291-316">
@@ -1023,8 +1023,8 @@
 <form_change>spell</form_change>
 <form>cabernet</form>
 <tag>
-<AM lemma="cabernet_^(druh_vína)">NNIS1-----A----</AM>
-<AM lemma="cabernet_^(druh_vína)" src="auto" recommended="1">NNIS4-----A----</AM>
+<AM lemma="cabernet_^(druh_vína)">NNIS4-----A----</AM>
+<AM lemma="cabernet_^(druh_vína)" src="auto" recommended="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m043-291-294">

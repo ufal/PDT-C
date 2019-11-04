@@ -4021,7 +4021,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>identifikovat</form>
-<tag lemma="identifikovat_:T_:W" src="auto" recommended="1">Vf--------A----</tag>
+<tag lemma="identifikovat" src="auto" recommended="1">Vf--------A-B--</tag>
 </m>
 <m id="m127-d-id159823-punct">
 <w.rf>

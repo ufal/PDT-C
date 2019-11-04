@@ -3532,7 +3532,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>svézt</form>
-<tag lemma="svézt" src="auto" recommended="1">Vf--------A----</tag>
+<tag lemma="svézt" src="auto" recommended="1">Vf--------A-P--</tag>
 </m>
 <m id="m046-d1t1872-1">
 <w.rf>

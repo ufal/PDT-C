@@ -3273,7 +3273,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>nacvičovaly</form>
-<tag lemma="nacvičovat_:T" src="auto" recommended="1">VpTP---XR-AA---</tag>
+<tag lemma="nacvičovat" src="auto" recommended="1">VpTP---XR-AAI--</tag>
 </m>
 <m id="m050-d1t1269-3">
 <w.rf>

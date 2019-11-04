@@ -1637,9 +1637,9 @@
 <AM lemma="starý-2_^(člověk,_věc)">AAIS1----2A----</AM>
 <AM lemma="starý-2_^(člověk,_věc)">AAIS4----2A----</AM>
 <AM lemma="starý-2_^(člověk,_věc)">AAIS5----2A----</AM>
+<AM lemma="starý-2_^(člověk,_věc)">AAMP1----2A----</AM>
 <AM lemma="starý-2_^(člověk,_věc)">AAMP4----2A----</AM>
 <AM lemma="starý-2_^(člověk,_věc)">AAMP5----2A----</AM>
-<AM lemma="starý-2_^(člověk,_věc)">AAMS1----2A----</AM>
 <AM lemma="starý-2_^(člověk,_věc)">AAMS5----2A----</AM>
 <AM lemma="starý-2_^(člověk,_věc)">AANP1----2A----</AM>
 <AM lemma="starý-2_^(člověk,_věc)">AANP4----2A----</AM>
@@ -1647,7 +1647,7 @@
 <AM lemma="starý-2_^(člověk,_věc)">AANS1----2A----</AM>
 <AM lemma="starý-2_^(člověk,_věc)">AANS4----2A----</AM>
 <AM lemma="starý-2_^(člověk,_věc)">AANS5----2A----</AM>
-<AM lemma="starý-2_^(člověk,_věc)" src="auto" recommended="1">AAMP1----2A----</AM>
+<AM lemma="starý-2_^(člověk,_věc)" src="auto" recommended="1">AAMS1----2A----</AM>
 </tag>
 </m>
 <m id="m023-d-id77524-punct">

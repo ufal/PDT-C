@@ -4456,7 +4456,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>Nerozuměl</form>
-<tag lemma="rozumět_:T" src="auto" recommended="1">VpYS---XR-NA---</tag>
+<tag lemma="rozumět" src="auto" recommended="1">VpYS---XR-NAI--</tag>
 </m>
 <m id="m793-d1t306-3">
 <w.rf>

@@ -1817,7 +1817,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>Zatancovali</form>
-<tag lemma="zatancovat_:W" src="auto" recommended="1">VpMP---XR-AA---</tag>
+<tag lemma="zatancovat" src="auto" recommended="1">VpMP---XR-AAP--</tag>
 </m>
 <m id="m036-d1t130-2">
 <w.rf>

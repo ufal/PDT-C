@@ -26,7 +26,7 @@ xsh q{
     quiet ;
 };
 
-my $tagger_file = $FindBin::Bin . '/models/czech-morfflex-pdt-161209-devel.tagger';
+my $tagger_file = $FindBin::Bin . '/models/czech-morfflex-pdt-c-pdtsc-190111-devel.tagger';
 
 my $method = shift;
 my $run = { tag      => \&tag,

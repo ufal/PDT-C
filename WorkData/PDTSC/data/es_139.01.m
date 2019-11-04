@@ -5234,9 +5234,9 @@
 <form_change>spell</form_change>
 <form>vás</form>
 <tag>
-<AM lemma="ty">PP-P2--2-------</AM>
+<AM lemma="ty">PP-P4--2-------</AM>
 <AM lemma="ty">PP-P6--2-------</AM>
-<AM lemma="ty" src="auto" recommended="1">PP-P4--2-------</AM>
+<AM lemma="ty" src="auto" recommended="1">PP-P2--2-------</AM>
 </tag>
 </m>
 <m id="m139-d1t741-6">

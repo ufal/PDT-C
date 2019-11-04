@@ -3162,7 +3162,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>rozzlobilo</form>
-<tag lemma="rozzlobit_:W" src="auto" recommended="1">VpNS---XR-AA---</tag>
+<tag lemma="rozzlobit" src="auto" recommended="1">VpNS---XR-AAP--</tag>
 </m>
 <m id="m941-165-267">
 <w.rf>
@@ -6593,7 +6593,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>rozzlobilo</form>
-<tag lemma="rozzlobit_:W" src="auto" recommended="1">VpNS---XR-AA---</tag>
+<tag lemma="rozzlobit" src="auto" recommended="1">VpNS---XR-AAP--</tag>
 </m>
 <m id="m941-d-id112288">
 <w.rf>

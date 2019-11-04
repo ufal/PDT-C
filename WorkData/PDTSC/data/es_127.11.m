@@ -417,7 +417,10 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>ne</form>
-<tag lemma="ne" src="auto" recommended="1">TT-------------</tag>
+<tag>
+<AM lemma="neděle">NNFXX-----A---8</AM>
+<AM lemma="ne" src="auto" recommended="1">TT-------------</AM>
+</tag>
 <comment>
 <LM type="Other">
 <text>3v1: ne - li</text>

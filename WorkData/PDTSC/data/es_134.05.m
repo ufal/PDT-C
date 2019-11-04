@@ -1376,7 +1376,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>vrátili</form>
-<tag lemma="vrátit_:W" src="auto" recommended="1">VpMP---XR-AA---</tag>
+<tag lemma="vrátit" src="auto" recommended="1">VpMP---XR-AAP--</tag>
 </m>
 <m id="m134-d1t650-41">
 <w.rf>

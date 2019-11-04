@@ -573,7 +573,7 @@
 <form>děštník</form>
 <tag>
 <AM lemma="děštník">X@-------------</AM>
-<AM lemma="děštník" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="děštník" src="auto" recommended="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m017-d1e2991-x2-566">

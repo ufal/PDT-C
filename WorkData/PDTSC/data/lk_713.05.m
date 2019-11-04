@@ -7310,15 +7310,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>méně</form>
-<tag>
-<AM lemma="méně_^(méně_+_2._p.,_méně_peněz)">Ca--1----------</AM>
-<AM lemma="méně_^(méně_+_2._p.,_méně_peněz)">Ca--2----------</AM>
-<AM lemma="méně_^(méně_+_2._p.,_méně_peněz)">Ca--3----------</AM>
-<AM lemma="méně_^(méně_+_2._p.,_méně_peněz)">Ca--4----------</AM>
-<AM lemma="méně_^(méně_+_2._p.,_méně_peněz)">Ca--6----------</AM>
-<AM lemma="méně_^(méně_+_2._p.,_méně_peněz)">Ca--7----------</AM>
-<AM lemma="málo-3" src="auto" recommended="1">Dg-------2A----</AM>
-</tag>
+<tag lemma="málo-3_^(málo_důsledný)" src="auto" recommended="1">Dg-------2A----</tag>
 </m>
 <m id="m713-d-id129153">
 <w.rf>

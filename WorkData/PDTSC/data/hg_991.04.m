@@ -1015,7 +1015,7 @@
 <form>Vagonlin</form>
 <tag>
 <AM lemma="Vagonlin">X@-------------</AM>
-<AM lemma="Vagonlino" src="auto" recommended="1">NNNP2-----A----</AM>
+<AM lemma="Vagonlina" src="auto" recommended="1">NNFP2-----A----</AM>
 </tag>
 </m>
 <m id="m991-d1t1323-11">

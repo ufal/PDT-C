@@ -4626,8 +4626,8 @@
 <form_change>spell</form_change>
 <form>musí</form>
 <tag>
-<AM lemma="muset">VB-P---3P-AA--1</AM>
-<AM lemma="muset" src="auto" recommended="1">VB-S---3P-AA---</AM>
+<AM lemma="muset">VB-P---3P-AAI-1</AM>
+<AM lemma="muset" src="auto" recommended="1">VB-S---3P-AAI--</AM>
 </tag>
 </m>
 <m id="m124-d1t1564-23">

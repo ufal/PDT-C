@@ -545,7 +545,7 @@
 <LM>w#w-d1t1196-9</LM>
 </w.rf>
 <form>Zabezpečily</form>
-<tag lemma="zabezpečit_:W" src="auto" recommended="1">VpTP---XR-AA---</tag>
+<tag lemma="zabezpečit" src="auto" recommended="1">VpTP---XR-AAP--</tag>
 </m>
 <m id="m113-d1t1196-10">
 <w.rf>

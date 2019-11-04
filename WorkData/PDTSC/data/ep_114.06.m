@@ -2476,7 +2476,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>nastoupila</form>
-<tag lemma="nastoupit_:W" src="auto" recommended="1">VpQW---XR-AA---</tag>
+<tag lemma="nastoupit" src="auto" recommended="1">VpQW---XR-AAP--</tag>
 </m>
 <m id="m114-d1t1827-3">
 <w.rf>

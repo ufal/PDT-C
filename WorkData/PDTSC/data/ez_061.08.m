@@ -7291,7 +7291,7 @@
 <form>bala</form>
 <tag>
 <AM lemma="bala">X@-------------</AM>
-<AM lemma="bat_:T" src="auto" recommended="1">VpQW---XR-AA---</AM>
+<AM lemma="bát" src="auto" recommended="1">VpQW---XR-AA---</AM>
 </tag>
 <comment>
 <LM type="Other">

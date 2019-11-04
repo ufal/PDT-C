@@ -119,9 +119,9 @@
 <form>zavináče</form>
 <tag>
 <AM lemma="zavináč">NNIP1-----A----</AM>
+<AM lemma="zavináč">NNIP4-----A----</AM>
 <AM lemma="zavináč">NNIP5-----A----</AM>
-<AM lemma="zavináč">NNIS2-----A----</AM>
-<AM lemma="zavináč" src="auto" recommended="1">NNIP4-----A----</AM>
+<AM lemma="zavináč" src="auto" recommended="1">NNIS2-----A----</AM>
 </tag>
 </m>
 <m id="m053-d1t1062-10">

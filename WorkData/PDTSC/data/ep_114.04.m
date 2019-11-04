@@ -1025,7 +1025,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>Prováděla</form>
-<tag lemma="provádět_:T" src="auto" recommended="1">VpQW---XR-AA---</tag>
+<tag lemma="provádět" src="auto" recommended="1">VpQW---XR-AAI--</tag>
 </m>
 <m id="m114-d1t1151-6">
 <w.rf>

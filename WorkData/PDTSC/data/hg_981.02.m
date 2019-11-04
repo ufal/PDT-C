@@ -1441,8 +1441,8 @@
 <form>košer</form>
 <tag>
 <AM lemma="košer-1_^(pokrm_vyhovující_předpisům_judaizmu)">NNIS1-----A----</AM>
-<AM lemma="košer-2_^(připravený_k_požívání_dle_předpisů_judaizmu)">Db-------------</AM>
-<AM lemma="košer-1_^(pokrm_vyhovující_předpisům_judaizmu)" src="auto" recommended="1">NNIS4-----A----</AM>
+<AM lemma="košer-1_^(pokrm_vyhovující_předpisům_judaizmu)">NNIS4-----A----</AM>
+<AM lemma="košer-2_^(připravený_k_požívání_dle_předpisů_judaizmu)" src="auto" recommended="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m981-d1e999-x2-11669">

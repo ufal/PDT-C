@@ -1676,7 +1676,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>nebyly</form>
-<tag lemma="být" src="auto" recommended="1">VpTP---XR-NA---</tag>
+<tag lemma="být" src="auto" recommended="1">VpTP---XR-NAI--</tag>
 </m>
 <m id="m016-d1t572-1">
 <w.rf>

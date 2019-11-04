@@ -670,9 +670,9 @@
 <form_change>spell</form_change>
 <form>d</form>
 <tag>
-<AM lemma="d-4_^(př._d'Artagnan,_stažený_tvar_fr._předl.)">AAXXX----1A----</AM>
-<AM lemma="d-8_:B_^(ost._zkratka)">XX------------8</AM>
-<AM lemma="d-3_^(označení_pomocí_písmene)" src="auto" recommended="1">NNNXX-----A----</AM>
+<AM lemma="d-77">F%-------------</AM>
+<AM lemma="d-88_:B">NNXXX-----A----</AM>
+<AM lemma="d-33_^(označení_pomocí_písmene)" src="auto" recommended="1">NNNXX-----A----</AM>
 </tag>
 <comment>
 <LM type="Other">

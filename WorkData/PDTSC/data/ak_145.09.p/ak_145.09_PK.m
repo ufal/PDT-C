@@ -2325,7 +2325,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>skácel</form>
-<tag lemma="skácet_:W" src="auto" recommended="1">VpYS---XR-AA---</tag>
+<tag lemma="skácet" src="auto" recommended="1">VpYS---XR-AAP--</tag>
 </m>
 <m id="m145-d1t1750-26">
 <w.rf>

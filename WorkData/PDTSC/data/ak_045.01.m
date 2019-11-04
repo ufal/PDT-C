@@ -2319,7 +2319,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>mohla</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="auto" recommended="1">VpQW---XR-AA---</tag>
+<tag lemma="moci" src="auto" recommended="1">VpQW---XR-AAI--</tag>
 </m>
 <m id="m045-d1t463-4">
 <w.rf>

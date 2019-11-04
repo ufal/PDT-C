@@ -5858,7 +5858,7 @@
 <form>heim</form>
 <tag>
 <AM lemma="heim">X@-------------</AM>
-<AM lemma="heim_;G" src="auto" recommended="1">NNIS4-----A----</AM>
+<AM lemma="heim" src="auto" recommended="1">NNIS4-----A----</AM>
 </tag>
 </m>
 <m id="m943-d1e323-x5-2914">
@@ -6263,7 +6263,7 @@
 <form>heim</form>
 <tag>
 <AM lemma="heim">X@-------------</AM>
-<AM lemma="hei_;S" src="auto" recommended="1">NNMS7-----A----</AM>
+<AM lemma="heim" src="auto" recommended="1">AAXXX----1A----</AM>
 </tag>
 </m>
 <m id="m943-d1e323-x7-3135">

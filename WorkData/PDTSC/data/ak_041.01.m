@@ -1781,7 +1781,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>byly</form>
-<tag lemma="být" src="auto" recommended="1">VpTP---XR-AA---</tag>
+<tag lemma="být" src="auto" recommended="1">VpTP---XR-AAI--</tag>
 </m>
 <m id="m041-d1t472-3">
 <w.rf>
@@ -3720,7 +3720,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>Sebraly</form>
-<tag lemma="sebrat" src="auto" recommended="1">VpTP---XR-AA---</tag>
+<tag lemma="sebrat" src="auto" recommended="1">VpTP---XR-AAP--</tag>
 </m>
 <m id="m041-d1t606-2">
 <w.rf>

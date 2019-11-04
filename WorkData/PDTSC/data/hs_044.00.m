@@ -207,12 +207,10 @@
 <form_change>spell</form_change>
 <form>a</form>
 <tag>
-<AM lemma="a-2_,t_^(angl._neurč._člen)">AAXXX----1A----</AM>
-<AM lemma="a-3_^(označení_pomocí_písmene)">NNNXX-----A----</AM>
-<AM lemma="a-4_,t_^(př._a_la)">RR--1----------</AM>
-<AM lemma="a-8_:B_^(ost._zkratka)">XX------------8</AM>
-<AM lemma="akciový_:B_^(jen_akciová_společnost)">AAXXX----1A---8</AM>
-<AM lemma="á_,t">RF------------1</AM>
+<AM lemma="a-33_^(označení_pomocí_písmene)">NNNXX-----A----</AM>
+<AM lemma="a-77_,t">F%-------------</AM>
+<AM lemma="a-88_:B">NNXXX-----A----</AM>
+<AM lemma="akciový">AAXXX----1A---8</AM>
 <AM lemma="a-1" src="auto" recommended="1">J^-------------</AM>
 </tag>
 </m>

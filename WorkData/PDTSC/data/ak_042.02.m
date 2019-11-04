@@ -3554,7 +3554,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>byly</form>
-<tag lemma="být" src="auto" recommended="1">VpTP---XR-AA---</tag>
+<tag lemma="být" src="auto" recommended="1">VpTP---XR-AAI--</tag>
 </m>
 <m id="m042-d1t774-9">
 <w.rf>

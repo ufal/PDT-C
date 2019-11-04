@@ -1410,7 +1410,7 @@
 </tag>
 <comment>
 <LM type="Other">
-<text>1v2: >Odleva</text>
+<text>1v2: &gt;Odleva</text>
 </LM>
 </comment>
 </m>

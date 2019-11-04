@@ -1444,7 +1444,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>Zasáhlo</form>
-<tag lemma="zasáhnout_:W" src="auto" recommended="1">VpNS---XR-AA--1</tag>
+<tag lemma="zasáhnout" src="auto" recommended="1">VpNS---XR-AAP-1</tag>
 </m>
 <m id="m023-d1t3348-23">
 <w.rf>

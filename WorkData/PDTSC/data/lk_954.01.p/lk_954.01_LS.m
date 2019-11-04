@@ -3930,7 +3930,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>vzpomínají</form>
-<tag lemma="vzpomínat_:T" src="auto" recommended="1">VB-P---3P-AA---</tag>
+<tag lemma="vzpomínat" src="auto" recommended="1">VB-P---3P-AAI--</tag>
 </m>
 <m id="m954-d1t877-1">
 <w.rf>

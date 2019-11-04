@@ -1869,7 +1869,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>popovídat</form>
-<tag lemma="popovídat_:W" src="auto" recommended="1">Vf--------A----</tag>
+<tag lemma="popovídat" src="auto" recommended="1">Vf--------A-P--</tag>
 </m>
 <m id="m021-d-m-d1e1467-x2-punct-punct">
 <w.rf>

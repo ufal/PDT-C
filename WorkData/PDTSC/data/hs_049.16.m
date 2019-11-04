@@ -3411,7 +3411,7 @@
 <form>koi</form>
 <tag>
 <AM lemma="koi">X@-------------</AM>
-<AM lemma="koi_;G" src="auto" recommended="1">NNNXX-----A----</AM>
+<AM lemma="koi" src="auto" recommended="1">NNNXX-----A----</AM>
 </tag>
 </m>
 <m id="m049-d1t4202-2">

@@ -4516,7 +4516,7 @@
 <form>luken</form>
 <tag>
 <AM lemma="luken">X@-------------</AM>
-<AM lemma="lukno" src="auto" recommended="1">NNNP2-----A----</AM>
+<AM lemma="lukna" src="auto" recommended="1">NNFP2-----A----</AM>
 </tag>
 </m>
 <m id="m913-8468-8806">

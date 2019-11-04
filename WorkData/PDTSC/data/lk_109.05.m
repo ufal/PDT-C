@@ -5884,7 +5884,7 @@
 <form_change>spell</form_change>
 <form>kulaťoučké</form>
 <tag>
-<AM lemma="kulaťoučký">AAFP4----1A----</AM>
+<AM lemma="kulaťoučký">AAFP1----1A----</AM>
 <AM lemma="kulaťoučký">AAFP5----1A----</AM>
 <AM lemma="kulaťoučký">AAFS2----1A----</AM>
 <AM lemma="kulaťoučký">AAFS3----1A----</AM>
@@ -5899,7 +5899,7 @@
 <AM lemma="kulaťoučký">AANS1----1A----</AM>
 <AM lemma="kulaťoučký">AANS4----1A----</AM>
 <AM lemma="kulaťoučký">AANS5----1A----</AM>
-<AM lemma="kulaťoučký" src="auto" recommended="1">AAFP1----1A----</AM>
+<AM lemma="kulaťoučký" src="auto" recommended="1">AAFP4----1A----</AM>
 </tag>
 </m>
 <m id="m109-d1t963-15">

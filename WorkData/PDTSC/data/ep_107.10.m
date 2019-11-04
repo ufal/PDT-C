@@ -474,7 +474,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>nevěděli</form>
-<tag lemma="vědět" src="auto" recommended="1">VpMP---XR-NA---</tag>
+<tag lemma="vědět" src="auto" recommended="1">VpMP---XR-NAI--</tag>
 </m>
 <m id="m107-d1e1849-x3-1450">
 <w.rf>
@@ -5535,7 +5535,7 @@
 <LM>w#w-d1t1987-38</LM>
 </w.rf>
 <form>vzaly</form>
-<tag lemma="vzít_^(př._sebrat_něco;_brát_ohled,_zřetel,...)" src="auto" recommended="1">VpTP---XR-AA---</tag>
+<tag lemma="vzít" src="auto" recommended="1">VpTP---XR-AAP--</tag>
 </m>
 <m id="m107-d1t1987-40">
 <w.rf>
@@ -5666,7 +5666,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>rozprášily</form>
-<tag lemma="rozprášit_:W" src="auto" recommended="1">VpTP---XR-AA---</tag>
+<tag lemma="rozprášit" src="auto" recommended="1">VpTP---XR-AAP--</tag>
 </m>
 <m id="m107-d1t1987-54">
 <w.rf>

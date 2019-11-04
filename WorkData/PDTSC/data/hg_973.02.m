@@ -6229,7 +6229,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>zúčastnit</form>
-<tag lemma="zúčastnit_:W" src="auto" recommended="1">Vf--------A----</tag>
+<tag lemma="zúčastnit" src="auto" recommended="1">Vf--------A-P--</tag>
 </m>
 <m id="m973-id62382-9">
 <w.rf>

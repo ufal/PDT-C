@@ -4948,8 +4948,8 @@
 <form_change>spell</form_change>
 <form>TU</form>
 <tag>
-<AM lemma="ten">PDFS4----------</AM>
-<AM lemma="tu" src="auto" recommended="1">Db-------------</AM>
+<AM lemma="tu">Db-------------</AM>
+<AM lemma="ten" src="auto" recommended="1">PDFS4----------</AM>
 </tag>
 <comment>
 <LM type="Other">
@@ -5403,23 +5403,15 @@
 <form_change>spell</form_change>
 <form>L</form>
 <tag>
-<AM lemma="L-0_:B_;Y">NNFXX-----A---8</AM>
-<AM lemma="L-0_:B_;Y">NNMXX-----A---8</AM>
-<AM lemma="L-0_:B_;Y">NNXXX-----A---8</AM>
 <AM lemma="L-3`50">C}-------------</AM>
-<AM lemma="L-4_:B_;K">AAXXX----1A---8</AM>
-<AM lemma="L-5_:B_;G">AAXXX----1A---8</AM>
-<AM lemma="L-6_:B_;R">NNXXX-----A---8</AM>
-<AM lemma="L-9_:B_;S">NNFXX-----A---8</AM>
-<AM lemma="L-9_:B_;S">NNMXX-----A---8</AM>
-<AM lemma="L-9_:B_;S">NNXXX-----A---8</AM>
-<AM lemma="L-10_^(př._L'Aqua,_stažený_tvar_fr._členu)">AAXXX----1A----</AM>
-<AM lemma="Labe_:B_;G">NNNS7-----A---8</AM>
-<AM lemma="l-4_^(graf._oddělovač)">Z:-------------</AM>
-<AM lemma="l-8_:B_^(ost._zkratka)">XX------------8</AM>
-<AM lemma="letopočet_:B_^(jen_př._n._l.,_před_naším_letopočtem)">NNIS7-----A---8</AM>
-<AM lemma="litr_:B">NNIXX-----A---8</AM>
-<AM lemma="l-3_^(označení_pomocí_písmene)" src="auto" recommended="1">NNNXX-----A----</AM>
+<AM lemma="L-88_:B">NNXXX-----A----</AM>
+<AM lemma="l-33_^(označení_pomocí_písmene)">NNNXX-----A----</AM>
+<AM lemma="l-77_,t">F%-------------</AM>
+<AM lemma="l-88_:B">NNXXX-----A----</AM>
+<AM lemma="letopočet_:B">NNIS2-----A---8</AM>
+<AM lemma="letopočet_:B">NNIS7-----A---8</AM>
+<AM lemma="litr">NNIXX-----A---8</AM>
+<AM lemma="L-33_^(označení_pomocí_písmene)" src="auto" recommended="1">NNNXX-----A----</AM>
 </tag>
 <comment>
 <LM type="Other">

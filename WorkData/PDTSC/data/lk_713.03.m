@@ -2158,7 +2158,7 @@
 <LM>w#w-id60980-14</LM>
 </w.rf>
 <form>nosily</form>
-<tag lemma="nosit_:T" src="auto" recommended="1">VpTP---XR-AA---</tag>
+<tag lemma="nosit" src="auto" recommended="1">VpTP---XR-AAI--</tag>
 </m>
 <m id="m713-id60001-x36-6001">
 <w.rf>
@@ -2179,7 +2179,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>podávaly</form>
-<tag lemma="podávat_:T_^(něco_[někomu]_[někam])_(*4at)" src="auto" recommended="1">VpTP---XR-AA---</tag>
+<tag lemma="podávat_^(něco_[někomu]_[někam])_(*4at)" src="auto" recommended="1">VpTP---XR-AAI--</tag>
 </m>
 <m id="m713-id60001-x36-6003">
 <w.rf>

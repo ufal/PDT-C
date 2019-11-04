@@ -651,8 +651,9 @@
 </w.rf>
 <form>rock</form>
 <tag>
-<AM lemma="rock-1">NNIS4-----A----</AM>
-<AM lemma="rock-1" src="auto" recommended="1">NNIS1-----A----</AM>
+<AM lemma="rock">NNIS1-----A----</AM>
+<AM lemma="rock">NNIS4-----A----</AM>
+<AM lemma="rock_^(rock'n'roll)" src="auto" recommended="1">NNXXX-----A----</AM>
 </tag>
 <comment>
 <LM type="Other">
@@ -842,8 +843,9 @@
 <form_change>spell</form_change>
 <form>rock</form>
 <tag>
-<AM lemma="rock-1">NNIS4-----A----</AM>
-<AM lemma="rock-1" src="auto" recommended="1">NNIS1-----A----</AM>
+<AM lemma="rock">NNIS4-----A----</AM>
+<AM lemma="rock_^(rock'n'roll)">NNXXX-----A----</AM>
+<AM lemma="rock" src="auto" recommended="1">NNIS1-----A----</AM>
 </tag>
 <comment>
 <LM type="Other">

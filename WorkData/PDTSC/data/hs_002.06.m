@@ -3551,7 +3551,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>začaly</form>
-<tag lemma="začít-1_^(začnout)" src="auto" recommended="1">VpTP---XR-AA---</tag>
+<tag lemma="začít-1_^(začnout)" src="auto" recommended="1">VpTP---XR-AAP--</tag>
 </m>
 <m id="m002-d1t1807-3">
 <w.rf>

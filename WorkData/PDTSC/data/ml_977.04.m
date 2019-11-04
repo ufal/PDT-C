@@ -1880,7 +1880,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>povídají</form>
-<tag lemma="povídat_:T" src="auto" recommended="1">VB-P---3P-AA---</tag>
+<tag lemma="povídat" src="auto" recommended="1">VB-P---3P-AAI--</tag>
 </m>
 <m id="m977-id63318-8">
 <w.rf>

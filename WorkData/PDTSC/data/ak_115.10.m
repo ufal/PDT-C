@@ -508,7 +508,10 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>au</form>
-<tag lemma="au" src="auto" recommended="1">II-------------</tag>
+<tag>
+<AM lemma="au_^(au-pair)">A2--------A----</AM>
+<AM lemma="au" src="auto" recommended="1">II-------------</AM>
+</tag>
 <comment>
 <LM type="Other">
 <text>3v1: au - pairku</text>
@@ -602,7 +605,10 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>au</form>
-<tag lemma="au" src="auto" recommended="1">II-------------</tag>
+<tag>
+<AM lemma="au_^(au-pair)">A2--------A----</AM>
+<AM lemma="au" src="auto" recommended="1">II-------------</AM>
+</tag>
 <comment>
 <LM type="Other">
 <text>3v1: au - pairka</text>

@@ -358,7 +358,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>neemigrovaly</form>
-<tag lemma="emigrovat_:T_:W" src="auto" recommended="1">VpTP---XR-NA---</tag>
+<tag lemma="emigrovat" src="auto" recommended="1">VpTP---XR-NAB--</tag>
 </m>
 <m id="m977-id64052-x1-195">
 <w.rf>

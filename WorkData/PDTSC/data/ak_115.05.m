@@ -2643,7 +2643,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>měly</form>
-<tag lemma="mít" src="auto" recommended="1">VpTP---XR-AA---</tag>
+<tag lemma="mít" src="auto" recommended="1">VpTP---XR-AAI--</tag>
 </m>
 <m id="m115-717-450">
 <w.rf>
@@ -4009,7 +4009,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>bylo</form>
-<tag lemma="být" src="auto" recommended="1">VpNS---XR-AA---</tag>
+<tag lemma="být" src="auto" recommended="1">VpNS---XR-AAI--</tag>
 </m>
 <m id="m115-d1t922-8">
 <w.rf>

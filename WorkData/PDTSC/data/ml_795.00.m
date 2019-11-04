@@ -1370,7 +1370,7 @@
 <form>Frojnrajch</form>
 <tag>
 <AM lemma="Frojnrajch">X@-------------</AM>
-<AM lemma="Frojnrajch_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Frojnrajch" src="auto" recommended="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m795-d1e29-x6-536">
@@ -4364,8 +4364,8 @@
 <form_change>spell</form_change>
 <form>posti</form>
 <tag>
-<AM lemma="postit">Vi-S---3--A---4</AM>
-<AM lemma="postit" src="auto" recommended="1">Vi-S---2--A----</AM>
+<AM lemma="postit">Vi-S---3--A-I-4</AM>
+<AM lemma="postit" src="auto" recommended="1">Vi-S---2--A-I--</AM>
 </tag>
 </m>
 <m id="m795-d1e29-x15-184">
@@ -6267,7 +6267,7 @@
 <form_change>spell</form_change>
 <form>sem</form>
 <tag>
-<AM lemma="být">VB-S---1P-AA--6</AM>
+<AM lemma="být">VB-S---1P-AAI-6</AM>
 <AM lemma="sem" src="auto" recommended="1">Db-------------</AM>
 </tag>
 </m>

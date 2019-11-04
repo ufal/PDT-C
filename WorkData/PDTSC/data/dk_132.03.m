@@ -4601,7 +4601,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>zplanýrovat</form>
-<tag lemma="zplanýrovat_:W" src="auto" recommended="1">Vf--------A----</tag>
+<tag lemma="zplanýrovat" src="auto" recommended="1">Vf--------A-P--</tag>
 </m>
 <m id="m132-11-38">
 <w.rf>

@@ -4221,7 +4221,7 @@
 <form>Vinnycja</form>
 <tag>
 <AM lemma="Vinnycja">X@-------------</AM>
-<AM lemma="Vinnycja_;R_,t" src="auto" recommended="1">AAFS1----1A----</AM>
+<AM lemma="Vinnycja" src="auto" recommended="1">NNFXX-----A----</AM>
 </tag>
 </m>
 <m id="m973-d-id126067">

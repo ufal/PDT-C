@@ -6525,7 +6525,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>nepotřeboval</form>
-<tag lemma="potřebovat_:T" src="auto" recommended="1">VpYS---XR-NA---</tag>
+<tag lemma="potřebovat" src="auto" recommended="1">VpYS---XR-NAI--</tag>
 </m>
 <m id="m136-d1t3091-7">
 <w.rf>

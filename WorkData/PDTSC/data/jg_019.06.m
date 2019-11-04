@@ -3947,7 +3947,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>Vzpomenete</form>
-<tag lemma="vzpomenout" src="auto" recommended="1">VB-P---2P-AA---</tag>
+<tag lemma="vzpomenout" src="auto" recommended="1">VB-P---2P-AAP--</tag>
 </m>
 <m id="m019-d1t2326-2">
 <w.rf>

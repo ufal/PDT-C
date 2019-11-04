@@ -1434,7 +1434,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>soustřeďují</form>
-<tag lemma="soustřeďovat_:T" src="auto" recommended="1">VB-P---3P-AA---</tag>
+<tag lemma="soustřeďovat" src="auto" recommended="1">VB-P---3P-AAI--</tag>
 </m>
 <m id="m132-d1t2540-2">
 <w.rf>

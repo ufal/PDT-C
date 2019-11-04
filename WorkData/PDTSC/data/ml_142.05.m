@@ -973,7 +973,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>nepostavil</form>
-<tag lemma="postavit_:W" src="auto" recommended="1">VpYS---XR-NA---</tag>
+<tag lemma="postavit" src="auto" recommended="1">VpYS---XR-NAP--</tag>
 </m>
 <m id="m142-d-id103715-punct">
 <w.rf>

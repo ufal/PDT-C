@@ -3743,7 +3743,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>Myslela</form>
-<tag lemma="myslet" src="auto" recommended="1">VpQW---XR-AA---</tag>
+<tag lemma="myslet" src="auto" recommended="1">VpQW---XR-AAI--</tag>
 </m>
 <m id="m028-d1t3024-3">
 <w.rf>

@@ -4120,7 +4120,7 @@
 <LM>w#w-d1t1506-4</LM>
 </w.rf>
 <form>přijely</form>
-<tag lemma="přijet" src="auto" recommended="1">VpTP---XR-AA---</tag>
+<tag lemma="přijet" src="auto" recommended="1">VpTP---XR-AAP--</tag>
 </m>
 <m id="m051-d-id90016-punct">
 <w.rf>
@@ -4189,7 +4189,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>moct</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="auto" recommended="1">Vf--------A---1</tag>
+<tag lemma="moci" src="auto" recommended="1">Vf--------A-I-1</tag>
 </m>
 <m id="m051-d1t1511-8">
 <w.rf>

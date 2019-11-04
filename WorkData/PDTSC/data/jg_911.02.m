@@ -632,7 +632,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>rozuměl</form>
-<tag lemma="rozumět_:T" src="auto" recommended="1">VpYS---XR-AA---</tag>
+<tag lemma="rozumět" src="auto" recommended="1">VpYS---XR-AAI--</tag>
 </m>
 <m id="m911-d1t734-1">
 <w.rf>

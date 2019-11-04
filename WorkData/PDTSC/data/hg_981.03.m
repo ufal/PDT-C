@@ -3209,7 +3209,7 @@
 <LM>w#w-d1t1483-3</LM>
 </w.rf>
 <form>přepočteno</form>
-<tag lemma="přepočíst" src="auto" recommended="1">VsNS---XX-AP---</tag>
+<tag lemma="přepočíst" src="auto" recommended="1">VsNS---XX-APP--</tag>
 </m>
 <m id="m981-d1t1483-5">
 <w.rf>

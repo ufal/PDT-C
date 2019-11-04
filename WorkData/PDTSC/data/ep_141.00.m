@@ -3462,9 +3462,9 @@
 <form_change>spell</form_change>
 <form>Myslím</form>
 <tag>
+<AM lemma="myslet">VB-S---1P-AAI--</AM>
 <AM lemma="mysl">NNFP3-----A----</AM>
-<AM lemma="myslet">VB-S---1P-AA---</AM>
-<AM lemma="myslit_:T" src="auto" recommended="1">VB-S---1P-AA---</AM>
+<AM lemma="myslit" src="auto" recommended="1">VB-S---1P-AAI--</AM>
 </tag>
 </m>
 <m id="m141-81-110">

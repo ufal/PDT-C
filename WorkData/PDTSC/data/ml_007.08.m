@@ -3207,12 +3207,12 @@
 <AM lemma="vyučený_^(*3it)">AAIP1----1A---6</AM>
 <AM lemma="vyučený_^(*3it)">AAIP4----1A---6</AM>
 <AM lemma="vyučený_^(*3it)">AAIP5----1A---6</AM>
+<AM lemma="vyučený_^(*3it)">AAIS1----1A----</AM>
 <AM lemma="vyučený_^(*3it)">AAIS4----1A----</AM>
 <AM lemma="vyučený_^(*3it)">AAIS5----1A----</AM>
 <AM lemma="vyučený_^(*3it)">AAMP1----1A---6</AM>
 <AM lemma="vyučený_^(*3it)">AAMP4----1A---6</AM>
 <AM lemma="vyučený_^(*3it)">AAMP5----1A---6</AM>
-<AM lemma="vyučený_^(*3it)">AAMS1----1A----</AM>
 <AM lemma="vyučený_^(*3it)">AAMS5----1A----</AM>
 <AM lemma="vyučený_^(*3it)">AANP1----1A---6</AM>
 <AM lemma="vyučený_^(*3it)">AANP4----1A---6</AM>
@@ -3220,7 +3220,7 @@
 <AM lemma="vyučený_^(*3it)">AANS1----1A---6</AM>
 <AM lemma="vyučený_^(*3it)">AANS4----1A---6</AM>
 <AM lemma="vyučený_^(*3it)">AANS5----1A---6</AM>
-<AM lemma="vyučený_^(*3it)" src="auto" recommended="1">AAIS1----1A----</AM>
+<AM lemma="vyučený_^(*3it)" src="auto" recommended="1">AAMS1----1A----</AM>
 </tag>
 </m>
 <m id="m007-d-id150777">

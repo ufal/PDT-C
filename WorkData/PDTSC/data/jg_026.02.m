@@ -5148,8 +5148,8 @@
 <form_change>spell</form_change>
 <form>polštářek</form>
 <tag>
-<AM lemma="polštářek">NNIS4-----A----</AM>
-<AM lemma="polštářek" src="auto" recommended="1">NNIS1-----A----</AM>
+<AM lemma="polštářek">NNIS1-----A----</AM>
+<AM lemma="polštářek" src="auto" recommended="1">NNIS4-----A----</AM>
 </tag>
 </m>
 <m id="m026-185-193">

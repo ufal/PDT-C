@@ -1411,7 +1411,9 @@
 <tag>
 <AM lemma="Dali_;S">NNMS1-----A----</AM>
 <AM lemma="Dali_;S">NNMS5-----A----</AM>
-<AM lemma="dát" src="auto" recommended="1">VpMP---XR-AA---</AM>
+<AM lemma="Dali_;S">NNMXX-----A----</AM>
+<AM lemma="dát-2_^(dá_se_očekávat)">VpMP---XR-AAI--</AM>
+<AM lemma="dát" src="auto" recommended="1">VpMP---XR-AAP--</AM>
 </tag>
 </m>
 <m id="m045-d1t2806-8">

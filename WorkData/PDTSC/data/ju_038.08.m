@@ -2954,7 +2954,7 @@
 <form>leckdes</form>
 <tag>
 <AM lemma="leckdes">X@-------------</AM>
-<AM lemma="leckde_;K_,t" src="auto" recommended="1">NNMPX-----A----</AM>
+<AM lemma="leckdes" src="auto" recommended="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m038-d-id143501-punct">

@@ -1772,8 +1772,8 @@
 <form_change>spell</form_change>
 <form>Grošafta</form>
 <tag>
-<AM lemma="Grošaft_;S">NNMS4-----A----</AM>
-<AM lemma="Grošaft_;S" src="auto" recommended="1">NNMS2-----A----</AM>
+<AM lemma="Grošaft_;S">NNMS2-----A----</AM>
+<AM lemma="Grošaft_;S" src="auto" recommended="1">NNMS4-----A----</AM>
 </tag>
 </m>
 <m id="m007-d-id136616">

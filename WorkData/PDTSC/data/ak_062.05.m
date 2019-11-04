@@ -2523,7 +2523,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>byly</form>
-<tag lemma="být" src="auto" recommended="1">VpTP---XR-AA---</tag>
+<tag lemma="být" src="auto" recommended="1">VpTP---XR-AAI--</tag>
 </m>
 <m id="m062-d1t1226-6">
 <w.rf>
@@ -3344,7 +3344,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>rozsvítily</form>
-<tag lemma="rozsvítit_:W" src="auto" recommended="1">VpTP---XR-AA---</tag>
+<tag lemma="rozsvítit" src="auto" recommended="1">VpTP---XR-AAP--</tag>
 </m>
 <m id="m062-d1t1258-3">
 <w.rf>

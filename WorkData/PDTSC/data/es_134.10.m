@@ -5674,7 +5674,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>jezdila</form>
-<tag lemma="jezdit_:T" src="auto" recommended="1">VpQW---XR-AA---</tag>
+<tag lemma="jezdit" src="auto" recommended="1">VpQW---XR-AAI--</tag>
 </m>
 <m id="m134-d1t1308-31">
 <w.rf>

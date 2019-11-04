@@ -3891,7 +3891,7 @@
 <LM>w#w-d1t2137-9</LM>
 </w.rf>
 <form>byly</form>
-<tag lemma="být" src="auto" recommended="1">VpTP---XR-AA---</tag>
+<tag lemma="být" src="auto" recommended="1">VpTP---XR-AAI--</tag>
 </m>
 <m id="m029-d1t2137-10">
 <w.rf>

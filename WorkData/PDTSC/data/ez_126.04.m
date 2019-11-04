@@ -5202,10 +5202,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>jsme</form>
-<tag>
-<AM lemma="být">VB-P---1P-AA--2</AM>
-<AM lemma="být" src="auto" recommended="1">VB-P---1P-AA---</AM>
-</tag>
+<tag lemma="být" src="auto" recommended="1">VB-P---1P-AAI--</tag>
 </m>
 <m id="m126-d1t937-8">
 <w.rf>

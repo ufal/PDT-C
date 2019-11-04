@@ -2027,7 +2027,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>křižujou</form>
-<tag lemma="křižovat_:T" src="auto" recommended="1">VB-P---3P-AA--1</tag>
+<tag lemma="křižovat" src="auto" recommended="1">VB-P---3P-AAI-1</tag>
 </m>
 <m id="m149-d1t1706-27">
 <w.rf>

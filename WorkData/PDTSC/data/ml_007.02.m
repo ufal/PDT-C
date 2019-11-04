@@ -1494,12 +1494,12 @@
 <form_change>spell</form_change>
 <form>naházené</form>
 <tag>
-<AM lemma="naházený_^(*2t)">AAFP1----1A----</AM>
 <AM lemma="naházený_^(*2t)">AAFP4----1A----</AM>
 <AM lemma="naházený_^(*2t)">AAFP5----1A----</AM>
 <AM lemma="naházený_^(*2t)">AAFS2----1A----</AM>
 <AM lemma="naházený_^(*2t)">AAFS3----1A----</AM>
 <AM lemma="naházený_^(*2t)">AAFS6----1A----</AM>
+<AM lemma="naházený_^(*2t)">AAIP1----1A----</AM>
 <AM lemma="naházený_^(*2t)">AAIP4----1A----</AM>
 <AM lemma="naházený_^(*2t)">AAIP5----1A----</AM>
 <AM lemma="naházený_^(*2t)">AAMP4----1A----</AM>
@@ -1509,7 +1509,7 @@
 <AM lemma="naházený_^(*2t)">AANS1----1A----</AM>
 <AM lemma="naházený_^(*2t)">AANS4----1A----</AM>
 <AM lemma="naházený_^(*2t)">AANS5----1A----</AM>
-<AM lemma="naházený_^(*2t)" src="auto" recommended="1">AAIP1----1A----</AM>
+<AM lemma="naházený_^(*2t)" src="auto" recommended="1">AAFP1----1A----</AM>
 </tag>
 </m>
 <m id="m007-d1t821-4">

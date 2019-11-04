@@ -1716,7 +1716,7 @@
 <form>heim</form>
 <tag>
 <AM lemma="heim">X@-------------</AM>
-<AM lemma="hem_;G" src="auto" recommended="1">NNIS1-----A----</AM>
+<AM lemma="heim" src="auto" recommended="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m943-d1t549-1">

@@ -4090,7 +4090,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>nerozuměly</form>
-<tag lemma="rozumět_:T" src="auto" recommended="1">VpTP---XR-NA---</tag>
+<tag lemma="rozumět" src="auto" recommended="1">VpTP---XR-NAI--</tag>
 </m>
 <m id="m134-247-259">
 <w.rf>

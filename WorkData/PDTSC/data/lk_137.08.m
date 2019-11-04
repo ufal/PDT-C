@@ -3027,15 +3027,14 @@
 <tag>
 <AM lemma="s-1">RR--2----------</AM>
 <AM lemma="s-1">RR--4----------</AM>
-<AM lemma="s-2`sekunda_:B">NNFXX-----A---1</AM>
-<AM lemma="s-3_^(označení_pomocí_písmene)">NNNXX-----A----</AM>
-<AM lemma="s-4_,t_^(saský_genitiv)">NNXSX-----A----</AM>
-<AM lemma="s-8_:B_^(ost._zkratka)">XX------------8</AM>
 <AM lemma="s-9_^(být_s_to)">TT-------------</AM>
-<AM lemma="scriptum_:B_,t_^(př._P.S.)">NNNXX-----A---8</AM>
+<AM lemma="s-33_^(označení_pomocí_písmene)">NNNXX-----A----</AM>
+<AM lemma="s-77_,t">F%-------------</AM>
+<AM lemma="s-88_:B">NNXXX-----A---8</AM>
+<AM lemma="sekunda_:B">NNFXX-----A---8</AM>
 <AM lemma="soudruh_:B">NNMXX-----A---8</AM>
 <AM lemma="společnost_:B">NNFXX-----A---8</AM>
-<AM lemma="strana-4_:B_^(v_knize,_rukopise,...)">NNFXX-----A---8</AM>
+<AM lemma="strana">NNFXX-----A---8</AM>
 <AM lemma="státní_:B">AAXXX----1A---8</AM>
 <AM lemma="s-1" src="auto" recommended="1">RR--7----------</AM>
 </tag>

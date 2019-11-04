@@ -2310,7 +2310,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>sednout</form>
-<tag lemma="sednout_:W" src="auto" recommended="1">Vf--------A----</tag>
+<tag lemma="sednout" src="auto" recommended="1">Vf--------A-P--</tag>
 </m>
 <m id="m135-d-id175439-punct">
 <w.rf>

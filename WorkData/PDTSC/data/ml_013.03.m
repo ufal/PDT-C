@@ -3287,8 +3287,8 @@
 <form_change>spell</form_change>
 <form>zahraničí</form>
 <tag>
-<AM lemma="zahraničit_:W_,s">VB-P---3P-AA---</AM>
-<AM lemma="zahraničit_:W_,s">VB-S---3P-AA---</AM>
+<AM lemma="zahraničit_,s">VB-P---3P-AAP--</AM>
+<AM lemma="zahraničit_,s">VB-S---3P-AAP--</AM>
 <AM lemma="zahraničí">NNNP1-----A----</AM>
 <AM lemma="zahraničí">NNNP2-----A----</AM>
 <AM lemma="zahraničí">NNNP4-----A----</AM>

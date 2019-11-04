@@ -532,7 +532,7 @@
 <form>Classic</form>
 <tag>
 <AM lemma="Classic">X@-------------</AM>
-<AM lemma="Classic_;m_,t" src="auto" recommended="1">AAXXX----1A----</AM>
+<AM lemma="Classic" src="auto" recommended="1">NNFXX-----A----</AM>
 </tag>
 </m>
 <m id="m142-d1t387-7">
@@ -2913,21 +2913,21 @@
 <AM lemma="domácí-1">AANS1----1A----</AM>
 <AM lemma="domácí-1">AANS4----1A----</AM>
 <AM lemma="domácí-1">AANS5----1A----</AM>
-<AM lemma="domácí-2">NNFP1-----A----</AM>
-<AM lemma="domácí-2">NNFP4-----A----</AM>
-<AM lemma="domácí-2">NNFP5-----A----</AM>
-<AM lemma="domácí-2">NNFS1-----A----</AM>
-<AM lemma="domácí-2">NNFS2-----A----</AM>
-<AM lemma="domácí-2">NNFS3-----A----</AM>
-<AM lemma="domácí-2">NNFS4-----A----</AM>
-<AM lemma="domácí-2">NNFS5-----A----</AM>
-<AM lemma="domácí-2">NNFS6-----A----</AM>
-<AM lemma="domácí-2">NNFS7-----A----</AM>
 <AM lemma="domácí-2">NNMP1-----A----</AM>
 <AM lemma="domácí-2">NNMP4-----A----</AM>
 <AM lemma="domácí-2">NNMP5-----A----</AM>
 <AM lemma="domácí-2">NNMS1-----A----</AM>
 <AM lemma="domácí-2">NNMS5-----A----</AM>
+<AM lemma="domácí-3">NNFP1-----A----</AM>
+<AM lemma="domácí-3">NNFP4-----A----</AM>
+<AM lemma="domácí-3">NNFP5-----A----</AM>
+<AM lemma="domácí-3">NNFS1-----A----</AM>
+<AM lemma="domácí-3">NNFS2-----A----</AM>
+<AM lemma="domácí-3">NNFS3-----A----</AM>
+<AM lemma="domácí-3">NNFS4-----A----</AM>
+<AM lemma="domácí-3">NNFS5-----A----</AM>
+<AM lemma="domácí-3">NNFS6-----A----</AM>
+<AM lemma="domácí-3">NNFS7-----A----</AM>
 <AM lemma="domácí-1" src="auto" recommended="1">AAIS4----1A----</AM>
 </tag>
 </m>

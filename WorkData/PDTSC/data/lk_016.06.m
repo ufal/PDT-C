@@ -1783,7 +1783,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>organizováni</form>
-<tag lemma="organizovat_:T_:W" src="auto" recommended="1">VsMP---XX-AP---</tag>
+<tag lemma="organizovat" src="auto" recommended="1">VsMP---XX-APB--</tag>
 </m>
 <m id="m016-d1t3017-1">
 <w.rf>

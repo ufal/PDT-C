@@ -3136,7 +3136,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>byla</form>
-<tag lemma="být" src="auto" recommended="1">VpQW---XR-AA---</tag>
+<tag lemma="být" src="auto" recommended="1">VpQW---XR-AAI--</tag>
 </m>
 <m id="m138-d1t1008-3">
 <w.rf>

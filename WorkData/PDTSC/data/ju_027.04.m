@@ -297,7 +297,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>nemohli</form>
-<tag lemma="moci_^(mít_možnost_[něco_dělat])" src="auto" recommended="1">VpMP---XR-NA---</tag>
+<tag lemma="moci" src="auto" recommended="1">VpMP---XR-NAI--</tag>
 </m>
 <m id="m027-d1e1098-x2-9">
 <w.rf>

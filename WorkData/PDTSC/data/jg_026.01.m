@@ -2536,7 +2536,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>Chodíme</form>
-<tag lemma="chodit_:T" src="auto" recommended="1">VB-P---1P-AA---</tag>
+<tag lemma="chodit" src="auto" recommended="1">VB-P---1P-AAI--</tag>
 </m>
 <m id="m026-d1t506-2">
 <w.rf>

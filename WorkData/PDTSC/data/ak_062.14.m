@@ -1400,7 +1400,7 @@
 <form>Kühlungsborn</form>
 <tag>
 <AM lemma="Kühlungsborn">X@-------------</AM>
-<AM lemma="Kühlungsborn-99_:B_;S" src="auto" recommended="1">NNXXX-----A---8</AM>
+<AM lemma="Kühlungsborn" src="auto" recommended="1">NNXXX-----A---8</AM>
 </tag>
 </m>
 <m id="m062-d1t3137-4">

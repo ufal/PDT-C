@@ -4154,7 +4154,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>nepamatuji</form>
-<tag lemma="pamatovat_:T" src="auto" recommended="1">VB-S---1P-NA--1</tag>
+<tag lemma="pamatovat" src="auto" recommended="1">VB-S---1P-NAI-1</tag>
 </m>
 <m id="m139-450-477">
 <w.rf>

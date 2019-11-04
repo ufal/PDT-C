@@ -1863,7 +1863,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>podnikaly</form>
-<tag lemma="podnikat_:T" src="auto" recommended="1">VpTP---XR-AA---</tag>
+<tag lemma="podnikat" src="auto" recommended="1">VpTP---XR-AAI--</tag>
 </m>
 <m id="m015-d1t1743-3">
 <w.rf>

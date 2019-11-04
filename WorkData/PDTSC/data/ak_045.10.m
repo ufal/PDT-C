@@ -2787,7 +2787,10 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>dali</form>
-<tag lemma="dát" src="auto" recommended="1">VpMP---XR-AA---</tag>
+<tag>
+<AM lemma="dát-2_^(dá_se_očekávat)">VpMP---XR-AAI--</AM>
+<AM lemma="dát" src="auto" recommended="1">VpMP---XR-AAP--</AM>
+</tag>
 </m>
 <m id="m045-d1t2684-11">
 <w.rf>

@@ -3702,8 +3702,8 @@
 <form_change>spell</form_change>
 <form>neděli</form>
 <tag>
-<AM lemma="dít-1_^(dít_se)">VpMP---XR-NA---</AM>
-<AM lemma="dít-2_^(říkat)">VpMP---XR-NA---</AM>
+<AM lemma="dít-1_^(dít_se)">VpMP---XR-NAI--</AM>
+<AM lemma="dít-2_^(říkat)">VpMP---XR-NAP--</AM>
 <AM lemma="neděle">NNFS3-----A----</AM>
 <AM lemma="neděle">NNFS6-----A----</AM>
 <AM lemma="neděle" src="auto" recommended="1">NNFS4-----A----</AM>

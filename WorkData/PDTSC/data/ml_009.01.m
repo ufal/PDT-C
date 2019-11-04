@@ -1769,9 +1769,9 @@
 <form_change>spell</form_change>
 <form>čtyři</form>
 <tag>
-<AM lemma="čtyři`4">ClXP1----------</AM>
+<AM lemma="čtyři`4">ClXP4----------</AM>
 <AM lemma="čtyři`4">ClXP5----------</AM>
-<AM lemma="čtyři`4" src="auto" recommended="1">ClXP4----------</AM>
+<AM lemma="čtyři`4" src="auto" recommended="1">ClXP1----------</AM>
 </tag>
 </m>
 <m id="m009-d1t340-5">

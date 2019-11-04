@@ -612,8 +612,8 @@
 <form_change>spell</form_change>
 <form>Nachází</form>
 <tag>
-<AM lemma="nacházet_:T">VB-P---3P-AA--1</AM>
-<AM lemma="nacházet_:T" src="auto" recommended="1">VB-S---3P-AA---</AM>
+<AM lemma="nacházet">VB-P---3P-AAI-1</AM>
+<AM lemma="nacházet" src="auto" recommended="1">VB-S---3P-AAI--</AM>
 </tag>
 </m>
 <m id="m121-d1t1314-2">
@@ -980,8 +980,8 @@
 <form_change>spell</form_change>
 <form>vyhlíží</form>
 <tag>
-<AM lemma="vyhlížet_:T">VB-P---3P-AA--1</AM>
-<AM lemma="vyhlížet_:T" src="auto" recommended="1">VB-S---3P-AA---</AM>
+<AM lemma="vyhlížet">VB-P---3P-AAI-1</AM>
+<AM lemma="vyhlížet" src="auto" recommended="1">VB-S---3P-AAI--</AM>
 </tag>
 </m>
 <m id="m121-d1t1330-19">

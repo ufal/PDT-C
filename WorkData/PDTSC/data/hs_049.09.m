@@ -582,8 +582,8 @@
 <form_change>spell</form_change>
 <form>Propusť</form>
 <tag>
-<AM lemma="propustit">Vi-S---3--A---4</AM>
-<AM lemma="propustit" src="auto" recommended="1">Vi-S---2--A----</AM>
+<AM lemma="propustit">Vi-S---3--A-P-4</AM>
+<AM lemma="propustit" src="auto" recommended="1">Vi-S---2--A-P--</AM>
 </tag>
 </m>
 <m id="m049-d1e2198-x5-630">

@@ -1992,7 +1992,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>Byl</form>
-<tag lemma="být" src="auto" recommended="1">VpYS---XR-AA---</tag>
+<tag lemma="být" src="auto" recommended="1">VpYS---XR-AAI--</tag>
 </m>
 <m id="m976-2182-2186">
 <w.rf>

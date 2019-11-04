@@ -2200,8 +2200,8 @@
 </w.rf>
 <form>jí</form>
 <tag>
-<AM lemma="jíst_^(konzumovat_jídlo)">VB-P---3P-AA---</AM>
-<AM lemma="jíst_^(konzumovat_jídlo)">VB-S---3P-AA---</AM>
+<AM lemma="jíst">VB-P---3P-AAI--</AM>
+<AM lemma="jíst">VB-S---3P-AAI--</AM>
 <AM lemma="on-1_^(ona)">PPFS2--3-------</AM>
 <AM lemma="on-1_^(ona)">PPFS4--3------6</AM>
 <AM lemma="on-1_^(ona)">PPFS7--3-------</AM>
@@ -2255,7 +2255,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>Hitlerjugend</form>
-<tag lemma="Hitlerjugend_;K_;p_,t" src="auto" recommended="1">NNFXX-----A----</tag>
+<tag lemma="Hitlerjugend_;K_,t" src="auto" recommended="1">NNFXX-----A----</tag>
 </m>
 <m id="m147-76-636">
 <w.rf>

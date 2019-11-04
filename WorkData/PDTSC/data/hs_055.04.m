@@ -2760,7 +2760,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>užily</form>
-<tag lemma="užít" src="auto" recommended="1">VpTP---XR-AA---</tag>
+<tag lemma="užít" src="auto" recommended="1">VpTP---XR-AAP--</tag>
 </m>
 <m id="m055-d1t1826-2">
 <w.rf>

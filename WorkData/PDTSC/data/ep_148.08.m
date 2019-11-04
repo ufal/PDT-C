@@ -4694,10 +4694,8 @@
 <form_change>spell</form_change>
 <form>Franciscu</form>
 <tag>
-<AM lemma="Francisco_;Y_,t">NNMS3-----A---1</AM>
-<AM lemma="Francisco_;Y_,t">NNMS6-----A---1</AM>
-<AM lemma="Francisko_;G_,x">NNNS3-----A----</AM>
-<AM lemma="Francisko_;G_,x" src="auto" recommended="1">NNNS6-----A----</AM>
+<AM lemma="Francisco-2_;G">NNNS3-----A----</AM>
+<AM lemma="Francisco-2_;G" src="auto" recommended="1">NNNS6-----A----</AM>
 </tag>
 </m>
 <m id="m148-d-id159462-punct">

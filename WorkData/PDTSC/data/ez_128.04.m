@@ -2417,7 +2417,7 @@
 <form>Königsstuhl</form>
 <tag>
 <AM lemma="Königsstuhl">X@-------------</AM>
-<AM lemma="Königsstuhl_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Königsstuhl" src="auto" recommended="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m128-d-id96304-punct">
