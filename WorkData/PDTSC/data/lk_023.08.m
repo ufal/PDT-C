@@ -3706,7 +3706,7 @@
 <AM lemma="dít-2_^(říkat)">VpMP---XR-NAP--</AM>
 <AM lemma="neděle">NNFS3-----A----</AM>
 <AM lemma="neděle">NNFS6-----A----</AM>
-<AM lemma="neděle" src="auto" recommended="1">NNFS4-----A----</AM>
+<AM lemma="neděle" src="auto" recommended="1" selected="1">NNFS4-----A----</AM>
 </tag>
 </m>
 <m id="m023-d1t3142-9">

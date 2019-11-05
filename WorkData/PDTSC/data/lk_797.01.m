@@ -4703,7 +4703,7 @@
 <AM lemma="zdravý">AANS1----1A---6</AM>
 <AM lemma="zdravý">AANS4----1A---6</AM>
 <AM lemma="zdravý">AANS5----1A---6</AM>
-<AM lemma="zdravý" src="auto" recommended="1">AAMS1----1A----</AM>
+<AM lemma="zdravý" src="auto" recommended="1" selected="1">AAMS1----1A----</AM>
 </tag>
 </m>
 <m id="m797-d-id77466">
@@ -5723,7 +5723,7 @@
 <form>výpověď</form>
 <tag>
 <AM lemma="výpověď">NNFS1-----A----</AM>
-<AM lemma="výpověď" src="auto" recommended="1">NNFS4-----A----</AM>
+<AM lemma="výpověď" src="auto" recommended="1" selected="1">NNFS4-----A----</AM>
 </tag>
 </m>
 <m id="m797-d-id79311">

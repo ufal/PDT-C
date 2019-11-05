@@ -4884,7 +4884,7 @@
 <AM lemma="zchátralý_^(*2t)">AANS1----1A---6</AM>
 <AM lemma="zchátralý_^(*2t)">AANS4----1A---6</AM>
 <AM lemma="zchátralý_^(*2t)">AANS5----1A---6</AM>
-<AM lemma="zchátralý_^(*2t)" src="auto" recommended="1">AAIS4----1A----</AM>
+<AM lemma="zchátralý_^(*2t)" src="auto" recommended="1" selected="1">AAIS4----1A----</AM>
 </tag>
 </m>
 <m id="m123-d1t1559-10">

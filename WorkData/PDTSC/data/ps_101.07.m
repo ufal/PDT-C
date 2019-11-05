@@ -1589,7 +1589,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>Smena</form>
-<tag lemma="Smena_;R" src="auto" recommended="1">NNFS1-----A----</tag>
+<tag lemma="Smena_;R" src="auto" recommended="1" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m101-d1t1235-10">
 <w.rf>

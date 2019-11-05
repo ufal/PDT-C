@@ -1528,7 +1528,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>Francouzština</form>
-<tag lemma="francouzština" src="auto" recommended="1">NNFS1-----A----</tag>
+<tag lemma="francouzština" src="auto" recommended="1" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m124-d1t738-2">
 <w.rf>

@@ -1037,7 +1037,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>Těm</form>
-<tag lemma="ten" src="auto" recommended="1">PDXP3----------</tag>
+<tag lemma="ten" src="auto" recommended="1" selected="1">PDXP3----------</tag>
 </m>
 <m id="m040-d1t3134-14">
 <w.rf>

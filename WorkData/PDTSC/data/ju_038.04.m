@@ -365,7 +365,7 @@
 <tag>
 <AM lemma="drážní">AAFP7----1A---6</AM>
 <AM lemma="drážní">AAIP7----1A---6</AM>
-<AM lemma="drážní">AAMP7----1A---6</AM>
+<AM lemma="drážní" selected="1">AAMP7----1A---6</AM>
 <AM lemma="drážní">AANP7----1A---6</AM>
 <AM lemma="drážní" src="auto" recommended="1">AAFD7----1A----</AM>
 </tag>

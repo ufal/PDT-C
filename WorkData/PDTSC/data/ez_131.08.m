@@ -13,7 +13,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>12000</form>
-<tag lemma="12000" src="auto" recommended="1">C=-------------</tag>
+<tag lemma="12000" src="auto" recommended="1" selected="1">C=-------------</tag>
 </m>
 <m id="m131-d1e1426-x8-46">
 <w.rf>

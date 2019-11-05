@@ -1771,7 +1771,7 @@
 <tag>
 <AM lemma="čtyři`4">ClXP4----------</AM>
 <AM lemma="čtyři`4">ClXP5----------</AM>
-<AM lemma="čtyři`4" src="auto" recommended="1">ClXP1----------</AM>
+<AM lemma="čtyři`4" src="auto" recommended="1" selected="1">ClXP1----------</AM>
 </tag>
 </m>
 <m id="m009-d1t340-5">
@@ -1780,7 +1780,7 @@
 </w.rf>
 <form>roky</form>
 <tag>
-<AM lemma="rok" src="auto">NNIP1-----A----</AM>
+<AM lemma="rok" src="auto" selected="1">NNIP1-----A----</AM>
 <AM lemma="rok" src="auto" recommended="1">NNIP4-----A----</AM>
 <AM lemma="rok" src="auto">NNIP5-----A----</AM>
 <AM lemma="rok" src="auto">NNIP7-----A----</AM>
@@ -1812,7 +1812,10 @@
 <LM>w#w-d1t342-2</LM>
 </w.rf>
 <form>byli</form>
-<tag lemma="být" src="auto" recommended="1">VpMP---XR-AA---</tag>
+<tag>
+<AM lemma="být" src="auto" recommended="1">VpMP---XR-AA---</AM>
+<AM lemma="být" src="manual" selected="1">VpMP----R-AA---</AM>
+</tag>
 </m>
 <m id="m009-d1t342-3">
 <w.rf>
@@ -4147,7 +4150,7 @@
 <AM lemma="měšťanský">AANS1----1A----</AM>
 <AM lemma="měšťanský">AANS4----1A----</AM>
 <AM lemma="měšťanský">AANS5----1A----</AM>
-<AM lemma="měšťanský" src="auto" recommended="1">AAFS2----1A----</AM>
+<AM lemma="měšťanský" src="auto" recommended="1" selected="1">AAFS2----1A----</AM>
 </tag>
 </m>
 <m id="m009-d1t498-8">

@@ -4069,7 +4069,7 @@
 <form>povolání</form>
 <tag>
 <AM lemma="povolání_^(*3at)">NNNP1-----A----</AM>
-<AM lemma="povolání_^(*3at)">NNNP2-----A----</AM>
+<AM lemma="povolání_^(*3at)" selected="1">NNNP2-----A----</AM>
 <AM lemma="povolání_^(*3at)">NNNP4-----A----</AM>
 <AM lemma="povolání_^(*3at)">NNNP5-----A----</AM>
 <AM lemma="povolání_^(*3at)">NNNS1-----A----</AM>
@@ -4802,7 +4802,7 @@
 <form>mně</form>
 <tag>
 <AM lemma="já">PP-S6--1-------</AM>
-<AM lemma="já" src="auto" recommended="1">PP-S3--1-------</AM>
+<AM lemma="já" src="auto" recommended="1" selected="1">PP-S3--1-------</AM>
 </tag>
 </m>
 <m id="m148-d1t2481-7">
@@ -4883,7 +4883,7 @@
 <tag>
 <AM lemma="sedmdesát`70">Cn-S1----------</AM>
 <AM lemma="sedmdesát`70">Cn-S5----------</AM>
-<AM lemma="sedmdesát`70" src="auto" recommended="1">Cn-S4----------</AM>
+<AM lemma="sedmdesát`70" src="auto" recommended="1" selected="1">Cn-S4----------</AM>
 </tag>
 </m>
 <m id="m148-d1t2492-5">

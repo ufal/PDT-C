@@ -2427,7 +2427,7 @@
 <AM lemma="třešňový">AANS1----1A----</AM>
 <AM lemma="třešňový">AANS4----1A----</AM>
 <AM lemma="třešňový">AANS5----1A----</AM>
-<AM lemma="třešňový" src="auto" recommended="1">AAIP4----1A----</AM>
+<AM lemma="třešňový" src="auto" recommended="1" selected="1">AAIP4----1A----</AM>
 </tag>
 </m>
 <m id="m124-d-id161328-punct">

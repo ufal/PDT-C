@@ -4410,7 +4410,7 @@
 <form>opravdu</form>
 <tag>
 <AM lemma="opravdu-2">TT-------------</AM>
-<AM lemma="opravdu-1" src="auto" recommended="1">Db-------------</AM>
+<AM lemma="opravdu-1" src="auto" recommended="1" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m021-d1t2931-7">

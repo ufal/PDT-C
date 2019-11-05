@@ -1780,7 +1780,7 @@
 <AM lemma="konkrétní">AAMS2----1A----</AM>
 <AM lemma="konkrétní">AAMS4----1A----</AM>
 <AM lemma="konkrétní">AANS2----1A----</AM>
-<AM lemma="konkrétní" src="auto" recommended="1">AAIS2----1A----</AM>
+<AM lemma="konkrétní" src="auto" recommended="1" selected="1">AAIS2----1A----</AM>
 </tag>
 </m>
 <m id="m109-d1t1287-22">

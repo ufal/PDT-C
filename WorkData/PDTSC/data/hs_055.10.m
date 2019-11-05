@@ -2960,7 +2960,7 @@
 <tag>
 <AM lemma="čtyři`4">ClXP4----------</AM>
 <AM lemma="čtyři`4">ClXP5----------</AM>
-<AM lemma="čtyři`4" src="auto" recommended="1">ClXP1----------</AM>
+<AM lemma="čtyři`4" src="auto" recommended="1" selected="1">ClXP1----------</AM>
 </tag>
 </m>
 <m id="m055-235-238">

@@ -1992,7 +1992,7 @@
 <AM lemma="obrázek">NNIS2-----A----</AM>
 <AM lemma="obrázek">NNIS3-----A----</AM>
 <AM lemma="obrázek">NNIS5-----A----</AM>
-<AM lemma="obrázek" src="auto" recommended="1">NNIS6-----A----</AM>
+<AM lemma="obrázek" src="auto" recommended="1" selected="1">NNIS6-----A----</AM>
 </tag>
 </m>
 <m id="m124-d1t82-17">

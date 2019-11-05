@@ -2235,7 +2235,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>50000</form>
-<tag lemma="50000" src="auto" recommended="1">C=-------------</tag>
+<tag lemma="50000" src="auto" recommended="1" selected="1">C=-------------</tag>
 </m>
 <m id="m954-d1t714-8">
 <w.rf>
@@ -3789,7 +3789,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>vzpomínají</form>
-<tag lemma="vzpomínat" src="auto" recommended="1">VB-P---3P-AAI--</tag>
+<tag lemma="vzpomínat" src="auto" recommended="1" selected="1">VB-P---3P-AAI--</tag>
 </m>
 <m id="m954-d1t877-1">
 <w.rf>

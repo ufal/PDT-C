@@ -1148,7 +1148,7 @@
 <AM lemma="cédéčko">NNNP1-----A----</AM>
 <AM lemma="cédéčko">NNNP5-----A----</AM>
 <AM lemma="cédéčko">NNNS2-----A----</AM>
-<AM lemma="cédéčko" src="auto" recommended="1">NNNP4-----A----</AM>
+<AM lemma="cédéčko" src="auto" recommended="1" selected="1">NNNP4-----A----</AM>
 </tag>
 </m>
 <m id="m125-442-462">
@@ -1208,7 +1208,7 @@
 <AM lemma="cédéčko">NNNP1-----A----</AM>
 <AM lemma="cédéčko">NNNP5-----A----</AM>
 <AM lemma="cédéčko">NNNS2-----A----</AM>
-<AM lemma="cédéčko" src="auto" recommended="1">NNNP4-----A----</AM>
+<AM lemma="cédéčko" src="auto" recommended="1" selected="1">NNNP4-----A----</AM>
 </tag>
 </m>
 <m id="m125-443-468">

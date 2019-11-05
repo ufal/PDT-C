@@ -231,7 +231,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>5000</form>
-<tag lemma="5000" src="auto" recommended="1">C=-------------</tag>
+<tag lemma="5000" src="auto" recommended="1" selected="1">C=-------------</tag>
 </m>
 <m id="m147-282-337">
 <w.rf>
@@ -2691,7 +2691,7 @@
 <AM lemma="propagační" src="auto">AAIS2----1A----</AM>
 <AM lemma="propagační" src="auto" recommended="1">AAMS2----1A----</AM>
 <AM lemma="propagační" src="auto">AAMS4----1A----</AM>
-<AM lemma="propagační" src="auto">AANS2----1A----</AM>
+<AM lemma="propagační" src="auto" selected="1">AANS2----1A----</AM>
 </tag>
 </m>
 <m id="m147-d1t242-15">
@@ -2712,7 +2712,7 @@
 <AM lemma="oddělení_^(*3it)">NNNS4-----A----</AM>
 <AM lemma="oddělení_^(*3it)">NNNS5-----A----</AM>
 <AM lemma="oddělení_^(*3it)">NNNS6-----A----</AM>
-<AM lemma="oddělení_^(*3it)" src="auto" recommended="1">NNNS2-----A----</AM>
+<AM lemma="oddělení_^(*3it)" src="auto" recommended="1" selected="1">NNNS2-----A----</AM>
 </tag>
 </m>
 <m id="m147-506-507">

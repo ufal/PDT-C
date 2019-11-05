@@ -961,6 +961,7 @@
 <tag>
 <AM lemma="Sappady">X@-------------</AM>
 <AM lemma="Sappada" src="auto" recommended="1">NNFS2-----A----</AM>
+<AM lemma="Sappada_;G" src="manual" selected="1">NNFS2-----A----</AM>
 </tag>
 </m>
 <m id="m148-d-m-d1e3616-x4-punct-punct">
@@ -3104,7 +3105,7 @@
 <AM lemma="poslední">AANS1----1A----</AM>
 <AM lemma="poslední">AANS4----1A----</AM>
 <AM lemma="poslední">AANS5----1A----</AM>
-<AM lemma="poslední" src="auto" recommended="1">AAFS1----1A----</AM>
+<AM lemma="poslední" src="auto" recommended="1" selected="1">AAFS1----1A----</AM>
 </tag>
 </m>
 <m id="m148-d1t3766-7">
@@ -3580,7 +3581,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>3500</form>
-<tag lemma="3500" src="auto" recommended="1">C=-------------</tag>
+<tag lemma="3500" src="auto" recommended="1" selected="1">C=-------------</tag>
 </m>
 <m id="m148-d1t3830-1">
 <w.rf>
@@ -4695,7 +4696,7 @@
 <form>Franciscu</form>
 <tag>
 <AM lemma="Francisco-2_;G">NNNS3-----A----</AM>
-<AM lemma="Francisco-2_;G" src="auto" recommended="1">NNNS6-----A----</AM>
+<AM lemma="Francisco-2_;G" src="auto" recommended="1" selected="1">NNNS6-----A----</AM>
 </tag>
 </m>
 <m id="m148-d-id159462-punct">

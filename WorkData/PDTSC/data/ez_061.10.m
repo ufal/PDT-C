@@ -4331,7 +4331,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>Bohužel</form>
-<tag lemma="bohužel" src="auto" recommended="1">TT-------------</tag>
+<tag lemma="bohužel" src="auto" recommended="1" selected="1">TT-------------</tag>
 </m>
 <m id="m061-d1t3773-2">
 <w.rf>

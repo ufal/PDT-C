@@ -604,7 +604,7 @@
 <AM lemma="Innsbruck_;G">NNIS2-----A----</AM>
 <AM lemma="Innsbruck_;G">NNIS3-----A----</AM>
 <AM lemma="Innsbruck_;G">NNIS5-----A----</AM>
-<AM lemma="Innsbruck_;G" src="auto" recommended="1">NNIS6-----A----</AM>
+<AM lemma="Innsbruck_;G" src="auto" recommended="1" selected="1">NNIS6-----A----</AM>
 </tag>
 </m>
 <m id="m055-35-36">
@@ -649,7 +649,7 @@
 <AM lemma="Innsbruck_;G">NNIS2-----A----</AM>
 <AM lemma="Innsbruck_;G">NNIS3-----A----</AM>
 <AM lemma="Innsbruck_;G">NNIS5-----A----</AM>
-<AM lemma="Innsbruck_;G" src="auto" recommended="1">NNIS6-----A----</AM>
+<AM lemma="Innsbruck_;G" src="auto" recommended="1" selected="1">NNIS6-----A----</AM>
 </tag>
 </m>
 <m id="m055-37-38">
@@ -1847,7 +1847,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>Innsbruckem</form>
-<tag lemma="Innsbruck_;G" src="auto" recommended="1">NNIS7-----A----</tag>
+<tag lemma="Innsbruck_;G" src="auto" recommended="1" selected="1">NNIS7-----A----</tag>
 </m>
 <m id="m055-84-85">
 <w.rf>

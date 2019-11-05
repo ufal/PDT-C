@@ -2138,7 +2138,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>Brindisi</form>
-<tag lemma="Brindisi_;G" src="auto" recommended="1">NNNXX-----A----</tag>
+<tag lemma="Brindisi_;G" src="auto" recommended="1" selected="1">NNNXX-----A----</tag>
 </m>
 <m id="m119-579-580">
 <w.rf>

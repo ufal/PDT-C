@@ -2321,7 +2321,10 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>skácel</form>
-<tag lemma="skácet" src="auto" recommended="1">VpYS---XR-AAP--</tag>
+<tag>
+<AM lemma="skácet" src="auto" recommended="1">VpYS---XR-AAP--</AM>
+<AM lemma="skácet" src="manual" selected="1">VpYS----R-AAP--</AM>
+</tag>
 </m>
 <m id="m145-d1t1750-26">
 <w.rf>

@@ -3495,7 +3495,7 @@
 <tag>
 <AM lemma="institut">NNIS2-----A----</AM>
 <AM lemma="institut">NNIS3-----A----</AM>
-<AM lemma="institut" src="auto" recommended="1">NNIS6-----A----</AM>
+<AM lemma="institut" src="auto" recommended="1" selected="1">NNIS6-----A----</AM>
 </tag>
 </m>
 <m id="m124-d1t483-13">

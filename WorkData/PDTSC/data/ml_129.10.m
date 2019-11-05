@@ -2713,7 +2713,7 @@
 <AM lemma="kavka">NNFP4-----A----</AM>
 <AM lemma="kavka">NNFP5-----A----</AM>
 <AM lemma="kavka">NNFS2-----A----</AM>
-<AM lemma="kavka" src="auto" recommended="1">NNFP1-----A----</AM>
+<AM lemma="kavka" src="auto" recommended="1" selected="1">NNFP1-----A----</AM>
 </tag>
 </m>
 <m id="m129-d1t2502-12">

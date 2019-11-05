@@ -5450,7 +5450,7 @@
 <AM lemma="Rijeka_;G">NNFP1-----A----</AM>
 <AM lemma="Rijeka_;G">NNFP4-----A----</AM>
 <AM lemma="Rijeka_;G">NNFP5-----A----</AM>
-<AM lemma="Rijeka_;G" src="auto" recommended="1">NNFS2-----A----</AM>
+<AM lemma="Rijeka_;G" src="auto" recommended="1" selected="1">NNFS2-----A----</AM>
 </tag>
 </m>
 <m id="m124-d1t999-12">

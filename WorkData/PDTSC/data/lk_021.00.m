@@ -5053,7 +5053,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>téměř</form>
-<tag lemma="téměř" src="auto" recommended="1">Db-------------</tag>
+<tag lemma="téměř" src="auto" recommended="1" selected="1">Db-------------</tag>
 </m>
 <m id="m021-d1t379-6">
 <w.rf>
@@ -5284,7 +5284,7 @@
 <form>slévárně</form>
 <tag>
 <AM lemma="slévárna">NNFS3-----A----</AM>
-<AM lemma="slévárna" src="auto" recommended="1">NNFS6-----A----</AM>
+<AM lemma="slévárna" src="auto" recommended="1" selected="1">NNFS6-----A----</AM>
 </tag>
 </m>
 <m id="m021-d1t395-4">

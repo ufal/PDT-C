@@ -4637,7 +4637,7 @@
 <AM lemma="Plzenec_;G">NNIP1-----A----</AM>
 <AM lemma="Plzenec_;G">NNIP4-----A----</AM>
 <AM lemma="Plzenec_;G">NNIP5-----A----</AM>
-<AM lemma="Plzenec_;G" src="auto" recommended="1">NNIS2-----A----</AM>
+<AM lemma="Plzenec_;G" src="auto" recommended="1" selected="1">NNIS2-----A----</AM>
 </tag>
 </m>
 <m id="m142-209-217">

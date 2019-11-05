@@ -5112,7 +5112,7 @@
 <AM lemma="ajznboňácký_,l">AANP1----1A----</AM>
 <AM lemma="ajznboňácký_,l">AANP4----1A----</AM>
 <AM lemma="ajznboňácký_,l">AANP5----1A----</AM>
-<AM lemma="ajznboňácký_,l" src="auto" recommended="1">AAFS1----1A----</AM>
+<AM lemma="ajznboňácký_,l" src="auto" recommended="1" selected="1">AAFS1----1A----</AM>
 </tag>
 </m>
 <m id="m059-504-268">

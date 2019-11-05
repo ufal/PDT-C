@@ -827,7 +827,7 @@
 <AM lemma="raný">AAIS2----1A----</AM>
 <AM lemma="raný">AAMS2----1A----</AM>
 <AM lemma="raný">AAMS4----1A----</AM>
-<AM lemma="raný" src="auto" recommended="1">AANS2----1A----</AM>
+<AM lemma="raný" src="auto" recommended="1" selected="1">AANS2----1A----</AM>
 </tag>
 </m>
 <m id="m061-d1t88-7">

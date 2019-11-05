@@ -195,7 +195,7 @@
 <tag>
 <AM lemma="Austrálie_;G">NNFS3-----A----</AM>
 <AM lemma="Austrálie_;G">NNFS4-----A----</AM>
-<AM lemma="Austrálie_;G" src="auto" recommended="1">NNFS6-----A----</AM>
+<AM lemma="Austrálie_;G" src="auto" recommended="1" selected="1">NNFS6-----A----</AM>
 </tag>
 </m>
 <m id="m118-d1t1280-9">
@@ -2126,7 +2126,7 @@
 <tag>
 <AM lemma="Austrálie_;G">NNFS3-----A----</AM>
 <AM lemma="Austrálie_;G">NNFS4-----A----</AM>
-<AM lemma="Austrálie_;G" src="auto" recommended="1">NNFS6-----A----</AM>
+<AM lemma="Austrálie_;G" src="auto" recommended="1" selected="1">NNFS6-----A----</AM>
 </tag>
 </m>
 <m id="m118-d1t1367-10">

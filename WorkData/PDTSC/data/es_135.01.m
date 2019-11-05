@@ -510,7 +510,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>vyzvednout</form>
-<tag lemma="vyzvednout" src="auto" recommended="1">Vf--------A-P--</tag>
+<tag lemma="vyzvednout" src="auto" recommended="1" selected="1">Vf--------A-P--</tag>
 </m>
 <m id="m135-d1t176-82">
 <w.rf>
@@ -1741,7 +1741,7 @@
 <AM lemma="Žižkův_;S_^(*2a)_(*3ek)">AUMS6M---------</AM>
 <AM lemma="Žižkův_;S_^(*2a)_(*3ek)">AUNS3M--------6</AM>
 <AM lemma="Žižkův_;S_^(*2a)_(*3ek)">AUNS6M---------</AM>
-<AM lemma="Žižkov_;G" src="auto" recommended="1">NNIS6-----A----</AM>
+<AM lemma="Žižkov_;G" src="auto" recommended="1" selected="1">NNIS6-----A----</AM>
 </tag>
 </m>
 <m id="m135-d-id67544-punct">

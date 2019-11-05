@@ -909,7 +909,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>zetěm</form>
-<tag lemma="zeť" src="auto" recommended="1">NNMS7-----A----</tag>
+<tag lemma="zeť" src="auto" recommended="1" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m140-d1t1299-3">
 <w.rf>
@@ -1420,7 +1420,7 @@
 <AM lemma="Pankrác-1_;Y">NNMS6-----A----</AM>
 <AM lemma="Pankrác-2_;G">NNFS3-----A----</AM>
 <AM lemma="Pankrác-2_;G">NNFS5-----A----</AM>
-<AM lemma="Pankrác-2_;G" src="auto" recommended="1">NNFS6-----A----</AM>
+<AM lemma="Pankrác-2_;G" src="auto" recommended="1" selected="1">NNFS6-----A----</AM>
 </tag>
 </m>
 <m id="m140-d1t1308-19">

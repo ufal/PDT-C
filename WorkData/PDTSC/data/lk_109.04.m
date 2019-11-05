@@ -2684,7 +2684,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>srpna</form>
-<tag lemma="srpen" src="auto" recommended="1">NNIS2-----A----</tag>
+<tag lemma="srpen" src="auto" recommended="1" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m109-d-id99105-punct">
 <w.rf>

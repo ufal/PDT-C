@@ -1202,7 +1202,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>modistka</form>
-<tag lemma="modistka_^(*2a)" src="auto" recommended="1">NNFS1-----A----</tag>
+<tag lemma="modistka_^(*2a)" src="auto" recommended="1" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m110-88-95">
 <w.rf>

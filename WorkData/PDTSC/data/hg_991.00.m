@@ -2938,7 +2938,7 @@
 <AM lemma="liberální">AANS1----1A----</AM>
 <AM lemma="liberální">AANS4----1A----</AM>
 <AM lemma="liberální">AANS5----1A----</AM>
-<AM lemma="liberální" src="auto" recommended="1">AAIP1----1A----</AM>
+<AM lemma="liberální" src="auto" recommended="1" selected="1">AAIP1----1A----</AM>
 </tag>
 </m>
 <m id="m991-d1e262-x2-2121">

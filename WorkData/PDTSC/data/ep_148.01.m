@@ -303,7 +303,7 @@
 <form>spolužáci</form>
 <tag>
 <AM lemma="spolužák">NNMP5-----A----</AM>
-<AM lemma="spolužák" src="auto" recommended="1">NNMP1-----A----</AM>
+<AM lemma="spolužák" src="auto" recommended="1" selected="1">NNMP1-----A----</AM>
 </tag>
 </m>
 <m id="m148-312-336">
@@ -633,7 +633,7 @@
 <AM lemma="čtvrt-2_^(čtvrtina)">NNFS2-----A----</AM>
 <AM lemma="čtvrt-2_^(čtvrtina)">NNFS3-----A----</AM>
 <AM lemma="čtvrt-2_^(čtvrtina)">NNFS6-----A----</AM>
-<AM lemma="čtvrť_^(města)" src="auto" recommended="1">NNFS2-----A---1</AM>
+<AM lemma="čtvrť_^(města)" src="auto" recommended="1" selected="1">NNFS2-----A---1</AM>
 </tag>
 </m>
 <m id="m148-d1e336-x3-357">
@@ -5417,7 +5417,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>1300</form>
-<tag lemma="1300" src="auto" recommended="1">C=-------------</tag>
+<tag lemma="1300" src="auto" recommended="1" selected="1">C=-------------</tag>
 </m>
 <m id="m148-d1t772-5">
 <w.rf>
@@ -5613,7 +5613,10 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>Byli</form>
-<tag lemma="být" src="auto" recommended="1">VpMP---XR-AAI--</tag>
+<tag>
+<AM lemma="být" src="auto" recommended="1">VpMP---XR-AAI--</AM>
+<AM lemma="být" src="manual" selected="1">VpMP----R-AAI--</AM>
+</tag>
 </m>
 <m id="m148-d-id76493-punct">
 <w.rf>

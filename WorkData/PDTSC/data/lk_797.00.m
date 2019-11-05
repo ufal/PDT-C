@@ -3491,7 +3491,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>Abeles</form>
-<tag lemma="Abeles_;S" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag lemma="Abeles_;S" src="auto" recommended="1" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m797-d1t153-1">
 <w.rf>
@@ -6013,7 +6013,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>musulman</form>
-<tag lemma="musulman" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag lemma="musulman" src="auto" recommended="1" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m797-d-id66220">
 <w.rf>
@@ -6039,7 +6039,7 @@
 <form>Musulmani</form>
 <tag>
 <AM lemma="musulman">NNMP5-----A---1</AM>
-<AM lemma="musulman" src="auto" recommended="1">NNMP1-----A---1</AM>
+<AM lemma="musulman" src="auto" recommended="1" selected="1">NNMP1-----A---1</AM>
 </tag>
 </m>
 <m id="m797-d1e20-x24-893">
@@ -6210,7 +6210,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>musulman</form>
-<tag lemma="musulman" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag lemma="musulman" src="auto" recommended="1" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m797-d-id66516">
 <w.rf>

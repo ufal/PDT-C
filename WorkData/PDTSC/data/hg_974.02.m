@@ -4189,7 +4189,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>zajímají</form>
-<tag lemma="zajímat" src="auto" recommended="1">VB-P---3P-AAI--</tag>
+<tag lemma="zajímat" src="auto" recommended="1" selected="1">VB-P---3P-AAI--</tag>
 </m>
 <m id="m974-id61546-16">
 <w.rf>

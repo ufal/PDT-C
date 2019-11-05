@@ -5557,7 +5557,7 @@
 <AM lemma="vojtěšský">AANS1----1A----</AM>
 <AM lemma="vojtěšský">AANS4----1A----</AM>
 <AM lemma="vojtěšský">AANS5----1A----</AM>
-<AM lemma="vojtěšský" src="auto" recommended="1">AAFS6----1A----</AM>
+<AM lemma="vojtěšský" src="auto" recommended="1" selected="1">AAFS6----1A----</AM>
 </tag>
 </m>
 <m id="m714-1614-1957">

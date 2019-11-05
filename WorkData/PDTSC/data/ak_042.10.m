@@ -2603,7 +2603,7 @@
 <form>mně</form>
 <tag>
 <AM lemma="já">PP-S6--1-------</AM>
-<AM lemma="já" src="auto" recommended="1">PP-S3--1-------</AM>
+<AM lemma="já" src="auto" recommended="1" selected="1">PP-S3--1-------</AM>
 </tag>
 </m>
 <m id="m042-90-91">

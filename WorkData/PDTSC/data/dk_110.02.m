@@ -239,7 +239,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>Anetou</form>
-<tag lemma="Aneta_;Y" src="auto" recommended="1">NNFS7-----A----</tag>
+<tag lemma="Aneta_;Y" src="auto" recommended="1" selected="1">NNFS7-----A----</tag>
 </m>
 <m id="m110-d1t619-9">
 <w.rf>
@@ -1493,7 +1493,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>návštěvu</form>
-<tag lemma="návštěva" src="auto" recommended="1">NNFS4-----A----</tag>
+<tag lemma="návštěva" src="auto" recommended="1" selected="1">NNFS4-----A----</tag>
 </m>
 <m id="m110-d1t694-6">
 <w.rf>

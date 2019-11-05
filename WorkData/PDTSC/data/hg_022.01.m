@@ -682,7 +682,10 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>byly</form>
-<tag lemma="být" src="auto" recommended="1">VpTP---XR-AAI--</tag>
+<tag>
+<AM lemma="být" src="auto" recommended="1">VpTP---XR-AAI--</AM>
+<AM lemma="být" src="manual" selected="1">VpTP----R-AAI--</AM>
+</tag>
 </m>
 <m id="m022-d1t380-3">
 <w.rf>

@@ -3484,7 +3484,7 @@
 <form>volynští</form>
 <tag>
 <AM lemma="volynští">X@-------------</AM>
-<AM lemma="volynský" src="auto" recommended="1">AAMP1----1A----</AM>
+<AM lemma="volynský" src="auto" recommended="1" selected="1">AAMP1----1A----</AM>
 </tag>
 </m>
 <m id="m714-d1t926-8">

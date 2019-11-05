@@ -138,7 +138,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>sester</form>
-<tag lemma="sestra" src="auto" recommended="1">NNFP2-----A----</tag>
+<tag lemma="sestra" src="auto" recommended="1" selected="1">NNFP2-----A----</tag>
 </m>
 <m id="m121-d-id175375-punct">
 <w.rf>

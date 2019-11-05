@@ -4865,7 +4865,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>Kde</form>
-<tag lemma="kde" src="auto" recommended="1">Db-------------</tag>
+<tag lemma="kde" src="auto" recommended="1" selected="1">Db-------------</tag>
 </m>
 <m id="m791-d1t229-41">
 <w.rf>

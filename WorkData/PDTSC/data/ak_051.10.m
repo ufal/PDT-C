@@ -3060,7 +3060,10 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>chodili</form>
-<tag lemma="chodit" src="auto" recommended="1">VpMP---XR-AAI--</tag>
+<tag>
+<AM lemma="chodit" src="auto" recommended="1">VpMP---XR-AAI--</AM>
+<AM lemma="chodit" src="manual" selected="1">VpMP----R-AAI--</AM>
+</tag>
 </m>
 <m id="m051-d1t3753-6">
 <w.rf>
@@ -3676,7 +3679,10 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>zbavovaly</form>
-<tag lemma="zbavovat" src="auto" recommended="1">VpTP---XR-AAI--</tag>
+<tag>
+<AM lemma="zbavovat" src="auto" recommended="1">VpTP---XR-AAI--</AM>
+<AM lemma="zbavovat" src="manual" selected="1">VpTP----R-AAI--</AM>
+</tag>
 </m>
 <m id="m051-d1t3785-4">
 <w.rf>

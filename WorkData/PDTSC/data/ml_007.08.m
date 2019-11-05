@@ -2641,7 +2641,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>prodavačkou</form>
-<tag lemma="prodavačka_^(*2)" src="auto" recommended="1">NNFS7-----A----</tag>
+<tag lemma="prodavačka_^(*2)" src="auto" recommended="1" selected="1">NNFS7-----A----</tag>
 </m>
 <m id="m007-d1t2579-6">
 <w.rf>
@@ -3016,7 +3016,7 @@
 <form_change>spell</form_change>
 <form>ještě</form>
 <tag>
-<AM lemma="ještě-2">TT-------------</AM>
+<AM lemma="ještě-2" selected="1">TT-------------</AM>
 <AM lemma="ještě-1" src="auto" recommended="1">Db-------------</AM>
 </tag>
 </m>
@@ -3220,7 +3220,7 @@
 <AM lemma="vyučený_^(*3it)">AANS1----1A---6</AM>
 <AM lemma="vyučený_^(*3it)">AANS4----1A---6</AM>
 <AM lemma="vyučený_^(*3it)">AANS5----1A---6</AM>
-<AM lemma="vyučený_^(*3it)" src="auto" recommended="1">AAMS1----1A----</AM>
+<AM lemma="vyučený_^(*3it)" src="auto" recommended="1" selected="1">AAMS1----1A----</AM>
 </tag>
 </m>
 <m id="m007-d-id150777">

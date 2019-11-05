@@ -1739,7 +1739,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>jsem</form>
-<tag lemma="být" src="auto" recommended="1">VB-S---1P-AAI--</tag>
+<tag lemma="být" src="auto" recommended="1" selected="1">VB-S---1P-AAI--</tag>
 </m>
 <m id="m045-d1t149-6">
 <w.rf>

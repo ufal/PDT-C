@@ -764,7 +764,7 @@
 <form_change>spell</form_change>
 <form>Obzvláště</form>
 <tag>
-<AM lemma="obzvláště-2">TT-------------</AM>
+<AM lemma="obzvláště-2" selected="1">TT-------------</AM>
 <AM lemma="obzvláště-1" src="auto" recommended="1">Db-------------</AM>
 </tag>
 </m>

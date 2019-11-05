@@ -716,7 +716,7 @@
 <AM lemma="tatranský" src="auto">AAFS3----1A----</AM>
 <AM lemma="tatranský" src="auto">AAFS6----1A----</AM>
 <AM lemma="tatranský" src="auto" recommended="1">AAIP1----1A----</AM>
-<AM lemma="tatranský" src="auto">AAIP4----1A----</AM>
+<AM lemma="tatranský" src="auto" selected="1">AAIP4----1A----</AM>
 <AM lemma="tatranský" src="auto">AAIP5----1A----</AM>
 <AM lemma="tatranský" src="auto">AAMP4----1A----</AM>
 <AM lemma="tatranský" src="auto">AANS1----1A----</AM>
@@ -735,6 +735,7 @@
 <AM lemma="Zruby_;G_,t">NNIP5-----A----</AM>
 <AM lemma="Zruby_;G_,t">NNIP7-----A----</AM>
 <AM lemma="Zruby_;G_,t" src="auto" recommended="1">NNIP1-----A----</AM>
+<AM lemma="Zruby_;G" src="manual" selected="1">NNIP4-----A----</AM>
 </tag>
 </m>
 <m id="m119-d-id93808-punct">

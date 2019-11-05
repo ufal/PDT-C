@@ -6718,13 +6718,13 @@
 <AM lemma="vedoucí-3" src="auto">NNFP1-----A----</AM>
 <AM lemma="vedoucí-3" src="auto">NNFP4-----A----</AM>
 <AM lemma="vedoucí-3" src="auto">NNFP5-----A----</AM>
-<AM lemma="vedoucí-3" src="auto" selected="1">NNFS1-----A----</AM>
+<AM lemma="vedoucí-3" src="auto">NNFS1-----A----</AM>
 <AM lemma="vedoucí-3" src="auto" recommended="1">NNFS2-----A----</AM>
 <AM lemma="vedoucí-3" src="auto">NNFS3-----A----</AM>
 <AM lemma="vedoucí-3" src="auto">NNFS4-----A----</AM>
 <AM lemma="vedoucí-3" src="auto">NNFS5-----A----</AM>
 <AM lemma="vedoucí-3" src="auto">NNFS6-----A----</AM>
-<AM lemma="vedoucí-3" src="auto">NNFS7-----A----</AM>
+<AM lemma="vedoucí-3" src="auto" selected="1">NNFS7-----A----</AM>
 </tag>
 </m>
 <m id="m713-id59078-6">
@@ -6735,7 +6735,7 @@
 <form>braunschweigského</form>
 <tag>
 <AM lemma="braunschweigského">X@-------------</AM>
-<AM lemma="braunschweigský" src="auto" recommended="1">AAIS2----1A----</AM>
+<AM lemma="braunschweigský" src="auto" recommended="1" selected="1">AAIS2----1A----</AM>
 </tag>
 </m>
 <m id="m713-id59078-7">

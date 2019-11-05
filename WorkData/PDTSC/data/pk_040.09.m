@@ -2241,7 +2241,7 @@
 <form_change>spell</form_change>
 <form>tapecírunk</form>
 <tag>
-<AM lemma="tapecírunk">NNIS4-----A----</AM>
+<AM lemma="tapecírunk" selected="1">NNIS4-----A----</AM>
 <AM lemma="tapecírunk" src="auto" recommended="1">NNIS1-----A----</AM>
 </tag>
 </m>

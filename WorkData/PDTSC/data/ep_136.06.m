@@ -1639,7 +1639,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>Když</form>
-<tag lemma="když" src="auto" recommended="1">J,-------------</tag>
+<tag lemma="když" src="auto" recommended="1" selected="1">J,-------------</tag>
 </m>
 <m id="m136-d1t2772-3">
 <w.rf>
@@ -6525,7 +6525,10 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>nepotřeboval</form>
-<tag lemma="potřebovat" src="auto" recommended="1">VpYS---XR-NAI--</tag>
+<tag>
+<AM lemma="potřebovat" src="auto" recommended="1">VpYS---XR-NAI--</AM>
+<AM lemma="potřebovat" src="manual" selected="1">VpYS----R-NAI--</AM>
+</tag>
 </m>
 <m id="m136-d1t3091-7">
 <w.rf>

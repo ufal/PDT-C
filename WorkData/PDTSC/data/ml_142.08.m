@@ -3850,7 +3850,7 @@
 <AM lemma="obyvatel">NNMS3-----A----</AM>
 <AM lemma="obyvatel">NNMS5-----A----</AM>
 <AM lemma="obyvatel">NNMS6-----A----</AM>
-<AM lemma="obyvatel" src="auto" recommended="1">NNMP7-----A----</AM>
+<AM lemma="obyvatel" src="auto" recommended="1" selected="1">NNMP7-----A----</AM>
 </tag>
 </m>
 <m id="m142-d1t1080-48">
@@ -3952,7 +3952,7 @@
 <AM lemma="rozhádaný_^(*2t)">AANP5----1A---6</AM>
 <AM lemma="rozhádaný_^(*2t)">AANS4----1A----</AM>
 <AM lemma="rozhádaný_^(*2t)">AANS5----1A----</AM>
-<AM lemma="rozhádaný_^(*2t)" src="auto" recommended="1">AANS1----1A----</AM>
+<AM lemma="rozhádaný_^(*2t)" src="auto" recommended="1" selected="1">AANS1----1A----</AM>
 </tag>
 </m>
 <m id="m142-668-669">
@@ -4573,7 +4573,7 @@
 <AM lemma="dětství">NNNS4-----A----</AM>
 <AM lemma="dětství">NNNS5-----A----</AM>
 <AM lemma="dětství">NNNS6-----A----</AM>
-<AM lemma="dětství" src="auto" recommended="1">NNNS2-----A----</AM>
+<AM lemma="dětství" src="auto" recommended="1" selected="1">NNNS2-----A----</AM>
 </tag>
 </m>
 <m id="m142-d-id142385-punct">

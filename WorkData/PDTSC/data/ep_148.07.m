@@ -3093,7 +3093,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>35000</form>
-<tag lemma="35000" src="auto" recommended="1">C=-------------</tag>
+<tag lemma="35000" src="auto" recommended="1" selected="1">C=-------------</tag>
 </m>
 <m id="m148-d-m-d1e3287-x2-punct-punct">
 <w.rf>
@@ -3182,7 +3182,7 @@
 <tag>
 <AM lemma="čtyři`4">ClXP1----------</AM>
 <AM lemma="čtyři`4">ClXP5----------</AM>
-<AM lemma="čtyři`4" src="auto" recommended="1">ClXP4----------</AM>
+<AM lemma="čtyři`4" src="auto" recommended="1" selected="1">ClXP4----------</AM>
 </tag>
 </m>
 <m id="m148-d1t3304-3">
@@ -5444,7 +5444,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>Potštejna</form>
-<tag lemma="Potštejn_;G" src="auto" recommended="1">NNIS2-----A----</tag>
+<tag lemma="Potštejn_;G" src="auto" recommended="1" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m148-d-id147234-punct">
 <w.rf>
@@ -5831,7 +5831,7 @@
 <AM lemma="čtyřicet`40">Cn-P3----------</AM>
 <AM lemma="čtyřicet`40">Cn-P6----------</AM>
 <AM lemma="čtyřicet`40">Cn-P7----------</AM>
-<AM lemma="čtyřicet`40" src="auto" recommended="1">Cn-P2----------</AM>
+<AM lemma="čtyřicet`40" src="auto" recommended="1" selected="1">Cn-P2----------</AM>
 </tag>
 </m>
 <m id="m148-d1t3475-3">
@@ -6242,7 +6242,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>110000</form>
-<tag lemma="110000" src="auto" recommended="1">C=-------------</tag>
+<tag lemma="110000" src="auto" recommended="1" selected="1">C=-------------</tag>
 </m>
 <m id="m148-d-m-d1e3418-x4-punct-punct">
 <w.rf>

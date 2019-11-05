@@ -1292,7 +1292,7 @@
 <AM lemma="tuniský">AAMP4----1A----</AM>
 <AM lemma="tuniský">AANS4----1A----</AM>
 <AM lemma="tuniský">AANS5----1A----</AM>
-<AM lemma="tuniský" src="auto" recommended="1">AANS1----1A----</AM>
+<AM lemma="tuniský" src="auto" recommended="1" selected="1">AANS1----1A----</AM>
 </tag>
 </m>
 <m id="m006-d1t2448-1">
@@ -2449,7 +2449,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>2000</form>
-<tag lemma="2000" src="auto" recommended="1">C=-------------</tag>
+<tag lemma="2000" src="auto" recommended="1" selected="1">C=-------------</tag>
 </m>
 <m id="m006-d1t2571-18">
 <w.rf>
@@ -2973,7 +2973,7 @@
 <form>zákazníci</form>
 <tag>
 <AM lemma="zákazník">NNMP5-----A----</AM>
-<AM lemma="zákazník" src="auto" recommended="1">NNMP1-----A----</AM>
+<AM lemma="zákazník" src="auto" recommended="1" selected="1">NNMP1-----A----</AM>
 </tag>
 </m>
 <m id="m006-d-id133918">
@@ -3468,7 +3468,7 @@
 <form>řemeslníci</form>
 <tag>
 <AM lemma="řemeslník">NNMP5-----A----</AM>
-<AM lemma="řemeslník" src="auto" recommended="1">NNMP1-----A----</AM>
+<AM lemma="řemeslník" src="auto" recommended="1" selected="1">NNMP1-----A----</AM>
 </tag>
 </m>
 <m id="m006-4825-4834">

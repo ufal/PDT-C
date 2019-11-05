@@ -1692,7 +1692,7 @@
 <AM lemma="zajímavý">AAIS2----1A----</AM>
 <AM lemma="zajímavý">AAMS2----1A----</AM>
 <AM lemma="zajímavý">AAMS4----1A----</AM>
-<AM lemma="zajímavý" src="auto" recommended="1">AANS2----1A----</AM>
+<AM lemma="zajímavý" src="auto" recommended="1" selected="1">AANS2----1A----</AM>
 </tag>
 </m>
 <m id="m021-d-m-d1e2449-x2-punct-punct">

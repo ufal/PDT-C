@@ -468,7 +468,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>Luisa</form>
-<tag lemma="Luisa_;Y" src="auto" recommended="1">NNFS1-----A----</tag>
+<tag lemma="Luisa_;Y" src="auto" recommended="1" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m147-817-830">
 <w.rf>

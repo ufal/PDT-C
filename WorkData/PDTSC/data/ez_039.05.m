@@ -5379,7 +5379,7 @@
 <AM lemma="spolužačka">NNFP4-----A----</AM>
 <AM lemma="spolužačka">NNFP5-----A----</AM>
 <AM lemma="spolužačka">NNFS2-----A----</AM>
-<AM lemma="spolužačka" src="auto" recommended="1">NNFP1-----A----</AM>
+<AM lemma="spolužačka" src="auto" recommended="1" selected="1">NNFP1-----A----</AM>
 </tag>
 </m>
 <m id="m039-d-m-d1e2344-x2-punct-punct">

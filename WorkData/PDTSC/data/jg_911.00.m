@@ -2917,7 +2917,7 @@
 <form>Pesach</form>
 <tag>
 <AM lemma="pesach">NNIS1-----A----</AM>
-<AM lemma="pesach" src="auto" recommended="1">NNIS4-----A----</AM>
+<AM lemma="pesach" src="auto" recommended="1" selected="1">NNIS4-----A----</AM>
 </tag>
 </m>
 <m id="m911-d-id60504">

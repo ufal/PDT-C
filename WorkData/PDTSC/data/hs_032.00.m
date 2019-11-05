@@ -1054,7 +1054,7 @@
 <AM lemma="Zábělá_;G">NNFP5-----A---6</AM>
 <AM lemma="Zábělá_;G">NNFS3-----A---6</AM>
 <AM lemma="Zábělá_;G">NNFS6-----A---6</AM>
-<AM lemma="Zábělá_;G" src="auto" recommended="1">NNFS2-----A---6</AM>
+<AM lemma="Zábělá_;G" src="auto" recommended="1" selected="1">NNFS2-----A---6</AM>
 </tag>
 </m>
 <m id="m032-d1e81-x2-74">
@@ -2112,7 +2112,7 @@
 <AM lemma="Zábělá_;G">NNFP5-----A---6</AM>
 <AM lemma="Zábělá_;G">NNFS3-----A---6</AM>
 <AM lemma="Zábělá_;G">NNFS6-----A---6</AM>
-<AM lemma="Zábělá_;G" src="auto" recommended="1">NNFS2-----A---6</AM>
+<AM lemma="Zábělá_;G" src="auto" recommended="1" selected="1">NNFS2-----A---6</AM>
 </tag>
 </m>
 <m id="m032-d1e185-x2-232">
@@ -2838,7 +2838,7 @@
 <AM lemma="Zábělá_;G">NNFP5-----A----</AM>
 <AM lemma="Zábělá_;G">NNFS2-----A----</AM>
 <AM lemma="Zábělá_;G">NNFS3-----A----</AM>
-<AM lemma="Zábělá_;G" src="auto" recommended="1">NNFS6-----A----</AM>
+<AM lemma="Zábělá_;G" src="auto" recommended="1" selected="1">NNFS6-----A----</AM>
 </tag>
 </m>
 <m id="m032-d1t239-17">
@@ -3579,7 +3579,7 @@
 <AM lemma="Zábělá_;G">NNFP5-----A----</AM>
 <AM lemma="Zábělá_;G">NNFS2-----A----</AM>
 <AM lemma="Zábělá_;G">NNFS3-----A----</AM>
-<AM lemma="Zábělá_;G" src="auto" recommended="1">NNFS6-----A----</AM>
+<AM lemma="Zábělá_;G" src="auto" recommended="1" selected="1">NNFS6-----A----</AM>
 </tag>
 </m>
 <m id="m032-d1t297-2">

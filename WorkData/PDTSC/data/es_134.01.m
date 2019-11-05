@@ -3337,7 +3337,7 @@
 <AM lemma="rozškatulkovaný_^(*2t)">AAIP1----1A----</AM>
 <AM lemma="rozškatulkovaný_^(*2t)">AAIP4----1A----</AM>
 <AM lemma="rozškatulkovaný_^(*2t)">AAIP5----1A----</AM>
-<AM lemma="rozškatulkovaný_^(*2t)">AAMP4----1A----</AM>
+<AM lemma="rozškatulkovaný_^(*2t)" selected="1">AAMP4----1A----</AM>
 <AM lemma="rozškatulkovaný_^(*2t)">AANP1----1A---6</AM>
 <AM lemma="rozškatulkovaný_^(*2t)">AANP4----1A---6</AM>
 <AM lemma="rozškatulkovaný_^(*2t)">AANP5----1A---6</AM>
@@ -3467,7 +3467,10 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>rozuměla</form>
-<tag lemma="rozumět" src="auto" recommended="1">VpQW---XR-AAI--</tag>
+<tag>
+<AM lemma="rozumět" src="auto" recommended="1">VpQW---XR-AAI--</AM>
+<AM lemma="rozumět" src="manual" selected="1">VpQW----R-AAI--</AM>
+</tag>
 </m>
 <m id="m134-d-id72609-punct">
 <w.rf>
@@ -3842,7 +3845,7 @@
 <AM lemma="mládí">NNNS4-----A----</AM>
 <AM lemma="mládí">NNNS5-----A----</AM>
 <AM lemma="mládí">NNNS6-----A----</AM>
-<AM lemma="mládí" src="auto" recommended="1">NNNS2-----A----</AM>
+<AM lemma="mládí" src="auto" recommended="1" selected="1">NNNS2-----A----</AM>
 </tag>
 </m>
 <m id="m134-d1t205-18">
@@ -5922,7 +5925,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>přečtete</form>
-<tag lemma="přečíst" src="auto" recommended="1">VB-P---2P-AAP--</tag>
+<tag lemma="přečíst" src="auto" recommended="1" selected="1">VB-P---2P-AAP--</tag>
 </m>
 <m id="m134-d1t253-4">
 <w.rf>

@@ -3757,7 +3757,7 @@
 <AM lemma="Chrastava_;G">NNFP1-----A----</AM>
 <AM lemma="Chrastava_;G">NNFP4-----A----</AM>
 <AM lemma="Chrastava_;G">NNFP5-----A----</AM>
-<AM lemma="Chrastava_;G" src="auto" recommended="1">NNFS2-----A----</AM>
+<AM lemma="Chrastava_;G" src="auto" recommended="1" selected="1">NNFS2-----A----</AM>
 </tag>
 </m>
 <m id="m138-d1t3177-7">
@@ -3906,7 +3906,7 @@
 <AM lemma="Chrastava_;G">NNFP1-----A----</AM>
 <AM lemma="Chrastava_;G">NNFP4-----A----</AM>
 <AM lemma="Chrastava_;G">NNFP5-----A----</AM>
-<AM lemma="Chrastava_;G" src="auto" recommended="1">NNFS2-----A----</AM>
+<AM lemma="Chrastava_;G" src="auto" recommended="1" selected="1">NNFS2-----A----</AM>
 </tag>
 </m>
 <m id="m138-d1t3184-14">

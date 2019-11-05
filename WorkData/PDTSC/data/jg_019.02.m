@@ -1589,7 +1589,7 @@
 <AM lemma="písek">NNIS3-----A----</AM>
 <AM lemma="písek">NNIS5-----A----</AM>
 <AM lemma="písek">NNIS6-----A----</AM>
-<AM lemma="Písek-2_;G" src="auto" recommended="1">NNIS6-----A----</AM>
+<AM lemma="Písek-2_;G" src="auto" recommended="1" selected="1">NNIS6-----A----</AM>
 </tag>
 </m>
 <m id="m019-60-94">

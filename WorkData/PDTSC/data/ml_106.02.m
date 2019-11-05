@@ -1413,7 +1413,7 @@
 <AM lemma="F-33_^(označení_pomocí_písmene)">NNNXX-----A----</AM>
 <AM lemma="f-33_^(označení_pomocí_písmene)">NNNXX-----A----</AM>
 <AM lemma="f-88_:B">NNXXX-----A----</AM>
-<AM lemma="F-88_:B" src="auto" recommended="1">NNXXX-----A----</AM>
+<AM lemma="F-88_:B" src="auto" recommended="1" selected="1">NNXXX-----A----</AM>
 </tag>
 <comment>
 <LM type="Other">
@@ -2982,7 +2982,7 @@
 <AM lemma="do-2_^(tae-kwon-do)">NNNXX-----A----</AM>
 <AM lemma="do-7_^(předpona,_sam.)">A2--------A----</AM>
 <AM lemma="do-99_:B_;S">NNXXX-----A----</AM>
-<AM lemma="do-1" src="auto" recommended="1">RR--2----------</AM>
+<AM lemma="do-1" src="auto" recommended="1" selected="1">RR--2----------</AM>
 </tag>
 </m>
 <m id="m106-d1t561-2">

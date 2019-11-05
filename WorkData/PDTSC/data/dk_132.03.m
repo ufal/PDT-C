@@ -2153,7 +2153,7 @@
 <tag>
 <AM lemma="COBOL_;R">NNIS2-----A----</AM>
 <AM lemma="COBOL_;R">NNIS3-----A----</AM>
-<AM lemma="COBOL_;R" src="auto" recommended="1">NNIS6-----A----</AM>
+<AM lemma="COBOL_;R" src="auto" recommended="1" selected="1">NNIS6-----A----</AM>
 </tag>
 </m>
 <m id="m132-d1e926-x3-70">
@@ -4601,7 +4601,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>zplanýrovat</form>
-<tag lemma="zplanýrovat" src="auto" recommended="1">Vf--------A-P--</tag>
+<tag lemma="zplanýrovat" src="auto" recommended="1" selected="1">Vf--------A-P--</tag>
 </m>
 <m id="m132-11-38">
 <w.rf>

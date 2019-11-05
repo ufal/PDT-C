@@ -1859,7 +1859,7 @@
 <AM lemma="elektrický">AAMS7----1A----</AM>
 <AM lemma="elektrický">AANP3----1A----</AM>
 <AM lemma="elektrický">AANS6----1A---7</AM>
-<AM lemma="elektrický" src="auto" recommended="1">AANS7----1A----</AM>
+<AM lemma="elektrický" src="auto" recommended="1" selected="1">AANS7----1A----</AM>
 </tag>
 </m>
 <m id="m711-d1t1040-9">

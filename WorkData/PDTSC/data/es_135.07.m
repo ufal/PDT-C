@@ -3399,7 +3399,7 @@
 <AM lemma="francouzština">NNFP1-----A----</AM>
 <AM lemma="francouzština">NNFP4-----A----</AM>
 <AM lemma="francouzština">NNFP5-----A----</AM>
-<AM lemma="francouzština" src="auto" recommended="1">NNFS2-----A----</AM>
+<AM lemma="francouzština" src="auto" recommended="1" selected="1">NNFS2-----A----</AM>
 </tag>
 </m>
 <m id="m135-d-id140649-punct">
@@ -3589,7 +3589,7 @@
 </w.rf>
 <form>na</form>
 <tag>
-<AM lemma="na-1" src="auto">RR--4----------</AM>
+<AM lemma="na-1" src="auto" selected="1">RR--4----------</AM>
 <AM lemma="na-1" src="auto" recommended="1">RR--6----------</AM>
 <AM lemma="na-2" src="auto">II-------------</AM>
 </tag>
@@ -3600,7 +3600,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>francouzštinu</form>
-<tag lemma="francouzština" src="auto" recommended="1">NNFS4-----A----</tag>
+<tag lemma="francouzština" src="auto" recommended="1" selected="1">NNFS4-----A----</tag>
 </m>
 <m id="m135-d1t1341-9">
 <w.rf>

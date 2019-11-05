@@ -2838,7 +2838,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>31000</form>
-<tag lemma="31000" src="auto" recommended="1">C=-------------</tag>
+<tag lemma="31000" src="auto" recommended="1" selected="1">C=-------------</tag>
 </m>
 <m id="m053-d-m-d1e169-x2-punct-punct">
 <w.rf>
@@ -3418,7 +3418,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>espézetku</form>
-<tag lemma="espézetka_,h" src="auto" recommended="1">NNFS4-----A----</tag>
+<tag lemma="espézetka_,h" src="auto" recommended="1" selected="1">NNFS4-----A----</tag>
 </m>
 <m id="m053-106-93">
 <w.rf>

@@ -1649,7 +1649,7 @@
 <tag>
 <AM lemma="Houra_;S">NNMP4-----A----</AM>
 <AM lemma="Houra_;S">NNMP7-----A----</AM>
-<AM lemma="Houra_;S" src="auto" recommended="1">NNMS2-----A----</AM>
+<AM lemma="Houra_;S" src="auto" recommended="1" selected="1">NNMS2-----A----</AM>
 </tag>
 </m>
 <m id="m112-d-id163866-punct">

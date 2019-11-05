@@ -2320,7 +2320,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>číšník</form>
-<tag lemma="číšník" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag lemma="číšník" src="auto" recommended="1" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m916-d1e784-x3-2550">
 <w.rf>

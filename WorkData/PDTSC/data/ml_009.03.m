@@ -2196,7 +2196,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>Strašic</form>
-<tag lemma="Strašice_;G" src="auto" recommended="1">NNFP2-----A----</tag>
+<tag lemma="Strašice_;G" src="auto" recommended="1" selected="1">NNFP2-----A----</tag>
 </m>
 <m id="m009-d1t956-9">
 <w.rf>

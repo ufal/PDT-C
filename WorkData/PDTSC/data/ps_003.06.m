@@ -4334,7 +4334,7 @@
 <AM lemma="procedura">NNFP4-----A----</AM>
 <AM lemma="procedura">NNFP5-----A----</AM>
 <AM lemma="procedura">NNFS2-----A----</AM>
-<AM lemma="procedura" src="auto" recommended="1">NNFP1-----A----</AM>
+<AM lemma="procedura" src="auto" recommended="1" selected="1">NNFP1-----A----</AM>
 </tag>
 </m>
 <m id="m003-d-id124717-punct">
@@ -4405,7 +4405,7 @@
 <AM lemma="procedura">NNFP1-----A----</AM>
 <AM lemma="procedura">NNFP5-----A----</AM>
 <AM lemma="procedura">NNFS2-----A----</AM>
-<AM lemma="procedura" src="auto" recommended="1">NNFP4-----A----</AM>
+<AM lemma="procedura" src="auto" recommended="1" selected="1">NNFP4-----A----</AM>
 </tag>
 </m>
 <m id="m003-d-id124850-punct">

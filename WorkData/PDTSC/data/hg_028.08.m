@@ -201,7 +201,7 @@
 <form>pracovníci</form>
 <tag>
 <AM lemma="pracovník">NNMP5-----A----</AM>
-<AM lemma="pracovník" src="auto" recommended="1">NNMP1-----A----</AM>
+<AM lemma="pracovník" src="auto" recommended="1" selected="1">NNMP1-----A----</AM>
 </tag>
 </m>
 <m id="m028-d1t2541-6">

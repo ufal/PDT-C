@@ -3010,6 +3010,7 @@
 <tag>
 <AM lemma="Vajsovna">NNFS3-----A----</AM>
 <AM lemma="Vajsovna" src="auto" recommended="1">NNFS6-----A----</AM>
+<AM lemma="Vajsovna_;G" src="manual" selected="1">NNFS6-----A----</AM>
 </tag>
 </m>
 <m id="m018-d1t859-2">

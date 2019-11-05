@@ -693,7 +693,7 @@
 <form>silvestra</form>
 <tag>
 <AM lemma="silvestr">NNIS2-----A---1</AM>
-<AM lemma="silvestr" src="auto" recommended="1">NNIS4-----A---1</AM>
+<AM lemma="silvestr" src="auto" recommended="1" selected="1">NNIS4-----A---1</AM>
 </tag>
 </m>
 <m id="m112-d-id79950-punct">

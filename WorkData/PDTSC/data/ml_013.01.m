@@ -4859,7 +4859,7 @@
 <AM lemma="mladý">AAIS2----3A----</AM>
 <AM lemma="mladý">AAMS4----3A----</AM>
 <AM lemma="mladý">AANS2----3A----</AM>
-<AM lemma="mladý" src="auto" recommended="1">AAMS2----3A----</AM>
+<AM lemma="mladý" src="auto" recommended="1" selected="1">AAMS2----3A----</AM>
 </tag>
 </m>
 <m id="m013-d1t763-3">

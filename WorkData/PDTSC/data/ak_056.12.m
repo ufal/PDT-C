@@ -2215,7 +2215,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>100000</form>
-<tag lemma="100000" src="auto" recommended="1">C=-------------</tag>
+<tag lemma="100000" src="auto" recommended="1" selected="1">C=-------------</tag>
 </m>
 <m id="m056-d1e3403-x3-552">
 <w.rf>
@@ -2639,7 +2639,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>100000</form>
-<tag lemma="100000" src="auto" recommended="1">C=-------------</tag>
+<tag lemma="100000" src="auto" recommended="1" selected="1">C=-------------</tag>
 </m>
 <m id="m056-d-m-d1e3453-x2-punct-punct">
 <w.rf>

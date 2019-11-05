@@ -5437,7 +5437,7 @@
 <form>hlavě</form>
 <tag>
 <AM lemma="hlava">NNFS3-----A----</AM>
-<AM lemma="hlava" src="auto" recommended="1">NNFS6-----A----</AM>
+<AM lemma="hlava" src="auto" recommended="1" selected="1">NNFS6-----A----</AM>
 </tag>
 </m>
 <m id="m020-d1t1383-7">

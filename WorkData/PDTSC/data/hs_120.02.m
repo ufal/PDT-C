@@ -3557,7 +3557,7 @@
 <AM lemma="učiliště">NNNS2-----A----</AM>
 <AM lemma="učiliště">NNNS4-----A----</AM>
 <AM lemma="učiliště">NNNS5-----A----</AM>
-<AM lemma="učiliště" src="auto" recommended="1">NNNS1-----A----</AM>
+<AM lemma="učiliště" src="auto" recommended="1" selected="1">NNNS1-----A----</AM>
 </tag>
 </m>
 <m id="m120-d1t389-4">
@@ -3666,7 +3666,7 @@
 <AM lemma="učiliště">NNNS2-----A----</AM>
 <AM lemma="učiliště">NNNS4-----A----</AM>
 <AM lemma="učiliště">NNNS5-----A----</AM>
-<AM lemma="učiliště" src="auto" recommended="1">NNNS1-----A----</AM>
+<AM lemma="učiliště" src="auto" recommended="1" selected="1">NNNS1-----A----</AM>
 </tag>
 </m>
 <m id="m120-d1t389-10">

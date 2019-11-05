@@ -545,7 +545,10 @@
 <LM>w#w-d1t1196-9</LM>
 </w.rf>
 <form>Zabezpečily</form>
-<tag lemma="zabezpečit" src="auto" recommended="1">VpTP---XR-AAP--</tag>
+<tag>
+<AM lemma="zabezpečit" src="auto" recommended="1">VpTP---XR-AAP--</AM>
+<AM lemma="zabezpečit" src="manual" selected="1">VpTP----R-AAP--</AM>
+</tag>
 </m>
 <m id="m113-d1t1196-10">
 <w.rf>
@@ -553,7 +556,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>poměrně</form>
-<tag lemma="poměrně_^(*1ý)" src="auto" recommended="1">Dg-------1A----</tag>
+<tag lemma="poměrně_^(*1ý)" src="auto" recommended="1" selected="1">Dg-------1A----</tag>
 </m>
 <m id="m113-d1t1196-11">
 <w.rf>

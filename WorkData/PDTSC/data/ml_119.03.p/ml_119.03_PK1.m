@@ -2541,7 +2541,7 @@
 <AM lemma="zvláštní">AANS1----1A----</AM>
 <AM lemma="zvláštní">AANS4----1A----</AM>
 <AM lemma="zvláštní">AANS5----1A----</AM>
-<AM lemma="zvláštní" src="auto" recommended="1">AAMP1----1A----</AM>
+<AM lemma="zvláštní" src="auto" recommended="1" selected="1">AAMP1----1A----</AM>
 </tag>
 </m>
 <m id="m119-d1t742-6">
@@ -3851,7 +3851,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>muzeí</form>
-<tag lemma="muzeum" src="auto" recommended="1">NNNP2-----A----</tag>
+<tag lemma="muzeum" src="auto" recommended="1" selected="1">NNNP2-----A----</tag>
 </m>
 <m id="m119-d-m-d1e776-x2-punct-punct">
 <w.rf>

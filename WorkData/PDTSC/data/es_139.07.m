@@ -3430,7 +3430,7 @@
 <AM lemma="babiččin_^(*3ka)">AUNP1F---------</AM>
 <AM lemma="babiččin_^(*3ka)">AUNP4F---------</AM>
 <AM lemma="babiččin_^(*3ka)">AUNP5F---------</AM>
-<AM lemma="babiččin_^(*3ka)" src="auto" recommended="1">AUNS2F---------</AM>
+<AM lemma="babiččin_^(*3ka)" src="auto" recommended="1" selected="1">AUNS2F---------</AM>
 </tag>
 </m>
 <m id="m139-d1t3145-5">

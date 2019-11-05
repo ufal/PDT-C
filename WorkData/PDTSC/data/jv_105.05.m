@@ -1677,7 +1677,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>sestrou</form>
-<tag lemma="sestra" src="auto" recommended="1">NNFS7-----A----</tag>
+<tag lemma="sestra" src="auto" recommended="1" selected="1">NNFS7-----A----</tag>
 </m>
 <m id="m105-d-id100270-punct">
 <w.rf>

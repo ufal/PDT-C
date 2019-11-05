@@ -1375,7 +1375,7 @@
 <AM lemma="výjimečný">AANP1----1A----</AM>
 <AM lemma="výjimečný">AANP4----1A----</AM>
 <AM lemma="výjimečný">AANP5----1A----</AM>
-<AM lemma="výjimečný" src="auto" recommended="1">AAFS1----1A----</AM>
+<AM lemma="výjimečný" src="auto" recommended="1" selected="1">AAFS1----1A----</AM>
 </tag>
 </m>
 <m id="m121-d1e46-x3-19">

@@ -3454,7 +3454,7 @@
 <tag>
 <AM lemma="brambora">NNFP2-----A----</AM>
 <AM lemma="brambor">NNIS1-----A----</AM>
-<AM lemma="brambor" src="auto" recommended="1">NNIS4-----A----</AM>
+<AM lemma="brambor" src="auto" recommended="1" selected="1">NNIS4-----A----</AM>
 </tag>
 </m>
 <m id="m014-d-id168847-punct">

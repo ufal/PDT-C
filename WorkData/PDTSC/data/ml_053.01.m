@@ -1521,7 +1521,7 @@
 <tag>
 <AM lemma="čtvrtek">NNIS1-----A----</AM>
 <AM lemma="čtvrtka">NNFP2-----A----</AM>
-<AM lemma="čtvrtek" src="auto" recommended="1">NNIS4-----A----</AM>
+<AM lemma="čtvrtek" src="auto" recommended="1" selected="1">NNIS4-----A----</AM>
 </tag>
 </m>
 <m id="m053-d1t387-6">

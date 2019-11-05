@@ -521,7 +521,7 @@
 <AM lemma="nádherný">AAMP6----1A----</AM>
 <AM lemma="nádherný">AANP2----1A----</AM>
 <AM lemma="nádherný">AANP6----1A----</AM>
-<AM lemma="nádherný" src="auto" recommended="1">AAFP2----1A----</AM>
+<AM lemma="nádherný" src="auto" recommended="1" selected="1">AAFP2----1A----</AM>
 </tag>
 </m>
 <m id="m125-d1t1394-9">

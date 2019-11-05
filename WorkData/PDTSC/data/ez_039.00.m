@@ -1403,7 +1403,7 @@
 <form>Tůmová</form>
 <tag>
 <AM lemma="Tůmová_;S">NNFS5-----A----</AM>
-<AM lemma="Tůmová_;S" src="auto" recommended="1">NNFS1-----A----</AM>
+<AM lemma="Tůmová_;S" src="auto" recommended="1" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m039-d-id57812-punct">

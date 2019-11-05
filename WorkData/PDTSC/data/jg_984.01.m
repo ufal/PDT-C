@@ -395,7 +395,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>Clementis</form>
-<tag lemma="Clementis_;S" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag lemma="Clementis_;S" src="auto" recommended="1" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m984-d1t378-18">
 <w.rf>

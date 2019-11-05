@@ -3928,7 +3928,7 @@
 <AM lemma="socialistický">AANS1----1A----</AM>
 <AM lemma="socialistický">AANS4----1A----</AM>
 <AM lemma="socialistický">AANS5----1A----</AM>
-<AM lemma="socialistický" src="auto" recommended="1">AAFS2----1A----</AM>
+<AM lemma="socialistický" src="auto" recommended="1" selected="1">AAFS2----1A----</AM>
 </tag>
 </m>
 <m id="m103-d1t781-17">

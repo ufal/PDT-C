@@ -2467,7 +2467,7 @@
 <AM lemma="mariánský">AAMP6----1A----</AM>
 <AM lemma="mariánský">AANP2----1A----</AM>
 <AM lemma="mariánský">AANP6----1A----</AM>
-<AM lemma="mariánský" src="auto" recommended="1">AAFP6----1A----</AM>
+<AM lemma="mariánský" src="auto" recommended="1" selected="1">AAFP6----1A----</AM>
 </tag>
 </m>
 <m id="m038-122-1348">
@@ -2955,6 +2955,7 @@
 <tag>
 <AM lemma="leckdes">X@-------------</AM>
 <AM lemma="leckdes" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="leckdes" src="manual" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m038-d-id143501-punct">

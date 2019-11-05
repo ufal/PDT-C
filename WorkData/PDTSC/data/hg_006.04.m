@@ -3484,7 +3484,7 @@
 <form>úředníci</form>
 <tag>
 <AM lemma="úředník">NNMP5-----A----</AM>
-<AM lemma="úředník" src="auto" recommended="1">NNMP1-----A----</AM>
+<AM lemma="úředník" src="auto" recommended="1" selected="1">NNMP1-----A----</AM>
 </tag>
 </m>
 <m id="m006-d1t1638-1">

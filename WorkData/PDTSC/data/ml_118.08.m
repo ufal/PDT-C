@@ -624,7 +624,7 @@
 <AM lemma="oddělení_^(*3it)">NNNS3-----A----</AM>
 <AM lemma="oddělení_^(*3it)">NNNS4-----A----</AM>
 <AM lemma="oddělení_^(*3it)">NNNS5-----A----</AM>
-<AM lemma="oddělení_^(*3it)" src="auto" recommended="1">NNNS6-----A----</AM>
+<AM lemma="oddělení_^(*3it)" src="auto" recommended="1" selected="1">NNNS6-----A----</AM>
 </tag>
 </m>
 <m id="m118-d1t1467-9">

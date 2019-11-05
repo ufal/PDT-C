@@ -2205,7 +2205,10 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>Měli</form>
-<tag lemma="mít" src="auto" recommended="1">VpMP---XR-AAI--</tag>
+<tag>
+<AM lemma="mít" src="auto" recommended="1">VpMP---XR-AAI--</AM>
+<AM lemma="mít" src="manual" selected="1">VpMP----R-AAI--</AM>
+</tag>
 </m>
 <m id="m141-152-48">
 <w.rf>
@@ -5643,7 +5646,10 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>odnesly</form>
-<tag lemma="odnést" src="auto" recommended="1">VpTP---XR-AAP--</tag>
+<tag>
+<AM lemma="odnést" src="auto" recommended="1">VpTP---XR-AAP--</AM>
+<AM lemma="odnést" src="manual" selected="1">VpTP----R-AAP--</AM>
+</tag>
 </m>
 <m id="m141-d1e330-x3-59">
 <w.rf>

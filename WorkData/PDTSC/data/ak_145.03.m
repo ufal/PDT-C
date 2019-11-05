@@ -2650,7 +2650,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>cvičeních</form>
-<tag lemma="cvičení_^(*3it)" src="auto" recommended="1">NNNP6-----A----</tag>
+<tag lemma="cvičení_^(*3it)" src="auto" recommended="1" selected="1">NNNP6-----A----</tag>
 </m>
 <m id="m145-d1t698-9">
 <w.rf>

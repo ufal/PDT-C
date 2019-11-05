@@ -3459,7 +3459,10 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>považováni</form>
-<tag lemma="považovat" src="auto" recommended="1">VsMP---XX-API--</tag>
+<tag>
+<AM lemma="považovat" src="auto" recommended="1">VsMP---XX-API--</AM>
+<AM lemma="považovat" src="manual" selected="1">VsMP----X-API--</AM>
+</tag>
 </m>
 <m id="m118-d-id61178-punct">
 <w.rf>

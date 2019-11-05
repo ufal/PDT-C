@@ -3922,7 +3922,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>méně</form>
-<tag lemma="málo-3_^(málo_důsledný)" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="málo-3_^(málo_důsledný)" src="auto" recommended="1" selected="1">Dg-------2A----</tag>
 </m>
 <m id="m108-d1t1904-19">
 <w.rf>

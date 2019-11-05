@@ -2502,7 +2502,7 @@
 <LM>w#w-d1t1000-1</LM>
 </w.rf>
 <form>1200</form>
-<tag lemma="1200" src="auto" recommended="1">C=-------------</tag>
+<tag lemma="1200" src="auto" recommended="1" selected="1">C=-------------</tag>
 </m>
 <m id="m140-d-id95891-punct">
 <w.rf>
@@ -2517,7 +2517,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>1500</form>
-<tag lemma="1500" src="auto" recommended="1">C=-------------</tag>
+<tag lemma="1500" src="auto" recommended="1" selected="1">C=-------------</tag>
 </m>
 <m id="m140-d1t1000-5">
 <w.rf>

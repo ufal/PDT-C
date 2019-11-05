@@ -1341,7 +1341,7 @@
 <AM lemma="pravděpodobný">AANP5----1N---6</AM>
 <AM lemma="pravděpodobný">AANS4----1N----</AM>
 <AM lemma="pravděpodobný">AANS5----1N----</AM>
-<AM lemma="pravděpodobný" src="auto" recommended="1">AANS1----1N----</AM>
+<AM lemma="pravděpodobný" src="auto" recommended="1" selected="1">AANS1----1N----</AM>
 </tag>
 </m>
 <m id="m114-d-id80616-punct">
@@ -3471,7 +3471,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>ručně</form>
-<tag lemma="ručně_^(*1í)" src="auto" recommended="1">Dg-------1A----</tag>
+<tag lemma="ručně_^(*1í)" src="auto" recommended="1" selected="1">Dg-------1A----</tag>
 </m>
 <m id="m114-d1t667-6">
 <w.rf>

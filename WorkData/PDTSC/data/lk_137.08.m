@@ -3036,7 +3036,7 @@
 <AM lemma="společnost_:B">NNFXX-----A---8</AM>
 <AM lemma="strana">NNFXX-----A---8</AM>
 <AM lemma="státní_:B">AAXXX----1A---8</AM>
-<AM lemma="s-1" src="auto" recommended="1">RR--7----------</AM>
+<AM lemma="s-1" src="auto" recommended="1" selected="1">RR--7----------</AM>
 </tag>
 </m>
 <m id="m137-d1t2093-11">

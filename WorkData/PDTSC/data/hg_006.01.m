@@ -3312,7 +3312,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>Schelde</form>
-<tag lemma="Schelde_;G_^(řeka)" src="auto" recommended="1">NNXXX-----A----</tag>
+<tag lemma="Schelde_;G_^(řeka)" src="auto" recommended="1" selected="1">NNXXX-----A----</tag>
 </m>
 <m id="m006-d1e527-x2-465">
 <w.rf>

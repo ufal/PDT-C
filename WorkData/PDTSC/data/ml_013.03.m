@@ -3298,7 +3298,7 @@
 <AM lemma="zahraničí">NNNS3-----A----</AM>
 <AM lemma="zahraničí">NNNS4-----A----</AM>
 <AM lemma="zahraničí">NNNS5-----A----</AM>
-<AM lemma="zahraničí" src="auto" recommended="1">NNNS6-----A----</AM>
+<AM lemma="zahraničí" src="auto" recommended="1" selected="1">NNNS6-----A----</AM>
 </tag>
 </m>
 <m id="m013-d1t1381-11">
@@ -3659,7 +3659,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>Benátkách</form>
-<tag lemma="Benátky_;G" src="auto" recommended="1">NNFP6-----A----</tag>
+<tag lemma="Benátky_;G" src="auto" recommended="1" selected="1">NNFP6-----A----</tag>
 </m>
 <m id="m013-d1t1401-5">
 <w.rf>

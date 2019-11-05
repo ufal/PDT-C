@@ -2031,7 +2031,7 @@
 <AM lemma="můj_^(přivlast.)">PSIP5-S1-------</AM>
 <AM lemma="můj_^(přivlast.)">PSNS4-S1-------</AM>
 <AM lemma="můj_^(přivlast.)">PSXP4-S1-------</AM>
-<AM lemma="můj_^(přivlast.)" src="auto" recommended="1">PSHP1-S1-------</AM>
+<AM lemma="můj_^(přivlast.)" src="auto" recommended="1" selected="1">PSHP1-S1-------</AM>
 </tag>
 </m>
 <m id="m125-d1t1284-5">

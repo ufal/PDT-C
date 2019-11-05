@@ -1131,7 +1131,7 @@
 <form>na</form>
 <tag>
 <AM lemma="na-1" src="auto" recommended="1">RR--4----------</AM>
-<AM lemma="na-1" src="auto">RR--6----------</AM>
+<AM lemma="na-1" src="auto" selected="1">RR--6----------</AM>
 <AM lemma="na-2" src="auto">II-------------</AM>
 </tag>
 </m>
@@ -1143,7 +1143,7 @@
 <form>exkurzi</form>
 <tag>
 <AM lemma="exkurze">NNFS3-----A----</AM>
-<AM lemma="exkurze">NNFS6-----A----</AM>
+<AM lemma="exkurze" selected="1">NNFS6-----A----</AM>
 <AM lemma="exkurze" src="auto" recommended="1">NNFS4-----A----</AM>
 </tag>
 </m>

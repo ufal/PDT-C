@@ -3282,7 +3282,7 @@
 <tag>
 <AM lemma="podřep">NNIS2-----A----</AM>
 <AM lemma="podřep">NNIS3-----A----</AM>
-<AM lemma="podřep" src="auto" recommended="1">NNIS6-----A----</AM>
+<AM lemma="podřep" src="auto" recommended="1" selected="1">NNIS6-----A----</AM>
 </tag>
 </m>
 <m id="m029-d1t1169-4">

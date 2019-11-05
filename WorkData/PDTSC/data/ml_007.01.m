@@ -231,7 +231,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>dědeček</form>
-<tag lemma="dědeček" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag lemma="dědeček" src="auto" recommended="1" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m007-d1t409-11">
 <w.rf>

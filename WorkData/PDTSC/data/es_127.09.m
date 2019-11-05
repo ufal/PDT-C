@@ -460,7 +460,7 @@
 <form>jejích</form>
 <tag>
 <AM lemma="jeho_^(přivlast.)">PSXP2FS3-------</AM>
-<AM lemma="jeho_^(přivlast.)" src="auto" recommended="1">PSXP6FS3-------</AM>
+<AM lemma="jeho_^(přivlast.)" src="auto" recommended="1" selected="1">PSXP6FS3-------</AM>
 </tag>
 </m>
 <m id="m127-d1t2016-11">

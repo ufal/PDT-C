@@ -3881,7 +3881,10 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>nenašel</form>
-<tag lemma="najít" src="auto" recommended="1">VpYS---XR-NAP--</tag>
+<tag>
+<AM lemma="najít" src="auto" recommended="1">VpYS---XR-NAP--</AM>
+<AM lemma="najít" src="manual" selected="1">VpYS----R-NAP--</AM>
+</tag>
 </m>
 <m id="m139-d1t269-2">
 <w.rf>

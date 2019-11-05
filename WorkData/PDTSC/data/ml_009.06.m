@@ -1583,7 +1583,7 @@
 <form>ještě</form>
 <tag>
 <AM lemma="ještě-2">TT-------------</AM>
-<AM lemma="ještě-1" src="auto" recommended="1">Db-------------</AM>
+<AM lemma="ještě-1" src="auto" recommended="1" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m009-d1t1818-3">

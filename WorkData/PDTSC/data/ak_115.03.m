@@ -4186,7 +4186,7 @@
 <form_change>spell</form_change>
 <form>Veletrhy</form>
 <tag>
-<AM lemma="veletrh">NNIP1-----A----</AM>
+<AM lemma="veletrh" selected="1">NNIP1-----A----</AM>
 <AM lemma="veletrh">NNIP5-----A----</AM>
 <AM lemma="veletrh">NNIP7-----A----</AM>
 <AM lemma="veletrh" src="auto" recommended="1">NNIP4-----A----</AM>

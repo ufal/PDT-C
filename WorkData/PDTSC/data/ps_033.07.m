@@ -4853,7 +4853,7 @@
 <AM lemma="Mangalia_;G">NNFP4-----A----</AM>
 <AM lemma="Mangalia_;G">NNFP5-----A----</AM>
 <AM lemma="Mangalia_;G">NNFS5-----A----</AM>
-<AM lemma="Mangalia_;G" src="auto" recommended="1">NNFS2-----A----</AM>
+<AM lemma="Mangalia_;G" src="auto" recommended="1" selected="1">NNFS2-----A----</AM>
 </tag>
 </m>
 <m id="m033-d-id139865-punct">
@@ -4870,8 +4870,13 @@
 <form>Foje</form>
 <tag>
 <AM lemma="Foje" src="auto">X@-------------</AM>
-<AM lemma="Foje_;G" src="manual" selected="1">NNNS1-----A----</AM>
+<AM lemma="Foje_;G" src="manual">NNNS1-----A----</AM>
 </tag>
+<comment>
+<LM type="New Form">
+<text>Eforie</text>
+</LM>
+</comment>
 </m>
 <m id="m033-190-193">
 <w.rf>

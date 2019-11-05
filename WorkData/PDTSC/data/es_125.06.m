@@ -5279,7 +5279,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>Úplně</form>
-<tag lemma="úplně_^(*1ý)" src="auto" recommended="1">Dg-------1A----</tag>
+<tag lemma="úplně_^(*1ý)" src="auto" recommended="1" selected="1">Dg-------1A----</tag>
 </m>
 <m id="m125-d1t1162-16">
 <w.rf>

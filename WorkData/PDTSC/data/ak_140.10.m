@@ -1397,7 +1397,7 @@
 <form>parcele</form>
 <tag>
 <AM lemma="parcela">NNFS3-----A----</AM>
-<AM lemma="parcela" src="auto" recommended="1">NNFS6-----A----</AM>
+<AM lemma="parcela" src="auto" recommended="1" selected="1">NNFS6-----A----</AM>
 </tag>
 </m>
 <m id="m140-d1t1728-5">

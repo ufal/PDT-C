@@ -44,7 +44,10 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>skončily</form>
-<tag lemma="skončit" src="auto" recommended="1">VpTP---XR-AAP--</tag>
+<tag>
+<AM lemma="skončit" src="auto" recommended="1">VpTP---XR-AAP--</AM>
+<AM lemma="skončit" src="manual" selected="1">VpTP----R-AAP--</AM>
+</tag>
 </m>
 <m id="m051-d1t1555-4">
 <w.rf>
@@ -452,7 +455,10 @@
 <LM>w#w-d1t1587-9</LM>
 </w.rf>
 <form>dostaly</form>
-<tag lemma="dostat" src="auto" recommended="1">VpTP---XR-AAP--</tag>
+<tag>
+<AM lemma="dostat" src="auto" recommended="1">VpTP---XR-AAP--</AM>
+<AM lemma="dostat" src="manual" selected="1">VpTP----R-AAP--</AM>
+</tag>
 </m>
 <m id="m051-d1t1587-10">
 <w.rf>
@@ -577,7 +583,10 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>umístily</form>
-<tag lemma="umístit" src="auto" recommended="1">VpTP---XR-AAP--</tag>
+<tag>
+<AM lemma="umístit" src="auto" recommended="1">VpTP---XR-AAP--</AM>
+<AM lemma="umístit" src="manual" selected="1">VpTP----R-AAP--</AM>
+</tag>
 </m>
 <m id="m051-d-m-d1e1582-x2-punct-punct">
 <w.rf>

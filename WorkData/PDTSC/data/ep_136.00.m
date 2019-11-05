@@ -6952,7 +6952,7 @@
 <form_change>spell</form_change>
 <form>různé</form>
 <tag>
-<AM lemma="různý">AAFP1----1A----</AM>
+<AM lemma="různý" selected="1">AAFP1----1A----</AM>
 <AM lemma="různý">AAFP5----1A----</AM>
 <AM lemma="různý">AAFS2----1A----</AM>
 <AM lemma="různý">AAFS3----1A----</AM>

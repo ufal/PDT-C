@@ -1870,6 +1870,7 @@
 <AM lemma="půl-2" src="auto">NNFS1-----A----</AM>
 <AM lemma="půl-2" src="auto" recommended="1">NNFS4-----A----</AM>
 <AM lemma="půl-3" src="auto">NNNSX-----A----</AM>
+<AM lemma="půl-1" src="manual" selected="1">ClXXX----------</AM>
 </tag>
 </m>
 <m id="m042-d1t2412-10">
@@ -1879,7 +1880,7 @@
 <form>před</form>
 <tag>
 <AM lemma="před-1" src="auto" recommended="1">RR--4----------</AM>
-<AM lemma="před-1" src="auto">RR--7----------</AM>
+<AM lemma="před-1" src="auto" selected="1">RR--7----------</AM>
 </tag>
 </m>
 <m id="m042-d1t2412-11">
@@ -1888,7 +1889,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>spartakiádou</form>
-<tag lemma="spartakiáda" src="auto" recommended="1">NNFS7-----A----</tag>
+<tag lemma="spartakiáda" src="auto" recommended="1" selected="1">NNFS7-----A----</tag>
 </m>
 <m id="m042-d-m-d1e2396-x2-punct-punct">
 <w.rf>

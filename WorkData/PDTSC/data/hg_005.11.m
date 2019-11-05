@@ -2468,7 +2468,7 @@
 <form>muzeu</form>
 <tag>
 <AM lemma="muzeum">NNNS3-----A----</AM>
-<AM lemma="muzeum" src="auto" recommended="1">NNNS6-----A----</AM>
+<AM lemma="muzeum" src="auto" recommended="1" selected="1">NNNS6-----A----</AM>
 </tag>
 </m>
 <m id="m005-2410-2420">

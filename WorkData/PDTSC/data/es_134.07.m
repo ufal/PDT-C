@@ -4246,7 +4246,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>rozumět</form>
-<tag lemma="rozumět" src="auto" recommended="1">Vf--------A-I--</tag>
+<tag lemma="rozumět" src="auto" recommended="1" selected="1">Vf--------A-I--</tag>
 </m>
 <m id="m134-d1t938-27">
 <w.rf>

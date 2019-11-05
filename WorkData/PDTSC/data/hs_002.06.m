@@ -3551,7 +3551,10 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>začaly</form>
-<tag lemma="začít-1_^(začnout)" src="auto" recommended="1">VpTP---XR-AAP--</tag>
+<tag>
+<AM lemma="začít-1_^(začnout)" src="auto" recommended="1">VpTP---XR-AAP--</AM>
+<AM lemma="začít-1_^(začnout)" src="manual" selected="1">VpTP----R-AAP--</AM>
+</tag>
 </m>
 <m id="m002-d1t1807-3">
 <w.rf>

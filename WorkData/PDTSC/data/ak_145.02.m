@@ -2081,7 +2081,7 @@
 <tag>
 <AM lemma="Žalé_;S">NNMS6-----A----</AM>
 <AM lemma="Žalé_;S">NNMS7-----A----</AM>
-<AM lemma="Žalý_;G" src="auto" recommended="1">NNIS6-----A----</AM>
+<AM lemma="Žalý_;G" src="auto" recommended="1" selected="1">NNIS6-----A----</AM>
 </tag>
 </m>
 <m id="m145-d1t422-9">

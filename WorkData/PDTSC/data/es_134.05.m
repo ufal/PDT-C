@@ -1376,7 +1376,10 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>vrátili</form>
-<tag lemma="vrátit" src="auto" recommended="1">VpMP---XR-AAP--</tag>
+<tag>
+<AM lemma="vrátit" src="auto" recommended="1">VpMP---XR-AAP--</AM>
+<AM lemma="vrátit" src="manual" selected="1">VpMP----R-AAP--</AM>
+</tag>
 </m>
 <m id="m134-d1t650-41">
 <w.rf>

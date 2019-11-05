@@ -2672,7 +2672,7 @@
 <AM lemma="pracoviště">NNNS1-----A----</AM>
 <AM lemma="pracoviště">NNNS2-----A----</AM>
 <AM lemma="pracoviště">NNNS5-----A----</AM>
-<AM lemma="pracoviště" src="auto" recommended="1">NNNS4-----A----</AM>
+<AM lemma="pracoviště" src="auto" recommended="1" selected="1">NNNS4-----A----</AM>
 </tag>
 </m>
 <m id="m012-d-id113940">
@@ -2708,7 +2708,7 @@
 <form>to</form>
 <tag>
 <AM lemma="ten" src="auto" recommended="1">PDNS1----------</AM>
-<AM lemma="ten" src="auto">PDNS4----------</AM>
+<AM lemma="ten" src="auto" selected="1">PDNS4----------</AM>
 <AM lemma="to-9_^(být_s_to)" src="auto">TT-------------</AM>
 <AM lemma="to-77" src="auto">F%-------------</AM>
 </tag>

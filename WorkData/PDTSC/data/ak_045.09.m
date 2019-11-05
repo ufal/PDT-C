@@ -585,7 +585,10 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>musely</form>
-<tag lemma="muset" src="auto" recommended="1">VpTP---XR-AAI--</tag>
+<tag>
+<AM lemma="muset" src="auto" recommended="1">VpTP---XR-AAI--</AM>
+<AM lemma="muset" src="manual" selected="1">VpTP----R-AAI--</AM>
+</tag>
 </m>
 <m id="m045-d1t2317-4">
 <w.rf>
@@ -2979,7 +2982,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>redemptorista</form>
-<tag lemma="redemptorista" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag lemma="redemptorista" src="auto" recommended="1" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m045-155-158">
 <w.rf>
@@ -3117,7 +3120,7 @@
 <tag>
 <AM lemma="šatstvo">NNNS1-----A----</AM>
 <AM lemma="šatstvo">NNNS5-----A----</AM>
-<AM lemma="šatstvo" src="auto" recommended="1">NNNS4-----A----</AM>
+<AM lemma="šatstvo" src="auto" recommended="1" selected="1">NNNS4-----A----</AM>
 </tag>
 </m>
 <m id="m045-d-id134292-punct">

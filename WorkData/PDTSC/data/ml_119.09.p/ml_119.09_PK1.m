@@ -4656,7 +4656,7 @@
 <tag>
 <AM lemma="Patras-1_;G">NNIS3-----A----</AM>
 <AM lemma="Patras-1_;G">NNIS6-----A----</AM>
-<AM lemma="Patras-1_;G" src="auto" recommended="1">NNIS2-----A----</AM>
+<AM lemma="Patras-1_;G" src="auto" recommended="1" selected="1">NNIS2-----A----</AM>
 </tag>
 </m>
 <m id="m119-d1e2000-x2-231">

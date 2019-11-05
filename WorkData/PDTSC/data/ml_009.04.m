@@ -5456,7 +5456,7 @@
 <form>v</form>
 <tag>
 <AM lemma="v-1" src="auto" recommended="1">RR--4----------</AM>
-<AM lemma="v-1" src="auto">RR--6----------</AM>
+<AM lemma="v-1" src="auto" selected="1">RR--6----------</AM>
 <AM lemma="v-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
 <AM lemma="v-88_:B" src="auto">NNXXX-----A----</AM>
 <AM lemma="versus_:B" src="auto">RR--1---------9</AM>
@@ -5468,7 +5468,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>dílnách</form>
-<tag lemma="dílna" src="auto" recommended="1">NNFP6-----A----</tag>
+<tag lemma="dílna" src="auto" recommended="1" selected="1">NNFP6-----A----</tag>
 </m>
 <m id="m009-d1t1397-9">
 <w.rf>

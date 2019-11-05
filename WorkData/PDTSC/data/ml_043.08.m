@@ -1383,7 +1383,7 @@
 <AM lemma="příbuzná-1_^(člen_rodiny)_(*3ý-1)">NNFP2-----A----</AM>
 <AM lemma="příbuzná-1_^(člen_rodiny)_(*3ý-1)">NNFP6-----A----</AM>
 <AM lemma="příbuzný-1_^(člen_rodiny)">NNMP6-----A----</AM>
-<AM lemma="příbuzný-1_^(člen_rodiny)" src="auto" recommended="1">NNMP2-----A----</AM>
+<AM lemma="příbuzný-1_^(člen_rodiny)" src="auto" recommended="1" selected="1">NNMP2-----A----</AM>
 </tag>
 </m>
 <m id="m043-205-211">

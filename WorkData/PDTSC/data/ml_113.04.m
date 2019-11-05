@@ -667,7 +667,7 @@
 <form>návštěvě</form>
 <tag>
 <AM lemma="návštěva">NNFS3-----A----</AM>
-<AM lemma="návštěva" src="auto" recommended="1">NNFS6-----A----</AM>
+<AM lemma="návštěva" src="auto" recommended="1" selected="1">NNFS6-----A----</AM>
 </tag>
 </m>
 <m id="m113-d1e984-x2-485">

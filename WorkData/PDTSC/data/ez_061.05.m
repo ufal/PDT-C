@@ -5261,7 +5261,7 @@
 <form>Většinou</form>
 <tag>
 <AM lemma="většina">NNFS7-----A----</AM>
-<AM lemma="většinou" src="auto" recommended="1">Db-------------</AM>
+<AM lemma="většinou" src="auto" recommended="1" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m061-d-id121561-punct">

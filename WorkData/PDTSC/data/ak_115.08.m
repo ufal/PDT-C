@@ -3246,7 +3246,7 @@
 <AM lemma="Mikuláš-2_;G">NNIP4-----A----</AM>
 <AM lemma="Mikuláš-2_;G">NNIP5-----A----</AM>
 <AM lemma="Mikuláš-2_;G">NNIS2-----A----</AM>
-<AM lemma="Mikuláš-1_;Y" src="auto" recommended="1">NNMS4-----A----</AM>
+<AM lemma="Mikuláš-1_;Y" src="auto" recommended="1" selected="1">NNMS4-----A----</AM>
 </tag>
 </m>
 <m id="m115-d1t1338-3">

@@ -3036,7 +3036,10 @@
 <LM>w#w-d1t2943-1</LM>
 </w.rf>
 <form>rakousko</form>
-<tag lemma="rakouský" src="auto" recommended="1">A2--------A----</tag>
+<tag>
+<AM lemma="rakouský" src="auto" recommended="1">A2--------A----</AM>
+<AM lemma="rakousko" src="manual" selected="1">S2--------A----</AM>
+</tag>
 </m>
 <m id="m129-d1t2943-2">
 <w.rf>
@@ -3111,7 +3114,7 @@
 <form>šnytlík</form>
 <tag>
 <AM lemma="šnytlík_,h">NNIS4-----A----</AM>
-<AM lemma="šnytlík_,h" src="auto" recommended="1">NNIS1-----A----</AM>
+<AM lemma="šnytlík_,h" src="auto" recommended="1" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m129-d-id179824-punct">
@@ -3127,8 +3130,8 @@
 </w.rf>
 <form>biograf</form>
 <tag>
-<AM lemma="biograf" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="biograf" src="auto" selected="1">NNIS4-----A----</AM>
+<AM lemma="biograf" src="auto" recommended="1" selected="1">NNIS1-----A----</AM>
+<AM lemma="biograf" src="auto">NNIS4-----A----</AM>
 <AM lemma="biograf" src="auto">NNMS1-----A----</AM>
 </tag>
 </m>
@@ -3155,8 +3158,8 @@
 </w.rf>
 <form>kino</form>
 <tag>
-<AM lemma="kino" src="auto" recommended="1">NNNS1-----A----</AM>
-<AM lemma="kino" src="auto" selected="1">NNNS4-----A----</AM>
+<AM lemma="kino" src="auto" recommended="1" selected="1">NNNS1-----A----</AM>
+<AM lemma="kino" src="auto">NNNS4-----A----</AM>
 <AM lemma="kino" src="auto">NNNS5-----A----</AM>
 </tag>
 </m>

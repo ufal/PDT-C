@@ -1869,7 +1869,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>popovídat</form>
-<tag lemma="popovídat" src="auto" recommended="1">Vf--------A-P--</tag>
+<tag lemma="popovídat" src="auto" recommended="1" selected="1">Vf--------A-P--</tag>
 </m>
 <m id="m021-d-m-d1e1467-x2-punct-punct">
 <w.rf>
@@ -3713,7 +3713,7 @@
 <AM lemma="argentina">NNFP4-----A----</AM>
 <AM lemma="argentina">NNFP5-----A----</AM>
 <AM lemma="argentina">NNFS2-----A----</AM>
-<AM lemma="Argentina_;G" src="auto" recommended="1">NNFS2-----A----</AM>
+<AM lemma="Argentina_;G" src="auto" recommended="1" selected="1">NNFS2-----A----</AM>
 </tag>
 </m>
 <m id="m021-d-id113343-punct">

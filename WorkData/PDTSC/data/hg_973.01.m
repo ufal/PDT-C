@@ -3654,7 +3654,7 @@
 <LM>w#w-id60399-4</LM>
 </w.rf>
 <form>10000</form>
-<tag lemma="10000" src="auto" recommended="1">C=-------------</tag>
+<tag lemma="10000" src="auto" recommended="1" selected="1">C=-------------</tag>
 </m>
 <m id="m973-id60195-x7-5364">
 <w.rf>
@@ -3669,7 +3669,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>15000</form>
-<tag lemma="15000" src="auto" recommended="1">C=-------------</tag>
+<tag lemma="15000" src="auto" recommended="1" selected="1">C=-------------</tag>
 </m>
 <m id="m973-id60399-7">
 <w.rf>

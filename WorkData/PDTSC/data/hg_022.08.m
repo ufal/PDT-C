@@ -3089,7 +3089,7 @@
 <AM lemma="rodinný">AANS1----1A---6</AM>
 <AM lemma="rodinný">AANS4----1A---6</AM>
 <AM lemma="rodinný">AANS5----1A---6</AM>
-<AM lemma="rodinný" src="auto" recommended="1">AAIS1----1A----</AM>
+<AM lemma="rodinný" src="auto" recommended="1" selected="1">AAIS1----1A----</AM>
 </tag>
 </m>
 <m id="m022-d1t2598-20">

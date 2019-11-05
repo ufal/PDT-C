@@ -1342,7 +1342,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>leckams</form>
-<tag lemma="leckams" src="auto" recommended="1">Db-------------</tag>
+<tag lemma="leckams" src="auto" recommended="1" selected="1">Db-------------</tag>
 </m>
 <m id="m038-331-335">
 <w.rf>

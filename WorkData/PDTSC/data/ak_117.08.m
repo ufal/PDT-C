@@ -2578,7 +2578,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>Camargue</form>
-<tag lemma="Camargue_;G" src="auto" recommended="1">NNNXX-----A----</tag>
+<tag lemma="Camargue_;G" src="auto" recommended="1" selected="1">NNNXX-----A----</tag>
 </m>
 <m id="m117-d1e2124-x2-272">
 <w.rf>
@@ -2647,7 +2647,7 @@
 <form>camargský</form>
 <tag>
 <AM lemma="camargský">X@-------------</AM>
-<AM lemma="camargský" src="auto" recommended="1">AAMS1----1A----</AM>
+<AM lemma="camargský" src="auto" recommended="1" selected="1">AAMS1----1A----</AM>
 </tag>
 </m>
 <m id="m117-d1t2138-1">
@@ -2996,7 +2996,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>Camargue</form>
-<tag lemma="Camargue_;G" src="auto" recommended="1">NNNXX-----A----</tag>
+<tag lemma="Camargue_;G" src="auto" recommended="1" selected="1">NNNXX-----A----</tag>
 </m>
 <m id="m117-281-282">
 <w.rf>

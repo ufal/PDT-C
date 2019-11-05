@@ -2148,7 +2148,7 @@
 <form>mě</form>
 <tag>
 <AM lemma="já">PH-S4--1-------</AM>
-<AM lemma="já" src="auto" recommended="1">PH-S2--1-------</AM>
+<AM lemma="já" src="auto" recommended="1" selected="1">PH-S2--1-------</AM>
 </tag>
 </m>
 <m id="m146-d1t885-28">

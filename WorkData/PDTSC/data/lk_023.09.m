@@ -1444,7 +1444,10 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>Zasáhlo</form>
-<tag lemma="zasáhnout" src="auto" recommended="1">VpNS---XR-AAP-1</tag>
+<tag>
+<AM lemma="zasáhnout" src="auto" recommended="1">VpNS---XR-AAP-1</AM>
+<AM lemma="zasáhnout" src="manual" selected="1">VpNS----R-AAP-1</AM>
+</tag>
 </m>
 <m id="m023-d1t3348-23">
 <w.rf>
@@ -1909,7 +1912,7 @@
 <form>správě</form>
 <tag>
 <AM lemma="správa">NNFS3-----A----</AM>
-<AM lemma="správa" src="auto" recommended="1">NNFS6-----A----</AM>
+<AM lemma="správa" src="auto" recommended="1" selected="1">NNFS6-----A----</AM>
 </tag>
 </m>
 <m id="m023-d1t3364-15">

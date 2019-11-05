@@ -2205,7 +2205,7 @@
 <AM lemma="on-1_^(ona)">PPFS2--3-------</AM>
 <AM lemma="on-1_^(ona)">PPFS4--3------6</AM>
 <AM lemma="on-1_^(ona)">PPFS7--3-------</AM>
-<AM lemma="on-1_^(ona)" src="auto" recommended="1">PPFS3--3-------</AM>
+<AM lemma="on-1_^(ona)" src="auto" recommended="1" selected="1">PPFS3--3-------</AM>
 </tag>
 </m>
 <m id="m147-d1t448-6">
@@ -2255,7 +2255,10 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>Hitlerjugend</form>
-<tag lemma="Hitlerjugend_;K_,t" src="auto" recommended="1">NNFXX-----A----</tag>
+<tag>
+<AM lemma="Hitlerjugend_;K_,t" src="auto" recommended="1">NNFXX-----A----</AM>
+<AM lemma="Hitlerjugend_;K" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m147-76-636">
 <w.rf>

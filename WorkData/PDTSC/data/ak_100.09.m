@@ -275,7 +275,7 @@
 <tag>
 <AM lemma="Purš_;S">NNMP4-----A----</AM>
 <AM lemma="Purš_;S">NNMS2-----A----</AM>
-<AM lemma="Purš_;S" src="auto" recommended="1">NNMS4-----A----</AM>
+<AM lemma="Purš_;S" src="auto" recommended="1" selected="1">NNMS4-----A----</AM>
 </tag>
 </m>
 <m id="m100-d-m-d1e2043-x2-punct-punct">

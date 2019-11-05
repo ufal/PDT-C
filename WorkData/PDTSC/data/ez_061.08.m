@@ -7292,6 +7292,7 @@
 <tag>
 <AM lemma="bala">X@-------------</AM>
 <AM lemma="bát" src="auto" recommended="1">VpQW---XR-AA---</AM>
+<AM lemma="bala" src="manual" selected="1">Db-------------</AM>
 </tag>
 <comment>
 <LM type="Other">
@@ -7328,7 +7329,7 @@
 <form>mně</form>
 <tag>
 <AM lemma="já">PP-S6--1-------</AM>
-<AM lemma="já" src="auto" recommended="1">PP-S3--1-------</AM>
+<AM lemma="já" src="auto" recommended="1" selected="1">PP-S3--1-------</AM>
 </tag>
 </m>
 <m id="m061-d1t3169-3">

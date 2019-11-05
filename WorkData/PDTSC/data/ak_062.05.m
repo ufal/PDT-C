@@ -1633,7 +1633,7 @@
 <form>ni</form>
 <tag>
 <AM lemma="ni_,a">J^-------------</AM>
-<AM lemma="on-1" src="auto" recommended="1">P5FS4--3-------</AM>
+<AM lemma="on-1" src="auto" recommended="1" selected="1">P5FS4--3-------</AM>
 </tag>
 </m>
 <m id="m062-d1t1160-14">
@@ -2523,7 +2523,10 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>byly</form>
-<tag lemma="být" src="auto" recommended="1">VpTP---XR-AAI--</tag>
+<tag>
+<AM lemma="být" src="auto" recommended="1">VpTP---XR-AAI--</AM>
+<AM lemma="být" src="manual" selected="1">VpTP----R-AAI--</AM>
+</tag>
 </m>
 <m id="m062-d1t1226-6">
 <w.rf>
@@ -3344,7 +3347,10 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>rozsvítily</form>
-<tag lemma="rozsvítit" src="auto" recommended="1">VpTP---XR-AAP--</tag>
+<tag>
+<AM lemma="rozsvítit" src="auto" recommended="1">VpTP---XR-AAP--</AM>
+<AM lemma="rozsvítit" src="manual" selected="1">VpTP----R-AAP--</AM>
+</tag>
 </m>
 <m id="m062-d1t1258-3">
 <w.rf>

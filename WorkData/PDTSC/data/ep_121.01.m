@@ -1376,7 +1376,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>Dokonce</form>
-<tag lemma="dokonce" src="auto" recommended="1">Db-------------</tag>
+<tag lemma="dokonce" src="auto" recommended="1" selected="1">Db-------------</tag>
 </m>
 <m id="m121-d1t326-7">
 <w.rf>

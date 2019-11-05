@@ -726,7 +726,7 @@
 <AM lemma="spoléhání_^(*3at)">NNNS4-----A----</AM>
 <AM lemma="spoléhání_^(*3at)">NNNS5-----A----</AM>
 <AM lemma="spoléhání_^(*3at)">NNNS6-----A----</AM>
-<AM lemma="spoléhání_^(*3at)" src="auto" recommended="1">NNNS1-----A----</AM>
+<AM lemma="spoléhání_^(*3at)" src="auto" recommended="1" selected="1">NNNS1-----A----</AM>
 </tag>
 </m>
 <m id="m911-d1t1098-1">
@@ -6861,7 +6861,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>14000000</form>
-<tag lemma="14000000" src="auto" recommended="1">C=-------------</tag>
+<tag lemma="14000000" src="auto" recommended="1" selected="1">C=-------------</tag>
 </m>
 <m id="m911-d1t1396-11">
 <w.rf>

@@ -5296,7 +5296,7 @@
 <form>náboženstvím</form>
 <tag>
 <AM lemma="náboženství">NNNP3-----A----</AM>
-<AM lemma="náboženství" src="auto" recommended="1">NNNS7-----A----</AM>
+<AM lemma="náboženství" src="auto" recommended="1" selected="1">NNNS7-----A----</AM>
 </tag>
 </m>
 <m id="m054-d1t1139-3">

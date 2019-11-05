@@ -2957,7 +2957,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>fotku</form>
-<tag lemma="fotka" src="auto" recommended="1">NNFS4-----A----</tag>
+<tag lemma="fotka" src="auto" recommended="1" selected="1">NNFS4-----A----</tag>
 </m>
 <m id="m043-d-id157102-punct">
 <w.rf>

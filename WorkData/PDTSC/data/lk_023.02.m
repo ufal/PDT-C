@@ -1647,7 +1647,7 @@
 <AM lemma="starý-2_^(člověk,_věc)">AANS1----2A----</AM>
 <AM lemma="starý-2_^(člověk,_věc)">AANS4----2A----</AM>
 <AM lemma="starý-2_^(člověk,_věc)">AANS5----2A----</AM>
-<AM lemma="starý-2_^(člověk,_věc)" src="auto" recommended="1">AAMS1----2A----</AM>
+<AM lemma="starý-2_^(člověk,_věc)" src="auto" recommended="1" selected="1">AAMS1----2A----</AM>
 </tag>
 </m>
 <m id="m023-d-id77524-punct">
@@ -4457,6 +4457,7 @@
 <tag>
 <AM lemma="Waltr_;S">NNMS2-----A----</AM>
 <AM lemma="Waltr_;S" src="auto" recommended="1">NNMS4-----A----</AM>
+<AM lemma="Walter_;R" src="manual" selected="1">NNIS4-----A---1</AM>
 </tag>
 </m>
 <m id="m023-d-id84373-punct">

@@ -2907,6 +2907,7 @@
 <tag>
 <AM lemma="au_^(au-pair)">A2--------A----</AM>
 <AM lemma="au" src="auto" recommended="1">II-------------</AM>
+<AM lemma="au-2_^(au-pair)" src="manual" selected="1">S2--------A----</AM>
 </tag>
 <comment>
 <LM type="Other">

@@ -538,7 +538,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>předevčírem</form>
-<tag lemma="předevčírem" src="auto" recommended="1">Db-------------</tag>
+<tag lemma="předevčírem" src="auto" recommended="1" selected="1">Db-------------</tag>
 </m>
 <m id="m048-d-id111351-punct">
 <w.rf>

@@ -3230,7 +3230,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>člověk</form>
-<tag lemma="člověk" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag lemma="člověk" src="auto" recommended="1" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m783-d1t932-3">
 <w.rf>
@@ -3560,7 +3560,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>důvodů</form>
-<tag lemma="důvod" src="auto" recommended="1">NNIP2-----A----</tag>
+<tag lemma="důvod" src="auto" recommended="1" selected="1">NNIP2-----A----</tag>
 </m>
 <m id="m783-d1t946-13">
 <w.rf>
@@ -4523,7 +4523,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>slušněji</form>
-<tag lemma="slušně_^(*1ý)" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="slušně_^(*1ý)" src="auto" recommended="1" selected="1">Dg-------2A----</tag>
 </m>
 <m id="m783-d-id88790">
 <w.rf>

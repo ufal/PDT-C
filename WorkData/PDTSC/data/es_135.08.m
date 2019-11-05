@@ -2442,7 +2442,7 @@
 <AM lemma="pátý">CrNS1----------</AM>
 <AM lemma="pátý">CrNS4----------</AM>
 <AM lemma="pátý">CrNS5----------</AM>
-<AM lemma="pátý" src="auto" recommended="1">CrFS6----------</AM>
+<AM lemma="pátý" src="auto" recommended="1" selected="1">CrFS6----------</AM>
 </tag>
 </m>
 <m id="m135-d1t1504-10">
@@ -6789,7 +6789,7 @@
 <tag>
 <AM lemma="Ludvík_;Y">NNMS5-----A----</AM>
 <AM lemma="Ludvík_;Y">NNMS6-----A---1</AM>
-<AM lemma="Ludvík_;Y" src="auto" recommended="1">NNMS3-----A---1</AM>
+<AM lemma="Ludvík_;Y" src="auto" recommended="1" selected="1">NNMS3-----A---1</AM>
 </tag>
 </m>
 <m id="m135-d1t1632-5">

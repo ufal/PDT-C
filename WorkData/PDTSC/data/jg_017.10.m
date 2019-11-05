@@ -575,6 +575,11 @@
 <AM lemma="děštník">X@-------------</AM>
 <AM lemma="děštník" src="auto" recommended="1">Db-------------</AM>
 </tag>
+<comment>
+<LM type="New Form">
+<text>deštník</text>
+</LM>
+</comment>
 </m>
 <m id="m017-d1e2991-x2-566">
 <w.rf>

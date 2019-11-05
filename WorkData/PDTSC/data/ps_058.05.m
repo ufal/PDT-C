@@ -2855,7 +2855,7 @@
 <form>fotce</form>
 <tag>
 <AM lemma="fotka">NNFS3-----A----</AM>
-<AM lemma="fotka" src="auto" recommended="1">NNFS6-----A----</AM>
+<AM lemma="fotka" src="auto" recommended="1" selected="1">NNFS6-----A----</AM>
 </tag>
 </m>
 <m id="m058-d-id121425-punct">
@@ -5110,6 +5110,7 @@
 <tag>
 <AM lemma="spektrograf">NNMP7-----A----</AM>
 <AM lemma="spektrograf" src="auto" recommended="1">NNMP4-----A----</AM>
+<AM lemma="spektrograf-2" src="manual" selected="1">NNIP1-----A----</AM>
 </tag>
 </m>
 <m id="m058-d-id126322-punct">

@@ -1984,7 +1984,7 @@
 <form>kartonážce</form>
 <tag>
 <AM lemma="kartonážka_,h">NNFS3-----A----</AM>
-<AM lemma="kartonážka_,h" src="auto" recommended="1">NNFS6-----A----</AM>
+<AM lemma="kartonážka_,h" src="auto" recommended="1" selected="1">NNFS6-----A----</AM>
 </tag>
 </m>
 <m id="m144-d1e96-x2-55">

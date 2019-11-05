@@ -603,7 +603,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>ohromně</form>
-<tag lemma="ohromně_^(*1ý)" src="auto" recommended="1">Dg-------1A----</tag>
+<tag lemma="ohromně_^(*1ý)" src="auto" recommended="1" selected="1">Dg-------1A----</tag>
 </m>
 <m id="a_tree-cs-s6-n74">
 <w.rf>

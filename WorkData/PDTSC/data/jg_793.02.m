@@ -5405,7 +5405,7 @@
 <form>věřte</form>
 <tag>
 <AM lemma="věřit">Vi-P---3--A-I-4</AM>
-<AM lemma="věřit" src="auto" recommended="1">Vi-P---2--A-I--</AM>
+<AM lemma="věřit" src="auto" recommended="1" selected="1">Vi-P---2--A-I--</AM>
 </tag>
 </m>
 <m id="m793-d-id88089">

@@ -387,7 +387,7 @@
 <AM lemma="válka">NNFP1-----A----</AM>
 <AM lemma="válka">NNFP4-----A----</AM>
 <AM lemma="válka">NNFP5-----A----</AM>
-<AM lemma="válka" src="auto" recommended="1">NNFS2-----A----</AM>
+<AM lemma="válka" src="auto" recommended="1" selected="1">NNFS2-----A----</AM>
 </tag>
 </m>
 <m id="m133-d1t274-5">

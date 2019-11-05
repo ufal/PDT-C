@@ -228,7 +228,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>rády</form>
-<tag lemma="rád" src="auto" recommended="1">ACTP------A----</tag>
+<tag lemma="rád" src="auto" recommended="1" selected="1">ACTP------A----</tag>
 </m>
 <m id="m058-d1t2729-2">
 <w.rf>
@@ -4230,7 +4230,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>protože</form>
-<tag lemma="protože" src="auto" recommended="1">J,-------------</tag>
+<tag lemma="protože" src="auto" recommended="1" selected="1">J,-------------</tag>
 </m>
 <m id="m058-d1t3005-13">
 <w.rf>

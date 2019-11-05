@@ -4378,7 +4378,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>muž</form>
-<tag lemma="muž" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag lemma="muž" src="auto" recommended="1" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m028-d1t303-3">
 <w.rf>

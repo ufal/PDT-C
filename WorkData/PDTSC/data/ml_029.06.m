@@ -3891,7 +3891,10 @@
 <LM>w#w-d1t2137-9</LM>
 </w.rf>
 <form>byly</form>
-<tag lemma="být" src="auto" recommended="1">VpTP---XR-AAI--</tag>
+<tag>
+<AM lemma="být" src="auto" recommended="1">VpTP---XR-AAI--</AM>
+<AM lemma="být" src="manual" selected="1">VpTP----R-AAI--</AM>
+</tag>
 </m>
 <m id="m029-d1t2137-10">
 <w.rf>
@@ -3899,7 +3902,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>zdrávy</form>
-<tag lemma="zdravý" src="auto" recommended="1">ACTP------A----</tag>
+<tag lemma="zdravý" src="auto" recommended="1" selected="1">ACTP------A----</tag>
 </m>
 <m id="m029-d1e2130-x2-47">
 <w.rf>

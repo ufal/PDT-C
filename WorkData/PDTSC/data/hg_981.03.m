@@ -1532,7 +1532,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>1000</form>
-<tag lemma="1000" src="auto" recommended="1">C=-------------</tag>
+<tag lemma="1000" src="auto" recommended="1" selected="1">C=-------------</tag>
 </m>
 <m id="m981-d1t1401-2">
 <w.rf>
@@ -3209,7 +3209,10 @@
 <LM>w#w-d1t1483-3</LM>
 </w.rf>
 <form>přepočteno</form>
-<tag lemma="přepočíst" src="auto" recommended="1">VsNS---XX-APP--</tag>
+<tag>
+<AM lemma="přepočíst" src="auto" recommended="1">VsNS---XX-APP--</AM>
+<AM lemma="přepočíst" src="manual" selected="1">VsNS----X-APP--</AM>
+</tag>
 </m>
 <m id="m981-d1t1483-5">
 <w.rf>
@@ -3235,7 +3238,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>10000</form>
-<tag lemma="10000" src="auto" recommended="1">C=-------------</tag>
+<tag lemma="10000" src="auto" recommended="1" selected="1">C=-------------</tag>
 </m>
 <m id="m981-d1t1483-8">
 <w.rf>
@@ -5902,7 +5905,7 @@
 <form_change>spell</form_change>
 <form>kibuc</form>
 <tag>
-<AM lemma="kibuc">NNIS1-----A----</AM>
+<AM lemma="kibuc" selected="1">NNIS1-----A----</AM>
 <AM lemma="kibuc" src="auto" recommended="1">NNIS4-----A----</AM>
 </tag>
 </m>

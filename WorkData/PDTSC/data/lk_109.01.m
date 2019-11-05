@@ -345,7 +345,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>Zdeňkem</form>
-<tag lemma="Zdeněk_;Y" src="auto" recommended="1">NNMS7-----A----</tag>
+<tag lemma="Zdeněk_;Y" src="auto" recommended="1" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m109-d1t161-6">
 <w.rf>

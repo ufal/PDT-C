@@ -778,7 +778,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>odvézt</form>
-<tag lemma="odvézt" src="auto" recommended="1">Vf--------A-P--</tag>
+<tag lemma="odvézt" src="auto" recommended="1" selected="1">Vf--------A-P--</tag>
 </m>
 <m id="m014-d1t2228-11">
 <w.rf>

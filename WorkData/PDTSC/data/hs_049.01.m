@@ -553,7 +553,7 @@
 <AM lemma="veliký">AANS1----1A---6</AM>
 <AM lemma="veliký">AANS4----1A---6</AM>
 <AM lemma="veliký">AANS5----1A---6</AM>
-<AM lemma="veliký" src="auto" recommended="1">AAIS1----1A----</AM>
+<AM lemma="veliký" src="auto" recommended="1" selected="1">AAIS1----1A----</AM>
 </tag>
 </m>
 <m id="m049-d1t351-10">

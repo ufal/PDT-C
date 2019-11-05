@@ -131,7 +131,7 @@
 <AM lemma="Žižkův_;S_^(*2a)_(*3ek)">AUNP4M---------</AM>
 <AM lemma="Žižkův_;S_^(*2a)_(*3ek)">AUNP5M---------</AM>
 <AM lemma="Žižkův_;S_^(*2a)_(*3ek)">AUNS2M---------</AM>
-<AM lemma="Žižkov_;G" src="auto" recommended="1">NNIS2-----A----</AM>
+<AM lemma="Žižkov_;G" src="auto" recommended="1" selected="1">NNIS2-----A----</AM>
 </tag>
 </m>
 <m id="m135-279-330">
@@ -203,7 +203,7 @@
 <form>Žižkov</form>
 <tag>
 <AM lemma="Žižkov_;G">NNIS1-----A----</AM>
-<AM lemma="Žižkov_;G" src="auto" recommended="1">NNIS4-----A----</AM>
+<AM lemma="Žižkov_;G" src="auto" recommended="1" selected="1">NNIS4-----A----</AM>
 </tag>
 </m>
 <m id="m135-279-545">
@@ -4974,7 +4974,10 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>rozuměly</form>
-<tag lemma="rozumět" src="auto" recommended="1">VpTP---XR-AAI--</tag>
+<tag>
+<AM lemma="rozumět" src="auto" recommended="1">VpTP---XR-AAI--</AM>
+<AM lemma="rozumět" src="manual" selected="1">VpTP----R-AAI--</AM>
+</tag>
 </m>
 <m id="m135-d1t607-13">
 <w.rf>

@@ -1729,7 +1729,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>240000</form>
-<tag lemma="240000" src="auto" recommended="1">C=-------------</tag>
+<tag lemma="240000" src="auto" recommended="1" selected="1">C=-------------</tag>
 </m>
 <m id="m015-d1t2917-5">
 <w.rf>
@@ -3055,7 +3055,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>4000</form>
-<tag lemma="4000" src="auto" recommended="1">C=-------------</tag>
+<tag lemma="4000" src="auto" recommended="1" selected="1">C=-------------</tag>
 </m>
 <m id="m015-d1t2934-1">
 <w.rf>
@@ -3232,7 +3232,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>4000</form>
-<tag lemma="4000" src="auto" recommended="1">C=-------------</tag>
+<tag lemma="4000" src="auto" recommended="1" selected="1">C=-------------</tag>
 </m>
 <m id="m015-d1t2934-22">
 <w.rf>

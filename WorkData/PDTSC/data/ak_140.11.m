@@ -2226,7 +2226,7 @@
 <AM lemma="navštěvovaný_^(*2t)">AAIP1----1A---6</AM>
 <AM lemma="navštěvovaný_^(*2t)">AAIP4----1A---6</AM>
 <AM lemma="navštěvovaný_^(*2t)">AAIP5----1A---6</AM>
-<AM lemma="navštěvovaný_^(*2t)">AAIS1----1A----</AM>
+<AM lemma="navštěvovaný_^(*2t)" selected="1">AAIS1----1A----</AM>
 <AM lemma="navštěvovaný_^(*2t)">AAIS4----1A----</AM>
 <AM lemma="navštěvovaný_^(*2t)">AAIS5----1A----</AM>
 <AM lemma="navštěvovaný_^(*2t)">AAMP1----1A---6</AM>

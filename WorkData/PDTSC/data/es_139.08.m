@@ -2082,7 +2082,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>návštěvu</form>
-<tag lemma="návštěva" src="auto" recommended="1">NNFS4-----A----</tag>
+<tag lemma="návštěva" src="auto" recommended="1" selected="1">NNFS4-----A----</tag>
 </m>
 <m id="m139-d1t3470-2">
 <w.rf>
@@ -2867,7 +2867,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>manželem</form>
-<tag lemma="manžel" src="auto" recommended="1">NNMS7-----A----</tag>
+<tag lemma="manžel" src="auto" recommended="1" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m139-d1t3565-1">
 <w.rf>
@@ -3383,7 +3383,8 @@
 <form>Notre</form>
 <tag>
 <AM lemma="Notre_;G_,t" src="auto" recommended="1">AAXXX----1A----</AM>
-<AM lemma="Notre_;G" src="manual" selected="1">AAXXX----1A----</AM>
+<AM lemma="Notre_;G" src="manual">AAXXX----1A----</AM>
+<AM lemma="Notre-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m139-d1t3617-4">
@@ -3402,6 +3403,7 @@
 <tag>
 <AM lemma="Dam_;S">NNMS5-----A----</AM>
 <AM lemma="Dame_;G_,t" src="auto" recommended="1">NNNXX-----A----</AM>
+<AM lemma="Dame-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m139-288-350">
@@ -4154,7 +4156,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>nepamatuji</form>
-<tag lemma="pamatovat" src="auto" recommended="1">VB-S---1P-NAI-1</tag>
+<tag lemma="pamatovat" src="auto" recommended="1" selected="1">VB-S---1P-NAI-1</tag>
 </m>
 <m id="m139-450-477">
 <w.rf>
@@ -4593,7 +4595,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>manželem</form>
-<tag lemma="manžel" src="auto" recommended="1">NNMS7-----A----</tag>
+<tag lemma="manžel" src="auto" recommended="1" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m139-d1t3746-3">
 <w.rf>

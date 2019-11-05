@@ -5096,7 +5096,10 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>dávali</form>
-<tag lemma="dávat_^(*3t)" src="auto" recommended="1">VpMP---XR-AAI--</tag>
+<tag>
+<AM lemma="dávat_^(*3t)" src="auto" recommended="1">VpMP---XR-AAI--</AM>
+<AM lemma="dávat_^(*3t)" src="manual" selected="1">VpMP----R-AAI--</AM>
+</tag>
 </m>
 <m id="m795-d1t407-10">
 <w.rf>

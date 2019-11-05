@@ -297,7 +297,10 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>nemohli</form>
-<tag lemma="moci" src="auto" recommended="1">VpMP---XR-NAI--</tag>
+<tag>
+<AM lemma="moci" src="auto" recommended="1">VpMP---XR-NAI--</AM>
+<AM lemma="moci" src="manual" selected="1">VpMP----R-NAI--</AM>
+</tag>
 </m>
 <m id="m027-d1e1098-x2-9">
 <w.rf>

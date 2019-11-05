@@ -2790,6 +2790,7 @@
 <tag>
 <AM lemma="dát-2_^(dá_se_očekávat)">VpMP---XR-AAI--</AM>
 <AM lemma="dát" src="auto" recommended="1">VpMP---XR-AAP--</AM>
+<AM lemma="dát" src="manual" selected="1">VpMP----R-AAP--</AM>
 </tag>
 </m>
 <m id="m045-d1t2684-11">

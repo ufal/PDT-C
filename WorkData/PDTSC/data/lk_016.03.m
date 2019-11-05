@@ -6075,7 +6075,7 @@
 <AM lemma="prací">AANS4----1A----</AM>
 <AM lemma="prací">AANS5----1A----</AM>
 <AM lemma="práce_^(jako_činnost_i_místo)">NNFS7-----A----</AM>
-<AM lemma="práce_^(jako_činnost_i_místo)" src="auto" recommended="1">NNFP2-----A----</AM>
+<AM lemma="práce_^(jako_činnost_i_místo)" src="auto" recommended="1" selected="1">NNFP2-----A----</AM>
 </tag>
 </m>
 <m id="m016-d1e1917-x2-419">

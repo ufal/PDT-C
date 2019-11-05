@@ -4192,7 +4192,7 @@
 <AM lemma="obchodní">AANS1----1A----</AM>
 <AM lemma="obchodní">AANS4----1A----</AM>
 <AM lemma="obchodní">AANS5----1A----</AM>
-<AM lemma="obchodní" src="auto" recommended="1">AAFS4----1A----</AM>
+<AM lemma="obchodní" src="auto" recommended="1" selected="1">AAFS4----1A----</AM>
 </tag>
 </m>
 <m id="m142-d1t250-4">

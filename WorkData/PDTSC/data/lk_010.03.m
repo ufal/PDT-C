@@ -2222,7 +2222,7 @@
 <tag>
 <AM lemma="Jarmil_;Y">NNMS2-----A----</AM>
 <AM lemma="Jarmil_;Y">NNMS4-----A----</AM>
-<AM lemma="Jarmila_;Y" src="auto" recommended="1">NNFS1-----A----</AM>
+<AM lemma="Jarmila_;Y" src="auto" recommended="1" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m010-d1t1287-6">

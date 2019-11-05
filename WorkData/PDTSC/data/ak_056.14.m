@@ -768,7 +768,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>3500</form>
-<tag lemma="3500" src="auto" recommended="1">C=-------------</tag>
+<tag lemma="3500" src="auto" recommended="1" selected="1">C=-------------</tag>
 </m>
 <m id="m056-d-m-d1e3835-x2-punct-punct">
 <w.rf>
@@ -2272,6 +2272,7 @@
 <tag>
 <AM lemma="nádvozný">X@-------------</AM>
 <AM lemma="nádvozný" src="auto" recommended="1">AAIS1----1A----</AM>
+<AM lemma="nádvozný" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m056-839-840">

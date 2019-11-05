@@ -722,7 +722,7 @@
 <AM lemma="pohostinný">AAMP1----1A---6</AM>
 <AM lemma="pohostinný">AAMP4----1A---6</AM>
 <AM lemma="pohostinný">AAMP5----1A---6</AM>
-<AM lemma="pohostinný">AAMS1----1A----</AM>
+<AM lemma="pohostinný" selected="1">AAMS1----1A----</AM>
 <AM lemma="pohostinný">AAMS5----1A----</AM>
 <AM lemma="pohostinný">AANP1----1A---6</AM>
 <AM lemma="pohostinný">AANP4----1A---6</AM>

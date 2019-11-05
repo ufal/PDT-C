@@ -458,7 +458,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>ráda</form>
-<tag lemma="rád" src="auto" recommended="1">ACQW------A----</tag>
+<tag lemma="rád" src="auto" recommended="1" selected="1">ACQW------A----</tag>
 </m>
 <m id="m042-d1t575-4">
 <w.rf>
@@ -3554,7 +3554,10 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>byly</form>
-<tag lemma="být" src="auto" recommended="1">VpTP---XR-AAI--</tag>
+<tag>
+<AM lemma="být" src="auto" recommended="1">VpTP---XR-AAI--</AM>
+<AM lemma="být" src="manual" selected="1">VpTP----R-AAI--</AM>
+</tag>
 </m>
 <m id="m042-d1t774-9">
 <w.rf>

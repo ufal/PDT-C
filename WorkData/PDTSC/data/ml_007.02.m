@@ -1499,7 +1499,7 @@
 <AM lemma="naházený_^(*2t)">AAFS2----1A----</AM>
 <AM lemma="naházený_^(*2t)">AAFS3----1A----</AM>
 <AM lemma="naházený_^(*2t)">AAFS6----1A----</AM>
-<AM lemma="naházený_^(*2t)">AAIP1----1A----</AM>
+<AM lemma="naházený_^(*2t)" selected="1">AAIP1----1A----</AM>
 <AM lemma="naházený_^(*2t)">AAIP4----1A----</AM>
 <AM lemma="naházený_^(*2t)">AAIP5----1A----</AM>
 <AM lemma="naházený_^(*2t)">AAMP4----1A----</AM>

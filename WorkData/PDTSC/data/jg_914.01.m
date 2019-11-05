@@ -3293,7 +3293,10 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>rozuměl</form>
-<tag lemma="rozumět" src="auto" recommended="1">VpYS---XR-AAI--</tag>
+<tag>
+<AM lemma="rozumět" src="auto" recommended="1">VpYS---XR-AAI--</AM>
+<AM lemma="rozumět" src="manual" selected="1">VpYS----R-AAI--</AM>
+</tag>
 </m>
 <m id="m914-d-id73849">
 <w.rf>

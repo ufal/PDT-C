@@ -3777,7 +3777,10 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>měly</form>
-<tag lemma="mít" src="auto" recommended="1">VpTP---XR-AAI--</tag>
+<tag>
+<AM lemma="mít" src="auto" recommended="1">VpTP---XR-AAI--</AM>
+<AM lemma="mít" src="manual" selected="1">VpTP----R-AAI--</AM>
+</tag>
 </m>
 <m id="m062-d1t3006-3">
 <w.rf>
@@ -3858,7 +3861,10 @@
 <LM>w#w-d1t3009-4</LM>
 </w.rf>
 <form>srocovali</form>
-<tag lemma="srocovat_:T" src="auto" recommended="1">VpMP---XR-AA---</tag>
+<tag>
+<AM lemma="srocovat_:T" src="auto" recommended="1">VpMP---XR-AA---</AM>
+<AM lemma="srocovat" src="manual" selected="1">VpMP----R-AAI--</AM>
+</tag>
 </m>
 <m id="m062-911-921">
 <w.rf>

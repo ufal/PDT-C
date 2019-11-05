@@ -4101,6 +4101,7 @@
 <tag>
 <AM lemma="Poloněmec">X@-------------</AM>
 <AM lemma="Poloněmec" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Poloněmec_;E" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m994-d1e555-x5-1975">

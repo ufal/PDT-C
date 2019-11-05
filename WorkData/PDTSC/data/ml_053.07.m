@@ -489,7 +489,7 @@
 <form>Malgrat</form>
 <tag>
 <AM lemma="Malgrat_;G">NNIS4-----A----</AM>
-<AM lemma="Malgrat_;G" src="auto" recommended="1">NNIS1-----A----</AM>
+<AM lemma="Malgrat_;G" src="auto" recommended="1" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m053-199-209">

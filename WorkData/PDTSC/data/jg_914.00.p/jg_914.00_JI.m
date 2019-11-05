@@ -685,7 +685,7 @@
 <AM lemma="Tulcea_;G">NNFP1-----A---1</AM>
 <AM lemma="Tulcea_;G">NNFP4-----A---1</AM>
 <AM lemma="Tulcea_;G">NNFP5-----A---1</AM>
-<AM lemma="Tulcea_;G" src="auto" recommended="1">NNFS2-----A---1</AM>
+<AM lemma="Tulcea_;G" src="auto" recommended="1" selected="1">NNFS2-----A---1</AM>
 </tag>
 </m>
 <m id="m914-d-id56228">

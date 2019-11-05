@@ -3142,7 +3142,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>ruinu</form>
-<tag lemma="ruina" src="auto" recommended="1">NNFS4-----A----</tag>
+<tag lemma="ruina" src="auto" recommended="1" selected="1">NNFS4-----A----</tag>
 </m>
 <m id="m147-d1t1416-3">
 <w.rf>

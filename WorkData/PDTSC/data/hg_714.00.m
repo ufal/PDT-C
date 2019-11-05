@@ -1781,7 +1781,7 @@
 <AM lemma="tamější">AANP5----1A----</AM>
 <AM lemma="tamější">AANS4----1A----</AM>
 <AM lemma="tamější">AANS5----1A----</AM>
-<AM lemma="tamější" src="auto" recommended="1">AANS1----1A----</AM>
+<AM lemma="tamější" src="auto" recommended="1" selected="1">AANS1----1A----</AM>
 </tag>
 </m>
 <m id="m714-d1t59-8">

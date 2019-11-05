@@ -683,7 +683,7 @@
 <AM lemma="obývák">NNIP4-----A----</AM>
 <AM lemma="obývák">NNIP5-----A----</AM>
 <AM lemma="obývák">NNIP7-----A----</AM>
-<AM lemma="obývák" src="auto" recommended="1">NNIP1-----A----</AM>
+<AM lemma="obývák" src="auto" recommended="1" selected="1">NNIP1-----A----</AM>
 </tag>
 </m>
 <m id="m005-d-id104754">

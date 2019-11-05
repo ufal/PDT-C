@@ -1971,7 +1971,7 @@
 <AM lemma="jazyk">NNIP1-----A----</AM>
 <AM lemma="jazyk">NNIP5-----A----</AM>
 <AM lemma="jazyk">NNIP7-----A----</AM>
-<AM lemma="jazyk" src="auto" recommended="1">NNIP4-----A----</AM>
+<AM lemma="jazyk" src="auto" recommended="1" selected="1">NNIP4-----A----</AM>
 </tag>
 </m>
 <m id="m106-d-id105264-punct">
@@ -3439,7 +3439,7 @@
 <form_change>spell</form_change>
 <form>Modiglianiho</form>
 <tag>
-<AM lemma="Modigliani_;S">NNMS4-----A----</AM>
+<AM lemma="Modigliani_;S" selected="1">NNMS4-----A----</AM>
 <AM lemma="Modigliani_;S" src="auto" recommended="1">NNMS2-----A----</AM>
 </tag>
 </m>

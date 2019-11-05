@@ -2870,7 +2870,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>vězeň</form>
-<tag lemma="vězeň" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag lemma="vězeň" src="auto" recommended="1" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m794-d1t857-25">
 <w.rf>

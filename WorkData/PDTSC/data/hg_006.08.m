@@ -1410,7 +1410,7 @@
 <form>kultuře</form>
 <tag>
 <AM lemma="kultura">NNFS6-----A----</AM>
-<AM lemma="kultura" src="auto" recommended="1">NNFS3-----A----</AM>
+<AM lemma="kultura" src="auto" recommended="1" selected="1">NNFS3-----A----</AM>
 </tag>
 </m>
 <m id="m006-d-id140640">
@@ -2504,7 +2504,7 @@
 <form>Už</form>
 <tag>
 <AM lemma="už-2">TT-------------</AM>
-<AM lemma="už-1" src="auto" recommended="1">Db-------------</AM>
+<AM lemma="už-1" src="auto" recommended="1" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m006-d1t2874-4">

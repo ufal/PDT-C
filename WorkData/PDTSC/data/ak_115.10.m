@@ -511,6 +511,7 @@
 <tag>
 <AM lemma="au_^(au-pair)">A2--------A----</AM>
 <AM lemma="au" src="auto" recommended="1">II-------------</AM>
+<AM lemma="au-2_^(au-pair)" src="manual" selected="1">S2--------A----</AM>
 </tag>
 <comment>
 <LM type="Other">
@@ -608,6 +609,7 @@
 <tag>
 <AM lemma="au_^(au-pair)">A2--------A----</AM>
 <AM lemma="au" src="auto" recommended="1">II-------------</AM>
+<AM lemma="au-2_^(au-pair)" src="manual" selected="1">S2--------A----</AM>
 </tag>
 <comment>
 <LM type="Other">
@@ -748,7 +750,7 @@
 <form>pamětihodností</form>
 <tag>
 <AM lemma="pamětihodnost_^(*3ý)">NNFS7-----A----</AM>
-<AM lemma="pamětihodnost_^(*3ý)" src="auto" recommended="1">NNFP2-----A----</AM>
+<AM lemma="pamětihodnost_^(*3ý)" src="auto" recommended="1" selected="1">NNFP2-----A----</AM>
 </tag>
 </m>
 <m id="m115-d1t1508-31">
@@ -2989,7 +2991,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>exemplářů</form>
-<tag lemma="exemplář" src="auto" recommended="1">NNIP2-----A----</tag>
+<tag lemma="exemplář" src="auto" recommended="1" selected="1">NNIP2-----A----</tag>
 </m>
 <m id="m115-d-id160252-punct">
 <w.rf>

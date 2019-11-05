@@ -25,7 +25,7 @@
 <form>mně</form>
 <tag>
 <AM lemma="já">PP-S6--1-------</AM>
-<AM lemma="já" src="auto" recommended="1">PP-S3--1-------</AM>
+<AM lemma="já" src="auto" recommended="1" selected="1">PP-S3--1-------</AM>
 </tag>
 </m>
 <m id="m106-d1t1422-10">
@@ -654,6 +654,7 @@
 <AM lemma="rock">NNIS1-----A----</AM>
 <AM lemma="rock">NNIS4-----A----</AM>
 <AM lemma="rock_^(rock'n'roll)" src="auto" recommended="1">NNXXX-----A----</AM>
+<AM lemma="rock-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 <comment>
 <LM type="Other">
@@ -846,6 +847,7 @@
 <AM lemma="rock">NNIS4-----A----</AM>
 <AM lemma="rock_^(rock'n'roll)">NNXXX-----A----</AM>
 <AM lemma="rock" src="auto" recommended="1">NNIS1-----A----</AM>
+<AM lemma="rock-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 <comment>
 <LM type="Other">

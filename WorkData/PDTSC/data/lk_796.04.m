@@ -5531,7 +5531,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>něčem</form>
-<tag lemma="něco" src="auto" recommended="1">PZ--6----------</tag>
+<tag lemma="něco" src="auto" recommended="1" selected="1">PZ--6----------</tag>
 </m>
 <m id="m796-id61913-20">
 <w.rf>

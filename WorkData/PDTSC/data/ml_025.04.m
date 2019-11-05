@@ -1725,7 +1725,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>Miloš</form>
-<tag lemma="Miloš_;Y" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag lemma="Miloš_;Y" src="auto" recommended="1" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m025-d1t1737-4">
 <w.rf>

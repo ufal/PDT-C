@@ -3162,7 +3162,10 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>rozzlobilo</form>
-<tag lemma="rozzlobit" src="auto" recommended="1">VpNS---XR-AAP--</tag>
+<tag>
+<AM lemma="rozzlobit" src="auto" recommended="1">VpNS---XR-AAP--</AM>
+<AM lemma="rozzlobit" src="manual" selected="1">VpNS----R-AAP--</AM>
+</tag>
 </m>
 <m id="m941-165-267">
 <w.rf>
@@ -3835,7 +3838,7 @@
 <AM lemma="maminka">NNFP1-----A----</AM>
 <AM lemma="maminka">NNFP4-----A----</AM>
 <AM lemma="maminka">NNFP5-----A----</AM>
-<AM lemma="maminka" src="auto" recommended="1">NNFS2-----A----</AM>
+<AM lemma="maminka" src="auto" recommended="1" selected="1">NNFS2-----A----</AM>
 </tag>
 </m>
 <m id="m941-d1t1552-17">
@@ -6593,7 +6596,10 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>rozzlobilo</form>
-<tag lemma="rozzlobit" src="auto" recommended="1">VpNS---XR-AAP--</tag>
+<tag>
+<AM lemma="rozzlobit" src="auto" recommended="1">VpNS---XR-AAP--</AM>
+<AM lemma="rozzlobit" src="manual" selected="1">VpNS----R-AAP--</AM>
+</tag>
 </m>
 <m id="m941-d-id112288">
 <w.rf>

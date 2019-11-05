@@ -698,7 +698,10 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>vyfotografován</form>
-<tag lemma="vyfotografovat" src="auto" recommended="1">VsYS---XX-APP--</tag>
+<tag>
+<AM lemma="vyfotografovat" src="auto" recommended="1">VsYS---XX-APP--</AM>
+<AM lemma="vyfotografovat" src="manual" selected="1">VsYS----X-APP--</AM>
+</tag>
 </m>
 <m id="m060-d1t519-3">
 <w.rf>

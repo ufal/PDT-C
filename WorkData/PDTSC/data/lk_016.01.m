@@ -294,7 +294,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>fotka</form>
-<tag lemma="fotka" src="auto" recommended="1">NNFS1-----A----</tag>
+<tag lemma="fotka" src="auto" recommended="1" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m016-d1t444-5">
 <w.rf>
@@ -1097,7 +1097,7 @@
 <AM lemma="vršek">NNIS2-----A----</AM>
 <AM lemma="vršek">NNIS3-----A----</AM>
 <AM lemma="vršek">NNIS5-----A----</AM>
-<AM lemma="vršek" src="auto" recommended="1">NNIS6-----A----</AM>
+<AM lemma="vršek" src="auto" recommended="1" selected="1">NNIS6-----A----</AM>
 </tag>
 </m>
 <m id="m016-d1t522-1">
@@ -1676,7 +1676,10 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>nebyly</form>
-<tag lemma="být" src="auto" recommended="1">VpTP---XR-NAI--</tag>
+<tag>
+<AM lemma="být" src="auto" recommended="1">VpTP---XR-NAI--</AM>
+<AM lemma="být" src="manual" selected="1">VpTP----R-NAI--</AM>
+</tag>
 </m>
 <m id="m016-d1t572-1">
 <w.rf>
@@ -4057,7 +4060,7 @@
 <form>ještě</form>
 <tag>
 <AM lemma="ještě-2">TT-------------</AM>
-<AM lemma="ještě-1" src="auto" recommended="1">Db-------------</AM>
+<AM lemma="ještě-1" src="auto" recommended="1" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m016-d1e758-x2-1952">

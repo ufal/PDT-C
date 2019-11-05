@@ -2037,7 +2037,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>králíkárna</form>
-<tag lemma="králíkárna" src="auto" recommended="1">NNFS1-----A----</tag>
+<tag lemma="králíkárna" src="auto" recommended="1" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m129-d-id119592-punct">
 <w.rf>

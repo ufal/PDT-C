@@ -2506,7 +2506,7 @@
 <AM lemma="příští">AAIP1----1A----</AM>
 <AM lemma="příští">AAIP4----1A----</AM>
 <AM lemma="příští">AAIP5----1A----</AM>
-<AM lemma="příští">AAIS4----1A----</AM>
+<AM lemma="příští" selected="1">AAIS4----1A----</AM>
 <AM lemma="příští">AAIS5----1A----</AM>
 <AM lemma="příští">AAMP1----1A----</AM>
 <AM lemma="příští">AAMP4----1A----</AM>

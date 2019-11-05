@@ -1016,6 +1016,7 @@
 <tag>
 <AM lemma="Vagonlin">X@-------------</AM>
 <AM lemma="Vagonlina" src="auto" recommended="1">NNFP2-----A----</AM>
+<AM lemma="Vagonlin-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m991-d1t1323-11">
@@ -4196,7 +4197,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>Brumlík</form>
-<tag lemma="Brumlík_;S" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag lemma="Brumlík_;S" src="auto" recommended="1" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m991-d1t1474-3">
 <w.rf>

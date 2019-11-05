@@ -4120,7 +4120,10 @@
 <LM>w#w-d1t1506-4</LM>
 </w.rf>
 <form>přijely</form>
-<tag lemma="přijet" src="auto" recommended="1">VpTP---XR-AAP--</tag>
+<tag>
+<AM lemma="přijet" src="auto" recommended="1">VpTP---XR-AAP--</AM>
+<AM lemma="přijet" src="manual" selected="1">VpTP----R-AAP--</AM>
+</tag>
 </m>
 <m id="m051-d-id90016-punct">
 <w.rf>
@@ -4189,7 +4192,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>moct</form>
-<tag lemma="moci" src="auto" recommended="1">Vf--------A-I-1</tag>
+<tag lemma="moci" src="auto" recommended="1" selected="1">Vf--------A-I-1</tag>
 </m>
 <m id="m051-d1t1511-8">
 <w.rf>

@@ -2653,7 +2653,10 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>chodily</form>
-<tag lemma="chodit" src="auto" recommended="1">VpTP---XR-AAI--</tag>
+<tag>
+<AM lemma="chodit" src="auto" recommended="1">VpTP---XR-AAI--</AM>
+<AM lemma="chodit" src="manual" selected="1">VpTP----R-AAI--</AM>
+</tag>
 </m>
 <m id="m037-d1t536-5">
 <w.rf>

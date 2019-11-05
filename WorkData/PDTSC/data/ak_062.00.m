@@ -635,7 +635,7 @@
 <AM lemma="on-1">P5FS3--3-------</AM>
 <AM lemma="on-1">P5FS4--3------6</AM>
 <AM lemma="on-1">P5FS7--3-------</AM>
-<AM lemma="on-1" src="auto" recommended="1">P5FS6--3-------</AM>
+<AM lemma="on-1" src="auto" recommended="1" selected="1">P5FS6--3-------</AM>
 </tag>
 </m>
 <m id="m062-d1t56-5">

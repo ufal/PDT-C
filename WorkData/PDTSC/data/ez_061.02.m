@@ -834,7 +834,7 @@
 <tag>
 <AM lemma="můj_^(přivlast.)">PSFS4-S1-------</AM>
 <AM lemma="můj_^(přivlast.)">PSMP5-S1-------</AM>
-<AM lemma="můj_^(přivlast.)" src="auto" recommended="1">PSMP1-S1-------</AM>
+<AM lemma="můj_^(přivlast.)" src="auto" recommended="1" selected="1">PSMP1-S1-------</AM>
 </tag>
 </m>
 <m id="m061-d1t722-2">
@@ -3140,7 +3140,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>vysloveně</form>
-<tag lemma="vysloveně_^(*1ý)" src="auto" recommended="1">Dg-------1A----</tag>
+<tag lemma="vysloveně_^(*1ý)" src="auto" recommended="1" selected="1">Dg-------1A----</tag>
 </m>
 <m id="m061-d1t867-1">
 <w.rf>
@@ -4636,7 +4636,7 @@
 <AM lemma="raný">AAMP2----1A----</AM>
 <AM lemma="raný">AAMP6----1A----</AM>
 <AM lemma="raný">AANP6----1A----</AM>
-<AM lemma="raný" src="auto" recommended="1">AANP2----1A----</AM>
+<AM lemma="raný" src="auto" recommended="1" selected="1">AANP2----1A----</AM>
 </tag>
 </m>
 <m id="m061-d1t947-4">

@@ -419,7 +419,7 @@
 <form>ne</form>
 <tag>
 <AM lemma="neděle">NNFXX-----A---8</AM>
-<AM lemma="ne" src="auto" recommended="1">TT-------------</AM>
+<AM lemma="ne" src="auto" recommended="1" selected="1">TT-------------</AM>
 </tag>
 <comment>
 <LM type="Other">

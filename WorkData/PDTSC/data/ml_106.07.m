@@ -2780,7 +2780,7 @@
 <form>přátelé</form>
 <tag>
 <AM lemma="přítel">NNMP5-----A----</AM>
-<AM lemma="přítel" src="auto" recommended="1">NNMP1-----A----</AM>
+<AM lemma="přítel" src="auto" recommended="1" selected="1">NNMP1-----A----</AM>
 </tag>
 </m>
 <m id="m106-d-id125620-punct">

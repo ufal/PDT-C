@@ -4712,7 +4712,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>Rommel</form>
-<tag lemma="Rommel_;S" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag lemma="Rommel_;S" src="auto" recommended="1" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m983-d1t322-9">
 <w.rf>
@@ -4808,7 +4808,7 @@
 <form>Rommela</form>
 <tag>
 <AM lemma="Rommel_;S">NNMS2-----A----</AM>
-<AM lemma="Rommel_;S" src="auto" recommended="1">NNMS4-----A----</AM>
+<AM lemma="Rommel_;S" src="auto" recommended="1" selected="1">NNMS4-----A----</AM>
 </tag>
 </m>
 <m id="m983-d1t328-4">
@@ -5187,7 +5187,7 @@
 <form>Rommela</form>
 <tag>
 <AM lemma="Rommel_;S">NNMS2-----A----</AM>
-<AM lemma="Rommel_;S" src="auto" recommended="1">NNMS4-----A----</AM>
+<AM lemma="Rommel_;S" src="auto" recommended="1" selected="1">NNMS4-----A----</AM>
 </tag>
 </m>
 <m id="m983-d-id65136">

@@ -3253,7 +3253,7 @@
 </w.rf>
 <form>na</form>
 <tag>
-<AM lemma="na-1" src="auto">RR--4----------</AM>
+<AM lemma="na-1" src="auto" selected="1">RR--4----------</AM>
 <AM lemma="na-1" src="auto" recommended="1">RR--6----------</AM>
 <AM lemma="na-2" src="auto">II-------------</AM>
 </tag>
@@ -3268,7 +3268,7 @@
 <AM lemma="pouť">NNFP1-----A----</AM>
 <AM lemma="pouť">NNFP5-----A----</AM>
 <AM lemma="pouť">NNFS2-----A----</AM>
-<AM lemma="pouť" src="auto" recommended="1">NNFP4-----A----</AM>
+<AM lemma="pouť" src="auto" recommended="1" selected="1">NNFP4-----A----</AM>
 </tag>
 </m>
 <m id="m028-d-id118116-punct">
@@ -4380,7 +4380,7 @@
 <AM lemma="pouť">NNFP4-----A----</AM>
 <AM lemma="pouť">NNFP5-----A----</AM>
 <AM lemma="pouť">NNFS2-----A----</AM>
-<AM lemma="pouť" src="auto" recommended="1">NNFP1-----A----</AM>
+<AM lemma="pouť" src="auto" recommended="1" selected="1">NNFP1-----A----</AM>
 </tag>
 </m>
 <m id="m028-d-id120955-punct">

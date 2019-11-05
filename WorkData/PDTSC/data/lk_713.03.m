@@ -2158,7 +2158,10 @@
 <LM>w#w-id60980-14</LM>
 </w.rf>
 <form>nosily</form>
-<tag lemma="nosit" src="auto" recommended="1">VpTP---XR-AAI--</tag>
+<tag>
+<AM lemma="nosit" src="auto" recommended="1">VpTP---XR-AAI--</AM>
+<AM lemma="nosit" src="manual" selected="1">VpTP----R-AAI--</AM>
+</tag>
 </m>
 <m id="m713-id60001-x36-6001">
 <w.rf>
@@ -2179,7 +2182,10 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>podávaly</form>
-<tag lemma="podávat_^(něco_[někomu]_[někam])_(*4at)" src="auto" recommended="1">VpTP---XR-AAI--</tag>
+<tag>
+<AM lemma="podávat_^(něco_[někomu]_[někam])_(*4at)" src="auto" recommended="1">VpTP---XR-AAI--</AM>
+<AM lemma="podávat_^(něco_[někomu]_[někam])_(*4at)" src="manual" selected="1">VpTP----R-AAI--</AM>
+</tag>
 </m>
 <m id="m713-id60001-x36-6003">
 <w.rf>
@@ -5063,7 +5069,7 @@
 <form>Belsen</form>
 <tag>
 <AM lemma="Belsen_;G">NNIS4-----A----</AM>
-<AM lemma="Belsen_;G" src="auto" recommended="1">NNIS1-----A----</AM>
+<AM lemma="Belsen_;G" src="auto" recommended="1" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m713-d-id100292">
@@ -5091,6 +5097,7 @@
 <tag>
 <AM lemma="Stadt_;G" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Stadt_;G" src="auto">NNIS4-----A----</AM>
+<AM lemma="Stadt-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 </s>

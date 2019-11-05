@@ -2889,7 +2889,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>bratříček</form>
-<tag lemma="bratříček" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag lemma="bratříček" src="auto" recommended="1" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m027-d1e972-x2-452">
 <w.rf>
@@ -3364,7 +3364,7 @@
 <AM lemma="nějaký">PZYP4---------6</AM>
 <AM lemma="nějaký">PZYS1----------</AM>
 <AM lemma="nějaký">PZYS5----------</AM>
-<AM lemma="nějaký" src="auto" recommended="1">PZIS4----------</AM>
+<AM lemma="nějaký" src="auto" recommended="1" selected="1">PZIS4----------</AM>
 </tag>
 </m>
 <m id="m027-d1t993-4">
@@ -3428,6 +3428,7 @@
 <AM lemma="vyplítaný_^(*2t)">AANS4----1A---6</AM>
 <AM lemma="vyplítaný_^(*2t)">AANS5----1A---6</AM>
 <AM lemma="vyplítaný_^(*2t)" src="auto" recommended="1">AAIS4----1A----</AM>
+<AM lemma="vyplítaný_,s_^(^DD**vyplétat)_(*2t)" src="manual" selected="1">AAIS4----1A----</AM>
 </tag>
 </m>
 <m id="m027-d1t993-5">

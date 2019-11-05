@@ -1597,7 +1597,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>takhle</form>
-<tag lemma="takhle" src="auto" recommended="1">Db-------------</tag>
+<tag lemma="takhle" src="auto" recommended="1" selected="1">Db-------------</tag>
 </m>
 <m id="m148-d1t940-8">
 <w.rf>
@@ -3661,7 +3661,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>1150</form>
-<tag lemma="1150" src="auto" recommended="1">C=-------------</tag>
+<tag lemma="1150" src="auto" recommended="1" selected="1">C=-------------</tag>
 </m>
 <m id="m148-d1t1098-3">
 <w.rf>
@@ -3723,7 +3723,7 @@
 <LM>w#w-d1t1109-3</LM>
 </w.rf>
 <form>traktorů</form>
-<tag lemma="traktor" src="auto" recommended="1">NNIP2-----A----</tag>
+<tag lemma="traktor" src="auto" recommended="1" selected="1">NNIP2-----A----</tag>
 </m>
 <m id="m148-d-id84687-punct">
 <w.rf>
@@ -3806,7 +3806,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>1425</form>
-<tag lemma="1425" src="auto" recommended="1">C=-------------</tag>
+<tag lemma="1425" src="auto" recommended="1" selected="1">C=-------------</tag>
 </m>
 <m id="m148-d1t1111-8">
 <w.rf>
@@ -4024,7 +4024,7 @@
 <AM lemma="hrozný">AANP5----1A---6</AM>
 <AM lemma="hrozný">AANS4----1A----</AM>
 <AM lemma="hrozný">AANS5----1A----</AM>
-<AM lemma="hrozný" src="auto" recommended="1">AANS1----1A----</AM>
+<AM lemma="hrozný" src="auto" recommended="1" selected="1">AANS1----1A----</AM>
 </tag>
 </m>
 <m id="m148-d-m-d1e1061-x4-punct-punct">
@@ -5214,7 +5214,7 @@
 <AM lemma="kolektivizace">NNFP1-----A----</AM>
 <AM lemma="kolektivizace">NNFP4-----A----</AM>
 <AM lemma="kolektivizace">NNFP5-----A----</AM>
-<AM lemma="kolektivizace">NNFS2-----A----</AM>
+<AM lemma="kolektivizace" selected="1">NNFS2-----A----</AM>
 <AM lemma="kolektivizace">NNFS5-----A----</AM>
 <AM lemma="kolektivizace" src="auto" recommended="1">NNFS1-----A----</AM>
 </tag>

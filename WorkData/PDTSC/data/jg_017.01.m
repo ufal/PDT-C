@@ -2779,7 +2779,7 @@
 <form>na</form>
 <tag>
 <AM lemma="na-1" src="auto" recommended="1">RR--4----------</AM>
-<AM lemma="na-1" src="auto">RR--6----------</AM>
+<AM lemma="na-1" src="auto" selected="1">RR--6----------</AM>
 <AM lemma="na-2" src="auto">II-------------</AM>
 </tag>
 </m>
@@ -2790,7 +2790,7 @@
 <form>sjezdovce</form>
 <tag>
 <AM lemma="sjezdovka">NNFS3-----A----</AM>
-<AM lemma="sjezdovka" src="auto" recommended="1">NNFS6-----A----</AM>
+<AM lemma="sjezdovka" src="auto" recommended="1" selected="1">NNFS6-----A----</AM>
 </tag>
 </m>
 <m id="m017-d-id70439-punct">
@@ -2864,7 +2864,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>permanentku</form>
-<tag lemma="permanentka" src="auto" recommended="1">NNFS4-----A----</tag>
+<tag lemma="permanentka" src="auto" recommended="1" selected="1">NNFS4-----A----</tag>
 </m>
 <m id="m017-d-id70575-punct">
 <w.rf>

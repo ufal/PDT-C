@@ -4567,7 +4567,7 @@
 <form>době</form>
 <tag>
 <AM lemma="doba">NNFS3-----A----</AM>
-<AM lemma="doba" src="auto" recommended="1">NNFS6-----A----</AM>
+<AM lemma="doba" src="auto" recommended="1" selected="1">NNFS6-----A----</AM>
 </tag>
 </m>
 <m id="m113-d1t453-5">

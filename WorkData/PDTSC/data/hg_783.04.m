@@ -2283,7 +2283,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>poněvadž</form>
-<tag lemma="poněvadž" src="auto" recommended="1">J,-------------</tag>
+<tag lemma="poněvadž" src="auto" recommended="1" selected="1">J,-------------</tag>
 </m>
 <m id="m783-d1t1645-4">
 <w.rf>
@@ -3717,7 +3717,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>tímhle</form>
-<tag lemma="tenhle" src="auto" recommended="1">PDZS7----------</tag>
+<tag lemma="tenhle" src="auto" recommended="1" selected="1">PDZS7----------</tag>
 </m>
 <m id="m783-d1e1740-x2-15187">
 <w.rf>

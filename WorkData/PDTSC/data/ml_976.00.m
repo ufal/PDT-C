@@ -2557,7 +2557,7 @@
 <tag>
 <AM lemma="západní">AAFP3----1A----</AM>
 <AM lemma="západní">AAIP3----1A----</AM>
-<AM lemma="západní">AAIS6----1A----</AM>
+<AM lemma="západní" selected="1">AAIS6----1A----</AM>
 <AM lemma="západní">AAIS7----1A----</AM>
 <AM lemma="západní">AAMP3----1A----</AM>
 <AM lemma="západní">AAMS6----1A----</AM>

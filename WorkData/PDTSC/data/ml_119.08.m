@@ -906,7 +906,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>Udržujete</form>
-<tag lemma="udržovat" src="auto" recommended="1">VB-P---2P-AAI--</tag>
+<tag lemma="udržovat" src="auto" recommended="1" selected="1">VB-P---2P-AAI--</tag>
 </m>
 <m id="m119-d1t1659-2">
 <w.rf>

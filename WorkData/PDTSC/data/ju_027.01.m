@@ -3689,7 +3689,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>modistka</form>
-<tag lemma="modistka_^(*2a)" src="auto" recommended="1">NNFS1-----A----</tag>
+<tag lemma="modistka_^(*2a)" src="auto" recommended="1" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m027-d-id73898-punct">
 <w.rf>

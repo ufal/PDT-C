@@ -4439,7 +4439,7 @@
 <AM lemma="republika">NNFP1-----A----</AM>
 <AM lemma="republika">NNFP4-----A----</AM>
 <AM lemma="republika">NNFP5-----A----</AM>
-<AM lemma="republika" src="auto" recommended="1">NNFS2-----A----</AM>
+<AM lemma="republika" src="auto" recommended="1" selected="1">NNFS2-----A----</AM>
 </tag>
 </m>
 <m id="m016-920-926">

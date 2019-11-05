@@ -3514,7 +3514,7 @@
 <tag>
 <AM lemma="všechen">PLNS1----------</AM>
 <AM lemma="všechen">PLNS5----------</AM>
-<AM lemma="všechen" src="auto" recommended="1">PLNS4----------</AM>
+<AM lemma="všechen" src="auto" recommended="1" selected="1">PLNS4----------</AM>
 </tag>
 </m>
 <m id="m109-d1t1649-10">

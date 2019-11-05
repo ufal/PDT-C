@@ -2872,7 +2872,10 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>nerozuměla</form>
-<tag lemma="rozumět" src="auto" recommended="1">VpQW---XR-NAI--</tag>
+<tag>
+<AM lemma="rozumět" src="auto" recommended="1">VpQW---XR-NAI--</AM>
+<AM lemma="rozumět" src="manual" selected="1">VpQW----R-NAI--</AM>
+</tag>
 </m>
 <m id="m135-d1e2034-x3-712">
 <w.rf>

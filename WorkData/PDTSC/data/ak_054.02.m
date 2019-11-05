@@ -2516,7 +2516,7 @@
 <AM lemma="poslední">AANS1----1A----</AM>
 <AM lemma="poslední">AANS4----1A----</AM>
 <AM lemma="poslední">AANS5----1A----</AM>
-<AM lemma="poslední" src="auto" recommended="1">AAFS2----1A----</AM>
+<AM lemma="poslední" src="auto" recommended="1" selected="1">AAFS2----1A----</AM>
 </tag>
 </m>
 <m id="m054-d1t614-10">

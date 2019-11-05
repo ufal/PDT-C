@@ -1929,7 +1929,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>Vzpomenete</form>
-<tag lemma="vzpomenout" src="auto" recommended="1">VB-P---2P-AAP--</tag>
+<tag lemma="vzpomenout" src="auto" recommended="1" selected="1">VB-P---2P-AAP--</tag>
 </m>
 <m id="m031-d1t3632-2">
 <w.rf>

@@ -4950,6 +4950,7 @@
 <tag>
 <AM lemma="tu">Db-------------</AM>
 <AM lemma="ten" src="auto" recommended="1">PDFS4----------</AM>
+<AM lemma="TU-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 <comment>
 <LM type="Other">
@@ -5404,7 +5405,7 @@
 <form>L</form>
 <tag>
 <AM lemma="L-3`50">C}-------------</AM>
-<AM lemma="L-88_:B">NNXXX-----A----</AM>
+<AM lemma="L-88_:B" selected="1">NNXXX-----A----</AM>
 <AM lemma="l-33_^(označení_pomocí_písmene)">NNNXX-----A----</AM>
 <AM lemma="l-77_,t">F%-------------</AM>
 <AM lemma="l-88_:B">NNXXX-----A----</AM>

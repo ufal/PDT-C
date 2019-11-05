@@ -4624,7 +4624,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>Habrman</form>
-<tag lemma="Habrman_;S" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag lemma="Habrman_;S" src="auto" recommended="1" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m953-d1t348-4">
 <w.rf>

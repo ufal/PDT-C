@@ -2095,7 +2095,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>jste</form>
-<tag lemma="být" src="auto" recommended="1">VB-P---2P-AAI--</tag>
+<tag lemma="být" src="auto" recommended="1" selected="1">VB-P---2P-AAI--</tag>
 </m>
 <m id="m064-d1t1234-3">
 <w.rf>

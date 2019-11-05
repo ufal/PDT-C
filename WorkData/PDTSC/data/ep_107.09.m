@@ -6426,7 +6426,10 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>vybudovaly</form>
-<tag lemma="vybudovat" src="auto" recommended="1">VpTP---XR-AAP--</tag>
+<tag>
+<AM lemma="vybudovat" src="auto" recommended="1">VpTP---XR-AAP--</AM>
+<AM lemma="vybudovat" src="manual" selected="1">VpTP----R-AAP--</AM>
+</tag>
 </m>
 <m id="m107-d1t1856-12">
 <w.rf>

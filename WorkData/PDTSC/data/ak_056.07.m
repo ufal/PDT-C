@@ -2723,7 +2723,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>Výrut</form>
-<tag lemma="Výrut_;S" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag lemma="Výrut_;S" src="auto" recommended="1" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m056-d-m-d1e2155-x2-punct-punct">
 <w.rf>

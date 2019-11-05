@@ -2204,7 +2204,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>skromněji</form>
-<tag lemma="skromně_^(*1ý)" src="auto" recommended="1">Dg-------2A----</tag>
+<tag lemma="skromně_^(*1ý)" src="auto" recommended="1" selected="1">Dg-------2A----</tag>
 </m>
 <m id="m065-d1t1538-17">
 <w.rf>

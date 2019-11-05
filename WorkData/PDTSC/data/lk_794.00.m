@@ -3040,7 +3040,10 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>Vybírali</form>
-<tag lemma="vybírat" src="auto" recommended="1">VpMP---XR-AAI--</tag>
+<tag>
+<AM lemma="vybírat" src="auto" recommended="1">VpMP---XR-AAI--</AM>
+<AM lemma="vybírat" src="manual" selected="1">VpMP----R-AAI--</AM>
+</tag>
 </m>
 <m id="m794-d1t128-7">
 <w.rf>
@@ -6136,6 +6139,7 @@
 <tag>
 <AM lemma="Świętochłovic">X@-------------</AM>
 <AM lemma="Świętochłovice" src="auto" recommended="1">NNFS2-----A----</AM>
+<AM lemma="Świętochłovice_;G" src="manual" selected="1">NNFP2-----A----</AM>
 </tag>
 </m>
 <m id="m794-d-id67079">

@@ -1666,7 +1666,7 @@
 <AM lemma="Provence_;G">NNFS1-----A----</AM>
 <AM lemma="Provence_;G">NNFS2-----A----</AM>
 <AM lemma="Provence_;G">NNFS5-----A----</AM>
-<AM lemma="Provence_;G" src="auto" recommended="1">NNFXX-----A----</AM>
+<AM lemma="Provence_;G" src="auto" recommended="1" selected="1">NNFXX-----A----</AM>
 </tag>
 </m>
 <m id="m112-d1t1450-21">

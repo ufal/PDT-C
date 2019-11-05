@@ -3298,7 +3298,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>vydržet</form>
-<tag lemma="vydržet" src="auto" recommended="1">Vf--------A-P--</tag>
+<tag lemma="vydržet" src="auto" recommended="1" selected="1">Vf--------A-P--</tag>
 </m>
 <m id="m148-d1e1461-x3-207">
 <w.rf>
@@ -4632,7 +4632,10 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>dokončila</form>
-<tag lemma="dokončit" src="auto" recommended="1">VpQW---XR-AAP--</tag>
+<tag>
+<AM lemma="dokončit" src="auto" recommended="1">VpQW---XR-AAP--</AM>
+<AM lemma="dokončit" src="manual" selected="1">VpQW----R-AAP--</AM>
+</tag>
 </m>
 <m id="m148-325-327">
 <w.rf>

@@ -1242,7 +1242,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>Rommel</form>
-<tag lemma="Rommel_;S" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag lemma="Rommel_;S" src="auto" recommended="1" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m983-d1t500-3">
 <w.rf>
@@ -2527,7 +2527,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>Rommel</form>
-<tag lemma="Rommel_;S" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag lemma="Rommel_;S" src="auto" recommended="1" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m983-d1t616-4">
 <w.rf>
@@ -2564,7 +2564,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>Rommel</form>
-<tag lemma="Rommel_;S" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag lemma="Rommel_;S" src="auto" recommended="1" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m983-d1t633-2">
 <w.rf>
@@ -2768,7 +2768,8 @@
 <form>Maltézané</form>
 <tag>
 <AM lemma="Maltézané" src="auto">X@-------------</AM>
-<AM lemma="Maltézan_;E_,a_^(Malťan)" src="manual" selected="1">NNMP1-----A----</AM>
+<AM lemma="Maltézan_;E_,a_^(Malťan)" src="manual">NNMP1-----A----</AM>
+<AM lemma="Maltézan_;E" src="manual" selected="1">NNMP1-----A----</AM>
 </tag>
 </m>
 <m id="m983-d1t648-3">
@@ -3043,7 +3044,8 @@
 <form>Maltézanům</form>
 <tag>
 <AM lemma="Maltézanům" src="auto">X@-------------</AM>
-<AM lemma="Maltézan_;E_,a_^(Malťan)" src="manual" selected="1">NNMP3-----A----</AM>
+<AM lemma="Maltézan_;E_,a_^(Malťan)" src="manual">NNMP3-----A----</AM>
+<AM lemma="Maltézan_;E" src="manual" selected="1">NNMP3-----A----</AM>
 </tag>
 </m>
 <m id="m983-d1t654-5">
@@ -3063,7 +3065,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>Rommel</form>
-<tag lemma="Rommel_;S" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag lemma="Rommel_;S" src="auto" recommended="1" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m983-d1t654-4">
 <w.rf>

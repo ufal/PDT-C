@@ -4059,7 +4059,10 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>vyjížděly</form>
-<tag lemma="vyjíždět" src="auto" recommended="1">VpTP---XR-AAI--</tag>
+<tag>
+<AM lemma="vyjíždět" src="auto" recommended="1">VpTP---XR-AAI--</AM>
+<AM lemma="vyjíždět" src="manual" selected="1">VpTP----R-AAI--</AM>
+</tag>
 </m>
 <m id="m983-d1t1988-12">
 <w.rf>

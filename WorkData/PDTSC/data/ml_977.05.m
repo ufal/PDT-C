@@ -358,7 +358,10 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>neemigrovaly</form>
-<tag lemma="emigrovat" src="auto" recommended="1">VpTP---XR-NAB--</tag>
+<tag>
+<AM lemma="emigrovat" src="auto" recommended="1">VpTP---XR-NAB--</AM>
+<AM lemma="emigrovat" src="manual" selected="1">VpTP----R-NAB--</AM>
+</tag>
 </m>
 <m id="m977-id64052-x1-195">
 <w.rf>
@@ -2658,7 +2661,7 @@
 <AM lemma="přátelství" src="auto">NNNP2-----A----</AM>
 <AM lemma="přátelství" src="auto">NNNP4-----A----</AM>
 <AM lemma="přátelství" src="auto">NNNP5-----A----</AM>
-<AM lemma="přátelství" src="auto">NNNS1-----A----</AM>
+<AM lemma="přátelství" src="auto" selected="1">NNNS1-----A----</AM>
 <AM lemma="přátelství" src="auto">NNNS2-----A----</AM>
 <AM lemma="přátelství" src="auto">NNNS3-----A----</AM>
 <AM lemma="přátelství" src="auto" recommended="1">NNNS4-----A----</AM>
@@ -2689,7 +2692,7 @@
 <AM lemma="líbání_^(*3at)" src="auto">NNNP2-----A----</AM>
 <AM lemma="líbání_^(*3at)" src="auto">NNNP4-----A----</AM>
 <AM lemma="líbání_^(*3at)" src="auto">NNNP5-----A----</AM>
-<AM lemma="líbání_^(*3at)" src="auto">NNNS1-----A----</AM>
+<AM lemma="líbání_^(*3at)" src="auto" selected="1">NNNS1-----A----</AM>
 <AM lemma="líbání_^(*3at)" src="auto">NNNS2-----A----</AM>
 <AM lemma="líbání_^(*3at)" src="auto">NNNS3-----A----</AM>
 <AM lemma="líbání_^(*3at)" src="auto" recommended="1">NNNS4-----A----</AM>
@@ -2736,7 +2739,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>Jelcinem</form>
-<tag lemma="Jelcin_;S" src="auto" recommended="1">NNMS7-----A----</tag>
+<tag lemma="Jelcin_;S" src="auto" recommended="1" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m977-104-117">
 <w.rf>

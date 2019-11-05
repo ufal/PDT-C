@@ -733,7 +733,7 @@
 <AM lemma="pátý">CrNS1----------</AM>
 <AM lemma="pátý">CrNS4----------</AM>
 <AM lemma="pátý">CrNS5----------</AM>
-<AM lemma="pátý" src="auto" recommended="1">CrFS2----------</AM>
+<AM lemma="pátý" src="auto" recommended="1" selected="1">CrFS2----------</AM>
 </tag>
 </m>
 <m id="m124-d1t1338-24">

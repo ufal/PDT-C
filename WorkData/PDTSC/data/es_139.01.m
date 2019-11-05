@@ -4983,7 +4983,7 @@
 <AM lemma="abiturientský">AANS1----1A---6</AM>
 <AM lemma="abiturientský">AANS4----1A---6</AM>
 <AM lemma="abiturientský">AANS5----1A---6</AM>
-<AM lemma="abiturientský" src="auto" recommended="1">AAIS1----1A----</AM>
+<AM lemma="abiturientský" src="auto" recommended="1" selected="1">AAIS1----1A----</AM>
 </tag>
 </m>
 <m id="m139-d1t713-2">
@@ -5236,7 +5236,7 @@
 <tag>
 <AM lemma="ty">PP-P4--2-------</AM>
 <AM lemma="ty">PP-P6--2-------</AM>
-<AM lemma="ty" src="auto" recommended="1">PP-P2--2-------</AM>
+<AM lemma="ty" src="auto" recommended="1" selected="1">PP-P2--2-------</AM>
 </tag>
 </m>
 <m id="m139-d1t741-6">

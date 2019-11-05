@@ -2418,6 +2418,7 @@
 <tag>
 <AM lemma="Königsstuhl">X@-------------</AM>
 <AM lemma="Königsstuhl" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Königsstuhl_;G" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m128-d-id96304-punct">

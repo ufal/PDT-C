@@ -120,7 +120,7 @@
 <AM lemma="zámecký">AANP1----1A----</AM>
 <AM lemma="zámecký">AANP4----1A----</AM>
 <AM lemma="zámecký">AANP5----1A----</AM>
-<AM lemma="zámecký" src="auto" recommended="1">AAFS1----1A----</AM>
+<AM lemma="zámecký" src="auto" recommended="1" selected="1">AAFS1----1A----</AM>
 </tag>
 </m>
 <m id="m058-d1t876-5">

@@ -2321,7 +2321,7 @@
 <form_change>spell</form_change>
 <form>útky</form>
 <tag>
-<AM lemma="útek">NNIP4-----A----</AM>
+<AM lemma="útek" selected="1">NNIP4-----A----</AM>
 <AM lemma="útek">NNIP5-----A----</AM>
 <AM lemma="útek">NNIP7-----A----</AM>
 <AM lemma="útek" src="auto" recommended="1">NNIP1-----A----</AM>
@@ -2751,7 +2751,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>útků</form>
-<tag lemma="útek" src="auto" recommended="1">NNIP2-----A----</tag>
+<tag lemma="útek" src="auto" recommended="1" selected="1">NNIP2-----A----</tag>
 </m>
 <m id="m144-d1t761-20">
 <w.rf>

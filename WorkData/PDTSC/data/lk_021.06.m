@@ -599,7 +599,7 @@
 <form>jednoho</form>
 <tag>
 <AM lemma="jeden`1">ClZS2----------</AM>
-<AM lemma="jeden`1" src="auto" recommended="1">ClMS4----------</AM>
+<AM lemma="jeden`1" src="auto" recommended="1" selected="1">ClMS4----------</AM>
 </tag>
 </m>
 <m id="m021-d1t2061-7">
@@ -1660,7 +1660,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>dveřmi</form>
-<tag lemma="dveře" src="auto" recommended="1">NNFP7-----A----</tag>
+<tag lemma="dveře" src="auto" recommended="1" selected="1">NNFP7-----A----</tag>
 </m>
 <m id="m021-d1e2128-x3-260">
 <w.rf>

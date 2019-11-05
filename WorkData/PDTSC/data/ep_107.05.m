@@ -1583,9 +1583,9 @@
 </w.rf>
 <form>hodně</form>
 <tag>
-<AM lemma="hodně-1" src="auto" selected="1">Ca--X----------</AM>
+<AM lemma="hodně-1" src="auto">Ca--X----------</AM>
 <AM lemma="hodně-2_^(nezlobivý)_(*3ý-2)" src="auto" recommended="1">Dg-------1A----</AM>
-<AM lemma="hodně-3" src="auto">Dg-------1A----</AM>
+<AM lemma="hodně-3" src="auto" selected="1">Dg-------1A----</AM>
 </tag>
 </m>
 <m id="m107-d1t1085-12">
@@ -1641,7 +1641,7 @@
 <tag>
 <AM lemma="oba`2">ClFD7----------</AM>
 <AM lemma="oba`2">ClXP3----------</AM>
-<AM lemma="oba`2" src="auto" recommended="1">ClXP7----------</AM>
+<AM lemma="oba`2" src="auto" recommended="1" selected="1">ClXP7----------</AM>
 </tag>
 </m>
 <m id="m107-d1t1085-17">
@@ -6177,7 +6177,7 @@
 <AM lemma="krkonošský">AAMP6----1A----</AM>
 <AM lemma="krkonošský">AANP2----1A----</AM>
 <AM lemma="krkonošský">AANP6----1A----</AM>
-<AM lemma="krkonošský" src="auto" recommended="1">AAIP6----1A----</AM>
+<AM lemma="krkonošský" src="auto" recommended="1" selected="1">AAIP6----1A----</AM>
 </tag>
 </m>
 <m id="m107-d1t1191-26">

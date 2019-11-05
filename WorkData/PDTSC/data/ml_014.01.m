@@ -4986,7 +4986,7 @@
 <AM lemma="štědrý">AANS1----1A---6</AM>
 <AM lemma="štědrý">AANS4----1A---6</AM>
 <AM lemma="štědrý">AANS5----1A---6</AM>
-<AM lemma="štědrý" src="auto" recommended="1">AAIS4----1A----</AM>
+<AM lemma="štědrý" src="auto" recommended="1" selected="1">AAIS4----1A----</AM>
 </tag>
 </m>
 <m id="m014-d1t709-12">

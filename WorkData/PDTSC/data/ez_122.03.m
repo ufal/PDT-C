@@ -703,7 +703,7 @@
 <AM lemma="kamarádství">NNNS4-----A----</AM>
 <AM lemma="kamarádství">NNNS5-----A----</AM>
 <AM lemma="kamarádství">NNNS6-----A----</AM>
-<AM lemma="kamarádství" src="auto" recommended="1">NNNS1-----A----</AM>
+<AM lemma="kamarádství" src="auto" recommended="1" selected="1">NNNS1-----A----</AM>
 </tag>
 </m>
 <m id="m122-d-m-d1e711-x2-punct-punct">
@@ -2673,7 +2673,7 @@
 <AM lemma="zajímavý">AAFS5----1A----</AM>
 <AM lemma="zajímavý">AANP1----1A----</AM>
 <AM lemma="zajímavý">AANP5----1A----</AM>
-<AM lemma="zajímavý" src="auto" recommended="1">AANP4----1A----</AM>
+<AM lemma="zajímavý" src="auto" recommended="1" selected="1">AANP4----1A----</AM>
 </tag>
 </m>
 <m id="m122-d1t849-6">

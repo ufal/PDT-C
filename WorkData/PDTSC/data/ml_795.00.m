@@ -1371,6 +1371,7 @@
 <tag>
 <AM lemma="Frojnrajch">X@-------------</AM>
 <AM lemma="Frojnrajch" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Frojnrajch_;S" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m795-d1e29-x6-536">
@@ -4366,6 +4367,7 @@
 <tag>
 <AM lemma="postit">Vi-S---3--A-I-4</AM>
 <AM lemma="postit" src="auto" recommended="1">Vi-S---2--A-I--</AM>
+<AM lemma="post" src="manual" selected="1">NNMP1-----A---1</AM>
 </tag>
 </m>
 <m id="m795-d1e29-x15-184">
@@ -6268,7 +6270,7 @@
 <form>sem</form>
 <tag>
 <AM lemma="být">VB-S---1P-AAI-6</AM>
-<AM lemma="sem" src="auto" recommended="1">Db-------------</AM>
+<AM lemma="sem" src="auto" recommended="1" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m795-d1e29-x26-745">

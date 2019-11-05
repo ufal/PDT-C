@@ -1100,7 +1100,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>Caorle</form>
-<tag lemma="Caorle_;G" src="auto" recommended="1">NNXXX-----A----</tag>
+<tag lemma="Caorle_;G" src="auto" recommended="1" selected="1">NNXXX-----A----</tag>
 </m>
 <m id="m019-d1t443-2">
 <w.rf>
@@ -4524,7 +4524,7 @@
 <AM lemma="sklácení_^(*4tit)">NNNS4-----A----</AM>
 <AM lemma="sklácení_^(*4tit)">NNNS5-----A----</AM>
 <AM lemma="sklácení_^(*4tit)">NNNS6-----A----</AM>
-<AM lemma="sklácený_^(*4tit)" src="auto" recommended="1">AAMP1----1A----</AM>
+<AM lemma="sklácený_^(*4tit)" src="auto" recommended="1" selected="1">AAMP1----1A----</AM>
 </tag>
 </m>
 <m id="m019-d1t672-1">

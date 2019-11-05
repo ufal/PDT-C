@@ -3959,7 +3959,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>být</form>
-<tag lemma="být" src="auto" recommended="1">Vf--------A-I--</tag>
+<tag lemma="být" src="auto" recommended="1" selected="1">Vf--------A-I--</tag>
 <comment>
 <LM type="Other">
 <text>2v1: být ?</text>

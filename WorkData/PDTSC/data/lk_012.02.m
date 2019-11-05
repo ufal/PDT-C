@@ -5209,7 +5209,7 @@
 <tag>
 <AM lemma="patnáct`15">Cn-S4----------</AM>
 <AM lemma="patnáct`15">Cn-S5----------</AM>
-<AM lemma="patnáct`15" src="auto" recommended="1">Cn-S1----------</AM>
+<AM lemma="patnáct`15" src="auto" recommended="1" selected="1">Cn-S1----------</AM>
 </tag>
 </m>
 <m id="m012-d1t1194-7">

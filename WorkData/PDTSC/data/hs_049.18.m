@@ -2762,7 +2762,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>Pohořelicích</form>
-<tag lemma="Pohořelice_;G" src="auto" recommended="1">NNFP6-----A----</tag>
+<tag lemma="Pohořelice_;G" src="auto" recommended="1" selected="1">NNFP6-----A----</tag>
 </m>
 <m id="m049-d1t4628-7">
 <w.rf>
@@ -3101,7 +3101,7 @@
 <AM lemma="vyza">NNFP1-----A----</AM>
 <AM lemma="vyza">NNFP5-----A----</AM>
 <AM lemma="vyza">NNFS2-----A----</AM>
-<AM lemma="vyza" src="auto" recommended="1">NNFP4-----A----</AM>
+<AM lemma="vyza" src="auto" recommended="1" selected="1">NNFP4-----A----</AM>
 </tag>
 </m>
 <m id="m049-d1e4658-x2-568">

@@ -1696,7 +1696,7 @@
 <AM lemma="čtvrtý">CrNS1----------</AM>
 <AM lemma="čtvrtý">CrNS4----------</AM>
 <AM lemma="čtvrtý">CrNS5----------</AM>
-<AM lemma="čtvrtý" src="auto" recommended="1">CrFS6----------</AM>
+<AM lemma="čtvrtý" src="auto" recommended="1" selected="1">CrFS6----------</AM>
 </tag>
 </m>
 <m id="m039-d1t2535-5">
@@ -2139,7 +2139,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>čtyřikrát</form>
-<tag lemma="čtyřikrát`4" src="auto" recommended="1">Cv-------------</tag>
+<tag lemma="čtyřikrát`4" src="auto" recommended="1" selected="1">Cv-------------</tag>
 </m>
 <m id="m039-d1t2569-2">
 <w.rf>
@@ -2534,7 +2534,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>Čtyřikrát</form>
-<tag lemma="čtyřikrát`4" src="auto" recommended="1">Cv-------------</tag>
+<tag lemma="čtyřikrát`4" src="auto" recommended="1" selected="1">Cv-------------</tag>
 </m>
 <m id="m039-d1t2595-6">
 <w.rf>
@@ -2739,7 +2739,7 @@
 <AM lemma="hlaveň">NNFP4-----A----</AM>
 <AM lemma="hlaveň">NNFP5-----A----</AM>
 <AM lemma="hlaveň">NNFS2-----A----</AM>
-<AM lemma="hlavně_^(*1í)" src="auto" recommended="1">Dg-------1A----</AM>
+<AM lemma="hlavně_^(*1í)" src="auto" recommended="1" selected="1">Dg-------1A----</AM>
 </tag>
 </m>
 <m id="m039-d1t2612-3">
@@ -5627,7 +5627,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>dennodenně</form>
-<tag lemma="dennodenně_^(*1í)" src="auto" recommended="1">Dg-------1A----</tag>
+<tag lemma="dennodenně_^(*1í)" src="auto" recommended="1" selected="1">Dg-------1A----</tag>
 </m>
 <m id="m039-d1t2786-11">
 <w.rf>

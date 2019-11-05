@@ -2252,7 +2252,7 @@
 <AM lemma="zatravněný_^(*3it)">AANP1----1A----</AM>
 <AM lemma="zatravněný_^(*3it)">AANP4----1A----</AM>
 <AM lemma="zatravněný_^(*3it)">AANP5----1A----</AM>
-<AM lemma="zatravněný_^(*3it)" src="auto" recommended="1">AAFS1----1A----</AM>
+<AM lemma="zatravněný_^(*3it)" src="auto" recommended="1" selected="1">AAFS1----1A----</AM>
 </tag>
 </m>
 <m id="m044-242-250">

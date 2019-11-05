@@ -2977,7 +2977,7 @@
 <AM lemma="šťastný">AANP1----1A----</AM>
 <AM lemma="šťastný">AANP4----1A----</AM>
 <AM lemma="šťastný">AANP5----1A----</AM>
-<AM lemma="šťastný" src="auto" recommended="1">AAFS1----1A----</AM>
+<AM lemma="šťastný" src="auto" recommended="1" selected="1">AAFS1----1A----</AM>
 </tag>
 </m>
 <m id="m027-d-m-d1e1560-x2-punct-punct">
@@ -5457,7 +5457,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>Moravák</form>
-<tag lemma="Moravák_;E" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag lemma="Moravák_;E" src="auto" recommended="1" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m027-d1t1718-15">
 <w.rf>

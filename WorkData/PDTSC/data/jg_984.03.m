@@ -3566,7 +3566,7 @@
 <AM lemma="slušný">AANP5----2A----</AM>
 <AM lemma="slušný">AANS1----2A----</AM>
 <AM lemma="slušný">AANS5----2A----</AM>
-<AM lemma="slušný" src="auto" recommended="1">AANS4----2A----</AM>
+<AM lemma="slušný" src="auto" recommended="1" selected="1">AANS4----2A----</AM>
 </tag>
 </m>
 <m id="m984-d1t1222-9">

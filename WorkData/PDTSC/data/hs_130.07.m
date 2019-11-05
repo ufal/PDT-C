@@ -921,7 +921,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>ji</form>
-<tag lemma="on-1" src="auto" recommended="1">PPFS4--3-------</tag>
+<tag lemma="on-1" src="auto" recommended="1" selected="1">PPFS4--3-------</tag>
 </m>
 <m id="m130-d1t990-6">
 <w.rf>

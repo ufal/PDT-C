@@ -1136,8 +1136,9 @@
 <tag>
 <AM lemma="moc-1_^(nad_někým;_politická,_vojenská;_plná,...)" src="auto">NNFS1-----A----</AM>
 <AM lemma="moc-1_^(nad_někým;_politická,_vojenská;_plná,...)" src="auto" recommended="1">NNFS4-----A----</AM>
-<AM lemma="moc-2_^(mnoho_něčeho_[se_subst._v_gen.])" src="auto" selected="1">Ca--X----------</AM>
+<AM lemma="moc-2_^(mnoho_něčeho_[se_subst._v_gen.])" src="auto">Ca--X----------</AM>
 <AM lemma="moc-3_^(velmi,_ve_spojení_s_adj.,_př._moc_hezká)" src="auto">Db-------------</AM>
+<AM lemma="moc-3_^(moc_hezká,_moc_peněz)" src="manual" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m114-d1t1763-6">
@@ -1294,7 +1295,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>elektrárnu</form>
-<tag lemma="elektrárna" src="auto" recommended="1">NNFS4-----A----</tag>
+<tag lemma="elektrárna" src="auto" recommended="1" selected="1">NNFS4-----A----</tag>
 </m>
 <m id="m114-d1e1756-x2-1008">
 <w.rf>
@@ -2476,7 +2477,10 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>nastoupila</form>
-<tag lemma="nastoupit" src="auto" recommended="1">VpQW---XR-AAP--</tag>
+<tag>
+<AM lemma="nastoupit" src="auto" recommended="1">VpQW---XR-AAP--</AM>
+<AM lemma="nastoupit" src="manual" selected="1">VpQW----R-AAP--</AM>
+</tag>
 </m>
 <m id="m114-d1t1827-3">
 <w.rf>
@@ -6560,7 +6564,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>5150</form>
-<tag lemma="5150" src="auto" recommended="1">C=-------------</tag>
+<tag lemma="5150" src="auto" recommended="1" selected="1">C=-------------</tag>
 </m>
 <m id="m114-d1t1970-7">
 <w.rf>

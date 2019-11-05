@@ -4628,7 +4628,10 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>připravovali</form>
-<tag lemma="připravovat" src="auto" recommended="1">VpMP---XR-AAI--</tag>
+<tag>
+<AM lemma="připravovat" src="auto" recommended="1">VpMP---XR-AAI--</AM>
+<AM lemma="připravovat" src="manual" selected="1">VpMP----R-AAI--</AM>
+</tag>
 </m>
 <m id="m119-d1t1454-20">
 <w.rf>

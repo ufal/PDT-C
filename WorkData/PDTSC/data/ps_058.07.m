@@ -3851,7 +3851,10 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>musely</form>
-<tag lemma="muset" src="auto" recommended="1">VpTP---XR-AAI--</tag>
+<tag>
+<AM lemma="muset" src="auto" recommended="1">VpTP---XR-AAI--</AM>
+<AM lemma="muset" src="manual" selected="1">VpTP----R-AAI--</AM>
+</tag>
 </m>
 <m id="m058-d1t3457-6">
 <w.rf>

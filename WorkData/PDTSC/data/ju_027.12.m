@@ -2000,7 +2000,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>Pražáků</form>
-<tag lemma="Pražák_;E" src="auto" recommended="1">NNMP2-----A----</tag>
+<tag lemma="Pražák_;E" src="auto" recommended="1" selected="1">NNMP2-----A----</tag>
 </m>
 <m id="m027-d1t3226-9">
 <w.rf>
@@ -3446,7 +3446,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>ji</form>
-<tag lemma="on-1" src="auto" recommended="1">PPFS4--3-------</tag>
+<tag lemma="on-1" src="auto" recommended="1" selected="1">PPFS4--3-------</tag>
 </m>
 <m id="m027-d1t3270-19">
 <w.rf>

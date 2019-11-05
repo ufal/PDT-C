@@ -1490,7 +1490,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>vidět</form>
-<tag lemma="vidět" src="auto" recommended="1">Vf--------A-I--</tag>
+<tag lemma="vidět" src="auto" recommended="1" selected="1">Vf--------A-I--</tag>
 </m>
 <m id="m005-d-id138991">
 <w.rf>

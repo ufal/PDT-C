@@ -4971,7 +4971,7 @@
 <AM lemma="padesátý">CrMP2----------</AM>
 <AM lemma="padesátý">CrMP6----------</AM>
 <AM lemma="padesátý">CrNP2----------</AM>
-<AM lemma="padesátý" src="auto" recommended="1">CrNP6----------</AM>
+<AM lemma="padesátý" src="auto" recommended="1" selected="1">CrNP6----------</AM>
 </tag>
 </m>
 <m id="m039-d1t1114-6">

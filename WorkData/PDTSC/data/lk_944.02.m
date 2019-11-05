@@ -3664,7 +3664,7 @@
 <form>po</form>
 <tag>
 <AM lemma="po-1" src="auto" recommended="1">RR--4----------</AM>
-<AM lemma="po-1" src="auto">RR--6----------</AM>
+<AM lemma="po-1" src="auto" selected="1">RR--6----------</AM>
 <AM lemma="pondělí_:B" src="auto">NNNXX-----A---8</AM>
 </tag>
 </m>
@@ -3684,7 +3684,7 @@
 <AM lemma="vyjití_^(*3ít)">NNNS3-----A----</AM>
 <AM lemma="vyjití_^(*3ít)">NNNS4-----A----</AM>
 <AM lemma="vyjití_^(*3ít)">NNNS5-----A----</AM>
-<AM lemma="vyjití_^(*3ít)" src="auto" recommended="1">NNNS6-----A----</AM>
+<AM lemma="vyjití_^(*3ít)" src="auto" recommended="1" selected="1">NNNS6-----A----</AM>
 </tag>
 </m>
 <m id="m944-d1t985-1">
@@ -3697,7 +3697,7 @@
 <AM lemma="základní" src="auto" recommended="1">AAFP4----1A----</AM>
 <AM lemma="základní" src="auto">AAFP5----1A----</AM>
 <AM lemma="základní" src="auto">AAFS1----1A----</AM>
-<AM lemma="základní" src="auto">AAFS2----1A----</AM>
+<AM lemma="základní" src="auto" selected="1">AAFS2----1A----</AM>
 <AM lemma="základní" src="auto">AAFS3----1A----</AM>
 <AM lemma="základní" src="auto">AAFS4----1A----</AM>
 <AM lemma="základní" src="auto">AAFS5----1A----</AM>
@@ -3731,7 +3731,7 @@
 <AM lemma="škola" src="auto">NNFP1-----A----</AM>
 <AM lemma="škola" src="auto" recommended="1">NNFP4-----A----</AM>
 <AM lemma="škola" src="auto">NNFP5-----A----</AM>
-<AM lemma="škola" src="auto">NNFS2-----A----</AM>
+<AM lemma="škola" src="auto" selected="1">NNFS2-----A----</AM>
 </tag>
 </m>
 <m id="m944-2015-2024">

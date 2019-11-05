@@ -93,7 +93,7 @@
 <AM lemma="ruský">AAMP6----1A----</AM>
 <AM lemma="ruský">AANP2----1A----</AM>
 <AM lemma="ruský">AANP6----1A----</AM>
-<AM lemma="ruský" src="auto" recommended="1">AAIP6----1A----</AM>
+<AM lemma="ruský" src="auto" recommended="1" selected="1">AAIP6----1A----</AM>
 </tag>
 </m>
 <m id="m120-d1t1371-12">

@@ -2045,7 +2045,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>1600</form>
-<tag lemma="1600" src="auto" recommended="1">C=-------------</tag>
+<tag lemma="1600" src="auto" recommended="1" selected="1">C=-------------</tag>
 </m>
 <m id="m913-8166-8301">
 <w.rf>
@@ -4505,7 +4505,7 @@
 <form>luken</form>
 <tag>
 <AM lemma="luken">X@-------------</AM>
-<AM lemma="lukna" src="auto" recommended="1">NNFP2-----A----</AM>
+<AM lemma="lukna" src="auto" recommended="1" selected="1">NNFP2-----A----</AM>
 </tag>
 </m>
 <m id="m913-8468-8806">

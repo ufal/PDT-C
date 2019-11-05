@@ -2932,6 +2932,7 @@
 <AM lemma="Bryce_;S">NNMS4-----A----</AM>
 <AM lemma="Bryce_;S">NNMS5-----A----</AM>
 <AM lemma="Bryce_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Bryce-2_;G" src="manual" selected="1">NNIXX-----A----</AM>
 </tag>
 </m>
 <m id="m115-d-id199407-punct">
@@ -4509,7 +4510,7 @@
 <AM lemma="Polák_;E">NNMP5-----A----</AM>
 <AM lemma="polák-1_;L">NNMP1-----A----</AM>
 <AM lemma="polák-1_;L">NNMP5-----A----</AM>
-<AM lemma="Polák_;E" src="auto" recommended="1">NNMP1-----A----</AM>
+<AM lemma="Polák_;E" src="auto" recommended="1" selected="1">NNMP1-----A----</AM>
 </tag>
 </m>
 <m id="m115-d-id202401-punct">

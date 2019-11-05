@@ -3936,7 +3936,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>tomto</form>
-<tag lemma="tento" src="auto" recommended="1">PDZS6----------</tag>
+<tag lemma="tento" src="auto" recommended="1" selected="1">PDZS6----------</tag>
 </m>
 <m id="m148-d1t2927-5">
 <w.rf>

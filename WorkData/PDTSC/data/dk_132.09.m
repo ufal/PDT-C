@@ -1434,7 +1434,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>soustřeďují</form>
-<tag lemma="soustřeďovat" src="auto" recommended="1">VB-P---3P-AAI--</tag>
+<tag lemma="soustřeďovat" src="auto" recommended="1" selected="1">VB-P---3P-AAI--</tag>
 </m>
 <m id="m132-d1t2540-2">
 <w.rf>
@@ -1860,7 +1860,7 @@
 <AM lemma="pěvecký">AANS1----1A----</AM>
 <AM lemma="pěvecký">AANS4----1A----</AM>
 <AM lemma="pěvecký">AANS5----1A----</AM>
-<AM lemma="pěvecký" src="auto" recommended="1">AAIP1----1A----</AM>
+<AM lemma="pěvecký" src="auto" recommended="1" selected="1">AAIP1----1A----</AM>
 </tag>
 </m>
 <m id="m132-d1t2572-2">

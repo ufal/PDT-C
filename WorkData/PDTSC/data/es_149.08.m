@@ -1429,7 +1429,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>1200</form>
-<tag lemma="1200" src="auto" recommended="1">C=-------------</tag>
+<tag lemma="1200" src="auto" recommended="1" selected="1">C=-------------</tag>
 </m>
 <m id="m149-d1t1694-15">
 <w.rf>
@@ -2027,7 +2027,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>křižujou</form>
-<tag lemma="křižovat" src="auto" recommended="1">VB-P---3P-AAI-1</tag>
+<tag lemma="křižovat" src="auto" recommended="1" selected="1">VB-P---3P-AAI-1</tag>
 </m>
 <m id="m149-d1t1706-27">
 <w.rf>
@@ -3977,7 +3977,7 @@
 <form>Patachona</form>
 <tag>
 <AM lemma="Patachon_;S">NNMS2-----A----</AM>
-<AM lemma="Patachon_;S" src="auto" recommended="1">NNMS4-----A----</AM>
+<AM lemma="Patachon_;S" src="auto" recommended="1" selected="1">NNMS4-----A----</AM>
 </tag>
 </m>
 <m id="m149-d-m-d1e1762-x3-punct-punct">

@@ -1029,7 +1029,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>Nepamatuju</form>
-<tag lemma="pamatovat" src="auto" recommended="1">VB-S---1P-NAI--</tag>
+<tag lemma="pamatovat" src="auto" recommended="1" selected="1">VB-S---1P-NAI--</tag>
 </m>
 <m id="m142-d1t1141-17">
 <w.rf>
@@ -3262,7 +3262,7 @@
 <LM>w#w-d1t1202-6</LM>
 </w.rf>
 <form>francouzštinu</form>
-<tag lemma="francouzština" src="auto" recommended="1">NNFS4-----A----</tag>
+<tag lemma="francouzština" src="auto" recommended="1" selected="1">NNFS4-----A----</tag>
 </m>
 <m id="m142-d-id151115-punct">
 <w.rf>
@@ -3434,7 +3434,7 @@
 <form>francouzštině</form>
 <tag>
 <AM lemma="francouzština">NNFS3-----A----</AM>
-<AM lemma="francouzština" src="auto" recommended="1">NNFS6-----A----</AM>
+<AM lemma="francouzština" src="auto" recommended="1" selected="1">NNFS6-----A----</AM>
 </tag>
 </m>
 <m id="m142-d1t1202-23">
@@ -4392,7 +4392,7 @@
 <tag>
 <AM lemma="Leningrad_;G">NNIS2-----A----</AM>
 <AM lemma="Leningrad_;G">NNIS3-----A----</AM>
-<AM lemma="Leningrad_;G" src="auto" recommended="1">NNIS6-----A---1</AM>
+<AM lemma="Leningrad_;G" src="auto" recommended="1" selected="1">NNIS6-----A---1</AM>
 </tag>
 </m>
 <m id="m142-1114-953">

@@ -1356,7 +1356,7 @@
 <AM lemma="šťastný">AANP1----1A----</AM>
 <AM lemma="šťastný">AANP4----1A----</AM>
 <AM lemma="šťastný">AANP5----1A----</AM>
-<AM lemma="šťastný" src="auto" recommended="1">AAFS1----1A----</AM>
+<AM lemma="šťastný" src="auto" recommended="1" selected="1">AAFS1----1A----</AM>
 </tag>
 </m>
 <m id="m111-d-id130195-punct">
@@ -2228,7 +2228,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>Angličtinu</form>
-<tag lemma="angličtina" src="auto" recommended="1">NNFS4-----A----</tag>
+<tag lemma="angličtina" src="auto" recommended="1" selected="1">NNFS4-----A----</tag>
 </m>
 <m id="m111-d1t1285-7">
 <w.rf>

@@ -2918,6 +2918,7 @@
 <tag>
 <AM lemma="Kleman">X@-------------</AM>
 <AM lemma="Kleman" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Kleman_;S" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m794-d-id73437">
@@ -3644,7 +3645,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>15000</form>
-<tag lemma="15000" src="auto" recommended="1">C=-------------</tag>
+<tag lemma="15000" src="auto" recommended="1" selected="1">C=-------------</tag>
 </m>
 <m id="m794-d1t379-6">
 <w.rf>
@@ -6988,7 +6989,7 @@
 <tag>
 <AM lemma="bavorák_;R">NNIS1-----A----</AM>
 <AM lemma="bavorák_;R">NNIS4-----A----</AM>
-<AM lemma="Bavorák_;E" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Bavorák_;E" src="auto" recommended="1" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m794-d-id80623">

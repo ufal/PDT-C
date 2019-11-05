@@ -745,7 +745,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>organizacemi</form>
-<tag lemma="organizace" src="auto" recommended="1">NNFP7-----A----</tag>
+<tag lemma="organizace" src="auto" recommended="1" selected="1">NNFP7-----A----</tag>
 </m>
 <m id="m039-d1e1488-x3-20">
 <w.rf>
@@ -2236,7 +2236,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>12500</form>
-<tag lemma="12500" src="auto" recommended="1">C=-------------</tag>
+<tag lemma="12500" src="auto" recommended="1" selected="1">C=-------------</tag>
 </m>
 <m id="m039-d1e1665-x2-81">
 <w.rf>
@@ -4131,7 +4131,7 @@
 <AM lemma="výškový">AANS1----1A----</AM>
 <AM lemma="výškový">AANS4----1A----</AM>
 <AM lemma="výškový">AANS5----1A----</AM>
-<AM lemma="výškový" src="auto" recommended="1">AAIP1----1A----</AM>
+<AM lemma="výškový" src="auto" recommended="1" selected="1">AAIP1----1A----</AM>
 </tag>
 </m>
 <m id="m039-d1t1816-5">
@@ -5924,6 +5924,7 @@
 <AM lemma="průvodce" src="auto">NNMS2-----A----</AM>
 <AM lemma="průvodce" src="auto">NNMS4-----A----</AM>
 <AM lemma="průvodce" src="auto">NNMS5-----A----</AM>
+<AM lemma="průvodce-1" src="manual" selected="1">NNMP4-----A----</AM>
 </tag>
 </m>
 <m id="m039-d1e1880-x3-216">
@@ -6123,6 +6124,7 @@
 <AM lemma="průvodce" src="auto">NNMP7-----A----</AM>
 <AM lemma="průvodce" src="auto">NNMS3-----A----</AM>
 <AM lemma="průvodce" src="auto">NNMS6-----A----</AM>
+<AM lemma="průvodce-1" src="manual" selected="1">NNMP1-----A----</AM>
 </tag>
 </m>
 <m id="m039-d1e1880-x3-198">
@@ -6132,7 +6134,7 @@
 <form_change>spell</form_change>
 <form>tištění</form>
 <tag>
-<AM lemma="tištěný_^(*5sknout)">AAMP1----1A----</AM>
+<AM lemma="tištěný_^(*5sknout)" selected="1">AAMP1----1A----</AM>
 <AM lemma="tištěný_^(*5sknout)">AAMP5----1A----</AM>
 <AM lemma="tištění_^(*5sknout)">NNNP1-----A----</AM>
 <AM lemma="tištění_^(*5sknout)">NNNP2-----A----</AM>

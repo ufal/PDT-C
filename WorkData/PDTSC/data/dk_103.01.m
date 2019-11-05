@@ -875,7 +875,7 @@
 <AM lemma="třípokojový">AANS1----1A---6</AM>
 <AM lemma="třípokojový">AANS4----1A---6</AM>
 <AM lemma="třípokojový">AANS5----1A---6</AM>
-<AM lemma="třípokojový" src="auto" recommended="1">AAIS1----1A----</AM>
+<AM lemma="třípokojový" src="auto" recommended="1" selected="1">AAIS1----1A----</AM>
 </tag>
 </m>
 <m id="m103-d1t196-12">
@@ -909,6 +909,7 @@
 <tag>
 <AM lemma="kuchyně" src="auto" recommended="1">NNFS1-----A----</AM>
 <AM lemma="kuchyně" src="auto">NNFS4-----A----</AM>
+<AM lemma="kuchyň" src="manual" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m103-d1e193-x2-145">

@@ -3106,7 +3106,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>Mallorcy</form>
-<tag lemma="Mallorca_;G" src="auto" recommended="1">NNFS2-----A----</tag>
+<tag lemma="Mallorca_;G" src="auto" recommended="1" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m130-d1e1650-x2-596">
 <w.rf>

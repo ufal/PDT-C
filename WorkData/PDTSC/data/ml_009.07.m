@@ -182,7 +182,7 @@
 <AM lemma="kamarád">NNMP5-----A---1</AM>
 <AM lemma="kamarádit">Vi-S---2--A-I--</AM>
 <AM lemma="kamarádit">Vi-S---3--A-I-4</AM>
-<AM lemma="kamarád" src="auto" recommended="1">NNMP1-----A---1</AM>
+<AM lemma="kamarád" src="auto" recommended="1" selected="1">NNMP1-----A---1</AM>
 </tag>
 </m>
 <m id="m009-d1t1990-17">

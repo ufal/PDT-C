@@ -1356,7 +1356,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>evangelíků</form>
-<tag lemma="evangelík" src="auto" recommended="1">NNMP2-----A----</tag>
+<tag lemma="evangelík" src="auto" recommended="1" selected="1">NNMP2-----A----</tag>
 </m>
 <m id="m981-d-id68986">
 <w.rf>
@@ -4139,7 +4139,7 @@
 <AM lemma="sexta">NNFP1-----A----</AM>
 <AM lemma="sexta">NNFP4-----A----</AM>
 <AM lemma="sexta">NNFP5-----A----</AM>
-<AM lemma="sexta" src="auto" recommended="1">NNFS2-----A----</AM>
+<AM lemma="sexta" src="auto" recommended="1" selected="1">NNFS2-----A----</AM>
 </tag>
 </m>
 <m id="m981-d1t782-3">

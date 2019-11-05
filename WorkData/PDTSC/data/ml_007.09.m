@@ -2294,7 +2294,10 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>neměl</form>
-<tag lemma="mít" src="auto" recommended="1">VpYS---XR-NAI--</tag>
+<tag>
+<AM lemma="mít" src="auto" recommended="1">VpYS---XR-NAI--</AM>
+<AM lemma="mít" src="manual" selected="1">VpYS----R-NAI--</AM>
+</tag>
 </m>
 <m id="m007-d1t2757-6">
 <w.rf>
@@ -5047,7 +5050,7 @@
 <form>zajdení</form>
 <tag>
 <AM lemma="zajdení">X@-------------</AM>
-<AM lemma="zajdený" src="auto" recommended="1">AAMP1----1A----</AM>
+<AM lemma="zajdený" src="auto" recommended="1" selected="1">AAMP1----1A----</AM>
 </tag>
 </m>
 <m id="m007-d1t2886-10">

@@ -109,7 +109,7 @@
 <AM lemma="hlaveň">NNFP4-----A----</AM>
 <AM lemma="hlaveň">NNFP5-----A----</AM>
 <AM lemma="hlaveň">NNFS2-----A----</AM>
-<AM lemma="hlavně_^(*1í)" src="auto" recommended="1">Dg-------1A----</AM>
+<AM lemma="hlavně_^(*1í)" src="auto" recommended="1" selected="1">Dg-------1A----</AM>
 </tag>
 </m>
 <m id="m104-d1t842-23">

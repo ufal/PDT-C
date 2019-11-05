@@ -2198,7 +2198,7 @@
 <AM lemma="dyzenterie_;U">NNFP5-----A----</AM>
 <AM lemma="dyzenterie_;U">NNFS1-----A----</AM>
 <AM lemma="dyzenterie_;U">NNFS5-----A----</AM>
-<AM lemma="dyzenterie_;U" src="auto" recommended="1">NNFS2-----A----</AM>
+<AM lemma="dyzenterie_;U" src="auto" recommended="1" selected="1">NNFS2-----A----</AM>
 </tag>
 </m>
 <m id="m975-12199-12326">

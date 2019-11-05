@@ -193,7 +193,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>Zde</form>
-<tag lemma="zde" src="auto" recommended="1">Db-------------</tag>
+<tag lemma="zde" src="auto" recommended="1" selected="1">Db-------------</tag>
 </m>
 <m id="m914-d1t842-2">
 <w.rf>
@@ -4384,6 +4384,7 @@
 <AM lemma="hamak_,t_^(závěsné_lůžko)">NNIS3-----A----</AM>
 <AM lemma="hamak_,t_^(závěsné_lůžko)">NNIS5-----A----</AM>
 <AM lemma="hamak_,t_^(závěsné_lůžko)" src="auto" recommended="1">NNIS6-----A----</AM>
+<AM lemma="hamak_^(závěsné_lůžko)" src="manual" selected="1">NNIS6-----A----</AM>
 </tag>
 </m>
 <m id="m914-d1e950-x8-653">
@@ -5927,7 +5928,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>Jednotka</form>
-<tag lemma="jednotka" src="auto" recommended="1">NNFS1-----A----</tag>
+<tag lemma="jednotka" src="auto" recommended="1" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m914-d1t1091-2">
 <w.rf>

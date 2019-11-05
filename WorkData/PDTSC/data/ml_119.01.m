@@ -2169,7 +2169,10 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>jezdily</form>
-<tag lemma="jezdit" src="auto" recommended="1">VpTP---XR-AAI--</tag>
+<tag>
+<AM lemma="jezdit" src="auto" recommended="1">VpTP---XR-AAI--</AM>
+<AM lemma="jezdit" src="manual" selected="1">VpTP----R-AAI--</AM>
+</tag>
 </m>
 <m id="m119-d1t344-4">
 <w.rf>

@@ -2296,7 +2296,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>sestra</form>
-<tag lemma="sestra" src="auto" recommended="1">NNFS1-----A----</tag>
+<tag lemma="sestra" src="auto" recommended="1" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m104-d1t440-85">
 <w.rf>

@@ -2541,7 +2541,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>sportovišť</form>
-<tag lemma="sportoviště" src="auto" recommended="1">NNNP2-----A----</tag>
+<tag lemma="sportoviště" src="auto" recommended="1" selected="1">NNNP2-----A----</tag>
 </m>
 <m id="m043-99-100">
 <w.rf>

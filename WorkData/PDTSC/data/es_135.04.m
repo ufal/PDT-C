@@ -1342,7 +1342,10 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>byli</form>
-<tag lemma="být" src="auto" recommended="1">VpMP---XR-AAI--</tag>
+<tag>
+<AM lemma="být" src="auto" recommended="1">VpMP---XR-AAI--</AM>
+<AM lemma="být" src="manual" selected="1">VpMP----R-AAI--</AM>
+</tag>
 </m>
 <m id="m135-d1t697-7">
 <w.rf>
@@ -4511,7 +4514,7 @@
 <AM lemma="v-33_^(označení_pomocí_písmene)">NNNXX-----A----</AM>
 <AM lemma="v-88_:B">NNXXX-----A----</AM>
 <AM lemma="versus_:B">RR--1---------9</AM>
-<AM lemma="v-1" src="auto" recommended="1">RR--6----------</AM>
+<AM lemma="v-1" src="auto" recommended="1" selected="1">RR--6----------</AM>
 </tag>
 </m>
 <m id="m135-d1e771-x2-17">

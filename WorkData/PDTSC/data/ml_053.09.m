@@ -402,7 +402,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>konzervu</form>
-<tag lemma="konzerva" src="auto" recommended="1">NNFS4-----A----</tag>
+<tag lemma="konzerva" src="auto" recommended="1" selected="1">NNFS4-----A----</tag>
 </m>
 <m id="m053-d1t3102-9">
 <w.rf>
@@ -2573,7 +2573,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>5000</form>
-<tag lemma="5000" src="auto" recommended="1">C=-------------</tag>
+<tag lemma="5000" src="auto" recommended="1" selected="1">C=-------------</tag>
 </m>
 <m id="m053-d1t3215-7">
 <w.rf>
@@ -2780,7 +2780,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>10000</form>
-<tag lemma="10000" src="auto" recommended="1">C=-------------</tag>
+<tag lemma="10000" src="auto" recommended="1" selected="1">C=-------------</tag>
 </m>
 <m id="m053-d1t3235-7">
 <w.rf>

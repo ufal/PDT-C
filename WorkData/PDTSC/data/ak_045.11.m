@@ -1414,6 +1414,7 @@
 <AM lemma="Dali_;S">NNMXX-----A----</AM>
 <AM lemma="dát-2_^(dá_se_očekávat)">VpMP---XR-AAI--</AM>
 <AM lemma="dát" src="auto" recommended="1">VpMP---XR-AAP--</AM>
+<AM lemma="dát" src="manual" selected="1">VpMP----R-AAP--</AM>
 </tag>
 </m>
 <m id="m045-d1t2806-8">
@@ -3442,7 +3443,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>3000</form>
-<tag lemma="3000" src="auto" recommended="1">C=-------------</tag>
+<tag lemma="3000" src="auto" recommended="1" selected="1">C=-------------</tag>
 </m>
 <m id="m045-d1t2935-7">
 <w.rf>

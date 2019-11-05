@@ -2427,7 +2427,7 @@
 <AM lemma="první">CrNP3----------</AM>
 <AM lemma="první">CrNS6----------</AM>
 <AM lemma="první">CrNS7----------</AM>
-<AM lemma="první" src="auto" recommended="1">CrIS7----------</AM>
+<AM lemma="první" src="auto" recommended="1" selected="1">CrIS7----------</AM>
 </tag>
 </m>
 <m id="m025-d1t1033-4">

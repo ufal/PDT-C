@@ -3675,7 +3675,7 @@
 <form>po</form>
 <tag>
 <AM lemma="po-1" src="auto" recommended="1">RR--4----------</AM>
-<AM lemma="po-1" src="auto">RR--6----------</AM>
+<AM lemma="po-1" src="auto" selected="1">RR--6----------</AM>
 <AM lemma="pondělí_:B" src="auto">NNNXX-----A---8</AM>
 </tag>
 </m>
@@ -3695,7 +3695,7 @@
 <AM lemma="vyjití_^(*3ít)">NNNS3-----A----</AM>
 <AM lemma="vyjití_^(*3ít)">NNNS4-----A----</AM>
 <AM lemma="vyjití_^(*3ít)">NNNS5-----A----</AM>
-<AM lemma="vyjití_^(*3ít)" src="auto" recommended="1">NNNS6-----A----</AM>
+<AM lemma="vyjití_^(*3ít)" src="auto" recommended="1" selected="1">NNNS6-----A----</AM>
 </tag>
 </m>
 <m id="m944-d1t985-1">

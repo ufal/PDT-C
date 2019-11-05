@@ -1016,7 +1016,7 @@
 <AM lemma="Pak_;S">NNMS1-----A----</AM>
 <AM lemma="Paka_;G">NNFP2-----A----</AM>
 <AM lemma="pako-1_,l">NNNP2-----A----</AM>
-<AM lemma="pak" src="auto" recommended="1">Db-------------</AM>
+<AM lemma="pak" src="auto" recommended="1" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m991-d1t852-1">

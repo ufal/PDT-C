@@ -762,7 +762,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>Pravnučku</form>
-<tag lemma="pravnučka" src="auto" recommended="1">NNFS4-----A----</tag>
+<tag lemma="pravnučka" src="auto" recommended="1" selected="1">NNFS4-----A----</tag>
 </m>
 <m id="m147-d1t1270-8">
 <w.rf>
@@ -1676,7 +1676,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>20000</form>
-<tag lemma="20000" src="auto" recommended="1">C=-------------</tag>
+<tag lemma="20000" src="auto" recommended="1" selected="1">C=-------------</tag>
 </m>
 <m id="m147-687-688">
 <w.rf>

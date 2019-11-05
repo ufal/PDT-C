@@ -1245,7 +1245,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>Škvořeticích</form>
-<tag lemma="Škvořetice_;G" src="auto" recommended="1">NNFP6-----A----</tag>
+<tag lemma="Škvořetice_;G" src="auto" recommended="1" selected="1">NNFP6-----A----</tag>
 </m>
 <m id="m043-d1e1653-x2-299">
 <w.rf>

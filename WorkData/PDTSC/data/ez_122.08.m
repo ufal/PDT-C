@@ -838,7 +838,7 @@
 <form_change>spell</form_change>
 <form>družstva</form>
 <tag>
-<AM lemma="družstvo">NNNP1-----A----</AM>
+<AM lemma="družstvo" selected="1">NNNP1-----A----</AM>
 <AM lemma="družstvo">NNNP4-----A----</AM>
 <AM lemma="družstvo">NNNP5-----A----</AM>
 <AM lemma="družstvo" src="auto" recommended="1">NNNS2-----A----</AM>
@@ -3345,7 +3345,7 @@
 <tag>
 <AM lemma="korespondenční">AAFP3----1A----</AM>
 <AM lemma="korespondenční">AAIP3----1A----</AM>
-<AM lemma="korespondenční">AAIS6----1A----</AM>
+<AM lemma="korespondenční" selected="1">AAIS6----1A----</AM>
 <AM lemma="korespondenční">AAIS7----1A----</AM>
 <AM lemma="korespondenční">AAMP3----1A----</AM>
 <AM lemma="korespondenční">AAMS6----1A----</AM>

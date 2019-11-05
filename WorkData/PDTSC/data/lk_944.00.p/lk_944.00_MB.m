@@ -1425,7 +1425,10 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>neměly</form>
-<tag lemma="mít" src="auto" recommended="1">VpTP---XR-NAI--</tag>
+<tag>
+<AM lemma="mít" src="auto" recommended="1">VpTP---XR-NAI--</AM>
+<AM lemma="mít" src="manual" selected="1">VpTP----R-NAI--</AM>
+</tag>
 </m>
 <m id="m944-d1t114-2">
 <w.rf>

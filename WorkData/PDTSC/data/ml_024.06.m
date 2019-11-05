@@ -4059,7 +4059,7 @@
 <AM lemma="vzrušující_^(*5ovat)">AGMP6-----A----</AM>
 <AM lemma="vzrušující_^(*5ovat)">AGNP2-----A----</AM>
 <AM lemma="vzrušující_^(*5ovat)">AGNP6-----A----</AM>
-<AM lemma="vzrušující_^(*5ovat)" src="auto" recommended="1">AGIP2-----A----</AM>
+<AM lemma="vzrušující_^(*5ovat)" src="auto" recommended="1" selected="1">AGIP2-----A----</AM>
 </tag>
 </m>
 <m id="m024-d1t1883-9">

@@ -5370,7 +5370,10 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>proháněly</form>
-<tag lemma="prohánět" src="auto" recommended="1">VpTP---XR-AAI--</tag>
+<tag>
+<AM lemma="prohánět" src="auto" recommended="1">VpTP---XR-AAI--</AM>
+<AM lemma="prohánět" src="manual" selected="1">VpTP----R-AAI--</AM>
+</tag>
 </m>
 <m id="m143-d1t1372-17">
 <w.rf>

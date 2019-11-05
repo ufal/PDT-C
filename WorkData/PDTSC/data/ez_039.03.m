@@ -4970,7 +4970,10 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>Škvrňanech</form>
-<tag lemma="Škvrňany_;G" src="auto" recommended="1">NNIP6-----A----</tag>
+<tag>
+<AM lemma="Škvrňany_;G" src="auto" recommended="1">NNIP6-----A----</AM>
+<AM lemma="Škvrňany_;G_,h_^(^GC**Skvrňany)" src="manual" selected="1">NNIP6-----A----</AM>
+</tag>
 </m>
 <m id="m039-13-14">
 <w.rf>

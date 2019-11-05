@@ -3326,7 +3326,7 @@
 <form_change>spell</form_change>
 <form>Kraslicích</form>
 <tag>
-<AM lemma="Kraslice_;G">NNFP6-----A----</AM>
+<AM lemma="Kraslice_;G" selected="1">NNFP6-----A----</AM>
 <AM lemma="kraslice" src="auto" recommended="1">NNFP6-----A----</AM>
 </tag>
 </m>

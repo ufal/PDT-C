@@ -882,7 +882,7 @@
 <form>život</form>
 <tag>
 <AM lemma="život">NNIS1-----A----</AM>
-<AM lemma="život" src="auto" recommended="1">NNIS4-----A----</AM>
+<AM lemma="život" src="auto" recommended="1" selected="1">NNIS4-----A----</AM>
 </tag>
 </m>
 <m id="m107-d1e2032-x2-506">

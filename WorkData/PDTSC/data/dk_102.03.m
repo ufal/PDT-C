@@ -234,7 +234,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>7000</form>
-<tag lemma="7000" src="auto" recommended="1">C=-------------</tag>
+<tag lemma="7000" src="auto" recommended="1" selected="1">C=-------------</tag>
 </m>
 <m id="m102-d1t889-1">
 <w.rf>
@@ -929,7 +929,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>křížovkách</form>
-<tag lemma="křížovka" src="auto" recommended="1">NNFP6-----A----</tag>
+<tag lemma="křížovka" src="auto" recommended="1" selected="1">NNFP6-----A----</tag>
 </m>
 <m id="m102-d1e912-x2-173">
 <w.rf>

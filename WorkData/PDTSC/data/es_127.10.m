@@ -6168,7 +6168,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>espada</form>
-<tag lemma="espada" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag lemma="espada" src="auto" recommended="1" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m127-d1t2344-2">
 <w.rf>

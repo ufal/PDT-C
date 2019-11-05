@@ -2961,7 +2961,7 @@
 <AM lemma="pouť">NNFP1-----A----</AM>
 <AM lemma="pouť">NNFP5-----A----</AM>
 <AM lemma="pouť">NNFS2-----A----</AM>
-<AM lemma="pouť" src="auto" recommended="1">NNFP4-----A----</AM>
+<AM lemma="pouť" src="auto" recommended="1" selected="1">NNFP4-----A----</AM>
 </tag>
 </m>
 <m id="m028-d-id172992-punct">
@@ -4063,7 +4063,7 @@
 <form>celníci</form>
 <tag>
 <AM lemma="celník-1_^(úřední_osoba)">NNMP5-----A----</AM>
-<AM lemma="celník-1_^(úřední_osoba)" src="auto" recommended="1">NNMP1-----A----</AM>
+<AM lemma="celník-1_^(úřední_osoba)" src="auto" recommended="1" selected="1">NNMP1-----A----</AM>
 </tag>
 </m>
 <m id="m028-1900-1904">
@@ -6065,7 +6065,7 @@
 <tag>
 <AM lemma="všechen">PLNS1----------</AM>
 <AM lemma="všechen">PLNS5----------</AM>
-<AM lemma="všechen" src="auto" recommended="1">PLNS4----------</AM>
+<AM lemma="všechen" src="auto" recommended="1" selected="1">PLNS4----------</AM>
 </tag>
 </m>
 <m id="m028-d-id180322-punct">

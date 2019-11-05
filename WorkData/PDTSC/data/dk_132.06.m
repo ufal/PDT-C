@@ -150,7 +150,7 @@
 <form>Aritmě</form>
 <tag>
 <AM lemma="Aritma_;K">NNFS3-----A----</AM>
-<AM lemma="Aritma_;K" src="auto" recommended="1">NNFS6-----A----</AM>
+<AM lemma="Aritma_;K" src="auto" recommended="1" selected="1">NNFS6-----A----</AM>
 </tag>
 </m>
 <m id="m132-d-id108803-punct">

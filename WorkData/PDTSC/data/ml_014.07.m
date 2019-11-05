@@ -2167,7 +2167,10 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>přilítli</form>
-<tag lemma="přilítnout_,h_^(^GC**přilétnout)" src="auto" recommended="1">VpMP---XR-AAP-1</tag>
+<tag>
+<AM lemma="přilítnout_,h_^(^GC**přilétnout)" src="auto" recommended="1">VpMP---XR-AAP-1</AM>
+<AM lemma="přilítnout_,h_^(^GC**přilétnout)" src="manual" selected="1">VpMP----R-AAP-1</AM>
+</tag>
 </m>
 <m id="m014-345-347">
 <w.rf>
@@ -5645,7 +5648,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>zařídit</form>
-<tag lemma="zařídit" src="auto" recommended="1">Vf--------A-P--</tag>
+<tag lemma="zařídit" src="auto" recommended="1" selected="1">Vf--------A-P--</tag>
 </m>
 <m id="m014-d1e2845-x2-490">
 <w.rf>

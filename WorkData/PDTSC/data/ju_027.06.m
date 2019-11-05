@@ -2370,7 +2370,7 @@
 <AM lemma="šťastný">AANP1----1N----</AM>
 <AM lemma="šťastný">AANP4----1N----</AM>
 <AM lemma="šťastný">AANP5----1N----</AM>
-<AM lemma="šťastný" src="auto" recommended="1">AAFS1----1N----</AM>
+<AM lemma="šťastný" src="auto" recommended="1" selected="1">AAFS1----1N----</AM>
 </tag>
 </m>
 <m id="m027-d-id124463-punct">

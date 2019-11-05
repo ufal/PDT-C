@@ -1229,7 +1229,7 @@
 <form>velkoobchod</form>
 <tag>
 <AM lemma="velkoobchod">NNIS4-----A----</AM>
-<AM lemma="velkoobchod" src="auto" recommended="1">NNIS1-----A----</AM>
+<AM lemma="velkoobchod" src="auto" recommended="1" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m136-d1t594-5">

@@ -1310,7 +1310,7 @@
 <AM lemma="kamenný">AAMS2----1A----</AM>
 <AM lemma="kamenný">AAMS4----1A----</AM>
 <AM lemma="kamenný">AANS2----1A----</AM>
-<AM lemma="kamenný" src="auto" recommended="1">AAIS2----1A----</AM>
+<AM lemma="kamenný" src="auto" recommended="1" selected="1">AAIS2----1A----</AM>
 </tag>
 </m>
 <m id="m012-d1t136-10">

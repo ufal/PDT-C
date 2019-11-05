@@ -2452,7 +2452,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>1140</form>
-<tag lemma="1140" src="auto" recommended="1">C=-------------</tag>
+<tag lemma="1140" src="auto" recommended="1" selected="1">C=-------------</tag>
 </m>
 <m id="m774-3692-295">
 <w.rf>
@@ -2645,7 +2645,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>1340</form>
-<tag lemma="1340" src="auto" recommended="1">C=-------------</tag>
+<tag lemma="1340" src="auto" recommended="1" selected="1">C=-------------</tag>
 </m>
 <m id="m774-d1t433-7">
 <w.rf>
@@ -2998,7 +2998,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>100000</form>
-<tag lemma="100000" src="auto" recommended="1">C=-------------</tag>
+<tag lemma="100000" src="auto" recommended="1" selected="1">C=-------------</tag>
 </m>
 <m id="m774-d-id72690">
 <w.rf>
@@ -3532,7 +3532,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>53600</form>
-<tag lemma="53600" src="auto" recommended="1">C=-------------</tag>
+<tag lemma="53600" src="auto" recommended="1" selected="1">C=-------------</tag>
 </m>
 <m id="m774-1043-1059">
 <w.rf>
@@ -5198,7 +5198,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>hranicích</form>
-<tag lemma="hranice" src="auto" recommended="1">NNFP6-----A----</tag>
+<tag lemma="hranice" src="auto" recommended="1" selected="1">NNFP6-----A----</tag>
 </m>
 <m id="m774-d1t546-1">
 <w.rf>

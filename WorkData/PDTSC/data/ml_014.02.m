@@ -1325,7 +1325,10 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>dodržovala</form>
-<tag lemma="dodržovat" src="auto" recommended="1">VpQW---XR-AAI--</tag>
+<tag>
+<AM lemma="dodržovat" src="auto" recommended="1">VpQW---XR-AAI--</AM>
+<AM lemma="dodržovat" src="manual" selected="1">VpQW----R-AAI--</AM>
+</tag>
 </m>
 <m id="m014-d-id80140-punct">
 <w.rf>

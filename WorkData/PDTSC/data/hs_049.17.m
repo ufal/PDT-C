@@ -2773,6 +2773,7 @@
 <tag>
 <AM lemma="Koi">X@-------------</AM>
 <AM lemma="koi" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="koi" src="manual" selected="1">AAXXX----1A----</AM>
 </tag>
 </m>
 <m id="m049-d1t4442-2">

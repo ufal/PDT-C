@@ -3731,7 +3731,7 @@
 <AM lemma="Puškinův_;S_^(*2)">AUMS3M--------6</AM>
 <AM lemma="Puškinův_;S_^(*2)">AUMS6M---------</AM>
 <AM lemma="Puškinův_;S_^(*2)">AUNS3M--------6</AM>
-<AM lemma="Puškinův_;S_^(*2)" src="auto" recommended="1">AUNS6M---------</AM>
+<AM lemma="Puškinův_;S_^(*2)" src="auto" recommended="1" selected="1">AUNS6M---------</AM>
 </tag>
 </m>
 <m id="m117-d1t1723-3">

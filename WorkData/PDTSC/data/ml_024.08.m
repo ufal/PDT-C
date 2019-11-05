@@ -252,7 +252,7 @@
 <AM lemma="romantický">AAMP4----1A----</AM>
 <AM lemma="romantický">AANS4----1A----</AM>
 <AM lemma="romantický">AANS5----1A----</AM>
-<AM lemma="romantický" src="auto" recommended="1">AANS1----1A----</AM>
+<AM lemma="romantický" src="auto" recommended="1" selected="1">AANS1----1A----</AM>
 </tag>
 </m>
 <m id="m024-d1e2287-x2-84">

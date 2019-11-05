@@ -4416,7 +4416,7 @@
 <AM lemma="zvláštní">AANS1----1A----</AM>
 <AM lemma="zvláštní">AANS4----1A----</AM>
 <AM lemma="zvláštní">AANS5----1A----</AM>
-<AM lemma="zvláštní" src="auto" recommended="1">AAIS4----1A----</AM>
+<AM lemma="zvláštní" src="auto" recommended="1" selected="1">AAIS4----1A----</AM>
 </tag>
 </m>
 <m id="m037-d1t2494-15">

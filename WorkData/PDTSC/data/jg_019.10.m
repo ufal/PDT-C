@@ -1986,7 +1986,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>výzdobu</form>
-<tag lemma="výzdoba" src="auto" recommended="1">NNFS4-----A----</tag>
+<tag lemma="výzdoba" src="auto" recommended="1" selected="1">NNFS4-----A----</tag>
 </m>
 <m id="m019-156-157">
 <w.rf>
@@ -2250,7 +2250,7 @@
 <AM lemma="vyzdobený_^(*3it)">AANS1----1A---6</AM>
 <AM lemma="vyzdobený_^(*3it)">AANS4----1A---6</AM>
 <AM lemma="vyzdobený_^(*3it)">AANS5----1A---6</AM>
-<AM lemma="vyzdobený_^(*3it)" src="auto" recommended="1">AAIS4----1A----</AM>
+<AM lemma="vyzdobený_^(*3it)" src="auto" recommended="1" selected="1">AAIS4----1A----</AM>
 </tag>
 </m>
 <m id="m019-d1t3572-12">

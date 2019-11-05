@@ -2438,7 +2438,7 @@
 <AM lemma="porozumění_^(*2t)">NNNS3-----A----</AM>
 <AM lemma="porozumění_^(*2t)">NNNS5-----A----</AM>
 <AM lemma="porozumění_^(*2t)">NNNS6-----A----</AM>
-<AM lemma="porozumění_^(*2t)" src="auto" recommended="1">NNNS4-----A----</AM>
+<AM lemma="porozumění_^(*2t)" src="auto" recommended="1" selected="1">NNNS4-----A----</AM>
 </tag>
 </m>
 <m id="m135-d1t104-1">
@@ -3347,7 +3347,7 @@
 <AM lemma="chlapec">NNMP5-----A----</AM>
 <AM lemma="chlapec">NNMP7-----A----</AM>
 <AM lemma="chlapec">NNMS6-----A----</AM>
-<AM lemma="chlapec" src="auto" recommended="1">NNMS3-----A----</AM>
+<AM lemma="chlapec" src="auto" recommended="1" selected="1">NNMS3-----A----</AM>
 </tag>
 </m>
 <m id="m135-d1t124-5">

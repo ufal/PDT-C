@@ -3895,7 +3895,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>Zároveň</form>
-<tag lemma="zároveň" src="auto" recommended="1">Db-------------</tag>
+<tag lemma="zároveň" src="auto" recommended="1" selected="1">Db-------------</tag>
 </m>
 <m id="m054-d1t1789-1">
 <w.rf>

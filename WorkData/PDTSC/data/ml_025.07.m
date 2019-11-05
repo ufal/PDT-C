@@ -907,7 +907,7 @@
 <AM lemma="další">AANS1----1A----</AM>
 <AM lemma="další">AANS4----1A----</AM>
 <AM lemma="další">AANS5----1A----</AM>
-<AM lemma="další" src="auto" recommended="1">AAFS4----1A----</AM>
+<AM lemma="další" src="auto" recommended="1" selected="1">AAFS4----1A----</AM>
 </tag>
 </m>
 <m id="m025-d1t2729-8">

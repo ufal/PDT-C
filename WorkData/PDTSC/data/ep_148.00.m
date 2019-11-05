@@ -1098,7 +1098,7 @@
 <AM lemma="šedesát`60">Cn-P3----------</AM>
 <AM lemma="šedesát`60">Cn-P6----------</AM>
 <AM lemma="šedesát`60">Cn-P7----------</AM>
-<AM lemma="šedesát`60" src="auto" recommended="1">Cn-P2----------</AM>
+<AM lemma="šedesát`60" src="auto" recommended="1" selected="1">Cn-P2----------</AM>
 </tag>
 </m>
 <m id="m148-d1t77-4">
@@ -1757,7 +1757,7 @@
 <AM lemma="živočišný">AANS1----1A----</AM>
 <AM lemma="živočišný">AANS4----1A----</AM>
 <AM lemma="živočišný">AANS5----1A----</AM>
-<AM lemma="živočišný" src="auto" recommended="1">AAFS6----1A----</AM>
+<AM lemma="živočišný" src="auto" recommended="1" selected="1">AAFS6----1A----</AM>
 </tag>
 </m>
 <m id="m148-d1t107-8">

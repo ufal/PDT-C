@@ -2183,7 +2183,7 @@
 <AM lemma="šestnáctiletý">AANP1----1A----</AM>
 <AM lemma="šestnáctiletý">AANP4----1A----</AM>
 <AM lemma="šestnáctiletý">AANP5----1A----</AM>
-<AM lemma="šestnáctiletý" src="auto" recommended="1">AAFS1----1A----</AM>
+<AM lemma="šestnáctiletý" src="auto" recommended="1" selected="1">AAFS1----1A----</AM>
 </tag>
 </m>
 <m id="m125-d1t409-32">

@@ -3490,8 +3490,8 @@
 </w.rf>
 <form>parničku</form>
 <tag>
-<AM lemma="parnička_,l_^(parní_stříkačka)" src="auto" recommended="1">NNFS4-----A----</AM>
-<AM lemma="parnička_,l_^(parní_stříkačka;hovorově_parní_lokomotiva)" src="manual" selected="1">NNFS4-----A----</AM>
+<AM lemma="parnička_,l_^(parní_stříkačka)" src="auto" recommended="1" selected="1">NNFS4-----A----</AM>
+<AM lemma="parnička_,l_^(parní_stříkačka;hovorově_parní_lokomotiva)" src="manual">NNFS4-----A----</AM>
 </tag>
 </m>
 <m id="m046-d-id102128-punct">
@@ -3532,7 +3532,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>svézt</form>
-<tag lemma="svézt" src="auto" recommended="1">Vf--------A-P--</tag>
+<tag lemma="svézt" src="auto" recommended="1" selected="1">Vf--------A-P--</tag>
 </m>
 <m id="m046-d1t1872-1">
 <w.rf>

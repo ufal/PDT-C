@@ -6912,7 +6912,7 @@
 <AM lemma="ošetřovatelství">NNNS4-----A----</AM>
 <AM lemma="ošetřovatelství">NNNS5-----A----</AM>
 <AM lemma="ošetřovatelství">NNNS6-----A----</AM>
-<AM lemma="ošetřovatelství" src="auto" recommended="1">NNNS1-----A----</AM>
+<AM lemma="ošetřovatelství" src="auto" recommended="1" selected="1">NNNS1-----A----</AM>
 </tag>
 </m>
 <m id="m121-d1t2021-5">

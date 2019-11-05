@@ -4385,7 +4385,7 @@
 <form>povodeň</form>
 <tag>
 <AM lemma="povodeň">NNFS4-----A----</AM>
-<AM lemma="povodeň" src="auto" recommended="1">NNFS1-----A----</AM>
+<AM lemma="povodeň" src="auto" recommended="1" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m135-524-378">
@@ -4598,7 +4598,7 @@
 <form>Čechách</form>
 <tag>
 <AM lemma="Čech_;E_;S">NNMP6-----A---6</AM>
-<AM lemma="Čechy_;G" src="auto" recommended="1">NNFP6-----A----</AM>
+<AM lemma="Čechy_;G" src="auto" recommended="1" selected="1">NNFP6-----A----</AM>
 </tag>
 </m>
 <m id="m135-379-381">

@@ -1102,6 +1102,7 @@
 <AM lemma="Philips-2_;R">NNIS3-----A----</AM>
 <AM lemma="Philips-2_;R">NNIS6-----A----</AM>
 <AM lemma="Philips_;K" src="auto" recommended="1">NNIS2-----A----</AM>
+<AM lemma="Philips-2_;K_;R" src="manual" selected="1">NNIS2-----A----</AM>
 </tag>
 </m>
 <m id="m104-d1t222-31">

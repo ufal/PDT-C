@@ -38,7 +38,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>modistkou</form>
-<tag lemma="modistka_^(*2a)" src="auto" recommended="1">NNFS7-----A----</tag>
+<tag lemma="modistka_^(*2a)" src="auto" recommended="1" selected="1">NNFS7-----A----</tag>
 </m>
 <m id="m027-d-id75506-punct">
 <w.rf>
@@ -269,7 +269,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>zakázku</form>
-<tag lemma="zakázka" src="auto" recommended="1">NNFS4-----A----</tag>
+<tag lemma="zakázka" src="auto" recommended="1" selected="1">NNFS4-----A----</tag>
 </m>
 <m id="m027-1274-1276">
 <w.rf>
@@ -2774,7 +2774,7 @@
 <form>po</form>
 <tag>
 <AM lemma="po-1" src="auto" recommended="1">RR--4----------</AM>
-<AM lemma="po-1" src="auto">RR--6----------</AM>
+<AM lemma="po-1" src="auto" selected="1">RR--6----------</AM>
 <AM lemma="pondělí_:B" src="auto">NNNXX-----A---8</AM>
 </tag>
 </m>
@@ -2784,7 +2784,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>zábavách</form>
-<tag lemma="zábava" src="auto" recommended="1">NNFP6-----A----</tag>
+<tag lemma="zábava" src="auto" recommended="1" selected="1">NNFP6-----A----</tag>
 </m>
 <m id="m027-1512-164">
 <w.rf>

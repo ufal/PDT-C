@@ -149,7 +149,7 @@
 <AM lemma="což-1">PE--4----------</AM>
 <AM lemma="což-2_^(cožpak:_což_jsem_to_neříkal?)">TT-------------</AM>
 <AM lemma="což-3_^(nu_což,_...;_což_o_to,_...)">II-------------</AM>
-<AM lemma="což-1" src="auto" recommended="1">PE--1----------</AM>
+<AM lemma="což-1" src="auto" recommended="1" selected="1">PE--1----------</AM>
 </tag>
 </m>
 <m id="m983-d1t863-6">
@@ -4322,7 +4322,7 @@
 <AM lemma="suezský">AANS1----1A---6</AM>
 <AM lemma="suezský">AANS4----1A---6</AM>
 <AM lemma="suezský">AANS5----1A---6</AM>
-<AM lemma="suezský" src="auto" recommended="1">AAIS1----1A----</AM>
+<AM lemma="suezský" src="auto" recommended="1" selected="1">AAIS1----1A----</AM>
 </tag>
 </m>
 <m id="m983-d1t1116-5">
@@ -4846,7 +4846,7 @@
 <AM lemma="suezský">AAMS2----1A----</AM>
 <AM lemma="suezský">AAMS4----1A----</AM>
 <AM lemma="suezský">AANS2----1A----</AM>
-<AM lemma="suezský" src="auto" recommended="1">AAIS2----1A----</AM>
+<AM lemma="suezský" src="auto" recommended="1" selected="1">AAIS2----1A----</AM>
 </tag>
 </m>
 <m id="m983-d1t1133-7">
@@ -5810,7 +5810,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>Rommel</form>
-<tag lemma="Rommel_;S" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag lemma="Rommel_;S" src="auto" recommended="1" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m983-d1t1200-2">
 <w.rf>

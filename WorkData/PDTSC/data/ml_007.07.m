@@ -1774,6 +1774,7 @@
 <tag>
 <AM lemma="Grošaft_;S">NNMS2-----A----</AM>
 <AM lemma="Grošaft_;S" src="auto" recommended="1">NNMS4-----A----</AM>
+<AM lemma="Grošafta_;S" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m007-d-id136616">
@@ -3290,8 +3291,8 @@
 </w.rf>
 <form>všechny</form>
 <tag>
-<AM lemma="všechen" src="auto" selected="1">PLFP1----------</AM>
-<AM lemma="všechen" src="auto" recommended="1">PLFP4----------</AM>
+<AM lemma="všechen" src="auto">PLFP1----------</AM>
+<AM lemma="všechen" src="auto" recommended="1" selected="1">PLFP4----------</AM>
 <AM lemma="všechen" src="auto">PLFP5----------</AM>
 <AM lemma="všechen" src="auto">PLIP1----------</AM>
 <AM lemma="všechen" src="auto">PLIP5----------</AM>
@@ -3308,7 +3309,7 @@
 <AM lemma="štětina">NNFP1-----A----</AM>
 <AM lemma="štětina">NNFP5-----A----</AM>
 <AM lemma="štětina">NNFS2-----A----</AM>
-<AM lemma="štětina" src="auto" recommended="1">NNFP4-----A----</AM>
+<AM lemma="štětina" src="auto" recommended="1" selected="1">NNFP4-----A----</AM>
 </tag>
 </m>
 <m id="m007-d1e2301-x2-3937">

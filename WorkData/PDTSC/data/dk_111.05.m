@@ -3043,6 +3043,7 @@
 <tag>
 <AM lemma="zapomnět_,n">VpQW---XR-AAP--</AM>
 <AM lemma="zapomenout" src="auto" recommended="1">VpQW---XR-AAP--</AM>
+<AM lemma="zapomenout" src="manual" selected="1">VpQW----R-AAP--</AM>
 </tag>
 </m>
 <m id="m111-d1t815-8">

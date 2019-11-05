@@ -519,7 +519,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>nepamatuju</form>
-<tag lemma="pamatovat" src="auto" recommended="1">VB-S---1P-NAI--</tag>
+<tag lemma="pamatovat" src="auto" recommended="1" selected="1">VB-S---1P-NAI--</tag>
 </m>
 <m id="m010-d-id138382">
 <w.rf>

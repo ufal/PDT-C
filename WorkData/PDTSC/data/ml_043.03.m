@@ -239,7 +239,7 @@
 <AM lemma="Rossbach_;S">NNMS3-----A---1</AM>
 <AM lemma="Rossbach_;S">NNMS5-----A----</AM>
 <AM lemma="Rossbach_;S">NNMS6-----A---1</AM>
-<AM lemma="Rossbach_;G" src="auto" recommended="1">NNIS6-----A----</AM>
+<AM lemma="Rossbach_;G" src="auto" recommended="1" selected="1">NNIS6-----A----</AM>
 </tag>
 </m>
 <m id="m043-269-270">

@@ -2276,7 +2276,7 @@
 <tag>
 <AM lemma="po-1">RR--4----------</AM>
 <AM lemma="pondělí">NNNXX-----A---8</AM>
-<AM lemma="po-1" src="auto" recommended="1">RR--6----------</AM>
+<AM lemma="po-1" src="auto" recommended="1" selected="1">RR--6----------</AM>
 </tag>
 <comment>
 <LM type="Other">

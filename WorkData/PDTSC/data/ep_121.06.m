@@ -613,7 +613,7 @@
 <form>Nachází</form>
 <tag>
 <AM lemma="nacházet">VB-P---3P-AAI-1</AM>
-<AM lemma="nacházet" src="auto" recommended="1">VB-S---3P-AAI--</AM>
+<AM lemma="nacházet" src="auto" recommended="1" selected="1">VB-S---3P-AAI--</AM>
 </tag>
 </m>
 <m id="m121-d1t1314-2">
@@ -981,7 +981,7 @@
 <form>vyhlíží</form>
 <tag>
 <AM lemma="vyhlížet">VB-P---3P-AAI-1</AM>
-<AM lemma="vyhlížet" src="auto" recommended="1">VB-S---3P-AAI--</AM>
+<AM lemma="vyhlížet" src="auto" recommended="1" selected="1">VB-S---3P-AAI--</AM>
 </tag>
 </m>
 <m id="m121-d1t1330-19">
@@ -4313,7 +4313,8 @@
 <form>nejdřív</form>
 <tag>
 <AM lemma="brzy" src="auto" recommended="1">Dg-------3A---5</AM>
-<AM lemma="brzy_^(**dříve)" src="manual" selected="1">Dg-------3A---5</AM>
+<AM lemma="brzy_^(**dříve)" src="manual">Dg-------3A---5</AM>
+<AM lemma="brzy" src="manual" selected="1">Dg-------3A---1</AM>
 </tag>
 </m>
 <m id="m121-d-id133879-punct">
@@ -4413,7 +4414,7 @@
 <AM lemma="vzpomínka">NNFP1-----A----</AM>
 <AM lemma="vzpomínka">NNFP5-----A----</AM>
 <AM lemma="vzpomínka">NNFS2-----A----</AM>
-<AM lemma="vzpomínka" src="auto" recommended="1">NNFP4-----A----</AM>
+<AM lemma="vzpomínka" src="auto" recommended="1" selected="1">NNFP4-----A----</AM>
 </tag>
 </m>
 <m id="m121-d-m-d1e1438-x2-punct-punct">

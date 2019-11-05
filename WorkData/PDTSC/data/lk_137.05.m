@@ -3900,7 +3900,7 @@
 <AM lemma="šťastný">AANP1----1A----</AM>
 <AM lemma="šťastný">AANP4----1A----</AM>
 <AM lemma="šťastný">AANP5----1A----</AM>
-<AM lemma="šťastný" src="auto" recommended="1">AAFS1----1A----</AM>
+<AM lemma="šťastný" src="auto" recommended="1" selected="1">AAFS1----1A----</AM>
 </tag>
 </m>
 <m id="m137-d-m-d1e1443-x4-punct-punct">

@@ -791,7 +791,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>vězňů</form>
-<tag lemma="vězeň" src="auto" recommended="1">NNMP2-----A----</tag>
+<tag lemma="vězeň" src="auto" recommended="1" selected="1">NNMP2-----A----</tag>
 </m>
 <m id="m001-d1t1239-1">
 <w.rf>
@@ -3271,7 +3271,7 @@
 <AM lemma="Hruškův_;S_^(*2a)">AUFS2M---------</AM>
 <AM lemma="Hruškův_;S_^(*2a)">AUIP1M---------</AM>
 <AM lemma="Hruškův_;S_^(*2a)">AUIP5M---------</AM>
-<AM lemma="Hruškův_;S_^(*2a)">AUMP4M---------</AM>
+<AM lemma="Hruškův_;S_^(*2a)" selected="1">AUMP4M---------</AM>
 <AM lemma="Hruškov_;G">NNIP1-----A----</AM>
 <AM lemma="Hruškov_;G">NNIP4-----A----</AM>
 <AM lemma="Hruškov_;G">NNIP5-----A----</AM>
@@ -5288,7 +5288,7 @@
 <form>ni</form>
 <tag>
 <AM lemma="ni_,a">J^-------------</AM>
-<AM lemma="on-1" src="auto" recommended="1">P5FS4--3-------</AM>
+<AM lemma="on-1" src="auto" recommended="1" selected="1">P5FS4--3-------</AM>
 </tag>
 </m>
 <m id="m001-d1e1425-x2-2600">

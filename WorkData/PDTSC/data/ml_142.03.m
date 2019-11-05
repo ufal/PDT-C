@@ -533,6 +533,7 @@
 <tag>
 <AM lemma="Classic">X@-------------</AM>
 <AM lemma="Classic" src="auto" recommended="1">NNFXX-----A----</AM>
+<AM lemma="Classic-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m142-d1t387-7">
@@ -2928,7 +2929,7 @@
 <AM lemma="domácí-3">NNFS5-----A----</AM>
 <AM lemma="domácí-3">NNFS6-----A----</AM>
 <AM lemma="domácí-3">NNFS7-----A----</AM>
-<AM lemma="domácí-1" src="auto" recommended="1">AAIS4----1A----</AM>
+<AM lemma="domácí-1" src="auto" recommended="1" selected="1">AAIS4----1A----</AM>
 </tag>
 </m>
 <m id="m142-d1t447-29">

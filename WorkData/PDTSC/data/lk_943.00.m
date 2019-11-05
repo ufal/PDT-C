@@ -3909,7 +3909,7 @@
 <AM lemma="nuance">NNFS1-----A----</AM>
 <AM lemma="nuance">NNFS2-----A----</AM>
 <AM lemma="nuance">NNFS5-----A----</AM>
-<AM lemma="nuance" src="auto" recommended="1">NNFP4-----A----</AM>
+<AM lemma="nuance" src="auto" recommended="1" selected="1">NNFP4-----A----</AM>
 </tag>
 </m>
 <m id="m943-d-id62922">
@@ -5859,6 +5859,9 @@
 <tag>
 <AM lemma="heim">X@-------------</AM>
 <AM lemma="heim" src="auto" recommended="1">NNIS4-----A----</AM>
+<AM lemma="heim" src="manual">NNIS4-----A----</AM>
+<AM lemma="heim" src="manual" selected="1">NNIS4-----A----</AM>
+<AM lemma="heim-77" src="manual">F%-------------</AM>
 </tag>
 </m>
 <m id="m943-d1e323-x5-2914">
@@ -6264,6 +6267,8 @@
 <tag>
 <AM lemma="heim">X@-------------</AM>
 <AM lemma="heim" src="auto" recommended="1">AAXXX----1A----</AM>
+<AM lemma="heim-77" src="manual">F%-------------</AM>
+<AM lemma="heim" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m943-d1e323-x7-3135">

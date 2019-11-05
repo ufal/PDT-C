@@ -4835,7 +4835,7 @@
 <form>zájezd</form>
 <tag>
 <AM lemma="zájezd">NNIS4-----A----</AM>
-<AM lemma="zájezd" src="auto" recommended="1">NNIS1-----A----</AM>
+<AM lemma="zájezd" src="auto" recommended="1" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m136-d1t2559-15">

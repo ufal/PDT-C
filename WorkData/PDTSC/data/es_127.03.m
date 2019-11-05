@@ -3199,7 +3199,7 @@
 <AM lemma="francouzský">AAMP6----1A----</AM>
 <AM lemma="francouzský">AANP2----1A----</AM>
 <AM lemma="francouzský">AANP6----1A----</AM>
-<AM lemma="francouzský" src="auto" recommended="1">AAFP2----1A----</AM>
+<AM lemma="francouzský" src="auto" recommended="1" selected="1">AAFP2----1A----</AM>
 </tag>
 </m>
 <m id="m127-d1t730-2">

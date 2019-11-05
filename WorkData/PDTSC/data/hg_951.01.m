@@ -79,6 +79,7 @@
 <tag>
 <AM lemma="Bourlarda">X@-------------</AM>
 <AM lemma="Bourlarda" src="auto" recommended="1">NNFS1-----A----</AM>
+<AM lemma="Bourlarda_;G" src="manual" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m951-d-id67335">
@@ -197,6 +198,7 @@
 <tag>
 <AM lemma="Bourlarda">X@-------------</AM>
 <AM lemma="Bourlarda" src="auto" recommended="1">NNFS1-----A----</AM>
+<AM lemma="Bourlarda-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m951-d1t502-6">

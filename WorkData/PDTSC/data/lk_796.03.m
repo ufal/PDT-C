@@ -2645,7 +2645,10 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>udělaly</form>
-<tag lemma="udělat" src="auto" recommended="1">VpTP---XR-AAP--</tag>
+<tag>
+<AM lemma="udělat" src="auto" recommended="1">VpTP---XR-AAP--</AM>
+<AM lemma="udělat" src="manual" selected="1">VpTP----R-AAP--</AM>
+</tag>
 </m>
 <m id="m796-id60960-21">
 <w.rf>

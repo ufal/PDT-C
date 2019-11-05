@@ -5837,7 +5837,7 @@
 <AM lemma="příbuzný-2_^(podobný)">AAMP7----1A----</AM>
 <AM lemma="příbuzný-2_^(podobný)">AANP7----1A----</AM>
 <AM lemma="příbuzná-1_^(člen_rodiny)_(*3ý-1)">NNFP7-----A----</AM>
-<AM lemma="příbuzný-1_^(člen_rodiny)" src="auto" recommended="1">NNMP7-----A----</AM>
+<AM lemma="příbuzný-1_^(člen_rodiny)" src="auto" recommended="1" selected="1">NNMP7-----A----</AM>
 </tag>
 </m>
 <m id="m107-d-id88022-punct">

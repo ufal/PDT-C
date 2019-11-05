@@ -2868,7 +2868,7 @@
 <form>Dýšině</form>
 <tag>
 <AM lemma="Dýšina_;G">NNFS3-----A----</AM>
-<AM lemma="Dýšina_;G" src="auto" recommended="1">NNFS6-----A----</AM>
+<AM lemma="Dýšina_;G" src="auto" recommended="1" selected="1">NNFS6-----A----</AM>
 </tag>
 </m>
 <m id="m056-d1e251-x2-115">

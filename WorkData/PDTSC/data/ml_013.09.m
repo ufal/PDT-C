@@ -639,7 +639,7 @@
 <tag>
 <AM lemma="čtrnáctý">CrIS6----------</AM>
 <AM lemma="čtrnáctý">CrMS6----------</AM>
-<AM lemma="čtrnáctý" src="auto" recommended="1">CrNS6----------</AM>
+<AM lemma="čtrnáctý" src="auto" recommended="1" selected="1">CrNS6----------</AM>
 </tag>
 </m>
 <m id="m013-d1t3529-12">
@@ -3250,7 +3250,7 @@
 <tag>
 <AM lemma="sestřenice">NNFS3-----A----</AM>
 <AM lemma="sestřenice">NNFS6-----A----</AM>
-<AM lemma="sestřenice" src="auto" recommended="1">NNFS4-----A----</AM>
+<AM lemma="sestřenice" src="auto" recommended="1" selected="1">NNFS4-----A----</AM>
 </tag>
 </m>
 <m id="m013-d1t3729-1">

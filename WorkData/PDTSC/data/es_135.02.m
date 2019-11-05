@@ -454,7 +454,10 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>měly</form>
-<tag lemma="mít" src="auto" recommended="1">VpTP---XR-AAI--</tag>
+<tag>
+<AM lemma="mít" src="auto" recommended="1">VpTP---XR-AAI--</AM>
+<AM lemma="mít" src="manual" selected="1">VpTP----R-AAI--</AM>
+</tag>
 </m>
 <m id="m135-d1t331-3">
 <w.rf>

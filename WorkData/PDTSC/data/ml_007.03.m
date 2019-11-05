@@ -1502,7 +1502,7 @@
 <AM lemma="sluneční">AANS5----1A----</AM>
 <AM lemma="slunečný">AAMP1----1A----</AM>
 <AM lemma="slunečný">AAMP5----1A----</AM>
-<AM lemma="sluneční" src="auto" recommended="1">AANP4----1A----</AM>
+<AM lemma="sluneční" src="auto" recommended="1" selected="1">AANP4----1A----</AM>
 </tag>
 </m>
 <m id="m007-d1t1098-16">

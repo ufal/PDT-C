@@ -1456,7 +1456,7 @@
 <AM lemma="čtyřletý">AANP1----1A----</AM>
 <AM lemma="čtyřletý">AANP4----1A----</AM>
 <AM lemma="čtyřletý">AANP5----1A----</AM>
-<AM lemma="čtyřletý" src="auto" recommended="1">AAFS1----1A----</AM>
+<AM lemma="čtyřletý" src="auto" recommended="1" selected="1">AAFS1----1A----</AM>
 </tag>
 </m>
 <m id="m110-d1e2438-x2-145">

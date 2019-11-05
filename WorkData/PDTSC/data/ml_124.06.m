@@ -818,7 +818,7 @@
 <AM lemma="pobřeží">NNNS3-----A----</AM>
 <AM lemma="pobřeží">NNNS4-----A----</AM>
 <AM lemma="pobřeží">NNNS5-----A----</AM>
-<AM lemma="pobřeží" src="auto" recommended="1">NNNS6-----A----</AM>
+<AM lemma="pobřeží" src="auto" recommended="1" selected="1">NNNS6-----A----</AM>
 </tag>
 </m>
 <m id="m124-d1t1056-6">

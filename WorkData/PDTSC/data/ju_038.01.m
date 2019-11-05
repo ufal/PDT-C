@@ -3713,7 +3713,7 @@
 <AM lemma="dvojitý">AANP5----1A---6</AM>
 <AM lemma="dvojitý">AANS4----1A----</AM>
 <AM lemma="dvojitý">AANS5----1A----</AM>
-<AM lemma="dvojitý" src="auto" recommended="1">AANS1----1A----</AM>
+<AM lemma="dvojitý" src="auto" recommended="1" selected="1">AANS1----1A----</AM>
 </tag>
 </m>
 <m id="m038-d1t547-7">

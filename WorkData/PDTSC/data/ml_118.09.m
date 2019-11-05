@@ -1190,7 +1190,7 @@
 <form>Holmenkollen</form>
 <tag>
 <AM lemma="Holmenkollen_;G">NNIS4-----A----</AM>
-<AM lemma="Holmenkollen_;G" src="auto" recommended="1">NNIS1-----A----</AM>
+<AM lemma="Holmenkollen_;G" src="auto" recommended="1" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m118-31-38">

@@ -1735,7 +1735,7 @@
 <form>elektrotechnickou</form>
 <tag>
 <AM lemma="elektrotechnický">AAFS7----1A----</AM>
-<AM lemma="elektrotechnický" src="auto" recommended="1">AAFS4----1A----</AM>
+<AM lemma="elektrotechnický" src="auto" recommended="1" selected="1">AAFS4----1A----</AM>
 </tag>
 </m>
 <m id="m057-d1t666-14">

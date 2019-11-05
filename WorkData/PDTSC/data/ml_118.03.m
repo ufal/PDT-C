@@ -3344,6 +3344,7 @@
 <AM lemma="dillí">NNNS5-----A----</AM>
 <AM lemma="dillí">NNNS6-----A----</AM>
 <AM lemma="dillí" src="auto" recommended="1">NNNS1-----A----</AM>
+<AM lemma="Dillí_;G" src="manual" selected="1">NNNS1-----A----</AM>
 </tag>
 </m>
 <m id="m118-d-id87408-punct">

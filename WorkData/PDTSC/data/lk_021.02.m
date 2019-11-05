@@ -3296,7 +3296,10 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>byli</form>
-<tag lemma="být" src="auto" recommended="1">VpMP---XR-AAI--</tag>
+<tag>
+<AM lemma="být" src="auto" recommended="1">VpMP---XR-AAI--</AM>
+<AM lemma="být" src="manual" selected="1">VpMP----R-AAI--</AM>
+</tag>
 </m>
 <m id="m021-d1t895-5">
 <w.rf>

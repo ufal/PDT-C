@@ -3855,7 +3855,7 @@
 <form>mně</form>
 <tag>
 <AM lemma="já">PP-S6--1-------</AM>
-<AM lemma="já" src="auto" recommended="1">PP-S3--1-------</AM>
+<AM lemma="já" src="auto" recommended="1" selected="1">PP-S3--1-------</AM>
 </tag>
 </m>
 <m id="m134-d1t103-18">
@@ -4090,7 +4090,10 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>nerozuměly</form>
-<tag lemma="rozumět" src="auto" recommended="1">VpTP---XR-NAI--</tag>
+<tag>
+<AM lemma="rozumět" src="auto" recommended="1">VpTP---XR-NAI--</AM>
+<AM lemma="rozumět" src="manual" selected="1">VpTP----R-NAI--</AM>
+</tag>
 </m>
 <m id="m134-247-259">
 <w.rf>

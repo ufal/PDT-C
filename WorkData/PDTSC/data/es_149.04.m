@@ -2128,7 +2128,7 @@
 <form_change>spell</form_change>
 <form>montérkách</form>
 <tag>
-<AM lemma="montérky">NNFP6-----A----</AM>
+<AM lemma="montérky" selected="1">NNFP6-----A----</AM>
 <AM lemma="montérka_^(*2)" src="auto" recommended="1">NNFP6-----A----</AM>
 </tag>
 </m>
@@ -2744,7 +2744,7 @@
 <AM lemma="mimořádný">AAIS2----1A----</AM>
 <AM lemma="mimořádný">AAMS2----1A----</AM>
 <AM lemma="mimořádný">AAMS4----1A----</AM>
-<AM lemma="mimořádný" src="auto" recommended="1">AANS2----1A----</AM>
+<AM lemma="mimořádný" src="auto" recommended="1" selected="1">AANS2----1A----</AM>
 </tag>
 </m>
 <m id="m149-d1t890-3">

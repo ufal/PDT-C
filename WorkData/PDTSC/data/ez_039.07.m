@@ -6254,7 +6254,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>píšťal</form>
-<tag lemma="píšťala" src="auto" recommended="1">NNFP2-----A----</tag>
+<tag lemma="píšťala" src="auto" recommended="1" selected="1">NNFP2-----A----</tag>
 </m>
 <m id="m039-d-id150933-punct">
 <w.rf>
@@ -6483,7 +6483,7 @@
 <tag>
 <AM lemma="předminulý">AAIS6----1A----</AM>
 <AM lemma="předminulý">AAMS6----1A----</AM>
-<AM lemma="předminulý" src="auto" recommended="1">AANS6----1A----</AM>
+<AM lemma="předminulý" src="auto" recommended="1" selected="1">AANS6----1A----</AM>
 </tag>
 </m>
 <m id="m039-d1t3335-9">

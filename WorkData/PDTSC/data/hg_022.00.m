@@ -194,7 +194,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>Jmenuji</form>
-<tag lemma="jmenovat" src="auto" recommended="1">VB-S---1P-AAB-1</tag>
+<tag lemma="jmenovat" src="auto" recommended="1" selected="1">VB-S---1P-AAB-1</tag>
 </m>
 <m id="m022-d1t46-2">
 <w.rf>

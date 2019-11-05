@@ -1302,7 +1302,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>kdyby</form>
-<tag lemma="kdyby" src="auto" recommended="1">J,-------------</tag>
+<tag lemma="kdyby" src="auto" recommended="1" selected="1">J,-------------</tag>
 </m>
 <m id="m784-d1t1863-7">
 <w.rf>

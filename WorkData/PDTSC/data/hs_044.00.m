@@ -211,7 +211,7 @@
 <AM lemma="a-77_,t">F%-------------</AM>
 <AM lemma="a-88_:B">NNXXX-----A----</AM>
 <AM lemma="akciový">AAXXX----1A---8</AM>
-<AM lemma="a-1" src="auto" recommended="1">J^-------------</AM>
+<AM lemma="a-1" src="auto" recommended="1" selected="1">J^-------------</AM>
 </tag>
 </m>
 <m id="m044-d1t25-7">
@@ -2367,7 +2367,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>jednom</form>
-<tag lemma="jeden`1" src="auto" recommended="1">ClZS6----------</tag>
+<tag lemma="jeden`1" src="auto" recommended="1" selected="1">ClZS6----------</tag>
 </m>
 <m id="m044-d1t138-3">
 <w.rf>

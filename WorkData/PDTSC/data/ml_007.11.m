@@ -2455,7 +2455,10 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>tančily</form>
-<tag lemma="tančit" src="auto" recommended="1">VpTP---XR-AAI--</tag>
+<tag>
+<AM lemma="tančit" src="auto" recommended="1">VpTP---XR-AAI--</AM>
+<AM lemma="tančit" src="manual" selected="1">VpTP----R-AAI--</AM>
+</tag>
 </m>
 <m id="m007-d1t3385-21">
 <w.rf>

@@ -122,6 +122,7 @@
 <AM lemma="zavináč">NNIP4-----A----</AM>
 <AM lemma="zavináč">NNIP5-----A----</AM>
 <AM lemma="zavináč" src="auto" recommended="1">NNIS2-----A----</AM>
+<AM lemma="zavináč-2" src="manual" selected="1">NNMS4-----A----</AM>
 </tag>
 </m>
 <m id="m053-d1t1062-10">

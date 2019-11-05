@@ -3228,7 +3228,7 @@
 <AM lemma="týdenní">AAMS2----1A----</AM>
 <AM lemma="týdenní">AAMS4----1A----</AM>
 <AM lemma="týdenní">AANS2----1A----</AM>
-<AM lemma="týdenní" src="auto" recommended="1">AAIS2----1A----</AM>
+<AM lemma="týdenní" src="auto" recommended="1" selected="1">AAIS2----1A----</AM>
 </tag>
 </m>
 <m id="m017-d1t2320-10">

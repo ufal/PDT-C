@@ -31,7 +31,10 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>mohly</form>
-<tag lemma="moci" src="auto" recommended="1">VpTP---XR-AAI--</tag>
+<tag>
+<AM lemma="moci" src="auto" recommended="1">VpTP---XR-AAI--</AM>
+<AM lemma="moci" src="manual" selected="1">VpTP----R-AAI--</AM>
+</tag>
 </m>
 <m id="m115-d1t658-14">
 <w.rf>

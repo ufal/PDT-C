@@ -523,7 +523,7 @@
 <form>ni</form>
 <tag>
 <AM lemma="ni_,a">J^-------------</AM>
-<AM lemma="on-1" src="auto" recommended="1">P5FS4--3-------</AM>
+<AM lemma="on-1" src="auto" recommended="1" selected="1">P5FS4--3-------</AM>
 </tag>
 </m>
 <m id="m121-d1t715-9">

@@ -862,7 +862,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>ji</form>
-<tag lemma="on-1" src="auto" recommended="1">PPFS4--3-------</tag>
+<tag lemma="on-1" src="auto" recommended="1" selected="1">PPFS4--3-------</tag>
 </m>
 <m id="m028-d1t990-3">
 <w.rf>
@@ -1958,7 +1958,7 @@
 </w.rf>
 <form>Litice</form>
 <tag>
-<AM lemma="Litice_;G" src="auto">NNFP1-----A----</AM>
+<AM lemma="Litice_;G" src="auto" selected="1">NNFP1-----A----</AM>
 <AM lemma="Litice_;G" src="auto">NNFP4-----A----</AM>
 <AM lemma="Litice_;G" src="auto">NNFP5-----A----</AM>
 <AM lemma="Litice_;G" src="auto" recommended="1">NNFS1-----A----</AM>
@@ -1988,7 +1988,7 @@
 <tag>
 <AM lemma="Robčice_;G">NNFP4-----A----</AM>
 <AM lemma="Robčice_;G">NNFP5-----A----</AM>
-<AM lemma="Robčice_;G" src="auto" recommended="1">NNFP1-----A----</AM>
+<AM lemma="Robčice_;G" src="auto" recommended="1" selected="1">NNFP1-----A----</AM>
 </tag>
 </m>
 <m id="m028-d1t1055-27">

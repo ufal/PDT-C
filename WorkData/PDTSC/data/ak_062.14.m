@@ -1401,6 +1401,7 @@
 <tag>
 <AM lemma="Kühlungsborn">X@-------------</AM>
 <AM lemma="Kühlungsborn" src="auto" recommended="1">NNXXX-----A---8</AM>
+<AM lemma="Kühlungsborn_;G" src="manual" selected="1">NNIXX-----A----</AM>
 </tag>
 </m>
 <m id="m062-d1t3137-4">
@@ -3755,6 +3756,7 @@
 <tag>
 <AM lemma="Kühlungsbornu">X@-------------</AM>
 <AM lemma="Kühlungsborn" src="auto" recommended="1">NNIS2-----A----</AM>
+<AM lemma="Kühlungsborn_;G" src="manual" selected="1">NNIS2-----A----</AM>
 </tag>
 </m>
 <m id="m062-d-id182567-punct">

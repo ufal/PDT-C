@@ -3104,7 +3104,7 @@
 <tag>
 <AM lemma="s-1">RV--2----------</AM>
 <AM lemma="s-1">RV--7----------</AM>
-<AM lemma="se_^(zvr._zájmeno/částice)" src="auto" recommended="1">P7-X4----------</AM>
+<AM lemma="se_^(zvr._zájmeno/částice)" src="auto" recommended="1" selected="1">P7-X4----------</AM>
 </tag>
 </m>
 <m id="m121-d1t1037-3">

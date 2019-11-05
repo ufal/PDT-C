@@ -2822,7 +2822,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>10000</form>
-<tag lemma="10000" src="auto" recommended="1">C=-------------</tag>
+<tag lemma="10000" src="auto" recommended="1" selected="1">C=-------------</tag>
 </m>
 <m id="m054-354-364">
 <w.rf>

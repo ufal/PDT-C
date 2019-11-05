@@ -247,7 +247,7 @@
 <form>Hornád</form>
 <tag>
 <AM lemma="Hornád_;G_^(řeka)">NNIS4-----A----</AM>
-<AM lemma="Hornád_;G_^(řeka)" src="auto" recommended="1">NNIS1-----A----</AM>
+<AM lemma="Hornád_;G_^(řeka)" src="auto" recommended="1" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m045-d1t1838-4">

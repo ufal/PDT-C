@@ -4444,7 +4444,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>pěkně</form>
-<tag lemma="pěkně_^(*1ý)" src="auto" recommended="1">Dg-------1A----</tag>
+<tag lemma="pěkně_^(*1ý)" src="auto" recommended="1" selected="1">Dg-------1A----</tag>
 </m>
 <m id="m114-d1t1579-10">
 <w.rf>

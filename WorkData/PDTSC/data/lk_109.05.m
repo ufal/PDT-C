@@ -768,7 +768,7 @@
 <form>konkrétně</form>
 <tag>
 <AM lemma="konkrétno">NNNS6-----A----</AM>
-<AM lemma="konkrétně_^(*1í)" src="auto" recommended="1">Dg-------1A----</AM>
+<AM lemma="konkrétně_^(*1í)" src="auto" recommended="1" selected="1">Dg-------1A----</AM>
 </tag>
 </m>
 <m id="m109-d1t803-5">
@@ -5899,7 +5899,7 @@
 <AM lemma="kulaťoučký">AANS1----1A----</AM>
 <AM lemma="kulaťoučký">AANS4----1A----</AM>
 <AM lemma="kulaťoučký">AANS5----1A----</AM>
-<AM lemma="kulaťoučký" src="auto" recommended="1">AAFP4----1A----</AM>
+<AM lemma="kulaťoučký" src="auto" recommended="1" selected="1">AAFP4----1A----</AM>
 </tag>
 </m>
 <m id="m109-d1t963-15">

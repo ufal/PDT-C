@@ -1115,7 +1115,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>správně</form>
-<tag lemma="správně_^(správní_rada;_řád)_(správný_chlap)_(*1í)_(*1ý)" src="auto" recommended="1">Dg-------1A----</tag>
+<tag lemma="správně_^(správní_rada;_řád)_(správný_chlap)_(*1í)_(*1ý)" src="auto" recommended="1" selected="1">Dg-------1A----</tag>
 </m>
 <m id="m047-d1t111-14">
 <w.rf>

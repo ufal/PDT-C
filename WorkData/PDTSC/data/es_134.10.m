@@ -4810,7 +4810,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>Bodejť</form>
-<tag lemma="bodejť" src="auto" recommended="1">II-------------</tag>
+<tag lemma="bodejť" src="auto" recommended="1" selected="1">II-------------</tag>
 </m>
 <m id="m134-d1e1281-x4-145">
 <w.rf>
@@ -5674,7 +5674,10 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>jezdila</form>
-<tag lemma="jezdit" src="auto" recommended="1">VpQW---XR-AAI--</tag>
+<tag>
+<AM lemma="jezdit" src="auto" recommended="1">VpQW---XR-AAI--</AM>
+<AM lemma="jezdit" src="manual" selected="1">VpQW----R-AAI--</AM>
+</tag>
 </m>
 <m id="m134-d1t1308-31">
 <w.rf>

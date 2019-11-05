@@ -2633,7 +2633,7 @@
 <form_change>spell</form_change>
 <form>zážitek</form>
 <tag>
-<AM lemma="zážitek">NNIS1-----A----</AM>
+<AM lemma="zážitek" selected="1">NNIS1-----A----</AM>
 <AM lemma="zážitek" src="auto" recommended="1">NNIS4-----A----</AM>
 </tag>
 </m>

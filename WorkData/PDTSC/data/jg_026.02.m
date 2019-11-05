@@ -70,7 +70,7 @@
 <AM lemma="šťastný">AAMP1----1N---6</AM>
 <AM lemma="šťastný">AAMP4----1N---6</AM>
 <AM lemma="šťastný">AAMP5----1N---6</AM>
-<AM lemma="šťastný">AAMS1----1N----</AM>
+<AM lemma="šťastný" selected="1">AAMS1----1N----</AM>
 <AM lemma="šťastný">AAMS5----1N----</AM>
 <AM lemma="šťastný">AANP1----1N---6</AM>
 <AM lemma="šťastný">AANP4----1N---6</AM>
@@ -5148,7 +5148,7 @@
 <form_change>spell</form_change>
 <form>polštářek</form>
 <tag>
-<AM lemma="polštářek">NNIS1-----A----</AM>
+<AM lemma="polštářek" selected="1">NNIS1-----A----</AM>
 <AM lemma="polštářek" src="auto" recommended="1">NNIS4-----A----</AM>
 </tag>
 </m>

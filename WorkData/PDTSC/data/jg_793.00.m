@@ -1127,7 +1127,10 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>nerozuměl</form>
-<tag lemma="rozumět" src="auto" recommended="1">VpYS---XR-NAI--</tag>
+<tag>
+<AM lemma="rozumět" src="auto" recommended="1">VpYS---XR-NAI--</AM>
+<AM lemma="rozumět" src="manual" selected="1">VpYS----R-NAI--</AM>
+</tag>
 </m>
 <m id="m793-d-id57061">
 <w.rf>

@@ -1287,7 +1287,7 @@
 <AM lemma="Belgičan_;E">NNMP5-----A---1</AM>
 <AM lemma="belgičan_^(rasa_koně)">NNMP1-----A---1</AM>
 <AM lemma="belgičan_^(rasa_koně)">NNMP5-----A---1</AM>
-<AM lemma="Belgičan_;E" src="auto" recommended="1">NNMP1-----A---1</AM>
+<AM lemma="Belgičan_;E" src="auto" recommended="1" selected="1">NNMP1-----A---1</AM>
 </tag>
 </m>
 <m id="m006-d1t732-14">

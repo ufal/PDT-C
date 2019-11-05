@@ -458,7 +458,7 @@
 <AM lemma="začátek">NNIS3-----A----</AM>
 <AM lemma="začátek">NNIS5-----A----</AM>
 <AM lemma="začátek">NNIS6-----A----</AM>
-<AM lemma="začátek" src="auto" recommended="1">NNIS2-----A----</AM>
+<AM lemma="začátek" src="auto" recommended="1" selected="1">NNIS2-----A----</AM>
 </tag>
 </m>
 <m id="m107-d1t1865-3">
@@ -474,7 +474,10 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>nevěděli</form>
-<tag lemma="vědět" src="auto" recommended="1">VpMP---XR-NAI--</tag>
+<tag>
+<AM lemma="vědět" src="auto" recommended="1">VpMP---XR-NAI--</AM>
+<AM lemma="vědět" src="manual" selected="1">VpMP----R-NAI--</AM>
+</tag>
 </m>
 <m id="m107-d1e1849-x3-1450">
 <w.rf>
@@ -1050,7 +1053,7 @@
 <form>teleobjektiv</form>
 <tag>
 <AM lemma="teleobjektiv">NNIS1-----A----</AM>
-<AM lemma="teleobjektiv" src="auto" recommended="1">NNIS4-----A----</AM>
+<AM lemma="teleobjektiv" src="auto" recommended="1" selected="1">NNIS4-----A----</AM>
 </tag>
 </m>
 <m id="m107-d1e1849-x4-189">
@@ -5535,7 +5538,10 @@
 <LM>w#w-d1t1987-38</LM>
 </w.rf>
 <form>vzaly</form>
-<tag lemma="vzít" src="auto" recommended="1">VpTP---XR-AAP--</tag>
+<tag>
+<AM lemma="vzít" src="auto" recommended="1">VpTP---XR-AAP--</AM>
+<AM lemma="vzít" src="manual" selected="1">VpTP----R-AAP--</AM>
+</tag>
 </m>
 <m id="m107-d1t1987-40">
 <w.rf>
@@ -5666,7 +5672,10 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>rozprášily</form>
-<tag lemma="rozprášit" src="auto" recommended="1">VpTP---XR-AAP--</tag>
+<tag>
+<AM lemma="rozprášit" src="auto" recommended="1">VpTP---XR-AAP--</AM>
+<AM lemma="rozprášit" src="manual" selected="1">VpTP----R-AAP--</AM>
+</tag>
 </m>
 <m id="m107-d1t1987-54">
 <w.rf>

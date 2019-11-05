@@ -5918,7 +5918,7 @@
 <AM lemma="Mamaie_;G">NNFS3-----A----</AM>
 <AM lemma="Mamaie_;G">NNFS4-----A----</AM>
 <AM lemma="Mamaie_;G">NNFS6-----A----</AM>
-<AM lemma="Mamaia_;G" src="auto" recommended="1">NNFS2-----A----</AM>
+<AM lemma="Mamaia_;G" src="auto" recommended="1" selected="1">NNFS2-----A----</AM>
 </tag>
 </m>
 <m id="m104-d-id181371-punct">

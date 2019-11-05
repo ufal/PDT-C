@@ -3300,7 +3300,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>chvilku</form>
-<tag lemma="chvilka" src="auto" recommended="1">NNFS4-----A----</tag>
+<tag lemma="chvilka" src="auto" recommended="1" selected="1">NNFS4-----A----</tag>
 </m>
 <m id="m021-d-id169251-punct">
 <w.rf>

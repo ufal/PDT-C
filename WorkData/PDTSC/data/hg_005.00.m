@@ -2447,7 +2447,7 @@
 <AM lemma="Zábělá_;G">NNFP5-----A---6</AM>
 <AM lemma="Zábělá_;G">NNFS2-----A---6</AM>
 <AM lemma="Zábělá_;G">NNFS3-----A---6</AM>
-<AM lemma="Zábělá_;G" src="auto" recommended="1">NNFS6-----A---6</AM>
+<AM lemma="Zábělá_;G" src="auto" recommended="1" selected="1">NNFS6-----A---6</AM>
 </tag>
 </m>
 <m id="m005-2036-2046">
