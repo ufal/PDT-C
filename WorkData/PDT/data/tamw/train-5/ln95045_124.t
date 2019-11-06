@@ -4,7 +4,7 @@
 <schema href="tdata_35_schema.xml" />
 <references>
 <reffile id="a" name="adata" href="ln95045_124.a" />
-<reffile id="v" name="vallex" href="pdtvallex3.0.xml" />
+<reffile id="v" name="vallex" href="../../../../../../Users/Marie%20Mikulov%E1/AppData/Roaming/.tred.d/extensions/pdt35/resources/pdtvallex3.0.xml" />
 </references>
 </head>
 <meta>
@@ -3874,14 +3874,14 @@
 <lex.rf>a#a-ln95045-124-p4s4w24</lex.rf>
 </a>
 <nodetype>complex</nodetype>
-<t_lemma>Audi</t_lemma>
+<t_lemma>audio</t_lemma>
 <functor>PAR</functor>
 <sentmod>enunc</sentmod>
 <is_member>1</is_member>
 <is_parenthesis>1</is_parenthesis>
 <gram>
 <sempos>n.denot</sempos>
-<gender>fem</gender>
+<gender>neut</gender>
 <number>sg</number>
 <typgroup>single</typgroup>
 </gram>
