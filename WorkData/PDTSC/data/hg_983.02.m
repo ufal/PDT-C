@@ -146,9 +146,9 @@
 <form_change>spell</form_change>
 <form>což</form>
 <tag>
-<AM lemma="což-1">PE--4----------</AM>
-<AM lemma="což-2_^(cožpak:_což_jsem_to_neříkal?)">TT-------------</AM>
-<AM lemma="což-3_^(nu_což,_...;_což_o_to,_...)">II-------------</AM>
+<AM lemma="což-1" src="auto">PE--4----------</AM>
+<AM lemma="což-2_^(cožpak:_což_jsem_to_neříkal?)" src="auto">TT-------------</AM>
+<AM lemma="což-3_^(nu_což,_...;_což_o_to,_...)" src="auto">II-------------</AM>
 <AM lemma="což-1" src="auto" recommended="1" selected="1">PE--1----------</AM>
 </tag>
 </m>
@@ -4300,28 +4300,28 @@
 <form_change>spell</form_change>
 <form>Suezský</form>
 <tag>
-<AM lemma="suezský">AAFP1----1A---6</AM>
-<AM lemma="suezský">AAFP4----1A---6</AM>
-<AM lemma="suezský">AAFP5----1A---6</AM>
-<AM lemma="suezský">AAFS2----1A---6</AM>
-<AM lemma="suezský">AAFS3----1A---6</AM>
-<AM lemma="suezský">AAFS6----1A---6</AM>
-<AM lemma="suezský">AAIP1----1A---6</AM>
-<AM lemma="suezský">AAIP4----1A---6</AM>
-<AM lemma="suezský">AAIP5----1A---6</AM>
-<AM lemma="suezský">AAIS4----1A----</AM>
-<AM lemma="suezský">AAIS5----1A----</AM>
-<AM lemma="suezský">AAMP1----1A---6</AM>
-<AM lemma="suezský">AAMP4----1A---6</AM>
-<AM lemma="suezský">AAMP5----1A---6</AM>
-<AM lemma="suezský">AAMS1----1A----</AM>
-<AM lemma="suezský">AAMS5----1A----</AM>
-<AM lemma="suezský">AANP1----1A---6</AM>
-<AM lemma="suezský">AANP4----1A---6</AM>
-<AM lemma="suezský">AANP5----1A---6</AM>
-<AM lemma="suezský">AANS1----1A---6</AM>
-<AM lemma="suezský">AANS4----1A---6</AM>
-<AM lemma="suezský">AANS5----1A---6</AM>
+<AM lemma="suezský" src="auto">AAFP1----1A---6</AM>
+<AM lemma="suezský" src="auto">AAFP4----1A---6</AM>
+<AM lemma="suezský" src="auto">AAFP5----1A---6</AM>
+<AM lemma="suezský" src="auto">AAFS2----1A---6</AM>
+<AM lemma="suezský" src="auto">AAFS3----1A---6</AM>
+<AM lemma="suezský" src="auto">AAFS6----1A---6</AM>
+<AM lemma="suezský" src="auto">AAIP1----1A---6</AM>
+<AM lemma="suezský" src="auto">AAIP4----1A---6</AM>
+<AM lemma="suezský" src="auto">AAIP5----1A---6</AM>
+<AM lemma="suezský" src="auto">AAIS4----1A----</AM>
+<AM lemma="suezský" src="auto">AAIS5----1A----</AM>
+<AM lemma="suezský" src="auto">AAMP1----1A---6</AM>
+<AM lemma="suezský" src="auto">AAMP4----1A---6</AM>
+<AM lemma="suezský" src="auto">AAMP5----1A---6</AM>
+<AM lemma="suezský" src="auto">AAMS1----1A----</AM>
+<AM lemma="suezský" src="auto">AAMS5----1A----</AM>
+<AM lemma="suezský" src="auto">AANP1----1A---6</AM>
+<AM lemma="suezský" src="auto">AANP4----1A---6</AM>
+<AM lemma="suezský" src="auto">AANP5----1A---6</AM>
+<AM lemma="suezský" src="auto">AANS1----1A---6</AM>
+<AM lemma="suezský" src="auto">AANS4----1A---6</AM>
+<AM lemma="suezský" src="auto">AANS5----1A---6</AM>
 <AM lemma="suezský" src="auto" recommended="1" selected="1">AAIS1----1A----</AM>
 </tag>
 </m>
@@ -4843,9 +4843,9 @@
 <form_change>spell</form_change>
 <form>Suezského</form>
 <tag>
-<AM lemma="suezský">AAMS2----1A----</AM>
-<AM lemma="suezský">AAMS4----1A----</AM>
-<AM lemma="suezský">AANS2----1A----</AM>
+<AM lemma="suezský" src="auto">AAMS2----1A----</AM>
+<AM lemma="suezský" src="auto">AAMS4----1A----</AM>
+<AM lemma="suezský" src="auto">AANS2----1A----</AM>
 <AM lemma="suezský" src="auto" recommended="1" selected="1">AAIS2----1A----</AM>
 </tag>
 </m>

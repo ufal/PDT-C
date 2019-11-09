@@ -5068,7 +5068,7 @@
 <form_change>spell</form_change>
 <form>Belsen</form>
 <tag>
-<AM lemma="Belsen_;G">NNIS4-----A----</AM>
+<AM lemma="Belsen_;G" src="auto">NNIS4-----A----</AM>
 <AM lemma="Belsen_;G" src="auto" recommended="1" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>

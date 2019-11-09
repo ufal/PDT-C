@@ -4856,9 +4856,9 @@
 <form_change>spell</form_change>
 <form>nejmladšího</form>
 <tag>
-<AM lemma="mladý">AAIS2----3A----</AM>
-<AM lemma="mladý">AAMS4----3A----</AM>
-<AM lemma="mladý">AANS2----3A----</AM>
+<AM lemma="mladý" src="auto">AAIS2----3A----</AM>
+<AM lemma="mladý" src="auto">AAMS4----3A----</AM>
+<AM lemma="mladý" src="auto">AANS2----3A----</AM>
 <AM lemma="mladý" src="auto" recommended="1" selected="1">AAMS2----3A----</AM>
 </tag>
 </m>

@@ -518,9 +518,9 @@
 <form_change>spell</form_change>
 <form>Brna</form>
 <tag>
-<AM lemma="Brno_;G">NNNP1-----A----</AM>
-<AM lemma="Brno_;G">NNNP4-----A----</AM>
-<AM lemma="Brno_;G">NNNP5-----A----</AM>
+<AM lemma="Brno_;G" src="auto">NNNP1-----A----</AM>
+<AM lemma="Brno_;G" src="auto">NNNP4-----A----</AM>
+<AM lemma="Brno_;G" src="auto">NNNP5-----A----</AM>
 <AM lemma="Brno_;G" src="auto" recommended="1" selected="1">NNNS2-----A----</AM>
 </tag>
 </m>

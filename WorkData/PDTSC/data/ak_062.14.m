@@ -1399,7 +1399,7 @@
 <form_change>spell</form_change>
 <form>Kühlungsborn</form>
 <tag>
-<AM lemma="Kühlungsborn">X@-------------</AM>
+<AM lemma="Kühlungsborn" src="auto">X@-------------</AM>
 <AM lemma="Kühlungsborn" src="auto" recommended="1">NNXXX-----A---8</AM>
 <AM lemma="Kühlungsborn_;G" src="manual" selected="1">NNIXX-----A----</AM>
 </tag>
@@ -3754,7 +3754,7 @@
 <form_change>spell</form_change>
 <form>Kühlungsbornu</form>
 <tag>
-<AM lemma="Kühlungsbornu">X@-------------</AM>
+<AM lemma="Kühlungsbornu" src="auto">X@-------------</AM>
 <AM lemma="Kühlungsborn" src="auto" recommended="1">NNIS2-----A----</AM>
 <AM lemma="Kühlungsborn_;G" src="manual" selected="1">NNIS2-----A----</AM>
 </tag>

@@ -1372,17 +1372,17 @@
 <form_change>spell</form_change>
 <form>příbuzných</form>
 <tag>
-<AM lemma="příbuzný-2_^(podobný)">AAFP2----1A----</AM>
-<AM lemma="příbuzný-2_^(podobný)">AAFP6----1A----</AM>
-<AM lemma="příbuzný-2_^(podobný)">AAIP2----1A----</AM>
-<AM lemma="příbuzný-2_^(podobný)">AAIP6----1A----</AM>
-<AM lemma="příbuzný-2_^(podobný)">AAMP2----1A----</AM>
-<AM lemma="příbuzný-2_^(podobný)">AAMP6----1A----</AM>
-<AM lemma="příbuzný-2_^(podobný)">AANP2----1A----</AM>
-<AM lemma="příbuzný-2_^(podobný)">AANP6----1A----</AM>
-<AM lemma="příbuzná-1_^(člen_rodiny)_(*3ý-1)">NNFP2-----A----</AM>
-<AM lemma="příbuzná-1_^(člen_rodiny)_(*3ý-1)">NNFP6-----A----</AM>
-<AM lemma="příbuzný-1_^(člen_rodiny)">NNMP6-----A----</AM>
+<AM lemma="příbuzný-2_^(podobný)" src="auto">AAFP2----1A----</AM>
+<AM lemma="příbuzný-2_^(podobný)" src="auto">AAFP6----1A----</AM>
+<AM lemma="příbuzný-2_^(podobný)" src="auto">AAIP2----1A----</AM>
+<AM lemma="příbuzný-2_^(podobný)" src="auto">AAIP6----1A----</AM>
+<AM lemma="příbuzný-2_^(podobný)" src="auto">AAMP2----1A----</AM>
+<AM lemma="příbuzný-2_^(podobný)" src="auto">AAMP6----1A----</AM>
+<AM lemma="příbuzný-2_^(podobný)" src="auto">AANP2----1A----</AM>
+<AM lemma="příbuzný-2_^(podobný)" src="auto">AANP6----1A----</AM>
+<AM lemma="příbuzná-1_^(člen_rodiny)_(*3ý-1)" src="auto">NNFP2-----A----</AM>
+<AM lemma="příbuzná-1_^(člen_rodiny)_(*3ý-1)" src="auto">NNFP6-----A----</AM>
+<AM lemma="příbuzný-1_^(člen_rodiny)" src="auto">NNMP6-----A----</AM>
 <AM lemma="příbuzný-1_^(člen_rodiny)" src="auto" recommended="1" selected="1">NNMP2-----A----</AM>
 </tag>
 </m>

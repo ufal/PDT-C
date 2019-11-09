@@ -2916,7 +2916,7 @@
 <form_change>spell</form_change>
 <form>Pesach</form>
 <tag>
-<AM lemma="pesach">NNIS1-----A----</AM>
+<AM lemma="pesach" src="auto">NNIS1-----A----</AM>
 <AM lemma="pesach" src="auto" recommended="1" selected="1">NNIS4-----A----</AM>
 </tag>
 </m>

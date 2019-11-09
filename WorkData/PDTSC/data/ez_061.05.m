@@ -5260,7 +5260,7 @@
 <form_change>spell</form_change>
 <form>Většinou</form>
 <tag>
-<AM lemma="většina">NNFS7-----A----</AM>
+<AM lemma="většina" src="auto">NNFS7-----A----</AM>
 <AM lemma="většinou" src="auto" recommended="1" selected="1">Db-------------</AM>
 </tag>
 </m>

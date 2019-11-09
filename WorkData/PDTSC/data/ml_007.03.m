@@ -1474,34 +1474,34 @@
 <form_change>spell</form_change>
 <form>Sluneční</form>
 <tag>
-<AM lemma="sluneční">AAFP1----1A----</AM>
-<AM lemma="sluneční">AAFP4----1A----</AM>
-<AM lemma="sluneční">AAFP5----1A----</AM>
-<AM lemma="sluneční">AAFS1----1A----</AM>
-<AM lemma="sluneční">AAFS2----1A----</AM>
-<AM lemma="sluneční">AAFS3----1A----</AM>
-<AM lemma="sluneční">AAFS4----1A----</AM>
-<AM lemma="sluneční">AAFS5----1A----</AM>
-<AM lemma="sluneční">AAFS6----1A----</AM>
-<AM lemma="sluneční">AAFS7----1A----</AM>
-<AM lemma="sluneční">AAIP1----1A----</AM>
-<AM lemma="sluneční">AAIP4----1A----</AM>
-<AM lemma="sluneční">AAIP5----1A----</AM>
-<AM lemma="sluneční">AAIS1----1A----</AM>
-<AM lemma="sluneční">AAIS4----1A----</AM>
-<AM lemma="sluneční">AAIS5----1A----</AM>
-<AM lemma="sluneční">AAMP1----1A----</AM>
-<AM lemma="sluneční">AAMP4----1A----</AM>
-<AM lemma="sluneční">AAMP5----1A----</AM>
-<AM lemma="sluneční">AAMS1----1A----</AM>
-<AM lemma="sluneční">AAMS5----1A----</AM>
-<AM lemma="sluneční">AANP1----1A----</AM>
-<AM lemma="sluneční">AANP5----1A----</AM>
-<AM lemma="sluneční">AANS1----1A----</AM>
-<AM lemma="sluneční">AANS4----1A----</AM>
-<AM lemma="sluneční">AANS5----1A----</AM>
-<AM lemma="slunečný">AAMP1----1A----</AM>
-<AM lemma="slunečný">AAMP5----1A----</AM>
+<AM lemma="sluneční" src="auto">AAFP1----1A----</AM>
+<AM lemma="sluneční" src="auto">AAFP4----1A----</AM>
+<AM lemma="sluneční" src="auto">AAFP5----1A----</AM>
+<AM lemma="sluneční" src="auto">AAFS1----1A----</AM>
+<AM lemma="sluneční" src="auto">AAFS2----1A----</AM>
+<AM lemma="sluneční" src="auto">AAFS3----1A----</AM>
+<AM lemma="sluneční" src="auto">AAFS4----1A----</AM>
+<AM lemma="sluneční" src="auto">AAFS5----1A----</AM>
+<AM lemma="sluneční" src="auto">AAFS6----1A----</AM>
+<AM lemma="sluneční" src="auto">AAFS7----1A----</AM>
+<AM lemma="sluneční" src="auto">AAIP1----1A----</AM>
+<AM lemma="sluneční" src="auto">AAIP4----1A----</AM>
+<AM lemma="sluneční" src="auto">AAIP5----1A----</AM>
+<AM lemma="sluneční" src="auto">AAIS1----1A----</AM>
+<AM lemma="sluneční" src="auto">AAIS4----1A----</AM>
+<AM lemma="sluneční" src="auto">AAIS5----1A----</AM>
+<AM lemma="sluneční" src="auto">AAMP1----1A----</AM>
+<AM lemma="sluneční" src="auto">AAMP4----1A----</AM>
+<AM lemma="sluneční" src="auto">AAMP5----1A----</AM>
+<AM lemma="sluneční" src="auto">AAMS1----1A----</AM>
+<AM lemma="sluneční" src="auto">AAMS5----1A----</AM>
+<AM lemma="sluneční" src="auto">AANP1----1A----</AM>
+<AM lemma="sluneční" src="auto">AANP5----1A----</AM>
+<AM lemma="sluneční" src="auto">AANS1----1A----</AM>
+<AM lemma="sluneční" src="auto">AANS4----1A----</AM>
+<AM lemma="sluneční" src="auto">AANS5----1A----</AM>
+<AM lemma="slunečný" src="auto">AAMP1----1A----</AM>
+<AM lemma="slunečný" src="auto">AAMP5----1A----</AM>
 <AM lemma="sluneční" src="auto" recommended="1" selected="1">AANP4----1A----</AM>
 </tag>
 </m>

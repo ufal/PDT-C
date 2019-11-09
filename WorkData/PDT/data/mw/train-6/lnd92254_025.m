@@ -906,13 +906,13 @@
 <form_change>spell</form_change>
 <form>ničících</form>
 <tag>
-<AM lemma="ničící_^(*3it)">AGFP6-----A----</AM>
-<AM lemma="ničící_^(*3it)">AGIP2-----A----</AM>
-<AM lemma="ničící_^(*3it)">AGIP6-----A----</AM>
-<AM lemma="ničící_^(*3it)">AGMP2-----A----</AM>
-<AM lemma="ničící_^(*3it)">AGMP6-----A----</AM>
-<AM lemma="ničící_^(*3it)">AGNP2-----A----</AM>
-<AM lemma="ničící_^(*3it)">AGNP6-----A----</AM>
+<AM lemma="ničící_^(*3it)" src="auto">AGFP6-----A----</AM>
+<AM lemma="ničící_^(*3it)" src="auto">AGIP2-----A----</AM>
+<AM lemma="ničící_^(*3it)" src="auto">AGIP6-----A----</AM>
+<AM lemma="ničící_^(*3it)" src="auto">AGMP2-----A----</AM>
+<AM lemma="ničící_^(*3it)" src="auto">AGMP6-----A----</AM>
+<AM lemma="ničící_^(*3it)" src="auto">AGNP2-----A----</AM>
+<AM lemma="ničící_^(*3it)" src="auto">AGNP6-----A----</AM>
 <AM lemma="ničící_^(*3it)" src="auto" recommended="1" selected="1">AGFP2-----A----</AM>
 </tag>
 </m>

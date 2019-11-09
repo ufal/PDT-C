@@ -1832,7 +1832,7 @@
 <form_change>spell</form_change>
 <form>elektrárně</form>
 <tag>
-<AM lemma="elektrárna">NNFS3-----A----</AM>
+<AM lemma="elektrárna" src="auto">NNFS3-----A----</AM>
 <AM lemma="elektrárna" src="auto" recommended="1" selected="1">NNFS6-----A----</AM>
 </tag>
 </m>

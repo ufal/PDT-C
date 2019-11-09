@@ -3205,13 +3205,13 @@
 <form_change>spell</form_change>
 <form>Strossmayerově</form>
 <tag>
-<AM lemma="Strossmayerův_;S_^(*2)">AUFS3M---------</AM>
-<AM lemma="Strossmayerův_;S_^(*2)">AUFS6M---------</AM>
-<AM lemma="Strossmayerův_;S_^(*2)">AUIS3M--------6</AM>
-<AM lemma="Strossmayerův_;S_^(*2)">AUIS6M---------</AM>
-<AM lemma="Strossmayerův_;S_^(*2)">AUMS3M--------6</AM>
-<AM lemma="Strossmayerův_;S_^(*2)">AUMS6M---------</AM>
-<AM lemma="Strossmayerův_;S_^(*2)">AUNS3M--------6</AM>
+<AM lemma="Strossmayerův_;S_^(*2)" src="auto">AUFS3M---------</AM>
+<AM lemma="Strossmayerův_;S_^(*2)" src="auto">AUFS6M---------</AM>
+<AM lemma="Strossmayerův_;S_^(*2)" src="auto">AUIS3M--------6</AM>
+<AM lemma="Strossmayerův_;S_^(*2)" src="auto">AUIS6M---------</AM>
+<AM lemma="Strossmayerův_;S_^(*2)" src="auto">AUMS3M--------6</AM>
+<AM lemma="Strossmayerův_;S_^(*2)" src="auto">AUMS6M---------</AM>
+<AM lemma="Strossmayerův_;S_^(*2)" src="auto">AUNS3M--------6</AM>
 <AM lemma="Strossmayerův_;S_^(*2)" src="auto" recommended="1" selected="1">AUNS6M---------</AM>
 </tag>
 </m>

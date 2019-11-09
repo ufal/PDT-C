@@ -363,10 +363,10 @@
 <form_change>spell</form_change>
 <form>drážníma</form>
 <tag>
-<AM lemma="drážní">AAFP7----1A---6</AM>
-<AM lemma="drážní">AAIP7----1A---6</AM>
-<AM lemma="drážní" selected="1">AAMP7----1A---6</AM>
-<AM lemma="drážní">AANP7----1A---6</AM>
+<AM lemma="drážní" src="auto">AAFP7----1A---6</AM>
+<AM lemma="drážní" src="auto">AAIP7----1A---6</AM>
+<AM lemma="drážní" selected="1" src="auto">AAMP7----1A---6</AM>
+<AM lemma="drážní" src="auto">AANP7----1A---6</AM>
 <AM lemma="drážní" src="auto" recommended="1">AAFD7----1A----</AM>
 </tag>
 </m>

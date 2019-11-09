@@ -5049,7 +5049,7 @@
 <form_change>spell</form_change>
 <form>zajdení</form>
 <tag>
-<AM lemma="zajdení">X@-------------</AM>
+<AM lemma="zajdení" src="auto">X@-------------</AM>
 <AM lemma="zajdený" src="auto" recommended="1" selected="1">AAMP1----1A----</AM>
 </tag>
 </m>

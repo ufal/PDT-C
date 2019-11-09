@@ -1681,21 +1681,21 @@
 <form_change>spell</form_change>
 <form>čtvrté</form>
 <tag>
-<AM lemma="čtvrtý">CrFP1----------</AM>
-<AM lemma="čtvrtý">CrFP4----------</AM>
-<AM lemma="čtvrtý">CrFP5----------</AM>
-<AM lemma="čtvrtý">CrFS2----------</AM>
-<AM lemma="čtvrtý">CrFS3----------</AM>
-<AM lemma="čtvrtý">CrIP1----------</AM>
-<AM lemma="čtvrtý">CrIP4----------</AM>
-<AM lemma="čtvrtý">CrIP5----------</AM>
-<AM lemma="čtvrtý">CrMP4----------</AM>
-<AM lemma="čtvrtý">CrNP1---------6</AM>
-<AM lemma="čtvrtý">CrNP4---------6</AM>
-<AM lemma="čtvrtý">CrNP5---------6</AM>
-<AM lemma="čtvrtý">CrNS1----------</AM>
-<AM lemma="čtvrtý">CrNS4----------</AM>
-<AM lemma="čtvrtý">CrNS5----------</AM>
+<AM lemma="čtvrtý" src="auto">CrFP1----------</AM>
+<AM lemma="čtvrtý" src="auto">CrFP4----------</AM>
+<AM lemma="čtvrtý" src="auto">CrFP5----------</AM>
+<AM lemma="čtvrtý" src="auto">CrFS2----------</AM>
+<AM lemma="čtvrtý" src="auto">CrFS3----------</AM>
+<AM lemma="čtvrtý" src="auto">CrIP1----------</AM>
+<AM lemma="čtvrtý" src="auto">CrIP4----------</AM>
+<AM lemma="čtvrtý" src="auto">CrIP5----------</AM>
+<AM lemma="čtvrtý" src="auto">CrMP4----------</AM>
+<AM lemma="čtvrtý" src="auto">CrNP1---------6</AM>
+<AM lemma="čtvrtý" src="auto">CrNP4---------6</AM>
+<AM lemma="čtvrtý" src="auto">CrNP5---------6</AM>
+<AM lemma="čtvrtý" src="auto">CrNS1----------</AM>
+<AM lemma="čtvrtý" src="auto">CrNS4----------</AM>
+<AM lemma="čtvrtý" src="auto">CrNS5----------</AM>
 <AM lemma="čtvrtý" src="auto" recommended="1" selected="1">CrFS6----------</AM>
 </tag>
 </m>
@@ -2734,11 +2734,11 @@
 <form_change>spell</form_change>
 <form>Hlavně</form>
 <tag>
-<AM lemma="Hlavno_;G">NNNS6-----A----</AM>
-<AM lemma="hlaveň">NNFP1-----A----</AM>
-<AM lemma="hlaveň">NNFP4-----A----</AM>
-<AM lemma="hlaveň">NNFP5-----A----</AM>
-<AM lemma="hlaveň">NNFS2-----A----</AM>
+<AM lemma="Hlavno_;G" src="auto">NNNS6-----A----</AM>
+<AM lemma="hlaveň" src="auto">NNFP1-----A----</AM>
+<AM lemma="hlaveň" src="auto">NNFP4-----A----</AM>
+<AM lemma="hlaveň" src="auto">NNFP5-----A----</AM>
+<AM lemma="hlaveň" src="auto">NNFS2-----A----</AM>
 <AM lemma="hlavně_^(*1í)" src="auto" recommended="1" selected="1">Dg-------1A----</AM>
 </tag>
 </m>

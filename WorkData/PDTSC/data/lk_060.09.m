@@ -1101,7 +1101,7 @@
 <form_change>spell</form_change>
 <form>sadbě</form>
 <tag>
-<AM lemma="sadba">NNFS3-----A----</AM>
+<AM lemma="sadba" src="auto">NNFS3-----A----</AM>
 <AM lemma="sadba" src="auto" recommended="1" selected="1">NNFS6-----A----</AM>
 </tag>
 </m>

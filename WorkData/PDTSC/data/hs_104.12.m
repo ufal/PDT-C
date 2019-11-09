@@ -5910,14 +5910,14 @@
 <form_change>spell</form_change>
 <form>Mamaii</form>
 <tag>
-<AM lemma="Mamaia_;G">NNFP1-----A----</AM>
-<AM lemma="Mamaia_;G">NNFP4-----A----</AM>
-<AM lemma="Mamaia_;G">NNFP5-----A----</AM>
-<AM lemma="Mamaia_;G">NNFS3-----A---1</AM>
-<AM lemma="Mamaia_;G">NNFS6-----A---1</AM>
-<AM lemma="Mamaie_;G">NNFS3-----A----</AM>
-<AM lemma="Mamaie_;G">NNFS4-----A----</AM>
-<AM lemma="Mamaie_;G">NNFS6-----A----</AM>
+<AM lemma="Mamaia_;G" src="auto">NNFP1-----A----</AM>
+<AM lemma="Mamaia_;G" src="auto">NNFP4-----A----</AM>
+<AM lemma="Mamaia_;G" src="auto">NNFP5-----A----</AM>
+<AM lemma="Mamaia_;G" src="auto">NNFS3-----A---1</AM>
+<AM lemma="Mamaia_;G" src="auto">NNFS6-----A---1</AM>
+<AM lemma="Mamaie_;G" src="auto">NNFS3-----A----</AM>
+<AM lemma="Mamaie_;G" src="auto">NNFS4-----A----</AM>
+<AM lemma="Mamaie_;G" src="auto">NNFS6-----A----</AM>
 <AM lemma="Mamaia_;G" src="auto" recommended="1" selected="1">NNFS2-----A----</AM>
 </tag>
 </m>

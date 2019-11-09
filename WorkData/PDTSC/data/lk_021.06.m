@@ -598,7 +598,7 @@
 <form_change>spell</form_change>
 <form>jednoho</form>
 <tag>
-<AM lemma="jeden`1">ClZS2----------</AM>
+<AM lemma="jeden`1" src="auto">ClZS2----------</AM>
 <AM lemma="jeden`1" src="auto" recommended="1" selected="1">ClMS4----------</AM>
 </tag>
 </m>

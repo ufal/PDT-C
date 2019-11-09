@@ -744,7 +744,7 @@
 <form_change>spell</form_change>
 <form>šnytlík</form>
 <tag>
-<AM lemma="šnytlík_,h">NNIS1-----A----</AM>
+<AM lemma="šnytlík_,h" src="auto">NNIS1-----A----</AM>
 <AM lemma="šnytlík_,h" src="auto" recommended="1" selected="1">NNIS4-----A----</AM>
 </tag>
 </m>

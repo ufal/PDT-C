@@ -380,13 +380,13 @@
 <form_change>spell</form_change>
 <form>války</form>
 <tag>
-<AM lemma="válek">NNIP1-----A----</AM>
-<AM lemma="válek">NNIP4-----A----</AM>
-<AM lemma="válek">NNIP5-----A----</AM>
-<AM lemma="válek">NNIP7-----A----</AM>
-<AM lemma="válka">NNFP1-----A----</AM>
-<AM lemma="válka">NNFP4-----A----</AM>
-<AM lemma="válka">NNFP5-----A----</AM>
+<AM lemma="válek" src="auto">NNIP1-----A----</AM>
+<AM lemma="válek" src="auto">NNIP4-----A----</AM>
+<AM lemma="válek" src="auto">NNIP5-----A----</AM>
+<AM lemma="válek" src="auto">NNIP7-----A----</AM>
+<AM lemma="válka" src="auto">NNFP1-----A----</AM>
+<AM lemma="válka" src="auto">NNFP4-----A----</AM>
+<AM lemma="válka" src="auto">NNFP5-----A----</AM>
 <AM lemma="válka" src="auto" recommended="1" selected="1">NNFS2-----A----</AM>
 </tag>
 </m>

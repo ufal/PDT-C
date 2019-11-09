@@ -1409,10 +1409,10 @@
 <form_change>spell</form_change>
 <form>Dali</form>
 <tag>
-<AM lemma="Dali_;S">NNMS1-----A----</AM>
-<AM lemma="Dali_;S">NNMS5-----A----</AM>
-<AM lemma="Dali_;S">NNMXX-----A----</AM>
-<AM lemma="dát-2_^(dá_se_očekávat)">VpMP---XR-AAI--</AM>
+<AM lemma="Dali_;S" src="auto">NNMS1-----A----</AM>
+<AM lemma="Dali_;S" src="auto">NNMS5-----A----</AM>
+<AM lemma="Dali_;S" src="auto">NNMXX-----A----</AM>
+<AM lemma="dát-2_^(dá_se_očekávat)" src="auto">VpMP---XR-AAI--</AM>
 <AM lemma="dát" src="auto" recommended="1">VpMP---XR-AAP--</AM>
 <AM lemma="dát" src="manual" selected="1">VpMP----R-AAP--</AM>
 </tag>

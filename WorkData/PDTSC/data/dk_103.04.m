@@ -3916,18 +3916,18 @@
 <form_change>spell</form_change>
 <form>socialistické</form>
 <tag>
-<AM lemma="socialistický">AAFP1----1A----</AM>
-<AM lemma="socialistický">AAFP4----1A----</AM>
-<AM lemma="socialistický">AAFP5----1A----</AM>
-<AM lemma="socialistický">AAFS3----1A----</AM>
-<AM lemma="socialistický">AAFS6----1A----</AM>
-<AM lemma="socialistický">AAIP1----1A----</AM>
-<AM lemma="socialistický">AAIP4----1A----</AM>
-<AM lemma="socialistický">AAIP5----1A----</AM>
-<AM lemma="socialistický">AAMP4----1A----</AM>
-<AM lemma="socialistický">AANS1----1A----</AM>
-<AM lemma="socialistický">AANS4----1A----</AM>
-<AM lemma="socialistický">AANS5----1A----</AM>
+<AM lemma="socialistický" src="auto">AAFP1----1A----</AM>
+<AM lemma="socialistický" src="auto">AAFP4----1A----</AM>
+<AM lemma="socialistický" src="auto">AAFP5----1A----</AM>
+<AM lemma="socialistický" src="auto">AAFS3----1A----</AM>
+<AM lemma="socialistický" src="auto">AAFS6----1A----</AM>
+<AM lemma="socialistický" src="auto">AAIP1----1A----</AM>
+<AM lemma="socialistický" src="auto">AAIP4----1A----</AM>
+<AM lemma="socialistický" src="auto">AAIP5----1A----</AM>
+<AM lemma="socialistický" src="auto">AAMP4----1A----</AM>
+<AM lemma="socialistický" src="auto">AANS1----1A----</AM>
+<AM lemma="socialistický" src="auto">AANS4----1A----</AM>
+<AM lemma="socialistický" src="auto">AANS5----1A----</AM>
 <AM lemma="socialistický" src="auto" recommended="1" selected="1">AAFS2----1A----</AM>
 </tag>
 </m>

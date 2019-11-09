@@ -4634,9 +4634,9 @@
 <form_change>spell</form_change>
 <form>Plzence</form>
 <tag>
-<AM lemma="Plzenec_;G">NNIP1-----A----</AM>
-<AM lemma="Plzenec_;G">NNIP4-----A----</AM>
-<AM lemma="Plzenec_;G">NNIP5-----A----</AM>
+<AM lemma="Plzenec_;G" src="auto">NNIP1-----A----</AM>
+<AM lemma="Plzenec_;G" src="auto">NNIP4-----A----</AM>
+<AM lemma="Plzenec_;G" src="auto">NNIP5-----A----</AM>
 <AM lemma="Plzenec_;G" src="auto" recommended="1" selected="1">NNIS2-----A----</AM>
 </tag>
 </m>

@@ -2958,8 +2958,8 @@
 <form_change>spell</form_change>
 <form>čtyři</form>
 <tag>
-<AM lemma="čtyři`4">ClXP4----------</AM>
-<AM lemma="čtyři`4">ClXP5----------</AM>
+<AM lemma="čtyři`4" src="auto">ClXP4----------</AM>
+<AM lemma="čtyři`4" src="auto">ClXP5----------</AM>
 <AM lemma="čtyři`4" src="auto" recommended="1" selected="1">ClXP1----------</AM>
 </tag>
 </m>

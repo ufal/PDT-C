@@ -767,7 +767,7 @@
 <form_change>spell</form_change>
 <form>konkrétně</form>
 <tag>
-<AM lemma="konkrétno">NNNS6-----A----</AM>
+<AM lemma="konkrétno" src="auto">NNNS6-----A----</AM>
 <AM lemma="konkrétně_^(*1í)" src="auto" recommended="1" selected="1">Dg-------1A----</AM>
 </tag>
 </m>
@@ -5884,21 +5884,21 @@
 <form_change>spell</form_change>
 <form>kulaťoučké</form>
 <tag>
-<AM lemma="kulaťoučký">AAFP1----1A----</AM>
-<AM lemma="kulaťoučký">AAFP5----1A----</AM>
-<AM lemma="kulaťoučký">AAFS2----1A----</AM>
-<AM lemma="kulaťoučký">AAFS3----1A----</AM>
-<AM lemma="kulaťoučký">AAFS6----1A----</AM>
-<AM lemma="kulaťoučký">AAIP1----1A----</AM>
-<AM lemma="kulaťoučký">AAIP4----1A----</AM>
-<AM lemma="kulaťoučký">AAIP5----1A----</AM>
-<AM lemma="kulaťoučký">AAMP4----1A----</AM>
-<AM lemma="kulaťoučký">AANP1----1A---6</AM>
-<AM lemma="kulaťoučký">AANP4----1A---6</AM>
-<AM lemma="kulaťoučký">AANP5----1A---6</AM>
-<AM lemma="kulaťoučký">AANS1----1A----</AM>
-<AM lemma="kulaťoučký">AANS4----1A----</AM>
-<AM lemma="kulaťoučký">AANS5----1A----</AM>
+<AM lemma="kulaťoučký" src="auto">AAFP1----1A----</AM>
+<AM lemma="kulaťoučký" src="auto">AAFP5----1A----</AM>
+<AM lemma="kulaťoučký" src="auto">AAFS2----1A----</AM>
+<AM lemma="kulaťoučký" src="auto">AAFS3----1A----</AM>
+<AM lemma="kulaťoučký" src="auto">AAFS6----1A----</AM>
+<AM lemma="kulaťoučký" src="auto">AAIP1----1A----</AM>
+<AM lemma="kulaťoučký" src="auto">AAIP4----1A----</AM>
+<AM lemma="kulaťoučký" src="auto">AAIP5----1A----</AM>
+<AM lemma="kulaťoučký" src="auto">AAMP4----1A----</AM>
+<AM lemma="kulaťoučký" src="auto">AANP1----1A---6</AM>
+<AM lemma="kulaťoučký" src="auto">AANP4----1A---6</AM>
+<AM lemma="kulaťoučký" src="auto">AANP5----1A---6</AM>
+<AM lemma="kulaťoučký" src="auto">AANS1----1A----</AM>
+<AM lemma="kulaťoučký" src="auto">AANS4----1A----</AM>
+<AM lemma="kulaťoučký" src="auto">AANS5----1A----</AM>
 <AM lemma="kulaťoučký" src="auto" recommended="1" selected="1">AAFP4----1A----</AM>
 </tag>
 </m>

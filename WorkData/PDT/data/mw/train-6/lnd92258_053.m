@@ -36,8 +36,8 @@
 <w.rf>
 <LM>w#w-lnd92258-053-p1s2w1</LM>
 </w.rf>
-<form>></form>
-<tag lemma=">" src="orig" selected="1">Z:-------------</tag>
+<form>&gt;</form>
+<tag lemma="&gt;" src="orig" selected="1">Z:-------------</tag>
 </m>
 <m id="m-lnd92258-053-p1s2w2">
 <src.rf>manual</src.rf>

@@ -1306,10 +1306,10 @@
 <form_change>spell</form_change>
 <form>Kamenného</form>
 <tag>
-<AM lemma="Kamenné_;G">NNNS2-----A----</AM>
-<AM lemma="kamenný">AAMS2----1A----</AM>
-<AM lemma="kamenný">AAMS4----1A----</AM>
-<AM lemma="kamenný">AANS2----1A----</AM>
+<AM lemma="Kamenné_;G" src="auto">NNNS2-----A----</AM>
+<AM lemma="kamenný" src="auto">AAMS2----1A----</AM>
+<AM lemma="kamenný" src="auto">AAMS4----1A----</AM>
+<AM lemma="kamenný" src="auto">AANS2----1A----</AM>
 <AM lemma="kamenný" src="auto" recommended="1" selected="1">AAIS2----1A----</AM>
 </tag>
 </m>

@@ -3698,21 +3698,21 @@
 <form_change>spell</form_change>
 <form>dvojité</form>
 <tag>
-<AM lemma="dvojitý">AAFP1----1A----</AM>
-<AM lemma="dvojitý">AAFP4----1A----</AM>
-<AM lemma="dvojitý">AAFP5----1A----</AM>
-<AM lemma="dvojitý">AAFS2----1A----</AM>
-<AM lemma="dvojitý">AAFS3----1A----</AM>
-<AM lemma="dvojitý">AAFS6----1A----</AM>
-<AM lemma="dvojitý">AAIP1----1A----</AM>
-<AM lemma="dvojitý">AAIP4----1A----</AM>
-<AM lemma="dvojitý">AAIP5----1A----</AM>
-<AM lemma="dvojitý">AAMP4----1A----</AM>
-<AM lemma="dvojitý">AANP1----1A---6</AM>
-<AM lemma="dvojitý">AANP4----1A---6</AM>
-<AM lemma="dvojitý">AANP5----1A---6</AM>
-<AM lemma="dvojitý">AANS4----1A----</AM>
-<AM lemma="dvojitý">AANS5----1A----</AM>
+<AM lemma="dvojitý" src="auto">AAFP1----1A----</AM>
+<AM lemma="dvojitý" src="auto">AAFP4----1A----</AM>
+<AM lemma="dvojitý" src="auto">AAFP5----1A----</AM>
+<AM lemma="dvojitý" src="auto">AAFS2----1A----</AM>
+<AM lemma="dvojitý" src="auto">AAFS3----1A----</AM>
+<AM lemma="dvojitý" src="auto">AAFS6----1A----</AM>
+<AM lemma="dvojitý" src="auto">AAIP1----1A----</AM>
+<AM lemma="dvojitý" src="auto">AAIP4----1A----</AM>
+<AM lemma="dvojitý" src="auto">AAIP5----1A----</AM>
+<AM lemma="dvojitý" src="auto">AAMP4----1A----</AM>
+<AM lemma="dvojitý" src="auto">AANP1----1A---6</AM>
+<AM lemma="dvojitý" src="auto">AANP4----1A---6</AM>
+<AM lemma="dvojitý" src="auto">AANP5----1A---6</AM>
+<AM lemma="dvojitý" src="auto">AANS4----1A----</AM>
+<AM lemma="dvojitý" src="auto">AANS5----1A----</AM>
 <AM lemma="dvojitý" src="auto" recommended="1" selected="1">AANS1----1A----</AM>
 </tag>
 </m>

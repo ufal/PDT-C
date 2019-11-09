@@ -4116,21 +4116,21 @@
 <form_change>spell</form_change>
 <form>výškové</form>
 <tag>
-<AM lemma="výškový">AAFP1----1A----</AM>
-<AM lemma="výškový">AAFP4----1A----</AM>
-<AM lemma="výškový">AAFP5----1A----</AM>
-<AM lemma="výškový">AAFS2----1A----</AM>
-<AM lemma="výškový">AAFS3----1A----</AM>
-<AM lemma="výškový">AAFS6----1A----</AM>
-<AM lemma="výškový">AAIP4----1A----</AM>
-<AM lemma="výškový">AAIP5----1A----</AM>
-<AM lemma="výškový">AAMP4----1A----</AM>
-<AM lemma="výškový">AANP1----1A---6</AM>
-<AM lemma="výškový">AANP4----1A---6</AM>
-<AM lemma="výškový">AANP5----1A---6</AM>
-<AM lemma="výškový">AANS1----1A----</AM>
-<AM lemma="výškový">AANS4----1A----</AM>
-<AM lemma="výškový">AANS5----1A----</AM>
+<AM lemma="výškový" src="auto">AAFP1----1A----</AM>
+<AM lemma="výškový" src="auto">AAFP4----1A----</AM>
+<AM lemma="výškový" src="auto">AAFP5----1A----</AM>
+<AM lemma="výškový" src="auto">AAFS2----1A----</AM>
+<AM lemma="výškový" src="auto">AAFS3----1A----</AM>
+<AM lemma="výškový" src="auto">AAFS6----1A----</AM>
+<AM lemma="výškový" src="auto">AAIP4----1A----</AM>
+<AM lemma="výškový" src="auto">AAIP5----1A----</AM>
+<AM lemma="výškový" src="auto">AAMP4----1A----</AM>
+<AM lemma="výškový" src="auto">AANP1----1A---6</AM>
+<AM lemma="výškový" src="auto">AANP4----1A---6</AM>
+<AM lemma="výškový" src="auto">AANP5----1A---6</AM>
+<AM lemma="výškový" src="auto">AANS1----1A----</AM>
+<AM lemma="výškový" src="auto">AANS4----1A----</AM>
+<AM lemma="výškový" src="auto">AANS5----1A----</AM>
 <AM lemma="výškový" src="auto" recommended="1" selected="1">AAIP1----1A----</AM>
 </tag>
 </m>
@@ -6134,17 +6134,17 @@
 <form_change>spell</form_change>
 <form>tištění</form>
 <tag>
-<AM lemma="tištěný_^(*5sknout)" selected="1">AAMP1----1A----</AM>
-<AM lemma="tištěný_^(*5sknout)">AAMP5----1A----</AM>
-<AM lemma="tištění_^(*5sknout)">NNNP1-----A----</AM>
-<AM lemma="tištění_^(*5sknout)">NNNP2-----A----</AM>
-<AM lemma="tištění_^(*5sknout)">NNNP4-----A----</AM>
-<AM lemma="tištění_^(*5sknout)">NNNP5-----A----</AM>
-<AM lemma="tištění_^(*5sknout)">NNNS1-----A----</AM>
-<AM lemma="tištění_^(*5sknout)">NNNS3-----A----</AM>
-<AM lemma="tištění_^(*5sknout)">NNNS4-----A----</AM>
-<AM lemma="tištění_^(*5sknout)">NNNS5-----A----</AM>
-<AM lemma="tištění_^(*5sknout)">NNNS6-----A----</AM>
+<AM lemma="tištěný_^(*5sknout)" selected="1" src="auto">AAMP1----1A----</AM>
+<AM lemma="tištěný_^(*5sknout)" src="auto">AAMP5----1A----</AM>
+<AM lemma="tištění_^(*5sknout)" src="auto">NNNP1-----A----</AM>
+<AM lemma="tištění_^(*5sknout)" src="auto">NNNP2-----A----</AM>
+<AM lemma="tištění_^(*5sknout)" src="auto">NNNP4-----A----</AM>
+<AM lemma="tištění_^(*5sknout)" src="auto">NNNP5-----A----</AM>
+<AM lemma="tištění_^(*5sknout)" src="auto">NNNS1-----A----</AM>
+<AM lemma="tištění_^(*5sknout)" src="auto">NNNS3-----A----</AM>
+<AM lemma="tištění_^(*5sknout)" src="auto">NNNS4-----A----</AM>
+<AM lemma="tištění_^(*5sknout)" src="auto">NNNS5-----A----</AM>
+<AM lemma="tištění_^(*5sknout)" src="auto">NNNS6-----A----</AM>
 <AM lemma="tištění_^(*5sknout)" src="auto" recommended="1">NNNS2-----A----</AM>
 </tag>
 </m>

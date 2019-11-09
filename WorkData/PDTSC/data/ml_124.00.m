@@ -1989,9 +1989,9 @@
 <form_change>spell</form_change>
 <form>obrázku</form>
 <tag>
-<AM lemma="obrázek">NNIS2-----A----</AM>
-<AM lemma="obrázek">NNIS3-----A----</AM>
-<AM lemma="obrázek">NNIS5-----A----</AM>
+<AM lemma="obrázek" src="auto">NNIS2-----A----</AM>
+<AM lemma="obrázek" src="auto">NNIS3-----A----</AM>
+<AM lemma="obrázek" src="auto">NNIS5-----A----</AM>
 <AM lemma="obrázek" src="auto" recommended="1" selected="1">NNIS6-----A----</AM>
 </tag>
 </m>

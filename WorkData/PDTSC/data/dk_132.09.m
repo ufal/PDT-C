@@ -1848,18 +1848,18 @@
 <form_change>spell</form_change>
 <form>pěvecké</form>
 <tag>
-<AM lemma="pěvecký">AAFP1----1A----</AM>
-<AM lemma="pěvecký">AAFP4----1A----</AM>
-<AM lemma="pěvecký">AAFP5----1A----</AM>
-<AM lemma="pěvecký">AAFS2----1A----</AM>
-<AM lemma="pěvecký">AAFS3----1A----</AM>
-<AM lemma="pěvecký">AAFS6----1A----</AM>
-<AM lemma="pěvecký">AAIP4----1A----</AM>
-<AM lemma="pěvecký">AAIP5----1A----</AM>
-<AM lemma="pěvecký">AAMP4----1A----</AM>
-<AM lemma="pěvecký">AANS1----1A----</AM>
-<AM lemma="pěvecký">AANS4----1A----</AM>
-<AM lemma="pěvecký">AANS5----1A----</AM>
+<AM lemma="pěvecký" src="auto">AAFP1----1A----</AM>
+<AM lemma="pěvecký" src="auto">AAFP4----1A----</AM>
+<AM lemma="pěvecký" src="auto">AAFP5----1A----</AM>
+<AM lemma="pěvecký" src="auto">AAFS2----1A----</AM>
+<AM lemma="pěvecký" src="auto">AAFS3----1A----</AM>
+<AM lemma="pěvecký" src="auto">AAFS6----1A----</AM>
+<AM lemma="pěvecký" src="auto">AAIP4----1A----</AM>
+<AM lemma="pěvecký" src="auto">AAIP5----1A----</AM>
+<AM lemma="pěvecký" src="auto">AAMP4----1A----</AM>
+<AM lemma="pěvecký" src="auto">AANS1----1A----</AM>
+<AM lemma="pěvecký" src="auto">AANS4----1A----</AM>
+<AM lemma="pěvecký" src="auto">AANS5----1A----</AM>
 <AM lemma="pěvecký" src="auto" recommended="1" selected="1">AAIP1----1A----</AM>
 </tag>
 </m>

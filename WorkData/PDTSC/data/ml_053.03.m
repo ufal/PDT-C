@@ -118,9 +118,9 @@
 <form_change>spell</form_change>
 <form>zavináče</form>
 <tag>
-<AM lemma="zavináč">NNIP1-----A----</AM>
-<AM lemma="zavináč">NNIP4-----A----</AM>
-<AM lemma="zavináč">NNIP5-----A----</AM>
+<AM lemma="zavináč" src="auto">NNIP1-----A----</AM>
+<AM lemma="zavináč" src="auto">NNIP4-----A----</AM>
+<AM lemma="zavináč" src="auto">NNIP5-----A----</AM>
 <AM lemma="zavináč" src="auto" recommended="1">NNIS2-----A----</AM>
 <AM lemma="zavináč-2" src="manual" selected="1">NNMS4-----A----</AM>
 </tag>

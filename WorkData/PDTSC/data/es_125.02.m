@@ -2179,10 +2179,10 @@
 <form_change>spell</form_change>
 <form>šestnáctiletá</form>
 <tag>
-<AM lemma="šestnáctiletý">AAFS5----1A----</AM>
-<AM lemma="šestnáctiletý">AANP1----1A----</AM>
-<AM lemma="šestnáctiletý">AANP4----1A----</AM>
-<AM lemma="šestnáctiletý">AANP5----1A----</AM>
+<AM lemma="šestnáctiletý" src="auto">AAFS5----1A----</AM>
+<AM lemma="šestnáctiletý" src="auto">AANP1----1A----</AM>
+<AM lemma="šestnáctiletý" src="auto">AANP4----1A----</AM>
+<AM lemma="šestnáctiletý" src="auto">AANP5----1A----</AM>
 <AM lemma="šestnáctiletý" src="auto" recommended="1" selected="1">AAFS1----1A----</AM>
 </tag>
 </m>

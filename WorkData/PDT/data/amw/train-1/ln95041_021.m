@@ -4256,12 +4256,12 @@
 <form_change>spell</form_change>
 <form>budoucnosti</form>
 <tag>
-<AM lemma="budoucnost">NNFP1-----A----</AM>
-<AM lemma="budoucnost">NNFP4-----A----</AM>
-<AM lemma="budoucnost">NNFP5-----A----</AM>
-<AM lemma="budoucnost">NNFS2-----A----</AM>
-<AM lemma="budoucnost">NNFS3-----A----</AM>
-<AM lemma="budoucnost">NNFS5-----A----</AM>
+<AM lemma="budoucnost" src="auto">NNFP1-----A----</AM>
+<AM lemma="budoucnost" src="auto">NNFP4-----A----</AM>
+<AM lemma="budoucnost" src="auto">NNFP5-----A----</AM>
+<AM lemma="budoucnost" src="auto">NNFS2-----A----</AM>
+<AM lemma="budoucnost" src="auto">NNFS3-----A----</AM>
+<AM lemma="budoucnost" src="auto">NNFS5-----A----</AM>
 <AM lemma="budoucnost" src="auto" recommended="1" selected="1">NNFS6-----A----</AM>
 </tag>
 </m>

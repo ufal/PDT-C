@@ -315,7 +315,7 @@
 <form_change>spell</form_change>
 <form>koňak</form>
 <tag>
-<AM lemma="koňak">NNIS1-----A----</AM>
+<AM lemma="koňak" src="auto">NNIS1-----A----</AM>
 <AM lemma="koňak" src="auto" recommended="1" selected="1">NNIS4-----A----</AM>
 </tag>
 </m>

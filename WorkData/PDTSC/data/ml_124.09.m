@@ -3113,17 +3113,17 @@
 <form_change>spell</form_change>
 <form>soustředění</form>
 <tag>
-<AM lemma="soustředěný_^(*3it)">AAMP1----1A----</AM>
-<AM lemma="soustředěný_^(*3it)">AAMP5----1A----</AM>
-<AM lemma="soustředění_^(*3it)">NNNP1-----A----</AM>
-<AM lemma="soustředění_^(*3it)">NNNP2-----A----</AM>
-<AM lemma="soustředění_^(*3it)" selected="1">NNNP4-----A----</AM>
-<AM lemma="soustředění_^(*3it)">NNNP5-----A----</AM>
-<AM lemma="soustředění_^(*3it)">NNNS1-----A----</AM>
-<AM lemma="soustředění_^(*3it)">NNNS2-----A----</AM>
-<AM lemma="soustředění_^(*3it)">NNNS3-----A----</AM>
-<AM lemma="soustředění_^(*3it)">NNNS5-----A----</AM>
-<AM lemma="soustředění_^(*3it)">NNNS6-----A----</AM>
+<AM lemma="soustředěný_^(*3it)" src="auto">AAMP1----1A----</AM>
+<AM lemma="soustředěný_^(*3it)" src="auto">AAMP5----1A----</AM>
+<AM lemma="soustředění_^(*3it)" src="auto">NNNP1-----A----</AM>
+<AM lemma="soustředění_^(*3it)" src="auto">NNNP2-----A----</AM>
+<AM lemma="soustředění_^(*3it)" selected="1" src="auto">NNNP4-----A----</AM>
+<AM lemma="soustředění_^(*3it)" src="auto">NNNP5-----A----</AM>
+<AM lemma="soustředění_^(*3it)" src="auto">NNNS1-----A----</AM>
+<AM lemma="soustředění_^(*3it)" src="auto">NNNS2-----A----</AM>
+<AM lemma="soustředění_^(*3it)" src="auto">NNNS3-----A----</AM>
+<AM lemma="soustředění_^(*3it)" src="auto">NNNS5-----A----</AM>
+<AM lemma="soustředění_^(*3it)" src="auto">NNNS6-----A----</AM>
 <AM lemma="soustředění_^(*3it)" src="auto" recommended="1">NNNS4-----A----</AM>
 </tag>
 </m>
@@ -4626,7 +4626,7 @@
 <form_change>spell</form_change>
 <form>musí</form>
 <tag>
-<AM lemma="muset">VB-P---3P-AAI-1</AM>
+<AM lemma="muset" src="auto">VB-P---3P-AAI-1</AM>
 <AM lemma="muset" src="auto" recommended="1" selected="1">VB-S---3P-AAI--</AM>
 </tag>
 </m>

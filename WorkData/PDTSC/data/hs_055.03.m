@@ -601,9 +601,9 @@
 <form_change>spell</form_change>
 <form>Innsbrucku</form>
 <tag>
-<AM lemma="Innsbruck_;G">NNIS2-----A----</AM>
-<AM lemma="Innsbruck_;G">NNIS3-----A----</AM>
-<AM lemma="Innsbruck_;G">NNIS5-----A----</AM>
+<AM lemma="Innsbruck_;G" src="auto">NNIS2-----A----</AM>
+<AM lemma="Innsbruck_;G" src="auto">NNIS3-----A----</AM>
+<AM lemma="Innsbruck_;G" src="auto">NNIS5-----A----</AM>
 <AM lemma="Innsbruck_;G" src="auto" recommended="1" selected="1">NNIS6-----A----</AM>
 </tag>
 </m>
@@ -646,9 +646,9 @@
 <form_change>spell</form_change>
 <form>Innsbrucku</form>
 <tag>
-<AM lemma="Innsbruck_;G">NNIS2-----A----</AM>
-<AM lemma="Innsbruck_;G">NNIS3-----A----</AM>
-<AM lemma="Innsbruck_;G">NNIS5-----A----</AM>
+<AM lemma="Innsbruck_;G" src="auto">NNIS2-----A----</AM>
+<AM lemma="Innsbruck_;G" src="auto">NNIS3-----A----</AM>
+<AM lemma="Innsbruck_;G" src="auto">NNIS5-----A----</AM>
 <AM lemma="Innsbruck_;G" src="auto" recommended="1" selected="1">NNIS6-----A----</AM>
 </tag>
 </m>

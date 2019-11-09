@@ -2460,13 +2460,13 @@
 <form_change>spell</form_change>
 <form>Mariánských</form>
 <tag>
-<AM lemma="mariánský">AAFP2----1A----</AM>
-<AM lemma="mariánský">AAIP2----1A----</AM>
-<AM lemma="mariánský">AAIP6----1A----</AM>
-<AM lemma="mariánský">AAMP2----1A----</AM>
-<AM lemma="mariánský">AAMP6----1A----</AM>
-<AM lemma="mariánský">AANP2----1A----</AM>
-<AM lemma="mariánský">AANP6----1A----</AM>
+<AM lemma="mariánský" src="auto">AAFP2----1A----</AM>
+<AM lemma="mariánský" src="auto">AAIP2----1A----</AM>
+<AM lemma="mariánský" src="auto">AAIP6----1A----</AM>
+<AM lemma="mariánský" src="auto">AAMP2----1A----</AM>
+<AM lemma="mariánský" src="auto">AAMP6----1A----</AM>
+<AM lemma="mariánský" src="auto">AANP2----1A----</AM>
+<AM lemma="mariánský" src="auto">AANP6----1A----</AM>
 <AM lemma="mariánský" src="auto" recommended="1" selected="1">AAFP6----1A----</AM>
 </tag>
 </m>
@@ -2953,7 +2953,7 @@
 <form_change>spell</form_change>
 <form>leckdes</form>
 <tag>
-<AM lemma="leckdes">X@-------------</AM>
+<AM lemma="leckdes" src="auto">X@-------------</AM>
 <AM lemma="leckdes" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="leckdes" src="manual" selected="1">Db-------------</AM>
 </tag>

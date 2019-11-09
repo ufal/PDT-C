@@ -7290,7 +7290,7 @@
 </w.rf>
 <form>bala</form>
 <tag>
-<AM lemma="bala">X@-------------</AM>
+<AM lemma="bala" src="auto">X@-------------</AM>
 <AM lemma="bát" src="auto" recommended="1">VpQW---XR-AA---</AM>
 <AM lemma="bala" src="manual" selected="1">Db-------------</AM>
 </tag>
@@ -7328,7 +7328,7 @@
 <form_change>spell</form_change>
 <form>mně</form>
 <tag>
-<AM lemma="já">PP-S6--1-------</AM>
+<AM lemma="já" src="auto">PP-S6--1-------</AM>
 <AM lemma="já" src="auto" recommended="1" selected="1">PP-S3--1-------</AM>
 </tag>
 </m>

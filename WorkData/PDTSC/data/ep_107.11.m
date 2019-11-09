@@ -881,7 +881,7 @@
 <form_change>spell</form_change>
 <form>život</form>
 <tag>
-<AM lemma="život">NNIS1-----A----</AM>
+<AM lemma="život" src="auto">NNIS1-----A----</AM>
 <AM lemma="život" src="auto" recommended="1" selected="1">NNIS4-----A----</AM>
 </tag>
 </m>

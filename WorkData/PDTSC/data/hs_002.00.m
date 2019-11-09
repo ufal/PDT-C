@@ -1183,9 +1183,9 @@
 <form_change>spell</form_change>
 <form>příbuzní</form>
 <tag>
-<AM lemma="příbuzný-2_^(podobný)">AAMP1----1A----</AM>
-<AM lemma="příbuzný-2_^(podobný)">AAMP5----1A----</AM>
-<AM lemma="příbuzný-1_^(člen_rodiny)">NNMP5-----A----</AM>
+<AM lemma="příbuzný-2_^(podobný)" src="auto">AAMP1----1A----</AM>
+<AM lemma="příbuzný-2_^(podobný)" src="auto">AAMP5----1A----</AM>
+<AM lemma="příbuzný-1_^(člen_rodiny)" src="auto">NNMP5-----A----</AM>
 <AM lemma="příbuzný-1_^(člen_rodiny)" src="auto" recommended="1" selected="1">NNMP1-----A----</AM>
 </tag>
 <comment>

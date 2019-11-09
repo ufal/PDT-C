@@ -1293,7 +1293,7 @@
 <form_change>spell</form_change>
 <form>konkrétně</form>
 <tag>
-<AM lemma="konkrétno">NNNS6-----A----</AM>
+<AM lemma="konkrétno" src="auto">NNNS6-----A----</AM>
 <AM lemma="konkrétně_^(*1í)" src="auto" recommended="1" selected="1">Dg-------1A----</AM>
 </tag>
 </m>

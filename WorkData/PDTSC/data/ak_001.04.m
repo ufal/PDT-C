@@ -3241,17 +3241,17 @@
 <form_change>spell</form_change>
 <form>Hruškovy</form>
 <tag>
-<AM lemma="Hruškův_;S_^(*2a)">AUFP1M---------</AM>
-<AM lemma="Hruškův_;S_^(*2a)">AUFP4M---------</AM>
-<AM lemma="Hruškův_;S_^(*2a)">AUFP5M---------</AM>
-<AM lemma="Hruškův_;S_^(*2a)">AUFS2M---------</AM>
-<AM lemma="Hruškův_;S_^(*2a)">AUIP1M---------</AM>
-<AM lemma="Hruškův_;S_^(*2a)">AUIP5M---------</AM>
-<AM lemma="Hruškův_;S_^(*2a)" selected="1">AUMP4M---------</AM>
-<AM lemma="Hruškov_;G">NNIP1-----A----</AM>
-<AM lemma="Hruškov_;G">NNIP4-----A----</AM>
-<AM lemma="Hruškov_;G">NNIP5-----A----</AM>
-<AM lemma="Hruškov_;G">NNIP7-----A----</AM>
+<AM lemma="Hruškův_;S_^(*2a)" src="auto">AUFP1M---------</AM>
+<AM lemma="Hruškův_;S_^(*2a)" src="auto">AUFP4M---------</AM>
+<AM lemma="Hruškův_;S_^(*2a)" src="auto">AUFP5M---------</AM>
+<AM lemma="Hruškův_;S_^(*2a)" src="auto">AUFS2M---------</AM>
+<AM lemma="Hruškův_;S_^(*2a)" src="auto">AUIP1M---------</AM>
+<AM lemma="Hruškův_;S_^(*2a)" src="auto">AUIP5M---------</AM>
+<AM lemma="Hruškův_;S_^(*2a)" selected="1" src="auto">AUMP4M---------</AM>
+<AM lemma="Hruškov_;G" src="auto">NNIP1-----A----</AM>
+<AM lemma="Hruškov_;G" src="auto">NNIP4-----A----</AM>
+<AM lemma="Hruškov_;G" src="auto">NNIP5-----A----</AM>
+<AM lemma="Hruškov_;G" src="auto">NNIP7-----A----</AM>
 <AM lemma="Hruškův_;S_^(*2a)" src="auto" recommended="1">AUIP4M---------</AM>
 </tag>
 </m>
@@ -5227,7 +5227,7 @@
 <form_change>spell</form_change>
 <form>ni</form>
 <tag>
-<AM lemma="ni_,a">J^-------------</AM>
+<AM lemma="ni_,a" src="auto">J^-------------</AM>
 <AM lemma="on-1" src="auto" recommended="1" selected="1">P5FS4--3-------</AM>
 </tag>
 </m>

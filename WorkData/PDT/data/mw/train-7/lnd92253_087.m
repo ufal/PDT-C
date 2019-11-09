@@ -1079,7 +1079,7 @@
 <form_change>spell</form_change>
 <form>nekazí</form>
 <tag>
-<AM lemma="kazit_:T">VB-P---3P-NA---</AM>
+<AM lemma="kazit_:T" src="auto">VB-P---3P-NA---</AM>
 <AM lemma="kazit_:T" src="auto" recommended="1">VB-S---3P-NA---</AM>
 <AM lemma="kazit" src="manual" selected="1">VB-S---3P-NAI--</AM>
 </tag>

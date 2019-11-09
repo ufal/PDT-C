@@ -86,13 +86,13 @@
 <form_change>spell</form_change>
 <form>ruských</form>
 <tag>
-<AM lemma="ruský">AAFP2----1A----</AM>
-<AM lemma="ruský">AAFP6----1A----</AM>
-<AM lemma="ruský">AAIP2----1A----</AM>
-<AM lemma="ruský">AAMP2----1A----</AM>
-<AM lemma="ruský">AAMP6----1A----</AM>
-<AM lemma="ruský">AANP2----1A----</AM>
-<AM lemma="ruský">AANP6----1A----</AM>
+<AM lemma="ruský" src="auto">AAFP2----1A----</AM>
+<AM lemma="ruský" src="auto">AAFP6----1A----</AM>
+<AM lemma="ruský" src="auto">AAIP2----1A----</AM>
+<AM lemma="ruský" src="auto">AAMP2----1A----</AM>
+<AM lemma="ruský" src="auto">AAMP6----1A----</AM>
+<AM lemma="ruský" src="auto">AANP2----1A----</AM>
+<AM lemma="ruský" src="auto">AANP6----1A----</AM>
 <AM lemma="ruský" src="auto" recommended="1" selected="1">AAIP6----1A----</AM>
 </tag>
 </m>

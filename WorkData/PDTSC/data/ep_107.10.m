@@ -455,9 +455,9 @@
 </w.rf>
 <form>začátku</form>
 <tag>
-<AM lemma="začátek">NNIS3-----A----</AM>
-<AM lemma="začátek">NNIS5-----A----</AM>
-<AM lemma="začátek">NNIS6-----A----</AM>
+<AM lemma="začátek" src="auto">NNIS3-----A----</AM>
+<AM lemma="začátek" src="auto">NNIS5-----A----</AM>
+<AM lemma="začátek" src="auto">NNIS6-----A----</AM>
 <AM lemma="začátek" src="auto" recommended="1" selected="1">NNIS2-----A----</AM>
 </tag>
 </m>
@@ -1052,7 +1052,7 @@
 <form_change>spell</form_change>
 <form>teleobjektiv</form>
 <tag>
-<AM lemma="teleobjektiv">NNIS1-----A----</AM>
+<AM lemma="teleobjektiv" src="auto">NNIS1-----A----</AM>
 <AM lemma="teleobjektiv" src="auto" recommended="1" selected="1">NNIS4-----A----</AM>
 </tag>
 </m>

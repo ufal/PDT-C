@@ -6903,15 +6903,15 @@
 <form_change>spell</form_change>
 <form>ošetřovatelství</form>
 <tag>
-<AM lemma="ošetřovatelství">NNNP1-----A----</AM>
-<AM lemma="ošetřovatelství">NNNP2-----A----</AM>
-<AM lemma="ošetřovatelství">NNNP4-----A----</AM>
-<AM lemma="ošetřovatelství">NNNP5-----A----</AM>
-<AM lemma="ošetřovatelství">NNNS2-----A----</AM>
-<AM lemma="ošetřovatelství">NNNS3-----A----</AM>
-<AM lemma="ošetřovatelství">NNNS4-----A----</AM>
-<AM lemma="ošetřovatelství">NNNS5-----A----</AM>
-<AM lemma="ošetřovatelství">NNNS6-----A----</AM>
+<AM lemma="ošetřovatelství" src="auto">NNNP1-----A----</AM>
+<AM lemma="ošetřovatelství" src="auto">NNNP2-----A----</AM>
+<AM lemma="ošetřovatelství" src="auto">NNNP4-----A----</AM>
+<AM lemma="ošetřovatelství" src="auto">NNNP5-----A----</AM>
+<AM lemma="ošetřovatelství" src="auto">NNNS2-----A----</AM>
+<AM lemma="ošetřovatelství" src="auto">NNNS3-----A----</AM>
+<AM lemma="ošetřovatelství" src="auto">NNNS4-----A----</AM>
+<AM lemma="ošetřovatelství" src="auto">NNNS5-----A----</AM>
+<AM lemma="ošetřovatelství" src="auto">NNNS6-----A----</AM>
 <AM lemma="ošetřovatelství" src="auto" recommended="1" selected="1">NNNS1-----A----</AM>
 </tag>
 </m>

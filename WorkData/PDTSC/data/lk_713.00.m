@@ -6734,7 +6734,7 @@
 <form_change>spell</form_change>
 <form>braunschweigského</form>
 <tag>
-<AM lemma="braunschweigského">X@-------------</AM>
+<AM lemma="braunschweigského" src="auto">X@-------------</AM>
 <AM lemma="braunschweigský" src="auto" recommended="1" selected="1">AAIS2----1A----</AM>
 </tag>
 </m>

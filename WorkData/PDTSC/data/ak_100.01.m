@@ -2274,8 +2274,8 @@
 <form_change>spell</form_change>
 <form>po</form>
 <tag>
-<AM lemma="po-1">RR--4----------</AM>
-<AM lemma="pondělí">NNNXX-----A---8</AM>
+<AM lemma="po-1" src="auto">RR--4----------</AM>
+<AM lemma="pondělí" src="auto">NNNXX-----A---8</AM>
 <AM lemma="po-1" src="auto" recommended="1" selected="1">RR--6----------</AM>
 </tag>
 <comment>

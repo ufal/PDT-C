@@ -832,8 +832,8 @@
 <form_change>spell</form_change>
 <form>moji</form>
 <tag>
-<AM lemma="můj_^(přivlast.)">PSFS4-S1-------</AM>
-<AM lemma="můj_^(přivlast.)">PSMP5-S1-------</AM>
+<AM lemma="můj_^(přivlast.)" src="auto">PSFS4-S1-------</AM>
+<AM lemma="můj_^(přivlast.)" src="auto">PSMP5-S1-------</AM>
 <AM lemma="můj_^(přivlast.)" src="auto" recommended="1" selected="1">PSMP1-S1-------</AM>
 </tag>
 </m>
@@ -4629,13 +4629,13 @@
 <form_change>spell</form_change>
 <form>raných</form>
 <tag>
-<AM lemma="raný">AAFP2----1A----</AM>
-<AM lemma="raný">AAFP6----1A----</AM>
-<AM lemma="raný">AAIP2----1A----</AM>
-<AM lemma="raný">AAIP6----1A----</AM>
-<AM lemma="raný">AAMP2----1A----</AM>
-<AM lemma="raný">AAMP6----1A----</AM>
-<AM lemma="raný">AANP6----1A----</AM>
+<AM lemma="raný" src="auto">AAFP2----1A----</AM>
+<AM lemma="raný" src="auto">AAFP6----1A----</AM>
+<AM lemma="raný" src="auto">AAIP2----1A----</AM>
+<AM lemma="raný" src="auto">AAIP6----1A----</AM>
+<AM lemma="raný" src="auto">AAMP2----1A----</AM>
+<AM lemma="raný" src="auto">AAMP6----1A----</AM>
+<AM lemma="raný" src="auto">AANP6----1A----</AM>
 <AM lemma="raný" src="auto" recommended="1" selected="1">AANP2----1A----</AM>
 </tag>
 </m>

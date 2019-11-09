@@ -1440,8 +1440,8 @@
 <form_change>spell</form_change>
 <form>Nemeckém</form>
 <tag>
-<AM lemma="mecký">AAIS6----1N----</AM>
-<AM lemma="mecký">AAMS6----1N----</AM>
+<AM lemma="mecký" src="auto">AAIS6----1N----</AM>
+<AM lemma="mecký" src="auto">AAMS6----1N----</AM>
 <AM lemma="mecký" src="auto" recommended="1">AANS6----1N----</AM>
 <AM lemma="Nemecké_;G" src="manual" selected="1">NNNS6-----A----</AM>
 </tag>

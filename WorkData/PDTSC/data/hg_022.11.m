@@ -1660,9 +1660,9 @@
 <form_change>spell</form_change>
 <form>oslavy</form>
 <tag>
-<AM lemma="oslava">NNFP1-----A----</AM>
-<AM lemma="oslava">NNFP4-----A----</AM>
-<AM lemma="oslava">NNFP5-----A----</AM>
+<AM lemma="oslava" src="auto">NNFP1-----A----</AM>
+<AM lemma="oslava" src="auto">NNFP4-----A----</AM>
+<AM lemma="oslava" src="auto">NNFP5-----A----</AM>
 <AM lemma="oslava" src="auto" recommended="1" selected="1">NNFS2-----A----</AM>
 </tag>
 </m>

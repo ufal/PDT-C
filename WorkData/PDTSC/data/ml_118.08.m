@@ -613,17 +613,17 @@
 <form_change>spell</form_change>
 <form>oddělení</form>
 <tag>
-<AM lemma="oddělený_^(*3it)">AAMP1----1A----</AM>
-<AM lemma="oddělený_^(*3it)">AAMP5----1A----</AM>
-<AM lemma="oddělení_^(*3it)">NNNP1-----A----</AM>
-<AM lemma="oddělení_^(*3it)">NNNP2-----A----</AM>
-<AM lemma="oddělení_^(*3it)">NNNP4-----A----</AM>
-<AM lemma="oddělení_^(*3it)">NNNP5-----A----</AM>
-<AM lemma="oddělení_^(*3it)">NNNS1-----A----</AM>
-<AM lemma="oddělení_^(*3it)">NNNS2-----A----</AM>
-<AM lemma="oddělení_^(*3it)">NNNS3-----A----</AM>
-<AM lemma="oddělení_^(*3it)">NNNS4-----A----</AM>
-<AM lemma="oddělení_^(*3it)">NNNS5-----A----</AM>
+<AM lemma="oddělený_^(*3it)" src="auto">AAMP1----1A----</AM>
+<AM lemma="oddělený_^(*3it)" src="auto">AAMP5----1A----</AM>
+<AM lemma="oddělení_^(*3it)" src="auto">NNNP1-----A----</AM>
+<AM lemma="oddělení_^(*3it)" src="auto">NNNP2-----A----</AM>
+<AM lemma="oddělení_^(*3it)" src="auto">NNNP4-----A----</AM>
+<AM lemma="oddělení_^(*3it)" src="auto">NNNP5-----A----</AM>
+<AM lemma="oddělení_^(*3it)" src="auto">NNNS1-----A----</AM>
+<AM lemma="oddělení_^(*3it)" src="auto">NNNS2-----A----</AM>
+<AM lemma="oddělení_^(*3it)" src="auto">NNNS3-----A----</AM>
+<AM lemma="oddělení_^(*3it)" src="auto">NNNS4-----A----</AM>
+<AM lemma="oddělení_^(*3it)" src="auto">NNNS5-----A----</AM>
 <AM lemma="oddělení_^(*3it)" src="auto" recommended="1" selected="1">NNNS6-----A----</AM>
 </tag>
 </m>

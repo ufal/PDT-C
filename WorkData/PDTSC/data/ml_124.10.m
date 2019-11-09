@@ -2412,21 +2412,21 @@
 <form_change>spell</form_change>
 <form>třešňové</form>
 <tag>
-<AM lemma="třešňový">AAFP1----1A----</AM>
-<AM lemma="třešňový">AAFP4----1A----</AM>
-<AM lemma="třešňový">AAFP5----1A----</AM>
-<AM lemma="třešňový">AAFS2----1A----</AM>
-<AM lemma="třešňový">AAFS3----1A----</AM>
-<AM lemma="třešňový">AAFS6----1A----</AM>
-<AM lemma="třešňový">AAIP1----1A----</AM>
-<AM lemma="třešňový">AAIP5----1A----</AM>
-<AM lemma="třešňový">AAMP4----1A----</AM>
-<AM lemma="třešňový">AANP1----1A---6</AM>
-<AM lemma="třešňový">AANP4----1A---6</AM>
-<AM lemma="třešňový">AANP5----1A---6</AM>
-<AM lemma="třešňový">AANS1----1A----</AM>
-<AM lemma="třešňový">AANS4----1A----</AM>
-<AM lemma="třešňový">AANS5----1A----</AM>
+<AM lemma="třešňový" src="auto">AAFP1----1A----</AM>
+<AM lemma="třešňový" src="auto">AAFP4----1A----</AM>
+<AM lemma="třešňový" src="auto">AAFP5----1A----</AM>
+<AM lemma="třešňový" src="auto">AAFS2----1A----</AM>
+<AM lemma="třešňový" src="auto">AAFS3----1A----</AM>
+<AM lemma="třešňový" src="auto">AAFS6----1A----</AM>
+<AM lemma="třešňový" src="auto">AAIP1----1A----</AM>
+<AM lemma="třešňový" src="auto">AAIP5----1A----</AM>
+<AM lemma="třešňový" src="auto">AAMP4----1A----</AM>
+<AM lemma="třešňový" src="auto">AANP1----1A---6</AM>
+<AM lemma="třešňový" src="auto">AANP4----1A---6</AM>
+<AM lemma="třešňový" src="auto">AANP5----1A---6</AM>
+<AM lemma="třešňový" src="auto">AANS1----1A----</AM>
+<AM lemma="třešňový" src="auto">AANS4----1A----</AM>
+<AM lemma="třešňový" src="auto">AANS5----1A----</AM>
 <AM lemma="třešňový" src="auto" recommended="1" selected="1">AAIP4----1A----</AM>
 </tag>
 </m>

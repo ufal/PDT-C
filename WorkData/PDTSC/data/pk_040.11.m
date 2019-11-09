@@ -1757,7 +1757,7 @@
 <tag lemma="?" src="auto" recommended="1">Z:-------------</tag>
 </m>
 </s>
-<s id="m-473"></s>
+<s id="m-473"/>
 <s id="m-d1e2931-x2">
 <m id="m040-d1t2934-1">
 <w.rf>

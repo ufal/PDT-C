@@ -5404,7 +5404,7 @@
 <form_change>spell</form_change>
 <form>věřte</form>
 <tag>
-<AM lemma="věřit">Vi-P---3--A-I-4</AM>
+<AM lemma="věřit" src="auto">Vi-P---3--A-I-4</AM>
 <AM lemma="věřit" src="auto" recommended="1" selected="1">Vi-P---2--A-I--</AM>
 </tag>
 </m>

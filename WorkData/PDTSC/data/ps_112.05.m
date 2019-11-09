@@ -1660,12 +1660,12 @@
 <form_change>spell</form_change>
 <form>Provence</form>
 <tag>
-<AM lemma="Provence_;G">NNFP1-----A----</AM>
-<AM lemma="Provence_;G">NNFP4-----A----</AM>
-<AM lemma="Provence_;G">NNFP5-----A----</AM>
-<AM lemma="Provence_;G">NNFS1-----A----</AM>
-<AM lemma="Provence_;G">NNFS2-----A----</AM>
-<AM lemma="Provence_;G">NNFS5-----A----</AM>
+<AM lemma="Provence_;G" src="auto">NNFP1-----A----</AM>
+<AM lemma="Provence_;G" src="auto">NNFP4-----A----</AM>
+<AM lemma="Provence_;G" src="auto">NNFP5-----A----</AM>
+<AM lemma="Provence_;G" src="auto">NNFS1-----A----</AM>
+<AM lemma="Provence_;G" src="auto">NNFS2-----A----</AM>
+<AM lemma="Provence_;G" src="auto">NNFS5-----A----</AM>
 <AM lemma="Provence_;G" src="auto" recommended="1" selected="1">NNFXX-----A----</AM>
 </tag>
 </m>

@@ -302,7 +302,7 @@
 <form_change>spell</form_change>
 <form>spolužáci</form>
 <tag>
-<AM lemma="spolužák">NNMP5-----A----</AM>
+<AM lemma="spolužák" src="auto">NNMP5-----A----</AM>
 <AM lemma="spolužák" src="auto" recommended="1" selected="1">NNMP1-----A----</AM>
 </tag>
 </m>
@@ -621,18 +621,18 @@
 <form_change>spell</form_change>
 <form>čtvrti</form>
 <tag>
-<AM lemma="čtvrť_^(města)">NNFP1-----A---1</AM>
-<AM lemma="čtvrť_^(města)">NNFP4-----A---1</AM>
-<AM lemma="čtvrť_^(města)">NNFP5-----A---1</AM>
-<AM lemma="čtvrť_^(města)">NNFS3-----A----</AM>
-<AM lemma="čtvrť_^(města)">NNFS5-----A----</AM>
-<AM lemma="čtvrť_^(města)">NNFS6-----A----</AM>
-<AM lemma="čtvrt-2_^(čtvrtina)">NNFP1-----A---1</AM>
-<AM lemma="čtvrt-2_^(čtvrtina)">NNFP4-----A---1</AM>
-<AM lemma="čtvrt-2_^(čtvrtina)">NNFP5-----A---1</AM>
-<AM lemma="čtvrt-2_^(čtvrtina)">NNFS2-----A----</AM>
-<AM lemma="čtvrt-2_^(čtvrtina)">NNFS3-----A----</AM>
-<AM lemma="čtvrt-2_^(čtvrtina)">NNFS6-----A----</AM>
+<AM lemma="čtvrť_^(města)" src="auto">NNFP1-----A---1</AM>
+<AM lemma="čtvrť_^(města)" src="auto">NNFP4-----A---1</AM>
+<AM lemma="čtvrť_^(města)" src="auto">NNFP5-----A---1</AM>
+<AM lemma="čtvrť_^(města)" src="auto">NNFS3-----A----</AM>
+<AM lemma="čtvrť_^(města)" src="auto">NNFS5-----A----</AM>
+<AM lemma="čtvrť_^(města)" src="auto">NNFS6-----A----</AM>
+<AM lemma="čtvrt-2_^(čtvrtina)" src="auto">NNFP1-----A---1</AM>
+<AM lemma="čtvrt-2_^(čtvrtina)" src="auto">NNFP4-----A---1</AM>
+<AM lemma="čtvrt-2_^(čtvrtina)" src="auto">NNFP5-----A---1</AM>
+<AM lemma="čtvrt-2_^(čtvrtina)" src="auto">NNFS2-----A----</AM>
+<AM lemma="čtvrt-2_^(čtvrtina)" src="auto">NNFS3-----A----</AM>
+<AM lemma="čtvrt-2_^(čtvrtina)" src="auto">NNFS6-----A----</AM>
 <AM lemma="čtvrť_^(města)" src="auto" recommended="1" selected="1">NNFS2-----A---1</AM>
 </tag>
 </m>

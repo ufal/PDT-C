@@ -2958,9 +2958,9 @@
 <form_change>spell</form_change>
 <form>poutě</form>
 <tag>
-<AM lemma="pouť">NNFP1-----A----</AM>
-<AM lemma="pouť">NNFP5-----A----</AM>
-<AM lemma="pouť">NNFS2-----A----</AM>
+<AM lemma="pouť" src="auto">NNFP1-----A----</AM>
+<AM lemma="pouť" src="auto">NNFP5-----A----</AM>
+<AM lemma="pouť" src="auto">NNFS2-----A----</AM>
 <AM lemma="pouť" src="auto" recommended="1" selected="1">NNFP4-----A----</AM>
 </tag>
 </m>
@@ -4062,7 +4062,7 @@
 <form_change>spell</form_change>
 <form>celníci</form>
 <tag>
-<AM lemma="celník-1_^(úřední_osoba)">NNMP5-----A----</AM>
+<AM lemma="celník-1_^(úřední_osoba)" src="auto">NNMP5-----A----</AM>
 <AM lemma="celník-1_^(úřední_osoba)" src="auto" recommended="1" selected="1">NNMP1-----A----</AM>
 </tag>
 </m>
@@ -6063,8 +6063,8 @@
 <form_change>spell</form_change>
 <form>všechno</form>
 <tag>
-<AM lemma="všechen">PLNS1----------</AM>
-<AM lemma="všechen">PLNS5----------</AM>
+<AM lemma="všechen" src="auto">PLNS1----------</AM>
+<AM lemma="všechen" src="auto">PLNS5----------</AM>
 <AM lemma="všechen" src="auto" recommended="1" selected="1">PLNS4----------</AM>
 </tag>
 </m>

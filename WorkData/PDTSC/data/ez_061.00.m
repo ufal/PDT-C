@@ -824,9 +824,9 @@
 <form_change>spell</form_change>
 <form>raného</form>
 <tag>
-<AM lemma="raný">AAIS2----1A----</AM>
-<AM lemma="raný">AAMS2----1A----</AM>
-<AM lemma="raný">AAMS4----1A----</AM>
+<AM lemma="raný" src="auto">AAIS2----1A----</AM>
+<AM lemma="raný" src="auto">AAMS2----1A----</AM>
+<AM lemma="raný" src="auto">AAMS4----1A----</AM>
 <AM lemma="raný" src="auto" recommended="1" selected="1">AANS2----1A----</AM>
 </tag>
 </m>

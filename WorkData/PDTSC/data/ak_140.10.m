@@ -1396,7 +1396,7 @@
 <form_change>spell</form_change>
 <form>parcele</form>
 <tag>
-<AM lemma="parcela">NNFS3-----A----</AM>
+<AM lemma="parcela" src="auto">NNFS3-----A----</AM>
 <AM lemma="parcela" src="auto" recommended="1" selected="1">NNFS6-----A----</AM>
 </tag>
 </m>

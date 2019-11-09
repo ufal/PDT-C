@@ -731,9 +731,9 @@
 <form_change>spell</form_change>
 <form>Zruby</form>
 <tag>
-<AM lemma="Zruby_;G_,t">NNIP4-----A----</AM>
-<AM lemma="Zruby_;G_,t">NNIP5-----A----</AM>
-<AM lemma="Zruby_;G_,t">NNIP7-----A----</AM>
+<AM lemma="Zruby_;G_,t" src="auto">NNIP4-----A----</AM>
+<AM lemma="Zruby_;G_,t" src="auto">NNIP5-----A----</AM>
+<AM lemma="Zruby_;G_,t" src="auto">NNIP7-----A----</AM>
 <AM lemma="Zruby_;G_,t" src="auto" recommended="1">NNIP1-----A----</AM>
 <AM lemma="Zruby_;G" src="manual" selected="1">NNIP4-----A----</AM>
 </tag>

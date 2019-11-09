@@ -1983,7 +1983,7 @@
 <form_change>spell</form_change>
 <form>kartonážce</form>
 <tag>
-<AM lemma="kartonážka_,h">NNFS3-----A----</AM>
+<AM lemma="kartonážka_,h" src="auto">NNFS3-----A----</AM>
 <AM lemma="kartonážka_,h" src="auto" recommended="1" selected="1">NNFS6-----A----</AM>
 </tag>
 </m>

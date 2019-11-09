@@ -1968,9 +1968,9 @@
 <form_change>spell</form_change>
 <form>jazyky</form>
 <tag>
-<AM lemma="jazyk">NNIP1-----A----</AM>
-<AM lemma="jazyk">NNIP5-----A----</AM>
-<AM lemma="jazyk">NNIP7-----A----</AM>
+<AM lemma="jazyk" src="auto">NNIP1-----A----</AM>
+<AM lemma="jazyk" src="auto">NNIP5-----A----</AM>
+<AM lemma="jazyk" src="auto">NNIP7-----A----</AM>
 <AM lemma="jazyk" src="auto" recommended="1" selected="1">NNIP4-----A----</AM>
 </tag>
 </m>
@@ -3439,7 +3439,7 @@
 <form_change>spell</form_change>
 <form>Modiglianiho</form>
 <tag>
-<AM lemma="Modigliani_;S" selected="1">NNMS4-----A----</AM>
+<AM lemma="Modigliani_;S" selected="1" src="auto">NNMS4-----A----</AM>
 <AM lemma="Modigliani_;S" src="auto" recommended="1">NNMS2-----A----</AM>
 </tag>
 </m>

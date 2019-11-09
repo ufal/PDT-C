@@ -3213,7 +3213,7 @@
 <form_change>spell</form_change>
 <form>přijímač</form>
 <tag>
-<AM lemma="přijímač">NNIS1-----A----</AM>
+<AM lemma="přijímač" src="auto">NNIS1-----A----</AM>
 <AM lemma="přijímač" src="auto" recommended="1" selected="1">NNIS4-----A----</AM>
 </tag>
 </m>

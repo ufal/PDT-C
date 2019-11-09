@@ -5095,7 +5095,7 @@
 <form_change>spell</form_change>
 <form>Dědeček</form>
 <tag>
-<AM lemma="Dědeček_;S">NNMS1-----A----</AM>
+<AM lemma="Dědeček_;S" src="auto">NNMS1-----A----</AM>
 <AM lemma="dědeček" src="auto" recommended="1" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>

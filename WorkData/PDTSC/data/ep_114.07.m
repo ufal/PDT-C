@@ -4948,7 +4948,7 @@
 <form_change>spell</form_change>
 <form>TU</form>
 <tag>
-<AM lemma="tu">Db-------------</AM>
+<AM lemma="tu" src="auto">Db-------------</AM>
 <AM lemma="ten" src="auto" recommended="1">PDFS4----------</AM>
 <AM lemma="TU-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
@@ -5404,14 +5404,14 @@
 <form_change>spell</form_change>
 <form>L</form>
 <tag>
-<AM lemma="L-3`50">C}-------------</AM>
-<AM lemma="L-88_:B" selected="1">NNXXX-----A----</AM>
-<AM lemma="l-33_^(označení_pomocí_písmene)">NNNXX-----A----</AM>
-<AM lemma="l-77_,t">F%-------------</AM>
-<AM lemma="l-88_:B">NNXXX-----A----</AM>
-<AM lemma="letopočet_:B">NNIS2-----A---8</AM>
-<AM lemma="letopočet_:B">NNIS7-----A---8</AM>
-<AM lemma="litr">NNIXX-----A---8</AM>
+<AM lemma="L-3`50" src="auto">C}-------------</AM>
+<AM lemma="L-88_:B" selected="1" src="auto">NNXXX-----A----</AM>
+<AM lemma="l-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
+<AM lemma="l-77_,t" src="auto">F%-------------</AM>
+<AM lemma="l-88_:B" src="auto">NNXXX-----A----</AM>
+<AM lemma="letopočet_:B" src="auto">NNIS2-----A---8</AM>
+<AM lemma="letopočet_:B" src="auto">NNIS7-----A---8</AM>
+<AM lemma="litr" src="auto">NNIXX-----A---8</AM>
 <AM lemma="L-33_^(označení_pomocí_písmene)" src="auto" recommended="1">NNNXX-----A----</AM>
 </tag>
 <comment>

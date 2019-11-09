@@ -1688,14 +1688,14 @@
 <form_change>spell</form_change>
 <form>dny</form>
 <tag>
-<AM lemma="den_^(jednotka_času)">NNIP1-----A----</AM>
-<AM lemma="den_^(jednotka_času)">NNIP4-----A----</AM>
-<AM lemma="den_^(jednotka_času)">NNIP5-----A----</AM>
-<AM lemma="dna_^(nemoc)">NNFP1-----A----</AM>
-<AM lemma="dna_^(nemoc)">NNFP4-----A----</AM>
-<AM lemma="dna_^(nemoc)">NNFP5-----A----</AM>
-<AM lemma="dna_^(nemoc)">NNFS2-----A----</AM>
-<AM lemma="dno_^(např._propasti)">NNNP7-----A----</AM>
+<AM lemma="den_^(jednotka_času)" src="auto">NNIP1-----A----</AM>
+<AM lemma="den_^(jednotka_času)" src="auto">NNIP4-----A----</AM>
+<AM lemma="den_^(jednotka_času)" src="auto">NNIP5-----A----</AM>
+<AM lemma="dna_^(nemoc)" src="auto">NNFP1-----A----</AM>
+<AM lemma="dna_^(nemoc)" src="auto">NNFP4-----A----</AM>
+<AM lemma="dna_^(nemoc)" src="auto">NNFP5-----A----</AM>
+<AM lemma="dna_^(nemoc)" src="auto">NNFS2-----A----</AM>
+<AM lemma="dno_^(např._propasti)" src="auto">NNNP7-----A----</AM>
 <AM lemma="den_^(jednotka_času)" src="auto" recommended="1" selected="1">NNIP7-----A----</AM>
 </tag>
 </m>

@@ -1248,9 +1248,9 @@
 <form_change>spell</form_change>
 <form>Braunschweigu</form>
 <tag>
-<AM lemma="Braunschweig_;G">NNIS2-----A----</AM>
-<AM lemma="Braunschweig_;G">NNIS3-----A----</AM>
-<AM lemma="Braunschweig_;G">NNIS5-----A----</AM>
+<AM lemma="Braunschweig_;G" src="auto">NNIS2-----A----</AM>
+<AM lemma="Braunschweig_;G" src="auto">NNIS3-----A----</AM>
+<AM lemma="Braunschweig_;G" src="auto">NNIS5-----A----</AM>
 <AM lemma="Braunschweig_;G" src="auto" recommended="1">NNIS6-----A----</AM>
 </tag>
 </m>

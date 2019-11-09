@@ -5207,8 +5207,8 @@
 <form_change>spell</form_change>
 <form>patnáct</form>
 <tag>
-<AM lemma="patnáct`15">Cn-S4----------</AM>
-<AM lemma="patnáct`15">Cn-S5----------</AM>
+<AM lemma="patnáct`15" src="auto">Cn-S4----------</AM>
+<AM lemma="patnáct`15" src="auto">Cn-S5----------</AM>
 <AM lemma="patnáct`15" src="auto" recommended="1" selected="1">Cn-S1----------</AM>
 </tag>
 </m>

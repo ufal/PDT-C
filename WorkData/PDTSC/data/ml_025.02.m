@@ -2418,15 +2418,15 @@
 <form_change>spell</form_change>
 <form>Prvním</form>
 <tag>
-<AM lemma="první">CrFP3----------</AM>
-<AM lemma="první">CrIP3----------</AM>
-<AM lemma="první">CrIS6----------</AM>
-<AM lemma="první">CrMP3----------</AM>
-<AM lemma="první">CrMS6----------</AM>
-<AM lemma="první">CrMS7----------</AM>
-<AM lemma="první">CrNP3----------</AM>
-<AM lemma="první">CrNS6----------</AM>
-<AM lemma="první">CrNS7----------</AM>
+<AM lemma="první" src="auto">CrFP3----------</AM>
+<AM lemma="první" src="auto">CrIP3----------</AM>
+<AM lemma="první" src="auto">CrIS6----------</AM>
+<AM lemma="první" src="auto">CrMP3----------</AM>
+<AM lemma="první" src="auto">CrMS6----------</AM>
+<AM lemma="první" src="auto">CrMS7----------</AM>
+<AM lemma="první" src="auto">CrNP3----------</AM>
+<AM lemma="první" src="auto">CrNS6----------</AM>
+<AM lemma="první" src="auto">CrNS7----------</AM>
 <AM lemma="první" src="auto" recommended="1" selected="1">CrIS7----------</AM>
 </tag>
 </m>

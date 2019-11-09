@@ -3702,10 +3702,10 @@
 <form_change>spell</form_change>
 <form>neděli</form>
 <tag>
-<AM lemma="dít-1_^(dít_se)">VpMP---XR-NAI--</AM>
-<AM lemma="dít-2_^(říkat)">VpMP---XR-NAP--</AM>
-<AM lemma="neděle">NNFS3-----A----</AM>
-<AM lemma="neděle">NNFS6-----A----</AM>
+<AM lemma="dít-1_^(dít_se)" src="auto">VpMP---XR-NAI--</AM>
+<AM lemma="dít-2_^(říkat)" src="auto">VpMP---XR-NAP--</AM>
+<AM lemma="neděle" src="auto">NNFS3-----A----</AM>
+<AM lemma="neděle" src="auto">NNFS6-----A----</AM>
 <AM lemma="neděle" src="auto" recommended="1" selected="1">NNFS4-----A----</AM>
 </tag>
 </m>

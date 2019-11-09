@@ -346,21 +346,21 @@
 <form_change>spell</form_change>
 <form>zřejmé</form>
 <tag>
-<AM lemma="zřejmý">AAFP1----1A----</AM>
-<AM lemma="zřejmý">AAFP4----1A----</AM>
-<AM lemma="zřejmý">AAFP5----1A----</AM>
-<AM lemma="zřejmý">AAFS2----1A----</AM>
-<AM lemma="zřejmý">AAFS3----1A----</AM>
-<AM lemma="zřejmý">AAFS6----1A----</AM>
-<AM lemma="zřejmý">AAIP1----1A----</AM>
-<AM lemma="zřejmý">AAIP4----1A----</AM>
-<AM lemma="zřejmý">AAIP5----1A----</AM>
-<AM lemma="zřejmý">AAMP4----1A----</AM>
-<AM lemma="zřejmý">AANP1----1A---6</AM>
-<AM lemma="zřejmý">AANP4----1A---6</AM>
-<AM lemma="zřejmý">AANP5----1A---6</AM>
-<AM lemma="zřejmý">AANS4----1A----</AM>
-<AM lemma="zřejmý">AANS5----1A----</AM>
+<AM lemma="zřejmý" src="auto">AAFP1----1A----</AM>
+<AM lemma="zřejmý" src="auto">AAFP4----1A----</AM>
+<AM lemma="zřejmý" src="auto">AAFP5----1A----</AM>
+<AM lemma="zřejmý" src="auto">AAFS2----1A----</AM>
+<AM lemma="zřejmý" src="auto">AAFS3----1A----</AM>
+<AM lemma="zřejmý" src="auto">AAFS6----1A----</AM>
+<AM lemma="zřejmý" src="auto">AAIP1----1A----</AM>
+<AM lemma="zřejmý" src="auto">AAIP4----1A----</AM>
+<AM lemma="zřejmý" src="auto">AAIP5----1A----</AM>
+<AM lemma="zřejmý" src="auto">AAMP4----1A----</AM>
+<AM lemma="zřejmý" src="auto">AANP1----1A---6</AM>
+<AM lemma="zřejmý" src="auto">AANP4----1A---6</AM>
+<AM lemma="zřejmý" src="auto">AANP5----1A---6</AM>
+<AM lemma="zřejmý" src="auto">AANS4----1A----</AM>
+<AM lemma="zřejmý" src="auto">AANS5----1A----</AM>
 <AM lemma="zřejmý" src="auto" recommended="1" selected="1">AANS1----1A----</AM>
 </tag>
 </m>

@@ -2193,11 +2193,11 @@
 <form_change>spell</form_change>
 <form>dyzenterie</form>
 <tag>
-<AM lemma="dyzenterie_;U">NNFP1-----A----</AM>
-<AM lemma="dyzenterie_;U">NNFP4-----A----</AM>
-<AM lemma="dyzenterie_;U">NNFP5-----A----</AM>
-<AM lemma="dyzenterie_;U">NNFS1-----A----</AM>
-<AM lemma="dyzenterie_;U">NNFS5-----A----</AM>
+<AM lemma="dyzenterie_;U" src="auto">NNFP1-----A----</AM>
+<AM lemma="dyzenterie_;U" src="auto">NNFP4-----A----</AM>
+<AM lemma="dyzenterie_;U" src="auto">NNFP5-----A----</AM>
+<AM lemma="dyzenterie_;U" src="auto">NNFS1-----A----</AM>
+<AM lemma="dyzenterie_;U" src="auto">NNFS5-----A----</AM>
 <AM lemma="dyzenterie_;U" src="auto" recommended="1" selected="1">NNFS2-----A----</AM>
 </tag>
 </m>

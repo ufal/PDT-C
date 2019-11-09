@@ -2151,8 +2151,8 @@
 <form_change>spell</form_change>
 <form>Cobolu</form>
 <tag>
-<AM lemma="COBOL_;R">NNIS2-----A----</AM>
-<AM lemma="COBOL_;R">NNIS3-----A----</AM>
+<AM lemma="COBOL_;R" src="auto">NNIS2-----A----</AM>
+<AM lemma="COBOL_;R" src="auto">NNIS3-----A----</AM>
 <AM lemma="COBOL_;R" src="auto" recommended="1" selected="1">NNIS6-----A----</AM>
 </tag>
 </m>

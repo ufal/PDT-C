@@ -2646,7 +2646,7 @@
 <form_change>spell</form_change>
 <form>camargský</form>
 <tag>
-<AM lemma="camargský">X@-------------</AM>
+<AM lemma="camargský" src="auto">X@-------------</AM>
 <AM lemma="camargský" src="auto" recommended="1" selected="1">AAMS1----1A----</AM>
 </tag>
 </m>

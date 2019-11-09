@@ -2666,12 +2666,12 @@
 <form_change>spell</form_change>
 <form>pracoviště</form>
 <tag>
-<AM lemma="pracoviště">NNNP1-----A----</AM>
-<AM lemma="pracoviště">NNNP4-----A----</AM>
-<AM lemma="pracoviště">NNNP5-----A----</AM>
-<AM lemma="pracoviště">NNNS1-----A----</AM>
-<AM lemma="pracoviště">NNNS2-----A----</AM>
-<AM lemma="pracoviště">NNNS5-----A----</AM>
+<AM lemma="pracoviště" src="auto">NNNP1-----A----</AM>
+<AM lemma="pracoviště" src="auto">NNNP4-----A----</AM>
+<AM lemma="pracoviště" src="auto">NNNP5-----A----</AM>
+<AM lemma="pracoviště" src="auto">NNNS1-----A----</AM>
+<AM lemma="pracoviště" src="auto">NNNS2-----A----</AM>
+<AM lemma="pracoviště" src="auto">NNNS5-----A----</AM>
 <AM lemma="pracoviště" src="auto" recommended="1" selected="1">NNNS4-----A----</AM>
 </tag>
 </m>

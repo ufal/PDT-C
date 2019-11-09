@@ -3512,8 +3512,8 @@
 <form_change>spell</form_change>
 <form>všechno</form>
 <tag>
-<AM lemma="všechen">PLNS1----------</AM>
-<AM lemma="všechen">PLNS5----------</AM>
+<AM lemma="všechen" src="auto">PLNS1----------</AM>
+<AM lemma="všechen" src="auto">PLNS5----------</AM>
 <AM lemma="všechen" src="auto" recommended="1" selected="1">PLNS4----------</AM>
 </tag>
 </m>

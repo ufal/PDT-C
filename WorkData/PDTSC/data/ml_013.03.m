@@ -3287,17 +3287,17 @@
 <form_change>spell</form_change>
 <form>zahraničí</form>
 <tag>
-<AM lemma="zahraničit_,s">VB-P---3P-AAP--</AM>
-<AM lemma="zahraničit_,s">VB-S---3P-AAP--</AM>
-<AM lemma="zahraničí">NNNP1-----A----</AM>
-<AM lemma="zahraničí">NNNP2-----A----</AM>
-<AM lemma="zahraničí">NNNP4-----A----</AM>
-<AM lemma="zahraničí">NNNP5-----A----</AM>
-<AM lemma="zahraničí">NNNS1-----A----</AM>
-<AM lemma="zahraničí">NNNS2-----A----</AM>
-<AM lemma="zahraničí">NNNS3-----A----</AM>
-<AM lemma="zahraničí">NNNS4-----A----</AM>
-<AM lemma="zahraničí">NNNS5-----A----</AM>
+<AM lemma="zahraničit_,s" src="auto">VB-P---3P-AAP--</AM>
+<AM lemma="zahraničit_,s" src="auto">VB-S---3P-AAP--</AM>
+<AM lemma="zahraničí" src="auto">NNNP1-----A----</AM>
+<AM lemma="zahraničí" src="auto">NNNP2-----A----</AM>
+<AM lemma="zahraničí" src="auto">NNNP4-----A----</AM>
+<AM lemma="zahraničí" src="auto">NNNP5-----A----</AM>
+<AM lemma="zahraničí" src="auto">NNNS1-----A----</AM>
+<AM lemma="zahraničí" src="auto">NNNS2-----A----</AM>
+<AM lemma="zahraničí" src="auto">NNNS3-----A----</AM>
+<AM lemma="zahraničí" src="auto">NNNS4-----A----</AM>
+<AM lemma="zahraničí" src="auto">NNNS5-----A----</AM>
 <AM lemma="zahraničí" src="auto" recommended="1" selected="1">NNNS6-----A----</AM>
 </tag>
 </m>

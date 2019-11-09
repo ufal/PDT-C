@@ -3240,12 +3240,12 @@
 <form_change>spell</form_change>
 <form>Mikuláše</form>
 <tag>
-<AM lemma="Mikuláš-1_;Y">NNMP4-----A----</AM>
-<AM lemma="Mikuláš-1_;Y">NNMS2-----A----</AM>
-<AM lemma="Mikuláš-2_;G">NNIP1-----A----</AM>
-<AM lemma="Mikuláš-2_;G">NNIP4-----A----</AM>
-<AM lemma="Mikuláš-2_;G">NNIP5-----A----</AM>
-<AM lemma="Mikuláš-2_;G">NNIS2-----A----</AM>
+<AM lemma="Mikuláš-1_;Y" src="auto">NNMP4-----A----</AM>
+<AM lemma="Mikuláš-1_;Y" src="auto">NNMS2-----A----</AM>
+<AM lemma="Mikuláš-2_;G" src="auto">NNIP1-----A----</AM>
+<AM lemma="Mikuláš-2_;G" src="auto">NNIP4-----A----</AM>
+<AM lemma="Mikuláš-2_;G" src="auto">NNIP5-----A----</AM>
+<AM lemma="Mikuláš-2_;G" src="auto">NNIS2-----A----</AM>
 <AM lemma="Mikuláš-1_;Y" src="auto" recommended="1" selected="1">NNMS4-----A----</AM>
 </tag>
 </m>

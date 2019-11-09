@@ -1579,16 +1579,16 @@
 <form_change>spell</form_change>
 <form>Písku</form>
 <tag>
-<AM lemma="Písek-2_;G">NNIS2-----A----</AM>
-<AM lemma="Písek-2_;G">NNIS3-----A----</AM>
-<AM lemma="Písek-2_;G">NNIS5-----A----</AM>
-<AM lemma="Písek_;S">NNMS3-----A---1</AM>
-<AM lemma="Písek_;S">NNMS5-----A----</AM>
-<AM lemma="Písek_;S">NNMS6-----A---1</AM>
-<AM lemma="písek">NNIS2-----A----</AM>
-<AM lemma="písek">NNIS3-----A----</AM>
-<AM lemma="písek">NNIS5-----A----</AM>
-<AM lemma="písek">NNIS6-----A----</AM>
+<AM lemma="Písek-2_;G" src="auto">NNIS2-----A----</AM>
+<AM lemma="Písek-2_;G" src="auto">NNIS3-----A----</AM>
+<AM lemma="Písek-2_;G" src="auto">NNIS5-----A----</AM>
+<AM lemma="Písek_;S" src="auto">NNMS3-----A---1</AM>
+<AM lemma="Písek_;S" src="auto">NNMS5-----A----</AM>
+<AM lemma="Písek_;S" src="auto">NNMS6-----A---1</AM>
+<AM lemma="písek" src="auto">NNIS2-----A----</AM>
+<AM lemma="písek" src="auto">NNIS3-----A----</AM>
+<AM lemma="písek" src="auto">NNIS5-----A----</AM>
+<AM lemma="písek" src="auto">NNIS6-----A----</AM>
 <AM lemma="Písek-2_;G" src="auto" recommended="1" selected="1">NNIS6-----A----</AM>
 </tag>
 </m>

@@ -74,8 +74,8 @@
 <w.rf>
 <LM>w#w-lnd92259-056-p4s2w1</LM>
 </w.rf>
-<form>></form>
-<tag lemma=">" src="orig" selected="1">Z:-------------</tag>
+<form>&gt;</form>
+<tag lemma="&gt;" src="orig" selected="1">Z:-------------</tag>
 </m>
 <m id="m-lnd92259-056-p4s2w2">
 <src.rf>manual</src.rf>

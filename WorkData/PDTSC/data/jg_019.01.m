@@ -4513,17 +4513,17 @@
 <form_change>spell</form_change>
 <form>sklácení</form>
 <tag>
-<AM lemma="sklácený_^(*4tit)">AAMP5----1A----</AM>
-<AM lemma="sklácení_^(*4tit)">NNNP1-----A----</AM>
-<AM lemma="sklácení_^(*4tit)">NNNP2-----A----</AM>
-<AM lemma="sklácení_^(*4tit)">NNNP4-----A----</AM>
-<AM lemma="sklácení_^(*4tit)">NNNP5-----A----</AM>
-<AM lemma="sklácení_^(*4tit)">NNNS1-----A----</AM>
-<AM lemma="sklácení_^(*4tit)">NNNS2-----A----</AM>
-<AM lemma="sklácení_^(*4tit)">NNNS3-----A----</AM>
-<AM lemma="sklácení_^(*4tit)">NNNS4-----A----</AM>
-<AM lemma="sklácení_^(*4tit)">NNNS5-----A----</AM>
-<AM lemma="sklácení_^(*4tit)">NNNS6-----A----</AM>
+<AM lemma="sklácený_^(*4tit)" src="auto">AAMP5----1A----</AM>
+<AM lemma="sklácení_^(*4tit)" src="auto">NNNP1-----A----</AM>
+<AM lemma="sklácení_^(*4tit)" src="auto">NNNP2-----A----</AM>
+<AM lemma="sklácení_^(*4tit)" src="auto">NNNP4-----A----</AM>
+<AM lemma="sklácení_^(*4tit)" src="auto">NNNP5-----A----</AM>
+<AM lemma="sklácení_^(*4tit)" src="auto">NNNS1-----A----</AM>
+<AM lemma="sklácení_^(*4tit)" src="auto">NNNS2-----A----</AM>
+<AM lemma="sklácení_^(*4tit)" src="auto">NNNS3-----A----</AM>
+<AM lemma="sklácení_^(*4tit)" src="auto">NNNS4-----A----</AM>
+<AM lemma="sklácení_^(*4tit)" src="auto">NNNS5-----A----</AM>
+<AM lemma="sklácení_^(*4tit)" src="auto">NNNS6-----A----</AM>
 <AM lemma="sklácený_^(*4tit)" src="auto" recommended="1" selected="1">AAMP1----1A----</AM>
 </tag>
 </m>

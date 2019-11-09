@@ -3401,7 +3401,7 @@
 <form_change>spell</form_change>
 <form>Dame</form>
 <tag>
-<AM lemma="Dam_;S">NNMS5-----A----</AM>
+<AM lemma="Dam_;S" src="auto">NNMS5-----A----</AM>
 <AM lemma="Dame_;G_,t" src="auto" recommended="1">NNNXX-----A----</AM>
 <AM lemma="Dame-77" src="manual" selected="1">F%-------------</AM>
 </tag>

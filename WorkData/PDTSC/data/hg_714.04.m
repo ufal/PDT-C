@@ -3483,7 +3483,7 @@
 <form_change>spell</form_change>
 <form>volynští</form>
 <tag>
-<AM lemma="volynští">X@-------------</AM>
+<AM lemma="volynští" src="auto">X@-------------</AM>
 <AM lemma="volynský" src="auto" recommended="1" selected="1">AAMP1----1A----</AM>
 </tag>
 </m>

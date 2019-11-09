@@ -694,15 +694,15 @@
 <form_change>spell</form_change>
 <form>kamarádství</form>
 <tag>
-<AM lemma="kamarádství">NNNP1-----A----</AM>
-<AM lemma="kamarádství">NNNP2-----A----</AM>
-<AM lemma="kamarádství">NNNP4-----A----</AM>
-<AM lemma="kamarádství">NNNP5-----A----</AM>
-<AM lemma="kamarádství">NNNS2-----A----</AM>
-<AM lemma="kamarádství">NNNS3-----A----</AM>
-<AM lemma="kamarádství">NNNS4-----A----</AM>
-<AM lemma="kamarádství">NNNS5-----A----</AM>
-<AM lemma="kamarádství">NNNS6-----A----</AM>
+<AM lemma="kamarádství" src="auto">NNNP1-----A----</AM>
+<AM lemma="kamarádství" src="auto">NNNP2-----A----</AM>
+<AM lemma="kamarádství" src="auto">NNNP4-----A----</AM>
+<AM lemma="kamarádství" src="auto">NNNP5-----A----</AM>
+<AM lemma="kamarádství" src="auto">NNNS2-----A----</AM>
+<AM lemma="kamarádství" src="auto">NNNS3-----A----</AM>
+<AM lemma="kamarádství" src="auto">NNNS4-----A----</AM>
+<AM lemma="kamarádství" src="auto">NNNS5-----A----</AM>
+<AM lemma="kamarádství" src="auto">NNNS6-----A----</AM>
 <AM lemma="kamarádství" src="auto" recommended="1" selected="1">NNNS1-----A----</AM>
 </tag>
 </m>
@@ -2669,10 +2669,10 @@
 <form_change>spell</form_change>
 <form>zajímavá</form>
 <tag>
-<AM lemma="zajímavý">AAFS1----1A----</AM>
-<AM lemma="zajímavý">AAFS5----1A----</AM>
-<AM lemma="zajímavý">AANP1----1A----</AM>
-<AM lemma="zajímavý">AANP5----1A----</AM>
+<AM lemma="zajímavý" src="auto">AAFS1----1A----</AM>
+<AM lemma="zajímavý" src="auto">AAFS5----1A----</AM>
+<AM lemma="zajímavý" src="auto">AANP1----1A----</AM>
+<AM lemma="zajímavý" src="auto">AANP5----1A----</AM>
 <AM lemma="zajímavý" src="auto" recommended="1" selected="1">AANP4----1A----</AM>
 </tag>
 </m>

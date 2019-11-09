@@ -6137,7 +6137,7 @@
 <form_change>spell</form_change>
 <form>Świętochłovic</form>
 <tag>
-<AM lemma="Świętochłovic">X@-------------</AM>
+<AM lemma="Świętochłovic" src="auto">X@-------------</AM>
 <AM lemma="Świętochłovice" src="auto" recommended="1">NNFS2-----A----</AM>
 <AM lemma="Świętochłovice_;G" src="manual" selected="1">NNFP2-----A----</AM>
 </tag>

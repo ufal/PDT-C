@@ -2935,9 +2935,9 @@
 <form_change>spell</form_change>
 <form>Hurghady</form>
 <tag>
-<AM lemma="Hurghada_;G">NNFP1-----A----</AM>
-<AM lemma="Hurghada_;G">NNFP4-----A----</AM>
-<AM lemma="Hurghada_;G">NNFP5-----A----</AM>
+<AM lemma="Hurghada_;G" src="auto">NNFP1-----A----</AM>
+<AM lemma="Hurghada_;G" src="auto">NNFP4-----A----</AM>
+<AM lemma="Hurghada_;G" src="auto">NNFP5-----A----</AM>
 <AM lemma="Hurghada_;G" src="auto" recommended="1" selected="1">NNFS2-----A----</AM>
 </tag>
 </m>

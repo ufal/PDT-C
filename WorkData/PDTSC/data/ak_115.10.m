@@ -509,7 +509,7 @@
 <form_change>spell</form_change>
 <form>au</form>
 <tag>
-<AM lemma="au_^(au-pair)">A2--------A----</AM>
+<AM lemma="au_^(au-pair)" src="auto">A2--------A----</AM>
 <AM lemma="au" src="auto" recommended="1">II-------------</AM>
 <AM lemma="au-2_^(au-pair)" src="manual" selected="1">S2--------A----</AM>
 </tag>
@@ -607,7 +607,7 @@
 <form_change>spell</form_change>
 <form>au</form>
 <tag>
-<AM lemma="au_^(au-pair)">A2--------A----</AM>
+<AM lemma="au_^(au-pair)" src="auto">A2--------A----</AM>
 <AM lemma="au" src="auto" recommended="1">II-------------</AM>
 <AM lemma="au-2_^(au-pair)" src="manual" selected="1">S2--------A----</AM>
 </tag>
@@ -749,7 +749,7 @@
 <form_change>spell</form_change>
 <form>pamětihodností</form>
 <tag>
-<AM lemma="pamětihodnost_^(*3ý)">NNFS7-----A----</AM>
+<AM lemma="pamětihodnost_^(*3ý)" src="auto">NNFS7-----A----</AM>
 <AM lemma="pamětihodnost_^(*3ý)" src="auto" recommended="1" selected="1">NNFP2-----A----</AM>
 </tag>
 </m>

@@ -1142,8 +1142,8 @@
 <form_change>spell</form_change>
 <form>exkurzi</form>
 <tag>
-<AM lemma="exkurze">NNFS3-----A----</AM>
-<AM lemma="exkurze" selected="1">NNFS6-----A----</AM>
+<AM lemma="exkurze" src="auto">NNFS3-----A----</AM>
+<AM lemma="exkurze" selected="1" src="auto">NNFS6-----A----</AM>
 <AM lemma="exkurze" src="auto" recommended="1">NNFS4-----A----</AM>
 </tag>
 </m>

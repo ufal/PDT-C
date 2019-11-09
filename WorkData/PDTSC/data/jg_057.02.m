@@ -1734,7 +1734,7 @@
 <form_change>spell</form_change>
 <form>elektrotechnickou</form>
 <tag>
-<AM lemma="elektrotechnický">AAFS7----1A----</AM>
+<AM lemma="elektrotechnický" src="auto">AAFS7----1A----</AM>
 <AM lemma="elektrotechnický" src="auto" recommended="1" selected="1">AAFS4----1A----</AM>
 </tag>
 </m>

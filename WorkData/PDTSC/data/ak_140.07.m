@@ -1412,14 +1412,14 @@
 <form_change>spell</form_change>
 <form>Pankráci</form>
 <tag>
-<AM lemma="Pankrác-1_;Y">NNMP1-----A----</AM>
-<AM lemma="Pankrác-1_;Y">NNMP5-----A----</AM>
-<AM lemma="Pankrác-1_;Y">NNMP7-----A----</AM>
-<AM lemma="Pankrác-1_;Y">NNMS3-----A----</AM>
-<AM lemma="Pankrác-1_;Y">NNMS5-----A----</AM>
-<AM lemma="Pankrác-1_;Y">NNMS6-----A----</AM>
-<AM lemma="Pankrác-2_;G">NNFS3-----A----</AM>
-<AM lemma="Pankrác-2_;G">NNFS5-----A----</AM>
+<AM lemma="Pankrác-1_;Y" src="auto">NNMP1-----A----</AM>
+<AM lemma="Pankrác-1_;Y" src="auto">NNMP5-----A----</AM>
+<AM lemma="Pankrác-1_;Y" src="auto">NNMP7-----A----</AM>
+<AM lemma="Pankrác-1_;Y" src="auto">NNMS3-----A----</AM>
+<AM lemma="Pankrác-1_;Y" src="auto">NNMS5-----A----</AM>
+<AM lemma="Pankrác-1_;Y" src="auto">NNMS6-----A----</AM>
+<AM lemma="Pankrác-2_;G" src="auto">NNFS3-----A----</AM>
+<AM lemma="Pankrác-2_;G" src="auto">NNFS5-----A----</AM>
 <AM lemma="Pankrác-2_;G" src="auto" recommended="1" selected="1">NNFS6-----A----</AM>
 </tag>
 </m>

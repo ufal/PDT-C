@@ -3180,8 +3180,8 @@
 <form_change>spell</form_change>
 <form>čtyři</form>
 <tag>
-<AM lemma="čtyři`4">ClXP1----------</AM>
-<AM lemma="čtyři`4">ClXP5----------</AM>
+<AM lemma="čtyři`4" src="auto">ClXP1----------</AM>
+<AM lemma="čtyři`4" src="auto">ClXP5----------</AM>
 <AM lemma="čtyři`4" src="auto" recommended="1" selected="1">ClXP4----------</AM>
 </tag>
 </m>
@@ -5828,9 +5828,9 @@
 <form_change>spell</form_change>
 <form>čtyřiceti</form>
 <tag>
-<AM lemma="čtyřicet`40">Cn-P3----------</AM>
-<AM lemma="čtyřicet`40">Cn-P6----------</AM>
-<AM lemma="čtyřicet`40">Cn-P7----------</AM>
+<AM lemma="čtyřicet`40" src="auto">Cn-P3----------</AM>
+<AM lemma="čtyřicet`40" src="auto">Cn-P6----------</AM>
+<AM lemma="čtyřicet`40" src="auto">Cn-P7----------</AM>
 <AM lemma="čtyřicet`40" src="auto" recommended="1" selected="1">Cn-P2----------</AM>
 </tag>
 </m>

@@ -3483,7 +3483,7 @@
 <form_change>spell</form_change>
 <form>úředníci</form>
 <tag>
-<AM lemma="úředník">NNMP5-----A----</AM>
+<AM lemma="úředník" src="auto">NNMP5-----A----</AM>
 <AM lemma="úředník" src="auto" recommended="1" selected="1">NNMP1-----A----</AM>
 </tag>
 </m>

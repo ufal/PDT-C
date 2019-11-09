@@ -2916,7 +2916,7 @@
 <form_change>spell</form_change>
 <form>Kleman</form>
 <tag>
-<AM lemma="Kleman">X@-------------</AM>
+<AM lemma="Kleman" src="auto">X@-------------</AM>
 <AM lemma="Kleman" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Kleman_;S" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
@@ -6987,8 +6987,8 @@
 <form_change>spell</form_change>
 <form>Bavorák</form>
 <tag>
-<AM lemma="bavorák_;R">NNIS1-----A----</AM>
-<AM lemma="bavorák_;R">NNIS4-----A----</AM>
+<AM lemma="bavorák_;R" src="auto">NNIS1-----A----</AM>
+<AM lemma="bavorák_;R" src="auto">NNIS4-----A----</AM>
 <AM lemma="Bavorák_;E" src="auto" recommended="1" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>

@@ -2854,7 +2854,7 @@
 <form_change>spell</form_change>
 <form>fotce</form>
 <tag>
-<AM lemma="fotka">NNFS3-----A----</AM>
+<AM lemma="fotka" src="auto">NNFS3-----A----</AM>
 <AM lemma="fotka" src="auto" recommended="1" selected="1">NNFS6-----A----</AM>
 </tag>
 </m>
@@ -5108,7 +5108,7 @@
 <form_change>spell</form_change>
 <form>spektrografy</form>
 <tag>
-<AM lemma="spektrograf">NNMP7-----A----</AM>
+<AM lemma="spektrograf" src="auto">NNMP7-----A----</AM>
 <AM lemma="spektrograf" src="auto" recommended="1">NNMP4-----A----</AM>
 <AM lemma="spektrograf-2" src="manual" selected="1">NNIP1-----A----</AM>
 </tag>

@@ -4964,13 +4964,13 @@
 <form_change>spell</form_change>
 <form>padesátých</form>
 <tag>
-<AM lemma="padesátý">CrFP2----------</AM>
-<AM lemma="padesátý">CrFP6----------</AM>
-<AM lemma="padesátý">CrIP2----------</AM>
-<AM lemma="padesátý">CrIP6----------</AM>
-<AM lemma="padesátý">CrMP2----------</AM>
-<AM lemma="padesátý">CrMP6----------</AM>
-<AM lemma="padesátý">CrNP2----------</AM>
+<AM lemma="padesátý" src="auto">CrFP2----------</AM>
+<AM lemma="padesátý" src="auto">CrFP6----------</AM>
+<AM lemma="padesátý" src="auto">CrIP2----------</AM>
+<AM lemma="padesátý" src="auto">CrIP6----------</AM>
+<AM lemma="padesátý" src="auto">CrMP2----------</AM>
+<AM lemma="padesátý" src="auto">CrMP6----------</AM>
+<AM lemma="padesátý" src="auto">CrNP2----------</AM>
 <AM lemma="padesátý" src="auto" recommended="1" selected="1">CrNP6----------</AM>
 </tag>
 </m>

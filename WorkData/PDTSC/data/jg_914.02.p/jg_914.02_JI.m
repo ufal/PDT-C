@@ -4371,10 +4371,10 @@
 <form_change>spell</form_change>
 <form>hamaku</form>
 <tag>
-<AM lemma="hamaka_,t_^(závěsné_lůžko)">NNFS4-----A----</AM>
-<AM lemma="hamak_,t_^(závěsné_lůžko)">NNIS2-----A----</AM>
-<AM lemma="hamak_,t_^(závěsné_lůžko)">NNIS3-----A----</AM>
-<AM lemma="hamak_,t_^(závěsné_lůžko)">NNIS5-----A----</AM>
+<AM lemma="hamaka_,t_^(závěsné_lůžko)" src="auto">NNFS4-----A----</AM>
+<AM lemma="hamak_,t_^(závěsné_lůžko)" src="auto">NNIS2-----A----</AM>
+<AM lemma="hamak_,t_^(závěsné_lůžko)" src="auto">NNIS3-----A----</AM>
+<AM lemma="hamak_,t_^(závěsné_lůžko)" src="auto">NNIS5-----A----</AM>
 <AM lemma="hamak_,t_^(závěsné_lůžko)" src="auto" recommended="1">NNIS6-----A----</AM>
 <AM lemma="hamak_^(závěsné_lůžko)" src="manual" selected="1">NNIS6-----A----</AM>
 </tag>

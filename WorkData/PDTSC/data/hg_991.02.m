@@ -1013,9 +1013,9 @@
 <form_change>spell</form_change>
 <form>Pak</form>
 <tag>
-<AM lemma="Pak_;S">NNMS1-----A----</AM>
-<AM lemma="Paka_;G">NNFP2-----A----</AM>
-<AM lemma="pako-1_,l">NNNP2-----A----</AM>
+<AM lemma="Pak_;S" src="auto">NNMS1-----A----</AM>
+<AM lemma="Paka_;G" src="auto">NNFP2-----A----</AM>
+<AM lemma="pako-1_,l" src="auto">NNNP2-----A----</AM>
 <AM lemma="pak" src="auto" recommended="1" selected="1">Db-------------</AM>
 </tag>
 </m>

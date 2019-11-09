@@ -1632,7 +1632,7 @@
 <form_change>spell</form_change>
 <form>ni</form>
 <tag>
-<AM lemma="ni_,a">J^-------------</AM>
+<AM lemma="ni_,a" src="auto">J^-------------</AM>
 <AM lemma="on-1" src="auto" recommended="1" selected="1">P5FS4--3-------</AM>
 </tag>
 </m>

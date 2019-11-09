@@ -7080,18 +7080,18 @@
 <form_change>spell</form_change>
 <form>s</form>
 <tag>
-<AM lemma="s-1">RR--2----------</AM>
-<AM lemma="s-1">RR--4----------</AM>
-<AM lemma="s-2`sekunda_:B">NNFXX-----A---1</AM>
-<AM lemma="s-3_^(označení_pomocí_písmene)">NNNXX-----A----</AM>
-<AM lemma="s-4_,t_^(saský_genitiv)">NNXSX-----A----</AM>
-<AM lemma="s-8_:B_^(ost._zkratka)">XX------------8</AM>
-<AM lemma="s-9_^(být_s_to)">TT-------------</AM>
-<AM lemma="scriptum_:B_,t_^(př._P.S.)">NNNXX-----A---8</AM>
-<AM lemma="soudruh_:B">NNMXX-----A---8</AM>
-<AM lemma="společnost_:B">NNFXX-----A---8</AM>
-<AM lemma="strana-4_:B_^(v_knize,_rukopise,...)">NNFXX-----A---8</AM>
-<AM lemma="státní_:B">AAXXX----1A---8</AM>
+<AM lemma="s-1" src="auto">RR--2----------</AM>
+<AM lemma="s-1" src="auto">RR--4----------</AM>
+<AM lemma="s-2`sekunda_:B" src="auto">NNFXX-----A---1</AM>
+<AM lemma="s-3_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
+<AM lemma="s-4_,t_^(saský_genitiv)" src="auto">NNXSX-----A----</AM>
+<AM lemma="s-8_:B_^(ost._zkratka)" src="auto">XX------------8</AM>
+<AM lemma="s-9_^(být_s_to)" src="auto">TT-------------</AM>
+<AM lemma="scriptum_:B_,t_^(př._P.S.)" src="auto">NNNXX-----A---8</AM>
+<AM lemma="soudruh_:B" src="auto">NNMXX-----A---8</AM>
+<AM lemma="společnost_:B" src="auto">NNFXX-----A---8</AM>
+<AM lemma="strana-4_:B_^(v_knize,_rukopise,...)" src="auto">NNFXX-----A---8</AM>
+<AM lemma="státní_:B" src="auto">AAXXX----1A---8</AM>
 <AM lemma="s-1" src="auto" recommended="1" selected="1">RR--7----------</AM>
 </tag>
 </m>

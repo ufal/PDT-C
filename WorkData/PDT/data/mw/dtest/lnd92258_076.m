@@ -3094,12 +3094,12 @@
 <form_change>spell</form_change>
 <form>více</form>
 <tag>
-<AM lemma="více_^(více_+_2._p.,_více_peněz)">Ca--1----------</AM>
-<AM lemma="více_^(více_+_2._p.,_více_peněz)">Ca--2----------</AM>
-<AM lemma="více_^(více_+_2._p.,_více_peněz)">Ca--3----------</AM>
-<AM lemma="více_^(více_+_2._p.,_více_peněz)">Ca--4----------</AM>
-<AM lemma="více_^(více_+_2._p.,_více_peněz)">Ca--6----------</AM>
-<AM lemma="více_^(více_+_2._p.,_více_peněz)">Ca--7----------</AM>
+<AM lemma="více_^(více_+_2._p.,_více_peněz)" src="auto">Ca--1----------</AM>
+<AM lemma="více_^(více_+_2._p.,_více_peněz)" src="auto">Ca--2----------</AM>
+<AM lemma="více_^(více_+_2._p.,_více_peněz)" src="auto">Ca--3----------</AM>
+<AM lemma="více_^(více_+_2._p.,_více_peněz)" src="auto">Ca--4----------</AM>
+<AM lemma="více_^(více_+_2._p.,_více_peněz)" src="auto">Ca--6----------</AM>
+<AM lemma="více_^(více_+_2._p.,_více_peněz)" src="auto">Ca--7----------</AM>
 <AM lemma="hodně-2" src="auto" recommended="1">Dg-------2A----</AM>
 <AM lemma="hodně-3" src="manual" selected="1">Dg-------2A----</AM>
 </tag>
@@ -3605,8 +3605,8 @@
 <w.rf>
 <LM>w#w-lnd92258-076-p50s1w36</LM>
 </w.rf>
-<form>></form>
-<tag lemma=">" src="orig" selected="1">Z:-------------</tag>
+<form>&gt;</form>
+<tag lemma="&gt;" src="orig" selected="1">Z:-------------</tag>
 </m>
 </s>
 <s id="m-lnd92258-076-p51s1">
@@ -3631,8 +3631,8 @@
 <w.rf>
 <LM>w#w-lnd92258-076-p51s1w3</LM>
 </w.rf>
-<form>></form>
-<tag lemma=">" src="orig" selected="1">Z:-------------</tag>
+<form>&gt;</form>
+<tag lemma="&gt;" src="orig" selected="1">Z:-------------</tag>
 </m>
 </s>
 <s id="m-lnd92258-076-p52s1">
@@ -3657,8 +3657,8 @@
 <w.rf>
 <LM>w#w-lnd92258-076-p52s1w3</LM>
 </w.rf>
-<form>></form>
-<tag lemma=">" src="orig" selected="1">Z:-------------</tag>
+<form>&gt;</form>
+<tag lemma="&gt;" src="orig" selected="1">Z:-------------</tag>
 </m>
 </s>
 <s id="m-lnd92258-076-p53s1">

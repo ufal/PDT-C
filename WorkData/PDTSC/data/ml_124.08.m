@@ -718,21 +718,21 @@
 <form_change>spell</form_change>
 <form>páté</form>
 <tag>
-<AM lemma="pátý">CrFP1----------</AM>
-<AM lemma="pátý">CrFP4----------</AM>
-<AM lemma="pátý">CrFP5----------</AM>
-<AM lemma="pátý">CrFS3----------</AM>
-<AM lemma="pátý">CrFS6----------</AM>
-<AM lemma="pátý">CrIP1----------</AM>
-<AM lemma="pátý">CrIP4----------</AM>
-<AM lemma="pátý">CrIP5----------</AM>
-<AM lemma="pátý">CrMP4----------</AM>
-<AM lemma="pátý">CrNP1---------6</AM>
-<AM lemma="pátý">CrNP4---------6</AM>
-<AM lemma="pátý">CrNP5---------6</AM>
-<AM lemma="pátý">CrNS1----------</AM>
-<AM lemma="pátý">CrNS4----------</AM>
-<AM lemma="pátý">CrNS5----------</AM>
+<AM lemma="pátý" src="auto">CrFP1----------</AM>
+<AM lemma="pátý" src="auto">CrFP4----------</AM>
+<AM lemma="pátý" src="auto">CrFP5----------</AM>
+<AM lemma="pátý" src="auto">CrFS3----------</AM>
+<AM lemma="pátý" src="auto">CrFS6----------</AM>
+<AM lemma="pátý" src="auto">CrIP1----------</AM>
+<AM lemma="pátý" src="auto">CrIP4----------</AM>
+<AM lemma="pátý" src="auto">CrIP5----------</AM>
+<AM lemma="pátý" src="auto">CrMP4----------</AM>
+<AM lemma="pátý" src="auto">CrNP1---------6</AM>
+<AM lemma="pátý" src="auto">CrNP4---------6</AM>
+<AM lemma="pátý" src="auto">CrNP5---------6</AM>
+<AM lemma="pátý" src="auto">CrNS1----------</AM>
+<AM lemma="pátý" src="auto">CrNS4----------</AM>
+<AM lemma="pátý" src="auto">CrNS5----------</AM>
 <AM lemma="pátý" src="auto" recommended="1" selected="1">CrFS2----------</AM>
 </tag>
 </m>

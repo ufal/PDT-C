@@ -1094,9 +1094,9 @@
 <form_change>spell</form_change>
 <form>vršku</form>
 <tag>
-<AM lemma="vršek">NNIS2-----A----</AM>
-<AM lemma="vršek">NNIS3-----A----</AM>
-<AM lemma="vršek">NNIS5-----A----</AM>
+<AM lemma="vršek" src="auto">NNIS2-----A----</AM>
+<AM lemma="vršek" src="auto">NNIS3-----A----</AM>
+<AM lemma="vršek" src="auto">NNIS5-----A----</AM>
 <AM lemma="vršek" src="auto" recommended="1" selected="1">NNIS6-----A----</AM>
 </tag>
 </m>
@@ -2305,7 +2305,7 @@
 <tag lemma="?" src="auto" recommended="1">Z:-------------</tag>
 </m>
 </s>
-<s id="m-d1e615-x2"></s>
+<s id="m-d1e615-x2"/>
 <s id="m-710">
 <m id="m016-d1t620-1">
 <w.rf>
@@ -4059,7 +4059,7 @@
 <form_change>spell</form_change>
 <form>ještě</form>
 <tag>
-<AM lemma="ještě-2">TT-------------</AM>
+<AM lemma="ještě-2" src="auto">TT-------------</AM>
 <AM lemma="ještě-1" src="auto" recommended="1" selected="1">Db-------------</AM>
 </tag>
 </m>

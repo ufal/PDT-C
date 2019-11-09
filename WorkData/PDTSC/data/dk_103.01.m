@@ -853,28 +853,28 @@
 <form_change>spell</form_change>
 <form>třípokojový</form>
 <tag>
-<AM lemma="třípokojový">AAFP1----1A---6</AM>
-<AM lemma="třípokojový">AAFP4----1A---6</AM>
-<AM lemma="třípokojový">AAFP5----1A---6</AM>
-<AM lemma="třípokojový">AAFS2----1A---6</AM>
-<AM lemma="třípokojový">AAFS3----1A---6</AM>
-<AM lemma="třípokojový">AAFS6----1A---6</AM>
-<AM lemma="třípokojový">AAIP1----1A---6</AM>
-<AM lemma="třípokojový">AAIP4----1A---6</AM>
-<AM lemma="třípokojový">AAIP5----1A---6</AM>
-<AM lemma="třípokojový">AAIS4----1A----</AM>
-<AM lemma="třípokojový">AAIS5----1A----</AM>
-<AM lemma="třípokojový">AAMP1----1A---6</AM>
-<AM lemma="třípokojový">AAMP4----1A---6</AM>
-<AM lemma="třípokojový">AAMP5----1A---6</AM>
-<AM lemma="třípokojový">AAMS1----1A----</AM>
-<AM lemma="třípokojový">AAMS5----1A----</AM>
-<AM lemma="třípokojový">AANP1----1A---6</AM>
-<AM lemma="třípokojový">AANP4----1A---6</AM>
-<AM lemma="třípokojový">AANP5----1A---6</AM>
-<AM lemma="třípokojový">AANS1----1A---6</AM>
-<AM lemma="třípokojový">AANS4----1A---6</AM>
-<AM lemma="třípokojový">AANS5----1A---6</AM>
+<AM lemma="třípokojový" src="auto">AAFP1----1A---6</AM>
+<AM lemma="třípokojový" src="auto">AAFP4----1A---6</AM>
+<AM lemma="třípokojový" src="auto">AAFP5----1A---6</AM>
+<AM lemma="třípokojový" src="auto">AAFS2----1A---6</AM>
+<AM lemma="třípokojový" src="auto">AAFS3----1A---6</AM>
+<AM lemma="třípokojový" src="auto">AAFS6----1A---6</AM>
+<AM lemma="třípokojový" src="auto">AAIP1----1A---6</AM>
+<AM lemma="třípokojový" src="auto">AAIP4----1A---6</AM>
+<AM lemma="třípokojový" src="auto">AAIP5----1A---6</AM>
+<AM lemma="třípokojový" src="auto">AAIS4----1A----</AM>
+<AM lemma="třípokojový" src="auto">AAIS5----1A----</AM>
+<AM lemma="třípokojový" src="auto">AAMP1----1A---6</AM>
+<AM lemma="třípokojový" src="auto">AAMP4----1A---6</AM>
+<AM lemma="třípokojový" src="auto">AAMP5----1A---6</AM>
+<AM lemma="třípokojový" src="auto">AAMS1----1A----</AM>
+<AM lemma="třípokojový" src="auto">AAMS5----1A----</AM>
+<AM lemma="třípokojový" src="auto">AANP1----1A---6</AM>
+<AM lemma="třípokojový" src="auto">AANP4----1A---6</AM>
+<AM lemma="třípokojový" src="auto">AANP5----1A---6</AM>
+<AM lemma="třípokojový" src="auto">AANS1----1A---6</AM>
+<AM lemma="třípokojový" src="auto">AANS4----1A---6</AM>
+<AM lemma="třípokojový" src="auto">AANS5----1A---6</AM>
 <AM lemma="třípokojový" src="auto" recommended="1" selected="1">AAIS1----1A----</AM>
 </tag>
 </m>

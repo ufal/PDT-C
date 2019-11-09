@@ -56,28 +56,28 @@
 <form_change>spell</form_change>
 <form>nešťastný</form>
 <tag>
-<AM lemma="šťastný">AAFP1----1N---6</AM>
-<AM lemma="šťastný">AAFP4----1N---6</AM>
-<AM lemma="šťastný">AAFP5----1N---6</AM>
-<AM lemma="šťastný">AAFS2----1N---6</AM>
-<AM lemma="šťastný">AAFS3----1N---6</AM>
-<AM lemma="šťastný">AAFS6----1N---6</AM>
-<AM lemma="šťastný">AAIP1----1N---6</AM>
-<AM lemma="šťastný">AAIP4----1N---6</AM>
-<AM lemma="šťastný">AAIP5----1N---6</AM>
-<AM lemma="šťastný">AAIS4----1N----</AM>
-<AM lemma="šťastný">AAIS5----1N----</AM>
-<AM lemma="šťastný">AAMP1----1N---6</AM>
-<AM lemma="šťastný">AAMP4----1N---6</AM>
-<AM lemma="šťastný">AAMP5----1N---6</AM>
-<AM lemma="šťastný" selected="1">AAMS1----1N----</AM>
-<AM lemma="šťastný">AAMS5----1N----</AM>
-<AM lemma="šťastný">AANP1----1N---6</AM>
-<AM lemma="šťastný">AANP4----1N---6</AM>
-<AM lemma="šťastný">AANP5----1N---6</AM>
-<AM lemma="šťastný">AANS1----1N---6</AM>
-<AM lemma="šťastný">AANS4----1N---6</AM>
-<AM lemma="šťastný">AANS5----1N---6</AM>
+<AM lemma="šťastný" src="auto">AAFP1----1N---6</AM>
+<AM lemma="šťastný" src="auto">AAFP4----1N---6</AM>
+<AM lemma="šťastný" src="auto">AAFP5----1N---6</AM>
+<AM lemma="šťastný" src="auto">AAFS2----1N---6</AM>
+<AM lemma="šťastný" src="auto">AAFS3----1N---6</AM>
+<AM lemma="šťastný" src="auto">AAFS6----1N---6</AM>
+<AM lemma="šťastný" src="auto">AAIP1----1N---6</AM>
+<AM lemma="šťastný" src="auto">AAIP4----1N---6</AM>
+<AM lemma="šťastný" src="auto">AAIP5----1N---6</AM>
+<AM lemma="šťastný" src="auto">AAIS4----1N----</AM>
+<AM lemma="šťastný" src="auto">AAIS5----1N----</AM>
+<AM lemma="šťastný" src="auto">AAMP1----1N---6</AM>
+<AM lemma="šťastný" src="auto">AAMP4----1N---6</AM>
+<AM lemma="šťastný" src="auto">AAMP5----1N---6</AM>
+<AM lemma="šťastný" selected="1" src="auto">AAMS1----1N----</AM>
+<AM lemma="šťastný" src="auto">AAMS5----1N----</AM>
+<AM lemma="šťastný" src="auto">AANP1----1N---6</AM>
+<AM lemma="šťastný" src="auto">AANP4----1N---6</AM>
+<AM lemma="šťastný" src="auto">AANP5----1N---6</AM>
+<AM lemma="šťastný" src="auto">AANS1----1N---6</AM>
+<AM lemma="šťastný" src="auto">AANS4----1N---6</AM>
+<AM lemma="šťastný" src="auto">AANS5----1N---6</AM>
 <AM lemma="šťastný" src="auto" recommended="1">AAIS1----1N----</AM>
 </tag>
 </m>
@@ -5148,7 +5148,7 @@
 <form_change>spell</form_change>
 <form>polštářek</form>
 <tag>
-<AM lemma="polštářek" selected="1">NNIS1-----A----</AM>
+<AM lemma="polštářek" selected="1" src="auto">NNIS1-----A----</AM>
 <AM lemma="polštářek" src="auto" recommended="1">NNIS4-----A----</AM>
 </tag>
 </m>

@@ -4849,10 +4849,10 @@
 <form_change>spell</form_change>
 <form>Mangalie</form>
 <tag>
-<AM lemma="Mangalia_;G">NNFP1-----A----</AM>
-<AM lemma="Mangalia_;G">NNFP4-----A----</AM>
-<AM lemma="Mangalia_;G">NNFP5-----A----</AM>
-<AM lemma="Mangalia_;G">NNFS5-----A----</AM>
+<AM lemma="Mangalia_;G" src="auto">NNFP1-----A----</AM>
+<AM lemma="Mangalia_;G" src="auto">NNFP4-----A----</AM>
+<AM lemma="Mangalia_;G" src="auto">NNFP5-----A----</AM>
+<AM lemma="Mangalia_;G" src="auto">NNFS5-----A----</AM>
 <AM lemma="Mangalia_;G" src="auto" recommended="1" selected="1">NNFS2-----A----</AM>
 </tag>
 </m>

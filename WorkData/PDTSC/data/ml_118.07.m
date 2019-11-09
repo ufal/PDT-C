@@ -193,8 +193,8 @@
 <form_change>spell</form_change>
 <form>Austrálii</form>
 <tag>
-<AM lemma="Austrálie_;G">NNFS3-----A----</AM>
-<AM lemma="Austrálie_;G">NNFS4-----A----</AM>
+<AM lemma="Austrálie_;G" src="auto">NNFS3-----A----</AM>
+<AM lemma="Austrálie_;G" src="auto">NNFS4-----A----</AM>
 <AM lemma="Austrálie_;G" src="auto" recommended="1" selected="1">NNFS6-----A----</AM>
 </tag>
 </m>
@@ -2124,8 +2124,8 @@
 <form_change>spell</form_change>
 <form>Austrálii</form>
 <tag>
-<AM lemma="Austrálie_;G">NNFS3-----A----</AM>
-<AM lemma="Austrálie_;G">NNFS4-----A----</AM>
+<AM lemma="Austrálie_;G" src="auto">NNFS3-----A----</AM>
+<AM lemma="Austrálie_;G" src="auto">NNFS4-----A----</AM>
 <AM lemma="Austrálie_;G" src="auto" recommended="1" selected="1">NNFS6-----A----</AM>
 </tag>
 </m>

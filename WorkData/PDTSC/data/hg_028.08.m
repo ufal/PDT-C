@@ -200,7 +200,7 @@
 <form_change>spell</form_change>
 <form>pracovníci</form>
 <tag>
-<AM lemma="pracovník">NNMP5-----A----</AM>
+<AM lemma="pracovník" src="auto">NNMP5-----A----</AM>
 <AM lemma="pracovník" src="auto" recommended="1" selected="1">NNMP1-----A----</AM>
 </tag>
 </m>

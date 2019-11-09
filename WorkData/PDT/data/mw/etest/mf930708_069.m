@@ -2657,16 +2657,16 @@
 <form_change>spell</form_change>
 <form>Nikoly</form>
 <tag>
-<AM lemma="Nikola-1_;Y_^(žena)">NNFP1-----A----</AM>
-<AM lemma="Nikola-1_;Y_^(žena)">NNFP4-----A----</AM>
-<AM lemma="Nikola-1_;Y_^(žena)">NNFP5-----A----</AM>
-<AM lemma="Nikola-1_;Y_^(žena)">NNFS2-----A----</AM>
-<AM lemma="Nikola-2_;Y_^(muž)">NNMP4-----A----</AM>
-<AM lemma="Nikola-2_;Y_^(muž)">NNMP7-----A----</AM>
-<AM lemma="nikol_;g">NNIP1-----A----</AM>
-<AM lemma="nikol_;g">NNIP4-----A----</AM>
-<AM lemma="nikol_;g">NNIP5-----A----</AM>
-<AM lemma="nikol_;g">NNIP7-----A----</AM>
+<AM lemma="Nikola-1_;Y_^(žena)" src="auto">NNFP1-----A----</AM>
+<AM lemma="Nikola-1_;Y_^(žena)" src="auto">NNFP4-----A----</AM>
+<AM lemma="Nikola-1_;Y_^(žena)" src="auto">NNFP5-----A----</AM>
+<AM lemma="Nikola-1_;Y_^(žena)" src="auto">NNFS2-----A----</AM>
+<AM lemma="Nikola-2_;Y_^(muž)" src="auto">NNMP4-----A----</AM>
+<AM lemma="Nikola-2_;Y_^(muž)" src="auto">NNMP7-----A----</AM>
+<AM lemma="nikol_;g" src="auto">NNIP1-----A----</AM>
+<AM lemma="nikol_;g" src="auto">NNIP4-----A----</AM>
+<AM lemma="nikol_;g" src="auto">NNIP5-----A----</AM>
+<AM lemma="nikol_;g" src="auto">NNIP7-----A----</AM>
 <AM lemma="Nikola-2_;Y_^(muž)" src="auto" recommended="1" selected="1">NNMS2-----A----</AM>
 </tag>
 </m>

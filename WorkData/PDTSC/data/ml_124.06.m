@@ -809,15 +809,15 @@
 <form_change>spell</form_change>
 <form>pobřeží</form>
 <tag>
-<AM lemma="pobřeží">NNNP1-----A----</AM>
-<AM lemma="pobřeží">NNNP2-----A----</AM>
-<AM lemma="pobřeží">NNNP4-----A----</AM>
-<AM lemma="pobřeží">NNNP5-----A----</AM>
-<AM lemma="pobřeží">NNNS1-----A----</AM>
-<AM lemma="pobřeží">NNNS2-----A----</AM>
-<AM lemma="pobřeží">NNNS3-----A----</AM>
-<AM lemma="pobřeží">NNNS4-----A----</AM>
-<AM lemma="pobřeží">NNNS5-----A----</AM>
+<AM lemma="pobřeží" src="auto">NNNP1-----A----</AM>
+<AM lemma="pobřeží" src="auto">NNNP2-----A----</AM>
+<AM lemma="pobřeží" src="auto">NNNP4-----A----</AM>
+<AM lemma="pobřeží" src="auto">NNNP5-----A----</AM>
+<AM lemma="pobřeží" src="auto">NNNS1-----A----</AM>
+<AM lemma="pobřeží" src="auto">NNNS2-----A----</AM>
+<AM lemma="pobřeží" src="auto">NNNS3-----A----</AM>
+<AM lemma="pobřeží" src="auto">NNNS4-----A----</AM>
+<AM lemma="pobřeží" src="auto">NNNS5-----A----</AM>
 <AM lemma="pobřeží" src="auto" recommended="1" selected="1">NNNS6-----A----</AM>
 </tag>
 </m>

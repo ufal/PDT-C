@@ -810,8 +810,8 @@
 <form_change>spell</form_change>
 <form>klyzma</form>
 <tag>
-<AM lemma="klyzma">NNNS1-----A----</AM>
-<AM lemma="klyzma">NNNS5-----A----</AM>
+<AM lemma="klyzma" src="auto">NNNS1-----A----</AM>
+<AM lemma="klyzma" src="auto">NNNS5-----A----</AM>
 <AM lemma="klyzma" src="auto" recommended="1" selected="1">NNNS4-----A----</AM>
 </tag>
 </m>
@@ -922,8 +922,8 @@
 <form_change>spell</form_change>
 <form>klyzma</form>
 <tag>
-<AM lemma="klyzma">NNNS4-----A----</AM>
-<AM lemma="klyzma">NNNS5-----A----</AM>
+<AM lemma="klyzma" src="auto">NNNS4-----A----</AM>
+<AM lemma="klyzma" src="auto">NNNS5-----A----</AM>
 <AM lemma="klyzma" src="auto" recommended="1" selected="1">NNNS1-----A----</AM>
 </tag>
 </m>

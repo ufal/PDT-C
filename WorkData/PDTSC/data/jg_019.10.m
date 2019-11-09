@@ -2228,28 +2228,28 @@
 <form_change>spell</form_change>
 <form>vyzdobený</form>
 <tag>
-<AM lemma="vyzdobený_^(*3it)">AAFP1----1A---6</AM>
-<AM lemma="vyzdobený_^(*3it)">AAFP4----1A---6</AM>
-<AM lemma="vyzdobený_^(*3it)">AAFP5----1A---6</AM>
-<AM lemma="vyzdobený_^(*3it)">AAFS2----1A---6</AM>
-<AM lemma="vyzdobený_^(*3it)">AAFS3----1A---6</AM>
-<AM lemma="vyzdobený_^(*3it)">AAFS6----1A---6</AM>
-<AM lemma="vyzdobený_^(*3it)">AAIP1----1A---6</AM>
-<AM lemma="vyzdobený_^(*3it)">AAIP4----1A---6</AM>
-<AM lemma="vyzdobený_^(*3it)">AAIP5----1A---6</AM>
-<AM lemma="vyzdobený_^(*3it)">AAIS1----1A----</AM>
-<AM lemma="vyzdobený_^(*3it)">AAIS5----1A----</AM>
-<AM lemma="vyzdobený_^(*3it)">AAMP1----1A---6</AM>
-<AM lemma="vyzdobený_^(*3it)">AAMP4----1A---6</AM>
-<AM lemma="vyzdobený_^(*3it)">AAMP5----1A---6</AM>
-<AM lemma="vyzdobený_^(*3it)">AAMS1----1A----</AM>
-<AM lemma="vyzdobený_^(*3it)">AAMS5----1A----</AM>
-<AM lemma="vyzdobený_^(*3it)">AANP1----1A---6</AM>
-<AM lemma="vyzdobený_^(*3it)">AANP4----1A---6</AM>
-<AM lemma="vyzdobený_^(*3it)">AANP5----1A---6</AM>
-<AM lemma="vyzdobený_^(*3it)">AANS1----1A---6</AM>
-<AM lemma="vyzdobený_^(*3it)">AANS4----1A---6</AM>
-<AM lemma="vyzdobený_^(*3it)">AANS5----1A---6</AM>
+<AM lemma="vyzdobený_^(*3it)" src="auto">AAFP1----1A---6</AM>
+<AM lemma="vyzdobený_^(*3it)" src="auto">AAFP4----1A---6</AM>
+<AM lemma="vyzdobený_^(*3it)" src="auto">AAFP5----1A---6</AM>
+<AM lemma="vyzdobený_^(*3it)" src="auto">AAFS2----1A---6</AM>
+<AM lemma="vyzdobený_^(*3it)" src="auto">AAFS3----1A---6</AM>
+<AM lemma="vyzdobený_^(*3it)" src="auto">AAFS6----1A---6</AM>
+<AM lemma="vyzdobený_^(*3it)" src="auto">AAIP1----1A---6</AM>
+<AM lemma="vyzdobený_^(*3it)" src="auto">AAIP4----1A---6</AM>
+<AM lemma="vyzdobený_^(*3it)" src="auto">AAIP5----1A---6</AM>
+<AM lemma="vyzdobený_^(*3it)" src="auto">AAIS1----1A----</AM>
+<AM lemma="vyzdobený_^(*3it)" src="auto">AAIS5----1A----</AM>
+<AM lemma="vyzdobený_^(*3it)" src="auto">AAMP1----1A---6</AM>
+<AM lemma="vyzdobený_^(*3it)" src="auto">AAMP4----1A---6</AM>
+<AM lemma="vyzdobený_^(*3it)" src="auto">AAMP5----1A---6</AM>
+<AM lemma="vyzdobený_^(*3it)" src="auto">AAMS1----1A----</AM>
+<AM lemma="vyzdobený_^(*3it)" src="auto">AAMS5----1A----</AM>
+<AM lemma="vyzdobený_^(*3it)" src="auto">AANP1----1A---6</AM>
+<AM lemma="vyzdobený_^(*3it)" src="auto">AANP4----1A---6</AM>
+<AM lemma="vyzdobený_^(*3it)" src="auto">AANP5----1A---6</AM>
+<AM lemma="vyzdobený_^(*3it)" src="auto">AANS1----1A---6</AM>
+<AM lemma="vyzdobený_^(*3it)" src="auto">AANS4----1A---6</AM>
+<AM lemma="vyzdobený_^(*3it)" src="auto">AANS5----1A---6</AM>
 <AM lemma="vyzdobený_^(*3it)" src="auto" recommended="1" selected="1">AAIS4----1A----</AM>
 </tag>
 </m>

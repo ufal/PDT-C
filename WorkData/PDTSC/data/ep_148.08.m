@@ -959,7 +959,7 @@
 <form_change>spell</form_change>
 <form>Sappady</form>
 <tag>
-<AM lemma="Sappady">X@-------------</AM>
+<AM lemma="Sappady" src="auto">X@-------------</AM>
 <AM lemma="Sappada" src="auto" recommended="1">NNFS2-----A----</AM>
 <AM lemma="Sappada_;G" src="manual" selected="1">NNFS2-----A----</AM>
 </tag>
@@ -3079,32 +3079,32 @@
 <form_change>spell</form_change>
 <form>poslední</form>
 <tag>
-<AM lemma="poslední">AAFP1----1A----</AM>
-<AM lemma="poslední">AAFP4----1A----</AM>
-<AM lemma="poslední">AAFP5----1A----</AM>
-<AM lemma="poslední">AAFS2----1A----</AM>
-<AM lemma="poslední">AAFS3----1A----</AM>
-<AM lemma="poslední">AAFS4----1A----</AM>
-<AM lemma="poslední">AAFS5----1A----</AM>
-<AM lemma="poslední">AAFS6----1A----</AM>
-<AM lemma="poslední">AAFS7----1A----</AM>
-<AM lemma="poslední">AAIP1----1A----</AM>
-<AM lemma="poslední">AAIP4----1A----</AM>
-<AM lemma="poslední">AAIP5----1A----</AM>
-<AM lemma="poslední">AAIS1----1A----</AM>
-<AM lemma="poslední">AAIS4----1A----</AM>
-<AM lemma="poslední">AAIS5----1A----</AM>
-<AM lemma="poslední">AAMP1----1A----</AM>
-<AM lemma="poslední">AAMP4----1A----</AM>
-<AM lemma="poslední">AAMP5----1A----</AM>
-<AM lemma="poslední">AAMS1----1A----</AM>
-<AM lemma="poslední">AAMS5----1A----</AM>
-<AM lemma="poslední">AANP1----1A----</AM>
-<AM lemma="poslední">AANP4----1A----</AM>
-<AM lemma="poslední">AANP5----1A----</AM>
-<AM lemma="poslední">AANS1----1A----</AM>
-<AM lemma="poslední">AANS4----1A----</AM>
-<AM lemma="poslední">AANS5----1A----</AM>
+<AM lemma="poslední" src="auto">AAFP1----1A----</AM>
+<AM lemma="poslední" src="auto">AAFP4----1A----</AM>
+<AM lemma="poslední" src="auto">AAFP5----1A----</AM>
+<AM lemma="poslední" src="auto">AAFS2----1A----</AM>
+<AM lemma="poslední" src="auto">AAFS3----1A----</AM>
+<AM lemma="poslední" src="auto">AAFS4----1A----</AM>
+<AM lemma="poslední" src="auto">AAFS5----1A----</AM>
+<AM lemma="poslední" src="auto">AAFS6----1A----</AM>
+<AM lemma="poslední" src="auto">AAFS7----1A----</AM>
+<AM lemma="poslední" src="auto">AAIP1----1A----</AM>
+<AM lemma="poslední" src="auto">AAIP4----1A----</AM>
+<AM lemma="poslední" src="auto">AAIP5----1A----</AM>
+<AM lemma="poslední" src="auto">AAIS1----1A----</AM>
+<AM lemma="poslední" src="auto">AAIS4----1A----</AM>
+<AM lemma="poslední" src="auto">AAIS5----1A----</AM>
+<AM lemma="poslední" src="auto">AAMP1----1A----</AM>
+<AM lemma="poslední" src="auto">AAMP4----1A----</AM>
+<AM lemma="poslední" src="auto">AAMP5----1A----</AM>
+<AM lemma="poslední" src="auto">AAMS1----1A----</AM>
+<AM lemma="poslední" src="auto">AAMS5----1A----</AM>
+<AM lemma="poslední" src="auto">AANP1----1A----</AM>
+<AM lemma="poslední" src="auto">AANP4----1A----</AM>
+<AM lemma="poslední" src="auto">AANP5----1A----</AM>
+<AM lemma="poslední" src="auto">AANS1----1A----</AM>
+<AM lemma="poslední" src="auto">AANS4----1A----</AM>
+<AM lemma="poslední" src="auto">AANS5----1A----</AM>
 <AM lemma="poslední" src="auto" recommended="1" selected="1">AAFS1----1A----</AM>
 </tag>
 </m>
@@ -4695,7 +4695,7 @@
 <form_change>spell</form_change>
 <form>Franciscu</form>
 <tag>
-<AM lemma="Francisco-2_;G">NNNS3-----A----</AM>
+<AM lemma="Francisco-2_;G" src="auto">NNNS3-----A----</AM>
 <AM lemma="Francisco-2_;G" src="auto" recommended="1" selected="1">NNNS6-----A----</AM>
 </tag>
 </m>

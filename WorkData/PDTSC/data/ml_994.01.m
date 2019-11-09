@@ -4099,7 +4099,7 @@
 <form_change>spell</form_change>
 <form>Poloněmec</form>
 <tag>
-<AM lemma="Poloněmec">X@-------------</AM>
+<AM lemma="Poloněmec" src="auto">X@-------------</AM>
 <AM lemma="Poloněmec" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Poloněmec_;E" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>

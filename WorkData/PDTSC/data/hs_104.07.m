@@ -105,10 +105,10 @@
 <form_change>spell</form_change>
 <form>hlavně</form>
 <tag>
-<AM lemma="hlaveň">NNFP1-----A----</AM>
-<AM lemma="hlaveň">NNFP4-----A----</AM>
-<AM lemma="hlaveň">NNFP5-----A----</AM>
-<AM lemma="hlaveň">NNFS2-----A----</AM>
+<AM lemma="hlaveň" src="auto">NNFP1-----A----</AM>
+<AM lemma="hlaveň" src="auto">NNFP4-----A----</AM>
+<AM lemma="hlaveň" src="auto">NNFP5-----A----</AM>
+<AM lemma="hlaveň" src="auto">NNFS2-----A----</AM>
 <AM lemma="hlavně_^(*1í)" src="auto" recommended="1" selected="1">Dg-------1A----</AM>
 </tag>
 </m>

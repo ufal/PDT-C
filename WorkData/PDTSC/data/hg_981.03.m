@@ -5905,7 +5905,7 @@
 <form_change>spell</form_change>
 <form>kibuc</form>
 <tag>
-<AM lemma="kibuc" selected="1">NNIS1-----A----</AM>
+<AM lemma="kibuc" selected="1" src="auto">NNIS1-----A----</AM>
 <AM lemma="kibuc" src="auto" recommended="1">NNIS4-----A----</AM>
 </tag>
 </m>

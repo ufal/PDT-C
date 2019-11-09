@@ -1095,9 +1095,9 @@
 <form_change>spell</form_change>
 <form>šedesáti</form>
 <tag>
-<AM lemma="šedesát`60">Cn-P3----------</AM>
-<AM lemma="šedesát`60">Cn-P6----------</AM>
-<AM lemma="šedesát`60">Cn-P7----------</AM>
+<AM lemma="šedesát`60" src="auto">Cn-P3----------</AM>
+<AM lemma="šedesát`60" src="auto">Cn-P6----------</AM>
+<AM lemma="šedesát`60" src="auto">Cn-P7----------</AM>
 <AM lemma="šedesát`60" src="auto" recommended="1" selected="1">Cn-P2----------</AM>
 </tag>
 </m>
@@ -1742,21 +1742,21 @@
 <form_change>spell</form_change>
 <form>živočišné</form>
 <tag>
-<AM lemma="živočišný">AAFP1----1A----</AM>
-<AM lemma="živočišný">AAFP4----1A----</AM>
-<AM lemma="živočišný">AAFP5----1A----</AM>
-<AM lemma="živočišný">AAFS2----1A----</AM>
-<AM lemma="živočišný">AAFS3----1A----</AM>
-<AM lemma="živočišný">AAIP1----1A----</AM>
-<AM lemma="živočišný">AAIP4----1A----</AM>
-<AM lemma="živočišný">AAIP5----1A----</AM>
-<AM lemma="živočišný">AAMP4----1A----</AM>
-<AM lemma="živočišný">AANP1----1A---6</AM>
-<AM lemma="živočišný">AANP4----1A---6</AM>
-<AM lemma="živočišný">AANP5----1A---6</AM>
-<AM lemma="živočišný">AANS1----1A----</AM>
-<AM lemma="živočišný">AANS4----1A----</AM>
-<AM lemma="živočišný">AANS5----1A----</AM>
+<AM lemma="živočišný" src="auto">AAFP1----1A----</AM>
+<AM lemma="živočišný" src="auto">AAFP4----1A----</AM>
+<AM lemma="živočišný" src="auto">AAFP5----1A----</AM>
+<AM lemma="živočišný" src="auto">AAFS2----1A----</AM>
+<AM lemma="živočišný" src="auto">AAFS3----1A----</AM>
+<AM lemma="živočišný" src="auto">AAIP1----1A----</AM>
+<AM lemma="živočišný" src="auto">AAIP4----1A----</AM>
+<AM lemma="živočišný" src="auto">AAIP5----1A----</AM>
+<AM lemma="živočišný" src="auto">AAMP4----1A----</AM>
+<AM lemma="živočišný" src="auto">AANP1----1A---6</AM>
+<AM lemma="živočišný" src="auto">AANP4----1A---6</AM>
+<AM lemma="živočišný" src="auto">AANP5----1A---6</AM>
+<AM lemma="živočišný" src="auto">AANS1----1A----</AM>
+<AM lemma="živočišný" src="auto">AANS4----1A----</AM>
+<AM lemma="živočišný" src="auto">AANS5----1A----</AM>
 <AM lemma="živočišný" src="auto" recommended="1" selected="1">AAFS6----1A----</AM>
 </tag>
 </m>

@@ -6686,8 +6686,8 @@
 <form_change>spell</form_change>
 <form>šest</form>
 <tag>
-<AM lemma="šest`6">Cn-S1----------</AM>
-<AM lemma="šest`6">Cn-S5----------</AM>
+<AM lemma="šest`6" src="auto">Cn-S1----------</AM>
+<AM lemma="šest`6" src="auto">Cn-S5----------</AM>
 <AM lemma="šest`6" src="auto" recommended="1" selected="1">Cn-S4----------</AM>
 </tag>
 </m>

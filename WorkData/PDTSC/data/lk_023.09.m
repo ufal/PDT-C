@@ -1911,7 +1911,7 @@
 <form_change>spell</form_change>
 <form>správě</form>
 <tag>
-<AM lemma="správa">NNFS3-----A----</AM>
+<AM lemma="správa" src="auto">NNFS3-----A----</AM>
 <AM lemma="správa" src="auto" recommended="1" selected="1">NNFS6-----A----</AM>
 </tag>
 </m>

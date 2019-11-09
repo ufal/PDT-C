@@ -1280,18 +1280,18 @@
 <form_change>spell</form_change>
 <form>tuniské</form>
 <tag>
-<AM lemma="tuniský">AAFP1----1A----</AM>
-<AM lemma="tuniský">AAFP4----1A----</AM>
-<AM lemma="tuniský">AAFP5----1A----</AM>
-<AM lemma="tuniský">AAFS2----1A----</AM>
-<AM lemma="tuniský">AAFS3----1A----</AM>
-<AM lemma="tuniský">AAFS6----1A----</AM>
-<AM lemma="tuniský">AAIP1----1A----</AM>
-<AM lemma="tuniský">AAIP4----1A----</AM>
-<AM lemma="tuniský">AAIP5----1A----</AM>
-<AM lemma="tuniský">AAMP4----1A----</AM>
-<AM lemma="tuniský">AANS4----1A----</AM>
-<AM lemma="tuniský">AANS5----1A----</AM>
+<AM lemma="tuniský" src="auto">AAFP1----1A----</AM>
+<AM lemma="tuniský" src="auto">AAFP4----1A----</AM>
+<AM lemma="tuniský" src="auto">AAFP5----1A----</AM>
+<AM lemma="tuniský" src="auto">AAFS2----1A----</AM>
+<AM lemma="tuniský" src="auto">AAFS3----1A----</AM>
+<AM lemma="tuniský" src="auto">AAFS6----1A----</AM>
+<AM lemma="tuniský" src="auto">AAIP1----1A----</AM>
+<AM lemma="tuniský" src="auto">AAIP4----1A----</AM>
+<AM lemma="tuniský" src="auto">AAIP5----1A----</AM>
+<AM lemma="tuniský" src="auto">AAMP4----1A----</AM>
+<AM lemma="tuniský" src="auto">AANS4----1A----</AM>
+<AM lemma="tuniský" src="auto">AANS5----1A----</AM>
 <AM lemma="tuniský" src="auto" recommended="1" selected="1">AANS1----1A----</AM>
 </tag>
 </m>
@@ -2972,7 +2972,7 @@
 <form_change>spell</form_change>
 <form>zákazníci</form>
 <tag>
-<AM lemma="zákazník">NNMP5-----A----</AM>
+<AM lemma="zákazník" src="auto">NNMP5-----A----</AM>
 <AM lemma="zákazník" src="auto" recommended="1" selected="1">NNMP1-----A----</AM>
 </tag>
 </m>
@@ -3467,7 +3467,7 @@
 <form_change>spell</form_change>
 <form>řemeslníci</form>
 <tag>
-<AM lemma="řemeslník">NNMP5-----A----</AM>
+<AM lemma="řemeslník" src="auto">NNMP5-----A----</AM>
 <AM lemma="řemeslník" src="auto" recommended="1" selected="1">NNMP1-----A----</AM>
 </tag>
 </m>

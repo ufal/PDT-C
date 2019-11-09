@@ -838,9 +838,9 @@
 <form_change>spell</form_change>
 <form>družstva</form>
 <tag>
-<AM lemma="družstvo" selected="1">NNNP1-----A----</AM>
-<AM lemma="družstvo">NNNP4-----A----</AM>
-<AM lemma="družstvo">NNNP5-----A----</AM>
+<AM lemma="družstvo" selected="1" src="auto">NNNP1-----A----</AM>
+<AM lemma="družstvo" src="auto">NNNP4-----A----</AM>
+<AM lemma="družstvo" src="auto">NNNP5-----A----</AM>
 <AM lemma="družstvo" src="auto" recommended="1">NNNS2-----A----</AM>
 </tag>
 </m>
@@ -3343,15 +3343,15 @@
 <form_change>spell</form_change>
 <form>korespondenčním</form>
 <tag>
-<AM lemma="korespondenční">AAFP3----1A----</AM>
-<AM lemma="korespondenční">AAIP3----1A----</AM>
-<AM lemma="korespondenční" selected="1">AAIS6----1A----</AM>
-<AM lemma="korespondenční">AAIS7----1A----</AM>
-<AM lemma="korespondenční">AAMP3----1A----</AM>
-<AM lemma="korespondenční">AAMS6----1A----</AM>
-<AM lemma="korespondenční">AAMS7----1A----</AM>
-<AM lemma="korespondenční">AANP3----1A----</AM>
-<AM lemma="korespondenční">AANS7----1A----</AM>
+<AM lemma="korespondenční" src="auto">AAFP3----1A----</AM>
+<AM lemma="korespondenční" src="auto">AAIP3----1A----</AM>
+<AM lemma="korespondenční" selected="1" src="auto">AAIS6----1A----</AM>
+<AM lemma="korespondenční" src="auto">AAIS7----1A----</AM>
+<AM lemma="korespondenční" src="auto">AAMP3----1A----</AM>
+<AM lemma="korespondenční" src="auto">AAMS6----1A----</AM>
+<AM lemma="korespondenční" src="auto">AAMS7----1A----</AM>
+<AM lemma="korespondenční" src="auto">AANP3----1A----</AM>
+<AM lemma="korespondenční" src="auto">AANS7----1A----</AM>
 <AM lemma="korespondenční" src="auto" recommended="1">AANS6----1A----</AM>
 </tag>
 </m>

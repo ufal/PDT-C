@@ -1096,11 +1096,11 @@
 <form_change>spell</form_change>
 <form>Philipsu</form>
 <tag>
-<AM lemma="Philips_;K">NNIS3-----A----</AM>
-<AM lemma="Philips_;K">NNIS6-----A----</AM>
-<AM lemma="Philips-2_;R">NNIS2-----A----</AM>
-<AM lemma="Philips-2_;R">NNIS3-----A----</AM>
-<AM lemma="Philips-2_;R">NNIS6-----A----</AM>
+<AM lemma="Philips_;K" src="auto">NNIS3-----A----</AM>
+<AM lemma="Philips_;K" src="auto">NNIS6-----A----</AM>
+<AM lemma="Philips-2_;R" src="auto">NNIS2-----A----</AM>
+<AM lemma="Philips-2_;R" src="auto">NNIS3-----A----</AM>
+<AM lemma="Philips-2_;R" src="auto">NNIS6-----A----</AM>
 <AM lemma="Philips_;K" src="auto" recommended="1">NNIS2-----A----</AM>
 <AM lemma="Philips-2_;K_;R" src="manual" selected="1">NNIS2-----A----</AM>
 </tag>

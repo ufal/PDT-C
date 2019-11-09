@@ -1986,8 +1986,8 @@
 <form_change>spell</form_change>
 <form>Robčice</form>
 <tag>
-<AM lemma="Robčice_;G">NNFP4-----A----</AM>
-<AM lemma="Robčice_;G">NNFP5-----A----</AM>
+<AM lemma="Robčice_;G" src="auto">NNFP4-----A----</AM>
+<AM lemma="Robčice_;G" src="auto">NNFP5-----A----</AM>
 <AM lemma="Robčice_;G" src="auto" recommended="1" selected="1">NNFP1-----A----</AM>
 </tag>
 </m>

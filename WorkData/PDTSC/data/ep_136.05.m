@@ -4834,7 +4834,7 @@
 <form_change>spell</form_change>
 <form>zájezd</form>
 <tag>
-<AM lemma="zájezd">NNIS4-----A----</AM>
+<AM lemma="zájezd" src="auto">NNIS4-----A----</AM>
 <AM lemma="zájezd" src="auto" recommended="1" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>

@@ -531,7 +531,7 @@
 <form_change>spell</form_change>
 <form>Classic</form>
 <tag>
-<AM lemma="Classic">X@-------------</AM>
+<AM lemma="Classic" src="auto">X@-------------</AM>
 <AM lemma="Classic" src="auto" recommended="1">NNFXX-----A----</AM>
 <AM lemma="Classic-77" src="manual" selected="1">F%-------------</AM>
 </tag>
@@ -2888,47 +2888,47 @@
 <form_change>spell</form_change>
 <form>domácí</form>
 <tag>
-<AM lemma="domácí-1">AAFP1----1A----</AM>
-<AM lemma="domácí-1">AAFP4----1A----</AM>
-<AM lemma="domácí-1">AAFP5----1A----</AM>
-<AM lemma="domácí-1">AAFS1----1A----</AM>
-<AM lemma="domácí-1">AAFS2----1A----</AM>
-<AM lemma="domácí-1">AAFS3----1A----</AM>
-<AM lemma="domácí-1">AAFS4----1A----</AM>
-<AM lemma="domácí-1">AAFS5----1A----</AM>
-<AM lemma="domácí-1">AAFS6----1A----</AM>
-<AM lemma="domácí-1">AAFS7----1A----</AM>
-<AM lemma="domácí-1">AAIP1----1A----</AM>
-<AM lemma="domácí-1">AAIP4----1A----</AM>
-<AM lemma="domácí-1">AAIP5----1A----</AM>
-<AM lemma="domácí-1">AAIS1----1A----</AM>
-<AM lemma="domácí-1">AAIS5----1A----</AM>
-<AM lemma="domácí-1">AAMP1----1A----</AM>
-<AM lemma="domácí-1">AAMP4----1A----</AM>
-<AM lemma="domácí-1">AAMP5----1A----</AM>
-<AM lemma="domácí-1">AAMS1----1A----</AM>
-<AM lemma="domácí-1">AAMS5----1A----</AM>
-<AM lemma="domácí-1">AANP1----1A----</AM>
-<AM lemma="domácí-1">AANP4----1A----</AM>
-<AM lemma="domácí-1">AANP5----1A----</AM>
-<AM lemma="domácí-1">AANS1----1A----</AM>
-<AM lemma="domácí-1">AANS4----1A----</AM>
-<AM lemma="domácí-1">AANS5----1A----</AM>
-<AM lemma="domácí-2">NNMP1-----A----</AM>
-<AM lemma="domácí-2">NNMP4-----A----</AM>
-<AM lemma="domácí-2">NNMP5-----A----</AM>
-<AM lemma="domácí-2">NNMS1-----A----</AM>
-<AM lemma="domácí-2">NNMS5-----A----</AM>
-<AM lemma="domácí-3">NNFP1-----A----</AM>
-<AM lemma="domácí-3">NNFP4-----A----</AM>
-<AM lemma="domácí-3">NNFP5-----A----</AM>
-<AM lemma="domácí-3">NNFS1-----A----</AM>
-<AM lemma="domácí-3">NNFS2-----A----</AM>
-<AM lemma="domácí-3">NNFS3-----A----</AM>
-<AM lemma="domácí-3">NNFS4-----A----</AM>
-<AM lemma="domácí-3">NNFS5-----A----</AM>
-<AM lemma="domácí-3">NNFS6-----A----</AM>
-<AM lemma="domácí-3">NNFS7-----A----</AM>
+<AM lemma="domácí-1" src="auto">AAFP1----1A----</AM>
+<AM lemma="domácí-1" src="auto">AAFP4----1A----</AM>
+<AM lemma="domácí-1" src="auto">AAFP5----1A----</AM>
+<AM lemma="domácí-1" src="auto">AAFS1----1A----</AM>
+<AM lemma="domácí-1" src="auto">AAFS2----1A----</AM>
+<AM lemma="domácí-1" src="auto">AAFS3----1A----</AM>
+<AM lemma="domácí-1" src="auto">AAFS4----1A----</AM>
+<AM lemma="domácí-1" src="auto">AAFS5----1A----</AM>
+<AM lemma="domácí-1" src="auto">AAFS6----1A----</AM>
+<AM lemma="domácí-1" src="auto">AAFS7----1A----</AM>
+<AM lemma="domácí-1" src="auto">AAIP1----1A----</AM>
+<AM lemma="domácí-1" src="auto">AAIP4----1A----</AM>
+<AM lemma="domácí-1" src="auto">AAIP5----1A----</AM>
+<AM lemma="domácí-1" src="auto">AAIS1----1A----</AM>
+<AM lemma="domácí-1" src="auto">AAIS5----1A----</AM>
+<AM lemma="domácí-1" src="auto">AAMP1----1A----</AM>
+<AM lemma="domácí-1" src="auto">AAMP4----1A----</AM>
+<AM lemma="domácí-1" src="auto">AAMP5----1A----</AM>
+<AM lemma="domácí-1" src="auto">AAMS1----1A----</AM>
+<AM lemma="domácí-1" src="auto">AAMS5----1A----</AM>
+<AM lemma="domácí-1" src="auto">AANP1----1A----</AM>
+<AM lemma="domácí-1" src="auto">AANP4----1A----</AM>
+<AM lemma="domácí-1" src="auto">AANP5----1A----</AM>
+<AM lemma="domácí-1" src="auto">AANS1----1A----</AM>
+<AM lemma="domácí-1" src="auto">AANS4----1A----</AM>
+<AM lemma="domácí-1" src="auto">AANS5----1A----</AM>
+<AM lemma="domácí-2" src="auto">NNMP1-----A----</AM>
+<AM lemma="domácí-2" src="auto">NNMP4-----A----</AM>
+<AM lemma="domácí-2" src="auto">NNMP5-----A----</AM>
+<AM lemma="domácí-2" src="auto">NNMS1-----A----</AM>
+<AM lemma="domácí-2" src="auto">NNMS5-----A----</AM>
+<AM lemma="domácí-3" src="auto">NNFP1-----A----</AM>
+<AM lemma="domácí-3" src="auto">NNFP4-----A----</AM>
+<AM lemma="domácí-3" src="auto">NNFP5-----A----</AM>
+<AM lemma="domácí-3" src="auto">NNFS1-----A----</AM>
+<AM lemma="domácí-3" src="auto">NNFS2-----A----</AM>
+<AM lemma="domácí-3" src="auto">NNFS3-----A----</AM>
+<AM lemma="domácí-3" src="auto">NNFS4-----A----</AM>
+<AM lemma="domácí-3" src="auto">NNFS5-----A----</AM>
+<AM lemma="domácí-3" src="auto">NNFS6-----A----</AM>
+<AM lemma="domácí-3" src="auto">NNFS7-----A----</AM>
 <AM lemma="domácí-1" src="auto" recommended="1" selected="1">AAIS4----1A----</AM>
 </tag>
 </m>

@@ -2789,7 +2789,7 @@
 </w.rf>
 <form>sjezdovce</form>
 <tag>
-<AM lemma="sjezdovka">NNFS3-----A----</AM>
+<AM lemma="sjezdovka" src="auto">NNFS3-----A----</AM>
 <AM lemma="sjezdovka" src="auto" recommended="1" selected="1">NNFS6-----A----</AM>
 </tag>
 </m>

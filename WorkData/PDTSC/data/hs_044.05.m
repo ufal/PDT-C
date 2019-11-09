@@ -2248,10 +2248,10 @@
 <form_change>spell</form_change>
 <form>zatravněná</form>
 <tag>
-<AM lemma="zatravněný_^(*3it)">AAFS5----1A----</AM>
-<AM lemma="zatravněný_^(*3it)">AANP1----1A----</AM>
-<AM lemma="zatravněný_^(*3it)">AANP4----1A----</AM>
-<AM lemma="zatravněný_^(*3it)">AANP5----1A----</AM>
+<AM lemma="zatravněný_^(*3it)" src="auto">AAFS5----1A----</AM>
+<AM lemma="zatravněný_^(*3it)" src="auto">AANP1----1A----</AM>
+<AM lemma="zatravněný_^(*3it)" src="auto">AANP4----1A----</AM>
+<AM lemma="zatravněný_^(*3it)" src="auto">AANP5----1A----</AM>
 <AM lemma="zatravněný_^(*3it)" src="auto" recommended="1" selected="1">AAFS1----1A----</AM>
 </tag>
 </m>

@@ -539,7 +539,7 @@
 <form_change>spell</form_change>
 <form>areál</form>
 <tag>
-<AM lemma="areál">NNIS4-----A----</AM>
+<AM lemma="areál" src="auto">NNIS4-----A----</AM>
 <AM lemma="areál" src="auto" recommended="1" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
@@ -714,7 +714,7 @@
 <form_change>spell</form_change>
 <form>areál</form>
 <tag>
-<AM lemma="areál">NNIS4-----A----</AM>
+<AM lemma="areál" src="auto">NNIS4-----A----</AM>
 <AM lemma="areál" src="auto" recommended="1" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>

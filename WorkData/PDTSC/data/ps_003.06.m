@@ -4331,9 +4331,9 @@
 <form_change>spell</form_change>
 <form>procedury</form>
 <tag>
-<AM lemma="procedura">NNFP4-----A----</AM>
-<AM lemma="procedura">NNFP5-----A----</AM>
-<AM lemma="procedura">NNFS2-----A----</AM>
+<AM lemma="procedura" src="auto">NNFP4-----A----</AM>
+<AM lemma="procedura" src="auto">NNFP5-----A----</AM>
+<AM lemma="procedura" src="auto">NNFS2-----A----</AM>
 <AM lemma="procedura" src="auto" recommended="1" selected="1">NNFP1-----A----</AM>
 </tag>
 </m>
@@ -4402,9 +4402,9 @@
 <form_change>spell</form_change>
 <form>procedury</form>
 <tag>
-<AM lemma="procedura">NNFP1-----A----</AM>
-<AM lemma="procedura">NNFP5-----A----</AM>
-<AM lemma="procedura">NNFS2-----A----</AM>
+<AM lemma="procedura" src="auto">NNFP1-----A----</AM>
+<AM lemma="procedura" src="auto">NNFP5-----A----</AM>
+<AM lemma="procedura" src="auto">NNFS2-----A----</AM>
 <AM lemma="procedura" src="auto" recommended="1" selected="1">NNFP4-----A----</AM>
 </tag>
 </m>

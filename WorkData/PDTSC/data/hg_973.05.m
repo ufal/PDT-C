@@ -4220,7 +4220,7 @@
 <form_change>spell</form_change>
 <form>Vinnycja</form>
 <tag>
-<AM lemma="Vinnycja">X@-------------</AM>
+<AM lemma="Vinnycja" src="auto">X@-------------</AM>
 <AM lemma="Vinnycja" src="auto" recommended="1">NNFXX-----A----</AM>
 <AM lemma="Vinnycja_;G" src="manual">NNFXX-----A----</AM>
 <AM lemma="Vinnycja_;G" src="manual" selected="1">NNFS1-----A----</AM>

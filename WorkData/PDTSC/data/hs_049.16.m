@@ -3410,7 +3410,7 @@
 <form_change>spell</form_change>
 <form>koi</form>
 <tag>
-<AM lemma="koi">X@-------------</AM>
+<AM lemma="koi" src="auto">X@-------------</AM>
 <AM lemma="koi" src="auto" recommended="1">NNNXX-----A----</AM>
 <AM lemma="koi" src="manual" selected="1">AAXXX----1A----</AM>
 </tag>

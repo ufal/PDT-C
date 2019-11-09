@@ -5376,9 +5376,9 @@
 <form_change>spell</form_change>
 <form>spolužačky</form>
 <tag>
-<AM lemma="spolužačka">NNFP4-----A----</AM>
-<AM lemma="spolužačka">NNFP5-----A----</AM>
-<AM lemma="spolužačka">NNFS2-----A----</AM>
+<AM lemma="spolužačka" src="auto">NNFP4-----A----</AM>
+<AM lemma="spolužačka" src="auto">NNFP5-----A----</AM>
+<AM lemma="spolužačka" src="auto">NNFS2-----A----</AM>
 <AM lemma="spolužačka" src="auto" recommended="1" selected="1">NNFP1-----A----</AM>
 </tag>
 </m>

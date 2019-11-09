@@ -3422,14 +3422,14 @@
 <form_change>spell</form_change>
 <form>Babiččina</form>
 <tag>
-<AM lemma="babiččin_^(*3ka)">AUFS1F---------</AM>
-<AM lemma="babiččin_^(*3ka)">AUFS5F---------</AM>
-<AM lemma="babiččin_^(*3ka)">AUIS2F---------</AM>
-<AM lemma="babiččin_^(*3ka)">AUMS2F---------</AM>
-<AM lemma="babiččin_^(*3ka)">AUMS4F---------</AM>
-<AM lemma="babiččin_^(*3ka)">AUNP1F---------</AM>
-<AM lemma="babiččin_^(*3ka)">AUNP4F---------</AM>
-<AM lemma="babiččin_^(*3ka)">AUNP5F---------</AM>
+<AM lemma="babiččin_^(*3ka)" src="auto">AUFS1F---------</AM>
+<AM lemma="babiččin_^(*3ka)" src="auto">AUFS5F---------</AM>
+<AM lemma="babiččin_^(*3ka)" src="auto">AUIS2F---------</AM>
+<AM lemma="babiččin_^(*3ka)" src="auto">AUMS2F---------</AM>
+<AM lemma="babiččin_^(*3ka)" src="auto">AUMS4F---------</AM>
+<AM lemma="babiččin_^(*3ka)" src="auto">AUNP1F---------</AM>
+<AM lemma="babiččin_^(*3ka)" src="auto">AUNP4F---------</AM>
+<AM lemma="babiččin_^(*3ka)" src="auto">AUNP5F---------</AM>
 <AM lemma="babiččin_^(*3ka)" src="auto" recommended="1" selected="1">AUNS2F---------</AM>
 </tag>
 </m>

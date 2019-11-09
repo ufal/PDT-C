@@ -1484,7 +1484,7 @@
 <tag lemma="." src="auto" recommended="1">Z:-------------</tag>
 </m>
 </s>
-<s id="m-790"></s>
+<s id="m-790"/>
 <s id="m-d1e3941-x2">
 <m id="m056-d1t3950-4">
 <w.rf>
@@ -2270,7 +2270,7 @@
 <form_change>spell</form_change>
 <form>nádvozný</form>
 <tag>
-<AM lemma="nádvozný">X@-------------</AM>
+<AM lemma="nádvozný" src="auto">X@-------------</AM>
 <AM lemma="nádvozný" src="auto" recommended="1">AAIS1----1A----</AM>
 <AM lemma="nádvozný" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>

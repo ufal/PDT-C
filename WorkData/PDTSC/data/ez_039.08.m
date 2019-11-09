@@ -2147,7 +2147,7 @@
 <form_change>spell</form_change>
 <form>zvlášť</form>
 <tag>
-<AM lemma="zvlášť-2" selected="1">TT-------------</AM>
+<AM lemma="zvlášť-2" selected="1" src="auto">TT-------------</AM>
 <AM lemma="zvlášť-1" src="auto" recommended="1">Db-------------</AM>
 </tag>
 </m>

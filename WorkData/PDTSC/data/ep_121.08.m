@@ -6162,7 +6162,7 @@
 <form_change>spell</form_change>
 <form>ekzém</form>
 <tag>
-<AM lemma="ekzém">NNIS1-----A----</AM>
+<AM lemma="ekzém" src="auto">NNIS1-----A----</AM>
 <AM lemma="ekzém" src="auto" recommended="1" selected="1">NNIS4-----A----</AM>
 </tag>
 </m>
@@ -6325,7 +6325,7 @@
 <form_change>spell</form_change>
 <form>ekzém</form>
 <tag>
-<AM lemma="ekzém">NNIS4-----A----</AM>
+<AM lemma="ekzém" src="auto">NNIS4-----A----</AM>
 <AM lemma="ekzém" src="auto" recommended="1" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>

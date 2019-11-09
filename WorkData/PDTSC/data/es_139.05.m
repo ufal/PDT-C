@@ -4731,8 +4731,8 @@
 <form_change>spell</form_change>
 <form>Grossglockneru</form>
 <tag>
-<AM lemma="Grossglockner_;G">NNIS2-----A----</AM>
-<AM lemma="Grossglockner_;G">NNIS3-----A----</AM>
+<AM lemma="Grossglockner_;G" src="auto">NNIS2-----A----</AM>
+<AM lemma="Grossglockner_;G" src="auto">NNIS3-----A----</AM>
 <AM lemma="Grossglockner_;G" src="auto" recommended="1" selected="1">NNIS6-----A----</AM>
 </tag>
 </m>

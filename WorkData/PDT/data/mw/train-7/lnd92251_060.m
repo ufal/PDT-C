@@ -3601,15 +3601,15 @@
 <form_change>spell</form_change>
 <form>podezřelým</form>
 <tag>
-<AM lemma="podezřelý">AAFP3----1A----</AM>
-<AM lemma="podezřelý">AAIP3----1A----</AM>
-<AM lemma="podezřelý">AAIS6----1A---7</AM>
-<AM lemma="podezřelý">AAIS7----1A----</AM>
-<AM lemma="podezřelý">AAMS6----1A---7</AM>
-<AM lemma="podezřelý">AAMS7----1A----</AM>
-<AM lemma="podezřelý">AANP3----1A----</AM>
-<AM lemma="podezřelý">AANS6----1A---7</AM>
-<AM lemma="podezřelý">AANS7----1A----</AM>
+<AM lemma="podezřelý" src="auto">AAFP3----1A----</AM>
+<AM lemma="podezřelý" src="auto">AAIP3----1A----</AM>
+<AM lemma="podezřelý" src="auto">AAIS6----1A---7</AM>
+<AM lemma="podezřelý" src="auto">AAIS7----1A----</AM>
+<AM lemma="podezřelý" src="auto">AAMS6----1A---7</AM>
+<AM lemma="podezřelý" src="auto">AAMS7----1A----</AM>
+<AM lemma="podezřelý" src="auto">AANP3----1A----</AM>
+<AM lemma="podezřelý" src="auto">AANS6----1A---7</AM>
+<AM lemma="podezřelý" src="auto">AANS7----1A----</AM>
 <AM lemma="podezřelý" src="auto" recommended="1" selected="1">AAMP3----1A----</AM>
 </tag>
 </m>

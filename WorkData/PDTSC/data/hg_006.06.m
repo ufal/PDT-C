@@ -347,7 +347,7 @@
 <form_change>spell</form_change>
 <form>tuniskou</form>
 <tag>
-<AM lemma="tuniský">AAFS7----1A----</AM>
+<AM lemma="tuniský" src="auto">AAFS7----1A----</AM>
 <AM lemma="tuniský" src="auto" recommended="1" selected="1">AAFS4----1A----</AM>
 </tag>
 </m>

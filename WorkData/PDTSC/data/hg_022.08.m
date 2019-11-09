@@ -3067,28 +3067,28 @@
 <form_change>spell</form_change>
 <form>rodinný</form>
 <tag>
-<AM lemma="rodinný">AAFP1----1A---6</AM>
-<AM lemma="rodinný">AAFP4----1A---6</AM>
-<AM lemma="rodinný">AAFP5----1A---6</AM>
-<AM lemma="rodinný">AAFS2----1A---6</AM>
-<AM lemma="rodinný">AAFS3----1A---6</AM>
-<AM lemma="rodinný">AAFS6----1A---6</AM>
-<AM lemma="rodinný">AAIP1----1A---6</AM>
-<AM lemma="rodinný">AAIP4----1A---6</AM>
-<AM lemma="rodinný">AAIP5----1A---6</AM>
-<AM lemma="rodinný">AAIS4----1A----</AM>
-<AM lemma="rodinný">AAIS5----1A----</AM>
-<AM lemma="rodinný">AAMP1----1A---6</AM>
-<AM lemma="rodinný">AAMP4----1A---6</AM>
-<AM lemma="rodinný">AAMP5----1A---6</AM>
-<AM lemma="rodinný">AAMS1----1A----</AM>
-<AM lemma="rodinný">AAMS5----1A----</AM>
-<AM lemma="rodinný">AANP1----1A---6</AM>
-<AM lemma="rodinný">AANP4----1A---6</AM>
-<AM lemma="rodinný">AANP5----1A---6</AM>
-<AM lemma="rodinný">AANS1----1A---6</AM>
-<AM lemma="rodinný">AANS4----1A---6</AM>
-<AM lemma="rodinný">AANS5----1A---6</AM>
+<AM lemma="rodinný" src="auto">AAFP1----1A---6</AM>
+<AM lemma="rodinný" src="auto">AAFP4----1A---6</AM>
+<AM lemma="rodinný" src="auto">AAFP5----1A---6</AM>
+<AM lemma="rodinný" src="auto">AAFS2----1A---6</AM>
+<AM lemma="rodinný" src="auto">AAFS3----1A---6</AM>
+<AM lemma="rodinný" src="auto">AAFS6----1A---6</AM>
+<AM lemma="rodinný" src="auto">AAIP1----1A---6</AM>
+<AM lemma="rodinný" src="auto">AAIP4----1A---6</AM>
+<AM lemma="rodinný" src="auto">AAIP5----1A---6</AM>
+<AM lemma="rodinný" src="auto">AAIS4----1A----</AM>
+<AM lemma="rodinný" src="auto">AAIS5----1A----</AM>
+<AM lemma="rodinný" src="auto">AAMP1----1A---6</AM>
+<AM lemma="rodinný" src="auto">AAMP4----1A---6</AM>
+<AM lemma="rodinný" src="auto">AAMP5----1A---6</AM>
+<AM lemma="rodinný" src="auto">AAMS1----1A----</AM>
+<AM lemma="rodinný" src="auto">AAMS5----1A----</AM>
+<AM lemma="rodinný" src="auto">AANP1----1A---6</AM>
+<AM lemma="rodinný" src="auto">AANP4----1A---6</AM>
+<AM lemma="rodinný" src="auto">AANP5----1A---6</AM>
+<AM lemma="rodinný" src="auto">AANS1----1A---6</AM>
+<AM lemma="rodinný" src="auto">AANS4----1A---6</AM>
+<AM lemma="rodinný" src="auto">AANS5----1A---6</AM>
 <AM lemma="rodinný" src="auto" recommended="1" selected="1">AAIS1----1A----</AM>
 </tag>
 </m>

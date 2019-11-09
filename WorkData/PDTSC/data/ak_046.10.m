@@ -814,7 +814,7 @@
 <form_change>spell</form_change>
 <form>vechtrová</form>
 <tag>
-<AM lemma="vechtrová">X@-------------</AM>
+<AM lemma="vechtrová" src="auto">X@-------------</AM>
 <AM lemma="vechtrová" src="auto" recommended="1" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>

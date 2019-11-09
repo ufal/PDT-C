@@ -3786,8 +3786,8 @@
 <form_change>spell</form_change>
 <form>vysokozdvižném</form>
 <tag>
-<AM lemma="vysokozdvižný">AAMS6----1A----</AM>
-<AM lemma="vysokozdvižný">AANS6----1A----</AM>
+<AM lemma="vysokozdvižný" src="auto">AAMS6----1A----</AM>
+<AM lemma="vysokozdvižný" src="auto">AANS6----1A----</AM>
 <AM lemma="vysokozdvižný" src="auto" recommended="1" selected="1">AAIS6----1A----</AM>
 </tag>
 </m>

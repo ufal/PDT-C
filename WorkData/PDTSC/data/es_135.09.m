@@ -4384,7 +4384,7 @@
 <form_change>spell</form_change>
 <form>povodeň</form>
 <tag>
-<AM lemma="povodeň">NNFS4-----A----</AM>
+<AM lemma="povodeň" src="auto">NNFS4-----A----</AM>
 <AM lemma="povodeň" src="auto" recommended="1" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
@@ -4597,7 +4597,7 @@
 <form_change>spell</form_change>
 <form>Čechách</form>
 <tag>
-<AM lemma="Čech_;E_;S">NNMP6-----A---6</AM>
+<AM lemma="Čech_;E_;S" src="auto">NNMP6-----A---6</AM>
 <AM lemma="Čechy_;G" src="auto" recommended="1" selected="1">NNFP6-----A----</AM>
 </tag>
 </m>

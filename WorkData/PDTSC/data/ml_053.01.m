@@ -1519,8 +1519,8 @@
 <form_change>spell</form_change>
 <form>čtvrtek</form>
 <tag>
-<AM lemma="čtvrtek">NNIS1-----A----</AM>
-<AM lemma="čtvrtka">NNFP2-----A----</AM>
+<AM lemma="čtvrtek" src="auto">NNIS1-----A----</AM>
+<AM lemma="čtvrtka" src="auto">NNFP2-----A----</AM>
 <AM lemma="čtvrtek" src="auto" recommended="1" selected="1">NNIS4-----A----</AM>
 </tag>
 </m>

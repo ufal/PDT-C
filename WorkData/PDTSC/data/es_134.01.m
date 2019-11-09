@@ -3329,21 +3329,21 @@
 </w.rf>
 <form>rozškatulkované</form>
 <tag>
-<AM lemma="rozškatulkovaný_^(*2t)">AAFP1----1A----</AM>
-<AM lemma="rozškatulkovaný_^(*2t)">AAFP5----1A----</AM>
-<AM lemma="rozškatulkovaný_^(*2t)">AAFS2----1A----</AM>
-<AM lemma="rozškatulkovaný_^(*2t)">AAFS3----1A----</AM>
-<AM lemma="rozškatulkovaný_^(*2t)">AAFS6----1A----</AM>
-<AM lemma="rozškatulkovaný_^(*2t)">AAIP1----1A----</AM>
-<AM lemma="rozškatulkovaný_^(*2t)">AAIP4----1A----</AM>
-<AM lemma="rozškatulkovaný_^(*2t)">AAIP5----1A----</AM>
-<AM lemma="rozškatulkovaný_^(*2t)" selected="1">AAMP4----1A----</AM>
-<AM lemma="rozškatulkovaný_^(*2t)">AANP1----1A---6</AM>
-<AM lemma="rozškatulkovaný_^(*2t)">AANP4----1A---6</AM>
-<AM lemma="rozškatulkovaný_^(*2t)">AANP5----1A---6</AM>
-<AM lemma="rozškatulkovaný_^(*2t)">AANS1----1A----</AM>
-<AM lemma="rozškatulkovaný_^(*2t)">AANS4----1A----</AM>
-<AM lemma="rozškatulkovaný_^(*2t)">AANS5----1A----</AM>
+<AM lemma="rozškatulkovaný_^(*2t)" src="auto">AAFP1----1A----</AM>
+<AM lemma="rozškatulkovaný_^(*2t)" src="auto">AAFP5----1A----</AM>
+<AM lemma="rozškatulkovaný_^(*2t)" src="auto">AAFS2----1A----</AM>
+<AM lemma="rozškatulkovaný_^(*2t)" src="auto">AAFS3----1A----</AM>
+<AM lemma="rozškatulkovaný_^(*2t)" src="auto">AAFS6----1A----</AM>
+<AM lemma="rozškatulkovaný_^(*2t)" src="auto">AAIP1----1A----</AM>
+<AM lemma="rozškatulkovaný_^(*2t)" src="auto">AAIP4----1A----</AM>
+<AM lemma="rozškatulkovaný_^(*2t)" src="auto">AAIP5----1A----</AM>
+<AM lemma="rozškatulkovaný_^(*2t)" selected="1" src="auto">AAMP4----1A----</AM>
+<AM lemma="rozškatulkovaný_^(*2t)" src="auto">AANP1----1A---6</AM>
+<AM lemma="rozškatulkovaný_^(*2t)" src="auto">AANP4----1A---6</AM>
+<AM lemma="rozškatulkovaný_^(*2t)" src="auto">AANP5----1A---6</AM>
+<AM lemma="rozškatulkovaný_^(*2t)" src="auto">AANS1----1A----</AM>
+<AM lemma="rozškatulkovaný_^(*2t)" src="auto">AANS4----1A----</AM>
+<AM lemma="rozškatulkovaný_^(*2t)" src="auto">AANS5----1A----</AM>
 <AM lemma="rozškatulkovaný_^(*2t)" src="auto" recommended="1">AAFP4----1A----</AM>
 </tag>
 </m>
@@ -3836,15 +3836,15 @@
 <form_change>spell</form_change>
 <form>mládí</form>
 <tag>
-<AM lemma="mládí">NNNP1-----A----</AM>
-<AM lemma="mládí">NNNP2-----A----</AM>
-<AM lemma="mládí">NNNP4-----A----</AM>
-<AM lemma="mládí">NNNP5-----A----</AM>
-<AM lemma="mládí">NNNS1-----A----</AM>
-<AM lemma="mládí">NNNS3-----A----</AM>
-<AM lemma="mládí">NNNS4-----A----</AM>
-<AM lemma="mládí">NNNS5-----A----</AM>
-<AM lemma="mládí">NNNS6-----A----</AM>
+<AM lemma="mládí" src="auto">NNNP1-----A----</AM>
+<AM lemma="mládí" src="auto">NNNP2-----A----</AM>
+<AM lemma="mládí" src="auto">NNNP4-----A----</AM>
+<AM lemma="mládí" src="auto">NNNP5-----A----</AM>
+<AM lemma="mládí" src="auto">NNNS1-----A----</AM>
+<AM lemma="mládí" src="auto">NNNS3-----A----</AM>
+<AM lemma="mládí" src="auto">NNNS4-----A----</AM>
+<AM lemma="mládí" src="auto">NNNS5-----A----</AM>
+<AM lemma="mládí" src="auto">NNNS6-----A----</AM>
 <AM lemma="mládí" src="auto" recommended="1" selected="1">NNNS2-----A----</AM>
 </tag>
 </m>

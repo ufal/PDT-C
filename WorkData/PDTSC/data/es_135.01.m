@@ -1733,14 +1733,14 @@
 <form_change>spell</form_change>
 <form>Žižkově</form>
 <tag>
-<AM lemma="Žižkův_;S_^(*2a)_(*3ek)">AUFS3M---------</AM>
-<AM lemma="Žižkův_;S_^(*2a)_(*3ek)">AUFS6M---------</AM>
-<AM lemma="Žižkův_;S_^(*2a)_(*3ek)">AUIS3M--------6</AM>
-<AM lemma="Žižkův_;S_^(*2a)_(*3ek)">AUIS6M---------</AM>
-<AM lemma="Žižkův_;S_^(*2a)_(*3ek)">AUMS3M--------6</AM>
-<AM lemma="Žižkův_;S_^(*2a)_(*3ek)">AUMS6M---------</AM>
-<AM lemma="Žižkův_;S_^(*2a)_(*3ek)">AUNS3M--------6</AM>
-<AM lemma="Žižkův_;S_^(*2a)_(*3ek)">AUNS6M---------</AM>
+<AM lemma="Žižkův_;S_^(*2a)_(*3ek)" src="auto">AUFS3M---------</AM>
+<AM lemma="Žižkův_;S_^(*2a)_(*3ek)" src="auto">AUFS6M---------</AM>
+<AM lemma="Žižkův_;S_^(*2a)_(*3ek)" src="auto">AUIS3M--------6</AM>
+<AM lemma="Žižkův_;S_^(*2a)_(*3ek)" src="auto">AUIS6M---------</AM>
+<AM lemma="Žižkův_;S_^(*2a)_(*3ek)" src="auto">AUMS3M--------6</AM>
+<AM lemma="Žižkův_;S_^(*2a)_(*3ek)" src="auto">AUMS6M---------</AM>
+<AM lemma="Žižkův_;S_^(*2a)_(*3ek)" src="auto">AUNS3M--------6</AM>
+<AM lemma="Žižkův_;S_^(*2a)_(*3ek)" src="auto">AUNS6M---------</AM>
 <AM lemma="Žižkov_;G" src="auto" recommended="1" selected="1">NNIS6-----A----</AM>
 </tag>
 </m>

@@ -2442,11 +2442,11 @@
 <form_change>spell</form_change>
 <form>Zábělý</form>
 <tag>
-<AM lemma="Zábělá_;G">NNFP1-----A---6</AM>
-<AM lemma="Zábělá_;G">NNFP4-----A---6</AM>
-<AM lemma="Zábělá_;G">NNFP5-----A---6</AM>
-<AM lemma="Zábělá_;G">NNFS2-----A---6</AM>
-<AM lemma="Zábělá_;G">NNFS3-----A---6</AM>
+<AM lemma="Zábělá_;G" src="auto">NNFP1-----A---6</AM>
+<AM lemma="Zábělá_;G" src="auto">NNFP4-----A---6</AM>
+<AM lemma="Zábělá_;G" src="auto">NNFP5-----A---6</AM>
+<AM lemma="Zábělá_;G" src="auto">NNFS2-----A---6</AM>
+<AM lemma="Zábělá_;G" src="auto">NNFS3-----A---6</AM>
 <AM lemma="Zábělá_;G" src="auto" recommended="1" selected="1">NNFS6-----A---6</AM>
 </tag>
 </m>
@@ -2794,7 +2794,7 @@
 <tag lemma="?" src="auto" recommended="1">Z:-------------</tag>
 </m>
 </s>
-<s id="m-87"></s>
+<s id="m-87"/>
 <s id="m-d1e242-x3">
 <m id="m005-d1t251-5">
 <w.rf>

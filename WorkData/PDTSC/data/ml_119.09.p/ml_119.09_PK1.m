@@ -4654,8 +4654,8 @@
 <form_change>spell</form_change>
 <form>Patrasu</form>
 <tag>
-<AM lemma="Patras-1_;G">NNIS3-----A----</AM>
-<AM lemma="Patras-1_;G">NNIS6-----A----</AM>
+<AM lemma="Patras-1_;G" src="auto">NNIS3-----A----</AM>
+<AM lemma="Patras-1_;G" src="auto">NNIS6-----A----</AM>
 <AM lemma="Patras-1_;G" src="auto" recommended="1" selected="1">NNIS2-----A----</AM>
 </tag>
 </m>

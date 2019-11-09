@@ -3265,9 +3265,9 @@
 <form_change>spell</form_change>
 <form>poutě</form>
 <tag>
-<AM lemma="pouť">NNFP1-----A----</AM>
-<AM lemma="pouť">NNFP5-----A----</AM>
-<AM lemma="pouť">NNFS2-----A----</AM>
+<AM lemma="pouť" src="auto">NNFP1-----A----</AM>
+<AM lemma="pouť" src="auto">NNFP5-----A----</AM>
+<AM lemma="pouť" src="auto">NNFS2-----A----</AM>
 <AM lemma="pouť" src="auto" recommended="1" selected="1">NNFP4-----A----</AM>
 </tag>
 </m>
@@ -4377,9 +4377,9 @@
 <form_change>spell</form_change>
 <form>poutě</form>
 <tag>
-<AM lemma="pouť">NNFP4-----A----</AM>
-<AM lemma="pouť">NNFP5-----A----</AM>
-<AM lemma="pouť">NNFS2-----A----</AM>
+<AM lemma="pouť" src="auto">NNFP4-----A----</AM>
+<AM lemma="pouť" src="auto">NNFP5-----A----</AM>
+<AM lemma="pouť" src="auto">NNFS2-----A----</AM>
 <AM lemma="pouť" src="auto" recommended="1" selected="1">NNFP1-----A----</AM>
 </tag>
 </m>

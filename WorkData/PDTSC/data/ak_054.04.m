@@ -5295,7 +5295,7 @@
 <form_change>spell</form_change>
 <form>náboženstvím</form>
 <tag>
-<AM lemma="náboženství">NNNP3-----A----</AM>
+<AM lemma="náboženství" src="auto">NNNP3-----A----</AM>
 <AM lemma="náboženství" src="auto" recommended="1" selected="1">NNNS7-----A----</AM>
 </tag>
 </m>

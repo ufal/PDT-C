@@ -1065,15 +1065,15 @@
 <form_change>spell</form_change>
 <form>dětství</form>
 <tag>
-<AM lemma="dětství">NNNP1-----A----</AM>
-<AM lemma="dětství">NNNP2-----A----</AM>
-<AM lemma="dětství">NNNP4-----A----</AM>
-<AM lemma="dětství">NNNP5-----A----</AM>
-<AM lemma="dětství">NNNS1-----A----</AM>
-<AM lemma="dětství">NNNS3-----A----</AM>
-<AM lemma="dětství">NNNS4-----A----</AM>
-<AM lemma="dětství">NNNS5-----A----</AM>
-<AM lemma="dětství">NNNS6-----A----</AM>
+<AM lemma="dětství" src="auto">NNNP1-----A----</AM>
+<AM lemma="dětství" src="auto">NNNP2-----A----</AM>
+<AM lemma="dětství" src="auto">NNNP4-----A----</AM>
+<AM lemma="dětství" src="auto">NNNP5-----A----</AM>
+<AM lemma="dětství" src="auto">NNNS1-----A----</AM>
+<AM lemma="dětství" src="auto">NNNS3-----A----</AM>
+<AM lemma="dětství" src="auto">NNNS4-----A----</AM>
+<AM lemma="dětství" src="auto">NNNS5-----A----</AM>
+<AM lemma="dětství" src="auto">NNNS6-----A----</AM>
 <AM lemma="dětství" src="auto" recommended="1" selected="1">NNNS2-----A----</AM>
 </tag>
 </m>

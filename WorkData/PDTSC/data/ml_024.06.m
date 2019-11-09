@@ -4052,13 +4052,13 @@
 <form_change>spell</form_change>
 <form>vzrušujících</form>
 <tag>
-<AM lemma="vzrušující_^(*5ovat)">AGFP2-----A----</AM>
-<AM lemma="vzrušující_^(*5ovat)">AGFP6-----A----</AM>
-<AM lemma="vzrušující_^(*5ovat)">AGIP6-----A----</AM>
-<AM lemma="vzrušující_^(*5ovat)">AGMP2-----A----</AM>
-<AM lemma="vzrušující_^(*5ovat)">AGMP6-----A----</AM>
-<AM lemma="vzrušující_^(*5ovat)">AGNP2-----A----</AM>
-<AM lemma="vzrušující_^(*5ovat)">AGNP6-----A----</AM>
+<AM lemma="vzrušující_^(*5ovat)" src="auto">AGFP2-----A----</AM>
+<AM lemma="vzrušující_^(*5ovat)" src="auto">AGFP6-----A----</AM>
+<AM lemma="vzrušující_^(*5ovat)" src="auto">AGIP6-----A----</AM>
+<AM lemma="vzrušující_^(*5ovat)" src="auto">AGMP2-----A----</AM>
+<AM lemma="vzrušující_^(*5ovat)" src="auto">AGMP6-----A----</AM>
+<AM lemma="vzrušující_^(*5ovat)" src="auto">AGNP2-----A----</AM>
+<AM lemma="vzrušující_^(*5ovat)" src="auto">AGNP6-----A----</AM>
 <AM lemma="vzrušující_^(*5ovat)" src="auto" recommended="1" selected="1">AGIP2-----A----</AM>
 </tag>
 </m>

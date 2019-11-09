@@ -1493,9 +1493,9 @@
 <form_change>spell</form_change>
 <form>právo</form>
 <tag>
-<AM lemma="práv_^(oprávněný)">ACNS------A----</AM>
-<AM lemma="právo_^(právo_na_něco;_také_jako_obor)">NNNS4-----A----</AM>
-<AM lemma="právo_^(právo_na_něco;_také_jako_obor)">NNNS5-----A----</AM>
+<AM lemma="práv_^(oprávněný)" src="auto">ACNS------A----</AM>
+<AM lemma="právo_^(právo_na_něco;_také_jako_obor)" src="auto">NNNS4-----A----</AM>
+<AM lemma="právo_^(právo_na_něco;_také_jako_obor)" src="auto">NNNS5-----A----</AM>
 <AM lemma="právo_^(právo_na_něco;_také_jako_obor)" src="auto" recommended="1">NNNS1-----A----</AM>
 </tag>
 <comment>

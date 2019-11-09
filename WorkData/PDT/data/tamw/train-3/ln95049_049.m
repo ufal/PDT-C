@@ -1159,10 +1159,10 @@
 <form_change>spell</form_change>
 <form>maxima</form>
 <tag>
-<AM lemma="maxima">NNFS1-----A----</AM>
-<AM lemma="maximum">NNNP1-----A----</AM>
-<AM lemma="maximum">NNNP4-----A----</AM>
-<AM lemma="maximum">NNNP5-----A----</AM>
+<AM lemma="maxima" src="auto">NNFS1-----A----</AM>
+<AM lemma="maximum" src="auto">NNNP1-----A----</AM>
+<AM lemma="maximum" src="auto">NNNP4-----A----</AM>
+<AM lemma="maximum" src="auto">NNNP5-----A----</AM>
 <AM lemma="maximum" src="auto" recommended="1" selected="1">NNNS2-----A----</AM>
 </tag>
 </m>

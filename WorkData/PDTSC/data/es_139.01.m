@@ -4961,28 +4961,28 @@
 <form_change>spell</form_change>
 <form>abiturientský</form>
 <tag>
-<AM lemma="abiturientský">AAFP1----1A---6</AM>
-<AM lemma="abiturientský">AAFP4----1A---6</AM>
-<AM lemma="abiturientský">AAFP5----1A---6</AM>
-<AM lemma="abiturientský">AAFS2----1A---6</AM>
-<AM lemma="abiturientský">AAFS3----1A---6</AM>
-<AM lemma="abiturientský">AAFS6----1A---6</AM>
-<AM lemma="abiturientský">AAIP1----1A---6</AM>
-<AM lemma="abiturientský">AAIP4----1A---6</AM>
-<AM lemma="abiturientský">AAIP5----1A---6</AM>
-<AM lemma="abiturientský">AAIS4----1A----</AM>
-<AM lemma="abiturientský">AAIS5----1A----</AM>
-<AM lemma="abiturientský">AAMP1----1A---6</AM>
-<AM lemma="abiturientský">AAMP4----1A---6</AM>
-<AM lemma="abiturientský">AAMP5----1A---6</AM>
-<AM lemma="abiturientský">AAMS1----1A----</AM>
-<AM lemma="abiturientský">AAMS5----1A----</AM>
-<AM lemma="abiturientský">AANP1----1A---6</AM>
-<AM lemma="abiturientský">AANP4----1A---6</AM>
-<AM lemma="abiturientský">AANP5----1A---6</AM>
-<AM lemma="abiturientský">AANS1----1A---6</AM>
-<AM lemma="abiturientský">AANS4----1A---6</AM>
-<AM lemma="abiturientský">AANS5----1A---6</AM>
+<AM lemma="abiturientský" src="auto">AAFP1----1A---6</AM>
+<AM lemma="abiturientský" src="auto">AAFP4----1A---6</AM>
+<AM lemma="abiturientský" src="auto">AAFP5----1A---6</AM>
+<AM lemma="abiturientský" src="auto">AAFS2----1A---6</AM>
+<AM lemma="abiturientský" src="auto">AAFS3----1A---6</AM>
+<AM lemma="abiturientský" src="auto">AAFS6----1A---6</AM>
+<AM lemma="abiturientský" src="auto">AAIP1----1A---6</AM>
+<AM lemma="abiturientský" src="auto">AAIP4----1A---6</AM>
+<AM lemma="abiturientský" src="auto">AAIP5----1A---6</AM>
+<AM lemma="abiturientský" src="auto">AAIS4----1A----</AM>
+<AM lemma="abiturientský" src="auto">AAIS5----1A----</AM>
+<AM lemma="abiturientský" src="auto">AAMP1----1A---6</AM>
+<AM lemma="abiturientský" src="auto">AAMP4----1A---6</AM>
+<AM lemma="abiturientský" src="auto">AAMP5----1A---6</AM>
+<AM lemma="abiturientský" src="auto">AAMS1----1A----</AM>
+<AM lemma="abiturientský" src="auto">AAMS5----1A----</AM>
+<AM lemma="abiturientský" src="auto">AANP1----1A---6</AM>
+<AM lemma="abiturientský" src="auto">AANP4----1A---6</AM>
+<AM lemma="abiturientský" src="auto">AANP5----1A---6</AM>
+<AM lemma="abiturientský" src="auto">AANS1----1A---6</AM>
+<AM lemma="abiturientský" src="auto">AANS4----1A---6</AM>
+<AM lemma="abiturientský" src="auto">AANS5----1A---6</AM>
 <AM lemma="abiturientský" src="auto" recommended="1" selected="1">AAIS1----1A----</AM>
 </tag>
 </m>
@@ -5234,8 +5234,8 @@
 <form_change>spell</form_change>
 <form>vás</form>
 <tag>
-<AM lemma="ty">PP-P4--2-------</AM>
-<AM lemma="ty">PP-P6--2-------</AM>
+<AM lemma="ty" src="auto">PP-P4--2-------</AM>
+<AM lemma="ty" src="auto">PP-P6--2-------</AM>
 <AM lemma="ty" src="auto" recommended="1" selected="1">PP-P2--2-------</AM>
 </tag>
 </m>

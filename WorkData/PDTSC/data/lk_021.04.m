@@ -3706,13 +3706,13 @@
 <form_change>spell</form_change>
 <form>Argentiny</form>
 <tag>
-<AM lemma="Argentina_;G">NNFP1-----A----</AM>
-<AM lemma="Argentina_;G">NNFP4-----A----</AM>
-<AM lemma="Argentina_;G">NNFP5-----A----</AM>
-<AM lemma="argentina">NNFP1-----A----</AM>
-<AM lemma="argentina">NNFP4-----A----</AM>
-<AM lemma="argentina">NNFP5-----A----</AM>
-<AM lemma="argentina">NNFS2-----A----</AM>
+<AM lemma="Argentina_;G" src="auto">NNFP1-----A----</AM>
+<AM lemma="Argentina_;G" src="auto">NNFP4-----A----</AM>
+<AM lemma="Argentina_;G" src="auto">NNFP5-----A----</AM>
+<AM lemma="argentina" src="auto">NNFP1-----A----</AM>
+<AM lemma="argentina" src="auto">NNFP4-----A----</AM>
+<AM lemma="argentina" src="auto">NNFP5-----A----</AM>
+<AM lemma="argentina" src="auto">NNFS2-----A----</AM>
 <AM lemma="Argentina_;G" src="auto" recommended="1" selected="1">NNFS2-----A----</AM>
 </tag>
 </m>

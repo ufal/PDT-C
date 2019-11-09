@@ -3280,8 +3280,8 @@
 <form_change>spell</form_change>
 <form>podřepu</form>
 <tag>
-<AM lemma="podřep">NNIS2-----A----</AM>
-<AM lemma="podřep">NNIS3-----A----</AM>
+<AM lemma="podřep" src="auto">NNIS2-----A----</AM>
+<AM lemma="podřep" src="auto">NNIS3-----A----</AM>
 <AM lemma="podřep" src="auto" recommended="1" selected="1">NNIS6-----A----</AM>
 </tag>
 </m>

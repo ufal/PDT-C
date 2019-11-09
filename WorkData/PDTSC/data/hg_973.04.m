@@ -708,28 +708,28 @@
 <form_change>spell</form_change>
 <form>pohostinný</form>
 <tag>
-<AM lemma="pohostinný">AAFP1----1A---6</AM>
-<AM lemma="pohostinný">AAFP4----1A---6</AM>
-<AM lemma="pohostinný">AAFP5----1A---6</AM>
-<AM lemma="pohostinný">AAFS2----1A---6</AM>
-<AM lemma="pohostinný">AAFS3----1A---6</AM>
-<AM lemma="pohostinný">AAFS6----1A---6</AM>
-<AM lemma="pohostinný">AAIP1----1A---6</AM>
-<AM lemma="pohostinný">AAIP4----1A---6</AM>
-<AM lemma="pohostinný">AAIP5----1A---6</AM>
-<AM lemma="pohostinný">AAIS4----1A----</AM>
-<AM lemma="pohostinný">AAIS5----1A----</AM>
-<AM lemma="pohostinný">AAMP1----1A---6</AM>
-<AM lemma="pohostinný">AAMP4----1A---6</AM>
-<AM lemma="pohostinný">AAMP5----1A---6</AM>
-<AM lemma="pohostinný" selected="1">AAMS1----1A----</AM>
-<AM lemma="pohostinný">AAMS5----1A----</AM>
-<AM lemma="pohostinný">AANP1----1A---6</AM>
-<AM lemma="pohostinný">AANP4----1A---6</AM>
-<AM lemma="pohostinný">AANP5----1A---6</AM>
-<AM lemma="pohostinný">AANS1----1A---6</AM>
-<AM lemma="pohostinný">AANS4----1A---6</AM>
-<AM lemma="pohostinný">AANS5----1A---6</AM>
+<AM lemma="pohostinný" src="auto">AAFP1----1A---6</AM>
+<AM lemma="pohostinný" src="auto">AAFP4----1A---6</AM>
+<AM lemma="pohostinný" src="auto">AAFP5----1A---6</AM>
+<AM lemma="pohostinný" src="auto">AAFS2----1A---6</AM>
+<AM lemma="pohostinný" src="auto">AAFS3----1A---6</AM>
+<AM lemma="pohostinný" src="auto">AAFS6----1A---6</AM>
+<AM lemma="pohostinný" src="auto">AAIP1----1A---6</AM>
+<AM lemma="pohostinný" src="auto">AAIP4----1A---6</AM>
+<AM lemma="pohostinný" src="auto">AAIP5----1A---6</AM>
+<AM lemma="pohostinný" src="auto">AAIS4----1A----</AM>
+<AM lemma="pohostinný" src="auto">AAIS5----1A----</AM>
+<AM lemma="pohostinný" src="auto">AAMP1----1A---6</AM>
+<AM lemma="pohostinný" src="auto">AAMP4----1A---6</AM>
+<AM lemma="pohostinný" src="auto">AAMP5----1A---6</AM>
+<AM lemma="pohostinný" selected="1" src="auto">AAMS1----1A----</AM>
+<AM lemma="pohostinný" src="auto">AAMS5----1A----</AM>
+<AM lemma="pohostinný" src="auto">AANP1----1A---6</AM>
+<AM lemma="pohostinný" src="auto">AANP4----1A---6</AM>
+<AM lemma="pohostinný" src="auto">AANP5----1A---6</AM>
+<AM lemma="pohostinný" src="auto">AANS1----1A---6</AM>
+<AM lemma="pohostinný" src="auto">AANS4----1A---6</AM>
+<AM lemma="pohostinný" src="auto">AANS5----1A---6</AM>
 <AM lemma="pohostinný" src="auto" recommended="1">AAIS1----1A----</AM>
 </tag>
 </m>

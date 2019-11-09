@@ -1456,7 +1456,7 @@
 <tag lemma="?" src="auto" recommended="1">Z:-------------</tag>
 </m>
 </s>
-<s id="m-67"></s>
+<s id="m-67"/>
 <s id="m-d1e2379-x2">
 <m id="m045-d1t2382-1">
 <w.rf>
@@ -3118,8 +3118,8 @@
 <form_change>spell</form_change>
 <form>šatstvo</form>
 <tag>
-<AM lemma="šatstvo">NNNS1-----A----</AM>
-<AM lemma="šatstvo">NNNS5-----A----</AM>
+<AM lemma="šatstvo" src="auto">NNNS1-----A----</AM>
+<AM lemma="šatstvo" src="auto">NNNS5-----A----</AM>
 <AM lemma="šatstvo" src="auto" recommended="1" selected="1">NNNS4-----A----</AM>
 </tag>
 </m>

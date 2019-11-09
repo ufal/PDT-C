@@ -4009,21 +4009,21 @@
 <form_change>spell</form_change>
 <form>hrozné</form>
 <tag>
-<AM lemma="hrozný">AAFP1----1A----</AM>
-<AM lemma="hrozný">AAFP4----1A----</AM>
-<AM lemma="hrozný">AAFP5----1A----</AM>
-<AM lemma="hrozný">AAFS2----1A----</AM>
-<AM lemma="hrozný">AAFS3----1A----</AM>
-<AM lemma="hrozný">AAFS6----1A----</AM>
-<AM lemma="hrozný">AAIP1----1A----</AM>
-<AM lemma="hrozný">AAIP4----1A----</AM>
-<AM lemma="hrozný">AAIP5----1A----</AM>
-<AM lemma="hrozný">AAMP4----1A----</AM>
-<AM lemma="hrozný">AANP1----1A---6</AM>
-<AM lemma="hrozný">AANP4----1A---6</AM>
-<AM lemma="hrozný">AANP5----1A---6</AM>
-<AM lemma="hrozný">AANS4----1A----</AM>
-<AM lemma="hrozný">AANS5----1A----</AM>
+<AM lemma="hrozný" src="auto">AAFP1----1A----</AM>
+<AM lemma="hrozný" src="auto">AAFP4----1A----</AM>
+<AM lemma="hrozný" src="auto">AAFP5----1A----</AM>
+<AM lemma="hrozný" src="auto">AAFS2----1A----</AM>
+<AM lemma="hrozný" src="auto">AAFS3----1A----</AM>
+<AM lemma="hrozný" src="auto">AAFS6----1A----</AM>
+<AM lemma="hrozný" src="auto">AAIP1----1A----</AM>
+<AM lemma="hrozný" src="auto">AAIP4----1A----</AM>
+<AM lemma="hrozný" src="auto">AAIP5----1A----</AM>
+<AM lemma="hrozný" src="auto">AAMP4----1A----</AM>
+<AM lemma="hrozný" src="auto">AANP1----1A---6</AM>
+<AM lemma="hrozný" src="auto">AANP4----1A---6</AM>
+<AM lemma="hrozný" src="auto">AANP5----1A---6</AM>
+<AM lemma="hrozný" src="auto">AANS4----1A----</AM>
+<AM lemma="hrozný" src="auto">AANS5----1A----</AM>
 <AM lemma="hrozný" src="auto" recommended="1" selected="1">AANS1----1A----</AM>
 </tag>
 </m>
@@ -5211,11 +5211,11 @@
 <form_change>spell</form_change>
 <form>kolektivizace</form>
 <tag>
-<AM lemma="kolektivizace">NNFP1-----A----</AM>
-<AM lemma="kolektivizace">NNFP4-----A----</AM>
-<AM lemma="kolektivizace">NNFP5-----A----</AM>
-<AM lemma="kolektivizace" selected="1">NNFS2-----A----</AM>
-<AM lemma="kolektivizace">NNFS5-----A----</AM>
+<AM lemma="kolektivizace" src="auto">NNFP1-----A----</AM>
+<AM lemma="kolektivizace" src="auto">NNFP4-----A----</AM>
+<AM lemma="kolektivizace" src="auto">NNFP5-----A----</AM>
+<AM lemma="kolektivizace" selected="1" src="auto">NNFS2-----A----</AM>
+<AM lemma="kolektivizace" src="auto">NNFS5-----A----</AM>
 <AM lemma="kolektivizace" src="auto" recommended="1">NNFS1-----A----</AM>
 </tag>
 </m>

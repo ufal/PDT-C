@@ -3119,10 +3119,10 @@
 <form_change>spell</form_change>
 <form>fotografovaná</form>
 <tag>
-<AM lemma="fotografovaný_^(*2t)">AAFS5----1A----</AM>
-<AM lemma="fotografovaný_^(*2t)">AANP1----1A----</AM>
-<AM lemma="fotografovaný_^(*2t)">AANP4----1A----</AM>
-<AM lemma="fotografovaný_^(*2t)">AANP5----1A----</AM>
+<AM lemma="fotografovaný_^(*2t)" src="auto">AAFS5----1A----</AM>
+<AM lemma="fotografovaný_^(*2t)" src="auto">AANP1----1A----</AM>
+<AM lemma="fotografovaný_^(*2t)" src="auto">AANP4----1A----</AM>
+<AM lemma="fotografovaný_^(*2t)" src="auto">AANP5----1A----</AM>
 <AM lemma="fotografovaný_^(*2t)" src="auto" recommended="1" selected="1">AAFS1----1A----</AM>
 </tag>
 </m>

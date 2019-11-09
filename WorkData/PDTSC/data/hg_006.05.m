@@ -511,7 +511,7 @@
 <form_change>spell</form_change>
 <form>Američani</form>
 <tag>
-<AM lemma="Američan_;E">NNMP5-----A---1</AM>
+<AM lemma="Američan_;E" src="auto">NNMP5-----A---1</AM>
 <AM lemma="Američan_;E" src="auto" recommended="1" selected="1">NNMP1-----A---1</AM>
 </tag>
 </m>

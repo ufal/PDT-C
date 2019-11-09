@@ -3835,9 +3835,9 @@
 <form_change>spell</form_change>
 <form>maminky</form>
 <tag>
-<AM lemma="maminka">NNFP1-----A----</AM>
-<AM lemma="maminka">NNFP4-----A----</AM>
-<AM lemma="maminka">NNFP5-----A----</AM>
+<AM lemma="maminka" src="auto">NNFP1-----A----</AM>
+<AM lemma="maminka" src="auto">NNFP4-----A----</AM>
+<AM lemma="maminka" src="auto">NNFP5-----A----</AM>
 <AM lemma="maminka" src="auto" recommended="1" selected="1">NNFS2-----A----</AM>
 </tag>
 </m>

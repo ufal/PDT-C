@@ -3041,7 +3041,7 @@
 <form_change>spell</form_change>
 <form>zapomněla</form>
 <tag>
-<AM lemma="zapomnět_,n">VpQW---XR-AAP--</AM>
+<AM lemma="zapomnět_,n" src="auto">VpQW---XR-AAP--</AM>
 <AM lemma="zapomenout" src="auto" recommended="1">VpQW---XR-AAP--</AM>
 <AM lemma="zapomenout" src="manual" selected="1">VpQW----R-AAP--</AM>
 </tag>

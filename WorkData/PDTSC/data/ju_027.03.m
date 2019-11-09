@@ -3345,25 +3345,25 @@
 </w.rf>
 <form>nějaký</form>
 <tag>
-<AM lemma="nějaký">PZFP1---------6</AM>
-<AM lemma="nějaký">PZFP4---------6</AM>
-<AM lemma="nějaký">PZFP5---------6</AM>
-<AM lemma="nějaký">PZFS2---------6</AM>
-<AM lemma="nějaký">PZFS3---------6</AM>
-<AM lemma="nějaký">PZFS6---------6</AM>
-<AM lemma="nějaký">PZIP1---------6</AM>
-<AM lemma="nějaký">PZIP5---------6</AM>
-<AM lemma="nějaký">PZMP1---------6</AM>
-<AM lemma="nějaký">PZMP5---------6</AM>
-<AM lemma="nějaký">PZNP1---------6</AM>
-<AM lemma="nějaký">PZNP4---------6</AM>
-<AM lemma="nějaký">PZNP5---------6</AM>
-<AM lemma="nějaký">PZNS1---------6</AM>
-<AM lemma="nějaký">PZNS4---------6</AM>
-<AM lemma="nějaký">PZNS5---------6</AM>
-<AM lemma="nějaký">PZYP4---------6</AM>
-<AM lemma="nějaký">PZYS1----------</AM>
-<AM lemma="nějaký">PZYS5----------</AM>
+<AM lemma="nějaký" src="auto">PZFP1---------6</AM>
+<AM lemma="nějaký" src="auto">PZFP4---------6</AM>
+<AM lemma="nějaký" src="auto">PZFP5---------6</AM>
+<AM lemma="nějaký" src="auto">PZFS2---------6</AM>
+<AM lemma="nějaký" src="auto">PZFS3---------6</AM>
+<AM lemma="nějaký" src="auto">PZFS6---------6</AM>
+<AM lemma="nějaký" src="auto">PZIP1---------6</AM>
+<AM lemma="nějaký" src="auto">PZIP5---------6</AM>
+<AM lemma="nějaký" src="auto">PZMP1---------6</AM>
+<AM lemma="nějaký" src="auto">PZMP5---------6</AM>
+<AM lemma="nějaký" src="auto">PZNP1---------6</AM>
+<AM lemma="nějaký" src="auto">PZNP4---------6</AM>
+<AM lemma="nějaký" src="auto">PZNP5---------6</AM>
+<AM lemma="nějaký" src="auto">PZNS1---------6</AM>
+<AM lemma="nějaký" src="auto">PZNS4---------6</AM>
+<AM lemma="nějaký" src="auto">PZNS5---------6</AM>
+<AM lemma="nějaký" src="auto">PZYP4---------6</AM>
+<AM lemma="nějaký" src="auto">PZYS1----------</AM>
+<AM lemma="nějaký" src="auto">PZYS5----------</AM>
 <AM lemma="nějaký" src="auto" recommended="1" selected="1">PZIS4----------</AM>
 </tag>
 </m>
@@ -3405,28 +3405,28 @@
 <form_change>spell</form_change>
 <form>vyplítaný</form>
 <tag>
-<AM lemma="vyplítaný_^(*2t)">AAFP1----1A---6</AM>
-<AM lemma="vyplítaný_^(*2t)">AAFP4----1A---6</AM>
-<AM lemma="vyplítaný_^(*2t)">AAFP5----1A---6</AM>
-<AM lemma="vyplítaný_^(*2t)">AAFS2----1A---6</AM>
-<AM lemma="vyplítaný_^(*2t)">AAFS3----1A---6</AM>
-<AM lemma="vyplítaný_^(*2t)">AAFS6----1A---6</AM>
-<AM lemma="vyplítaný_^(*2t)">AAIP1----1A---6</AM>
-<AM lemma="vyplítaný_^(*2t)">AAIP4----1A---6</AM>
-<AM lemma="vyplítaný_^(*2t)">AAIP5----1A---6</AM>
-<AM lemma="vyplítaný_^(*2t)">AAIS1----1A----</AM>
-<AM lemma="vyplítaný_^(*2t)">AAIS5----1A----</AM>
-<AM lemma="vyplítaný_^(*2t)">AAMP1----1A---6</AM>
-<AM lemma="vyplítaný_^(*2t)">AAMP4----1A---6</AM>
-<AM lemma="vyplítaný_^(*2t)">AAMP5----1A---6</AM>
-<AM lemma="vyplítaný_^(*2t)">AAMS1----1A----</AM>
-<AM lemma="vyplítaný_^(*2t)">AAMS5----1A----</AM>
-<AM lemma="vyplítaný_^(*2t)">AANP1----1A---6</AM>
-<AM lemma="vyplítaný_^(*2t)">AANP4----1A---6</AM>
-<AM lemma="vyplítaný_^(*2t)">AANP5----1A---6</AM>
-<AM lemma="vyplítaný_^(*2t)">AANS1----1A---6</AM>
-<AM lemma="vyplítaný_^(*2t)">AANS4----1A---6</AM>
-<AM lemma="vyplítaný_^(*2t)">AANS5----1A---6</AM>
+<AM lemma="vyplítaný_^(*2t)" src="auto">AAFP1----1A---6</AM>
+<AM lemma="vyplítaný_^(*2t)" src="auto">AAFP4----1A---6</AM>
+<AM lemma="vyplítaný_^(*2t)" src="auto">AAFP5----1A---6</AM>
+<AM lemma="vyplítaný_^(*2t)" src="auto">AAFS2----1A---6</AM>
+<AM lemma="vyplítaný_^(*2t)" src="auto">AAFS3----1A---6</AM>
+<AM lemma="vyplítaný_^(*2t)" src="auto">AAFS6----1A---6</AM>
+<AM lemma="vyplítaný_^(*2t)" src="auto">AAIP1----1A---6</AM>
+<AM lemma="vyplítaný_^(*2t)" src="auto">AAIP4----1A---6</AM>
+<AM lemma="vyplítaný_^(*2t)" src="auto">AAIP5----1A---6</AM>
+<AM lemma="vyplítaný_^(*2t)" src="auto">AAIS1----1A----</AM>
+<AM lemma="vyplítaný_^(*2t)" src="auto">AAIS5----1A----</AM>
+<AM lemma="vyplítaný_^(*2t)" src="auto">AAMP1----1A---6</AM>
+<AM lemma="vyplítaný_^(*2t)" src="auto">AAMP4----1A---6</AM>
+<AM lemma="vyplítaný_^(*2t)" src="auto">AAMP5----1A---6</AM>
+<AM lemma="vyplítaný_^(*2t)" src="auto">AAMS1----1A----</AM>
+<AM lemma="vyplítaný_^(*2t)" src="auto">AAMS5----1A----</AM>
+<AM lemma="vyplítaný_^(*2t)" src="auto">AANP1----1A---6</AM>
+<AM lemma="vyplítaný_^(*2t)" src="auto">AANP4----1A---6</AM>
+<AM lemma="vyplítaný_^(*2t)" src="auto">AANP5----1A---6</AM>
+<AM lemma="vyplítaný_^(*2t)" src="auto">AANS1----1A---6</AM>
+<AM lemma="vyplítaný_^(*2t)" src="auto">AANS4----1A---6</AM>
+<AM lemma="vyplítaný_^(*2t)" src="auto">AANS5----1A---6</AM>
 <AM lemma="vyplítaný_^(*2t)" src="auto" recommended="1">AAIS4----1A----</AM>
 <AM lemma="vyplítaný_,s_^(^DD**vyplétat)_(*2t)" src="manual" selected="1">AAIS4----1A----</AM>
 </tag>

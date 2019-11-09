@@ -3686,15 +3686,15 @@
 <form_change>spell</form_change>
 <form>vyjití</form>
 <tag>
-<AM lemma="vyjití_^(*3ít)">NNNP1-----A----</AM>
-<AM lemma="vyjití_^(*3ít)">NNNP2-----A----</AM>
-<AM lemma="vyjití_^(*3ít)">NNNP4-----A----</AM>
-<AM lemma="vyjití_^(*3ít)">NNNP5-----A----</AM>
-<AM lemma="vyjití_^(*3ít)">NNNS1-----A----</AM>
-<AM lemma="vyjití_^(*3ít)">NNNS2-----A----</AM>
-<AM lemma="vyjití_^(*3ít)">NNNS3-----A----</AM>
-<AM lemma="vyjití_^(*3ít)">NNNS4-----A----</AM>
-<AM lemma="vyjití_^(*3ít)">NNNS5-----A----</AM>
+<AM lemma="vyjití_^(*3ít)" src="auto">NNNP1-----A----</AM>
+<AM lemma="vyjití_^(*3ít)" src="auto">NNNP2-----A----</AM>
+<AM lemma="vyjití_^(*3ít)" src="auto">NNNP4-----A----</AM>
+<AM lemma="vyjití_^(*3ít)" src="auto">NNNP5-----A----</AM>
+<AM lemma="vyjití_^(*3ít)" src="auto">NNNS1-----A----</AM>
+<AM lemma="vyjití_^(*3ít)" src="auto">NNNS2-----A----</AM>
+<AM lemma="vyjití_^(*3ít)" src="auto">NNNS3-----A----</AM>
+<AM lemma="vyjití_^(*3ít)" src="auto">NNNS4-----A----</AM>
+<AM lemma="vyjití_^(*3ít)" src="auto">NNNS5-----A----</AM>
 <AM lemma="vyjití_^(*3ít)" src="auto" recommended="1" selected="1">NNNS6-----A----</AM>
 </tag>
 </m>

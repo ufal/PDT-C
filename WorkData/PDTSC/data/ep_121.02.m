@@ -4614,10 +4614,10 @@
 <form_change>spell</form_change>
 <form>prázdná</form>
 <tag>
-<AM lemma="prázdný">AAFS1----1A----</AM>
-<AM lemma="prázdný">AAFS5----1A----</AM>
-<AM lemma="prázdný">AANP4----1A----</AM>
-<AM lemma="prázdný">AANP5----1A----</AM>
+<AM lemma="prázdný" src="auto">AAFS1----1A----</AM>
+<AM lemma="prázdný" src="auto">AAFS5----1A----</AM>
+<AM lemma="prázdný" src="auto">AANP4----1A----</AM>
+<AM lemma="prázdný" src="auto">AANP5----1A----</AM>
 <AM lemma="prázdný" src="auto" recommended="1" selected="1">AANP1----1A----</AM>
 </tag>
 </m>
@@ -6331,7 +6331,7 @@
 <form_change>spell</form_change>
 <form>mně</form>
 <tag>
-<AM lemma="já">PP-S6--1-------</AM>
+<AM lemma="já" src="auto">PP-S6--1-------</AM>
 <AM lemma="já" src="auto" recommended="1" selected="1">PP-S3--1-------</AM>
 </tag>
 </m>

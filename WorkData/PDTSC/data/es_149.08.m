@@ -3976,7 +3976,7 @@
 <form_change>spell</form_change>
 <form>Patachona</form>
 <tag>
-<AM lemma="Patachon_;S">NNMS2-----A----</AM>
+<AM lemma="Patachon_;S" src="auto">NNMS2-----A----</AM>
 <AM lemma="Patachon_;S" src="auto" recommended="1" selected="1">NNMS4-----A----</AM>
 </tag>
 </m>

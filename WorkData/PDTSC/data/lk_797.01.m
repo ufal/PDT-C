@@ -4681,28 +4681,28 @@
 <form_change>spell</form_change>
 <form>zdravý</form>
 <tag>
-<AM lemma="zdravý">AAFP1----1A---6</AM>
-<AM lemma="zdravý">AAFP4----1A---6</AM>
-<AM lemma="zdravý">AAFP5----1A---6</AM>
-<AM lemma="zdravý">AAFS2----1A---6</AM>
-<AM lemma="zdravý">AAFS3----1A---6</AM>
-<AM lemma="zdravý">AAFS6----1A---6</AM>
-<AM lemma="zdravý">AAIP1----1A---6</AM>
-<AM lemma="zdravý">AAIP4----1A---6</AM>
-<AM lemma="zdravý">AAIP5----1A---6</AM>
-<AM lemma="zdravý">AAIS1----1A----</AM>
-<AM lemma="zdravý">AAIS4----1A----</AM>
-<AM lemma="zdravý">AAIS5----1A----</AM>
-<AM lemma="zdravý">AAMP1----1A---6</AM>
-<AM lemma="zdravý">AAMP4----1A---6</AM>
-<AM lemma="zdravý">AAMP5----1A---6</AM>
-<AM lemma="zdravý">AAMS5----1A----</AM>
-<AM lemma="zdravý">AANP1----1A---6</AM>
-<AM lemma="zdravý">AANP4----1A---6</AM>
-<AM lemma="zdravý">AANP5----1A---6</AM>
-<AM lemma="zdravý">AANS1----1A---6</AM>
-<AM lemma="zdravý">AANS4----1A---6</AM>
-<AM lemma="zdravý">AANS5----1A---6</AM>
+<AM lemma="zdravý" src="auto">AAFP1----1A---6</AM>
+<AM lemma="zdravý" src="auto">AAFP4----1A---6</AM>
+<AM lemma="zdravý" src="auto">AAFP5----1A---6</AM>
+<AM lemma="zdravý" src="auto">AAFS2----1A---6</AM>
+<AM lemma="zdravý" src="auto">AAFS3----1A---6</AM>
+<AM lemma="zdravý" src="auto">AAFS6----1A---6</AM>
+<AM lemma="zdravý" src="auto">AAIP1----1A---6</AM>
+<AM lemma="zdravý" src="auto">AAIP4----1A---6</AM>
+<AM lemma="zdravý" src="auto">AAIP5----1A---6</AM>
+<AM lemma="zdravý" src="auto">AAIS1----1A----</AM>
+<AM lemma="zdravý" src="auto">AAIS4----1A----</AM>
+<AM lemma="zdravý" src="auto">AAIS5----1A----</AM>
+<AM lemma="zdravý" src="auto">AAMP1----1A---6</AM>
+<AM lemma="zdravý" src="auto">AAMP4----1A---6</AM>
+<AM lemma="zdravý" src="auto">AAMP5----1A---6</AM>
+<AM lemma="zdravý" src="auto">AAMS5----1A----</AM>
+<AM lemma="zdravý" src="auto">AANP1----1A---6</AM>
+<AM lemma="zdravý" src="auto">AANP4----1A---6</AM>
+<AM lemma="zdravý" src="auto">AANP5----1A---6</AM>
+<AM lemma="zdravý" src="auto">AANS1----1A---6</AM>
+<AM lemma="zdravý" src="auto">AANS4----1A---6</AM>
+<AM lemma="zdravý" src="auto">AANS5----1A---6</AM>
 <AM lemma="zdravý" src="auto" recommended="1" selected="1">AAMS1----1A----</AM>
 </tag>
 </m>
@@ -5722,7 +5722,7 @@
 <form_change>spell</form_change>
 <form>výpověď</form>
 <tag>
-<AM lemma="výpověď">NNFS1-----A----</AM>
+<AM lemma="výpověď" src="auto">NNFS1-----A----</AM>
 <AM lemma="výpověď" src="auto" recommended="1" selected="1">NNFS4-----A----</AM>
 </tag>
 </m>

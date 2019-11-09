@@ -6481,8 +6481,8 @@
 <form_change>spell</form_change>
 <form>předminulém</form>
 <tag>
-<AM lemma="předminulý">AAIS6----1A----</AM>
-<AM lemma="předminulý">AAMS6----1A----</AM>
+<AM lemma="předminulý" src="auto">AAIS6----1A----</AM>
+<AM lemma="předminulý" src="auto">AAMS6----1A----</AM>
 <AM lemma="předminulý" src="auto" recommended="1" selected="1">AANS6----1A----</AM>
 </tag>
 </m>

@@ -1326,21 +1326,21 @@
 <form_change>spell</form_change>
 <form>nepravděpodobné</form>
 <tag>
-<AM lemma="pravděpodobný">AAFP1----1N----</AM>
-<AM lemma="pravděpodobný">AAFP4----1N----</AM>
-<AM lemma="pravděpodobný">AAFP5----1N----</AM>
-<AM lemma="pravděpodobný">AAFS2----1N----</AM>
-<AM lemma="pravděpodobný">AAFS3----1N----</AM>
-<AM lemma="pravděpodobný">AAFS6----1N----</AM>
-<AM lemma="pravděpodobný">AAIP1----1N----</AM>
-<AM lemma="pravděpodobný">AAIP4----1N----</AM>
-<AM lemma="pravděpodobný">AAIP5----1N----</AM>
-<AM lemma="pravděpodobný">AAMP4----1N----</AM>
-<AM lemma="pravděpodobný">AANP1----1N---6</AM>
-<AM lemma="pravděpodobný">AANP4----1N---6</AM>
-<AM lemma="pravděpodobný">AANP5----1N---6</AM>
-<AM lemma="pravděpodobný">AANS4----1N----</AM>
-<AM lemma="pravděpodobný">AANS5----1N----</AM>
+<AM lemma="pravděpodobný" src="auto">AAFP1----1N----</AM>
+<AM lemma="pravděpodobný" src="auto">AAFP4----1N----</AM>
+<AM lemma="pravděpodobný" src="auto">AAFP5----1N----</AM>
+<AM lemma="pravděpodobný" src="auto">AAFS2----1N----</AM>
+<AM lemma="pravděpodobný" src="auto">AAFS3----1N----</AM>
+<AM lemma="pravděpodobný" src="auto">AAFS6----1N----</AM>
+<AM lemma="pravděpodobný" src="auto">AAIP1----1N----</AM>
+<AM lemma="pravděpodobný" src="auto">AAIP4----1N----</AM>
+<AM lemma="pravděpodobný" src="auto">AAIP5----1N----</AM>
+<AM lemma="pravděpodobný" src="auto">AAMP4----1N----</AM>
+<AM lemma="pravděpodobný" src="auto">AANP1----1N---6</AM>
+<AM lemma="pravděpodobný" src="auto">AANP4----1N---6</AM>
+<AM lemma="pravděpodobný" src="auto">AANP5----1N---6</AM>
+<AM lemma="pravděpodobný" src="auto">AANS4----1N----</AM>
+<AM lemma="pravděpodobný" src="auto">AANS5----1N----</AM>
 <AM lemma="pravděpodobný" src="auto" recommended="1" selected="1">AANS1----1N----</AM>
 </tag>
 </m>

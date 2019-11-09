@@ -847,13 +847,13 @@
 <form_change>spell</form_change>
 <form>vyznívajících</form>
 <tag>
-<AM lemma="vyznívající_^(*4t)">AGFP6-----A----</AM>
-<AM lemma="vyznívající_^(*4t)">AGIP2-----A----</AM>
-<AM lemma="vyznívající_^(*4t)">AGIP6-----A----</AM>
-<AM lemma="vyznívající_^(*4t)">AGMP2-----A----</AM>
-<AM lemma="vyznívající_^(*4t)">AGMP6-----A----</AM>
-<AM lemma="vyznívající_^(*4t)">AGNP2-----A----</AM>
-<AM lemma="vyznívající_^(*4t)">AGNP6-----A----</AM>
+<AM lemma="vyznívající_^(*4t)" src="auto">AGFP6-----A----</AM>
+<AM lemma="vyznívající_^(*4t)" src="auto">AGIP2-----A----</AM>
+<AM lemma="vyznívající_^(*4t)" src="auto">AGIP6-----A----</AM>
+<AM lemma="vyznívající_^(*4t)" src="auto">AGMP2-----A----</AM>
+<AM lemma="vyznívající_^(*4t)" src="auto">AGMP6-----A----</AM>
+<AM lemma="vyznívající_^(*4t)" src="auto">AGNP2-----A----</AM>
+<AM lemma="vyznívající_^(*4t)" src="auto">AGNP6-----A----</AM>
 <AM lemma="vyznívající_^(*4t)" src="auto" recommended="1" selected="1">AGFP2-----A----</AM>
 </tag>
 </m>

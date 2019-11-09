@@ -3551,12 +3551,12 @@
 </w.rf>
 <form>učiliště</form>
 <tag>
-<AM lemma="učiliště">NNNP1-----A----</AM>
-<AM lemma="učiliště">NNNP4-----A----</AM>
-<AM lemma="učiliště">NNNP5-----A----</AM>
-<AM lemma="učiliště">NNNS2-----A----</AM>
-<AM lemma="učiliště">NNNS4-----A----</AM>
-<AM lemma="učiliště">NNNS5-----A----</AM>
+<AM lemma="učiliště" src="auto">NNNP1-----A----</AM>
+<AM lemma="učiliště" src="auto">NNNP4-----A----</AM>
+<AM lemma="učiliště" src="auto">NNNP5-----A----</AM>
+<AM lemma="učiliště" src="auto">NNNS2-----A----</AM>
+<AM lemma="učiliště" src="auto">NNNS4-----A----</AM>
+<AM lemma="učiliště" src="auto">NNNS5-----A----</AM>
 <AM lemma="učiliště" src="auto" recommended="1" selected="1">NNNS1-----A----</AM>
 </tag>
 </m>
@@ -3660,12 +3660,12 @@
 <form_change>spell</form_change>
 <form>učiliště</form>
 <tag>
-<AM lemma="učiliště">NNNP1-----A----</AM>
-<AM lemma="učiliště">NNNP4-----A----</AM>
-<AM lemma="učiliště">NNNP5-----A----</AM>
-<AM lemma="učiliště">NNNS2-----A----</AM>
-<AM lemma="učiliště">NNNS4-----A----</AM>
-<AM lemma="učiliště">NNNS5-----A----</AM>
+<AM lemma="učiliště" src="auto">NNNP1-----A----</AM>
+<AM lemma="učiliště" src="auto">NNNP4-----A----</AM>
+<AM lemma="učiliště" src="auto">NNNP5-----A----</AM>
+<AM lemma="učiliště" src="auto">NNNS2-----A----</AM>
+<AM lemma="učiliště" src="auto">NNNS4-----A----</AM>
+<AM lemma="učiliště" src="auto">NNNS5-----A----</AM>
 <AM lemma="učiliště" src="auto" recommended="1" selected="1">NNNS1-----A----</AM>
 </tag>
 </m>

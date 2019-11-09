@@ -514,13 +514,13 @@
 <form_change>spell</form_change>
 <form>nádherných</form>
 <tag>
-<AM lemma="nádherný">AAFP6----1A----</AM>
-<AM lemma="nádherný">AAIP2----1A----</AM>
-<AM lemma="nádherný">AAIP6----1A----</AM>
-<AM lemma="nádherný">AAMP2----1A----</AM>
-<AM lemma="nádherný">AAMP6----1A----</AM>
-<AM lemma="nádherný">AANP2----1A----</AM>
-<AM lemma="nádherný">AANP6----1A----</AM>
+<AM lemma="nádherný" src="auto">AAFP6----1A----</AM>
+<AM lemma="nádherný" src="auto">AAIP2----1A----</AM>
+<AM lemma="nádherný" src="auto">AAIP6----1A----</AM>
+<AM lemma="nádherný" src="auto">AAMP2----1A----</AM>
+<AM lemma="nádherný" src="auto">AAMP6----1A----</AM>
+<AM lemma="nádherný" src="auto">AANP2----1A----</AM>
+<AM lemma="nádherný" src="auto">AANP6----1A----</AM>
 <AM lemma="nádherný" src="auto" recommended="1" selected="1">AAFP2----1A----</AM>
 </tag>
 </m>

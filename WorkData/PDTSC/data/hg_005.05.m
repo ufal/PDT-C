@@ -680,9 +680,9 @@
 <form_change>spell</form_change>
 <form>obýváky</form>
 <tag>
-<AM lemma="obývák">NNIP4-----A----</AM>
-<AM lemma="obývák">NNIP5-----A----</AM>
-<AM lemma="obývák">NNIP7-----A----</AM>
+<AM lemma="obývák" src="auto">NNIP4-----A----</AM>
+<AM lemma="obývák" src="auto">NNIP5-----A----</AM>
+<AM lemma="obývák" src="auto">NNIP7-----A----</AM>
 <AM lemma="obývák" src="auto" recommended="1" selected="1">NNIP1-----A----</AM>
 </tag>
 </m>

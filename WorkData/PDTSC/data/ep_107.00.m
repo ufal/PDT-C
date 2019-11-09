@@ -528,7 +528,7 @@
 <form_change>spell</form_change>
 <form>Ještě</form>
 <tag>
-<AM lemma="ještě-2">TT-------------</AM>
+<AM lemma="ještě-2" src="auto">TT-------------</AM>
 <AM lemma="ještě-1" src="auto" recommended="1" selected="1">Db-------------</AM>
 </tag>
 </m>

@@ -437,14 +437,14 @@
 <form_change>spell</form_change>
 <form>party</form>
 <tag>
-<AM lemma="part">NNIP1-----A----</AM>
-<AM lemma="part">NNIP4-----A----</AM>
-<AM lemma="part">NNIP5-----A----</AM>
-<AM lemma="part">NNIP7-----A----</AM>
-<AM lemma="parta">NNFP1-----A----</AM>
-<AM lemma="parta">NNFP4-----A----</AM>
-<AM lemma="parta">NNFP5-----A----</AM>
-<AM lemma="parta">NNFS2-----A----</AM>
+<AM lemma="part" src="auto">NNIP1-----A----</AM>
+<AM lemma="part" src="auto">NNIP4-----A----</AM>
+<AM lemma="part" src="auto">NNIP5-----A----</AM>
+<AM lemma="part" src="auto">NNIP7-----A----</AM>
+<AM lemma="parta" src="auto">NNFP1-----A----</AM>
+<AM lemma="parta" src="auto">NNFP4-----A----</AM>
+<AM lemma="parta" src="auto">NNFP5-----A----</AM>
+<AM lemma="parta" src="auto">NNFS2-----A----</AM>
 <AM lemma="party_,t_^(angl._sešlost,_oslava,_mejdan)" src="auto" recommended="1">NNFXX-----A----</AM>
 <AM lemma="party" src="manual" selected="1">NNFXX-----A----</AM>
 </tag>

@@ -682,9 +682,9 @@
 <form_change>spell</form_change>
 <form>Tulcey</form>
 <tag>
-<AM lemma="Tulcea_;G">NNFP1-----A---1</AM>
-<AM lemma="Tulcea_;G">NNFP4-----A---1</AM>
-<AM lemma="Tulcea_;G">NNFP5-----A---1</AM>
+<AM lemma="Tulcea_;G" src="auto">NNFP1-----A---1</AM>
+<AM lemma="Tulcea_;G" src="auto">NNFP4-----A---1</AM>
+<AM lemma="Tulcea_;G" src="auto">NNFP5-----A---1</AM>
 <AM lemma="Tulcea_;G" src="auto" recommended="1" selected="1">NNFS2-----A---1</AM>
 </tag>
 </m>

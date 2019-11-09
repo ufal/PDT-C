@@ -10573,13 +10573,13 @@
 <form_change>spell</form_change>
 <form>meteorologických</form>
 <tag>
-<AM lemma="meteorologický">AAFP2----1A----</AM>
-<AM lemma="meteorologický">AAFP6----1A----</AM>
-<AM lemma="meteorologický">AAIP2----1A----</AM>
-<AM lemma="meteorologický">AAMP2----1A----</AM>
-<AM lemma="meteorologický">AAMP6----1A----</AM>
-<AM lemma="meteorologický">AANP2----1A----</AM>
-<AM lemma="meteorologický">AANP6----1A----</AM>
+<AM lemma="meteorologický" src="auto">AAFP2----1A----</AM>
+<AM lemma="meteorologický" src="auto">AAFP6----1A----</AM>
+<AM lemma="meteorologický" src="auto">AAIP2----1A----</AM>
+<AM lemma="meteorologický" src="auto">AAMP2----1A----</AM>
+<AM lemma="meteorologický" src="auto">AAMP6----1A----</AM>
+<AM lemma="meteorologický" src="auto">AANP2----1A----</AM>
+<AM lemma="meteorologický" src="auto">AANP6----1A----</AM>
 <AM lemma="meteorologický" src="auto" recommended="1" selected="1">AAIP6----1A----</AM>
 </tag>
 </m>

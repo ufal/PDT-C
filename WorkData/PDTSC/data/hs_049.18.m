@@ -3098,9 +3098,9 @@
 <form_change>spell</form_change>
 <form>vyzy</form>
 <tag>
-<AM lemma="vyza">NNFP1-----A----</AM>
-<AM lemma="vyza">NNFP5-----A----</AM>
-<AM lemma="vyza">NNFS2-----A----</AM>
+<AM lemma="vyza" src="auto">NNFP1-----A----</AM>
+<AM lemma="vyza" src="auto">NNFP5-----A----</AM>
+<AM lemma="vyza" src="auto">NNFS2-----A----</AM>
 <AM lemma="vyza" src="auto" recommended="1" selected="1">NNFP4-----A----</AM>
 </tag>
 </m>

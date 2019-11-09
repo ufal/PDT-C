@@ -3388,15 +3388,15 @@
 <form_change>spell</form_change>
 <form>českým</form>
 <tag>
-<AM lemma="český">AAFP3----1A----</AM>
-<AM lemma="český">AAIP3----1A----</AM>
-<AM lemma="český">AAIS6----1A---7</AM>
-<AM lemma="český">AAIS7----1A----</AM>
-<AM lemma="český">AAMS6----1A---7</AM>
-<AM lemma="český">AAMS7----1A----</AM>
-<AM lemma="český">AANP3----1A----</AM>
-<AM lemma="český">AANS6----1A---7</AM>
-<AM lemma="český">AANS7----1A----</AM>
+<AM lemma="český" src="auto">AAFP3----1A----</AM>
+<AM lemma="český" src="auto">AAIP3----1A----</AM>
+<AM lemma="český" src="auto">AAIS6----1A---7</AM>
+<AM lemma="český" src="auto">AAIS7----1A----</AM>
+<AM lemma="český" src="auto">AAMS6----1A---7</AM>
+<AM lemma="český" src="auto">AAMS7----1A----</AM>
+<AM lemma="český" src="auto">AANP3----1A----</AM>
+<AM lemma="český" src="auto">AANS6----1A---7</AM>
+<AM lemma="český" src="auto">AANS7----1A----</AM>
 <AM lemma="český" src="auto" recommended="1" selected="1">AAMP3----1A----</AM>
 </tag>
 </m>

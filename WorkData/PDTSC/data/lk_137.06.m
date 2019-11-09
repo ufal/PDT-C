@@ -1840,7 +1840,7 @@
 <form_change>spell</form_change>
 <form>Obzvláště</form>
 <tag>
-<AM lemma="obzvláště-2">TT-------------</AM>
+<AM lemma="obzvláště-2" src="auto">TT-------------</AM>
 <AM lemma="obzvláště-1" src="auto" recommended="1" selected="1">Db-------------</AM>
 </tag>
 </m>
@@ -3524,7 +3524,7 @@
 <tag lemma="?" src="auto" recommended="1">Z:-------------</tag>
 </m>
 </s>
-<s id="m-d1e1669-x2"></s>
+<s id="m-d1e1669-x2"/>
 <s id="m-102">
 <m id="m137-d1t1672-1">
 <w.rf>

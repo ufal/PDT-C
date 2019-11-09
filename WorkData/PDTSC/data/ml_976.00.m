@@ -2555,15 +2555,15 @@
 <form_change>spell</form_change>
 <form>západním</form>
 <tag>
-<AM lemma="západní">AAFP3----1A----</AM>
-<AM lemma="západní">AAIP3----1A----</AM>
-<AM lemma="západní" selected="1">AAIS6----1A----</AM>
-<AM lemma="západní">AAIS7----1A----</AM>
-<AM lemma="západní">AAMP3----1A----</AM>
-<AM lemma="západní">AAMS6----1A----</AM>
-<AM lemma="západní">AAMS7----1A----</AM>
-<AM lemma="západní">AANP3----1A----</AM>
-<AM lemma="západní">AANS7----1A----</AM>
+<AM lemma="západní" src="auto">AAFP3----1A----</AM>
+<AM lemma="západní" src="auto">AAIP3----1A----</AM>
+<AM lemma="západní" selected="1" src="auto">AAIS6----1A----</AM>
+<AM lemma="západní" src="auto">AAIS7----1A----</AM>
+<AM lemma="západní" src="auto">AAMP3----1A----</AM>
+<AM lemma="západní" src="auto">AAMS6----1A----</AM>
+<AM lemma="západní" src="auto">AAMS7----1A----</AM>
+<AM lemma="západní" src="auto">AANP3----1A----</AM>
+<AM lemma="západní" src="auto">AANS7----1A----</AM>
 <AM lemma="západní" src="auto" recommended="1">AANS6----1A----</AM>
 </tag>
 </m>

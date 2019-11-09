@@ -2217,28 +2217,28 @@
 <form_change>spell</form_change>
 <form>navštěvovaný</form>
 <tag>
-<AM lemma="navštěvovaný_^(*2t)">AAFP1----1A---6</AM>
-<AM lemma="navštěvovaný_^(*2t)">AAFP4----1A---6</AM>
-<AM lemma="navštěvovaný_^(*2t)">AAFP5----1A---6</AM>
-<AM lemma="navštěvovaný_^(*2t)">AAFS2----1A---6</AM>
-<AM lemma="navštěvovaný_^(*2t)">AAFS3----1A---6</AM>
-<AM lemma="navštěvovaný_^(*2t)">AAFS6----1A---6</AM>
-<AM lemma="navštěvovaný_^(*2t)">AAIP1----1A---6</AM>
-<AM lemma="navštěvovaný_^(*2t)">AAIP4----1A---6</AM>
-<AM lemma="navštěvovaný_^(*2t)">AAIP5----1A---6</AM>
-<AM lemma="navštěvovaný_^(*2t)" selected="1">AAIS1----1A----</AM>
-<AM lemma="navštěvovaný_^(*2t)">AAIS4----1A----</AM>
-<AM lemma="navštěvovaný_^(*2t)">AAIS5----1A----</AM>
-<AM lemma="navštěvovaný_^(*2t)">AAMP1----1A---6</AM>
-<AM lemma="navštěvovaný_^(*2t)">AAMP4----1A---6</AM>
-<AM lemma="navštěvovaný_^(*2t)">AAMP5----1A---6</AM>
-<AM lemma="navštěvovaný_^(*2t)">AAMS5----1A----</AM>
-<AM lemma="navštěvovaný_^(*2t)">AANP1----1A---6</AM>
-<AM lemma="navštěvovaný_^(*2t)">AANP4----1A---6</AM>
-<AM lemma="navštěvovaný_^(*2t)">AANP5----1A---6</AM>
-<AM lemma="navštěvovaný_^(*2t)">AANS1----1A---6</AM>
-<AM lemma="navštěvovaný_^(*2t)">AANS4----1A---6</AM>
-<AM lemma="navštěvovaný_^(*2t)">AANS5----1A---6</AM>
+<AM lemma="navštěvovaný_^(*2t)" src="auto">AAFP1----1A---6</AM>
+<AM lemma="navštěvovaný_^(*2t)" src="auto">AAFP4----1A---6</AM>
+<AM lemma="navštěvovaný_^(*2t)" src="auto">AAFP5----1A---6</AM>
+<AM lemma="navštěvovaný_^(*2t)" src="auto">AAFS2----1A---6</AM>
+<AM lemma="navštěvovaný_^(*2t)" src="auto">AAFS3----1A---6</AM>
+<AM lemma="navštěvovaný_^(*2t)" src="auto">AAFS6----1A---6</AM>
+<AM lemma="navštěvovaný_^(*2t)" src="auto">AAIP1----1A---6</AM>
+<AM lemma="navštěvovaný_^(*2t)" src="auto">AAIP4----1A---6</AM>
+<AM lemma="navštěvovaný_^(*2t)" src="auto">AAIP5----1A---6</AM>
+<AM lemma="navštěvovaný_^(*2t)" selected="1" src="auto">AAIS1----1A----</AM>
+<AM lemma="navštěvovaný_^(*2t)" src="auto">AAIS4----1A----</AM>
+<AM lemma="navštěvovaný_^(*2t)" src="auto">AAIS5----1A----</AM>
+<AM lemma="navštěvovaný_^(*2t)" src="auto">AAMP1----1A---6</AM>
+<AM lemma="navštěvovaný_^(*2t)" src="auto">AAMP4----1A---6</AM>
+<AM lemma="navštěvovaný_^(*2t)" src="auto">AAMP5----1A---6</AM>
+<AM lemma="navštěvovaný_^(*2t)" src="auto">AAMS5----1A----</AM>
+<AM lemma="navštěvovaný_^(*2t)" src="auto">AANP1----1A---6</AM>
+<AM lemma="navštěvovaný_^(*2t)" src="auto">AANP4----1A---6</AM>
+<AM lemma="navštěvovaný_^(*2t)" src="auto">AANP5----1A---6</AM>
+<AM lemma="navštěvovaný_^(*2t)" src="auto">AANS1----1A---6</AM>
+<AM lemma="navštěvovaný_^(*2t)" src="auto">AANS4----1A---6</AM>
+<AM lemma="navštěvovaný_^(*2t)" src="auto">AANS5----1A---6</AM>
 <AM lemma="navštěvovaný_^(*2t)" src="auto" recommended="1">AAMS1----1A----</AM>
 </tag>
 </m>

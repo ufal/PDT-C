@@ -417,16 +417,16 @@
 <form_change>spell</form_change>
 <form>Hlavním</form>
 <tag>
-<AM lemma="hlaveň">NNFP3-----A----</AM>
-<AM lemma="hlavní">AAFP3----1A----</AM>
-<AM lemma="hlavní">AAIP3----1A----</AM>
-<AM lemma="hlavní">AAIS6----1A----</AM>
-<AM lemma="hlavní">AAMP3----1A----</AM>
-<AM lemma="hlavní">AAMS6----1A----</AM>
-<AM lemma="hlavní">AAMS7----1A----</AM>
-<AM lemma="hlavní">AANP3----1A----</AM>
-<AM lemma="hlavní">AANS6----1A----</AM>
-<AM lemma="hlavní">AANS7----1A----</AM>
+<AM lemma="hlaveň" src="auto">NNFP3-----A----</AM>
+<AM lemma="hlavní" src="auto">AAFP3----1A----</AM>
+<AM lemma="hlavní" src="auto">AAIP3----1A----</AM>
+<AM lemma="hlavní" src="auto">AAIS6----1A----</AM>
+<AM lemma="hlavní" src="auto">AAMP3----1A----</AM>
+<AM lemma="hlavní" src="auto">AAMS6----1A----</AM>
+<AM lemma="hlavní" src="auto">AAMS7----1A----</AM>
+<AM lemma="hlavní" src="auto">AANP3----1A----</AM>
+<AM lemma="hlavní" src="auto">AANS6----1A----</AM>
+<AM lemma="hlavní" src="auto">AANS7----1A----</AM>
 <AM lemma="hlavní" src="auto" recommended="1" selected="1">AAIS7----1A----</AM>
 </tag>
 </m>

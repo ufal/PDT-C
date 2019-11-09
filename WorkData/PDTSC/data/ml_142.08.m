@@ -3847,9 +3847,9 @@
 </w.rf>
 <form>obyvateli</form>
 <tag>
-<AM lemma="obyvatel">NNMS3-----A----</AM>
-<AM lemma="obyvatel">NNMS5-----A----</AM>
-<AM lemma="obyvatel">NNMS6-----A----</AM>
+<AM lemma="obyvatel" src="auto">NNMS3-----A----</AM>
+<AM lemma="obyvatel" src="auto">NNMS5-----A----</AM>
+<AM lemma="obyvatel" src="auto">NNMS6-----A----</AM>
 <AM lemma="obyvatel" src="auto" recommended="1" selected="1">NNMP7-----A----</AM>
 </tag>
 </m>
@@ -3937,21 +3937,21 @@
 <form_change>spell</form_change>
 <form>rozhádané</form>
 <tag>
-<AM lemma="rozhádaný_^(*2t)">AAFP1----1A----</AM>
-<AM lemma="rozhádaný_^(*2t)">AAFP4----1A----</AM>
-<AM lemma="rozhádaný_^(*2t)">AAFP5----1A----</AM>
-<AM lemma="rozhádaný_^(*2t)">AAFS2----1A----</AM>
-<AM lemma="rozhádaný_^(*2t)">AAFS3----1A----</AM>
-<AM lemma="rozhádaný_^(*2t)">AAFS6----1A----</AM>
-<AM lemma="rozhádaný_^(*2t)">AAIP1----1A----</AM>
-<AM lemma="rozhádaný_^(*2t)">AAIP4----1A----</AM>
-<AM lemma="rozhádaný_^(*2t)">AAIP5----1A----</AM>
-<AM lemma="rozhádaný_^(*2t)">AAMP4----1A----</AM>
-<AM lemma="rozhádaný_^(*2t)">AANP1----1A---6</AM>
-<AM lemma="rozhádaný_^(*2t)">AANP4----1A---6</AM>
-<AM lemma="rozhádaný_^(*2t)">AANP5----1A---6</AM>
-<AM lemma="rozhádaný_^(*2t)">AANS4----1A----</AM>
-<AM lemma="rozhádaný_^(*2t)">AANS5----1A----</AM>
+<AM lemma="rozhádaný_^(*2t)" src="auto">AAFP1----1A----</AM>
+<AM lemma="rozhádaný_^(*2t)" src="auto">AAFP4----1A----</AM>
+<AM lemma="rozhádaný_^(*2t)" src="auto">AAFP5----1A----</AM>
+<AM lemma="rozhádaný_^(*2t)" src="auto">AAFS2----1A----</AM>
+<AM lemma="rozhádaný_^(*2t)" src="auto">AAFS3----1A----</AM>
+<AM lemma="rozhádaný_^(*2t)" src="auto">AAFS6----1A----</AM>
+<AM lemma="rozhádaný_^(*2t)" src="auto">AAIP1----1A----</AM>
+<AM lemma="rozhádaný_^(*2t)" src="auto">AAIP4----1A----</AM>
+<AM lemma="rozhádaný_^(*2t)" src="auto">AAIP5----1A----</AM>
+<AM lemma="rozhádaný_^(*2t)" src="auto">AAMP4----1A----</AM>
+<AM lemma="rozhádaný_^(*2t)" src="auto">AANP1----1A---6</AM>
+<AM lemma="rozhádaný_^(*2t)" src="auto">AANP4----1A---6</AM>
+<AM lemma="rozhádaný_^(*2t)" src="auto">AANP5----1A---6</AM>
+<AM lemma="rozhádaný_^(*2t)" src="auto">AANS4----1A----</AM>
+<AM lemma="rozhádaný_^(*2t)" src="auto">AANS5----1A----</AM>
 <AM lemma="rozhádaný_^(*2t)" src="auto" recommended="1" selected="1">AANS1----1A----</AM>
 </tag>
 </m>
@@ -4564,15 +4564,15 @@
 <form_change>spell</form_change>
 <form>dětství</form>
 <tag>
-<AM lemma="dětství">NNNP1-----A----</AM>
-<AM lemma="dětství">NNNP2-----A----</AM>
-<AM lemma="dětství">NNNP4-----A----</AM>
-<AM lemma="dětství">NNNP5-----A----</AM>
-<AM lemma="dětství">NNNS1-----A----</AM>
-<AM lemma="dětství">NNNS3-----A----</AM>
-<AM lemma="dětství">NNNS4-----A----</AM>
-<AM lemma="dětství">NNNS5-----A----</AM>
-<AM lemma="dětství">NNNS6-----A----</AM>
+<AM lemma="dětství" src="auto">NNNP1-----A----</AM>
+<AM lemma="dětství" src="auto">NNNP2-----A----</AM>
+<AM lemma="dětství" src="auto">NNNP4-----A----</AM>
+<AM lemma="dětství" src="auto">NNNP5-----A----</AM>
+<AM lemma="dětství" src="auto">NNNS1-----A----</AM>
+<AM lemma="dětství" src="auto">NNNS3-----A----</AM>
+<AM lemma="dětství" src="auto">NNNS4-----A----</AM>
+<AM lemma="dětství" src="auto">NNNS5-----A----</AM>
+<AM lemma="dětství" src="auto">NNNS6-----A----</AM>
 <AM lemma="dětství" src="auto" recommended="1" selected="1">NNNS2-----A----</AM>
 </tag>
 </m>

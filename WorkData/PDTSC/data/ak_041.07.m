@@ -5084,7 +5084,7 @@
 <form_change>spell</form_change>
 <form>salicyl</form>
 <tag>
-<AM lemma="salicyl">NNIS1-----A----</AM>
+<AM lemma="salicyl" src="auto">NNIS1-----A----</AM>
 <AM lemma="salicyl" src="auto" recommended="1" selected="1">NNIS4-----A----</AM>
 </tag>
 </m>

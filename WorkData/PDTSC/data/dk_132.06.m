@@ -149,7 +149,7 @@
 <form_change>spell</form_change>
 <form>Aritmě</form>
 <tag>
-<AM lemma="Aritma_;K">NNFS3-----A----</AM>
+<AM lemma="Aritma_;K" src="auto">NNFS3-----A----</AM>
 <AM lemma="Aritma_;K" src="auto" recommended="1" selected="1">NNFS6-----A----</AM>
 </tag>
 </m>

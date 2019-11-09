@@ -2917,7 +2917,7 @@
 <form_change>spell</form_change>
 <form>tohoto</form>
 <tag>
-<AM lemma="tento">PDMS4----------</AM>
+<AM lemma="tento" src="auto">PDMS4----------</AM>
 <AM lemma="tento" src="auto" recommended="1" selected="1">PDZS2----------</AM>
 </tag>
 </m>

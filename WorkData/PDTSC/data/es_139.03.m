@@ -1229,9 +1229,9 @@
 <form_change>spell</form_change>
 <form>Babiččino</form>
 <tag>
-<AM lemma="babiččin_^(*3ka)">AUNS4F---------</AM>
-<AM lemma="babiččin_^(*3ka)">AUNS5F---------</AM>
-<AM lemma="babiččin_^(*3ka)">AUXXXF--------7</AM>
+<AM lemma="babiččin_^(*3ka)" src="auto">AUNS4F---------</AM>
+<AM lemma="babiččin_^(*3ka)" src="auto">AUNS5F---------</AM>
+<AM lemma="babiččin_^(*3ka)" src="auto">AUXXXF--------7</AM>
 <AM lemma="babiččin_^(*3ka)" src="auto" recommended="1" selected="1">AUNS1F---------</AM>
 </tag>
 </m>

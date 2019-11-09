@@ -3904,11 +3904,11 @@
 <form_change>spell</form_change>
 <form>nuance</form>
 <tag>
-<AM lemma="nuance">NNFP1-----A----</AM>
-<AM lemma="nuance">NNFP5-----A----</AM>
-<AM lemma="nuance">NNFS1-----A----</AM>
-<AM lemma="nuance">NNFS2-----A----</AM>
-<AM lemma="nuance">NNFS5-----A----</AM>
+<AM lemma="nuance" src="auto">NNFP1-----A----</AM>
+<AM lemma="nuance" src="auto">NNFP5-----A----</AM>
+<AM lemma="nuance" src="auto">NNFS1-----A----</AM>
+<AM lemma="nuance" src="auto">NNFS2-----A----</AM>
+<AM lemma="nuance" src="auto">NNFS5-----A----</AM>
 <AM lemma="nuance" src="auto" recommended="1" selected="1">NNFP4-----A----</AM>
 </tag>
 </m>
@@ -5857,7 +5857,7 @@
 <form_change>spell</form_change>
 <form>heim</form>
 <tag>
-<AM lemma="heim">X@-------------</AM>
+<AM lemma="heim" src="auto">X@-------------</AM>
 <AM lemma="heim" src="auto" recommended="1">NNIS4-----A----</AM>
 <AM lemma="heim" src="manual">NNIS4-----A----</AM>
 <AM lemma="heim" src="manual" selected="1">NNIS4-----A----</AM>
@@ -6265,7 +6265,7 @@
 <form_change>spell</form_change>
 <form>heim</form>
 <tag>
-<AM lemma="heim">X@-------------</AM>
+<AM lemma="heim" src="auto">X@-------------</AM>
 <AM lemma="heim" src="auto" recommended="1">AAXXX----1A----</AM>
 <AM lemma="heim-77" src="manual">F%-------------</AM>
 <AM lemma="heim" src="manual" selected="1">NNIS1-----A----</AM>

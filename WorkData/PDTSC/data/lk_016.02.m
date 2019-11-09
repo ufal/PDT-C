@@ -4436,9 +4436,9 @@
 <form_change>spell</form_change>
 <form>republiky</form>
 <tag>
-<AM lemma="republika">NNFP1-----A----</AM>
-<AM lemma="republika">NNFP4-----A----</AM>
-<AM lemma="republika">NNFP5-----A----</AM>
+<AM lemma="republika" src="auto">NNFP1-----A----</AM>
+<AM lemma="republika" src="auto">NNFP4-----A----</AM>
+<AM lemma="republika" src="auto">NNFP5-----A----</AM>
 <AM lemma="republika" src="auto" recommended="1" selected="1">NNFS2-----A----</AM>
 </tag>
 </m>

@@ -1772,7 +1772,7 @@
 <form_change>spell</form_change>
 <form>Grošafta</form>
 <tag>
-<AM lemma="Grošaft_;S">NNMS2-----A----</AM>
+<AM lemma="Grošaft_;S" src="auto">NNMS2-----A----</AM>
 <AM lemma="Grošaft_;S" src="auto" recommended="1">NNMS4-----A----</AM>
 <AM lemma="Grošafta_;S" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
@@ -3306,9 +3306,9 @@
 <form_change>spell</form_change>
 <form>štětiny</form>
 <tag>
-<AM lemma="štětina">NNFP1-----A----</AM>
-<AM lemma="štětina">NNFP5-----A----</AM>
-<AM lemma="štětina">NNFS2-----A----</AM>
+<AM lemma="štětina" src="auto">NNFP1-----A----</AM>
+<AM lemma="štětina" src="auto">NNFP5-----A----</AM>
+<AM lemma="štětina" src="auto">NNFS2-----A----</AM>
 <AM lemma="štětina" src="auto" recommended="1" selected="1">NNFP4-----A----</AM>
 </tag>
 </m>

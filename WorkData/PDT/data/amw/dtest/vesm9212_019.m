@@ -2725,7 +2725,7 @@
 <form_change>spell</form_change>
 <form>Clyneové</form>
 <tag>
-<AM lemma="Clyneové">X@-------------</AM>
+<AM lemma="Clyneové" src="auto">X@-------------</AM>
 <AM lemma="Clyneová_;S" src="auto" recommended="1" selected="1">NNFS2-----A----</AM>
 </tag>
 </m>

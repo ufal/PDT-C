@@ -2668,8 +2668,8 @@
 <form_change>spell</form_change>
 <form>Bluchy</form>
 <tag>
-<AM lemma="Blucha_;S">NNMP4-----A----</AM>
-<AM lemma="Blucha_;S">NNMP7-----A----</AM>
+<AM lemma="Blucha_;S" src="auto">NNMP4-----A----</AM>
+<AM lemma="Blucha_;S" src="auto">NNMP7-----A----</AM>
 <AM lemma="Blucha_;S" src="auto" recommended="1" selected="1">NNMS2-----A----</AM>
 </tag>
 </m>

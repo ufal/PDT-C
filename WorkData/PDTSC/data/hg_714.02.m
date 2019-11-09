@@ -5545,18 +5545,18 @@
 <form_change>spell</form_change>
 <form>Vojtěšské</form>
 <tag>
-<AM lemma="vojtěšský">AAFP1----1A----</AM>
-<AM lemma="vojtěšský">AAFP4----1A----</AM>
-<AM lemma="vojtěšský">AAFP5----1A----</AM>
-<AM lemma="vojtěšský">AAFS2----1A----</AM>
-<AM lemma="vojtěšský">AAFS3----1A----</AM>
-<AM lemma="vojtěšský">AAIP1----1A----</AM>
-<AM lemma="vojtěšský">AAIP4----1A----</AM>
-<AM lemma="vojtěšský">AAIP5----1A----</AM>
-<AM lemma="vojtěšský">AAMP4----1A----</AM>
-<AM lemma="vojtěšský">AANS1----1A----</AM>
-<AM lemma="vojtěšský">AANS4----1A----</AM>
-<AM lemma="vojtěšský">AANS5----1A----</AM>
+<AM lemma="vojtěšský" src="auto">AAFP1----1A----</AM>
+<AM lemma="vojtěšský" src="auto">AAFP4----1A----</AM>
+<AM lemma="vojtěšský" src="auto">AAFP5----1A----</AM>
+<AM lemma="vojtěšský" src="auto">AAFS2----1A----</AM>
+<AM lemma="vojtěšský" src="auto">AAFS3----1A----</AM>
+<AM lemma="vojtěšský" src="auto">AAIP1----1A----</AM>
+<AM lemma="vojtěšský" src="auto">AAIP4----1A----</AM>
+<AM lemma="vojtěšský" src="auto">AAIP5----1A----</AM>
+<AM lemma="vojtěšský" src="auto">AAMP4----1A----</AM>
+<AM lemma="vojtěšský" src="auto">AANS1----1A----</AM>
+<AM lemma="vojtěšský" src="auto">AANS4----1A----</AM>
+<AM lemma="vojtěšský" src="auto">AANS5----1A----</AM>
 <AM lemma="vojtěšský" src="auto" recommended="1" selected="1">AAFS6----1A----</AM>
 </tag>
 </m>

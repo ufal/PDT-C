@@ -4409,7 +4409,7 @@
 <form_change>spell</form_change>
 <form>opravdu</form>
 <tag>
-<AM lemma="opravdu-2">TT-------------</AM>
+<AM lemma="opravdu-2" src="auto">TT-------------</AM>
 <AM lemma="opravdu-1" src="auto" recommended="1" selected="1">Db-------------</AM>
 </tag>
 </m>

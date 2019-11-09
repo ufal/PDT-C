@@ -246,7 +246,7 @@
 <form_change>spell</form_change>
 <form>Hornád</form>
 <tag>
-<AM lemma="Hornád_;G_^(řeka)">NNIS4-----A----</AM>
+<AM lemma="Hornád_;G_^(řeka)" src="auto">NNIS4-----A----</AM>
 <AM lemma="Hornád_;G_^(řeka)" src="auto" recommended="1" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>

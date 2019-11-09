@@ -3334,15 +3334,15 @@
 <form_change>spell</form_change>
 <form>Dillí</form>
 <tag>
-<AM lemma="dillí">NNNP1-----A----</AM>
-<AM lemma="dillí">NNNP2-----A----</AM>
-<AM lemma="dillí">NNNP4-----A----</AM>
-<AM lemma="dillí">NNNP5-----A----</AM>
-<AM lemma="dillí">NNNS2-----A----</AM>
-<AM lemma="dillí">NNNS3-----A----</AM>
-<AM lemma="dillí">NNNS4-----A----</AM>
-<AM lemma="dillí">NNNS5-----A----</AM>
-<AM lemma="dillí">NNNS6-----A----</AM>
+<AM lemma="dillí" src="auto">NNNP1-----A----</AM>
+<AM lemma="dillí" src="auto">NNNP2-----A----</AM>
+<AM lemma="dillí" src="auto">NNNP4-----A----</AM>
+<AM lemma="dillí" src="auto">NNNP5-----A----</AM>
+<AM lemma="dillí" src="auto">NNNS2-----A----</AM>
+<AM lemma="dillí" src="auto">NNNS3-----A----</AM>
+<AM lemma="dillí" src="auto">NNNS4-----A----</AM>
+<AM lemma="dillí" src="auto">NNNS5-----A----</AM>
+<AM lemma="dillí" src="auto">NNNS6-----A----</AM>
 <AM lemma="dillí" src="auto" recommended="1">NNNS1-----A----</AM>
 <AM lemma="Dillí_;G" src="manual" selected="1">NNNS1-----A----</AM>
 </tag>

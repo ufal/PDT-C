@@ -43,7 +43,7 @@
 <form_change>spell</form_change>
 <form>kombík</form>
 <tag>
-<AM lemma="kombík_,h">NNIS4-----A----</AM>
+<AM lemma="kombík_,h" src="auto">NNIS4-----A----</AM>
 <AM lemma="kombík_,h" src="auto" recommended="1" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>

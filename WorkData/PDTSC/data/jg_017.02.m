@@ -670,8 +670,8 @@
 <form_change>spell</form_change>
 <form>d</form>
 <tag>
-<AM lemma="d-77" selected="1">F%-------------</AM>
-<AM lemma="d-88_:B">NNXXX-----A----</AM>
+<AM lemma="d-77" selected="1" src="auto">F%-------------</AM>
+<AM lemma="d-88_:B" src="auto">NNXXX-----A----</AM>
 <AM lemma="d-33_^(označení_pomocí_písmene)" src="auto" recommended="1">NNNXX-----A----</AM>
 </tag>
 <comment>

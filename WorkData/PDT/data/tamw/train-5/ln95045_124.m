@@ -2067,9 +2067,9 @@
 <form_change>spell</form_change>
 <form>audio</form>
 <tag>
-<AM lemma="audio-1">NNNS4-----A----</AM>
-<AM lemma="audio-1">NNNS5-----A----</AM>
-<AM lemma="audio-2_,t">AAXXX----1A----</AM>
+<AM lemma="audio-1" src="auto">NNNS4-----A----</AM>
+<AM lemma="audio-1" src="auto">NNNS5-----A----</AM>
+<AM lemma="audio-2_,t" src="auto">AAXXX----1A----</AM>
 <AM lemma="audio-1" src="auto" recommended="1" selected="1">NNNS1-----A----</AM>
 </tag>
 </m>

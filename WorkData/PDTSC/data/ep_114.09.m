@@ -6308,7 +6308,7 @@
 <form_change>spell</form_change>
 <form>hodin</form>
 <tag>
-<AM lemma="hodiny_^(přístroj)">NNFP2-----A----</AM>
+<AM lemma="hodiny_^(přístroj)" src="auto">NNFP2-----A----</AM>
 <AM lemma="hodina_^(jednotka_času)" src="auto" recommended="1" selected="1">NNFP2-----A----</AM>
 </tag>
 </m>

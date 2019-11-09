@@ -2174,9 +2174,9 @@
 <form_change>spell</form_change>
 <form>Tulcey</form>
 <tag>
-<AM lemma="Tulcea_;G">NNFP1-----A---1</AM>
-<AM lemma="Tulcea_;G">NNFP4-----A---1</AM>
-<AM lemma="Tulcea_;G">NNFP5-----A---1</AM>
+<AM lemma="Tulcea_;G" src="auto">NNFP1-----A---1</AM>
+<AM lemma="Tulcea_;G" src="auto">NNFP4-----A---1</AM>
+<AM lemma="Tulcea_;G" src="auto">NNFP5-----A---1</AM>
 <AM lemma="Tulcea_;G" src="auto" recommended="1" selected="1">NNFS2-----A---1</AM>
 </tag>
 </m>
@@ -5889,7 +5889,7 @@
 <form_change>spell</form_change>
 <form>Tulceji</form>
 <tag>
-<AM lemma="Tulcea_;G">NNFS3-----A----</AM>
+<AM lemma="Tulcea_;G" src="auto">NNFS3-----A----</AM>
 <AM lemma="Tulcea_;G" src="auto" recommended="1" selected="1">NNFS6-----A----</AM>
 </tag>
 </m>
@@ -6439,7 +6439,7 @@
 <form_change>spell</form_change>
 <form>Milos</form>
 <tag>
-<AM lemma="Milos_;G">NNIS1-----A----</AM>
+<AM lemma="Milos_;G" src="auto">NNIS1-----A----</AM>
 <AM lemma="Milos_;G" src="auto" recommended="1" selected="1">NNIS4-----A----</AM>
 </tag>
 </m>
@@ -6672,7 +6672,7 @@
 <form_change>spell</form_change>
 <form>mě</form>
 <tag>
-<AM lemma="já">PH-S2--1-------</AM>
+<AM lemma="já" src="auto">PH-S2--1-------</AM>
 <AM lemma="já" src="auto" recommended="1" selected="1">PH-S4--1-------</AM>
 </tag>
 </m>

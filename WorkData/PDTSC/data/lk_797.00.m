@@ -6038,7 +6038,7 @@
 <form_change>spell</form_change>
 <form>Musulmani</form>
 <tag>
-<AM lemma="musulman">NNMP5-----A---1</AM>
+<AM lemma="musulman" src="auto">NNMP5-----A---1</AM>
 <AM lemma="musulman" src="auto" recommended="1" selected="1">NNMP1-----A---1</AM>
 </tag>
 </m>

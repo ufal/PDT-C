@@ -294,7 +294,7 @@
 <form_change>spell</form_change>
 <form>rozsvítí</form>
 <tag>
-<AM lemma="rozsvítit">VB-P---3P-AAP--</AM>
+<AM lemma="rozsvítit" src="auto">VB-P---3P-AAP--</AM>
 <AM lemma="rozsvítit" src="auto" recommended="1" selected="1">VB-S---3P-AAP--</AM>
 </tag>
 </m>

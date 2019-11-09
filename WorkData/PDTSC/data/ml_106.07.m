@@ -2779,7 +2779,7 @@
 <form_change>spell</form_change>
 <form>přátelé</form>
 <tag>
-<AM lemma="přítel">NNMP5-----A----</AM>
+<AM lemma="přítel" src="auto">NNMP5-----A----</AM>
 <AM lemma="přítel" src="auto" recommended="1" selected="1">NNMP1-----A----</AM>
 </tag>
 </m>

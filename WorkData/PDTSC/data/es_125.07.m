@@ -2024,13 +2024,13 @@
 <form_change>spell</form_change>
 <form>moje</form>
 <tag>
-<AM lemma="můj_^(přivlast.)">PSHP5-S1-------</AM>
-<AM lemma="můj_^(přivlast.)">PSHS1-S1-------</AM>
-<AM lemma="můj_^(přivlast.)">PSHS5-S1-------</AM>
-<AM lemma="můj_^(přivlast.)">PSIP1-S1-------</AM>
-<AM lemma="můj_^(přivlast.)">PSIP5-S1-------</AM>
-<AM lemma="můj_^(přivlast.)">PSNS4-S1-------</AM>
-<AM lemma="můj_^(přivlast.)">PSXP4-S1-------</AM>
+<AM lemma="můj_^(přivlast.)" src="auto">PSHP5-S1-------</AM>
+<AM lemma="můj_^(přivlast.)" src="auto">PSHS1-S1-------</AM>
+<AM lemma="můj_^(přivlast.)" src="auto">PSHS5-S1-------</AM>
+<AM lemma="můj_^(přivlast.)" src="auto">PSIP1-S1-------</AM>
+<AM lemma="můj_^(přivlast.)" src="auto">PSIP5-S1-------</AM>
+<AM lemma="můj_^(přivlast.)" src="auto">PSNS4-S1-------</AM>
+<AM lemma="můj_^(přivlast.)" src="auto">PSXP4-S1-------</AM>
 <AM lemma="můj_^(přivlast.)" src="auto" recommended="1" selected="1">PSHP1-S1-------</AM>
 </tag>
 </m>

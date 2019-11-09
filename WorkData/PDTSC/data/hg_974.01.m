@@ -3121,7 +3121,7 @@
 <form_change>spell</form_change>
 <form>Samarkand</form>
 <tag>
-<AM lemma="Samarkand_;G">NNIS4-----A----</AM>
+<AM lemma="Samarkand_;G" src="auto">NNIS4-----A----</AM>
 <AM lemma="Samarkand_;G" src="auto" recommended="1" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>

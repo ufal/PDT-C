@@ -3113,7 +3113,7 @@
 <form_change>spell</form_change>
 <form>šnytlík</form>
 <tag>
-<AM lemma="šnytlík_,h">NNIS4-----A----</AM>
+<AM lemma="šnytlík_,h" src="auto">NNIS4-----A----</AM>
 <AM lemma="šnytlík_,h" src="auto" recommended="1" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>

@@ -1145,9 +1145,9 @@
 <form_change>spell</form_change>
 <form>cédéčka</form>
 <tag>
-<AM lemma="cédéčko">NNNP1-----A----</AM>
-<AM lemma="cédéčko">NNNP5-----A----</AM>
-<AM lemma="cédéčko">NNNS2-----A----</AM>
+<AM lemma="cédéčko" src="auto">NNNP1-----A----</AM>
+<AM lemma="cédéčko" src="auto">NNNP5-----A----</AM>
+<AM lemma="cédéčko" src="auto">NNNS2-----A----</AM>
 <AM lemma="cédéčko" src="auto" recommended="1" selected="1">NNNP4-----A----</AM>
 </tag>
 </m>
@@ -1205,9 +1205,9 @@
 <form_change>spell</form_change>
 <form>cédéčka</form>
 <tag>
-<AM lemma="cédéčko">NNNP1-----A----</AM>
-<AM lemma="cédéčko">NNNP5-----A----</AM>
-<AM lemma="cédéčko">NNNS2-----A----</AM>
+<AM lemma="cédéčko" src="auto">NNNP1-----A----</AM>
+<AM lemma="cédéčko" src="auto">NNNP5-----A----</AM>
+<AM lemma="cédéčko" src="auto">NNNS2-----A----</AM>
 <AM lemma="cédéčko" src="auto" recommended="1" selected="1">NNNP4-----A----</AM>
 </tag>
 </m>

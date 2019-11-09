@@ -1410,9 +1410,9 @@
 <form_change>spell</form_change>
 <form>F</form>
 <tag>
-<AM lemma="F-33_^(označení_pomocí_písmene)">NNNXX-----A----</AM>
-<AM lemma="f-33_^(označení_pomocí_písmene)">NNNXX-----A----</AM>
-<AM lemma="f-88_:B">NNXXX-----A----</AM>
+<AM lemma="F-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
+<AM lemma="f-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
+<AM lemma="f-88_:B" src="auto">NNXXX-----A----</AM>
 <AM lemma="F-88_:B" src="auto" recommended="1" selected="1">NNXXX-----A----</AM>
 </tag>
 <comment>
@@ -2979,9 +2979,9 @@
 <form_change>spell</form_change>
 <form>do</form>
 <tag>
-<AM lemma="do-2_^(tae-kwon-do)">NNNXX-----A----</AM>
-<AM lemma="do-7_^(předpona,_sam.)">A2--------A----</AM>
-<AM lemma="do-99_:B_;S">NNXXX-----A----</AM>
+<AM lemma="do-2_^(tae-kwon-do)" src="auto">NNNXX-----A----</AM>
+<AM lemma="do-7_^(předpona,_sam.)" src="auto">A2--------A----</AM>
+<AM lemma="do-99_:B_;S" src="auto">NNXXX-----A----</AM>
 <AM lemma="do-1" src="auto" recommended="1" selected="1">RR--2----------</AM>
 </tag>
 </m>

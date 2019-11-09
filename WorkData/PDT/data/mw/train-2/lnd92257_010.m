@@ -2690,9 +2690,9 @@
 <form_change>spell</form_change>
 <form>pozměňujícími</form>
 <tag>
-<AM lemma="pozměňující_^(*5ovat)">AGFP7-----A----</AM>
-<AM lemma="pozměňující_^(*5ovat)">AGMP7-----A----</AM>
-<AM lemma="pozměňující_^(*5ovat)">AGNP7-----A----</AM>
+<AM lemma="pozměňující_^(*5ovat)" src="auto">AGFP7-----A----</AM>
+<AM lemma="pozměňující_^(*5ovat)" src="auto">AGMP7-----A----</AM>
+<AM lemma="pozměňující_^(*5ovat)" src="auto">AGNP7-----A----</AM>
 <AM lemma="pozměňující_^(*5ovat)" src="auto" recommended="1" selected="1">AGIP7-----A----</AM>
 </tag>
 </m>

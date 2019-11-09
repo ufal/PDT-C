@@ -362,7 +362,7 @@
 <form_change>spell</form_change>
 <form>Kennetha</form>
 <tag>
-<AM lemma="Kenneth_;Y_,t">NNMS2-----A----</AM>
+<AM lemma="Kenneth_;Y_,t" src="auto">NNMS2-----A----</AM>
 <AM lemma="Kenneth_;Y_,t" src="auto" recommended="1">NNMS4-----A----</AM>
 <AM lemma="Kenneth_;Y" src="manual" selected="1">NNMS4-----A----</AM>
 </tag>

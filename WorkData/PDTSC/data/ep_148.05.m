@@ -4068,15 +4068,15 @@
 <form_change>spell</form_change>
 <form>povolání</form>
 <tag>
-<AM lemma="povolání_^(*3at)">NNNP1-----A----</AM>
-<AM lemma="povolání_^(*3at)" selected="1">NNNP2-----A----</AM>
-<AM lemma="povolání_^(*3at)">NNNP4-----A----</AM>
-<AM lemma="povolání_^(*3at)">NNNP5-----A----</AM>
-<AM lemma="povolání_^(*3at)">NNNS1-----A----</AM>
-<AM lemma="povolání_^(*3at)">NNNS3-----A----</AM>
-<AM lemma="povolání_^(*3at)">NNNS4-----A----</AM>
-<AM lemma="povolání_^(*3at)">NNNS5-----A----</AM>
-<AM lemma="povolání_^(*3at)">NNNS6-----A----</AM>
+<AM lemma="povolání_^(*3at)" src="auto">NNNP1-----A----</AM>
+<AM lemma="povolání_^(*3at)" selected="1" src="auto">NNNP2-----A----</AM>
+<AM lemma="povolání_^(*3at)" src="auto">NNNP4-----A----</AM>
+<AM lemma="povolání_^(*3at)" src="auto">NNNP5-----A----</AM>
+<AM lemma="povolání_^(*3at)" src="auto">NNNS1-----A----</AM>
+<AM lemma="povolání_^(*3at)" src="auto">NNNS3-----A----</AM>
+<AM lemma="povolání_^(*3at)" src="auto">NNNS4-----A----</AM>
+<AM lemma="povolání_^(*3at)" src="auto">NNNS5-----A----</AM>
+<AM lemma="povolání_^(*3at)" src="auto">NNNS6-----A----</AM>
 <AM lemma="povolání_^(*3at)" src="auto" recommended="1">NNNS2-----A----</AM>
 </tag>
 </m>
@@ -4801,7 +4801,7 @@
 <form_change>spell</form_change>
 <form>mně</form>
 <tag>
-<AM lemma="já">PP-S6--1-------</AM>
+<AM lemma="já" src="auto">PP-S6--1-------</AM>
 <AM lemma="já" src="auto" recommended="1" selected="1">PP-S3--1-------</AM>
 </tag>
 </m>
@@ -4881,8 +4881,8 @@
 <form_change>spell</form_change>
 <form>sedmdesát</form>
 <tag>
-<AM lemma="sedmdesát`70">Cn-S1----------</AM>
-<AM lemma="sedmdesát`70">Cn-S5----------</AM>
+<AM lemma="sedmdesát`70" src="auto">Cn-S1----------</AM>
+<AM lemma="sedmdesát`70" src="auto">Cn-S5----------</AM>
 <AM lemma="sedmdesát`70" src="auto" recommended="1" selected="1">Cn-S4----------</AM>
 </tag>
 </m>

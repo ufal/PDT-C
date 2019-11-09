@@ -2147,7 +2147,7 @@
 <form_change>spell</form_change>
 <form>mě</form>
 <tag>
-<AM lemma="já">PH-S4--1-------</AM>
+<AM lemma="já" src="auto">PH-S4--1-------</AM>
 <AM lemma="já" src="auto" recommended="1" selected="1">PH-S2--1-------</AM>
 </tag>
 </m>

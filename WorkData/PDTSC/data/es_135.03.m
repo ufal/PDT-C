@@ -122,15 +122,15 @@
 </w.rf>
 <form>Žižkova</form>
 <tag>
-<AM lemma="Žižkův_;S_^(*2a)_(*3ek)">AUFS1M---------</AM>
-<AM lemma="Žižkův_;S_^(*2a)_(*3ek)">AUFS5M---------</AM>
-<AM lemma="Žižkův_;S_^(*2a)_(*3ek)">AUIS2M---------</AM>
-<AM lemma="Žižkův_;S_^(*2a)_(*3ek)">AUMS2M---------</AM>
-<AM lemma="Žižkův_;S_^(*2a)_(*3ek)">AUMS4M---------</AM>
-<AM lemma="Žižkův_;S_^(*2a)_(*3ek)">AUNP1M---------</AM>
-<AM lemma="Žižkův_;S_^(*2a)_(*3ek)">AUNP4M---------</AM>
-<AM lemma="Žižkův_;S_^(*2a)_(*3ek)">AUNP5M---------</AM>
-<AM lemma="Žižkův_;S_^(*2a)_(*3ek)">AUNS2M---------</AM>
+<AM lemma="Žižkův_;S_^(*2a)_(*3ek)" src="auto">AUFS1M---------</AM>
+<AM lemma="Žižkův_;S_^(*2a)_(*3ek)" src="auto">AUFS5M---------</AM>
+<AM lemma="Žižkův_;S_^(*2a)_(*3ek)" src="auto">AUIS2M---------</AM>
+<AM lemma="Žižkův_;S_^(*2a)_(*3ek)" src="auto">AUMS2M---------</AM>
+<AM lemma="Žižkův_;S_^(*2a)_(*3ek)" src="auto">AUMS4M---------</AM>
+<AM lemma="Žižkův_;S_^(*2a)_(*3ek)" src="auto">AUNP1M---------</AM>
+<AM lemma="Žižkův_;S_^(*2a)_(*3ek)" src="auto">AUNP4M---------</AM>
+<AM lemma="Žižkův_;S_^(*2a)_(*3ek)" src="auto">AUNP5M---------</AM>
+<AM lemma="Žižkův_;S_^(*2a)_(*3ek)" src="auto">AUNS2M---------</AM>
 <AM lemma="Žižkov_;G" src="auto" recommended="1" selected="1">NNIS2-----A----</AM>
 </tag>
 </m>
@@ -202,7 +202,7 @@
 <form_change>spell</form_change>
 <form>Žižkov</form>
 <tag>
-<AM lemma="Žižkov_;G">NNIS1-----A----</AM>
+<AM lemma="Žižkov_;G" src="auto">NNIS1-----A----</AM>
 <AM lemma="Žižkov_;G" src="auto" recommended="1" selected="1">NNIS4-----A----</AM>
 </tag>
 </m>

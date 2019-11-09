@@ -572,7 +572,7 @@
 <form_change>spell</form_change>
 <form>děštník</form>
 <tag>
-<AM lemma="děštník">X@-------------</AM>
+<AM lemma="děštník" src="auto">X@-------------</AM>
 <AM lemma="děštník" src="auto" recommended="1">Db-------------</AM>
 </tag>
 <comment>

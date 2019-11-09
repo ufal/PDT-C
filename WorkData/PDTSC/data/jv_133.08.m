@@ -3315,8 +3315,8 @@
 <form_change>spell</form_change>
 <form>dyslexii</form>
 <tag>
-<AM lemma="dyslexie">NNFS4-----A----</AM>
-<AM lemma="dyslexie">NNFS6-----A----</AM>
+<AM lemma="dyslexie" src="auto">NNFS4-----A----</AM>
+<AM lemma="dyslexie" src="auto">NNFS6-----A----</AM>
 <AM lemma="dyslexie" src="auto" recommended="1" selected="1">NNFS3-----A----</AM>
 </tag>
 </m>

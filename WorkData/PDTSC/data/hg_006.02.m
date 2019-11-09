@@ -1284,9 +1284,9 @@
 <form_change>spell</form_change>
 <form>Belgičani</form>
 <tag>
-<AM lemma="Belgičan_;E">NNMP5-----A---1</AM>
-<AM lemma="belgičan_^(rasa_koně)">NNMP1-----A---1</AM>
-<AM lemma="belgičan_^(rasa_koně)">NNMP5-----A---1</AM>
+<AM lemma="Belgičan_;E" src="auto">NNMP5-----A---1</AM>
+<AM lemma="belgičan_^(rasa_koně)" src="auto">NNMP1-----A---1</AM>
+<AM lemma="belgičan_^(rasa_koně)" src="auto">NNMP5-----A---1</AM>
 <AM lemma="Belgičan_;E" src="auto" recommended="1" selected="1">NNMP1-----A---1</AM>
 </tag>
 </m>

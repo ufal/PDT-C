@@ -3027,15 +3027,15 @@
 <form_change>spell</form_change>
 <form>knížectví</form>
 <tag>
-<AM lemma="knížectví">NNNP1-----A----</AM>
-<AM lemma="knížectví">NNNP2-----A----</AM>
-<AM lemma="knížectví">NNNP4-----A----</AM>
-<AM lemma="knížectví">NNNP5-----A----</AM>
-<AM lemma="knížectví">NNNS1-----A----</AM>
-<AM lemma="knížectví">NNNS3-----A----</AM>
-<AM lemma="knížectví">NNNS4-----A----</AM>
-<AM lemma="knížectví">NNNS5-----A----</AM>
-<AM lemma="knížectví">NNNS6-----A----</AM>
+<AM lemma="knížectví" src="auto">NNNP1-----A----</AM>
+<AM lemma="knížectví" src="auto">NNNP2-----A----</AM>
+<AM lemma="knížectví" src="auto">NNNP4-----A----</AM>
+<AM lemma="knížectví" src="auto">NNNP5-----A----</AM>
+<AM lemma="knížectví" src="auto">NNNS1-----A----</AM>
+<AM lemma="knížectví" src="auto">NNNS3-----A----</AM>
+<AM lemma="knížectví" src="auto">NNNS4-----A----</AM>
+<AM lemma="knížectví" src="auto">NNNS5-----A----</AM>
+<AM lemma="knížectví" src="auto">NNNS6-----A----</AM>
 <AM lemma="knížectví" src="auto" recommended="1" selected="1">NNNS2-----A----</AM>
 </tag>
 </m>

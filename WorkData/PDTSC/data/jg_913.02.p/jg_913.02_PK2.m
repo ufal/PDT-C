@@ -4515,7 +4515,7 @@
 <form_change>spell</form_change>
 <form>luken</form>
 <tag>
-<AM lemma="luken">X@-------------</AM>
+<AM lemma="luken" src="auto">X@-------------</AM>
 <AM lemma="lukna" src="auto" recommended="1" selected="1">NNFP2-----A----</AM>
 </tag>
 </m>

@@ -1083,7 +1083,7 @@
 <form_change>spell</form_change>
 <form>mně</form>
 <tag>
-<AM lemma="já">PP-S3--1-------</AM>
+<AM lemma="já" src="auto">PP-S3--1-------</AM>
 <AM lemma="já" src="auto" recommended="1" selected="1">PP-S6--1-------</AM>
 </tag>
 </m>

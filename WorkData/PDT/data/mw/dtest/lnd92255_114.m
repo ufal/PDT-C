@@ -1013,7 +1013,7 @@
 <form_change>spell</form_change>
 <form>Švéd</form>
 <tag>
-<AM lemma="Švéd_;E">NNMS1-----A----</AM>
+<AM lemma="Švéd_;E" src="auto">NNMS1-----A----</AM>
 <AM lemma="Švédsko_:B_;G" src="auto" recommended="1">NNNXX-----A---8</AM>
 <AM lemma="Švédsko_;G" src="manual" selected="1">NNNXX-----A---b</AM>
 </tag>

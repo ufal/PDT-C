@@ -3433,7 +3433,7 @@
 <form_change>spell</form_change>
 <form>francouzštině</form>
 <tag>
-<AM lemma="francouzština">NNFS3-----A----</AM>
+<AM lemma="francouzština" src="auto">NNFS3-----A----</AM>
 <AM lemma="francouzština" src="auto" recommended="1" selected="1">NNFS6-----A----</AM>
 </tag>
 </m>
@@ -4390,8 +4390,8 @@
 <form_change>spell</form_change>
 <form>Leningradu</form>
 <tag>
-<AM lemma="Leningrad_;G">NNIS2-----A----</AM>
-<AM lemma="Leningrad_;G">NNIS3-----A----</AM>
+<AM lemma="Leningrad_;G" src="auto">NNIS2-----A----</AM>
+<AM lemma="Leningrad_;G" src="auto">NNIS3-----A----</AM>
 <AM lemma="Leningrad_;G" src="auto" recommended="1" selected="1">NNIS6-----A---1</AM>
 </tag>
 </m>

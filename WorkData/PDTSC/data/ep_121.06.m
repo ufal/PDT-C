@@ -612,7 +612,7 @@
 <form_change>spell</form_change>
 <form>Nachází</form>
 <tag>
-<AM lemma="nacházet">VB-P---3P-AAI-1</AM>
+<AM lemma="nacházet" src="auto">VB-P---3P-AAI-1</AM>
 <AM lemma="nacházet" src="auto" recommended="1" selected="1">VB-S---3P-AAI--</AM>
 </tag>
 </m>
@@ -980,7 +980,7 @@
 <form_change>spell</form_change>
 <form>vyhlíží</form>
 <tag>
-<AM lemma="vyhlížet">VB-P---3P-AAI-1</AM>
+<AM lemma="vyhlížet" src="auto">VB-P---3P-AAI-1</AM>
 <AM lemma="vyhlížet" src="auto" recommended="1" selected="1">VB-S---3P-AAI--</AM>
 </tag>
 </m>
@@ -4411,9 +4411,9 @@
 <form_change>spell</form_change>
 <form>vzpomínky</form>
 <tag>
-<AM lemma="vzpomínka">NNFP1-----A----</AM>
-<AM lemma="vzpomínka">NNFP5-----A----</AM>
-<AM lemma="vzpomínka">NNFS2-----A----</AM>
+<AM lemma="vzpomínka" src="auto">NNFP1-----A----</AM>
+<AM lemma="vzpomínka" src="auto">NNFP5-----A----</AM>
+<AM lemma="vzpomínka" src="auto">NNFS2-----A----</AM>
 <AM lemma="vzpomínka" src="auto" recommended="1" selected="1">NNFP4-----A----</AM>
 </tag>
 </m>

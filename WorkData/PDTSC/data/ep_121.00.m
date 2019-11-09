@@ -1371,10 +1371,10 @@
 <form_change>spell</form_change>
 <form>výjimečná</form>
 <tag>
-<AM lemma="výjimečný">AAFS5----1A----</AM>
-<AM lemma="výjimečný">AANP1----1A----</AM>
-<AM lemma="výjimečný">AANP4----1A----</AM>
-<AM lemma="výjimečný">AANP5----1A----</AM>
+<AM lemma="výjimečný" src="auto">AAFS5----1A----</AM>
+<AM lemma="výjimečný" src="auto">AANP1----1A----</AM>
+<AM lemma="výjimečný" src="auto">AANP4----1A----</AM>
+<AM lemma="výjimečný" src="auto">AANP5----1A----</AM>
 <AM lemma="výjimečný" src="auto" recommended="1" selected="1">AAFS1----1A----</AM>
 </tag>
 </m>

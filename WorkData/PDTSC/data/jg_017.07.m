@@ -3225,9 +3225,9 @@
 <form_change>spell</form_change>
 <form>týdenního</form>
 <tag>
-<AM lemma="týdenní">AAMS2----1A----</AM>
-<AM lemma="týdenní">AAMS4----1A----</AM>
-<AM lemma="týdenní">AANS2----1A----</AM>
+<AM lemma="týdenní" src="auto">AAMS2----1A----</AM>
+<AM lemma="týdenní" src="auto">AAMS4----1A----</AM>
+<AM lemma="týdenní" src="auto">AANS2----1A----</AM>
 <AM lemma="týdenní" src="auto" recommended="1" selected="1">AAIS2----1A----</AM>
 </tag>
 </m>

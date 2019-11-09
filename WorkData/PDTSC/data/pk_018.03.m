@@ -3008,7 +3008,7 @@
 <form_change>spell</form_change>
 <form>Vajsovně</form>
 <tag>
-<AM lemma="Vajsovna">NNFS3-----A----</AM>
+<AM lemma="Vajsovna" src="auto">NNFS3-----A----</AM>
 <AM lemma="Vajsovna" src="auto" recommended="1">NNFS6-----A----</AM>
 <AM lemma="Vajsovna_;G" src="manual" selected="1">NNFS6-----A----</AM>
 </tag>

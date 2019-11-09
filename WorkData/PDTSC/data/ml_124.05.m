@@ -5447,9 +5447,9 @@
 <form_change>spell</form_change>
 <form>Rijeky</form>
 <tag>
-<AM lemma="Rijeka_;G">NNFP1-----A----</AM>
-<AM lemma="Rijeka_;G">NNFP4-----A----</AM>
-<AM lemma="Rijeka_;G">NNFP5-----A----</AM>
+<AM lemma="Rijeka_;G" src="auto">NNFP1-----A----</AM>
+<AM lemma="Rijeka_;G" src="auto">NNFP4-----A----</AM>
+<AM lemma="Rijeka_;G" src="auto">NNFP5-----A----</AM>
 <AM lemma="Rijeka_;G" src="auto" recommended="1" selected="1">NNFS2-----A----</AM>
 </tag>
 </m>

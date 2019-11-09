@@ -37,9 +37,9 @@
 <form_change>spell</form_change>
 <form>Rakousko</form>
 <tag>
-<AM lemma="Rakousko_;G">NNNS4-----A----</AM>
-<AM lemma="Rakousko_;G">NNNS5-----A----</AM>
-<AM lemma="rakouský">A2--------A----</AM>
+<AM lemma="Rakousko_;G" src="auto">NNNS4-----A----</AM>
+<AM lemma="Rakousko_;G" src="auto">NNNS5-----A----</AM>
+<AM lemma="rakouský" src="auto">A2--------A----</AM>
 <AM lemma="Rakousko_;G" src="auto" recommended="1" selected="1">NNNS1-----A----</AM>
 </tag>
 </m>

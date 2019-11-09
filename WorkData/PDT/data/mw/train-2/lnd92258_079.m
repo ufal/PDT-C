@@ -3408,15 +3408,15 @@
 <form_change>spell</form_change>
 <form>VYDÍRÁNÍ</form>
 <tag>
-<AM lemma="vydírání_^(*3at)">NNNP1-----A----</AM>
-<AM lemma="vydírání_^(*3at)">NNNP2-----A----</AM>
-<AM lemma="vydírání_^(*3at)">NNNP4-----A----</AM>
-<AM lemma="vydírání_^(*3at)">NNNP5-----A----</AM>
-<AM lemma="vydírání_^(*3at)">NNNS2-----A----</AM>
-<AM lemma="vydírání_^(*3at)">NNNS3-----A----</AM>
-<AM lemma="vydírání_^(*3at)">NNNS4-----A----</AM>
-<AM lemma="vydírání_^(*3at)">NNNS5-----A----</AM>
-<AM lemma="vydírání_^(*3at)">NNNS6-----A----</AM>
+<AM lemma="vydírání_^(*3at)" src="auto">NNNP1-----A----</AM>
+<AM lemma="vydírání_^(*3at)" src="auto">NNNP2-----A----</AM>
+<AM lemma="vydírání_^(*3at)" src="auto">NNNP4-----A----</AM>
+<AM lemma="vydírání_^(*3at)" src="auto">NNNP5-----A----</AM>
+<AM lemma="vydírání_^(*3at)" src="auto">NNNS2-----A----</AM>
+<AM lemma="vydírání_^(*3at)" src="auto">NNNS3-----A----</AM>
+<AM lemma="vydírání_^(*3at)" src="auto">NNNS4-----A----</AM>
+<AM lemma="vydírání_^(*3at)" src="auto">NNNS5-----A----</AM>
+<AM lemma="vydírání_^(*3at)" src="auto">NNNS6-----A----</AM>
 <AM lemma="vydírání_^(*3at)" src="auto" recommended="1" selected="1">NNNS1-----A----</AM>
 </tag>
 </m>

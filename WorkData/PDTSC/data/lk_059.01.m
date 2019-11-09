@@ -5108,10 +5108,10 @@
 <form_change>spell</form_change>
 <form>ajznboňácká</form>
 <tag>
-<AM lemma="ajznboňácký_,l">AAFS5----1A----</AM>
-<AM lemma="ajznboňácký_,l">AANP1----1A----</AM>
-<AM lemma="ajznboňácký_,l">AANP4----1A----</AM>
-<AM lemma="ajznboňácký_,l">AANP5----1A----</AM>
+<AM lemma="ajznboňácký_,l" src="auto">AAFS5----1A----</AM>
+<AM lemma="ajznboňácký_,l" src="auto">AANP1----1A----</AM>
+<AM lemma="ajznboňácký_,l" src="auto">AANP4----1A----</AM>
+<AM lemma="ajznboňácký_,l" src="auto">AANP5----1A----</AM>
 <AM lemma="ajznboňácký_,l" src="auto" recommended="1" selected="1">AAFS1----1A----</AM>
 </tag>
 </m>

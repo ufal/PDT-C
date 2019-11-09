@@ -6047,34 +6047,34 @@
 <form_change>spell</form_change>
 <form>prací</form>
 <tag>
-<AM lemma="prací">AAFP1----1A----</AM>
-<AM lemma="prací">AAFP4----1A----</AM>
-<AM lemma="prací">AAFP5----1A----</AM>
-<AM lemma="prací">AAFS1----1A----</AM>
-<AM lemma="prací">AAFS2----1A----</AM>
-<AM lemma="prací">AAFS3----1A----</AM>
-<AM lemma="prací">AAFS4----1A----</AM>
-<AM lemma="prací">AAFS5----1A----</AM>
-<AM lemma="prací">AAFS6----1A----</AM>
-<AM lemma="prací">AAFS7----1A----</AM>
-<AM lemma="prací">AAIP1----1A----</AM>
-<AM lemma="prací">AAIP4----1A----</AM>
-<AM lemma="prací">AAIP5----1A----</AM>
-<AM lemma="prací">AAIS1----1A----</AM>
-<AM lemma="prací">AAIS4----1A----</AM>
-<AM lemma="prací">AAIS5----1A----</AM>
-<AM lemma="prací">AAMP1----1A----</AM>
-<AM lemma="prací">AAMP4----1A----</AM>
-<AM lemma="prací">AAMP5----1A----</AM>
-<AM lemma="prací">AAMS1----1A----</AM>
-<AM lemma="prací">AAMS5----1A----</AM>
-<AM lemma="prací">AANP1----1A----</AM>
-<AM lemma="prací">AANP4----1A----</AM>
-<AM lemma="prací">AANP5----1A----</AM>
-<AM lemma="prací">AANS1----1A----</AM>
-<AM lemma="prací">AANS4----1A----</AM>
-<AM lemma="prací">AANS5----1A----</AM>
-<AM lemma="práce_^(jako_činnost_i_místo)">NNFS7-----A----</AM>
+<AM lemma="prací" src="auto">AAFP1----1A----</AM>
+<AM lemma="prací" src="auto">AAFP4----1A----</AM>
+<AM lemma="prací" src="auto">AAFP5----1A----</AM>
+<AM lemma="prací" src="auto">AAFS1----1A----</AM>
+<AM lemma="prací" src="auto">AAFS2----1A----</AM>
+<AM lemma="prací" src="auto">AAFS3----1A----</AM>
+<AM lemma="prací" src="auto">AAFS4----1A----</AM>
+<AM lemma="prací" src="auto">AAFS5----1A----</AM>
+<AM lemma="prací" src="auto">AAFS6----1A----</AM>
+<AM lemma="prací" src="auto">AAFS7----1A----</AM>
+<AM lemma="prací" src="auto">AAIP1----1A----</AM>
+<AM lemma="prací" src="auto">AAIP4----1A----</AM>
+<AM lemma="prací" src="auto">AAIP5----1A----</AM>
+<AM lemma="prací" src="auto">AAIS1----1A----</AM>
+<AM lemma="prací" src="auto">AAIS4----1A----</AM>
+<AM lemma="prací" src="auto">AAIS5----1A----</AM>
+<AM lemma="prací" src="auto">AAMP1----1A----</AM>
+<AM lemma="prací" src="auto">AAMP4----1A----</AM>
+<AM lemma="prací" src="auto">AAMP5----1A----</AM>
+<AM lemma="prací" src="auto">AAMS1----1A----</AM>
+<AM lemma="prací" src="auto">AAMS5----1A----</AM>
+<AM lemma="prací" src="auto">AANP1----1A----</AM>
+<AM lemma="prací" src="auto">AANP4----1A----</AM>
+<AM lemma="prací" src="auto">AANP5----1A----</AM>
+<AM lemma="prací" src="auto">AANS1----1A----</AM>
+<AM lemma="prací" src="auto">AANS4----1A----</AM>
+<AM lemma="prací" src="auto">AANS5----1A----</AM>
+<AM lemma="práce_^(jako_činnost_i_místo)" src="auto">NNFS7-----A----</AM>
 <AM lemma="práce_^(jako_činnost_i_místo)" src="auto" recommended="1" selected="1">NNFP2-----A----</AM>
 </tag>
 </m>

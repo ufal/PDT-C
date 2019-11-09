@@ -2927,10 +2927,10 @@
 <form_change>spell</form_change>
 <form>Bryce</form>
 <tag>
-<AM lemma="Bryce_;S">NNMP4-----A----</AM>
-<AM lemma="Bryce_;S">NNMS2-----A----</AM>
-<AM lemma="Bryce_;S">NNMS4-----A----</AM>
-<AM lemma="Bryce_;S">NNMS5-----A----</AM>
+<AM lemma="Bryce_;S" src="auto">NNMP4-----A----</AM>
+<AM lemma="Bryce_;S" src="auto">NNMS2-----A----</AM>
+<AM lemma="Bryce_;S" src="auto">NNMS4-----A----</AM>
+<AM lemma="Bryce_;S" src="auto">NNMS5-----A----</AM>
 <AM lemma="Bryce_;S" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Bryce-2_;G" src="manual" selected="1">NNIXX-----A----</AM>
 </tag>
@@ -4507,9 +4507,9 @@
 <form_change>spell</form_change>
 <form>Poláci</form>
 <tag>
-<AM lemma="Polák_;E">NNMP5-----A----</AM>
-<AM lemma="polák-1_;L">NNMP1-----A----</AM>
-<AM lemma="polák-1_;L">NNMP5-----A----</AM>
+<AM lemma="Polák_;E" src="auto">NNMP5-----A----</AM>
+<AM lemma="polák-1_;L" src="auto">NNMP1-----A----</AM>
+<AM lemma="polák-1_;L" src="auto">NNMP5-----A----</AM>
 <AM lemma="Polák_;E" src="auto" recommended="1" selected="1">NNMP1-----A----</AM>
 </tag>
 </m>

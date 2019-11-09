@@ -240,18 +240,18 @@
 <form_change>spell</form_change>
 <form>romantické</form>
 <tag>
-<AM lemma="romantický">AAFP1----1A----</AM>
-<AM lemma="romantický">AAFP4----1A----</AM>
-<AM lemma="romantický">AAFP5----1A----</AM>
-<AM lemma="romantický">AAFS2----1A----</AM>
-<AM lemma="romantický">AAFS3----1A----</AM>
-<AM lemma="romantický">AAFS6----1A----</AM>
-<AM lemma="romantický">AAIP1----1A----</AM>
-<AM lemma="romantický">AAIP4----1A----</AM>
-<AM lemma="romantický">AAIP5----1A----</AM>
-<AM lemma="romantický">AAMP4----1A----</AM>
-<AM lemma="romantický">AANS4----1A----</AM>
-<AM lemma="romantický">AANS5----1A----</AM>
+<AM lemma="romantický" src="auto">AAFP1----1A----</AM>
+<AM lemma="romantický" src="auto">AAFP4----1A----</AM>
+<AM lemma="romantický" src="auto">AAFP5----1A----</AM>
+<AM lemma="romantický" src="auto">AAFS2----1A----</AM>
+<AM lemma="romantický" src="auto">AAFS3----1A----</AM>
+<AM lemma="romantický" src="auto">AAFS6----1A----</AM>
+<AM lemma="romantický" src="auto">AAIP1----1A----</AM>
+<AM lemma="romantický" src="auto">AAIP4----1A----</AM>
+<AM lemma="romantický" src="auto">AAIP5----1A----</AM>
+<AM lemma="romantický" src="auto">AAMP4----1A----</AM>
+<AM lemma="romantický" src="auto">AANS4----1A----</AM>
+<AM lemma="romantický" src="auto">AANS5----1A----</AM>
 <AM lemma="romantický" src="auto" recommended="1" selected="1">AANS1----1A----</AM>
 </tag>
 </m>

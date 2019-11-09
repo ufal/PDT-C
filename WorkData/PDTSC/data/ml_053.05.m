@@ -3432,9 +3432,9 @@
 <form_change>spell</form_change>
 <form>Telemannovi</form>
 <tag>
-<AM lemma="Telemann_;S">NNMS6-----A----</AM>
-<AM lemma="Telemannův_;S_^(*2)" selected="1">AUMP1M---------</AM>
-<AM lemma="Telemannův_;S_^(*2)">AUMP5M---------</AM>
+<AM lemma="Telemann_;S" src="auto">NNMS6-----A----</AM>
+<AM lemma="Telemannův_;S_^(*2)" selected="1" src="auto">AUMP1M---------</AM>
+<AM lemma="Telemannův_;S_^(*2)" src="auto">AUMP5M---------</AM>
 <AM lemma="Telemann_;S" src="auto" recommended="1">NNMS3-----A----</AM>
 </tag>
 </m>

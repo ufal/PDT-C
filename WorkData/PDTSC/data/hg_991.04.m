@@ -1014,7 +1014,7 @@
 <form_change>spell</form_change>
 <form>Vagonlin</form>
 <tag>
-<AM lemma="Vagonlin">X@-------------</AM>
+<AM lemma="Vagonlin" src="auto">X@-------------</AM>
 <AM lemma="Vagonlina" src="auto" recommended="1">NNFP2-----A----</AM>
 <AM lemma="Vagonlin-77" src="manual" selected="1">F%-------------</AM>
 </tag>

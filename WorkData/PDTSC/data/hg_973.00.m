@@ -1462,8 +1462,8 @@
 <form_change>spell</form_change>
 <form>gouvernementu</form>
 <tag>
-<AM lemma="gouvernement">NNIS3-----A----</AM>
-<AM lemma="gouvernement">NNIS6-----A---1</AM>
+<AM lemma="gouvernement" src="auto">NNIS3-----A----</AM>
+<AM lemma="gouvernement" src="auto">NNIS6-----A---1</AM>
 <AM lemma="gouvernement" src="auto" recommended="1" selected="1">NNIS2-----A----</AM>
 </tag>
 </m>

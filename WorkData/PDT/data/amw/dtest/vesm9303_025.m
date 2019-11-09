@@ -1836,8 +1836,8 @@
 <w.rf>
 <LM>w#w-vesm9303-025-p5s1w15</LM>
 </w.rf>
-<form>></form>
-<tag lemma=">" src="orig" selected="1">Z:-------------</tag>
+<form>&gt;</form>
+<tag lemma="&gt;" src="orig" selected="1">Z:-------------</tag>
 </m>
 <m id="m-vesm9303-025-p5s1w16">
 <src.rf>manual</src.rf>
@@ -3837,8 +3837,8 @@
 <w.rf>
 <LM>w#w-vesm9303-025-p11s6w3</LM>
 </w.rf>
-<form>></form>
-<tag lemma=">" src="orig" selected="1">Z:-------------</tag>
+<form>&gt;</form>
+<tag lemma="&gt;" src="orig" selected="1">Z:-------------</tag>
 </m>
 <m id="m-vesm9303-025-p11s6w4">
 <src.rf>manual</src.rf>

@@ -2771,7 +2771,7 @@
 <form_change>spell</form_change>
 <form>Koi</form>
 <tag>
-<AM lemma="Koi">X@-------------</AM>
+<AM lemma="Koi" src="auto">X@-------------</AM>
 <AM lemma="koi" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="koi" src="manual" selected="1">AAXXX----1A----</AM>
 </tag>

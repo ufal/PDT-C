@@ -3232,7 +3232,7 @@
 <form_change>spell</form_change>
 <form>známost</form>
 <tag>
-<AM lemma="známost-2_^(co_známe)_(*5ý-2)">NNFS4-----A----</AM>
+<AM lemma="známost-2_^(co_známe)_(*5ý-2)" src="auto">NNFS4-----A----</AM>
 <AM lemma="známost-2_^(co_známe)_(*5ý-2)" src="auto" recommended="1" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>

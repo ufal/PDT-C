@@ -2416,7 +2416,7 @@
 <form_change>spell</form_change>
 <form>Königsstuhl</form>
 <tag>
-<AM lemma="Königsstuhl">X@-------------</AM>
+<AM lemma="Königsstuhl" src="auto">X@-------------</AM>
 <AM lemma="Königsstuhl" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Königsstuhl_;G" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>

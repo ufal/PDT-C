@@ -2427,17 +2427,17 @@
 <form_change>spell</form_change>
 <form>porozumění</form>
 <tag>
-<AM lemma="porozuměný_^(*2t)">AAMP1----1A----</AM>
-<AM lemma="porozuměný_^(*2t)">AAMP5----1A----</AM>
-<AM lemma="porozumění_^(*2t)">NNNP1-----A----</AM>
-<AM lemma="porozumění_^(*2t)">NNNP2-----A----</AM>
-<AM lemma="porozumění_^(*2t)">NNNP4-----A----</AM>
-<AM lemma="porozumění_^(*2t)">NNNP5-----A----</AM>
-<AM lemma="porozumění_^(*2t)">NNNS1-----A----</AM>
-<AM lemma="porozumění_^(*2t)">NNNS2-----A----</AM>
-<AM lemma="porozumění_^(*2t)">NNNS3-----A----</AM>
-<AM lemma="porozumění_^(*2t)">NNNS5-----A----</AM>
-<AM lemma="porozumění_^(*2t)">NNNS6-----A----</AM>
+<AM lemma="porozuměný_^(*2t)" src="auto">AAMP1----1A----</AM>
+<AM lemma="porozuměný_^(*2t)" src="auto">AAMP5----1A----</AM>
+<AM lemma="porozumění_^(*2t)" src="auto">NNNP1-----A----</AM>
+<AM lemma="porozumění_^(*2t)" src="auto">NNNP2-----A----</AM>
+<AM lemma="porozumění_^(*2t)" src="auto">NNNP4-----A----</AM>
+<AM lemma="porozumění_^(*2t)" src="auto">NNNP5-----A----</AM>
+<AM lemma="porozumění_^(*2t)" src="auto">NNNS1-----A----</AM>
+<AM lemma="porozumění_^(*2t)" src="auto">NNNS2-----A----</AM>
+<AM lemma="porozumění_^(*2t)" src="auto">NNNS3-----A----</AM>
+<AM lemma="porozumění_^(*2t)" src="auto">NNNS5-----A----</AM>
+<AM lemma="porozumění_^(*2t)" src="auto">NNNS6-----A----</AM>
 <AM lemma="porozumění_^(*2t)" src="auto" recommended="1" selected="1">NNNS4-----A----</AM>
 </tag>
 </m>
@@ -3343,10 +3343,10 @@
 <form_change>spell</form_change>
 <form>chlapci</form>
 <tag>
-<AM lemma="chlapec">NNMP1-----A----</AM>
-<AM lemma="chlapec">NNMP5-----A----</AM>
-<AM lemma="chlapec">NNMP7-----A----</AM>
-<AM lemma="chlapec">NNMS6-----A----</AM>
+<AM lemma="chlapec" src="auto">NNMP1-----A----</AM>
+<AM lemma="chlapec" src="auto">NNMP5-----A----</AM>
+<AM lemma="chlapec" src="auto">NNMP7-----A----</AM>
+<AM lemma="chlapec" src="auto">NNMS6-----A----</AM>
 <AM lemma="chlapec" src="auto" recommended="1" selected="1">NNMS3-----A----</AM>
 </tag>
 </m>

@@ -3396,9 +3396,9 @@
 <form_change>spell</form_change>
 <form>francouzštiny</form>
 <tag>
-<AM lemma="francouzština">NNFP1-----A----</AM>
-<AM lemma="francouzština">NNFP4-----A----</AM>
-<AM lemma="francouzština">NNFP5-----A----</AM>
+<AM lemma="francouzština" src="auto">NNFP1-----A----</AM>
+<AM lemma="francouzština" src="auto">NNFP4-----A----</AM>
+<AM lemma="francouzština" src="auto">NNFP5-----A----</AM>
 <AM lemma="francouzština" src="auto" recommended="1" selected="1">NNFS2-----A----</AM>
 </tag>
 </m>

@@ -1850,15 +1850,15 @@
 <form_change>spell</form_change>
 <form>elektrickým</form>
 <tag>
-<AM lemma="elektrický">AAFP3----1A----</AM>
-<AM lemma="elektrický">AAIP3----1A----</AM>
-<AM lemma="elektrický">AAIS6----1A---7</AM>
-<AM lemma="elektrický">AAIS7----1A----</AM>
-<AM lemma="elektrický">AAMP3----1A----</AM>
-<AM lemma="elektrický">AAMS6----1A---7</AM>
-<AM lemma="elektrický">AAMS7----1A----</AM>
-<AM lemma="elektrický">AANP3----1A----</AM>
-<AM lemma="elektrický">AANS6----1A---7</AM>
+<AM lemma="elektrický" src="auto">AAFP3----1A----</AM>
+<AM lemma="elektrický" src="auto">AAIP3----1A----</AM>
+<AM lemma="elektrický" src="auto">AAIS6----1A---7</AM>
+<AM lemma="elektrický" src="auto">AAIS7----1A----</AM>
+<AM lemma="elektrický" src="auto">AAMP3----1A----</AM>
+<AM lemma="elektrický" src="auto">AAMS6----1A---7</AM>
+<AM lemma="elektrický" src="auto">AAMS7----1A----</AM>
+<AM lemma="elektrický" src="auto">AANP3----1A----</AM>
+<AM lemma="elektrický" src="auto">AANS6----1A---7</AM>
 <AM lemma="elektrický" src="auto" recommended="1" selected="1">AANS7----1A----</AM>
 </tag>
 </m>
@@ -2833,7 +2833,7 @@
 <tag lemma="?" src="auto" recommended="1">Z:-------------</tag>
 </m>
 </s>
-<s id="m-26171_01-d1e1071-x4"></s>
+<s id="m-26171_01-d1e1071-x4"/>
 <s id="m-26171_01-1056">
 <m id="m711-d1t1091-2">
 <w.rf>

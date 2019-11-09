@@ -4136,9 +4136,9 @@
 <form_change>spell</form_change>
 <form>sexty</form>
 <tag>
-<AM lemma="sexta">NNFP1-----A----</AM>
-<AM lemma="sexta">NNFP4-----A----</AM>
-<AM lemma="sexta">NNFP5-----A----</AM>
+<AM lemma="sexta" src="auto">NNFP1-----A----</AM>
+<AM lemma="sexta" src="auto">NNFP4-----A----</AM>
+<AM lemma="sexta" src="auto">NNFP5-----A----</AM>
 <AM lemma="sexta" src="auto" recommended="1" selected="1">NNFS2-----A----</AM>
 </tag>
 </m>

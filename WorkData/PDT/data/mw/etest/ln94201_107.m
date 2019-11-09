@@ -4131,22 +4131,22 @@
 <form_change>spell</form_change>
 <form>A</form>
 <tag>
-<AM lemma="A-0_:B_;Y">NNFXX-----A---8</AM>
-<AM lemma="A-0_:B_;Y">NNMXX-----A---8</AM>
-<AM lemma="A-0_:B_;Y">NNXXX-----A---8</AM>
-<AM lemma="A-1`ampér_:B">NNIXX-----A---8</AM>
-<AM lemma="A-4_:B_;K">AAXXX----1A---8</AM>
-<AM lemma="A-5_:B_;G">AAXXX----1A---8</AM>
-<AM lemma="A-6_:B_;R">NNXXX-----A---8</AM>
-<AM lemma="A-9_:B_;S">NNFXX-----A---8</AM>
-<AM lemma="A-9_:B_;S">NNMXX-----A---8</AM>
-<AM lemma="A-9_:B_;S">NNXXX-----A---8</AM>
-<AM lemma="a-2_,t_^(angl._neurč._člen)">AAXXX----1A----</AM>
-<AM lemma="a-3_^(označení_pomocí_písmene)">NNNXX-----A----</AM>
-<AM lemma="a-4_,t_^(př._a_la)">RR--1----------</AM>
-<AM lemma="a-8_:B_^(ost._zkratka)">XX------------8</AM>
-<AM lemma="akciový_:B_^(jen_akciová_společnost)">AAXXX----1A---8</AM>
-<AM lemma="á_,t">RF------------1</AM>
+<AM lemma="A-0_:B_;Y" src="auto">NNFXX-----A---8</AM>
+<AM lemma="A-0_:B_;Y" src="auto">NNMXX-----A---8</AM>
+<AM lemma="A-0_:B_;Y" src="auto">NNXXX-----A---8</AM>
+<AM lemma="A-1`ampér_:B" src="auto">NNIXX-----A---8</AM>
+<AM lemma="A-4_:B_;K" src="auto">AAXXX----1A---8</AM>
+<AM lemma="A-5_:B_;G" src="auto">AAXXX----1A---8</AM>
+<AM lemma="A-6_:B_;R" src="auto">NNXXX-----A---8</AM>
+<AM lemma="A-9_:B_;S" src="auto">NNFXX-----A---8</AM>
+<AM lemma="A-9_:B_;S" src="auto">NNMXX-----A---8</AM>
+<AM lemma="A-9_:B_;S" src="auto">NNXXX-----A---8</AM>
+<AM lemma="a-2_,t_^(angl._neurč._člen)" src="auto">AAXXX----1A----</AM>
+<AM lemma="a-3_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
+<AM lemma="a-4_,t_^(př._a_la)" src="auto">RR--1----------</AM>
+<AM lemma="a-8_:B_^(ost._zkratka)" src="auto">XX------------8</AM>
+<AM lemma="akciový_:B_^(jen_akciová_společnost)" src="auto">AAXXX----1A---8</AM>
+<AM lemma="á_,t" src="auto">RF------------1</AM>
 <AM lemma="a-1" src="auto" recommended="1" selected="1">J^-------------</AM>
 </tag>
 </m>

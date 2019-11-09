@@ -3540,32 +3540,32 @@
 <form_change>spell</form_change>
 <form>slušnější</form>
 <tag>
-<AM lemma="slušný">AAFP1----2A----</AM>
-<AM lemma="slušný">AAFP4----2A----</AM>
-<AM lemma="slušný">AAFP5----2A----</AM>
-<AM lemma="slušný">AAFS1----2A----</AM>
-<AM lemma="slušný">AAFS2----2A----</AM>
-<AM lemma="slušný">AAFS3----2A----</AM>
-<AM lemma="slušný">AAFS4----2A----</AM>
-<AM lemma="slušný">AAFS5----2A----</AM>
-<AM lemma="slušný">AAFS6----2A----</AM>
-<AM lemma="slušný">AAFS7----2A----</AM>
-<AM lemma="slušný">AAIP1----2A----</AM>
-<AM lemma="slušný">AAIP4----2A----</AM>
-<AM lemma="slušný">AAIP5----2A----</AM>
-<AM lemma="slušný">AAIS1----2A----</AM>
-<AM lemma="slušný">AAIS4----2A----</AM>
-<AM lemma="slušný">AAIS5----2A----</AM>
-<AM lemma="slušný">AAMP1----2A----</AM>
-<AM lemma="slušný">AAMP4----2A----</AM>
-<AM lemma="slušný">AAMP5----2A----</AM>
-<AM lemma="slušný">AAMS1----2A----</AM>
-<AM lemma="slušný">AAMS5----2A----</AM>
-<AM lemma="slušný">AANP1----2A----</AM>
-<AM lemma="slušný">AANP4----2A----</AM>
-<AM lemma="slušný">AANP5----2A----</AM>
-<AM lemma="slušný">AANS1----2A----</AM>
-<AM lemma="slušný">AANS5----2A----</AM>
+<AM lemma="slušný" src="auto">AAFP1----2A----</AM>
+<AM lemma="slušný" src="auto">AAFP4----2A----</AM>
+<AM lemma="slušný" src="auto">AAFP5----2A----</AM>
+<AM lemma="slušný" src="auto">AAFS1----2A----</AM>
+<AM lemma="slušný" src="auto">AAFS2----2A----</AM>
+<AM lemma="slušný" src="auto">AAFS3----2A----</AM>
+<AM lemma="slušný" src="auto">AAFS4----2A----</AM>
+<AM lemma="slušný" src="auto">AAFS5----2A----</AM>
+<AM lemma="slušný" src="auto">AAFS6----2A----</AM>
+<AM lemma="slušný" src="auto">AAFS7----2A----</AM>
+<AM lemma="slušný" src="auto">AAIP1----2A----</AM>
+<AM lemma="slušný" src="auto">AAIP4----2A----</AM>
+<AM lemma="slušný" src="auto">AAIP5----2A----</AM>
+<AM lemma="slušný" src="auto">AAIS1----2A----</AM>
+<AM lemma="slušný" src="auto">AAIS4----2A----</AM>
+<AM lemma="slušný" src="auto">AAIS5----2A----</AM>
+<AM lemma="slušný" src="auto">AAMP1----2A----</AM>
+<AM lemma="slušný" src="auto">AAMP4----2A----</AM>
+<AM lemma="slušný" src="auto">AAMP5----2A----</AM>
+<AM lemma="slušný" src="auto">AAMS1----2A----</AM>
+<AM lemma="slušný" src="auto">AAMS5----2A----</AM>
+<AM lemma="slušný" src="auto">AANP1----2A----</AM>
+<AM lemma="slušný" src="auto">AANP4----2A----</AM>
+<AM lemma="slušný" src="auto">AANP5----2A----</AM>
+<AM lemma="slušný" src="auto">AANS1----2A----</AM>
+<AM lemma="slušný" src="auto">AANS5----2A----</AM>
 <AM lemma="slušný" src="auto" recommended="1" selected="1">AANS4----2A----</AM>
 </tag>
 </m>

@@ -787,7 +787,7 @@
 <form_change>spell</form_change>
 <form>sokolů</form>
 <tag>
-<AM lemma="sokol-2_;K_^(organizace)">NNIP2-----A----</AM>
+<AM lemma="sokol-2_;K_^(organizace)" src="auto">NNIP2-----A----</AM>
 <AM lemma="sokol-1_;L_^(pták)" src="auto" recommended="1">NNMP2-----A----</AM>
 <AM lemma="sokol-1" src="manual" selected="1">NNMP2-----A----</AM>
 </tag>

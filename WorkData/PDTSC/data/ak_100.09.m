@@ -273,8 +273,8 @@
 <form_change>spell</form_change>
 <form>Purše</form>
 <tag>
-<AM lemma="Purš_;S">NNMP4-----A----</AM>
-<AM lemma="Purš_;S">NNMS2-----A----</AM>
+<AM lemma="Purš_;S" src="auto">NNMP4-----A----</AM>
+<AM lemma="Purš_;S" src="auto">NNMS2-----A----</AM>
 <AM lemma="Purš_;S" src="auto" recommended="1" selected="1">NNMS4-----A----</AM>
 </tag>
 </m>

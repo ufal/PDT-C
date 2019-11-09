@@ -4510,10 +4510,10 @@
 <form_change>spell</form_change>
 <form>v</form>
 <tag>
-<AM lemma="v-1">RR--4----------</AM>
-<AM lemma="v-33_^(označení_pomocí_písmene)">NNNXX-----A----</AM>
-<AM lemma="v-88_:B">NNXXX-----A----</AM>
-<AM lemma="versus_:B">RR--1---------9</AM>
+<AM lemma="v-1" src="auto">RR--4----------</AM>
+<AM lemma="v-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
+<AM lemma="v-88_:B" src="auto">NNXXX-----A----</AM>
+<AM lemma="versus_:B" src="auto">RR--1---------9</AM>
 <AM lemma="v-1" src="auto" recommended="1" selected="1">RR--6----------</AM>
 </tag>
 </m>

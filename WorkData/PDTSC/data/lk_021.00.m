@@ -5283,7 +5283,7 @@
 <form_change>spell</form_change>
 <form>slévárně</form>
 <tag>
-<AM lemma="slévárna">NNFS3-----A----</AM>
+<AM lemma="slévárna" src="auto">NNFS3-----A----</AM>
 <AM lemma="slévárna" src="auto" recommended="1" selected="1">NNFS6-----A----</AM>
 </tag>
 </m>

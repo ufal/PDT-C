@@ -56,13 +56,13 @@
 <form_change>spell</form_change>
 <form>magdeburských</form>
 <tag>
-<AM lemma="magdeburský">AAFP2----1A----</AM>
-<AM lemma="magdeburský">AAFP6----1A----</AM>
-<AM lemma="magdeburský">AAIP2----1A----</AM>
-<AM lemma="magdeburský">AAIP6----1A----</AM>
-<AM lemma="magdeburský">AAMP2----1A----</AM>
-<AM lemma="magdeburský">AAMP6----1A----</AM>
-<AM lemma="magdeburský">AANP2----1A----</AM>
+<AM lemma="magdeburský" src="auto">AAFP2----1A----</AM>
+<AM lemma="magdeburský" src="auto">AAFP6----1A----</AM>
+<AM lemma="magdeburský" src="auto">AAIP2----1A----</AM>
+<AM lemma="magdeburský" src="auto">AAIP6----1A----</AM>
+<AM lemma="magdeburský" src="auto">AAMP2----1A----</AM>
+<AM lemma="magdeburský" src="auto">AAMP6----1A----</AM>
+<AM lemma="magdeburský" src="auto">AANP2----1A----</AM>
 <AM lemma="magdeburský" src="auto" recommended="1" selected="1">AANP6----1A----</AM>
 </tag>
 </m>
@@ -1715,7 +1715,7 @@
 <form_change>spell</form_change>
 <form>heim</form>
 <tag>
-<AM lemma="heim">X@-------------</AM>
+<AM lemma="heim" src="auto">X@-------------</AM>
 <AM lemma="heim" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="heim" src="manual">NNIS1-----A----</AM>
 <AM lemma="heim" src="manual" selected="1">NNIS1-----A----</AM>

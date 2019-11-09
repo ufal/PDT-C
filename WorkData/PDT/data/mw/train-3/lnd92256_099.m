@@ -3205,9 +3205,9 @@
 <form_change>spell</form_change>
 <form>sezóny</form>
 <tag>
-<AM lemma="sezóna">NNFP1-----A----</AM>
-<AM lemma="sezóna">NNFP4-----A----</AM>
-<AM lemma="sezóna">NNFP5-----A----</AM>
+<AM lemma="sezóna" src="auto">NNFP1-----A----</AM>
+<AM lemma="sezóna" src="auto">NNFP4-----A----</AM>
+<AM lemma="sezóna" src="auto">NNFP5-----A----</AM>
 <AM lemma="sezóna" src="auto" recommended="1" selected="1">NNFS2-----A----</AM>
 </tag>
 </m>

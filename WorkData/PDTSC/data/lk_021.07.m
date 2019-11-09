@@ -1689,9 +1689,9 @@
 <form_change>spell</form_change>
 <form>zajímavého</form>
 <tag>
-<AM lemma="zajímavý">AAIS2----1A----</AM>
-<AM lemma="zajímavý">AAMS2----1A----</AM>
-<AM lemma="zajímavý">AAMS4----1A----</AM>
+<AM lemma="zajímavý" src="auto">AAIS2----1A----</AM>
+<AM lemma="zajímavý" src="auto">AAMS2----1A----</AM>
+<AM lemma="zajímavý" src="auto">AAMS4----1A----</AM>
 <AM lemma="zajímavý" src="auto" recommended="1" selected="1">AANS2----1A----</AM>
 </tag>
 </m>

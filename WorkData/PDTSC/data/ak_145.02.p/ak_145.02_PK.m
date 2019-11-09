@@ -2079,8 +2079,8 @@
 <form_change>spell</form_change>
 <form>Žalém</form>
 <tag>
-<AM lemma="Žalé_;S">NNMS6-----A----</AM>
-<AM lemma="Žalé_;S">NNMS7-----A----</AM>
+<AM lemma="Žalé_;S" src="auto">NNMS6-----A----</AM>
+<AM lemma="Žalé_;S" src="auto">NNMS7-----A----</AM>
 <AM lemma="Žalý_;G" src="auto" recommended="1">NNIS6-----A----</AM>
 </tag>
 </m>

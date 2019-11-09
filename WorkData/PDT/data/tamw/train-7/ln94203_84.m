@@ -473,11 +473,11 @@
 <form_change>spell</form_change>
 <form>Katyni</form>
 <tag>
-<AM lemma="Katyň_;G">NNFS3-----A----</AM>
-<AM lemma="Katyň_;G">NNFS5-----A----</AM>
-<AM lemma="Katyně_;G">NNFS3-----A----</AM>
-<AM lemma="Katyně_;G">NNFS4-----A----</AM>
-<AM lemma="Katyně_;G">NNFS6-----A----</AM>
+<AM lemma="Katyň_;G" src="auto">NNFS3-----A----</AM>
+<AM lemma="Katyň_;G" src="auto">NNFS5-----A----</AM>
+<AM lemma="Katyně_;G" src="auto">NNFS3-----A----</AM>
+<AM lemma="Katyně_;G" src="auto">NNFS4-----A----</AM>
+<AM lemma="Katyně_;G" src="auto">NNFS6-----A----</AM>
 <AM lemma="Katyň_;G" src="auto" recommended="1" selected="1">NNFS6-----A----</AM>
 </tag>
 </m>

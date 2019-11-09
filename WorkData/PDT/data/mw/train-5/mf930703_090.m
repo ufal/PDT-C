@@ -2707,8 +2707,8 @@
 <form_change>spell</form_change>
 <form>škole</form>
 <tag>
-<AM lemma="škola">NNFS3-----A----</AM>
-<AM lemma="školit_:T">VeYS------A----</AM>
+<AM lemma="škola" src="auto">NNFS3-----A----</AM>
+<AM lemma="školit_:T" src="auto">VeYS------A----</AM>
 <AM lemma="škola" src="auto" recommended="1" selected="1">NNFS6-----A----</AM>
 </tag>
 </m>

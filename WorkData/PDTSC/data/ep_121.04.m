@@ -3102,8 +3102,8 @@
 <form_change>spell</form_change>
 <form>se</form>
 <tag>
-<AM lemma="s-1">RV--2----------</AM>
-<AM lemma="s-1">RV--7----------</AM>
+<AM lemma="s-1" src="auto">RV--2----------</AM>
+<AM lemma="s-1" src="auto">RV--7----------</AM>
 <AM lemma="se_^(zvr._zájmeno/částice)" src="auto" recommended="1" selected="1">P7-X4----------</AM>
 </tag>
 </m>

@@ -2180,7 +2180,7 @@
 <form_change>spell</form_change>
 <form>peďák</form>
 <tag>
-<AM lemma="peďák_,h_^(pedagogická_fakulta)">NNIS1-----A----</AM>
+<AM lemma="peďák_,h_^(pedagogická_fakulta)" src="auto">NNIS1-----A----</AM>
 <AM lemma="peďák_,h_^(pedagogická_fakulta)" src="auto" recommended="1" selected="1">NNIS4-----A----</AM>
 </tag>
 </m>

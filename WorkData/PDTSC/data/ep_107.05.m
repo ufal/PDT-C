@@ -1639,8 +1639,8 @@
 <form_change>spell</form_change>
 <form>oběma</form>
 <tag>
-<AM lemma="oba`2">ClFD7----------</AM>
-<AM lemma="oba`2">ClXP3----------</AM>
+<AM lemma="oba`2" src="auto">ClFD7----------</AM>
+<AM lemma="oba`2" src="auto">ClXP3----------</AM>
 <AM lemma="oba`2" src="auto" recommended="1" selected="1">ClXP7----------</AM>
 </tag>
 </m>
@@ -6170,13 +6170,13 @@
 <form_change>spell</form_change>
 <form>krkonošských</form>
 <tag>
-<AM lemma="krkonošský">AAFP2----1A----</AM>
-<AM lemma="krkonošský">AAFP6----1A----</AM>
-<AM lemma="krkonošský">AAIP2----1A----</AM>
-<AM lemma="krkonošský">AAMP2----1A----</AM>
-<AM lemma="krkonošský">AAMP6----1A----</AM>
-<AM lemma="krkonošský">AANP2----1A----</AM>
-<AM lemma="krkonošský">AANP6----1A----</AM>
+<AM lemma="krkonošský" src="auto">AAFP2----1A----</AM>
+<AM lemma="krkonošský" src="auto">AAFP6----1A----</AM>
+<AM lemma="krkonošský" src="auto">AAIP2----1A----</AM>
+<AM lemma="krkonošský" src="auto">AAMP2----1A----</AM>
+<AM lemma="krkonošský" src="auto">AAMP6----1A----</AM>
+<AM lemma="krkonošský" src="auto">AANP2----1A----</AM>
+<AM lemma="krkonošský" src="auto">AANP6----1A----</AM>
 <AM lemma="krkonošský" src="auto" recommended="1" selected="1">AAIP6----1A----</AM>
 </tag>
 </m>

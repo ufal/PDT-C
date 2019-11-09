@@ -3192,13 +3192,13 @@
 <form_change>spell</form_change>
 <form>francouzských</form>
 <tag>
-<AM lemma="francouzský">AAFP6----1A----</AM>
-<AM lemma="francouzský">AAIP2----1A----</AM>
-<AM lemma="francouzský">AAIP6----1A----</AM>
-<AM lemma="francouzský">AAMP2----1A----</AM>
-<AM lemma="francouzský">AAMP6----1A----</AM>
-<AM lemma="francouzský">AANP2----1A----</AM>
-<AM lemma="francouzský">AANP6----1A----</AM>
+<AM lemma="francouzský" src="auto">AAFP6----1A----</AM>
+<AM lemma="francouzský" src="auto">AAIP2----1A----</AM>
+<AM lemma="francouzský" src="auto">AAIP6----1A----</AM>
+<AM lemma="francouzský" src="auto">AAMP2----1A----</AM>
+<AM lemma="francouzský" src="auto">AAMP6----1A----</AM>
+<AM lemma="francouzský" src="auto">AANP2----1A----</AM>
+<AM lemma="francouzský" src="auto">AANP6----1A----</AM>
 <AM lemma="francouzský" src="auto" recommended="1" selected="1">AAFP2----1A----</AM>
 </tag>
 </m>

@@ -14669,8 +14669,8 @@
 <w.rf>
 <LM>w#w-vesm9212-032-p12s1w11</LM>
 </w.rf>
-<form>></form>
-<tag lemma=">" src="orig" selected="1">Z:-------------</tag>
+<form>&gt;</form>
+<tag lemma="&gt;" src="orig" selected="1">Z:-------------</tag>
 </m>
 <m id="m-vesm9212-032-p12s1w12">
 <src.rf>manual</src.rf>

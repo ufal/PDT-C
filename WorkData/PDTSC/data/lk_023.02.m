@@ -1621,32 +1621,32 @@
 <form_change>spell</form_change>
 <form>starší</form>
 <tag>
-<AM lemma="starý-2_^(člověk,_věc)">AAFP1----2A----</AM>
-<AM lemma="starý-2_^(člověk,_věc)">AAFP4----2A----</AM>
-<AM lemma="starý-2_^(člověk,_věc)">AAFP5----2A----</AM>
-<AM lemma="starý-2_^(člověk,_věc)">AAFS1----2A----</AM>
-<AM lemma="starý-2_^(člověk,_věc)">AAFS2----2A----</AM>
-<AM lemma="starý-2_^(člověk,_věc)">AAFS3----2A----</AM>
-<AM lemma="starý-2_^(člověk,_věc)">AAFS4----2A----</AM>
-<AM lemma="starý-2_^(člověk,_věc)">AAFS5----2A----</AM>
-<AM lemma="starý-2_^(člověk,_věc)">AAFS6----2A----</AM>
-<AM lemma="starý-2_^(člověk,_věc)">AAFS7----2A----</AM>
-<AM lemma="starý-2_^(člověk,_věc)">AAIP1----2A----</AM>
-<AM lemma="starý-2_^(člověk,_věc)">AAIP4----2A----</AM>
-<AM lemma="starý-2_^(člověk,_věc)">AAIP5----2A----</AM>
-<AM lemma="starý-2_^(člověk,_věc)">AAIS1----2A----</AM>
-<AM lemma="starý-2_^(člověk,_věc)">AAIS4----2A----</AM>
-<AM lemma="starý-2_^(člověk,_věc)">AAIS5----2A----</AM>
-<AM lemma="starý-2_^(člověk,_věc)">AAMP1----2A----</AM>
-<AM lemma="starý-2_^(člověk,_věc)">AAMP4----2A----</AM>
-<AM lemma="starý-2_^(člověk,_věc)">AAMP5----2A----</AM>
-<AM lemma="starý-2_^(člověk,_věc)">AAMS5----2A----</AM>
-<AM lemma="starý-2_^(člověk,_věc)">AANP1----2A----</AM>
-<AM lemma="starý-2_^(člověk,_věc)">AANP4----2A----</AM>
-<AM lemma="starý-2_^(člověk,_věc)">AANP5----2A----</AM>
-<AM lemma="starý-2_^(člověk,_věc)">AANS1----2A----</AM>
-<AM lemma="starý-2_^(člověk,_věc)">AANS4----2A----</AM>
-<AM lemma="starý-2_^(člověk,_věc)">AANS5----2A----</AM>
+<AM lemma="starý-2_^(člověk,_věc)" src="auto">AAFP1----2A----</AM>
+<AM lemma="starý-2_^(člověk,_věc)" src="auto">AAFP4----2A----</AM>
+<AM lemma="starý-2_^(člověk,_věc)" src="auto">AAFP5----2A----</AM>
+<AM lemma="starý-2_^(člověk,_věc)" src="auto">AAFS1----2A----</AM>
+<AM lemma="starý-2_^(člověk,_věc)" src="auto">AAFS2----2A----</AM>
+<AM lemma="starý-2_^(člověk,_věc)" src="auto">AAFS3----2A----</AM>
+<AM lemma="starý-2_^(člověk,_věc)" src="auto">AAFS4----2A----</AM>
+<AM lemma="starý-2_^(člověk,_věc)" src="auto">AAFS5----2A----</AM>
+<AM lemma="starý-2_^(člověk,_věc)" src="auto">AAFS6----2A----</AM>
+<AM lemma="starý-2_^(člověk,_věc)" src="auto">AAFS7----2A----</AM>
+<AM lemma="starý-2_^(člověk,_věc)" src="auto">AAIP1----2A----</AM>
+<AM lemma="starý-2_^(člověk,_věc)" src="auto">AAIP4----2A----</AM>
+<AM lemma="starý-2_^(člověk,_věc)" src="auto">AAIP5----2A----</AM>
+<AM lemma="starý-2_^(člověk,_věc)" src="auto">AAIS1----2A----</AM>
+<AM lemma="starý-2_^(člověk,_věc)" src="auto">AAIS4----2A----</AM>
+<AM lemma="starý-2_^(člověk,_věc)" src="auto">AAIS5----2A----</AM>
+<AM lemma="starý-2_^(člověk,_věc)" src="auto">AAMP1----2A----</AM>
+<AM lemma="starý-2_^(člověk,_věc)" src="auto">AAMP4----2A----</AM>
+<AM lemma="starý-2_^(člověk,_věc)" src="auto">AAMP5----2A----</AM>
+<AM lemma="starý-2_^(člověk,_věc)" src="auto">AAMS5----2A----</AM>
+<AM lemma="starý-2_^(člověk,_věc)" src="auto">AANP1----2A----</AM>
+<AM lemma="starý-2_^(člověk,_věc)" src="auto">AANP4----2A----</AM>
+<AM lemma="starý-2_^(člověk,_věc)" src="auto">AANP5----2A----</AM>
+<AM lemma="starý-2_^(člověk,_věc)" src="auto">AANS1----2A----</AM>
+<AM lemma="starý-2_^(člověk,_věc)" src="auto">AANS4----2A----</AM>
+<AM lemma="starý-2_^(člověk,_věc)" src="auto">AANS5----2A----</AM>
 <AM lemma="starý-2_^(člověk,_věc)" src="auto" recommended="1" selected="1">AAMS1----2A----</AM>
 </tag>
 </m>
@@ -4455,7 +4455,7 @@
 <form_change>spell</form_change>
 <form>Waltra</form>
 <tag>
-<AM lemma="Waltr_;S">NNMS2-----A----</AM>
+<AM lemma="Waltr_;S" src="auto">NNMS2-----A----</AM>
 <AM lemma="Waltr_;S" src="auto" recommended="1">NNMS4-----A----</AM>
 <AM lemma="Walter_;R" src="manual" selected="1">NNIS4-----A---1</AM>
 </tag>

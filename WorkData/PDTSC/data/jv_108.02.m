@@ -3047,8 +3047,8 @@
 <form_change>spell</form_change>
 <form>vaši</form>
 <tag>
-<AM lemma="tvůj_^(přivlast.)">PSMP1-P2-------</AM>
-<AM lemma="tvůj_^(přivlast.)">PSMP5-P2-------</AM>
+<AM lemma="tvůj_^(přivlast.)" src="auto">PSMP1-P2-------</AM>
+<AM lemma="tvůj_^(přivlast.)" src="auto">PSMP5-P2-------</AM>
 <AM lemma="tvůj_^(přivlast.)" src="auto" recommended="1" selected="1">PSFS4-P2-------</AM>
 </tag>
 </m>

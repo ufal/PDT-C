@@ -4958,34 +4958,34 @@
 <form_change>spell</form_change>
 <form>Štědrý</form>
 <tag>
-<AM lemma="Štědrá_;G">NNFP1-----A---6</AM>
-<AM lemma="Štědrá_;G">NNFP4-----A---6</AM>
-<AM lemma="Štědrá_;G">NNFP5-----A---6</AM>
-<AM lemma="Štědrá_;G">NNFS2-----A---6</AM>
-<AM lemma="Štědrá_;G">NNFS3-----A---6</AM>
-<AM lemma="Štědrá_;G">NNFS6-----A---6</AM>
-<AM lemma="štědrý">AAFP1----1A---6</AM>
-<AM lemma="štědrý">AAFP4----1A---6</AM>
-<AM lemma="štědrý">AAFP5----1A---6</AM>
-<AM lemma="štědrý">AAFS2----1A---6</AM>
-<AM lemma="štědrý">AAFS3----1A---6</AM>
-<AM lemma="štědrý">AAFS6----1A---6</AM>
-<AM lemma="štědrý">AAIP1----1A---6</AM>
-<AM lemma="štědrý">AAIP4----1A---6</AM>
-<AM lemma="štědrý">AAIP5----1A---6</AM>
-<AM lemma="štědrý">AAIS1----1A----</AM>
-<AM lemma="štědrý">AAIS5----1A----</AM>
-<AM lemma="štědrý">AAMP1----1A---6</AM>
-<AM lemma="štědrý">AAMP4----1A---6</AM>
-<AM lemma="štědrý">AAMP5----1A---6</AM>
-<AM lemma="štědrý">AAMS1----1A----</AM>
-<AM lemma="štědrý">AAMS5----1A----</AM>
-<AM lemma="štědrý">AANP1----1A---6</AM>
-<AM lemma="štědrý">AANP4----1A---6</AM>
-<AM lemma="štědrý">AANP5----1A---6</AM>
-<AM lemma="štědrý">AANS1----1A---6</AM>
-<AM lemma="štědrý">AANS4----1A---6</AM>
-<AM lemma="štědrý">AANS5----1A---6</AM>
+<AM lemma="Štědrá_;G" src="auto">NNFP1-----A---6</AM>
+<AM lemma="Štědrá_;G" src="auto">NNFP4-----A---6</AM>
+<AM lemma="Štědrá_;G" src="auto">NNFP5-----A---6</AM>
+<AM lemma="Štědrá_;G" src="auto">NNFS2-----A---6</AM>
+<AM lemma="Štědrá_;G" src="auto">NNFS3-----A---6</AM>
+<AM lemma="Štědrá_;G" src="auto">NNFS6-----A---6</AM>
+<AM lemma="štědrý" src="auto">AAFP1----1A---6</AM>
+<AM lemma="štědrý" src="auto">AAFP4----1A---6</AM>
+<AM lemma="štědrý" src="auto">AAFP5----1A---6</AM>
+<AM lemma="štědrý" src="auto">AAFS2----1A---6</AM>
+<AM lemma="štědrý" src="auto">AAFS3----1A---6</AM>
+<AM lemma="štědrý" src="auto">AAFS6----1A---6</AM>
+<AM lemma="štědrý" src="auto">AAIP1----1A---6</AM>
+<AM lemma="štědrý" src="auto">AAIP4----1A---6</AM>
+<AM lemma="štědrý" src="auto">AAIP5----1A---6</AM>
+<AM lemma="štědrý" src="auto">AAIS1----1A----</AM>
+<AM lemma="štědrý" src="auto">AAIS5----1A----</AM>
+<AM lemma="štědrý" src="auto">AAMP1----1A---6</AM>
+<AM lemma="štědrý" src="auto">AAMP4----1A---6</AM>
+<AM lemma="štědrý" src="auto">AAMP5----1A---6</AM>
+<AM lemma="štědrý" src="auto">AAMS1----1A----</AM>
+<AM lemma="štědrý" src="auto">AAMS5----1A----</AM>
+<AM lemma="štědrý" src="auto">AANP1----1A---6</AM>
+<AM lemma="štědrý" src="auto">AANP4----1A---6</AM>
+<AM lemma="štědrý" src="auto">AANP5----1A---6</AM>
+<AM lemma="štědrý" src="auto">AANS1----1A---6</AM>
+<AM lemma="štědrý" src="auto">AANS4----1A---6</AM>
+<AM lemma="štědrý" src="auto">AANS5----1A---6</AM>
 <AM lemma="štědrý" src="auto" recommended="1" selected="1">AAIS4----1A----</AM>
 </tag>
 </m>

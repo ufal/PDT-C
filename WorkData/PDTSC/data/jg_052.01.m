@@ -1972,8 +1972,8 @@
 <form_change>spell</form_change>
 <form>Kolik</form>
 <tag>
-<AM lemma="kolika">NNFP2-----A----</AM>
-<AM lemma="kolik">C?--4----------</AM>
+<AM lemma="kolika" src="auto">NNFP2-----A----</AM>
+<AM lemma="kolik" src="auto">C?--4----------</AM>
 <AM lemma="kolik" src="auto" recommended="1">C?--1----------</AM>
 </tag>
 </m>
