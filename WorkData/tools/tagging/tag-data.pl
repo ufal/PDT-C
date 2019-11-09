@@ -329,7 +329,7 @@ __XSH__
                         my $am := xinsert element pml:AM
                             into $mnodes[$idx]/pml:tag ;
                         set $am/@lemma $lemma ;
-                        set $am/@scr 'auto' ;
+                        set $am/@src 'auto' ;
                         xinsert text $tag into $am ;
                         xinsert text {"\n"} before $am ;
 __XSH__
