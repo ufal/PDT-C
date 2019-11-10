@@ -322,8 +322,6 @@ __XSH__
                 for my $analysis (@{ $result->{analyses} }) {
                     $lemma = $analysis->{lemma};
                     $tag = $analysis->{tag};
-                    next if $lemma eq $result->{lemma}
-                         && $tag eq $result->{tag};
 
                     xsh << '__XSH__';
                         my $am := xinsert element pml:AM
@@ -333,19 +331,12 @@ __XSH__
                         xinsert text $tag into $am ;
                         xinsert text {"\n"} before $am ;
 __XSH__
+                    if ($lemma eq $result->{lemma}
+                        && $tag eq $result->{tag}) {
+                        xsh 'set $mnodes[$idx]/pml:tag/pml:AM[last()]/@recommended 1';
+                    }
+                    xsh 'echo $mnodes[$idx]/@id' ;
                 }
-
-                ($lemma, $tag) = @{ $result }{qw{ lemma tag }};
-                xsh << '__XSH__';
-                    my $am := xinsert element pml:AM into $mnodes[$idx]/pml:tag ;
-                    xinsert text $tag into $am ;
-                    set $am/@lemma $lemma ;
-                    set $am/@src 'auto' ;
-                    set $am/@recommended 1 ;
-                    xinsert text {"\n"} before $am ;
-                    xinsert text {"\n"} after $am ;
-                    echo $mnodes[$idx]/@id ;
-__XSH__
             }
             xsh('for $comments delete ..');
             xsh('insert text "spell" into &{ insert element form_change into $mnodes[$idx] }');
