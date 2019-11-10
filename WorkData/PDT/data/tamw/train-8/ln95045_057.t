@@ -4,7 +4,7 @@
 <schema href="tdata_35_schema.xml" />
 <references>
 <reffile id="a" name="adata" href="ln95045_057.a" />
-<reffile id="v" name="vallex" href="../../../../../../Users/Marie%20Mikulov%E1/AppData/Roaming/.tred.d/extensions/pdt35/resources/pdtvallex3.0.xml" />
+<reffile id="v" name="vallex" href="pdtvallex3.0.xml" />
 </references>
 </head>
 <meta>
