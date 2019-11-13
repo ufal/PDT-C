@@ -4,7 +4,7 @@
 <schema href="tanot_coref_schema.xml" />
 <references>
 <reffile id="a" name="adata" href="ep_114.05.a" />
-<reffile id="v" name="vallex" href="../../../../Users/Marie%20Mikulov%E1/AppData/Roaming/.tred.d/extensions/wsj-anot/resources/vallex3.xml" />
+<reffile id="v" name="vallex" href="vallex3.xml" />
 </references>
 </head>
 <trees>
@@ -1245,7 +1245,7 @@
 <annot_comment>
 <LM>
 <type>Reconstruction</type>
-<text>lepší "překlad": nad mořem Balt >> nad Baltským mořem</text>
+<text>lepší "překlad": nad mořem Balt &gt;&gt; nad Baltským mořem</text>
 </LM>
 </annot_comment>
 </LM>
