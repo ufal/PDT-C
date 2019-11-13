@@ -4,14 +4,15 @@
 <schema href="tanot_coref_schema.xml" />
 <references>
 <reffile id="a" name="adata" href="ep_107.01.a" />
-<reffile id="v" name="vallex" href="vallex3.xml" />
+<reffile id="v" name="vallex" href="../../../../Users/Marie%20Mikulov%E1/AppData/Roaming/.tred.d/extensions/wsj-anot/resources/vallex3.xml" />
 </references>
 </head>
 <trees>
 <LM id="ep_107.01-SCzechT-ep_107-d1e213-x3-root">
 <atree.rf>a#ep_107.01-SCzechA-ep_107-d1e213-x3-root</atree.rf>
 <deepord>0</deepord>
-<children id="ep_107.01-SCzechT-m-d1t233-14">
+<children>
+<LM id="ep_107.01-SCzechT-m-d1t233-14">
 <a>
 <lex.rf>a#ep_107.01-SCzechA-m-d1t233-14</lex.rf>
 </a>
@@ -64,7 +65,9 @@
 <a>
 <lex.rf>a#ep_107.01-SCzechA-m-d1t233-3</lex.rf>
 </a>
-<coref_gram.rf>ep_107.01-SCzechT-m-d1t233-5</coref_gram.rf>
+<coref_gram.rf>
+<LM>ep_107.01-SCzechT-m-d1t233-5</LM>
+</coref_gram.rf>
 <nodetype>complex</nodetype>
 <t_lemma>#PersPron</t_lemma>
 <functor>ADDR</functor>
@@ -144,9 +147,11 @@
 </gram>
 <deepord>6</deepord>
 <coref_text>
+<LM>
 <target-node.rf>ep_107.01-SCzechT-m-d1t233-6</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>hana</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="ep_107.01-SCzechT-m-d1t233-9">
@@ -163,17 +168,23 @@
 </gram>
 <deepord>7</deepord>
 <coref_text>
+<LM>
 <target-node.rf>ep_107.01-SCzechT-m-d1t233-2</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>coref</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="ep_107.01-SCzechT-m-d1t233-13">
 <a>
 <lex.rf>a#ep_107.01-SCzechA-m-d1t233-13</lex.rf>
-<aux.rf>a#ep_107.01-SCzechA-m-d1t233-11</aux.rf>
+<aux.rf>
+<LM>a#ep_107.01-SCzechA-m-d1t233-11</LM>
+</aux.rf>
 </a>
-<compl.rf>ep_107.01-SCzechT-m-d1t233-9</compl.rf>
+<compl.rf>
+<LM>ep_107.01-SCzechT-m-d1t233-9</LM>
+</compl.rf>
 <nodetype>complex</nodetype>
 <t_lemma>šití</t_lemma>
 <functor>COMPL</functor>
@@ -209,9 +220,11 @@
 </gram>
 <deepord>11</deepord>
 <coref_text>
+<LM>
 <target-node.rf>ep_107.01-SCzechT-m-d1t233-9</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>coref</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="ep_107.01-SCzechT-ep_107-d1e213-x3-roota1">
@@ -224,15 +237,19 @@
 </gram>
 <deepord>12</deepord>
 <coref_text>
+<LM>
 <target-node.rf>ep_107.01-SCzechT-m-d1t233-3</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>coref</src>
+</LM>
 </coref_text>
 </LM>
 </children>
 <annot_comment>
+<LM>
 <type>New valency frame</type>
 <text>P</text>
+</LM>
 </annot_comment>
 </LM>
 </children>
@@ -306,9 +323,11 @@
 </gram>
 <deepord>16</deepord>
 <coref_text>
+<LM>
 <target-node.rf>ep_107.01-SCzechT-ep_107-d1e213-x3-roota2</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>coref</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="ep_107.01-SCzechT-m-d1t233-19">
@@ -327,12 +346,14 @@
 </children>
 </LM>
 </children>
+</LM>
 </children>
 </LM>
 <LM id="ep_107.01-SCzechT-ep_107-58-root">
 <atree.rf>a#ep_107.01-SCzechA-ep_107-58-root</atree.rf>
 <deepord>0</deepord>
-<children id="ep_107.01-SCzechT-m-58-61">
+<children>
+<LM id="ep_107.01-SCzechT-m-58-61">
 <a>
 <lex.rf>a#ep_107.01-SCzechA-m-58-61</lex.rf>
 </a>
@@ -344,7 +365,9 @@
 <LM id="ep_107.01-SCzechT-m-d1t235-5">
 <a>
 <lex.rf>a#ep_107.01-SCzechA-m-d1t235-5</lex.rf>
-<aux.rf>a#ep_107.01-SCzechA-m-d1t235-6</aux.rf>
+<aux.rf>
+<LM>a#ep_107.01-SCzechA-m-d1t235-6</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w1345f1</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -434,9 +457,11 @@
 </gram>
 <deepord>6</deepord>
 <coref_text>
+<LM>
 <target-node.rf>ep_107.01-SCzechT-m-d1t233-16</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>coref</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="ep_107.01-SCzechT-m-d1t237-3">
@@ -488,12 +513,14 @@
 </children>
 </LM>
 </children>
+</LM>
 </children>
 </LM>
 <LM id="ep_107.01-SCzechT-ep_107-46-root">
 <atree.rf>a#ep_107.01-SCzechA-ep_107-46-root</atree.rf>
 <deepord>0</deepord>
-<children id="ep_107.01-SCzechT-m-d1t237-14">
+<children>
+<LM id="ep_107.01-SCzechT-m-d1t237-14">
 <a>
 <lex.rf>a#ep_107.01-SCzechA-m-d1t237-14</lex.rf>
 </a>
@@ -541,9 +568,11 @@
 </gram>
 <deepord>2</deepord>
 <coref_text>
+<LM>
 <target-node.rf>ep_107.01-SCzechT-m-d1t235-7</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>coref</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="ep_107.01-SCzechT-m-d1t237-13">
@@ -560,7 +589,8 @@
 <negation>neg0</negation>
 </gram>
 <deepord>5</deepord>
-<children id="ep_107.01-SCzechT-m-d1t237-12">
+<children>
+<LM id="ep_107.01-SCzechT-m-d1t237-12">
 <a>
 <lex.rf>a#ep_107.01-SCzechA-m-d1t237-12</lex.rf>
 </a>
@@ -573,7 +603,8 @@
 <negation>neg0</negation>
 </gram>
 <deepord>4</deepord>
-<children id="ep_107.01-SCzechT-m-d1t237-10">
+<children>
+<LM id="ep_107.01-SCzechT-m-d1t237-10">
 <a>
 <lex.rf>a#ep_107.01-SCzechA-m-d1t237-10</lex.rf>
 </a>
@@ -585,7 +616,9 @@
 <negation>neg0</negation>
 </gram>
 <deepord>3</deepord>
+</LM>
 </children>
+</LM>
 </children>
 </LM>
 </children>
@@ -629,7 +662,9 @@
 <LM id="ep_107.01-SCzechT-m-d1t237-18">
 <a>
 <lex.rf>a#ep_107.01-SCzechA-m-d1t237-18</lex.rf>
-<aux.rf>a#ep_107.01-SCzechA-m-d1t237-17</aux.rf>
+<aux.rf>
+<LM>a#ep_107.01-SCzechA-m-d1t237-17</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>ten</t_lemma>
@@ -641,9 +676,11 @@
 </gram>
 <deepord>8</deepord>
 <coref_text>
+<LM>
 <target-node.rf>ep_107.01-SCzechT-m-d1t237-9</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>coref</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="ep_107.01-SCzechT-m-d1t237-20">
@@ -659,7 +696,8 @@
 <negation>neg0</negation>
 </gram>
 <deepord>10</deepord>
-<children id="ep_107.01-SCzechT-m-d1t237-19">
+<children>
+<LM id="ep_107.01-SCzechT-m-d1t237-19">
 <a>
 <lex.rf>a#ep_107.01-SCzechA-m-d1t237-19</lex.rf>
 </a>
@@ -671,17 +709,20 @@
 <negation>neg0</negation>
 </gram>
 <deepord>9</deepord>
-</children>
 </LM>
 </children>
 </LM>
 </children>
+</LM>
+</children>
+</LM>
 </children>
 </LM>
 <LM id="ep_107.01-SCzechT-ep_107-d1e244-x2-root">
 <atree.rf>a#ep_107.01-SCzechA-ep_107-d1e244-x2-root</atree.rf>
 <deepord>0</deepord>
-<children id="ep_107.01-SCzechT-m-d1t247-2">
+<children>
+<LM id="ep_107.01-SCzechT-m-d1t247-2">
 <a>
 <lex.rf>a#ep_107.01-SCzechA-m-d1t247-2</lex.rf>
 </a>
@@ -735,7 +776,8 @@
 <negation>neg0</negation>
 </gram>
 <deepord>4</deepord>
-<children id="ep_107.01-SCzechT-m-d1t247-3">
+<children>
+<LM id="ep_107.01-SCzechT-m-d1t247-3">
 <a>
 <lex.rf>a#ep_107.01-SCzechA-m-d1t247-3</lex.rf>
 </a>
@@ -751,15 +793,18 @@
 <politeness>basic</politeness>
 </gram>
 <deepord>3</deepord>
+</LM>
 </children>
 </LM>
 </children>
+</LM>
 </children>
 </LM>
 <LM id="t_tree-cs-s6-root">
 <atree.rf>a#a_tree-cs-s6-root</atree.rf>
 <deepord>0</deepord>
-<children id="t_tree-cs-s6-n348">
+<children>
+<LM id="t_tree-cs-s6-n348">
 <a>
 <lex.rf>a#a_tree-cs-s6-n77</lex.rf>
 </a>
@@ -778,15 +823,19 @@
 </gram>
 <deepord>2</deepord>
 <coref_text>
+<LM>
 <target-node.rf>ep_107.01-SCzechT-m-d1t247-3</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>coref</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="t_tree-cs-s6-n344">
 <a>
 <lex.rf>a#a_tree-cs-s6-n69</lex.rf>
-<aux.rf>a#a_tree-cs-s6-n67</aux.rf>
+<aux.rf>
+<LM>a#a_tree-cs-s6-n67</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w5874f14_ZU</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -827,7 +876,9 @@
 <LM id="t_tree-cs-s6-n346">
 <a>
 <lex.rf>a#a_tree-cs-s6-n72</lex.rf>
-<aux.rf>a#a_tree-cs-s6-n71</aux.rf>
+<aux.rf>
+<LM>a#a_tree-cs-s6-n71</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w243f187_MM</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -856,9 +907,11 @@
 </gram>
 <deepord>5</deepord>
 <coref_text>
+<LM>
 <target-node.rf>ep_107.01-SCzechT-m-d1t247-4</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>coref</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="t_tree-cs-s6-n349">
@@ -875,24 +928,14 @@
 <lex.rf>a#a_tree-cs-s6-n73</lex.rf>
 </a>
 <nodetype>complex</nodetype>
-<t_lemma>ohromný</t_lemma>
+<t_lemma>ohromně</t_lemma>
 <functor>EXT</functor>
 <gram>
 <sempos>adv.denot.grad.neg</sempos>
-<verbmod>nil</verbmod>
-<deontmod>decl</deontmod>
-<tense>ant</tense>
-<aspect>cpl</aspect>
-<resultative>res0</resultative>
-<dispmod>nil</dispmod>
-<iterativeness>it0</iterativeness>
+<degcmp>pos</degcmp>
 <negation>neg0</negation>
 </gram>
 <deepord>6</deepord>
-<annot_comment>
-<type>Typo</type>
-<text>ohromně</text>
-</annot_comment>
 </LM>
 <LM id="t_tree-cs-s6-n350">
 <a>
@@ -971,9 +1014,11 @@
 </gram>
 <deepord>11</deepord>
 <coref_text>
+<LM>
 <target-node.rf>t_tree-cs-s6-roota1</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>coref</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="t_tree-cs-s6-n354">
@@ -1008,9 +1053,11 @@
 </gram>
 <deepord>13</deepord>
 <coref_text>
+<LM>
 <target-node.rf>t_tree-cs-s6-n505</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>coref</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="t_tree-cs-s6-roota2">
@@ -1031,12 +1078,17 @@
 <sempos>v</sempos>
 </gram>
 <deepord>14</deepord>
-<children id="t_tree-cs-s6-n357">
+<children>
+<LM id="t_tree-cs-s6-n357">
 <a>
 <lex.rf>a#a_tree-cs-s6-n84</lex.rf>
-<aux.rf>a#a_tree-cs-s6-n83</aux.rf>
+<aux.rf>
+<LM>a#a_tree-cs-s6-n83</LM>
+</aux.rf>
 </a>
-<compl.rf>t_tree-cs-s6-n362</compl.rf>
+<compl.rf>
+<LM>t_tree-cs-s6-n362</LM>
+</compl.rf>
 <nodetype>complex</nodetype>
 <t_lemma>malý</t_lemma>
 <functor>COMPL</functor>
@@ -1046,6 +1098,7 @@
 <negation>neg0</negation>
 </gram>
 <deepord>15</deepord>
+</LM>
 </children>
 </LM>
 <LM id="t_tree-cs-s6-n352">
@@ -1089,9 +1142,13 @@
 <LM id="t_tree-cs-s6-n359">
 <a>
 <lex.rf>a#a_tree-cs-s6-n88</lex.rf>
-<aux.rf>a#a_tree-cs-s6-n87</aux.rf>
+<aux.rf>
+<LM>a#a_tree-cs-s6-n87</LM>
+</aux.rf>
 </a>
-<compl.rf>t_tree-cs-s6-n362</compl.rf>
+<compl.rf>
+<LM>t_tree-cs-s6-n362</LM>
+</compl.rf>
 <nodetype>complex</nodetype>
 <t_lemma>velký</t_lemma>
 <functor>COMPL</functor>
@@ -1119,7 +1176,8 @@
 <negation>neg0</negation>
 </gram>
 <deepord>21</deepord>
-<children id="t_tree-cs-s6-n364">
+<children>
+<LM id="t_tree-cs-s6-n364">
 <a>
 <lex.rf>a#a_tree-cs-s6-n91</lex.rf>
 </a>
@@ -1132,17 +1190,20 @@
 <numertype>basic</numertype>
 </gram>
 <deepord>20</deepord>
-</children>
 </LM>
 </children>
 </LM>
 </children>
+</LM>
+</children>
+</LM>
 </children>
 </LM>
 <LM id="ep_107.01-SCzechT-ep_107-151-root">
 <atree.rf>a#ep_107.01-SCzechA-ep_107-151-root</atree.rf>
 <deepord>0</deepord>
-<children id="ep_107.01-SCzechT-m-d1t255-25">
+<children>
+<LM id="ep_107.01-SCzechT-m-d1t255-25">
 <a>
 <lex.rf>a#ep_107.01-SCzechA-m-d1t255-25</lex.rf>
 </a>
@@ -1176,9 +1237,11 @@
 </gram>
 <deepord>2</deepord>
 <coref_text>
+<LM>
 <target-node.rf>t_tree-cs-s6-n362</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>coref</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="ep_107.01-SCzechT-m-d1t255-42">
@@ -1218,9 +1281,11 @@
 </gram>
 <deepord>3</deepord>
 <coref_text>
+<LM>
 <target-node.rf>ep_107.01-SCzechT-ep_107-151-roota1</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>coref</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="ep_107.01-SCzechT-m-d1t255-30">
@@ -1254,9 +1319,11 @@
 </gram>
 <deepord>4</deepord>
 <coref_text>
+<LM>
 <target-node.rf>t_tree-cs-s6-n506</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>coref</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="ep_107.01-SCzechT-m-d1t255-34">
@@ -1286,7 +1353,9 @@
 <a>
 <lex.rf>a#ep_107.01-SCzechA-m-d1t255-32</lex.rf>
 </a>
-<coref_gram.rf>ep_107.01-SCzechT-m-d1t255-30</coref_gram.rf>
+<coref_gram.rf>
+<LM>ep_107.01-SCzechT-m-d1t255-30</LM>
+</coref_gram.rf>
 <nodetype>complex</nodetype>
 <t_lemma>který</t_lemma>
 <functor>PAT</functor>
@@ -1315,9 +1384,11 @@
 </gram>
 <deepord>7</deepord>
 <coref_text>
+<LM>
 <target-node.rf>ep_107.01-SCzechT-m-d1t255-42x3</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>coref</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="ep_107.01-SCzechT-m-d1t255-34x3">
@@ -1330,15 +1401,19 @@
 </gram>
 <deepord>8</deepord>
 <coref_text>
+<LM>
 <target-node.rf>ep_107.01-SCzechT-m-d1t255-29</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>coref</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="ep_107.01-SCzechT-m-d1t255-36">
 <a>
 <lex.rf>a#ep_107.01-SCzechA-m-d1t255-36</lex.rf>
-<aux.rf>a#ep_107.01-SCzechA-m-d1t255-35</aux.rf>
+<aux.rf>
+<LM>a#ep_107.01-SCzechA-m-d1t255-35</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>život</t_lemma>
@@ -1367,7 +1442,8 @@
 <negation>neg0</negation>
 </gram>
 <deepord>12</deepord>
-<children id="ep_107.01-SCzechT-m-d1t255-43">
+<children>
+<LM id="ep_107.01-SCzechT-m-d1t255-43">
 <a>
 <lex.rf>a#ep_107.01-SCzechA-m-d1t255-43</lex.rf>
 </a>
@@ -1379,21 +1455,26 @@
 <negation>neg0</negation>
 </gram>
 <deepord>11</deepord>
-</children>
 </LM>
 </children>
 </LM>
 </children>
+</LM>
+</children>
+</LM>
 </children>
 <annot_comment>
+<LM>
 <type>Reconstruction</type>
 <text>Vymazat: Moc často vzpomínám a</text>
+</LM>
 </annot_comment>
 </LM>
 <LM id="ep_107.01-SCzechT-ep_107-d1e262-x2-root">
 <atree.rf>a#ep_107.01-SCzechA-ep_107-d1e262-x2-root</atree.rf>
 <deepord>0</deepord>
-<children id="ep_107.01-SCzechT-m-d1t265-1">
+<children>
+<LM id="ep_107.01-SCzechT-m-d1t265-1">
 <a>
 <lex.rf>a#ep_107.01-SCzechA-m-d1t265-1</lex.rf>
 </a>
@@ -1432,9 +1513,11 @@
 </gram>
 <deepord>2</deepord>
 <coref_text>
+<LM>
 <target-node.rf>ep_107.01-SCzechT-m-d1t255-34x3</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>hana</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="ep_107.01-SCzechT-m-d1t265-4">
@@ -1451,7 +1534,8 @@
 <negation>neg0</negation>
 </gram>
 <deepord>4</deepord>
-<children id="ep_107.01-SCzechT-m-d1t265-3">
+<children>
+<LM id="ep_107.01-SCzechT-m-d1t265-3">
 <a>
 <lex.rf>a#ep_107.01-SCzechA-m-d1t265-3</lex.rf>
 </a>
@@ -1466,12 +1550,15 @@
 <person>3</person>
 </gram>
 <deepord>3</deepord>
+</LM>
 </children>
 </LM>
 <LM id="ep_107.01-SCzechT-m-d1t265-6">
 <a>
 <lex.rf>a#ep_107.01-SCzechA-m-d1t265-6</lex.rf>
-<aux.rf>a#ep_107.01-SCzechA-m-d1t265-5</aux.rf>
+<aux.rf>
+<LM>a#ep_107.01-SCzechA-m-d1t265-5</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>práce</t_lemma>
@@ -1485,12 +1572,14 @@
 <deepord>5</deepord>
 </LM>
 </children>
+</LM>
 </children>
 </LM>
 <LM id="ep_107.01-SCzechT-ep_107-d1e266-x2-root">
 <atree.rf>a#ep_107.01-SCzechA-ep_107-d1e266-x2-root</atree.rf>
 <deepord>0</deepord>
-<children id="ep_107.01-SCzechT-m-d1t271-3">
+<children>
+<LM id="ep_107.01-SCzechT-m-d1t271-3">
 <a>
 <lex.rf>a#ep_107.01-SCzechA-m-d1t271-3</lex.rf>
 </a>
@@ -1524,9 +1613,11 @@
 </gram>
 <deepord>1</deepord>
 <coref_text>
+<LM>
 <target-node.rf>ep_107.01-SCzechT-m-d1t265-2</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>coref</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="ep_107.01-SCzechT-m-d1t271-4">
@@ -1543,10 +1634,13 @@
 <negation>neg0</negation>
 </gram>
 <deepord>3</deepord>
-<children id="ep_107.01-SCzechT-m-d1t271-8">
+<children>
+<LM id="ep_107.01-SCzechT-m-d1t271-8">
 <a>
 <lex.rf>a#ep_107.01-SCzechA-m-d1t271-8</lex.rf>
-<aux.rf>a#ep_107.01-SCzechA-m-d1t271-6</aux.rf>
+<aux.rf>
+<LM>a#ep_107.01-SCzechA-m-d1t271-6</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w7523f1</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -1571,7 +1665,9 @@
 <a>
 <lex.rf>a#ep_107.01-SCzechA-m-d1t271-7</lex.rf>
 </a>
-<compl.rf>ep_107.01-SCzechT-m-d1t271-8x3</compl.rf>
+<compl.rf>
+<LM>ep_107.01-SCzechT-m-d1t271-8x3</LM>
+</compl.rf>
 <nodetype>complex</nodetype>
 <t_lemma>rád</t_lemma>
 <functor>COMPL</functor>
@@ -1592,9 +1688,11 @@
 </gram>
 <deepord>5</deepord>
 <coref_text>
+<LM>
 <target-node.rf>ep_107.01-SCzechT-m-d1t271-3x3</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>coref</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="ep_107.01-SCzechT-ep_107-d1e266-x2-roota1">
@@ -1605,23 +1703,30 @@
 <deepord>7</deepord>
 </LM>
 </children>
+</LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>ep_107.01-SCzechT-m-d1t265-4</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>hana</src>
+</LM>
 </coref_text>
 </LM>
 </children>
+</LM>
 </children>
 </LM>
 <LM id="ep_107.01-SCzechT-ep_107-99-root">
 <atree.rf>a#ep_107.01-SCzechA-ep_107-99-root</atree.rf>
 <deepord>0</deepord>
-<children id="ep_107.01-SCzechT-m-d1t273-6">
+<children>
+<LM id="ep_107.01-SCzechT-m-d1t273-6">
 <a>
 <lex.rf>a#ep_107.01-SCzechA-m-d1t273-6</lex.rf>
-<aux.rf>a#ep_107.01-SCzechA-m-d1t273-3</aux.rf>
+<aux.rf>
+<LM>a#ep_107.01-SCzechA-m-d1t273-3</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w9380f1</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -1675,19 +1780,25 @@
 </LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>ep_107.01-SCzechT-m-d1t271-8</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>hana</src>
+</LM>
 </coref_text>
 <annot_comment>
+<LM>
 <type>New valency frame</type>
 <text>P</text>
+</LM>
 </annot_comment>
 </LM>
 <LM id="ep_107.01-SCzechT-m-d1t273-5">
 <a>
 <lex.rf>a#ep_107.01-SCzechA-m-d1t273-5</lex.rf>
-<aux.rf>a#ep_107.01-SCzechA-m-d1t273-4</aux.rf>
+<aux.rf>
+<LM>a#ep_107.01-SCzechA-m-d1t273-4</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>#PersPron</t_lemma>
@@ -1701,9 +1812,11 @@
 </gram>
 <deepord>4</deepord>
 <coref_text>
+<LM>
 <target-node.rf>ep_107.01-SCzechT-m-d1t271-8x3</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>coref</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="ep_107.01-SCzechT-m-d1t273-6x3">
@@ -1716,18 +1829,22 @@
 </gram>
 <deepord>5</deepord>
 <coref_text>
+<LM>
 <target-node.rf>ep_107.01-SCzechT-m-d1t255-33</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>coref</src>
+</LM>
 </coref_text>
 </LM>
 </children>
+</LM>
 </children>
 </LM>
 <LM id="ep_107.01-SCzechT-ep_107-101-root">
 <atree.rf>a#ep_107.01-SCzechA-ep_107-101-root</atree.rf>
 <deepord>0</deepord>
-<children id="ep_107.01-SCzechT-ep_107-101-roota1">
+<children>
+<LM id="ep_107.01-SCzechT-ep_107-101-roota1">
 <a>
 <lex.rf>a#ep_107.01-SCzechA-m-d1e266-x2-95</lex.rf>
 </a>
@@ -1775,7 +1892,8 @@
 <negation>neg0</negation>
 </gram>
 <deepord>2</deepord>
-<children id="ep_107.01-SCzechT-m-d1t277-5">
+<children>
+<LM id="ep_107.01-SCzechT-m-d1t277-5">
 <a>
 <lex.rf>a#ep_107.01-SCzechA-m-d1t277-5</lex.rf>
 </a>
@@ -1791,16 +1909,21 @@
 </gram>
 <deepord>1</deepord>
 <coref_text>
+<LM>
 <target-node.rf>ep_107.01-SCzechT-m-d1t273-5</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>coref</src>
+</LM>
 </coref_text>
+</LM>
 </children>
 </LM>
 <LM id="ep_107.01-SCzechT-m-d1t277-12">
 <a>
 <lex.rf>a#ep_107.01-SCzechA-m-d1t277-12</lex.rf>
-<aux.rf>a#ep_107.01-SCzechA-m-d1t277-10</aux.rf>
+<aux.rf>
+<LM>a#ep_107.01-SCzechA-m-d1t277-10</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>Merklín</t_lemma>
@@ -1853,15 +1976,19 @@
 </gram>
 <deepord>6</deepord>
 <coref_text>
+<LM>
 <target-node.rf>ep_107.01-SCzechT-m-d1t277-12</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>coref</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="ep_107.01-SCzechT-m-d1t280-3">
 <a>
 <lex.rf>a#ep_107.01-SCzechA-m-d1t280-3</lex.rf>
-<aux.rf>a#ep_107.01-SCzechA-m-d1t280-1</aux.rf>
+<aux.rf>
+<LM>a#ep_107.01-SCzechA-m-d1t280-1</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>Přešticko</t_lemma>
@@ -1877,12 +2004,14 @@
 </children>
 </LM>
 </children>
+</LM>
 </children>
 </LM>
 <LM id="ep_107.01-SCzechT-ep_107-174-root">
 <atree.rf>a#ep_107.01-SCzechA-ep_107-174-root</atree.rf>
 <deepord>0</deepord>
-<children id="ep_107.01-SCzechT-ep_107-174-roota1">
+<children>
+<LM id="ep_107.01-SCzechT-ep_107-174-roota1">
 <a>
 <lex.rf>a#ep_107.01-SCzechA-m-174-175</lex.rf>
 </a>
@@ -1905,7 +2034,8 @@
 <negation>neg0</negation>
 </gram>
 <deepord>3</deepord>
-<children id="ep_107.01-SCzechT-m-101-102">
+<children>
+<LM id="ep_107.01-SCzechT-m-101-102">
 <a>
 <lex.rf>a#ep_107.01-SCzechA-m-101-102</lex.rf>
 </a>
@@ -1918,17 +2048,22 @@
 <number>sg</number>
 </gram>
 <deepord>2</deepord>
+</LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>ep_107.01-SCzechT-m-d1t277-6</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>hana</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="ep_107.01-SCzechT-m-d1t280-19">
 <a>
 <lex.rf>a#ep_107.01-SCzechA-m-d1t280-19</lex.rf>
-<aux.rf>a#ep_107.01-SCzechA-m-d1t280-12</aux.rf>
+<aux.rf>
+<LM>a#ep_107.01-SCzechA-m-d1t280-12</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>vesnice</t_lemma>
@@ -1940,7 +2075,8 @@
 <negation>neg0</negation>
 </gram>
 <deepord>4</deepord>
-<children id="ep_107.01-SCzechT-m-d1t280-15">
+<children>
+<LM id="ep_107.01-SCzechT-m-d1t280-15">
 <a>
 <lex.rf>a#ep_107.01-SCzechA-m-d1t280-15</lex.rf>
 </a>
@@ -1954,11 +2090,14 @@
 <negation>neg0</negation>
 </gram>
 <deepord>5</deepord>
+</LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>ep_107.01-SCzechT-m-d1t277-14</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>hana</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="ep_107.01-SCzechT-m-d1t280-20x3">
@@ -1995,7 +2134,8 @@
 <negation>neg0</negation>
 </gram>
 <deepord>7</deepord>
-<children id="ep_107.01-SCzechT-m-d1t280-6">
+<children>
+<LM id="ep_107.01-SCzechT-m-d1t280-6">
 <a>
 <lex.rf>a#ep_107.01-SCzechA-m-d1t280-6</lex.rf>
 </a>
@@ -2003,6 +2143,7 @@
 <t_lemma>dokonce</t_lemma>
 <functor>RHEM</functor>
 <deepord>1</deepord>
+</LM>
 </children>
 </LM>
 <LM id="ep_107.01-SCzechT-ep_107-174-roota2">
@@ -2011,10 +2152,13 @@
 <t_lemma>#Idph</t_lemma>
 <functor>EFF</functor>
 <deepord>8</deepord>
-<children id="ep_107.01-SCzechT-m-d1t280-28">
+<children>
+<LM id="ep_107.01-SCzechT-m-d1t280-28">
 <a>
 <lex.rf>a#ep_107.01-SCzechA-m-d1t280-28</lex.rf>
-<aux.rf>a#ep_107.01-SCzechA-m-d1t280-27</aux.rf>
+<aux.rf>
+<LM>a#ep_107.01-SCzechA-m-d1t280-27</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>Kuchařík</t_lemma>
@@ -2026,6 +2170,7 @@
 <negation>neg0</negation>
 </gram>
 <deepord>9</deepord>
+</LM>
 </children>
 </LM>
 <LM id="ep_107.01-SCzechT-ep_107-174-roota3">
@@ -2092,7 +2237,9 @@
 <a>
 <lex.rf>a#ep_107.01-SCzechA-m-d1t280-35</lex.rf>
 </a>
-<compl.rf>ep_107.01-SCzechT-m-d1t280-36x3</compl.rf>
+<compl.rf>
+<LM>ep_107.01-SCzechT-m-d1t280-36x3</LM>
+</compl.rf>
 <nodetype>complex</nodetype>
 <t_lemma>rád</t_lemma>
 <functor>COMPL</functor>
@@ -2113,9 +2260,11 @@
 </gram>
 <deepord>15</deepord>
 <coref_text>
+<LM>
 <target-node.rf>ep_107.01-SCzechT-m-d1t277-5</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>coref</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="ep_107.01-SCzechT-ep_107-174-roota4">
@@ -2130,12 +2279,14 @@
 </children>
 </LM>
 </children>
+</LM>
 </children>
 </LM>
 <LM id="ep_107.01-SCzechT-ep_107-d1e266-x3-root">
 <atree.rf>a#ep_107.01-SCzechA-ep_107-d1e266-x3-root</atree.rf>
 <deepord>0</deepord>
-<children id="ep_107.01-SCzechT-m-d1t282-1">
+<children>
+<LM id="ep_107.01-SCzechT-m-d1t282-1">
 <a>
 <lex.rf>a#ep_107.01-SCzechA-m-d1t282-1</lex.rf>
 </a>
@@ -2179,9 +2330,11 @@
 </gram>
 <deepord>1</deepord>
 <coref_text>
+<LM>
 <target-node.rf>ep_107.01-SCzechT-m-d1t273-6x3</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>coref</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="ep_107.01-SCzechT-m-d1t280-47">
@@ -2225,15 +2378,19 @@
 </gram>
 <deepord>3</deepord>
 <coref_text>
+<LM>
 <target-node.rf>ep_107.01-SCzechT-m-d1t280-36</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>coref</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="ep_107.01-SCzechT-m-d1t280-46">
 <a>
 <lex.rf>a#ep_107.01-SCzechA-m-d1t280-46</lex.rf>
-<aux.rf>a#ep_107.01-SCzechA-m-d1t280-45</aux.rf>
+<aux.rf>
+<LM>a#ep_107.01-SCzechA-m-d1t280-45</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>#PersPron</t_lemma>
@@ -2247,9 +2404,11 @@
 </gram>
 <deepord>4</deepord>
 <coref_text>
+<LM>
 <target-node.rf>ep_107.01-SCzechT-m-d1t280-36x3</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>coref</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="ep_107.01-SCzechT-m-d1t280-47x3">
@@ -2262,9 +2421,11 @@
 </gram>
 <deepord>5</deepord>
 <coref_text>
+<LM>
 <target-node.rf>ep_107.01-SCzechT-m-d1t280-40x3</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>coref</src>
+</LM>
 </coref_text>
 </LM>
 </children>
@@ -2327,7 +2488,8 @@
 <negation>neg0</negation>
 </gram>
 <deepord>11</deepord>
-<children id="ep_107.01-SCzechT-m-d1t282-5">
+<children>
+<LM id="ep_107.01-SCzechT-m-d1t282-5">
 <a>
 <lex.rf>a#ep_107.01-SCzechA-m-d1t282-5</lex.rf>
 </a>
@@ -2343,10 +2505,13 @@
 </gram>
 <deepord>10</deepord>
 <coref_text>
+<LM>
 <target-node.rf>ep_107.01-SCzechT-m-d1t280-47x3</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>coref</src>
+</LM>
 </coref_text>
+</LM>
 </children>
 </LM>
 <LM id="ep_107.01-SCzechT-m-d1t282-4">
@@ -2374,7 +2539,9 @@
 <a>
 <lex.rf>a#ep_107.01-SCzechA-m-d1t282-7</lex.rf>
 </a>
-<compl.rf>ep_107.01-SCzechT-m-d1t282-6</compl.rf>
+<compl.rf>
+<LM>ep_107.01-SCzechT-m-d1t282-6</LM>
+</compl.rf>
 <nodetype>complex</nodetype>
 <t_lemma>rád</t_lemma>
 <functor>COMPL</functor>
@@ -2395,16 +2562,20 @@
 </children>
 </LM>
 </children>
+</LM>
 </children>
 <annot_comment>
+<LM>
 <type>Reconstruction</type>
 <text>chybí čárka mezi "zdědil" a "a"</text>
+</LM>
 </annot_comment>
 </LM>
 <LM id="ep_107.01-SCzechT-ep_107-154-root">
 <atree.rf>a#ep_107.01-SCzechA-ep_107-154-root</atree.rf>
 <deepord>0</deepord>
-<children id="ep_107.01-SCzechT-m-d1t284-3">
+<children>
+<LM id="ep_107.01-SCzechT-m-d1t284-3">
 <a>
 <lex.rf>a#ep_107.01-SCzechA-m-d1t284-3</lex.rf>
 </a>
@@ -2442,9 +2613,11 @@
 </gram>
 <deepord>2</deepord>
 <coref_text>
+<LM>
 <target-node.rf>ep_107.01-SCzechT-m-d1t282-8</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>coref</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="ep_107.01-SCzechT-m-d1t284-9">
@@ -2471,10 +2644,13 @@
 <numertype>basic</numertype>
 </gram>
 <deepord>4</deepord>
-<children id="ep_107.01-SCzechT-m-d1t284-7">
+<children>
+<LM id="ep_107.01-SCzechT-m-d1t284-7">
 <a>
 <lex.rf>a#ep_107.01-SCzechA-m-d1t284-7</lex.rf>
-<aux.rf>a#ep_107.01-SCzechA-m-d1t284-6</aux.rf>
+<aux.rf>
+<LM>a#ep_107.01-SCzechA-m-d1t284-6</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>koníček</t_lemma>
@@ -2486,7 +2662,8 @@
 <negation>neg0</negation>
 </gram>
 <deepord>7</deepord>
-<children id="ep_107.01-SCzechT-m-d1t284-11">
+<children>
+<LM id="ep_107.01-SCzechT-m-d1t284-11">
 <a>
 <lex.rf>a#ep_107.01-SCzechA-m-d1t284-11</lex.rf>
 </a>
@@ -2499,7 +2676,8 @@
 <negation>neg0</negation>
 </gram>
 <deepord>6</deepord>
-<children id="ep_107.01-SCzechT-m-d1t284-10">
+<children>
+<LM id="ep_107.01-SCzechT-m-d1t284-10">
 <a>
 <lex.rf>a#ep_107.01-SCzechA-m-d1t284-10</lex.rf>
 </a>
@@ -2511,20 +2689,27 @@
 <negation>neg0</negation>
 </gram>
 <deepord>5</deepord>
-</children>
-</children>
+</LM>
 </children>
 </LM>
 </children>
+</LM>
+</children>
+</LM>
+</children>
+</LM>
 </children>
 </LM>
 <LM id="ep_107.01-SCzechT-ep_107-d1e291-x2-root">
 <atree.rf>a#ep_107.01-SCzechA-ep_107-d1e291-x2-root</atree.rf>
 <deepord>0</deepord>
-<children id="ep_107.01-SCzechT-m-d1t294-4">
+<children>
+<LM id="ep_107.01-SCzechT-m-d1t294-4">
 <a>
 <lex.rf>a#ep_107.01-SCzechA-m-d1t294-4</lex.rf>
-<aux.rf>a#ep_107.01-SCzechA-m-d1t294-2</aux.rf>
+<aux.rf>
+<LM>a#ep_107.01-SCzechA-m-d1t294-2</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w5804f4</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -2568,10 +2753,13 @@
 <sempos>n.pron.def.pers</sempos>
 </gram>
 <deepord>2</deepord>
-<children id="ep_107.01-SCzechT-m-d1t294-6">
+<children>
+<LM id="ep_107.01-SCzechT-m-d1t294-6">
 <a>
 <lex.rf>a#ep_107.01-SCzechA-m-d1t294-6</lex.rf>
-<aux.rf>a#ep_107.01-SCzechA-m-d1t294-5</aux.rf>
+<aux.rf>
+<LM>a#ep_107.01-SCzechA-m-d1t294-5</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>bratr</t_lemma>
@@ -2583,6 +2771,7 @@
 <negation>neg0</negation>
 </gram>
 <deepord>4</deepord>
+</LM>
 </children>
 <bridging>
 <LM>
@@ -2599,9 +2788,13 @@
 </LM>
 <LM id="ep_107.01-SCzechT-ep_107-d1e291-x2-roota1">
 <a>
-<aux.rf>a#ep_107.01-SCzechA-m-d1t294-3</aux.rf>
+<aux.rf>
+<LM>a#ep_107.01-SCzechA-m-d1t294-3</LM>
+</aux.rf>
 </a>
-<coref_gram.rf>ep_107.01-SCzechT-m-d1t294-4x3</coref_gram.rf>
+<coref_gram.rf>
+<LM>ep_107.01-SCzechT-m-d1t294-4x3</LM>
+</coref_gram.rf>
 <nodetype>qcomplex</nodetype>
 <is_generated>1</is_generated>
 <t_lemma>#Rcp</t_lemma>
@@ -2609,12 +2802,14 @@
 <deepord>5</deepord>
 </LM>
 </children>
+</LM>
 </children>
 </LM>
 <LM id="ep_107.01-SCzechT-ep_107-d1e295-x2-root">
 <atree.rf>a#ep_107.01-SCzechA-ep_107-d1e295-x2-root</atree.rf>
 <deepord>0</deepord>
-<children id="ep_107.01-SCzechT-m-d1t302-1">
+<children>
+<LM id="ep_107.01-SCzechT-m-d1t302-1">
 <a>
 <lex.rf>a#ep_107.01-SCzechA-m-d1t302-1</lex.rf>
 </a>
@@ -2626,7 +2821,9 @@
 <LM id="ep_107.01-SCzechT-m-d1t300-5">
 <a>
 <lex.rf>a#ep_107.01-SCzechA-m-d1t300-5</lex.rf>
-<aux.rf>a#ep_107.01-SCzechA-m-d1t300-3</aux.rf>
+<aux.rf>
+<LM>a#ep_107.01-SCzechA-m-d1t300-3</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w5804f4</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -2658,10 +2855,13 @@
 <sempos>n.pron.def.pers</sempos>
 </gram>
 <deepord>2</deepord>
-<children id="ep_107.01-SCzechT-m-d1t300-2">
+<children>
+<LM id="ep_107.01-SCzechT-m-d1t300-2">
 <a>
 <lex.rf>a#ep_107.01-SCzechA-m-d1t300-2</lex.rf>
-<aux.rf>a#ep_107.01-SCzechA-m-d1t300-1</aux.rf>
+<aux.rf>
+<LM>a#ep_107.01-SCzechA-m-d1t300-1</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>bratr</t_lemma>
@@ -2674,22 +2874,31 @@
 </gram>
 <deepord>1</deepord>
 <coref_text>
+<LM>
 <target-node.rf>ep_107.01-SCzechT-m-d1t294-6</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>hana</src>
+</LM>
 </coref_text>
+</LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>ep_107.01-SCzechT-ep_107-d1e291-x2-roota1</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>coref</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="ep_107.01-SCzechT-ep_107-d1e295-x2-roota4">
 <a>
-<aux.rf>a#ep_107.01-SCzechA-m-d1t300-4</aux.rf>
+<aux.rf>
+<LM>a#ep_107.01-SCzechA-m-d1t300-4</LM>
+</aux.rf>
 </a>
-<coref_gram.rf>ep_107.01-SCzechT-m-d1t300-5x3</coref_gram.rf>
+<coref_gram.rf>
+<LM>ep_107.01-SCzechT-m-d1t300-5x3</LM>
+</coref_gram.rf>
 <nodetype>qcomplex</nodetype>
 <is_generated>1</is_generated>
 <t_lemma>#Rcp</t_lemma>
@@ -2709,7 +2918,8 @@
 <negation>neg0</negation>
 </gram>
 <deepord>5</deepord>
-<children id="ep_107.01-SCzechT-m-d1t300-6">
+<children>
+<LM id="ep_107.01-SCzechT-m-d1t300-6">
 <a>
 <lex.rf>a#ep_107.01-SCzechA-m-d1t300-6</lex.rf>
 </a>
@@ -2722,6 +2932,7 @@
 <numertype>basic</numertype>
 </gram>
 <deepord>6</deepord>
+</LM>
 </children>
 </LM>
 </children>
@@ -2772,10 +2983,13 @@
 <sempos>adv.pron.def</sempos>
 </gram>
 <deepord>8</deepord>
-<children id="ep_107.01-SCzechT-m-d1t302-7">
+<children>
+<LM id="ep_107.01-SCzechT-m-d1t302-7">
 <a>
 <lex.rf>a#ep_107.01-SCzechA-m-d1t302-7</lex.rf>
-<aux.rf>a#ep_107.01-SCzechA-m-d1t302-5</aux.rf>
+<aux.rf>
+<LM>a#ep_107.01-SCzechA-m-d1t302-5</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>rok</t_lemma>
@@ -2787,7 +3001,8 @@
 <negation>neg0</negation>
 </gram>
 <deepord>9</deepord>
-<children id="ep_107.01-SCzechT-m-d1t302-6">
+<children>
+<LM id="ep_107.01-SCzechT-m-d1t302-6">
 <a>
 <lex.rf>a#ep_107.01-SCzechA-m-d1t302-6</lex.rf>
 </a>
@@ -2801,7 +3016,9 @@
 <numertype>basic</numertype>
 </gram>
 <deepord>10</deepord>
+</LM>
 </children>
+</LM>
 </children>
 </LM>
 <LM id="ep_107.01-SCzechT-m-d1t302-4x3">
@@ -2814,9 +3031,11 @@
 </gram>
 <deepord>11</deepord>
 <coref_text>
+<LM>
 <target-node.rf>ep_107.01-SCzechT-m-d1t300-2</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>coref</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="ep_107.01-SCzechT-ep_107-d1e295-x2-roota2">
@@ -2829,7 +3048,9 @@
 <LM id="ep_107.01-SCzechT-m-d1t302-10">
 <a>
 <lex.rf>a#ep_107.01-SCzechA-m-d1t302-10</lex.rf>
-<aux.rf>a#ep_107.01-SCzechA-m-d1t302-8</aux.rf>
+<aux.rf>
+<LM>a#ep_107.01-SCzechA-m-d1t302-8</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>Amerika</t_lemma>
@@ -2896,7 +3117,8 @@
 <negation>neg0</negation>
 </gram>
 <deepord>18</deepord>
-<children id="ep_107.01-SCzechT-m-d1t302-14">
+<children>
+<LM id="ep_107.01-SCzechT-m-d1t302-14">
 <a>
 <lex.rf>a#ep_107.01-SCzechA-m-d1t302-14</lex.rf>
 </a>
@@ -2909,6 +3131,7 @@
 <negation>neg0</negation>
 </gram>
 <deepord>17</deepord>
+</LM>
 </children>
 </LM>
 <LM id="ep_107.01-SCzechT-m-d1t302-19x3">
@@ -2921,13 +3144,17 @@
 </gram>
 <deepord>19</deepord>
 <coref_text>
+<LM>
 <target-node.rf>ep_107.01-SCzechT-ep_107-d1e295-x2-roota4</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>coref</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="ep_107.01-SCzechT-ep_107-d1e295-x2-roota5">
-<coref_gram.rf>ep_107.01-SCzechT-m-d1t302-19x3</coref_gram.rf>
+<coref_gram.rf>
+<LM>ep_107.01-SCzechT-m-d1t302-19x3</LM>
+</coref_gram.rf>
 <nodetype>qcomplex</nodetype>
 <is_generated>1</is_generated>
 <t_lemma>#Rcp</t_lemma>
@@ -2946,12 +3173,14 @@
 </children>
 </LM>
 </children>
+</LM>
 </children>
 </LM>
 <LM id="ep_107.01-SCzechT-ep_107-51-root">
 <atree.rf>a#ep_107.01-SCzechA-ep_107-51-root</atree.rf>
 <deepord>0</deepord>
-<children id="ep_107.01-SCzechT-m-d1t302-30">
+<children>
+<LM id="ep_107.01-SCzechT-m-d1t302-30">
 <a>
 <lex.rf>a#ep_107.01-SCzechA-m-d1t302-30</lex.rf>
 </a>
@@ -3009,7 +3238,8 @@
 <negation>neg0</negation>
 </gram>
 <deepord>2</deepord>
-<children id="ep_107.01-SCzechT-m-d1t302-26">
+<children>
+<LM id="ep_107.01-SCzechT-m-d1t302-26">
 <a>
 <lex.rf>a#ep_107.01-SCzechA-m-d1t302-26</lex.rf>
 </a>
@@ -3023,6 +3253,7 @@
 <negation>neg0</negation>
 </gram>
 <deepord>3</deepord>
+</LM>
 </children>
 </LM>
 <LM id="ep_107.01-SCzechT-m-d1t302-27">
@@ -3068,18 +3299,22 @@
 </gram>
 <deepord>7</deepord>
 <coref_text>
+<LM>
 <target-node.rf>ep_107.01-SCzechT-m-d1t302-4x3</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>coref</src>
+</LM>
 </coref_text>
 </LM>
 </children>
+</LM>
 </children>
 </LM>
 <LM id="ep_107.01-SCzechT-ep_107-185-root">
 <atree.rf>a#ep_107.01-SCzechA-ep_107-185-root</atree.rf>
 <deepord>0</deepord>
-<children id="ep_107.01-SCzechT-m-d1t306-10">
+<children>
+<LM id="ep_107.01-SCzechT-m-d1t306-10">
 <a>
 <lex.rf>a#ep_107.01-SCzechA-m-d1t306-10</lex.rf>
 </a>
@@ -3116,10 +3351,13 @@
 <negation>neg0</negation>
 </gram>
 <deepord>1</deepord>
-<children id="ep_107.01-SCzechT-m-d1t306-4">
+<children>
+<LM id="ep_107.01-SCzechT-m-d1t306-4">
 <a>
 <lex.rf>a#ep_107.01-SCzechA-m-d1t306-4</lex.rf>
-<aux.rf>a#ep_107.01-SCzechA-m-d1t306-3</aux.rf>
+<aux.rf>
+<LM>a#ep_107.01-SCzechA-m-d1t306-3</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w5160f1</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -3157,9 +3395,11 @@
 </gram>
 <deepord>4</deepord>
 <coref_text>
+<LM>
 <target-node.rf>ep_107.01-SCzechT-m-d1t302-30x3</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>coref</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="ep_107.01-SCzechT-m-d1t306-5">
@@ -3178,9 +3418,13 @@
 <LM id="ep_107.01-SCzechT-m-d1t306-7">
 <a>
 <lex.rf>a#ep_107.01-SCzechA-m-d1t306-7</lex.rf>
-<aux.rf>a#ep_107.01-SCzechA-m-d1t306-6</aux.rf>
+<aux.rf>
+<LM>a#ep_107.01-SCzechA-m-d1t306-6</LM>
+</aux.rf>
 </a>
-<compl.rf>ep_107.01-SCzechT-ep_107-185-roota1</compl.rf>
+<compl.rf>
+<LM>ep_107.01-SCzechT-ep_107-185-roota1</LM>
+</compl.rf>
 <nodetype>complex</nodetype>
 <t_lemma>Američan</t_lemma>
 <functor>COMPL</functor>
@@ -3193,6 +3437,7 @@
 <deepord>6</deepord>
 </LM>
 </children>
+</LM>
 </children>
 </LM>
 <LM id="ep_107.01-SCzechT-m-d1t306-9">
@@ -3214,9 +3459,11 @@
 </gram>
 <deepord>8</deepord>
 <coref_text>
+<LM>
 <target-node.rf>ep_107.01-SCzechT-ep_107-185-roota1</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>coref</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="ep_107.01-SCzechT-ep_107-185-roota3">
@@ -3233,7 +3480,9 @@
 <LM id="ep_107.01-SCzechT-m-d1t306-14">
 <a>
 <lex.rf>a#ep_107.01-SCzechA-m-d1t306-14</lex.rf>
-<aux.rf>a#ep_107.01-SCzechA-m-d1t306-13</aux.rf>
+<aux.rf>
+<LM>a#ep_107.01-SCzechA-m-d1t306-13</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w7706f1</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -3278,9 +3527,11 @@
 </gram>
 <deepord>12</deepord>
 <coref_text>
+<LM>
 <target-node.rf>ep_107.01-SCzechT-m-d1t306-10x3</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>coref</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="ep_107.01-SCzechT-m-d1t306-15">
@@ -3304,10 +3555,13 @@
 <negation>neg0</negation>
 </gram>
 <deepord>15</deepord>
-<children id="ep_107.01-SCzechT-m-d1t306-19">
+<children>
+<LM id="ep_107.01-SCzechT-m-d1t306-19">
 <a>
 <lex.rf>a#ep_107.01-SCzechA-m-d1t306-19</lex.rf>
-<aux.rf>a#ep_107.01-SCzechA-m-d1t306-17</aux.rf>
+<aux.rf>
+<LM>a#ep_107.01-SCzechA-m-d1t306-17</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>vlast</t_lemma>
@@ -3319,17 +3573,20 @@
 <negation>neg0</negation>
 </gram>
 <deepord>16</deepord>
-</children>
 </LM>
 </children>
 </LM>
 </children>
+</LM>
+</children>
+</LM>
 </children>
 </LM>
 <LM id="ep_107.01-SCzechT-ep_107-195-root">
 <atree.rf>a#ep_107.01-SCzechA-ep_107-195-root</atree.rf>
 <deepord>0</deepord>
-<children id="ep_107.01-SCzechT-m-d1t309-7">
+<children>
+<LM id="ep_107.01-SCzechT-m-d1t309-7">
 <a>
 <lex.rf>a#ep_107.01-SCzechA-m-d1t309-7</lex.rf>
 </a>
@@ -3373,9 +3630,11 @@
 </gram>
 <deepord>1</deepord>
 <coref_text>
+<LM>
 <target-node.rf>ep_107.01-SCzechT-m-d1t306-14x3</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>coref</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="ep_107.01-SCzechT-m-d1t309-2">
@@ -3394,7 +3653,9 @@
 <a>
 <lex.rf>a#ep_107.01-SCzechA-m-d1t309-5</lex.rf>
 </a>
-<compl.rf>ep_107.01-SCzechT-m-d1t309-3x3</compl.rf>
+<compl.rf>
+<LM>ep_107.01-SCzechT-m-d1t309-3x3</LM>
+</compl.rf>
 <nodetype>complex</nodetype>
 <t_lemma>rád</t_lemma>
 <functor>COMPL</functor>
@@ -3404,7 +3665,8 @@
 <negation>neg0</negation>
 </gram>
 <deepord>5</deepord>
-<children id="ep_107.01-SCzechT-m-d1t309-4">
+<children>
+<LM id="ep_107.01-SCzechT-m-d1t309-4">
 <a>
 <lex.rf>a#ep_107.01-SCzechA-m-d1t309-4</lex.rf>
 </a>
@@ -3417,6 +3679,7 @@
 <negation>neg0</negation>
 </gram>
 <deepord>4</deepord>
+</LM>
 </children>
 </LM>
 </children>
@@ -3434,7 +3697,9 @@
 <LM id="ep_107.01-SCzechT-m-d1t309-12">
 <a>
 <lex.rf>a#ep_107.01-SCzechA-m-d1t309-12</lex.rf>
-<aux.rf>a#ep_107.01-SCzechA-m-d1t309-9</aux.rf>
+<aux.rf>
+<LM>a#ep_107.01-SCzechA-m-d1t309-9</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w6348f1</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -3480,9 +3745,11 @@
 </gram>
 <deepord>8</deepord>
 <coref_text>
+<LM>
 <target-node.rf>ep_107.01-SCzechT-m-d1t309-3x3</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>coref</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="ep_107.01-SCzechT-m-d1t309-11">
@@ -3499,9 +3766,11 @@
 </gram>
 <deepord>9</deepord>
 <coref_text>
+<LM>
 <target-node.rf>ep_107.01-SCzechT-m-d1t306-14</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>coref</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="ep_107.01-SCzechT-ep_107-195-roota1">
@@ -3547,15 +3816,19 @@
 </gram>
 <deepord>14</deepord>
 <coref_text>
+<LM>
 <target-node.rf>ep_107.01-SCzechT-m-d1t309-10</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>coref</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="ep_107.01-SCzechT-m-d1t309-17">
 <a>
 <lex.rf>a#ep_107.01-SCzechA-m-d1t309-17</lex.rf>
-<aux.rf>a#ep_107.01-SCzechA-m-d1t309-15</aux.rf>
+<aux.rf>
+<LM>a#ep_107.01-SCzechA-m-d1t309-15</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>Florida</t_lemma>
@@ -3573,15 +3846,19 @@
 </children>
 </LM>
 </children>
+</LM>
 </children>
 </LM>
 <LM id="ep_107.01-SCzechT-ep_107-d1e317-x2-root">
 <atree.rf>a#ep_107.01-SCzechA-ep_107-d1e317-x2-root</atree.rf>
 <deepord>0</deepord>
-<children id="ep_107.01-SCzechT-m-d1t320-1">
+<children>
+<LM id="ep_107.01-SCzechT-m-d1t320-1">
 <a>
 <lex.rf>a#ep_107.01-SCzechA-m-d1t320-1</lex.rf>
-<aux.rf>a#ep_107.01-SCzechA-m-d1t320-2</aux.rf>
+<aux.rf>
+<LM>a#ep_107.01-SCzechA-m-d1t320-2</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w3574f2</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -3617,7 +3894,9 @@
 <LM id="ep_107.01-SCzechT-m-d1t320-5">
 <a>
 <lex.rf>a#ep_107.01-SCzechA-m-d1t320-5</lex.rf>
-<aux.rf>a#ep_107.01-SCzechA-m-d1t320-3</aux.rf>
+<aux.rf>
+<LM>a#ep_107.01-SCzechA-m-d1t320-3</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>fotka</t_lemma>
@@ -3629,7 +3908,8 @@
 <negation>neg0</negation>
 </gram>
 <deepord>4</deepord>
-<children id="ep_107.01-SCzechT-m-d1t320-4">
+<children>
+<LM id="ep_107.01-SCzechT-m-d1t320-4">
 <a>
 <lex.rf>a#ep_107.01-SCzechA-m-d1t320-4</lex.rf>
 </a>
@@ -3642,21 +3922,25 @@
 <negation>neg0</negation>
 </gram>
 <deepord>3</deepord>
+</LM>
 </children>
 </LM>
 </children>
+</LM>
 </children>
 </LM>
 <LM id="ep_107.01-SCzechT-ep_107-d1e321-x2-root">
 <atree.rf>a#ep_107.01-SCzechA-ep_107-d1e321-x2-root</atree.rf>
 <deepord>0</deepord>
-<children id="ep_107.01-SCzechT-ep_107-d1e321-x2-roota1">
+<children>
+<LM id="ep_107.01-SCzechT-ep_107-d1e321-x2-roota1">
 <nodetype>qcomplex</nodetype>
 <is_generated>1</is_generated>
 <t_lemma>#EmpVerb</t_lemma>
 <functor>PRED</functor>
 <deepord>1</deepord>
-<children id="ep_107.01-SCzechT-m-d1t324-1">
+<children>
+<LM id="ep_107.01-SCzechT-m-d1t324-1">
 <a>
 <lex.rf>a#ep_107.01-SCzechA-m-d1t324-1</lex.rf>
 </a>
@@ -3669,13 +3953,16 @@
 <negation>neg0</negation>
 </gram>
 <deepord>2</deepord>
+</LM>
 </children>
+</LM>
 </children>
 </LM>
 <LM id="ep_107.01-SCzechT-ep_107-d1e325-x2-root">
 <atree.rf>a#ep_107.01-SCzechA-ep_107-d1e325-x2-root</atree.rf>
 <deepord>0</deepord>
-<children id="ep_107.01-SCzechT-m-d1t328-2">
+<children>
+<LM id="ep_107.01-SCzechT-m-d1t328-2">
 <a>
 <lex.rf>a#ep_107.01-SCzechA-m-d1t328-2</lex.rf>
 </a>
@@ -3746,9 +4033,11 @@
 </gram>
 <deepord>4</deepord>
 <coref_text>
+<LM>
 <target-node.rf>ep_107.01-SCzechT-m-d1t328-1</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>coref</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="ep_107.01-SCzechT-ep_107-d1e325-x2-roota1">
@@ -3761,15 +4050,19 @@
 </gram>
 <deepord>5</deepord>
 <coref_text>
+<LM>
 <target-node.rf>ep_107.01-SCzechT-m-d1t320-1x3</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>coref</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="ep_107.01-SCzechT-m-d1t328-6">
 <a>
 <lex.rf>a#ep_107.01-SCzechA-m-d1t328-6</lex.rf>
-<aux.rf>a#ep_107.01-SCzechA-m-d1t328-4</aux.rf>
+<aux.rf>
+<LM>a#ep_107.01-SCzechA-m-d1t328-4</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>fotka</t_lemma>
@@ -3781,7 +4074,8 @@
 <negation>neg0</negation>
 </gram>
 <deepord>7</deepord>
-<children id="ep_107.01-SCzechT-m-d1t328-5">
+<children>
+<LM id="ep_107.01-SCzechT-m-d1t328-5">
 <a>
 <lex.rf>a#ep_107.01-SCzechA-m-d1t328-5</lex.rf>
 </a>
@@ -3794,17 +4088,20 @@
 <number>sg</number>
 </gram>
 <deepord>6</deepord>
-</children>
 </LM>
 </children>
 </LM>
 </children>
+</LM>
+</children>
+</LM>
 </children>
 </LM>
 <LM id="ep_107.01-SCzechT-ep_107-d1e329-x2-root">
 <atree.rf>a#ep_107.01-SCzechA-ep_107-d1e329-x2-root</atree.rf>
 <deepord>0</deepord>
-<children id="ep_107.01-SCzechT-m-d1t332-7">
+<children>
+<LM id="ep_107.01-SCzechT-m-d1t332-7">
 <a>
 <lex.rf>a#ep_107.01-SCzechA-m-d1t332-7</lex.rf>
 </a>
@@ -3823,9 +4120,11 @@
 </gram>
 <deepord>2</deepord>
 <coref_text>
+<LM>
 <target-node.rf>ep_107.01-SCzechT-m-d1t282-5</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>coref</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="ep_107.01-SCzechT-m-d1t332-5">
@@ -3910,7 +4209,9 @@
 <LM id="ep_107.01-SCzechT-m-d1e329-x2-223">
 <a>
 <lex.rf>a#ep_107.01-SCzechA-m-d1e329-x2-223</lex.rf>
-<aux.rf>a#ep_107.01-SCzechA-m-d1t332-10</aux.rf>
+<aux.rf>
+<LM>a#ep_107.01-SCzechA-m-d1t332-10</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>maminka</t_lemma>
@@ -3939,9 +4240,11 @@
 </gram>
 <deepord>7</deepord>
 <coref_text>
+<LM>
 <target-node.rf>ep_107.01-SCzechT-m-d1t332-5x3</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>coref</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="ep_107.01-SCzechT-m-d1e329-x2-227">
@@ -3983,9 +4286,11 @@
 <is_parenthesis>1</is_parenthesis>
 <deepord>10</deepord>
 <coref_text>
+<LM>
 <target-node.rf>ep_107.01-SCzechT-m-d1e329-x2-223</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>coref</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="ep_107.01-SCzechT-m-d1t332-18">
@@ -4021,9 +4326,11 @@
 <is_parenthesis>1</is_parenthesis>
 <deepord>11</deepord>
 <coref_text>
+<LM>
 <target-node.rf>ep_107.01-SCzechT-m-d1e329-x2-219</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>coref</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="ep_107.01-SCzechT-m-d1t332-17">
@@ -4047,15 +4354,19 @@
 </LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>ep_107.01-SCzechT-ep_107-d1e325-x2-roota2</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>hana</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="ep_107.01-SCzechT-m-d1t332-21">
 <a>
 <lex.rf>a#ep_107.01-SCzechA-m-d1t332-21</lex.rf>
-<aux.rf>a#ep_107.01-SCzechA-m-d1t332-19</aux.rf>
+<aux.rf>
+<LM>a#ep_107.01-SCzechA-m-d1t332-19</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>Praha</t_lemma>
@@ -4071,12 +4382,14 @@
 </children>
 </LM>
 </children>
+</LM>
 </children>
 </LM>
 <LM id="ep_107.01-SCzechT-ep_107-8-root">
 <atree.rf>a#ep_107.01-SCzechA-ep_107-8-root</atree.rf>
 <deepord>0</deepord>
-<children id="ep_107.01-SCzechT-ep_107-8-roota2">
+<children>
+<LM id="ep_107.01-SCzechT-ep_107-8-roota2">
 <a>
 <lex.rf>a#ep_107.01-SCzechA-m-d-id71508-punct</lex.rf>
 </a>
@@ -4099,7 +4412,8 @@
 <negation>neg0</negation>
 </gram>
 <deepord>1</deepord>
-<children id="ep_107.01-SCzechT-m-d1t334-4">
+<children>
+<LM id="ep_107.01-SCzechT-m-d1t334-4">
 <a>
 <lex.rf>a#ep_107.01-SCzechA-m-d1t334-4</lex.rf>
 </a>
@@ -4126,7 +4440,9 @@
 <a>
 <lex.rf>a#ep_107.01-SCzechA-m-d1t334-3</lex.rf>
 </a>
-<coref_gram.rf>ep_107.01-SCzechT-m-d1t334-2</coref_gram.rf>
+<coref_gram.rf>
+<LM>ep_107.01-SCzechT-m-d1t334-2</LM>
+</coref_gram.rf>
 <nodetype>complex</nodetype>
 <t_lemma>co</t_lemma>
 <functor>ACT</functor>
@@ -4142,7 +4458,9 @@
 <LM id="ep_107.01-SCzechT-m-d1t334-6">
 <a>
 <lex.rf>a#ep_107.01-SCzechA-m-d1t334-6</lex.rf>
-<aux.rf>a#ep_107.01-SCzechA-m-d1t334-5</aux.rf>
+<aux.rf>
+<LM>a#ep_107.01-SCzechA-m-d1t334-5</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>#PersPron</t_lemma>
@@ -4169,6 +4487,7 @@
 </bridging>
 </LM>
 </children>
+</LM>
 </children>
 </LM>
 <LM id="ep_107.01-SCzechT-m-d1t334-11">
@@ -4198,7 +4517,9 @@
 <LM id="ep_107.01-SCzechT-m-d1t334-10">
 <a>
 <lex.rf>a#ep_107.01-SCzechA-m-d1t334-10</lex.rf>
-<aux.rf>a#ep_107.01-SCzechA-m-d1t334-9</aux.rf>
+<aux.rf>
+<LM>a#ep_107.01-SCzechA-m-d1t334-9</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>#PersPron</t_lemma>
@@ -4212,9 +4533,11 @@
 </gram>
 <deepord>5</deepord>
 <coref_text>
+<LM>
 <target-node.rf>ep_107.01-SCzechT-m-d1t334-6</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>coref</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="ep_107.01-SCzechT-ep_107-8-roota1">
@@ -4229,7 +4552,9 @@
 <LM id="ep_107.01-SCzechT-m-d1t334-16">
 <a>
 <lex.rf>a#ep_107.01-SCzechA-m-d1t334-16</lex.rf>
-<aux.rf>a#ep_107.01-SCzechA-m-d1t334-14</aux.rf>
+<aux.rf>
+<LM>a#ep_107.01-SCzechA-m-d1t334-14</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w2500f2</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -4264,9 +4589,11 @@
 </gram>
 <deepord>10</deepord>
 <coref_text>
+<LM>
 <target-node.rf>ep_107.01-SCzechT-m-d1t328-6</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>hana</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="ep_107.01-SCzechT-m-d1t334-17">
@@ -4285,12 +4612,14 @@
 </children>
 </LM>
 </children>
+</LM>
 </children>
 </LM>
 <LM id="ep_107.01-SCzechT-ep_107-222-root">
 <atree.rf>a#ep_107.01-SCzechA-ep_107-222-root</atree.rf>
 <deepord>0</deepord>
-<children id="ep_107.01-SCzechT-m-d1t338-7">
+<children>
+<LM id="ep_107.01-SCzechT-m-d1t338-7">
 <a>
 <lex.rf>a#ep_107.01-SCzechA-m-d1t338-7</lex.rf>
 </a>
@@ -4302,7 +4631,9 @@
 <LM id="ep_107.01-SCzechT-m-d1t338-6">
 <a>
 <lex.rf>a#ep_107.01-SCzechA-m-d1t338-6</lex.rf>
-<aux.rf>a#ep_107.01-SCzechA-m-d1t338-4</aux.rf>
+<aux.rf>
+<LM>a#ep_107.01-SCzechA-m-d1t338-4</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w840f1</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -4340,9 +4671,11 @@
 </gram>
 <deepord>1</deepord>
 <coref_text>
+<LM>
 <target-node.rf>ep_107.01-SCzechT-m-d1e329-x2-226</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>hana</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="ep_107.01-SCzechT-m-d1t338-5">
@@ -4361,9 +4694,11 @@
 </gram>
 <deepord>2</deepord>
 <coref_text>
+<LM>
 <target-node.rf>ep_107.01-SCzechT-m-d1e329-x2-228</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>coref</src>
+</LM>
 </coref_text>
 </LM>
 </children>
@@ -4394,7 +4729,9 @@
 <LM id="ep_107.01-SCzechT-m-d1t338-9">
 <a>
 <lex.rf>a#ep_107.01-SCzechA-m-d1t338-9</lex.rf>
-<aux.rf>a#ep_107.01-SCzechA-m-d1t338-8</aux.rf>
+<aux.rf>
+<LM>a#ep_107.01-SCzechA-m-d1t338-8</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w7612f1</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -4440,9 +4777,11 @@
 <is_parenthesis>1</is_parenthesis>
 <deepord>7</deepord>
 <coref_text>
+<LM>
 <target-node.rf>ep_107.01-SCzechT-m-d1t340-4</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>coref</src>
+</LM>
 </coref_text>
 </LM>
 </children>
@@ -4484,7 +4823,8 @@
 <negation>neg0</negation>
 </gram>
 <deepord>12</deepord>
-<children id="ep_107.01-SCzechT-m-d1t340-5">
+<children>
+<LM id="ep_107.01-SCzechT-m-d1t340-5">
 <a>
 <lex.rf>a#ep_107.01-SCzechA-m-d1t340-5</lex.rf>
 </a>
@@ -4496,17 +4836,20 @@
 <negation>neg0</negation>
 </gram>
 <deepord>11</deepord>
-</children>
 </LM>
 </children>
 </LM>
 </children>
+</LM>
+</children>
+</LM>
 </children>
 </LM>
 <LM id="ep_107.01-SCzechT-ep_107-232-root">
 <atree.rf>a#ep_107.01-SCzechA-ep_107-232-root</atree.rf>
 <deepord>0</deepord>
-<children id="ep_107.01-SCzechT-m-d1t343-6">
+<children>
+<LM id="ep_107.01-SCzechT-m-d1t343-6">
 <a>
 <lex.rf>a#ep_107.01-SCzechA-m-d1t343-6</lex.rf>
 </a>
@@ -4530,9 +4873,11 @@
 </gram>
 <deepord>1</deepord>
 <coref_text>
+<LM>
 <target-node.rf>ep_107.01-SCzechT-m-d1t338-3</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>hana</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="ep_107.01-SCzechT-m-d1t343-3">
@@ -4576,9 +4921,11 @@
 </gram>
 <deepord>2</deepord>
 <coref_text>
+<LM>
 <target-node.rf>ep_107.01-SCzechT-m-d1t338-5</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>coref</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="ep_107.01-SCzechT-m-d1t343-4">
@@ -4609,7 +4956,9 @@
 <LM id="ep_107.01-SCzechT-m-d1t343-7">
 <a>
 <lex.rf>a#ep_107.01-SCzechA-m-d1t343-7</lex.rf>
-<aux.rf>a#ep_107.01-SCzechA-m-d1t343-8</aux.rf>
+<aux.rf>
+<LM>a#ep_107.01-SCzechA-m-d1t343-8</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w6234f1</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -4688,7 +5037,9 @@
 <deepord>10</deepord>
 </LM>
 <LM id="ep_107.01-SCzechT-ep_107-232-roota1">
-<coref_gram.rf>ep_107.01-SCzechT-m-d1t343-1</coref_gram.rf>
+<coref_gram.rf>
+<LM>ep_107.01-SCzechT-m-d1t343-1</LM>
+</coref_gram.rf>
 <nodetype>qcomplex</nodetype>
 <is_generated>1</is_generated>
 <t_lemma>#Cor</t_lemma>
@@ -4709,10 +5060,13 @@
 <negation>neg0</negation>
 </gram>
 <deepord>13</deepord>
-<children id="ep_107.01-SCzechT-m-d1t343-19">
+<children>
+<LM id="ep_107.01-SCzechT-m-d1t343-19">
 <a>
 <lex.rf>a#ep_107.01-SCzechA-m-d1t343-19</lex.rf>
-<aux.rf>a#ep_107.01-SCzechA-m-d1t343-15</aux.rf>
+<aux.rf>
+<LM>a#ep_107.01-SCzechA-m-d1t343-15</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>tatínek</t_lemma>
@@ -4741,9 +5095,11 @@
 </gram>
 <deepord>14</deepord>
 <coref_text>
+<LM>
 <target-node.rf>ep_107.01-SCzechT-m-d1t343-2</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>coref</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="ep_107.01-SCzechT-m-d1t343-18">
@@ -4762,23 +5118,28 @@
 </LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>ep_107.01-SCzechT-m-d1t280-46</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>hana</src>
+</LM>
 </coref_text>
-</children>
 </LM>
 </children>
 </LM>
 </children>
 </LM>
 </children>
+</LM>
+</children>
+</LM>
 </children>
 </LM>
 <LM id="ep_107.01-SCzechT-ep_107-d1e329-x3-root">
 <atree.rf>a#ep_107.01-SCzechA-ep_107-d1e329-x3-root</atree.rf>
 <deepord>0</deepord>
-<children id="ep_107.01-SCzechT-m-d1t345-1">
+<children>
+<LM id="ep_107.01-SCzechT-m-d1t345-1">
 <a>
 <lex.rf>a#ep_107.01-SCzechA-m-d1t345-1</lex.rf>
 </a>
@@ -4812,9 +5173,11 @@
 </gram>
 <deepord>1</deepord>
 <coref_text>
+<LM>
 <target-node.rf>ep_107.01-SCzechT-m-d1t343-17</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>coref</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="ep_107.01-SCzechT-m-d1t345-6">
@@ -4876,9 +5239,11 @@
 <is_parenthesis>1</is_parenthesis>
 <deepord>4</deepord>
 <coref_text>
+<LM>
 <target-node.rf>ep_107.01-SCzechT-m-d1t338-9x3</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>coref</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="ep_107.01-SCzechT-m-d1t345-6x3">
@@ -4892,9 +5257,11 @@
 <is_parenthesis>1</is_parenthesis>
 <deepord>5</deepord>
 <coref_text>
+<LM>
 <target-node.rf>ep_107.01-SCzechT-m-d1t345-1x3</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>coref</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="ep_107.01-SCzechT-ep_107-d1e329-x3-roota1">
@@ -4908,9 +5275,11 @@
 <is_parenthesis>1</is_parenthesis>
 <deepord>7</deepord>
 <coref_text>
+<LM>
 <target-node.rf>ep_107.01-SCzechT-m-d1t345-11</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>coref</src>
+</LM>
 </coref_text>
 </LM>
 </children>
@@ -4918,7 +5287,9 @@
 <LM id="ep_107.01-SCzechT-m-d1t345-11">
 <a>
 <lex.rf>a#ep_107.01-SCzechA-m-d1t345-11</lex.rf>
-<aux.rf>a#ep_107.01-SCzechA-m-d1e329-x3-250</aux.rf>
+<aux.rf>
+<LM>a#ep_107.01-SCzechA-m-d1e329-x3-250</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w10030f1</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -4999,15 +5370,19 @@
 </children>
 </LM>
 </children>
+</LM>
 </children>
 </LM>
 <LM id="ep_107.01-SCzechT-ep_107-248-root">
 <atree.rf>a#ep_107.01-SCzechA-ep_107-248-root</atree.rf>
 <deepord>0</deepord>
-<children id="ep_107.01-SCzechT-m-d1t347-3">
+<children>
+<LM id="ep_107.01-SCzechT-m-d1t347-3">
 <a>
 <lex.rf>a#ep_107.01-SCzechA-m-d1t347-3</lex.rf>
-<aux.rf>a#ep_107.01-SCzechA-m-d1t347-2</aux.rf>
+<aux.rf>
+<LM>a#ep_107.01-SCzechA-m-d1t347-2</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w11933_ZUf1_ZU</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -5041,9 +5416,11 @@
 </gram>
 <deepord>1</deepord>
 <coref_text>
+<LM>
 <target-node.rf>ep_107.01-SCzechT-m-d1t334-15</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>hana</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="ep_107.01-SCzechT-m-d1t347-3x3">
@@ -5071,7 +5448,9 @@
 <LM id="ep_107.01-SCzechT-m-d1t347-7">
 <a>
 <lex.rf>a#ep_107.01-SCzechA-m-d1t347-7</lex.rf>
-<aux.rf>a#ep_107.01-SCzechA-m-d1t347-4</aux.rf>
+<aux.rf>
+<LM>a#ep_107.01-SCzechA-m-d1t347-4</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>náměstí</t_lemma>
@@ -5083,7 +5462,8 @@
 <negation>neg0</negation>
 </gram>
 <deepord>5</deepord>
-<children id="ep_107.01-SCzechT-m-d1t347-6">
+<children>
+<LM id="ep_107.01-SCzechT-m-d1t347-6">
 <a>
 <lex.rf>a#ep_107.01-SCzechA-m-d1t347-6</lex.rf>
 </a>
@@ -5096,19 +5476,24 @@
 <negation>neg0</negation>
 </gram>
 <deepord>4</deepord>
+</LM>
 </children>
 <annot_comment>
+<LM>
 <type>New valency frame</type>
 <text>nP</text>
+</LM>
 </annot_comment>
 </LM>
 </children>
+</LM>
 </children>
 </LM>
 <LM id="ep_107.01-SCzechT-ep_107-256-root">
 <atree.rf>a#ep_107.01-SCzechA-ep_107-256-root</atree.rf>
 <deepord>0</deepord>
-<children id="ep_107.01-SCzechT-m-d1t347-12">
+<children>
+<LM id="ep_107.01-SCzechT-m-d1t347-12">
 <a>
 <lex.rf>a#ep_107.01-SCzechA-m-d1t347-12</lex.rf>
 </a>
@@ -5147,9 +5532,11 @@
 </gram>
 <deepord>1</deepord>
 <coref_text>
+<LM>
 <target-node.rf>ep_107.01-SCzechT-m-d1t347-1</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>hana</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="ep_107.01-SCzechT-m-d1t347-16">
@@ -5166,7 +5553,8 @@
 <negation>neg0</negation>
 </gram>
 <deepord>4</deepord>
-<children id="ep_107.01-SCzechT-m-d1t347-15">
+<children>
+<LM id="ep_107.01-SCzechT-m-d1t347-15">
 <a>
 <lex.rf>a#ep_107.01-SCzechA-m-d1t347-15</lex.rf>
 </a>
@@ -5179,15 +5567,18 @@
 <negation>neg0</negation>
 </gram>
 <deepord>3</deepord>
+</LM>
 </children>
 </LM>
 </children>
+</LM>
 </children>
 </LM>
 <LM id="ep_107.01-SCzechT-ep_107-258-root">
 <atree.rf>a#ep_107.01-SCzechA-ep_107-258-root</atree.rf>
 <deepord>0</deepord>
-<children id="ep_107.01-SCzechT-m-d1t351-3">
+<children>
+<LM id="ep_107.01-SCzechT-m-d1t351-3">
 <a>
 <lex.rf>a#ep_107.01-SCzechA-m-d1t351-3</lex.rf>
 </a>
@@ -5225,9 +5616,11 @@
 </gram>
 <deepord>2</deepord>
 <coref_text>
+<LM>
 <target-node.rf>ep_107.01-SCzechT-m-d1t347-12</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>coref</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="ep_107.01-SCzechT-m-d1t351-1">
@@ -5272,7 +5665,9 @@
 <LM id="ep_107.01-SCzechT-m-d1t351-9">
 <a>
 <lex.rf>a#ep_107.01-SCzechA-m-d1t351-9</lex.rf>
-<aux.rf>a#ep_107.01-SCzechA-m-d1t351-8</aux.rf>
+<aux.rf>
+<LM>a#ep_107.01-SCzechA-m-d1t351-8</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>ulice</t_lemma>
@@ -5299,7 +5694,8 @@
 <negation>neg0</negation>
 </gram>
 <deepord>6</deepord>
-<children id="ep_107.01-SCzechT-m-d1t351-14">
+<children>
+<LM id="ep_107.01-SCzechT-m-d1t351-14">
 <a>
 <lex.rf>a#ep_107.01-SCzechA-m-d1t351-14</lex.rf>
 </a>
@@ -5326,7 +5722,9 @@
 <a>
 <lex.rf>a#ep_107.01-SCzechA-m-d1t351-13</lex.rf>
 </a>
-<coref_gram.rf>ep_107.01-SCzechT-m-d1t351-11</coref_gram.rf>
+<coref_gram.rf>
+<LM>ep_107.01-SCzechT-m-d1t351-11</LM>
+</coref_gram.rf>
 <nodetype>complex</nodetype>
 <t_lemma>který</t_lemma>
 <functor>ACT</functor>
@@ -5355,23 +5753,28 @@
 </gram>
 <deepord>8</deepord>
 <coref_text>
+<LM>
 <target-node.rf>ep_107.01-SCzechT-m-d1t347-3x3</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>coref</src>
+</LM>
 </coref_text>
 </LM>
 </children>
-</children>
 </LM>
 </children>
 </LM>
 </children>
+</LM>
+</children>
+</LM>
 </children>
 </LM>
 <LM id="ep_107.01-SCzechT-ep_107-28-root">
 <atree.rf>a#ep_107.01-SCzechA-ep_107-28-root</atree.rf>
 <deepord>0</deepord>
-<children id="ep_107.01-SCzechT-m-d1t351-19">
+<children>
+<LM id="ep_107.01-SCzechT-m-d1t351-19">
 <a>
 <lex.rf>a#ep_107.01-SCzechA-m-d1t351-19</lex.rf>
 </a>
@@ -5415,9 +5818,11 @@
 </gram>
 <deepord>1</deepord>
 <coref_text>
+<LM>
 <target-node.rf>ep_107.01-SCzechT-m-d1t351-13</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>coref</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="ep_107.01-SCzechT-m-d1t351-17">
@@ -5436,9 +5841,11 @@
 </gram>
 <deepord>3</deepord>
 <coref_text>
+<LM>
 <target-node.rf>ep_107.01-SCzechT-m-258-259</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>coref</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="ep_107.01-SCzechT-m-d1t351-18">
@@ -5503,16 +5910,20 @@
 </gram>
 <deepord>6</deepord>
 <coref_text>
+<LM>
 <target-node.rf>ep_107.01-SCzechT-m-d1t351-17</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>coref</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="ep_107.01-SCzechT-m-d1t351-22">
 <a>
 <lex.rf>a#ep_107.01-SCzechA-m-d1t351-22</lex.rf>
 </a>
-<coref_gram.rf>ep_107.01-SCzechT-m-d1t351-20</coref_gram.rf>
+<coref_gram.rf>
+<LM>ep_107.01-SCzechT-m-d1t351-20</LM>
+</coref_gram.rf>
 <nodetype>complex</nodetype>
 <t_lemma>#PersPron</t_lemma>
 <functor>BEN</functor>
@@ -5555,12 +5966,14 @@
 </children>
 </LM>
 </children>
+</LM>
 </children>
 </LM>
 <LM id="ep_107.01-SCzechT-ep_107-d1e352-x2-root">
 <atree.rf>a#ep_107.01-SCzechA-ep_107-d1e352-x2-root</atree.rf>
 <deepord>0</deepord>
-<children id="ep_107.01-SCzechT-m-d1t355-2">
+<children>
+<LM id="ep_107.01-SCzechT-m-d1t355-2">
 <a>
 <lex.rf>a#ep_107.01-SCzechA-m-d1t355-2</lex.rf>
 </a>
@@ -5611,7 +6024,8 @@
 <negation>neg0</negation>
 </gram>
 <deepord>4</deepord>
-<children id="ep_107.01-SCzechT-m-d1t355-3">
+<children>
+<LM id="ep_107.01-SCzechT-m-d1t355-3">
 <a>
 <lex.rf>a#ep_107.01-SCzechA-m-d1t355-3</lex.rf>
 </a>
@@ -5627,24 +6041,31 @@
 </gram>
 <deepord>3</deepord>
 <coref_text>
+<LM>
 <target-node.rf>ep_107.01-SCzechT-m-d1t345-6x3</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>coref</src>
-</coref_text>
-</children>
-<coref_text>
-<target-node.rf>ep_107.01-SCzechT-ep_107-232-roota1</target-node.rf>
-<informal-type>SPEC</informal-type>
-<src>hana</src>
+</LM>
 </coref_text>
 </LM>
 </children>
+<coref_text>
+<LM>
+<target-node.rf>ep_107.01-SCzechT-ep_107-232-roota1</target-node.rf>
+<informal-type>SPEC</informal-type>
+<src>hana</src>
+</LM>
+</coref_text>
+</LM>
+</children>
+</LM>
 </children>
 </LM>
 <LM id="ep_107.01-SCzechT-ep_107-d1e356-x2-root">
 <atree.rf>a#ep_107.01-SCzechA-ep_107-d1e356-x2-root</atree.rf>
 <deepord>0</deepord>
-<children id="ep_107.01-SCzechT-m-d1e356-x2-268">
+<children>
+<LM id="ep_107.01-SCzechT-m-d1e356-x2-268">
 <a>
 <lex.rf>a#ep_107.01-SCzechA-m-d1e356-x2-268</lex.rf>
 </a>
@@ -5668,9 +6089,11 @@
 </gram>
 <deepord>1</deepord>
 <coref_text>
+<LM>
 <target-node.rf>ep_107.01-SCzechT-m-d1t355-4</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>hana</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="ep_107.01-SCzechT-m-d1t361-2">
@@ -5808,7 +6231,8 @@
 <sempos>adv.pron.def</sempos>
 </gram>
 <deepord>10</deepord>
-<children id="ep_107.01-SCzechT-m-d1t365-6">
+<children>
+<LM id="ep_107.01-SCzechT-m-d1t365-6">
 <a>
 <lex.rf>a#ep_107.01-SCzechA-m-d1t365-6</lex.rf>
 <aux.rf>
@@ -5838,7 +6262,9 @@
 <LM id="ep_107.01-SCzechT-m-d1t365-7">
 <a>
 <lex.rf>a#ep_107.01-SCzechA-m-d1t365-7</lex.rf>
-<aux.rf>a#ep_107.01-SCzechA-m-d1e356-x2-269</aux.rf>
+<aux.rf>
+<LM>a#ep_107.01-SCzechA-m-d1e356-x2-269</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>válka</t_lemma>
@@ -5870,17 +6296,20 @@
 <deepord>15</deepord>
 </LM>
 </children>
-</children>
 </LM>
 </children>
 </LM>
 </children>
+</LM>
+</children>
+</LM>
 </children>
 </LM>
 <LM id="ep_107.01-SCzechT-ep_107-37-root">
 <atree.rf>a#ep_107.01-SCzechA-ep_107-37-root</atree.rf>
 <deepord>0</deepord>
-<children id="ep_107.01-SCzechT-m-d1t365-12">
+<children>
+<LM id="ep_107.01-SCzechT-m-d1t365-12">
 <a>
 <lex.rf>a#ep_107.01-SCzechA-m-d1t365-12</lex.rf>
 </a>
@@ -5918,7 +6347,8 @@
 <negation>neg0</negation>
 </gram>
 <deepord>2</deepord>
-<children id="ep_107.01-SCzechT-m-d1t365-10">
+<children>
+<LM id="ep_107.01-SCzechT-m-d1t365-10">
 <a>
 <lex.rf>a#ep_107.01-SCzechA-m-d1t365-10</lex.rf>
 </a>
@@ -5931,11 +6361,14 @@
 <negation>neg0</negation>
 </gram>
 <deepord>1</deepord>
+</LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>ep_107.01-SCzechT-m-d1t365-7</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>hana</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="ep_107.01-SCzechT-m-d1t365-12x3">
@@ -5948,9 +6381,11 @@
 </gram>
 <deepord>3</deepord>
 <coref_text>
+<LM>
 <target-node.rf>ep_107.01-SCzechT-m-d1t365-6x3</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>coref</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="ep_107.01-SCzechT-ep_107-37-roota1">
@@ -5961,12 +6396,14 @@
 <deepord>5</deepord>
 </LM>
 </children>
+</LM>
 </children>
 </LM>
 <LM id="ep_107.01-SCzechT-ep_107-271-root">
 <atree.rf>a#ep_107.01-SCzechA-ep_107-271-root</atree.rf>
 <deepord>0</deepord>
-<children id="ep_107.01-SCzechT-ep_107-271-roota1">
+<children>
+<LM id="ep_107.01-SCzechT-ep_107-271-roota1">
 <a>
 <lex.rf>a#ep_107.01-SCzechA-m-271-272</lex.rf>
 </a>
@@ -5985,9 +6422,11 @@
 </gram>
 <deepord>1</deepord>
 <coref_text>
+<LM>
 <target-node.rf>ep_107.01-SCzechT-m-d1t361-1</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>coref</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="ep_107.01-SCzechT-m-d1t365-14">
@@ -6014,10 +6453,13 @@
 <negation>neg0</negation>
 </gram>
 <deepord>2</deepord>
-<children id="ep_107.01-SCzechT-m-d1t365-17">
+<children>
+<LM id="ep_107.01-SCzechT-m-d1t365-17">
 <a>
 <lex.rf>a#ep_107.01-SCzechA-m-d1t365-17</lex.rf>
-<aux.rf>a#ep_107.01-SCzechA-m-d1t365-15</aux.rf>
+<aux.rf>
+<LM>a#ep_107.01-SCzechA-m-d1t365-15</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>Anglie</t_lemma>
@@ -6030,10 +6472,13 @@
 </gram>
 <deepord>3</deepord>
 <coref_text>
+<LM>
 <target-node.rf>ep_107.01-SCzechT-m-d1t365-12</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>hana</src>
+</LM>
 </coref_text>
+</LM>
 </children>
 </LM>
 <LM id="ep_107.01-SCzechT-m-d1t367-1">
@@ -6083,7 +6528,9 @@
 <a>
 <lex.rf>a#ep_107.01-SCzechA-m-d1t367-2</lex.rf>
 </a>
-<coref_gram.rf>ep_107.01-SCzechT-m-d1t365-14x3</coref_gram.rf>
+<coref_gram.rf>
+<LM>ep_107.01-SCzechT-m-d1t365-14x3</LM>
+</coref_gram.rf>
 <nodetype>complex</nodetype>
 <t_lemma>#PersPron</t_lemma>
 <functor>BEN</functor>
@@ -6128,7 +6575,9 @@
 <LM id="ep_107.01-SCzechT-m-d1t367-9">
 <a>
 <lex.rf>a#ep_107.01-SCzechA-m-d1t367-9</lex.rf>
-<aux.rf>a#ep_107.01-SCzechA-m-d1t367-7</aux.rf>
+<aux.rf>
+<LM>a#ep_107.01-SCzechA-m-d1t367-7</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>jazyk</t_lemma>
@@ -6140,7 +6589,8 @@
 <negation>neg0</negation>
 </gram>
 <deepord>11</deepord>
-<children id="ep_107.01-SCzechT-m-d1t367-8">
+<children>
+<LM id="ep_107.01-SCzechT-m-d1t367-8">
 <a>
 <lex.rf>a#ep_107.01-SCzechA-m-d1t367-8</lex.rf>
 </a>
@@ -6153,6 +6603,7 @@
 <negation>neg0</negation>
 </gram>
 <deepord>10</deepord>
+</LM>
 </children>
 </LM>
 </children>
@@ -6215,15 +6666,19 @@
 </children>
 </LM>
 </children>
+</LM>
 </children>
 </LM>
 <LM id="ep_107.01-SCzechT-ep_107-d1e377-x2-root">
 <atree.rf>a#ep_107.01-SCzechA-ep_107-d1e377-x2-root</atree.rf>
 <deepord>0</deepord>
-<children id="ep_107.01-SCzechT-m-d1t384-3">
+<children>
+<LM id="ep_107.01-SCzechT-m-d1t384-3">
 <a>
 <lex.rf>a#ep_107.01-SCzechA-m-d1t384-3</lex.rf>
-<aux.rf>a#ep_107.01-SCzechA-m-d1t384-2</aux.rf>
+<aux.rf>
+<LM>a#ep_107.01-SCzechA-m-d1t384-2</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w6234f1</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -6269,9 +6724,11 @@
 </gram>
 <deepord>3</deepord>
 <coref_text>
+<LM>
 <target-node.rf>ep_107.01-SCzechT-m-d1t367-2</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>coref</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="ep_107.01-SCzechT-m-d1t384-6">
@@ -6329,7 +6786,9 @@
 <deepord>5</deepord>
 </LM>
 <LM id="ep_107.01-SCzechT-ep_107-d1e377-x2-roota1">
-<coref_gram.rf>ep_107.01-SCzechT-m-d1t384-3x3</coref_gram.rf>
+<coref_gram.rf>
+<LM>ep_107.01-SCzechT-m-d1t384-3x3</LM>
+</coref_gram.rf>
 <nodetype>qcomplex</nodetype>
 <is_generated>1</is_generated>
 <t_lemma>#Cor</t_lemma>
@@ -6339,15 +6798,19 @@
 </children>
 </LM>
 </children>
+</LM>
 </children>
 </LM>
 <LM id="ep_107.01-SCzechT-ep_107-d1e377-x3-root">
 <atree.rf>a#ep_107.01-SCzechA-ep_107-d1e377-x3-root</atree.rf>
 <deepord>0</deepord>
-<children id="ep_107.01-SCzechT-m-d1t391-1">
+<children>
+<LM id="ep_107.01-SCzechT-m-d1t391-1">
 <a>
 <lex.rf>a#ep_107.01-SCzechA-m-d1t391-1</lex.rf>
-<aux.rf>a#ep_107.01-SCzechA-m-d1t391-2</aux.rf>
+<aux.rf>
+<LM>a#ep_107.01-SCzechA-m-d1t391-2</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w4607f1</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -6379,9 +6842,11 @@
 </gram>
 <deepord>1</deepord>
 <coref_text>
+<LM>
 <target-node.rf>ep_107.01-SCzechT-ep_107-d1e377-x2-roota1</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>coref</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="ep_107.01-SCzechT-m-d1t391-3">
@@ -6398,12 +6863,14 @@
 <deepord>3</deepord>
 </LM>
 </children>
+</LM>
 </children>
 </LM>
 <LM id="ep_107.01-SCzechT-ep_107-d1e392-x2-root">
 <atree.rf>a#ep_107.01-SCzechA-ep_107-d1e392-x2-root</atree.rf>
 <deepord>0</deepord>
-<children id="ep_107.01-SCzechT-m-d1t395-1">
+<children>
+<LM id="ep_107.01-SCzechT-m-d1t395-1">
 <a>
 <lex.rf>a#ep_107.01-SCzechA-m-d1t395-1</lex.rf>
 </a>
@@ -6413,18 +6880,24 @@
 <sentmod>inter</sentmod>
 <deepord>1</deepord>
 <annot_comment>
+<LM>
 <type>T-lemma</type>
 <text>změněno ze sloveso na částici</text>
+</LM>
 </annot_comment>
+</LM>
 </children>
 </LM>
 <LM id="ep_107.01-SCzechT-ep_107-d1e396-x2-root">
 <atree.rf>a#ep_107.01-SCzechA-ep_107-d1e396-x2-root</atree.rf>
 <deepord>0</deepord>
-<children id="ep_107.01-SCzechT-m-d1t399-1">
+<children>
+<LM id="ep_107.01-SCzechT-m-d1t399-1">
 <a>
 <lex.rf>a#ep_107.01-SCzechA-m-d1t399-1</lex.rf>
-<aux.rf>a#ep_107.01-SCzechA-m-d1t399-2</aux.rf>
+<aux.rf>
+<LM>a#ep_107.01-SCzechA-m-d1t399-2</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w4607f1</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -6456,9 +6929,11 @@
 </gram>
 <deepord>1</deepord>
 <coref_text>
+<LM>
 <target-node.rf>ep_107.01-SCzechT-m-d1t391-1x3</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>coref</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="ep_107.01-SCzechT-m-d1t399-3">
@@ -6475,12 +6950,14 @@
 <deepord>3</deepord>
 </LM>
 </children>
+</LM>
 </children>
 </LM>
 <LM id="ep_107.01-SCzechT-ep_107-d1e400-x2-root">
 <atree.rf>a#ep_107.01-SCzechA-ep_107-d1e400-x2-root</atree.rf>
 <deepord>0</deepord>
-<children id="ep_107.01-SCzechT-m-d1t403-2">
+<children>
+<LM id="ep_107.01-SCzechT-m-d1t403-2">
 <a>
 <lex.rf>a#ep_107.01-SCzechA-m-d1t403-2</lex.rf>
 </a>
@@ -6514,9 +6991,11 @@
 </gram>
 <deepord>1</deepord>
 <coref_text>
+<LM>
 <target-node.rf>ep_107.01-SCzechT-m-d1t345-6x3</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>coref</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="ep_107.01-SCzechT-ep_107-d1e400-x2-roota3">
@@ -6529,9 +7008,11 @@
 </gram>
 <deepord>3</deepord>
 <coref_text>
+<LM>
 <target-node.rf>ep_107.01-SCzechT-m-d1t399-1</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>coref</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="ep_107.01-SCzechT-ep_107-d1e400-x2-roota2">
@@ -6544,9 +7025,11 @@
 </gram>
 <deepord>4</deepord>
 <coref_text>
+<LM>
 <target-node.rf>ep_107.01-SCzechT-m-d1t345-5</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>coref</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="ep_107.01-SCzechT-ep_107-d1e400-x2-roota1">
@@ -6569,7 +7052,8 @@
 <negation>neg0</negation>
 </gram>
 <deepord>7</deepord>
-<children id="ep_107.01-SCzechT-m-d1t403-3">
+<children>
+<LM id="ep_107.01-SCzechT-m-d1t403-3">
 <a>
 <lex.rf>a#ep_107.01-SCzechA-m-d1t403-3</lex.rf>
 </a>
@@ -6581,15 +7065,18 @@
 <negation>neg0</negation>
 </gram>
 <deepord>6</deepord>
+</LM>
 </children>
 </LM>
 </children>
+</LM>
 </children>
 </LM>
 <LM id="ep_107.01-SCzechT-ep_107-d1e410-x2-root">
 <atree.rf>a#ep_107.01-SCzechA-ep_107-d1e410-x2-root</atree.rf>
 <deepord>0</deepord>
-<children id="ep_107.01-SCzechT-ep_107-d1e410-x2-roota2">
+<children>
+<LM id="ep_107.01-SCzechT-ep_107-d1e410-x2-roota2">
 <a>
 <lex.rf>a#ep_107.01-SCzechA-m-d-id74727-punct</lex.rf>
 </a>
@@ -6638,9 +7125,11 @@
 </gram>
 <deepord>1</deepord>
 <coref_text>
+<LM>
 <target-node.rf>ep_107.01-SCzechT-m-d1t399-1x3</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>hana</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="ep_107.01-SCzechT-m-d1t417-2">
@@ -6711,9 +7200,11 @@
 </gram>
 <deepord>5</deepord>
 <coref_text>
+<LM>
 <target-node.rf>ep_107.01-SCzechT-m-d1t417-5</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>coref</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="ep_107.01-SCzechT-m-d1t417-12x3">
@@ -6776,7 +7267,9 @@
 <LM id="ep_107.01-SCzechT-m-d1t417-16">
 <a>
 <lex.rf>a#ep_107.01-SCzechA-m-d1t417-16</lex.rf>
-<aux.rf>a#ep_107.01-SCzechA-m-d1t417-15</aux.rf>
+<aux.rf>
+<LM>a#ep_107.01-SCzechA-m-d1t417-15</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>#PersPron</t_lemma>
@@ -6790,9 +7283,11 @@
 </gram>
 <deepord>11</deepord>
 <coref_text>
+<LM>
 <target-node.rf>ep_107.01-SCzechT-m-d1t417-11</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>coref</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="ep_107.01-SCzechT-m-d1t417-17x3">
@@ -6805,9 +7300,11 @@
 </gram>
 <deepord>12</deepord>
 <coref_text>
+<LM>
 <target-node.rf>ep_107.01-SCzechT-m-d1t417-12x3</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>coref</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="ep_107.01-SCzechT-m-d1t417-18">
@@ -6822,7 +7319,9 @@
 <LM id="ep_107.01-SCzechT-m-d1t417-20">
 <a>
 <lex.rf>a#ep_107.01-SCzechA-m-d1t417-20</lex.rf>
-<aux.rf>a#ep_107.01-SCzechA-m-d1t417-19</aux.rf>
+<aux.rf>
+<LM>a#ep_107.01-SCzechA-m-d1t417-19</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>hřbitov</t_lemma>
@@ -6838,12 +7337,14 @@
 </children>
 </LM>
 </children>
+</LM>
 </children>
 </LM>
 <LM id="ep_107.01-SCzechT-ep_107-d1e420-x2-root">
 <atree.rf>a#ep_107.01-SCzechA-ep_107-d1e420-x2-root</atree.rf>
 <deepord>0</deepord>
-<children id="ep_107.01-SCzechT-m-d1e420-x2-50">
+<children>
+<LM id="ep_107.01-SCzechT-m-d1e420-x2-50">
 <a>
 <lex.rf>a#ep_107.01-SCzechA-m-d1e420-x2-50</lex.rf>
 <aux.rf>
@@ -6881,9 +7382,11 @@
 </gram>
 <deepord>1</deepord>
 <coref_text>
+<LM>
 <target-node.rf>ep_107.01-SCzechT-ep_107-d1e400-x2-roota2</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>coref</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="ep_107.01-SCzechT-ep_107-d1e420-x2-roota1">
@@ -6896,9 +7399,11 @@
 </gram>
 <deepord>3</deepord>
 <coref_text>
+<LM>
 <target-node.rf>ep_107.01-SCzechT-m-d1t403-2x3</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>coref</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="ep_107.01-SCzechT-m-d1t423-6">
@@ -6942,7 +7447,8 @@
 <negation>neg0</negation>
 </gram>
 <deepord>5</deepord>
-<children id="ep_107.01-SCzechT-m-d1t423-3">
+<children>
+<LM id="ep_107.01-SCzechT-m-d1t423-3">
 <a>
 <lex.rf>a#ep_107.01-SCzechA-m-d1t423-3</lex.rf>
 </a>
@@ -6958,15 +7464,20 @@
 </gram>
 <deepord>4</deepord>
 <coref_text>
+<LM>
 <target-node.rf>ep_107.01-SCzechT-ep_107-d1e420-x2-roota1</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>coref</src>
+</LM>
 </coref_text>
+</LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>ep_107.01-SCzechT-m-d1t417-16</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>hana</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="ep_107.01-SCzechT-m-d1t423-5">
@@ -6985,12 +7496,14 @@
 </children>
 </LM>
 </children>
+</LM>
 </children>
 </LM>
 <LM id="ep_107.01-SCzechT-ep_107-d1e424-x2-root">
 <atree.rf>a#ep_107.01-SCzechA-ep_107-d1e424-x2-root</atree.rf>
 <deepord>0</deepord>
-<children id="ep_107.01-SCzechT-m-d1e424-x2-5">
+<children>
+<LM id="ep_107.01-SCzechT-m-d1e424-x2-5">
 <a>
 <lex.rf>a#ep_107.01-SCzechA-m-d1e424-x2-5</lex.rf>
 </a>
@@ -7002,7 +7515,9 @@
 <LM id="ep_107.01-SCzechT-m-d1t431-6">
 <a>
 <lex.rf>a#ep_107.01-SCzechA-m-d1t431-6</lex.rf>
-<aux.rf>a#ep_107.01-SCzechA-m-d1t431-7</aux.rf>
+<aux.rf>
+<LM>a#ep_107.01-SCzechA-m-d1t431-7</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w7539f1</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -7046,9 +7561,11 @@
 </gram>
 <deepord>2</deepord>
 <coref_text>
+<LM>
 <target-node.rf>ep_107.01-SCzechT-m-d1t423-4</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>coref</src>
+</LM>
 </coref_text>
 </LM>
 </children>
@@ -7088,15 +7605,19 @@
 </gram>
 <deepord>4</deepord>
 <coref_text>
+<LM>
 <target-node.rf>ep_107.01-SCzechT-m-d1t431-6x3</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>coref</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="ep_107.01-SCzechT-m-d1t431-14">
 <a>
 <lex.rf>a#ep_107.01-SCzechA-m-d1t431-14</lex.rf>
-<aux.rf>a#ep_107.01-SCzechA-m-d1t431-11</aux.rf>
+<aux.rf>
+<LM>a#ep_107.01-SCzechA-m-d1t431-11</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>manžel</t_lemma>
@@ -7113,7 +7634,9 @@
 <a>
 <lex.rf>a#ep_107.01-SCzechA-m-d1t431-12</lex.rf>
 </a>
-<coref_gram.rf>ep_107.01-SCzechT-m-d1t431-10x3</coref_gram.rf>
+<coref_gram.rf>
+<LM>ep_107.01-SCzechT-m-d1t431-10x3</LM>
+</coref_gram.rf>
 <nodetype>complex</nodetype>
 <t_lemma>#PersPron</t_lemma>
 <functor>RSTR</functor>
@@ -7183,7 +7706,8 @@
 <negation>neg0</negation>
 </gram>
 <deepord>11</deepord>
-<children id="ep_107.01-SCzechT-m-d1t435-5">
+<children>
+<LM id="ep_107.01-SCzechT-m-d1t435-5">
 <a>
 <lex.rf>a#ep_107.01-SCzechA-m-d1t435-5</lex.rf>
 </a>
@@ -7196,11 +7720,14 @@
 <negation>neg0</negation>
 </gram>
 <deepord>10</deepord>
+</LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>ep_107.01-SCzechT-m-d1t365-11</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>hana</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="ep_107.01-SCzechT-m-d1t435-1x3">
@@ -7228,7 +7755,9 @@
 <LM id="ep_107.01-SCzechT-m-d1t435-8">
 <a>
 <lex.rf>a#ep_107.01-SCzechA-m-d1t435-8</lex.rf>
-<aux.rf>a#ep_107.01-SCzechA-m-d1t435-7</aux.rf>
+<aux.rf>
+<LM>a#ep_107.01-SCzechA-m-d1t435-7</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>emigrace</t_lemma>
@@ -7241,20 +7770,24 @@
 </gram>
 <deepord>14</deepord>
 <coref_text>
+<LM>
 <target-node.rf>ep_107.01-SCzechT-m-d1t365-17</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>hana</src>
+</LM>
 </coref_text>
 </LM>
 </children>
 </LM>
 </children>
+</LM>
 </children>
 </LM>
 <LM id="ep_107.01-SCzechT-ep_107-305-root">
 <atree.rf>a#ep_107.01-SCzechA-ep_107-305-root</atree.rf>
 <deepord>0</deepord>
-<children id="ep_107.01-SCzechT-m-d1t440-5">
+<children>
+<LM id="ep_107.01-SCzechT-m-d1t440-5">
 <a>
 <lex.rf>a#ep_107.01-SCzechA-m-d1t440-5</lex.rf>
 </a>
@@ -7278,7 +7811,9 @@
 <LM id="ep_107.01-SCzechT-m-d1t440-4">
 <a>
 <lex.rf>a#ep_107.01-SCzechA-m-d1t440-4</lex.rf>
-<aux.rf>a#ep_107.01-SCzechA-m-d1t440-3</aux.rf>
+<aux.rf>
+<LM>a#ep_107.01-SCzechA-m-d1t440-3</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w7706f1</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -7299,12 +7834,14 @@
 <negation>neg0</negation>
 </gram>
 <deepord>2</deepord>
-<children id="ep_107.01-SCzechT-ep_107-305-roota2">
+<children>
+<LM id="ep_107.01-SCzechT-ep_107-305-roota2">
 <nodetype>qcomplex</nodetype>
 <is_generated>1</is_generated>
 <t_lemma>#Oblfm</t_lemma>
 <functor>DIR3</functor>
 <deepord>3</deepord>
+</LM>
 </children>
 </LM>
 <LM id="ep_107.01-SCzechT-m-d1t440-6x3">
@@ -7317,9 +7854,11 @@
 </gram>
 <deepord>5</deepord>
 <coref_text>
+<LM>
 <target-node.rf>ep_107.01-SCzechT-m-d1t431-14</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>coref</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="ep_107.01-SCzechT-ep_107-305-roota1">
@@ -7355,7 +7894,8 @@
 <negation>neg0</negation>
 </gram>
 <deepord>6</deepord>
-<children id="ep_107.01-SCzechT-m-d1t440-9">
+<children>
+<LM id="ep_107.01-SCzechT-m-d1t440-9">
 <a>
 <lex.rf>a#ep_107.01-SCzechA-m-d1t440-9</lex.rf>
 </a>
@@ -7369,7 +7909,8 @@
 <negation>neg0</negation>
 </gram>
 <deepord>9</deepord>
-<children id="ep_107.01-SCzechT-m-d1t440-8">
+<children>
+<LM id="ep_107.01-SCzechT-m-d1t440-8">
 <a>
 <lex.rf>a#ep_107.01-SCzechA-m-d1t440-8</lex.rf>
 </a>
@@ -7382,7 +7923,8 @@
 <negation>neg0</negation>
 </gram>
 <deepord>8</deepord>
-<children id="ep_107.01-SCzechT-m-d1t440-7">
+<children>
+<LM id="ep_107.01-SCzechT-m-d1t440-7">
 <a>
 <lex.rf>a#ep_107.01-SCzechA-m-d1t440-7</lex.rf>
 </a>
@@ -7394,8 +7936,11 @@
 <negation>neg0</negation>
 </gram>
 <deepord>7</deepord>
+</LM>
 </children>
+</LM>
 </children>
+</LM>
 </children>
 </LM>
 <LM id="ep_107.01-SCzechT-m-d1t440-11">
@@ -7422,7 +7967,8 @@
 <negation>neg0</negation>
 </gram>
 <deepord>11</deepord>
-<children id="ep_107.01-SCzechT-m-d1t440-12">
+<children>
+<LM id="ep_107.01-SCzechT-m-d1t440-12">
 <a>
 <lex.rf>a#ep_107.01-SCzechA-m-d1t440-12</lex.rf>
 </a>
@@ -7436,7 +7982,8 @@
 <negation>neg0</negation>
 </gram>
 <deepord>12</deepord>
-<children id="ep_107.01-SCzechT-m-d1t440-13">
+<children>
+<LM id="ep_107.01-SCzechT-m-d1t440-13">
 <a>
 <lex.rf>a#ep_107.01-SCzechA-m-d1t440-13</lex.rf>
 </a>
@@ -7450,7 +7997,8 @@
 <negation>neg0</negation>
 </gram>
 <deepord>13</deepord>
-<children id="ep_107.01-SCzechT-m-d1t440-15">
+<children>
+<LM id="ep_107.01-SCzechT-m-d1t440-15">
 <a>
 <lex.rf>a#ep_107.01-SCzechA-m-d1t440-15</lex.rf>
 </a>
@@ -7482,7 +8030,9 @@
 <LM id="ep_107.01-SCzechT-m-d1t440-17">
 <a>
 <lex.rf>a#ep_107.01-SCzechA-m-d1t440-17</lex.rf>
-<aux.rf>a#ep_107.01-SCzechA-m-d1t440-16</aux.rf>
+<aux.rf>
+<LM>a#ep_107.01-SCzechA-m-d1t440-16</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>ministerstvo</t_lemma>
@@ -7494,7 +8044,8 @@
 <negation>neg0</negation>
 </gram>
 <deepord>16</deepord>
-<children id="ep_107.01-SCzechT-m-d1t440-18">
+<children>
+<LM id="ep_107.01-SCzechT-m-d1t440-18">
 <a>
 <lex.rf>a#ep_107.01-SCzechA-m-d1t440-18</lex.rf>
 </a>
@@ -7508,22 +8059,28 @@
 <negation>neg0</negation>
 </gram>
 <deepord>17</deepord>
-</children>
 </LM>
-</children>
-</children>
-</children>
 </children>
 </LM>
 </children>
 </LM>
 </children>
+</LM>
+</children>
+</LM>
+</children>
+</LM>
+</children>
+</LM>
+</children>
+</LM>
 </children>
 </LM>
 <LM id="ep_107.01-SCzechT-ep_107-85-root">
 <atree.rf>a#ep_107.01-SCzechA-ep_107-85-root</atree.rf>
 <deepord>0</deepord>
-<children id="ep_107.01-SCzechT-m-d1t442-12">
+<children>
+<LM id="ep_107.01-SCzechT-m-d1t442-12">
 <a>
 <lex.rf>a#ep_107.01-SCzechA-m-d1t442-12</lex.rf>
 </a>
@@ -7601,7 +8158,9 @@
 <a>
 <lex.rf>a#ep_107.01-SCzechA-m-d1t442-7</lex.rf>
 </a>
-<coref_gram.rf>ep_107.01-SCzechT-m-d1t442-5</coref_gram.rf>
+<coref_gram.rf>
+<LM>ep_107.01-SCzechT-m-d1t442-5</LM>
+</coref_gram.rf>
 <nodetype>complex</nodetype>
 <t_lemma>který</t_lemma>
 <functor>PAT</functor>
@@ -7624,9 +8183,11 @@
 </gram>
 <deepord>4</deepord>
 <coref_text>
+<LM>
 <target-node.rf>ep_107.01-SCzechT-m-d1t435-1x3</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>coref</src>
+</LM>
 </coref_text>
 </LM>
 </children>
@@ -7649,9 +8210,11 @@
 </gram>
 <deepord>6</deepord>
 <coref_text>
+<LM>
 <target-node.rf>ep_107.01-SCzechT-m-d1t440-6x3</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>coref</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="ep_107.01-SCzechT-ep_107-85-roota2">
@@ -7707,7 +8270,9 @@
 <deepord>11</deepord>
 </LM>
 <LM id="ep_107.01-SCzechT-ep_107-85-roota1">
-<coref_gram.rf>ep_107.01-SCzechT-m-d1t442-5</coref_gram.rf>
+<coref_gram.rf>
+<LM>ep_107.01-SCzechT-m-d1t442-5</LM>
+</coref_gram.rf>
 <nodetype>qcomplex</nodetype>
 <is_generated>1</is_generated>
 <t_lemma>#Cor</t_lemma>
@@ -7717,12 +8282,14 @@
 </children>
 </LM>
 </children>
+</LM>
 </children>
 </LM>
 <LM id="ep_107.01-SCzechT-ep_107-89-root">
 <atree.rf>a#ep_107.01-SCzechA-ep_107-89-root</atree.rf>
 <deepord>0</deepord>
-<children id="ep_107.01-SCzechT-m-d1t442-29">
+<children>
+<LM id="ep_107.01-SCzechT-m-d1t442-29">
 <a>
 <lex.rf>a#ep_107.01-SCzechA-m-d1t442-29</lex.rf>
 </a>
@@ -7758,7 +8325,8 @@
 <negation>neg0</negation>
 </gram>
 <deepord>1</deepord>
-<children id="ep_107.01-SCzechT-m-d1t442-20">
+<children>
+<LM id="ep_107.01-SCzechT-m-d1t442-20">
 <a>
 <lex.rf>a#ep_107.01-SCzechA-m-d1t442-20</lex.rf>
 </a>
@@ -7794,9 +8362,11 @@
 <is_parenthesis>1</is_parenthesis>
 <deepord>2</deepord>
 <coref_text>
+<LM>
 <target-node.rf>ep_107.01-SCzechT-m-d1t423-3</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>coref</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="ep_107.01-SCzechT-m-d1t442-21">
@@ -7814,10 +8384,13 @@
 </gram>
 <is_parenthesis>1</is_parenthesis>
 <deepord>4</deepord>
-<children id="ep_107.01-SCzechT-ep_107-89-roota1">
+<children>
+<LM id="ep_107.01-SCzechT-ep_107-89-roota1">
 <a>
 <lex.rf>a#ep_107.01-SCzechA-m-d1t442-29</lex.rf>
-<aux.rf>a#ep_107.01-SCzechA-m-d1t442-23</aux.rf>
+<aux.rf>
+<LM>a#ep_107.01-SCzechA-m-d1t442-23</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w9430f1</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -7841,9 +8414,11 @@
 <is_parenthesis>1</is_parenthesis>
 <deepord>6</deepord>
 <coref_text>
+<LM>
 <target-node.rf>ep_107.01-SCzechT-m-d1t442-11</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>coref</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="ep_107.01-SCzechT-m-d1t442-27">
@@ -7863,7 +8438,9 @@
 <LM id="ep_107.01-SCzechT-m-305-318">
 <a>
 <lex.rf>a#ep_107.01-SCzechA-m-305-318</lex.rf>
-<aux.rf>a#ep_107.01-SCzechA-m-d1t442-25</aux.rf>
+<aux.rf>
+<LM>a#ep_107.01-SCzechA-m-d1t442-25</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>rok</t_lemma>
@@ -7876,7 +8453,8 @@
 </gram>
 <is_parenthesis>1</is_parenthesis>
 <deepord>8</deepord>
-<children id="ep_107.01-SCzechT-m-d1t442-26">
+<children>
+<LM id="ep_107.01-SCzechT-m-d1t442-26">
 <a>
 <lex.rf>a#ep_107.01-SCzechA-m-d1t442-26</lex.rf>
 </a>
@@ -7891,12 +8469,15 @@
 </gram>
 <is_parenthesis>1</is_parenthesis>
 <deepord>9</deepord>
+</LM>
 </children>
 </LM>
 </children>
+</LM>
 </children>
 </LM>
 </children>
+</LM>
 </children>
 </LM>
 <LM id="ep_107.01-SCzechT-m-d1t442-29x3">
@@ -7909,18 +8490,22 @@
 </gram>
 <deepord>10</deepord>
 <coref_text>
+<LM>
 <target-node.rf>ep_107.01-SCzechT-ep_107-89-roota2</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>coref</src>
+</LM>
 </coref_text>
 </LM>
 </children>
+</LM>
 </children>
 </LM>
 <LM id="ep_107.01-SCzechT-ep_107-94-root">
 <atree.rf>a#ep_107.01-SCzechA-ep_107-94-root</atree.rf>
 <deepord>0</deepord>
-<children id="ep_107.01-SCzechT-m-d1t444-5">
+<children>
+<LM id="ep_107.01-SCzechT-m-d1t444-5">
 <a>
 <lex.rf>a#ep_107.01-SCzechA-m-d1t444-5</lex.rf>
 </a>
@@ -7959,9 +8544,11 @@
 </gram>
 <deepord>1</deepord>
 <coref_text>
+<LM>
 <target-node.rf>ep_107.01-SCzechT-m-d1t431-12</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>hana</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="ep_107.01-SCzechT-m-d1t444-4">
@@ -8005,15 +8592,19 @@
 <deepord>5</deepord>
 </LM>
 </children>
+</LM>
 </children>
 </LM>
 <LM id="ep_107.01-SCzechT-ep_107-d1e445-x2-root">
 <atree.rf>a#ep_107.01-SCzechA-ep_107-d1e445-x2-root</atree.rf>
 <deepord>0</deepord>
-<children id="ep_107.01-SCzechT-m-d1t448-5">
+<children>
+<LM id="ep_107.01-SCzechT-m-d1t448-5">
 <a>
 <lex.rf>a#ep_107.01-SCzechA-m-d1t448-5</lex.rf>
-<aux.rf>a#ep_107.01-SCzechA-m-d1t448-2</aux.rf>
+<aux.rf>
+<LM>a#ep_107.01-SCzechA-m-d1t448-2</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w6013f1</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -8062,7 +8653,8 @@
 <negation>neg0</negation>
 </gram>
 <deepord>3</deepord>
-<children id="ep_107.01-SCzechT-m-d1t448-3">
+<children>
+<LM id="ep_107.01-SCzechT-m-d1t448-3">
 <a>
 <lex.rf>a#ep_107.01-SCzechA-m-d1t448-3</lex.rf>
 </a>
@@ -8078,10 +8670,13 @@
 </gram>
 <deepord>2</deepord>
 <coref_text>
+<LM>
 <target-node.rf>ep_107.01-SCzechT-m-d1t442-20x3</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>coref</src>
+</LM>
 </coref_text>
+</LM>
 </children>
 <bridging>
 <LM>
@@ -8097,7 +8692,9 @@
 </bridging>
 </LM>
 <LM id="ep_107.01-SCzechT-ep_107-d1e445-x2-roota1">
-<coref_gram.rf>ep_107.01-SCzechT-m-d1t448-4</coref_gram.rf>
+<coref_gram.rf>
+<LM>ep_107.01-SCzechT-m-d1t448-4</LM>
+</coref_gram.rf>
 <nodetype>qcomplex</nodetype>
 <is_generated>1</is_generated>
 <t_lemma>#Rcp</t_lemma>
@@ -8105,12 +8702,14 @@
 <deepord>5</deepord>
 </LM>
 </children>
+</LM>
 </children>
 </LM>
 <LM id="ep_107.01-SCzechT-ep_107-d1e449-x2-root">
 <atree.rf>a#ep_107.01-SCzechA-ep_107-d1e449-x2-root</atree.rf>
 <deepord>0</deepord>
-<children id="ep_107.01-SCzechT-m-d1t460-8">
+<children>
+<LM id="ep_107.01-SCzechT-m-d1t460-8">
 <a>
 <lex.rf>a#ep_107.01-SCzechA-m-d1t460-8</lex.rf>
 </a>
@@ -8122,7 +8721,9 @@
 <LM id="ep_107.01-SCzechT-m-d1t456-16">
 <a>
 <lex.rf>a#ep_107.01-SCzechA-m-d1t456-16</lex.rf>
-<aux.rf>a#ep_107.01-SCzechA-m-d1t456-15</aux.rf>
+<aux.rf>
+<LM>a#ep_107.01-SCzechA-m-d1t456-15</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w6013f1</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -8186,9 +8787,11 @@
 </gram>
 <deepord>1</deepord>
 <coref_text>
+<LM>
 <target-node.rf>ep_107.01-SCzechT-m-d1t448-3</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>coref</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="ep_107.01-SCzechT-m-d1t456-5">
@@ -8208,9 +8811,11 @@
 </LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>ep_107.01-SCzechT-ep_107-d1e445-x2-roota1</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>hana</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="ep_107.01-SCzechT-m-d1t456-12">
@@ -8255,9 +8860,11 @@
 </gram>
 <deepord>5</deepord>
 <coref_text>
+<LM>
 <target-node.rf>ep_107.01-SCzechT-m-d1t456-4</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>coref</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="ep_107.01-SCzechT-m-d1t456-10">
@@ -8276,9 +8883,11 @@
 </LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>ep_107.01-SCzechT-m-d1t343-19</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>hana</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="ep_107.01-SCzechT-m-d1t456-14">
@@ -8296,7 +8905,8 @@
 <negation>neg0</negation>
 </gram>
 <deepord>10</deepord>
-<children id="ep_107.01-SCzechT-m-d1t456-13">
+<children>
+<LM id="ep_107.01-SCzechT-m-d1t456-13">
 <a>
 <lex.rf>a#ep_107.01-SCzechA-m-d1t456-13</lex.rf>
 </a>
@@ -8309,11 +8919,14 @@
 <negation>neg0</negation>
 </gram>
 <deepord>9</deepord>
+</LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>ep_107.01-SCzechT-m-d1t444-2</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>hana</src>
+</LM>
 </coref_text>
 </LM>
 </children>
@@ -8321,7 +8934,9 @@
 </children>
 </LM>
 <LM id="ep_107.01-SCzechT-ep_107-d1e449-x2-roota2">
-<coref_gram.rf>ep_107.01-SCzechT-ep_107-d1e449-x2-roota1</coref_gram.rf>
+<coref_gram.rf>
+<LM>ep_107.01-SCzechT-ep_107-d1e449-x2-roota1</LM>
+</coref_gram.rf>
 <nodetype>qcomplex</nodetype>
 <is_generated>1</is_generated>
 <t_lemma>#Rcp</t_lemma>
@@ -8331,7 +8946,9 @@
 <LM id="ep_107.01-SCzechT-m-d1t456-19">
 <a>
 <lex.rf>a#ep_107.01-SCzechA-m-d1t456-19</lex.rf>
-<aux.rf>a#ep_107.01-SCzechA-m-d1t456-17</aux.rf>
+<aux.rf>
+<LM>a#ep_107.01-SCzechA-m-d1t456-17</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>Plzeň</t_lemma>
@@ -8344,15 +8961,19 @@
 </gram>
 <deepord>13</deepord>
 <coref_text>
+<LM>
 <target-node.rf>ep_107.01-SCzechT-m-d1t448-1</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>hana</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="ep_107.01-SCzechT-m-d1t458-2">
 <a>
 <lex.rf>a#ep_107.01-SCzechA-m-d1t458-2</lex.rf>
-<aux.rf>a#ep_107.01-SCzechA-m-d1t458-1</aux.rf>
+<aux.rf>
+<LM>a#ep_107.01-SCzechA-m-d1t458-1</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>rok</t_lemma>
@@ -8364,7 +8985,8 @@
 <negation>neg0</negation>
 </gram>
 <deepord>14</deepord>
-<children id="ep_107.01-SCzechT-m-d1t460-4">
+<children>
+<LM id="ep_107.01-SCzechT-m-d1t460-4">
 <a>
 <lex.rf>a#ep_107.01-SCzechA-m-d1t460-4</lex.rf>
 </a>
@@ -8378,6 +9000,7 @@
 <numertype>basic</numertype>
 </gram>
 <deepord>15</deepord>
+</LM>
 </children>
 </LM>
 </children>
@@ -8421,15 +9044,19 @@
 </gram>
 <deepord>17</deepord>
 <coref_text>
+<LM>
 <target-node.rf>ep_107.01-SCzechT-m-d1t456-9</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>coref</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="ep_107.01-SCzechT-m-d1t460-14">
 <a>
 <lex.rf>a#ep_107.01-SCzechA-m-d1t460-14</lex.rf>
-<aux.rf>a#ep_107.01-SCzechA-m-d1t460-13</aux.rf>
+<aux.rf>
+<LM>a#ep_107.01-SCzechA-m-d1t460-13</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>rok</t_lemma>
@@ -8441,7 +9068,8 @@
 <negation>neg0</negation>
 </gram>
 <deepord>19</deepord>
-<children id="ep_107.01-SCzechT-m-d1t460-15">
+<children>
+<LM id="ep_107.01-SCzechT-m-d1t460-15">
 <a>
 <lex.rf>a#ep_107.01-SCzechA-m-d1t460-15</lex.rf>
 </a>
@@ -8455,17 +9083,20 @@
 <numertype>basic</numertype>
 </gram>
 <deepord>20</deepord>
-</children>
 </LM>
 </children>
 </LM>
 </children>
+</LM>
+</children>
+</LM>
 </children>
 </LM>
 <LM id="ep_107.01-SCzechT-ep_107-106-root">
 <atree.rf>a#ep_107.01-SCzechA-ep_107-106-root</atree.rf>
 <deepord>0</deepord>
-<children id="ep_107.01-SCzechT-m-d1t463-4">
+<children>
+<LM id="ep_107.01-SCzechT-m-d1t463-4">
 <a>
 <lex.rf>a#ep_107.01-SCzechA-m-d1t463-4</lex.rf>
 </a>
@@ -8499,9 +9130,11 @@
 </gram>
 <deepord>1</deepord>
 <coref_text>
+<LM>
 <target-node.rf>ep_107.01-SCzechT-ep_107-d1e449-x2-roota2</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>coref</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="ep_107.01-SCzechT-m-d1t463-5">
@@ -8532,7 +9165,8 @@
 <negation>neg0</negation>
 </gram>
 <deepord>6</deepord>
-<children id="ep_107.01-SCzechT-m-d1t463-7">
+<children>
+<LM id="ep_107.01-SCzechT-m-d1t463-7">
 <a>
 <lex.rf>a#ep_107.01-SCzechA-m-d1t463-7</lex.rf>
 </a>
@@ -8546,7 +9180,8 @@
 <numertype>basic</numertype>
 </gram>
 <deepord>5</deepord>
-<children id="ep_107.01-SCzechT-m-d1t463-6">
+<children>
+<LM id="ep_107.01-SCzechT-m-d1t463-6">
 <a>
 <lex.rf>a#ep_107.01-SCzechA-m-d1t463-6</lex.rf>
 </a>
@@ -8558,16 +9193,20 @@
 <negation>neg0</negation>
 </gram>
 <deepord>4</deepord>
-</children>
+</LM>
 </children>
 </LM>
 </children>
+</LM>
+</children>
+</LM>
 </children>
 </LM>
 <LM id="ep_107.01-SCzechT-ep_107-d1e470-x2-root">
 <atree.rf>a#ep_107.01-SCzechA-ep_107-d1e470-x2-root</atree.rf>
 <deepord>0</deepord>
-<children id="ep_107.01-SCzechT-m-d1t473-1">
+<children>
+<LM id="ep_107.01-SCzechT-m-d1t473-1">
 <a>
 <lex.rf>a#ep_107.01-SCzechA-m-d1t473-1</lex.rf>
 </a>
@@ -8601,9 +9240,11 @@
 </gram>
 <deepord>1</deepord>
 <coref_text>
+<LM>
 <target-node.rf>ep_107.01-SCzechT-m-d1e420-x2-50x3</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>coref</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="ep_107.01-SCzechT-ep_107-d1e470-x2-roota1">
@@ -8616,12 +9257,15 @@
 </gram>
 <deepord>3</deepord>
 <coref_text>
+<LM>
 <target-node.rf>ep_107.01-SCzechT-m-d1t460-12x3</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>coref</src>
+</LM>
 </coref_text>
 </LM>
 </children>
+</LM>
 </children>
 </LM>
 </trees>
