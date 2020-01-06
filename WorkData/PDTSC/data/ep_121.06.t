@@ -4,7 +4,7 @@
 <schema href="tanot_coref_schema.xml" />
 <references>
 <reffile id="a" name="adata" href="ep_121.06.a" />
-<reffile id="v" name="vallex" href="vallex3.xml" />
+<reffile id="v" name="vallex" href="../../../../Users/Marie%20Mikulov%E1/AppData/Roaming/.tred.d/extensions/pdt_c_m/resources/vallex3.xml" />
 </references>
 </head>
 <trees>
@@ -1175,7 +1175,7 @@
 <a>
 <lex.rf>a#ep_121.06-SCzechA-m-d1t1330-17</lex.rf>
 </a>
-<val_frame.rf>v#v-w12318_MMf1_MM</val_frame.rf>
+<val_frame.rf>v#v-w7898f2_MM</val_frame.rf>
 <nodetype>complex</nodetype>
 <t_lemma>vyhlížet</t_lemma>
 <functor>RSTR</functor>
@@ -1225,6 +1225,13 @@
 </gram>
 <deepord>11</deepord>
 </LM>
+<LM id="ep_121.06-SCzechT-ep_121-d1e1327-x2-roota2">
+<nodetype>qcomplex</nodetype>
+<is_generated>1</is_generated>
+<t_lemma>#Oblfm</t_lemma>
+<functor>DIR1</functor>
+<deepord>13</deepord>
+</LM>
 <LM id="ep_121.06-SCzechT-m-d1t1330-20">
 <a>
 <lex.rf>a#ep_121.06-SCzechA-m-d1t1330-20</lex.rf>
@@ -1241,7 +1248,7 @@
 <number>sg</number>
 <negation>neg0</negation>
 </gram>
-<deepord>13</deepord>
+<deepord>14</deepord>
 </LM>
 </children>
 </LM>
