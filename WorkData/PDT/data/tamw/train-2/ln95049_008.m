@@ -607,7 +607,10 @@
 <LM>w#w-ln95049-008-p3s2w11</LM>
 </w.rf>
 <form>li</form>
-<tag lemma="li-1" src="auto" selected="1">TT-------------</tag>
+<tag>
+<AM lemma="li-1" src="auto">TT-------------</AM>
+<AM lemma="li-2" src="manual" selected="1">J,-------------</AM>
+</tag>
 </m>
 <m id="m-ln95049-008-p3s2w12">
 <src.rf>manual</src.rf>
@@ -1327,7 +1330,10 @@
 <LM>w#w-ln95049-008-p4s2w13</LM>
 </w.rf>
 <form>ČR</form>
-<tag lemma="ČR-1_:B_;G_^(Česká_republika)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95049-008-p4s2w14">
 <src.rf>manual</src.rf>
@@ -1556,7 +1562,7 @@
 <tag>
 <AM lemma="tedy" src="orig">Db-------------</AM>
 <AM lemma="tedy-1" src="auto">TT-------------</AM>
-<AM lemma="tedy-2" src="auto" recommended="1">J^-------------</AM>
+<AM lemma="tedy-2" src="auto" recommended="1" selected="1">J^-------------</AM>
 </tag>
 </m>
 <m id="m-ln95049-008-p4s3w7">
@@ -1801,7 +1807,7 @@
 <form>nejen</form>
 <tag>
 <AM lemma="nejen" src="orig">TT-------------</AM>
-<AM lemma="nejen" src="auto" recommended="1">Db-------------</AM>
+<AM lemma="nejen" src="auto" recommended="1" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m-ln95049-008-p5s1w4">
@@ -2286,7 +2292,10 @@
 <LM>w#w-ln95049-008-p5s3w25</LM>
 </w.rf>
 <form>tzv</form>
-<tag lemma="takzvaný_:B" src="orig" selected="1">AAXXX----1A---8</tag>
+<tag>
+<AM lemma="takzvaný_:B" src="orig">AAXXX----1A---8</AM>
+<AM lemma="takzvaný" src="manual" selected="1">AAXXX----1A---8</AM>
+</tag>
 </m>
 <m id="m-ln95049-008-p5s3w26">
 <src.rf>manual</src.rf>
@@ -2680,7 +2689,7 @@
 <form>totiž</form>
 <tag>
 <AM lemma="totiž" src="orig">Db-------------</AM>
-<AM lemma="totiž-1" src="auto" recommended="1">J^-------------</AM>
+<AM lemma="totiž-1" src="auto" recommended="1" selected="1">J^-------------</AM>
 <AM lemma="totiž-2" src="auto">TT-------------</AM>
 </tag>
 </m>

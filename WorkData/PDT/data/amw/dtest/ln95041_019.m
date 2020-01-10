@@ -118,7 +118,7 @@
 </w.rf>
 <form>Are</form>
 <tag>
-<AM lemma="Are_;G" src="orig">NNNXX-----A----</AM>
+<AM lemma="Are_;G" src="orig" selected="1">NNNXX-----A----</AM>
 <AM lemma="ar" src="auto">NNIS5-----A----</AM>
 <AM lemma="be_,t_^(angl._jsi,jsme,jste,jsou,_v_názvech_apod.)" src="auto" recommended="1">VB-X---XP-AA---</AM>
 </tag>
@@ -243,7 +243,10 @@
 <LM>w#w-ln95041-019-p2s2w5</LM>
 </w.rf>
 <form>SP</form>
-<tag lemma="SP-3_:B_^(Světový_pohár)" src="auto" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="SP-3_:B_^(Světový_pohár)" src="auto">NNIXX-----A---8</AM>
+<AM lemma="SP-3_:B_^(Světový_pohár)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95041-019-p2s2w6">
 <src.rf>manual</src.rf>
@@ -413,7 +416,10 @@
 <LM>w#w-ln95041-019-p3s1w10</LM>
 </w.rf>
 <form>U</form>
-<tag lemma="u-3_^(označení_pomocí_písmene)" src="orig" selected="1">NNNXX-----A----</tag>
+<tag>
+<AM lemma="u-3_^(označení_pomocí_písmene)" src="orig">NNNXX-----A----</AM>
+<AM lemma="U-33_^(označení_pomocí_písmene)" src="manual" selected="1">NNNXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95041-019-p3s1w11">
 <src.rf>manual</src.rf>

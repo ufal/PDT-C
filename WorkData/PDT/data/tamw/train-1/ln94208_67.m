@@ -19,7 +19,10 @@
 <LM>w#w-ln94208-67-p1s1w1</LM>
 </w.rf>
 <form>FIS</form>
-<tag lemma="FIS_:B_;K" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="FIS_:B_;K" src="orig">NNFXX-----A---8</AM>
+<AM lemma="FIS-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94208-67-p1s1w2">
 <src.rf>manual</src.rf>
@@ -65,6 +68,7 @@
 <AM lemma="reu-99_:B_;S" src="orig">NNXXX-----A---8</AM>
 <AM lemma="reum" src="auto" recommended="1">NNNS3-----A----</AM>
 <AM lemma="reum" src="auto">NNNS6-----A----</AM>
+<AM lemma="reu-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94208-67-p2s1Aw4">
@@ -270,7 +274,10 @@
 <LM>w#w-ln94208-67-p2s2w7</LM>
 </w.rf>
 <form>FIS</form>
-<tag lemma="FIS_:B_;K" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="FIS_:B_;K" src="orig">NNFXX-----A---8</AM>
+<AM lemma="FIS-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94208-67-p2s2w8">
 <src.rf>manual</src.rf>
@@ -336,7 +343,10 @@
 <LM>w#w-ln94208-67-p2s3w7</LM>
 </w.rf>
 <form>Abassi</form>
-<tag lemma="Abassi_;S" src="auto" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Abassi_;S" src="auto">NNMS1-----A----</AM>
+<AM lemma="Abassi_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94208-67-p2s3w8">
 <src.rf>manual</src.rf>
@@ -475,7 +485,10 @@
 <LM>w#w-ln94208-67-p2s4w6</LM>
 </w.rf>
 <form>FIS</form>
-<tag lemma="FIS_:B_;K" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="FIS_:B_;K" src="orig">NNFXX-----A---8</AM>
+<AM lemma="FIS-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94208-67-p2s4w7">
 <src.rf>manual</src.rf>

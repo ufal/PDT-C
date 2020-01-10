@@ -182,7 +182,7 @@
 <AM lemma="Ostravsko_;G" src="auto">NNNS1-----A----</AM>
 <AM lemma="Ostravsko_;G" src="auto">NNNS4-----A----</AM>
 <AM lemma="Ostravsko_;G" src="auto">NNNS5-----A----</AM>
-<AM lemma="ostravský" src="auto" recommended="1">A2--------A----</AM>
+<AM lemma="ostravský" src="auto" recommended="1" selected="1">A2--------A----</AM>
 </tag>
 </m>
 <m id="m-ln95045-111-p2s1Cw4">
@@ -255,7 +255,10 @@
 <LM>w#w-ln95045-111-p2s1Cw12</LM>
 </w.rf>
 <form>OKD</form>
-<tag lemma="OKD-1_:B_;K_^(Ostravsko-karvinské_doly)" src="orig" selected="1">NNIPX-----A---8</tag>
+<tag>
+<AM lemma="OKD-1_:B_;K_^(Ostravsko-karvinské_doly)" src="orig">NNIPX-----A---8</AM>
+<AM lemma="OKD-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln95045-111-p2s1Cw13">
 <src.rf>manual</src.rf>
@@ -345,7 +348,10 @@
 <LM>w#w-ln95045-111-p2s2w3</LM>
 </w.rf>
 <form>OKK</form>
-<tag lemma="OKK_:B_;K" src="orig" selected="1">NNFPX-----A---8</tag>
+<tag>
+<AM lemma="OKK_:B_;K" src="orig">NNFPX-----A---8</AM>
+<AM lemma="OKK-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln95045-111-p2s2w4">
 <src.rf>manual</src.rf>
@@ -353,7 +359,10 @@
 <LM>w#w-ln95045-111-p2s2w4</LM>
 </w.rf>
 <form>ing</form>
-<tag lemma="Ing-1_:B_^(inženýr)" src="orig" selected="1">NNMXX-----A---8</tag>
+<tag>
+<AM lemma="Ing-1_:B_^(inženýr)" src="orig">NNMXX-----A---8</AM>
+<AM lemma="ing_:B_^(inženýr)" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln95045-111-p2s2w5">
 <src.rf>manual</src.rf>
@@ -1111,7 +1120,10 @@
 <LM>w#w-ln95045-111-p3s3w23</LM>
 </w.rf>
 <form>kursu</form>
-<tag lemma="kurs" src="auto" selected="1">NNIS2-----A----</tag>
+<tag>
+<AM lemma="kurs" src="auto">NNIS2-----A----</AM>
+<AM lemma="kurs_,s_^(^DD**kurz)" src="manual" selected="1">NNIS2-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95045-111-p3s3w24">
 <src.rf>manual</src.rf>
@@ -1371,7 +1383,10 @@
 <LM>w#w-ln95045-111-p4s1w5</LM>
 </w.rf>
 <form>OKK</form>
-<tag lemma="OKK_:B_;K" src="orig" selected="1">NNFPX-----A---8</tag>
+<tag>
+<AM lemma="OKK_:B_;K" src="orig">NNFPX-----A---8</AM>
+<AM lemma="OKK-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln95045-111-p4s1w6">
 <src.rf>manual</src.rf>
@@ -1462,7 +1477,7 @@
 <form>Kč</form>
 <tag>
 <AM lemma="Kč" src="orig">NNFXX-----A----</AM>
-<AM lemma="Kč_:B" src="auto" recommended="1">NNFXX-----A---8</AM>
+<AM lemma="Kč_:B" src="auto" recommended="1" selected="1">NNFXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-ln95045-111-p4s1w17">
@@ -1547,7 +1562,7 @@
 <form>Kč</form>
 <tag>
 <AM lemma="Kč" src="orig">NNFXX-----A----</AM>
-<AM lemma="Kč_:B" src="auto" recommended="1">NNFXX-----A---8</AM>
+<AM lemma="Kč_:B" src="auto" recommended="1" selected="1">NNFXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-ln95045-111-p4s2w10">
@@ -1614,7 +1629,10 @@
 <LM>w#w-ln95045-111-p4s3w7</LM>
 </w.rf>
 <form>Krupp</form>
-<tag lemma="Krupp_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Krupp_;S" src="orig">NNMS1-----A----</AM>
+<AM lemma="Krupp-2_;K" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95045-111-p4s3w8">
 <src.rf>manual</src.rf>
@@ -1633,6 +1651,7 @@
 <tag>
 <AM lemma="Thyssen_;K" src="orig">NNIS1-----A----</AM>
 <AM lemma="Thyssen_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Thyssen-2_;K" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95045-111-p4s3w10">
@@ -1691,7 +1710,10 @@
 <LM>w#w-ln95045-111-p4s4w6</LM>
 </w.rf>
 <form>OKK</form>
-<tag lemma="OKK_:B_;K" src="orig" selected="1">NNFPX-----A---8</tag>
+<tag>
+<AM lemma="OKK_:B_;K" src="orig">NNFPX-----A---8</AM>
+<AM lemma="OKK-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln95045-111-p4s4w7">
 <src.rf>manual</src.rf>
@@ -2279,7 +2301,7 @@
 <form>totiž</form>
 <tag>
 <AM lemma="totiž" src="orig">Db-------------</AM>
-<AM lemma="totiž-1" src="auto">J^-------------</AM>
+<AM lemma="totiž-1" src="auto" selected="1">J^-------------</AM>
 <AM lemma="totiž-2" src="auto" recommended="1">TT-------------</AM>
 </tag>
 </m>
@@ -2491,7 +2513,10 @@
 <LM>w#w-ln95045-111-p4s10w5</LM>
 </w.rf>
 <form>OKK</form>
-<tag lemma="OKK_:B_;K" src="orig" selected="1">NNFPX-----A---8</tag>
+<tag>
+<AM lemma="OKK_:B_;K" src="orig">NNFPX-----A---8</AM>
+<AM lemma="OKK-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln95045-111-p4s10w6">
 <src.rf>manual</src.rf>

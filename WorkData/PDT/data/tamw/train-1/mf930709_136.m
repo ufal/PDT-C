@@ -35,7 +35,10 @@
 <LM>w#w-mf930709-136-p1s1w3</LM>
 </w.rf>
 <form>přiletělo</form>
-<tag lemma="přiletět" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag>
+<AM lemma="přiletět" src="orig">VpNS---XR-AA---</AM>
+<AM lemma="přiletět_:W" src="manual" selected="1">VpNS---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-mf930709-136-p1s1w4">
 <src.rf>manual</src.rf>
@@ -143,7 +146,10 @@
 <LM>w#w-mf930709-136-p2s1Bw8</LM>
 </w.rf>
 <form>přiletělo</form>
-<tag lemma="přiletět" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag>
+<AM lemma="přiletět" src="orig">VpNS---XR-AA---</AM>
+<AM lemma="přiletět_:W" src="manual" selected="1">VpNS---XR-AA---</AM>
+</tag>
 </m>
 <m id="m-mf930709-136-p2s1Bw9">
 <src.rf>manual</src.rf>
@@ -231,7 +237,10 @@
 <LM>w#w-mf930709-136-p2s1Bw19</LM>
 </w.rf>
 <form>OSN</form>
-<tag lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930709-136-p2s1Bw20">
 <src.rf>manual</src.rf>
@@ -465,7 +474,10 @@
 <LM>w#w-mf930709-136-p2s2w25</LM>
 </w.rf>
 <form>OSN</form>
-<tag lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="OSN-1_:B_;K_^(Organizace_spojených_národů)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930709-136-p2s2w26">
 <src.rf>manual</src.rf>
@@ -598,6 +610,7 @@
 <tag>
 <AM lemma="USA_;G" src="orig">NNIPX-----A----</AM>
 <AM lemma="USA_:B_;K_,t_^(United_States_of_America)" src="auto" recommended="1">NNIPX-----A---8</AM>
+<AM lemma="USA_:B_;K_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930709-136-p3s1w4">
@@ -1133,6 +1146,7 @@
 <tag>
 <AM lemma="USA_;G" src="orig">NNIPX-----A----</AM>
 <AM lemma="USA_:B_;K_,t_^(United_States_of_America)" src="auto" recommended="1">NNIPX-----A---8</AM>
+<AM lemma="USA_:B_;K_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930709-136-p5s1w10">
@@ -1205,7 +1219,10 @@
 <LM>w#w-mf930709-136-p5s1w18</LM>
 </w.rf>
 <form>G</form>
-<tag lemma="g-3_^(označení_pomocí_písmene)" src="orig" selected="1">NNNXX-----A----</tag>
+<tag>
+<AM lemma="g-3_^(označení_pomocí_písmene)" src="orig">NNNXX-----A----</AM>
+<AM lemma="G-33_^(označení_pomocí_písmene)" src="manual" selected="1">NNNXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930709-136-p5s1w19">
 <src.rf>manual</src.rf>

@@ -224,6 +224,7 @@
 <AM lemma="mimo-1_:B" src="auto">RR--4---------8</AM>
 <AM lemma="minuta_:B" src="auto">NNFXX-----A---8</AM>
 <AM lemma="město_:B" src="auto">NNNXX-----A---8</AM>
+<AM lemma="metr" src="manual" selected="1">NNIXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-cmpr9416-032-p4s1w22">
@@ -607,7 +608,10 @@
 <LM>w#w-cmpr9416-032-p5s1w18</LM>
 </w.rf>
 <form>tel</form>
-<tag lemma="telefon_:B" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="telefon_:B" src="orig">NNIXX-----A---8</AM>
+<AM lemma="telefon" src="manual" selected="1">NNIXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-cmpr9416-032-p5s1w19">
 <src.rf>manual</src.rf>

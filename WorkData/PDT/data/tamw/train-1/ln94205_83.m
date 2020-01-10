@@ -140,6 +140,7 @@
 <AM lemma="terorizmus" src="auto" recommended="1">NNIS2-----A----</AM>
 <AM lemma="terorizmus" src="auto">NNIS3-----A----</AM>
 <AM lemma="terorizmus" src="auto">NNIS6-----A----</AM>
+<AM lemma="terorismus_,s_^(^DD**terorizmus)" src="manual" selected="1">NNIS2-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94205-83-p2s1Bw10">
@@ -149,7 +150,7 @@
 </w.rf>
 <form>Maríi</form>
 <tag>
-<AM lemma="María_;Y" src="orig">NNFS4-----A----</AM>
+<AM lemma="María_;Y" src="orig" selected="1">NNFS4-----A----</AM>
 <AM lemma="María_;S" src="auto">NNMP4-----A----</AM>
 <AM lemma="María_;S" src="auto">NNMP7-----A----</AM>
 <AM lemma="María_;S" src="auto" recommended="1">NNMS2-----A----</AM>
@@ -170,7 +171,7 @@
 </w.rf>
 <form>Lópezovou</form>
 <tag>
-<AM lemma="Lópezová_;S" src="orig">NNFS4-----A----</AM>
+<AM lemma="Lópezová_;S" src="orig" selected="1">NNFS4-----A----</AM>
 <AM lemma="Lópezův_;S_^(*2)" src="auto" recommended="1">AUFS7M---------</AM>
 </tag>
 </m>
@@ -650,7 +651,10 @@
 <LM>w#w-ln94205-83-p2s4w16</LM>
 </w.rf>
 <form>ETA</form>
-<tag lemma="ETA_:B_;K" src="auto" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="ETA_:B_;K" src="auto">NNXXX-----A---8</AM>
+<AM lemma="ETA-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94205-83-p2s4w17">
 <src.rf>manual</src.rf>
@@ -828,7 +832,10 @@
 <LM>w#w-ln94205-83-p2s5w8</LM>
 </w.rf>
 <form>ETA</form>
-<tag lemma="ETA_:B_;K" src="auto" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="ETA_:B_;K" src="auto">NNXXX-----A---8</AM>
+<AM lemma="ETA-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94205-83-p2s5w9">
 <src.rf>manual</src.rf>

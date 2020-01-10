@@ -27,7 +27,10 @@
 <LM>w#w-cmpr9406-009-p3s1w2</LM>
 </w.rf>
 <form>Rady</form>
-<tag lemma="rada-1_^(př._dát_někomu_dobrou_radu)" src="orig" selected="1">NNFP1-----A----</tag>
+<tag>
+<AM lemma="rada-1_^(př._dát_někomu_dobrou_radu)" src="orig">NNFP1-----A----</AM>
+<AM lemma="rada-1_^(př._dát_někomu_dobrou_radu;poradní_sbor)" src="manual" selected="1">NNFP1-----A----</AM>
+</tag>
 </m>
 <m id="m-cmpr9406-009-p3s1w3">
 <src.rf>manual</src.rf>
@@ -614,7 +617,7 @@
 <tag>
 <AM lemma="tady" src="orig">Db------------1</AM>
 <AM lemma="ten" src="auto">PDFS4----------</AM>
-<AM lemma="tu" src="auto" recommended="1">Db-------------</AM>
+<AM lemma="tu" src="auto" recommended="1" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m-cmpr9406-009-p7s2w3">
@@ -985,7 +988,10 @@
 <LM>w#w-cmpr9406-009-p7s3w34</LM>
 </w.rf>
 <form>AIDS</form>
-<tag lemma="AIDS_:B_;U_,x_^(Syndrom_získaného_selhání_imunity)" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="AIDS_:B_;U_,x_^(Syndrom_získaného_selhání_imunity)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="AIDS-2_:B_;U_^(Syndrom_získaného_selhání_imunity)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-cmpr9406-009-p7s3w35">
 <src.rf>manual</src.rf>
@@ -1102,7 +1108,10 @@
 <LM>w#w-cmpr9406-009-p8s1w1</LM>
 </w.rf>
 <form>P</form>
-<tag lemma="P-0_:B_;Y" src="orig" selected="1">NNMXX-----A---8</tag>
+<tag>
+<AM lemma="P-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
+<AM lemma="P-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-cmpr9406-009-p8s1w2">
 <src.rf>manual</src.rf>
@@ -1118,7 +1127,10 @@
 <LM>w#w-cmpr9406-009-p8s1w3</LM>
 </w.rf>
 <form>L</form>
-<tag lemma="L-9_:B_;S" src="orig" selected="1">NNMXX-----A---8</tag>
+<tag>
+<AM lemma="L-9_:B_;S" src="orig">NNMXX-----A---8</AM>
+<AM lemma="L-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-cmpr9406-009-p8s1w4">
 <src.rf>manual</src.rf>
@@ -1354,7 +1366,10 @@
 <LM>w#w-cmpr9406-009-p9s2w3</LM>
 </w.rf>
 <form>li</form>
-<tag lemma="li-1" src="auto" selected="1">TT-------------</tag>
+<tag>
+<AM lemma="li-1" src="auto">TT-------------</AM>
+<AM lemma="li-2" src="manual" selected="1">J,-------------</AM>
+</tag>
 </m>
 <m id="m-cmpr9406-009-p9s2w4">
 <src.rf>manual</src.rf>
@@ -1498,7 +1513,10 @@
 <LM>w#w-cmpr9406-009-p9s2w21</LM>
 </w.rf>
 <form>události</form>
-<tag lemma="událost_,a_^(*3ý)" src="orig" selected="1">NNFS2-----A----</tag>
+<tag>
+<AM lemma="událost_,a_^(*3ý)" src="orig">NNFS2-----A----</AM>
+<AM lemma="událost_^(*3ý)" src="manual" selected="1">NNFS2-----A----</AM>
+</tag>
 </m>
 <m id="m-cmpr9406-009-p9s2w22">
 <src.rf>manual</src.rf>
@@ -1676,7 +1694,10 @@
 <LM>w#w-cmpr9406-009-p10s1w1</LM>
 </w.rf>
 <form>JUDr</form>
-<tag lemma="JUDr-1_:B_^(doktor_práv)" src="orig" selected="1">NNMXX-----A---8</tag>
+<tag>
+<AM lemma="JUDr-1_:B_^(doktor_práv)" src="orig">NNMXX-----A---8</AM>
+<AM lemma="JUDr_:B_^(doktor_práv)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-cmpr9406-009-p10s1w2">
 <src.rf>manual</src.rf>
@@ -1692,7 +1713,10 @@
 <LM>w#w-cmpr9406-009-p10s1w3</LM>
 </w.rf>
 <form>PhDr</form>
-<tag lemma="PhDr-1_:B_,t_^(philosophiae_doctor)" src="auto" selected="1">NNMXX-----A---8</tag>
+<tag>
+<AM lemma="PhDr-1_:B_,t_^(philosophiae_doctor)" src="auto">NNMXX-----A---8</AM>
+<AM lemma="PhDr_:B_,t_^(philosophiae_doctor)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-cmpr9406-009-p10s1w4">
 <src.rf>manual</src.rf>
@@ -1838,7 +1862,10 @@
 <LM>w#w-cmpr9406-009-p11s1w15</LM>
 </w.rf>
 <form>tel</form>
-<tag lemma="telefon_:B" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="telefon_:B" src="orig">NNIXX-----A---8</AM>
+<AM lemma="telefon" src="manual" selected="1">NNIXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-cmpr9406-009-p11s1w16">
 <src.rf>manual</src.rf>

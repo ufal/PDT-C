@@ -22,7 +22,7 @@
 <tag>
 <AM lemma="stock_,t_^(stock_list)" src="orig">AAXXX----1A----</AM>
 <AM lemma="Stock_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Stock_;R" src="auto" recommended="1">NNIS1-----A----</AM>
+<AM lemma="Stock_;R" src="auto" recommended="1" selected="1">NNIS1-----A----</AM>
 <AM lemma="Stock_;R" src="auto">NNIS4-----A----</AM>
 </tag>
 </m>
@@ -48,7 +48,10 @@
 <LM>w#w-ln94200-56-p1s1w4</LM>
 </w.rf>
 <form>KB</form>
-<tag lemma="KB-1_:B_;K_^(Komerční_banka)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="KB-1_:B_;K_^(Komerční_banka)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="KB-1_:B_;K_^(Komerční_banka)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 </s>
 <s id="m-ln94200-56-p2s5">
@@ -74,7 +77,10 @@
 <LM>w#w-ln94200-56-p2s5w3</LM>
 </w.rf>
 <form>YSE</form>
-<tag lemma="YSE_:B_;K_;b_^(YSE_Holding,_fin._inst.)" src="auto" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="YSE_:B_;K_;b_^(YSE_Holding,_fin._inst.)" src="auto">NNIXX-----A---8</AM>
+<AM lemma="YSE-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94200-56-p2s5w4">
 <src.rf>manual</src.rf>
@@ -101,6 +107,7 @@
 <tag>
 <AM lemma="Kč" src="orig">NNFXX-----A----</AM>
 <AM lemma="Kč_:B" src="auto" recommended="1">NNFXX-----A---8</AM>
+<AM lemma="Kč_:B" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94200-56-p2s5w7">
@@ -135,7 +142,10 @@
 <LM>w#w-ln94200-56-p2s6w3</LM>
 </w.rf>
 <form>KB</form>
-<tag lemma="KB-1_:B_;K_^(Komerční_banka)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="KB-1_:B_;K_^(Komerční_banka)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="KB-1_:B_;K_^(Komerční_banka)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94200-56-p2s6w4">
 <src.rf>manual</src.rf>
@@ -159,7 +169,10 @@
 <LM>w#w-ln94200-56-p2s6w6</LM>
 </w.rf>
 <form>KB</form>
-<tag lemma="KB-1_:B_;K_^(Komerční_banka)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="KB-1_:B_;K_^(Komerční_banka)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="KB-1_:B_;K_^(Komerční_banka)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94200-56-p2s6w7">
 <src.rf>manual</src.rf>
@@ -252,6 +265,7 @@
 <tag>
 <AM lemma="Kč" src="orig">NNFXX-----A----</AM>
 <AM lemma="Kč_:B" src="auto" recommended="1">NNFXX-----A---8</AM>
+<AM lemma="Kč_:B" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94200-56-p2s6w18">
@@ -294,7 +308,10 @@
 <LM>w#w-ln94200-56-p2s7w4</LM>
 </w.rf>
 <form>KB</form>
-<tag lemma="KB-1_:B_;K_^(Komerční_banka)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="KB-1_:B_;K_^(Komerční_banka)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="KB-1_:B_;K_^(Komerční_banka)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94200-56-p2s7w5">
 <src.rf>manual</src.rf>
@@ -385,6 +402,7 @@
 <tag>
 <AM lemma="Kč" src="orig">NNFXX-----A----</AM>
 <AM lemma="Kč_:B" src="auto" recommended="1">NNFXX-----A---8</AM>
+<AM lemma="Kč_:B" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94200-56-p2s7w16">
@@ -401,7 +419,10 @@
 <LM>w#w-ln94200-56-p2s7w17</LM>
 </w.rf>
 <form>ks</form>
-<tag lemma="kus_:B" src="auto" selected="1">NNXXX-----A---8</tag>
+<tag>
+<AM lemma="kus_:B" src="auto">NNXXX-----A---8</AM>
+<AM lemma="kus" src="manual" selected="1">NNXXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-ln94200-56-p2s7w18">
 <src.rf>manual</src.rf>
@@ -435,7 +456,10 @@
 <LM>w#w-ln94200-56-p2s8w3</LM>
 </w.rf>
 <form>KB</form>
-<tag lemma="KB-1_:B_;K_^(Komerční_banka)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="KB-1_:B_;K_^(Komerční_banka)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="KB-1_:B_;K_^(Komerční_banka)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94200-56-p2s8w4">
 <src.rf>manual</src.rf>
@@ -500,7 +524,10 @@
 <LM>w#w-ln94200-56-p2s8w11</LM>
 </w.rf>
 <form>AÚV</form>
-<tag lemma="AÚV_:B" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="AÚV_:B" src="orig">NNIXX-----A---8</AM>
+<AM lemma="AÚV-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94200-56-p2s8w12">
 <src.rf>manual</src.rf>
@@ -524,7 +551,10 @@
 <LM>w#w-ln94200-56-p2s8w14</LM>
 </w.rf>
 <form>resp</form>
-<tag lemma="respektive_:B" src="auto" selected="1">Db------------8</tag>
+<tag>
+<AM lemma="respektive_:B" src="auto">Db------------8</AM>
+<AM lemma="respektive" src="manual" selected="1">Db------------8</AM>
+</tag>
 </m>
 <m id="m-ln94200-56-p2s8w15">
 <src.rf>manual</src.rf>
@@ -551,6 +581,7 @@
 <tag>
 <AM lemma="Kč" src="orig">NNFXX-----A----</AM>
 <AM lemma="Kč_:B" src="auto" recommended="1">NNFXX-----A---8</AM>
+<AM lemma="Kč_:B" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94200-56-p2s8w18">
@@ -577,7 +608,10 @@
 <LM>w#w-ln94200-56-p2s9w2</LM>
 </w.rf>
 <form>BCPP</form>
-<tag lemma="BCPP-1_:B_;K_;b_^(Burza_cenných_papírů_Praha)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="BCPP-1_:B_;K_;b_^(Burza_cenných_papírů_Praha)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="BCPP-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94200-56-p2s9w3">
 <src.rf>manual</src.rf>
@@ -593,7 +627,10 @@
 <LM>w#w-ln94200-56-p2s9w4</LM>
 </w.rf>
 <form>AÚV</form>
-<tag lemma="AÚV_:B" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="AÚV_:B" src="orig">NNIXX-----A---8</AM>
+<AM lemma="AÚV-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94200-56-p2s9w5">
 <src.rf>manual</src.rf>
@@ -697,7 +734,10 @@
 <LM>w#w-ln94200-56-p2s9w17</LM>
 </w.rf>
 <form>KB</form>
-<tag lemma="KB-1_:B_;K_^(Komerční_banka)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="KB-1_:B_;K_^(Komerční_banka)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="KB-1_:B_;K_^(Komerční_banka)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94200-56-p2s9w18">
 <src.rf>manual</src.rf>
@@ -721,7 +761,10 @@
 <LM>w#w-ln94200-56-p2s9w20</LM>
 </w.rf>
 <form>KB</form>
-<tag lemma="KB-1_:B_;K_^(Komerční_banka)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="KB-1_:B_;K_^(Komerční_banka)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="KB-1_:B_;K_^(Komerční_banka)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94200-56-p2s9w21">
 <src.rf>manual</src.rf>
@@ -824,6 +867,7 @@
 <tag>
 <AM lemma="Kč" src="orig">NNFXX-----A----</AM>
 <AM lemma="Kč_:B" src="auto" recommended="1">NNFXX-----A---8</AM>
+<AM lemma="Kč_:B" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94200-56-p2s9w33">

@@ -59,7 +59,10 @@
 <LM>w#w-ln95048-132-p1s1w6</LM>
 </w.rf>
 <form>SRN</form>
-<tag lemma="SRN_:B_;G" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="SRN_:B_;G" src="orig">NNFXX-----A---8</AM>
+<AM lemma="SRN-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 </s>
 <s id="m-ln95048-132-p2s1A">
@@ -199,7 +202,10 @@
 <LM>w#w-ln95048-132-p2s1Bw15</LM>
 </w.rf>
 <form>IG</form>
-<tag lemma="IG_:B_;K" src="orig" selected="1">AAXXX----1A---8</tag>
+<tag>
+<AM lemma="IG_:B_;K" src="orig">AAXXX----1A---8</AM>
+<AM lemma="IG-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95048-132-p2s1Bw16">
 <src.rf>manual</src.rf>
@@ -461,7 +467,7 @@
 <form>nejen</form>
 <tag>
 <AM lemma="nejen" src="orig">TT-------------</AM>
-<AM lemma="nejen" src="auto" recommended="1">Db-------------</AM>
+<AM lemma="nejen" src="auto" recommended="1" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m-ln95048-132-p2s3w13">
@@ -796,7 +802,10 @@
 <LM>w#w-ln95048-132-p2s5w4</LM>
 </w.rf>
 <form>ČR</form>
-<tag lemma="ČR-1_:B_;G_^(Česká_republika)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95048-132-p2s5w5">
 <src.rf>manual</src.rf>
@@ -1086,7 +1095,10 @@
 <LM>w#w-ln95048-132-p2s6w24</LM>
 </w.rf>
 <form>kapitalismu</form>
-<tag lemma="kapitalismus" src="orig" selected="1">NNIS3-----A----</tag>
+<tag>
+<AM lemma="kapitalismus" src="orig">NNIS3-----A----</AM>
+<AM lemma="kapitalismus_,s_^(^DD**kapitalizmus)" src="manual" selected="1">NNIS3-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95048-132-p2s6w25">
 <src.rf>manual</src.rf>

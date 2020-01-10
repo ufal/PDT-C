@@ -44,7 +44,7 @@
 </w.rf>
 <form>Fantu</form>
 <tag>
-<AM lemma="Fanta-2_;R" src="orig">NNFS4-----A----</AM>
+<AM lemma="Fanta-2_;R" src="orig" selected="1">NNFS4-----A----</AM>
 <AM lemma="Fanta_;S" src="auto" recommended="1">NNMS4-----A----</AM>
 <AM lemma="fant" src="auto">NNIS2-----A----</AM>
 <AM lemma="fant" src="auto">NNIS3-----A----</AM>
@@ -69,6 +69,8 @@
 <AM lemma="Sprite_;R_,t" src="orig">NNIS4-----A----</AM>
 <AM lemma="sprite" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="sprite" src="auto">NNIS5-----A----</AM>
+<AM lemma="Sprite_;R" src="manual" selected="1">NNIS4-----A----</AM>
+<AM lemma="sprite" src="manual">NNIS4-----A----</AM>
 </tag>
 </m>
 </s>
@@ -137,7 +139,10 @@
 <LM>w#w-ln95046-115-p2s1Bw6</LM>
 </w.rf>
 <form>Coca</form>
-<tag lemma="Coca_;R" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="Coca_;R" src="orig">AAXXX----1A----</AM>
+<AM lemma="Coca_;R_;K" src="manual" selected="1">AAXXX----1A----</AM>
+</tag>
 </m>
 <m id="m-ln95046-115-p2s1Bw7">
 <src.rf>manual</src.rf>
@@ -153,7 +158,10 @@
 <LM>w#w-ln95046-115-p2s1Bw8</LM>
 </w.rf>
 <form>Cola</form>
-<tag lemma="Cola_;R" src="orig" selected="1">NNFS1-----A----</tag>
+<tag>
+<AM lemma="Cola_;R" src="orig">NNFS1-----A----</AM>
+<AM lemma="Cola_;R_;K" src="manual" selected="1">NNFS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95046-115-p2s1Bw9">
 <src.rf>manual</src.rf>
@@ -242,7 +250,7 @@
 </w.rf>
 <form>Fanty</form>
 <tag>
-<AM lemma="Fanta-2_;R" src="orig">NNFS2-----A----</AM>
+<AM lemma="Fanta-2_;R" src="orig" selected="1">NNFS2-----A----</AM>
 <AM lemma="Fanta_;S" src="auto">NNMP4-----A----</AM>
 <AM lemma="Fanta_;S" src="auto">NNMP7-----A----</AM>
 <AM lemma="Fanta_;S" src="auto" recommended="1">NNMS2-----A----</AM>
@@ -286,6 +294,7 @@
 <AM lemma="Sprite_;R_,t" src="orig">NNIS4-----A----</AM>
 <AM lemma="sprite" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="sprite" src="auto">NNIS5-----A----</AM>
+<AM lemma="Sprite_;R" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95046-115-p2s1Bw24">
@@ -337,7 +346,7 @@
 </w.rf>
 <form>Fanty</form>
 <tag>
-<AM lemma="Fanta-2_;R" src="orig">NNFS2-----A----</AM>
+<AM lemma="Fanta-2_;R" src="orig" selected="1">NNFS2-----A----</AM>
 <AM lemma="Fanta_;S" src="auto">NNMP4-----A----</AM>
 <AM lemma="Fanta_;S" src="auto">NNMP7-----A----</AM>
 <AM lemma="Fanta_;S" src="auto" recommended="1">NNMS2-----A----</AM>
@@ -369,7 +378,10 @@
 <LM>w#w-ln95046-115-p3s1w8</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-2" src="auto" selected="1">Dg-------2A----</tag>
+<tag>
+<AM lemma="hodně-2" src="auto">Dg-------2A----</AM>
+<AM lemma="více_^(více_+_2._p.,_více_peněz)" src="manual" selected="1">Ca--4----------</AM>
+</tag>
 </m>
 <m id="m-ln95046-115-p3s1w9">
 <src.rf>manual</src.rf>
@@ -550,7 +562,7 @@
 </w.rf>
 <form>Fanta</form>
 <tag>
-<AM lemma="Fanta-2_;R" src="orig">NNFS1-----A----</AM>
+<AM lemma="Fanta-2_;R" src="orig" selected="1">NNFS1-----A----</AM>
 <AM lemma="Fanta_;S" src="auto" recommended="1">NNMS1-----A----</AM>
 </tag>
 </m>
@@ -655,6 +667,7 @@
 <AM lemma="sprite" src="auto" recommended="1">NNIS2-----A----</AM>
 <AM lemma="sprite" src="auto">NNIS3-----A----</AM>
 <AM lemma="sprite" src="auto">NNIS6-----A----</AM>
+<AM lemma="Sprite_;R" src="manual" selected="1">NNIS2-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95046-115-p3s4w3">
@@ -690,6 +703,7 @@
 <tag>
 <AM lemma="USA_;G" src="orig">NNIPX-----A----</AM>
 <AM lemma="USA_:B_;K_,t_^(United_States_of_America)" src="auto" recommended="1">NNIPX-----A---8</AM>
+<AM lemma="USA_:B_;K_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95046-115-p3s4w7">
@@ -804,7 +818,10 @@
 <LM>w#w-ln95046-115-p3s5w4</LM>
 </w.rf>
 <form>Coca</form>
-<tag lemma="Coca_;R" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="Coca_;R" src="orig">AAXXX----1A----</AM>
+<AM lemma="Coca_;R_;K" src="manual" selected="1">AAXXX----1A----</AM>
+</tag>
 </m>
 <m id="m-ln95046-115-p3s5w5">
 <src.rf>manual</src.rf>
@@ -820,7 +837,10 @@
 <LM>w#w-ln95046-115-p3s5w6</LM>
 </w.rf>
 <form>Cola</form>
-<tag lemma="Cola_;R" src="orig" selected="1">NNFS1-----A----</tag>
+<tag>
+<AM lemma="Cola_;R" src="orig">NNFS1-----A----</AM>
+<AM lemma="Cola_;R_;K" src="manual" selected="1">NNFS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95046-115-p3s5w7">
 <src.rf>manual</src.rf>
@@ -876,7 +896,10 @@
 <LM>w#w-ln95046-115-p3s5w13</LM>
 </w.rf>
 <form>více</form>
-<tag lemma="hodně-2" src="auto" selected="1">Dg-------2A----</tag>
+<tag>
+<AM lemma="hodně-2" src="auto">Dg-------2A----</AM>
+<AM lemma="více_^(více_+_2._p.,_více_peněz)" src="manual" selected="1">Ca--4----------</AM>
+</tag>
 </m>
 <m id="m-ln95046-115-p3s5w14">
 <src.rf>manual</src.rf>

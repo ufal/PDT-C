@@ -35,7 +35,10 @@
 <LM>w#w-mf930713-116-p1s1w3</LM>
 </w.rf>
 <form>Czech</form>
-<tag lemma="Czech-2_,t" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="Czech-2_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="Czech-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-mf930713-116-p1s1w4">
 <src.rf>manual</src.rf>
@@ -48,6 +51,8 @@
 <AM lemma="Mad_;G" src="auto">NNIS5-----A----</AM>
 <AM lemma="Mad_;G" src="auto" recommended="1">NNIS6-----A----</AM>
 <AM lemma="made_,t" src="auto">XX-------------</AM>
+<AM lemma="made_,t" src="manual">NNXXX-----A----</AM>
+<AM lemma="Made-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-mf930713-116-p1s1w5">
@@ -294,7 +299,10 @@
 <LM>w#w-mf930713-116-p3s1w2</LM>
 </w.rf>
 <form>Czech</form>
-<tag lemma="Czech-2_,t" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="Czech-2_,t" src="orig">AAXXX----1A----</AM>
+<AM lemma="Czech-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-mf930713-116-p3s1w3">
 <src.rf>manual</src.rf>
@@ -307,6 +315,8 @@
 <AM lemma="Mad_;G" src="auto">NNIS5-----A----</AM>
 <AM lemma="Mad_;G" src="auto" recommended="1">NNIS6-----A----</AM>
 <AM lemma="made_,t" src="auto">XX-------------</AM>
+<AM lemma="made_,t" src="manual">NNXXX-----A----</AM>
+<AM lemma="Made-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-mf930713-116-p3s1w4">
@@ -387,7 +397,10 @@
 <LM>w#w-mf930713-116-p3s1w13</LM>
 </w.rf>
 <form>ČR</form>
-<tag lemma="ČR-1_:B_;G_^(Česká_republika)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930713-116-p3s1w14">
 <src.rf>manual</src.rf>
@@ -810,7 +823,7 @@
 </w.rf>
 <form>promile</form>
 <tag>
-<AM lemma="promile" src="orig">NNNP2-----A----</AM>
+<AM lemma="promile" src="orig" selected="1">NNNP2-----A----</AM>
 <AM lemma="promile" src="auto">NNFP1-----A----</AM>
 <AM lemma="promile" src="auto">NNFP4-----A----</AM>
 <AM lemma="promile" src="auto">NNFP5-----A----</AM>
@@ -824,6 +837,7 @@
 <AM lemma="promile" src="auto" recommended="1">NNNS2-----A----</AM>
 <AM lemma="promile" src="auto">NNNS4-----A----</AM>
 <AM lemma="promile" src="auto">NNNS5-----A----</AM>
+<AM lemma="promile" src="manual">NNNXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930713-116-p3s6w12">

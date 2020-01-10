@@ -85,7 +85,12 @@
 <LM>w#w-ln94204-132-p2s1Aw4</LM>
 </w.rf>
 <form>Wild</form>
-<tag lemma="Wild_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Wild_;S" src="orig">NNMS1-----A----</AM>
+<AM lemma="Wild_;K_,t_^(angl._divoká)" src="manual">NNFXX-----A----</AM>
+<AM lemma="wild_,t" src="manual">AAXXX----1A----</AM>
+<AM lemma="Wild-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94204-132-p2s1Aw5">
 <src.rf>manual</src.rf>
@@ -97,6 +102,9 @@
 <AM lemma="Duck-2_;K" src="orig">NNFXX-----A----</AM>
 <AM lemma="Duck_;G" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Duck_;G" src="auto">NNIS4-----A----</AM>
+<AM lemma="Duck_;K_,t_^(angl._kachna)" src="manual">NNFXX-----A----</AM>
+<AM lemma="duck_,t" src="manual">NNXXX-----A----</AM>
+<AM lemma="Duck-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-ln94204-132-p2s1Aw6">
@@ -317,7 +325,10 @@
 <LM>w#w-ln94204-132-p2s2w4</LM>
 </w.rf>
 <form>thesí</form>
-<tag lemma="these_,a" src="auto" selected="1">NNFP2-----A----</tag>
+<tag>
+<AM lemma="these_,a" src="auto">NNFP2-----A----</AM>
+<AM lemma="these_,s_^(^DD**teze)" src="manual" selected="1">NNFP2-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94204-132-p2s2w5">
 <src.rf>manual</src.rf>
@@ -373,7 +384,10 @@
 <LM>w#w-ln94204-132-p2s2w11</LM>
 </w.rf>
 <form>matryjálu</form>
-<tag lemma="matryjál_,t" src="orig" selected="1">NNIS3-----A----</tag>
+<tag>
+<AM lemma="matryjál_,t" src="orig">NNIS3-----A----</AM>
+<AM lemma="matryjál_,h_^(^GC**materiál)" src="manual" selected="1">NNIS3-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94204-132-p2s2w12">
 <src.rf>manual</src.rf>
@@ -559,7 +573,10 @@
 <LM>w#w-ln94204-132-p2s3w13</LM>
 </w.rf>
 <form>dimense</form>
-<tag lemma="dimenze" src="orig" selected="1">NNFS2-----A----</tag>
+<tag>
+<AM lemma="dimenze" src="orig">NNFS2-----A----</AM>
+<AM lemma="dimense_,s_^(^DD**dimenze)" src="manual" selected="1">NNFS2-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94204-132-p2s3w14">
 <src.rf>manual</src.rf>
@@ -819,7 +836,10 @@
 <LM>w#w-ln94204-132-p2s5Aw16</LM>
 </w.rf>
 <form>K</form>
-<tag lemma="k-3_^(označení_pomocí_písmene)" src="orig" selected="1">NNNXX-----A----</tag>
+<tag>
+<AM lemma="k-3_^(označení_pomocí_písmene)" src="orig">NNNXX-----A----</AM>
+<AM lemma="K-33_^(označení_pomocí_písmene)" src="manual" selected="1">NNNXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94204-132-p2s5Aw17">
 <src.rf>manual</src.rf>
@@ -885,7 +905,11 @@
 <LM>w#w-ln94204-132-p2s5Bw7</LM>
 </w.rf>
 <form>klausule</form>
-<tag lemma="klauzule" src="orig" selected="1">NNFS1-----A----</tag>
+<tag>
+<AM lemma="klauzule" src="orig">NNFS1-----A----</AM>
+<AM lemma="klausule_,h_^(^GC**klauzule)" src="manual">NNFS1-----A----</AM>
+<AM lemma="klausule_,s_^(^DD**klauzule)" src="manual" selected="1">NNFS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94204-132-p2s5Bw8">
 <src.rf>manual</src.rf>
@@ -925,7 +949,11 @@
 <LM>w#w-ln94204-132-p2s5Bw12</LM>
 </w.rf>
 <form>vulgarismus</form>
-<tag lemma="vulgarismus" src="orig" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="vulgarismus" src="orig">NNIS1-----A----</AM>
+<AM lemma="vulgarismus_^(^DD**vulgarizmus)" src="manual">NNIS1-----A----</AM>
+<AM lemma="vulgarismus_,s_^(^DD**vulgarizmus)" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94204-132-p2s5Bw13">
 <src.rf>manual</src.rf>
@@ -1047,7 +1075,10 @@
 <LM>w#w-ln94204-132-p2s6w14</LM>
 </w.rf>
 <form>rozpočed</form>
-<tag lemma="rozpočed_,t" src="orig" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="rozpočed_,t" src="orig">NNIS1-----A----</AM>
+<AM lemma="rozpočed_,i_^(^DS**rozpočet)" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94204-132-p2s6w15">
 <src.rf>manual</src.rf>
@@ -1161,7 +1192,10 @@
 <LM>w#w-ln94204-132-p3s1w12</LM>
 </w.rf>
 <form>A</form>
-<tag lemma="A-0_:B_;Y" src="orig" selected="1">NNMXX-----A---8</tag>
+<tag>
+<AM lemma="A-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
+<AM lemma="A-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94204-132-p3s1w13">
 <src.rf>manual</src.rf>

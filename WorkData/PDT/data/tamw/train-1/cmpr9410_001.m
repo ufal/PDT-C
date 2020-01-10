@@ -85,7 +85,10 @@
 <LM>w#w-cmpr9410-001-p3s1w5</LM>
 </w.rf>
 <form>SR</form>
-<tag lemma="SR-1_:B_;G_^(Slovenská_republika)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="SR-1_:B_;G_^(Slovenská_republika)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="SR-1_:B_;G_^(Slovenská_republika)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-cmpr9410-001-p3s1w6">
 <src.rf>manual</src.rf>
@@ -375,7 +378,7 @@
 <AM lemma="Česko_;G" src="auto">NNNS1-----A----</AM>
 <AM lemma="Česko_;G" src="auto">NNNS4-----A----</AM>
 <AM lemma="Česko_;G" src="auto">NNNS5-----A----</AM>
-<AM lemma="český" src="auto" recommended="1">A2--------A----</AM>
+<AM lemma="český" src="auto" recommended="1" selected="1">A2--------A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9410-001-p4s2w14">
@@ -578,7 +581,10 @@
 <LM>w#w-cmpr9410-001-p4s3w13</LM>
 </w.rf>
 <form>ČR</form>
-<tag lemma="ČR-1_:B_;G_^(Česká_republika)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-cmpr9410-001-p4s3w14">
 <src.rf>manual</src.rf>
@@ -637,7 +643,7 @@
 <tag>
 <AM lemma="přesto" src="orig">Dg-------1A----</AM>
 <AM lemma="přesto-1" src="auto" recommended="1">Db-------------</AM>
-<AM lemma="přesto-2" src="auto">J^-------------</AM>
+<AM lemma="přesto-2" src="auto" selected="1">J^-------------</AM>
 </tag>
 </m>
 <m id="m-cmpr9410-001-p4s3w21">
@@ -774,7 +780,10 @@
 <LM>w#w-cmpr9410-001-p4s3w37</LM>
 </w.rf>
 <form>ČSFR</form>
-<tag lemma="ČSFR-1_:B_;G_^(Čs._federativní_republika)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ČSFR-1_:B_;G_^(Čs._federativní_republika)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČSFR-1_:B_;G_^(Čs._federativní_republika)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-cmpr9410-001-p4s3w38">
 <src.rf>manual</src.rf>
@@ -962,7 +971,10 @@
 <LM>w#w-cmpr9410-001-p8s1w20</LM>
 </w.rf>
 <form>ČR</form>
-<tag lemma="ČR-1_:B_;G_^(Česká_republika)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-cmpr9410-001-p8s1w21">
 <src.rf>manual</src.rf>
@@ -978,7 +990,10 @@
 <LM>w#w-cmpr9410-001-p8s1w22</LM>
 </w.rf>
 <form>SR</form>
-<tag lemma="SR-1_:B_;G_^(Slovenská_republika)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="SR-1_:B_;G_^(Slovenská_republika)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="SR-1_:B_;G_^(Slovenská_republika)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-cmpr9410-001-p8s1w23">
 <src.rf>manual</src.rf>
@@ -1108,7 +1123,10 @@
 <LM>w#w-cmpr9410-001-p8s2w4</LM>
 </w.rf>
 <form>sice</form>
-<tag lemma="sice-2" src="auto" selected="1">Db-------------</tag>
+<tag>
+<AM lemma="sice-2" src="auto">Db-------------</AM>
+<AM lemma="sice-1_^(spojka;_připouští_se_určitá_fakta)" src="manual" selected="1">J^-------------</AM>
+</tag>
 </m>
 <m id="m-cmpr9410-001-p8s2w5">
 <src.rf>manual</src.rf>
@@ -1188,7 +1206,10 @@
 <LM>w#w-cmpr9410-001-p8s2w14</LM>
 </w.rf>
 <form>třeba</form>
-<tag lemma="třeba-2" src="auto" selected="1">Db-------------</tag>
+<tag>
+<AM lemma="třeba-2" src="auto">Db-------------</AM>
+<AM lemma="třeba-3" src="manual" selected="1">TT-------------</AM>
+</tag>
 </m>
 <m id="m-cmpr9410-001-p8s2w15">
 <src.rf>manual</src.rf>
@@ -1196,7 +1217,10 @@
 <LM>w#w-cmpr9410-001-p8s2w15</LM>
 </w.rf>
 <form>i</form>
-<tag lemma="i-1" src="orig" selected="1">J^-------------</tag>
+<tag>
+<AM lemma="i-1" src="orig">J^-------------</AM>
+<AM lemma="i-2" src="manual" selected="1">TT-------------</AM>
+</tag>
 </m>
 <m id="m-cmpr9410-001-p8s2w16">
 <src.rf>manual</src.rf>
@@ -1322,7 +1346,7 @@
 <AM lemma="růst" src="orig">VB-S---3P-AA---</AM>
 <AM lemma="porosit" src="auto">Vi-P---2--A----</AM>
 <AM lemma="porosit" src="auto">Vi-P---3--A---4</AM>
-<AM lemma="porůst" src="auto" recommended="1">VB-S---3P-AA---</AM>
+<AM lemma="porůst" src="auto" recommended="1" selected="1">VB-S---3P-AA---</AM>
 <AM lemma="porost" src="auto">NNIS5-----A----</AM>
 <AM lemma="růst-2" src="auto">VB-S---3F-AA---</AM>
 </tag>
@@ -1407,7 +1431,10 @@
 <LM>w#w-cmpr9410-001-p10s1w9</LM>
 </w.rf>
 <form>SR</form>
-<tag lemma="SR-1_:B_;G_^(Slovenská_republika)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="SR-1_:B_;G_^(Slovenská_republika)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="SR-1_:B_;G_^(Slovenská_republika)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-cmpr9410-001-p10s1w10">
 <src.rf>manual</src.rf>
@@ -1634,7 +1661,10 @@
 <LM>w#w-cmpr9410-001-p10s2w11</LM>
 </w.rf>
 <form>GATT</form>
-<tag lemma="GATT_:B" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="GATT_:B" src="orig">NNFXX-----A---8</AM>
+<AM lemma="GATT-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-cmpr9410-001-p10s2w12">
 <src.rf>manual</src.rf>
@@ -1828,6 +1858,7 @@
 <AM lemma="mnohamiliónový" src="auto">AANS1----1A----</AM>
 <AM lemma="mnohamiliónový" src="auto" recommended="1">AANS4----1A----</AM>
 <AM lemma="mnohamiliónový" src="auto">AANS5----1A----</AM>
+<AM lemma="mnohamilionový_,s_^(^DD**mnohamiliónový)" src="manual" selected="1">AANS4----1A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9410-001-p10s2w34">
@@ -1836,7 +1867,10 @@
 <LM>w#w-cmpr9410-001-p10s2w34</LM>
 </w.rf>
 <form>pasívum</form>
-<tag lemma="pasívum_,x" src="auto" selected="1">NNNS4-----A----</tag>
+<tag>
+<AM lemma="pasívum_,x" src="auto">NNNS4-----A----</AM>
+<AM lemma="pasívum_,s_^(^DD**pasivum)" src="manual" selected="1">NNNS4-----A----</AM>
+</tag>
 </m>
 <m id="m-cmpr9410-001-p10s2w35">
 <src.rf>manual</src.rf>
@@ -1876,7 +1910,10 @@
 <LM>w#w-cmpr9410-001-p10s2w39</LM>
 </w.rf>
 <form>ČR</form>
-<tag lemma="ČR-1_:B_;G_^(Česká_republika)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-cmpr9410-001-p10s2w40">
 <src.rf>manual</src.rf>
@@ -1910,7 +1947,10 @@
 <LM>w#w-cmpr9410-001-p11s1w3</LM>
 </w.rf>
 <form>GATT</form>
-<tag lemma="GATT_:B" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="GATT_:B" src="orig">NNFXX-----A---8</AM>
+<AM lemma="GATT-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-cmpr9410-001-p11s1w4">
 <src.rf>manual</src.rf>
@@ -2654,7 +2694,10 @@
 <LM>w#w-cmpr9410-001-p14s1w17</LM>
 </w.rf>
 <form>ÚNMS</form>
-<tag lemma="ÚNMS_:B_;K_,t_^(Úrad_pre_normalizáciu,_metrológiu_a_skúšobníctvo)" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="ÚNMS_:B_;K_,t_^(Úrad_pre_normalizáciu,_metrológiu_a_skúšobníctvo)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="ÚNMS-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-cmpr9410-001-p14s1w18">
 <src.rf>manual</src.rf>
@@ -2662,7 +2705,10 @@
 <LM>w#w-cmpr9410-001-p14s1w18</LM>
 </w.rf>
 <form>SR</form>
-<tag lemma="SR-1_:B_;G_^(Slovenská_republika)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="SR-1_:B_;G_^(Slovenská_republika)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="SR-1_:B_;G_^(Slovenská_republika)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-cmpr9410-001-p14s1w19">
 <src.rf>manual</src.rf>
@@ -2742,7 +2788,10 @@
 <LM>w#w-cmpr9410-001-p14s1w28</LM>
 </w.rf>
 <form>SR</form>
-<tag lemma="SR-1_:B_;G_^(Slovenská_republika)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="SR-1_:B_;G_^(Slovenská_republika)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="SR-1_:B_;G_^(Slovenská_republika)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-cmpr9410-001-p14s1w29">
 <src.rf>manual</src.rf>
@@ -3002,7 +3051,10 @@
 <LM>w#w-cmpr9410-001-p15s1w14</LM>
 </w.rf>
 <form>ÚNMZ</form>
-<tag lemma="ÚNMZ-1_:B_;K_^(Úřad_pro_tech._normal.,_metrol._a_st._zk.)" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="ÚNMZ-1_:B_;K_^(Úřad_pro_tech._normal.,_metrol._a_st._zk.)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="ÚNMZ-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-cmpr9410-001-p15s1w15">
 <src.rf>manual</src.rf>
@@ -3010,7 +3062,10 @@
 <LM>w#w-cmpr9410-001-p15s1w15</LM>
 </w.rf>
 <form>ČR</form>
-<tag lemma="ČR-1_:B_;G_^(Česká_republika)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="ČR-1_:B_;G_^(Česká_republika)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-cmpr9410-001-p15s1w16">
 <src.rf>manual</src.rf>
@@ -3026,7 +3081,10 @@
 <LM>w#w-cmpr9410-001-p15s1w17</LM>
 </w.rf>
 <form>ÚNMS</form>
-<tag lemma="ÚNMS_:B_;K_,t_^(Úrad_pre_normalizáciu,_metrológiu_a_skúšobníctvo)" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="ÚNMS_:B_;K_,t_^(Úrad_pre_normalizáciu,_metrológiu_a_skúšobníctvo)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="ÚNMS-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-cmpr9410-001-p15s1w18">
 <src.rf>manual</src.rf>
@@ -3034,7 +3092,10 @@
 <LM>w#w-cmpr9410-001-p15s1w18</LM>
 </w.rf>
 <form>SR</form>
-<tag lemma="SR-1_:B_;G_^(Slovenská_republika)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="SR-1_:B_;G_^(Slovenská_republika)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="SR-1_:B_;G_^(Slovenská_republika)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-cmpr9410-001-p15s1w19">
 <src.rf>manual</src.rf>
@@ -3202,7 +3263,10 @@
 <LM>w#w-cmpr9410-001-p15s1w39</LM>
 </w.rf>
 <form>SR</form>
-<tag lemma="SR-1_:B_;G_^(Slovenská_republika)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="SR-1_:B_;G_^(Slovenská_republika)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="SR-1_:B_;G_^(Slovenská_republika)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-cmpr9410-001-p15s1w40">
 <src.rf>manual</src.rf>
@@ -3218,7 +3282,10 @@
 <LM>w#w-cmpr9410-001-p15s1w41</LM>
 </w.rf>
 <form>ÚNMS</form>
-<tag lemma="ÚNMS_:B_;K_,t_^(Úrad_pre_normalizáciu,_metrológiu_a_skúšobníctvo)" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="ÚNMS_:B_;K_,t_^(Úrad_pre_normalizáciu,_metrológiu_a_skúšobníctvo)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="ÚNMS-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-cmpr9410-001-p15s1w42">
 <src.rf>manual</src.rf>
@@ -3226,7 +3293,10 @@
 <LM>w#w-cmpr9410-001-p15s1w42</LM>
 </w.rf>
 <form>SR</form>
-<tag lemma="SR-1_:B_;G_^(Slovenská_republika)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="SR-1_:B_;G_^(Slovenská_republika)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="SR-1_:B_;G_^(Slovenská_republika)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-cmpr9410-001-p15s1w43">
 <src.rf>manual</src.rf>
@@ -3290,7 +3360,10 @@
 <LM>w#w-cmpr9410-001-p15s1w50</LM>
 </w.rf>
 <form>SR</form>
-<tag lemma="SR-1_:B_;G_^(Slovenská_republika)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="SR-1_:B_;G_^(Slovenská_republika)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="SR-1_:B_;G_^(Slovenská_republika)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-cmpr9410-001-p15s1w51">
 <src.rf>manual</src.rf>
@@ -3364,7 +3437,10 @@
 <LM>w#w-cmpr9410-001-p16s1w8</LM>
 </w.rf>
 <form>ÚNMS</form>
-<tag lemma="ÚNMS_:B_;K_,t_^(Úrad_pre_normalizáciu,_metrológiu_a_skúšobníctvo)" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="ÚNMS_:B_;K_,t_^(Úrad_pre_normalizáciu,_metrológiu_a_skúšobníctvo)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="ÚNMS-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-cmpr9410-001-p16s1w9">
 <src.rf>manual</src.rf>
@@ -3372,7 +3448,10 @@
 <LM>w#w-cmpr9410-001-p16s1w9</LM>
 </w.rf>
 <form>SR</form>
-<tag lemma="SR-1_:B_;G_^(Slovenská_republika)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="SR-1_:B_;G_^(Slovenská_republika)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="SR-1_:B_;G_^(Slovenská_republika)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-cmpr9410-001-p16s1w10">
 <src.rf>manual</src.rf>
@@ -3486,7 +3565,10 @@
 <LM>w#w-cmpr9410-001-p16s2w9</LM>
 </w.rf>
 <form>SPPI</form>
-<tag lemma="SPPI_:B_;K_,t_^(Slovenská_potravinárská_a_zemědělská_inspek)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="SPPI_:B_;K_,t_^(Slovenská_potravinárská_a_zemědělská_inspek)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="SPPI-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-cmpr9410-001-p16s2w10">
 <src.rf>manual</src.rf>
@@ -3760,7 +3842,10 @@
 <LM>w#w-cmpr9410-001-p17s1w16</LM>
 </w.rf>
 <form>SR</form>
-<tag lemma="SR-1_:B_;G_^(Slovenská_republika)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="SR-1_:B_;G_^(Slovenská_republika)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="SR-1_:B_;G_^(Slovenská_republika)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-cmpr9410-001-p17s1w17">
 <src.rf>manual</src.rf>
@@ -3840,7 +3925,10 @@
 <LM>w#w-cmpr9410-001-p17s1w26</LM>
 </w.rf>
 <form>SPPI</form>
-<tag lemma="SPPI_:B_;K_,t_^(Slovenská_potravinárská_a_zemědělská_inspek)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="SPPI_:B_;K_,t_^(Slovenská_potravinárská_a_zemědělská_inspek)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="SPPI-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-cmpr9410-001-p17s1w27">
 <src.rf>manual</src.rf>
@@ -3890,7 +3978,10 @@
 <LM>w#w-cmpr9410-001-p18s1w5</LM>
 </w.rf>
 <form>SR</form>
-<tag lemma="SR-1_:B_;G_^(Slovenská_republika)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="SR-1_:B_;G_^(Slovenská_republika)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="SR-1_:B_;G_^(Slovenská_republika)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-cmpr9410-001-p18s1w6">
 <src.rf>manual</src.rf>
@@ -3962,7 +4053,10 @@
 <LM>w#w-cmpr9410-001-p18s1w14</LM>
 </w.rf>
 <form>dovážených</form>
-<tag lemma="dovážený_^(dokončit_vážení)_(*2t)" src="auto" selected="1">AAIP2----1A----</tag>
+<tag>
+<AM lemma="dovážený_^(dokončit_vážení)_(*2t)" src="auto">AAIP2----1A----</AM>
+<AM lemma="dovážený-2_^(z_ciziny)_(*4t)" src="manual" selected="1">AAIP2----1A----</AM>
+</tag>
 </m>
 <m id="m-cmpr9410-001-p18s1w15">
 <src.rf>manual</src.rf>
@@ -3994,7 +4088,10 @@
 <LM>w#w-cmpr9410-001-p18s1w18</LM>
 </w.rf>
 <form>ÚNMS</form>
-<tag lemma="ÚNMS_:B_;K_,t_^(Úrad_pre_normalizáciu,_metrológiu_a_skúšobníctvo)" src="orig" selected="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="ÚNMS_:B_;K_,t_^(Úrad_pre_normalizáciu,_metrológiu_a_skúšobníctvo)" src="orig">NNIXX-----A---8</AM>
+<AM lemma="ÚNMS-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-cmpr9410-001-p18s1w19">
 <src.rf>manual</src.rf>
@@ -4002,7 +4099,10 @@
 <LM>w#w-cmpr9410-001-p18s1w19</LM>
 </w.rf>
 <form>SR</form>
-<tag lemma="SR-1_:B_;G_^(Slovenská_republika)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="SR-1_:B_;G_^(Slovenská_republika)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="SR-1_:B_;G_^(Slovenská_republika)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-cmpr9410-001-p18s1w20">
 <src.rf>manual</src.rf>
@@ -4549,7 +4649,10 @@
 <LM>w#w-cmpr9410-001-p20s1w18</LM>
 </w.rf>
 <form>SB</form>
-<tag lemma="Sb-1_:B_;j_^(Sbírka,_např._zákonů)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="Sb-1_:B_;j_^(Sbírka,_např._zákonů)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="sbírka" src="manual" selected="1">NNFXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-cmpr9410-001-p20s1w19">
 <src.rf>manual</src.rf>
@@ -4677,7 +4780,10 @@
 <LM>w#w-cmpr9410-001-p20s1w34</LM>
 </w.rf>
 <form>Sb</form>
-<tag lemma="Sb-1_:B_;j_^(Sbírka,_např._zákonů)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="Sb-1_:B_;j_^(Sbírka,_např._zákonů)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="sbírka" src="manual" selected="1">NNFXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-cmpr9410-001-p20s1w35">
 <src.rf>manual</src.rf>
@@ -4895,7 +5001,10 @@
 <LM>w#w-cmpr9410-001-p21s1w27</LM>
 </w.rf>
 <form>SPPI</form>
-<tag lemma="SPPI_:B_;K_,t_^(Slovenská_potravinárská_a_zemědělská_inspek)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="SPPI_:B_;K_,t_^(Slovenská_potravinárská_a_zemědělská_inspek)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="SPPI-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-cmpr9410-001-p21s1w28">
 <src.rf>manual</src.rf>
@@ -4961,7 +5070,10 @@
 <LM>w#w-cmpr9410-001-p22s1w7</LM>
 </w.rf>
 <form>dovážené</form>
-<tag lemma="dovážený_^(dokončit_vážení)_(*2t)" src="auto" selected="1">AAIP4----1A----</tag>
+<tag>
+<AM lemma="dovážený_^(dokončit_vážení)_(*2t)" src="auto">AAIP4----1A----</AM>
+<AM lemma="dovážený-2_^(z_ciziny)_(*4t)" src="manual" selected="1">AAIP1----1A----</AM>
+</tag>
 </m>
 <m id="m-cmpr9410-001-p22s1w8">
 <src.rf>manual</src.rf>
@@ -4985,7 +5097,10 @@
 <LM>w#w-cmpr9410-001-p22s1w10</LM>
 </w.rf>
 <form>SPPI</form>
-<tag lemma="SPPI_:B_;K_,t_^(Slovenská_potravinárská_a_zemědělská_inspek)" src="orig" selected="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="SPPI_:B_;K_,t_^(Slovenská_potravinárská_a_zemědělská_inspek)" src="orig">NNFXX-----A---8</AM>
+<AM lemma="SPPI-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-cmpr9410-001-p22s1w11">
 <src.rf>manual</src.rf>
@@ -5069,7 +5184,10 @@
 <LM>w#w-cmpr9410-001-p24s1w1</LM>
 </w.rf>
 <form>ŽE</form>
-<tag lemma="že-1" src="auto" selected="1">J,-------------</tag>
+<tag>
+<AM lemma="že-1" src="auto">J,-------------</AM>
+<AM lemma="že-2" src="manual" selected="1">TT-------------</AM>
+</tag>
 </m>
 <m id="m-cmpr9410-001-p24s1w2">
 <src.rf>manual</src.rf>
@@ -5252,7 +5370,7 @@
 <tag>
 <AM lemma="přesto" src="orig">Dg-------1A----</AM>
 <AM lemma="přesto-1" src="auto" recommended="1">Db-------------</AM>
-<AM lemma="přesto-2" src="auto">J^-------------</AM>
+<AM lemma="přesto-2" src="auto" selected="1">J^-------------</AM>
 </tag>
 </m>
 <m id="m-cmpr9410-001-p24s3w5">
