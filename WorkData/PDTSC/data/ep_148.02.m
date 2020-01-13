@@ -3170,7 +3170,8 @@
 <tag>
 <AM lemma="vydělat-1_:W_^(peníze)" src="auto" recommended="1">VpYS---XR-AA---</AM>
 <AM lemma="vydělat-2_:W_^(kůže)" src="auto">VpYS---XR-AA---</AM>
-<AM lemma="vydělávat_:T_^(kůže;peníze)_(*4at)" src="manual" selected="1">VpYS---XR-AA---</AM>
+<AM lemma="vydělávat_:T_^(kůže;peníze)_(*4at)" src="manual">VpYS---XR-AA---</AM>
+<AM lemma="vydělat_^(kůže;peníze)" src="manual" selected="1">VpYS---XR-AAP--</AM>
 </tag>
 </m>
 <m id="m148-d1t1081-3">
