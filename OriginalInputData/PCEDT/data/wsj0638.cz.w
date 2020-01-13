@@ -1253,54 +1253,76 @@
 </w>
 <w id="w-wsj0638-001-p1s14W1">
 <token>Jeho</token>
-</w><w id="w-wsj0638-001-p1s14W2">
+</w>
+<w id="w-wsj0638-001-p1s14W2">
 <token>největším</token>
-</w><w id="w-wsj0638-001-p1s14W3">
+</w>
+<w id="w-wsj0638-001-p1s14W3">
 <token>nedostatkem</token>
-</w><w id="w-wsj0638-001-p1s14W4">
+</w>
+<w id="w-wsj0638-001-p1s14W4">
 <token>by</token>
-</w><w id="w-wsj0638-001-p1s14W5">
+</w>
+<w id="w-wsj0638-001-p1s14W5">
 <token>mohla</token>
-</w><w id="w-wsj0638-001-p1s14W6">
+</w>
+<w id="w-wsj0638-001-p1s14W6">
 <token>být</token>
-</w><w id="w-wsj0638-001-p1s14W7">
+</w>
+<w id="w-wsj0638-001-p1s14W7">
 <token>tloušťka</token>
-</w><w id="w-wsj0638-001-p1s14W8">
+</w>
+<w id="w-wsj0638-001-p1s14W8">
 <token>3</token>
-</w><w id="w-wsj0638-001-p1s14W9">
+</w>
+<w id="w-wsj0638-001-p1s14W9">
 <token>palce</token>
 <no_space_after>1</no_space_after>
-</w><w id="w-wsj0638-001-p1s14W10">
+</w>
+<w id="w-wsj0638-001-p1s14W10">
 <token>,</token>
-</w><w id="w-wsj0638-001-p1s14W11">
+</w>
+<w id="w-wsj0638-001-p1s14W11">
 <token>tak</token>
-</w><w id="w-wsj0638-001-p1s14W12">
+</w>
+<w id="w-wsj0638-001-p1s14W12">
 <token>velká</token>
 <no_space_after>1</no_space_after>
-</w><w id="w-wsj0638-001-p1s14W13">
+</w>
+<w id="w-wsj0638-001-p1s14W13">
 <token>,</token>
-</w><w id="w-wsj0638-001-p1s14W14">
+</w>
+<w id="w-wsj0638-001-p1s14W14">
 <token>že</token>
-</w><w id="w-wsj0638-001-p1s14W15">
+</w>
+<w id="w-wsj0638-001-p1s14W15">
 <token>jej</token>
-</w><w id="w-wsj0638-001-p1s14W16">
+</w>
+<w id="w-wsj0638-001-p1s14W16">
 <token>jeden</token>
-</w><w id="w-wsj0638-001-p1s14W17">
+</w>
+<w id="w-wsj0638-001-p1s14W17">
 <token>poradce</token>
-</w><w id="w-wsj0638-001-p1s14W18">
+</w>
+<w id="w-wsj0638-001-p1s14W18">
 <token>nazval</token>
-</w><w id="w-wsj0638-001-p1s14W19">
+</w>
+<w id="w-wsj0638-001-p1s14W19">
 <token>"</token>
 <no_space_after>1</no_space_after>
-</w><w id="w-wsj0638-001-p1s14W20">
+</w>
+<w id="w-wsj0638-001-p1s14W20">
 <token>monstrem</token>
 <no_space_after>1</no_space_after>
-</w><w id="w-wsj0638-001-p1s14W21">
+</w>
+<w id="w-wsj0638-001-p1s14W21">
 <token>"</token>
 <no_space_after>1</no_space_after>
-</w><w id="w-wsj0638-001-p1s14W22">
+</w>
+<w id="w-wsj0638-001-p1s14W22">
 <token>.</token>
-</w><w id="w-wsj0638-001-p1s15W1">
+</w>
+<w id="w-wsj0638-001-p1s15W1">
 <token>Doporučená</token>
 </w>
 <w id="w-wsj0638-001-p1s15W2">

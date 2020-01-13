@@ -542,10 +542,12 @@
 </w>
 <w id="w-wsj0109-001-p1s5W23">
 <token>Prudential</token>
-<no_space_after>1</no_space_after></w>
+<no_space_after>1</no_space_after>
+</w>
 <w id="w-wsj0109-001-p1s5W24">
 <token>-</token>
-<no_space_after>1</no_space_after></w>
+<no_space_after>1</no_space_after>
+</w>
 <w id="w-wsj0109-001-p1s5W25">
 <token>Bache</token>
 </w>
@@ -904,10 +906,12 @@
 </w>
 <w id="w-wsj0109-001-p1s11W14">
 <token>24</token>
-<no_space_after>1</no_space_after></w>
+<no_space_after>1</no_space_after>
+</w>
 <w id="w-wsj0109-001-p1s11W15">
 <token>-</token>
-<no_space_after>1</no_space_after></w>
+<no_space_after>1</no_space_after>
+</w>
 <w id="w-wsj0109-001-p1s11W16">
 <token>krát</token>
 </w>

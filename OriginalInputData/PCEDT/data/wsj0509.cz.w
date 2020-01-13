@@ -843,59 +843,85 @@
 </w>
 <w id="w-wsj0509-001-p1s15W1">
 <token>Přestože</token>
-</w><w id="w-wsj0509-001-p1s15W2">
+</w>
+<w id="w-wsj0509-001-p1s15W2">
 <token>během</token>
-</w><w id="w-wsj0509-001-p1s15W3">
+</w>
+<w id="w-wsj0509-001-p1s15W3">
 <token>funkčního</token>
-</w><w id="w-wsj0509-001-p1s15W4">
+</w>
+<w id="w-wsj0509-001-p1s15W4">
 <token>období</token>
-</w><w id="w-wsj0509-001-p1s15W5">
+</w>
+<w id="w-wsj0509-001-p1s15W5">
 <token>pana</token>
-</w><w id="w-wsj0509-001-p1s15W6">
+</w>
+<w id="w-wsj0509-001-p1s15W6">
 <token>Corra</token>
-</w><w id="w-wsj0509-001-p1s15W7">
+</w>
+<w id="w-wsj0509-001-p1s15W7">
 <token>nebyl</token>
-</w><w id="w-wsj0509-001-p1s15W8">
+</w>
+<w id="w-wsj0509-001-p1s15W8">
 <token>ve</token>
-</w><w id="w-wsj0509-001-p1s15W9">
+</w>
+<w id="w-wsj0509-001-p1s15W9">
 <token>firmě</token>
-</w><w id="w-wsj0509-001-p1s15W10">
+</w>
+<w id="w-wsj0509-001-p1s15W10">
 <token>Continental</token>
-</w><w id="w-wsj0509-001-p1s15W11">
+</w>
+<w id="w-wsj0509-001-p1s15W11">
 <token>oficiálně</token>
-</w><w id="w-wsj0509-001-p1s15W12">
+</w>
+<w id="w-wsj0509-001-p1s15W12">
 <token>vedoucím</token>
-</w><w id="w-wsj0509-001-p1s15W13">
+</w>
+<w id="w-wsj0509-001-p1s15W13">
 <token>pracovníkem</token>
 <no_space_after>1</no_space_after>
-</w><w id="w-wsj0509-001-p1s15W14">
+</w>
+<w id="w-wsj0509-001-p1s15W14">
 <token>,</token>
-</w><w id="w-wsj0509-001-p1s15W15">
+</w>
+<w id="w-wsj0509-001-p1s15W15">
 <token>je</token>
-</w><w id="w-wsj0509-001-p1s15W16">
+</w>
+<w id="w-wsj0509-001-p1s15W16">
 <token>pan</token>
-</w><w id="w-wsj0509-001-p1s15W17">
+</w>
+<w id="w-wsj0509-001-p1s15W17">
 <token>Lorenzo</token>
-</w><w id="w-wsj0509-001-p1s15W18">
+</w>
+<w id="w-wsj0509-001-p1s15W18">
 <token>znám</token>
-</w><w id="w-wsj0509-001-p1s15W19">
+</w>
+<w id="w-wsj0509-001-p1s15W19">
 <token>bedlivým</token>
-</w><w id="w-wsj0509-001-p1s15W20">
+</w>
+<w id="w-wsj0509-001-p1s15W20">
 <token>sledováním</token>
-</w><w id="w-wsj0509-001-p1s15W21">
+</w>
+<w id="w-wsj0509-001-p1s15W21">
 <token>provozních</token>
-</w><w id="w-wsj0509-001-p1s15W22">
+</w>
+<w id="w-wsj0509-001-p1s15W22">
 <token>jednotek</token>
-</w><w id="w-wsj0509-001-p1s15W23">
+</w>
+<w id="w-wsj0509-001-p1s15W23">
 <token>společnosti</token>
-</w><w id="w-wsj0509-001-p1s15W24">
+</w>
+<w id="w-wsj0509-001-p1s15W24">
 <token>Texas</token>
-</w><w id="w-wsj0509-001-p1s15W25">
+</w>
+<w id="w-wsj0509-001-p1s15W25">
 <token>Air</token>
 <no_space_after>1</no_space_after>
-</w><w id="w-wsj0509-001-p1s15W26">
+</w>
+<w id="w-wsj0509-001-p1s15W26">
 <token>.</token>
-</w><w id="w-wsj0509-001-p1s16W1">
+</w>
+<w id="w-wsj0509-001-p1s16W1">
 <token>Firma</token>
 </w>
 <w id="w-wsj0509-001-p1s16W2">

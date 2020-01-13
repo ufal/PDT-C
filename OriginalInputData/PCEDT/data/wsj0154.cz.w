@@ -214,10 +214,12 @@
 </w>
 <w id="w-wsj0154-001-p1s1W42">
 <token>40</token>
-<no_space_after>1</no_space_after></w>
+<no_space_after>1</no_space_after>
+</w>
 <w id="w-wsj0154-001-p1s1W43">
 <token>-</token>
-<no_space_after>1</no_space_after></w>
+<no_space_after>1</no_space_after>
+</w>
 <w id="w-wsj0154-001-p1s1W44">
 <token>ti</token>
 </w>

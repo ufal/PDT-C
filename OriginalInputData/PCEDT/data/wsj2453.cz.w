@@ -277,10 +277,12 @@
 </w>
 <w id="w-wsj2453-001-p1s2W23">
 <token>joint</token>
-<no_space_after>1</no_space_after></w>
+<no_space_after>1</no_space_after>
+</w>
 <w id="w-wsj2453-001-p1s2W24">
 <token>-</token>
-<no_space_after>1</no_space_after></w>
+<no_space_after>1</no_space_after>
+</w>
 <w id="w-wsj2453-001-p1s2W25">
 <token>venture</token>
 </w>

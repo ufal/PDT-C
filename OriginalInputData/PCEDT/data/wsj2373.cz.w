@@ -433,10 +433,12 @@
 </w>
 <w id="w-wsj2373-001-p1s4W22">
 <token>jste</token>
-<no_space_after>1</no_space_after></w>
+<no_space_after>1</no_space_after>
+</w>
 <w id="w-wsj2373-001-p1s4W23">
 <token>-</token>
-<no_space_after>1</no_space_after></w>
+<no_space_after>1</no_space_after>
+</w>
 <w id="w-wsj2373-001-p1s4W24">
 <token>li</token>
 </w>
@@ -458,10 +460,12 @@
 </w>
 <w id="w-wsj2373-001-p1s4W30">
 <token>jste</token>
-<no_space_after>1</no_space_after></w>
+<no_space_after>1</no_space_after>
+</w>
 <w id="w-wsj2373-001-p1s4W31">
 <token>-</token>
-<no_space_after>1</no_space_after></w>
+<no_space_after>1</no_space_after>
+</w>
 <w id="w-wsj2373-001-p1s4W32">
 <token>li</token>
 </w>

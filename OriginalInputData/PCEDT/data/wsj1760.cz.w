@@ -1768,10 +1768,12 @@
 </w>
 <w id="w-wsj1760-001-p1s30W2">
 <token>Chceme</token>
-<no_space_after>1</no_space_after></w>
+<no_space_after>1</no_space_after>
+</w>
 <w id="w-wsj1760-001-p1s30W3">
 <token>-</token>
-<no_space_after>1</no_space_after></w>
+<no_space_after>1</no_space_after>
+</w>
 <w id="w-wsj1760-001-p1s30W4">
 <token>li</token>
 </w>

@@ -1176,10 +1176,12 @@
 </w>
 <w id="w-wsj2416-001-p1s13W11">
 <token>17</token>
-<no_space_after>1</no_space_after></w>
+<no_space_after>1</no_space_after>
+</w>
 <w id="w-wsj2416-001-p1s13W12">
 <token>-</token>
-<no_space_after>1</no_space_after></w>
+<no_space_after>1</no_space_after>
+</w>
 <w id="w-wsj2416-001-p1s13W13">
 <token>členné</token>
 </w>

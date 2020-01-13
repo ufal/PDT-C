@@ -43,10 +43,12 @@
 </w>
 <w id="w-wsj1751-001-p1s0W7">
 <token>Empire</token>
-<no_space_after>1</no_space_after></w>
+<no_space_after>1</no_space_after>
+</w>
 <w id="w-wsj1751-001-p1s0W8">
 <token>-</token>
-<no_space_after>1</no_space_after></w>
+<no_space_after>1</no_space_after>
+</w>
 <w id="w-wsj1751-001-p1s0W9">
 <token>Berol</token>
 <no_space_after>1</no_space_after>

@@ -1932,10 +1932,12 @@
 </w>
 <w id="w-wsj2443-001-p1s24W6">
 <token>Vitro</token>
-<no_space_after>1</no_space_after></w>
+<no_space_after>1</no_space_after>
+</w>
 <w id="w-wsj2443-001-p1s24W7">
 <token>-</token>
-<no_space_after>1</no_space_after></w>
+<no_space_after>1</no_space_after>
+</w>
 <w id="w-wsj2443-001-p1s24W8">
 <token>Anchor</token>
 </w>
@@ -3107,10 +3109,12 @@
 </w>
 <w id="w-wsj2443-001-p1s34W11">
 <token>Dow</token>
-<no_space_after>1</no_space_after></w>
+<no_space_after>1</no_space_after>
+</w>
 <w id="w-wsj2443-001-p1s34W12">
 <token>-</token>
-<no_space_after>1</no_space_after></w>
+<no_space_after>1</no_space_after>
+</w>
 <w id="w-wsj2443-001-p1s34W13">
 <token>Jonesova</token>
 </w>
@@ -4066,10 +4070,12 @@
 </w>
 <w id="w-wsj2443-001-p1s44W1">
 <token>Vezmeme</token>
-<no_space_after>1</no_space_after></w>
+<no_space_after>1</no_space_after>
+</w>
 <w id="w-wsj2443-001-p1s44W2">
 <token>-</token>
-<no_space_after>1</no_space_after></w>
+<no_space_after>1</no_space_after>
+</w>
 <w id="w-wsj2443-001-p1s44W3">
 <token>li</token>
 </w>

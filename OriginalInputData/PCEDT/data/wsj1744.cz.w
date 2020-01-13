@@ -646,10 +646,12 @@
 </w>
 <w id="w-wsj1744-001-p1s6W20">
 <token>čtyř</token>
-<no_space_after>1</no_space_after></w>
+<no_space_after>1</no_space_after>
+</w>
 <w id="w-wsj1744-001-p1s6W21">
 <token>-</token>
-<no_space_after>1</no_space_after></w>
+<no_space_after>1</no_space_after>
+</w>
 <w id="w-wsj1744-001-p1s6W22">
 <token>dveřového</token>
 </w>
@@ -826,10 +828,12 @@
 </w>
 <w id="w-wsj1744-001-p1s8W22">
 <token>pick</token>
-<no_space_after>1</no_space_after></w>
+<no_space_after>1</no_space_after>
+</w>
 <w id="w-wsj1744-001-p1s8W23">
 <token>-</token>
-<no_space_after>1</no_space_after></w>
+<no_space_after>1</no_space_after>
+</w>
 <w id="w-wsj1744-001-p1s8W24">
 <token>up</token>
 <no_space_after>1</no_space_after>
@@ -914,10 +918,12 @@
 </w>
 <w id="w-wsj1744-001-p1s10W3">
 <token>Jeep</token>
-<no_space_after>1</no_space_after></w>
+<no_space_after>1</no_space_after>
+</w>
 <w id="w-wsj1744-001-p1s10W4">
 <token>-</token>
-<no_space_after>1</no_space_after></w>
+<no_space_after>1</no_space_after>
+</w>
 <w id="w-wsj1744-001-p1s10W5">
 <token>Eagle</token>
 <no_space_after>1</no_space_after>

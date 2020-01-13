@@ -157,10 +157,12 @@
 </w>
 <w id="w-wsj2440-001-p1s1W29">
 <token>McGraw</token>
-<no_space_after>1</no_space_after></w>
+<no_space_after>1</no_space_after>
+</w>
 <w id="w-wsj2440-001-p1s1W30">
 <token>-</token>
-<no_space_after>1</no_space_after></w>
+<no_space_after>1</no_space_after>
+</w>
 <w id="w-wsj2440-001-p1s1W31">
 <token>Hill</token>
 </w>
@@ -305,10 +307,12 @@
 </w>
 <w id="w-wsj2440-001-p1s2W33">
 <token>15ti</token>
-<no_space_after>1</no_space_after></w>
+<no_space_after>1</no_space_after>
+</w>
 <w id="w-wsj2440-001-p1s2W34">
 <token>-</token>
-<no_space_after>1</no_space_after></w>
+<no_space_after>1</no_space_after>
+</w>
 <w id="w-wsj2440-001-p1s2W35">
 <token>sekundového</token>
 </w>

@@ -1117,44 +1117,63 @@
 </w>
 <w id="w-wsj2004-001-p1s14W1">
 <token>Pope</token>
-</w><w id="w-wsj2004-001-p1s14W2">
+</w>
+<w id="w-wsj2004-001-p1s14W2">
 <token>vlastní</token>
-</w><w id="w-wsj2004-001-p1s14W3">
+</w>
+<w id="w-wsj2004-001-p1s14W3">
 <token>10 000</token>
-</w><w id="w-wsj2004-001-p1s14W4">
+</w>
+<w id="w-wsj2004-001-p1s14W4">
 <token>akcií</token>
-</w><w id="w-wsj2004-001-p1s14W5">
+</w>
+<w id="w-wsj2004-001-p1s14W5">
 <token>společnosti</token>
-</w><w id="w-wsj2004-001-p1s14W6">
+</w>
+<w id="w-wsj2004-001-p1s14W6">
 <token>UAL</token>
-</w><w id="w-wsj2004-001-p1s14W7">
+</w>
+<w id="w-wsj2004-001-p1s14W7">
 <token>a</token>
-</w><w id="w-wsj2004-001-p1s14W8">
+</w>
+<w id="w-wsj2004-001-p1s14W8">
 <token>má</token>
-</w><w id="w-wsj2004-001-p1s14W9">
+</w>
+<w id="w-wsj2004-001-p1s14W9">
 <token>opce</token>
-</w><w id="w-wsj2004-001-p1s14W10">
+</w>
+<w id="w-wsj2004-001-p1s14W10">
 <token>ke</token>
-</w><w id="w-wsj2004-001-p1s14W11">
+</w>
+<w id="w-wsj2004-001-p1s14W11">
 <token>koupi</token>
-</w><w id="w-wsj2004-001-p1s14W12">
+</w>
+<w id="w-wsj2004-001-p1s14W12">
 <token>dalších</token>
-</w><w id="w-wsj2004-001-p1s14W13">
+</w>
+<w id="w-wsj2004-001-p1s14W13">
 <token>150 000</token>
-</w><w id="w-wsj2004-001-p1s14W14">
+</w>
+<w id="w-wsj2004-001-p1s14W14">
 <token>za</token>
-</w><w id="w-wsj2004-001-p1s14W15">
+</w>
+<w id="w-wsj2004-001-p1s14W15">
 <token>69</token>
-</w><w id="w-wsj2004-001-p1s14W16">
+</w>
+<w id="w-wsj2004-001-p1s14W16">
 <token>dolarů</token>
-</w><w id="w-wsj2004-001-p1s14W17">
+</w>
+<w id="w-wsj2004-001-p1s14W17">
 <token>za</token>
-</w><w id="w-wsj2004-001-p1s14W18">
+</w>
+<w id="w-wsj2004-001-p1s14W18">
 <token>akcii</token>
 <no_space_after>1</no_space_after>
-</w><w id="w-wsj2004-001-p1s14W19">
+</w>
+<w id="w-wsj2004-001-p1s14W19">
 <token>.</token>
-</w><w id="w-wsj2004-001-p1s15W1">
+</w>
+<w id="w-wsj2004-001-p1s15W1">
 <token>To</token>
 </w>
 <w id="w-wsj2004-001-p1s15W2">

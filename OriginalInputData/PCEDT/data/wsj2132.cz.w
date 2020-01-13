@@ -24,91 +24,130 @@
 <othermarkup origin="csts/doc/p/@n">1</othermarkup>
 <w id="w-wsj2132-001-p1s0W1">
 <token>Společnost</token>
-</w><w id="w-wsj2132-001-p1s0W2">
+</w>
+<w id="w-wsj2132-001-p1s0W2">
 <token>Dow</token>
-</w><w id="w-wsj2132-001-p1s0W3">
+</w>
+<w id="w-wsj2132-001-p1s0W3">
 <token>Jones</token>
-</w><w id="w-wsj2132-001-p1s0W4">
+</w>
+<w id="w-wsj2132-001-p1s0W4">
 <token>&amp;</token>
-</w><w id="w-wsj2132-001-p1s0W5">
+</w>
+<w id="w-wsj2132-001-p1s0W5">
 <token>Co</token>
 <no_space_after>1</no_space_after>
-</w><w id="w-wsj2132-001-p1s0W6">
+</w>
+<w id="w-wsj2132-001-p1s0W6">
 <token>.</token>
-</w><w id="w-wsj2132-001-p1s0W7">
+</w>
+<w id="w-wsj2132-001-p1s0W7">
 <token>uvedla</token>
 <no_space_after>1</no_space_after>
-</w><w id="w-wsj2132-001-p1s0W8">
+</w>
+<w id="w-wsj2132-001-p1s0W8">
 <token>,</token>
-</w><w id="w-wsj2132-001-p1s0W9">
+</w>
+<w id="w-wsj2132-001-p1s0W9">
 <token>že</token>
-</w><w id="w-wsj2132-001-p1s0W10">
+</w>
+<w id="w-wsj2132-001-p1s0W10">
 <token>získala</token>
-</w><w id="w-wsj2132-001-p1s0W11">
+</w>
+<w id="w-wsj2132-001-p1s0W11">
 <token>15</token>
 <no_space_after>1</no_space_after>
-</w><w id="w-wsj2132-001-p1s0W12">
+</w>
+<w id="w-wsj2132-001-p1s0W12">
 <token>%</token>
-</w><w id="w-wsj2132-001-p1s0W13">
+</w>
+<w id="w-wsj2132-001-p1s0W13">
 <token>podíl</token>
-</w><w id="w-wsj2132-001-p1s0W14">
+</w>
+<w id="w-wsj2132-001-p1s0W14">
 <token>ve</token>
-</w><w id="w-wsj2132-001-p1s0W15">
+</w>
+<w id="w-wsj2132-001-p1s0W15">
 <token>společnosti</token>
-</w><w id="w-wsj2132-001-p1s0W16">
+</w>
+<w id="w-wsj2132-001-p1s0W16">
 <token>DataTimes</token>
-</w><w id="w-wsj2132-001-p1s0W17">
+</w>
+<w id="w-wsj2132-001-p1s0W17">
 <token>Corp</token>
 <no_space_after>1</no_space_after>
-</w><w id="w-wsj2132-001-p1s0W18">
+</w>
+<w id="w-wsj2132-001-p1s0W18">
 <token>.</token>
 <no_space_after>1</no_space_after>
-</w><w id="w-wsj2132-001-p1s0W19">
+</w>
+<w id="w-wsj2132-001-p1s0W19">
 <token>,</token>
-</w><w id="w-wsj2132-001-p1s0W20">
+</w>
+<w id="w-wsj2132-001-p1s0W20">
 <token>v</token>
-</w><w id="w-wsj2132-001-p1s0W21">
+</w>
+<w id="w-wsj2132-001-p1s0W21">
 <token>pobočce</token>
-</w><w id="w-wsj2132-001-p1s0W22">
+</w>
+<w id="w-wsj2132-001-p1s0W22">
 <token>společnosti</token>
-</w><w id="w-wsj2132-001-p1s0W23">
+</w>
+<w id="w-wsj2132-001-p1s0W23">
 <token>Oklahoma</token>
-</w><w id="w-wsj2132-001-p1s0W24">
+</w>
+<w id="w-wsj2132-001-p1s0W24">
 <token>Publishing</token>
-</w><w id="w-wsj2132-001-p1s0W25">
+</w>
+<w id="w-wsj2132-001-p1s0W25">
 <token>Co</token>
 <no_space_after>1</no_space_after>
-</w><w id="w-wsj2132-001-p1s0W26">
+</w>
+<w id="w-wsj2132-001-p1s0W26">
 <token>.</token>
-</w><w id="w-wsj2132-001-p1s0W27">
+</w>
+<w id="w-wsj2132-001-p1s0W27">
 <token>z</token>
-</w><w id="w-wsj2132-001-p1s0W28">
+</w>
+<w id="w-wsj2132-001-p1s0W28">
 <token>Oklahoma</token>
-</w><w id="w-wsj2132-001-p1s0W29">
+</w>
+<w id="w-wsj2132-001-p1s0W29">
 <token>City</token>
 <no_space_after>1</no_space_after>
-</w><w id="w-wsj2132-001-p1s0W30">
+</w>
+<w id="w-wsj2132-001-p1s0W30">
 <token>,</token>
-</w><w id="w-wsj2132-001-p1s0W31">
+</w>
+<w id="w-wsj2132-001-p1s0W31">
 <token>která</token>
-</w><w id="w-wsj2132-001-p1s0W32">
+</w>
+<w id="w-wsj2132-001-p1s0W32">
 <token>poskytuje</token>
-</w><w id="w-wsj2132-001-p1s0W33">
+</w>
+<w id="w-wsj2132-001-p1s0W33">
 <token>služby</token>
-</w><w id="w-wsj2132-001-p1s0W34">
+</w>
+<w id="w-wsj2132-001-p1s0W34">
 <token>v</token>
-</w><w id="w-wsj2132-001-p1s0W35">
+</w>
+<w id="w-wsj2132-001-p1s0W35">
 <token>oblasti</token>
-</w><w id="w-wsj2132-001-p1s0W36">
+</w>
+<w id="w-wsj2132-001-p1s0W36">
 <token>elektronického</token>
-</w><w id="w-wsj2132-001-p1s0W37">
+</w>
+<w id="w-wsj2132-001-p1s0W37">
 <token>sběru</token>
-</w><w id="w-wsj2132-001-p1s0W38">
+</w>
+<w id="w-wsj2132-001-p1s0W38">
 <token>dat</token>
 <no_space_after>1</no_space_after>
-</w><w id="w-wsj2132-001-p1s0W39">
+</w>
+<w id="w-wsj2132-001-p1s0W39">
 <token>.</token>
-</w><w id="w-wsj2132-001-p1s1W1">
+</w>
+<w id="w-wsj2132-001-p1s1W1">
 <token>Podmínky</token>
 </w>
 <w id="w-wsj2132-001-p1s1W2">

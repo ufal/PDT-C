@@ -609,10 +609,12 @@
 </w>
 <w id="w-wsj2055-001-p1s10W3">
 <token>Archer-Daniels</token>
-<no_space_after>1</no_space_after></w>
+<no_space_after>1</no_space_after>
+</w>
 <w id="w-wsj2055-001-p1s10W4">
 <token>-</token>
-<no_space_after>1</no_space_after></w>
+<no_space_after>1</no_space_after>
+</w>
 <w id="w-wsj2055-001-p1s10W5">
 <token>Midland</token>
 </w>
@@ -1002,63 +1004,91 @@
 </w>
 <w id="w-wsj2055-001-p1s16W1">
 <token>Zástupci</token>
-</w><w id="w-wsj2055-001-p1s16W2">
+</w>
+<w id="w-wsj2055-001-p1s16W2">
 <token>uvedli</token>
 <no_space_after>1</no_space_after>
-</w><w id="w-wsj2055-001-p1s16W3">
+</w>
+<w id="w-wsj2055-001-p1s16W3">
 <token>,</token>
-</w><w id="w-wsj2055-001-p1s16W4">
+</w>
+<w id="w-wsj2055-001-p1s16W4">
 <token>že</token>
-</w><w id="w-wsj2055-001-p1s16W5">
+</w>
+<w id="w-wsj2055-001-p1s16W5">
 <token>vystavovalo</token>
-</w><w id="w-wsj2055-001-p1s16W6">
+</w>
+<w id="w-wsj2055-001-p1s16W6">
 <token>91</token>
-</w><w id="w-wsj2055-001-p1s16W7">
+</w>
+<w id="w-wsj2055-001-p1s16W7">
 <token>společností</token>
-</w><w id="w-wsj2055-001-p1s16W8">
+</w>
+<w id="w-wsj2055-001-p1s16W8">
 <token>ze</token>
-</w><w id="w-wsj2055-001-p1s16W9">
+</w>
+<w id="w-wsj2055-001-p1s16W9">
 <token>14</token>
-</w><w id="w-wsj2055-001-p1s16W10">
+</w>
+<w id="w-wsj2055-001-p1s16W10">
 <token>zemí</token>
-</w><w id="w-wsj2055-001-p1s16W11">
+</w>
+<w id="w-wsj2055-001-p1s16W11">
 <token>včetně</token>
-</w><w id="w-wsj2055-001-p1s16W12">
+</w>
+<w id="w-wsj2055-001-p1s16W12">
 <token>USA</token>
 <no_space_after>1</no_space_after>
-</w><w id="w-wsj2055-001-p1s16W13">
+</w>
+<w id="w-wsj2055-001-p1s16W13">
 <token>,</token>
-</w><w id="w-wsj2055-001-p1s16W14">
+</w>
+<w id="w-wsj2055-001-p1s16W14">
 <token>což</token>
-</w><w id="w-wsj2055-001-p1s16W15">
+</w>
+<w id="w-wsj2055-001-p1s16W15">
 <token>je</token>
-</w><w id="w-wsj2055-001-p1s16W16">
+</w>
+<w id="w-wsj2055-001-p1s16W16">
 <token>snížení</token>
-</w><w id="w-wsj2055-001-p1s16W17">
+</w>
+<w id="w-wsj2055-001-p1s16W17">
 <token>oproti</token>
-</w><w id="w-wsj2055-001-p1s16W18">
+</w>
+<w id="w-wsj2055-001-p1s16W18">
 <token>260</token>
-</w><w id="w-wsj2055-001-p1s16W19">
+</w>
+<w id="w-wsj2055-001-p1s16W19">
 <token>firmám</token>
-</w><w id="w-wsj2055-001-p1s16W20">
+</w>
+<w id="w-wsj2055-001-p1s16W20">
 <token>z</token>
-</w><w id="w-wsj2055-001-p1s16W21">
+</w>
+<w id="w-wsj2055-001-p1s16W21">
 <token>více</token>
-</w><w id="w-wsj2055-001-p1s16W22">
+</w>
+<w id="w-wsj2055-001-p1s16W22">
 <token>než</token>
-</w><w id="w-wsj2055-001-p1s16W23">
+</w>
+<w id="w-wsj2055-001-p1s16W23">
 <token>20</token>
-</w><w id="w-wsj2055-001-p1s16W24">
+</w>
+<w id="w-wsj2055-001-p1s16W24">
 <token>zemí</token>
-</w><w id="w-wsj2055-001-p1s16W25">
+</w>
+<w id="w-wsj2055-001-p1s16W25">
 <token>při</token>
-</w><w id="w-wsj2055-001-p1s16W26">
+</w>
+<w id="w-wsj2055-001-p1s16W26">
 <token>poslední</token>
-</w><w id="w-wsj2055-001-p1s16W27">
+</w>
+<w id="w-wsj2055-001-p1s16W27">
 <token>přehlídce</token>
-</w><w id="w-wsj2055-001-p1s16W28">
+</w>
+<w id="w-wsj2055-001-p1s16W28">
 <token>v</token>
-</w><w id="w-wsj2055-001-p1s17W1">
+</w>
+<w id="w-wsj2055-001-p1s17W1">
 <token>Japonský</token>
 </w>
 <w id="w-wsj2055-001-p1s17W2">

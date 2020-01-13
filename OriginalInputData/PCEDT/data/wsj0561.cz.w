@@ -920,82 +920,118 @@
 </w>
 <w id="w-wsj0561-001-p1s13W1">
 <token>To</token>
-</w><w id="w-wsj0561-001-p1s13W2">
+</w>
+<w id="w-wsj0561-001-p1s13W2">
 <token>přišlo</token>
-</w><w id="w-wsj0561-001-p1s13W3">
+</w>
+<w id="w-wsj0561-001-p1s13W3">
 <token>v</token>
-</w><w id="w-wsj0561-001-p1s13W4">
+</w>
+<w id="w-wsj0561-001-p1s13W4">
 <token>sedmé</token>
-</w><w id="w-wsj0561-001-p1s13W5">
+</w>
+<w id="w-wsj0561-001-p1s13W5">
 <token>směně</token>
-</w><w id="w-wsj0561-001-p1s13W6">
+</w>
+<w id="w-wsj0561-001-p1s13W6">
 <token>čtvrté</token>
-</w><w id="w-wsj0561-001-p1s13W7">
+</w>
+<w id="w-wsj0561-001-p1s13W7">
 <token>hry</token>
 <no_space_after>1</no_space_after>
-</w><w id="w-wsj0561-001-p1s13W8">
+</w>
+<w id="w-wsj0561-001-p1s13W8">
 <token>,</token>
-</w><w id="w-wsj0561-001-p1s13W9">
+</w>
+<w id="w-wsj0561-001-p1s13W9">
 <token>kdy</token>
-</w><w id="w-wsj0561-001-p1s13W10">
+</w>
+<w id="w-wsj0561-001-p1s13W10">
 <token>za</token>
-</w><w id="w-wsj0561-001-p1s13W11">
+</w>
+<w id="w-wsj0561-001-p1s13W11">
 <token>stavu</token>
-</w><w id="w-wsj0561-001-p1s13W12">
+</w>
+<w id="w-wsj0561-001-p1s13W12">
 <token>8</token>
 <no_space_after>1</no_space_after>
-</w><w id="w-wsj0561-001-p1s13W13">
+</w>
+<w id="w-wsj0561-001-p1s13W13">
 <token>:</token>
 <no_space_after>1</no_space_after>
-</w><w id="w-wsj0561-001-p1s13W14">
+</w>
+<w id="w-wsj0561-001-p1s13W14">
 <token>2</token>
-</w><w id="w-wsj0561-001-p1s13W15">
+</w>
+<w id="w-wsj0561-001-p1s13W15">
 <token>skórovali</token>
-</w><w id="w-wsj0561-001-p1s13W16">
+</w>
+<w id="w-wsj0561-001-p1s13W16">
 <token>čtyřikrát</token>
-</w><w id="w-wsj0561-001-p1s13W17">
+</w>
+<w id="w-wsj0561-001-p1s13W17">
 <token>a</token>
-</w><w id="w-wsj0561-001-p1s13W18">
+</w>
+<w id="w-wsj0561-001-p1s13W18">
 <token>na</token>
-</w><w id="w-wsj0561-001-p1s13W19">
+</w>
+<w id="w-wsj0561-001-p1s13W19">
 <token>metu</token>
-</w><w id="w-wsj0561-001-p1s13W20">
+</w>
+<w id="w-wsj0561-001-p1s13W20">
 <token>k</token>
-</w><w id="w-wsj0561-001-p1s13W21">
+</w>
+<w id="w-wsj0561-001-p1s13W21">
 <token>odpalu</token>
-</w><w id="w-wsj0561-001-p1s13W22">
+</w>
+<w id="w-wsj0561-001-p1s13W22">
 <token>s</token>
-</w><w id="w-wsj0561-001-p1s13W23">
+</w>
+<w id="w-wsj0561-001-p1s13W23">
 <token>jedním</token>
-</w><w id="w-wsj0561-001-p1s13W24">
+</w>
+<w id="w-wsj0561-001-p1s13W24">
 <token>outem</token>
-</w><w id="w-wsj0561-001-p1s13W25">
+</w>
+<w id="w-wsj0561-001-p1s13W25">
 <token>a</token>
-</w><w id="w-wsj0561-001-p1s13W26">
+</w>
+<w id="w-wsj0561-001-p1s13W26">
 <token>běžcem</token>
-</w><w id="w-wsj0561-001-p1s13W27">
+</w>
+<w id="w-wsj0561-001-p1s13W27">
 <token>postavili</token>
-</w><w id="w-wsj0561-001-p1s13W28">
+</w>
+<w id="w-wsj0561-001-p1s13W28">
 <token>svá</token>
-</w><w id="w-wsj0561-001-p1s13W29">
+</w>
+<w id="w-wsj0561-001-p1s13W29">
 <token>esa</token>
 <no_space_after>1</no_space_after>
-</w><w id="w-wsj0561-001-p1s13W30">
+</w>
+<w id="w-wsj0561-001-p1s13W30">
 <token>,</token>
-</w><w id="w-wsj0561-001-p1s13W31">
+</w>
+<w id="w-wsj0561-001-p1s13W31">
 <token>Willa</token>
-</w><w id="w-wsj0561-001-p1s13W32">
+</w>
+<w id="w-wsj0561-001-p1s13W32">
 <token>Clarka</token>
-</w><w id="w-wsj0561-001-p1s13W33">
+</w>
+<w id="w-wsj0561-001-p1s13W33">
 <token>a</token>
-</w><w id="w-wsj0561-001-p1s13W34">
+</w>
+<w id="w-wsj0561-001-p1s13W34">
 <token>Kevina</token>
-</w><w id="w-wsj0561-001-p1s13W35">
+</w>
+<w id="w-wsj0561-001-p1s13W35">
 <token>Mitchella</token>
 <no_space_after>1</no_space_after>
-</w><w id="w-wsj0561-001-p1s13W36">
+</w>
+<w id="w-wsj0561-001-p1s13W36">
 <token>.</token>
-</w><w id="w-wsj0561-001-p1s14W1">
+</w>
+<w id="w-wsj0561-001-p1s14W1">
 <token>Jenže</token>
 </w>
 <w id="w-wsj0561-001-p1s14W2">
@@ -2170,37 +2206,52 @@
 </w>
 <w id="w-wsj0561-001-p1s29W1">
 <token>Útočné</token>
-</w><w id="w-wsj0561-001-p1s29W2">
+</w>
+<w id="w-wsj0561-001-p1s29W2">
 <token>představení</token>
-</w><w id="w-wsj0561-001-p1s29W3">
+</w>
+<w id="w-wsj0561-001-p1s29W3">
 <token>Áček</token>
-</w><w id="w-wsj0561-001-p1s29W4">
+</w>
+<w id="w-wsj0561-001-p1s29W4">
 <token>v</token>
-</w><w id="w-wsj0561-001-p1s29W5">
+</w>
+<w id="w-wsj0561-001-p1s29W5">
 <token>této</token>
-</w><w id="w-wsj0561-001-p1s29W6">
+</w>
+<w id="w-wsj0561-001-p1s29W6">
 <token>Sérii</token>
-</w><w id="w-wsj0561-001-p1s29W7">
+</w>
+<w id="w-wsj0561-001-p1s29W7">
 <token>dostalo</token>
-</w><w id="w-wsj0561-001-p1s29W8">
+</w>
+<w id="w-wsj0561-001-p1s29W8">
 <token>za</token>
-</w><w id="w-wsj0561-001-p1s29W9">
+</w>
+<w id="w-wsj0561-001-p1s29W9">
 <token>jedna</token>
 <no_space_after>1</no_space_after>
-</w><w id="w-wsj0561-001-p1s29W10">
+</w>
+<w id="w-wsj0561-001-p1s29W10">
 <token>,</token>
-</w><w id="w-wsj0561-001-p1s29W11">
+</w>
+<w id="w-wsj0561-001-p1s29W11">
 <token>protože</token>
-</w><w id="w-wsj0561-001-p1s29W12">
+</w>
+<w id="w-wsj0561-001-p1s29W12">
 <token>bylo</token>
-</w><w id="w-wsj0561-001-p1s29W13">
+</w>
+<w id="w-wsj0561-001-p1s29W13">
 <token>jedna</token>
-</w><w id="w-wsj0561-001-p1s29W14">
+</w>
+<w id="w-wsj0561-001-p1s29W14">
 <token>báseň</token>
 <no_space_after>1</no_space_after>
-</w><w id="w-wsj0561-001-p1s29W15">
+</w>
+<w id="w-wsj0561-001-p1s29W15">
 <token>.</token>
-</w><w id="w-wsj0561-001-p1s30W1">
+</w>
+<w id="w-wsj0561-001-p1s30W1">
 <token>Jejich</token>
 </w>
 <w id="w-wsj0561-001-p1s30W2">

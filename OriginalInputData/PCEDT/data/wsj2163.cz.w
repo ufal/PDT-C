@@ -227,10 +227,12 @@
 </w>
 <w id="w-wsj2163-001-p1s1W31">
 <token>Wal</token>
-<no_space_after>1</no_space_after></w>
+<no_space_after>1</no_space_after>
+</w>
 <w id="w-wsj2163-001-p1s1W32">
 <token>-</token>
-<no_space_after>1</no_space_after></w>
+<no_space_after>1</no_space_after>
+</w>
 <w id="w-wsj2163-001-p1s1W33">
 <token>Mart</token>
 </w>
@@ -1220,10 +1222,12 @@
 </w>
 <w id="w-wsj2163-001-p1s14W22">
 <token>Prudential</token>
-<no_space_after>1</no_space_after></w>
+<no_space_after>1</no_space_after>
+</w>
 <w id="w-wsj2163-001-p1s14W23">
 <token>-</token>
-<no_space_after>1</no_space_after></w>
+<no_space_after>1</no_space_after>
+</w>
 <w id="w-wsj2163-001-p1s14W24">
 <token>Bache</token>
 </w>

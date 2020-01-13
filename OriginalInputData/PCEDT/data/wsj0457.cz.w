@@ -159,84 +159,117 @@
 </w>
 <w id="w-wsj0457-001-p1s4W1">
 <token>FEDERÁLNÍ</token>
-</w><w id="w-wsj0457-001-p1s4W2">
+</w>
+<w id="w-wsj0457-001-p1s4W2">
 <token>FONDY</token>
 <no_space_after>1</no_space_after>
-</w><w id="w-wsj0457-001-p1s4W3">
+</w>
+<w id="w-wsj0457-001-p1s4W3">
 <token>:</token>
-</w><w id="w-wsj0457-001-p1s4W4">
+</w>
+<w id="w-wsj0457-001-p1s4W4">
 <token>8</token>
-</w><w id="w-wsj0457-001-p1s4W5">
+</w>
+<w id="w-wsj0457-001-p1s4W5">
 <token>3</token>
 <no_space_after>1</no_space_after>
-</w><w id="w-wsj0457-001-p1s4W6">
+</w>
+<w id="w-wsj0457-001-p1s4W6">
 <token>/</token>
 <no_space_after>1</no_space_after>
-</w><w id="w-wsj0457-001-p1s4W7">
+</w>
+<w id="w-wsj0457-001-p1s4W7">
 <token>4</token>
-</w><w id="w-wsj0457-001-p1s4W8">
+</w>
+<w id="w-wsj0457-001-p1s4W8">
 <token>%</token>
-</w><w id="w-wsj0457-001-p1s4W9">
+</w>
+<w id="w-wsj0457-001-p1s4W9">
 <token>maximum</token>
 <no_space_after>1</no_space_after>
-</w><w id="w-wsj0457-001-p1s4W10">
+</w>
+<w id="w-wsj0457-001-p1s4W10">
 <token>,</token>
-</w><w id="w-wsj0457-001-p1s4W11">
+</w>
+<w id="w-wsj0457-001-p1s4W11">
 <token>8</token>
-</w><w id="w-wsj0457-001-p1s4W12">
+</w>
+<w id="w-wsj0457-001-p1s4W12">
 <token>11</token>
 <no_space_after>1</no_space_after>
-</w><w id="w-wsj0457-001-p1s4W13">
+</w>
+<w id="w-wsj0457-001-p1s4W13">
 <token>/</token>
 <no_space_after>1</no_space_after>
-</w><w id="w-wsj0457-001-p1s4W14">
+</w>
+<w id="w-wsj0457-001-p1s4W14">
 <token>16</token>
-</w><w id="w-wsj0457-001-p1s4W15">
+</w>
+<w id="w-wsj0457-001-p1s4W15">
 <token>%</token>
-</w><w id="w-wsj0457-001-p1s4W16">
+</w>
+<w id="w-wsj0457-001-p1s4W16">
 <token>minimum</token>
 <no_space_after>1</no_space_after>
-</w><w id="w-wsj0457-001-p1s4W17">
+</w>
+<w id="w-wsj0457-001-p1s4W17">
 <token>,</token>
-</w><w id="w-wsj0457-001-p1s4W18">
+</w>
+<w id="w-wsj0457-001-p1s4W18">
 <token>8</token>
-</w><w id="w-wsj0457-001-p1s4W19">
+</w>
+<w id="w-wsj0457-001-p1s4W19">
 <token>3</token>
 <no_space_after>1</no_space_after>
-</w><w id="w-wsj0457-001-p1s4W20">
+</w>
+<w id="w-wsj0457-001-p1s4W20">
 <token>/</token>
 <no_space_after>1</no_space_after>
-</w><w id="w-wsj0457-001-p1s4W21">
+</w>
+<w id="w-wsj0457-001-p1s4W21">
 <token>4</token>
-</w><w id="w-wsj0457-001-p1s4W22">
+</w>
+<w id="w-wsj0457-001-p1s4W22">
 <token>%</token>
-</w><w id="w-wsj0457-001-p1s4W23">
+</w>
+<w id="w-wsj0457-001-p1s4W23">
 <token>nabídka</token>
-</w><w id="w-wsj0457-001-p1s4W24">
+</w>
+<w id="w-wsj0457-001-p1s4W24">
 <token>před</token>
-</w><w id="w-wsj0457-001-p1s4W25">
+</w>
+<w id="w-wsj0457-001-p1s4W25">
 <token>ukončením</token>
 <no_space_after>1</no_space_after>
-</w><w id="w-wsj0457-001-p1s4W26">
+</w>
+<w id="w-wsj0457-001-p1s4W26">
 <token>,</token>
-</w><w id="w-wsj0457-001-p1s4W27">
+</w>
+<w id="w-wsj0457-001-p1s4W27">
 <token>8</token>
-</w><w id="w-wsj0457-001-p1s4W28">
+</w>
+<w id="w-wsj0457-001-p1s4W28">
 <token>3</token>
 <no_space_after>1</no_space_after>
-</w><w id="w-wsj0457-001-p1s4W29">
+</w>
+<w id="w-wsj0457-001-p1s4W29">
 <token>/</token>
 <no_space_after>1</no_space_after>
-</w><w id="w-wsj0457-001-p1s4W30">
+</w>
+<w id="w-wsj0457-001-p1s4W30">
 <token>4</token>
-</w><w id="w-wsj0457-001-p1s4W31">
+</w>
+<w id="w-wsj0457-001-p1s4W31">
 <token>%</token>
-</w><w id="w-wsj0457-001-p1s4W32">
+</w>
+<w id="w-wsj0457-001-p1s4W32">
 <token>nabídnuto</token>
 <no_space_after>1</no_space_after>
-</w><w id="w-wsj0457-001-p1s4W33">
+</w>
+<w id="w-wsj0457-001-p1s4W33">
 <token>.</token>
-</w><w id="w-wsj0457-001-p1s5W1">
+</w>
+<w id="w-wsj0457-001-p1s5W1">
 <token>Rezervy</token>
 </w>
 <w id="w-wsj0457-001-p1s5W2">

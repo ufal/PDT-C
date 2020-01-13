@@ -4090,16 +4090,22 @@
 <w id="w-wsj2153-001-p1s63W1">
 <token>*</token>
 <no_space_after>1</no_space_after>
-</w><w id="w-wsj2153-001-p1s63W2">
+</w>
+<w id="w-wsj2153-001-p1s63W2">
 <token>*</token>
-</w><w id="w-wsj2153-001-p1s63W3">
+</w>
+<w id="w-wsj2153-001-p1s63W3">
 <token>Zatím</token>
-</w><w id="w-wsj2153-001-p1s63W4">
+</w>
+<w id="w-wsj2153-001-p1s63W4">
 <token>jen</token>
-</w><w id="w-wsj2153-001-p1s63W5">
+</w>
+<w id="w-wsj2153-001-p1s63W5">
 <token>v</token>
-</w><w id="w-wsj2153-001-p1s63W6">
+</w>
+<w id="w-wsj2153-001-p1s63W6">
 <token>plánu</token>
-</w></para>
+</w>
+</para>
 </doc>
 </wdata>

@@ -171,10 +171,12 @@
 </w>
 <w id="w-wsj0511-001-p1s3W9">
 <token>30</token>
-<no_space_after>1</no_space_after></w>
+<no_space_after>1</no_space_after>
+</w>
 <w id="w-wsj0511-001-p1s3W10">
 <token>-</token>
-<no_space_after>1</no_space_after></w>
+<no_space_after>1</no_space_after>
+</w>
 <w id="w-wsj0511-001-p1s3W11">
 <token>denním</token>
 </w>
@@ -251,10 +253,12 @@
 </w>
 <w id="w-wsj0511-001-p1s4W8">
 <token>300</token>
-<no_space_after>1</no_space_after></w>
+<no_space_after>1</no_space_after>
+</w>
 <w id="w-wsj0511-001-p1s4W9">
 <token>-</token>
-<no_space_after>1</no_space_after></w>
+<no_space_after>1</no_space_after>
+</w>
 <w id="w-wsj0511-001-p1s4W10">
 <token>denním</token>
 </w>

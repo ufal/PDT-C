@@ -286,94 +286,135 @@
 </w>
 <w id="w-wsj0142-001-p1s3W1">
 <token>Firma</token>
-</w><w id="w-wsj0142-001-p1s3W2">
+</w>
+<w id="w-wsj0142-001-p1s3W2">
 <token>IBM</token>
 <no_space_after>1</no_space_after>
-</w><w id="w-wsj0142-001-p1s3W3">
+</w>
+<w id="w-wsj0142-001-p1s3W3">
 <token>,</token>
-</w><w id="w-wsj0142-001-p1s3W4">
+</w>
+<w id="w-wsj0142-001-p1s3W4">
 <token>velký</token>
-</w><w id="w-wsj0142-001-p1s3W5">
+</w>
+<w id="w-wsj0142-001-p1s3W5">
 <token>výrobce</token>
-</w><w id="w-wsj0142-001-p1s3W6">
+</w>
+<w id="w-wsj0142-001-p1s3W6">
 <token>počítačů</token>
 <no_space_after>1</no_space_after>
-</w><w id="w-wsj0142-001-p1s3W7">
+</w>
+<w id="w-wsj0142-001-p1s3W7">
 <token>,</token>
-</w><w id="w-wsj0142-001-p1s3W8">
+</w>
+<w id="w-wsj0142-001-p1s3W8">
 <token>nabízel</token>
-</w><w id="w-wsj0142-001-p1s3W9">
+</w>
+<w id="w-wsj0142-001-p1s3W9">
 <token>30leté</token>
-</w><w id="w-wsj0142-001-p1s3W10">
+</w>
+<w id="w-wsj0142-001-p1s3W10">
 <token>nevypověditelné</token>
-</w><w id="w-wsj0142-001-p1s3W11">
+</w>
+<w id="w-wsj0142-001-p1s3W11">
 <token>obligace</token>
-</w><w id="w-wsj0142-001-p1s3W12">
+</w>
+<w id="w-wsj0142-001-p1s3W12">
 <token>v</token>
-</w><w id="w-wsj0142-001-p1s3W13">
+</w>
+<w id="w-wsj0142-001-p1s3W13">
 <token>hodnotě</token>
-</w><w id="w-wsj0142-001-p1s3W14">
+</w>
+<w id="w-wsj0142-001-p1s3W14">
 <token>750</token>
-</w><w id="w-wsj0142-001-p1s3W15">
+</w>
+<w id="w-wsj0142-001-p1s3W15">
 <token>milionů</token>
-</w><w id="w-wsj0142-001-p1s3W16">
+</w>
+<w id="w-wsj0142-001-p1s3W16">
 <token>dolarů</token>
-</w><w id="w-wsj0142-001-p1s3W17">
+</w>
+<w id="w-wsj0142-001-p1s3W17">
 <token>oceněné</token>
-</w><w id="w-wsj0142-001-p1s3W18">
+</w>
+<w id="w-wsj0142-001-p1s3W18">
 <token>tak</token>
 <no_space_after>1</no_space_after>
-</w><w id="w-wsj0142-001-p1s3W19">
+</w>
+<w id="w-wsj0142-001-p1s3W19">
 <token>,</token>
-</w><w id="w-wsj0142-001-p1s3W20">
+</w>
+<w id="w-wsj0142-001-p1s3W20">
 <token>aby</token>
-</w><w id="w-wsj0142-001-p1s3W21">
+</w>
+<w id="w-wsj0142-001-p1s3W21">
 <token>jejich</token>
-</w><w id="w-wsj0142-001-p1s3W22">
+</w>
+<w id="w-wsj0142-001-p1s3W22">
 <token>výnos</token>
-</w><w id="w-wsj0142-001-p1s3W23">
+</w>
+<w id="w-wsj0142-001-p1s3W23">
 <token>byl</token>
-</w><w id="w-wsj0142-001-p1s3W24">
+</w>
+<w id="w-wsj0142-001-p1s3W24">
 <token>8,47</token>
-</w><w id="w-wsj0142-001-p1s3W25">
+</w>
+<w id="w-wsj0142-001-p1s3W25">
 <token>%</token>
 <no_space_after>1</no_space_after>
-</w><w id="w-wsj0142-001-p1s3W26">
+</w>
+<w id="w-wsj0142-001-p1s3W26">
 <token>,</token>
-</w><w id="w-wsj0142-001-p1s3W27">
+</w>
+<w id="w-wsj0142-001-p1s3W27">
 <token>tedy</token>
-</w><w id="w-wsj0142-001-p1s3W28">
+</w>
+<w id="w-wsj0142-001-p1s3W28">
 <token>asi</token>
-</w><w id="w-wsj0142-001-p1s3W29">
+</w>
+<w id="w-wsj0142-001-p1s3W29">
 <token>o</token>
-</w><w id="w-wsj0142-001-p1s3W30">
+</w>
+<w id="w-wsj0142-001-p1s3W30">
 <token>1</token>
 <no_space_after>1</no_space_after>
-</w><w id="w-wsj0142-001-p1s3W31">
+</w>
+<w id="w-wsj0142-001-p1s3W31">
 <token>/</token>
 <no_space_after>1</no_space_after>
-</w><w id="w-wsj0142-001-p1s3W32">
+</w>
+<w id="w-wsj0142-001-p1s3W32">
 <token>2</token>
-</w><w id="w-wsj0142-001-p1s3W33">
+</w>
+<w id="w-wsj0142-001-p1s3W33">
 <token>procentního</token>
-</w><w id="w-wsj0142-001-p1s3W34">
+</w>
+<w id="w-wsj0142-001-p1s3W34">
 <token>bodu</token>
-</w><w id="w-wsj0142-001-p1s3W35">
+</w>
+<w id="w-wsj0142-001-p1s3W35">
 <token>vyšší</token>
-</w><w id="w-wsj0142-001-p1s3W36">
+</w>
+<w id="w-wsj0142-001-p1s3W36">
 <token>než</token>
-</w><w id="w-wsj0142-001-p1s3W37">
+</w>
+<w id="w-wsj0142-001-p1s3W37">
 <token>výnos</token>
-</w><w id="w-wsj0142-001-p1s3W38">
+</w>
+<w id="w-wsj0142-001-p1s3W38">
 <token>30letých</token>
-</w><w id="w-wsj0142-001-p1s3W39">
+</w>
+<w id="w-wsj0142-001-p1s3W39">
 <token>státních</token>
-</w><w id="w-wsj0142-001-p1s3W40">
+</w>
+<w id="w-wsj0142-001-p1s3W40">
 <token>obligací</token>
 <no_space_after>1</no_space_after>
-</w><w id="w-wsj0142-001-p1s3W41">
+</w>
+<w id="w-wsj0142-001-p1s3W41">
 <token>.</token>
-</w><w id="w-wsj0142-001-p1s4W1">
+</w>
+<w id="w-wsj0142-001-p1s4W1">
 <token>Velikost</token>
 </w>
 <w id="w-wsj0142-001-p1s4W2">
@@ -1755,306 +1796,450 @@
 </w>
 <w id="w-wsj0142-001-p1s23W1">
 <token>Ministerstvo</token>
-</w><w id="w-wsj0142-001-p1s23W2">
+</w>
+<w id="w-wsj0142-001-p1s23W2">
 <token>financí</token>
-</w><w id="w-wsj0142-001-p1s23W3">
+</w>
+<w id="w-wsj0142-001-p1s23W3">
 <token>v</token>
-</w><w id="w-wsj0142-001-p1s23W4">
+</w>
+<w id="w-wsj0142-001-p1s23W4">
 <token>překvapivém</token>
-</w><w id="w-wsj0142-001-p1s23W5">
+</w>
+<w id="w-wsj0142-001-p1s23W5">
 <token>prohlášení</token>
-</w><w id="w-wsj0142-001-p1s23W6">
+</w>
+<w id="w-wsj0142-001-p1s23W6">
 <token>uvedlo</token>
 <no_space_after>1</no_space_after>
-</w><w id="w-wsj0142-001-p1s23W7">
+</w>
+<w id="w-wsj0142-001-p1s23W7">
 <token>,</token>
-</w><w id="w-wsj0142-001-p1s23W8">
+</w>
+<w id="w-wsj0142-001-p1s23W8">
 <token>že</token>
-</w><w id="w-wsj0142-001-p1s23W9">
+</w>
+<w id="w-wsj0142-001-p1s23W9">
 <token>pro</token>
-</w><w id="w-wsj0142-001-p1s23W10">
+</w>
+<w id="w-wsj0142-001-p1s23W10">
 <token>čtvrtletní</token>
-</w><w id="w-wsj0142-001-p1s23W11">
+</w>
+<w id="w-wsj0142-001-p1s23W11">
 <token>refundaci</token>
-</w><w id="w-wsj0142-001-p1s23W12">
+</w>
+<w id="w-wsj0142-001-p1s23W12">
 <token>federálního</token>
-</w><w id="w-wsj0142-001-p1s23W13">
+</w>
+<w id="w-wsj0142-001-p1s23W13">
 <token>dluhu</token>
-</w><w id="w-wsj0142-001-p1s23W14">
+</w>
+<w id="w-wsj0142-001-p1s23W14">
 <token>v</token>
-</w><w id="w-wsj0142-001-p1s23W15">
+</w>
+<w id="w-wsj0142-001-p1s23W15">
 <token>příštím</token>
-</w><w id="w-wsj0142-001-p1s23W16">
+</w>
+<w id="w-wsj0142-001-p1s23W16">
 <token>týdnu</token>
-</w><w id="w-wsj0142-001-p1s23W17">
+</w>
+<w id="w-wsj0142-001-p1s23W17">
 <token>spíše</token>
-</w><w id="w-wsj0142-001-p1s23W18">
+</w>
+<w id="w-wsj0142-001-p1s23W18">
 <token>znovu</token>
-</w><w id="w-wsj0142-001-p1s23W19">
+</w>
+<w id="w-wsj0142-001-p1s23W19">
 <token>otevře</token>
-</w><w id="w-wsj0142-001-p1s23W20">
+</w>
+<w id="w-wsj0142-001-p1s23W20">
 <token>nesplacené</token>
-</w><w id="w-wsj0142-001-p1s23W21">
+</w>
+<w id="w-wsj0142-001-p1s23W21">
 <token>standardní</token>
-</w><w id="w-wsj0142-001-p1s23W22">
+</w>
+<w id="w-wsj0142-001-p1s23W22">
 <token>30leté</token>
-</w><w id="w-wsj0142-001-p1s23W23">
+</w>
+<w id="w-wsj0142-001-p1s23W23">
 <token>dluhopisy</token>
-</w><w id="w-wsj0142-001-p1s23W24">
+</w>
+<w id="w-wsj0142-001-p1s23W24">
 <token>než</token>
-</w><w id="w-wsj0142-001-p1s23W25">
+</w>
+<w id="w-wsj0142-001-p1s23W25">
 <token>vytvoří</token>
-</w><w id="w-wsj0142-001-p1s23W26">
+</w>
+<w id="w-wsj0142-001-p1s23W26">
 <token>nové</token>
 <no_space_after>1</no_space_after>
-</w><w id="w-wsj0142-001-p1s23W27">
+</w>
+<w id="w-wsj0142-001-p1s23W27">
 <token>.</token>
-</w><w id="w-wsj0142-001-p1s24W1">
+</w>
+<w id="w-wsj0142-001-p1s24W1">
 <token>Ministerstvo</token>
-</w><w id="w-wsj0142-001-p1s24W2">
+</w>
+<w id="w-wsj0142-001-p1s24W2">
 <token>financí</token>
-</w><w id="w-wsj0142-001-p1s24W3">
+</w>
+<w id="w-wsj0142-001-p1s24W3">
 <token>získá</token>
-</w><w id="w-wsj0142-001-p1s24W4">
+</w>
+<w id="w-wsj0142-001-p1s24W4">
 <token>nově</token>
-</w><w id="w-wsj0142-001-p1s24W5">
+</w>
+<w id="w-wsj0142-001-p1s24W5">
 <token>10</token>
-</w><w id="w-wsj0142-001-p1s24W6">
+</w>
+<w id="w-wsj0142-001-p1s24W6">
 <token>miliard</token>
-</w><w id="w-wsj0142-001-p1s24W7">
+</w>
+<w id="w-wsj0142-001-p1s24W7">
 <token>dolarů</token>
-</w><w id="w-wsj0142-001-p1s24W8">
+</w>
+<w id="w-wsj0142-001-p1s24W8">
 <token>v</token>
-</w><w id="w-wsj0142-001-p1s24W9">
+</w>
+<w id="w-wsj0142-001-p1s24W9">
 <token>hotovosti</token>
-</w><w id="w-wsj0142-001-p1s24W10">
+</w>
+<w id="w-wsj0142-001-p1s24W10">
 <token>prodejem</token>
-</w><w id="w-wsj0142-001-p1s24W11">
+</w>
+<w id="w-wsj0142-001-p1s24W11">
 <token>cenných</token>
-</w><w id="w-wsj0142-001-p1s24W12">
+</w>
+<w id="w-wsj0142-001-p1s24W12">
 <token>papírů</token>
-</w><w id="w-wsj0142-001-p1s24W13">
+</w>
+<w id="w-wsj0142-001-p1s24W13">
 <token>v</token>
-</w><w id="w-wsj0142-001-p1s24W14">
+</w>
+<w id="w-wsj0142-001-p1s24W14">
 <token>hodnotě</token>
-</w><w id="w-wsj0142-001-p1s24W15">
+</w>
+<w id="w-wsj0142-001-p1s24W15">
 <token>30</token>
-</w><w id="w-wsj0142-001-p1s24W16">
+</w>
+<w id="w-wsj0142-001-p1s24W16">
 <token>miliard</token>
-</w><w id="w-wsj0142-001-p1s24W17">
+</w>
+<w id="w-wsj0142-001-p1s24W17">
 <token>dolarů</token>
-</w><w id="w-wsj0142-001-p1s24W18">
+</w>
+<w id="w-wsj0142-001-p1s24W18">
 <token>včetně</token>
-</w><w id="w-wsj0142-001-p1s24W19">
+</w>
+<w id="w-wsj0142-001-p1s24W19">
 <token>nových</token>
-</w><w id="w-wsj0142-001-p1s24W20">
+</w>
+<w id="w-wsj0142-001-p1s24W20">
 <token>tříletých</token>
-</w><w id="w-wsj0142-001-p1s24W21">
+</w>
+<w id="w-wsj0142-001-p1s24W21">
 <token>pokladničních</token>
-</w><w id="w-wsj0142-001-p1s24W22">
+</w>
+<w id="w-wsj0142-001-p1s24W22">
 <token>poukázek</token>
-</w><w id="w-wsj0142-001-p1s24W23">
+</w>
+<w id="w-wsj0142-001-p1s24W23">
 <token>v</token>
-</w><w id="w-wsj0142-001-p1s24W24">
+</w>
+<w id="w-wsj0142-001-p1s24W24">
 <token>hodnotě</token>
-</w><w id="w-wsj0142-001-p1s24W25">
+</w>
+<w id="w-wsj0142-001-p1s24W25">
 <token>10</token>
-</w><w id="w-wsj0142-001-p1s24W26">
+</w>
+<w id="w-wsj0142-001-p1s24W26">
 <token>miliard</token>
-</w><w id="w-wsj0142-001-p1s24W27">
+</w>
+<w id="w-wsj0142-001-p1s24W27">
 <token>dolarů</token>
-</w><w id="w-wsj0142-001-p1s24W28">
+</w>
+<w id="w-wsj0142-001-p1s24W28">
 <token>a</token>
-</w><w id="w-wsj0142-001-p1s24W29">
+</w>
+<w id="w-wsj0142-001-p1s24W29">
 <token>nových</token>
-</w><w id="w-wsj0142-001-p1s24W30">
+</w>
+<w id="w-wsj0142-001-p1s24W30">
 <token>10letých</token>
-</w><w id="w-wsj0142-001-p1s24W31">
+</w>
+<w id="w-wsj0142-001-p1s24W31">
 <token>pokladničních</token>
-</w><w id="w-wsj0142-001-p1s24W32">
+</w>
+<w id="w-wsj0142-001-p1s24W32">
 <token>poukázek</token>
-</w><w id="w-wsj0142-001-p1s24W33">
+</w>
+<w id="w-wsj0142-001-p1s24W33">
 <token>v</token>
-</w><w id="w-wsj0142-001-p1s24W34">
+</w>
+<w id="w-wsj0142-001-p1s24W34">
 <token>hodnotě</token>
-</w><w id="w-wsj0142-001-p1s24W35">
+</w>
+<w id="w-wsj0142-001-p1s24W35">
 <token>10</token>
-</w><w id="w-wsj0142-001-p1s24W36">
+</w>
+<w id="w-wsj0142-001-p1s24W36">
 <token>miliard</token>
-</w><w id="w-wsj0142-001-p1s24W37">
+</w>
+<w id="w-wsj0142-001-p1s24W37">
 <token>dolarů</token>
 <no_space_after>1</no_space_after>
-</w><w id="w-wsj0142-001-p1s24W38">
+</w>
+<w id="w-wsj0142-001-p1s24W38">
 <token>.</token>
-</w><w id="w-wsj0142-001-p1s25W1">
+</w>
+<w id="w-wsj0142-001-p1s25W1">
 <token>Ale</token>
-</w><w id="w-wsj0142-001-p1s25W2">
+</w>
+<w id="w-wsj0142-001-p1s25W2">
 <token>spíše</token>
-</w><w id="w-wsj0142-001-p1s25W3">
+</w>
+<w id="w-wsj0142-001-p1s25W3">
 <token>než</token>
-</w><w id="w-wsj0142-001-p1s25W4">
+</w>
+<w id="w-wsj0142-001-p1s25W4">
 <token>aby</token>
-</w><w id="w-wsj0142-001-p1s25W5">
+</w>
+<w id="w-wsj0142-001-p1s25W5">
 <token>prodávalo</token>
-</w><w id="w-wsj0142-001-p1s25W6">
+</w>
+<w id="w-wsj0142-001-p1s25W6">
 <token>nové</token>
-</w><w id="w-wsj0142-001-p1s25W7">
+</w>
+<w id="w-wsj0142-001-p1s25W7">
 <token>30leté</token>
-</w><w id="w-wsj0142-001-p1s25W8">
+</w>
+<w id="w-wsj0142-001-p1s25W8">
 <token>dluhopisy</token>
 <no_space_after>1</no_space_after>
-</w><w id="w-wsj0142-001-p1s25W9">
+</w>
+<w id="w-wsj0142-001-p1s25W9">
 <token>,</token>
-</w><w id="w-wsj0142-001-p1s25W10">
+</w>
+<w id="w-wsj0142-001-p1s25W10">
 <token>vydá</token>
-</w><w id="w-wsj0142-001-p1s25W11">
+</w>
+<w id="w-wsj0142-001-p1s25W11">
 <token>ministerstvo</token>
-</w><w id="w-wsj0142-001-p1s25W12">
+</w>
+<w id="w-wsj0142-001-p1s25W12">
 <token>financí</token>
-</w><w id="w-wsj0142-001-p1s25W13">
+</w>
+<w id="w-wsj0142-001-p1s25W13">
 <token>29leté</token>
 <no_space_after>1</no_space_after>
-</w><w id="w-wsj0142-001-p1s25W14">
+</w>
+<w id="w-wsj0142-001-p1s25W14">
 <token>,</token>
-</w><w id="w-wsj0142-001-p1s25W15">
+</w>
+<w id="w-wsj0142-001-p1s25W15">
 <token>devítiměsíční</token>
-</w><w id="w-wsj0142-001-p1s25W16">
+</w>
+<w id="w-wsj0142-001-p1s25W16">
 <token>dluhopisy</token>
-</w><w id="w-wsj0142-001-p1s25W17">
+</w>
+<w id="w-wsj0142-001-p1s25W17">
 <token>v</token>
-</w><w id="w-wsj0142-001-p1s25W18">
+</w>
+<w id="w-wsj0142-001-p1s25W18">
 <token>hodnotě</token>
-</w><w id="w-wsj0142-001-p1s25W19">
+</w>
+<w id="w-wsj0142-001-p1s25W19">
 <token>10</token>
-</w><w id="w-wsj0142-001-p1s25W20">
+</w>
+<w id="w-wsj0142-001-p1s25W20">
 <token>miliard</token>
-</w><w id="w-wsj0142-001-p1s25W21">
+</w>
+<w id="w-wsj0142-001-p1s25W21">
 <token>dolarů</token>
-</w><w id="w-wsj0142-001-p1s25W22">
+</w>
+<w id="w-wsj0142-001-p1s25W22">
 <token>-</token>
-</w><w id="w-wsj0142-001-p1s25W23">
+</w>
+<w id="w-wsj0142-001-p1s25W23">
 <token>v</token>
-</w><w id="w-wsj0142-001-p1s25W24">
+</w>
+<w id="w-wsj0142-001-p1s25W24">
 <token>podstatě</token>
-</w><w id="w-wsj0142-001-p1s25W25">
+</w>
+<w id="w-wsj0142-001-p1s25W25">
 <token>tak</token>
-</w><w id="w-wsj0142-001-p1s25W26">
+</w>
+<w id="w-wsj0142-001-p1s25W26">
 <token>zvýší</token>
-</w><w id="w-wsj0142-001-p1s25W27">
+</w>
+<w id="w-wsj0142-001-p1s25W27">
 <token>velikost</token>
-</w><w id="w-wsj0142-001-p1s25W28">
+</w>
+<w id="w-wsj0142-001-p1s25W28">
 <token>aktuálně</token>
-</w><w id="w-wsj0142-001-p1s25W29">
+</w>
+<w id="w-wsj0142-001-p1s25W29">
 <token>pro</token>
-</w><w id="w-wsj0142-001-p1s25W30">
+</w>
+<w id="w-wsj0142-001-p1s25W30">
 <token>srovnání</token>
-</w><w id="w-wsj0142-001-p1s25W31">
+</w>
+<w id="w-wsj0142-001-p1s25W31">
 <token>používaného</token>
-</w><w id="w-wsj0142-001-p1s25W32">
+</w>
+<w id="w-wsj0142-001-p1s25W32">
 <token>30letého</token>
-</w><w id="w-wsj0142-001-p1s25W33">
+</w>
+<w id="w-wsj0142-001-p1s25W33">
 <token>dluhopisu</token>
 <no_space_after>1</no_space_after>
-</w><w id="w-wsj0142-001-p1s25W34">
+</w>
+<w id="w-wsj0142-001-p1s25W34">
 <token>,</token>
-</w><w id="w-wsj0142-001-p1s25W35">
+</w>
+<w id="w-wsj0142-001-p1s25W35">
 <token>který</token>
-</w><w id="w-wsj0142-001-p1s25W36">
+</w>
+<w id="w-wsj0142-001-p1s25W36">
 <token>byl</token>
-</w><w id="w-wsj0142-001-p1s25W37">
+</w>
+<w id="w-wsj0142-001-p1s25W37">
 <token>prodán</token>
-</w><w id="w-wsj0142-001-p1s25W38">
+</w>
+<w id="w-wsj0142-001-p1s25W38">
 <token>při</token>
-</w><w id="w-wsj0142-001-p1s25W39">
+</w>
+<w id="w-wsj0142-001-p1s25W39">
 <token>předchozí</token>
-</w><w id="w-wsj0142-001-p1s25W40">
+</w>
+<w id="w-wsj0142-001-p1s25W40">
 <token>refundaci</token>
-</w><w id="w-wsj0142-001-p1s25W41">
+</w>
+<w id="w-wsj0142-001-p1s25W41">
 <token>v</token>
-</w><w id="w-wsj0142-001-p1s25W42">
+</w>
+<w id="w-wsj0142-001-p1s25W42">
 <token>srpnu</token>
 <no_space_after>1</no_space_after>
-</w><w id="w-wsj0142-001-p1s25W43">
+</w>
+<w id="w-wsj0142-001-p1s25W43">
 <token>.</token>
-</w><w id="w-wsj0142-001-p1s26W1">
+</w>
+<w id="w-wsj0142-001-p1s26W1">
 <token>Analytici</token>
-</w><w id="w-wsj0142-001-p1s26W2">
+</w>
+<w id="w-wsj0142-001-p1s26W2">
 <token>úvěrového</token>
-</w><w id="w-wsj0142-001-p1s26W3">
+</w>
+<w id="w-wsj0142-001-p1s26W3">
 <token>trhu</token>
-</w><w id="w-wsj0142-001-p1s26W4">
+</w>
+<w id="w-wsj0142-001-p1s26W4">
 <token>konstatovali</token>
 <no_space_after>1</no_space_after>
-</w><w id="w-wsj0142-001-p1s26W5">
+</w>
+<w id="w-wsj0142-001-p1s26W5">
 <token>,</token>
-</w><w id="w-wsj0142-001-p1s26W6">
+</w>
+<w id="w-wsj0142-001-p1s26W6">
 <token>že</token>
-</w><w id="w-wsj0142-001-p1s26W7">
+</w>
+<w id="w-wsj0142-001-p1s26W7">
 <token>rozhodnutí</token>
-</w><w id="w-wsj0142-001-p1s26W8">
+</w>
+<w id="w-wsj0142-001-p1s26W8">
 <token>znovuotevřít</token>
-</w><w id="w-wsj0142-001-p1s26W9">
+</w>
+<w id="w-wsj0142-001-p1s26W9">
 <token>současný</token>
-</w><w id="w-wsj0142-001-p1s26W10">
+</w>
+<w id="w-wsj0142-001-p1s26W10">
 <token>standardní</token>
-</w><w id="w-wsj0142-001-p1s26W11">
+</w>
+<w id="w-wsj0142-001-p1s26W11">
 <token>8</token>
-</w><w id="w-wsj0142-001-p1s26W12">
+</w>
+<w id="w-wsj0142-001-p1s26W12">
 <token>1</token>
 <no_space_after>1</no_space_after>
-</w><w id="w-wsj0142-001-p1s26W13">
+</w>
+<w id="w-wsj0142-001-p1s26W13">
 <token>/</token>
 <no_space_after>1</no_space_after>
-</w><w id="w-wsj0142-001-p1s26W14">
+</w>
+<w id="w-wsj0142-001-p1s26W14">
 <token>8</token>
 <no_space_after>1</no_space_after>
-</w><w id="w-wsj0142-001-p1s26W15">
+</w>
+<w id="w-wsj0142-001-p1s26W15">
 <token>%</token>
-</w><w id="w-wsj0142-001-p1s26W16">
+</w>
+<w id="w-wsj0142-001-p1s26W16">
 <token>dluhopis</token>
-</w><w id="w-wsj0142-001-p1s26W17">
+</w>
+<w id="w-wsj0142-001-p1s26W17">
 <token>splatný</token>
-</w><w id="w-wsj0142-001-p1s26W18">
+</w>
+<w id="w-wsj0142-001-p1s26W18">
 <token>v</token>
-</w><w id="w-wsj0142-001-p1s26W19">
+</w>
+<w id="w-wsj0142-001-p1s26W19">
 <token>srpnu</token>
-</w><w id="w-wsj0142-001-p1s26W20">
+</w>
+<w id="w-wsj0142-001-p1s26W20">
 <token>2019</token>
-</w><w id="w-wsj0142-001-p1s26W21">
+</w>
+<w id="w-wsj0142-001-p1s26W21">
 <token>je</token>
-</w><w id="w-wsj0142-001-p1s26W22">
+</w>
+<w id="w-wsj0142-001-p1s26W22">
 <token>neobvyklé</token>
 <no_space_after>1</no_space_after>
-</w><w id="w-wsj0142-001-p1s26W23">
+</w>
+<w id="w-wsj0142-001-p1s26W23">
 <token>,</token>
-</w><w id="w-wsj0142-001-p1s26W24">
+</w>
+<w id="w-wsj0142-001-p1s26W24">
 <token>protože</token>
-</w><w id="w-wsj0142-001-p1s26W25">
+</w>
+<w id="w-wsj0142-001-p1s26W25">
 <token>tato</token>
-</w><w id="w-wsj0142-001-p1s26W26">
+</w>
+<w id="w-wsj0142-001-p1s26W26">
 <token>emise</token>
-</w><w id="w-wsj0142-001-p1s26W27">
+</w>
+<w id="w-wsj0142-001-p1s26W27">
 <token>se</token>
-</w><w id="w-wsj0142-001-p1s26W28">
+</w>
+<w id="w-wsj0142-001-p1s26W28">
 <token>obchoduje</token>
-</w><w id="w-wsj0142-001-p1s26W29">
+</w>
+<w id="w-wsj0142-001-p1s26W29">
 <token>s</token>
-</w><w id="w-wsj0142-001-p1s26W30">
+</w>
+<w id="w-wsj0142-001-p1s26W30">
 <token>prémií</token>
-</w><w id="w-wsj0142-001-p1s26W31">
+</w>
+<w id="w-wsj0142-001-p1s26W31">
 <token>přidanou</token>
-</w><w id="w-wsj0142-001-p1s26W32">
+</w>
+<w id="w-wsj0142-001-p1s26W32">
 <token>k</token>
-</w><w id="w-wsj0142-001-p1s26W33">
+</w>
+<w id="w-wsj0142-001-p1s26W33">
 <token>její</token>
-</w><w id="w-wsj0142-001-p1s26W34">
+</w>
+<w id="w-wsj0142-001-p1s26W34">
 <token>nominální</token>
-</w><w id="w-wsj0142-001-p1s26W35">
+</w>
+<w id="w-wsj0142-001-p1s26W35">
 <token>částce</token>
 <no_space_after>1</no_space_after>
-</w><w id="w-wsj0142-001-p1s26W36">
+</w>
+<w id="w-wsj0142-001-p1s26W36">
 <token>.</token>
-</w><w id="w-wsj0142-001-p1s27W1">
+</w>
+<w id="w-wsj0142-001-p1s27W1">
 <token>Někteří</token>
 </w>
 <w id="w-wsj0142-001-p1s27W2">
@@ -2302,49 +2487,69 @@
 </w>
 <w id="w-wsj0142-001-p1s31W1">
 <token>Standardní</token>
-</w><w id="w-wsj0142-001-p1s31W2">
+</w>
+<w id="w-wsj0142-001-p1s31W2">
 <token>30letý</token>
-</w><w id="w-wsj0142-001-p1s31W3">
+</w>
+<w id="w-wsj0142-001-p1s31W3">
 <token>dluhopis</token>
-</w><w id="w-wsj0142-001-p1s31W4">
+</w>
+<w id="w-wsj0142-001-p1s31W4">
 <token>má</token>
-</w><w id="w-wsj0142-001-p1s31W5">
+</w>
+<w id="w-wsj0142-001-p1s31W5">
 <token>okolo</token>
-</w><w id="w-wsj0142-001-p1s31W6">
+</w>
+<w id="w-wsj0142-001-p1s31W6">
 <token>1</token>
 <no_space_after>1</no_space_after>
-</w><w id="w-wsj0142-001-p1s31W7">
+</w>
+<w id="w-wsj0142-001-p1s31W7">
 <token>/</token>
 <no_space_after>1</no_space_after>
-</w><w id="w-wsj0142-001-p1s31W8">
+</w>
+<w id="w-wsj0142-001-p1s31W8">
 <token>4</token>
-</w><w id="w-wsj0142-001-p1s31W9">
+</w>
+<w id="w-wsj0142-001-p1s31W9">
 <token>bodu</token>
 <no_space_after>1</no_space_after>
-</w><w id="w-wsj0142-001-p1s31W10">
+</w>
+<w id="w-wsj0142-001-p1s31W10">
 <token>,</token>
-</w><w id="w-wsj0142-001-p1s31W11">
+</w>
+<w id="w-wsj0142-001-p1s31W11">
 <token>neboli</token>
-</w><w id="w-wsj0142-001-p1s31W12">
+</w>
+<w id="w-wsj0142-001-p1s31W12">
 <token>2,50</token>
-</w><w id="w-wsj0142-001-p1s31W13">
+</w>
+<w id="w-wsj0142-001-p1s31W13">
 <token>dolaru</token>
-</w><w id="w-wsj0142-001-p1s31W14">
+</w>
+<w id="w-wsj0142-001-p1s31W14">
 <token>na</token>
-</w><w id="w-wsj0142-001-p1s31W15">
+</w>
+<w id="w-wsj0142-001-p1s31W15">
 <token>každých</token>
-</w><w id="w-wsj0142-001-p1s31W16">
+</w>
+<w id="w-wsj0142-001-p1s31W16">
 <token>1000</token>
-</w><w id="w-wsj0142-001-p1s31W17">
+</w>
+<w id="w-wsj0142-001-p1s31W17">
 <token>dolarů</token>
-</w><w id="w-wsj0142-001-p1s31W18">
+</w>
+<w id="w-wsj0142-001-p1s31W18">
 <token>nominální</token>
-</w><w id="w-wsj0142-001-p1s31W19">
+</w>
+<w id="w-wsj0142-001-p1s31W19">
 <token>částky</token>
 <no_space_after>1</no_space_after>
-</w><w id="w-wsj0142-001-p1s31W20">
+</w>
+<w id="w-wsj0142-001-p1s31W20">
 <token>.</token>
-</w><w id="w-wsj0142-001-p1s32W1">
+</w>
+<w id="w-wsj0142-001-p1s32W1">
 <token>Ohodnocení</token>
 </w>
 <w id="w-wsj0142-001-p1s32W2">
@@ -2429,69 +2634,98 @@
 </w>
 <w id="w-wsj0142-001-p1s33W1">
 <token>Nejnovější</token>
-</w><w id="w-wsj0142-001-p1s33W2">
+</w>
+<w id="w-wsj0142-001-p1s33W2">
 <token>10leté</token>
-</w><w id="w-wsj0142-001-p1s33W3">
+</w>
+<w id="w-wsj0142-001-p1s33W3">
 <token>pokladniční</token>
-</w><w id="w-wsj0142-001-p1s33W4">
+</w>
+<w id="w-wsj0142-001-p1s33W4">
 <token>poukázky</token>
-</w><w id="w-wsj0142-001-p1s33W5">
+</w>
+<w id="w-wsj0142-001-p1s33W5">
 <token>byly</token>
-</w><w id="w-wsj0142-001-p1s33W6">
+</w>
+<w id="w-wsj0142-001-p1s33W6">
 <token>kotovány</token>
-</w><w id="w-wsj0142-001-p1s33W7">
+</w>
+<w id="w-wsj0142-001-p1s33W7">
 <token>na</token>
-</w><w id="w-wsj0142-001-p1s33W8">
+</w>
+<w id="w-wsj0142-001-p1s33W8">
 <token>100</token>
-</w><w id="w-wsj0142-001-p1s33W9">
+</w>
+<w id="w-wsj0142-001-p1s33W9">
 <token>22</token>
 <no_space_after>1</no_space_after>
-</w><w id="w-wsj0142-001-p1s33W10">
+</w>
+<w id="w-wsj0142-001-p1s33W10">
 <token>/</token>
 <no_space_after>1</no_space_after>
-</w><w id="w-wsj0142-001-p1s33W11">
+</w>
+<w id="w-wsj0142-001-p1s33W11">
 <token>32</token>
-</w><w id="w-wsj0142-001-p1s33W12">
+</w>
+<w id="w-wsj0142-001-p1s33W12">
 <token>tak</token>
 <no_space_after>1</no_space_after>
-</w><w id="w-wsj0142-001-p1s33W13">
+</w>
+<w id="w-wsj0142-001-p1s33W13">
 <token>,</token>
-</w><w id="w-wsj0142-001-p1s33W14">
+</w>
+<w id="w-wsj0142-001-p1s33W14">
 <token>aby</token>
-</w><w id="w-wsj0142-001-p1s33W15">
+</w>
+<w id="w-wsj0142-001-p1s33W15">
 <token>vynesly</token>
-</w><w id="w-wsj0142-001-p1s33W16">
+</w>
+<w id="w-wsj0142-001-p1s33W16">
 <token>7,88</token>
-</w><w id="w-wsj0142-001-p1s33W17">
+</w>
+<w id="w-wsj0142-001-p1s33W17">
 <token>%</token>
-</w><w id="w-wsj0142-001-p1s33W18">
+</w>
+<w id="w-wsj0142-001-p1s33W18">
 <token>v</token>
-</w><w id="w-wsj0142-001-p1s33W19">
+</w>
+<w id="w-wsj0142-001-p1s33W19">
 <token>porovnání</token>
-</w><w id="w-wsj0142-001-p1s33W20">
+</w>
+<w id="w-wsj0142-001-p1s33W20">
 <token>s</token>
-</w><w id="w-wsj0142-001-p1s33W21">
+</w>
+<w id="w-wsj0142-001-p1s33W21">
 <token>100</token>
-</w><w id="w-wsj0142-001-p1s33W22">
+</w>
+<w id="w-wsj0142-001-p1s33W22">
 <token>16</token>
 <no_space_after>1</no_space_after>
-</w><w id="w-wsj0142-001-p1s33W23">
+</w>
+<w id="w-wsj0142-001-p1s33W23">
 <token>/</token>
 <no_space_after>1</no_space_after>
-</w><w id="w-wsj0142-001-p1s33W24">
+</w>
+<w id="w-wsj0142-001-p1s33W24">
 <token>32</token>
-</w><w id="w-wsj0142-001-p1s33W25">
+</w>
+<w id="w-wsj0142-001-p1s33W25">
 <token>při</token>
-</w><w id="w-wsj0142-001-p1s33W26">
+</w>
+<w id="w-wsj0142-001-p1s33W26">
 <token>výnosu</token>
-</w><w id="w-wsj0142-001-p1s33W27">
+</w>
+<w id="w-wsj0142-001-p1s33W27">
 <token>7,90</token>
-</w><w id="w-wsj0142-001-p1s33W28">
+</w>
+<w id="w-wsj0142-001-p1s33W28">
 <token>%</token>
 <no_space_after>1</no_space_after>
-</w><w id="w-wsj0142-001-p1s33W29">
+</w>
+<w id="w-wsj0142-001-p1s33W29">
 <token>.</token>
-</w><w id="w-wsj0142-001-p1s34W1">
+</w>
+<w id="w-wsj0142-001-p1s34W1">
 <token>Diskontní</token>
 </w>
 <w id="w-wsj0142-001-p1s34W2">
@@ -3315,148 +3549,211 @@
 <w id="w-wsj0142-001-p1s48W1">
 <token>9</token>
 <no_space_after>1</no_space_after>
-</w><w id="w-wsj0142-001-p1s48W2">
+</w>
+<w id="w-wsj0142-001-p1s48W2">
 <token>%</token>
-</w><w id="w-wsj0142-001-p1s48W3">
+</w>
+<w id="w-wsj0142-001-p1s48W3">
 <token>emise</token>
-</w><w id="w-wsj0142-001-p1s48W4">
+</w>
+<w id="w-wsj0142-001-p1s48W4">
 <token>firmy</token>
-</w><w id="w-wsj0142-001-p1s48W5">
+</w>
+<w id="w-wsj0142-001-p1s48W5">
 <token>Ginnie</token>
-</w><w id="w-wsj0142-001-p1s48W6">
+</w>
+<w id="w-wsj0142-001-p1s48W6">
 <token>Mae</token>
-</w><w id="w-wsj0142-001-p1s48W7">
+</w>
+<w id="w-wsj0142-001-p1s48W7">
 <token>s</token>
-</w><w id="w-wsj0142-001-p1s48W8">
+</w>
+<w id="w-wsj0142-001-p1s48W8">
 <token>dodáním</token>
-</w><w id="w-wsj0142-001-p1s48W9">
+</w>
+<w id="w-wsj0142-001-p1s48W9">
 <token>v</token>
-</w><w id="w-wsj0142-001-p1s48W10">
+</w>
+<w id="w-wsj0142-001-p1s48W10">
 <token>listopadu</token>
-</w><w id="w-wsj0142-001-p1s48W11">
+</w>
+<w id="w-wsj0142-001-p1s48W11">
 <token>skončila</token>
-</w><w id="w-wsj0142-001-p1s48W12">
+</w>
+<w id="w-wsj0142-001-p1s48W12">
 <token>na</token>
-</w><w id="w-wsj0142-001-p1s48W13">
+</w>
+<w id="w-wsj0142-001-p1s48W13">
 <token>98</token>
-</w><w id="w-wsj0142-001-p1s48W14">
+</w>
+<w id="w-wsj0142-001-p1s48W14">
 <token>5</token>
 <no_space_after>1</no_space_after>
-</w><w id="w-wsj0142-001-p1s48W15">
+</w>
+<w id="w-wsj0142-001-p1s48W15">
 <token>/</token>
 <no_space_after>1</no_space_after>
-</w><w id="w-wsj0142-001-p1s48W16">
+</w>
+<w id="w-wsj0142-001-p1s48W16">
 <token>8</token>
 <no_space_after>1</no_space_after>
-</w><w id="w-wsj0142-001-p1s48W17">
+</w>
+<w id="w-wsj0142-001-p1s48W17">
 <token>,</token>
-</w><w id="w-wsj0142-001-p1s48W18">
+</w>
+<w id="w-wsj0142-001-p1s48W18">
 <token>což</token>
-</w><w id="w-wsj0142-001-p1s48W19">
+</w>
+<w id="w-wsj0142-001-p1s48W19">
 <token>je</token>
-</w><w id="w-wsj0142-001-p1s48W20">
+</w>
+<w id="w-wsj0142-001-p1s48W20">
 <token>zvýšení</token>
-</w><w id="w-wsj0142-001-p1s48W21">
+</w>
+<w id="w-wsj0142-001-p1s48W21">
 <token>o</token>
-</w><w id="w-wsj0142-001-p1s48W22">
+</w>
+<w id="w-wsj0142-001-p1s48W22">
 <token>2</token>
 <no_space_after>1</no_space_after>
-</w><w id="w-wsj0142-001-p1s48W23">
+</w>
+<w id="w-wsj0142-001-p1s48W23">
 <token>/</token>
 <no_space_after>1</no_space_after>
-</w><w id="w-wsj0142-001-p1s48W24">
+</w>
+<w id="w-wsj0142-001-p1s48W24">
 <token>32</token>
 <no_space_after>1</no_space_after>
-</w><w id="w-wsj0142-001-p1s48W25">
+</w>
+<w id="w-wsj0142-001-p1s48W25">
 <token>,</token>
-</w><w id="w-wsj0142-001-p1s48W26">
+</w>
+<w id="w-wsj0142-001-p1s48W26">
 <token>a</token>
-</w><w id="w-wsj0142-001-p1s48W27">
+</w>
+<w id="w-wsj0142-001-p1s48W27">
 <token>její</token>
-</w><w id="w-wsj0142-001-p1s48W28">
+</w>
+<w id="w-wsj0142-001-p1s48W28">
 <token>9</token>
-</w><w id="w-wsj0142-001-p1s48W29">
+</w>
+<w id="w-wsj0142-001-p1s48W29">
 <token>1</token>
 <no_space_after>1</no_space_after>
-</w><w id="w-wsj0142-001-p1s48W30">
+</w>
+<w id="w-wsj0142-001-p1s48W30">
 <token>/</token>
 <no_space_after>1</no_space_after>
-</w><w id="w-wsj0142-001-p1s48W31">
+</w>
+<w id="w-wsj0142-001-p1s48W31">
 <token>2</token>
 <no_space_after>1</no_space_after>
-</w><w id="w-wsj0142-001-p1s48W32">
+</w>
+<w id="w-wsj0142-001-p1s48W32">
 <token>%</token>
-</w><w id="w-wsj0142-001-p1s48W33">
+</w>
+<w id="w-wsj0142-001-p1s48W33">
 <token>emise</token>
-</w><w id="w-wsj0142-001-p1s48W34">
+</w>
+<w id="w-wsj0142-001-p1s48W34">
 <token>na</token>
-</w><w id="w-wsj0142-001-p1s48W35">
+</w>
+<w id="w-wsj0142-001-p1s48W35">
 <token>100</token>
-</w><w id="w-wsj0142-001-p1s48W36">
+</w>
+<w id="w-wsj0142-001-p1s48W36">
 <token>22</token>
 <no_space_after>1</no_space_after>
-</w><w id="w-wsj0142-001-p1s48W37">
+</w>
+<w id="w-wsj0142-001-p1s48W37">
 <token>/</token>
 <no_space_after>1</no_space_after>
-</w><w id="w-wsj0142-001-p1s48W38">
+</w>
+<w id="w-wsj0142-001-p1s48W38">
 <token>32</token>
 <no_space_after>1</no_space_after>
-</w><w id="w-wsj0142-001-p1s48W39">
+</w>
+<w id="w-wsj0142-001-p1s48W39">
 <token>,</token>
-</w><w id="w-wsj0142-001-p1s48W40">
+</w>
+<w id="w-wsj0142-001-p1s48W40">
 <token>což</token>
-</w><w id="w-wsj0142-001-p1s48W41">
+</w>
+<w id="w-wsj0142-001-p1s48W41">
 <token>je</token>
-</w><w id="w-wsj0142-001-p1s48W42">
+</w>
+<w id="w-wsj0142-001-p1s48W42">
 <token>také</token>
-</w><w id="w-wsj0142-001-p1s48W43">
+</w>
+<w id="w-wsj0142-001-p1s48W43">
 <token>zvýšení</token>
-</w><w id="w-wsj0142-001-p1s48W44">
+</w>
+<w id="w-wsj0142-001-p1s48W44">
 <token>o</token>
-</w><w id="w-wsj0142-001-p1s48W45">
+</w>
+<w id="w-wsj0142-001-p1s48W45">
 <token>2</token>
 <no_space_after>1</no_space_after>
-</w><w id="w-wsj0142-001-p1s48W46">
+</w>
+<w id="w-wsj0142-001-p1s48W46">
 <token>/</token>
 <no_space_after>1</no_space_after>
-</w><w id="w-wsj0142-001-p1s48W47">
+</w>
+<w id="w-wsj0142-001-p1s48W47">
 <token>32</token>
 <no_space_after>1</no_space_after>
-</w><w id="w-wsj0142-001-p1s48W48">
+</w>
+<w id="w-wsj0142-001-p1s48W48">
 <token>.</token>
-</w><w id="w-wsj0142-001-p1s49W1">
+</w>
+<w id="w-wsj0142-001-p1s49W1">
 <token>9</token>
 <no_space_after>1</no_space_after>
-</w><w id="w-wsj0142-001-p1s49W2">
+</w>
+<w id="w-wsj0142-001-p1s49W2">
 <token>%</token>
-</w><w id="w-wsj0142-001-p1s49W3">
+</w>
+<w id="w-wsj0142-001-p1s49W3">
 <token>cenné</token>
-</w><w id="w-wsj0142-001-p1s49W4">
+</w>
+<w id="w-wsj0142-001-p1s49W4">
 <token>papíry</token>
-</w><w id="w-wsj0142-001-p1s49W5">
+</w>
+<w id="w-wsj0142-001-p1s49W5">
 <token>firmy</token>
-</w><w id="w-wsj0142-001-p1s49W6">
+</w>
+<w id="w-wsj0142-001-p1s49W6">
 <token>Ginnie</token>
-</w><w id="w-wsj0142-001-p1s49W7">
+</w>
+<w id="w-wsj0142-001-p1s49W7">
 <token>Mae</token>
-</w><w id="w-wsj0142-001-p1s49W8">
+</w>
+<w id="w-wsj0142-001-p1s49W8">
 <token>vynášely</token>
-</w><w id="w-wsj0142-001-p1s49W9">
+</w>
+<w id="w-wsj0142-001-p1s49W9">
 <token>9,32</token>
-</w><w id="w-wsj0142-001-p1s49W10">
+</w>
+<w id="w-wsj0142-001-p1s49W10">
 <token>%</token>
-</w><w id="w-wsj0142-001-p1s49W11">
+</w>
+<w id="w-wsj0142-001-p1s49W11">
 <token>za</token>
-</w><w id="w-wsj0142-001-p1s49W12">
+</w>
+<w id="w-wsj0142-001-p1s49W12">
 <token>průměrné</token>
-</w><w id="w-wsj0142-001-p1s49W13">
+</w>
+<w id="w-wsj0142-001-p1s49W13">
 <token>12leté</token>
-</w><w id="w-wsj0142-001-p1s49W14">
+</w>
+<w id="w-wsj0142-001-p1s49W14">
 <token>trvání</token>
 <no_space_after>1</no_space_after>
-</w><w id="w-wsj0142-001-p1s49W15">
+</w>
+<w id="w-wsj0142-001-p1s49W15">
 <token>.</token>
-</w><w id="w-wsj0142-001-p1s50W1">
+</w>
+<w id="w-wsj0142-001-p1s50W1">
 <token>Na</token>
 </w>
 <w id="w-wsj0142-001-p1s50W2">
@@ -3756,46 +4053,66 @@
 </w>
 <w id="w-wsj0142-001-p1s55W1">
 <token>Podle</token>
-</w><w id="w-wsj0142-001-p1s55W2">
+</w>
+<w id="w-wsj0142-001-p1s55W2">
 <token>vedoucího</token>
-</w><w id="w-wsj0142-001-p1s55W3">
+</w>
+<w id="w-wsj0142-001-p1s55W3">
 <token>upisovatele</token>
-</w><w id="w-wsj0142-001-p1s55W4">
+</w>
+<w id="w-wsj0142-001-p1s55W4">
 <token>by</token>
-</w><w id="w-wsj0142-001-p1s55W5">
+</w>
+<w id="w-wsj0142-001-p1s55W5">
 <token>tato</token>
-</w><w id="w-wsj0142-001-p1s55W6">
+</w>
+<w id="w-wsj0142-001-p1s55W6">
 <token>emise</token>
-</w><w id="w-wsj0142-001-p1s55W7">
+</w>
+<w id="w-wsj0142-001-p1s55W7">
 <token>mohla</token>
-</w><w id="w-wsj0142-001-p1s55W8">
+</w>
+<w id="w-wsj0142-001-p1s55W8">
 <token>možná</token>
-</w><w id="w-wsj0142-001-p1s55W9">
+</w>
+<w id="w-wsj0142-001-p1s55W9">
 <token>v</token>
-</w><w id="w-wsj0142-001-p1s55W10">
+</w>
+<w id="w-wsj0142-001-p1s55W10">
 <token>restrukturalizované</token>
-</w><w id="w-wsj0142-001-p1s55W11">
+</w>
+<w id="w-wsj0142-001-p1s55W11">
 <token>formě</token>
-</w><w id="w-wsj0142-001-p1s55W12">
+</w>
+<w id="w-wsj0142-001-p1s55W12">
 <token>být</token>
-</w><w id="w-wsj0142-001-p1s55W13">
+</w>
+<w id="w-wsj0142-001-p1s55W13">
 <token>znovu</token>
-</w><w id="w-wsj0142-001-p1s55W14">
+</w>
+<w id="w-wsj0142-001-p1s55W14">
 <token>uvedena</token>
-</w><w id="w-wsj0142-001-p1s55W15">
+</w>
+<w id="w-wsj0142-001-p1s55W15">
 <token>na</token>
-</w><w id="w-wsj0142-001-p1s55W16">
+</w>
+<w id="w-wsj0142-001-p1s55W16">
 <token>trh</token>
-</w><w id="w-wsj0142-001-p1s55W17">
+</w>
+<w id="w-wsj0142-001-p1s55W17">
 <token>již</token>
-</w><w id="w-wsj0142-001-p1s55W18">
+</w>
+<w id="w-wsj0142-001-p1s55W18">
 <token>příští</token>
-</w><w id="w-wsj0142-001-p1s55W19">
+</w>
+<w id="w-wsj0142-001-p1s55W19">
 <token>týden</token>
 <no_space_after>1</no_space_after>
-</w><w id="w-wsj0142-001-p1s55W20">
+</w>
+<w id="w-wsj0142-001-p1s55W20">
 <token>.</token>
-</w><w id="w-wsj0142-001-p1s56W1">
+</w>
+<w id="w-wsj0142-001-p1s56W1">
 <token>Nabídka</token>
 </w>
 <w id="w-wsj0142-001-p1s56W2">
@@ -3936,146 +4253,215 @@
 </w>
 <w id="w-wsj0142-001-p1s57W1">
 <token>Dluhopisy</token>
-</w><w id="w-wsj0142-001-p1s57W2">
+</w>
+<w id="w-wsj0142-001-p1s57W2">
 <token>města</token>
-</w><w id="w-wsj0142-001-p1s57W3">
+</w>
+<w id="w-wsj0142-001-p1s57W3">
 <token>Santa</token>
-</w><w id="w-wsj0142-001-p1s57W4">
+</w>
+<w id="w-wsj0142-001-p1s57W4">
 <token>Ana</token>
-</w><w id="w-wsj0142-001-p1s57W5">
+</w>
+<w id="w-wsj0142-001-p1s57W5">
 <token>byly</token>
-</w><w id="w-wsj0142-001-p1s57W6">
+</w>
+<w id="w-wsj0142-001-p1s57W6">
 <token>předběžně</token>
-</w><w id="w-wsj0142-001-p1s57W7">
+</w>
+<w id="w-wsj0142-001-p1s57W7">
 <token>ohodnoceny</token>
-</w><w id="w-wsj0142-001-p1s57W8">
+</w>
+<w id="w-wsj0142-001-p1s57W8">
 <token>tak</token>
 <no_space_after>1</no_space_after>
-</w><w id="w-wsj0142-001-p1s57W9">
+</w>
+<w id="w-wsj0142-001-p1s57W9">
 <token>,</token>
-</w><w id="w-wsj0142-001-p1s57W10">
+</w>
+<w id="w-wsj0142-001-p1s57W10">
 <token>aby</token>
-</w><w id="w-wsj0142-001-p1s57W11">
+</w>
+<w id="w-wsj0142-001-p1s57W11">
 <token>se</token>
-</w><w id="w-wsj0142-001-p1s57W12">
+</w>
+<w id="w-wsj0142-001-p1s57W12">
 <token>výnosy</token>
-</w><w id="w-wsj0142-001-p1s57W13">
+</w>
+<w id="w-wsj0142-001-p1s57W13">
 <token>pohybovaly</token>
-</w><w id="w-wsj0142-001-p1s57W14">
+</w>
+<w id="w-wsj0142-001-p1s57W14">
 <token>od</token>
-</w><w id="w-wsj0142-001-p1s57W15">
+</w>
+<w id="w-wsj0142-001-p1s57W15">
 <token>6,40</token>
-</w><w id="w-wsj0142-001-p1s57W16">
+</w>
+<w id="w-wsj0142-001-p1s57W16">
 <token>%</token>
-</w><w id="w-wsj0142-001-p1s57W17">
+</w>
+<w id="w-wsj0142-001-p1s57W17">
 <token>v</token>
-</w><w id="w-wsj0142-001-p1s57W18">
+</w>
+<w id="w-wsj0142-001-p1s57W18">
 <token>roce</token>
-</w><w id="w-wsj0142-001-p1s57W19">
+</w>
+<w id="w-wsj0142-001-p1s57W19">
 <token>1991</token>
-</w><w id="w-wsj0142-001-p1s57W20">
+</w>
+<w id="w-wsj0142-001-p1s57W20">
 <token>do</token>
-</w><w id="w-wsj0142-001-p1s57W21">
+</w>
+<w id="w-wsj0142-001-p1s57W21">
 <token>7,458</token>
-</w><w id="w-wsj0142-001-p1s57W22">
+</w>
+<w id="w-wsj0142-001-p1s57W22">
 <token>%</token>
-</w><w id="w-wsj0142-001-p1s57W23">
+</w>
+<w id="w-wsj0142-001-p1s57W23">
 <token>v</token>
-</w><w id="w-wsj0142-001-p1s58W1">
+</w>
+<w id="w-wsj0142-001-p1s58W1">
 <token>Emise</token>
-</w><w id="w-wsj0142-001-p1s58W2">
+</w>
+<w id="w-wsj0142-001-p1s58W2">
 <token>všeobecných</token>
-</w><w id="w-wsj0142-001-p1s58W3">
+</w>
+<w id="w-wsj0142-001-p1s58W3">
 <token>obligačních</token>
-</w><w id="w-wsj0142-001-p1s58W4">
+</w>
+<w id="w-wsj0142-001-p1s58W4">
 <token>státem</token>
-</w><w id="w-wsj0142-001-p1s58W5">
+</w>
+<w id="w-wsj0142-001-p1s58W5">
 <token>distribuovaných</token>
-</w><w id="w-wsj0142-001-p1s58W6">
+</w>
+<w id="w-wsj0142-001-p1s58W6">
 <token>pomocných</token>
-</w><w id="w-wsj0142-001-p1s58W7">
+</w>
+<w id="w-wsj0142-001-p1s58W7">
 <token>dluhopisů</token>
-</w><w id="w-wsj0142-001-p1s58W8">
+</w>
+<w id="w-wsj0142-001-p1s58W8">
 <token>ve</token>
-</w><w id="w-wsj0142-001-p1s58W9">
+</w>
+<w id="w-wsj0142-001-p1s58W9">
 <token>výši</token>
-</w><w id="w-wsj0142-001-p1s58W10">
+</w>
+<w id="w-wsj0142-001-p1s58W10">
 <token>130</token>
-</w><w id="w-wsj0142-001-p1s58W11">
+</w>
+<w id="w-wsj0142-001-p1s58W11">
 <token>milionů</token>
-</w><w id="w-wsj0142-001-p1s58W12">
+</w>
+<w id="w-wsj0142-001-p1s58W12">
 <token>dolarů</token>
-</w><w id="w-wsj0142-001-p1s58W13">
+</w>
+<w id="w-wsj0142-001-p1s58W13">
 <token>z</token>
-</w><w id="w-wsj0142-001-p1s58W14">
+</w>
+<w id="w-wsj0142-001-p1s58W14">
 <token>Detroitu</token>
-</w><w id="w-wsj0142-001-p1s58W15">
+</w>
+<w id="w-wsj0142-001-p1s58W15">
 <token>v</token>
-</w><w id="w-wsj0142-001-p1s58W16">
+</w>
+<w id="w-wsj0142-001-p1s58W16">
 <token>Michiganu</token>
-</w><w id="w-wsj0142-001-p1s58W17">
+</w>
+<w id="w-wsj0142-001-p1s58W17">
 <token>vzdoruje</token>
-</w><w id="w-wsj0142-001-p1s58W18">
+</w>
+<w id="w-wsj0142-001-p1s58W18">
 <token>trendu</token>
-</w><w id="w-wsj0142-001-p1s58W19">
+</w>
+<w id="w-wsj0142-001-p1s58W19">
 <token>na</token>
-</w><w id="w-wsj0142-001-p1s58W20">
+</w>
+<w id="w-wsj0142-001-p1s58W20">
 <token>burze</token>
-</w><w id="w-wsj0142-001-p1s58W21">
+</w>
+<w id="w-wsj0142-001-p1s58W21">
 <token>a</token>
-</w><w id="w-wsj0142-001-p1s58W22">
+</w>
+<w id="w-wsj0142-001-p1s58W22">
 <token>zřejmě</token>
-</w><w id="w-wsj0142-001-p1s58W23">
+</w>
+<w id="w-wsj0142-001-p1s58W23">
 <token>přitáhla</token>
-</w><w id="w-wsj0142-001-p1s58W24">
+</w>
+<w id="w-wsj0142-001-p1s58W24">
 <token>solidní</token>
-</w><w id="w-wsj0142-001-p1s58W25">
+</w>
+<w id="w-wsj0142-001-p1s58W25">
 <token>investorský</token>
-</w><w id="w-wsj0142-001-p1s58W26">
+</w>
+<w id="w-wsj0142-001-p1s58W26">
 <token>zájem</token>
 <no_space_after>1</no_space_after>
-</w><w id="w-wsj0142-001-p1s58W27">
+</w>
+<w id="w-wsj0142-001-p1s58W27">
 <token>.</token>
-</w><w id="w-wsj0142-001-p1s59W1">
+</w>
+<w id="w-wsj0142-001-p1s59W1">
 <token>Byly</token>
-</w><w id="w-wsj0142-001-p1s59W2">
+</w>
+<w id="w-wsj0142-001-p1s59W2">
 <token>předběžně</token>
-</w><w id="w-wsj0142-001-p1s59W3">
+</w>
+<w id="w-wsj0142-001-p1s59W3">
 <token>ohodnoceny</token>
-</w><w id="w-wsj0142-001-p1s59W4">
+</w>
+<w id="w-wsj0142-001-p1s59W4">
 <token>tak</token>
 <no_space_after>1</no_space_after>
-</w><w id="w-wsj0142-001-p1s59W5">
+</w>
+<w id="w-wsj0142-001-p1s59W5">
 <token>,</token>
-</w><w id="w-wsj0142-001-p1s59W6">
+</w>
+<w id="w-wsj0142-001-p1s59W6">
 <token>aby</token>
-</w><w id="w-wsj0142-001-p1s59W7">
+</w>
+<w id="w-wsj0142-001-p1s59W7">
 <token>se</token>
-</w><w id="w-wsj0142-001-p1s59W8">
+</w>
+<w id="w-wsj0142-001-p1s59W8">
 <token>výnosy</token>
-</w><w id="w-wsj0142-001-p1s59W9">
+</w>
+<w id="w-wsj0142-001-p1s59W9">
 <token>pohybovaly</token>
-</w><w id="w-wsj0142-001-p1s59W10">
+</w>
+<w id="w-wsj0142-001-p1s59W10">
 <token>od</token>
-</w><w id="w-wsj0142-001-p1s59W11">
+</w>
+<w id="w-wsj0142-001-p1s59W11">
 <token>6,20</token>
-</w><w id="w-wsj0142-001-p1s59W12">
+</w>
+<w id="w-wsj0142-001-p1s59W12">
 <token>%</token>
-</w><w id="w-wsj0142-001-p1s59W13">
+</w>
+<w id="w-wsj0142-001-p1s59W13">
 <token>v</token>
-</w><w id="w-wsj0142-001-p1s59W14">
+</w>
+<w id="w-wsj0142-001-p1s59W14">
 <token>roce</token>
-</w><w id="w-wsj0142-001-p1s59W15">
+</w>
+<w id="w-wsj0142-001-p1s59W15">
 <token>1991</token>
-</w><w id="w-wsj0142-001-p1s59W16">
+</w>
+<w id="w-wsj0142-001-p1s59W16">
 <token>do</token>
-</w><w id="w-wsj0142-001-p1s59W17">
+</w>
+<w id="w-wsj0142-001-p1s59W17">
 <token>7,272</token>
-</w><w id="w-wsj0142-001-p1s59W18">
+</w>
+<w id="w-wsj0142-001-p1s59W18">
 <token>%</token>
-</w><w id="w-wsj0142-001-p1s59W19">
+</w>
+<w id="w-wsj0142-001-p1s59W19">
 <token>v</token>
-</w><w id="w-wsj0142-001-p1s60W1">
+</w>
+<w id="w-wsj0142-001-p1s60W1">
 <token>Zahraniční</token>
 </w>
 <w id="w-wsj0142-001-p1s60W2">
@@ -4227,43 +4613,61 @@
 </w>
 <w id="w-wsj0142-001-p1s63W1">
 <token>Všeobecně</token>
-</w><w id="w-wsj0142-001-p1s63W2">
+</w>
+<w id="w-wsj0142-001-p1s63W2">
 <token>se</token>
-</w><w id="w-wsj0142-001-p1s63W3">
+</w>
+<w id="w-wsj0142-001-p1s63W3">
 <token>očekává</token>
 <no_space_after>1</no_space_after>
-</w><w id="w-wsj0142-001-p1s63W4">
+</w>
+<w id="w-wsj0142-001-p1s63W4">
 <token>,</token>
-</w><w id="w-wsj0142-001-p1s63W5">
+</w>
+<w id="w-wsj0142-001-p1s63W5">
 <token>že</token>
-</w><w id="w-wsj0142-001-p1s63W6">
+</w>
+<w id="w-wsj0142-001-p1s63W6">
 <token>se</token>
-</w><w id="w-wsj0142-001-p1s63W7">
+</w>
+<w id="w-wsj0142-001-p1s63W7">
 <token>bude</token>
-</w><w id="w-wsj0142-001-p1s63W8">
+</w>
+<w id="w-wsj0142-001-p1s63W8">
 <token>jednat</token>
-</w><w id="w-wsj0142-001-p1s63W9">
+</w>
+<w id="w-wsj0142-001-p1s63W9">
 <token>o</token>
-</w><w id="w-wsj0142-001-p1s63W10">
+</w>
+<w id="w-wsj0142-001-p1s63W10">
 <token>obvyklou</token>
-</w><w id="w-wsj0142-001-p1s63W11">
+</w>
+<w id="w-wsj0142-001-p1s63W11">
 <token>10letou</token>
-</w><w id="w-wsj0142-001-p1s63W12">
+</w>
+<w id="w-wsj0142-001-p1s63W12">
 <token>emisi</token>
-</w><w id="w-wsj0142-001-p1s63W13">
+</w>
+<w id="w-wsj0142-001-p1s63W13">
 <token>ve</token>
-</w><w id="w-wsj0142-001-p1s63W14">
+</w>
+<w id="w-wsj0142-001-p1s63W14">
 <token>výši</token>
-</w><w id="w-wsj0142-001-p1s63W15">
+</w>
+<w id="w-wsj0142-001-p1s63W15">
 <token>4</token>
-</w><w id="w-wsj0142-001-p1s63W16">
+</w>
+<w id="w-wsj0142-001-p1s63W16">
 <token>miliardy</token>
-</w><w id="w-wsj0142-001-p1s63W17">
+</w>
+<w id="w-wsj0142-001-p1s63W17">
 <token>marek</token>
 <no_space_after>1</no_space_after>
-</w><w id="w-wsj0142-001-p1s63W18">
+</w>
+<w id="w-wsj0142-001-p1s63W18">
 <token>.</token>
-</w><w id="w-wsj0142-001-p1s64W1">
+</w>
+<w id="w-wsj0142-001-p1s64W1">
 <token>V</token>
 </w>
 <w id="w-wsj0142-001-p1s64W2">
@@ -4395,176 +4799,253 @@
 </w>
 <w id="w-wsj0142-001-p1s66W1">
 <token>-</token>
-</w><w id="w-wsj0142-001-p1s66W2">
+</w>
+<w id="w-wsj0142-001-p1s66W2">
 <token>V</token>
-</w><w id="w-wsj0142-001-p1s66W3">
+</w>
+<w id="w-wsj0142-001-p1s66W3">
 <token>Japonsku</token>
-</w><w id="w-wsj0142-001-p1s66W4">
+</w>
+<w id="w-wsj0142-001-p1s66W4">
 <token>skončila</token>
-</w><w id="w-wsj0142-001-p1s66W5">
+</w>
+<w id="w-wsj0142-001-p1s66W5">
 <token>standardní</token>
-</w><w id="w-wsj0142-001-p1s66W6">
+</w>
+<w id="w-wsj0142-001-p1s66W6">
 <token>4,6</token>
 <no_space_after>1</no_space_after>
-</w><w id="w-wsj0142-001-p1s66W7">
+</w>
+<w id="w-wsj0142-001-p1s66W7">
 <token>%</token>
-</w><w id="w-wsj0142-001-p1s66W8">
+</w>
+<w id="w-wsj0142-001-p1s66W8">
 <token>emise</token>
-</w><w id="w-wsj0142-001-p1s66W9">
+</w>
+<w id="w-wsj0142-001-p1s66W9">
 <token>číslo</token>
-</w><w id="w-wsj0142-001-p1s66W10">
+</w>
+<w id="w-wsj0142-001-p1s66W10">
 <token>111</token>
-</w><w id="w-wsj0142-001-p1s66W11">
+</w>
+<w id="w-wsj0142-001-p1s66W11">
 <token>splatná</token>
-</w><w id="w-wsj0142-001-p1s66W12">
+</w>
+<w id="w-wsj0142-001-p1s66W12">
 <token>v</token>
-</w><w id="w-wsj0142-001-p1s66W13">
+</w>
+<w id="w-wsj0142-001-p1s66W13">
 <token>roce</token>
-</w><w id="w-wsj0142-001-p1s66W14">
+</w>
+<w id="w-wsj0142-001-p1s66W14">
 <token>1988</token>
-</w><w id="w-wsj0142-001-p1s66W15">
+</w>
+<w id="w-wsj0142-001-p1s66W15">
 <token>na</token>
-</w><w id="w-wsj0142-001-p1s66W16">
+</w>
+<w id="w-wsj0142-001-p1s66W16">
 <token>makléřských</token>
-</w><w id="w-wsj0142-001-p1s66W17">
+</w>
+<w id="w-wsj0142-001-p1s66W17">
 <token>monitorech</token>
-</w><w id="w-wsj0142-001-p1s66W18">
+</w>
+<w id="w-wsj0142-001-p1s66W18">
 <token>nezměněna</token>
-</w><w id="w-wsj0142-001-p1s66W19">
+</w>
+<w id="w-wsj0142-001-p1s66W19">
 <token>na</token>
-</w><w id="w-wsj0142-001-p1s66W20">
+</w>
+<w id="w-wsj0142-001-p1s66W20">
 <token>95,09</token>
-</w><w id="w-wsj0142-001-p1s66W21">
+</w>
+<w id="w-wsj0142-001-p1s66W21">
 <token>s</token>
-</w><w id="w-wsj0142-001-p1s66W22">
+</w>
+<w id="w-wsj0142-001-p1s66W22">
 <token>výnosem</token>
-</w><w id="w-wsj0142-001-p1s66W23">
+</w>
+<w id="w-wsj0142-001-p1s66W23">
 <token>5,435</token>
-</w><w id="w-wsj0142-001-p1s66W24">
+</w>
+<w id="w-wsj0142-001-p1s66W24">
 <token>%</token>
 <no_space_after>1</no_space_after>
-</w><w id="w-wsj0142-001-p1s66W25">
+</w>
+<w id="w-wsj0142-001-p1s66W25">
 <token>.</token>
-</w><w id="w-wsj0142-001-p1s67W1">
+</w>
+<w id="w-wsj0142-001-p1s67W1">
 <token>-</token>
-</w><w id="w-wsj0142-001-p1s67W2">
+</w>
+<w id="w-wsj0142-001-p1s67W2">
 <token>V</token>
-</w><w id="w-wsj0142-001-p1s67W3">
+</w>
+<w id="w-wsj0142-001-p1s67W3">
 <token>Británii</token>
-</w><w id="w-wsj0142-001-p1s67W4">
+</w>
+<w id="w-wsj0142-001-p1s67W4">
 <token>spadly</token>
-</w><w id="w-wsj0142-001-p1s67W5">
+</w>
+<w id="w-wsj0142-001-p1s67W5">
 <token>standardní</token>
-</w><w id="w-wsj0142-001-p1s67W6">
+</w>
+<w id="w-wsj0142-001-p1s67W6">
 <token>11</token>
-</w><w id="w-wsj0142-001-p1s67W7">
+</w>
+<w id="w-wsj0142-001-p1s67W7">
 <token>3</token>
 <no_space_after>1</no_space_after>
-</w><w id="w-wsj0142-001-p1s67W8">
+</w>
+<w id="w-wsj0142-001-p1s67W8">
 <token>/</token>
 <no_space_after>1</no_space_after>
-</w><w id="w-wsj0142-001-p1s67W9">
+</w>
+<w id="w-wsj0142-001-p1s67W9">
 <token>4</token>
 <no_space_after>1</no_space_after>
-</w><w id="w-wsj0142-001-p1s67W10">
+</w>
+<w id="w-wsj0142-001-p1s67W10">
 <token>%</token>
-</w><w id="w-wsj0142-001-p1s67W11">
+</w>
+<w id="w-wsj0142-001-p1s67W11">
 <token>dluhopisy</token>
-</w><w id="w-wsj0142-001-p1s67W12">
+</w>
+<w id="w-wsj0142-001-p1s67W12">
 <token>splatné</token>
-</w><w id="w-wsj0142-001-p1s67W13">
+</w>
+<w id="w-wsj0142-001-p1s67W13">
 <token>v</token>
-</w><w id="w-wsj0142-001-p1s67W14">
+</w>
+<w id="w-wsj0142-001-p1s67W14">
 <token>2003</token>
 <no_space_after>1</no_space_after>
-</w><w id="w-wsj0142-001-p1s67W15">
+</w>
+<w id="w-wsj0142-001-p1s67W15">
 <token>/</token>
 <no_space_after>1</no_space_after>
-</w><w id="w-wsj0142-001-p1s67W16">
+</w>
+<w id="w-wsj0142-001-p1s67W16">
 <token>2007</token>
-</w><w id="w-wsj0142-001-p1s67W17">
+</w>
+<w id="w-wsj0142-001-p1s67W17">
 <token>o</token>
-</w><w id="w-wsj0142-001-p1s67W18">
+</w>
+<w id="w-wsj0142-001-p1s67W18">
 <token>14</token>
 <no_space_after>1</no_space_after>
-</w><w id="w-wsj0142-001-p1s67W19">
+</w>
+<w id="w-wsj0142-001-p1s67W19">
 <token>/</token>
 <no_space_after>1</no_space_after>
-</w><w id="w-wsj0142-001-p1s67W20">
+</w>
+<w id="w-wsj0142-001-p1s67W20">
 <token>32</token>
-</w><w id="w-wsj0142-001-p1s67W21">
+</w>
+<w id="w-wsj0142-001-p1s67W21">
 <token>na</token>
-</w><w id="w-wsj0142-001-p1s67W22">
+</w>
+<w id="w-wsj0142-001-p1s67W22">
 <token>111</token>
-</w><w id="w-wsj0142-001-p1s67W23">
+</w>
+<w id="w-wsj0142-001-p1s67W23">
 <token>2</token>
 <no_space_after>1</no_space_after>
-</w><w id="w-wsj0142-001-p1s67W24">
+</w>
+<w id="w-wsj0142-001-p1s67W24">
 <token>/</token>
 <no_space_after>1</no_space_after>
-</w><w id="w-wsj0142-001-p1s67W25">
+</w>
+<w id="w-wsj0142-001-p1s67W25">
 <token>32</token>
-</w><w id="w-wsj0142-001-p1s67W26">
+</w>
+<w id="w-wsj0142-001-p1s67W26">
 <token>s</token>
-</w><w id="w-wsj0142-001-p1s67W27">
+</w>
+<w id="w-wsj0142-001-p1s67W27">
 <token>výnosem</token>
-</w><w id="w-wsj0142-001-p1s67W28">
+</w>
+<w id="w-wsj0142-001-p1s67W28">
 <token>10,19</token>
-</w><w id="w-wsj0142-001-p1s67W29">
+</w>
+<w id="w-wsj0142-001-p1s67W29">
 <token>%</token>
 <no_space_after>1</no_space_after>
-</w><w id="w-wsj0142-001-p1s67W30">
+</w>
+<w id="w-wsj0142-001-p1s67W30">
 <token>.</token>
-</w><w id="w-wsj0142-001-p1s68W1">
+</w>
+<w id="w-wsj0142-001-p1s68W1">
 <token>12</token>
 <no_space_after>1</no_space_after>
-</w><w id="w-wsj0142-001-p1s68W2">
+</w>
+<w id="w-wsj0142-001-p1s68W2">
 <token>%</token>
-</w><w id="w-wsj0142-001-p1s68W3">
+</w>
+<w id="w-wsj0142-001-p1s68W3">
 <token>pokladniční</token>
-</w><w id="w-wsj0142-001-p1s68W4">
+</w>
+<w id="w-wsj0142-001-p1s68W4">
 <token>poukázky</token>
-</w><w id="w-wsj0142-001-p1s68W5">
+</w>
+<w id="w-wsj0142-001-p1s68W5">
 <token>splatné</token>
-</w><w id="w-wsj0142-001-p1s68W6">
+</w>
+<w id="w-wsj0142-001-p1s68W6">
 <token>v</token>
-</w><w id="w-wsj0142-001-p1s68W7">
+</w>
+<w id="w-wsj0142-001-p1s68W7">
 <token>1995</token>
-</w><w id="w-wsj0142-001-p1s68W8">
+</w>
+<w id="w-wsj0142-001-p1s68W8">
 <token>spadly</token>
-</w><w id="w-wsj0142-001-p1s68W9">
+</w>
+<w id="w-wsj0142-001-p1s68W9">
 <token>o</token>
-</w><w id="w-wsj0142-001-p1s68W10">
+</w>
+<w id="w-wsj0142-001-p1s68W10">
 <token>9</token>
 <no_space_after>1</no_space_after>
-</w><w id="w-wsj0142-001-p1s68W11">
+</w>
+<w id="w-wsj0142-001-p1s68W11">
 <token>/</token>
 <no_space_after>1</no_space_after>
-</w><w id="w-wsj0142-001-p1s68W12">
+</w>
+<w id="w-wsj0142-001-p1s68W12">
 <token>32</token>
-</w><w id="w-wsj0142-001-p1s68W13">
+</w>
+<w id="w-wsj0142-001-p1s68W13">
 <token>na</token>
-</w><w id="w-wsj0142-001-p1s68W14">
+</w>
+<w id="w-wsj0142-001-p1s68W14">
 <token>103</token>
-</w><w id="w-wsj0142-001-p1s68W15">
+</w>
+<w id="w-wsj0142-001-p1s68W15">
 <token>3</token>
 <no_space_after>1</no_space_after>
-</w><w id="w-wsj0142-001-p1s68W16">
+</w>
+<w id="w-wsj0142-001-p1s68W16">
 <token>/</token>
 <no_space_after>1</no_space_after>
-</w><w id="w-wsj0142-001-p1s68W17">
+</w>
+<w id="w-wsj0142-001-p1s68W17">
 <token>8</token>
-</w><w id="w-wsj0142-001-p1s68W18">
+</w>
+<w id="w-wsj0142-001-p1s68W18">
 <token>s</token>
-</w><w id="w-wsj0142-001-p1s68W19">
+</w>
+<w id="w-wsj0142-001-p1s68W19">
 <token>výnosem</token>
-</w><w id="w-wsj0142-001-p1s68W20">
+</w>
+<w id="w-wsj0142-001-p1s68W20">
 <token>11,10</token>
-</w><w id="w-wsj0142-001-p1s68W21">
+</w>
+<w id="w-wsj0142-001-p1s68W21">
 <token>%</token>
 <no_space_after>1</no_space_after>
-</w><w id="w-wsj0142-001-p1s68W22">
+</w>
+<w id="w-wsj0142-001-p1s68W22">
 <token>.</token>
-</w></para>
+</w>
+</para>
 </doc>
 </wdata>

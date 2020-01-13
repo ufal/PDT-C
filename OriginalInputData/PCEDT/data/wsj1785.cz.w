@@ -39,10 +39,12 @@
 </w>
 <w id="w-wsj1785-001-p1s0W6">
 <token>Saab</token>
-<no_space_after>1</no_space_after></w>
+<no_space_after>1</no_space_after>
+</w>
 <w id="w-wsj1785-001-p1s0W7">
 <token>-</token>
-<no_space_after>1</no_space_after></w>
+<no_space_after>1</no_space_after>
+</w>
 <w id="w-wsj1785-001-p1s0W8">
 <token>Scania</token>
 </w>

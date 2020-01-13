@@ -30,10 +30,12 @@
 </w>
 <w id="w-wsj2403-001-p1s0W3">
 <token>Axa</token>
-<no_space_after>1</no_space_after></w>
+<no_space_after>1</no_space_after>
+</w>
 <w id="w-wsj2403-001-p1s0W4">
 <token>-</token>
-<no_space_after>1</no_space_after></w>
+<no_space_after>1</no_space_after>
+</w>
 <w id="w-wsj2403-001-p1s0W5">
 <token>Midi</token>
 </w>
@@ -514,10 +516,12 @@
 </w>
 <w id="w-wsj2403-001-p1s4W29">
 <token>Axa</token>
-<no_space_after>1</no_space_after></w>
+<no_space_after>1</no_space_after>
+</w>
 <w id="w-wsj2403-001-p1s4W30">
 <token>-</token>
-<no_space_after>1</no_space_after></w>
+<no_space_after>1</no_space_after>
+</w>
 <w id="w-wsj2403-001-p1s4W31">
 <token>Midi</token>
 </w>
@@ -801,10 +805,12 @@
 </w>
 <w id="w-wsj2403-001-p1s7W7">
 <token>Axa</token>
-<no_space_after>1</no_space_after></w>
+<no_space_after>1</no_space_after>
+</w>
 <w id="w-wsj2403-001-p1s7W8">
 <token>-</token>
-<no_space_after>1</no_space_after></w>
+<no_space_after>1</no_space_after>
+</w>
 <w id="w-wsj2403-001-p1s7W9">
 <token>Midi</token>
 </w>

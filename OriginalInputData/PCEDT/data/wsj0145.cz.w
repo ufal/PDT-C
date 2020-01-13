@@ -175,93 +175,133 @@
 </w>
 <w id="w-wsj0145-001-p1s2W1">
 <token>Firma</token>
-</w><w id="w-wsj0145-001-p1s2W2">
+</w>
+<w id="w-wsj0145-001-p1s2W2">
 <token>BTR</token>
-</w><w id="w-wsj0145-001-p1s2W3">
+</w>
+<w id="w-wsj0145-001-p1s2W3">
 <token>PLC</token>
 <no_space_after>1</no_space_after>
-</w><w id="w-wsj0145-001-p1s2W4">
+</w>
+<w id="w-wsj0145-001-p1s2W4">
 <token>,</token>
-</w><w id="w-wsj0145-001-p1s2W5">
+</w>
+<w id="w-wsj0145-001-p1s2W5">
 <token>britský</token>
-</w><w id="w-wsj0145-001-p1s2W6">
+</w>
+<w id="w-wsj0145-001-p1s2W6">
 <token>průmyslový</token>
-</w><w id="w-wsj0145-001-p1s2W7">
+</w>
+<w id="w-wsj0145-001-p1s2W7">
 <token>konglomerát</token>
 <no_space_after>1</no_space_after>
-</w><w id="w-wsj0145-001-p1s2W8">
+</w>
+<w id="w-wsj0145-001-p1s2W8">
 <token>,</token>
-</w><w id="w-wsj0145-001-p1s2W9">
+</w>
+<w id="w-wsj0145-001-p1s2W9">
 <token>v</token>
-</w><w id="w-wsj0145-001-p1s2W10">
+</w>
+<w id="w-wsj0145-001-p1s2W10">
 <token>červnu</token>
-</w><w id="w-wsj0145-001-p1s2W11">
+</w>
+<w id="w-wsj0145-001-p1s2W11">
 <token>uvedla</token>
 <no_space_after>1</no_space_after>
-</w><w id="w-wsj0145-001-p1s2W12">
+</w>
+<w id="w-wsj0145-001-p1s2W12">
 <token>,</token>
-</w><w id="w-wsj0145-001-p1s2W13">
+</w>
+<w id="w-wsj0145-001-p1s2W13">
 <token>že</token>
-</w><w id="w-wsj0145-001-p1s2W14">
+</w>
+<w id="w-wsj0145-001-p1s2W14">
 <token>za</token>
-</w><w id="w-wsj0145-001-p1s2W15">
+</w>
+<w id="w-wsj0145-001-p1s2W15">
 <token>140</token>
-</w><w id="w-wsj0145-001-p1s2W16">
+</w>
+<w id="w-wsj0145-001-p1s2W16">
 <token>milionů</token>
-</w><w id="w-wsj0145-001-p1s2W17">
+</w>
+<w id="w-wsj0145-001-p1s2W17">
 <token>liber</token>
-</w><w id="w-wsj0145-001-p1s2W18">
+</w>
+<w id="w-wsj0145-001-p1s2W18">
 <token>(</token>
 <no_space_after>1</no_space_after>
-</w><w id="w-wsj0145-001-p1s2W19">
+</w>
+<w id="w-wsj0145-001-p1s2W19">
 <token>221,4</token>
-</w><w id="w-wsj0145-001-p1s2W20">
+</w>
+<w id="w-wsj0145-001-p1s2W20">
 <token>milionu</token>
-</w><w id="w-wsj0145-001-p1s2W21">
+</w>
+<w id="w-wsj0145-001-p1s2W21">
 <token>dolarů</token>
 <no_space_after>1</no_space_after>
-</w><w id="w-wsj0145-001-p1s2W22">
+</w>
+<w id="w-wsj0145-001-p1s2W22">
 <token>)</token>
-</w><w id="w-wsj0145-001-p1s2W23">
+</w>
+<w id="w-wsj0145-001-p1s2W23">
 <token>prodala</token>
-</w><w id="w-wsj0145-001-p1s2W24">
+</w>
+<w id="w-wsj0145-001-p1s2W24">
 <token>svůj</token>
-</w><w id="w-wsj0145-001-p1s2W25">
+</w>
+<w id="w-wsj0145-001-p1s2W25">
 <token>podnik</token>
-</w><w id="w-wsj0145-001-p1s2W26">
+</w>
+<w id="w-wsj0145-001-p1s2W26">
 <token>National</token>
-</w><w id="w-wsj0145-001-p1s2W27">
+</w>
+<w id="w-wsj0145-001-p1s2W27">
 <token>Tyre</token>
-</w><w id="w-wsj0145-001-p1s2W28">
+</w>
+<w id="w-wsj0145-001-p1s2W28">
 <token>Service</token>
-</w><w id="w-wsj0145-001-p1s2W29">
+</w>
+<w id="w-wsj0145-001-p1s2W29">
 <token>společnosti</token>
-</w><w id="w-wsj0145-001-p1s2W30">
+</w>
+<w id="w-wsj0145-001-p1s2W30">
 <token>Michelin</token>
-</w><w id="w-wsj0145-001-p1s2W31">
+</w>
+<w id="w-wsj0145-001-p1s2W31">
 <token>Investment</token>
-</w><w id="w-wsj0145-001-p1s2W32">
+</w>
+<w id="w-wsj0145-001-p1s2W32">
 <token>Ltd</token>
 <no_space_after>1</no_space_after>
-</w><w id="w-wsj0145-001-p1s2W33">
+</w>
+<w id="w-wsj0145-001-p1s2W33">
 <token>.</token>
 <no_space_after>1</no_space_after>
-</w><w id="w-wsj0145-001-p1s2W34">
+</w>
+<w id="w-wsj0145-001-p1s2W34">
 <token>,</token>
-</w><w id="w-wsj0145-001-p1s2W35">
+</w>
+<w id="w-wsj0145-001-p1s2W35">
 <token>britské</token>
-</w><w id="w-wsj0145-001-p1s2W36">
+</w>
+<w id="w-wsj0145-001-p1s2W36">
 <token>jednotce</token>
-</w><w id="w-wsj0145-001-p1s2W37">
+</w>
+<w id="w-wsj0145-001-p1s2W37">
 <token>známého</token>
-</w><w id="w-wsj0145-001-p1s2W38">
+</w>
+<w id="w-wsj0145-001-p1s2W38">
 <token>výrobce</token>
-</w><w id="w-wsj0145-001-p1s2W39">
+</w>
+<w id="w-wsj0145-001-p1s2W39">
 <token>pneumatik</token>
 <no_space_after>1</no_space_after>
-</w><w id="w-wsj0145-001-p1s2W40">
+</w>
+<w id="w-wsj0145-001-p1s2W40">
 <token>.</token>
-</w><w id="w-wsj0145-001-p1s3W1">
+</w>
+<w id="w-wsj0145-001-p1s3W1">
 <token>Firma</token>
 </w>
 <w id="w-wsj0145-001-p1s3W2">

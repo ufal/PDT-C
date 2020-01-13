@@ -58,10 +58,12 @@
 </w>
 <w id="w-wsj2024-001-p1s0W12">
 <token>Universal</token>
-<no_space_after>1</no_space_after></w>
+<no_space_after>1</no_space_after>
+</w>
 <w id="w-wsj2024-001-p1s0W13">
 <token>-</token>
-<no_space_after>1</no_space_after></w>
+<no_space_after>1</no_space_after>
+</w>
 <w id="w-wsj2024-001-p1s0W14">
 <token>Rundle</token>
 </w>
@@ -147,10 +149,12 @@
 </w>
 <w id="w-wsj2024-001-p1s2W11">
 <token>Universal</token>
-<no_space_after>1</no_space_after></w>
+<no_space_after>1</no_space_after>
+</w>
 <w id="w-wsj2024-001-p1s2W12">
 <token>-</token>
-<no_space_after>1</no_space_after></w>
+<no_space_after>1</no_space_after>
+</w>
 <w id="w-wsj2024-001-p1s2W13">
 <token>Rundle</token>
 <no_space_after>1</no_space_after>

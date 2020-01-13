@@ -2648,7 +2648,8 @@
 </w>
 <w id="w-wsj0776-001-p1s36W6">
 <token>M</token>
-<no_space_after>1</no_space_after></w>
+<no_space_after>1</no_space_after>
+</w>
 <w id="w-wsj0776-001-p1s36W7">
 <token>&amp;</token>
 <no_space_after>1</no_space_after>

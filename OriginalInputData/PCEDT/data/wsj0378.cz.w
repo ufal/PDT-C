@@ -81,10 +81,12 @@
 </w>
 <w id="w-wsj0378-001-p1s1W1">
 <token>49</token>
-<no_space_after>1</no_space_after></w>
+<no_space_after>1</no_space_after>
+</w>
 <w id="w-wsj0378-001-p1s1W2">
 <token>-</token>
-<no_space_after>1</no_space_after></w>
+<no_space_after>1</no_space_after>
+</w>
 <w id="w-wsj0378-001-p1s1W3">
 <token>letá</token>
 </w>

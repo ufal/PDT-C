@@ -421,57 +421,83 @@
 </w>
 <w id="w-wsj0340-001-p1s5W1">
 <token>Nákup</token>
-</w><w id="w-wsj0340-001-p1s5W2">
+</w>
+<w id="w-wsj0340-001-p1s5W2">
 <token>skupiny</token>
-</w><w id="w-wsj0340-001-p1s5W3">
+</w>
+<w id="w-wsj0340-001-p1s5W3">
 <token>Credit</token>
-</w><w id="w-wsj0340-001-p1s5W4">
+</w>
+<w id="w-wsj0340-001-p1s5W4">
 <token>Lyonnais</token>
-</w><w id="w-wsj0340-001-p1s5W5">
+</w>
+<w id="w-wsj0340-001-p1s5W5">
 <token>za</token>
-</w><w id="w-wsj0340-001-p1s5W6">
+</w>
+<w id="w-wsj0340-001-p1s5W6">
 <token>33 000</token>
-</w><w id="w-wsj0340-001-p1s5W7">
+</w>
+<w id="w-wsj0340-001-p1s5W7">
 <token>standardních</token>
-</w><w id="w-wsj0340-001-p1s5W8">
+</w>
+<w id="w-wsj0340-001-p1s5W8">
 <token>kmenových</token>
-</w><w id="w-wsj0340-001-p1s5W9">
+</w>
+<w id="w-wsj0340-001-p1s5W9">
 <token>akcií</token>
-</w><w id="w-wsj0340-001-p1s5W10">
+</w>
+<w id="w-wsj0340-001-p1s5W10">
 <token>a</token>
-</w><w id="w-wsj0340-001-p1s5W11">
+</w>
+<w id="w-wsj0340-001-p1s5W11">
 <token>za</token>
-</w><w id="w-wsj0340-001-p1s5W12">
+</w>
+<w id="w-wsj0340-001-p1s5W12">
 <token>10 000</token>
-</w><w id="w-wsj0340-001-p1s5W13">
+</w>
+<w id="w-wsj0340-001-p1s5W13">
 <token>nově</token>
-</w><w id="w-wsj0340-001-p1s5W14">
+</w>
+<w id="w-wsj0340-001-p1s5W14">
 <token>vydaných</token>
-</w><w id="w-wsj0340-001-p1s5W15">
+</w>
+<w id="w-wsj0340-001-p1s5W15">
 <token>akcií</token>
-</w><w id="w-wsj0340-001-p1s5W16">
+</w>
+<w id="w-wsj0340-001-p1s5W16">
 <token>je</token>
-</w><w id="w-wsj0340-001-p1s5W17">
+</w>
+<w id="w-wsj0340-001-p1s5W17">
 <token>oceněn</token>
-</w><w id="w-wsj0340-001-p1s5W18">
+</w>
+<w id="w-wsj0340-001-p1s5W18">
 <token>na</token>
-</w><w id="w-wsj0340-001-p1s5W19">
+</w>
+<w id="w-wsj0340-001-p1s5W19">
 <token>cenu</token>
-</w><w id="w-wsj0340-001-p1s5W20">
+</w>
+<w id="w-wsj0340-001-p1s5W20">
 <token>lehce</token>
-</w><w id="w-wsj0340-001-p1s5W21">
+</w>
+<w id="w-wsj0340-001-p1s5W21">
 <token>přes</token>
-</w><w id="w-wsj0340-001-p1s5W22">
+</w>
+<w id="w-wsj0340-001-p1s5W22">
 <token>80</token>
-</w><w id="w-wsj0340-001-p1s5W23">
+</w>
+<w id="w-wsj0340-001-p1s5W23">
 <token>milionů</token>
-</w><w id="w-wsj0340-001-p1s5W24">
+</w>
+<w id="w-wsj0340-001-p1s5W24">
 <token>francouzských</token>
-</w><w id="w-wsj0340-001-p1s5W25">
+</w>
+<w id="w-wsj0340-001-p1s5W25">
 <token>franků</token>
 <no_space_after>1</no_space_after>
-</w><w id="w-wsj0340-001-p1s5W26">
+</w>
+<w id="w-wsj0340-001-p1s5W26">
 <token>.</token>
-</w></para>
+</w>
+</para>
 </doc>
 </wdata>

@@ -293,10 +293,12 @@
 </w>
 <w id="w-wsj2171-001-p1s2W1">
 <token>Inefficient</token>
-<no_space_after>1</no_space_after></w>
+<no_space_after>1</no_space_after>
+</w>
 <w id="w-wsj2171-001-p1s2W2">
 <token>-</token>
-<no_space_after>1</no_space_after></w>
+<no_space_after>1</no_space_after>
+</w>
 <w id="w-wsj2171-001-p1s2W3">
 <token>Market</token>
 </w>

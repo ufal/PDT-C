@@ -4285,55 +4285,79 @@
 </w>
 <w id="w-wsj2172-001-p1s55W1">
 <token>Avšak</token>
-</w><w id="w-wsj2172-001-p1s55W2">
+</w>
+<w id="w-wsj2172-001-p1s55W2">
 <token>jestli</token>
-</w><w id="w-wsj2172-001-p1s55W3">
+</w>
+<w id="w-wsj2172-001-p1s55W3">
 <token>dozorčí</token>
-</w><w id="w-wsj2172-001-p1s55W4">
+</w>
+<w id="w-wsj2172-001-p1s55W4">
 <token>rada</token>
-</w><w id="w-wsj2172-001-p1s55W5">
+</w>
+<w id="w-wsj2172-001-p1s55W5">
 <token>odmítne</token>
-</w><w id="w-wsj2172-001-p1s55W6">
+</w>
+<w id="w-wsj2172-001-p1s55W6">
 <token>redukovanou</token>
-</w><w id="w-wsj2172-001-p1s55W7">
+</w>
+<w id="w-wsj2172-001-p1s55W7">
 <token>nabídku</token>
-</w><w id="w-wsj2172-001-p1s55W8">
+</w>
+<w id="w-wsj2172-001-p1s55W8">
 <token>a</token>
-</w><w id="w-wsj2172-001-p1s55W9">
+</w>
+<w id="w-wsj2172-001-p1s55W9">
 <token>rozhodne</token>
-</w><w id="w-wsj2172-001-p1s55W10">
+</w>
+<w id="w-wsj2172-001-p1s55W10">
 <token>se</token>
-</w><w id="w-wsj2172-001-p1s55W11">
+</w>
+<w id="w-wsj2172-001-p1s55W11">
 <token>prozkoumat</token>
-</w><w id="w-wsj2172-001-p1s55W12">
+</w>
+<w id="w-wsj2172-001-p1s55W12">
 <token>jiné</token>
-</w><w id="w-wsj2172-001-p1s55W13">
+</w>
+<w id="w-wsj2172-001-p1s55W13">
 <token>alternativy</token>
 <no_space_after>1</no_space_after>
-</w><w id="w-wsj2172-001-p1s55W14">
+</w>
+<w id="w-wsj2172-001-p1s55W14">
 <token>,</token>
-</w><w id="w-wsj2172-001-p1s55W15">
+</w>
+<w id="w-wsj2172-001-p1s55W15">
 <token>mohlo</token>
-</w><w id="w-wsj2172-001-p1s55W16">
+</w>
+<w id="w-wsj2172-001-p1s55W16">
 <token>by</token>
-</w><w id="w-wsj2172-001-p1s55W17">
+</w>
+<w id="w-wsj2172-001-p1s55W17">
 <token>to</token>
-</w><w id="w-wsj2172-001-p1s55W18">
+</w>
+<w id="w-wsj2172-001-p1s55W18">
 <token>původně</token>
-</w><w id="w-wsj2172-001-p1s55W19">
+</w>
+<w id="w-wsj2172-001-p1s55W19">
 <token>harmonický</token>
-</w><w id="w-wsj2172-001-p1s55W20">
+</w>
+<w id="w-wsj2172-001-p1s55W20">
 <token>proces</token>
-</w><w id="w-wsj2172-001-p1s55W21">
+</w>
+<w id="w-wsj2172-001-p1s55W21">
 <token>přeměnit</token>
-</w><w id="w-wsj2172-001-p1s55W22">
+</w>
+<w id="w-wsj2172-001-p1s55W22">
 <token>na</token>
-</w><w id="w-wsj2172-001-p1s55W23">
+</w>
+<w id="w-wsj2172-001-p1s55W23">
 <token>nepřátelský</token>
 <no_space_after>1</no_space_after>
-</w><w id="w-wsj2172-001-p1s55W24">
+</w>
+<w id="w-wsj2172-001-p1s55W24">
 <token>.</token>
-</w><w id="w-wsj2172-001-p1s56W1">
+</w>
+<w id="w-wsj2172-001-p1s56W1">
 <token>Piloti</token>
 </w>
 <w id="w-wsj2172-001-p1s56W2">

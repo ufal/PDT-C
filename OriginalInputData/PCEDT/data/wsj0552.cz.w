@@ -1090,10 +1090,12 @@
 </w>
 <w id="w-wsj0552-001-p1s15W20">
 <token>Amsterdamsko</token>
-<no_space_after>1</no_space_after></w>
+<no_space_after>1</no_space_after>
+</w>
 <w id="w-wsj0552-001-p1s15W21">
 <token>-</token>
-<no_space_after>1</no_space_after></w>
+<no_space_after>1</no_space_after>
+</w>
 <w id="w-wsj0552-001-p1s15W22">
 <token>Rotterdamské</token>
 </w>

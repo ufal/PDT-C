@@ -200,10 +200,12 @@
 </w>
 <w id="w-wsj0337-001-p1s2W6">
 <token>13</token>
-<no_space_after>1</no_space_after></w>
+<no_space_after>1</no_space_after>
+</w>
 <w id="w-wsj0337-001-p1s2W7">
 <token>-</token>
-<no_space_after>1</no_space_after></w>
+<no_space_after>1</no_space_after>
+</w>
 <w id="w-wsj0337-001-p1s2W8">
 <token>týdenními</token>
 </w>
@@ -212,10 +214,12 @@
 </w>
 <w id="w-wsj0337-001-p1s2W10">
 <token>26</token>
-<no_space_after>1</no_space_after></w>
+<no_space_after>1</no_space_after>
+</w>
 <w id="w-wsj0337-001-p1s2W11">
 <token>-</token>
-<no_space_after>1</no_space_after></w>
+<no_space_after>1</no_space_after>
+</w>
 <w id="w-wsj0337-001-p1s2W12">
 <token>týdenními</token>
 </w>

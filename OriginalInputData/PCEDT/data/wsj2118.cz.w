@@ -175,10 +175,12 @@
 </w>
 <w id="w-wsj2118-001-p1s1W10">
 <token>AH</token>
-<no_space_after>1</no_space_after></w>
+<no_space_after>1</no_space_after>
+</w>
 <w id="w-wsj2118-001-p1s1W11">
 <token>-</token>
-<no_space_after>1</no_space_after></w>
+<no_space_after>1</no_space_after>
+</w>
 <w id="w-wsj2118-001-p1s1W12">
 <token>64</token>
 </w>

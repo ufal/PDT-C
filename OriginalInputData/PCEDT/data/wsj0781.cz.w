@@ -2743,35 +2743,49 @@
 </w>
 <w id="w-wsj0781-001-p1s36W1">
 <token>Intel</token>
-</w><w id="w-wsj0781-001-p1s36W2">
+</w>
+<w id="w-wsj0781-001-p1s36W2">
 <token>taktuje</token>
-</w><w id="w-wsj0781-001-p1s36W3">
+</w>
+<w id="w-wsj0781-001-p1s36W3">
 <token>rychlost</token>
-</w><w id="w-wsj0781-001-p1s36W4">
+</w>
+<w id="w-wsj0781-001-p1s36W4">
 <token>čipu</token>
-</w><w id="w-wsj0781-001-p1s36W5">
+</w>
+<w id="w-wsj0781-001-p1s36W5">
 <token>na</token>
-</w><w id="w-wsj0781-001-p1s36W6">
+</w>
+<w id="w-wsj0781-001-p1s36W6">
 <token>15</token>
-</w><w id="w-wsj0781-001-p1s36W7">
+</w>
+<w id="w-wsj0781-001-p1s36W7">
 <token>milionů</token>
-</w><w id="w-wsj0781-001-p1s36W8">
+</w>
+<w id="w-wsj0781-001-p1s36W8">
 <token>instrukcí</token>
-</w><w id="w-wsj0781-001-p1s36W9">
+</w>
+<w id="w-wsj0781-001-p1s36W9">
 <token>za</token>
-</w><w id="w-wsj0781-001-p1s36W10">
+</w>
+<w id="w-wsj0781-001-p1s36W10">
 <token>sekundu</token>
 <no_space_after>1</no_space_after>
-</w><w id="w-wsj0781-001-p1s36W11">
+</w>
+<w id="w-wsj0781-001-p1s36W11">
 <token>,</token>
-</w><w id="w-wsj0781-001-p1s36W12">
+</w>
+<w id="w-wsj0781-001-p1s36W12">
 <token>neboli</token>
-</w><w id="w-wsj0781-001-p1s36W13">
+</w>
+<w id="w-wsj0781-001-p1s36W13">
 <token>MIPs</token>
 <no_space_after>1</no_space_after>
-</w><w id="w-wsj0781-001-p1s36W14">
+</w>
+<w id="w-wsj0781-001-p1s36W14">
 <token>.</token>
-</w><w id="w-wsj0781-001-p1s37W1">
+</w>
+<w id="w-wsj0781-001-p1s37W1">
 <token>To</token>
 </w>
 <w id="w-wsj0781-001-p1s37W2">

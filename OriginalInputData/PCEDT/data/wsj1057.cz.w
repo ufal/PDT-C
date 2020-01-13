@@ -4580,91 +4580,132 @@
 </w>
 <w id="w-wsj1057-001-p1s62W1">
 <token>Laurence</token>
-</w><w id="w-wsj1057-001-p1s62W2">
+</w>
+<w id="w-wsj1057-001-p1s62W2">
 <token>A</token>
 <no_space_after>1</no_space_after>
-</w><w id="w-wsj1057-001-p1s62W3">
+</w>
+<w id="w-wsj1057-001-p1s62W3">
 <token>.</token>
-</w><w id="w-wsj1057-001-p1s62W4">
+</w>
+<w id="w-wsj1057-001-p1s62W4">
 <token>Tisch</token>
-</w><w id="w-wsj1057-001-p1s62W5">
+</w>
+<w id="w-wsj1057-001-p1s62W5">
 <token>za</token>
-</w><w id="w-wsj1057-001-p1s62W6">
+</w>
+<w id="w-wsj1057-001-p1s62W6">
 <token>pět</token>
-</w><w id="w-wsj1057-001-p1s62W7">
+</w>
+<w id="w-wsj1057-001-p1s62W7">
 <token>měsíců</token>
-</w><w id="w-wsj1057-001-p1s62W8">
+</w>
+<w id="w-wsj1057-001-p1s62W8">
 <token>převzal</token>
-</w><w id="w-wsj1057-001-p1s62W9">
+</w>
+<w id="w-wsj1057-001-p1s62W9">
 <token>CBS</token>
-</w><w id="w-wsj1057-001-p1s62W10">
+</w>
+<w id="w-wsj1057-001-p1s62W10">
 <token>jako</token>
-</w><w id="w-wsj1057-001-p1s62W11">
+</w>
+<w id="w-wsj1057-001-p1s62W11">
 <token>její</token>
-</w><w id="w-wsj1057-001-p1s62W12">
+</w>
+<w id="w-wsj1057-001-p1s62W12">
 <token>prezident</token>
-</w><w id="w-wsj1057-001-p1s62W13">
+</w>
+<w id="w-wsj1057-001-p1s62W13">
 <token>a</token>
-</w><w id="w-wsj1057-001-p1s62W14">
+</w>
+<w id="w-wsj1057-001-p1s62W14">
 <token>zanedlouho</token>
-</w><w id="w-wsj1057-001-p1s62W15">
+</w>
+<w id="w-wsj1057-001-p1s62W15">
 <token>poté</token>
-</w><w id="w-wsj1057-001-p1s62W16">
+</w>
+<w id="w-wsj1057-001-p1s62W16">
 <token>bez</token>
-</w><w id="w-wsj1057-001-p1s62W17">
+</w>
+<w id="w-wsj1057-001-p1s62W17">
 <token>výhrad</token>
-</w><w id="w-wsj1057-001-p1s62W18">
+</w>
+<w id="w-wsj1057-001-p1s62W18">
 <token>souhlasil</token>
-</w><w id="w-wsj1057-001-p1s62W19">
+</w>
+<w id="w-wsj1057-001-p1s62W19">
 <token>se</token>
-</w><w id="w-wsj1057-001-p1s62W20">
+</w>
+<w id="w-wsj1057-001-p1s62W20">
 <token>vším</token>
 <no_space_after>1</no_space_after>
-</w><w id="w-wsj1057-001-p1s62W21">
+</w>
+<w id="w-wsj1057-001-p1s62W21">
 <token>,</token>
-</w><w id="w-wsj1057-001-p1s62W22">
+</w>
+<w id="w-wsj1057-001-p1s62W22">
 <token>co</token>
-</w><w id="w-wsj1057-001-p1s62W23">
+</w>
+<w id="w-wsj1057-001-p1s62W23">
 <token>Pilson</token>
-</w><w id="w-wsj1057-001-p1s62W24">
+</w>
+<w id="w-wsj1057-001-p1s62W24">
 <token>v</token>
-</w><w id="w-wsj1057-001-p1s62W25">
+</w>
+<w id="w-wsj1057-001-p1s62W25">
 <token>podobě</token>
-</w><w id="w-wsj1057-001-p1s62W26">
+</w>
+<w id="w-wsj1057-001-p1s62W26">
 <token>nehorázně</token>
-</w><w id="w-wsj1057-001-p1s62W27">
+</w>
+<w id="w-wsj1057-001-p1s62W27">
 <token>vysokých</token>
-</w><w id="w-wsj1057-001-p1s62W28">
+</w>
+<w id="w-wsj1057-001-p1s62W28">
 <token>čísel</token>
-</w><w id="w-wsj1057-001-p1s62W29">
+</w>
+<w id="w-wsj1057-001-p1s62W29">
 <token>načmáral</token>
-</w><w id="w-wsj1057-001-p1s62W30">
+</w>
+<w id="w-wsj1057-001-p1s62W30">
 <token>na</token>
-</w><w id="w-wsj1057-001-p1s62W31">
+</w>
+<w id="w-wsj1057-001-p1s62W31">
 <token>papír</token>
 <no_space_after>1</no_space_after>
-</w><w id="w-wsj1057-001-p1s62W32">
+</w>
+<w id="w-wsj1057-001-p1s62W32">
 <token>,</token>
-</w><w id="w-wsj1057-001-p1s62W33">
+</w>
+<w id="w-wsj1057-001-p1s62W33">
 <token>zalepil</token>
-</w><w id="w-wsj1057-001-p1s62W34">
+</w>
+<w id="w-wsj1057-001-p1s62W34">
 <token>do</token>
-</w><w id="w-wsj1057-001-p1s62W35">
+</w>
+<w id="w-wsj1057-001-p1s62W35">
 <token>obálky</token>
-</w><w id="w-wsj1057-001-p1s62W36">
+</w>
+<w id="w-wsj1057-001-p1s62W36">
 <token>a</token>
-</w><w id="w-wsj1057-001-p1s62W37">
+</w>
+<w id="w-wsj1057-001-p1s62W37">
 <token>předal</token>
-</w><w id="w-wsj1057-001-p1s62W38">
+</w>
+<w id="w-wsj1057-001-p1s62W38">
 <token>vyjednavačům</token>
-</w><w id="w-wsj1057-001-p1s62W39">
+</w>
+<w id="w-wsj1057-001-p1s62W39">
 <token>ve</token>
-</w><w id="w-wsj1057-001-p1s62W40">
+</w>
+<w id="w-wsj1057-001-p1s62W40">
 <token>sportu</token>
 <no_space_after>1</no_space_after>
-</w><w id="w-wsj1057-001-p1s62W41">
+</w>
+<w id="w-wsj1057-001-p1s62W41">
 <token>.</token>
-</w><w id="w-wsj1057-001-p1s63W1">
+</w>
+<w id="w-wsj1057-001-p1s63W1">
 <token>A</token>
 </w>
 <w id="w-wsj1057-001-p1s63W2">

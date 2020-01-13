@@ -260,7 +260,8 @@
 </w>
 <w id="w-wsj2385-001-p1s6W2">
 <token>B</token>
-<no_space_after>1</no_space_after></w>
+<no_space_after>1</no_space_after>
+</w>
 <w id="w-wsj2385-001-p1s6W3">
 <token>&amp;</token>
 <no_space_after>1</no_space_after>
@@ -406,53 +407,75 @@
 </w>
 <w id="w-wsj2385-001-p1s11W1">
 <token>Opční</token>
-</w><w id="w-wsj2385-001-p1s11W2">
+</w>
+<w id="w-wsj2385-001-p1s11W2">
 <token>obligace</token>
-</w><w id="w-wsj2385-001-p1s11W3">
+</w>
+<w id="w-wsj2385-001-p1s11W3">
 <token>s</token>
-</w><w id="w-wsj2385-001-p1s11W4">
+</w>
+<w id="w-wsj2385-001-p1s11W4">
 <token>proměnlivým</token>
-</w><w id="w-wsj2385-001-p1s11W5">
+</w>
+<w id="w-wsj2385-001-p1s11W5">
 <token>výnosem</token>
-</w><w id="w-wsj2385-001-p1s11W6">
+</w>
+<w id="w-wsj2385-001-p1s11W6">
 <token>v</token>
-</w><w id="w-wsj2385-001-p1s11W7">
+</w>
+<w id="w-wsj2385-001-p1s11W7">
 <token>hodnotě</token>
-</w><w id="w-wsj2385-001-p1s11W8">
+</w>
+<w id="w-wsj2385-001-p1s11W8">
 <token>250</token>
-</w><w id="w-wsj2385-001-p1s11W9">
+</w>
+<w id="w-wsj2385-001-p1s11W9">
 <token>milionů</token>
-</w><w id="w-wsj2385-001-p1s11W10">
+</w>
+<w id="w-wsj2385-001-p1s11W10">
 <token>dolarů</token>
-</w><w id="w-wsj2385-001-p1s11W11">
+</w>
+<w id="w-wsj2385-001-p1s11W11">
 <token>(</token>
 <no_space_after>1</no_space_after>
-</w><w id="w-wsj2385-001-p1s11W12">
+</w>
+<w id="w-wsj2385-001-p1s11W12">
 <token>nominální</token>
-</w><w id="w-wsj2385-001-p1s11W13">
+</w>
+<w id="w-wsj2385-001-p1s11W13">
 <token>částka</token>
 <no_space_after>1</no_space_after>
-</w><w id="w-wsj2385-001-p1s11W14">
+</w>
+<w id="w-wsj2385-001-p1s11W14">
 <token>)</token>
 <no_space_after>1</no_space_after>
-</w><w id="w-wsj2385-001-p1s11W15">
+</w>
+<w id="w-wsj2385-001-p1s11W15">
 <token>,</token>
-</w><w id="w-wsj2385-001-p1s11W16">
+</w>
+<w id="w-wsj2385-001-p1s11W16">
 <token>prostřednictvím</token>
-</w><w id="w-wsj2385-001-p1s11W17">
+</w>
+<w id="w-wsj2385-001-p1s11W17">
 <token>společnosti</token>
-</w><w id="w-wsj2385-001-p1s11W18">
+</w>
+<w id="w-wsj2385-001-p1s11W18">
 <token>Merrill</token>
-</w><w id="w-wsj2385-001-p1s11W19">
+</w>
+<w id="w-wsj2385-001-p1s11W19">
 <token>Lynch</token>
-</w><w id="w-wsj2385-001-p1s11W20">
+</w>
+<w id="w-wsj2385-001-p1s11W20">
 <token>Capital</token>
-</w><w id="w-wsj2385-001-p1s11W21">
+</w>
+<w id="w-wsj2385-001-p1s11W21">
 <token>Markets</token>
 <no_space_after>1</no_space_after>
-</w><w id="w-wsj2385-001-p1s11W22">
+</w>
+<w id="w-wsj2385-001-p1s11W22">
 <token>.</token>
-</w><w id="w-wsj2385-001-p1s12W1">
+</w>
+<w id="w-wsj2385-001-p1s12W1">
 <token>Firma</token>
 </w>
 <w id="w-wsj2385-001-p1s12W2">

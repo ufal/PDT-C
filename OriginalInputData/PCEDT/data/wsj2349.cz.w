@@ -245,10 +245,12 @@
 </w>
 <w id="w-wsj2349-001-p1s3W30">
 <token>Prudential</token>
-<no_space_after>1</no_space_after></w>
+<no_space_after>1</no_space_after>
+</w>
 <w id="w-wsj2349-001-p1s3W31">
 <token>-</token>
-<no_space_after>1</no_space_after></w>
+<no_space_after>1</no_space_after>
+</w>
 <w id="w-wsj2349-001-p1s3W32">
 <token>Bache</token>
 </w>
@@ -547,44 +549,63 @@
 </w>
 <w id="w-wsj2349-001-p1s6W1">
 <token>Společnost</token>
-</w><w id="w-wsj2349-001-p1s6W2">
+</w>
+<w id="w-wsj2349-001-p1s6W2">
 <token>Trans</token>
-</w><w id="w-wsj2349-001-p1s6W3">
+</w>
+<w id="w-wsj2349-001-p1s6W3">
 <token>World</token>
-</w><w id="w-wsj2349-001-p1s6W4">
+</w>
+<w id="w-wsj2349-001-p1s6W4">
 <token>Airlines</token>
-</w><w id="w-wsj2349-001-p1s6W5">
+</w>
+<w id="w-wsj2349-001-p1s6W5">
 <token>Inc</token>
 <no_space_after>1</no_space_after>
-</w><w id="w-wsj2349-001-p1s6W6">
+</w>
+<w id="w-wsj2349-001-p1s6W6">
 <token>.</token>
-</w><w id="w-wsj2349-001-p1s6W7">
+</w>
+<w id="w-wsj2349-001-p1s6W7">
 <token>nabízí</token>
-</w><w id="w-wsj2349-001-p1s6W8">
+</w>
+<w id="w-wsj2349-001-p1s6W8">
 <token>prostřednictvím</token>
-</w><w id="w-wsj2349-001-p1s6W9">
+</w>
+<w id="w-wsj2349-001-p1s6W9">
 <token>společnosti</token>
-</w><w id="w-wsj2349-001-p1s6W10">
+</w>
+<w id="w-wsj2349-001-p1s6W10">
 <token>Drexel</token>
-</w><w id="w-wsj2349-001-p1s6W11">
+</w>
+<w id="w-wsj2349-001-p1s6W11">
 <token>Burnham</token>
-</w><w id="w-wsj2349-001-p1s6W12">
+</w>
+<w id="w-wsj2349-001-p1s6W12">
 <token>prioritní</token>
-</w><w id="w-wsj2349-001-p1s6W13">
+</w>
+<w id="w-wsj2349-001-p1s6W13">
 <token>obligace</token>
-</w><w id="w-wsj2349-001-p1s6W14">
+</w>
+<w id="w-wsj2349-001-p1s6W14">
 <token>v</token>
-</w><w id="w-wsj2349-001-p1s6W15">
+</w>
+<w id="w-wsj2349-001-p1s6W15">
 <token>hodnotě</token>
-</w><w id="w-wsj2349-001-p1s6W16">
+</w>
+<w id="w-wsj2349-001-p1s6W16">
 <token>150</token>
-</w><w id="w-wsj2349-001-p1s6W17">
+</w>
+<w id="w-wsj2349-001-p1s6W17">
 <token>miliónů</token>
-</w><w id="w-wsj2349-001-p1s6W18">
+</w>
+<w id="w-wsj2349-001-p1s6W18">
 <token>dolarů</token>
 <no_space_after>1</no_space_after>
-</w><w id="w-wsj2349-001-p1s6W19">
+</w>
+<w id="w-wsj2349-001-p1s6W19">
 <token>.</token>
-</w></para>
+</w>
+</para>
 </doc>
 </wdata>

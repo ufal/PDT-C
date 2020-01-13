@@ -262,45 +262,64 @@
 </w>
 <w id="w-wsj2100-001-p1s3W1">
 <token>I</token>
-</w><w id="w-wsj2100-001-p1s3W2">
+</w>
+<w id="w-wsj2100-001-p1s3W2">
 <token>nově</token>
-</w><w id="w-wsj2100-001-p1s3W3">
+</w>
+<w id="w-wsj2100-001-p1s3W3">
 <token>uvedená</token>
-</w><w id="w-wsj2100-001-p1s3W4">
+</w>
+<w id="w-wsj2100-001-p1s3W4">
 <token>reality</token>
-</w><w id="w-wsj2100-001-p1s3W5">
+</w>
+<w id="w-wsj2100-001-p1s3W5">
 <token>show</token>
-</w><w id="w-wsj2100-001-p1s3W6">
+</w>
+<w id="w-wsj2100-001-p1s3W6">
 <token>Tvrdá</token>
-</w><w id="w-wsj2100-001-p1s3W7">
+</w>
+<w id="w-wsj2100-001-p1s3W7">
 <token>reklama</token>
-</w><w id="w-wsj2100-001-p1s3W8">
+</w>
+<w id="w-wsj2100-001-p1s3W8">
 <token>zaznamenává</token>
-</w><w id="w-wsj2100-001-p1s3W9">
+</w>
+<w id="w-wsj2100-001-p1s3W9">
 <token>názory</token>
-</w><w id="w-wsj2100-001-p1s3W10">
+</w>
+<w id="w-wsj2100-001-p1s3W10">
 <token>diváků</token>
 <no_space_after>1</no_space_after>
-</w><w id="w-wsj2100-001-p1s3W11">
+</w>
+<w id="w-wsj2100-001-p1s3W11">
 <token>,</token>
-</w><w id="w-wsj2100-001-p1s3W12">
+</w>
+<w id="w-wsj2100-001-p1s3W12">
 <token>aby</token>
-</w><w id="w-wsj2100-001-p1s3W13">
+</w>
+<w id="w-wsj2100-001-p1s3W13">
 <token>je</token>
-</w><w id="w-wsj2100-001-p1s3W14">
+</w>
+<w id="w-wsj2100-001-p1s3W14">
 <token>bylo</token>
-</w><w id="w-wsj2100-001-p1s3W15">
+</w>
+<w id="w-wsj2100-001-p1s3W15">
 <token>možné</token>
-</w><w id="w-wsj2100-001-p1s3W16">
+</w>
+<w id="w-wsj2100-001-p1s3W16">
 <token>druhý</token>
-</w><w id="w-wsj2100-001-p1s3W17">
+</w>
+<w id="w-wsj2100-001-p1s3W17">
 <token>den</token>
-</w><w id="w-wsj2100-001-p1s3W18">
+</w>
+<w id="w-wsj2100-001-p1s3W18">
 <token>vysílat</token>
 <no_space_after>1</no_space_after>
-</w><w id="w-wsj2100-001-p1s3W19">
+</w>
+<w id="w-wsj2100-001-p1s3W19">
 <token>.</token>
-</w><w id="w-wsj2100-001-p1s4W1">
+</w>
+<w id="w-wsj2100-001-p1s4W1">
 <token>Interaktivní</token>
 </w>
 <w id="w-wsj2100-001-p1s4W2">
@@ -919,7 +938,8 @@
 </w>
 <w id="w-wsj2100-001-p1s10W22">
 <token>AT</token>
-<no_space_after>1</no_space_after></w>
+<no_space_after>1</no_space_after>
+</w>
 <w id="w-wsj2100-001-p1s10W23">
 <token>&amp;</token>
 <no_space_after>1</no_space_after>
@@ -3203,10 +3223,12 @@
 </w>
 <w id="w-wsj2100-001-p1s38W7">
 <token>chtějí</token>
-<no_space_after>1</no_space_after></w>
+<no_space_after>1</no_space_after>
+</w>
 <w id="w-wsj2100-001-p1s38W8">
 <token>-</token>
-<no_space_after>1</no_space_after></w>
+<no_space_after>1</no_space_after>
+</w>
 <w id="w-wsj2100-001-p1s38W9">
 <token>li</token>
 </w>
@@ -3286,10 +3308,12 @@
 </w>
 <w id="w-wsj2100-001-p1s38W33">
 <token>jste</token>
-<no_space_after>1</no_space_after></w>
+<no_space_after>1</no_space_after>
+</w>
 <w id="w-wsj2100-001-p1s38W34">
 <token>-</token>
-<no_space_after>1</no_space_after></w>
+<no_space_after>1</no_space_after>
+</w>
 <w id="w-wsj2100-001-p1s38W35">
 <token>li</token>
 </w>
@@ -3321,10 +3345,12 @@
 </w>
 <w id="w-wsj2100-001-p1s39W1">
 <token>Nezavěsí</token>
-<no_space_after>1</no_space_after></w>
+<no_space_after>1</no_space_after>
+</w>
 <w id="w-wsj2100-001-p1s39W2">
 <token>-</token>
-<no_space_after>1</no_space_after></w>
+<no_space_after>1</no_space_after>
+</w>
 <w id="w-wsj2100-001-p1s39W3">
 <token>li</token>
 </w>
@@ -3336,10 +3362,12 @@
 </w>
 <w id="w-wsj2100-001-p1s39W6">
 <token>oznámí</token>
-<no_space_after>1</no_space_after></w>
+<no_space_after>1</no_space_after>
+</w>
 <w id="w-wsj2100-001-p1s39W7">
 <token>-</token>
-<no_space_after>1</no_space_after></w>
+<no_space_after>1</no_space_after>
+</w>
 <w id="w-wsj2100-001-p1s39W8">
 <token>li</token>
 </w>
@@ -3435,10 +3463,12 @@
 </w>
 <w id="w-wsj2100-001-p1s40W6">
 <token>NBC</token>
-<no_space_after>1</no_space_after></w>
+<no_space_after>1</no_space_after>
+</w>
 <w id="w-wsj2100-001-p1s40W7">
 <token>-</token>
-<no_space_after>1</no_space_after></w>
+<no_space_after>1</no_space_after>
+</w>
 <w id="w-wsj2100-001-p1s40W8">
 <token>TV</token>
 <no_space_after>1</no_space_after>
@@ -4129,10 +4159,12 @@
 </w>
 <w id="w-wsj2100-001-p1s48W4">
 <token>Bude</token>
-<no_space_after>1</no_space_after></w>
+<no_space_after>1</no_space_after>
+</w>
 <w id="w-wsj2100-001-p1s48W5">
 <token>-</token>
-<no_space_after>1</no_space_after></w>
+<no_space_after>1</no_space_after>
+</w>
 <w id="w-wsj2100-001-p1s48W6">
 <token>li</token>
 </w>

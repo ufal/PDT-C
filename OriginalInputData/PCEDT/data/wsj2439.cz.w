@@ -27,10 +27,12 @@
 </w>
 <w id="w-wsj2439-001-p1s0W2">
 <token>Free</token>
-<no_space_after>1</no_space_after></w>
+<no_space_after>1</no_space_after>
+</w>
 <w id="w-wsj2439-001-p1s0W3">
 <token>-</token>
-<no_space_after>1</no_space_after></w>
+<no_space_after>1</no_space_after>
+</w>
 <w id="w-wsj2439-001-p1s0W4">
 <token>McMoRan</token>
 </w>
@@ -155,10 +157,12 @@
 </w>
 <w id="w-wsj2439-001-p1s0W43">
 <token>Freeport</token>
-<no_space_after>1</no_space_after></w>
+<no_space_after>1</no_space_after>
+</w>
 <w id="w-wsj2439-001-p1s0W44">
 <token>-</token>
-<no_space_after>1</no_space_after></w>
+<no_space_after>1</no_space_after>
+</w>
 <w id="w-wsj2439-001-p1s0W45">
 <token>McMoran</token>
 </w>
@@ -451,10 +455,12 @@
 </w>
 <w id="w-wsj2439-001-p1s5W2">
 <token>Freeport</token>
-<no_space_after>1</no_space_after></w>
+<no_space_after>1</no_space_after>
+</w>
 <w id="w-wsj2439-001-p1s5W3">
 <token>-</token>
-<no_space_after>1</no_space_after></w>
+<no_space_after>1</no_space_after>
+</w>
 <w id="w-wsj2439-001-p1s5W4">
 <token>McMoRan</token>
 </w>
@@ -535,10 +541,12 @@
 </w>
 <w id="w-wsj2439-001-p1s6W2">
 <token>Freeport</token>
-<no_space_after>1</no_space_after></w>
+<no_space_after>1</no_space_after>
+</w>
 <w id="w-wsj2439-001-p1s6W3">
 <token>-</token>
-<no_space_after>1</no_space_after></w>
+<no_space_after>1</no_space_after>
+</w>
 <w id="w-wsj2439-001-p1s6W4">
 <token>McMoRan</token>
 </w>

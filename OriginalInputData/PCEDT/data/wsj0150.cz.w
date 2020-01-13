@@ -121,64 +121,92 @@
 </w>
 <w id="w-wsj0150-001-p1s1W1">
 <token>Firma</token>
-</w><w id="w-wsj0150-001-p1s1W2">
+</w>
+<w id="w-wsj0150-001-p1s1W2">
 <token>Primerica</token>
 <no_space_after>1</no_space_after>
-</w><w id="w-wsj0150-001-p1s1W3">
+</w>
+<w id="w-wsj0150-001-p1s1W3">
 <token>,</token>
-</w><w id="w-wsj0150-001-p1s1W4">
+</w>
+<w id="w-wsj0150-001-p1s1W4">
 <token>která</token>
-</w><w id="w-wsj0150-001-p1s1W5">
+</w>
+<w id="w-wsj0150-001-p1s1W5">
 <token>vlastnila</token>
-</w><w id="w-wsj0150-001-p1s1W6">
+</w>
+<w id="w-wsj0150-001-p1s1W6">
 <token>skoro</token>
-</w><w id="w-wsj0150-001-p1s1W7">
+</w>
+<w id="w-wsj0150-001-p1s1W7">
 <token>70</token>
-</w><w id="w-wsj0150-001-p1s1W8">
+</w>
+<w id="w-wsj0150-001-p1s1W8">
 <token>%</token>
-</w><w id="w-wsj0150-001-p1s1W9">
+</w>
+<w id="w-wsj0150-001-p1s1W9">
 <token>společnosti</token>
-</w><w id="w-wsj0150-001-p1s1W10">
+</w>
+<w id="w-wsj0150-001-p1s1W10">
 <token>Williams</token>
 <no_space_after>1</no_space_after>
-</w><w id="w-wsj0150-001-p1s1W11">
+</w>
+<w id="w-wsj0150-001-p1s1W11">
 <token>,</token>
-</w><w id="w-wsj0150-001-p1s1W12">
+</w>
+<w id="w-wsj0150-001-p1s1W12">
 <token>zaplatí</token>
-</w><w id="w-wsj0150-001-p1s1W13">
+</w>
+<w id="w-wsj0150-001-p1s1W13">
 <token>za</token>
-</w><w id="w-wsj0150-001-p1s1W14">
+</w>
+<w id="w-wsj0150-001-p1s1W14">
 <token>zbytek</token>
-</w><w id="w-wsj0150-001-p1s1W15">
+</w>
+<w id="w-wsj0150-001-p1s1W15">
 <token>této</token>
-</w><w id="w-wsj0150-001-p1s1W16">
+</w>
+<w id="w-wsj0150-001-p1s1W16">
 <token>společnosti</token>
-</w><w id="w-wsj0150-001-p1s1W17">
+</w>
+<w id="w-wsj0150-001-p1s1W17">
 <token>asi</token>
-</w><w id="w-wsj0150-001-p1s1W18">
+</w>
+<w id="w-wsj0150-001-p1s1W18">
 <token>16,7</token>
-</w><w id="w-wsj0150-001-p1s1W19">
+</w>
+<w id="w-wsj0150-001-p1s1W19">
 <token>milionu</token>
-</w><w id="w-wsj0150-001-p1s1W20">
+</w>
+<w id="w-wsj0150-001-p1s1W20">
 <token>akcií</token>
-</w><w id="w-wsj0150-001-p1s1W21">
+</w>
+<w id="w-wsj0150-001-p1s1W21">
 <token>aktuálně</token>
-</w><w id="w-wsj0150-001-p1s1W22">
+</w>
+<w id="w-wsj0150-001-p1s1W22">
 <token>ohodnocených</token>
-</w><w id="w-wsj0150-001-p1s1W23">
+</w>
+<w id="w-wsj0150-001-p1s1W23">
 <token>téměř</token>
-</w><w id="w-wsj0150-001-p1s1W24">
+</w>
+<w id="w-wsj0150-001-p1s1W24">
 <token>na</token>
-</w><w id="w-wsj0150-001-p1s1W25">
+</w>
+<w id="w-wsj0150-001-p1s1W25">
 <token>472</token>
-</w><w id="w-wsj0150-001-p1s1W26">
+</w>
+<w id="w-wsj0150-001-p1s1W26">
 <token>milionů</token>
-</w><w id="w-wsj0150-001-p1s1W27">
+</w>
+<w id="w-wsj0150-001-p1s1W27">
 <token>dolarů</token>
 <no_space_after>1</no_space_after>
-</w><w id="w-wsj0150-001-p1s1W28">
+</w>
+<w id="w-wsj0150-001-p1s1W28">
 <token>.</token>
-</w><w id="w-wsj0150-001-p1s2W1">
+</w>
+<w id="w-wsj0150-001-p1s2W1">
 <token>Tato</token>
 </w>
 <w id="w-wsj0150-001-p1s2W2">

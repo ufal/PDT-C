@@ -453,64 +453,92 @@
 </w>
 <w id="w-wsj2336-001-p1s5W1">
 <token>V</token>
-</w><w id="w-wsj2336-001-p1s5W2">
+</w>
+<w id="w-wsj2336-001-p1s5W2">
 <token>ročním</token>
-</w><w id="w-wsj2336-001-p1s5W3">
+</w>
+<w id="w-wsj2336-001-p1s5W3">
 <token>období</token>
-</w><w id="w-wsj2336-001-p1s5W4">
+</w>
+<w id="w-wsj2336-001-p1s5W4">
 <token>končícím</token>
-</w><w id="w-wsj2336-001-p1s5W5">
+</w>
+<w id="w-wsj2336-001-p1s5W5">
 <token>31</token>
 <no_space_after>1</no_space_after>
-</w><w id="w-wsj2336-001-p1s5W6">
+</w>
+<w id="w-wsj2336-001-p1s5W6">
 <token>.</token>
-</w><w id="w-wsj2336-001-p1s5W7">
+</w>
+<w id="w-wsj2336-001-p1s5W7">
 <token>srpna</token>
-</w><w id="w-wsj2336-001-p1s5W8">
+</w>
+<w id="w-wsj2336-001-p1s5W8">
 <token>1988</token>
-</w><w id="w-wsj2336-001-p1s5W9">
+</w>
+<w id="w-wsj2336-001-p1s5W9">
 <token>vydělala</token>
-</w><w id="w-wsj2336-001-p1s5W10">
+</w>
+<w id="w-wsj2336-001-p1s5W10">
 <token>společnost</token>
-</w><w id="w-wsj2336-001-p1s5W11">
+</w>
+<w id="w-wsj2336-001-p1s5W11">
 <token>MedChem</token>
-</w><w id="w-wsj2336-001-p1s5W12">
+</w>
+<w id="w-wsj2336-001-p1s5W12">
 <token>při</token>
-</w><w id="w-wsj2336-001-p1s5W13">
+</w>
+<w id="w-wsj2336-001-p1s5W13">
 <token>tržbě</token>
-</w><w id="w-wsj2336-001-p1s5W14">
+</w>
+<w id="w-wsj2336-001-p1s5W14">
 <token>ve</token>
-</w><w id="w-wsj2336-001-p1s5W15">
+</w>
+<w id="w-wsj2336-001-p1s5W15">
 <token>výši</token>
-</w><w id="w-wsj2336-001-p1s5W16">
+</w>
+<w id="w-wsj2336-001-p1s5W16">
 <token>17,4</token>
-</w><w id="w-wsj2336-001-p1s5W17">
+</w>
+<w id="w-wsj2336-001-p1s5W17">
 <token>milionu</token>
-</w><w id="w-wsj2336-001-p1s5W18">
+</w>
+<w id="w-wsj2336-001-p1s5W18">
 <token>dolarů</token>
-</w><w id="w-wsj2336-001-p1s5W19">
+</w>
+<w id="w-wsj2336-001-p1s5W19">
 <token>2,9</token>
-</w><w id="w-wsj2336-001-p1s5W20">
+</w>
+<w id="w-wsj2336-001-p1s5W20">
 <token>milionu</token>
-</w><w id="w-wsj2336-001-p1s5W21">
+</w>
+<w id="w-wsj2336-001-p1s5W21">
 <token>dolarů</token>
 <no_space_after>1</no_space_after>
-</w><w id="w-wsj2336-001-p1s5W22">
+</w>
+<w id="w-wsj2336-001-p1s5W22">
 <token>,</token>
-</w><w id="w-wsj2336-001-p1s5W23">
+</w>
+<w id="w-wsj2336-001-p1s5W23">
 <token>neboli</token>
-</w><w id="w-wsj2336-001-p1s5W24">
+</w>
+<w id="w-wsj2336-001-p1s5W24">
 <token>72</token>
-</w><w id="w-wsj2336-001-p1s5W25">
+</w>
+<w id="w-wsj2336-001-p1s5W25">
 <token>centů</token>
-</w><w id="w-wsj2336-001-p1s5W26">
+</w>
+<w id="w-wsj2336-001-p1s5W26">
 <token>na</token>
-</w><w id="w-wsj2336-001-p1s5W27">
+</w>
+<w id="w-wsj2336-001-p1s5W27">
 <token>akcii</token>
 <no_space_after>1</no_space_after>
-</w><w id="w-wsj2336-001-p1s5W28">
+</w>
+<w id="w-wsj2336-001-p1s5W28">
 <token>.</token>
-</w><w id="w-wsj2336-001-p1s6W1">
+</w>
+<w id="w-wsj2336-001-p1s6W1">
 <token>Společnost</token>
 </w>
 <w id="w-wsj2336-001-p1s6W2">

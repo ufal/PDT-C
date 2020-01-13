@@ -297,32 +297,45 @@
 </w>
 <w id="w-wsj2410-001-p1s3W1">
 <token>Bylo</token>
-</w><w id="w-wsj2410-001-p1s3W2">
+</w>
+<w id="w-wsj2410-001-p1s3W2">
 <token>by</token>
-</w><w id="w-wsj2410-001-p1s3W3">
+</w>
+<w id="w-wsj2410-001-p1s3W3">
 <token>to</token>
-</w><w id="w-wsj2410-001-p1s3W4">
+</w>
+<w id="w-wsj2410-001-p1s3W4">
 <token>snížení</token>
-</w><w id="w-wsj2410-001-p1s3W5">
+</w>
+<w id="w-wsj2410-001-p1s3W5">
 <token>z</token>
-</w><w id="w-wsj2410-001-p1s3W6">
+</w>
+<w id="w-wsj2410-001-p1s3W6">
 <token>3,8</token>
 <no_space_after>1</no_space_after>
-</w><w id="w-wsj2410-001-p1s3W7">
+</w>
+<w id="w-wsj2410-001-p1s3W7">
 <token>%</token>
-</w><w id="w-wsj2410-001-p1s3W8">
+</w>
+<w id="w-wsj2410-001-p1s3W8">
 <token>růstu</token>
-</w><w id="w-wsj2410-001-p1s3W9">
+</w>
+<w id="w-wsj2410-001-p1s3W9">
 <token>uváděného</token>
-</w><w id="w-wsj2410-001-p1s3W10">
+</w>
+<w id="w-wsj2410-001-p1s3W10">
 <token>v</token>
-</w><w id="w-wsj2410-001-p1s3W11">
+</w>
+<w id="w-wsj2410-001-p1s3W11">
 <token>roce</token>
-</w><w id="w-wsj2410-001-p1s3W12">
+</w>
+<w id="w-wsj2410-001-p1s3W12">
 <token>1988</token>
 <no_space_after>1</no_space_after>
-</w><w id="w-wsj2410-001-p1s3W13">
+</w>
+<w id="w-wsj2410-001-p1s3W13">
 <token>.</token>
-</w></para>
+</w>
+</para>
 </doc>
 </wdata>

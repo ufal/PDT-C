@@ -24,79 +24,114 @@
 <othermarkup origin="csts/doc/p/@n">1</othermarkup>
 <w id="w-wsj0175-001-p1s0W1">
 <token>Společnost</token>
-</w><w id="w-wsj0175-001-p1s0W2">
+</w>
+<w id="w-wsj0175-001-p1s0W2">
 <token>Sony</token>
-</w><w id="w-wsj0175-001-p1s0W3">
+</w>
+<w id="w-wsj0175-001-p1s0W3">
 <token>Corp</token>
 <no_space_after>1</no_space_after>
-</w><w id="w-wsj0175-001-p1s0W4">
+</w>
+<w id="w-wsj0175-001-p1s0W4">
 <token>.</token>
-</w><w id="w-wsj0175-001-p1s0W5">
+</w>
+<w id="w-wsj0175-001-p1s0W5">
 <token>potvrdila</token>
-</w><w id="w-wsj0175-001-p1s0W6">
+</w>
+<w id="w-wsj0175-001-p1s0W6">
 <token>svou</token>
-</w><w id="w-wsj0175-001-p1s0W7">
+</w>
+<w id="w-wsj0175-001-p1s0W7">
 <token>veřejnou</token>
-</w><w id="w-wsj0175-001-p1s0W8">
+</w>
+<w id="w-wsj0175-001-p1s0W8">
 <token>nabídku</token>
-</w><w id="w-wsj0175-001-p1s0W9">
+</w>
+<w id="w-wsj0175-001-p1s0W9">
 <token>na</token>
-</w><w id="w-wsj0175-001-p1s0W10">
+</w>
+<w id="w-wsj0175-001-p1s0W10">
 <token>společnost</token>
-</w><w id="w-wsj0175-001-p1s0W11">
+</w>
+<w id="w-wsj0175-001-p1s0W11">
 <token>Columbia</token>
-</w><w id="w-wsj0175-001-p1s0W12">
+</w>
+<w id="w-wsj0175-001-p1s0W12">
 <token>Pictures</token>
-</w><w id="w-wsj0175-001-p1s0W13">
+</w>
+<w id="w-wsj0175-001-p1s0W13">
 <token>Entertainment</token>
-</w><w id="w-wsj0175-001-p1s0W14">
+</w>
+<w id="w-wsj0175-001-p1s0W14">
 <token>Inc</token>
 <no_space_after>1</no_space_after>
-</w><w id="w-wsj0175-001-p1s0W15">
+</w>
+<w id="w-wsj0175-001-p1s0W15">
 <token>.</token>
 <no_space_after>1</no_space_after>
-</w><w id="w-wsj0175-001-p1s0W16">
+</w>
+<w id="w-wsj0175-001-p1s0W16">
 <token>,</token>
-</w><w id="w-wsj0175-001-p1s0W17">
+</w>
+<w id="w-wsj0175-001-p1s0W17">
 <token>přičemž</token>
-</w><w id="w-wsj0175-001-p1s0W18">
+</w>
+<w id="w-wsj0175-001-p1s0W18">
 <token>akcionáři</token>
-</w><w id="w-wsj0175-001-p1s0W19">
+</w>
+<w id="w-wsj0175-001-p1s0W19">
 <token>společnosti</token>
-</w><w id="w-wsj0175-001-p1s0W20">
+</w>
+<w id="w-wsj0175-001-p1s0W20">
 <token>Columbia</token>
-</w><w id="w-wsj0175-001-p1s0W21">
+</w>
+<w id="w-wsj0175-001-p1s0W21">
 <token>oficiálně</token>
-</w><w id="w-wsj0175-001-p1s0W22">
+</w>
+<w id="w-wsj0175-001-p1s0W22">
 <token>nabízejí</token>
-</w><w id="w-wsj0175-001-p1s0W23">
+</w>
+<w id="w-wsj0175-001-p1s0W23">
 <token>99,3</token>
-</w><w id="w-wsj0175-001-p1s0W24">
+</w>
+<w id="w-wsj0175-001-p1s0W24">
 <token>%</token>
-</w><w id="w-wsj0175-001-p1s0W25">
+</w>
+<w id="w-wsj0175-001-p1s0W25">
 <token>všech</token>
-</w><w id="w-wsj0175-001-p1s0W26">
+</w>
+<w id="w-wsj0175-001-p1s0W26">
 <token>kmenových</token>
-</w><w id="w-wsj0175-001-p1s0W27">
+</w>
+<w id="w-wsj0175-001-p1s0W27">
 <token>akcií</token>
-</w><w id="w-wsj0175-001-p1s0W28">
+</w>
+<w id="w-wsj0175-001-p1s0W28">
 <token>společnosti</token>
-</w><w id="w-wsj0175-001-p1s0W29">
+</w>
+<w id="w-wsj0175-001-p1s0W29">
 <token>a</token>
-</w><w id="w-wsj0175-001-p1s0W30">
+</w>
+<w id="w-wsj0175-001-p1s0W30">
 <token>nabídka</token>
-</w><w id="w-wsj0175-001-p1s0W31">
+</w>
+<w id="w-wsj0175-001-p1s0W31">
 <token>je</token>
-</w><w id="w-wsj0175-001-p1s0W32">
+</w>
+<w id="w-wsj0175-001-p1s0W32">
 <token>otevřená</token>
-</w><w id="w-wsj0175-001-p1s0W33">
+</w>
+<w id="w-wsj0175-001-p1s0W33">
 <token>do</token>
-</w><w id="w-wsj0175-001-p1s0W34">
+</w>
+<w id="w-wsj0175-001-p1s0W34">
 <token>úterý</token>
 <no_space_after>1</no_space_after>
-</w><w id="w-wsj0175-001-p1s0W35">
+</w>
+<w id="w-wsj0175-001-p1s0W35">
 <token>.</token>
-</w><w id="w-wsj0175-001-p1s1W1">
+</w>
+<w id="w-wsj0175-001-p1s1W1">
 <token>Mluvčí</token>
 </w>
 <w id="w-wsj0175-001-p1s1W2">
@@ -316,41 +351,57 @@
 </w>
 <w id="w-wsj0175-001-p1s4W1">
 <token>Akvizice</token>
-</w><w id="w-wsj0175-001-p1s4W2">
+</w>
+<w id="w-wsj0175-001-p1s4W2">
 <token>společnosti</token>
-</w><w id="w-wsj0175-001-p1s4W3">
+</w>
+<w id="w-wsj0175-001-p1s4W3">
 <token>Guber</token>
 <no_space_after>1</no_space_after>
-</w><w id="w-wsj0175-001-p1s4W4">
+</w>
+<w id="w-wsj0175-001-p1s4W4">
 <token>/</token>
 <no_space_after>1</no_space_after>
-</w><w id="w-wsj0175-001-p1s4W5">
+</w>
+<w id="w-wsj0175-001-p1s4W5">
 <token>Peters</token>
-</w><w id="w-wsj0175-001-p1s4W6">
+</w>
+<w id="w-wsj0175-001-p1s4W6">
 <token>Entertainment</token>
-</w><w id="w-wsj0175-001-p1s4W7">
+</w>
+<w id="w-wsj0175-001-p1s4W7">
 <token>Co</token>
 <no_space_after>1</no_space_after>
-</w><w id="w-wsj0175-001-p1s4W8">
+</w>
+<w id="w-wsj0175-001-p1s4W8">
 <token>.</token>
-</w><w id="w-wsj0175-001-p1s4W9">
+</w>
+<w id="w-wsj0175-001-p1s4W9">
 <token>plánovaná</token>
-</w><w id="w-wsj0175-001-p1s4W10">
+</w>
+<w id="w-wsj0175-001-p1s4W10">
 <token>společností</token>
-</w><w id="w-wsj0175-001-p1s4W11">
+</w>
+<w id="w-wsj0175-001-p1s4W11">
 <token>Sony</token>
-</w><w id="w-wsj0175-001-p1s4W12">
+</w>
+<w id="w-wsj0175-001-p1s4W12">
 <token>je</token>
-</w><w id="w-wsj0175-001-p1s4W13">
+</w>
+<w id="w-wsj0175-001-p1s4W13">
 <token>stanovena</token>
-</w><w id="w-wsj0175-001-p1s4W14">
+</w>
+<w id="w-wsj0175-001-p1s4W14">
 <token>na</token>
-</w><w id="w-wsj0175-001-p1s4W15">
+</w>
+<w id="w-wsj0175-001-p1s4W15">
 <token>pondělí</token>
 <no_space_after>1</no_space_after>
-</w><w id="w-wsj0175-001-p1s4W16">
+</w>
+<w id="w-wsj0175-001-p1s4W16">
 <token>.</token>
-</w><w id="w-wsj0175-001-p1s5W1">
+</w>
+<w id="w-wsj0175-001-p1s5W1">
 <token>Společnost</token>
 </w>
 <w id="w-wsj0175-001-p1s5W2">

@@ -1412,10 +1412,12 @@
 </w>
 <w id="w-wsj2432-001-p1s24W6">
 <token>Thomson</token>
-<no_space_after>1</no_space_after></w>
+<no_space_after>1</no_space_after>
+</w>
 <w id="w-wsj2432-001-p1s24W7">
 <token>-</token>
-<no_space_after>1</no_space_after></w>
+<no_space_after>1</no_space_after>
+</w>
 <w id="w-wsj2432-001-p1s24W8">
 <token>CSF</token>
 </w>
@@ -1554,7 +1556,8 @@
 </w>
 <w id="w-wsj2432-001-p1s27W7">
 <token>S</token>
-<no_space_after>1</no_space_after></w>
+<no_space_after>1</no_space_after>
+</w>
 <w id="w-wsj2432-001-p1s27W8">
 <token>&amp;</token>
 <no_space_after>1</no_space_after>

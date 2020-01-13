@@ -199,43 +199,61 @@
 </w>
 <w id="w-wsj1849-001-p1s3W1">
 <token>Po</token>
-</w><w id="w-wsj1849-001-p1s3W2">
+</w>
+<w id="w-wsj1849-001-p1s3W2">
 <token>zemětřesení</token>
-</w><w id="w-wsj1849-001-p1s3W3">
+</w>
+<w id="w-wsj1849-001-p1s3W3">
 <token>jižně</token>
-</w><w id="w-wsj1849-001-p1s3W4">
+</w>
+<w id="w-wsj1849-001-p1s3W4">
 <token>od</token>
-</w><w id="w-wsj1849-001-p1s3W5">
+</w>
+<w id="w-wsj1849-001-p1s3W5">
 <token>San</token>
-</w><w id="w-wsj1849-001-p1s3W6">
+</w>
+<w id="w-wsj1849-001-p1s3W6">
 <token>Francisca</token>
-</w><w id="w-wsj1849-001-p1s3W7">
+</w>
+<w id="w-wsj1849-001-p1s3W7">
 <token>se</token>
-</w><w id="w-wsj1849-001-p1s3W8">
+</w>
+<w id="w-wsj1849-001-p1s3W8">
 <token>nabízí</token>
-</w><w id="w-wsj1849-001-p1s3W9">
+</w>
+<w id="w-wsj1849-001-p1s3W9">
 <token>rozsáhlejší</token>
-</w><w id="w-wsj1849-001-p1s3W10">
+</w>
+<w id="w-wsj1849-001-p1s3W10">
 <token>paralela</token>
 <no_space_after>1</no_space_after>
-</w><w id="w-wsj1849-001-p1s3W11">
+</w>
+<w id="w-wsj1849-001-p1s3W11">
 <token>,</token>
-</w><w id="w-wsj1849-001-p1s3W12">
+</w>
+<w id="w-wsj1849-001-p1s3W12">
 <token>a</token>
-</w><w id="w-wsj1849-001-p1s3W13">
+</w>
+<w id="w-wsj1849-001-p1s3W13">
 <token>sice</token>
-</w><w id="w-wsj1849-001-p1s3W14">
+</w>
+<w id="w-wsj1849-001-p1s3W14">
 <token>se</token>
-</w><w id="w-wsj1849-001-p1s3W15">
+</w>
+<w id="w-wsj1849-001-p1s3W15">
 <token>stavem</token>
-</w><w id="w-wsj1849-001-p1s3W16">
+</w>
+<w id="w-wsj1849-001-p1s3W16">
 <token>americké</token>
-</w><w id="w-wsj1849-001-p1s3W17">
+</w>
+<w id="w-wsj1849-001-p1s3W17">
 <token>ekonomiky</token>
 <no_space_after>1</no_space_after>
-</w><w id="w-wsj1849-001-p1s3W18">
+</w>
+<w id="w-wsj1849-001-p1s3W18">
 <token>.</token>
-</w><w id="w-wsj1849-001-p1s4W1">
+</w>
+<w id="w-wsj1849-001-p1s4W1">
 <token>Byly</token>
 </w>
 <w id="w-wsj1849-001-p1s4W2">
@@ -3562,7 +3580,8 @@
 </w>
 <w id="w-wsj1849-001-p1s52W5">
 <token>S</token>
-<no_space_after>1</no_space_after></w>
+<no_space_after>1</no_space_after>
+</w>
 <w id="w-wsj1849-001-p1s52W6">
 <token>&amp;</token>
 <no_space_after>1</no_space_after>

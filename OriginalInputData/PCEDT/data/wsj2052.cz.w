@@ -1203,10 +1203,12 @@
 </w>
 <w id="w-wsj2052-001-p1s20W12">
 <token>T</token>
-<no_space_after>1</no_space_after></w>
+<no_space_after>1</no_space_after>
+</w>
 <w id="w-wsj2052-001-p1s20W13">
 <token>-</token>
-<no_space_after>1</no_space_after></w>
+<no_space_after>1</no_space_after>
+</w>
 <w id="w-wsj2052-001-p1s20W14">
 <token>72</token>
 </w>
@@ -1344,10 +1346,12 @@
 </w>
 <w id="w-wsj2052-001-p1s22W8">
 <token>FROG</token>
-<no_space_after>1</no_space_after></w>
+<no_space_after>1</no_space_after>
+</w>
 <w id="w-wsj2052-001-p1s22W9">
 <token>-</token>
-<no_space_after>1</no_space_after></w>
+<no_space_after>1</no_space_after>
+</w>
 <w id="w-wsj2052-001-p1s22W10">
 <token>7B</token>
 <no_space_after>1</no_space_after>
@@ -1357,10 +1361,12 @@
 </w>
 <w id="w-wsj2052-001-p1s22W12">
 <token>An</token>
-<no_space_after>1</no_space_after></w>
+<no_space_after>1</no_space_after>
+</w>
 <w id="w-wsj2052-001-p1s22W13">
 <token>-</token>
-<no_space_after>1</no_space_after></w>
+<no_space_after>1</no_space_after>
+</w>
 <w id="w-wsj2052-001-p1s22W14">
 <token>12</token>
 </w>
@@ -1385,10 +1391,12 @@
 </w>
 <w id="w-wsj2052-001-p1s22W21">
 <token>MiG</token>
-<no_space_after>1</no_space_after></w>
+<no_space_after>1</no_space_after>
+</w>
 <w id="w-wsj2052-001-p1s22W22">
 <token>-</token>
-<no_space_after>1</no_space_after></w>
+<no_space_after>1</no_space_after>
+</w>
 <w id="w-wsj2052-001-p1s22W23">
 <token>23BN</token>
 <no_space_after>1</no_space_after>
@@ -1401,10 +1409,12 @@
 </w>
 <w id="w-wsj2052-001-p1s22W26">
 <token>MiG</token>
-<no_space_after>1</no_space_after></w>
+<no_space_after>1</no_space_after>
+</w>
 <w id="w-wsj2052-001-p1s22W27">
 <token>-</token>
-<no_space_after>1</no_space_after></w>
+<no_space_after>1</no_space_after>
+</w>
 <w id="w-wsj2052-001-p1s22W28">
 <token>29</token>
 <no_space_after>1</no_space_after>
@@ -1459,10 +1469,12 @@
 </w>
 <w id="w-wsj2052-001-p1s22W45">
 <token>SU</token>
-<no_space_after>1</no_space_after></w>
+<no_space_after>1</no_space_after>
+</w>
 <w id="w-wsj2052-001-p1s22W46">
 <token>-</token>
-<no_space_after>1</no_space_after></w>
+<no_space_after>1</no_space_after>
+</w>
 <w id="w-wsj2052-001-p1s22W47">
 <token>27</token>
 <no_space_after>1</no_space_after>
@@ -1490,10 +1502,12 @@
 </w>
 <w id="w-wsj2052-001-p1s22W55">
 <token>MiG</token>
-<no_space_after>1</no_space_after></w>
+<no_space_after>1</no_space_after>
+</w>
 <w id="w-wsj2052-001-p1s22W56">
 <token>-</token>
-<no_space_after>1</no_space_after></w>
+<no_space_after>1</no_space_after>
+</w>
 <w id="w-wsj2052-001-p1s22W57">
 <token>29</token>
 <no_space_after>1</no_space_after>

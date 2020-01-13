@@ -93,51 +93,73 @@
 </w>
 <w id="w-wsj0126-001-p1s1W1">
 <token>Je</token>
-</w><w id="w-wsj0126-001-p1s1W2">
+</w>
+<w id="w-wsj0126-001-p1s1W2">
 <token>to</token>
-</w><w id="w-wsj0126-001-p1s1W3">
+</w>
+<w id="w-wsj0126-001-p1s1W3">
 <token>zapálený</token>
-</w><w id="w-wsj0126-001-p1s1W4">
+</w>
+<w id="w-wsj0126-001-p1s1W4">
 <token>fanoušek</token>
-</w><w id="w-wsj0126-001-p1s1W5">
+</w>
+<w id="w-wsj0126-001-p1s1W5">
 <token>návrhu</token>
-</w><w id="w-wsj0126-001-p1s1W6">
+</w>
+<w id="w-wsj0126-001-p1s1W6">
 <token>na</token>
-</w><w id="w-wsj0126-001-p1s1W7">
+</w>
+<w id="w-wsj0126-001-p1s1W7">
 <token>hlasování</token>
-</w><w id="w-wsj0126-001-p1s1W8">
+</w>
+<w id="w-wsj0126-001-p1s1W8">
 <token>o</token>
-</w><w id="w-wsj0126-001-p1s1W9">
+</w>
+<w id="w-wsj0126-001-p1s1W9">
 <token>pomoci</token>
-</w><w id="w-wsj0126-001-p1s1W10">
+</w>
+<w id="w-wsj0126-001-p1s1W10">
 <token>výstavbě</token>
-</w><w id="w-wsj0126-001-p1s1W11">
+</w>
+<w id="w-wsj0126-001-p1s1W11">
 <token>náhrady</token>
-</w><w id="w-wsj0126-001-p1s1W12">
+</w>
+<w id="w-wsj0126-001-p1s1W12">
 <token>za</token>
-</w><w id="w-wsj0126-001-p1s1W13">
+</w>
+<w id="w-wsj0126-001-p1s1W13">
 <token>Candlestick</token>
-</w><w id="w-wsj0126-001-p1s1W14">
+</w>
+<w id="w-wsj0126-001-p1s1W14">
 <token>Park</token>
 <no_space_after>1</no_space_after>
-</w><w id="w-wsj0126-001-p1s1W15">
+</w>
+<w id="w-wsj0126-001-p1s1W15">
 <token>,</token>
-</w><w id="w-wsj0126-001-p1s1W16">
+</w>
+<w id="w-wsj0126-001-p1s1W16">
 <token>které</token>
-</w><w id="w-wsj0126-001-p1s1W17">
+</w>
+<w id="w-wsj0126-001-p1s1W17">
 <token>by</token>
-</w><w id="w-wsj0126-001-p1s1W18">
+</w>
+<w id="w-wsj0126-001-p1s1W18">
 <token>mělo</token>
-</w><w id="w-wsj0126-001-p1s1W19">
+</w>
+<w id="w-wsj0126-001-p1s1W19">
 <token>proběhnout</token>
-</w><w id="w-wsj0126-001-p1s1W20">
+</w>
+<w id="w-wsj0126-001-p1s1W20">
 <token>příští</token>
-</w><w id="w-wsj0126-001-p1s1W21">
+</w>
+<w id="w-wsj0126-001-p1s1W21">
 <token>týden</token>
 <no_space_after>1</no_space_after>
-</w><w id="w-wsj0126-001-p1s1W22">
+</w>
+<w id="w-wsj0126-001-p1s1W22">
 <token>.</token>
-</w><w id="w-wsj0126-001-p1s2W1">
+</w>
+<w id="w-wsj0126-001-p1s2W1">
 <token>Malý</token>
 </w>
 <w id="w-wsj0126-001-p1s2W2">
@@ -685,10 +707,12 @@
 </w>
 <w id="w-wsj0126-001-p1s11W20">
 <token>mega</token>
-<no_space_after>1</no_space_after></w>
+<no_space_after>1</no_space_after>
+</w>
 <w id="w-wsj0126-001-p1s11W21">
 <token>-</token>
-<no_space_after>1</no_space_after></w>
+<no_space_after>1</no_space_after>
+</w>
 <w id="w-wsj0126-001-p1s11W22">
 <token>stadionu</token>
 <no_space_after>1</no_space_after>

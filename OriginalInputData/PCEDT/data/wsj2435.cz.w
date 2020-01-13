@@ -73,10 +73,12 @@
 </w>
 <w id="w-wsj2435-001-p1s0W17">
 <token>join</token>
-<no_space_after>1</no_space_after></w>
+<no_space_after>1</no_space_after>
+</w>
 <w id="w-wsj2435-001-p1s0W18">
 <token>-</token>
-<no_space_after>1</no_space_after></w>
+<no_space_after>1</no_space_after>
+</w>
 <w id="w-wsj2435-001-p1s0W19">
 <token>venture</token>
 </w>

@@ -1151,10 +1151,12 @@
 </w>
 <w id="w-wsj2429-001-p1s15W8">
 <token>vezmeme</token>
-<no_space_after>1</no_space_after></w>
+<no_space_after>1</no_space_after>
+</w>
 <w id="w-wsj2429-001-p1s15W9">
 <token>-</token>
-<no_space_after>1</no_space_after></w>
+<no_space_after>1</no_space_after>
+</w>
 <w id="w-wsj2429-001-p1s15W10">
 <token>li</token>
 </w>

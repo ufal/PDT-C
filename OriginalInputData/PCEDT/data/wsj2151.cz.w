@@ -502,10 +502,12 @@
 </w>
 <w id="w-wsj2151-001-p1s7W7">
 <token>irsko</token>
-<no_space_after>1</no_space_after></w>
+<no_space_after>1</no_space_after>
+</w>
 <w id="w-wsj2151-001-p1s7W8">
 <token>-</token>
-<no_space_after>1</no_space_after></w>
+<no_space_after>1</no_space_after>
+</w>
 <w id="w-wsj2151-001-p1s7W9">
 <token>sovětské</token>
 </w>
@@ -584,10 +586,12 @@
 </w>
 <w id="w-wsj2151-001-p1s10W1">
 <token>Irsko</token>
-<no_space_after>1</no_space_after></w>
+<no_space_after>1</no_space_after>
+</w>
 <w id="w-wsj2151-001-p1s10W2">
 <token>-</token>
-<no_space_after>1</no_space_after></w>
+<no_space_after>1</no_space_after>
+</w>
 <w id="w-wsj2151-001-p1s10W3">
 <token>sovětské</token>
 </w>
@@ -1827,10 +1831,12 @@
 </w>
 <w id="w-wsj2151-001-p1s32W17">
 <token>sovětsko</token>
-<no_space_after>1</no_space_after></w>
+<no_space_after>1</no_space_after>
+</w>
 <w id="w-wsj2151-001-p1s32W18">
 <token>-</token>
-<no_space_after>1</no_space_after></w>
+<no_space_after>1</no_space_after>
+</w>
 <w id="w-wsj2151-001-p1s32W19">
 <token>finskou</token>
 </w>

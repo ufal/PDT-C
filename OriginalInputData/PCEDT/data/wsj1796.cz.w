@@ -255,10 +255,12 @@
 </w>
 <w id="w-wsj1796-001-p1s3W1">
 <token>Nezapočítáme</token>
-<no_space_after>1</no_space_after></w>
+<no_space_after>1</no_space_after>
+</w>
 <w id="w-wsj1796-001-p1s3W2">
 <token>-</token>
-<no_space_after>1</no_space_after></w>
+<no_space_after>1</no_space_after>
+</w>
 <w id="w-wsj1796-001-p1s3W3">
 <token>li</token>
 </w>

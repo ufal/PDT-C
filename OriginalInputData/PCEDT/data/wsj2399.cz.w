@@ -529,62 +529,89 @@
 </w>
 <w id="w-wsj2399-001-p1s7W1">
 <token>Tato</token>
-</w><w id="w-wsj2399-001-p1s7W2">
+</w>
+<w id="w-wsj2399-001-p1s7W2">
 <token>nevypověditelná</token>
-</w><w id="w-wsj2399-001-p1s7W3">
+</w>
+<w id="w-wsj2399-001-p1s7W3">
 <token>emise</token>
 <no_space_after>1</no_space_after>
-</w><w id="w-wsj2399-001-p1s7W4">
+</w>
+<w id="w-wsj2399-001-p1s7W4">
 <token>,</token>
-</w><w id="w-wsj2399-001-p1s7W5">
+</w>
+<w id="w-wsj2399-001-p1s7W5">
 <token>která</token>
-</w><w id="w-wsj2399-001-p1s7W6">
+</w>
+<w id="w-wsj2399-001-p1s7W6">
 <token>může</token>
-</w><w id="w-wsj2399-001-p1s7W7">
+</w>
+<w id="w-wsj2399-001-p1s7W7">
 <token>být</token>
-</w><w id="w-wsj2399-001-p1s7W8">
+</w>
+<w id="w-wsj2399-001-p1s7W8">
 <token>vrácena</token>
-</w><w id="w-wsj2399-001-p1s7W9">
+</w>
+<w id="w-wsj2399-001-p1s7W9">
 <token>zpět</token>
-</w><w id="w-wsj2399-001-p1s7W10">
+</w>
+<w id="w-wsj2399-001-p1s7W10">
 <token>do</token>
-</w><w id="w-wsj2399-001-p1s7W11">
+</w>
+<w id="w-wsj2399-001-p1s7W11">
 <token>společnosti</token>
-</w><w id="w-wsj2399-001-p1s7W12">
+</w>
+<w id="w-wsj2399-001-p1s7W12">
 <token>v</token>
-</w><w id="w-wsj2399-001-p1s7W13">
+</w>
+<w id="w-wsj2399-001-p1s7W13">
 <token>roce</token>
-</w><w id="w-wsj2399-001-p1s7W14">
+</w>
+<w id="w-wsj2399-001-p1s7W14">
 <token>1999</token>
 <no_space_after>1</no_space_after>
-</w><w id="w-wsj2399-001-p1s7W15">
+</w>
+<w id="w-wsj2399-001-p1s7W15">
 <token>,</token>
-</w><w id="w-wsj2399-001-p1s7W16">
+</w>
+<w id="w-wsj2399-001-p1s7W16">
 <token>byla</token>
-</w><w id="w-wsj2399-001-p1s7W17">
+</w>
+<w id="w-wsj2399-001-p1s7W17">
 <token>oceněna</token>
-</w><w id="w-wsj2399-001-p1s7W18">
+</w>
+<w id="w-wsj2399-001-p1s7W18">
 <token>na</token>
-</w><w id="w-wsj2399-001-p1s7W19">
+</w>
+<w id="w-wsj2399-001-p1s7W19">
 <token>99</token>
-</w><w id="w-wsj2399-001-p1s7W20">
+</w>
+<w id="w-wsj2399-001-p1s7W20">
 <token>základních</token>
-</w><w id="w-wsj2399-001-p1s7W21">
+</w>
+<w id="w-wsj2399-001-p1s7W21">
 <token>bodů</token>
-</w><w id="w-wsj2399-001-p1s7W22">
+</w>
+<w id="w-wsj2399-001-p1s7W22">
 <token>nad</token>
-</w><w id="w-wsj2399-001-p1s7W23">
+</w>
+<w id="w-wsj2399-001-p1s7W23">
 <token>10letými</token>
-</w><w id="w-wsj2399-001-p1s7W24">
+</w>
+<w id="w-wsj2399-001-p1s7W24">
 <token>státními</token>
-</w><w id="w-wsj2399-001-p1s7W25">
+</w>
+<w id="w-wsj2399-001-p1s7W25">
 <token>pokladničními</token>
-</w><w id="w-wsj2399-001-p1s7W26">
+</w>
+<w id="w-wsj2399-001-p1s7W26">
 <token>poukázkami</token>
 <no_space_after>1</no_space_after>
-</w><w id="w-wsj2399-001-p1s7W27">
+</w>
+<w id="w-wsj2399-001-p1s7W27">
 <token>.</token>
-</w><w id="w-wsj2399-001-p1s8W1">
+</w>
+<w id="w-wsj2399-001-p1s8W1">
 <token>Emise</token>
 <no_space_after>1</no_space_after>
 </w>

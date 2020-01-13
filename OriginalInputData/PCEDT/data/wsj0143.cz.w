@@ -24,50 +24,71 @@
 <othermarkup origin="csts/doc/p/@n">1</othermarkup>
 <w id="w-wsj0143-001-p1s0W1">
 <token>Společnost</token>
-</w><w id="w-wsj0143-001-p1s0W2">
+</w>
+<w id="w-wsj0143-001-p1s0W2">
 <token>Standard</token>
-</w><w id="w-wsj0143-001-p1s0W3">
+</w>
+<w id="w-wsj0143-001-p1s0W3">
 <token>&amp;</token>
-</w><w id="w-wsj0143-001-p1s0W4">
+</w>
+<w id="w-wsj0143-001-p1s0W4">
 <token>Poor</token>
 <no_space_after>1</no_space_after>
-</w><w id="w-wsj0143-001-p1s0W5">
+</w>
+<w id="w-wsj0143-001-p1s0W5">
 <token>'</token>
 <no_space_after>1</no_space_after>
-</w><w id="w-wsj0143-001-p1s0W6">
+</w>
+<w id="w-wsj0143-001-p1s0W6">
 <token>s</token>
-</w><w id="w-wsj0143-001-p1s0W7">
+</w>
+<w id="w-wsj0143-001-p1s0W7">
 <token>snížila</token>
-</w><w id="w-wsj0143-001-p1s0W8">
+</w>
+<w id="w-wsj0143-001-p1s0W8">
 <token>u</token>
-</w><w id="w-wsj0143-001-p1s0W9">
+</w>
+<w id="w-wsj0143-001-p1s0W9">
 <token>pohledávky</token>
-</w><w id="w-wsj0143-001-p1s0W10">
+</w>
+<w id="w-wsj0143-001-p1s0W10">
 <token>v</token>
-</w><w id="w-wsj0143-001-p1s0W11">
+</w>
+<w id="w-wsj0143-001-p1s0W11">
 <token>hodnotě</token>
-</w><w id="w-wsj0143-001-p1s0W12">
+</w>
+<w id="w-wsj0143-001-p1s0W12">
 <token>asi</token>
-</w><w id="w-wsj0143-001-p1s0W13">
+</w>
+<w id="w-wsj0143-001-p1s0W13">
 <token>130</token>
-</w><w id="w-wsj0143-001-p1s0W14">
+</w>
+<w id="w-wsj0143-001-p1s0W14">
 <token>miliónů</token>
-</w><w id="w-wsj0143-001-p1s0W15">
+</w>
+<w id="w-wsj0143-001-p1s0W15">
 <token>dolarů</token>
-</w><w id="w-wsj0143-001-p1s0W16">
+</w>
+<w id="w-wsj0143-001-p1s0W16">
 <token>rating</token>
-</w><w id="w-wsj0143-001-p1s0W17">
+</w>
+<w id="w-wsj0143-001-p1s0W17">
 <token>na</token>
-</w><w id="w-wsj0143-001-p1s0W18">
+</w>
+<w id="w-wsj0143-001-p1s0W18">
 <token>CC</token>
-</w><w id="w-wsj0143-001-p1s0W19">
+</w>
+<w id="w-wsj0143-001-p1s0W19">
 <token>z</token>
-</w><w id="w-wsj0143-001-p1s0W20">
+</w>
+<w id="w-wsj0143-001-p1s0W20">
 <token>CCC</token>
 <no_space_after>1</no_space_after>
-</w><w id="w-wsj0143-001-p1s0W21">
+</w>
+<w id="w-wsj0143-001-p1s0W21">
 <token>.</token>
-</w><w id="w-wsj0143-001-p1s1W1">
+</w>
+<w id="w-wsj0143-001-p1s1W1">
 <token>Ohodnocený</token>
 </w>
 <w id="w-wsj0143-001-p1s1W2">

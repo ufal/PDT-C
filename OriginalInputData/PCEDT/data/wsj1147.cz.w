@@ -1078,51 +1078,73 @@
 </w>
 <w id="w-wsj1147-001-p1s11W1">
 <token>Jenže</token>
-</w><w id="w-wsj1147-001-p1s11W2">
+</w>
+<w id="w-wsj1147-001-p1s11W2">
 <token>vymezené</token>
-</w><w id="w-wsj1147-001-p1s11W3">
+</w>
+<w id="w-wsj1147-001-p1s11W3">
 <token>prostředky</token>
-</w><w id="w-wsj1147-001-p1s11W4">
+</w>
+<w id="w-wsj1147-001-p1s11W4">
 <token>uvedly</token>
-</w><w id="w-wsj1147-001-p1s11W5">
+</w>
+<w id="w-wsj1147-001-p1s11W5">
 <token>do</token>
-</w><w id="w-wsj1147-001-p1s11W6">
+</w>
+<w id="w-wsj1147-001-p1s11W6">
 <token>chodu</token>
-</w><w id="w-wsj1147-001-p1s11W7">
+</w>
+<w id="w-wsj1147-001-p1s11W7">
 <token>výdaje</token>
 <no_space_after>1</no_space_after>
-</w><w id="w-wsj1147-001-p1s11W8">
+</w>
+<w id="w-wsj1147-001-p1s11W8">
 <token>,</token>
-</w><w id="w-wsj1147-001-p1s11W9">
+</w>
+<w id="w-wsj1147-001-p1s11W9">
 <token>které</token>
-</w><w id="w-wsj1147-001-p1s11W10">
+</w>
+<w id="w-wsj1147-001-p1s11W10">
 <token>ještě</token>
-</w><w id="w-wsj1147-001-p1s11W11">
+</w>
+<w id="w-wsj1147-001-p1s11W11">
 <token>zhoršují</token>
-</w><w id="w-wsj1147-001-p1s11W12">
+</w>
+<w id="w-wsj1147-001-p1s11W12">
 <token>už</token>
-</w><w id="w-wsj1147-001-p1s11W13">
+</w>
+<w id="w-wsj1147-001-p1s11W13">
 <token>tak</token>
-</w><w id="w-wsj1147-001-p1s11W14">
+</w>
+<w id="w-wsj1147-001-p1s11W14">
 <token>dost</token>
-</w><w id="w-wsj1147-001-p1s11W15">
+</w>
+<w id="w-wsj1147-001-p1s11W15">
 <token>ponurý</token>
-</w><w id="w-wsj1147-001-p1s11W16">
+</w>
+<w id="w-wsj1147-001-p1s11W16">
 <token>obrázek</token>
-</w><w id="w-wsj1147-001-p1s11W17">
+</w>
+<w id="w-wsj1147-001-p1s11W17">
 <token>rozpočtu</token>
-</w><w id="w-wsj1147-001-p1s11W18">
+</w>
+<w id="w-wsj1147-001-p1s11W18">
 <token>na</token>
-</w><w id="w-wsj1147-001-p1s11W19">
+</w>
+<w id="w-wsj1147-001-p1s11W19">
 <token>fiskální</token>
-</w><w id="w-wsj1147-001-p1s11W20">
+</w>
+<w id="w-wsj1147-001-p1s11W20">
 <token>rok</token>
-</w><w id="w-wsj1147-001-p1s11W21">
+</w>
+<w id="w-wsj1147-001-p1s11W21">
 <token>1991</token>
 <no_space_after>1</no_space_after>
-</w><w id="w-wsj1147-001-p1s11W22">
+</w>
+<w id="w-wsj1147-001-p1s11W22">
 <token>.</token>
-</w><w id="w-wsj1147-001-p1s12W1">
+</w>
+<w id="w-wsj1147-001-p1s12W1">
 <token>Situace</token>
 </w>
 <w id="w-wsj1147-001-p1s12W2">

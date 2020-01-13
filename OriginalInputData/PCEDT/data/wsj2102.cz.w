@@ -1000,10 +1000,12 @@
 </w>
 <w id="w-wsj2102-001-p1s12W35">
 <token>bude</token>
-<no_space_after>1</no_space_after></w>
+<no_space_after>1</no_space_after>
+</w>
 <w id="w-wsj2102-001-p1s12W36">
 <token>-</token>
-<no_space_after>1</no_space_after></w>
+<no_space_after>1</no_space_after>
+</w>
 <w id="w-wsj2102-001-p1s12W37">
 <token>li</token>
 </w>
@@ -2265,10 +2267,12 @@
 </w>
 <w id="w-wsj2102-001-p1s28W30">
 <token>sovětsko</token>
-<no_space_after>1</no_space_after></w>
+<no_space_after>1</no_space_after>
+</w>
 <w id="w-wsj2102-001-p1s28W31">
 <token>-</token>
-<no_space_after>1</no_space_after></w>
+<no_space_after>1</no_space_after>
+</w>
 <w id="w-wsj2102-001-p1s28W32">
 <token>izraelských</token>
 </w>

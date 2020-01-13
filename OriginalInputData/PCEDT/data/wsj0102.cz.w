@@ -358,10 +358,12 @@
 </w>
 <w id="w-wsj0102-001-p1s6W13">
 <token>F</token>
-<no_space_after>1</no_space_after></w>
+<no_space_after>1</no_space_after>
+</w>
 <w id="w-wsj0102-001-p1s6W14">
 <token>-</token>
-<no_space_after>1</no_space_after></w>
+<no_space_after>1</no_space_after>
+</w>
 <w id="w-wsj0102-001-p1s6W15">
 <token>profil</token>
 <no_space_after>1</no_space_after>
@@ -696,10 +698,12 @@
 </w>
 <w id="w-wsj0102-001-p1s11W20">
 <token>F</token>
-<no_space_after>1</no_space_after></w>
+<no_space_after>1</no_space_after>
+</w>
 <w id="w-wsj0102-001-p1s11W21">
 <token>-</token>
-<no_space_after>1</no_space_after></w>
+<no_space_after>1</no_space_after>
+</w>
 <w id="w-wsj0102-001-p1s11W22">
 <token>profil</token>
 <no_space_after>1</no_space_after>
@@ -928,10 +932,12 @@
 </w>
 <w id="w-wsj0102-001-p1s15W17">
 <token>Cup</token>
-<no_space_after>1</no_space_after></w>
+<no_space_after>1</no_space_after>
+</w>
 <w id="w-wsj0102-001-p1s15W18">
 <token>-</token>
-<no_space_after>1</no_space_after></w>
+<no_space_after>1</no_space_after>
+</w>
 <w id="w-wsj0102-001-p1s15W19">
 <token>Tote</token>
 <no_space_after>1</no_space_after>
@@ -1583,10 +1589,12 @@
 </w>
 <w id="w-wsj0102-001-p1s30W15">
 <token>Carnegie</token>
-<no_space_after>1</no_space_after></w>
+<no_space_after>1</no_space_after>
+</w>
 <w id="w-wsj0102-001-p1s30W16">
 <token>-</token>
-<no_space_after>1</no_space_after></w>
+<no_space_after>1</no_space_after>
+</w>
 <w id="w-wsj0102-001-p1s30W17">
 <token>Mellon</token>
 </w>
@@ -1627,10 +1635,12 @@
 </w>
 <w id="w-wsj0102-001-p1s31W7">
 <token>Carnegie</token>
-<no_space_after>1</no_space_after></w>
+<no_space_after>1</no_space_after>
+</w>
 <w id="w-wsj0102-001-p1s31W8">
 <token>-</token>
-<no_space_after>1</no_space_after></w>
+<no_space_after>1</no_space_after>
+</w>
 <w id="w-wsj0102-001-p1s31W9">
 <token>Mellon</token>
 <no_space_after>1</no_space_after>
@@ -2207,10 +2217,12 @@
 </w>
 <w id="w-wsj0102-001-p1s41W10">
 <token>šesti</token>
-<no_space_after>1</no_space_after></w>
+<no_space_after>1</no_space_after>
+</w>
 <w id="w-wsj0102-001-p1s41W11">
 <token>-</token>
-<no_space_after>1</no_space_after></w>
+<no_space_after>1</no_space_after>
+</w>
 <w id="w-wsj0102-001-p1s41W12">
 <token>palcové</token>
 </w>

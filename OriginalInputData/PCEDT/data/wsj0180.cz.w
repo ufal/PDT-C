@@ -99,10 +99,12 @@
 </w>
 <w id="w-wsj0180-001-p1s0W24">
 <token>Interleukin</token>
-<no_space_after>1</no_space_after></w>
+<no_space_after>1</no_space_after>
+</w>
 <w id="w-wsj0180-001-p1s0W25">
 <token>-</token>
-<no_space_after>1</no_space_after></w>
+<no_space_after>1</no_space_after>
+</w>
 <w id="w-wsj0180-001-p1s0W26">
 <token>3</token>
 </w>
@@ -130,10 +132,12 @@
 </w>
 <w id="w-wsj0180-001-p1s1W3">
 <token>Interleukin</token>
-<no_space_after>1</no_space_after></w>
+<no_space_after>1</no_space_after>
+</w>
 <w id="w-wsj0180-001-p1s1W4">
 <token>-</token>
-<no_space_after>1</no_space_after></w>
+<no_space_after>1</no_space_after>
+</w>
 <w id="w-wsj0180-001-p1s1W5">
 <token>3</token>
 </w>
@@ -250,10 +254,12 @@
 </w>
 <w id="w-wsj0180-001-p1s2W20">
 <token>Interleukin</token>
-<no_space_after>1</no_space_after></w>
+<no_space_after>1</no_space_after>
+</w>
 <w id="w-wsj0180-001-p1s2W21">
 <token>-</token>
-<no_space_after>1</no_space_after></w>
+<no_space_after>1</no_space_after>
+</w>
 <w id="w-wsj0180-001-p1s2W22">
 <token>3</token>
 </w>
@@ -291,10 +297,12 @@
 </w>
 <w id="w-wsj0180-001-p1s3W6">
 <token>Interleukin</token>
-<no_space_after>1</no_space_after></w>
+<no_space_after>1</no_space_after>
+</w>
 <w id="w-wsj0180-001-p1s3W7">
 <token>-</token>
-<no_space_after>1</no_space_after></w>
+<no_space_after>1</no_space_after>
+</w>
 <w id="w-wsj0180-001-p1s3W8">
 <token>3</token>
 </w>
@@ -375,10 +383,12 @@
 </w>
 <w id="w-wsj0180-001-p1s4W6">
 <token>protein</token>
-<no_space_after>1</no_space_after></w>
+<no_space_after>1</no_space_after>
+</w>
 <w id="w-wsj0180-001-p1s4W7">
 <token>-</token>
-<no_space_after>1</no_space_after></w>
+<no_space_after>1</no_space_after>
+</w>
 <w id="w-wsj0180-001-p1s4W8">
 <token>1</token>
 <no_space_after>1</no_space_after>
@@ -444,10 +454,12 @@
 </w>
 <w id="w-wsj0180-001-p1s5W8">
 <token>BMP</token>
-<no_space_after>1</no_space_after></w>
+<no_space_after>1</no_space_after>
+</w>
 <w id="w-wsj0180-001-p1s5W9">
 <token>-</token>
-<no_space_after>1</no_space_after></w>
+<no_space_after>1</no_space_after>
+</w>
 <w id="w-wsj0180-001-p1s5W10">
 <token>1</token>
 </w>
@@ -570,10 +582,12 @@
 </w>
 <w id="w-wsj0180-001-p1s6W22">
 <token>BMP</token>
-<no_space_after>1</no_space_after></w>
+<no_space_after>1</no_space_after>
+</w>
 <w id="w-wsj0180-001-p1s6W23">
 <token>-</token>
-<no_space_after>1</no_space_after></w>
+<no_space_after>1</no_space_after>
+</w>
 <w id="w-wsj0180-001-p1s6W24">
 <token>1</token>
 </w>
@@ -605,59 +619,85 @@
 </w>
 <w id="w-wsj0180-001-p1s7W1">
 <token>Společnost</token>
-</w><w id="w-wsj0180-001-p1s7W2">
+</w>
+<w id="w-wsj0180-001-p1s7W2">
 <token>uvedla</token>
 <no_space_after>1</no_space_after>
-</w><w id="w-wsj0180-001-p1s7W3">
+</w>
+<w id="w-wsj0180-001-p1s7W3">
 <token>,</token>
-</w><w id="w-wsj0180-001-p1s7W4">
+</w>
+<w id="w-wsj0180-001-p1s7W4">
 <token>že</token>
-</w><w id="w-wsj0180-001-p1s7W5">
+</w>
+<w id="w-wsj0180-001-p1s7W5">
 <token>produkty</token>
-</w><w id="w-wsj0180-001-p1s7W6">
+</w>
+<w id="w-wsj0180-001-p1s7W6">
 <token>z</token>
-</w><w id="w-wsj0180-001-p1s7W7">
+</w>
+<w id="w-wsj0180-001-p1s7W7">
 <token>BMP</token>
-</w><w id="w-wsj0180-001-p1s7W8">
+</w>
+<w id="w-wsj0180-001-p1s7W8">
 <token>mohou</token>
-</w><w id="w-wsj0180-001-p1s7W9">
+</w>
+<w id="w-wsj0180-001-p1s7W9">
 <token>být</token>
-</w><w id="w-wsj0180-001-p1s7W10">
+</w>
+<w id="w-wsj0180-001-p1s7W10">
 <token>užitečné</token>
-</w><w id="w-wsj0180-001-p1s7W11">
+</w>
+<w id="w-wsj0180-001-p1s7W11">
 <token>při</token>
-</w><w id="w-wsj0180-001-p1s7W12">
+</w>
+<w id="w-wsj0180-001-p1s7W12">
 <token>uzdravování</token>
-</w><w id="w-wsj0180-001-p1s7W13">
+</w>
+<w id="w-wsj0180-001-p1s7W13">
 <token>zlomenin</token>
 <no_space_after>1</no_space_after>
-</w><w id="w-wsj0180-001-p1s7W14">
+</w>
+<w id="w-wsj0180-001-p1s7W14">
 <token>,</token>
-</w><w id="w-wsj0180-001-p1s7W15">
+</w>
+<w id="w-wsj0180-001-p1s7W15">
 <token>léčení</token>
-</w><w id="w-wsj0180-001-p1s7W16">
+</w>
+<w id="w-wsj0180-001-p1s7W16">
 <token>ztráty</token>
-</w><w id="w-wsj0180-001-p1s7W17">
+</w>
+<w id="w-wsj0180-001-p1s7W17">
 <token>kostní</token>
-</w><w id="w-wsj0180-001-p1s7W18">
+</w>
+<w id="w-wsj0180-001-p1s7W18">
 <token>hmoty</token>
-</w><w id="w-wsj0180-001-p1s7W19">
+</w>
+<w id="w-wsj0180-001-p1s7W19">
 <token>při</token>
-</w><w id="w-wsj0180-001-p1s7W20">
+</w>
+<w id="w-wsj0180-001-p1s7W20">
 <token>periodotonálních</token>
-</w><w id="w-wsj0180-001-p1s7W21">
+</w>
+<w id="w-wsj0180-001-p1s7W21">
 <token>chorobách</token>
-</w><w id="w-wsj0180-001-p1s7W22">
+</w>
+<w id="w-wsj0180-001-p1s7W22">
 <token>a</token>
-</w><w id="w-wsj0180-001-p1s7W23">
+</w>
+<w id="w-wsj0180-001-p1s7W23">
 <token>určitých</token>
-</w><w id="w-wsj0180-001-p1s7W24">
+</w>
+<w id="w-wsj0180-001-p1s7W24">
 <token>druzích</token>
-</w><w id="w-wsj0180-001-p1s7W25">
+</w>
+<w id="w-wsj0180-001-p1s7W25">
 <token>rakoviny</token>
 <no_space_after>1</no_space_after>
-</w><w id="w-wsj0180-001-p1s7W26">
+</w>
+<w id="w-wsj0180-001-p1s7W26">
 <token>.</token>
-</w></para>
+</w>
+</para>
 </doc>
 </wdata>

@@ -326,67 +326,95 @@
 </w>
 <w id="w-wsj0958-001-p1s2W1">
 <token>Společnost</token>
-</w><w id="w-wsj0958-001-p1s2W2">
+</w>
+<w id="w-wsj0958-001-p1s2W2">
 <token>PWA</token>
-</w><w id="w-wsj0958-001-p1s2W3">
+</w>
+<w id="w-wsj0958-001-p1s2W3">
 <token>nemůže</token>
-</w><w id="w-wsj0958-001-p1s2W4">
+</w>
+<w id="w-wsj0958-001-p1s2W4">
 <token>odhadnout</token>
-</w><w id="w-wsj0958-001-p1s2W5">
+</w>
+<w id="w-wsj0958-001-p1s2W5">
 <token>hodnotu</token>
-</w><w id="w-wsj0958-001-p1s2W6">
+</w>
+<w id="w-wsj0958-001-p1s2W6">
 <token>leteckého</token>
-</w><w id="w-wsj0958-001-p1s2W7">
+</w>
+<w id="w-wsj0958-001-p1s2W7">
 <token>parku</token>
-</w><w id="w-wsj0958-001-p1s2W8">
+</w>
+<w id="w-wsj0958-001-p1s2W8">
 <token>společnosti</token>
-</w><w id="w-wsj0958-001-p1s2W9">
+</w>
+<w id="w-wsj0958-001-p1s2W9">
 <token>Wardair</token>
 <no_space_after>1</no_space_after>
-</w><w id="w-wsj0958-001-p1s2W10">
+</w>
+<w id="w-wsj0958-001-p1s2W10">
 <token>,</token>
-</w><w id="w-wsj0958-001-p1s2W11">
+</w>
+<w id="w-wsj0958-001-p1s2W11">
 <token>do</token>
-</w><w id="w-wsj0958-001-p1s2W12">
+</w>
+<w id="w-wsj0958-001-p1s2W12">
 <token>kterého</token>
-</w><w id="w-wsj0958-001-p1s2W13">
+</w>
+<w id="w-wsj0958-001-p1s2W13">
 <token>patří</token>
-</w><w id="w-wsj0958-001-p1s2W14">
+</w>
+<w id="w-wsj0958-001-p1s2W14">
 <token>12</token>
-</w><w id="w-wsj0958-001-p1s2W15">
+</w>
+<w id="w-wsj0958-001-p1s2W15">
 <token>letadel</token>
-</w><w id="w-wsj0958-001-p1s2W16">
+</w>
+<w id="w-wsj0958-001-p1s2W16">
 <token>typu</token>
-</w><w id="w-wsj0958-001-p1s2W17">
+</w>
+<w id="w-wsj0958-001-p1s2W17">
 <token>Airbus</token>
-</w><w id="w-wsj0958-001-p1s2W18">
+</w>
+<w id="w-wsj0958-001-p1s2W18">
 <token>A310</token>
 <no_space_after>1</no_space_after>
-</w><w id="w-wsj0958-001-p1s2W19">
+</w>
+<w id="w-wsj0958-001-p1s2W19">
 <token>-</token>
 <no_space_after>1</no_space_after>
-</w><w id="w-wsj0958-001-p1s2W20">
+</w>
+<w id="w-wsj0958-001-p1s2W20">
 <token>300</token>
-</w><w id="w-wsj0958-001-p1s2W21">
+</w>
+<w id="w-wsj0958-001-p1s2W21">
 <token>a</token>
-</w><w id="w-wsj0958-001-p1s2W22">
+</w>
+<w id="w-wsj0958-001-p1s2W22">
 <token>tři</token>
-</w><w id="w-wsj0958-001-p1s2W23">
+</w>
+<w id="w-wsj0958-001-p1s2W23">
 <token>typu</token>
-</w><w id="w-wsj0958-001-p1s2W24">
+</w>
+<w id="w-wsj0958-001-p1s2W24">
 <token>Boeing</token>
-</w><w id="w-wsj0958-001-p1s2W25">
+</w>
+<w id="w-wsj0958-001-p1s2W25">
 <token>747</token>
 <no_space_after>1</no_space_after>
-</w><w id="w-wsj0958-001-p1s2W26">
+</w>
+<w id="w-wsj0958-001-p1s2W26">
 <token>-</token>
 <no_space_after>1</no_space_after>
-</w><w id="w-wsj0958-001-p1s2W27">
+</w>
+<w id="w-wsj0958-001-p1s2W27">
 <token>100</token>
 <no_space_after>1</no_space_after>
-</w><w id="w-wsj0958-001-p1s2W28">
+</w>
+<w id="w-wsj0958-001-p1s2W28">
 <token>.</token>
-</w><w id="w-wsj0958-001-p1s3W1">
+</w>
+<w id="w-wsj0958-001-p1s3W1">
 <token>James</token>
 </w>
 <w id="w-wsj0958-001-p1s3W2">

@@ -1525,10 +1525,12 @@
 </w>
 <w id="w-wsj2045-001-p1s18W9">
 <token>půjde</token>
-<no_space_after>1</no_space_after></w>
+<no_space_after>1</no_space_after>
+</w>
 <w id="w-wsj2045-001-p1s18W10">
 <token>-</token>
-<no_space_after>1</no_space_after></w>
+<no_space_after>1</no_space_after>
+</w>
 <w id="w-wsj2045-001-p1s18W11">
 <token>li</token>
 </w>

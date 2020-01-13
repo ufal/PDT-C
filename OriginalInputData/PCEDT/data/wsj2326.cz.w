@@ -898,45 +898,64 @@
 </w>
 <w id="w-wsj2326-001-p1s9W1">
 <token>Prezident</token>
-</w><w id="w-wsj2326-001-p1s9W2">
+</w>
+<w id="w-wsj2326-001-p1s9W2">
 <token>Bush</token>
-</w><w id="w-wsj2326-001-p1s9W3">
+</w>
+<w id="w-wsj2326-001-p1s9W3">
 <token>na</token>
-</w><w id="w-wsj2326-001-p1s9W4">
+</w>
+<w id="w-wsj2326-001-p1s9W4">
 <token>tuto</token>
-</w><w id="w-wsj2326-001-p1s9W5">
+</w>
+<w id="w-wsj2326-001-p1s9W5">
 <token>záležitost</token>
-</w><w id="w-wsj2326-001-p1s9W6">
+</w>
+<w id="w-wsj2326-001-p1s9W6">
 <token>upozornil</token>
 <no_space_after>1</no_space_after>
-</w><w id="w-wsj2326-001-p1s9W7">
+</w>
+<w id="w-wsj2326-001-p1s9W7">
 <token>,</token>
-</w><w id="w-wsj2326-001-p1s9W8">
+</w>
+<w id="w-wsj2326-001-p1s9W8">
 <token>když</token>
-</w><w id="w-wsj2326-001-p1s9W9">
+</w>
+<w id="w-wsj2326-001-p1s9W9">
 <token>zde</token>
-</w><w id="w-wsj2326-001-p1s9W10">
+</w>
+<w id="w-wsj2326-001-p1s9W10">
 <token>byl</token>
-</w><w id="w-wsj2326-001-p1s9W11">
+</w>
+<w id="w-wsj2326-001-p1s9W11">
 <token>tento</token>
-</w><w id="w-wsj2326-001-p1s9W12">
+</w>
+<w id="w-wsj2326-001-p1s9W12">
 <token>čelní</token>
-</w><w id="w-wsj2326-001-p1s9W13">
+</w>
+<w id="w-wsj2326-001-p1s9W13">
 <token>italský</token>
-</w><w id="w-wsj2326-001-p1s9W14">
+</w>
+<w id="w-wsj2326-001-p1s9W14">
 <token>představitel</token>
-</w><w id="w-wsj2326-001-p1s9W15">
+</w>
+<w id="w-wsj2326-001-p1s9W15">
 <token>minulý</token>
-</w><w id="w-wsj2326-001-p1s9W16">
+</w>
+<w id="w-wsj2326-001-p1s9W16">
 <token>týden</token>
-</w><w id="w-wsj2326-001-p1s9W17">
+</w>
+<w id="w-wsj2326-001-p1s9W17">
 <token>na</token>
-</w><w id="w-wsj2326-001-p1s9W18">
+</w>
+<w id="w-wsj2326-001-p1s9W18">
 <token>návštěvě</token>
 <no_space_after>1</no_space_after>
-</w><w id="w-wsj2326-001-p1s9W19">
+</w>
+<w id="w-wsj2326-001-p1s9W19">
 <token>.</token>
-</w><w id="w-wsj2326-001-p1s10W1">
+</w>
+<w id="w-wsj2326-001-p1s10W1">
 <token>Společnost</token>
 </w>
 <w id="w-wsj2326-001-p1s10W2">

@@ -55,10 +55,12 @@
 </w>
 <w id="w-wsj0593-001-p1s0W11">
 <token>McGraw</token>
-<no_space_after>1</no_space_after></w>
+<no_space_after>1</no_space_after>
+</w>
 <w id="w-wsj0593-001-p1s0W12">
 <token>-</token>
-<no_space_after>1</no_space_after></w>
+<no_space_after>1</no_space_after>
+</w>
 <w id="w-wsj0593-001-p1s0W13">
 <token>Hill</token>
 </w>

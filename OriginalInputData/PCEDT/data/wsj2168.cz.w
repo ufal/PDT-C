@@ -315,7 +315,8 @@
 </w>
 <w id="w-wsj2168-001-p1s4W4">
 <token>S</token>
-<no_space_after>1</no_space_after></w>
+<no_space_after>1</no_space_after>
+</w>
 <w id="w-wsj2168-001-p1s4W5">
 <token>&amp;</token>
 <no_space_after>1</no_space_after>
@@ -471,7 +472,8 @@
 </w>
 <w id="w-wsj2168-001-p1s5W12">
 <token>S</token>
-<no_space_after>1</no_space_after></w>
+<no_space_after>1</no_space_after>
+</w>
 <w id="w-wsj2168-001-p1s5W13">
 <token>&amp;</token>
 <no_space_after>1</no_space_after>
@@ -537,7 +539,8 @@
 </w>
 <w id="w-wsj2168-001-p1s6W17">
 <token>S</token>
-<no_space_after>1</no_space_after></w>
+<no_space_after>1</no_space_after>
+</w>
 <w id="w-wsj2168-001-p1s6W18">
 <token>&amp;</token>
 <no_space_after>1</no_space_after>
@@ -697,7 +700,8 @@
 </w>
 <w id="w-wsj2168-001-p1s8W16">
 <token>S</token>
-<no_space_after>1</no_space_after></w>
+<no_space_after>1</no_space_after>
+</w>
 <w id="w-wsj2168-001-p1s8W17">
 <token>&amp;</token>
 <no_space_after>1</no_space_after>
@@ -792,7 +796,8 @@
 </w>
 <w id="w-wsj2168-001-p1s9W9">
 <token>S</token>
-<no_space_after>1</no_space_after></w>
+<no_space_after>1</no_space_after>
+</w>
 <w id="w-wsj2168-001-p1s9W10">
 <token>&amp;</token>
 <no_space_after>1</no_space_after>
@@ -1091,7 +1096,8 @@
 </w>
 <w id="w-wsj2168-001-p1s14W2">
 <token>S</token>
-<no_space_after>1</no_space_after></w>
+<no_space_after>1</no_space_after>
+</w>
 <w id="w-wsj2168-001-p1s14W3">
 <token>&amp;</token>
 <no_space_after>1</no_space_after>
@@ -1231,7 +1237,8 @@
 </w>
 <w id="w-wsj2168-001-p1s15W23">
 <token>S</token>
-<no_space_after>1</no_space_after></w>
+<no_space_after>1</no_space_after>
+</w>
 <w id="w-wsj2168-001-p1s15W24">
 <token>&amp;</token>
 <no_space_after>1</no_space_after>
@@ -1503,7 +1510,8 @@
 </w>
 <w id="w-wsj2168-001-p1s20W17">
 <token>S</token>
-<no_space_after>1</no_space_after></w>
+<no_space_after>1</no_space_after>
+</w>
 <w id="w-wsj2168-001-p1s20W18">
 <token>&amp;</token>
 <no_space_after>1</no_space_after>

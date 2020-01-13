@@ -73,10 +73,12 @@
 </w>
 <w id="w-wsj0506-001-p1s0W17">
 <token>F-A</token>
-<no_space_after>1</no_space_after></w>
+<no_space_after>1</no_space_after>
+</w>
 <w id="w-wsj0506-001-p1s0W18">
 <token>-</token>
-<no_space_after>1</no_space_after></w>
+<no_space_after>1</no_space_after>
+</w>
 <w id="w-wsj0506-001-p1s0W19">
 <token>18</token>
 </w>
@@ -414,10 +416,12 @@
 </w>
 <w id="w-wsj0506-001-p1s4W26">
 <token>C</token>
-<no_space_after>1</no_space_after></w>
+<no_space_after>1</no_space_after>
+</w>
 <w id="w-wsj0506-001-p1s4W27">
 <token>-</token>
-<no_space_after>1</no_space_after></w>
+<no_space_after>1</no_space_after>
+</w>
 <w id="w-wsj0506-001-p1s4W28">
 <token>12</token>
 <no_space_after>1</no_space_after>

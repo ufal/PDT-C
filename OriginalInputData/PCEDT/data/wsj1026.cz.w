@@ -1631,7 +1631,8 @@
 </w>
 <w id="w-wsj1026-001-p1s22W9">
 <token>C</token>
-<no_space_after>1</no_space_after></w>
+<no_space_after>1</no_space_after>
+</w>
 <w id="w-wsj1026-001-p1s22W10">
 <token>&amp;</token>
 <no_space_after>1</no_space_after>

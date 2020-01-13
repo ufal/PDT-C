@@ -1878,7 +1878,8 @@
 </w>
 <w id="w-wsj1218-001-p1s31W15">
 <token>AT</token>
-<no_space_after>1</no_space_after></w>
+<no_space_after>1</no_space_after>
+</w>
 <w id="w-wsj1218-001-p1s31W16">
 <token>&amp;</token>
 <no_space_after>1</no_space_after>
@@ -2084,7 +2085,8 @@
 </w>
 <w id="w-wsj1218-001-p1s34W11">
 <token>AT</token>
-<no_space_after>1</no_space_after></w>
+<no_space_after>1</no_space_after>
+</w>
 <w id="w-wsj1218-001-p1s34W12">
 <token>&amp;</token>
 <no_space_after>1</no_space_after>

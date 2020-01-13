@@ -3875,7 +3875,8 @@
 </w>
 <w id="w-wsj2379-001-p1s52W29">
 <token>Standard</token>
-<no_space_after>1</no_space_after></w>
+<no_space_after>1</no_space_after>
+</w>
 <w id="w-wsj2379-001-p1s52W30">
 <token>&amp;</token>
 <no_space_after>1</no_space_after>

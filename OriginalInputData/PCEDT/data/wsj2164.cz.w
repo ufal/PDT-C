@@ -44,10 +44,12 @@
 </w>
 <w id="w-wsj2164-001-p1s0W7">
 <token>Post</token>
-<no_space_after>1</no_space_after></w>
+<no_space_after>1</no_space_after>
+</w>
 <w id="w-wsj2164-001-p1s0W8">
 <token>-</token>
-<no_space_after>1</no_space_after></w>
+<no_space_after>1</no_space_after>
+</w>
 <w id="w-wsj2164-001-p1s0W9">
 <token>Newsweek</token>
 </w>
@@ -154,10 +156,12 @@
 </w>
 <w id="w-wsj2164-001-p1s1W18">
 <token>Post</token>
-<no_space_after>1</no_space_after></w>
+<no_space_after>1</no_space_after>
+</w>
 <w id="w-wsj2164-001-p1s1W19">
 <token>-</token>
-<no_space_after>1</no_space_after></w>
+<no_space_after>1</no_space_after>
+</w>
 <w id="w-wsj2164-001-p1s1W20">
 <token>Newsweek</token>
 </w>

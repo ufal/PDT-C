@@ -130,75 +130,107 @@
 <w id="w-wsj0770-001-p1s2W1">
 <token>Coca</token>
 <no_space_after>1</no_space_after>
-</w><w id="w-wsj0770-001-p1s2W2">
+</w>
+<w id="w-wsj0770-001-p1s2W2">
 <token>-</token>
 <no_space_after>1</no_space_after>
-</w><w id="w-wsj0770-001-p1s2W3">
+</w>
+<w id="w-wsj0770-001-p1s2W3">
 <token>Cola</token>
-</w><w id="w-wsj0770-001-p1s2W4">
+</w>
+<w id="w-wsj0770-001-p1s2W4">
 <token>Bottling</token>
-</w><w id="w-wsj0770-001-p1s2W5">
+</w>
+<w id="w-wsj0770-001-p1s2W5">
 <token>Co</token>
 <no_space_after>1</no_space_after>
-</w><w id="w-wsj0770-001-p1s2W6">
+</w>
+<w id="w-wsj0770-001-p1s2W6">
 <token>.</token>
-</w><w id="w-wsj0770-001-p1s2W7">
+</w>
+<w id="w-wsj0770-001-p1s2W7">
 <token>Consolidated</token>
 <no_space_after>1</no_space_after>
-</w><w id="w-wsj0770-001-p1s2W8">
+</w>
+<w id="w-wsj0770-001-p1s2W8">
 <token>,</token>
-</w><w id="w-wsj0770-001-p1s2W9">
+</w>
+<w id="w-wsj0770-001-p1s2W9">
 <token>dočasně</token>
-</w><w id="w-wsj0770-001-p1s2W10">
+</w>
+<w id="w-wsj0770-001-p1s2W10">
 <token>odložená</token>
-</w><w id="w-wsj0770-001-p1s2W11">
+</w>
+<w id="w-wsj0770-001-p1s2W11">
 <token>nabídka</token>
-</w><w id="w-wsj0770-001-p1s2W12">
+</w>
+<w id="w-wsj0770-001-p1s2W12">
 <token>dlužných</token>
-</w><w id="w-wsj0770-001-p1s2W13">
+</w>
+<w id="w-wsj0770-001-p1s2W13">
 <token>cenných</token>
-</w><w id="w-wsj0770-001-p1s2W14">
+</w>
+<w id="w-wsj0770-001-p1s2W14">
 <token>papírů</token>
-</w><w id="w-wsj0770-001-p1s2W15">
+</w>
+<w id="w-wsj0770-001-p1s2W15">
 <token>v</token>
-</w><w id="w-wsj0770-001-p1s2W16">
+</w>
+<w id="w-wsj0770-001-p1s2W16">
 <token>hodnotě</token>
-</w><w id="w-wsj0770-001-p1s2W17">
+</w>
+<w id="w-wsj0770-001-p1s2W17">
 <token>200</token>
-</w><w id="w-wsj0770-001-p1s2W18">
+</w>
+<w id="w-wsj0770-001-p1s2W18">
 <token>milionů</token>
-</w><w id="w-wsj0770-001-p1s2W19">
+</w>
+<w id="w-wsj0770-001-p1s2W19">
 <token>dolarů</token>
-</w><w id="w-wsj0770-001-p1s2W20">
+</w>
+<w id="w-wsj0770-001-p1s2W20">
 <token>prostřednictvím</token>
-</w><w id="w-wsj0770-001-p1s2W21">
+</w>
+<w id="w-wsj0770-001-p1s2W21">
 <token>společností</token>
-</w><w id="w-wsj0770-001-p1s2W22">
+</w>
+<w id="w-wsj0770-001-p1s2W22">
 <token>Salomon</token>
-</w><w id="w-wsj0770-001-p1s2W23">
+</w>
+<w id="w-wsj0770-001-p1s2W23">
 <token>Brothers</token>
-</w><w id="w-wsj0770-001-p1s2W24">
+</w>
+<w id="w-wsj0770-001-p1s2W24">
 <token>Inc</token>
 <no_space_after>1</no_space_after>
-</w><w id="w-wsj0770-001-p1s2W25">
+</w>
+<w id="w-wsj0770-001-p1s2W25">
 <token>.</token>
-</w><w id="w-wsj0770-001-p1s2W26">
+</w>
+<w id="w-wsj0770-001-p1s2W26">
 <token>a</token>
-</w><w id="w-wsj0770-001-p1s2W27">
+</w>
+<w id="w-wsj0770-001-p1s2W27">
 <token>Goldman</token>
 <no_space_after>1</no_space_after>
-</w><w id="w-wsj0770-001-p1s2W28">
+</w>
+<w id="w-wsj0770-001-p1s2W28">
 <token>,</token>
-</w><w id="w-wsj0770-001-p1s2W29">
+</w>
+<w id="w-wsj0770-001-p1s2W29">
 <token>Sachs</token>
-</w><w id="w-wsj0770-001-p1s2W30">
+</w>
+<w id="w-wsj0770-001-p1s2W30">
 <token>&amp;</token>
-</w><w id="w-wsj0770-001-p1s2W31">
+</w>
+<w id="w-wsj0770-001-p1s2W31">
 <token>Co</token>
 <no_space_after>1</no_space_after>
-</w><w id="w-wsj0770-001-p1s2W32">
+</w>
+<w id="w-wsj0770-001-p1s2W32">
 <token>.</token>
-</w><w id="w-wsj0770-001-p1s3W1">
+</w>
+<w id="w-wsj0770-001-p1s3W1">
 <token>Společnost</token>
 </w>
 <w id="w-wsj0770-001-p1s3W2">

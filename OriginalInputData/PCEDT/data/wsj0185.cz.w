@@ -27,10 +27,12 @@
 </w>
 <w id="w-wsj0185-001-p1s0W2">
 <token>INTER</token>
-<no_space_after>1</no_space_after></w>
+<no_space_after>1</no_space_after>
+</w>
 <w id="w-wsj0185-001-p1s0W3">
 <token>-</token>
-<no_space_after>1</no_space_after></w>
+<no_space_after>1</no_space_after>
+</w>
 <w id="w-wsj0185-001-p1s0W4">
 <token>TEL</token>
 </w>

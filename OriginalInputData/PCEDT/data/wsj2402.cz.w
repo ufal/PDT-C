@@ -24,10 +24,12 @@
 <othermarkup origin="csts/doc/p/@n">1</othermarkup>
 <w id="w-wsj2402-001-p1s0W1">
 <token>Předpokládáme</token>
-<no_space_after>1</no_space_after></w>
+<no_space_after>1</no_space_after>
+</w>
 <w id="w-wsj2402-001-p1s0W2">
 <token>-</token>
-<no_space_after>1</no_space_after></w>
+<no_space_after>1</no_space_after>
+</w>
 <w id="w-wsj2402-001-p1s0W3">
 <token>li</token>
 <no_space_after>1</no_space_after>
@@ -3334,10 +3336,12 @@
 </w>
 <w id="w-wsj2402-001-p1s45W34">
 <token>Dai</token>
-<no_space_after>1</no_space_after></w>
+<no_space_after>1</no_space_after>
+</w>
 <w id="w-wsj2402-001-p1s45W35">
 <token>-</token>
-<no_space_after>1</no_space_after></w>
+<no_space_after>1</no_space_after>
+</w>
 <w id="w-wsj2402-001-p1s45W36">
 <token>Ichi</token>
 </w>

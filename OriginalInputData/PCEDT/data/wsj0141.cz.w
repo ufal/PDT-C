@@ -1062,78 +1062,112 @@
 </w>
 <w id="w-wsj0141-001-p1s16W1">
 <token>Výzkum</token>
-</w><w id="w-wsj0141-001-p1s16W2">
+</w>
+<w id="w-wsj0141-001-p1s16W2">
 <token>spotřebitelské</token>
-</w><w id="w-wsj0141-001-p1s16W3">
+</w>
+<w id="w-wsj0141-001-p1s16W3">
 <token>důvěry</token>
 <no_space_after>1</no_space_after>
-</w><w id="w-wsj0141-001-p1s16W4">
+</w>
+<w id="w-wsj0141-001-p1s16W4">
 <token>,</token>
-</w><w id="w-wsj0141-001-p1s16W5">
+</w>
+<w id="w-wsj0141-001-p1s16W5">
 <token>zahrnující</token>
-</w><w id="w-wsj0141-001-p1s16W6">
+</w>
+<w id="w-wsj0141-001-p1s16W6">
 <token>5000</token>
-</w><w id="w-wsj0141-001-p1s16W7">
+</w>
+<w id="w-wsj0141-001-p1s16W7">
 <token>amerických</token>
-</w><w id="w-wsj0141-001-p1s16W8">
+</w>
+<w id="w-wsj0141-001-p1s16W8">
 <token>domácností</token>
 <no_space_after>1</no_space_after>
-</w><w id="w-wsj0141-001-p1s16W9">
+</w>
+<w id="w-wsj0141-001-p1s16W9">
 <token>,</token>
-</w><w id="w-wsj0141-001-p1s16W10">
+</w>
+<w id="w-wsj0141-001-p1s16W10">
 <token>provádí</token>
-</w><w id="w-wsj0141-001-p1s16W11">
+</w>
+<w id="w-wsj0141-001-p1s16W11">
 <token>během</token>
-</w><w id="w-wsj0141-001-p1s16W12">
+</w>
+<w id="w-wsj0141-001-p1s16W12">
 <token>prvních</token>
-</w><w id="w-wsj0141-001-p1s16W13">
+</w>
+<w id="w-wsj0141-001-p1s16W13">
 <token>dvou</token>
-</w><w id="w-wsj0141-001-p1s16W14">
+</w>
+<w id="w-wsj0141-001-p1s16W14">
 <token>týdnů</token>
-</w><w id="w-wsj0141-001-p1s16W15">
+</w>
+<w id="w-wsj0141-001-p1s16W15">
 <token>každého</token>
-</w><w id="w-wsj0141-001-p1s16W16">
+</w>
+<w id="w-wsj0141-001-p1s16W16">
 <token>měsíce</token>
-</w><w id="w-wsj0141-001-p1s16W17">
+</w>
+<w id="w-wsj0141-001-p1s16W17">
 <token>pro</token>
-</w><w id="w-wsj0141-001-p1s16W18">
+</w>
+<w id="w-wsj0141-001-p1s16W18">
 <token>organizaci</token>
-</w><w id="w-wsj0141-001-p1s16W19">
+</w>
+<w id="w-wsj0141-001-p1s16W19">
 <token>Conference</token>
-</w><w id="w-wsj0141-001-p1s16W20">
+</w>
+<w id="w-wsj0141-001-p1s16W20">
 <token>Board</token>
-</w><w id="w-wsj0141-001-p1s16W21">
+</w>
+<w id="w-wsj0141-001-p1s16W21">
 <token>výzkumník</token>
-</w><w id="w-wsj0141-001-p1s16W22">
+</w>
+<w id="w-wsj0141-001-p1s16W22">
 <token>trhu</token>
 <no_space_after>1</no_space_after>
-</w><w id="w-wsj0141-001-p1s16W23">
+</w>
+<w id="w-wsj0141-001-p1s16W23">
 <token>,</token>
-</w><w id="w-wsj0141-001-p1s16W24">
+</w>
+<w id="w-wsj0141-001-p1s16W24">
 <token>firma</token>
-</w><w id="w-wsj0141-001-p1s16W25">
+</w>
+<w id="w-wsj0141-001-p1s16W25">
 <token>National</token>
-</w><w id="w-wsj0141-001-p1s16W26">
+</w>
+<w id="w-wsj0141-001-p1s16W26">
 <token>Family</token>
-</w><w id="w-wsj0141-001-p1s16W27">
+</w>
+<w id="w-wsj0141-001-p1s16W27">
 <token>Opinion</token>
-</w><w id="w-wsj0141-001-p1s16W28">
+</w>
+<w id="w-wsj0141-001-p1s16W28">
 <token>Inc</token>
 <no_space_after>1</no_space_after>
-</w><w id="w-wsj0141-001-p1s16W29">
+</w>
+<w id="w-wsj0141-001-p1s16W29">
 <token>.</token>
-</w><w id="w-wsj0141-001-p1s16W30">
+</w>
+<w id="w-wsj0141-001-p1s16W30">
 <token>z</token>
-</w><w id="w-wsj0141-001-p1s16W31">
+</w>
+<w id="w-wsj0141-001-p1s16W31">
 <token>Toleda</token>
-</w><w id="w-wsj0141-001-p1s16W32">
+</w>
+<w id="w-wsj0141-001-p1s16W32">
 <token>v</token>
-</w><w id="w-wsj0141-001-p1s16W33">
+</w>
+<w id="w-wsj0141-001-p1s16W33">
 <token>Ohiu</token>
 <no_space_after>1</no_space_after>
-</w><w id="w-wsj0141-001-p1s16W34">
+</w>
+<w id="w-wsj0141-001-p1s16W34">
 <token>.</token>
-</w><w id="w-wsj0141-001-p1s17W1">
+</w>
+<w id="w-wsj0141-001-p1s17W1">
 <token>Nákupní</token>
 </w>
 <w id="w-wsj0141-001-p1s17W2">

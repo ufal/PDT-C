@@ -767,46 +767,65 @@
 </w>
 <w id="w-wsj0360-001-p1s10W1">
 <token>Sloupek</token>
-</w><w id="w-wsj0360-001-p1s10W2">
+</w>
+<w id="w-wsj0360-001-p1s10W2">
 <token>pana</token>
-</w><w id="w-wsj0360-001-p1s10W3">
+</w>
+<w id="w-wsj0360-001-p1s10W3">
 <token>Melloana</token>
-</w><w id="w-wsj0360-001-p1s10W4">
+</w>
+<w id="w-wsj0360-001-p1s10W4">
 <token>měl</token>
-</w><w id="w-wsj0360-001-p1s10W5">
+</w>
+<w id="w-wsj0360-001-p1s10W5">
 <token>pravdu</token>
-</w><w id="w-wsj0360-001-p1s10W6">
+</w>
+<w id="w-wsj0360-001-p1s10W6">
 <token>ohledně</token>
-</w><w id="w-wsj0360-001-p1s10W7">
+</w>
+<w id="w-wsj0360-001-p1s10W7">
 <token>peněz</token>
 <no_space_after>1</no_space_after>
-</w><w id="w-wsj0360-001-p1s10W8">
+</w>
+<w id="w-wsj0360-001-p1s10W8">
 <token>,</token>
-</w><w id="w-wsj0360-001-p1s10W9">
+</w>
+<w id="w-wsj0360-001-p1s10W9">
 <token>ale</token>
-</w><w id="w-wsj0360-001-p1s10W10">
+</w>
+<w id="w-wsj0360-001-p1s10W10">
 <token>byl</token>
-</w><w id="w-wsj0360-001-p1s10W11">
+</w>
+<w id="w-wsj0360-001-p1s10W11">
 <token>bych</token>
-</w><w id="w-wsj0360-001-p1s10W12">
+</w>
+<w id="w-wsj0360-001-p1s10W12">
 <token>radši</token>
 <no_space_after>1</no_space_after>
-</w><w id="w-wsj0360-001-p1s10W13">
+</w>
+<w id="w-wsj0360-001-p1s10W13">
 <token>,</token>
-</w><w id="w-wsj0360-001-p1s10W14">
+</w>
+<w id="w-wsj0360-001-p1s10W14">
 <token>kdyby</token>
-</w><w id="w-wsj0360-001-p1s10W15">
+</w>
+<w id="w-wsj0360-001-p1s10W15">
 <token>zašel</token>
-</w><w id="w-wsj0360-001-p1s10W16">
+</w>
+<w id="w-wsj0360-001-p1s10W16">
 <token>o</token>
-</w><w id="w-wsj0360-001-p1s10W17">
+</w>
+<w id="w-wsj0360-001-p1s10W17">
 <token>krok</token>
-</w><w id="w-wsj0360-001-p1s10W18">
+</w>
+<w id="w-wsj0360-001-p1s10W18">
 <token>dále</token>
 <no_space_after>1</no_space_after>
-</w><w id="w-wsj0360-001-p1s10W19">
+</w>
+<w id="w-wsj0360-001-p1s10W19">
 <token>.</token>
-</w><w id="w-wsj0360-001-p1s11W1">
+</w>
+<w id="w-wsj0360-001-p1s11W1">
 <token>Jakožto</token>
 </w>
 <w id="w-wsj0360-001-p1s11W2">
@@ -2607,7 +2626,8 @@
 </w>
 <w id="w-wsj0360-001-p1s31W16">
 <token>AT</token>
-<no_space_after>1</no_space_after></w>
+<no_space_after>1</no_space_after>
+</w>
 <w id="w-wsj0360-001-p1s31W17">
 <token>&amp;</token>
 <no_space_after>1</no_space_after>

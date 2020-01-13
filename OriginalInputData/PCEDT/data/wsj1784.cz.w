@@ -155,10 +155,12 @@
 </w>
 <w id="w-wsj1784-001-p1s2W1">
 <token>Schering</token>
-<no_space_after>1</no_space_after></w>
+<no_space_after>1</no_space_after>
+</w>
 <w id="w-wsj1784-001-p1s2W2">
 <token>-</token>
-<no_space_after>1</no_space_after></w>
+<no_space_after>1</no_space_after>
+</w>
 <w id="w-wsj1784-001-p1s2W3">
 <token>Plough</token>
 </w>
@@ -896,39 +898,55 @@
 </w>
 <w id="w-wsj1784-001-p1s13W1">
 <token>Společnost</token>
-</w><w id="w-wsj1784-001-p1s13W2">
+</w>
+<w id="w-wsj1784-001-p1s13W2">
 <token>uvedla</token>
 <no_space_after>1</no_space_after>
-</w><w id="w-wsj1784-001-p1s13W3">
+</w>
+<w id="w-wsj1784-001-p1s13W3">
 <token>,</token>
-</w><w id="w-wsj1784-001-p1s13W4">
+</w>
+<w id="w-wsj1784-001-p1s13W4">
 <token>že</token>
-</w><w id="w-wsj1784-001-p1s13W5">
+</w>
+<w id="w-wsj1784-001-p1s13W5">
 <token>pokračující</token>
-</w><w id="w-wsj1784-001-p1s13W6">
+</w>
+<w id="w-wsj1784-001-p1s13W6">
 <token>posilování</token>
-</w><w id="w-wsj1784-001-p1s13W7">
+</w>
+<w id="w-wsj1784-001-p1s13W7">
 <token>dolaru</token>
-</w><w id="w-wsj1784-001-p1s13W8">
+</w>
+<w id="w-wsj1784-001-p1s13W8">
 <token>snížilo</token>
-</w><w id="w-wsj1784-001-p1s13W9">
+</w>
+<w id="w-wsj1784-001-p1s13W9">
 <token>celosvětový</token>
-</w><w id="w-wsj1784-001-p1s13W10">
+</w>
+<w id="w-wsj1784-001-p1s13W10">
 <token>růst</token>
-</w><w id="w-wsj1784-001-p1s13W11">
+</w>
+<w id="w-wsj1784-001-p1s13W11">
 <token>tržeb</token>
-</w><w id="w-wsj1784-001-p1s13W12">
+</w>
+<w id="w-wsj1784-001-p1s13W12">
 <token>o</token>
-</w><w id="w-wsj1784-001-p1s13W13">
+</w>
+<w id="w-wsj1784-001-p1s13W13">
 <token>tři</token>
-</w><w id="w-wsj1784-001-p1s13W14">
+</w>
+<w id="w-wsj1784-001-p1s13W14">
 <token>procentní</token>
-</w><w id="w-wsj1784-001-p1s13W15">
+</w>
+<w id="w-wsj1784-001-p1s13W15">
 <token>body</token>
 <no_space_after>1</no_space_after>
-</w><w id="w-wsj1784-001-p1s13W16">
+</w>
+<w id="w-wsj1784-001-p1s13W16">
 <token>.</token>
-</w><w id="w-wsj1784-001-p1s14W1">
+</w>
+<w id="w-wsj1784-001-p1s14W1">
 <token>Společnost</token>
 </w>
 <w id="w-wsj1784-001-p1s14W2">
@@ -1344,10 +1362,12 @@
 </w>
 <w id="w-wsj1784-001-p1s19W1">
 <token>Schering</token>
-<no_space_after>1</no_space_after></w>
+<no_space_after>1</no_space_after>
+</w>
 <w id="w-wsj1784-001-p1s19W2">
 <token>-</token>
-<no_space_after>1</no_space_after></w>
+<no_space_after>1</no_space_after>
+</w>
 <w id="w-wsj1784-001-p1s19W3">
 <token>Plough</token>
 </w>
@@ -1356,10 +1376,12 @@
 </w>
 <w id="w-wsj1784-001-p1s20W2">
 <token>Schering</token>
-<no_space_after>1</no_space_after></w>
+<no_space_after>1</no_space_after>
+</w>
 <w id="w-wsj1784-001-p1s20W3">
 <token>-</token>
-<no_space_after>1</no_space_after></w>
+<no_space_after>1</no_space_after>
+</w>
 <w id="w-wsj1784-001-p1s20W4">
 <token>Plough</token>
 </w>
@@ -1532,10 +1554,12 @@
 </w>
 <w id="w-wsj1784-001-p1s21W36">
 <token>Schering</token>
-<no_space_after>1</no_space_after></w>
+<no_space_after>1</no_space_after>
+</w>
 <w id="w-wsj1784-001-p1s21W37">
 <token>-</token>
-<no_space_after>1</no_space_after></w>
+<no_space_after>1</no_space_after>
+</w>
 <w id="w-wsj1784-001-p1s21W38">
 <token>Plough</token>
 </w>
@@ -1923,10 +1947,12 @@
 </w>
 <w id="w-wsj1784-001-p1s27W11">
 <token>Schering</token>
-<no_space_after>1</no_space_after></w>
+<no_space_after>1</no_space_after>
+</w>
 <w id="w-wsj1784-001-p1s27W12">
 <token>-</token>
-<no_space_after>1</no_space_after></w>
+<no_space_after>1</no_space_after>
+</w>
 <w id="w-wsj1784-001-p1s27W13">
 <token>Plough</token>
 </w>

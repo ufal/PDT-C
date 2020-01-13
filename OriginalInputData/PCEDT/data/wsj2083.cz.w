@@ -157,10 +157,12 @@
 </w>
 <w id="w-wsj2083-001-p1s1W10">
 <token>nebo</token>
-<no_space_after>1</no_space_after></w>
+<no_space_after>1</no_space_after>
+</w>
 <w id="w-wsj2083-001-p1s1W11">
 <token>-</token>
-<no_space_after>1</no_space_after></w>
+<no_space_after>1</no_space_after>
+</w>
 <w id="w-wsj2083-001-p1s1W12">
 <token>li</token>
 </w>
@@ -198,10 +200,12 @@
 </w>
 <w id="w-wsj2083-001-p1s1W23">
 <token>nebo</token>
-<no_space_after>1</no_space_after></w>
+<no_space_after>1</no_space_after>
+</w>
 <w id="w-wsj2083-001-p1s1W24">
 <token>-</token>
-<no_space_after>1</no_space_after></w>
+<no_space_after>1</no_space_after>
+</w>
 <w id="w-wsj2083-001-p1s1W25">
 <token>li</token>
 </w>

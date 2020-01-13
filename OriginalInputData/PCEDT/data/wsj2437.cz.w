@@ -33,10 +33,12 @@
 </w>
 <w id="w-wsj2437-001-p1s0W4">
 <token>Dassault</token>
-<no_space_after>1</no_space_after></w>
+<no_space_after>1</no_space_after>
+</w>
 <w id="w-wsj2437-001-p1s0W5">
 <token>-</token>
-<no_space_after>1</no_space_after></w>
+<no_space_after>1</no_space_after>
+</w>
 <w id="w-wsj2437-001-p1s0W6">
 <token>Breguet</token>
 </w>

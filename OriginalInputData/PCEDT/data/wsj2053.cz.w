@@ -154,10 +154,12 @@
 </w>
 <w id="w-wsj2053-001-p1s1W13">
 <token>národně</token>
-<no_space_after>1</no_space_after></w>
+<no_space_after>1</no_space_after>
+</w>
 <w id="w-wsj2053-001-p1s1W14">
 <token>-</token>
-<no_space_after>1</no_space_after></w>
+<no_space_after>1</no_space_after>
+</w>
 <w id="w-wsj2053-001-p1s1W15">
 <token>bezpečnostní</token>
 </w>
@@ -3401,10 +3403,12 @@
 </w>
 <w id="w-wsj2053-001-p1s42W6">
 <token>je</token>
-<no_space_after>1</no_space_after></w>
+<no_space_after>1</no_space_after>
+</w>
 <w id="w-wsj2053-001-p1s42W7">
 <token>-</token>
-<no_space_after>1</no_space_after></w>
+<no_space_after>1</no_space_after>
+</w>
 <w id="w-wsj2053-001-p1s42W8">
 <token>li</token>
 </w>

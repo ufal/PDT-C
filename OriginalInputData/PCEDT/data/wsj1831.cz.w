@@ -609,51 +609,72 @@
 </w>
 <w id="w-wsj1831-001-p1s7W1">
 <token>Přesto</token>
-</w><w id="w-wsj1831-001-p1s7W2">
+</w>
+<w id="w-wsj1831-001-p1s7W2">
 <token>"</token>
 <no_space_after>1</no_space_after>
-</w><w id="w-wsj1831-001-p1s7W3">
+</w>
+<w id="w-wsj1831-001-p1s7W3">
 <token>Bakerovi</token>
-</w><w id="w-wsj1831-001-p1s7W4">
+</w>
+<w id="w-wsj1831-001-p1s7W4">
 <token>hoši</token>
 <no_space_after>1</no_space_after>
-</w><w id="w-wsj1831-001-p1s7W5">
+</w>
+<w id="w-wsj1831-001-p1s7W5">
 <token>"</token>
-</w><w id="w-wsj1831-001-p1s7W6">
+</w>
+<w id="w-wsj1831-001-p1s7W6">
 <token>a</token>
-</w><w id="w-wsj1831-001-p1s7W7">
+</w>
+<w id="w-wsj1831-001-p1s7W7">
 <token>určitě</token>
-</w><w id="w-wsj1831-001-p1s7W8">
+</w>
+<w id="w-wsj1831-001-p1s7W8">
 <token>ani</token>
-</w><w id="w-wsj1831-001-p1s7W9">
+</w>
+<w id="w-wsj1831-001-p1s7W9">
 <token>Michelle</token>
-</w><w id="w-wsj1831-001-p1s7W10">
+</w>
+<w id="w-wsj1831-001-p1s7W10">
 <token>Pfeifferová</token>
-</w><w id="w-wsj1831-001-p1s7W11">
+</w>
+<w id="w-wsj1831-001-p1s7W11">
 <token>nejsou</token>
-</w><w id="w-wsj1831-001-p1s7W12">
+</w>
+<w id="w-wsj1831-001-p1s7W12">
 <token>nic</token>
 <no_space_after>1</no_space_after>
-</w><w id="w-wsj1831-001-p1s7W13">
+</w>
+<w id="w-wsj1831-001-p1s7W13">
 <token>,</token>
-</w><w id="w-wsj1831-001-p1s7W14">
+</w>
+<w id="w-wsj1831-001-p1s7W14">
 <token>co</token>
-</w><w id="w-wsj1831-001-p1s7W15">
+</w>
+<w id="w-wsj1831-001-p1s7W15">
 <token>by</token>
-</w><w id="w-wsj1831-001-p1s7W16">
+</w>
+<w id="w-wsj1831-001-p1s7W16">
 <token>pocházelo</token>
-</w><w id="w-wsj1831-001-p1s7W17">
+</w>
+<w id="w-wsj1831-001-p1s7W17">
 <token>z</token>
-</w><w id="w-wsj1831-001-p1s7W18">
+</w>
+<w id="w-wsj1831-001-p1s7W18">
 <token>nějakého</token>
-</w><w id="w-wsj1831-001-p1s7W19">
+</w>
+<w id="w-wsj1831-001-p1s7W19">
 <token>trezoru</token>
-</w><w id="w-wsj1831-001-p1s7W20">
+</w>
+<w id="w-wsj1831-001-p1s7W20">
 <token>videonahrávek</token>
 <no_space_after>1</no_space_after>
-</w><w id="w-wsj1831-001-p1s7W21">
+</w>
+<w id="w-wsj1831-001-p1s7W21">
 <token>.</token>
-</w><w id="w-wsj1831-001-p1s8W1">
+</w>
+<w id="w-wsj1831-001-p1s8W1">
 <token>Mladý</token>
 </w>
 <w id="w-wsj1831-001-p1s8W2">

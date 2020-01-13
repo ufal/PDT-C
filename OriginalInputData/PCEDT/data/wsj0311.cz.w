@@ -193,10 +193,12 @@
 </w>
 <w id="w-wsj0311-001-p1s2W15">
 <token>338</token>
-<no_space_after>1</no_space_after></w>
+<no_space_after>1</no_space_after>
+</w>
 <w id="w-wsj0311-001-p1s2W16">
 <token>-</token>
-<no_space_after>1</no_space_after></w>
+<no_space_after>1</no_space_after>
+</w>
 <w id="w-wsj0311-001-p1s2W17">
 <token>44</token>
 <no_space_after>1</no_space_after>

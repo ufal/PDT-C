@@ -10794,91 +10794,131 @@
 </w>
 <w id="w-wsj1915-001-p1s106W1">
 <token>SPOLEČNOST</token>
-</w><w id="w-wsj1915-001-p1s106W2">
+</w>
+<w id="w-wsj1915-001-p1s106W2">
 <token>TANDEM</token>
-</w><w id="w-wsj1915-001-p1s106W3">
+</w>
+<w id="w-wsj1915-001-p1s106W3">
 <token>COMPUTERS</token>
-</w><w id="w-wsj1915-001-p1s106W4">
+</w>
+<w id="w-wsj1915-001-p1s106W4">
 <token>INC</token>
 <no_space_after>1</no_space_after>
-</w><w id="w-wsj1915-001-p1s106W5">
+</w>
+<w id="w-wsj1915-001-p1s106W5">
 <token>.</token>
-</w><w id="w-wsj1915-001-p1s106W6">
+</w>
+<w id="w-wsj1915-001-p1s106W6">
 <token>v</token>
-</w><w id="w-wsj1915-001-p1s106W7">
+</w>
+<w id="w-wsj1915-001-p1s106W7">
 <token>Cupertinu</token>
 <no_space_after>1</no_space_after>
-</w><w id="w-wsj1915-001-p1s106W8">
+</w>
+<w id="w-wsj1915-001-p1s106W8">
 <token>,</token>
-</w><w id="w-wsj1915-001-p1s106W9">
+</w>
+<w id="w-wsj1915-001-p1s106W9">
 <token>výrobce</token>
-</w><w id="w-wsj1915-001-p1s106W10">
+</w>
+<w id="w-wsj1915-001-p1s106W10">
 <token>počítačů</token>
-</w><w id="w-wsj1915-001-p1s106W11">
+</w>
+<w id="w-wsj1915-001-p1s106W11">
 <token>s</token>
-</w><w id="w-wsj1915-001-p1s106W12">
+</w>
+<w id="w-wsj1915-001-p1s106W12">
 <token>ročním</token>
-</w><w id="w-wsj1915-001-p1s106W13">
+</w>
+<w id="w-wsj1915-001-p1s106W13">
 <token>obratem</token>
-</w><w id="w-wsj1915-001-p1s106W14">
+</w>
+<w id="w-wsj1915-001-p1s106W14">
 <token>1,6</token>
-</w><w id="w-wsj1915-001-p1s106W15">
+</w>
+<w id="w-wsj1915-001-p1s106W15">
 <token>miliardy</token>
-</w><w id="w-wsj1915-001-p1s106W16">
+</w>
+<w id="w-wsj1915-001-p1s106W16">
 <token>dolarů</token>
 <no_space_after>1</no_space_after>
-</w><w id="w-wsj1915-001-p1s106W17">
+</w>
+<w id="w-wsj1915-001-p1s106W17">
 <token>,</token>
-</w><w id="w-wsj1915-001-p1s106W18">
+</w>
+<w id="w-wsj1915-001-p1s106W18">
 <token>registrovaná</token>
-</w><w id="w-wsj1915-001-p1s106W19">
+</w>
+<w id="w-wsj1915-001-p1s106W19">
 <token>na</token>
-</w><w id="w-wsj1915-001-p1s106W20">
+</w>
+<w id="w-wsj1915-001-p1s106W20">
 <token>Newyorské</token>
-</w><w id="w-wsj1915-001-p1s106W21">
+</w>
+<w id="w-wsj1915-001-p1s106W21">
 <token>burze</token>
-</w><w id="w-wsj1915-001-p1s106W22">
+</w>
+<w id="w-wsj1915-001-p1s106W22">
 <token>cenných</token>
-</w><w id="w-wsj1915-001-p1s106W23">
+</w>
+<w id="w-wsj1915-001-p1s106W23">
 <token>papírů</token>
 <no_space_after>1</no_space_after>
-</w><w id="w-wsj1915-001-p1s106W24">
+</w>
+<w id="w-wsj1915-001-p1s106W24">
 <token>,</token>
-</w><w id="w-wsj1915-001-p1s106W25">
+</w>
+<w id="w-wsj1915-001-p1s106W25">
 <token>oznámila</token>
 <no_space_after>1</no_space_after>
-</w><w id="w-wsj1915-001-p1s106W26">
+</w>
+<w id="w-wsj1915-001-p1s106W26">
 <token>,</token>
-</w><w id="w-wsj1915-001-p1s106W27">
+</w>
+<w id="w-wsj1915-001-p1s106W27">
 <token>že</token>
-</w><w id="w-wsj1915-001-p1s106W28">
+</w>
+<w id="w-wsj1915-001-p1s106W28">
 <token>neutrpěla</token>
-</w><w id="w-wsj1915-001-p1s106W29">
+</w>
+<w id="w-wsj1915-001-p1s106W29">
 <token>žádné</token>
-</w><w id="w-wsj1915-001-p1s106W30">
+</w>
+<w id="w-wsj1915-001-p1s106W30">
 <token>podstatné</token>
-</w><w id="w-wsj1915-001-p1s106W31">
+</w>
+<w id="w-wsj1915-001-p1s106W31">
 <token>škody</token>
-</w><w id="w-wsj1915-001-p1s106W32">
+</w>
+<w id="w-wsj1915-001-p1s106W32">
 <token>a</token>
-</w><w id="w-wsj1915-001-p1s106W33">
+</w>
+<w id="w-wsj1915-001-p1s106W33">
 <token>do</token>
-</w><w id="w-wsj1915-001-p1s106W34">
+</w>
+<w id="w-wsj1915-001-p1s106W34">
 <token>týdne</token>
-</w><w id="w-wsj1915-001-p1s106W35">
+</w>
+<w id="w-wsj1915-001-p1s106W35">
 <token>by</token>
-</w><w id="w-wsj1915-001-p1s106W36">
+</w>
+<w id="w-wsj1915-001-p1s106W36">
 <token>měla</token>
-</w><w id="w-wsj1915-001-p1s106W37">
+</w>
+<w id="w-wsj1915-001-p1s106W37">
 <token>být</token>
-</w><w id="w-wsj1915-001-p1s106W38">
+</w>
+<w id="w-wsj1915-001-p1s106W38">
 <token>plně</token>
-</w><w id="w-wsj1915-001-p1s106W39">
+</w>
+<w id="w-wsj1915-001-p1s106W39">
 <token>provozuschopná</token>
 <no_space_after>1</no_space_after>
-</w><w id="w-wsj1915-001-p1s106W40">
+</w>
+<w id="w-wsj1915-001-p1s106W40">
 <token>.</token>
-</w><w id="w-wsj1915-001-p1s107W1">
+</w>
+<w id="w-wsj1915-001-p1s107W1">
 <token>Mnoho</token>
 </w>
 <w id="w-wsj1915-001-p1s107W2">

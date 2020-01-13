@@ -2032,10 +2032,12 @@
 </w>
 <w id="w-wsj2124-001-p1s26W31">
 <token>Coca</token>
-<no_space_after>1</no_space_after></w>
+<no_space_after>1</no_space_after>
+</w>
 <w id="w-wsj2124-001-p1s26W32">
 <token>-</token>
-<no_space_after>1</no_space_after></w>
+<no_space_after>1</no_space_after>
+</w>
 <w id="w-wsj2124-001-p1s26W33">
 <token>Cola</token>
 <no_space_after>1</no_space_after>

@@ -1111,7 +1111,8 @@
 </w>
 <w id="w-wsj2417-001-p1s14W7">
 <token>S</token>
-<no_space_after>1</no_space_after></w>
+<no_space_after>1</no_space_after>
+</w>
 <w id="w-wsj2417-001-p1s14W8">
 <token>&amp;</token>
 <no_space_after>1</no_space_after>
@@ -1268,7 +1269,8 @@
 </w>
 <w id="w-wsj2417-001-p1s16W8">
 <token>S</token>
-<no_space_after>1</no_space_after></w>
+<no_space_after>1</no_space_after>
+</w>
 <w id="w-wsj2417-001-p1s16W9">
 <token>&amp;</token>
 <no_space_after>1</no_space_after>
@@ -1457,7 +1459,8 @@
 </w>
 <w id="w-wsj2417-001-p1s20W8">
 <token>S</token>
-<no_space_after>1</no_space_after></w>
+<no_space_after>1</no_space_after>
+</w>
 <w id="w-wsj2417-001-p1s20W9">
 <token>&amp;</token>
 <no_space_after>1</no_space_after>
@@ -1643,7 +1646,8 @@
 </w>
 <w id="w-wsj2417-001-p1s22W12">
 <token>S</token>
-<no_space_after>1</no_space_after></w>
+<no_space_after>1</no_space_after>
+</w>
 <w id="w-wsj2417-001-p1s22W13">
 <token>&amp;</token>
 <no_space_after>1</no_space_after>
@@ -1745,7 +1749,8 @@
 </w>
 <w id="w-wsj2417-001-p1s24W3">
 <token>S</token>
-<no_space_after>1</no_space_after></w>
+<no_space_after>1</no_space_after>
+</w>
 <w id="w-wsj2417-001-p1s24W4">
 <token>&amp;</token>
 <no_space_after>1</no_space_after>
@@ -3092,7 +3097,8 @@
 </w>
 <w id="w-wsj2417-001-p1s43W5">
 <token>S</token>
-<no_space_after>1</no_space_after></w>
+<no_space_after>1</no_space_after>
+</w>
 <w id="w-wsj2417-001-p1s43W6">
 <token>&amp;</token>
 <no_space_after>1</no_space_after>
@@ -3229,7 +3235,8 @@
 </w>
 <w id="w-wsj2417-001-p1s45W5">
 <token>S</token>
-<no_space_after>1</no_space_after></w>
+<no_space_after>1</no_space_after>
+</w>
 <w id="w-wsj2417-001-p1s45W6">
 <token>&amp;</token>
 <no_space_after>1</no_space_after>
@@ -3395,7 +3402,8 @@
 </w>
 <w id="w-wsj2417-001-p1s47W5">
 <token>S</token>
-<no_space_after>1</no_space_after></w>
+<no_space_after>1</no_space_after>
+</w>
 <w id="w-wsj2417-001-p1s47W6">
 <token>&amp;</token>
 <no_space_after>1</no_space_after>
@@ -3527,7 +3535,8 @@
 </w>
 <w id="w-wsj2417-001-p1s49W2">
 <token>S</token>
-<no_space_after>1</no_space_after></w>
+<no_space_after>1</no_space_after>
+</w>
 <w id="w-wsj2417-001-p1s49W3">
 <token>&amp;</token>
 <no_space_after>1</no_space_after>
@@ -3621,7 +3630,8 @@
 </w>
 <w id="w-wsj2417-001-p1s51W6">
 <token>S</token>
-<no_space_after>1</no_space_after></w>
+<no_space_after>1</no_space_after>
+</w>
 <w id="w-wsj2417-001-p1s51W7">
 <token>&amp;</token>
 <no_space_after>1</no_space_after>
@@ -5362,10 +5372,12 @@
 </w>
 <w id="w-wsj2417-001-p1s80W30">
 <token>východo</token>
-<no_space_after>1</no_space_after></w>
+<no_space_after>1</no_space_after>
+</w>
 <w id="w-wsj2417-001-p1s80W31">
 <token>-</token>
-<no_space_after>1</no_space_after></w>
+<no_space_after>1</no_space_after>
+</w>
 <w id="w-wsj2417-001-p1s80W32">
 <token>západní</token>
 </w>

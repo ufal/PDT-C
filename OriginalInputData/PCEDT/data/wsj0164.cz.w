@@ -267,48 +267,69 @@
 </w>
 <w id="w-wsj0164-001-p1s3W1">
 <token>Tržby</token>
-</w><w id="w-wsj0164-001-p1s3W2">
+</w>
+<w id="w-wsj0164-001-p1s3W2">
 <token>činily</token>
-</w><w id="w-wsj0164-001-p1s3W3">
+</w>
+<w id="w-wsj0164-001-p1s3W3">
 <token>celkem</token>
-</w><w id="w-wsj0164-001-p1s3W4">
+</w>
+<w id="w-wsj0164-001-p1s3W4">
 <token>1,916</token>
-</w><w id="w-wsj0164-001-p1s3W5">
+</w>
+<w id="w-wsj0164-001-p1s3W5">
 <token>bilionu</token>
-</w><w id="w-wsj0164-001-p1s3W6">
+</w>
+<w id="w-wsj0164-001-p1s3W6">
 <token>jenů</token>
-</w><w id="w-wsj0164-001-p1s3W7">
+</w>
+<w id="w-wsj0164-001-p1s3W7">
 <token>a</token>
-</w><w id="w-wsj0164-001-p1s3W8">
+</w>
+<w id="w-wsj0164-001-p1s3W8">
 <token>oproti</token>
-</w><w id="w-wsj0164-001-p1s3W9">
+</w>
+<w id="w-wsj0164-001-p1s3W9">
 <token>stejnému</token>
-</w><w id="w-wsj0164-001-p1s3W10">
+</w>
+<w id="w-wsj0164-001-p1s3W10">
 <token>období</token>
-</w><w id="w-wsj0164-001-p1s3W11">
+</w>
+<w id="w-wsj0164-001-p1s3W11">
 <token>v</token>
-</w><w id="w-wsj0164-001-p1s3W12">
+</w>
+<w id="w-wsj0164-001-p1s3W12">
 <token>loňském</token>
-</w><w id="w-wsj0164-001-p1s3W13">
+</w>
+<w id="w-wsj0164-001-p1s3W13">
 <token>roce</token>
-</w><w id="w-wsj0164-001-p1s3W14">
+</w>
+<w id="w-wsj0164-001-p1s3W14">
 <token>vzrostly</token>
-</w><w id="w-wsj0164-001-p1s3W15">
+</w>
+<w id="w-wsj0164-001-p1s3W15">
 <token>o</token>
-</w><w id="w-wsj0164-001-p1s3W16">
+</w>
+<w id="w-wsj0164-001-p1s3W16">
 <token>17</token>
-</w><w id="w-wsj0164-001-p1s3W17">
+</w>
+<w id="w-wsj0164-001-p1s3W17">
 <token>%</token>
-</w><w id="w-wsj0164-001-p1s3W18">
+</w>
+<w id="w-wsj0164-001-p1s3W18">
 <token>z</token>
-</w><w id="w-wsj0164-001-p1s3W19">
+</w>
+<w id="w-wsj0164-001-p1s3W19">
 <token>1,637</token>
-</w><w id="w-wsj0164-001-p1s3W20">
+</w>
+<w id="w-wsj0164-001-p1s3W20">
 <token>bilionu</token>
 <no_space_after>1</no_space_after>
-</w><w id="w-wsj0164-001-p1s3W21">
+</w>
+<w id="w-wsj0164-001-p1s3W21">
 <token>.</token>
-</w><w id="w-wsj0164-001-p1s4W1">
+</w>
+<w id="w-wsj0164-001-p1s4W1">
 <token>Společnost</token>
 </w>
 <w id="w-wsj0164-001-p1s4W2">

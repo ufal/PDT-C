@@ -339,55 +339,78 @@
 </w>
 <w id="w-wsj0172-001-p1s4W1">
 <token>Společnost</token>
-</w><w id="w-wsj0172-001-p1s4W2">
+</w>
+<w id="w-wsj0172-001-p1s4W2">
 <token>Kalamazoo</token>
 <no_space_after>1</no_space_after>
-</w><w id="w-wsj0172-001-p1s4W3">
+</w>
+<w id="w-wsj0172-001-p1s4W3">
 <token>,</token>
-</w><w id="w-wsj0172-001-p1s4W4">
+</w>
+<w id="w-wsj0172-001-p1s4W4">
 <token>michiganská</token>
-</w><w id="w-wsj0172-001-p1s4W5">
+</w>
+<w id="w-wsj0172-001-p1s4W5">
 <token>pobočka</token>
-</w><w id="w-wsj0172-001-p1s4W6">
+</w>
+<w id="w-wsj0172-001-p1s4W6">
 <token>First</token>
-</w><w id="w-wsj0172-001-p1s4W7">
+</w>
+<w id="w-wsj0172-001-p1s4W7">
 <token>of</token>
-</w><w id="w-wsj0172-001-p1s4W8">
+</w>
+<w id="w-wsj0172-001-p1s4W8">
 <token>America</token>
 <no_space_after>1</no_space_after>
-</w><w id="w-wsj0172-001-p1s4W9">
+</w>
+<w id="w-wsj0172-001-p1s4W9">
 <token>,</token>
-</w><w id="w-wsj0172-001-p1s4W10">
+</w>
+<w id="w-wsj0172-001-p1s4W10">
 <token>uvedla</token>
 <no_space_after>1</no_space_after>
-</w><w id="w-wsj0172-001-p1s4W11">
+</w>
+<w id="w-wsj0172-001-p1s4W11">
 <token>,</token>
-</w><w id="w-wsj0172-001-p1s4W12">
+</w>
+<w id="w-wsj0172-001-p1s4W12">
 <token>že</token>
-</w><w id="w-wsj0172-001-p1s4W13">
+</w>
+<w id="w-wsj0172-001-p1s4W13">
 <token>zruší</token>
-</w><w id="w-wsj0172-001-p1s4W14">
+</w>
+<w id="w-wsj0172-001-p1s4W14">
 <token>13</token>
-</w><w id="w-wsj0172-001-p1s4W15">
+</w>
+<w id="w-wsj0172-001-p1s4W15">
 <token>vedoucích</token>
-</w><w id="w-wsj0172-001-p1s4W16">
+</w>
+<w id="w-wsj0172-001-p1s4W16">
 <token>míst</token>
-</w><w id="w-wsj0172-001-p1s4W17">
+</w>
+<w id="w-wsj0172-001-p1s4W17">
 <token>v</token>
-</w><w id="w-wsj0172-001-p1s4W18">
+</w>
+<w id="w-wsj0172-001-p1s4W18">
 <token>bývalé</token>
-</w><w id="w-wsj0172-001-p1s4W19">
+</w>
+<w id="w-wsj0172-001-p1s4W19">
 <token>mateřské</token>
-</w><w id="w-wsj0172-001-p1s4W20">
+</w>
+<w id="w-wsj0172-001-p1s4W20">
 <token>společnosti</token>
-</w><w id="w-wsj0172-001-p1s4W21">
+</w>
+<w id="w-wsj0172-001-p1s4W21">
 <token>Midwest</token>
-</w><w id="w-wsj0172-001-p1s4W22">
+</w>
+<w id="w-wsj0172-001-p1s4W22">
 <token>Financial</token>
 <no_space_after>1</no_space_after>
-</w><w id="w-wsj0172-001-p1s4W23">
+</w>
+<w id="w-wsj0172-001-p1s4W23">
 <token>.</token>
-</w><w id="w-wsj0172-001-p1s5W1">
+</w>
+<w id="w-wsj0172-001-p1s5W1">
 <token>First</token>
 </w>
 <w id="w-wsj0172-001-p1s5W2">

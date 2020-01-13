@@ -256,7 +256,8 @@
 </w>
 <w id="w-wsj1019-001-p1s2W17">
 <token>S</token>
-<no_space_after>1</no_space_after></w>
+<no_space_after>1</no_space_after>
+</w>
 <w id="w-wsj1019-001-p1s2W18">
 <token>&amp;</token>
 <no_space_after>1</no_space_after>
@@ -949,7 +950,8 @@
 </w>
 <w id="w-wsj1019-001-p1s10W15">
 <token>S</token>
-<no_space_after>1</no_space_after></w>
+<no_space_after>1</no_space_after>
+</w>
 <w id="w-wsj1019-001-p1s10W16">
 <token>&amp;</token>
 <no_space_after>1</no_space_after>

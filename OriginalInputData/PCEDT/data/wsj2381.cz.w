@@ -2402,7 +2402,8 @@
 </w>
 <w id="w-wsj2381-001-p1s30W29">
 <token>S</token>
-<no_space_after>1</no_space_after></w>
+<no_space_after>1</no_space_after>
+</w>
 <w id="w-wsj2381-001-p1s30W30">
 <token>&amp;</token>
 <no_space_after>1</no_space_after>

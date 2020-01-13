@@ -1138,10 +1138,12 @@
 </w>
 <w id="w-wsj0347-001-p1s15W13">
 <token>čínsko</token>
-<no_space_after>1</no_space_after></w>
+<no_space_after>1</no_space_after>
+</w>
 <w id="w-wsj0347-001-p1s15W14">
 <token>-</token>
-<no_space_after>1</no_space_after></w>
+<no_space_after>1</no_space_after>
+</w>
 <w id="w-wsj0347-001-p1s15W15">
 <token>amerických</token>
 </w>

@@ -24,66 +24,95 @@
 <othermarkup origin="csts/doc/p/@n">1</othermarkup>
 <w id="w-wsj2069-001-p1s0W1">
 <token>Hudsonův</token>
-</w><w id="w-wsj2069-001-p1s0W2">
+</w>
+<w id="w-wsj2069-001-p1s0W2">
 <token>institut</token>
-</w><w id="w-wsj2069-001-p1s0W3">
+</w>
+<w id="w-wsj2069-001-p1s0W3">
 <token>doporučuje</token>
 <no_space_after>1</no_space_after>
-</w><w id="w-wsj2069-001-p1s0W4">
+</w>
+<w id="w-wsj2069-001-p1s0W4">
 <token>,</token>
-</w><w id="w-wsj2069-001-p1s0W5">
+</w>
+<w id="w-wsj2069-001-p1s0W5">
 <token>aby</token>
-</w><w id="w-wsj2069-001-p1s0W6">
+</w>
+<w id="w-wsj2069-001-p1s0W6">
 <token>federální</token>
-</w><w id="w-wsj2069-001-p1s0W7">
+</w>
+<w id="w-wsj2069-001-p1s0W7">
 <token>vláda</token>
-</w><w id="w-wsj2069-001-p1s0W8">
+</w>
+<w id="w-wsj2069-001-p1s0W8">
 <token>zavedla</token>
-</w><w id="w-wsj2069-001-p1s0W9">
+</w>
+<w id="w-wsj2069-001-p1s0W9">
 <token>bezplatné</token>
-</w><w id="w-wsj2069-001-p1s0W10">
+</w>
+<w id="w-wsj2069-001-p1s0W10">
 <token>a</token>
-</w><w id="w-wsj2069-001-p1s0W11">
+</w>
+<w id="w-wsj2069-001-p1s0W11">
 <token>dobrovolné</token>
-</w><w id="w-wsj2069-001-p1s0W12">
+</w>
+<w id="w-wsj2069-001-p1s0W12">
 <token>testování</token>
-</w><w id="w-wsj2069-001-p1s0W13">
+</w>
+<w id="w-wsj2069-001-p1s0W13">
 <token>viru</token>
-</w><w id="w-wsj2069-001-p1s0W14">
+</w>
+<w id="w-wsj2069-001-p1s0W14">
 <token>AIDS</token>
 <no_space_after>1</no_space_after>
-</w><w id="w-wsj2069-001-p1s0W15">
+</w>
+<w id="w-wsj2069-001-p1s0W15">
 <token>,</token>
-</w><w id="w-wsj2069-001-p1s0W16">
+</w>
+<w id="w-wsj2069-001-p1s0W16">
 <token>které</token>
-</w><w id="w-wsj2069-001-p1s0W17">
+</w>
+<w id="w-wsj2069-001-p1s0W17">
 <token>je</token>
-</w><w id="w-wsj2069-001-p1s0W18">
+</w>
+<w id="w-wsj2069-001-p1s0W18">
 <token>základním</token>
-</w><w id="w-wsj2069-001-p1s0W19">
+</w>
+<w id="w-wsj2069-001-p1s0W19">
 <token>kamenem</token>
-</w><w id="w-wsj2069-001-p1s0W20">
+</w>
+<w id="w-wsj2069-001-p1s0W20">
 <token>rozsáhlé</token>
-</w><w id="w-wsj2069-001-p1s0W21">
+</w>
+<w id="w-wsj2069-001-p1s0W21">
 <token>kampaně</token>
-</w><w id="w-wsj2069-001-p1s0W22">
+</w>
+<w id="w-wsj2069-001-p1s0W22">
 <token>za</token>
-</w><w id="w-wsj2069-001-p1s0W23">
+</w>
+<w id="w-wsj2069-001-p1s0W23">
 <token>zastavení</token>
-</w><w id="w-wsj2069-001-p1s0W24">
+</w>
+<w id="w-wsj2069-001-p1s0W24">
 <token>šíření</token>
-</w><w id="w-wsj2069-001-p1s0W25">
+</w>
+<w id="w-wsj2069-001-p1s0W25">
 <token>získaného</token>
-</w><w id="w-wsj2069-001-p1s0W26">
+</w>
+<w id="w-wsj2069-001-p1s0W26">
 <token>syndromu</token>
-</w><w id="w-wsj2069-001-p1s0W27">
+</w>
+<w id="w-wsj2069-001-p1s0W27">
 <token>selhání</token>
-</w><w id="w-wsj2069-001-p1s0W28">
+</w>
+<w id="w-wsj2069-001-p1s0W28">
 <token>imunity</token>
 <no_space_after>1</no_space_after>
-</w><w id="w-wsj2069-001-p1s0W29">
+</w>
+<w id="w-wsj2069-001-p1s0W29">
 <token>.</token>
-</w><w id="w-wsj2069-001-p1s1W1">
+</w>
+<w id="w-wsj2069-001-p1s1W1">
 <token>"</token>
 <no_space_after>1</no_space_after>
 </w>

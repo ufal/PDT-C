@@ -2030,25 +2030,34 @@
 <w id="w-wsj2412-001-p1s44W1">
 <token>3</token>
 <no_space_after>1</no_space_after>
-</w><w id="w-wsj2412-001-p1s44W2">
+</w>
+<w id="w-wsj2412-001-p1s44W2">
 <token>.</token>
-</w><w id="w-wsj2412-001-p1s44W3">
+</w>
+<w id="w-wsj2412-001-p1s44W3">
 <token>Povzbuzování</token>
-</w><w id="w-wsj2412-001-p1s44W4">
+</w>
+<w id="w-wsj2412-001-p1s44W4">
 <token>je</token>
-</w><w id="w-wsj2412-001-p1s44W5">
+</w>
+<w id="w-wsj2412-001-p1s44W5">
 <token>dobré</token>
 <no_space_after>1</no_space_after>
-</w><w id="w-wsj2412-001-p1s44W6">
+</w>
+<w id="w-wsj2412-001-p1s44W6">
 <token>,</token>
-</w><w id="w-wsj2412-001-p1s44W7">
+</w>
+<w id="w-wsj2412-001-p1s44W7">
 <token>nucení</token>
-</w><w id="w-wsj2412-001-p1s44W8">
+</w>
+<w id="w-wsj2412-001-p1s44W8">
 <token>nikoliv</token>
 <no_space_after>1</no_space_after>
-</w><w id="w-wsj2412-001-p1s44W9">
+</w>
+<w id="w-wsj2412-001-p1s44W9">
 <token>.</token>
-</w><w id="w-wsj2412-001-p1s45W1">
+</w>
+<w id="w-wsj2412-001-p1s45W1">
 <token>Nucená</token>
 </w>
 <w id="w-wsj2412-001-p1s45W2">
@@ -2834,10 +2843,12 @@
 </w>
 <w id="w-wsj2412-001-p1s59W13">
 <token>vezme</token>
-<no_space_after>1</no_space_after></w>
+<no_space_after>1</no_space_after>
+</w>
 <w id="w-wsj2412-001-p1s59W14">
 <token>-</token>
-<no_space_after>1</no_space_after></w>
+<no_space_after>1</no_space_after>
+</w>
 <w id="w-wsj2412-001-p1s59W15">
 <token>li</token>
 </w>

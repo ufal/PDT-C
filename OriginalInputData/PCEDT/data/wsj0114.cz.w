@@ -1111,10 +1111,12 @@
 </w>
 <w id="w-wsj0114-001-p1s14W6">
 <token>News</token>
-<no_space_after>1</no_space_after></w>
+<no_space_after>1</no_space_after>
+</w>
 <w id="w-wsj0114-001-p1s14W7">
 <token>-</token>
-<no_space_after>1</no_space_after></w>
+<no_space_after>1</no_space_after>
+</w>
 <w id="w-wsj0114-001-p1s14W8">
 <token>American</token>
 <no_space_after>1</no_space_after>
@@ -1143,10 +1145,12 @@
 </w>
 <w id="w-wsj0114-001-p1s14W16">
 <token>Herald</token>
-<no_space_after>1</no_space_after></w>
+<no_space_after>1</no_space_after>
+</w>
 <w id="w-wsj0114-001-p1s14W17">
 <token>-</token>
-<no_space_after>1</no_space_after></w>
+<no_space_after>1</no_space_after>
+</w>
 <w id="w-wsj0114-001-p1s14W18">
 <token>American</token>
 <no_space_after>1</no_space_after>

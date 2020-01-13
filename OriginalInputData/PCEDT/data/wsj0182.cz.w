@@ -130,69 +130,99 @@
 <w id="w-wsj0182-001-p1s2W1">
 <token>Metallgesellschaft</token>
 <no_space_after>1</no_space_after>
-</w><w id="w-wsj0182-001-p1s2W2">
+</w>
+<w id="w-wsj0182-001-p1s2W2">
 <token>,</token>
-</w><w id="w-wsj0182-001-p1s2W3">
+</w>
+<w id="w-wsj0182-001-p1s2W3">
 <token>diverzifikovaná</token>
-</w><w id="w-wsj0182-001-p1s2W4">
+</w>
+<w id="w-wsj0182-001-p1s2W4">
 <token>kovodělná</token>
-</w><w id="w-wsj0182-001-p1s2W5">
+</w>
+<w id="w-wsj0182-001-p1s2W5">
 <token>skupina</token>
-</w><w id="w-wsj0182-001-p1s2W6">
+</w>
+<w id="w-wsj0182-001-p1s2W6">
 <token>sídlící</token>
-</w><w id="w-wsj0182-001-p1s2W7">
+</w>
+<w id="w-wsj0182-001-p1s2W7">
 <token>ve</token>
-</w><w id="w-wsj0182-001-p1s2W8">
+</w>
+<w id="w-wsj0182-001-p1s2W8">
 <token>Frankfurtu</token>
-</w><w id="w-wsj0182-001-p1s2W9">
+</w>
+<w id="w-wsj0182-001-p1s2W9">
 <token>v</token>
-</w><w id="w-wsj0182-001-p1s2W10">
+</w>
+<w id="w-wsj0182-001-p1s2W10">
 <token>západním</token>
-</w><w id="w-wsj0182-001-p1s2W11">
+</w>
+<w id="w-wsj0182-001-p1s2W11">
 <token>Německu</token>
 <no_space_after>1</no_space_after>
-</w><w id="w-wsj0182-001-p1s2W12">
+</w>
+<w id="w-wsj0182-001-p1s2W12">
 <token>,</token>
-</w><w id="w-wsj0182-001-p1s2W13">
+</w>
+<w id="w-wsj0182-001-p1s2W13">
 <token>uvedla</token>
 <no_space_after>1</no_space_after>
-</w><w id="w-wsj0182-001-p1s2W14">
+</w>
+<w id="w-wsj0182-001-p1s2W14">
 <token>,</token>
-</w><w id="w-wsj0182-001-p1s2W15">
+</w>
+<w id="w-wsj0182-001-p1s2W15">
 <token>že</token>
-</w><w id="w-wsj0182-001-p1s2W16">
+</w>
+<w id="w-wsj0182-001-p1s2W16">
 <token>kupuje</token>
-</w><w id="w-wsj0182-001-p1s2W17">
+</w>
+<w id="w-wsj0182-001-p1s2W17">
 <token>podíl</token>
-</w><w id="w-wsj0182-001-p1s2W18">
+</w>
+<w id="w-wsj0182-001-p1s2W18">
 <token>ve</token>
-</w><w id="w-wsj0182-001-p1s2W19">
+</w>
+<w id="w-wsj0182-001-p1s2W19">
 <token>specializované</token>
-</w><w id="w-wsj0182-001-p1s2W20">
+</w>
+<w id="w-wsj0182-001-p1s2W20">
 <token>strojírenské</token>
-</w><w id="w-wsj0182-001-p1s2W21">
+</w>
+<w id="w-wsj0182-001-p1s2W21">
 <token>společnosti</token>
 <no_space_after>1</no_space_after>
-</w><w id="w-wsj0182-001-p1s2W22">
+</w>
+<w id="w-wsj0182-001-p1s2W22">
 <token>,</token>
-</w><w id="w-wsj0182-001-p1s2W23">
+</w>
+<w id="w-wsj0182-001-p1s2W23">
 <token>aby</token>
-</w><w id="w-wsj0182-001-p1s2W24">
+</w>
+<w id="w-wsj0182-001-p1s2W24">
 <token>rozšířila</token>
-</w><w id="w-wsj0182-001-p1s2W25">
+</w>
+<w id="w-wsj0182-001-p1s2W25">
 <token>svou</token>
-</w><w id="w-wsj0182-001-p1s2W26">
+</w>
+<w id="w-wsj0182-001-p1s2W26">
 <token>produkci</token>
-</w><w id="w-wsj0182-001-p1s2W27">
+</w>
+<w id="w-wsj0182-001-p1s2W27">
 <token>ekologických</token>
-</w><w id="w-wsj0182-001-p1s2W28">
+</w>
+<w id="w-wsj0182-001-p1s2W28">
 <token>dodávek</token>
-</w><w id="w-wsj0182-001-p1s2W29">
+</w>
+<w id="w-wsj0182-001-p1s2W29">
 <token>elektrárnám</token>
 <no_space_after>1</no_space_after>
-</w><w id="w-wsj0182-001-p1s2W30">
+</w>
+<w id="w-wsj0182-001-p1s2W30">
 <token>.</token>
-</w><w id="w-wsj0182-001-p1s3W1">
+</w>
+<w id="w-wsj0182-001-p1s3W1">
 <token>Společnost</token>
 </w>
 <w id="w-wsj0182-001-p1s3W2">

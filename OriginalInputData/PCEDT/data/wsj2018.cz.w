@@ -154,7 +154,8 @@
 </w>
 <w id="w-wsj2018-001-p1s1W16">
 <token>P</token>
-<no_space_after>1</no_space_after></w>
+<no_space_after>1</no_space_after>
+</w>
 <w id="w-wsj2018-001-p1s1W17">
 <token>&amp;</token>
 <no_space_after>1</no_space_after>
@@ -208,7 +209,8 @@
 </w>
 <w id="w-wsj2018-001-p1s1W33">
 <token>P</token>
-<no_space_after>1</no_space_after></w>
+<no_space_after>1</no_space_after>
+</w>
 <w id="w-wsj2018-001-p1s1W34">
 <token>&amp;</token>
 <no_space_after>1</no_space_after>

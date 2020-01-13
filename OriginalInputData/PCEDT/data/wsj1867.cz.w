@@ -3091,7 +3091,8 @@
 </w>
 <w id="w-wsj1867-001-p1s51W8">
 <token>11,25</token>
-<no_space_after>1</no_space_after></w>
+<no_space_after>1</no_space_after>
+</w>
 <w id="w-wsj1867-001-p1s51W9">
 <token>%</token>
 </w>
@@ -3186,7 +3187,8 @@
 </w>
 <w id="w-wsj1867-001-p1s52W8">
 <token>11,75</token>
-<no_space_after>1</no_space_after></w>
+<no_space_after>1</no_space_after>
+</w>
 <w id="w-wsj1867-001-p1s52W9">
 <token>%</token>
 </w>
@@ -3292,7 +3294,8 @@
 </w>
 <w id="w-wsj1867-001-p1s53W11">
 <token>8</token>
-<no_space_after>1</no_space_after></w>
+<no_space_after>1</no_space_after>
+</w>
 <w id="w-wsj1867-001-p1s53W12">
 <token>%</token>
 </w>
@@ -3387,7 +3390,8 @@
 </w>
 <w id="w-wsj1867-001-p1s54W8">
 <token>12,5</token>
-<no_space_after>1</no_space_after></w>
+<no_space_after>1</no_space_after>
+</w>
 <w id="w-wsj1867-001-p1s54W9">
 <token>%</token>
 </w>
@@ -3523,7 +3527,8 @@
 </w>
 <w id="w-wsj1867-001-p1s55W19">
 <token>S</token>
-<no_space_after>1</no_space_after></w>
+<no_space_after>1</no_space_after>
+</w>
 <w id="w-wsj1867-001-p1s55W20">
 <token>&amp;</token>
 <no_space_after>1</no_space_after>

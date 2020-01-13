@@ -3140,36 +3140,51 @@
 </w>
 <w id="w-wsj1480-001-p1s42W1">
 <token>Ceny</token>
-</w><w id="w-wsj1480-001-p1s42W2">
+</w>
+<w id="w-wsj1480-001-p1s42W2">
 <token>akcií</token>
-</w><w id="w-wsj1480-001-p1s42W3">
+</w>
+<w id="w-wsj1480-001-p1s42W3">
 <token>skončily</token>
-</w><w id="w-wsj1480-001-p1s42W4">
+</w>
+<w id="w-wsj1480-001-p1s42W4">
 <token>v</token>
-</w><w id="w-wsj1480-001-p1s42W5">
+</w>
+<w id="w-wsj1480-001-p1s42W5">
 <token>pátek</token>
-</w><w id="w-wsj1480-001-p1s42W6">
+</w>
+<w id="w-wsj1480-001-p1s42W6">
 <token>v</token>
-</w><w id="w-wsj1480-001-p1s42W7">
+</w>
+<w id="w-wsj1480-001-p1s42W7">
 <token>obchodování</token>
-</w><w id="w-wsj1480-001-p1s42W8">
+</w>
+<w id="w-wsj1480-001-p1s42W8">
 <token>propadajícím</token>
-</w><w id="w-wsj1480-001-p1s42W9">
+</w>
+<w id="w-wsj1480-001-p1s42W9">
 <token>se</token>
-</w><w id="w-wsj1480-001-p1s42W10">
+</w>
+<w id="w-wsj1480-001-p1s42W10">
 <token>do</token>
-</w><w id="w-wsj1480-001-p1s42W11">
+</w>
+<w id="w-wsj1480-001-p1s42W11">
 <token>ticha</token>
-</w><w id="w-wsj1480-001-p1s42W12">
+</w>
+<w id="w-wsj1480-001-p1s42W12">
 <token>téměř</token>
-</w><w id="w-wsj1480-001-p1s42W13">
+</w>
+<w id="w-wsj1480-001-p1s42W13">
 <token>beze</token>
-</w><w id="w-wsj1480-001-p1s42W14">
+</w>
+<w id="w-wsj1480-001-p1s42W14">
 <token>změn</token>
 <no_space_after>1</no_space_after>
-</w><w id="w-wsj1480-001-p1s42W15">
+</w>
+<w id="w-wsj1480-001-p1s42W15">
 <token>.</token>
-</w><w id="w-wsj1480-001-p1s43W1">
+</w>
+<w id="w-wsj1480-001-p1s43W1">
 <token>Obchodníci</token>
 </w>
 <w id="w-wsj1480-001-p1s43W2">

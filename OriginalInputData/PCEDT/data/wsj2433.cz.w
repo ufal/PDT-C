@@ -2424,10 +2424,12 @@
 </w>
 <w id="w-wsj2433-001-p1s30W2">
 <token>Houston</token>
-<no_space_after>1</no_space_after></w>
+<no_space_after>1</no_space_after>
+</w>
 <w id="w-wsj2433-001-p1s30W3">
 <token>-</token>
-<no_space_after>1</no_space_after></w>
+<no_space_after>1</no_space_after>
+</w>
 <w id="w-wsj2433-001-p1s30W4">
 <token>Calgary</token>
 <no_space_after>1</no_space_after>

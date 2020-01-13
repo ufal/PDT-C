@@ -437,10 +437,12 @@
 </w>
 <w id="w-wsj0159-001-p1s3W11">
 <token>nebo</token>
-<no_space_after>1</no_space_after></w>
+<no_space_after>1</no_space_after>
+</w>
 <w id="w-wsj0159-001-p1s3W12">
 <token>-</token>
-<no_space_after>1</no_space_after></w>
+<no_space_after>1</no_space_after>
+</w>
 <w id="w-wsj0159-001-p1s3W13">
 <token>li</token>
 </w>

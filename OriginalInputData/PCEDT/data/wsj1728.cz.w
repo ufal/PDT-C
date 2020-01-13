@@ -791,7 +791,8 @@
 </w>
 <w id="w-wsj1728-001-p1s12W2">
 <token>AT</token>
-<no_space_after>1</no_space_after></w>
+<no_space_after>1</no_space_after>
+</w>
 <w id="w-wsj1728-001-p1s12W3">
 <token>&amp;</token>
 <no_space_after>1</no_space_after>

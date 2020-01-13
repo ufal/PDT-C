@@ -1119,10 +1119,12 @@
 </w>
 <w id="w-wsj0174-001-p1s16W12">
 <token>500</token>
-<no_space_after>1</no_space_after></w>
+<no_space_after>1</no_space_after>
+</w>
 <w id="w-wsj0174-001-p1s16W13">
 <token>-</token>
-<no_space_after>1</no_space_after></w>
+<no_space_after>1</no_space_after>
+</w>
 <w id="w-wsj0174-001-p1s16W14">
 <token>milionového</token>
 </w>
@@ -1432,10 +1434,12 @@
 </w>
 <w id="w-wsj0174-001-p1s21W10">
 <token>pro</token>
-<no_space_after>1</no_space_after></w>
+<no_space_after>1</no_space_after>
+</w>
 <w id="w-wsj0174-001-p1s21W11">
 <token>-</token>
-<no_space_after>1</no_space_after></w>
+<no_space_after>1</no_space_after>
+</w>
 <w id="w-wsj0174-001-p1s21W12">
 <token>iránský</token>
 </w>
@@ -1607,10 +1611,12 @@
 </w>
 <w id="w-wsj0174-001-p1s23W18">
 <token>čínsko</token>
-<no_space_after>1</no_space_after></w>
+<no_space_after>1</no_space_after>
+</w>
 <w id="w-wsj0174-001-p1s23W19">
 <token>-</token>
-<no_space_after>1</no_space_after></w>
+<no_space_after>1</no_space_after>
+</w>
 <w id="w-wsj0174-001-p1s23W20">
 <token>amerických</token>
 </w>
@@ -1919,51 +1925,72 @@
 </w>
 <w id="w-wsj0174-001-p1s28W1">
 <token>Protivníci</token>
-</w><w id="w-wsj0174-001-p1s28W2">
+</w>
+<w id="w-wsj0174-001-p1s28W2">
 <token>premiérky</token>
-</w><w id="w-wsj0174-001-p1s28W3">
+</w>
+<w id="w-wsj0174-001-p1s28W3">
 <token>tvrdili</token>
 <no_space_after>1</no_space_after>
-</w><w id="w-wsj0174-001-p1s28W4">
+</w>
+<w id="w-wsj0174-001-p1s28W4">
 <token>,</token>
-</w><w id="w-wsj0174-001-p1s28W5">
+</w>
+<w id="w-wsj0174-001-p1s28W5">
 <token>že</token>
-</w><w id="w-wsj0174-001-p1s28W6">
+</w>
+<w id="w-wsj0174-001-p1s28W6">
 <token>hlasování</token>
 <no_space_after>1</no_space_after>
-</w><w id="w-wsj0174-001-p1s28W7">
+</w>
+<w id="w-wsj0174-001-p1s28W7">
 <token>,</token>
-</w><w id="w-wsj0174-001-p1s28W8">
+</w>
+<w id="w-wsj0174-001-p1s28W8">
 <token>které</token>
-</w><w id="w-wsj0174-001-p1s28W9">
+</w>
+<w id="w-wsj0174-001-p1s28W9">
 <token>o</token>
-</w><w id="w-wsj0174-001-p1s28W10">
+</w>
+<w id="w-wsj0174-001-p1s28W10">
 <token>12</token>
-</w><w id="w-wsj0174-001-p1s28W11">
+</w>
+<w id="w-wsj0174-001-p1s28W11">
 <token>hlasů</token>
-</w><w id="w-wsj0174-001-p1s28W12">
+</w>
+<w id="w-wsj0174-001-p1s28W12">
 <token>nedosáhlo</token>
-</w><w id="w-wsj0174-001-p1s28W13">
+</w>
+<w id="w-wsj0174-001-p1s28W13">
 <token>většiny</token>
-</w><w id="w-wsj0174-001-p1s28W14">
+</w>
+<w id="w-wsj0174-001-p1s28W14">
 <token>v</token>
-</w><w id="w-wsj0174-001-p1s28W15">
+</w>
+<w id="w-wsj0174-001-p1s28W15">
 <token>islámábádském</token>
-</w><w id="w-wsj0174-001-p1s28W16">
+</w>
+<w id="w-wsj0174-001-p1s28W16">
 <token>237členném</token>
-</w><w id="w-wsj0174-001-p1s28W17">
+</w>
+<w id="w-wsj0174-001-p1s28W17">
 <token>shromáždění</token>
 <no_space_after>1</no_space_after>
-</w><w id="w-wsj0174-001-p1s28W18">
+</w>
+<w id="w-wsj0174-001-p1s28W18">
 <token>,</token>
-</w><w id="w-wsj0174-001-p1s28W19">
+</w>
+<w id="w-wsj0174-001-p1s28W19">
 <token>bylo</token>
-</w><w id="w-wsj0174-001-p1s28W20">
+</w>
+<w id="w-wsj0174-001-p1s28W20">
 <token>zmanipulováno</token>
 <no_space_after>1</no_space_after>
-</w><w id="w-wsj0174-001-p1s28W21">
+</w>
+<w id="w-wsj0174-001-p1s28W21">
 <token>.</token>
-</w><w id="w-wsj0174-001-p1s29W1">
+</w>
+<w id="w-wsj0174-001-p1s29W1">
 <token>Bílý</token>
 </w>
 <w id="w-wsj0174-001-p1s29W2">
@@ -2386,39 +2413,55 @@
 </w>
 <w id="w-wsj0174-001-p1s34W1">
 <token>Aerolinky</token>
-</w><w id="w-wsj0174-001-p1s34W2">
+</w>
+<w id="w-wsj0174-001-p1s34W2">
 <token>se</token>
-</w><w id="w-wsj0174-001-p1s34W3">
+</w>
+<w id="w-wsj0174-001-p1s34W3">
 <token>snaží</token>
-</w><w id="w-wsj0174-001-p1s34W4">
+</w>
+<w id="w-wsj0174-001-p1s34W4">
 <token>ukázat</token>
 <no_space_after>1</no_space_after>
-</w><w id="w-wsj0174-001-p1s34W5">
+</w>
+<w id="w-wsj0174-001-p1s34W5">
 <token>,</token>
-</w><w id="w-wsj0174-001-p1s34W6">
+</w>
+<w id="w-wsj0174-001-p1s34W6">
 <token>že</token>
-</w><w id="w-wsj0174-001-p1s34W7">
+</w>
+<w id="w-wsj0174-001-p1s34W7">
 <token>Izrael</token>
-</w><w id="w-wsj0174-001-p1s34W8">
+</w>
+<w id="w-wsj0174-001-p1s34W8">
 <token>a</token>
-</w><w id="w-wsj0174-001-p1s34W9">
+</w>
+<w id="w-wsj0174-001-p1s34W9">
 <token>SRN</token>
-</w><w id="w-wsj0174-001-p1s34W10">
+</w>
+<w id="w-wsj0174-001-p1s34W10">
 <token>varovaly</token>
-</w><w id="w-wsj0174-001-p1s34W11">
+</w>
+<w id="w-wsj0174-001-p1s34W11">
 <token>Spojené</token>
-</w><w id="w-wsj0174-001-p1s34W12">
+</w>
+<w id="w-wsj0174-001-p1s34W12">
 <token>státy</token>
-</w><w id="w-wsj0174-001-p1s34W13">
+</w>
+<w id="w-wsj0174-001-p1s34W13">
 <token>před</token>
-</w><w id="w-wsj0174-001-p1s34W14">
+</w>
+<w id="w-wsj0174-001-p1s34W14">
 <token>hrozícím</token>
-</w><w id="w-wsj0174-001-p1s34W15">
+</w>
+<w id="w-wsj0174-001-p1s34W15">
 <token>útokem</token>
 <no_space_after>1</no_space_after>
-</w><w id="w-wsj0174-001-p1s34W16">
+</w>
+<w id="w-wsj0174-001-p1s34W16">
 <token>.</token>
-</w><w id="w-wsj0174-001-p1s35W1">
+</w>
+<w id="w-wsj0174-001-p1s35W1">
 <token>Zemřel</token>
 <no_space_after>1</no_space_after>
 </w>

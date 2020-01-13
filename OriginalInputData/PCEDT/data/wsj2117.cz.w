@@ -98,39 +98,55 @@
 </w>
 <w id="w-wsj2117-001-p1s1W1">
 <token>Cena</token>
-</w><w id="w-wsj2117-001-p1s1W2">
+</w>
+<w id="w-wsj2117-001-p1s1W2">
 <token>členství</token>
-</w><w id="w-wsj2117-001-p1s1W3">
+</w>
+<w id="w-wsj2117-001-p1s1W3">
 <token>je</token>
-</w><w id="w-wsj2117-001-p1s1W4">
+</w>
+<w id="w-wsj2117-001-p1s1W4">
 <token>v</token>
-</w><w id="w-wsj2117-001-p1s1W5">
+</w>
+<w id="w-wsj2117-001-p1s1W5">
 <token>současné</token>
-</w><w id="w-wsj2117-001-p1s1W6">
+</w>
+<w id="w-wsj2117-001-p1s1W6">
 <token>době</token>
-</w><w id="w-wsj2117-001-p1s1W7">
+</w>
+<w id="w-wsj2117-001-p1s1W7">
 <token>při</token>
-</w><w id="w-wsj2117-001-p1s1W8">
+</w>
+<w id="w-wsj2117-001-p1s1W8">
 <token>nabídce</token>
-</w><w id="w-wsj2117-001-p1s1W9">
+</w>
+<w id="w-wsj2117-001-p1s1W9">
 <token>353 500</token>
-</w><w id="w-wsj2117-001-p1s1W10">
+</w>
+<w id="w-wsj2117-001-p1s1W10">
 <token>dolarů</token>
 <no_space_after>1</no_space_after>
-</w><w id="w-wsj2117-001-p1s1W11">
+</w>
+<w id="w-wsj2117-001-p1s1W11">
 <token>,</token>
-</w><w id="w-wsj2117-001-p1s1W12">
+</w>
+<w id="w-wsj2117-001-p1s1W12">
 <token>požadováno</token>
-</w><w id="w-wsj2117-001-p1s1W13">
+</w>
+<w id="w-wsj2117-001-p1s1W13">
 <token>je</token>
-</w><w id="w-wsj2117-001-p1s1W14">
+</w>
+<w id="w-wsj2117-001-p1s1W14">
 <token>405 000</token>
-</w><w id="w-wsj2117-001-p1s1W15">
+</w>
+<w id="w-wsj2117-001-p1s1W15">
 <token>dolarů</token>
 <no_space_after>1</no_space_after>
-</w><w id="w-wsj2117-001-p1s1W16">
+</w>
+<w id="w-wsj2117-001-p1s1W16">
 <token>.</token>
-</w><w id="w-wsj2117-001-p1s2W1">
+</w>
+<w id="w-wsj2117-001-p1s2W1">
 <token>Rekordní</token>
 </w>
 <w id="w-wsj2117-001-p1s2W2">
@@ -258,43 +274,61 @@
 </w>
 <w id="w-wsj2117-001-p1s4W1">
 <token>Cena</token>
-</w><w id="w-wsj2117-001-p1s4W2">
+</w>
+<w id="w-wsj2117-001-p1s4W2">
 <token>mimořádného</token>
-</w><w id="w-wsj2117-001-p1s4W3">
+</w>
+<w id="w-wsj2117-001-p1s4W3">
 <token>členství</token>
-</w><w id="w-wsj2117-001-p1s4W4">
+</w>
+<w id="w-wsj2117-001-p1s4W4">
 <token>je</token>
-</w><w id="w-wsj2117-001-p1s4W5">
+</w>
+<w id="w-wsj2117-001-p1s4W5">
 <token>v</token>
-</w><w id="w-wsj2117-001-p1s4W6">
+</w>
+<w id="w-wsj2117-001-p1s4W6">
 <token>současné</token>
-</w><w id="w-wsj2117-001-p1s4W7">
+</w>
+<w id="w-wsj2117-001-p1s4W7">
 <token>době</token>
-</w><w id="w-wsj2117-001-p1s4W8">
+</w>
+<w id="w-wsj2117-001-p1s4W8">
 <token>při</token>
-</w><w id="w-wsj2117-001-p1s4W9">
+</w>
+<w id="w-wsj2117-001-p1s4W9">
 <token>nabídce</token>
-</w><w id="w-wsj2117-001-p1s4W10">
+</w>
+<w id="w-wsj2117-001-p1s4W10">
 <token>uváděna</token>
-</w><w id="w-wsj2117-001-p1s4W11">
+</w>
+<w id="w-wsj2117-001-p1s4W11">
 <token>225 000</token>
-</w><w id="w-wsj2117-001-p1s4W12">
+</w>
+<w id="w-wsj2117-001-p1s4W12">
 <token>dolarů</token>
 <no_space_after>1</no_space_after>
-</w><w id="w-wsj2117-001-p1s4W13">
+</w>
+<w id="w-wsj2117-001-p1s4W13">
 <token>,</token>
-</w><w id="w-wsj2117-001-p1s4W14">
+</w>
+<w id="w-wsj2117-001-p1s4W14">
 <token>požadováno</token>
-</w><w id="w-wsj2117-001-p1s4W15">
+</w>
+<w id="w-wsj2117-001-p1s4W15">
 <token>je</token>
-</w><w id="w-wsj2117-001-p1s4W16">
+</w>
+<w id="w-wsj2117-001-p1s4W16">
 <token>256 000</token>
-</w><w id="w-wsj2117-001-p1s4W17">
+</w>
+<w id="w-wsj2117-001-p1s4W17">
 <token>dolarů</token>
 <no_space_after>1</no_space_after>
-</w><w id="w-wsj2117-001-p1s4W18">
+</w>
+<w id="w-wsj2117-001-p1s4W18">
 <token>.</token>
-</w><w id="w-wsj2117-001-p1s5W1">
+</w>
+<w id="w-wsj2117-001-p1s5W1">
 <token>Rekordní</token>
 </w>
 <w id="w-wsj2117-001-p1s5W2">

@@ -24,61 +24,87 @@
 <othermarkup origin="csts/doc/p/@n">1</othermarkup>
 <w id="w-wsj0176-001-p1s0W1">
 <token>Společnost</token>
-</w><w id="w-wsj0176-001-p1s0W2">
+</w>
+<w id="w-wsj0176-001-p1s0W2">
 <token>Xerox</token>
-</w><w id="w-wsj0176-001-p1s0W3">
+</w>
+<w id="w-wsj0176-001-p1s0W3">
 <token>Corp</token>
 <no_space_after>1</no_space_after>
-</w><w id="w-wsj0176-001-p1s0W4">
+</w>
+<w id="w-wsj0176-001-p1s0W4">
 <token>.</token>
-</w><w id="w-wsj0176-001-p1s0W5">
+</w>
+<w id="w-wsj0176-001-p1s0W5">
 <token>oznámila</token>
-</w><w id="w-wsj0176-001-p1s0W6">
+</w>
+<w id="w-wsj0176-001-p1s0W6">
 <token>svým</token>
-</w><w id="w-wsj0176-001-p1s0W7">
+</w>
+<w id="w-wsj0176-001-p1s0W7">
 <token>zaměstnancům</token>
-</w><w id="w-wsj0176-001-p1s0W8">
+</w>
+<w id="w-wsj0176-001-p1s0W8">
 <token>z</token>
-</w><w id="w-wsj0176-001-p1s0W9">
+</w>
+<w id="w-wsj0176-001-p1s0W9">
 <token>oddělení</token>
-</w><w id="w-wsj0176-001-p1s0W10">
+</w>
+<w id="w-wsj0176-001-p1s0W10">
 <token>individuálního</token>
-</w><w id="w-wsj0176-001-p1s0W11">
+</w>
+<w id="w-wsj0176-001-p1s0W11">
 <token>pojištění</token>
-</w><w id="w-wsj0176-001-p1s0W12">
+</w>
+<w id="w-wsj0176-001-p1s0W12">
 <token>Crum</token>
-</w><w id="w-wsj0176-001-p1s0W13">
+</w>
+<w id="w-wsj0176-001-p1s0W13">
 <token>&amp;</token>
-</w><w id="w-wsj0176-001-p1s0W14">
+</w>
+<w id="w-wsj0176-001-p1s0W14">
 <token>Foster</token>
 <no_space_after>1</no_space_after>
-</w><w id="w-wsj0176-001-p1s0W15">
+</w>
+<w id="w-wsj0176-001-p1s0W15">
 <token>,</token>
-</w><w id="w-wsj0176-001-p1s0W16">
+</w>
+<w id="w-wsj0176-001-p1s0W16">
 <token>že</token>
-</w><w id="w-wsj0176-001-p1s0W17">
+</w>
+<w id="w-wsj0176-001-p1s0W17">
 <token>propouští</token>
-</w><w id="w-wsj0176-001-p1s0W18">
+</w>
+<w id="w-wsj0176-001-p1s0W18">
 <token>přibližně</token>
-</w><w id="w-wsj0176-001-p1s0W19">
+</w>
+<w id="w-wsj0176-001-p1s0W19">
 <token>300</token>
-</w><w id="w-wsj0176-001-p1s0W20">
+</w>
+<w id="w-wsj0176-001-p1s0W20">
 <token>lidí</token>
 <no_space_after>1</no_space_after>
-</w><w id="w-wsj0176-001-p1s0W21">
+</w>
+<w id="w-wsj0176-001-p1s0W21">
 <token>,</token>
-</w><w id="w-wsj0176-001-p1s0W22">
+</w>
+<w id="w-wsj0176-001-p1s0W22">
 <token>tedy</token>
-</w><w id="w-wsj0176-001-p1s0W23">
+</w>
+<w id="w-wsj0176-001-p1s0W23">
 <token>25</token>
-</w><w id="w-wsj0176-001-p1s0W24">
+</w>
+<w id="w-wsj0176-001-p1s0W24">
 <token>%</token>
-</w><w id="w-wsj0176-001-p1s0W25">
+</w>
+<w id="w-wsj0176-001-p1s0W25">
 <token>zaměstnanců</token>
 <no_space_after>1</no_space_after>
-</w><w id="w-wsj0176-001-p1s0W26">
+</w>
+<w id="w-wsj0176-001-p1s0W26">
 <token>.</token>
-</w><w id="w-wsj0176-001-p1s1W1">
+</w>
+<w id="w-wsj0176-001-p1s1W1">
 <token>Mluvčí</token>
 </w>
 <w id="w-wsj0176-001-p1s1W2">

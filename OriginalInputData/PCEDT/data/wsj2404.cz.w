@@ -24,69 +24,100 @@
 <othermarkup origin="csts/doc/p/@n">1</othermarkup>
 <w id="w-wsj2404-001-p1s0W1">
 <token>Žalostné</token>
-</w><w id="w-wsj2404-001-p1s0W2">
+</w>
+<w id="w-wsj2404-001-p1s0W2">
 <token>tržby</token>
-</w><w id="w-wsj2404-001-p1s0W3">
+</w>
+<w id="w-wsj2404-001-p1s0W3">
 <token>v</token>
-</w><w id="w-wsj2404-001-p1s0W4">
+</w>
+<w id="w-wsj2404-001-p1s0W4">
 <token>General</token>
-</w><w id="w-wsj2404-001-p1s0W5">
+</w>
+<w id="w-wsj2404-001-p1s0W5">
 <token>Motors</token>
-</w><w id="w-wsj2404-001-p1s0W6">
+</w>
+<w id="w-wsj2404-001-p1s0W6">
 <token>Corp</token>
 <no_space_after>1</no_space_after>
-</w><w id="w-wsj2404-001-p1s0W7">
+</w>
+<w id="w-wsj2404-001-p1s0W7">
 <token>.</token>
-</w><w id="w-wsj2404-001-p1s0W8">
+</w>
+<w id="w-wsj2404-001-p1s0W8">
 <token>stáhly</token>
-</w><w id="w-wsj2404-001-p1s0W9">
+</w>
+<w id="w-wsj2404-001-p1s0W9">
 <token>začátkem</token>
-</w><w id="w-wsj2404-001-p1s0W10">
+</w>
+<w id="w-wsj2404-001-p1s0W10">
 <token>října</token>
-</w><w id="w-wsj2404-001-p1s0W11">
+</w>
+<w id="w-wsj2404-001-p1s0W11">
 <token>americký</token>
-</w><w id="w-wsj2404-001-p1s0W12">
+</w>
+<w id="w-wsj2404-001-p1s0W12">
 <token>trh</token>
-</w><w id="w-wsj2404-001-p1s0W13">
+</w>
+<w id="w-wsj2404-001-p1s0W13">
 <token>nákladních</token>
-</w><w id="w-wsj2404-001-p1s0W14">
+</w>
+<w id="w-wsj2404-001-p1s0W14">
 <token>i</token>
-</w><w id="w-wsj2404-001-p1s0W15">
+</w>
+<w id="w-wsj2404-001-p1s0W15">
 <token>osobních</token>
-</w><w id="w-wsj2404-001-p1s0W16">
+</w>
+<w id="w-wsj2404-001-p1s0W16">
 <token>aut</token>
-</w><w id="w-wsj2404-001-p1s0W17">
+</w>
+<w id="w-wsj2404-001-p1s0W17">
 <token>pod</token>
-</w><w id="w-wsj2404-001-p1s0W18">
+</w>
+<w id="w-wsj2404-001-p1s0W18">
 <token>loňskou</token>
-</w><w id="w-wsj2404-001-p1s0W19">
+</w>
+<w id="w-wsj2404-001-p1s0W19">
 <token>úroveň</token>
-</w><w id="w-wsj2404-001-p1s0W20">
+</w>
+<w id="w-wsj2404-001-p1s0W20">
 <token>a</token>
-</w><w id="w-wsj2404-001-p1s0W21">
+</w>
+<w id="w-wsj2404-001-p1s0W21">
 <token>bylo</token>
-</w><w id="w-wsj2404-001-p1s0W22">
+</w>
+<w id="w-wsj2404-001-p1s0W22">
 <token>to</token>
-</w><w id="w-wsj2404-001-p1s0W23">
+</w>
+<w id="w-wsj2404-001-p1s0W23">
 <token>právě</token>
-</w><w id="w-wsj2404-001-p1s0W24">
+</w>
+<w id="w-wsj2404-001-p1s0W24">
 <token>první</token>
-</w><w id="w-wsj2404-001-p1s0W25">
+</w>
+<w id="w-wsj2404-001-p1s0W25">
 <token>tržby</token>
-</w><w id="w-wsj2404-001-p1s0W26">
+</w>
+<w id="w-wsj2404-001-p1s0W26">
 <token>z</token>
-</w><w id="w-wsj2404-001-p1s0W27">
+</w>
+<w id="w-wsj2404-001-p1s0W27">
 <token>nových</token>
-</w><w id="w-wsj2404-001-p1s0W28">
+</w>
+<w id="w-wsj2404-001-p1s0W28">
 <token>modelů</token>
-</w><w id="w-wsj2404-001-p1s0W29">
+</w>
+<w id="w-wsj2404-001-p1s0W29">
 <token>roku</token>
-</w><w id="w-wsj2404-001-p1s0W30">
+</w>
+<w id="w-wsj2404-001-p1s0W30">
 <token>1990</token>
 <no_space_after>1</no_space_after>
-</w><w id="w-wsj2404-001-p1s0W31">
+</w>
+<w id="w-wsj2404-001-p1s0W31">
 <token>.</token>
-</w><w id="w-wsj2404-001-p1s1W1">
+</w>
+<w id="w-wsj2404-001-p1s1W1">
 <token>Osm</token>
 </w>
 <w id="w-wsj2404-001-p1s1W2">
@@ -1578,10 +1609,12 @@
 </w>
 <w id="w-wsj2404-001-p1s21W9">
 <token>mini</token>
-<no_space_after>1</no_space_after></w>
+<no_space_after>1</no_space_after>
+</w>
 <w id="w-wsj2404-001-p1s21W10">
 <token>-</token>
-<no_space_after>1</no_space_after></w>
+<no_space_after>1</no_space_after>
+</w>
 <w id="w-wsj2404-001-p1s21W11">
 <token>dodávek</token>
 <no_space_after>1</no_space_after>
@@ -1823,10 +1856,12 @@
 </w>
 <w id="w-wsj2404-001-p1s25W15">
 <token>mini</token>
-<no_space_after>1</no_space_after></w>
+<no_space_after>1</no_space_after>
+</w>
 <w id="w-wsj2404-001-p1s25W16">
 <token>-</token>
-<no_space_after>1</no_space_after></w>
+<no_space_after>1</no_space_after>
+</w>
 <w id="w-wsj2404-001-p1s25W17">
 <token>dodávek</token>
 </w>

@@ -1026,7 +1026,8 @@
 </w>
 <w id="w-wsj1950-001-p1s7W15">
 <token>S</token>
-<no_space_after>1</no_space_after></w>
+<no_space_after>1</no_space_after>
+</w>
 <w id="w-wsj1950-001-p1s7W16">
 <token>&amp;</token>
 <no_space_after>1</no_space_after>
@@ -1514,7 +1515,8 @@
 </w>
 <w id="w-wsj1950-001-p1s11W10">
 <token>S</token>
-<no_space_after>1</no_space_after></w>
+<no_space_after>1</no_space_after>
+</w>
 <w id="w-wsj1950-001-p1s11W11">
 <token>&amp;</token>
 <no_space_after>1</no_space_after>
@@ -1803,7 +1805,8 @@
 </w>
 <w id="w-wsj1950-001-p1s14W17">
 <token>S</token>
-<no_space_after>1</no_space_after></w>
+<no_space_after>1</no_space_after>
+</w>
 <w id="w-wsj1950-001-p1s14W18">
 <token>&amp;</token>
 <no_space_after>1</no_space_after>
@@ -2065,7 +2068,8 @@
 </w>
 <w id="w-wsj1950-001-p1s17W13">
 <token>S</token>
-<no_space_after>1</no_space_after></w>
+<no_space_after>1</no_space_after>
+</w>
 <w id="w-wsj1950-001-p1s17W14">
 <token>&amp;</token>
 <no_space_after>1</no_space_after>
@@ -2217,7 +2221,8 @@
 </w>
 <w id="w-wsj1950-001-p1s19W17">
 <token>S</token>
-<no_space_after>1</no_space_after></w>
+<no_space_after>1</no_space_after>
+</w>
 <w id="w-wsj1950-001-p1s19W18">
 <token>&amp;</token>
 <no_space_after>1</no_space_after>
@@ -4619,7 +4624,8 @@
 </w>
 <w id="w-wsj1950-001-p1s44W12">
 <token>S</token>
-<no_space_after>1</no_space_after></w>
+<no_space_after>1</no_space_after>
+</w>
 <w id="w-wsj1950-001-p1s44W13">
 <token>&amp;</token>
 <no_space_after>1</no_space_after>

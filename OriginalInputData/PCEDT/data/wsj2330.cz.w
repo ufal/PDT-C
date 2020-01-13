@@ -1042,73 +1042,105 @@
 </w>
 <w id="w-wsj2330-001-p1s14W1">
 <token>Daniel</token>
-</w><w id="w-wsj2330-001-p1s14W2">
+</w>
+<w id="w-wsj2330-001-p1s14W2">
 <token>Basse</token>
 <no_space_after>1</no_space_after>
-</w><w id="w-wsj2330-001-p1s14W3">
+</w>
+<w id="w-wsj2330-001-p1s14W3">
 <token>,</token>
-</w><w id="w-wsj2330-001-p1s14W4">
+</w>
+<w id="w-wsj2330-001-p1s14W4">
 <token>analytik</token>
-</w><w id="w-wsj2330-001-p1s14W5">
+</w>
+<w id="w-wsj2330-001-p1s14W5">
 <token>termínových</token>
-</w><w id="w-wsj2330-001-p1s14W6">
+</w>
+<w id="w-wsj2330-001-p1s14W6">
 <token>obchodů</token>
-</w><w id="w-wsj2330-001-p1s14W7">
+</w>
+<w id="w-wsj2330-001-p1s14W7">
 <token>u</token>
-</w><w id="w-wsj2330-001-p1s14W8">
+</w>
+<w id="w-wsj2330-001-p1s14W8">
 <token>společnosti</token>
-</w><w id="w-wsj2330-001-p1s14W9">
+</w>
+<w id="w-wsj2330-001-p1s14W9">
 <token>AgResource</token>
-</w><w id="w-wsj2330-001-p1s14W10">
+</w>
+<w id="w-wsj2330-001-p1s14W10">
 <token>v</token>
-</w><w id="w-wsj2330-001-p1s14W11">
+</w>
+<w id="w-wsj2330-001-p1s14W11">
 <token>Chicagu</token>
 <no_space_after>1</no_space_after>
-</w><w id="w-wsj2330-001-p1s14W12">
+</w>
+<w id="w-wsj2330-001-p1s14W12">
 <token>,</token>
-</w><w id="w-wsj2330-001-p1s14W13">
+</w>
+<w id="w-wsj2330-001-p1s14W13">
 <token>říká</token>
 <no_space_after>1</no_space_after>
-</w><w id="w-wsj2330-001-p1s14W14">
+</w>
+<w id="w-wsj2330-001-p1s14W14">
 <token>,</token>
-</w><w id="w-wsj2330-001-p1s14W15">
+</w>
+<w id="w-wsj2330-001-p1s14W15">
 <token>že</token>
-</w><w id="w-wsj2330-001-p1s14W16">
+</w>
+<w id="w-wsj2330-001-p1s14W16">
 <token>omezené</token>
-</w><w id="w-wsj2330-001-p1s14W17">
+</w>
+<w id="w-wsj2330-001-p1s14W17">
 <token>zásoby</token>
-</w><w id="w-wsj2330-001-p1s14W18">
+</w>
+<w id="w-wsj2330-001-p1s14W18">
 <token>alespoň</token>
-</w><w id="w-wsj2330-001-p1s14W19">
+</w>
+<w id="w-wsj2330-001-p1s14W19">
 <token>teoreticky</token>
-</w><w id="w-wsj2330-001-p1s14W20">
+</w>
+<w id="w-wsj2330-001-p1s14W20">
 <token>mohou</token>
-</w><w id="w-wsj2330-001-p1s14W21">
+</w>
+<w id="w-wsj2330-001-p1s14W21">
 <token>vystavit</token>
-</w><w id="w-wsj2330-001-p1s14W22">
+</w>
+<w id="w-wsj2330-001-p1s14W22">
 <token>termínový</token>
-</w><w id="w-wsj2330-001-p1s14W23">
+</w>
+<w id="w-wsj2330-001-p1s14W23">
 <token>trh</token>
-</w><w id="w-wsj2330-001-p1s14W24">
+</w>
+<w id="w-wsj2330-001-p1s14W24">
 <token>s</token>
-</w><w id="w-wsj2330-001-p1s14W25">
+</w>
+<w id="w-wsj2330-001-p1s14W25">
 <token>pšenicí</token>
-</w><w id="w-wsj2330-001-p1s14W26">
+</w>
+<w id="w-wsj2330-001-p1s14W26">
 <token>příští</token>
-</w><w id="w-wsj2330-001-p1s14W27">
+</w>
+<w id="w-wsj2330-001-p1s14W27">
 <token>jaro</token>
-</w><w id="w-wsj2330-001-p1s14W28">
+</w>
+<w id="w-wsj2330-001-p1s14W28">
 <token>tlaku</token>
-</w><w id="w-wsj2330-001-p1s14W29">
+</w>
+<w id="w-wsj2330-001-p1s14W29">
 <token>nabídky</token>
-</w><w id="w-wsj2330-001-p1s14W30">
+</w>
+<w id="w-wsj2330-001-p1s14W30">
 <token>a</token>
-</w><w id="w-wsj2330-001-p1s14W31">
+</w>
+<w id="w-wsj2330-001-p1s14W31">
 <token>poptávky</token>
 <no_space_after>1</no_space_after>
-</w><w id="w-wsj2330-001-p1s14W32">
+</w>
+<w id="w-wsj2330-001-p1s14W32">
 <token>.</token>
-</w><w id="w-wsj2330-001-p1s15W1">
+</w>
+<w id="w-wsj2330-001-p1s15W1">
 <token>Taková</token>
 </w>
 <w id="w-wsj2330-001-p1s15W2">

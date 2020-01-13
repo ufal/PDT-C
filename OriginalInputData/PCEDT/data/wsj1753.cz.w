@@ -532,59 +532,83 @@
 </w>
 <w id="w-wsj1753-001-p1s6W1">
 <token>Patří</token>
-</w><w id="w-wsj1753-001-p1s6W2">
+</w>
+<w id="w-wsj1753-001-p1s6W2">
 <token>mezi</token>
-</w><w id="w-wsj1753-001-p1s6W3">
+</w>
+<w id="w-wsj1753-001-p1s6W3">
 <token>ně</token>
-</w><w id="w-wsj1753-001-p1s6W4">
+</w>
+<w id="w-wsj1753-001-p1s6W4">
 <token>společnosti</token>
-</w><w id="w-wsj1753-001-p1s6W5">
+</w>
+<w id="w-wsj1753-001-p1s6W5">
 <token>Enron</token>
-</w><w id="w-wsj1753-001-p1s6W6">
+</w>
+<w id="w-wsj1753-001-p1s6W6">
 <token>Corp</token>
 <no_space_after>1</no_space_after>
-</w><w id="w-wsj1753-001-p1s6W7">
+</w>
+<w id="w-wsj1753-001-p1s6W7">
 <token>.</token>
 <no_space_after>1</no_space_after>
-</w><w id="w-wsj1753-001-p1s6W8">
+</w>
+<w id="w-wsj1753-001-p1s6W8">
 <token>,</token>
-</w><w id="w-wsj1753-001-p1s6W9">
+</w>
+<w id="w-wsj1753-001-p1s6W9">
 <token>Texas</token>
-</w><w id="w-wsj1753-001-p1s6W10">
+</w>
+<w id="w-wsj1753-001-p1s6W10">
 <token>Eastern</token>
-</w><w id="w-wsj1753-001-p1s6W11">
+</w>
+<w id="w-wsj1753-001-p1s6W11">
 <token>Corp</token>
 <no_space_after>1</no_space_after>
-</w><w id="w-wsj1753-001-p1s6W12">
+</w>
+<w id="w-wsj1753-001-p1s6W12">
 <token>.</token>
 <no_space_after>1</no_space_after>
-</w><w id="w-wsj1753-001-p1s6W13">
+</w>
+<w id="w-wsj1753-001-p1s6W13">
 <token>,</token>
-</w><w id="w-wsj1753-001-p1s6W14">
+</w>
+<w id="w-wsj1753-001-p1s6W14">
 <token>Pacific</token>
-</w><w id="w-wsj1753-001-p1s6W15">
+</w>
+<w id="w-wsj1753-001-p1s6W15">
 <token>Interstate</token>
-</w><w id="w-wsj1753-001-p1s6W16">
+</w>
+<w id="w-wsj1753-001-p1s6W16">
 <token>Transmission</token>
-</w><w id="w-wsj1753-001-p1s6W17">
+</w>
+<w id="w-wsj1753-001-p1s6W17">
 <token>Co</token>
 <no_space_after>1</no_space_after>
-</w><w id="w-wsj1753-001-p1s6W18">
+</w>
+<w id="w-wsj1753-001-p1s6W18">
 <token>.</token>
-</w><w id="w-wsj1753-001-p1s6W19">
+</w>
+<w id="w-wsj1753-001-p1s6W19">
 <token>a</token>
-</w><w id="w-wsj1753-001-p1s6W20">
+</w>
+<w id="w-wsj1753-001-p1s6W20">
 <token>Tennessee</token>
-</w><w id="w-wsj1753-001-p1s6W21">
+</w>
+<w id="w-wsj1753-001-p1s6W21">
 <token>Gas</token>
-</w><w id="w-wsj1753-001-p1s6W22">
+</w>
+<w id="w-wsj1753-001-p1s6W22">
 <token>Pipeline</token>
-</w><w id="w-wsj1753-001-p1s6W23">
+</w>
+<w id="w-wsj1753-001-p1s6W23">
 <token>Co</token>
 <no_space_after>1</no_space_after>
-</w><w id="w-wsj1753-001-p1s6W24">
+</w>
+<w id="w-wsj1753-001-p1s6W24">
 <token>.</token>
-</w><w id="w-wsj1753-001-p1s7W1">
+</w>
+<w id="w-wsj1753-001-p1s7W1">
 <token>Výsledkem</token>
 </w>
 <w id="w-wsj1753-001-p1s7W2">

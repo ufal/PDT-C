@@ -677,10 +677,12 @@
 </w>
 <w id="w-wsj2415-001-p1s13W15">
 <token>máte</token>
-<no_space_after>1</no_space_after></w>
+<no_space_after>1</no_space_after>
+</w>
 <w id="w-wsj2415-001-p1s13W16">
 <token>-</token>
-<no_space_after>1</no_space_after></w>
+<no_space_after>1</no_space_after>
+</w>
 <w id="w-wsj2415-001-p1s13W17">
 <token>li</token>
 </w>
@@ -808,10 +810,12 @@
 </w>
 <w id="w-wsj2415-001-p1s15W2">
 <token>Vidíte</token>
-<no_space_after>1</no_space_after></w>
+<no_space_after>1</no_space_after>
+</w>
 <w id="w-wsj2415-001-p1s15W3">
 <token>-</token>
-<no_space_after>1</no_space_after></w>
+<no_space_after>1</no_space_after>
+</w>
 <w id="w-wsj2415-001-p1s15W4">
 <token>li</token>
 </w>
@@ -2209,10 +2213,12 @@
 </w>
 <w id="w-wsj2415-001-p1s36W13">
 <token>Wal</token>
-<no_space_after>1</no_space_after></w>
+<no_space_after>1</no_space_after>
+</w>
 <w id="w-wsj2415-001-p1s36W14">
 <token>-</token>
-<no_space_after>1</no_space_after></w>
+<no_space_after>1</no_space_after>
+</w>
 <w id="w-wsj2415-001-p1s36W15">
 <token>Mart</token>
 </w>
@@ -3558,10 +3564,12 @@
 </w>
 <w id="w-wsj2415-001-p1s55W1">
 <token>Stojí</token>
-<no_space_after>1</no_space_after></w>
+<no_space_after>1</no_space_after>
+</w>
 <w id="w-wsj2415-001-p1s55W2">
 <token>-</token>
-<no_space_after>1</no_space_after></w>
+<no_space_after>1</no_space_after>
+</w>
 <w id="w-wsj2415-001-p1s55W3">
 <token>li</token>
 </w>

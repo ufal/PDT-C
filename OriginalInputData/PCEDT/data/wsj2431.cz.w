@@ -150,10 +150,12 @@
 </w>
 <w id="w-wsj2431-001-p1s1W30">
 <token>konzervativně</token>
-<no_space_after>1</no_space_after></w>
+<no_space_after>1</no_space_after>
+</w>
 <w id="w-wsj2431-001-p1s1W31">
 <token>-</token>
-<no_space_after>1</no_space_after></w>
+<no_space_after>1</no_space_after>
+</w>
 <w id="w-wsj2431-001-p1s1W32">
 <token>komunistické</token>
 </w>
@@ -502,10 +504,12 @@
 </w>
 <w id="w-wsj2431-001-p1s5W4">
 <token>levo</token>
-<no_space_after>1</no_space_after></w>
+<no_space_after>1</no_space_after>
+</w>
 <w id="w-wsj2431-001-p1s5W5">
 <token>-</token>
-<no_space_after>1</no_space_after></w>
+<no_space_after>1</no_space_after>
+</w>
 <w id="w-wsj2431-001-p1s5W6">
 <token>pravého</token>
 </w>
@@ -1741,10 +1745,12 @@
 </w>
 <w id="w-wsj2431-001-p1s20W18">
 <token>F</token>
-<no_space_after>1</no_space_after></w>
+<no_space_after>1</no_space_after>
+</w>
 <w id="w-wsj2431-001-p1s20W19">
 <token>-</token>
-<no_space_after>1</no_space_after></w>
+<no_space_after>1</no_space_after>
+</w>
 <w id="w-wsj2431-001-p1s20W20">
 <token>16</token>
 </w>
@@ -2340,10 +2346,12 @@
 </w>
 <w id="w-wsj2431-001-p1s26W14">
 <token>levo</token>
-<no_space_after>1</no_space_after></w>
+<no_space_after>1</no_space_after>
+</w>
 <w id="w-wsj2431-001-p1s26W15">
 <token>-</token>
-<no_space_after>1</no_space_after></w>
+<no_space_after>1</no_space_after>
+</w>
 <w id="w-wsj2431-001-p1s26W16">
 <token>pravé</token>
 </w>

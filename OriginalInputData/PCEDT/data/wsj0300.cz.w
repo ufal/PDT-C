@@ -309,65 +309,92 @@
 </w>
 <w id="w-wsj0300-001-p1s3W1">
 <token>Dokonce</token>
-</w><w id="w-wsj0300-001-p1s3W2">
+</w>
+<w id="w-wsj0300-001-p1s3W2">
 <token>i</token>
-</w><w id="w-wsj0300-001-p1s3W3">
+</w>
+<w id="w-wsj0300-001-p1s3W3">
 <token>popracovní</token>
-</w><w id="w-wsj0300-001-p1s3W4">
+</w>
+<w id="w-wsj0300-001-p1s3W4">
 <token>flámy</token>
 <no_space_after>1</no_space_after>
-</w><w id="w-wsj0300-001-p1s3W5">
+</w>
+<w id="w-wsj0300-001-p1s3W5">
 <token>,</token>
-</w><w id="w-wsj0300-001-p1s3W6">
+</w>
+<w id="w-wsj0300-001-p1s3W6">
 <token>"</token>
 <no_space_after>1</no_space_after>
-</w><w id="w-wsj0300-001-p1s3W7">
+</w>
+<w id="w-wsj0300-001-p1s3W7">
 <token>karaoke</token>
 <no_space_after>1</no_space_after>
-</w><w id="w-wsj0300-001-p1s3W8">
+</w>
+<w id="w-wsj0300-001-p1s3W8">
 <token>"</token>
-</w><w id="w-wsj0300-001-p1s3W9">
+</w>
+<w id="w-wsj0300-001-p1s3W9">
 <token>bary</token>
 <no_space_after>1</no_space_after>
-</w><w id="w-wsj0300-001-p1s3W10">
+</w>
+<w id="w-wsj0300-001-p1s3W10">
 <token>,</token>
-</w><w id="w-wsj0300-001-p1s3W11">
+</w>
+<w id="w-wsj0300-001-p1s3W11">
 <token>ve</token>
-</w><w id="w-wsj0300-001-p1s3W12">
+</w>
+<w id="w-wsj0300-001-p1s3W12">
 <token>kterých</token>
-</w><w id="w-wsj0300-001-p1s3W13">
+</w>
+<w id="w-wsj0300-001-p1s3W13">
 <token>japonští</token>
-</w><w id="w-wsj0300-001-p1s3W14">
+</w>
+<w id="w-wsj0300-001-p1s3W14">
 <token>flamendři</token>
-</w><w id="w-wsj0300-001-p1s3W15">
+</w>
+<w id="w-wsj0300-001-p1s3W15">
 <token>zpívají</token>
-</w><w id="w-wsj0300-001-p1s3W16">
+</w>
+<w id="w-wsj0300-001-p1s3W16">
 <token>na</token>
-</w><w id="w-wsj0300-001-p1s3W17">
+</w>
+<w id="w-wsj0300-001-p1s3W17">
 <token>reprodukovanou</token>
-</w><w id="w-wsj0300-001-p1s3W18">
+</w>
+<w id="w-wsj0300-001-p1s3W18">
 <token>hudbu</token>
 <no_space_after>1</no_space_after>
-</w><w id="w-wsj0300-001-p1s3W19">
+</w>
+<w id="w-wsj0300-001-p1s3W19">
 <token>,</token>
-</w><w id="w-wsj0300-001-p1s3W20">
+</w>
+<w id="w-wsj0300-001-p1s3W20">
 <token>jsou</token>
-</w><w id="w-wsj0300-001-p1s3W21">
+</w>
+<w id="w-wsj0300-001-p1s3W21">
 <token>od</token>
-</w><w id="w-wsj0300-001-p1s3W22">
+</w>
+<w id="w-wsj0300-001-p1s3W22">
 <token>mocného</token>
-</w><w id="w-wsj0300-001-p1s3W23">
+</w>
+<w id="w-wsj0300-001-p1s3W23">
 <token>hudebního</token>
-</w><w id="w-wsj0300-001-p1s3W24">
+</w>
+<w id="w-wsj0300-001-p1s3W24">
 <token>svazu</token>
-</w><w id="w-wsj0300-001-p1s3W25">
+</w>
+<w id="w-wsj0300-001-p1s3W25">
 <token>Mexika</token>
-</w><w id="w-wsj0300-001-p1s3W26">
+</w>
+<w id="w-wsj0300-001-p1s3W26">
 <token>zakázány</token>
 <no_space_after>1</no_space_after>
-</w><w id="w-wsj0300-001-p1s3W27">
+</w>
+<w id="w-wsj0300-001-p1s3W27">
 <token>.</token>
-</w><w id="w-wsj0300-001-p1s4W1">
+</w>
+<w id="w-wsj0300-001-p1s4W1">
 <token>Nicméně</token>
 </w>
 <w id="w-wsj0300-001-p1s4W2">
@@ -827,40 +854,57 @@
 </w>
 <w id="w-wsj0300-001-p1s10W1">
 <token>S</token>
-</w><w id="w-wsj0300-001-p1s10W2">
+</w>
+<w id="w-wsj0300-001-p1s10W2">
 <token>5</token>
-</w><w id="w-wsj0300-001-p1s10W3">
+</w>
+<w id="w-wsj0300-001-p1s10W3">
 <token>%</token>
-</w><w id="w-wsj0300-001-p1s10W4">
+</w>
+<w id="w-wsj0300-001-p1s10W4">
 <token>z</token>
-</w><w id="w-wsj0300-001-p1s10W5">
+</w>
+<w id="w-wsj0300-001-p1s10W5">
 <token>celkového</token>
-</w><w id="w-wsj0300-001-p1s10W6">
+</w>
+<w id="w-wsj0300-001-p1s10W6">
 <token>množství</token>
-</w><w id="w-wsj0300-001-p1s10W7">
+</w>
+<w id="w-wsj0300-001-p1s10W7">
 <token>investic</token>
-</w><w id="w-wsj0300-001-p1s10W8">
+</w>
+<w id="w-wsj0300-001-p1s10W8">
 <token>je</token>
-</w><w id="w-wsj0300-001-p1s10W9">
+</w>
+<w id="w-wsj0300-001-p1s10W9">
 <token>Japonsko</token>
-</w><w id="w-wsj0300-001-p1s10W10">
+</w>
+<w id="w-wsj0300-001-p1s10W10">
 <token>v</token>
-</w><w id="w-wsj0300-001-p1s10W11">
+</w>
+<w id="w-wsj0300-001-p1s10W11">
 <token>Mexiku</token>
-</w><w id="w-wsj0300-001-p1s10W12">
+</w>
+<w id="w-wsj0300-001-p1s10W12">
 <token>pouze</token>
-</w><w id="w-wsj0300-001-p1s10W13">
+</w>
+<w id="w-wsj0300-001-p1s10W13">
 <token>čtvrtým</token>
-</w><w id="w-wsj0300-001-p1s10W14">
+</w>
+<w id="w-wsj0300-001-p1s10W14">
 <token>největším</token>
-</w><w id="w-wsj0300-001-p1s10W15">
+</w>
+<w id="w-wsj0300-001-p1s10W15">
 <token>zahraničním</token>
-</w><w id="w-wsj0300-001-p1s10W16">
+</w>
+<w id="w-wsj0300-001-p1s10W16">
 <token>investorem</token>
 <no_space_after>1</no_space_after>
-</w><w id="w-wsj0300-001-p1s10W17">
+</w>
+<w id="w-wsj0300-001-p1s10W17">
 <token>.</token>
-</w><w id="w-wsj0300-001-p1s11W1">
+</w>
+<w id="w-wsj0300-001-p1s11W1">
 <token>To</token>
 </w>
 <w id="w-wsj0300-001-p1s11W2">
@@ -943,45 +987,64 @@
 </w>
 <w id="w-wsj0300-001-p1s13W1">
 <token>Tento</token>
-</w><w id="w-wsj0300-001-p1s13W2">
+</w>
+<w id="w-wsj0300-001-p1s13W2">
 <token>mladý</token>
-</w><w id="w-wsj0300-001-p1s13W3">
+</w>
+<w id="w-wsj0300-001-p1s13W3">
 <token>prezident</token>
-</w><w id="w-wsj0300-001-p1s13W4">
+</w>
+<w id="w-wsj0300-001-p1s13W4">
 <token>tak</token>
-</w><w id="w-wsj0300-001-p1s13W5">
+</w>
+<w id="w-wsj0300-001-p1s13W5">
 <token>obdivuje</token>
-</w><w id="w-wsj0300-001-p1s13W6">
+</w>
+<w id="w-wsj0300-001-p1s13W6">
 <token>japonskou</token>
-</w><w id="w-wsj0300-001-p1s13W7">
+</w>
+<w id="w-wsj0300-001-p1s13W7">
 <token>disciplínu</token>
 <no_space_after>1</no_space_after>
-</w><w id="w-wsj0300-001-p1s13W8">
+</w>
+<w id="w-wsj0300-001-p1s13W8">
 <token>,</token>
-</w><w id="w-wsj0300-001-p1s13W9">
+</w>
+<w id="w-wsj0300-001-p1s13W9">
 <token>že</token>
-</w><w id="w-wsj0300-001-p1s13W10">
+</w>
+<w id="w-wsj0300-001-p1s13W10">
 <token>své</token>
-</w><w id="w-wsj0300-001-p1s13W11">
+</w>
+<w id="w-wsj0300-001-p1s13W11">
 <token>děti</token>
-</w><w id="w-wsj0300-001-p1s13W12">
+</w>
+<w id="w-wsj0300-001-p1s13W12">
 <token>posílá</token>
-</w><w id="w-wsj0300-001-p1s13W13">
+</w>
+<w id="w-wsj0300-001-p1s13W13">
 <token>do</token>
-</w><w id="w-wsj0300-001-p1s13W14">
+</w>
+<w id="w-wsj0300-001-p1s13W14">
 <token>japonské</token>
-</w><w id="w-wsj0300-001-p1s13W15">
+</w>
+<w id="w-wsj0300-001-p1s13W15">
 <token>školy</token>
-</w><w id="w-wsj0300-001-p1s13W16">
+</w>
+<w id="w-wsj0300-001-p1s13W16">
 <token>v</token>
-</w><w id="w-wsj0300-001-p1s13W17">
+</w>
+<w id="w-wsj0300-001-p1s13W17">
 <token>Mexico</token>
-</w><w id="w-wsj0300-001-p1s13W18">
+</w>
+<w id="w-wsj0300-001-p1s13W18">
 <token>City</token>
 <no_space_after>1</no_space_after>
-</w><w id="w-wsj0300-001-p1s13W19">
+</w>
+<w id="w-wsj0300-001-p1s13W19">
 <token>.</token>
-</w><w id="w-wsj0300-001-p1s14W1">
+</w>
+<w id="w-wsj0300-001-p1s14W1">
 <token>Od</token>
 </w>
 <w id="w-wsj0300-001-p1s14W2">

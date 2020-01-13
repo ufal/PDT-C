@@ -583,45 +583,64 @@
 </w>
 <w id="w-wsj1208-001-p1s13W1">
 <token>Dow</token>
-</w><w id="w-wsj1208-001-p1s13W2">
+</w>
+<w id="w-wsj1208-001-p1s13W2">
 <token>Jonesův</token>
-</w><w id="w-wsj1208-001-p1s13W3">
+</w>
+<w id="w-wsj1208-001-p1s13W3">
 <token>průmyslový</token>
-</w><w id="w-wsj1208-001-p1s13W4">
+</w>
+<w id="w-wsj1208-001-p1s13W4">
 <token>index</token>
-</w><w id="w-wsj1208-001-p1s13W5">
+</w>
+<w id="w-wsj1208-001-p1s13W5">
 <token>klesl</token>
-</w><w id="w-wsj1208-001-p1s13W6">
+</w>
+<w id="w-wsj1208-001-p1s13W6">
 <token>asi</token>
-</w><w id="w-wsj1208-001-p1s13W7">
+</w>
+<w id="w-wsj1208-001-p1s13W7">
 <token>o</token>
-</w><w id="w-wsj1208-001-p1s13W8">
+</w>
+<w id="w-wsj1208-001-p1s13W8">
 <token>80</token>
-</w><w id="w-wsj1208-001-p1s13W9">
+</w>
+<w id="w-wsj1208-001-p1s13W9">
 <token>bodů</token>
-</w><w id="w-wsj1208-001-p1s13W10">
+</w>
+<w id="w-wsj1208-001-p1s13W10">
 <token>krátce</token>
-</w><w id="w-wsj1208-001-p1s13W11">
+</w>
+<w id="w-wsj1208-001-p1s13W11">
 <token>přes</token>
-</w><w id="w-wsj1208-001-p1s13W12">
+</w>
+<w id="w-wsj1208-001-p1s13W12">
 <token>hodinu</token>
-</w><w id="w-wsj1208-001-p1s13W13">
+</w>
+<w id="w-wsj1208-001-p1s13W13">
 <token>poté</token>
 <no_space_after>1</no_space_after>
-</w><w id="w-wsj1208-001-p1s13W14">
+</w>
+<w id="w-wsj1208-001-p1s13W14">
 <token>,</token>
-</w><w id="w-wsj1208-001-p1s13W15">
+</w>
+<w id="w-wsj1208-001-p1s13W15">
 <token>co</token>
-</w><w id="w-wsj1208-001-p1s13W16">
+</w>
+<w id="w-wsj1208-001-p1s13W16">
 <token>zazněl</token>
-</w><w id="w-wsj1208-001-p1s13W17">
+</w>
+<w id="w-wsj1208-001-p1s13W17">
 <token>zahajovací</token>
-</w><w id="w-wsj1208-001-p1s13W18">
+</w>
+<w id="w-wsj1208-001-p1s13W18">
 <token>zvon</token>
 <no_space_after>1</no_space_after>
-</w><w id="w-wsj1208-001-p1s13W19">
+</w>
+<w id="w-wsj1208-001-p1s13W19">
 <token>.</token>
-</w><w id="w-wsj1208-001-p1s14W1">
+</w>
+<w id="w-wsj1208-001-p1s14W1">
 <token>Pro</token>
 </w>
 <w id="w-wsj1208-001-p1s14W2">
@@ -4383,145 +4402,206 @@
 <w id="w-wsj1208-001-p1s71W1">
 <token>AMR</token>
 <no_space_after>1</no_space_after>
-</w><w id="w-wsj1208-001-p1s71W2">
+</w>
+<w id="w-wsj1208-001-p1s71W2">
 <token>,</token>
-</w><w id="w-wsj1208-001-p1s71W3">
+</w>
+<w id="w-wsj1208-001-p1s71W3">
 <token>mateřská</token>
-</w><w id="w-wsj1208-001-p1s71W4">
+</w>
+<w id="w-wsj1208-001-p1s71W4">
 <token>společnost</token>
-</w><w id="w-wsj1208-001-p1s71W5">
+</w>
+<w id="w-wsj1208-001-p1s71W5">
 <token>American</token>
-</w><w id="w-wsj1208-001-p1s71W6">
+</w>
+<w id="w-wsj1208-001-p1s71W6">
 <token>Airlines</token>
 <no_space_after>1</no_space_after>
-</w><w id="w-wsj1208-001-p1s71W7">
+</w>
+<w id="w-wsj1208-001-p1s71W7">
 <token>,</token>
-</w><w id="w-wsj1208-001-p1s71W8">
+</w>
+<w id="w-wsj1208-001-p1s71W8">
 <token>propadla</token>
-</w><w id="w-wsj1208-001-p1s71W9">
+</w>
+<w id="w-wsj1208-001-p1s71W9">
 <token>o</token>
-</w><w id="w-wsj1208-001-p1s71W10">
+</w>
+<w id="w-wsj1208-001-p1s71W10">
 <token>1</token>
-</w><w id="w-wsj1208-001-p1s71W11">
+</w>
+<w id="w-wsj1208-001-p1s71W11">
 <token>3</token>
 <no_space_after>1</no_space_after>
-</w><w id="w-wsj1208-001-p1s71W12">
+</w>
+<w id="w-wsj1208-001-p1s71W12">
 <token>/</token>
 <no_space_after>1</no_space_after>
-</w><w id="w-wsj1208-001-p1s71W13">
+</w>
+<w id="w-wsj1208-001-p1s71W13">
 <token>4</token>
-</w><w id="w-wsj1208-001-p1s71W14">
+</w>
+<w id="w-wsj1208-001-p1s71W14">
 <token>na</token>
-</w><w id="w-wsj1208-001-p1s71W15">
+</w>
+<w id="w-wsj1208-001-p1s71W15">
 <token>68</token>
-</w><w id="w-wsj1208-001-p1s71W16">
+</w>
+<w id="w-wsj1208-001-p1s71W16">
 <token>7</token>
 <no_space_after>1</no_space_after>
-</w><w id="w-wsj1208-001-p1s71W17">
+</w>
+<w id="w-wsj1208-001-p1s71W17">
 <token>/</token>
 <no_space_after>1</no_space_after>
-</w><w id="w-wsj1208-001-p1s71W18">
+</w>
+<w id="w-wsj1208-001-p1s71W18">
 <token>8</token>
-</w><w id="w-wsj1208-001-p1s71W19">
+</w>
+<w id="w-wsj1208-001-p1s71W19">
 <token>při</token>
-</w><w id="w-wsj1208-001-p1s71W20">
+</w>
+<w id="w-wsj1208-001-p1s71W20">
 <token>2,3</token>
-</w><w id="w-wsj1208-001-p1s71W21">
+</w>
+<w id="w-wsj1208-001-p1s71W21">
 <token>milionu</token>
-</w><w id="w-wsj1208-001-p1s71W22">
+</w>
+<w id="w-wsj1208-001-p1s71W22">
 <token>akcií</token>
 <no_space_after>1</no_space_after>
-</w><w id="w-wsj1208-001-p1s71W23">
+</w>
+<w id="w-wsj1208-001-p1s71W23">
 <token>,</token>
-</w><w id="w-wsj1208-001-p1s71W24">
+</w>
+<w id="w-wsj1208-001-p1s71W24">
 <token>Delta</token>
-</w><w id="w-wsj1208-001-p1s71W25">
+</w>
+<w id="w-wsj1208-001-p1s71W25">
 <token>Air</token>
-</w><w id="w-wsj1208-001-p1s71W26">
+</w>
+<w id="w-wsj1208-001-p1s71W26">
 <token>Lines</token>
-</w><w id="w-wsj1208-001-p1s71W27">
+</w>
+<w id="w-wsj1208-001-p1s71W27">
 <token>klesla</token>
-</w><w id="w-wsj1208-001-p1s71W28">
+</w>
+<w id="w-wsj1208-001-p1s71W28">
 <token>o</token>
-</w><w id="w-wsj1208-001-p1s71W29">
+</w>
+<w id="w-wsj1208-001-p1s71W29">
 <token>1</token>
-</w><w id="w-wsj1208-001-p1s71W30">
+</w>
+<w id="w-wsj1208-001-p1s71W30">
 <token>1</token>
 <no_space_after>1</no_space_after>
-</w><w id="w-wsj1208-001-p1s71W31">
+</w>
+<w id="w-wsj1208-001-p1s71W31">
 <token>/</token>
 <no_space_after>1</no_space_after>
-</w><w id="w-wsj1208-001-p1s71W32">
+</w>
+<w id="w-wsj1208-001-p1s71W32">
 <token>2</token>
-</w><w id="w-wsj1208-001-p1s71W33">
+</w>
+<w id="w-wsj1208-001-p1s71W33">
 <token>na</token>
-</w><w id="w-wsj1208-001-p1s71W34">
+</w>
+<w id="w-wsj1208-001-p1s71W34">
 <token>66</token>
 <no_space_after>1</no_space_after>
-</w><w id="w-wsj1208-001-p1s71W35">
+</w>
+<w id="w-wsj1208-001-p1s71W35">
 <token>,</token>
-</w><w id="w-wsj1208-001-p1s71W36">
+</w>
+<w id="w-wsj1208-001-p1s71W36">
 <token>Southwest</token>
-</w><w id="w-wsj1208-001-p1s71W37">
+</w>
+<w id="w-wsj1208-001-p1s71W37">
 <token>Airlines</token>
-</w><w id="w-wsj1208-001-p1s71W38">
+</w>
+<w id="w-wsj1208-001-p1s71W38">
 <token>sklouzla</token>
-</w><w id="w-wsj1208-001-p1s71W39">
+</w>
+<w id="w-wsj1208-001-p1s71W39">
 <token>o</token>
-</w><w id="w-wsj1208-001-p1s71W40">
+</w>
+<w id="w-wsj1208-001-p1s71W40">
 <token>3</token>
 <no_space_after>1</no_space_after>
-</w><w id="w-wsj1208-001-p1s71W41">
+</w>
+<w id="w-wsj1208-001-p1s71W41">
 <token>/</token>
 <no_space_after>1</no_space_after>
-</w><w id="w-wsj1208-001-p1s71W42">
+</w>
+<w id="w-wsj1208-001-p1s71W42">
 <token>4</token>
-</w><w id="w-wsj1208-001-p1s71W43">
+</w>
+<w id="w-wsj1208-001-p1s71W43">
 <token>na</token>
-</w><w id="w-wsj1208-001-p1s71W44">
+</w>
+<w id="w-wsj1208-001-p1s71W44">
 <token>24</token>
-</w><w id="w-wsj1208-001-p1s71W45">
+</w>
+<w id="w-wsj1208-001-p1s71W45">
 <token>1</token>
 <no_space_after>1</no_space_after>
-</w><w id="w-wsj1208-001-p1s71W46">
+</w>
+<w id="w-wsj1208-001-p1s71W46">
 <token>/</token>
 <no_space_after>1</no_space_after>
-</w><w id="w-wsj1208-001-p1s71W47">
+</w>
+<w id="w-wsj1208-001-p1s71W47">
 <token>4</token>
-</w><w id="w-wsj1208-001-p1s71W48">
+</w>
+<w id="w-wsj1208-001-p1s71W48">
 <token>a</token>
-</w><w id="w-wsj1208-001-p1s71W49">
+</w>
+<w id="w-wsj1208-001-p1s71W49">
 <token>Midway</token>
-</w><w id="w-wsj1208-001-p1s71W50">
+</w>
+<w id="w-wsj1208-001-p1s71W50">
 <token>Airlines</token>
-</w><w id="w-wsj1208-001-p1s71W51">
+</w>
+<w id="w-wsj1208-001-p1s71W51">
 <token>poklesla</token>
-</w><w id="w-wsj1208-001-p1s71W52">
+</w>
+<w id="w-wsj1208-001-p1s71W52">
 <token>o</token>
-</w><w id="w-wsj1208-001-p1s71W53">
+</w>
+<w id="w-wsj1208-001-p1s71W53">
 <token>1</token>
 <no_space_after>1</no_space_after>
-</w><w id="w-wsj1208-001-p1s71W54">
+</w>
+<w id="w-wsj1208-001-p1s71W54">
 <token>/</token>
 <no_space_after>1</no_space_after>
-</w><w id="w-wsj1208-001-p1s71W55">
+</w>
+<w id="w-wsj1208-001-p1s71W55">
 <token>4</token>
-</w><w id="w-wsj1208-001-p1s71W56">
+</w>
+<w id="w-wsj1208-001-p1s71W56">
 <token>na</token>
-</w><w id="w-wsj1208-001-p1s71W57">
+</w>
+<w id="w-wsj1208-001-p1s71W57">
 <token>14</token>
-</w><w id="w-wsj1208-001-p1s71W58">
+</w>
+<w id="w-wsj1208-001-p1s71W58">
 <token>7</token>
 <no_space_after>1</no_space_after>
-</w><w id="w-wsj1208-001-p1s71W59">
+</w>
+<w id="w-wsj1208-001-p1s71W59">
 <token>/</token>
 <no_space_after>1</no_space_after>
-</w><w id="w-wsj1208-001-p1s71W60">
+</w>
+<w id="w-wsj1208-001-p1s71W60">
 <token>8</token>
 <no_space_after>1</no_space_after>
-</w><w id="w-wsj1208-001-p1s71W61">
+</w>
+<w id="w-wsj1208-001-p1s71W61">
 <token>.</token>
-</w><w id="w-wsj1208-001-p1s72W1">
+</w>
+<w id="w-wsj1208-001-p1s72W1">
 <token>Společnost</token>
 </w>
 <w id="w-wsj1208-001-p1s72W2">

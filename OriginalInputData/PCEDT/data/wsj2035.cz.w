@@ -140,10 +140,12 @@
 </w>
 <w id="w-wsj2035-001-p1s2W9">
 <token>Gotaas</token>
-<no_space_after>1</no_space_after></w>
+<no_space_after>1</no_space_after>
+</w>
 <w id="w-wsj2035-001-p1s2W10">
 <token>-</token>
-<no_space_after>1</no_space_after></w>
+<no_space_after>1</no_space_after>
+</w>
 <w id="w-wsj2035-001-p1s2W11">
 <token>Larsen</token>
 </w>

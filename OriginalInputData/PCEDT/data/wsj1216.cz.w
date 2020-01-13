@@ -2299,7 +2299,8 @@
 </w>
 <w id="w-wsj1216-001-p1s31W18">
 <token>NT</token>
-<no_space_after>1</no_space_after></w>
+<no_space_after>1</no_space_after>
+</w>
 <w id="w-wsj1216-001-p1s31W19">
 <token>&amp;</token>
 <no_space_after>1</no_space_after>

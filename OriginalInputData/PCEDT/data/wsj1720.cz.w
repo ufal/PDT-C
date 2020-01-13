@@ -24,72 +24,104 @@
 <othermarkup origin="csts/doc/p/@n">1</othermarkup>
 <w id="w-wsj1720-001-p1s0W1">
 <token>Tři</token>
-</w><w id="w-wsj1720-001-p1s0W2">
+</w>
+<w id="w-wsj1720-001-p1s0W2">
 <token>spořitelní</token>
-</w><w id="w-wsj1720-001-p1s0W3">
+</w>
+<w id="w-wsj1720-001-p1s0W3">
 <token>instituce</token>
-</w><w id="w-wsj1720-001-p1s0W4">
+</w>
+<w id="w-wsj1720-001-p1s0W4">
 <token>v</token>
-</w><w id="w-wsj1720-001-p1s0W5">
+</w>
+<w id="w-wsj1720-001-p1s0W5">
 <token>Kansasu</token>
-</w><w id="w-wsj1720-001-p1s0W6">
+</w>
+<w id="w-wsj1720-001-p1s0W6">
 <token>a</token>
-</w><w id="w-wsj1720-001-p1s0W7">
+</w>
+<w id="w-wsj1720-001-p1s0W7">
 <token>Texasu</token>
-</w><w id="w-wsj1720-001-p1s0W8">
+</w>
+<w id="w-wsj1720-001-p1s0W8">
 <token>byly</token>
-</w><w id="w-wsj1720-001-p1s0W9">
+</w>
+<w id="w-wsj1720-001-p1s0W9">
 <token>začleněny</token>
-</w><w id="w-wsj1720-001-p1s0W10">
+</w>
+<w id="w-wsj1720-001-p1s0W10">
 <token>do</token>
-</w><w id="w-wsj1720-001-p1s0W11">
+</w>
+<w id="w-wsj1720-001-p1s0W11">
 <token>právního</token>
-</w><w id="w-wsj1720-001-p1s0W12">
+</w>
+<w id="w-wsj1720-001-p1s0W12">
 <token>programu</token>
-</w><w id="w-wsj1720-001-p1s0W13">
+</w>
+<w id="w-wsj1720-001-p1s0W13">
 <token>Resolution</token>
-</w><w id="w-wsj1720-001-p1s0W14">
+</w>
+<w id="w-wsj1720-001-p1s0W14">
 <token>Trust</token>
-</w><w id="w-wsj1720-001-p1s0W15">
+</w>
+<w id="w-wsj1720-001-p1s0W15">
 <token>Corp</token>
 <no_space_after>1</no_space_after>
-</w><w id="w-wsj1720-001-p1s0W16">
+</w>
+<w id="w-wsj1720-001-p1s0W16">
 <token>.</token>
-</w><w id="w-wsj1720-001-p1s0W17">
+</w>
+<w id="w-wsj1720-001-p1s0W17">
 <token>poté</token>
 <no_space_after>1</no_space_after>
-</w><w id="w-wsj1720-001-p1s0W18">
+</w>
+<w id="w-wsj1720-001-p1s0W18">
 <token>,</token>
-</w><w id="w-wsj1720-001-p1s0W19">
+</w>
+<w id="w-wsj1720-001-p1s0W19">
 <token>co</token>
-</w><w id="w-wsj1720-001-p1s0W20">
+</w>
+<w id="w-wsj1720-001-p1s0W20">
 <token>federální</token>
-</w><w id="w-wsj1720-001-p1s0W21">
+</w>
+<w id="w-wsj1720-001-p1s0W21">
 <token>správci</token>
-</w><w id="w-wsj1720-001-p1s0W22">
+</w>
+<w id="w-wsj1720-001-p1s0W22">
 <token>označili</token>
-</w><w id="w-wsj1720-001-p1s0W23">
+</w>
+<w id="w-wsj1720-001-p1s0W23">
 <token>tyto</token>
-</w><w id="w-wsj1720-001-p1s0W24">
+</w>
+<w id="w-wsj1720-001-p1s0W24">
 <token>záložny</token>
-</w><w id="w-wsj1720-001-p1s0W25">
+</w>
+<w id="w-wsj1720-001-p1s0W25">
 <token>za</token>
-</w><w id="w-wsj1720-001-p1s0W26">
+</w>
+<w id="w-wsj1720-001-p1s0W26">
 <token>insolventní</token>
-</w><w id="w-wsj1720-001-p1s0W27">
+</w>
+<w id="w-wsj1720-001-p1s0W27">
 <token>a</token>
-</w><w id="w-wsj1720-001-p1s0W28">
+</w>
+<w id="w-wsj1720-001-p1s0W28">
 <token>jmenovali</token>
-</w><w id="w-wsj1720-001-p1s0W29">
+</w>
+<w id="w-wsj1720-001-p1s0W29">
 <token>RTC</token>
-</w><w id="w-wsj1720-001-p1s0W30">
+</w>
+<w id="w-wsj1720-001-p1s0W30">
 <token>jejich</token>
-</w><w id="w-wsj1720-001-p1s0W31">
+</w>
+<w id="w-wsj1720-001-p1s0W31">
 <token>příjemcem</token>
 <no_space_after>1</no_space_after>
-</w><w id="w-wsj1720-001-p1s0W32">
+</w>
+<w id="w-wsj1720-001-p1s0W32">
 <token>.</token>
-</w><w id="w-wsj1720-001-p1s1W1">
+</w>
+<w id="w-wsj1720-001-p1s1W1">
 <token>Vklady</token>
 <no_space_after>1</no_space_after>
 </w>

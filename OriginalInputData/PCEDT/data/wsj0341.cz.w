@@ -158,10 +158,12 @@
 </w>
 <w id="w-wsj0341-001-p1s1W8">
 <token>Uno</token>
-<no_space_after>1</no_space_after></w>
+<no_space_after>1</no_space_after>
+</w>
 <w id="w-wsj0341-001-p1s1W9">
 <token>-</token>
-<no_space_after>1</no_space_after></w>
+<no_space_after>1</no_space_after>
+</w>
 <w id="w-wsj0341-001-p1s1W10">
 <token>Ven</token>
 </w>

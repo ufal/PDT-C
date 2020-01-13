@@ -259,7 +259,8 @@
 </w>
 <w id="w-wsj1508-001-p1s2W2">
 <token>P</token>
-<no_space_after>1</no_space_after></w>
+<no_space_after>1</no_space_after>
+</w>
 <w id="w-wsj1508-001-p1s2W3">
 <token>&amp;</token>
 <no_space_after>1</no_space_after>
@@ -372,7 +373,8 @@
 </w>
 <w id="w-wsj1508-001-p1s2W39">
 <token>P</token>
-<no_space_after>1</no_space_after></w>
+<no_space_after>1</no_space_after>
+</w>
 <w id="w-wsj1508-001-p1s2W40">
 <token>&amp;</token>
 <no_space_after>1</no_space_after>
@@ -395,7 +397,8 @@
 </w>
 <w id="w-wsj1508-001-p1s3W4">
 <token>P</token>
-<no_space_after>1</no_space_after></w>
+<no_space_after>1</no_space_after>
+</w>
 <w id="w-wsj1508-001-p1s3W5">
 <token>&amp;</token>
 <no_space_after>1</no_space_after>

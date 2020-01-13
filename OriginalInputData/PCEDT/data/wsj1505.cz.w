@@ -1504,20 +1504,27 @@
 </w>
 <w id="w-wsj1505-001-p1s22W1">
 <token>Fanuc</token>
-</w><w id="w-wsj1505-001-p1s22W2">
+</w>
+<w id="w-wsj1505-001-p1s22W2">
 <token>zvýšil</token>
-</w><w id="w-wsj1505-001-p1s22W3">
+</w>
+<w id="w-wsj1505-001-p1s22W3">
 <token>o</token>
-</w><w id="w-wsj1505-001-p1s22W4">
+</w>
+<w id="w-wsj1505-001-p1s22W4">
 <token>100</token>
-</w><w id="w-wsj1505-001-p1s22W5">
+</w>
+<w id="w-wsj1505-001-p1s22W5">
 <token>na</token>
-</w><w id="w-wsj1505-001-p1s22W6">
+</w>
+<w id="w-wsj1505-001-p1s22W6">
 <token>7 580</token>
 <no_space_after>1</no_space_after>
-</w><w id="w-wsj1505-001-p1s22W7">
+</w>
+<w id="w-wsj1505-001-p1s22W7">
 <token>.</token>
-</w><w id="w-wsj1505-001-p1s23W1">
+</w>
+<w id="w-wsj1505-001-p1s23W1">
 <token>Pivovary</token>
 </w>
 <w id="w-wsj1505-001-p1s23W2">

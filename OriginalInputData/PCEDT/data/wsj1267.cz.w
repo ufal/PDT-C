@@ -24,50 +24,72 @@
 <othermarkup origin="csts/doc/p/@n">1</othermarkup>
 <w id="w-wsj1267-001-p1s0W1">
 <token>V</token>
-</w><w id="w-wsj1267-001-p1s0W2">
+</w>
+<w id="w-wsj1267-001-p1s0W2">
 <token>nenápadné</token>
-</w><w id="w-wsj1267-001-p1s0W3">
+</w>
+<w id="w-wsj1267-001-p1s0W3">
 <token>kancelářské</token>
-</w><w id="w-wsj1267-001-p1s0W4">
+</w>
+<w id="w-wsj1267-001-p1s0W4">
 <token>budově</token>
-</w><w id="w-wsj1267-001-p1s0W5">
+</w>
+<w id="w-wsj1267-001-p1s0W5">
 <token>na</token>
-</w><w id="w-wsj1267-001-p1s0W6">
+</w>
+<w id="w-wsj1267-001-p1s0W6">
 <token>jih</token>
-</w><w id="w-wsj1267-001-p1s0W7">
+</w>
+<w id="w-wsj1267-001-p1s0W7">
 <token>od</token>
-</w><w id="w-wsj1267-001-p1s0W8">
+</w>
+<w id="w-wsj1267-001-p1s0W8">
 <token>Los</token>
-</w><w id="w-wsj1267-001-p1s0W9">
+</w>
+<w id="w-wsj1267-001-p1s0W9">
 <token>Angeles</token>
-</w><w id="w-wsj1267-001-p1s0W10">
+</w>
+<w id="w-wsj1267-001-p1s0W10">
 <token>se</token>
-</w><w id="w-wsj1267-001-p1s0W11">
+</w>
+<w id="w-wsj1267-001-p1s0W11">
 <token>monitoruje</token>
-</w><w id="w-wsj1267-001-p1s0W12">
+</w>
+<w id="w-wsj1267-001-p1s0W12">
 <token>a</token>
-</w><w id="w-wsj1267-001-p1s0W13">
+</w>
+<w id="w-wsj1267-001-p1s0W13">
 <token>pitvá</token>
-</w><w id="w-wsj1267-001-p1s0W14">
+</w>
+<w id="w-wsj1267-001-p1s0W14">
 <token>lidské</token>
-</w><w id="w-wsj1267-001-p1s0W15">
+</w>
+<w id="w-wsj1267-001-p1s0W15">
 <token>chování</token>
-</w><w id="w-wsj1267-001-p1s0W16">
+</w>
+<w id="w-wsj1267-001-p1s0W16">
 <token>a</token>
-</w><w id="w-wsj1267-001-p1s0W17">
+</w>
+<w id="w-wsj1267-001-p1s0W17">
 <token>nakonec</token>
-</w><w id="w-wsj1267-001-p1s0W18">
+</w>
+<w id="w-wsj1267-001-p1s0W18">
 <token>se</token>
-</w><w id="w-wsj1267-001-p1s0W19">
+</w>
+<w id="w-wsj1267-001-p1s0W19">
 <token>s</token>
-</w><w id="w-wsj1267-001-p1s0W20">
+</w>
+<w id="w-wsj1267-001-p1s0W20">
 <token>ním</token>
-</w><w id="w-wsj1267-001-p1s0W21">
+</w>
+<w id="w-wsj1267-001-p1s0W21">
 <token>manipuluje</token>
 <no_space_after>1</no_space_after>
-</w><w id="w-wsj1267-001-p1s0W22">
+</w>
+<w id="w-wsj1267-001-p1s0W22">
 <token>.</token>
-</w><w id="w-wsj1267-001-p1s1W1">
+</w>
+<w id="w-wsj1267-001-p1s1W1">
 <token>Napříč</token>
 </w>
 <w id="w-wsj1267-001-p1s1W2">

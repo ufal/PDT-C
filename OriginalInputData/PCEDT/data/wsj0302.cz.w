@@ -97,43 +97,61 @@
 <w id="w-wsj0302-001-p1s1W1">
 <token>Prohlásil</token>
 <no_space_after>1</no_space_after>
-</w><w id="w-wsj0302-001-p1s1W2">
+</w>
+<w id="w-wsj0302-001-p1s1W2">
 <token>,</token>
-</w><w id="w-wsj0302-001-p1s1W3">
+</w>
+<w id="w-wsj0302-001-p1s1W3">
 <token>že</token>
-</w><w id="w-wsj0302-001-p1s1W4">
+</w>
+<w id="w-wsj0302-001-p1s1W4">
 <token>vláda</token>
-</w><w id="w-wsj0302-001-p1s1W5">
+</w>
+<w id="w-wsj0302-001-p1s1W5">
 <token>také</token>
-</w><w id="w-wsj0302-001-p1s1W6">
+</w>
+<w id="w-wsj0302-001-p1s1W6">
 <token>zruší</token>
-</w><w id="w-wsj0302-001-p1s1W7">
+</w>
+<w id="w-wsj0302-001-p1s1W7">
 <token>1</token>
 <no_space_after>1</no_space_after>
-</w><w id="w-wsj0302-001-p1s1W8">
+</w>
+<w id="w-wsj0302-001-p1s1W8">
 <token>%</token>
-</w><w id="w-wsj0302-001-p1s1W9">
+</w>
+<w id="w-wsj0302-001-p1s1W9">
 <token>daň</token>
-</w><w id="w-wsj0302-001-p1s1W10">
+</w>
+<w id="w-wsj0302-001-p1s1W10">
 <token>z</token>
-</w><w id="w-wsj0302-001-p1s1W11">
+</w>
+<w id="w-wsj0302-001-p1s1W11">
 <token>obratu</token>
-</w><w id="w-wsj0302-001-p1s1W12">
+</w>
+<w id="w-wsj0302-001-p1s1W12">
 <token>při</token>
-</w><w id="w-wsj0302-001-p1s1W13">
+</w>
+<w id="w-wsj0302-001-p1s1W13">
 <token>prvním</token>
-</w><w id="w-wsj0302-001-p1s1W14">
+</w>
+<w id="w-wsj0302-001-p1s1W14">
 <token>nákupu</token>
-</w><w id="w-wsj0302-001-p1s1W15">
+</w>
+<w id="w-wsj0302-001-p1s1W15">
 <token>podílů</token>
-</w><w id="w-wsj0302-001-p1s1W16">
+</w>
+<w id="w-wsj0302-001-p1s1W16">
 <token>ve</token>
-</w><w id="w-wsj0302-001-p1s1W17">
+</w>
+<w id="w-wsj0302-001-p1s1W17">
 <token>společnostech</token>
 <no_space_after>1</no_space_after>
-</w><w id="w-wsj0302-001-p1s1W18">
+</w>
+<w id="w-wsj0302-001-p1s1W18">
 <token>.</token>
-</w><w id="w-wsj0302-001-p1s2W1">
+</w>
+<w id="w-wsj0302-001-p1s2W1">
 <token>Oznámení</token>
 </w>
 <w id="w-wsj0302-001-p1s2W2">

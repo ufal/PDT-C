@@ -472,52 +472,74 @@
 </w>
 <w id="w-wsj0173-001-p1s5W1">
 <token>Společnost</token>
-</w><w id="w-wsj0173-001-p1s5W2">
+</w>
+<w id="w-wsj0173-001-p1s5W2">
 <token>Coleco</token>
-</w><w id="w-wsj0173-001-p1s5W3">
+</w>
+<w id="w-wsj0173-001-p1s5W3">
 <token>se</token>
-</w><w id="w-wsj0173-001-p1s5W4">
+</w>
+<w id="w-wsj0173-001-p1s5W4">
 <token>ovšem</token>
-</w><w id="w-wsj0173-001-p1s5W5">
+</w>
+<w id="w-wsj0173-001-p1s5W5">
 <token>rychle</token>
-</w><w id="w-wsj0173-001-p1s5W6">
+</w>
+<w id="w-wsj0173-001-p1s5W6">
 <token>vzpamatovala</token>
 <no_space_after>1</no_space_after>
-</w><w id="w-wsj0173-001-p1s5W7">
+</w>
+<w id="w-wsj0173-001-p1s5W7">
 <token>,</token>
-</w><w id="w-wsj0173-001-p1s5W8">
+</w>
+<w id="w-wsj0173-001-p1s5W8">
 <token>když</token>
-</w><w id="w-wsj0173-001-p1s5W9">
+</w>
+<w id="w-wsj0173-001-p1s5W9">
 <token>představila</token>
-</w><w id="w-wsj0173-001-p1s5W10">
+</w>
+<w id="w-wsj0173-001-p1s5W10">
 <token>panenky</token>
-</w><w id="w-wsj0173-001-p1s5W11">
+</w>
+<w id="w-wsj0173-001-p1s5W11">
 <token>Cabbage</token>
-</w><w id="w-wsj0173-001-p1s5W12">
+</w>
+<w id="w-wsj0173-001-p1s5W12">
 <token>Patch</token>
 <no_space_after>1</no_space_after>
-</w><w id="w-wsj0173-001-p1s5W13">
+</w>
+<w id="w-wsj0173-001-p1s5W13">
 <token>,</token>
-</w><w id="w-wsj0173-001-p1s5W14">
+</w>
+<w id="w-wsj0173-001-p1s5W14">
 <token>jejichž</token>
-</w><w id="w-wsj0173-001-p1s5W15">
+</w>
+<w id="w-wsj0173-001-p1s5W15">
 <token>tržby</token>
-</w><w id="w-wsj0173-001-p1s5W16">
+</w>
+<w id="w-wsj0173-001-p1s5W16">
 <token>dosáhly</token>
-</w><w id="w-wsj0173-001-p1s5W17">
+</w>
+<w id="w-wsj0173-001-p1s5W17">
 <token>v</token>
-</w><w id="w-wsj0173-001-p1s5W18">
+</w>
+<w id="w-wsj0173-001-p1s5W18">
 <token>roce</token>
-</w><w id="w-wsj0173-001-p1s5W19">
+</w>
+<w id="w-wsj0173-001-p1s5W19">
 <token>1985 600</token>
-</w><w id="w-wsj0173-001-p1s5W20">
+</w>
+<w id="w-wsj0173-001-p1s5W20">
 <token>miliónů</token>
-</w><w id="w-wsj0173-001-p1s5W21">
+</w>
+<w id="w-wsj0173-001-p1s5W21">
 <token>dolarů</token>
 <no_space_after>1</no_space_after>
-</w><w id="w-wsj0173-001-p1s5W22">
+</w>
+<w id="w-wsj0173-001-p1s5W22">
 <token>.</token>
-</w><w id="w-wsj0173-001-p1s6W1">
+</w>
+<w id="w-wsj0173-001-p1s6W1">
 <token>Ovšem</token>
 </w>
 <w id="w-wsj0173-001-p1s6W2">

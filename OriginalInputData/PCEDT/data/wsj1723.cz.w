@@ -2159,44 +2159,63 @@
 </w>
 <w id="w-wsj1723-001-p1s28W1">
 <token>Londýnský</token>
-</w><w id="w-wsj1723-001-p1s28W2">
+</w>
+<w id="w-wsj1723-001-p1s28W2">
 <token>index</token>
-</w><w id="w-wsj1723-001-p1s28W3">
+</w>
+<w id="w-wsj1723-001-p1s28W3">
 <token>Financial</token>
-</w><w id="w-wsj1723-001-p1s28W4">
+</w>
+<w id="w-wsj1723-001-p1s28W4">
 <token>Times</token>
-</w><w id="w-wsj1723-001-p1s28W5">
+</w>
+<w id="w-wsj1723-001-p1s28W5">
 <token>-</token>
-</w><w id="w-wsj1723-001-p1s28W6">
+</w>
+<w id="w-wsj1723-001-p1s28W6">
 <token>Stock</token>
-</w><w id="w-wsj1723-001-p1s28W7">
+</w>
+<w id="w-wsj1723-001-p1s28W7">
 <token>Exchange</token>
-</w><w id="w-wsj1723-001-p1s28W8">
+</w>
+<w id="w-wsj1723-001-p1s28W8">
 <token>založený</token>
-</w><w id="w-wsj1723-001-p1s28W9">
+</w>
+<w id="w-wsj1723-001-p1s28W9">
 <token>na</token>
-</w><w id="w-wsj1723-001-p1s28W10">
+</w>
+<w id="w-wsj1723-001-p1s28W10">
 <token>100</token>
-</w><w id="w-wsj1723-001-p1s28W11">
+</w>
+<w id="w-wsj1723-001-p1s28W11">
 <token>akciích</token>
-</w><w id="w-wsj1723-001-p1s28W12">
+</w>
+<w id="w-wsj1723-001-p1s28W12">
 <token>skončil</token>
-</w><w id="w-wsj1723-001-p1s28W13">
+</w>
+<w id="w-wsj1723-001-p1s28W13">
 <token>o</token>
-</w><w id="w-wsj1723-001-p1s28W14">
+</w>
+<w id="w-wsj1723-001-p1s28W14">
 <token>19,2</token>
-</w><w id="w-wsj1723-001-p1s28W15">
+</w>
+<w id="w-wsj1723-001-p1s28W15">
 <token>bodu</token>
-</w><w id="w-wsj1723-001-p1s28W16">
+</w>
+<w id="w-wsj1723-001-p1s28W16">
 <token>výše</token>
-</w><w id="w-wsj1723-001-p1s28W17">
+</w>
+<w id="w-wsj1723-001-p1s28W17">
 <token>na</token>
-</w><w id="w-wsj1723-001-p1s28W18">
+</w>
+<w id="w-wsj1723-001-p1s28W18">
 <token>2189,3</token>
 <no_space_after>1</no_space_after>
-</w><w id="w-wsj1723-001-p1s28W19">
+</w>
+<w id="w-wsj1723-001-p1s28W19">
 <token>.</token>
-</w><w id="w-wsj1723-001-p1s29W1">
+</w>
+<w id="w-wsj1723-001-p1s29W1">
 <token>30akciový</token>
 </w>
 <w id="w-wsj1723-001-p1s29W2">
