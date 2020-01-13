@@ -50,7 +50,10 @@
 <LM>w#w-wsj1945-001-p1s0W4</LM>
 </w.rf>
 <form>Rowe</form>
-<tag lemma="Rowe" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Rowe" src="auto">X@-------------</AM>
+<AM lemma="Rowe-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1945-001-p1s0W5-Ta">
 <src.rf>tagger-a</src.rf>
@@ -58,7 +61,10 @@
 <LM>w#w-wsj1945-001-p1s0W5</LM>
 </w.rf>
 <form>Price</form>
-<tag lemma="Price_;G" src="auto" recommended="1">NNNXX-----A----</tag>
+<tag>
+<AM lemma="Price_;G" src="auto" recommended="1">NNNXX-----A----</AM>
+<AM lemma="Price-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1945-001-p1s0W6-Ta">
 <src.rf>tagger-a</src.rf>
@@ -66,7 +72,10 @@
 <LM>w#w-wsj1945-001-p1s0W6</LM>
 </w.rf>
 <form>Associates</form>
-<tag lemma="Associates" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Associates" src="auto">X@-------------</AM>
+<AM lemma="Associates-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1945-001-p1s0W7-Ta">
 <src.rf>tagger-a</src.rf>
@@ -77,6 +86,7 @@
 <tag>
 <AM lemma="Inc-77_:B" src="auto" recommended="1">F%-------------</AM>
 <AM lemma="inc-77_:B" src="auto">F%-------------</AM>
+<AM lemma="Inc-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1945-001-p1s0W8-Ta">
@@ -554,7 +564,10 @@
 <LM>w#w-wsj1945-001-p1s2W4</LM>
 </w.rf>
 <form>Rowe</form>
-<tag lemma="Rowe" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Rowe" src="auto">X@-------------</AM>
+<AM lemma="Rowe-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1945-001-p1s2W5-Ta">
 <src.rf>tagger-a</src.rf>
@@ -562,7 +575,10 @@
 <LM>w#w-wsj1945-001-p1s2W5</LM>
 </w.rf>
 <form>Price</form>
-<tag lemma="Price_;G" src="auto" recommended="1">NNNXX-----A----</tag>
+<tag>
+<AM lemma="Price_;G" src="auto" recommended="1">NNNXX-----A----</AM>
+<AM lemma="Price-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1945-001-p1s2W6-Ta">
 <src.rf>tagger-a</src.rf>

@@ -27,7 +27,10 @@
 <LM>w#w-wsj2133-001-p1s0W2</LM>
 </w.rf>
 <form>Flowers</form>
-<tag lemma="Flowers" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Flowers" src="auto">X@-------------</AM>
+<AM lemma="Flowers-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj2133-001-p1s0W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -35,7 +38,10 @@
 <LM>w#w-wsj2133-001-p1s0W3</LM>
 </w.rf>
 <form>Industries</form>
-<tag lemma="Industries" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Industries" src="auto">X@-------------</AM>
+<AM lemma="Industries-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj2133-001-p1s0W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -46,6 +52,7 @@
 <tag>
 <AM lemma="Inc-77_:B" src="auto" recommended="1">F%-------------</AM>
 <AM lemma="inc-77_:B" src="auto">F%-------------</AM>
+<AM lemma="Inc-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj2133-001-p1s0W5-Ta">
@@ -401,7 +408,10 @@
 <LM>w#w-wsj2133-001-p1s0W30</LM>
 </w.rf>
 <form>High</form>
-<tag lemma="High" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="High" src="auto">X@-------------</AM>
+<AM lemma="High-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj2133-001-p1s0W31-Ta">
 <src.rf>tagger-a</src.rf>
@@ -414,6 +424,8 @@
 <AM lemma="point" src="auto">NNIS3-----A----</AM>
 <AM lemma="point" src="auto" recommended="1">NNIS6-----A----</AM>
 <AM lemma="pointa" src="auto">NNFS4-----A----</AM>
+<AM lemma="Point_;G" src="manual">NNIS6-----A----</AM>
+<AM lemma="Point-2_;G" src="manual" selected="1">NNIS6-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2133-001-p1s0W32-Ta">
@@ -496,6 +508,7 @@
 <AM lemma="Karolínum_;G_;K_,s_^(^DD**Karolinum)" src="auto">NNNP4-----A----</AM>
 <AM lemma="Karolínum_;G_;K_,s_^(^DD**Karolinum)" src="auto">NNNP5-----A----</AM>
 <AM lemma="Karolínum_;G_;K_,s_^(^DD**Karolinum)" src="auto">NNNS2-----A----</AM>
+<AM lemma="Karolína-2_;G" src="manual" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2133-001-p1s0W36-Ta">
@@ -532,7 +545,10 @@
 <LM>w#w-wsj2133-001-p1s0W38</LM>
 </w.rf>
 <form>Gadsdenu</form>
-<tag lemma="Gadsdenu" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Gadsdenu" src="auto">X@-------------</AM>
+<AM lemma="Gadsden_;G" src="manual" selected="1">NNIS6-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj2133-001-p1s0W39-Ta">
 <src.rf>tagger-a</src.rf>
@@ -702,7 +718,7 @@
 <AM lemma="společnost_^(*3ý)" src="auto">NNFP4-----A----</AM>
 <AM lemma="společnost_^(*3ý)" src="auto">NNFP5-----A----</AM>
 <AM lemma="společnost_^(*3ý)" src="auto" recommended="1">NNFS2-----A----</AM>
-<AM lemma="společnost_^(*3ý)" src="auto">NNFS3-----A----</AM>
+<AM lemma="společnost_^(*3ý)" src="auto" selected="1">NNFS3-----A----</AM>
 <AM lemma="společnost_^(*3ý)" src="auto">NNFS5-----A----</AM>
 <AM lemma="společnost_^(*3ý)" src="auto">NNFS6-----A----</AM>
 </tag>
@@ -713,7 +729,10 @@
 <LM>w#w-wsj2133-001-p1s1W11</LM>
 </w.rf>
 <form>Mills</form>
-<tag lemma="Mills_;S" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Mills_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Mills-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj2133-001-p1s1W12-Ta">
 <src.rf>tagger-a</src.rf>
@@ -728,6 +747,7 @@
 <AM lemma="Famila_;K" src="auto">NNFS2-----A----</AM>
 <AM lemma="family-77" src="auto">F%-------------</AM>
 <AM lemma="family_,t" src="auto" recommended="1">AAXXX----1A----</AM>
+<AM lemma="Family-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj2133-001-p1s1W13-Ta">
@@ -739,6 +759,7 @@
 <tag>
 <AM lemma="Baker_;S" src="auto" recommended="1">NNMP4-----A---2</AM>
 <AM lemma="Baker_;S" src="auto">NNMP7-----A---2</AM>
+<AM lemma="Bakery-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj2133-001-p1s1W14-Ta">
@@ -1039,7 +1060,10 @@
 <LM>w#w-wsj2133-001-p1s3W4</LM>
 </w.rf>
 <form>Flowers</form>
-<tag lemma="Flowers" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Flowers" src="auto">X@-------------</AM>
+<AM lemma="Flowers_;K" src="manual" selected="1">NNIXX-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj2133-001-p1s3W5-Ta">
 <src.rf>tagger-a</src.rf>

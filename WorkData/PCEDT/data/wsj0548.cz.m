@@ -27,6 +27,7 @@
 <AM lemma="Lawrence_;S" src="auto">NNMS4-----A---1</AM>
 <AM lemma="Lawrence_;S" src="auto">NNMS5-----A----</AM>
 <AM lemma="Lawrence_;S" src="auto">NNMXX-----A----</AM>
+<AM lemma="Lawrence_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0548-001-p1s0W2-Ta">
@@ -61,7 +62,10 @@
 <LM>w#w-wsj0548-001-p1s0W4</LM>
 </w.rf>
 <form>Gressette</form>
-<tag lemma="Gressette" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Gressette" src="auto">X@-------------</AM>
+<AM lemma="Gressette_;S" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj0548-001-p1s0W5-Ta">
 <src.rf>tagger-a</src.rf>
@@ -72,6 +76,7 @@
 <tag>
 <AM lemma="mililitr" src="auto">NNIXX-----A---8</AM>
 <AM lemma="mladý_:B" src="auto" recommended="1">AAXXX----2A---8</AM>
+<AM lemma="mladý" src="manual" selected="1">AAXXX----2A---8</AM>
 </tag>
 </m>
 <m id="m-wsj0548-001-p1s0W6-Ta">
@@ -455,7 +460,10 @@
 <LM>w#w-wsj0548-001-p1s1W2</LM>
 </w.rf>
 <form>Gressette</form>
-<tag lemma="Gressette" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Gressette" src="auto">X@-------------</AM>
+<AM lemma="Gressette_;S" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj0548-001-p1s1W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -614,7 +622,10 @@
 <LM>w#w-wsj0548-001-p1s1W16</LM>
 </w.rf>
 <form>Scana</form>
-<tag lemma="chcát_,v" src="auto" recommended="1">VsQW---XX-API--</tag>
+<tag>
+<AM lemma="chcát_,v" src="auto" recommended="1">VsQW---XX-API--</AM>
+<AM lemma="Scana_;K" src="manual" selected="1">NNFS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj0548-001-p1s1W17-Ta">
 <src.rf>tagger-a</src.rf>
@@ -692,7 +703,7 @@
 <form>Warrenovi</form>
 <tag>
 <AM lemma="Warren_;S" src="auto" recommended="1">NNMS3-----A----</AM>
-<AM lemma="Warren_;S" src="auto">NNMS6-----A----</AM>
+<AM lemma="Warren_;S" src="auto" selected="1">NNMS6-----A----</AM>
 <AM lemma="Warrenův_;S_^(*2)" src="auto">AUMP1M---------</AM>
 <AM lemma="Warrenův_;S_^(*2)" src="auto">AUMP5M---------</AM>
 </tag>

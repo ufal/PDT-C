@@ -27,7 +27,10 @@
 <LM>w#w-wsj0903-001-p1s0W2</LM>
 </w.rf>
 <form>PRIMERICA</form>
-<tag lemma="PRIMERICA" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="PRIMERICA" src="auto">X@-------------</AM>
+<AM lemma="PRIMERICA-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0903-001-p1s0W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -35,7 +38,10 @@
 <LM>w#w-wsj0903-001-p1s0W3</LM>
 </w.rf>
 <form>Corp</form>
-<tag lemma="corp-77_:B" src="auto" recommended="1">F%-------------</tag>
+<tag>
+<AM lemma="corp-77_:B" src="auto" recommended="1">F%-------------</AM>
+<AM lemma="Corp-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0903-001-p1s0W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -646,7 +652,7 @@
 </w.rf>
 <form>v</form>
 <tag>
-<AM lemma="v-1" src="auto">RR--4----------</AM>
+<AM lemma="v-1" src="auto" selected="1">RR--4----------</AM>
 <AM lemma="v-1" src="auto" recommended="1">RR--6----------</AM>
 <AM lemma="v-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
 <AM lemma="v-88_:B" src="auto">NNXXX-----A----</AM>
@@ -666,7 +672,7 @@
 <AM lemma="pokračující_^(*5ovat)" src="auto">AGFS1-----A----</AM>
 <AM lemma="pokračující_^(*5ovat)" src="auto">AGFS2-----A----</AM>
 <AM lemma="pokračující_^(*5ovat)" src="auto">AGFS3-----A----</AM>
-<AM lemma="pokračující_^(*5ovat)" src="auto">AGFS4-----A----</AM>
+<AM lemma="pokračující_^(*5ovat)" src="auto" selected="1">AGFS4-----A----</AM>
 <AM lemma="pokračující_^(*5ovat)" src="auto">AGFS5-----A----</AM>
 <AM lemma="pokračující_^(*5ovat)" src="auto" recommended="1">AGFS6-----A----</AM>
 <AM lemma="pokračující_^(*5ovat)" src="auto">AGFS7-----A----</AM>
@@ -699,7 +705,7 @@
 <AM lemma="síl_^(kožešina_z_mladých_tuleňů_a_lachtanů)" src="auto">NNIS2-----A----</AM>
 <AM lemma="síl_^(kožešina_z_mladých_tuleňů_a_lachtanů)" src="auto">NNIS3-----A----</AM>
 <AM lemma="síl_^(kožešina_z_mladých_tuleňů_a_lachtanů)" src="auto" recommended="1">NNIS6-----A----</AM>
-<AM lemma="síla_^(fyzická,_vojenská;_moc)" src="auto">NNFS4-----A----</AM>
+<AM lemma="síla_^(fyzická,_vojenská;_moc)" src="auto" selected="1">NNFS4-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0903-001-p1s1W24-Ta">

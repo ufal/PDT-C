@@ -27,7 +27,10 @@
 <LM>w#w-wsj0662-001-p1s0W2</LM>
 </w.rf>
 <form>Jayark</form>
-<tag lemma="Jayark" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Jayark" src="auto">X@-------------</AM>
+<AM lemma="Jayark-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0662-001-p1s0W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -35,7 +38,10 @@
 <LM>w#w-wsj0662-001-p1s0W3</LM>
 </w.rf>
 <form>Corp</form>
-<tag lemma="corp-77_:B" src="auto" recommended="1">F%-------------</tag>
+<tag>
+<AM lemma="corp-77_:B" src="auto" recommended="1">F%-------------</AM>
+<AM lemma="Corp-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0662-001-p1s0W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -342,7 +348,10 @@
 <LM>w#w-wsj0662-001-p1s0W32</LM>
 </w.rf>
 <form>Kofcoh</form>
-<tag lemma="Kofcoh" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Kofcoh" src="auto">X@-------------</AM>
+<AM lemma="Kofcoh-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0662-001-p1s0W33-Ta">
 <src.rf>tagger-a</src.rf>
@@ -350,7 +359,10 @@
 <LM>w#w-wsj0662-001-p1s0W33</LM>
 </w.rf>
 <form>Imports</form>
-<tag lemma="Imports" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Imports" src="auto">X@-------------</AM>
+<AM lemma="Imports-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0662-001-p1s0W34-Ta">
 <src.rf>tagger-a</src.rf>
@@ -361,6 +373,7 @@
 <tag>
 <AM lemma="Inc-77_:B" src="auto" recommended="1">F%-------------</AM>
 <AM lemma="inc-77_:B" src="auto">F%-------------</AM>
+<AM lemma="Inc-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj0662-001-p1s0W35-Ta">
@@ -559,7 +572,10 @@
 <LM>w#w-wsj0662-001-p1s1W7</LM>
 </w.rf>
 <form>Jayark</form>
-<tag lemma="Jayark" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Jayark" src="auto">X@-------------</AM>
+<AM lemma="Jayark_;K" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj0662-001-p1s1W8-Ta">
 <src.rf>tagger-a</src.rf>
@@ -891,7 +907,10 @@
 <LM>w#w-wsj0662-001-p1s3W2</LM>
 </w.rf>
 <form>Kofcoh</form>
-<tag lemma="Kofcoh" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Kofcoh" src="auto">X@-------------</AM>
+<AM lemma="Kofcoh_;K" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj0662-001-p1s3W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -972,7 +991,10 @@
 <LM>w#w-wsj0662-001-p1s3W9</LM>
 </w.rf>
 <form>Rosalco</form>
-<tag lemma="Rosalco" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Rosalco" src="auto">X@-------------</AM>
+<AM lemma="Rosalco-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0662-001-p1s3W10-Ta">
 <src.rf>tagger-a</src.rf>
@@ -983,6 +1005,7 @@
 <tag>
 <AM lemma="Inc-77_:B" src="auto" recommended="1">F%-------------</AM>
 <AM lemma="inc-77_:B" src="auto">F%-------------</AM>
+<AM lemma="Inc-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj0662-001-p1s3W11-Ta">
@@ -1161,7 +1184,10 @@
 <LM>w#w-wsj0662-001-p1s4W4</LM>
 </w.rf>
 <form>Koffman</form>
-<tag lemma="Koffman" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Koffman" src="auto">X@-------------</AM>
+<AM lemma="Koffman_;S" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj0662-001-p1s4W5-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1259,7 +1285,10 @@
 <LM>w#w-wsj0662-001-p1s4W11</LM>
 </w.rf>
 <form>Jayark</form>
-<tag lemma="Jayark" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Jayark" src="auto">X@-------------</AM>
+<AM lemma="Jayark_;K" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj0662-001-p1s4W12-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1357,7 +1386,10 @@
 <LM>w#w-wsj0662-001-p1s4W18</LM>
 </w.rf>
 <form>Kofcoh</form>
-<tag lemma="Kofcoh" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Kofcoh" src="auto">X@-------------</AM>
+<AM lemma="Kofcoh_;K" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj0662-001-p1s4W19-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1392,7 +1424,10 @@
 <LM>w#w-wsj0662-001-p1s4W22</LM>
 </w.rf>
 <form>Jayark</form>
-<tag lemma="Jayark" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Jayark" src="auto">X@-------------</AM>
+<AM lemma="Jayark_;K" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj0662-001-p1s4W23-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1421,7 +1456,10 @@
 <LM>w#w-wsj0662-001-p1s5W2</LM>
 </w.rf>
 <form>Jayark</form>
-<tag lemma="Jayark" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Jayark" src="auto">X@-------------</AM>
+<AM lemma="Jayark_;K" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj0662-001-p1s5W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1778,7 +1816,7 @@
 </w.rf>
 <form>společnost</form>
 <tag>
-<AM lemma="společnost_^(*3ý)" src="auto">NNFS1-----A----</AM>
+<AM lemma="společnost_^(*3ý)" src="auto" selected="1">NNFS1-----A----</AM>
 <AM lemma="společnost_^(*3ý)" src="auto" recommended="1">NNFS4-----A----</AM>
 </tag>
 </m>
@@ -1788,7 +1826,10 @@
 <LM>w#w-wsj0662-001-p1s6W12</LM>
 </w.rf>
 <form>Jayark</form>
-<tag lemma="Jayark" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Jayark" src="auto">X@-------------</AM>
+<AM lemma="Jayark_;K" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj0662-001-p1s6W13-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1875,7 +1916,7 @@
 <form>Obchod</form>
 <tag>
 <AM lemma="obchod" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="obchod" src="auto">NNIS4-----A----</AM>
+<AM lemma="obchod" src="auto" selected="1">NNIS4-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0662-001-p1s7W2-Ta">

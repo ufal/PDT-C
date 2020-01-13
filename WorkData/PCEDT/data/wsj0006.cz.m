@@ -30,6 +30,7 @@
 <tag>
 <AM lemma="Pacifik_;G_,t" src="auto" recommended="1">NNIS1-----A---1</AM>
 <AM lemma="Pacifik_;G_,t" src="auto">NNIS4-----A---1</AM>
+<AM lemma="Pacific-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj0006-001-p1s0W3-Ta">
@@ -38,7 +39,10 @@
 <LM>w#w-wsj0006-001-p1s0W3</LM>
 </w.rf>
 <form>First</form>
-<tag lemma="First" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="First" src="auto">X@-------------</AM>
+<AM lemma="First-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0006-001-p1s0W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -46,7 +50,10 @@
 <LM>w#w-wsj0006-001-p1s0W4</LM>
 </w.rf>
 <form>Financial</form>
-<tag lemma="Financial" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Financial" src="auto">X@-------------</AM>
+<AM lemma="Financial-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0006-001-p1s0W5-Ta">
 <src.rf>tagger-a</src.rf>
@@ -54,7 +61,10 @@
 <LM>w#w-wsj0006-001-p1s0W5</LM>
 </w.rf>
 <form>Corp</form>
-<tag lemma="corp-77_:B" src="auto" recommended="1">F%-------------</tag>
+<tag>
+<AM lemma="corp-77_:B" src="auto" recommended="1">F%-------------</AM>
+<AM lemma="Corp-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0006-001-p1s0W6-Ta">
 <src.rf>tagger-a</src.rf>
@@ -182,6 +192,7 @@
 <AM lemma="Royal_,t" src="auto" recommended="1">AAXXX----1A----</AM>
 <AM lemma="royal" src="auto">NNIS1-----A----</AM>
 <AM lemma="royal" src="auto">NNIS4-----A----</AM>
+<AM lemma="Royal-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj0006-001-p1s0W17-Ta">
@@ -190,7 +201,10 @@
 <LM>w#w-wsj0006-001-p1s0W17</LM>
 </w.rf>
 <form>Trustco</form>
-<tag lemma="Trustco" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Trustco" src="auto">X@-------------</AM>
+<AM lemma="Trustco-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0006-001-p1s0W18-Ta">
 <src.rf>tagger-a</src.rf>
@@ -198,7 +212,10 @@
 <LM>w#w-wsj0006-001-p1s0W18</LM>
 </w.rf>
 <form>Ltd</form>
-<tag lemma="Ltd-77_:B" src="auto" recommended="1">F%-------------</tag>
+<tag>
+<AM lemma="Ltd-77_:B" src="auto" recommended="1">F%-------------</AM>
+<AM lemma="Ltd-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0006-001-p1s0W19-Ta">
 <src.rf>tagger-a</src.rf>
@@ -495,6 +512,7 @@
 <AM lemma="regulátor" src="auto">NNIS2-----A---1</AM>
 <AM lemma="regulátor" src="auto" recommended="1">NNMS2-----A----</AM>
 <AM lemma="regulátor" src="auto">NNMS4-----A----</AM>
+<AM lemma="regulátor-2" src="manual" selected="1">NNMS2-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0006-001-p1s1W13-Ta">
@@ -527,7 +545,7 @@
 <AM lemma="dokončení_^(*3it)" src="auto" recommended="1">NNNS1-----A----</AM>
 <AM lemma="dokončení_^(*3it)" src="auto">NNNS2-----A----</AM>
 <AM lemma="dokončení_^(*3it)" src="auto">NNNS3-----A----</AM>
-<AM lemma="dokončení_^(*3it)" src="auto">NNNS4-----A----</AM>
+<AM lemma="dokončení_^(*3it)" src="auto" selected="1">NNNS4-----A----</AM>
 <AM lemma="dokončení_^(*3it)" src="auto">NNNS5-----A----</AM>
 <AM lemma="dokončení_^(*3it)" src="auto">NNNS6-----A----</AM>
 </tag>

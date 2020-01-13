@@ -27,7 +27,10 @@
 <LM>w#w-wsj0698-001-p1s0W2</LM>
 </w.rf>
 <form>Appalachian</form>
-<tag lemma="Appalachian" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Appalachian" src="auto">X@-------------</AM>
+<AM lemma="Appalachian-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0698-001-p1s0W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -39,6 +42,7 @@
 <AM lemma="Power_;G" src="auto">NNIS1-----A----</AM>
 <AM lemma="Power_;G" src="auto">NNIS4-----A----</AM>
 <AM lemma="power-77" src="auto" recommended="1">F%-------------</AM>
+<AM lemma="Power-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj0698-001-p1s0W4-Ta">
@@ -55,6 +59,7 @@
 <AM lemma="co-4_^(který:_př.:_o_těch,_co_odešli/co_je_znal)" src="auto">P4XXX----------</AM>
 <AM lemma="co-5_^(př._co_nejméně,_co_nevidět,_co_chvíli,_co_do_počtu,_atd.)" src="auto">Db-------------</AM>
 <AM lemma="co-77_:B" src="auto" recommended="1">F%-------------</AM>
+<AM lemma="Co-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj0698-001-p1s0W5-Ta">
@@ -106,6 +111,7 @@
 <tag>
 <AM lemma="American-1_;K_,t_^(souč._názvů,_např._A._Airlines)" src="auto" recommended="1">AAXXX----1A----</AM>
 <AM lemma="Americana_;G" src="auto">NNFP2-----A----</AM>
+<AM lemma="American-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj0698-001-p1s0W10-Ta">
@@ -114,7 +120,10 @@
 <LM>w#w-wsj0698-001-p1s0W10</LM>
 </w.rf>
 <form>Electric</form>
-<tag lemma="Electric-1_;K_,t_^(souč._názvů,_např._General_E.)" src="auto" recommended="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="Electric-1_;K_,t_^(souč._názvů,_např._General_E.)" src="auto" recommended="1">AAXXX----1A----</AM>
+<AM lemma="Electric-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0698-001-p1s0W11-Ta">
 <src.rf>tagger-a</src.rf>
@@ -126,6 +135,7 @@
 <AM lemma="Power_;G" src="auto">NNIS1-----A----</AM>
 <AM lemma="Power_;G" src="auto">NNIS4-----A----</AM>
 <AM lemma="power-77" src="auto" recommended="1">F%-------------</AM>
+<AM lemma="Power-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj0698-001-p1s0W12-Ta">
@@ -142,6 +152,7 @@
 <AM lemma="co-4_^(který:_př.:_o_těch,_co_odešli/co_je_znal)" src="auto">P4XXX----------</AM>
 <AM lemma="co-5_^(př._co_nejméně,_co_nevidět,_co_chvíli,_co_do_počtu,_atd.)" src="auto">Db-------------</AM>
 <AM lemma="co-77_:B" src="auto" recommended="1">F%-------------</AM>
+<AM lemma="Co-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj0698-001-p1s0W13-Ta">
@@ -236,7 +247,7 @@
 <tag>
 <AM lemma="celý" src="auto" recommended="1">AAFP2----1A----</AM>
 <AM lemma="celý" src="auto">AAFP6----1A----</AM>
-<AM lemma="celý" src="auto">AAIP2----1A----</AM>
+<AM lemma="celý" src="auto" selected="1">AAIP2----1A----</AM>
 <AM lemma="celý" src="auto">AAIP6----1A----</AM>
 <AM lemma="celý" src="auto">AAMP2----1A----</AM>
 <AM lemma="celý" src="auto">AAMP6----1A----</AM>
@@ -569,7 +580,7 @@
 <tag>
 <AM lemma="plus-1_^(znaménko_plus;_vyjádření_kladné_vlastnosti)" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="plus-1_^(znaménko_plus;_vyjádření_kladné_vlastnosti)" src="auto">NNIS4-----A----</AM>
-<AM lemma="plus-2_^(mat._operace;_1_plus_1,_též_plus_dva_stupně)" src="auto">J*-------------</AM>
+<AM lemma="plus-2_^(mat._operace;_1_plus_1,_též_plus_dva_stupně)" src="auto" selected="1">J*-------------</AM>
 </tag>
 </m>
 <m id="m-wsj0698-001-p1s1W11-Ta">

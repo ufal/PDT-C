@@ -136,7 +136,7 @@
 </w.rf>
 <form>úrokové</form>
 <tag>
-<AM lemma="úrokový" src="auto">AAFP1----1A----</AM>
+<AM lemma="úrokový" src="auto" selected="1">AAFP1----1A----</AM>
 <AM lemma="úrokový" src="auto">AAFP4----1A----</AM>
 <AM lemma="úrokový" src="auto">AAFP5----1A----</AM>
 <AM lemma="úrokový" src="auto" recommended="1">AAFS2----1A----</AM>
@@ -165,7 +165,7 @@
 <AM lemma="mír_^(opak_války)" src="auto">NNIP4-----A----</AM>
 <AM lemma="mír_^(opak_války)" src="auto">NNIP5-----A----</AM>
 <AM lemma="mír_^(opak_války)" src="auto">NNIP7-----A----</AM>
-<AM lemma="míra_^(měřítko,poměr)" src="auto">NNFP1-----A----</AM>
+<AM lemma="míra_^(měřítko,poměr)" src="auto" selected="1">NNFP1-----A----</AM>
 <AM lemma="míra_^(měřítko,poměr)" src="auto">NNFP4-----A----</AM>
 <AM lemma="míra_^(měřítko,poměr)" src="auto">NNFP5-----A----</AM>
 <AM lemma="míra_^(měřítko,poměr)" src="auto" recommended="1">NNFS2-----A----</AM>
@@ -292,7 +292,7 @@
 </w.rf>
 <form>tyto</form>
 <tag>
-<AM lemma="tento" src="auto">PDFP1----------</AM>
+<AM lemma="tento" src="auto" selected="1">PDFP1----------</AM>
 <AM lemma="tento" src="auto">PDFP4----------</AM>
 <AM lemma="tento" src="auto" recommended="1">PDIP1----------</AM>
 <AM lemma="tento" src="auto">PDIP4----------</AM>
@@ -317,7 +317,7 @@
 <form>a</form>
 <tag>
 <AM lemma="a-1" src="auto" recommended="1">J^-------------</AM>
-<AM lemma="a-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
+<AM lemma="a-33_^(označení_pomocí_písmene)" src="auto" selected="1">NNNXX-----A----</AM>
 <AM lemma="a-77_,t" src="auto">F%-------------</AM>
 <AM lemma="a-88_:B" src="auto">NNXXX-----A----</AM>
 <AM lemma="akciový" src="auto">AAXXX----1A---8</AM>
@@ -646,7 +646,7 @@
 <AM lemma="přizpůsobený_^(*3it)" src="auto" recommended="1">AAFS2----1A----</AM>
 <AM lemma="přizpůsobený_^(*3it)" src="auto">AAFS3----1A----</AM>
 <AM lemma="přizpůsobený_^(*3it)" src="auto">AAFS6----1A----</AM>
-<AM lemma="přizpůsobený_^(*3it)" src="auto">AAIP1----1A----</AM>
+<AM lemma="přizpůsobený_^(*3it)" src="auto" selected="1">AAIP1----1A----</AM>
 <AM lemma="přizpůsobený_^(*3it)" src="auto">AAIP4----1A----</AM>
 <AM lemma="přizpůsobený_^(*3it)" src="auto">AAIP5----1A----</AM>
 <AM lemma="přizpůsobený_^(*3it)" src="auto">AAMP4----1A----</AM>
@@ -685,7 +685,7 @@
 <AM lemma="neměnný" src="auto">AAFP4----1A----</AM>
 <AM lemma="neměnný" src="auto">AAFP5----1A----</AM>
 <AM lemma="neměnný" src="auto" recommended="1">AAFS2----1A----</AM>
-<AM lemma="neměnný" src="auto">AAFS3----1A----</AM>
+<AM lemma="neměnný" src="auto" selected="1">AAFS3----1A----</AM>
 <AM lemma="neměnný" src="auto">AAFS6----1A----</AM>
 <AM lemma="neměnný" src="auto">AAIP1----1A----</AM>
 <AM lemma="neměnný" src="auto">AAIP4----1A----</AM>
@@ -710,7 +710,7 @@
 <AM lemma="splatnost_^(*3ý)" src="auto">NNFP4-----A----</AM>
 <AM lemma="splatnost_^(*3ý)" src="auto">NNFP5-----A----</AM>
 <AM lemma="splatnost_^(*3ý)" src="auto" recommended="1">NNFS2-----A----</AM>
-<AM lemma="splatnost_^(*3ý)" src="auto">NNFS3-----A----</AM>
+<AM lemma="splatnost_^(*3ý)" src="auto" selected="1">NNFS3-----A----</AM>
 <AM lemma="splatnost_^(*3ý)" src="auto">NNFS5-----A----</AM>
 <AM lemma="splatnost_^(*3ý)" src="auto">NNFS6-----A----</AM>
 </tag>

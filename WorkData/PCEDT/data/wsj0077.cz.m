@@ -187,7 +187,7 @@
 <form>nepatrně</form>
 <tag>
 <AM lemma="nepatrně_^(*1ý)" src="auto" recommended="1">Dg-------1A----</AM>
-<AM lemma="patrně_^(*1ý)" src="auto">Dg-------1N----</AM>
+<AM lemma="patrně_^(*1ý)" src="auto" selected="1">Dg-------1N----</AM>
 </tag>
 </m>
 <m id="m-wsj0077-001-p1s0W15-Ta">
@@ -293,7 +293,7 @@
 </w.rf>
 <form>Dow</form>
 <tag>
-<AM lemma="Dow-1_;S" src="auto">NNMXX-----A----</AM>
+<AM lemma="Dow-1_;S" src="auto" selected="1">NNMXX-----A----</AM>
 <AM lemma="Dow_;S" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Dowa_;G" src="auto">NNFP2-----A----</AM>
 </tag>
@@ -706,7 +706,7 @@
 <form>klesající</form>
 <tag>
 <AM lemma="klesající_^(*4t)" src="auto" recommended="1">AGFP1-----A----</AM>
-<AM lemma="klesající_^(*4t)" src="auto">AGFP4-----A----</AM>
+<AM lemma="klesající_^(*4t)" src="auto" selected="1">AGFP4-----A----</AM>
 <AM lemma="klesající_^(*4t)" src="auto">AGFP5-----A----</AM>
 <AM lemma="klesající_^(*4t)" src="auto">AGFS1-----A----</AM>
 <AM lemma="klesající_^(*4t)" src="auto">AGFS2-----A----</AM>
@@ -742,7 +742,7 @@
 <form>akcie</form>
 <tag>
 <AM lemma="akcie" src="auto" recommended="1">NNFP1-----A----</AM>
-<AM lemma="akcie" src="auto">NNFP4-----A----</AM>
+<AM lemma="akcie" src="auto" selected="1">NNFP4-----A----</AM>
 <AM lemma="akcie" src="auto">NNFP5-----A----</AM>
 <AM lemma="akcie" src="auto">NNFS1-----A----</AM>
 <AM lemma="akcie" src="auto">NNFS2-----A----</AM>
@@ -847,7 +847,7 @@
 </w.rf>
 <form>navzdory</form>
 <tag>
-<AM lemma="navzdory-1" src="auto">RR--3----------</AM>
+<AM lemma="navzdory-1" src="auto" selected="1">RR--3----------</AM>
 <AM lemma="navzdory-2" src="auto" recommended="1">Db-------------</AM>
 </tag>
 </m>
@@ -1245,6 +1245,7 @@
 <AM lemma="Georgias_;S" src="auto">NNMS2-----A----</AM>
 <AM lemma="Georgias_;S" src="auto">NNMS4-----A----</AM>
 <AM lemma="Georgia_;G" src="auto" recommended="1">NNFS1-----A----</AM>
+<AM lemma="Georgia-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj0077-001-p1s6W14-Ta">
@@ -1264,6 +1265,7 @@
 <tag>
 <AM lemma="Pacifik_;G_,t" src="auto" recommended="1">NNIS1-----A---1</AM>
 <AM lemma="Pacifik_;G_,t" src="auto">NNIS4-----A---1</AM>
+<AM lemma="Pacific-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj0077-001-p1s6W16-Ta">
@@ -1353,7 +1355,10 @@
 <LM>w#w-wsj0077-001-p1s6W24</LM>
 </w.rf>
 <form>Great</form>
-<tag lemma="Great" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Great" src="auto">X@-------------</AM>
+<AM lemma="Great-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0077-001-p1s6W25-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1361,7 +1366,10 @@
 <LM>w#w-wsj0077-001-p1s6W25</LM>
 </w.rf>
 <form>Northern</form>
-<tag lemma="Northern" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Northern" src="auto">X@-------------</AM>
+<AM lemma="Northern-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0077-001-p1s6W26-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1369,7 +1377,10 @@
 <LM>w#w-wsj0077-001-p1s6W26</LM>
 </w.rf>
 <form>Nekoosa</form>
-<tag lemma="Nekoosa" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Nekoosa" src="auto">X@-------------</AM>
+<AM lemma="Nekoosa-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0077-001-p1s6W27-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1609,7 +1620,7 @@
 <form>jak</form>
 <tag>
 <AM lemma="jak-1_;L_^(živočich)" src="auto">NNMS1-----A----</AM>
-<AM lemma="jak-2" src="auto">J,-------------</AM>
+<AM lemma="jak-2" src="auto" selected="1">J,-------------</AM>
 <AM lemma="jak-2" src="auto">J^-------------</AM>
 <AM lemma="jak-3" src="auto" recommended="1">Db-------------</AM>
 <AM lemma="jak-99_:B_;S" src="auto">NNXXX-----A----</AM>
@@ -2262,7 +2273,7 @@
 <AM lemma="Jaca-1_;G" src="auto">NNFP2-----A----</AM>
 <AM lemma="Jak_;R" src="auto">NNMS1-----A----</AM>
 <AM lemma="jak-1_;L_^(živočich)" src="auto">NNMS1-----A----</AM>
-<AM lemma="jak-2" src="auto">J,-------------</AM>
+<AM lemma="jak-2" src="auto" selected="1">J,-------------</AM>
 <AM lemma="jak-2" src="auto">J^-------------</AM>
 <AM lemma="jak-3" src="auto" recommended="1">Db-------------</AM>
 <AM lemma="jak-99_:B_;S" src="auto">NNXXX-----A----</AM>
@@ -3387,7 +3398,7 @@
 <AM lemma="čtvrt-1_^(neskl.)" src="auto">ClXS1----------</AM>
 <AM lemma="čtvrt-1_^(neskl.)" src="auto">ClXS2----------</AM>
 <AM lemma="čtvrt-1_^(neskl.)" src="auto">ClXS3----------</AM>
-<AM lemma="čtvrt-1_^(neskl.)" src="auto">ClXS4----------</AM>
+<AM lemma="čtvrt-1_^(neskl.)" src="auto" selected="1">ClXS4----------</AM>
 <AM lemma="čtvrt-1_^(neskl.)" src="auto">ClXS6----------</AM>
 <AM lemma="čtvrt-1_^(neskl.)" src="auto">ClXS7----------</AM>
 <AM lemma="čtvrt-2_^(čtvrtina)" src="auto">NNFS1-----A----</AM>
@@ -3741,7 +3752,7 @@
 <form>na</form>
 <tag>
 <AM lemma="na-1" src="auto" recommended="1">RR--4----------</AM>
-<AM lemma="na-1" src="auto">RR--6----------</AM>
+<AM lemma="na-1" src="auto" selected="1">RR--6----------</AM>
 <AM lemma="na-2" src="auto">II-------------</AM>
 </tag>
 </m>

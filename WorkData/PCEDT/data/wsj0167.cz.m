@@ -50,6 +50,7 @@
 <tag>
 <AM lemma="Inc-77_:B" src="auto" recommended="1">F%-------------</AM>
 <AM lemma="inc-77_:B" src="auto">F%-------------</AM>
+<AM lemma="Inc-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj0167-001-p1s0W5-Ta">
@@ -96,7 +97,10 @@
 <LM>w#w-wsj0167-001-p1s0W9</LM>
 </w.rf>
 <form>Hasbrouk</form>
-<tag lemma="Hasbrouk" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Hasbrouk" src="auto">X@-------------</AM>
+<AM lemma="Hasbrouk-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0167-001-p1s0W10-Ta">
 <src.rf>tagger-a</src.rf>
@@ -104,7 +108,10 @@
 <LM>w#w-wsj0167-001-p1s0W10</LM>
 </w.rf>
 <form>Heights</form>
-<tag lemma="Heights" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Heights" src="auto">X@-------------</AM>
+<AM lemma="Heights-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0167-001-p1s0W11-Ta">
 <src.rf>tagger-a</src.rf>
@@ -131,7 +138,10 @@
 <LM>w#w-wsj0167-001-p1s0W13</LM>
 </w.rf>
 <form>Jersey</form>
-<tag lemma="Jersey_;G" src="auto" recommended="1">NNNXX-----A----</tag>
+<tag>
+<AM lemma="Jersey_;G" src="auto" recommended="1">NNNXX-----A----</AM>
+<AM lemma="Jersey-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0167-001-p1s0W14-Ta">
 <src.rf>tagger-a</src.rf>
@@ -223,7 +233,7 @@
 <AM lemma="omezení_^(*3it)" src="auto">NNNP5-----A----</AM>
 <AM lemma="omezení_^(*3it)" src="auto">NNNS1-----A----</AM>
 <AM lemma="omezení_^(*3it)" src="auto" recommended="1">NNNS2-----A----</AM>
-<AM lemma="omezení_^(*3it)" src="auto">NNNS3-----A----</AM>
+<AM lemma="omezení_^(*3it)" src="auto" selected="1">NNNS3-----A----</AM>
 <AM lemma="omezení_^(*3it)" src="auto">NNNS4-----A----</AM>
 <AM lemma="omezení_^(*3it)" src="auto">NNNS5-----A----</AM>
 <AM lemma="omezení_^(*3it)" src="auto">NNNS6-----A----</AM>
@@ -319,7 +329,7 @@
 <AM lemma="financování_^(*3at)" src="auto">NNNP4-----A----</AM>
 <AM lemma="financování_^(*3at)" src="auto">NNNP5-----A----</AM>
 <AM lemma="financování_^(*3at)" src="auto">NNNS1-----A----</AM>
-<AM lemma="financování_^(*3at)" src="auto">NNNS2-----A----</AM>
+<AM lemma="financování_^(*3at)" src="auto" selected="1">NNNS2-----A----</AM>
 <AM lemma="financování_^(*3at)" src="auto">NNNS3-----A----</AM>
 <AM lemma="financování_^(*3at)" src="auto" recommended="1">NNNS4-----A----</AM>
 <AM lemma="financování_^(*3at)" src="auto">NNNS5-----A----</AM>
@@ -608,6 +618,7 @@
 <AM lemma="mil_,t_^(měnová_jednotka)" src="auto">NNIS4-----A----</AM>
 <AM lemma="milión`1000000_:B" src="auto" recommended="1">NNIXX-----A---8</AM>
 <AM lemma="míle" src="auto">NNFP2-----A----</AM>
+<AM lemma="milión`1000000" src="manual" selected="1">NNIXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-wsj0167-001-p1s1W18-Ta">
@@ -1311,6 +1322,7 @@
 <AM lemma="mil_,t_^(měnová_jednotka)" src="auto">NNIS4-----A----</AM>
 <AM lemma="milión`1000000_:B" src="auto" recommended="1">NNIXX-----A---8</AM>
 <AM lemma="míle" src="auto">NNFP2-----A----</AM>
+<AM lemma="milión`1000000" src="manual" selected="1">NNIXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-wsj0167-001-p1s4W6-Ta">
@@ -1361,6 +1373,7 @@
 <AM lemma="mil_,t_^(měnová_jednotka)" src="auto">NNIS4-----A----</AM>
 <AM lemma="milión`1000000_:B" src="auto" recommended="1">NNIXX-----A---8</AM>
 <AM lemma="míle" src="auto">NNFP2-----A----</AM>
+<AM lemma="milión`1000000" src="manual" selected="1">NNIXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-wsj0167-001-p1s4W11-Ta">
@@ -1720,6 +1733,7 @@
 <AM lemma="mil_,t_^(měnová_jednotka)" src="auto">NNIS4-----A----</AM>
 <AM lemma="milión`1000000_:B" src="auto" recommended="1">NNIXX-----A---8</AM>
 <AM lemma="míle" src="auto">NNFP2-----A----</AM>
+<AM lemma="milión`1000000" src="manual" selected="1">NNIXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-wsj0167-001-p1s6W6-Ta">
@@ -1770,6 +1784,7 @@
 <AM lemma="mil_,t_^(měnová_jednotka)" src="auto">NNIS4-----A----</AM>
 <AM lemma="milión`1000000_:B" src="auto" recommended="1">NNIXX-----A---8</AM>
 <AM lemma="míle" src="auto">NNFP2-----A----</AM>
+<AM lemma="milión`1000000" src="manual" selected="1">NNIXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-wsj0167-001-p1s6W11-Ta">

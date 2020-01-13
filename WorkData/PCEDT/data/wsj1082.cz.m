@@ -32,6 +32,7 @@
 <AM lemma="Boba_;G" src="auto">NNFP2-----A----</AM>
 <AM lemma="bob" src="auto">NNIS1-----A----</AM>
 <AM lemma="bob" src="auto">NNIS4-----A----</AM>
+<AM lemma="Bob-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1082-001-p1s0W3-Ta">
@@ -40,7 +41,10 @@
 <LM>w#w-wsj1082-001-p1s0W3</LM>
 </w.rf>
 <form>Evans</form>
-<tag lemma="Evans_;S" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Evans_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Evans-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1082-001-p1s0W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -51,6 +55,7 @@
 <tag>
 <AM lemma="Inc-77_:B" src="auto" recommended="1">F%-------------</AM>
 <AM lemma="inc-77_:B" src="auto">F%-------------</AM>
+<AM lemma="Inc-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1082-001-p1s0W5-Ta">

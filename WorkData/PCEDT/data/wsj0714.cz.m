@@ -27,7 +27,10 @@
 <LM>w#w-wsj0714-001-p1s0W2</LM>
 </w.rf>
 <form>Furukawa</form>
-<tag lemma="Furukawa_;G" src="auto" recommended="1">NNFS1-----A----</tag>
+<tag>
+<AM lemma="Furukawa_;G" src="auto" recommended="1">NNFS1-----A----</AM>
+<AM lemma="Furukawa-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0714-001-p1s0W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -35,7 +38,10 @@
 <LM>w#w-wsj0714-001-p1s0W3</LM>
 </w.rf>
 <form>Electric</form>
-<tag lemma="Electric-1_;K_,t_^(souč._názvů,_např._General_E.)" src="auto" recommended="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="Electric-1_;K_,t_^(souč._názvů,_např._General_E.)" src="auto" recommended="1">AAXXX----1A----</AM>
+<AM lemma="Electric-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0714-001-p1s0W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -51,6 +57,7 @@
 <AM lemma="co-4_^(který:_př.:_o_těch,_co_odešli/co_je_znal)" src="auto">P4XXX----------</AM>
 <AM lemma="co-5_^(př._co_nejméně,_co_nevidět,_co_chvíli,_co_do_počtu,_atd.)" src="auto">Db-------------</AM>
 <AM lemma="co-77_:B" src="auto">F%-------------</AM>
+<AM lemma="Co-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj0714-001-p1s0W5-Ta">
@@ -387,7 +394,7 @@
 <AM lemma="končící_^(*3it)" src="auto">AGFS1-----A----</AM>
 <AM lemma="končící_^(*3it)" src="auto">AGFS2-----A----</AM>
 <AM lemma="končící_^(*3it)" src="auto">AGFS3-----A----</AM>
-<AM lemma="končící_^(*3it)" src="auto">AGFS4-----A----</AM>
+<AM lemma="končící_^(*3it)" src="auto" selected="1">AGFS4-----A----</AM>
 <AM lemma="končící_^(*3it)" src="auto">AGFS5-----A----</AM>
 <AM lemma="končící_^(*3it)" src="auto">AGFS6-----A----</AM>
 <AM lemma="končící_^(*3it)" src="auto">AGFS7-----A----</AM>
@@ -1356,7 +1363,7 @@
 <AM lemma="rostoucí-2_^(*9ůst-2)" src="auto">AGFS6-----A----</AM>
 <AM lemma="rostoucí-2_^(*9ůst-2)" src="auto">AGFS7-----A----</AM>
 <AM lemma="rostoucí-2_^(*9ůst-2)" src="auto">AGIP1-----A----</AM>
-<AM lemma="rostoucí-2_^(*9ůst-2)" src="auto">AGIP4-----A----</AM>
+<AM lemma="rostoucí-2_^(*9ůst-2)" src="auto" selected="1">AGIP4-----A----</AM>
 <AM lemma="rostoucí-2_^(*9ůst-2)" src="auto">AGIP5-----A----</AM>
 <AM lemma="rostoucí-2_^(*9ůst-2)" src="auto">AGIS1-----A----</AM>
 <AM lemma="rostoucí-2_^(*9ůst-2)" src="auto" recommended="1">AGIS4-----A----</AM>
@@ -1552,7 +1559,10 @@
 <LM>w#w-wsj0714-001-p1s4W22</LM>
 </w.rf>
 <form>Furukawa</form>
-<tag lemma="Furukawa_;G" src="auto" recommended="1">NNFS1-----A----</tag>
+<tag>
+<AM lemma="Furukawa_;G" src="auto" recommended="1">NNFS1-----A----</AM>
+<AM lemma="Furukawa_;G_;K" src="manual" selected="1">NNFS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj0714-001-p1s4W23-Ta">
 <src.rf>tagger-a</src.rf>

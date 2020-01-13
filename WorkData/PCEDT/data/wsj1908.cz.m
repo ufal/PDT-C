@@ -30,6 +30,7 @@
 <tag>
 <AM lemma="Hawker_;R_,t_^(letoun_Hawker_Siddeley_Harrier)" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Hawker_;R_,t_^(letoun_Hawker_Siddeley_Harrier)" src="auto">NNIS4-----A----</AM>
+<AM lemma="Hawker-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1908-001-p1s0W3-Ta">
@@ -38,7 +39,10 @@
 <LM>w#w-wsj1908-001-p1s0W3</LM>
 </w.rf>
 <form>Siddeley</form>
-<tag lemma="Siddeley_;K_,t_^(Hawker_Siddeley)" src="auto" recommended="1">NNNXX-----A----</tag>
+<tag>
+<AM lemma="Siddeley_;K_,t_^(Hawker_Siddeley)" src="auto" recommended="1">NNNXX-----A----</AM>
+<AM lemma="Siddeley-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1908-001-p1s0W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -46,7 +50,10 @@
 <LM>w#w-wsj1908-001-p1s0W4</LM>
 </w.rf>
 <form>Group</form>
-<tag lemma="Group-1_;K_,t_^(obv._souč._názvu_firem,_&quot;skupina&quot;)" src="auto" recommended="1">NNFXX-----A----</tag>
+<tag>
+<AM lemma="Group-1_;K_,t_^(obv._souč._názvu_firem,_&quot;skupina&quot;)" src="auto" recommended="1">NNFXX-----A----</AM>
+<AM lemma="Group-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1908-001-p1s0W5-Ta">
 <src.rf>tagger-a</src.rf>
@@ -553,6 +560,11 @@
 <AM lemma="očekávání_^(*3at)" src="auto">NNNS5-----A----</AM>
 <AM lemma="očekávání_^(*3at)" src="auto">NNNS6-----A----</AM>
 </tag>
+<comment>
+<LM type="New Form">
+<text>očekáváním</text>
+</LM>
+</comment>
 </m>
 <m id="m-wsj1908-001-p1s1W27-Ta">
 <src.rf>tagger-a</src.rf>
@@ -578,7 +590,7 @@
 <form>která</form>
 <tag>
 <AM lemma="který" src="auto" recommended="1">P4FS1----------</AM>
-<AM lemma="který" src="auto">P4NP1----------</AM>
+<AM lemma="který" src="auto" selected="1">P4NP1----------</AM>
 <AM lemma="který" src="auto">P4NP4----------</AM>
 </tag>
 </m>
@@ -1284,6 +1296,7 @@
 <tag>
 <AM lemma="Hawker_;R_,t_^(letoun_Hawker_Siddeley_Harrier)" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Hawker_;R_,t_^(letoun_Hawker_Siddeley_Harrier)" src="auto">NNIS4-----A----</AM>
+<AM lemma="Hawker-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1908-001-p1s3W3-Ta">
@@ -1292,7 +1305,10 @@
 <LM>w#w-wsj1908-001-p1s3W3</LM>
 </w.rf>
 <form>Siddeley</form>
-<tag lemma="Siddeley_;K_,t_^(Hawker_Siddeley)" src="auto" recommended="1">NNNXX-----A----</tag>
+<tag>
+<AM lemma="Siddeley_;K_,t_^(Hawker_Siddeley)" src="auto" recommended="1">NNNXX-----A----</AM>
+<AM lemma="Siddeley-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1908-001-p1s3W4-Ta">
 <src.rf>tagger-a</src.rf>

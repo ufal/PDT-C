@@ -30,6 +30,7 @@
 <AM lemma="Celsius" src="auto" recommended="1">NNMXX-----A---8</AM>
 <AM lemma="c-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
 <AM lemma="c-88_:B" src="auto">NNXXX-----A----</AM>
+<AM lemma="C-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1968-001-p1s0W3-Ta">
@@ -286,7 +287,10 @@
 <LM>w#w-wsj1968-001-p1s0W21</LM>
 </w.rf>
 <form>Commercial</form>
-<tag lemma="Commercial" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Commercial" src="auto">X@-------------</AM>
+<AM lemma="Commercial-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1968-001-p1s0W22-Ta">
 <src.rf>tagger-a</src.rf>
@@ -294,7 +298,10 @@
 <LM>w#w-wsj1968-001-p1s0W22</LM>
 </w.rf>
 <form>National</form>
-<tag lemma="National-1_;K_,t_^(souč._názvů,_např._N._Semiconductor)" src="auto" recommended="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="National-1_;K_,t_^(souč._názvů,_např._N._Semiconductor)" src="auto" recommended="1">AAXXX----1A----</AM>
+<AM lemma="National-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1968-001-p1s0W23-Ta">
 <src.rf>tagger-a</src.rf>
@@ -315,7 +322,10 @@
 <LM>w#w-wsj1968-001-p1s0W24</LM>
 </w.rf>
 <form>Commercial</form>
-<tag lemma="Commercial" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Commercial" src="auto">X@-------------</AM>
+<AM lemma="Commercial-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1968-001-p1s0W25-Ta">
 <src.rf>tagger-a</src.rf>
@@ -323,7 +333,10 @@
 <LM>w#w-wsj1968-001-p1s0W25</LM>
 </w.rf>
 <form>National</form>
-<tag lemma="National-1_;K_,t_^(souč._názvů,_např._N._Semiconductor)" src="auto" recommended="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="National-1_;K_,t_^(souč._názvů,_např._N._Semiconductor)" src="auto" recommended="1">AAXXX----1A----</AM>
+<AM lemma="National-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1968-001-p1s0W26-Ta">
 <src.rf>tagger-a</src.rf>
@@ -334,7 +347,7 @@
 <tag>
 <AM lemma="Bank_;S" src="auto">NNMS1-----A----</AM>
 <AM lemma="Bank-1_;K_,t_^(v_cizojaz._názvech_bank)" src="auto" recommended="1">NNFXX-----A----</AM>
-<AM lemma="Bank-77" src="auto">F%-------------</AM>
+<AM lemma="Bank-77" src="auto" selected="1">F%-------------</AM>
 <AM lemma="banka" src="auto">NNFP2-----A----</AM>
 <AM lemma="bank" src="auto">NNIS1-----A----</AM>
 <AM lemma="bank" src="auto">NNIS4-----A----</AM>

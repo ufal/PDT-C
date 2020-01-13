@@ -27,7 +27,10 @@
 <LM>w#w-wsj1077-001-p1s0W2</LM>
 </w.rf>
 <form>Hughes</form>
-<tag lemma="Hughes_;S" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Hughes_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Hughes-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1077-001-p1s0W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -38,6 +41,7 @@
 <tag>
 <AM lemma="Aircraft_;K" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Aircraft_;K" src="auto">NNIS4-----A----</AM>
+<AM lemma="Aircraft-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1077-001-p1s0W4-Ta">
@@ -54,6 +58,7 @@
 <AM lemma="co-4_^(který:_př.:_o_těch,_co_odešli/co_je_znal)" src="auto">P4XXX----------</AM>
 <AM lemma="co-5_^(př._co_nejméně,_co_nevidět,_co_chvíli,_co_do_počtu,_atd.)" src="auto">Db-------------</AM>
 <AM lemma="co-77_:B" src="auto">F%-------------</AM>
+<AM lemma="Co-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1077-001-p1s0W5-Ta">
@@ -107,6 +112,7 @@
 <AM lemma="General_;K_,t" src="auto">NNIS1-----A----</AM>
 <AM lemma="General_;K_,t" src="auto">NNIS4-----A----</AM>
 <AM lemma="General_;K_,t" src="auto" recommended="1">NNXXX-----A----</AM>
+<AM lemma="General-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1077-001-p1s0W10-Ta">
@@ -115,7 +121,10 @@
 <LM>w#w-wsj1077-001-p1s0W10</LM>
 </w.rf>
 <form>Motors</form>
-<tag lemma="Motors-1_;K_,t_^(souč._názvů,_např._General_M.)" src="auto" recommended="1">NNIPX-----A----</tag>
+<tag>
+<AM lemma="Motors-1_;K_,t_^(souč._názvů,_např._General_M.)" src="auto" recommended="1">NNIPX-----A----</AM>
+<AM lemma="Motors-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1077-001-p1s0W11-Ta">
 <src.rf>tagger-a</src.rf>
@@ -123,7 +132,10 @@
 <LM>w#w-wsj1077-001-p1s0W11</LM>
 </w.rf>
 <form>Corp</form>
-<tag lemma="corp-77_:B" src="auto" recommended="1">F%-------------</tag>
+<tag>
+<AM lemma="corp-77_:B" src="auto" recommended="1">F%-------------</AM>
+<AM lemma="Corp-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1077-001-p1s0W12-Ta">
 <src.rf>tagger-a</src.rf>
@@ -288,6 +300,7 @@
 <tag>
 <AM lemma="Intelsat_;K" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Intelsat_;K" src="auto">NNIS4-----A----</AM>
+<AM lemma="Intelsat_;K_;R" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1077-001-p1s0W23-Ta">
@@ -608,7 +621,15 @@
 <LM>w#w-wsj1077-001-p1s1W21</LM>
 </w.rf>
 <form>700milionového</form>
-<tag lemma="700milionového" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="700milionového" src="auto">X@-------------</AM>
+<AM lemma="700milionový_,s_^(^DD**700miliónový)" src="manual" selected="1">AAIS2----1A----</AM>
+</tag>
+<comment>
+<LM type="Other">
+<text>špatná tokenizace</text>
+</LM>
+</comment>
 </m>
 <m id="m-wsj1077-001-p1s1W22-Ta">
 <src.rf>tagger-a</src.rf>

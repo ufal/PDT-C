@@ -473,7 +473,7 @@
 </w.rf>
 <form>které</form>
 <tag>
-<AM lemma="který" src="auto">P4FP1----------</AM>
+<AM lemma="který" src="auto" selected="1">P4FP1----------</AM>
 <AM lemma="který" src="auto" recommended="1">P4FP4----------</AM>
 <AM lemma="který" src="auto">P4FS2----------</AM>
 <AM lemma="který" src="auto">P4FS3----------</AM>
@@ -513,7 +513,7 @@
 <AM lemma="mez" src="auto">NNFS5-----A----</AM>
 <AM lemma="mez" src="auto">NNFS6-----A----</AM>
 <AM lemma="mezi-1" src="auto" recommended="1">RR--4----------</AM>
-<AM lemma="mezi-1" src="auto">RR--7----------</AM>
+<AM lemma="mezi-1" src="auto" selected="1">RR--7----------</AM>
 </tag>
 </m>
 <m id="m-wsj0712-001-p1s1W23-Ta">
@@ -935,7 +935,7 @@
 </w.rf>
 <form>jež</form>
 <tag>
-<AM lemma="jenž_^(který_[ve_vedl.větě])" src="auto">PJFP1----------</AM>
+<AM lemma="jenž_^(který_[ve_vedl.větě])" src="auto" selected="1">PJFP1----------</AM>
 <AM lemma="jenž_^(který_[ve_vedl.větě])" src="auto">PJFS1----------</AM>
 <AM lemma="jenž_^(který_[ve_vedl.větě])" src="auto">PJIP1----------</AM>
 <AM lemma="jenž_^(který_[ve_vedl.větě])" src="auto">PJNP1----------</AM>
@@ -1437,7 +1437,10 @@
 <LM>w#w-wsj0712-001-p1s3W5</LM>
 </w.rf>
 <form>Hang</form>
-<tag lemma="Hang_;Y_,t" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Hang_;Y_,t" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Hang-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0712-001-p1s3W6-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1445,7 +1448,10 @@
 <LM>w#w-wsj0712-001-p1s3W6</LM>
 </w.rf>
 <form>Seng</form>
-<tag lemma="Seng_;S" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Seng_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Seng-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0712-001-p1s3W7-Ta">
 <src.rf>tagger-a</src.rf>

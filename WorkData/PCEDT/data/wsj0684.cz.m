@@ -27,7 +27,10 @@
 <LM>w#w-wsj0684-001-p1s0W2</LM>
 </w.rf>
 <form>Telxon</form>
-<tag lemma="Telxon" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Telxon" src="auto">X@-------------</AM>
+<AM lemma="Telxon-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0684-001-p1s0W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -35,7 +38,10 @@
 <LM>w#w-wsj0684-001-p1s0W3</LM>
 </w.rf>
 <form>Corp</form>
-<tag lemma="corp-77_:B" src="auto" recommended="1">F%-------------</tag>
+<tag>
+<AM lemma="corp-77_:B" src="auto" recommended="1">F%-------------</AM>
+<AM lemma="Corp-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0684-001-p1s0W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -145,7 +151,7 @@
 </w.rf>
 <form>počet</form>
 <tag>
-<AM lemma="počet" src="auto">NNIS1-----A----</AM>
+<AM lemma="počet" src="auto" selected="1">NNIS1-----A----</AM>
 <AM lemma="počet" src="auto" recommended="1">NNIS4-----A----</AM>
 <AM lemma="počíst" src="auto">VmYS------A-P--</AM>
 </tag>
@@ -646,7 +652,7 @@
 <AM lemma="nástupce" src="auto">NNMP4-----A----</AM>
 <AM lemma="nástupce" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="nástupce" src="auto">NNMS2-----A----</AM>
-<AM lemma="nástupce" src="auto">NNMS4-----A----</AM>
+<AM lemma="nástupce" src="auto" selected="1">NNMS4-----A----</AM>
 <AM lemma="nástupce" src="auto">NNMS5-----A----</AM>
 </tag>
 </m>
@@ -669,7 +675,10 @@
 <LM>w#w-wsj0684-001-p1s2W7</LM>
 </w.rf>
 <form>Buftona</form>
-<tag lemma="Buftona" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Buftona" src="auto">X@-------------</AM>
+<AM lemma="Bufton_;S" src="manual" selected="1">NNMS2-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj0684-001-p1s2W8-Ta">
 <src.rf>tagger-a</src.rf>

@@ -16,7 +16,10 @@
 <LM>w#w-wsj1033-001-p1s0W1</LM>
 </w.rf>
 <form>Esselte</form>
-<tag lemma="Esselte" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Esselte" src="auto">X@-------------</AM>
+<AM lemma="Esselte-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1033-001-p1s0W2-Ta">
 <src.rf>tagger-a</src.rf>
@@ -307,7 +310,10 @@
 <LM>w#w-wsj1033-001-p1s0W22</LM>
 </w.rf>
 <form>Esselte</form>
-<tag lemma="Esselte" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Esselte" src="auto">X@-------------</AM>
+<AM lemma="Esselte-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1033-001-p1s0W23-Ta">
 <src.rf>tagger-a</src.rf>
@@ -318,6 +324,7 @@
 <tag>
 <AM lemma="business_,t" src="auto">NNIS1-----A----</AM>
 <AM lemma="business_,t" src="auto" recommended="1">NNIS4-----A----</AM>
+<AM lemma="Business-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1033-001-p1s0W24-Ta">
@@ -326,7 +333,10 @@
 <LM>w#w-wsj1033-001-p1s0W24</LM>
 </w.rf>
 <form>Systems</form>
-<tag lemma="Systems" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Systems" src="auto">X@-------------</AM>
+<AM lemma="Systems-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1033-001-p1s0W25-Ta">
 <src.rf>tagger-a</src.rf>
@@ -337,6 +347,7 @@
 <tag>
 <AM lemma="Inc-77_:B" src="auto" recommended="1">F%-------------</AM>
 <AM lemma="inc-77_:B" src="auto">F%-------------</AM>
+<AM lemma="Inc-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1033-001-p1s0W26-Ta">
@@ -365,7 +376,7 @@
 <AM lemma="který" src="auto">P4FS2---------6</AM>
 <AM lemma="který" src="auto">P4FS3---------6</AM>
 <AM lemma="který" src="auto">P4FS6---------6</AM>
-<AM lemma="který" src="auto">P4IS4----------</AM>
+<AM lemma="který" src="auto" selected="1">P4IS4----------</AM>
 <AM lemma="který" src="auto">P4NS1---------6</AM>
 <AM lemma="který" src="auto">P4NS4---------6</AM>
 <AM lemma="který" src="auto">P4XP1---------6</AM>
@@ -908,7 +919,10 @@
 <LM>w#w-wsj1033-001-p1s2W12</LM>
 </w.rf>
 <form>Esselte</form>
-<tag lemma="Esselte" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Esselte" src="auto">X@-------------</AM>
+<AM lemma="Esselte_;K" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj1033-001-p1s2W13-Ta">
 <src.rf>tagger-a</src.rf>
@@ -918,7 +932,7 @@
 <form>na</form>
 <tag>
 <AM lemma="na-1" src="auto" recommended="1">RR--4----------</AM>
-<AM lemma="na-1" src="auto">RR--6----------</AM>
+<AM lemma="na-1" src="auto" selected="1">RR--6----------</AM>
 <AM lemma="na-2" src="auto">II-------------</AM>
 </tag>
 </m>
@@ -1152,6 +1166,7 @@
 <AM lemma="Garden-2_;G_,t_^(součást_názvu_např._Garden_City)" src="auto" recommended="1">AAXXX----1A----</AM>
 <AM lemma="Gardena_;G" src="auto">NNFP2-----A----</AM>
 <AM lemma="garden-77" src="auto">F%-------------</AM>
+<AM lemma="Garden-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1033-001-p1s3W7-Ta">
@@ -1174,6 +1189,7 @@
 <AM lemma="cit" src="auto">NNIP5-----A----</AM>
 <AM lemma="cit" src="auto">NNIP7-----A----</AM>
 <AM lemma="city_,t" src="auto">NNXXX-----A----</AM>
+<AM lemma="City-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1033-001-p1s3W8-Ta">
@@ -1183,7 +1199,7 @@
 </w.rf>
 <form>tento</form>
 <tag>
-<AM lemma="tento" src="auto">PDIS4----------</AM>
+<AM lemma="tento" src="auto" selected="1">PDIS4----------</AM>
 <AM lemma="tento" src="auto" recommended="1">PDYS1----------</AM>
 </tag>
 </m>
@@ -1195,7 +1211,7 @@
 <form>návrh</form>
 <tag>
 <AM lemma="návrh" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="návrh" src="auto">NNIS4-----A----</AM>
+<AM lemma="návrh" src="auto" selected="1">NNIS4-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1033-001-p1s3W10-Ta">
@@ -1474,7 +1490,10 @@
 <LM>w#w-wsj1033-001-p1s5W2</LM>
 </w.rf>
 <form>Esselte</form>
-<tag lemma="Esselte" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Esselte" src="auto">X@-------------</AM>
+<AM lemma="Esselte-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1033-001-p1s5W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1724,7 +1743,10 @@
 <LM>w#w-wsj1033-001-p1s6W2</LM>
 </w.rf>
 <form>Esselte</form>
-<tag lemma="Esselte" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Esselte" src="auto">X@-------------</AM>
+<AM lemma="Esselte-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1033-001-p1s6W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1735,6 +1757,7 @@
 <tag>
 <AM lemma="business_,t" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="business_,t" src="auto">NNIS4-----A----</AM>
+<AM lemma="Business-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1033-001-p1s6W4-Ta">
@@ -1743,7 +1766,10 @@
 <LM>w#w-wsj1033-001-p1s6W4</LM>
 </w.rf>
 <form>Systems</form>
-<tag lemma="Systems" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Systems" src="auto">X@-------------</AM>
+<AM lemma="Systems-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1033-001-p1s6W5-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1846,7 +1872,10 @@
 <LM>w#w-wsj1033-001-p1s6W13</LM>
 </w.rf>
 <form>Esselte</form>
-<tag lemma="Esselte" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Esselte" src="auto">X@-------------</AM>
+<AM lemma="Esselte_;K" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj1033-001-p1s6W14-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1862,7 +1891,10 @@
 <LM>w#w-wsj1033-001-p1s6W15</LM>
 </w.rf>
 <form>loni</form>
-<tag lemma="vloni_,s_^(^DD**vloni)" src="auto" recommended="1">Db-------------</tag>
+<tag>
+<AM lemma="vloni_,s_^(^DD**vloni)" src="auto" recommended="1">Db-------------</AM>
+<AM lemma="loni_,s_^(^DD**vloni)" src="manual" selected="1">Db-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1033-001-p1s6W16-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1986,7 +2018,10 @@
 <LM>w#w-wsj1033-001-p1s7W2</LM>
 </w.rf>
 <form>Esselte</form>
-<tag lemma="Esselte" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Esselte" src="auto">X@-------------</AM>
+<AM lemma="Esselte-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1033-001-p1s7W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1997,6 +2032,7 @@
 <tag>
 <AM lemma="business_,t" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="business_,t" src="auto">NNIS4-----A----</AM>
+<AM lemma="Business-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1033-001-p1s7W4-Ta">
@@ -2005,7 +2041,10 @@
 <LM>w#w-wsj1033-001-p1s7W4</LM>
 </w.rf>
 <form>Systems</form>
-<tag lemma="Systems" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Systems" src="auto">X@-------------</AM>
+<AM lemma="Systems-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1033-001-p1s7W5-Ta">
 <src.rf>tagger-a</src.rf>

@@ -69,7 +69,10 @@
 <LM>w#w-wsj0917-001-p1s0W5</LM>
 </w.rf>
 <form>Burmah</form>
-<tag lemma="Burmah" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Burmah" src="auto">X@-------------</AM>
+<AM lemma="Burmah-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0917-001-p1s0W6-Ta">
 <src.rf>tagger-a</src.rf>
@@ -77,7 +80,10 @@
 <LM>w#w-wsj0917-001-p1s0W6</LM>
 </w.rf>
 <form>Oil</form>
-<tag lemma="Oil" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Oil" src="auto">X@-------------</AM>
+<AM lemma="Oil-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0917-001-p1s0W7-Ta">
 <src.rf>tagger-a</src.rf>
@@ -290,7 +296,10 @@
 <LM>w#w-wsj0917-001-p1s0W23</LM>
 </w.rf>
 <form>Explonaft</form>
-<tag lemma="Explonaft" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Explonaft" src="auto">X@-------------</AM>
+<AM lemma="Explonaft-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0917-001-p1s0W24-Ta">
 <src.rf>tagger-a</src.rf>
@@ -298,7 +307,10 @@
 <LM>w#w-wsj0917-001-p1s0W24</LM>
 </w.rf>
 <form>GmbH</form>
-<tag lemma="Gmbh-77_:B" src="auto" recommended="1">F%-------------</tag>
+<tag>
+<AM lemma="Gmbh-77_:B" src="auto" recommended="1">F%-------------</AM>
+<AM lemma="GmbH-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0917-001-p1s0W25-Ta">
 <src.rf>tagger-a</src.rf>
@@ -323,7 +335,7 @@
 <AM lemma="vyrábějící_^(*4t)" src="auto">AGFS3-----A----</AM>
 <AM lemma="vyrábějící_^(*4t)" src="auto">AGFS4-----A----</AM>
 <AM lemma="vyrábějící_^(*4t)" src="auto">AGFS5-----A----</AM>
-<AM lemma="vyrábějící_^(*4t)" src="auto">AGFS6-----A----</AM>
+<AM lemma="vyrábějící_^(*4t)" src="auto" selected="1">AGFS6-----A----</AM>
 <AM lemma="vyrábějící_^(*4t)" src="auto">AGFS7-----A----</AM>
 <AM lemma="vyrábějící_^(*4t)" src="auto">AGIP1-----A----</AM>
 <AM lemma="vyrábějící_^(*4t)" src="auto">AGIP4-----A----</AM>
@@ -578,7 +590,10 @@
 <LM>w#w-wsj0917-001-p1s2W2</LM>
 </w.rf>
 <form>Explonaft</form>
-<tag lemma="Explonaft" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Explonaft" src="auto">X@-------------</AM>
+<AM lemma="Explonaft_;K" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj0917-001-p1s2W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -935,7 +950,10 @@
 <LM>w#w-wsj0917-001-p1s3W2</LM>
 </w.rf>
 <form>Burmah</form>
-<tag lemma="Burmah" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Burmah" src="auto">X@-------------</AM>
+<AM lemma="Burmah_;K" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj0917-001-p1s3W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1055,7 +1073,7 @@
 <form>Polsko</form>
 <tag>
 <AM lemma="Polsko_;G" src="auto" recommended="1">NNNS1-----A----</AM>
-<AM lemma="Polsko_;G" src="auto">NNNS4-----A----</AM>
+<AM lemma="Polsko_;G" src="auto" selected="1">NNNS4-----A----</AM>
 <AM lemma="Polsko_;G" src="auto">NNNS5-----A----</AM>
 <AM lemma="polský" src="auto">A2--------A----</AM>
 </tag>
@@ -1226,7 +1244,7 @@
 <AM lemma="malý" src="auto">AAIP4----1A---6</AM>
 <AM lemma="malý" src="auto">AAIP5----1A---6</AM>
 <AM lemma="malý" src="auto">AAIS1----1A----</AM>
-<AM lemma="malý" src="auto">AAIS4----1A----</AM>
+<AM lemma="malý" src="auto" selected="1">AAIS4----1A----</AM>
 <AM lemma="malý" src="auto">AAIS5----1A----</AM>
 <AM lemma="malý" src="auto">AAMP1----1A---6</AM>
 <AM lemma="malý" src="auto">AAMP4----1A---6</AM>

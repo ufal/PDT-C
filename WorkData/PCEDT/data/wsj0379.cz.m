@@ -35,7 +35,10 @@
 <LM>w#w-wsj0379-001-p1s0W3</LM>
 </w.rf>
 <form>Corp</form>
-<tag lemma="corp-77_:B" src="auto" recommended="1">F%-------------</tag>
+<tag>
+<AM lemma="corp-77_:B" src="auto" recommended="1">F%-------------</AM>
+<AM lemma="Corp-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0379-001-p1s0W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -878,7 +881,7 @@
 <form>jak</form>
 <tag>
 <AM lemma="jak-1_;L_^(živočich)" src="auto">NNMS1-----A----</AM>
-<AM lemma="jak-2" src="auto">J,-------------</AM>
+<AM lemma="jak-2" src="auto" selected="1">J,-------------</AM>
 <AM lemma="jak-2" src="auto">J^-------------</AM>
 <AM lemma="jak-3" src="auto" recommended="1">Db-------------</AM>
 <AM lemma="jak-99_:B_;S" src="auto">NNXXX-----A----</AM>
@@ -1056,7 +1059,10 @@
 <LM>w#w-wsj0379-001-p1s2W23</LM>
 </w.rf>
 <form>Semiconductors</form>
-<tag lemma="Semiconductors" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Semiconductors" src="auto">X@-------------</AM>
+<AM lemma="Semiconductors-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0379-001-p1s2W24-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1110,7 +1116,10 @@
 <LM>w#w-wsj0379-001-p1s2W28</LM>
 </w.rf>
 <form>Ltd</form>
-<tag lemma="Ltd-77_:B" src="auto" recommended="1">F%-------------</tag>
+<tag>
+<AM lemma="Ltd-77_:B" src="auto" recommended="1">F%-------------</AM>
+<AM lemma="Ltd-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0379-001-p1s2W29-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1391,7 +1400,10 @@
 <LM>w#w-wsj0379-001-p1s3W20</LM>
 </w.rf>
 <form>jednomegabitových</form>
-<tag lemma="jednomegabitových" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="jednomegabitových" src="auto">X@-------------</AM>
+<AM lemma="jednomegabitový" src="manual" selected="1">AAIP2----1A----</AM>
+</tag>
 </m>
 <m id="m-wsj0379-001-p1s3W21-Ta">
 <src.rf>tagger-a</src.rf>

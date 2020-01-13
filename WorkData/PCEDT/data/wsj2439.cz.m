@@ -27,7 +27,10 @@
 <LM>w#w-wsj2439-001-p1s0W2</LM>
 </w.rf>
 <form>Free</form>
-<tag lemma="Free" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Free" src="auto">X@-------------</AM>
+<AM lemma="Free-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj2439-001-p1s0W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -43,7 +46,10 @@
 <LM>w#w-wsj2439-001-p1s0W4</LM>
 </w.rf>
 <form>McMoRan</form>
-<tag lemma="McMoRan" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="McMoRan" src="auto">X@-------------</AM>
+<AM lemma="McMoRan-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj2439-001-p1s0W5-Ta">
 <src.rf>tagger-a</src.rf>
@@ -51,7 +57,18 @@
 <LM>w#w-wsj2439-001-p1s0W5</LM>
 </w.rf>
 <form>Inc.uvedla</form>
-<tag lemma="Inc.uvedla" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Inc.uvedla" src="auto">X@-------------</AM>
+<AM lemma="Inc.uvedla-77" src="manual">F%-------------</AM>
+</tag>
+<comment>
+<LM type="New Form">
+<text>Inc</text>
+</LM>
+<LM type="Other">
+<text>špatná tokenizace, nutno rozdělit</text>
+</LM>
+</comment>
 </m>
 <m id="m-wsj2439-001-p1s0W6-Ta">
 <src.rf>tagger-a</src.rf>
@@ -236,7 +253,10 @@
 <LM>w#w-wsj2439-001-p1s0W18</LM>
 </w.rf>
 <form>Sunshine</form>
-<tag lemma="Sunshine_;G" src="auto" recommended="1">NNNXX-----A----</tag>
+<tag>
+<AM lemma="Sunshine_;G" src="auto" recommended="1">NNNXX-----A----</AM>
+<AM lemma="Sunshine-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj2439-001-p1s0W19-Ta">
 <src.rf>tagger-a</src.rf>
@@ -245,7 +265,7 @@
 </w.rf>
 <form>Bridge</form>
 <tag>
-<AM lemma="Bridge-77" src="auto" recommended="1">F%-------------</AM>
+<AM lemma="Bridge-77" src="auto" recommended="1" selected="1">F%-------------</AM>
 <AM lemma="Bridge_;S" src="auto">NNMS1-----A----</AM>
 <AM lemma="Bridge_;S" src="auto">NNMS5-----A----</AM>
 <AM lemma="Bridge_;S" src="auto">NNMXX-----A----</AM>
@@ -272,7 +292,10 @@
 <LM>w#w-wsj2439-001-p1s0W21</LM>
 </w.rf>
 <form>Donaldsonville</form>
-<tag lemma="Donaldsonville" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Donaldsonville" src="auto">X@-------------</AM>
+<AM lemma="Donaldsonville_;G" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj2439-001-p1s0W22-Ta">
 <src.rf>tagger-a</src.rf>
@@ -292,6 +315,7 @@
 <AM lemma="La-77" src="auto">F%-------------</AM>
 <AM lemma="la-1" src="auto" recommended="1">II-------------</AM>
 <AM lemma="la-77_,t" src="auto">F%-------------</AM>
+<AM lemma="La-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2439-001-p1s0W24-Ta">
@@ -545,6 +569,7 @@
 <tag>
 <AM lemma="Freeport_;G" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Freeport_;G" src="auto">NNIS4-----A----</AM>
+<AM lemma="Freeport-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj2439-001-p1s0W44-Ta">
@@ -561,7 +586,10 @@
 <LM>w#w-wsj2439-001-p1s0W45</LM>
 </w.rf>
 <form>McMoran</form>
-<tag lemma="McMoran" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="McMoran" src="auto">X@-------------</AM>
+<AM lemma="McMoran-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj2439-001-p1s0W46-Ta">
 <src.rf>tagger-a</src.rf>
@@ -569,7 +597,10 @@
 <LM>w#w-wsj2439-001-p1s0W46</LM>
 </w.rf>
 <form>Resorce</form>
-<tag lemma="Resorce" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Resorce" src="auto">X@-------------</AM>
+<AM lemma="Resorce-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj2439-001-p1s0W47-Ta">
 <src.rf>tagger-a</src.rf>
@@ -577,7 +608,10 @@
 <LM>w#w-wsj2439-001-p1s0W47</LM>
 </w.rf>
 <form>Partners</form>
-<tag lemma="Partners" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Partners" src="auto">X@-------------</AM>
+<AM lemma="Partners-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj2439-001-p1s0W48-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1030,7 +1064,7 @@
 </w.rf>
 <form>tento</form>
 <tag>
-<AM lemma="tento" src="auto">PDIS4----------</AM>
+<AM lemma="tento" src="auto" selected="1">PDIS4----------</AM>
 <AM lemma="tento" src="auto" recommended="1">PDYS1----------</AM>
 </tag>
 </m>
@@ -1042,7 +1076,7 @@
 <form>závod</form>
 <tag>
 <AM lemma="závod" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="závod" src="auto">NNIS4-----A----</AM>
+<AM lemma="závod" src="auto" selected="1">NNIS4-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2439-001-p1s2W28-Ta">
@@ -1237,7 +1271,7 @@
 </w.rf>
 <form>zlepší</form>
 <tag>
-<AM lemma="zlepšit" src="auto">VB-P---3P-AAP--</AM>
+<AM lemma="zlepšit" src="auto" selected="1">VB-P---3P-AAP--</AM>
 <AM lemma="zlepšit" src="auto" recommended="1">VB-S---3P-AAP--</AM>
 </tag>
 </m>
@@ -1494,7 +1528,10 @@
 <LM>w#w-wsj2439-001-p1s4W7</LM>
 </w.rf>
 <form>Uncle</form>
-<tag lemma="Uncle" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Uncle" src="auto">X@-------------</AM>
+<AM lemma="Uncle-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj2439-001-p1s4W8-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1506,6 +1543,7 @@
 <AM lemma="Sam_;Y" src="auto">NNMS1-----A----</AM>
 <AM lemma="sam-2_;Y_^(v_korejských_jménech,_např._Kim_Jong-sam)" src="auto" recommended="1">NNXXX-----A----</AM>
 <AM lemma="samostatný_:B" src="auto">AAXXX----1A---8</AM>
+<AM lemma="Sam-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj2439-001-p1s4W9-Ta">
@@ -1690,6 +1728,7 @@
 <tag>
 <AM lemma="Freeport_;G" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Freeport_;G" src="auto">NNIS4-----A----</AM>
+<AM lemma="Freeport-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj2439-001-p1s5W3-Ta">
@@ -1706,7 +1745,10 @@
 <LM>w#w-wsj2439-001-p1s5W4</LM>
 </w.rf>
 <form>McMoRan</form>
-<tag lemma="McMoRan" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="McMoRan" src="auto">X@-------------</AM>
+<AM lemma="McMoRan-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj2439-001-p1s5W5-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1814,6 +1856,14 @@
 </w.rf>
 <form>vrámci</form>
 <tag lemma="vrámci" src="auto">X@-------------</tag>
+<comment>
+<LM type="New Form">
+<text>v</text>
+</LM>
+<LM type="Other">
+<text>nutno rozdělit</text>
+</LM>
+</comment>
 </m>
 <m id="m-wsj2439-001-p1s5W14-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1920,7 +1970,7 @@
 <AM lemma="množství" src="auto" recommended="1">NNNS1-----A----</AM>
 <AM lemma="množství" src="auto">NNNS2-----A----</AM>
 <AM lemma="množství" src="auto">NNNS3-----A----</AM>
-<AM lemma="množství" src="auto">NNNS4-----A----</AM>
+<AM lemma="množství" src="auto" selected="1">NNNS4-----A----</AM>
 <AM lemma="množství" src="auto">NNNS5-----A----</AM>
 <AM lemma="množství" src="auto">NNNS6-----A----</AM>
 </tag>
@@ -2024,6 +2074,7 @@
 <tag>
 <AM lemma="Freeport_;G" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Freeport_;G" src="auto">NNIS4-----A----</AM>
+<AM lemma="Freeport-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj2439-001-p1s6W3-Ta">
@@ -2040,7 +2091,10 @@
 <LM>w#w-wsj2439-001-p1s6W4</LM>
 </w.rf>
 <form>McMoRan</form>
-<tag lemma="McMoRan" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="McMoRan" src="auto">X@-------------</AM>
+<AM lemma="McMoRan-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj2439-001-p1s6W5-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2048,7 +2102,10 @@
 <LM>w#w-wsj2439-001-p1s6W5</LM>
 </w.rf>
 <form>Resorce</form>
-<tag lemma="Resorce" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Resorce" src="auto">X@-------------</AM>
+<AM lemma="Resorce-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj2439-001-p1s6W6-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2056,7 +2113,10 @@
 <LM>w#w-wsj2439-001-p1s6W6</LM>
 </w.rf>
 <form>Partners</form>
-<tag lemma="Partners" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Partners" src="auto">X@-------------</AM>
+<AM lemma="Partners-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj2439-001-p1s6W7-Ta">
 <src.rf>tagger-a</src.rf>

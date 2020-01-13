@@ -30,6 +30,7 @@
 <tag>
 <AM lemma="Hoechst_;K" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Hoechst_;K" src="auto">NNIS4-----A----</AM>
+<AM lemma="Hoechst-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1576-001-p1s0W3-Ta">
@@ -39,7 +40,7 @@
 </w.rf>
 <form>AG</form>
 <tag>
-<AM lemma="AG-88_:B" src="auto" recommended="1">NNXXX-----A----</AM>
+<AM lemma="AG-88_:B" src="auto" recommended="1" selected="1">NNXXX-----A----</AM>
 <AM lemma="Ag_:B_^(stříbro)" src="auto">NNXXX-----A----</AM>
 <AM lemma="Aga_;Y" src="auto">NNFP2-----A----</AM>
 </tag>
@@ -95,7 +96,7 @@
 <AM lemma="důsledek" src="auto">NNIS2-----A----</AM>
 <AM lemma="důsledek" src="auto">NNIS3-----A----</AM>
 <AM lemma="důsledek" src="auto">NNIS5-----A----</AM>
-<AM lemma="důsledek" src="auto" recommended="1">NNIS6-----A----</AM>
+<AM lemma="důsledek" src="auto" recommended="1" selected="1">NNIS6-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1576-001-p1s0W9-Ta">

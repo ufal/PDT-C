@@ -35,7 +35,10 @@
 <LM>w#w-wsj0697-001-p1s0W3</LM>
 </w.rf>
 <form>Acquisition</form>
-<tag lemma="Acquisition" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Acquisition" src="auto">X@-------------</AM>
+<AM lemma="Acquisition-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0697-001-p1s0W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -43,7 +46,10 @@
 <LM>w#w-wsj0697-001-p1s0W4</LM>
 </w.rf>
 <form>Partners</form>
-<tag lemma="Partners" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Partners" src="auto">X@-------------</AM>
+<AM lemma="Partners-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0697-001-p1s0W5-Ta">
 <src.rf>tagger-a</src.rf>
@@ -145,7 +151,10 @@
 <LM>w#w-wsj0697-001-p1s0W11</LM>
 </w.rf>
 <form>Dataproducts</form>
-<tag lemma="Dataproducts" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Dataproducts" src="auto">X@-------------</AM>
+<AM lemma="Dataproducts-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0697-001-p1s0W12-Ta">
 <src.rf>tagger-a</src.rf>
@@ -799,7 +808,7 @@
 </w.rf>
 <form>transakci</form>
 <tag>
-<AM lemma="transakce" src="auto">NNFS3-----A----</AM>
+<AM lemma="transakce" src="auto" selected="1">NNFS3-----A----</AM>
 <AM lemma="transakce" src="auto" recommended="1">NNFS4-----A----</AM>
 <AM lemma="transakce" src="auto">NNFS6-----A----</AM>
 </tag>
@@ -949,7 +958,10 @@
 <LM>w#w-wsj0697-001-p1s2W9</LM>
 </w.rf>
 <form>Dataproducts</form>
-<tag lemma="Dataproducts" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Dataproducts" src="auto">X@-------------</AM>
+<AM lemma="Dataproducts-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0697-001-p1s2W10-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1231,7 +1243,10 @@
 <LM>w#w-wsj0697-001-p1s4W3</LM>
 </w.rf>
 <form>Dataproducts</form>
-<tag lemma="Dataproducts" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Dataproducts" src="auto">X@-------------</AM>
+<AM lemma="Dataproducts-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0697-001-p1s4W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1619,7 +1634,10 @@
 <LM>w#w-wsj0697-001-p1s5W19</LM>
 </w.rf>
 <form>Dataproducts</form>
-<tag lemma="Dataproducts" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Dataproducts" src="auto">X@-------------</AM>
+<AM lemma="Dataproducts-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0697-001-p1s5W20-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1763,7 +1781,10 @@
 <LM>w#w-wsj0697-001-p1s6W2</LM>
 </w.rf>
 <form>Dataproducts</form>
-<tag lemma="Dataproducts" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Dataproducts" src="auto">X@-------------</AM>
+<AM lemma="Dataproducts-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0697-001-p1s6W3-Ta">
 <src.rf>tagger-a</src.rf>

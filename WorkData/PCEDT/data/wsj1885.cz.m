@@ -27,7 +27,10 @@
 <LM>w#w-wsj1885-001-p1s0W2</LM>
 </w.rf>
 <form>Philip</form>
-<tag lemma="Philip_;Y" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Philip_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Philip-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1885-001-p1s0W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -39,6 +42,7 @@
 <AM lemma="Morris-1_;S" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Morris-2_;R_^(vozidlo;;cigarety)" src="auto">NNIS1-----A----</AM>
 <AM lemma="Morris-2_;R_^(vozidlo;;cigarety)" src="auto">NNIS4-----A----</AM>
+<AM lemma="Morris-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1885-001-p1s0W4-Ta">
@@ -1337,7 +1341,10 @@
 <LM>w#w-wsj1885-001-p1s4W11</LM>
 </w.rf>
 <form>Philip</form>
-<tag lemma="Philip_;Y" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Philip_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Philip-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1885-001-p1s4W12-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1349,6 +1356,7 @@
 <AM lemma="Morris-1_;S" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Morris-2_;R_^(vozidlo;;cigarety)" src="auto">NNIS1-----A----</AM>
 <AM lemma="Morris-2_;R_^(vozidlo;;cigarety)" src="auto">NNIS4-----A----</AM>
+<AM lemma="Morris-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1885-001-p1s4W13-Ta">
@@ -1359,7 +1367,7 @@
 <form>na</form>
 <tag>
 <AM lemma="na-1" src="auto" recommended="1">RR--4----------</AM>
-<AM lemma="na-1" src="auto">RR--6----------</AM>
+<AM lemma="na-1" src="auto" selected="1">RR--6----------</AM>
 <AM lemma="na-2" src="auto">II-------------</AM>
 </tag>
 </m>
@@ -1501,7 +1509,10 @@
 <LM>w#w-wsj1885-001-p1s5W2</LM>
 </w.rf>
 <form>Philip</form>
-<tag lemma="Philip_;Y" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Philip_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Philip-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1885-001-p1s5W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1513,6 +1524,7 @@
 <AM lemma="Morris-1_;S" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Morris-2_;R_^(vozidlo;;cigarety)" src="auto">NNIS1-----A----</AM>
 <AM lemma="Morris-2_;R_^(vozidlo;;cigarety)" src="auto">NNIS4-----A----</AM>
+<AM lemma="Morris-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1885-001-p1s5W4-Ta">
@@ -1741,7 +1753,10 @@
 <LM>w#w-wsj1885-001-p1s5W21</LM>
 </w.rf>
 <form>Philip</form>
-<tag lemma="Philip_;Y" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Philip_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Philip-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1885-001-p1s5W22-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1753,6 +1768,7 @@
 <AM lemma="Morris-1_;S" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Morris-2_;R_^(vozidlo;;cigarety)" src="auto">NNIS1-----A----</AM>
 <AM lemma="Morris-2_;R_^(vozidlo;;cigarety)" src="auto">NNIS4-----A----</AM>
+<AM lemma="Morris-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1885-001-p1s5W23-Ta">
@@ -1849,7 +1865,10 @@
 <LM>w#w-wsj1885-001-p1s5W30</LM>
 </w.rf>
 <form>Kraft</form>
-<tag lemma="Kraft_;S" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Kraft_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Kraft-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1885-001-p1s5W31-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1862,6 +1881,7 @@
 <AM lemma="General_;K_,t" src="auto">NNIS1-----A----</AM>
 <AM lemma="General_;K_,t" src="auto">NNIS4-----A----</AM>
 <AM lemma="General_;K_,t" src="auto" recommended="1">NNXXX-----A----</AM>
+<AM lemma="General-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1885-001-p1s5W32-Ta">
@@ -1870,7 +1890,10 @@
 <LM>w#w-wsj1885-001-p1s5W32</LM>
 </w.rf>
 <form>Foods</form>
-<tag lemma="Foods" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Foods" src="auto">X@-------------</AM>
+<AM lemma="Foods-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1885-001-p1s5W33-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1892,7 +1915,10 @@
 <LM>w#w-wsj1885-001-p1s5W34</LM>
 </w.rf>
 <form>Miller</form>
-<tag lemma="Miller_;S" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Miller_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Miller-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1885-001-p1s5W35-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1900,7 +1926,10 @@
 <LM>w#w-wsj1885-001-p1s5W35</LM>
 </w.rf>
 <form>Brewing</form>
-<tag lemma="Brewing" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Brewing" src="auto">X@-------------</AM>
+<AM lemma="Brewing-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1885-001-p1s5W36-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1916,6 +1945,7 @@
 <AM lemma="co-4_^(který:_př.:_o_těch,_co_odešli/co_je_znal)" src="auto">P4XXX----------</AM>
 <AM lemma="co-5_^(př._co_nejméně,_co_nevidět,_co_chvíli,_co_do_počtu,_atd.)" src="auto">Db-------------</AM>
 <AM lemma="co-77_:B" src="auto">F%-------------</AM>
+<AM lemma="Co-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1885-001-p1s5W37-Ta">

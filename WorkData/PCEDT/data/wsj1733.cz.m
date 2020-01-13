@@ -285,7 +285,10 @@
 <LM>w#w-wsj1733-001-p1s0W23</LM>
 </w.rf>
 <form>Baxter</form>
-<tag lemma="Baxter_;S" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Baxter_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Baxter-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1733-001-p1s0W24-Ta">
 <src.rf>tagger-a</src.rf>
@@ -294,7 +297,7 @@
 </w.rf>
 <form>International</form>
 <tag>
-<AM lemma="International-77" src="auto" recommended="1">F%-------------</AM>
+<AM lemma="International-77" src="auto" recommended="1" selected="1">F%-------------</AM>
 <AM lemma="International_,t" src="auto">NNISX-----A----</AM>
 <AM lemma="international-77_,t" src="auto">F%-------------</AM>
 </tag>
@@ -308,6 +311,7 @@
 <tag>
 <AM lemma="Inc-77_:B" src="auto" recommended="1">F%-------------</AM>
 <AM lemma="inc-77_:B" src="auto">F%-------------</AM>
+<AM lemma="Inc-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1733-001-p1s0W26-Ta">
@@ -492,7 +496,7 @@
 <AM lemma="oživení_^(*3it)" src="auto">NNNS3-----A----</AM>
 <AM lemma="oživení_^(*3it)" src="auto" recommended="1">NNNS4-----A----</AM>
 <AM lemma="oživení_^(*3it)" src="auto">NNNS5-----A----</AM>
-<AM lemma="oživení_^(*3it)" src="auto">NNNS6-----A----</AM>
+<AM lemma="oživení_^(*3it)" src="auto" selected="1">NNNS6-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1733-001-p1s0W39-Ta">
@@ -552,7 +556,11 @@
 <LM>w#w-wsj1733-001-p1s1W4</LM>
 </w.rf>
 <form>Deerfieldu</form>
-<tag lemma="Deerfieldu" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Deerfieldu" src="auto">X@-------------</AM>
+<AM lemma="Deerfield_;G" src="manual">NNIS6-----A----</AM>
+<AM lemma="Deerfield_;G" src="manual" selected="1">NNIS2-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj1733-001-p1s1W5-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1175,7 +1183,10 @@
 <LM>w#w-wsj1733-001-p1s3W2</LM>
 </w.rf>
 <form>Baxter</form>
-<tag lemma="Baxter_;S" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Baxter_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Baxter-2_;K" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj1733-001-p1s3W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2034,7 +2045,10 @@
 <LM>w#w-wsj1733-001-p1s5W11</LM>
 </w.rf>
 <form>Baxter</form>
-<tag lemma="Baxter_;S" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Baxter_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Baxter-2_;K" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj1733-001-p1s5W12-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2044,7 +2058,7 @@
 <form>na</form>
 <tag>
 <AM lemma="na-1" src="auto" recommended="1">RR--4----------</AM>
-<AM lemma="na-1" src="auto">RR--6----------</AM>
+<AM lemma="na-1" src="auto" selected="1">RR--6----------</AM>
 <AM lemma="na-2" src="auto">II-------------</AM>
 </tag>
 </m>

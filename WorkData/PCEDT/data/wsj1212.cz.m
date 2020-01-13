@@ -373,7 +373,7 @@
 <form>George</form>
 <tag>
 <AM lemma="George_;Y" src="auto">NNMP4-----A----</AM>
-<AM lemma="George_;Y" src="auto">NNMS1-----A----</AM>
+<AM lemma="George_;Y" src="auto" selected="1">NNMS1-----A----</AM>
 <AM lemma="George_;Y" src="auto">NNMS2-----A----</AM>
 <AM lemma="George_;Y" src="auto">NNMS4-----A----</AM>
 <AM lemma="George-77" src="auto" recommended="1">F%-------------</AM>
@@ -390,7 +390,7 @@
 <AM lemma="O-2_:B_^(kyslík)" src="auto">NNIXX-----A----</AM>
 <AM lemma="O-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
 <AM lemma="O-77" src="auto" recommended="1">F%-------------</AM>
-<AM lemma="O-88_:B" src="auto">NNXXX-----A----</AM>
+<AM lemma="O-88_:B" src="auto" selected="1">NNXXX-----A----</AM>
 <AM lemma="o-1" src="auto">RR--4----------</AM>
 <AM lemma="o-1" src="auto">RR--6----------</AM>
 <AM lemma="o-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
@@ -413,7 +413,10 @@
 <LM>w#w-wsj1212-001-p1s2W5</LM>
 </w.rf>
 <form>Ludcke</form>
-<tag lemma="Ludcke" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Ludcke" src="auto">X@-------------</AM>
+<AM lemma="Ludcke_;S" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj1212-001-p1s2W6-Ta">
 <src.rf>tagger-a</src.rf>
@@ -460,6 +463,7 @@
 <AM lemma="polický_;G" src="auto">AANS1----1A---6</AM>
 <AM lemma="polický_;G" src="auto">AANS4----1A---6</AM>
 <AM lemma="polický_;G" src="auto">AANS5----1A---6</AM>
+<AM lemma="polický" src="manual" selected="1">AAIS1----1A----</AM>
 </tag>
 </m>
 <m id="m-wsj1212-001-p1s3W2-Ta">
@@ -736,7 +740,7 @@
 <form>Mimi</form>
 <tag>
 <AM lemma="Mimi_;R_^(limonáda)" src="auto" recommended="1">NNXXX-----A----</AM>
-<AM lemma="Mimi_;Y" src="auto">NNFSX-----A----</AM>
+<AM lemma="Mimi_;Y" src="auto" selected="1">NNFSX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1212-001-p1s5W3-Ta">
@@ -745,7 +749,10 @@
 <LM>w#w-wsj1212-001-p1s5W3</LM>
 </w.rf>
 <form>Kay</form>
-<tag lemma="Kay_;S" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Kay_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Kay-2_;S" src="manual" selected="1">NNFSX-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj1212-001-p1s5W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1009,7 +1016,10 @@
 <LM>w#w-wsj1212-001-p1s8W2</LM>
 </w.rf>
 <form>Ivern</form>
-<tag lemma="Ivern" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Ivern" src="auto">X@-------------</AM>
+<AM lemma="Ivern_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj1212-001-p1s8W3-Ta">
 <src.rf>tagger-a</src.rf>

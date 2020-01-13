@@ -58,7 +58,10 @@
 <LM>w#w-wsj0240-001-p1s0W5</LM>
 </w.rf>
 <form>Mulford</form>
-<tag lemma="Mulford" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Mulford" src="auto">X@-------------</AM>
+<AM lemma="Mulford_;S" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj0240-001-p1s0W6-Ta">
 <src.rf>tagger-a</src.rf>
@@ -245,7 +248,15 @@
 <LM>w#w-wsj0240-001-p1s0W21</LM>
 </w.rf>
 <form>190bodového</form>
-<tag lemma="190bodového" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="190bodového" src="auto">X@-------------</AM>
+<AM lemma="190bodový" src="manual" selected="1">AAIS2----1A----</AM>
+</tag>
+<comment>
+<LM type="Other">
+<text>špatná tokenizace</text>
+</LM>
+</comment>
 </m>
 <m id="m-wsj0240-001-p1s0W22-Ta">
 <src.rf>tagger-a</src.rf>
@@ -356,7 +367,10 @@
 <LM>w#w-wsj0240-001-p1s1W2</LM>
 </w.rf>
 <form>Mulford</form>
-<tag lemma="Mulford" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Mulford" src="auto">X@-------------</AM>
+<AM lemma="Mulford_;S" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj0240-001-p1s1W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -638,7 +652,7 @@
 </w.rf>
 <form>propad</form>
 <tag>
-<AM lemma="propad" src="auto">NNIS1-----A----</AM>
+<AM lemma="propad" src="auto" selected="1">NNIS1-----A----</AM>
 <AM lemma="propad" src="auto" recommended="1">NNIS4-----A----</AM>
 <AM lemma="propadnout" src="auto">VpYS---XR-AAP-6</AM>
 </tag>
@@ -879,7 +893,10 @@
 <LM>w#w-wsj0240-001-p1s2W1</LM>
 </w.rf>
 <form>Mulford</form>
-<tag lemma="Mulford" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Mulford" src="auto">X@-------------</AM>
+<AM lemma="Mulford_;S" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj0240-001-p1s2W2-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2370,7 +2387,10 @@
 <LM>w#w-wsj0240-001-p1s6W3</LM>
 </w.rf>
 <form>LaFalce</form>
-<tag lemma="LaFalce" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="LaFalce" src="auto">X@-------------</AM>
+<AM lemma="LaFalce_;S" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj0240-001-p1s6W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2435,6 +2455,7 @@
 <AM lemma="York-1_;S" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="York-2_;G" src="auto">NNIS1-----A----</AM>
 <AM lemma="York-2_;G" src="auto">NNIS4-----A----</AM>
+<AM lemma="York-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj0240-001-p1s6W10-Ta">
@@ -2531,7 +2552,10 @@
 <LM>w#w-wsj0240-001-p1s6W19</LM>
 </w.rf>
 <form>Mulfordem</form>
-<tag lemma="Mulfordem" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Mulfordem" src="auto">X@-------------</AM>
+<AM lemma="Mulford_;S" src="manual" selected="1">NNMS7-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj0240-001-p1s6W20-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2850,7 +2874,10 @@
 <LM>w#w-wsj0240-001-p1s7W5</LM>
 </w.rf>
 <form>LaFalceho</form>
-<tag lemma="LaFalceho" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="LaFalceho" src="auto">X@-------------</AM>
+<AM lemma="LaFalceho_;S_^(*2)" src="manual" selected="1">AUNS4M---------</AM>
+</tag>
 </m>
 <m id="m-wsj0240-001-p1s7W6-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2897,7 +2924,10 @@
 <LM>w#w-wsj0240-001-p1s8W1</LM>
 </w.rf>
 <form>Mulford</form>
-<tag lemma="Mulford" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Mulford" src="auto">X@-------------</AM>
+<AM lemma="Mulford_;S" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj0240-001-p1s8W2-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3562,7 +3592,10 @@
 <LM>w#w-wsj0240-001-p1s10W7</LM>
 </w.rf>
 <form>Mulford</form>
-<tag lemma="Mulford" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Mulford" src="auto">X@-------------</AM>
+<AM lemma="Mulford_;S" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj0240-001-p1s10W8-Ta">
 <src.rf>tagger-a</src.rf>
@@ -4076,7 +4109,7 @@
 <AM lemma="silný" src="auto">AAIP1----2A----</AM>
 <AM lemma="silný" src="auto">AAIP4----2A----</AM>
 <AM lemma="silný" src="auto">AAIP5----2A----</AM>
-<AM lemma="silný" src="auto">AAIS1----2A----</AM>
+<AM lemma="silný" src="auto" selected="1">AAIS1----2A----</AM>
 <AM lemma="silný" src="auto">AAIS4----2A----</AM>
 <AM lemma="silný" src="auto">AAIS5----2A----</AM>
 <AM lemma="silný" src="auto">AAMP1----2A----</AM>
@@ -4153,7 +4186,10 @@
 <LM>w#w-wsj0240-001-p1s12W14</LM>
 </w.rf>
 <form>Mulford</form>
-<tag lemma="Mulford" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Mulford" src="auto">X@-------------</AM>
+<AM lemma="Mulford_;S" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj0240-001-p1s12W15-Ta">
 <src.rf>tagger-a</src.rf>
@@ -4641,7 +4677,10 @@
 <LM>w#w-wsj0240-001-p1s13W17</LM>
 </w.rf>
 <form>Mulford</form>
-<tag lemma="Mulford" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Mulford" src="auto">X@-------------</AM>
+<AM lemma="Mulford_;S" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj0240-001-p1s13W18-Ta">
 <src.rf>tagger-a</src.rf>
@@ -4745,7 +4784,7 @@
 </w.rf>
 <form>úspěšnější</form>
 <tag>
-<AM lemma="úspěšný" src="auto">AAFP1----2A----</AM>
+<AM lemma="úspěšný" src="auto" selected="1">AAFP1----2A----</AM>
 <AM lemma="úspěšný" src="auto">AAFP4----2A----</AM>
 <AM lemma="úspěšný" src="auto">AAFP5----2A----</AM>
 <AM lemma="úspěšný" src="auto">AAFS1----2A----</AM>
@@ -4819,7 +4858,7 @@
 <form>i</form>
 <tag>
 <AM lemma="i-1" src="auto" recommended="1">J^-------------</AM>
-<AM lemma="i-2" src="auto">TT-------------</AM>
+<AM lemma="i-2" src="auto" selected="1">TT-------------</AM>
 <AM lemma="i-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
 <AM lemma="i-88_:B" src="auto">NNXXX-----A----</AM>
 </tag>

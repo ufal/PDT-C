@@ -358,6 +358,11 @@
 <AM lemma="65letý" src="auto" recommended="1">AAMS4----1A----</AM>
 <AM lemma="65letý" src="auto">AANS2----1A----</AM>
 </tag>
+<comment>
+<LM type="Other">
+<text>špatná tokenizace</text>
+</LM>
+</comment>
 </m>
 <m id="m-wsj1527-001-p1s1W5-Ta">
 <src.rf>tagger-a</src.rf>
@@ -402,7 +407,10 @@
 <LM>w#w-wsj1527-001-p1s1W8</LM>
 </w.rf>
 <form>Durneye</form>
-<tag lemma="Durneye" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Durneye" src="auto">X@-------------</AM>
+<AM lemma="Durney_;S" src="manual" selected="1">NNMS4-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj1527-001-p1s1W9-Ta">
 <src.rf>tagger-a</src.rf>
@@ -697,7 +705,10 @@
 <LM>w#w-wsj1527-001-p1s2W10</LM>
 </w.rf>
 <form>Steep</form>
-<tag lemma="Steep" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Steep" src="auto">X@-------------</AM>
+<AM lemma="Steep-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1527-001-p1s2W11-Ta">
 <src.rf>tagger-a</src.rf>
@@ -709,6 +720,7 @@
 <AM lemma="rock" src="auto">NNIS1-----A----</AM>
 <AM lemma="rock" src="auto">NNIS4-----A----</AM>
 <AM lemma="rock_^(rock'n'roll)" src="auto" recommended="1">NNXXX-----A----</AM>
+<AM lemma="Rock-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1527-001-p1s2W12-Ta">
@@ -717,7 +729,10 @@
 <LM>w#w-wsj1527-001-p1s2W12</LM>
 </w.rf>
 <form>Resources</form>
-<tag lemma="Resources" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Resources" src="auto">X@-------------</AM>
+<AM lemma="Resources-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1527-001-p1s2W13-Ta">
 <src.rf>tagger-a</src.rf>
@@ -728,6 +743,7 @@
 <tag>
 <AM lemma="Inc-77_:B" src="auto" recommended="1">F%-------------</AM>
 <AM lemma="inc-77_:B" src="auto">F%-------------</AM>
+<AM lemma="Inc-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1527-001-p1s2W14-Ta">

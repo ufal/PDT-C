@@ -24,7 +24,10 @@
 <LM>w#w-wsj0332-001-p1s0W2</LM>
 </w.rf>
 <form>Orkem</form>
-<tag lemma="Orko_;S" src="auto" recommended="1">NNMS7-----A----</tag>
+<tag>
+<AM lemma="Orko_;S" src="auto" recommended="1">NNMS7-----A----</AM>
+<AM lemma="Orkem_;K" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj0332-001-p1s0W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -114,7 +117,7 @@
 <AM lemma="francouzský" src="auto">AAMP1----1A---6</AM>
 <AM lemma="francouzský" src="auto">AAMP4----1A---6</AM>
 <AM lemma="francouzský" src="auto">AAMP5----1A---6</AM>
-<AM lemma="francouzský" src="auto">AAMS1----1A----</AM>
+<AM lemma="francouzský" src="auto" selected="1">AAMS1----1A----</AM>
 <AM lemma="francouzský" src="auto">AAMS5----1A----</AM>
 <AM lemma="francouzský" src="auto">AANP1----1A---6</AM>
 <AM lemma="francouzský" src="auto">AANP4----1A---6</AM>
@@ -361,6 +364,7 @@
 <AM lemma="on-1" src="auto">P5FS4--3------6</AM>
 <AM lemma="on-1" src="auto">P5FS6--3-------</AM>
 <AM lemma="on-1" src="auto">P5FS7--3-------</AM>
+<AM lemma="ní_,i_(12%-ní)" src="manual" selected="1">AAIS4----1A----</AM>
 </tag>
 </m>
 <m id="m-wsj0332-001-p1s0W31-Ta">
@@ -438,7 +442,10 @@
 <LM>w#w-wsj0332-001-p1s0W36</LM>
 </w.rf>
 <form>Coates</form>
-<tag lemma="Coates_;S" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Coates_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Coates-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0332-001-p1s0W37-Ta">
 <src.rf>tagger-a</src.rf>
@@ -889,7 +896,10 @@
 <LM>w#w-wsj0332-001-p1s2W5</LM>
 </w.rf>
 <form>Orkem</form>
-<tag lemma="Orko_;S" src="auto" recommended="1">NNMS7-----A----</tag>
+<tag>
+<AM lemma="Orko_;S" src="auto" recommended="1">NNMS7-----A----</AM>
+<AM lemma="Orkem_;K" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj0332-001-p1s2W6-Ta">
 <src.rf>tagger-a</src.rf>
@@ -919,7 +929,7 @@
 <AM lemma="kontrolní" src="auto">AAIP1----1A----</AM>
 <AM lemma="kontrolní" src="auto">AAIP4----1A----</AM>
 <AM lemma="kontrolní" src="auto">AAIP5----1A----</AM>
-<AM lemma="kontrolní" src="auto">AAIS1----1A----</AM>
+<AM lemma="kontrolní" src="auto" selected="1">AAIS1----1A----</AM>
 <AM lemma="kontrolní" src="auto">AAIS4----1A----</AM>
 <AM lemma="kontrolní" src="auto">AAIS5----1A----</AM>
 <AM lemma="kontrolní" src="auto">AAMP1----1A----</AM>
@@ -972,6 +982,7 @@
 <AM lemma="on-1" src="auto">P5FS4--3------6</AM>
 <AM lemma="on-1" src="auto">P5FS6--3-------</AM>
 <AM lemma="on-1" src="auto">P5FS7--3-------</AM>
+<AM lemma="ní_,i_(12%-ní)" src="manual" selected="1">AAIS1----1A----</AM>
 </tag>
 </m>
 <m id="m-wsj0332-001-p1s2W12-Ta">
@@ -981,7 +992,7 @@
 </w.rf>
 <form>podíl</form>
 <tag>
-<AM lemma="podíl" src="auto">NNIS1-----A----</AM>
+<AM lemma="podíl" src="auto" selected="1">NNIS1-----A----</AM>
 <AM lemma="podíl" src="auto" recommended="1">NNIS4-----A----</AM>
 </tag>
 </m>
@@ -1041,7 +1052,10 @@
 <LM>w#w-wsj0332-001-p1s3W2</LM>
 </w.rf>
 <form>Orkem</form>
-<tag lemma="Orko_;S" src="auto" recommended="1">NNMS7-----A----</tag>
+<tag>
+<AM lemma="Orko_;S" src="auto" recommended="1">NNMS7-----A----</AM>
+<AM lemma="Orkem_;K" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj0332-001-p1s3W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1220,7 +1234,10 @@
 <LM>w#w-wsj0332-001-p1s3W19</LM>
 </w.rf>
 <form>Orkem</form>
-<tag lemma="Orko_;S" src="auto" recommended="1">NNMS7-----A----</tag>
+<tag>
+<AM lemma="Orko_;S" src="auto" recommended="1">NNMS7-----A----</AM>
+<AM lemma="Orkem_;K" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj0332-001-p1s3W20-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1247,7 +1264,10 @@
 <LM>w#w-wsj0332-001-p1s3W22</LM>
 </w.rf>
 <form>Orkem</form>
-<tag lemma="Orko_;S" src="auto" recommended="1">NNMS7-----A----</tag>
+<tag>
+<AM lemma="Orko_;S" src="auto" recommended="1">NNMS7-----A----</AM>
+<AM lemma="Orkem-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0332-001-p1s3W23-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1255,7 +1275,10 @@
 <LM>w#w-wsj0332-001-p1s3W23</LM>
 </w.rf>
 <form>Coatings</form>
-<tag lemma="Coatings" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Coatings" src="auto">X@-------------</AM>
+<AM lemma="Coatings-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0332-001-p1s3W24-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1309,7 +1332,10 @@
 <LM>w#w-wsj0332-001-p1s3W28</LM>
 </w.rf>
 <form>Ltd</form>
-<tag lemma="Ltd-77_:B" src="auto" recommended="1">F%-------------</tag>
+<tag>
+<AM lemma="Ltd-77_:B" src="auto" recommended="1">F%-------------</AM>
+<AM lemma="Ltd-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0332-001-p1s3W29-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1335,7 +1361,10 @@
 <LM>w#w-wsj0332-001-p1s4W2</LM>
 </w.rf>
 <form>Orkem</form>
-<tag lemma="Orko_;S" src="auto" recommended="1">NNMS7-----A----</tag>
+<tag>
+<AM lemma="Orko_;S" src="auto" recommended="1">NNMS7-----A----</AM>
+<AM lemma="Orkem_;K" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj0332-001-p1s4W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1496,7 +1525,7 @@
 <form>akvizici</form>
 <tag>
 <AM lemma="akvizice" src="auto" recommended="1">NNFS3-----A----</AM>
-<AM lemma="akvizice" src="auto">NNFS4-----A----</AM>
+<AM lemma="akvizice" src="auto" selected="1">NNFS4-----A----</AM>
 <AM lemma="akvizice" src="auto">NNFS6-----A----</AM>
 </tag>
 </m>
@@ -1641,7 +1670,10 @@
 <LM>w#w-wsj0332-001-p1s5W7</LM>
 </w.rf>
 <form>Orkem</form>
-<tag lemma="Orko_;S" src="auto" recommended="1">NNMS7-----A----</tag>
+<tag>
+<AM lemma="Orko_;S" src="auto" recommended="1">NNMS7-----A----</AM>
+<AM lemma="Orkem_;K" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj0332-001-p1s5W8-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1790,7 +1822,10 @@
 <LM>w#w-wsj0332-001-p1s5W19</LM>
 </w.rf>
 <form>Orkem</form>
-<tag lemma="Orko_;S" src="auto" recommended="1">NNMS7-----A----</tag>
+<tag>
+<AM lemma="Orko_;S" src="auto" recommended="1">NNMS7-----A----</AM>
+<AM lemma="Orkem_;K" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj0332-001-p1s5W20-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1822,7 +1857,7 @@
 <form>další</form>
 <tag>
 <AM lemma="další" src="auto" recommended="1">AAFP1----1A----</AM>
-<AM lemma="další" src="auto">AAFP4----1A----</AM>
+<AM lemma="další" src="auto" selected="1">AAFP4----1A----</AM>
 <AM lemma="další" src="auto">AAFP5----1A----</AM>
 <AM lemma="další" src="auto">AAFS1----1A----</AM>
 <AM lemma="další" src="auto">AAFS2----1A----</AM>
@@ -1858,7 +1893,7 @@
 <form>akvizice</form>
 <tag>
 <AM lemma="akvizice" src="auto" recommended="1">NNFP1-----A----</AM>
-<AM lemma="akvizice" src="auto">NNFP4-----A----</AM>
+<AM lemma="akvizice" src="auto" selected="1">NNFP4-----A----</AM>
 <AM lemma="akvizice" src="auto">NNFP5-----A----</AM>
 <AM lemma="akvizice" src="auto">NNFS1-----A----</AM>
 <AM lemma="akvizice" src="auto">NNFS2-----A----</AM>
@@ -1889,7 +1924,10 @@
 <LM>w#w-wsj0332-001-p1s6W2</LM>
 </w.rf>
 <form>Orkem</form>
-<tag lemma="Orko_;S" src="auto" recommended="1">NNMS7-----A----</tag>
+<tag>
+<AM lemma="Orko_;S" src="auto" recommended="1">NNMS7-----A----</AM>
+<AM lemma="Orkem_;K" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj0332-001-p1s6W3-Ta">
 <src.rf>tagger-a</src.rf>

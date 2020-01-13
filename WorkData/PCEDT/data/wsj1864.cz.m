@@ -27,7 +27,10 @@
 <LM>w#w-wsj1864-001-p1s0W2</LM>
 </w.rf>
 <form>FREDERICK</form>
-<tag lemma="Frederick_;Y" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Frederick_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="FREDERICK-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1864-001-p1s0W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -45,7 +48,7 @@
 <form>S</form>
 <tag>
 <AM lemma="S-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
-<AM lemma="S-77" src="auto">F%-------------</AM>
+<AM lemma="S-77" src="auto" selected="1">F%-------------</AM>
 <AM lemma="S-88_:B" src="auto" recommended="1">NNXXX-----A----</AM>
 <AM lemma="s-1" src="auto">RR--2----------</AM>
 <AM lemma="s-1" src="auto">RR--4----------</AM>
@@ -71,6 +74,7 @@
 <AM lemma="OF-88_:B" src="auto" recommended="1">NNXXX-----A----</AM>
 <AM lemma="Of-77" src="auto">F%-------------</AM>
 <AM lemma="of-77_,t" src="auto">F%-------------</AM>
+<AM lemma="OF-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1864-001-p1s0W6-Ta">
@@ -82,6 +86,7 @@
 <tag>
 <AM lemma="Hollywood_;G" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Hollywood_;G" src="auto">NNIS4-----A----</AM>
+<AM lemma="HOLLYWOOD-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1864-001-p1s0W7-Ta">
@@ -93,6 +98,7 @@
 <tag>
 <AM lemma="Inc-77_:B" src="auto" recommended="1">F%-------------</AM>
 <AM lemma="inc-77_:B" src="auto">F%-------------</AM>
+<AM lemma="Inc-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1864-001-p1s0W8-Ta">

@@ -31,6 +31,7 @@
 <AM lemma="Tribune_;K_,t" src="auto">NNFSX-----A----</AM>
 <AM lemma="tribun" src="auto">NNMS5-----A----</AM>
 <AM lemma="tribune-77" src="auto" recommended="1">F%-------------</AM>
+<AM lemma="Tribune-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1976-001-p1s0W3-Ta">
@@ -47,6 +48,7 @@
 <AM lemma="co-4_^(který:_př.:_o_těch,_co_odešli/co_je_znal)" src="auto">P4XXX----------</AM>
 <AM lemma="co-5_^(př._co_nejméně,_co_nevidět,_co_chvíli,_co_do_počtu,_atd.)" src="auto">Db-------------</AM>
 <AM lemma="co-77_:B" src="auto" recommended="1">F%-------------</AM>
+<AM lemma="Co-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1976-001-p1s0W4-Ta">
@@ -73,7 +75,7 @@
 <form>jíž</form>
 <tag>
 <AM lemma="jenž_^(který_[ve_vedl.větě])" src="auto">PJFS2----------</AM>
-<AM lemma="jenž_^(který_[ve_vedl.větě])" src="auto">PJFS3----------</AM>
+<AM lemma="jenž_^(který_[ve_vedl.větě])" src="auto" selected="1">PJFS3----------</AM>
 <AM lemma="jenž_^(který_[ve_vedl.větě])" src="auto" recommended="1">PJFS7----------</AM>
 </tag>
 </m>
@@ -1116,7 +1118,7 @@
 <form>dividendy</form>
 <tag>
 <AM lemma="dividenda" src="auto" recommended="1">NNFP1-----A----</AM>
-<AM lemma="dividenda" src="auto">NNFP4-----A----</AM>
+<AM lemma="dividenda" src="auto" selected="1">NNFP4-----A----</AM>
 <AM lemma="dividenda" src="auto">NNFP5-----A----</AM>
 <AM lemma="dividenda" src="auto">NNFS2-----A----</AM>
 </tag>
@@ -1863,7 +1865,7 @@
 <form>Devítiměsíční</form>
 <tag>
 <AM lemma="devítiměsíční" src="auto" recommended="1">AAFP1----1A----</AM>
-<AM lemma="devítiměsíční" src="auto">AAFP4----1A----</AM>
+<AM lemma="devítiměsíční" src="auto" selected="1">AAFP4----1A----</AM>
 <AM lemma="devítiměsíční" src="auto">AAFP5----1A----</AM>
 <AM lemma="devítiměsíční" src="auto">AAFS1----1A----</AM>
 <AM lemma="devítiměsíční" src="auto">AAFS2----1A----</AM>
@@ -1899,7 +1901,7 @@
 <form>hodnoty</form>
 <tag>
 <AM lemma="hodnota" src="auto" recommended="1">NNFP1-----A----</AM>
-<AM lemma="hodnota" src="auto">NNFP4-----A----</AM>
+<AM lemma="hodnota" src="auto" selected="1">NNFP4-----A----</AM>
 <AM lemma="hodnota" src="auto">NNFP5-----A----</AM>
 <AM lemma="hodnota" src="auto">NNFS2-----A----</AM>
 </tag>
@@ -2455,6 +2457,7 @@
 <AM lemma="Tribune_;K_,t" src="auto" recommended="1">NNFSX-----A----</AM>
 <AM lemma="tribun" src="auto">NNMS5-----A----</AM>
 <AM lemma="tribune-77" src="auto">F%-------------</AM>
+<AM lemma="Tribune_;K_;R" src="manual" selected="1">NNFSX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1976-001-p1s7W14-Ta">

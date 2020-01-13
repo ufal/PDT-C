@@ -24,7 +24,10 @@
 <LM>w#w-wsj0106-001-p1s0W2</LM>
 </w.rf>
 <form>ROGERS</form>
-<tag lemma="Rogers_;S" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Rogers_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="ROGERS-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0106-001-p1s0W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -32,7 +35,10 @@
 <LM>w#w-wsj0106-001-p1s0W3</LM>
 </w.rf>
 <form>COMMUNICATIONS</form>
-<tag lemma="COMMUNICATIONS" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="COMMUNICATIONS" src="auto">X@-------------</AM>
+<AM lemma="COMMUNICATIONS-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0106-001-p1s0W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -43,6 +49,7 @@
 <tag>
 <AM lemma="Inc-77_:B" src="auto" recommended="1">F%-------------</AM>
 <AM lemma="inc-77_:B" src="auto">F%-------------</AM>
+<AM lemma="Inc-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj0106-001-p1s0W5-Ta">

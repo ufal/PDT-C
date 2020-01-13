@@ -81,7 +81,10 @@
 <LM>w#w-wsj2246-001-p1s0W6</LM>
 </w.rf>
 <form>Banknote</form>
-<tag lemma="Banknote" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Banknote" src="auto">X@-------------</AM>
+<AM lemma="Banknote-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj2246-001-p1s0W7-Ta">
 <src.rf>tagger-a</src.rf>
@@ -97,6 +100,7 @@
 <AM lemma="co-4_^(který:_př.:_o_těch,_co_odešli/co_je_znal)" src="auto">P4XXX----------</AM>
 <AM lemma="co-5_^(př._co_nejméně,_co_nevidět,_co_chvíli,_co_do_počtu,_atd.)" src="auto">Db-------------</AM>
 <AM lemma="co-77_:B" src="auto">F%-------------</AM>
+<AM lemma="Co-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj2246-001-p1s0W8-Ta">
@@ -238,7 +242,7 @@
 </w.rf>
 <form>International</form>
 <tag>
-<AM lemma="International-77" src="auto">F%-------------</AM>
+<AM lemma="International-77" src="auto" selected="1">F%-------------</AM>
 <AM lemma="International_,t" src="auto" recommended="1">NNISX-----A----</AM>
 <AM lemma="international-77_,t" src="auto">F%-------------</AM>
 </tag>
@@ -249,7 +253,10 @@
 <LM>w#w-wsj2246-001-p1s0W21</LM>
 </w.rf>
 <form>Banknote</form>
-<tag lemma="Banknote" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Banknote" src="auto">X@-------------</AM>
+<AM lemma="Banknote-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj2246-001-p1s0W22-Ta">
 <src.rf>tagger-a</src.rf>
@@ -265,6 +272,7 @@
 <AM lemma="co-4_^(který:_př.:_o_těch,_co_odešli/co_je_znal)" src="auto">P4XXX----------</AM>
 <AM lemma="co-5_^(př._co_nejméně,_co_nevidět,_co_chvíli,_co_do_počtu,_atd.)" src="auto">Db-------------</AM>
 <AM lemma="co-77_:B" src="auto">F%-------------</AM>
+<AM lemma="Co-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj2246-001-p1s0W23-Ta">
@@ -448,7 +456,10 @@
 <LM>w#w-wsj2246-001-p1s1W6</LM>
 </w.rf>
 <form>Banknote</form>
-<tag lemma="Banknote" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Banknote" src="auto">X@-------------</AM>
+<AM lemma="Banknote-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj2246-001-p1s1W7-Ta">
 <src.rf>tagger-a</src.rf>
@@ -607,7 +618,7 @@
 <AM lemma="jenž_^(který_[ve_vedl.větě])" src="auto">PJNP1----------</AM>
 <AM lemma="jenž_^(který_[ve_vedl.větě])" src="auto">PJNS1----------</AM>
 <AM lemma="jenž_^(který_[ve_vedl.větě])" src="auto">PJNS4----------</AM>
-<AM lemma="jenž_^(který_[ve_vedl.větě])" src="auto">PJXP4----------</AM>
+<AM lemma="jenž_^(který_[ve_vedl.větě])" src="auto" selected="1">PJXP4----------</AM>
 <AM lemma="jež-99_:B_;S" src="auto">NNXXX-----A----</AM>
 <AM lemma="ježit" src="auto">Vi-S---2--A-I--</AM>
 <AM lemma="ježit" src="auto">Vi-S---3--A-I-4</AM>
@@ -641,7 +652,7 @@
 <AM lemma="třetí" src="auto">CrFP5----------</AM>
 <AM lemma="třetí" src="auto">CrFS1----------</AM>
 <AM lemma="třetí" src="auto">CrFS2----------</AM>
-<AM lemma="třetí" src="auto">CrFS3----------</AM>
+<AM lemma="třetí" src="auto" selected="1">CrFS3----------</AM>
 <AM lemma="třetí" src="auto">CrFS4----------</AM>
 <AM lemma="třetí" src="auto">CrFS5----------</AM>
 <AM lemma="třetí" src="auto" recommended="1">CrFS6----------</AM>
@@ -674,7 +685,7 @@
 <tag>
 <AM lemma="stranit-1_^(nadržovat,_přilepšovat_někomu)" src="auto">VeYS------A-I--</AM>
 <AM lemma="stranit-2_^([se]_čeho,_vyhýbat_se_něčemu)" src="auto">VeYS------A-I--</AM>
-<AM lemma="strana" src="auto">NNFS3-----A----</AM>
+<AM lemma="strana" src="auto" selected="1">NNFS3-----A----</AM>
 <AM lemma="strana" src="auto" recommended="1">NNFS6-----A----</AM>
 </tag>
 </m>
@@ -954,7 +965,10 @@
 <LM>w#w-wsj2246-001-p1s2W6</LM>
 </w.rf>
 <form>Banknote</form>
-<tag lemma="Banknote" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Banknote" src="auto">X@-------------</AM>
+<AM lemma="Banknote-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj2246-001-p1s2W7-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1089,7 +1103,7 @@
 </w.rf>
 <form>zřejmě</form>
 <tag>
-<AM lemma="zřejmě-2" src="auto">TT-------------</AM>
+<AM lemma="zřejmě-2" src="auto" selected="1">TT-------------</AM>
 <AM lemma="zřejmě_^(*1ý)" src="auto" recommended="1">Dg-------1A----</AM>
 </tag>
 </m>
@@ -1101,7 +1115,7 @@
 <form>uspokojí</form>
 <tag>
 <AM lemma="uspokojit" src="auto" recommended="1">VB-P---3P-AAP--</AM>
-<AM lemma="uspokojit" src="auto">VB-S---3P-AAP--</AM>
+<AM lemma="uspokojit" src="auto" selected="1">VB-S---3P-AAP--</AM>
 </tag>
 </m>
 <m id="m-wsj2246-001-p1s2W22-Ta">
@@ -1112,7 +1126,7 @@
 <form>protimonopolní</form>
 <tag>
 <AM lemma="protimonopolní" src="auto" recommended="1">AAFP1----1A----</AM>
-<AM lemma="protimonopolní" src="auto">AAFP4----1A----</AM>
+<AM lemma="protimonopolní" src="auto" selected="1">AAFP4----1A----</AM>
 <AM lemma="protimonopolní" src="auto">AAFP5----1A----</AM>
 <AM lemma="protimonopolní" src="auto">AAFS1----1A----</AM>
 <AM lemma="protimonopolní" src="auto">AAFS2----1A----</AM>
@@ -1148,7 +1162,7 @@
 <form>námitky</form>
 <tag>
 <AM lemma="námitka" src="auto" recommended="1">NNFP1-----A----</AM>
-<AM lemma="námitka" src="auto">NNFP4-----A----</AM>
+<AM lemma="námitka" src="auto" selected="1">NNFP4-----A----</AM>
 <AM lemma="námitka" src="auto">NNFP5-----A----</AM>
 <AM lemma="námitka" src="auto">NNFS2-----A----</AM>
 </tag>
@@ -1169,7 +1183,7 @@
 <form>které</form>
 <tag>
 <AM lemma="který" src="auto" recommended="1">P4FP1----------</AM>
-<AM lemma="který" src="auto">P4FP4----------</AM>
+<AM lemma="který" src="auto" selected="1">P4FP4----------</AM>
 <AM lemma="který" src="auto">P4FS2----------</AM>
 <AM lemma="který" src="auto">P4FS3----------</AM>
 <AM lemma="který" src="auto">P4FS6----------</AM>
@@ -1316,7 +1330,10 @@
 <LM>w#w-wsj2246-001-p1s2W35</LM>
 </w.rf>
 <form>Banknote</form>
-<tag lemma="Banknote" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Banknote" src="auto">X@-------------</AM>
+<AM lemma="Banknote-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj2246-001-p1s2W36-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1362,7 +1379,7 @@
 </w.rf>
 <form>International</form>
 <tag>
-<AM lemma="International-77" src="auto" recommended="1">F%-------------</AM>
+<AM lemma="International-77" src="auto" recommended="1" selected="1">F%-------------</AM>
 <AM lemma="International_,t" src="auto">NNISX-----A----</AM>
 <AM lemma="international-77_,t" src="auto">F%-------------</AM>
 </tag>
@@ -1373,7 +1390,10 @@
 <LM>w#w-wsj2246-001-p1s2W40</LM>
 </w.rf>
 <form>Banknote</form>
-<tag lemma="Banknote" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Banknote" src="auto">X@-------------</AM>
+<AM lemma="Banknote-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj2246-001-p1s2W41-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1646,7 +1666,10 @@
 <LM>w#w-wsj2246-001-p1s4W6</LM>
 </w.rf>
 <form>Banknote</form>
-<tag lemma="Banknote" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Banknote" src="auto">X@-------------</AM>
+<AM lemma="Banknote-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj2246-001-p1s4W7-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2077,7 +2100,10 @@
 <LM>w#w-wsj2246-001-p1s6W6</LM>
 </w.rf>
 <form>Banknote</form>
-<tag lemma="Banknote" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Banknote" src="auto">X@-------------</AM>
+<AM lemma="Banknote-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj2246-001-p1s6W7-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2486,7 +2512,10 @@
 <LM>w#w-wsj2246-001-p1s8W10</LM>
 </w.rf>
 <form>Banknote</form>
-<tag lemma="Banknote" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Banknote" src="auto">X@-------------</AM>
+<AM lemma="Banknote-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj2246-001-p1s8W11-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2680,7 +2709,10 @@
 <LM>w#w-wsj2246-001-p1s8W30</LM>
 </w.rf>
 <form>Banknote</form>
-<tag lemma="Banknote" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Banknote" src="auto">X@-------------</AM>
+<AM lemma="Banknote-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj2246-001-p1s8W31-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2790,7 +2822,10 @@
 <LM>w#w-wsj2246-001-p1s9W6</LM>
 </w.rf>
 <form>Banknote</form>
-<tag lemma="Banknote" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Banknote" src="auto">X@-------------</AM>
+<AM lemma="Banknote-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj2246-001-p1s9W7-Ta">
 <src.rf>tagger-a</src.rf>

@@ -27,7 +27,10 @@
 <LM>w#w-wsj1612-001-p1s0W2</LM>
 </w.rf>
 <form>Banc</form>
-<tag lemma="Banc" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Banc" src="auto">X@-------------</AM>
+<AM lemma="Banc-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1612-001-p1s0W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -35,7 +38,10 @@
 <LM>w#w-wsj1612-001-p1s0W3</LM>
 </w.rf>
 <form>One</form>
-<tag lemma="one-77" src="auto" recommended="1">F%-------------</tag>
+<tag>
+<AM lemma="one-77" src="auto" recommended="1">F%-------------</AM>
+<AM lemma="One-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1612-001-p1s0W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -43,7 +49,10 @@
 <LM>w#w-wsj1612-001-p1s0W4</LM>
 </w.rf>
 <form>Corp</form>
-<tag lemma="corp-77_:B" src="auto" recommended="1">F%-------------</tag>
+<tag>
+<AM lemma="corp-77_:B" src="auto" recommended="1">F%-------------</AM>
+<AM lemma="Corp-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1612-001-p1s0W5-Ta">
 <src.rf>tagger-a</src.rf>
@@ -190,7 +199,10 @@
 <LM>w#w-wsj1612-001-p1s0W15</LM>
 </w.rf>
 <form>Trustcorp</form>
-<tag lemma="Trustcorp" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Trustcorp" src="auto">X@-------------</AM>
+<AM lemma="Trustcorp_;K" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj1612-001-p1s0W16-Ta">
 <src.rf>tagger-a</src.rf>
@@ -227,6 +239,7 @@
 <AM lemma="societa_,a" src="auto">NNFP5-----A----</AM>
 <AM lemma="societa_,a" src="auto">NNFS2-----A----</AM>
 <AM lemma="society-1_,t_^(společnost)" src="auto" recommended="1">NNFXX-----A----</AM>
+<AM lemma="Society-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1612-001-p1s0W19-Ta">
@@ -235,7 +248,10 @@
 <LM>w#w-wsj1612-001-p1s0W19</LM>
 </w.rf>
 <form>Corp</form>
-<tag lemma="corp-77_:B" src="auto" recommended="1">F%-------------</tag>
+<tag>
+<AM lemma="corp-77_:B" src="auto" recommended="1">F%-------------</AM>
+<AM lemma="Corp-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1612-001-p1s0W20-Ta">
 <src.rf>tagger-a</src.rf>
@@ -369,7 +385,10 @@
 <LM>w#w-wsj1612-001-p1s0W31</LM>
 </w.rf>
 <form>Trustcorp</form>
-<tag lemma="Trustcorp" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Trustcorp" src="auto">X@-------------</AM>
+<AM lemma="Trustcorp-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1612-001-p1s0W32-Ta">
 <src.rf>tagger-a</src.rf>
@@ -380,6 +399,7 @@
 <tag>
 <AM lemma="Inc-77_:B" src="auto" recommended="1">F%-------------</AM>
 <AM lemma="inc-77_:B" src="auto">F%-------------</AM>
+<AM lemma="Inc-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1612-001-p1s0W33-Ta">
@@ -489,7 +509,10 @@
 <LM>w#w-wsj1612-001-p1s1W2</LM>
 </w.rf>
 <form>Banc</form>
-<tag lemma="Banc" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Banc" src="auto">X@-------------</AM>
+<AM lemma="Banc-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1612-001-p1s1W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -497,7 +520,10 @@
 <LM>w#w-wsj1612-001-p1s1W3</LM>
 </w.rf>
 <form>One</form>
-<tag lemma="one-77" src="auto" recommended="1">F%-------------</tag>
+<tag>
+<AM lemma="one-77" src="auto" recommended="1">F%-------------</AM>
+<AM lemma="One-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1612-001-p1s1W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -871,7 +897,10 @@
 <LM>w#w-wsj1612-001-p1s2W9</LM>
 </w.rf>
 <form>Banc</form>
-<tag lemma="Banc" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Banc" src="auto">X@-------------</AM>
+<AM lemma="Banc-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1612-001-p1s2W10-Ta">
 <src.rf>tagger-a</src.rf>
@@ -879,7 +908,10 @@
 <LM>w#w-wsj1612-001-p1s2W10</LM>
 </w.rf>
 <form>One</form>
-<tag lemma="one-77" src="auto" recommended="1">F%-------------</tag>
+<tag>
+<AM lemma="one-77" src="auto" recommended="1">F%-------------</AM>
+<AM lemma="One-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1612-001-p1s2W11-Ta">
 <src.rf>tagger-a</src.rf>
@@ -961,7 +993,10 @@
 <LM>w#w-wsj1612-001-p1s2W19</LM>
 </w.rf>
 <form>Banc</form>
-<tag lemma="Banc" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Banc" src="auto">X@-------------</AM>
+<AM lemma="Banc-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1612-001-p1s2W20-Ta">
 <src.rf>tagger-a</src.rf>
@@ -969,7 +1004,10 @@
 <LM>w#w-wsj1612-001-p1s2W20</LM>
 </w.rf>
 <form>One</form>
-<tag lemma="one-77" src="auto" recommended="1">F%-------------</tag>
+<tag>
+<AM lemma="one-77" src="auto" recommended="1">F%-------------</AM>
+<AM lemma="One-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1612-001-p1s2W21-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1056,6 +1094,7 @@
 <AM lemma="societa_,a" src="auto">NNFP5-----A----</AM>
 <AM lemma="societa_,a" src="auto">NNFS2-----A----</AM>
 <AM lemma="society-1_,t_^(společnost)" src="auto" recommended="1">NNFXX-----A----</AM>
+<AM lemma="Society-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1612-001-p1s3W8-Ta">
@@ -1064,7 +1103,10 @@
 <LM>w#w-wsj1612-001-p1s3W8</LM>
 </w.rf>
 <form>Corp</form>
-<tag lemma="corp-77_:B" src="auto" recommended="1">F%-------------</tag>
+<tag>
+<AM lemma="corp-77_:B" src="auto" recommended="1">F%-------------</AM>
+<AM lemma="Corp-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1612-001-p1s3W9-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1430,7 +1472,10 @@
 <LM>w#w-wsj1612-001-p1s3W38</LM>
 </w.rf>
 <form>Trustcorp</form>
-<tag lemma="Trustcorp" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Trustcorp" src="auto">X@-------------</AM>
+<AM lemma="Trustcorp_;K" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj1612-001-p1s3W39-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1458,6 +1503,7 @@
 <AM lemma="societa_,a" src="auto">NNFP5-----A----</AM>
 <AM lemma="societa_,a" src="auto">NNFS2-----A----</AM>
 <AM lemma="society-1_,t_^(společnost)" src="auto" recommended="1">NNFXX-----A----</AM>
+<AM lemma="Society_;K" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1612-001-p1s3W41-Ta">

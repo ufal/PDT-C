@@ -945,7 +945,7 @@
 <AM lemma="mírný" src="auto">AAFP3----1A----</AM>
 <AM lemma="mírný" src="auto">AAIP3----1A----</AM>
 <AM lemma="mírný" src="auto">AAIS6----1A---7</AM>
-<AM lemma="mírný" src="auto">AAIS7----1A----</AM>
+<AM lemma="mírný" src="auto" selected="1">AAIS7----1A----</AM>
 <AM lemma="mírný" src="auto">AAMP3----1A----</AM>
 <AM lemma="mírný" src="auto">AAMS6----1A---7</AM>
 <AM lemma="mírný" src="auto">AAMS7----1A----</AM>
@@ -988,6 +988,11 @@
 <AM lemma="9procentní" src="auto">AANS6----1A----</AM>
 <AM lemma="9procentní" src="auto">AANS7----1A----</AM>
 </tag>
+<comment>
+<LM type="Other">
+<text>špatná tokenizace</text>
+</LM>
+</comment>
 </m>
 <m id="m-wsj1995-001-p1s2W10-Ta">
 <src.rf>tagger-a</src.rf>

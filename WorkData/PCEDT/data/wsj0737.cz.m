@@ -486,7 +486,10 @@
 <LM>w#w-wsj0737-001-p1s2W8</LM>
 </w.rf>
 <form>Odell</form>
-<tag lemma="Odell" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Odell" src="auto">X@-------------</AM>
+<AM lemma="Odell_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj0737-001-p1s2W9-Ta">
 <src.rf>tagger-a</src.rf>

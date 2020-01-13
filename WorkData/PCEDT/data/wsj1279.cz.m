@@ -1142,7 +1142,7 @@
 </w.rf>
 <form>náš</form>
 <tag>
-<AM lemma="můj_^(přivlast.)" src="auto">PSIS4-P1-------</AM>
+<AM lemma="můj_^(přivlast.)" src="auto" selected="1">PSIS4-P1-------</AM>
 <AM lemma="můj_^(přivlast.)" src="auto" recommended="1">PSYS1-P1-------</AM>
 <AM lemma="můj_^(přivlast.)" src="auto">PSYS5-P1-------</AM>
 </tag>
@@ -1155,7 +1155,7 @@
 <form>sektor</form>
 <tag>
 <AM lemma="sektor" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="sektor" src="auto">NNIS4-----A----</AM>
+<AM lemma="sektor" src="auto" selected="1">NNIS4-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1279-001-p1s2W41-Ta">
@@ -1293,7 +1293,7 @@
 <form>i</form>
 <tag>
 <AM lemma="i-1" src="auto" recommended="1">J^-------------</AM>
-<AM lemma="i-2" src="auto">TT-------------</AM>
+<AM lemma="i-2" src="auto" selected="1">TT-------------</AM>
 <AM lemma="i-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
 <AM lemma="i-88_:B" src="auto">NNXXX-----A----</AM>
 </tag>
@@ -1689,7 +1689,7 @@
 <tag>
 <AM lemma="vedoucí_^(*6ést)" src="auto">AGFP2-----A----</AM>
 <AM lemma="vedoucí_^(*6ést)" src="auto">AGFP6-----A----</AM>
-<AM lemma="vedoucí_^(*6ést)" src="auto">AGIP2-----A----</AM>
+<AM lemma="vedoucí_^(*6ést)" src="auto" selected="1">AGIP2-----A----</AM>
 <AM lemma="vedoucí_^(*6ést)" src="auto">AGIP6-----A----</AM>
 <AM lemma="vedoucí_^(*6ést)" src="auto">AGMP2-----A----</AM>
 <AM lemma="vedoucí_^(*6ést)" src="auto">AGMP6-----A----</AM>
@@ -2047,7 +2047,7 @@
 </w.rf>
 <form>věří</form>
 <tag>
-<AM lemma="věřit" src="auto">VB-P---3P-AAI--</AM>
+<AM lemma="věřit" src="auto" selected="1">VB-P---3P-AAI--</AM>
 <AM lemma="věřit" src="auto" recommended="1">VB-S---3P-AAI--</AM>
 </tag>
 </m>

@@ -236,7 +236,7 @@
 </w.rf>
 <form>zvýší</form>
 <tag>
-<AM lemma="zvýšit" src="auto">VB-P---3P-AAP--</AM>
+<AM lemma="zvýšit" src="auto" selected="1">VB-P---3P-AAP--</AM>
 <AM lemma="zvýšit" src="auto" recommended="1">VB-S---3P-AAP--</AM>
 </tag>
 </m>
@@ -548,7 +548,7 @@
 <AM lemma="šek" src="auto" recommended="1">NNIP1-----A----</AM>
 <AM lemma="šek" src="auto">NNIP4-----A----</AM>
 <AM lemma="šek" src="auto">NNIP5-----A----</AM>
-<AM lemma="šek" src="auto">NNIP7-----A----</AM>
+<AM lemma="šek" src="auto" selected="1">NNIP7-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1593-001-p1s1W6-Ta">
@@ -601,7 +601,7 @@
 <form>doručenými</form>
 <tag>
 <AM lemma="doručený_^(*3it)" src="auto">AAFP7----1A----</AM>
-<AM lemma="doručený_^(*3it)" src="auto">AAIP7----1A----</AM>
+<AM lemma="doručený_^(*3it)" src="auto" selected="1">AAIP7----1A----</AM>
 <AM lemma="doručený_^(*3it)" src="auto">AAMP7----1A----</AM>
 <AM lemma="doručený_^(*3it)" src="auto" recommended="1">AANP7----1A----</AM>
 </tag>
@@ -1902,7 +1902,7 @@
 <AM lemma="maximální" src="auto">AAFP1----1A----</AM>
 <AM lemma="maximální" src="auto">AAFP4----1A----</AM>
 <AM lemma="maximální" src="auto">AAFP5----1A----</AM>
-<AM lemma="maximální" src="auto">AAFS1----1A----</AM>
+<AM lemma="maximální" src="auto" selected="1">AAFS1----1A----</AM>
 <AM lemma="maximální" src="auto">AAFS2----1A----</AM>
 <AM lemma="maximální" src="auto">AAFS3----1A----</AM>
 <AM lemma="maximální" src="auto" recommended="1">AAFS4----1A----</AM>
@@ -1938,7 +1938,7 @@
 <AM lemma="roční" src="auto">AAFP1----1A----</AM>
 <AM lemma="roční" src="auto">AAFP4----1A----</AM>
 <AM lemma="roční" src="auto">AAFP5----1A----</AM>
-<AM lemma="roční" src="auto">AAFS1----1A----</AM>
+<AM lemma="roční" src="auto" selected="1">AAFS1----1A----</AM>
 <AM lemma="roční" src="auto">AAFS2----1A----</AM>
 <AM lemma="roční" src="auto">AAFS3----1A----</AM>
 <AM lemma="roční" src="auto" recommended="1">AAFS4----1A----</AM>
@@ -1973,7 +1973,7 @@
 <tag>
 <AM lemma="danit_^(proces_výpočtu_daní)" src="auto">Vi-S---2--A-I--</AM>
 <AM lemma="danit_^(proces_výpočtu_daní)" src="auto">Vi-S---3--A-I-4</AM>
-<AM lemma="daň_^(peněžní/naturální_dávka)" src="auto">NNFS1-----A----</AM>
+<AM lemma="daň_^(peněžní/naturální_dávka)" src="auto" selected="1">NNFS1-----A----</AM>
 <AM lemma="daň_^(peněžní/naturální_dávka)" src="auto" recommended="1">NNFS4-----A----</AM>
 </tag>
 </m>

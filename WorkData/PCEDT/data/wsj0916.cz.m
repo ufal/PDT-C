@@ -231,7 +231,10 @@
 <LM>w#w-wsj0916-001-p1s0W18</LM>
 </w.rf>
 <form>Statistics</form>
-<tag lemma="Statistics" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Statistics" src="auto">X@-------------</AM>
+<AM lemma="Statistics-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0916-001-p1s0W19-Ta">
 <src.rf>tagger-a</src.rf>
@@ -239,7 +242,10 @@
 <LM>w#w-wsj0916-001-p1s0W19</LM>
 </w.rf>
 <form>Canada</form>
-<tag lemma="Canada_;G_;K_;R_,s_^(^DD**Kanada)" src="auto" recommended="1">NNFS1-----A----</tag>
+<tag>
+<AM lemma="Canada_;G_;K_;R_,s_^(^DD**Kanada)" src="auto" recommended="1">NNFS1-----A----</AM>
+<AM lemma="Canada-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0916-001-p1s0W20-Ta">
 <src.rf>tagger-a</src.rf>
@@ -313,7 +319,7 @@
 <AM lemma="jenž_^(kterou_[ve_vedl.větě])" src="auto">PJFS4----------</AM>
 <AM lemma="jenž_^(kteří_[ve_vedl.větě])" src="auto">PJMP1----------</AM>
 <AM lemma="již-1" src="auto" recommended="1">Db-------------</AM>
-<AM lemma="již-2" src="auto">TT-------------</AM>
+<AM lemma="již-2" src="auto" selected="1">TT-------------</AM>
 </tag>
 </m>
 <m id="m-wsj0916-001-p1s1W5-Ta">

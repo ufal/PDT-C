@@ -300,7 +300,10 @@
 <LM>w#w-wsj0198-001-p1s1W2</LM>
 </w.rf>
 <form>Philip</form>
-<tag lemma="Philip_;Y" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Philip_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Philip_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj0198-001-p1s1W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -308,7 +311,10 @@
 <LM>w#w-wsj0198-001-p1s1W3</LM>
 </w.rf>
 <form>Kurland</form>
-<tag lemma="Kurland" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Kurland" src="auto">X@-------------</AM>
+<AM lemma="Kurland_;S" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj0198-001-p1s1W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -381,6 +387,7 @@
 <AM lemma="Laurenc_;Y" src="auto">NNMP4-----A----</AM>
 <AM lemma="Laurenc_;Y" src="auto" recommended="1">NNMS2-----A----</AM>
 <AM lemma="Laurenc_;Y" src="auto">NNMS4-----A----</AM>
+<AM lemma="Laurence_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0198-001-p1s1W9-Ta">
@@ -389,7 +396,10 @@
 <LM>w#w-wsj0198-001-p1s1W9</LM>
 </w.rf>
 <form>Tribe</form>
-<tag lemma="Tribe" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Tribe" src="auto">X@-------------</AM>
+<AM lemma="Tribe_;S" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj0198-001-p1s1W10-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1198,7 +1208,7 @@
 </w.rf>
 <form>tento</form>
 <tag>
-<AM lemma="tento" src="auto">PDIS4----------</AM>
+<AM lemma="tento" src="auto" selected="1">PDIS4----------</AM>
 <AM lemma="tento" src="auto" recommended="1">PDYS1----------</AM>
 </tag>
 </m>
@@ -1212,7 +1222,7 @@
 <AM lemma="postoupit" src="auto">Vi-S---2--A-P--</AM>
 <AM lemma="postoupit" src="auto">Vi-S---3--A-P-4</AM>
 <AM lemma="postup" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="postup" src="auto">NNIS4-----A----</AM>
+<AM lemma="postup" src="auto" selected="1">NNIS4-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0198-001-p1s3W12-Ta">
@@ -1798,6 +1808,7 @@
 <tag>
 <AM lemma="Kennedy" src="auto" recommended="1">NNMS2-----A----</AM>
 <AM lemma="Kennedy" src="auto">NNMS4-----A----</AM>
+<AM lemma="Kennedy_;S" src="manual" selected="1">NNMS2-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0198-001-p1s5W12-Ta">
@@ -2214,7 +2225,10 @@
 <LM>w#w-wsj0198-001-p1s6W11</LM>
 </w.rf>
 <form>Kurland</form>
-<tag lemma="Kurland" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Kurland" src="auto">X@-------------</AM>
+<AM lemma="Kurland_;S" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj0198-001-p1s6W12-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2264,7 +2278,10 @@
 <LM>w#w-wsj0198-001-p1s6W16</LM>
 </w.rf>
 <form>Tribe</form>
-<tag lemma="Tribe" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Tribe" src="auto">X@-------------</AM>
+<AM lemma="Tribe_;S" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj0198-001-p1s6W17-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2969,7 +2986,7 @@
 </w.rf>
 <form>tucet</form>
 <tag>
-<AM lemma="tucet" src="auto">NNIS1-----A----</AM>
+<AM lemma="tucet" src="auto" selected="1">NNIS1-----A----</AM>
 <AM lemma="tucet" src="auto" recommended="1">NNIS4-----A----</AM>
 </tag>
 </m>
@@ -3250,7 +3267,10 @@
 <LM>w#w-wsj0198-001-p1s10W2</LM>
 </w.rf>
 <form>Kennedy</form>
-<tag lemma="Kennedy" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Kennedy" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Kennedy_;S" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj0198-001-p1s10W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3370,7 +3390,7 @@
 <AM lemma="dávající_^(*4t)" src="auto">AGFP4-----A----</AM>
 <AM lemma="dávající_^(*4t)" src="auto">AGFP5-----A----</AM>
 <AM lemma="dávající_^(*4t)" src="auto" recommended="1">AGFS1-----A----</AM>
-<AM lemma="dávající_^(*4t)" src="auto">AGFS2-----A----</AM>
+<AM lemma="dávající_^(*4t)" src="auto" selected="1">AGFS2-----A----</AM>
 <AM lemma="dávající_^(*4t)" src="auto">AGFS3-----A----</AM>
 <AM lemma="dávající_^(*4t)" src="auto">AGFS4-----A----</AM>
 <AM lemma="dávající_^(*4t)" src="auto">AGFS5-----A----</AM>
@@ -3416,7 +3436,7 @@
 <form>pravomoc</form>
 <tag>
 <AM lemma="pravomoc" src="auto" recommended="1">NNFS1-----A----</AM>
-<AM lemma="pravomoc" src="auto">NNFS4-----A----</AM>
+<AM lemma="pravomoc" src="auto" selected="1">NNFS4-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0198-001-p1s10W15-Ta">

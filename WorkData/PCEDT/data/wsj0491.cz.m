@@ -31,6 +31,7 @@
 <AM lemma="Fluora_;R" src="auto">NNFP2-----A----</AM>
 <AM lemma="fluór" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="fluór" src="auto">NNIS4-----A----</AM>
+<AM lemma="Fluor-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj0491-001-p1s0W3-Ta">
@@ -39,7 +40,10 @@
 <LM>w#w-wsj0491-001-p1s0W3</LM>
 </w.rf>
 <form>Corp</form>
-<tag lemma="corp-77_:B" src="auto" recommended="1">F%-------------</tag>
+<tag>
+<AM lemma="corp-77_:B" src="auto" recommended="1">F%-------------</AM>
+<AM lemma="Corp-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0491-001-p1s0W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -348,6 +352,7 @@
 <tag>
 <AM lemma="Irian_;G" src="auto">NNIS1-----A----</AM>
 <AM lemma="Irian_;G" src="auto" recommended="1">NNIS4-----A----</AM>
+<AM lemma="Irian-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj0491-001-p1s0W29-Ta">
@@ -360,6 +365,7 @@
 <AM lemma="Jay_;Y" src="auto">NNMP4-----A----</AM>
 <AM lemma="Jay_;Y" src="auto" recommended="1">NNMS2-----A----</AM>
 <AM lemma="Jay_;Y" src="auto">NNMS4-----A----</AM>
+<AM lemma="Jaye-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj0491-001-p1s0W30-Ta">
@@ -432,6 +438,7 @@
 <tag>
 <AM lemma="Freeport_;G" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Freeport_;G" src="auto">NNIS4-----A----</AM>
+<AM lemma="Freeport-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj0491-001-p1s0W36-Ta">
@@ -448,7 +455,10 @@
 <LM>w#w-wsj0491-001-p1s0W37</LM>
 </w.rf>
 <form>McMoRan</form>
-<tag lemma="McMoRan" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="McMoRan" src="auto">X@-------------</AM>
+<AM lemma="McMoRan-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0491-001-p1s0W38-Ta">
 <src.rf>tagger-a</src.rf>
@@ -461,6 +471,7 @@
 <AM lemma="Copper-1_;G" src="auto">NNIS4-----A----</AM>
 <AM lemma="Copper-2_;S" src="auto">NNMS1-----A----</AM>
 <AM lemma="Copper-3_;G_,t_^(součást_názvu_např._Copper_Harbor)" src="auto" recommended="1">AAXXX----1A----</AM>
+<AM lemma="Copper-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj0491-001-p1s0W39-Ta">
@@ -477,6 +488,7 @@
 <AM lemma="co-4_^(který:_př.:_o_těch,_co_odešli/co_je_znal)" src="auto">P4XXX----------</AM>
 <AM lemma="co-5_^(př._co_nejméně,_co_nevidět,_co_chvíli,_co_do_počtu,_atd.)" src="auto">Db-------------</AM>
 <AM lemma="co-77_:B" src="auto">F%-------------</AM>
+<AM lemma="Co-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj0491-001-p1s0W40-Ta">
@@ -510,6 +522,7 @@
 <AM lemma="Fluora_;R" src="auto">NNFP2-----A----</AM>
 <AM lemma="fluór" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="fluór" src="auto">NNIS4-----A----</AM>
+<AM lemma="Fluor_;K" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0491-001-p1s1W3-Ta">
@@ -589,7 +602,7 @@
 <AM lemma="Kalifornie_;G" src="auto">NNFP1-----A----</AM>
 <AM lemma="Kalifornie_;G" src="auto">NNFP4-----A----</AM>
 <AM lemma="Kalifornie_;G" src="auto">NNFP5-----A----</AM>
-<AM lemma="Kalifornie_;G" src="auto">NNFS1-----A----</AM>
+<AM lemma="Kalifornie_;G" src="auto" selected="1">NNFS1-----A----</AM>
 <AM lemma="Kalifornie_;G" src="auto" recommended="1">NNFS2-----A----</AM>
 <AM lemma="Kalifornie_;G" src="auto">NNFS5-----A----</AM>
 <AM lemma="kalifornie-2_^(druh_vepřovicové_usně)" src="auto">NNFP1-----A----</AM>
@@ -955,6 +968,7 @@
 <AM lemma="Fluora_;R" src="auto">NNFP2-----A----</AM>
 <AM lemma="fluór" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="fluór" src="auto">NNIS4-----A----</AM>
+<AM lemma="Fluor_;K" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0491-001-p1s3W7-Ta">

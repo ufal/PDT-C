@@ -246,7 +246,10 @@
 <LM>w#w-wsj0545-001-p1s0W24</LM>
 </w.rf>
 <form>Statistics</form>
-<tag lemma="Statistics" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Statistics" src="auto">X@-------------</AM>
+<AM lemma="Statistics-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0545-001-p1s0W25-Ta">
 <src.rf>tagger-a</src.rf>
@@ -254,7 +257,10 @@
 <LM>w#w-wsj0545-001-p1s0W25</LM>
 </w.rf>
 <form>Canada</form>
-<tag lemma="Canada_;G_;K_;R_,s_^(^DD**Kanada)" src="auto" recommended="1">NNFS1-----A----</tag>
+<tag>
+<AM lemma="Canada_;G_;K_;R_,s_^(^DD**Kanada)" src="auto" recommended="1">NNFS1-----A----</AM>
+<AM lemma="Canada-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0545-001-p1s0W26-Ta">
 <src.rf>tagger-a</src.rf>
@@ -903,7 +909,10 @@
 <LM>w#w-wsj0545-001-p1s3W1</LM>
 </w.rf>
 <form>Norman</form>
-<tag lemma="Norman-1_;E_;S" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Norman-1_;E_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Norman-1_;E_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj0545-001-p1s3W2-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1047,6 +1056,14 @@
 </w.rf>
 <form>L.</form>
 <tag lemma="L." src="auto">X@-------------</tag>
+<comment>
+<LM type="New Form">
+<text>L</text>
+</LM>
+<LM type="Other">
+<text>špatná tokenizace - nutno rozdělit</text>
+</LM>
+</comment>
 </m>
 <m id="m-wsj0545-001-p1s4W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1057,6 +1074,7 @@
 <tag>
 <AM lemma="Sutton_;G" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Sutton_;G" src="auto">NNIS4-----A----</AM>
+<AM lemma="Sutton-2_;S" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0545-001-p1s4W4-Ta">
@@ -1231,6 +1249,7 @@
 <AM lemma="Kerry_;S" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Kerry_;S" src="auto">NNMS5-----A----</AM>
 <AM lemma="Kerry_;S" src="auto">NNMXX-----A----</AM>
+<AM lemma="Kerry_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0545-001-p1s5W2-Ta">
@@ -1265,7 +1284,10 @@
 <LM>w#w-wsj0545-001-p1s5W4</LM>
 </w.rf>
 <form>Charlet</form>
-<tag lemma="Charlet" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Charlet" src="auto">X@-------------</AM>
+<AM lemma="Charlet_;S" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj0545-001-p1s5W5-Ta">
 <src.rf>tagger-a</src.rf>

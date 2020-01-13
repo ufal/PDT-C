@@ -27,7 +27,10 @@
 <LM>w#w-wsj2143-001-p1s0W2</LM>
 </w.rf>
 <form>Amcore</form>
-<tag lemma="Amcore" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Amcore" src="auto">X@-------------</AM>
+<AM lemma="Amcore-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj2143-001-p1s0W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -35,7 +38,10 @@
 <LM>w#w-wsj2143-001-p1s0W3</LM>
 </w.rf>
 <form>Financial</form>
-<tag lemma="Financial" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Financial" src="auto">X@-------------</AM>
+<AM lemma="Financial-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj2143-001-p1s0W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -46,6 +52,7 @@
 <tag>
 <AM lemma="Inc-77_:B" src="auto" recommended="1">F%-------------</AM>
 <AM lemma="inc-77_:B" src="auto">F%-------------</AM>
+<AM lemma="Inc-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj2143-001-p1s0W5-Ta">
@@ -148,6 +155,7 @@
 <tag>
 <AM lemma="Central_;K" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Central_;K" src="auto">NNIS4-----A----</AM>
+<AM lemma="Central-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj2143-001-p1s0W14-Ta">
@@ -156,7 +164,10 @@
 <LM>w#w-wsj2143-001-p1s0W14</LM>
 </w.rf>
 <form>of</form>
-<tag lemma="of-77_,t" src="auto" recommended="1">F%-------------</tag>
+<tag>
+<AM lemma="of-77_,t" src="auto" recommended="1">F%-------------</AM>
+<AM lemma="of-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj2143-001-p1s0W15-Ta">
 <src.rf>tagger-a</src.rf>
@@ -171,6 +182,7 @@
 <AM lemma="Illinois" src="auto">NNIS7-----A---1</AM>
 <AM lemma="Illinois_;G" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Illinois_;G" src="auto">NNIS4-----A----</AM>
+<AM lemma="Illinois-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj2143-001-p1s0W16-Ta">
@@ -182,6 +194,7 @@
 <tag>
 <AM lemma="Inc-77_:B" src="auto" recommended="1">F%-------------</AM>
 <AM lemma="inc-77_:B" src="auto">F%-------------</AM>
+<AM lemma="Inc-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj2143-001-p1s0W17-Ta">
@@ -201,7 +214,7 @@
 <tag>
 <AM lemma="prostřednictví" src="auto">NNNP3-----A----</AM>
 <AM lemma="prostřednictví" src="auto" recommended="1">NNNS7-----A----</AM>
-<AM lemma="prostřednictvím" src="auto">RR--2----------</AM>
+<AM lemma="prostřednictvím" src="auto" selected="1">RR--2----------</AM>
 </tag>
 </m>
 <m id="m-wsj2143-001-p1s0W19-Ta">
@@ -282,7 +295,7 @@
 <AM lemma="společnost_^(*3ý)" src="auto" recommended="1">NNFP1-----A----</AM>
 <AM lemma="společnost_^(*3ý)" src="auto">NNFP4-----A----</AM>
 <AM lemma="společnost_^(*3ý)" src="auto">NNFP5-----A----</AM>
-<AM lemma="společnost_^(*3ý)" src="auto">NNFS2-----A----</AM>
+<AM lemma="společnost_^(*3ý)" src="auto" selected="1">NNFS2-----A----</AM>
 <AM lemma="společnost_^(*3ý)" src="auto">NNFS3-----A----</AM>
 <AM lemma="společnost_^(*3ý)" src="auto">NNFS5-----A----</AM>
 <AM lemma="společnost_^(*3ý)" src="auto">NNFS6-----A----</AM>
@@ -299,7 +312,7 @@
 <AM lemma="vlastnící_^(někdo_má_něco_ve_vlastnictví)_(*3it)" src="auto">AGFP4-----A----</AM>
 <AM lemma="vlastnící_^(někdo_má_něco_ve_vlastnictví)_(*3it)" src="auto">AGFP5-----A----</AM>
 <AM lemma="vlastnící_^(někdo_má_něco_ve_vlastnictví)_(*3it)" src="auto">AGFS1-----A----</AM>
-<AM lemma="vlastnící_^(někdo_má_něco_ve_vlastnictví)_(*3it)" src="auto">AGFS2-----A----</AM>
+<AM lemma="vlastnící_^(někdo_má_něco_ve_vlastnictví)_(*3it)" src="auto" selected="1">AGFS2-----A----</AM>
 <AM lemma="vlastnící_^(někdo_má_něco_ve_vlastnictví)_(*3it)" src="auto">AGFS3-----A----</AM>
 <AM lemma="vlastnící_^(někdo_má_něco_ve_vlastnictví)_(*3it)" src="auto">AGFS4-----A----</AM>
 <AM lemma="vlastnící_^(někdo_má_něco_ve_vlastnictví)_(*3it)" src="auto">AGFS5-----A----</AM>
@@ -383,6 +396,7 @@
 <AM lemma="sterling" src="auto">NNIS3-----A----</AM>
 <AM lemma="sterling" src="auto">NNIS5-----A----</AM>
 <AM lemma="sterling" src="auto" recommended="1">NNIS6-----A----</AM>
+<AM lemma="Sterling-2_;G" src="manual" selected="1">NNIS6-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2143-001-p1s1W11-Ta">
@@ -456,7 +470,10 @@
 <LM>w#w-wsj2143-001-p1s1W17</LM>
 </w.rf>
 <form>Amcoreu</form>
-<tag lemma="Amcoreu" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Amcoreu" src="auto">X@-------------</AM>
+<AM lemma="Amcore_;K" src="manual" selected="1">NNIS2-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj2143-001-p1s1W18-Ta">
 <src.rf>tagger-a</src.rf>
@@ -574,7 +591,10 @@
 <LM>w#w-wsj2143-001-p1s1W28</LM>
 </w.rf>
 <form>Amcore</form>
-<tag lemma="Amcore" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Amcore" src="auto">X@-------------</AM>
+<AM lemma="Amcore_;K" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj2143-001-p1s1W29-Ta">
 <src.rf>tagger-a</src.rf>
@@ -663,7 +683,7 @@
 </w.rf>
 <form>Central</form>
 <tag>
-<AM lemma="Central_;K" src="auto">NNIS1-----A----</AM>
+<AM lemma="Central_;K" src="auto" selected="1">NNIS1-----A----</AM>
 <AM lemma="Central_;K" src="auto" recommended="1">NNIS4-----A----</AM>
 </tag>
 </m>
@@ -715,7 +735,10 @@
 <LM>w#w-wsj2143-001-p1s3W1</LM>
 </w.rf>
 <form>Amcore</form>
-<tag lemma="Amcore" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Amcore" src="auto">X@-------------</AM>
+<AM lemma="Amcore_;K" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj2143-001-p1s3W2-Ta">
 <src.rf>tagger-a</src.rf>

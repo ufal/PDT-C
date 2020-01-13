@@ -27,7 +27,10 @@
 <LM>w#w-wsj0635-001-p1s0W2</LM>
 </w.rf>
 <form>Ciba</form>
-<tag lemma="Ciba_;S" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Ciba_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Ciba-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0635-001-p1s0W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -43,7 +46,10 @@
 <LM>w#w-wsj0635-001-p1s0W4</LM>
 </w.rf>
 <form>Geigy</form>
-<tag lemma="Geigy" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Geigy" src="auto">X@-------------</AM>
+<AM lemma="Geigy-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0635-001-p1s0W5-Ta">
 <src.rf>tagger-a</src.rf>
@@ -261,6 +267,7 @@
 <tag>
 <AM lemma="Corning_;G" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Corning_;G" src="auto">NNIS4-----A----</AM>
+<AM lemma="Corning-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj0635-001-p1s0W22-Ta">
@@ -272,6 +279,7 @@
 <tag>
 <AM lemma="Inc-77_:B" src="auto" recommended="1">F%-------------</AM>
 <AM lemma="inc-77_:B" src="auto">F%-------------</AM>
+<AM lemma="Inc-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj0635-001-p1s0W23-Ta">
@@ -372,7 +380,10 @@
 <LM>w#w-wsj0635-001-p1s0W31</LM>
 </w.rf>
 <form>Ciba</form>
-<tag lemma="Ciba_;S" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Ciba_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Ciba-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0635-001-p1s0W32-Ta">
 <src.rf>tagger-a</src.rf>
@@ -383,6 +394,7 @@
 <tag>
 <AM lemma="Corning_;G" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Corning_;G" src="auto">NNIS4-----A----</AM>
+<AM lemma="Corning-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj0635-001-p1s0W33-Ta">
@@ -391,7 +403,10 @@
 <LM>w#w-wsj0635-001-p1s0W33</LM>
 </w.rf>
 <form>Diagnostics</form>
-<tag lemma="Diagnostics" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Diagnostics" src="auto">X@-------------</AM>
+<AM lemma="Diagnostics-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0635-001-p1s0W34-Ta">
 <src.rf>tagger-a</src.rf>
@@ -399,7 +414,10 @@
 <LM>w#w-wsj0635-001-p1s0W34</LM>
 </w.rf>
 <form>Corp</form>
-<tag lemma="corp-77_:B" src="auto" recommended="1">F%-------------</tag>
+<tag>
+<AM lemma="corp-77_:B" src="auto" recommended="1">F%-------------</AM>
+<AM lemma="Corp-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0635-001-p1s0W35-Ta">
 <src.rf>tagger-a</src.rf>
@@ -449,7 +467,10 @@
 <LM>w#w-wsj0635-001-p1s0W39</LM>
 </w.rf>
 <form>Medfieldu</form>
-<tag lemma="Medfieldu" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Medfieldu" src="auto">X@-------------</AM>
+<AM lemma="Medfield_;G" src="manual" selected="1">NNIS6-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj0635-001-p1s0W40-Ta">
 <src.rf>tagger-a</src.rf>
@@ -476,7 +497,15 @@
 <LM>w#w-wsj0635-001-p1s0W42</LM>
 </w.rf>
 <form>Massachussets</form>
-<tag lemma="Massachussets" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Massachussets" src="auto">X@-------------</AM>
+<AM lemma="Massachussets_;G" src="manual">NNXXX-----A----</AM>
+</tag>
+<comment>
+<LM type="New Form">
+<text>Massachusetts</text>
+</LM>
+</comment>
 </m>
 <m id="m-wsj0635-001-p1s0W43-Ta">
 <src.rf>tagger-a</src.rf>
@@ -534,6 +563,7 @@
 <tag>
 <AM lemma="Corning_;G" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Corning_;G" src="auto">NNIS4-----A----</AM>
+<AM lemma="Corning_;G_;K" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0635-001-p1s0W48-Ta">
@@ -641,7 +671,10 @@
 <LM>w#w-wsj0635-001-p1s1W8</LM>
 </w.rf>
 <form>Ciba</form>
-<tag lemma="Ciba_;S" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Ciba_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Ciba-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0635-001-p1s1W9-Ta">
 <src.rf>tagger-a</src.rf>
@@ -652,6 +685,7 @@
 <tag>
 <AM lemma="Corning_;G" src="auto">NNIS1-----A----</AM>
 <AM lemma="Corning_;G" src="auto" recommended="1">NNIS4-----A----</AM>
+<AM lemma="Corning-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj0635-001-p1s1W10-Ta">
@@ -669,7 +703,7 @@
 </w.rf>
 <form>podnik</form>
 <tag>
-<AM lemma="podnik" src="auto">NNIS1-----A----</AM>
+<AM lemma="podnik" src="auto" selected="1">NNIS1-----A----</AM>
 <AM lemma="podnik" src="auto" recommended="1">NNIS4-----A----</AM>
 <AM lemma="podniknout" src="auto">VpYS---XR-AAP-6</AM>
 </tag>
@@ -692,7 +726,7 @@
 <AM lemma="který" src="auto">P4FS2---------6</AM>
 <AM lemma="který" src="auto">P4FS3---------6</AM>
 <AM lemma="který" src="auto">P4FS6---------6</AM>
-<AM lemma="který" src="auto">P4IS4----------</AM>
+<AM lemma="který" src="auto" selected="1">P4IS4----------</AM>
 <AM lemma="který" src="auto">P4NS1---------6</AM>
 <AM lemma="který" src="auto">P4NS4---------6</AM>
 <AM lemma="který" src="auto">P4XP1---------6</AM>
@@ -758,7 +792,7 @@
 <form>vlastní</form>
 <tag>
 <AM lemma="vlastnit_^(někdo_má_něco_ve_vlastnictví)" src="auto">VB-P---3P-AAI--</AM>
-<AM lemma="vlastnit_^(někdo_má_něco_ve_vlastnictví)" src="auto">VB-S---3P-AAI--</AM>
+<AM lemma="vlastnit_^(někdo_má_něco_ve_vlastnictví)" src="auto" selected="1">VB-S---3P-AAI--</AM>
 <AM lemma="vlastní_^(příslušný_k_něčemu)" src="auto">AAFP1----1A----</AM>
 <AM lemma="vlastní_^(příslušný_k_něčemu)" src="auto">AAFP4----1A----</AM>
 <AM lemma="vlastní_^(příslušný_k_něčemu)" src="auto">AAFP5----1A----</AM>
@@ -795,7 +829,7 @@
 </w.rf>
 <form>společnost</form>
 <tag>
-<AM lemma="společnost_^(*3ý)" src="auto">NNFS1-----A----</AM>
+<AM lemma="společnost_^(*3ý)" src="auto" selected="1">NNFS1-----A----</AM>
 <AM lemma="společnost_^(*3ý)" src="auto" recommended="1">NNFS4-----A----</AM>
 </tag>
 </m>
@@ -805,7 +839,10 @@
 <LM>w#w-wsj0635-001-p1s1W21</LM>
 </w.rf>
 <form>Ciba</form>
-<tag lemma="Ciba_;S" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Ciba_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Ciba-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0635-001-p1s1W22-Ta">
 <src.rf>tagger-a</src.rf>
@@ -821,7 +858,10 @@
 <LM>w#w-wsj0635-001-p1s1W23</LM>
 </w.rf>
 <form>Geigy</form>
-<tag lemma="Geigy" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Geigy" src="auto">X@-------------</AM>
+<AM lemma="Geigy-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0635-001-p1s1W24-Ta">
 <src.rf>tagger-a</src.rf>
@@ -833,7 +873,7 @@
 <AM lemma="sídlící_^(*3it)" src="auto">AGFP1-----A----</AM>
 <AM lemma="sídlící_^(*3it)" src="auto">AGFP4-----A----</AM>
 <AM lemma="sídlící_^(*3it)" src="auto">AGFP5-----A----</AM>
-<AM lemma="sídlící_^(*3it)" src="auto">AGFS1-----A----</AM>
+<AM lemma="sídlící_^(*3it)" src="auto" selected="1">AGFS1-----A----</AM>
 <AM lemma="sídlící_^(*3it)" src="auto">AGFS2-----A----</AM>
 <AM lemma="sídlící_^(*3it)" src="auto">AGFS3-----A----</AM>
 <AM lemma="sídlící_^(*3it)" src="auto">AGFS4-----A----</AM>
@@ -921,6 +961,7 @@
 <tag>
 <AM lemma="Corning_;G" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Corning_;G" src="auto">NNIS4-----A----</AM>
+<AM lemma="Corning_;G_;K" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0635-001-p1s1W30-Ta">
@@ -1133,7 +1174,10 @@
 <LM>w#w-wsj0635-001-p1s3W2</LM>
 </w.rf>
 <form>Ciba</form>
-<tag lemma="Ciba_;S" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Ciba_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Ciba-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0635-001-p1s3W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1144,6 +1188,7 @@
 <tag>
 <AM lemma="Corning_;G" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Corning_;G" src="auto">NNIS4-----A----</AM>
+<AM lemma="Corning-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj0635-001-p1s3W4-Ta">
@@ -1670,7 +1715,10 @@
 <LM>w#w-wsj0635-001-p1s5W2</LM>
 </w.rf>
 <form>Ciba</form>
-<tag lemma="Ciba_;S" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Ciba_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Ciba-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0635-001-p1s5W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1686,7 +1734,10 @@
 <LM>w#w-wsj0635-001-p1s5W4</LM>
 </w.rf>
 <form>Geigy</form>
-<tag lemma="Geigy" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Geigy" src="auto">X@-------------</AM>
+<AM lemma="Geigy-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0635-001-p1s5W5-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1727,7 +1778,10 @@
 <LM>w#w-wsj0635-001-p1s5W8</LM>
 </w.rf>
 <form>Ciba</form>
-<tag lemma="Ciba_;S" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Ciba_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Ciba-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0635-001-p1s5W9-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1738,6 +1792,7 @@
 <tag>
 <AM lemma="Corning_;G" src="auto">NNIS1-----A----</AM>
 <AM lemma="Corning_;G" src="auto" recommended="1">NNIS4-----A----</AM>
+<AM lemma="Corning-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj0635-001-p1s5W10-Ta">
@@ -1987,7 +2042,10 @@
 <LM>w#w-wsj0635-001-p1s5W28</LM>
 </w.rf>
 <form>Ciba</form>
-<tag lemma="Ciba_;S" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Ciba_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Ciba-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0635-001-p1s5W29-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2003,7 +2061,10 @@
 <LM>w#w-wsj0635-001-p1s5W30</LM>
 </w.rf>
 <form>Geigy</form>
-<tag lemma="Geigy" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Geigy" src="auto">X@-------------</AM>
+<AM lemma="Geigy-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0635-001-p1s5W31-Ta">
 <src.rf>tagger-a</src.rf>

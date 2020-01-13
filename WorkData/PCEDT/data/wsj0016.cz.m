@@ -450,7 +450,7 @@
 <tag>
 <AM lemma="vzrůst-1" src="auto" recommended="1">Vf--------A-P--</AM>
 <AM lemma="vzrůst-2" src="auto">NNIS1-----A----</AM>
-<AM lemma="vzrůst-2" src="auto">NNIS4-----A----</AM>
+<AM lemma="vzrůst-2" src="auto" selected="1">NNIS4-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0016-001-p1s0W31-Ta">
@@ -590,7 +590,7 @@
 </w.rf>
 <form>srpnovém</form>
 <tag>
-<AM lemma="srpnový" src="auto">AAIS6----1A----</AM>
+<AM lemma="srpnový" src="auto" selected="1">AAIS6----1A----</AM>
 <AM lemma="srpnový" src="auto">AAMS6----1A----</AM>
 <AM lemma="srpnový" src="auto" recommended="1">AANS6----1A----</AM>
 </tag>
@@ -661,7 +661,7 @@
 <form>nárůstu</form>
 <tag>
 <AM lemma="nárůst" src="auto" recommended="1">NNIS2-----A----</AM>
-<AM lemma="nárůst" src="auto">NNIS3-----A----</AM>
+<AM lemma="nárůst" src="auto" selected="1">NNIS3-----A----</AM>
 <AM lemma="nárůst" src="auto">NNIS6-----A----</AM>
 </tag>
 </m>
@@ -775,7 +775,7 @@
 <form>rekordy</form>
 <tag>
 <AM lemma="rekord" src="auto">NNIP1-----A----</AM>
-<AM lemma="rekord" src="auto">NNIP4-----A----</AM>
+<AM lemma="rekord" src="auto" selected="1">NNIP4-----A----</AM>
 <AM lemma="rekord" src="auto">NNIP5-----A----</AM>
 <AM lemma="rekord" src="auto" recommended="1">NNIP7-----A----</AM>
 </tag>
@@ -1154,7 +1154,7 @@
 <tag>
 <AM lemma="prodat" src="auto">Vi-S---2--A-P--</AM>
 <AM lemma="prodat" src="auto">Vi-S---3--A-P-4</AM>
-<AM lemma="prodej_^(akt_prodeje_zboží)" src="auto">NNIS1-----A----</AM>
+<AM lemma="prodej_^(akt_prodeje_zboží)" src="auto" selected="1">NNIS1-----A----</AM>
 <AM lemma="prodej_^(akt_prodeje_zboží)" src="auto" recommended="1">NNIS4-----A----</AM>
 </tag>
 </m>
@@ -1212,7 +1212,7 @@
 <form>která</form>
 <tag>
 <AM lemma="který" src="auto">P4FS1----------</AM>
-<AM lemma="který" src="auto">P4NP1----------</AM>
+<AM lemma="který" src="auto" selected="1">P4NP1----------</AM>
 <AM lemma="který" src="auto" recommended="1">P4NP4----------</AM>
 </tag>
 </m>

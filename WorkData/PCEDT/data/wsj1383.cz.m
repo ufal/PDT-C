@@ -27,7 +27,10 @@
 <LM>w#w-wsj1383-001-p1s0W2</LM>
 </w.rf>
 <form>Rhone</form>
-<tag lemma="Rhone" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Rhone" src="auto">X@-------------</AM>
+<AM lemma="Rhone-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1383-001-p1s0W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -43,7 +46,10 @@
 <LM>w#w-wsj1383-001-p1s0W4</LM>
 </w.rf>
 <form>Poulenc</form>
-<tag lemma="Poulenc_;S" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Poulenc_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Poulenc-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1383-001-p1s0W5-Ta">
 <src.rf>tagger-a</src.rf>
@@ -235,7 +241,10 @@
 <LM>w#w-wsj1383-001-p1s0W20</LM>
 </w.rf>
 <form>RTZ</form>
-<tag lemma="RTZ" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="RTZ" src="auto">X@-------------</AM>
+<AM lemma="RTZ-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj1383-001-p1s0W21-Ta">
 <src.rf>tagger-a</src.rf>
@@ -243,7 +252,10 @@
 <LM>w#w-wsj1383-001-p1s0W21</LM>
 </w.rf>
 <form>Corp</form>
-<tag lemma="corp-77_:B" src="auto" recommended="1">F%-------------</tag>
+<tag>
+<AM lemma="corp-77_:B" src="auto" recommended="1">F%-------------</AM>
+<AM lemma="Corp-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1383-001-p1s0W22-Ta">
 <src.rf>tagger-a</src.rf>
@@ -398,7 +410,10 @@
 <LM>w#w-wsj1383-001-p1s1W2</LM>
 </w.rf>
 <form>Rhone</form>
-<tag lemma="Rhone" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Rhone" src="auto">X@-------------</AM>
+<AM lemma="Rhone-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1383-001-p1s1W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -414,7 +429,10 @@
 <LM>w#w-wsj1383-001-p1s1W4</LM>
 </w.rf>
 <form>Poulenc</form>
-<tag lemma="Poulenc_;S" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Poulenc_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Poulenc-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1383-001-p1s1W5-Ta">
 <src.rf>tagger-a</src.rf>
@@ -529,7 +547,10 @@
 <LM>w#w-wsj1383-001-p1s1W15</LM>
 </w.rf>
 <form>RTZ</form>
-<tag lemma="RTZ" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="RTZ" src="auto">X@-------------</AM>
+<AM lemma="RTZ-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj1383-001-p1s1W16-Ta">
 <src.rf>tagger-a</src.rf>
@@ -537,7 +558,10 @@
 <LM>w#w-wsj1383-001-p1s1W16</LM>
 </w.rf>
 <form>Chemicals</form>
-<tag lemma="Chemicals" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Chemicals" src="auto">X@-------------</AM>
+<AM lemma="Chemicals-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1383-001-p1s1W17-Ta">
 <src.rf>tagger-a</src.rf>
@@ -672,7 +696,7 @@
 <AM lemma="transakce" src="auto">NNFP4-----A----</AM>
 <AM lemma="transakce" src="auto">NNFP5-----A----</AM>
 <AM lemma="transakce" src="auto" recommended="1">NNFS1-----A----</AM>
-<AM lemma="transakce" src="auto">NNFS2-----A----</AM>
+<AM lemma="transakce" src="auto" selected="1">NNFS2-----A----</AM>
 <AM lemma="transakce" src="auto">NNFS5-----A----</AM>
 </tag>
 </m>

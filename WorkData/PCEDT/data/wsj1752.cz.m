@@ -27,7 +27,10 @@
 <LM>w#w-wsj1752-001-p1s0W2</LM>
 </w.rf>
 <form>Storage</form>
-<tag lemma="Storage" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Storage" src="auto">X@-------------</AM>
+<AM lemma="Storage-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1752-001-p1s0W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -39,6 +42,7 @@
 <AM lemma="technolog" src="auto">NNMP4-----A----</AM>
 <AM lemma="technolog" src="auto">NNMP7-----A----</AM>
 <AM lemma="technology-77" src="auto" recommended="1">F%-------------</AM>
+<AM lemma="Technology-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1752-001-p1s0W4-Ta">
@@ -47,7 +51,10 @@
 <LM>w#w-wsj1752-001-p1s0W4</LM>
 </w.rf>
 <form>Corp</form>
-<tag lemma="corp-77_:B" src="auto" recommended="1">F%-------------</tag>
+<tag>
+<AM lemma="corp-77_:B" src="auto" recommended="1">F%-------------</AM>
+<AM lemma="Corp-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1752-001-p1s0W5-Ta">
 <src.rf>tagger-a</src.rf>
@@ -430,7 +437,15 @@
 <LM>w#w-wsj1752-001-p1s0W33</LM>
 </w.rf>
 <form>15krát</form>
-<tag lemma="15krát" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="15krát" src="auto">X@-------------</AM>
+<AM lemma="15krát`15" src="manual" selected="1">Cv-------------</AM>
+</tag>
+<comment>
+<LM type="Other">
+<text>špatná tokenizace</text>
+</LM>
+</comment>
 </m>
 <m id="m-wsj1752-001-p1s0W34-Ta">
 <src.rf>tagger-a</src.rf>
@@ -491,7 +506,7 @@
 </w.rf>
 <form>dva</form>
 <tag>
-<AM lemma="dva`2" src="auto">ClYP1----------</AM>
+<AM lemma="dva`2" src="auto" selected="1">ClYP1----------</AM>
 <AM lemma="dva`2" src="auto" recommended="1">ClYP4----------</AM>
 <AM lemma="dva`2" src="auto">ClYP5----------</AM>
 </tag>
@@ -503,7 +518,7 @@
 </w.rf>
 <form>centy</form>
 <tag>
-<AM lemma="cent" src="auto">NNIP1-----A----</AM>
+<AM lemma="cent" src="auto" selected="1">NNIP1-----A----</AM>
 <AM lemma="cent" src="auto" recommended="1">NNIP4-----A----</AM>
 <AM lemma="cent" src="auto">NNIP5-----A----</AM>
 <AM lemma="cent" src="auto">NNIP7-----A----</AM>
@@ -558,7 +573,7 @@
 <AM lemma="který" src="auto">P4NP4---------6</AM>
 <AM lemma="který" src="auto">P4NS1----------</AM>
 <AM lemma="který" src="auto">P4NS4----------</AM>
-<AM lemma="který" src="auto">P4YP4----------</AM>
+<AM lemma="který" src="auto" selected="1">P4YP4----------</AM>
 </tag>
 </m>
 <m id="m-wsj1752-001-p1s0W46-Ta">
@@ -682,7 +697,10 @@
 <LM>w#w-wsj1752-001-p1s1W2</LM>
 </w.rf>
 <form>Storage</form>
-<tag lemma="Storage" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Storage" src="auto">X@-------------</AM>
+<AM lemma="Storage_;K" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj1752-001-p1s1W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1166,7 +1184,10 @@
 <LM>w#w-wsj1752-001-p1s1W39</LM>
 </w.rf>
 <form>Automated</form>
-<tag lemma="Automated" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Automated" src="auto">X@-------------</AM>
+<AM lemma="Automated-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1752-001-p1s1W40-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1181,6 +1202,7 @@
 <AM lemma="cartridge" src="auto">NNFS1-----A----</AM>
 <AM lemma="cartridge" src="auto" recommended="1">NNFS2-----A----</AM>
 <AM lemma="cartridge" src="auto">NNFS5-----A----</AM>
+<AM lemma="Cartridge-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1752-001-p1s1W41-Ta">
@@ -1192,6 +1214,7 @@
 <tag>
 <AM lemma="System_;S" src="auto">NNMS1-----A----</AM>
 <AM lemma="systém" src="auto" recommended="1">NNIXX-----A----</AM>
+<AM lemma="System-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1752-001-p1s1W42-Ta">
@@ -2011,7 +2034,10 @@
 <LM>w#w-wsj1752-001-p1s5W11</LM>
 </w.rf>
 <form>Storage</form>
-<tag lemma="Storage" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Storage" src="auto">X@-------------</AM>
+<AM lemma="Storage_;K" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj1752-001-p1s5W12-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2216,7 +2242,10 @@
 <LM>w#w-wsj1752-001-p1s6W7</LM>
 </w.rf>
 <form>Storage</form>
-<tag lemma="Storage" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Storage" src="auto">X@-------------</AM>
+<AM lemma="Storage_;K" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj1752-001-p1s6W8-Ta">
 <src.rf>tagger-a</src.rf>

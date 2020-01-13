@@ -457,6 +457,7 @@
 <AM lemma="visum_,s_^(cest._formalita)_(^DD**vízum)" src="auto">NNNP4-----A----</AM>
 <AM lemma="visum_,s_^(cest._formalita)_(^DD**vízum)" src="auto">NNNP5-----A----</AM>
 <AM lemma="visum_,s_^(cest._formalita)_(^DD**vízum)" src="auto">NNNS2-----A----</AM>
+<AM lemma="Visa_;K_;R" src="manual" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0710-001-p1s1W15-Ta">
@@ -468,7 +469,7 @@
 <tag>
 <AM lemma="účet" src="auto" recommended="1">NNIS2-----A----</AM>
 <AM lemma="účet" src="auto">NNIS3-----A----</AM>
-<AM lemma="účet" src="auto">NNIS6-----A----</AM>
+<AM lemma="účet" src="auto" selected="1">NNIS6-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0710-001-p1s1W16-Ta">
@@ -764,6 +765,7 @@
 <AM lemma="být" src="auto">VB-S---3P-AAI--</AM>
 <AM lemma="on-1_^(oni/ono)" src="auto">PPNS4--3-------</AM>
 <AM lemma="on-1_^(oni/ono)" src="auto" recommended="1">PPXP4--3-------</AM>
+<AM lemma="oni-1" src="manual" selected="1">PPXP4--3-------</AM>
 </tag>
 </m>
 <m id="m-wsj0710-001-p1s1W37-Ta">
@@ -798,7 +800,10 @@
 <LM>w#w-wsj0710-001-p1s2W2</LM>
 </w.rf>
 <form>Jolivet</form>
-<tag lemma="Jolivet" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Jolivet" src="auto">X@-------------</AM>
+<AM lemma="Jolivet_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj0710-001-p1s2W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -806,7 +811,10 @@
 <LM>w#w-wsj0710-001-p1s2W3</LM>
 </w.rf>
 <form>Kenmore</form>
-<tag lemma="Kenmore" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Kenmore" src="auto">X@-------------</AM>
+<AM lemma="Kenmore_;S" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj0710-001-p1s2W4-Ta">
 <src.rf>tagger-a</src.rf>

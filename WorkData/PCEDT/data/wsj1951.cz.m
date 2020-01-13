@@ -32,6 +32,7 @@
 <AM lemma="par_^(počet_ran_v_golfu)_(v_golfu)" src="auto">NNIS4-----A----</AM>
 <AM lemma="paragraf_:B" src="auto">NNIXX-----A---8</AM>
 <AM lemma="pára" src="auto">NNFP2-----A----</AM>
+<AM lemma="Par-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1951-001-p1s0W3-Ta">
@@ -40,7 +41,10 @@
 <LM>w#w-wsj1951-001-p1s0W3</LM>
 </w.rf>
 <form>Pharmaceutical</form>
-<tag lemma="Pharmaceutical" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Pharmaceutical" src="auto">X@-------------</AM>
+<AM lemma="Pharmaceutical-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1951-001-p1s0W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -51,6 +55,7 @@
 <tag>
 <AM lemma="Inc-77_:B" src="auto" recommended="1">F%-------------</AM>
 <AM lemma="inc-77_:B" src="auto">F%-------------</AM>
+<AM lemma="Inc-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1951-001-p1s0W5-Ta">
@@ -212,6 +217,7 @@
 <tag>
 <AM lemma="Kenneth_;Y_,t" src="auto">NNMS2-----A----</AM>
 <AM lemma="Kenneth_;Y_,t" src="auto" recommended="1">NNMS4-----A----</AM>
+<AM lemma="Kenneth_;Y" src="manual" selected="1">NNMS4-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1951-001-p1s0W20-Ta">
@@ -247,7 +253,7 @@
 <form>Sawyera</form>
 <tag>
 <AM lemma="Sawyer_;S" src="auto" recommended="1">NNMS2-----A----</AM>
-<AM lemma="Sawyer_;S" src="auto">NNMS4-----A----</AM>
+<AM lemma="Sawyer_;S" src="auto" selected="1">NNMS4-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1951-001-p1s0W23-Ta">
@@ -345,6 +351,7 @@
 <AM lemma="par_^(počet_ran_v_golfu)_(v_golfu)" src="auto">NNIS4-----A----</AM>
 <AM lemma="paragraf_:B" src="auto">NNIXX-----A---8</AM>
 <AM lemma="pára" src="auto">NNFP2-----A----</AM>
+<AM lemma="Par_;K" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1951-001-p1s1W3-Ta">
@@ -842,6 +849,7 @@
 <AM lemma="par_^(počet_ran_v_golfu)_(v_golfu)" src="auto">NNIS4-----A----</AM>
 <AM lemma="paragraf_:B" src="auto">NNIXX-----A---8</AM>
 <AM lemma="pára" src="auto">NNFP2-----A----</AM>
+<AM lemma="Par_;K" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1951-001-p1s2W3-Ta">
@@ -1105,7 +1113,7 @@
 <AM lemma="vyšetřování_^(*3at)" src="auto">NNNS3-----A----</AM>
 <AM lemma="vyšetřování_^(*3at)" src="auto">NNNS4-----A----</AM>
 <AM lemma="vyšetřování_^(*3at)" src="auto">NNNS5-----A----</AM>
-<AM lemma="vyšetřování_^(*3at)" src="auto">NNNS6-----A----</AM>
+<AM lemma="vyšetřování_^(*3at)" src="auto" selected="1">NNNS6-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1951-001-p1s2W24-Ta">
@@ -1263,6 +1271,7 @@
 <AM lemma="par_^(počet_ran_v_golfu)_(v_golfu)" src="auto">NNIS4-----A----</AM>
 <AM lemma="paragraf_:B" src="auto">NNIXX-----A---8</AM>
 <AM lemma="pára" src="auto">NNFP2-----A----</AM>
+<AM lemma="Par_;K" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1951-001-p1s3W5-Ta">
@@ -1417,7 +1426,7 @@
 </w.rf>
 <form>odhaleným</form>
 <tag>
-<AM lemma="odhalený_^(*3it)" src="auto">AAFP3----1A----</AM>
+<AM lemma="odhalený_^(*3it)" src="auto" selected="1">AAFP3----1A----</AM>
 <AM lemma="odhalený_^(*3it)" src="auto">AAIP3----1A----</AM>
 <AM lemma="odhalený_^(*3it)" src="auto">AAIS6----1A---7</AM>
 <AM lemma="odhalený_^(*3it)" src="auto">AAIS7----1A----</AM>
@@ -1494,6 +1503,7 @@
 <AM lemma="par_^(počet_ran_v_golfu)_(v_golfu)" src="auto">NNIS4-----A----</AM>
 <AM lemma="paragraf_:B" src="auto" recommended="1">NNIXX-----A---8</AM>
 <AM lemma="pára" src="auto">NNFP2-----A----</AM>
+<AM lemma="Par_;K" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1951-001-p1s3W25-Ta">
@@ -2272,6 +2282,7 @@
 <AM lemma="par_^(počet_ran_v_golfu)_(v_golfu)" src="auto">NNIS4-----A----</AM>
 <AM lemma="paragraf_:B" src="auto" recommended="1">NNIXX-----A---8</AM>
 <AM lemma="pára" src="auto">NNFP2-----A----</AM>
+<AM lemma="Par_;K" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1951-001-p1s7W3-Ta">
@@ -2404,6 +2415,7 @@
 <tag>
 <AM lemma="Ashok_;K" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Ashok_;K" src="auto">NNIS4-----A----</AM>
+<AM lemma="Ashok-2_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1951-001-p1s8W5-Ta">
@@ -2492,6 +2504,7 @@
 <AM lemma="par_^(počet_ran_v_golfu)_(v_golfu)" src="auto">NNIS4-----A----</AM>
 <AM lemma="paragraf_:B" src="auto">NNIXX-----A---8</AM>
 <AM lemma="pára" src="auto">NNFP2-----A----</AM>
+<AM lemma="Par_;K" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1951-001-p1s8W11-Ta">
@@ -2843,7 +2856,7 @@
 </w.rf>
 <form>pokutě</form>
 <tag>
-<AM lemma="pokuta" src="auto">NNFS3-----A----</AM>
+<AM lemma="pokuta" src="auto" selected="1">NNFS3-----A----</AM>
 <AM lemma="pokuta" src="auto" recommended="1">NNFS6-----A----</AM>
 </tag>
 </m>
@@ -3040,7 +3053,7 @@
 <form>hlavního</form>
 <tag>
 <AM lemma="hlavní" src="auto">AAIS2----1A----</AM>
-<AM lemma="hlavní" src="auto">AAMS2----1A----</AM>
+<AM lemma="hlavní" src="auto" selected="1">AAMS2----1A----</AM>
 <AM lemma="hlavní" src="auto" recommended="1">AAMS4----1A----</AM>
 <AM lemma="hlavní" src="auto">AANS2----1A----</AM>
 </tag>
@@ -3052,7 +3065,7 @@
 </w.rf>
 <form>viceprezidenta</form>
 <tag>
-<AM lemma="viceprezident" src="auto">NNMS2-----A----</AM>
+<AM lemma="viceprezident" src="auto" selected="1">NNMS2-----A----</AM>
 <AM lemma="viceprezident" src="auto" recommended="1">NNMS4-----A----</AM>
 </tag>
 </m>
@@ -3083,6 +3096,7 @@
 <AM lemma="par_^(počet_ran_v_golfu)_(v_golfu)" src="auto">NNIS4-----A----</AM>
 <AM lemma="paragraf_:B" src="auto">NNIXX-----A---8</AM>
 <AM lemma="pára" src="auto">NNFP2-----A----</AM>
+<AM lemma="Par_;K" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1951-001-p1s10W9-Ta">
@@ -3174,6 +3188,7 @@
 <AM lemma="par_^(počet_ran_v_golfu)_(v_golfu)" src="auto">NNIS4-----A----</AM>
 <AM lemma="paragraf_:B" src="auto">NNIXX-----A---8</AM>
 <AM lemma="pára" src="auto">NNFP2-----A----</AM>
+<AM lemma="Par_;K" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1951-001-p1s11W5-Ta">
@@ -3253,7 +3268,7 @@
 <form>vlastní</form>
 <tag>
 <AM lemma="vlastnit_^(někdo_má_něco_ve_vlastnictví)" src="auto">VB-P---3P-AAI--</AM>
-<AM lemma="vlastnit_^(někdo_má_něco_ve_vlastnictví)" src="auto">VB-S---3P-AAI--</AM>
+<AM lemma="vlastnit_^(někdo_má_něco_ve_vlastnictví)" src="auto" selected="1">VB-S---3P-AAI--</AM>
 <AM lemma="vlastní_^(příslušný_k_něčemu)" src="auto">AAFP1----1A----</AM>
 <AM lemma="vlastní_^(příslušný_k_něčemu)" src="auto">AAFP4----1A----</AM>
 <AM lemma="vlastní_^(příslušný_k_něčemu)" src="auto">AAFP5----1A----</AM>
@@ -3483,6 +3498,7 @@
 <AM lemma="par_^(počet_ran_v_golfu)_(v_golfu)" src="auto">NNIS4-----A----</AM>
 <AM lemma="paragraf_:B" src="auto">NNIXX-----A---8</AM>
 <AM lemma="pára" src="auto">NNFP2-----A----</AM>
+<AM lemma="Par_;K" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1951-001-p1s11W27-Ta">
@@ -3624,6 +3640,7 @@
 <AM lemma="par_^(počet_ran_v_golfu)_(v_golfu)" src="auto">NNIS4-----A----</AM>
 <AM lemma="paragraf_:B" src="auto" recommended="1">NNIXX-----A---8</AM>
 <AM lemma="pára" src="auto">NNFP2-----A----</AM>
+<AM lemma="Par_;K" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1951-001-p1s13W3-Ta">
@@ -3878,6 +3895,7 @@
 <AM lemma="par_^(počet_ran_v_golfu)_(v_golfu)" src="auto">NNIS4-----A----</AM>
 <AM lemma="paragraf_:B" src="auto">NNIXX-----A---8</AM>
 <AM lemma="pára" src="auto">NNFP2-----A----</AM>
+<AM lemma="Par_;K" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1951-001-p1s13W25-Ta">

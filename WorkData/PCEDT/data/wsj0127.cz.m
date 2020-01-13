@@ -24,7 +24,10 @@
 <LM>w#w-wsj0127-001-p1s0W2</LM>
 </w.rf>
 <form>Reed</form>
-<tag lemma="Reed_;S" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Reed_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Reed-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0127-001-p1s0W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -33,7 +36,7 @@
 </w.rf>
 <form>International</form>
 <tag>
-<AM lemma="International-77" src="auto" recommended="1">F%-------------</AM>
+<AM lemma="International-77" src="auto" recommended="1" selected="1">F%-------------</AM>
 <AM lemma="International_,t" src="auto">NNISX-----A----</AM>
 <AM lemma="international-77_,t" src="auto">F%-------------</AM>
 </tag>
@@ -44,7 +47,10 @@
 <LM>w#w-wsj0127-001-p1s0W4</LM>
 </w.rf>
 <form>PLC</form>
-<tag lemma="PLC-88_:B" src="auto" recommended="1">NNXXX-----A----</tag>
+<tag>
+<AM lemma="PLC-88_:B" src="auto" recommended="1">NNXXX-----A----</AM>
+<AM lemma="PLC-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0127-001-p1s0W5-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1343,7 +1349,10 @@
 <LM>w#w-wsj0127-001-p1s3W12</LM>
 </w.rf>
 <form>loni</form>
-<tag lemma="vloni_,s_^(^DD**vloni)" src="auto" recommended="1">Db-------------</tag>
+<tag>
+<AM lemma="vloni_,s_^(^DD**vloni)" src="auto" recommended="1">Db-------------</AM>
+<AM lemma="loni_,s_^(^DD**vloni)" src="manual" selected="1">Db-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0127-001-p1s3W13-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1371,7 +1380,7 @@
 <AM lemma="milion`1000000_,s_^(^DD**milión)" src="auto" recommended="1">NNIP1-----A----</AM>
 <AM lemma="milion`1000000_,s_^(^DD**milión)" src="auto">NNIP4-----A----</AM>
 <AM lemma="milion`1000000_,s_^(^DD**milión)" src="auto">NNIP5-----A----</AM>
-<AM lemma="milion`1000000_,s_^(^DD**milión)" src="auto">NNIP7-----A----</AM>
+<AM lemma="milion`1000000_,s_^(^DD**milión)" src="auto" selected="1">NNIP7-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0127-001-p1s3W16-Ta">

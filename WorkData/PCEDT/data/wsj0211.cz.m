@@ -27,7 +27,10 @@
 <LM>w#w-wsj0211-001-p1s0W2</LM>
 </w.rf>
 <form>ITEL</form>
-<tag lemma="ITEL" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="ITEL" src="auto">X@-------------</AM>
+<AM lemma="ITEL-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0211-001-p1s0W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -35,7 +38,10 @@
 <LM>w#w-wsj0211-001-p1s0W3</LM>
 </w.rf>
 <form>CORP</form>
-<tag lemma="corp-77_:B" src="auto" recommended="1">F%-------------</tag>
+<tag>
+<AM lemma="corp-77_:B" src="auto" recommended="1">F%-------------</AM>
+<AM lemma="CORP-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0211-001-p1s0W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -332,7 +338,7 @@
 <AM lemma="nízký" src="auto">AAFS5----2A----</AM>
 <AM lemma="nízký" src="auto">AAFS6----2A----</AM>
 <AM lemma="nízký" src="auto">AAFS7----2A----</AM>
-<AM lemma="nízký" src="auto">AAIP1----2A----</AM>
+<AM lemma="nízký" src="auto" selected="1">AAIP1----2A----</AM>
 <AM lemma="nízký" src="auto">AAIP4----2A----</AM>
 <AM lemma="nízký" src="auto">AAIP5----2A----</AM>
 <AM lemma="nízký" src="auto" recommended="1">AAIS1----2A----</AM>
@@ -434,7 +440,10 @@
 <LM>w#w-wsj0211-001-p1s1W3</LM>
 </w.rf>
 <form>Itel</form>
-<tag lemma="Itel" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Itel" src="auto">X@-------------</AM>
+<AM lemma="Itel_;K" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj0211-001-p1s1W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -674,7 +683,7 @@
 <AM lemma="vysoký" src="auto">AAFS5----2A----</AM>
 <AM lemma="vysoký" src="auto">AAFS6----2A----</AM>
 <AM lemma="vysoký" src="auto">AAFS7----2A----</AM>
-<AM lemma="vysoký" src="auto">AAIP1----2A----</AM>
+<AM lemma="vysoký" src="auto" selected="1">AAIP1----2A----</AM>
 <AM lemma="vysoký" src="auto">AAIP4----2A----</AM>
 <AM lemma="vysoký" src="auto">AAIP5----2A----</AM>
 <AM lemma="vysoký" src="auto" recommended="1">AAIS1----2A----</AM>

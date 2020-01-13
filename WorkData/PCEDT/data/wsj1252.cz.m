@@ -153,7 +153,10 @@
 <LM>w#w-wsj1252-001-p1s1W9</LM>
 </w.rf>
 <form>catsup</form>
-<tag lemma="catsup" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="catsup" src="auto">X@-------------</AM>
+<AM lemma="catsup-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1252-001-p1s1W10-Ta">
 <src.rf>tagger-a</src.rf>
@@ -189,7 +192,10 @@
 <LM>w#w-wsj1252-001-p1s1W13</LM>
 </w.rf>
 <form>ketchup</form>
-<tag lemma="ketchup" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="ketchup" src="auto">X@-------------</AM>
+<AM lemma="ketchup-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1252-001-p1s1W14-Ta">
 <src.rf>tagger-a</src.rf>
@@ -337,7 +343,10 @@
 <LM>w#w-wsj1252-001-p1s2W2</LM>
 </w.rf>
 <form>WSJ</form>
-<tag lemma="WSJ" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="WSJ" src="auto">X@-------------</AM>
+<AM lemma="WSJ-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj1252-001-p1s2W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -348,6 +357,7 @@
 <tag>
 <AM lemma="business_,t" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="business_,t" src="auto">NNIS4-----A----</AM>
+<AM lemma="Business-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1252-001-p1s2W4-Ta">
@@ -359,6 +369,7 @@
 <tag>
 <AM lemma="bulletin" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="bulletin" src="auto">NNIS4-----A----</AM>
+<AM lemma="Bulletin-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1252-001-p1s2W5-Ta">
@@ -690,6 +701,7 @@
 <AM lemma="George_;Y" src="auto">NNMS4-----A----</AM>
 <AM lemma="George-77" src="auto" recommended="1">F%-------------</AM>
 <AM lemma="George_;Y_,t" src="auto">NNMSX-----A----</AM>
+<AM lemma="George_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1252-001-p1s4W3-Ta">
@@ -725,7 +737,10 @@
 <LM>w#w-wsj1252-001-p1s4W5</LM>
 </w.rf>
 <form>Ludcke</form>
-<tag lemma="Ludcke" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Ludcke" src="auto">X@-------------</AM>
+<AM lemma="Ludcke_;S" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 </s>
 <s id="m-wsj1252-001-p1s5">
@@ -981,6 +996,7 @@
 <tag>
 <AM lemma="Leib_;S" src="auto">NNMP4-----A----</AM>
 <AM lemma="Leib_;S" src="auto" recommended="1">NNMP7-----A----</AM>
+<AM lemma="Leiby_;S" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 </s>
@@ -1137,7 +1153,10 @@
 <LM>w#w-wsj1252-001-p1s10W2</LM>
 </w.rf>
 <form>Thomas</form>
-<tag lemma="Thomas_;S" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Thomas_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Thomas_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj1252-001-p1s10W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1150,6 +1169,7 @@
 <AM lemma="Henry_;Y_,t" src="auto">NNMS5-----A----</AM>
 <AM lemma="Henry_;Y_,t" src="auto">NNMXX-----A----</AM>
 <AM lemma="henry-1_^(jednotka_indukčnosti)" src="auto">NNIXX-----A----</AM>
+<AM lemma="Henry_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 </s>

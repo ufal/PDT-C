@@ -27,7 +27,10 @@
 <LM>w#w-wsj1362-001-p1s0W2</LM>
 </w.rf>
 <form>Detrex</form>
-<tag lemma="Detrex" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Detrex" src="auto">X@-------------</AM>
+<AM lemma="Detrex_;K" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj1362-001-p1s0W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -444,7 +447,10 @@
 <LM>w#w-wsj1362-001-p1s1W2</LM>
 </w.rf>
 <form>Detrex</form>
-<tag lemma="Detrex" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Detrex" src="auto">X@-------------</AM>
+<AM lemma="Detrex_;K" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj1362-001-p1s1W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -935,7 +941,10 @@
 <LM>w#w-wsj1362-001-p1s3W2</LM>
 </w.rf>
 <form>Detrex</form>
-<tag lemma="Detrex" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Detrex" src="auto">X@-------------</AM>
+<AM lemma="Detrex_;K" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj1362-001-p1s3W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1553,7 +1562,10 @@
 <LM>w#w-wsj1362-001-p1s4W24</LM>
 </w.rf>
 <form>Ashtabula</form>
-<tag lemma="Ashtabula" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Ashtabula" src="auto">X@-------------</AM>
+<AM lemma="Ashtabula_;G" src="manual" selected="1">NNFS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj1362-001-p1s4W25-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1571,7 +1583,7 @@
 <AM lemma="zařízení_^(*4dit)" src="auto">NNNS1-----A----</AM>
 <AM lemma="zařízení_^(*4dit)" src="auto" recommended="1">NNNS2-----A----</AM>
 <AM lemma="zařízení_^(*4dit)" src="auto">NNNS3-----A----</AM>
-<AM lemma="zařízení_^(*4dit)" src="auto">NNNS4-----A----</AM>
+<AM lemma="zařízení_^(*4dit)" src="auto" selected="1">NNNS4-----A----</AM>
 <AM lemma="zařízení_^(*4dit)" src="auto">NNNS5-----A----</AM>
 <AM lemma="zařízení_^(*4dit)" src="auto">NNNS6-----A----</AM>
 </tag>
@@ -1684,7 +1696,10 @@
 <LM>w#w-wsj1362-001-p1s5W2</LM>
 </w.rf>
 <form>Detrex</form>
-<tag lemma="Detrex" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Detrex" src="auto">X@-------------</AM>
+<AM lemma="Detrex_;K" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj1362-001-p1s5W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1934,7 +1949,7 @@
 </w.rf>
 <form>odpovědné</form>
 <tag>
-<AM lemma="odpovědný_^(kdo_za_něco_odpovídá)" src="auto">AAFP1----1A----</AM>
+<AM lemma="odpovědný_^(kdo_za_něco_odpovídá)" src="auto" selected="1">AAFP1----1A----</AM>
 <AM lemma="odpovědný_^(kdo_za_něco_odpovídá)" src="auto">AAFP4----1A----</AM>
 <AM lemma="odpovědný_^(kdo_za_něco_odpovídá)" src="auto">AAFP5----1A----</AM>
 <AM lemma="odpovědný_^(kdo_za_něco_odpovídá)" src="auto">AAFS2----1A----</AM>
@@ -2012,7 +2027,10 @@
 <LM>w#w-wsj1362-001-p1s5W32</LM>
 </w.rf>
 <form>Fields</form>
-<tag lemma="Fields_;S" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Fields_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Fields-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1362-001-p1s5W33-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2020,7 +2038,10 @@
 <LM>w#w-wsj1362-001-p1s5W33</LM>
 </w.rf>
 <form>Brook</form>
-<tag lemma="Brook_;S" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Brook_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Brook-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1362-001-p1s5W34-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2068,7 +2089,10 @@
 <LM>w#w-wsj1362-001-p1s5W37</LM>
 </w.rf>
 <form>Detrex</form>
-<tag lemma="Detrex" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Detrex" src="auto">X@-------------</AM>
+<AM lemma="Detrex_;K" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj1362-001-p1s5W38-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2095,7 +2119,10 @@
 <LM>w#w-wsj1362-001-p1s5W40</LM>
 </w.rf>
 <form>Ashtabula</form>
-<tag lemma="Ashtabula" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Ashtabula" src="auto">X@-------------</AM>
+<AM lemma="Ashtabula_;G" src="manual" selected="1">NNFS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj1362-001-p1s5W41-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2160,7 +2187,7 @@
 <form>jak</form>
 <tag>
 <AM lemma="jak-1_;L_^(živočich)" src="auto">NNMS1-----A----</AM>
-<AM lemma="jak-2" src="auto">J,-------------</AM>
+<AM lemma="jak-2" src="auto" selected="1">J,-------------</AM>
 <AM lemma="jak-2" src="auto">J^-------------</AM>
 <AM lemma="jak-3" src="auto" recommended="1">Db-------------</AM>
 <AM lemma="jak-99_:B_;S" src="auto">NNXXX-----A----</AM>
@@ -2281,7 +2308,10 @@
 <LM>w#w-wsj1362-001-p1s5W57</LM>
 </w.rf>
 <form>Detrex</form>
-<tag lemma="Detrex" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Detrex" src="auto">X@-------------</AM>
+<AM lemma="Detrex_;K" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj1362-001-p1s5W58-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2362,7 +2392,7 @@
 </w.rf>
 <form>nesouhlasí</form>
 <tag>
-<AM lemma="souhlasit" src="auto">VB-P---3P-NAI--</AM>
+<AM lemma="souhlasit" src="auto" selected="1">VB-P---3P-NAI--</AM>
 <AM lemma="souhlasit" src="auto" recommended="1">VB-S---3P-NAI--</AM>
 </tag>
 </m>

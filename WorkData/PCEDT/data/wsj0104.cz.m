@@ -272,7 +272,10 @@
 <LM>w#w-wsj0104-001-p1s0W20</LM>
 </w.rf>
 <form>NRDC</form>
-<tag lemma="NRDC" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="NRDC" src="auto">X@-------------</AM>
+<AM lemma="NRDC-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj0104-001-p1s0W21-Ta">
 <src.rf>tagger-a</src.rf>

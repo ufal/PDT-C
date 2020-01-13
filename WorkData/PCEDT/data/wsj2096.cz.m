@@ -59,7 +59,10 @@
 <LM>w#w-wsj2096-001-p1s0W3</LM>
 </w.rf>
 <form>Nogales</form>
-<tag lemma="Nogales_;G" src="auto" recommended="1">NNNXX-----A----</tag>
+<tag>
+<AM lemma="Nogales_;G" src="auto" recommended="1">NNNXX-----A----</AM>
+<AM lemma="Nogales-2_;S" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj2096-001-p1s0W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -183,7 +186,10 @@
 <LM>w#w-wsj2096-001-p1s1W1</LM>
 </w.rf>
 <form>Nogales</form>
-<tag lemma="Nogales_;G" src="auto" recommended="1">NNNXX-----A----</tag>
+<tag>
+<AM lemma="Nogales_;G" src="auto" recommended="1">NNNXX-----A----</AM>
+<AM lemma="Nogales-2_;S" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj2096-001-p1s1W2-Ta">
 <src.rf>tagger-a</src.rf>
@@ -255,7 +261,10 @@
 <LM>w#w-wsj2096-001-p1s1W6</LM>
 </w.rf>
 <form>United</form>
-<tag lemma="united-77" src="auto" recommended="1">F%-------------</tag>
+<tag>
+<AM lemma="united-77" src="auto" recommended="1">F%-------------</AM>
+<AM lemma="United-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj2096-001-p1s1W7-Ta">
 <src.rf>tagger-a</src.rf>
@@ -264,7 +273,7 @@
 </w.rf>
 <form>Press</form>
 <tag>
-<AM lemma="Press-77" src="auto" recommended="1">F%-------------</AM>
+<AM lemma="Press-77" src="auto" recommended="1" selected="1">F%-------------</AM>
 <AM lemma="press-77" src="auto">F%-------------</AM>
 <AM lemma="presso_,t_^(káva)" src="auto">NNNP2-----A----</AM>
 </tag>
@@ -276,7 +285,7 @@
 </w.rf>
 <form>International</form>
 <tag>
-<AM lemma="International-77" src="auto" recommended="1">F%-------------</AM>
+<AM lemma="International-77" src="auto" recommended="1" selected="1">F%-------------</AM>
 <AM lemma="International_,t" src="auto">NNISX-----A----</AM>
 <AM lemma="international-77_,t" src="auto">F%-------------</AM>
 </tag>
@@ -315,7 +324,10 @@
 <LM>w#w-wsj2096-001-p1s1W11</LM>
 </w.rf>
 <form>Univision</form>
-<tag lemma="Univision" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Univision" src="auto">X@-------------</AM>
+<AM lemma="Univision_;K" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj2096-001-p1s1W12-Ta">
 <src.rf>tagger-a</src.rf>
@@ -439,7 +451,10 @@
 <LM>w#w-wsj2096-001-p1s1W22</LM>
 </w.rf>
 <form>Nogales</form>
-<tag lemma="Nogales_;G" src="auto" recommended="1">NNNXX-----A----</tag>
+<tag>
+<AM lemma="Nogales_;G" src="auto" recommended="1">NNNXX-----A----</AM>
+<AM lemma="Nogales-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj2096-001-p1s1W23-Ta">
 <src.rf>tagger-a</src.rf>
@@ -450,6 +465,7 @@
 <tag>
 <AM lemma="Castro_;S" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Castro_;S" src="auto">NNMS5-----A----</AM>
+<AM lemma="Castro-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj2096-001-p1s1W24-Ta">
@@ -458,7 +474,10 @@
 <LM>w#w-wsj2096-001-p1s1W24</LM>
 </w.rf>
 <form>Partners</form>
-<tag lemma="Partners" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Partners" src="auto">X@-------------</AM>
+<AM lemma="Partners-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj2096-001-p1s1W25-Ta">
 <src.rf>tagger-a</src.rf>
@@ -537,7 +556,10 @@
 <LM>w#w-wsj2096-001-p1s2W2</LM>
 </w.rf>
 <form>Nogales</form>
-<tag lemma="Nogales_;G" src="auto" recommended="1">NNNXX-----A----</tag>
+<tag>
+<AM lemma="Nogales_;G" src="auto" recommended="1">NNNXX-----A----</AM>
+<AM lemma="Nogales-2_;S" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj2096-001-p1s2W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -874,7 +896,7 @@
 <tag>
 <AM lemma="taka-1_;L" src="auto">NNFP2-----A----</AM>
 <AM lemma="tak-1" src="auto">TT-------------</AM>
-<AM lemma="tak-2" src="auto">J^-------------</AM>
+<AM lemma="tak-2" src="auto" selected="1">J^-------------</AM>
 <AM lemma="tak-3" src="auto" recommended="1">Db-------------</AM>
 </tag>
 </m>

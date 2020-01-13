@@ -27,7 +27,10 @@
 <LM>w#w-wsj0234-001-p1s0W2</LM>
 </w.rf>
 <form>Metromedia</form>
-<tag lemma="Metromedia" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Metromedia" src="auto">X@-------------</AM>
+<AM lemma="Metromedia-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0234-001-p1s0W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -43,6 +46,7 @@
 <AM lemma="co-4_^(který:_př.:_o_těch,_co_odešli/co_je_znal)" src="auto">P4XXX----------</AM>
 <AM lemma="co-5_^(př._co_nejméně,_co_nevidět,_co_chvíli,_co_do_počtu,_atd.)" src="auto">Db-------------</AM>
 <AM lemma="co-77_:B" src="auto">F%-------------</AM>
+<AM lemma="Co-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj0234-001-p1s0W4-Ta">
@@ -111,7 +115,10 @@
 <LM>w#w-wsj0234-001-p1s0W10</LM>
 </w.rf>
 <form>Metromedia</form>
-<tag lemma="Metromedia" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Metromedia" src="auto">X@-------------</AM>
+<AM lemma="Metromedia-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0234-001-p1s0W11-Ta">
 <src.rf>tagger-a</src.rf>
@@ -121,7 +128,7 @@
 <form>Long</form>
 <tag>
 <AM lemma="Longa_;G" src="auto">NNFP2-----A----</AM>
-<AM lemma="Long-77" src="auto" recommended="1">F%-------------</AM>
+<AM lemma="Long-77" src="auto" recommended="1" selected="1">F%-------------</AM>
 <AM lemma="Long_;S" src="auto">NNMS1-----A----</AM>
 <AM lemma="long" src="auto">NNIS1-----A----</AM>
 <AM lemma="long" src="auto">NNIS4-----A----</AM>
@@ -145,6 +152,7 @@
 <AM lemma="distance" src="auto" recommended="1">NNFS1-----A----</AM>
 <AM lemma="distance" src="auto">NNFS2-----A----</AM>
 <AM lemma="distance" src="auto">NNFS5-----A----</AM>
+<AM lemma="Distance-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj0234-001-p1s0W13-Ta">
@@ -181,7 +189,10 @@
 <LM>w#w-wsj0234-001-p1s0W16</LM>
 </w.rf>
 <form>Metromedia</form>
-<tag lemma="Metromedia" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Metromedia" src="auto">X@-------------</AM>
+<AM lemma="Metromedia-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0234-001-p1s0W17-Ta">
 <src.rf>tagger-a</src.rf>
@@ -197,7 +208,10 @@
 <LM>w#w-wsj0234-001-p1s0W18</LM>
 </w.rf>
 <form>ITT</form>
-<tag lemma="ITT-88_:B" src="auto" recommended="1">NNXXX-----A----</tag>
+<tag>
+<AM lemma="ITT-88_:B" src="auto" recommended="1">NNXXX-----A----</AM>
+<AM lemma="ITT-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0234-001-p1s0W19-Ta">
 <src.rf>tagger-a</src.rf>
@@ -207,7 +221,7 @@
 <form>Long</form>
 <tag>
 <AM lemma="Longa_;G" src="auto">NNFP2-----A----</AM>
-<AM lemma="Long-77" src="auto">F%-------------</AM>
+<AM lemma="Long-77" src="auto" selected="1">F%-------------</AM>
 <AM lemma="Long_;S" src="auto">NNMS1-----A----</AM>
 <AM lemma="long" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="long" src="auto">NNIS4-----A----</AM>
@@ -231,6 +245,7 @@
 <AM lemma="distance" src="auto" recommended="1">NNFS1-----A----</AM>
 <AM lemma="distance" src="auto">NNFS2-----A----</AM>
 <AM lemma="distance" src="auto">NNFS5-----A----</AM>
+<AM lemma="Distance-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj0234-001-p1s0W21-Ta">
@@ -311,7 +326,10 @@
 <LM>w#w-wsj0234-001-p1s0W27</LM>
 </w.rf>
 <form>ITT</form>
-<tag lemma="ITT-88_:B" src="auto" recommended="1">NNXXX-----A----</tag>
+<tag>
+<AM lemma="ITT-88_:B" src="auto" recommended="1">NNXXX-----A----</AM>
+<AM lemma="ITT-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0234-001-p1s0W28-Ta">
 <src.rf>tagger-a</src.rf>
@@ -319,7 +337,10 @@
 <LM>w#w-wsj0234-001-p1s0W28</LM>
 </w.rf>
 <form>Corp</form>
-<tag lemma="corp-77_:B" src="auto" recommended="1">F%-------------</tag>
+<tag>
+<AM lemma="corp-77_:B" src="auto" recommended="1">F%-------------</AM>
+<AM lemma="Corp-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0234-001-p1s0W29-Ta">
 <src.rf>tagger-a</src.rf>
@@ -371,7 +392,10 @@
 <LM>w#w-wsj0234-001-p1s0W33</LM>
 </w.rf>
 <form>Metromedia</form>
-<tag lemma="Metromedia" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Metromedia" src="auto">X@-------------</AM>
+<AM lemma="Metromedia_;K" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj0234-001-p1s0W34-Ta">
 <src.rf>tagger-a</src.rf>
@@ -392,7 +416,7 @@
 <AM lemma="vlastněný_^(někdo_má_něco_ve_vlastnictví)_(*3it)" src="auto">AAFP4----1A----</AM>
 <AM lemma="vlastněný_^(někdo_má_něco_ve_vlastnictví)_(*3it)" src="auto">AAFP5----1A----</AM>
 <AM lemma="vlastněný_^(někdo_má_něco_ve_vlastnictví)_(*3it)" src="auto">AAFS2----1A----</AM>
-<AM lemma="vlastněný_^(někdo_má_něco_ve_vlastnictví)_(*3it)" src="auto">AAFS3----1A----</AM>
+<AM lemma="vlastněný_^(někdo_má_něco_ve_vlastnictví)_(*3it)" src="auto" selected="1">AAFS3----1A----</AM>
 <AM lemma="vlastněný_^(někdo_má_něco_ve_vlastnictví)_(*3it)" src="auto">AAFS6----1A----</AM>
 <AM lemma="vlastněný_^(někdo_má_něco_ve_vlastnictví)_(*3it)" src="auto">AAIP1----1A----</AM>
 <AM lemma="vlastněný_^(někdo_má_něco_ve_vlastnictví)_(*3it)" src="auto">AAIP4----1A----</AM>
@@ -531,7 +555,10 @@
 <LM>w#w-wsj0234-001-p1s1W2</LM>
 </w.rf>
 <form>Metromedia</form>
-<tag lemma="Metromedia" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Metromedia" src="auto">X@-------------</AM>
+<AM lemma="Metromedia_;K" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj0234-001-p1s1W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -897,7 +924,10 @@
 <LM>w#w-wsj0234-001-p1s2W2</LM>
 </w.rf>
 <form>Metromedia</form>
-<tag lemma="Metromedia" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Metromedia" src="auto">X@-------------</AM>
+<AM lemma="Metromedia_;K" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj0234-001-p1s2W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1091,7 +1121,10 @@
 <LM>w#w-wsj0234-001-p1s2W19</LM>
 </w.rf>
 <form>programech</form>
-<tag lemma="program-1" src="auto" recommended="1">NNIP6-----A----</tag>
+<tag>
+<AM lemma="program-1" src="auto" recommended="1">NNIP6-----A----</AM>
+<AM lemma="program" src="manual" selected="1">NNIP6-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj0234-001-p1s2W20-Ta">
 <src.rf>tagger-a</src.rf>

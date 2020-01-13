@@ -24,6 +24,7 @@
 <AM lemma="Roo_;S" src="auto">NNMP7-----A----</AM>
 <AM lemma="Roy-1_;S" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Roy-2_;G" src="auto">NNIXX-----A----</AM>
+<AM lemma="Roy-1_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1119-001-p1s0W2-Ta">

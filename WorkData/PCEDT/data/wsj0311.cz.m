@@ -226,7 +226,7 @@
 <AM lemma="ohromný" src="auto">AAIP4----1A---6</AM>
 <AM lemma="ohromný" src="auto">AAIP5----1A---6</AM>
 <AM lemma="ohromný" src="auto" recommended="1">AAIS1----1A----</AM>
-<AM lemma="ohromný" src="auto">AAIS4----1A----</AM>
+<AM lemma="ohromný" src="auto" selected="1">AAIS4----1A----</AM>
 <AM lemma="ohromný" src="auto">AAIS5----1A----</AM>
 <AM lemma="ohromný" src="auto">AAMP1----1A---6</AM>
 <AM lemma="ohromný" src="auto">AAMP4----1A---6</AM>
@@ -249,7 +249,7 @@
 <form>deficit</form>
 <tag>
 <AM lemma="deficit" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="deficit" src="auto">NNIS4-----A----</AM>
+<AM lemma="deficit" src="auto" selected="1">NNIS4-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0311-001-p1s0W18-Ta">
@@ -261,7 +261,7 @@
 <tag>
 <AM lemma="se_^(zvr._zájmeno/částice)" src="auto" recommended="1">P7-X4----------</AM>
 <AM lemma="s-1" src="auto">RV--2----------</AM>
-<AM lemma="s-1" src="auto">RV--7----------</AM>
+<AM lemma="s-1" src="auto" selected="1">RV--7----------</AM>
 </tag>
 </m>
 <m id="m-wsj0311-001-p1s0W19-Ta">
@@ -274,7 +274,7 @@
 <AM lemma="škrt" src="auto" recommended="1">NNIP1-----A----</AM>
 <AM lemma="škrt" src="auto">NNIP4-----A----</AM>
 <AM lemma="škrt" src="auto">NNIP5-----A----</AM>
-<AM lemma="škrt" src="auto">NNIP7-----A----</AM>
+<AM lemma="škrt" src="auto" selected="1">NNIP7-----A----</AM>
 <AM lemma="škrt" src="auto">NNMP4-----A----</AM>
 <AM lemma="škrt" src="auto">NNMP7-----A----</AM>
 </tag>
@@ -1257,7 +1257,7 @@
 <form>výdaje</form>
 <tag>
 <AM lemma="výdaj" src="auto" recommended="1">NNIP1-----A----</AM>
-<AM lemma="výdaj" src="auto">NNIP4-----A----</AM>
+<AM lemma="výdaj" src="auto" selected="1">NNIP4-----A----</AM>
 <AM lemma="výdaj" src="auto">NNIP5-----A----</AM>
 <AM lemma="výdaj" src="auto">NNIS2-----A----</AM>
 </tag>

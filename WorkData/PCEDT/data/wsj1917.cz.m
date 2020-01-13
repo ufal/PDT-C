@@ -46,7 +46,10 @@
 <LM>w#w-wsj1917-001-p1s0W3</LM>
 </w.rf>
 <form>Lionel</form>
-<tag lemma="Lionel_;S" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Lionel_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Lionel-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1917-001-p1s0W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -54,7 +57,10 @@
 <LM>w#w-wsj1917-001-p1s0W4</LM>
 </w.rf>
 <form>Corp</form>
-<tag lemma="corp-77_:B" src="auto" recommended="1">F%-------------</tag>
+<tag>
+<AM lemma="corp-77_:B" src="auto" recommended="1">F%-------------</AM>
+<AM lemma="Corp-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1917-001-p1s0W5-Ta">
 <src.rf>tagger-a</src.rf>
@@ -835,7 +841,10 @@
 <LM>w#w-wsj1917-001-p1s2W9</LM>
 </w.rf>
 <form>Limited</form>
-<tag lemma="Limited" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Limited" src="auto">X@-------------</AM>
+<AM lemma="Limited-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1917-001-p1s2W10-Ta">
 <src.rf>tagger-a</src.rf>
@@ -843,7 +852,10 @@
 <LM>w#w-wsj1917-001-p1s2W10</LM>
 </w.rf>
 <form>Partnership</form>
-<tag lemma="Partnership" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Partnership" src="auto">X@-------------</AM>
+<AM lemma="Partnership-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1917-001-p1s2W11-Ta">
 <src.rf>tagger-a</src.rf>
@@ -852,7 +864,7 @@
 </w.rf>
 <form>Roberta</form>
 <tag>
-<AM lemma="Robert_;Y" src="auto">NNMS2-----A----</AM>
+<AM lemma="Robert_;Y" src="auto" selected="1">NNMS2-----A----</AM>
 <AM lemma="Robert_;Y" src="auto">NNMS4-----A----</AM>
 <AM lemma="Roberta_;Y" src="auto" recommended="1">NNFS1-----A----</AM>
 </tag>
@@ -888,7 +900,10 @@
 <LM>w#w-wsj1917-001-p1s2W14</LM>
 </w.rf>
 <form>Toussieho</form>
-<tag lemma="Toussieho" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Toussieho" src="auto">X@-------------</AM>
+<AM lemma="Toussie_;S" src="manual" selected="1">NNMS2-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj1917-001-p1s2W15-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1639,7 +1654,10 @@
 <LM>w#w-wsj1917-001-p1s4W4</LM>
 </w.rf>
 <form>Toussie</form>
-<tag lemma="Toussie" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Toussie" src="auto">X@-------------</AM>
+<AM lemma="Toussie_;S" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj1917-001-p1s4W5-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2077,7 +2095,10 @@
 <LM>w#w-wsj1917-001-p1s5W1</LM>
 </w.rf>
 <form>Toussie</form>
-<tag lemma="Toussie" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Toussie" src="auto">X@-------------</AM>
+<AM lemma="Toussie_;S" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj1917-001-p1s5W2-Ta">
 <src.rf>tagger-a</src.rf>

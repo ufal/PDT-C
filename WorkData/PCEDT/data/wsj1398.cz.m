@@ -411,6 +411,7 @@
 <AM lemma="George_;Y" src="auto">NNMS4-----A----</AM>
 <AM lemma="George-77" src="auto" recommended="1">F%-------------</AM>
 <AM lemma="George_;Y_,t" src="auto">NNMSX-----A----</AM>
+<AM lemma="George_;Y_;S" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1398-001-p1s1W3-Ta">
@@ -423,7 +424,7 @@
 <AM lemma="O-2_:B_^(kyslík)" src="auto">NNIXX-----A----</AM>
 <AM lemma="O-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
 <AM lemma="O-77" src="auto" recommended="1">F%-------------</AM>
-<AM lemma="O-88_:B" src="auto">NNXXX-----A----</AM>
+<AM lemma="O-88_:B" src="auto" selected="1">NNXXX-----A----</AM>
 <AM lemma="o-1" src="auto">RR--4----------</AM>
 <AM lemma="o-1" src="auto">RR--6----------</AM>
 <AM lemma="o-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
@@ -446,7 +447,10 @@
 <LM>w#w-wsj1398-001-p1s1W5</LM>
 </w.rf>
 <form>Ludcke</form>
-<tag lemma="Ludcke" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Ludcke" src="auto">X@-------------</AM>
+<AM lemma="Ludcke_;S" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj1398-001-p1s1W6-Ta">
 <src.rf>tagger-a</src.rf>
@@ -840,6 +844,7 @@
 <tag>
 <AM lemma="Bern_;G" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Bern_;G" src="auto">NNIS4-----A----</AM>
+<AM lemma="Bern-2_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1398-001-p1s4W3-Ta">
@@ -848,7 +853,10 @@
 <LM>w#w-wsj1398-001-p1s4W3</LM>
 </w.rf>
 <form>Sharfman</form>
-<tag lemma="Sharfman" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Sharfman" src="auto">X@-------------</AM>
+<AM lemma="Sharfman_;S" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj1398-001-p1s4W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -866,7 +874,11 @@
 <LM>w#w-wsj1398-001-p1s5W1</LM>
 </w.rf>
 <form>Dafinice</form>
-<tag lemma="Dafinice" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Dafinice" src="auto">X@-------------</AM>
+<AM lemma="Dafinice-77" src="manual">F%-------------</AM>
+<AM lemma="dafinice_,i__^(^DS**definice)" src="manual" selected="1">NNFS1-----A----</AM>
+</tag>
 </m>
 </s>
 <s id="m-wsj1398-001-p1s6">
@@ -880,6 +892,7 @@
 <AM lemma="teravolt" src="auto">NNIXX-----A---8</AM>
 <AM lemma="televize_:B" src="auto">NNFXX-----A---8</AM>
 <AM lemma="televizní_:B" src="auto" recommended="1">AAXXX----1A---8</AM>
+<AM lemma="televizní" src="manual" selected="1">AAXXX----1A---8</AM>
 </tag>
 </m>
 <m id="m-wsj1398-001-p1s6W2-Ta">
@@ -994,7 +1007,10 @@
 <LM>w#w-wsj1398-001-p1s7W2</LM>
 </w.rf>
 <form>Marguerite</form>
-<tag lemma="Marguerita_;Y_,t" src="auto" recommended="1">NNFS1-----A---1</tag>
+<tag>
+<AM lemma="Marguerita_;Y_,t" src="auto" recommended="1">NNFS1-----A---1</AM>
+<AM lemma="Marguerita_;Y" src="manual" selected="1">NNFS1-----A---1</AM>
+</tag>
 </m>
 <m id="m-wsj1398-001-p1s7W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1002,7 +1018,10 @@
 <LM>w#w-wsj1398-001-p1s7W3</LM>
 </w.rf>
 <form>Whitley</form>
-<tag lemma="Whitley_;S" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Whitley_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Whitley-2_;S" src="manual" selected="1">NNFS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj1398-001-p1s7W4-Ta">
 <src.rf>tagger-a</src.rf>

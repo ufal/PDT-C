@@ -16,7 +16,10 @@
 <LM>w#w-wsj1030-001-p1s0W1</LM>
 </w.rf>
 <form>Keith</form>
-<tag lemma="Keith_;S" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Keith_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Keith_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj1030-001-p1s0W2-Ta">
 <src.rf>tagger-a</src.rf>
@@ -233,6 +236,11 @@
 <AM lemma="44letý" src="auto">AANS4----1A---6</AM>
 <AM lemma="44letý" src="auto">AANS5----1A---6</AM>
 </tag>
+<comment>
+<LM type="Other">
+<text>špatná tokenizace</text>
+</LM>
+</comment>
 </m>
 <m id="m-wsj1030-001-p1s1W2-Ta">
 <src.rf>tagger-a</src.rf>
@@ -288,7 +296,10 @@
 <LM>w#w-wsj1030-001-p1s1W6</LM>
 </w.rf>
 <form>Trivest</form>
-<tag lemma="Trivest" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Trivest" src="auto">X@-------------</AM>
+<AM lemma="Trivest-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1030-001-p1s1W7-Ta">
 <src.rf>tagger-a</src.rf>
@@ -296,7 +307,10 @@
 <LM>w#w-wsj1030-001-p1s1W7</LM>
 </w.rf>
 <form>Securities</form>
-<tag lemma="Securities" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Securities" src="auto">X@-------------</AM>
+<AM lemma="Securities-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1030-001-p1s1W8-Ta">
 <src.rf>tagger-a</src.rf>
@@ -304,7 +318,10 @@
 <LM>w#w-wsj1030-001-p1s1W8</LM>
 </w.rf>
 <form>Corp</form>
-<tag lemma="corp-77_:B" src="auto" recommended="1">F%-------------</tag>
+<tag>
+<AM lemma="corp-77_:B" src="auto" recommended="1">F%-------------</AM>
+<AM lemma="Corp-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1030-001-p1s1W9-Ta">
 <src.rf>tagger-a</src.rf>
@@ -378,7 +395,10 @@
 <LM>w#w-wsj1030-001-p1s1W14</LM>
 </w.rf>
 <form>Trivest</form>
-<tag lemma="Trivest" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Trivest" src="auto">X@-------------</AM>
+<AM lemma="Trivest-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1030-001-p1s1W15-Ta">
 <src.rf>tagger-a</src.rf>
@@ -389,6 +409,7 @@
 <tag>
 <AM lemma="Inc-77_:B" src="auto" recommended="1">F%-------------</AM>
 <AM lemma="inc-77_:B" src="auto">F%-------------</AM>
+<AM lemma="Inc-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1030-001-p1s1W16-Ta">
@@ -509,7 +530,7 @@
 </w.rf>
 <form>sídlících</form>
 <tag>
-<AM lemma="sídlící_^(*3it)" src="auto">AGFP2-----A----</AM>
+<AM lemma="sídlící_^(*3it)" src="auto" selected="1">AGFP2-----A----</AM>
 <AM lemma="sídlící_^(*3it)" src="auto">AGFP6-----A----</AM>
 <AM lemma="sídlící_^(*3it)" src="auto">AGIP2-----A----</AM>
 <AM lemma="sídlící_^(*3it)" src="auto">AGIP6-----A----</AM>
@@ -680,7 +701,10 @@
 <LM>w#w-wsj1030-001-p1s3W2</LM>
 </w.rf>
 <form>Torchmark</form>
-<tag lemma="Torchmark" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Torchmark" src="auto">X@-------------</AM>
+<AM lemma="Torchmark_;K" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj1030-001-p1s3W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -748,6 +772,11 @@
 <AM lemma="37letý" src="auto">AANS4----1A---6</AM>
 <AM lemma="37letý" src="auto">AANS5----1A---6</AM>
 </tag>
+<comment>
+<LM type="Other">
+<text>špatná tokenizace</text>
+</LM>
+</comment>
 </m>
 <m id="m-wsj1030-001-p1s3W8-Ta">
 <src.rf>tagger-a</src.rf>
@@ -786,7 +815,10 @@
 <LM>w#w-wsj1030-001-p1s3W11</LM>
 </w.rf>
 <form>Upchurch</form>
-<tag lemma="Upchurch" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Upchurch" src="auto">X@-------------</AM>
+<AM lemma="Upchurch_;S" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj1030-001-p1s3W12-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1089,7 +1121,10 @@
 <LM>w#w-wsj1030-001-p1s3W36</LM>
 </w.rf>
 <form>Samforda</form>
-<tag lemma="Samforda" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Samforda" src="auto">X@-------------</AM>
+<AM lemma="Samford_;S" src="manual" selected="1">NNMS2-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj1030-001-p1s3W37-Ta">
 <src.rf>tagger-a</src.rf>

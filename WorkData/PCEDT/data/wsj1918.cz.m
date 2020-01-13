@@ -109,6 +109,7 @@
 <AM lemma="Boeing_;K_;R_^(letadlo)" src="auto">NNIS4-----A----</AM>
 <AM lemma="boeing_;R_,t_^(letadlo)" src="auto">NNIS1-----A----</AM>
 <AM lemma="boeing_;R_,t_^(letadlo)" src="auto">NNIS4-----A----</AM>
+<AM lemma="Boeing-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1918-001-p1s0W9-Ta">
@@ -125,6 +126,7 @@
 <AM lemma="co-4_^(který:_př.:_o_těch,_co_odešli/co_je_znal)" src="auto">P4XXX----------</AM>
 <AM lemma="co-5_^(př._co_nejméně,_co_nevidět,_co_chvíli,_co_do_počtu,_atd.)" src="auto">Db-------------</AM>
 <AM lemma="co-77_:B" src="auto">F%-------------</AM>
+<AM lemma="Co-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1918-001-p1s0W10-Ta">
@@ -163,7 +165,7 @@
 <AM lemma="odbory_^(odborářská_organizace)" src="auto" recommended="1">NNIP1-----A----</AM>
 <AM lemma="odbory_^(odborářská_organizace)" src="auto">NNIP4-----A----</AM>
 <AM lemma="odbory_^(odborářská_organizace)" src="auto">NNIP5-----A----</AM>
-<AM lemma="odbory_^(odborářská_organizace)" src="auto">NNIP7-----A----</AM>
+<AM lemma="odbory_^(odborářská_organizace)" src="auto" selected="1">NNIP7-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1918-001-p1s0W13-Ta">
@@ -594,7 +596,7 @@
 <AM lemma="letecký" src="auto">AAIP1----1A---6</AM>
 <AM lemma="letecký" src="auto">AAIP4----1A---6</AM>
 <AM lemma="letecký" src="auto">AAIP5----1A---6</AM>
-<AM lemma="letecký" src="auto">AAIS1----1A----</AM>
+<AM lemma="letecký" src="auto" selected="1">AAIS1----1A----</AM>
 <AM lemma="letecký" src="auto">AAIS4----1A----</AM>
 <AM lemma="letecký" src="auto">AAIS5----1A----</AM>
 <AM lemma="letecký" src="auto">AAMP1----1A---6</AM>
@@ -620,6 +622,7 @@
 <AM lemma="gigant" src="auto">NNIS1-----A----</AM>
 <AM lemma="gigant" src="auto">NNIS4-----A----</AM>
 <AM lemma="gigant" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="gigant-1" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1918-001-p1s2W8-Ta">
@@ -675,7 +678,7 @@
 </w.rf>
 <form>navzdory</form>
 <tag>
-<AM lemma="navzdory-1" src="auto">RR--3----------</AM>
+<AM lemma="navzdory-1" src="auto" selected="1">RR--3----------</AM>
 <AM lemma="navzdory-2" src="auto" recommended="1">Db-------------</AM>
 </tag>
 </m>
@@ -831,7 +834,7 @@
 </w.rf>
 <form>možné</form>
 <tag>
-<AM lemma="možný" src="auto">AAFP1----1A----</AM>
+<AM lemma="možný" src="auto" selected="1">AAFP1----1A----</AM>
 <AM lemma="možný" src="auto">AAFP4----1A----</AM>
 <AM lemma="možný" src="auto">AAFP5----1A----</AM>
 <AM lemma="možný" src="auto">AAFS2----1A----</AM>
@@ -1447,7 +1450,7 @@
 <AM lemma="společnost_^(*3ý)" src="auto" recommended="1">NNFP1-----A----</AM>
 <AM lemma="společnost_^(*3ý)" src="auto">NNFP4-----A----</AM>
 <AM lemma="společnost_^(*3ý)" src="auto">NNFP5-----A----</AM>
-<AM lemma="společnost_^(*3ý)" src="auto">NNFS2-----A----</AM>
+<AM lemma="společnost_^(*3ý)" src="auto" selected="1">NNFS2-----A----</AM>
 <AM lemma="společnost_^(*3ý)" src="auto">NNFS3-----A----</AM>
 <AM lemma="společnost_^(*3ý)" src="auto">NNFS5-----A----</AM>
 <AM lemma="společnost_^(*3ý)" src="auto">NNFS6-----A----</AM>
@@ -1571,7 +1574,7 @@
 <AM lemma="Jaca-1_;G" src="auto">NNFP2-----A----</AM>
 <AM lemma="Jak_;R" src="auto">NNMS1-----A----</AM>
 <AM lemma="jak-1_;L_^(živočich)" src="auto">NNMS1-----A----</AM>
-<AM lemma="jak-2" src="auto">J,-------------</AM>
+<AM lemma="jak-2" src="auto" selected="1">J,-------------</AM>
 <AM lemma="jak-2" src="auto">J^-------------</AM>
 <AM lemma="jak-3" src="auto" recommended="1">Db-------------</AM>
 <AM lemma="jak-99_:B_;S" src="auto">NNXXX-----A----</AM>
@@ -1702,7 +1705,7 @@
 <AM lemma="nervózní" src="auto">AAIS1----1A----</AM>
 <AM lemma="nervózní" src="auto">AAIS4----1A----</AM>
 <AM lemma="nervózní" src="auto">AAIS5----1A----</AM>
-<AM lemma="nervózní" src="auto">AAMP1----1A----</AM>
+<AM lemma="nervózní" src="auto" selected="1">AAMP1----1A----</AM>
 <AM lemma="nervózní" src="auto">AAMP4----1A----</AM>
 <AM lemma="nervózní" src="auto">AAMP5----1A----</AM>
 <AM lemma="nervózní" src="auto" recommended="1">AAMS1----1A----</AM>

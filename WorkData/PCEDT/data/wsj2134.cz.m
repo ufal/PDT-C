@@ -1207,7 +1207,7 @@
 <LM>w#w-wsj2134-001-p1s3W23</LM>
 </w.rf>
 <form>vytížen</form>
-<tag lemma="vytížit" src="auto" recommended="1">VsYS---XX-APP--</tag>
+<tag lemma="vytížit" src="auto" recommended="1" selected="1">VsYS---XX-APP--</tag>
 </m>
 <m id="m-wsj2134-001-p1s3W24-Ta">
 <src.rf>tagger-a</src.rf>

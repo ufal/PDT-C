@@ -27,7 +27,10 @@
 <LM>w#w-wsj0582-001-p1s0W2</LM>
 </w.rf>
 <form>Humana</form>
-<tag lemma="Humana" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Humana" src="auto">X@-------------</AM>
+<AM lemma="Humana-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0582-001-p1s0W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -38,6 +41,7 @@
 <tag>
 <AM lemma="Inc-77_:B" src="auto" recommended="1">F%-------------</AM>
 <AM lemma="inc-77_:B" src="auto">F%-------------</AM>
+<AM lemma="Inc-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj0582-001-p1s0W4-Ta">
@@ -1017,7 +1021,7 @@
 <form>které</form>
 <tag>
 <AM lemma="který" src="auto" recommended="1">P4FP1----------</AM>
-<AM lemma="který" src="auto">P4FP4----------</AM>
+<AM lemma="který" src="auto" selected="1">P4FP4----------</AM>
 <AM lemma="který" src="auto">P4FS2----------</AM>
 <AM lemma="který" src="auto">P4FS3----------</AM>
 <AM lemma="který" src="auto">P4FS6----------</AM>
@@ -1048,7 +1052,10 @@
 <LM>w#w-wsj0582-001-p1s4W16</LM>
 </w.rf>
 <form>Humany</form>
-<tag lemma="Humany" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Humany" src="auto">X@-------------</AM>
+<AM lemma="Humany_;K" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj0582-001-p1s4W17-Ta">
 <src.rf>tagger-a</src.rf>

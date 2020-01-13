@@ -35,6 +35,7 @@
 <AM lemma="Olin_^(*2a)" src="auto">AUMS1F---------</AM>
 <AM lemma="Olin_^(*2a)" src="auto">AUMS5F---------</AM>
 <AM lemma="Olina_;Y" src="auto">NNFP2-----A----</AM>
+<AM lemma="Olin-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1998-001-p1s0W3-Ta">
@@ -43,7 +44,10 @@
 <LM>w#w-wsj1998-001-p1s0W3</LM>
 </w.rf>
 <form>Corp</form>
-<tag lemma="corp-77_:B" src="auto" recommended="1">F%-------------</tag>
+<tag>
+<AM lemma="corp-77_:B" src="auto" recommended="1">F%-------------</AM>
+<AM lemma="Corp-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1998-001-p1s0W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -761,6 +765,7 @@
 <AM lemma="Olin_^(*2a)" src="auto">AUMS1F---------</AM>
 <AM lemma="Olin_^(*2a)" src="auto">AUMS5F---------</AM>
 <AM lemma="Olina_;Y" src="auto">NNFP2-----A----</AM>
+<AM lemma="Olin_;K" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1998-001-p1s3W3-Ta">
@@ -811,6 +816,11 @@
 <AM lemma="jeho_^(přivlast.)" src="auto">PSMS4FS3-------</AM>
 <AM lemma="jeho_^(přivlast.)" src="auto" recommended="1">PSZS2FS3-------</AM>
 </tag>
+<comment>
+<LM type="New Form">
+<text>její</text>
+</LM>
+</comment>
 </m>
 <m id="m-wsj1998-001-p1s3W8-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1032,7 +1042,7 @@
 <AM lemma="zisk" src="auto">NNIP1-----A----</AM>
 <AM lemma="zisk" src="auto" recommended="1">NNIP4-----A----</AM>
 <AM lemma="zisk" src="auto">NNIP5-----A----</AM>
-<AM lemma="zisk" src="auto">NNIP7-----A----</AM>
+<AM lemma="zisk" src="auto" selected="1">NNIP7-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1998-001-p1s3W28-Ta">
@@ -1780,7 +1790,10 @@
 <LM>w#w-wsj1998-001-p1s6W16</LM>
 </w.rf>
 <form>ovšem</form>
-<tag lemma="ovšem" src="auto" recommended="1">TT-------------</tag>
+<tag>
+<AM lemma="ovšem" src="auto" recommended="1">TT-------------</AM>
+<AM lemma="ovšem-2" src="manual" selected="1">J^-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1998-001-p1s6W17-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2040,6 +2053,7 @@
 <AM lemma="Olin_^(*2a)" src="auto">AUMS1F---------</AM>
 <AM lemma="Olin_^(*2a)" src="auto">AUMS5F---------</AM>
 <AM lemma="Olina_;Y" src="auto">NNFP2-----A----</AM>
+<AM lemma="Olin_;K" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1998-001-p1s7W8-Ta">
@@ -3115,6 +3129,7 @@
 <AM lemma="Olin_^(*2a)" src="auto">AUMS1F---------</AM>
 <AM lemma="Olin_^(*2a)" src="auto">AUMS5F---------</AM>
 <AM lemma="Olina_;Y" src="auto">NNFP2-----A----</AM>
+<AM lemma="Olin_;K" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1998-001-p1s11W14-Ta">

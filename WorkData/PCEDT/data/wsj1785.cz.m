@@ -142,6 +142,7 @@
 <AM lemma="Saab_;K" src="auto">NNIS4-----A----</AM>
 <AM lemma="saab_;R" src="auto">NNIS1-----A----</AM>
 <AM lemma="saab_;R" src="auto">NNIS4-----A----</AM>
+<AM lemma="Saab-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1785-001-p1s0W7-Ta">
@@ -161,6 +162,7 @@
 <tag>
 <AM lemma="Scania_;K" src="auto">NNFS1-----A---1</AM>
 <AM lemma="Scania_;K_,t" src="auto" recommended="1">NNFS1-----A----</AM>
+<AM lemma="Scania-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1785-001-p1s0W9-Ta">
@@ -222,7 +224,7 @@
 </w.rf>
 <form>Swiss</form>
 <tag>
-<AM lemma="Swiss-77" src="auto" recommended="1">F%-------------</AM>
+<AM lemma="Swiss-77" src="auto" recommended="1" selected="1">F%-------------</AM>
 <AM lemma="Swiss_;K" src="auto">NNIS1-----A----</AM>
 <AM lemma="Swiss_;K" src="auto">NNIS4-----A----</AM>
 </tag>
@@ -233,7 +235,10 @@
 <LM>w#w-wsj1785-001-p1s0W15</LM>
 </w.rf>
 <form>Crossair</form>
-<tag lemma="Crossair" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Crossair" src="auto">X@-------------</AM>
+<AM lemma="Crossair-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1785-001-p1s0W16-Ta">
 <src.rf>tagger-a</src.rf>
@@ -449,6 +454,7 @@
 <AM lemma="Saab_;K" src="auto">NNIS4-----A----</AM>
 <AM lemma="saab_;R" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="saab_;R" src="auto">NNIS4-----A----</AM>
+<AM lemma="Saab_;K_;R" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1785-001-p1s0W33-Ta">
@@ -457,7 +463,10 @@
 <LM>w#w-wsj1785-001-p1s0W33</LM>
 </w.rf>
 <form>340B</form>
-<tag lemma="340B" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="340B" src="auto">X@-------------</AM>
+<AM lemma="340B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj1785-001-p1s0W34-Ta">
 <src.rf>tagger-a</src.rf>

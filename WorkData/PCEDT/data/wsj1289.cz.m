@@ -27,7 +27,10 @@
 <LM>w#w-wsj1289-001-p1s0W2</LM>
 </w.rf>
 <form>Harken</form>
-<tag lemma="Harken" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Harken" src="auto">X@-------------</AM>
+<AM lemma="Harken-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1289-001-p1s0W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -35,7 +38,10 @@
 <LM>w#w-wsj1289-001-p1s0W3</LM>
 </w.rf>
 <form>Energy</form>
-<tag lemma="Energy" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Energy" src="auto">X@-------------</AM>
+<AM lemma="Energy-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1289-001-p1s0W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -43,7 +49,10 @@
 <LM>w#w-wsj1289-001-p1s0W4</LM>
 </w.rf>
 <form>Corp</form>
-<tag lemma="corp-77_:B" src="auto" recommended="1">F%-------------</tag>
+<tag>
+<AM lemma="corp-77_:B" src="auto" recommended="1">F%-------------</AM>
+<AM lemma="Corp-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1289-001-p1s0W5-Ta">
 <src.rf>tagger-a</src.rf>
@@ -256,7 +265,10 @@
 <LM>w#w-wsj1289-001-p1s0W26</LM>
 </w.rf>
 <form>Tesoro</form>
-<tag lemma="Tesoro" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Tesoro" src="auto">X@-------------</AM>
+<AM lemma="Tesoro-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1289-001-p1s0W27-Ta">
 <src.rf>tagger-a</src.rf>
@@ -264,7 +276,10 @@
 <LM>w#w-wsj1289-001-p1s0W27</LM>
 </w.rf>
 <form>Petroleum</form>
-<tag lemma="Petroleum" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Petroleum" src="auto">X@-------------</AM>
+<AM lemma="Petroleum-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1289-001-p1s0W28-Ta">
 <src.rf>tagger-a</src.rf>
@@ -272,7 +287,10 @@
 <LM>w#w-wsj1289-001-p1s0W28</LM>
 </w.rf>
 <form>Corp</form>
-<tag lemma="corp-77_:B" src="auto" recommended="1">F%-------------</tag>
+<tag>
+<AM lemma="corp-77_:B" src="auto" recommended="1">F%-------------</AM>
+<AM lemma="Corp-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1289-001-p1s0W29-Ta">
 <src.rf>tagger-a</src.rf>
@@ -443,7 +461,10 @@
 <LM>w#w-wsj1289-001-p1s1W2</LM>
 </w.rf>
 <form>Harken</form>
-<tag lemma="Harken" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Harken" src="auto">X@-------------</AM>
+<AM lemma="Harken_;K" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj1289-001-p1s1W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -606,7 +627,10 @@
 <LM>w#w-wsj1289-001-p1s1W17</LM>
 </w.rf>
 <form>Tesoro</form>
-<tag lemma="Tesoro" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Tesoro" src="auto">X@-------------</AM>
+<AM lemma="Tesoro_;K" src="manual" selected="1">NNNS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj1289-001-p1s1W18-Ta">
 <src.rf>tagger-a</src.rf>
@@ -694,7 +718,10 @@
 <LM>w#w-wsj1289-001-p1s2W2</LM>
 </w.rf>
 <form>Harken</form>
-<tag lemma="Harken" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Harken" src="auto">X@-------------</AM>
+<AM lemma="Harken_;K" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj1289-001-p1s2W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -789,7 +816,7 @@
 <form>společností</form>
 <tag>
 <AM lemma="společnost_^(*3ý)" src="auto" recommended="1">NNFP2-----A----</AM>
-<AM lemma="společnost_^(*3ý)" src="auto">NNFS7-----A----</AM>
+<AM lemma="společnost_^(*3ý)" src="auto" selected="1">NNFS7-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1289-001-p1s2W10-Ta">
@@ -798,7 +825,10 @@
 <LM>w#w-wsj1289-001-p1s2W10</LM>
 </w.rf>
 <form>Bankers</form>
-<tag lemma="Bankers" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Bankers" src="auto">X@-------------</AM>
+<AM lemma="Bankers-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1289-001-p1s2W11-Ta">
 <src.rf>tagger-a</src.rf>
@@ -809,6 +839,7 @@
 <tag>
 <AM lemma="trust" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="trust" src="auto">NNIS4-----A----</AM>
+<AM lemma="Trust-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1289-001-p1s2W12-Ta">
@@ -825,6 +856,7 @@
 <AM lemma="co-4_^(který:_př.:_o_těch,_co_odešli/co_je_znal)" src="auto">P4XXX----------</AM>
 <AM lemma="co-5_^(př._co_nejméně,_co_nevidět,_co_chvíli,_co_do_počtu,_atd.)" src="auto">Db-------------</AM>
 <AM lemma="co-77_:B" src="auto">F%-------------</AM>
+<AM lemma="Co-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1289-001-p1s2W13-Ta">
@@ -996,7 +1028,10 @@
 <LM>w#w-wsj1289-001-p1s2W26</LM>
 </w.rf>
 <form>Tesoro</form>
-<tag lemma="Tesoro" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Tesoro" src="auto">X@-------------</AM>
+<AM lemma="Tesoro_;K" src="manual" selected="1">NNNS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj1289-001-p1s2W27-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1142,7 +1177,10 @@
 <LM>w#w-wsj1289-001-p1s3W2</LM>
 </w.rf>
 <form>Harken</form>
-<tag lemma="Harken" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Harken" src="auto">X@-------------</AM>
+<AM lemma="Harken_;K" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj1289-001-p1s3W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1379,6 +1417,11 @@
 </w.rf>
 <form>Tesora</form>
 <tag lemma="Tesora" src="auto">X@-------------</tag>
+<comment>
+<LM type="New Form">
+<text>Tesoro</text>
+</LM>
+</comment>
 </m>
 <m id="m-wsj1289-001-p1s3W22-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1506,7 +1549,10 @@
 <LM>w#w-wsj1289-001-p1s4W2</LM>
 </w.rf>
 <form>Tesoro</form>
-<tag lemma="Tesoro" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Tesoro" src="auto">X@-------------</AM>
+<AM lemma="Tesoro_;K" src="manual" selected="1">NNNS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj1289-001-p1s4W3-Ta">
 <src.rf>tagger-a</src.rf>

@@ -608,7 +608,10 @@
 <LM>w#w-wsj2414-001-p1s3W6</LM>
 </w.rf>
 <form>Commercial</form>
-<tag lemma="Commercial" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Commercial" src="auto">X@-------------</AM>
+<AM lemma="Commercial-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj2414-001-p1s3W7-Ta">
 <src.rf>tagger-a</src.rf>
@@ -619,6 +622,7 @@
 <tag>
 <AM lemma="rand" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="rand" src="auto">NNIS4-----A----</AM>
+<AM lemma="Rand-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj2414-001-p1s3W8-Ta">
@@ -844,6 +848,7 @@
 <tag>
 <AM lemma="Nava_;G" src="auto" recommended="1">NNFP2-----A----</AM>
 <AM lemma="nava" src="auto">NNFP2-----A----</AM>
+<AM lemma="NAV-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2414-001-p1s6W7-Ta">
@@ -880,7 +885,7 @@
 <form>z</form>
 <tag>
 <AM lemma="z-1" src="auto" recommended="1">RR--2----------</AM>
-<AM lemma="z-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
+<AM lemma="z-33_^(označení_pomocí_písmene)" src="auto" selected="1">NNNXX-----A----</AM>
 <AM lemma="z-88_:B" src="auto">NNXXX-----A----</AM>
 </tag>
 </m>

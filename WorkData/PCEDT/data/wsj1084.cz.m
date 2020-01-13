@@ -868,7 +868,7 @@
 <form>růst</form>
 <tag>
 <AM lemma="růst-1" src="auto">NNIS1-----A----</AM>
-<AM lemma="růst-1" src="auto">NNIS4-----A----</AM>
+<AM lemma="růst-1" src="auto" selected="1">NNIS4-----A----</AM>
 <AM lemma="růst-2" src="auto" recommended="1">Vf--------A-I--</AM>
 </tag>
 </m>

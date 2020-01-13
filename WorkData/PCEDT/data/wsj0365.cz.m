@@ -21,6 +21,7 @@
 <AM lemma="Bonnie_;Y" src="auto">NNMS5-----A----</AM>
 <AM lemma="Bonnie_;Y" src="auto">NNMXX-----A----</AM>
 <AM lemma="Bonnie_;Y_,t" src="auto" recommended="1">NNFXX-----A----</AM>
+<AM lemma="Bonnie_;Y" src="manual" selected="1">NNFXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0365-001-p1s0W2-Ta">
@@ -50,7 +51,10 @@
 <LM>w#w-wsj0365-001-p1s0W4</LM>
 </w.rf>
 <form>Stedtová</form>
-<tag lemma="Stedtová" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Stedtová" src="auto">X@-------------</AM>
+<AM lemma="Stedtová_;S" src="manual" selected="1">NNFS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj0365-001-p1s0W5-Ta">
 <src.rf>tagger-a</src.rf>
@@ -98,6 +102,7 @@
 <tag>
 <AM lemma="American-1_;K_,t_^(souč._názvů,_např._A._Airlines)" src="auto" recommended="1">AAXXX----1A----</AM>
 <AM lemma="Americana_;G" src="auto">NNFP2-----A----</AM>
+<AM lemma="American-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj0365-001-p1s0W10-Ta">
@@ -109,6 +114,7 @@
 <tag>
 <AM lemma="Express" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Express" src="auto">NNIS4-----A----</AM>
+<AM lemma="Express-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj0365-001-p1s0W11-Ta">
@@ -120,6 +126,7 @@
 <tag>
 <AM lemma="Travela_;K" src="auto">NNFP2-----A----</AM>
 <AM lemma="travel-77" src="auto" recommended="1">F%-------------</AM>
+<AM lemma="Travel-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj0365-001-p1s0W12-Ta">
@@ -128,7 +135,10 @@
 <LM>w#w-wsj0365-001-p1s0W12</LM>
 </w.rf>
 <form>Related</form>
-<tag lemma="Related" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Related" src="auto">X@-------------</AM>
+<AM lemma="Related-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0365-001-p1s0W13-Ta">
 <src.rf>tagger-a</src.rf>
@@ -136,7 +146,10 @@
 <LM>w#w-wsj0365-001-p1s0W13</LM>
 </w.rf>
 <form>Services</form>
-<tag lemma="Services" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Services" src="auto">X@-------------</AM>
+<AM lemma="Services-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0365-001-p1s0W14-Ta">
 <src.rf>tagger-a</src.rf>
@@ -152,6 +165,7 @@
 <AM lemma="co-4_^(který:_př.:_o_těch,_co_odešli/co_je_znal)" src="auto">P4XXX----------</AM>
 <AM lemma="co-5_^(př._co_nejméně,_co_nevidět,_co_chvíli,_co_do_počtu,_atd.)" src="auto">Db-------------</AM>
 <AM lemma="co-77_:B" src="auto">F%-------------</AM>
+<AM lemma="Co-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj0365-001-p1s0W15-Ta">

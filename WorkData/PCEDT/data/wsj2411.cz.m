@@ -478,6 +478,11 @@
 </w.rf>
 <form>Kadanské</form>
 <tag lemma="Kadanské" src="auto">X@-------------</tag>
+<comment>
+<LM type="New Form">
+<text>Kanadské</text>
+</LM>
+</comment>
 </m>
 <m id="m-wsj2411-001-p1s2W2-Ta">
 <src.rf>tagger-a</src.rf>
@@ -550,7 +555,10 @@
 <LM>w#w-wsj2411-001-p1s2W6</LM>
 </w.rf>
 <form>Canada</form>
-<tag lemma="Canada_;G_;K_;R_,s_^(^DD**Kanada)" src="auto" recommended="1">NNFS1-----A----</tag>
+<tag>
+<AM lemma="Canada_;G_;K_;R_,s_^(^DD**Kanada)" src="auto" recommended="1">NNFS1-----A----</AM>
+<AM lemma="Canada-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj2411-001-p1s2W7-Ta">
 <src.rf>tagger-a</src.rf>
@@ -558,7 +566,10 @@
 <LM>w#w-wsj2411-001-p1s2W7</LM>
 </w.rf>
 <form>Savings</form>
-<tag lemma="Savings" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Savings" src="auto">X@-------------</AM>
+<AM lemma="Savings-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj2411-001-p1s2W8-Ta">
 <src.rf>tagger-a</src.rf>
@@ -566,7 +577,10 @@
 <LM>w#w-wsj2411-001-p1s2W8</LM>
 </w.rf>
 <form>Bonds</form>
-<tag lemma="Bonds_;S" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Bonds_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Bonds-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj2411-001-p1s2W9-Ta">
 <src.rf>tagger-a</src.rf>

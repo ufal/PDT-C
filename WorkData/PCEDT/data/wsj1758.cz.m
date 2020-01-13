@@ -644,7 +644,10 @@
 <LM>w#w-wsj1758-001-p1s3W5</LM>
 </w.rf>
 <form>Zarett</form>
-<tag lemma="Zarett" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Zarett" src="auto">X@-------------</AM>
+<AM lemma="Zarett_;S" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj1758-001-p1s3W6-Ta">
 <src.rf>tagger-a</src.rf>
@@ -666,6 +669,7 @@
 <AM lemma="Rex_;S" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="rex" src="auto">NNIS1-----A----</AM>
 <AM lemma="rex" src="auto">NNIS4-----A----</AM>
+<AM lemma="Rex-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1758-001-p1s4W2-Ta">
@@ -674,7 +678,10 @@
 <LM>w#w-wsj1758-001-p1s4W2</LM>
 </w.rf>
 <form>Tremendae</form>
-<tag lemma="Tremendae" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Tremendae" src="auto">X@-------------</AM>
+<AM lemma="Tremendae-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 </s>
 <s id="m-wsj1758-001-p1s5">
@@ -725,7 +732,7 @@
 </w.rf>
 <form>rex</form>
 <tag>
-<AM lemma="rex" src="auto">NNIS1-----A----</AM>
+<AM lemma="rex" src="auto" selected="1">NNIS1-----A----</AM>
 <AM lemma="rex" src="auto" recommended="1">NNIS4-----A----</AM>
 </tag>
 </m>
@@ -953,6 +960,7 @@
 <AM lemma="Laurenc_;Y" src="auto">NNMP4-----A----</AM>
 <AM lemma="Laurenc_;Y" src="auto">NNMS2-----A----</AM>
 <AM lemma="Laurenc_;Y" src="auto" recommended="1">NNMS4-----A----</AM>
+<AM lemma="Laurence_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1758-001-p1s6W3-Ta">
@@ -983,7 +991,10 @@
 <LM>w#w-wsj1758-001-p1s6W5</LM>
 </w.rf>
 <form>Thomas</form>
-<tag lemma="Thomas_;S" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Thomas_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Thomas_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj1758-001-p1s6W6-Ta">
 <src.rf>tagger-a</src.rf>

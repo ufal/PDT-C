@@ -27,7 +27,10 @@
 <LM>w#w-wsj1481-001-p1s0W2</LM>
 </w.rf>
 <form>Stoneridge</form>
-<tag lemma="Stoneridge" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Stoneridge" src="auto">X@-------------</AM>
+<AM lemma="Stoneridge-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1481-001-p1s0W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -35,7 +38,10 @@
 <LM>w#w-wsj1481-001-p1s0W3</LM>
 </w.rf>
 <form>Resources</form>
-<tag lemma="Resources" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Resources" src="auto">X@-------------</AM>
+<AM lemma="Resources-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1481-001-p1s0W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -46,6 +52,7 @@
 <tag>
 <AM lemma="Inc-77_:B" src="auto" recommended="1">F%-------------</AM>
 <AM lemma="inc-77_:B" src="auto">F%-------------</AM>
+<AM lemma="Inc-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1481-001-p1s0W5-Ta">
@@ -323,7 +330,10 @@
 <LM>w#w-wsj1481-001-p1s1W6</LM>
 </w.rf>
 <form>Bloomfield</form>
-<tag lemma="Bloomfield_;S" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Bloomfield_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Bloomfield-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1481-001-p1s1W7-Ta">
 <src.rf>tagger-a</src.rf>
@@ -331,7 +341,10 @@
 <LM>w#w-wsj1481-001-p1s1W7</LM>
 </w.rf>
 <form>Hills</form>
-<tag lemma="Hills_;G_,t" src="auto" recommended="1">NNIPX-----A----</tag>
+<tag>
+<AM lemma="Hills_;G_,t" src="auto" recommended="1">NNIPX-----A----</AM>
+<AM lemma="Hills-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1481-001-p1s1W8-Ta">
 <src.rf>tagger-a</src.rf>
@@ -655,7 +668,7 @@
 <form>výtěžek</form>
 <tag>
 <AM lemma="výtěžek" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="výtěžek" src="auto">NNIS4-----A----</AM>
+<AM lemma="výtěžek" src="auto" selected="1">NNIS4-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1481-001-p1s3W6-Ta">
@@ -1155,7 +1168,7 @@
 </w.rf>
 <form>uplatní</form>
 <tag>
-<AM lemma="uplatnit" src="auto">VB-P---3P-AAP--</AM>
+<AM lemma="uplatnit" src="auto" selected="1">VB-P---3P-AAP--</AM>
 <AM lemma="uplatnit" src="auto" recommended="1">VB-S---3P-AAP--</AM>
 </tag>
 </m>

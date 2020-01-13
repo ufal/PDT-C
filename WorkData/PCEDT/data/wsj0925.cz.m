@@ -30,6 +30,7 @@
 <tag>
 <AM lemma="computer_,s_^(^DD**komputer)" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="computer_,s_^(^DD**komputer)" src="auto">NNIS4-----A----</AM>
+<AM lemma="Computer-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj0925-001-p1s0W3-Ta">
@@ -38,7 +39,10 @@
 <LM>w#w-wsj0925-001-p1s0W3</LM>
 </w.rf>
 <form>Sciences</form>
-<tag lemma="Sciences" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Sciences" src="auto">X@-------------</AM>
+<AM lemma="Sciences-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0925-001-p1s0W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -46,7 +50,10 @@
 <LM>w#w-wsj0925-001-p1s0W4</LM>
 </w.rf>
 <form>Corp</form>
-<tag lemma="corp-77_:B" src="auto" recommended="1">F%-------------</tag>
+<tag>
+<AM lemma="corp-77_:B" src="auto" recommended="1">F%-------------</AM>
+<AM lemma="Corp-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0925-001-p1s0W5-Ta">
 <src.rf>tagger-a</src.rf>
@@ -134,7 +141,10 @@
 <LM>w#w-wsj0925-001-p1s0W13</LM>
 </w.rf>
 <form>USA</form>
-<tag lemma="USA_:B_;G_^(United_States_ofmerica)" src="auto" recommended="1">NNXXX-----A----</tag>
+<tag>
+<AM lemma="USA_:B_;G_^(United_States_ofmerica)" src="auto" recommended="1">NNXXX-----A----</AM>
+<AM lemma="USA_:B_;G_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj0925-001-p1s0W14-Ta">
 <src.rf>tagger-a</src.rf>
@@ -272,6 +282,7 @@
 <tag>
 <AM lemma="computer_,s_^(^DD**komputer)" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="computer_,s_^(^DD**komputer)" src="auto">NNIS4-----A----</AM>
+<AM lemma="Computer-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj0925-001-p1s1W6-Ta">
@@ -280,7 +291,10 @@
 <LM>w#w-wsj0925-001-p1s1W6</LM>
 </w.rf>
 <form>Sciences</form>
-<tag lemma="Sciences" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Sciences" src="auto">X@-------------</AM>
+<AM lemma="Sciences-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0925-001-p1s1W7-Ta">
 <src.rf>tagger-a</src.rf>
@@ -426,7 +440,7 @@
 <form>i</form>
 <tag>
 <AM lemma="i-1" src="auto" recommended="1">J^-------------</AM>
-<AM lemma="i-2" src="auto">TT-------------</AM>
+<AM lemma="i-2" src="auto" selected="1">TT-------------</AM>
 <AM lemma="i-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
 <AM lemma="i-88_:B" src="auto">NNXXX-----A----</AM>
 </tag>
@@ -554,7 +568,7 @@
 <AM lemma="který" src="auto">P4NP4---------6</AM>
 <AM lemma="který" src="auto">P4NS1----------</AM>
 <AM lemma="který" src="auto" recommended="1">P4NS4----------</AM>
-<AM lemma="který" src="auto">P4YP4----------</AM>
+<AM lemma="který" src="auto" selected="1">P4YP4----------</AM>
 </tag>
 </m>
 <m id="m-wsj0925-001-p1s1W28-Ta">
@@ -633,6 +647,7 @@
 <tag>
 <AM lemma="computer_,s_^(^DD**komputer)" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="computer_,s_^(^DD**komputer)" src="auto">NNIS4-----A----</AM>
+<AM lemma="Computer-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj0925-001-p1s2W3-Ta">
@@ -642,7 +657,7 @@
 </w.rf>
 <form>Science</form>
 <tag>
-<AM lemma="Science-77" src="auto" recommended="1">F%-------------</AM>
+<AM lemma="Science-77" src="auto" recommended="1" selected="1">F%-------------</AM>
 <AM lemma="science-77" src="auto">F%-------------</AM>
 </tag>
 </m>
@@ -863,6 +878,7 @@
 <tag>
 <AM lemma="computer_,s_^(^DD**komputer)" src="auto">NNIS1-----A----</AM>
 <AM lemma="computer_,s_^(^DD**komputer)" src="auto" recommended="1">NNIS4-----A----</AM>
+<AM lemma="Computer-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj0925-001-p1s3W11-Ta">
@@ -872,7 +888,7 @@
 </w.rf>
 <form>Science</form>
 <tag>
-<AM lemma="Science-77" src="auto" recommended="1">F%-------------</AM>
+<AM lemma="Science-77" src="auto" recommended="1" selected="1">F%-------------</AM>
 <AM lemma="science-77" src="auto">F%-------------</AM>
 </tag>
 </m>

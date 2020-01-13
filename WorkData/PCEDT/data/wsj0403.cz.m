@@ -139,7 +139,7 @@
 <AM lemma="děsivý" src="auto">AAFS2----1A----</AM>
 <AM lemma="děsivý" src="auto">AAFS3----1A----</AM>
 <AM lemma="děsivý" src="auto">AAFS6----1A----</AM>
-<AM lemma="děsivý" src="auto">AAIP1----1A----</AM>
+<AM lemma="děsivý" src="auto" selected="1">AAIP1----1A----</AM>
 <AM lemma="děsivý" src="auto">AAIP4----1A----</AM>
 <AM lemma="děsivý" src="auto">AAIP5----1A----</AM>
 <AM lemma="děsivý" src="auto">AAMP4----1A----</AM>
@@ -341,7 +341,7 @@
 <form>kol</form>
 <tag>
 <AM lemma="cola_,h_,x_^(nápoj)" src="auto">NNFP2-----A----</AM>
-<AM lemma="kol_,a" src="auto" recommended="1">RR--2----------</AM>
+<AM lemma="kol_,a" src="auto" recommended="1" selected="1">RR--2----------</AM>
 <AM lemma="kolo" src="auto">NNNP2-----A----</AM>
 </tag>
 </m>
@@ -582,7 +582,7 @@
 <AM lemma="vztek" src="auto">NNIP1-----A----</AM>
 <AM lemma="vztek" src="auto">NNIP4-----A----</AM>
 <AM lemma="vztek" src="auto">NNIP5-----A----</AM>
-<AM lemma="vztek" src="auto">NNIP7-----A----</AM>
+<AM lemma="vztek" src="auto" selected="1">NNIP7-----A----</AM>
 <AM lemma="vzteky" src="auto" recommended="1">Db-------------</AM>
 </tag>
 </m>
@@ -881,7 +881,7 @@
 <AM lemma="tvůj_^(přivlast.)" src="auto">PSIP1-S2------1</AM>
 <AM lemma="tvůj_^(přivlast.)" src="auto">PSIP5-S2------1</AM>
 <AM lemma="tvůj_^(přivlast.)" src="auto">PSNS1-S2------1</AM>
-<AM lemma="tvůj_^(přivlast.)" src="auto">PSNS4-S2------1</AM>
+<AM lemma="tvůj_^(přivlast.)" src="auto" selected="1">PSNS4-S2------1</AM>
 <AM lemma="tvůj_^(přivlast.)" src="auto">PSNS5-S2------1</AM>
 <AM lemma="tvůj_^(přivlast.)" src="auto" recommended="1">PSYP4-S2------1</AM>
 </tag>
@@ -966,7 +966,7 @@
 <form>i</form>
 <tag>
 <AM lemma="i-1" src="auto" recommended="1">J^-------------</AM>
-<AM lemma="i-2" src="auto">TT-------------</AM>
+<AM lemma="i-2" src="auto" selected="1">TT-------------</AM>
 <AM lemma="i-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
 <AM lemma="i-88_:B" src="auto">NNXXX-----A----</AM>
 </tag>
@@ -978,7 +978,7 @@
 </w.rf>
 <form>tvoje</form>
 <tag>
-<AM lemma="tvůj_^(přivlast.)" src="auto">PSHP1-S2-------</AM>
+<AM lemma="tvůj_^(přivlast.)" src="auto" selected="1">PSHP1-S2-------</AM>
 <AM lemma="tvůj_^(přivlast.)" src="auto">PSHP5-S2-------</AM>
 <AM lemma="tvůj_^(přivlast.)" src="auto" recommended="1">PSHS1-S2-------</AM>
 <AM lemma="tvůj_^(přivlast.)" src="auto">PSHS5-S2-------</AM>
@@ -1066,7 +1066,10 @@
 <LM>w#w-wsj0403-001-p1s8W2</LM>
 </w.rf>
 <form>Ivern</form>
-<tag lemma="Ivern" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Ivern" src="auto">X@-------------</AM>
+<AM lemma="Ivern_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj0403-001-p1s8W3-Ta">
 <src.rf>tagger-a</src.rf>

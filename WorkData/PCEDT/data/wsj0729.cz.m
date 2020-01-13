@@ -51,7 +51,10 @@
 <LM>w#w-wsj0729-001-p1s0W4</LM>
 </w.rf>
 <form>Likins</form>
-<tag lemma="Likins" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Likins" src="auto">X@-------------</AM>
+<AM lemma="Likins_;S" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj0729-001-p1s0W5-Ta">
 <src.rf>tagger-a</src.rf>
@@ -88,7 +91,10 @@
 <LM>w#w-wsj0729-001-p1s0W8</LM>
 </w.rf>
 <form>Lehigh</form>
-<tag lemma="Lehigh" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Lehigh" src="auto">X@-------------</AM>
+<AM lemma="Lehigh-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0729-001-p1s0W9-Ta">
 <src.rf>tagger-a</src.rf>
@@ -97,7 +103,7 @@
 </w.rf>
 <form>University</form>
 <tag>
-<AM lemma="University-77" src="auto">F%-------------</AM>
+<AM lemma="University-77" src="auto" selected="1">F%-------------</AM>
 <AM lemma="universita_,s_^(^DD**univerzita)" src="auto">NNFP1-----A----</AM>
 <AM lemma="universita_,s_^(^DD**univerzita)" src="auto">NNFP4-----A----</AM>
 <AM lemma="universita_,s_^(^DD**univerzita)" src="auto">NNFP5-----A----</AM>
@@ -132,7 +138,7 @@
 <form>Bethlehem</form>
 <tag>
 <AM lemma="Bethlehem-2_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Bethlehem_;G_,s_^(^DD**Betlém)" src="auto">NNIS1-----A----</AM>
+<AM lemma="Bethlehem_;G_,s_^(^DD**Betlém)" src="auto" selected="1">NNIS1-----A----</AM>
 <AM lemma="Bethlehem_;G_,s_^(^DD**Betlém)" src="auto">NNIS4-----A----</AM>
 </tag>
 </m>

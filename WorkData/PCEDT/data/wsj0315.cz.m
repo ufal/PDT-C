@@ -24,7 +24,10 @@
 <LM>w#w-wsj0315-001-p1s0W2</LM>
 </w.rf>
 <form>Stelco</form>
-<tag lemma="Stelco" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Stelco" src="auto">X@-------------</AM>
+<AM lemma="Stelco-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0315-001-p1s0W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -35,6 +38,7 @@
 <tag>
 <AM lemma="Inc-77_:B" src="auto" recommended="1">F%-------------</AM>
 <AM lemma="inc-77_:B" src="auto">F%-------------</AM>
+<AM lemma="Inc-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj0315-001-p1s0W4-Ta">
@@ -977,7 +981,7 @@
 <form>kolem</form>
 <tag>
 <AM lemma="kolo" src="auto">NNNS7-----A----</AM>
-<AM lemma="kolem-1" src="auto" recommended="1">RR--2----------</AM>
+<AM lemma="kolem-1" src="auto" recommended="1" selected="1">RR--2----------</AM>
 <AM lemma="kolem-2" src="auto">Db-------------</AM>
 </tag>
 </m>
@@ -1021,7 +1025,10 @@
 <LM>w#w-wsj0315-001-p1s6W2</LM>
 </w.rf>
 <form>Stelco</form>
-<tag lemma="Stelco" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Stelco" src="auto">X@-------------</AM>
+<AM lemma="Stelco_;K" src="manual" selected="1">NNNS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj0315-001-p1s6W3-Ta">
 <src.rf>tagger-a</src.rf>

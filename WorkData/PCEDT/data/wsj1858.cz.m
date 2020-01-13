@@ -43,7 +43,7 @@
 <LM>w#w-wsj1858-001-p1s0W3</LM>
 </w.rf>
 <form>Silicon</form>
-<tag lemma="Silicon-77" src="auto" recommended="1">F%-------------</tag>
+<tag lemma="Silicon-77" src="auto" recommended="1" selected="1">F%-------------</tag>
 </m>
 <m id="m-wsj1858-001-p1s0W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -51,7 +51,10 @@
 <LM>w#w-wsj1858-001-p1s0W4</LM>
 </w.rf>
 <form>Graphics</form>
-<tag lemma="Graphics" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Graphics" src="auto">X@-------------</AM>
+<AM lemma="Graphics-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1858-001-p1s0W5-Ta">
 <src.rf>tagger-a</src.rf>
@@ -62,6 +65,7 @@
 <tag>
 <AM lemma="Inc-77_:B" src="auto" recommended="1">F%-------------</AM>
 <AM lemma="inc-77_:B" src="auto">F%-------------</AM>
+<AM lemma="Inc-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1858-001-p1s0W6-Ta">
@@ -602,7 +606,7 @@
 <tag>
 <AM lemma="loňský" src="auto" recommended="1">AAFP2----1A----</AM>
 <AM lemma="loňský" src="auto">AAFP6----1A----</AM>
-<AM lemma="loňský" src="auto">AAIP2----1A----</AM>
+<AM lemma="loňský" src="auto" selected="1">AAIP2----1A----</AM>
 <AM lemma="loňský" src="auto">AAIP6----1A----</AM>
 <AM lemma="loňský" src="auto">AAMP2----1A----</AM>
 <AM lemma="loňský" src="auto">AAMP6----1A----</AM>
@@ -829,7 +833,7 @@
 <form>na</form>
 <tag>
 <AM lemma="na-1" src="auto" recommended="1">RR--4----------</AM>
-<AM lemma="na-1" src="auto">RR--6----------</AM>
+<AM lemma="na-1" src="auto" selected="1">RR--6----------</AM>
 <AM lemma="na-2" src="auto">II-------------</AM>
 </tag>
 </m>

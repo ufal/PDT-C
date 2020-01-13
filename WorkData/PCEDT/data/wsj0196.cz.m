@@ -53,6 +53,7 @@
 <AM lemma="Level_;G" src="auto">NNIS4-----A----</AM>
 <AM lemma="level_,h" src="auto">NNIS1-----A----</AM>
 <AM lemma="level_,h" src="auto">NNIS4-----A----</AM>
+<AM lemma="Level-2_;S" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0196-001-p1s0W5-Ta">
@@ -226,6 +227,7 @@
 <AM lemma="Warren_;G" src="auto">NNIS1-----A----</AM>
 <AM lemma="Warren_;G" src="auto">NNIS4-----A----</AM>
 <AM lemma="Warren_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Warren_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0196-001-p1s0W19-Ta">

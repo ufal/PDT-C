@@ -27,7 +27,10 @@
 <LM>w#w-wsj0432-001-p1s0W2</LM>
 </w.rf>
 <form>BROWN</form>
-<tag lemma="Brown_;S" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Brown_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="BROWN-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0432-001-p1s0W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -50,6 +53,7 @@
 <AM lemma="forman-1" src="auto">NNMS1-----A----</AM>
 <AM lemma="forman-2_;R_^(vozidlo)" src="auto">NNIS1-----A----</AM>
 <AM lemma="forman-2_;R_^(vozidlo)" src="auto">NNIS4-----A----</AM>
+<AM lemma="FORMAN-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj0432-001-p1s0W5-Ta">
@@ -58,7 +62,10 @@
 <LM>w#w-wsj0432-001-p1s0W5</LM>
 </w.rf>
 <form>Corp</form>
-<tag lemma="corp-77_:B" src="auto" recommended="1">F%-------------</tag>
+<tag>
+<AM lemma="corp-77_:B" src="auto" recommended="1">F%-------------</AM>
+<AM lemma="Corp-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0432-001-p1s0W6-Ta">
 <src.rf>tagger-a</src.rf>
@@ -423,6 +430,7 @@
 <AM lemma="Maxwell_;K" src="auto">NNIS1-----A----</AM>
 <AM lemma="Maxwell_;K" src="auto">NNIS4-----A----</AM>
 <AM lemma="Maxwell_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Maxwell-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj0432-001-p1s1W17-Ta">
@@ -431,7 +439,10 @@
 <LM>w#w-wsj0432-001-p1s1W17</LM>
 </w.rf>
 <form>Communication</form>
-<tag lemma="Communication" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Communication" src="auto">X@-------------</AM>
+<AM lemma="Communication-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0432-001-p1s1W18-Ta">
 <src.rf>tagger-a</src.rf>
@@ -442,6 +453,7 @@
 <tag>
 <AM lemma="Inc-77_:B" src="auto" recommended="1">F%-------------</AM>
 <AM lemma="inc-77_:B" src="auto">F%-------------</AM>
+<AM lemma="Inc-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj0432-001-p1s1W19-Ta">

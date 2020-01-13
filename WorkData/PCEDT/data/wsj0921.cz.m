@@ -59,7 +59,10 @@
 <LM>w#w-wsj0921-001-p1s0W3</LM>
 </w.rf>
 <form>Nokia</form>
-<tag lemma="Nokia_;K" src="auto" recommended="1">NNFS1-----A----</tag>
+<tag>
+<AM lemma="Nokia_;K" src="auto" recommended="1">NNFS1-----A----</AM>
+<AM lemma="Nokia-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0921-001-p1s0W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -67,7 +70,10 @@
 <LM>w#w-wsj0921-001-p1s0W4</LM>
 </w.rf>
 <form>Oy</form>
-<tag lemma="Oy" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Oy" src="auto">X@-------------</AM>
+<AM lemma="Oy-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj0921-001-p1s0W5-Ta">
 <src.rf>tagger-a</src.rf>
@@ -76,7 +82,7 @@
 </w.rf>
 <form>AB</form>
 <tag>
-<AM lemma="AB-88_:B" src="auto" recommended="1">NNXXX-----A----</AM>
+<AM lemma="AB-88_:B" src="auto" recommended="1" selected="1">NNXXX-----A----</AM>
 <AM lemma="Ab-77" src="auto">F%-------------</AM>
 <AM lemma="Aba_;Y" src="auto">NNFP2-----A----</AM>
 <AM lemma="ab-77" src="auto">F%-------------</AM>
@@ -227,7 +233,10 @@
 <LM>w#w-wsj0921-001-p1s0W16</LM>
 </w.rf>
 <form>NKF</form>
-<tag lemma="NKF" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="NKF" src="auto">X@-------------</AM>
+<AM lemma="NKF-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj0921-001-p1s0W17-Ta">
 <src.rf>tagger-a</src.rf>
@@ -240,6 +249,7 @@
 <AM lemma="kabel" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="kabel" src="auto">NNIS4-----A----</AM>
 <AM lemma="kabela" src="auto">NNFP2-----A----</AM>
+<AM lemma="Kabel-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj0921-001-p1s0W18-Ta">
@@ -474,7 +484,10 @@
 <LM>w#w-wsj0921-001-p1s1W8</LM>
 </w.rf>
 <form>NKF</form>
-<tag lemma="NKF" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="NKF" src="auto">X@-------------</AM>
+<AM lemma="NKF-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj0921-001-p1s1W9-Ta">
 <src.rf>tagger-a</src.rf>
@@ -487,6 +500,7 @@
 <AM lemma="kabel" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="kabel" src="auto">NNIS4-----A----</AM>
 <AM lemma="kabela" src="auto">NNFP2-----A----</AM>
+<AM lemma="Kabel-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj0921-001-p1s1W10-Ta">
@@ -562,7 +576,10 @@
 <LM>w#w-wsj0921-001-p1s1W17</LM>
 </w.rf>
 <form>NKF</form>
-<tag lemma="NKF" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="NKF" src="auto">X@-------------</AM>
+<AM lemma="NKF-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj0921-001-p1s1W18-Ta">
 <src.rf>tagger-a</src.rf>
@@ -573,6 +590,7 @@
 <tag>
 <AM lemma="holding" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="holding" src="auto">NNIS4-----A----</AM>
+<AM lemma="Holding-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj0921-001-p1s1W19-Ta">
@@ -664,7 +682,10 @@
 <LM>w#w-wsj0921-001-p1s1W26</LM>
 </w.rf>
 <form>NKF</form>
-<tag lemma="NKF" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="NKF" src="auto">X@-------------</AM>
+<AM lemma="NKF-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj0921-001-p1s1W27-Ta">
 <src.rf>tagger-a</src.rf>
@@ -677,6 +698,7 @@
 <AM lemma="kabel" src="auto">NNIS1-----A----</AM>
 <AM lemma="kabel" src="auto" recommended="1">NNIS4-----A----</AM>
 <AM lemma="kabela" src="auto">NNFP2-----A----</AM>
+<AM lemma="Kabel-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj0921-001-p1s1W28-Ta">
@@ -687,7 +709,7 @@
 <form>vlastní</form>
 <tag>
 <AM lemma="vlastnit_^(někdo_má_něco_ve_vlastnictví)" src="auto">VB-P---3P-AAI--</AM>
-<AM lemma="vlastnit_^(někdo_má_něco_ve_vlastnictví)" src="auto">VB-S---3P-AAI--</AM>
+<AM lemma="vlastnit_^(někdo_má_něco_ve_vlastnictví)" src="auto" selected="1">VB-S---3P-AAI--</AM>
 <AM lemma="vlastní_^(příslušný_k_něčemu)" src="auto">AAFP1----1A----</AM>
 <AM lemma="vlastní_^(příslušný_k_něčemu)" src="auto">AAFP4----1A----</AM>
 <AM lemma="vlastní_^(příslušný_k_něčemu)" src="auto">AAFP5----1A----</AM>

@@ -68,6 +68,11 @@
 <AM lemma="51letý" src="auto">AANS4----1A---6</AM>
 <AM lemma="51letý" src="auto">AANS5----1A---6</AM>
 </tag>
+<comment>
+<LM type="Other">
+<text>špatná tokenizace</text>
+</LM>
+</comment>
 </m>
 <m id="m-wsj0069-001-p1s0W5-Ta">
 <src.rf>tagger-a</src.rf>
@@ -322,7 +327,7 @@
 <tag>
 <AM lemma="taka-1_;L" src="auto">NNFP2-----A----</AM>
 <AM lemma="tak-1" src="auto">TT-------------</AM>
-<AM lemma="tak-2" src="auto">J^-------------</AM>
+<AM lemma="tak-2" src="auto" selected="1">J^-------------</AM>
 <AM lemma="tak-3" src="auto" recommended="1">Db-------------</AM>
 </tag>
 </m>
@@ -357,7 +362,7 @@
 <form>Iana</form>
 <tag>
 <AM lemma="Ian_;Y" src="auto" recommended="1">NNMS2-----A----</AM>
-<AM lemma="Ian_;Y" src="auto">NNMS4-----A----</AM>
+<AM lemma="Ian_;Y" src="auto" selected="1">NNMS4-----A----</AM>
 <AM lemma="Ianus_;Y" src="auto">NNMS2-----A----</AM>
 <AM lemma="Ianus_;Y" src="auto">NNMS4-----A----</AM>
 </tag>
@@ -370,7 +375,7 @@
 <form>Butlera</form>
 <tag>
 <AM lemma="Butler_;S" src="auto" recommended="1">NNMS2-----A----</AM>
-<AM lemma="Butler_;S" src="auto">NNMS4-----A----</AM>
+<AM lemma="Butler_;S" src="auto" selected="1">NNMS4-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0069-001-p1s0W28-Ta">
@@ -483,7 +488,7 @@
 <AM lemma="I-3`1" src="auto">C}-------------</AM>
 <AM lemma="I-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
 <AM lemma="I-77" src="auto">F%-------------</AM>
-<AM lemma="I-88_:B" src="auto">NNXXX-----A----</AM>
+<AM lemma="I-88_:B" src="auto" selected="1">NNXXX-----A----</AM>
 <AM lemma="i-1" src="auto">J^-------------</AM>
 <AM lemma="i-2" src="auto" recommended="1">TT-------------</AM>
 <AM lemma="i-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>

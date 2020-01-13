@@ -356,7 +356,7 @@
 </w.rf>
 <form>cení</form>
 <tag>
-<AM lemma="cenit" src="auto">VB-P---3P-AAI--</AM>
+<AM lemma="cenit" src="auto" selected="1">VB-P---3P-AAI--</AM>
 <AM lemma="cenit" src="auto" recommended="1">VB-S---3P-AAI--</AM>
 </tag>
 </m>

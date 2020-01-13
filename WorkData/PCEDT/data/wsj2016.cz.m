@@ -31,7 +31,10 @@
 <LM>w#w-wsj2016-001-p1s0W2</LM>
 </w.rf>
 <form>Honiss</form>
-<tag lemma="Honiss" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Honiss" src="auto">X@-------------</AM>
+<AM lemma="Honiss_;S" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj2016-001-p1s0W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -368,7 +371,7 @@
 <form>výkonného</form>
 <tag>
 <AM lemma="výkonný" src="auto">AAIS2----1A----</AM>
-<AM lemma="výkonný" src="auto">AAMS2----1A----</AM>
+<AM lemma="výkonný" src="auto" selected="1">AAMS2----1A----</AM>
 <AM lemma="výkonný" src="auto" recommended="1">AAMS4----1A----</AM>
 <AM lemma="výkonný" src="auto">AANS2----1A----</AM>
 </tag>
@@ -381,7 +384,7 @@
 <form>ředitele</form>
 <tag>
 <AM lemma="ředitel" src="auto">NNMP4-----A----</AM>
-<AM lemma="ředitel" src="auto">NNMS2-----A----</AM>
+<AM lemma="ředitel" src="auto" selected="1">NNMS2-----A----</AM>
 <AM lemma="ředitel" src="auto" recommended="1">NNMS4-----A----</AM>
 </tag>
 </m>
@@ -405,7 +408,7 @@
 </w.rf>
 <form>New</form>
 <tag>
-<AM lemma="New-77" src="auto" recommended="1">F%-------------</AM>
+<AM lemma="New-77" src="auto" recommended="1" selected="1">F%-------------</AM>
 <AM lemma="new-77_,t" src="auto">F%-------------</AM>
 </tag>
 </m>
@@ -415,7 +418,7 @@
 <LM>w#w-wsj2016-001-p1s0W29</LM>
 </w.rf>
 <form>England</form>
-<tag lemma="England-77" src="auto" recommended="1">F%-------------</tag>
+<tag lemma="England-77" src="auto" recommended="1" selected="1">F%-------------</tag>
 </m>
 <m id="m-wsj2016-001-p1s0W30-Ta">
 <src.rf>tagger-a</src.rf>
@@ -423,7 +426,10 @@
 <LM>w#w-wsj2016-001-p1s0W30</LM>
 </w.rf>
 <form>Savings</form>
-<tag lemma="Savings" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Savings" src="auto">X@-------------</AM>
+<AM lemma="Savings-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj2016-001-p1s0W31-Ta">
 <src.rf>tagger-a</src.rf>
@@ -434,7 +440,7 @@
 <tag>
 <AM lemma="Bank_;S" src="auto">NNMS1-----A----</AM>
 <AM lemma="Bank-1_;K_,t_^(v_cizojaz._názvech_bank)" src="auto" recommended="1">NNFXX-----A----</AM>
-<AM lemma="Bank-77" src="auto">F%-------------</AM>
+<AM lemma="Bank-77" src="auto" selected="1">F%-------------</AM>
 <AM lemma="banka" src="auto">NNFP2-----A----</AM>
 <AM lemma="bank" src="auto">NNIS1-----A----</AM>
 <AM lemma="bank" src="auto">NNIS4-----A----</AM>
@@ -487,7 +493,10 @@
 <LM>w#w-wsj2016-001-p1s1W4</LM>
 </w.rf>
 <form>Attridge</form>
-<tag lemma="Attridge" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Attridge" src="auto">X@-------------</AM>
+<AM lemma="Attridge_;S" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj2016-001-p1s1W5-Ta">
 <src.rf>tagger-a</src.rf>
@@ -627,7 +636,10 @@
 <LM>w#w-wsj2016-001-p1s1W17</LM>
 </w.rf>
 <form>NESB</form>
-<tag lemma="NESB" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="NESB" src="auto">X@-------------</AM>
+<AM lemma="NESB-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj2016-001-p1s1W18-Ta">
 <src.rf>tagger-a</src.rf>
@@ -645,7 +657,10 @@
 <LM>w#w-wsj2016-001-p1s2W1</LM>
 </w.rf>
 <form>NESB</form>
-<tag lemma="NESB" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="NESB" src="auto">X@-------------</AM>
+<AM lemma="NESB-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj2016-001-p1s2W2-Ta">
 <src.rf>tagger-a</src.rf>
@@ -698,7 +713,10 @@
 <LM>w#w-wsj2016-001-p1s2W6</LM>
 </w.rf>
 <form>Omnibanky</form>
-<tag lemma="Omnibanky" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Omnibanky" src="auto">X@-------------</AM>
+<AM lemma="Omnibanka_;K" src="manual" selected="1">NNFS2-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj2016-001-p1s2W7-Ta">
 <src.rf>tagger-a</src.rf>

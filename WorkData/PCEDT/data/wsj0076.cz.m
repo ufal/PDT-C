@@ -27,7 +27,10 @@
 <LM>w#w-wsj0076-001-p1s0W2</LM>
 </w.rf>
 <form>Lancaster</form>
-<tag lemma="Lancaster_;S" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Lancaster_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Lancaster-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0076-001-p1s0W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -48,6 +51,7 @@
 <AM lemma="kolon-1_;U" src="auto">NNIP4-----A----</AM>
 <AM lemma="kolon-1_;U" src="auto">NNIP5-----A----</AM>
 <AM lemma="kolon-1_;U" src="auto">NNIP7-----A----</AM>
+<AM lemma="Colony-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj0076-001-p1s0W4-Ta">
@@ -56,7 +60,10 @@
 <LM>w#w-wsj0076-001-p1s0W4</LM>
 </w.rf>
 <form>Corp</form>
-<tag lemma="corp-77_:B" src="auto" recommended="1">F%-------------</tag>
+<tag>
+<AM lemma="corp-77_:B" src="auto" recommended="1">F%-------------</AM>
+<AM lemma="Corp-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0076-001-p1s0W5-Ta">
 <src.rf>tagger-a</src.rf>
@@ -171,7 +178,7 @@
 <form>společnost</form>
 <tag>
 <AM lemma="společnost_^(*3ý)" src="auto" recommended="1">NNFS1-----A----</AM>
-<AM lemma="společnost_^(*3ý)" src="auto">NNFS4-----A----</AM>
+<AM lemma="společnost_^(*3ý)" src="auto" selected="1">NNFS4-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0076-001-p1s0W14-Ta">
@@ -180,7 +187,10 @@
 <LM>w#w-wsj0076-001-p1s0W14</LM>
 </w.rf>
 <form>Reames</form>
-<tag lemma="Reames" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Reames" src="auto">X@-------------</AM>
+<AM lemma="Reames-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0076-001-p1s0W15-Ta">
 <src.rf>tagger-a</src.rf>
@@ -188,7 +198,10 @@
 <LM>w#w-wsj0076-001-p1s0W15</LM>
 </w.rf>
 <form>Foods</form>
-<tag lemma="Foods" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Foods" src="auto">X@-------------</AM>
+<AM lemma="Foods-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0076-001-p1s0W16-Ta">
 <src.rf>tagger-a</src.rf>
@@ -199,6 +212,7 @@
 <tag>
 <AM lemma="Inc-77_:B" src="auto" recommended="1">F%-------------</AM>
 <AM lemma="inc-77_:B" src="auto">F%-------------</AM>
+<AM lemma="Inc-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj0076-001-p1s0W17-Ta">
@@ -260,6 +274,11 @@
 </w.rf>
 <form>Společnot</form>
 <tag lemma="Společnot" src="auto">X@-------------</tag>
+<comment>
+<LM type="New Form">
+<text>Společnost</text>
+</LM>
+</comment>
 </m>
 <m id="m-wsj0076-001-p1s2W2-Ta">
 <src.rf>tagger-a</src.rf>
@@ -267,7 +286,10 @@
 <LM>w#w-wsj0076-001-p1s2W2</LM>
 </w.rf>
 <form>Reames</form>
-<tag lemma="Reames" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Reames" src="auto">X@-------------</AM>
+<AM lemma="Reames_;S" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj0076-001-p1s2W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -410,6 +432,7 @@
 <AM lemma="Cliv_;Y" src="auto">NNMS5-----A----</AM>
 <AM lemma="Clive_;S" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Clive_;S" src="auto">NNMS5-----A----</AM>
+<AM lemma="Clive-2_;G" src="manual" selected="1">NNNXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0076-001-p1s2W14-Ta">

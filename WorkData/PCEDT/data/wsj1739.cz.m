@@ -19,6 +19,7 @@
 <tag>
 <AM lemma="Bristol_;G" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Bristol_;G" src="auto">NNIS4-----A----</AM>
+<AM lemma="Bristol-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1739-001-p1s0W2-Ta">
@@ -35,7 +36,10 @@
 <LM>w#w-wsj1739-001-p1s0W3</LM>
 </w.rf>
 <form>Myers</form>
-<tag lemma="Myers_;S" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Myers_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Myers-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1739-001-p1s0W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -43,7 +47,10 @@
 <LM>w#w-wsj1739-001-p1s0W4</LM>
 </w.rf>
 <form>Squibb</form>
-<tag lemma="Squibb" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Squibb" src="auto">X@-------------</AM>
+<AM lemma="Squibb-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1739-001-p1s0W5-Ta">
 <src.rf>tagger-a</src.rf>
@@ -59,6 +66,7 @@
 <AM lemma="co-4_^(který:_př.:_o_těch,_co_odešli/co_je_znal)" src="auto">P4XXX----------</AM>
 <AM lemma="co-5_^(př._co_nejméně,_co_nevidět,_co_chvíli,_co_do_počtu,_atd.)" src="auto">Db-------------</AM>
 <AM lemma="co-77_:B" src="auto">F%-------------</AM>
+<AM lemma="Co-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1739-001-p1s0W6-Ta">
@@ -487,6 +495,7 @@
 <tag>
 <AM lemma="Bristol_;G" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Bristol_;G" src="auto">NNIS4-----A----</AM>
+<AM lemma="Bristol-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1739-001-p1s1W3-Ta">
@@ -503,7 +512,10 @@
 <LM>w#w-wsj1739-001-p1s1W4</LM>
 </w.rf>
 <form>Myers</form>
-<tag lemma="Myers_;S" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Myers_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Myers-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1739-001-p1s1W5-Ta">
 <src.rf>tagger-a</src.rf>
@@ -519,6 +531,7 @@
 <AM lemma="co-4_^(který:_př.:_o_těch,_co_odešli/co_je_znal)" src="auto">P4XXX----------</AM>
 <AM lemma="co-5_^(př._co_nejméně,_co_nevidět,_co_chvíli,_co_do_počtu,_atd.)" src="auto">Db-------------</AM>
 <AM lemma="co-77_:B" src="auto">F%-------------</AM>
+<AM lemma="Co-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1739-001-p1s1W6-Ta">
@@ -560,7 +573,10 @@
 <LM>w#w-wsj1739-001-p1s1W9</LM>
 </w.rf>
 <form>Squibb</form>
-<tag lemma="Squibb" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Squibb" src="auto">X@-------------</AM>
+<AM lemma="Squibb-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1739-001-p1s1W10-Ta">
 <src.rf>tagger-a</src.rf>
@@ -568,7 +584,10 @@
 <LM>w#w-wsj1739-001-p1s1W10</LM>
 </w.rf>
 <form>Corp</form>
-<tag lemma="corp-77_:B" src="auto" recommended="1">F%-------------</tag>
+<tag>
+<AM lemma="corp-77_:B" src="auto" recommended="1">F%-------------</AM>
+<AM lemma="Corp-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1739-001-p1s1W11-Ta">
 <src.rf>tagger-a</src.rf>
@@ -596,7 +615,7 @@
 <AM lemma="sídlící_^(*3it)" src="auto" recommended="1">AGFP1-----A----</AM>
 <AM lemma="sídlící_^(*3it)" src="auto">AGFP4-----A----</AM>
 <AM lemma="sídlící_^(*3it)" src="auto">AGFP5-----A----</AM>
-<AM lemma="sídlící_^(*3it)" src="auto">AGFS1-----A----</AM>
+<AM lemma="sídlící_^(*3it)" src="auto" selected="1">AGFS1-----A----</AM>
 <AM lemma="sídlící_^(*3it)" src="auto">AGFS2-----A----</AM>
 <AM lemma="sídlící_^(*3it)" src="auto">AGFS3-----A----</AM>
 <AM lemma="sídlící_^(*3it)" src="auto">AGFS4-----A----</AM>
@@ -684,7 +703,10 @@
 <LM>w#w-wsj1739-001-p1s1W19</LM>
 </w.rf>
 <form>Jersey</form>
-<tag lemma="Jersey_;G" src="auto" recommended="1">NNNXX-----A----</tag>
+<tag>
+<AM lemma="Jersey_;G" src="auto" recommended="1">NNNXX-----A----</AM>
+<AM lemma="Jersey-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1739-001-p1s1W20-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1031,6 +1053,7 @@
 <tag>
 <AM lemma="Bristol_;G" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Bristol_;G" src="auto">NNIS4-----A----</AM>
+<AM lemma="Bristol-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1739-001-p1s2W7-Ta">
@@ -1047,7 +1070,10 @@
 <LM>w#w-wsj1739-001-p1s2W8</LM>
 </w.rf>
 <form>Myers</form>
-<tag lemma="Myers_;S" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Myers_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Myers-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1739-001-p1s2W9-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1055,7 +1081,10 @@
 <LM>w#w-wsj1739-001-p1s2W9</LM>
 </w.rf>
 <form>Squibb</form>
-<tag lemma="Squibb" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Squibb" src="auto">X@-------------</AM>
+<AM lemma="Squibb-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1739-001-p1s2W10-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1138,6 +1167,7 @@
 <tag>
 <AM lemma="Bristol_;G" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Bristol_;G" src="auto">NNIS4-----A----</AM>
+<AM lemma="Bristol-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1739-001-p1s3W3-Ta">
@@ -1154,7 +1184,10 @@
 <LM>w#w-wsj1739-001-p1s3W4</LM>
 </w.rf>
 <form>Myers</form>
-<tag lemma="Myers_;S" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Myers_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Myers-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1739-001-p1s3W5-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1303,7 +1336,7 @@
 <tag>
 <AM lemma="loňský" src="auto" recommended="1">AAFP2----1A----</AM>
 <AM lemma="loňský" src="auto">AAFP6----1A----</AM>
-<AM lemma="loňský" src="auto">AAIP2----1A----</AM>
+<AM lemma="loňský" src="auto" selected="1">AAIP2----1A----</AM>
 <AM lemma="loňský" src="auto">AAIP6----1A----</AM>
 <AM lemma="loňský" src="auto">AAMP2----1A----</AM>
 <AM lemma="loňský" src="auto">AAMP6----1A----</AM>
@@ -1710,7 +1743,10 @@
 <LM>w#w-wsj1739-001-p1s5W2</LM>
 </w.rf>
 <form>Squibb</form>
-<tag lemma="Squibb" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Squibb" src="auto">X@-------------</AM>
+<AM lemma="Squibb-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1739-001-p1s5W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1718,7 +1754,10 @@
 <LM>w#w-wsj1739-001-p1s5W3</LM>
 </w.rf>
 <form>Corp</form>
-<tag lemma="corp-77_:B" src="auto" recommended="1">F%-------------</tag>
+<tag>
+<AM lemma="corp-77_:B" src="auto" recommended="1">F%-------------</AM>
+<AM lemma="Corp-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1739-001-p1s5W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2449,6 +2488,7 @@
 <tag>
 <AM lemma="Bristol_;G" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Bristol_;G" src="auto">NNIS4-----A----</AM>
+<AM lemma="Bristol-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1739-001-p1s7W13-Ta">
@@ -2465,7 +2505,10 @@
 <LM>w#w-wsj1739-001-p1s7W14</LM>
 </w.rf>
 <form>Myers</form>
-<tag lemma="Myers_;S" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Myers_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Myers-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1739-001-p1s7W15-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2473,7 +2516,10 @@
 <LM>w#w-wsj1739-001-p1s7W15</LM>
 </w.rf>
 <form>Squibb</form>
-<tag lemma="Squibb" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Squibb" src="auto">X@-------------</AM>
+<AM lemma="Squibb-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1739-001-p1s7W16-Ta">
 <src.rf>tagger-a</src.rf>

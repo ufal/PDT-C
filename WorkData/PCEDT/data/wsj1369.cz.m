@@ -32,6 +32,7 @@
 <AM lemma="General_;K_,t" src="auto">NNIS1-----A----</AM>
 <AM lemma="General_;K_,t" src="auto">NNIS4-----A----</AM>
 <AM lemma="General_;K_,t" src="auto" recommended="1">NNXXX-----A----</AM>
+<AM lemma="General-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1369-001-p1s0W3-Ta">
@@ -40,7 +41,10 @@
 <LM>w#w-wsj1369-001-p1s0W3</LM>
 </w.rf>
 <form>Electric</form>
-<tag lemma="Electric-1_;K_,t_^(souč._názvů,_např._General_E.)" src="auto" recommended="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="Electric-1_;K_,t_^(souč._názvů,_např._General_E.)" src="auto" recommended="1">AAXXX----1A----</AM>
+<AM lemma="Electric-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1369-001-p1s0W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -56,6 +60,7 @@
 <AM lemma="co-4_^(který:_př.:_o_těch,_co_odešli/co_je_znal)" src="auto">P4XXX----------</AM>
 <AM lemma="co-5_^(př._co_nejméně,_co_nevidět,_co_chvíli,_co_do_počtu,_atd.)" src="auto">Db-------------</AM>
 <AM lemma="co-77_:B" src="auto">F%-------------</AM>
+<AM lemma="Co-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1369-001-p1s0W5-Ta">
@@ -137,7 +142,7 @@
 </w.rf>
 <form>na</form>
 <tag>
-<AM lemma="na-1" src="auto">RR--4----------</AM>
+<AM lemma="na-1" src="auto" selected="1">RR--4----------</AM>
 <AM lemma="na-1" src="auto" recommended="1">RR--6----------</AM>
 <AM lemma="na-2" src="auto">II-------------</AM>
 </tag>
@@ -150,7 +155,7 @@
 <form>součásti</form>
 <tag>
 <AM lemma="součást" src="auto">NNFP1-----A----</AM>
-<AM lemma="součást" src="auto">NNFP4-----A----</AM>
+<AM lemma="součást" src="auto" selected="1">NNFP4-----A----</AM>
 <AM lemma="součást" src="auto">NNFP5-----A----</AM>
 <AM lemma="součást" src="auto">NNFS2-----A----</AM>
 <AM lemma="součást" src="auto">NNFS3-----A----</AM>
@@ -259,6 +264,7 @@
 <AM lemma="Westinghouse_;K" src="auto">NNIS5-----A----</AM>
 <AM lemma="Westinghouse_;K" src="auto">NNIS6-----A----</AM>
 <AM lemma="Westinghouse_;K" src="auto">NNIS7-----A----</AM>
+<AM lemma="Westinghouse-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1369-001-p1s1W3-Ta">
@@ -267,7 +273,10 @@
 <LM>w#w-wsj1369-001-p1s1W3</LM>
 </w.rf>
 <form>Electric</form>
-<tag lemma="Electric-1_;K_,t_^(souč._názvů,_např._General_E.)" src="auto" recommended="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="Electric-1_;K_,t_^(souč._názvů,_např._General_E.)" src="auto" recommended="1">AAXXX----1A----</AM>
+<AM lemma="Electric-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1369-001-p1s1W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -275,7 +284,10 @@
 <LM>w#w-wsj1369-001-p1s1W4</LM>
 </w.rf>
 <form>Corp</form>
-<tag lemma="corp-77_:B" src="auto" recommended="1">F%-------------</tag>
+<tag>
+<AM lemma="corp-77_:B" src="auto" recommended="1">F%-------------</AM>
+<AM lemma="Corp-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1369-001-p1s1W5-Ta">
 <src.rf>tagger-a</src.rf>
@@ -378,7 +390,7 @@
 </w.rf>
 <form>na</form>
 <tag>
-<AM lemma="na-1" src="auto">RR--4----------</AM>
+<AM lemma="na-1" src="auto" selected="1">RR--4----------</AM>
 <AM lemma="na-1" src="auto" recommended="1">RR--6----------</AM>
 <AM lemma="na-2" src="auto">II-------------</AM>
 </tag>
@@ -391,7 +403,7 @@
 <form>součásti</form>
 <tag>
 <AM lemma="součást" src="auto">NNFP1-----A----</AM>
-<AM lemma="součást" src="auto">NNFP4-----A----</AM>
+<AM lemma="součást" src="auto" selected="1">NNFP4-----A----</AM>
 <AM lemma="součást" src="auto">NNFP5-----A----</AM>
 <AM lemma="součást" src="auto">NNFS2-----A----</AM>
 <AM lemma="součást" src="auto">NNFS3-----A----</AM>
@@ -495,6 +507,7 @@
 <tag>
 <AM lemma="Federal_;G" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Federal_;G" src="auto">NNIS4-----A----</AM>
+<AM lemma="Federal-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1369-001-p1s2W3-Ta">
@@ -511,6 +524,7 @@
 <AM lemma="datum_^(kalendářní)" src="auto">NNNP4-----A----</AM>
 <AM lemma="datum_^(kalendářní)" src="auto">NNNP5-----A----</AM>
 <AM lemma="datum_^(kalendářní)" src="auto" recommended="1">NNNS2-----A----</AM>
+<AM lemma="Data-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1369-001-p1s2W4-Ta">
@@ -519,7 +533,10 @@
 <LM>w#w-wsj1369-001-p1s2W4</LM>
 </w.rf>
 <form>Corp</form>
-<tag lemma="corp-77_:B" src="auto" recommended="1">F%-------------</tag>
+<tag>
+<AM lemma="corp-77_:B" src="auto" recommended="1">F%-------------</AM>
+<AM lemma="Corp-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1369-001-p1s2W5-Ta">
 <src.rf>tagger-a</src.rf>
@@ -714,6 +731,7 @@
 <tag>
 <AM lemma="American-1_;K_,t_^(souč._názvů,_např._A._Airlines)" src="auto" recommended="1">AAXXX----1A----</AM>
 <AM lemma="Americana_;G" src="auto">NNFP2-----A----</AM>
+<AM lemma="American-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1369-001-p1s3W3-Ta">
@@ -722,7 +740,10 @@
 <LM>w#w-wsj1369-001-p1s3W3</LM>
 </w.rf>
 <form>Telephone</form>
-<tag lemma="Telephone" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Telephone" src="auto">X@-------------</AM>
+<AM lemma="Telephone-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1369-001-p1s3W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -738,7 +759,10 @@
 <LM>w#w-wsj1369-001-p1s3W5</LM>
 </w.rf>
 <form>Telegraph</form>
-<tag lemma="Telegraph-1_;K_,t_^(souč._názvu_Daily_T.)" src="auto" recommended="1">NNIXX-----A----</tag>
+<tag>
+<AM lemma="Telegraph-1_;K_,t_^(souč._názvu_Daily_T.)" src="auto" recommended="1">NNIXX-----A----</AM>
+<AM lemma="Telegraph-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1369-001-p1s3W6-Ta">
 <src.rf>tagger-a</src.rf>
@@ -754,6 +778,7 @@
 <AM lemma="co-4_^(který:_př.:_o_těch,_co_odešli/co_je_znal)" src="auto">P4XXX----------</AM>
 <AM lemma="co-5_^(př._co_nejméně,_co_nevidět,_co_chvíli,_co_do_počtu,_atd.)" src="auto">Db-------------</AM>
 <AM lemma="co-77_:B" src="auto">F%-------------</AM>
+<AM lemma="Co-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1369-001-p1s3W7-Ta">

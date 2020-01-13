@@ -30,6 +30,7 @@
 <tag>
 <AM lemma="Home_;S" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="home_,t" src="auto">AAXXX----1A----</AM>
+<AM lemma="Home-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1485-001-p1s0W3-Ta">
@@ -38,7 +39,10 @@
 <LM>w#w-wsj1485-001-p1s0W3</LM>
 </w.rf>
 <form>Beneficial</form>
-<tag lemma="Beneficial" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Beneficial" src="auto">X@-------------</AM>
+<AM lemma="Beneficial-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1485-001-p1s0W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -46,7 +50,10 @@
 <LM>w#w-wsj1485-001-p1s0W4</LM>
 </w.rf>
 <form>Corp</form>
-<tag lemma="corp-77_:B" src="auto" recommended="1">F%-------------</tag>
+<tag>
+<AM lemma="corp-77_:B" src="auto" recommended="1">F%-------------</AM>
+<AM lemma="Corp-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1485-001-p1s0W5-Ta">
 <src.rf>tagger-a</src.rf>
@@ -786,6 +793,11 @@
 <AM lemma="tento" src="auto">PDMS4----------</AM>
 <AM lemma="tento" src="auto" recommended="1">PDZS2----------</AM>
 </tag>
+<comment>
+<LM type="Other">
+<text>chybí konec věty</text>
+</LM>
+</comment>
 </m>
 </s>
 <s id="m-wsj1485-001-p1s2">
@@ -1166,7 +1178,7 @@
 <form>výdaje</form>
 <tag>
 <AM lemma="výdaj" src="auto">NNIP1-----A----</AM>
-<AM lemma="výdaj" src="auto">NNIP4-----A----</AM>
+<AM lemma="výdaj" src="auto" selected="1">NNIP4-----A----</AM>
 <AM lemma="výdaj" src="auto">NNIP5-----A----</AM>
 <AM lemma="výdaj" src="auto" recommended="1">NNIS2-----A----</AM>
 </tag>

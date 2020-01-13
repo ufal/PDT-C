@@ -330,7 +330,7 @@
 <AM lemma="finanční" src="auto">AAFS6----1A----</AM>
 <AM lemma="finanční" src="auto">AAFS7----1A----</AM>
 <AM lemma="finanční" src="auto">AAIP1----1A----</AM>
-<AM lemma="finanční" src="auto">AAIP4----1A----</AM>
+<AM lemma="finanční" src="auto" selected="1">AAIP4----1A----</AM>
 <AM lemma="finanční" src="auto">AAIP5----1A----</AM>
 <AM lemma="finanční" src="auto">AAIS1----1A----</AM>
 <AM lemma="finanční" src="auto">AAIS4----1A----</AM>
@@ -356,7 +356,7 @@
 <form>ústavy</form>
 <tag>
 <AM lemma="ústav" src="auto">NNIP1-----A----</AM>
-<AM lemma="ústav" src="auto">NNIP4-----A----</AM>
+<AM lemma="ústav" src="auto" selected="1">NNIP4-----A----</AM>
 <AM lemma="ústav" src="auto">NNIP5-----A----</AM>
 <AM lemma="ústav" src="auto">NNIP7-----A----</AM>
 <AM lemma="ústava" src="auto" recommended="1">NNFP1-----A----</AM>
@@ -898,7 +898,10 @@
 <LM>w#w-wsj0094-001-p1s3W1</LM>
 </w.rf>
 <form>Takuma</form>
-<tag lemma="Takuma" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Takuma" src="auto">X@-------------</AM>
+<AM lemma="Takuma_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj0094-001-p1s3W2-Ta">
 <src.rf>tagger-a</src.rf>
@@ -910,6 +913,7 @@
 <AM lemma="Yamamoto_;G" src="auto" recommended="1">NNNS1-----A----</AM>
 <AM lemma="Yamamoto_;G" src="auto">NNNS4-----A----</AM>
 <AM lemma="Yamamoto_;G" src="auto">NNNS5-----A----</AM>
+<AM lemma="Yamamoto-2_;S" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0094-001-p1s3W3-Ta">
@@ -950,7 +954,10 @@
 <LM>w#w-wsj0094-001-p1s3W6</LM>
 </w.rf>
 <form>Fujitsu</form>
-<tag lemma="Fujitsu_;K" src="auto" recommended="1">NNNXX-----A----</tag>
+<tag>
+<AM lemma="Fujitsu_;K" src="auto" recommended="1">NNNXX-----A----</AM>
+<AM lemma="Fujitsu-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0094-001-p1s3W7-Ta">
 <src.rf>tagger-a</src.rf>
@@ -958,7 +965,10 @@
 <LM>w#w-wsj0094-001-p1s3W7</LM>
 </w.rf>
 <form>Ltd</form>
-<tag lemma="Ltd-77_:B" src="auto" recommended="1">F%-------------</tag>
+<tag>
+<AM lemma="Ltd-77_:B" src="auto" recommended="1">F%-------------</AM>
+<AM lemma="Ltd-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0094-001-p1s3W8-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1149,6 +1159,7 @@
 <AM lemma="mladý" src="auto">AAIP7----1A----</AM>
 <AM lemma="mladý" src="auto" recommended="1">AAMP7----1A----</AM>
 <AM lemma="mladý" src="auto">AANP7----1A----</AM>
+<AM lemma="mladý-2" src="manual" selected="1">NNMP7-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0094-001-p1s3W28-Ta">
@@ -1440,7 +1451,7 @@
 <AM lemma="potřebný" src="auto">AAFS2----1A----</AM>
 <AM lemma="potřebný" src="auto">AAFS3----1A----</AM>
 <AM lemma="potřebný" src="auto">AAFS6----1A----</AM>
-<AM lemma="potřebný" src="auto">AAIP1----1A----</AM>
+<AM lemma="potřebný" src="auto" selected="1">AAIP1----1A----</AM>
 <AM lemma="potřebný" src="auto">AAIP4----1A----</AM>
 <AM lemma="potřebný" src="auto">AAIP5----1A----</AM>
 <AM lemma="potřebný" src="auto">AAMP4----1A----</AM>
@@ -2639,7 +2650,7 @@
 </w.rf>
 <form>image</form>
 <tag>
-<AM lemma="image" src="auto">NNFXX-----A----</AM>
+<AM lemma="image" src="auto" selected="1">NNFXX-----A----</AM>
 <AM lemma="image" src="auto">NNIXX-----A----</AM>
 <AM lemma="image" src="auto">NNNXX-----A----</AM>
 <AM lemma="image" src="auto" recommended="1">NNXXX-----A----</AM>
@@ -3323,7 +3334,7 @@
 </w.rf>
 <form>lepší</form>
 <tag>
-<AM lemma="dobrý" src="auto">AAFP1----2A----</AM>
+<AM lemma="dobrý" src="auto" selected="1">AAFP1----2A----</AM>
 <AM lemma="dobrý" src="auto" recommended="1">AAFP4----2A----</AM>
 <AM lemma="dobrý" src="auto">AAFP5----2A----</AM>
 <AM lemma="dobrý" src="auto">AAFS1----2A----</AM>
@@ -3361,7 +3372,7 @@
 </w.rf>
 <form>kanceláře</form>
 <tag>
-<AM lemma="kancelář" src="auto">NNFP1-----A----</AM>
+<AM lemma="kancelář" src="auto" selected="1">NNFP1-----A----</AM>
 <AM lemma="kancelář" src="auto" recommended="1">NNFP4-----A----</AM>
 <AM lemma="kancelář" src="auto">NNFP5-----A----</AM>
 <AM lemma="kancelář" src="auto">NNFS2-----A----</AM>
@@ -3537,6 +3548,7 @@
 <AM lemma="Hiroshi_;S" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Hiroshi_;S" src="auto">NNMS5-----A----</AM>
 <AM lemma="Hiroshi_;S" src="auto">NNMXX-----A----</AM>
+<AM lemma="Hiroshi_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0094-001-p1s13W2-Ta">
@@ -3548,6 +3560,7 @@
 <tag>
 <AM lemma="Asad_;S" src="auto" recommended="1">NNMS2-----A----</AM>
 <AM lemma="Asad_;S" src="auto">NNMS4-----A----</AM>
+<AM lemma="Asada_;S" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 </s>

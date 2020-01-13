@@ -71,7 +71,7 @@
 <AM lemma="přední" src="auto">AAIP1----1A----</AM>
 <AM lemma="přední" src="auto">AAIP4----1A----</AM>
 <AM lemma="přední" src="auto">AAIP5----1A----</AM>
-<AM lemma="přední" src="auto">AAIS1----1A----</AM>
+<AM lemma="přední" src="auto" selected="1">AAIS1----1A----</AM>
 <AM lemma="přední" src="auto">AAIS4----1A----</AM>
 <AM lemma="přední" src="auto">AAIS5----1A----</AM>
 <AM lemma="přední" src="auto">AAMP1----1A----</AM>
@@ -103,7 +103,7 @@
 <AM lemma="švýcarský" src="auto">AAIP1----1A---6</AM>
 <AM lemma="švýcarský" src="auto">AAIP4----1A---6</AM>
 <AM lemma="švýcarský" src="auto">AAIP5----1A---6</AM>
-<AM lemma="švýcarský" src="auto">AAIS1----1A----</AM>
+<AM lemma="švýcarský" src="auto" selected="1">AAIS1----1A----</AM>
 <AM lemma="švýcarský" src="auto">AAIS4----1A----</AM>
 <AM lemma="švýcarský" src="auto">AAIS5----1A----</AM>
 <AM lemma="švýcarský" src="auto">AAMP1----1A---6</AM>
@@ -135,7 +135,7 @@
 <AM lemma="chemický" src="auto">AAIP1----1A---6</AM>
 <AM lemma="chemický" src="auto">AAIP4----1A---6</AM>
 <AM lemma="chemický" src="auto">AAIP5----1A---6</AM>
-<AM lemma="chemický" src="auto">AAIS1----1A----</AM>
+<AM lemma="chemický" src="auto" selected="1">AAIS1----1A----</AM>
 <AM lemma="chemický" src="auto">AAIS4----1A----</AM>
 <AM lemma="chemický" src="auto">AAIS5----1A----</AM>
 <AM lemma="chemický" src="auto">AAMP1----1A---6</AM>
@@ -441,6 +441,11 @@
 </w.rf>
 <form>8O</form>
 <tag lemma="8O" src="auto">X@-------------</tag>
+<comment>
+<LM type="New Form">
+<text>80</text>
+</LM>
+</comment>
 </m>
 <m id="m-wsj2089-001-p1s0W34-Ta">
 <src.rf>tagger-a</src.rf>
@@ -505,7 +510,7 @@
 <tag>
 <AM lemma="oddělený_^(*3it)" src="auto">AAMP1----1A----</AM>
 <AM lemma="oddělený_^(*3it)" src="auto">AAMP5----1A----</AM>
-<AM lemma="oddělení_^(*3it)" src="auto">NNNP1-----A----</AM>
+<AM lemma="oddělení_^(*3it)" src="auto" selected="1">NNNP1-----A----</AM>
 <AM lemma="oddělení_^(*3it)" src="auto">NNNP2-----A----</AM>
 <AM lemma="oddělení_^(*3it)" src="auto">NNNP4-----A----</AM>
 <AM lemma="oddělení_^(*3it)" src="auto">NNNP5-----A----</AM>
@@ -1126,7 +1131,10 @@
 <LM>w#w-wsj2089-001-p1s3W6</LM>
 </w.rf>
 <form>nebrajíc</form>
-<tag lemma="nebrajíc" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="nebrajíc" src="auto">X@-------------</AM>
+<AM lemma="brát" src="manual" selected="1">VeHS------N-I--</AM>
+</tag>
 </m>
 <m id="m-wsj2089-001-p1s3W7-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1254,7 +1262,7 @@
 <AM lemma="významný" src="auto">AAIP4----1A---6</AM>
 <AM lemma="významný" src="auto">AAIP5----1A---6</AM>
 <AM lemma="významný" src="auto" recommended="1">AAIS1----1A----</AM>
-<AM lemma="významný" src="auto">AAIS4----1A----</AM>
+<AM lemma="významný" src="auto" selected="1">AAIS4----1A----</AM>
 <AM lemma="významný" src="auto">AAIS5----1A----</AM>
 <AM lemma="významný" src="auto">AAMP1----1A---6</AM>
 <AM lemma="významný" src="auto">AAMP4----1A---6</AM>
@@ -1277,7 +1285,7 @@
 <form>vzestup</form>
 <tag>
 <AM lemma="vzestup" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="vzestup" src="auto">NNIS4-----A----</AM>
+<AM lemma="vzestup" src="auto" selected="1">NNIS4-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2089-001-p1s3W17-Ta">

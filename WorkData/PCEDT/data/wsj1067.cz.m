@@ -126,6 +126,7 @@
 <AM lemma="Lawrence_;S" src="auto">NNMS4-----A---1</AM>
 <AM lemma="Lawrence_;S" src="auto">NNMS5-----A----</AM>
 <AM lemma="Lawrence_;S" src="auto">NNMXX-----A----</AM>
+<AM lemma="Lawrence-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1067-001-p1s0W11-Ta">
@@ -138,6 +139,7 @@
 <AM lemma="Hall_;S" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="hall_,t" src="auto">NNIS1-----A----</AM>
 <AM lemma="hall_,t" src="auto">NNIS4-----A----</AM>
+<AM lemma="Hall-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1067-001-p1s0W12-Ta">
@@ -154,6 +156,7 @@
 <AM lemma="co-4_^(který:_př.:_o_těch,_co_odešli/co_je_znal)" src="auto">P4XXX----------</AM>
 <AM lemma="co-5_^(př._co_nejméně,_co_nevidět,_co_chvíli,_co_do_počtu,_atd.)" src="auto">Db-------------</AM>
 <AM lemma="co-77_:B" src="auto">F%-------------</AM>
+<AM lemma="Co-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1067-001-p1s0W13-Ta">
@@ -195,7 +198,10 @@
 <LM>w#w-wsj1067-001-p1s0W16</LM>
 </w.rf>
 <form>Nashua</form>
-<tag lemma="Nashua" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Nashua" src="auto">X@-------------</AM>
+<AM lemma="Nashua_;G_;K" src="manual" selected="1">NNFXX-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj1067-001-p1s0W17-Ta">
 <src.rf>tagger-a</src.rf>

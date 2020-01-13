@@ -27,7 +27,10 @@
 <LM>w#w-wsj0355-001-p1s0W2</LM>
 </w.rf>
 <form>Clarcor</form>
-<tag lemma="Clarcor" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Clarcor" src="auto">X@-------------</AM>
+<AM lemma="Clarcor-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0355-001-p1s0W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -38,6 +41,7 @@
 <tag>
 <AM lemma="Inc-77_:B" src="auto" recommended="1">F%-------------</AM>
 <AM lemma="inc-77_:B" src="auto">F%-------------</AM>
+<AM lemma="Inc-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj0355-001-p1s0W4-Ta">
@@ -174,7 +178,10 @@
 <LM>w#w-wsj0355-001-p1s0W17</LM>
 </w.rf>
 <form>Clark</form>
-<tag lemma="Clark_;S" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Clark_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Clark-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0355-001-p1s0W18-Ta">
 <src.rf>tagger-a</src.rf>
@@ -185,6 +192,7 @@
 <tag>
 <AM lemma="Inc-77_:B" src="auto" recommended="1">F%-------------</AM>
 <AM lemma="inc-77_:B" src="auto">F%-------------</AM>
+<AM lemma="Inc-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj0355-001-p1s0W19-Ta">
@@ -202,7 +210,7 @@
 </w.rf>
 <form>skupině</form>
 <tag>
-<AM lemma="skupina" src="auto">NNFS3-----A----</AM>
+<AM lemma="skupina" src="auto" selected="1">NNFS3-----A----</AM>
 <AM lemma="skupina" src="auto" recommended="1">NNFS6-----A----</AM>
 </tag>
 </m>
@@ -250,7 +258,10 @@
 <LM>w#w-wsj0355-001-p1s0W25</LM>
 </w.rf>
 <form>Anderson</form>
-<tag lemma="Anderson_;S" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Anderson_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Anderson-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0355-001-p1s0W26-Ta">
 <src.rf>tagger-a</src.rf>
@@ -258,7 +269,10 @@
 <LM>w#w-wsj0355-001-p1s0W26</LM>
 </w.rf>
 <form>Industries</form>
-<tag lemma="Industries" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Industries" src="auto">X@-------------</AM>
+<AM lemma="Industries-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0355-001-p1s0W27-Ta">
 <src.rf>tagger-a</src.rf>
@@ -269,6 +283,7 @@
 <tag>
 <AM lemma="Inc-77_:B" src="auto" recommended="1">F%-------------</AM>
 <AM lemma="inc-77_:B" src="auto">F%-------------</AM>
+<AM lemma="Inc-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj0355-001-p1s0W28-Ta">
@@ -363,7 +378,7 @@
 <AM lemma="balík-2_^(člověk)" src="auto">NNMP6-----A----</AM>
 <AM lemma="balící_^(*3it)" src="auto">AGFP2-----A----</AM>
 <AM lemma="balící_^(*3it)" src="auto">AGFP6-----A----</AM>
-<AM lemma="balící_^(*3it)" src="auto">AGIP2-----A----</AM>
+<AM lemma="balící_^(*3it)" src="auto" selected="1">AGIP2-----A----</AM>
 <AM lemma="balící_^(*3it)" src="auto">AGIP6-----A----</AM>
 <AM lemma="balící_^(*3it)" src="auto" recommended="1">AGMP2-----A----</AM>
 <AM lemma="balící_^(*3it)" src="auto">AGMP6-----A----</AM>
@@ -416,7 +431,10 @@
 <LM>w#w-wsj0355-001-p1s1W6</LM>
 </w.rf>
 <form>Clarcor</form>
-<tag lemma="Clarcor" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Clarcor" src="auto">X@-------------</AM>
+<AM lemma="Clarcor_;K" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj0355-001-p1s1W7-Ta">
 <src.rf>tagger-a</src.rf>
@@ -939,7 +957,10 @@
 <LM>w#w-wsj0355-001-p1s3W2</LM>
 </w.rf>
 <form>Clarcor</form>
-<tag lemma="Clarcor" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Clarcor" src="auto">X@-------------</AM>
+<AM lemma="Clarcor_;K" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj0355-001-p1s3W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1105,7 +1126,7 @@
 <AM lemma="Jak_;R" src="auto">NNMS1-----A----</AM>
 <AM lemma="jak-1_;L_^(živočich)" src="auto">NNMS1-----A----</AM>
 <AM lemma="jak-2" src="auto">J,-------------</AM>
-<AM lemma="jak-2" src="auto">J^-------------</AM>
+<AM lemma="jak-2" src="auto" selected="1">J^-------------</AM>
 <AM lemma="jak-3" src="auto" recommended="1">Db-------------</AM>
 <AM lemma="jak-99_:B_;S" src="auto">NNXXX-----A----</AM>
 </tag>
@@ -1116,7 +1137,10 @@
 <LM>w#w-wsj0355-001-p1s4W2</LM>
 </w.rf>
 <form>Clarcor</form>
-<tag lemma="Clarcor" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Clarcor" src="auto">X@-------------</AM>
+<AM lemma="Clarcor_;K" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj0355-001-p1s4W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1147,7 +1171,7 @@
 <form>i</form>
 <tag>
 <AM lemma="i-1" src="auto" recommended="1">J^-------------</AM>
-<AM lemma="i-2" src="auto">TT-------------</AM>
+<AM lemma="i-2" src="auto" selected="1">TT-------------</AM>
 <AM lemma="i-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
 <AM lemma="i-88_:B" src="auto">NNXXX-----A----</AM>
 </tag>

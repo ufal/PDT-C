@@ -30,6 +30,7 @@
 <tag>
 <AM lemma="Enfield" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Enfield" src="auto">NNIS4-----A----</AM>
+<AM lemma="ENFIELD-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1451-001-p1s0W3-Ta">
@@ -38,7 +39,10 @@
 <LM>w#w-wsj1451-001-p1s0W3</LM>
 </w.rf>
 <form>Corp</form>
-<tag lemma="corp-77_:B" src="auto" recommended="1">F%-------------</tag>
+<tag>
+<AM lemma="corp-77_:B" src="auto" recommended="1">F%-------------</AM>
+<AM lemma="Corp-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1451-001-p1s0W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -496,7 +500,7 @@
 <form>které</form>
 <tag>
 <AM lemma="který" src="auto" recommended="1">P4FP1----------</AM>
-<AM lemma="který" src="auto">P4FP4----------</AM>
+<AM lemma="který" src="auto" selected="1">P4FP4----------</AM>
 <AM lemma="který" src="auto">P4FS2----------</AM>
 <AM lemma="který" src="auto">P4FS3----------</AM>
 <AM lemma="který" src="auto">P4FS6----------</AM>
@@ -580,6 +584,7 @@
 <tag>
 <AM lemma="Enfield" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Enfield" src="auto">NNIS4-----A----</AM>
+<AM lemma="Enfield_;K" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1451-001-p1s1W21-Ta">
@@ -782,6 +787,7 @@
 <tag>
 <AM lemma="Enfield" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Enfield" src="auto">NNIS4-----A----</AM>
+<AM lemma="Enfield_;K" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1451-001-p1s2W11-Ta">
@@ -800,7 +806,7 @@
 <form>na</form>
 <tag>
 <AM lemma="na-1" src="auto" recommended="1">RR--4----------</AM>
-<AM lemma="na-1" src="auto">RR--6----------</AM>
+<AM lemma="na-1" src="auto" selected="1">RR--6----------</AM>
 <AM lemma="na-2" src="auto">II-------------</AM>
 </tag>
 </m>
@@ -1349,7 +1355,7 @@
 <form>budoucí</form>
 <tag>
 <AM lemma="budoucí" src="auto">AAFP1----1A----</AM>
-<AM lemma="budoucí" src="auto">AAFP4----1A----</AM>
+<AM lemma="budoucí" src="auto" selected="1">AAFP4----1A----</AM>
 <AM lemma="budoucí" src="auto">AAFP5----1A----</AM>
 <AM lemma="budoucí" src="auto" recommended="1">AAFS1----1A----</AM>
 <AM lemma="budoucí" src="auto">AAFS2----1A----</AM>
@@ -1385,7 +1391,7 @@
 <form>investice</form>
 <tag>
 <AM lemma="investice" src="auto">NNFP1-----A----</AM>
-<AM lemma="investice" src="auto">NNFP4-----A----</AM>
+<AM lemma="investice" src="auto" selected="1">NNFP4-----A----</AM>
 <AM lemma="investice" src="auto">NNFP5-----A----</AM>
 <AM lemma="investice" src="auto" recommended="1">NNFS1-----A----</AM>
 <AM lemma="investice" src="auto">NNFS2-----A----</AM>
@@ -1521,6 +1527,7 @@
 <tag>
 <AM lemma="Enfield" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Enfield" src="auto">NNIS4-----A----</AM>
+<AM lemma="Enfield_;K" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1451-001-p1s4W7-Ta">

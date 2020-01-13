@@ -172,7 +172,10 @@
 <LM>w#w-wsj1994-001-p1s0W14</LM>
 </w.rf>
 <form>USA</form>
-<tag lemma="USA_:B_;G_^(United_States_ofmerica)" src="auto" recommended="1">NNXXX-----A----</tag>
+<tag>
+<AM lemma="USA_:B_;G_^(United_States_ofmerica)" src="auto" recommended="1">NNXXX-----A----</AM>
+<AM lemma="USA_:B_;G_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj1994-001-p1s0W15-Ta">
 <src.rf>tagger-a</src.rf>
@@ -376,7 +379,7 @@
 <AM lemma="shromážděný_^(*3it)" src="auto">AAFS2----1A----</AM>
 <AM lemma="shromážděný_^(*3it)" src="auto">AAFS3----1A----</AM>
 <AM lemma="shromážděný_^(*3it)" src="auto">AAFS6----1A----</AM>
-<AM lemma="shromážděný_^(*3it)" src="auto">AAIP1----1A----</AM>
+<AM lemma="shromážděný_^(*3it)" src="auto" selected="1">AAIP1----1A----</AM>
 <AM lemma="shromážděný_^(*3it)" src="auto">AAIP4----1A----</AM>
 <AM lemma="shromážděný_^(*3it)" src="auto">AAIP5----1A----</AM>
 <AM lemma="shromážděný_^(*3it)" src="auto">AAMP4----1A----</AM>
@@ -810,7 +813,7 @@
 <AM lemma="nízký" src="auto">AAIP1----2A----</AM>
 <AM lemma="nízký" src="auto">AAIP4----2A----</AM>
 <AM lemma="nízký" src="auto">AAIP5----2A----</AM>
-<AM lemma="nízký" src="auto">AAIS1----2A----</AM>
+<AM lemma="nízký" src="auto" selected="1">AAIS1----2A----</AM>
 <AM lemma="nízký" src="auto">AAIS4----2A----</AM>
 <AM lemma="nízký" src="auto">AAIS5----2A----</AM>
 <AM lemma="nízký" src="auto">AAMP1----2A----</AM>
@@ -1348,6 +1351,11 @@
 <AM lemma="měsíčný_^(arch.;_př._měsíčná_noc)" src="auto">AAMP1----1A----</AM>
 <AM lemma="měsíčný_^(arch.;_př._měsíčná_noc)" src="auto">AAMP5----1A----</AM>
 </tag>
+<comment>
+<LM type="New Form">
+<text>měsíc</text>
+</LM>
+</comment>
 </m>
 <m id="m-wsj1994-001-p1s3W5-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1883,7 +1891,7 @@
 </w.rf>
 <form>červencovým</form>
 <tag>
-<AM lemma="červencový" src="auto">AAFP3----1A----</AM>
+<AM lemma="červencový" src="auto" selected="1">AAFP3----1A----</AM>
 <AM lemma="červencový" src="auto" recommended="1">AAIP3----1A----</AM>
 <AM lemma="červencový" src="auto">AAIS6----1A---7</AM>
 <AM lemma="červencový" src="auto">AAIS7----1A----</AM>
@@ -2222,7 +2230,10 @@
 <LM>w#w-wsj1994-001-p1s5W23</LM>
 </w.rf>
 <form>programem</form>
-<tag lemma="program-1" src="auto" recommended="1">NNIS7-----A----</tag>
+<tag>
+<AM lemma="program-1" src="auto" recommended="1">NNIS7-----A----</AM>
+<AM lemma="program" src="manual" selected="1">NNIS7-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj1994-001-p1s5W24-Ta">
 <src.rf>tagger-a</src.rf>

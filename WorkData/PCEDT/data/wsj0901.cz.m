@@ -49,7 +49,10 @@
 <LM>w#w-wsj0901-001-p1s1W2</LM>
 </w.rf>
 <form>United</form>
-<tag lemma="united-77" src="auto" recommended="1">F%-------------</tag>
+<tag>
+<AM lemma="united-77" src="auto" recommended="1">F%-------------</AM>
+<AM lemma="United-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0901-001-p1s1W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -57,7 +60,10 @@
 <LM>w#w-wsj0901-001-p1s1W3</LM>
 </w.rf>
 <form>Technologies</form>
-<tag lemma="Technologies" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Technologies" src="auto">X@-------------</AM>
+<AM lemma="Technologies-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0901-001-p1s1W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -65,7 +71,10 @@
 <LM>w#w-wsj0901-001-p1s1W4</LM>
 </w.rf>
 <form>Corp</form>
-<tag lemma="corp-77_:B" src="auto" recommended="1">F%-------------</tag>
+<tag>
+<AM lemma="corp-77_:B" src="auto" recommended="1">F%-------------</AM>
+<AM lemma="Corp-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0901-001-p1s1W5-Ta">
 <src.rf>tagger-a</src.rf>
@@ -397,6 +406,7 @@
 <AM lemma="Uh_;G" src="auto">NNIS1-----A----</AM>
 <AM lemma="Uh_;G" src="auto">NNIS4-----A----</AM>
 <AM lemma="uh" src="auto" recommended="1">II-------------</AM>
+<AM lemma="UH-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0901-001-p1s2W8-Ta">
@@ -413,7 +423,10 @@
 <LM>w#w-wsj0901-001-p1s2W9</LM>
 </w.rf>
 <form>60A</form>
-<tag lemma="60A" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="60A" src="auto">X@-------------</AM>
+<AM lemma="60A" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj0901-001-p1s2W10-Ta">
 <src.rf>tagger-a</src.rf>
@@ -424,6 +437,7 @@
 <tag>
 <AM lemma="Blackhawk_;R" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Blackhawk_;R" src="auto">NNIS4-----A----</AM>
+<AM lemma="Blackhawk-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj0901-001-p1s2W11-Ta">
@@ -468,7 +482,11 @@
 <LM>w#w-wsj0901-001-p1s2W14</LM>
 </w.rf>
 <form>MH</form>
-<tag lemma="mha_,n" src="auto" recommended="1">NNFP2-----A----</tag>
+<tag>
+<AM lemma="mha_,n" src="auto" recommended="1">NNFP2-----A----</AM>
+<AM lemma="MH" src="manual">NNXXX-----A----</AM>
+<AM lemma="MH-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj0901-001-p1s2W15-Ta">
 <src.rf>tagger-a</src.rf>
@@ -484,7 +502,10 @@
 <LM>w#w-wsj0901-001-p1s2W16</LM>
 </w.rf>
 <form>60K</form>
-<tag lemma="60K" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="60K" src="auto">X@-------------</AM>
+<AM lemma="60K" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj0901-001-p1s2W17-Ta">
 <src.rf>tagger-a</src.rf>
@@ -576,7 +597,10 @@
 <LM>w#w-wsj0901-001-p1s3W2</LM>
 </w.rf>
 <form>Ingalls</form>
-<tag lemma="Ingalls" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Ingalls" src="auto">X@-------------</AM>
+<AM lemma="Ingalls-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0901-001-p1s3W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -584,7 +608,10 @@
 <LM>w#w-wsj0901-001-p1s3W3</LM>
 </w.rf>
 <form>Shipbuilding</form>
-<tag lemma="Shipbuilding" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Shipbuilding" src="auto">X@-------------</AM>
+<AM lemma="Shipbuilding-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0901-001-p1s3W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -595,6 +622,7 @@
 <tag>
 <AM lemma="Inc-77_:B" src="auto" recommended="1">F%-------------</AM>
 <AM lemma="inc-77_:B" src="auto">F%-------------</AM>
+<AM lemma="Inc-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj0901-001-p1s3W5-Ta">
@@ -650,7 +678,10 @@
 <LM>w#w-wsj0901-001-p1s3W9</LM>
 </w.rf>
 <form>Litton</form>
-<tag lemma="Litton" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Litton" src="auto">X@-------------</AM>
+<AM lemma="Litton-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0901-001-p1s3W10-Ta">
 <src.rf>tagger-a</src.rf>
@@ -658,7 +689,10 @@
 <LM>w#w-wsj0901-001-p1s3W10</LM>
 </w.rf>
 <form>Industries</form>
-<tag lemma="Industries" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Industries" src="auto">X@-------------</AM>
+<AM lemma="Industries-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0901-001-p1s3W11-Ta">
 <src.rf>tagger-a</src.rf>
@@ -669,6 +703,7 @@
 <tag>
 <AM lemma="Inc-77_:B" src="auto" recommended="1">F%-------------</AM>
 <AM lemma="inc-77_:B" src="auto">F%-------------</AM>
+<AM lemma="Inc-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj0901-001-p1s3W12-Ta">

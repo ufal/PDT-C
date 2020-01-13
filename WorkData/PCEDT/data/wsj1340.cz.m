@@ -27,7 +27,10 @@
 <LM>w#w-wsj1340-001-p1s0W2</LM>
 </w.rf>
 <form>Bankers</form>
-<tag lemma="Bankers" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Bankers" src="auto">X@-------------</AM>
+<AM lemma="Bankers-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1340-001-p1s0W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -38,6 +41,7 @@
 <tag>
 <AM lemma="trust" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="trust" src="auto">NNIS4-----A----</AM>
+<AM lemma="Trust-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1340-001-p1s0W4-Ta">
@@ -47,7 +51,7 @@
 </w.rf>
 <form>New</form>
 <tag>
-<AM lemma="New-77" src="auto" recommended="1">F%-------------</AM>
+<AM lemma="New-77" src="auto" recommended="1" selected="1">F%-------------</AM>
 <AM lemma="new-77_,t" src="auto">F%-------------</AM>
 </tag>
 </m>
@@ -61,6 +65,7 @@
 <AM lemma="York-1_;S" src="auto">NNMS1-----A----</AM>
 <AM lemma="York-2_;G" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="York-2_;G" src="auto">NNIS4-----A----</AM>
+<AM lemma="York-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1340-001-p1s0W6-Ta">
@@ -69,7 +74,10 @@
 <LM>w#w-wsj1340-001-p1s0W6</LM>
 </w.rf>
 <form>Corp</form>
-<tag lemma="corp-77_:B" src="auto" recommended="1">F%-------------</tag>
+<tag>
+<AM lemma="corp-77_:B" src="auto" recommended="1">F%-------------</AM>
+<AM lemma="Corp-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1340-001-p1s0W7-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1143,7 +1151,7 @@
 <AM lemma="září" src="auto">NNNP5-----A----</AM>
 <AM lemma="září" src="auto">NNNS1-----A----</AM>
 <AM lemma="září" src="auto" recommended="1">NNNS2-----A----</AM>
-<AM lemma="září" src="auto">NNNS3-----A----</AM>
+<AM lemma="září" src="auto" selected="1">NNNS3-----A----</AM>
 <AM lemma="září" src="auto">NNNS4-----A----</AM>
 <AM lemma="září" src="auto">NNNS5-----A----</AM>
 <AM lemma="září" src="auto">NNNS6-----A----</AM>
@@ -1239,7 +1247,10 @@
 <LM>w#w-wsj1340-001-p1s4W2</LM>
 </w.rf>
 <form>Bankers</form>
-<tag lemma="Bankers" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Bankers" src="auto">X@-------------</AM>
+<AM lemma="Bankers-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1340-001-p1s4W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1250,6 +1261,7 @@
 <tag>
 <AM lemma="trust" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="trust" src="auto">NNIS4-----A----</AM>
+<AM lemma="Trust-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1340-001-p1s4W4-Ta">
@@ -2096,7 +2108,10 @@
 <LM>w#w-wsj1340-001-p1s7W12</LM>
 </w.rf>
 <form>Bankers</form>
-<tag lemma="Bankers" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Bankers" src="auto">X@-------------</AM>
+<AM lemma="Bankers-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1340-001-p1s7W13-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2107,6 +2122,7 @@
 <tag>
 <AM lemma="trust" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="trust" src="auto">NNIS4-----A----</AM>
+<AM lemma="Trust-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1340-001-p1s7W14-Ta">

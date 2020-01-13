@@ -24,7 +24,10 @@
 <LM>w#w-wsj2302-001-p1s0W2</LM>
 </w.rf>
 <form>Ports</form>
-<tag lemma="Ports" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Ports" src="auto">X@-------------</AM>
+<AM lemma="Ports-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj2302-001-p1s0W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -32,7 +35,10 @@
 <LM>w#w-wsj2302-001-p1s0W3</LM>
 </w.rf>
 <form>of</form>
-<tag lemma="of-77_,t" src="auto" recommended="1">F%-------------</tag>
+<tag>
+<AM lemma="of-77_,t" src="auto" recommended="1">F%-------------</AM>
+<AM lemma="of-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj2302-001-p1s0W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -40,7 +46,10 @@
 <LM>w#w-wsj2302-001-p1s0W4</LM>
 </w.rf>
 <form>Call</form>
-<tag lemma="Call" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Call" src="auto">X@-------------</AM>
+<AM lemma="Call-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj2302-001-p1s0W5-Ta">
 <src.rf>tagger-a</src.rf>
@@ -51,6 +60,7 @@
 <tag>
 <AM lemma="Inc-77_:B" src="auto" recommended="1">F%-------------</AM>
 <AM lemma="inc-77_:B" src="auto">F%-------------</AM>
+<AM lemma="Inc-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj2302-001-p1s0W6-Ta">
@@ -181,7 +191,7 @@
 <form>které</form>
 <tag>
 <AM lemma="který" src="auto">P4FP1----------</AM>
-<AM lemma="který" src="auto">P4FP4----------</AM>
+<AM lemma="který" src="auto" selected="1">P4FP4----------</AM>
 <AM lemma="který" src="auto">P4FS2----------</AM>
 <AM lemma="který" src="auto">P4FS3----------</AM>
 <AM lemma="který" src="auto">P4FS6----------</AM>
@@ -817,7 +827,7 @@
 <AM lemma="jenž_^(kterou_[ve_vedl.větě])" src="auto">PJFS4----------</AM>
 <AM lemma="jenž_^(kteří_[ve_vedl.větě])" src="auto">PJMP1----------</AM>
 <AM lemma="již-1" src="auto" recommended="1">Db-------------</AM>
-<AM lemma="již-2" src="auto">TT-------------</AM>
+<AM lemma="již-2" src="auto" selected="1">TT-------------</AM>
 </tag>
 </m>
 <m id="m-wsj2302-001-p1s3W2-Ta">

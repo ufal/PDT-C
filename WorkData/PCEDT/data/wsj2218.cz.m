@@ -27,7 +27,11 @@
 <LM>w#w-wsj2218-001-p1s0W2</LM>
 </w.rf>
 <form>BSN</form>
-<tag lemma="BSN" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="BSN" src="auto">X@-------------</AM>
+<AM lemma="BSN-77" src="manual">F%-------------</AM>
+<AM lemma="BSN-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj2218-001-p1s0W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -35,7 +39,10 @@
 <LM>w#w-wsj2218-001-p1s0W3</LM>
 </w.rf>
 <form>Corp</form>
-<tag lemma="corp-77_:B" src="auto" recommended="1">F%-------------</tag>
+<tag>
+<AM lemma="corp-77_:B" src="auto" recommended="1">F%-------------</AM>
+<AM lemma="Corp-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj2218-001-p1s0W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -786,7 +793,7 @@
 <AM lemma="splatný" src="auto">AAFP1----1A----</AM>
 <AM lemma="splatný" src="auto">AAFP4----1A----</AM>
 <AM lemma="splatný" src="auto">AAFP5----1A----</AM>
-<AM lemma="splatný" src="auto">AAFS2----1A----</AM>
+<AM lemma="splatný" src="auto" selected="1">AAFS2----1A----</AM>
 <AM lemma="splatný" src="auto">AAFS3----1A----</AM>
 <AM lemma="splatný" src="auto">AAFS6----1A----</AM>
 <AM lemma="splatný" src="auto">AAIP1----1A----</AM>
@@ -1024,7 +1031,11 @@
 <LM>w#w-wsj2218-001-p1s2W10</LM>
 </w.rf>
 <form>BSN</form>
-<tag lemma="BSN" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="BSN" src="auto">X@-------------</AM>
+<AM lemma="BSN-77" src="manual">F%-------------</AM>
+<AM lemma="BSN-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj2218-001-p1s2W11-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1103,7 +1114,7 @@
 <tag>
 <AM lemma="následující_^(*5ovat)" src="auto">AGFP2-----A----</AM>
 <AM lemma="následující_^(*5ovat)" src="auto">AGFP6-----A----</AM>
-<AM lemma="následující_^(*5ovat)" src="auto">AGIP2-----A----</AM>
+<AM lemma="následující_^(*5ovat)" src="auto" selected="1">AGIP2-----A----</AM>
 <AM lemma="následující_^(*5ovat)" src="auto" recommended="1">AGIP6-----A----</AM>
 <AM lemma="následující_^(*5ovat)" src="auto">AGMP2-----A----</AM>
 <AM lemma="následující_^(*5ovat)" src="auto">AGMP6-----A----</AM>
@@ -1163,7 +1174,10 @@
 <LM>w#w-wsj2218-001-p1s3W2</LM>
 </w.rf>
 <form>BSN</form>
-<tag lemma="BSN" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="BSN" src="auto">X@-------------</AM>
+<AM lemma="BSN-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj2218-001-p1s3W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1302,7 +1316,10 @@
 <LM>w#w-wsj2218-001-p1s4W1</LM>
 </w.rf>
 <form>BSN</form>
-<tag lemma="BSN" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="BSN" src="auto">X@-------------</AM>
+<AM lemma="BSN-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj2218-001-p1s4W2-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2043,7 +2060,10 @@
 <LM>w#w-wsj2218-001-p1s7W2</LM>
 </w.rf>
 <form>BSN</form>
-<tag lemma="BSN" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="BSN" src="auto">X@-------------</AM>
+<AM lemma="BSN-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj2218-001-p1s7W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2389,7 +2409,10 @@
 <LM>w#w-wsj2218-001-p1s8W16</LM>
 </w.rf>
 <form>BSN</form>
-<tag lemma="BSN" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="BSN" src="auto">X@-------------</AM>
+<AM lemma="BSN-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj2218-001-p1s8W17-Ta">
 <src.rf>tagger-a</src.rf>

@@ -24,7 +24,10 @@
 <LM>w#w-wsj0510-001-p1s0W2</LM>
 </w.rf>
 <form>Doskocil</form>
-<tag lemma="Doskocil" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Doskocil" src="auto">X@-------------</AM>
+<AM lemma="Doskocil-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0510-001-p1s0W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -35,6 +38,7 @@
 <tag>
 <AM lemma="co-1" src="auto" recommended="1">PQ--4--2-------</AM>
 <AM lemma="cosinus_:B" src="auto">NNIXX-----A---8</AM>
+<AM lemma="Cos-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj0510-001-p1s0W4-Ta">
@@ -344,7 +348,10 @@
 <LM>w#w-wsj0510-001-p1s0W31</LM>
 </w.rf>
 <form>Wilson</form>
-<tag lemma="Wilson_;S" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Wilson_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Wilson-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0510-001-p1s0W32-Ta">
 <src.rf>tagger-a</src.rf>
@@ -352,7 +359,10 @@
 <LM>w#w-wsj0510-001-p1s0W32</LM>
 </w.rf>
 <form>Foods</form>
-<tag lemma="Foods" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Foods" src="auto">X@-------------</AM>
+<AM lemma="Foods-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0510-001-p1s0W33-Ta">
 <src.rf>tagger-a</src.rf>
@@ -360,7 +370,10 @@
 <LM>w#w-wsj0510-001-p1s0W33</LM>
 </w.rf>
 <form>Corp</form>
-<tag lemma="corp-77_:B" src="auto" recommended="1">F%-------------</tag>
+<tag>
+<AM lemma="corp-77_:B" src="auto" recommended="1">F%-------------</AM>
+<AM lemma="Corp-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0510-001-p1s0W34-Ta">
 <src.rf>tagger-a</src.rf>
@@ -594,7 +607,10 @@
 <LM>w#w-wsj0510-001-p1s2W6</LM>
 </w.rf>
 <form>loni</form>
-<tag lemma="vloni_,s_^(^DD**vloni)" src="auto" recommended="1">Db-------------</tag>
+<tag>
+<AM lemma="vloni_,s_^(^DD**vloni)" src="auto" recommended="1">Db-------------</AM>
+<AM lemma="loni_,s_^(^DD**vloni)" src="manual" selected="1">Db-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0510-001-p1s2W7-Ta">
 <src.rf>tagger-a</src.rf>
@@ -985,7 +1001,7 @@
 <AM lemma="kupující-2" src="auto">NNMP1-----A----</AM>
 <AM lemma="kupující-2" src="auto">NNMP4-----A----</AM>
 <AM lemma="kupující-2" src="auto">NNMP5-----A----</AM>
-<AM lemma="kupující-2" src="auto">NNMS1-----A----</AM>
+<AM lemma="kupující-2" src="auto" selected="1">NNMS1-----A----</AM>
 <AM lemma="kupující-2" src="auto">NNMS5-----A----</AM>
 <AM lemma="kupující-3" src="auto">NNFP1-----A----</AM>
 <AM lemma="kupující-3" src="auto">NNFP4-----A----</AM>
@@ -1040,7 +1056,7 @@
 <form>Georgem</form>
 <tag>
 <AM lemma="Georg_;Y" src="auto" recommended="1">NNMS7-----A----</AM>
-<AM lemma="George_;Y" src="auto">NNMS7-----A----</AM>
+<AM lemma="George_;Y" src="auto" selected="1">NNMS7-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0510-001-p1s3W28-Ta">

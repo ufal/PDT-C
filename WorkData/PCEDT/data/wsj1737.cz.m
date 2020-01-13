@@ -129,6 +129,7 @@
 <tag>
 <AM lemma="journal" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="journal" src="auto">NNIS4-----A----</AM>
+<AM lemma="Journal-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1737-001-p1s0W11-Ta">
@@ -259,7 +260,7 @@
 <AM lemma="milník" src="auto" recommended="1">NNIP1-----A----</AM>
 <AM lemma="milník" src="auto">NNIP4-----A----</AM>
 <AM lemma="milník" src="auto">NNIP5-----A----</AM>
-<AM lemma="milník" src="auto">NNIP7-----A----</AM>
+<AM lemma="milník" src="auto" selected="1">NNIP7-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1737-001-p1s0W21-Ta">
@@ -624,7 +625,7 @@
 <form>na</form>
 <tag>
 <AM lemma="na-1" src="auto" recommended="1">RR--4----------</AM>
-<AM lemma="na-1" src="auto">RR--6----------</AM>
+<AM lemma="na-1" src="auto" selected="1">RR--6----------</AM>
 <AM lemma="na-2" src="auto">II-------------</AM>
 </tag>
 </m>
@@ -1508,7 +1509,7 @@
 <tag>
 <AM lemma="prostřednictví" src="auto">NNNP3-----A----</AM>
 <AM lemma="prostřednictví" src="auto" recommended="1">NNNS7-----A----</AM>
-<AM lemma="prostřednictvím" src="auto">RR--2----------</AM>
+<AM lemma="prostřednictvím" src="auto" selected="1">RR--2----------</AM>
 </tag>
 </m>
 <m id="m-wsj1737-001-p1s3W28-Ta">
@@ -2135,7 +2136,10 @@
 <LM>w#w-wsj1737-001-p1s5W13</LM>
 </w.rf>
 <form>Joseph</form>
-<tag lemma="Joseph_;Y_,t" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Joseph_;Y_,t" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Joseph_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj1737-001-p1s5W14-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2184,6 +2188,11 @@
 <AM lemma="35letý" src="auto">AANS4----1A---6</AM>
 <AM lemma="35letý" src="auto">AANS5----1A---6</AM>
 </tag>
+<comment>
+<LM type="Other">
+<text>špatná tokenizace</text>
+</LM>
+</comment>
 </m>
 <m id="m-wsj1737-001-p1s5W17-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2275,6 +2284,7 @@
 <tag>
 <AM lemma="journal" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="journal" src="auto">NNIS4-----A----</AM>
+<AM lemma="Journal-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1737-001-p1s5W23-Ta">
@@ -2683,7 +2693,10 @@
 <LM>w#w-wsj1737-001-p1s6W24</LM>
 </w.rf>
 <form>CBOE</form>
-<tag lemma="CBOE" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="CBOE" src="auto">X@-------------</AM>
+<AM lemma="CBOE-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj1737-001-p1s6W25-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2715,7 +2728,7 @@
 <form>Sullivana</form>
 <tag>
 <AM lemma="Sullivan_;S" src="auto" recommended="1">NNMS2-----A----</AM>
-<AM lemma="Sullivan_;S" src="auto">NNMS4-----A----</AM>
+<AM lemma="Sullivan_;S" src="auto" selected="1">NNMS4-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1737-001-p1s6W28-Ta">
@@ -2837,7 +2850,10 @@
 <LM>w#w-wsj1737-001-p1s8W1</LM>
 </w.rf>
 <form>CBOE</form>
-<tag lemma="CBOE" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="CBOE" src="auto">X@-------------</AM>
+<AM lemma="CBOE-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj1737-001-p1s8W2-Ta">
 <src.rf>tagger-a</src.rf>
@@ -4323,7 +4339,7 @@
 <form>na</form>
 <tag>
 <AM lemma="na-1" src="auto" recommended="1">RR--4----------</AM>
-<AM lemma="na-1" src="auto">RR--6----------</AM>
+<AM lemma="na-1" src="auto" selected="1">RR--6----------</AM>
 <AM lemma="na-2" src="auto">II-------------</AM>
 </tag>
 </m>
@@ -4333,7 +4349,10 @@
 <LM>w#w-wsj1737-001-p1s16W5</LM>
 </w.rf>
 <form>CBOE</form>
-<tag lemma="CBOE" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="CBOE" src="auto">X@-------------</AM>
+<AM lemma="CBOE-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj1737-001-p1s16W6-Ta">
 <src.rf>tagger-a</src.rf>
@@ -4934,7 +4953,10 @@
 <LM>w#w-wsj1737-001-p1s18W12</LM>
 </w.rf>
 <form>CBOE</form>
-<tag lemma="CBOE" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="CBOE" src="auto">X@-------------</AM>
+<AM lemma="CBOE-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj1737-001-p1s18W13-Ta">
 <src.rf>tagger-a</src.rf>

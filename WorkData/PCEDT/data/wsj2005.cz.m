@@ -16,7 +16,10 @@
 <LM>w#w-wsj2005-001-p1s0W1</LM>
 </w.rf>
 <form>Thomas</form>
-<tag lemma="Thomas_;S" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Thomas_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Thomas_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj2005-001-p1s0W2-Ta">
 <src.rf>tagger-a</src.rf>
@@ -86,7 +89,10 @@
 <LM>w#w-wsj2005-001-p1s0W8</LM>
 </w.rf>
 <form>Coatedboar</form>
-<tag lemma="Coatedboar" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Coatedboar" src="auto">X@-------------</AM>
+<AM lemma="Coatedboar_;K" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj2005-001-p1s0W9-Ta">
 <src.rf>tagger-a</src.rf>
@@ -110,7 +116,10 @@
 <LM>w#w-wsj2005-001-p1s0W10</LM>
 </w.rf>
 <form>Mead</form>
-<tag lemma="Mead_;S" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Mead_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Mead-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj2005-001-p1s0W11-Ta">
 <src.rf>tagger-a</src.rf>
@@ -118,7 +127,10 @@
 <LM>w#w-wsj2005-001-p1s0W11</LM>
 </w.rf>
 <form>Corp</form>
-<tag lemma="corp-77_:B" src="auto" recommended="1">F%-------------</tag>
+<tag>
+<AM lemma="corp-77_:B" src="auto" recommended="1">F%-------------</AM>
+<AM lemma="Corp-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj2005-001-p1s0W12-Ta">
 <src.rf>tagger-a</src.rf>
@@ -182,7 +194,10 @@
 <LM>w#w-wsj2005-001-p1s0W18</LM>
 </w.rf>
 <form>Manville</form>
-<tag lemma="Manville" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Manville" src="auto">X@-------------</AM>
+<AM lemma="Manville-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj2005-001-p1s0W19-Ta">
 <src.rf>tagger-a</src.rf>
@@ -193,6 +208,7 @@
 <tag>
 <AM lemma="Forest_;S" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="forest_,t" src="auto">AAXXX----1A----</AM>
+<AM lemma="Forest-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj2005-001-p1s0W20-Ta">
@@ -201,7 +217,10 @@
 <LM>w#w-wsj2005-001-p1s0W20</LM>
 </w.rf>
 <form>Products</form>
-<tag lemma="Products" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Products" src="auto">X@-------------</AM>
+<AM lemma="Products-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj2005-001-p1s0W21-Ta">
 <src.rf>tagger-a</src.rf>
@@ -209,7 +228,10 @@
 <LM>w#w-wsj2005-001-p1s0W21</LM>
 </w.rf>
 <form>Corp</form>
-<tag lemma="corp-77_:B" src="auto" recommended="1">F%-------------</tag>
+<tag>
+<AM lemma="corp-77_:B" src="auto" recommended="1">F%-------------</AM>
+<AM lemma="Corp-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj2005-001-p1s0W22-Ta">
 <src.rf>tagger-a</src.rf>
@@ -237,7 +259,7 @@
 <AM lemma="jednotka" src="auto" recommended="1">NNFP1-----A----</AM>
 <AM lemma="jednotka" src="auto">NNFP4-----A----</AM>
 <AM lemma="jednotka" src="auto">NNFP5-----A----</AM>
-<AM lemma="jednotka" src="auto">NNFS2-----A----</AM>
+<AM lemma="jednotka" src="auto" selected="1">NNFS2-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2005-001-p1s0W25-Ta">
@@ -262,7 +284,10 @@
 <LM>w#w-wsj2005-001-p1s0W26</LM>
 </w.rf>
 <form>Manville</form>
-<tag lemma="Manville" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Manville" src="auto">X@-------------</AM>
+<AM lemma="Manville_;K" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj2005-001-p1s0W27-Ta">
 <src.rf>tagger-a</src.rf>
@@ -336,7 +361,10 @@
 <LM>w#w-wsj2005-001-p1s0W32</LM>
 </w.rf>
 <form>Manville</form>
-<tag lemma="Manville" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Manville" src="auto">X@-------------</AM>
+<AM lemma="Manville-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj2005-001-p1s0W33-Ta">
 <src.rf>tagger-a</src.rf>
@@ -344,7 +372,10 @@
 <LM>w#w-wsj2005-001-p1s0W33</LM>
 </w.rf>
 <form>Corp</form>
-<tag lemma="corp-77_:B" src="auto" recommended="1">F%-------------</tag>
+<tag>
+<AM lemma="corp-77_:B" src="auto" recommended="1">F%-------------</AM>
+<AM lemma="Corp-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj2005-001-p1s0W34-Ta">
 <src.rf>tagger-a</src.rf>
@@ -441,7 +472,7 @@
 <form>Shermanovi</form>
 <tag>
 <AM lemma="Sherman-1_;S" src="auto" recommended="1">NNMS3-----A----</AM>
-<AM lemma="Sherman-1_;S" src="auto">NNMS6-----A----</AM>
+<AM lemma="Sherman-1_;S" src="auto" selected="1">NNMS6-----A----</AM>
 <AM lemma="Shermanův-1_;S_^(*4-1)" src="auto">AUMP1M---------</AM>
 <AM lemma="Shermanův-1_;S_^(*4-1)" src="auto">AUMP5M---------</AM>
 </tag>
@@ -604,7 +635,10 @@
 <LM>w#w-wsj2005-001-p1s2W1</LM>
 </w.rf>
 <form>Manville</form>
-<tag lemma="Manville" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Manville" src="auto">X@-------------</AM>
+<AM lemma="Manville_;K" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj2005-001-p1s2W2-Ta">
 <src.rf>tagger-a</src.rf>

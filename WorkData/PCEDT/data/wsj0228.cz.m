@@ -397,6 +397,11 @@
 <AM lemma="66letý" src="auto">AANS4----1A---6</AM>
 <AM lemma="66letý" src="auto">AANS5----1A---6</AM>
 </tag>
+<comment>
+<LM type="Other">
+<text>špatná tokenizace</text>
+</LM>
+</comment>
 </m>
 <m id="m-wsj0228-001-p1s1W2-Ta">
 <src.rf>tagger-a</src.rf>
@@ -438,6 +443,7 @@
 <tag>
 <AM lemma="Alexander_;S" src="auto">NNMS3-----A---1</AM>
 <AM lemma="Alexander_;S" src="auto" recommended="1">NNMS6-----A---1</AM>
+<AM lemma="Alexander_;S_;Y" src="manual" selected="1">NNMS6-----A---1</AM>
 </tag>
 </m>
 <m id="m-wsj0228-001-p1s1W6-Ta">
@@ -469,7 +475,10 @@
 <LM>w#w-wsj0228-001-p1s1W8</LM>
 </w.rf>
 <form>Daignaultovi</form>
-<tag lemma="Daignaultovi" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Daignaultovi" src="auto">X@-------------</AM>
+<AM lemma="Daignault_;S" src="manual" selected="1">NNMS6-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj0228-001-p1s1W9-Ta">
 <src.rf>tagger-a</src.rf>

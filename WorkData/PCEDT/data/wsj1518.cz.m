@@ -25,6 +25,7 @@
 <AM lemma="Terry_;S" src="auto">NNMS5-----A----</AM>
 <AM lemma="Terry_;S" src="auto">NNMXX-----A----</AM>
 <AM lemma="terra" src="auto">NNFS2-----A----</AM>
+<AM lemma="Terry_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1518-001-p1s0W2-Ta">
@@ -62,6 +63,7 @@
 <tag>
 <AM lemma="Haines_;G" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Haines_;G" src="auto">NNIS4-----A----</AM>
+<AM lemma="Haines-2_;S" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1518-001-p1s0W5-Ta">
@@ -550,7 +552,10 @@
 <LM>w#w-wsj1518-001-p1s1W6</LM>
 </w.rf>
 <form>Kushkin</form>
-<tag lemma="Kushkin" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Kushkin" src="auto">X@-------------</AM>
+<AM lemma="Kushkin_;S" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj1518-001-p1s1W7-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1078,7 +1083,7 @@
 <AM lemma="vzrůstající_^(*4t)" src="auto">AGFS1-----A----</AM>
 <AM lemma="vzrůstající_^(*4t)" src="auto">AGFS2-----A----</AM>
 <AM lemma="vzrůstající_^(*4t)" src="auto">AGFS3-----A----</AM>
-<AM lemma="vzrůstající_^(*4t)" src="auto">AGFS4-----A----</AM>
+<AM lemma="vzrůstající_^(*4t)" src="auto" selected="1">AGFS4-----A----</AM>
 <AM lemma="vzrůstající_^(*4t)" src="auto">AGFS5-----A----</AM>
 <AM lemma="vzrůstající_^(*4t)" src="auto">AGFS6-----A----</AM>
 <AM lemma="vzrůstající_^(*4t)" src="auto">AGFS7-----A----</AM>
@@ -1313,7 +1318,10 @@
 <LM>w#w-wsj1518-001-p1s2W31</LM>
 </w.rf>
 <form>Schulman</form>
-<tag lemma="Schulman_;S" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Schulman_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Schulman-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1518-001-p1s2W32-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1377,7 +1385,10 @@
 <LM>w#w-wsj1518-001-p1s3W5</LM>
 </w.rf>
 <form>Gordon</form>
-<tag lemma="Gordon_;Y" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Gordon_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Gordon_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj1518-001-p1s3W6-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1385,7 +1396,10 @@
 <LM>w#w-wsj1518-001-p1s3W6</LM>
 </w.rf>
 <form>Trimmer</form>
-<tag lemma="trimmer_,t" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="trimmer_,t" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Trimmer_;S" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj1518-001-p1s3W7-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1407,6 +1421,7 @@
 <tag>
 <AM lemma="Terry_;S" src="auto">NNMS2-----A----</AM>
 <AM lemma="Terry_;S" src="auto" recommended="1">NNMS4-----A----</AM>
+<AM lemma="Terry_;S_Y" src="manual" selected="1">NNMS4-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1518-001-p1s3W9-Ta">
@@ -1441,7 +1456,10 @@
 <LM>w#w-wsj1518-001-p1s3W11</LM>
 </w.rf>
 <form>Hainese</form>
-<tag lemma="Haines_;G" src="auto" recommended="1">NNIS5-----A----</tag>
+<tag>
+<AM lemma="Haines_;G" src="auto" recommended="1">NNIS5-----A----</AM>
+<AM lemma="Haines-2_;S" src="manual" selected="1">NNMS4-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj1518-001-p1s3W12-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1451,7 +1469,7 @@
 <form>na</form>
 <tag>
 <AM lemma="na-1" src="auto" recommended="1">RR--4----------</AM>
-<AM lemma="na-1" src="auto">RR--6----------</AM>
+<AM lemma="na-1" src="auto" selected="1">RR--6----------</AM>
 <AM lemma="na-2" src="auto">II-------------</AM>
 </tag>
 </m>
@@ -1464,7 +1482,7 @@
 <tag>
 <AM lemma="pozice" src="auto">NNFS3-----A----</AM>
 <AM lemma="pozice" src="auto" recommended="1">NNFS4-----A----</AM>
-<AM lemma="pozice" src="auto">NNFS6-----A----</AM>
+<AM lemma="pozice" src="auto" selected="1">NNFS6-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1518-001-p1s3W14-Ta">
@@ -1600,7 +1618,10 @@
 <LM>w#w-wsj1518-001-p1s3W24</LM>
 </w.rf>
 <form>Kushkina</form>
-<tag lemma="Kushkina" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Kushkina" src="auto">X@-------------</AM>
+<AM lemma="Kushkin_;S" src="manual" selected="1">NNMS2-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj1518-001-p1s3W25-Ta">
 <src.rf>tagger-a</src.rf>

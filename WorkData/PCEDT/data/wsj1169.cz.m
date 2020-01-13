@@ -30,6 +30,7 @@
 <tag>
 <AM lemma="Murat-2_;S" src="auto" recommended="1">NNMS2-----A----</AM>
 <AM lemma="Murat-2_;S" src="auto">NNMS4-----A----</AM>
+<AM lemma="Murata-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1169-001-p1s0W3-Ta">
@@ -38,7 +39,10 @@
 <LM>w#w-wsj1169-001-p1s0W3</LM>
 </w.rf>
 <form>Mfg</form>
-<tag lemma="Mfg" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Mfg" src="auto">X@-------------</AM>
+<AM lemma="Mfg-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1169-001-p1s0W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -62,6 +66,7 @@
 <AM lemma="co-4_^(který:_př.:_o_těch,_co_odešli/co_je_znal)" src="auto">P4XXX----------</AM>
 <AM lemma="co-5_^(př._co_nejméně,_co_nevidět,_co_chvíli,_co_do_počtu,_atd.)" src="auto">Db-------------</AM>
 <AM lemma="co-77_:B" src="auto">F%-------------</AM>
+<AM lemma="Co-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1169-001-p1s0W6-Ta">
@@ -575,6 +580,7 @@
 <tag>
 <AM lemma="Murat-2_;S" src="auto" recommended="1">NNMS2-----A----</AM>
 <AM lemma="Murat-2_;S" src="auto">NNMS4-----A----</AM>
+<AM lemma="Murata_;S" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1169-001-p1s3W3-Ta">
@@ -1027,6 +1033,7 @@
 <tag>
 <AM lemma="Murat-2_;S" src="auto" recommended="1">NNMS2-----A----</AM>
 <AM lemma="Murat-2_;S" src="auto">NNMS4-----A----</AM>
+<AM lemma="Murata-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1169-001-p1s5W14-Ta">
@@ -1035,7 +1042,10 @@
 <LM>w#w-wsj1169-001-p1s5W14</LM>
 </w.rf>
 <form>Europe</form>
-<tag lemma="Europe-1_;G_,t" src="auto" recommended="1">NNFXX-----A----</tag>
+<tag>
+<AM lemma="Europe-1_;G_,t" src="auto" recommended="1">NNFXX-----A----</AM>
+<AM lemma="Europe-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1169-001-p1s5W15-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1046,6 +1056,7 @@
 <tag>
 <AM lemma="management_,s_^(^DD**manažment)" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="management_,s_^(^DD**manažment)" src="auto">NNIS4-----A----</AM>
+<AM lemma="Management-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1169-001-p1s5W16-Ta">
@@ -1054,7 +1065,10 @@
 <LM>w#w-wsj1169-001-p1s5W16</LM>
 </w.rf>
 <form>GmbH</form>
-<tag lemma="Gmbh-77_:B" src="auto" recommended="1">F%-------------</tag>
+<tag>
+<AM lemma="Gmbh-77_:B" src="auto" recommended="1">F%-------------</AM>
+<AM lemma="GmbH-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1169-001-p1s5W17-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1460,6 +1474,7 @@
 <tag>
 <AM lemma="Murat-2_;S" src="auto" recommended="1">NNMS2-----A----</AM>
 <AM lemma="Murat-2_;S" src="auto">NNMS4-----A----</AM>
+<AM lemma="Murata_;S" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1169-001-p1s6W3-Ta">

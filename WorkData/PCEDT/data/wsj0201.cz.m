@@ -30,6 +30,7 @@
 <tag>
 <AM lemma="Rolls_;R_^(vozidlo)" src="auto" recommended="1">NNIXX-----A----</AM>
 <AM lemma="rolls_;R_^(vozidlo)" src="auto">NNIXX-----A----</AM>
+<AM lemma="Rolls-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj0201-001-p1s0W3-Ta">
@@ -49,6 +50,7 @@
 <tag>
 <AM lemma="Royce-2_;R_^(vozidlo)" src="auto" recommended="1">NNIXX-----A----</AM>
 <AM lemma="royce_;R_^(vozidlo)" src="auto">NNIXX-----A----</AM>
+<AM lemma="Royce-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj0201-001-p1s0W5-Ta">
@@ -60,6 +62,7 @@
 <tag>
 <AM lemma="motor" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="motor" src="auto">NNIS4-----A----</AM>
+<AM lemma="Motor-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj0201-001-p1s0W6-Ta">
@@ -69,7 +72,7 @@
 </w.rf>
 <form>Cars</form>
 <tag>
-<AM lemma="Cars-77" src="auto" recommended="1">F%-------------</AM>
+<AM lemma="Cars-77" src="auto" recommended="1" selected="1">F%-------------</AM>
 <AM lemma="Carsus_;G_,t" src="auto">NNIS1-----A---2</AM>
 <AM lemma="Carsus_;G_,t" src="auto">NNIS4-----A---2</AM>
 <AM lemma="cars-77_,t" src="auto">F%-------------</AM>
@@ -84,6 +87,7 @@
 <tag>
 <AM lemma="Inc-77_:B" src="auto" recommended="1">F%-------------</AM>
 <AM lemma="inc-77_:B" src="auto">F%-------------</AM>
+<AM lemma="Inc-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj0201-001-p1s0W8-Ta">
@@ -542,7 +546,10 @@
 <LM>w#w-wsj0201-001-p1s2W6</LM>
 </w.rf>
 <form>Howard</form>
-<tag lemma="Howard_;S" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Howard_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Howard_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj0201-001-p1s2W7-Ta">
 <src.rf>tagger-a</src.rf>
@@ -550,7 +557,10 @@
 <LM>w#w-wsj0201-001-p1s2W7</LM>
 </w.rf>
 <form>Mosher</form>
-<tag lemma="Mosher" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Mosher" src="auto">X@-------------</AM>
+<AM lemma="Mosher_;S" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj0201-001-p1s2W8-Ta">
 <src.rf>tagger-a</src.rf>

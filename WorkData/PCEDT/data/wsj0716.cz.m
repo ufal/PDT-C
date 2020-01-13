@@ -70,7 +70,10 @@
 <LM>w#w-wsj0716-001-p1s0W6</LM>
 </w.rf>
 <form>Outokumpu</form>
-<tag lemma="Outokumpu_;G" src="auto" recommended="1">NNNXX-----A----</tag>
+<tag>
+<AM lemma="Outokumpu_;G" src="auto" recommended="1">NNNXX-----A----</AM>
+<AM lemma="Outokumpu-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0716-001-p1s0W7-Ta">
 <src.rf>tagger-a</src.rf>
@@ -78,7 +81,10 @@
 <LM>w#w-wsj0716-001-p1s0W7</LM>
 </w.rf>
 <form>Oy</form>
-<tag lemma="Oy" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Oy" src="auto">X@-------------</AM>
+<AM lemma="Oy-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj0716-001-p1s0W8-Ta">
 <src.rf>tagger-a</src.rf>
@@ -155,7 +161,10 @@
 <LM>w#w-wsj0716-001-p1s0W13</LM>
 </w.rf>
 <form>Phillipine</form>
-<tag lemma="Phillipine" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Phillipine" src="auto">X@-------------</AM>
+<AM lemma="Phillipine-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0716-001-p1s0W14-Ta">
 <src.rf>tagger-a</src.rf>
@@ -163,7 +172,10 @@
 <LM>w#w-wsj0716-001-p1s0W14</LM>
 </w.rf>
 <form>Associated</form>
-<tag lemma="Associated" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Associated" src="auto">X@-------------</AM>
+<AM lemma="Associated-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0716-001-p1s0W15-Ta">
 <src.rf>tagger-a</src.rf>
@@ -171,7 +183,10 @@
 <LM>w#w-wsj0716-001-p1s0W15</LM>
 </w.rf>
 <form>Smelting</form>
-<tag lemma="Smelting" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Smelting" src="auto">X@-------------</AM>
+<AM lemma="Smelting-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0716-001-p1s0W16-Ta">
 <src.rf>tagger-a</src.rf>
@@ -187,7 +202,10 @@
 <LM>w#w-wsj0716-001-p1s0W17</LM>
 </w.rf>
 <form>Refining</form>
-<tag lemma="Refining" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Refining" src="auto">X@-------------</AM>
+<AM lemma="Refining-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0716-001-p1s0W18-Ta">
 <src.rf>tagger-a</src.rf>
@@ -195,7 +213,10 @@
 <LM>w#w-wsj0716-001-p1s0W18</LM>
 </w.rf>
 <form>Corp</form>
-<tag lemma="corp-77_:B" src="auto" recommended="1">F%-------------</tag>
+<tag>
+<AM lemma="corp-77_:B" src="auto" recommended="1">F%-------------</AM>
+<AM lemma="Corp-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0716-001-p1s0W19-Ta">
 <src.rf>tagger-a</src.rf>
@@ -221,7 +242,7 @@
 <form>jak</form>
 <tag>
 <AM lemma="jak-1_;L_^(živočich)" src="auto">NNMS1-----A----</AM>
-<AM lemma="jak-2" src="auto">J,-------------</AM>
+<AM lemma="jak-2" src="auto" selected="1">J,-------------</AM>
 <AM lemma="jak-2" src="auto">J^-------------</AM>
 <AM lemma="jak-3" src="auto" recommended="1">Db-------------</AM>
 <AM lemma="jak-99_:B_;S" src="auto">NNXXX-----A----</AM>
@@ -277,7 +298,10 @@
 <LM>w#w-wsj0716-001-p1s0W26</LM>
 </w.rf>
 <form>National</form>
-<tag lemma="National-1_;K_,t_^(souč._názvů,_např._N._Semiconductor)" src="auto" recommended="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="National-1_;K_,t_^(souč._názvů,_např._N._Semiconductor)" src="auto" recommended="1">AAXXX----1A----</AM>
+<AM lemma="National-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0716-001-p1s0W27-Ta">
 <src.rf>tagger-a</src.rf>
@@ -288,6 +312,7 @@
 <tag>
 <AM lemma="development_,t_^(rozvoj)" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="development_,t_^(rozvoj)" src="auto">NNIS4-----A----</AM>
+<AM lemma="Development-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj0716-001-p1s0W28-Ta">
@@ -296,7 +321,10 @@
 <LM>w#w-wsj0716-001-p1s0W28</LM>
 </w.rf>
 <form>Corp</form>
-<tag lemma="corp-77_:B" src="auto" recommended="1">F%-------------</tag>
+<tag>
+<AM lemma="corp-77_:B" src="auto" recommended="1">F%-------------</AM>
+<AM lemma="Corp-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0716-001-p1s0W29-Ta">
 <src.rf>tagger-a</src.rf>
@@ -714,7 +742,10 @@
 <LM>w#w-wsj0716-001-p1s2W2</LM>
 </w.rf>
 <form>Outokumpu</form>
-<tag lemma="Outokumpu_;G" src="auto" recommended="1">NNNXX-----A----</tag>
+<tag>
+<AM lemma="Outokumpu_;G" src="auto" recommended="1">NNNXX-----A----</AM>
+<AM lemma="Outokumpu_;G_;K" src="manual" selected="1">NNNXX-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj0716-001-p1s2W3-Ta">
 <src.rf>tagger-a</src.rf>

@@ -120,6 +120,7 @@
 <AM lemma="mobile-1_^(t-mobile)" src="auto">NNIS5-----A----</AM>
 <AM lemma="mobile-1_^(t-mobile)" src="auto">NNIXX-----A----</AM>
 <AM lemma="mobile-77" src="auto" recommended="1">F%-------------</AM>
+<AM lemma="Mobile-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj0974-001-p1s0W10-Ta">
@@ -128,7 +129,10 @@
 <LM>w#w-wsj0974-001-p1s0W10</LM>
 </w.rf>
 <form>Machines</form>
-<tag lemma="Machines" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Machines" src="auto">X@-------------</AM>
+<AM lemma="Machines-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0974-001-p1s0W11-Ta">
 <src.rf>tagger-a</src.rf>
@@ -611,7 +615,7 @@
 <tag>
 <AM lemma="několik" src="auto">Ca--2----------</AM>
 <AM lemma="několik" src="auto">Ca--3----------</AM>
-<AM lemma="několik" src="auto">Ca--6----------</AM>
+<AM lemma="několik" src="auto" selected="1">Ca--6----------</AM>
 <AM lemma="několik" src="auto" recommended="1">Ca--7----------</AM>
 </tag>
 </m>

@@ -62,6 +62,7 @@
 <AM lemma="Kelley_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Kelley_;Y" src="auto">NNMS5-----A----</AM>
 <AM lemma="Kelley_;Y" src="auto">NNMXX-----A----</AM>
+<AM lemma="Kelley_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1838-001-p1s0W6-Ta">
@@ -453,7 +454,15 @@
 <LM>w#w-wsj1838-001-p1s0W35</LM>
 </w.rf>
 <form>Jewela</form>
-<tag lemma="Jewela" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Jewela" src="auto">X@-------------</AM>
+<AM lemma="Jewel_;Y" src="manual">NNMS2-----A----</AM>
+</tag>
+<comment>
+<LM type="New Form">
+<text>Jewel</text>
+</LM>
+</comment>
 </m>
 <m id="m-wsj1838-001-p1s0W36-Ta">
 <src.rf>tagger-a</src.rf>
@@ -461,7 +470,18 @@
 <LM>w#w-wsj1838-001-p1s0W36</LM>
 </w.rf>
 <form>Lafontanta</form>
-<tag lemma="Lafontanta" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Lafontanta" src="auto">X@-------------</AM>
+<AM lemma="Lafontant_;S" src="manual">NNMS2-----A----</AM>
+</tag>
+<comment>
+<LM type="New Form">
+<text>Lafontantové</text>
+</LM>
+<LM type="Other">
+<text>jedná se o ženu (snadno ověřitelné)</text>
+</LM>
+</comment>
 </m>
 <m id="m-wsj1838-001-p1s0W37-Ta">
 <src.rf>tagger-a</src.rf>
@@ -488,6 +508,11 @@
 <AM lemma="který" src="auto">P4XP4---------6</AM>
 <AM lemma="který" src="auto" recommended="1">P4YS1----------</AM>
 </tag>
+<comment>
+<LM type="New Form">
+<text>která</text>
+</LM>
+</comment>
 </m>
 <m id="m-wsj1838-001-p1s0W39-Ta">
 <src.rf>tagger-a</src.rf>
@@ -496,6 +521,11 @@
 </w.rf>
 <form>rezignoval</form>
 <tag lemma="rezignovat" src="auto" recommended="1">VpYS---XR-AAB--</tag>
+<comment>
+<LM type="New Form">
+<text>rezignovala</text>
+</LM>
+</comment>
 </m>
 <m id="m-wsj1838-001-p1s0W40-Ta">
 <src.rf>tagger-a</src.rf>
@@ -527,6 +557,11 @@
 </w.rf>
 <form>mohl</form>
 <tag lemma="moci" src="auto" recommended="1">VpYS---XR-AAI--</tag>
+<comment>
+<LM type="New Form">
+<text>mohla</text>
+</LM>
+</comment>
 </m>
 <m id="m-wsj1838-001-p1s0W43-Ta">
 <src.rf>tagger-a</src.rf>

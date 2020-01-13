@@ -81,7 +81,10 @@
 <LM>w#w-wsj0144-001-p1s0W4</LM>
 </w.rf>
 <form>Travelers</form>
-<tag lemma="Travelers" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Travelers" src="auto">X@-------------</AM>
+<AM lemma="Travelers-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0144-001-p1s0W5-Ta">
 <src.rf>tagger-a</src.rf>
@@ -89,7 +92,10 @@
 <LM>w#w-wsj0144-001-p1s0W5</LM>
 </w.rf>
 <form>Corp</form>
-<tag lemma="corp-77_:B" src="auto" recommended="1">F%-------------</tag>
+<tag>
+<AM lemma="corp-77_:B" src="auto" recommended="1">F%-------------</AM>
+<AM lemma="Corp-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0144-001-p1s0W6-Ta">
 <src.rf>tagger-a</src.rf>
@@ -284,7 +290,7 @@
 </w.rf>
 <form>Hugo</form>
 <tag>
-<AM lemma="Hugo-1_;S_;Y" src="auto">NNMS1-----A----</AM>
+<AM lemma="Hugo-1_;S_;Y" src="auto" selected="1">NNMS1-----A----</AM>
 <AM lemma="Hugo-1_;S_;Y" src="auto">NNMS5-----A----</AM>
 <AM lemma="Hugo-2_;G" src="auto">NNNS1-----A----</AM>
 <AM lemma="Hugo-2_;G" src="auto" recommended="1">NNNS4-----A----</AM>
@@ -308,7 +314,7 @@
 <form>výsledky</form>
 <tag>
 <AM lemma="výsledek" src="auto" recommended="1">NNIP1-----A----</AM>
-<AM lemma="výsledek" src="auto">NNIP4-----A----</AM>
+<AM lemma="výsledek" src="auto" selected="1">NNIP4-----A----</AM>
 <AM lemma="výsledek" src="auto">NNIP5-----A----</AM>
 <AM lemma="výsledek" src="auto">NNIP7-----A----</AM>
 </tag>
@@ -1121,7 +1127,7 @@
 <form>miliardy</form>
 <tag>
 <AM lemma="miliarda`1000000000" src="auto">NNFP1-----A----</AM>
-<AM lemma="miliarda`1000000000" src="auto">NNFP4-----A----</AM>
+<AM lemma="miliarda`1000000000" src="auto" selected="1">NNFP4-----A----</AM>
 <AM lemma="miliarda`1000000000" src="auto">NNFP5-----A----</AM>
 <AM lemma="miliarda`1000000000" src="auto" recommended="1">NNFS2-----A----</AM>
 </tag>
@@ -1158,7 +1164,10 @@
 <LM>w#w-wsj0144-001-p1s3W2</LM>
 </w.rf>
 <form>Travelers</form>
-<tag lemma="Travelers" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Travelers" src="auto">X@-------------</AM>
+<AM lemma="Travelers_;K" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj0144-001-p1s3W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1391,7 +1400,7 @@
 <AM lemma="malý" src="auto">AAFS6----2A----</AM>
 <AM lemma="malý" src="auto">AAFS7----2A----</AM>
 <AM lemma="malý" src="auto">AAIP1----2A----</AM>
-<AM lemma="malý" src="auto">AAIP4----2A----</AM>
+<AM lemma="malý" src="auto" selected="1">AAIP4----2A----</AM>
 <AM lemma="malý" src="auto">AAIP5----2A----</AM>
 <AM lemma="malý" src="auto">AAIS1----2A----</AM>
 <AM lemma="malý" src="auto">AAIS4----2A----</AM>
@@ -1982,7 +1991,10 @@
 <LM>w#w-wsj0144-001-p1s5W3</LM>
 </w.rf>
 <form>Travelers</form>
-<tag lemma="Travelers" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Travelers" src="auto">X@-------------</AM>
+<AM lemma="Travelers_;K" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj0144-001-p1s5W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1994,7 +2006,7 @@
 <AM lemma="zabývající_^(*4t)" src="auto">AGFP1-----A----</AM>
 <AM lemma="zabývající_^(*4t)" src="auto">AGFP4-----A----</AM>
 <AM lemma="zabývající_^(*4t)" src="auto">AGFP5-----A----</AM>
-<AM lemma="zabývající_^(*4t)" src="auto">AGFS1-----A----</AM>
+<AM lemma="zabývající_^(*4t)" src="auto" selected="1">AGFS1-----A----</AM>
 <AM lemma="zabývající_^(*4t)" src="auto">AGFS2-----A----</AM>
 <AM lemma="zabývající_^(*4t)" src="auto">AGFS3-----A----</AM>
 <AM lemma="zabývající_^(*4t)" src="auto">AGFS4-----A----</AM>

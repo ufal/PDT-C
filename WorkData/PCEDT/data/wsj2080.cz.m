@@ -128,7 +128,10 @@
 <LM>w#w-wsj2080-001-p1s0W8</LM>
 </w.rf>
 <form>Citicorp</form>
-<tag lemma="Citicorp" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Citicorp" src="auto">X@-------------</AM>
+<AM lemma="Citicorp_;K" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj2080-001-p1s0W9-Ta">
 <src.rf>tagger-a</src.rf>
@@ -157,7 +160,15 @@
 <LM>w#w-wsj2080-001-p1s0W10</LM>
 </w.rf>
 <form>91denními</form>
-<tag lemma="91denními" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="91denními" src="auto">X@-------------</AM>
+<AM lemma="91denní" src="manual" selected="1">AAIP7----1A----</AM>
+</tag>
+<comment>
+<LM type="Other">
+<text>špatná tokenizace</text>
+</LM>
+</comment>
 </m>
 <m id="m-wsj2080-001-p1s0W11-Ta">
 <src.rf>tagger-a</src.rf>
@@ -317,7 +328,10 @@
 <LM>w#w-wsj2080-001-p1s0W25</LM>
 </w.rf>
 <form>klesla</form>
-<tag lemma="klesnout" src="auto" recommended="1">VpQW---XR-AAP-1</tag>
+<tag>
+<AM lemma="klesnout" src="auto" recommended="1">VpQW---XR-AAP-1</AM>
+<AM lemma="klesnout" src="manual" selected="1">VpQW----R-AAP-1</AM>
+</tag>
 </m>
 <m id="m-wsj2080-001-p1s0W26-Ta">
 <src.rf>tagger-a</src.rf>
@@ -431,7 +445,10 @@
 <LM>w#w-wsj2080-001-p1s1W1</LM>
 </w.rf>
 <form>Byly</form>
-<tag lemma="být" src="auto" recommended="1">VpTP---XR-AAI--</tag>
+<tag>
+<AM lemma="být" src="auto" recommended="1">VpTP---XR-AAI--</AM>
+<AM lemma="být" src="manual" selected="1">VpTP----R-AAI--</AM>
+</tag>
 </m>
 <m id="m-wsj2080-001-p1s1W2-Ta">
 <src.rf>tagger-a</src.rf>
@@ -439,7 +456,10 @@
 <LM>w#w-wsj2080-001-p1s1W2</LM>
 </w.rf>
 <form>předloženy</form>
-<tag lemma="předložit" src="auto" recommended="1">VsTP---XX-APP--</tag>
+<tag>
+<AM lemma="předložit" src="auto" recommended="1">VsTP---XX-APP--</AM>
+<AM lemma="předložit" src="manual" selected="1">VsTP----X-APP--</AM>
+</tag>
 </m>
 <m id="m-wsj2080-001-p1s1W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -587,7 +607,10 @@
 <LM>w#w-wsj2080-001-p1s1W13</LM>
 </w.rf>
 <form>byly</form>
-<tag lemma="být" src="auto" recommended="1">VpTP---XR-AAI--</tag>
+<tag>
+<AM lemma="být" src="auto" recommended="1">VpTP---XR-AAI--</AM>
+<AM lemma="být" src="manual" selected="1">VpTP----R-AAI--</AM>
+</tag>
 </m>
 <m id="m-wsj2080-001-p1s1W14-Ta">
 <src.rf>tagger-a</src.rf>
@@ -645,7 +668,10 @@
 <LM>w#w-wsj2080-001-p1s2W2</LM>
 </w.rf>
 <form>Citicorp</form>
-<tag lemma="Citicorp" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Citicorp" src="auto">X@-------------</AM>
+<AM lemma="Citicorp_;K" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj2080-001-p1s2W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -661,7 +687,10 @@
 <LM>w#w-wsj2080-001-p1s2W4</LM>
 </w.rf>
 <form>uvedla</form>
-<tag lemma="uvést" src="auto" recommended="1">VpQW---XR-AAP--</tag>
+<tag>
+<AM lemma="uvést" src="auto" recommended="1">VpQW---XR-AAP--</AM>
+<AM lemma="uvést" src="manual" selected="1">VpQW----R-AAP--</AM>
+</tag>
 </m>
 <m id="m-wsj2080-001-p1s2W5-Ta">
 <src.rf>tagger-a</src.rf>
@@ -755,7 +784,15 @@
 <LM>w#w-wsj2080-001-p1s2W12</LM>
 </w.rf>
 <form>182denními</form>
-<tag lemma="182denními" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="182denními" src="auto">X@-------------</AM>
+<AM lemma="182denní" src="manual" selected="1">AAIP7----1A----</AM>
+</tag>
+<comment>
+<LM type="Other">
+<text>špatná tokenizace</text>
+</LM>
+</comment>
 </m>
 <m id="m-wsj2080-001-p1s2W13-Ta">
 <src.rf>tagger-a</src.rf>
@@ -802,7 +839,10 @@
 <LM>w#w-wsj2080-001-p1s2W16</LM>
 </w.rf>
 <form>klesla</form>
-<tag lemma="klesnout" src="auto" recommended="1">VpQW---XR-AAP-1</tag>
+<tag>
+<AM lemma="klesnout" src="auto" recommended="1">VpQW---XR-AAP-1</AM>
+<AM lemma="klesnout" src="manual" selected="1">VpQW----R-AAP-1</AM>
+</tag>
 </m>
 <m id="m-wsj2080-001-p1s2W17-Ta">
 <src.rf>tagger-a</src.rf>
@@ -916,7 +956,10 @@
 <LM>w#w-wsj2080-001-p1s3W1</LM>
 </w.rf>
 <form>Byly</form>
-<tag lemma="být" src="auto" recommended="1">VpTP---XR-AAI--</tag>
+<tag>
+<AM lemma="být" src="auto" recommended="1">VpTP---XR-AAI--</AM>
+<AM lemma="být" src="manual" selected="1">VpTP----R-AAI--</AM>
+</tag>
 </m>
 <m id="m-wsj2080-001-p1s3W2-Ta">
 <src.rf>tagger-a</src.rf>
@@ -924,7 +967,10 @@
 <LM>w#w-wsj2080-001-p1s3W2</LM>
 </w.rf>
 <form>předloženy</form>
-<tag lemma="předložit" src="auto" recommended="1">VsTP---XX-APP--</tag>
+<tag>
+<AM lemma="předložit" src="auto" recommended="1">VsTP---XX-APP--</AM>
+<AM lemma="předložit" src="manual" selected="1">VsTP----X-APP--</AM>
+</tag>
 </m>
 <m id="m-wsj2080-001-p1s3W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1072,7 +1118,10 @@
 <LM>w#w-wsj2080-001-p1s3W13</LM>
 </w.rf>
 <form>byly</form>
-<tag lemma="být" src="auto" recommended="1">VpTP---XR-AAI--</tag>
+<tag>
+<AM lemma="být" src="auto" recommended="1">VpTP---XR-AAI--</AM>
+<AM lemma="být" src="manual" selected="1">VpTP----R-AAI--</AM>
+</tag>
 </m>
 <m id="m-wsj2080-001-p1s3W14-Ta">
 <src.rf>tagger-a</src.rf>

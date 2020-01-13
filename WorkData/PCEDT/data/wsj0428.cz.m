@@ -392,7 +392,7 @@
 </w.rf>
 <form>tendenci</form>
 <tag>
-<AM lemma="tendence" src="auto">NNFS3-----A----</AM>
+<AM lemma="tendence" src="auto" selected="1">NNFS3-----A----</AM>
 <AM lemma="tendence" src="auto" recommended="1">NNFS4-----A----</AM>
 <AM lemma="tendence" src="auto">NNFS6-----A----</AM>
 </tag>
@@ -645,7 +645,7 @@
 </w.rf>
 <form>export</form>
 <tag>
-<AM lemma="export" src="auto">NNIS1-----A----</AM>
+<AM lemma="export" src="auto" selected="1">NNIS1-----A----</AM>
 <AM lemma="export" src="auto" recommended="1">NNIS4-----A----</AM>
 </tag>
 </m>

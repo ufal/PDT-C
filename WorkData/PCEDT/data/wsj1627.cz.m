@@ -54,7 +54,7 @@
 <AM lemma="státní" src="auto">AAIP1----1A----</AM>
 <AM lemma="státní" src="auto">AAIP4----1A----</AM>
 <AM lemma="státní" src="auto">AAIP5----1A----</AM>
-<AM lemma="státní" src="auto">AAIS1----1A----</AM>
+<AM lemma="státní" src="auto" selected="1">AAIS1----1A----</AM>
 <AM lemma="státní" src="auto" recommended="1">AAIS4----1A----</AM>
 <AM lemma="státní" src="auto">AAIS5----1A----</AM>
 <AM lemma="státní" src="auto">AAMP1----1A----</AM>
@@ -86,7 +86,7 @@
 <AM lemma="statistický" src="auto">AAIP1----1A---6</AM>
 <AM lemma="statistický" src="auto">AAIP4----1A---6</AM>
 <AM lemma="statistický" src="auto">AAIP5----1A---6</AM>
-<AM lemma="statistický" src="auto">AAIS1----1A----</AM>
+<AM lemma="statistický" src="auto" selected="1">AAIS1----1A----</AM>
 <AM lemma="statistický" src="auto" recommended="1">AAIS4----1A----</AM>
 <AM lemma="statistický" src="auto">AAIS5----1A----</AM>
 <AM lemma="statistický" src="auto">AAMP1----1A---6</AM>
@@ -109,7 +109,7 @@
 </w.rf>
 <form>institut</form>
 <tag>
-<AM lemma="institut" src="auto">NNIS1-----A----</AM>
+<AM lemma="institut" src="auto" selected="1">NNIS1-----A----</AM>
 <AM lemma="institut" src="auto" recommended="1">NNIS4-----A----</AM>
 </tag>
 </m>
@@ -119,7 +119,10 @@
 <LM>w#w-wsj1627-001-p1s0W6</LM>
 </w.rf>
 <form>Istat</form>
-<tag lemma="Istat" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Istat" src="auto">X@-------------</AM>
+<AM lemma="Istat_;K" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj1627-001-p1s0W7-Ta">
 <src.rf>tagger-a</src.rf>
@@ -555,7 +558,10 @@
 <LM>w#w-wsj1627-001-p1s2W1</LM>
 </w.rf>
 <form>Istat</form>
-<tag lemma="Istat" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Istat" src="auto">X@-------------</AM>
+<AM lemma="Istat_;K" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj1627-001-p1s2W2-Ta">
 <src.rf>tagger-a</src.rf>
@@ -950,7 +956,7 @@
 <AM lemma="velkoobchodní" src="auto">AAIP4----1A----</AM>
 <AM lemma="velkoobchodní" src="auto">AAIP5----1A----</AM>
 <AM lemma="velkoobchodní" src="auto" recommended="1">AAIS1----1A----</AM>
-<AM lemma="velkoobchodní" src="auto">AAIS4----1A----</AM>
+<AM lemma="velkoobchodní" src="auto" selected="1">AAIS4----1A----</AM>
 <AM lemma="velkoobchodní" src="auto">AAIS5----1A----</AM>
 <AM lemma="velkoobchodní" src="auto">AAMP1----1A----</AM>
 <AM lemma="velkoobchodní" src="auto">AAMP4----1A----</AM>
@@ -975,7 +981,7 @@
 <AM lemma="prodat" src="auto">Vi-S---2--A-P--</AM>
 <AM lemma="prodat" src="auto">Vi-S---3--A-P-4</AM>
 <AM lemma="prodej_^(akt_prodeje_zboží)" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="prodej_^(akt_prodeje_zboží)" src="auto">NNIS4-----A----</AM>
+<AM lemma="prodej_^(akt_prodeje_zboží)" src="auto" selected="1">NNIS4-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1627-001-p1s3W8-Ta">
@@ -1198,7 +1204,7 @@
 <AM lemma="oživení_^(*3it)" src="auto" recommended="1">NNNS1-----A----</AM>
 <AM lemma="oživení_^(*3it)" src="auto">NNNS2-----A----</AM>
 <AM lemma="oživení_^(*3it)" src="auto">NNNS3-----A----</AM>
-<AM lemma="oživení_^(*3it)" src="auto">NNNS4-----A----</AM>
+<AM lemma="oživení_^(*3it)" src="auto" selected="1">NNNS4-----A----</AM>
 <AM lemma="oživení_^(*3it)" src="auto">NNNS5-----A----</AM>
 <AM lemma="oživení_^(*3it)" src="auto">NNNS6-----A----</AM>
 </tag>

@@ -253,7 +253,7 @@
 </w.rf>
 <form>následující</form>
 <tag>
-<AM lemma="následující_^(*5ovat)" src="auto">AGFP1-----A----</AM>
+<AM lemma="následující_^(*5ovat)" src="auto" selected="1">AGFP1-----A----</AM>
 <AM lemma="následující_^(*5ovat)" src="auto">AGFP4-----A----</AM>
 <AM lemma="následující_^(*5ovat)" src="auto">AGFP5-----A----</AM>
 <AM lemma="následující_^(*5ovat)" src="auto">AGFS1-----A----</AM>
@@ -300,7 +300,7 @@
 <form>a</form>
 <tag>
 <AM lemma="a-1" src="auto" recommended="1">J^-------------</AM>
-<AM lemma="a-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
+<AM lemma="a-33_^(označení_pomocí_písmene)" src="auto" selected="1">NNNXX-----A----</AM>
 <AM lemma="a-77_,t" src="auto">F%-------------</AM>
 <AM lemma="a-88_:B" src="auto">NNXXX-----A----</AM>
 <AM lemma="akciový" src="auto">AAXXX----1A---8</AM>

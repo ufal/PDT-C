@@ -291,7 +291,7 @@
 <form>analytiky</form>
 <tag>
 <AM lemma="analytik" src="auto">NNMP4-----A----</AM>
-<AM lemma="analytik" src="auto">NNMP7-----A----</AM>
+<AM lemma="analytik" src="auto" selected="1">NNMP7-----A----</AM>
 <AM lemma="analytika_^(věda)" src="auto">NNFP1-----A----</AM>
 <AM lemma="analytika_^(věda)" src="auto">NNFP4-----A----</AM>
 <AM lemma="analytika_^(věda)" src="auto">NNFP5-----A----</AM>

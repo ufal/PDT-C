@@ -27,7 +27,10 @@
 <LM>w#w-wsj2220-001-p1s0W2</LM>
 </w.rf>
 <form>Seafirst</form>
-<tag lemma="Seafirst" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Seafirst" src="auto">X@-------------</AM>
+<AM lemma="Seafirst-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj2220-001-p1s0W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -35,7 +38,10 @@
 <LM>w#w-wsj2220-001-p1s0W3</LM>
 </w.rf>
 <form>Corp</form>
-<tag lemma="corp-77_:B" src="auto" recommended="1">F%-------------</tag>
+<tag>
+<AM lemma="corp-77_:B" src="auto" recommended="1">F%-------------</AM>
+<AM lemma="Corp-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj2220-001-p1s0W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -119,6 +125,7 @@
 <AM lemma="Martin-2_;G" src="auto">NNIS7-----A----</AM>
 <AM lemma="Martino_;S" src="auto">NNMS7-----A----</AM>
 <AM lemma="Martinus_;S" src="auto">NNMS7-----A----</AM>
+<AM lemma="Martin_;S_;Y" src="manual" selected="1">NNMS7-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2220-001-p1s0W13-Ta">
@@ -127,7 +134,10 @@
 <LM>w#w-wsj2220-001-p1s0W13</LM>
 </w.rf>
 <form>Seligem</form>
-<tag lemma="Seligem" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Seligem" src="auto">X@-------------</AM>
+<AM lemma="Selig_;S" src="manual" selected="1">NNMS7-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj2220-001-p1s0W14-Ta">
 <src.rf>tagger-a</src.rf>
@@ -219,6 +229,7 @@
 <AM lemma="columbium" src="auto">NNNP4-----A----</AM>
 <AM lemma="columbium" src="auto">NNNP5-----A----</AM>
 <AM lemma="columbium" src="auto">NNNS2-----A----</AM>
+<AM lemma="Columbia-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj2220-001-p1s0W21-Ta">
@@ -227,7 +238,10 @@
 <LM>w#w-wsj2220-001-p1s0W21</LM>
 </w.rf>
 <form>Seafirst</form>
-<tag lemma="Seafirst" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Seafirst" src="auto">X@-------------</AM>
+<AM lemma="Seafirst-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj2220-001-p1s0W22-Ta">
 <src.rf>tagger-a</src.rf>
@@ -236,7 +250,7 @@
 </w.rf>
 <form>Center</form>
 <tag>
-<AM lemma="Center-77" src="auto">F%-------------</AM>
+<AM lemma="Center-77" src="auto" selected="1">F%-------------</AM>
 <AM lemma="centrum" src="auto" recommended="1">NNNP2-----A----</AM>
 <AM lemma="center-77_,t" src="auto">F%-------------</AM>
 </tag>
@@ -334,7 +348,15 @@
 <LM>w#w-wsj2220-001-p1s1W3</LM>
 </w.rf>
 <form>76patrové</form>
-<tag lemma="76patrové" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="76patrové" src="auto">X@-------------</AM>
+<AM lemma="76patrový" src="manual" selected="1">AAFS2----1A----</AM>
+</tag>
+<comment>
+<LM type="Other">
+<text>špatná tokenizace</text>
+</LM>
+</comment>
 </m>
 <m id="m-wsj2220-001-p1s1W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -496,7 +518,10 @@
 <LM>w#w-wsj2220-001-p1s1W15</LM>
 </w.rf>
 <form>Seafirst</form>
-<tag lemma="Seafirst" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Seafirst" src="auto">X@-------------</AM>
+<AM lemma="Seafirst_;K" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj2220-001-p1s1W16-Ta">
 <src.rf>tagger-a</src.rf>
@@ -573,7 +598,10 @@
 <LM>w#w-wsj2220-001-p1s1W20</LM>
 </w.rf>
 <form>BankAmerica</form>
-<tag lemma="BankAmerica" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="BankAmerica" src="auto">X@-------------</AM>
+<AM lemma="BankAmerica-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj2220-001-p1s1W21-Ta">
 <src.rf>tagger-a</src.rf>
@@ -581,7 +609,10 @@
 <LM>w#w-wsj2220-001-p1s1W21</LM>
 </w.rf>
 <form>Corp</form>
-<tag lemma="corp-77_:B" src="auto" recommended="1">F%-------------</tag>
+<tag>
+<AM lemma="corp-77_:B" src="auto" recommended="1">F%-------------</AM>
+<AM lemma="Corp-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj2220-001-p1s1W22-Ta">
 <src.rf>tagger-a</src.rf>

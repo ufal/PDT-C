@@ -94,6 +94,7 @@
 <AM lemma="on-1" src="auto">P5FS4--3------6</AM>
 <AM lemma="on-1" src="auto">P5FS6--3-------</AM>
 <AM lemma="on-1" src="auto">P5FS7--3-------</AM>
+<AM lemma="ní_,i_(12%-ní)" src="manual" selected="1">AAIS4----1A----</AM>
 </tag>
 </m>
 <m id="m-wsj0334-001-p1s0W11-Ta">
@@ -254,7 +255,7 @@
 <form>zlepšujícím</form>
 <tag>
 <AM lemma="zlepšující_^(*5ovat)" src="auto" recommended="1">AGFP3-----A----</AM>
-<AM lemma="zlepšující_^(*5ovat)" src="auto">AGIP3-----A----</AM>
+<AM lemma="zlepšující_^(*5ovat)" src="auto" selected="1">AGIP3-----A----</AM>
 <AM lemma="zlepšující_^(*5ovat)" src="auto">AGIS6-----A----</AM>
 <AM lemma="zlepšující_^(*5ovat)" src="auto">AGIS7-----A----</AM>
 <AM lemma="zlepšující_^(*5ovat)" src="auto">AGMP3-----A----</AM>
@@ -447,7 +448,7 @@
 <AM lemma="ukončený_^(*3it)" src="auto">AAFP2----1A----</AM>
 <AM lemma="ukončený_^(*3it)" src="auto">AAFP6----1A----</AM>
 <AM lemma="ukončený_^(*3it)" src="auto" recommended="1">AAIP2----1A----</AM>
-<AM lemma="ukončený_^(*3it)" src="auto">AAIP6----1A----</AM>
+<AM lemma="ukončený_^(*3it)" src="auto" selected="1">AAIP6----1A----</AM>
 <AM lemma="ukončený_^(*3it)" src="auto">AAMP2----1A----</AM>
 <AM lemma="ukončený_^(*3it)" src="auto">AAMP6----1A----</AM>
 <AM lemma="ukončený_^(*3it)" src="auto">AANP2----1A----</AM>
@@ -510,7 +511,7 @@
 </w.rf>
 <form>zisk</form>
 <tag>
-<AM lemma="zisk" src="auto">NNIS1-----A----</AM>
+<AM lemma="zisk" src="auto" selected="1">NNIS1-----A----</AM>
 <AM lemma="zisk" src="auto" recommended="1">NNIS4-----A----</AM>
 </tag>
 </m>
@@ -544,7 +545,7 @@
 <form>britského</form>
 <tag>
 <AM lemma="britský" src="auto">AAIS2----1A----</AM>
-<AM lemma="britský" src="auto">AAMS2----1A----</AM>
+<AM lemma="britský" src="auto" selected="1">AAMS2----1A----</AM>
 <AM lemma="britský" src="auto">AAMS4----1A----</AM>
 <AM lemma="britský" src="auto" recommended="1">AANS2----1A----</AM>
 </tag>
@@ -557,7 +558,7 @@
 <form>oděvního</form>
 <tag>
 <AM lemma="oděvní" src="auto">AAIS2----1A----</AM>
-<AM lemma="oděvní" src="auto">AAMS2----1A----</AM>
+<AM lemma="oděvní" src="auto" selected="1">AAMS2----1A----</AM>
 <AM lemma="oděvní" src="auto">AAMS4----1A----</AM>
 <AM lemma="oděvní" src="auto" recommended="1">AANS2----1A----</AM>
 </tag>
@@ -584,7 +585,7 @@
 <form>potravinářského</form>
 <tag>
 <AM lemma="potravinářský" src="auto">AAIS2----1A----</AM>
-<AM lemma="potravinářský" src="auto">AAMS2----1A----</AM>
+<AM lemma="potravinářský" src="auto" selected="1">AAMS2----1A----</AM>
 <AM lemma="potravinářský" src="auto" recommended="1">AAMS4----1A----</AM>
 <AM lemma="potravinářský" src="auto">AANS2----1A----</AM>
 </tag>
@@ -596,7 +597,7 @@
 </w.rf>
 <form>maloobchodníka</form>
 <tag>
-<AM lemma="maloobchodník" src="auto">NNMS2-----A----</AM>
+<AM lemma="maloobchodník" src="auto" selected="1">NNMS2-----A----</AM>
 <AM lemma="maloobchodník" src="auto" recommended="1">NNMS4-----A----</AM>
 </tag>
 </m>
@@ -787,7 +788,7 @@
 <form>předpovědi</form>
 <tag>
 <AM lemma="předpověď" src="auto" recommended="1">NNFP1-----A----</AM>
-<AM lemma="předpověď" src="auto">NNFP4-----A----</AM>
+<AM lemma="předpověď" src="auto" selected="1">NNFP4-----A----</AM>
 <AM lemma="předpověď" src="auto">NNFP5-----A----</AM>
 <AM lemma="předpověď" src="auto">NNFS2-----A----</AM>
 <AM lemma="předpověď" src="auto">NNFS3-----A----</AM>
@@ -818,7 +819,7 @@
 </w.rf>
 <form>které</form>
 <tag>
-<AM lemma="který" src="auto">P4FP1----------</AM>
+<AM lemma="který" src="auto" selected="1">P4FP1----------</AM>
 <AM lemma="který" src="auto">P4FP4----------</AM>
 <AM lemma="který" src="auto">P4FS2----------</AM>
 <AM lemma="který" src="auto">P4FS3----------</AM>
@@ -1699,7 +1700,7 @@
 <AM lemma="pence" src="auto" recommended="1">NNFP4-----A----</AM>
 <AM lemma="pence" src="auto">NNFP5-----A----</AM>
 <AM lemma="pence" src="auto">NNFS1-----A----</AM>
-<AM lemma="pence" src="auto">NNFS2-----A----</AM>
+<AM lemma="pence" src="auto" selected="1">NNFS2-----A----</AM>
 <AM lemma="pence" src="auto">NNFS5-----A----</AM>
 </tag>
 </m>
@@ -2573,7 +2574,10 @@
 <LM>w#w-wsj0334-001-p1s8W9</LM>
 </w.rf>
 <form>loni</form>
-<tag lemma="vloni_,s_^(^DD**vloni)" src="auto" recommended="1">Db-------------</tag>
+<tag>
+<AM lemma="vloni_,s_^(^DD**vloni)" src="auto" recommended="1">Db-------------</AM>
+<AM lemma="loni_,s_^(^DD**vloni)" src="manual" selected="1">Db-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0334-001-p1s8W10-Ta">
 <src.rf>tagger-a</src.rf>

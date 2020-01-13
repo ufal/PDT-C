@@ -27,7 +27,10 @@
 <LM>w#w-wsj0264-001-p1s0W2</LM>
 </w.rf>
 <form>Fibreboard</form>
-<tag lemma="Fibreboard" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Fibreboard" src="auto">X@-------------</AM>
+<AM lemma="Fibreboard-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0264-001-p1s0W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -35,7 +38,10 @@
 <LM>w#w-wsj0264-001-p1s0W3</LM>
 </w.rf>
 <form>Corp</form>
-<tag lemma="corp-77_:B" src="auto" recommended="1">F%-------------</tag>
+<tag>
+<AM lemma="corp-77_:B" src="auto" recommended="1">F%-------------</AM>
+<AM lemma="Corp-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0264-001-p1s0W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -206,7 +212,10 @@
 <LM>w#w-wsj0264-001-p1s0W17</LM>
 </w.rf>
 <form>Truckee</form>
-<tag lemma="Truckee" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Truckee" src="auto">X@-------------</AM>
+<AM lemma="Truckee_;G" src="manual" selected="1">NNNXX-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj0264-001-p1s0W18-Ta">
 <src.rf>tagger-a</src.rf>
@@ -263,7 +272,7 @@
 <AM lemma="společnost_^(*3ý)" src="auto">NNFP4-----A----</AM>
 <AM lemma="společnost_^(*3ý)" src="auto">NNFP5-----A----</AM>
 <AM lemma="společnost_^(*3ý)" src="auto" recommended="1">NNFS2-----A----</AM>
-<AM lemma="společnost_^(*3ý)" src="auto">NNFS3-----A----</AM>
+<AM lemma="společnost_^(*3ý)" src="auto" selected="1">NNFS3-----A----</AM>
 <AM lemma="společnost_^(*3ý)" src="auto">NNFS5-----A----</AM>
 <AM lemma="společnost_^(*3ý)" src="auto">NNFS6-----A----</AM>
 </tag>
@@ -336,6 +345,7 @@
 <tag>
 <AM lemma="Sierra_;G_;R" src="auto" recommended="1">NNFS1-----A----</AM>
 <AM lemma="sierra_;R_^(vozidlo)" src="auto">NNFS1-----A----</AM>
+<AM lemma="Sierra-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj0264-001-p1s0W27-Ta">
@@ -347,6 +357,7 @@
 <tag>
 <AM lemma="Pacifik_;G_,t" src="auto">NNIS1-----A---1</AM>
 <AM lemma="Pacifik_;G_,t" src="auto" recommended="1">NNIS4-----A---1</AM>
+<AM lemma="Pacific-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj0264-001-p1s0W28-Ta">
@@ -355,7 +366,10 @@
 <LM>w#w-wsj0264-001-p1s0W28</LM>
 </w.rf>
 <form>Industries</form>
-<tag lemma="Industries" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Industries" src="auto">X@-------------</AM>
+<AM lemma="Industries-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0264-001-p1s0W29-Ta">
 <src.rf>tagger-a</src.rf>
@@ -363,7 +377,10 @@
 <LM>w#w-wsj0264-001-p1s0W29</LM>
 </w.rf>
 <form>Corp</form>
-<tag lemma="corp-77_:B" src="auto" recommended="1">F%-------------</tag>
+<tag>
+<AM lemma="corp-77_:B" src="auto" recommended="1">F%-------------</AM>
+<AM lemma="Corp-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0264-001-p1s0W30-Ta">
 <src.rf>tagger-a</src.rf>
@@ -391,7 +408,10 @@
 <LM>w#w-wsj0264-001-p1s0W32</LM>
 </w.rf>
 <form>Arcaty</form>
-<tag lemma="Arcaty" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Arcaty" src="auto">X@-------------</AM>
+<AM lemma="Arcata_;G" src="manual" selected="1">NNFS2-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj0264-001-p1s0W33-Ta">
 <src.rf>tagger-a</src.rf>

@@ -99,7 +99,11 @@
 <LM>w#w-wsj0752-001-p1s0W5</LM>
 </w.rf>
 <form>AEP</form>
-<tag lemma="AEP" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="AEP" src="auto">X@-------------</AM>
+<AM lemma="AEP-77" src="manual">F%-------------</AM>
+<AM lemma="AEP-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj0752-001-p1s0W6-Ta">
 <src.rf>tagger-a</src.rf>
@@ -107,7 +111,10 @@
 <LM>w#w-wsj0752-001-p1s0W6</LM>
 </w.rf>
 <form>INDUSTRIES</form>
-<tag lemma="INDUSTRIES" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="INDUSTRIES" src="auto">X@-------------</AM>
+<AM lemma="INDUSTRIES-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0752-001-p1s0W7-Ta">
 <src.rf>tagger-a</src.rf>
@@ -118,6 +125,7 @@
 <tag>
 <AM lemma="Inc-77_:B" src="auto" recommended="1">F%-------------</AM>
 <AM lemma="inc-77_:B" src="auto">F%-------------</AM>
+<AM lemma="Inc-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj0752-001-p1s0W8-Ta">
@@ -374,7 +382,7 @@
 <form>listopadu</form>
 <tag>
 <AM lemma="listopad" src="auto" recommended="1">NNIS2-----A----</AM>
-<AM lemma="listopad" src="auto">NNIS3-----A----</AM>
+<AM lemma="listopad" src="auto" selected="1">NNIS3-----A----</AM>
 <AM lemma="listopad" src="auto">NNIS6-----A----</AM>
 </tag>
 </m>
@@ -442,7 +450,10 @@
 <LM>w#w-wsj0752-001-p1s1W6</LM>
 </w.rf>
 <form>Moonachie</form>
-<tag lemma="Moonachie" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Moonachie" src="auto">X@-------------</AM>
+<AM lemma="Moonachie_;K" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj0752-001-p1s1W7-Ta">
 <src.rf>tagger-a</src.rf>
@@ -473,7 +484,10 @@
 <LM>w#w-wsj0752-001-p1s1W9</LM>
 </w.rf>
 <form>Jersey</form>
-<tag lemma="Jersey_;G" src="auto" recommended="1">NNNXX-----A----</tag>
+<tag>
+<AM lemma="Jersey_;G" src="auto" recommended="1">NNNXX-----A----</AM>
+<AM lemma="Jersey-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0752-001-p1s1W10-Ta">
 <src.rf>tagger-a</src.rf>
@@ -934,7 +948,10 @@
 <LM>w#w-wsj0752-001-p1s3W9</LM>
 </w.rf>
 <form>AEP</form>
-<tag lemma="AEP" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="AEP" src="auto">X@-------------</AM>
+<AM lemma="AEP-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj0752-001-p1s3W10-Ta">
 <src.rf>tagger-a</src.rf>
@@ -944,7 +961,7 @@
 <form>na</form>
 <tag>
 <AM lemma="na-1" src="auto" recommended="1">RR--4----------</AM>
-<AM lemma="na-1" src="auto">RR--6----------</AM>
+<AM lemma="na-1" src="auto" selected="1">RR--6----------</AM>
 <AM lemma="na-2" src="auto">II-------------</AM>
 </tag>
 </m>

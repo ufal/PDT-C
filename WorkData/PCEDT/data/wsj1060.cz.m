@@ -32,6 +32,7 @@
 <AM lemma="Concord_;R" src="auto">NNIS4-----A----</AM>
 <AM lemma="concord_^(letadlo)" src="auto">NNIS1-----A----</AM>
 <AM lemma="concord_^(letadlo)" src="auto">NNIS4-----A----</AM>
+<AM lemma="Concord-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1060-001-p1s0W3-Ta">
@@ -40,7 +41,10 @@
 <LM>w#w-wsj1060-001-p1s0W3</LM>
 </w.rf>
 <form>Camera</form>
-<tag lemma="Camera" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Camera" src="auto">X@-------------</AM>
+<AM lemma="Camera-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1060-001-p1s0W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -48,7 +52,10 @@
 <LM>w#w-wsj1060-001-p1s0W4</LM>
 </w.rf>
 <form>Corp</form>
-<tag lemma="corp-77_:B" src="auto" recommended="1">F%-------------</tag>
+<tag>
+<AM lemma="corp-77_:B" src="auto" recommended="1">F%-------------</AM>
+<AM lemma="Corp-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1060-001-p1s0W5-Ta">
 <src.rf>tagger-a</src.rf>
@@ -105,6 +112,7 @@
 <AM lemma="Petra-1_;Y" src="auto" recommended="1">NNFP2-----A----</AM>
 <AM lemma="Petra-2_;G" src="auto">NNFP2-----A----</AM>
 <AM lemma="petra-1_;R" src="auto">NNFP2-----A----</AM>
+<AM lemma="Peter-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1060-001-p1s0W10-Ta">
@@ -113,7 +121,10 @@
 <LM>w#w-wsj1060-001-p1s0W10</LM>
 </w.rf>
 <form>Bauser</form>
-<tag lemma="Bauser" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Bauser" src="auto">X@-------------</AM>
+<AM lemma="Bauser-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1060-001-p1s0W11-Ta">
 <src.rf>tagger-a</src.rf>
@@ -145,7 +156,7 @@
 <form>m</form>
 <tag>
 <AM lemma="m-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
-<AM lemma="m-88_:B" src="auto">NNXXX-----A----</AM>
+<AM lemma="m-88_:B" src="auto" selected="1">NNXXX-----A----</AM>
 <AM lemma="metr" src="auto" recommended="1">NNIXX-----A---8</AM>
 <AM lemma="metrový" src="auto">AAXXX----1A---8</AM>
 <AM lemma="minuta_:B" src="auto">NNFXX-----A---8</AM>
@@ -220,7 +231,7 @@
 <form>západoněmeckého</form>
 <tag>
 <AM lemma="západoněmecký" src="auto">AAIS2----1A----</AM>
-<AM lemma="západoněmecký" src="auto">AAMS2----1A----</AM>
+<AM lemma="západoněmecký" src="auto" selected="1">AAMS2----1A----</AM>
 <AM lemma="západoněmecký" src="auto" recommended="1">AAMS4----1A----</AM>
 <AM lemma="západoněmecký" src="auto">AANS2----1A----</AM>
 </tag>
@@ -232,7 +243,7 @@
 </w.rf>
 <form>distributora</form>
 <tag>
-<AM lemma="distributor" src="auto">NNMS2-----A----</AM>
+<AM lemma="distributor" src="auto" selected="1">NNMS2-----A----</AM>
 <AM lemma="distributor" src="auto" recommended="1">NNMS4-----A----</AM>
 </tag>
 </m>
@@ -335,6 +346,7 @@
 <AM lemma="Concord_;R" src="auto">NNIS4-----A----</AM>
 <AM lemma="concord_^(letadlo)" src="auto">NNIS1-----A----</AM>
 <AM lemma="concord_^(letadlo)" src="auto">NNIS4-----A----</AM>
+<AM lemma="Concord_;G_;K_;R" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1060-001-p1s2W3-Ta">

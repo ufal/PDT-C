@@ -74,7 +74,10 @@
 <LM>w#w-wsj0711-001-p1s0W6</LM>
 </w.rf>
 <form>Pechiney</form>
-<tag lemma="Pechiney" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Pechiney" src="auto">X@-------------</AM>
+<AM lemma="Pechiney-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0711-001-p1s0W7-Ta">
 <src.rf>tagger-a</src.rf>
@@ -288,7 +291,10 @@
 <LM>w#w-wsj0711-001-p1s0W23</LM>
 </w.rf>
 <form>Groupement</form>
-<tag lemma="Groupement" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Groupement" src="auto">X@-------------</AM>
+<AM lemma="Groupement-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0711-001-p1s0W24-Ta">
 <src.rf>tagger-a</src.rf>
@@ -296,7 +302,10 @@
 <LM>w#w-wsj0711-001-p1s0W24</LM>
 </w.rf>
 <form>Foncier</form>
-<tag lemma="Foncier" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Foncier" src="auto">X@-------------</AM>
+<AM lemma="Foncier-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0711-001-p1s0W25-Ta">
 <src.rf>tagger-a</src.rf>
@@ -304,7 +313,10 @@
 <LM>w#w-wsj0711-001-p1s0W25</LM>
 </w.rf>
 <form>Francais</form>
-<tag lemma="Francais" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Francais" src="auto">X@-------------</AM>
+<AM lemma="Francais-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0711-001-p1s0W26-Ta">
 <src.rf>tagger-a</src.rf>
@@ -326,7 +338,10 @@
 <LM>w#w-wsj0711-001-p1s0W27</LM>
 </w.rf>
 <form>Nouveaux</form>
-<tag lemma="Nouveaux" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Nouveaux" src="auto">X@-------------</AM>
+<AM lemma="Nouveaux-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0711-001-p1s0W28-Ta">
 <src.rf>tagger-a</src.rf>
@@ -334,7 +349,10 @@
 <LM>w#w-wsj0711-001-p1s0W28</LM>
 </w.rf>
 <form>Constructeurs</form>
-<tag lemma="Constructeurs" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Constructeurs" src="auto">X@-------------</AM>
+<AM lemma="Constructeurs-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0711-001-p1s0W29-Ta">
 <src.rf>tagger-a</src.rf>
@@ -436,7 +454,7 @@
 <form>Tento</form>
 <tag>
 <AM lemma="tento" src="auto" recommended="1">PDIS4----------</AM>
-<AM lemma="tento" src="auto">PDYS1----------</AM>
+<AM lemma="tento" src="auto" selected="1">PDYS1----------</AM>
 </tag>
 </m>
 <m id="m-wsj0711-001-p1s1W2-Ta">
@@ -448,7 +466,7 @@
 <tag>
 <AM lemma="prodat" src="auto">Vi-S---2--A-P--</AM>
 <AM lemma="prodat" src="auto">Vi-S---3--A-P-4</AM>
-<AM lemma="prodej_^(akt_prodeje_zboží)" src="auto">NNIS1-----A----</AM>
+<AM lemma="prodej_^(akt_prodeje_zboží)" src="auto" selected="1">NNIS1-----A----</AM>
 <AM lemma="prodej_^(akt_prodeje_zboží)" src="auto" recommended="1">NNIS4-----A----</AM>
 </tag>
 </m>
@@ -497,7 +515,10 @@
 <LM>w#w-wsj0711-001-p1s1W7</LM>
 </w.rf>
 <form>Pechiney</form>
-<tag lemma="Pechiney" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Pechiney" src="auto">X@-------------</AM>
+<AM lemma="Pechiney_;K" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj0711-001-p1s1W8-Ta">
 <src.rf>tagger-a</src.rf>
@@ -517,7 +538,7 @@
 <AM lemma="jenž_^(kterou_[ve_vedl.větě])" src="auto">PJFS4----------</AM>
 <AM lemma="jenž_^(kteří_[ve_vedl.větě])" src="auto">PJMP1----------</AM>
 <AM lemma="již-1" src="auto" recommended="1">Db-------------</AM>
-<AM lemma="již-2" src="auto">TT-------------</AM>
+<AM lemma="již-2" src="auto" selected="1">TT-------------</AM>
 </tag>
 </m>
 <m id="m-wsj0711-001-p1s1W10-Ta">

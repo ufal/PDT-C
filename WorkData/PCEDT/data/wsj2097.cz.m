@@ -102,7 +102,10 @@
 <LM>w#w-wsj2097-001-p1s0W6</LM>
 </w.rf>
 <form>Hachette</form>
-<tag lemma="Hachette" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Hachette" src="auto">X@-------------</AM>
+<AM lemma="Hachette-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj2097-001-p1s0W7-Ta">
 <src.rf>tagger-a</src.rf>
@@ -380,7 +383,7 @@
 <tag>
 <AM lemma="loňský" src="auto" recommended="1">AAFP2----1A----</AM>
 <AM lemma="loňský" src="auto">AAFP6----1A----</AM>
-<AM lemma="loňský" src="auto">AAIP2----1A----</AM>
+<AM lemma="loňský" src="auto" selected="1">AAIP2----1A----</AM>
 <AM lemma="loňský" src="auto">AAIP6----1A----</AM>
 <AM lemma="loňský" src="auto">AAMP2----1A----</AM>
 <AM lemma="loňský" src="auto">AAMP6----1A----</AM>
@@ -913,7 +916,7 @@
 <form>i</form>
 <tag>
 <AM lemma="i-1" src="auto" recommended="1">J^-------------</AM>
-<AM lemma="i-2" src="auto">TT-------------</AM>
+<AM lemma="i-2" src="auto" selected="1">TT-------------</AM>
 <AM lemma="i-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
 <AM lemma="i-88_:B" src="auto">NNXXX-----A----</AM>
 </tag>
@@ -1036,7 +1039,10 @@
 <LM>w#w-wsj2097-001-p1s2W4</LM>
 </w.rf>
 <form>Hachette</form>
-<tag lemma="Hachette" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Hachette" src="auto">X@-------------</AM>
+<AM lemma="Hachette-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj2097-001-p1s2W5-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1508,7 +1514,10 @@
 <LM>w#w-wsj2097-001-p1s3W7</LM>
 </w.rf>
 <form>Hachette</form>
-<tag lemma="Hachette" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Hachette" src="auto">X@-------------</AM>
+<AM lemma="Hachette-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj2097-001-p1s3W8-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1790,7 +1799,10 @@
 <LM>w#w-wsj2097-001-p1s3W30</LM>
 </w.rf>
 <form>Hachette</form>
-<tag lemma="Hachette" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Hachette" src="auto">X@-------------</AM>
+<AM lemma="Hachette-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj2097-001-p1s3W31-Ta">
 <src.rf>tagger-a</src.rf>

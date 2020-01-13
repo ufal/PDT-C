@@ -535,6 +535,11 @@
 </w.rf>
 <form>rokü</form>
 <tag lemma="rokü" src="auto">X@-------------</tag>
+<comment>
+<LM type="New Form">
+<text>roku</text>
+</LM>
+</comment>
 </m>
 <m id="m-wsj1406-001-p1s1W9-Ta">
 <src.rf>tagger-a</src.rf>

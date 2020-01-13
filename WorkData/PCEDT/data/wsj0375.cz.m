@@ -31,6 +31,7 @@
 <AM lemma="Deere_;S" src="auto">NNMS1-----A----</AM>
 <AM lemma="Deere_;S" src="auto">NNMS5-----A----</AM>
 <AM lemma="Deere_;S" src="auto" recommended="1">NNMXX-----A----</AM>
+<AM lemma="Deere-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj0375-001-p1s0W3-Ta">
@@ -55,6 +56,7 @@
 <AM lemma="co-4_^(který:_př.:_o_těch,_co_odešli/co_je_znal)" src="auto">P4XXX----------</AM>
 <AM lemma="co-5_^(př._co_nejméně,_co_nevidět,_co_chvíli,_co_do_počtu,_atd.)" src="auto">Db-------------</AM>
 <AM lemma="co-77_:B" src="auto">F%-------------</AM>
+<AM lemma="Co-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj0375-001-p1s0W5-Ta">
@@ -158,7 +160,10 @@
 <LM>w#w-wsj0375-001-p1s0W13</LM>
 </w.rf>
 <form>Horiconu</form>
-<tag lemma="Horiconu" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Horiconu" src="auto">X@-------------</AM>
+<AM lemma="Horicon_;G" src="manual" selected="1">NNIS6-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj0375-001-p1s0W14-Ta">
 <src.rf>tagger-a</src.rf>
@@ -681,7 +686,10 @@
 <LM>w#w-wsj0375-001-p1s1W20</LM>
 </w.rf>
 <form>John</form>
-<tag lemma="John_;Y" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="John_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="John-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0375-001-p1s1W21-Ta">
 <src.rf>tagger-a</src.rf>
@@ -693,6 +701,7 @@
 <AM lemma="Deere_;S" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Deere_;S" src="auto">NNMS5-----A----</AM>
 <AM lemma="Deere_;S" src="auto">NNMXX-----A----</AM>
+<AM lemma="Deere-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj0375-001-p1s1W22-Ta">
@@ -701,7 +710,10 @@
 <LM>w#w-wsj0375-001-p1s1W22</LM>
 </w.rf>
 <form>Horicon</form>
-<tag lemma="Horicon" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Horicon" src="auto">X@-------------</AM>
+<AM lemma="Horicon-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0375-001-p1s1W23-Ta">
 <src.rf>tagger-a</src.rf>
@@ -709,7 +721,10 @@
 <LM>w#w-wsj0375-001-p1s1W23</LM>
 </w.rf>
 <form>Works</form>
-<tag lemma="Works" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Works" src="auto">X@-------------</AM>
+<AM lemma="Works-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0375-001-p1s1W24-Ta">
 <src.rf>tagger-a</src.rf>
@@ -912,7 +927,7 @@
 <form>zem</form>
 <tag>
 <AM lemma="země" src="auto" recommended="1">NNFS1-----A---1</AM>
-<AM lemma="země" src="auto">NNFS4-----A---1</AM>
+<AM lemma="země" src="auto" selected="1">NNFS4-----A---1</AM>
 <AM lemma="zemědělský" src="auto">AAXXX----1A---8</AM>
 </tag>
 </m>

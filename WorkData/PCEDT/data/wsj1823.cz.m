@@ -46,6 +46,7 @@
 <tag>
 <AM lemma="Norwood_;G" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Norwood_;G" src="auto">NNIS4-----A----</AM>
+<AM lemma="Norwood-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1823-001-p1s0W4-Ta">
@@ -54,7 +55,10 @@
 <LM>w#w-wsj1823-001-p1s0W4</LM>
 </w.rf>
 <form>Securities</form>
-<tag lemma="Securities" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Securities" src="auto">X@-------------</AM>
+<AM lemma="Securities-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1823-001-p1s0W5-Ta">
 <src.rf>tagger-a</src.rf>
@@ -483,7 +487,7 @@
 <tag>
 <AM lemma="stoupající_^(*4t)" src="auto">AGFP2-----A----</AM>
 <AM lemma="stoupající_^(*4t)" src="auto">AGFP6-----A----</AM>
-<AM lemma="stoupající_^(*4t)" src="auto">AGIP2-----A----</AM>
+<AM lemma="stoupající_^(*4t)" src="auto" selected="1">AGIP2-----A----</AM>
 <AM lemma="stoupající_^(*4t)" src="auto">AGIP6-----A----</AM>
 <AM lemma="stoupající_^(*4t)" src="auto" recommended="1">AGMP2-----A----</AM>
 <AM lemma="stoupající_^(*4t)" src="auto">AGMP6-----A----</AM>
@@ -511,7 +515,7 @@
 <tag>
 <AM lemma="klesající_^(*4t)" src="auto">AGFP2-----A----</AM>
 <AM lemma="klesající_^(*4t)" src="auto">AGFP6-----A----</AM>
-<AM lemma="klesající_^(*4t)" src="auto">AGIP2-----A----</AM>
+<AM lemma="klesající_^(*4t)" src="auto" selected="1">AGIP2-----A----</AM>
 <AM lemma="klesající_^(*4t)" src="auto">AGIP6-----A----</AM>
 <AM lemma="klesající_^(*4t)" src="auto" recommended="1">AGMP2-----A----</AM>
 <AM lemma="klesající_^(*4t)" src="auto">AGMP6-----A----</AM>
@@ -551,7 +555,7 @@
 <AM lemma="ten" src="auto" recommended="1">PDNS1----------</AM>
 <AM lemma="ten" src="auto">PDNS4----------</AM>
 <AM lemma="to-1_^(tehdy;to_jsem_byla_ještě_malá)" src="auto">PDXXX----------</AM>
-<AM lemma="to-9_^(být_s_to)" src="auto">TT-------------</AM>
+<AM lemma="to-9_^(být_s_to)" src="auto" selected="1">TT-------------</AM>
 <AM lemma="to-77" src="auto">F%-------------</AM>
 </tag>
 </m>
@@ -638,6 +642,7 @@
 <tag>
 <AM lemma="Norwood_;G" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Norwood_;G" src="auto">NNIS4-----A----</AM>
+<AM lemma="Norwood_;G_;K" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1823-001-p1s2W3-Ta">

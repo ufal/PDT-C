@@ -27,7 +27,10 @@
 <LM>w#w-wsj1989-001-p1s0W2</LM>
 </w.rf>
 <form>Loral</form>
-<tag lemma="Loral" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Loral" src="auto">X@-------------</AM>
+<AM lemma="Loral-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1989-001-p1s0W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -35,7 +38,10 @@
 <LM>w#w-wsj1989-001-p1s0W3</LM>
 </w.rf>
 <form>Corp</form>
-<tag lemma="corp-77_:B" src="auto" recommended="1">F%-------------</tag>
+<tag>
+<AM lemma="corp-77_:B" src="auto" recommended="1">F%-------------</AM>
+<AM lemma="Corp-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1989-001-p1s0W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -256,7 +262,7 @@
 <AM lemma="ten" src="auto">PDNS1----------</AM>
 <AM lemma="ten" src="auto" recommended="1">PDNS4----------</AM>
 <AM lemma="to-1_^(tehdy;to_jsem_byla_ještě_malá)" src="auto">PDXXX----------</AM>
-<AM lemma="to-9_^(být_s_to)" src="auto">TT-------------</AM>
+<AM lemma="to-9_^(být_s_to)" src="auto" selected="1">TT-------------</AM>
 <AM lemma="to-77" src="auto">F%-------------</AM>
 </tag>
 </m>
@@ -337,7 +343,10 @@
 <LM>w#w-wsj1989-001-p1s1W2</LM>
 </w.rf>
 <form>Loral</form>
-<tag lemma="Loral" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Loral" src="auto">X@-------------</AM>
+<AM lemma="Loral_;K" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj1989-001-p1s1W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -367,7 +376,7 @@
 <form>systém</form>
 <tag>
 <AM lemma="systém" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="systém" src="auto">NNIS4-----A----</AM>
+<AM lemma="systém" src="auto" selected="1">NNIS4-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1989-001-p1s1W6-Ta">
@@ -393,7 +402,10 @@
 <LM>w#w-wsj1989-001-p1s1W7</LM>
 </w.rf>
 <form>protiradiotechnických</form>
-<tag lemma="protiradiotechnických" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="protiradiotechnických" src="auto">X@-------------</AM>
+<AM lemma="protiradiotechnický" src="manual" selected="1">AANP2----1A----</AM>
+</tag>
 </m>
 <m id="m-wsj1989-001-p1s1W8-Ta">
 <src.rf>tagger-a</src.rf>
@@ -648,6 +660,11 @@
 <AM lemma="radiový" src="auto">AANS4----1A---6</AM>
 <AM lemma="radiový" src="auto">AANS5----1A---6</AM>
 </tag>
+<comment>
+<LM type="New Form">
+<text>rádiový</text>
+</LM>
+</comment>
 </m>
 <m id="m-wsj1989-001-p1s2W12-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1015,7 +1032,10 @@
 <LM>w#w-wsj1989-001-p1s4W2</LM>
 </w.rf>
 <form>Loral</form>
-<tag lemma="Loral" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Loral" src="auto">X@-------------</AM>
+<AM lemma="Loral_;K" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj1989-001-p1s4W3-Ta">
 <src.rf>tagger-a</src.rf>

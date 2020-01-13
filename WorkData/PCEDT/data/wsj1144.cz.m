@@ -27,7 +27,10 @@
 <LM>w#w-wsj1144-001-p1s0W2</LM>
 </w.rf>
 <form>Manville</form>
-<tag lemma="Manville" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Manville" src="auto">X@-------------</AM>
+<AM lemma="Manville-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1144-001-p1s0W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -35,7 +38,10 @@
 <LM>w#w-wsj1144-001-p1s0W3</LM>
 </w.rf>
 <form>Corp</form>
-<tag lemma="corp-77_:B" src="auto" recommended="1">F%-------------</tag>
+<tag>
+<AM lemma="corp-77_:B" src="auto" recommended="1">F%-------------</AM>
+<AM lemma="Corp-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1144-001-p1s0W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -232,7 +238,10 @@
 <LM>w#w-wsj1144-001-p1s0W21</LM>
 </w.rf>
 <form>Manville</form>
-<tag lemma="Manville" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Manville" src="auto">X@-------------</AM>
+<AM lemma="Manville-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1144-001-p1s0W22-Ta">
 <src.rf>tagger-a</src.rf>
@@ -240,7 +249,10 @@
 <LM>w#w-wsj1144-001-p1s0W22</LM>
 </w.rf>
 <form>Personal</form>
-<tag lemma="Personal" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Personal" src="auto">X@-------------</AM>
+<AM lemma="Personal-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1144-001-p1s0W23-Ta">
 <src.rf>tagger-a</src.rf>
@@ -248,7 +260,10 @@
 <LM>w#w-wsj1144-001-p1s0W23</LM>
 </w.rf>
 <form>Injury</form>
-<tag lemma="Injury" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Injury" src="auto">X@-------------</AM>
+<AM lemma="Injury-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1144-001-p1s0W24-Ta">
 <src.rf>tagger-a</src.rf>
@@ -259,6 +274,7 @@
 <tag>
 <AM lemma="settlement" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="settlement" src="auto">NNIS4-----A----</AM>
+<AM lemma="Settlement-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1144-001-p1s0W25-Ta">
@@ -270,6 +286,7 @@
 <tag>
 <AM lemma="trust" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="trust" src="auto">NNIS4-----A----</AM>
+<AM lemma="Trust-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1144-001-p1s0W26-Ta">
@@ -491,7 +508,10 @@
 <LM>w#w-wsj1144-001-p1s0W42</LM>
 </w.rf>
 <form>Manville</form>
-<tag lemma="Manville" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Manville" src="auto">X@-------------</AM>
+<AM lemma="Manville_;K" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj1144-001-p1s0W43-Ta">
 <src.rf>tagger-a</src.rf>
@@ -547,7 +567,10 @@
 <LM>w#w-wsj1144-001-p1s1W2</LM>
 </w.rf>
 <form>Manville</form>
-<tag lemma="Manville" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Manville" src="auto">X@-------------</AM>
+<AM lemma="Manville_;K" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj1144-001-p1s1W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -673,7 +696,7 @@
 <form>součást</form>
 <tag>
 <AM lemma="součást" src="auto" recommended="1">NNFS1-----A----</AM>
-<AM lemma="součást" src="auto">NNFS4-----A----</AM>
+<AM lemma="součást" src="auto" selected="1">NNFS4-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1144-001-p1s1W15-Ta">
@@ -804,7 +827,7 @@
 <form>akcie</form>
 <tag>
 <AM lemma="akcie" src="auto">NNFP1-----A----</AM>
-<AM lemma="akcie" src="auto">NNFP4-----A----</AM>
+<AM lemma="akcie" src="auto" selected="1">NNFP4-----A----</AM>
 <AM lemma="akcie" src="auto">NNFP5-----A----</AM>
 <AM lemma="akcie" src="auto" recommended="1">NNFS1-----A----</AM>
 <AM lemma="akcie" src="auto">NNFS2-----A----</AM>
@@ -909,7 +932,10 @@
 <LM>w#w-wsj1144-001-p1s3W2</LM>
 </w.rf>
 <form>Manville</form>
-<tag lemma="Manville" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Manville" src="auto">X@-------------</AM>
+<AM lemma="Manville_;K" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj1144-001-p1s3W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -940,7 +966,7 @@
 <AM lemma="mluvčí-2" src="auto">NNFP1-----A----</AM>
 <AM lemma="mluvčí-2" src="auto">NNFP4-----A----</AM>
 <AM lemma="mluvčí-2" src="auto">NNFP5-----A----</AM>
-<AM lemma="mluvčí-2" src="auto">NNFS1-----A----</AM>
+<AM lemma="mluvčí-2" src="auto" selected="1">NNFS1-----A----</AM>
 <AM lemma="mluvčí-2" src="auto">NNFS2-----A----</AM>
 <AM lemma="mluvčí-2" src="auto">NNFS3-----A----</AM>
 <AM lemma="mluvčí-2" src="auto">NNFS4-----A----</AM>
@@ -1326,7 +1352,7 @@
 <form>jak</form>
 <tag>
 <AM lemma="jak-1_;L_^(živočich)" src="auto">NNMS1-----A----</AM>
-<AM lemma="jak-2" src="auto">J,-------------</AM>
+<AM lemma="jak-2" src="auto" selected="1">J,-------------</AM>
 <AM lemma="jak-2" src="auto">J^-------------</AM>
 <AM lemma="jak-3" src="auto" recommended="1">Db-------------</AM>
 <AM lemma="jak-99_:B_;S" src="auto">NNXXX-----A----</AM>
@@ -1632,7 +1658,10 @@
 <LM>w#w-wsj1144-001-p1s6W11</LM>
 </w.rf>
 <form>Manville</form>
-<tag lemma="Manville" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Manville" src="auto">X@-------------</AM>
+<AM lemma="Manville_;K" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj1144-001-p1s6W12-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2143,7 +2172,10 @@
 <LM>w#w-wsj1144-001-p1s6W51</LM>
 </w.rf>
 <form>Manville</form>
-<tag lemma="Manville" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Manville" src="auto">X@-------------</AM>
+<AM lemma="Manville_;K" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj1144-001-p1s6W52-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2294,7 +2326,10 @@
 <LM>w#w-wsj1144-001-p1s7W11</LM>
 </w.rf>
 <form>Manville</form>
-<tag lemma="Manville" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Manville" src="auto">X@-------------</AM>
+<AM lemma="Manville_;K" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj1144-001-p1s7W12-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2461,7 +2496,10 @@
 <LM>w#w-wsj1144-001-p1s8W8</LM>
 </w.rf>
 <form>Manville</form>
-<tag lemma="Manville" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Manville" src="auto">X@-------------</AM>
+<AM lemma="Manville_;K" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj1144-001-p1s8W9-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2556,7 +2594,10 @@
 <LM>w#w-wsj1144-001-p1s8W17</LM>
 </w.rf>
 <form>Manville</form>
-<tag lemma="Manville" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Manville" src="auto">X@-------------</AM>
+<AM lemma="Manville_;K" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj1144-001-p1s8W18-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2871,7 +2912,10 @@
 <LM>w#w-wsj1144-001-p1s9W9</LM>
 </w.rf>
 <form>Manville</form>
-<tag lemma="Manville" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Manville" src="auto">X@-------------</AM>
+<AM lemma="Manville_;K" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj1144-001-p1s9W10-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2928,7 +2972,7 @@
 </w.rf>
 <form>trust</form>
 <tag>
-<AM lemma="trust" src="auto">NNIS1-----A----</AM>
+<AM lemma="trust" src="auto" selected="1">NNIS1-----A----</AM>
 <AM lemma="trust" src="auto" recommended="1">NNIS4-----A----</AM>
 </tag>
 </m>
@@ -2990,6 +3034,11 @@
 <AM lemma="27letý" src="auto">AAMS4----1A----</AM>
 <AM lemma="27letý" src="auto" recommended="1">AANS2----1A----</AM>
 </tag>
+<comment>
+<LM type="Other">
+<text>špatná tokenizace</text>
+</LM>
+</comment>
 </m>
 <m id="m-wsj1144-001-p1s9W21-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3111,7 +3160,7 @@
 <AM lemma="milion`1000000_,s_^(^DD**milión)" src="auto">NNIP1-----A----</AM>
 <AM lemma="milion`1000000_,s_^(^DD**milión)" src="auto" recommended="1">NNIP4-----A----</AM>
 <AM lemma="milion`1000000_,s_^(^DD**milión)" src="auto">NNIP5-----A----</AM>
-<AM lemma="milion`1000000_,s_^(^DD**milión)" src="auto">NNIP7-----A----</AM>
+<AM lemma="milion`1000000_,s_^(^DD**milión)" src="auto" selected="1">NNIP7-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1144-001-p1s10W8-Ta">
@@ -3768,7 +3817,10 @@
 <LM>w#w-wsj1144-001-p1s12W13</LM>
 </w.rf>
 <form>Manville</form>
-<tag lemma="Manville" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Manville" src="auto">X@-------------</AM>
+<AM lemma="Manville_;K" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj1144-001-p1s12W14-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3991,7 +4043,10 @@
 <LM>w#w-wsj1144-001-p1s13W2</LM>
 </w.rf>
 <form>Manville</form>
-<tag lemma="Manville" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Manville" src="auto">X@-------------</AM>
+<AM lemma="Manville_;K" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj1144-001-p1s13W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -4411,7 +4466,10 @@
 <LM>w#w-wsj1144-001-p1s14W3</LM>
 </w.rf>
 <form>Manville</form>
-<tag lemma="Manville" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Manville" src="auto">X@-------------</AM>
+<AM lemma="Manville_;K" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj1144-001-p1s14W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -4620,7 +4678,7 @@
 <form>vše</form>
 <tag>
 <AM lemma="všechen" src="auto" recommended="1">PLNS1---------1</AM>
-<AM lemma="všechen" src="auto">PLNS4---------1</AM>
+<AM lemma="všechen" src="auto" selected="1">PLNS4---------1</AM>
 <AM lemma="všechen" src="auto">PLNS5---------1</AM>
 </tag>
 </m>
@@ -4768,7 +4826,10 @@
 <LM>w#w-wsj1144-001-p1s16W2</LM>
 </w.rf>
 <form>Manville</form>
-<tag lemma="Manville" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Manville" src="auto">X@-------------</AM>
+<AM lemma="Manville_;K" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj1144-001-p1s16W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -4845,7 +4906,7 @@
 <form>trustu</form>
 <tag>
 <AM lemma="trust" src="auto" recommended="1">NNIS2-----A----</AM>
-<AM lemma="trust" src="auto">NNIS3-----A----</AM>
+<AM lemma="trust" src="auto" selected="1">NNIS3-----A----</AM>
 <AM lemma="trust" src="auto">NNIS6-----A----</AM>
 </tag>
 </m>
@@ -4958,7 +5019,10 @@
 <LM>w#w-wsj1144-001-p1s16W18</LM>
 </w.rf>
 <form>Manville</form>
-<tag lemma="Manville" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Manville" src="auto">X@-------------</AM>
+<AM lemma="Manville_;K" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj1144-001-p1s16W19-Ta">
 <src.rf>tagger-a</src.rf>

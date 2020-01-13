@@ -85,6 +85,7 @@
 <AM lemma="Bear_;K" src="auto">NNIS1-----A----</AM>
 <AM lemma="Bear_;K" src="auto">NNIS4-----A----</AM>
 <AM lemma="Bear_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Bear-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj2217-001-p1s0W5-Ta">
@@ -93,7 +94,10 @@
 <LM>w#w-wsj2217-001-p1s0W5</LM>
 </w.rf>
 <form>Stearns</form>
-<tag lemma="Stearns" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Stearns" src="auto">X@-------------</AM>
+<AM lemma="Stearns-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj2217-001-p1s0W6-Ta">
 <src.rf>tagger-a</src.rf>
@@ -112,6 +116,8 @@
 <AM lemma="Lawrence_;S" src="auto">NNMS4-----A---1</AM>
 <AM lemma="Lawrence_;S" src="auto">NNMS5-----A----</AM>
 <AM lemma="Lawrence_;S" src="auto">NNMXX-----A----</AM>
+<AM lemma="Lawrence-77" src="manual">F%-------------</AM>
+<AM lemma="Lawrence_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2217-001-p1s0W7-Ta">
@@ -120,7 +126,11 @@
 <LM>w#w-wsj2217-001-p1s0W7</LM>
 </w.rf>
 <form>Kudlow</form>
-<tag lemma="Kudlow" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Kudlow" src="auto">X@-------------</AM>
+<AM lemma="Kudlow-77" src="manual">F%-------------</AM>
+<AM lemma="Kudlow_;S" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj2217-001-p1s0W8-Ta">
 <src.rf>tagger-a</src.rf>
@@ -170,7 +180,10 @@
 <LM>w#w-wsj2217-001-p1s0W11</LM>
 </w.rf>
 <form>Global</form>
-<tag lemma="Global" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Global" src="auto">X@-------------</AM>
+<AM lemma="Global-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj2217-001-p1s0W12-Ta">
 <src.rf>tagger-a</src.rf>
@@ -178,7 +191,10 @@
 <LM>w#w-wsj2217-001-p1s0W12</LM>
 </w.rf>
 <form>Spectator</form>
-<tag lemma="Spectator" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Spectator" src="auto">X@-------------</AM>
+<AM lemma="Spectator-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj2217-001-p1s0W13-Ta">
 <src.rf>tagger-a</src.rf>
@@ -416,7 +432,7 @@
 </w.rf>
 <form>zřejmě</form>
 <tag>
-<AM lemma="zřejmě-2" src="auto">TT-------------</AM>
+<AM lemma="zřejmě-2" src="auto" selected="1">TT-------------</AM>
 <AM lemma="zřejmě_^(*1ý)" src="auto" recommended="1">Dg-------1A----</AM>
 </tag>
 </m>

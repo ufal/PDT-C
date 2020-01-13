@@ -1021,7 +1021,7 @@
 <form>Míra</form>
 <tag>
 <AM lemma="Míra-1_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="míra_^(měřítko,poměr)" src="auto">NNFS1-----A----</AM>
+<AM lemma="míra_^(měřítko,poměr)" src="auto" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1240-001-p1s3W10-Ta">

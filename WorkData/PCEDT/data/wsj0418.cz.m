@@ -24,7 +24,10 @@
 <LM>w#w-wsj0418-001-p1s0W2</LM>
 </w.rf>
 <form>Mitsui</form>
-<tag lemma="Mitsui" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Mitsui" src="auto">X@-------------</AM>
+<AM lemma="Mitsui-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0418-001-p1s0W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -48,6 +51,7 @@
 <AM lemma="co-4_^(který:_př.:_o_těch,_co_odešli/co_je_znal)" src="auto">P4XXX----------</AM>
 <AM lemma="co-5_^(př._co_nejméně,_co_nevidět,_co_chvíli,_co_do_počtu,_atd.)" src="auto">Db-------------</AM>
 <AM lemma="co-77_:B" src="auto">F%-------------</AM>
+<AM lemma="Co-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj0418-001-p1s0W5-Ta">
@@ -115,7 +119,7 @@
 <AM lemma="společný" src="auto">AAIP4----1A---6</AM>
 <AM lemma="společný" src="auto">AAIP5----1A---6</AM>
 <AM lemma="společný" src="auto" recommended="1">AAIS1----1A----</AM>
-<AM lemma="společný" src="auto">AAIS4----1A----</AM>
+<AM lemma="společný" src="auto" selected="1">AAIS4----1A----</AM>
 <AM lemma="společný" src="auto">AAIS5----1A----</AM>
 <AM lemma="společný" src="auto">AAMP1----1A---6</AM>
 <AM lemma="společný" src="auto">AAMP4----1A---6</AM>
@@ -138,7 +142,7 @@
 <form>podnik</form>
 <tag>
 <AM lemma="podnik" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="podnik" src="auto">NNIS4-----A----</AM>
+<AM lemma="podnik" src="auto" selected="1">NNIS4-----A----</AM>
 <AM lemma="podniknout" src="auto">VpYS---XR-AAP-6</AM>
 </tag>
 </m>
@@ -177,7 +181,10 @@
 <LM>w#w-wsj0418-001-p1s0W14</LM>
 </w.rf>
 <form>Dae</form>
-<tag lemma="Dae" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Dae" src="auto">X@-------------</AM>
+<AM lemma="Dae-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0418-001-p1s0W15-Ta">
 <src.rf>tagger-a</src.rf>
@@ -185,7 +192,10 @@
 <LM>w#w-wsj0418-001-p1s0W15</LM>
 </w.rf>
 <form>Woong</form>
-<tag lemma="Woong" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Woong" src="auto">X@-------------</AM>
+<AM lemma="Woong-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0418-001-p1s0W16-Ta">
 <src.rf>tagger-a</src.rf>
@@ -193,7 +203,10 @@
 <LM>w#w-wsj0418-001-p1s0W16</LM>
 </w.rf>
 <form>Chemical</form>
-<tag lemma="Chemical_:B_;K_,t_^(v_názvu_Chemical_Bank_apod.)" src="auto" recommended="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="Chemical_:B_;K_,t_^(v_názvu_Chemical_Bank_apod.)" src="auto" recommended="1">AAXXX----1A----</AM>
+<AM lemma="Chemical-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0418-001-p1s0W17-Ta">
 <src.rf>tagger-a</src.rf>
@@ -209,6 +222,7 @@
 <AM lemma="co-4_^(který:_př.:_o_těch,_co_odešli/co_je_znal)" src="auto">P4XXX----------</AM>
 <AM lemma="co-5_^(př._co_nejméně,_co_nevidět,_co_chvíli,_co_do_počtu,_atd.)" src="auto">Db-------------</AM>
 <AM lemma="co-77_:B" src="auto">F%-------------</AM>
+<AM lemma="Co-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj0418-001-p1s0W18-Ta">
@@ -495,7 +509,10 @@
 <LM>w#w-wsj0418-001-p1s2W2</LM>
 </w.rf>
 <form>Mitsui</form>
-<tag lemma="Mitsui" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Mitsui" src="auto">X@-------------</AM>
+<AM lemma="Mitsui_;K" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj0418-001-p1s2W3-Ta">
 <src.rf>tagger-a</src.rf>

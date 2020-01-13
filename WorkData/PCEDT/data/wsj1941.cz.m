@@ -152,7 +152,7 @@
 <AM lemma="odlišný" src="auto">AAIP4----1A---6</AM>
 <AM lemma="odlišný" src="auto">AAIP5----1A---6</AM>
 <AM lemma="odlišný" src="auto" recommended="1">AAIS1----1A----</AM>
-<AM lemma="odlišný" src="auto">AAIS4----1A----</AM>
+<AM lemma="odlišný" src="auto" selected="1">AAIS4----1A----</AM>
 <AM lemma="odlišný" src="auto">AAIS5----1A----</AM>
 <AM lemma="odlišný" src="auto">AAMP1----1A---6</AM>
 <AM lemma="odlišný" src="auto">AAMP4----1A---6</AM>
@@ -229,7 +229,7 @@
 <form>Společnosti</form>
 <tag>
 <AM lemma="společnost_^(*3ý)" src="auto" recommended="1">NNFP1-----A----</AM>
-<AM lemma="společnost_^(*3ý)" src="auto">NNFP4-----A----</AM>
+<AM lemma="společnost_^(*3ý)" src="auto" selected="1">NNFP4-----A----</AM>
 <AM lemma="společnost_^(*3ý)" src="auto">NNFP5-----A----</AM>
 <AM lemma="společnost_^(*3ý)" src="auto">NNFS2-----A----</AM>
 <AM lemma="společnost_^(*3ý)" src="auto">NNFS3-----A----</AM>
@@ -480,7 +480,7 @@
 <AM lemma="zahrnující_^(*5ovat)" src="auto">AGFS5-----A----</AM>
 <AM lemma="zahrnující_^(*5ovat)" src="auto">AGFS6-----A----</AM>
 <AM lemma="zahrnující_^(*5ovat)" src="auto">AGFS7-----A----</AM>
-<AM lemma="zahrnující_^(*5ovat)" src="auto">AGIP1-----A----</AM>
+<AM lemma="zahrnující_^(*5ovat)" src="auto" selected="1">AGIP1-----A----</AM>
 <AM lemma="zahrnující_^(*5ovat)" src="auto">AGIP4-----A----</AM>
 <AM lemma="zahrnující_^(*5ovat)" src="auto">AGIP5-----A----</AM>
 <AM lemma="zahrnující_^(*5ovat)" src="auto">AGIS1-----A----</AM>
@@ -507,7 +507,7 @@
 <form>ztráty</form>
 <tag>
 <AM lemma="ztráta" src="auto" recommended="1">NNFP1-----A----</AM>
-<AM lemma="ztráta" src="auto">NNFP4-----A----</AM>
+<AM lemma="ztráta" src="auto" selected="1">NNFP4-----A----</AM>
 <AM lemma="ztráta" src="auto">NNFP5-----A----</AM>
 <AM lemma="ztráta" src="auto">NNFS2-----A----</AM>
 </tag>
@@ -663,7 +663,15 @@
 <LM>w#w-wsj1941-001-p1s3W7</LM>
 </w.rf>
 <form>30denním</form>
-<tag lemma="30denním" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="30denním" src="auto">X@-------------</AM>
+<AM lemma="30denní" src="manual" selected="1">AAIS7----1A----</AM>
+</tag>
+<comment>
+<LM type="Other">
+<text>špatná tokenizace</text>
+</LM>
+</comment>
 </m>
 <m id="m-wsj1941-001-p1s3W8-Ta">
 <src.rf>tagger-a</src.rf>
@@ -700,7 +708,7 @@
 <form>předpovědi</form>
 <tag>
 <AM lemma="předpověď" src="auto" recommended="1">NNFP1-----A----</AM>
-<AM lemma="předpověď" src="auto">NNFP4-----A----</AM>
+<AM lemma="předpověď" src="auto" selected="1">NNFP4-----A----</AM>
 <AM lemma="předpověď" src="auto">NNFP5-----A----</AM>
 <AM lemma="předpověď" src="auto">NNFS2-----A----</AM>
 <AM lemma="předpověď" src="auto">NNFS3-----A----</AM>
@@ -905,7 +913,15 @@
 <LM>w#w-wsj1941-001-p1s4W7</LM>
 </w.rf>
 <form>300denním</form>
-<tag lemma="300denním" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="300denním" src="auto">X@-------------</AM>
+<AM lemma="300denní" src="manual" selected="1">AAIS7----1A----</AM>
+</tag>
+<comment>
+<LM type="Other">
+<text>špatná tokenizace</text>
+</LM>
+</comment>
 </m>
 <m id="m-wsj1941-001-p1s4W8-Ta">
 <src.rf>tagger-a</src.rf>

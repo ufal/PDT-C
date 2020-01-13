@@ -31,6 +31,7 @@
 <AM lemma="empir" src="auto">NNIS5-----A----</AM>
 <AM lemma="empire_,t" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="empire_,t" src="auto">NNIS4-----A----</AM>
+<AM lemma="EMPIRE-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1751-001-p1s0W3-Ta">
@@ -39,7 +40,10 @@
 <LM>w#w-wsj1751-001-p1s0W3</LM>
 </w.rf>
 <form>PENCIL</form>
-<tag lemma="PENCIL" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="PENCIL" src="auto">X@-------------</AM>
+<AM lemma="PENCIL-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1751-001-p1s0W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -56,6 +60,11 @@
 </w.rf>
 <form>pozdějí</form>
 <tag lemma="pozdějí" src="auto">X@-------------</tag>
+<comment>
+<LM type="New Form">
+<text>později</text>
+</LM>
+</comment>
 </m>
 <m id="m-wsj1751-001-p1s0W6-Ta">
 <src.rf>tagger-a</src.rf>
@@ -64,7 +73,7 @@
 </w.rf>
 <form>nazývaná</form>
 <tag>
-<AM lemma="nazývaný_^(*2t)" src="auto">AAFS1----1A----</AM>
+<AM lemma="nazývaný_^(*2t)" src="auto" selected="1">AAFS1----1A----</AM>
 <AM lemma="nazývaný_^(*2t)" src="auto">AAFS5----1A----</AM>
 <AM lemma="nazývaný_^(*2t)" src="auto" recommended="1">AANP1----1A----</AM>
 <AM lemma="nazývaný_^(*2t)" src="auto">AANP4----1A----</AM>
@@ -81,6 +90,7 @@
 <AM lemma="empir" src="auto">NNIS5-----A----</AM>
 <AM lemma="empire_,t" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="empire_,t" src="auto">NNIS4-----A----</AM>
+<AM lemma="Empire-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1751-001-p1s0W8-Ta">
@@ -97,7 +107,10 @@
 <LM>w#w-wsj1751-001-p1s0W9</LM>
 </w.rf>
 <form>Berol</form>
-<tag lemma="Berol" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Berol" src="auto">X@-------------</AM>
+<AM lemma="Berol-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1751-001-p1s0W10-Ta">
 <src.rf>tagger-a</src.rf>
@@ -236,7 +249,10 @@
 <LM>w#w-wsj1751-001-p1s1W3</LM>
 </w.rf>
 <form>Centennial</form>
-<tag lemma="Centennial" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Centennial" src="auto">X@-------------</AM>
+<AM lemma="Centennial-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1751-001-p1s1W4-Ta">
 <src.rf>tagger-a</src.rf>

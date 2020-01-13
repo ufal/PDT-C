@@ -79,7 +79,10 @@
 <LM>w#w-wsj0614-001-p1s0W7</LM>
 </w.rf>
 <form>QUANTUM</form>
-<tag lemma="Quanto_;R_^(značka_aviváže)" src="auto" recommended="1">NNNP3-----A---6</tag>
+<tag>
+<AM lemma="Quanto_;R_^(značka_aviváže)" src="auto" recommended="1">NNNP3-----A---6</AM>
+<AM lemma="QUANTUM-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0614-001-p1s0W8-Ta">
 <src.rf>tagger-a</src.rf>
@@ -87,7 +90,10 @@
 <LM>w#w-wsj0614-001-p1s0W8</LM>
 </w.rf>
 <form>CHEMICAL</form>
-<tag lemma="Chemical_:B_;K_,t_^(v_názvu_Chemical_Bank_apod.)" src="auto" recommended="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="Chemical_:B_;K_,t_^(v_názvu_Chemical_Bank_apod.)" src="auto" recommended="1">AAXXX----1A----</AM>
+<AM lemma="CHEMICAL-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0614-001-p1s0W9-Ta">
 <src.rf>tagger-a</src.rf>
@@ -95,7 +101,10 @@
 <LM>w#w-wsj0614-001-p1s0W9</LM>
 </w.rf>
 <form>Corp</form>
-<tag lemma="corp-77_:B" src="auto" recommended="1">F%-------------</tag>
+<tag>
+<AM lemma="corp-77_:B" src="auto" recommended="1">F%-------------</AM>
+<AM lemma="Corp-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0614-001-p1s0W10-Ta">
 <src.rf>tagger-a</src.rf>
@@ -129,6 +138,8 @@
 <AM lemma="Morris-2_;R_^(vozidlo;;cigarety)" src="auto">NNIS2-----A----</AM>
 <AM lemma="Morris-2_;R_^(vozidlo;;cigarety)" src="auto">NNIS3-----A----</AM>
 <AM lemma="Morris-2_;R_^(vozidlo;;cigarety)" src="auto" recommended="1">NNIS6-----A----</AM>
+<AM lemma="Morris-2_;R_;G_^(město;vozidlo;;cigarety)" src="manual">NNIS6-----A----</AM>
+<AM lemma="Morris-2_;G_;R_^(vozidlo;;cigarety)" src="manual" selected="1">NNIS6-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0614-001-p1s0W13-Ta">

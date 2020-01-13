@@ -27,7 +27,10 @@
 <LM>w#w-wsj2445-001-p1s0W2</LM>
 </w.rf>
 <form>Kysor</form>
-<tag lemma="Kysor" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Kysor" src="auto">X@-------------</AM>
+<AM lemma="Kysor-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj2445-001-p1s0W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -35,7 +38,10 @@
 <LM>w#w-wsj2445-001-p1s0W3</LM>
 </w.rf>
 <form>Industrial</form>
-<tag lemma="Industrial" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Industrial" src="auto">X@-------------</AM>
+<AM lemma="Industrial-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj2445-001-p1s0W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -43,7 +49,10 @@
 <LM>w#w-wsj2445-001-p1s0W4</LM>
 </w.rf>
 <form>Corp</form>
-<tag lemma="corp-77_:B" src="auto" recommended="1">F%-------------</tag>
+<tag>
+<AM lemma="corp-77_:B" src="auto" recommended="1">F%-------------</AM>
+<AM lemma="Corp-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj2445-001-p1s0W5-Ta">
 <src.rf>tagger-a</src.rf>
@@ -514,7 +523,7 @@
 <AM lemma="cent" src="auto" recommended="1">NNIP1-----A----</AM>
 <AM lemma="cent" src="auto">NNIP4-----A----</AM>
 <AM lemma="cent" src="auto">NNIP5-----A----</AM>
-<AM lemma="cent" src="auto">NNIP7-----A----</AM>
+<AM lemma="cent" src="auto" selected="1">NNIP7-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2445-001-p1s1W13-Ta">
@@ -823,7 +832,7 @@
 <form>objem</form>
 <tag>
 <AM lemma="objem" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="objem" src="auto">NNIS4-----A----</AM>
+<AM lemma="objem" src="auto" selected="1">NNIS4-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2445-001-p1s3W13-Ta">
@@ -980,7 +989,7 @@
 <AM lemma="jeho_^(přivlast.)" src="auto" recommended="1">PSFSXFS3-------</AM>
 <AM lemma="jeho_^(přivlast.)" src="auto">PSIS4FS3-------</AM>
 <AM lemma="jeho_^(přivlast.)" src="auto">PSNS4FS3-------</AM>
-<AM lemma="jeho_^(přivlast.)" src="auto">PSXP1FS3-------</AM>
+<AM lemma="jeho_^(přivlast.)" src="auto" selected="1">PSXP1FS3-------</AM>
 <AM lemma="jeho_^(přivlast.)" src="auto">PSXP4FS3-------</AM>
 <AM lemma="jeho_^(přivlast.)" src="auto">PSXP5FS3-------</AM>
 <AM lemma="jeho_^(přivlast.)" src="auto">PSZS1FS3-------</AM>
@@ -994,7 +1003,7 @@
 </w.rf>
 <form>operace</form>
 <tag>
-<AM lemma="operace" src="auto">NNFP1-----A----</AM>
+<AM lemma="operace" src="auto" selected="1">NNFP1-----A----</AM>
 <AM lemma="operace" src="auto">NNFP4-----A----</AM>
 <AM lemma="operace" src="auto">NNFP5-----A----</AM>
 <AM lemma="operace" src="auto" recommended="1">NNFS1-----A----</AM>
@@ -1130,7 +1139,10 @@
 <LM>w#w-wsj2445-001-p1s5W2</LM>
 </w.rf>
 <form>Kysor</form>
-<tag lemma="Kysor" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Kysor" src="auto">X@-------------</AM>
+<AM lemma="Kysor_;K" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj2445-001-p1s5W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1532,7 +1544,7 @@
 <AM lemma="cent" src="auto" recommended="1">NNIP1-----A----</AM>
 <AM lemma="cent" src="auto">NNIP4-----A----</AM>
 <AM lemma="cent" src="auto">NNIP5-----A----</AM>
-<AM lemma="cent" src="auto">NNIP7-----A----</AM>
+<AM lemma="cent" src="auto" selected="1">NNIP7-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2445-001-p1s5W35-Ta">

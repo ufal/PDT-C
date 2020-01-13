@@ -24,7 +24,10 @@
 <LM>w#w-wsj0136-001-p1s0W2</LM>
 </w.rf>
 <form>Oshkosh</form>
-<tag lemma="Oshkosh" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Oshkosh" src="auto">X@-------------</AM>
+<AM lemma="Oshkosh-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0136-001-p1s0W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -35,6 +38,7 @@
 <tag>
 <AM lemma="truck" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="truck" src="auto">NNIS4-----A----</AM>
+<AM lemma="Truck-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj0136-001-p1s0W4-Ta">
@@ -43,7 +47,10 @@
 <LM>w#w-wsj0136-001-p1s0W4</LM>
 </w.rf>
 <form>Corp</form>
-<tag lemma="corp-77_:B" src="auto" recommended="1">F%-------------</tag>
+<tag>
+<AM lemma="corp-77_:B" src="auto" recommended="1">F%-------------</AM>
+<AM lemma="Corp-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0136-001-p1s0W5-Ta">
 <src.rf>tagger-a</src.rf>
@@ -122,7 +129,10 @@
 <LM>w#w-wsj0136-001-p1s0W10</LM>
 </w.rf>
 <form>Oshkosh</form>
-<tag lemma="Oshkosh" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Oshkosh" src="auto">X@-------------</AM>
+<AM lemma="Oshkosh_;G" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj0136-001-p1s0W11-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1135,7 +1145,10 @@
 <LM>w#w-wsj0136-001-p1s3W2</LM>
 </w.rf>
 <form>Oshkosh</form>
-<tag lemma="Oshkosh" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Oshkosh" src="auto">X@-------------</AM>
+<AM lemma="Oshkosh-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0136-001-p1s3W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1146,6 +1159,7 @@
 <tag>
 <AM lemma="truck" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="truck" src="auto">NNIS4-----A----</AM>
+<AM lemma="Truck-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj0136-001-p1s3W4-Ta">
@@ -1668,7 +1682,10 @@
 <LM>w#w-wsj0136-001-p1s4W11</LM>
 </w.rf>
 <form>John</form>
-<tag lemma="John_;Y" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="John_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="John-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0136-001-p1s4W12-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1680,6 +1697,7 @@
 <AM lemma="Deere_;S" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Deere_;S" src="auto">NNMS5-----A----</AM>
 <AM lemma="Deere_;S" src="auto">NNMXX-----A----</AM>
+<AM lemma="Deere-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj0136-001-p1s4W13-Ta">

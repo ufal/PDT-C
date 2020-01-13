@@ -27,7 +27,10 @@
 <LM>w#w-wsj0007-001-p1s0W2</LM>
 </w.rf>
 <form>McDermott</form>
-<tag lemma="McDermott_;S" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="McDermott_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="McDermott-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0007-001-p1s0W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -36,7 +39,7 @@
 </w.rf>
 <form>International</form>
 <tag>
-<AM lemma="International-77" src="auto" recommended="1">F%-------------</AM>
+<AM lemma="International-77" src="auto" recommended="1" selected="1">F%-------------</AM>
 <AM lemma="International_,t" src="auto">NNISX-----A----</AM>
 <AM lemma="international-77_,t" src="auto">F%-------------</AM>
 </tag>
@@ -50,6 +53,7 @@
 <tag>
 <AM lemma="Inc-77_:B" src="auto" recommended="1">F%-------------</AM>
 <AM lemma="inc-77_:B" src="auto">F%-------------</AM>
+<AM lemma="Inc-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj0007-001-p1s0W5-Ta">
@@ -118,7 +122,10 @@
 <LM>w#w-wsj0007-001-p1s0W11</LM>
 </w.rf>
 <form>Babcock</form>
-<tag lemma="Babcock_;S" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Babcock_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Babcock-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0007-001-p1s0W12-Ta">
 <src.rf>tagger-a</src.rf>
@@ -134,7 +141,10 @@
 <LM>w#w-wsj0007-001-p1s0W13</LM>
 </w.rf>
 <form>Wilcox</form>
-<tag lemma="Wilcox_;S" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Wilcox_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Wilcox-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0007-001-p1s0W14-Ta">
 <src.rf>tagger-a</src.rf>
@@ -202,7 +212,10 @@
 <LM>w#w-wsj0007-001-p1s0W18</LM>
 </w.rf>
 <form>Bailey</form>
-<tag lemma="Bailey_;S" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Bailey_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Bailey-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0007-001-p1s0W19-Ta">
 <src.rf>tagger-a</src.rf>
@@ -210,7 +223,10 @@
 <LM>w#w-wsj0007-001-p1s0W19</LM>
 </w.rf>
 <form>Controls</form>
-<tag lemma="Controls" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Controls" src="auto">X@-------------</AM>
+<AM lemma="Controls-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0007-001-p1s0W20-Ta">
 <src.rf>tagger-a</src.rf>
@@ -218,7 +234,10 @@
 <LM>w#w-wsj0007-001-p1s0W20</LM>
 </w.rf>
 <form>Operations</form>
-<tag lemma="Operations" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Operations" src="auto">X@-------------</AM>
+<AM lemma="Operations-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0007-001-p1s0W21-Ta">
 <src.rf>tagger-a</src.rf>
@@ -242,7 +261,11 @@
 <LM>w#w-wsj0007-001-p1s0W22</LM>
 </w.rf>
 <form>Finmeccanica</form>
-<tag lemma="Finmeccanica" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Finmeccanica" src="auto">X@-------------</AM>
+<AM lemma="Finmeccanica_;K" src="manual">NNXXX-----A----</AM>
+<AM lemma="Finmeccanica-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0007-001-p1s0W23-Ta">
 <src.rf>tagger-a</src.rf>
@@ -389,7 +412,10 @@
 <LM>w#w-wsj0007-001-p1s1W2</LM>
 </w.rf>
 <form>Finmeccanica</form>
-<tag lemma="Finmeccanica" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Finmeccanica" src="auto">X@-------------</AM>
+<AM lemma="Finmeccanica_;K" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj0007-001-p1s1W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -591,7 +617,10 @@
 <LM>w#w-wsj0007-001-p1s2W2</LM>
 </w.rf>
 <form>Bailey</form>
-<tag lemma="Bailey_;S" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Bailey_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Bailey-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0007-001-p1s2W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -599,7 +628,10 @@
 <LM>w#w-wsj0007-001-p1s2W3</LM>
 </w.rf>
 <form>Controls</form>
-<tag lemma="Controls" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Controls" src="auto">X@-------------</AM>
+<AM lemma="Controls-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0007-001-p1s2W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -638,7 +670,10 @@
 <LM>w#w-wsj0007-001-p1s2W7</LM>
 </w.rf>
 <form>Wickliffe</form>
-<tag lemma="Wickliffe" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Wickliffe" src="auto">X@-------------</AM>
+<AM lemma="Wickliffe_;G" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj0007-001-p1s2W8-Ta">
 <src.rf>tagger-a</src.rf>

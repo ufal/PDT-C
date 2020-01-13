@@ -47,7 +47,10 @@
 <LM>w#w-wsj1961-001-p1s0W3</LM>
 </w.rf>
 <form>Applied</form>
-<tag lemma="Applied" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Applied" src="auto">X@-------------</AM>
+<AM lemma="Applied-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1961-001-p1s0W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -70,6 +73,7 @@
 <tag>
 <AM lemma="Inc-77_:B" src="auto" recommended="1">F%-------------</AM>
 <AM lemma="inc-77_:B" src="auto">F%-------------</AM>
+<AM lemma="Inc-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1961-001-p1s0W6-Ta">

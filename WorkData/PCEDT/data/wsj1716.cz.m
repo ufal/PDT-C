@@ -27,7 +27,10 @@
 <LM>w#w-wsj1716-001-p1s0W2</LM>
 </w.rf>
 <form>Anglo</form>
-<tag lemma="anglický" src="auto" recommended="1">A2--------A---1</tag>
+<tag>
+<AM lemma="anglický" src="auto" recommended="1">A2--------A---1</AM>
+<AM lemma="Anglo-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1716-001-p1s0W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -38,6 +41,7 @@
 <tag>
 <AM lemma="American-1_;K_,t_^(souč._názvů,_např._A._Airlines)" src="auto" recommended="1">AAXXX----1A----</AM>
 <AM lemma="Americana_;G" src="auto">NNFP2-----A----</AM>
+<AM lemma="American-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1716-001-p1s0W4-Ta">
@@ -46,7 +50,10 @@
 <LM>w#w-wsj1716-001-p1s0W4</LM>
 </w.rf>
 <form>Corp</form>
-<tag lemma="corp-77_:B" src="auto" recommended="1">F%-------------</tag>
+<tag>
+<AM lemma="corp-77_:B" src="auto" recommended="1">F%-------------</AM>
+<AM lemma="Corp-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1716-001-p1s0W5-Ta">
 <src.rf>tagger-a</src.rf>
@@ -62,7 +69,10 @@
 <LM>w#w-wsj1716-001-p1s0W6</LM>
 </w.rf>
 <form>of</form>
-<tag lemma="of-77_,t" src="auto" recommended="1">F%-------------</tag>
+<tag>
+<AM lemma="of-77_,t" src="auto" recommended="1">F%-------------</AM>
+<AM lemma="of-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1716-001-p1s0W7-Ta">
 <src.rf>tagger-a</src.rf>
@@ -70,7 +80,7 @@
 <LM>w#w-wsj1716-001-p1s0W7</LM>
 </w.rf>
 <form>South</form>
-<tag lemma="South-77" src="auto" recommended="1">F%-------------</tag>
+<tag lemma="South-77" src="auto" recommended="1" selected="1">F%-------------</tag>
 </m>
 <m id="m-wsj1716-001-p1s0W8-Ta">
 <src.rf>tagger-a</src.rf>
@@ -78,7 +88,10 @@
 <LM>w#w-wsj1716-001-p1s0W8</LM>
 </w.rf>
 <form>Africa</form>
-<tag lemma="Afrika_;G_,t_,x" src="auto" recommended="1">NNFXX-----A----</tag>
+<tag>
+<AM lemma="Afrika_;G_,t_,x" src="auto" recommended="1">NNFXX-----A----</AM>
+<AM lemma="Africa-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1716-001-p1s0W9-Ta">
 <src.rf>tagger-a</src.rf>
@@ -86,7 +99,10 @@
 <LM>w#w-wsj1716-001-p1s0W9</LM>
 </w.rf>
 <form>Ltd</form>
-<tag lemma="Ltd-77_:B" src="auto" recommended="1">F%-------------</tag>
+<tag>
+<AM lemma="Ltd-77_:B" src="auto" recommended="1">F%-------------</AM>
+<AM lemma="Ltd-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1716-001-p1s0W10-Ta">
 <src.rf>tagger-a</src.rf>
@@ -200,7 +216,7 @@
 <AM lemma="dol" src="auto">NNIP2-----A----</AM>
 <AM lemma="dolus_,t" src="auto">NNIP2-----A----</AM>
 <AM lemma="dolů" src="auto" recommended="1">Db-------------</AM>
-<AM lemma="důl" src="auto">NNIP2-----A----</AM>
+<AM lemma="důl" src="auto" selected="1">NNIP2-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1716-001-p1s0W19-Ta">
@@ -737,7 +753,7 @@
 <AM lemma="dol" src="auto">NNIP2-----A----</AM>
 <AM lemma="dolus_,t" src="auto">NNIP2-----A----</AM>
 <AM lemma="dolů" src="auto" recommended="1">Db-------------</AM>
-<AM lemma="důl" src="auto">NNIP2-----A----</AM>
+<AM lemma="důl" src="auto" selected="1">NNIP2-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1716-001-p1s2W7-Ta">

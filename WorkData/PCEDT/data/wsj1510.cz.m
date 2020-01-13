@@ -371,7 +371,10 @@
 <LM>w#w-wsj1510-001-p1s1W10</LM>
 </w.rf>
 <form>Seton</form>
-<tag lemma="Seton_;S" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Seton_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Seton-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1510-001-p1s1W11-Ta">
 <src.rf>tagger-a</src.rf>
@@ -383,6 +386,7 @@
 <AM lemma="Hall_;S" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="hall_,t" src="auto">NNIS1-----A----</AM>
 <AM lemma="hall_,t" src="auto">NNIS4-----A----</AM>
+<AM lemma="Hall-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1510-001-p1s1W12-Ta">
@@ -392,7 +396,7 @@
 </w.rf>
 <form>University</form>
 <tag>
-<AM lemma="University-77" src="auto" recommended="1">F%-------------</AM>
+<AM lemma="University-77" src="auto" recommended="1" selected="1">F%-------------</AM>
 <AM lemma="universita_,s_^(^DD**univerzita)" src="auto">NNFP1-----A----</AM>
 <AM lemma="universita_,s_^(^DD**univerzita)" src="auto">NNFP4-----A----</AM>
 <AM lemma="universita_,s_^(^DD**univerzita)" src="auto">NNFP5-----A----</AM>

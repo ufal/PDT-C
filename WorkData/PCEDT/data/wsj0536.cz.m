@@ -31,7 +31,10 @@
 <LM>w#w-wsj0536-001-p1s0W2</LM>
 </w.rf>
 <form>GMC</form>
-<tag lemma="GMC" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="GMC" src="auto">X@-------------</AM>
+<AM lemma="GMC-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj0536-001-p1s0W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -42,6 +45,7 @@
 <tag>
 <AM lemma="truck" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="truck" src="auto">NNIS4-----A----</AM>
+<AM lemma="Truck-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj0536-001-p1s0W4-Ta">
@@ -71,6 +75,7 @@
 <AM lemma="General_;K_,t" src="auto">NNIS1-----A----</AM>
 <AM lemma="General_;K_,t" src="auto">NNIS4-----A----</AM>
 <AM lemma="General_;K_,t" src="auto" recommended="1">NNXXX-----A----</AM>
+<AM lemma="General-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj0536-001-p1s0W6-Ta">
@@ -79,7 +84,10 @@
 <LM>w#w-wsj0536-001-p1s0W6</LM>
 </w.rf>
 <form>Motors</form>
-<tag lemma="Motors-1_;K_,t_^(souč._názvů,_např._General_M.)" src="auto" recommended="1">NNIPX-----A----</tag>
+<tag>
+<AM lemma="Motors-1_;K_,t_^(souč._názvů,_např._General_M.)" src="auto" recommended="1">NNIPX-----A----</AM>
+<AM lemma="Motors-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0536-001-p1s0W7-Ta">
 <src.rf>tagger-a</src.rf>
@@ -87,7 +95,10 @@
 <LM>w#w-wsj0536-001-p1s0W7</LM>
 </w.rf>
 <form>Corp</form>
-<tag lemma="corp-77_:B" src="auto" recommended="1">F%-------------</tag>
+<tag>
+<AM lemma="corp-77_:B" src="auto" recommended="1">F%-------------</AM>
+<AM lemma="Corp-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0536-001-p1s0W8-Ta">
 <src.rf>tagger-a</src.rf>
@@ -185,6 +196,7 @@
 <AM lemma="model" src="auto">NNIS1-----A----</AM>
 <AM lemma="model" src="auto" recommended="1">NNIS4-----A----</AM>
 <AM lemma="model" src="auto">NNMS1-----A----</AM>
+<AM lemma="model-1" src="manual" selected="1">NNIS4-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0536-001-p1s0W17-Ta">
@@ -235,6 +247,7 @@
 <AM lemma="Jimmy_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Jimmy_;Y" src="auto">NNMS5-----A----</AM>
 <AM lemma="Jimmy_;Y" src="auto">NNMXX-----A----</AM>
+<AM lemma="Jimmy-2_;R" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0536-001-p1s0W21-Ta">
@@ -257,7 +270,10 @@
 <LM>w#w-wsj0536-001-p1s0W22</LM>
 </w.rf>
 <form>Suburban</form>
-<tag lemma="Suburban" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Suburban" src="auto">X@-------------</AM>
+<AM lemma="Suburban_;R" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj0536-001-p1s0W23-Ta">
 <src.rf>tagger-a</src.rf>
@@ -333,6 +349,7 @@
 <tag>
 <AM lemma="program-1" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="program-1" src="auto">NNIS4-----A----</AM>
+<AM lemma="program" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0536-001-p1s1W2-Ta">
@@ -521,7 +538,7 @@
 <AM lemma="financování_^(*3at)" src="auto">NNNS1-----A----</AM>
 <AM lemma="financování_^(*3at)" src="auto" recommended="1">NNNS2-----A----</AM>
 <AM lemma="financování_^(*3at)" src="auto">NNNS3-----A----</AM>
-<AM lemma="financování_^(*3at)" src="auto">NNNS4-----A----</AM>
+<AM lemma="financování_^(*3at)" src="auto" selected="1">NNNS4-----A----</AM>
 <AM lemma="financování_^(*3at)" src="auto">NNNS5-----A----</AM>
 <AM lemma="financování_^(*3at)" src="auto">NNNS6-----A----</AM>
 </tag>

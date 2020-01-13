@@ -320,7 +320,7 @@
 <AM lemma="starý-2_^(člověk,_věc)" src="auto">AAIS4----2A----</AM>
 <AM lemma="starý-2_^(člověk,_věc)" src="auto">AAIS5----2A----</AM>
 <AM lemma="starý-2_^(člověk,_věc)" src="auto">AAMP1----2A----</AM>
-<AM lemma="starý-2_^(člověk,_věc)" src="auto">AAMP4----2A----</AM>
+<AM lemma="starý-2_^(člověk,_věc)" src="auto" selected="1">AAMP4----2A----</AM>
 <AM lemma="starý-2_^(člověk,_věc)" src="auto">AAMP5----2A----</AM>
 <AM lemma="starý-2_^(člověk,_věc)" src="auto" recommended="1">AAMS1----2A----</AM>
 <AM lemma="starý-2_^(člověk,_věc)" src="auto">AAMS5----2A----</AM>
@@ -356,7 +356,7 @@
 <form>vaší</form>
 <tag>
 <AM lemma="tvůj_^(přivlast.)" src="auto">PSFS2-P2-------</AM>
-<AM lemma="tvůj_^(přivlast.)" src="auto">PSFS3-P2-------</AM>
+<AM lemma="tvůj_^(přivlast.)" src="auto" selected="1">PSFS3-P2-------</AM>
 <AM lemma="tvůj_^(přivlast.)" src="auto">PSFS4-P2------6</AM>
 <AM lemma="tvůj_^(přivlast.)" src="auto" recommended="1">PSFS6-P2-------</AM>
 <AM lemma="tvůj_^(přivlast.)" src="auto">PSFS7-P2-------</AM>
@@ -373,7 +373,7 @@
 <AM lemma="silný" src="auto">AAFP4----1A----</AM>
 <AM lemma="silný" src="auto">AAFP5----1A----</AM>
 <AM lemma="silný" src="auto">AAFS2----1A----</AM>
-<AM lemma="silný" src="auto">AAFS3----1A----</AM>
+<AM lemma="silný" src="auto" selected="1">AAFS3----1A----</AM>
 <AM lemma="silný" src="auto" recommended="1">AAFS6----1A----</AM>
 <AM lemma="silný" src="auto">AAIP1----1A----</AM>
 <AM lemma="silný" src="auto">AAIP4----1A----</AM>
@@ -394,7 +394,7 @@
 </w.rf>
 <form>podpoře</form>
 <tag>
-<AM lemma="podpora_^(peníze;_tyč;_morální_p.)" src="auto">NNFS3-----A----</AM>
+<AM lemma="podpora_^(peníze;_tyč;_morální_p.)" src="auto" selected="1">NNFS3-----A----</AM>
 <AM lemma="podpora_^(peníze;_tyč;_morální_p.)" src="auto" recommended="1">NNFS6-----A----</AM>
 <AM lemma="podpořit" src="auto">VmYS------A-P-4</AM>
 </tag>
@@ -2027,7 +2027,7 @@
 <form>deficit</form>
 <tag>
 <AM lemma="deficit" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="deficit" src="auto">NNIS4-----A----</AM>
+<AM lemma="deficit" src="auto" selected="1">NNIS4-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1585-001-p1s5W14-Ta">
@@ -2496,7 +2496,7 @@
 <form>i</form>
 <tag>
 <AM lemma="i-1" src="auto" recommended="1">J^-------------</AM>
-<AM lemma="i-2" src="auto">TT-------------</AM>
+<AM lemma="i-2" src="auto" selected="1">TT-------------</AM>
 <AM lemma="i-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
 <AM lemma="i-88_:B" src="auto">NNXXX-----A----</AM>
 </tag>

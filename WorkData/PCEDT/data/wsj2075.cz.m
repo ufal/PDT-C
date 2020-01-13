@@ -82,7 +82,7 @@
 <form>ministerstva</form>
 <tag>
 <AM lemma="ministerstvo" src="auto">NNNP1-----A----</AM>
-<AM lemma="ministerstvo" src="auto">NNNP4-----A----</AM>
+<AM lemma="ministerstvo" src="auto" selected="1">NNNP4-----A----</AM>
 <AM lemma="ministerstvo" src="auto">NNNP5-----A----</AM>
 <AM lemma="ministerstvo" src="auto" recommended="1">NNNS2-----A----</AM>
 </tag>
@@ -249,7 +249,7 @@
 <form>jak</form>
 <tag>
 <AM lemma="jak-1_;L_^(živočich)" src="auto">NNMS1-----A----</AM>
-<AM lemma="jak-2" src="auto">J,-------------</AM>
+<AM lemma="jak-2" src="auto" selected="1">J,-------------</AM>
 <AM lemma="jak-2" src="auto">J^-------------</AM>
 <AM lemma="jak-3" src="auto" recommended="1">Db-------------</AM>
 <AM lemma="jak-99_:B_;S" src="auto">NNXXX-----A----</AM>
@@ -366,7 +366,7 @@
 <AM lemma="federální" src="auto">AANP4----1A----</AM>
 <AM lemma="federální" src="auto">AANP5----1A----</AM>
 <AM lemma="federální" src="auto" recommended="1">AANS1----1A----</AM>
-<AM lemma="federální" src="auto">AANS4----1A----</AM>
+<AM lemma="federální" src="auto" selected="1">AANS4----1A----</AM>
 <AM lemma="federální" src="auto">AANS5----1A----</AM>
 </tag>
 </m>
@@ -384,7 +384,7 @@
 <AM lemma="financování_^(*3at)" src="auto" recommended="1">NNNS1-----A----</AM>
 <AM lemma="financování_^(*3at)" src="auto">NNNS2-----A----</AM>
 <AM lemma="financování_^(*3at)" src="auto">NNNS3-----A----</AM>
-<AM lemma="financování_^(*3at)" src="auto">NNNS4-----A----</AM>
+<AM lemma="financování_^(*3at)" src="auto" selected="1">NNNS4-----A----</AM>
 <AM lemma="financování_^(*3at)" src="auto">NNNS5-----A----</AM>
 <AM lemma="financování_^(*3at)" src="auto">NNNS6-----A----</AM>
 </tag>
@@ -894,7 +894,7 @@
 <AM lemma="přijatelný_^(*6mout)" src="auto">AAFS2----1A----</AM>
 <AM lemma="přijatelný_^(*6mout)" src="auto">AAFS3----1A----</AM>
 <AM lemma="přijatelný_^(*6mout)" src="auto">AAFS6----1A----</AM>
-<AM lemma="přijatelný_^(*6mout)" src="auto">AAIP1----1A----</AM>
+<AM lemma="přijatelný_^(*6mout)" src="auto" selected="1">AAIP1----1A----</AM>
 <AM lemma="přijatelný_^(*6mout)" src="auto">AAIP4----1A----</AM>
 <AM lemma="přijatelný_^(*6mout)" src="auto">AAIP5----1A----</AM>
 <AM lemma="přijatelný_^(*6mout)" src="auto">AAMP4----1A----</AM>
@@ -2169,7 +2169,10 @@
 <LM>w#w-wsj2075-001-p1s7W7</LM>
 </w.rf>
 <form>Medicaid</form>
-<tag lemma="Medicaid" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Medicaid" src="auto">X@-------------</AM>
+<AM lemma="Medicaid_;R" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj2075-001-p1s7W8-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2561,7 +2564,7 @@
 <form>i</form>
 <tag>
 <AM lemma="i-1" src="auto" recommended="1">J^-------------</AM>
-<AM lemma="i-2" src="auto">TT-------------</AM>
+<AM lemma="i-2" src="auto" selected="1">TT-------------</AM>
 <AM lemma="i-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
 <AM lemma="i-88_:B" src="auto">NNXXX-----A----</AM>
 </tag>

@@ -16,7 +16,10 @@
 <LM>w#w-wsj2008-001-p1s0W1</LM>
 </w.rf>
 <form>Reuben</form>
-<tag lemma="Reuben_;S" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Reuben_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Reuben_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj2008-001-p1s0W2-Ta">
 <src.rf>tagger-a</src.rf>
@@ -24,7 +27,10 @@
 <LM>w#w-wsj2008-001-p1s0W2</LM>
 </w.rf>
 <form>Mark</form>
-<tag lemma="Mark_;Y" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Mark_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Mark_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj2008-001-p1s0W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -118,7 +124,10 @@
 <LM>w#w-wsj2008-001-p1s0W8</LM>
 </w.rf>
 <form>Colgate</form>
-<tag lemma="Colgate_;K_,t" src="auto" recommended="1">NNNXX-----A----</tag>
+<tag>
+<AM lemma="Colgate_;K_,t" src="auto" recommended="1">NNNXX-----A----</AM>
+<AM lemma="Colgate-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj2008-001-p1s0W9-Ta">
 <src.rf>tagger-a</src.rf>
@@ -134,7 +143,10 @@
 <LM>w#w-wsj2008-001-p1s0W10</LM>
 </w.rf>
 <form>Palmolive</form>
-<tag lemma="Palmolive_;R" src="auto" recommended="1">NNNSX-----A----</tag>
+<tag>
+<AM lemma="Palmolive_;R" src="auto" recommended="1">NNNSX-----A----</AM>
+<AM lemma="Palmolive-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj2008-001-p1s0W11-Ta">
 <src.rf>tagger-a</src.rf>
@@ -150,6 +162,7 @@
 <AM lemma="co-4_^(který:_př.:_o_těch,_co_odešli/co_je_znal)" src="auto">P4XXX----------</AM>
 <AM lemma="co-5_^(př._co_nejméně,_co_nevidět,_co_chvíli,_co_do_počtu,_atd.)" src="auto">Db-------------</AM>
 <AM lemma="co-77_:B" src="auto">F%-------------</AM>
+<AM lemma="Co-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj2008-001-p1s0W12-Ta">
@@ -698,7 +711,7 @@
 <form>i</form>
 <tag>
 <AM lemma="i-1" src="auto" recommended="1">J^-------------</AM>
-<AM lemma="i-2" src="auto">TT-------------</AM>
+<AM lemma="i-2" src="auto" selected="1">TT-------------</AM>
 <AM lemma="i-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
 <AM lemma="i-88_:B" src="auto">NNXXX-----A----</AM>
 </tag>
@@ -1324,7 +1337,10 @@
 <LM>w#w-wsj2008-001-p1s3W12</LM>
 </w.rf>
 <form>Colgate</form>
-<tag lemma="Colgate_;K_,t" src="auto" recommended="1">NNNXX-----A----</tag>
+<tag>
+<AM lemma="Colgate_;K_,t" src="auto" recommended="1">NNNXX-----A----</AM>
+<AM lemma="Colgate_;K_;R" src="manual" selected="1">NNNXX-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj2008-001-p1s3W13-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1423,7 +1439,10 @@
 <LM>w#w-wsj2008-001-p1s4W1</LM>
 </w.rf>
 <form>Mark</form>
-<tag lemma="Mark_;Y" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Mark_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Mark_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj2008-001-p1s4W2-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1641,7 +1660,7 @@
 <form>opravdu</form>
 <tag>
 <AM lemma="opravdu-1" src="auto" recommended="1">Db-------------</AM>
-<AM lemma="opravdu-2" src="auto">TT-------------</AM>
+<AM lemma="opravdu-2" src="auto" selected="1">TT-------------</AM>
 </tag>
 </m>
 <m id="m-wsj2008-001-p1s5W7-Ta">
@@ -1751,7 +1770,11 @@
 <LM>w#w-wsj2008-001-p1s5W15</LM>
 </w.rf>
 <form>Colgate</form>
-<tag lemma="Colgate_;K_,t" src="auto" recommended="1">NNNXX-----A----</tag>
+<tag>
+<AM lemma="Colgate_;K_,t" src="auto" recommended="1">NNNXX-----A----</AM>
+<AM lemma="Colgate_;K" src="manual">NNNXX-----A----</AM>
+<AM lemma="Colgate_;K_;R" src="manual" selected="1">NNNXX-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj2008-001-p1s5W16-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1773,7 +1796,12 @@
 <LM>w#w-wsj2008-001-p1s5W17</LM>
 </w.rf>
 <form>USA</form>
-<tag lemma="USA_:B_;G_^(United_States_ofmerica)" src="auto" recommended="1">NNXXX-----A----</tag>
+<tag>
+<AM lemma="USA_:B_;G_^(United_States_ofmerica)" src="auto" recommended="1">NNXXX-----A----</AM>
+<AM lemma="USA_:B_;K_^(United_States_of_America)" src="manual">NNXXX-----A---8</AM>
+<AM lemma="USA_:B_;K^(United_States_of_America)" src="manual">NNXXX-----A----</AM>
+<AM lemma="USA_:B_;K_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj2008-001-p1s5W18-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1797,7 +1825,10 @@
 <LM>w#w-wsj2008-001-p1s5W20</LM>
 </w.rf>
 <form>Mark</form>
-<tag lemma="Mark_;Y" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Mark_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Mark_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj2008-001-p1s5W21-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1893,7 +1924,10 @@
 <LM>w#w-wsj2008-001-p1s6W4</LM>
 </w.rf>
 <form>Colgate</form>
-<tag lemma="Colgate_;K_,t" src="auto" recommended="1">NNNXX-----A----</tag>
+<tag>
+<AM lemma="Colgate_;K_,t" src="auto" recommended="1">NNNXX-----A----</AM>
+<AM lemma="Colgate_;K_;R" src="manual" selected="1">NNNXX-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj2008-001-p1s6W5-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1915,7 +1949,10 @@
 <LM>w#w-wsj2008-001-p1s6W6</LM>
 </w.rf>
 <form>USA</form>
-<tag lemma="USA_:B_;G_^(United_States_ofmerica)" src="auto" recommended="1">NNXXX-----A----</tag>
+<tag>
+<AM lemma="USA_:B_;G_^(United_States_ofmerica)" src="auto" recommended="1">NNXXX-----A----</AM>
+<AM lemma="USA_:B_;G_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj2008-001-p1s6W7-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2156,7 +2193,10 @@
 <LM>w#w-wsj2008-001-p1s6W25</LM>
 </w.rf>
 <form>Mark</form>
-<tag lemma="Mark_;Y" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Mark_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Mark_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj2008-001-p1s6W26-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2532,7 +2572,10 @@
 <LM>w#w-wsj2008-001-p1s8W5</LM>
 </w.rf>
 <form>Colgate</form>
-<tag lemma="Colgate_;K_,t" src="auto" recommended="1">NNNXX-----A----</tag>
+<tag>
+<AM lemma="Colgate_;K_,t" src="auto" recommended="1">NNNXX-----A----</AM>
+<AM lemma="Colgate_;K_;R" src="manual" selected="1">NNNXX-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj2008-001-p1s8W6-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2554,7 +2597,10 @@
 <LM>w#w-wsj2008-001-p1s8W7</LM>
 </w.rf>
 <form>USA</form>
-<tag lemma="USA_:B_;G_^(United_States_ofmerica)" src="auto" recommended="1">NNXXX-----A----</tag>
+<tag>
+<AM lemma="USA_:B_;G_^(United_States_ofmerica)" src="auto" recommended="1">NNXXX-----A----</AM>
+<AM lemma="USA_:B_;G_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj2008-001-p1s8W8-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2665,7 +2711,10 @@
 <LM>w#w-wsj2008-001-p1s9W3</LM>
 </w.rf>
 <form>Colgate</form>
-<tag lemma="Colgate_;K_,t" src="auto" recommended="1">NNNXX-----A----</tag>
+<tag>
+<AM lemma="Colgate_;K_,t" src="auto" recommended="1">NNNXX-----A----</AM>
+<AM lemma="Colgate_;K_;R" src="manual" selected="1">NNNXX-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj2008-001-p1s9W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2846,7 +2895,10 @@
 <LM>w#w-wsj2008-001-p1s9W16</LM>
 </w.rf>
 <form>Fab</form>
-<tag lemma="Fab" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Fab" src="auto">X@-------------</AM>
+<AM lemma="Fab_;R" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj2008-001-p1s9W17-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2916,7 +2968,7 @@
 </w.rf>
 <form>Ajax</form>
 <tag>
-<AM lemma="Ajax-1_;K_;R" src="auto">NNIS1-----A----</AM>
+<AM lemma="Ajax-1_;K_;R" src="auto" selected="1">NNIS1-----A----</AM>
 <AM lemma="Ajax-1_;K_;R" src="auto">NNIS4-----A----</AM>
 <AM lemma="Ajax-2_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
 </tag>
@@ -3071,7 +3123,10 @@
 <LM>w#w-wsj2008-001-p1s10W7</LM>
 </w.rf>
 <form>Colgate</form>
-<tag lemma="Colgate_;K_,t" src="auto" recommended="1">NNNXX-----A----</tag>
+<tag>
+<AM lemma="Colgate_;K_,t" src="auto" recommended="1">NNNXX-----A----</AM>
+<AM lemma="Colgate_;K_;R" src="manual" selected="1">NNNXX-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj2008-001-p1s10W8-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3154,7 +3209,10 @@
 <LM>w#w-wsj2008-001-p1s10W14</LM>
 </w.rf>
 <form>USA</form>
-<tag lemma="USA_:B_;G_^(United_States_ofmerica)" src="auto" recommended="1">NNXXX-----A----</tag>
+<tag>
+<AM lemma="USA_:B_;G_^(United_States_ofmerica)" src="auto" recommended="1">NNXXX-----A----</AM>
+<AM lemma="USA_:B_;G_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj2008-001-p1s10W15-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3210,7 +3268,7 @@
 </w.rf>
 <form>slabé</form>
 <tag>
-<AM lemma="slabý" src="auto">AAFP1----1A----</AM>
+<AM lemma="slabý" src="auto" selected="1">AAFP1----1A----</AM>
 <AM lemma="slabý" src="auto">AAFP4----1A----</AM>
 <AM lemma="slabý" src="auto">AAFP5----1A----</AM>
 <AM lemma="slabý" src="auto">AAFS2----1A----</AM>
@@ -3477,7 +3535,10 @@
 <LM>w#w-wsj2008-001-p1s11W10</LM>
 </w.rf>
 <form>USA</form>
-<tag lemma="USA_:B_;G_^(United_States_ofmerica)" src="auto" recommended="1">NNXXX-----A----</tag>
+<tag>
+<AM lemma="USA_:B_;G_^(United_States_ofmerica)" src="auto" recommended="1">NNXXX-----A----</AM>
+<AM lemma="USA_:B_;G_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj2008-001-p1s11W11-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3685,6 +3746,7 @@
 <AM lemma="Bonito-1_;S" src="auto">NNMS4-----A----</AM>
 <AM lemma="Bonito-2_;K" src="auto">NNNS2-----A----</AM>
 <AM lemma="bonita" src="auto" recommended="1">NNFS1-----A----</AM>
+<AM lemma="Bonita-3_;Y" src="manual" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2008-001-p1s11W27-Ta">
@@ -3739,6 +3801,7 @@
 <tag>
 <AM lemma="Wertheim_;G" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Wertheim_;G" src="auto">NNIS4-----A----</AM>
+<AM lemma="Wertheim-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj2008-001-p1s11W32-Ta">
@@ -3747,7 +3810,10 @@
 <LM>w#w-wsj2008-001-p1s11W32</LM>
 </w.rf>
 <form>Schroder</form>
-<tag lemma="Schroder" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Schroder" src="auto">X@-------------</AM>
+<AM lemma="Schroder-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj2008-001-p1s11W33-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3771,6 +3837,7 @@
 <AM lemma="co-4_^(který:_př.:_o_těch,_co_odešli/co_je_znal)" src="auto">P4XXX----------</AM>
 <AM lemma="co-5_^(př._co_nejméně,_co_nevidět,_co_chvíli,_co_do_počtu,_atd.)" src="auto">Db-------------</AM>
 <AM lemma="co-77_:B" src="auto">F%-------------</AM>
+<AM lemma="Co-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj2008-001-p1s11W35-Ta">
@@ -3843,7 +3910,7 @@
 <AM lemma="průměrný" src="auto">AAIP1----1A---6</AM>
 <AM lemma="průměrný" src="auto">AAIP4----1A---6</AM>
 <AM lemma="průměrný" src="auto">AAIP5----1A---6</AM>
-<AM lemma="průměrný" src="auto">AAIS1----1A----</AM>
+<AM lemma="průměrný" src="auto" selected="1">AAIS1----1A----</AM>
 <AM lemma="průměrný" src="auto">AAIS4----1A----</AM>
 <AM lemma="průměrný" src="auto">AAIS5----1A----</AM>
 <AM lemma="průměrný" src="auto">AAMP1----1A---6</AM>
@@ -3966,7 +4033,10 @@
 <LM>w#w-wsj2008-001-p1s13W1</LM>
 </w.rf>
 <form>Mark</form>
-<tag lemma="Mark_;Y" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Mark_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Mark_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj2008-001-p1s13W2-Ta">
 <src.rf>tagger-a</src.rf>
@@ -4079,7 +4149,10 @@
 <LM>w#w-wsj2008-001-p1s13W8</LM>
 </w.rf>
 <form>Colgate</form>
-<tag lemma="Colgate_;K_,t" src="auto" recommended="1">NNNXX-----A----</tag>
+<tag>
+<AM lemma="Colgate_;K_,t" src="auto" recommended="1">NNNXX-----A----</AM>
+<AM lemma="Colgate_;K_;R" src="manual" selected="1">NNNXX-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj2008-001-p1s13W9-Ta">
 <src.rf>tagger-a</src.rf>
@@ -4145,7 +4218,7 @@
 <AM lemma="ziskový" src="auto">AAFP1----1A----</AM>
 <AM lemma="ziskový" src="auto" recommended="1">AAFP4----1A----</AM>
 <AM lemma="ziskový" src="auto">AAFP5----1A----</AM>
-<AM lemma="ziskový" src="auto">AAFS2----1A----</AM>
+<AM lemma="ziskový" src="auto" selected="1">AAFS2----1A----</AM>
 <AM lemma="ziskový" src="auto">AAFS3----1A----</AM>
 <AM lemma="ziskový" src="auto">AAFS6----1A----</AM>
 <AM lemma="ziskový" src="auto">AAIP1----1A----</AM>
@@ -4170,7 +4243,7 @@
 <AM lemma="jednotka" src="auto">NNFP1-----A----</AM>
 <AM lemma="jednotka" src="auto" recommended="1">NNFP4-----A----</AM>
 <AM lemma="jednotka" src="auto">NNFP5-----A----</AM>
-<AM lemma="jednotka" src="auto">NNFS2-----A----</AM>
+<AM lemma="jednotka" src="auto" selected="1">NNFS2-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2008-001-p1s13W15-Ta">
@@ -4179,7 +4252,10 @@
 <LM>w#w-wsj2008-001-p1s13W15</LM>
 </w.rf>
 <form>Hill</form>
-<tag lemma="Hill_;S" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Hill_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Hill-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj2008-001-p1s13W16-Ta">
 <src.rf>tagger-a</src.rf>
@@ -4208,6 +4284,7 @@
 <AM lemma="společnost_:B" src="auto">NNFXX-----A---8</AM>
 <AM lemma="strana" src="auto">NNFXX-----A---8</AM>
 <AM lemma="státní_:B" src="auto">AAXXX----1A---8</AM>
+<AM lemma="s-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj2008-001-p1s13W18-Ta">
@@ -4220,6 +4297,7 @@
 <AM lemma="Peto_;G" src="auto">NNNP2-----A----</AM>
 <AM lemma="pet-99_:B_;S" src="auto" recommended="1">NNXXX-----A----</AM>
 <AM lemma="pet_,t" src="auto">AAXXX----1A---8</AM>
+<AM lemma="Pet-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj2008-001-p1s13W19-Ta">
@@ -4228,7 +4306,10 @@
 <LM>w#w-wsj2008-001-p1s13W19</LM>
 </w.rf>
 <form>Products</form>
-<tag lemma="Products" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Products" src="auto">X@-------------</AM>
+<AM lemma="Products-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj2008-001-p1s13W20-Ta">
 <src.rf>tagger-a</src.rf>
@@ -4325,7 +4406,10 @@
 <LM>w#w-wsj2008-001-p1s14W7</LM>
 </w.rf>
 <form>USA</form>
-<tag lemma="USA_:B_;G_^(United_States_ofmerica)" src="auto" recommended="1">NNXXX-----A----</tag>
+<tag>
+<AM lemma="USA_:B_;G_^(United_States_ofmerica)" src="auto" recommended="1">NNXXX-----A----</AM>
+<AM lemma="USA_:B_;G_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj2008-001-p1s14W8-Ta">
 <src.rf>tagger-a</src.rf>
@@ -4393,7 +4477,7 @@
 <form>ještě</form>
 <tag>
 <AM lemma="ještě-1" src="auto" recommended="1">Db-------------</AM>
-<AM lemma="ještě-2" src="auto">TT-------------</AM>
+<AM lemma="ještě-2" src="auto" selected="1">TT-------------</AM>
 </tag>
 </m>
 <m id="m-wsj2008-001-p1s14W15-Ta">
@@ -4434,7 +4518,10 @@
 <LM>w#w-wsj2008-001-p1s14W19</LM>
 </w.rf>
 <form>Mark</form>
-<tag lemma="Mark_;Y" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Mark_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Mark_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj2008-001-p1s14W20-Ta">
 <src.rf>tagger-a</src.rf>
@@ -4522,7 +4609,10 @@
 <LM>w#w-wsj2008-001-p1s15W6</LM>
 </w.rf>
 <form>USA</form>
-<tag lemma="USA_:B_;G_^(United_States_ofmerica)" src="auto" recommended="1">NNXXX-----A----</tag>
+<tag>
+<AM lemma="USA_:B_;G_^(United_States_ofmerica)" src="auto" recommended="1">NNXXX-----A----</AM>
+<AM lemma="USA_:B_;G_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj2008-001-p1s15W7-Ta">
 <src.rf>tagger-a</src.rf>
@@ -4772,7 +4862,10 @@
 <LM>w#w-wsj2008-001-p1s16W12</LM>
 </w.rf>
 <form>Colgate</form>
-<tag lemma="Colgate_;K_,t" src="auto" recommended="1">NNNXX-----A----</tag>
+<tag>
+<AM lemma="Colgate_;K_,t" src="auto" recommended="1">NNNXX-----A----</AM>
+<AM lemma="Colgate_;K_;R" src="manual" selected="1">NNNXX-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj2008-001-p1s16W13-Ta">
 <src.rf>tagger-a</src.rf>
@@ -4875,7 +4968,10 @@
 <LM>w#w-wsj2008-001-p1s16W22</LM>
 </w.rf>
 <form>Kendall</form>
-<tag lemma="Kendall_;S" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Kendall_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Kendall_;K" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj2008-001-p1s16W23-Ta">
 <src.rf>tagger-a</src.rf>

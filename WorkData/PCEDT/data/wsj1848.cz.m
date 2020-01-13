@@ -27,6 +27,7 @@
 <AM lemma="rand" src="auto">NNIP4-----A----</AM>
 <AM lemma="rand" src="auto">NNIP5-----A----</AM>
 <AM lemma="rand" src="auto">NNIP7-----A----</AM>
+<AM lemma="Randy_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1848-001-p1s0W2-Ta">
@@ -35,7 +36,10 @@
 <LM>w#w-wsj1848-001-p1s0W2</LM>
 </w.rf>
 <form>Delchamps</form>
-<tag lemma="Delchamps" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Delchamps" src="auto">X@-------------</AM>
+<AM lemma="Delchamps_;S" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj1848-001-p1s0W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -226,7 +230,10 @@
 <LM>w#w-wsj1848-001-p1s1W2</LM>
 </w.rf>
 <form>Delchamps</form>
-<tag lemma="Delchamps" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Delchamps" src="auto">X@-------------</AM>
+<AM lemma="Delchamps_;S" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj1848-001-p1s1W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -315,7 +322,10 @@
 <LM>w#w-wsj1848-001-p1s1W10</LM>
 </w.rf>
 <form>Delchampse</form>
-<tag lemma="Delchampse" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Delchampse" src="auto">X@-------------</AM>
+<AM lemma="Delchamps_;S" src="manual" selected="1">NNMS4-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj1848-001-p1s1W11-Ta">
 <src.rf>tagger-a</src.rf>
@@ -323,7 +333,10 @@
 <LM>w#w-wsj1848-001-p1s1W11</LM>
 </w.rf>
 <form>jr</form>
-<tag lemma="jr-88_:B_^(junior)" src="auto" recommended="1">NNXXX-----A----</tag>
+<tag>
+<AM lemma="jr-88_:B_^(junior)" src="auto" recommended="1">NNXXX-----A----</AM>
+<AM lemma="junior" src="manual" selected="1">NNMXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-wsj1848-001-p1s1W12-Ta">
 <src.rf>tagger-a</src.rf>
@@ -516,6 +529,7 @@
 <AM lemma="rand" src="auto">NNIP4-----A----</AM>
 <AM lemma="rand" src="auto">NNIP5-----A----</AM>
 <AM lemma="rand" src="auto">NNIP7-----A----</AM>
+<AM lemma="Randy_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1848-001-p1s2W2-Ta">
@@ -524,7 +538,10 @@
 <LM>w#w-wsj1848-001-p1s2W2</LM>
 </w.rf>
 <form>Delchamps</form>
-<tag lemma="Delchamps" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Delchamps" src="auto">X@-------------</AM>
+<AM lemma="Delchamps_;S" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj1848-001-p1s2W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -542,7 +559,7 @@
 <form>i</form>
 <tag>
 <AM lemma="i-1" src="auto" recommended="1">J^-------------</AM>
-<AM lemma="i-2" src="auto">TT-------------</AM>
+<AM lemma="i-2" src="auto" selected="1">TT-------------</AM>
 <AM lemma="i-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
 <AM lemma="i-88_:B" src="auto">NNXXX-----A----</AM>
 </tag>

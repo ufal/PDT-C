@@ -29,7 +29,10 @@
 <LM>w#w-wsj0318-001-p1s0W2</LM>
 </w.rf>
 <form>Lyphomed</form>
-<tag lemma="Lyphomed" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Lyphomed" src="auto">X@-------------</AM>
+<AM lemma="Lyphomed-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0318-001-p1s0W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -40,6 +43,7 @@
 <tag>
 <AM lemma="Inc-77_:B" src="auto" recommended="1">F%-------------</AM>
 <AM lemma="inc-77_:B" src="auto">F%-------------</AM>
+<AM lemma="Inc-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj0318-001-p1s0W4-Ta">
@@ -68,7 +72,10 @@
 <LM>w#w-wsj0318-001-p1s0W6</LM>
 </w.rf>
 <form>Rosemontu</form>
-<tag lemma="Rosemontu" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Rosemontu" src="auto">X@-------------</AM>
+<AM lemma="Rosemont_;G" src="manual" selected="1">NNIS2-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj0318-001-p1s0W7-Ta">
 <src.rf>tagger-a</src.rf>
@@ -90,7 +97,10 @@
 <LM>w#w-wsj0318-001-p1s0W8</LM>
 </w.rf>
 <form>Illionisu</form>
-<tag lemma="Illionisu" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Illionisu" src="auto">X@-------------</AM>
+<AM lemma="Illionis_;G" src="manual" selected="1">NNIS6-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj0318-001-p1s0W9-Ta">
 <src.rf>tagger-a</src.rf>
@@ -112,7 +122,10 @@
 <LM>w#w-wsj0318-001-p1s0W10</LM>
 </w.rf>
 <form>Medco</form>
-<tag lemma="Medco" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Medco" src="auto">X@-------------</AM>
+<AM lemma="Medco-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0318-001-p1s0W11-Ta">
 <src.rf>tagger-a</src.rf>
@@ -120,7 +133,10 @@
 <LM>w#w-wsj0318-001-p1s0W11</LM>
 </w.rf>
 <form>Research</form>
-<tag lemma="Research-1_;K_,t_^(souč._názvů,_např._IBM_Research)" src="auto" recommended="1">NNISX-----A----</tag>
+<tag>
+<AM lemma="Research-1_;K_,t_^(souč._názvů,_např._IBM_Research)" src="auto" recommended="1">NNISX-----A----</AM>
+<AM lemma="Research-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0318-001-p1s0W12-Ta">
 <src.rf>tagger-a</src.rf>
@@ -131,6 +147,7 @@
 <tag>
 <AM lemma="Inc-77_:B" src="auto" recommended="1">F%-------------</AM>
 <AM lemma="inc-77_:B" src="auto">F%-------------</AM>
+<AM lemma="Inc-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj0318-001-p1s0W13-Ta">
@@ -662,7 +679,10 @@
 <LM>w#w-wsj0318-001-p1s1W7</LM>
 </w.rf>
 <form>supraventrikulární</form>
-<tag lemma="supraventrikulární" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="supraventrikulární" src="auto">X@-------------</AM>
+<AM lemma="supraventrikulární" src="manual" selected="1">AANS1----1A----</AM>
+</tag>
 </m>
 <m id="m-wsj0318-001-p1s1W8-Ta">
 <src.rf>tagger-a</src.rf>
@@ -996,6 +1016,11 @@
 </w.rf>
 <form>adenocard</form>
 <tag lemma="adenocard" src="auto">X@-------------</tag>
+<comment>
+<LM type="New Form">
+<text>Adenocard</text>
+</LM>
+</comment>
 </m>
 <m id="m-wsj0318-001-p1s3W5-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1024,7 +1049,7 @@
 <form>srdci</form>
 <tag>
 <AM lemma="srdce" src="auto" recommended="1">NNNP7-----A----</AM>
-<AM lemma="srdce" src="auto">NNNS3-----A----</AM>
+<AM lemma="srdce" src="auto" selected="1">NNNS3-----A----</AM>
 <AM lemma="srdce" src="auto">NNNS6-----A----</AM>
 </tag>
 </m>
@@ -1049,7 +1074,7 @@
 <AM lemma="normální" src="auto">AAIP4----1A----</AM>
 <AM lemma="normální" src="auto">AAIP5----1A----</AM>
 <AM lemma="normální" src="auto" recommended="1">AAIS1----1A----</AM>
-<AM lemma="normální" src="auto">AAIS4----1A----</AM>
+<AM lemma="normální" src="auto" selected="1">AAIS4----1A----</AM>
 <AM lemma="normální" src="auto">AAIS5----1A----</AM>
 <AM lemma="normální" src="auto">AAMP1----1A----</AM>
 <AM lemma="normální" src="auto">AAMP4----1A----</AM>
@@ -1072,7 +1097,7 @@
 <form>rytmus</form>
 <tag>
 <AM lemma="rytmus" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="rytmus" src="auto">NNIS4-----A----</AM>
+<AM lemma="rytmus" src="auto" selected="1">NNIS4-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0318-001-p1s3W10-Ta">
@@ -1110,7 +1135,10 @@
 <LM>w#w-wsj0318-001-p1s3W13</LM>
 </w.rf>
 <form>Lyphomed</form>
-<tag lemma="Lyphomed" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Lyphomed" src="auto">X@-------------</AM>
+<AM lemma="Lyphomed_;K" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj0318-001-p1s3W14-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1136,7 +1164,10 @@
 <LM>w#w-wsj0318-001-p1s4W2</LM>
 </w.rf>
 <form>Medco</form>
-<tag lemma="Medco" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Medco" src="auto">X@-------------</AM>
+<AM lemma="Medco-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0318-001-p1s4W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1144,7 +1175,10 @@
 <LM>w#w-wsj0318-001-p1s4W3</LM>
 </w.rf>
 <form>Research</form>
-<tag lemma="Research-1_;K_,t_^(souč._názvů,_např._IBM_Research)" src="auto" recommended="1">NNISX-----A----</tag>
+<tag>
+<AM lemma="Research-1_;K_,t_^(souč._názvů,_např._IBM_Research)" src="auto" recommended="1">NNISX-----A----</AM>
+<AM lemma="Research-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0318-001-p1s4W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1212,7 +1246,10 @@
 <LM>w#w-wsj0318-001-p1s4W10</LM>
 </w.rf>
 <form>Lyphomed</form>
-<tag lemma="Lyphomed" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Lyphomed" src="auto">X@-------------</AM>
+<AM lemma="Lyphomed_;K" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj0318-001-p1s4W11-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1273,7 +1310,10 @@
 <LM>w#w-wsj0318-001-p1s4W15</LM>
 </w.rf>
 <form>USA</form>
-<tag lemma="USA_:B_;G_^(United_States_ofmerica)" src="auto" recommended="1">NNXXX-----A----</tag>
+<tag>
+<AM lemma="USA_:B_;G_^(United_States_ofmerica)" src="auto" recommended="1">NNXXX-----A----</AM>
+<AM lemma="USA_:B_;G_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj0318-001-p1s4W16-Ta">
 <src.rf>tagger-a</src.rf>

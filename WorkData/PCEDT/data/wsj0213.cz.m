@@ -50,7 +50,10 @@
 <LM>w#w-wsj0213-001-p1s0W4</LM>
 </w.rf>
 <form>Conlon</form>
-<tag lemma="Conlon" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Conlon" src="auto">X@-------------</AM>
+<AM lemma="Conlon_;S" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj0213-001-p1s0W5-Ta">
 <src.rf>tagger-a</src.rf>
@@ -61,6 +64,7 @@
 <tag>
 <AM lemma="mililitr" src="auto">NNIXX-----A---8</AM>
 <AM lemma="mladý_:B" src="auto" recommended="1">AAXXX----2A---8</AM>
+<AM lemma="mladý" src="manual" selected="1">AAXXX----2A---b</AM>
 </tag>
 </m>
 <m id="m-wsj0213-001-p1s0W6-Ta">
@@ -475,7 +479,10 @@
 <LM>w#w-wsj0213-001-p1s2W1</LM>
 </w.rf>
 <form>Conlon</form>
-<tag lemma="Conlon" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Conlon" src="auto">X@-------------</AM>
+<AM lemma="Conlon_;S" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj0213-001-p1s2W2-Ta">
 <src.rf>tagger-a</src.rf>
@@ -662,6 +669,7 @@
 <AM lemma="Nikko_;G" src="auto" recommended="1">NNNS1-----A----</AM>
 <AM lemma="Nikko_;G" src="auto">NNNS4-----A----</AM>
 <AM lemma="Nikko_;G" src="auto">NNNS5-----A----</AM>
+<AM lemma="Nikko-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj0213-001-p1s2W13-Ta">
@@ -670,7 +678,10 @@
 <LM>w#w-wsj0213-001-p1s2W13</LM>
 </w.rf>
 <form>Securities</form>
-<tag lemma="Securities" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Securities" src="auto">X@-------------</AM>
+<AM lemma="Securities-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0213-001-p1s2W14-Ta">
 <src.rf>tagger-a</src.rf>
@@ -686,6 +697,7 @@
 <AM lemma="co-4_^(který:_př.:_o_těch,_co_odešli/co_je_znal)" src="auto">P4XXX----------</AM>
 <AM lemma="co-5_^(př._co_nejméně,_co_nevidět,_co_chvíli,_co_do_počtu,_atd.)" src="auto">Db-------------</AM>
 <AM lemma="co-77_:B" src="auto">F%-------------</AM>
+<AM lemma="Co-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj0213-001-p1s2W15-Ta">

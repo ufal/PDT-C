@@ -41,6 +41,11 @@
 <AM lemma="44letý" src="auto">AANS4----1A---6</AM>
 <AM lemma="44letý" src="auto">AANS5----1A---6</AM>
 </tag>
+<comment>
+<LM type="Other">
+<text>špatná tokenizace</text>
+</LM>
+</comment>
 </m>
 <m id="m-wsj0226-001-p1s0W2-Ta">
 <src.rf>tagger-a</src.rf>
@@ -128,6 +133,7 @@
 <AM lemma="El_;K" src="auto" recommended="1">AAXXX----1A----</AM>
 <AM lemma="el-77_,t" src="auto">F%-------------</AM>
 <AM lemma="elektrický_:B" src="auto">AAXXX----1A---8</AM>
+<AM lemma="El-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj0226-001-p1s0W10-Ta">
@@ -143,6 +149,7 @@
 <AM lemma="paso_,t_^(passo_doble)" src="auto">NNNS1-----A----</AM>
 <AM lemma="paso_,t_^(passo_doble)" src="auto">NNNS4-----A----</AM>
 <AM lemma="paso_,t_^(passo_doble)" src="auto">NNNS5-----A----</AM>
+<AM lemma="Paso-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj0226-001-p1s0W11-Ta">
@@ -156,6 +163,7 @@
 <AM lemma="Natural_,t" src="auto">NNIS4-----A----</AM>
 <AM lemma="natural-1_;R" src="auto">NNIS1-----A----</AM>
 <AM lemma="natural-1_;R" src="auto">NNIS4-----A----</AM>
+<AM lemma="Natural-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj0226-001-p1s0W12-Ta">
@@ -164,7 +172,10 @@
 <LM>w#w-wsj0226-001-p1s0W12</LM>
 </w.rf>
 <form>Gas</form>
-<tag lemma="Gas" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Gas" src="auto">X@-------------</AM>
+<AM lemma="Gas-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0226-001-p1s0W13-Ta">
 <src.rf>tagger-a</src.rf>
@@ -180,6 +191,7 @@
 <AM lemma="co-4_^(který:_př.:_o_těch,_co_odešli/co_je_znal)" src="auto">P4XXX----------</AM>
 <AM lemma="co-5_^(př._co_nejméně,_co_nevidět,_co_chvíli,_co_do_počtu,_atd.)" src="auto">Db-------------</AM>
 <AM lemma="co-77_:B" src="auto">F%-------------</AM>
+<AM lemma="Co-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj0226-001-p1s0W14-Ta">
@@ -449,7 +461,7 @@
 <tag>
 <AM lemma="taka-1_;L" src="auto">NNFP2-----A----</AM>
 <AM lemma="tak-1" src="auto">TT-------------</AM>
-<AM lemma="tak-2" src="auto">J^-------------</AM>
+<AM lemma="tak-2" src="auto" selected="1">J^-------------</AM>
 <AM lemma="tak-3" src="auto" recommended="1">Db-------------</AM>
 </tag>
 </m>
@@ -463,6 +475,7 @@
 <AM lemma="Travis_;S" src="auto">NNMP4-----A----</AM>
 <AM lemma="Travis_;S" src="auto">NNMS2-----A----</AM>
 <AM lemma="Travis_;S" src="auto" recommended="1">NNMS4-----A----</AM>
+<AM lemma="Travis_;S_;Y" src="manual" selected="1">NNMS4-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0226-001-p1s0W36-Ta">
@@ -496,7 +509,7 @@
 <form>Pettyho</form>
 <tag>
 <AM lemma="Petty_;S" src="auto" recommended="1">NNMS2-----A----</AM>
-<AM lemma="Petty_;S" src="auto">NNMS4-----A----</AM>
+<AM lemma="Petty_;S" src="auto" selected="1">NNMS4-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0226-001-p1s0W39-Ta">

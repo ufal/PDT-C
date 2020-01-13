@@ -27,6 +27,7 @@
 <tag>
 <AM lemma="analog" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="analog" src="auto">NNIS4-----A----</AM>
+<AM lemma="Analog-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj0507-001-p1s0W3-Ta">
@@ -35,7 +36,10 @@
 <LM>w#w-wsj0507-001-p1s0W3</LM>
 </w.rf>
 <form>Devices</form>
-<tag lemma="Devices" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Devices" src="auto">X@-------------</AM>
+<AM lemma="Devices-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0507-001-p1s0W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -46,6 +50,7 @@
 <tag>
 <AM lemma="Inc-77_:B" src="auto" recommended="1">F%-------------</AM>
 <AM lemma="inc-77_:B" src="auto">F%-------------</AM>
+<AM lemma="Inc-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj0507-001-p1s0W5-Ta">
@@ -254,6 +259,7 @@
 <tag>
 <AM lemma="analog" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="analog" src="auto">NNIS4-----A----</AM>
+<AM lemma="Analog_;K" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0507-001-p1s1W3-Ta">
@@ -399,7 +405,7 @@
 <AM lemma="oznámený_^(*3it)" src="auto">AAIP1----1A---6</AM>
 <AM lemma="oznámený_^(*3it)" src="auto">AAIP4----1A---6</AM>
 <AM lemma="oznámený_^(*3it)" src="auto">AAIP5----1A---6</AM>
-<AM lemma="oznámený_^(*3it)" src="auto">AAIS1----1A----</AM>
+<AM lemma="oznámený_^(*3it)" src="auto" selected="1">AAIS1----1A----</AM>
 <AM lemma="oznámený_^(*3it)" src="auto" recommended="1">AAIS4----1A----</AM>
 <AM lemma="oznámený_^(*3it)" src="auto">AAIS5----1A----</AM>
 <AM lemma="oznámený_^(*3it)" src="auto">AAMP1----1A---6</AM>
@@ -936,6 +942,7 @@
 <tag>
 <AM lemma="analog" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="analog" src="auto">NNIS4-----A----</AM>
+<AM lemma="Analog-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj0507-001-p1s3W12-Ta">
@@ -944,7 +951,10 @@
 <LM>w#w-wsj0507-001-p1s3W12</LM>
 </w.rf>
 <form>Devices</form>
-<tag lemma="Devices" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Devices" src="auto">X@-------------</AM>
+<AM lemma="Devices-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0507-001-p1s3W13-Ta">
 <src.rf>tagger-a</src.rf>
@@ -962,7 +972,7 @@
 <form>na</form>
 <tag>
 <AM lemma="na-1" src="auto" recommended="1">RR--4----------</AM>
-<AM lemma="na-1" src="auto">RR--6----------</AM>
+<AM lemma="na-1" src="auto" selected="1">RR--6----------</AM>
 <AM lemma="na-2" src="auto">II-------------</AM>
 </tag>
 </m>

@@ -142,7 +142,7 @@
 <AM lemma="spravedlivý" src="auto">AAIP1----1A---6</AM>
 <AM lemma="spravedlivý" src="auto">AAIP4----1A---6</AM>
 <AM lemma="spravedlivý" src="auto">AAIP5----1A---6</AM>
-<AM lemma="spravedlivý" src="auto">AAIS1----1A----</AM>
+<AM lemma="spravedlivý" src="auto" selected="1">AAIS1----1A----</AM>
 <AM lemma="spravedlivý" src="auto">AAIS4----1A----</AM>
 <AM lemma="spravedlivý" src="auto">AAIS5----1A----</AM>
 <AM lemma="spravedlivý" src="auto">AAMP1----1A---6</AM>
@@ -386,7 +386,10 @@
 <LM>w#w-wsj2401-001-p1s2W2</LM>
 </w.rf>
 <form>Rollin</form>
-<tag lemma="Rollin_;S" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Rollin_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Rollin_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj2401-001-p1s2W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -731,7 +734,15 @@
 <LM>w#w-wsj2401-001-p1s5W2</LM>
 </w.rf>
 <form>C.E</form>
-<tag lemma="C.E" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="C.E" src="auto">X@-------------</AM>
+<AM lemma="C.E-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
+<comment>
+<LM type="Other">
+<text>špatná tokenizace</text>
+</LM>
+</comment>
 </m>
 <m id="m-wsj2401-001-p1s5W3-Ta">
 <src.rf>tagger-a</src.rf>

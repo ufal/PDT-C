@@ -37,7 +37,7 @@
 </w.rf>
 <form>divizi</form>
 <tag>
-<AM lemma="divize" src="auto">NNFS3-----A----</AM>
+<AM lemma="divize" src="auto" selected="1">NNFS3-----A----</AM>
 <AM lemma="divize" src="auto" recommended="1">NNFS4-----A----</AM>
 <AM lemma="divize" src="auto">NNFS6-----A----</AM>
 </tag>
@@ -48,7 +48,10 @@
 <LM>w#w-wsj1061-001-p1s0W4</LM>
 </w.rf>
 <form>Ingalls</form>
-<tag lemma="Ingalls" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Ingalls" src="auto">X@-------------</AM>
+<AM lemma="Ingalls-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1061-001-p1s0W5-Ta">
 <src.rf>tagger-a</src.rf>
@@ -56,7 +59,10 @@
 <LM>w#w-wsj1061-001-p1s0W5</LM>
 </w.rf>
 <form>Shipbuilding</form>
-<tag lemma="Shipbuilding" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Shipbuilding" src="auto">X@-------------</AM>
+<AM lemma="Shipbuilding-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1061-001-p1s0W6-Ta">
 <src.rf>tagger-a</src.rf>
@@ -80,7 +86,10 @@
 <LM>w#w-wsj1061-001-p1s0W7</LM>
 </w.rf>
 <form>Litton</form>
-<tag lemma="Litton" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Litton" src="auto">X@-------------</AM>
+<AM lemma="Litton-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1061-001-p1s0W8-Ta">
 <src.rf>tagger-a</src.rf>
@@ -88,7 +97,10 @@
 <LM>w#w-wsj1061-001-p1s0W8</LM>
 </w.rf>
 <form>Industries</form>
-<tag lemma="Industries" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Industries" src="auto">X@-------------</AM>
+<AM lemma="Industries-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1061-001-p1s0W9-Ta">
 <src.rf>tagger-a</src.rf>
@@ -99,6 +111,7 @@
 <tag>
 <AM lemma="Inc-77_:B" src="auto" recommended="1">F%-------------</AM>
 <AM lemma="inc-77_:B" src="auto">F%-------------</AM>
+<AM lemma="Inc-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1061-001-p1s0W10-Ta">
@@ -230,6 +243,7 @@
 <AM lemma="program-1" src="auto" recommended="1">NNIS2-----A----</AM>
 <AM lemma="program-1" src="auto">NNIS3-----A----</AM>
 <AM lemma="program-1" src="auto">NNIS6-----A----</AM>
+<AM lemma="program" src="manual" selected="1">NNIS2-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1061-001-p1s0W22-Ta">
@@ -246,7 +260,10 @@
 <LM>w#w-wsj1061-001-p1s0W23</LM>
 </w.rf>
 <form>Aegis</form>
-<tag lemma="Aegis" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Aegis" src="auto">X@-------------</AM>
+<AM lemma="Aegis_;R" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj1061-001-p1s0W24-Ta">
 <src.rf>tagger-a</src.rf>

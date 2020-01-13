@@ -32,6 +32,7 @@
 <AM lemma="Air_;K" src="auto">NNIS4-----A----</AM>
 <AM lemma="air" src="auto">NNIS1-----A----</AM>
 <AM lemma="air" src="auto">NNIS4-----A----</AM>
+<AM lemma="Air-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj0544-001-p1s0W3-Ta">
@@ -48,7 +49,10 @@
 <LM>w#w-wsj0544-001-p1s0W4</LM>
 </w.rf>
 <form>Water</form>
-<tag lemma="Water" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Water" src="auto">X@-------------</AM>
+<AM lemma="Water-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0544-001-p1s0W5-Ta">
 <src.rf>tagger-a</src.rf>
@@ -56,7 +60,10 @@
 <LM>w#w-wsj0544-001-p1s0W5</LM>
 </w.rf>
 <form>Technologies</form>
-<tag lemma="Technologies" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Technologies" src="auto">X@-------------</AM>
+<AM lemma="Technologies-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0544-001-p1s0W6-Ta">
 <src.rf>tagger-a</src.rf>
@@ -64,7 +71,10 @@
 <LM>w#w-wsj0544-001-p1s0W6</LM>
 </w.rf>
 <form>Corp</form>
-<tag lemma="corp-77_:B" src="auto" recommended="1">F%-------------</tag>
+<tag>
+<AM lemma="corp-77_:B" src="auto" recommended="1">F%-------------</AM>
+<AM lemma="Corp-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0544-001-p1s0W7-Ta">
 <src.rf>tagger-a</src.rf>
@@ -120,7 +130,10 @@
 <LM>w#w-wsj0544-001-p1s0W11</LM>
 </w.rf>
 <form>Falcon</form>
-<tag lemma="Falcon_;S" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Falcon_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Falcon-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0544-001-p1s0W12-Ta">
 <src.rf>tagger-a</src.rf>
@@ -128,7 +141,10 @@
 <LM>w#w-wsj0544-001-p1s0W12</LM>
 </w.rf>
 <form>Associates</form>
-<tag lemma="Associates" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Associates" src="auto">X@-------------</AM>
+<AM lemma="Associates-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0544-001-p1s0W13-Ta">
 <src.rf>tagger-a</src.rf>
@@ -139,6 +155,7 @@
 <tag>
 <AM lemma="Inc-77_:B" src="auto" recommended="1">F%-------------</AM>
 <AM lemma="inc-77_:B" src="auto">F%-------------</AM>
+<AM lemma="Inc-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj0544-001-p1s0W14-Ta">
@@ -232,7 +249,7 @@
 </w.rf>
 <form>koncernu</form>
 <tag>
-<AM lemma="koncern" src="auto">NNIS2-----A----</AM>
+<AM lemma="koncern" src="auto" selected="1">NNIS2-----A----</AM>
 <AM lemma="koncern" src="auto">NNIS3-----A----</AM>
 <AM lemma="koncern" src="auto" recommended="1">NNIS6-----A----</AM>
 </tag>
@@ -244,7 +261,7 @@
 </w.rf>
 <form>zabývajícího</form>
 <tag>
-<AM lemma="zabývající_^(*4t)" src="auto">AGIS2-----A----</AM>
+<AM lemma="zabývající_^(*4t)" src="auto" selected="1">AGIS2-----A----</AM>
 <AM lemma="zabývající_^(*4t)" src="auto" recommended="1">AGMS2-----A----</AM>
 <AM lemma="zabývající_^(*4t)" src="auto">AGMS4-----A----</AM>
 <AM lemma="zabývající_^(*4t)" src="auto">AGNS2-----A----</AM>
@@ -413,6 +430,7 @@
 <AM lemma="Air_;K" src="auto">NNIS4-----A----</AM>
 <AM lemma="air" src="auto">NNIS1-----A----</AM>
 <AM lemma="air" src="auto">NNIS4-----A----</AM>
+<AM lemma="Air-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj0544-001-p1s1W3-Ta">
@@ -429,7 +447,10 @@
 <LM>w#w-wsj0544-001-p1s1W4</LM>
 </w.rf>
 <form>Water</form>
-<tag lemma="Water" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Water" src="auto">X@-------------</AM>
+<AM lemma="Water-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0544-001-p1s1W5-Ta">
 <src.rf>tagger-a</src.rf>
@@ -566,7 +587,10 @@
 <LM>w#w-wsj0544-001-p1s1W16</LM>
 </w.rf>
 <form>Falcon</form>
-<tag lemma="Falcon_;S" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Falcon_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Falcon-2_;K" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj0544-001-p1s1W17-Ta">
 <src.rf>tagger-a</src.rf>
@@ -790,6 +814,7 @@
 <AM lemma="Air_;K" src="auto">NNIS4-----A----</AM>
 <AM lemma="air" src="auto">NNIS1-----A----</AM>
 <AM lemma="air" src="auto">NNIS4-----A----</AM>
+<AM lemma="Air-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj0544-001-p1s2W13-Ta">
@@ -806,7 +831,10 @@
 <LM>w#w-wsj0544-001-p1s2W14</LM>
 </w.rf>
 <form>Water</form>
-<tag lemma="Water" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Water" src="auto">X@-------------</AM>
+<AM lemma="Water-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0544-001-p1s2W15-Ta">
 <src.rf>tagger-a</src.rf>
@@ -840,7 +868,7 @@
 <form>na</form>
 <tag>
 <AM lemma="na-1" src="auto" recommended="1">RR--4----------</AM>
-<AM lemma="na-1" src="auto">RR--6----------</AM>
+<AM lemma="na-1" src="auto" selected="1">RR--6----------</AM>
 <AM lemma="na-2" src="auto">II-------------</AM>
 </tag>
 </m>
@@ -936,6 +964,7 @@
 <AM lemma="Air_;K" src="auto">NNIS4-----A----</AM>
 <AM lemma="air" src="auto">NNIS1-----A----</AM>
 <AM lemma="air" src="auto">NNIS4-----A----</AM>
+<AM lemma="Air-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj0544-001-p1s3W7-Ta">
@@ -952,7 +981,10 @@
 <LM>w#w-wsj0544-001-p1s3W8</LM>
 </w.rf>
 <form>Water</form>
-<tag lemma="Water" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Water" src="auto">X@-------------</AM>
+<AM lemma="Water-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0544-001-p1s3W9-Ta">
 <src.rf>tagger-a</src.rf>

@@ -27,7 +27,10 @@
 <LM>w#w-wsj1958-001-p1s0W2</LM>
 </w.rf>
 <form>Zurn</form>
-<tag lemma="Zurn" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Zurn" src="auto">X@-------------</AM>
+<AM lemma="Zurn-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1958-001-p1s0W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -35,7 +38,10 @@
 <LM>w#w-wsj1958-001-p1s0W3</LM>
 </w.rf>
 <form>Industries</form>
-<tag lemma="Industries" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Industries" src="auto">X@-------------</AM>
+<AM lemma="Industries-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1958-001-p1s0W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -46,6 +52,7 @@
 <tag>
 <AM lemma="Inc-77_:B" src="auto" recommended="1">F%-------------</AM>
 <AM lemma="inc-77_:B" src="auto">F%-------------</AM>
+<AM lemma="Inc-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1958-001-p1s0W5-Ta">
@@ -315,7 +322,7 @@
 </w.rf>
 <form>patří</form>
 <tag>
-<AM lemma="patřit" src="auto">VB-P---3P-AAI--</AM>
+<AM lemma="patřit" src="auto" selected="1">VB-P---3P-AAI--</AM>
 <AM lemma="patřit" src="auto" recommended="1">VB-S---3P-AAI--</AM>
 </tag>
 </m>
@@ -420,7 +427,10 @@
 <LM>w#w-wsj1958-001-p1s1W13</LM>
 </w.rf>
 <form>Ada</form>
-<tag lemma="Ada_;R" src="auto" recommended="1">NNFS1-----A----</tag>
+<tag>
+<AM lemma="Ada_;R" src="auto" recommended="1">NNFS1-----A----</AM>
+<AM lemma="Ada-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1958-001-p1s1W14-Ta">
 <src.rf>tagger-a</src.rf>
@@ -428,7 +438,10 @@
 <LM>w#w-wsj1958-001-p1s1W14</LM>
 </w.rf>
 <form>Cogeneration</form>
-<tag lemma="Cogeneration" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Cogeneration" src="auto">X@-------------</AM>
+<AM lemma="Cogeneration-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1958-001-p1s1W15-Ta">
 <src.rf>tagger-a</src.rf>
@@ -507,7 +520,10 @@
 <LM>w#w-wsj1958-001-p1s1W21</LM>
 </w.rf>
 <form>Ada</form>
-<tag lemma="Ada_;R" src="auto" recommended="1">NNFS1-----A----</tag>
+<tag>
+<AM lemma="Ada_;R" src="auto" recommended="1">NNFS1-----A----</AM>
+<AM lemma="Ada_;G_;R" src="manual" selected="1">NNFS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj1958-001-p1s1W22-Ta">
 <src.rf>tagger-a</src.rf>
@@ -688,7 +704,10 @@
 <LM>w#w-wsj1958-001-p1s1W35</LM>
 </w.rf>
 <form>Zurn</form>
-<tag lemma="Zurn" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Zurn" src="auto">X@-------------</AM>
+<AM lemma="Zurn_;K" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj1958-001-p1s1W36-Ta">
 <src.rf>tagger-a</src.rf>
@@ -749,7 +768,7 @@
 </w.rf>
 <form>dva</form>
 <tag>
-<AM lemma="dva`2" src="auto">ClYP1----------</AM>
+<AM lemma="dva`2" src="auto" selected="1">ClYP1----------</AM>
 <AM lemma="dva`2" src="auto" recommended="1">ClYP4----------</AM>
 <AM lemma="dva`2" src="auto">ClYP5----------</AM>
 </tag>
@@ -761,7 +780,7 @@
 </w.rf>
 <form>projekty</form>
 <tag>
-<AM lemma="projekt" src="auto">NNIP1-----A----</AM>
+<AM lemma="projekt" src="auto" selected="1">NNIP1-----A----</AM>
 <AM lemma="projekt" src="auto" recommended="1">NNIP4-----A----</AM>
 <AM lemma="projekt" src="auto">NNIP5-----A----</AM>
 <AM lemma="projekt" src="auto">NNIP7-----A----</AM>
@@ -859,7 +878,10 @@
 <LM>w#w-wsj1958-001-p1s1W49</LM>
 </w.rf>
 <form>Orange</form>
-<tag lemma="Orange_;G" src="auto" recommended="1">NNNXX-----A----</tag>
+<tag>
+<AM lemma="Orange_;G" src="auto" recommended="1">NNNXX-----A----</AM>
+<AM lemma="Orange-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1958-001-p1s1W50-Ta">
 <src.rf>tagger-a</src.rf>
@@ -870,6 +892,7 @@
 <tag>
 <AM lemma="Count_;Y" src="auto" recommended="1">NNMP4-----A----</AM>
 <AM lemma="Count_;Y" src="auto">NNMP7-----A----</AM>
+<AM lemma="County-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1958-001-p1s1W51-Ta">

@@ -527,7 +527,10 @@
 <LM>w#w-wsj2050-001-p1s1W9</LM>
 </w.rf>
 <form>šestadvacetitýdenní</form>
-<tag lemma="šestadvacetitýdenní" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="šestadvacetitýdenní" src="auto">X@-------------</AM>
+<AM lemma="šestadvacetitýdenní" src="manual" selected="1">AAFP4----1A----</AM>
+</tag>
 </m>
 <m id="m-wsj2050-001-p1s1W10-Ta">
 <src.rf>tagger-a</src.rf>

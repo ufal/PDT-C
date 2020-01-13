@@ -27,7 +27,7 @@
 <AM lemma="obchodní" src="auto">AAFS5----1A----</AM>
 <AM lemma="obchodní" src="auto">AAFS6----1A----</AM>
 <AM lemma="obchodní" src="auto">AAFS7----1A----</AM>
-<AM lemma="obchodní" src="auto">AAIP1----1A----</AM>
+<AM lemma="obchodní" src="auto" selected="1">AAIP1----1A----</AM>
 <AM lemma="obchodní" src="auto" recommended="1">AAIP4----1A----</AM>
 <AM lemma="obchodní" src="auto">AAIP5----1A----</AM>
 <AM lemma="obchodní" src="auto">AAIS1----1A----</AM>
@@ -53,7 +53,7 @@
 </w.rf>
 <form>přebytky</form>
 <tag>
-<AM lemma="přebytek" src="auto">NNIP1-----A----</AM>
+<AM lemma="přebytek" src="auto" selected="1">NNIP1-----A----</AM>
 <AM lemma="přebytek" src="auto" recommended="1">NNIP4-----A----</AM>
 <AM lemma="přebytek" src="auto">NNIP5-----A----</AM>
 <AM lemma="přebytek" src="auto">NNIP7-----A----</AM>
@@ -107,7 +107,7 @@
 <AM lemma="Korea_;G" src="auto">NNFP1-----A----</AM>
 <AM lemma="Korea_;G" src="auto">NNFP4-----A----</AM>
 <AM lemma="Korea_;G" src="auto">NNFP5-----A----</AM>
-<AM lemma="Korea_;G" src="auto" recommended="1">NNFS2-----A----</AM>
+<AM lemma="Korea_;G" src="auto" recommended="1" selected="1">NNFS2-----A----</AM>
 <AM lemma="Korea_;G" src="auto">NNFS3-----A---2</AM>
 <AM lemma="Korej_;G" src="auto">NNIP1-----A----</AM>
 <AM lemma="Korej_;G" src="auto">NNIP4-----A----</AM>
@@ -381,7 +381,7 @@
 <AM lemma="jak-1_;L_^(živočich)" src="auto">NNMS1-----A----</AM>
 <AM lemma="jak-2" src="auto" recommended="1">J,-------------</AM>
 <AM lemma="jak-2" src="auto">J^-------------</AM>
-<AM lemma="jak-3" src="auto">Db-------------</AM>
+<AM lemma="jak-3" src="auto" selected="1">Db-------------</AM>
 <AM lemma="jak-99_:B_;S" src="auto">NNXXX-----A----</AM>
 </tag>
 </m>
@@ -657,7 +657,7 @@
 <form>za</form>
 <tag>
 <AM lemma="za" src="auto" recommended="1">RR--2----------</AM>
-<AM lemma="za" src="auto">RR--4----------</AM>
+<AM lemma="za" src="auto" selected="1">RR--4----------</AM>
 <AM lemma="za" src="auto">RR--7----------</AM>
 </tag>
 </m>
@@ -670,7 +670,7 @@
 <tag>
 <AM lemma="první" src="auto">CrFP2----------</AM>
 <AM lemma="první" src="auto">CrFP6----------</AM>
-<AM lemma="první" src="auto" recommended="1">CrIP2----------</AM>
+<AM lemma="první" src="auto" recommended="1" selected="1">CrIP2----------</AM>
 <AM lemma="první" src="auto">CrIP6----------</AM>
 <AM lemma="první" src="auto">CrMP2----------</AM>
 <AM lemma="první" src="auto">CrMP6----------</AM>

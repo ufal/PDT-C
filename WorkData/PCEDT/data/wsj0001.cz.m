@@ -56,7 +56,10 @@
 <LM>w#w-wsj0001-001-p1s0W3</LM>
 </w.rf>
 <form>Vinken</form>
-<tag lemma="Vinken" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Vinken" src="auto">X@-------------</AM>
+<AM lemma="Vinken_;S" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj0001-001-p1s0W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -243,7 +246,10 @@
 <LM>w#w-wsj0001-001-p1s1W1</LM>
 </w.rf>
 <form>Vinken</form>
-<tag lemma="Vinken" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Vinken" src="auto">X@-------------</AM>
+<AM lemma="Vinken_;S" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj0001-001-p1s1W2-Ta">
 <src.rf>tagger-a</src.rf>
@@ -287,7 +293,10 @@
 <LM>w#w-wsj0001-001-p1s1W5</LM>
 </w.rf>
 <form>Elsevier</form>
-<tag lemma="Elsevier_;S" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Elsevier_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Elsevier-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0001-001-p1s1W6-Ta">
 <src.rf>tagger-a</src.rf>

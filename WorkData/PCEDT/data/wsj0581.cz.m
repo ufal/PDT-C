@@ -35,7 +35,10 @@
 <LM>w#w-wsj0581-001-p1s0W3</LM>
 </w.rf>
 <form>Energy</form>
-<tag lemma="Energy" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Energy" src="auto">X@-------------</AM>
+<AM lemma="Energy-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0581-001-p1s0W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -43,7 +46,10 @@
 <LM>w#w-wsj0581-001-p1s0W4</LM>
 </w.rf>
 <form>Corp</form>
-<tag lemma="corp-77_:B" src="auto" recommended="1">F%-------------</tag>
+<tag>
+<AM lemma="corp-77_:B" src="auto" recommended="1">F%-------------</AM>
+<AM lemma="Corp-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0581-001-p1s0W5-Ta">
 <src.rf>tagger-a</src.rf>
@@ -217,7 +223,7 @@
 <AM lemma="ten" src="auto" recommended="1">PDNS1----------</AM>
 <AM lemma="ten" src="auto">PDNS4----------</AM>
 <AM lemma="to-1_^(tehdy;to_jsem_byla_ještě_malá)" src="auto">PDXXX----------</AM>
-<AM lemma="to-9_^(být_s_to)" src="auto">TT-------------</AM>
+<AM lemma="to-9_^(být_s_to)" src="auto" selected="1">TT-------------</AM>
 <AM lemma="to-77" src="auto">F%-------------</AM>
 </tag>
 </m>
@@ -311,7 +317,10 @@
 <LM>w#w-wsj0581-001-p1s1W2</LM>
 </w.rf>
 <form>Consumers</form>
-<tag lemma="Consumers" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Consumers" src="auto">X@-------------</AM>
+<AM lemma="Consumers-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0581-001-p1s1W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -323,6 +332,7 @@
 <AM lemma="Power_;G" src="auto">NNIS1-----A----</AM>
 <AM lemma="Power_;G" src="auto">NNIS4-----A----</AM>
 <AM lemma="power-77" src="auto" recommended="1">F%-------------</AM>
+<AM lemma="Power-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj0581-001-p1s1W4-Ta">
@@ -339,6 +349,7 @@
 <AM lemma="co-4_^(který:_př.:_o_těch,_co_odešli/co_je_znal)" src="auto">P4XXX----------</AM>
 <AM lemma="co-5_^(př._co_nejméně,_co_nevidět,_co_chvíli,_co_do_počtu,_atd.)" src="auto">Db-------------</AM>
 <AM lemma="co-77_:B" src="auto">F%-------------</AM>
+<AM lemma="Co-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj0581-001-p1s1W5-Ta">
@@ -519,7 +530,10 @@
 <LM>w#w-wsj0581-001-p1s1W15</LM>
 </w.rf>
 <form>Energy</form>
-<tag lemma="Energy" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Energy" src="auto">X@-------------</AM>
+<AM lemma="Energy-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0581-001-p1s1W16-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1673,7 +1687,7 @@
 <form>listopadu</form>
 <tag>
 <AM lemma="listopad" src="auto" recommended="1">NNIS2-----A----</AM>
-<AM lemma="listopad" src="auto">NNIS3-----A----</AM>
+<AM lemma="listopad" src="auto" selected="1">NNIS3-----A----</AM>
 <AM lemma="listopad" src="auto">NNIS6-----A----</AM>
 </tag>
 </m>

@@ -92,6 +92,11 @@
 <AM lemma="56letý" src="auto">AANS4----1A---6</AM>
 <AM lemma="56letý" src="auto">AANS5----1A---6</AM>
 </tag>
+<comment>
+<LM type="Other">
+<text>špatná tokenizace</text>
+</LM>
+</comment>
 </m>
 <m id="m-wsj0366-001-p1s0W7-Ta">
 <src.rf>tagger-a</src.rf>
@@ -190,7 +195,10 @@
 <LM>w#w-wsj0366-001-p1s0W13</LM>
 </w.rf>
 <form>First</form>
-<tag lemma="First" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="First" src="auto">X@-------------</AM>
+<AM lemma="First-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0366-001-p1s0W14-Ta">
 <src.rf>tagger-a</src.rf>
@@ -201,6 +209,7 @@
 <tag>
 <AM lemma="Continental_;K" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Continental_;K" src="auto">NNIS4-----A----</AM>
+<AM lemma="Continental-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj0366-001-p1s0W15-Ta">
@@ -214,6 +223,7 @@
 <AM lemma="Real_;K" src="auto">NNIS4-----A----</AM>
 <AM lemma="real_^(platidlo)" src="auto">NNIS1-----A----</AM>
 <AM lemma="real_^(platidlo)" src="auto">NNIS4-----A----</AM>
+<AM lemma="Real-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj0366-001-p1s0W16-Ta">
@@ -222,7 +232,10 @@
 <LM>w#w-wsj0366-001-p1s0W16</LM>
 </w.rf>
 <form>Estate</form>
-<tag lemma="Estate" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Estate" src="auto">X@-------------</AM>
+<AM lemma="Estate-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0366-001-p1s0W17-Ta">
 <src.rf>tagger-a</src.rf>
@@ -233,6 +246,7 @@
 <tag>
 <AM lemma="Investment_;K" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Investment_;K" src="auto">NNIS4-----A----</AM>
+<AM lemma="Investment-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj0366-001-p1s0W18-Ta">
@@ -244,6 +258,7 @@
 <tag>
 <AM lemma="trust" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="trust" src="auto">NNIS4-----A----</AM>
+<AM lemma="Trust-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj0366-001-p1s0W19-Ta">

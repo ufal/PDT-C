@@ -315,7 +315,7 @@
 <tag>
 <AM lemma="jenž_^(který_[ve_vedl.větě])" src="auto">P1XXXZS3-------</AM>
 <AM lemma="jenž_^(který_[ve_vedl.větě])" src="auto" recommended="1">PJMS4----------</AM>
-<AM lemma="jenž_^(který_[ve_vedl.větě])" src="auto">PJZS2----------</AM>
+<AM lemma="jenž_^(který_[ve_vedl.větě])" src="auto" selected="1">PJZS2----------</AM>
 </tag>
 </m>
 <m id="m-wsj0461-001-p1s0W28-Ta">
@@ -1978,7 +1978,7 @@
 </w.rf>
 <form>profil</form>
 <tag>
-<AM lemma="profil" src="auto">NNIS1-----A----</AM>
+<AM lemma="profil" src="auto" selected="1">NNIS1-----A----</AM>
 <AM lemma="profil" src="auto" recommended="1">NNIS4-----A----</AM>
 </tag>
 </m>
@@ -2059,7 +2059,7 @@
 <AM lemma="který" src="auto">P4FS2---------6</AM>
 <AM lemma="který" src="auto">P4FS3---------6</AM>
 <AM lemma="který" src="auto">P4FS6---------6</AM>
-<AM lemma="který" src="auto">P4IS4----------</AM>
+<AM lemma="který" src="auto" selected="1">P4IS4----------</AM>
 <AM lemma="který" src="auto">P4NS1---------6</AM>
 <AM lemma="který" src="auto">P4NS4---------6</AM>
 <AM lemma="který" src="auto">P4XP1---------6</AM>
@@ -2194,7 +2194,7 @@
 </w.rf>
 <form>zřejmě</form>
 <tag>
-<AM lemma="zřejmě-2" src="auto">TT-------------</AM>
+<AM lemma="zřejmě-2" src="auto" selected="1">TT-------------</AM>
 <AM lemma="zřejmě_^(*1ý)" src="auto" recommended="1">Dg-------1A----</AM>
 </tag>
 </m>
@@ -2239,7 +2239,7 @@
 <AM lemma="obecný" src="auto">AAFS3----1A----</AM>
 <AM lemma="obecný" src="auto">AAFS6----1A----</AM>
 <AM lemma="obecný" src="auto" recommended="1">AAIP1----1A----</AM>
-<AM lemma="obecný" src="auto">AAIP4----1A----</AM>
+<AM lemma="obecný" src="auto" selected="1">AAIP4----1A----</AM>
 <AM lemma="obecný" src="auto">AAIP5----1A----</AM>
 <AM lemma="obecný" src="auto">AAMP4----1A----</AM>
 <AM lemma="obecný" src="auto">AANP1----1A---6</AM>
@@ -2258,7 +2258,7 @@
 <form>požadavky</form>
 <tag>
 <AM lemma="požadavek" src="auto" recommended="1">NNIP1-----A----</AM>
-<AM lemma="požadavek" src="auto">NNIP4-----A----</AM>
+<AM lemma="požadavek" src="auto" selected="1">NNIP4-----A----</AM>
 <AM lemma="požadavek" src="auto">NNIP5-----A----</AM>
 <AM lemma="požadavek" src="auto">NNIP7-----A----</AM>
 </tag>
@@ -2631,7 +2631,7 @@
 <AM lemma="vysoký" src="auto">AAFS6----2A----</AM>
 <AM lemma="vysoký" src="auto">AAFS7----2A----</AM>
 <AM lemma="vysoký" src="auto">AAIP1----2A----</AM>
-<AM lemma="vysoký" src="auto">AAIP4----2A----</AM>
+<AM lemma="vysoký" src="auto" selected="1">AAIP4----2A----</AM>
 <AM lemma="vysoký" src="auto">AAIP5----2A----</AM>
 <AM lemma="vysoký" src="auto">AAIS1----2A----</AM>
 <AM lemma="vysoký" src="auto">AAIS4----2A----</AM>
@@ -2875,7 +2875,7 @@
 </w.rf>
 <form>nehlásí</form>
 <tag>
-<AM lemma="hlásit" src="auto">VB-P---3P-NAI--</AM>
+<AM lemma="hlásit" src="auto" selected="1">VB-P---3P-NAI--</AM>
 <AM lemma="hlásit" src="auto" recommended="1">VB-S---3P-NAI--</AM>
 </tag>
 </m>
@@ -3355,6 +3355,11 @@
 </w.rf>
 <form>Massachussetts</form>
 <tag lemma="Massachussetts" src="auto">X@-------------</tag>
+<comment>
+<LM type="New Form">
+<text>Massachusetts</text>
+</LM>
+</comment>
 </m>
 <m id="m-wsj0461-001-p1s10W8-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3741,7 +3746,7 @@
 <AM lemma="který" src="auto">P4FS2----------</AM>
 <AM lemma="který" src="auto">P4FS3----------</AM>
 <AM lemma="který" src="auto">P4FS6----------</AM>
-<AM lemma="který" src="auto">P4IP1----------</AM>
+<AM lemma="který" src="auto" selected="1">P4IP1----------</AM>
 <AM lemma="který" src="auto">P4NP1---------6</AM>
 <AM lemma="který" src="auto">P4NP4---------6</AM>
 <AM lemma="který" src="auto">P4NS1----------</AM>
@@ -3800,7 +3805,7 @@
 <tag>
 <AM lemma="prostřednictví" src="auto">NNNP3-----A----</AM>
 <AM lemma="prostřednictví" src="auto" recommended="1">NNNS7-----A----</AM>
-<AM lemma="prostřednictvím" src="auto">RR--2----------</AM>
+<AM lemma="prostřednictvím" src="auto" selected="1">RR--2----------</AM>
 </tag>
 </m>
 <m id="m-wsj0461-001-p1s10W44-Ta">
@@ -4025,7 +4030,15 @@
 <LM>w#w-wsj0461-001-p1s12W5</LM>
 </w.rf>
 <form>60denního</form>
-<tag lemma="60denního" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="60denního" src="auto">X@-------------</AM>
+<AM lemma="60denní" src="manual" selected="1">AANS2----1A----</AM>
+</tag>
+<comment>
+<LM type="Other">
+<text>špatná tokenizace</text>
+</LM>
+</comment>
 </m>
 <m id="m-wsj0461-001-p1s12W6-Ta">
 <src.rf>tagger-a</src.rf>

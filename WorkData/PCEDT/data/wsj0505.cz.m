@@ -68,7 +68,10 @@
 <LM>w#w-wsj0505-001-p1s0W5</LM>
 </w.rf>
 <form>Ratners</form>
-<tag lemma="Ratners" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Ratners" src="auto">X@-------------</AM>
+<AM lemma="Ratners-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0505-001-p1s0W6-Ta">
 <src.rf>tagger-a</src.rf>
@@ -76,7 +79,10 @@
 <LM>w#w-wsj0505-001-p1s0W6</LM>
 </w.rf>
 <form>Group</form>
-<tag lemma="Group-1_;K_,t_^(obv._souč._názvu_firem,_&quot;skupina&quot;)" src="auto" recommended="1">NNFXX-----A----</tag>
+<tag>
+<AM lemma="Group-1_;K_,t_^(obv._souč._názvu_firem,_&quot;skupina&quot;)" src="auto" recommended="1">NNFXX-----A----</AM>
+<AM lemma="Group-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0505-001-p1s0W7-Ta">
 <src.rf>tagger-a</src.rf>
@@ -135,7 +141,7 @@
 <AM lemma="drahokam" src="auto">NNIP1-----A----</AM>
 <AM lemma="drahokam" src="auto" recommended="1">NNIP4-----A----</AM>
 <AM lemma="drahokam" src="auto">NNIP5-----A----</AM>
-<AM lemma="drahokam" src="auto">NNIP7-----A----</AM>
+<AM lemma="drahokam" src="auto" selected="1">NNIP7-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0505-001-p1s0W12-Ta">
@@ -144,7 +150,15 @@
 <LM>w#w-wsj0505-001-p1s0W12</LM>
 </w.rf>
 <form>Weisfield's</form>
-<tag lemma="Weisfield's" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Weisfield's" src="auto">X@-------------</AM>
+<AM lemma="Weisfield's-77" src="manual" selected="1">F%-------------</AM>
+</tag>
+<comment>
+<LM type="Other">
+<text>špatná tokenizace</text>
+</LM>
+</comment>
 </m>
 <m id="m-wsj0505-001-p1s0W13-Ta">
 <src.rf>tagger-a</src.rf>
@@ -155,6 +169,7 @@
 <tag>
 <AM lemma="Inc-77_:B" src="auto" recommended="1">F%-------------</AM>
 <AM lemma="inc-77_:B" src="auto">F%-------------</AM>
+<AM lemma="Inc-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj0505-001-p1s0W14-Ta">
@@ -348,7 +363,15 @@
 <LM>w#w-wsj0505-001-p1s1W4</LM>
 </w.rf>
 <form>Weisfield's</form>
-<tag lemma="Weisfield's" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Weisfield's" src="auto">X@-------------</AM>
+<AM lemma="Weisfield's-77" src="manual" selected="1">F%-------------</AM>
+</tag>
+<comment>
+<LM type="Other">
+<text>špatná tokenizace</text>
+</LM>
+</comment>
 </m>
 <m id="m-wsj0505-001-p1s1W5-Ta">
 <src.rf>tagger-a</src.rf>
@@ -627,7 +650,10 @@
 <LM>w#w-wsj0505-001-p1s2W2</LM>
 </w.rf>
 <form>Ratners</form>
-<tag lemma="Ratners" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Ratners" src="auto">X@-------------</AM>
+<AM lemma="Ratners_;K" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj0505-001-p1s2W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -649,7 +675,15 @@
 <LM>w#w-wsj0505-001-p1s2W4</LM>
 </w.rf>
 <form>Weisfield's</form>
-<tag lemma="Weisfield's" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Weisfield's" src="auto">X@-------------</AM>
+<AM lemma="Weisfield's-77" src="manual" selected="1">F%-------------</AM>
+</tag>
+<comment>
+<LM type="Other">
+<text>špatná tokenizace</text>
+</LM>
+</comment>
 </m>
 <m id="m-wsj0505-001-p1s2W5-Ta">
 <src.rf>tagger-a</src.rf>
@@ -790,7 +824,15 @@
 <LM>w#w-wsj0505-001-p1s2W16</LM>
 </w.rf>
 <form>Weisfield's</form>
-<tag lemma="Weisfield's" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Weisfield's" src="auto">X@-------------</AM>
+<AM lemma="Weisfield's-77" src="manual" selected="1">F%-------------</AM>
+</tag>
+<comment>
+<LM type="Other">
+<text>špatná tokenizace</text>
+</LM>
+</comment>
 </m>
 <m id="m-wsj0505-001-p1s2W17-Ta">
 <src.rf>tagger-a</src.rf>
@@ -800,7 +842,7 @@
 <form>společností</form>
 <tag>
 <AM lemma="společnost_^(*3ý)" src="auto" recommended="1">NNFP2-----A----</AM>
-<AM lemma="společnost_^(*3ý)" src="auto">NNFS7-----A----</AM>
+<AM lemma="společnost_^(*3ý)" src="auto" selected="1">NNFS7-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0505-001-p1s2W18-Ta">
@@ -813,6 +855,7 @@
 <AM lemma="Sterling_;S" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="sterling" src="auto">NNIS1-----A----</AM>
 <AM lemma="sterling" src="auto">NNIS4-----A----</AM>
+<AM lemma="Sterling-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj0505-001-p1s2W19-Ta">
@@ -824,6 +867,7 @@
 <tag>
 <AM lemma="Inc-77_:B" src="auto" recommended="1">F%-------------</AM>
 <AM lemma="inc-77_:B" src="auto">F%-------------</AM>
+<AM lemma="Inc-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj0505-001-p1s2W20-Ta">
@@ -1130,7 +1174,15 @@
 <LM>w#w-wsj0505-001-p1s5W2</LM>
 </w.rf>
 <form>Weisfield's</form>
-<tag lemma="Weisfield's" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Weisfield's" src="auto">X@-------------</AM>
+<AM lemma="Weisfield's-77" src="manual" selected="1">F%-------------</AM>
+</tag>
+<comment>
+<LM type="Other">
+<text>špatná tokenizace</text>
+</LM>
+</comment>
 </m>
 <m id="m-wsj0505-001-p1s5W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1174,7 +1226,10 @@
 <LM>w#w-wsj0505-001-p1s5W6</LM>
 </w.rf>
 <form>Seattleu</form>
-<tag lemma="Seattleu" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Seattleu" src="auto">X@-------------</AM>
+<AM lemma="Seattle_;G" src="manual" selected="1">NNIS6-----A---1</AM>
+</tag>
 </m>
 <m id="m-wsj0505-001-p1s5W7-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1608,7 +1663,10 @@
 <LM>w#w-wsj0505-001-p1s7W2</LM>
 </w.rf>
 <form>Ratners</form>
-<tag lemma="Ratners" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Ratners" src="auto">X@-------------</AM>
+<AM lemma="Ratners_;K" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj0505-001-p1s7W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1994,7 +2052,7 @@
 <AM lemma="drahokam" src="auto">NNIP1-----A----</AM>
 <AM lemma="drahokam" src="auto" recommended="1">NNIP4-----A----</AM>
 <AM lemma="drahokam" src="auto">NNIP5-----A----</AM>
-<AM lemma="drahokam" src="auto">NNIP7-----A----</AM>
+<AM lemma="drahokam" src="auto" selected="1">NNIP7-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0505-001-p1s8W15-Ta">
@@ -2017,7 +2075,10 @@
 <LM>w#w-wsj0505-001-p1s8W16</LM>
 </w.rf>
 <form>USA</form>
-<tag lemma="USA_:B_;G_^(United_States_ofmerica)" src="auto" recommended="1">NNXXX-----A----</tag>
+<tag>
+<AM lemma="USA_:B_;G_^(United_States_ofmerica)" src="auto" recommended="1">NNXXX-----A----</AM>
+<AM lemma="USA_:B_;G_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj0505-001-p1s8W17-Ta">
 <src.rf>tagger-a</src.rf>

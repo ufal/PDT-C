@@ -30,6 +30,7 @@
 <tag>
 <AM lemma="Newport_;G" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Newport_;G" src="auto">NNIS4-----A----</AM>
+<AM lemma="Newport-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj2307-001-p1s0W3-Ta">
@@ -38,7 +39,10 @@
 <LM>w#w-wsj2307-001-p1s0W3</LM>
 </w.rf>
 <form>Corp</form>
-<tag lemma="corp-77_:B" src="auto" recommended="1">F%-------------</tag>
+<tag>
+<AM lemma="corp-77_:B" src="auto" recommended="1">F%-------------</AM>
+<AM lemma="Corp-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj2307-001-p1s0W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -298,7 +302,7 @@
 <AM lemma="nízký" src="auto">AAIP4----2A----</AM>
 <AM lemma="nízký" src="auto">AAIP5----2A----</AM>
 <AM lemma="nízký" src="auto">AAIS1----2A----</AM>
-<AM lemma="nízký" src="auto">AAIS4----2A----</AM>
+<AM lemma="nízký" src="auto" selected="1">AAIS4----2A----</AM>
 <AM lemma="nízký" src="auto">AAIS5----2A----</AM>
 <AM lemma="nízký" src="auto">AAMP1----2A----</AM>
 <AM lemma="nízký" src="auto">AAMP4----2A----</AM>
@@ -379,7 +383,7 @@
 <AM lemma="mez" src="auto">NNFS5-----A----</AM>
 <AM lemma="mez" src="auto">NNFS6-----A----</AM>
 <AM lemma="mezi-1" src="auto" recommended="1">RR--4----------</AM>
-<AM lemma="mezi-1" src="auto">RR--7----------</AM>
+<AM lemma="mezi-1" src="auto" selected="1">RR--7----------</AM>
 </tag>
 </m>
 <m id="m-wsj2307-001-p1s0W32-Ta">
@@ -908,6 +912,7 @@
 <tag>
 <AM lemma="Newport_;G" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Newport_;G" src="auto">NNIS4-----A----</AM>
+<AM lemma="Newport_;G_;K" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2307-001-p1s2W22-Ta">

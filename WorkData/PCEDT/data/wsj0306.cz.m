@@ -481,7 +481,7 @@
 <AM lemma="sto-1`100" src="auto">ClXP6---------1</AM>
 <AM lemma="sto-1`100" src="auto">ClXP7---------1</AM>
 <AM lemma="sto-1`100" src="auto">ClXS1----------</AM>
-<AM lemma="sto-1`100" src="auto">ClXS4----------</AM>
+<AM lemma="sto-1`100" src="auto" selected="1">ClXS4----------</AM>
 <AM lemma="sto-1`100" src="auto">ClXS5----------</AM>
 </tag>
 </m>
@@ -938,7 +938,7 @@
 </w.rf>
 <form>pomeranče</form>
 <tag>
-<AM lemma="pomeranč" src="auto">NNIP1-----A----</AM>
+<AM lemma="pomeranč" src="auto" selected="1">NNIP1-----A----</AM>
 <AM lemma="pomeranč" src="auto" recommended="1">NNIP4-----A----</AM>
 <AM lemma="pomeranč" src="auto">NNIP5-----A----</AM>
 <AM lemma="pomeranč" src="auto">NNIS2-----A----</AM>
@@ -989,7 +989,7 @@
 <AM lemma="další" src="auto">AANP1----1A----</AM>
 <AM lemma="další" src="auto">AANP4----1A----</AM>
 <AM lemma="další" src="auto">AANP5----1A----</AM>
-<AM lemma="další" src="auto">AANS1----1A----</AM>
+<AM lemma="další" src="auto" selected="1">AANS1----1A----</AM>
 <AM lemma="další" src="auto" recommended="1">AANS4----1A----</AM>
 <AM lemma="další" src="auto">AANS5----1A----</AM>
 </tag>
@@ -1004,7 +1004,7 @@
 <AM lemma="ovoce" src="auto">NNNP1-----A----</AM>
 <AM lemma="ovoce" src="auto">NNNP4-----A----</AM>
 <AM lemma="ovoce" src="auto">NNNP5-----A----</AM>
-<AM lemma="ovoce" src="auto">NNNS1-----A----</AM>
+<AM lemma="ovoce" src="auto" selected="1">NNNS1-----A----</AM>
 <AM lemma="ovoce" src="auto">NNNS2-----A----</AM>
 <AM lemma="ovoce" src="auto" recommended="1">NNNS4-----A----</AM>
 <AM lemma="ovoce" src="auto">NNNS5-----A----</AM>
@@ -1921,7 +1921,7 @@
 </w.rf>
 <form>každých</form>
 <tag>
-<AM lemma="každý" src="auto" recommended="1">AAFP2----1A----</AM>
+<AM lemma="každý" src="auto" recommended="1" selected="1">AAFP2----1A----</AM>
 <AM lemma="každý" src="auto">AAFP6----1A----</AM>
 <AM lemma="každý" src="auto">AAIP2----1A----</AM>
 <AM lemma="každý" src="auto">AAIP6----1A----</AM>
@@ -1945,8 +1945,9 @@
 <AM lemma="sto-1`100" src="auto">ClXP6---------1</AM>
 <AM lemma="sto-1`100" src="auto">ClXP7---------1</AM>
 <AM lemma="sto-1`100" src="auto">ClXS1----------</AM>
-<AM lemma="sto-1`100" src="auto">ClXS4----------</AM>
+<AM lemma="sto-1`100" src="auto" selected="1">ClXS4----------</AM>
 <AM lemma="sto-1`100" src="auto">ClXS5----------</AM>
+<AM lemma="sto-1`100" src="manual">ClXP2----------</AM>
 </tag>
 </m>
 <m id="m-wsj0306-001-p1s5W27-Ta">
@@ -2617,7 +2618,7 @@
 </w.rf>
 <form>každých</form>
 <tag>
-<AM lemma="každý" src="auto" recommended="1">AAFP2----1A----</AM>
+<AM lemma="každý" src="auto" recommended="1" selected="1">AAFP2----1A----</AM>
 <AM lemma="každý" src="auto">AAFP6----1A----</AM>
 <AM lemma="každý" src="auto">AAIP2----1A----</AM>
 <AM lemma="každý" src="auto">AAIP6----1A----</AM>
@@ -2641,7 +2642,7 @@
 <AM lemma="sto-1`100" src="auto">ClXP6---------1</AM>
 <AM lemma="sto-1`100" src="auto">ClXP7---------1</AM>
 <AM lemma="sto-1`100" src="auto">ClXS1----------</AM>
-<AM lemma="sto-1`100" src="auto">ClXS4----------</AM>
+<AM lemma="sto-1`100" src="auto" selected="1">ClXS4----------</AM>
 <AM lemma="sto-1`100" src="auto">ClXS5----------</AM>
 </tag>
 </m>

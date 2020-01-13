@@ -27,7 +27,10 @@
 <LM>w#w-wsj1344-001-p1s0W2</LM>
 </w.rf>
 <form>Lucas</form>
-<tag lemma="Lucas_;S" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Lucas_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Lucas-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1344-001-p1s0W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -42,6 +45,7 @@
 <AM lemma="industrie" src="auto">NNFS1-----A----</AM>
 <AM lemma="industrie" src="auto" recommended="1">NNFS2-----A----</AM>
 <AM lemma="industrie" src="auto">NNFS5-----A----</AM>
+<AM lemma="Industrie-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1344-001-p1s0W4-Ta">

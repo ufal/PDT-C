@@ -418,7 +418,10 @@
 <LM>w#w-wsj0075-001-p1s1W2</LM>
 </w.rf>
 <form>Basham</form>
-<tag lemma="Basham" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Basham" src="auto">X@-------------</AM>
+<AM lemma="Basham_;S" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj0075-001-p1s1W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -898,7 +901,10 @@
 <LM>w#w-wsj0075-001-p1s2W11</LM>
 </w.rf>
 <form>Basham</form>
-<tag lemma="Basham" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Basham" src="auto">X@-------------</AM>
+<AM lemma="Basham_;S" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj0075-001-p1s2W12-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2870,7 +2876,7 @@
 </w.rf>
 <form>umoří</form>
 <tag>
-<AM lemma="umořit" src="auto">VB-P---3P-AAP--</AM>
+<AM lemma="umořit" src="auto" selected="1">VB-P---3P-AAP--</AM>
 <AM lemma="umořit" src="auto" recommended="1">VB-S---3P-AAP--</AM>
 </tag>
 </m>
@@ -3472,7 +3478,7 @@
 <form>listopadu</form>
 <tag>
 <AM lemma="listopad" src="auto" recommended="1">NNIS2-----A----</AM>
-<AM lemma="listopad" src="auto">NNIS3-----A----</AM>
+<AM lemma="listopad" src="auto" selected="1">NNIS3-----A----</AM>
 <AM lemma="listopad" src="auto">NNIS6-----A----</AM>
 </tag>
 </m>
@@ -3735,7 +3741,7 @@
 <form>listopadu</form>
 <tag>
 <AM lemma="listopad" src="auto" recommended="1">NNIS2-----A----</AM>
-<AM lemma="listopad" src="auto">NNIS3-----A----</AM>
+<AM lemma="listopad" src="auto" selected="1">NNIS3-----A----</AM>
 <AM lemma="listopad" src="auto">NNIS6-----A----</AM>
 </tag>
 </m>
@@ -4332,7 +4338,7 @@
 <AM lemma="žádný" src="auto">PWFS2----------</AM>
 <AM lemma="žádný" src="auto">PWFS3----------</AM>
 <AM lemma="žádný" src="auto">PWFS6----------</AM>
-<AM lemma="žádný" src="auto">PWIP1----------</AM>
+<AM lemma="žádný" src="auto" selected="1">PWIP1----------</AM>
 <AM lemma="žádný" src="auto">PWIP5----------</AM>
 <AM lemma="žádný" src="auto">PWNP1---------6</AM>
 <AM lemma="žádný" src="auto">PWNP4---------6</AM>
@@ -4401,7 +4407,7 @@
 <AM lemma="způsobilý" src="auto">AAFS2----1A----</AM>
 <AM lemma="způsobilý" src="auto">AAFS3----1A----</AM>
 <AM lemma="způsobilý" src="auto">AAFS6----1A----</AM>
-<AM lemma="způsobilý" src="auto">AAIP1----1A----</AM>
+<AM lemma="způsobilý" src="auto" selected="1">AAIP1----1A----</AM>
 <AM lemma="způsobilý" src="auto">AAIP4----1A----</AM>
 <AM lemma="způsobilý" src="auto">AAIP5----1A----</AM>
 <AM lemma="způsobilý" src="auto">AAMP4----1A----</AM>
@@ -4634,7 +4640,10 @@
 <LM>w#w-wsj0075-001-p1s14W24</LM>
 </w.rf>
 <form>Basham</form>
-<tag lemma="Basham" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Basham" src="auto">X@-------------</AM>
+<AM lemma="Basham_;S" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj0075-001-p1s14W25-Ta">
 <src.rf>tagger-a</src.rf>
@@ -5189,7 +5198,7 @@
 <tag>
 <AM lemma="zbývající_^(*4t)" src="auto">AGFP2-----A----</AM>
 <AM lemma="zbývající_^(*4t)" src="auto">AGFP6-----A----</AM>
-<AM lemma="zbývající_^(*4t)" src="auto">AGIP2-----A----</AM>
+<AM lemma="zbývající_^(*4t)" src="auto" selected="1">AGIP2-----A----</AM>
 <AM lemma="zbývající_^(*4t)" src="auto">AGIP6-----A----</AM>
 <AM lemma="zbývající_^(*4t)" src="auto" recommended="1">AGMP2-----A----</AM>
 <AM lemma="zbývající_^(*4t)" src="auto">AGMP6-----A----</AM>
@@ -5376,7 +5385,7 @@
 </w.rf>
 <form>pětiletých</form>
 <tag>
-<AM lemma="pětiletý" src="auto">AAFP2----1A----</AM>
+<AM lemma="pětiletý" src="auto" selected="1">AAFP2----1A----</AM>
 <AM lemma="pětiletý" src="auto">AAFP6----1A----</AM>
 <AM lemma="pětiletý" src="auto">AAIP2----1A----</AM>
 <AM lemma="pětiletý" src="auto" recommended="1">AAIP6----1A----</AM>

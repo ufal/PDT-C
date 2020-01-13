@@ -207,7 +207,7 @@
 <AM lemma="oznámený_^(*3it)" src="auto">AAMP1----1A----</AM>
 <AM lemma="oznámený_^(*3it)" src="auto">AAMP5----1A----</AM>
 <AM lemma="oznámení_^(*3it)" src="auto">NNNP1-----A----</AM>
-<AM lemma="oznámení_^(*3it)" src="auto">NNNP2-----A----</AM>
+<AM lemma="oznámení_^(*3it)" src="auto" selected="1">NNNP2-----A----</AM>
 <AM lemma="oznámení_^(*3it)" src="auto">NNNP4-----A----</AM>
 <AM lemma="oznámení_^(*3it)" src="auto">NNNP5-----A----</AM>
 <AM lemma="oznámení_^(*3it)" src="auto">NNNS1-----A----</AM>
@@ -823,7 +823,7 @@
 <form>a</form>
 <tag>
 <AM lemma="a-1" src="auto" recommended="1">J^-------------</AM>
-<AM lemma="a-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
+<AM lemma="a-33_^(označení_pomocí_písmene)" src="auto" selected="1">NNNXX-----A----</AM>
 <AM lemma="a-77_,t" src="auto">F%-------------</AM>
 <AM lemma="a-88_:B" src="auto">NNXXX-----A----</AM>
 <AM lemma="akciový" src="auto">AAXXX----1A---8</AM>
@@ -1051,7 +1051,7 @@
 <tag>
 <AM lemma="e-1" src="auto" recommended="1">II-------------</AM>
 <AM lemma="e-2_^(e-mail)" src="auto">A2--------A----</AM>
-<AM lemma="e-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
+<AM lemma="e-33_^(označení_pomocí_písmene)" src="auto" selected="1">NNNXX-----A----</AM>
 <AM lemma="e-88_:B" src="auto">NNXXX-----A----</AM>
 </tag>
 </m>
@@ -1212,7 +1212,7 @@
 <form>z</form>
 <tag>
 <AM lemma="z-1" src="auto" recommended="1">RR--2----------</AM>
-<AM lemma="z-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
+<AM lemma="z-33_^(označení_pomocí_písmene)" src="auto" selected="1">NNNXX-----A----</AM>
 <AM lemma="z-88_:B" src="auto">NNXXX-----A----</AM>
 </tag>
 </m>

@@ -35,7 +35,10 @@
 <LM>w#w-wsj2209-001-p1s0W3</LM>
 </w.rf>
 <form>Acquisition</form>
-<tag lemma="Acquisition" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Acquisition" src="auto">X@-------------</AM>
+<AM lemma="Acquisition-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj2209-001-p1s0W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -43,7 +46,10 @@
 <LM>w#w-wsj2209-001-p1s0W4</LM>
 </w.rf>
 <form>Partners</form>
-<tag lemma="Partners" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Partners" src="auto">X@-------------</AM>
+<AM lemma="Partners-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj2209-001-p1s0W5-Ta">
 <src.rf>tagger-a</src.rf>
@@ -131,7 +137,10 @@
 <LM>w#w-wsj2209-001-p1s0W10</LM>
 </w.rf>
 <form>Dataproducts</form>
-<tag lemma="Dataproducts" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Dataproducts" src="auto">X@-------------</AM>
+<AM lemma="Dataproducts-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj2209-001-p1s0W11-Ta">
 <src.rf>tagger-a</src.rf>
@@ -139,7 +148,10 @@
 <LM>w#w-wsj2209-001-p1s0W11</LM>
 </w.rf>
 <form>Corp</form>
-<tag lemma="corp-77_:B" src="auto" recommended="1">F%-------------</tag>
+<tag>
+<AM lemma="corp-77_:B" src="auto" recommended="1">F%-------------</AM>
+<AM lemma="Corp-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj2209-001-p1s0W12-Ta">
 <src.rf>tagger-a</src.rf>
@@ -475,7 +487,10 @@
 <LM>w#w-wsj2209-001-p1s1W9</LM>
 </w.rf>
 <form>Crescott</form>
-<tag lemma="Crescott" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Crescott" src="auto">X@-------------</AM>
+<AM lemma="Crescott-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj2209-001-p1s1W10-Ta">
 <src.rf>tagger-a</src.rf>
@@ -486,6 +501,7 @@
 <tag>
 <AM lemma="Inc-77_:B" src="auto" recommended="1">F%-------------</AM>
 <AM lemma="inc-77_:B" src="auto">F%-------------</AM>
+<AM lemma="Inc-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj2209-001-p1s1W11-Ta">
@@ -565,7 +581,7 @@
 </w.rf>
 <form>Komisi</form>
 <tag>
-<AM lemma="komise" src="auto">NNFS3-----A----</AM>
+<AM lemma="komise" src="auto" selected="1">NNFS3-----A----</AM>
 <AM lemma="komise" src="auto" recommended="1">NNFS4-----A----</AM>
 <AM lemma="komise" src="auto">NNFS6-----A----</AM>
 </tag>
@@ -822,7 +838,10 @@
 <LM>w#w-wsj2209-001-p1s1W37</LM>
 </w.rf>
 <form>Dataproducts</form>
-<tag lemma="Dataproducts" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Dataproducts" src="auto">X@-------------</AM>
+<AM lemma="Dataproducts_;K" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj2209-001-p1s1W38-Ta">
 <src.rf>tagger-a</src.rf>
@@ -897,7 +916,10 @@
 <LM>w#w-wsj2209-001-p1s2W6</LM>
 </w.rf>
 <form>Dataproducts</form>
-<tag lemma="Dataproducts" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Dataproducts" src="auto">X@-------------</AM>
+<AM lemma="Dataproducts_;K" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj2209-001-p1s2W7-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1111,7 +1133,10 @@
 <LM>w#w-wsj2209-001-p1s2W25</LM>
 </w.rf>
 <form>Dataproducts</form>
-<tag lemma="Dataproducts" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Dataproducts" src="auto">X@-------------</AM>
+<AM lemma="Dataproducts_;K" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj2209-001-p1s2W26-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1512,7 +1537,10 @@
 <LM>w#w-wsj2209-001-p1s4W13</LM>
 </w.rf>
 <form>Dataproducts</form>
-<tag lemma="Dataproducts" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Dataproducts" src="auto">X@-------------</AM>
+<AM lemma="Dataproducts_;K" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj2209-001-p1s4W14-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1600,7 +1628,7 @@
 <form>na</form>
 <tag>
 <AM lemma="na-1" src="auto" recommended="1">RR--4----------</AM>
-<AM lemma="na-1" src="auto">RR--6----------</AM>
+<AM lemma="na-1" src="auto" selected="1">RR--6----------</AM>
 <AM lemma="na-2" src="auto">II-------------</AM>
 </tag>
 </m>
@@ -1652,7 +1680,10 @@
 <LM>w#w-wsj2209-001-p1s5W2</LM>
 </w.rf>
 <form>Dataproducts</form>
-<tag lemma="Dataproducts" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Dataproducts" src="auto">X@-------------</AM>
+<AM lemma="Dataproducts_;K" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj2209-001-p1s5W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2269,7 +2300,7 @@
 <form>součást</form>
 <tag>
 <AM lemma="součást" src="auto" recommended="1">NNFS1-----A----</AM>
-<AM lemma="součást" src="auto">NNFS4-----A----</AM>
+<AM lemma="součást" src="auto" selected="1">NNFS4-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2209-001-p1s7W3-Ta">
@@ -2309,7 +2340,10 @@
 <LM>w#w-wsj2209-001-p1s7W6</LM>
 </w.rf>
 <form>Dataproducts</form>
-<tag lemma="Dataproducts" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Dataproducts" src="auto">X@-------------</AM>
+<AM lemma="Dataproducts_;K" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj2209-001-p1s7W7-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2451,7 +2485,7 @@
 <AM lemma="společnost_^(*3ý)" src="auto">NNFP4-----A----</AM>
 <AM lemma="společnost_^(*3ý)" src="auto">NNFP5-----A----</AM>
 <AM lemma="společnost_^(*3ý)" src="auto" recommended="1">NNFS2-----A----</AM>
-<AM lemma="společnost_^(*3ý)" src="auto">NNFS3-----A----</AM>
+<AM lemma="společnost_^(*3ý)" src="auto" selected="1">NNFS3-----A----</AM>
 <AM lemma="společnost_^(*3ý)" src="auto">NNFS5-----A----</AM>
 <AM lemma="společnost_^(*3ý)" src="auto">NNFS6-----A----</AM>
 </tag>
@@ -2462,7 +2496,10 @@
 <LM>w#w-wsj2209-001-p1s7W19</LM>
 </w.rf>
 <form>Trizec</form>
-<tag lemma="Trizec" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Trizec" src="auto">X@-------------</AM>
+<AM lemma="Trizec-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj2209-001-p1s7W20-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2470,7 +2507,10 @@
 <LM>w#w-wsj2209-001-p1s7W20</LM>
 </w.rf>
 <form>Properties</form>
-<tag lemma="Properties" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Properties" src="auto">X@-------------</AM>
+<AM lemma="Properties-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj2209-001-p1s7W21-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2481,6 +2521,7 @@
 <tag>
 <AM lemma="Inc-77_:B" src="auto" recommended="1">F%-------------</AM>
 <AM lemma="inc-77_:B" src="auto">F%-------------</AM>
+<AM lemma="Inc-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj2209-001-p1s7W22-Ta">
@@ -2506,7 +2547,7 @@
 </w.rf>
 <form>jednotce</form>
 <tag>
-<AM lemma="jednotka" src="auto">NNFS3-----A----</AM>
+<AM lemma="jednotka" src="auto" selected="1">NNFS3-----A----</AM>
 <AM lemma="jednotka" src="auto" recommended="1">NNFS6-----A----</AM>
 </tag>
 </m>
@@ -2554,7 +2595,10 @@
 <LM>w#w-wsj2209-001-p1s7W27</LM>
 </w.rf>
 <form>Trizec</form>
-<tag lemma="Trizec" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Trizec" src="auto">X@-------------</AM>
+<AM lemma="Trizec-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj2209-001-p1s7W28-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2562,7 +2606,10 @@
 <LM>w#w-wsj2209-001-p1s7W28</LM>
 </w.rf>
 <form>Corp</form>
-<tag lemma="corp-77_:B" src="auto" recommended="1">F%-------------</tag>
+<tag>
+<AM lemma="corp-77_:B" src="auto" recommended="1">F%-------------</AM>
+<AM lemma="Corp-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj2209-001-p1s7W29-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2719,7 +2766,10 @@
 <LM>w#w-wsj2209-001-p1s8W12</LM>
 </w.rf>
 <form>Dataproducts</form>
-<tag lemma="Dataproducts" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Dataproducts" src="auto">X@-------------</AM>
+<AM lemma="Dataproducts_;K" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj2209-001-p1s8W13-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2802,7 +2852,7 @@
 <form>jak</form>
 <tag>
 <AM lemma="jak-1_;L_^(živočich)" src="auto">NNMS1-----A----</AM>
-<AM lemma="jak-2" src="auto">J,-------------</AM>
+<AM lemma="jak-2" src="auto" selected="1">J,-------------</AM>
 <AM lemma="jak-2" src="auto">J^-------------</AM>
 <AM lemma="jak-3" src="auto" recommended="1">Db-------------</AM>
 <AM lemma="jak-99_:B_;S" src="auto">NNXXX-----A----</AM>

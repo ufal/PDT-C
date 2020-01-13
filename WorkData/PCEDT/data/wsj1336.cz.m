@@ -32,6 +32,7 @@
 <AM lemma="Liza_;Y_,t" src="auto">NNFP2-----A----</AM>
 <AM lemma="liz" src="auto">NNIS1-----A----</AM>
 <AM lemma="liz" src="auto">NNIS4-----A----</AM>
+<AM lemma="Liz-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1336-001-p1s0W3-Ta">
@@ -40,7 +41,10 @@
 <LM>w#w-wsj1336-001-p1s0W3</LM>
 </w.rf>
 <form>Claiborne</form>
-<tag lemma="Claiborne_;S" src="auto" recommended="1">NNFXX-----A----</tag>
+<tag>
+<AM lemma="Claiborne_;S" src="auto" recommended="1">NNFXX-----A----</AM>
+<AM lemma="Claiborne-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1336-001-p1s0W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -51,6 +55,7 @@
 <tag>
 <AM lemma="Inc-77_:B" src="auto" recommended="1">F%-------------</AM>
 <AM lemma="inc-77_:B" src="auto">F%-------------</AM>
+<AM lemma="Inc-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1336-001-p1s0W5-Ta">
@@ -357,7 +362,7 @@
 <AM lemma="trvající_^(*4t)" src="auto">AGFS1-----A----</AM>
 <AM lemma="trvající_^(*4t)" src="auto">AGFS2-----A----</AM>
 <AM lemma="trvající_^(*4t)" src="auto">AGFS3-----A----</AM>
-<AM lemma="trvající_^(*4t)" src="auto">AGFS4-----A----</AM>
+<AM lemma="trvající_^(*4t)" src="auto" selected="1">AGFS4-----A----</AM>
 <AM lemma="trvající_^(*4t)" src="auto">AGFS5-----A----</AM>
 <AM lemma="trvající_^(*4t)" src="auto">AGFS6-----A----</AM>
 <AM lemma="trvající_^(*4t)" src="auto">AGFS7-----A----</AM>
@@ -458,7 +463,7 @@
 <AM lemma="zahájení_^(*3it)" src="auto" recommended="1">NNNS1-----A----</AM>
 <AM lemma="zahájení_^(*3it)" src="auto">NNNS2-----A----</AM>
 <AM lemma="zahájení_^(*3it)" src="auto">NNNS3-----A----</AM>
-<AM lemma="zahájení_^(*3it)" src="auto">NNNS4-----A----</AM>
+<AM lemma="zahájení_^(*3it)" src="auto" selected="1">NNNS4-----A----</AM>
 <AM lemma="zahájení_^(*3it)" src="auto">NNNS5-----A----</AM>
 <AM lemma="zahájení_^(*3it)" src="auto">NNNS6-----A----</AM>
 </tag>
@@ -1433,7 +1438,10 @@
 <LM>w#w-wsj1336-001-p1s3W3</LM>
 </w.rf>
 <form>Claiborne</form>
-<tag lemma="Claiborne_;S" src="auto" recommended="1">NNFXX-----A----</tag>
+<tag>
+<AM lemma="Claiborne_;S" src="auto" recommended="1">NNFXX-----A----</AM>
+<AM lemma="Claiborne_;K_;S" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj1336-001-p1s3W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1685,7 +1693,10 @@
 <LM>w#w-wsj1336-001-p1s4W4</LM>
 </w.rf>
 <form>Claiborne</form>
-<tag lemma="Claiborne_;S" src="auto" recommended="1">NNFXX-----A----</tag>
+<tag>
+<AM lemma="Claiborne_;S" src="auto" recommended="1">NNFXX-----A----</AM>
+<AM lemma="Claiborne_;K_;S" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj1336-001-p1s4W5-Ta">
 <src.rf>tagger-a</src.rf>

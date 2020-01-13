@@ -16,7 +16,10 @@
 <LM>w#w-wsj2042-001-p1s0W1</LM>
 </w.rf>
 <form>Parsow</form>
-<tag lemma="Parsow" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Parsow" src="auto">X@-------------</AM>
+<AM lemma="Parsow-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj2042-001-p1s0W2-Ta">
 <src.rf>tagger-a</src.rf>
@@ -24,7 +27,10 @@
 <LM>w#w-wsj2042-001-p1s0W2</LM>
 </w.rf>
 <form>Partnership</form>
-<tag lemma="Partnership" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Partnership" src="auto">X@-------------</AM>
+<AM lemma="Partnership-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj2042-001-p1s0W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -32,7 +38,10 @@
 <LM>w#w-wsj2042-001-p1s0W3</LM>
 </w.rf>
 <form>Ltd</form>
-<tag lemma="Ltd-77_:B" src="auto" recommended="1">F%-------------</tag>
+<tag>
+<AM lemma="Ltd-77_:B" src="auto" recommended="1">F%-------------</AM>
+<AM lemma="Ltd-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj2042-001-p1s0W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -62,7 +71,10 @@
 <LM>w#w-wsj2042-001-p1s0W6</LM>
 </w.rf>
 <form>Elkhorn</form>
-<tag lemma="Elkhorn" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Elkhorn" src="auto">X@-------------</AM>
+<AM lemma="Elkhorn-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj2042-001-p1s0W7-Ta">
 <src.rf>tagger-a</src.rf>
@@ -70,7 +82,10 @@
 <LM>w#w-wsj2042-001-p1s0W7</LM>
 </w.rf>
 <form>Partners</form>
-<tag lemma="Partners" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Partners" src="auto">X@-------------</AM>
+<AM lemma="Partners-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj2042-001-p1s0W8-Ta">
 <src.rf>tagger-a</src.rf>
@@ -78,7 +93,15 @@
 <LM>w#w-wsj2042-001-p1s0W8</LM>
 </w.rf>
 <form>L.</form>
-<tag lemma="L." src="auto">X@-------------</tag>
+<tag>
+<AM lemma="L." src="auto">X@-------------</AM>
+<AM lemma="L.-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
+<comment>
+<LM type="Other">
+<text>špatná tokenizace</text>
+</LM>
+</comment>
 </m>
 <m id="m-wsj2042-001-p1s0W9-Ta">
 <src.rf>tagger-a</src.rf>
@@ -208,7 +231,7 @@
 <AM lemma="týkající_^(*4t)" src="auto">AGFS6-----A----</AM>
 <AM lemma="týkající_^(*4t)" src="auto">AGFS7-----A----</AM>
 <AM lemma="týkající_^(*4t)" src="auto">AGIP1-----A----</AM>
-<AM lemma="týkající_^(*4t)" src="auto">AGIP4-----A----</AM>
+<AM lemma="týkající_^(*4t)" src="auto" selected="1">AGIP4-----A----</AM>
 <AM lemma="týkající_^(*4t)" src="auto">AGIP5-----A----</AM>
 <AM lemma="týkající_^(*4t)" src="auto">AGIS1-----A----</AM>
 <AM lemma="týkající_^(*4t)" src="auto">AGIS4-----A----</AM>
@@ -280,7 +303,10 @@
 <LM>w#w-wsj2042-001-p1s0W24</LM>
 </w.rf>
 <form>CACI</form>
-<tag lemma="CACI" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="CACI" src="auto">X@-------------</AM>
+<AM lemma="CACI-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj2042-001-p1s0W25-Ta">
 <src.rf>tagger-a</src.rf>
@@ -289,7 +315,7 @@
 </w.rf>
 <form>International</form>
 <tag>
-<AM lemma="International-77" src="auto" recommended="1">F%-------------</AM>
+<AM lemma="International-77" src="auto" recommended="1" selected="1">F%-------------</AM>
 <AM lemma="International_,t" src="auto">NNISX-----A----</AM>
 <AM lemma="international-77_,t" src="auto">F%-------------</AM>
 </tag>
@@ -303,6 +329,7 @@
 <tag>
 <AM lemma="Inc-77_:B" src="auto" recommended="1">F%-------------</AM>
 <AM lemma="inc-77_:B" src="auto">F%-------------</AM>
+<AM lemma="Inc-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj2042-001-p1s0W27-Ta">
@@ -448,7 +475,10 @@
 <LM>w#w-wsj2042-001-p1s1W9</LM>
 </w.rf>
 <form>Parsow</form>
-<tag lemma="Parsow" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Parsow" src="auto">X@-------------</AM>
+<AM lemma="Parsow_;S" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj2042-001-p1s1W10-Ta">
 <src.rf>tagger-a</src.rf>
@@ -470,7 +500,11 @@
 <LM>w#w-wsj2042-001-p1s1W11</LM>
 </w.rf>
 <form>Elkhorn</form>
-<tag lemma="Elkhorn" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Elkhorn" src="auto">X@-------------</AM>
+<AM lemma="Elkhorn_;S" src="manual">NNMS1-----A----</AM>
+<AM lemma="Elkhorn-1_;S" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj2042-001-p1s1W12-Ta">
 <src.rf>tagger-a</src.rf>
@@ -558,7 +592,10 @@
 <LM>w#w-wsj2042-001-p1s1W20</LM>
 </w.rf>
 <form>CACI</form>
-<tag lemma="CACI" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="CACI" src="auto">X@-------------</AM>
+<AM lemma="CACI-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj2042-001-p1s1W21-Ta">
 <src.rf>tagger-a</src.rf>
@@ -704,7 +741,10 @@
 <LM>w#w-wsj2042-001-p1s1W34</LM>
 </w.rf>
 <form>CACI</form>
-<tag lemma="CACI" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="CACI" src="auto">X@-------------</AM>
+<AM lemma="CACI-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj2042-001-p1s1W35-Ta">
 <src.rf>tagger-a</src.rf>
@@ -763,7 +803,10 @@
 <LM>w#w-wsj2042-001-p1s2W1</LM>
 </w.rf>
 <form>CACI</form>
-<tag lemma="CACI" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="CACI" src="auto">X@-------------</AM>
+<AM lemma="CACI-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj2042-001-p1s2W2-Ta">
 <src.rf>tagger-a</src.rf>
@@ -878,6 +921,11 @@
 </w.rf>
 <form>Parow</form>
 <tag lemma="Parow" src="auto">X@-------------</tag>
+<comment>
+<LM type="New Form">
+<text>Parsow</text>
+</LM>
+</comment>
 </m>
 <m id="m-wsj2042-001-p1s2W13-Ta">
 <src.rf>tagger-a</src.rf>
@@ -899,7 +947,13 @@
 <LM>w#w-wsj2042-001-p1s2W14</LM>
 </w.rf>
 <form>Elkhorn</form>
-<tag lemma="Elkhorn" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Elkhorn" src="auto">X@-------------</AM>
+<AM lemma="Elkhorn_;S" src="manual">NNMXX-----A----</AM>
+<AM lemma="Elkhorn_;S" src="manual">NNMS1-----A----</AM>
+<AM lemma="Elkhorn-1_;S" src="manual">NNMS1-----A----</AM>
+<AM lemma="Elkhorn-1_;S" src="manual" selected="1">NNMXX-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj2042-001-p1s2W15-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1242,7 +1296,10 @@
 <LM>w#w-wsj2042-001-p1s3W17</LM>
 </w.rf>
 <form>CACI</form>
-<tag lemma="CACI" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="CACI" src="auto">X@-------------</AM>
+<AM lemma="CACI-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj2042-001-p1s3W18-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1427,7 +1484,10 @@
 <LM>w#w-wsj2042-001-p1s4W4</LM>
 </w.rf>
 <form>Parsow</form>
-<tag lemma="Parsow" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Parsow" src="auto">X@-------------</AM>
+<AM lemma="Parsow_;S" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj2042-001-p1s4W5-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1448,7 +1508,11 @@
 <LM>w#w-wsj2042-001-p1s4W6</LM>
 </w.rf>
 <form>Elkhorn</form>
-<tag lemma="Elkhorn" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Elkhorn" src="auto">X@-------------</AM>
+<AM lemma="Elkhorn_;S" src="manual">NNMS1-----A----</AM>
+<AM lemma="Elkhorn-1_;S" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj2042-001-p1s4W7-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1494,7 +1558,10 @@
 <LM>w#w-wsj2042-001-p1s4W10</LM>
 </w.rf>
 <form>Elkhornu</form>
-<tag lemma="Elkhornu" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Elkhornu" src="auto">X@-------------</AM>
+<AM lemma="Elkhorn-2_;G" src="manual" selected="1">NNIS6-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj2042-001-p1s4W11-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1587,7 +1654,7 @@
 </w.rf>
 <form>Alanem</form>
 <tag>
-<AM lemma="Alan_;Y" src="auto">NNMS7-----A----</AM>
+<AM lemma="Alan_;Y" src="auto" selected="1">NNMS7-----A----</AM>
 <AM lemma="alan" src="auto" recommended="1">NNIS7-----A----</AM>
 </tag>
 </m>
@@ -1629,7 +1696,10 @@
 <LM>w#w-wsj2042-001-p1s4W21</LM>
 </w.rf>
 <form>Parsowem</form>
-<tag lemma="Parsowem" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Parsowem" src="auto">X@-------------</AM>
+<AM lemma="Parsow_;S" src="manual" selected="1">NNMS7-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj2042-001-p1s4W22-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1756,7 +1826,7 @@
 <form>včetně</form>
 <tag>
 <AM lemma="včetně-1" src="auto" recommended="1">Db-------------</AM>
-<AM lemma="včetně-2" src="auto">RR--2----------</AM>
+<AM lemma="včetně-2" src="auto" selected="1">RR--2----------</AM>
 </tag>
 </m>
 <m id="m-wsj2042-001-p1s5W10-Ta">

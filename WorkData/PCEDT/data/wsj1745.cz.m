@@ -86,6 +86,7 @@
 <AM lemma="Lotus_;R" src="auto">NNIS4-----A----</AM>
 <AM lemma="lotos_,x" src="auto">NNIS1-----A----</AM>
 <AM lemma="lotos_,x" src="auto">NNIS4-----A----</AM>
+<AM lemma="LOTUS-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1745-001-p1s0W5-Ta">
@@ -97,6 +98,7 @@
 <tag>
 <AM lemma="development_,t_^(rozvoj)" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="development_,t_^(rozvoj)" src="auto">NNIS4-----A----</AM>
+<AM lemma="DEVELOPMENT-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1745-001-p1s0W6-Ta">
@@ -105,7 +107,10 @@
 <LM>w#w-wsj1745-001-p1s0W6</LM>
 </w.rf>
 <form>Corp</form>
-<tag lemma="corp-77_:B" src="auto" recommended="1">F%-------------</tag>
+<tag>
+<AM lemma="corp-77_:B" src="auto" recommended="1">F%-------------</AM>
+<AM lemma="Corp-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1745-001-p1s0W7-Ta">
 <src.rf>tagger-a</src.rf>

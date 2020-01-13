@@ -291,7 +291,7 @@
 <AM lemma="hodnota" src="auto">NNFP1-----A----</AM>
 <AM lemma="hodnota" src="auto" recommended="1">NNFP4-----A----</AM>
 <AM lemma="hodnota" src="auto">NNFP5-----A----</AM>
-<AM lemma="hodnota" src="auto">NNFS2-----A----</AM>
+<AM lemma="hodnota" src="auto" selected="1">NNFS2-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2318-001-p1s0W23-Ta">

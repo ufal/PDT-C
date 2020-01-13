@@ -496,7 +496,7 @@
 <AM lemma="zpracování_^(*3at)" src="auto">NNNP4-----A----</AM>
 <AM lemma="zpracování_^(*3at)" src="auto">NNNP5-----A----</AM>
 <AM lemma="zpracování_^(*3at)" src="auto">NNNS1-----A----</AM>
-<AM lemma="zpracování_^(*3at)" src="auto">NNNS2-----A----</AM>
+<AM lemma="zpracování_^(*3at)" src="auto" selected="1">NNNS2-----A----</AM>
 <AM lemma="zpracování_^(*3at)" src="auto">NNNS3-----A----</AM>
 <AM lemma="zpracování_^(*3at)" src="auto" recommended="1">NNNS4-----A----</AM>
 <AM lemma="zpracování_^(*3at)" src="auto">NNNS5-----A----</AM>
@@ -1230,7 +1230,15 @@
 <LM>w#w-wsj1255-001-p1s3W10</LM>
 </w.rf>
 <form>68uncových</form>
-<tag lemma="68uncových" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="68uncových" src="auto">X@-------------</AM>
+<AM lemma="68uncový" src="manual" selected="1">AAFP6----1A----</AM>
+</tag>
+<comment>
+<LM type="Other">
+<text>špatná tokenizace</text>
+</LM>
+</comment>
 </m>
 <m id="m-wsj1255-001-p1s3W11-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1361,7 +1369,7 @@
 <AM lemma="York-2_;G" src="auto">NNIS2-----A----</AM>
 <AM lemma="York-2_;G" src="auto" recommended="1">NNIS3-----A----</AM>
 <AM lemma="York-2_;G" src="auto">NNIS5-----A----</AM>
-<AM lemma="York-2_;G" src="auto">NNIS6-----A----</AM>
+<AM lemma="York-2_;G" src="auto" selected="1">NNIS6-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1255-001-p1s3W24-Ta">
@@ -1711,7 +1719,7 @@
 </w.rf>
 <form>na</form>
 <tag>
-<AM lemma="na-1" src="auto">RR--4----------</AM>
+<AM lemma="na-1" src="auto" selected="1">RR--4----------</AM>
 <AM lemma="na-1" src="auto" recommended="1">RR--6----------</AM>
 <AM lemma="na-2" src="auto">II-------------</AM>
 </tag>
@@ -1730,7 +1738,7 @@
 <AM lemma="svědomí" src="auto">NNNS1-----A----</AM>
 <AM lemma="svědomí" src="auto">NNNS2-----A----</AM>
 <AM lemma="svědomí" src="auto">NNNS3-----A----</AM>
-<AM lemma="svědomí" src="auto">NNNS4-----A----</AM>
+<AM lemma="svědomí" src="auto" selected="1">NNNS4-----A----</AM>
 <AM lemma="svědomí" src="auto">NNNS5-----A----</AM>
 <AM lemma="svědomí" src="auto" recommended="1">NNNS6-----A----</AM>
 </tag>
@@ -1745,7 +1753,7 @@
 <AM lemma="bakterie" src="auto">NNFP1-----A----</AM>
 <AM lemma="bakterie" src="auto">NNFP4-----A----</AM>
 <AM lemma="bakterie" src="auto">NNFP5-----A----</AM>
-<AM lemma="bakterie" src="auto">NNFS1-----A----</AM>
+<AM lemma="bakterie" src="auto" selected="1">NNFS1-----A----</AM>
 <AM lemma="bakterie" src="auto" recommended="1">NNFS2-----A----</AM>
 <AM lemma="bakterie" src="auto">NNFS5-----A----</AM>
 </tag>
@@ -1767,6 +1775,7 @@
 <tag>
 <AM lemma="aureus_,t_^(zlatá_římská_mince)" src="auto">NNIS1-----A----</AM>
 <AM lemma="aureus_,t_^(zlatá_římská_mince)" src="auto" recommended="1">NNIS4-----A----</AM>
+<AM lemma="aureus-2" src="manual" selected="1">AAMS1----1A----</AM>
 </tag>
 </m>
 <m id="m-wsj1255-001-p1s5W8-Ta">
@@ -1785,7 +1794,7 @@
 <form>druh</form>
 <tag>
 <AM lemma="druh-2_^(partner)" src="auto">NNMS1-----A----</AM>
-<AM lemma="druh-1_^(typ)" src="auto">NNIS1-----A----</AM>
+<AM lemma="druh-1_^(typ)" src="auto" selected="1">NNIS1-----A----</AM>
 <AM lemma="druh-1_^(typ)" src="auto" recommended="1">NNIS4-----A----</AM>
 </tag>
 </m>
@@ -1885,7 +1894,7 @@
 <form>i</form>
 <tag>
 <AM lemma="i-1" src="auto" recommended="1">J^-------------</AM>
-<AM lemma="i-2" src="auto">TT-------------</AM>
+<AM lemma="i-2" src="auto" selected="1">TT-------------</AM>
 <AM lemma="i-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
 <AM lemma="i-88_:B" src="auto">NNXXX-----A----</AM>
 </tag>
@@ -2050,7 +2059,7 @@
 <form>otravy</form>
 <tag>
 <AM lemma="otrava" src="auto" recommended="1">NNFP1-----A----</AM>
-<AM lemma="otrava" src="auto">NNFP4-----A----</AM>
+<AM lemma="otrava" src="auto" selected="1">NNFP4-----A----</AM>
 <AM lemma="otrava" src="auto">NNFP5-----A----</AM>
 <AM lemma="otrava" src="auto">NNFS2-----A----</AM>
 <AM lemma="otrava" src="auto">NNMP4-----A----</AM>
@@ -2089,7 +2098,7 @@
 </w.rf>
 <form>houby</form>
 <tag>
-<AM lemma="houba" src="auto">NNFP1-----A----</AM>
+<AM lemma="houba" src="auto" selected="1">NNFP1-----A----</AM>
 <AM lemma="houba" src="auto" recommended="1">NNFP4-----A----</AM>
 <AM lemma="houba" src="auto">NNFP5-----A----</AM>
 <AM lemma="houba" src="auto">NNFS2-----A----</AM>

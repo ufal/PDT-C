@@ -31,6 +31,7 @@
 <AM lemma="Sterling_;S" src="auto">NNMS1-----A----</AM>
 <AM lemma="sterling" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="sterling" src="auto">NNIS4-----A----</AM>
+<AM lemma="Sterling-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1896-001-p1s0W3-Ta">
@@ -48,6 +49,7 @@
 <AM lemma="software" src="auto">NNIS6-----A---1</AM>
 <AM lemma="software" src="auto">NNIS7-----A---1</AM>
 <AM lemma="software" src="auto" recommended="1">NNXXX-----A----</AM>
+<AM lemma="Software-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1896-001-p1s0W4-Ta">
@@ -59,6 +61,7 @@
 <tag>
 <AM lemma="Inc-77_:B" src="auto" recommended="1">F%-------------</AM>
 <AM lemma="inc-77_:B" src="auto">F%-------------</AM>
+<AM lemma="Inc-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1896-001-p1s0W5-Ta">
@@ -223,7 +226,10 @@
 <LM>w#w-wsj1896-001-p1s0W18</LM>
 </w.rf>
 <form>Ames</form>
-<tag lemma="Ames_;S" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Ames_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Ames-2_;G_;K" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj1896-001-p1s0W19-Ta">
 <src.rf>tagger-a</src.rf>
@@ -355,7 +361,7 @@
 <tag>
 <AM lemma="sídlící_^(*3it)" src="auto">AGIS3-----A----</AM>
 <AM lemma="sídlící_^(*3it)" src="auto" recommended="1">AGMS3-----A----</AM>
-<AM lemma="sídlící_^(*3it)" src="auto">AGNS3-----A----</AM>
+<AM lemma="sídlící_^(*3it)" src="auto" selected="1">AGNS3-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1896-001-p1s0W30-Ta">
@@ -388,7 +394,10 @@
 <LM>w#w-wsj1896-001-p1s0W32</LM>
 </w.rf>
 <form>Moffett</form>
-<tag lemma="Moffett_;S" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Moffett_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Moffett-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1896-001-p1s0W33-Ta">
 <src.rf>tagger-a</src.rf>
@@ -396,7 +405,10 @@
 <LM>w#w-wsj1896-001-p1s0W33</LM>
 </w.rf>
 <form>Field</form>
-<tag lemma="Field_;S" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Field_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Field-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1896-001-p1s0W34-Ta">
 <src.rf>tagger-a</src.rf>
@@ -459,6 +471,7 @@
 <AM lemma="Sterling_;S" src="auto">NNMS1-----A----</AM>
 <AM lemma="sterling" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="sterling" src="auto">NNIS4-----A----</AM>
+<AM lemma="Sterling-2_;K_;R" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1896-001-p1s1W3-Ta">
@@ -722,6 +735,7 @@
 <AM lemma="Sterling_;S" src="auto">NNMS1-----A----</AM>
 <AM lemma="sterling" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="sterling" src="auto">NNIS4-----A----</AM>
+<AM lemma="Sterling-2_;K_;R" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1896-001-p1s2W3-Ta">
@@ -734,7 +748,7 @@
 <AM lemma="sídlící_^(*3it)" src="auto">AGFP1-----A----</AM>
 <AM lemma="sídlící_^(*3it)" src="auto">AGFP4-----A----</AM>
 <AM lemma="sídlící_^(*3it)" src="auto">AGFP5-----A----</AM>
-<AM lemma="sídlící_^(*3it)" src="auto">AGFS1-----A----</AM>
+<AM lemma="sídlící_^(*3it)" src="auto" selected="1">AGFS1-----A----</AM>
 <AM lemma="sídlící_^(*3it)" src="auto">AGFS2-----A----</AM>
 <AM lemma="sídlící_^(*3it)" src="auto">AGFS3-----A----</AM>
 <AM lemma="sídlící_^(*3it)" src="auto">AGFS4-----A----</AM>
@@ -1174,7 +1188,7 @@
 <AM lemma="spadající-1_^(do_kategorie)_(*6t-1)" src="auto">AGFP1-----A----</AM>
 <AM lemma="spadající-1_^(do_kategorie)_(*6t-1)" src="auto">AGFP4-----A----</AM>
 <AM lemma="spadající-1_^(do_kategorie)_(*6t-1)" src="auto">AGFP5-----A----</AM>
-<AM lemma="spadající-1_^(do_kategorie)_(*6t-1)" src="auto">AGFS1-----A----</AM>
+<AM lemma="spadající-1_^(do_kategorie)_(*6t-1)" src="auto" selected="1">AGFS1-----A----</AM>
 <AM lemma="spadající-1_^(do_kategorie)_(*6t-1)" src="auto" recommended="1">AGFS2-----A----</AM>
 <AM lemma="spadající-1_^(do_kategorie)_(*6t-1)" src="auto">AGFS3-----A----</AM>
 <AM lemma="spadající-1_^(do_kategorie)_(*6t-1)" src="auto">AGFS4-----A----</AM>
@@ -1449,6 +1463,7 @@
 <AM lemma="Sterling_;S" src="auto">NNMS1-----A----</AM>
 <AM lemma="sterling" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="sterling" src="auto">NNIS4-----A----</AM>
+<AM lemma="Sterling-2_;K_;R" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1896-001-p1s4W3-Ta">

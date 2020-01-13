@@ -27,7 +27,10 @@
 <LM>w#w-wsj0529-001-p1s0W2</LM>
 </w.rf>
 <form>TransCanada</form>
-<tag lemma="TransCanada" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="TransCanada" src="auto">X@-------------</AM>
+<AM lemma="TransCanada-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0529-001-p1s0W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -35,7 +38,10 @@
 <LM>w#w-wsj0529-001-p1s0W3</LM>
 </w.rf>
 <form>PipeLines</form>
-<tag lemma="PipeLines" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="PipeLines" src="auto">X@-------------</AM>
+<AM lemma="PipeLines-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0529-001-p1s0W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -43,7 +49,10 @@
 <LM>w#w-wsj0529-001-p1s0W4</LM>
 </w.rf>
 <form>Ltd</form>
-<tag lemma="Ltd-77_:B" src="auto" recommended="1">F%-------------</tag>
+<tag>
+<AM lemma="Ltd-77_:B" src="auto" recommended="1">F%-------------</AM>
+<AM lemma="Ltd-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0529-001-p1s0W5-Ta">
 <src.rf>tagger-a</src.rf>
@@ -822,7 +831,7 @@
 <tag>
 <AM lemma="sídlící_^(*3it)" src="auto">AGFP7-----A----</AM>
 <AM lemma="sídlící_^(*3it)" src="auto" recommended="1">AGIP7-----A----</AM>
-<AM lemma="sídlící_^(*3it)" src="auto">AGMP7-----A----</AM>
+<AM lemma="sídlící_^(*3it)" src="auto" selected="1">AGMP7-----A----</AM>
 <AM lemma="sídlící_^(*3it)" src="auto">AGNP7-----A----</AM>
 </tag>
 </m>
@@ -1288,7 +1297,7 @@
 <form>jak</form>
 <tag>
 <AM lemma="jak-1_;L_^(živočich)" src="auto">NNMS1-----A----</AM>
-<AM lemma="jak-2" src="auto">J,-------------</AM>
+<AM lemma="jak-2" src="auto" selected="1">J,-------------</AM>
 <AM lemma="jak-2" src="auto">J^-------------</AM>
 <AM lemma="jak-3" src="auto" recommended="1">Db-------------</AM>
 <AM lemma="jak-99_:B_;S" src="auto">NNXXX-----A----</AM>
@@ -1345,7 +1354,10 @@
 <LM>w#w-wsj0529-001-p1s4W2</LM>
 </w.rf>
 <form>TransCanada</form>
-<tag lemma="TransCanada" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="TransCanada" src="auto">X@-------------</AM>
+<AM lemma="TransCanada_;K" src="manual" selected="1">NNFS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj0529-001-p1s4W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1366,7 +1378,7 @@
 <form>všechen</form>
 <tag>
 <AM lemma="všechen" src="auto" recommended="1">PLYS1----------</AM>
-<AM lemma="všechen" src="auto">PLYS4----------</AM>
+<AM lemma="všechen" src="auto" selected="1">PLYS4----------</AM>
 <AM lemma="všechen" src="auto">PLYS5----------</AM>
 </tag>
 </m>
@@ -1378,7 +1390,7 @@
 <form>plyn</form>
 <tag>
 <AM lemma="plyn" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="plyn" src="auto">NNIS4-----A----</AM>
+<AM lemma="plyn" src="auto" selected="1">NNIS4-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0529-001-p1s4W6-Ta">
@@ -1624,6 +1636,7 @@
 <AM lemma="Quebec_;G_,s" src="auto">NNIS2-----A----</AM>
 <AM lemma="Quebec_;G_,s" src="auto">NNIS3-----A----</AM>
 <AM lemma="Quebec_;G_,s" src="auto" recommended="1">NNIS6-----A----</AM>
+<AM lemma="Quebec_;G_,s_^(^DD**Québec)" src="manual" selected="1">NNIS2-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0529-001-p1s5W10-Ta">
@@ -1736,7 +1749,10 @@
 <LM>w#w-wsj0529-001-p1s6W2</LM>
 </w.rf>
 <form>Litvinchuk</form>
-<tag lemma="Litvinchuk" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Litvinchuk" src="auto">X@-------------</AM>
+<AM lemma="Litvinchuk_;S" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj0529-001-p1s6W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1779,6 +1795,7 @@
 <tag>
 <AM lemma="Pan-1_;S" src="auto">NNMS1-----A----</AM>
 <AM lemma="pan_^(oslovení)" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Pan-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj0529-001-p1s6W7-Ta">
@@ -1800,6 +1817,7 @@
 <AM lemma="Albert-1_;Y_,t" src="auto">NNMS4-----A----</AM>
 <AM lemma="Alberta-1_;G" src="auto" recommended="1">NNFS1-----A----</AM>
 <AM lemma="Alberta-2_;Y" src="auto">NNFS1-----A----</AM>
+<AM lemma="Alberta-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj0529-001-p1s6W9-Ta">
@@ -1808,7 +1826,10 @@
 <LM>w#w-wsj0529-001-p1s6W9</LM>
 </w.rf>
 <form>Gas</form>
-<tag lemma="Gas" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Gas" src="auto">X@-------------</AM>
+<AM lemma="Gas-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0529-001-p1s6W10-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1816,7 +1837,10 @@
 <LM>w#w-wsj0529-001-p1s6W10</LM>
 </w.rf>
 <form>Ltd</form>
-<tag lemma="Ltd-77_:B" src="auto" recommended="1">F%-------------</tag>
+<tag>
+<AM lemma="Ltd-77_:B" src="auto" recommended="1">F%-------------</AM>
+<AM lemma="Ltd-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0529-001-p1s6W11-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1841,7 +1865,7 @@
 </w.rf>
 <form>koncernu</form>
 <tag>
-<AM lemma="koncern" src="auto">NNIS2-----A----</AM>
+<AM lemma="koncern" src="auto" selected="1">NNIS2-----A----</AM>
 <AM lemma="koncern" src="auto" recommended="1">NNIS3-----A----</AM>
 <AM lemma="koncern" src="auto">NNIS6-----A----</AM>
 </tag>
@@ -2277,7 +2301,10 @@
 <LM>w#w-wsj0529-001-p1s7W21</LM>
 </w.rf>
 <form>Litvinchuk</form>
-<tag lemma="Litvinchuk" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Litvinchuk" src="auto">X@-------------</AM>
+<AM lemma="Litvinchuk_;S" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj0529-001-p1s7W22-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2651,7 +2678,7 @@
 <form>společnost</form>
 <tag>
 <AM lemma="společnost_^(*3ý)" src="auto" recommended="1">NNFS1-----A----</AM>
-<AM lemma="společnost_^(*3ý)" src="auto">NNFS4-----A----</AM>
+<AM lemma="společnost_^(*3ý)" src="auto" selected="1">NNFS4-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0529-001-p1s9W7-Ta">
@@ -2660,7 +2687,10 @@
 <LM>w#w-wsj0529-001-p1s9W7</LM>
 </w.rf>
 <form>TransCanada</form>
-<tag lemma="TransCanada" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="TransCanada" src="auto">X@-------------</AM>
+<AM lemma="TransCanada_;K" src="manual" selected="1">NNFS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj0529-001-p1s9W8-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2669,7 +2699,7 @@
 </w.rf>
 <form>stát</form>
 <tag>
-<AM lemma="stát-3_^(stojím_stojíš)" src="auto">Vf--------A-I--</AM>
+<AM lemma="stát-3_^(stojím_stojíš)" src="auto" selected="1">Vf--------A-I--</AM>
 <AM lemma="stát-5_^(sníh)" src="auto">Vf--------A-I--</AM>
 <AM lemma="stát-1_^(státní_útvar)" src="auto">NNIS1-----A----</AM>
 <AM lemma="stát-1_^(státní_útvar)" src="auto">NNIS4-----A----</AM>
@@ -2957,7 +2987,7 @@
 <AM lemma="příští" src="auto">AANP4----1A----</AM>
 <AM lemma="příští" src="auto">AANP5----1A----</AM>
 <AM lemma="příští" src="auto" recommended="1">AANS1----1A----</AM>
-<AM lemma="příští" src="auto">AANS4----1A----</AM>
+<AM lemma="příští" src="auto" selected="1">AANS4----1A----</AM>
 <AM lemma="příští" src="auto">AANS5----1A----</AM>
 </tag>
 </m>
@@ -2969,7 +2999,7 @@
 <form>léto</form>
 <tag>
 <AM lemma="léto" src="auto" recommended="1">NNNS1-----A----</AM>
-<AM lemma="léto" src="auto">NNNS4-----A----</AM>
+<AM lemma="léto" src="auto" selected="1">NNNS4-----A----</AM>
 <AM lemma="léto" src="auto">NNNS5-----A----</AM>
 </tag>
 </m>
@@ -3564,7 +3594,7 @@
 </w.rf>
 <form>zasílatele</form>
 <tag>
-<AM lemma="zasílatel" src="auto">NNMP4-----A----</AM>
+<AM lemma="zasílatel" src="auto" selected="1">NNMP4-----A----</AM>
 <AM lemma="zasílatel" src="auto">NNMS2-----A----</AM>
 <AM lemma="zasílatel" src="auto" recommended="1">NNMS4-----A----</AM>
 </tag>
@@ -3613,7 +3643,10 @@
 <LM>w#w-wsj0529-001-p1s12W14</LM>
 </w.rf>
 <form>TransCanada</form>
-<tag lemma="TransCanada" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="TransCanada" src="auto">X@-------------</AM>
+<AM lemma="TransCanada_;K" src="manual" selected="1">NNFS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj0529-001-p1s12W15-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3624,7 +3657,7 @@
 <tag>
 <AM lemma="prostřednictví" src="auto">NNNP3-----A----</AM>
 <AM lemma="prostřednictví" src="auto" recommended="1">NNNS7-----A----</AM>
-<AM lemma="prostřednictvím" src="auto">RR--2----------</AM>
+<AM lemma="prostřednictvím" src="auto" selected="1">RR--2----------</AM>
 </tag>
 </m>
 <m id="m-wsj0529-001-p1s12W16-Ta">
@@ -3834,7 +3867,10 @@
 <LM>w#w-wsj0529-001-p1s13W4</LM>
 </w.rf>
 <form>TransCanada</form>
-<tag lemma="TransCanada" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="TransCanada" src="auto">X@-------------</AM>
+<AM lemma="TransCanada_;K" src="manual" selected="1">NNFS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj0529-001-p1s13W5-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3916,6 +3952,7 @@
 <tag>
 <AM lemma="Inc-77_:B" src="auto" recommended="1">F%-------------</AM>
 <AM lemma="inc-77_:B" src="auto">F%-------------</AM>
+<AM lemma="Inc-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj0529-001-p1s13W10-Ta">

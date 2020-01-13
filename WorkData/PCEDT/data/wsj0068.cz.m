@@ -27,7 +27,10 @@
 <LM>w#w-wsj0068-001-p1s0W2</LM>
 </w.rf>
 <form>GOODY</form>
-<tag lemma="GOODY" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="GOODY" src="auto">X@-------------</AM>
+<AM lemma="GOODY-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0068-001-p1s0W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -35,7 +38,10 @@
 <LM>w#w-wsj0068-001-p1s0W3</LM>
 </w.rf>
 <form>PRODUCTS</form>
-<tag lemma="PRODUCTS" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="PRODUCTS" src="auto">X@-------------</AM>
+<AM lemma="PRODUCTS-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0068-001-p1s0W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -46,6 +52,7 @@
 <tag>
 <AM lemma="Inc-77_:B" src="auto" recommended="1">F%-------------</AM>
 <AM lemma="inc-77_:B" src="auto">F%-------------</AM>
+<AM lemma="Inc-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj0068-001-p1s0W5-Ta">
@@ -346,7 +353,7 @@
 </w.rf>
 <form>lednu</form>
 <tag>
-<AM lemma="leden" src="auto">NNIS3-----A----</AM>
+<AM lemma="leden" src="auto" selected="1">NNIS3-----A----</AM>
 <AM lemma="leden" src="auto" recommended="1">NNIS6-----A----</AM>
 </tag>
 </m>
@@ -589,7 +596,10 @@
 <LM>w#w-wsj0068-001-p1s2W12</LM>
 </w.rf>
 <form>Kearny</form>
-<tag lemma="Kearny" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Kearny" src="auto">X@-------------</AM>
+<AM lemma="Kearny_;G" src="manual" selected="1">NNNS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj0068-001-p1s2W13-Ta">
 <src.rf>tagger-a</src.rf>
@@ -622,7 +632,10 @@
 <LM>w#w-wsj0068-001-p1s2W15</LM>
 </w.rf>
 <form>Jersey</form>
-<tag lemma="Jersey_;G" src="auto" recommended="1">NNNXX-----A----</tag>
+<tag>
+<AM lemma="Jersey_;G" src="auto" recommended="1">NNNXX-----A----</AM>
+<AM lemma="Jersey-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0068-001-p1s2W16-Ta">
 <src.rf>tagger-a</src.rf>

@@ -27,7 +27,10 @@
 <LM>w#w-wsj1346-001-p1s0W2</LM>
 </w.rf>
 <form>Cummins</form>
-<tag lemma="Cummins_;S" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Cummins_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Cummins-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1346-001-p1s0W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -39,6 +42,7 @@
 <AM lemma="engine" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="engine" src="auto">NNIS4-----A----</AM>
 <AM lemma="engine" src="auto">NNIS5-----A----</AM>
+<AM lemma="Engine-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1346-001-p1s0W4-Ta">
@@ -55,6 +59,7 @@
 <AM lemma="co-4_^(který:_př.:_o_těch,_co_odešli/co_je_znal)" src="auto">P4XXX----------</AM>
 <AM lemma="co-5_^(př._co_nejméně,_co_nevidět,_co_chvíli,_co_do_počtu,_atd.)" src="auto">Db-------------</AM>
 <AM lemma="co-77_:B" src="auto">F%-------------</AM>
+<AM lemma="Co-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1346-001-p1s0W5-Ta">
@@ -722,7 +727,7 @@
 </w.rf>
 <form>součástí</form>
 <tag>
-<AM lemma="součást" src="auto">NNFP2-----A----</AM>
+<AM lemma="součást" src="auto" selected="1">NNFP2-----A----</AM>
 <AM lemma="součást" src="auto" recommended="1">NNFS7-----A----</AM>
 </tag>
 </m>

@@ -41,6 +41,11 @@
 <AM lemma="52letý" src="auto">AANS4----1A---6</AM>
 <AM lemma="52letý" src="auto">AANS5----1A---6</AM>
 </tag>
+<comment>
+<LM type="Other">
+<text>špatná tokenizace</text>
+</LM>
+</comment>
 </m>
 <m id="m-wsj0572-001-p1s0W2-Ta">
 <src.rf>tagger-a</src.rf>
@@ -48,7 +53,10 @@
 <LM>w#w-wsj0572-001-p1s0W2</LM>
 </w.rf>
 <form>Joseph</form>
-<tag lemma="Joseph_;Y_,t" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Joseph_;Y_,t" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Joseph_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj0572-001-p1s0W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -299,7 +307,10 @@
 <LM>w#w-wsj0572-001-p1s1W1</LM>
 </w.rf>
 <form>Joseph</form>
-<tag lemma="Joseph_;Y_,t" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Joseph_;Y_,t" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Joseph_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj0572-001-p1s1W2-Ta">
 <src.rf>tagger-a</src.rf>
@@ -448,7 +459,10 @@
 <LM>w#w-wsj0572-001-p1s1W11</LM>
 </w.rf>
 <form>Fishkill</form>
-<tag lemma="Fishkill" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Fishkill" src="auto">X@-------------</AM>
+<AM lemma="Fishkill-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0572-001-p1s1W12-Ta">
 <src.rf>tagger-a</src.rf>
@@ -456,7 +470,10 @@
 <LM>w#w-wsj0572-001-p1s1W12</LM>
 </w.rf>
 <form>National</form>
-<tag lemma="National-1_;K_,t_^(souč._názvů,_např._N._Semiconductor)" src="auto" recommended="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="National-1_;K_,t_^(souč._názvů,_např._N._Semiconductor)" src="auto" recommended="1">AAXXX----1A----</AM>
+<AM lemma="National-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0572-001-p1s1W13-Ta">
 <src.rf>tagger-a</src.rf>
@@ -467,7 +484,7 @@
 <tag>
 <AM lemma="Bank_;S" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Bank-1_;K_,t_^(v_cizojaz._názvech_bank)" src="auto">NNFXX-----A----</AM>
-<AM lemma="Bank-77" src="auto">F%-------------</AM>
+<AM lemma="Bank-77" src="auto" selected="1">F%-------------</AM>
 <AM lemma="banka" src="auto">NNFP2-----A----</AM>
 <AM lemma="bank" src="auto">NNIS1-----A----</AM>
 <AM lemma="bank" src="auto">NNIS4-----A----</AM>
@@ -498,6 +515,7 @@
 <AM lemma="Beacon_;K" src="auto">NNIS2-----A----</AM>
 <AM lemma="Beacon_;K" src="auto">NNIS3-----A----</AM>
 <AM lemma="Beacon_;K" src="auto" recommended="1">NNIS6-----A----</AM>
+<AM lemma="Beacon_;G_;K" src="manual" selected="1">NNIS6-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0572-001-p1s1W16-Ta">
@@ -540,6 +558,7 @@
 <AM lemma="York-1_;S" src="auto">NNMS1-----A----</AM>
 <AM lemma="York-2_;G" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="York-2_;G" src="auto">NNIS4-----A----</AM>
+<AM lemma="York-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj0572-001-p1s1W20-Ta">

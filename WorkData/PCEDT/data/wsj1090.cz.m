@@ -34,6 +34,7 @@
 <AM lemma="sun" src="auto">NNIS1-----A----</AM>
 <AM lemma="sun" src="auto">NNIS4-----A----</AM>
 <AM lemma="sunna_,t_,x_^(ústní_podání_Mohamedových_činů)" src="auto">NNFP2-----A----</AM>
+<AM lemma="Sun-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1090-001-p1s0W3-Ta">
@@ -42,7 +43,10 @@
 <LM>w#w-wsj1090-001-p1s0W3</LM>
 </w.rf>
 <form>Microsystems</form>
-<tag lemma="Microsystems" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Microsystems" src="auto">X@-------------</AM>
+<AM lemma="Microsystems-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1090-001-p1s0W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -53,6 +57,7 @@
 <tag>
 <AM lemma="Inc-77_:B" src="auto" recommended="1">F%-------------</AM>
 <AM lemma="inc-77_:B" src="auto">F%-------------</AM>
+<AM lemma="Inc-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1090-001-p1s0W5-Ta">
@@ -109,7 +114,7 @@
 <form>Prime</form>
 <tag>
 <AM lemma="Prime-1_,t_^(fin.:_souč._term._Prime_Rate)" src="auto">AAXXX----1A----</AM>
-<AM lemma="Prime-77" src="auto" recommended="1">F%-------------</AM>
+<AM lemma="Prime-77" src="auto" recommended="1" selected="1">F%-------------</AM>
 <AM lemma="prim" src="auto">NNIS5-----A----</AM>
 <AM lemma="prime-77_,t" src="auto">F%-------------</AM>
 </tag>
@@ -123,6 +128,7 @@
 <tag>
 <AM lemma="computer_,s_^(^DD**komputer)" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="computer_,s_^(^DD**komputer)" src="auto">NNIS4-----A----</AM>
+<AM lemma="Computer-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1090-001-p1s0W12-Ta">
@@ -134,6 +140,7 @@
 <tag>
 <AM lemma="Inc-77_:B" src="auto" recommended="1">F%-------------</AM>
 <AM lemma="inc-77_:B" src="auto">F%-------------</AM>
+<AM lemma="Inc-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1090-001-p1s0W13-Ta">
@@ -591,7 +598,10 @@
 <LM>w#w-wsj1090-001-p1s1W14</LM>
 </w.rf>
 <form>Sparc</form>
-<tag lemma="Sparc" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Sparc" src="auto">X@-------------</AM>
+<AM lemma="Sparc_;R" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj1090-001-p1s1W15-Ta">
 <src.rf>tagger-a</src.rf>

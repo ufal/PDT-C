@@ -47,7 +47,10 @@
 <LM>w#w-wsj0512-001-p1s0W4</LM>
 </w.rf>
 <form>Way</form>
-<tag lemma="Way" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Way" src="auto">X@-------------</AM>
+<AM lemma="Way_;S" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj0512-001-p1s0W5-Ta">
 <src.rf>tagger-a</src.rf>
@@ -268,6 +271,7 @@
 <tag>
 <AM lemma="Alvin_;S" src="auto">NNMS2-----A----</AM>
 <AM lemma="Alvin_;S" src="auto" recommended="1">NNMS4-----A----</AM>
+<AM lemma="Alvin_;S_;Y" src="manual" selected="1">NNMS4-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0512-001-p1s1W6-Ta">
@@ -304,7 +308,7 @@
 <form>McCalla</form>
 <tag>
 <AM lemma="McCall_;S" src="auto" recommended="1">NNMS2-----A----</AM>
-<AM lemma="McCall_;S" src="auto">NNMS4-----A----</AM>
+<AM lemma="McCall_;S" src="auto" selected="1">NNMS4-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0512-001-p1s1W9-Ta">

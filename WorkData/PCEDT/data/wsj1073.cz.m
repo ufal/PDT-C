@@ -27,7 +27,10 @@
 <LM>w#w-wsj1073-001-p1s0W2</LM>
 </w.rf>
 <form>Advanced</form>
-<tag lemma="Advanced" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Advanced" src="auto">X@-------------</AM>
+<AM lemma="Advanced-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1073-001-p1s0W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -35,7 +38,10 @@
 <LM>w#w-wsj1073-001-p1s0W3</LM>
 </w.rf>
 <form>Medical</form>
-<tag lemma="Medical" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Medical" src="auto">X@-------------</AM>
+<AM lemma="Medical-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1073-001-p1s0W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -43,7 +49,10 @@
 <LM>w#w-wsj1073-001-p1s0W4</LM>
 </w.rf>
 <form>Technologies</form>
-<tag lemma="Technologies" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Technologies" src="auto">X@-------------</AM>
+<AM lemma="Technologies-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1073-001-p1s0W5-Ta">
 <src.rf>tagger-a</src.rf>
@@ -54,6 +63,7 @@
 <tag>
 <AM lemma="Inc-77_:B" src="auto" recommended="1">F%-------------</AM>
 <AM lemma="inc-77_:B" src="auto">F%-------------</AM>
+<AM lemma="Inc-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1073-001-p1s0W6-Ta">
@@ -176,6 +186,7 @@
 <tag>
 <AM lemma="Henley_;S" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Henley_;S" src="auto">NNMS5-----A----</AM>
+<AM lemma="Henley-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1073-001-p1s0W18-Ta">
@@ -184,7 +195,10 @@
 <LM>w#w-wsj1073-001-p1s0W18</LM>
 </w.rf>
 <form>Group</form>
-<tag lemma="Group-1_;K_,t_^(obv._souč._názvu_firem,_&quot;skupina&quot;)" src="auto" recommended="1">NNFXX-----A----</tag>
+<tag>
+<AM lemma="Group-1_;K_,t_^(obv._souč._názvu_firem,_&quot;skupina&quot;)" src="auto" recommended="1">NNFXX-----A----</AM>
+<AM lemma="Group-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1073-001-p1s0W19-Ta">
 <src.rf>tagger-a</src.rf>
@@ -195,6 +209,7 @@
 <tag>
 <AM lemma="Inc-77_:B" src="auto" recommended="1">F%-------------</AM>
 <AM lemma="inc-77_:B" src="auto">F%-------------</AM>
+<AM lemma="Inc-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1073-001-p1s0W20-Ta">
@@ -224,7 +239,10 @@
 <LM>w#w-wsj1073-001-p1s1W2</LM>
 </w.rf>
 <form>Advanced</form>
-<tag lemma="Advanced" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Advanced" src="auto">X@-------------</AM>
+<AM lemma="Advanced-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1073-001-p1s1W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -232,7 +250,10 @@
 <LM>w#w-wsj1073-001-p1s1W3</LM>
 </w.rf>
 <form>Medical</form>
-<tag lemma="Medical" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Medical" src="auto">X@-------------</AM>
+<AM lemma="Medical-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1073-001-p1s1W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -309,7 +330,10 @@
 <LM>w#w-wsj1073-001-p1s1W10</LM>
 </w.rf>
 <form>Fisher</form>
-<tag lemma="Fisher_;S" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Fisher_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Fisher-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1073-001-p1s1W11-Ta">
 <src.rf>tagger-a</src.rf>
@@ -317,7 +341,10 @@
 <LM>w#w-wsj1073-001-p1s1W11</LM>
 </w.rf>
 <form>Scientific</form>
-<tag lemma="Scientific" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Scientific" src="auto">X@-------------</AM>
+<AM lemma="Scientific-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1073-001-p1s1W12-Ta">
 <src.rf>tagger-a</src.rf>
@@ -339,7 +366,7 @@
 <AM lemma="přidružený_^(*3it)" src="auto">AAFP5----1A----</AM>
 <AM lemma="přidružený_^(*3it)" src="auto">AAFS2----1A----</AM>
 <AM lemma="přidružený_^(*3it)" src="auto">AAFS3----1A----</AM>
-<AM lemma="přidružený_^(*3it)" src="auto">AAFS6----1A----</AM>
+<AM lemma="přidružený_^(*3it)" src="auto" selected="1">AAFS6----1A----</AM>
 <AM lemma="přidružený_^(*3it)" src="auto">AAIP1----1A----</AM>
 <AM lemma="přidružený_^(*3it)" src="auto">AAIP4----1A----</AM>
 <AM lemma="přidružený_^(*3it)" src="auto">AAIP5----1A----</AM>
@@ -365,7 +392,7 @@
 <AM lemma="společnost_^(*3ý)" src="auto">NNFS2-----A----</AM>
 <AM lemma="společnost_^(*3ý)" src="auto">NNFS3-----A----</AM>
 <AM lemma="společnost_^(*3ý)" src="auto">NNFS5-----A----</AM>
-<AM lemma="společnost_^(*3ý)" src="auto">NNFS6-----A----</AM>
+<AM lemma="společnost_^(*3ý)" src="auto" selected="1">NNFS6-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1073-001-p1s1W15-Ta">
@@ -685,7 +712,10 @@
 <LM>w#w-wsj1073-001-p1s2W16</LM>
 </w.rf>
 <form>Advanced</form>
-<tag lemma="Advanced" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Advanced" src="auto">X@-------------</AM>
+<AM lemma="Advanced-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1073-001-p1s2W17-Ta">
 <src.rf>tagger-a</src.rf>
@@ -693,7 +723,10 @@
 <LM>w#w-wsj1073-001-p1s2W17</LM>
 </w.rf>
 <form>Medical</form>
-<tag lemma="Medical" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Medical" src="auto">X@-------------</AM>
+<AM lemma="Medical-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1073-001-p1s2W18-Ta">
 <src.rf>tagger-a</src.rf>

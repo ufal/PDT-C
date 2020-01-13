@@ -150,7 +150,7 @@
 <tag>
 <AM lemma="taka-1_;L" src="auto">NNFP2-----A----</AM>
 <AM lemma="tak-1" src="auto">TT-------------</AM>
-<AM lemma="tak-2" src="auto">J^-------------</AM>
+<AM lemma="tak-2" src="auto" selected="1">J^-------------</AM>
 <AM lemma="tak-3" src="auto" recommended="1">Db-------------</AM>
 </tag>
 </m>
@@ -540,7 +540,10 @@
 <LM>w#w-wsj0244-001-p1s1W11</LM>
 </w.rf>
 <form>programů</form>
-<tag lemma="program-1" src="auto" recommended="1">NNIP2-----A----</tag>
+<tag>
+<AM lemma="program-1" src="auto" recommended="1">NNIP2-----A----</AM>
+<AM lemma="program" src="manual" selected="1">NNIP2-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj0244-001-p1s1W12-Ta">
 <src.rf>tagger-a</src.rf>
@@ -558,7 +561,7 @@
 <form>jak</form>
 <tag>
 <AM lemma="jak-1_;L_^(živočich)" src="auto">NNMS1-----A----</AM>
-<AM lemma="jak-2" src="auto">J,-------------</AM>
+<AM lemma="jak-2" src="auto" selected="1">J,-------------</AM>
 <AM lemma="jak-2" src="auto">J^-------------</AM>
 <AM lemma="jak-3" src="auto" recommended="1">Db-------------</AM>
 <AM lemma="jak-99_:B_;S" src="auto">NNXXX-----A----</AM>
@@ -717,7 +720,10 @@
 <LM>w#w-wsj0244-001-p1s2W5</LM>
 </w.rf>
 <form>programech</form>
-<tag lemma="program-1" src="auto" recommended="1">NNIP6-----A----</tag>
+<tag>
+<AM lemma="program-1" src="auto" recommended="1">NNIP6-----A----</AM>
+<AM lemma="program" src="manual" selected="1">NNIP6-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj0244-001-p1s2W6-Ta">
 <src.rf>tagger-a</src.rf>
@@ -898,7 +904,7 @@
 <AM lemma="zářijový" src="auto" recommended="1">AAIP3----1A----</AM>
 <AM lemma="zářijový" src="auto">AAIS6----1A---7</AM>
 <AM lemma="zářijový" src="auto">AAIS7----1A----</AM>
-<AM lemma="zářijový" src="auto">AAMP3----1A----</AM>
+<AM lemma="zářijový" src="auto" selected="1">AAMP3----1A----</AM>
 <AM lemma="zářijový" src="auto">AAMS6----1A---7</AM>
 <AM lemma="zářijový" src="auto">AAMS7----1A----</AM>
 <AM lemma="zářijový" src="auto">AANP3----1A----</AM>
@@ -979,7 +985,7 @@
 <tag>
 <AM lemma="nezaměstnaný-2_^(člověk_bez_zaměstnání)" src="auto" recommended="1">NNMP1-----A----</AM>
 <AM lemma="nezaměstnaný-2_^(člověk_bez_zaměstnání)" src="auto">NNMP5-----A----</AM>
-<AM lemma="zaměstnaný_^(*2t)" src="auto">AAMP1----1N----</AM>
+<AM lemma="zaměstnaný_^(*2t)" src="auto" selected="1">AAMP1----1N----</AM>
 <AM lemma="zaměstnaný_^(*2t)" src="auto">AAMP5----1N----</AM>
 </tag>
 </m>
@@ -1219,7 +1225,10 @@
 <LM>w#w-wsj0244-001-p1s4W8</LM>
 </w.rf>
 <form>programech</form>
-<tag lemma="program-1" src="auto" recommended="1">NNIP6-----A----</tag>
+<tag>
+<AM lemma="program-1" src="auto" recommended="1">NNIP6-----A----</AM>
+<AM lemma="program" src="manual" selected="1">NNIP6-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj0244-001-p1s4W9-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1452,7 +1461,10 @@
 <LM>w#w-wsj0244-001-p1s5W7</LM>
 </w.rf>
 <form>programech</form>
-<tag lemma="program-1" src="auto" recommended="1">NNIP6-----A----</tag>
+<tag>
+<AM lemma="program-1" src="auto" recommended="1">NNIP6-----A----</AM>
+<AM lemma="program" src="manual" selected="1">NNIP6-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj0244-001-p1s5W8-Ta">
 <src.rf>tagger-a</src.rf>

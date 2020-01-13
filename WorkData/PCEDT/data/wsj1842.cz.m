@@ -23,6 +23,7 @@
 <AM lemma="Maurice_;Y_,t" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Maurice_;Y_,t" src="auto">NNMS5-----A----</AM>
 <AM lemma="Maurice_;Y_,t" src="auto">NNMXX-----A----</AM>
+<AM lemma="Maurice_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1842-001-p1s0W2-Ta">
@@ -76,6 +77,11 @@
 <AM lemma="56letý" src="auto">AANS4----1A---6</AM>
 <AM lemma="56letý" src="auto">AANS5----1A---6</AM>
 </tag>
+<comment>
+<LM type="Other">
+<text>špatná tokenizace</text>
+</LM>
+</comment>
 </m>
 <m id="m-wsj1842-001-p1s0W5-Ta">
 <src.rf>tagger-a</src.rf>
@@ -238,7 +244,7 @@
 <AM lemma="podnikající_^(*4t)" src="auto">AGFP4-----A----</AM>
 <AM lemma="podnikající_^(*4t)" src="auto">AGFP5-----A----</AM>
 <AM lemma="podnikající_^(*4t)" src="auto">AGFS1-----A----</AM>
-<AM lemma="podnikající_^(*4t)" src="auto">AGFS2-----A----</AM>
+<AM lemma="podnikající_^(*4t)" src="auto" selected="1">AGFS2-----A----</AM>
 <AM lemma="podnikající_^(*4t)" src="auto">AGFS3-----A----</AM>
 <AM lemma="podnikající_^(*4t)" src="auto">AGFS4-----A----</AM>
 <AM lemma="podnikající_^(*4t)" src="auto">AGFS5-----A----</AM>
@@ -349,7 +355,7 @@
 <AM lemma="Místo_;G" src="auto">NNNS1-----A----</AM>
 <AM lemma="Místo_;G" src="auto">NNNS4-----A----</AM>
 <AM lemma="Místo_;G" src="auto">NNNS5-----A----</AM>
-<AM lemma="místo-1_^(fyzické_umístění)" src="auto">NNNS1-----A----</AM>
+<AM lemma="místo-1_^(fyzické_umístění)" src="auto" selected="1">NNNS1-----A----</AM>
 <AM lemma="místo-1_^(fyzické_umístění)" src="auto">NNNS4-----A----</AM>
 <AM lemma="místo-1_^(fyzické_umístění)" src="auto">NNNS5-----A----</AM>
 <AM lemma="místo-2_^(záměnou_za)" src="auto" recommended="1">RR--2----------</AM>
@@ -506,6 +512,11 @@
 <AM lemma="55letý" src="auto">AANS4----1A---6</AM>
 <AM lemma="55letý" src="auto">AANS5----1A---6</AM>
 </tag>
+<comment>
+<LM type="Other">
+<text>špatná tokenizace</text>
+</LM>
+</comment>
 </m>
 <m id="m-wsj1842-001-p1s1W13-Ta">
 <src.rf>tagger-a</src.rf>
@@ -522,6 +533,7 @@
 <AM lemma="Terry_;S" src="auto">NNMS5-----A----</AM>
 <AM lemma="Terry_;S" src="auto">NNMXX-----A----</AM>
 <AM lemma="terra" src="auto">NNFS2-----A----</AM>
+<AM lemma="Terry_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1842-001-p1s1W14-Ta">

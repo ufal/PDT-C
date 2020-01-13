@@ -22,6 +22,7 @@
 <AM lemma="Celsius" src="auto" recommended="1">NNMXX-----A---8</AM>
 <AM lemma="c-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
 <AM lemma="c-88_:B" src="auto">NNXXX-----A----</AM>
+<AM lemma="C-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0929-001-p1s0W2-Ta">
@@ -72,6 +73,7 @@
 <tag>
 <AM lemma="mililitr" src="auto">NNIXX-----A---8</AM>
 <AM lemma="mladý_:B" src="auto" recommended="1">AAXXX----2A---8</AM>
+<AM lemma="mladý" src="manual" selected="1">AAXXX----2A---8</AM>
 </tag>
 </m>
 <m id="m-wsj0929-001-p1s0W7-Ta">
@@ -250,7 +252,7 @@
 <form>čtyřiašedesátiletém</form>
 <tag>
 <AM lemma="čtyřiašedesátiletý" src="auto" recommended="1">AAIS6----1A----</AM>
-<AM lemma="čtyřiašedesátiletý" src="auto">AAMS6----1A----</AM>
+<AM lemma="čtyřiašedesátiletý" src="auto" selected="1">AAMS6----1A----</AM>
 <AM lemma="čtyřiašedesátiletý" src="auto">AANS6----1A----</AM>
 </tag>
 </m>
@@ -309,7 +311,7 @@
 <form>Whiteovi</form>
 <tag>
 <AM lemma="White_;S" src="auto" recommended="1">NNMS3-----A----</AM>
-<AM lemma="White_;S" src="auto">NNMS6-----A----</AM>
+<AM lemma="White_;S" src="auto" selected="1">NNMS6-----A----</AM>
 <AM lemma="Whiteův_;S_^(*2)" src="auto">AUMP1M---------</AM>
 <AM lemma="Whiteův_;S_^(*2)" src="auto">AUMP5M---------</AM>
 </tag>
@@ -348,7 +350,7 @@
 <form>i</form>
 <tag>
 <AM lemma="i-1" src="auto" recommended="1">J^-------------</AM>
-<AM lemma="i-2" src="auto">TT-------------</AM>
+<AM lemma="i-2" src="auto" selected="1">TT-------------</AM>
 <AM lemma="i-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
 <AM lemma="i-88_:B" src="auto">NNXXX-----A----</AM>
 </tag>
@@ -563,7 +565,10 @@
 <LM>w#w-wsj0929-001-p1s2W10</LM>
 </w.rf>
 <form>Equifax</form>
-<tag lemma="Equifax" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Equifax" src="auto">X@-------------</AM>
+<AM lemma="Equifax_;K" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj0929-001-p1s2W11-Ta">
 <src.rf>tagger-a</src.rf>
@@ -592,7 +597,7 @@
 <form>podrží</form>
 <tag>
 <AM lemma="podržet" src="auto" recommended="1">VB-P---3P-AAP--</AM>
-<AM lemma="podržet" src="auto">VB-S---3P-AAP--</AM>
+<AM lemma="podržet" src="auto" selected="1">VB-S---3P-AAP--</AM>
 </tag>
 </m>
 <m id="m-wsj0929-001-p1s2W14-Ta">

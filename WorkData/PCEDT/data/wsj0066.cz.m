@@ -32,6 +32,7 @@
 <AM lemma="Petra-1_;Y" src="auto">NNFP2-----A----</AM>
 <AM lemma="Petra-2_;G" src="auto">NNFP2-----A----</AM>
 <AM lemma="petra-1_;R" src="auto">NNFP2-----A----</AM>
+<AM lemma="Peter_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0066-001-p1s0W3-Ta">
@@ -81,6 +82,11 @@
 <AM lemma="58letý" src="auto">AANS4----1A---6</AM>
 <AM lemma="58letý" src="auto">AANS5----1A---6</AM>
 </tag>
+<comment>
+<LM type="Other">
+<text>špatná tokenizace</text>
+</LM>
+</comment>
 </m>
 <m id="m-wsj0066-001-p1s0W6-Ta">
 <src.rf>tagger-a</src.rf>
@@ -112,7 +118,10 @@
 <LM>w#w-wsj0066-001-p1s0W8</LM>
 </w.rf>
 <form>British</form>
-<tag lemma="British_;K_,t_^(souč._názvů,_např._B._Airways)" src="auto" recommended="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="British_;K_,t_^(souč._názvů,_např._B._Airways)" src="auto" recommended="1">AAXXX----1A----</AM>
+<AM lemma="British-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0066-001-p1s0W9-Ta">
 <src.rf>tagger-a</src.rf>
@@ -120,7 +129,10 @@
 <LM>w#w-wsj0066-001-p1s0W9</LM>
 </w.rf>
 <form>Petroleum</form>
-<tag lemma="Petroleum" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Petroleum" src="auto">X@-------------</AM>
+<AM lemma="Petroleum-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0066-001-p1s0W10-Ta">
 <src.rf>tagger-a</src.rf>
@@ -136,6 +148,7 @@
 <AM lemma="co-4_^(který:_př.:_o_těch,_co_odešli/co_je_znal)" src="auto">P4XXX----------</AM>
 <AM lemma="co-5_^(př._co_nejméně,_co_nevidět,_co_chvíli,_co_do_počtu,_atd.)" src="auto">Db-------------</AM>
 <AM lemma="co-77_:B" src="auto">F%-------------</AM>
+<AM lemma="Co-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj0066-001-p1s0W11-Ta">
@@ -329,7 +342,7 @@
 <AM lemma="vyrábějící_^(*4t)" src="auto">AGFP4-----A----</AM>
 <AM lemma="vyrábějící_^(*4t)" src="auto">AGFP5-----A----</AM>
 <AM lemma="vyrábějící_^(*4t)" src="auto">AGFS1-----A----</AM>
-<AM lemma="vyrábějící_^(*4t)" src="auto">AGFS2-----A----</AM>
+<AM lemma="vyrábějící_^(*4t)" src="auto" selected="1">AGFS2-----A----</AM>
 <AM lemma="vyrábějící_^(*4t)" src="auto">AGFS3-----A----</AM>
 <AM lemma="vyrábějící_^(*4t)" src="auto">AGFS4-----A----</AM>
 <AM lemma="vyrábějící_^(*4t)" src="auto">AGFS5-----A----</AM>
@@ -423,6 +436,7 @@
 <AM lemma="Petra-1_;Y" src="auto">NNFP2-----A----</AM>
 <AM lemma="Petra-2_;G" src="auto">NNFP2-----A----</AM>
 <AM lemma="petra-1_;R" src="auto">NNFP2-----A----</AM>
+<AM lemma="Peter_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0066-001-p1s1W3-Ta">
@@ -448,6 +462,11 @@
 <AM lemma="65letý" src="auto" recommended="1">AAMS4----1A----</AM>
 <AM lemma="65letý" src="auto">AANS2----1A----</AM>
 </tag>
+<comment>
+<LM type="Other">
+<text>špatná tokenizace</text>
+</LM>
+</comment>
 </m>
 <m id="m-wsj0066-001-p1s1W5-Ta">
 <src.rf>tagger-a</src.rf>
@@ -470,6 +489,7 @@
 <tag>
 <AM lemma="John_;Y" src="auto">NNMS2-----A----</AM>
 <AM lemma="John_;Y" src="auto" recommended="1">NNMS4-----A----</AM>
+<AM lemma="John_;S_:Y" src="manual" selected="1">NNMS4-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0066-001-p1s1W7-Ta">
@@ -478,7 +498,10 @@
 <LM>w#w-wsj0066-001-p1s1W7</LM>
 </w.rf>
 <form>Milna</form>
-<tag lemma="Milna" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Milna" src="auto">X@-------------</AM>
+<AM lemma="Milne_;S" src="manual" selected="1">NNMS4-----A---1</AM>
+</tag>
 </m>
 <m id="m-wsj0066-001-p1s1W8-Ta">
 <src.rf>tagger-a</src.rf>
@@ -632,7 +655,10 @@
 <LM>w#w-wsj0066-001-p1s1W20</LM>
 </w.rf>
 <form>Blue</form>
-<tag lemma="Blue" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Blue" src="auto">X@-------------</AM>
+<AM lemma="Blue-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0066-001-p1s1W21-Ta">
 <src.rf>tagger-a</src.rf>
@@ -640,7 +666,10 @@
 <LM>w#w-wsj0066-001-p1s1W21</LM>
 </w.rf>
 <form>Circle</form>
-<tag lemma="Circle" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Circle" src="auto">X@-------------</AM>
+<AM lemma="Circle-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0066-001-p1s1W22-Ta">
 <src.rf>tagger-a</src.rf>

@@ -32,10 +32,11 @@
 </w.rf>
 <form>Chevrolet</form>
 <tag>
-<AM lemma="Chevrolet_;K_;R" src="auto" recommended="1">NNIS1-----A----</AM>
+<AM lemma="Chevrolet_;K_;R" src="auto" recommended="1" selected="1">NNIS1-----A----</AM>
 <AM lemma="Chevrolet_;K_;R" src="auto">NNIS4-----A----</AM>
 <AM lemma="chevrolet_^(vozidlo)" src="auto">NNIS1-----A----</AM>
 <AM lemma="chevrolet_^(vozidlo)" src="auto">NNIS4-----A----</AM>
+<AM lemma="Chevrolet-77" src="manual">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1981-001-p1s0W3-Ta">
@@ -65,6 +66,7 @@
 <AM lemma="General_;K_,t" src="auto">NNIS1-----A----</AM>
 <AM lemma="General_;K_,t" src="auto">NNIS4-----A----</AM>
 <AM lemma="General_;K_,t" src="auto" recommended="1">NNXXX-----A----</AM>
+<AM lemma="General-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1981-001-p1s0W5-Ta">
@@ -73,7 +75,10 @@
 <LM>w#w-wsj1981-001-p1s0W5</LM>
 </w.rf>
 <form>Motors</form>
-<tag lemma="Motors-1_;K_,t_^(souč._názvů,_např._General_M.)" src="auto" recommended="1">NNIPX-----A----</tag>
+<tag>
+<AM lemma="Motors-1_;K_,t_^(souč._názvů,_např._General_M.)" src="auto" recommended="1">NNIPX-----A----</AM>
+<AM lemma="Motors-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1981-001-p1s0W6-Ta">
 <src.rf>tagger-a</src.rf>
@@ -81,7 +86,10 @@
 <LM>w#w-wsj1981-001-p1s0W6</LM>
 </w.rf>
 <form>Corp</form>
-<tag lemma="corp-77_:B" src="auto" recommended="1">F%-------------</tag>
+<tag>
+<AM lemma="corp-77_:B" src="auto" recommended="1">F%-------------</AM>
+<AM lemma="Corp-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1981-001-p1s0W7-Ta">
 <src.rf>tagger-a</src.rf>
@@ -208,7 +216,7 @@
 <AM lemma="dvoudveřový" src="auto">AAFP1----1A----</AM>
 <AM lemma="dvoudveřový" src="auto" recommended="1">AAFP4----1A----</AM>
 <AM lemma="dvoudveřový" src="auto">AAFP5----1A----</AM>
-<AM lemma="dvoudveřový" src="auto">AAFS2----1A----</AM>
+<AM lemma="dvoudveřový" src="auto" selected="1">AAFS2----1A----</AM>
 <AM lemma="dvoudveřový" src="auto">AAFS3----1A----</AM>
 <AM lemma="dvoudveřový" src="auto">AAFS6----1A----</AM>
 <AM lemma="dvoudveřový" src="auto">AAIP1----1A----</AM>
@@ -234,7 +242,7 @@
 <AM lemma="verze" src="auto" recommended="1">NNFP4-----A----</AM>
 <AM lemma="verze" src="auto">NNFP5-----A----</AM>
 <AM lemma="verze" src="auto">NNFS1-----A----</AM>
-<AM lemma="verze" src="auto">NNFS2-----A----</AM>
+<AM lemma="verze" src="auto" selected="1">NNFS2-----A----</AM>
 <AM lemma="verze" src="auto">NNFS5-----A----</AM>
 </tag>
 </m>
@@ -573,7 +581,7 @@
 </w.rf>
 <form>její</form>
 <tag>
-<AM lemma="jeho_^(přivlast.)" src="auto">PSFSXFS3-------</AM>
+<AM lemma="jeho_^(přivlast.)" src="auto" selected="1">PSFSXFS3-------</AM>
 <AM lemma="jeho_^(přivlast.)" src="auto">PSIS4FS3-------</AM>
 <AM lemma="jeho_^(přivlast.)" src="auto">PSNS4FS3-------</AM>
 <AM lemma="jeho_^(přivlast.)" src="auto" recommended="1">PSXP1FS3-------</AM>
@@ -606,6 +614,7 @@
 <AM lemma="čtyřdveřový_,x" src="auto">AANS1----1A----</AM>
 <AM lemma="čtyřdveřový_,x" src="auto">AANS4----1A----</AM>
 <AM lemma="čtyřdveřový_,x" src="auto">AANS5----1A----</AM>
+<AM lemma="čtyřdveřový" src="manual" selected="1">AAFS2----1A----</AM>
 </tag>
 </m>
 <m id="m-wsj1981-001-p1s1W8-Ta">
@@ -618,7 +627,7 @@
 <AM lemma="sestra" src="auto" recommended="1">NNFP1-----A----</AM>
 <AM lemma="sestra" src="auto">NNFP4-----A----</AM>
 <AM lemma="sestra" src="auto">NNFP5-----A----</AM>
-<AM lemma="sestra" src="auto">NNFS2-----A----</AM>
+<AM lemma="sestra" src="auto" selected="1">NNFS2-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1981-001-p1s1W9-Ta">
@@ -627,7 +636,11 @@
 <LM>w#w-wsj1981-001-p1s1W9</LM>
 </w.rf>
 <form>Corsica</form>
-<tag lemma="Corsica" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Corsica" src="auto">X@-------------</AM>
+<AM lemma="Corsica_;R" src="manual">NNFS1-----A----</AM>
+<AM lemma="Corsica_;K_;R" src="manual" selected="1">NNFS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj1981-001-p1s1W10-Ta">
 <src.rf>tagger-a</src.rf>
@@ -654,7 +667,10 @@
 <LM>w#w-wsj1981-001-p1s1W12</LM>
 </w.rf>
 <form>GM</form>
-<tag lemma="GM_:B_;K_;R" src="auto" recommended="1">NNFXX-----A----</tag>
+<tag>
+<AM lemma="GM_:B_;K_;R" src="auto" recommended="1">NNFXX-----A----</AM>
+<AM lemma="GM_:B_;K_;R" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj1981-001-p1s1W13-Ta">
 <src.rf>tagger-a</src.rf>
@@ -860,7 +876,11 @@
 <LM>w#w-wsj1981-001-p1s2W1</LM>
 </w.rf>
 <form>Corsica</form>
-<tag lemma="Corsica" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Corsica" src="auto">X@-------------</AM>
+<AM lemma="Corsica_;R" src="manual">NNFS1-----A----</AM>
+<AM lemma="Corsica_;K_;R" src="manual" selected="1">NNFS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj1981-001-p1s2W2-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1002,7 +1022,7 @@
 </w.rf>
 <form>Chevrolet</form>
 <tag>
-<AM lemma="Chevrolet_;K_;R" src="auto">NNIS1-----A----</AM>
+<AM lemma="Chevrolet_;K_;R" src="auto" selected="1">NNIS1-----A----</AM>
 <AM lemma="Chevrolet_;K_;R" src="auto" recommended="1">NNIS4-----A----</AM>
 <AM lemma="chevrolet_^(vozidlo)" src="auto">NNIS1-----A----</AM>
 <AM lemma="chevrolet_^(vozidlo)" src="auto">NNIS4-----A----</AM>
@@ -1364,7 +1384,10 @@
 <LM>w#w-wsj1981-001-p1s3W10</LM>
 </w.rf>
 <form>Corsica</form>
-<tag lemma="Corsica" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Corsica" src="auto">X@-------------</AM>
+<AM lemma="Corsica_;K_;R" src="manual" selected="1">NNFS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj1981-001-p1s3W11-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1738,7 +1761,10 @@
 <LM>w#w-wsj1981-001-p1s5W24</LM>
 </w.rf>
 <form>24měsíční</form>
-<tag lemma="24měsíční" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="24měsíční" src="auto">X@-------------</AM>
+<AM lemma="24měsíční" src="manual" selected="1">AAFP4----1A----</AM>
+</tag>
 </m>
 <m id="m-wsj1981-001-p1s5W25-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1800,7 +1826,10 @@
 <LM>w#w-wsj1981-001-p1s5W30</LM>
 </w.rf>
 <form>60měsíční</form>
-<tag lemma="60měsíční" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="60měsíční" src="auto">X@-------------</AM>
+<AM lemma="60měsíční" src="manual" selected="1">AAFP4----1A----</AM>
+</tag>
 </m>
 <m id="m-wsj1981-001-p1s5W31-Ta">
 <src.rf>tagger-a</src.rf>

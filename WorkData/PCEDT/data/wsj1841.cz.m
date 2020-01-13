@@ -41,6 +41,11 @@
 <AM lemma="65letý" src="auto">AANS4----1A---6</AM>
 <AM lemma="65letý" src="auto">AANS5----1A---6</AM>
 </tag>
+<comment>
+<LM type="Other">
+<text>špatná tokenizace</text>
+</LM>
+</comment>
 </m>
 <m id="m-wsj1841-001-p1s0W2-Ta">
 <src.rf>tagger-a</src.rf>
@@ -529,6 +534,11 @@
 <AM lemma="58letý" src="auto">AANS4----1A---6</AM>
 <AM lemma="58letý" src="auto">AANS5----1A---6</AM>
 </tag>
+<comment>
+<LM type="Other">
+<text>špatná tokenizace</text>
+</LM>
+</comment>
 </m>
 <m id="m-wsj1841-001-p1s2W7-Ta">
 <src.rf>tagger-a</src.rf>
@@ -550,6 +560,7 @@
 <AM lemma="Celsius" src="auto" recommended="1">NNMXX-----A---8</AM>
 <AM lemma="c-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
 <AM lemma="c-88_:B" src="auto">NNXXX-----A----</AM>
+<AM lemma="C-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1841-001-p1s2W9-Ta">

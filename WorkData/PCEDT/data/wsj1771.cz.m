@@ -112,7 +112,7 @@
 <form>a</form>
 <tag>
 <AM lemma="a-1" src="auto" recommended="1">J^-------------</AM>
-<AM lemma="a-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
+<AM lemma="a-33_^(označení_pomocí_písmene)" src="auto" selected="1">NNNXX-----A----</AM>
 <AM lemma="a-77_,t" src="auto">F%-------------</AM>
 <AM lemma="a-88_:B" src="auto">NNXXX-----A----</AM>
 <AM lemma="akciový" src="auto">AAXXX----1A---8</AM>
@@ -365,7 +365,7 @@
 <tag>
 <AM lemma="Bank_;S" src="auto">NNMS1-----A----</AM>
 <AM lemma="Bank-1_;K_,t_^(v_cizojaz._názvech_bank)" src="auto" recommended="1">NNFXX-----A----</AM>
-<AM lemma="Bank-77" src="auto">F%-------------</AM>
+<AM lemma="Bank-77" src="auto" selected="1">F%-------------</AM>
 <AM lemma="banka" src="auto">NNFP2-----A----</AM>
 <AM lemma="bank" src="auto">NNIS1-----A----</AM>
 <AM lemma="bank" src="auto">NNIS4-----A----</AM>
@@ -382,6 +382,7 @@
 <AM lemma="Rat_;G" src="auto">NNIS5-----A----</AM>
 <AM lemma="Rat_;G" src="auto">NNIS6-----A----</AM>
 <AM lemma="Rate-1_,t_^(fin.:_souč._term._Prime_Rate)" src="auto" recommended="1">NNFXX-----A----</AM>
+<AM lemma="Rate-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1771-001-p1s2W26-Ta">
@@ -395,6 +396,7 @@
 <AM lemma="Monitor-1_;K_,t_^(souč._názvů,_např._Christian_Monitor)" src="auto">NNIS4-----A----</AM>
 <AM lemma="monitor" src="auto">NNIS1-----A----</AM>
 <AM lemma="monitor" src="auto" recommended="1">NNIS4-----A----</AM>
+<AM lemma="Monitor-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1771-001-p1s2W27-Ta">

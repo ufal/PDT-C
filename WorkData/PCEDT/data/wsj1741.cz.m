@@ -30,6 +30,7 @@
 <tag>
 <AM lemma="Jefferies_;K" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Jefferies_;K" src="auto">NNIS4-----A----</AM>
+<AM lemma="Jefferies-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1741-001-p1s0W3-Ta">
@@ -38,7 +39,10 @@
 <LM>w#w-wsj1741-001-p1s0W3</LM>
 </w.rf>
 <form>Group</form>
-<tag lemma="Group-1_;K_,t_^(obv._souč._názvu_firem,_&quot;skupina&quot;)" src="auto" recommended="1">NNFXX-----A----</tag>
+<tag>
+<AM lemma="Group-1_;K_,t_^(obv._souč._názvu_firem,_&quot;skupina&quot;)" src="auto" recommended="1">NNFXX-----A----</AM>
+<AM lemma="Group-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1741-001-p1s0W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -49,6 +53,7 @@
 <tag>
 <AM lemma="Inc-77_:B" src="auto" recommended="1">F%-------------</AM>
 <AM lemma="inc-77_:B" src="auto">F%-------------</AM>
+<AM lemma="Inc-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1741-001-p1s0W5-Ta">
@@ -758,7 +763,7 @@
 <AM lemma="obchodující_^(*5ovat)" src="auto">AGFP1-----A----</AM>
 <AM lemma="obchodující_^(*5ovat)" src="auto">AGFP4-----A----</AM>
 <AM lemma="obchodující_^(*5ovat)" src="auto">AGFP5-----A----</AM>
-<AM lemma="obchodující_^(*5ovat)" src="auto">AGFS1-----A----</AM>
+<AM lemma="obchodující_^(*5ovat)" src="auto" selected="1">AGFS1-----A----</AM>
 <AM lemma="obchodující_^(*5ovat)" src="auto">AGFS2-----A----</AM>
 <AM lemma="obchodující_^(*5ovat)" src="auto">AGFS3-----A----</AM>
 <AM lemma="obchodující_^(*5ovat)" src="auto">AGFS4-----A----</AM>

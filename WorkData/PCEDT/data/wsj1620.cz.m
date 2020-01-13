@@ -31,6 +31,7 @@
 <AM lemma="Harley_;G" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="harley_;R_,t_^(motorka)" src="auto">NNIS1-----A----</AM>
 <AM lemma="harley_;R_,t_^(motorka)" src="auto">NNIS4-----A----</AM>
+<AM lemma="Harley-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1620-001-p1s0W3-Ta">
@@ -47,7 +48,10 @@
 <LM>w#w-wsj1620-001-p1s0W4</LM>
 </w.rf>
 <form>Davidson</form>
-<tag lemma="Davidson_;S" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Davidson_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Davidson-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1620-001-p1s0W5-Ta">
 <src.rf>tagger-a</src.rf>
@@ -58,6 +62,7 @@
 <tag>
 <AM lemma="Inc-77_:B" src="auto" recommended="1">F%-------------</AM>
 <AM lemma="inc-77_:B" src="auto">F%-------------</AM>
+<AM lemma="Inc-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1620-001-p1s0W6-Ta">
@@ -405,7 +410,7 @@
 <AM lemma="pravdivý" src="auto" recommended="1">AAFS1----1N----</AM>
 <AM lemma="pravdivý" src="auto">AAFS5----1N----</AM>
 <AM lemma="pravdivý" src="auto">AANP1----1N----</AM>
-<AM lemma="pravdivý" src="auto">AANP4----1N----</AM>
+<AM lemma="pravdivý" src="auto" selected="1">AANP4----1N----</AM>
 <AM lemma="pravdivý" src="auto">AANP5----1N----</AM>
 </tag>
 </m>
@@ -427,7 +432,7 @@
 <AM lemma="klamný" src="auto" recommended="1">AAFS1----1A----</AM>
 <AM lemma="klamný" src="auto">AAFS5----1A----</AM>
 <AM lemma="klamný" src="auto">AANP1----1A----</AM>
-<AM lemma="klamný" src="auto">AANP4----1A----</AM>
+<AM lemma="klamný" src="auto" selected="1">AANP4----1A----</AM>
 <AM lemma="klamný" src="auto">AANP5----1A----</AM>
 </tag>
 </m>
@@ -474,7 +479,7 @@
 <AM lemma="zavádějící_^(*4t)" src="auto">AGMS1-----A----</AM>
 <AM lemma="zavádějící_^(*4t)" src="auto">AGMS5-----A----</AM>
 <AM lemma="zavádějící_^(*4t)" src="auto">AGNP1-----A----</AM>
-<AM lemma="zavádějící_^(*4t)" src="auto">AGNP4-----A----</AM>
+<AM lemma="zavádějící_^(*4t)" src="auto" selected="1">AGNP4-----A----</AM>
 <AM lemma="zavádějící_^(*4t)" src="auto">AGNP5-----A----</AM>
 <AM lemma="zavádějící_^(*4t)" src="auto">AGNS1-----A----</AM>
 <AM lemma="zavádějící_^(*4t)" src="auto">AGNS4-----A----</AM>
@@ -595,6 +600,7 @@
 <AM lemma="Harley_;G" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="harley_;R_,t_^(motorka)" src="auto">NNIS1-----A----</AM>
 <AM lemma="harley_;R_,t_^(motorka)" src="auto">NNIS4-----A----</AM>
+<AM lemma="Harley-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1620-001-p1s1W6-Ta">
@@ -611,7 +617,10 @@
 <LM>w#w-wsj1620-001-p1s1W7</LM>
 </w.rf>
 <form>Davidson</form>
-<tag lemma="Davidson_;S" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Davidson_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Davidson-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1620-001-p1s1W8-Ta">
 <src.rf>tagger-a</src.rf>
@@ -703,7 +712,7 @@
 <AM lemma="I-3`1" src="auto" recommended="1">C}-------------</AM>
 <AM lemma="I-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
 <AM lemma="I-77" src="auto">F%-------------</AM>
-<AM lemma="I-88_:B" src="auto">NNXXX-----A----</AM>
+<AM lemma="I-88_:B" src="auto" selected="1">NNXXX-----A----</AM>
 <AM lemma="i-1" src="auto">J^-------------</AM>
 <AM lemma="i-2" src="auto">TT-------------</AM>
 <AM lemma="i-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
@@ -1057,6 +1066,7 @@
 <AM lemma="Hart-2_;G" src="auto">NNIS4-----A----</AM>
 <AM lemma="Harta_;G" src="auto">NNFP2-----A----</AM>
 <AM lemma="Harty_;G" src="auto">NNIP2-----A----</AM>
+<AM lemma="Hart-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1620-001-p1s1W47-Ta">
@@ -1073,7 +1083,10 @@
 <LM>w#w-wsj1620-001-p1s1W48</LM>
 </w.rf>
 <form>Scott</form>
-<tag lemma="Scott_;Y" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Scott_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Scott-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1620-001-p1s1W49-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1089,7 +1102,10 @@
 <LM>w#w-wsj1620-001-p1s1W50</LM>
 </w.rf>
 <form>Rodino</form>
-<tag lemma="rodina" src="auto" recommended="1">NNFS5-----A----</tag>
+<tag>
+<AM lemma="rodina" src="auto" recommended="1">NNFS5-----A----</AM>
+<AM lemma="Rodino-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1620-001-p1s1W51-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1485,6 +1501,7 @@
 <AM lemma="Harley_;G" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="harley_;R_,t_^(motorka)" src="auto">NNIS1-----A----</AM>
 <AM lemma="harley_;R_,t_^(motorka)" src="auto">NNIS4-----A----</AM>
+<AM lemma="Harley_;K_;R^(motorka)" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1620-001-p1s3W5-Ta">
@@ -2241,6 +2258,7 @@
 <AM lemma="Harley_;G" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="harley_;R_,t_^(motorka)" src="auto">NNIS1-----A----</AM>
 <AM lemma="harley_;R_,t_^(motorka)" src="auto">NNIS4-----A----</AM>
+<AM lemma="Harley-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1620-001-p1s4W29-Ta">
@@ -2257,7 +2275,10 @@
 <LM>w#w-wsj1620-001-p1s4W30</LM>
 </w.rf>
 <form>Davidson</form>
-<tag lemma="Davidson_;S" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Davidson_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Davidson-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1620-001-p1s4W31-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2375,6 +2396,8 @@
 <AM lemma="Harley_;G" src="auto">NNMS1-----A----</AM>
 <AM lemma="harley_;R_,t_^(motorka)" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="harley_;R_,t_^(motorka)" src="auto">NNIS4-----A----</AM>
+<AM lemma="Harley_;;K_R_^(motorka)" src="manual">NNIS1-----A----</AM>
+<AM lemma="Harley_;K_;R_^(motorka)" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1620-001-p1s5W3-Ta">

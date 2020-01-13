@@ -31,6 +31,7 @@
 <AM lemma="Cincinnatus_;S" src="auto">NNMP1-----A---1</AM>
 <AM lemma="Cincinnatus_;S" src="auto">NNMP5-----A---1</AM>
 <AM lemma="Cincinnati_;G" src="auto" recommended="1">NNNXX-----A----</AM>
+<AM lemma="Cincinnati-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1969-001-p1s0W3-Ta">
@@ -39,7 +40,10 @@
 <LM>w#w-wsj1969-001-p1s0W3</LM>
 </w.rf>
 <form>Microwave</form>
-<tag lemma="Microwave" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Microwave" src="auto">X@-------------</AM>
+<AM lemma="Microwave-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1969-001-p1s0W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -50,6 +54,7 @@
 <tag>
 <AM lemma="Inc-77_:B" src="auto" recommended="1">F%-------------</AM>
 <AM lemma="inc-77_:B" src="auto">F%-------------</AM>
+<AM lemma="Inc-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1969-001-p1s0W5-Ta">
@@ -390,7 +395,7 @@
 <AM lemma="včasný" src="auto">AAFP5----2A----</AM>
 <AM lemma="včasný" src="auto">AAFS1----2A----</AM>
 <AM lemma="včasný" src="auto">AAFS2----2A----</AM>
-<AM lemma="včasný" src="auto">AAFS3----2A----</AM>
+<AM lemma="včasný" src="auto" selected="1">AAFS3----2A----</AM>
 <AM lemma="včasný" src="auto" recommended="1">AAFS4----2A----</AM>
 <AM lemma="včasný" src="auto">AAFS5----2A----</AM>
 <AM lemma="včasný" src="auto">AAFS6----2A----</AM>
@@ -421,7 +426,7 @@
 </w.rf>
 <form>detekci</form>
 <tag>
-<AM lemma="detekce" src="auto">NNFS3-----A----</AM>
+<AM lemma="detekce" src="auto" selected="1">NNFS3-----A----</AM>
 <AM lemma="detekce" src="auto" recommended="1">NNFS4-----A----</AM>
 <AM lemma="detekce" src="auto">NNFS6-----A----</AM>
 </tag>
@@ -564,7 +569,7 @@
 <AM lemma="druhý" src="auto">CrIP1---------6</AM>
 <AM lemma="druhý" src="auto">CrIP4---------6</AM>
 <AM lemma="druhý" src="auto">CrIP5---------6</AM>
-<AM lemma="druhý" src="auto">CrIS1----------</AM>
+<AM lemma="druhý" src="auto" selected="1">CrIS1----------</AM>
 <AM lemma="druhý" src="auto">CrIS4----------</AM>
 <AM lemma="druhý" src="auto">CrIS5----------</AM>
 <AM lemma="druhý" src="auto">CrMP1---------6</AM>
@@ -604,7 +609,7 @@
 <AM lemma="zvaný_^(*3át)" src="auto">AAIP1----1A---6</AM>
 <AM lemma="zvaný_^(*3át)" src="auto">AAIP4----1A---6</AM>
 <AM lemma="zvaný_^(*3át)" src="auto">AAIP5----1A---6</AM>
-<AM lemma="zvaný_^(*3át)" src="auto">AAIS1----1A----</AM>
+<AM lemma="zvaný_^(*3át)" src="auto" selected="1">AAIS1----1A----</AM>
 <AM lemma="zvaný_^(*3át)" src="auto">AAIS4----1A----</AM>
 <AM lemma="zvaný_^(*3át)" src="auto">AAIS5----1A----</AM>
 <AM lemma="zvaný_^(*3át)" src="auto">AAMP1----1A---6</AM>
@@ -632,6 +637,7 @@
 <AM lemma="Solo-1_;K" src="auto">NNNS5-----A----</AM>
 <AM lemma="Solo-2_;S" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Solo-2_;S" src="auto">NNMS5-----A----</AM>
+<AM lemma="Solo-1_;K_;R" src="manual" selected="1">NNNS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1969-001-p1s2W5-Ta">

@@ -27,7 +27,10 @@
 <LM>w#w-wsj2039-001-p1s0W2</LM>
 </w.rf>
 <form>Weyerhaeuser</form>
-<tag lemma="Weyerhaeuser" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Weyerhaeuser" src="auto">X@-------------</AM>
+<AM lemma="Weyerhaeuser-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj2039-001-p1s0W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -43,6 +46,7 @@
 <AM lemma="co-4_^(který:_př.:_o_těch,_co_odešli/co_je_znal)" src="auto">P4XXX----------</AM>
 <AM lemma="co-5_^(př._co_nejméně,_co_nevidět,_co_chvíli,_co_do_počtu,_atd.)" src="auto">Db-------------</AM>
 <AM lemma="co-77_:B" src="auto">F%-------------</AM>
+<AM lemma="Co-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj2039-001-p1s0W4-Ta">
@@ -1715,6 +1719,7 @@
 <AM lemma="program-1" src="auto" recommended="1">NNIS2-----A----</AM>
 <AM lemma="program-1" src="auto">NNIS3-----A----</AM>
 <AM lemma="program-1" src="auto">NNIS6-----A----</AM>
+<AM lemma="program" src="manual" selected="1">NNIS2-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2039-001-p1s5W19-Ta">
@@ -2538,7 +2543,7 @@
 <AM lemma="zlepšený_^(*3it)" src="auto">AAFS3----1A----</AM>
 <AM lemma="zlepšený_^(*3it)" src="auto">AAFS6----1A----</AM>
 <AM lemma="zlepšený_^(*3it)" src="auto" recommended="1">AAIP1----1A----</AM>
-<AM lemma="zlepšený_^(*3it)" src="auto">AAIP4----1A----</AM>
+<AM lemma="zlepšený_^(*3it)" src="auto" selected="1">AAIP4----1A----</AM>
 <AM lemma="zlepšený_^(*3it)" src="auto">AAIP5----1A----</AM>
 <AM lemma="zlepšený_^(*3it)" src="auto">AAMP4----1A----</AM>
 <AM lemma="zlepšený_^(*3it)" src="auto">AANP1----1A---6</AM>
@@ -2557,7 +2562,7 @@
 <form>výsledky</form>
 <tag>
 <AM lemma="výsledek" src="auto" recommended="1">NNIP1-----A----</AM>
-<AM lemma="výsledek" src="auto">NNIP4-----A----</AM>
+<AM lemma="výsledek" src="auto" selected="1">NNIP4-----A----</AM>
 <AM lemma="výsledek" src="auto">NNIP5-----A----</AM>
 <AM lemma="výsledek" src="auto">NNIP7-----A----</AM>
 </tag>
@@ -2688,7 +2693,10 @@
 <LM>w#w-wsj2039-001-p1s8W3</LM>
 </w.rf>
 <form>Weyerhauser</form>
-<tag lemma="Weyerhauser" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Weyerhauser" src="auto">X@-------------</AM>
+<AM lemma="Weyerhauser_;K" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj2039-001-p1s8W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3471,7 +3479,7 @@
 <AM lemma="silný" src="auto">AAFS5----2A----</AM>
 <AM lemma="silný" src="auto">AAFS6----2A----</AM>
 <AM lemma="silný" src="auto">AAFS7----2A----</AM>
-<AM lemma="silný" src="auto">AAIP1----2A----</AM>
+<AM lemma="silný" src="auto" selected="1">AAIP1----2A----</AM>
 <AM lemma="silný" src="auto">AAIP4----2A----</AM>
 <AM lemma="silný" src="auto">AAIP5----2A----</AM>
 <AM lemma="silný" src="auto">AAIS1----2A----</AM>

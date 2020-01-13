@@ -477,6 +477,7 @@
 <tag>
 <AM lemma="Everett_;S" src="auto">NNMS3-----A---1</AM>
 <AM lemma="Everett_;S" src="auto" recommended="1">NNMS6-----A---1</AM>
+<AM lemma="Everett_;S_;Y" src="manual" selected="1">NNMS6-----A---1</AM>
 </tag>
 </m>
 <m id="m-wsj2028-001-p1s2W4-Ta">

@@ -27,7 +27,10 @@
 <LM>w#w-wsj2119-001-p1s0W2</LM>
 </w.rf>
 <form>Helionetics</form>
-<tag lemma="Helionetics" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Helionetics" src="auto">X@-------------</AM>
+<AM lemma="Helionetics-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj2119-001-p1s0W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -38,6 +41,7 @@
 <tag>
 <AM lemma="Inc-77_:B" src="auto" recommended="1">F%-------------</AM>
 <AM lemma="inc-77_:B" src="auto">F%-------------</AM>
+<AM lemma="Inc-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj2119-001-p1s0W4-Ta">
@@ -160,6 +164,7 @@
 <tag>
 <AM lemma="Honeywell_;K" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Honeywell_;K" src="auto">NNIS4-----A----</AM>
+<AM lemma="Honeywell-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj2119-001-p1s0W15-Ta">
@@ -171,6 +176,7 @@
 <tag>
 <AM lemma="Inc-77_:B" src="auto" recommended="1">F%-------------</AM>
 <AM lemma="inc-77_:B" src="auto">F%-------------</AM>
+<AM lemma="Inc-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj2119-001-p1s0W16-Ta">
@@ -225,7 +231,7 @@
 <form>v</form>
 <tag>
 <AM lemma="v-1" src="auto" recommended="1">RR--4----------</AM>
-<AM lemma="v-1" src="auto">RR--6----------</AM>
+<AM lemma="v-1" src="auto" selected="1">RR--6----------</AM>
 <AM lemma="v-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
 <AM lemma="v-88_:B" src="auto">NNXXX-----A----</AM>
 <AM lemma="versus_:B" src="auto">RR--1---------9</AM>
@@ -240,6 +246,7 @@
 <tag>
 <AM lemma="Minneapolis_;G" src="auto">NNIS1-----A----</AM>
 <AM lemma="Minneapolis_;G" src="auto" recommended="1">NNIS4-----A----</AM>
+<AM lemma="Minneapolis_;G" src="manual" selected="1">NNIXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2119-001-p1s0W20-Ta">
@@ -417,7 +424,7 @@
 <AM lemma="navržený_^(*4hnout)" src="auto">AAIP4----1A---6</AM>
 <AM lemma="navržený_^(*4hnout)" src="auto">AAIP5----1A---6</AM>
 <AM lemma="navržený_^(*4hnout)" src="auto" recommended="1">AAIS1----1A----</AM>
-<AM lemma="navržený_^(*4hnout)" src="auto">AAIS4----1A----</AM>
+<AM lemma="navržený_^(*4hnout)" src="auto" selected="1">AAIS4----1A----</AM>
 <AM lemma="navržený_^(*4hnout)" src="auto">AAIS5----1A----</AM>
 <AM lemma="navržený_^(*4hnout)" src="auto">AAMP1----1A---6</AM>
 <AM lemma="navržený_^(*4hnout)" src="auto">AAMP4----1A---6</AM>
@@ -579,7 +586,10 @@
 <LM>w#w-wsj2119-001-p1s1W13</LM>
 </w.rf>
 <form>Helionetics</form>
-<tag lemma="Helionetics" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Helionetics" src="auto">X@-------------</AM>
+<AM lemma="Helionetics_;K" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj2119-001-p1s1W14-Ta">
 <src.rf>tagger-a</src.rf>
@@ -697,7 +707,7 @@
 <AM lemma="Jaca-1_;G" src="auto">NNFP2-----A----</AM>
 <AM lemma="Jak_;R" src="auto">NNMS1-----A----</AM>
 <AM lemma="jak-1_;L_^(živočich)" src="auto">NNMS1-----A----</AM>
-<AM lemma="jak-2" src="auto">J,-------------</AM>
+<AM lemma="jak-2" src="auto" selected="1">J,-------------</AM>
 <AM lemma="jak-2" src="auto">J^-------------</AM>
 <AM lemma="jak-3" src="auto" recommended="1">Db-------------</AM>
 <AM lemma="jak-99_:B_;S" src="auto">NNXXX-----A----</AM>
@@ -757,7 +767,10 @@
 <LM>w#w-wsj2119-001-p1s2W7</LM>
 </w.rf>
 <form>Helionetics</form>
-<tag lemma="Helionetics" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Helionetics" src="auto">X@-------------</AM>
+<AM lemma="Helionetics_;K" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj2119-001-p1s2W8-Ta">
 <src.rf>tagger-a</src.rf>

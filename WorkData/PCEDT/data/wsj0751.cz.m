@@ -24,7 +24,10 @@
 <LM>w#w-wsj0751-001-p1s0W2</LM>
 </w.rf>
 <form>Dime</form>
-<tag lemma="Dime" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Dime" src="auto">X@-------------</AM>
+<AM lemma="Dime-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0751-001-p1s0W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -32,7 +35,10 @@
 <LM>w#w-wsj0751-001-p1s0W3</LM>
 </w.rf>
 <form>Savings</form>
-<tag lemma="Savings" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Savings" src="auto">X@-------------</AM>
+<AM lemma="Savings-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0751-001-p1s0W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -43,7 +49,7 @@
 <tag>
 <AM lemma="Bank_;S" src="auto">NNMS1-----A----</AM>
 <AM lemma="Bank-1_;K_,t_^(v_cizojaz._názvech_bank)" src="auto">NNFXX-----A----</AM>
-<AM lemma="Bank-77" src="auto" recommended="1">F%-------------</AM>
+<AM lemma="Bank-77" src="auto" recommended="1" selected="1">F%-------------</AM>
 <AM lemma="banka" src="auto">NNFP2-----A----</AM>
 <AM lemma="bank" src="auto">NNIS1-----A----</AM>
 <AM lemma="bank" src="auto">NNIS4-----A----</AM>
@@ -160,6 +166,7 @@
 <tag>
 <AM lemma="Federal_;G" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Federal_;G" src="auto">NNIS4-----A----</AM>
+<AM lemma="Federal-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj0751-001-p1s0W15-Ta">
@@ -172,6 +179,7 @@
 <AM lemma="deposit" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="deposit" src="auto">NNIS4-----A----</AM>
 <AM lemma="depositum_,s_^(^DD**depozitum)" src="auto">NNNP2-----A----</AM>
+<AM lemma="Deposit-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj0751-001-p1s0W16-Ta">
@@ -180,7 +188,10 @@
 <LM>w#w-wsj0751-001-p1s0W16</LM>
 </w.rf>
 <form>Insurance</form>
-<tag lemma="Insurance" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Insurance" src="auto">X@-------------</AM>
+<AM lemma="Insurance-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0751-001-p1s0W17-Ta">
 <src.rf>tagger-a</src.rf>
@@ -188,7 +199,10 @@
 <LM>w#w-wsj0751-001-p1s0W17</LM>
 </w.rf>
 <form>Corp</form>
-<tag lemma="corp-77_:B" src="auto" recommended="1">F%-------------</tag>
+<tag>
+<AM lemma="corp-77_:B" src="auto" recommended="1">F%-------------</AM>
+<AM lemma="Corp-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0751-001-p1s0W18-Ta">
 <src.rf>tagger-a</src.rf>
@@ -264,7 +278,10 @@
 <LM>w#w-wsj0751-001-p1s0W23</LM>
 </w.rf>
 <form>Starpointe</form>
-<tag lemma="Starpointe" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Starpointe" src="auto">X@-------------</AM>
+<AM lemma="Starpointe-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0751-001-p1s0W24-Ta">
 <src.rf>tagger-a</src.rf>
@@ -272,7 +289,10 @@
 <LM>w#w-wsj0751-001-p1s0W24</LM>
 </w.rf>
 <form>Savings</form>
-<tag lemma="Savings" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Savings" src="auto">X@-------------</AM>
+<AM lemma="Savings-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0751-001-p1s0W25-Ta">
 <src.rf>tagger-a</src.rf>
@@ -283,7 +303,7 @@
 <tag>
 <AM lemma="Bank_;S" src="auto">NNMS1-----A----</AM>
 <AM lemma="Bank-1_;K_,t_^(v_cizojaz._názvech_bank)" src="auto" recommended="1">NNFXX-----A----</AM>
-<AM lemma="Bank-77" src="auto">F%-------------</AM>
+<AM lemma="Bank-77" src="auto" selected="1">F%-------------</AM>
 <AM lemma="banka" src="auto">NNFP2-----A----</AM>
 <AM lemma="bank" src="auto">NNIS1-----A----</AM>
 <AM lemma="bank" src="auto">NNIS4-----A----</AM>
@@ -322,7 +342,7 @@
 </w.rf>
 <form>Somerset</form>
 <tag>
-<AM lemma="Somerset_;G" src="auto">NNIS1-----A----</AM>
+<AM lemma="Somerset_;G" src="auto" selected="1">NNIS1-----A----</AM>
 <AM lemma="Somerset_;G" src="auto" recommended="1">NNIS4-----A----</AM>
 </tag>
 </m>
@@ -357,7 +377,10 @@
 <LM>w#w-wsj0751-001-p1s0W31</LM>
 </w.rf>
 <form>Jersey</form>
-<tag lemma="Jersey_;G" src="auto" recommended="1">NNNXX-----A----</tag>
+<tag>
+<AM lemma="Jersey_;G" src="auto" recommended="1">NNNXX-----A----</AM>
+<AM lemma="Jersey-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0751-001-p1s0W32-Ta">
 <src.rf>tagger-a</src.rf>
@@ -403,7 +426,10 @@
 <LM>w#w-wsj0751-001-p1s1W3</LM>
 </w.rf>
 <form>Starpointe</form>
-<tag lemma="Starpointe" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Starpointe" src="auto">X@-------------</AM>
+<AM lemma="Starpointe_;K" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj0751-001-p1s1W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -634,7 +660,10 @@
 <LM>w#w-wsj0751-001-p1s2W2</LM>
 </w.rf>
 <form>FDIC</form>
-<tag lemma="FDIC" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="FDIC" src="auto">X@-------------</AM>
+<AM lemma="FDIC-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj0751-001-p1s2W3-Ta">
 <src.rf>tagger-a</src.rf>

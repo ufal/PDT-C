@@ -27,7 +27,10 @@
 <LM>w#w-wsj1351-001-p1s0W2</LM>
 </w.rf>
 <form>Amtech</form>
-<tag lemma="Amtech" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Amtech" src="auto">X@-------------</AM>
+<AM lemma="Amtech-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1351-001-p1s0W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -35,7 +38,10 @@
 <LM>w#w-wsj1351-001-p1s0W3</LM>
 </w.rf>
 <form>Systems</form>
-<tag lemma="Systems" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Systems" src="auto">X@-------------</AM>
+<AM lemma="Systems-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1351-001-p1s0W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -46,6 +52,7 @@
 <tag>
 <AM lemma="Inc-77_:B" src="auto" recommended="1">F%-------------</AM>
 <AM lemma="inc-77_:B" src="auto">F%-------------</AM>
+<AM lemma="Inc-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1351-001-p1s0W5-Ta">
@@ -90,6 +97,7 @@
 <tag>
 <AM lemma="tempus" src="auto">NNIS5-----A----</AM>
 <AM lemma="tempe_,t_^(pokrm)" src="auto" recommended="1">NNNXX-----A----</AM>
+<AM lemma="Tempe_;G" src="manual" selected="1">NNNXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1351-001-p1s0W9-Ta">
@@ -154,7 +162,7 @@
 <AM lemma="jeho_^(přivlast.)" src="auto">PSFSXFS3-------</AM>
 <AM lemma="jeho_^(přivlast.)" src="auto">PSIS4FS3-------</AM>
 <AM lemma="jeho_^(přivlast.)" src="auto">PSNS4FS3-------</AM>
-<AM lemma="jeho_^(přivlast.)" src="auto">PSXP1FS3-------</AM>
+<AM lemma="jeho_^(přivlast.)" src="auto" selected="1">PSXP1FS3-------</AM>
 <AM lemma="jeho_^(přivlast.)" src="auto">PSXP4FS3-------</AM>
 <AM lemma="jeho_^(přivlast.)" src="auto">PSXP5FS3-------</AM>
 <AM lemma="jeho_^(přivlast.)" src="auto" recommended="1">PSZS1FS3-------</AM>
@@ -430,7 +438,10 @@
 <LM>w#w-wsj1351-001-p1s1W2</LM>
 </w.rf>
 <form>Amtech</form>
-<tag lemma="Amtech" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Amtech" src="auto">X@-------------</AM>
+<AM lemma="Amtech_;K" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj1351-001-p1s1W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1308,7 +1319,10 @@
 <LM>w#w-wsj1351-001-p1s4W2</LM>
 </w.rf>
 <form>Amtech</form>
-<tag lemma="Amtech" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Amtech" src="auto">X@-------------</AM>
+<AM lemma="Amtech_;K" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj1351-001-p1s4W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1557,7 +1571,10 @@
 <LM>w#w-wsj1351-001-p1s4W23</LM>
 </w.rf>
 <form>USA</form>
-<tag lemma="USA_:B_;G_^(United_States_ofmerica)" src="auto" recommended="1">NNXXX-----A----</tag>
+<tag>
+<AM lemma="USA_:B_;G_^(United_States_ofmerica)" src="auto" recommended="1">NNXXX-----A----</AM>
+<AM lemma="USA_:B_;G_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj1351-001-p1s4W24-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1610,7 +1627,7 @@
 </w.rf>
 <form>Baltimore</form>
 <tag>
-<AM lemma="Baltimore_;G" src="auto">NNIS1-----A----</AM>
+<AM lemma="Baltimore_;G" src="auto" selected="1">NNIS1-----A----</AM>
 <AM lemma="Baltimore_;G" src="auto">NNIS4-----A----</AM>
 <AM lemma="Baltimore_;G" src="auto">NNIS5-----A----</AM>
 <AM lemma="Baltimore_;G" src="auto" recommended="1">NNIXX-----A----</AM>
@@ -1829,7 +1846,7 @@
 <AM lemma="zlepšení_^(*3it)" src="auto">NNNS1-----A----</AM>
 <AM lemma="zlepšení_^(*3it)" src="auto" recommended="1">NNNS2-----A----</AM>
 <AM lemma="zlepšení_^(*3it)" src="auto">NNNS3-----A----</AM>
-<AM lemma="zlepšení_^(*3it)" src="auto">NNNS4-----A----</AM>
+<AM lemma="zlepšení_^(*3it)" src="auto" selected="1">NNNS4-----A----</AM>
 <AM lemma="zlepšení_^(*3it)" src="auto">NNNS5-----A----</AM>
 <AM lemma="zlepšení_^(*3it)" src="auto">NNNS6-----A----</AM>
 </tag>
@@ -1979,7 +1996,7 @@
 </w.rf>
 <form>akvizici</form>
 <tag>
-<AM lemma="akvizice" src="auto">NNFS3-----A----</AM>
+<AM lemma="akvizice" src="auto" selected="1">NNFS3-----A----</AM>
 <AM lemma="akvizice" src="auto" recommended="1">NNFS4-----A----</AM>
 <AM lemma="akvizice" src="auto">NNFS6-----A----</AM>
 </tag>
@@ -2009,6 +2026,7 @@
 <tag>
 <AM lemma="Echelon_;R" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Echelon_;R" src="auto">NNIS4-----A----</AM>
+<AM lemma="Echelon-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1351-001-p1s5W16-Ta">
@@ -2018,7 +2036,7 @@
 </w.rf>
 <form>Service</form>
 <tag>
-<AM lemma="Service-77" src="auto">F%-------------</AM>
+<AM lemma="Service-77" src="auto" selected="1">F%-------------</AM>
 <AM lemma="Service_;K_,t" src="auto">NNISX-----A----</AM>
 <AM lemma="servis" src="auto" recommended="1">NNXXX-----A----</AM>
 <AM lemma="service-77" src="auto">F%-------------</AM>
@@ -2051,7 +2069,7 @@
 <AM lemma="započítání_^(*3at)" src="auto">NNNP5-----A----</AM>
 <AM lemma="započítání_^(*3at)" src="auto" recommended="1">NNNS1-----A----</AM>
 <AM lemma="započítání_^(*3at)" src="auto">NNNS2-----A----</AM>
-<AM lemma="započítání_^(*3at)" src="auto">NNNS3-----A----</AM>
+<AM lemma="započítání_^(*3at)" src="auto" selected="1">NNNS3-----A----</AM>
 <AM lemma="započítání_^(*3at)" src="auto">NNNS4-----A----</AM>
 <AM lemma="započítání_^(*3at)" src="auto">NNNS5-----A----</AM>
 <AM lemma="započítání_^(*3at)" src="auto">NNNS6-----A----</AM>
@@ -2144,6 +2162,7 @@
 <tag>
 <AM lemma="RTS-1_:B_,t_^(Reparatur_und_Technische_Station)" src="auto" recommended="1">NNFXX-----A----</AM>
 <AM lemma="RTS-2_:B_,t_^(request_to_send)" src="auto">NNFXX-----A----</AM>
+<AM lemma="RTS-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1351-001-p1s5W25-Ta">

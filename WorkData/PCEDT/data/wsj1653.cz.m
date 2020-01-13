@@ -178,6 +178,7 @@
 <tag>
 <AM lemma="Vara_;G" src="auto" recommended="1">NNFS5-----A----</AM>
 <AM lemma="vara_,s" src="auto">NNFS5-----A----</AM>
+<AM lemma="Varo-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1653-001-p1s0W13-Ta">
@@ -189,6 +190,7 @@
 <tag>
 <AM lemma="Inc-77_:B" src="auto" recommended="1">F%-------------</AM>
 <AM lemma="inc-77_:B" src="auto">F%-------------</AM>
+<AM lemma="Inc-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1653-001-p1s0W14-Ta">
@@ -256,7 +258,10 @@
 <LM>w#w-wsj1653-001-p1s0W20</LM>
 </w.rf>
 <form>Hatchett</form>
-<tag lemma="Hatchett" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Hatchett" src="auto">X@-------------</AM>
+<AM lemma="Hatchett_;S" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj1653-001-p1s0W21-Ta">
 <src.rf>tagger-a</src.rf>

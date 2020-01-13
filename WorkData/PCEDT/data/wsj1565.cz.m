@@ -333,7 +333,7 @@
 <AM lemma="nějaký" src="auto">PZFS6---------6</AM>
 <AM lemma="nějaký" src="auto">PZIP1---------6</AM>
 <AM lemma="nějaký" src="auto">PZIP5---------6</AM>
-<AM lemma="nějaký" src="auto">PZIS4----------</AM>
+<AM lemma="nějaký" src="auto" selected="1">PZIS4----------</AM>
 <AM lemma="nějaký" src="auto">PZMP1---------6</AM>
 <AM lemma="nějaký" src="auto">PZMP5---------6</AM>
 <AM lemma="nějaký" src="auto">PZNP1---------6</AM>
@@ -355,7 +355,7 @@
 <form>čas</form>
 <tag>
 <AM lemma="čas" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="čas" src="auto">NNIS4-----A----</AM>
+<AM lemma="čas" src="auto" selected="1">NNIS4-----A----</AM>
 <AM lemma="časit" src="auto">Vi-S---2--A-I--</AM>
 <AM lemma="časit" src="auto">Vi-S---3--A-I-4</AM>
 <AM lemma="časopis_:B" src="auto">NNIXX-----A---8</AM>
@@ -648,7 +648,7 @@
 <AM lemma="přesný" src="auto">AAIP1----2A----</AM>
 <AM lemma="přesný" src="auto">AAIP4----2A----</AM>
 <AM lemma="přesný" src="auto">AAIP5----2A----</AM>
-<AM lemma="přesný" src="auto">AAIS1----2A----</AM>
+<AM lemma="přesný" src="auto" selected="1">AAIS1----2A----</AM>
 <AM lemma="přesný" src="auto">AAIS4----2A----</AM>
 <AM lemma="přesný" src="auto">AAIS5----2A----</AM>
 <AM lemma="přesný" src="auto">AAMP1----2A----</AM>
@@ -885,7 +885,7 @@
 </w.rf>
 <form>rozšíří</form>
 <tag>
-<AM lemma="rozšířit" src="auto">VB-P---3P-AAP--</AM>
+<AM lemma="rozšířit" src="auto" selected="1">VB-P---3P-AAP--</AM>
 <AM lemma="rozšířit" src="auto" recommended="1">VB-S---3P-AAP--</AM>
 </tag>
 </m>
@@ -998,7 +998,7 @@
 <form>i</form>
 <tag>
 <AM lemma="i-1" src="auto" recommended="1">J^-------------</AM>
-<AM lemma="i-2" src="auto">TT-------------</AM>
+<AM lemma="i-2" src="auto" selected="1">TT-------------</AM>
 <AM lemma="i-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
 <AM lemma="i-88_:B" src="auto">NNXXX-----A----</AM>
 </tag>
@@ -1281,8 +1281,9 @@
 </w.rf>
 <form>Castro</form>
 <tag>
-<AM lemma="Castro_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Castro_;S" src="auto" recommended="1" selected="1">NNMS1-----A----</AM>
 <AM lemma="Castro_;S" src="auto">NNMS5-----A----</AM>
+<AM lemma="Castro-77" src="manual">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1565-001-p1s4W10-Ta">
@@ -1299,7 +1300,15 @@
 <LM>w#w-wsj1565-001-p1s4W11</LM>
 </w.rf>
 <form>Medellin</form>
-<tag lemma="Medellin" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Medellin" src="auto">X@-------------</AM>
+<AM lemma="Medellin-77" src="manual">F%-------------</AM>
+</tag>
+<comment>
+<LM type="New Form">
+<text>Medellín</text>
+</LM>
+</comment>
 </m>
 <m id="m-wsj1565-001-p1s4W12-Ta">
 <src.rf>tagger-a</src.rf>

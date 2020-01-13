@@ -27,7 +27,10 @@
 <LM>w#w-wsj0516-001-p1s0W2</LM>
 </w.rf>
 <form>Kellwood</form>
-<tag lemma="Kellwood" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Kellwood" src="auto">X@-------------</AM>
+<AM lemma="Kellwood-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0516-001-p1s0W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -43,6 +46,7 @@
 <AM lemma="co-4_^(který:_př.:_o_těch,_co_odešli/co_je_znal)" src="auto">P4XXX----------</AM>
 <AM lemma="co-5_^(př._co_nejméně,_co_nevidět,_co_chvíli,_co_do_počtu,_atd.)" src="auto">Db-------------</AM>
 <AM lemma="co-77_:B" src="auto">F%-------------</AM>
+<AM lemma="Co-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj0516-001-p1s0W4-Ta">
@@ -138,7 +142,10 @@
 <LM>w#w-wsj0516-001-p1s0W13</LM>
 </w.rf>
 <form>Crowntuft</form>
-<tag lemma="Crowntuft" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Crowntuft" src="auto">X@-------------</AM>
+<AM lemma="Crowntuft-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0516-001-p1s0W14-Ta">
 <src.rf>tagger-a</src.rf>
@@ -146,7 +153,10 @@
 <LM>w#w-wsj0516-001-p1s0W14</LM>
 </w.rf>
 <form>Manufacturing</form>
-<tag lemma="Manufacturing" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Manufacturing" src="auto">X@-------------</AM>
+<AM lemma="Manufacturing-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0516-001-p1s0W15-Ta">
 <src.rf>tagger-a</src.rf>
@@ -154,7 +164,10 @@
 <LM>w#w-wsj0516-001-p1s0W15</LM>
 </w.rf>
 <form>Corp</form>
-<tag lemma="corp-77_:B" src="auto" recommended="1">F%-------------</tag>
+<tag>
+<AM lemma="corp-77_:B" src="auto" recommended="1">F%-------------</AM>
+<AM lemma="Corp-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0516-001-p1s0W16-Ta">
 <src.rf>tagger-a</src.rf>
@@ -181,7 +194,7 @@
 <tag>
 <AM lemma="výrobce" src="auto">NNMP4-----A----</AM>
 <AM lemma="výrobce" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="výrobce" src="auto">NNMS2-----A----</AM>
+<AM lemma="výrobce" src="auto" selected="1">NNMS2-----A----</AM>
 <AM lemma="výrobce" src="auto">NNMS4-----A----</AM>
 <AM lemma="výrobce" src="auto">NNMS5-----A----</AM>
 </tag>
@@ -365,7 +378,7 @@
 <form>podmínky</form>
 <tag>
 <AM lemma="podmínka" src="auto">NNFP1-----A----</AM>
-<AM lemma="podmínka" src="auto">NNFP4-----A----</AM>
+<AM lemma="podmínka" src="auto" selected="1">NNFP4-----A----</AM>
 <AM lemma="podmínka" src="auto">NNFP5-----A----</AM>
 <AM lemma="podmínka" src="auto" recommended="1">NNFS2-----A----</AM>
 </tag>
@@ -423,7 +436,10 @@
 <LM>w#w-wsj0516-001-p1s2W2</LM>
 </w.rf>
 <form>Kellwood</form>
-<tag lemma="Kellwood" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Kellwood" src="auto">X@-------------</AM>
+<AM lemma="Kellwood_;K" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj0516-001-p1s2W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -531,7 +547,10 @@
 <LM>w#w-wsj0516-001-p1s2W11</LM>
 </w.rf>
 <form>Crowntuft</form>
-<tag lemma="Crowntuft" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Crowntuft" src="auto">X@-------------</AM>
+<AM lemma="Crowntuft_;K" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj0516-001-p1s2W12-Ta">
 <src.rf>tagger-a</src.rf>
@@ -558,7 +577,10 @@
 <LM>w#w-wsj0516-001-p1s2W14</LM>
 </w.rf>
 <form>Hakim</form>
-<tag lemma="hakim" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="hakim" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Hakim_;S" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj0516-001-p1s2W15-Ta">
 <src.rf>tagger-a</src.rf>
@@ -575,6 +597,7 @@
 <AM lemma="stupeň_:B" src="auto" recommended="1">NNIXX-----A---8</AM>
 <AM lemma="státní_:B" src="auto">AAXXX----1A---8</AM>
 <AM lemma="středa" src="auto">NNFXX-----A---8</AM>
+<AM lemma="starý" src="manual" selected="1">AAXXX----2A---b</AM>
 </tag>
 </m>
 <m id="m-wsj0516-001-p1s2W16-Ta">
@@ -620,7 +643,10 @@
 <LM>w#w-wsj0516-001-p1s2W20</LM>
 </w.rf>
 <form>Crowntuft</form>
-<tag lemma="Crowntuft" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Crowntuft" src="auto">X@-------------</AM>
+<AM lemma="Crowntuft_;K" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj0516-001-p1s2W21-Ta">
 <src.rf>tagger-a</src.rf>

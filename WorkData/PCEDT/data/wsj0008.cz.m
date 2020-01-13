@@ -787,7 +787,7 @@
 </w.rf>
 <form>o</form>
 <tag>
-<AM lemma="o-1" src="auto">RR--4----------</AM>
+<AM lemma="o-1" src="auto" selected="1">RR--4----------</AM>
 <AM lemma="o-1" src="auto" recommended="1">RR--6----------</AM>
 <AM lemma="o-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
 <AM lemma="o-77_,t" src="auto">F%-------------</AM>
@@ -809,7 +809,7 @@
 <AM lemma="snižování_^(*3at)" src="auto">NNNS1-----A----</AM>
 <AM lemma="snižování_^(*3at)" src="auto">NNNS2-----A----</AM>
 <AM lemma="snižování_^(*3at)" src="auto">NNNS3-----A----</AM>
-<AM lemma="snižování_^(*3at)" src="auto">NNNS4-----A----</AM>
+<AM lemma="snižování_^(*3at)" src="auto" selected="1">NNNS4-----A----</AM>
 <AM lemma="snižování_^(*3at)" src="auto">NNNS5-----A----</AM>
 <AM lemma="snižování_^(*3at)" src="auto" recommended="1">NNNS6-----A----</AM>
 </tag>
@@ -1167,7 +1167,10 @@
 <LM>w#w-wsj0008-001-p1s5W6</LM>
 </w.rf>
 <form>USA</form>
-<tag lemma="USA_:B_;G_^(United_States_ofmerica)" src="auto" recommended="1">NNXXX-----A----</tag>
+<tag>
+<AM lemma="USA_:B_;G_^(United_States_ofmerica)" src="auto" recommended="1">NNXXX-----A----</AM>
+<AM lemma="USA_:B_;G_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj0008-001-p1s5W7-Ta">
 <src.rf>tagger-a</src.rf>

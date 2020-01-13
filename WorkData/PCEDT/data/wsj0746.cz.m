@@ -52,7 +52,10 @@
 <LM>w#w-wsj0746-001-p1s0W4</LM>
 </w.rf>
 <form>SKF</form>
-<tag lemma="SKF" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="SKF" src="auto">X@-------------</AM>
+<AM lemma="SKF-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj0746-001-p1s0W5-Ta">
 <src.rf>tagger-a</src.rf>
@@ -64,7 +67,7 @@
 <AM lemma="vyrábějící_^(*4t)" src="auto">AGFP1-----A----</AM>
 <AM lemma="vyrábějící_^(*4t)" src="auto">AGFP4-----A----</AM>
 <AM lemma="vyrábějící_^(*4t)" src="auto">AGFP5-----A----</AM>
-<AM lemma="vyrábějící_^(*4t)" src="auto">AGFS1-----A----</AM>
+<AM lemma="vyrábějící_^(*4t)" src="auto" selected="1">AGFS1-----A----</AM>
 <AM lemma="vyrábějící_^(*4t)" src="auto">AGFS2-----A----</AM>
 <AM lemma="vyrábějící_^(*4t)" src="auto">AGFS3-----A----</AM>
 <AM lemma="vyrábějící_^(*4t)" src="auto" recommended="1">AGFS4-----A----</AM>
@@ -562,7 +565,10 @@
 <LM>w#w-wsj0746-001-p1s1W2</LM>
 </w.rf>
 <form>SKF</form>
-<tag lemma="SKF" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="SKF" src="auto">X@-------------</AM>
+<AM lemma="SKF-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj0746-001-p1s1W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -906,7 +912,10 @@
 <LM>w#w-wsj0746-001-p1s3W2</LM>
 </w.rf>
 <form>SKF</form>
-<tag lemma="SKF" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="SKF" src="auto">X@-------------</AM>
+<AM lemma="SKF-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj0746-001-p1s3W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1420,7 +1429,10 @@
 <LM>w#w-wsj0746-001-p1s4W15</LM>
 </w.rf>
 <form>SKF</form>
-<tag lemma="SKF" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="SKF" src="auto">X@-------------</AM>
+<AM lemma="SKF-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj0746-001-p1s4W16-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1667,7 +1679,7 @@
 <AM lemma="země" src="auto">NNFP4-----A----</AM>
 <AM lemma="země" src="auto">NNFP5-----A----</AM>
 <AM lemma="země" src="auto" recommended="1">NNFS1-----A----</AM>
-<AM lemma="země" src="auto">NNFS2-----A----</AM>
+<AM lemma="země" src="auto" selected="1">NNFS2-----A----</AM>
 <AM lemma="země" src="auto">NNFS5-----A----</AM>
 </tag>
 </m>
@@ -1827,7 +1839,10 @@
 <LM>w#w-wsj0746-001-p1s6W8</LM>
 </w.rf>
 <form>SKF</form>
-<tag lemma="SKF" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="SKF" src="auto">X@-------------</AM>
+<AM lemma="SKF-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj0746-001-p1s6W9-Ta">
 <src.rf>tagger-a</src.rf>

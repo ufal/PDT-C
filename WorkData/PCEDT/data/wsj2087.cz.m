@@ -303,7 +303,7 @@
 <AM lemma="vyrábějící_^(*4t)" src="auto">AGFP4-----A----</AM>
 <AM lemma="vyrábějící_^(*4t)" src="auto">AGFP5-----A----</AM>
 <AM lemma="vyrábějící_^(*4t)" src="auto">AGFS1-----A----</AM>
-<AM lemma="vyrábějící_^(*4t)" src="auto">AGFS2-----A----</AM>
+<AM lemma="vyrábějící_^(*4t)" src="auto" selected="1">AGFS2-----A----</AM>
 <AM lemma="vyrábějící_^(*4t)" src="auto">AGFS3-----A----</AM>
 <AM lemma="vyrábějící_^(*4t)" src="auto">AGFS4-----A----</AM>
 <AM lemma="vyrábějící_^(*4t)" src="auto">AGFS5-----A----</AM>
@@ -526,6 +526,7 @@
 <AM lemma="Lance_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Lance_;Y" src="auto">NNMS5-----A----</AM>
 <AM lemma="Lance_;Y" src="auto">NNMXX-----A----</AM>
+<AM lemma="Lance-2_;K" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2087-001-p1s2W4-Ta">

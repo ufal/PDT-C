@@ -1188,7 +1188,7 @@
 <form>příjmy</form>
 <tag>
 <AM lemma="příjem" src="auto" recommended="1">NNIP1-----A----</AM>
-<AM lemma="příjem" src="auto">NNIP4-----A----</AM>
+<AM lemma="příjem" src="auto" selected="1">NNIP4-----A----</AM>
 <AM lemma="příjem" src="auto">NNIP5-----A----</AM>
 <AM lemma="příjem" src="auto">NNIP7-----A----</AM>
 </tag>
@@ -1228,7 +1228,7 @@
 <AM lemma="odvětvit" src="auto">VB-P---3P-AAP--</AM>
 <AM lemma="odvětvit" src="auto">VB-S---3P-AAP--</AM>
 <AM lemma="odvětví" src="auto">NNNP1-----A----</AM>
-<AM lemma="odvětví" src="auto">NNNP2-----A----</AM>
+<AM lemma="odvětví" src="auto" selected="1">NNNP2-----A----</AM>
 <AM lemma="odvětví" src="auto">NNNP4-----A----</AM>
 <AM lemma="odvětví" src="auto">NNNP5-----A----</AM>
 <AM lemma="odvětví" src="auto">NNNS1-----A----</AM>
@@ -1252,7 +1252,7 @@
 <AM lemma="vlastněný_^(někdo_má_něco_ve_vlastnictví)_(*3it)" src="auto">AAIP6----1A----</AM>
 <AM lemma="vlastněný_^(někdo_má_něco_ve_vlastnictví)_(*3it)" src="auto">AAMP2----1A----</AM>
 <AM lemma="vlastněný_^(někdo_má_něco_ve_vlastnictví)_(*3it)" src="auto">AAMP6----1A----</AM>
-<AM lemma="vlastněný_^(někdo_má_něco_ve_vlastnictví)_(*3it)" src="auto">AANP2----1A----</AM>
+<AM lemma="vlastněný_^(někdo_má_něco_ve_vlastnictví)_(*3it)" src="auto" selected="1">AANP2----1A----</AM>
 <AM lemma="vlastněný_^(někdo_má_něco_ve_vlastnictví)_(*3it)" src="auto">AANP6----1A----</AM>
 </tag>
 </m>

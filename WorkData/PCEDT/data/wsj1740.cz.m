@@ -27,7 +27,10 @@
 <LM>w#w-wsj1740-001-p1s0W2</LM>
 </w.rf>
 <form>PPG</form>
-<tag lemma="PPG" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="PPG" src="auto">X@-------------</AM>
+<AM lemma="PPG-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj1740-001-p1s0W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -35,7 +38,10 @@
 <LM>w#w-wsj1740-001-p1s0W3</LM>
 </w.rf>
 <form>Industries</form>
-<tag lemma="Industries" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Industries" src="auto">X@-------------</AM>
+<AM lemma="Industries-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1740-001-p1s0W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -46,6 +52,7 @@
 <tag>
 <AM lemma="Inc-77_:B" src="auto" recommended="1">F%-------------</AM>
 <AM lemma="inc-77_:B" src="auto">F%-------------</AM>
+<AM lemma="Inc-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1740-001-p1s0W5-Ta">
@@ -1298,7 +1305,7 @@
 </w.rf>
 <form>kanadským</form>
 <tag>
-<AM lemma="kanadský" src="auto">AAFP3----1A----</AM>
+<AM lemma="kanadský" src="auto" selected="1">AAFP3----1A----</AM>
 <AM lemma="kanadský" src="auto">AAIP3----1A----</AM>
 <AM lemma="kanadský" src="auto">AAIS6----1A---7</AM>
 <AM lemma="kanadský" src="auto">AAIS7----1A----</AM>
@@ -1766,7 +1773,7 @@
 <AM lemma="prudký" src="auto">AAIP4----1A---6</AM>
 <AM lemma="prudký" src="auto">AAIP5----1A---6</AM>
 <AM lemma="prudký" src="auto" recommended="1">AAIS1----1A----</AM>
-<AM lemma="prudký" src="auto">AAIS4----1A----</AM>
+<AM lemma="prudký" src="auto" selected="1">AAIS4----1A----</AM>
 <AM lemma="prudký" src="auto">AAIS5----1A----</AM>
 <AM lemma="prudký" src="auto">AAMP1----1A---6</AM>
 <AM lemma="prudký" src="auto">AAMP4----1A---6</AM>
@@ -1789,7 +1796,7 @@
 <form>pokles</form>
 <tag>
 <AM lemma="pokles" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="pokles" src="auto">NNIS4-----A----</AM>
+<AM lemma="pokles" src="auto" selected="1">NNIS4-----A----</AM>
 <AM lemma="poklesnout" src="auto">VpYS---XR-AAP-6</AM>
 </tag>
 </m>
@@ -2142,6 +2149,7 @@
 <AM lemma="chlór" src="auto" recommended="1">NNIS2-----A----</AM>
 <AM lemma="chlór" src="auto">NNIS3-----A----</AM>
 <AM lemma="chlór" src="auto">NNIS6-----A----</AM>
+<AM lemma="chlor_,s_^(^DD**chlór)" src="manual" selected="1">NNIS2-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1740-001-p1s6W17-Ta">
@@ -2305,7 +2313,10 @@
 <LM>w#w-wsj1740-001-p1s7W11</LM>
 </w.rf>
 <form>PPG</form>
-<tag lemma="PPG" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="PPG" src="auto">X@-------------</AM>
+<AM lemma="PPG-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj1740-001-p1s7W12-Ta">
 <src.rf>tagger-a</src.rf>

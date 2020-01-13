@@ -343,7 +343,7 @@
 <AM lemma="každý" src="auto">AAIP4----1A---6</AM>
 <AM lemma="každý" src="auto">AAIP5----1A---6</AM>
 <AM lemma="každý" src="auto">AAIS1----1A----</AM>
-<AM lemma="každý" src="auto">AAIS4----1A----</AM>
+<AM lemma="každý" src="auto" selected="1">AAIS4----1A----</AM>
 <AM lemma="každý" src="auto">AAIS5----1A----</AM>
 <AM lemma="každý" src="auto">AAMP1----1A---6</AM>
 <AM lemma="každý" src="auto" recommended="1">AAMP4----1A---6</AM>
@@ -862,7 +862,7 @@
 <form>a</form>
 <tag>
 <AM lemma="a-1" src="auto" recommended="1">J^-------------</AM>
-<AM lemma="a-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
+<AM lemma="a-33_^(označení_pomocí_písmene)" src="auto" selected="1">NNNXX-----A----</AM>
 <AM lemma="a-77_,t" src="auto">F%-------------</AM>
 <AM lemma="a-88_:B" src="auto">NNXXX-----A----</AM>
 <AM lemma="akciový" src="auto">AAXXX----1A---8</AM>
@@ -966,6 +966,11 @@
 <AM lemma="čtvrteční" src="auto">AANS6----1A----</AM>
 <AM lemma="čtvrteční" src="auto">AANS7----1A----</AM>
 </tag>
+<comment>
+<LM type="New Form">
+<text>čtvrteční</text>
+</LM>
+</comment>
 </m>
 <m id="m-wsj1486-001-p1s6W5-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1119,7 +1124,7 @@
 <tag>
 <AM lemma="e-1" src="auto" recommended="1">II-------------</AM>
 <AM lemma="e-2_^(e-mail)" src="auto">A2--------A----</AM>
-<AM lemma="e-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
+<AM lemma="e-33_^(označení_pomocí_písmene)" src="auto" selected="1">NNNXX-----A----</AM>
 <AM lemma="e-88_:B" src="auto">NNXXX-----A----</AM>
 </tag>
 </m>

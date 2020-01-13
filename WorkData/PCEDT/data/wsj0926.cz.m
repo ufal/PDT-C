@@ -27,7 +27,10 @@
 <LM>w#w-wsj0926-001-p1s0W2</LM>
 </w.rf>
 <form>Ohbayashi</form>
-<tag lemma="Ohbayashi" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Ohbayashi" src="auto">X@-------------</AM>
+<AM lemma="Ohbayashi-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0926-001-p1s0W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -35,7 +38,10 @@
 <LM>w#w-wsj0926-001-p1s0W3</LM>
 </w.rf>
 <form>Corp</form>
-<tag lemma="corp-77_:B" src="auto" recommended="1">F%-------------</tag>
+<tag>
+<AM lemma="corp-77_:B" src="auto" recommended="1">F%-------------</AM>
+<AM lemma="Corp-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0926-001-p1s0W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -155,6 +161,7 @@
 <AM lemma="Howell-1_;S" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Howell-2_;G" src="auto">NNIS1-----A----</AM>
 <AM lemma="Howell-2_;G" src="auto">NNIS4-----A----</AM>
+<AM lemma="Howell-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj0926-001-p1s0W14-Ta">
@@ -171,6 +178,7 @@
 <AM lemma="co-4_^(který:_př.:_o_těch,_co_odešli/co_je_znal)" src="auto">P4XXX----------</AM>
 <AM lemma="co-5_^(př._co_nejméně,_co_nevidět,_co_chvíli,_co_do_počtu,_atd.)" src="auto">Db-------------</AM>
 <AM lemma="co-77_:B" src="auto">F%-------------</AM>
+<AM lemma="Co-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj0926-001-p1s0W15-Ta">
@@ -199,7 +207,7 @@
 <AM lemma="americký" src="auto" recommended="1">AAFP1----1A----</AM>
 <AM lemma="americký" src="auto">AAFP4----1A----</AM>
 <AM lemma="americký" src="auto">AAFP5----1A----</AM>
-<AM lemma="americký" src="auto">AAFS2----1A----</AM>
+<AM lemma="americký" src="auto" selected="1">AAFS2----1A----</AM>
 <AM lemma="americký" src="auto">AAFS3----1A----</AM>
 <AM lemma="americký" src="auto">AAFS6----1A----</AM>
 <AM lemma="americký" src="auto">AAIP1----1A----</AM>
@@ -221,7 +229,7 @@
 <AM lemma="pobočka" src="auto" recommended="1">NNFP1-----A----</AM>
 <AM lemma="pobočka" src="auto">NNFP4-----A----</AM>
 <AM lemma="pobočka" src="auto">NNFP5-----A----</AM>
-<AM lemma="pobočka" src="auto">NNFS2-----A----</AM>
+<AM lemma="pobočka" src="auto" selected="1">NNFS2-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0926-001-p1s0W19-Ta">
@@ -246,7 +254,10 @@
 <LM>w#w-wsj0926-001-p1s0W20</LM>
 </w.rf>
 <form>Selmer</form>
-<tag lemma="Selmer_;S" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Selmer_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Selmer-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0926-001-p1s0W21-Ta">
 <src.rf>tagger-a</src.rf>
@@ -266,6 +277,7 @@
 <AM lemma="Sand_;S" src="auto">NNMS5-----A----</AM>
 <AM lemma="Sande-1_;S" src="auto" recommended="1">NNMSX-----A----</AM>
 <AM lemma="Sande-2_;G" src="auto">NNISX-----A----</AM>
+<AM lemma="Sande-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj0926-001-p1s0W23-Ta">
@@ -428,7 +440,7 @@
 </w.rf>
 <form>Howell</form>
 <tag>
-<AM lemma="Howell-1_;S" src="auto">NNMS1-----A----</AM>
+<AM lemma="Howell-1_;S" src="auto" selected="1">NNMS1-----A----</AM>
 <AM lemma="Howell-2_;G" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Howell-2_;G" src="auto">NNIS4-----A----</AM>
 </tag>
@@ -503,6 +515,7 @@
 <AM lemma="port" src="auto">NNIS4-----A----</AM>
 <AM lemma="porta" src="auto">NNFP2-----A----</AM>
 <AM lemma="porto" src="auto" recommended="1">NNNP2-----A----</AM>
+<AM lemma="Port-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj0926-001-p1s1W8-Ta">
@@ -559,6 +572,7 @@
 <AM lemma="York-1_;S" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="York-2_;G" src="auto">NNIS1-----A----</AM>
 <AM lemma="York-2_;G" src="auto">NNIS4-----A----</AM>
+<AM lemma="York-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj0926-001-p1s1W13-Ta">
@@ -736,7 +750,10 @@
 <LM>w#w-wsj0926-001-p1s3W3</LM>
 </w.rf>
 <form>Ohbayashi</form>
-<tag lemma="Ohbayashi" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Ohbayashi" src="auto">X@-------------</AM>
+<AM lemma="Ohbayashi_;K" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj0926-001-p1s3W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -893,6 +910,7 @@
 <AM lemma="York-1_;S" src="auto">NNMS1-----A----</AM>
 <AM lemma="York-2_;G" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="York-2_;G" src="auto">NNIS4-----A----</AM>
+<AM lemma="York-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj0926-001-p1s3W17-Ta">
@@ -915,6 +933,7 @@
 <AM lemma="cit" src="auto">NNIP5-----A----</AM>
 <AM lemma="cit" src="auto">NNIP7-----A----</AM>
 <AM lemma="city_,t" src="auto">NNXXX-----A----</AM>
+<AM lemma="City-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj0926-001-p1s3W18-Ta">
@@ -947,7 +966,7 @@
 <AM lemma="okolí" src="auto">NNNS3-----A----</AM>
 <AM lemma="okolí" src="auto">NNNS4-----A----</AM>
 <AM lemma="okolí" src="auto">NNNS5-----A----</AM>
-<AM lemma="okolí" src="auto">NNNS6-----A----</AM>
+<AM lemma="okolí" src="auto" selected="1">NNNS6-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0926-001-p1s3W20-Ta">
@@ -1002,7 +1021,7 @@
 </w.rf>
 <form>Howell</form>
 <tag>
-<AM lemma="Howell-1_;S" src="auto">NNMS1-----A----</AM>
+<AM lemma="Howell-1_;S" src="auto" selected="1">NNMS1-----A----</AM>
 <AM lemma="Howell-2_;G" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Howell-2_;G" src="auto">NNIS4-----A----</AM>
 </tag>
@@ -1198,7 +1217,10 @@
 <LM>w#w-wsj0926-001-p1s5W2</LM>
 </w.rf>
 <form>Ohbayashi</form>
-<tag lemma="Ohbayashi" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Ohbayashi" src="auto">X@-------------</AM>
+<AM lemma="Ohbayashi_;K" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj0926-001-p1s5W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2048,7 +2070,10 @@
 <LM>w#w-wsj0926-001-p1s8W2</LM>
 </w.rf>
 <form>Ohbayashi</form>
-<tag lemma="Ohbayashi" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Ohbayashi" src="auto">X@-------------</AM>
+<AM lemma="Ohbayashi_;K" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj0926-001-p1s8W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2149,7 +2174,7 @@
 </w.rf>
 <form>Howell</form>
 <tag>
-<AM lemma="Howell-1_;S" src="auto">NNMS1-----A----</AM>
+<AM lemma="Howell-1_;S" src="auto" selected="1">NNMS1-----A----</AM>
 <AM lemma="Howell-2_;G" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Howell-2_;G" src="auto">NNIS4-----A----</AM>
 </tag>
@@ -2480,7 +2505,10 @@
 <LM>w#w-wsj0926-001-p1s9W8</LM>
 </w.rf>
 <form>USA</form>
-<tag lemma="USA_:B_;G_^(United_States_ofmerica)" src="auto" recommended="1">NNXXX-----A----</tag>
+<tag>
+<AM lemma="USA_:B_;G_^(United_States_ofmerica)" src="auto" recommended="1">NNXXX-----A----</AM>
+<AM lemma="USA_:B_;G_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj0926-001-p1s9W9-Ta">
 <src.rf>tagger-a</src.rf>

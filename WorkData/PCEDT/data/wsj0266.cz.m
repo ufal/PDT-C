@@ -424,7 +424,7 @@
 <form>tento</form>
 <tag>
 <AM lemma="tento" src="auto" recommended="1">PDIS4----------</AM>
-<AM lemma="tento" src="auto">PDYS1----------</AM>
+<AM lemma="tento" src="auto" selected="1">PDYS1----------</AM>
 </tag>
 </m>
 <m id="m-wsj0266-001-p1s1W6-Ta">
@@ -434,7 +434,7 @@
 </w.rf>
 <form>list</form>
 <tag>
-<AM lemma="list" src="auto">NNIS1-----A----</AM>
+<AM lemma="list" src="auto" selected="1">NNIS1-----A----</AM>
 <AM lemma="list" src="auto" recommended="1">NNIS4-----A----</AM>
 <AM lemma="lista_,a_^(státní_důchod_panovníka;;seznam;;doklad_v_poštovním_styku)" src="auto">NNFP2-----A----</AM>
 </tag>
@@ -926,7 +926,7 @@
 <form>i</form>
 <tag>
 <AM lemma="i-1" src="auto" recommended="1">J^-------------</AM>
-<AM lemma="i-2" src="auto">TT-------------</AM>
+<AM lemma="i-2" src="auto" selected="1">TT-------------</AM>
 <AM lemma="i-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
 <AM lemma="i-88_:B" src="auto">NNXXX-----A----</AM>
 </tag>
@@ -1009,7 +1009,7 @@
 <form>Harryho</form>
 <tag>
 <AM lemma="Harry_;Y" src="auto" recommended="1">NNMS2-----A----</AM>
-<AM lemma="Harry_;Y" src="auto">NNMS4-----A----</AM>
+<AM lemma="Harry_;Y" src="auto" selected="1">NNMS4-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0266-001-p1s2W23-Ta">
@@ -1020,7 +1020,7 @@
 <form>Browna</form>
 <tag>
 <AM lemma="Brown_;S" src="auto" recommended="1">NNMS2-----A----</AM>
-<AM lemma="Brown_;S" src="auto">NNMS4-----A----</AM>
+<AM lemma="Brown_;S" src="auto" selected="1">NNMS4-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0266-001-p1s2W24-Ta">
@@ -1257,7 +1257,7 @@
 <AM lemma="trvalý_^(*2t)" src="auto">AANP4----1A---6</AM>
 <AM lemma="trvalý_^(*2t)" src="auto">AANP5----1A---6</AM>
 <AM lemma="trvalý_^(*2t)" src="auto" recommended="1">AANS1----1A----</AM>
-<AM lemma="trvalý_^(*2t)" src="auto">AANS4----1A----</AM>
+<AM lemma="trvalý_^(*2t)" src="auto" selected="1">AANS4----1A----</AM>
 <AM lemma="trvalý_^(*2t)" src="auto">AANS5----1A----</AM>
 </tag>
 </m>
@@ -1277,7 +1277,7 @@
 <AM lemma="ocenění_^(*3it)" src="auto" recommended="1">NNNS1-----A----</AM>
 <AM lemma="ocenění_^(*3it)" src="auto">NNNS2-----A----</AM>
 <AM lemma="ocenění_^(*3it)" src="auto">NNNS3-----A----</AM>
-<AM lemma="ocenění_^(*3it)" src="auto">NNNS4-----A----</AM>
+<AM lemma="ocenění_^(*3it)" src="auto" selected="1">NNNS4-----A----</AM>
 <AM lemma="ocenění_^(*3it)" src="auto">NNNS5-----A----</AM>
 <AM lemma="ocenění_^(*3it)" src="auto">NNNS6-----A----</AM>
 </tag>

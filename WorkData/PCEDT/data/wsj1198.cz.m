@@ -507,7 +507,15 @@
 <LM>w#w-wsj1198-001-p1s1W6</LM>
 </w.rf>
 <form>13týdenní</form>
-<tag lemma="13týdenní" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="13týdenní" src="auto">X@-------------</AM>
+<AM lemma="13týdenní" src="manual" selected="1">AAFP4----1A----</AM>
+</tag>
+<comment>
+<LM type="Other">
+<text>špatná tokenizace</text>
+</LM>
+</comment>
 </m>
 <m id="m-wsj1198-001-p1s1W7-Ta">
 <src.rf>tagger-a</src.rf>
@@ -529,7 +537,15 @@
 <LM>w#w-wsj1198-001-p1s1W8</LM>
 </w.rf>
 <form>26týdenní</form>
-<tag lemma="26týdenní" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="26týdenní" src="auto">X@-------------</AM>
+<AM lemma="26týdenní" src="manual" selected="1">AAFP4----1A----</AM>
+</tag>
+<comment>
+<LM type="Other">
+<text>špatná tokenizace</text>
+</LM>
+</comment>
 </m>
 <m id="m-wsj1198-001-p1s1W9-Ta">
 <src.rf>tagger-a</src.rf>
@@ -709,7 +725,7 @@
 <form>Veřejné</form>
 <tag>
 <AM lemma="veřejný" src="auto" recommended="1">AAFP1----1A----</AM>
-<AM lemma="veřejný" src="auto">AAFP4----1A----</AM>
+<AM lemma="veřejný" src="auto" selected="1">AAFP4----1A----</AM>
 <AM lemma="veřejný" src="auto">AAFP5----1A----</AM>
 <AM lemma="veřejný" src="auto">AAFS2----1A----</AM>
 <AM lemma="veřejný" src="auto">AAFS3----1A----</AM>
@@ -734,7 +750,7 @@
 <form>nabídky</form>
 <tag>
 <AM lemma="nabídka" src="auto" recommended="1">NNFP1-----A----</AM>
-<AM lemma="nabídka" src="auto">NNFP4-----A----</AM>
+<AM lemma="nabídka" src="auto" selected="1">NNFP4-----A----</AM>
 <AM lemma="nabídka" src="auto">NNFP5-----A----</AM>
 <AM lemma="nabídka" src="auto">NNFS2-----A----</AM>
 </tag>
@@ -964,7 +980,7 @@
 <form>musí</form>
 <tag>
 <AM lemma="muset" src="auto" recommended="1">VB-P---3P-AAI-1</AM>
-<AM lemma="muset" src="auto">VB-S---3P-AAI--</AM>
+<AM lemma="muset" src="auto" selected="1">VB-S---3P-AAI--</AM>
 </tag>
 </m>
 <m id="m-wsj1198-001-p1s2W18-Ta">
@@ -1129,7 +1145,7 @@
 </w.rf>
 <form>Federální</form>
 <tag>
-<AM lemma="federální" src="auto">AAFP1----1A----</AM>
+<AM lemma="federální" src="auto" selected="1">AAFP1----1A----</AM>
 <AM lemma="federální" src="auto">AAFP4----1A----</AM>
 <AM lemma="federální" src="auto">AAFP5----1A----</AM>
 <AM lemma="federální" src="auto">AAFS1----1A----</AM>
@@ -1165,7 +1181,7 @@
 </w.rf>
 <form>rezervní</form>
 <tag>
-<AM lemma="rezervní" src="auto">AAFP1----1A----</AM>
+<AM lemma="rezervní" src="auto" selected="1">AAFP1----1A----</AM>
 <AM lemma="rezervní" src="auto">AAFP4----1A----</AM>
 <AM lemma="rezervní" src="auto">AAFP5----1A----</AM>
 <AM lemma="rezervní" src="auto">AAFS1----1A----</AM>
@@ -1201,7 +1217,7 @@
 </w.rf>
 <form>banky</form>
 <tag>
-<AM lemma="banka" src="auto">NNFP1-----A----</AM>
+<AM lemma="banka" src="auto" selected="1">NNFP1-----A----</AM>
 <AM lemma="banka" src="auto">NNFP4-----A----</AM>
 <AM lemma="banka" src="auto">NNFP5-----A----</AM>
 <AM lemma="banka" src="auto" recommended="1">NNFS2-----A----</AM>
@@ -1242,7 +1258,7 @@
 </w.rf>
 <form>pobočky</form>
 <tag>
-<AM lemma="pobočka" src="auto">NNFP1-----A----</AM>
+<AM lemma="pobočka" src="auto" selected="1">NNFP1-----A----</AM>
 <AM lemma="pobočka" src="auto" recommended="1">NNFP4-----A----</AM>
 <AM lemma="pobočka" src="auto">NNFP5-----A----</AM>
 <AM lemma="pobočka" src="auto">NNFS2-----A----</AM>
@@ -1534,7 +1550,7 @@
 <form>aukce</form>
 <tag>
 <AM lemma="aukce" src="auto">NNFP1-----A----</AM>
-<AM lemma="aukce" src="auto">NNFP4-----A----</AM>
+<AM lemma="aukce" src="auto" selected="1">NNFP4-----A----</AM>
 <AM lemma="aukce" src="auto">NNFP5-----A----</AM>
 <AM lemma="aukce" src="auto" recommended="1">NNFS1-----A----</AM>
 <AM lemma="aukce" src="auto">NNFS2-----A----</AM>

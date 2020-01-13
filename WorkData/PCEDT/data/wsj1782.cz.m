@@ -1224,7 +1224,7 @@
 <form>trpí</form>
 <tag>
 <AM lemma="trpět" src="auto" recommended="1">VB-P---3P-AAI--</AM>
-<AM lemma="trpět" src="auto">VB-S---3P-AAI--</AM>
+<AM lemma="trpět" src="auto" selected="1">VB-S---3P-AAI--</AM>
 </tag>
 </m>
 <m id="m-wsj1782-001-p1s4W10-Ta">
@@ -1237,7 +1237,7 @@
 <AM lemma="účinek" src="auto" recommended="1">NNIP1-----A----</AM>
 <AM lemma="účinek" src="auto">NNIP4-----A----</AM>
 <AM lemma="účinek" src="auto">NNIP5-----A----</AM>
-<AM lemma="účinek" src="auto">NNIP7-----A----</AM>
+<AM lemma="účinek" src="auto" selected="1">NNIP7-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1782-001-p1s4W11-Ta">
@@ -1737,7 +1737,7 @@
 <form>známky</form>
 <tag>
 <AM lemma="známka" src="auto">NNFP1-----A----</AM>
-<AM lemma="známka" src="auto">NNFP4-----A----</AM>
+<AM lemma="známka" src="auto" selected="1">NNFP4-----A----</AM>
 <AM lemma="známka" src="auto">NNFP5-----A----</AM>
 <AM lemma="známka" src="auto" recommended="1">NNFS2-----A----</AM>
 </tag>
@@ -2316,7 +2316,10 @@
 <LM>w#w-wsj1782-001-p1s8W11</LM>
 </w.rf>
 <form>Regalia</form>
-<tag lemma="Regalia" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Regalia" src="auto">X@-------------</AM>
+<AM lemma="Regalia_;S" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj1782-001-p1s8W12-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2451,7 +2454,10 @@
 <LM>w#w-wsj1782-001-p1s9W1</LM>
 </w.rf>
 <form>Regalia</form>
-<tag lemma="Regalia" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Regalia" src="auto">X@-------------</AM>
+<AM lemma="Regalia_;S" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj1782-001-p1s9W2-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2959,7 +2965,7 @@
 <AM lemma="maximální" src="auto">AAFP4----1A----</AM>
 <AM lemma="maximální" src="auto">AAFP5----1A----</AM>
 <AM lemma="maximální" src="auto">AAFS1----1A----</AM>
-<AM lemma="maximální" src="auto">AAFS2----1A----</AM>
+<AM lemma="maximální" src="auto" selected="1">AAFS2----1A----</AM>
 <AM lemma="maximální" src="auto">AAFS3----1A----</AM>
 <AM lemma="maximální" src="auto">AAFS4----1A----</AM>
 <AM lemma="maximální" src="auto">AAFS5----1A----</AM>
@@ -2994,7 +3000,7 @@
 <AM lemma="možný" src="auto" recommended="1">AAFP1----1A----</AM>
 <AM lemma="možný" src="auto">AAFP4----1A----</AM>
 <AM lemma="možný" src="auto">AAFP5----1A----</AM>
-<AM lemma="možný" src="auto">AAFS2----1A----</AM>
+<AM lemma="možný" src="auto" selected="1">AAFS2----1A----</AM>
 <AM lemma="možný" src="auto">AAFS3----1A----</AM>
 <AM lemma="možný" src="auto">AAFS6----1A----</AM>
 <AM lemma="možný" src="auto">AAIP1----1A----</AM>
@@ -3019,7 +3025,7 @@
 <AM lemma="úroveň" src="auto" recommended="1">NNFP1-----A----</AM>
 <AM lemma="úroveň" src="auto">NNFP4-----A----</AM>
 <AM lemma="úroveň" src="auto">NNFP5-----A----</AM>
-<AM lemma="úroveň" src="auto">NNFS2-----A----</AM>
+<AM lemma="úroveň" src="auto" selected="1">NNFS2-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1782-001-p1s10W18-Ta">
@@ -3196,7 +3202,7 @@
 </w.rf>
 <form>sazby</form>
 <tag>
-<AM lemma="sazba" src="auto">NNFP1-----A----</AM>
+<AM lemma="sazba" src="auto" selected="1">NNFP1-----A----</AM>
 <AM lemma="sazba" src="auto" recommended="1">NNFP4-----A----</AM>
 <AM lemma="sazba" src="auto">NNFP5-----A----</AM>
 <AM lemma="sazba" src="auto">NNFS2-----A----</AM>
@@ -3230,6 +3236,11 @@
 <AM lemma="30letý" src="auto">AANP2----1A----</AM>
 <AM lemma="30letý" src="auto">AANP6----1A----</AM>
 </tag>
+<comment>
+<LM type="Other">
+<text>špatná tokenizace</text>
+</LM>
+</comment>
 </m>
 <m id="m-wsj1782-001-p1s11W9-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3495,7 +3506,10 @@
 <LM>w#w-wsj1782-001-p1s12W12</LM>
 </w.rf>
 <form>Regalia</form>
-<tag lemma="Regalia" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Regalia" src="auto">X@-------------</AM>
+<AM lemma="Regalia_;S" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj1782-001-p1s12W13-Ta">
 <src.rf>tagger-a</src.rf>

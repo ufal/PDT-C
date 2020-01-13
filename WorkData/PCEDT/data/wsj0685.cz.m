@@ -27,7 +27,10 @@
 <LM>w#w-wsj0685-001-p1s0W2</LM>
 </w.rf>
 <form>CNW</form>
-<tag lemma="CNW" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="CNW" src="auto">X@-------------</AM>
+<AM lemma="CNW-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj0685-001-p1s0W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -35,7 +38,10 @@
 <LM>w#w-wsj0685-001-p1s0W3</LM>
 </w.rf>
 <form>Corp</form>
-<tag lemma="corp-77_:B" src="auto" recommended="1">F%-------------</tag>
+<tag>
+<AM lemma="corp-77_:B" src="auto" recommended="1">F%-------------</AM>
+<AM lemma="Corp-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0685-001-p1s0W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -210,7 +216,10 @@
 <LM>w#w-wsj0685-001-p1s0W17</LM>
 </w.rf>
 <form>CNW</form>
-<tag lemma="CNW" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="CNW" src="auto">X@-------------</AM>
+<AM lemma="CNW-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj0685-001-p1s0W18-Ta">
 <src.rf>tagger-a</src.rf>
@@ -267,6 +276,7 @@
 <AM lemma="Chicago_;G" src="auto" recommended="1">NNNS1-----A----</AM>
 <AM lemma="Chicago_;G" src="auto">NNNS4-----A----</AM>
 <AM lemma="Chicago_;G" src="auto">NNNS5-----A----</AM>
+<AM lemma="Chicago-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj0685-001-p1s0W22-Ta">
@@ -286,6 +296,7 @@
 <tag>
 <AM lemma="North-1_;S" src="auto">NNMS1-----A----</AM>
 <AM lemma="north-77" src="auto" recommended="1">F%-------------</AM>
+<AM lemma="North-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj0685-001-p1s0W24-Ta">
@@ -297,6 +308,7 @@
 <tag>
 <AM lemma="western" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="western" src="auto">NNIS4-----A----</AM>
+<AM lemma="Western-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj0685-001-p1s0W25-Ta">
@@ -305,7 +317,10 @@
 <LM>w#w-wsj0685-001-p1s0W25</LM>
 </w.rf>
 <form>Holdings</form>
-<tag lemma="Holdings" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Holdings" src="auto">X@-------------</AM>
+<AM lemma="Holdings-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0685-001-p1s0W26-Ta">
 <src.rf>tagger-a</src.rf>
@@ -313,7 +328,10 @@
 <LM>w#w-wsj0685-001-p1s0W26</LM>
 </w.rf>
 <form>Corp</form>
-<tag lemma="corp-77_:B" src="auto" recommended="1">F%-------------</tag>
+<tag>
+<AM lemma="corp-77_:B" src="auto" recommended="1">F%-------------</AM>
+<AM lemma="Corp-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0685-001-p1s0W27-Ta">
 <src.rf>tagger-a</src.rf>
@@ -374,7 +392,10 @@
 <LM>w#w-wsj0685-001-p1s1W4</LM>
 </w.rf>
 <form>CNW</form>
-<tag lemma="CNW" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="CNW" src="auto">X@-------------</AM>
+<AM lemma="CNW-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj0685-001-p1s1W5-Ta">
 <src.rf>tagger-a</src.rf>
@@ -464,6 +485,7 @@
 <AM lemma="Blackstone_;G" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Blackstone_;G" src="auto">NNIS4-----A----</AM>
 <AM lemma="Blackstone_;G" src="auto">NNIS5-----A----</AM>
+<AM lemma="Blackstone-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj0685-001-p1s1W13-Ta">
@@ -472,7 +494,10 @@
 <LM>w#w-wsj0685-001-p1s1W13</LM>
 </w.rf>
 <form>Capital</form>
-<tag lemma="Capital" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Capital" src="auto">X@-------------</AM>
+<AM lemma="Capital-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0685-001-p1s1W14-Ta">
 <src.rf>tagger-a</src.rf>
@@ -480,7 +505,10 @@
 <LM>w#w-wsj0685-001-p1s1W14</LM>
 </w.rf>
 <form>Partners</form>
-<tag lemma="Partners" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Partners" src="auto">X@-------------</AM>
+<AM lemma="Partners-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0685-001-p1s1W15-Ta">
 <src.rf>tagger-a</src.rf>

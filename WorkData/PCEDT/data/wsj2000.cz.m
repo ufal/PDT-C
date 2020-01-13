@@ -58,6 +58,7 @@
 <AM lemma="Rockwell-1_;S" src="auto">NNMS1-----A----</AM>
 <AM lemma="Rockwell_;G" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Rockwell_;G" src="auto">NNIS4-----A----</AM>
+<AM lemma="Rockwell-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj2000-001-p1s0W5-Ta">
@@ -67,7 +68,7 @@
 </w.rf>
 <form>International</form>
 <tag>
-<AM lemma="International-77" src="auto" recommended="1">F%-------------</AM>
+<AM lemma="International-77" src="auto" recommended="1" selected="1">F%-------------</AM>
 <AM lemma="International_,t" src="auto">NNISX-----A----</AM>
 <AM lemma="international-77_,t" src="auto">F%-------------</AM>
 </tag>
@@ -78,7 +79,10 @@
 <LM>w#w-wsj2000-001-p1s0W6</LM>
 </w.rf>
 <form>Corp</form>
-<tag lemma="corp-77_:B" src="auto" recommended="1">F%-------------</tag>
+<tag>
+<AM lemma="corp-77_:B" src="auto" recommended="1">F%-------------</AM>
+<AM lemma="Corp-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj2000-001-p1s0W7-Ta">
 <src.rf>tagger-a</src.rf>
@@ -237,6 +241,7 @@
 <AM lemma="Boeing_;K_;R_^(letadlo)" src="auto">NNIS4-----A----</AM>
 <AM lemma="boeing_;R_,t_^(letadlo)" src="auto">NNIS1-----A----</AM>
 <AM lemma="boeing_;R_,t_^(letadlo)" src="auto">NNIS4-----A----</AM>
+<AM lemma="Boeing-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj2000-001-p1s0W20-Ta">
@@ -253,6 +258,7 @@
 <AM lemma="co-4_^(který:_př.:_o_těch,_co_odešli/co_je_znal)" src="auto">P4XXX----------</AM>
 <AM lemma="co-5_^(př._co_nejméně,_co_nevidět,_co_chvíli,_co_do_počtu,_atd.)" src="auto">Db-------------</AM>
 <AM lemma="co-77_:B" src="auto">F%-------------</AM>
+<AM lemma="Co-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj2000-001-p1s0W21-Ta">
@@ -461,6 +467,7 @@
 <AM lemma="Rockwell-1_;S" src="auto">NNMS1-----A----</AM>
 <AM lemma="Rockwell_;G" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Rockwell_;G" src="auto">NNIS4-----A----</AM>
+<AM lemma="Rockwell_;G_;K" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2000-001-p1s1W3-Ta">
@@ -1181,6 +1188,7 @@
 <AM lemma="Rockwell-1_;S" src="auto">NNMS1-----A----</AM>
 <AM lemma="Rockwell_;G" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Rockwell_;G" src="auto">NNIS4-----A----</AM>
+<AM lemma="Rockwell_;G_;K" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2000-001-p1s3W3-Ta">
@@ -1454,6 +1462,7 @@
 <AM lemma="Rockwell-1_;S" src="auto">NNMS1-----A----</AM>
 <AM lemma="Rockwell_;G" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Rockwell_;G" src="auto">NNIS4-----A----</AM>
+<AM lemma="Rockwell_;G_;K" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2000-001-p1s4W2-Ta">
@@ -1508,6 +1517,7 @@
 <AM lemma="El_;K" src="auto" recommended="1">AAXXX----1A----</AM>
 <AM lemma="el-77_,t" src="auto">F%-------------</AM>
 <AM lemma="elektrický_:B" src="auto">AAXXX----1A---8</AM>
+<AM lemma="El-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2000-001-p1s4W7-Ta">
@@ -1520,6 +1530,7 @@
 <AM lemma="Segundo_;G" src="auto" recommended="1">NNNS1-----A----</AM>
 <AM lemma="Segundo_;G" src="auto">NNNS4-----A----</AM>
 <AM lemma="Segundo_;G" src="auto">NNNS5-----A----</AM>
+<AM lemma="Segundo_;G" src="manual" selected="1">NNNXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2000-001-p1s4W8-Ta">
@@ -1551,7 +1562,7 @@
 <AM lemma="Kalifornie_;G" src="auto">NNFP1-----A----</AM>
 <AM lemma="Kalifornie_;G" src="auto">NNFP4-----A----</AM>
 <AM lemma="Kalifornie_;G" src="auto">NNFP5-----A----</AM>
-<AM lemma="Kalifornie_;G" src="auto">NNFS1-----A----</AM>
+<AM lemma="Kalifornie_;G" src="auto" selected="1">NNFS1-----A----</AM>
 <AM lemma="Kalifornie_;G" src="auto" recommended="1">NNFS2-----A----</AM>
 <AM lemma="Kalifornie_;G" src="auto">NNFS5-----A----</AM>
 <AM lemma="kalifornie-2_^(druh_vepřovicové_usně)" src="auto">NNFP1-----A----</AM>

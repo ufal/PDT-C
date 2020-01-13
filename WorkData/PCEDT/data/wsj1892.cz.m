@@ -27,7 +27,10 @@
 <LM>w#w-wsj1892-001-p1s0W2</LM>
 </w.rf>
 <form>Viacom</form>
-<tag lemma="Viacom" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Viacom" src="auto">X@-------------</AM>
+<AM lemma="Viacom-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1892-001-p1s0W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -38,6 +41,7 @@
 <tag>
 <AM lemma="Inc-77_:B" src="auto" recommended="1">F%-------------</AM>
 <AM lemma="inc-77_:B" src="auto">F%-------------</AM>
+<AM lemma="Inc-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1892-001-p1s0W4-Ta">
@@ -357,7 +361,7 @@
 <AM lemma="ten" src="auto">PDNS1----------</AM>
 <AM lemma="ten" src="auto" recommended="1">PDNS4----------</AM>
 <AM lemma="to-1_^(tehdy;to_jsem_byla_ještě_malá)" src="auto">PDXXX----------</AM>
-<AM lemma="to-9_^(být_s_to)" src="auto">TT-------------</AM>
+<AM lemma="to-9_^(být_s_to)" src="auto" selected="1">TT-------------</AM>
 <AM lemma="to-77" src="auto">F%-------------</AM>
 </tag>
 </m>
@@ -519,7 +523,10 @@
 <LM>w#w-wsj1892-001-p1s1W5</LM>
 </w.rf>
 <form>Viacom</form>
-<tag lemma="Viacom" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Viacom" src="auto">X@-------------</AM>
+<AM lemma="Viacom_;K" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj1892-001-p1s1W6-Ta">
 <src.rf>tagger-a</src.rf>
@@ -892,7 +899,10 @@
 <LM>w#w-wsj1892-001-p1s3W7</LM>
 </w.rf>
 <form>Viacom</form>
-<tag lemma="Viacom" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Viacom" src="auto">X@-------------</AM>
+<AM lemma="Viacom_;K" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj1892-001-p1s3W8-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1080,7 +1090,10 @@
 <LM>w#w-wsj1892-001-p1s3W23</LM>
 </w.rf>
 <form>Viacom</form>
-<tag lemma="Viacom" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Viacom" src="auto">X@-------------</AM>
+<AM lemma="Viacom_;K" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj1892-001-p1s3W24-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1443,7 +1456,10 @@
 <LM>w#w-wsj1892-001-p1s5W2</LM>
 </w.rf>
 <form>Viacom</form>
-<tag lemma="Viacom" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Viacom" src="auto">X@-------------</AM>
+<AM lemma="Viacom_;K" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj1892-001-p1s5W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1709,7 +1725,10 @@
 <LM>w#w-wsj1892-001-p1s5W21</LM>
 </w.rf>
 <form>Showtime</form>
-<tag lemma="Showtime" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Showtime" src="auto">X@-------------</AM>
+<AM lemma="Showtime_;K" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj1892-001-p1s5W22-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1738,7 +1757,10 @@
 <LM>w#w-wsj1892-001-p1s6W2</LM>
 </w.rf>
 <form>Viacom</form>
-<tag lemma="Viacom" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Viacom" src="auto">X@-------------</AM>
+<AM lemma="Viacom_;K" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj1892-001-p1s6W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2138,7 +2160,10 @@
 <LM>w#w-wsj1892-001-p1s7W3</LM>
 </w.rf>
 <form>Viacom</form>
-<tag lemma="Viacom" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Viacom" src="auto">X@-------------</AM>
+<AM lemma="Viacom_;K" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj1892-001-p1s7W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2154,7 +2179,10 @@
 <LM>w#w-wsj1892-001-p1s7W5</LM>
 </w.rf>
 <form>Sumner</form>
-<tag lemma="Sumner" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Sumner" src="auto">X@-------------</AM>
+<AM lemma="Sumner_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj1892-001-p1s7W6-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2188,7 +2216,10 @@
 <LM>w#w-wsj1892-001-p1s7W8</LM>
 </w.rf>
 <form>Redstone</form>
-<tag lemma="Redstone" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Redstone" src="auto">X@-------------</AM>
+<AM lemma="Redstone_;S" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj1892-001-p1s7W9-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2242,7 +2273,10 @@
 <LM>w#w-wsj1892-001-p1s7W14</LM>
 </w.rf>
 <form>Viacom</form>
-<tag lemma="Viacom" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Viacom" src="auto">X@-------------</AM>
+<AM lemma="Viacom_;K" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj1892-001-p1s7W15-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2253,7 +2287,7 @@
 <tag>
 <AM lemma="prostřednictví" src="auto">NNNP3-----A----</AM>
 <AM lemma="prostřednictví" src="auto" recommended="1">NNNS7-----A----</AM>
-<AM lemma="prostřednictvím" src="auto">RR--2----------</AM>
+<AM lemma="prostřednictvím" src="auto" selected="1">RR--2----------</AM>
 </tag>
 </m>
 <m id="m-wsj1892-001-p1s7W16-Ta">

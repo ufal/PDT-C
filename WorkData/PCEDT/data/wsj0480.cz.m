@@ -27,7 +27,10 @@
 <LM>w#w-wsj0480-001-p1s0W2</LM>
 </w.rf>
 <form>MiniScribe</form>
-<tag lemma="MiniScribe" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="MiniScribe" src="auto">X@-------------</AM>
+<AM lemma="MiniScribe-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0480-001-p1s0W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -35,7 +38,10 @@
 <LM>w#w-wsj0480-001-p1s0W3</LM>
 </w.rf>
 <form>Corp</form>
-<tag lemma="corp-77_:B" src="auto" recommended="1">F%-------------</tag>
+<tag>
+<AM lemma="corp-77_:B" src="auto" recommended="1">F%-------------</AM>
+<AM lemma="Corp-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0480-001-p1s0W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -76,7 +82,10 @@
 <LM>w#w-wsj0480-001-p1s0W7</LM>
 </w.rf>
 <form>Longmont</form>
-<tag lemma="Longmont" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Longmont" src="auto">X@-------------</AM>
+<AM lemma="Longmont_;G" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj0480-001-p1s0W8-Ta">
 <src.rf>tagger-a</src.rf>
@@ -181,7 +190,15 @@
 <LM>w#w-wsj0480-001-p1s0W17</LM>
 </w.rf>
 <form>80megabytovou</form>
-<tag lemma="80megabytovou" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="80megabytovou" src="auto">X@-------------</AM>
+<AM lemma="80megabytový" src="manual" selected="1">AAFS4----1A----</AM>
+</tag>
+<comment>
+<LM type="Other">
+<text>špatná tokenizace</text>
+</LM>
+</comment>
 </m>
 <m id="m-wsj0480-001-p1s0W18-Ta">
 <src.rf>tagger-a</src.rf>
@@ -218,7 +235,7 @@
 <form>o</form>
 <tag>
 <AM lemma="o-1" src="auto" recommended="1">RR--4----------</AM>
-<AM lemma="o-1" src="auto">RR--6----------</AM>
+<AM lemma="o-1" src="auto" selected="1">RR--6----------</AM>
 <AM lemma="o-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
 <AM lemma="o-77_,t" src="auto">F%-------------</AM>
 <AM lemma="o-88_:B" src="auto">NNXXX-----A----</AM>
@@ -236,7 +253,7 @@
 <AM lemma="který" src="auto">P4FP4----------</AM>
 <AM lemma="který" src="auto">P4FS2----------</AM>
 <AM lemma="který" src="auto">P4FS3----------</AM>
-<AM lemma="který" src="auto">P4FS6----------</AM>
+<AM lemma="který" src="auto" selected="1">P4FS6----------</AM>
 <AM lemma="který" src="auto">P4IP1----------</AM>
 <AM lemma="který" src="auto">P4NP1---------6</AM>
 <AM lemma="který" src="auto">P4NP4---------6</AM>
@@ -721,7 +738,10 @@
 <LM>w#w-wsj0480-001-p1s2W2</LM>
 </w.rf>
 <form>MiniScribe</form>
-<tag lemma="MiniScribe" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="MiniScribe" src="auto">X@-------------</AM>
+<AM lemma="MiniScribe_;K" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj0480-001-p1s2W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -986,7 +1006,10 @@
 <LM>w#w-wsj0480-001-p1s3W2</LM>
 </w.rf>
 <form>MiniScribe</form>
-<tag lemma="MiniScribe" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="MiniScribe" src="auto">X@-------------</AM>
+<AM lemma="MiniScribe_;K" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj0480-001-p1s3W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1462,7 +1485,10 @@
 <LM>w#w-wsj0480-001-p1s5W2</LM>
 </w.rf>
 <form>MiniScribe</form>
-<tag lemma="MiniScribe" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="MiniScribe" src="auto">X@-------------</AM>
+<AM lemma="MiniScribe_;K" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj0480-001-p1s5W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1696,7 +1722,7 @@
 </w.rf>
 <form>přesné</form>
 <tag>
-<AM lemma="přesný" src="auto">AAFP1----1A----</AM>
+<AM lemma="přesný" src="auto" selected="1">AAFP1----1A----</AM>
 <AM lemma="přesný" src="auto">AAFP4----1A----</AM>
 <AM lemma="přesný" src="auto">AAFP5----1A----</AM>
 <AM lemma="přesný" src="auto">AAFS2----1A----</AM>
@@ -2053,7 +2079,7 @@
 <form>dodávky</form>
 <tag>
 <AM lemma="dodávka" src="auto" recommended="1">NNFP1-----A----</AM>
-<AM lemma="dodávka" src="auto">NNFP4-----A----</AM>
+<AM lemma="dodávka" src="auto" selected="1">NNFP4-----A----</AM>
 <AM lemma="dodávka" src="auto">NNFP5-----A----</AM>
 <AM lemma="dodávka" src="auto">NNFS2-----A----</AM>
 </tag>

@@ -104,6 +104,7 @@
 <AM lemma="Hudson_;S" src="auto">NNMS1-----A----</AM>
 <AM lemma="hudson_^(dopravní_prostředek)" src="auto">NNIS1-----A----</AM>
 <AM lemma="hudson_^(dopravní_prostředek)" src="auto">NNIS4-----A----</AM>
+<AM lemma="Hudson-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj0084-001-p1s0W7-Ta">
@@ -117,6 +118,7 @@
 <AM lemma="General_;K_,t" src="auto">NNIS1-----A----</AM>
 <AM lemma="General_;K_,t" src="auto">NNIS4-----A----</AM>
 <AM lemma="General_;K_,t" src="auto" recommended="1">NNXXX-----A----</AM>
+<AM lemma="General-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj0084-001-p1s0W8-Ta">
@@ -125,7 +127,10 @@
 <LM>w#w-wsj0084-001-p1s0W8</LM>
 </w.rf>
 <form>Corp</form>
-<tag lemma="corp-77_:B" src="auto" recommended="1">F%-------------</tag>
+<tag>
+<AM lemma="corp-77_:B" src="auto" recommended="1">F%-------------</AM>
+<AM lemma="Corp-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0084-001-p1s0W9-Ta">
 <src.rf>tagger-a</src.rf>
@@ -176,7 +181,10 @@
 <LM>w#w-wsj0084-001-p1s0W13</LM>
 </w.rf>
 <form>Stearn</form>
-<tag lemma="Stearn" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Stearn" src="auto">X@-------------</AM>
+<AM lemma="Stearn_;S" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj0084-001-p1s0W14-Ta">
 <src.rf>tagger-a</src.rf>
@@ -202,7 +210,10 @@
 <LM>w#w-wsj0084-001-p1s1W1</LM>
 </w.rf>
 <form>Stearna</form>
-<tag lemma="Stearna" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Stearna" src="auto">X@-------------</AM>
+<AM lemma="Stearn_;S" src="manual" selected="1">NNMS4-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj0084-001-p1s1W2-Ta">
 <src.rf>tagger-a</src.rf>
@@ -408,7 +419,7 @@
 <form>odchod</form>
 <tag>
 <AM lemma="odchod" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="odchod" src="auto">NNIS4-----A----</AM>
+<AM lemma="odchod" src="auto" selected="1">NNIS4-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0084-001-p1s2W6-Ta">
@@ -468,6 +479,7 @@
 <AM lemma="Hudson_;S" src="auto">NNMS1-----A----</AM>
 <AM lemma="hudson_^(dopravní_prostředek)" src="auto">NNIS1-----A----</AM>
 <AM lemma="hudson_^(dopravní_prostředek)" src="auto">NNIS4-----A----</AM>
+<AM lemma="Hudson-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj0084-001-p1s3W3-Ta">
@@ -481,6 +493,7 @@
 <AM lemma="General_;K_,t" src="auto">NNIS1-----A----</AM>
 <AM lemma="General_;K_,t" src="auto">NNIS4-----A----</AM>
 <AM lemma="General_;K_,t" src="auto" recommended="1">NNXXX-----A----</AM>
+<AM lemma="General-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj0084-001-p1s3W4-Ta">
@@ -696,7 +709,7 @@
 <form>letiště</form>
 <tag>
 <AM lemma="letiště" src="auto">NNNP1-----A----</AM>
-<AM lemma="letiště" src="auto">NNNP4-----A----</AM>
+<AM lemma="letiště" src="auto" selected="1">NNNP4-----A----</AM>
 <AM lemma="letiště" src="auto">NNNP5-----A----</AM>
 <AM lemma="letiště" src="auto">NNNS1-----A----</AM>
 <AM lemma="letiště" src="auto">NNNS2-----A----</AM>
@@ -1001,7 +1014,10 @@
 <LM>w#w-wsj0084-001-p1s4W1</LM>
 </w.rf>
 <form>Stearn</form>
-<tag lemma="Stearn" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Stearn" src="auto">X@-------------</AM>
+<AM lemma="Stearn_;S" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj0084-001-p1s4W2-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1236,6 +1252,7 @@
 <AM lemma="Hudson_;S" src="auto">NNMS1-----A----</AM>
 <AM lemma="hudson_^(dopravní_prostředek)" src="auto">NNIS1-----A----</AM>
 <AM lemma="hudson_^(dopravní_prostředek)" src="auto">NNIS4-----A----</AM>
+<AM lemma="Hudson-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj0084-001-p1s4W23-Ta">
@@ -1249,6 +1266,7 @@
 <AM lemma="General_;K_,t" src="auto">NNIS1-----A----</AM>
 <AM lemma="General_;K_,t" src="auto">NNIS4-----A----</AM>
 <AM lemma="General_;K_,t" src="auto" recommended="1">NNXXX-----A----</AM>
+<AM lemma="General-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj0084-001-p1s4W24-Ta">

@@ -64,7 +64,10 @@
 <LM>w#w-wsj1401-001-p1s0W5</LM>
 </w.rf>
 <form>BLOCK</form>
-<tag lemma="Block_;S" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Block_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="BLOCK-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1401-001-p1s0W6-Ta">
 <src.rf>tagger-a</src.rf>
@@ -75,6 +78,7 @@
 <tag>
 <AM lemma="Inc-77_:B" src="auto" recommended="1">F%-------------</AM>
 <AM lemma="inc-77_:B" src="auto">F%-------------</AM>
+<AM lemma="Inc-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1401-001-p1s0W7-Ta">
@@ -214,7 +218,7 @@
 <AM lemma="čistý" src="auto">AAIP4----1A---6</AM>
 <AM lemma="čistý" src="auto">AAIP5----1A---6</AM>
 <AM lemma="čistý" src="auto" recommended="1">AAIS1----1A----</AM>
-<AM lemma="čistý" src="auto">AAIS4----1A----</AM>
+<AM lemma="čistý" src="auto" selected="1">AAIS4----1A----</AM>
 <AM lemma="čistý" src="auto">AAIS5----1A----</AM>
 <AM lemma="čistý" src="auto">AAMP1----1A---6</AM>
 <AM lemma="čistý" src="auto">AAMP4----1A---6</AM>
@@ -237,7 +241,7 @@
 <form>příjem</form>
 <tag>
 <AM lemma="příjem" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="příjem" src="auto">NNIS4-----A----</AM>
+<AM lemma="příjem" src="auto" selected="1">NNIS4-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1401-001-p1s0W21-Ta">
@@ -494,6 +498,7 @@
 <tag>
 <AM lemma="Heard_;G" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Heard_;G" src="auto">NNIS4-----A----</AM>
+<AM lemma="Heard-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1401-001-p1s1W13-Ta">
@@ -505,7 +510,7 @@
 <tag>
 <AM lemma="on-1" src="auto" recommended="1">PPYS1--3-------</AM>
 <AM lemma="on-2_^(on-line)" src="auto">A2--------A----</AM>
-<AM lemma="on-77" src="auto">F%-------------</AM>
+<AM lemma="on-77" src="auto" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1401-001-p1s1W14-Ta">
@@ -514,7 +519,10 @@
 <LM>w#w-wsj1401-001-p1s1W14</LM>
 </w.rf>
 <form>the</form>
-<tag lemma="the-77_,t" src="auto" recommended="1">F%-------------</tag>
+<tag>
+<AM lemma="the-77_,t" src="auto" recommended="1">F%-------------</AM>
+<AM lemma="the-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1401-001-p1s1W15-Ta">
 <src.rf>tagger-a</src.rf>
@@ -525,7 +533,7 @@
 <tag>
 <AM lemma="Street-1_;G" src="auto">NNIS1-----A----</AM>
 <AM lemma="Street-1_;G" src="auto">NNIS4-----A----</AM>
-<AM lemma="Street-77" src="auto" recommended="1">F%-------------</AM>
+<AM lemma="Street-77" src="auto" recommended="1" selected="1">F%-------------</AM>
 <AM lemma="street-77" src="auto">F%-------------</AM>
 </tag>
 </m>

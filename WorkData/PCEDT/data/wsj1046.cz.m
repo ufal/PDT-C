@@ -27,7 +27,10 @@
 <LM>w#w-wsj1046-001-p1s0W2</LM>
 </w.rf>
 <form>Dun</form>
-<tag lemma="duna" src="auto" recommended="1">NNFP2-----A----</tag>
+<tag>
+<AM lemma="duna" src="auto" recommended="1">NNFP2-----A----</AM>
+<AM lemma="Dun-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1046-001-p1s0W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -43,7 +46,10 @@
 <LM>w#w-wsj1046-001-p1s0W4</LM>
 </w.rf>
 <form>Bradstreet</form>
-<tag lemma="Bradstreet" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Bradstreet" src="auto">X@-------------</AM>
+<AM lemma="Bradstreet-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1046-001-p1s0W5-Ta">
 <src.rf>tagger-a</src.rf>
@@ -51,7 +57,10 @@
 <LM>w#w-wsj1046-001-p1s0W5</LM>
 </w.rf>
 <form>Corp</form>
-<tag lemma="corp-77_:B" src="auto" recommended="1">F%-------------</tag>
+<tag>
+<AM lemma="corp-77_:B" src="auto" recommended="1">F%-------------</AM>
+<AM lemma="Corp-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1046-001-p1s0W6-Ta">
 <src.rf>tagger-a</src.rf>
@@ -930,6 +939,7 @@
 <AM lemma="Georgia_;Y" src="auto" recommended="1">NNFS2-----A----</AM>
 <AM lemma="Georgia_;Y" src="auto">NNFS5-----A----</AM>
 <AM lemma="Georgias_;S" src="auto">NNMS5-----A----</AM>
+<AM lemma="Georgie_;G" src="manual" selected="1">NNFS2-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1046-001-p1s2W24-Ta">
@@ -1011,7 +1021,7 @@
 <tag>
 <AM lemma="D-3`500" src="auto">C}-------------</AM>
 <AM lemma="D-33_^(označení_pomocí_písmene)" src="auto" recommended="1">NNNXX-----A----</AM>
-<AM lemma="D-88_:B" src="auto">NNXXX-----A----</AM>
+<AM lemma="D-88_:B" src="auto" selected="1">NNXXX-----A----</AM>
 <AM lemma="d-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
 <AM lemma="d-77" src="auto">F%-------------</AM>
 <AM lemma="d-88_:B" src="auto">NNXXX-----A----</AM>
@@ -1033,7 +1043,7 @@
 <form>B</form>
 <tag>
 <AM lemma="B-33_^(označení_pomocí_písmene)" src="auto" recommended="1">NNNXX-----A----</AM>
-<AM lemma="B-88_:B" src="auto">NNXXX-----A----</AM>
+<AM lemma="B-88_:B" src="auto" selected="1">NNXXX-----A----</AM>
 <AM lemma="b-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
 <AM lemma="b-88_:B" src="auto">NNXXX-----A----</AM>
 <AM lemma="bod_:B" src="auto">NNIXX-----A----</AM>
@@ -1227,7 +1237,7 @@
 <tag>
 <AM lemma="D-3`500" src="auto">C}-------------</AM>
 <AM lemma="D-33_^(označení_pomocí_písmene)" src="auto" recommended="1">NNNXX-----A----</AM>
-<AM lemma="D-88_:B" src="auto">NNXXX-----A----</AM>
+<AM lemma="D-88_:B" src="auto" selected="1">NNXXX-----A----</AM>
 <AM lemma="d-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
 <AM lemma="d-77" src="auto">F%-------------</AM>
 <AM lemma="d-88_:B" src="auto">NNXXX-----A----</AM>
@@ -1249,7 +1259,7 @@
 <form>B</form>
 <tag>
 <AM lemma="B-33_^(označení_pomocí_písmene)" src="auto" recommended="1">NNNXX-----A----</AM>
-<AM lemma="B-88_:B" src="auto">NNXXX-----A----</AM>
+<AM lemma="B-88_:B" src="auto" selected="1">NNXXX-----A----</AM>
 <AM lemma="b-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
 <AM lemma="b-88_:B" src="auto">NNXXX-----A----</AM>
 <AM lemma="bod_:B" src="auto">NNIXX-----A----</AM>
@@ -2947,7 +2957,7 @@
 <tag>
 <AM lemma="D-3`500" src="auto">C}-------------</AM>
 <AM lemma="D-33_^(označení_pomocí_písmene)" src="auto" recommended="1">NNNXX-----A----</AM>
-<AM lemma="D-88_:B" src="auto">NNXXX-----A----</AM>
+<AM lemma="D-88_:B" src="auto" selected="1">NNXXX-----A----</AM>
 <AM lemma="d-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
 <AM lemma="d-77" src="auto">F%-------------</AM>
 <AM lemma="d-88_:B" src="auto">NNXXX-----A----</AM>
@@ -2969,7 +2979,7 @@
 <form>B</form>
 <tag>
 <AM lemma="B-33_^(označení_pomocí_písmene)" src="auto" recommended="1">NNNXX-----A----</AM>
-<AM lemma="B-88_:B" src="auto">NNXXX-----A----</AM>
+<AM lemma="B-88_:B" src="auto" selected="1">NNXXX-----A----</AM>
 <AM lemma="b-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
 <AM lemma="b-88_:B" src="auto">NNXXX-----A----</AM>
 <AM lemma="bod_:B" src="auto">NNIXX-----A----</AM>

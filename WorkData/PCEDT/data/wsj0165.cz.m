@@ -27,7 +27,10 @@
 <LM>w#w-wsj0165-001-p1s0W2</LM>
 </w.rf>
 <form>Heritage</form>
-<tag lemma="Heritage" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Heritage" src="auto">X@-------------</AM>
+<AM lemma="Heritage-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0165-001-p1s0W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -45,6 +48,7 @@
 <AM lemma="medium_,s_^(^DD**médium)" src="auto">NNNP4-----A----</AM>
 <AM lemma="medium_,s_^(^DD**médium)" src="auto">NNNP5-----A----</AM>
 <AM lemma="medium_,s_^(^DD**médium)" src="auto">NNNS2-----A----</AM>
+<AM lemma="Media-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj0165-001-p1s0W4-Ta">
@@ -205,6 +209,7 @@
 <AM lemma="pop-1_^(círk.)" src="auto">NNMS1-----A----</AM>
 <AM lemma="pop-2_^(populární_hudba)" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="pop-2_^(populární_hudba)" src="auto">NNIS4-----A----</AM>
+<AM lemma="POP-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0165-001-p1s0W18-Ta">
@@ -218,6 +223,7 @@
 <AM lemma="radio_,a_^(^DD**rádio)" src="auto">NNNS4-----A----</AM>
 <AM lemma="radio_,a_^(^DD**rádio)" src="auto">NNNS5-----A----</AM>
 <AM lemma="radiový" src="auto">A2--------A----</AM>
+<AM lemma="Radio-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj0165-001-p1s0W19-Ta">
@@ -247,7 +253,10 @@
 <LM>w#w-wsj0165-001-p1s1W2</LM>
 </w.rf>
 <form>Heritage</form>
-<tag lemma="Heritage" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Heritage" src="auto">X@-------------</AM>
+<AM lemma="Heritage_;K" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj0165-001-p1s1W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -394,6 +403,7 @@
 <AM lemma="pop-1_^(círk.)" src="auto">NNMS1-----A----</AM>
 <AM lemma="pop-2_^(populární_hudba)" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="pop-2_^(populární_hudba)" src="auto">NNIS4-----A----</AM>
+<AM lemma="POP-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0165-001-p1s1W14-Ta">
@@ -407,6 +417,7 @@
 <AM lemma="radio_,a_^(^DD**rádio)" src="auto">NNNS4-----A----</AM>
 <AM lemma="radio_,a_^(^DD**rádio)" src="auto">NNNS5-----A----</AM>
 <AM lemma="radiový" src="auto">A2--------A----</AM>
+<AM lemma="Radio-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj0165-001-p1s1W15-Ta">
@@ -656,6 +667,7 @@
 <AM lemma="pop-1_^(círk.)" src="auto">NNMS1-----A----</AM>
 <AM lemma="pop-2_^(populární_hudba)" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="pop-2_^(populární_hudba)" src="auto">NNIS4-----A----</AM>
+<AM lemma="POP-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0165-001-p1s1W36-Ta">
@@ -782,7 +794,10 @@
 <LM>w#w-wsj0165-001-p1s2W3</LM>
 </w.rf>
 <form>Heritage</form>
-<tag lemma="Heritage" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Heritage" src="auto">X@-------------</AM>
+<AM lemma="Heritage_;K" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj0165-001-p1s2W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -828,7 +843,10 @@
 <LM>w#w-wsj0165-001-p1s2W8</LM>
 </w.rf>
 <form>Heritage</form>
-<tag lemma="Heritage" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Heritage" src="auto">X@-------------</AM>
+<AM lemma="Heritage_;K" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj0165-001-p1s2W9-Ta">
 <src.rf>tagger-a</src.rf>
@@ -953,7 +971,10 @@
 <LM>w#w-wsj0165-001-p1s2W19</LM>
 </w.rf>
 <form>překupních</form>
-<tag lemma="překupních" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="překupních" src="auto">X@-------------</AM>
+<AM lemma="překupní" src="manual" selected="1">AANP2----1A----</AM>
+</tag>
 </m>
 <m id="m-wsj0165-001-p1s2W20-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1318,6 +1339,7 @@
 <AM lemma="pop-1_^(círk.)" src="auto">NNMS1-----A----</AM>
 <AM lemma="pop-2_^(populární_hudba)" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="pop-2_^(populární_hudba)" src="auto">NNIS4-----A----</AM>
+<AM lemma="POP-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0165-001-p1s3W9-Ta">
@@ -1597,7 +1619,7 @@
 </w.rf>
 <form>v</form>
 <tag>
-<AM lemma="v-1" src="auto">RR--4----------</AM>
+<AM lemma="v-1" src="auto" selected="1">RR--4----------</AM>
 <AM lemma="v-1" src="auto" recommended="1">RR--6----------</AM>
 <AM lemma="v-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
 <AM lemma="v-88_:B" src="auto">NNXXX-----A----</AM>
@@ -1612,7 +1634,7 @@
 <form>obyčejné</form>
 <tag>
 <AM lemma="obyčejný" src="auto">AAFP1----1A----</AM>
-<AM lemma="obyčejný" src="auto">AAFP4----1A----</AM>
+<AM lemma="obyčejný" src="auto" selected="1">AAFP4----1A----</AM>
 <AM lemma="obyčejný" src="auto">AAFP5----1A----</AM>
 <AM lemma="obyčejný" src="auto">AAFS2----1A----</AM>
 <AM lemma="obyčejný" src="auto">AAFS3----1A----</AM>
@@ -1637,7 +1659,7 @@
 <form>akcie</form>
 <tag>
 <AM lemma="akcie" src="auto" recommended="1">NNFP1-----A----</AM>
-<AM lemma="akcie" src="auto">NNFP4-----A----</AM>
+<AM lemma="akcie" src="auto" selected="1">NNFP4-----A----</AM>
 <AM lemma="akcie" src="auto">NNFP5-----A----</AM>
 <AM lemma="akcie" src="auto">NNFS1-----A----</AM>
 <AM lemma="akcie" src="auto">NNFS2-----A----</AM>
@@ -1666,7 +1688,10 @@
 <LM>w#w-wsj0165-001-p1s4W20</LM>
 </w.rf>
 <form>Heritage</form>
-<tag lemma="Heritage" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Heritage" src="auto">X@-------------</AM>
+<AM lemma="Heritage_;K" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj0165-001-p1s4W21-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1845,6 +1870,7 @@
 <AM lemma="pop-1_^(círk.)" src="auto">NNMS1-----A----</AM>
 <AM lemma="pop-2_^(populární_hudba)" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="pop-2_^(populární_hudba)" src="auto">NNIS4-----A----</AM>
+<AM lemma="POP-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0165-001-p1s5W3-Ta">
@@ -1858,6 +1884,7 @@
 <AM lemma="radio_,a_^(^DD**rádio)" src="auto">NNNS4-----A----</AM>
 <AM lemma="radio_,a_^(^DD**rádio)" src="auto">NNNS5-----A----</AM>
 <AM lemma="radiový" src="auto">A2--------A----</AM>
+<AM lemma="Radio-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj0165-001-p1s5W4-Ta">
@@ -1941,7 +1968,7 @@
 <tag>
 <AM lemma="prostřednictví" src="auto">NNNP3-----A----</AM>
 <AM lemma="prostřednictví" src="auto" recommended="1">NNNS7-----A----</AM>
-<AM lemma="prostřednictvím" src="auto">RR--2----------</AM>
+<AM lemma="prostřednictvím" src="auto" selected="1">RR--2----------</AM>
 </tag>
 </m>
 <m id="m-wsj0165-001-p1s5W11-Ta">
@@ -2015,6 +2042,11 @@
 </w.rf>
 <form>ochodních</form>
 <tag lemma="ochodních" src="auto">X@-------------</tag>
+<comment>
+<LM type="New Form">
+<text>obchodních</text>
+</LM>
+</comment>
 </m>
 <m id="m-wsj0165-001-p1s5W15-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2221,7 +2253,7 @@
 <AM lemma="živý" src="auto">AANP4----1A---6</AM>
 <AM lemma="živý" src="auto">AANP5----1A---6</AM>
 <AM lemma="živý" src="auto" recommended="1">AANS1----1A----</AM>
-<AM lemma="živý" src="auto">AANS4----1A----</AM>
+<AM lemma="živý" src="auto" selected="1">AANS4----1A----</AM>
 <AM lemma="živý" src="auto">AANS5----1A----</AM>
 </tag>
 </m>
@@ -2233,7 +2265,7 @@
 <form>rádio</form>
 <tag>
 <AM lemma="rádio" src="auto" recommended="1">NNNS1-----A----</AM>
-<AM lemma="rádio" src="auto">NNNS4-----A----</AM>
+<AM lemma="rádio" src="auto" selected="1">NNNS4-----A----</AM>
 <AM lemma="rádio" src="auto">NNNS5-----A----</AM>
 </tag>
 </m>
@@ -2264,7 +2296,10 @@
 <LM>w#w-wsj0165-001-p1s6W2</LM>
 </w.rf>
 <form>Heritage</form>
-<tag lemma="Heritage" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Heritage" src="auto">X@-------------</AM>
+<AM lemma="Heritage_;K" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj0165-001-p1s6W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2530,6 +2565,7 @@
 <AM lemma="program-1" src="auto" recommended="1">NNIP4-----A----</AM>
 <AM lemma="program-1" src="auto">NNIP5-----A----</AM>
 <AM lemma="program-1" src="auto">NNIP7-----A----</AM>
+<AM lemma="program" src="manual" selected="1">NNIP4-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0165-001-p1s6W15-Ta">

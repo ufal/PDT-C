@@ -62,7 +62,7 @@
 <tag>
 <AM lemma="vedoucí_^(*6ést)" src="auto">AGFP2-----A----</AM>
 <AM lemma="vedoucí_^(*6ést)" src="auto">AGFP6-----A----</AM>
-<AM lemma="vedoucí_^(*6ést)" src="auto">AGIP2-----A----</AM>
+<AM lemma="vedoucí_^(*6ést)" src="auto" selected="1">AGIP2-----A----</AM>
 <AM lemma="vedoucí_^(*6ést)" src="auto">AGIP6-----A----</AM>
 <AM lemma="vedoucí_^(*6ést)" src="auto" recommended="1">AGMP2-----A----</AM>
 <AM lemma="vedoucí_^(*6ést)" src="auto">AGMP6-----A----</AM>
@@ -83,6 +83,7 @@
 <tag>
 <AM lemma="ukazatel" src="auto">NNIP2-----A----</AM>
 <AM lemma="ukazatel" src="auto" recommended="1">NNMP2-----A----</AM>
+<AM lemma="ukazatel-1" src="manual" selected="1">NNIP2-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0233-001-p1s0W5-Ta">

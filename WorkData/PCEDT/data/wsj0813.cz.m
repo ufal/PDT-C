@@ -41,6 +41,11 @@
 <AM lemma="46letý" src="auto">AANS4----1A---6</AM>
 <AM lemma="46letý" src="auto">AANS5----1A---6</AM>
 </tag>
+<comment>
+<LM type="Other">
+<text>špatná tokenizace</text>
+</LM>
+</comment>
 </m>
 <m id="m-wsj0813-001-p1s0W2-Ta">
 <src.rf>tagger-a</src.rf>
@@ -72,6 +77,7 @@
 <tag>
 <AM lemma="Gil_;S" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Gila_;G" src="auto">NNFP2-----A----</AM>
+<AM lemma="Gil_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0813-001-p1s0W5-Ta">
@@ -80,7 +86,10 @@
 <LM>w#w-wsj0813-001-p1s0W5</LM>
 </w.rf>
 <form>Troutman</form>
-<tag lemma="Troutman" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Troutman" src="auto">X@-------------</AM>
+<AM lemma="Troutman_;S" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj0813-001-p1s0W6-Ta">
 <src.rf>tagger-a</src.rf>
@@ -202,7 +211,7 @@
 <form>provozního</form>
 <tag>
 <AM lemma="provozní" src="auto">AAIS2----1A----</AM>
-<AM lemma="provozní" src="auto">AAMS2----1A----</AM>
+<AM lemma="provozní" src="auto" selected="1">AAMS2----1A----</AM>
 <AM lemma="provozní" src="auto">AAMS4----1A----</AM>
 <AM lemma="provozní" src="auto">AANS2----1A----</AM>
 <AM lemma="provozní-1" src="auto" recommended="1">NNMS2-----A----</AM>
@@ -266,7 +275,7 @@
 <form>výkonného</form>
 <tag>
 <AM lemma="výkonný" src="auto">AAIS2----1A----</AM>
-<AM lemma="výkonný" src="auto">AAMS2----1A----</AM>
+<AM lemma="výkonný" src="auto" selected="1">AAMS2----1A----</AM>
 <AM lemma="výkonný" src="auto" recommended="1">AAMS4----1A----</AM>
 <AM lemma="výkonný" src="auto">AANS2----1A----</AM>
 </tag>
@@ -279,7 +288,7 @@
 <form>ředitele</form>
 <tag>
 <AM lemma="ředitel" src="auto">NNMP4-----A----</AM>
-<AM lemma="ředitel" src="auto">NNMS2-----A----</AM>
+<AM lemma="ředitel" src="auto" selected="1">NNMS2-----A----</AM>
 <AM lemma="ředitel" src="auto" recommended="1">NNMS4-----A----</AM>
 </tag>
 </m>
@@ -303,6 +312,7 @@
 <tag>
 <AM lemma="Howard_;S" src="auto">NNMS2-----A----</AM>
 <AM lemma="Howard_;S" src="auto" recommended="1">NNMS4-----A----</AM>
+<AM lemma="Howard_;S_;Y" src="manual" selected="1">NNMS4-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0813-001-p1s1W15-Ta">
@@ -338,7 +348,10 @@
 <LM>w#w-wsj0813-001-p1s1W17</LM>
 </w.rf>
 <form>Paintera</form>
-<tag lemma="painter" src="auto" recommended="1">NNIS2-----A---1</tag>
+<tag>
+<AM lemma="painter" src="auto" recommended="1">NNIS2-----A---1</AM>
+<AM lemma="Painter_;S" src="manual" selected="1">NNMS4-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj0813-001-p1s1W18-Ta">
 <src.rf>tagger-a</src.rf>

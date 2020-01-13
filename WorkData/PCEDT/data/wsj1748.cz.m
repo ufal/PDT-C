@@ -27,7 +27,10 @@
 <LM>w#w-wsj1748-001-p1s0W2</LM>
 </w.rf>
 <form>Coastal</form>
-<tag lemma="Coastal" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Coastal" src="auto">X@-------------</AM>
+<AM lemma="Coastal-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1748-001-p1s0W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -35,7 +38,10 @@
 <LM>w#w-wsj1748-001-p1s0W3</LM>
 </w.rf>
 <form>Corp</form>
-<tag lemma="corp-77_:B" src="auto" recommended="1">F%-------------</tag>
+<tag>
+<AM lemma="corp-77_:B" src="auto" recommended="1">F%-------------</AM>
+<AM lemma="Corp-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1748-001-p1s0W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -268,7 +274,7 @@
 <form>Podmínky</form>
 <tag>
 <AM lemma="podmínka" src="auto" recommended="1">NNFP1-----A----</AM>
-<AM lemma="podmínka" src="auto">NNFP4-----A----</AM>
+<AM lemma="podmínka" src="auto" selected="1">NNFP4-----A----</AM>
 <AM lemma="podmínka" src="auto">NNFP5-----A----</AM>
 <AM lemma="podmínka" src="auto">NNFS2-----A----</AM>
 </tag>
@@ -303,7 +309,10 @@
 <LM>w#w-wsj1748-001-p1s1W4</LM>
 </w.rf>
 <form>Coastal</form>
-<tag lemma="Coastal" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Coastal" src="auto">X@-------------</AM>
+<AM lemma="Coastal_;K" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj1748-001-p1s1W5-Ta">
 <src.rf>tagger-a</src.rf>
@@ -329,7 +338,10 @@
 <LM>w#w-wsj1748-001-p1s2W1</LM>
 </w.rf>
 <form>Coastal</form>
-<tag lemma="Coastal" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Coastal" src="auto">X@-------------</AM>
+<AM lemma="Coastal_;K" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj1748-001-p1s2W2-Ta">
 <src.rf>tagger-a</src.rf>
@@ -346,6 +358,11 @@
 </w.rf>
 <form>houstoská</form>
 <tag lemma="houstoská" src="auto">X@-------------</tag>
+<comment>
+<LM type="New Form">
+<text>houstonská</text>
+</LM>
+</comment>
 </m>
 <m id="m-wsj1748-001-p1s2W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -451,7 +468,7 @@
 <AM lemma="zahájení_^(*3it)" src="auto" recommended="1">NNNS1-----A----</AM>
 <AM lemma="zahájení_^(*3it)" src="auto">NNNS2-----A----</AM>
 <AM lemma="zahájení_^(*3it)" src="auto">NNNS3-----A----</AM>
-<AM lemma="zahájení_^(*3it)" src="auto">NNNS4-----A----</AM>
+<AM lemma="zahájení_^(*3it)" src="auto" selected="1">NNNS4-----A----</AM>
 <AM lemma="zahájení_^(*3it)" src="auto">NNNS5-----A----</AM>
 <AM lemma="zahájení_^(*3it)" src="auto">NNNS6-----A----</AM>
 </tag>
@@ -994,6 +1011,7 @@
 <tag>
 <AM lemma="Exxon_;K" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Exxon_;K" src="auto">NNIS4-----A----</AM>
+<AM lemma="Exxon-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1748-001-p1s5W7-Ta">
@@ -1002,7 +1020,10 @@
 <LM>w#w-wsj1748-001-p1s5W7</LM>
 </w.rf>
 <form>Corp</form>
-<tag lemma="corp-77_:B" src="auto" recommended="1">F%-------------</tag>
+<tag>
+<AM lemma="corp-77_:B" src="auto" recommended="1">F%-------------</AM>
+<AM lemma="Corp-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1748-001-p1s5W8-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1116,6 +1137,11 @@
 </w.rf>
 <form>bylo</form>
 <tag lemma="být" src="auto" recommended="1">VpNS---XR-AAI--</tag>
+<comment>
+<LM type="New Form">
+<text>byla</text>
+</LM>
+</comment>
 </m>
 <m id="m-wsj1748-001-p1s5W19-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1124,6 +1150,11 @@
 </w.rf>
 <form>prodáno</form>
 <tag lemma="prodat" src="auto" recommended="1">VsNS---XX-APP--</tag>
+<comment>
+<LM type="New Form">
+<text>prodána</text>
+</LM>
+</comment>
 </m>
 <m id="m-wsj1748-001-p1s5W20-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1225,7 +1256,10 @@
 <LM>w#w-wsj1748-001-p1s5W28</LM>
 </w.rf>
 <form>Coastal</form>
-<tag lemma="Coastal" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Coastal" src="auto">X@-------------</AM>
+<AM lemma="Coastal_;K" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj1748-001-p1s5W29-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1234,6 +1268,11 @@
 </w.rf>
 <form>zkoupila</form>
 <tag lemma="zkoupila" src="auto">X@-------------</tag>
+<comment>
+<LM type="New Form">
+<text>skoupila</text>
+</LM>
+</comment>
 </m>
 <m id="m-wsj1748-001-p1s5W30-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1360,7 +1399,10 @@
 <LM>w#w-wsj1748-001-p1s6W4</LM>
 </w.rf>
 <form>Coastal</form>
-<tag lemma="Coastal" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Coastal" src="auto">X@-------------</AM>
+<AM lemma="Coastal_;K" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj1748-001-p1s6W5-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1464,7 +1506,10 @@
 <LM>w#w-wsj1748-001-p1s6W12</LM>
 </w.rf>
 <form>znovuvybavení</form>
-<tag lemma="znovuvybavení" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="znovuvybavení" src="auto">X@-------------</AM>
+<AM lemma="znovuvybavení" src="manual" selected="1">NNNS4-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj1748-001-p1s6W13-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1612,6 +1657,11 @@
 </w.rf>
 <form>přeseda</form>
 <tag lemma="přeseda" src="auto">X@-------------</tag>
+<comment>
+<LM type="New Form">
+<text>předseda</text>
+</LM>
+</comment>
 </m>
 <m id="m-wsj1748-001-p1s7W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1756,7 +1806,10 @@
 <LM>w#w-wsj1748-001-p1s8W2</LM>
 </w.rf>
 <form>Coastal</form>
-<tag lemma="Coastal" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Coastal" src="auto">X@-------------</AM>
+<AM lemma="Coastal_;K" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj1748-001-p1s8W3-Ta">
 <src.rf>tagger-a</src.rf>

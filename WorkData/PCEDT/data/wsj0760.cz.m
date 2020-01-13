@@ -31,6 +31,7 @@
 <AM lemma="Norton_;S" src="auto">NNMS1-----A----</AM>
 <AM lemma="norton_,l_^(druh_motocyklu)" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="norton_,l_^(druh_motocyklu)" src="auto">NNIS4-----A----</AM>
+<AM lemma="Norton-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj0760-001-p1s0W3-Ta">
@@ -47,6 +48,7 @@
 <AM lemma="co-4_^(který:_př.:_o_těch,_co_odešli/co_je_znal)" src="auto">P4XXX----------</AM>
 <AM lemma="co-5_^(př._co_nejméně,_co_nevidět,_co_chvíli,_co_do_počtu,_atd.)" src="auto">Db-------------</AM>
 <AM lemma="co-77_:B" src="auto">F%-------------</AM>
+<AM lemma="Co-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj0760-001-p1s0W4-Ta">
@@ -2037,7 +2039,10 @@
 <LM>w#w-wsj0760-001-p1s6W23</LM>
 </w.rf>
 <form>Eastman</form>
-<tag lemma="Eastman_;S" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Eastman_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Eastman-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0760-001-p1s6W24-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2045,7 +2050,10 @@
 <LM>w#w-wsj0760-001-p1s6W24</LM>
 </w.rf>
 <form>Christensen</form>
-<tag lemma="Christensen_;S" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Christensen_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Christensen-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0760-001-p1s6W25-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2061,6 +2069,7 @@
 <AM lemma="co-4_^(který:_př.:_o_těch,_co_odešli/co_je_znal)" src="auto">P4XXX----------</AM>
 <AM lemma="co-5_^(př._co_nejméně,_co_nevidět,_co_chvíli,_co_do_počtu,_atd.)" src="auto">Db-------------</AM>
 <AM lemma="co-77_:B" src="auto">F%-------------</AM>
+<AM lemma="Co-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj0760-001-p1s6W26-Ta">
@@ -2107,6 +2116,7 @@
 <tag>
 <AM lemma="Texas_;G" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Texas_;G" src="auto">NNIS4-----A----</AM>
+<AM lemma="Texas-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj0760-001-p1s6W30-Ta">
@@ -2118,6 +2128,7 @@
 <tag>
 <AM lemma="Eastern_;S" src="auto">NNMS1-----A----</AM>
 <AM lemma="eastern_,t" src="auto" recommended="1">AAXXX----1A----</AM>
+<AM lemma="Eastern-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj0760-001-p1s6W31-Ta">
@@ -2126,7 +2137,10 @@
 <LM>w#w-wsj0760-001-p1s6W31</LM>
 </w.rf>
 <form>Corp</form>
-<tag lemma="corp-77_:B" src="auto" recommended="1">F%-------------</tag>
+<tag>
+<AM lemma="corp-77_:B" src="auto" recommended="1">F%-------------</AM>
+<AM lemma="Corp-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0760-001-p1s6W32-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2242,6 +2256,7 @@
 <AM lemma="Norton_;S" src="auto">NNMS1-----A----</AM>
 <AM lemma="norton_,l_^(druh_motocyklu)" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="norton_,l_^(druh_motocyklu)" src="auto">NNIS4-----A----</AM>
+<AM lemma="Norton-2_;K" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0760-001-p1s7W3-Ta">
@@ -2277,6 +2292,7 @@
 <tag>
 <AM lemma="Texas_;G" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Texas_;G" src="auto">NNIS4-----A----</AM>
+<AM lemma="Texas-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj0760-001-p1s7W6-Ta">
@@ -2288,6 +2304,7 @@
 <tag>
 <AM lemma="Eastern_;S" src="auto">NNMS1-----A----</AM>
 <AM lemma="eastern_,t" src="auto" recommended="1">AAXXX----1A----</AM>
+<AM lemma="Eastern-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj0760-001-p1s7W7-Ta">
@@ -2476,6 +2493,7 @@
 <AM lemma="Norton_;S" src="auto">NNMS1-----A----</AM>
 <AM lemma="norton_,l_^(druh_motocyklu)" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="norton_,l_^(druh_motocyklu)" src="auto">NNIS4-----A----</AM>
+<AM lemma="Norton-2_;K" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0760-001-p1s8W3-Ta">
@@ -2646,7 +2664,10 @@
 <LM>w#w-wsj0760-001-p1s8W14</LM>
 </w.rf>
 <form>Eastman</form>
-<tag lemma="Eastman_;S" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Eastman_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Eastman-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0760-001-p1s8W15-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2654,7 +2675,10 @@
 <LM>w#w-wsj0760-001-p1s8W15</LM>
 </w.rf>
 <form>Christensen</form>
-<tag lemma="Christensen_;S" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Christensen_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Christensen-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0760-001-p1s8W16-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2785,6 +2809,7 @@
 <AM lemma="Norton_;S" src="auto">NNMS1-----A----</AM>
 <AM lemma="norton_,l_^(druh_motocyklu)" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="norton_,l_^(druh_motocyklu)" src="auto">NNIS4-----A----</AM>
+<AM lemma="Norton-2_;K" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0760-001-p1s9W8-Ta">
@@ -3429,6 +3454,7 @@
 <AM lemma="Norton_;S" src="auto">NNMS1-----A----</AM>
 <AM lemma="norton_,l_^(druh_motocyklu)" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="norton_,l_^(druh_motocyklu)" src="auto">NNIS4-----A----</AM>
+<AM lemma="Norton-2_;K" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0760-001-p1s11W3-Ta">

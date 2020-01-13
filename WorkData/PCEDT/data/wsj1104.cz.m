@@ -27,7 +27,10 @@
 <LM>w#w-wsj1104-001-p1s0W2</LM>
 </w.rf>
 <form>Petroleos</form>
-<tag lemma="Petroleos" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Petroleos" src="auto">X@-------------</AM>
+<AM lemma="Petroleos-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1104-001-p1s0W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -35,7 +38,10 @@
 <LM>w#w-wsj1104-001-p1s0W3</LM>
 </w.rf>
 <form>Mexicanos</form>
-<tag lemma="Mexicanos" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Mexicanos" src="auto">X@-------------</AM>
+<AM lemma="Mexicanos-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1104-001-p1s0W4-Ta">
 <src.rf>tagger-a</src.rf>

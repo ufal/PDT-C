@@ -887,7 +887,7 @@
 <AM lemma="schopnost_^(*3ý)" src="auto" recommended="1">NNFP1-----A----</AM>
 <AM lemma="schopnost_^(*3ý)" src="auto">NNFP4-----A----</AM>
 <AM lemma="schopnost_^(*3ý)" src="auto">NNFP5-----A----</AM>
-<AM lemma="schopnost_^(*3ý)" src="auto">NNFS2-----A----</AM>
+<AM lemma="schopnost_^(*3ý)" src="auto" selected="1">NNFS2-----A----</AM>
 <AM lemma="schopnost_^(*3ý)" src="auto">NNFS3-----A----</AM>
 <AM lemma="schopnost_^(*3ý)" src="auto">NNFS5-----A----</AM>
 <AM lemma="schopnost_^(*3ý)" src="auto">NNFS6-----A----</AM>
@@ -1314,7 +1314,7 @@
 <form>na</form>
 <tag>
 <AM lemma="na-1" src="auto" recommended="1">RR--4----------</AM>
-<AM lemma="na-1" src="auto">RR--6----------</AM>
+<AM lemma="na-1" src="auto" selected="1">RR--6----------</AM>
 <AM lemma="na-2" src="auto">II-------------</AM>
 </tag>
 </m>

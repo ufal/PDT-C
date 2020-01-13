@@ -27,7 +27,10 @@
 <LM>w#w-wsj0762-001-p1s0W2</LM>
 </w.rf>
 <form>CAMBREX</form>
-<tag lemma="CAMBREX" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="CAMBREX" src="auto">X@-------------</AM>
+<AM lemma="CAMBREX-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0762-001-p1s0W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -35,7 +38,10 @@
 <LM>w#w-wsj0762-001-p1s0W3</LM>
 </w.rf>
 <form>Corp</form>
-<tag lemma="corp-77_:B" src="auto" recommended="1">F%-------------</tag>
+<tag>
+<AM lemma="corp-77_:B" src="auto" recommended="1">F%-------------</AM>
+<AM lemma="Corp-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0762-001-p1s0W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -109,7 +115,10 @@
 <LM>w#w-wsj0762-001-p1s0W10</LM>
 </w.rf>
 <form>Jersey</form>
-<tag lemma="Jersey_;G" src="auto" recommended="1">NNNXX-----A----</tag>
+<tag>
+<AM lemma="Jersey_;G" src="auto" recommended="1">NNNXX-----A----</AM>
+<AM lemma="Jersey-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0762-001-p1s0W11-Ta">
 <src.rf>tagger-a</src.rf>
@@ -417,7 +426,7 @@
 <form>listopadu</form>
 <tag>
 <AM lemma="listopad" src="auto" recommended="1">NNIS2-----A----</AM>
-<AM lemma="listopad" src="auto">NNIS3-----A----</AM>
+<AM lemma="listopad" src="auto" selected="1">NNIS3-----A----</AM>
 <AM lemma="listopad" src="auto">NNIS6-----A----</AM>
 </tag>
 </m>
@@ -622,7 +631,7 @@
 <form>tento</form>
 <tag>
 <AM lemma="tento" src="auto" recommended="1">PDIS4----------</AM>
-<AM lemma="tento" src="auto">PDYS1----------</AM>
+<AM lemma="tento" src="auto" selected="1">PDYS1----------</AM>
 </tag>
 </m>
 <m id="m-wsj0762-001-p1s2W6-Ta">
@@ -632,7 +641,7 @@
 </w.rf>
 <form>krok</form>
 <tag>
-<AM lemma="krok" src="auto">NNIS1-----A----</AM>
+<AM lemma="krok" src="auto" selected="1">NNIS1-----A----</AM>
 <AM lemma="krok" src="auto" recommended="1">NNIS4-----A----</AM>
 </tag>
 </m>
@@ -813,7 +822,7 @@
 <AM lemma="stlačený_^(*3it)" src="auto">AAFS2----1A----</AM>
 <AM lemma="stlačený_^(*3it)" src="auto">AAFS3----1A----</AM>
 <AM lemma="stlačený_^(*3it)" src="auto">AAFS6----1A----</AM>
-<AM lemma="stlačený_^(*3it)" src="auto">AAIP1----1A----</AM>
+<AM lemma="stlačený_^(*3it)" src="auto" selected="1">AAIP1----1A----</AM>
 <AM lemma="stlačený_^(*3it)" src="auto">AAIP4----1A----</AM>
 <AM lemma="stlačený_^(*3it)" src="auto">AAIP5----1A----</AM>
 <AM lemma="stlačený_^(*3it)" src="auto">AAMP4----1A----</AM>
@@ -1288,7 +1297,10 @@
 <LM>w#w-wsj0762-001-p1s4W9</LM>
 </w.rf>
 <form>Cambrex</form>
-<tag lemma="Cambrex" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Cambrex" src="auto">X@-------------</AM>
+<AM lemma="Cambrex_;K" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj0762-001-p1s4W10-Ta">
 <src.rf>tagger-a</src.rf>

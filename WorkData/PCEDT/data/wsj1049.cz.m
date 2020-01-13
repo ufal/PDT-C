@@ -27,7 +27,10 @@
 <LM>w#w-wsj1049-001-p1s0W2</LM>
 </w.rf>
 <form>NICHOLS</form>
-<tag lemma="Nichols_;S" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Nichols_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="NICHOLS-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1049-001-p1s0W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -39,6 +42,7 @@
 <AM lemma="Institute-77" src="auto" recommended="1">F%-------------</AM>
 <AM lemma="institut" src="auto">NNIS5-----A----</AM>
 <AM lemma="institute-77_,t" src="auto">F%-------------</AM>
+<AM lemma="INSTITUTE-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1049-001-p1s0W4-Ta">
@@ -323,7 +327,7 @@
 <form>listopadu</form>
 <tag>
 <AM lemma="listopad" src="auto" recommended="1">NNIS2-----A----</AM>
-<AM lemma="listopad" src="auto">NNIS3-----A----</AM>
+<AM lemma="listopad" src="auto" selected="1">NNIS3-----A----</AM>
 <AM lemma="listopad" src="auto">NNIS6-----A----</AM>
 </tag>
 </m>
@@ -526,6 +530,7 @@
 <AM lemma="Juan_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="juan_^(čínská_měna)" src="auto">NNIS1-----A----</AM>
 <AM lemma="juan_^(čínská_měna)" src="auto">NNIS4-----A----</AM>
+<AM lemma="Juan-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1049-001-p1s1W16-Ta">
@@ -534,7 +539,10 @@
 <LM>w#w-wsj1049-001-p1s1W16</LM>
 </w.rf>
 <form>Capistrano</form>
-<tag lemma="Capistrano" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Capistrano" src="auto">X@-------------</AM>
+<AM lemma="Capistrano-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1049-001-p1s1W17-Ta">
 <src.rf>tagger-a</src.rf>

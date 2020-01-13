@@ -27,7 +27,10 @@
 <LM>w#w-wsj1548-001-p1s0W2</LM>
 </w.rf>
 <form>Contel</form>
-<tag lemma="Contel" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Contel" src="auto">X@-------------</AM>
+<AM lemma="Contel-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1548-001-p1s0W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -35,7 +38,10 @@
 <LM>w#w-wsj1548-001-p1s0W3</LM>
 </w.rf>
 <form>Corp</form>
-<tag lemma="corp-77_:B" src="auto" recommended="1">F%-------------</tag>
+<tag>
+<AM lemma="corp-77_:B" src="auto" recommended="1">F%-------------</AM>
+<AM lemma="Corp-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1548-001-p1s0W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -852,7 +858,10 @@
 <LM>w#w-wsj1548-001-p1s1W21</LM>
 </w.rf>
 <form>Contel</form>
-<tag lemma="Contel" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Contel" src="auto">X@-------------</AM>
+<AM lemma="Contel-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1548-001-p1s1W22-Ta">
 <src.rf>tagger-a</src.rf>
@@ -863,6 +872,7 @@
 <tag>
 <AM lemma="Credit_;K" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Credit_;K" src="auto">NNIS4-----A----</AM>
+<AM lemma="Credit-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1548-001-p1s1W23-Ta">
@@ -883,7 +893,7 @@
 <AM lemma="pobočka" src="auto" recommended="1">NNFP1-----A----</AM>
 <AM lemma="pobočka" src="auto">NNFP4-----A----</AM>
 <AM lemma="pobočka" src="auto">NNFP5-----A----</AM>
-<AM lemma="pobočka" src="auto">NNFS2-----A----</AM>
+<AM lemma="pobočka" src="auto" selected="1">NNFS2-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1548-001-p1s1W25-Ta">
@@ -2464,7 +2474,10 @@
 <LM>w#w-wsj1548-001-p1s7W11</LM>
 </w.rf>
 <form>Contel</form>
-<tag lemma="Contel" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Contel" src="auto">X@-------------</AM>
+<AM lemma="Contel_;K" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj1548-001-p1s7W12-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2474,7 +2487,7 @@
 <form>na</form>
 <tag>
 <AM lemma="na-1" src="auto" recommended="1">RR--4----------</AM>
-<AM lemma="na-1" src="auto">RR--6----------</AM>
+<AM lemma="na-1" src="auto" selected="1">RR--6----------</AM>
 <AM lemma="na-2" src="auto">II-------------</AM>
 </tag>
 </m>

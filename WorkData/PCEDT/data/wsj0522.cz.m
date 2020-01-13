@@ -530,6 +530,14 @@
 <AM lemma="sezóna" src="auto" recommended="1">NNFS3-----A----</AM>
 <AM lemma="sezóna" src="auto">NNFS6-----A----</AM>
 </tag>
+<comment>
+<LM type="New Form">
+<text>Sezómně</text>
+</LM>
+<LM type="New Form">
+<text>Sezónně</text>
+</LM>
+</comment>
 </m>
 <m id="m-wsj0522-001-p1s2W2-Ta">
 <src.rf>tagger-a</src.rf>

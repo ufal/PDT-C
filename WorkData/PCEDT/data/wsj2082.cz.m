@@ -94,6 +94,7 @@
 <AM lemma="Indus_;G" src="auto">NNIS1-----A---2</AM>
 <AM lemma="Indus_;G" src="auto">NNIS4-----A---2</AM>
 <AM lemma="individuální_:B" src="auto">AAXXX----1A---8</AM>
+<AM lemma="Ind-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj2082-001-p1s0W9-Ta">
@@ -182,7 +183,10 @@
 <LM>w#w-wsj2082-001-p1s0W17</LM>
 </w.rf>
 <form>Byronem</form>
-<tag lemma="Byron_;S" src="auto" recommended="1">NNMS7-----A----</tag>
+<tag>
+<AM lemma="Byron_;S" src="auto" recommended="1">NNMS7-----A----</AM>
+<AM lemma="Byron_;S_;Y" src="manual" selected="1">NNMS7-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj2082-001-p1s0W18-Ta">
 <src.rf>tagger-a</src.rf>
@@ -190,7 +194,10 @@
 <LM>w#w-wsj2082-001-p1s0W18</LM>
 </w.rf>
 <form>Dorganem</form>
-<tag lemma="Dorganem" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Dorganem" src="auto">X@-------------</AM>
+<AM lemma="Dorgan_;S" src="manual" selected="1">NNMS7-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj2082-001-p1s0W19-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2144,7 +2151,7 @@
 <form>chodí</form>
 <tag>
 <AM lemma="chodit" src="auto" recommended="1">VB-P---3P-AAI--</AM>
-<AM lemma="chodit" src="auto">VB-S---3P-AAI--</AM>
+<AM lemma="chodit" src="auto" selected="1">VB-S---3P-AAI--</AM>
 </tag>
 </m>
 <m id="m-wsj2082-001-p1s5W8-Ta">
@@ -2356,7 +2363,10 @@
 <LM>w#w-wsj2082-001-p1s5W23</LM>
 </w.rf>
 <form>Darmanem</form>
-<tag lemma="Darmanem" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Darmanem" src="auto">X@-------------</AM>
+<AM lemma="Darman_;S" src="manual" selected="1">NNMS7-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj2082-001-p1s5W24-Ta">
 <src.rf>tagger-a</src.rf>

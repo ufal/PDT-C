@@ -27,7 +27,10 @@
 <LM>w#w-wsj2116-001-p1s0W2</LM>
 </w.rf>
 <form>Amcast</form>
-<tag lemma="Amcast" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Amcast" src="auto">X@-------------</AM>
+<AM lemma="Amcast-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj2116-001-p1s0W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -35,7 +38,10 @@
 <LM>w#w-wsj2116-001-p1s0W3</LM>
 </w.rf>
 <form>Industrial</form>
-<tag lemma="Industrial" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Industrial" src="auto">X@-------------</AM>
+<AM lemma="Industrial-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj2116-001-p1s0W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -43,7 +49,10 @@
 <LM>w#w-wsj2116-001-p1s0W4</LM>
 </w.rf>
 <form>Corp</form>
-<tag lemma="corp-77_:B" src="auto" recommended="1">F%-------------</tag>
+<tag>
+<AM lemma="corp-77_:B" src="auto" recommended="1">F%-------------</AM>
+<AM lemma="Corp-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj2116-001-p1s0W5-Ta">
 <src.rf>tagger-a</src.rf>
@@ -302,7 +311,7 @@
 <form>Tento</form>
 <tag>
 <AM lemma="tento" src="auto" recommended="1">PDIS4----------</AM>
-<AM lemma="tento" src="auto">PDYS1----------</AM>
+<AM lemma="tento" src="auto" selected="1">PDYS1----------</AM>
 </tag>
 </m>
 <m id="m-wsj2116-001-p1s1W2-Ta">
@@ -312,7 +321,7 @@
 </w.rf>
 <form>koncern</form>
 <tag>
-<AM lemma="koncern" src="auto">NNIS1-----A----</AM>
+<AM lemma="koncern" src="auto" selected="1">NNIS1-----A----</AM>
 <AM lemma="koncern" src="auto" recommended="1">NNIS4-----A----</AM>
 </tag>
 </m>
@@ -502,7 +511,10 @@
 <LM>w#w-wsj2116-001-p1s2W1</LM>
 </w.rf>
 <form>Amcast</form>
-<tag lemma="Amcast" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Amcast" src="auto">X@-------------</AM>
+<AM lemma="Amcast_;K" src="manual" selected="1">NNFS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj2116-001-p1s2W2-Ta">
 <src.rf>tagger-a</src.rf>
@@ -883,6 +895,7 @@
 <AM lemma="Dillon_;G" src="auto">NNIS1-----A----</AM>
 <AM lemma="Dillon_;G" src="auto">NNIS4-----A----</AM>
 <AM lemma="Dillon_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Dillon-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj2116-001-p1s3W12-Ta">
@@ -891,7 +904,10 @@
 <LM>w#w-wsj2116-001-p1s3W12</LM>
 </w.rf>
 <form>Read</form>
-<tag lemma="Read_;S" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Read_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Read-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj2116-001-p1s3W13-Ta">
 <src.rf>tagger-a</src.rf>
@@ -915,6 +931,7 @@
 <AM lemma="co-4_^(který:_př.:_o_těch,_co_odešli/co_je_znal)" src="auto">P4XXX----------</AM>
 <AM lemma="co-5_^(př._co_nejméně,_co_nevidět,_co_chvíli,_co_do_počtu,_atd.)" src="auto">Db-------------</AM>
 <AM lemma="co-77_:B" src="auto">F%-------------</AM>
+<AM lemma="Co-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj2116-001-p1s3W15-Ta">

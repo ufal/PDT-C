@@ -24,7 +24,10 @@
 <LM>w#w-wsj2068-001-p1s0W2</LM>
 </w.rf>
 <form>Asher</form>
-<tag lemma="Asher_;S" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Asher_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Asher_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj2068-001-p1s0W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -99,7 +102,10 @@
 <LM>w#w-wsj2068-001-p1s0W9</LM>
 </w.rf>
 <form>Intelogic</form>
-<tag lemma="Intelogic" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Intelogic" src="auto">X@-------------</AM>
+<AM lemma="Intelogic-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj2068-001-p1s0W10-Ta">
 <src.rf>tagger-a</src.rf>
@@ -107,7 +113,10 @@
 <LM>w#w-wsj2068-001-p1s0W10</LM>
 </w.rf>
 <form>Trace</form>
-<tag lemma="Trace" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Trace" src="auto">X@-------------</AM>
+<AM lemma="Trace-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj2068-001-p1s0W11-Ta">
 <src.rf>tagger-a</src.rf>
@@ -118,6 +127,7 @@
 <tag>
 <AM lemma="Inc-77_:B" src="auto" recommended="1">F%-------------</AM>
 <AM lemma="inc-77_:B" src="auto">F%-------------</AM>
+<AM lemma="Inc-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj2068-001-p1s0W12-Ta">
@@ -178,7 +188,7 @@
 <tag>
 <AM lemma="taka-1_;L" src="auto">NNFP2-----A----</AM>
 <AM lemma="tak-1" src="auto">TT-------------</AM>
-<AM lemma="tak-2" src="auto">J^-------------</AM>
+<AM lemma="tak-2" src="auto" selected="1">J^-------------</AM>
 <AM lemma="tak-3" src="auto" recommended="1">Db-------------</AM>
 </tag>
 </m>
@@ -553,7 +563,7 @@
 </w.rf>
 <form>o</form>
 <tag>
-<AM lemma="o-1" src="auto">RR--4----------</AM>
+<AM lemma="o-1" src="auto" selected="1">RR--4----------</AM>
 <AM lemma="o-1" src="auto" recommended="1">RR--6----------</AM>
 <AM lemma="o-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
 <AM lemma="o-77_,t" src="auto">F%-------------</AM>
@@ -577,7 +587,7 @@
 <AM lemma="ovládnutí_^(*3out)" src="auto">NNNS1-----A----</AM>
 <AM lemma="ovládnutí_^(*3out)" src="auto">NNNS2-----A----</AM>
 <AM lemma="ovládnutí_^(*3out)" src="auto">NNNS3-----A----</AM>
-<AM lemma="ovládnutí_^(*3out)" src="auto">NNNS4-----A----</AM>
+<AM lemma="ovládnutí_^(*3out)" src="auto" selected="1">NNNS4-----A----</AM>
 <AM lemma="ovládnutí_^(*3out)" src="auto">NNNS5-----A----</AM>
 <AM lemma="ovládnutí_^(*3out)" src="auto" recommended="1">NNNS6-----A----</AM>
 </tag>
@@ -604,7 +614,10 @@
 <LM>w#w-wsj2068-001-p1s1W27</LM>
 </w.rf>
 <form>Datapoint</form>
-<tag lemma="Datapoint" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Datapoint" src="auto">X@-------------</AM>
+<AM lemma="Datapoint_;K" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj2068-001-p1s1W28-Ta">
 <src.rf>tagger-a</src.rf>
@@ -663,6 +676,7 @@
 <AM lemma="Antonio_;Y_,t" src="auto">NNMS6-----A---1</AM>
 <AM lemma="Antonius_;S" src="auto">NNMS3-----A---1</AM>
 <AM lemma="Antonius_;S" src="auto" recommended="1">NNMS6-----A---1</AM>
+<AM lemma="Antonio-2_;G" src="manual" selected="1">NNNS6-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2068-001-p1s1W33-Ta">
@@ -754,7 +768,10 @@
 <LM>w#w-wsj2068-001-p1s2W1</LM>
 </w.rf>
 <form>Intelogic</form>
-<tag lemma="Intelogic" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Intelogic" src="auto">X@-------------</AM>
+<AM lemma="Intelogic-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj2068-001-p1s2W2-Ta">
 <src.rf>tagger-a</src.rf>
@@ -762,7 +779,10 @@
 <LM>w#w-wsj2068-001-p1s2W2</LM>
 </w.rf>
 <form>Trace</form>
-<tag lemma="Trace" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Trace" src="auto">X@-------------</AM>
+<AM lemma="Trace-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj2068-001-p1s2W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -891,7 +911,7 @@
 </w.rf>
 <form>držiteli</form>
 <tag>
-<AM lemma="držitel" src="auto">NNMP7-----A----</AM>
+<AM lemma="držitel" src="auto" selected="1">NNMP7-----A----</AM>
 <AM lemma="držitel" src="auto" recommended="1">NNMS3-----A----</AM>
 <AM lemma="držitel" src="auto">NNMS5-----A----</AM>
 <AM lemma="držitel" src="auto">NNMS6-----A----</AM>
@@ -903,7 +923,10 @@
 <LM>w#w-wsj2068-001-p1s2W14</LM>
 </w.rf>
 <form>Datapointu</form>
-<tag lemma="Datapointu" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Datapointu" src="auto">X@-------------</AM>
+<AM lemma="Datapoint_;K" src="manual" selected="1">NNIS2-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj2068-001-p1s2W15-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1162,7 +1185,10 @@
 <LM>w#w-wsj2068-001-p1s3W17</LM>
 </w.rf>
 <form>Datapointem</form>
-<tag lemma="Datapointem" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Datapointem" src="auto">X@-------------</AM>
+<AM lemma="Datapoint_;K" src="manual" selected="1">NNIS7-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj2068-001-p1s3W18-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1296,7 +1322,10 @@
 <LM>w#w-wsj2068-001-p1s3W27</LM>
 </w.rf>
 <form>Datapointu</form>
-<tag lemma="Datapointu" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Datapointu" src="auto">X@-------------</AM>
+<AM lemma="Datapoint_;K" src="manual" selected="1">NNIS2-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj2068-001-p1s3W28-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1662,7 +1691,10 @@
 <LM>w#w-wsj2068-001-p1s4W31</LM>
 </w.rf>
 <form>Intelogic</form>
-<tag lemma="Intelogic" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Intelogic" src="auto">X@-------------</AM>
+<AM lemma="Intelogic_;K" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj2068-001-p1s4W32-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1813,7 +1845,7 @@
 <form>podíl</form>
 <tag>
 <AM lemma="podíl" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="podíl" src="auto">NNIS4-----A----</AM>
+<AM lemma="podíl" src="auto" selected="1">NNIS4-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2068-001-p1s5W5-Ta">
@@ -1958,7 +1990,10 @@
 <LM>w#w-wsj2068-001-p1s6W7</LM>
 </w.rf>
 <form>Intelogic</form>
-<tag lemma="Intelogic" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Intelogic" src="auto">X@-------------</AM>
+<AM lemma="Intelogic_;K" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj2068-001-p1s6W8-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1989,7 +2024,7 @@
 </w.rf>
 <form>Edelmana</form>
 <tag>
-<AM lemma="Edelman_;S" src="auto">NNMS2-----A----</AM>
+<AM lemma="Edelman_;S" src="auto" selected="1">NNMS2-----A----</AM>
 <AM lemma="Edelman_;S" src="auto" recommended="1">NNMS4-----A----</AM>
 </tag>
 </m>
@@ -2008,7 +2043,7 @@
 </w.rf>
 <form>prezidenta</form>
 <tag>
-<AM lemma="prezident" src="auto">NNMS2-----A----</AM>
+<AM lemma="prezident" src="auto" selected="1">NNMS2-----A----</AM>
 <AM lemma="prezident" src="auto" recommended="1">NNMS4-----A----</AM>
 </tag>
 </m>
@@ -2274,7 +2309,10 @@
 <LM>w#w-wsj2068-001-p1s6W34</LM>
 </w.rf>
 <form>Intelogic</form>
-<tag lemma="Intelogic" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Intelogic" src="auto">X@-------------</AM>
+<AM lemma="Intelogic_;K" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj2068-001-p1s6W35-Ta">
 <src.rf>tagger-a</src.rf>

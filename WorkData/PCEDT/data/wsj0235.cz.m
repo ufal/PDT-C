@@ -97,7 +97,7 @@
 <AM lemma="rada-1_^(př._dát_někomu_dobrou_radu;poradní_sbor)" src="auto" recommended="1">NNFP1-----A----</AM>
 <AM lemma="rada-1_^(př._dát_někomu_dobrou_radu;poradní_sbor)" src="auto">NNFP4-----A----</AM>
 <AM lemma="rada-1_^(př._dát_někomu_dobrou_radu;poradní_sbor)" src="auto">NNFP5-----A----</AM>
-<AM lemma="rada-1_^(př._dát_někomu_dobrou_radu;poradní_sbor)" src="auto">NNFS2-----A----</AM>
+<AM lemma="rada-1_^(př._dát_někomu_dobrou_radu;poradní_sbor)" src="auto" selected="1">NNFS2-----A----</AM>
 <AM lemma="rada-2_^(člověk;_např._soudní_rada)" src="auto">NNMP4-----A----</AM>
 <AM lemma="rada-2_^(člověk;_např._soudní_rada)" src="auto">NNMP7-----A----</AM>
 <AM lemma="rada-2_^(člověk;_např._soudní_rada)" src="auto">NNMS2-----A----</AM>
@@ -455,7 +455,7 @@
 <AM lemma="prohlášený_^(*4sit)" src="auto">AAMP1----1A----</AM>
 <AM lemma="prohlášený_^(*4sit)" src="auto">AAMP5----1A----</AM>
 <AM lemma="prohlášení_^(*4sit)" src="auto">NNNP1-----A----</AM>
-<AM lemma="prohlášení_^(*4sit)" src="auto">NNNP2-----A----</AM>
+<AM lemma="prohlášení_^(*4sit)" src="auto" selected="1">NNNP2-----A----</AM>
 <AM lemma="prohlášení_^(*4sit)" src="auto">NNNP4-----A----</AM>
 <AM lemma="prohlášení_^(*4sit)" src="auto">NNNP5-----A----</AM>
 <AM lemma="prohlášení_^(*4sit)" src="auto">NNNS1-----A----</AM>
@@ -987,7 +987,7 @@
 </w.rf>
 <form>velkoobchodní</form>
 <tag>
-<AM lemma="velkoobchodní" src="auto">AAFP1----1A----</AM>
+<AM lemma="velkoobchodní" src="auto" selected="1">AAFP1----1A----</AM>
 <AM lemma="velkoobchodní" src="auto" recommended="1">AAFP4----1A----</AM>
 <AM lemma="velkoobchodní" src="auto">AAFP5----1A----</AM>
 <AM lemma="velkoobchodní" src="auto">AAFS1----1A----</AM>
@@ -1023,7 +1023,7 @@
 </w.rf>
 <form>ceny</form>
 <tag>
-<AM lemma="cena" src="auto">NNFP1-----A----</AM>
+<AM lemma="cena" src="auto" selected="1">NNFP1-----A----</AM>
 <AM lemma="cena" src="auto" recommended="1">NNFP4-----A----</AM>
 <AM lemma="cena" src="auto">NNFP5-----A----</AM>
 <AM lemma="cena" src="auto">NNFS2-----A----</AM>

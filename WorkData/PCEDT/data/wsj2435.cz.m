@@ -29,7 +29,10 @@
 <LM>w#w-wsj2435-001-p1s0W2</LM>
 </w.rf>
 <form>Mathsushita</form>
-<tag lemma="Mathsushita" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Mathsushita" src="auto">X@-------------</AM>
+<AM lemma="Mathsushita-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj2435-001-p1s0W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -37,7 +40,10 @@
 <LM>w#w-wsj2435-001-p1s0W3</LM>
 </w.rf>
 <form>Electric</form>
-<tag lemma="Electric-1_;K_,t_^(souč._názvů,_např._General_E.)" src="auto" recommended="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="Electric-1_;K_,t_^(souč._názvů,_např._General_E.)" src="auto" recommended="1">AAXXX----1A----</AM>
+<AM lemma="Electric-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj2435-001-p1s0W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -45,7 +51,10 @@
 <LM>w#w-wsj2435-001-p1s0W4</LM>
 </w.rf>
 <form>Industrial</form>
-<tag lemma="Industrial" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Industrial" src="auto">X@-------------</AM>
+<AM lemma="Industrial-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj2435-001-p1s0W5-Ta">
 <src.rf>tagger-a</src.rf>
@@ -54,6 +63,14 @@
 </w.rf>
 <form>Co.z</form>
 <tag lemma="Co.z" src="auto">X@-------------</tag>
+<comment>
+<LM type="New Form">
+<text>Co</text>
+</LM>
+<LM type="Other">
+<text>rozdělit uzly: Co, tečka, z</text>
+</LM>
+</comment>
 </m>
 <m id="m-wsj2435-001-p1s0W6-Ta">
 <src.rf>tagger-a</src.rf>
@@ -89,7 +106,7 @@
 </w.rf>
 <form>Siemens</form>
 <tag>
-<AM lemma="Siemens-1_;K" src="auto">NNIS1-----A----</AM>
+<AM lemma="Siemens-1_;K" src="auto" selected="1">NNIS1-----A----</AM>
 <AM lemma="Siemens-1_;K" src="auto" recommended="1">NNIS4-----A----</AM>
 <AM lemma="Siemens-2_;S" src="auto">NNMS1-----A----</AM>
 <AM lemma="siemens-1_^(jednotka_soustavy_SI)" src="auto">NNIS1-----A----</AM>
@@ -183,7 +200,10 @@
 <LM>w#w-wsj2435-001-p1s0W17</LM>
 </w.rf>
 <form>join</form>
-<tag lemma="join" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="join" src="auto">X@-------------</AM>
+<AM lemma="join-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj2435-001-p1s0W18-Ta">
 <src.rf>tagger-a</src.rf>
@@ -199,7 +219,10 @@
 <LM>w#w-wsj2435-001-p1s0W19</LM>
 </w.rf>
 <form>venture</form>
-<tag lemma="venture_,t_^(joint_v.;_společný_podnik)" src="auto" recommended="1">NNIXX-----A----</tag>
+<tag>
+<AM lemma="venture_,t_^(joint_v.;_společný_podnik)" src="auto" recommended="1">NNIXX-----A----</AM>
+<AM lemma="venture-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj2435-001-p1s0W20-Ta">
 <src.rf>tagger-a</src.rf>
@@ -471,6 +494,11 @@
 </w.rf>
 <form>vlasnit</form>
 <tag lemma="vlasnit" src="auto">X@-------------</tag>
+<comment>
+<LM type="New Form">
+<text>vlastnit</text>
+</LM>
+</comment>
 </m>
 <m id="m-wsj2435-001-p1s1W11-Ta">
 <src.rf>tagger-a</src.rf>
@@ -533,6 +561,11 @@
 <AM lemma="dceřin_^(*3ra)" src="auto">AUNP5F---------</AM>
 <AM lemma="dceřin_^(*3ra)" src="auto">AUNS2F---------</AM>
 </tag>
+<comment>
+<LM type="New Form">
+<text>dceřiná</text>
+</LM>
+</comment>
 </m>
 <m id="m-wsj2435-001-p1s1W16-Ta">
 <src.rf>tagger-a</src.rf>
@@ -572,7 +605,10 @@
 <LM>w#w-wsj2435-001-p1s1W19</LM>
 </w.rf>
 <form>Matsushita</form>
-<tag lemma="Matsushita_;K" src="auto" recommended="1">NNFS1-----A----</tag>
+<tag>
+<AM lemma="Matsushita_;K" src="auto" recommended="1">NNFS1-----A----</AM>
+<AM lemma="Matsushita-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj2435-001-p1s1W20-Ta">
 <src.rf>tagger-a</src.rf>
@@ -580,7 +616,10 @@
 <LM>w#w-wsj2435-001-p1s1W20</LM>
 </w.rf>
 <form>Electronic</form>
-<tag lemma="Electronic" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Electronic" src="auto">X@-------------</AM>
+<AM lemma="Electronic-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj2435-001-p1s1W21-Ta">
 <src.rf>tagger-a</src.rf>
@@ -589,7 +628,7 @@
 </w.rf>
 <form>Components</form>
 <tag>
-<AM lemma="Components-77" src="auto" recommended="1">F%-------------</AM>
+<AM lemma="Components-77" src="auto" recommended="1" selected="1">F%-------------</AM>
 <AM lemma="components-77_,t" src="auto">F%-------------</AM>
 </tag>
 </m>
@@ -607,6 +646,7 @@
 <AM lemma="co-4_^(který:_př.:_o_těch,_co_odešli/co_je_znal)" src="auto">P4XXX----------</AM>
 <AM lemma="co-5_^(př._co_nejméně,_co_nevidět,_co_chvíli,_co_do_počtu,_atd.)" src="auto">Db-------------</AM>
 <AM lemma="co-77_:B" src="auto" recommended="1">F%-------------</AM>
+<AM lemma="Co-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj2435-001-p1s1W23-Ta">
@@ -865,6 +905,7 @@
 <AM lemma="Siemens-2_;S" src="auto">NNMS1-----A----</AM>
 <AM lemma="siemens-1_^(jednotka_soustavy_SI)" src="auto">NNIS1-----A----</AM>
 <AM lemma="siemens-1_^(jednotka_soustavy_SI)" src="auto">NNIS4-----A----</AM>
+<AM lemma="Siemens-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj2435-001-p1s3W7-Ta">
@@ -873,7 +914,10 @@
 <LM>w#w-wsj2435-001-p1s3W7</LM>
 </w.rf>
 <form>Matsushita</form>
-<tag lemma="Matsushita_;K" src="auto" recommended="1">NNFS1-----A----</tag>
+<tag>
+<AM lemma="Matsushita_;K" src="auto" recommended="1">NNFS1-----A----</AM>
+<AM lemma="Matsushita-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj2435-001-p1s3W8-Ta">
 <src.rf>tagger-a</src.rf>
@@ -892,7 +936,10 @@
 <LM>w#w-wsj2435-001-p1s3W9</LM>
 </w.rf>
 <form>G.m.b.H</form>
-<tag lemma="G.m.b.H" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="G.m.b.H" src="auto">X@-------------</AM>
+<AM lemma="G.m.b.H-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj2435-001-p1s3W10-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1310,7 +1357,7 @@
 <AM lemma="většinový" src="auto">AAIP5----1A----</AM>
 <AM lemma="většinový" src="auto">AAMP4----1A----</AM>
 <AM lemma="většinový" src="auto">AANP1----1A---6</AM>
-<AM lemma="většinový" src="auto">AANP4----1A---6</AM>
+<AM lemma="většinový" src="auto" selected="1">AANP4----1A---6</AM>
 <AM lemma="většinový" src="auto">AANP5----1A---6</AM>
 <AM lemma="většinový" src="auto">AANS1----1A----</AM>
 <AM lemma="většinový" src="auto" recommended="1">AANS4----1A----</AM>

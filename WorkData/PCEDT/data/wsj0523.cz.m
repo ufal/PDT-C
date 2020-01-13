@@ -24,7 +24,10 @@
 <LM>w#w-wsj0523-001-p1s0W2</LM>
 </w.rf>
 <form>Weisfield's</form>
-<tag lemma="Weisfield's" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Weisfield's" src="auto">X@-------------</AM>
+<AM lemma="Weisfield's-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0523-001-p1s0W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -35,6 +38,7 @@
 <tag>
 <AM lemma="Inc-77_:B" src="auto" recommended="1">F%-------------</AM>
 <AM lemma="inc-77_:B" src="auto">F%-------------</AM>
+<AM lemma="Inc-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj0523-001-p1s0W4-Ta">
@@ -120,7 +124,7 @@
 </w.rf>
 <form>stran</form>
 <tag>
-<AM lemma="stran_^(týkající_se_čeho)" src="auto">RR--2----------</AM>
+<AM lemma="stran_^(týkající_se_čeho)" src="auto" selected="1">RR--2----------</AM>
 <AM lemma="strana" src="auto" recommended="1">NNFP2-----A----</AM>
 </tag>
 </m>
@@ -532,7 +536,10 @@
 <LM>w#w-wsj0523-001-p1s2W6</LM>
 </w.rf>
 <form>Weisfield's</form>
-<tag lemma="Weisfield's" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Weisfield's" src="auto">X@-------------</AM>
+<AM lemma="Weisfield's-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0523-001-p1s2W7-Ta">
 <src.rf>tagger-a</src.rf>
@@ -754,7 +761,10 @@
 <LM>w#w-wsj0523-001-p1s4W2</LM>
 </w.rf>
 <form>Weisfield's</form>
-<tag lemma="Weisfield's" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Weisfield's" src="auto">X@-------------</AM>
+<AM lemma="Weisfield's-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0523-001-p1s4W3-Ta">
 <src.rf>tagger-a</src.rf>

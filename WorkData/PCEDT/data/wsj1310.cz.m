@@ -882,7 +882,10 @@
 <LM>w#w-wsj1310-001-p1s2W1</LM>
 </w.rf>
 <form>Joseph</form>
-<tag lemma="Joseph_;Y_,t" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Joseph_;Y_,t" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Joseph_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj1310-001-p1s2W2-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1114,6 +1117,7 @@
 <AM lemma="obviněný_^(*3it)" src="auto">AAMP6----1A----</AM>
 <AM lemma="obviněný_^(*3it)" src="auto">AANP2----1A----</AM>
 <AM lemma="obviněný_^(*3it)" src="auto">AANP6----1A----</AM>
+<AM lemma="obviněný-2" src="manual" selected="1">NNMP2-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1310-001-p1s2W24-Ta">
@@ -1557,7 +1561,7 @@
 <tag>
 <AM lemma="prostřednictví" src="auto">NNNP3-----A----</AM>
 <AM lemma="prostřednictví" src="auto" recommended="1">NNNS7-----A----</AM>
-<AM lemma="prostřednictvím" src="auto">RR--2----------</AM>
+<AM lemma="prostřednictvím" src="auto" selected="1">RR--2----------</AM>
 </tag>
 </m>
 <m id="m-wsj1310-001-p1s3W26-Ta">
@@ -1944,7 +1948,7 @@
 <tag>
 <AM lemma="Lombard_;E" src="auto" recommended="1">NNMS3-----A----</AM>
 <AM lemma="Lombard_;E" src="auto">NNMS6-----A----</AM>
-<AM lemma="Lombardo_;S" src="auto">NNMS3-----A----</AM>
+<AM lemma="Lombardo_;S" src="auto" selected="1">NNMS3-----A----</AM>
 <AM lemma="Lombardo_;S" src="auto">NNMS6-----A----</AM>
 <AM lemma="Lombardus_;S" src="auto">NNMS3-----A---1</AM>
 <AM lemma="Lombardus_;S" src="auto">NNMS6-----A---1</AM>
@@ -2264,6 +2268,7 @@
 <AM lemma="obviněný_^(*3it)" src="auto">AAMP6----1A----</AM>
 <AM lemma="obviněný_^(*3it)" src="auto">AANP2----1A----</AM>
 <AM lemma="obviněný_^(*3it)" src="auto">AANP6----1A----</AM>
+<AM lemma="obviněný-2" src="manual" selected="1">NNMP2-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1310-001-p1s6W10-Ta">

@@ -30,6 +30,7 @@
 <tag>
 <AM lemma="Medusa_;S" src="auto" recommended="1">NNFS1-----A----</AM>
 <AM lemma="medúza_,x" src="auto">NNFS1-----A----</AM>
+<AM lemma="MEDUSA-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj2129-001-p1s0W3-Ta">
@@ -38,7 +39,10 @@
 <LM>w#w-wsj2129-001-p1s0W3</LM>
 </w.rf>
 <form>Corp</form>
-<tag lemma="corp-77_:B" src="auto" recommended="1">F%-------------</tag>
+<tag>
+<AM lemma="corp-77_:B" src="auto" recommended="1">F%-------------</AM>
+<AM lemma="Corp-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj2129-001-p1s0W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -519,7 +523,7 @@
 <LM>w#w-wsj2129-001-p1s2W2</LM>
 </w.rf>
 <form>producent</form>
-<tag lemma="producent" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag lemma="producent" src="auto" recommended="1" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-wsj2129-001-p1s2W3-Ta">
 <src.rf>tagger-a</src.rf>

@@ -31,6 +31,7 @@
 <AM lemma="Parker_;S" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="parker_;R_,h_,t_^(druh_plnicího_pera)" src="auto">NNIS1-----A----</AM>
 <AM lemma="parker_;R_,h_,t_^(druh_plnicího_pera)" src="auto">NNIS4-----A----</AM>
+<AM lemma="PARKER-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj0611-001-p1s0W3-Ta">
@@ -39,7 +40,10 @@
 <LM>w#w-wsj0611-001-p1s0W3</LM>
 </w.rf>
 <form>HANNIFIN</form>
-<tag lemma="HANNIFIN" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="HANNIFIN" src="auto">X@-------------</AM>
+<AM lemma="HANNIFIN-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0611-001-p1s0W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -47,7 +51,10 @@
 <LM>w#w-wsj0611-001-p1s0W4</LM>
 </w.rf>
 <form>Corp</form>
-<tag lemma="corp-77_:B" src="auto" recommended="1">F%-------------</tag>
+<tag>
+<AM lemma="corp-77_:B" src="auto" recommended="1">F%-------------</AM>
+<AM lemma="Corp-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0611-001-p1s0W5-Ta">
 <src.rf>tagger-a</src.rf>
@@ -322,7 +329,10 @@
 <LM>w#w-wsj0611-001-p1s0W24</LM>
 </w.rf>
 <form>Automotive</form>
-<tag lemma="Automotive" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Automotive" src="auto">X@-------------</AM>
+<AM lemma="Automotive-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0611-001-p1s0W25-Ta">
 <src.rf>tagger-a</src.rf>
@@ -330,7 +340,10 @@
 <LM>w#w-wsj0611-001-p1s0W25</LM>
 </w.rf>
 <form>Connectors</form>
-<tag lemma="Connectors" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Connectors" src="auto">X@-------------</AM>
+<AM lemma="Connectors-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0611-001-p1s0W26-Ta">
 <src.rf>tagger-a</src.rf>
@@ -352,7 +365,10 @@
 <LM>w#w-wsj0611-001-p1s0W27</LM>
 </w.rf>
 <form>Cliff</form>
-<tag lemma="Cliff_;Y" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Cliff_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Cliff-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0611-001-p1s0W28-Ta">
 <src.rf>tagger-a</src.rf>
@@ -363,6 +379,7 @@
 <tag>
 <AM lemma="Impact_;K" src="auto">NNIS1-----A----</AM>
 <AM lemma="Impact_;K" src="auto" recommended="1">NNIS4-----A----</AM>
+<AM lemma="Impact-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj0611-001-p1s0W29-Ta">
@@ -464,6 +481,7 @@
 <AM lemma="Parker_;S" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="parker_;R_,h_,t_^(druh_plnicího_pera)" src="auto">NNIS1-----A----</AM>
 <AM lemma="parker_;R_,h_,t_^(druh_plnicího_pera)" src="auto">NNIS4-----A----</AM>
+<AM lemma="Parker-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj0611-001-p1s1W8-Ta">
@@ -472,7 +490,10 @@
 <LM>w#w-wsj0611-001-p1s1W8</LM>
 </w.rf>
 <form>Hannifin</form>
-<tag lemma="Hannifin" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Hannifin" src="auto">X@-------------</AM>
+<AM lemma="Hannifin-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0611-001-p1s1W9-Ta">
 <src.rf>tagger-a</src.rf>

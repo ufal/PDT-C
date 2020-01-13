@@ -27,7 +27,10 @@
 <LM>w#w-wsj1966-001-p1s0W2</LM>
 </w.rf>
 <form>McCormick</form>
-<tag lemma="McCormick_;S" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="McCormick_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="McCormick-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1966-001-p1s0W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -35,7 +38,10 @@
 <LM>w#w-wsj1966-001-p1s0W3</LM>
 </w.rf>
 <form>Capital</form>
-<tag lemma="Capital" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Capital" src="auto">X@-------------</AM>
+<AM lemma="Capital-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1966-001-p1s0W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -46,6 +52,7 @@
 <tag>
 <AM lemma="Inc-77_:B" src="auto" recommended="1">F%-------------</AM>
 <AM lemma="inc-77_:B" src="auto">F%-------------</AM>
+<AM lemma="Inc-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1966-001-p1s0W5-Ta">
@@ -886,7 +893,7 @@
 <AM lemma="předběžný" src="auto">AAIP4----1A---6</AM>
 <AM lemma="předběžný" src="auto">AAIP5----1A---6</AM>
 <AM lemma="předběžný" src="auto" recommended="1">AAIS1----1A----</AM>
-<AM lemma="předběžný" src="auto">AAIS4----1A----</AM>
+<AM lemma="předběžný" src="auto" selected="1">AAIS4----1A----</AM>
 <AM lemma="předběžný" src="auto">AAIS5----1A----</AM>
 <AM lemma="předběžný" src="auto">AAMP1----1A---6</AM>
 <AM lemma="předběžný" src="auto">AAMP4----1A---6</AM>
@@ -911,6 +918,7 @@
 <AM lemma="faktor" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="faktor" src="auto">NNIS4-----A----</AM>
 <AM lemma="faktor" src="auto">NNMS1-----A----</AM>
+<AM lemma="faktor-1" src="manual" selected="1">NNIS4-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1966-001-p1s1W29-Ta">
@@ -1025,6 +1033,7 @@
 <AM lemma="faktor" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="faktor" src="auto">NNIS4-----A----</AM>
 <AM lemma="faktor" src="auto">NNMS1-----A----</AM>
+<AM lemma="faktor-1" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1966-001-p1s2W3-Ta">

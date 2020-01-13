@@ -27,7 +27,10 @@
 <LM>w#w-wsj1355-001-p1s0W2</LM>
 </w.rf>
 <form>Property</form>
-<tag lemma="Property" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Property" src="auto">X@-------------</AM>
+<AM lemma="Property-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1355-001-p1s0W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -35,7 +38,10 @@
 <LM>w#w-wsj1355-001-p1s0W3</LM>
 </w.rf>
 <form>Capital</form>
-<tag lemma="Capital" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Capital" src="auto">X@-------------</AM>
+<AM lemma="Capital-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1355-001-p1s0W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -46,6 +52,7 @@
 <tag>
 <AM lemma="trust" src="auto">NNIS1-----A----</AM>
 <AM lemma="trust" src="auto" recommended="1">NNIS4-----A----</AM>
+<AM lemma="Trust-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1355-001-p1s0W5-Ta">
@@ -570,7 +577,10 @@
 <LM>w#w-wsj1355-001-p1s2W2</LM>
 </w.rf>
 <form>Property</form>
-<tag lemma="Property" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Property" src="auto">X@-------------</AM>
+<AM lemma="Property-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1355-001-p1s2W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -578,7 +588,10 @@
 <LM>w#w-wsj1355-001-p1s2W3</LM>
 </w.rf>
 <form>Capital</form>
-<tag lemma="Capital" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Capital" src="auto">X@-------------</AM>
+<AM lemma="Capital-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1355-001-p1s2W4-Ta">
 <src.rf>tagger-a</src.rf>

@@ -27,7 +27,10 @@
 <LM>w#w-wsj1443-001-p1s0W2</LM>
 </w.rf>
 <form>Immunex</form>
-<tag lemma="Immunex" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Immunex" src="auto">X@-------------</AM>
+<AM lemma="Immunex-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1443-001-p1s0W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -35,7 +38,10 @@
 <LM>w#w-wsj1443-001-p1s0W3</LM>
 </w.rf>
 <form>Corp</form>
-<tag lemma="corp-77_:B" src="auto" recommended="1">F%-------------</tag>
+<tag>
+<AM lemma="corp-77_:B" src="auto" recommended="1">F%-------------</AM>
+<AM lemma="Corp-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1443-001-p1s0W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -913,7 +919,7 @@
 <form>obdrží</form>
 <tag>
 <AM lemma="obdržet" src="auto" recommended="1">VB-P---3P-AAP--</AM>
-<AM lemma="obdržet" src="auto">VB-S---3P-AAP--</AM>
+<AM lemma="obdržet" src="auto" selected="1">VB-S---3P-AAP--</AM>
 </tag>
 </m>
 <m id="m-wsj1443-001-p1s3W11-Ta">
@@ -1141,7 +1147,7 @@
 <AM lemma="alergie" src="auto">NNFP4-----A----</AM>
 <AM lemma="alergie" src="auto">NNFP5-----A----</AM>
 <AM lemma="alergie" src="auto" recommended="1">NNFS1-----A----</AM>
-<AM lemma="alergie" src="auto">NNFS2-----A----</AM>
+<AM lemma="alergie" src="auto" selected="1">NNFS2-----A----</AM>
 <AM lemma="alergie" src="auto">NNFS5-----A----</AM>
 </tag>
 </m>
@@ -1173,7 +1179,7 @@
 <AM lemma="odmítnutí_^(*3out)" src="auto">NNNP4-----A----</AM>
 <AM lemma="odmítnutí_^(*3out)" src="auto">NNNP5-----A----</AM>
 <AM lemma="odmítnutí_^(*3out)" src="auto" recommended="1">NNNS1-----A----</AM>
-<AM lemma="odmítnutí_^(*3out)" src="auto">NNNS2-----A----</AM>
+<AM lemma="odmítnutí_^(*3out)" src="auto" selected="1">NNNS2-----A----</AM>
 <AM lemma="odmítnutí_^(*3out)" src="auto">NNNS3-----A----</AM>
 <AM lemma="odmítnutí_^(*3out)" src="auto">NNNS4-----A----</AM>
 <AM lemma="odmítnutí_^(*3out)" src="auto">NNNS5-----A----</AM>
@@ -1360,7 +1366,7 @@
 <form>škodlivé</form>
 <tag>
 <AM lemma="škodlivý" src="auto" recommended="1">AAFP1----1A----</AM>
-<AM lemma="škodlivý" src="auto">AAFP4----1A----</AM>
+<AM lemma="škodlivý" src="auto" selected="1">AAFP4----1A----</AM>
 <AM lemma="škodlivý" src="auto">AAFP5----1A----</AM>
 <AM lemma="škodlivý" src="auto">AAFS2----1A----</AM>
 <AM lemma="škodlivý" src="auto">AAFS3----1A----</AM>
@@ -1385,7 +1391,7 @@
 <form>zánětlivé</form>
 <tag>
 <AM lemma="zánětlivý" src="auto" recommended="1">AAFP1----1A----</AM>
-<AM lemma="zánětlivý" src="auto">AAFP4----1A----</AM>
+<AM lemma="zánětlivý" src="auto" selected="1">AAFP4----1A----</AM>
 <AM lemma="zánětlivý" src="auto">AAFP5----1A----</AM>
 <AM lemma="zánětlivý" src="auto">AAFS2----1A----</AM>
 <AM lemma="zánětlivý" src="auto">AAFS3----1A----</AM>
@@ -1410,7 +1416,7 @@
 <form>reakce</form>
 <tag>
 <AM lemma="reakce" src="auto" recommended="1">NNFP1-----A----</AM>
-<AM lemma="reakce" src="auto">NNFP4-----A----</AM>
+<AM lemma="reakce" src="auto" selected="1">NNFP4-----A----</AM>
 <AM lemma="reakce" src="auto">NNFP5-----A----</AM>
 <AM lemma="reakce" src="auto">NNFS1-----A----</AM>
 <AM lemma="reakce" src="auto">NNFS2-----A----</AM>
@@ -1433,7 +1439,7 @@
 <form>zánik</form>
 <tag>
 <AM lemma="zánik" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="zánik" src="auto">NNIS4-----A----</AM>
+<AM lemma="zánik" src="auto" selected="1">NNIS4-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1443-001-p1s4W32-Ta">
@@ -1900,7 +1906,10 @@
 <LM>w#w-wsj1443-001-p1s6W20</LM>
 </w.rf>
 <form>Receptech</form>
-<tag lemma="recept" src="auto" recommended="1">NNIP6-----A----</tag>
+<tag>
+<AM lemma="recept" src="auto" recommended="1">NNIP6-----A----</AM>
+<AM lemma="Receptech-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1443-001-p1s6W21-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1908,7 +1917,10 @@
 <LM>w#w-wsj1443-001-p1s6W21</LM>
 </w.rf>
 <form>Corp</form>
-<tag lemma="corp-77_:B" src="auto" recommended="1">F%-------------</tag>
+<tag>
+<AM lemma="corp-77_:B" src="auto" recommended="1">F%-------------</AM>
+<AM lemma="Corp-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1443-001-p1s6W22-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1971,7 +1983,10 @@
 <LM>w#w-wsj1443-001-p1s6W27</LM>
 </w.rf>
 <form>Immunex</form>
-<tag lemma="Immunex" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Immunex" src="auto">X@-------------</AM>
+<AM lemma="Immunex_;K" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj1443-001-p1s6W28-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2126,7 +2141,7 @@
 <tag>
 <AM lemma="prostřednictví" src="auto">NNNP3-----A----</AM>
 <AM lemma="prostřednictví" src="auto" recommended="1">NNNS7-----A----</AM>
-<AM lemma="prostřednictvím" src="auto">RR--2----------</AM>
+<AM lemma="prostřednictvím" src="auto" selected="1">RR--2----------</AM>
 </tag>
 </m>
 <m id="m-wsj1443-001-p1s6W39-Ta">
@@ -2307,7 +2322,10 @@
 <LM>w#w-wsj1443-001-p1s7W2</LM>
 </w.rf>
 <form>Immunex</form>
-<tag lemma="Immunex" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Immunex" src="auto">X@-------------</AM>
+<AM lemma="Immunex_;K" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj1443-001-p1s7W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2563,7 +2581,10 @@
 <LM>w#w-wsj1443-001-p1s8W2</LM>
 </w.rf>
 <form>Immunex</form>
-<tag lemma="Immunex" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Immunex" src="auto">X@-------------</AM>
+<AM lemma="Immunex_;K" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj1443-001-p1s8W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2696,7 +2717,10 @@
 <LM>w#w-wsj1443-001-p1s8W11</LM>
 </w.rf>
 <form>Receptech</form>
-<tag lemma="recept" src="auto" recommended="1">NNIP6-----A----</tag>
+<tag>
+<AM lemma="recept" src="auto" recommended="1">NNIP6-----A----</AM>
+<AM lemma="Receptech_;K" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj1443-001-p1s8W12-Ta">
 <src.rf>tagger-a</src.rf>

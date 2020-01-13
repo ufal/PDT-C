@@ -17,6 +17,11 @@
 </w.rf>
 <form>66ti</form>
 <tag lemma="66ti" src="auto">X@-------------</tag>
+<comment>
+<LM type="New Form">
+<text>66</text>
+</LM>
+</comment>
 </m>
 <m id="m-wsj2405-001-p1s0W2-Ta">
 <src.rf>tagger-a</src.rf>
@@ -67,7 +72,15 @@
 <LM>w#w-wsj2405-001-p1s0W4</LM>
 </w.rf>
 <form>L.</form>
-<tag lemma="L." src="auto">X@-------------</tag>
+<tag>
+<AM lemma="L." src="auto">X@-------------</AM>
+<AM lemma="L.-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
+<comment>
+<LM type="Other">
+<text>špatná tokenizace</text>
+</LM>
+</comment>
 </m>
 <m id="m-wsj2405-001-p1s0W5-Ta">
 <src.rf>tagger-a</src.rf>
@@ -75,7 +88,10 @@
 <LM>w#w-wsj2405-001-p1s0W5</LM>
 </w.rf>
 <form>Savoca</form>
-<tag lemma="Savoca" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Savoca" src="auto">X@-------------</AM>
+<AM lemma="Savoca_;S" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj2405-001-p1s0W6-Ta">
 <src.rf>tagger-a</src.rf>
@@ -164,6 +180,7 @@
 <tag>
 <AM lemma="Atlantic_;G" src="auto" recommended="1">NNXXX-----A----</AM>
 <AM lemma="Atlantic_;G_,t" src="auto">AAXXX----1A----</AM>
+<AM lemma="Atlantic-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj2405-001-p1s0W14-Ta">
@@ -172,7 +189,10 @@
 <LM>w#w-wsj2405-001-p1s0W14</LM>
 </w.rf>
 <form>Research</form>
-<tag lemma="Research-1_;K_,t_^(souč._názvů,_např._IBM_Research)" src="auto" recommended="1">NNISX-----A----</tag>
+<tag>
+<AM lemma="Research-1_;K_,t_^(souč._názvů,_např._IBM_Research)" src="auto" recommended="1">NNISX-----A----</AM>
+<AM lemma="Research-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj2405-001-p1s0W15-Ta">
 <src.rf>tagger-a</src.rf>
@@ -180,7 +200,10 @@
 <LM>w#w-wsj2405-001-p1s0W15</LM>
 </w.rf>
 <form>Corporation</form>
-<tag lemma="corporation-77_;K_,t" src="auto" recommended="1">F%-------------</tag>
+<tag>
+<AM lemma="corporation-77_;K_,t" src="auto" recommended="1">F%-------------</AM>
+<AM lemma="Corporation-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj2405-001-p1s0W16-Ta">
 <src.rf>tagger-a</src.rf>
@@ -209,7 +232,10 @@
 <LM>w#w-wsj2405-001-p1s1W2</LM>
 </w.rf>
 <form>Savoca</form>
-<tag lemma="Savoca" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Savoca" src="auto">X@-------------</AM>
+<AM lemma="Savoca_;S" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj2405-001-p1s1W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -341,7 +367,10 @@
 <LM>w#w-wsj2405-001-p1s2W2</LM>
 </w.rf>
 <form>Savoca</form>
-<tag lemma="Savoca" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Savoca" src="auto">X@-------------</AM>
+<AM lemma="Savoca_;S" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj2405-001-p1s2W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -495,7 +524,10 @@
 <LM>w#w-wsj2405-001-p1s3W1</LM>
 </w.rf>
 <form>Sequa</form>
-<tag lemma="Sequa" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Sequa" src="auto">X@-------------</AM>
+<AM lemma="Sequa_;K" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj2405-001-p1s3W2-Ta">
 <src.rf>tagger-a</src.rf>

@@ -165,11 +165,12 @@
 <form>Gene</form>
 <tag>
 <AM lemma="Genus_;K" src="auto">NNIS5-----A----</AM>
-<AM lemma="Gene-1_;Y_^(muž)" src="auto">NNMSX-----A----</AM>
+<AM lemma="Gene-1_;Y_^(muž)" src="auto" selected="1">NNMSX-----A----</AM>
 <AM lemma="Gene-2_;Y_^(žena)" src="auto" recommended="1">NNFSX-----A----</AM>
 <AM lemma="gen" src="auto">NNIS5-----A----</AM>
 <AM lemma="genus" src="auto">NNIS5-----A----</AM>
 <AM lemma="gene-77" src="auto">F%-------------</AM>
+<AM lemma="Gene-77" src="manual">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1385-001-p1s0W13-Ta">
@@ -205,7 +206,7 @@
 <AM lemma="Philips_;K" src="auto">NNIS5-----A----</AM>
 <AM lemma="Phillips_;S" src="auto">NNMP4-----A----</AM>
 <AM lemma="Phillips_;S" src="auto" recommended="1">NNMS2-----A----</AM>
-<AM lemma="Phillips_;S" src="auto">NNMS4-----A----</AM>
+<AM lemma="Phillips_;S" src="auto" selected="1">NNMS4-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1385-001-p1s0W16-Ta">
@@ -272,7 +273,10 @@
 <LM>w#w-wsj1385-001-p1s0W21</LM>
 </w.rf>
 <form>Southmark</form>
-<tag lemma="Southmark" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Southmark" src="auto">X@-------------</AM>
+<AM lemma="Southmark-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1385-001-p1s0W22-Ta">
 <src.rf>tagger-a</src.rf>
@@ -280,7 +284,10 @@
 <LM>w#w-wsj1385-001-p1s0W22</LM>
 </w.rf>
 <form>Corp</form>
-<tag lemma="corp-77_:B" src="auto" recommended="1">F%-------------</tag>
+<tag>
+<AM lemma="corp-77_:B" src="auto" recommended="1">F%-------------</AM>
+<AM lemma="Corp-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1385-001-p1s0W23-Ta">
 <src.rf>tagger-a</src.rf>
@@ -363,7 +370,7 @@
 <form>Friedmana</form>
 <tag>
 <AM lemma="Friedman_;S" src="auto" recommended="1">NNMS2-----A----</AM>
-<AM lemma="Friedman_;S" src="auto">NNMS4-----A----</AM>
+<AM lemma="Friedman_;S" src="auto" selected="1">NNMS4-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1385-001-p1s0W30-Ta">
@@ -417,7 +424,10 @@
 <LM>w#w-wsj1385-001-p1s0W34</LM>
 </w.rf>
 <form>Southmark</form>
-<tag lemma="Southmark" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Southmark" src="auto">X@-------------</AM>
+<AM lemma="Southmark_;K" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj1385-001-p1s0W35-Ta">
 <src.rf>tagger-a</src.rf>
@@ -758,7 +768,10 @@
 <LM>w#w-wsj1385-001-p1s1W18</LM>
 </w.rf>
 <form>Southmark</form>
-<tag lemma="Southmark" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Southmark" src="auto">X@-------------</AM>
+<AM lemma="Southmark_;K" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj1385-001-p1s1W19-Ta">
 <src.rf>tagger-a</src.rf>

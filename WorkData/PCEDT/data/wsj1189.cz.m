@@ -1251,6 +1251,7 @@
 <tag>
 <AM lemma="regulátor" src="auto">NNIP6-----A----</AM>
 <AM lemma="regulátor" src="auto" recommended="1">NNMP6-----A----</AM>
+<AM lemma="regulátor-2" src="manual" selected="1">NNMP6-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1189-001-p1s4W4-Ta">
@@ -1364,7 +1365,7 @@
 <form>banky</form>
 <tag>
 <AM lemma="banka" src="auto" recommended="1">NNFP1-----A----</AM>
-<AM lemma="banka" src="auto">NNFP4-----A----</AM>
+<AM lemma="banka" src="auto" selected="1">NNFP4-----A----</AM>
 <AM lemma="banka" src="auto">NNFP5-----A----</AM>
 <AM lemma="banka" src="auto">NNFS2-----A----</AM>
 <AM lemma="bank" src="auto">NNIP1-----A----</AM>
@@ -1395,7 +1396,7 @@
 <form>spořitelny</form>
 <tag>
 <AM lemma="spořitelna_^(místo;_př._Česká_spořitelna)" src="auto" recommended="1">NNFP1-----A----</AM>
-<AM lemma="spořitelna_^(místo;_př._Česká_spořitelna)" src="auto">NNFP4-----A----</AM>
+<AM lemma="spořitelna_^(místo;_př._Česká_spořitelna)" src="auto" selected="1">NNFP4-----A----</AM>
 <AM lemma="spořitelna_^(místo;_př._Česká_spořitelna)" src="auto">NNFP5-----A----</AM>
 <AM lemma="spořitelna_^(místo;_př._Česká_spořitelna)" src="auto">NNFS2-----A----</AM>
 </tag>
@@ -1449,7 +1450,7 @@
 <AM lemma="antidiskriminační" src="auto">AAFS6----1A----</AM>
 <AM lemma="antidiskriminační" src="auto">AAFS7----1A----</AM>
 <AM lemma="antidiskriminační" src="auto" recommended="1">AAIP1----1A----</AM>
-<AM lemma="antidiskriminační" src="auto">AAIP4----1A----</AM>
+<AM lemma="antidiskriminační" src="auto" selected="1">AAIP4----1A----</AM>
 <AM lemma="antidiskriminační" src="auto">AAIP5----1A----</AM>
 <AM lemma="antidiskriminační" src="auto">AAIS1----1A----</AM>
 <AM lemma="antidiskriminační" src="auto">AAIS4----1A----</AM>
@@ -1475,7 +1476,7 @@
 <form>zákony</form>
 <tag>
 <AM lemma="zákon" src="auto" recommended="1">NNIP1-----A----</AM>
-<AM lemma="zákon" src="auto">NNIP4-----A----</AM>
+<AM lemma="zákon" src="auto" selected="1">NNIP4-----A----</AM>
 <AM lemma="zákon" src="auto">NNIP5-----A----</AM>
 <AM lemma="zákon" src="auto">NNIP7-----A----</AM>
 </tag>
@@ -1789,6 +1790,7 @@
 <AM lemma="černý_;o" src="auto">AAMP6----1A----</AM>
 <AM lemma="černý_;o" src="auto">AANP2----1A----</AM>
 <AM lemma="černý_;o" src="auto">AANP6----1A----</AM>
+<AM lemma="černý-2" src="manual" selected="1">NNMP2-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1189-001-p1s6W6-Ta">
@@ -1844,6 +1846,7 @@
 <AM lemma="bílý_;o" src="auto">AAMP6----1A----</AM>
 <AM lemma="bílý_;o" src="auto">AANP2----1A----</AM>
 <AM lemma="bílý_;o" src="auto">AANP6----1A----</AM>
+<AM lemma="bílý-2" src="manual" selected="1">NNMP2-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1189-001-p1s6W11-Ta">
@@ -2068,7 +2071,7 @@
 <form>i</form>
 <tag>
 <AM lemma="i-1" src="auto" recommended="1">J^-------------</AM>
-<AM lemma="i-2" src="auto">TT-------------</AM>
+<AM lemma="i-2" src="auto" selected="1">TT-------------</AM>
 <AM lemma="i-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
 <AM lemma="i-88_:B" src="auto">NNXXX-----A----</AM>
 </tag>
@@ -2656,7 +2659,7 @@
 <form>jistě</form>
 <tag>
 <AM lemma="jistit" src="auto">VeYS------A-I--</AM>
-<AM lemma="jistě-2" src="auto">TT-------------</AM>
+<AM lemma="jistě-2" src="auto" selected="1">TT-------------</AM>
 <AM lemma="jistě_^(*1ý)" src="auto" recommended="1">Dg-------1A----</AM>
 </tag>
 </m>
@@ -2973,6 +2976,7 @@
 <tag>
 <AM lemma="regulátor" src="auto" recommended="1">NNMP1-----A----</AM>
 <AM lemma="regulátor" src="auto">NNMP5-----A----</AM>
+<AM lemma="regulátor-2" src="manual" selected="1">NNMP1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1189-001-p1s9W23-Ta">
@@ -3948,7 +3952,10 @@
 <LM>w#w-wsj1189-001-p1s12W2</LM>
 </w.rf>
 <form>LaWare</form>
-<tag lemma="LaWare" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="LaWare" src="auto">X@-------------</AM>
+<AM lemma="LaWare_;S" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj1189-001-p1s12W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -4645,7 +4652,7 @@
 <form>Několik</form>
 <tag>
 <AM lemma="několik" src="auto" recommended="1">Ca--1----------</AM>
-<AM lemma="několik" src="auto">Ca--4----------</AM>
+<AM lemma="několik" src="auto" selected="1">Ca--4----------</AM>
 </tag>
 </m>
 <m id="m-wsj1189-001-p1s14W2-Ta">
@@ -4706,6 +4713,7 @@
 <tag>
 <AM lemma="regulátor" src="auto" recommended="1">NNMP1-----A----</AM>
 <AM lemma="regulátor" src="auto">NNMP5-----A----</AM>
+<AM lemma="regulátor-2" src="manual" selected="1">NNMP1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1189-001-p1s14W8-Ta">
@@ -5443,7 +5451,10 @@
 <LM>w#w-wsj1189-001-p1s15W29</LM>
 </w.rf>
 <form>Fiechter</form>
-<tag lemma="Fiechter" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Fiechter" src="auto">X@-------------</AM>
+<AM lemma="Fiechter_;S" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj1189-001-p1s15W30-Ta">
 <src.rf>tagger-a</src.rf>
@@ -5768,7 +5779,10 @@
 <LM>w#w-wsj1189-001-p1s16W22</LM>
 </w.rf>
 <form>Riegle</form>
-<tag lemma="Riegl_;S" src="auto" recommended="1">NNMS5-----A----</tag>
+<tag>
+<AM lemma="Riegl_;S" src="auto" recommended="1">NNMS5-----A----</AM>
+<AM lemma="Riegle_;S" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj1189-001-p1s16W23-Ta">
 <src.rf>tagger-a</src.rf>
@@ -6808,7 +6822,7 @@
 <form>vyšetřování</form>
 <tag>
 <AM lemma="vyšetřování_^(*3at)" src="auto">NNNP1-----A----</AM>
-<AM lemma="vyšetřování_^(*3at)" src="auto">NNNP2-----A----</AM>
+<AM lemma="vyšetřování_^(*3at)" src="auto" selected="1">NNNP2-----A----</AM>
 <AM lemma="vyšetřování_^(*3at)" src="auto">NNNP4-----A----</AM>
 <AM lemma="vyšetřování_^(*3at)" src="auto">NNNP5-----A----</AM>
 <AM lemma="vyšetřování_^(*3at)" src="auto">NNNS1-----A----</AM>
@@ -7580,7 +7594,10 @@
 <LM>w#w-wsj1189-001-p1s23W1</LM>
 </w.rf>
 <form>Fiechter</form>
-<tag lemma="Fiechter" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Fiechter" src="auto">X@-------------</AM>
+<AM lemma="Fiechter_;S" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj1189-001-p1s23W2-Ta">
 <src.rf>tagger-a</src.rf>
@@ -7668,6 +7685,7 @@
 <tag>
 <AM lemma="regulátor" src="auto" recommended="1">NNMP1-----A----</AM>
 <AM lemma="regulátor" src="auto">NNMP5-----A----</AM>
+<AM lemma="regulátor-2" src="manual" selected="1">NNMP1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1189-001-p1s23W10-Ta">

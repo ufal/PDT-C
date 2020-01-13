@@ -27,7 +27,10 @@
 <LM>w#w-wsj1648-001-p1s0W2</LM>
 </w.rf>
 <form>Lufthansa</form>
-<tag lemma="Lufthansa_;K" src="auto" recommended="1">NNFS1-----A----</tag>
+<tag>
+<AM lemma="Lufthansa_;K" src="auto" recommended="1">NNFS1-----A----</AM>
+<AM lemma="Lufthansa-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1648-001-p1s0W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -106,7 +109,7 @@
 <AM lemma="cestující_^(*5ovat)" src="auto">AGMP6-----A----</AM>
 <AM lemma="cestující_^(*5ovat)" src="auto">AGNP2-----A----</AM>
 <AM lemma="cestující_^(*5ovat)" src="auto">AGNP6-----A----</AM>
-<AM lemma="cestující-2" src="auto">NNMP2-----A----</AM>
+<AM lemma="cestující-2" src="auto" selected="1">NNMP2-----A----</AM>
 <AM lemma="cestující-2" src="auto">NNMP6-----A----</AM>
 <AM lemma="cestující-3" src="auto">NNFP2-----A----</AM>
 <AM lemma="cestující-3" src="auto">NNFP6-----A----</AM>
@@ -270,7 +273,7 @@
 <AM lemma="cestující_^(*5ovat)" src="auto">AGMP6-----A----</AM>
 <AM lemma="cestující_^(*5ovat)" src="auto">AGNP2-----A----</AM>
 <AM lemma="cestující_^(*5ovat)" src="auto">AGNP6-----A----</AM>
-<AM lemma="cestující-2" src="auto">NNMP2-----A----</AM>
+<AM lemma="cestující-2" src="auto" selected="1">NNMP2-----A----</AM>
 <AM lemma="cestující-2" src="auto">NNMP6-----A----</AM>
 <AM lemma="cestující-3" src="auto">NNFP2-----A----</AM>
 <AM lemma="cestující-3" src="auto">NNFP6-----A----</AM>
@@ -324,7 +327,7 @@
 <AM lemma="cestující_^(*5ovat)" src="auto">AGMP6-----A----</AM>
 <AM lemma="cestující_^(*5ovat)" src="auto">AGNP2-----A----</AM>
 <AM lemma="cestující_^(*5ovat)" src="auto">AGNP6-----A----</AM>
-<AM lemma="cestující-2" src="auto">NNMP2-----A----</AM>
+<AM lemma="cestující-2" src="auto" selected="1">NNMP2-----A----</AM>
 <AM lemma="cestující-2" src="auto">NNMP6-----A----</AM>
 <AM lemma="cestující-3" src="auto">NNFP2-----A----</AM>
 <AM lemma="cestující-3" src="auto">NNFP6-----A----</AM>

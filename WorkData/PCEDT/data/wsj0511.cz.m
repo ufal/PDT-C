@@ -277,7 +277,7 @@
 <form>analytiky</form>
 <tag>
 <AM lemma="analytik" src="auto">NNMP4-----A----</AM>
-<AM lemma="analytik" src="auto">NNMP7-----A----</AM>
+<AM lemma="analytik" src="auto" selected="1">NNMP7-----A----</AM>
 <AM lemma="analytika_^(věda)" src="auto">NNFP1-----A----</AM>
 <AM lemma="analytika_^(věda)" src="auto">NNFP4-----A----</AM>
 <AM lemma="analytika_^(věda)" src="auto">NNFP5-----A----</AM>
@@ -524,7 +524,7 @@
 <AM lemma="zahrnující_^(*5ovat)" src="auto">AGFS5-----A----</AM>
 <AM lemma="zahrnující_^(*5ovat)" src="auto">AGFS6-----A----</AM>
 <AM lemma="zahrnující_^(*5ovat)" src="auto">AGFS7-----A----</AM>
-<AM lemma="zahrnující_^(*5ovat)" src="auto">AGIP1-----A----</AM>
+<AM lemma="zahrnující_^(*5ovat)" src="auto" selected="1">AGIP1-----A----</AM>
 <AM lemma="zahrnující_^(*5ovat)" src="auto">AGIP4-----A----</AM>
 <AM lemma="zahrnující_^(*5ovat)" src="auto">AGIP5-----A----</AM>
 <AM lemma="zahrnující_^(*5ovat)" src="auto">AGIS1-----A----</AM>
@@ -551,7 +551,7 @@
 <form>ztráty</form>
 <tag>
 <AM lemma="ztráta" src="auto" recommended="1">NNFP1-----A----</AM>
-<AM lemma="ztráta" src="auto">NNFP4-----A----</AM>
+<AM lemma="ztráta" src="auto" selected="1">NNFP4-----A----</AM>
 <AM lemma="ztráta" src="auto">NNFP5-----A----</AM>
 <AM lemma="ztráta" src="auto">NNFS2-----A----</AM>
 </tag>
@@ -640,7 +640,7 @@
 <AM lemma="porovnání_^(*3at)" src="auto" recommended="1">NNNS1-----A----</AM>
 <AM lemma="porovnání_^(*3at)" src="auto">NNNS2-----A----</AM>
 <AM lemma="porovnání_^(*3at)" src="auto">NNNS3-----A----</AM>
-<AM lemma="porovnání_^(*3at)" src="auto">NNNS4-----A----</AM>
+<AM lemma="porovnání_^(*3at)" src="auto" selected="1">NNNS4-----A----</AM>
 <AM lemma="porovnání_^(*3at)" src="auto">NNNS5-----A----</AM>
 <AM lemma="porovnání_^(*3at)" src="auto">NNNS6-----A----</AM>
 </tag>

@@ -187,9 +187,10 @@
 <AM lemma="společnost_^(*3ý)" src="auto">NNFP4-----A----</AM>
 <AM lemma="společnost_^(*3ý)" src="auto">NNFP5-----A----</AM>
 <AM lemma="společnost_^(*3ý)" src="auto">NNFS2-----A----</AM>
-<AM lemma="společnost_^(*3ý)" src="auto" recommended="1">NNFS3-----A----</AM>
+<AM lemma="společnost_^(*3ý)" src="auto" recommended="1" selected="1">NNFS3-----A----</AM>
 <AM lemma="společnost_^(*3ý)" src="auto">NNFS5-----A----</AM>
 <AM lemma="společnost_^(*3ý)" src="auto">NNFS6-----A----</AM>
+<AM lemma="společnosti-77" src="manual">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj0947-001-p1s0W15-Ta">
@@ -203,6 +204,7 @@
 <AM lemma="General_;K_,t" src="auto">NNIS1-----A----</AM>
 <AM lemma="General_;K_,t" src="auto">NNIS4-----A----</AM>
 <AM lemma="General_;K_,t" src="auto" recommended="1">NNXXX-----A----</AM>
+<AM lemma="General-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj0947-001-p1s0W16-Ta">
@@ -211,7 +213,10 @@
 <LM>w#w-wsj0947-001-p1s0W16</LM>
 </w.rf>
 <form>Dynamics</form>
-<tag lemma="Dynamics" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Dynamics" src="auto">X@-------------</AM>
+<AM lemma="Dynamics-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0947-001-p1s0W17-Ta">
 <src.rf>tagger-a</src.rf>
@@ -219,7 +224,10 @@
 <LM>w#w-wsj0947-001-p1s0W17</LM>
 </w.rf>
 <form>Corp</form>
-<tag lemma="corp-77_:B" src="auto" recommended="1">F%-------------</tag>
+<tag>
+<AM lemma="corp-77_:B" src="auto" recommended="1">F%-------------</AM>
+<AM lemma="Corp-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0947-001-p1s0W18-Ta">
 <src.rf>tagger-a</src.rf>
@@ -473,7 +481,10 @@
 <LM>w#w-wsj0947-001-p1s0W40</LM>
 </w.rf>
 <form>CRRES</form>
-<tag lemma="CRRES" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="CRRES" src="auto">X@-------------</AM>
+<AM lemma="CRRES-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj0947-001-p1s0W41-Ta">
 <src.rf>tagger-a</src.rf>
@@ -514,7 +525,10 @@
 <LM>w#w-wsj0947-001-p1s1W2</LM>
 </w.rf>
 <form>CRRES</form>
-<tag lemma="CRRES" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="CRRES" src="auto">X@-------------</AM>
+<AM lemma="CRRES-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj0947-001-p1s1W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -825,6 +839,7 @@
 <AM lemma="General_;K_,t" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="General_;K_,t" src="auto">NNIS4-----A----</AM>
 <AM lemma="General_;K_,t" src="auto">NNXXX-----A----</AM>
+<AM lemma="General-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj0947-001-p1s2W7-Ta">
@@ -833,7 +848,10 @@
 <LM>w#w-wsj0947-001-p1s2W7</LM>
 </w.rf>
 <form>Dynamics</form>
-<tag lemma="Dynamics" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Dynamics" src="auto">X@-------------</AM>
+<AM lemma="Dynamics-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0947-001-p1s2W8-Ta">
 <src.rf>tagger-a</src.rf>
@@ -864,7 +882,10 @@
 <LM>w#w-wsj0947-001-p1s2W10</LM>
 </w.rf>
 <form>CRRES</form>
-<tag lemma="CRRES" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="CRRES" src="auto">X@-------------</AM>
+<AM lemma="CRRES-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj0947-001-p1s2W11-Ta">
 <src.rf>tagger-a</src.rf>
@@ -873,7 +894,7 @@
 </w.rf>
 <form>za</form>
 <tag>
-<AM lemma="za" src="auto">RR--2----------</AM>
+<AM lemma="za" src="auto" selected="1">RR--2----------</AM>
 <AM lemma="za" src="auto" recommended="1">RR--4----------</AM>
 <AM lemma="za" src="auto">RR--7----------</AM>
 </tag>
@@ -892,7 +913,7 @@
 <AM lemma="použití_^(*3ít)" src="auto">NNNP4-----A----</AM>
 <AM lemma="použití_^(*3ít)" src="auto">NNNP5-----A----</AM>
 <AM lemma="použití_^(*3ít)" src="auto">NNNS1-----A----</AM>
-<AM lemma="použití_^(*3ít)" src="auto">NNNS2-----A----</AM>
+<AM lemma="použití_^(*3ít)" src="auto" selected="1">NNNS2-----A----</AM>
 <AM lemma="použití_^(*3ít)" src="auto">NNNS3-----A----</AM>
 <AM lemma="použití_^(*3ít)" src="auto" recommended="1">NNNS4-----A----</AM>
 <AM lemma="použití_^(*3ít)" src="auto">NNNS5-----A----</AM>
@@ -922,6 +943,7 @@
 <AM lemma="Atlas_;S" src="auto">NNMS1-----A----</AM>
 <AM lemma="atlas" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="atlas" src="auto">NNIS4-----A----</AM>
+<AM lemma="Atlas-2_;R" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0947-001-p1s2W15-Ta">

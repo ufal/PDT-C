@@ -194,7 +194,7 @@
 </w.rf>
 <form>prezidenta</form>
 <tag>
-<AM lemma="prezident" src="auto">NNMS2-----A----</AM>
+<AM lemma="prezident" src="auto" selected="1">NNMS2-----A----</AM>
 <AM lemma="prezident" src="auto" recommended="1">NNMS4-----A----</AM>
 </tag>
 </m>
@@ -220,7 +220,7 @@
 <form>výkonného</form>
 <tag>
 <AM lemma="výkonný" src="auto">AAIS2----1A----</AM>
-<AM lemma="výkonný" src="auto">AAMS2----1A----</AM>
+<AM lemma="výkonný" src="auto" selected="1">AAMS2----1A----</AM>
 <AM lemma="výkonný" src="auto" recommended="1">AAMS4----1A----</AM>
 <AM lemma="výkonný" src="auto">AANS2----1A----</AM>
 </tag>
@@ -233,7 +233,7 @@
 <form>ředitele</form>
 <tag>
 <AM lemma="ředitel" src="auto">NNMP4-----A----</AM>
-<AM lemma="ředitel" src="auto">NNMS2-----A----</AM>
+<AM lemma="ředitel" src="auto" selected="1">NNMS2-----A----</AM>
 <AM lemma="ředitel" src="auto" recommended="1">NNMS4-----A----</AM>
 </tag>
 </m>
@@ -259,7 +259,10 @@
 <LM>w#w-wsj0979-001-p1s0W20</LM>
 </w.rf>
 <form>Qintex</form>
-<tag lemma="Qintex" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Qintex" src="auto">X@-------------</AM>
+<AM lemma="Qintex-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0979-001-p1s0W21-Ta">
 <src.rf>tagger-a</src.rf>
@@ -267,7 +270,10 @@
 <LM>w#w-wsj0979-001-p1s0W21</LM>
 </w.rf>
 <form>Entertainment</form>
-<tag lemma="Entertainment" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Entertainment" src="auto">X@-------------</AM>
+<AM lemma="Entertainment-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0979-001-p1s0W22-Ta">
 <src.rf>tagger-a</src.rf>
@@ -278,6 +284,7 @@
 <tag>
 <AM lemma="Inc-77_:B" src="auto" recommended="1">F%-------------</AM>
 <AM lemma="inc-77_:B" src="auto">F%-------------</AM>
+<AM lemma="Inc-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj0979-001-p1s0W23-Ta">
@@ -320,7 +327,7 @@
 <AM lemma="ten" src="auto">PDNS1----------</AM>
 <AM lemma="ten" src="auto" recommended="1">PDNS4----------</AM>
 <AM lemma="to-1_^(tehdy;to_jsem_byla_ještě_malá)" src="auto">PDXXX----------</AM>
-<AM lemma="to-9_^(být_s_to)" src="auto">TT-------------</AM>
+<AM lemma="to-9_^(být_s_to)" src="auto" selected="1">TT-------------</AM>
 <AM lemma="to-77" src="auto">F%-------------</AM>
 </tag>
 </m>
@@ -462,6 +469,7 @@
 <AM lemma="konkursní_^(týkající_se_úpadku,_soutěže)" src="auto">AAMS2----1A----</AM>
 <AM lemma="konkursní_^(týkající_se_úpadku,_soutěže)" src="auto">AAMS4----1A----</AM>
 <AM lemma="konkursní_^(týkající_se_úpadku,_soutěže)" src="auto">AANS2----1A----</AM>
+<AM lemma="konkurzní_^(týkající_se_úpadku,_soutěže)" src="manual" selected="1">AAIS2----1A----</AM>
 </tag>
 </m>
 <m id="m-wsj0979-001-p1s0W40-Ta">
@@ -601,7 +609,10 @@
 <LM>w#w-wsj0979-001-p1s1W2</LM>
 </w.rf>
 <form>Qintex</form>
-<tag lemma="Qintex" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Qintex" src="auto">X@-------------</AM>
+<AM lemma="Qintex-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0979-001-p1s1W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -609,7 +620,10 @@
 <LM>w#w-wsj0979-001-p1s1W3</LM>
 </w.rf>
 <form>Entertainment</form>
-<tag lemma="Entertainment" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Entertainment" src="auto">X@-------------</AM>
+<AM lemma="Entertainment-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0979-001-p1s1W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -888,7 +902,11 @@
 <LM>w#w-wsj0979-001-p1s1W20</LM>
 </w.rf>
 <form>Lloyd</form>
-<tag lemma="Lloyd_;Y" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Lloyd_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Lloyd_;Y_;S" src="manual">NNMS1-----A----</AM>
+<AM lemma="Lloyd_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj0979-001-p1s1W21-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1092,7 +1110,7 @@
 <form>na</form>
 <tag>
 <AM lemma="na-1" src="auto" recommended="1">RR--4----------</AM>
-<AM lemma="na-1" src="auto">RR--6----------</AM>
+<AM lemma="na-1" src="auto" selected="1">RR--6----------</AM>
 <AM lemma="na-2" src="auto">II-------------</AM>
 </tag>
 </m>
@@ -1114,7 +1132,7 @@
 <AM lemma="hodnocení_^(*4tit)" src="auto">NNNS3-----A----</AM>
 <AM lemma="hodnocení_^(*4tit)" src="auto" recommended="1">NNNS4-----A----</AM>
 <AM lemma="hodnocení_^(*4tit)" src="auto">NNNS5-----A----</AM>
-<AM lemma="hodnocení_^(*4tit)" src="auto">NNNS6-----A----</AM>
+<AM lemma="hodnocení_^(*4tit)" src="auto" selected="1">NNNS6-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0979-001-p1s2W18-Ta">
@@ -1221,7 +1239,10 @@
 <LM>w#w-wsj0979-001-p1s2W26</LM>
 </w.rf>
 <form>Communications</form>
-<tag lemma="Communications" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Communications" src="auto">X@-------------</AM>
+<AM lemma="Communications-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0979-001-p1s2W27-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1237,6 +1258,7 @@
 <AM lemma="co-4_^(který:_př.:_o_těch,_co_odešli/co_je_znal)" src="auto">P4XXX----------</AM>
 <AM lemma="co-5_^(př._co_nejméně,_co_nevidět,_co_chvíli,_co_do_počtu,_atd.)" src="auto">Db-------------</AM>
 <AM lemma="co-77_:B" src="auto">F%-------------</AM>
+<AM lemma="Co-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj0979-001-p1s2W28-Ta">
@@ -1761,7 +1783,10 @@
 <LM>w#w-wsj0979-001-p1s4W23</LM>
 </w.rf>
 <form>Qintex</form>
-<tag lemma="Qintex" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Qintex" src="auto">X@-------------</AM>
+<AM lemma="Qintex-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0979-001-p1s4W24-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1769,7 +1794,10 @@
 <LM>w#w-wsj0979-001-p1s4W24</LM>
 </w.rf>
 <form>Australia</form>
-<tag lemma="Austrálie_;G_,t_,x" src="auto" recommended="1">NNFXX-----A----</tag>
+<tag>
+<AM lemma="Austrálie_;G_,t_,x" src="auto" recommended="1">NNFXX-----A----</AM>
+<AM lemma="Australia-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0979-001-p1s4W25-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1777,7 +1805,10 @@
 <LM>w#w-wsj0979-001-p1s4W25</LM>
 </w.rf>
 <form>Ltd</form>
-<tag lemma="Ltd-77_:B" src="auto" recommended="1">F%-------------</tag>
+<tag>
+<AM lemma="Ltd-77_:B" src="auto" recommended="1">F%-------------</AM>
+<AM lemma="Ltd-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0979-001-p1s4W26-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2068,7 +2099,15 @@
 <LM>w#w-wsj0979-001-p1s5W20</LM>
 </w.rf>
 <form>5miliardovou</form>
-<tag lemma="5miliardovou" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="5miliardovou" src="auto">X@-------------</AM>
+<AM lemma="5miliardový" src="manual" selected="1">AAFS4----1A----</AM>
+</tag>
+<comment>
+<LM type="Other">
+<text>chybná tokenizace</text>
+</LM>
+</comment>
 </m>
 <m id="m-wsj0979-001-p1s5W21-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2107,7 +2146,10 @@
 <LM>w#w-wsj0979-001-p1s5W24</LM>
 </w.rf>
 <form>Qintex</form>
-<tag lemma="Qintex" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Qintex" src="auto">X@-------------</AM>
+<AM lemma="Qintex-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0979-001-p1s5W25-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2115,7 +2157,10 @@
 <LM>w#w-wsj0979-001-p1s5W25</LM>
 </w.rf>
 <form>Entertainment</form>
-<tag lemma="Entertainment" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Entertainment" src="auto">X@-------------</AM>
+<AM lemma="Entertainment-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0979-001-p1s5W26-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2168,7 +2213,7 @@
 <form>vlastní</form>
 <tag>
 <AM lemma="vlastnit_^(někdo_má_něco_ve_vlastnictví)" src="auto">VB-P---3P-AAI--</AM>
-<AM lemma="vlastnit_^(někdo_má_něco_ve_vlastnictví)" src="auto">VB-S---3P-AAI--</AM>
+<AM lemma="vlastnit_^(někdo_má_něco_ve_vlastnictví)" src="auto" selected="1">VB-S---3P-AAI--</AM>
 <AM lemma="vlastní_^(příslušný_k_něčemu)" src="auto">AAFP1----1A----</AM>
 <AM lemma="vlastní_^(příslušný_k_něčemu)" src="auto">AAFP4----1A----</AM>
 <AM lemma="vlastní_^(příslušný_k_něčemu)" src="auto">AAFP5----1A----</AM>
@@ -2215,7 +2260,10 @@
 <LM>w#w-wsj0979-001-p1s5W33</LM>
 </w.rf>
 <form>Qintex</form>
-<tag lemma="Qintex" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Qintex" src="auto">X@-------------</AM>
+<AM lemma="Qintex-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0979-001-p1s5W34-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2223,7 +2271,10 @@
 <LM>w#w-wsj0979-001-p1s5W34</LM>
 </w.rf>
 <form>Australia</form>
-<tag lemma="Austrálie_;G_,t_,x" src="auto" recommended="1">NNFXX-----A----</tag>
+<tag>
+<AM lemma="Austrálie_;G_,t_,x" src="auto" recommended="1">NNFXX-----A----</AM>
+<AM lemma="Australia-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0979-001-p1s5W35-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2404,7 +2455,10 @@
 <LM>w#w-wsj0979-001-p1s6W9</LM>
 </w.rf>
 <form>Qintex</form>
-<tag lemma="Qintex" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Qintex" src="auto">X@-------------</AM>
+<AM lemma="Qintex-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0979-001-p1s6W10-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2412,7 +2466,10 @@
 <LM>w#w-wsj0979-001-p1s6W10</LM>
 </w.rf>
 <form>Entertainment</form>
-<tag lemma="Entertainment" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Entertainment" src="auto">X@-------------</AM>
+<AM lemma="Entertainment-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0979-001-p1s6W11-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2544,7 +2601,10 @@
 <LM>w#w-wsj0979-001-p1s7W6</LM>
 </w.rf>
 <form>Qintex</form>
-<tag lemma="Qintex" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Qintex" src="auto">X@-------------</AM>
+<AM lemma="Qintex-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0979-001-p1s7W7-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2552,7 +2612,10 @@
 <LM>w#w-wsj0979-001-p1s7W7</LM>
 </w.rf>
 <form>Entertainment</form>
-<tag lemma="Entertainment" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Entertainment" src="auto">X@-------------</AM>
+<AM lemma="Entertainment-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0979-001-p1s7W8-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2690,6 +2753,7 @@
 <tag>
 <AM lemma="Inc-77_:B" src="auto" recommended="1">F%-------------</AM>
 <AM lemma="inc-77_:B" src="auto">F%-------------</AM>
+<AM lemma="Inc-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj0979-001-p1s7W22-Ta">
@@ -2822,7 +2886,10 @@
 <LM>w#w-wsj0979-001-p1s8W2</LM>
 </w.rf>
 <form>Qintex</form>
-<tag lemma="Qintex" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Qintex" src="auto">X@-------------</AM>
+<AM lemma="Qintex-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0979-001-p1s8W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2830,7 +2897,10 @@
 <LM>w#w-wsj0979-001-p1s8W3</LM>
 </w.rf>
 <form>Entertainment</form>
-<tag lemma="Entertainment" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Entertainment" src="auto">X@-------------</AM>
+<AM lemma="Entertainment-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0979-001-p1s8W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2881,7 +2951,10 @@
 <LM>w#w-wsj0979-001-p1s8W8</LM>
 </w.rf>
 <form>Qintex</form>
-<tag lemma="Qintex" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Qintex" src="auto">X@-------------</AM>
+<AM lemma="Qintex-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0979-001-p1s8W9-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2889,7 +2962,10 @@
 <LM>w#w-wsj0979-001-p1s8W9</LM>
 </w.rf>
 <form>Australia</form>
-<tag lemma="Austrálie_;G_,t_,x" src="auto" recommended="1">NNFXX-----A----</tag>
+<tag>
+<AM lemma="Austrálie_;G_,t_,x" src="auto" recommended="1">NNFXX-----A----</AM>
+<AM lemma="Australia-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0979-001-p1s8W10-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3254,7 +3330,10 @@
 <LM>w#w-wsj0979-001-p1s9W29</LM>
 </w.rf>
 <form>Qintex</form>
-<tag lemma="Qintex" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Qintex" src="auto">X@-------------</AM>
+<AM lemma="Qintex-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0979-001-p1s9W30-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3262,7 +3341,10 @@
 <LM>w#w-wsj0979-001-p1s9W30</LM>
 </w.rf>
 <form>Australia</form>
-<tag lemma="Austrálie_;G_,t_,x" src="auto" recommended="1">NNFXX-----A----</tag>
+<tag>
+<AM lemma="Austrálie_;G_,t_,x" src="auto" recommended="1">NNFXX-----A----</AM>
+<AM lemma="Australia-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0979-001-p1s9W31-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3468,6 +3550,7 @@
 <AM lemma="konkursní_^(týkající_se_úpadku,_soutěže)" src="auto">AAMS2----1A----</AM>
 <AM lemma="konkursní_^(týkající_se_úpadku,_soutěže)" src="auto">AAMS4----1A----</AM>
 <AM lemma="konkursní_^(týkající_se_úpadku,_soutěže)" src="auto">AANS2----1A----</AM>
+<AM lemma="konkurzní_^(týkající_se_úpadku,_soutěže)" src="manual" selected="1">AAIS2----1A----</AM>
 </tag>
 </m>
 <m id="m-wsj0979-001-p1s10W18-Ta">
@@ -4146,7 +4229,7 @@
 <tag>
 <AM lemma="Evans_;S" src="auto">NNMP4-----A----</AM>
 <AM lemma="Evans_;S" src="auto" recommended="1">NNMS2-----A----</AM>
-<AM lemma="Evans_;S" src="auto">NNMS4-----A----</AM>
+<AM lemma="Evans_;S" src="auto" selected="1">NNMS4-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0979-001-p1s15W2-Ta">
@@ -4285,7 +4368,10 @@
 <LM>w#w-wsj0979-001-p1s16W2</LM>
 </w.rf>
 <form>Qintex</form>
-<tag lemma="Qintex" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Qintex" src="auto">X@-------------</AM>
+<AM lemma="Qintex-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0979-001-p1s16W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -4293,7 +4379,10 @@
 <LM>w#w-wsj0979-001-p1s16W3</LM>
 </w.rf>
 <form>Australia</form>
-<tag lemma="Austrálie_;G_,t_,x" src="auto" recommended="1">NNFXX-----A----</tag>
+<tag>
+<AM lemma="Austrálie_;G_,t_,x" src="auto" recommended="1">NNFXX-----A----</AM>
+<AM lemma="Australia-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0979-001-p1s16W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -4635,7 +4724,7 @@
 <AM lemma="který" src="auto">P4FS2---------6</AM>
 <AM lemma="který" src="auto">P4FS3---------6</AM>
 <AM lemma="který" src="auto">P4FS6---------6</AM>
-<AM lemma="který" src="auto">P4IS4----------</AM>
+<AM lemma="který" src="auto" selected="1">P4IS4----------</AM>
 <AM lemma="který" src="auto">P4NS1---------6</AM>
 <AM lemma="který" src="auto">P4NS4---------6</AM>
 <AM lemma="který" src="auto">P4XP1---------6</AM>
@@ -4673,7 +4762,10 @@
 <LM>w#w-wsj0979-001-p1s17W14</LM>
 </w.rf>
 <form>Qintex</form>
-<tag lemma="Qintex" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Qintex" src="auto">X@-------------</AM>
+<AM lemma="Qintex-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0979-001-p1s17W15-Ta">
 <src.rf>tagger-a</src.rf>
@@ -4681,7 +4773,10 @@
 <LM>w#w-wsj0979-001-p1s17W15</LM>
 </w.rf>
 <form>Entertainment</form>
-<tag lemma="Entertainment" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Entertainment" src="auto">X@-------------</AM>
+<AM lemma="Entertainment-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0979-001-p1s17W16-Ta">
 <src.rf>tagger-a</src.rf>
@@ -4772,7 +4867,10 @@
 <LM>w#w-wsj0979-001-p1s18W8</LM>
 </w.rf>
 <form>Qintex</form>
-<tag lemma="Qintex" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Qintex" src="auto">X@-------------</AM>
+<AM lemma="Qintex-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0979-001-p1s18W9-Ta">
 <src.rf>tagger-a</src.rf>
@@ -4780,7 +4878,10 @@
 <LM>w#w-wsj0979-001-p1s18W9</LM>
 </w.rf>
 <form>Entertainment</form>
-<tag lemma="Entertainment" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Entertainment" src="auto">X@-------------</AM>
+<AM lemma="Entertainment-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0979-001-p1s18W10-Ta">
 <src.rf>tagger-a</src.rf>
@@ -4925,7 +5026,7 @@
 <form>společnost</form>
 <tag>
 <AM lemma="společnost_^(*3ý)" src="auto" recommended="1">NNFS1-----A----</AM>
-<AM lemma="společnost_^(*3ý)" src="auto">NNFS4-----A----</AM>
+<AM lemma="společnost_^(*3ý)" src="auto" selected="1">NNFS4-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0979-001-p1s18W22-Ta">
@@ -4934,7 +5035,10 @@
 <LM>w#w-wsj0979-001-p1s18W22</LM>
 </w.rf>
 <form>Qintex</form>
-<tag lemma="Qintex" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Qintex" src="auto">X@-------------</AM>
+<AM lemma="Qintex-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0979-001-p1s18W23-Ta">
 <src.rf>tagger-a</src.rf>
@@ -4942,7 +5046,10 @@
 <LM>w#w-wsj0979-001-p1s18W23</LM>
 </w.rf>
 <form>Australia</form>
-<tag lemma="Austrálie_;G_,t_,x" src="auto" recommended="1">NNFXX-----A----</tag>
+<tag>
+<AM lemma="Austrálie_;G_,t_,x" src="auto" recommended="1">NNFXX-----A----</AM>
+<AM lemma="Australia-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0979-001-p1s18W24-Ta">
 <src.rf>tagger-a</src.rf>
@@ -5123,7 +5230,10 @@
 <LM>w#w-wsj0979-001-p1s18W36</LM>
 </w.rf>
 <form>Qintex</form>
-<tag lemma="Qintex" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Qintex" src="auto">X@-------------</AM>
+<AM lemma="Qintex-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0979-001-p1s18W37-Ta">
 <src.rf>tagger-a</src.rf>
@@ -5131,7 +5241,10 @@
 <LM>w#w-wsj0979-001-p1s18W37</LM>
 </w.rf>
 <form>Entertainment</form>
-<tag lemma="Entertainment" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Entertainment" src="auto">X@-------------</AM>
+<AM lemma="Entertainment-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0979-001-p1s18W38-Ta">
 <src.rf>tagger-a</src.rf>
@@ -5160,7 +5273,10 @@
 <LM>w#w-wsj0979-001-p1s19W2</LM>
 </w.rf>
 <form>Qintex</form>
-<tag lemma="Qintex" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Qintex" src="auto">X@-------------</AM>
+<AM lemma="Qintex-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0979-001-p1s19W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -5168,7 +5284,10 @@
 <LM>w#w-wsj0979-001-p1s19W3</LM>
 </w.rf>
 <form>Australia</form>
-<tag lemma="Austrálie_;G_,t_,x" src="auto" recommended="1">NNFXX-----A----</tag>
+<tag>
+<AM lemma="Austrálie_;G_,t_,x" src="auto" recommended="1">NNFXX-----A----</AM>
+<AM lemma="Australia-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0979-001-p1s19W4-Ta">
 <src.rf>tagger-a</src.rf>

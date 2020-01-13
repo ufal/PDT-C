@@ -37,7 +37,10 @@
 <LM>w#w-wsj0156-001-p1s0W3</LM>
 </w.rf>
 <form>Younkers</form>
-<tag lemma="Younkers" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Younkers" src="auto">X@-------------</AM>
+<AM lemma="Younkers_;K" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj0156-001-p1s0W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -477,7 +480,10 @@
 <LM>w#w-wsj0156-001-p1s1W2</LM>
 </w.rf>
 <form>Equitable</form>
-<tag lemma="Equitable" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Equitable" src="auto">X@-------------</AM>
+<AM lemma="Equitable-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0156-001-p1s1W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -493,7 +499,10 @@
 <LM>w#w-wsj0156-001-p1s1W4</LM>
 </w.rf>
 <form>Iowa</form>
-<tag lemma="Iowa_;G" src="auto" recommended="1">NNFS1-----A----</tag>
+<tag>
+<AM lemma="Iowa_;G" src="auto" recommended="1">NNFS1-----A----</AM>
+<AM lemma="Iowa-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0156-001-p1s1W5-Ta">
 <src.rf>tagger-a</src.rf>
@@ -504,6 +513,7 @@
 <tag>
 <AM lemma="co-1" src="auto">PQ--4--2-------</AM>
 <AM lemma="cosinus_:B" src="auto" recommended="1">NNIXX-----A---8</AM>
+<AM lemma="Cos-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj0156-001-p1s1W6-Ta">
@@ -529,7 +539,7 @@
 </w.rf>
 <form>Des</form>
 <tag>
-<AM lemma="Des-77" src="auto" recommended="1">F%-------------</AM>
+<AM lemma="Des-77" src="auto" recommended="1" selected="1">F%-------------</AM>
 <AM lemma="des-77_,t" src="auto">F%-------------</AM>
 <AM lemma="desátník_:B" src="auto">NNMXX-----A---8</AM>
 </tag>
@@ -540,7 +550,10 @@
 <LM>w#w-wsj0156-001-p1s1W9</LM>
 </w.rf>
 <form>Moines</form>
-<tag lemma="Moines-77_,t" src="auto" recommended="1">F%-------------</tag>
+<tag>
+<AM lemma="Moines-77_,t" src="auto" recommended="1">F%-------------</AM>
+<AM lemma="Moines-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0156-001-p1s1W10-Ta">
 <src.rf>tagger-a</src.rf>
@@ -629,7 +642,10 @@
 <LM>w#w-wsj0156-001-p1s1W18</LM>
 </w.rf>
 <form>Younkers</form>
-<tag lemma="Younkers" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Younkers" src="auto">X@-------------</AM>
+<AM lemma="Younkers_;K" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj0156-001-p1s1W19-Ta">
 <src.rf>tagger-a</src.rf>
@@ -847,7 +863,10 @@
 <LM>w#w-wsj0156-001-p1s2W3</LM>
 </w.rf>
 <form>Equitable</form>
-<tag lemma="Equitable" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Equitable" src="auto">X@-------------</AM>
+<AM lemma="Equitable_;K" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj0156-001-p1s2W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1050,7 +1069,10 @@
 <LM>w#w-wsj0156-001-p1s2W23</LM>
 </w.rf>
 <form>Younkers</form>
-<tag lemma="Younkers" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Younkers" src="auto">X@-------------</AM>
+<AM lemma="Younkers_;K" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj0156-001-p1s2W24-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1247,7 +1269,10 @@
 <LM>w#w-wsj0156-001-p1s3W2</LM>
 </w.rf>
 <form>Younkers</form>
-<tag lemma="Younkers" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Younkers" src="auto">X@-------------</AM>
+<AM lemma="Younkers_;K" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj0156-001-p1s3W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1471,7 +1496,10 @@
 <LM>w#w-wsj0156-001-p1s5W3</LM>
 </w.rf>
 <form>Younkers</form>
-<tag lemma="Younkers" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Younkers" src="auto">X@-------------</AM>
+<AM lemma="Younkers_;K" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj0156-001-p1s5W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1646,7 +1674,7 @@
 <tag>
 <AM lemma="S-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
 <AM lemma="S-77" src="auto">F%-------------</AM>
-<AM lemma="S-88_:B" src="auto" recommended="1">NNXXX-----A----</AM>
+<AM lemma="S-88_:B" src="auto" recommended="1" selected="1">NNXXX-----A----</AM>
 <AM lemma="s-1" src="auto">RR--2----------</AM>
 <AM lemma="s-1" src="auto">RR--4----------</AM>
 <AM lemma="s-1" src="auto">RR--7----------</AM>
@@ -1766,7 +1794,10 @@
 <LM>w#w-wsj0156-001-p1s5W29</LM>
 </w.rf>
 <form>Equitable</form>
-<tag lemma="Equitable" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Equitable" src="auto">X@-------------</AM>
+<AM lemma="Equitable_;K" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj0156-001-p1s5W30-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1819,7 +1850,10 @@
 <LM>w#w-wsj0156-001-p1s6W5</LM>
 </w.rf>
 <form>Equitable</form>
-<tag lemma="Equitable" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Equitable" src="auto">X@-------------</AM>
+<AM lemma="Equitable_;K" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj0156-001-p1s6W6-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1925,7 +1959,10 @@
 <LM>w#w-wsj0156-001-p1s6W15</LM>
 </w.rf>
 <form>Younkers</form>
-<tag lemma="Younkers" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Younkers" src="auto">X@-------------</AM>
+<AM lemma="Younkers_;K" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj0156-001-p1s6W16-Ta">
 <src.rf>tagger-a</src.rf>

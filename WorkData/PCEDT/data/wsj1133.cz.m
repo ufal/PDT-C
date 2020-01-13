@@ -356,7 +356,7 @@
 <AM lemma="jenž_^(kterou_[ve_vedl.větě])" src="auto">PJFS4----------</AM>
 <AM lemma="jenž_^(kteří_[ve_vedl.větě])" src="auto">PJMP1----------</AM>
 <AM lemma="již-1" src="auto" recommended="1">Db-------------</AM>
-<AM lemma="již-2" src="auto">TT-------------</AM>
+<AM lemma="již-2" src="auto" selected="1">TT-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1133-001-p1s1W3-Ta">
@@ -1130,7 +1130,7 @@
 <form>především</form>
 <tag>
 <AM lemma="především-1" src="auto" recommended="1">Db-------------</AM>
-<AM lemma="především-2" src="auto">TT-------------</AM>
+<AM lemma="především-2" src="auto" selected="1">TT-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1133-001-p1s3W6-Ta">
@@ -1727,7 +1727,7 @@
 <AM lemma="vznesení_^(*5ést)" src="auto">NNNS1-----A----</AM>
 <AM lemma="vznesení_^(*5ést)" src="auto" recommended="1">NNNS2-----A----</AM>
 <AM lemma="vznesení_^(*5ést)" src="auto">NNNS3-----A----</AM>
-<AM lemma="vznesení_^(*5ést)" src="auto">NNNS4-----A----</AM>
+<AM lemma="vznesení_^(*5ést)" src="auto" selected="1">NNNS4-----A----</AM>
 <AM lemma="vznesení_^(*5ést)" src="auto">NNNS5-----A----</AM>
 <AM lemma="vznesení_^(*5ést)" src="auto">NNNS6-----A----</AM>
 </tag>
@@ -1996,7 +1996,10 @@
 <LM>w#w-wsj1133-001-p1s5W4</LM>
 </w.rf>
 <form>Marlin</form>
-<tag lemma="Marlin_;S" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Marlin_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Marlin_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj1133-001-p1s5W5-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2078,6 +2081,7 @@
 <AM lemma="Dano_;S" src="auto">NNMS4-----A----</AM>
 <AM lemma="dan-1_^(mistr_a_učitel_japon._sportů)" src="auto">NNMS2-----A----</AM>
 <AM lemma="dan-1_^(mistr_a_učitel_japon._sportů)" src="auto">NNMS4-----A----</AM>
+<AM lemma="Dan_;Y" src="manual" selected="1">NNMS2-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1133-001-p1s5W12-Ta">
@@ -2086,7 +2090,10 @@
 <LM>w#w-wsj1133-001-p1s5W12</LM>
 </w.rf>
 <form>Quayleho</form>
-<tag lemma="Quayleho" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Quayleho" src="auto">X@-------------</AM>
+<AM lemma="Quayle_;S" src="manual" selected="1">NNMS2-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj1133-001-p1s5W13-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2488,6 +2495,7 @@
 <AM lemma="program-1" src="auto" recommended="1">NNIS2-----A----</AM>
 <AM lemma="program-1" src="auto">NNIS3-----A----</AM>
 <AM lemma="program-1" src="auto">NNIS6-----A----</AM>
+<AM lemma="program" src="manual" selected="1">NNIS2-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1133-001-p1s6W19-Ta">
@@ -2583,7 +2591,7 @@
 </w.rf>
 <form>naléhavějším</form>
 <tag>
-<AM lemma="naléhavý" src="auto">AAFP3----2A----</AM>
+<AM lemma="naléhavý" src="auto" selected="1">AAFP3----2A----</AM>
 <AM lemma="naléhavý" src="auto">AAIP3----2A----</AM>
 <AM lemma="naléhavý" src="auto">AAIS6----2A----</AM>
 <AM lemma="naléhavý" src="auto">AAIS7----2A----</AM>

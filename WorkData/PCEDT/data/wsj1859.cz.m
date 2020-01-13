@@ -27,7 +27,10 @@
 <LM>w#w-wsj1859-001-p1s0W2</LM>
 </w.rf>
 <form>Hunter</form>
-<tag lemma="Hunter_;G" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Hunter_;G" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Hunter-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1859-001-p1s0W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -35,7 +38,10 @@
 <LM>w#w-wsj1859-001-p1s0W3</LM>
 </w.rf>
 <form>Environmental</form>
-<tag lemma="Environmental" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Environmental" src="auto">X@-------------</AM>
+<AM lemma="Environmental-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1859-001-p1s0W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -43,7 +49,10 @@
 <LM>w#w-wsj1859-001-p1s0W4</LM>
 </w.rf>
 <form>Services</form>
-<tag lemma="Services" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Services" src="auto">X@-------------</AM>
+<AM lemma="Services-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1859-001-p1s0W5-Ta">
 <src.rf>tagger-a</src.rf>
@@ -54,6 +63,7 @@
 <tag>
 <AM lemma="Inc-77_:B" src="auto" recommended="1">F%-------------</AM>
 <AM lemma="inc-77_:B" src="auto">F%-------------</AM>
+<AM lemma="Inc-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1859-001-p1s0W6-Ta">
@@ -675,7 +685,10 @@
 <LM>w#w-wsj1859-001-p1s3W2</LM>
 </w.rf>
 <form>Hunter</form>
-<tag lemma="Hunter_;G" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Hunter_;G" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Hunter_;K" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj1859-001-p1s3W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -995,7 +1008,7 @@
 <AM lemma="společnost_^(*3ý)" src="auto" recommended="1">NNFS2-----A----</AM>
 <AM lemma="společnost_^(*3ý)" src="auto">NNFS3-----A----</AM>
 <AM lemma="společnost_^(*3ý)" src="auto">NNFS5-----A----</AM>
-<AM lemma="společnost_^(*3ý)" src="auto">NNFS6-----A----</AM>
+<AM lemma="společnost_^(*3ý)" src="auto" selected="1">NNFS6-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1859-001-p1s3W27-Ta">
@@ -1152,7 +1165,10 @@
 <LM>w#w-wsj1859-001-p1s4W2</LM>
 </w.rf>
 <form>Hunter</form>
-<tag lemma="Hunter_;G" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Hunter_;G" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Hunter_;K" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj1859-001-p1s4W3-Ta">
 <src.rf>tagger-a</src.rf>

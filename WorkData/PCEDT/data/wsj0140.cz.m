@@ -108,7 +108,10 @@
 <LM>w#w-wsj0140-001-p1s0W7</LM>
 </w.rf>
 <form>Diceon</form>
-<tag lemma="Diceon" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Diceon" src="auto">X@-------------</AM>
+<AM lemma="Diceon-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0140-001-p1s0W8-Ta">
 <src.rf>tagger-a</src.rf>
@@ -116,7 +119,10 @@
 <LM>w#w-wsj0140-001-p1s0W8</LM>
 </w.rf>
 <form>Electronics</form>
-<tag lemma="Electronics" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Electronics" src="auto">X@-------------</AM>
+<AM lemma="Electronics-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0140-001-p1s0W9-Ta">
 <src.rf>tagger-a</src.rf>
@@ -127,6 +133,7 @@
 <tag>
 <AM lemma="Inc-77_:B" src="auto" recommended="1">F%-------------</AM>
 <AM lemma="inc-77_:B" src="auto">F%-------------</AM>
+<AM lemma="Inc-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj0140-001-p1s0W10-Ta">
@@ -315,7 +322,10 @@
 <LM>w#w-wsj0140-001-p1s0W24</LM>
 </w.rf>
 <form>Chatsworthu</form>
-<tag lemma="Chatsworthu" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Chatsworthu" src="auto">X@-------------</AM>
+<AM lemma="Chatsworth_;G" src="manual" selected="1">NNIS6-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj0140-001-p1s0W25-Ta">
 <src.rf>tagger-a</src.rf>
@@ -447,7 +457,7 @@
 </w.rf>
 <form>Angeles</form>
 <tag>
-<AM lemma="Angeles-77" src="auto" recommended="1">F%-------------</AM>
+<AM lemma="Angeles-77" src="auto" recommended="1" selected="1">F%-------------</AM>
 <AM lemma="angeles-77_,t" src="auto">F%-------------</AM>
 </tag>
 </m>
@@ -805,6 +815,7 @@
 <AM lemma="Irvine-1_;Y" src="auto">NNMS5-----A----</AM>
 <AM lemma="Irvine-1_;Y" src="auto">NNMXX-----A----</AM>
 <AM lemma="Irvine-2_;G" src="auto">NNNSX-----A----</AM>
+<AM lemma="Irvine-2_;G_;K" src="manual" selected="1">NNNSX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0140-001-p1s1W35-Ta">
@@ -1260,7 +1271,7 @@
 </w.rf>
 <form>obžalovaní</form>
 <tag>
-<AM lemma="obžalovaný-2_^(osoba)" src="auto">NNMP1-----A----</AM>
+<AM lemma="obžalovaný-2_^(osoba)" src="auto" selected="1">NNMP1-----A----</AM>
 <AM lemma="obžalovaný-2_^(osoba)" src="auto">NNMP5-----A----</AM>
 <AM lemma="obžalovaný_^(*2t)" src="auto" recommended="1">AAMP1----1A----</AM>
 <AM lemma="obžalovaný_^(*2t)" src="auto">AAMP5----1A----</AM>
@@ -2245,7 +2256,7 @@
 <form>listopad</form>
 <tag>
 <AM lemma="listopad" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="listopad" src="auto">NNIS4-----A----</AM>
+<AM lemma="listopad" src="auto" selected="1">NNIS4-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0140-001-p1s5W8-Ta">

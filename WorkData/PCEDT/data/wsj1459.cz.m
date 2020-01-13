@@ -190,6 +190,7 @@
 <tag>
 <AM lemma="Kieran_;S" src="auto">NNMS2-----A----</AM>
 <AM lemma="Kieran_;S" src="auto" recommended="1">NNMS4-----A----</AM>
+<AM lemma="Kieran_;S_;Y" src="manual" selected="1">NNMS4-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1459-001-p1s0W15-Ta">
@@ -223,7 +224,7 @@
 <form>Burkeho</form>
 <tag>
 <AM lemma="Burke_;S" src="auto" recommended="1">NNMS2-----A----</AM>
-<AM lemma="Burke_;S" src="auto">NNMS4-----A----</AM>
+<AM lemma="Burke_;S" src="auto" selected="1">NNMS4-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1459-001-p1s0W18-Ta">
@@ -242,7 +243,7 @@
 <form>konzultanta</form>
 <tag>
 <AM lemma="konzultant" src="auto" recommended="1">NNMS2-----A----</AM>
-<AM lemma="konzultant" src="auto">NNMS4-----A----</AM>
+<AM lemma="konzultant" src="auto" selected="1">NNMS4-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1459-001-p1s0W20-Ta">
@@ -267,7 +268,10 @@
 <LM>w#w-wsj1459-001-p1s0W21</LM>
 </w.rf>
 <form>Drexel</form>
-<tag lemma="Drexel_;S" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Drexel_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Drexel-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1459-001-p1s0W22-Ta">
 <src.rf>tagger-a</src.rf>
@@ -275,7 +279,10 @@
 <LM>w#w-wsj1459-001-p1s0W22</LM>
 </w.rf>
 <form>Burnham</form>
-<tag lemma="Burnham_;S" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Burnham_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Burnham-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1459-001-p1s0W23-Ta">
 <src.rf>tagger-a</src.rf>
@@ -283,7 +290,10 @@
 <LM>w#w-wsj1459-001-p1s0W23</LM>
 </w.rf>
 <form>Lambert</form>
-<tag lemma="Lambert_;S" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Lambert_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Lambert-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1459-001-p1s0W24-Ta">
 <src.rf>tagger-a</src.rf>
@@ -291,7 +301,10 @@
 <LM>w#w-wsj1459-001-p1s0W24</LM>
 </w.rf>
 <form>Group</form>
-<tag lemma="Group-1_;K_,t_^(obv._souč._názvu_firem,_&quot;skupina&quot;)" src="auto" recommended="1">NNFXX-----A----</tag>
+<tag>
+<AM lemma="Group-1_;K_,t_^(obv._souč._názvu_firem,_&quot;skupina&quot;)" src="auto" recommended="1">NNFXX-----A----</AM>
+<AM lemma="Group-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1459-001-p1s0W25-Ta">
 <src.rf>tagger-a</src.rf>
@@ -302,6 +315,7 @@
 <tag>
 <AM lemma="Inc-77_:B" src="auto" recommended="1">F%-------------</AM>
 <AM lemma="inc-77_:B" src="auto">F%-------------</AM>
+<AM lemma="Inc-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1459-001-p1s0W26-Ta">
@@ -818,7 +832,7 @@
 <form>Michaela</form>
 <tag>
 <AM lemma="Michael_;S_;Y" src="auto">NNMS2-----A----</AM>
-<AM lemma="Michael_;S_;Y" src="auto">NNMS4-----A----</AM>
+<AM lemma="Michael_;S_;Y" src="auto" selected="1">NNMS4-----A----</AM>
 <AM lemma="Michaela_;Y" src="auto" recommended="1">NNFS1-----A----</AM>
 </tag>
 </m>

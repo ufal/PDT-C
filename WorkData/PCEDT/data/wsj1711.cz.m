@@ -74,7 +74,10 @@
 <LM>w#w-wsj1711-001-p1s0W4</LM>
 </w.rf>
 <form>Dumez</form>
-<tag lemma="Dumez" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Dumez" src="auto">X@-------------</AM>
+<AM lemma="Dumez-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1711-001-p1s0W5-Ta">
 <src.rf>tagger-a</src.rf>
@@ -477,7 +480,7 @@
 <AM lemma="veřejnost_^(*3ý)" src="auto">NNFP4-----A----</AM>
 <AM lemma="veřejnost_^(*3ý)" src="auto">NNFP5-----A----</AM>
 <AM lemma="veřejnost_^(*3ý)" src="auto" recommended="1">NNFS2-----A----</AM>
-<AM lemma="veřejnost_^(*3ý)" src="auto">NNFS3-----A----</AM>
+<AM lemma="veřejnost_^(*3ý)" src="auto" selected="1">NNFS3-----A----</AM>
 <AM lemma="veřejnost_^(*3ý)" src="auto">NNFS5-----A----</AM>
 <AM lemma="veřejnost_^(*3ý)" src="auto">NNFS6-----A----</AM>
 </tag>
@@ -545,7 +548,10 @@
 <LM>w#w-wsj1711-001-p1s1W2</LM>
 </w.rf>
 <form>Dumez</form>
-<tag lemma="Dumez" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Dumez" src="auto">X@-------------</AM>
+<AM lemma="Dumez_;K" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj1711-001-p1s1W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1177,7 +1183,10 @@
 <LM>w#w-wsj1711-001-p1s3W18</LM>
 </w.rf>
 <form>United</form>
-<tag lemma="united-77" src="auto" recommended="1">F%-------------</tag>
+<tag>
+<AM lemma="united-77" src="auto" recommended="1">F%-------------</AM>
+<AM lemma="United-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1711-001-p1s3W19-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1185,7 +1194,10 @@
 <LM>w#w-wsj1711-001-p1s3W19</LM>
 </w.rf>
 <form>Westburne</form>
-<tag lemma="Westburne" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Westburne" src="auto">X@-------------</AM>
+<AM lemma="Westburne-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1711-001-p1s3W20-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1467,7 +1479,10 @@
 <LM>w#w-wsj1711-001-p1s5W7</LM>
 </w.rf>
 <form>Dumez</form>
-<tag lemma="Dumez" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Dumez" src="auto">X@-------------</AM>
+<AM lemma="Dumez_;K" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj1711-001-p1s5W8-Ta">
 <src.rf>tagger-a</src.rf>

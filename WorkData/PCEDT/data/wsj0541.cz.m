@@ -24,7 +24,10 @@
 <LM>w#w-wsj0541-001-p1s0W2</LM>
 </w.rf>
 <form>Automatic</form>
-<tag lemma="Automatic" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Automatic" src="auto">X@-------------</AM>
+<AM lemma="Automatic-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0541-001-p1s0W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -40,6 +43,7 @@
 <AM lemma="datum_^(kalendářní)" src="auto">NNNP4-----A----</AM>
 <AM lemma="datum_^(kalendářní)" src="auto">NNNP5-----A----</AM>
 <AM lemma="datum_^(kalendářní)" src="auto" recommended="1">NNNS2-----A----</AM>
+<AM lemma="Data-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj0541-001-p1s0W4-Ta">
@@ -51,6 +55,7 @@
 <tag>
 <AM lemma="procesing" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="procesing" src="auto">NNIS4-----A----</AM>
+<AM lemma="Processing-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj0541-001-p1s0W5-Ta">
@@ -62,6 +67,7 @@
 <tag>
 <AM lemma="Inc-77_:B" src="auto" recommended="1">F%-------------</AM>
 <AM lemma="inc-77_:B" src="auto">F%-------------</AM>
+<AM lemma="Inc-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj0541-001-p1s0W6-Ta">
@@ -136,7 +142,7 @@
 <AM lemma="svůj-1_^(přivlast.)" src="auto">P8NS1---------1</AM>
 <AM lemma="svůj-1_^(přivlast.)" src="auto" recommended="1">P8NS4---------1</AM>
 <AM lemma="svůj-1_^(přivlast.)" src="auto">P8NS5---------1</AM>
-<AM lemma="svůj-1_^(přivlast.)" src="auto">P8YP4---------1</AM>
+<AM lemma="svůj-1_^(přivlast.)" src="auto" selected="1">P8YP4---------1</AM>
 <AM lemma="svůj-2_^(být_svůj)" src="auto">AOFP-----------</AM>
 <AM lemma="svůj-2_^(být_svůj)" src="auto">AOIP-----------</AM>
 <AM lemma="svůj-2_^(být_svůj)" src="auto">AONS-----------</AM>
@@ -847,7 +853,10 @@
 <LM>w#w-wsj0541-001-p1s3W12</LM>
 </w.rf>
 <form>Automatic</form>
-<tag lemma="Automatic" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Automatic" src="auto">X@-------------</AM>
+<AM lemma="Automatic-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0541-001-p1s3W13-Ta">
 <src.rf>tagger-a</src.rf>
@@ -863,6 +872,7 @@
 <AM lemma="datum_^(kalendářní)" src="auto">NNNP4-----A----</AM>
 <AM lemma="datum_^(kalendářní)" src="auto">NNNP5-----A----</AM>
 <AM lemma="datum_^(kalendářní)" src="auto">NNNS2-----A----</AM>
+<AM lemma="Data-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj0541-001-p1s3W14-Ta">
@@ -873,7 +883,7 @@
 <form>na</form>
 <tag>
 <AM lemma="na-1" src="auto" recommended="1">RR--4----------</AM>
-<AM lemma="na-1" src="auto">RR--6----------</AM>
+<AM lemma="na-1" src="auto" selected="1">RR--6----------</AM>
 <AM lemma="na-2" src="auto">II-------------</AM>
 </tag>
 </m>
@@ -905,7 +915,7 @@
 </w.rf>
 <form>na</form>
 <tag>
-<AM lemma="na-1" src="auto" recommended="1">RR--4----------</AM>
+<AM lemma="na-1" src="auto" recommended="1" selected="1">RR--4----------</AM>
 <AM lemma="na-1" src="auto">RR--6----------</AM>
 <AM lemma="na-2" src="auto">II-------------</AM>
 </tag>
@@ -1163,7 +1173,10 @@
 <LM>w#w-wsj0541-001-p1s4W12</LM>
 </w.rf>
 <form>Automatic</form>
-<tag lemma="Automatic" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Automatic" src="auto">X@-------------</AM>
+<AM lemma="Automatic-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0541-001-p1s4W13-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1179,6 +1192,7 @@
 <AM lemma="datum_^(kalendářní)" src="auto">NNNP4-----A----</AM>
 <AM lemma="datum_^(kalendářní)" src="auto">NNNP5-----A----</AM>
 <AM lemma="datum_^(kalendářní)" src="auto">NNNS2-----A----</AM>
+<AM lemma="Data-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj0541-001-p1s4W14-Ta">
@@ -1387,7 +1401,10 @@
 <LM>w#w-wsj0541-001-p1s5W2</LM>
 </w.rf>
 <form>Automatic</form>
-<tag lemma="Automatic" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Automatic" src="auto">X@-------------</AM>
+<AM lemma="Automatic-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0541-001-p1s5W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1403,6 +1420,7 @@
 <AM lemma="datum_^(kalendářní)" src="auto">NNNP4-----A----</AM>
 <AM lemma="datum_^(kalendářní)" src="auto">NNNP5-----A----</AM>
 <AM lemma="datum_^(kalendářní)" src="auto" recommended="1">NNNS2-----A----</AM>
+<AM lemma="Data-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj0541-001-p1s5W4-Ta">

@@ -443,7 +443,7 @@
 <AM lemma="EC-4_:B_,t_^(Executive_Committee)" src="auto">NNIXX-----A----</AM>
 <AM lemma="EC-5_:B_,t_^(Executive_Council)" src="auto">NNFXX-----A----</AM>
 <AM lemma="EC-6_:B_;K_,t_^(European_Communities)" src="auto">NNNPX-----A----</AM>
-<AM lemma="EC-88_:B" src="auto" recommended="1">NNXXX-----A----</AM>
+<AM lemma="EC-88_:B" src="auto" recommended="1" selected="1">NNXXX-----A----</AM>
 <AM lemma="EuroCity_:B_,t_^(železniční_systém)" src="auto">NNNXX-----A---8</AM>
 <AM lemma="elektrocentrála_:B" src="auto">NNFXX-----A---8</AM>
 </tag>
@@ -606,7 +606,7 @@
 </w.rf>
 <form>na</form>
 <tag>
-<AM lemma="na-1" src="auto">RR--4----------</AM>
+<AM lemma="na-1" src="auto" selected="1">RR--4----------</AM>
 <AM lemma="na-1" src="auto" recommended="1">RR--6----------</AM>
 <AM lemma="na-2" src="auto">II-------------</AM>
 </tag>
@@ -619,7 +619,7 @@
 <form>ekonomické</form>
 <tag>
 <AM lemma="ekonomický" src="auto">AAFP1----1A----</AM>
-<AM lemma="ekonomický" src="auto">AAFP4----1A----</AM>
+<AM lemma="ekonomický" src="auto" selected="1">AAFP4----1A----</AM>
 <AM lemma="ekonomický" src="auto">AAFP5----1A----</AM>
 <AM lemma="ekonomický" src="auto">AAFS2----1A----</AM>
 <AM lemma="ekonomický" src="auto">AAFS3----1A----</AM>
@@ -641,7 +641,7 @@
 <form>možnosti</form>
 <tag>
 <AM lemma="možnost_^(*3ý)" src="auto">NNFP1-----A----</AM>
-<AM lemma="možnost_^(*3ý)" src="auto">NNFP4-----A----</AM>
+<AM lemma="možnost_^(*3ý)" src="auto" selected="1">NNFP4-----A----</AM>
 <AM lemma="možnost_^(*3ý)" src="auto">NNFP5-----A----</AM>
 <AM lemma="možnost_^(*3ý)" src="auto">NNFS2-----A----</AM>
 <AM lemma="možnost_^(*3ý)" src="auto">NNFS3-----A----</AM>
@@ -724,6 +724,7 @@
 <AM lemma="Gary_;S" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Gary_;S" src="auto">NNMS5-----A----</AM>
 <AM lemma="Gary_;S" src="auto">NNMXX-----A----</AM>
+<AM lemma="Gary_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0134-001-p1s2W3-Ta">
@@ -844,6 +845,7 @@
 <AM lemma="El_;K" src="auto" recommended="1">AAXXX----1A----</AM>
 <AM lemma="el-77_,t" src="auto">F%-------------</AM>
 <AM lemma="elektrický_:B" src="auto">AAXXX----1A---8</AM>
+<AM lemma="El-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj0134-001-p1s2W14-Ta">
@@ -1145,7 +1147,7 @@
 <AM lemma="příjemka" src="auto">NNFS6-----A----</AM>
 <AM lemma="příjemce" src="auto" recommended="1">NNMP4-----A----</AM>
 <AM lemma="příjemce" src="auto">NNMS1-----A----</AM>
-<AM lemma="příjemce" src="auto">NNMS2-----A----</AM>
+<AM lemma="příjemce" src="auto" selected="1">NNMS2-----A----</AM>
 <AM lemma="příjemce" src="auto">NNMS4-----A----</AM>
 <AM lemma="příjemce" src="auto">NNMS5-----A----</AM>
 </tag>

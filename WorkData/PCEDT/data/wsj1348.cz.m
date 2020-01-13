@@ -27,7 +27,10 @@
 <LM>w#w-wsj1348-001-p1s0W2</LM>
 </w.rf>
 <form>Meson</form>
-<tag lemma="Meson" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Meson" src="auto">X@-------------</AM>
+<AM lemma="Meson-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1348-001-p1s0W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -38,6 +41,7 @@
 <tag>
 <AM lemma="Investment_;K" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Investment_;K" src="auto">NNIS4-----A----</AM>
+<AM lemma="Investment-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1348-001-p1s0W4-Ta">
@@ -46,7 +50,10 @@
 <LM>w#w-wsj1348-001-p1s0W4</LM>
 </w.rf>
 <form>Ltd</form>
-<tag lemma="Ltd-77_:B" src="auto" recommended="1">F%-------------</tag>
+<tag>
+<AM lemma="Ltd-77_:B" src="auto" recommended="1">F%-------------</AM>
+<AM lemma="Ltd-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1348-001-p1s0W5-Ta">
 <src.rf>tagger-a</src.rf>
@@ -294,7 +301,10 @@
 <LM>w#w-wsj1348-001-p1s0W25</LM>
 </w.rf>
 <form>Verit</form>
-<tag lemma="Verit" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Verit" src="auto">X@-------------</AM>
+<AM lemma="Verit-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1348-001-p1s0W26-Ta">
 <src.rf>tagger-a</src.rf>
@@ -302,7 +312,10 @@
 <LM>w#w-wsj1348-001-p1s0W26</LM>
 </w.rf>
 <form>Industries</form>
-<tag lemma="Industries" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Industries" src="auto">X@-------------</AM>
+<AM lemma="Industries-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1348-001-p1s0W27-Ta">
 <src.rf>tagger-a</src.rf>
@@ -533,7 +546,11 @@
 <LM>w#w-wsj1348-001-p1s1W11</LM>
 </w.rf>
 <form>Meson</form>
-<tag lemma="Meson" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Meson" src="auto">X@-------------</AM>
+<AM lemma="Meson-77" src="manual">F%-------------</AM>
+<AM lemma="Meson_;K" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj1348-001-p1s1W12-Ta">
 <src.rf>tagger-a</src.rf>
@@ -656,7 +673,11 @@
 <LM>w#w-wsj1348-001-p1s1W20</LM>
 </w.rf>
 <form>Verit</form>
-<tag lemma="Verit" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Verit" src="auto">X@-------------</AM>
+<AM lemma="Verit_;" src="manual">NNIS1-----A----</AM>
+<AM lemma="Verit_;K" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj1348-001-p1s1W21-Ta">
 <src.rf>tagger-a</src.rf>
@@ -951,7 +972,10 @@
 <LM>w#w-wsj1348-001-p1s2W2</LM>
 </w.rf>
 <form>Meson</form>
-<tag lemma="Meson" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Meson" src="auto">X@-------------</AM>
+<AM lemma="Meson_;K" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj1348-001-p1s2W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1015,7 +1039,10 @@
 <LM>w#w-wsj1348-001-p1s2W8</LM>
 </w.rf>
 <form>Morfeyho</form>
-<tag lemma="Morfeyho" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Morfeyho" src="auto">X@-------------</AM>
+<AM lemma="Morfey_;S" src="manual" selected="1">NNMS2-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj1348-001-p1s2W9-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1254,7 +1281,10 @@
 <LM>w#w-wsj1348-001-p1s4W3</LM>
 </w.rf>
 <form>Verit</form>
-<tag lemma="Verit" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Verit" src="auto">X@-------------</AM>
+<AM lemma="Verit_;K" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj1348-001-p1s4W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1303,6 +1333,7 @@
 <AM lemma="sun" src="auto">NNIS1-----A----</AM>
 <AM lemma="sun" src="auto" recommended="1">NNIS4-----A----</AM>
 <AM lemma="sunna_,t_,x_^(ústní_podání_Mohamedových_činů)" src="auto">NNFP2-----A----</AM>
+<AM lemma="Sun-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1348-001-p1s4W8-Ta">
@@ -1315,6 +1346,7 @@
 <AM lemma="Valley_;S" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Valley_;S" src="auto">NNMS5-----A----</AM>
 <AM lemma="Valley_;S" src="auto">NNMXX-----A----</AM>
+<AM lemma="Valley-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1348-001-p1s4W9-Ta">
@@ -1530,6 +1562,11 @@
 <AM lemma="americký" src="auto">AANS4----1A----</AM>
 <AM lemma="americký" src="auto">AANS5----1A----</AM>
 </tag>
+<comment>
+<LM type="New Form">
+<text>americké</text>
+</LM>
+</comment>
 </m>
 <m id="m-wsj1348-001-p1s5W6-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1581,7 +1618,10 @@
 <LM>w#w-wsj1348-001-p1s5W10</LM>
 </w.rf>
 <form>Verit</form>
-<tag lemma="Verit" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Verit" src="auto">X@-------------</AM>
+<AM lemma="Verit_;K" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj1348-001-p1s5W11-Ta">
 <src.rf>tagger-a</src.rf>

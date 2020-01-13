@@ -30,6 +30,7 @@
 <tag>
 <AM lemma="Eaton_;G_;K" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Eaton_;G_;K" src="auto">NNIS4-----A----</AM>
+<AM lemma="Eaton-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj0079-001-p1s0W3-Ta">
@@ -38,7 +39,10 @@
 <LM>w#w-wsj0079-001-p1s0W3</LM>
 </w.rf>
 <form>Corp</form>
-<tag lemma="corp-77_:B" src="auto" recommended="1">F%-------------</tag>
+<tag>
+<AM lemma="corp-77_:B" src="auto" recommended="1">F%-------------</AM>
+<AM lemma="Corp-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0079-001-p1s0W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -111,6 +115,7 @@
 <tag>
 <AM lemma="Pacifik_;G_,t" src="auto" recommended="1">NNIS1-----A---1</AM>
 <AM lemma="Pacifik_;G_,t" src="auto">NNIS4-----A---1</AM>
+<AM lemma="Pacific-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj0079-001-p1s0W12-Ta">
@@ -122,6 +127,7 @@
 <tag>
 <AM lemma="Sierra_;G_;R" src="auto" recommended="1">NNFS1-----A----</AM>
 <AM lemma="sierra_;R_^(vozidlo)" src="auto">NNFS1-----A----</AM>
+<AM lemma="Sierra-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj0079-001-p1s0W13-Ta">
@@ -130,7 +136,10 @@
 <LM>w#w-wsj0079-001-p1s0W13</LM>
 </w.rf>
 <form>Research</form>
-<tag lemma="Research-1_;K_,t_^(souč._názvů,_např._IBM_Research)" src="auto" recommended="1">NNISX-----A----</tag>
+<tag>
+<AM lemma="Research-1_;K_,t_^(souč._názvů,_např._IBM_Research)" src="auto" recommended="1">NNISX-----A----</AM>
+<AM lemma="Research-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0079-001-p1s0W14-Ta">
 <src.rf>tagger-a</src.rf>
@@ -138,7 +147,10 @@
 <LM>w#w-wsj0079-001-p1s0W14</LM>
 </w.rf>
 <form>Corp</form>
-<tag lemma="corp-77_:B" src="auto" recommended="1">F%-------------</tag>
+<tag>
+<AM lemma="corp-77_:B" src="auto" recommended="1">F%-------------</AM>
+<AM lemma="Corp-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0079-001-p1s0W15-Ta">
 <src.rf>tagger-a</src.rf>
@@ -198,7 +210,7 @@
 <tag>
 <AM lemma="zaměstnanec" src="auto">NNMP1-----A----</AM>
 <AM lemma="zaměstnanec" src="auto">NNMP5-----A----</AM>
-<AM lemma="zaměstnanec" src="auto">NNMP7-----A----</AM>
+<AM lemma="zaměstnanec" src="auto" selected="1">NNMP7-----A----</AM>
 <AM lemma="zaměstnanec" src="auto" recommended="1">NNMS3-----A----</AM>
 <AM lemma="zaměstnanec" src="auto">NNMS6-----A----</AM>
 </tag>
@@ -336,6 +348,7 @@
 <tag>
 <AM lemma="Pacifik_;G_,t" src="auto" recommended="1">NNIS1-----A---1</AM>
 <AM lemma="Pacifik_;G_,t" src="auto">NNIS4-----A---1</AM>
+<AM lemma="Pacific-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj0079-001-p1s2W3-Ta">
@@ -347,6 +360,7 @@
 <tag>
 <AM lemma="Sierra_;G_;R" src="auto" recommended="1">NNFS1-----A----</AM>
 <AM lemma="sierra_;R_^(vozidlo)" src="auto">NNFS1-----A----</AM>
+<AM lemma="Sierra-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj0079-001-p1s2W4-Ta">
@@ -687,7 +701,7 @@
 <AM lemma="vyrábějící_^(*4t)" src="auto">AGIP1-----A----</AM>
 <AM lemma="vyrábějící_^(*4t)" src="auto">AGIP4-----A----</AM>
 <AM lemma="vyrábějící_^(*4t)" src="auto">AGIP5-----A----</AM>
-<AM lemma="vyrábějící_^(*4t)" src="auto">AGIS1-----A----</AM>
+<AM lemma="vyrábějící_^(*4t)" src="auto" selected="1">AGIS1-----A----</AM>
 <AM lemma="vyrábějící_^(*4t)" src="auto">AGIS4-----A----</AM>
 <AM lemma="vyrábějící_^(*4t)" src="auto">AGIS5-----A----</AM>
 <AM lemma="vyrábějící_^(*4t)" src="auto">AGMP1-----A----</AM>

@@ -41,6 +41,11 @@
 <AM lemma="63letý" src="auto">AANS4----1A---6</AM>
 <AM lemma="63letý" src="auto">AANS5----1A---6</AM>
 </tag>
+<comment>
+<LM type="Other">
+<text>špatná tokenizace</text>
+</LM>
+</comment>
 </m>
 <m id="m-wsj2137-001-p1s0W2-Ta">
 <src.rf>tagger-a</src.rf>
@@ -183,7 +188,10 @@
 <LM>w#w-wsj2137-001-p1s0W12</LM>
 </w.rf>
 <form>Grocery</form>
-<tag lemma="Grocery" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Grocery" src="auto">X@-------------</AM>
+<AM lemma="Grocery-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj2137-001-p1s0W13-Ta">
 <src.rf>tagger-a</src.rf>
@@ -191,7 +199,10 @@
 <LM>w#w-wsj2137-001-p1s0W13</LM>
 </w.rf>
 <form>Manufacturers</form>
-<tag lemma="Manufacturers" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Manufacturers" src="auto">X@-------------</AM>
+<AM lemma="Manufacturers-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj2137-001-p1s0W14-Ta">
 <src.rf>tagger-a</src.rf>
@@ -199,7 +210,10 @@
 <LM>w#w-wsj2137-001-p1s0W14</LM>
 </w.rf>
 <form>of</form>
-<tag lemma="of-77_,t" src="auto" recommended="1">F%-------------</tag>
+<tag>
+<AM lemma="of-77_,t" src="auto" recommended="1">F%-------------</AM>
+<AM lemma="of-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj2137-001-p1s0W15-Ta">
 <src.rf>tagger-a</src.rf>
@@ -211,6 +225,7 @@
 <AM lemma="Amerika_;G" src="auto" recommended="1">NNFS1-----A---1</AM>
 <AM lemma="Americo_;Y" src="auto">NNMS2-----A----</AM>
 <AM lemma="Americo_;Y" src="auto">NNMS4-----A----</AM>
+<AM lemma="America-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj2137-001-p1s0W16-Ta">
@@ -222,6 +237,7 @@
 <tag>
 <AM lemma="Inc-77_:B" src="auto" recommended="1">F%-------------</AM>
 <AM lemma="inc-77_:B" src="auto">F%-------------</AM>
+<AM lemma="Inc-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj2137-001-p1s0W17-Ta">
@@ -433,6 +449,11 @@
 <AM lemma="65letý" src="auto" recommended="1">AAMS4----1A----</AM>
 <AM lemma="65letý" src="auto">AANS2----1A----</AM>
 </tag>
+<comment>
+<LM type="Other">
+<text>špatná tokenizace</text>
+</LM>
+</comment>
 </m>
 <m id="m-wsj2137-001-p1s0W35-Ta">
 <src.rf>tagger-a</src.rf>
@@ -443,6 +464,7 @@
 <tag>
 <AM lemma="Erskin_;S" src="auto">NNMS2-----A----</AM>
 <AM lemma="Erskin_;S" src="auto" recommended="1">NNMS4-----A----</AM>
+<AM lemma="Erskin_;S_;Y" src="manual" selected="1">NNMS4-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2137-001-p1s0W36-Ta">
@@ -479,7 +501,7 @@
 <form>Whitea</form>
 <tag>
 <AM lemma="White_;S" src="auto" recommended="1">NNMS2-----A----</AM>
-<AM lemma="White_;S" src="auto">NNMS4-----A----</AM>
+<AM lemma="White_;S" src="auto" selected="1">NNMS4-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2137-001-p1s0W39-Ta">
@@ -524,7 +546,7 @@
 <AM lemma="který" src="auto">P4NS4---------6</AM>
 <AM lemma="který" src="auto">P4XP1---------6</AM>
 <AM lemma="který" src="auto">P4XP4---------6</AM>
-<AM lemma="který" src="auto">P4YS1----------</AM>
+<AM lemma="který" src="auto" selected="1">P4YS1----------</AM>
 </tag>
 </m>
 <m id="m-wsj2137-001-p1s0W43-Ta">

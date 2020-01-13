@@ -2606,7 +2606,7 @@
 <AM lemma="testovaný_^(*2t)" src="auto">AAIP3----1A----</AM>
 <AM lemma="testovaný_^(*2t)" src="auto">AAIS6----1A---7</AM>
 <AM lemma="testovaný_^(*2t)" src="auto">AAIS7----1A----</AM>
-<AM lemma="testovaný_^(*2t)" src="auto">AAMP3----1A----</AM>
+<AM lemma="testovaný_^(*2t)" src="auto" selected="1">AAMP3----1A----</AM>
 <AM lemma="testovaný_^(*2t)" src="auto">AAMS6----1A---7</AM>
 <AM lemma="testovaný_^(*2t)" src="auto">AAMS7----1A----</AM>
 <AM lemma="testovaný_^(*2t)" src="auto">AANP3----1A----</AM>

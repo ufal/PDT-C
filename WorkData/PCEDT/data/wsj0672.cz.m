@@ -335,6 +335,7 @@
 <AM lemma="program-1" src="auto" recommended="1">NNIS2-----A----</AM>
 <AM lemma="program-1" src="auto">NNIS3-----A----</AM>
 <AM lemma="program-1" src="auto">NNIS6-----A----</AM>
+<AM lemma="program" src="manual" selected="1">NNIS2-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0672-001-p1s0W24-Ta">
@@ -697,6 +698,7 @@
 <AM lemma="program-1" src="auto" recommended="1">NNIS2-----A----</AM>
 <AM lemma="program-1" src="auto">NNIS3-----A----</AM>
 <AM lemma="program-1" src="auto">NNIS6-----A----</AM>
+<AM lemma="program" src="manual" selected="1">NNIS2-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0672-001-p1s1W11-Ta">
@@ -887,6 +889,7 @@
 <tag>
 <AM lemma="program-1" src="auto">NNIS1-----A----</AM>
 <AM lemma="program-1" src="auto" recommended="1">NNIS4-----A----</AM>
+<AM lemma="program" src="manual" selected="1">NNIS4-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0672-001-p1s1W29-Ta">
@@ -1452,6 +1455,7 @@
 <AM lemma="program-1" src="auto" recommended="1">NNIS2-----A----</AM>
 <AM lemma="program-1" src="auto">NNIS3-----A----</AM>
 <AM lemma="program-1" src="auto">NNIS6-----A----</AM>
+<AM lemma="program" src="manual" selected="1">NNIS2-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0672-001-p1s2W44-Ta">
@@ -1903,6 +1907,7 @@
 <AM lemma="program-1" src="auto" recommended="1">NNIS2-----A----</AM>
 <AM lemma="program-1" src="auto">NNIS3-----A----</AM>
 <AM lemma="program-1" src="auto">NNIS6-----A----</AM>
+<AM lemma="program" src="manual" selected="1">NNIS2-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0672-001-p1s4W4-Ta">
@@ -1947,7 +1952,7 @@
 <form>hradí</form>
 <tag>
 <AM lemma="hradit" src="auto" recommended="1">VB-P---3P-AAI--</AM>
-<AM lemma="hradit" src="auto">VB-S---3P-AAI--</AM>
+<AM lemma="hradit" src="auto" selected="1">VB-S---3P-AAI--</AM>
 </tag>
 </m>
 <m id="m-wsj0672-001-p1s4W7-Ta">
@@ -2148,7 +2153,7 @@
 <form>Zákon</form>
 <tag>
 <AM lemma="Zákon_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="zákon" src="auto">NNIS1-----A----</AM>
+<AM lemma="zákon" src="auto" selected="1">NNIS1-----A----</AM>
 <AM lemma="zákon" src="auto" recommended="1">NNIS4-----A----</AM>
 </tag>
 </m>
@@ -3076,7 +3081,7 @@
 <AM lemma="měsíční_^(lhůta;svit)" src="auto">AANP1----1A----</AM>
 <AM lemma="měsíční_^(lhůta;svit)" src="auto">AANP4----1A----</AM>
 <AM lemma="měsíční_^(lhůta;svit)" src="auto">AANP5----1A----</AM>
-<AM lemma="měsíční_^(lhůta;svit)" src="auto">AANS1----1A----</AM>
+<AM lemma="měsíční_^(lhůta;svit)" src="auto" selected="1">AANS1----1A----</AM>
 <AM lemma="měsíční_^(lhůta;svit)" src="auto" recommended="1">AANS4----1A----</AM>
 <AM lemma="měsíční_^(lhůta;svit)" src="auto">AANS5----1A----</AM>
 <AM lemma="měsíčný_^(arch.;_př._měsíčná_noc)" src="auto">AAMP1----1A----</AM>
@@ -3096,7 +3101,7 @@
 <AM lemma="pojištění_^(*5stit)" src="auto">NNNP2-----A----</AM>
 <AM lemma="pojištění_^(*5stit)" src="auto">NNNP4-----A----</AM>
 <AM lemma="pojištění_^(*5stit)" src="auto">NNNP5-----A----</AM>
-<AM lemma="pojištění_^(*5stit)" src="auto">NNNS1-----A----</AM>
+<AM lemma="pojištění_^(*5stit)" src="auto" selected="1">NNNS1-----A----</AM>
 <AM lemma="pojištění_^(*5stit)" src="auto">NNNS2-----A----</AM>
 <AM lemma="pojištění_^(*5stit)" src="auto">NNNS3-----A----</AM>
 <AM lemma="pojištění_^(*5stit)" src="auto" recommended="1">NNNS4-----A----</AM>
@@ -3244,7 +3249,7 @@
 </w.rf>
 <form>plán</form>
 <tag>
-<AM lemma="plán" src="auto">NNIS1-----A----</AM>
+<AM lemma="plán" src="auto" selected="1">NNIS1-----A----</AM>
 <AM lemma="plán" src="auto" recommended="1">NNIS4-----A----</AM>
 </tag>
 </m>
@@ -3355,7 +3360,7 @@
 <form>dalšími</form>
 <tag>
 <AM lemma="další" src="auto">AAFP7----1A----</AM>
-<AM lemma="další" src="auto">AAIP7----1A----</AM>
+<AM lemma="další" src="auto" selected="1">AAIP7----1A----</AM>
 <AM lemma="další" src="auto" recommended="1">AAMP7----1A----</AM>
 <AM lemma="další" src="auto">AANP7----1A----</AM>
 </tag>
@@ -3516,6 +3521,7 @@
 <AM lemma="program-1" src="auto" recommended="1">NNIS2-----A----</AM>
 <AM lemma="program-1" src="auto">NNIS3-----A----</AM>
 <AM lemma="program-1" src="auto">NNIS6-----A----</AM>
+<AM lemma="program" src="manual" selected="1">NNIS2-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0672-001-p1s8W24-Ta">

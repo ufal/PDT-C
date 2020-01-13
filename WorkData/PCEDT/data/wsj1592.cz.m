@@ -27,7 +27,10 @@
 <LM>w#w-wsj1592-001-p1s0W2</LM>
 </w.rf>
 <form>Viatech</form>
-<tag lemma="Viatech" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Viatech" src="auto">X@-------------</AM>
+<AM lemma="Viatech-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1592-001-p1s0W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -38,6 +41,7 @@
 <tag>
 <AM lemma="Inc-77_:B" src="auto" recommended="1">F%-------------</AM>
 <AM lemma="inc-77_:B" src="auto">F%-------------</AM>
+<AM lemma="Inc-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1592-001-p1s0W4-Ta">
@@ -223,7 +227,10 @@
 <LM>w#w-wsj1592-001-p1s0W17</LM>
 </w.rf>
 <form>Ferembal</form>
-<tag lemma="Ferembal" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Ferembal" src="auto">X@-------------</AM>
+<AM lemma="Ferembal-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1592-001-p1s0W18-Ta">
 <src.rf>tagger-a</src.rf>
@@ -594,7 +601,10 @@
 <LM>w#w-wsj1592-001-p1s2W2</LM>
 </w.rf>
 <form>Ferembal</form>
-<tag lemma="Ferembal" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Ferembal" src="auto">X@-------------</AM>
+<AM lemma="Ferembal_;K" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj1592-001-p1s2W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -867,7 +877,10 @@
 <LM>w#w-wsj1592-001-p1s3W2</LM>
 </w.rf>
 <form>Ferembal</form>
-<tag lemma="Ferembal" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Ferembal" src="auto">X@-------------</AM>
+<AM lemma="Ferembal_;K" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj1592-001-p1s3W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -964,7 +977,7 @@
 <tag>
 <AM lemma="jeden`1" src="auto" recommended="1">ClFS2----------</AM>
 <AM lemma="jeden`1" src="auto">ClFS3----------</AM>
-<AM lemma="jeden`1" src="auto">ClFS6----------</AM>
+<AM lemma="jeden`1" src="auto" selected="1">ClFS6----------</AM>
 </tag>
 </m>
 <m id="m-wsj1592-001-p1s3W11-Ta">
@@ -975,7 +988,7 @@
 <form>továrně</form>
 <tag>
 <AM lemma="továrna" src="auto">NNFS3-----A----</AM>
-<AM lemma="továrna" src="auto">NNFS6-----A----</AM>
+<AM lemma="továrna" src="auto" selected="1">NNFS6-----A----</AM>
 <AM lemma="továrně_^(*1í)" src="auto" recommended="1">Dg-------1A----</AM>
 </tag>
 </m>
@@ -1072,7 +1085,10 @@
 <LM>w#w-wsj1592-001-p1s4W2</LM>
 </w.rf>
 <form>Viatech</form>
-<tag lemma="Viatech" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Viatech" src="auto">X@-------------</AM>
+<AM lemma="Viatech_;K" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj1592-001-p1s4W3-Ta">
 <src.rf>tagger-a</src.rf>

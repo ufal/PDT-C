@@ -111,7 +111,10 @@
 <LM>w#w-wsj1402-001-p1s0W10</LM>
 </w.rf>
 <form>Yankelovichovi</form>
-<tag lemma="Yankelovichovi" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Yankelovichovi" src="auto">X@-------------</AM>
+<AM lemma="Yankelovich_;S" src="manual" selected="1">NNMS6-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj1402-001-p1s0W11-Ta">
 <src.rf>tagger-a</src.rf>
@@ -769,7 +772,7 @@
 <form>E</form>
 <tag>
 <AM lemma="E-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
-<AM lemma="E-88_:B" src="auto" recommended="1">NNXXX-----A----</AM>
+<AM lemma="E-88_:B" src="auto" recommended="1" selected="1">NNXXX-----A----</AM>
 <AM lemma="e-1" src="auto">II-------------</AM>
 <AM lemma="e-2_^(e-mail)" src="auto">A2--------A----</AM>
 <AM lemma="e-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>

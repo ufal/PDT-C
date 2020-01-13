@@ -1364,7 +1364,7 @@
 <form>zvláště</form>
 <tag>
 <AM lemma="zvláště-1" src="auto" recommended="1">Db-------------</AM>
-<AM lemma="zvláště-2" src="auto">TT-------------</AM>
+<AM lemma="zvláště-2" src="auto" selected="1">TT-------------</AM>
 </tag>
 </m>
 <m id="m-wsj0302-001-p1s3W36-Ta">
@@ -1689,7 +1689,7 @@
 <AM lemma="vybírání_^(*3at)" src="auto">NNNS1-----A----</AM>
 <AM lemma="vybírání_^(*3at)" src="auto">NNNS2-----A----</AM>
 <AM lemma="vybírání_^(*3at)" src="auto">NNNS3-----A----</AM>
-<AM lemma="vybírání_^(*3at)" src="auto">NNNS4-----A----</AM>
+<AM lemma="vybírání_^(*3at)" src="auto" selected="1">NNNS4-----A----</AM>
 <AM lemma="vybírání_^(*3at)" src="auto">NNNS5-----A----</AM>
 <AM lemma="vybírání_^(*3at)" src="auto">NNNS6-----A----</AM>
 </tag>
@@ -2210,7 +2210,7 @@
 <tag>
 <AM lemma="jeho_^(přivlast.)" src="auto">PSFSXFS3-------</AM>
 <AM lemma="jeho_^(přivlast.)" src="auto">PSIS4FS3-------</AM>
-<AM lemma="jeho_^(přivlast.)" src="auto">PSNS4FS3-------</AM>
+<AM lemma="jeho_^(přivlast.)" src="auto" selected="1">PSNS4FS3-------</AM>
 <AM lemma="jeho_^(přivlast.)" src="auto">PSXP1FS3-------</AM>
 <AM lemma="jeho_^(přivlast.)" src="auto">PSXP4FS3-------</AM>
 <AM lemma="jeho_^(přivlast.)" src="auto">PSXP5FS3-------</AM>
@@ -2234,7 +2234,7 @@
 <AM lemma="zrušení_^(*3it)" src="auto" recommended="1">NNNS1-----A----</AM>
 <AM lemma="zrušení_^(*3it)" src="auto">NNNS2-----A----</AM>
 <AM lemma="zrušení_^(*3it)" src="auto">NNNS3-----A----</AM>
-<AM lemma="zrušení_^(*3it)" src="auto">NNNS4-----A----</AM>
+<AM lemma="zrušení_^(*3it)" src="auto" selected="1">NNNS4-----A----</AM>
 <AM lemma="zrušení_^(*3it)" src="auto">NNNS5-----A----</AM>
 <AM lemma="zrušení_^(*3it)" src="auto">NNNS6-----A----</AM>
 </tag>

@@ -41,6 +41,11 @@
 <AM lemma="46letý" src="auto">AANS4----1A---6</AM>
 <AM lemma="46letý" src="auto">AANS5----1A---6</AM>
 </tag>
+<comment>
+<LM type="Other">
+<text>špatná tokenizace</text>
+</LM>
+</comment>
 </m>
 <m id="m-wsj1811-001-p1s0W2-Ta">
 <src.rf>tagger-a</src.rf>
@@ -82,7 +87,10 @@
 <LM>w#w-wsj1811-001-p1s0W5</LM>
 </w.rf>
 <form>Madson</form>
-<tag lemma="Madson" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Madson" src="auto">X@-------------</AM>
+<AM lemma="Madson_;S" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj1811-001-p1s0W6-Ta">
 <src.rf>tagger-a</src.rf>
@@ -288,7 +296,10 @@
 <LM>w#w-wsj1811-001-p1s1W5</LM>
 </w.rf>
 <form>Himebaugha</form>
-<tag lemma="Himebaugha" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Himebaugha" src="auto">X@-------------</AM>
+<AM lemma="Himebaugh_;S" src="manual" selected="1">NNMS2-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj1811-001-p1s1W6-Ta">
 <src.rf>tagger-a</src.rf>
@@ -408,7 +419,10 @@
 <LM>w#w-wsj1811-001-p1s1W17</LM>
 </w.rf>
 <form>Himebaugh</form>
-<tag lemma="Himebaugh" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Himebaugh" src="auto">X@-------------</AM>
+<AM lemma="Himebaugh_;S" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj1811-001-p1s1W18-Ta">
 <src.rf>tagger-a</src.rf>

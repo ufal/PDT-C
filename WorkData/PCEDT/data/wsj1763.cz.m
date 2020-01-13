@@ -403,6 +403,14 @@
 </w.rf>
 <form>O'Donnell</form>
 <tag lemma="O'Donnell" src="auto">X@-------------</tag>
+<comment>
+<LM type="New Form">
+<text>O</text>
+</LM>
+<LM type="Other">
+<text>nutno rozdělit</text>
+</LM>
+</comment>
 </m>
 <m id="m-wsj1763-001-p1s1W6-Ta">
 <src.rf>tagger-a</src.rf>
@@ -723,6 +731,11 @@
 <AM lemma="listopad" src="auto">NNIS3-----A----</AM>
 <AM lemma="listopad" src="auto">NNIS6-----A----</AM>
 </tag>
+<comment>
+<LM type="New Form">
+<text>listopadu</text>
+</LM>
+</comment>
 </m>
 <m id="m-wsj1763-001-p1s2W7-Ta">
 <src.rf>tagger-a</src.rf>

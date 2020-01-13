@@ -107,7 +107,15 @@
 <LM>w#w-wsj0256-001-p1s0W7</LM>
 </w.rf>
 <form>91denních</form>
-<tag lemma="91denních" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="91denních" src="auto">X@-------------</AM>
+<AM lemma="91denní" src="manual" selected="1">AAIP2----1A----</AM>
+</tag>
+<comment>
+<LM type="Other">
+<text>špatná tokenizace</text>
+</LM>
+</comment>
 </m>
 <m id="m-wsj0256-001-p1s0W8-Ta">
 <src.rf>tagger-a</src.rf>
@@ -239,7 +247,10 @@
 <LM>w#w-wsj0256-001-p1s0W18</LM>
 </w.rf>
 <form>Citicorp</form>
-<tag lemma="Citicorp" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Citicorp" src="auto">X@-------------</AM>
+<AM lemma="Citicorp_;K" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj0256-001-p1s0W19-Ta">
 <src.rf>tagger-a</src.rf>
@@ -665,7 +676,10 @@
 <LM>w#w-wsj0256-001-p1s3W2</LM>
 </w.rf>
 <form>Citicorp</form>
-<tag lemma="Citicorp" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Citicorp" src="auto">X@-------------</AM>
+<AM lemma="Citicorp_;K" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj0256-001-p1s3W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -772,7 +786,15 @@
 <LM>w#w-wsj0256-001-p1s3W11</LM>
 </w.rf>
 <form>182denních</form>
-<tag lemma="182denních" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="182denních" src="auto">X@-------------</AM>
+<AM lemma="182denní" src="manual" selected="1">AAIP2----1A----</AM>
+</tag>
+<comment>
+<LM type="Other">
+<text>špatná tokenizace</text>
+</LM>
+</comment>
 </m>
 <m id="m-wsj0256-001-p1s3W12-Ta">
 <src.rf>tagger-a</src.rf>

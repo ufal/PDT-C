@@ -27,6 +27,7 @@
 <tag>
 <AM lemma="Karstadt_;K" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Karstadt_;K" src="auto">NNIS4-----A----</AM>
+<AM lemma="Karstadt-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj0503-001-p1s0W3-Ta">
@@ -514,7 +515,7 @@
 <AM lemma="první" src="auto">CrMS1----------</AM>
 <AM lemma="první" src="auto">CrMS5----------</AM>
 <AM lemma="první" src="auto">CrNP1----------</AM>
-<AM lemma="první" src="auto">CrNP4----------</AM>
+<AM lemma="první" src="auto" selected="1">CrNP4----------</AM>
 <AM lemma="první" src="auto">CrNP5----------</AM>
 <AM lemma="první" src="auto">CrNS1----------</AM>
 <AM lemma="první" src="auto">CrNS4----------</AM>
@@ -591,7 +592,7 @@
 <form>splní</form>
 <tag>
 <AM lemma="splnit" src="auto" recommended="1">VB-P---3P-AAP--</AM>
-<AM lemma="splnit" src="auto">VB-S---3P-AAP--</AM>
+<AM lemma="splnit" src="auto" selected="1">VB-S---3P-AAP--</AM>
 </tag>
 </m>
 <m id="m-wsj0503-001-p1s1W18-Ta">
@@ -822,7 +823,7 @@
 <form>i</form>
 <tag>
 <AM lemma="i-1" src="auto" recommended="1">J^-------------</AM>
-<AM lemma="i-2" src="auto">TT-------------</AM>
+<AM lemma="i-2" src="auto" selected="1">TT-------------</AM>
 <AM lemma="i-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
 <AM lemma="i-88_:B" src="auto">NNXXX-----A----</AM>
 </tag>
@@ -871,7 +872,7 @@
 <AM lemma="stabilní" src="auto">AAIP1----1A----</AM>
 <AM lemma="stabilní" src="auto">AAIP4----1A----</AM>
 <AM lemma="stabilní" src="auto">AAIP5----1A----</AM>
-<AM lemma="stabilní" src="auto">AAIS1----1A----</AM>
+<AM lemma="stabilní" src="auto" selected="1">AAIS1----1A----</AM>
 <AM lemma="stabilní" src="auto">AAIS4----1A----</AM>
 <AM lemma="stabilní" src="auto">AAIS5----1A----</AM>
 <AM lemma="stabilní" src="auto">AAMP1----1A----</AM>

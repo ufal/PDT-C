@@ -448,7 +448,7 @@
 <AM lemma="ostatní" src="auto">AAIS4----1A----</AM>
 <AM lemma="ostatní" src="auto">AAIS5----1A----</AM>
 <AM lemma="ostatní" src="auto">AAMP1----1A----</AM>
-<AM lemma="ostatní" src="auto">AAMP4----1A----</AM>
+<AM lemma="ostatní" src="auto" selected="1">AAMP4----1A----</AM>
 <AM lemma="ostatní" src="auto">AAMP5----1A----</AM>
 <AM lemma="ostatní" src="auto">AAMS1----1A----</AM>
 <AM lemma="ostatní" src="auto">AAMS5----1A----</AM>
@@ -629,7 +629,7 @@
 <AM lemma="malý" src="auto">AANP1----1A---6</AM>
 <AM lemma="malý" src="auto">AANP4----1A---6</AM>
 <AM lemma="malý" src="auto">AANP5----1A---6</AM>
-<AM lemma="malý" src="auto">AANS1----1A----</AM>
+<AM lemma="malý" src="auto" selected="1">AANS1----1A----</AM>
 <AM lemma="malý" src="auto" recommended="1">AANS4----1A----</AM>
 <AM lemma="malý" src="auto">AANS5----1A----</AM>
 </tag>
@@ -645,7 +645,7 @@
 <AM lemma="množství" src="auto">NNNP2-----A----</AM>
 <AM lemma="množství" src="auto">NNNP4-----A----</AM>
 <AM lemma="množství" src="auto">NNNP5-----A----</AM>
-<AM lemma="množství" src="auto">NNNS1-----A----</AM>
+<AM lemma="množství" src="auto" selected="1">NNNS1-----A----</AM>
 <AM lemma="množství" src="auto">NNNS2-----A----</AM>
 <AM lemma="množství" src="auto">NNNS3-----A----</AM>
 <AM lemma="množství" src="auto" recommended="1">NNNS4-----A----</AM>
@@ -909,7 +909,10 @@
 <LM>w#w-wsj0248-001-p1s3W1</LM>
 </w.rf>
 <form>Saul</form>
-<tag lemma="Saul_;S" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Saul_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Saul_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj0248-001-p1s3W2-Ta">
 <src.rf>tagger-a</src.rf>
@@ -917,7 +920,10 @@
 <LM>w#w-wsj0248-001-p1s3W2</LM>
 </w.rf>
 <form>Resnick</form>
-<tag lemma="Resnick" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Resnick" src="auto">X@-------------</AM>
+<AM lemma="Resnick_;S" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 </s>
 <s id="m-wsj0248-001-p1s4">
@@ -999,7 +1005,10 @@
 <LM>w#w-wsj0248-001-p1s6W2</LM>
 </w.rf>
 <form>Conrail</form>
-<tag lemma="Conrail" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Conrail" src="auto">X@-------------</AM>
+<AM lemma="Conrail_;K" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 </s>
 </mdata>

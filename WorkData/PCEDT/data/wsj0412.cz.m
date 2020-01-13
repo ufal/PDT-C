@@ -879,7 +879,7 @@
 </w.rf>
 <form>půl</form>
 <tag>
-<AM lemma="půl-1" src="auto">ClXXX----------</AM>
+<AM lemma="půl-1" src="auto" selected="1">ClXXX----------</AM>
 <AM lemma="půle" src="auto">NNFS1-----A----</AM>
 <AM lemma="půle" src="auto" recommended="1">NNFS4-----A----</AM>
 </tag>
@@ -955,7 +955,7 @@
 <form>součást</form>
 <tag>
 <AM lemma="součást" src="auto" recommended="1">NNFS1-----A----</AM>
-<AM lemma="součást" src="auto">NNFS4-----A----</AM>
+<AM lemma="součást" src="auto" selected="1">NNFS4-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0412-001-p1s3W20-Ta">
@@ -1073,7 +1073,7 @@
 <form>účtované</form>
 <tag>
 <AM lemma="účtovaný_^(*2t)" src="auto">AAFP1----1A----</AM>
-<AM lemma="účtovaný_^(*2t)" src="auto">AAFP4----1A----</AM>
+<AM lemma="účtovaný_^(*2t)" src="auto" selected="1">AAFP4----1A----</AM>
 <AM lemma="účtovaný_^(*2t)" src="auto">AAFP5----1A----</AM>
 <AM lemma="účtovaný_^(*2t)" src="auto" recommended="1">AAFS2----1A----</AM>
 <AM lemma="účtovaný_^(*2t)" src="auto">AAFS3----1A----</AM>

@@ -104,7 +104,7 @@
 <AM lemma="vyšetřování_^(*3at)" src="auto" recommended="1">NNNS1-----A----</AM>
 <AM lemma="vyšetřování_^(*3at)" src="auto">NNNS2-----A----</AM>
 <AM lemma="vyšetřování_^(*3at)" src="auto">NNNS3-----A----</AM>
-<AM lemma="vyšetřování_^(*3at)" src="auto">NNNS4-----A----</AM>
+<AM lemma="vyšetřování_^(*3at)" src="auto" selected="1">NNNS4-----A----</AM>
 <AM lemma="vyšetřování_^(*3at)" src="auto">NNNS5-----A----</AM>
 <AM lemma="vyšetřování_^(*3at)" src="auto">NNNS6-----A----</AM>
 </tag>
@@ -187,7 +187,10 @@
 <LM>w#w-wsj0145-001-p1s0W13</LM>
 </w.rf>
 <form>National</form>
-<tag lemma="National-1_;K_,t_^(souč._názvů,_např._N._Semiconductor)" src="auto" recommended="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="National-1_;K_,t_^(souč._názvů,_např._N._Semiconductor)" src="auto" recommended="1">AAXXX----1A----</AM>
+<AM lemma="National-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0145-001-p1s0W14-Ta">
 <src.rf>tagger-a</src.rf>
@@ -201,6 +204,7 @@
 <AM lemma="Tyre_;S" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Tyre_;S" src="auto">NNMS5-----A----</AM>
 <AM lemma="Tyre_;S" src="auto">NNMXX-----A----</AM>
+<AM lemma="Tyre-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj0145-001-p1s0W15-Ta">
@@ -210,7 +214,7 @@
 </w.rf>
 <form>Service</form>
 <tag>
-<AM lemma="Service-77" src="auto" recommended="1">F%-------------</AM>
+<AM lemma="Service-77" src="auto" recommended="1" selected="1">F%-------------</AM>
 <AM lemma="Service_;K_,t" src="auto">NNISX-----A----</AM>
 <AM lemma="servis" src="auto">NNXXX-----A----</AM>
 <AM lemma="service-77" src="auto">F%-------------</AM>
@@ -222,7 +226,10 @@
 <LM>w#w-wsj0145-001-p1s0W16</LM>
 </w.rf>
 <form>Ltd</form>
-<tag lemma="Ltd-77_:B" src="auto" recommended="1">F%-------------</tag>
+<tag>
+<AM lemma="Ltd-77_:B" src="auto" recommended="1">F%-------------</AM>
+<AM lemma="Ltd-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0145-001-p1s0W17-Ta">
 <src.rf>tagger-a</src.rf>
@@ -250,6 +257,7 @@
 <AM lemma="Michelin_;K_;R" src="auto">NNIS1-----A----</AM>
 <AM lemma="Michelin_;K_;R" src="auto">NNIS4-----A----</AM>
 <AM lemma="Michelin_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Michelin-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj0145-001-p1s0W20-Ta">
@@ -264,6 +272,7 @@
 <AM lemma="Tyre_;S" src="auto">NNMS1-----A----</AM>
 <AM lemma="Tyre_;S" src="auto">NNMS5-----A----</AM>
 <AM lemma="Tyre_;S" src="auto" recommended="1">NNMXX-----A----</AM>
+<AM lemma="Tyre-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj0145-001-p1s0W21-Ta">
@@ -342,7 +351,7 @@
 <AM lemma="toto" src="auto">NNNS4-----A----</AM>
 <AM lemma="toto" src="auto">NNNS5-----A----</AM>
 <AM lemma="tento" src="auto" recommended="1">PDNS1----------</AM>
-<AM lemma="tento" src="auto">PDNS4----------</AM>
+<AM lemma="tento" src="auto" selected="1">PDNS4----------</AM>
 </tag>
 </m>
 <m id="m-wsj0145-001-p1s1W7-Ta">
@@ -359,7 +368,7 @@
 <AM lemma="převzetí_^(př._od_někoho_věc,_zodpovědnost...)_(*3ít)" src="auto" recommended="1">NNNS1-----A----</AM>
 <AM lemma="převzetí_^(př._od_někoho_věc,_zodpovědnost...)_(*3ít)" src="auto">NNNS2-----A----</AM>
 <AM lemma="převzetí_^(př._od_někoho_věc,_zodpovědnost...)_(*3ít)" src="auto">NNNS3-----A----</AM>
-<AM lemma="převzetí_^(př._od_někoho_věc,_zodpovědnost...)_(*3ít)" src="auto">NNNS4-----A----</AM>
+<AM lemma="převzetí_^(př._od_někoho_věc,_zodpovědnost...)_(*3ít)" src="auto" selected="1">NNNS4-----A----</AM>
 <AM lemma="převzetí_^(př._od_někoho_věc,_zodpovědnost...)_(*3ít)" src="auto">NNNS5-----A----</AM>
 <AM lemma="převzetí_^(př._od_někoho_věc,_zodpovědnost...)_(*3ít)" src="auto">NNNS6-----A----</AM>
 </tag>
@@ -371,7 +380,7 @@
 </w.rf>
 <form>Komisi</form>
 <tag>
-<AM lemma="komise" src="auto">NNFS3-----A----</AM>
+<AM lemma="komise" src="auto" selected="1">NNFS3-----A----</AM>
 <AM lemma="komise" src="auto" recommended="1">NNFS4-----A----</AM>
 <AM lemma="komise" src="auto">NNFS6-----A----</AM>
 </tag>
@@ -634,7 +643,10 @@
 <LM>w#w-wsj0145-001-p1s2W2</LM>
 </w.rf>
 <form>BTR</form>
-<tag lemma="BTR" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="BTR" src="auto">X@-------------</AM>
+<AM lemma="BTR-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj0145-001-p1s2W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -910,7 +922,10 @@
 <LM>w#w-wsj0145-001-p1s2W26</LM>
 </w.rf>
 <form>National</form>
-<tag lemma="National-1_;K_,t_^(souč._názvů,_např._N._Semiconductor)" src="auto" recommended="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="National-1_;K_,t_^(souč._názvů,_např._N._Semiconductor)" src="auto" recommended="1">AAXXX----1A----</AM>
+<AM lemma="National-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0145-001-p1s2W27-Ta">
 <src.rf>tagger-a</src.rf>
@@ -924,6 +939,7 @@
 <AM lemma="Tyre_;S" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Tyre_;S" src="auto">NNMS5-----A----</AM>
 <AM lemma="Tyre_;S" src="auto">NNMXX-----A----</AM>
+<AM lemma="Tyre-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj0145-001-p1s2W28-Ta">
@@ -933,7 +949,7 @@
 </w.rf>
 <form>Service</form>
 <tag>
-<AM lemma="Service-77" src="auto">F%-------------</AM>
+<AM lemma="Service-77" src="auto" selected="1">F%-------------</AM>
 <AM lemma="Service_;K_,t" src="auto">NNISX-----A----</AM>
 <AM lemma="servis" src="auto" recommended="1">NNXXX-----A----</AM>
 <AM lemma="service-77" src="auto">F%-------------</AM>
@@ -950,7 +966,7 @@
 <AM lemma="společnost_^(*3ý)" src="auto">NNFP4-----A----</AM>
 <AM lemma="společnost_^(*3ý)" src="auto">NNFP5-----A----</AM>
 <AM lemma="společnost_^(*3ý)" src="auto" recommended="1">NNFS2-----A----</AM>
-<AM lemma="společnost_^(*3ý)" src="auto">NNFS3-----A----</AM>
+<AM lemma="společnost_^(*3ý)" src="auto" selected="1">NNFS3-----A----</AM>
 <AM lemma="společnost_^(*3ý)" src="auto">NNFS5-----A----</AM>
 <AM lemma="společnost_^(*3ý)" src="auto">NNFS6-----A----</AM>
 </tag>
@@ -965,6 +981,7 @@
 <AM lemma="Michelin_;K_;R" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Michelin_;K_;R" src="auto">NNIS4-----A----</AM>
 <AM lemma="Michelin_;S" src="auto">NNMS1-----A----</AM>
+<AM lemma="Michelin-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj0145-001-p1s2W31-Ta">
@@ -976,6 +993,7 @@
 <tag>
 <AM lemma="Investment_;K" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Investment_;K" src="auto">NNIS4-----A----</AM>
+<AM lemma="Investment-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj0145-001-p1s2W32-Ta">
@@ -984,7 +1002,10 @@
 <LM>w#w-wsj0145-001-p1s2W32</LM>
 </w.rf>
 <form>Ltd</form>
-<tag lemma="Ltd-77_:B" src="auto" recommended="1">F%-------------</tag>
+<tag>
+<AM lemma="Ltd-77_:B" src="auto" recommended="1">F%-------------</AM>
+<AM lemma="Ltd-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0145-001-p1s2W33-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1100,6 +1121,7 @@
 <AM lemma="Michelin_;K_;R" src="auto">NNIS1-----A----</AM>
 <AM lemma="Michelin_;K_;R" src="auto">NNIS4-----A----</AM>
 <AM lemma="Michelin_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Michelin-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj0145-001-p1s3W3-Ta">
@@ -1114,6 +1136,7 @@
 <AM lemma="Tyre_;S" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Tyre_;S" src="auto">NNMS5-----A----</AM>
 <AM lemma="Tyre_;S" src="auto">NNMXX-----A----</AM>
+<AM lemma="Tyre-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj0145-001-p1s3W4-Ta">
@@ -1181,6 +1204,7 @@
 <AM lemma="Michelin_;K_;R" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Michelin_;K_;R" src="auto">NNIS4-----A----</AM>
 <AM lemma="Michelin_;S" src="auto">NNMS1-----A----</AM>
+<AM lemma="Michelin-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj0145-001-p1s3W9-Ta">
@@ -1277,6 +1301,7 @@
 <AM lemma="Michelin_;K_;R" src="auto">NNIS1-----A----</AM>
 <AM lemma="Michelin_;K_;R" src="auto">NNIS4-----A----</AM>
 <AM lemma="Michelin_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Michelin-1_;K_;R" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0145-001-p1s4W4-Ta">
@@ -1417,7 +1442,10 @@
 <LM>w#w-wsj0145-001-p1s4W16</LM>
 </w.rf>
 <form>BTR</form>
-<tag lemma="BTR" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="BTR" src="auto">X@-------------</AM>
+<AM lemma="BTR-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj0145-001-p1s4W17-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1472,7 +1500,10 @@
 <LM>w#w-wsj0145-001-p1s5W2</LM>
 </w.rf>
 <form>National</form>
-<tag lemma="National-1_;K_,t_^(souč._názvů,_např._N._Semiconductor)" src="auto" recommended="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="National-1_;K_,t_^(souč._názvů,_např._N._Semiconductor)" src="auto" recommended="1">AAXXX----1A----</AM>
+<AM lemma="National-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0145-001-p1s5W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1486,6 +1517,7 @@
 <AM lemma="Tyre_;S" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Tyre_;S" src="auto">NNMS5-----A----</AM>
 <AM lemma="Tyre_;S" src="auto">NNMXX-----A----</AM>
+<AM lemma="Tyre-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj0145-001-p1s5W4-Ta">

@@ -27,7 +27,10 @@
 <LM>w#w-wsj1911-001-p1s0W2</LM>
 </w.rf>
 <form>Arkla</form>
-<tag lemma="Arkla" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Arkla" src="auto">X@-------------</AM>
+<AM lemma="Arkla-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1911-001-p1s0W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -38,6 +41,7 @@
 <tag>
 <AM lemma="Inc-77_:B" src="auto" recommended="1">F%-------------</AM>
 <AM lemma="inc-77_:B" src="auto">F%-------------</AM>
+<AM lemma="Inc-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1911-001-p1s0W4-Ta">
@@ -91,7 +95,7 @@
 <form>součást</form>
 <tag>
 <AM lemma="součást" src="auto" recommended="1">NNFS1-----A----</AM>
-<AM lemma="součást" src="auto">NNFS4-----A----</AM>
+<AM lemma="součást" src="auto" selected="1">NNFS4-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1911-001-p1s0W10-Ta">
@@ -1132,7 +1136,10 @@
 <LM>w#w-wsj1911-001-p1s4W2</LM>
 </w.rf>
 <form>Arkla</form>
-<tag lemma="Arkla" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Arkla" src="auto">X@-------------</AM>
+<AM lemma="Arkla_;K" src="manual" selected="1">NNFS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj1911-001-p1s4W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1793,7 +1800,7 @@
 <AM lemma="odrážející_^(*4t)" src="auto">AGIP4-----A----</AM>
 <AM lemma="odrážející_^(*4t)" src="auto">AGIP5-----A----</AM>
 <AM lemma="odrážející_^(*4t)" src="auto" recommended="1">AGIS1-----A----</AM>
-<AM lemma="odrážející_^(*4t)" src="auto">AGIS4-----A----</AM>
+<AM lemma="odrážející_^(*4t)" src="auto" selected="1">AGIS4-----A----</AM>
 <AM lemma="odrážející_^(*4t)" src="auto">AGIS5-----A----</AM>
 <AM lemma="odrážející_^(*4t)" src="auto">AGMP1-----A----</AM>
 <AM lemma="odrážející_^(*4t)" src="auto">AGMP4-----A----</AM>
@@ -1945,7 +1952,10 @@
 <LM>w#w-wsj1911-001-p1s6W2</LM>
 </w.rf>
 <form>Arkla</form>
-<tag lemma="Arkla" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Arkla" src="auto">X@-------------</AM>
+<AM lemma="Arkla_;K" src="manual" selected="1">NNFS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj1911-001-p1s6W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2121,7 +2131,10 @@
 <LM>w#w-wsj1911-001-p1s6W16</LM>
 </w.rf>
 <form>Arkla</form>
-<tag lemma="Arkla" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Arkla" src="auto">X@-------------</AM>
+<AM lemma="Arkla-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1911-001-p1s6W17-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2129,7 +2142,10 @@
 <LM>w#w-wsj1911-001-p1s6W17</LM>
 </w.rf>
 <form>Exploration</form>
-<tag lemma="Exploration" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Exploration" src="auto">X@-------------</AM>
+<AM lemma="Exploration-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1911-001-p1s6W18-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2145,6 +2161,7 @@
 <AM lemma="co-4_^(který:_př.:_o_těch,_co_odešli/co_je_znal)" src="auto">P4XXX----------</AM>
 <AM lemma="co-5_^(př._co_nejméně,_co_nevidět,_co_chvíli,_co_do_počtu,_atd.)" src="auto">Db-------------</AM>
 <AM lemma="co-77_:B" src="auto">F%-------------</AM>
+<AM lemma="Co-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1911-001-p1s6W19-Ta">
@@ -2349,7 +2366,10 @@
 <LM>w#w-wsj1911-001-p1s6W35</LM>
 </w.rf>
 <form>Arkla</form>
-<tag lemma="Arkla" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Arkla" src="auto">X@-------------</AM>
+<AM lemma="Arkla_;K" src="manual" selected="1">NNFS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj1911-001-p1s6W36-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2378,7 +2398,10 @@
 <LM>w#w-wsj1911-001-p1s7W2</LM>
 </w.rf>
 <form>Arkla</form>
-<tag lemma="Arkla" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Arkla" src="auto">X@-------------</AM>
+<AM lemma="Arkla-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1911-001-p1s7W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2386,7 +2409,10 @@
 <LM>w#w-wsj1911-001-p1s7W3</LM>
 </w.rf>
 <form>Exploration</form>
-<tag lemma="Exploration" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Exploration" src="auto">X@-------------</AM>
+<AM lemma="Exploration-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1911-001-p1s7W4-Ta">
 <src.rf>tagger-a</src.rf>

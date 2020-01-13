@@ -368,7 +368,7 @@
 </w.rf>
 <form>loňským</form>
 <tag>
-<AM lemma="loňský" src="auto">AAFP3----1A----</AM>
+<AM lemma="loňský" src="auto" selected="1">AAFP3----1A----</AM>
 <AM lemma="loňský" src="auto">AAIP3----1A----</AM>
 <AM lemma="loňský" src="auto">AAIS6----1A---7</AM>
 <AM lemma="loňský" src="auto">AAIS7----1A----</AM>
@@ -643,7 +643,7 @@
 </w.rf>
 <form>kompletních</form>
 <tag>
-<AM lemma="kompletní" src="auto">AAFP2----1A----</AM>
+<AM lemma="kompletní" src="auto" selected="1">AAFP2----1A----</AM>
 <AM lemma="kompletní" src="auto">AAFP6----1A----</AM>
 <AM lemma="kompletní" src="auto">AAIP2----1A----</AM>
 <AM lemma="kompletní" src="auto">AAIP6----1A----</AM>
@@ -691,7 +691,7 @@
 </w.rf>
 <form>jdoucích</form>
 <tag>
-<AM lemma="jdoucí_^(*5ít)" src="auto">AGFP2-----A----</AM>
+<AM lemma="jdoucí_^(*5ít)" src="auto" selected="1">AGFP2-----A----</AM>
 <AM lemma="jdoucí_^(*5ít)" src="auto">AGFP6-----A----</AM>
 <AM lemma="jdoucí_^(*5ít)" src="auto">AGIP2-----A----</AM>
 <AM lemma="jdoucí_^(*5ít)" src="auto" recommended="1">AGIP6-----A----</AM>
@@ -797,7 +797,7 @@
 <tag>
 <AM lemma="pět-2_^(zpívat)" src="auto">Vf--------A-I--</AM>
 <AM lemma="pět-1`5" src="auto" recommended="1">Cn-S1----------</AM>
-<AM lemma="pět-1`5" src="auto">Cn-S4----------</AM>
+<AM lemma="pět-1`5" src="auto" selected="1">Cn-S4----------</AM>
 <AM lemma="pět-1`5" src="auto">Cn-S5----------</AM>
 </tag>
 </m>
@@ -833,7 +833,7 @@
 <tag>
 <AM lemma="jdoucí_^(*5ít)" src="auto">AGFP2-----A----</AM>
 <AM lemma="jdoucí_^(*5ít)" src="auto">AGFP6-----A----</AM>
-<AM lemma="jdoucí_^(*5ít)" src="auto">AGIP2-----A----</AM>
+<AM lemma="jdoucí_^(*5ít)" src="auto" selected="1">AGIP2-----A----</AM>
 <AM lemma="jdoucí_^(*5ít)" src="auto" recommended="1">AGIP6-----A----</AM>
 <AM lemma="jdoucí_^(*5ít)" src="auto">AGMP2-----A----</AM>
 <AM lemma="jdoucí_^(*5ít)" src="auto">AGMP6-----A----</AM>
@@ -1059,7 +1059,7 @@
 <AM lemma="ten" src="auto" recommended="1">PDNS1----------</AM>
 <AM lemma="ten" src="auto">PDNS4----------</AM>
 <AM lemma="to-1_^(tehdy;to_jsem_byla_ještě_malá)" src="auto">PDXXX----------</AM>
-<AM lemma="to-9_^(být_s_to)" src="auto">TT-------------</AM>
+<AM lemma="to-9_^(být_s_to)" src="auto" selected="1">TT-------------</AM>
 <AM lemma="to-77" src="auto">F%-------------</AM>
 </tag>
 </m>
@@ -1082,7 +1082,7 @@
 </w.rf>
 <form>loňských</form>
 <tag>
-<AM lemma="loňský" src="auto" recommended="1">AAFP2----1A----</AM>
+<AM lemma="loňský" src="auto" recommended="1" selected="1">AAFP2----1A----</AM>
 <AM lemma="loňský" src="auto">AAFP6----1A----</AM>
 <AM lemma="loňský" src="auto">AAIP2----1A----</AM>
 <AM lemma="loňský" src="auto">AAIP6----1A----</AM>
@@ -1427,7 +1427,7 @@
 </w.rf>
 <form>loňských</form>
 <tag>
-<AM lemma="loňský" src="auto" recommended="1">AAFP2----1A----</AM>
+<AM lemma="loňský" src="auto" recommended="1" selected="1">AAFP2----1A----</AM>
 <AM lemma="loňský" src="auto">AAFP6----1A----</AM>
 <AM lemma="loňský" src="auto">AAIP2----1A----</AM>
 <AM lemma="loňský" src="auto">AAIP6----1A----</AM>

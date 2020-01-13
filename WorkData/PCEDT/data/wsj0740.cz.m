@@ -47,7 +47,10 @@
 <LM>w#w-wsj0740-001-p1s0W4</LM>
 </w.rf>
 <form>Pissocra</form>
-<tag lemma="Pissocra" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Pissocra" src="auto">X@-------------</AM>
+<AM lemma="Pissocra_;S" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj0740-001-p1s0W5-Ta">
 <src.rf>tagger-a</src.rf>
@@ -148,7 +151,7 @@
 <tag>
 <AM lemma="Bank_;S" src="auto">NNMS1-----A----</AM>
 <AM lemma="Bank-1_;K_,t_^(v_cizojaz._názvech_bank)" src="auto">NNFXX-----A----</AM>
-<AM lemma="Bank-77" src="auto" recommended="1">F%-------------</AM>
+<AM lemma="Bank-77" src="auto" recommended="1" selected="1">F%-------------</AM>
 <AM lemma="banka" src="auto">NNFP2-----A----</AM>
 <AM lemma="bank" src="auto">NNIS1-----A----</AM>
 <AM lemma="bank" src="auto">NNIS4-----A----</AM>
@@ -161,7 +164,10 @@
 <LM>w#w-wsj0740-001-p1s0W12</LM>
 </w.rf>
 <form>One</form>
-<tag lemma="one-77" src="auto" recommended="1">F%-------------</tag>
+<tag>
+<AM lemma="one-77" src="auto" recommended="1">F%-------------</AM>
+<AM lemma="One-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0740-001-p1s0W13-Ta">
 <src.rf>tagger-a</src.rf>
@@ -419,7 +425,10 @@
 <LM>w#w-wsj0740-001-p1s1W1</LM>
 </w.rf>
 <form>Pissocra</form>
-<tag lemma="Pissocra" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Pissocra" src="auto">X@-------------</AM>
+<AM lemma="Pissocra_;S" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj0740-001-p1s1W2-Ta">
 <src.rf>tagger-a</src.rf>
@@ -731,6 +740,7 @@
 <AM lemma="dan-2_^(mistrovský_stupeň_v_džudu_a_karate)" src="auto">NNIS1-----A----</AM>
 <AM lemma="dan-2_^(mistrovský_stupeň_v_džudu_a_karate)" src="auto">NNIS4-----A----</AM>
 <AM lemma="dan-99_:B_;S" src="auto">NNXXX-----A----</AM>
+<AM lemma="Dan_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0740-001-p1s2W12-Ta">
@@ -763,6 +773,8 @@
 <tag>
 <AM lemma="Hartwell_;G" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Hartwell_;G" src="auto">NNIS4-----A----</AM>
+<AM lemma="Hartwell-2_;G" src="manual">NNMS1-----A----</AM>
+<AM lemma="Hartwell-2_;S" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0740-001-p1s2W15-Ta">
@@ -854,7 +866,7 @@
 <tag>
 <AM lemma="Bank_;S" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Bank-1_;K_,t_^(v_cizojaz._názvech_bank)" src="auto">NNFXX-----A----</AM>
-<AM lemma="Bank-77" src="auto">F%-------------</AM>
+<AM lemma="Bank-77" src="auto" selected="1">F%-------------</AM>
 <AM lemma="banka" src="auto">NNFP2-----A----</AM>
 <AM lemma="bank" src="auto">NNIS1-----A----</AM>
 <AM lemma="bank" src="auto">NNIS4-----A----</AM>
@@ -867,7 +879,10 @@
 <LM>w#w-wsj0740-001-p1s2W22</LM>
 </w.rf>
 <form>One</form>
-<tag lemma="one-77" src="auto" recommended="1">F%-------------</tag>
+<tag>
+<AM lemma="one-77" src="auto" recommended="1">F%-------------</AM>
+<AM lemma="One-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0740-001-p1s2W23-Ta">
 <src.rf>tagger-a</src.rf>
@@ -948,7 +963,10 @@
 <LM>w#w-wsj0740-001-p1s2W29</LM>
 </w.rf>
 <form>Pissocrovi</form>
-<tag lemma="Pissocrovi" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Pissocrovi" src="auto">X@-------------</AM>
+<AM lemma="Pissocra_;S" src="manual" selected="1">NNMS6-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj0740-001-p1s2W30-Ta">
 <src.rf>tagger-a</src.rf>
@@ -980,7 +998,10 @@
 <LM>w#w-wsj0740-001-p1s3W2</LM>
 </w.rf>
 <form>Hartwella</form>
-<tag lemma="Hartwella" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Hartwella" src="auto">X@-------------</AM>
+<AM lemma="Hartwell-2_;S" src="manual" selected="1">NNMS2-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj0740-001-p1s3W3-Ta">
 <src.rf>tagger-a</src.rf>

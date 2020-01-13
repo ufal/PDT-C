@@ -929,7 +929,7 @@
 <tag>
 <AM lemma="růst-1" src="auto" recommended="1">NNIS2-----A----</AM>
 <AM lemma="růst-1" src="auto">NNIS3-----A----</AM>
-<AM lemma="růst-1" src="auto">NNIS6-----A----</AM>
+<AM lemma="růst-1" src="auto" selected="1">NNIS6-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0717-001-p1s2W8-Ta">
@@ -1007,7 +1007,7 @@
 <AM lemma="zvýšení_^(*3it)" src="auto">NNNS3-----A----</AM>
 <AM lemma="zvýšení_^(*3it)" src="auto">NNNS4-----A----</AM>
 <AM lemma="zvýšení_^(*3it)" src="auto">NNNS5-----A----</AM>
-<AM lemma="zvýšení_^(*3it)" src="auto">NNNS6-----A----</AM>
+<AM lemma="zvýšení_^(*3it)" src="auto" selected="1">NNNS6-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0717-001-p1s2W14-Ta">

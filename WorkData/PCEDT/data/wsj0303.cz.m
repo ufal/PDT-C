@@ -190,7 +190,7 @@
 <form>návrh</form>
 <tag>
 <AM lemma="návrh" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="návrh" src="auto">NNIS4-----A----</AM>
+<AM lemma="návrh" src="auto" selected="1">NNIS4-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0303-001-p1s0W17-Ta">
@@ -1323,7 +1323,7 @@
 <form>pracovníky</form>
 <tag>
 <AM lemma="pracovník" src="auto" recommended="1">NNMP4-----A----</AM>
-<AM lemma="pracovník" src="auto">NNMP7-----A----</AM>
+<AM lemma="pracovník" src="auto" selected="1">NNMP7-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0303-001-p1s4W6-Ta">
@@ -1878,7 +1878,7 @@
 <form>odchýlí</form>
 <tag>
 <AM lemma="odchýlit" src="auto" recommended="1">VB-P---3P-AAP--</AM>
-<AM lemma="odchýlit" src="auto">VB-S---3P-AAP--</AM>
+<AM lemma="odchýlit" src="auto" selected="1">VB-S---3P-AAP--</AM>
 </tag>
 </m>
 <m id="m-wsj0303-001-p1s5W28-Ta">

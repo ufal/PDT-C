@@ -95,7 +95,10 @@
 <LM>w#w-wsj0615-001-p1s0W4</LM>
 </w.rf>
 <form>Istat</form>
-<tag lemma="Istat" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Istat" src="auto">X@-------------</AM>
+<AM lemma="Istat_;K" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj0615-001-p1s0W5-Ta">
 <src.rf>tagger-a</src.rf>
@@ -266,7 +269,7 @@
 <tag>
 <AM lemma="loňský" src="auto" recommended="1">AAFP2----1A----</AM>
 <AM lemma="loňský" src="auto">AAFP6----1A----</AM>
-<AM lemma="loňský" src="auto">AAIP2----1A----</AM>
+<AM lemma="loňský" src="auto" selected="1">AAIP2----1A----</AM>
 <AM lemma="loňský" src="auto">AAIP6----1A----</AM>
 <AM lemma="loňský" src="auto">AAMP2----1A----</AM>
 <AM lemma="loňský" src="auto">AAMP6----1A----</AM>
@@ -293,6 +296,7 @@
 <AM lemma="bilión" src="auto" recommended="1">NNIS2-----A----</AM>
 <AM lemma="bilión" src="auto">NNIS3-----A----</AM>
 <AM lemma="bilión" src="auto">NNIS6-----A----</AM>
+<AM lemma="bilion_,s_^(^DD**bilión)" src="manual" selected="1">NNIS2-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0615-001-p1s0W19-Ta">
@@ -334,6 +338,7 @@
 <AM lemma="bilión" src="auto" recommended="1">NNIS2-----A----</AM>
 <AM lemma="bilión" src="auto">NNIS3-----A----</AM>
 <AM lemma="bilión" src="auto">NNIS6-----A----</AM>
+<AM lemma="bilion_,s_^(^DD**bilión)" src="manual" selected="1">NNIS2-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0615-001-p1s0W23-Ta">
@@ -552,6 +557,7 @@
 <AM lemma="bilión" src="auto" recommended="1">NNIS2-----A----</AM>
 <AM lemma="bilión" src="auto">NNIS3-----A----</AM>
 <AM lemma="bilión" src="auto">NNIS6-----A----</AM>
+<AM lemma="bilion_,s_^(^DD**bilión)" src="manual" selected="1">NNIS2-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0615-001-p1s2W6-Ta">
@@ -761,6 +767,7 @@
 <AM lemma="bilión" src="auto" recommended="1">NNIS2-----A----</AM>
 <AM lemma="bilión" src="auto">NNIS3-----A----</AM>
 <AM lemma="bilión" src="auto">NNIS6-----A----</AM>
+<AM lemma="bilion_,s_^(^DD**bilión)" src="manual" selected="1">NNIS2-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0615-001-p1s2W22-Ta">
@@ -787,7 +794,10 @@
 <LM>w#w-wsj0615-001-p1s3W1</LM>
 </w.rf>
 <form>Istat</form>
-<tag lemma="Istat" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Istat" src="auto">X@-------------</AM>
+<AM lemma="Istat_;K" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj0615-001-p1s3W2-Ta">
 <src.rf>tagger-a</src.rf>
@@ -905,7 +915,7 @@
 <tag>
 <AM lemma="upravený_^(*3it)" src="auto" recommended="1">AAFS1----1A----</AM>
 <AM lemma="upravený_^(*3it)" src="auto">AAFS5----1A----</AM>
-<AM lemma="upravený_^(*3it)" src="auto">AANP1----1A----</AM>
+<AM lemma="upravený_^(*3it)" src="auto" selected="1">AANP1----1A----</AM>
 <AM lemma="upravený_^(*3it)" src="auto">AANP4----1A----</AM>
 <AM lemma="upravený_^(*3it)" src="auto">AANP5----1A----</AM>
 </tag>
@@ -1087,6 +1097,7 @@
 <AM lemma="bilión" src="auto" recommended="1">NNIS2-----A----</AM>
 <AM lemma="bilión" src="auto">NNIS3-----A----</AM>
 <AM lemma="bilión" src="auto">NNIS6-----A----</AM>
+<AM lemma="bilion_,s_^(^DD**bilión)" src="manual" selected="1">NNIS2-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0615-001-p1s4W15-Ta">
@@ -1194,6 +1205,7 @@
 <AM lemma="bilión" src="auto" recommended="1">NNIS2-----A----</AM>
 <AM lemma="bilión" src="auto">NNIS3-----A----</AM>
 <AM lemma="bilión" src="auto">NNIS6-----A----</AM>
+<AM lemma="bilion_,s_^(^DD**bilión)" src="manual" selected="1">NNIS2-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0615-001-p1s4W26-Ta">
@@ -1341,6 +1353,7 @@
 <AM lemma="bilión" src="auto" recommended="1">NNIS2-----A----</AM>
 <AM lemma="bilión" src="auto">NNIS3-----A----</AM>
 <AM lemma="bilión" src="auto">NNIS6-----A----</AM>
+<AM lemma="bilion_,s_^(^DD**bilión)" src="manual" selected="1">NNIS2-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0615-001-p1s5W13-Ta">
@@ -1448,6 +1461,7 @@
 <AM lemma="bilión" src="auto" recommended="1">NNIS2-----A----</AM>
 <AM lemma="bilión" src="auto">NNIS3-----A----</AM>
 <AM lemma="bilión" src="auto">NNIS6-----A----</AM>
+<AM lemma="bilion_,s_^(^DD**bilión)" src="manual" selected="1">NNIS2-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0615-001-p1s5W24-Ta">

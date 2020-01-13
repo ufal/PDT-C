@@ -213,7 +213,7 @@
 </w.rf>
 <form>o</form>
 <tag>
-<AM lemma="o-1" src="auto">RR--4----------</AM>
+<AM lemma="o-1" src="auto" selected="1">RR--4----------</AM>
 <AM lemma="o-1" src="auto" recommended="1">RR--6----------</AM>
 <AM lemma="o-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
 <AM lemma="o-77_,t" src="auto">F%-------------</AM>
@@ -844,6 +844,7 @@
 <AM lemma="Baden_;S" src="auto">NNMS1-----A----</AM>
 <AM lemma="baden_;L_^(geologické_období)" src="auto">NNIS1-----A----</AM>
 <AM lemma="baden_;L_^(geologické_období)" src="auto">NNIS4-----A----</AM>
+<AM lemma="Baden-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj0715-001-p1s2W22-Ta">

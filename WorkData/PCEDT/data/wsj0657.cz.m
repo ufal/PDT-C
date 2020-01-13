@@ -31,6 +31,7 @@
 <AM lemma="Nikon_;K" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Nikon_;K" src="auto">NNIS4-----A----</AM>
 <AM lemma="Nikon_;S" src="auto">NNMS1-----A----</AM>
+<AM lemma="Nikon-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj0657-001-p1s0W3-Ta">
@@ -39,7 +40,10 @@
 <LM>w#w-wsj0657-001-p1s0W3</LM>
 </w.rf>
 <form>Corp</form>
-<tag lemma="corp-77_:B" src="auto" recommended="1">F%-------------</tag>
+<tag>
+<AM lemma="corp-77_:B" src="auto" recommended="1">F%-------------</AM>
+<AM lemma="Corp-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0657-001-p1s0W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -370,7 +374,7 @@
 <tag>
 <AM lemma="loňský" src="auto" recommended="1">AAFP2----1A----</AM>
 <AM lemma="loňský" src="auto">AAFP6----1A----</AM>
-<AM lemma="loňský" src="auto">AAIP2----1A----</AM>
+<AM lemma="loňský" src="auto" selected="1">AAIP2----1A----</AM>
 <AM lemma="loňský" src="auto">AAIP6----1A----</AM>
 <AM lemma="loňský" src="auto">AAMP2----1A----</AM>
 <AM lemma="loňský" src="auto">AAMP6----1A----</AM>
@@ -474,7 +478,7 @@
 </w.rf>
 <form>miliony</form>
 <tag>
-<AM lemma="milion`1000000_,s_^(^DD**milión)" src="auto">NNIP1-----A----</AM>
+<AM lemma="milion`1000000_,s_^(^DD**milión)" src="auto" selected="1">NNIP1-----A----</AM>
 <AM lemma="milion`1000000_,s_^(^DD**milión)" src="auto" recommended="1">NNIP4-----A----</AM>
 <AM lemma="milion`1000000_,s_^(^DD**milión)" src="auto">NNIP5-----A----</AM>
 <AM lemma="milion`1000000_,s_^(^DD**milión)" src="auto">NNIP7-----A----</AM>
@@ -1302,7 +1306,7 @@
 </w.rf>
 <form>pohání</form>
 <tag>
-<AM lemma="pohánět" src="auto">VB-P---3P-AAI-1</AM>
+<AM lemma="pohánět" src="auto" selected="1">VB-P---3P-AAI-1</AM>
 <AM lemma="pohánět" src="auto" recommended="1">VB-S---3P-AAI--</AM>
 </tag>
 </m>
@@ -1323,7 +1327,7 @@
 <AM lemma="zvyšující_^(*5ovat)" src="auto">AGFS5-----A----</AM>
 <AM lemma="zvyšující_^(*5ovat)" src="auto">AGFS6-----A----</AM>
 <AM lemma="zvyšující_^(*5ovat)" src="auto">AGFS7-----A----</AM>
-<AM lemma="zvyšující_^(*5ovat)" src="auto">AGIP1-----A----</AM>
+<AM lemma="zvyšující_^(*5ovat)" src="auto" selected="1">AGIP1-----A----</AM>
 <AM lemma="zvyšující_^(*5ovat)" src="auto">AGIP4-----A----</AM>
 <AM lemma="zvyšující_^(*5ovat)" src="auto">AGIP5-----A----</AM>
 <AM lemma="zvyšující_^(*5ovat)" src="auto" recommended="1">AGIS1-----A----</AM>
@@ -1542,7 +1546,7 @@
 </w.rf>
 <form>růst</form>
 <tag>
-<AM lemma="růst-1" src="auto">NNIS1-----A----</AM>
+<AM lemma="růst-1" src="auto" selected="1">NNIS1-----A----</AM>
 <AM lemma="růst-1" src="auto" recommended="1">NNIS4-----A----</AM>
 <AM lemma="růst-2" src="auto">Vf--------A-I--</AM>
 </tag>

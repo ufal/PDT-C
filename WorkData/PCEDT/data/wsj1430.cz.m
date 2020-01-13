@@ -113,7 +113,7 @@
 <AM lemma="restriktivní" src="auto">AAIP4----1A----</AM>
 <AM lemma="restriktivní" src="auto">AAIP5----1A----</AM>
 <AM lemma="restriktivní" src="auto" recommended="1">AAIS1----1A----</AM>
-<AM lemma="restriktivní" src="auto">AAIS4----1A----</AM>
+<AM lemma="restriktivní" src="auto" selected="1">AAIS4----1A----</AM>
 <AM lemma="restriktivní" src="auto">AAIS5----1A----</AM>
 <AM lemma="restriktivní" src="auto">AAMP1----1A----</AM>
 <AM lemma="restriktivní" src="auto">AAMP4----1A----</AM>
@@ -136,7 +136,7 @@
 <form>zákon</form>
 <tag>
 <AM lemma="zákon" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="zákon" src="auto">NNIS4-----A----</AM>
+<AM lemma="zákon" src="auto" selected="1">NNIS4-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1430-001-p1s0W7-Ta">
@@ -241,7 +241,10 @@
 <LM>w#w-wsj1430-001-p1s0W16</LM>
 </w.rf>
 <form>vs</form>
-<tag lemma="versus_:B_,t" src="auto" recommended="1">RR--1---------8</tag>
+<tag>
+<AM lemma="versus_:B_,t" src="auto" recommended="1">RR--1---------8</AM>
+<AM lemma="versus" src="manual" selected="1">RR--1---------8</AM>
+</tag>
 </m>
 <m id="m-wsj1430-001-p1s0W17-Ta">
 <src.rf>tagger-a</src.rf>
@@ -258,7 +261,7 @@
 </w.rf>
 <form>Služby</form>
 <tag>
-<AM lemma="služba" src="auto">NNFP1-----A----</AM>
+<AM lemma="služba" src="auto" selected="1">NNFP1-----A----</AM>
 <AM lemma="služba" src="auto">NNFP4-----A----</AM>
 <AM lemma="služba" src="auto">NNFP5-----A----</AM>
 <AM lemma="služba" src="auto" recommended="1">NNFS2-----A----</AM>

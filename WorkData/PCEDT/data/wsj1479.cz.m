@@ -27,7 +27,10 @@
 <LM>w#w-wsj1479-001-p1s0W2</LM>
 </w.rf>
 <form>Arizona</form>
-<tag lemma="Arizona_;G" src="auto" recommended="1">NNFS1-----A----</tag>
+<tag>
+<AM lemma="Arizona_;G" src="auto" recommended="1">NNFS1-----A----</AM>
+<AM lemma="Arizona-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1479-001-p1s0W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -38,6 +41,7 @@
 <tag>
 <AM lemma="instrument" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="instrument" src="auto">NNIS4-----A----</AM>
+<AM lemma="Instrument-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1479-001-p1s0W4-Ta">
@@ -46,7 +50,10 @@
 <LM>w#w-wsj1479-001-p1s0W4</LM>
 </w.rf>
 <form>Corp</form>
-<tag lemma="corp-77_:B" src="auto" recommended="1">F%-------------</tag>
+<tag>
+<AM lemma="corp-77_:B" src="auto" recommended="1">F%-------------</AM>
+<AM lemma="Corp-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1479-001-p1s0W5-Ta">
 <src.rf>tagger-a</src.rf>
@@ -647,6 +654,7 @@
 <tag>
 <AM lemma="tempus" src="auto">NNIS5-----A----</AM>
 <AM lemma="tempe_,t_^(pokrm)" src="auto" recommended="1">NNNXX-----A----</AM>
+<AM lemma="Tempe_;G" src="manual" selected="1">NNNXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1479-001-p1s1W9-Ta">
@@ -782,7 +790,7 @@
 <AM lemma="problém" src="auto" recommended="1">NNIP1-----A----</AM>
 <AM lemma="problém" src="auto">NNIP4-----A----</AM>
 <AM lemma="problém" src="auto">NNIP5-----A----</AM>
-<AM lemma="problém" src="auto">NNIP7-----A----</AM>
+<AM lemma="problém" src="auto" selected="1">NNIP7-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1479-001-p1s1W19-Ta">
@@ -834,7 +842,7 @@
 <tag>
 <AM lemma="nový" src="auto" recommended="1">AAFP2----3A----</AM>
 <AM lemma="nový" src="auto">AAFP6----3A----</AM>
-<AM lemma="nový" src="auto">AAIP2----3A----</AM>
+<AM lemma="nový" src="auto" selected="1">AAIP2----3A----</AM>
 <AM lemma="nový" src="auto">AAIP6----3A----</AM>
 <AM lemma="nový" src="auto">AAMP2----3A----</AM>
 <AM lemma="nový" src="auto">AAMP6----3A----</AM>

@@ -262,7 +262,7 @@
 <form>Tyto</form>
 <tag>
 <AM lemma="tento" src="auto" recommended="1">PDFP1----------</AM>
-<AM lemma="tento" src="auto">PDFP4----------</AM>
+<AM lemma="tento" src="auto" selected="1">PDFP4----------</AM>
 <AM lemma="tento" src="auto">PDIP1----------</AM>
 <AM lemma="tento" src="auto">PDIP4----------</AM>
 <AM lemma="tento" src="auto">PDMP4----------</AM>
@@ -276,7 +276,7 @@
 <form>společnosti</form>
 <tag>
 <AM lemma="společnost_^(*3ý)" src="auto" recommended="1">NNFP1-----A----</AM>
-<AM lemma="společnost_^(*3ý)" src="auto">NNFP4-----A----</AM>
+<AM lemma="společnost_^(*3ý)" src="auto" selected="1">NNFP4-----A----</AM>
 <AM lemma="společnost_^(*3ý)" src="auto">NNFP5-----A----</AM>
 <AM lemma="společnost_^(*3ý)" src="auto">NNFS2-----A----</AM>
 <AM lemma="společnost_^(*3ý)" src="auto">NNFS3-----A----</AM>
@@ -707,7 +707,15 @@
 <LM>w#w-wsj0364-001-p1s3W7</LM>
 </w.rf>
 <form>30denním</form>
-<tag lemma="30denním" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="30denním" src="auto">X@-------------</AM>
+<AM lemma="30denní" src="manual" selected="1">AAIS7----1A----</AM>
+</tag>
+<comment>
+<LM type="Other">
+<text>špatná tokenizace</text>
+</LM>
+</comment>
 </m>
 <m id="m-wsj0364-001-p1s3W8-Ta">
 <src.rf>tagger-a</src.rf>
@@ -754,7 +762,7 @@
 </w.rf>
 <form>tři</form>
 <tag>
-<AM lemma="tři`3" src="auto">ClXP1----------</AM>
+<AM lemma="tři`3" src="auto" selected="1">ClXP1----------</AM>
 <AM lemma="tři`3" src="auto" recommended="1">ClXP4----------</AM>
 <AM lemma="tři`3" src="auto">ClXP5----------</AM>
 <AM lemma="třít" src="auto">Vi-S---2--A-I--</AM>
@@ -990,7 +998,15 @@
 <LM>w#w-wsj0364-001-p1s4W8</LM>
 </w.rf>
 <form>300denním</form>
-<tag lemma="300denním" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="300denním" src="auto">X@-------------</AM>
+<AM lemma="300denní" src="manual" selected="1">AAIS7----1A----</AM>
+</tag>
+<comment>
+<LM type="Other">
+<text>špatná tokenizace</text>
+</LM>
+</comment>
 </m>
 <m id="m-wsj0364-001-p1s4W9-Ta">
 <src.rf>tagger-a</src.rf>

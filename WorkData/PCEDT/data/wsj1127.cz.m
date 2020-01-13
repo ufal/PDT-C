@@ -146,6 +146,7 @@
 <AM lemma="Maxwell_;K" src="auto">NNIS1-----A----</AM>
 <AM lemma="Maxwell_;K" src="auto">NNIS4-----A----</AM>
 <AM lemma="Maxwell_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Maxwell-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1127-001-p1s0W12-Ta">
@@ -154,7 +155,10 @@
 <LM>w#w-wsj1127-001-p1s0W12</LM>
 </w.rf>
 <form>Macmillan</form>
-<tag lemma="Macmillan_;S" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Macmillan_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Macmillan-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1127-001-p1s0W13-Ta">
 <src.rf>tagger-a</src.rf>
@@ -477,6 +481,7 @@
 <AM lemma="Sheldon_;G" src="auto">NNIS1-----A----</AM>
 <AM lemma="Sheldon_;G" src="auto">NNIS4-----A----</AM>
 <AM lemma="Sheldon_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Sheldon_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1127-001-p1s3W2-Ta">
@@ -485,7 +490,10 @@
 <LM>w#w-wsj1127-001-p1s3W2</LM>
 </w.rf>
 <form>Aboff</form>
-<tag lemma="Aboff" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Aboff" src="auto">X@-------------</AM>
+<AM lemma="Aboff_;S" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj1127-001-p1s3W3-Ta">
 <src.rf>tagger-a</src.rf>

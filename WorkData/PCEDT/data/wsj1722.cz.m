@@ -17,7 +17,7 @@
 </w.rf>
 <form>Společnosti</form>
 <tag>
-<AM lemma="společnost_^(*3ý)" src="auto">NNFP1-----A----</AM>
+<AM lemma="společnost_^(*3ý)" src="auto" selected="1">NNFP1-----A----</AM>
 <AM lemma="společnost_^(*3ý)" src="auto">NNFP4-----A----</AM>
 <AM lemma="společnost_^(*3ý)" src="auto">NNFP5-----A----</AM>
 <AM lemma="společnost_^(*3ý)" src="auto">NNFS2-----A----</AM>
@@ -47,6 +47,7 @@
 <tag>
 <AM lemma="business_,t" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="business_,t" src="auto">NNIS4-----A----</AM>
+<AM lemma="Business-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1722-001-p1s0W4-Ta">
@@ -55,7 +56,10 @@
 <LM>w#w-wsj1722-001-p1s0W4</LM>
 </w.rf>
 <form>Machines</form>
-<tag lemma="Machines" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Machines" src="auto">X@-------------</AM>
+<AM lemma="Machines-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1722-001-p1s0W5-Ta">
 <src.rf>tagger-a</src.rf>
@@ -63,7 +67,10 @@
 <LM>w#w-wsj1722-001-p1s0W5</LM>
 </w.rf>
 <form>Corp</form>
-<tag lemma="corp-77_:B" src="auto" recommended="1">F%-------------</tag>
+<tag>
+<AM lemma="corp-77_:B" src="auto" recommended="1">F%-------------</AM>
+<AM lemma="Corp-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1722-001-p1s0W6-Ta">
 <src.rf>tagger-a</src.rf>
@@ -104,6 +111,7 @@
 <tag>
 <AM lemma="Inc-77_:B" src="auto" recommended="1">F%-------------</AM>
 <AM lemma="inc-77_:B" src="auto">F%-------------</AM>
+<AM lemma="Inc-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1722-001-p1s0W10-Ta">
@@ -229,7 +237,10 @@
 <LM>w#w-wsj1722-001-p1s0W21</LM>
 </w.rf>
 <form>Discovision</form>
-<tag lemma="Discovision" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Discovision" src="auto">X@-------------</AM>
+<AM lemma="Discovision-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1722-001-p1s0W22-Ta">
 <src.rf>tagger-a</src.rf>
@@ -237,7 +248,10 @@
 <LM>w#w-wsj1722-001-p1s0W22</LM>
 </w.rf>
 <form>Associates</form>
-<tag lemma="Associates" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Associates" src="auto">X@-------------</AM>
+<AM lemma="Associates-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1722-001-p1s0W23-Ta">
 <src.rf>tagger-a</src.rf>
@@ -291,6 +305,7 @@
 <tag>
 <AM lemma="Pioneer_;K" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Pioneer_;K" src="auto">NNIS4-----A----</AM>
+<AM lemma="Pioneer-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1722-001-p1s0W27-Ta">
@@ -299,7 +314,10 @@
 <LM>w#w-wsj1722-001-p1s0W27</LM>
 </w.rf>
 <form>Electronic</form>
-<tag lemma="Electronic" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Electronic" src="auto">X@-------------</AM>
+<AM lemma="Electronic-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1722-001-p1s0W28-Ta">
 <src.rf>tagger-a</src.rf>
@@ -307,7 +325,10 @@
 <LM>w#w-wsj1722-001-p1s0W28</LM>
 </w.rf>
 <form>Corp</form>
-<tag lemma="corp-77_:B" src="auto" recommended="1">F%-------------</tag>
+<tag>
+<AM lemma="corp-77_:B" src="auto" recommended="1">F%-------------</AM>
+<AM lemma="Corp-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1722-001-p1s0W29-Ta">
 <src.rf>tagger-a</src.rf>
@@ -511,7 +532,7 @@
 </w.rf>
 <form>týkajících</form>
 <tag>
-<AM lemma="týkající_^(*4t)" src="auto">AGFP2-----A----</AM>
+<AM lemma="týkající_^(*4t)" src="auto" selected="1">AGFP2-----A----</AM>
 <AM lemma="týkající_^(*4t)" src="auto">AGFP6-----A----</AM>
 <AM lemma="týkající_^(*4t)" src="auto" recommended="1">AGIP2-----A----</AM>
 <AM lemma="týkající_^(*4t)" src="auto">AGIP6-----A----</AM>
@@ -684,7 +705,10 @@
 <LM>w#w-wsj1722-001-p1s2W7</LM>
 </w.rf>
 <form>Discovision</form>
-<tag lemma="Discovision" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Discovision" src="auto">X@-------------</AM>
+<AM lemma="Discovision_;K" src="manual" selected="1">NNNS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj1722-001-p1s2W8-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1040,7 +1064,7 @@
 <AM lemma="co-1" src="auto">PQ--1----------</AM>
 <AM lemma="co-1" src="auto" recommended="1">PQ--4----------</AM>
 <AM lemma="co-2_^(cože;_ale_co)" src="auto">TT-------------</AM>
-<AM lemma="co-3_^(když:_poté/od_té_doby,_co)" src="auto">J,-------------</AM>
+<AM lemma="co-3_^(když:_poté/od_té_doby,_co)" src="auto" selected="1">J,-------------</AM>
 <AM lemma="co-4_^(který:_př.:_o_těch,_co_odešli/co_je_znal)" src="auto">P4XXX----------</AM>
 <AM lemma="co-5_^(př._co_nejméně,_co_nevidět,_co_chvíli,_co_do_počtu,_atd.)" src="auto">Db-------------</AM>
 <AM lemma="co-77_:B" src="auto">F%-------------</AM>
@@ -1053,6 +1077,11 @@
 </w.rf>
 <form>,</form>
 <tag lemma="," src="auto" recommended="1">Z:-------------</tag>
+<comment>
+<LM type="Other">
+<text>špatné umístění čárky, měla by být před slovem "co"</text>
+</LM>
+</comment>
 </m>
 <m id="m-wsj1722-001-p1s4W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1145,7 +1174,10 @@
 <LM>w#w-wsj1722-001-p1s4W13</LM>
 </w.rf>
 <form>Discovision</form>
-<tag lemma="Discovision" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Discovision" src="auto">X@-------------</AM>
+<AM lemma="Discovision_;K" src="manual" selected="1">NNNS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj1722-001-p1s4W14-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1313,7 +1345,7 @@
 <AM lemma="společnost_^(*3ý)" src="auto">NNFP4-----A----</AM>
 <AM lemma="společnost_^(*3ý)" src="auto">NNFP5-----A----</AM>
 <AM lemma="společnost_^(*3ý)" src="auto" recommended="1">NNFS2-----A----</AM>
-<AM lemma="společnost_^(*3ý)" src="auto">NNFS3-----A----</AM>
+<AM lemma="společnost_^(*3ý)" src="auto" selected="1">NNFS3-----A----</AM>
 <AM lemma="společnost_^(*3ý)" src="auto">NNFS5-----A----</AM>
 <AM lemma="společnost_^(*3ý)" src="auto">NNFS6-----A----</AM>
 </tag>
@@ -1390,7 +1422,10 @@
 <LM>w#w-wsj1722-001-p1s5W1</LM>
 </w.rf>
 <form>Discovision</form>
-<tag lemma="Discovision" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Discovision" src="auto">X@-------------</AM>
+<AM lemma="Discovision_;K" src="manual" selected="1">NNNS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj1722-001-p1s5W2-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2002,7 +2037,10 @@
 <LM>w#w-wsj1722-001-p1s7W8</LM>
 </w.rf>
 <form>Discovision</form>
-<tag lemma="Discovision" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Discovision" src="auto">X@-------------</AM>
+<AM lemma="Discovision_;K" src="manual" selected="1">NNNS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj1722-001-p1s7W9-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2349,7 +2387,10 @@
 <LM>w#w-wsj1722-001-p1s7W38</LM>
 </w.rf>
 <form>Discovision</form>
-<tag lemma="Discovision" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Discovision" src="auto">X@-------------</AM>
+<AM lemma="Discovision_;K" src="manual" selected="1">NNNS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj1722-001-p1s7W39-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2469,7 +2510,7 @@
 <form>společností</form>
 <tag>
 <AM lemma="společnost_^(*3ý)" src="auto" recommended="1">NNFP2-----A----</AM>
-<AM lemma="společnost_^(*3ý)" src="auto">NNFS7-----A----</AM>
+<AM lemma="společnost_^(*3ý)" src="auto" selected="1">NNFS7-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1722-001-p1s8W11-Ta">
@@ -2559,7 +2600,10 @@
 <LM>w#w-wsj1722-001-p1s8W16</LM>
 </w.rf>
 <form>Discovision</form>
-<tag lemma="Discovision" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Discovision" src="auto">X@-------------</AM>
+<AM lemma="Discovision_;K" src="manual" selected="1">NNNS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj1722-001-p1s8W17-Ta">
 <src.rf>tagger-a</src.rf>

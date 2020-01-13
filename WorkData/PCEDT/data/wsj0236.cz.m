@@ -37,6 +37,7 @@
 <AM lemma="Martin_^(*2a)" src="auto">AUMS1F---------</AM>
 <AM lemma="Martin_^(*2a)" src="auto">AUMS5F---------</AM>
 <AM lemma="Martina_;Y" src="auto">NNFP2-----A----</AM>
+<AM lemma="Martin-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj0236-001-p1s0W3-Ta">
@@ -45,7 +46,10 @@
 <LM>w#w-wsj0236-001-p1s0W3</LM>
 </w.rf>
 <form>Marietta</form>
-<tag lemma="Marietta_;Y" src="auto" recommended="1">NNFS1-----A----</tag>
+<tag>
+<AM lemma="Marietta_;Y" src="auto" recommended="1">NNFS1-----A----</AM>
+<AM lemma="Marietta-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0236-001-p1s0W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -53,7 +57,10 @@
 <LM>w#w-wsj0236-001-p1s0W4</LM>
 </w.rf>
 <form>Corp</form>
-<tag lemma="corp-77_:B" src="auto" recommended="1">F%-------------</tag>
+<tag>
+<AM lemma="corp-77_:B" src="auto" recommended="1">F%-------------</AM>
+<AM lemma="Corp-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0236-001-p1s0W5-Ta">
 <src.rf>tagger-a</src.rf>
@@ -367,6 +374,7 @@
 <AM lemma="Martin_^(*2a)" src="auto">AUMS1F---------</AM>
 <AM lemma="Martin_^(*2a)" src="auto">AUMS5F---------</AM>
 <AM lemma="Martina_;Y" src="auto">NNFP2-----A----</AM>
+<AM lemma="Martin-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj0236-001-p1s1W3-Ta">
@@ -375,7 +383,10 @@
 <LM>w#w-wsj0236-001-p1s1W3</LM>
 </w.rf>
 <form>Marietta</form>
-<tag lemma="Marietta_;Y" src="auto" recommended="1">NNFS1-----A----</tag>
+<tag>
+<AM lemma="Marietta_;Y" src="auto" recommended="1">NNFS1-----A----</AM>
+<AM lemma="Marietta-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0236-001-p1s1W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -538,7 +549,7 @@
 <form>na</form>
 <tag>
 <AM lemma="na-1" src="auto" recommended="1">RR--4----------</AM>
-<AM lemma="na-1" src="auto">RR--6----------</AM>
+<AM lemma="na-1" src="auto" selected="1">RR--6----------</AM>
 <AM lemma="na-2" src="auto">II-------------</AM>
 </tag>
 </m>

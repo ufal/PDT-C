@@ -1002,7 +1002,10 @@
 <LM>w#w-wsj2029-001-p1s3W21</LM>
 </w.rf>
 <form>Levamisolem</form>
-<tag lemma="levamisol_;U" src="auto" recommended="1">NNIS7-----A----</tag>
+<tag>
+<AM lemma="levamisol_;U" src="auto" recommended="1">NNIS7-----A----</AM>
+<AM lemma="Levamisole_;R_;U" src="manual" selected="1">NNIS7-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj2029-001-p1s3W22-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1040,7 +1043,10 @@
 <LM>w#w-wsj2029-001-p1s3W25</LM>
 </w.rf>
 <form>fluorouracilem</form>
-<tag lemma="fluorouracil" src="auto" recommended="1">NNIS7-----A----</tag>
+<tag>
+<AM lemma="fluorouracil" src="auto" recommended="1">NNIS7-----A----</AM>
+<AM lemma="fluorouracil_;U" src="manual" selected="1">NNIS7-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj2029-001-p1s3W26-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1769,7 +1775,7 @@
 <form>Má</form>
 <tag>
 <AM lemma="mít" src="auto" recommended="1">VB-S---3P-AAI--</AM>
-<AM lemma="můj_^(má_kniha;_přivlast.)" src="auto">PSFS1-S1------1</AM>
+<AM lemma="můj_^(má_kniha;_přivlast.)" src="auto" selected="1">PSFS1-S1------1</AM>
 <AM lemma="můj_^(má_kniha;_přivlast.)" src="auto">PSFS5-S1------1</AM>
 <AM lemma="můj_^(má_kniha;_přivlast.)" src="auto">PSNP1-S1------1</AM>
 <AM lemma="můj_^(má_kniha;_přivlast.)" src="auto">PSNP4-S1------1</AM>
@@ -1783,7 +1789,7 @@
 </w.rf>
 <form>výpověď</form>
 <tag>
-<AM lemma="výpověď" src="auto">NNFS1-----A----</AM>
+<AM lemma="výpověď" src="auto" selected="1">NNFS1-----A----</AM>
 <AM lemma="výpověď" src="auto" recommended="1">NNFS4-----A----</AM>
 </tag>
 </m>
@@ -3170,7 +3176,10 @@
 <LM>w#w-wsj2029-001-p1s11W12</LM>
 </w.rf>
 <form>Levamisole</form>
-<tag lemma="levamisol_;U" src="auto" recommended="1">NNIS5-----A----</tag>
+<tag>
+<AM lemma="levamisol_;U" src="auto" recommended="1">NNIS5-----A----</AM>
+<AM lemma="Levamisole_;R_;U" src="manual" selected="1">NNIS4-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj2029-001-p1s11W13-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3211,6 +3220,7 @@
 <tag>
 <AM lemma="fluorouracil" src="auto">NNIS1-----A----</AM>
 <AM lemma="fluorouracil" src="auto" recommended="1">NNIS4-----A----</AM>
+<AM lemma="fluorouracil_;U" src="manual" selected="1">NNIS4-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2029-001-p1s11W17-Ta">
@@ -3292,7 +3302,10 @@
 <LM>w#w-wsj2029-001-p1s12W4</LM>
 </w.rf>
 <form>Moertel</form>
-<tag lemma="Moertel" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Moertel" src="auto">X@-------------</AM>
+<AM lemma="Moertel_;S" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj2029-001-p1s12W5-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3353,6 +3366,7 @@
 <AM lemma="Mayo_;G" src="auto" recommended="1">NNNS1-----A----</AM>
 <AM lemma="Mayo_;G" src="auto">NNNS4-----A----</AM>
 <AM lemma="Mayo_;G" src="auto">NNNS5-----A----</AM>
+<AM lemma="Mayo-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj2029-001-p1s12W10-Ta">
@@ -3361,7 +3375,10 @@
 <LM>w#w-wsj2029-001-p1s12W10</LM>
 </w.rf>
 <form>Clinic</form>
-<tag lemma="Clinic" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Clinic" src="auto">X@-------------</AM>
+<AM lemma="Clinic-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj2029-001-p1s12W11-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3373,6 +3390,7 @@
 <AM lemma="Rochester_;G" src="auto">NNIS1-----A----</AM>
 <AM lemma="Rochester_;G" src="auto">NNIS4-----A----</AM>
 <AM lemma="Rochester_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Rochester-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj2029-001-p1s12W12-Ta">

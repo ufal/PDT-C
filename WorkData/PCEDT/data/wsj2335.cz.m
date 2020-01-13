@@ -18,7 +18,7 @@
 <form>Alan</form>
 <tag>
 <AM lemma="Alan_;G_^(Alan-Jurjach)" src="auto">A2--------A----</AM>
-<AM lemma="Alan_;Y" src="auto">NNMS1-----A----</AM>
+<AM lemma="Alan_;Y" src="auto" selected="1">NNMS1-----A----</AM>
 <AM lemma="Alana_;Y" src="auto">NNFP2-----A----</AM>
 <AM lemma="alan" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="alan" src="auto">NNIS4-----A----</AM>
@@ -30,7 +30,10 @@
 <LM>w#w-wsj2335-001-p1s0W2</LM>
 </w.rf>
 <form>Seelenfreund</form>
-<tag lemma="Seelenfreund" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Seelenfreund" src="auto">X@-------------</AM>
+<AM lemma="Seelenfreund_;S" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj2335-001-p1s0W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -257,7 +260,7 @@
 <tag>
 <AM lemma="taka-1_;L" src="auto">NNFP2-----A----</AM>
 <AM lemma="tak-1" src="auto">TT-------------</AM>
-<AM lemma="tak-2" src="auto">J^-------------</AM>
+<AM lemma="tak-2" src="auto" selected="1">J^-------------</AM>
 <AM lemma="tak-3" src="auto" recommended="1">Db-------------</AM>
 </tag>
 </m>
@@ -273,6 +276,11 @@
 <AM lemma="55letý" src="auto" recommended="1">AAMS4----1A----</AM>
 <AM lemma="55letý" src="auto">AANS2----1A----</AM>
 </tag>
+<comment>
+<LM type="Other">
+<text>špatná tokenizace</text>
+</LM>
+</comment>
 </m>
 <m id="m-wsj2335-001-p1s0W24-Ta">
 <src.rf>tagger-a</src.rf>
@@ -284,6 +292,7 @@
 <AM lemma="Thomas_;S" src="auto">NNMP4-----A----</AM>
 <AM lemma="Thomas_;S" src="auto">NNMS2-----A----</AM>
 <AM lemma="Thomas_;S" src="auto" recommended="1">NNMS4-----A----</AM>
+<AM lemma="Thomas_;S_;Y" src="manual" selected="1">NNMS4-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2335-001-p1s0W25-Ta">
@@ -316,7 +325,7 @@
 <form>Fielda</form>
 <tag>
 <AM lemma="Field_;S" src="auto" recommended="1">NNMS2-----A----</AM>
-<AM lemma="Field_;S" src="auto">NNMS4-----A----</AM>
+<AM lemma="Field_;S" src="auto" selected="1">NNMS4-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2335-001-p1s0W28-Ta">
@@ -328,6 +337,7 @@
 <tag>
 <AM lemma="mililitr" src="auto">NNIXX-----A---8</AM>
 <AM lemma="mladý_:B" src="auto" recommended="1">AAXXX----2A---8</AM>
+<AM lemma="mladý" src="manual" selected="1">AAXXX----2A---b</AM>
 </tag>
 </m>
 <m id="m-wsj2335-001-p1s0W29-Ta">
@@ -476,7 +486,10 @@
 <LM>w#w-wsj2335-001-p1s1W6</LM>
 </w.rf>
 <form>McKesson</form>
-<tag lemma="McKesson_;S" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="McKesson_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="McKesson-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj2335-001-p1s1W7-Ta">
 <src.rf>tagger-a</src.rf>
@@ -484,7 +497,10 @@
 <LM>w#w-wsj2335-001-p1s1W7</LM>
 </w.rf>
 <form>Corp</form>
-<tag lemma="corp-77_:B" src="auto" recommended="1">F%-------------</tag>
+<tag>
+<AM lemma="corp-77_:B" src="auto" recommended="1">F%-------------</AM>
+<AM lemma="Corp-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj2335-001-p1s1W8-Ta">
 <src.rf>tagger-a</src.rf>
@@ -616,7 +632,7 @@
 </w.rf>
 <form>o</form>
 <tag>
-<AM lemma="o-1" src="auto">RR--4----------</AM>
+<AM lemma="o-1" src="auto" selected="1">RR--4----------</AM>
 <AM lemma="o-1" src="auto" recommended="1">RR--6----------</AM>
 <AM lemma="o-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
 <AM lemma="o-77_,t" src="auto">F%-------------</AM>
@@ -632,7 +648,7 @@
 <form>strategii</form>
 <tag>
 <AM lemma="strategie" src="auto">NNFS3-----A----</AM>
-<AM lemma="strategie" src="auto">NNFS4-----A----</AM>
+<AM lemma="strategie" src="auto" selected="1">NNFS4-----A----</AM>
 <AM lemma="strategie" src="auto" recommended="1">NNFS6-----A----</AM>
 </tag>
 </m>
@@ -665,7 +681,10 @@
 <LM>w#w-wsj2335-001-p1s2W1</LM>
 </w.rf>
 <form>Seelenfreund</form>
-<tag lemma="Seelenfreund" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Seelenfreund" src="auto">X@-------------</AM>
+<AM lemma="Seelenfreund_;S" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj2335-001-p1s2W2-Ta">
 <src.rf>tagger-a</src.rf>
@@ -859,7 +878,7 @@
 <form>i</form>
 <tag>
 <AM lemma="i-1" src="auto" recommended="1">J^-------------</AM>
-<AM lemma="i-2" src="auto">TT-------------</AM>
+<AM lemma="i-2" src="auto" selected="1">TT-------------</AM>
 <AM lemma="i-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
 <AM lemma="i-88_:B" src="auto">NNXXX-----A----</AM>
 </tag>
@@ -932,6 +951,11 @@
 <AM lemma="57letý" src="auto" recommended="1">AAMS4----1A----</AM>
 <AM lemma="57letý" src="auto">AANS2----1A----</AM>
 </tag>
+<comment>
+<LM type="Other">
+<text>špatná tokenizace</text>
+</LM>
+</comment>
 </m>
 <m id="m-wsj2335-001-p1s3W5-Ta">
 <src.rf>tagger-a</src.rf>
@@ -944,6 +968,7 @@
 <AM lemma="Rex_;S" src="auto">NNMS2-----A----</AM>
 <AM lemma="Rex_;S" src="auto" recommended="1">NNMS4-----A----</AM>
 <AM lemma="rex" src="auto">NNIS5-----A----</AM>
+<AM lemma="Rex_;S_;Y" src="manual" selected="1">NNMS4-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2335-001-p1s3W6-Ta">
@@ -974,7 +999,10 @@
 <LM>w#w-wsj2335-001-p1s3W8</LM>
 </w.rf>
 <form>Malsona</form>
-<tag lemma="Malsona" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Malsona" src="auto">X@-------------</AM>
+<AM lemma="Malson_;S" src="manual" selected="1">NNMS4-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj2335-001-p1s3W9-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1166,7 +1194,10 @@
 <LM>w#w-wsj2335-001-p1s4W2</LM>
 </w.rf>
 <form>Malson</form>
-<tag lemma="Malson" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Malson" src="auto">X@-------------</AM>
+<AM lemma="Malson_;S" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj2335-001-p1s4W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1188,7 +1219,10 @@
 <LM>w#w-wsj2335-001-p1s4W4</LM>
 </w.rf>
 <form>Seelenfreund</form>
-<tag lemma="Seelenfreund" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Seelenfreund" src="auto">X@-------------</AM>
+<AM lemma="Seelenfreund_;S" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj2335-001-p1s4W5-Ta">
 <src.rf>tagger-a</src.rf>

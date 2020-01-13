@@ -32,6 +32,7 @@
 <AM lemma="Whirlpool_;K" src="auto">NNIS4-----A----</AM>
 <AM lemma="whirlpool_^(výřivka)" src="auto">NNIS1-----A----</AM>
 <AM lemma="whirlpool_^(výřivka)" src="auto">NNIS4-----A----</AM>
+<AM lemma="Whirlpool-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj2269-001-p1s1W3-Ta">
@@ -40,7 +41,10 @@
 <LM>w#w-wsj2269-001-p1s1W3</LM>
 </w.rf>
 <form>Corp</form>
-<tag lemma="corp-77_:B" src="auto" recommended="1">F%-------------</tag>
+<tag>
+<AM lemma="corp-77_:B" src="auto" recommended="1">F%-------------</AM>
+<AM lemma="Corp-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj2269-001-p1s1W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -72,6 +76,7 @@
 <AM lemma="Benton_;G" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Benton_;G" src="auto">NNIS4-----A----</AM>
 <AM lemma="Benton_;S" src="auto">NNMS1-----A----</AM>
+<AM lemma="Benton-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj2269-001-p1s1W7-Ta">
@@ -83,6 +88,7 @@
 <tag>
 <AM lemma="Harbor_;G_^(součást_názvu_např._Pearl_Harbor)" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Harbor_;G_^(součást_názvu_např._Pearl_Harbor)" src="auto">NNIS4-----A----</AM>
+<AM lemma="Harbor-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj2269-001-p1s1W8-Ta">
@@ -187,7 +193,10 @@
 <LM>w#w-wsj2269-001-p1s1W17</LM>
 </w.rf>
 <form>chlorofluorocarbonáty</form>
-<tag lemma="chlorofluorocarbonáty" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="chlorofluorocarbonáty" src="auto">X@-------------</AM>
+<AM lemma="chlorofluorocarbonát" src="manual" selected="1">NNIP4-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj2269-001-p1s1W18-Ta">
 <src.rf>tagger-a</src.rf>
@@ -392,7 +401,7 @@
 <AM lemma="který" src="auto">P4FS2----------</AM>
 <AM lemma="který" src="auto">P4FS3----------</AM>
 <AM lemma="který" src="auto">P4FS6----------</AM>
-<AM lemma="který" src="auto">P4IP1----------</AM>
+<AM lemma="který" src="auto" selected="1">P4IP1----------</AM>
 <AM lemma="který" src="auto">P4NP1---------6</AM>
 <AM lemma="který" src="auto">P4NP4---------6</AM>
 <AM lemma="který" src="auto" recommended="1">P4NS1----------</AM>
@@ -1435,7 +1444,7 @@
 </w.rf>
 <form>chladicí</form>
 <tag>
-<AM lemma="chladicí" src="auto">AAFP1----1A----</AM>
+<AM lemma="chladicí" src="auto" selected="1">AAFP1----1A----</AM>
 <AM lemma="chladicí" src="auto">AAFP4----1A----</AM>
 <AM lemma="chladicí" src="auto">AAFP5----1A----</AM>
 <AM lemma="chladicí" src="auto">AAFS1----1A----</AM>
@@ -1485,6 +1494,11 @@
 </w.rf>
 <form>ohen</form>
 <tag lemma="ohen" src="auto">X@-------------</tag>
+<comment>
+<LM type="New Form">
+<text>oheň</text>
+</LM>
+</comment>
 </m>
 <m id="m-wsj2269-001-p1s4W11-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1493,7 +1507,7 @@
 </w.rf>
 <form>tlumící</form>
 <tag>
-<AM lemma="tlumící_^(*3it)" src="auto">AGFP1-----A----</AM>
+<AM lemma="tlumící_^(*3it)" src="auto" selected="1">AGFP1-----A----</AM>
 <AM lemma="tlumící_^(*3it)" src="auto">AGFP4-----A----</AM>
 <AM lemma="tlumící_^(*3it)" src="auto">AGFP5-----A----</AM>
 <AM lemma="tlumící_^(*3it)" src="auto">AGFS1-----A----</AM>
@@ -1529,7 +1543,7 @@
 </w.rf>
 <form>látky</form>
 <tag>
-<AM lemma="látka" src="auto">NNFP1-----A----</AM>
+<AM lemma="látka" src="auto" selected="1">NNFP1-----A----</AM>
 <AM lemma="látka" src="auto">NNFP4-----A----</AM>
 <AM lemma="látka" src="auto">NNFP5-----A----</AM>
 <AM lemma="látka" src="auto" recommended="1">NNFS2-----A----</AM>

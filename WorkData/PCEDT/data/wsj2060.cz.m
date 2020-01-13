@@ -30,6 +30,7 @@
 <tag>
 <AM lemma="Corning_;G" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Corning_;G" src="auto">NNIS4-----A----</AM>
+<AM lemma="Corning-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj2060-001-p1s0W3-Ta">
@@ -41,6 +42,7 @@
 <tag>
 <AM lemma="Inc-77_:B" src="auto" recommended="1">F%-------------</AM>
 <AM lemma="inc-77_:B" src="auto">F%-------------</AM>
+<AM lemma="Inc-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj2060-001-p1s0W4-Ta">
@@ -203,7 +205,7 @@
 <tag>
 <AM lemma="loňský" src="auto" recommended="1">AAFP2----1A----</AM>
 <AM lemma="loňský" src="auto">AAFP6----1A----</AM>
-<AM lemma="loňský" src="auto">AAIP2----1A----</AM>
+<AM lemma="loňský" src="auto" selected="1">AAIP2----1A----</AM>
 <AM lemma="loňský" src="auto">AAIP6----1A----</AM>
 <AM lemma="loňský" src="auto">AAMP2----1A----</AM>
 <AM lemma="loňský" src="auto">AAMP6----1A----</AM>
@@ -610,6 +612,7 @@
 <tag>
 <AM lemma="Corning_;G" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Corning_;G" src="auto">NNIS4-----A----</AM>
+<AM lemma="Corning_;G_;K" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2060-001-p1s1W16-Ta">
@@ -986,7 +989,7 @@
 <form>i</form>
 <tag>
 <AM lemma="i-1" src="auto" recommended="1">J^-------------</AM>
-<AM lemma="i-2" src="auto">TT-------------</AM>
+<AM lemma="i-2" src="auto" selected="1">TT-------------</AM>
 <AM lemma="i-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
 <AM lemma="i-88_:B" src="auto">NNXXX-----A----</AM>
 </tag>
@@ -1233,7 +1236,7 @@
 <form>i</form>
 <tag>
 <AM lemma="i-1" src="auto" recommended="1">J^-------------</AM>
-<AM lemma="i-2" src="auto">TT-------------</AM>
+<AM lemma="i-2" src="auto" selected="1">TT-------------</AM>
 <AM lemma="i-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
 <AM lemma="i-88_:B" src="auto">NNXXX-----A----</AM>
 </tag>
@@ -1801,6 +1804,7 @@
 <tag>
 <AM lemma="Corning_;G" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Corning_;G" src="auto">NNIS4-----A----</AM>
+<AM lemma="Corning_;G_;K" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2060-001-p1s6W7-Ta">
@@ -2057,7 +2061,7 @@
 <form>i</form>
 <tag>
 <AM lemma="i-1" src="auto" recommended="1">J^-------------</AM>
-<AM lemma="i-2" src="auto">TT-------------</AM>
+<AM lemma="i-2" src="auto" selected="1">TT-------------</AM>
 <AM lemma="i-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
 <AM lemma="i-88_:B" src="auto">NNXXX-----A----</AM>
 </tag>
@@ -2086,7 +2090,7 @@
 <AM lemma="silný" src="auto">AAIP1----1A---6</AM>
 <AM lemma="silný" src="auto">AAIP4----1A---6</AM>
 <AM lemma="silný" src="auto">AAIP5----1A---6</AM>
-<AM lemma="silný" src="auto">AAIS1----1A----</AM>
+<AM lemma="silný" src="auto" selected="1">AAIS1----1A----</AM>
 <AM lemma="silný" src="auto">AAIS4----1A----</AM>
 <AM lemma="silný" src="auto">AAIS5----1A----</AM>
 <AM lemma="silný" src="auto">AAMP1----1A---6</AM>
@@ -2217,7 +2221,7 @@
 <AM lemma="spotřební" src="auto">AANP1----1A----</AM>
 <AM lemma="spotřební" src="auto">AANP4----1A----</AM>
 <AM lemma="spotřební" src="auto">AANP5----1A----</AM>
-<AM lemma="spotřební" src="auto">AANS1----1A----</AM>
+<AM lemma="spotřební" src="auto" selected="1">AANS1----1A----</AM>
 <AM lemma="spotřební" src="auto" recommended="1">AANS4----1A----</AM>
 <AM lemma="spotřební" src="auto">AANS5----1A----</AM>
 </tag>
@@ -2233,7 +2237,7 @@
 <AM lemma="zboží" src="auto">NNNP2-----A----</AM>
 <AM lemma="zboží" src="auto">NNNP4-----A----</AM>
 <AM lemma="zboží" src="auto">NNNP5-----A----</AM>
-<AM lemma="zboží" src="auto">NNNS1-----A----</AM>
+<AM lemma="zboží" src="auto" selected="1">NNNS1-----A----</AM>
 <AM lemma="zboží" src="auto">NNNS2-----A----</AM>
 <AM lemma="zboží" src="auto">NNNS3-----A----</AM>
 <AM lemma="zboží" src="auto" recommended="1">NNNS4-----A----</AM>
@@ -2603,6 +2607,7 @@
 <tag>
 <AM lemma="Samsung_;K" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Samsung_;K" src="auto">NNIS4-----A----</AM>
+<AM lemma="Samsung-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj2060-001-p1s8W27-Ta">
@@ -2622,6 +2627,7 @@
 <tag>
 <AM lemma="Corning_;G" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Corning_;G" src="auto">NNIS4-----A----</AM>
+<AM lemma="Corning-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj2060-001-p1s8W29-Ta">
@@ -2638,6 +2644,7 @@
 <AM lemma="co-4_^(který:_př.:_o_těch,_co_odešli/co_je_znal)" src="auto">P4XXX----------</AM>
 <AM lemma="co-5_^(př._co_nejméně,_co_nevidět,_co_chvíli,_co_do_počtu,_atd.)" src="auto">Db-------------</AM>
 <AM lemma="co-77_:B" src="auto">F%-------------</AM>
+<AM lemma="Co-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj2060-001-p1s8W30-Ta">
@@ -2800,7 +2807,7 @@
 <AM lemma="přerušení_^(*3it)" src="auto">NNNP4-----A----</AM>
 <AM lemma="přerušení_^(*3it)" src="auto">NNNP5-----A----</AM>
 <AM lemma="přerušení_^(*3it)" src="auto" recommended="1">NNNS1-----A----</AM>
-<AM lemma="přerušení_^(*3it)" src="auto">NNNS2-----A----</AM>
+<AM lemma="přerušení_^(*3it)" src="auto" selected="1">NNNS2-----A----</AM>
 <AM lemma="přerušení_^(*3it)" src="auto">NNNS3-----A----</AM>
 <AM lemma="přerušení_^(*3it)" src="auto">NNNS4-----A----</AM>
 <AM lemma="přerušení_^(*3it)" src="auto">NNNS5-----A----</AM>
@@ -3019,6 +3026,7 @@
 <AM lemma="devizový" src="auto">AANS1----1A---6</AM>
 <AM lemma="devizový" src="auto">AANS4----1A---6</AM>
 <AM lemma="devizový" src="auto">AANS5----1A---6</AM>
+<AM lemma="devizový_,s_^(DD**devízový)" src="manual" selected="1">AAIS4----1A----</AM>
 </tag>
 </m>
 <m id="m-wsj2060-001-p1s9W14-Ta">
@@ -3212,6 +3220,7 @@
 <tag>
 <AM lemma="Corning_;G" src="auto">NNIS1-----A----</AM>
 <AM lemma="Corning_;G" src="auto" recommended="1">NNIS4-----A----</AM>
+<AM lemma="Corning_;G_;K" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2060-001-p1s10W12-Ta">
@@ -3222,7 +3231,7 @@
 <form>na</form>
 <tag>
 <AM lemma="na-1" src="auto" recommended="1">RR--4----------</AM>
-<AM lemma="na-1" src="auto">RR--6----------</AM>
+<AM lemma="na-1" src="auto" selected="1">RR--6----------</AM>
 <AM lemma="na-2" src="auto">II-------------</AM>
 </tag>
 </m>

@@ -90,7 +90,15 @@
 <LM>w#w-wsj0625-001-p1s0W9</LM>
 </w.rf>
 <form>51denní</form>
-<tag lemma="51denní" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="51denní" src="auto">X@-------------</AM>
+<AM lemma="51denní" src="manual" selected="1">AAFP4----1A----</AM>
+</tag>
+<comment>
+<LM type="Other">
+<text>špatná tokenizace</text>
+</LM>
+</comment>
 </m>
 <m id="m-wsj0625-001-p1s0W10-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1314,7 +1322,7 @@
 </w.rf>
 <form>Tyto</form>
 <tag>
-<AM lemma="tento" src="auto">PDFP1----------</AM>
+<AM lemma="tento" src="auto" selected="1">PDFP1----------</AM>
 <AM lemma="tento" src="auto">PDFP4----------</AM>
 <AM lemma="tento" src="auto" recommended="1">PDIP1----------</AM>
 <AM lemma="tento" src="auto">PDIP4----------</AM>
@@ -1327,7 +1335,15 @@
 <LM>w#w-wsj0625-001-p1s5W2</LM>
 </w.rf>
 <form>13týdenní</form>
-<tag lemma="13týdenní" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="13týdenní" src="auto">X@-------------</AM>
+<AM lemma="13týdenní" src="manual" selected="1">AAFP1----1A----</AM>
+</tag>
+<comment>
+<LM type="Other">
+<text>špatná tokenizace</text>
+</LM>
+</comment>
 </m>
 <m id="m-wsj0625-001-p1s5W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1349,7 +1365,15 @@
 <LM>w#w-wsj0625-001-p1s5W4</LM>
 </w.rf>
 <form>27týdenní</form>
-<tag lemma="27týdenní" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="27týdenní" src="auto">X@-------------</AM>
+<AM lemma="27týdenní" src="manual" selected="1">AAFP1----1A----</AM>
+</tag>
+<comment>
+<LM type="Other">
+<text>špatná tokenizace</text>
+</LM>
+</comment>
 </m>
 <m id="m-wsj0625-001-p1s5W5-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1485,7 +1509,7 @@
 <form>jak</form>
 <tag>
 <AM lemma="jak-1_;L_^(živočich)" src="auto">NNMS1-----A----</AM>
-<AM lemma="jak-2" src="auto">J,-------------</AM>
+<AM lemma="jak-2" src="auto" selected="1">J,-------------</AM>
 <AM lemma="jak-2" src="auto">J^-------------</AM>
 <AM lemma="jak-3" src="auto" recommended="1">Db-------------</AM>
 <AM lemma="jak-99_:B_;S" src="auto">NNXXX-----A----</AM>
@@ -1904,7 +1928,7 @@
 </w.rf>
 <form>podané</form>
 <tag>
-<AM lemma="podaný_^(něco_[někomu]_[někam])_(*2t)" src="auto">AAFP1----1A----</AM>
+<AM lemma="podaný_^(něco_[někomu]_[někam])_(*2t)" src="auto" selected="1">AAFP1----1A----</AM>
 <AM lemma="podaný_^(něco_[někomu]_[někam])_(*2t)" src="auto">AAFP4----1A----</AM>
 <AM lemma="podaný_^(něco_[někomu]_[někam])_(*2t)" src="auto">AAFP5----1A----</AM>
 <AM lemma="podaný_^(něco_[někomu]_[někam])_(*2t)" src="auto">AAFS2----1A----</AM>

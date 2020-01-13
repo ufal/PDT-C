@@ -27,7 +27,10 @@
 <LM>w#w-wsj0663-001-p1s0W2</LM>
 </w.rf>
 <form>Ajinomoto</form>
-<tag lemma="Ajinomoto" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Ajinomoto" src="auto">X@-------------</AM>
+<AM lemma="Ajinomoto-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0663-001-p1s0W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -43,6 +46,7 @@
 <AM lemma="co-4_^(který:_př.:_o_těch,_co_odešli/co_je_znal)" src="auto">P4XXX----------</AM>
 <AM lemma="co-5_^(př._co_nejméně,_co_nevidět,_co_chvíli,_co_do_počtu,_atd.)" src="auto">Db-------------</AM>
 <AM lemma="co-77_:B" src="auto">F%-------------</AM>
+<AM lemma="Co-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj0663-001-p1s0W4-Ta">
@@ -359,7 +363,7 @@
 <tag>
 <AM lemma="loňský" src="auto" recommended="1">AAFP2----1A----</AM>
 <AM lemma="loňský" src="auto">AAFP6----1A----</AM>
-<AM lemma="loňský" src="auto">AAIP2----1A----</AM>
+<AM lemma="loňský" src="auto" selected="1">AAIP2----1A----</AM>
 <AM lemma="loňský" src="auto">AAIP6----1A----</AM>
 <AM lemma="loňský" src="auto">AAMP2----1A----</AM>
 <AM lemma="loňský" src="auto">AAMP6----1A----</AM>
@@ -1234,7 +1238,7 @@
 <AM lemma="Olea_;K" src="auto">NNFP5-----A----</AM>
 <AM lemma="Olea_;K" src="auto">NNFS2-----A----</AM>
 <AM lemma="Olea_;K" src="auto">NNFS3-----A---2</AM>
-<AM lemma="olej" src="auto">NNIP1-----A----</AM>
+<AM lemma="olej" src="auto" selected="1">NNIP1-----A----</AM>
 <AM lemma="olej" src="auto">NNIP4-----A----</AM>
 <AM lemma="olej" src="auto">NNIP5-----A----</AM>
 <AM lemma="olej" src="auto">NNIS2-----A----</AM>
@@ -1261,7 +1265,7 @@
 </w.rf>
 <form>tuky</form>
 <tag>
-<AM lemma="tuk" src="auto">NNIP1-----A----</AM>
+<AM lemma="tuk" src="auto" selected="1">NNIP1-----A----</AM>
 <AM lemma="tuk" src="auto" recommended="1">NNIP4-----A----</AM>
 <AM lemma="tuk" src="auto">NNIP5-----A----</AM>
 <AM lemma="tuk" src="auto">NNIP7-----A----</AM>
@@ -1467,7 +1471,7 @@
 <form>léčiva</form>
 <tag>
 <AM lemma="léčivo" src="auto">NNNP1-----A----</AM>
-<AM lemma="léčivo" src="auto">NNNP4-----A----</AM>
+<AM lemma="léčivo" src="auto" selected="1">NNNP4-----A----</AM>
 <AM lemma="léčivo" src="auto">NNNP5-----A----</AM>
 <AM lemma="léčivo" src="auto" recommended="1">NNNS2-----A----</AM>
 </tag>
@@ -1488,7 +1492,7 @@
 <form>aminokyseliny</form>
 <tag>
 <AM lemma="aminokyselina" src="auto" recommended="1">NNFP1-----A----</AM>
-<AM lemma="aminokyselina" src="auto">NNFP4-----A----</AM>
+<AM lemma="aminokyselina" src="auto" selected="1">NNFP4-----A----</AM>
 <AM lemma="aminokyselina" src="auto">NNFP5-----A----</AM>
 <AM lemma="aminokyselina" src="auto">NNFS2-----A----</AM>
 </tag>
@@ -1515,7 +1519,7 @@
 <form>chemikálie</form>
 <tag>
 <AM lemma="chemikálie" src="auto" recommended="1">NNFP1-----A----</AM>
-<AM lemma="chemikálie" src="auto">NNFP4-----A----</AM>
+<AM lemma="chemikálie" src="auto" selected="1">NNFP4-----A----</AM>
 <AM lemma="chemikálie" src="auto">NNFP5-----A----</AM>
 <AM lemma="chemikálie" src="auto">NNFS1-----A----</AM>
 <AM lemma="chemikálie" src="auto">NNFS2-----A----</AM>
@@ -1601,7 +1605,10 @@
 <LM>w#w-wsj0663-001-p1s5W2</LM>
 </w.rf>
 <form>Ajinomoto</form>
-<tag lemma="Ajinomoto" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Ajinomoto" src="auto">X@-------------</AM>
+<AM lemma="Ajinomoto_;K" src="manual" selected="1">NNNS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj0663-001-p1s5W3-Ta">
 <src.rf>tagger-a</src.rf>

@@ -30,6 +30,7 @@
 <tag>
 <AM lemma="Nixdorf_;G" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Nixdorf_;G" src="auto">NNIS4-----A----</AM>
+<AM lemma="Nixdorf-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj0492-001-p1s0W3-Ta">
@@ -41,6 +42,7 @@
 <tag>
 <AM lemma="computer_,s_^(^DD**komputer)" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="computer_,s_^(^DD**komputer)" src="auto">NNIS4-----A----</AM>
+<AM lemma="Computer-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj0492-001-p1s0W4-Ta">
@@ -262,7 +264,7 @@
 <form>především</form>
 <tag>
 <AM lemma="především-1" src="auto" recommended="1">Db-------------</AM>
-<AM lemma="především-2" src="auto">TT-------------</AM>
+<AM lemma="především-2" src="auto" selected="1">TT-------------</AM>
 </tag>
 </m>
 <m id="m-wsj0492-001-p1s0W24-Ta">
@@ -1180,6 +1182,7 @@
 <tag>
 <AM lemma="Nixdorf_;G" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Nixdorf_;G" src="auto">NNIS4-----A----</AM>
+<AM lemma="Nixdorf-2_;S" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0492-001-p1s4W9-Ta">
@@ -1799,7 +1802,7 @@
 <AM lemma="který" src="auto">P4NP4---------6</AM>
 <AM lemma="který" src="auto" recommended="1">P4NS1----------</AM>
 <AM lemma="který" src="auto">P4NS4----------</AM>
-<AM lemma="který" src="auto">P4YP4----------</AM>
+<AM lemma="který" src="auto" selected="1">P4YP4----------</AM>
 </tag>
 </m>
 <m id="m-wsj0492-001-p1s6W9-Ta">
@@ -1823,7 +1826,7 @@
 <AM lemma="zaměření_^(*3it)" src="auto">NNNP2-----A----</AM>
 <AM lemma="zaměření_^(*3it)" src="auto">NNNP4-----A----</AM>
 <AM lemma="zaměření_^(*3it)" src="auto">NNNP5-----A----</AM>
-<AM lemma="zaměření_^(*3it)" src="auto">NNNS1-----A----</AM>
+<AM lemma="zaměření_^(*3it)" src="auto" selected="1">NNNS1-----A----</AM>
 <AM lemma="zaměření_^(*3it)" src="auto">NNNS2-----A----</AM>
 <AM lemma="zaměření_^(*3it)" src="auto">NNNS3-----A----</AM>
 <AM lemma="zaměření_^(*3it)" src="auto" recommended="1">NNNS4-----A----</AM>
@@ -2036,7 +2039,7 @@
 <form>dohody</form>
 <tag>
 <AM lemma="dohoda" src="auto">NNFP1-----A----</AM>
-<AM lemma="dohoda" src="auto">NNFP4-----A----</AM>
+<AM lemma="dohoda" src="auto" selected="1">NNFP4-----A----</AM>
 <AM lemma="dohoda" src="auto">NNFP5-----A----</AM>
 <AM lemma="dohoda" src="auto" recommended="1">NNFS2-----A----</AM>
 </tag>

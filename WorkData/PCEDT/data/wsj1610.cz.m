@@ -27,7 +27,10 @@
 <LM>w#w-wsj1610-001-p1s0W2</LM>
 </w.rf>
 <form>Textron</form>
-<tag lemma="Textron" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Textron" src="auto">X@-------------</AM>
+<AM lemma="Textron-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1610-001-p1s0W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -38,6 +41,7 @@
 <tag>
 <AM lemma="Inc-77_:B" src="auto" recommended="1">F%-------------</AM>
 <AM lemma="inc-77_:B" src="auto">F%-------------</AM>
+<AM lemma="Inc-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1610-001-p1s0W4-Ta">
@@ -1253,7 +1257,7 @@
 <AM lemma="zlepšení_^(*3it)" src="auto" recommended="1">NNNS1-----A----</AM>
 <AM lemma="zlepšení_^(*3it)" src="auto">NNNS2-----A----</AM>
 <AM lemma="zlepšení_^(*3it)" src="auto">NNNS3-----A----</AM>
-<AM lemma="zlepšení_^(*3it)" src="auto">NNNS4-----A----</AM>
+<AM lemma="zlepšení_^(*3it)" src="auto" selected="1">NNNS4-----A----</AM>
 <AM lemma="zlepšení_^(*3it)" src="auto">NNNS5-----A----</AM>
 <AM lemma="zlepšení_^(*3it)" src="auto">NNNS6-----A----</AM>
 </tag>
@@ -1350,7 +1354,7 @@
 <AM lemma="zvýšený_^(*3it)" src="auto">AAFS2----1A----</AM>
 <AM lemma="zvýšený_^(*3it)" src="auto">AAFS3----1A----</AM>
 <AM lemma="zvýšený_^(*3it)" src="auto">AAFS6----1A----</AM>
-<AM lemma="zvýšený_^(*3it)" src="auto" recommended="1">AAIP1----1A----</AM>
+<AM lemma="zvýšený_^(*3it)" src="auto" recommended="1" selected="1">AAIP1----1A----</AM>
 <AM lemma="zvýšený_^(*3it)" src="auto">AAIP4----1A----</AM>
 <AM lemma="zvýšený_^(*3it)" src="auto">AAIP5----1A----</AM>
 <AM lemma="zvýšený_^(*3it)" src="auto">AAMP4----1A----</AM>
@@ -2013,7 +2017,10 @@
 <LM>w#w-wsj1610-001-p1s7W6</LM>
 </w.rf>
 <form>Textron</form>
-<tag lemma="Textron" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Textron" src="auto">X@-------------</AM>
+<AM lemma="Textron_;K" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj1610-001-p1s7W7-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2754,7 +2761,7 @@
 <AM lemma="týkající_^(*4t)" src="auto">AGIP4-----A----</AM>
 <AM lemma="týkající_^(*4t)" src="auto">AGIP5-----A----</AM>
 <AM lemma="týkající_^(*4t)" src="auto">AGIS1-----A----</AM>
-<AM lemma="týkající_^(*4t)" src="auto">AGIS4-----A----</AM>
+<AM lemma="týkající_^(*4t)" src="auto" selected="1">AGIS4-----A----</AM>
 <AM lemma="týkající_^(*4t)" src="auto">AGIS5-----A----</AM>
 <AM lemma="týkající_^(*4t)" src="auto">AGMP1-----A----</AM>
 <AM lemma="týkající_^(*4t)" src="auto">AGMP4-----A----</AM>
@@ -2949,7 +2956,7 @@
 <AM lemma="který" src="auto">P4FS2----------</AM>
 <AM lemma="který" src="auto">P4FS3----------</AM>
 <AM lemma="který" src="auto">P4FS6----------</AM>
-<AM lemma="který" src="auto">P4IP1----------</AM>
+<AM lemma="který" src="auto" selected="1">P4IP1----------</AM>
 <AM lemma="který" src="auto">P4NP1---------6</AM>
 <AM lemma="který" src="auto">P4NP4---------6</AM>
 <AM lemma="který" src="auto">P4NS1----------</AM>
@@ -3150,7 +3157,10 @@
 <LM>w#w-wsj1610-001-p1s10W2</LM>
 </w.rf>
 <form>Textron</form>
-<tag lemma="Textron" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Textron" src="auto">X@-------------</AM>
+<AM lemma="Textron_;K" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj1610-001-p1s10W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3284,7 +3294,10 @@
 <LM>w#w-wsj1610-001-p1s10W14</LM>
 </w.rf>
 <form>Avdel</form>
-<tag lemma="Avdel" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Avdel" src="auto">X@-------------</AM>
+<AM lemma="Avdel-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1610-001-p1s10W15-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3602,7 +3615,10 @@
 <LM>w#w-wsj1610-001-p1s10W40</LM>
 </w.rf>
 <form>Avdel</form>
-<tag lemma="Avdel" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Avdel" src="auto">X@-------------</AM>
+<AM lemma="Avdel_;K" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj1610-001-p1s10W41-Ta">
 <src.rf>tagger-a</src.rf>
@@ -4055,7 +4071,10 @@
 <LM>w#w-wsj1610-001-p1s12W2</LM>
 </w.rf>
 <form>Textron</form>
-<tag lemma="Textron" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Textron" src="auto">X@-------------</AM>
+<AM lemma="Textron_;K" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj1610-001-p1s12W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -4232,7 +4251,7 @@
 <form>včetně</form>
 <tag>
 <AM lemma="včetně-1" src="auto" recommended="1">Db-------------</AM>
-<AM lemma="včetně-2" src="auto">RR--2----------</AM>
+<AM lemma="včetně-2" src="auto" selected="1">RR--2----------</AM>
 </tag>
 </m>
 <m id="m-wsj1610-001-p1s12W17-Ta">
@@ -4263,7 +4282,7 @@
 </w.rf>
 <form>Bell</form>
 <tag>
-<AM lemma="Bell_;S" src="auto">NNMS1-----A----</AM>
+<AM lemma="Bell_;S" src="auto" selected="1">NNMS1-----A----</AM>
 <AM lemma="Bella_;Y_,t" src="auto" recommended="1">NNFP2-----A----</AM>
 </tag>
 </m>

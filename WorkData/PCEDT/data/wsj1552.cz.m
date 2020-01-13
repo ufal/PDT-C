@@ -30,6 +30,7 @@
 <tag>
 <AM lemma="Texas_;G" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Texas_;G" src="auto">NNIS4-----A----</AM>
+<AM lemma="Texas-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1552-001-p1s0W3-Ta">
@@ -38,7 +39,10 @@
 <LM>w#w-wsj1552-001-p1s0W3</LM>
 </w.rf>
 <form>Instruments</form>
-<tag lemma="Instruments" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Instruments" src="auto">X@-------------</AM>
+<AM lemma="Instruments-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1552-001-p1s0W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -49,6 +53,7 @@
 <tag>
 <AM lemma="Inc-77_:B" src="auto" recommended="1">F%-------------</AM>
 <AM lemma="inc-77_:B" src="auto">F%-------------</AM>
+<AM lemma="Inc-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1552-001-p1s0W5-Ta">
@@ -181,6 +186,7 @@
 <tag>
 <AM lemma="škrt" src="auto" recommended="1">NNIP2-----A----</AM>
 <AM lemma="škrt" src="auto">NNMP2-----A----</AM>
+<AM lemma="škrt-1" src="manual" selected="1">NNIP2-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1552-001-p1s0W17-Ta">
@@ -547,7 +553,7 @@
 <form>loňským</form>
 <tag>
 <AM lemma="loňský" src="auto">AAFP3----1A----</AM>
-<AM lemma="loňský" src="auto">AAIP3----1A----</AM>
+<AM lemma="loňský" src="auto" selected="1">AAIP3----1A----</AM>
 <AM lemma="loňský" src="auto">AAIS6----1A---7</AM>
 <AM lemma="loňský" src="auto">AAIS7----1A----</AM>
 <AM lemma="loňský" src="auto" recommended="1">AAMP3----1A----</AM>
@@ -1646,7 +1652,10 @@
 <LM>w#w-wsj1552-001-p1s5W2</LM>
 </w.rf>
 <form>Junkins</form>
-<tag lemma="Junkins" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Junkins" src="auto">X@-------------</AM>
+<AM lemma="Junkins_;S" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj1552-001-p1s5W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2250,7 +2259,7 @@
 <AM lemma="zvýšený_^(*3it)" src="auto">AAFS2----1A----</AM>
 <AM lemma="zvýšený_^(*3it)" src="auto">AAFS3----1A----</AM>
 <AM lemma="zvýšený_^(*3it)" src="auto">AAFS6----1A----</AM>
-<AM lemma="zvýšený_^(*3it)" src="auto">AAIP1----1A----</AM>
+<AM lemma="zvýšený_^(*3it)" src="auto" selected="1">AAIP1----1A----</AM>
 <AM lemma="zvýšený_^(*3it)" src="auto" recommended="1">AAIP4----1A----</AM>
 <AM lemma="zvýšený_^(*3it)" src="auto">AAIP5----1A----</AM>
 <AM lemma="zvýšený_^(*3it)" src="auto">AAMP4----1A----</AM>
@@ -2269,7 +2278,7 @@
 </w.rf>
 <form>náklady</form>
 <tag>
-<AM lemma="náklad" src="auto">NNIP1-----A----</AM>
+<AM lemma="náklad" src="auto" selected="1">NNIP1-----A----</AM>
 <AM lemma="náklad" src="auto" recommended="1">NNIP4-----A----</AM>
 <AM lemma="náklad" src="auto">NNIP5-----A----</AM>
 <AM lemma="náklad" src="auto">NNIP7-----A----</AM>
@@ -2292,7 +2301,7 @@
 <AM lemma="související_^(*4t)" src="auto">AGFS5-----A----</AM>
 <AM lemma="související_^(*4t)" src="auto">AGFS6-----A----</AM>
 <AM lemma="související_^(*4t)" src="auto">AGFS7-----A----</AM>
-<AM lemma="související_^(*4t)" src="auto">AGIP1-----A----</AM>
+<AM lemma="související_^(*4t)" src="auto" selected="1">AGIP1-----A----</AM>
 <AM lemma="související_^(*4t)" src="auto" recommended="1">AGIP4-----A----</AM>
 <AM lemma="související_^(*4t)" src="auto">AGIP5-----A----</AM>
 <AM lemma="související_^(*4t)" src="auto">AGIS1-----A----</AM>
@@ -2560,6 +2569,7 @@
 <tag>
 <AM lemma="Texas_;G" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Texas_;G" src="auto">NNIS4-----A----</AM>
+<AM lemma="Texas-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1552-001-p1s7W29-Ta">
@@ -2568,7 +2578,10 @@
 <LM>w#w-wsj1552-001-p1s7W29</LM>
 </w.rf>
 <form>Instruments</form>
-<tag lemma="Instruments" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Instruments" src="auto">X@-------------</AM>
+<AM lemma="Instruments-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1552-001-p1s7W30-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2688,7 +2701,7 @@
 <form>i</form>
 <tag>
 <AM lemma="i-1" src="auto" recommended="1">J^-------------</AM>
-<AM lemma="i-2" src="auto">TT-------------</AM>
+<AM lemma="i-2" src="auto" selected="1">TT-------------</AM>
 <AM lemma="i-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
 <AM lemma="i-88_:B" src="auto">NNXXX-----A----</AM>
 </tag>
@@ -3181,7 +3194,10 @@
 <LM>w#w-wsj1552-001-p1s10W1</LM>
 </w.rf>
 <form>Junkins</form>
-<tag lemma="Junkins" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Junkins" src="auto">X@-------------</AM>
+<AM lemma="Junkins_;S" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj1552-001-p1s10W2-Ta">
 <src.rf>tagger-a</src.rf>
@@ -4014,7 +4030,10 @@
 <LM>w#w-wsj1552-001-p1s12W16</LM>
 </w.rf>
 <form>Information</form>
-<tag lemma="Information" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Information" src="auto">X@-------------</AM>
+<AM lemma="Information-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1552-001-p1s12W17-Ta">
 <src.rf>tagger-a</src.rf>
@@ -4026,6 +4045,7 @@
 <AM lemma="technolog" src="auto">NNMP4-----A----</AM>
 <AM lemma="technolog" src="auto">NNMP7-----A----</AM>
 <AM lemma="technology-77" src="auto" recommended="1">F%-------------</AM>
+<AM lemma="Technology-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1552-001-p1s12W18-Ta">
@@ -4034,7 +4054,10 @@
 <LM>w#w-wsj1552-001-p1s12W18</LM>
 </w.rf>
 <form>Group</form>
-<tag lemma="Group-1_;K_,t_^(obv._souč._názvu_firem,_&quot;skupina&quot;)" src="auto" recommended="1">NNFXX-----A----</tag>
+<tag>
+<AM lemma="Group-1_;K_,t_^(obv._souč._názvu_firem,_&quot;skupina&quot;)" src="auto" recommended="1">NNFXX-----A----</AM>
+<AM lemma="Group-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1552-001-p1s12W19-Ta">
 <src.rf>tagger-a</src.rf>
@@ -4098,7 +4121,7 @@
 <form>ovlivní</form>
 <tag>
 <AM lemma="ovlivnit" src="auto">VB-P---3P-AAP--</AM>
-<AM lemma="ovlivnit" src="auto" recommended="1">VB-S---3P-AAP--</AM>
+<AM lemma="ovlivnit" src="auto" recommended="1" selected="1">VB-S---3P-AAP--</AM>
 </tag>
 </m>
 <m id="m-wsj1552-001-p1s12W26-Ta">

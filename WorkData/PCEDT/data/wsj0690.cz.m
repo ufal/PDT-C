@@ -80,7 +80,7 @@
 </w.rf>
 <form>vystrašení</form>
 <tag>
-<AM lemma="vystrašený_^(*3it)" src="auto">AAMP1----1A----</AM>
+<AM lemma="vystrašený_^(*3it)" src="auto" selected="1">AAMP1----1A----</AM>
 <AM lemma="vystrašený_^(*3it)" src="auto">AAMP5----1A----</AM>
 <AM lemma="vystrašení_^(*3it)" src="auto">NNNP1-----A----</AM>
 <AM lemma="vystrašení_^(*3it)" src="auto">NNNP2-----A----</AM>
@@ -392,7 +392,7 @@
 <form>i</form>
 <tag>
 <AM lemma="i-1" src="auto" recommended="1">J^-------------</AM>
-<AM lemma="i-2" src="auto">TT-------------</AM>
+<AM lemma="i-2" src="auto" selected="1">TT-------------</AM>
 <AM lemma="i-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
 <AM lemma="i-88_:B" src="auto">NNXXX-----A----</AM>
 </tag>
@@ -600,6 +600,7 @@
 <tag>
 <AM lemma="Patrick_;Y" src="auto" recommended="1">NNMS2-----A----</AM>
 <AM lemma="Patrick_;Y" src="auto">NNMS4-----A----</AM>
+<AM lemma="Patrick_;Y_;S" src="manual" selected="1">NNMS2-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0690-001-p1s1W10-Ta">
@@ -608,7 +609,10 @@
 <LM>w#w-wsj0690-001-p1s1W10</LM>
 </w.rf>
 <form>Toselanda</form>
-<tag lemma="Toselanda" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Toselanda" src="auto">X@-------------</AM>
+<AM lemma="Toseland_;S" src="manual" selected="1">NNMS2-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj0690-001-p1s1W11-Ta">
 <src.rf>tagger-a</src.rf>
@@ -707,6 +711,7 @@
 <AM lemma="Guo-1_;S" src="auto">NNMP4-----A----</AM>
 <AM lemma="Guo-1_;S" src="auto">NNMP7-----A----</AM>
 <AM lemma="Guy_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Guy-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj0690-001-p1s1W18-Ta">
@@ -736,6 +741,7 @@
 <AM lemma="společnost_:B" src="auto">NNFXX-----A---8</AM>
 <AM lemma="strana" src="auto">NNFXX-----A---8</AM>
 <AM lemma="státní_:B" src="auto">AAXXX----1A---8</AM>
+<AM lemma="s-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj0690-001-p1s1W20-Ta">
@@ -747,6 +753,7 @@
 <tag>
 <AM lemma="hospital_,t" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="hospital_,t" src="auto">NNIS4-----A----</AM>
+<AM lemma="Hospital-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj0690-001-p1s1W21-Ta">
@@ -856,7 +863,10 @@
 <LM>w#w-wsj0690-001-p1s2W6</LM>
 </w.rf>
 <form>Toseland</form>
-<tag lemma="Toseland" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Toseland" src="auto">X@-------------</AM>
+<AM lemma="Toseland_;S" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj0690-001-p1s2W7-Ta">
 <src.rf>tagger-a</src.rf>
@@ -975,7 +985,7 @@
 <tag>
 <AM lemma="který" src="auto" recommended="1">P4FS1----------</AM>
 <AM lemma="který" src="auto">P4NP1----------</AM>
-<AM lemma="který" src="auto">P4NP4----------</AM>
+<AM lemma="který" src="auto" selected="1">P4NP4----------</AM>
 </tag>
 </m>
 <m id="m-wsj0690-001-p1s2W17-Ta">
@@ -1054,7 +1064,7 @@
 <AM lemma="pouhý" src="auto" recommended="1">AAMP3----1A----</AM>
 <AM lemma="pouhý" src="auto">AAMS6----1A---7</AM>
 <AM lemma="pouhý" src="auto">AAMS7----1A----</AM>
-<AM lemma="pouhý" src="auto">AANP3----1A----</AM>
+<AM lemma="pouhý" src="auto" selected="1">AANP3----1A----</AM>
 <AM lemma="pouhý" src="auto">AANS6----1A---7</AM>
 <AM lemma="pouhý" src="auto">AANS7----1A----</AM>
 </tag>
@@ -1341,7 +1351,7 @@
 </w.rf>
 <form>zvířecího</form>
 <tag>
-<AM lemma="zvířecí" src="auto">AAIS2----1A----</AM>
+<AM lemma="zvířecí" src="auto" selected="1">AAIS2----1A----</AM>
 <AM lemma="zvířecí" src="auto">AAMS2----1A----</AM>
 <AM lemma="zvířecí" src="auto">AAMS4----1A----</AM>
 <AM lemma="zvířecí" src="auto" recommended="1">AANS2----1A----</AM>
@@ -1429,7 +1439,10 @@
 <LM>w#w-wsj0690-001-p1s4W2</LM>
 </w.rf>
 <form>Solomon</form>
-<tag lemma="Solomon_;Y" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Solomon_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Solomon_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj0690-001-p1s4W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1437,7 +1450,10 @@
 <LM>w#w-wsj0690-001-p1s4W3</LM>
 </w.rf>
 <form>Sobel</form>
-<tag lemma="Sobel" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Sobel" src="auto">X@-------------</AM>
+<AM lemma="Sobel_;S" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj0690-001-p1s4W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1730,7 +1746,10 @@
 <LM>w#w-wsj0690-001-p1s4W29</LM>
 </w.rf>
 <form>Toselanda</form>
-<tag lemma="Toselanda" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Toselanda" src="auto">X@-------------</AM>
+<AM lemma="Toseland_;S" src="manual" selected="1">NNMS2-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj0690-001-p1s4W30-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1990,7 +2009,10 @@
 <LM>w#w-wsj0690-001-p1s5W18</LM>
 </w.rf>
 <form>Sobel</form>
-<tag lemma="Sobel" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Sobel" src="auto">X@-------------</AM>
+<AM lemma="Sobel_;S" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj0690-001-p1s5W19-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2076,7 +2098,10 @@
 <LM>w#w-wsj0690-001-p1s5W27</LM>
 </w.rf>
 <form>Toselanda</form>
-<tag lemma="Toselanda" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Toselanda" src="auto">X@-------------</AM>
+<AM lemma="Toseland_;S" src="manual" selected="1">NNMS2-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj0690-001-p1s5W28-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2233,7 +2258,10 @@
 <LM>w#w-wsj0690-001-p1s6W3</LM>
 </w.rf>
 <form>Toseland</form>
-<tag lemma="Toseland" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Toseland" src="auto">X@-------------</AM>
+<AM lemma="Toseland_;S" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj0690-001-p1s6W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2281,7 +2309,7 @@
 <form>článek</form>
 <tag>
 <AM lemma="článek" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="článek" src="auto">NNIS4-----A----</AM>
+<AM lemma="článek" src="auto" selected="1">NNIS4-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0690-001-p1s6W9-Ta">
@@ -3252,7 +3280,7 @@
 </w.rf>
 <form>snědí</form>
 <tag>
-<AM lemma="sníst" src="auto">VB-P---3P-AAP-1</AM>
+<AM lemma="sníst" src="auto" selected="1">VB-P---3P-AAP-1</AM>
 <AM lemma="snědý" src="auto" recommended="1">AAMP1----1A----</AM>
 </tag>
 </m>
@@ -3264,7 +3292,7 @@
 <form>cukr</form>
 <tag>
 <AM lemma="cukr" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="cukr" src="auto">NNIS4-----A----</AM>
+<AM lemma="cukr" src="auto" selected="1">NNIS4-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0690-001-p1s8W22-Ta">
@@ -3283,7 +3311,7 @@
 <form>jídlo</form>
 <tag>
 <AM lemma="jídlo" src="auto" recommended="1">NNNS1-----A----</AM>
-<AM lemma="jídlo" src="auto">NNNS4-----A----</AM>
+<AM lemma="jídlo" src="auto" selected="1">NNNS4-----A----</AM>
 <AM lemma="jídlo" src="auto">NNNS5-----A----</AM>
 </tag>
 </m>
@@ -3308,7 +3336,7 @@
 <AM lemma="slazený-1_^(cukrem)_(*6dit-1)" src="auto">AANP4----1A---6</AM>
 <AM lemma="slazený-1_^(cukrem)_(*6dit-1)" src="auto">AANP5----1A---6</AM>
 <AM lemma="slazený-1_^(cukrem)_(*6dit-1)" src="auto" recommended="1">AANS1----1A----</AM>
-<AM lemma="slazený-1_^(cukrem)_(*6dit-1)" src="auto">AANS4----1A----</AM>
+<AM lemma="slazený-1_^(cukrem)_(*6dit-1)" src="auto" selected="1">AANS4----1A----</AM>
 <AM lemma="slazený-1_^(cukrem)_(*6dit-1)" src="auto">AANS5----1A----</AM>
 </tag>
 </m>
@@ -3567,7 +3595,10 @@
 <LM>w#w-wsj0690-001-p1s9W22</LM>
 </w.rf>
 <form>Toseland</form>
-<tag lemma="Toseland" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Toseland" src="auto">X@-------------</AM>
+<AM lemma="Toseland_;S" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj0690-001-p1s9W23-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3732,6 +3763,7 @@
 <tag>
 <AM lemma="Robert_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Roberta_;Y" src="auto">NNFP2-----A----</AM>
+<AM lemma="Robert_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0690-001-p1s10W14-Ta">
@@ -4036,7 +4068,7 @@
 <tag>
 <AM lemma="žádný" src="auto" recommended="1">PWFS1----------</AM>
 <AM lemma="žádný" src="auto">PWFS5----------</AM>
-<AM lemma="žádný" src="auto">PWNP1----------</AM>
+<AM lemma="žádný" src="auto" selected="1">PWNP1----------</AM>
 <AM lemma="žádný" src="auto">PWNP4----------</AM>
 <AM lemma="žádný" src="auto">PWNP5----------</AM>
 </tag>
@@ -4050,7 +4082,7 @@
 <tag>
 <AM lemma="obvyklý" src="auto" recommended="1">AAFS1----1N----</AM>
 <AM lemma="obvyklý" src="auto">AAFS5----1N----</AM>
-<AM lemma="obvyklý" src="auto">AANP1----1N----</AM>
+<AM lemma="obvyklý" src="auto" selected="1">AANP1----1N----</AM>
 <AM lemma="obvyklý" src="auto">AANP4----1N----</AM>
 <AM lemma="obvyklý" src="auto">AANP5----1N----</AM>
 </tag>
@@ -4567,7 +4599,7 @@
 <AM lemma="lidský" src="auto">AAIP1----1A---6</AM>
 <AM lemma="lidský" src="auto">AAIP4----1A---6</AM>
 <AM lemma="lidský" src="auto">AAIP5----1A---6</AM>
-<AM lemma="lidský" src="auto">AAIS1----1A----</AM>
+<AM lemma="lidský" src="auto" selected="1">AAIS1----1A----</AM>
 <AM lemma="lidský" src="auto" recommended="1">AAIS4----1A----</AM>
 <AM lemma="lidský" src="auto">AAIS5----1A----</AM>
 <AM lemma="lidský" src="auto">AAMP1----1A---6</AM>
@@ -4617,7 +4649,7 @@
 <AM lemma="zvířecí" src="auto">AAIP1----1A----</AM>
 <AM lemma="zvířecí" src="auto">AAIP4----1A----</AM>
 <AM lemma="zvířecí" src="auto">AAIP5----1A----</AM>
-<AM lemma="zvířecí" src="auto">AAIS1----1A----</AM>
+<AM lemma="zvířecí" src="auto" selected="1">AAIS1----1A----</AM>
 <AM lemma="zvířecí" src="auto" recommended="1">AAIS4----1A----</AM>
 <AM lemma="zvířecí" src="auto">AAIS5----1A----</AM>
 <AM lemma="zvířecí" src="auto">AAMP1----1A----</AM>
@@ -4640,7 +4672,7 @@
 </w.rf>
 <form>inzulín</form>
 <tag>
-<AM lemma="inzulín" src="auto">NNIS1-----A----</AM>
+<AM lemma="inzulín" src="auto" selected="1">NNIS1-----A----</AM>
 <AM lemma="inzulín" src="auto" recommended="1">NNIS4-----A----</AM>
 </tag>
 </m>
@@ -4796,7 +4828,10 @@
 <LM>w#w-wsj0690-001-p1s13W26</LM>
 </w.rf>
 <form>Sobel</form>
-<tag lemma="Sobel" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Sobel" src="auto">X@-------------</AM>
+<AM lemma="Sobel_;S" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj0690-001-p1s13W27-Ta">
 <src.rf>tagger-a</src.rf>
@@ -5199,7 +5234,10 @@
 <LM>w#w-wsj0690-001-p1s15W19</LM>
 </w.rf>
 <form>Sobel</form>
-<tag lemma="Sobel" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Sobel" src="auto">X@-------------</AM>
+<AM lemma="Sobel_;S" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj0690-001-p1s15W20-Ta">
 <src.rf>tagger-a</src.rf>
@@ -5303,7 +5341,10 @@
 <LM>w#w-wsj0690-001-p1s16W8</LM>
 </w.rf>
 <form>Toselanda</form>
-<tag lemma="Toselanda" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Toselanda" src="auto">X@-------------</AM>
+<AM lemma="Toseland_;S" src="manual" selected="1">NNMS2-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj0690-001-p1s16W9-Ta">
 <src.rf>tagger-a</src.rf>
@@ -5359,7 +5400,7 @@
 <form>všeobecné</form>
 <tag>
 <AM lemma="všeobecný" src="auto">AAFP1----1A----</AM>
-<AM lemma="všeobecný" src="auto">AAFP4----1A----</AM>
+<AM lemma="všeobecný" src="auto" selected="1">AAFP4----1A----</AM>
 <AM lemma="všeobecný" src="auto">AAFP5----1A----</AM>
 <AM lemma="všeobecný" src="auto" recommended="1">AAFS2----1A----</AM>
 <AM lemma="všeobecný" src="auto">AAFS3----1A----</AM>
@@ -5384,7 +5425,7 @@
 <form>obavy</form>
 <tag>
 <AM lemma="obava" src="auto">NNFP1-----A----</AM>
-<AM lemma="obava" src="auto">NNFP4-----A----</AM>
+<AM lemma="obava" src="auto" selected="1">NNFP4-----A----</AM>
 <AM lemma="obava" src="auto">NNFP5-----A----</AM>
 <AM lemma="obava" src="auto" recommended="1">NNFS2-----A----</AM>
 </tag>
@@ -5565,7 +5606,7 @@
 <AM lemma="americký" src="auto" recommended="1">AAIS2----1A----</AM>
 <AM lemma="americký" src="auto">AAMS2----1A----</AM>
 <AM lemma="americký" src="auto">AAMS4----1A----</AM>
-<AM lemma="americký" src="auto">AANS2----1A----</AM>
+<AM lemma="americký" src="auto" selected="1">AANS2----1A----</AM>
 </tag>
 </m>
 <m id="m-wsj0690-001-p1s17W13-Ta">
@@ -5797,7 +5838,10 @@
 <LM>w#w-wsj0690-001-p1s17W32</LM>
 </w.rf>
 <form>Toselanda</form>
-<tag lemma="Toselanda" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Toselanda" src="auto">X@-------------</AM>
+<AM lemma="Toseland_;S" src="manual" selected="1">NNMS2-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj0690-001-p1s17W33-Ta">
 <src.rf>tagger-a</src.rf>
@@ -6728,6 +6772,7 @@
 <AM lemma="Eli_;Y_,t" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Eli_;Y_,t" src="auto">NNMS5-----A----</AM>
 <AM lemma="Eli_;Y_,t" src="auto">NNMXX-----A----</AM>
+<AM lemma="Eli-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj0690-001-p1s21W3-Ta">
@@ -6746,6 +6791,7 @@
 <AM lemma="Lillo_;S" src="auto">NNMP4-----A----</AM>
 <AM lemma="Lillo_;S" src="auto">NNMP7-----A----</AM>
 <AM lemma="Lilly_;Y" src="auto">NNFSX-----A----</AM>
+<AM lemma="Lilly-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj0690-001-p1s21W4-Ta">
@@ -6770,6 +6816,7 @@
 <AM lemma="co-4_^(který:_př.:_o_těch,_co_odešli/co_je_znal)" src="auto">P4XXX----------</AM>
 <AM lemma="co-5_^(př._co_nejméně,_co_nevidět,_co_chvíli,_co_do_počtu,_atd.)" src="auto">Db-------------</AM>
 <AM lemma="co-77_:B" src="auto">F%-------------</AM>
+<AM lemma="Co-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj0690-001-p1s21W6-Ta">
@@ -7017,7 +7064,10 @@
 <LM>w#w-wsj0690-001-p1s21W26</LM>
 </w.rf>
 <form>Humulin</form>
-<tag lemma="Humulin" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Humulin" src="auto">X@-------------</AM>
+<AM lemma="Humulin_;R" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj0690-001-p1s21W27-Ta">
 <src.rf>tagger-a</src.rf>
@@ -7056,6 +7106,7 @@
 <AM lemma="Lillo_;S" src="auto">NNMP4-----A----</AM>
 <AM lemma="Lillo_;S" src="auto">NNMP7-----A----</AM>
 <AM lemma="Lilly_;Y" src="auto">NNFSX-----A----</AM>
+<AM lemma="Lilly-2_;K" src="manual" selected="1">NNNXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0690-001-p1s22W3-Ta">
@@ -7162,7 +7213,10 @@
 <LM>w#w-wsj0690-001-p1s22W11</LM>
 </w.rf>
 <form>Fagersheinu</form>
-<tag lemma="Fagersheinu" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Fagersheinu" src="auto">X@-------------</AM>
+<AM lemma="Fagershein_;G" src="manual" selected="1">NNIS6-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj0690-001-p1s22W12-Ta">
 <src.rf>tagger-a</src.rf>
@@ -7326,6 +7380,7 @@
 <AM lemma="Lillo_;S" src="auto">NNMP4-----A----</AM>
 <AM lemma="Lillo_;S" src="auto">NNMP7-----A----</AM>
 <AM lemma="Lilly_;Y" src="auto" recommended="1">NNFSX-----A----</AM>
+<AM lemma="Lilly-2_;K" src="manual" selected="1">NNNXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0690-001-p1s23W7-Ta">
@@ -7374,7 +7429,10 @@
 <LM>w#w-wsj0690-001-p1s23W11</LM>
 </w.rf>
 <form>Humulinu</form>
-<tag lemma="Humulinu" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Humulinu" src="auto">X@-------------</AM>
+<AM lemma="Humulin_;R" src="manual" selected="1">NNIS2-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj0690-001-p1s23W12-Ta">
 <src.rf>tagger-a</src.rf>
@@ -7501,6 +7559,7 @@
 <AM lemma="Lillo_;S" src="auto">NNMP4-----A----</AM>
 <AM lemma="Lillo_;S" src="auto">NNMP7-----A----</AM>
 <AM lemma="Lilly_;Y" src="auto">NNFSX-----A----</AM>
+<AM lemma="Lilly-2_;K" src="manual" selected="1">NNNXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0690-001-p1s24W4-Ta">
@@ -7654,7 +7713,7 @@
 </w.rf>
 <form>zvířecího</form>
 <tag>
-<AM lemma="zvířecí" src="auto">AAIS2----1A----</AM>
+<AM lemma="zvířecí" src="auto" selected="1">AAIS2----1A----</AM>
 <AM lemma="zvířecí" src="auto">AAMS2----1A----</AM>
 <AM lemma="zvířecí" src="auto">AAMS4----1A----</AM>
 <AM lemma="zvířecí" src="auto" recommended="1">AANS2----1A----</AM>
@@ -7745,7 +7804,7 @@
 <AM lemma="hypoglykémie_;U_,s_^(^DD**hypoglykemie)" src="auto" recommended="1">NNFP4-----A----</AM>
 <AM lemma="hypoglykémie_;U_,s_^(^DD**hypoglykemie)" src="auto">NNFP5-----A----</AM>
 <AM lemma="hypoglykémie_;U_,s_^(^DD**hypoglykemie)" src="auto">NNFS1-----A----</AM>
-<AM lemma="hypoglykémie_;U_,s_^(^DD**hypoglykemie)" src="auto">NNFS2-----A----</AM>
+<AM lemma="hypoglykémie_;U_,s_^(^DD**hypoglykemie)" src="auto" selected="1">NNFS2-----A----</AM>
 <AM lemma="hypoglykémie_;U_,s_^(^DD**hypoglykemie)" src="auto">NNFS5-----A----</AM>
 </tag>
 </m>
@@ -7899,7 +7958,10 @@
 <LM>w#w-wsj0690-001-p1s25W2</LM>
 </w.rf>
 <form>Leigh</form>
-<tag lemma="Leigh_;S" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Leigh_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Leigh_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj0690-001-p1s25W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -7954,6 +8016,7 @@
 <AM lemma="Lillo_;S" src="auto">NNMP4-----A----</AM>
 <AM lemma="Lillo_;S" src="auto">NNMP7-----A----</AM>
 <AM lemma="Lilly_;Y" src="auto">NNFSX-----A----</AM>
+<AM lemma="Lilly-2_;K" src="manual" selected="1">NNNXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0690-001-p1s25W8-Ta">
@@ -8245,7 +8308,7 @@
 <AM lemma="žádný" src="auto">PWFS6---------6</AM>
 <AM lemma="žádný" src="auto">PWIP1---------6</AM>
 <AM lemma="žádný" src="auto">PWIP5---------6</AM>
-<AM lemma="žádný" src="auto">PWIS4----------</AM>
+<AM lemma="žádný" src="auto" selected="1">PWIS4----------</AM>
 <AM lemma="žádný" src="auto">PWMP1---------6</AM>
 <AM lemma="žádný" src="auto">PWMP5---------6</AM>
 <AM lemma="žádný" src="auto">PWNP1---------6</AM>
@@ -8267,7 +8330,7 @@
 <form>rozdíl</form>
 <tag>
 <AM lemma="rozdíl" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="rozdíl" src="auto">NNIS4-----A----</AM>
+<AM lemma="rozdíl" src="auto" selected="1">NNIS4-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0690-001-p1s25W31-Ta">
@@ -8297,7 +8360,10 @@
 <LM>w#w-wsj0690-001-p1s26W2</LM>
 </w.rf>
 <form>Toseland</form>
-<tag lemma="Toseland" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Toseland" src="auto">X@-------------</AM>
+<AM lemma="Toseland_;S" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj0690-001-p1s26W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -8530,6 +8596,7 @@
 <AM lemma="Novo_;K" src="auto">NNNS5-----A----</AM>
 <AM lemma="nova" src="auto">NNFS5-----A----</AM>
 <AM lemma="novo-2_^(př._na_novo)" src="auto">NNNS4-----A----</AM>
+<AM lemma="Novo-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj0690-001-p1s26W22-Ta">
@@ -8546,7 +8613,10 @@
 <LM>w#w-wsj0690-001-p1s26W23</LM>
 </w.rf>
 <form>Nordisk</form>
-<tag lemma="Nordisk" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Nordisk" src="auto">X@-------------</AM>
+<AM lemma="Nordisk-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0690-001-p1s26W24-Ta">
 <src.rf>tagger-a</src.rf>
@@ -8623,7 +8693,7 @@
 <form>inzulín</form>
 <tag>
 <AM lemma="inzulín" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="inzulín" src="auto">NNIS4-----A----</AM>
+<AM lemma="inzulín" src="auto" selected="1">NNIS4-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0690-001-p1s27W6-Ta">
@@ -8658,6 +8728,7 @@
 <AM lemma="Lillo_;S" src="auto">NNMP4-----A----</AM>
 <AM lemma="Lillo_;S" src="auto">NNMP7-----A----</AM>
 <AM lemma="Lilly_;Y" src="auto">NNFSX-----A----</AM>
+<AM lemma="Lilly-2_;K" src="manual" selected="1">NNNXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0690-001-p1s27W8-Ta">

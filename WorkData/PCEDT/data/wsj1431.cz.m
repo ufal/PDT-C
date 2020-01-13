@@ -1267,7 +1267,7 @@
 <LM>w#w-wsj1431-001-p1s5W19</LM>
 </w.rf>
 <form>jenů</form>
-<tag lemma="jen-2_^(japonská_měna)" src="auto" recommended="1">NNIP2-----A----</tag>
+<tag lemma="jen-2_^(japonská_měna)" src="auto" recommended="1" selected="1">NNIP2-----A----</tag>
 </m>
 <m id="m-wsj1431-001-p1s5W20-Ta">
 <src.rf>tagger-a</src.rf>

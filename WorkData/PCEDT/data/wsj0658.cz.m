@@ -27,7 +27,10 @@
 <LM>w#w-wsj0658-001-p1s0W2</LM>
 </w.rf>
 <form>Presidio</form>
-<tag lemma="Presidio" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Presidio" src="auto">X@-------------</AM>
+<AM lemma="Presidio-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0658-001-p1s0W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -35,7 +38,10 @@
 <LM>w#w-wsj0658-001-p1s0W3</LM>
 </w.rf>
 <form>Oil</form>
-<tag lemma="Oil" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Oil" src="auto">X@-------------</AM>
+<AM lemma="Oil-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0658-001-p1s0W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -51,6 +57,7 @@
 <AM lemma="co-4_^(který:_př.:_o_těch,_co_odešli/co_je_znal)" src="auto">P4XXX----------</AM>
 <AM lemma="co-5_^(př._co_nejméně,_co_nevidět,_co_chvíli,_co_do_počtu,_atd.)" src="auto">Db-------------</AM>
 <AM lemma="co-77_:B" src="auto">F%-------------</AM>
+<AM lemma="Co-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj0658-001-p1s0W5-Ta">
@@ -201,7 +208,10 @@
 <LM>w#w-wsj0658-001-p1s0W17</LM>
 </w.rf>
 <form>Gulf</form>
-<tag lemma="Gulf" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Gulf" src="auto">X@-------------</AM>
+<AM lemma="Gulf-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0658-001-p1s0W18-Ta">
 <src.rf>tagger-a</src.rf>
@@ -209,7 +219,10 @@
 <LM>w#w-wsj0658-001-p1s0W18</LM>
 </w.rf>
 <form>Canada</form>
-<tag lemma="Canada_;G_;K_;R_,s_^(^DD**Kanada)" src="auto" recommended="1">NNFS1-----A----</tag>
+<tag>
+<AM lemma="Canada_;G_;K_;R_,s_^(^DD**Kanada)" src="auto" recommended="1">NNFS1-----A----</AM>
+<AM lemma="Canada-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0658-001-p1s0W19-Ta">
 <src.rf>tagger-a</src.rf>
@@ -217,7 +230,10 @@
 <LM>w#w-wsj0658-001-p1s0W19</LM>
 </w.rf>
 <form>Resources</form>
-<tag lemma="Resources" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Resources" src="auto">X@-------------</AM>
+<AM lemma="Resources-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0658-001-p1s0W20-Ta">
 <src.rf>tagger-a</src.rf>
@@ -225,7 +241,10 @@
 <LM>w#w-wsj0658-001-p1s0W20</LM>
 </w.rf>
 <form>Ltd</form>
-<tag lemma="Ltd-77_:B" src="auto" recommended="1">F%-------------</tag>
+<tag>
+<AM lemma="Ltd-77_:B" src="auto" recommended="1">F%-------------</AM>
+<AM lemma="Ltd-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0658-001-p1s0W21-Ta">
 <src.rf>tagger-a</src.rf>
@@ -298,7 +317,10 @@
 <LM>w#w-wsj0658-001-p1s1W2</LM>
 </w.rf>
 <form>Presidio</form>
-<tag lemma="Presidio" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Presidio" src="auto">X@-------------</AM>
+<AM lemma="Presidio_;K" src="manual" selected="1">NNNS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj0658-001-p1s1W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -551,6 +573,7 @@
 <tag>
 <AM lemma="Home_;S" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="home_,t" src="auto">AAXXX----1A----</AM>
+<AM lemma="Home-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj0658-001-p1s1W22-Ta">
@@ -559,7 +582,10 @@
 <LM>w#w-wsj0658-001-p1s1W22</LM>
 </w.rf>
 <form>Petroleum</form>
-<tag lemma="Petroleum" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Petroleum" src="auto">X@-------------</AM>
+<AM lemma="Petroleum-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0658-001-p1s1W23-Ta">
 <src.rf>tagger-a</src.rf>
@@ -567,7 +593,10 @@
 <LM>w#w-wsj0658-001-p1s1W23</LM>
 </w.rf>
 <form>Corp</form>
-<tag lemma="corp-77_:B" src="auto" recommended="1">F%-------------</tag>
+<tag>
+<AM lemma="corp-77_:B" src="auto" recommended="1">F%-------------</AM>
+<AM lemma="Corp-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0658-001-p1s1W24-Ta">
 <src.rf>tagger-a</src.rf>
@@ -877,7 +906,7 @@
 <AM lemma="stop-2" src="auto">II-------------</AM>
 <AM lemma="stop-3" src="auto">A2--------A----</AM>
 <AM lemma="stop-77" src="auto">F%-------------</AM>
-<AM lemma="stopa_^(míra;_otisk_s.;_s._po_něčem_[malé_množství])" src="auto" recommended="1">NNFP2-----A----</AM>
+<AM lemma="stopa_^(míra;_otisk_s.;_s._po_něčem_[malé_množství])" src="auto" recommended="1" selected="1">NNFP2-----A----</AM>
 <AM lemma="stopit_^(úplně_spotřebovat_topením)" src="auto">Vi-S---2--A-P--</AM>
 <AM lemma="stopit_^(úplně_spotřebovat_topením)" src="auto">Vi-S---3--A-P-4</AM>
 <AM lemma="stopnout" src="auto">VpYS---XR-AAP-6</AM>
@@ -936,7 +965,10 @@
 <LM>w#w-wsj0658-001-p1s2W2</LM>
 </w.rf>
 <form>Presidio</form>
-<tag lemma="Presidio" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Presidio" src="auto">X@-------------</AM>
+<AM lemma="Presidio_;K" src="manual" selected="1">NNNS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj0658-001-p1s2W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1206,7 +1238,10 @@
 <LM>w#w-wsj0658-001-p1s3W2</LM>
 </w.rf>
 <form>Gulf</form>
-<tag lemma="Gulf" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Gulf" src="auto">X@-------------</AM>
+<AM lemma="Gulf-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0658-001-p1s3W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1214,7 +1249,10 @@
 <LM>w#w-wsj0658-001-p1s3W3</LM>
 </w.rf>
 <form>Canada</form>
-<tag lemma="Canada_;G_;K_;R_,s_^(^DD**Kanada)" src="auto" recommended="1">NNFS1-----A----</tag>
+<tag>
+<AM lemma="Canada_;G_;K_;R_,s_^(^DD**Kanada)" src="auto" recommended="1">NNFS1-----A----</AM>
+<AM lemma="Canada-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0658-001-p1s3W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1234,7 +1272,7 @@
 <LM>w#w-wsj0658-001-p1s3W5</LM>
 </w.rf>
 <form>Calgary</form>
-<tag lemma="Calgary_;G" src="auto" recommended="1">NNNXX-----A----</tag>
+<tag lemma="Calgary_;G" src="auto" recommended="1" selected="1">NNNXX-----A----</tag>
 </m>
 <m id="m-wsj0658-001-p1s3W6-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1576,7 +1614,10 @@
 <LM>w#w-wsj0658-001-p1s4W3</LM>
 </w.rf>
 <form>Gulf</form>
-<tag lemma="Gulf" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Gulf" src="auto">X@-------------</AM>
+<AM lemma="Gulf-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0658-001-p1s4W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1584,7 +1625,10 @@
 <LM>w#w-wsj0658-001-p1s4W4</LM>
 </w.rf>
 <form>Canada</form>
-<tag lemma="Canada_;G_;K_;R_,s_^(^DD**Kanada)" src="auto" recommended="1">NNFS1-----A----</tag>
+<tag>
+<AM lemma="Canada_;G_;K_;R_,s_^(^DD**Kanada)" src="auto" recommended="1">NNFS1-----A----</AM>
+<AM lemma="Canada-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0658-001-p1s4W5-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1755,7 +1799,7 @@
 <tag>
 <AM lemma="aktiv_^(schůze)" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="aktiv_^(schůze)" src="auto">NNIS4-----A----</AM>
-<AM lemma="aktivum_^(pohledávka,_přebytek,_majetek;;lingvistický_termín_[činný_rod])" src="auto">NNNP2-----A----</AM>
+<AM lemma="aktivum_^(pohledávka,_přebytek,_majetek;;lingvistický_termín_[činný_rod])" src="auto" selected="1">NNNP2-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0658-001-p1s4W22-Ta">
@@ -1986,7 +2030,10 @@
 <LM>w#w-wsj0658-001-p1s5W5</LM>
 </w.rf>
 <form>Gulf</form>
-<tag lemma="Gulf" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Gulf" src="auto">X@-------------</AM>
+<AM lemma="Gulf-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0658-001-p1s5W6-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1994,7 +2041,10 @@
 <LM>w#w-wsj0658-001-p1s5W6</LM>
 </w.rf>
 <form>Canada</form>
-<tag lemma="Canada_;G_;K_;R_,s_^(^DD**Kanada)" src="auto" recommended="1">NNFS1-----A----</tag>
+<tag>
+<AM lemma="Canada_;G_;K_;R_,s_^(^DD**Kanada)" src="auto" recommended="1">NNFS1-----A----</AM>
+<AM lemma="Canada-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0658-001-p1s5W7-Ta">
 <src.rf>tagger-a</src.rf>

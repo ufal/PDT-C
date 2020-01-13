@@ -30,6 +30,7 @@
 <tag>
 <AM lemma="People_;K_,t_^(Plastic_People)" src="auto">NNMXX-----A----</AM>
 <AM lemma="people-77" src="auto" recommended="1">F%-------------</AM>
+<AM lemma="People-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj0222-001-p1s0W3-Ta">
@@ -59,6 +60,7 @@
 <AM lemma="společnost_:B" src="auto">NNFXX-----A---8</AM>
 <AM lemma="strana" src="auto">NNFXX-----A---8</AM>
 <AM lemma="státní_:B" src="auto">AAXXX----1A---8</AM>
+<AM lemma="s-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj0222-001-p1s0W5-Ta">
@@ -67,7 +69,10 @@
 <LM>w#w-wsj0222-001-p1s0W5</LM>
 </w.rf>
 <form>Savings</form>
-<tag lemma="Savings" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Savings" src="auto">X@-------------</AM>
+<AM lemma="Savings-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0222-001-p1s0W6-Ta">
 <src.rf>tagger-a</src.rf>
@@ -75,7 +80,10 @@
 <LM>w#w-wsj0222-001-p1s0W6</LM>
 </w.rf>
 <form>Financial</form>
-<tag lemma="Financial" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Financial" src="auto">X@-------------</AM>
+<AM lemma="Financial-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0222-001-p1s0W7-Ta">
 <src.rf>tagger-a</src.rf>
@@ -83,7 +91,10 @@
 <LM>w#w-wsj0222-001-p1s0W7</LM>
 </w.rf>
 <form>Corp</form>
-<tag lemma="corp-77_:B" src="auto" recommended="1">F%-------------</tag>
+<tag>
+<AM lemma="corp-77_:B" src="auto" recommended="1">F%-------------</AM>
+<AM lemma="Corp-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0222-001-p1s0W8-Ta">
 <src.rf>tagger-a</src.rf>
@@ -716,6 +727,7 @@
 <tag>
 <AM lemma="People_;K_,t_^(Plastic_People)" src="auto">NNMXX-----A----</AM>
 <AM lemma="people-77" src="auto" recommended="1">F%-------------</AM>
+<AM lemma="People-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj0222-001-p1s2W8-Ta">
@@ -745,6 +757,7 @@
 <AM lemma="společnost_:B" src="auto">NNFXX-----A---8</AM>
 <AM lemma="strana" src="auto">NNFXX-----A---8</AM>
 <AM lemma="státní_:B" src="auto">AAXXX----1A---8</AM>
+<AM lemma="s-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj0222-001-p1s2W10-Ta">
@@ -753,7 +766,10 @@
 <LM>w#w-wsj0222-001-p1s2W10</LM>
 </w.rf>
 <form>Savings</form>
-<tag lemma="Savings" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Savings" src="auto">X@-------------</AM>
+<AM lemma="Savings-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0222-001-p1s2W11-Ta">
 <src.rf>tagger-a</src.rf>
@@ -764,7 +780,7 @@
 <tag>
 <AM lemma="Bank_;S" src="auto">NNMS1-----A----</AM>
 <AM lemma="Bank-1_;K_,t_^(v_cizojaz._názvech_bank)" src="auto">NNFXX-----A----</AM>
-<AM lemma="Bank-77" src="auto" recommended="1">F%-------------</AM>
+<AM lemma="Bank-77" src="auto" recommended="1" selected="1">F%-------------</AM>
 <AM lemma="banka" src="auto">NNFP2-----A----</AM>
 <AM lemma="bank" src="auto">NNIS1-----A----</AM>
 <AM lemma="bank" src="auto">NNIS4-----A----</AM>
@@ -901,7 +917,7 @@
 <form>mnohých</form>
 <tag>
 <AM lemma="mnohý" src="auto">AAFP2----1A----</AM>
-<AM lemma="mnohý" src="auto">AAFP6----1A----</AM>
+<AM lemma="mnohý" src="auto" selected="1">AAFP6----1A----</AM>
 <AM lemma="mnohý" src="auto">AAIP2----1A----</AM>
 <AM lemma="mnohý" src="auto">AAIP6----1A----</AM>
 <AM lemma="mnohý" src="auto">AAMP2----1A----</AM>
@@ -962,7 +978,7 @@
 <form>problémy</form>
 <tag>
 <AM lemma="problém" src="auto" recommended="1">NNIP1-----A----</AM>
-<AM lemma="problém" src="auto">NNIP4-----A----</AM>
+<AM lemma="problém" src="auto" selected="1">NNIP4-----A----</AM>
 <AM lemma="problém" src="auto">NNIP5-----A----</AM>
 <AM lemma="problém" src="auto">NNIP7-----A----</AM>
 </tag>

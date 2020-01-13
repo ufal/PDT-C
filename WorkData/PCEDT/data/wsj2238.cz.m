@@ -24,7 +24,10 @@
 <LM>w#w-wsj2238-001-p1s0W2</LM>
 </w.rf>
 <form>Waterford</form>
-<tag lemma="Waterford" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Waterford" src="auto">X@-------------</AM>
+<AM lemma="Waterford-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj2238-001-p1s0W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -32,7 +35,10 @@
 <LM>w#w-wsj2238-001-p1s0W3</LM>
 </w.rf>
 <form>Wedgwood</form>
-<tag lemma="Wedgwood_;S" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Wedgwood_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Wedgwood-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj2238-001-p1s0W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -141,7 +147,10 @@
 <LM>w#w-wsj2238-001-p1s0W11</LM>
 </w.rf>
 <form>wedgwoodského</form>
-<tag lemma="wedgwoodského" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="wedgwoodského" src="auto">X@-------------</AM>
+<AM lemma="wedgwoodský" src="manual" selected="1">AAIS2----1A----</AM>
+</tag>
 </m>
 <m id="m-wsj2238-001-p1s0W12-Ta">
 <src.rf>tagger-a</src.rf>
@@ -181,7 +190,7 @@
 <AM lemma="potýkající_^(*4t)" src="auto">AGMP1-----A----</AM>
 <AM lemma="potýkající_^(*4t)" src="auto">AGMP4-----A----</AM>
 <AM lemma="potýkající_^(*4t)" src="auto">AGMP5-----A----</AM>
-<AM lemma="potýkající_^(*4t)" src="auto">AGMS1-----A----</AM>
+<AM lemma="potýkající_^(*4t)" src="auto" selected="1">AGMS1-----A----</AM>
 <AM lemma="potýkající_^(*4t)" src="auto">AGMS5-----A----</AM>
 <AM lemma="potýkající_^(*4t)" src="auto">AGNP1-----A----</AM>
 <AM lemma="potýkající_^(*4t)" src="auto">AGNP4-----A----</AM>
@@ -688,7 +697,7 @@
 <AM lemma="špatný" src="auto">AAFS5----2A----</AM>
 <AM lemma="špatný" src="auto">AAFS6----2A----</AM>
 <AM lemma="špatný" src="auto">AAFS7----2A----</AM>
-<AM lemma="špatný" src="auto">AAIP1----2A----</AM>
+<AM lemma="špatný" src="auto" selected="1">AAIP1----2A----</AM>
 <AM lemma="špatný" src="auto">AAIP4----2A----</AM>
 <AM lemma="špatný" src="auto">AAIP5----2A----</AM>
 <AM lemma="špatný" src="auto">AAIS1----2A----</AM>
@@ -994,7 +1003,10 @@
 <LM>w#w-wsj2238-001-p1s2W9</LM>
 </w.rf>
 <form>Waterfordu</form>
-<tag lemma="Waterfordu" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Waterfordu" src="auto">X@-------------</AM>
+<AM lemma="Waterford_;G_;K" src="manual" selected="1">NNIS2-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj2238-001-p1s2W10-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1239,7 +1251,7 @@
 <AM lemma="minoritní" src="auto">AAFS6----1A----</AM>
 <AM lemma="minoritní" src="auto">AAFS7----1A----</AM>
 <AM lemma="minoritní" src="auto" recommended="1">AAIP1----1A----</AM>
-<AM lemma="minoritní" src="auto">AAIP4----1A----</AM>
+<AM lemma="minoritní" src="auto" selected="1">AAIP4----1A----</AM>
 <AM lemma="minoritní" src="auto">AAIP5----1A----</AM>
 <AM lemma="minoritní" src="auto">AAIS1----1A----</AM>
 <AM lemma="minoritní" src="auto">AAIS4----1A----</AM>
@@ -1265,7 +1277,7 @@
 <form>úroky</form>
 <tag>
 <AM lemma="úrok" src="auto" recommended="1">NNIP1-----A----</AM>
-<AM lemma="úrok" src="auto">NNIP4-----A----</AM>
+<AM lemma="úrok" src="auto" selected="1">NNIP4-----A----</AM>
 <AM lemma="úrok" src="auto">NNIP5-----A----</AM>
 <AM lemma="úrok" src="auto">NNIP7-----A----</AM>
 </tag>
@@ -1884,7 +1896,10 @@
 <LM>w#w-wsj2238-001-p1s6W1</LM>
 </w.rf>
 <form>Waterford</form>
-<tag lemma="Waterford" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Waterford" src="auto">X@-------------</AM>
+<AM lemma="Waterford_;G_;K" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj2238-001-p1s6W2-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1981,7 +1996,10 @@
 <LM>w#w-wsj2238-001-p1s7W1</LM>
 </w.rf>
 <form>Waterford</form>
-<tag lemma="Waterford" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Waterford" src="auto">X@-------------</AM>
+<AM lemma="Waterford_;G_;K" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj2238-001-p1s7W2-Ta">
 <src.rf>tagger-a</src.rf>

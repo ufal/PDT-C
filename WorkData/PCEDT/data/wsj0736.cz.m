@@ -27,7 +27,10 @@
 <LM>w#w-wsj0736-001-p1s0W2</LM>
 </w.rf>
 <form>Poughkeepsie</form>
-<tag lemma="Poughkeepsie" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Poughkeepsie" src="auto">X@-------------</AM>
+<AM lemma="Poughkeepsie-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0736-001-p1s0W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -35,7 +38,10 @@
 <LM>w#w-wsj0736-001-p1s0W3</LM>
 </w.rf>
 <form>Savings</form>
-<tag lemma="Savings" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Savings" src="auto">X@-------------</AM>
+<AM lemma="Savings-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0736-001-p1s0W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -241,7 +247,13 @@
 <AM lemma="Karolina_;Y" src="auto">NNFS6-----A----</AM>
 <AM lemma="karolina" src="auto">NNFS3-----A----</AM>
 <AM lemma="karolina" src="auto" recommended="1">NNFS6-----A----</AM>
+<AM lemma="Karolina-2_;G" src="manual">NNFS6-----A----</AM>
 </tag>
+<comment>
+<LM type="New Form">
+<text>Karolíně</text>
+</LM>
+</comment>
 </m>
 <m id="m-wsj0736-001-p1s0W20-Ta">
 <src.rf>tagger-a</src.rf>
@@ -250,7 +262,7 @@
 </w.rf>
 <form>bance</form>
 <tag>
-<AM lemma="banka" src="auto">NNFS3-----A----</AM>
+<AM lemma="banka" src="auto" selected="1">NNFS3-----A----</AM>
 <AM lemma="banka" src="auto" recommended="1">NNFS6-----A----</AM>
 </tag>
 </m>
@@ -260,7 +272,10 @@
 <LM>w#w-wsj0736-001-p1s0W21</LM>
 </w.rf>
 <form>First</form>
-<tag lemma="First" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="First" src="auto">X@-------------</AM>
+<AM lemma="First-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0736-001-p1s0W22-Ta">
 <src.rf>tagger-a</src.rf>
@@ -268,7 +283,10 @@
 <LM>w#w-wsj0736-001-p1s0W22</LM>
 </w.rf>
 <form>Citizens</form>
-<tag lemma="Citizens" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Citizens" src="auto">X@-------------</AM>
+<AM lemma="Citizens-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0736-001-p1s0W23-Ta">
 <src.rf>tagger-a</src.rf>
@@ -279,7 +297,7 @@
 <tag>
 <AM lemma="Bank_;S" src="auto">NNMS1-----A----</AM>
 <AM lemma="Bank-1_;K_,t_^(v_cizojaz._názvech_bank)" src="auto">NNFXX-----A----</AM>
-<AM lemma="Bank-77" src="auto">F%-------------</AM>
+<AM lemma="Bank-77" src="auto" selected="1">F%-------------</AM>
 <AM lemma="banka" src="auto" recommended="1">NNFP2-----A----</AM>
 <AM lemma="bank" src="auto">NNIS1-----A----</AM>
 <AM lemma="bank" src="auto">NNIS4-----A----</AM>
@@ -348,6 +366,7 @@
 <AM lemma="Karolín_;G" src="auto">NNIS6-----A----</AM>
 <AM lemma="Karolína_;Y" src="auto">NNFS3-----A----</AM>
 <AM lemma="Karolína_;Y" src="auto" recommended="1">NNFS6-----A----</AM>
+<AM lemma="Karolína-2_;G" src="manual" selected="1">NNFS6-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0736-001-p1s0W27-Ta">
@@ -374,7 +393,10 @@
 <LM>w#w-wsj0736-001-p1s1W2</LM>
 </w.rf>
 <form>Poughkeepsie</form>
-<tag lemma="Poughkeepsie" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Poughkeepsie" src="auto">X@-------------</AM>
+<AM lemma="Poughkeepsie_;K" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj0736-001-p1s1W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -420,7 +442,7 @@
 <AM lemma="zaúčtování_^(*3at)" src="auto" recommended="1">NNNS1-----A----</AM>
 <AM lemma="zaúčtování_^(*3at)" src="auto">NNNS2-----A----</AM>
 <AM lemma="zaúčtování_^(*3at)" src="auto">NNNS3-----A----</AM>
-<AM lemma="zaúčtování_^(*3at)" src="auto">NNNS4-----A----</AM>
+<AM lemma="zaúčtování_^(*3at)" src="auto" selected="1">NNNS4-----A----</AM>
 <AM lemma="zaúčtování_^(*3at)" src="auto">NNNS5-----A----</AM>
 <AM lemma="zaúčtování_^(*3at)" src="auto">NNNS6-----A----</AM>
 </tag>
@@ -758,7 +780,10 @@
 <LM>w#w-wsj0736-001-p1s2W11</LM>
 </w.rf>
 <form>Poughkeepsie</form>
-<tag lemma="Poughkeepsie" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Poughkeepsie" src="auto">X@-------------</AM>
+<AM lemma="Poughkeepsie_;K" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj0736-001-p1s2W12-Ta">
 <src.rf>tagger-a</src.rf>
@@ -801,7 +826,7 @@
 <form>které</form>
 <tag>
 <AM lemma="který" src="auto" recommended="1">P4FP1----------</AM>
-<AM lemma="který" src="auto">P4FP4----------</AM>
+<AM lemma="který" src="auto" selected="1">P4FP4----------</AM>
 <AM lemma="který" src="auto">P4FS2----------</AM>
 <AM lemma="který" src="auto">P4FS3----------</AM>
 <AM lemma="který" src="auto">P4FS6----------</AM>
@@ -997,6 +1022,11 @@
 <AM lemma="karolina" src="auto">NNFS3-----A----</AM>
 <AM lemma="karolina" src="auto" recommended="1">NNFS6-----A----</AM>
 </tag>
+<comment>
+<LM type="New Form">
+<text>Karolíně</text>
+</LM>
+</comment>
 </m>
 <m id="m-wsj0736-001-p1s2W28-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1210,7 +1240,7 @@
 <AM lemma="který" src="auto">P4NP4---------6</AM>
 <AM lemma="který" src="auto">P4NS1----------</AM>
 <AM lemma="který" src="auto">P4NS4----------</AM>
-<AM lemma="který" src="auto">P4YP4----------</AM>
+<AM lemma="který" src="auto" selected="1">P4YP4----------</AM>
 </tag>
 </m>
 <m id="m-wsj0736-001-p1s4W10-Ta">
@@ -1514,7 +1544,10 @@
 <LM>w#w-wsj0736-001-p1s4W34</LM>
 </w.rf>
 <form>Poughkeepsie</form>
-<tag lemma="Poughkeepsie" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Poughkeepsie" src="auto">X@-------------</AM>
+<AM lemma="Poughkeepsie_;K" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj0736-001-p1s4W35-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1878,7 +1911,10 @@
 <LM>w#w-wsj0736-001-p1s6W8</LM>
 </w.rf>
 <form>Poughkeepsie</form>
-<tag lemma="Poughkeepsie" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Poughkeepsie" src="auto">X@-------------</AM>
+<AM lemma="Poughkeepsie-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0736-001-p1s6W9-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1886,7 +1922,10 @@
 <LM>w#w-wsj0736-001-p1s6W9</LM>
 </w.rf>
 <form>Savings</form>
-<tag lemma="Savings" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Savings" src="auto">X@-------------</AM>
+<AM lemma="Savings-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0736-001-p1s6W10-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2040,7 +2079,10 @@
 <LM>w#w-wsj0736-001-p1s7W2</LM>
 </w.rf>
 <form>Poughkeepsie</form>
-<tag lemma="Poughkeepsie" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Poughkeepsie" src="auto">X@-------------</AM>
+<AM lemma="Poughkeepsie_;K" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj0736-001-p1s7W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2362,7 +2404,7 @@
 <form>i</form>
 <tag>
 <AM lemma="i-1" src="auto" recommended="1">J^-------------</AM>
-<AM lemma="i-2" src="auto">TT-------------</AM>
+<AM lemma="i-2" src="auto" selected="1">TT-------------</AM>
 <AM lemma="i-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
 <AM lemma="i-88_:B" src="auto">NNXXX-----A----</AM>
 </tag>
@@ -2424,7 +2466,7 @@
 <tag>
 <AM lemma="termín" src="auto" recommended="1">NNIS2-----A----</AM>
 <AM lemma="termín" src="auto">NNIS3-----A----</AM>
-<AM lemma="termín" src="auto">NNIS6-----A----</AM>
+<AM lemma="termín" src="auto" selected="1">NNIS6-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0736-001-p1s8W18-Ta">
@@ -2728,7 +2770,7 @@
 <form>soudní</form>
 <tag>
 <AM lemma="soudní" src="auto">AAFP1----1A----</AM>
-<AM lemma="soudní" src="auto">AAFP4----1A----</AM>
+<AM lemma="soudní" src="auto" selected="1">AAFP4----1A----</AM>
 <AM lemma="soudní" src="auto">AAFP5----1A----</AM>
 <AM lemma="soudní" src="auto">AAFS1----1A----</AM>
 <AM lemma="soudní" src="auto" recommended="1">AAFS2----1A----</AM>
@@ -2766,7 +2808,7 @@
 <form>pře</form>
 <tag>
 <AM lemma="pře_^([soudní]_spor)" src="auto">NNFP1-----A----</AM>
-<AM lemma="pře_^([soudní]_spor)" src="auto">NNFP4-----A----</AM>
+<AM lemma="pře_^([soudní]_spor)" src="auto" selected="1">NNFP4-----A----</AM>
 <AM lemma="pře_^([soudní]_spor)" src="auto">NNFP5-----A----</AM>
 <AM lemma="pře_^([soudní]_spor)" src="auto">NNFS1-----A----</AM>
 <AM lemma="pře_^([soudní]_spor)" src="auto" recommended="1">NNFS2-----A----</AM>

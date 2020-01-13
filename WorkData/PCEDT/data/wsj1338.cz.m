@@ -27,7 +27,10 @@
 <LM>w#w-wsj1338-001-p1s0W2</LM>
 </w.rf>
 <form>Enviropact</form>
-<tag lemma="Enviropact" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Enviropact" src="auto">X@-------------</AM>
+<AM lemma="Enviropact-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1338-001-p1s0W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -38,6 +41,7 @@
 <tag>
 <AM lemma="Inc-77_:B" src="auto" recommended="1">F%-------------</AM>
 <AM lemma="inc-77_:B" src="auto">F%-------------</AM>
+<AM lemma="Inc-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1338-001-p1s0W4-Ta">
@@ -297,7 +301,10 @@
 <LM>w#w-wsj1338-001-p1s0W22</LM>
 </w.rf>
 <form>GSX</form>
-<tag lemma="GSX" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="GSX" src="auto">X@-------------</AM>
+<AM lemma="GSX-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj1338-001-p1s0W23-Ta">
 <src.rf>tagger-a</src.rf>
@@ -305,7 +312,10 @@
 <LM>w#w-wsj1338-001-p1s0W23</LM>
 </w.rf>
 <form>Chemical</form>
-<tag lemma="Chemical_:B_;K_,t_^(v_názvu_Chemical_Bank_apod.)" src="auto" recommended="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="Chemical_:B_;K_,t_^(v_názvu_Chemical_Bank_apod.)" src="auto" recommended="1">AAXXX----1A----</AM>
+<AM lemma="Chemical-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1338-001-p1s0W24-Ta">
 <src.rf>tagger-a</src.rf>
@@ -313,7 +323,10 @@
 <LM>w#w-wsj1338-001-p1s0W24</LM>
 </w.rf>
 <form>Services</form>
-<tag lemma="Services" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Services" src="auto">X@-------------</AM>
+<AM lemma="Services-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1338-001-p1s0W25-Ta">
 <src.rf>tagger-a</src.rf>
@@ -450,7 +463,7 @@
 <AM lemma="zabývající_^(*4t)" src="auto">AGIP1-----A----</AM>
 <AM lemma="zabývající_^(*4t)" src="auto">AGIP4-----A----</AM>
 <AM lemma="zabývající_^(*4t)" src="auto">AGIP5-----A----</AM>
-<AM lemma="zabývající_^(*4t)" src="auto">AGIS1-----A----</AM>
+<AM lemma="zabývající_^(*4t)" src="auto" selected="1">AGIS1-----A----</AM>
 <AM lemma="zabývající_^(*4t)" src="auto">AGIS4-----A----</AM>
 <AM lemma="zabývající_^(*4t)" src="auto">AGIS5-----A----</AM>
 <AM lemma="zabývající_^(*4t)" src="auto">AGMP1-----A----</AM>
@@ -549,7 +562,10 @@
 <LM>w#w-wsj1338-001-p1s1W15</LM>
 </w.rf>
 <form>GSX</form>
-<tag lemma="GSX" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="GSX" src="auto">X@-------------</AM>
+<AM lemma="GSX-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj1338-001-p1s1W16-Ta">
 <src.rf>tagger-a</src.rf>
@@ -790,7 +806,10 @@
 <LM>w#w-wsj1338-001-p1s2W6</LM>
 </w.rf>
 <form>GSX</form>
-<tag lemma="GSX" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="GSX" src="auto">X@-------------</AM>
+<AM lemma="GSX-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj1338-001-p1s2W7-Ta">
 <src.rf>tagger-a</src.rf>
@@ -884,7 +903,10 @@
 <LM>w#w-wsj1338-001-p1s2W12</LM>
 </w.rf>
 <form>Enviropact</form>
-<tag lemma="Enviropact" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Enviropact" src="auto">X@-------------</AM>
+<AM lemma="Enviropact_;K" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj1338-001-p1s2W13-Ta">
 <src.rf>tagger-a</src.rf>
@@ -953,7 +975,7 @@
 </w.rf>
 <form>dolaru</form>
 <tag>
-<AM lemma="dolar" src="auto">NNIS2-----A----</AM>
+<AM lemma="dolar" src="auto" selected="1">NNIS2-----A----</AM>
 <AM lemma="dolar" src="auto">NNIS3-----A----</AM>
 <AM lemma="dolar" src="auto" recommended="1">NNIS6-----A----</AM>
 </tag>
@@ -1324,7 +1346,10 @@
 <LM>w#w-wsj1338-001-p1s3W11</LM>
 </w.rf>
 <form>Enviropact</form>
-<tag lemma="Enviropact" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Enviropact" src="auto">X@-------------</AM>
+<AM lemma="Enviropact_;K" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj1338-001-p1s3W12-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1460,7 +1485,10 @@
 <LM>w#w-wsj1338-001-p1s4W2</LM>
 </w.rf>
 <form>Enviropact</form>
-<tag lemma="Enviropact" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Enviropact" src="auto">X@-------------</AM>
+<AM lemma="Enviropact_;K" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj1338-001-p1s4W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1748,7 +1776,7 @@
 <LM>w#w-wsj1338-001-p1s5W9</LM>
 </w.rf>
 <form>zhruba</form>
-<tag lemma="zhruba" src="auto" recommended="1">Db-------------</tag>
+<tag lemma="zhruba" src="auto" recommended="1" selected="1">Db-------------</tag>
 </m>
 <m id="m-wsj1338-001-p1s5W10-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1804,7 +1832,10 @@
 <LM>w#w-wsj1338-001-p1s6W2</LM>
 </w.rf>
 <form>Enviropact</form>
-<tag lemma="Enviropact" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Enviropact" src="auto">X@-------------</AM>
+<AM lemma="Enviropact_;K" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj1338-001-p1s6W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2263,7 +2294,10 @@
 <LM>w#w-wsj1338-001-p1s7W2</LM>
 </w.rf>
 <form>GSX</form>
-<tag lemma="GSX" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="GSX" src="auto">X@-------------</AM>
+<AM lemma="GSX-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj1338-001-p1s7W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2310,7 +2344,10 @@
 <LM>w#w-wsj1338-001-p1s7W6</LM>
 </w.rf>
 <form>Laidlaw</form>
-<tag lemma="Laidlaw" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Laidlaw" src="auto">X@-------------</AM>
+<AM lemma="Laidlaw-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1338-001-p1s7W7-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2318,7 +2355,10 @@
 <LM>w#w-wsj1338-001-p1s7W7</LM>
 </w.rf>
 <form>Transportation</form>
-<tag lemma="Transportation" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Transportation" src="auto">X@-------------</AM>
+<AM lemma="Transportation-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1338-001-p1s7W8-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2326,7 +2366,10 @@
 <LM>w#w-wsj1338-001-p1s7W8</LM>
 </w.rf>
 <form>Ltd</form>
-<tag lemma="Ltd-77_:B" src="auto" recommended="1">F%-------------</tag>
+<tag>
+<AM lemma="Ltd-77_:B" src="auto" recommended="1">F%-------------</AM>
+<AM lemma="Ltd-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1338-001-p1s7W9-Ta">
 <src.rf>tagger-a</src.rf>

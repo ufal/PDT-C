@@ -41,6 +41,11 @@
 <AM lemma="41letý" src="auto">AANS4----1A---6</AM>
 <AM lemma="41letý" src="auto">AANS5----1A---6</AM>
 </tag>
+<comment>
+<LM type="Other">
+<text>špatná tokenizace</text>
+</LM>
+</comment>
 </m>
 <m id="m-wsj0945-001-p1s0W2-Ta">
 <src.rf>tagger-a</src.rf>
@@ -57,6 +62,7 @@
 <AM lemma="hala" src="auto">NNFS3-----A----</AM>
 <AM lemma="hala" src="auto">NNFS6-----A----</AM>
 <AM lemma="halit" src="auto">VeYS------A-I--</AM>
+<AM lemma="Hale-1_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0945-001-p1s0W3-Ta">
@@ -65,7 +71,10 @@
 <LM>w#w-wsj0945-001-p1s0W3</LM>
 </w.rf>
 <form>Milgrim</form>
-<tag lemma="Milgrim" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Milgrim" src="auto">X@-------------</AM>
+<AM lemma="Milgrim_;S" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj0945-001-p1s0W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -165,7 +174,10 @@
 <LM>w#w-wsj0945-001-p1s0W10</LM>
 </w.rf>
 <form>Elecktra</form>
-<tag lemma="Elecktra" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Elecktra" src="auto">X@-------------</AM>
+<AM lemma="Elecktra-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0945-001-p1s0W11-Ta">
 <src.rf>tagger-a</src.rf>
@@ -173,7 +185,10 @@
 <LM>w#w-wsj0945-001-p1s0W11</LM>
 </w.rf>
 <form>Entertainment</form>
-<tag lemma="Entertainment" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Entertainment" src="auto">X@-------------</AM>
+<AM lemma="Entertainment-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0945-001-p1s0W12-Ta">
 <src.rf>tagger-a</src.rf>
@@ -184,6 +199,7 @@
 <tag>
 <AM lemma="Inc-77_:B" src="auto" recommended="1">F%-------------</AM>
 <AM lemma="inc-77_:B" src="auto">F%-------------</AM>
+<AM lemma="Inc-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj0945-001-p1s0W13-Ta">
@@ -251,6 +267,7 @@
 <tag>
 <AM lemma="Kapitol_;G_,x" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Kapitol_;G_,x" src="auto">NNIS4-----A----</AM>
+<AM lemma="Capitol-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj0945-001-p1s0W20-Ta">
@@ -259,7 +276,10 @@
 <LM>w#w-wsj0945-001-p1s0W20</LM>
 </w.rf>
 <form>Records</form>
-<tag lemma="Records" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Records" src="auto">X@-------------</AM>
+<AM lemma="Records-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0945-001-p1s0W21-Ta">
 <src.rf>tagger-a</src.rf>
@@ -270,6 +290,7 @@
 <tag>
 <AM lemma="Inc-77_:B" src="auto" recommended="1">F%-------------</AM>
 <AM lemma="inc-77_:B" src="auto">F%-------------</AM>
+<AM lemma="Inc-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj0945-001-p1s0W22-Ta">
@@ -298,7 +319,7 @@
 <AM lemma="jednotka" src="auto" recommended="1">NNFP1-----A----</AM>
 <AM lemma="jednotka" src="auto">NNFP4-----A----</AM>
 <AM lemma="jednotka" src="auto">NNFP5-----A----</AM>
-<AM lemma="jednotka" src="auto">NNFS2-----A----</AM>
+<AM lemma="jednotka" src="auto" selected="1">NNFS2-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0945-001-p1s0W25-Ta">
@@ -353,7 +374,10 @@
 <LM>w#w-wsj0945-001-p1s1W1</LM>
 </w.rf>
 <form>Milgrim</form>
-<tag lemma="Milgrim" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Milgrim" src="auto">X@-------------</AM>
+<AM lemma="Milgrim_;S" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj0945-001-p1s1W2-Ta">
 <src.rf>tagger-a</src.rf>

@@ -27,7 +27,10 @@
 <LM>w#w-wsj1882-001-p1s0W2</LM>
 </w.rf>
 <form>Addington</form>
-<tag lemma="Addington_;S" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Addington_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Addington-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1882-001-p1s0W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -35,7 +38,10 @@
 <LM>w#w-wsj1882-001-p1s0W3</LM>
 </w.rf>
 <form>Resources</form>
-<tag lemma="Resources" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Resources" src="auto">X@-------------</AM>
+<AM lemma="Resources-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1882-001-p1s0W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -46,6 +52,7 @@
 <tag>
 <AM lemma="Inc-77_:B" src="auto" recommended="1">F%-------------</AM>
 <AM lemma="inc-77_:B" src="auto">F%-------------</AM>
+<AM lemma="Inc-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1882-001-p1s0W5-Ta">
@@ -175,7 +182,7 @@
 <tag>
 <AM lemma="splacený_^(*4tit)" src="auto">AAFP2----1N----</AM>
 <AM lemma="splacený_^(*4tit)" src="auto">AAFP6----1N----</AM>
-<AM lemma="splacený_^(*4tit)" src="auto">AAIP2----1N----</AM>
+<AM lemma="splacený_^(*4tit)" src="auto" selected="1">AAIP2----1N----</AM>
 <AM lemma="splacený_^(*4tit)" src="auto">AAIP6----1N----</AM>
 <AM lemma="splacený_^(*4tit)" src="auto" recommended="1">AAMP2----1N----</AM>
 <AM lemma="splacený_^(*4tit)" src="auto">AAMP6----1N----</AM>

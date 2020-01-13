@@ -627,7 +627,7 @@
 <LM>w#w-wsj1979-001-p1s1W30</LM>
 </w.rf>
 <form>loni</form>
-<tag lemma="vloni_,s_^(^DD**vloni)" src="auto" recommended="1">Db-------------</tag>
+<tag lemma="vloni_,s_^(^DD**vloni)" src="auto" recommended="1" selected="1">Db-------------</tag>
 </m>
 <m id="m-wsj1979-001-p1s1W31-Ta">
 <src.rf>tagger-a</src.rf>

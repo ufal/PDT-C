@@ -30,6 +30,7 @@
 <tag>
 <AM lemma="Wheeling_;S" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Wheeling_;S" src="auto">NNIS4-----A----</AM>
+<AM lemma="Wheeling-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1776-001-p1s0W3-Ta">
@@ -49,6 +50,7 @@
 <tag>
 <AM lemma="Pittsburgh_;G" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Pittsburgh_;G" src="auto">NNIS4-----A----</AM>
+<AM lemma="Pittsburgh-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1776-001-p1s0W5-Ta">
@@ -57,7 +59,10 @@
 <LM>w#w-wsj1776-001-p1s0W5</LM>
 </w.rf>
 <form>Steel</form>
-<tag lemma="Steel" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Steel" src="auto">X@-------------</AM>
+<AM lemma="Steel-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1776-001-p1s0W6-Ta">
 <src.rf>tagger-a</src.rf>
@@ -65,7 +70,10 @@
 <LM>w#w-wsj1776-001-p1s0W6</LM>
 </w.rf>
 <form>Corp</form>
-<tag lemma="corp-77_:B" src="auto" recommended="1">F%-------------</tag>
+<tag>
+<AM lemma="corp-77_:B" src="auto" recommended="1">F%-------------</AM>
+<AM lemma="Corp-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1776-001-p1s0W7-Ta">
 <src.rf>tagger-a</src.rf>
@@ -155,7 +163,10 @@
 <LM>w#w-wsj1776-001-p1s0W14</LM>
 </w.rf>
 <form>60palcové</form>
-<tag lemma="60palcové" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="60palcové" src="auto">X@-------------</AM>
+<AM lemma="60palcový" src="manual" selected="1">AAFS6----1A----</AM>
+</tag>
 </m>
 <m id="m-wsj1776-001-p1s0W15-Ta">
 <src.rf>tagger-a</src.rf>
@@ -307,7 +318,10 @@
 <LM>w#w-wsj1776-001-p1s0W23</LM>
 </w.rf>
 <form>Allenportu</form>
-<tag lemma="Allenportu" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Allenportu" src="auto">X@-------------</AM>
+<AM lemma="Allenport_;G" src="manual" selected="1">NNIS6-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj1776-001-p1s0W24-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1278,7 +1292,7 @@
 <AM lemma="časový" src="auto">AAIP4----1A---6</AM>
 <AM lemma="časový" src="auto">AAIP5----1A---6</AM>
 <AM lemma="časový" src="auto" recommended="1">AAIS1----1A----</AM>
-<AM lemma="časový" src="auto">AAIS4----1A----</AM>
+<AM lemma="časový" src="auto" selected="1">AAIS4----1A----</AM>
 <AM lemma="časový" src="auto">AAIS5----1A----</AM>
 <AM lemma="časový" src="auto">AAMP1----1A---6</AM>
 <AM lemma="časový" src="auto">AAMP4----1A---6</AM>
@@ -1301,7 +1315,7 @@
 <form>harmonogram</form>
 <tag>
 <AM lemma="harmonogram" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="harmonogram" src="auto">NNIS4-----A----</AM>
+<AM lemma="harmonogram" src="auto" selected="1">NNIS4-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1776-001-p1s3W7-Ta">

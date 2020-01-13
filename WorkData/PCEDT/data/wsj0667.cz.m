@@ -27,7 +27,10 @@
 <LM>w#w-wsj0667-001-p1s0W2</LM>
 </w.rf>
 <form>Shoney</form>
-<tag lemma="Shoney" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Shoney" src="auto">X@-------------</AM>
+<AM lemma="Shoney-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0667-001-p1s0W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -38,6 +41,7 @@
 <tag>
 <AM lemma="Inc-77_:B" src="auto" recommended="1">F%-------------</AM>
 <AM lemma="inc-77_:B" src="auto">F%-------------</AM>
+<AM lemma="Inc-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj0667-001-p1s0W4-Ta">
@@ -201,7 +205,7 @@
 <form>i</form>
 <tag>
 <AM lemma="i-1" src="auto" recommended="1">J^-------------</AM>
-<AM lemma="i-2" src="auto">TT-------------</AM>
+<AM lemma="i-2" src="auto" selected="1">TT-------------</AM>
 <AM lemma="i-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
 <AM lemma="i-88_:B" src="auto">NNXXX-----A----</AM>
 </tag>
@@ -214,7 +218,7 @@
 <form>odpis</form>
 <tag>
 <AM lemma="odpis" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="odpis" src="auto">NNIS4-----A----</AM>
+<AM lemma="odpis" src="auto" selected="1">NNIS4-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0667-001-p1s0W20-Ta">
@@ -292,7 +296,7 @@
 </w.rf>
 <form>sedm</form>
 <tag>
-<AM lemma="sedm`7" src="auto">Cn-S1----------</AM>
+<AM lemma="sedm`7" src="auto" selected="1">Cn-S1----------</AM>
 <AM lemma="sedm`7" src="auto" recommended="1">Cn-S4----------</AM>
 <AM lemma="sedm`7" src="auto">Cn-S5----------</AM>
 </tag>
@@ -1441,7 +1445,10 @@
 <LM>w#w-wsj0667-001-p1s5W2</LM>
 </w.rf>
 <form>Shoney</form>
-<tag lemma="Shoney" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Shoney" src="auto">X@-------------</AM>
+<AM lemma="Shoney-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0667-001-p1s5W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1470,6 +1477,7 @@
 <AM lemma="společnost_:B" src="auto">NNFXX-----A---8</AM>
 <AM lemma="strana" src="auto">NNFXX-----A---8</AM>
 <AM lemma="státní_:B" src="auto">AAXXX----1A---8</AM>
+<AM lemma="s-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj0667-001-p1s5W5-Ta">
@@ -1567,7 +1575,7 @@
 <tag>
 <AM lemma="jeho_^(přivlast.)" src="auto">PSFSXFS3-------</AM>
 <AM lemma="jeho_^(přivlast.)" src="auto">PSIS4FS3-------</AM>
-<AM lemma="jeho_^(přivlast.)" src="auto">PSNS4FS3-------</AM>
+<AM lemma="jeho_^(přivlast.)" src="auto" selected="1">PSNS4FS3-------</AM>
 <AM lemma="jeho_^(přivlast.)" src="auto">PSXP1FS3-------</AM>
 <AM lemma="jeho_^(přivlast.)" src="auto">PSXP4FS3-------</AM>
 <AM lemma="jeho_^(přivlast.)" src="auto">PSXP5FS3-------</AM>
@@ -1591,7 +1599,7 @@
 <AM lemma="zadlužení_^(*3it)" src="auto" recommended="1">NNNS1-----A----</AM>
 <AM lemma="zadlužení_^(*3it)" src="auto">NNNS2-----A----</AM>
 <AM lemma="zadlužení_^(*3it)" src="auto">NNNS3-----A----</AM>
-<AM lemma="zadlužení_^(*3it)" src="auto">NNNS4-----A----</AM>
+<AM lemma="zadlužení_^(*3it)" src="auto" selected="1">NNNS4-----A----</AM>
 <AM lemma="zadlužení_^(*3it)" src="auto">NNNS5-----A----</AM>
 <AM lemma="zadlužení_^(*3it)" src="auto">NNNS6-----A----</AM>
 </tag>
@@ -1869,6 +1877,11 @@
 <AM lemma="v-88_:B" src="auto">NNXXX-----A----</AM>
 <AM lemma="versus_:B" src="auto">RR--1---------9</AM>
 </tag>
+<comment>
+<LM type="Other">
+<text>nedokončená věta</text>
+</LM>
+</comment>
 </m>
 </s>
 <s id="m-wsj0667-001-p1s6">
@@ -2294,7 +2307,7 @@
 <tag>
 <AM lemma="prostřednictví" src="auto">NNNP3-----A----</AM>
 <AM lemma="prostřednictví" src="auto" recommended="1">NNNS7-----A----</AM>
-<AM lemma="prostřednictvím" src="auto">RR--2----------</AM>
+<AM lemma="prostřednictvím" src="auto" selected="1">RR--2----------</AM>
 </tag>
 </m>
 <m id="m-wsj0667-001-p1s7W19-Ta">
@@ -2487,7 +2500,7 @@
 <tag>
 <AM lemma="prostřednictví" src="auto">NNNP3-----A----</AM>
 <AM lemma="prostřednictví" src="auto" recommended="1">NNNS7-----A----</AM>
-<AM lemma="prostřednictvím" src="auto">RR--2----------</AM>
+<AM lemma="prostřednictvím" src="auto" selected="1">RR--2----------</AM>
 </tag>
 </m>
 <m id="m-wsj0667-001-p1s7W34-Ta">

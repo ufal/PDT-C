@@ -27,7 +27,10 @@
 <LM>w#w-wsj1886-001-p1s0W2</LM>
 </w.rf>
 <form>Granges</form>
-<tag lemma="Granges_;S" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Granges_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Granges-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1886-001-p1s0W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -286,6 +289,7 @@
 <tag>
 <AM lemma="tartan" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="tartan" src="auto">NNIS4-----A----</AM>
+<AM lemma="Tartan_;K" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1886-001-p1s0W25-Ta">
@@ -349,7 +353,10 @@
 <LM>w#w-wsj1886-001-p1s1W2</LM>
 </w.rf>
 <form>Granges</form>
-<tag lemma="Granges_;S" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Granges_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Granges-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1886-001-p1s1W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -368,7 +375,10 @@
 <LM>w#w-wsj1886-001-p1s1W4</LM>
 </w.rf>
 <form>Vancouvru</form>
-<tag lemma="Vancouvru" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Vancouvru" src="auto">X@-------------</AM>
+<AM lemma="Vancouver_;G" src="manual" selected="1">NNIS6-----A---1</AM>
+</tag>
 </m>
 <m id="m-wsj1886-001-p1s1W5-Ta">
 <src.rf>tagger-a</src.rf>
@@ -562,6 +572,7 @@
 <tag>
 <AM lemma="tartan" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="tartan" src="auto">NNIS4-----A----</AM>
+<AM lemma="Tartan_;K" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1886-001-p1s2W3-Ta">
@@ -613,7 +624,7 @@
 <form>zlato</form>
 <tag>
 <AM lemma="zlato" src="auto" recommended="1">NNNS1-----A----</AM>
-<AM lemma="zlato" src="auto">NNNS4-----A----</AM>
+<AM lemma="zlato" src="auto" selected="1">NNNS4-----A----</AM>
 <AM lemma="zlato" src="auto">NNNS5-----A----</AM>
 </tag>
 </m>
@@ -970,7 +981,10 @@
 <LM>w#w-wsj1886-001-p1s3W2</LM>
 </w.rf>
 <form>Granges</form>
-<tag lemma="Granges_;S" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Granges_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Granges-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1886-001-p1s3W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1178,6 +1192,7 @@
 <tag>
 <AM lemma="tartan" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="tartan" src="auto">NNIS4-----A----</AM>
+<AM lemma="Tartan_;K" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1886-001-p1s3W16-Ta">
@@ -1441,7 +1456,10 @@
 <LM>w#w-wsj1886-001-p1s3W35</LM>
 </w.rf>
 <form>Windflower</form>
-<tag lemma="Windflower" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Windflower" src="auto">X@-------------</AM>
+<AM lemma="Windflower-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1886-001-p1s3W36-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1590,7 +1608,10 @@
 <LM>w#w-wsj1886-001-p1s4W2</LM>
 </w.rf>
 <form>Granges</form>
-<tag lemma="Granges_;S" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Granges_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Granges-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1886-001-p1s4W3-Ta">
 <src.rf>tagger-a</src.rf>

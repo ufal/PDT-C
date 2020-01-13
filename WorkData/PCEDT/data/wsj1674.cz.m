@@ -27,7 +27,10 @@
 <LM>w#w-wsj1674-001-p1s0W2</LM>
 </w.rf>
 <form>MARK</form>
-<tag lemma="Mark_;Y" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Mark_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="MARK-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1674-001-p1s0W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -35,7 +38,10 @@
 <LM>w#w-wsj1674-001-p1s0W3</LM>
 </w.rf>
 <form>RESOURCES</form>
-<tag lemma="RESOURCES" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="RESOURCES" src="auto">X@-------------</AM>
+<AM lemma="RESOURCES-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1674-001-p1s0W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -47,6 +53,7 @@
 <AM lemma="INC-88_:B" src="auto" recommended="1">NNXXX-----A----</AM>
 <AM lemma="Inc-77_:B" src="auto">F%-------------</AM>
 <AM lemma="inc-77_:B" src="auto">F%-------------</AM>
+<AM lemma="INC-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1674-001-p1s0W5-Ta">
@@ -420,7 +427,11 @@
 <LM>w#w-wsj1674-001-p1s1W2</LM>
 </w.rf>
 <form>Mark</form>
-<tag lemma="Mark_;Y" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Mark_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Mark_;S_;Y" src="manual">NNMS1-----A----</AM>
+<AM lemma="Mark-2_;K" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj1674-001-p1s1W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -578,6 +589,11 @@
 <AM lemma="15letý" src="auto">AANS4----1A----</AM>
 <AM lemma="15letý" src="auto">AANS5----1A----</AM>
 </tag>
+<comment>
+<LM type="Other">
+<text>špatná tokenizace</text>
+</LM>
+</comment>
 </m>
 <m id="m-wsj1674-001-p1s1W13-Ta">
 <src.rf>tagger-a</src.rf>
@@ -629,7 +645,7 @@
 <AM lemma="převoditelný_^(*8ést)" src="auto">AAFS2----1A----</AM>
 <AM lemma="převoditelný_^(*8ést)" src="auto">AAFS3----1A----</AM>
 <AM lemma="převoditelný_^(*8ést)" src="auto">AAFS6----1A----</AM>
-<AM lemma="převoditelný_^(*8ést)" src="auto">AAIP1----1A----</AM>
+<AM lemma="převoditelný_^(*8ést)" src="auto" selected="1">AAIP1----1A----</AM>
 <AM lemma="převoditelný_^(*8ést)" src="auto">AAIP4----1A----</AM>
 <AM lemma="převoditelný_^(*8ést)" src="auto">AAIP5----1A----</AM>
 <AM lemma="převoditelný_^(*8ést)" src="auto">AAMP4----1A----</AM>

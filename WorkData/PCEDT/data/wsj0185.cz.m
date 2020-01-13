@@ -32,6 +32,7 @@
 <AM lemma="Inter_;K" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Inter_;K" src="auto">NNIS4-----A----</AM>
 <AM lemma="inter" src="auto">A2--------A----</AM>
+<AM lemma="INTER-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj0185-001-p1s0W3-Ta">
@@ -57,6 +58,7 @@
 <AM lemma="telit" src="auto">Vi-S---2--A-I--</AM>
 <AM lemma="telit" src="auto">Vi-S---3--A-I-4</AM>
 <AM lemma="tlo_,n" src="auto">NNNP2-----A----</AM>
+<AM lemma="TEL-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj0185-001-p1s0W5-Ta">
@@ -68,6 +70,7 @@
 <tag>
 <AM lemma="Inc-77_:B" src="auto" recommended="1">F%-------------</AM>
 <AM lemma="inc-77_:B" src="auto">F%-------------</AM>
+<AM lemma="Inc-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj0185-001-p1s0W6-Ta">
@@ -92,7 +95,10 @@
 <LM>w#w-wsj0185-001-p1s0W8</LM>
 </w.rf>
 <form>Chandler</form>
-<tag lemma="Chandler_;S" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Chandler_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Chandler-2_;G" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj0185-001-p1s0W9-Ta">
 <src.rf>tagger-a</src.rf>
@@ -231,7 +237,10 @@
 <LM>w#w-wsj0185-001-p1s1W7</LM>
 </w.rf>
 <form>WayMar</form>
-<tag lemma="WayMar" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="WayMar" src="auto">X@-------------</AM>
+<AM lemma="WayMar-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0185-001-p1s1W8-Ta">
 <src.rf>tagger-a</src.rf>
@@ -239,7 +248,10 @@
 <LM>w#w-wsj0185-001-p1s1W8</LM>
 </w.rf>
 <form>Associates</form>
-<tag lemma="Associates" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Associates" src="auto">X@-------------</AM>
+<AM lemma="Associates-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0185-001-p1s1W9-Ta">
 <src.rf>tagger-a</src.rf>
@@ -402,7 +414,7 @@
 <form>počet</form>
 <tag>
 <AM lemma="počet" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="počet" src="auto">NNIS4-----A----</AM>
+<AM lemma="počet" src="auto" selected="1">NNIS4-----A----</AM>
 <AM lemma="počíst" src="auto">VmYS------A-P--</AM>
 </tag>
 </m>

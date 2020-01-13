@@ -990,7 +990,7 @@
 <form>za</form>
 <tag>
 <AM lemma="za" src="auto">RR--2----------</AM>
-<AM lemma="za" src="auto">RR--4----------</AM>
+<AM lemma="za" src="auto" selected="1">RR--4----------</AM>
 <AM lemma="za" src="auto" recommended="1">RR--7----------</AM>
 </tag>
 </m>
@@ -1014,7 +1014,7 @@
 <AM lemma="září" src="auto">NNNS1-----A----</AM>
 <AM lemma="září" src="auto">NNNS2-----A----</AM>
 <AM lemma="září" src="auto">NNNS3-----A----</AM>
-<AM lemma="září" src="auto">NNNS4-----A----</AM>
+<AM lemma="září" src="auto" selected="1">NNNS4-----A----</AM>
 <AM lemma="září" src="auto">NNNS5-----A----</AM>
 <AM lemma="září" src="auto">NNNS6-----A----</AM>
 </tag>
@@ -1041,7 +1041,7 @@
 <form>srpen</form>
 <tag>
 <AM lemma="srpen" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="srpen" src="auto">NNIS4-----A----</AM>
+<AM lemma="srpen" src="auto" selected="1">NNIS4-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0519-001-p1s3W25-Ta">

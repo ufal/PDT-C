@@ -167,6 +167,7 @@
 <tag>
 <AM lemma="Meredith_;S" src="auto">NNMS1-----A----</AM>
 <AM lemma="Meredith_;Y_,t" src="auto" recommended="1">NNFXX-----A----</AM>
+<AM lemma="Meredith-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1219-001-p1s0W15-Ta">
@@ -175,7 +176,10 @@
 <LM>w#w-wsj1219-001-p1s0W15</LM>
 </w.rf>
 <form>Corp</form>
-<tag lemma="corp-77_:B" src="auto" recommended="1">F%-------------</tag>
+<tag>
+<AM lemma="corp-77_:B" src="auto" recommended="1">F%-------------</AM>
+<AM lemma="Corp-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1219-001-p1s0W16-Ta">
 <src.rf>tagger-a</src.rf>
@@ -638,7 +642,7 @@
 <AM lemma="první" src="auto">CrFP4----------</AM>
 <AM lemma="první" src="auto">CrFP5----------</AM>
 <AM lemma="první" src="auto" recommended="1">CrFS1----------</AM>
-<AM lemma="první" src="auto">CrFS2----------</AM>
+<AM lemma="první" src="auto" selected="1">CrFS2----------</AM>
 <AM lemma="první" src="auto">CrFS3----------</AM>
 <AM lemma="první" src="auto">CrFS4----------</AM>
 <AM lemma="první" src="auto">CrFS5----------</AM>
@@ -674,7 +678,7 @@
 <AM lemma="instance" src="auto">NNFP4-----A----</AM>
 <AM lemma="instance" src="auto">NNFP5-----A----</AM>
 <AM lemma="instance" src="auto" recommended="1">NNFS1-----A----</AM>
-<AM lemma="instance" src="auto">NNFS2-----A----</AM>
+<AM lemma="instance" src="auto" selected="1">NNFS2-----A----</AM>
 <AM lemma="instance" src="auto">NNFS5-----A----</AM>
 </tag>
 </m>
@@ -710,7 +714,10 @@
 <LM>w#w-wsj1219-001-p1s1W11</LM>
 </w.rf>
 <form>Moines</form>
-<tag lemma="Moines-77_,t" src="auto" recommended="1">F%-------------</tag>
+<tag>
+<AM lemma="Moines-77_,t" src="auto" recommended="1">F%-------------</AM>
+<AM lemma="Moines-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1219-001-p1s1W12-Ta">
 <src.rf>tagger-a</src.rf>
@@ -788,8 +795,10 @@
 </w.rf>
 <form>Meredith</form>
 <tag>
-<AM lemma="Meredith_;S" src="auto">NNMS1-----A----</AM>
+<AM lemma="Meredith_;S" src="auto" selected="1">NNMS1-----A----</AM>
 <AM lemma="Meredith_;Y_,t" src="auto" recommended="1">NNFXX-----A----</AM>
+<AM lemma="Meredith_;K" src="manual">NNFXX-----A----</AM>
+<AM lemma="Meredith-3_;K" src="manual">NNFXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1219-001-p1s1W20-Ta">
@@ -1165,6 +1174,7 @@
 <tag>
 <AM lemma="Meredith_;S" src="auto">NNMS1-----A----</AM>
 <AM lemma="Meredith_;Y_,t" src="auto" recommended="1">NNFXX-----A----</AM>
+<AM lemma="Meredith-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1219-001-p1s2W8-Ta">
@@ -1173,7 +1183,10 @@
 <LM>w#w-wsj1219-001-p1s2W8</LM>
 </w.rf>
 <form>Relocation</form>
-<tag lemma="Relocation" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Relocation" src="auto">X@-------------</AM>
+<AM lemma="Relocation-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1219-001-p1s2W9-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1181,7 +1194,10 @@
 <LM>w#w-wsj1219-001-p1s2W9</LM>
 </w.rf>
 <form>Corp</form>
-<tag lemma="corp-77_:B" src="auto" recommended="1">F%-------------</tag>
+<tag>
+<AM lemma="corp-77_:B" src="auto" recommended="1">F%-------------</AM>
+<AM lemma="Corp-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1219-001-p1s2W10-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1809,6 +1825,7 @@
 <tag>
 <AM lemma="Meredith_;S" src="auto">NNMS1-----A----</AM>
 <AM lemma="Meredith_;Y_,t" src="auto" recommended="1">NNFXX-----A----</AM>
+<AM lemma="Meredith-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1219-001-p1s4W25-Ta">
@@ -1817,7 +1834,10 @@
 <LM>w#w-wsj1219-001-p1s4W25</LM>
 </w.rf>
 <form>Relocation</form>
-<tag lemma="Relocation" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Relocation" src="auto">X@-------------</AM>
+<AM lemma="Relocation-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1219-001-p1s4W26-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1907,7 +1927,7 @@
 <form>původní</form>
 <tag>
 <AM lemma="původní" src="auto">AAFP1----1A----</AM>
-<AM lemma="původní" src="auto">AAFP4----1A----</AM>
+<AM lemma="původní" src="auto" selected="1">AAFP4----1A----</AM>
 <AM lemma="původní" src="auto">AAFP5----1A----</AM>
 <AM lemma="původní" src="auto">AAFS1----1A----</AM>
 <AM lemma="původní" src="auto">AAFS2----1A----</AM>
@@ -2239,7 +2259,7 @@
 </w.rf>
 <form>Meredith</form>
 <tag>
-<AM lemma="Meredith_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Meredith_;S" src="auto" recommended="1" selected="1">NNMS1-----A----</AM>
 <AM lemma="Meredith_;Y_,t" src="auto">NNFXX-----A----</AM>
 </tag>
 </m>

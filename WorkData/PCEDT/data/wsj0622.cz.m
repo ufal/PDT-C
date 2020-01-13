@@ -113,7 +113,10 @@
 <LM>w#w-wsj0622-001-p1s0W8</LM>
 </w.rf>
 <form>USA</form>
-<tag lemma="USA_:B_;G_^(United_States_ofmerica)" src="auto" recommended="1">NNXXX-----A----</tag>
+<tag>
+<AM lemma="USA_:B_;G_^(United_States_ofmerica)" src="auto" recommended="1">NNXXX-----A----</AM>
+<AM lemma="USA_:B_;G_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj0622-001-p1s0W9-Ta">
 <src.rf>tagger-a</src.rf>
@@ -393,7 +396,7 @@
 <AM lemma="určený_^(*3it)" src="auto">AAFP5----1A----</AM>
 <AM lemma="určený_^(*3it)" src="auto" recommended="1">AAFS2----1A----</AM>
 <AM lemma="určený_^(*3it)" src="auto">AAFS3----1A----</AM>
-<AM lemma="určený_^(*3it)" src="auto">AAFS6----1A----</AM>
+<AM lemma="určený_^(*3it)" src="auto" selected="1">AAFS6----1A----</AM>
 <AM lemma="určený_^(*3it)" src="auto">AAIP1----1A----</AM>
 <AM lemma="určený_^(*3it)" src="auto">AAIP4----1A----</AM>
 <AM lemma="určený_^(*3it)" src="auto">AAIP5----1A----</AM>
@@ -414,7 +417,7 @@
 <form>Kongresu</form>
 <tag>
 <AM lemma="kongres" src="auto" recommended="1">NNIS2-----A----</AM>
-<AM lemma="kongres" src="auto">NNIS3-----A----</AM>
+<AM lemma="kongres" src="auto" selected="1">NNIS3-----A----</AM>
 <AM lemma="kongres" src="auto">NNIS6-----A---1</AM>
 </tag>
 </m>
@@ -576,7 +579,7 @@
 <AM lemma="známý-1_^(potkat_známého_[člověka])" src="auto">NNMS6-----A----</AM>
 <AM lemma="známý-2_^(co_známe)" src="auto" recommended="1">AAIS6----1A----</AM>
 <AM lemma="známý-2_^(co_známe)" src="auto">AAMS6----1A----</AM>
-<AM lemma="známý-2_^(co_známe)" src="auto">AANS6----1A----</AM>
+<AM lemma="známý-2_^(co_známe)" src="auto" selected="1">AANS6----1A----</AM>
 </tag>
 </m>
 <m id="m-wsj0622-001-p1s1W22-Ta">
@@ -752,7 +755,7 @@
 <form>možnost</form>
 <tag>
 <AM lemma="možnost_^(*3ý)" src="auto" recommended="1">NNFS1-----A----</AM>
-<AM lemma="možnost_^(*3ý)" src="auto">NNFS4-----A----</AM>
+<AM lemma="možnost_^(*3ý)" src="auto" selected="1">NNFS4-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0622-001-p1s1W36-Ta">
@@ -1182,7 +1185,7 @@
 <form>už</form>
 <tag>
 <AM lemma="už-1" src="auto" recommended="1">Db-------------</AM>
-<AM lemma="už-2" src="auto">TT-------------</AM>
+<AM lemma="už-2" src="auto" selected="1">TT-------------</AM>
 </tag>
 </m>
 <m id="m-wsj0622-001-p1s2W19-Ta">
@@ -2501,6 +2504,7 @@
 <tag>
 <AM lemma="Tchaj-1_;S_,t" src="auto">NNMXX-----A----</AM>
 <AM lemma="Tchaj-2_;G" src="auto" recommended="1">A2--------A----</AM>
+<AM lemma="Tchaj-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj0622-001-p1s6W9-Ta">
@@ -2518,7 +2522,7 @@
 </w.rf>
 <form>wanu</form>
 <tag>
-<AM lemma="wan_;G" src="auto">NNIS2-----A----</AM>
+<AM lemma="wan_;G" src="auto" selected="1">NNIS2-----A----</AM>
 <AM lemma="wan_;G" src="auto">NNIS3-----A----</AM>
 <AM lemma="wan_;G" src="auto" recommended="1">NNIS6-----A----</AM>
 </tag>
@@ -2736,6 +2740,7 @@
 <tag>
 <AM lemma="Tchaj-1_;S_,t" src="auto">NNMXX-----A----</AM>
 <AM lemma="Tchaj-2_;G" src="auto" recommended="1">A2--------A----</AM>
+<AM lemma="Tchaj-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj0622-001-p1s7W7-Ta">
@@ -2755,6 +2760,7 @@
 <tag>
 <AM lemma="wan_;G" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="wan_;G" src="auto">NNIS4-----A----</AM>
+<AM lemma="wan-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj0622-001-p1s7W9-Ta">

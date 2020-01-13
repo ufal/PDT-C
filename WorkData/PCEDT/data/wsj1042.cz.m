@@ -31,6 +31,7 @@
 <AM lemma="Avon_;G" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Avon_;G" src="auto">NNIS4-----A----</AM>
 <AM lemma="Avona_;G" src="auto">NNFP2-----A----</AM>
+<AM lemma="AVON-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1042-001-p1s0W3-Ta">
@@ -39,7 +40,10 @@
 <LM>w#w-wsj1042-001-p1s0W3</LM>
 </w.rf>
 <form>RENT</form>
-<tag lemma="renta" src="auto" recommended="1">NNFP2-----A----</tag>
+<tag>
+<AM lemma="renta" src="auto" recommended="1">NNFP2-----A----</AM>
+<AM lemma="RENT-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1042-001-p1s0W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -65,6 +69,7 @@
 <AM lemma="a-77_,t" src="auto">F%-------------</AM>
 <AM lemma="a-88_:B" src="auto">NNXXX-----A----</AM>
 <AM lemma="akciový" src="auto">AAXXX----1A---8</AM>
+<AM lemma="A-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1042-001-p1s0W6-Ta">
@@ -87,6 +92,7 @@
 <AM lemma="Carum" src="auto">NNNP2-----A----</AM>
 <AM lemma="car" src="auto">NNMS1-----A----</AM>
 <AM lemma="car-77" src="auto">F%-------------</AM>
+<AM lemma="CAR-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1042-001-p1s0W8-Ta">
@@ -106,6 +112,7 @@
 <tag>
 <AM lemma="truck" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="truck" src="auto">NNIS4-----A----</AM>
+<AM lemma="TRUCK-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1042-001-p1s0W10-Ta">
@@ -114,7 +121,10 @@
 <LM>w#w-wsj1042-001-p1s0W10</LM>
 </w.rf>
 <form>Corp</form>
-<tag lemma="corp-77_:B" src="auto" recommended="1">F%-------------</tag>
+<tag>
+<AM lemma="corp-77_:B" src="auto" recommended="1">F%-------------</AM>
+<AM lemma="Corp-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1042-001-p1s0W11-Ta">
 <src.rf>tagger-a</src.rf>
@@ -400,6 +410,7 @@
 <AM lemma="Santa-3_;Y" src="auto">NNFS1-----A----</AM>
 <AM lemma="Santo_;G_^(Santo_Domingo)" src="auto">NNNS2-----A----</AM>
 <AM lemma="Santa-1_,t_^(Santa_Claus)" src="auto" recommended="1">AAXXX----1A----</AM>
+<AM lemma="Santa-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1042-001-p1s1W7-Ta">
@@ -411,6 +422,7 @@
 <tag>
 <AM lemma="Monika_;Y" src="auto">NNFS3-----A----</AM>
 <AM lemma="Monika_;Y" src="auto" recommended="1">NNFS6-----A----</AM>
+<AM lemma="Monica-2_;G" src="manual" selected="1">NNFS6-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1042-001-p1s1W8-Ta">
@@ -442,7 +454,7 @@
 <AM lemma="Kalifornie_;G" src="auto">NNFP1-----A----</AM>
 <AM lemma="Kalifornie_;G" src="auto">NNFP4-----A----</AM>
 <AM lemma="Kalifornie_;G" src="auto">NNFP5-----A----</AM>
-<AM lemma="Kalifornie_;G" src="auto">NNFS1-----A----</AM>
+<AM lemma="Kalifornie_;G" src="auto" selected="1">NNFS1-----A----</AM>
 <AM lemma="Kalifornie_;G" src="auto" recommended="1">NNFS2-----A----</AM>
 <AM lemma="Kalifornie_;G" src="auto">NNFS5-----A----</AM>
 <AM lemma="kalifornie-2_^(druh_vepřovicové_usně)" src="auto">NNFP1-----A----</AM>
@@ -1155,6 +1167,7 @@
 <AM lemma="Avon_;G" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Avon_;G" src="auto">NNIS4-----A----</AM>
 <AM lemma="Avona_;G" src="auto">NNFP2-----A----</AM>
+<AM lemma="Avon_;G_;K" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1042-001-p1s5W3-Ta">

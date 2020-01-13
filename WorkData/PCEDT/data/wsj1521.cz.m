@@ -27,7 +27,10 @@
 <LM>w#w-wsj1521-001-p1s0W2</LM>
 </w.rf>
 <form>Chambers</form>
-<tag lemma="Chambers_;S" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Chambers_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Chambers-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1521-001-p1s0W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -38,6 +41,7 @@
 <tag>
 <AM lemma="development_,t_^(rozvoj)" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="development_,t_^(rozvoj)" src="auto">NNIS4-----A----</AM>
+<AM lemma="Development-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1521-001-p1s0W4-Ta">
@@ -54,6 +58,7 @@
 <AM lemma="co-4_^(který:_př.:_o_těch,_co_odešli/co_je_znal)" src="auto">P4XXX----------</AM>
 <AM lemma="co-5_^(př._co_nejméně,_co_nevidět,_co_chvíli,_co_do_počtu,_atd.)" src="auto">Db-------------</AM>
 <AM lemma="co-77_:B" src="auto">F%-------------</AM>
+<AM lemma="Co-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1521-001-p1s0W5-Ta">
@@ -122,7 +127,10 @@
 <LM>w#w-wsj1521-001-p1s0W11</LM>
 </w.rf>
 <form>Security</form>
-<tag lemma="Security" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Security" src="auto">X@-------------</AM>
+<AM lemma="Security-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1521-001-p1s0W12-Ta">
 <src.rf>tagger-a</src.rf>
@@ -130,7 +138,10 @@
 <LM>w#w-wsj1521-001-p1s0W12</LM>
 </w.rf>
 <form>Bureau</form>
-<tag lemma="Bureau" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Bureau" src="auto">X@-------------</AM>
+<AM lemma="Bureau-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1521-001-p1s0W13-Ta">
 <src.rf>tagger-a</src.rf>
@@ -141,6 +152,7 @@
 <tag>
 <AM lemma="Inc-77_:B" src="auto" recommended="1">F%-------------</AM>
 <AM lemma="inc-77_:B" src="auto">F%-------------</AM>
+<AM lemma="Inc-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1521-001-p1s0W14-Ta">
@@ -393,7 +405,7 @@
 <AM lemma="Koupě_;G" src="auto">NNFP1-----A----</AM>
 <AM lemma="Koupě_;G" src="auto">NNFP4-----A----</AM>
 <AM lemma="Koupě_;G" src="auto">NNFP5-----A----</AM>
-<AM lemma="Koupě_;G" src="auto">NNFS1-----A----</AM>
+<AM lemma="Koupě_;G" src="auto" selected="1">NNFS1-----A----</AM>
 <AM lemma="Koupě_;G" src="auto">NNFS2-----A----</AM>
 <AM lemma="Koupě_;G" src="auto">NNFS5-----A----</AM>
 <AM lemma="koupě_^(př._byla_to_dobrá_koupě)" src="auto" recommended="1">NNFP1-----A----</AM>
@@ -485,6 +497,7 @@
 <AM lemma="Fort_;S" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="fort" src="auto">NNIS1-----A----</AM>
 <AM lemma="fort" src="auto">NNIS4-----A----</AM>
+<AM lemma="Fort-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1521-001-p1s1W10-Ta">
@@ -497,6 +510,7 @@
 <AM lemma="Lauderdale_;G_,t" src="auto">NNXXX-----A----</AM>
 <AM lemma="Lauderdale_;S" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Lauderdale_;S" src="auto">NNMS5-----A----</AM>
+<AM lemma="Lauderdale-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1521-001-p1s1W11-Ta">
@@ -520,7 +534,7 @@
 </w.rf>
 <form>West</form>
 <tag>
-<AM lemma="West-77" src="auto">F%-------------</AM>
+<AM lemma="West-77" src="auto" selected="1">F%-------------</AM>
 <AM lemma="West_;S" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="west-77" src="auto">F%-------------</AM>
 </tag>
@@ -531,7 +545,10 @@
 <LM>w#w-wsj1521-001-p1s1W13</LM>
 </w.rf>
 <form>Palm</form>
-<tag lemma="Palm_;G_,t_^(např._Palm_Beach)" src="auto" recommended="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="Palm_;G_,t_^(např._Palm_Beach)" src="auto" recommended="1">AAXXX----1A----</AM>
+<AM lemma="Palm-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1521-001-p1s1W14-Ta">
 <src.rf>tagger-a</src.rf>
@@ -543,6 +560,7 @@
 <AM lemma="beach-1_,t_^(plážový_volejbal)" src="auto">NNIS1-----A----</AM>
 <AM lemma="beach-1_,t_^(plážový_volejbal)" src="auto">NNIS4-----A----</AM>
 <AM lemma="beach-2_,t" src="auto" recommended="1">AAXXX----1A----</AM>
+<AM lemma="Beach-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1521-001-p1s1W15-Ta">
@@ -633,7 +651,10 @@
 <LM>w#w-wsj1521-001-p1s1W22</LM>
 </w.rf>
 <form>Chambers</form>
-<tag lemma="Chambers_;S" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Chambers_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Chambers-3_;K" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj1521-001-p1s1W23-Ta">
 <src.rf>tagger-a</src.rf>
